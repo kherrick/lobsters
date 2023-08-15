@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
+* [2023-08-15, 22:16:08](https://lobste.rs/s/ai9sv5/xml_dom_with_just_8_bytes_per_node_2020) - [An XML DOM with just 8 bytes per node (2020)](https://blog.grijjy.com/2020/10/07/an-xml-dom-with-just-8-bytes-per-node/)
 * [2023-08-15, 21:49:29](https://lobste.rs/s/ohewtv/vimwiki_server_sinatra_server_creates) - [vimwiki-server: Sinatra server that creates a web server from a vimwiki directory](https://github.com/mattrose/vimwiki-server)
 * [2023-08-15, 21:30:55](https://lobste.rs/s/as1wez/pine_64_august_update) - [Pine 64: August Update](https://www.pine64.org/2023/08/15/august-update-kept-you-waiting-huh/)
 * [2023-08-15, 20:46:17](https://lobste.rs/s/n4v6a8/you_don_t_hate_jira_you_hate_your_manager) - [You don't hate JIRA, you hate your manager](https://jarvispowered.com/you-dont-hate-jira-you-hate-your-manager/)
