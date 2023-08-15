@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
+* [2023-08-15, 19:37:51](https://lobste.rs/s/qizqkc/xs_leaks_what_they_are_how_avoid_them) - [XS leaks: What they are and how to avoid them](https://snyk.io/blog/xs-leaks/)
 * [2023-08-15, 19:25:03](https://lobste.rs/s/pndcm0/building_digital_camera_from_scratch) - [Building a digital camera from scratch](https://www.youtube.com/watch?v=Ma9FrN5COIo)
 * [2023-08-15, 19:23:36](https://lobste.rs/s/spsx4c/goals_failure_modes_for_rfcs_technical) - [Goals and Failure Modes for RFCs and Technical Design Documents](https://medium.com/@mikecvet/goals-and-failure-modes-for-rfcs-and-technical-design-documents-c4ee1d1da6ff)
 * [2023-08-15, 18:17:27](https://lobste.rs/s/h6vioy/how_we_reduced_cost_building_twitter_at) - [How we reduced the cost of building Twitter at Twitter-scale by 100x](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
