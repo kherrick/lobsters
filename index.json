@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-15, 17:29:33",
+      "https://lobste.rs/s/azmakp/secure_your_django_site_with_zero_trust"
+    ],
+    [
+      "Secure Your Django site with a Zero Trust overlay",
+      "https://blog.openziti.io/got-5-minutes-secure-your-python-website-with-zero-trust"
+    ]
+  ],
+  [
+    [
       "2023-08-15, 17:21:29",
       "https://lobste.rs/s/pa5irc/normal_week_tech"
     ],
@@ -97,16 +107,6 @@
     [
       "The art of the (sub-)pixel",
       "https://hugodaniel.com/posts/sub-problems-sub-pixels/"
-    ]
-  ],
-  [
-    [
-      "2023-08-15, 05:24:45",
-      "https://lobste.rs/s/cd8wcn/outlines_generative_model_programming"
-    ],
-    [
-      "outlines: Generative Model Programming",
-      "https://github.com/normal-computing/outlines"
     ]
   ],
   [
