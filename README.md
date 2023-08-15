@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-15, 18:17:27](https://lobste.rs/s/h6vioy/how_we_reduced_cost_building_twitter_at) - [How we reduced the cost of building Twitter at Twitter-scale by 100x](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
 * [2023-08-15, 18:04:14](https://lobste.rs/s/hzxrhz/anna_s_archive_containers_aac) - [Anna’s Archive Containers (AAC): standardizing releases from the world’s largest shadow library](https://annas-blog.org/annas-archive-containers.html)
 * [2023-08-15, 17:52:45](https://lobste.rs/s/xant8x/wine_s_pe_unix_interface) - [Wine's PE -> UNIX Interface](https://blog.hiler.eu/wine-pe-to-unix/)
 * [2023-08-15, 17:38:13](https://lobste.rs/s/omudnm/monch_inspired_by_nom_specifically_for) - [monch: Inspired by nom, but specifically for strings](https://github.com/denoland/monch)
@@ -16,7 +17,6 @@
 * [2023-08-15, 09:08:32](https://lobste.rs/s/hkbxx4/art_sub_pixel) - [The art of the (sub-)pixel](https://hugodaniel.com/posts/sub-problems-sub-pixels/)
 * [2023-08-15, 00:16:00](https://lobste.rs/s/fil26z/writing_lambda_calculus_interpreter) - [Writing a lambda calculus interpreter in Rust](https://prose.nsood.in/rust-lambda)
 * [2023-08-14, 22:49:33](https://lobste.rs/s/qup385/3_advantages_running_freebsd_as_your) - [3 Advantages to Running FreeBSD as Your Server Operating System](https://klarasystems.com/articles/freebsd-3-advantages-to-running-freebsd-as-your-server-operating-system/)
-* [2023-08-14, 20:40:03](https://lobste.rs/s/103oug/why_dot_when_calling_anonymous_functions) - [Why the dot (when calling anonymous functions)?](https://dashbit.co/blog/why-the-dot)
 * [2023-08-14, 16:42:57](https://lobste.rs/s/c990od/backward_compatibility_go_1_21_go_2) - [Backward Compatibility, Go 1.21, and Go 2](https://go.dev/blog/compat)
 * [2023-08-14, 15:46:20](https://lobste.rs/s/jwjmup/how_they_bypass_youtube_video_download) - [How They Bypass YouTube Video Download Throttling](https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling/)
 * [2023-08-14, 14:28:16](https://lobste.rs/s/er4lbr/lapce_lightning_fast_powerful_code) - [Lapce: Lightning-fast and Powerful Code Editor written in Rust](https://github.com/lapce/lapce)
