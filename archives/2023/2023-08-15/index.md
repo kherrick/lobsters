@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
+* [2023-08-15, 21:30:55](https://lobste.rs/s/as1wez/pine_64_august_update) - [Pine 64: August Update](https://www.pine64.org/2023/08/15/august-update-kept-you-waiting-huh/)
 * [2023-08-15, 20:46:17](https://lobste.rs/s/n4v6a8/you_don_t_hate_jira_you_hate_your_manager) - [You don't hate JIRA, you hate your manager](https://jarvispowered.com/you-dont-hate-jira-you-hate-your-manager/)
 * [2023-08-15, 19:37:51](https://lobste.rs/s/qizqkc/xs_leaks_what_they_are_how_avoid_them) - [XS leaks: What they are and how to avoid them](https://snyk.io/blog/xs-leaks/)
 * [2023-08-15, 19:25:03](https://lobste.rs/s/pndcm0/building_digital_camera_from_scratch) - [Building a digital camera from scratch](https://www.youtube.com/watch?v=Ma9FrN5COIo)
