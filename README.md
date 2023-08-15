@@ -3,6 +3,7 @@
 * [2023-08-15, 00:16:00](https://lobste.rs/s/fil26z/writing_lambda_calculus_interpreter) - [Writing a lambda calculus interpreter in Rust](https://prose.nsood.in/rust-lambda)
 * [2023-08-14, 23:34:56](https://lobste.rs/s/ajfvc9/performance_analysis_dtrace_on_freebsd) - [Performance Analysis of DTrace on FreeBSD and eBPF on Linux](https://www.youtube.com/watch?v=fM2UGCCqL7g)
 * [2023-08-14, 22:49:33](https://lobste.rs/s/qup385/3_advantages_running_freebsd_as_your) - [3 Advantages to Running FreeBSD as Your Server Operating System](https://klarasystems.com/articles/freebsd-3-advantages-to-running-freebsd-as-your-server-operating-system/)
+* [2023-08-14, 22:48:23](https://lobste.rs/s/qqz0c7/freebsd_setup_simple_actually_working) - [FreeBSD: Setup Simple and Actually Working Wireguard Server](https://herrbischoff.com/2023/04/freebsd-how-to-set-up-a-simple-and-actually-working-wireguard-server/)
 * [2023-08-14, 21:17:18](https://lobste.rs/s/ufrsif/forward_compatibility_toolchain) - [Forward Compatibility and Toolchain Management in Go 1.21](https://go.dev/blog/toolchain)
 * [2023-08-14, 21:11:51](https://lobste.rs/s/5eduwc/universal_test_runner_language_agnostic) - [universal-test-runner: A language-agnostic, zero-configuration test invoker](https://github.com/xavdid/universal-test-runner)
 * [2023-08-14, 20:40:03](https://lobste.rs/s/103oug/why_dot_when_calling_anonymous_functions) - [Why the dot (when calling anonymous functions)?](https://dashbit.co/blog/why-the-dot)
@@ -24,7 +25,6 @@
 * [2023-08-14, 04:45:19](https://lobste.rs/s/bkn3al/emulating_x86_on_x64_on_aarch64) - [Emulating x86 on x64 on aarch64](https://neugierig.org/software/blog/2023/08/x86-x64-aarch64.html)
 * [2023-08-13, 23:24:32](https://lobste.rs/s/hwod7r/on_bash_one_liners_unmaintained_go_mod) - [On bash one-liners: unmaintained go.mod dependencies](https://blog.fredrb.com/2023/08/13/bash-one-liner-gomod/)
 * [2023-08-13, 17:53:02](https://lobste.rs/s/sra8zc/fantastic_learning_resources) - [Fantastic Learning Resources](https://matklad.github.io/2023/08/06/fantastic-learning-resources.html)
-* [2023-08-13, 15:52:39](https://lobste.rs/s/uyeqvt/world_which_ipv6_was_good_design_2017) - [The world in which IPv6 was a good design (2017)](https://apenwarr.ca/log/20170810)
 
 ## [Archives](archives/index.md)
 

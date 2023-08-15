@@ -7,6 +7,7 @@
 * [2023-08-14, 23:34:56](https://lobste.rs/s/ajfvc9/performance_analysis_dtrace_on_freebsd) - [Performance Analysis of DTrace on FreeBSD and eBPF on Linux](https://www.youtube.com/watch?v=fM2UGCCqL7g)
 * [2023-08-14, 22:49:51](https://lobste.rs/s/jusqeb/howto_diskless_freebsd_setup) - [Howto Diskless FreeBSD Setup](https://www.linkedin.com/pulse/howto-diskless-freebsd-setup-vigneshwaran-ravichandran/)
 * [2023-08-14, 22:49:33](https://lobste.rs/s/qup385/3_advantages_running_freebsd_as_your) - [3 Advantages to Running FreeBSD as Your Server Operating System](https://klarasystems.com/articles/freebsd-3-advantages-to-running-freebsd-as-your-server-operating-system/)
+* [2023-08-14, 22:48:23](https://lobste.rs/s/qqz0c7/freebsd_setup_simple_actually_working) - [FreeBSD: Setup Simple and Actually Working Wireguard Server](https://herrbischoff.com/2023/04/freebsd-how-to-set-up-a-simple-and-actually-working-wireguard-server/)
 * [2023-08-14, 21:17:18](https://lobste.rs/s/ufrsif/forward_compatibility_toolchain) - [Forward Compatibility and Toolchain Management in Go 1.21](https://go.dev/blog/toolchain)
 * [2023-08-14, 21:11:51](https://lobste.rs/s/5eduwc/universal_test_runner_language_agnostic) - [universal-test-runner: A language-agnostic, zero-configuration test invoker](https://github.com/xavdid/universal-test-runner)
 * [2023-08-14, 20:40:03](https://lobste.rs/s/103oug/why_dot_when_calling_anonymous_functions) - [Why the dot (when calling anonymous functions)?](https://dashbit.co/blog/why-the-dot)
