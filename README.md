@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-15, 14:22:02](https://lobste.rs/s/r1gj0v/forging_leptos_query) - [Forging Leptos Query](https://www.nicoburniske.com/thoughts/forging_leptos_query)
 * [2023-08-15, 11:33:06](https://lobste.rs/s/b3nupr/ai_town_run_your_own_custom_ai_world_sim) - [AI-town: Run your own custom AI world sim with JavaScript](https://github.com/a16z-infra/ai-town)
 * [2023-08-15, 09:08:32](https://lobste.rs/s/hkbxx4/art_sub_pixel) - [The art of the (sub-)pixel](https://hugodaniel.com/posts/sub-problems-sub-pixels/)
 * [2023-08-15, 05:24:45](https://lobste.rs/s/cd8wcn/outlines_generative_model_programming) - [outlines: Generative Model Programming](https://github.com/normal-computing/outlines)
@@ -19,7 +20,6 @@
 * [2023-08-14, 11:37:30](https://lobste.rs/s/39lroq/better_builds_with_make_beginner_s_guide) - [Better Builds with Make: A Beginner's Guide](https://dev.to/danielrbradley/better-builds-with-make-a-beginners-guide-1n0)
 * [2023-08-14, 10:50:29](https://lobste.rs/s/oisdzs/typescript_for_c) - [A TypeScript for C++](https://herbsutter.com/2023/08/13/my-c-now-2023-talk-is-online-a-typescript-for-c/)
 * [2023-08-14, 10:21:33](https://lobste.rs/s/7snmsy/new_responsibilities) - [New responsibilities](https://www.hadess.net/2023/08/new-responsibilities.html)
-* [2023-08-14, 10:00:27](https://lobste.rs/s/l00r1n/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/l00r1n/what_are_you_doing_this_week)
 * [2023-08-14, 09:38:54](https://lobste.rs/s/lxkkub/fennel_programming_language_survey_2023) - [the Fennel programming language survey (2023)](https://fennel-lang.org/survey/)
 * [2023-08-14, 09:12:49](https://lobste.rs/s/mehlbg/mach_v0_2_released_zig_game_engine) - [Mach v0.2 released - Zig game engine & graphics toolkit](https://devlog.hexops.com/2023/mach-v0.2-released/)
 * [2023-08-14, 07:51:56](https://lobste.rs/s/vmpcji/don_t_be_clever) - [Don't be clever](https://stitcher.io/blog/dont-be-clever)
