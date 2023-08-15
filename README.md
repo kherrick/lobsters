@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-15, 05:24:45](https://lobste.rs/s/cd8wcn/outlines_generative_model_programming) - [outlines: Generative Model Programming](https://github.com/normal-computing/outlines)
 * [2023-08-15, 01:08:29](https://lobste.rs/s/iixwxb/265sxb_guide_most_very_unofficial_guide) - [265SXB-Guide: A Most Very Unofficial Guide to the W65C265SXB (65816)](https://github.com/scotws/265SXB-Guide)
 * [2023-08-15, 00:57:11](https://lobste.rs/s/ja3qed/xerox_parc_metaobject_protocol_for_c_1995) - [Xerox PARC: A Metaobject Protocol for C++ (1995)](https://dl.acm.org/doi/pdf/10.1145/217838.217868)
 * [2023-08-15, 00:16:00](https://lobste.rs/s/fil26z/writing_lambda_calculus_interpreter) - [Writing a lambda calculus interpreter in Rust](https://prose.nsood.in/rust-lambda)
 * [2023-08-14, 23:34:56](https://lobste.rs/s/ajfvc9/performance_analysis_dtrace_on_freebsd) - [Performance Analysis of DTrace on FreeBSD and eBPF on Linux](https://www.youtube.com/watch?v=fM2UGCCqL7g)
-* [2023-08-14, 22:49:33](https://lobste.rs/s/qup385/3_advantages_running_freebsd_as_your) - [3 Advantages to Running FreeBSD as Your Server Operating System](https://klarasystems.com/articles/freebsd-3-advantages-to-running-freebsd-as-your-server-operating-system/)
 * [2023-08-14, 21:17:18](https://lobste.rs/s/ufrsif/forward_compatibility_toolchain) - [Forward Compatibility and Toolchain Management in Go 1.21](https://go.dev/blog/toolchain)
 * [2023-08-14, 20:40:03](https://lobste.rs/s/103oug/why_dot_when_calling_anonymous_functions) - [Why the dot (when calling anonymous functions)?](https://dashbit.co/blog/why-the-dot)
 * [2023-08-14, 16:42:57](https://lobste.rs/s/c990od/backward_compatibility_go_1_21_go_2) - [Backward Compatibility, Go 1.21, and Go 2](https://go.dev/blog/compat)
