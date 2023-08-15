@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
+* [2023-08-15, 17:29:33](https://lobste.rs/s/azmakp/secure_your_django_site_with_zero_trust) - [Secure Your Django site with a Zero Trust overlay](https://blog.openziti.io/got-5-minutes-secure-your-python-website-with-zero-trust)
 * [2023-08-15, 17:21:29](https://lobste.rs/s/pa5irc/normal_week_tech) - [A normal week (in tech)](https://blog.ignaciobrasca.com/work/2023/05/01/a-normal-week.html)
 * [2023-08-15, 16:57:15](https://lobste.rs/s/uf9sqm/evaluating_language_model_agents_on) - [Evaluating Language-Model Agents on Realistic Autonomous Tasks](https://evals.alignment.org/blog/2023-08-01-new-report/)
 * [2023-08-15, 16:34:33](https://lobste.rs/s/id9jet/transpiler_meaningless_word) - [Transpiler, a meaningless word](https://rachit.pl/post/transpiler/)

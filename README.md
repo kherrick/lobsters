@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-15, 17:29:33](https://lobste.rs/s/azmakp/secure_your_django_site_with_zero_trust) - [Secure Your Django site with a Zero Trust overlay](https://blog.openziti.io/got-5-minutes-secure-your-python-website-with-zero-trust)
 * [2023-08-15, 17:21:29](https://lobste.rs/s/pa5irc/normal_week_tech) - [A normal week (in tech)](https://blog.ignaciobrasca.com/work/2023/05/01/a-normal-week.html)
 * [2023-08-15, 16:57:15](https://lobste.rs/s/uf9sqm/evaluating_language_model_agents_on) - [Evaluating Language-Model Agents on Realistic Autonomous Tasks](https://evals.alignment.org/blog/2023-08-01-new-report/)
 * [2023-08-15, 16:34:33](https://lobste.rs/s/id9jet/transpiler_meaningless_word) - [Transpiler, a meaningless word](https://rachit.pl/post/transpiler/)
@@ -10,7 +11,6 @@
 * [2023-08-15, 14:22:02](https://lobste.rs/s/r1gj0v/forging_leptos_query) - [Forging Leptos Query](https://www.nicoburniske.com/thoughts/forging_leptos_query)
 * [2023-08-15, 11:33:06](https://lobste.rs/s/b3nupr/ai_town_run_your_own_custom_ai_world_sim) - [AI-town: Run your own custom AI world sim with JavaScript](https://github.com/a16z-infra/ai-town)
 * [2023-08-15, 09:08:32](https://lobste.rs/s/hkbxx4/art_sub_pixel) - [The art of the (sub-)pixel](https://hugodaniel.com/posts/sub-problems-sub-pixels/)
-* [2023-08-15, 05:24:45](https://lobste.rs/s/cd8wcn/outlines_generative_model_programming) - [outlines: Generative Model Programming](https://github.com/normal-computing/outlines)
 * [2023-08-15, 00:16:00](https://lobste.rs/s/fil26z/writing_lambda_calculus_interpreter) - [Writing a lambda calculus interpreter in Rust](https://prose.nsood.in/rust-lambda)
 * [2023-08-14, 22:49:33](https://lobste.rs/s/qup385/3_advantages_running_freebsd_as_your) - [3 Advantages to Running FreeBSD as Your Server Operating System](https://klarasystems.com/articles/freebsd-3-advantages-to-running-freebsd-as-your-server-operating-system/)
 * [2023-08-14, 21:17:18](https://lobste.rs/s/ufrsif/forward_compatibility_toolchain) - [Forward Compatibility and Toolchain Management in Go 1.21](https://go.dev/blog/toolchain)
