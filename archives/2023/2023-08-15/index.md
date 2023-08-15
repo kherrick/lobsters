@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
+* [2023-08-15, 17:21:29](https://lobste.rs/s/pa5irc/normal_week_tech) - [A normal week (in tech)](https://blog.ignaciobrasca.com/work/2023/05/01/a-normal-week.html)
 * [2023-08-15, 16:57:15](https://lobste.rs/s/uf9sqm/evaluating_language_model_agents_on) - [Evaluating Language-Model Agents on Realistic Autonomous Tasks](https://evals.alignment.org/blog/2023-08-01-new-report/)
 * [2023-08-15, 16:34:33](https://lobste.rs/s/id9jet/transpiler_meaningless_word) - [Transpiler, a meaningless word](https://rachit.pl/post/transpiler/)
 * [2023-08-15, 16:31:13](https://lobste.rs/s/ofc9nr/opentf_manifesto) - [The OpenTF Manifesto](https://opentf.org/)
