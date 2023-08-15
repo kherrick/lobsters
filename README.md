@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-15, 16:34:33](https://lobste.rs/s/id9jet/transpiler_meaningless_word) - [Transpiler, a meaningless word](https://rachit.pl/post/transpiler/)
 * [2023-08-15, 16:31:13](https://lobste.rs/s/ofc9nr/opentf_manifesto) - [The OpenTF Manifesto](https://opentf.org/)
 * [2023-08-15, 16:16:09](https://lobste.rs/s/stcmun/datasette_write_ui_datasette_plugin_for) - [datasette-write-ui: a Datasette plugin for editing, inserting, and deleting rows](https://www.datasette.cloud/blog/2023/datasette-write-ui/)
 * [2023-08-15, 15:15:41](https://lobste.rs/s/typaau/libbpf_rs_ebpf_for_rust_ecosystem) - [libbpf-rs: eBPF for the Rust ecosystem](https://dxuuu.xyz/libbpf-rs.html)
@@ -16,7 +17,6 @@
 * [2023-08-14, 20:40:03](https://lobste.rs/s/103oug/why_dot_when_calling_anonymous_functions) - [Why the dot (when calling anonymous functions)?](https://dashbit.co/blog/why-the-dot)
 * [2023-08-14, 16:42:57](https://lobste.rs/s/c990od/backward_compatibility_go_1_21_go_2) - [Backward Compatibility, Go 1.21, and Go 2](https://go.dev/blog/compat)
 * [2023-08-14, 15:46:20](https://lobste.rs/s/jwjmup/how_they_bypass_youtube_video_download) - [How They Bypass YouTube Video Download Throttling](https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling/)
-* [2023-08-14, 15:41:56](https://lobste.rs/s/qk2ou4/i_built_garbage_collector_for_language) - [I built a garbage collector for a language that doesn’t need one](https://claytonwramsey.github.io/2023/08/14/dumpster.html)
 * [2023-08-14, 14:28:16](https://lobste.rs/s/er4lbr/lapce_lightning_fast_powerful_code) - [Lapce: Lightning-fast and Powerful Code Editor written in Rust](https://github.com/lapce/lapce)
 * [2023-08-14, 14:11:05](https://lobste.rs/s/tbezzb/ast_vs_bytecode_interpreters_age_meta) - [AST vs. Bytecode: Interpreters in the Age of Meta-Compilation](https://stefan-marr.de/downloads/oopsla23-larose-et-al-ast-vs-bytecode-interpreters-in-the-age-of-meta-compilation.pdf)
 * [2023-08-14, 12:29:52](https://lobste.rs/s/11k4ri/how_should_i_read_type_system_notation) - [How should I read type system notation?](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation)
