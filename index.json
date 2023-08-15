@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-15, 09:08:32",
+      "https://lobste.rs/s/hkbxx4/art_sub_pixel"
+    ],
+    [
+      "The art of the (sub-)pixel",
+      "https://hugodaniel.com/posts/sub-problems-sub-pixels/"
+    ]
+  ],
+  [
+    [
       "2023-08-15, 05:24:45",
       "https://lobste.rs/s/cd8wcn/outlines_generative_model_programming"
     ],
@@ -217,16 +227,6 @@
     [
       "Create and share playable quotes of Game Boy games",
       "https://tenmile.quote.games/"
-    ]
-  ],
-  [
-    [
-      "2023-08-14, 04:45:19",
-      "https://lobste.rs/s/bkn3al/emulating_x86_on_x64_on_aarch64"
-    ],
-    [
-      "Emulating x86 on x64 on aarch64",
-      "https://neugierig.org/software/blog/2023/08/x86-x64-aarch64.html"
     ]
   ],
   [
