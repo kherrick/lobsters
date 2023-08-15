@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-15, 16:57:15](https://lobste.rs/s/uf9sqm/evaluating_language_model_agents_on) - [Evaluating Language-Model Agents on Realistic Autonomous Tasks](https://evals.alignment.org/blog/2023-08-01-new-report/)
 * [2023-08-15, 16:34:33](https://lobste.rs/s/id9jet/transpiler_meaningless_word) - [Transpiler, a meaningless word](https://rachit.pl/post/transpiler/)
-* [2023-08-15, 16:31:13](https://lobste.rs/s/ofc9nr/opentf_manifesto) - [The OpenTF Manifesto](https://opentf.org/)
 * [2023-08-15, 16:16:09](https://lobste.rs/s/stcmun/datasette_write_ui_datasette_plugin_for) - [datasette-write-ui: a Datasette plugin for editing, inserting, and deleting rows](https://www.datasette.cloud/blog/2023/datasette-write-ui/)
 * [2023-08-15, 15:15:41](https://lobste.rs/s/typaau/libbpf_rs_ebpf_for_rust_ecosystem) - [libbpf-rs: eBPF for the Rust ecosystem](https://dxuuu.xyz/libbpf-rs.html)
 * [2023-08-15, 14:54:02](https://lobste.rs/s/gmcuyl/open_enterprise_linux_association) - [Open Enterprise Linux Association](https://lobste.rs/s/gmcuyl/open_enterprise_linux_association)
