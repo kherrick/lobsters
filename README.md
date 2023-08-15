@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-15, 21:49:29](https://lobste.rs/s/ohewtv/vimwiki_server_sinatra_server_creates) - [vimwiki-server: Sinatra server that creates a web server from a vimwiki directory](https://github.com/mattrose/vimwiki-server)
 * [2023-08-15, 21:30:55](https://lobste.rs/s/as1wez/pine_64_august_update) - [Pine 64: August Update](https://www.pine64.org/2023/08/15/august-update-kept-you-waiting-huh/)
 * [2023-08-15, 20:46:17](https://lobste.rs/s/n4v6a8/you_don_t_hate_jira_you_hate_your_manager) - [You don't hate JIRA, you hate your manager](https://jarvispowered.com/you-dont-hate-jira-you-hate-your-manager/)
 * [2023-08-15, 19:25:03](https://lobste.rs/s/pndcm0/building_digital_camera_from_scratch) - [Building a digital camera from scratch](https://www.youtube.com/watch?v=Ma9FrN5COIo)
@@ -22,7 +23,6 @@
 * [2023-08-14, 15:46:20](https://lobste.rs/s/jwjmup/how_they_bypass_youtube_video_download) - [How They Bypass YouTube Video Download Throttling](https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling/)
 * [2023-08-14, 14:28:16](https://lobste.rs/s/er4lbr/lapce_lightning_fast_powerful_code) - [Lapce: Lightning-fast and Powerful Code Editor written in Rust](https://github.com/lapce/lapce)
 * [2023-08-14, 12:29:52](https://lobste.rs/s/11k4ri/how_should_i_read_type_system_notation) - [How should I read type system notation?](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation)
-* [2023-08-14, 11:37:30](https://lobste.rs/s/39lroq/better_builds_with_make_beginner_s_guide) - [Better Builds with Make: A Beginner's Guide](https://dev.to/danielrbradley/better-builds-with-make-a-beginners-guide-1n0)
 * [2023-08-14, 09:38:54](https://lobste.rs/s/lxkkub/fennel_programming_language_survey_2023) - [the Fennel programming language survey (2023)](https://fennel-lang.org/survey/)
 * [2023-08-14, 07:51:56](https://lobste.rs/s/vmpcji/don_t_be_clever) - [Don't be clever](https://stitcher.io/blog/dont-be-clever)
 
