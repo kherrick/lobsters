@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-15, 14:39:20](https://lobste.rs/s/gyxvtw/building_wasm_web_ui_with_rust_leptos) - [Building WASM web UI with Rust and Leptos](https://www.rustadventure.dev/building-wasm-web-ui-with-rust-and-leptos)
 * [2023-08-15, 14:22:02](https://lobste.rs/s/r1gj0v/forging_leptos_query) - [Forging Leptos Query](https://www.nicoburniske.com/thoughts/forging_leptos_query)
 * [2023-08-15, 11:33:06](https://lobste.rs/s/b3nupr/ai_town_run_your_own_custom_ai_world_sim) - [AI-town: Run your own custom AI world sim with JavaScript](https://github.com/a16z-infra/ai-town)
 * [2023-08-15, 09:08:32](https://lobste.rs/s/hkbxx4/art_sub_pixel) - [The art of the (sub-)pixel](https://hugodaniel.com/posts/sub-problems-sub-pixels/)
@@ -23,7 +24,6 @@
 * [2023-08-14, 09:38:54](https://lobste.rs/s/lxkkub/fennel_programming_language_survey_2023) - [the Fennel programming language survey (2023)](https://fennel-lang.org/survey/)
 * [2023-08-14, 09:12:49](https://lobste.rs/s/mehlbg/mach_v0_2_released_zig_game_engine) - [Mach v0.2 released - Zig game engine & graphics toolkit](https://devlog.hexops.com/2023/mach-v0.2-released/)
 * [2023-08-14, 07:51:56](https://lobste.rs/s/vmpcji/don_t_be_clever) - [Don't be clever](https://stitcher.io/blog/dont-be-clever)
-* [2023-08-14, 07:49:14](https://lobste.rs/s/qb6oxw/create_share_playable_quotes_game_boy) - [Create and share playable quotes of Game Boy games](https://tenmile.quote.games/)
 * [2023-08-13, 23:24:32](https://lobste.rs/s/hwod7r/on_bash_one_liners_unmaintained_go_mod) - [On bash one-liners: unmaintained go.mod dependencies](https://blog.fredrb.com/2023/08/13/bash-one-liner-gomod/)
 
 ## [Archives](archives/index.md)

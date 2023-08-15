@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
+* [2023-08-15, 14:39:20](https://lobste.rs/s/gyxvtw/building_wasm_web_ui_with_rust_leptos) - [Building WASM web UI with Rust and Leptos](https://www.rustadventure.dev/building-wasm-web-ui-with-rust-and-leptos)
 * [2023-08-15, 14:22:02](https://lobste.rs/s/r1gj0v/forging_leptos_query) - [Forging Leptos Query](https://www.nicoburniske.com/thoughts/forging_leptos_query)
 * [2023-08-15, 11:33:06](https://lobste.rs/s/b3nupr/ai_town_run_your_own_custom_ai_world_sim) - [AI-town: Run your own custom AI world sim with JavaScript](https://github.com/a16z-infra/ai-town)
 * [2023-08-15, 09:08:32](https://lobste.rs/s/hkbxx4/art_sub_pixel) - [The art of the (sub-)pixel](https://hugodaniel.com/posts/sub-problems-sub-pixels/)
