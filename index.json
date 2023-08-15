@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-15, 21:49:29",
+      "https://lobste.rs/s/ohewtv/vimwiki_server_sinatra_server_creates"
+    ],
+    [
+      "vimwiki-server: Sinatra server that creates a web server from a vimwiki directory",
+      "https://github.com/mattrose/vimwiki-server"
+    ]
+  ],
+  [
+    [
       "2023-08-15, 21:30:55",
       "https://lobste.rs/s/as1wez/pine_64_august_update"
     ],
@@ -217,16 +227,6 @@
     [
       "How should I read type system notation?",
       "https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation"
-    ]
-  ],
-  [
-    [
-      "2023-08-14, 11:37:30",
-      "https://lobste.rs/s/39lroq/better_builds_with_make_beginner_s_guide"
-    ],
-    [
-      "Better Builds with Make: A Beginner's Guide",
-      "https://dev.to/danielrbradley/better-builds-with-make-a-beginners-guide-1n0"
     ]
   ],
   [
