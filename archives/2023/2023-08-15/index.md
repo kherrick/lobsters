@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
+* [2023-08-15, 19:25:03](https://lobste.rs/s/pndcm0/building_digital_camera_from_scratch) - [Building a digital camera from scratch](https://www.youtube.com/watch?v=Ma9FrN5COIo)
+* [2023-08-15, 19:23:36](https://lobste.rs/s/spsx4c/goals_failure_modes_for_rfcs_technical) - [Goals and Failure Modes for RFCs and Technical Design Documents](https://medium.com/@mikecvet/goals-and-failure-modes-for-rfcs-and-technical-design-documents-c4ee1d1da6ff)
 * [2023-08-15, 18:17:27](https://lobste.rs/s/h6vioy/how_we_reduced_cost_building_twitter_at) - [How we reduced the cost of building Twitter at Twitter-scale by 100x](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
 * [2023-08-15, 18:04:14](https://lobste.rs/s/hzxrhz/anna_s_archive_containers_aac) - [Anna’s Archive Containers (AAC): standardizing releases from the world’s largest shadow library](https://annas-blog.org/annas-archive-containers.html)
 * [2023-08-15, 17:52:45](https://lobste.rs/s/xant8x/wine_s_pe_unix_interface) - [Wine's PE -> UNIX Interface](https://blog.hiler.eu/wine-pe-to-unix/)

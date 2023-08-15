@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-15, 19:25:03](https://lobste.rs/s/pndcm0/building_digital_camera_from_scratch) - [Building a digital camera from scratch](https://www.youtube.com/watch?v=Ma9FrN5COIo)
+* [2023-08-15, 19:23:36](https://lobste.rs/s/spsx4c/goals_failure_modes_for_rfcs_technical) - [Goals and Failure Modes for RFCs and Technical Design Documents](https://medium.com/@mikecvet/goals-and-failure-modes-for-rfcs-and-technical-design-documents-c4ee1d1da6ff)
 * [2023-08-15, 18:17:27](https://lobste.rs/s/h6vioy/how_we_reduced_cost_building_twitter_at) - [How we reduced the cost of building Twitter at Twitter-scale by 100x](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
 * [2023-08-15, 18:04:14](https://lobste.rs/s/hzxrhz/anna_s_archive_containers_aac) - [Anna’s Archive Containers (AAC): standardizing releases from the world’s largest shadow library](https://annas-blog.org/annas-archive-containers.html)
 * [2023-08-15, 17:52:45](https://lobste.rs/s/xant8x/wine_s_pe_unix_interface) - [Wine's PE -> UNIX Interface](https://blog.hiler.eu/wine-pe-to-unix/)
 * [2023-08-15, 17:38:13](https://lobste.rs/s/omudnm/monch_inspired_by_nom_specifically_for) - [monch: Inspired by nom, but specifically for strings](https://github.com/denoland/monch)
 * [2023-08-15, 17:29:33](https://lobste.rs/s/azmakp/secure_your_django_site_with_zero_trust) - [Secure Your Django site with a Zero Trust overlay](https://blog.openziti.io/got-5-minutes-secure-your-python-website-with-zero-trust)
 * [2023-08-15, 17:21:29](https://lobste.rs/s/pa5irc/normal_week_tech) - [A normal week (in tech)](https://blog.ignaciobrasca.com/work/2023/05/01/a-normal-week.html)
-* [2023-08-15, 16:57:15](https://lobste.rs/s/uf9sqm/evaluating_language_model_agents_on) - [Evaluating Language-Model Agents on Realistic Autonomous Tasks](https://evals.alignment.org/blog/2023-08-01-new-report/)
 * [2023-08-15, 16:34:33](https://lobste.rs/s/id9jet/transpiler_meaningless_word) - [Transpiler, a meaningless word](https://rachit.pl/post/transpiler/)
 * [2023-08-15, 16:16:09](https://lobste.rs/s/stcmun/datasette_write_ui_datasette_plugin_for) - [datasette-write-ui: a Datasette plugin for editing, inserting, and deleting rows](https://www.datasette.cloud/blog/2023/datasette-write-ui/)
 * [2023-08-15, 15:15:41](https://lobste.rs/s/typaau/libbpf_rs_ebpf_for_rust_ecosystem) - [libbpf-rs: eBPF for the Rust ecosystem](https://dxuuu.xyz/libbpf-rs.html)
@@ -23,7 +24,6 @@
 * [2023-08-14, 12:29:52](https://lobste.rs/s/11k4ri/how_should_i_read_type_system_notation) - [How should I read type system notation?](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation)
 * [2023-08-14, 11:37:30](https://lobste.rs/s/39lroq/better_builds_with_make_beginner_s_guide) - [Better Builds with Make: A Beginner's Guide](https://dev.to/danielrbradley/better-builds-with-make-a-beginners-guide-1n0)
 * [2023-08-14, 09:38:54](https://lobste.rs/s/lxkkub/fennel_programming_language_survey_2023) - [the Fennel programming language survey (2023)](https://fennel-lang.org/survey/)
-* [2023-08-14, 09:12:49](https://lobste.rs/s/mehlbg/mach_v0_2_released_zig_game_engine) - [Mach v0.2 released - Zig game engine & graphics toolkit](https://devlog.hexops.com/2023/mach-v0.2-released/)
 * [2023-08-14, 07:51:56](https://lobste.rs/s/vmpcji/don_t_be_clever) - [Don't be clever](https://stitcher.io/blog/dont-be-clever)
 
 ## [Archives](archives/index.md)
