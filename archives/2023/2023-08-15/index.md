@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-15](index.md)
 
+* [2023-08-15, 16:16:09](https://lobste.rs/s/stcmun/datasette_write_ui_datasette_plugin_for) - [datasette-write-ui: a Datasette plugin for editing, inserting, and deleting rows](https://www.datasette.cloud/blog/2023/datasette-write-ui/)
 * [2023-08-15, 15:15:41](https://lobste.rs/s/typaau/libbpf_rs_ebpf_for_rust_ecosystem) - [libbpf-rs: eBPF for the Rust ecosystem](https://dxuuu.xyz/libbpf-rs.html)
 * [2023-08-15, 14:54:02](https://lobste.rs/s/gmcuyl/open_enterprise_linux_association) - [Open Enterprise Linux Association](https://lobste.rs/s/gmcuyl/open_enterprise_linux_association)
 * [2023-08-15, 14:39:20](https://lobste.rs/s/gyxvtw/building_wasm_web_ui_with_rust_leptos) - [Building WASM web UI with Rust and Leptos](https://www.rustadventure.dev/building-wasm-web-ui-with-rust-and-leptos)
