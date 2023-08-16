@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-16, 07:24:52](https://lobste.rs/s/8hbdhu/grind_75_better_blind_75_you_can_customize) - [Grind 75 - A better Blind 75 you can customize, by the author of Blind 75](https://www.techinterviewhandbook.org/grind75)
 * [2023-08-16, 07:13:22](https://lobste.rs/s/8qqayv/using_gpt_4_for_content_moderation) - [Using GPT-4 for content moderation](https://openai.com/blog/using-gpt-4-for-content-moderation)
 * [2023-08-16, 06:06:01](https://lobste.rs/s/dg9i46/why_host_your_own_llm) - [Why host your own LLM?](http://marble.onl/posts/why_host_your_own_llm.html)
 * [2023-08-16, 04:51:30](https://lobste.rs/s/gh9yu9/haiku_activity_contract_report_july_2023) - [Haiku Activity & Contract Report, July 2023](https://www.haiku-os.org/blog/waddlesplash/2023-08-15_haiku_activity_contract_report_july_2023/)
@@ -20,7 +21,6 @@
 * [2023-08-15, 16:16:09](https://lobste.rs/s/stcmun/datasette_write_ui_datasette_plugin_for) - [datasette-write-ui: a Datasette plugin for editing, inserting, and deleting rows](https://www.datasette.cloud/blog/2023/datasette-write-ui/)
 * [2023-08-15, 15:15:41](https://lobste.rs/s/typaau/libbpf_rs_ebpf_for_rust_ecosystem) - [libbpf-rs: eBPF for the Rust ecosystem](https://dxuuu.xyz/libbpf-rs.html)
 * [2023-08-15, 14:39:20](https://lobste.rs/s/gyxvtw/building_wasm_web_ui_with_rust_leptos) - [Building WASM web UI with Rust and Leptos](https://www.rustadventure.dev/building-wasm-web-ui-with-rust-and-leptos)
-* [2023-08-15, 14:22:02](https://lobste.rs/s/r1gj0v/forging_leptos_query) - [Forging Leptos Query](https://www.nicoburniske.com/thoughts/forging_leptos_query)
 * [2023-08-15, 11:33:06](https://lobste.rs/s/b3nupr/ai_town_run_your_own_custom_ai_world_sim) - [AI-town: Run your own custom AI world sim with JavaScript](https://github.com/a16z-infra/ai-town)
 * [2023-08-15, 09:08:32](https://lobste.rs/s/hkbxx4/art_sub_pixel) - [The art of the (sub-)pixel](https://hugodaniel.com/posts/sub-problems-sub-pixels/)
 * [2023-08-14, 16:42:57](https://lobste.rs/s/c990od/backward_compatibility_go_1_21_go_2) - [Backward Compatibility, Go 1.21, and Go 2](https://go.dev/blog/compat)
