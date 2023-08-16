@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-16](index.md)
 
+* [2023-08-16, 16:04:55](https://lobste.rs/s/qf6tfv/domain_shadows_gilad_bracha_on_smalltalk) - [A DOMain of Shadows: Gilad Bracha on Smalltalk, Lisp, HTML, ML, Polymer & more](https://gbracha.blogspot.com/2014/09/a-domain-of-shadows.html A DOMain of Shadows )
 * [2023-08-16, 14:26:17](https://lobste.rs/s/viv5fk/llama2_accessory_open_source_toolkit_for) - [LLaMA2-Accessory: An Open-source Toolkit for LLM Development](https://github.com/Alpha-VLLM/LLaMA2-Accessory)
 * [2023-08-16, 13:03:35](https://lobste.rs/s/r6lmin/image_short_story_with_bing_chat) - [Image to Short Story with Bing Chat](https://www.aidemos.info/image-to-short-story-with-bing-chat/)
 * [2023-08-16, 12:03:15](https://lobste.rs/s/clkbhv/designing_for_performance_2016) - [Designing for Performance (2016)](https://www.youtube.com/watch?v=03GsLxVdVzU)

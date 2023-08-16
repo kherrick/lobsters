@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-16, 16:04:55](https://lobste.rs/s/qf6tfv/domain_shadows_gilad_bracha_on_smalltalk) - [A DOMain of Shadows: Gilad Bracha on Smalltalk, Lisp, HTML, ML, Polymer & more](https://gbracha.blogspot.com/2014/09/a-domain-of-shadows.html A DOMain of Shadows )
 * [2023-08-16, 14:26:17](https://lobste.rs/s/viv5fk/llama2_accessory_open_source_toolkit_for) - [LLaMA2-Accessory: An Open-source Toolkit for LLM Development](https://github.com/Alpha-VLLM/LLaMA2-Accessory)
 * [2023-08-16, 12:03:15](https://lobste.rs/s/clkbhv/designing_for_performance_2016) - [Designing for Performance (2016)](https://www.youtube.com/watch?v=03GsLxVdVzU)
 * [2023-08-16, 11:20:20](https://lobste.rs/s/oy3k81/slogtest) - [slogtest](https://telemachus.me/slogtest)
@@ -24,7 +25,6 @@
 * [2023-08-15, 15:15:41](https://lobste.rs/s/typaau/libbpf_rs_ebpf_for_rust_ecosystem) - [libbpf-rs: eBPF for the Rust ecosystem](https://dxuuu.xyz/libbpf-rs.html)
 * [2023-08-15, 11:33:06](https://lobste.rs/s/b3nupr/ai_town_run_your_own_custom_ai_world_sim) - [AI-town: Run your own custom AI world sim with JavaScript](https://github.com/a16z-infra/ai-town)
 * [2023-08-15, 09:08:32](https://lobste.rs/s/hkbxx4/art_sub_pixel) - [The art of the (sub-)pixel](https://hugodaniel.com/posts/sub-problems-sub-pixels/)
-* [2023-08-14, 12:29:52](https://lobste.rs/s/11k4ri/how_should_i_read_type_system_notation) - [How should I read type system notation?](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation)
 
 ## [Archives](archives/index.md)
 
