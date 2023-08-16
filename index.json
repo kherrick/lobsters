@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-08-15, 21:30:55",
-      "https://lobste.rs/s/as1wez/pine_64_august_update"
-    ],
-    [
-      "Pine 64: August Update",
-      "https://www.pine64.org/2023/08/15/august-update-kept-you-waiting-huh/"
-    ]
-  ],
-  [
-    [
       "2023-08-15, 20:46:17",
       "https://lobste.rs/s/n4v6a8/you_don_t_hate_jira_you_hate_your_manager"
     ],
@@ -187,6 +177,16 @@
     [
       "Open Enterprise Linux Association",
       "https://lobste.rs/s/gmcuyl/open_enterprise_linux_association"
+    ]
+  ],
+  [
+    [
+      "2023-08-15, 14:39:20",
+      "https://lobste.rs/s/gyxvtw/building_wasm_web_ui_with_rust_leptos"
+    ],
+    [
+      "Building WASM web UI with Rust and Leptos",
+      "https://www.rustadventure.dev/building-wasm-web-ui-with-rust-and-leptos"
     ]
   ],
   [
