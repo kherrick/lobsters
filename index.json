@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-16, 20:05:51",
+      "https://lobste.rs/s/yrntto/xchg_rax_rax"
+    ],
+    [
+      "xchg rax,rax",
+      "https://www.xorpd.net/pages/xchg_rax/snip_00.html"
+    ]
+  ],
+  [
+    [
       "2023-08-16, 19:24:56",
       "https://lobste.rs/s/bqcmxg/debian_celebrates_30_years"
     ],
@@ -237,16 +247,6 @@
     [
       "libbpf-rs: eBPF for the Rust ecosystem",
       "https://dxuuu.xyz/libbpf-rs.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-15, 09:08:32",
-      "https://lobste.rs/s/hkbxx4/art_sub_pixel"
-    ],
-    [
-      "The art of the (sub-)pixel",
-      "https://hugodaniel.com/posts/sub-problems-sub-pixels/"
     ]
   ]
 ]
