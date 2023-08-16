@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-16, 19:24:56",
+      "https://lobste.rs/s/bqcmxg/debian_celebrates_30_years"
+    ],
+    [
+      "Debian Celebrates 30 years",
+      "https://bits.debian.org/2023/08/debian-turns-30.html"
+    ]
+  ],
+  [
+    [
       "2023-08-16, 18:41:07",
       "https://lobste.rs/s/zpgvkx/towards_https_by_default"
     ],
@@ -237,16 +247,6 @@
     [
       "libbpf-rs: eBPF for the Rust ecosystem",
       "https://dxuuu.xyz/libbpf-rs.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-15, 09:08:32",
-      "https://lobste.rs/s/hkbxx4/art_sub_pixel"
-    ],
-    [
-      "The art of the (sub-)pixel",
-      "https://hugodaniel.com/posts/sub-problems-sub-pixels/"
     ]
   ]
 ]
