@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-16](index.md)
 
+* [2023-08-16, 11:20:20](https://lobste.rs/s/oy3k81/slogtest) - [slogtest](https://telemachus.me/slogtest)
 * [2023-08-16, 09:59:16](https://lobste.rs/s/gbfe6c/expr_v1_14_release_go_expression_language) - [Expr v1.14 release: Go expression language](https://github.com/antonmedv/expr/releases/tag/v1.14.0)
 * [2023-08-16, 08:03:34](https://lobste.rs/s/wcehpb/minsdxl_huggingface_compatible_sdxl) - [minSDXL: Huggingface-compatible SDXL Unet implementation that is readily hackable](https://github.com/cloneofsimo/minSDXL)
 * [2023-08-16, 07:24:52](https://lobste.rs/s/8hbdhu/grind_75_better_blind_75_you_can_customize) - [Grind 75 - A better Blind 75 you can customize, by the author of Blind 75](https://www.techinterviewhandbook.org/grind75)
