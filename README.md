@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-16, 23:36:45](https://lobste.rs/s/varanu/adapting_twelve_factor_methodology_for) - [Adapting the twelve-factor methodology for \"Qubes-native\" multi-VM applications: a preliminary sketch](https://gist.github.com/cfm/d6be88a4e11b66dfce4d382b668d276b)
 * [2023-08-16, 20:05:51](https://lobste.rs/s/yrntto/xchg_rax_rax) - [xchg rax,rax](https://www.xorpd.net/pages/xchg_rax/snip_00.html)
 * [2023-08-16, 19:24:56](https://lobste.rs/s/bqcmxg/debian_celebrates_30_years) - [Debian Celebrates 30 years](https://bits.debian.org/2023/08/debian-turns-30.html)
 * [2023-08-16, 18:41:07](https://lobste.rs/s/zpgvkx/towards_https_by_default) - [Towards HTTPS by default](https://blog.chromium.org/2023/08/towards-https-by-default.html)
@@ -9,7 +10,6 @@
 * [2023-08-16, 12:03:15](https://lobste.rs/s/clkbhv/designing_for_performance_2016) - [Designing for Performance (2016)](https://www.youtube.com/watch?v=03GsLxVdVzU)
 * [2023-08-16, 11:20:20](https://lobste.rs/s/oy3k81/slogtest) - [slogtest](https://telemachus.me/slogtest)
 * [2023-08-16, 09:59:16](https://lobste.rs/s/gbfe6c/expr_v1_14_release_go_expression_language) - [Expr v1.14 release: Go expression language](https://github.com/antonmedv/expr/releases/tag/v1.14.0)
-* [2023-08-16, 08:03:34](https://lobste.rs/s/wcehpb/minsdxl_huggingface_compatible_sdxl) - [minSDXL: Huggingface-compatible SDXL Unet implementation that is readily hackable](https://github.com/cloneofsimo/minSDXL)
 * [2023-08-16, 06:06:01](https://lobste.rs/s/dg9i46/why_host_your_own_llm) - [Why host your own LLM?](http://marble.onl/posts/why_host_your_own_llm.html)
 * [2023-08-16, 04:51:30](https://lobste.rs/s/gh9yu9/haiku_activity_contract_report_july_2023) - [Haiku Activity & Contract Report, July 2023](https://www.haiku-os.org/blog/waddlesplash/2023-08-15_haiku_activity_contract_report_july_2023/)
 * [2023-08-16, 04:01:26](https://lobste.rs/s/mdpbje/security_plan_9_2002) - [Security in Plan 9 (2002)](https://doc.cat-v.org/plan_9/4th_edition/papers/auth)
