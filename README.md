@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-16, 16:52:37](https://lobste.rs/s/cjxr3m/let_s_stop_dependency_hell_launching_pixi) - [Let's stop dependency hell: launching pixi](https://prefix.dev/blog/launching_pixi)
 * [2023-08-16, 16:04:55](https://lobste.rs/s/qf6tfv/domain_shadows_gilad_bracha_on_smalltalk) - [A DOMain of Shadows: Gilad Bracha on Smalltalk, Lisp, HTML, ML, Polymer & more](https://gbracha.blogspot.com/2014/09/a-domain-of-shadows.html A DOMain of Shadows )
 * [2023-08-16, 14:26:17](https://lobste.rs/s/viv5fk/llama2_accessory_open_source_toolkit_for) - [LLaMA2-Accessory: An Open-source Toolkit for LLM Development](https://github.com/Alpha-VLLM/LLaMA2-Accessory)
 * [2023-08-16, 12:03:15](https://lobste.rs/s/clkbhv/designing_for_performance_2016) - [Designing for Performance (2016)](https://www.youtube.com/watch?v=03GsLxVdVzU)
@@ -17,7 +18,6 @@
 * [2023-08-15, 20:46:17](https://lobste.rs/s/n4v6a8/you_don_t_hate_jira_you_hate_your_manager) - [You don't hate JIRA, you hate your manager](https://jarvispowered.com/you-dont-hate-jira-you-hate-your-manager/)
 * [2023-08-15, 18:17:27](https://lobste.rs/s/h6vioy/how_we_reduced_cost_building_twitter_at) - [How we reduced the cost of building Twitter at Twitter-scale by 100x](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
 * [2023-08-15, 18:04:14](https://lobste.rs/s/hzxrhz/anna_s_archive_containers_aac) - [Anna’s Archive Containers (AAC): standardizing releases from the world’s largest shadow library](https://annas-blog.org/annas-archive-containers.html)
-* [2023-08-15, 17:52:45](https://lobste.rs/s/xant8x/wine_s_pe_unix_interface) - [Wine's PE -> UNIX Interface](https://blog.hiler.eu/wine-pe-to-unix/)
 * [2023-08-15, 17:38:13](https://lobste.rs/s/omudnm/monch_inspired_by_nom_specifically_for) - [monch: Inspired by nom, but specifically for strings](https://github.com/denoland/monch)
 * [2023-08-15, 17:29:33](https://lobste.rs/s/azmakp/secure_your_django_site_with_zero_trust) - [Secure Your Django site with a Zero Trust overlay](https://blog.openziti.io/got-5-minutes-secure-your-python-website-with-zero-trust)
 * [2023-08-15, 16:34:33](https://lobste.rs/s/id9jet/transpiler_meaningless_word) - [Transpiler, a meaningless word](https://rachit.pl/post/transpiler/)
