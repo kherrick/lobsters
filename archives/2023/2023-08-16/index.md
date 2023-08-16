@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-16](index.md)
 
+* [2023-08-16, 18:26:57](https://lobste.rs/s/kyvlzb/system_initiative_open_source) - [System Initiative Open Source](https://www.systeminit.com/blog-open-source/)
 * [2023-08-16, 17:07:55](https://lobste.rs/s/awizyl/why_you_should_consider_rust_for_your) - [Why you should consider Rust for your Lambdas](https://loige.co/why-you-should-consider-rust-for-your-lambdas)
 * [2023-08-16, 16:52:37](https://lobste.rs/s/cjxr3m/let_s_stop_dependency_hell_launching_pixi) - [Let's stop dependency hell: launching pixi](https://prefix.dev/blog/launching_pixi)
 * [2023-08-16, 16:04:55](https://lobste.rs/s/qf6tfv/domain_shadows_gilad_bracha_on_smalltalk) - [A DOMain of Shadows: Gilad Bracha on Smalltalk, Lisp, HTML, ML, Polymer & more](https://gbracha.blogspot.com/2014/09/a-domain-of-shadows.html A DOMain of Shadows )

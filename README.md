@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-16, 18:26:57](https://lobste.rs/s/kyvlzb/system_initiative_open_source) - [System Initiative Open Source](https://www.systeminit.com/blog-open-source/)
 * [2023-08-16, 17:07:55](https://lobste.rs/s/awizyl/why_you_should_consider_rust_for_your) - [Why you should consider Rust for your Lambdas](https://loige.co/why-you-should-consider-rust-for-your-lambdas)
 * [2023-08-16, 16:52:37](https://lobste.rs/s/cjxr3m/let_s_stop_dependency_hell_launching_pixi) - [Let's stop dependency hell: launching pixi](https://prefix.dev/blog/launching_pixi)
 * [2023-08-16, 14:26:17](https://lobste.rs/s/viv5fk/llama2_accessory_open_source_toolkit_for) - [LLaMA2-Accessory: An Open-source Toolkit for LLM Development](https://github.com/Alpha-VLLM/LLaMA2-Accessory)
@@ -7,7 +8,6 @@
 * [2023-08-16, 11:20:20](https://lobste.rs/s/oy3k81/slogtest) - [slogtest](https://telemachus.me/slogtest)
 * [2023-08-16, 09:59:16](https://lobste.rs/s/gbfe6c/expr_v1_14_release_go_expression_language) - [Expr v1.14 release: Go expression language](https://github.com/antonmedv/expr/releases/tag/v1.14.0)
 * [2023-08-16, 08:03:34](https://lobste.rs/s/wcehpb/minsdxl_huggingface_compatible_sdxl) - [minSDXL: Huggingface-compatible SDXL Unet implementation that is readily hackable](https://github.com/cloneofsimo/minSDXL)
-* [2023-08-16, 07:24:52](https://lobste.rs/s/8hbdhu/grind_75_better_blind_75_you_can_customize) - [Grind 75 - A better Blind 75 you can customize, by the author of Blind 75](https://www.techinterviewhandbook.org/grind75)
 * [2023-08-16, 06:06:01](https://lobste.rs/s/dg9i46/why_host_your_own_llm) - [Why host your own LLM?](http://marble.onl/posts/why_host_your_own_llm.html)
 * [2023-08-16, 04:51:30](https://lobste.rs/s/gh9yu9/haiku_activity_contract_report_july_2023) - [Haiku Activity & Contract Report, July 2023](https://www.haiku-os.org/blog/waddlesplash/2023-08-15_haiku_activity_contract_report_july_2023/)
 * [2023-08-16, 04:01:26](https://lobste.rs/s/mdpbje/security_plan_9) - [Security in Plan 9](https://doc.cat-v.org/plan_9/4th_edition/papers/auth)
