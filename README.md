@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-16, 09:59:16](https://lobste.rs/s/gbfe6c/expr_v1_14_release_go_expression_language) - [Expr v1.14 release: Go expression language](https://github.com/antonmedv/expr/releases/tag/v1.14.0)
 * [2023-08-16, 08:03:34](https://lobste.rs/s/wcehpb/minsdxl_huggingface_compatible_sdxl) - [minSDXL: Huggingface-compatible SDXL Unet implementation that is readily hackable](https://github.com/cloneofsimo/minSDXL)
 * [2023-08-16, 07:24:52](https://lobste.rs/s/8hbdhu/grind_75_better_blind_75_you_can_customize) - [Grind 75 - A better Blind 75 you can customize, by the author of Blind 75](https://www.techinterviewhandbook.org/grind75)
 * [2023-08-16, 07:13:22](https://lobste.rs/s/8qqayv/using_gpt_4_for_content_moderation) - [Using GPT-4 for content moderation](https://openai.com/blog/using-gpt-4-for-content-moderation)
@@ -23,7 +24,6 @@
 * [2023-08-15, 15:15:41](https://lobste.rs/s/typaau/libbpf_rs_ebpf_for_rust_ecosystem) - [libbpf-rs: eBPF for the Rust ecosystem](https://dxuuu.xyz/libbpf-rs.html)
 * [2023-08-15, 11:33:06](https://lobste.rs/s/b3nupr/ai_town_run_your_own_custom_ai_world_sim) - [AI-town: Run your own custom AI world sim with JavaScript](https://github.com/a16z-infra/ai-town)
 * [2023-08-15, 09:08:32](https://lobste.rs/s/hkbxx4/art_sub_pixel) - [The art of the (sub-)pixel](https://hugodaniel.com/posts/sub-problems-sub-pixels/)
-* [2023-08-14, 16:42:57](https://lobste.rs/s/c990od/backward_compatibility_go_1_21_go_2) - [Backward Compatibility, Go 1.21, and Go 2](https://go.dev/blog/compat)
 * [2023-08-14, 12:29:52](https://lobste.rs/s/11k4ri/how_should_i_read_type_system_notation) - [How should I read type system notation?](https://langdev.stackexchange.com/questions/2692/how-should-i-read-type-system-notation)
 
 ## [Archives](archives/index.md)
