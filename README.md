@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-08-16, 13:03:35](https://lobste.rs/s/r6lmin/image_short_story_with_bing_chat) - [Image to Short Story with Bing Chat](https://www.aidemos.info/image-to-short-story-with-bing-chat/)
 * [2023-08-16, 12:03:15](https://lobste.rs/s/clkbhv/designing_for_performance_2016) - [Designing for Performance (2016)](https://www.youtube.com/watch?v=03GsLxVdVzU)
 * [2023-08-16, 11:20:20](https://lobste.rs/s/oy3k81/slogtest) - [slogtest](https://telemachus.me/slogtest)
 * [2023-08-16, 09:59:16](https://lobste.rs/s/gbfe6c/expr_v1_14_release_go_expression_language) - [Expr v1.14 release: Go expression language](https://github.com/antonmedv/expr/releases/tag/v1.14.0)
@@ -17,6 +16,7 @@
 * [2023-08-15, 19:23:36](https://lobste.rs/s/spsx4c/goals_failure_modes_for_rfcs_technical) - [Goals and Failure Modes for RFCs and Technical Design Documents](https://medium.com/@mikecvet/goals-and-failure-modes-for-rfcs-and-technical-design-documents-c4ee1d1da6ff)
 * [2023-08-15, 18:17:27](https://lobste.rs/s/h6vioy/how_we_reduced_cost_building_twitter_at) - [How we reduced the cost of building Twitter at Twitter-scale by 100x](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
 * [2023-08-15, 18:04:14](https://lobste.rs/s/hzxrhz/anna_s_archive_containers_aac) - [Anna’s Archive Containers (AAC): standardizing releases from the world’s largest shadow library](https://annas-blog.org/annas-archive-containers.html)
+* [2023-08-15, 17:52:45](https://lobste.rs/s/xant8x/wine_s_pe_unix_interface) - [Wine's PE -> UNIX Interface](https://blog.hiler.eu/wine-pe-to-unix/)
 * [2023-08-15, 17:38:13](https://lobste.rs/s/omudnm/monch_inspired_by_nom_specifically_for) - [monch: Inspired by nom, but specifically for strings](https://github.com/denoland/monch)
 * [2023-08-15, 17:29:33](https://lobste.rs/s/azmakp/secure_your_django_site_with_zero_trust) - [Secure Your Django site with a Zero Trust overlay](https://blog.openziti.io/got-5-minutes-secure-your-python-website-with-zero-trust)
 * [2023-08-15, 16:34:33](https://lobste.rs/s/id9jet/transpiler_meaningless_word) - [Transpiler, a meaningless word](https://rachit.pl/post/transpiler/)
