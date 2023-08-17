@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2023-08-17, 05:52:33",
+      "https://lobste.rs/s/jovzxw/how_cpython_implements_reference"
+    ],
+    [
+      "How CPython Implements Reference Counting: Dissecting CPython Internals",
+      "https://codeconfessions.substack.com/p/cpython-reference-counting-internals"
+    ]
+  ],
+  [
+    [
       "2023-08-17, 03:43:16",
       "https://lobste.rs/s/esnei4/dear_sir_you_have_built_compiler_2022"
     ],
@@ -147,16 +157,6 @@
     [
       "Red Hat and the Clone Wars",
       "https://dissociatedpress.net/2023/06/24/red-hat-and-the-clone-wars/"
-    ]
-  ],
-  [
-    [
-      "2023-08-17, 02:12:11",
-      "https://lobste.rs/s/niscpx/unit_visual_programming_system"
-    ],
-    [
-      "Unit (Visual Programming System)",
-      "https://www.youtube.com/watch?v=lvvzolKHt2E"
     ]
   ],
   [
