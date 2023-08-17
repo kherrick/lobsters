@@ -11,6 +11,7 @@
 * [2023-08-17, 14:06:01](https://lobste.rs/s/hhms71/emacs_28_antinews) - [Emacs 28 Antinews](https://www.gnu.org/software/emacs/manual/html_node/emacs/Antinews.html)
 * [2023-08-17, 13:26:20](https://lobste.rs/s/epk42u/homomorphic_encryption_with_images) - [Homomorphic Encryption with Images](https://azeemba.com/posts/homomorphic-encryption-with-images.html)
 * [2023-08-17, 11:05:01](https://lobste.rs/s/wnv3ep/avoiding_pitfalls_go) - [Avoiding Pitfalls in Go](https://www.dolthub.com/blog/2023-08-16-go-pitfalls/)
+* [2023-08-17, 11:00:38](https://lobste.rs/s/usishn/gentle_introduction_gpus_inner_workings) - [Gentle introduction to GPUs inner workings](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/)
 * [2023-08-17, 10:46:28](https://lobste.rs/s/r9o9md/webassembly_for_rest_us) - [WebAssembly for the rest of us](https://www.youtube.com/watch?v=lUCegCa7A08)
 * [2023-08-17, 10:41:00](https://lobste.rs/s/cuxddq/jira_cli_feature_rich_interactive_jira) - [jira-cli: Feature-rich interactive Jira command line](https://github.com/ankitpokhrel/jira-cli)
 * [2023-08-17, 06:42:29](https://lobste.rs/s/nd5svs/home_not_so_sweet_home) - [$HOME, Not So Sweet $HOME](https://gist.github.com/sharadhr/39b804236c1941e9c30d90af828ad41e)
@@ -24,7 +25,6 @@
 * [2023-08-16, 16:52:37](https://lobste.rs/s/cjxr3m/let_s_stop_dependency_hell_launching_pixi) - [Let's stop dependency hell: launching pixi](https://prefix.dev/blog/launching_pixi)
 * [2023-08-16, 11:20:20](https://lobste.rs/s/oy3k81/slogtest) - [slogtest](https://telemachus.me/slogtest)
 * [2023-08-16, 09:59:16](https://lobste.rs/s/gbfe6c/expr_v1_14_release_go_expression_language) - [Expr v1.14 release: Go expression language](https://github.com/antonmedv/expr/releases/tag/v1.14.0)
-* [2023-08-15, 20:46:17](https://lobste.rs/s/n4v6a8/you_don_t_hate_jira_you_hate_your_manager) - [You don't hate JIRA, you hate your manager](https://jarvispowered.com/you-dont-hate-jira-you-hate-your-manager/)
 
 ## [Archives](archives/index.md)
 
