@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-17, 00:19:19](https://lobste.rs/s/vkcnau/optimise_expensive_first) - [Optimise the Expensive First](https://two-wrongs.com/optimise-the-expensive-first)
 * [2023-08-16, 23:36:45](https://lobste.rs/s/varanu/adapting_twelve_factor_methodology_for) - [Adapting the twelve-factor methodology for \"Qubes-native\" multi-VM applications: a preliminary sketch](https://gist.github.com/cfm/d6be88a4e11b66dfce4d382b668d276b)
 * [2023-08-16, 20:05:51](https://lobste.rs/s/yrntto/xchg_rax_rax) - [xchg rax,rax](https://www.xorpd.net/pages/xchg_rax/snip_00.html)
 * [2023-08-16, 19:24:56](https://lobste.rs/s/bqcmxg/debian_celebrates_30_years) - [Debian Celebrates 30 years](https://bits.debian.org/2023/08/debian-turns-30.html)
@@ -7,7 +8,6 @@
 * [2023-08-16, 18:26:57](https://lobste.rs/s/kyvlzb/system_initiative_open_source) - [System Initiative Open Source](https://www.systeminit.com/blog-open-source/)
 * [2023-08-16, 16:52:37](https://lobste.rs/s/cjxr3m/let_s_stop_dependency_hell_launching_pixi) - [Let's stop dependency hell: launching pixi](https://prefix.dev/blog/launching_pixi)
 * [2023-08-16, 14:26:17](https://lobste.rs/s/viv5fk/llama2_accessory_open_source_toolkit_for) - [LLaMA2-Accessory: An Open-source Toolkit for LLM Development](https://github.com/Alpha-VLLM/LLaMA2-Accessory)
-* [2023-08-16, 12:03:15](https://lobste.rs/s/clkbhv/designing_for_performance_2016) - [Designing for Performance (2016)](https://www.youtube.com/watch?v=03GsLxVdVzU)
 * [2023-08-16, 11:20:20](https://lobste.rs/s/oy3k81/slogtest) - [slogtest](https://telemachus.me/slogtest)
 * [2023-08-16, 09:59:16](https://lobste.rs/s/gbfe6c/expr_v1_14_release_go_expression_language) - [Expr v1.14 release: Go expression language](https://github.com/antonmedv/expr/releases/tag/v1.14.0)
 * [2023-08-16, 06:06:01](https://lobste.rs/s/dg9i46/why_host_your_own_llm) - [Why host your own LLM?](http://marble.onl/posts/why_host_your_own_llm.html)

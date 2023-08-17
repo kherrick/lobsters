@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-08-17](index.md)
+
+* [2023-08-17, 00:19:19](https://lobste.rs/s/vkcnau/optimise_expensive_first) - [Optimise the Expensive First](https://two-wrongs.com/optimise-the-expensive-first)
