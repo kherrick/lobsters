@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-17, 10:46:28",
+      "https://lobste.rs/s/r9o9md/webassembly_for_rest_us"
+    ],
+    [
+      "WebAssembly for the rest of us",
+      "https://www.youtube.com/watch?v=lUCegCa7A08"
+    ]
+  ],
+  [
+    [
+      "2023-08-17, 10:41:00",
+      "https://lobste.rs/s/cuxddq/jira_cli_feature_rich_interactive_jira"
+    ],
+    [
+      "jira-cli: Feature-rich interactive Jira command line",
+      "https://github.com/ankitpokhrel/jira-cli"
+    ]
+  ],
+  [
+    [
       "2023-08-17, 06:42:29",
       "https://lobste.rs/s/nd5svs/home_not_so_sweet_home"
     ],
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2023-08-16, 06:06:01",
-      "https://lobste.rs/s/dg9i46/why_host_your_own_llm"
-    ],
-    [
-      "Why host your own LLM?",
-      "http://marble.onl/posts/why_host_your_own_llm.html"
-    ]
-  ],
-  [
-    [
       "2023-08-16, 04:51:30",
       "https://lobste.rs/s/gh9yu9/haiku_activity_contract_report_july_2023"
     ],
     [
       "Haiku Activity & Contract Report, July 2023",
       "https://www.haiku-os.org/blog/waddlesplash/2023-08-15_haiku_activity_contract_report_july_2023/"
-    ]
-  ],
-  [
-    [
-      "2023-08-16, 04:01:26",
-      "https://lobste.rs/s/mdpbje/security_plan_9_2002"
-    ],
-    [
-      "Security in Plan 9 (2002)",
-      "https://doc.cat-v.org/plan_9/4th_edition/papers/auth"
     ]
   ],
   [
