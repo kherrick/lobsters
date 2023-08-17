@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-17, 13:26:20",
+      "https://lobste.rs/s/epk42u/homomorphic_encryption_with_images"
+    ],
+    [
+      "Homomorphic Encryption with Images",
+      "https://azeemba.com/posts/homomorphic-encryption-with-images.html"
+    ]
+  ],
+  [
+    [
       "2023-08-17, 11:05:01",
       "https://lobste.rs/s/wnv3ep/avoiding_pitfalls_go"
     ],
@@ -207,16 +217,6 @@
     [
       "Thinking about functional programming",
       "https://notes.eatonphil.com/2023-08-15-thinking-about-functional-programming.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-15, 21:49:29",
-      "https://lobste.rs/s/ohewtv/vimwiki_server_sinatra_server_creates"
-    ],
-    [
-      "vimwiki-server: Sinatra server that creates a web server from a vimwiki directory",
-      "https://github.com/mattrose/vimwiki-server"
     ]
   ],
   [
