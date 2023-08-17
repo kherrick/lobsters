@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-17, 16:58:16](https://lobste.rs/s/jzuce1/my_resignation_letter_as_r7rs_large_chair) - [My resignation letter as R7RS-large chair](https://groups.google.com/g/scheme-reports-wg2/c/xGd0_eeKmGI/m/q-xM5fbuAQAJ)
 * [2023-08-17, 16:38:03](https://lobste.rs/s/2yspzv/polymur_hash_polymurhash_universal_hash) - [polymur-hash: The PolymurHash universal hash function](https://github.com/orlp/polymur-hash)
 * [2023-08-17, 16:14:04](https://lobste.rs/s/khcdxp/authenticated_encryption_why_you_need_it) - [Authenticated encryption: why you need it and how it works](https://andrea.corbellini.name/2023/03/09/authenticated-encryption/)
 * [2023-08-17, 15:50:48](https://lobste.rs/s/fwpaco/talk_about_dhall) - [A talk about Dhall](https://till.red/b/6/)
@@ -23,7 +24,6 @@
 * [2023-08-16, 16:52:37](https://lobste.rs/s/cjxr3m/let_s_stop_dependency_hell_launching_pixi) - [Let's stop dependency hell: launching pixi](https://prefix.dev/blog/launching_pixi)
 * [2023-08-16, 11:20:20](https://lobste.rs/s/oy3k81/slogtest) - [slogtest](https://telemachus.me/slogtest)
 * [2023-08-16, 09:59:16](https://lobste.rs/s/gbfe6c/expr_v1_14_release_go_expression_language) - [Expr v1.14 release: Go expression language](https://github.com/antonmedv/expr/releases/tag/v1.14.0)
-* [2023-08-16, 01:20:57](https://lobste.rs/s/qgoksp/thinking_about_functional_programming) - [Thinking about functional programming](https://notes.eatonphil.com/2023-08-15-thinking-about-functional-programming.html)
 * [2023-08-15, 20:46:17](https://lobste.rs/s/n4v6a8/you_don_t_hate_jira_you_hate_your_manager) - [You don't hate JIRA, you hate your manager](https://jarvispowered.com/you-dont-hate-jira-you-hate-your-manager/)
 
 ## [Archives](archives/index.md)
