@@ -22,9 +22,9 @@
 * [2023-08-15, 21:49:29](https://lobste.rs/s/ohewtv/vimwiki_server_sinatra_server_creates) - [vimwiki-server: Sinatra server that creates a web server from a vimwiki directory](https://github.com/mattrose/vimwiki-server)
 * [2023-08-15, 20:46:17](https://lobste.rs/s/n4v6a8/you_don_t_hate_jira_you_hate_your_manager) - [You don't hate JIRA, you hate your manager](https://jarvispowered.com/you-dont-hate-jira-you-hate-your-manager/)
 * [2023-08-15, 18:17:27](https://lobste.rs/s/h6vioy/how_we_reduced_cost_building_twitter_at) - [How we reduced the cost of building Twitter at Twitter-scale by 100x](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
-* [2023-08-15, 17:38:13](https://lobste.rs/s/omudnm/monch_inspired_by_nom_specifically_for) - [monch: Inspired by nom, but specifically for strings](https://github.com/denoland/monch)
 * [2023-08-15, 16:34:33](https://lobste.rs/s/id9jet/transpiler_meaningless_word) - [Transpiler, a meaningless word](https://rachit.pl/post/transpiler/)
 * [2023-08-15, 16:16:09](https://lobste.rs/s/stcmun/datasette_write_ui_datasette_plugin_for) - [datasette-write-ui: a Datasette plugin for editing, inserting, and deleting rows](https://www.datasette.cloud/blog/2023/datasette-write-ui/)
+* [2023-08-15, 15:15:41](https://lobste.rs/s/typaau/libbpf_rs_ebpf_for_rust_ecosystem) - [libbpf-rs: eBPF for the Rust ecosystem](https://dxuuu.xyz/libbpf-rs.html)
 
 ## [Archives](archives/index.md)
 
