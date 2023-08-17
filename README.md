@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-17, 15:50:48](https://lobste.rs/s/fwpaco/talk_about_dhall) - [A talk about Dhall](https://till.red/b/6/)
 * [2023-08-17, 15:30:30](https://lobste.rs/s/kbdixh/talks_from_chaos_communication_camp_2023) - [Talks from Chaos Communication Camp 2023](https://media.ccc.de/c/camp2023?sort=view_count)
 * [2023-08-17, 14:25:35](https://lobste.rs/s/09naba/turning_keyboard_into_mouse_with) - [Turning a Keyboard into a Mouse with Libevdev](https://suricrasia.online/blog/turning-a-keyboard-into/)
 * [2023-08-17, 14:06:01](https://lobste.rs/s/hhms71/emacs_28_antinews) - [Emacs 28 Antinews](https://www.gnu.org/software/emacs/manual/html_node/emacs/Antinews.html)
@@ -18,7 +19,6 @@
 * [2023-08-16, 20:05:51](https://lobste.rs/s/yrntto/xchg_rax_rax) - [xchg rax,rax](https://www.xorpd.net/pages/xchg_rax/snip_00.html)
 * [2023-08-16, 19:24:56](https://lobste.rs/s/bqcmxg/debian_celebrates_30_years) - [Debian Celebrates 30 years](https://bits.debian.org/2023/08/debian-turns-30.html)
 * [2023-08-16, 18:41:07](https://lobste.rs/s/zpgvkx/towards_https_by_default) - [Towards HTTPS by default](https://blog.chromium.org/2023/08/towards-https-by-default.html)
-* [2023-08-16, 18:26:57](https://lobste.rs/s/kyvlzb/system_initiative_open_source) - [System Initiative Open Source](https://www.systeminit.com/blog-open-source/)
 * [2023-08-16, 16:52:37](https://lobste.rs/s/cjxr3m/let_s_stop_dependency_hell_launching_pixi) - [Let's stop dependency hell: launching pixi](https://prefix.dev/blog/launching_pixi)
 * [2023-08-16, 11:20:20](https://lobste.rs/s/oy3k81/slogtest) - [slogtest](https://telemachus.me/slogtest)
 * [2023-08-16, 09:59:16](https://lobste.rs/s/gbfe6c/expr_v1_14_release_go_expression_language) - [Expr v1.14 release: Go expression language](https://github.com/antonmedv/expr/releases/tag/v1.14.0)
