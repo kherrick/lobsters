@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-17, 06:42:29](https://lobste.rs/s/nd5svs/home_not_so_sweet_home) - [$HOME, Not So Sweet $HOME](https://gist.github.com/sharadhr/39b804236c1941e9c30d90af828ad41e)
 * [2023-08-17, 05:52:33](https://lobste.rs/s/jovzxw/how_cpython_implements_reference) - [How CPython Implements Reference Counting: Dissecting CPython Internals](https://codeconfessions.substack.com/p/cpython-reference-counting-internals)
 * [2023-08-17, 03:43:16](https://lobste.rs/s/esnei4/dear_sir_you_have_built_compiler_2022) - [Dear Sir, You have built a compiler (2022)](https://rachit.pl/post/you-have-built-a-compiler/)
 * [2023-08-17, 02:22:32](https://lobste.rs/s/5facyn/red_hat_clone_wars) - [Red Hat and the Clone Wars](https://dissociatedpress.net/2023/06/24/red-hat-and-the-clone-wars/)
@@ -24,7 +25,6 @@
 * [2023-08-15, 20:46:17](https://lobste.rs/s/n4v6a8/you_don_t_hate_jira_you_hate_your_manager) - [You don't hate JIRA, you hate your manager](https://jarvispowered.com/you-dont-hate-jira-you-hate-your-manager/)
 * [2023-08-15, 18:17:27](https://lobste.rs/s/h6vioy/how_we_reduced_cost_building_twitter_at) - [How we reduced the cost of building Twitter at Twitter-scale by 100x](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
 * [2023-08-15, 16:34:33](https://lobste.rs/s/id9jet/transpiler_meaningless_word) - [Transpiler, a meaningless word](https://rachit.pl/post/transpiler/)
-* [2023-08-15, 16:16:09](https://lobste.rs/s/stcmun/datasette_write_ui_datasette_plugin_for) - [datasette-write-ui: a Datasette plugin for editing, inserting, and deleting rows](https://www.datasette.cloud/blog/2023/datasette-write-ui/)
 
 ## [Archives](archives/index.md)
 
