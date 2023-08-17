@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-17, 16:14:04](https://lobste.rs/s/khcdxp/authenticated_encryption_why_you_need_it) - [Authenticated encryption: why you need it and how it works](https://andrea.corbellini.name/2023/03/09/authenticated-encryption/)
 * [2023-08-17, 15:50:48](https://lobste.rs/s/fwpaco/talk_about_dhall) - [A talk about Dhall](https://till.red/b/6/)
 * [2023-08-17, 15:30:30](https://lobste.rs/s/kbdixh/talks_from_chaos_communication_camp_2023) - [Talks from Chaos Communication Camp 2023](https://media.ccc.de/c/camp2023?sort=view_count)
 * [2023-08-17, 14:25:35](https://lobste.rs/s/09naba/turning_keyboard_into_mouse_with) - [Turning a Keyboard into a Mouse with Libevdev](https://suricrasia.online/blog/turning-a-keyboard-into/)
@@ -22,7 +23,6 @@
 * [2023-08-16, 16:52:37](https://lobste.rs/s/cjxr3m/let_s_stop_dependency_hell_launching_pixi) - [Let's stop dependency hell: launching pixi](https://prefix.dev/blog/launching_pixi)
 * [2023-08-16, 11:20:20](https://lobste.rs/s/oy3k81/slogtest) - [slogtest](https://telemachus.me/slogtest)
 * [2023-08-16, 09:59:16](https://lobste.rs/s/gbfe6c/expr_v1_14_release_go_expression_language) - [Expr v1.14 release: Go expression language](https://github.com/antonmedv/expr/releases/tag/v1.14.0)
-* [2023-08-16, 04:51:30](https://lobste.rs/s/gh9yu9/haiku_activity_contract_report_july_2023) - [Haiku Activity & Contract Report, July 2023](https://www.haiku-os.org/blog/waddlesplash/2023-08-15_haiku_activity_contract_report_july_2023/)
 * [2023-08-16, 01:20:57](https://lobste.rs/s/qgoksp/thinking_about_functional_programming) - [Thinking about functional programming](https://notes.eatonphil.com/2023-08-15-thinking-about-functional-programming.html)
 * [2023-08-15, 20:46:17](https://lobste.rs/s/n4v6a8/you_don_t_hate_jira_you_hate_your_manager) - [You don't hate JIRA, you hate your manager](https://jarvispowered.com/you-dont-hate-jira-you-hate-your-manager/)
 
