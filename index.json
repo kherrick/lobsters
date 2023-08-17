@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-17, 20:14:08",
+      "https://lobste.rs/s/fiyoh2/what_are_most_active_helpful_email"
+    ],
+    [
+      "What are the most active/helpful (email) mailing lists out there?",
+      "https://lobste.rs/s/fiyoh2/what_are_most_active_helpful_email"
+    ]
+  ],
+  [
+    [
       "2023-08-17, 19:09:55",
       "https://lobste.rs/s/s5eelk/windows_feature_resets_system_clocks"
     ],
@@ -117,16 +127,6 @@
     [
       "Avoiding Pitfalls in Go",
       "https://www.dolthub.com/blog/2023-08-16-go-pitfalls/"
-    ]
-  ],
-  [
-    [
-      "2023-08-17, 11:00:38",
-      "https://lobste.rs/s/usishn/gentle_introduction_gpus_inner_workings"
-    ],
-    [
-      "Gentle introduction to GPUs inner workings",
-      "https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/"
     ]
   ],
   [
