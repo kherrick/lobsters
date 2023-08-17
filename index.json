@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-17, 06:42:29",
+      "https://lobste.rs/s/nd5svs/home_not_so_sweet_home"
+    ],
+    [
+      "$HOME, Not So Sweet $HOME",
+      "https://gist.github.com/sharadhr/39b804236c1941e9c30d90af828ad41e"
+    ]
+  ],
+  [
+    [
       "2023-08-17, 05:52:33",
       "https://lobste.rs/s/jovzxw/how_cpython_implements_reference"
     ],
@@ -237,16 +247,6 @@
     [
       "Transpiler, a meaningless word",
       "https://rachit.pl/post/transpiler/"
-    ]
-  ],
-  [
-    [
-      "2023-08-15, 16:16:09",
-      "https://lobste.rs/s/stcmun/datasette_write_ui_datasette_plugin_for"
-    ],
-    [
-      "datasette-write-ui: a Datasette plugin for editing, inserting, and deleting rows",
-      "https://www.datasette.cloud/blog/2023/datasette-write-ui/"
     ]
   ]
 ]
