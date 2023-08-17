@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-17](index.md)
 
+* [2023-08-17, 17:15:01](https://lobste.rs/s/e1mmhg/too_many_fonts_windows_10_can_cause_slow) - [Too Many Fonts in Windows 10 Can Cause Slow Application Starts](https://bigdanzblog.wordpress.com/2023/08/16/too-many-fonts-in-windows-10-can-cause-slow-application-starts/)
 * [2023-08-17, 16:58:16](https://lobste.rs/s/jzuce1/my_resignation_letter_as_r7rs_large_chair) - [My resignation letter as R7RS-large chair](https://groups.google.com/g/scheme-reports-wg2/c/xGd0_eeKmGI/m/q-xM5fbuAQAJ)
 * [2023-08-17, 16:38:03](https://lobste.rs/s/2yspzv/polymur_hash_polymurhash_universal_hash) - [polymur-hash: The PolymurHash universal hash function](https://github.com/orlp/polymur-hash)
 * [2023-08-17, 16:14:04](https://lobste.rs/s/khcdxp/authenticated_encryption_why_you_need_it) - [Authenticated encryption: why you need it and how it works](https://andrea.corbellini.name/2023/03/09/authenticated-encryption/)
