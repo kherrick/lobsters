@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-17](index.md)
 
+* [2023-08-17, 15:30:30](https://lobste.rs/s/kbdixh/talks_from_chaos_communication_camp_2023) - [Talks from Chaos Communication Camp 2023](https://media.ccc.de/c/camp2023?sort=view_count)
 * [2023-08-17, 14:25:35](https://lobste.rs/s/09naba/turning_keyboard_into_mouse_with) - [Turning a Keyboard into a Mouse with Libevdev](https://suricrasia.online/blog/turning-a-keyboard-into/)
 * [2023-08-17, 14:06:01](https://lobste.rs/s/hhms71/emacs_28_antinews) - [Emacs 28 Antinews](https://www.gnu.org/software/emacs/manual/html_node/emacs/Antinews.html)
 * [2023-08-17, 13:26:20](https://lobste.rs/s/epk42u/homomorphic_encryption_with_images) - [Homomorphic Encryption with Images](https://azeemba.com/posts/homomorphic-encryption-with-images.html)
