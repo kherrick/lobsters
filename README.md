@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-17, 13:26:20](https://lobste.rs/s/epk42u/homomorphic_encryption_with_images) - [Homomorphic Encryption with Images](https://azeemba.com/posts/homomorphic-encryption-with-images.html)
 * [2023-08-17, 11:05:01](https://lobste.rs/s/wnv3ep/avoiding_pitfalls_go) - [Avoiding Pitfalls in Go](https://www.dolthub.com/blog/2023-08-16-go-pitfalls/)
 * [2023-08-17, 11:01:50](https://lobste.rs/s/sgw0sb/float_int_casts_for_data_compression) - [Float to int casts for data compression](https://cbloomrants.blogspot.com/2023/07/float-to-int-casts-for-data-compression.html)
 * [2023-08-17, 11:00:38](https://lobste.rs/s/usishn/gentle_introduction_gpus_inner_workings) - [Gentle introduction to GPUs inner workings](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/)
@@ -21,7 +22,6 @@
 * [2023-08-16, 04:51:30](https://lobste.rs/s/gh9yu9/haiku_activity_contract_report_july_2023) - [Haiku Activity & Contract Report, July 2023](https://www.haiku-os.org/blog/waddlesplash/2023-08-15_haiku_activity_contract_report_july_2023/)
 * [2023-08-16, 02:03:14](https://lobste.rs/s/aade0u/using_z3_solve_logic_puzzles) - [Using z3 To Solve Logic Puzzles](https://www.wdj-consulting.com/blog/logicpuzzle-z3/)
 * [2023-08-16, 01:20:57](https://lobste.rs/s/qgoksp/thinking_about_functional_programming) - [Thinking about functional programming](https://notes.eatonphil.com/2023-08-15-thinking-about-functional-programming.html)
-* [2023-08-15, 21:49:29](https://lobste.rs/s/ohewtv/vimwiki_server_sinatra_server_creates) - [vimwiki-server: Sinatra server that creates a web server from a vimwiki directory](https://github.com/mattrose/vimwiki-server)
 * [2023-08-15, 20:46:17](https://lobste.rs/s/n4v6a8/you_don_t_hate_jira_you_hate_your_manager) - [You don't hate JIRA, you hate your manager](https://jarvispowered.com/you-dont-hate-jira-you-hate-your-manager/)
 * [2023-08-15, 18:17:27](https://lobste.rs/s/h6vioy/how_we_reduced_cost_building_twitter_at) - [How we reduced the cost of building Twitter at Twitter-scale by 100x](https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/)
 * [2023-08-15, 16:34:33](https://lobste.rs/s/id9jet/transpiler_meaningless_word) - [Transpiler, a meaningless word](https://rachit.pl/post/transpiler/)
