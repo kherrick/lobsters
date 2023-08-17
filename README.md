@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-17, 20:14:08](https://lobste.rs/s/fiyoh2/what_are_most_active_helpful_email) - [What are the most active/helpful (email) mailing lists out there?](https://lobste.rs/s/fiyoh2/what_are_most_active_helpful_email)
 * [2023-08-17, 19:09:55](https://lobste.rs/s/s5eelk/windows_feature_resets_system_clocks) - [Windows feature that resets system clocks based on random data is wreaking havoc](https://arstechnica.com/security/2023/08/windows-feature-that-resets-system-clocks-based-on-random-data-is-wreaking-havoc/)
 * [2023-08-17, 19:09:12](https://lobste.rs/s/jacbrz/using_wordstar_diamond_2023) - [Using the WordStar diamond in 2023](https://benhoyt.com/writings/wordstar-diamond/)
 * [2023-08-17, 18:43:44](https://lobste.rs/s/cklb16/going_back_old_pre_x_twitter_ios_app) - [Going back to the old (pre-X) Twitter iOS app](https://blog.gingerbeardman.com/2023/08/17/going-back-to-the-old-pre-x-twitter-ios-app/)
@@ -12,7 +13,6 @@
 * [2023-08-17, 14:06:01](https://lobste.rs/s/hhms71/emacs_28_antinews) - [Emacs 28 Antinews](https://www.gnu.org/software/emacs/manual/html_node/emacs/Antinews.html)
 * [2023-08-17, 13:26:20](https://lobste.rs/s/epk42u/homomorphic_encryption_with_images) - [Homomorphic Encryption with Images](https://azeemba.com/posts/homomorphic-encryption-with-images.html)
 * [2023-08-17, 11:05:01](https://lobste.rs/s/wnv3ep/avoiding_pitfalls_go) - [Avoiding Pitfalls in Go](https://www.dolthub.com/blog/2023-08-16-go-pitfalls/)
-* [2023-08-17, 11:00:38](https://lobste.rs/s/usishn/gentle_introduction_gpus_inner_workings) - [Gentle introduction to GPUs inner workings](https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/)
 * [2023-08-17, 10:46:28](https://lobste.rs/s/r9o9md/webassembly_for_rest_us) - [WebAssembly for the rest of us](https://www.youtube.com/watch?v=lUCegCa7A08)
 * [2023-08-17, 10:41:00](https://lobste.rs/s/cuxddq/jira_cli_feature_rich_interactive_jira) - [jira-cli: Feature-rich interactive Jira command line](https://github.com/ankitpokhrel/jira-cli)
 * [2023-08-17, 06:42:29](https://lobste.rs/s/nd5svs/home_not_so_sweet_home) - [$HOME, Not So Sweet $HOME](https://gist.github.com/sharadhr/39b804236c1941e9c30d90af828ad41e)

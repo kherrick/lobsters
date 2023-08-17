@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-17](index.md)
 
+* [2023-08-17, 20:14:08](https://lobste.rs/s/fiyoh2/what_are_most_active_helpful_email) - [What are the most active/helpful (email) mailing lists out there?](https://lobste.rs/s/fiyoh2/what_are_most_active_helpful_email)
 * [2023-08-17, 19:09:55](https://lobste.rs/s/s5eelk/windows_feature_resets_system_clocks) - [Windows feature that resets system clocks based on random data is wreaking havoc](https://arstechnica.com/security/2023/08/windows-feature-that-resets-system-clocks-based-on-random-data-is-wreaking-havoc/)
 * [2023-08-17, 19:09:12](https://lobste.rs/s/jacbrz/using_wordstar_diamond_2023) - [Using the WordStar diamond in 2023](https://benhoyt.com/writings/wordstar-diamond/)
 * [2023-08-17, 18:43:44](https://lobste.rs/s/cklb16/going_back_old_pre_x_twitter_ios_app) - [Going back to the old (pre-X) Twitter iOS app](https://blog.gingerbeardman.com/2023/08/17/going-back-to-the-old-pre-x-twitter-ios-app/)
