@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-17, 10:46:28](https://lobste.rs/s/r9o9md/webassembly_for_rest_us) - [WebAssembly for the rest of us](https://www.youtube.com/watch?v=lUCegCa7A08)
+* [2023-08-17, 10:41:00](https://lobste.rs/s/cuxddq/jira_cli_feature_rich_interactive_jira) - [jira-cli: Feature-rich interactive Jira command line](https://github.com/ankitpokhrel/jira-cli)
 * [2023-08-17, 06:42:29](https://lobste.rs/s/nd5svs/home_not_so_sweet_home) - [$HOME, Not So Sweet $HOME](https://gist.github.com/sharadhr/39b804236c1941e9c30d90af828ad41e)
 * [2023-08-17, 05:52:33](https://lobste.rs/s/jovzxw/how_cpython_implements_reference) - [How CPython Implements Reference Counting: Dissecting CPython Internals](https://codeconfessions.substack.com/p/cpython-reference-counting-internals)
 * [2023-08-17, 03:43:16](https://lobste.rs/s/esnei4/dear_sir_you_have_built_compiler_2022) - [Dear Sir, You have built a compiler (2022)](https://rachit.pl/post/you-have-built-a-compiler/)
@@ -15,9 +17,7 @@
 * [2023-08-16, 14:26:17](https://lobste.rs/s/viv5fk/llama2_accessory_open_source_toolkit_for) - [LLaMA2-Accessory: An Open-source Toolkit for LLM Development](https://github.com/Alpha-VLLM/LLaMA2-Accessory)
 * [2023-08-16, 11:20:20](https://lobste.rs/s/oy3k81/slogtest) - [slogtest](https://telemachus.me/slogtest)
 * [2023-08-16, 09:59:16](https://lobste.rs/s/gbfe6c/expr_v1_14_release_go_expression_language) - [Expr v1.14 release: Go expression language](https://github.com/antonmedv/expr/releases/tag/v1.14.0)
-* [2023-08-16, 06:06:01](https://lobste.rs/s/dg9i46/why_host_your_own_llm) - [Why host your own LLM?](http://marble.onl/posts/why_host_your_own_llm.html)
 * [2023-08-16, 04:51:30](https://lobste.rs/s/gh9yu9/haiku_activity_contract_report_july_2023) - [Haiku Activity & Contract Report, July 2023](https://www.haiku-os.org/blog/waddlesplash/2023-08-15_haiku_activity_contract_report_july_2023/)
-* [2023-08-16, 04:01:26](https://lobste.rs/s/mdpbje/security_plan_9_2002) - [Security in Plan 9 (2002)](https://doc.cat-v.org/plan_9/4th_edition/papers/auth)
 * [2023-08-16, 02:03:14](https://lobste.rs/s/aade0u/using_z3_solve_logic_puzzles) - [Using z3 To Solve Logic Puzzles](https://www.wdj-consulting.com/blog/logicpuzzle-z3/)
 * [2023-08-16, 01:20:57](https://lobste.rs/s/qgoksp/thinking_about_functional_programming) - [Thinking about functional programming](https://notes.eatonphil.com/2023-08-15-thinking-about-functional-programming.html)
 * [2023-08-15, 22:16:08](https://lobste.rs/s/ai9sv5/xml_dom_with_just_8_bytes_per_node_2020) - [An XML DOM with just 8 bytes per node (2020)](https://blog.grijjy.com/2020/10/07/an-xml-dom-with-just-8-bytes-per-node/)
