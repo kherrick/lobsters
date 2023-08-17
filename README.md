@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-17, 19:09:55](https://lobste.rs/s/s5eelk/windows_feature_resets_system_clocks) - [Windows feature that resets system clocks based on random data is wreaking havoc](https://arstechnica.com/security/2023/08/windows-feature-that-resets-system-clocks-based-on-random-data-is-wreaking-havoc/)
+* [2023-08-17, 19:09:12](https://lobste.rs/s/jacbrz/using_wordstar_diamond_2023) - [Using the WordStar diamond in 2023](https://benhoyt.com/writings/wordstar-diamond/)
 * [2023-08-17, 18:43:44](https://lobste.rs/s/cklb16/going_back_old_pre_x_twitter_ios_app) - [Going back to the old (pre-X) Twitter iOS app](https://blog.gingerbeardman.com/2023/08/17/going-back-to-the-old-pre-x-twitter-ios-app/)
 * [2023-08-17, 17:48:23](https://lobste.rs/s/ysnhjj/using_rust_github_ci_for_my_blog) - [Using Rust and the GitHub CI for my blog](https://blog.kerollmops.com/using-rust-and-the-github-ci-for-my-blog)
 * [2023-08-17, 17:15:01](https://lobste.rs/s/e1mmhg/too_many_fonts_windows_10_can_cause_slow) - [Too Many Fonts in Windows 10 Can Cause Slow Application Starts](https://bigdanzblog.wordpress.com/2023/08/16/too-many-fonts-in-windows-10-can-cause-slow-application-starts/)
 * [2023-08-17, 16:58:16](https://lobste.rs/s/jzuce1/my_resignation_letter_as_r7rs_large_chair) - [My resignation letter as R7RS-large chair](https://groups.google.com/g/scheme-reports-wg2/c/xGd0_eeKmGI/m/q-xM5fbuAQAJ)
-* [2023-08-17, 16:38:03](https://lobste.rs/s/2yspzv/polymur_hash_polymurhash_universal_hash) - [polymur-hash: The PolymurHash universal hash function](https://github.com/orlp/polymur-hash)
 * [2023-08-17, 15:50:48](https://lobste.rs/s/fwpaco/talk_about_dhall) - [A talk about Dhall](https://till.red/b/6/)
 * [2023-08-17, 15:30:30](https://lobste.rs/s/kbdixh/talks_from_chaos_communication_camp_2023) - [Talks from Chaos Communication Camp 2023](https://media.ccc.de/c/camp2023?sort=view_count)
 * [2023-08-17, 14:25:35](https://lobste.rs/s/09naba/turning_keyboard_into_mouse_with) - [Turning a Keyboard into a Mouse with Libevdev](https://suricrasia.online/blog/turning-a-keyboard-into/)
@@ -23,7 +24,6 @@
 * [2023-08-16, 19:24:56](https://lobste.rs/s/bqcmxg/debian_celebrates_30_years) - [Debian Celebrates 30 years](https://bits.debian.org/2023/08/debian-turns-30.html)
 * [2023-08-16, 18:41:07](https://lobste.rs/s/zpgvkx/towards_https_by_default) - [Towards HTTPS by default](https://blog.chromium.org/2023/08/towards-https-by-default.html)
 * [2023-08-16, 16:52:37](https://lobste.rs/s/cjxr3m/let_s_stop_dependency_hell_launching_pixi) - [Let's stop dependency hell: launching pixi](https://prefix.dev/blog/launching_pixi)
-* [2023-08-16, 11:20:20](https://lobste.rs/s/oy3k81/slogtest) - [slogtest](https://telemachus.me/slogtest)
 * [2023-08-16, 09:59:16](https://lobste.rs/s/gbfe6c/expr_v1_14_release_go_expression_language) - [Expr v1.14 release: Go expression language](https://github.com/antonmedv/expr/releases/tag/v1.14.0)
 
 ## [Archives](archives/index.md)

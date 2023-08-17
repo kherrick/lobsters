@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-17](index.md)
 
+* [2023-08-17, 19:09:55](https://lobste.rs/s/s5eelk/windows_feature_resets_system_clocks) - [Windows feature that resets system clocks based on random data is wreaking havoc](https://arstechnica.com/security/2023/08/windows-feature-that-resets-system-clocks-based-on-random-data-is-wreaking-havoc/)
+* [2023-08-17, 19:09:12](https://lobste.rs/s/jacbrz/using_wordstar_diamond_2023) - [Using the WordStar diamond in 2023](https://benhoyt.com/writings/wordstar-diamond/)
 * [2023-08-17, 18:43:44](https://lobste.rs/s/cklb16/going_back_old_pre_x_twitter_ios_app) - [Going back to the old (pre-X) Twitter iOS app](https://blog.gingerbeardman.com/2023/08/17/going-back-to-the-old-pre-x-twitter-ios-app/)
 * [2023-08-17, 17:48:23](https://lobste.rs/s/ysnhjj/using_rust_github_ci_for_my_blog) - [Using Rust and the GitHub CI for my blog](https://blog.kerollmops.com/using-rust-and-the-github-ci-for-my-blog)
 * [2023-08-17, 17:15:01](https://lobste.rs/s/e1mmhg/too_many_fonts_windows_10_can_cause_slow) - [Too Many Fonts in Windows 10 Can Cause Slow Application Starts](https://bigdanzblog.wordpress.com/2023/08/16/too-many-fonts-in-windows-10-can-cause-slow-application-starts/)
