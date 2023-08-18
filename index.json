@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-18, 10:00:29",
+      "https://lobste.rs/s/fkpxrx/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/fkpxrx/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
+      "2023-08-18, 09:58:12",
+      "https://lobste.rs/s/tfnwv2/tclip_pastebin_for_your_tailnet"
+    ],
+    [
+      "tclip: A pastebin for your tailnet",
+      "https://tailscale.dev/blog/tclip"
+    ]
+  ],
+  [
+    [
       "2023-08-18, 09:36:14",
       "https://lobste.rs/s/5vorhi/terraform_is_dead_long_live_pulumi"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-08-17, 16:38:03",
-      "https://lobste.rs/s/2yspzv/polymur_hash_polymurhash_universal_hash"
-    ],
-    [
-      "polymur-hash: The PolymurHash universal hash function",
-      "https://github.com/orlp/polymur-hash"
-    ]
-  ],
-  [
-    [
       "2023-08-17, 16:14:04",
       "https://lobste.rs/s/khcdxp/authenticated_encryption_why_you_need_it"
     ],
@@ -177,16 +187,6 @@
     [
       "A talk about Dhall",
       "https://till.red/b/6/"
-    ]
-  ],
-  [
-    [
-      "2023-08-17, 14:25:35",
-      "https://lobste.rs/s/09naba/turning_keyboard_into_mouse_with"
-    ],
-    [
-      "Turning a Keyboard into a Mouse with Libevdev",
-      "https://suricrasia.online/blog/turning-a-keyboard-into/"
     ]
   ],
   [
