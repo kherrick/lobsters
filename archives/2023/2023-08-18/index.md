@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-18](index.md)
 
+* [2023-08-18, 12:14:03](https://lobste.rs/s/hbvto0/gil_removal_faster_cpython_project) - [GIL removal and the Faster CPython project](https://lwn.net/Articles/939981/)
 * [2023-08-18, 11:45:30](https://lobste.rs/s/hkkcan/typescript_is_surprisingly_ok_for) - [TypeScript is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
 * [2023-08-18, 10:59:49](https://lobste.rs/s/s0lp8s/moonbit_fast_compact_user_friendly) - [Moonbit: the fast, compact & user friendly language for WebAssembly](https://www.moonbitlang.com/blog/first-announce/)
 * [2023-08-18, 10:00:29](https://lobste.rs/s/fkpxrx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/fkpxrx/what_are_you_doing_this_weekend)

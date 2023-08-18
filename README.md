@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-18, 12:14:03](https://lobste.rs/s/hbvto0/gil_removal_faster_cpython_project) - [GIL removal and the Faster CPython project](https://lwn.net/Articles/939981/)
 * [2023-08-18, 11:45:30](https://lobste.rs/s/hkkcan/typescript_is_surprisingly_ok_for) - [TypeScript is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
 * [2023-08-18, 10:59:49](https://lobste.rs/s/s0lp8s/moonbit_fast_compact_user_friendly) - [Moonbit: the fast, compact & user friendly language for WebAssembly](https://www.moonbitlang.com/blog/first-announce/)
 * [2023-08-18, 10:00:29](https://lobste.rs/s/fkpxrx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/fkpxrx/what_are_you_doing_this_weekend)
@@ -13,7 +14,6 @@
 * [2023-08-18, 02:38:22](https://lobste.rs/s/vja3gq/learning_async_rust_with_entirely_too) - [Learning Async Rust With Entirely Too Many Web Servers](https://ibraheem.ca/posts/too-many-web-servers/)
 * [2023-08-18, 02:05:25](https://lobste.rs/s/letx5f/freebsd_bhyve_virtualization) - [FreeBSD Bhyve Virtualization](https://vermaden.wordpress.com/2023/08/18/freebsd-bhyve-virtualization/)
 * [2023-08-18, 01:31:00](https://lobste.rs/s/qidnrk/curious_case_disappearing_polish_s_2015) - [The curious case of the disappearing Polish S (2015)](https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df)
-* [2023-08-17, 23:38:20](https://lobste.rs/s/en736r/review_e_tugra_certificate_authority) - [Review of the e-Tugra Certificate Authority Inclusion in Mozilla’s Root Store](https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/C-HrP1SEq1A)
 * [2023-08-17, 19:09:12](https://lobste.rs/s/jacbrz/using_wordstar_diamond_2023) - [Using the WordStar diamond in 2023](https://benhoyt.com/writings/wordstar-diamond/)
 * [2023-08-17, 18:43:44](https://lobste.rs/s/cklb16/going_back_old_pre_x_twitter_ios_app) - [Going back to the old (pre-X) Twitter iOS app](https://blog.gingerbeardman.com/2023/08/17/going-back-to-the-old-pre-x-twitter-ios-app/)
 * [2023-08-17, 17:48:23](https://lobste.rs/s/ysnhjj/using_rust_github_ci_for_my_blog) - [Using Rust and the GitHub CI for my blog](https://blog.kerollmops.com/using-rust-and-the-github-ci-for-my-blog)
