@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-18](index.md)
 
+* [2023-08-18, 09:36:14](https://lobste.rs/s/5vorhi/terraform_is_dead_long_live_pulumi) - [Terraform is dead; Long live Pulumi?](https://matduggan.com/terraform-is-dead-long-live-pulumi/)
+* [2023-08-18, 09:30:13](https://lobste.rs/s/rru0cc/wtf_is_going_on_with_r7rs_large) - [WTF is going on with R7RS Large?](http://dpk.io/r7rswtf)
 * [2023-08-18, 09:01:19](https://lobste.rs/s/wvodzh/wordtsar_wordstar_clone_for_21st_century) - [WordTsar – A Wordstar clone for the 21st Century](http://wordtsar.ca/)
 * [2023-08-18, 07:37:55](https://lobste.rs/s/mx9hxr/career_advice_for_young_system) - [Career advice for young system programmers](https://glaubercosta-11125.medium.com/career-advice-for-young-system-programmers-c7443f2d3edf)
 * [2023-08-18, 06:07:49](https://lobste.rs/s/yuqner/innovations_aws_database_encryption_sdk) - [Innovations in the AWS Database Encryption SDK](https://scottarc.blog/2023/08/18/innovations-in-the-aws-database-encryption-sdk/)
