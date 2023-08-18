@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-08-18, 16:31:18",
+      "https://lobste.rs/s/mnvlal/porting_boolrule_rust"
+    ],
+    [
+      "Porting Boolrule To Rust",
+      "https://healeycodes.com/porting-boolrule-to-rust"
+    ]
+  ],
+  [
+    [
       "2023-08-18, 14:58:14",
       "https://lobste.rs/s/4uubid/qutebrowser_v3_0_0"
     ],
@@ -237,16 +247,6 @@
     [
       "A talk about Dhall",
       "https://till.red/b/6/"
-    ]
-  ],
-  [
-    [
-      "2023-08-17, 03:43:16",
-      "https://lobste.rs/s/esnei4/dear_sir_you_have_built_compiler_2022"
-    ],
-    [
-      "Dear Sir, You have built a compiler (2022)",
-      "https://rachit.pl/post/you-have-built-a-compiler/"
     ]
   ]
 ]
