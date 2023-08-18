@@ -5,6 +5,7 @@
 * [2023-08-18, 16:56:59](https://lobste.rs/s/m33j4d/i_don_t_use_exceptions_c_anymore) - [I Don't Use Exceptions in C++ Anymore](https://thelig.ht/no-more-exceptions)
 * [2023-08-18, 16:42:03](https://lobste.rs/s/qvolpv/c_c_prioritize_performance_over) - [C and C++ Prioritize Performance over Correctness](https://research.swtch.com/ub)
 * [2023-08-18, 16:34:19](https://lobste.rs/s/hxw6ei/get_going_with_gitops_feature_flags_using) - [Get Going with GitOps and Feature Flags using Flipt](https://www.flipt.io/docs/guides/get-going-with-gitops)
+* [2023-08-18, 16:31:18](https://lobste.rs/s/mnvlal/porting_boolrule_rust) - [Porting Boolrule To Rust](https://healeycodes.com/porting-boolrule-to-rust)
 * [2023-08-18, 14:58:14](https://lobste.rs/s/4uubid/qutebrowser_v3_0_0) - [qutebrowser v3.0.0](https://github.com/qutebrowser/qutebrowser/releases/tag/v3.0.0)
 * [2023-08-18, 14:12:36](https://lobste.rs/s/7zhqpl/fp_go_functional_programming_library_for) - [fp-go: functional programming library for golang](https://github.com/IBM/fp-go)
 * [2023-08-18, 13:16:01](https://lobste.rs/s/uhsgar/modernizing_compiler_design_for_carbon) - [Modernizing Compiler Design for Carbon Toolchain](https://youtube.com/watch?v=ZI198eFghJk)
@@ -24,7 +25,6 @@
 * [2023-08-17, 17:48:23](https://lobste.rs/s/ysnhjj/using_rust_github_ci_for_my_blog) - [Using Rust and the GitHub CI for my blog](https://blog.kerollmops.com/using-rust-and-the-github-ci-for-my-blog)
 * [2023-08-17, 16:58:16](https://lobste.rs/s/jzuce1/my_resignation_letter_as_r7rs_large_chair) - [My resignation letter as R7RS-large chair](https://groups.google.com/g/scheme-reports-wg2/c/xGd0_eeKmGI/m/q-xM5fbuAQAJ)
 * [2023-08-17, 15:50:48](https://lobste.rs/s/fwpaco/talk_about_dhall) - [A talk about Dhall](https://till.red/b/6/)
-* [2023-08-17, 03:43:16](https://lobste.rs/s/esnei4/dear_sir_you_have_built_compiler_2022) - [Dear Sir, You have built a compiler (2022)](https://rachit.pl/post/you-have-built-a-compiler/)
 
 ## [Archives](archives/index.md)
 
