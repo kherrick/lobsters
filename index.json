@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-18, 09:36:14",
+      "https://lobste.rs/s/5vorhi/terraform_is_dead_long_live_pulumi"
+    ],
+    [
+      "Terraform is dead; Long live Pulumi?",
+      "https://matduggan.com/terraform-is-dead-long-live-pulumi/"
+    ]
+  ],
+  [
+    [
+      "2023-08-18, 09:30:13",
+      "https://lobste.rs/s/rru0cc/wtf_is_going_on_with_r7rs_large"
+    ],
+    [
+      "WTF is going on with R7RS Large?",
+      "http://dpk.io/r7rswtf"
+    ]
+  ],
+  [
+    [
       "2023-08-18, 09:01:19",
       "https://lobste.rs/s/wvodzh/wordtsar_wordstar_clone_for_21st_century"
     ],
@@ -27,16 +47,6 @@
     [
       "Innovations in the AWS Database Encryption SDK",
       "https://scottarc.blog/2023/08/18/innovations-in-the-aws-database-encryption-sdk/"
-    ]
-  ],
-  [
-    [
-      "2023-08-18, 04:34:03",
-      "https://lobste.rs/s/m8waay/ydd_manifesto"
-    ],
-    [
-      "YDD manifesto",
-      "https://andersoncardoso.github.io/ydd/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "A talk about Dhall",
       "https://till.red/b/6/"
-    ]
-  ],
-  [
-    [
-      "2023-08-17, 15:30:30",
-      "https://lobste.rs/s/kbdixh/talks_from_chaos_communication_camp_2023"
-    ],
-    [
-      "Talks from Chaos Communication Camp 2023",
-      "https://media.ccc.de/c/camp2023?sort=view_count"
     ]
   ],
   [
