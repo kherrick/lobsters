@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-18, 23:30:05](https://lobste.rs/s/hy968n/how_speedrunners_broke_my_game) - [How Speedrunners Broke My Game](https://www.youtube.com/watch?v=XZuKakxAQ9o)
 * [2023-08-18, 22:13:08](https://lobste.rs/s/byl4iz/breaking_rules_i_threw_away_10_months_work) - [Breaking the rules: I threw away 10 months of work after 2 months on the job](https://www.dancowell.com/breaking-the-rules/)
 * [2023-08-18, 19:18:56](https://lobste.rs/s/5awvqj/fixing_tpm_hardware_security_modules) - [Fixing the TPM: Hardware Security Modules Done Right](https://loup-vaillant.fr/articles/hsm-done-right)
 * [2023-08-18, 18:33:26](https://lobste.rs/s/3ivlab/curbing_connection_churn_zuul) - [Curbing Connection Churn in Zuul](https://netflixtechblog.com/curbing-connection-churn-in-zuul-2feb273a3598)
@@ -19,7 +20,6 @@
 * [2023-08-18, 09:30:13](https://lobste.rs/s/rru0cc/wtf_is_going_on_with_r7rs_large) - [WTF is going on with R7RS Large?](http://dpk.io/r7rswtf)
 * [2023-08-18, 09:01:19](https://lobste.rs/s/wvodzh/wordtsar_wordstar_clone_for_21st_century) - [WordTsar – A Wordstar clone for the 21st Century](http://wordtsar.ca/)
 * [2023-08-18, 07:37:55](https://lobste.rs/s/mx9hxr/career_advice_for_young_system) - [Career advice for young system programmers](https://glaubercosta-11125.medium.com/career-advice-for-young-system-programmers-c7443f2d3edf)
-* [2023-08-18, 06:07:49](https://lobste.rs/s/yuqner/innovations_aws_database_encryption_sdk) - [Innovations in the AWS Database Encryption SDK](https://scottarc.blog/2023/08/18/innovations-in-the-aws-database-encryption-sdk/)
 * [2023-08-18, 02:05:25](https://lobste.rs/s/letx5f/freebsd_bhyve_virtualization) - [FreeBSD Bhyve Virtualization](https://vermaden.wordpress.com/2023/08/18/freebsd-bhyve-virtualization/)
 * [2023-08-18, 01:31:00](https://lobste.rs/s/qidnrk/curious_case_disappearing_polish_s_2015) - [The curious case of the disappearing Polish S (2015)](https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df)
 * [2023-08-17, 19:09:12](https://lobste.rs/s/jacbrz/using_wordstar_diamond_2023) - [Using the WordStar diamond in 2023](https://benhoyt.com/writings/wordstar-diamond/)
