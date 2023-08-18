@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-18](index.md)
 
+* [2023-08-18, 16:34:19](https://lobste.rs/s/hxw6ei/get_going_with_gitops_feature_flags_using) - [Get Going with GitOps and Feature Flags using Flipt](https://www.flipt.io/docs/guides/get-going-with-gitops)
 * [2023-08-18, 16:31:18](https://lobste.rs/s/mnvlal/porting_boolrule_rust) - [Porting Boolrule To Rust](https://healeycodes.com/porting-boolrule-to-rust)
 * [2023-08-18, 16:12:09](https://lobste.rs/s/7gg06y/why_vite_is_better_than_create_react_app) - [Why Vite is Better Than Create-React-App (CRA) | HackerNoon](https://hackernoon.com/why-vite-is-better-than-create-react-app-cra)
 * [2023-08-18, 15:18:22](https://lobste.rs/s/6sywe1/swifttui_swiftui_for_terminal) - [SwiftTUI: SwiftUI for terminal applications](https://github.com/rensbreur/SwiftTUI)
