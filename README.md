@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-18, 14:12:36](https://lobste.rs/s/7zhqpl/fp_go_functional_programming_library_for) - [fp-go: functional programming library for golang](https://github.com/IBM/fp-go)
 * [2023-08-18, 13:16:01](https://lobste.rs/s/uhsgar/modernizing_compiler_design_for_carbon) - [Modernizing Compiler Design for Carbon Toolchain - Chandler Carruth - CppNow 2023](https://youtube.com/watch?v=ZI198eFghJk)
 * [2023-08-18, 12:14:03](https://lobste.rs/s/hbvto0/gil_removal_faster_cpython_project) - [GIL removal and the Faster CPython project](https://lwn.net/Articles/939981/)
 * [2023-08-18, 11:45:30](https://lobste.rs/s/hkkcan/typescript_is_surprisingly_ok_for) - [TypeScript is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
@@ -19,7 +20,6 @@
 * [2023-08-17, 18:43:44](https://lobste.rs/s/cklb16/going_back_old_pre_x_twitter_ios_app) - [Going back to the old (pre-X) Twitter iOS app](https://blog.gingerbeardman.com/2023/08/17/going-back-to-the-old-pre-x-twitter-ios-app/)
 * [2023-08-17, 17:48:23](https://lobste.rs/s/ysnhjj/using_rust_github_ci_for_my_blog) - [Using Rust and the GitHub CI for my blog](https://blog.kerollmops.com/using-rust-and-the-github-ci-for-my-blog)
 * [2023-08-17, 16:58:16](https://lobste.rs/s/jzuce1/my_resignation_letter_as_r7rs_large_chair) - [My resignation letter as R7RS-large chair](https://groups.google.com/g/scheme-reports-wg2/c/xGd0_eeKmGI/m/q-xM5fbuAQAJ)
-* [2023-08-17, 16:14:04](https://lobste.rs/s/khcdxp/authenticated_encryption_why_you_need_it) - [Authenticated encryption: why you need it and how it works](https://andrea.corbellini.name/2023/03/09/authenticated-encryption/)
 * [2023-08-17, 15:50:48](https://lobste.rs/s/fwpaco/talk_about_dhall) - [A talk about Dhall](https://till.red/b/6/)
 * [2023-08-17, 10:41:00](https://lobste.rs/s/cuxddq/jira_cli_feature_rich_interactive_jira) - [jira-cli: Feature-rich interactive Jira command line](https://github.com/ankitpokhrel/jira-cli)
 * [2023-08-17, 06:42:29](https://lobste.rs/s/nd5svs/home_not_so_sweet_home) - [$HOME, Not So Sweet $HOME](https://gist.github.com/sharadhr/39b804236c1941e9c30d90af828ad41e)
