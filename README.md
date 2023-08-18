@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-08-18, 16:42:15](https://lobste.rs/s/8kuwds/what_figma_s_dev_mode_means_for_developers) - [What Figma’s Dev Mode Means for Developers](https://www.makeuseof.com/figma-dev-mode-developers/)
+* [2023-08-18, 16:56:59](https://lobste.rs/s/m33j4d/i_don_t_use_exceptions_c_anymore) - [I Don't Use Exceptions in C++ Anymore](https://thelig.ht/no-more-exceptions)
 * [2023-08-18, 16:34:19](https://lobste.rs/s/hxw6ei/get_going_with_gitops_feature_flags_using) - [Get Going with GitOps and Feature Flags using Flipt](https://www.flipt.io/docs/guides/get-going-with-gitops)
 * [2023-08-18, 15:18:22](https://lobste.rs/s/6sywe1/swifttui_swiftui_for_terminal) - [SwiftTUI: SwiftUI for terminal applications](https://github.com/rensbreur/SwiftTUI)
 * [2023-08-18, 14:58:14](https://lobste.rs/s/4uubid/qutebrowser_v3_0_0) - [qutebrowser v3.0.0](https://github.com/qutebrowser/qutebrowser/releases/tag/v3.0.0)
