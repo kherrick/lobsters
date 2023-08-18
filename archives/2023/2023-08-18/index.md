@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-18](index.md)
 
+* [2023-08-18, 16:12:09](https://lobste.rs/s/7gg06y/why_vite_is_better_than_create_react_app) - [Why Vite is Better Than Create-React-App (CRA) | HackerNoon](https://hackernoon.com/why-vite-is-better-than-create-react-app-cra)
 * [2023-08-18, 15:18:22](https://lobste.rs/s/6sywe1/swifttui_swiftui_for_terminal) - [SwiftTUI: SwiftUI for terminal applications](https://github.com/rensbreur/SwiftTUI)
 * [2023-08-18, 14:58:14](https://lobste.rs/s/4uubid/qutebrowser_v3_0_0) - [qutebrowser v3.0.0](https://github.com/qutebrowser/qutebrowser/releases/tag/v3.0.0)
 * [2023-08-18, 14:12:36](https://lobste.rs/s/7zhqpl/fp_go_functional_programming_library_for) - [fp-go: functional programming library for golang](https://github.com/IBM/fp-go)
