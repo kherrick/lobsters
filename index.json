@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2023-08-18, 02:38:22",
-      "https://lobste.rs/s/vja3gq/learning_async_rust_with_entirely_too"
-    ],
-    [
-      "Learning Async Rust With Entirely Too Many Web Servers",
-      "https://ibraheem.ca/posts/too-many-web-servers/"
-    ]
-  ],
-  [
-    [
       "2023-08-18, 02:05:25",
       "https://lobste.rs/s/letx5f/freebsd_bhyve_virtualization"
     ],
@@ -187,6 +177,16 @@
     [
       "My resignation letter as R7RS-large chair",
       "https://groups.google.com/g/scheme-reports-wg2/c/xGd0_eeKmGI/m/q-xM5fbuAQAJ"
+    ]
+  ],
+  [
+    [
+      "2023-08-17, 16:14:04",
+      "https://lobste.rs/s/khcdxp/authenticated_encryption_why_you_need_it"
+    ],
+    [
+      "Authenticated encryption: why you need it and how it works",
+      "https://andrea.corbellini.name/2023/03/09/authenticated-encryption/"
     ]
   ],
   [
