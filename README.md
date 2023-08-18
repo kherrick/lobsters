@@ -2,7 +2,6 @@
 
 * [2023-08-18, 07:37:55](https://lobste.rs/s/mx9hxr/career_advice_for_young_system) - [Career advice for young system programmers](https://glaubercosta-11125.medium.com/career-advice-for-young-system-programmers-c7443f2d3edf)
 * [2023-08-18, 06:07:49](https://lobste.rs/s/yuqner/innovations_aws_database_encryption_sdk) - [Innovations in the AWS Database Encryption SDK](https://scottarc.blog/2023/08/18/innovations-in-the-aws-database-encryption-sdk/)
-* [2023-08-18, 04:34:03](https://lobste.rs/s/m8waay/ydd_manifesto) - [YDD manifesto](https://andersoncardoso.github.io/ydd/)
 * [2023-08-18, 02:49:53](https://lobste.rs/s/0lp3dt/wordstar_writer_s_word_processor_1996) - [WordStar: A Writer’s Word Processor (1996)](https://www.sfwriter.com/wordstar.htm)
 * [2023-08-18, 02:38:22](https://lobste.rs/s/vja3gq/learning_async_rust_with_entirely_too) - [Learning Async Rust With Entirely Too Many Web Servers](https://ibraheem.ca/posts/too-many-web-servers/)
 * [2023-08-18, 02:05:25](https://lobste.rs/s/letx5f/freebsd_bhyve_virtualization) - [FreeBSD Bhyve Virtualization](https://vermaden.wordpress.com/2023/08/18/freebsd-bhyve-virtualization/)
@@ -14,6 +13,7 @@
 * [2023-08-17, 18:43:44](https://lobste.rs/s/cklb16/going_back_old_pre_x_twitter_ios_app) - [Going back to the old (pre-X) Twitter iOS app](https://blog.gingerbeardman.com/2023/08/17/going-back-to-the-old-pre-x-twitter-ios-app/)
 * [2023-08-17, 17:48:23](https://lobste.rs/s/ysnhjj/using_rust_github_ci_for_my_blog) - [Using Rust and the GitHub CI for my blog](https://blog.kerollmops.com/using-rust-and-the-github-ci-for-my-blog)
 * [2023-08-17, 16:58:16](https://lobste.rs/s/jzuce1/my_resignation_letter_as_r7rs_large_chair) - [My resignation letter as R7RS-large chair](https://groups.google.com/g/scheme-reports-wg2/c/xGd0_eeKmGI/m/q-xM5fbuAQAJ)
+* [2023-08-17, 16:38:03](https://lobste.rs/s/2yspzv/polymur_hash_polymurhash_universal_hash) - [polymur-hash: The PolymurHash universal hash function](https://github.com/orlp/polymur-hash)
 * [2023-08-17, 16:14:04](https://lobste.rs/s/khcdxp/authenticated_encryption_why_you_need_it) - [Authenticated encryption: why you need it and how it works](https://andrea.corbellini.name/2023/03/09/authenticated-encryption/)
 * [2023-08-17, 15:50:48](https://lobste.rs/s/fwpaco/talk_about_dhall) - [A talk about Dhall](https://till.red/b/6/)
 * [2023-08-17, 15:30:30](https://lobste.rs/s/kbdixh/talks_from_chaos_communication_camp_2023) - [Talks from Chaos Communication Camp 2023](https://media.ccc.de/c/camp2023?sort=view_count)
