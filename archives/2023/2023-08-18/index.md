@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-18](index.md)
 
+* [2023-08-18, 13:16:01](https://lobste.rs/s/uhsgar/modernizing_compiler_design_for_carbon) - [Modernizing Compiler Design for Carbon Toolchain - Chandler Carruth - CppNow 2023](https://youtube.com/watch?v=ZI198eFghJk)
 * [2023-08-18, 12:14:03](https://lobste.rs/s/hbvto0/gil_removal_faster_cpython_project) - [GIL removal and the Faster CPython project](https://lwn.net/Articles/939981/)
 * [2023-08-18, 11:45:30](https://lobste.rs/s/hkkcan/typescript_is_surprisingly_ok_for) - [TypeScript is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
 * [2023-08-18, 10:59:49](https://lobste.rs/s/s0lp8s/moonbit_fast_compact_user_friendly) - [Moonbit: the fast, compact & user friendly language for WebAssembly](https://www.moonbitlang.com/blog/first-announce/)
