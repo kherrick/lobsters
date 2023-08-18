@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-18, 02:05:25](https://lobste.rs/s/letx5f/freebsd_bhyve_virtualization) - [FreeBSD Bhyve Virtualization](https://vermaden.wordpress.com/2023/08/18/freebsd-bhyve-virtualization/)
 * [2023-08-18, 01:31:00](https://lobste.rs/s/qidnrk/curious_case_disappearing_polish_s_2015) - [The curious case of the disappearing Polish S (2015)](https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df)
 * [2023-08-17, 23:38:20](https://lobste.rs/s/en736r/review_e_tugra_certificate_authority) - [Review of the e-Tugra Certificate Authority Inclusion in Mozilla’s Root Store](https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/C-HrP1SEq1A)
 * [2023-08-17, 20:14:08](https://lobste.rs/s/fiyoh2/what_are_most_active_helpful_email) - [What are the most active/helpful (email) mailing lists out there?](https://lobste.rs/s/fiyoh2/what_are_most_active_helpful_email)
@@ -21,7 +22,6 @@
 * [2023-08-17, 06:42:29](https://lobste.rs/s/nd5svs/home_not_so_sweet_home) - [$HOME, Not So Sweet $HOME](https://gist.github.com/sharadhr/39b804236c1941e9c30d90af828ad41e)
 * [2023-08-17, 03:43:16](https://lobste.rs/s/esnei4/dear_sir_you_have_built_compiler_2022) - [Dear Sir, You have built a compiler (2022)](https://rachit.pl/post/you-have-built-a-compiler/)
 * [2023-08-17, 02:22:32](https://lobste.rs/s/5facyn/red_hat_clone_wars) - [Red Hat and the Clone Wars](https://dissociatedpress.net/2023/06/24/red-hat-and-the-clone-wars/)
-* [2023-08-17, 00:19:19](https://lobste.rs/s/vkcnau/optimise_expensive_first) - [Optimise the Expensive First](https://two-wrongs.com/optimise-the-expensive-first)
 * [2023-08-16, 19:24:56](https://lobste.rs/s/bqcmxg/debian_celebrates_30_years) - [Debian Celebrates 30 years](https://bits.debian.org/2023/08/debian-turns-30.html)
 * [2023-08-16, 18:41:07](https://lobste.rs/s/zpgvkx/towards_https_by_default) - [Towards HTTPS by default](https://blog.chromium.org/2023/08/towards-https-by-default.html)
 * [2023-08-16, 16:52:37](https://lobste.rs/s/cjxr3m/let_s_stop_dependency_hell_launching_pixi) - [Let's stop dependency hell: launching pixi](https://prefix.dev/blog/launching_pixi)
