@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-18, 11:45:30",
+      "https://lobste.rs/s/hkkcan/typescript_is_surprisingly_ok_for"
+    ],
+    [
+      "TypeScript is Surprisingly OK for Compilers",
+      "https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html"
+    ]
+  ],
+  [
+    [
       "2023-08-18, 10:59:49",
       "https://lobste.rs/s/s0lp8s/moonbit_fast_compact_user_friendly"
     ],
@@ -187,16 +197,6 @@
     [
       "A talk about Dhall",
       "https://till.red/b/6/"
-    ]
-  ],
-  [
-    [
-      "2023-08-17, 14:06:01",
-      "https://lobste.rs/s/hhms71/emacs_28_antinews"
-    ],
-    [
-      "Emacs 28 Antinews",
-      "https://www.gnu.org/software/emacs/manual/html_node/emacs/Antinews.html"
     ]
   ],
   [
