@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-18, 16:31:18](https://lobste.rs/s/mnvlal/porting_boolrule_rust) - [Porting Boolrule To Rust](https://healeycodes.com/porting-boolrule-to-rust)
 * [2023-08-18, 16:12:09](https://lobste.rs/s/7gg06y/why_vite_is_better_than_create_react_app) - [Why Vite is Better Than Create-React-App (CRA) | HackerNoon](https://hackernoon.com/why-vite-is-better-than-create-react-app-cra)
 * [2023-08-18, 15:18:22](https://lobste.rs/s/6sywe1/swifttui_swiftui_for_terminal) - [SwiftTUI: SwiftUI for terminal applications](https://github.com/rensbreur/SwiftTUI)
 * [2023-08-18, 14:58:14](https://lobste.rs/s/4uubid/qutebrowser_v3_0_0) - [qutebrowser v3.0.0](https://github.com/qutebrowser/qutebrowser/releases/tag/v3.0.0)
@@ -15,7 +16,6 @@
 * [2023-08-18, 09:01:19](https://lobste.rs/s/wvodzh/wordtsar_wordstar_clone_for_21st_century) - [WordTsar – A Wordstar clone for the 21st Century](http://wordtsar.ca/)
 * [2023-08-18, 07:37:55](https://lobste.rs/s/mx9hxr/career_advice_for_young_system) - [Career advice for young system programmers](https://glaubercosta-11125.medium.com/career-advice-for-young-system-programmers-c7443f2d3edf)
 * [2023-08-18, 06:07:49](https://lobste.rs/s/yuqner/innovations_aws_database_encryption_sdk) - [Innovations in the AWS Database Encryption SDK](https://scottarc.blog/2023/08/18/innovations-in-the-aws-database-encryption-sdk/)
-* [2023-08-18, 02:38:22](https://lobste.rs/s/vja3gq/learning_async_rust_with_entirely_too) - [Learning Async Rust With Entirely Too Many Web Servers](https://ibraheem.ca/posts/too-many-web-servers/)
 * [2023-08-18, 02:05:25](https://lobste.rs/s/letx5f/freebsd_bhyve_virtualization) - [FreeBSD Bhyve Virtualization](https://vermaden.wordpress.com/2023/08/18/freebsd-bhyve-virtualization/)
 * [2023-08-18, 01:31:00](https://lobste.rs/s/qidnrk/curious_case_disappearing_polish_s_2015) - [The curious case of the disappearing Polish S (2015)](https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df)
 * [2023-08-17, 19:09:12](https://lobste.rs/s/jacbrz/using_wordstar_diamond_2023) - [Using the WordStar diamond in 2023](https://benhoyt.com/writings/wordstar-diamond/)
