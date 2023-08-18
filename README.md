@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-18, 09:01:19](https://lobste.rs/s/wvodzh/wordtsar_wordstar_clone_for_21st_century) - [WordTsar – A Wordstar clone for the 21st Century](http://wordtsar.ca/)
 * [2023-08-18, 07:37:55](https://lobste.rs/s/mx9hxr/career_advice_for_young_system) - [Career advice for young system programmers](https://glaubercosta-11125.medium.com/career-advice-for-young-system-programmers-c7443f2d3edf)
 * [2023-08-18, 06:07:49](https://lobste.rs/s/yuqner/innovations_aws_database_encryption_sdk) - [Innovations in the AWS Database Encryption SDK](https://scottarc.blog/2023/08/18/innovations-in-the-aws-database-encryption-sdk/)
 * [2023-08-18, 02:49:53](https://lobste.rs/s/0lp3dt/wordstar_writer_s_word_processor_1996) - [WordStar: A Writer’s Word Processor (1996)](https://www.sfwriter.com/wordstar.htm)
@@ -19,7 +20,6 @@
 * [2023-08-17, 15:30:30](https://lobste.rs/s/kbdixh/talks_from_chaos_communication_camp_2023) - [Talks from Chaos Communication Camp 2023](https://media.ccc.de/c/camp2023?sort=view_count)
 * [2023-08-17, 14:25:35](https://lobste.rs/s/09naba/turning_keyboard_into_mouse_with) - [Turning a Keyboard into a Mouse with Libevdev](https://suricrasia.online/blog/turning-a-keyboard-into/)
 * [2023-08-17, 14:06:01](https://lobste.rs/s/hhms71/emacs_28_antinews) - [Emacs 28 Antinews](https://www.gnu.org/software/emacs/manual/html_node/emacs/Antinews.html)
-* [2023-08-17, 13:26:20](https://lobste.rs/s/epk42u/homomorphic_encryption_with_images) - [Homomorphic Encryption with Images](https://azeemba.com/posts/homomorphic-encryption-with-images.html)
 * [2023-08-17, 11:05:01](https://lobste.rs/s/wnv3ep/avoiding_pitfalls_go) - [Avoiding Pitfalls in Go](https://www.dolthub.com/blog/2023-08-16-go-pitfalls/)
 * [2023-08-17, 10:41:00](https://lobste.rs/s/cuxddq/jira_cli_feature_rich_interactive_jira) - [jira-cli: Feature-rich interactive Jira command line](https://github.com/ankitpokhrel/jira-cli)
 * [2023-08-17, 06:42:29](https://lobste.rs/s/nd5svs/home_not_so_sweet_home) - [$HOME, Not So Sweet $HOME](https://gist.github.com/sharadhr/39b804236c1941e9c30d90af828ad41e)

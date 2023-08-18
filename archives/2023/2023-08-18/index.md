@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-18](index.md)
 
+* [2023-08-18, 09:01:19](https://lobste.rs/s/wvodzh/wordtsar_wordstar_clone_for_21st_century) - [WordTsar – A Wordstar clone for the 21st Century](http://wordtsar.ca/)
 * [2023-08-18, 07:37:55](https://lobste.rs/s/mx9hxr/career_advice_for_young_system) - [Career advice for young system programmers](https://glaubercosta-11125.medium.com/career-advice-for-young-system-programmers-c7443f2d3edf)
 * [2023-08-18, 06:07:49](https://lobste.rs/s/yuqner/innovations_aws_database_encryption_sdk) - [Innovations in the AWS Database Encryption SDK](https://scottarc.blog/2023/08/18/innovations-in-the-aws-database-encryption-sdk/)
 * [2023-08-18, 04:34:03](https://lobste.rs/s/m8waay/ydd_manifesto) - [YDD manifesto](https://andersoncardoso.github.io/ydd/)
