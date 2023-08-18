@@ -6,6 +6,7 @@
 
 * [2023-08-18, 16:56:59](https://lobste.rs/s/m33j4d/i_don_t_use_exceptions_c_anymore) - [I Don't Use Exceptions in C++ Anymore](https://thelig.ht/no-more-exceptions)
 * [2023-08-18, 16:42:15](https://lobste.rs/s/8kuwds/what_figma_s_dev_mode_means_for_developers) - [What Figma’s Dev Mode Means for Developers](https://www.makeuseof.com/figma-dev-mode-developers/)
+* [2023-08-18, 16:42:03](https://lobste.rs/s/qvolpv/c_c_prioritize_performance_over) - [C and C++ Prioritize Performance over Correctness](https://research.swtch.com/ub)
 * [2023-08-18, 16:34:19](https://lobste.rs/s/hxw6ei/get_going_with_gitops_feature_flags_using) - [Get Going with GitOps and Feature Flags using Flipt](https://www.flipt.io/docs/guides/get-going-with-gitops)
 * [2023-08-18, 16:31:18](https://lobste.rs/s/mnvlal/porting_boolrule_rust) - [Porting Boolrule To Rust](https://healeycodes.com/porting-boolrule-to-rust)
 * [2023-08-18, 16:12:09](https://lobste.rs/s/7gg06y/why_vite_is_better_than_create_react_app) - [Why Vite is Better Than Create-React-App (CRA) | HackerNoon](https://hackernoon.com/why-vite-is-better-than-create-react-app-cra)
