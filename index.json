@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2023-08-17, 19:09:55",
+      "https://lobste.rs/s/s5eelk/windows_feature_resets_system_clocks"
+    ],
+    [
+      "Windows feature that resets system clocks based on random data is wreaking havoc",
+      "https://arstechnica.com/security/2023/08/windows-feature-that-resets-system-clocks-based-on-random-data-is-wreaking-havoc/"
+    ]
+  ],
+  [
+    [
       "2023-08-17, 19:09:12",
       "https://lobste.rs/s/jacbrz/using_wordstar_diamond_2023"
     ],
@@ -237,16 +247,6 @@
     [
       "Debian Celebrates 30 years",
       "https://bits.debian.org/2023/08/debian-turns-30.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-16, 18:41:07",
-      "https://lobste.rs/s/zpgvkx/towards_https_by_default"
-    ],
-    [
-      "Towards HTTPS by default",
-      "https://blog.chromium.org/2023/08/towards-https-by-default.html"
     ]
   ]
 ]
