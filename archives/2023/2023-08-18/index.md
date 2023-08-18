@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-18](index.md)
 
+* [2023-08-18, 10:59:49](https://lobste.rs/s/s0lp8s/moonbit_fast_compact_user_friendly) - [Moonbit: the fast, compact & user friendly language for WebAssembly](https://www.moonbitlang.com/blog/first-announce/)
 * [2023-08-18, 10:00:29](https://lobste.rs/s/fkpxrx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/fkpxrx/what_are_you_doing_this_weekend)
 * [2023-08-18, 09:58:12](https://lobste.rs/s/tfnwv2/tclip_pastebin_for_your_tailnet) - [tclip: A pastebin for your tailnet](https://tailscale.dev/blog/tclip)
 * [2023-08-18, 09:36:14](https://lobste.rs/s/5vorhi/terraform_is_dead_long_live_pulumi) - [Terraform is dead; Long live Pulumi?](https://matduggan.com/terraform-is-dead-long-live-pulumi/)
