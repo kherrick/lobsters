@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-08-17, 19:09:55",
+      "https://lobste.rs/s/s5eelk/windows_feature_resets_system_clocks"
+    ],
+    [
+      "Windows feature that resets system clocks based on random data is wreaking havoc",
+      "https://arstechnica.com/security/2023/08/windows-feature-that-resets-system-clocks-based-on-random-data-is-wreaking-havoc/"
+    ]
+  ],
+  [
+    [
       "2023-08-17, 19:09:12",
       "https://lobste.rs/s/jacbrz/using_wordstar_diamond_2023"
     ],
@@ -237,16 +247,6 @@
     [
       "Towards HTTPS by default",
       "https://blog.chromium.org/2023/08/towards-https-by-default.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-16, 16:52:37",
-      "https://lobste.rs/s/cjxr3m/let_s_stop_dependency_hell_launching_pixi"
-    ],
-    [
-      "Let's stop dependency hell: launching pixi",
-      "https://prefix.dev/blog/launching_pixi"
     ]
   ]
 ]
