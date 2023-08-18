@@ -4,6 +4,7 @@
 * [2023-08-18, 01:31:00](https://lobste.rs/s/qidnrk/curious_case_disappearing_polish_s_2015) - [The curious case of the disappearing Polish S (2015)](https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df)
 * [2023-08-17, 23:38:20](https://lobste.rs/s/en736r/review_e_tugra_certificate_authority) - [Review of the e-Tugra Certificate Authority Inclusion in Mozilla’s Root Store](https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/C-HrP1SEq1A)
 * [2023-08-17, 20:14:08](https://lobste.rs/s/fiyoh2/what_are_most_active_helpful_email) - [What are the most active/helpful (email) mailing lists out there?](https://lobste.rs/s/fiyoh2/what_are_most_active_helpful_email)
+* [2023-08-17, 19:09:55](https://lobste.rs/s/s5eelk/windows_feature_resets_system_clocks) - [Windows feature that resets system clocks based on random data is wreaking havoc](https://arstechnica.com/security/2023/08/windows-feature-that-resets-system-clocks-based-on-random-data-is-wreaking-havoc/)
 * [2023-08-17, 19:09:12](https://lobste.rs/s/jacbrz/using_wordstar_diamond_2023) - [Using the WordStar diamond in 2023](https://benhoyt.com/writings/wordstar-diamond/)
 * [2023-08-17, 18:43:44](https://lobste.rs/s/cklb16/going_back_old_pre_x_twitter_ios_app) - [Going back to the old (pre-X) Twitter iOS app](https://blog.gingerbeardman.com/2023/08/17/going-back-to-the-old-pre-x-twitter-ios-app/)
 * [2023-08-17, 17:48:23](https://lobste.rs/s/ysnhjj/using_rust_github_ci_for_my_blog) - [Using Rust and the GitHub CI for my blog](https://blog.kerollmops.com/using-rust-and-the-github-ci-for-my-blog)
@@ -24,7 +25,6 @@
 * [2023-08-17, 02:22:32](https://lobste.rs/s/5facyn/red_hat_clone_wars) - [Red Hat and the Clone Wars](https://dissociatedpress.net/2023/06/24/red-hat-and-the-clone-wars/)
 * [2023-08-16, 19:24:56](https://lobste.rs/s/bqcmxg/debian_celebrates_30_years) - [Debian Celebrates 30 years](https://bits.debian.org/2023/08/debian-turns-30.html)
 * [2023-08-16, 18:41:07](https://lobste.rs/s/zpgvkx/towards_https_by_default) - [Towards HTTPS by default](https://blog.chromium.org/2023/08/towards-https-by-default.html)
-* [2023-08-16, 16:52:37](https://lobste.rs/s/cjxr3m/let_s_stop_dependency_hell_launching_pixi) - [Let's stop dependency hell: launching pixi](https://prefix.dev/blog/launching_pixi)
 
 ## [Archives](archives/index.md)
 
