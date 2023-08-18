@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-18, 04:34:03](https://lobste.rs/s/m8waay/ydd_manifesto) - [YDD manifesto](https://andersoncardoso.github.io/ydd/)
 * [2023-08-18, 02:49:53](https://lobste.rs/s/0lp3dt/wordstar_writer_s_word_processor_1996) - [WordStar: A Writer’s Word Processor (1996)](https://www.sfwriter.com/wordstar.htm)
 * [2023-08-18, 02:38:22](https://lobste.rs/s/vja3gq/learning_async_rust_with_entirely_too) - [Learning Async Rust With Entirely Too Many Web Servers](https://ibraheem.ca/posts/too-many-web-servers/)
 * [2023-08-18, 02:05:25](https://lobste.rs/s/letx5f/freebsd_bhyve_virtualization) - [FreeBSD Bhyve Virtualization](https://vermaden.wordpress.com/2023/08/18/freebsd-bhyve-virtualization/)
@@ -22,7 +23,6 @@
 * [2023-08-17, 10:41:00](https://lobste.rs/s/cuxddq/jira_cli_feature_rich_interactive_jira) - [jira-cli: Feature-rich interactive Jira command line](https://github.com/ankitpokhrel/jira-cli)
 * [2023-08-17, 06:42:29](https://lobste.rs/s/nd5svs/home_not_so_sweet_home) - [$HOME, Not So Sweet $HOME](https://gist.github.com/sharadhr/39b804236c1941e9c30d90af828ad41e)
 * [2023-08-17, 03:43:16](https://lobste.rs/s/esnei4/dear_sir_you_have_built_compiler_2022) - [Dear Sir, You have built a compiler (2022)](https://rachit.pl/post/you-have-built-a-compiler/)
-* [2023-08-17, 02:22:32](https://lobste.rs/s/5facyn/red_hat_clone_wars) - [Red Hat and the Clone Wars](https://dissociatedpress.net/2023/06/24/red-hat-and-the-clone-wars/)
 * [2023-08-16, 19:24:56](https://lobste.rs/s/bqcmxg/debian_celebrates_30_years) - [Debian Celebrates 30 years](https://bits.debian.org/2023/08/debian-turns-30.html)
 * [2023-08-16, 18:41:07](https://lobste.rs/s/zpgvkx/towards_https_by_default) - [Towards HTTPS by default](https://blog.chromium.org/2023/08/towards-https-by-default.html)
 
