@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-18, 02:38:22](https://lobste.rs/s/vja3gq/learning_async_rust_with_entirely_too) - [Learning Async Rust With Entirely Too Many Web Servers](https://ibraheem.ca/posts/too-many-web-servers/)
 * [2023-08-18, 02:05:25](https://lobste.rs/s/letx5f/freebsd_bhyve_virtualization) - [FreeBSD Bhyve Virtualization](https://vermaden.wordpress.com/2023/08/18/freebsd-bhyve-virtualization/)
 * [2023-08-18, 01:31:00](https://lobste.rs/s/qidnrk/curious_case_disappearing_polish_s_2015) - [The curious case of the disappearing Polish S (2015)](https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df)
 * [2023-08-17, 23:38:20](https://lobste.rs/s/en736r/review_e_tugra_certificate_authority) - [Review of the e-Tugra Certificate Authority Inclusion in Mozilla’s Root Store](https://groups.google.com/a/mozilla.org/g/dev-security-policy/c/C-HrP1SEq1A)
@@ -18,7 +19,6 @@
 * [2023-08-17, 14:06:01](https://lobste.rs/s/hhms71/emacs_28_antinews) - [Emacs 28 Antinews](https://www.gnu.org/software/emacs/manual/html_node/emacs/Antinews.html)
 * [2023-08-17, 13:26:20](https://lobste.rs/s/epk42u/homomorphic_encryption_with_images) - [Homomorphic Encryption with Images](https://azeemba.com/posts/homomorphic-encryption-with-images.html)
 * [2023-08-17, 11:05:01](https://lobste.rs/s/wnv3ep/avoiding_pitfalls_go) - [Avoiding Pitfalls in Go](https://www.dolthub.com/blog/2023-08-16-go-pitfalls/)
-* [2023-08-17, 10:46:28](https://lobste.rs/s/r9o9md/webassembly_for_rest_us) - [WebAssembly for the rest of us](https://www.youtube.com/watch?v=lUCegCa7A08)
 * [2023-08-17, 10:41:00](https://lobste.rs/s/cuxddq/jira_cli_feature_rich_interactive_jira) - [jira-cli: Feature-rich interactive Jira command line](https://github.com/ankitpokhrel/jira-cli)
 * [2023-08-17, 06:42:29](https://lobste.rs/s/nd5svs/home_not_so_sweet_home) - [$HOME, Not So Sweet $HOME](https://gist.github.com/sharadhr/39b804236c1941e9c30d90af828ad41e)
 * [2023-08-17, 03:43:16](https://lobste.rs/s/esnei4/dear_sir_you_have_built_compiler_2022) - [Dear Sir, You have built a compiler (2022)](https://rachit.pl/post/you-have-built-a-compiler/)
