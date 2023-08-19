@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-19, 10:24:21](https://lobste.rs/s/80lw9s/serde_has_started_shipping_precompiled) - [Serde has started shipping precompiled binaries with no way to opt out](https://github.com/serde-rs/serde/issues/2538)
+* [2023-08-19, 10:23:35](https://lobste.rs/s/uqfbuo/thoughts_on_elixir_phoenix_liveview) - [Thoughts on Elixir, Phoenix and LiveView after 18 months of commercial use](https://korban.net/posts/2023-08-11-thoughts-on-elixir-phoenix-liveview/)
 * [2023-08-19, 08:35:25](https://lobste.rs/s/rnhytn/diagram_layout_stages) - [Diagram Layout in Stages](https://penrose.cs.cmu.edu/blog/staged-layout)
 * [2023-08-19, 07:35:32](https://lobste.rs/s/5knwyh/zlib_1_3_madler_zlib_09155ea) - [zlib 1.3 · madler/zlib@09155ea](https://github.com/madler/zlib/commit/09155eaa2f9270dc4ed1fa13e2b4b2613e6e4851)
 * [2023-08-19, 00:52:36](https://lobste.rs/s/7vb8tm/mathematical_magic_mirrorball) - [Mathematical Magic Mirrorball](https://youtu.be/rJPKTCdk-WI)
 * [2023-08-18, 23:30:05](https://lobste.rs/s/hy968n/how_speedrunners_broke_my_game) - [How Speedrunners Broke My Game](https://www.youtube.com/watch?v=XZuKakxAQ9o)
 * [2023-08-18, 22:13:08](https://lobste.rs/s/byl4iz/breaking_rules_i_threw_away_10_months_work) - [Breaking the rules: I threw away 10 months of work after 2 months on the job](https://www.dancowell.com/breaking-the-rules/)
-* [2023-08-18, 20:17:57](https://lobste.rs/s/js91bq/algebraic_data_types_lua_almost) - [Algebraic data types in Lua (Almost)](https://mrcjkb.dev/posts/2023-08-17-lua-adts.html)
 * [2023-08-18, 19:18:56](https://lobste.rs/s/5awvqj/fixing_tpm_hardware_security_modules) - [Fixing the TPM: Hardware Security Modules Done Right](https://loup-vaillant.fr/articles/hsm-done-right)
 * [2023-08-18, 18:53:30](https://lobste.rs/s/pbxyst/one_thing_i_d_change_about_go) - [The One Thing I'd Change About Go](https://blog.boot.dev/golang/one-thing-id-change-about-go/)
 * [2023-08-18, 16:56:59](https://lobste.rs/s/m33j4d/i_don_t_use_exceptions_c_anymore) - [I Don't Use Exceptions in C++ Anymore](https://thelig.ht/no-more-exceptions)
@@ -24,7 +25,6 @@
 * [2023-08-18, 02:05:25](https://lobste.rs/s/letx5f/freebsd_bhyve_virtualization) - [FreeBSD Bhyve Virtualization](https://vermaden.wordpress.com/2023/08/18/freebsd-bhyve-virtualization/)
 * [2023-08-18, 01:31:00](https://lobste.rs/s/qidnrk/curious_case_disappearing_polish_s_2015) - [The curious case of the disappearing Polish S (2015)](https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df)
 * [2023-08-17, 19:09:12](https://lobste.rs/s/jacbrz/using_wordstar_diamond_2023) - [Using the WordStar diamond in 2023](https://benhoyt.com/writings/wordstar-diamond/)
-* [2023-08-17, 16:58:16](https://lobste.rs/s/jzuce1/my_resignation_letter_as_r7rs_large_chair) - [My resignation letter as R7RS-large chair](https://groups.google.com/g/scheme-reports-wg2/c/xGd0_eeKmGI/m/q-xM5fbuAQAJ)
 
 ## [Archives](archives/index.md)
 
