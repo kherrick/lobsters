@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-19, 22:14:43](https://lobste.rs/s/s3ylgp/rob_pike_array_languages_are_important) - [Rob Pike - Array Languages are Important](https://www.arraycast.com/episodes/episode60-rob-pike)
 * [2023-08-19, 21:13:03](https://lobste.rs/s/ncsvrp/browsing_web_with_wonderswan_2023) - [Browsing the web with a WonderSwan in 2023](https://blog.asie.pl/2023/08/browsing-the-web-wonderswan-2023/)
 * [2023-08-19, 20:24:39](https://lobste.rs/s/rcc3oc/hahaha_we_live_hell) - [hahaha we live in hell](https://cohost.org/cathoderaydude/post/2521077-hahaha-we-live-in-he)
 * [2023-08-19, 19:56:29](https://lobste.rs/s/vusnqt/lisp_ireland_august_meetup_tour_common) - [Lisp Ireland, August Meetup - A Tour of Common Lisp (Part 2)](https://www.youtube.com/watch?v=J53P49SLgew)
@@ -19,7 +20,6 @@
 * [2023-08-18, 19:18:56](https://lobste.rs/s/5awvqj/fixing_tpm_hardware_security_modules) - [Fixing the TPM: Hardware Security Modules Done Right](https://loup-vaillant.fr/articles/hsm-done-right)
 * [2023-08-18, 18:53:30](https://lobste.rs/s/pbxyst/one_thing_i_d_change_about_go) - [The One Thing I'd Change About Go](https://blog.boot.dev/golang/one-thing-id-change-about-go/)
 * [2023-08-18, 16:56:59](https://lobste.rs/s/m33j4d/i_don_t_use_exceptions_c_anymore) - [I Don't Use Exceptions in C++ Anymore](https://thelig.ht/no-more-exceptions)
-* [2023-08-18, 16:42:03](https://lobste.rs/s/qvolpv/c_c_prioritize_performance_over) - [C and C++ Prioritize Performance over Correctness](https://research.swtch.com/ub)
 * [2023-08-18, 14:58:14](https://lobste.rs/s/4uubid/qutebrowser_v3_0_0) - [qutebrowser v3.0.0](https://github.com/qutebrowser/qutebrowser/releases/tag/v3.0.0)
 * [2023-08-18, 12:14:03](https://lobste.rs/s/hbvto0/gil_removal_faster_cpython_project) - [GIL removal and the Faster CPython project](https://lwn.net/Articles/939981/)
 * [2023-08-18, 11:45:30](https://lobste.rs/s/hkkcan/typescript_is_surprisingly_ok_for) - [TypeScript is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
