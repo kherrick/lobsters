@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-19, 07:35:32](https://lobste.rs/s/5knwyh/zlib_1_3_madler_zlib_09155ea) - [zlib 1.3 · madler/zlib@09155ea](https://github.com/madler/zlib/commit/09155eaa2f9270dc4ed1fa13e2b4b2613e6e4851)
 * [2023-08-19, 00:52:36](https://lobste.rs/s/7vb8tm/mathematical_magic_mirrorball) - [Mathematical Magic Mirrorball](https://youtu.be/rJPKTCdk-WI)
 * [2023-08-18, 23:30:05](https://lobste.rs/s/hy968n/how_speedrunners_broke_my_game) - [How Speedrunners Broke My Game](https://www.youtube.com/watch?v=XZuKakxAQ9o)
 * [2023-08-18, 22:13:08](https://lobste.rs/s/byl4iz/breaking_rules_i_threw_away_10_months_work) - [Breaking the rules: I threw away 10 months of work after 2 months on the job](https://www.dancowell.com/breaking-the-rules/)
-* [2023-08-18, 20:17:57](https://lobste.rs/s/js91bq/algebraic_data_types_lua_almost) - [Algebraic data types in Lua (Almost)](https://mrcjkb.dev/posts/2023-08-17-lua-adts.html)
 * [2023-08-18, 19:18:56](https://lobste.rs/s/5awvqj/fixing_tpm_hardware_security_modules) - [Fixing the TPM: Hardware Security Modules Done Right](https://loup-vaillant.fr/articles/hsm-done-right)
 * [2023-08-18, 18:53:30](https://lobste.rs/s/pbxyst/one_thing_i_d_change_about_go) - [The One Thing I'd Change About Go](https://blog.boot.dev/golang/one-thing-id-change-about-go/)
 * [2023-08-18, 16:56:59](https://lobste.rs/s/m33j4d/i_don_t_use_exceptions_c_anymore) - [I Don't Use Exceptions in C++ Anymore](https://thelig.ht/no-more-exceptions)
