@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-19, 17:22:27](https://lobste.rs/s/7imz16/state_standardized_lock_files_for_python) - [State of standardized lock files for Python: August 2023](https://snarky.ca/state-of-standardized-lock-files-for-python-august-2023/)
 * [2023-08-19, 13:46:19](https://lobste.rs/s/kmpll4/hashicorp_s_new_licensing) - [HashiCorp's New Licensing](https://writing.kemitchell.com/2023/08/18/HashiCorp-BSL)
 * [2023-08-19, 13:20:54](https://lobste.rs/s/xoly0l/my_mnemonic_remember_tar_commands_on) - [My mnemonic to remember tar commands on Linux](https://evanhahn.com/mnemonic-to-remember-tar-commands/)
 * [2023-08-19, 11:48:32](https://lobste.rs/s/odg35q/critique_cap_n_proto_schema_language_2019) - [A Critique of the Cap'n Proto Schema Language. (2019)](https://zenhack.net/2019/06/25/a-critique-of-the-capnproto-schema-language.html)
@@ -21,7 +22,6 @@
 * [2023-08-18, 14:58:14](https://lobste.rs/s/4uubid/qutebrowser_v3_0_0) - [qutebrowser v3.0.0](https://github.com/qutebrowser/qutebrowser/releases/tag/v3.0.0)
 * [2023-08-18, 12:14:03](https://lobste.rs/s/hbvto0/gil_removal_faster_cpython_project) - [GIL removal and the Faster CPython project](https://lwn.net/Articles/939981/)
 * [2023-08-18, 11:45:30](https://lobste.rs/s/hkkcan/typescript_is_surprisingly_ok_for) - [TypeScript is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
-* [2023-08-18, 10:00:29](https://lobste.rs/s/fkpxrx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/fkpxrx/what_are_you_doing_this_weekend)
 * [2023-08-18, 09:36:14](https://lobste.rs/s/5vorhi/terraform_is_dead_long_live_pulumi) - [Terraform is dead; Long live Pulumi?](https://matduggan.com/terraform-is-dead-long-live-pulumi/)
 * [2023-08-18, 09:30:13](https://lobste.rs/s/rru0cc/wtf_is_going_on_with_r7rs_large) - [WTF is going on with R7RS Large?](http://dpk.io/r7rswtf)
 * [2023-08-17, 19:09:12](https://lobste.rs/s/jacbrz/using_wordstar_diamond_2023) - [Using the WordStar diamond in 2023](https://benhoyt.com/writings/wordstar-diamond/)

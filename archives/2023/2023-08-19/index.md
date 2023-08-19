@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-19](index.md)
 
+* [2023-08-19, 17:22:27](https://lobste.rs/s/7imz16/state_standardized_lock_files_for_python) - [State of standardized lock files for Python: August 2023](https://snarky.ca/state-of-standardized-lock-files-for-python-august-2023/)
 * [2023-08-19, 13:46:19](https://lobste.rs/s/kmpll4/hashicorp_s_new_licensing) - [HashiCorp's New Licensing](https://writing.kemitchell.com/2023/08/18/HashiCorp-BSL)
 * [2023-08-19, 13:20:54](https://lobste.rs/s/xoly0l/my_mnemonic_remember_tar_commands_on) - [My mnemonic to remember tar commands on Linux](https://evanhahn.com/mnemonic-to-remember-tar-commands/)
 * [2023-08-19, 11:48:32](https://lobste.rs/s/odg35q/critique_cap_n_proto_schema_language_2019) - [A Critique of the Cap'n Proto Schema Language. (2019)](https://zenhack.net/2019/06/25/a-critique-of-the-capnproto-schema-language.html)
