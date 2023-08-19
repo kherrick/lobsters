@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-19, 11:10:49](https://lobste.rs/s/kxhqag/software_license_compatibility_checker) - [Software License Compatibility Checker](https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-compatibility-checker)
 * [2023-08-19, 10:24:21](https://lobste.rs/s/80lw9s/serde_has_started_shipping_precompiled) - [Serde has started shipping precompiled binaries with no way to opt out](https://github.com/serde-rs/serde/issues/2538)
 * [2023-08-19, 10:23:35](https://lobste.rs/s/uqfbuo/thoughts_on_elixir_phoenix_liveview) - [Thoughts on Elixir, Phoenix and LiveView after 18 months of commercial use](https://korban.net/posts/2023-08-11-thoughts-on-elixir-phoenix-liveview/)
 * [2023-08-19, 08:35:25](https://lobste.rs/s/rnhytn/diagram_layout_stages) - [Diagram Layout in Stages](https://penrose.cs.cmu.edu/blog/staged-layout)
@@ -12,7 +13,6 @@
 * [2023-08-18, 16:56:59](https://lobste.rs/s/m33j4d/i_don_t_use_exceptions_c_anymore) - [I Don't Use Exceptions in C++ Anymore](https://thelig.ht/no-more-exceptions)
 * [2023-08-18, 16:42:03](https://lobste.rs/s/qvolpv/c_c_prioritize_performance_over) - [C and C++ Prioritize Performance over Correctness](https://research.swtch.com/ub)
 * [2023-08-18, 16:34:19](https://lobste.rs/s/hxw6ei/get_going_with_gitops_feature_flags_using) - [Get Going with GitOps and Feature Flags using Flipt](https://www.flipt.io/docs/guides/get-going-with-gitops)
-* [2023-08-18, 16:31:18](https://lobste.rs/s/mnvlal/porting_boolrule_rust) - [Porting Boolrule To Rust](https://healeycodes.com/porting-boolrule-to-rust)
 * [2023-08-18, 14:58:14](https://lobste.rs/s/4uubid/qutebrowser_v3_0_0) - [qutebrowser v3.0.0](https://github.com/qutebrowser/qutebrowser/releases/tag/v3.0.0)
 * [2023-08-18, 13:16:01](https://lobste.rs/s/uhsgar/modernizing_compiler_design_for_carbon) - [Modernizing Compiler Design for Carbon Toolchain](https://youtube.com/watch?v=ZI198eFghJk)
 * [2023-08-18, 12:14:03](https://lobste.rs/s/hbvto0/gil_removal_faster_cpython_project) - [GIL removal and the Faster CPython project](https://lwn.net/Articles/939981/)
