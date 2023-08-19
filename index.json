@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-08-19, 11:35:41",
+      "https://lobste.rs/s/pydlsz/quick_dbus_fix"
+    ],
+    [
+      "Quick DBUS Fix",
+      "https://vermaden.wordpress.com/2023/08/19/quick-dbus-fix/"
+    ]
+  ],
+  [
+    [
       "2023-08-19, 11:10:49",
       "https://lobste.rs/s/kxhqag/software_license_compatibility_checker"
     ],
     [
       "Software License Compatibility Checker",
       "https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-compatibility-checker"
+    ]
+  ],
+  [
+    [
+      "2023-08-19, 10:32:51",
+      "https://lobste.rs/s/mhspgm/conference_organisers_everywhere"
+    ],
+    [
+      "To Conference Organisers Everywhere",
+      "https://arunraghavan.net/2023/08/to-conference-organisers-everywhere/"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-08-18, 13:16:01",
-      "https://lobste.rs/s/uhsgar/modernizing_compiler_design_for_carbon"
-    ],
-    [
-      "Modernizing Compiler Design for Carbon Toolchain",
-      "https://youtube.com/watch?v=ZI198eFghJk"
-    ]
-  ],
-  [
-    [
       "2023-08-18, 12:14:03",
       "https://lobste.rs/s/hbvto0/gil_removal_faster_cpython_project"
     ],
@@ -167,16 +177,6 @@
     [
       "TypeScript is Surprisingly OK for Compilers",
       "https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-18, 10:59:49",
-      "https://lobste.rs/s/s0lp8s/moonbit_fast_compact_user_friendly"
-    ],
-    [
-      "Moonbit: the fast, compact & user friendly language for WebAssembly",
-      "https://www.moonbitlang.com/blog/first-announce/"
     ]
   ],
   [
