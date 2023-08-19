@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-19, 13:46:19](https://lobste.rs/s/kmpll4/hashicorp_s_new_licensing) - [HashiCorp's New Licensing](https://writing.kemitchell.com/2023/08/18/HashiCorp-BSL)
 * [2023-08-19, 13:20:54](https://lobste.rs/s/xoly0l/my_mnemonic_remember_tar_commands_on) - [My mnemonic to remember tar commands on Linux](https://evanhahn.com/mnemonic-to-remember-tar-commands/)
 * [2023-08-19, 11:48:32](https://lobste.rs/s/odg35q/critique_cap_n_proto_schema_language_2019) - [A Critique of the Cap'n Proto Schema Language. (2019)](https://zenhack.net/2019/06/25/a-critique-of-the-capnproto-schema-language.html)
 * [2023-08-19, 11:44:30](https://lobste.rs/s/nb1rxx/interactive_projections) - [Interactive projections](https://mirrorball.frost.kiwi/)
@@ -23,7 +24,6 @@
 * [2023-08-18, 10:00:29](https://lobste.rs/s/fkpxrx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/fkpxrx/what_are_you_doing_this_weekend)
 * [2023-08-18, 09:36:14](https://lobste.rs/s/5vorhi/terraform_is_dead_long_live_pulumi) - [Terraform is dead; Long live Pulumi?](https://matduggan.com/terraform-is-dead-long-live-pulumi/)
 * [2023-08-18, 09:30:13](https://lobste.rs/s/rru0cc/wtf_is_going_on_with_r7rs_large) - [WTF is going on with R7RS Large?](http://dpk.io/r7rswtf)
-* [2023-08-18, 02:05:25](https://lobste.rs/s/letx5f/freebsd_bhyve_virtualization) - [FreeBSD Bhyve Virtualization](https://vermaden.wordpress.com/2023/08/18/freebsd-bhyve-virtualization/)
 * [2023-08-17, 19:09:12](https://lobste.rs/s/jacbrz/using_wordstar_diamond_2023) - [Using the WordStar diamond in 2023](https://benhoyt.com/writings/wordstar-diamond/)
 
 ## [Archives](archives/index.md)
