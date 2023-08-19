@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-19, 08:35:25](https://lobste.rs/s/rnhytn/diagram_layout_stages) - [Diagram Layout in Stages](https://penrose.cs.cmu.edu/blog/staged-layout)
 * [2023-08-19, 07:35:32](https://lobste.rs/s/5knwyh/zlib_1_3_madler_zlib_09155ea) - [zlib 1.3 · madler/zlib@09155ea](https://github.com/madler/zlib/commit/09155eaa2f9270dc4ed1fa13e2b4b2613e6e4851)
 * [2023-08-19, 00:52:36](https://lobste.rs/s/7vb8tm/mathematical_magic_mirrorball) - [Mathematical Magic Mirrorball](https://youtu.be/rJPKTCdk-WI)
 * [2023-08-18, 23:30:05](https://lobste.rs/s/hy968n/how_speedrunners_broke_my_game) - [How Speedrunners Broke My Game](https://www.youtube.com/watch?v=XZuKakxAQ9o)
@@ -12,7 +13,6 @@
 * [2023-08-18, 16:34:19](https://lobste.rs/s/hxw6ei/get_going_with_gitops_feature_flags_using) - [Get Going with GitOps and Feature Flags using Flipt](https://www.flipt.io/docs/guides/get-going-with-gitops)
 * [2023-08-18, 16:31:18](https://lobste.rs/s/mnvlal/porting_boolrule_rust) - [Porting Boolrule To Rust](https://healeycodes.com/porting-boolrule-to-rust)
 * [2023-08-18, 14:58:14](https://lobste.rs/s/4uubid/qutebrowser_v3_0_0) - [qutebrowser v3.0.0](https://github.com/qutebrowser/qutebrowser/releases/tag/v3.0.0)
-* [2023-08-18, 14:12:36](https://lobste.rs/s/7zhqpl/fp_go_functional_programming_library_for) - [fp-go: functional programming library for golang](https://github.com/IBM/fp-go)
 * [2023-08-18, 13:16:01](https://lobste.rs/s/uhsgar/modernizing_compiler_design_for_carbon) - [Modernizing Compiler Design for Carbon Toolchain](https://youtube.com/watch?v=ZI198eFghJk)
 * [2023-08-18, 12:14:03](https://lobste.rs/s/hbvto0/gil_removal_faster_cpython_project) - [GIL removal and the Faster CPython project](https://lwn.net/Articles/939981/)
 * [2023-08-18, 11:45:30](https://lobste.rs/s/hkkcan/typescript_is_surprisingly_ok_for) - [TypeScript is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
