@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-19, 11:48:32](https://lobste.rs/s/odg35q/critique_cap_n_proto_schema_language_2019) - [A Critique of the Cap'n Proto Schema Language. (2019)](https://zenhack.net/2019/06/25/a-critique-of-the-capnproto-schema-language.html)
+* [2023-08-19, 11:44:30](https://lobste.rs/s/nb1rxx/interactive_projections) - [Interactive projections](https://mirrorball.frost.kiwi/)
 * [2023-08-19, 11:35:41](https://lobste.rs/s/pydlsz/quick_dbus_fix) - [Quick DBUS Fix](https://vermaden.wordpress.com/2023/08/19/quick-dbus-fix/)
 * [2023-08-19, 11:10:49](https://lobste.rs/s/kxhqag/software_license_compatibility_checker) - [Software License Compatibility Checker](https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-compatibility-checker)
-* [2023-08-19, 10:32:51](https://lobste.rs/s/mhspgm/conference_organisers_everywhere) - [To Conference Organisers Everywhere](https://arunraghavan.net/2023/08/to-conference-organisers-everywhere/)
 * [2023-08-19, 10:24:21](https://lobste.rs/s/80lw9s/serde_has_started_shipping_precompiled) - [Serde has started shipping precompiled binaries with no way to opt out](https://github.com/serde-rs/serde/issues/2538)
 * [2023-08-19, 10:23:35](https://lobste.rs/s/uqfbuo/thoughts_on_elixir_phoenix_liveview) - [Thoughts on Elixir, Phoenix and LiveView after 18 months of commercial use](https://korban.net/posts/2023-08-11-thoughts-on-elixir-phoenix-liveview/)
 * [2023-08-19, 08:35:25](https://lobste.rs/s/rnhytn/diagram_layout_stages) - [Diagram Layout in Stages](https://penrose.cs.cmu.edu/blog/staged-layout)
@@ -23,7 +24,6 @@
 * [2023-08-18, 09:30:13](https://lobste.rs/s/rru0cc/wtf_is_going_on_with_r7rs_large) - [WTF is going on with R7RS Large?](http://dpk.io/r7rswtf)
 * [2023-08-18, 09:01:19](https://lobste.rs/s/wvodzh/wordtsar_wordstar_clone_for_21st_century) - [WordTsar – A Wordstar clone for the 21st Century](http://wordtsar.ca/)
 * [2023-08-18, 02:05:25](https://lobste.rs/s/letx5f/freebsd_bhyve_virtualization) - [FreeBSD Bhyve Virtualization](https://vermaden.wordpress.com/2023/08/18/freebsd-bhyve-virtualization/)
-* [2023-08-18, 01:31:00](https://lobste.rs/s/qidnrk/curious_case_disappearing_polish_s_2015) - [The curious case of the disappearing Polish S (2015)](https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df)
 * [2023-08-17, 19:09:12](https://lobste.rs/s/jacbrz/using_wordstar_diamond_2023) - [Using the WordStar diamond in 2023](https://benhoyt.com/writings/wordstar-diamond/)
 
 ## [Archives](archives/index.md)

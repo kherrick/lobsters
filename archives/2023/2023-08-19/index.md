@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-19](index.md)
 
+* [2023-08-19, 11:48:32](https://lobste.rs/s/odg35q/critique_cap_n_proto_schema_language_2019) - [A Critique of the Cap'n Proto Schema Language. (2019)](https://zenhack.net/2019/06/25/a-critique-of-the-capnproto-schema-language.html)
+* [2023-08-19, 11:44:30](https://lobste.rs/s/nb1rxx/interactive_projections) - [Interactive projections](https://mirrorball.frost.kiwi/)
 * [2023-08-19, 11:35:41](https://lobste.rs/s/pydlsz/quick_dbus_fix) - [Quick DBUS Fix](https://vermaden.wordpress.com/2023/08/19/quick-dbus-fix/)
 * [2023-08-19, 11:10:49](https://lobste.rs/s/kxhqag/software_license_compatibility_checker) - [Software License Compatibility Checker](https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-compatibility-checker)
 * [2023-08-19, 10:32:51](https://lobste.rs/s/mhspgm/conference_organisers_everywhere) - [To Conference Organisers Everywhere](https://arunraghavan.net/2023/08/to-conference-organisers-everywhere/)
