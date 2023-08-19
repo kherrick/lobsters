@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-19](index.md)
 
+* [2023-08-19, 18:40:42](https://lobste.rs/s/rg7d6w/ai_generated_works_aren_t_protected_by) - [AI-Generated Works Aren’t Protected By Copyrights, Federal Judge Rules](https://www.billboard.com/pro/ai-generated-creative-works-cant-be-copyrighted-judge-rules/)
 * [2023-08-19, 18:01:33](https://lobste.rs/s/10v9na/opportunities_risks_llms_for_scalable) - [Opportunities and Risks of LLMs for Scalable Deliberation with Polis](https://huggingface.co/papers/2306.11932)
 * [2023-08-19, 17:22:27](https://lobste.rs/s/7imz16/state_standardized_lock_files_for_python) - [State of standardized lock files for Python: August 2023](https://snarky.ca/state-of-standardized-lock-files-for-python-august-2023/)
 * [2023-08-19, 13:46:19](https://lobste.rs/s/kmpll4/hashicorp_s_new_licensing) - [HashiCorp's New Licensing](https://writing.kemitchell.com/2023/08/18/HashiCorp-BSL)
