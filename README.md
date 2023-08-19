@@ -7,6 +7,7 @@
 * [2023-08-19, 11:44:30](https://lobste.rs/s/nb1rxx/interactive_projections) - [Interactive projections](https://mirrorball.frost.kiwi/)
 * [2023-08-19, 11:35:41](https://lobste.rs/s/pydlsz/quick_dbus_fix) - [Quick DBUS Fix](https://vermaden.wordpress.com/2023/08/19/quick-dbus-fix/)
 * [2023-08-19, 11:10:49](https://lobste.rs/s/kxhqag/software_license_compatibility_checker) - [Software License Compatibility Checker](https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-compatibility-checker)
+* [2023-08-19, 10:32:51](https://lobste.rs/s/mhspgm/conference_organisers_everywhere) - [To Conference Organisers Everywhere](https://arunraghavan.net/2023/08/to-conference-organisers-everywhere/)
 * [2023-08-19, 10:24:21](https://lobste.rs/s/80lw9s/serde_has_started_shipping_precompiled) - [Serde has started shipping precompiled binaries with no way to opt out](https://github.com/serde-rs/serde/issues/2538)
 * [2023-08-19, 10:23:35](https://lobste.rs/s/uqfbuo/thoughts_on_elixir_phoenix_liveview) - [Thoughts on Elixir, Phoenix and LiveView after 18 months of commercial use](https://korban.net/posts/2023-08-11-thoughts-on-elixir-phoenix-liveview/)
 * [2023-08-19, 08:35:25](https://lobste.rs/s/rnhytn/diagram_layout_stages) - [Diagram Layout in Stages](https://penrose.cs.cmu.edu/blog/staged-layout)
@@ -24,7 +25,6 @@
 * [2023-08-18, 11:45:30](https://lobste.rs/s/hkkcan/typescript_is_surprisingly_ok_for) - [TypeScript is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
 * [2023-08-18, 09:36:14](https://lobste.rs/s/5vorhi/terraform_is_dead_long_live_pulumi) - [Terraform is dead; Long live Pulumi?](https://matduggan.com/terraform-is-dead-long-live-pulumi/)
 * [2023-08-18, 09:30:13](https://lobste.rs/s/rru0cc/wtf_is_going_on_with_r7rs_large) - [WTF is going on with R7RS Large?](http://dpk.io/r7rswtf)
-* [2023-08-17, 19:09:12](https://lobste.rs/s/jacbrz/using_wordstar_diamond_2023) - [Using the WordStar diamond in 2023](https://benhoyt.com/writings/wordstar-diamond/)
 
 ## [Archives](archives/index.md)
 
