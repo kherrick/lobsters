@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-19, 10:24:21",
+      "https://lobste.rs/s/80lw9s/serde_has_started_shipping_precompiled"
+    ],
+    [
+      "Serde has started shipping precompiled binaries with no way to opt out",
+      "https://github.com/serde-rs/serde/issues/2538"
+    ]
+  ],
+  [
+    [
+      "2023-08-19, 10:23:35",
+      "https://lobste.rs/s/uqfbuo/thoughts_on_elixir_phoenix_liveview"
+    ],
+    [
+      "Thoughts on Elixir, Phoenix and LiveView after 18 months of commercial use",
+      "https://korban.net/posts/2023-08-11-thoughts-on-elixir-phoenix-liveview/"
+    ]
+  ],
+  [
+    [
       "2023-08-19, 08:35:25",
       "https://lobste.rs/s/rnhytn/diagram_layout_stages"
     ],
@@ -47,16 +67,6 @@
     [
       "Breaking the rules: I threw away 10 months of work after 2 months on the job",
       "https://www.dancowell.com/breaking-the-rules/"
-    ]
-  ],
-  [
-    [
-      "2023-08-18, 20:17:57",
-      "https://lobste.rs/s/js91bq/algebraic_data_types_lua_almost"
-    ],
-    [
-      "Algebraic data types in Lua (Almost)",
-      "https://mrcjkb.dev/posts/2023-08-17-lua-adts.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Using the WordStar diamond in 2023",
       "https://benhoyt.com/writings/wordstar-diamond/"
-    ]
-  ],
-  [
-    [
-      "2023-08-17, 16:58:16",
-      "https://lobste.rs/s/jzuce1/my_resignation_letter_as_r7rs_large_chair"
-    ],
-    [
-      "My resignation letter as R7RS-large chair",
-      "https://groups.google.com/g/scheme-reports-wg2/c/xGd0_eeKmGI/m/q-xM5fbuAQAJ"
     ]
   ]
 ]
