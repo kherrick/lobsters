@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-20](index.md)
 
+* [2023-08-20, 21:27:16](https://lobste.rs/s/wc3hfh/more_falsehoods_programmers_believe) - [More falsehoods programmers believe about time; \"wisdom of the crowd\" edition](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
 * [2023-08-20, 21:02:24](https://lobste.rs/s/dhlpf4/using_lei_b4_mutt_do_kernel_development) - [Using lei, b4, and mutt to do kernel development](https://josefbacik.github.io/kernel/2021/10/18/lei-and-b4.html)
 * [2023-08-20, 19:03:41](https://lobste.rs/s/idimww/fixit_2_meta_s_next_generation_auto_fixing) - [Fixit 2: Meta’s next-generation auto-fixing linter](https://engineering.fb.com/2023/08/07/developer-tools/fixit-2-linter-meta/)
 * [2023-08-20, 18:53:26](https://lobste.rs/s/yhx0wa/my_mnt_reform_almost_year_on) - [My MNT Reform almost a year on](https://www.geeklan.co.uk/?p=3215)

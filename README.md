@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-20, 21:27:16](https://lobste.rs/s/wc3hfh/more_falsehoods_programmers_believe) - [More falsehoods programmers believe about time; \"wisdom of the crowd\" edition](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
 * [2023-08-20, 21:02:24](https://lobste.rs/s/dhlpf4/using_lei_b4_mutt_do_kernel_development) - [Using lei, b4, and mutt to do kernel development](https://josefbacik.github.io/kernel/2021/10/18/lei-and-b4.html)
 * [2023-08-20, 19:03:41](https://lobste.rs/s/idimww/fixit_2_meta_s_next_generation_auto_fixing) - [Fixit 2: Meta’s next-generation auto-fixing linter](https://engineering.fb.com/2023/08/07/developer-tools/fixit-2-linter-meta/)
 * [2023-08-20, 18:53:26](https://lobste.rs/s/yhx0wa/my_mnt_reform_almost_year_on) - [My MNT Reform almost a year on](https://www.geeklan.co.uk/?p=3215)
@@ -22,7 +23,6 @@
 * [2023-08-19, 21:13:03](https://lobste.rs/s/ncsvrp/browsing_web_with_wonderswan_2023) - [Browsing the web with a WonderSwan in 2023](https://blog.asie.pl/2023/08/browsing-the-web-wonderswan-2023/)
 * [2023-08-19, 20:24:39](https://lobste.rs/s/rcc3oc/difficult_ux_parking_apps) - [difficult ux in parking apps](https://cohost.org/cathoderaydude/post/2521077-hahaha-we-live-in-he)
 * [2023-08-19, 18:40:42](https://lobste.rs/s/rg7d6w/ai_generated_works_aren_t_protected_by) - [AI-Generated Works Aren’t Protected By Copyrights, Federal Judge Rules](https://www.billboard.com/pro/ai-generated-creative-works-cant-be-copyrighted-judge-rules/)
-* [2023-08-19, 13:20:54](https://lobste.rs/s/xoly0l/my_mnemonic_remember_tar_commands_on) - [My mnemonic to remember tar commands on Linux](https://evanhahn.com/mnemonic-to-remember-tar-commands/)
 * [2023-08-19, 10:24:21](https://lobste.rs/s/80lw9s/serde_has_started_shipping_precompiled) - [Serde has started shipping precompiled binaries with no way to opt out](https://github.com/serde-rs/serde/issues/2538)
 * [2023-08-19, 10:23:35](https://lobste.rs/s/uqfbuo/thoughts_on_elixir_phoenix_liveview) - [Thoughts on Elixir, Phoenix and LiveView after 18 months of commercial use](https://korban.net/posts/2023-08-11-thoughts-on-elixir-phoenix-liveview/)
 
