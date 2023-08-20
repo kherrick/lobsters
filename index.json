@@ -12,10 +12,10 @@
   [
     [
       "2023-08-19, 22:14:43",
-      "https://lobste.rs/s/s3ylgp/rob_pike_array_languages_are_important"
+      "https://lobste.rs/s/s3ylgp/array_languages_are_important"
     ],
     [
-      "Rob Pike - Array Languages are Important",
+      "Array Languages are Important",
       "https://www.arraycast.com/episodes/episode60-rob-pike"
     ]
   ],
@@ -32,10 +32,10 @@
   [
     [
       "2023-08-19, 20:24:39",
-      "https://lobste.rs/s/rcc3oc/hahaha_we_live_hell"
+      "https://lobste.rs/s/rcc3oc/difficult_ux_parking_apps"
     ],
     [
-      "hahaha we live in hell",
+      "difficult ux in parking apps",
       "https://cohost.org/cathoderaydude/post/2521077-hahaha-we-live-in-he"
     ]
   ],
@@ -77,16 +77,6 @@
     [
       "State of standardized lock files for Python: August 2023",
       "https://snarky.ca/state-of-standardized-lock-files-for-python-august-2023/"
-    ]
-  ],
-  [
-    [
-      "2023-08-19, 13:46:19",
-      "https://lobste.rs/s/kmpll4/hashicorp_s_new_licensing"
-    ],
-    [
-      "HashiCorp's New Licensing",
-      "https://writing.kemitchell.com/2023/08/18/HashiCorp-BSL"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "qutebrowser v3.0.0",
       "https://github.com/qutebrowser/qutebrowser/releases/tag/v3.0.0"
+    ]
+  ],
+  [
+    [
+      "2023-08-18, 12:14:03",
+      "https://lobste.rs/s/hbvto0/gil_removal_faster_cpython_project"
+    ],
+    [
+      "GIL removal and the Faster CPython project",
+      "https://lwn.net/Articles/939981/"
     ]
   ],
   [
