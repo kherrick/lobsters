@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-20](index.md)
 
+* [2023-08-20, 14:23:12](https://lobste.rs/s/nqk2pm/software_component_names_should_be) - [Software Component Names Should Be Whimsical And Cryptic](https://betterprogramming.pub/software-component-names-should-be-whimsical-and-cryptic-ca260b013de0)
 * [2023-08-20, 13:57:54](https://lobste.rs/s/zknwrk/scripting_with_go) - [Scripting with Go](https://bitfieldconsulting.com/golang/scripting)
 * [2023-08-20, 13:06:15](https://lobste.rs/s/1crdv4/what_is_pid_controller_espresso_machine) - [What Is A PID Controller In An Espresso Machine?](https://www.beanground.com/pid-controller-espresso/)
 * [2023-08-20, 12:05:24](https://lobste.rs/s/nlogxu/chaos_camping) - [Chaos And Camping](https://hackaday.com/2023/08/19/chaos-and-camping/)
