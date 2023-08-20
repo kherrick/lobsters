@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2023-08-19](index.md)
 
 * [2023-08-19, 22:14:43](https://lobste.rs/s/s3ylgp/rob_pike_array_languages_are_important) - [Rob Pike - Array Languages are Important](https://www.arraycast.com/episodes/episode60-rob-pike)
+* [2023-08-19, 22:14:43](https://lobste.rs/s/s3ylgp/array_languages_are_important) - [Array Languages are Important](https://www.arraycast.com/episodes/episode60-rob-pike)
 * [2023-08-19, 21:13:03](https://lobste.rs/s/ncsvrp/browsing_web_with_wonderswan_2023) - [Browsing the web with a WonderSwan in 2023](https://blog.asie.pl/2023/08/browsing-the-web-wonderswan-2023/)
 * [2023-08-19, 20:24:39](https://lobste.rs/s/rcc3oc/hahaha_we_live_hell) - [hahaha we live in hell](https://cohost.org/cathoderaydude/post/2521077-hahaha-we-live-in-he)
+* [2023-08-19, 20:24:39](https://lobste.rs/s/rcc3oc/difficult_ux_parking_apps) - [difficult ux in parking apps](https://cohost.org/cathoderaydude/post/2521077-hahaha-we-live-in-he)
 * [2023-08-19, 19:56:29](https://lobste.rs/s/vusnqt/lisp_ireland_august_meetup_tour_common) - [Lisp Ireland, August Meetup - A Tour of Common Lisp (Part 2)](https://www.youtube.com/watch?v=J53P49SLgew)
 * [2023-08-19, 18:40:42](https://lobste.rs/s/rg7d6w/ai_generated_works_aren_t_protected_by) - [AI-Generated Works Aren’t Protected By Copyrights, Federal Judge Rules](https://www.billboard.com/pro/ai-generated-creative-works-cant-be-copyrighted-judge-rules/)
 * [2023-08-19, 18:01:33](https://lobste.rs/s/10v9na/opportunities_risks_llms_for_scalable) - [Opportunities and Risks of LLMs for Scalable Deliberation with Polis](https://huggingface.co/papers/2306.11932)
