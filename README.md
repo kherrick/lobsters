@@ -9,6 +9,7 @@
 * [2023-08-20, 18:06:36](https://lobste.rs/s/8y4xnk/announcement_regarding_kris_nova) - [An announcement regarding Kris Nóva](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/)
 * [2023-08-20, 17:38:47](https://lobste.rs/s/2ovdpf/hardcore_vulkan_debugging_digging_deep) - [Hardcore Vulkan debugging – Digging deep on Linux + AMDGPU](https://themaister.net/blog/2023/08/20/hardcore-vulkan-debugging-digging-deep-on-linux-amdgpu/)
 * [2023-08-20, 17:37:27](https://lobste.rs/s/uuf9li/how_meta_is_improving_password_security) - [How Meta is improving password security and preserving privacy](https://engineering.fb.com/2023/08/08/security/how-meta-is-improving-password-security-and-preserving-privacy/)
+* [2023-08-20, 16:49:52](https://lobste.rs/s/rvtu87/using_css_animations_instead_javascript) - [Using CSS animations instead of JavaScript timers](https://muffinman.io/blog/css-animations-instead-of-js-timers/)
 * [2023-08-20, 16:18:29](https://lobste.rs/s/vf4ebv/merkle_trees_build_systems_nix) - [Merkle trees and build systems (Nix alternative) (2020)](https://lwn.net/Articles/821367/)
 * [2023-08-20, 16:11:26](https://lobste.rs/s/qikg6x/ares_operating_system) - [The Ares Operating System](https://ares-os.org/)
 * [2023-08-20, 15:12:17](https://lobste.rs/s/bt3fz5/meta_ii_syntax_oriented_compiler_writing) - [META II: a syntax-oriented compiler writing language](https://dl.acm.org/doi/pdf/10.1145/800257.808896)
@@ -24,7 +25,6 @@
 * [2023-08-19, 20:24:39](https://lobste.rs/s/rcc3oc/difficult_ux_parking_apps) - [difficult ux in parking apps](https://cohost.org/cathoderaydude/post/2521077-hahaha-we-live-in-he)
 * [2023-08-19, 18:40:42](https://lobste.rs/s/rg7d6w/ai_generated_works_aren_t_protected_by) - [AI-Generated Works Aren’t Protected By Copyrights, Federal Judge Rules](https://www.billboard.com/pro/ai-generated-creative-works-cant-be-copyrighted-judge-rules/)
 * [2023-08-19, 10:24:21](https://lobste.rs/s/80lw9s/serde_has_started_shipping_precompiled) - [Serde has started shipping precompiled binaries with no way to opt out](https://github.com/serde-rs/serde/issues/2538)
-* [2023-08-19, 10:23:35](https://lobste.rs/s/uqfbuo/thoughts_on_elixir_phoenix_liveview) - [Thoughts on Elixir, Phoenix and LiveView after 18 months of commercial use](https://korban.net/posts/2023-08-11-thoughts-on-elixir-phoenix-liveview/)
 
 ## [Archives](archives/index.md)
 
