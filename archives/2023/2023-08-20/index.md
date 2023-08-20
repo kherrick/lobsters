@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-20](index.md)
 
+* [2023-08-20, 17:38:47](https://lobste.rs/s/2ovdpf/hardcore_vulkan_debugging_digging_deep) - [Hardcore Vulkan debugging – Digging deep on Linux + AMDGPU](https://themaister.net/blog/2023/08/20/hardcore-vulkan-debugging-digging-deep-on-linux-amdgpu/)
+* [2023-08-20, 17:37:27](https://lobste.rs/s/uuf9li/how_meta_is_improving_password_security) - [How Meta is improving password security and preserving privacy](https://engineering.fb.com/2023/08/08/security/how-meta-is-improving-password-security-and-preserving-privacy/)
 * [2023-08-20, 16:49:52](https://lobste.rs/s/rvtu87/using_css_animations_instead_javascript) - [Using CSS animations instead of JavaScript timers](https://muffinman.io/blog/css-animations-instead-of-js-timers/)
 * [2023-08-20, 16:18:29](https://lobste.rs/s/vf4ebv/merkle_trees_build_systems_nix) - [Merkle trees and build systems (Nix alternative) (2020)](https://lwn.net/Articles/821367/)
 * [2023-08-20, 16:11:26](https://lobste.rs/s/qikg6x/ares_operating_system) - [The Ares Operating System](https://ares-os.org/)

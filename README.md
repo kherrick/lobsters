@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-20, 17:38:47](https://lobste.rs/s/2ovdpf/hardcore_vulkan_debugging_digging_deep) - [Hardcore Vulkan debugging – Digging deep on Linux + AMDGPU](https://themaister.net/blog/2023/08/20/hardcore-vulkan-debugging-digging-deep-on-linux-amdgpu/)
+* [2023-08-20, 17:37:27](https://lobste.rs/s/uuf9li/how_meta_is_improving_password_security) - [How Meta is improving password security and preserving privacy](https://engineering.fb.com/2023/08/08/security/how-meta-is-improving-password-security-and-preserving-privacy/)
 * [2023-08-20, 16:49:52](https://lobste.rs/s/rvtu87/using_css_animations_instead_javascript) - [Using CSS animations instead of JavaScript timers](https://muffinman.io/blog/css-animations-instead-of-js-timers/)
 * [2023-08-20, 16:18:29](https://lobste.rs/s/vf4ebv/merkle_trees_build_systems_nix) - [Merkle trees and build systems (Nix alternative) (2020)](https://lwn.net/Articles/821367/)
 * [2023-08-20, 16:11:26](https://lobste.rs/s/qikg6x/ares_operating_system) - [The Ares Operating System](https://ares-os.org/)
@@ -18,11 +20,9 @@
 * [2023-08-19, 22:14:43](https://lobste.rs/s/s3ylgp/array_languages_are_important) - [Array Languages are Important](https://www.arraycast.com/episodes/episode60-rob-pike)
 * [2023-08-19, 21:13:03](https://lobste.rs/s/ncsvrp/browsing_web_with_wonderswan_2023) - [Browsing the web with a WonderSwan in 2023](https://blog.asie.pl/2023/08/browsing-the-web-wonderswan-2023/)
 * [2023-08-19, 20:24:39](https://lobste.rs/s/rcc3oc/difficult_ux_parking_apps) - [difficult ux in parking apps](https://cohost.org/cathoderaydude/post/2521077-hahaha-we-live-in-he)
-* [2023-08-19, 19:56:29](https://lobste.rs/s/vusnqt/lisp_ireland_august_meetup_tour_common) - [Lisp Ireland, August Meetup - A Tour of Common Lisp (Part 2)](https://www.youtube.com/watch?v=J53P49SLgew)
 * [2023-08-19, 18:40:42](https://lobste.rs/s/rg7d6w/ai_generated_works_aren_t_protected_by) - [AI-Generated Works Aren’t Protected By Copyrights, Federal Judge Rules](https://www.billboard.com/pro/ai-generated-creative-works-cant-be-copyrighted-judge-rules/)
 * [2023-08-19, 17:22:27](https://lobste.rs/s/7imz16/state_standardized_lock_files_for_python) - [State of standardized lock files for Python: August 2023](https://snarky.ca/state-of-standardized-lock-files-for-python-august-2023/)
 * [2023-08-19, 13:20:54](https://lobste.rs/s/xoly0l/my_mnemonic_remember_tar_commands_on) - [My mnemonic to remember tar commands on Linux](https://evanhahn.com/mnemonic-to-remember-tar-commands/)
-* [2023-08-19, 11:44:30](https://lobste.rs/s/nb1rxx/interactive_projections) - [Interactive projections](https://mirrorball.frost.kiwi/)
 * [2023-08-19, 10:24:21](https://lobste.rs/s/80lw9s/serde_has_started_shipping_precompiled) - [Serde has started shipping precompiled binaries with no way to opt out](https://github.com/serde-rs/serde/issues/2538)
 * [2023-08-19, 10:23:35](https://lobste.rs/s/uqfbuo/thoughts_on_elixir_phoenix_liveview) - [Thoughts on Elixir, Phoenix and LiveView after 18 months of commercial use](https://korban.net/posts/2023-08-11-thoughts-on-elixir-phoenix-liveview/)
 
