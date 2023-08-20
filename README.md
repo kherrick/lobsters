@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-20, 19:03:41](https://lobste.rs/s/idimww/fixit_2_meta_s_next_generation_auto_fixing) - [Fixit 2: Meta’s next-generation auto-fixing linter](https://engineering.fb.com/2023/08/07/developer-tools/fixit-2-linter-meta/)
 * [2023-08-20, 18:53:26](https://lobste.rs/s/yhx0wa/my_mnt_reform_almost_year_on) - [My MNT Reform almost a year on](https://www.geeklan.co.uk/?p=3215)
 * [2023-08-20, 18:38:25](https://lobste.rs/s/ws3wgg/announcement_regarding_kris_nova) - [An announcement regarding Kris Nóva](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-nóva/)
 * [2023-08-20, 18:10:40](https://lobste.rs/s/zxy7zu/linguist_privacy_friendly_browser) - [Linguist, a privacy friendly browser extension for translation with offline and custom translators](https://github.com/translate-tools/linguist)
@@ -7,7 +8,6 @@
 * [2023-08-20, 18:06:36](https://lobste.rs/s/8y4xnk/announcement_regarding_kris_nova) - [An announcement regarding Kris Nóva](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/)
 * [2023-08-20, 17:38:47](https://lobste.rs/s/2ovdpf/hardcore_vulkan_debugging_digging_deep) - [Hardcore Vulkan debugging – Digging deep on Linux + AMDGPU](https://themaister.net/blog/2023/08/20/hardcore-vulkan-debugging-digging-deep-on-linux-amdgpu/)
 * [2023-08-20, 17:37:27](https://lobste.rs/s/uuf9li/how_meta_is_improving_password_security) - [How Meta is improving password security and preserving privacy](https://engineering.fb.com/2023/08/08/security/how-meta-is-improving-password-security-and-preserving-privacy/)
-* [2023-08-20, 16:49:52](https://lobste.rs/s/rvtu87/using_css_animations_instead_javascript) - [Using CSS animations instead of JavaScript timers](https://muffinman.io/blog/css-animations-instead-of-js-timers/)
 * [2023-08-20, 16:18:29](https://lobste.rs/s/vf4ebv/merkle_trees_build_systems_nix) - [Merkle trees and build systems (Nix alternative) (2020)](https://lwn.net/Articles/821367/)
 * [2023-08-20, 16:11:26](https://lobste.rs/s/qikg6x/ares_operating_system) - [The Ares Operating System](https://ares-os.org/)
 * [2023-08-20, 15:12:17](https://lobste.rs/s/bt3fz5/meta_ii_syntax_oriented_compiler_writing) - [META II: a syntax-oriented compiler writing language](https://dl.acm.org/doi/pdf/10.1145/800257.808896)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-20](index.md)
 
+* [2023-08-20, 19:03:41](https://lobste.rs/s/idimww/fixit_2_meta_s_next_generation_auto_fixing) - [Fixit 2: Meta’s next-generation auto-fixing linter](https://engineering.fb.com/2023/08/07/developer-tools/fixit-2-linter-meta/)
 * [2023-08-20, 18:53:26](https://lobste.rs/s/yhx0wa/my_mnt_reform_almost_year_on) - [My MNT Reform almost a year on](https://www.geeklan.co.uk/?p=3215)
 * [2023-08-20, 18:38:25](https://lobste.rs/s/ws3wgg/announcement_regarding_kris_nova) - [An announcement regarding Kris Nóva](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-nóva/)
 * [2023-08-20, 18:10:40](https://lobste.rs/s/zxy7zu/linguist_privacy_friendly_browser) - [Linguist, a privacy friendly browser extension for translation with offline and custom translators](https://github.com/translate-tools/linguist)
