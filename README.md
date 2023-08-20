@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-20, 16:49:52](https://lobste.rs/s/rvtu87/using_css_animations_instead_javascript) - [Using CSS animations instead of JavaScript timers](https://muffinman.io/blog/css-animations-instead-of-js-timers/)
 * [2023-08-20, 16:18:29](https://lobste.rs/s/vf4ebv/merkle_trees_build_systems_nix) - [Merkle trees and build systems (Nix alternative) (2020)](https://lwn.net/Articles/821367/)
 * [2023-08-20, 16:11:26](https://lobste.rs/s/qikg6x/ares_operating_system) - [The Ares Operating System](https://ares-os.org/)
 * [2023-08-20, 16:08:04](https://lobste.rs/s/h6iphk/zap_blazingly_fast_backends_zig) - [zap - Blazingly Fast Backends in Zig](https://youtu.be/-GyLWrDF8ss)
@@ -22,7 +23,6 @@
 * [2023-08-19, 17:22:27](https://lobste.rs/s/7imz16/state_standardized_lock_files_for_python) - [State of standardized lock files for Python: August 2023](https://snarky.ca/state-of-standardized-lock-files-for-python-august-2023/)
 * [2023-08-19, 13:20:54](https://lobste.rs/s/xoly0l/my_mnemonic_remember_tar_commands_on) - [My mnemonic to remember tar commands on Linux](https://evanhahn.com/mnemonic-to-remember-tar-commands/)
 * [2023-08-19, 11:44:30](https://lobste.rs/s/nb1rxx/interactive_projections) - [Interactive projections](https://mirrorball.frost.kiwi/)
-* [2023-08-19, 11:35:41](https://lobste.rs/s/pydlsz/quick_dbus_fix) - [Quick DBUS Fix](https://vermaden.wordpress.com/2023/08/19/quick-dbus-fix/)
 * [2023-08-19, 10:24:21](https://lobste.rs/s/80lw9s/serde_has_started_shipping_precompiled) - [Serde has started shipping precompiled binaries with no way to opt out](https://github.com/serde-rs/serde/issues/2538)
 * [2023-08-19, 10:23:35](https://lobste.rs/s/uqfbuo/thoughts_on_elixir_phoenix_liveview) - [Thoughts on Elixir, Phoenix and LiveView after 18 months of commercial use](https://korban.net/posts/2023-08-11-thoughts-on-elixir-phoenix-liveview/)
 
