@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-20, 18:53:26](https://lobste.rs/s/yhx0wa/my_mnt_reform_almost_year_on) - [My MNT Reform almost a year on](https://www.geeklan.co.uk/?p=3215)
 * [2023-08-20, 18:38:25](https://lobste.rs/s/ws3wgg/announcement_regarding_kris_nova) - [An announcement regarding Kris Nóva](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-nóva/)
 * [2023-08-20, 18:10:40](https://lobste.rs/s/zxy7zu/linguist_privacy_friendly_browser) - [Linguist, a privacy friendly browser extension for translation with offline and custom translators](https://github.com/translate-tools/linguist)
 * [2023-08-20, 18:07:19](https://lobste.rs/s/yxu7zt/we_moved_our_cloud_operations_kubernetes) - [We moved our Cloud operations to a Kubernetes Operator](https://sklar.rocks/questdb-cloud-operator/)
@@ -9,7 +10,6 @@
 * [2023-08-20, 16:49:52](https://lobste.rs/s/rvtu87/using_css_animations_instead_javascript) - [Using CSS animations instead of JavaScript timers](https://muffinman.io/blog/css-animations-instead-of-js-timers/)
 * [2023-08-20, 16:18:29](https://lobste.rs/s/vf4ebv/merkle_trees_build_systems_nix) - [Merkle trees and build systems (Nix alternative) (2020)](https://lwn.net/Articles/821367/)
 * [2023-08-20, 16:11:26](https://lobste.rs/s/qikg6x/ares_operating_system) - [The Ares Operating System](https://ares-os.org/)
-* [2023-08-20, 16:08:04](https://lobste.rs/s/h6iphk/zap_blazingly_fast_backends_zig) - [zap - Blazingly Fast Backends in Zig](https://youtu.be/-GyLWrDF8ss)
 * [2023-08-20, 15:12:17](https://lobste.rs/s/bt3fz5/meta_ii_syntax_oriented_compiler_writing) - [META II: a syntax-oriented compiler writing language](https://dl.acm.org/doi/pdf/10.1145/800257.808896)
 * [2023-08-20, 14:54:14](https://lobste.rs/s/odl2l4/demystifying_esim_technology) - [Demystifying eSIM Technology](https://media.ccc.de/v/camp2023-57190-demystifying_esim_technology)
 * [2023-08-20, 14:23:12](https://lobste.rs/s/nqk2pm/software_component_names_should_be) - [Software Component Names Should Be Whimsical And Cryptic](https://betterprogramming.pub/software-component-names-should-be-whimsical-and-cryptic-ca260b013de0)
