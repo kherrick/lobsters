@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-20, 18:38:25",
+      "https://lobste.rs/s/ws3wgg/announcement_regarding_kris_nova"
+    ],
+    [
+      "An announcement regarding Kris Nóva",
+      "https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-nóva/"
+    ]
+  ],
+  [
+    [
       "2023-08-20, 18:10:40",
       "https://lobste.rs/s/zxy7zu/linguist_privacy_friendly_browser"
     ],
@@ -177,16 +187,6 @@
     [
       "PEP 725 – Specifying external dependencies in pyproject.toml",
       "https://peps.python.org/pep-0725/"
-    ]
-  ],
-  [
-    [
-      "2023-08-20, 05:19:10",
-      "https://lobste.rs/s/q9mhdw/endpoint_web_environment_integrity_is"
-    ],
-    [
-      "The endpoint of Web Environment Integrity is a closed Web",
-      "https://educatedguesswork.org/posts/wei/"
     ]
   ],
   [
