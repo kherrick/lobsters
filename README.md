@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-20, 14:54:14](https://lobste.rs/s/odl2l4/demystifying_esim_technology) - [Demystifying eSIM Technology](https://media.ccc.de/v/camp2023-57190-demystifying_esim_technology)
 * [2023-08-20, 14:23:12](https://lobste.rs/s/nqk2pm/software_component_names_should_be) - [Software Component Names Should Be Whimsical And Cryptic](https://betterprogramming.pub/software-component-names-should-be-whimsical-and-cryptic-ca260b013de0)
 * [2023-08-20, 13:57:54](https://lobste.rs/s/zknwrk/scripting_with_go) - [Scripting with Go](https://bitfieldconsulting.com/golang/scripting)
 * [2023-08-20, 13:06:15](https://lobste.rs/s/1crdv4/what_is_pid_controller_espresso_machine) - [What Is A PID Controller In An Espresso Machine?](https://www.beanground.com/pid-controller-espresso/)
@@ -23,7 +24,6 @@
 * [2023-08-19, 10:23:35](https://lobste.rs/s/uqfbuo/thoughts_on_elixir_phoenix_liveview) - [Thoughts on Elixir, Phoenix and LiveView after 18 months of commercial use](https://korban.net/posts/2023-08-11-thoughts-on-elixir-phoenix-liveview/)
 * [2023-08-18, 22:13:08](https://lobste.rs/s/byl4iz/breaking_rules_i_threw_away_10_months_work) - [Breaking the rules: I threw away 10 months of work after 2 months on the job](https://www.dancowell.com/breaking-the-rules/)
 * [2023-08-18, 19:18:56](https://lobste.rs/s/5awvqj/fixing_tpm_hardware_security_modules) - [Fixing the TPM: Hardware Security Modules Done Right](https://loup-vaillant.fr/articles/hsm-done-right)
-* [2023-08-18, 18:53:30](https://lobste.rs/s/pbxyst/one_thing_i_d_change_about_go) - [The One Thing I'd Change About Go](https://blog.boot.dev/golang/one-thing-id-change-about-go/)
 * [2023-08-18, 09:36:14](https://lobste.rs/s/5vorhi/terraform_is_dead_long_live_pulumi) - [Terraform is dead; Long live Pulumi?](https://matduggan.com/terraform-is-dead-long-live-pulumi/)
 
 ## [Archives](archives/index.md)
