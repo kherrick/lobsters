@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-20, 16:18:29",
+      "https://lobste.rs/s/vf4ebv/merkle_trees_build_systems_nix"
+    ],
+    [
+      "Merkle trees and build systems (Nix alternative) (2020)",
+      "https://lwn.net/Articles/821367/"
+    ]
+  ],
+  [
+    [
+      "2023-08-20, 16:11:26",
+      "https://lobste.rs/s/qikg6x/ares_operating_system"
+    ],
+    [
+      "The Ares Operating System",
+      "https://ares-os.org/"
+    ]
+  ],
+  [
+    [
       "2023-08-20, 16:08:04",
       "https://lobste.rs/s/h6iphk/zap_blazingly_fast_backends_zig"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-08-19, 11:48:32",
-      "https://lobste.rs/s/odg35q/critique_cap_n_proto_schema_language_2019"
-    ],
-    [
-      "A Critique of the Cap'n Proto Schema Language. (2019)",
-      "https://zenhack.net/2019/06/25/a-critique-of-the-capnproto-schema-language.html"
-    ]
-  ],
-  [
-    [
       "2023-08-19, 11:44:30",
       "https://lobste.rs/s/nb1rxx/interactive_projections"
     ],
@@ -237,16 +247,6 @@
     [
       "Thoughts on Elixir, Phoenix and LiveView after 18 months of commercial use",
       "https://korban.net/posts/2023-08-11-thoughts-on-elixir-phoenix-liveview/"
-    ]
-  ],
-  [
-    [
-      "2023-08-18, 19:18:56",
-      "https://lobste.rs/s/5awvqj/fixing_tpm_hardware_security_modules"
-    ],
-    [
-      "Fixing the TPM: Hardware Security Modules Done Right",
-      "https://loup-vaillant.fr/articles/hsm-done-right"
     ]
   ]
 ]
