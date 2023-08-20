@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-20](index.md)
 
+* [2023-08-20, 16:18:29](https://lobste.rs/s/vf4ebv/merkle_trees_build_systems_nix) - [Merkle trees and build systems (Nix alternative) (2020)](https://lwn.net/Articles/821367/)
+* [2023-08-20, 16:11:26](https://lobste.rs/s/qikg6x/ares_operating_system) - [The Ares Operating System](https://ares-os.org/)
 * [2023-08-20, 16:08:04](https://lobste.rs/s/h6iphk/zap_blazingly_fast_backends_zig) - [zap - Blazingly Fast Backends in Zig](https://youtu.be/-GyLWrDF8ss)
 * [2023-08-20, 15:12:17](https://lobste.rs/s/bt3fz5/meta_ii_syntax_oriented_compiler_writing) - [META II: a syntax-oriented compiler writing language](https://dl.acm.org/doi/pdf/10.1145/800257.808896)
 * [2023-08-20, 14:54:14](https://lobste.rs/s/odl2l4/demystifying_esim_technology) - [Demystifying eSIM Technology](https://media.ccc.de/v/camp2023-57190-demystifying_esim_technology)
