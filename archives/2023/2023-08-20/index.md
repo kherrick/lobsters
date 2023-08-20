@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-20](index.md)
 
+* [2023-08-20, 09:42:55](https://lobste.rs/s/unqdor/internals_veilid_new_decentralized) - [The internals of Veilid - a new decentralized application framework](https://veilid.com/defcon/talk/)
 * [2023-08-20, 09:37:12](https://lobste.rs/s/yd9hp7/bark_live_sync_audio_streaming_for_local) - [bark: live sync audio streaming for local networks](https://github.com/haileys/bark)
 * [2023-08-20, 09:14:30](https://lobste.rs/s/q810g3/pep_725_specifying_external) - [PEP 725 – Specifying external dependencies in pyproject.toml](https://peps.python.org/pep-0725/)
 * [2023-08-20, 05:19:10](https://lobste.rs/s/q9mhdw/endpoint_web_environment_integrity_is) - [The endpoint of Web Environment Integrity is a closed Web](https://educatedguesswork.org/posts/wei/)

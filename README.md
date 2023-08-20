@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-20, 09:42:55](https://lobste.rs/s/unqdor/internals_veilid_new_decentralized) - [The internals of Veilid - a new decentralized application framework](https://veilid.com/defcon/talk/)
 * [2023-08-20, 09:37:12](https://lobste.rs/s/yd9hp7/bark_live_sync_audio_streaming_for_local) - [bark: live sync audio streaming for local networks](https://github.com/haileys/bark)
 * [2023-08-20, 09:14:30](https://lobste.rs/s/q810g3/pep_725_specifying_external) - [PEP 725 – Specifying external dependencies in pyproject.toml](https://peps.python.org/pep-0725/)
 * [2023-08-20, 05:19:10](https://lobste.rs/s/q9mhdw/endpoint_web_environment_integrity_is) - [The endpoint of Web Environment Integrity is a closed Web](https://educatedguesswork.org/posts/wei/)
@@ -9,7 +10,6 @@
 * [2023-08-19, 20:24:39](https://lobste.rs/s/rcc3oc/difficult_ux_parking_apps) - [difficult ux in parking apps](https://cohost.org/cathoderaydude/post/2521077-hahaha-we-live-in-he)
 * [2023-08-19, 19:56:29](https://lobste.rs/s/vusnqt/lisp_ireland_august_meetup_tour_common) - [Lisp Ireland, August Meetup - A Tour of Common Lisp (Part 2)](https://www.youtube.com/watch?v=J53P49SLgew)
 * [2023-08-19, 18:40:42](https://lobste.rs/s/rg7d6w/ai_generated_works_aren_t_protected_by) - [AI-Generated Works Aren’t Protected By Copyrights, Federal Judge Rules](https://www.billboard.com/pro/ai-generated-creative-works-cant-be-copyrighted-judge-rules/)
-* [2023-08-19, 18:01:33](https://lobste.rs/s/10v9na/opportunities_risks_llms_for_scalable) - [Opportunities and Risks of LLMs for Scalable Deliberation with Polis](https://huggingface.co/papers/2306.11932)
 * [2023-08-19, 17:22:27](https://lobste.rs/s/7imz16/state_standardized_lock_files_for_python) - [State of standardized lock files for Python: August 2023](https://snarky.ca/state-of-standardized-lock-files-for-python-august-2023/)
 * [2023-08-19, 13:20:54](https://lobste.rs/s/xoly0l/my_mnemonic_remember_tar_commands_on) - [My mnemonic to remember tar commands on Linux](https://evanhahn.com/mnemonic-to-remember-tar-commands/)
 * [2023-08-19, 11:48:32](https://lobste.rs/s/odg35q/critique_cap_n_proto_schema_language_2019) - [A Critique of the Cap'n Proto Schema Language. (2019)](https://zenhack.net/2019/06/25/a-critique-of-the-capnproto-schema-language.html)
