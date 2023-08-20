@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-08-20, 18:38:25",
-      "https://lobste.rs/s/ws3wgg/announcement_regarding_kris_nova"
-    ],
-    [
-      "An announcement regarding Kris Nóva",
-      "https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-nóva/"
-    ]
-  ],
-  [
-    [
       "2023-08-20, 18:10:40",
       "https://lobste.rs/s/zxy7zu/linguist_privacy_friendly_browser"
     ],
@@ -77,6 +67,16 @@
     [
       "How Meta is improving password security and preserving privacy",
       "https://engineering.fb.com/2023/08/08/security/how-meta-is-improving-password-security-and-preserving-privacy/"
+    ]
+  ],
+  [
+    [
+      "2023-08-20, 16:49:52",
+      "https://lobste.rs/s/rvtu87/using_css_animations_instead_javascript"
+    ],
+    [
+      "Using CSS animations instead of JavaScript timers",
+      "https://muffinman.io/blog/css-animations-instead-of-js-timers/"
     ]
   ],
   [
