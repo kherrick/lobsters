@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-20](index.md)
 
+* [2023-08-20, 18:38:25](https://lobste.rs/s/ws3wgg/announcement_regarding_kris_nova) - [An announcement regarding Kris Nóva](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-nóva/)
 * [2023-08-20, 18:10:40](https://lobste.rs/s/zxy7zu/linguist_privacy_friendly_browser) - [Linguist, a privacy friendly browser extension for translation with offline and custom translators](https://github.com/translate-tools/linguist)
 * [2023-08-20, 18:07:19](https://lobste.rs/s/yxu7zt/we_moved_our_cloud_operations_kubernetes) - [We moved our Cloud operations to a Kubernetes Operator](https://sklar.rocks/questdb-cloud-operator/)
 * [2023-08-20, 18:06:36](https://lobste.rs/s/8y4xnk/announcement_regarding_kris_nova) - [An announcement regarding Kris Nóva](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/)
