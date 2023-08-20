@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-08-19, 11:10:49",
+      "https://lobste.rs/s/kxhqag/software_license_compatibility_checker"
+    ],
+    [
+      "Software License Compatibility Checker",
+      "https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-compatibility-checker"
+    ]
+  ],
+  [
+    [
       "2023-08-19, 10:24:21",
       "https://lobste.rs/s/80lw9s/serde_has_started_shipping_precompiled"
     ],
@@ -237,16 +247,6 @@
     [
       "Terraform is dead; Long live Pulumi?",
       "https://matduggan.com/terraform-is-dead-long-live-pulumi/"
-    ]
-  ],
-  [
-    [
-      "2023-08-18, 09:30:13",
-      "https://lobste.rs/s/rru0cc/wtf_is_going_on_with_r7rs_large"
-    ],
-    [
-      "WTF is going on with R7RS Large?",
-      "http://dpk.io/r7rswtf"
     ]
   ]
 ]
