@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-20, 13:57:54](https://lobste.rs/s/zknwrk/scripting_with_go) - [Scripting with Go](https://bitfieldconsulting.com/golang/scripting)
 * [2023-08-20, 13:06:15](https://lobste.rs/s/1crdv4/what_is_pid_controller_espresso_machine) - [What Is A PID Controller In An Espresso Machine?](https://www.beanground.com/pid-controller-espresso/)
 * [2023-08-20, 12:05:24](https://lobste.rs/s/nlogxu/chaos_camping) - [Chaos And Camping](https://hackaday.com/2023/08/19/chaos-and-camping/)
 * [2023-08-20, 09:42:55](https://lobste.rs/s/unqdor/internals_veilid_new_decentralized) - [The internals of Veilid - a new decentralized application framework](https://veilid.com/defcon/talk/)
@@ -17,7 +18,6 @@
 * [2023-08-19, 11:48:32](https://lobste.rs/s/odg35q/critique_cap_n_proto_schema_language_2019) - [A Critique of the Cap'n Proto Schema Language. (2019)](https://zenhack.net/2019/06/25/a-critique-of-the-capnproto-schema-language.html)
 * [2023-08-19, 11:44:30](https://lobste.rs/s/nb1rxx/interactive_projections) - [Interactive projections](https://mirrorball.frost.kiwi/)
 * [2023-08-19, 11:35:41](https://lobste.rs/s/pydlsz/quick_dbus_fix) - [Quick DBUS Fix](https://vermaden.wordpress.com/2023/08/19/quick-dbus-fix/)
-* [2023-08-19, 11:10:49](https://lobste.rs/s/kxhqag/software_license_compatibility_checker) - [Software License Compatibility Checker](https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-compatibility-checker)
 * [2023-08-19, 10:24:21](https://lobste.rs/s/80lw9s/serde_has_started_shipping_precompiled) - [Serde has started shipping precompiled binaries with no way to opt out](https://github.com/serde-rs/serde/issues/2538)
 * [2023-08-19, 10:23:35](https://lobste.rs/s/uqfbuo/thoughts_on_elixir_phoenix_liveview) - [Thoughts on Elixir, Phoenix and LiveView after 18 months of commercial use](https://korban.net/posts/2023-08-11-thoughts-on-elixir-phoenix-liveview/)
 * [2023-08-18, 22:13:08](https://lobste.rs/s/byl4iz/breaking_rules_i_threw_away_10_months_work) - [Breaking the rules: I threw away 10 months of work after 2 months on the job](https://www.dancowell.com/breaking-the-rules/)
