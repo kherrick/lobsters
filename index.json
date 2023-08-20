@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-20, 09:14:30",
+      "https://lobste.rs/s/q810g3/pep_725_specifying_external"
+    ],
+    [
+      "PEP 725 – Specifying external dependencies in pyproject.toml",
+      "https://peps.python.org/pep-0725/"
+    ]
+  ],
+  [
+    [
       "2023-08-20, 05:19:10",
       "https://lobste.rs/s/q9mhdw/endpoint_web_environment_integrity_is"
     ],
@@ -217,16 +227,6 @@
     [
       "qutebrowser v3.0.0",
       "https://github.com/qutebrowser/qutebrowser/releases/tag/v3.0.0"
-    ]
-  ],
-  [
-    [
-      "2023-08-18, 11:45:30",
-      "https://lobste.rs/s/hkkcan/typescript_is_surprisingly_ok_for"
-    ],
-    [
-      "TypeScript is Surprisingly OK for Compilers",
-      "https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html"
     ]
   ],
   [
