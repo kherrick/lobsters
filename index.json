@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-20, 09:37:12",
+      "https://lobste.rs/s/yd9hp7/bark_live_sync_audio_streaming_for_local"
+    ],
+    [
+      "bark: live sync audio streaming for local networks",
+      "https://github.com/haileys/bark"
+    ]
+  ],
+  [
+    [
       "2023-08-20, 09:14:30",
       "https://lobste.rs/s/q810g3/pep_725_specifying_external"
     ],
@@ -167,16 +177,6 @@
     [
       "Thoughts on Elixir, Phoenix and LiveView after 18 months of commercial use",
       "https://korban.net/posts/2023-08-11-thoughts-on-elixir-phoenix-liveview/"
-    ]
-  ],
-  [
-    [
-      "2023-08-19, 07:35:32",
-      "https://lobste.rs/s/5knwyh/zlib_1_3_madler_zlib_09155ea"
-    ],
-    [
-      "zlib 1.3 · madler/zlib@09155ea",
-      "https://github.com/madler/zlib/commit/09155eaa2f9270dc4ed1fa13e2b4b2613e6e4851"
     ]
   ],
   [
