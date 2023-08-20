@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-20](index.md)
 
+* [2023-08-20, 18:10:40](https://lobste.rs/s/zxy7zu/linguist_privacy_friendly_browser) - [Linguist, a privacy friendly browser extension for translation with offline and custom translators](https://github.com/translate-tools/linguist)
+* [2023-08-20, 18:07:19](https://lobste.rs/s/yxu7zt/we_moved_our_cloud_operations_kubernetes) - [We moved our Cloud operations to a Kubernetes Operator](https://sklar.rocks/questdb-cloud-operator/)
+* [2023-08-20, 18:06:36](https://lobste.rs/s/8y4xnk/announcement_regarding_kris_nova) - [An announcement regarding Kris Nóva](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/)
 * [2023-08-20, 17:38:47](https://lobste.rs/s/2ovdpf/hardcore_vulkan_debugging_digging_deep) - [Hardcore Vulkan debugging – Digging deep on Linux + AMDGPU](https://themaister.net/blog/2023/08/20/hardcore-vulkan-debugging-digging-deep-on-linux-amdgpu/)
 * [2023-08-20, 17:37:27](https://lobste.rs/s/uuf9li/how_meta_is_improving_password_security) - [How Meta is improving password security and preserving privacy](https://engineering.fb.com/2023/08/08/security/how-meta-is-improving-password-security-and-preserving-privacy/)
 * [2023-08-20, 16:49:52](https://lobste.rs/s/rvtu87/using_css_animations_instead_javascript) - [Using CSS animations instead of JavaScript timers](https://muffinman.io/blog/css-animations-instead-of-js-timers/)
