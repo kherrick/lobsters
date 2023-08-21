@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-21, 11:38:39",
+      "https://lobste.rs/s/4m4rny/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/4m4rny/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
       "2023-08-21, 10:25:18",
       "https://lobste.rs/s/phiyu4/inspecting_rustc_llvm_optimization"
     ],
@@ -157,16 +167,6 @@
     [
       "META II: a syntax-oriented compiler writing language (1964)",
       "https://dl.acm.org/doi/pdf/10.1145/800257.808896"
-    ]
-  ],
-  [
-    [
-      "2023-08-20, 14:54:14",
-      "https://lobste.rs/s/odl2l4/demystifying_esim_technology"
-    ],
-    [
-      "Demystifying eSIM Technology",
-      "https://media.ccc.de/v/camp2023-57190-demystifying_esim_technology"
     ]
   ],
   [
