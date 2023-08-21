@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
+* [2023-08-21, 11:50:34](https://lobste.rs/s/a0mlek/kernighan_pike_were_right_do_one_thing_do) - [Kernighan and Pike were right: Do one thing, and do it well](https://medium.com/source-and-buggy/do-one-thing-and-do-it-well-886b11a5d21)
 * [2023-08-21, 11:38:39](https://lobste.rs/s/4m4rny/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/4m4rny/what_are_you_doing_this_week)
 * [2023-08-21, 10:25:18](https://lobste.rs/s/phiyu4/inspecting_rustc_llvm_optimization) - [Inspecting rustc LLVM optimization remarks using cargo-remark](https://kobzol.github.io/rust/cargo/2023/08/12/rust-llvm-optimization-remarks.html)
 * [2023-08-21, 09:04:09](https://lobste.rs/s/zgjqxv/franz_macos_apache_kafka_client_now) - [Franz (macOS Apache Kafka client) now Source Available](https://defn.io/2023/08/10/ann-franz-source-available/)

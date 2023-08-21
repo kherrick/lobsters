@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-21, 11:50:34](https://lobste.rs/s/a0mlek/kernighan_pike_were_right_do_one_thing_do) - [Kernighan and Pike were right: Do one thing, and do it well](https://medium.com/source-and-buggy/do-one-thing-and-do-it-well-886b11a5d21)
 * [2023-08-21, 11:38:39](https://lobste.rs/s/4m4rny/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/4m4rny/what_are_you_doing_this_week)
 * [2023-08-21, 10:25:18](https://lobste.rs/s/phiyu4/inspecting_rustc_llvm_optimization) - [Inspecting rustc LLVM optimization remarks using cargo-remark](https://kobzol.github.io/rust/cargo/2023/08/12/rust-llvm-optimization-remarks.html)
 * [2023-08-21, 09:04:09](https://lobste.rs/s/zgjqxv/franz_macos_apache_kafka_client_now) - [Franz (macOS Apache Kafka client) now Source Available](https://defn.io/2023/08/10/ann-franz-source-available/)
@@ -24,7 +25,6 @@
 * [2023-08-20, 09:37:12](https://lobste.rs/s/yd9hp7/bark_live_sync_audio_streaming_for_local) - [bark: live sync audio streaming for local networks](https://github.com/haileys/bark)
 * [2023-08-20, 09:14:30](https://lobste.rs/s/q810g3/pep_725_specifying_external) - [PEP 725 – Specifying external dependencies in pyproject.toml](https://peps.python.org/pep-0725/)
 * [2023-08-19, 20:24:39](https://lobste.rs/s/rcc3oc/difficult_ux_parking_apps) - [difficult ux in parking apps](https://cohost.org/cathoderaydude/post/2521077-hahaha-we-live-in-he)
-* [2023-08-19, 10:24:21](https://lobste.rs/s/80lw9s/serde_has_started_shipping_precompiled) - [Serde has started shipping precompiled binaries with no way to opt out](https://github.com/serde-rs/serde/issues/2538)
 
 ## [Archives](archives/index.md)
 
