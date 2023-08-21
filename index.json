@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-21, 16:10:07",
+      "https://lobste.rs/s/euxlcg/buffer_overflows_notepad"
+    ],
+    [
+      "Buffer Overflows in Notepad++",
+      "https://securitylab.github.com/advisories/GHSL-2023-092_Notepad__/"
+    ]
+  ],
+  [
+    [
       "2023-08-21, 15:38:14",
       "https://lobste.rs/s/kno65c/history_windows_2_0"
     ],
@@ -127,16 +137,6 @@
     [
       "Using lei, b4, and mutt to do kernel development",
       "https://josefbacik.github.io/kernel/2021/10/18/lei-and-b4.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-20, 19:03:41",
-      "https://lobste.rs/s/idimww/fixit_2_meta_s_next_generation_auto_fixing"
-    ],
-    [
-      "Fixit 2: Meta’s next-generation auto-fixing linter",
-      "https://engineering.fb.com/2023/08/07/developer-tools/fixit-2-linter-meta/"
     ]
   ],
   [
