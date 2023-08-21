@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2023-08-20, 17:38:47",
-      "https://lobste.rs/s/2ovdpf/hardcore_vulkan_debugging_digging_deep"
-    ],
-    [
-      "Hardcore Vulkan debugging – Digging deep on Linux + AMDGPU",
-      "https://themaister.net/blog/2023/08/20/hardcore-vulkan-debugging-digging-deep-on-linux-amdgpu/"
-    ]
-  ],
-  [
-    [
       "2023-08-20, 16:18:29",
       "https://lobste.rs/s/vf4ebv/merkle_trees_build_systems_nix"
     ],
@@ -237,6 +227,16 @@
     [
       "The internals of Veilid - a new decentralized application framework",
       "https://veilid.com/defcon/talk/"
+    ]
+  ],
+  [
+    [
+      "2023-08-20, 09:37:12",
+      "https://lobste.rs/s/yd9hp7/bark_live_sync_audio_streaming_for_local"
+    ],
+    [
+      "bark: live sync audio streaming for local networks",
+      "https://github.com/haileys/bark"
     ]
   ],
   [
