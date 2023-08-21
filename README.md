@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-21, 19:03:28](https://lobste.rs/s/kx8kmv/darling_progress_report_q2_2023) - [Darling Progress Report Q2 2023](https://blog.darlinghq.org/2023/08/21/progress-report-q2-2023/)
 * [2023-08-21, 17:43:33](https://lobste.rs/s/5s4zdb/garbage_collection_large_lisp_system) - [Garbage Collection in a Large Lisp System (1984)](https://dl.acm.org/doi/pdf/10.1145/800055.802040)
 * [2023-08-21, 17:02:01](https://lobste.rs/s/bupvxm/learn_autohotkey_by_stealing_my_scripts) - [Learn AutoHotKey by stealing my scripts](https://www.hillelwayne.com/post/ahk-scripts-project/)
 * [2023-08-21, 16:28:15](https://lobste.rs/s/ywgooy/what_is_abi_what_should_wg21_do_about_it) - [What is ABI and what should WG21 do about it? (2020)](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p2028r0.pdf)
@@ -9,7 +10,6 @@
 * [2023-08-21, 15:24:52](https://lobste.rs/s/728lp8/don_t_fire_your_illustrator) - [Don't Fire Your Illustrator](https://sambleckley.com/writing/dont-fire-your-illustrator.html)
 * [2023-08-21, 14:45:46](https://lobste.rs/s/r7w1nm/ideal_viewport_doesn_t_exist) - [The ideal viewport doesn’t exist](https://viewports.fyi/)
 * [2023-08-21, 13:22:09](https://lobste.rs/s/cw3gbh/16_bit_serial_homebrew_cpu) - [16-bit Serial Homebrew CPU](https://jiristepanovsky.cz/project.php?p=23cpu)
-* [2023-08-21, 12:34:51](https://lobste.rs/s/jnhxcw/create_ruby_gem_with_zeitwerk_as) - [Create a Ruby gem with Zeitwerk as a development-only dependency (tutorial)](https://blog.pawelpokrywka.com/p/gem-with-zeitwerk-as-development-only-dependency)
 * [2023-08-21, 11:50:34](https://lobste.rs/s/a0mlek/kernighan_pike_were_right_do_one_thing_do) - [Kernighan and Pike were right: Do one thing, and do it well](https://medium.com/source-and-buggy/do-one-thing-and-do-it-well-886b11a5d21)
 * [2023-08-21, 11:38:39](https://lobste.rs/s/4m4rny/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/4m4rny/what_are_you_doing_this_week)
 * [2023-08-21, 10:25:18](https://lobste.rs/s/phiyu4/inspecting_rustc_llvm_optimization) - [Inspecting rustc LLVM optimization remarks using cargo-remark](https://kobzol.github.io/rust/cargo/2023/08/12/rust-llvm-optimization-remarks.html)
