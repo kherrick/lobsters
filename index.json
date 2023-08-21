@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-21, 10:25:18",
+      "https://lobste.rs/s/phiyu4/inspecting_rustc_llvm_optimization"
+    ],
+    [
+      "Inspecting rustc LLVM optimization remarks using cargo-remark",
+      "https://kobzol.github.io/rust/cargo/2023/08/12/rust-llvm-optimization-remarks.html"
+    ]
+  ],
+  [
+    [
       "2023-08-21, 09:04:09",
       "https://lobste.rs/s/zgjqxv/franz_macos_apache_kafka_client_now"
     ],
@@ -117,16 +127,6 @@
     [
       "Hardcore Vulkan debugging – Digging deep on Linux + AMDGPU",
       "https://themaister.net/blog/2023/08/20/hardcore-vulkan-debugging-digging-deep-on-linux-amdgpu/"
-    ]
-  ],
-  [
-    [
-      "2023-08-20, 16:49:52",
-      "https://lobste.rs/s/rvtu87/using_css_animations_instead_javascript"
-    ],
-    [
-      "Using CSS animations instead of JavaScript timers",
-      "https://muffinman.io/blog/css-animations-instead-of-js-timers/"
     ]
   ],
   [
