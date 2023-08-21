@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-21, 09:04:09](https://lobste.rs/s/zgjqxv/franz_macos_apache_kafka_client_now) - [Franz (macOS Apache Kafka client) now Source Available](https://defn.io/2023/08/10/ann-franz-source-available/)
 * [2023-08-21, 08:13:39](https://lobste.rs/s/mtt9em/three_month_pangolin) - [three-month-pangolin](https://blog.zero.lgbt/blog/three-month-pangolin)
 * [2023-08-21, 06:33:49](https://lobste.rs/s/vhmgx7/maclynx_beta_5_utf_8_pull_down_menus_more) - [MacLynx beta 5: UTF-8, pull-down menus and more dialogue boxes, oh my](https://oldvcr.blogspot.com/2023/08/maclynx-beta-5-utf-8-pull-down-menus.html)
-* [2023-08-21, 00:19:12](https://lobste.rs/s/fxizsf/manipulating_terraform_states_for_fun) - [Manipulating Terraform states for fun, profit, and reusability](https://github.com/ergomake/layerform/blob/main/blog/terraform-states.md)
 * [2023-08-20, 21:27:16](https://lobste.rs/s/wc3hfh/more_falsehoods_programmers_believe) - [More falsehoods programmers believe about time; \"wisdom of the crowd\" edition](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
 * [2023-08-20, 21:02:24](https://lobste.rs/s/dhlpf4/using_lei_b4_mutt_do_kernel_development) - [Using lei, b4, and mutt to do kernel development](https://josefbacik.github.io/kernel/2021/10/18/lei-and-b4.html)
 * [2023-08-20, 19:03:41](https://lobste.rs/s/idimww/fixit_2_meta_s_next_generation_auto_fixing) - [Fixit 2: Meta’s next-generation auto-fixing linter](https://engineering.fb.com/2023/08/07/developer-tools/fixit-2-linter-meta/)
