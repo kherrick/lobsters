@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-21, 10:25:18](https://lobste.rs/s/phiyu4/inspecting_rustc_llvm_optimization) - [Inspecting rustc LLVM optimization remarks using cargo-remark](https://kobzol.github.io/rust/cargo/2023/08/12/rust-llvm-optimization-remarks.html)
 * [2023-08-21, 09:04:09](https://lobste.rs/s/zgjqxv/franz_macos_apache_kafka_client_now) - [Franz (macOS Apache Kafka client) now Source Available](https://defn.io/2023/08/10/ann-franz-source-available/)
 * [2023-08-21, 08:13:39](https://lobste.rs/s/mtt9em/three_month_pangolin) - [three-month-pangolin](https://blog.zero.lgbt/blog/three-month-pangolin)
 * [2023-08-21, 06:33:49](https://lobste.rs/s/vhmgx7/maclynx_beta_5_utf_8_pull_down_menus_more) - [MacLynx beta 5: UTF-8, pull-down menus and more dialogue boxes, oh my](https://oldvcr.blogspot.com/2023/08/maclynx-beta-5-utf-8-pull-down-menus.html)
@@ -12,7 +13,6 @@
 * [2023-08-20, 18:07:19](https://lobste.rs/s/yxu7zt/we_moved_our_cloud_operations_kubernetes) - [We moved our Cloud operations to a Kubernetes Operator](https://sklar.rocks/questdb-cloud-operator/)
 * [2023-08-20, 18:06:36](https://lobste.rs/s/8y4xnk/announcement_regarding_kris_nova) - [An announcement regarding Kris Nóva](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/)
 * [2023-08-20, 17:38:47](https://lobste.rs/s/2ovdpf/hardcore_vulkan_debugging_digging_deep) - [Hardcore Vulkan debugging – Digging deep on Linux + AMDGPU](https://themaister.net/blog/2023/08/20/hardcore-vulkan-debugging-digging-deep-on-linux-amdgpu/)
-* [2023-08-20, 16:49:52](https://lobste.rs/s/rvtu87/using_css_animations_instead_javascript) - [Using CSS animations instead of JavaScript timers](https://muffinman.io/blog/css-animations-instead-of-js-timers/)
 * [2023-08-20, 16:18:29](https://lobste.rs/s/vf4ebv/merkle_trees_build_systems_nix) - [Merkle trees and build systems (Nix alternative) (2020)](https://lwn.net/Articles/821367/)
 * [2023-08-20, 16:11:26](https://lobste.rs/s/qikg6x/ares_operating_system) - [The Ares Operating System](https://ares-os.org/)
 * [2023-08-20, 15:12:17](https://lobste.rs/s/bt3fz5/meta_ii_syntax_oriented_compiler_writing) - [META II: a syntax-oriented compiler writing language](https://dl.acm.org/doi/pdf/10.1145/800257.808896)
