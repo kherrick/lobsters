@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-21, 11:50:34",
+      "https://lobste.rs/s/a0mlek/kernighan_pike_were_right_do_one_thing_do"
+    ],
+    [
+      "Kernighan and Pike were right: Do one thing, and do it well",
+      "https://medium.com/source-and-buggy/do-one-thing-and-do-it-well-886b11a5d21"
+    ]
+  ],
+  [
+    [
       "2023-08-21, 11:38:39",
       "https://lobste.rs/s/4m4rny/what_are_you_doing_this_week"
     ],
@@ -237,16 +247,6 @@
     [
       "difficult ux in parking apps",
       "https://cohost.org/cathoderaydude/post/2521077-hahaha-we-live-in-he"
-    ]
-  ],
-  [
-    [
-      "2023-08-19, 10:24:21",
-      "https://lobste.rs/s/80lw9s/serde_has_started_shipping_precompiled"
-    ],
-    [
-      "Serde has started shipping precompiled binaries with no way to opt out",
-      "https://github.com/serde-rs/serde/issues/2538"
     ]
   ]
 ]
