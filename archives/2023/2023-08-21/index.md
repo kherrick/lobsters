@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
+* [2023-08-21, 20:46:32](https://lobste.rs/s/gfb9ww/fiascolang_new_wonderful_programming) - [FiascoLang – new wonderful programming language](https://www.reddit.com/r/ProgrammingLanguages/comments/15xgt8b/im_working_on_a_new_promising_fiascolang/)
 * [2023-08-21, 20:09:44](https://lobste.rs/s/bithug/blog_cells_interactive_code_cells_for) - [blog-cells: Interactive code cells for static sites](https://rameshvarun.github.io/blog-cells/)
 * [2023-08-21, 19:17:24](https://lobste.rs/s/o82ns9/nvidia_bios_signature_lock_broken_vbios) - [NVIDIA BIOS Signature Lock Broken, vBIOS Modding and Crossflash Enabled by Groundbreaking New Tools](https://www.techpowerup.com/312631/nvidia-bios-signature-lock-broken-vbios-modding-and-crossflash-enabled-by-groundbreaking-new-tools)
 * [2023-08-21, 19:03:28](https://lobste.rs/s/kx8kmv/darling_progress_report_q2_2023) - [Darling Progress Report Q2 2023](https://blog.darlinghq.org/2023/08/21/progress-report-q2-2023/)
