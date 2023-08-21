@@ -15,7 +15,7 @@
 * [2023-08-20, 17:38:47](https://lobste.rs/s/2ovdpf/hardcore_vulkan_debugging_digging_deep) - [Hardcore Vulkan debugging – Digging deep on Linux + AMDGPU](https://themaister.net/blog/2023/08/20/hardcore-vulkan-debugging-digging-deep-on-linux-amdgpu/)
 * [2023-08-20, 16:18:29](https://lobste.rs/s/vf4ebv/merkle_trees_build_systems_nix) - [Merkle trees and build systems (Nix alternative) (2020)](https://lwn.net/Articles/821367/)
 * [2023-08-20, 16:11:26](https://lobste.rs/s/qikg6x/ares_operating_system) - [The Ares Operating System](https://ares-os.org/)
-* [2023-08-20, 15:12:17](https://lobste.rs/s/bt3fz5/meta_ii_syntax_oriented_compiler_writing) - [META II: a syntax-oriented compiler writing language](https://dl.acm.org/doi/pdf/10.1145/800257.808896)
+* [2023-08-20, 15:12:17](https://lobste.rs/s/bt3fz5/meta_ii_syntax_oriented_compiler_writing) - [META II: a syntax-oriented compiler writing language (1964)](https://dl.acm.org/doi/pdf/10.1145/800257.808896)
 * [2023-08-20, 14:54:14](https://lobste.rs/s/odl2l4/demystifying_esim_technology) - [Demystifying eSIM Technology](https://media.ccc.de/v/camp2023-57190-demystifying_esim_technology)
 * [2023-08-20, 14:23:12](https://lobste.rs/s/nqk2pm/software_component_names_should_be) - [Software Component Names Should Be Whimsical And Cryptic](https://betterprogramming.pub/software-component-names-should-be-whimsical-and-cryptic-ca260b013de0)
 * [2023-08-20, 13:57:54](https://lobste.rs/s/zknwrk/scripting_with_go) - [Scripting with Go](https://bitfieldconsulting.com/golang/scripting)
