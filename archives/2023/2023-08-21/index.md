@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
+* [2023-08-21, 21:32:31](https://lobste.rs/s/65fpej/freebsd_journal_2023_07_08_containers) - [FreeBSD Journal - 2023 07-08 - Containers and Cloud](https://freebsdfoundation.org/past-issues/containers-and-cloud/)
 * [2023-08-21, 21:10:00](https://lobste.rs/s/sbnfa6/educational_codebases) - [Educational Codebases](https://buttondown.email/hillelwayne/archive/educational-codebases/)
 * [2023-08-21, 20:46:32](https://lobste.rs/s/gfb9ww/fiascolang_new_wonderful_programming) - [FiascoLang – new wonderful programming language](https://www.reddit.com/r/ProgrammingLanguages/comments/15xgt8b/im_working_on_a_new_promising_fiascolang/)
 * [2023-08-21, 20:09:44](https://lobste.rs/s/bithug/blog_cells_interactive_code_cells_for) - [blog-cells: Interactive code cells for static sites](https://rameshvarun.github.io/blog-cells/)
