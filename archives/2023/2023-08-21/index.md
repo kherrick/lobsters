@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
+* [2023-08-21, 17:02:01](https://lobste.rs/s/bupvxm/learn_autohotkey_by_stealing_my_scripts) - [Learn AutoHotKey by stealing my scripts](https://www.hillelwayne.com/post/ahk-scripts-project/)
 * [2023-08-21, 16:28:15](https://lobste.rs/s/ywgooy/what_is_abi_what_should_wg21_do_about_it) - [What is ABI and what should WG21 do about it? (2020)](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p2028r0.pdf)
 * [2023-08-21, 16:22:35](https://lobste.rs/s/dnbkoo/walk_terminal_file_manager) - [Walk: Terminal file manager](https://github.com/antonmedv/walk)
 * [2023-08-21, 16:10:07](https://lobste.rs/s/euxlcg/buffer_overflows_notepad) - [Buffer Overflows in Notepad++](https://securitylab.github.com/advisories/GHSL-2023-092_Notepad__/)
