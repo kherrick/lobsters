@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2023-08-21, 00:19:12",
-      "https://lobste.rs/s/fxizsf/manipulating_terraform_states_for_fun"
-    ],
-    [
-      "Manipulating Terraform states for fun, profit, and reusability",
-      "https://github.com/ergomake/layerform/blob/main/blog/terraform-states.md"
-    ]
-  ],
-  [
-    [
       "2023-08-20, 21:27:16",
       "https://lobste.rs/s/wc3hfh/more_falsehoods_programmers_believe"
     ],
@@ -157,6 +147,16 @@
     [
       "An announcement regarding Kris Nóva",
       "https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/"
+    ]
+  ],
+  [
+    [
+      "2023-08-20, 17:38:47",
+      "https://lobste.rs/s/2ovdpf/hardcore_vulkan_debugging_digging_deep"
+    ],
+    [
+      "Hardcore Vulkan debugging – Digging deep on Linux + AMDGPU",
+      "https://themaister.net/blog/2023/08/20/hardcore-vulkan-debugging-digging-deep-on-linux-amdgpu/"
     ]
   ],
   [
