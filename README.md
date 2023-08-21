@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-21, 19:17:24](https://lobste.rs/s/o82ns9/nvidia_bios_signature_lock_broken_vbios) - [NVIDIA BIOS Signature Lock Broken, vBIOS Modding and Crossflash Enabled by Groundbreaking New Tools](https://www.techpowerup.com/312631/nvidia-bios-signature-lock-broken-vbios-modding-and-crossflash-enabled-by-groundbreaking-new-tools)
 * [2023-08-21, 19:03:28](https://lobste.rs/s/kx8kmv/darling_progress_report_q2_2023) - [Darling Progress Report Q2 2023](https://blog.darlinghq.org/2023/08/21/progress-report-q2-2023/)
 * [2023-08-21, 17:43:33](https://lobste.rs/s/5s4zdb/garbage_collection_large_lisp_system) - [Garbage Collection in a Large Lisp System (1984)](https://dl.acm.org/doi/pdf/10.1145/800055.802040)
 * [2023-08-21, 17:02:01](https://lobste.rs/s/bupvxm/learn_autohotkey_by_stealing_my_scripts) - [Learn AutoHotKey by stealing my scripts](https://www.hillelwayne.com/post/ahk-scripts-project/)
-* [2023-08-21, 16:28:15](https://lobste.rs/s/ywgooy/what_is_abi_what_should_wg21_do_about_it) - [What is ABI and what should WG21 do about it? (2020)](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p2028r0.pdf)
 * [2023-08-21, 16:22:35](https://lobste.rs/s/dnbkoo/walk_terminal_file_manager) - [Walk: Terminal file manager](https://github.com/antonmedv/walk)
 * [2023-08-21, 16:10:07](https://lobste.rs/s/euxlcg/buffer_overflows_notepad) - [Buffer Overflows in Notepad++](https://securitylab.github.com/advisories/GHSL-2023-092_Notepad__/)
 * [2023-08-21, 15:38:14](https://lobste.rs/s/kno65c/history_windows_2_0) - [The History of Windows 2.0](https://www.abortretry.fail/p/the-history-of-windows-20)
