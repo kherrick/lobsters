@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
+* [2023-08-21, 11:38:39](https://lobste.rs/s/4m4rny/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/4m4rny/what_are_you_doing_this_week)
 * [2023-08-21, 10:25:18](https://lobste.rs/s/phiyu4/inspecting_rustc_llvm_optimization) - [Inspecting rustc LLVM optimization remarks using cargo-remark](https://kobzol.github.io/rust/cargo/2023/08/12/rust-llvm-optimization-remarks.html)
 * [2023-08-21, 09:04:09](https://lobste.rs/s/zgjqxv/franz_macos_apache_kafka_client_now) - [Franz (macOS Apache Kafka client) now Source Available](https://defn.io/2023/08/10/ann-franz-source-available/)
 * [2023-08-21, 08:13:39](https://lobste.rs/s/mtt9em/three_month_pangolin) - [three-month-pangolin](https://blog.zero.lgbt/blog/three-month-pangolin)
