@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-21, 15:24:52](https://lobste.rs/s/728lp8/don_t_fire_your_illustrator) - [Don't Fire Your Illustrator](https://sambleckley.com/writing/dont-fire-your-illustrator.html)
 * [2023-08-21, 14:45:46](https://lobste.rs/s/r7w1nm/ideal_viewport_doesn_t_exist) - [The ideal viewport doesn’t exist](https://viewports.fyi/)
 * [2023-08-21, 13:22:09](https://lobste.rs/s/cw3gbh/16_bit_serial_homebrew_cpu) - [16-bit Serial Homebrew CPU](https://jiristepanovsky.cz/project.php?p=23cpu)
 * [2023-08-21, 12:34:51](https://lobste.rs/s/jnhxcw/create_ruby_gem_with_zeitwerk_as) - [Create a Ruby gem with Zeitwerk as a development-only dependency (tutorial)](https://blog.pawelpokrywka.com/p/gem-with-zeitwerk-as-development-only-dependency)
@@ -14,7 +15,6 @@
 * [2023-08-20, 19:03:41](https://lobste.rs/s/idimww/fixit_2_meta_s_next_generation_auto_fixing) - [Fixit 2: Meta’s next-generation auto-fixing linter](https://engineering.fb.com/2023/08/07/developer-tools/fixit-2-linter-meta/)
 * [2023-08-20, 18:53:26](https://lobste.rs/s/yhx0wa/my_mnt_reform_almost_year_on) - [My MNT Reform almost a year on](https://www.geeklan.co.uk/?p=3215)
 * [2023-08-20, 18:10:40](https://lobste.rs/s/zxy7zu/linguist_privacy_friendly_browser) - [Linguist, a privacy friendly browser extension for translation with offline and custom translators](https://github.com/translate-tools/linguist)
-* [2023-08-20, 18:07:19](https://lobste.rs/s/yxu7zt/we_moved_our_cloud_operations_kubernetes) - [We moved our Cloud operations to a Kubernetes Operator](https://sklar.rocks/questdb-cloud-operator/)
 * [2023-08-20, 18:06:36](https://lobste.rs/s/8y4xnk/announcement_regarding_kris_nova) - [An announcement regarding Kris Nóva](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/)
 * [2023-08-20, 16:18:29](https://lobste.rs/s/vf4ebv/merkle_trees_build_systems_nix) - [Merkle trees and build systems (Nix alternative) (2020)](https://lwn.net/Articles/821367/)
 * [2023-08-20, 16:11:26](https://lobste.rs/s/qikg6x/ares_operating_system) - [The Ares Operating System](https://ares-os.org/)
