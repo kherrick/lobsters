@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
+* [2023-08-21, 16:28:15](https://lobste.rs/s/ywgooy/what_is_abi_what_should_wg21_do_about_it) - [What is ABI and what should WG21 do about it? (2020)](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p2028r0.pdf)
+* [2023-08-21, 16:22:35](https://lobste.rs/s/dnbkoo/walk_terminal_file_manager) - [Walk: Terminal file manager](https://github.com/antonmedv/walk)
 * [2023-08-21, 16:10:07](https://lobste.rs/s/euxlcg/buffer_overflows_notepad) - [Buffer Overflows in Notepad++](https://securitylab.github.com/advisories/GHSL-2023-092_Notepad__/)
 * [2023-08-21, 15:38:14](https://lobste.rs/s/kno65c/history_windows_2_0) - [The History of Windows 2.0](https://www.abortretry.fail/p/the-history-of-windows-20)
 * [2023-08-21, 15:24:52](https://lobste.rs/s/728lp8/don_t_fire_your_illustrator) - [Don't Fire Your Illustrator](https://sambleckley.com/writing/dont-fire-your-illustrator.html)
