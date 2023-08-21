@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
+* [2023-08-21, 17:43:33](https://lobste.rs/s/5s4zdb/garbage_collection_large_lisp_system) - [Garbage Collection in a Large Lisp System (1984)](https://dl.acm.org/doi/pdf/10.1145/800055.802040)
 * [2023-08-21, 17:02:01](https://lobste.rs/s/bupvxm/learn_autohotkey_by_stealing_my_scripts) - [Learn AutoHotKey by stealing my scripts](https://www.hillelwayne.com/post/ahk-scripts-project/)
 * [2023-08-21, 16:28:15](https://lobste.rs/s/ywgooy/what_is_abi_what_should_wg21_do_about_it) - [What is ABI and what should WG21 do about it? (2020)](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p2028r0.pdf)
 * [2023-08-21, 16:22:35](https://lobste.rs/s/dnbkoo/walk_terminal_file_manager) - [Walk: Terminal file manager](https://github.com/antonmedv/walk)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-21, 17:43:33](https://lobste.rs/s/5s4zdb/garbage_collection_large_lisp_system) - [Garbage Collection in a Large Lisp System (1984)](https://dl.acm.org/doi/pdf/10.1145/800055.802040)
 * [2023-08-21, 17:02:01](https://lobste.rs/s/bupvxm/learn_autohotkey_by_stealing_my_scripts) - [Learn AutoHotKey by stealing my scripts](https://www.hillelwayne.com/post/ahk-scripts-project/)
 * [2023-08-21, 16:28:15](https://lobste.rs/s/ywgooy/what_is_abi_what_should_wg21_do_about_it) - [What is ABI and what should WG21 do about it? (2020)](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p2028r0.pdf)
 * [2023-08-21, 16:22:35](https://lobste.rs/s/dnbkoo/walk_terminal_file_manager) - [Walk: Terminal file manager](https://github.com/antonmedv/walk)
@@ -22,7 +23,6 @@
 * [2023-08-20, 16:18:29](https://lobste.rs/s/vf4ebv/merkle_trees_build_systems_nix) - [Merkle trees and build systems (Nix alternative) (2020)](https://lwn.net/Articles/821367/)
 * [2023-08-20, 16:11:26](https://lobste.rs/s/qikg6x/ares_operating_system) - [The Ares Operating System](https://ares-os.org/)
 * [2023-08-20, 14:23:12](https://lobste.rs/s/nqk2pm/software_component_names_should_be) - [Software Component Names Should Be Whimsical And Cryptic](https://betterprogramming.pub/software-component-names-should-be-whimsical-and-cryptic-ca260b013de0)
-* [2023-08-20, 13:57:54](https://lobste.rs/s/zknwrk/scripting_with_go) - [Scripting with Go](https://bitfieldconsulting.com/golang/scripting)
 * [2023-08-20, 09:42:55](https://lobste.rs/s/unqdor/internals_veilid_new_decentralized) - [The internals of Veilid - a new decentralized application framework](https://veilid.com/defcon/talk/)
 * [2023-08-19, 20:24:39](https://lobste.rs/s/rcc3oc/difficult_ux_parking_apps) - [difficult ux in parking apps](https://cohost.org/cathoderaydude/post/2521077-hahaha-we-live-in-he)
 
