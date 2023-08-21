@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-21, 14:45:46](https://lobste.rs/s/r7w1nm/ideal_viewport_doesn_t_exist) - [The ideal viewport doesn’t exist](https://viewports.fyi/)
 * [2023-08-21, 13:22:09](https://lobste.rs/s/cw3gbh/16_bit_serial_homebrew_cpu) - [16-bit Serial Homebrew CPU](https://jiristepanovsky.cz/project.php?p=23cpu)
 * [2023-08-21, 12:34:51](https://lobste.rs/s/jnhxcw/create_ruby_gem_with_zeitwerk_as) - [Create a Ruby gem with Zeitwerk as a development-only dependency (tutorial)](https://blog.pawelpokrywka.com/p/gem-with-zeitwerk-as-development-only-dependency)
 * [2023-08-21, 11:50:34](https://lobste.rs/s/a0mlek/kernighan_pike_were_right_do_one_thing_do) - [Kernighan and Pike were right: Do one thing, and do it well](https://medium.com/source-and-buggy/do-one-thing-and-do-it-well-886b11a5d21)
@@ -15,7 +16,6 @@
 * [2023-08-20, 18:10:40](https://lobste.rs/s/zxy7zu/linguist_privacy_friendly_browser) - [Linguist, a privacy friendly browser extension for translation with offline and custom translators](https://github.com/translate-tools/linguist)
 * [2023-08-20, 18:07:19](https://lobste.rs/s/yxu7zt/we_moved_our_cloud_operations_kubernetes) - [We moved our Cloud operations to a Kubernetes Operator](https://sklar.rocks/questdb-cloud-operator/)
 * [2023-08-20, 18:06:36](https://lobste.rs/s/8y4xnk/announcement_regarding_kris_nova) - [An announcement regarding Kris Nóva](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/)
-* [2023-08-20, 17:38:47](https://lobste.rs/s/2ovdpf/hardcore_vulkan_debugging_digging_deep) - [Hardcore Vulkan debugging – Digging deep on Linux + AMDGPU](https://themaister.net/blog/2023/08/20/hardcore-vulkan-debugging-digging-deep-on-linux-amdgpu/)
 * [2023-08-20, 16:18:29](https://lobste.rs/s/vf4ebv/merkle_trees_build_systems_nix) - [Merkle trees and build systems (Nix alternative) (2020)](https://lwn.net/Articles/821367/)
 * [2023-08-20, 16:11:26](https://lobste.rs/s/qikg6x/ares_operating_system) - [The Ares Operating System](https://ares-os.org/)
 * [2023-08-20, 15:12:17](https://lobste.rs/s/bt3fz5/meta_ii_syntax_oriented_compiler_writing) - [META II: a syntax-oriented compiler writing language (1964)](https://dl.acm.org/doi/pdf/10.1145/800257.808896)

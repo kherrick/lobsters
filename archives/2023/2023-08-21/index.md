@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
+* [2023-08-21, 14:45:46](https://lobste.rs/s/r7w1nm/ideal_viewport_doesn_t_exist) - [The ideal viewport doesn’t exist](https://viewports.fyi/)
 * [2023-08-21, 13:22:09](https://lobste.rs/s/cw3gbh/16_bit_serial_homebrew_cpu) - [16-bit Serial Homebrew CPU](https://jiristepanovsky.cz/project.php?p=23cpu)
 * [2023-08-21, 12:34:51](https://lobste.rs/s/jnhxcw/create_ruby_gem_with_zeitwerk_as) - [Create a Ruby gem with Zeitwerk as a development-only dependency (tutorial)](https://blog.pawelpokrywka.com/p/gem-with-zeitwerk-as-development-only-dependency)
 * [2023-08-21, 11:50:34](https://lobste.rs/s/a0mlek/kernighan_pike_were_right_do_one_thing_do) - [Kernighan and Pike were right: Do one thing, and do it well](https://medium.com/source-and-buggy/do-one-thing-and-do-it-well-886b11a5d21)
