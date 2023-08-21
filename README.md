@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-21, 06:33:49](https://lobste.rs/s/vhmgx7/maclynx_beta_5_utf_8_pull_down_menus_more) - [MacLynx beta 5: UTF-8, pull-down menus and more dialogue boxes, oh my](https://oldvcr.blogspot.com/2023/08/maclynx-beta-5-utf-8-pull-down-menus.html)
 * [2023-08-21, 00:19:12](https://lobste.rs/s/fxizsf/manipulating_terraform_states_for_fun) - [Manipulating Terraform states for fun, profit, and reusability](https://github.com/ergomake/layerform/blob/main/blog/terraform-states.md)
 * [2023-08-20, 21:27:16](https://lobste.rs/s/wc3hfh/more_falsehoods_programmers_believe) - [More falsehoods programmers believe about time; \"wisdom of the crowd\" edition](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
 * [2023-08-20, 21:02:24](https://lobste.rs/s/dhlpf4/using_lei_b4_mutt_do_kernel_development) - [Using lei, b4, and mutt to do kernel development](https://josefbacik.github.io/kernel/2021/10/18/lei-and-b4.html)
@@ -21,7 +22,6 @@
 * [2023-08-20, 09:42:55](https://lobste.rs/s/unqdor/internals_veilid_new_decentralized) - [The internals of Veilid - a new decentralized application framework](https://veilid.com/defcon/talk/)
 * [2023-08-20, 09:37:12](https://lobste.rs/s/yd9hp7/bark_live_sync_audio_streaming_for_local) - [bark: live sync audio streaming for local networks](https://github.com/haileys/bark)
 * [2023-08-20, 09:14:30](https://lobste.rs/s/q810g3/pep_725_specifying_external) - [PEP 725 – Specifying external dependencies in pyproject.toml](https://peps.python.org/pep-0725/)
-* [2023-08-19, 21:13:03](https://lobste.rs/s/ncsvrp/browsing_web_with_wonderswan_2023) - [Browsing the web with a WonderSwan in 2023](https://blog.asie.pl/2023/08/browsing-the-web-wonderswan-2023/)
 * [2023-08-19, 20:24:39](https://lobste.rs/s/rcc3oc/difficult_ux_parking_apps) - [difficult ux in parking apps](https://cohost.org/cathoderaydude/post/2521077-hahaha-we-live-in-he)
 * [2023-08-19, 18:40:42](https://lobste.rs/s/rg7d6w/ai_generated_works_aren_t_protected_by) - [AI-Generated Works Aren’t Protected By Copyrights, Federal Judge Rules](https://www.billboard.com/pro/ai-generated-creative-works-cant-be-copyrighted-judge-rules/)
 * [2023-08-19, 10:24:21](https://lobste.rs/s/80lw9s/serde_has_started_shipping_precompiled) - [Serde has started shipping precompiled binaries with no way to opt out](https://github.com/serde-rs/serde/issues/2538)
