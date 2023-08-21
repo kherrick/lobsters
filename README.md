@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-21, 13:22:09](https://lobste.rs/s/cw3gbh/16_bit_serial_homebrew_cpu) - [16-bit Serial Homebrew CPU](https://jiristepanovsky.cz/project.php?p=23cpu)
 * [2023-08-21, 12:34:51](https://lobste.rs/s/jnhxcw/create_ruby_gem_with_zeitwerk_as) - [Create a Ruby gem with Zeitwerk as a development-only dependency (tutorial)](https://blog.pawelpokrywka.com/p/gem-with-zeitwerk-as-development-only-dependency)
 * [2023-08-21, 11:50:34](https://lobste.rs/s/a0mlek/kernighan_pike_were_right_do_one_thing_do) - [Kernighan and Pike were right: Do one thing, and do it well](https://medium.com/source-and-buggy/do-one-thing-and-do-it-well-886b11a5d21)
 * [2023-08-21, 11:38:39](https://lobste.rs/s/4m4rny/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/4m4rny/what_are_you_doing_this_week)
@@ -23,7 +24,6 @@
 * [2023-08-20, 13:57:54](https://lobste.rs/s/zknwrk/scripting_with_go) - [Scripting with Go](https://bitfieldconsulting.com/golang/scripting)
 * [2023-08-20, 13:06:15](https://lobste.rs/s/1crdv4/what_is_pid_controller_espresso_machine) - [What Is A PID Controller In An Espresso Machine?](https://www.beanground.com/pid-controller-espresso/)
 * [2023-08-20, 09:42:55](https://lobste.rs/s/unqdor/internals_veilid_new_decentralized) - [The internals of Veilid - a new decentralized application framework](https://veilid.com/defcon/talk/)
-* [2023-08-20, 09:37:12](https://lobste.rs/s/yd9hp7/bark_live_sync_audio_streaming_for_local) - [bark: live sync audio streaming for local networks](https://github.com/haileys/bark)
 * [2023-08-19, 20:24:39](https://lobste.rs/s/rcc3oc/difficult_ux_parking_apps) - [difficult ux in parking apps](https://cohost.org/cathoderaydude/post/2521077-hahaha-we-live-in-he)
 
 ## [Archives](archives/index.md)
