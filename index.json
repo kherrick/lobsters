@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-21, 20:09:44",
+      "https://lobste.rs/s/bithug/blog_cells_interactive_code_cells_for"
+    ],
+    [
+      "blog-cells: Interactive code cells for static sites",
+      "https://rameshvarun.github.io/blog-cells/"
+    ]
+  ],
+  [
+    [
       "2023-08-21, 19:17:24",
       "https://lobste.rs/s/o82ns9/nvidia_bios_signature_lock_broken_vbios"
     ],
@@ -101,6 +111,16 @@
   ],
   [
     [
+      "2023-08-21, 12:34:51",
+      "https://lobste.rs/s/jnhxcw/create_ruby_gem_with_zeitwerk_as"
+    ],
+    [
+      "Create a Ruby gem with Zeitwerk as a development-only dependency (tutorial)",
+      "https://blog.pawelpokrywka.com/p/gem-with-zeitwerk-as-development-only-dependency"
+    ]
+  ],
+  [
+    [
       "2023-08-21, 11:50:34",
       "https://lobste.rs/s/a0mlek/kernighan_pike_were_right_do_one_thing_do"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-08-20, 21:27:16",
-      "https://lobste.rs/s/wc3hfh/more_falsehoods_programmers_believe"
-    ],
-    [
-      "More falsehoods programmers believe about time; \"wisdom of the crowd\" edition",
-      "https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time"
-    ]
-  ],
-  [
-    [
       "2023-08-20, 18:53:26",
       "https://lobste.rs/s/yhx0wa/my_mnt_reform_almost_year_on"
     ],
@@ -197,16 +207,6 @@
     [
       "An announcement regarding Kris Nóva",
       "https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/"
-    ]
-  ],
-  [
-    [
-      "2023-08-20, 16:18:29",
-      "https://lobste.rs/s/vf4ebv/merkle_trees_build_systems_nix"
-    ],
-    [
-      "Merkle trees and build systems (Nix alternative) (2020)",
-      "https://lwn.net/Articles/821367/"
     ]
   ],
   [
