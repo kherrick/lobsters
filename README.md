@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-21, 08:13:39](https://lobste.rs/s/mtt9em/three_month_pangolin) - [three-month-pangolin](https://blog.zero.lgbt/blog/three-month-pangolin)
 * [2023-08-21, 06:33:49](https://lobste.rs/s/vhmgx7/maclynx_beta_5_utf_8_pull_down_menus_more) - [MacLynx beta 5: UTF-8, pull-down menus and more dialogue boxes, oh my](https://oldvcr.blogspot.com/2023/08/maclynx-beta-5-utf-8-pull-down-menus.html)
 * [2023-08-21, 00:19:12](https://lobste.rs/s/fxizsf/manipulating_terraform_states_for_fun) - [Manipulating Terraform states for fun, profit, and reusability](https://github.com/ergomake/layerform/blob/main/blog/terraform-states.md)
 * [2023-08-20, 21:27:16](https://lobste.rs/s/wc3hfh/more_falsehoods_programmers_believe) - [More falsehoods programmers believe about time; \"wisdom of the crowd\" edition](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
@@ -23,7 +24,6 @@
 * [2023-08-20, 09:37:12](https://lobste.rs/s/yd9hp7/bark_live_sync_audio_streaming_for_local) - [bark: live sync audio streaming for local networks](https://github.com/haileys/bark)
 * [2023-08-20, 09:14:30](https://lobste.rs/s/q810g3/pep_725_specifying_external) - [PEP 725 – Specifying external dependencies in pyproject.toml](https://peps.python.org/pep-0725/)
 * [2023-08-19, 20:24:39](https://lobste.rs/s/rcc3oc/difficult_ux_parking_apps) - [difficult ux in parking apps](https://cohost.org/cathoderaydude/post/2521077-hahaha-we-live-in-he)
-* [2023-08-19, 18:40:42](https://lobste.rs/s/rg7d6w/ai_generated_works_aren_t_protected_by) - [AI-Generated Works Aren’t Protected By Copyrights, Federal Judge Rules](https://www.billboard.com/pro/ai-generated-creative-works-cant-be-copyrighted-judge-rules/)
 * [2023-08-19, 10:24:21](https://lobste.rs/s/80lw9s/serde_has_started_shipping_precompiled) - [Serde has started shipping precompiled binaries with no way to opt out](https://github.com/serde-rs/serde/issues/2538)
 
 ## [Archives](archives/index.md)
