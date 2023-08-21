@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-21](index.md)
 
+* [2023-08-21, 22:07:28](https://lobste.rs/s/qaygsw/p2panda_is_protocol_for_local_first) - [p2panda is a protocol for local-first applications](https://p2panda.org/about/)
 * [2023-08-21, 21:32:31](https://lobste.rs/s/65fpej/freebsd_journal_2023_07_08_containers) - [FreeBSD Journal - 2023 07-08 - Containers and Cloud](https://freebsdfoundation.org/past-issues/containers-and-cloud/)
 * [2023-08-21, 21:10:00](https://lobste.rs/s/sbnfa6/educational_codebases) - [Educational Codebases](https://buttondown.email/hillelwayne/archive/educational-codebases/)
 * [2023-08-21, 20:46:32](https://lobste.rs/s/gfb9ww/fiascolang_new_wonderful_programming) - [FiascoLang – new wonderful programming language](https://www.reddit.com/r/ProgrammingLanguages/comments/15xgt8b/im_working_on_a_new_promising_fiascolang/)
