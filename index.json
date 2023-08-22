@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-08-22, 15:49:38",
-      "https://lobste.rs/s/6r2pdx/flakehub"
+      "2023-08-22, 16:19:39",
+      "https://lobste.rs/s/cevscq/rijkscollection_personal_virtual"
     ],
     [
-      "FlakeHub",
-      "https://flakehub.com/"
+      "Rijkscollection: a Personal Virtual Museum",
+      "https://reindernijhoff.net/2023/08/rijkscollection-a-personal-virtual-museum/"
+    ]
+  ],
+  [
+    [
+      "2023-08-22, 16:07:07",
+      "https://lobste.rs/s/0onwl1/structured_logging_with_slog"
+    ],
+    [
+      "Structured Logging with slog",
+      "https://go.dev/blog/slog"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Walk: Terminal file manager",
       "https://github.com/antonmedv/walk"
-    ]
-  ],
-  [
-    [
-      "2023-08-21, 16:10:07",
-      "https://lobste.rs/s/euxlcg/buffer_overflows_notepad"
-    ],
-    [
-      "Buffer Overflows in Notepad++",
-      "https://securitylab.github.com/advisories/GHSL-2023-092_Notepad__/"
     ]
   ],
   [
