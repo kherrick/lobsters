@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
+* [2023-08-22, 04:34:24](https://lobste.rs/s/cwfuig/story_reflection_mapping_2006) - [The Story of Reflection Mapping [2006]](https://www.pauldebevec.com/ReflectionMapping/)
 * [2023-08-22, 02:07:02](https://lobste.rs/s/rzje0o/compile_time_type_checked_truth_tables) - [Compile-time type-checked truth tables](https://blog.ploeh.dk/2023/08/21/compile-time-type-checked-truth-tables/)
