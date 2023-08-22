@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-22, 22:25:15",
+      "https://lobste.rs/s/ao2x0v/no_one_actually_wants_simplicity"
+    ],
+    [
+      "No one actually wants simplicity",
+      "https://lukeplant.me.uk/blog/posts/no-one-actually-wants-simplicity/"
+    ]
+  ],
+  [
+    [
       "2023-08-22, 21:43:18",
       "https://lobste.rs/s/c5itzd/llm_tech_lot_more_version_13_3_wolfram"
     ],
@@ -187,16 +197,6 @@
     [
       "Compile-time type-checked truth tables",
       "https://blog.ploeh.dk/2023/08/21/compile-time-type-checked-truth-tables/"
-    ]
-  ],
-  [
-    [
-      "2023-08-21, 22:07:28",
-      "https://lobste.rs/s/qaygsw/p2panda_is_protocol_for_local_first"
-    ],
-    [
-      "p2panda is a protocol for local-first applications",
-      "https://p2panda.org/about/"
     ]
   ],
   [
