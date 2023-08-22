@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
+* [2023-08-22, 21:03:40](https://lobste.rs/s/ymctwr/bitwise_binary_search_elegant_fast) - [Bitwise Binary Search: Elegant and Fast](https://orlp.net/blog/bitwise-binary-search/)
 * [2023-08-22, 20:13:05](https://lobste.rs/s/9jc7fj/algorithmic_ideas_engineering_tricks) - [Algorithmic ideas, engineering tricks, and trivia behind CPython's new sorting algorithm](https://www.youtube.com/watch?v=QtG858LRQI0)
 * [2023-08-22, 19:50:03](https://lobste.rs/s/ibfl0f/breaking_out_snail_maze) - [Breaking out of the Snail Maze](https://www.leadedsolder.com/2023/08/22/snail-maze-romhack.html)
 * [2023-08-22, 19:06:20](https://lobste.rs/s/rosce2/500_byte_images_haiku_vector_icon_format) - [500 Byte Images: The Haiku Vector Icon Format](https://blog.leahhanson.us/post/recursecenter2016/haiku_icons.html)
