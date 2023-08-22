@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
+* [2023-08-22, 14:53:07](https://lobste.rs/s/c10ihs/how_we_implemented_serverless_full_text) - [How we implemented serverless full-text search in Rust](https://grafbase.com/blog/serverless-search-in-rust)
 * [2023-08-22, 14:14:20](https://lobste.rs/s/gjmiwk/algorithm_rollover_effects_on_our) - [Algorithm rollover: the effects on our network traffic and resolvers](https://www.sidnlabs.nl/en/news-and-blogs/algorithm-rollover-the-effects-on-our-network-traffic-and-resolvers)
 * [2023-08-22, 14:09:57](https://lobste.rs/s/adbwa2/reconciling_elegance_secure_by_design) - [Reconciling elegance and secure-by-design in APIs](https://sethmlarson.dev/elegant-and-secure-api-design)
 * [2023-08-22, 13:06:29](https://lobste.rs/s/qdk3ra/nightingale_opensource_alternative) - [Nightingale: OpenSource alternative to Prometheus and Grafana](https://github.com/ccfos/nightingale)
