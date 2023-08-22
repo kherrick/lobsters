@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-22, 14:09:57",
+      "https://lobste.rs/s/adbwa2/reconciling_elegance_secure_by_design"
+    ],
+    [
+      "Reconciling elegance and secure-by-design in APIs",
+      "https://sethmlarson.dev/elegant-and-secure-api-design"
+    ]
+  ],
+  [
+    [
       "2023-08-22, 13:06:29",
       "https://lobste.rs/s/qdk3ra/nightingale_opensource_alternative"
     ],
@@ -47,16 +57,6 @@
     [
       "Smaller JavaScript Using Encapsulation",
       "https://caolan.uk/notes/2023-07-28_smaller_javascript_using_encapsulation.cm"
-    ]
-  ],
-  [
-    [
-      "2023-08-22, 04:34:24",
-      "https://lobste.rs/s/cwfuig/story_reflection_mapping_2006"
-    ],
-    [
-      "The Story of Reflection Mapping [2006]",
-      "https://www.pauldebevec.com/ReflectionMapping/"
     ]
   ],
   [
