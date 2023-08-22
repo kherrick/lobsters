@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
+* [2023-08-22, 13:06:29](https://lobste.rs/s/qdk3ra/nightingale_opensource_alternative) - [Nightingale: OpenSource alternative to Prometheus and Grafana](https://github.com/ccfos/nightingale)
 * [2023-08-22, 11:19:50](https://lobste.rs/s/wxdwba/rfc_6920_naming_things_with_hashes) - [RFC 6920: Naming Things with Hashes](https://posts.summerti.me/rfc-6920/)
 * [2023-08-22, 10:51:39](https://lobste.rs/s/vozxgx/zsa_moonlander_next_gen_split_ergonomic) - [ZSA Moonlander: Next-gen Split Ergonomic Keyboard](https://zsa.io/moonlander)
 * [2023-08-22, 08:56:57](https://lobste.rs/s/oybfx5/my_custom_tesco_clubcard_pkpass) - [My custom Tesco Clubcard pkpass](https://xenodium.com/my-custom-tesco-clubcard-pkpass/)
