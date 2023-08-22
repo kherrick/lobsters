@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-22, 14:09:57](https://lobste.rs/s/adbwa2/reconciling_elegance_secure_by_design) - [Reconciling elegance and secure-by-design in APIs](https://sethmlarson.dev/elegant-and-secure-api-design)
 * [2023-08-22, 13:06:29](https://lobste.rs/s/qdk3ra/nightingale_opensource_alternative) - [Nightingale: OpenSource alternative to Prometheus and Grafana](https://github.com/ccfos/nightingale)
 * [2023-08-22, 11:19:50](https://lobste.rs/s/wxdwba/rfc_6920_naming_things_with_hashes) - [RFC 6920: Naming Things with Hashes](https://posts.summerti.me/rfc-6920/)
 * [2023-08-22, 10:51:39](https://lobste.rs/s/vozxgx/zsa_moonlander_next_gen_split_ergonomic) - [ZSA Moonlander: Next-gen Split Ergonomic Keyboard](https://zsa.io/moonlander)
 * [2023-08-22, 08:56:57](https://lobste.rs/s/oybfx5/my_custom_tesco_clubcard_pkpass) - [My custom Tesco Clubcard pkpass](https://xenodium.com/my-custom-tesco-clubcard-pkpass/)
 * [2023-08-22, 08:44:55](https://lobste.rs/s/upbvts/smaller_javascript_using_encapsulation) - [Smaller JavaScript Using Encapsulation](https://caolan.uk/notes/2023-07-28_smaller_javascript_using_encapsulation.cm)
-* [2023-08-22, 04:34:24](https://lobste.rs/s/cwfuig/story_reflection_mapping_2006) - [The Story of Reflection Mapping [2006]](https://www.pauldebevec.com/ReflectionMapping/)
 * [2023-08-22, 02:07:02](https://lobste.rs/s/rzje0o/compile_time_type_checked_truth_tables) - [Compile-time type-checked truth tables](https://blog.ploeh.dk/2023/08/21/compile-time-type-checked-truth-tables/)
 * [2023-08-21, 22:07:28](https://lobste.rs/s/qaygsw/p2panda_is_protocol_for_local_first) - [p2panda is a protocol for local-first applications](https://p2panda.org/about/)
 * [2023-08-21, 21:10:00](https://lobste.rs/s/sbnfa6/educational_codebases) - [Educational Codebases](https://buttondown.email/hillelwayne/archive/educational-codebases/)
