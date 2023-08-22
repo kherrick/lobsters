@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2023-08-21, 17:43:33",
+      "https://lobste.rs/s/5s4zdb/garbage_collection_large_lisp_system"
+    ],
+    [
+      "Garbage Collection in a Large Lisp System (1984)",
+      "https://dl.acm.org/doi/pdf/10.1145/800055.802040"
+    ]
+  ],
+  [
+    [
       "2023-08-21, 17:02:01",
       "https://lobste.rs/s/bupvxm/learn_autohotkey_by_stealing_my_scripts"
     ],
@@ -187,16 +197,6 @@
     [
       "Inspecting rustc LLVM optimization remarks using cargo-remark",
       "https://kobzol.github.io/rust/cargo/2023/08/12/rust-llvm-optimization-remarks.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-21, 09:04:09",
-      "https://lobste.rs/s/zgjqxv/franz_macos_apache_kafka_client_now"
-    ],
-    [
-      "Franz (macOS Apache Kafka client) now Source Available",
-      "https://defn.io/2023/08/10/ann-franz-source-available/"
     ]
   ],
   [
