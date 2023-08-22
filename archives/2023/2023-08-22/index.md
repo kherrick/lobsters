@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
+* [2023-08-22, 15:49:38](https://lobste.rs/s/6r2pdx/flakehub) - [FlakeHub](https://flakehub.com/)
 * [2023-08-22, 15:18:45](https://lobste.rs/s/vcxi59/first_conformant_m1_gpu_driver) - [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
 * [2023-08-22, 15:15:45](https://lobste.rs/s/rxp5oo/introducing_flakehub) - [Introducing FlakeHub](https://determinate.systems/posts/introducing-flakehub)
 * [2023-08-22, 15:01:29](https://lobste.rs/s/5w9she/elixir_for_fun_ecspanse_entity_component) - [Elixir For Fun (Ecspanse: Entity Component System Library)](https://iacobson.medium.com/elixir-for-fun-ecspanse-2852a7993ecd)
