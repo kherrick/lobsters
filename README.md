@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-22, 21:43:18](https://lobste.rs/s/c5itzd/llm_tech_lot_more_version_13_3_wolfram) - [LLM Tech and a Lot More: Version 13.3 of Wolfram Language and Mathematica](https://writings.stephenwolfram.com/2023/06/llm-tech-and-a-lot-more-version-13-3-of-wolfram-language-and-mathematica/)
 * [2023-08-22, 21:03:40](https://lobste.rs/s/ymctwr/bitwise_binary_search_elegant_fast) - [Bitwise Binary Search: Elegant and Fast](https://orlp.net/blog/bitwise-binary-search/)
 * [2023-08-22, 20:13:05](https://lobste.rs/s/9jc7fj/algorithmic_ideas_engineering_tricks) - [Algorithmic ideas, engineering tricks, and trivia behind CPython's new sorting algorithm](https://www.youtube.com/watch?v=QtG858LRQI0)
 * [2023-08-22, 19:50:03](https://lobste.rs/s/ibfl0f/breaking_out_snail_maze) - [Breaking out of the Snail Maze](https://www.leadedsolder.com/2023/08/22/snail-maze-romhack.html)
@@ -23,7 +24,6 @@
 * [2023-08-21, 19:17:24](https://lobste.rs/s/o82ns9/nvidia_bios_signature_lock_broken_vbios) - [NVIDIA BIOS Signature Lock Broken, vBIOS Modding and Crossflash Enabled by Groundbreaking New Tools](https://www.techpowerup.com/312631/nvidia-bios-signature-lock-broken-vbios-modding-and-crossflash-enabled-by-groundbreaking-new-tools)
 * [2023-08-21, 17:02:01](https://lobste.rs/s/bupvxm/learn_autohotkey_by_stealing_my_scripts) - [Learn AutoHotKey by stealing my scripts](https://www.hillelwayne.com/post/ahk-scripts-project/)
 * [2023-08-21, 16:22:35](https://lobste.rs/s/dnbkoo/walk_terminal_file_manager) - [Walk: Terminal file manager](https://github.com/antonmedv/walk)
-* [2023-08-21, 15:24:52](https://lobste.rs/s/728lp8/don_t_fire_your_illustrator) - [Don't Fire Your Illustrator](https://sambleckley.com/writing/dont-fire-your-illustrator.html)
 * [2023-08-21, 14:45:46](https://lobste.rs/s/r7w1nm/ideal_viewport_doesn_t_exist) - [The ideal viewport doesn’t exist](https://viewports.fyi/)
 
 ## [Archives](archives/index.md)
