@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
+* [2023-08-22, 22:25:15](https://lobste.rs/s/ao2x0v/no_one_actually_wants_simplicity) - [No one actually wants simplicity](https://lukeplant.me.uk/blog/posts/no-one-actually-wants-simplicity/)
 * [2023-08-22, 21:43:18](https://lobste.rs/s/c5itzd/llm_tech_lot_more_version_13_3_wolfram) - [LLM Tech and a Lot More: Version 13.3 of Wolfram Language and Mathematica](https://writings.stephenwolfram.com/2023/06/llm-tech-and-a-lot-more-version-13-3-of-wolfram-language-and-mathematica/)
 * [2023-08-22, 21:03:40](https://lobste.rs/s/ymctwr/bitwise_binary_search_elegant_fast) - [Bitwise Binary Search: Elegant and Fast](https://orlp.net/blog/bitwise-binary-search/)
 * [2023-08-22, 20:13:05](https://lobste.rs/s/9jc7fj/algorithmic_ideas_engineering_tricks) - [Algorithmic ideas, engineering tricks, and trivia behind CPython's new sorting algorithm](https://www.youtube.com/watch?v=QtG858LRQI0)
