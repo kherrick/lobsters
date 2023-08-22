@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-22, 10:51:39](https://lobste.rs/s/vozxgx/zsa_moonlander_next_gen_split_ergonomic) - [ZSA Moonlander: Next-gen Split Ergonomic Keyboard](https://zsa.io/moonlander)
 * [2023-08-22, 08:56:57](https://lobste.rs/s/oybfx5/my_custom_tesco_clubcard_pkpass) - [My custom Tesco Clubcard pkpass](https://xenodium.com/my-custom-tesco-clubcard-pkpass/)
 * [2023-08-22, 08:44:55](https://lobste.rs/s/upbvts/smaller_javascript_using_encapsulation) - [Smaller JavaScript Using Encapsulation](https://caolan.uk/notes/2023-07-28_smaller_javascript_using_encapsulation.cm)
 * [2023-08-22, 04:34:24](https://lobste.rs/s/cwfuig/story_reflection_mapping_2006) - [The Story of Reflection Mapping [2006]](https://www.pauldebevec.com/ReflectionMapping/)
@@ -24,7 +25,6 @@
 * [2023-08-21, 08:13:39](https://lobste.rs/s/mtt9em/three_months_with_system76_pangolin) - [Three months with the System76 Pangolin](https://blog.zero.lgbt/blog/three-month-pangolin)
 * [2023-08-21, 06:33:49](https://lobste.rs/s/vhmgx7/maclynx_beta_5_utf_8_pull_down_menus_more) - [MacLynx beta 5: UTF-8, pull-down menus and more dialogue boxes, oh my](https://oldvcr.blogspot.com/2023/08/maclynx-beta-5-utf-8-pull-down-menus.html)
 * [2023-08-20, 18:06:36](https://lobste.rs/s/8y4xnk/announcement_regarding_kris_nova) - [An announcement regarding Kris Nóva](https://nivenly.org/blog/2023/08/19/an-announcement-regarding-kris-n%C3%B3va/)
-* [2023-08-20, 16:11:26](https://lobste.rs/s/qikg6x/ares_operating_system) - [The Ares Operating System](https://ares-os.org/)
 
 ## [Archives](archives/index.md)
 
