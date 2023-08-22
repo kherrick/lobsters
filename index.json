@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-22, 02:07:02",
+      "https://lobste.rs/s/rzje0o/compile_time_type_checked_truth_tables"
+    ],
+    [
+      "Compile-time type-checked truth tables",
+      "https://blog.ploeh.dk/2023/08/21/compile-time-type-checked-truth-tables/"
+    ]
+  ],
+  [
+    [
       "2023-08-21, 22:07:28",
       "https://lobste.rs/s/qaygsw/p2panda_is_protocol_for_local_first"
     ],
@@ -207,16 +217,6 @@
     [
       "MacLynx beta 5: UTF-8, pull-down menus and more dialogue boxes, oh my",
       "https://oldvcr.blogspot.com/2023/08/maclynx-beta-5-utf-8-pull-down-menus.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-20, 18:10:40",
-      "https://lobste.rs/s/zxy7zu/linguist_privacy_friendly_browser"
-    ],
-    [
-      "Linguist, a privacy friendly browser extension for translation with offline and custom translators",
-      "https://github.com/translate-tools/linguist"
     ]
   ],
   [
