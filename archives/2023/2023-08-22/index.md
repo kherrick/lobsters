@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
+* [2023-08-22, 15:15:45](https://lobste.rs/s/rxp5oo/introducing_flakehub) - [Introducing FlakeHub](https://determinate.systems/posts/introducing-flakehub)
+* [2023-08-22, 15:01:29](https://lobste.rs/s/5w9she/elixir_for_fun_ecspanse_entity_component) - [Elixir For Fun (Ecspanse: Entity Component System Library)](https://iacobson.medium.com/elixir-for-fun-ecspanse-2852a7993ecd)
 * [2023-08-22, 14:53:07](https://lobste.rs/s/c10ihs/how_we_implemented_serverless_full_text) - [How we implemented serverless full-text search in Rust](https://grafbase.com/blog/serverless-search-in-rust)
 * [2023-08-22, 14:14:20](https://lobste.rs/s/gjmiwk/algorithm_rollover_effects_on_our) - [Algorithm rollover: the effects on our network traffic and resolvers](https://www.sidnlabs.nl/en/news-and-blogs/algorithm-rollover-the-effects-on-our-network-traffic-and-resolvers)
 * [2023-08-22, 14:09:57](https://lobste.rs/s/adbwa2/reconciling_elegance_secure_by_design) - [Reconciling elegance and secure-by-design in APIs](https://sethmlarson.dev/elegant-and-secure-api-design)
