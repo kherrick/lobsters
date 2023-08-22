@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-22, 19:50:03](https://lobste.rs/s/ibfl0f/breaking_out_snail_maze) - [Breaking out of the Snail Maze](https://www.leadedsolder.com/2023/08/22/snail-maze-romhack.html)
 * [2023-08-22, 19:06:20](https://lobste.rs/s/rosce2/500_byte_images_haiku_vector_icon_format) - [500 Byte Images: The Haiku Vector Icon Format](https://blog.leahhanson.us/post/recursecenter2016/haiku_icons.html)
 * [2023-08-22, 17:57:41](https://lobste.rs/s/lfkxmg/asyncio_twisted_tornado_gevent_walk_into) - [Asyncio, twisted, tornado, gevent walk into a bar](https://www.bitecode.dev/p/asyncio-twisted-tornado-gevent-walk)
 * [2023-08-22, 16:19:39](https://lobste.rs/s/cevscq/rijkscollection_personal_virtual) - [Rijkscollection: a Personal Virtual Museum](https://reindernijhoff.net/2023/08/rijkscollection-a-personal-virtual-museum/)
@@ -18,7 +19,6 @@
 * [2023-08-21, 22:07:28](https://lobste.rs/s/qaygsw/p2panda_is_protocol_for_local_first) - [p2panda is a protocol for local-first applications](https://p2panda.org/about/)
 * [2023-08-21, 20:09:44](https://lobste.rs/s/bithug/blog_cells_interactive_code_cells_for) - [blog-cells: Interactive code cells for static sites](https://rameshvarun.github.io/blog-cells/)
 * [2023-08-21, 19:17:24](https://lobste.rs/s/o82ns9/nvidia_bios_signature_lock_broken_vbios) - [NVIDIA BIOS Signature Lock Broken, vBIOS Modding and Crossflash Enabled by Groundbreaking New Tools](https://www.techpowerup.com/312631/nvidia-bios-signature-lock-broken-vbios-modding-and-crossflash-enabled-by-groundbreaking-new-tools)
-* [2023-08-21, 19:03:28](https://lobste.rs/s/kx8kmv/darling_progress_report_q2_2023) - [Darling Progress Report Q2 2023](https://blog.darlinghq.org/2023/08/21/progress-report-q2-2023/)
 * [2023-08-21, 17:02:01](https://lobste.rs/s/bupvxm/learn_autohotkey_by_stealing_my_scripts) - [Learn AutoHotKey by stealing my scripts](https://www.hillelwayne.com/post/ahk-scripts-project/)
 * [2023-08-21, 16:22:35](https://lobste.rs/s/dnbkoo/walk_terminal_file_manager) - [Walk: Terminal file manager](https://github.com/antonmedv/walk)
 * [2023-08-21, 15:24:52](https://lobste.rs/s/728lp8/don_t_fire_your_illustrator) - [Don't Fire Your Illustrator](https://sambleckley.com/writing/dont-fire-your-illustrator.html)

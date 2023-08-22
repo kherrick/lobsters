@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-22](index.md)
 
+* [2023-08-22, 19:50:03](https://lobste.rs/s/ibfl0f/breaking_out_snail_maze) - [Breaking out of the Snail Maze](https://www.leadedsolder.com/2023/08/22/snail-maze-romhack.html)
 * [2023-08-22, 19:06:20](https://lobste.rs/s/rosce2/500_byte_images_haiku_vector_icon_format) - [500 Byte Images: The Haiku Vector Icon Format](https://blog.leahhanson.us/post/recursecenter2016/haiku_icons.html)
 * [2023-08-22, 17:57:41](https://lobste.rs/s/lfkxmg/asyncio_twisted_tornado_gevent_walk_into) - [Asyncio, twisted, tornado, gevent walk into a bar](https://www.bitecode.dev/p/asyncio-twisted-tornado-gevent-walk)
 * [2023-08-22, 16:19:39](https://lobste.rs/s/cevscq/rijkscollection_personal_virtual) - [Rijkscollection: a Personal Virtual Museum](https://reindernijhoff.net/2023/08/rijkscollection-a-personal-virtual-museum/)
