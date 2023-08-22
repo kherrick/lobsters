@@ -8,7 +8,7 @@
 * [2023-08-22, 04:34:24](https://lobste.rs/s/cwfuig/story_reflection_mapping_2006) - [The Story of Reflection Mapping [2006]](https://www.pauldebevec.com/ReflectionMapping/)
 * [2023-08-22, 02:07:02](https://lobste.rs/s/rzje0o/compile_time_type_checked_truth_tables) - [Compile-time type-checked truth tables](https://blog.ploeh.dk/2023/08/21/compile-time-type-checked-truth-tables/)
 * [2023-08-21, 22:07:28](https://lobste.rs/s/qaygsw/p2panda_is_protocol_for_local_first) - [p2panda is a protocol for local-first applications](https://p2panda.org/about/)
-* [2023-08-21, 21:32:31](https://lobste.rs/s/65fpej/freebsd_journal_2023_07_08_containers) - [FreeBSD Journal - 2023 07-08 - Containers and Cloud](https://freebsdfoundation.org/past-issues/containers-and-cloud/)
+* [2023-08-21, 21:10:00](https://lobste.rs/s/sbnfa6/educational_codebases) - [Educational Codebases](https://buttondown.email/hillelwayne/archive/educational-codebases/)
 * [2023-08-21, 20:09:44](https://lobste.rs/s/bithug/blog_cells_interactive_code_cells_for) - [blog-cells: Interactive code cells for static sites](https://rameshvarun.github.io/blog-cells/)
 * [2023-08-21, 19:17:24](https://lobste.rs/s/o82ns9/nvidia_bios_signature_lock_broken_vbios) - [NVIDIA BIOS Signature Lock Broken, vBIOS Modding and Crossflash Enabled by Groundbreaking New Tools](https://www.techpowerup.com/312631/nvidia-bios-signature-lock-broken-vbios-modding-and-crossflash-enabled-by-groundbreaking-new-tools)
 * [2023-08-21, 19:03:28](https://lobste.rs/s/kx8kmv/darling_progress_report_q2_2023) - [Darling Progress Report Q2 2023](https://blog.darlinghq.org/2023/08/21/progress-report-q2-2023/)
