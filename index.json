@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-08-22, 14:53:07",
-      "https://lobste.rs/s/c10ihs/how_we_implemented_serverless_full_text"
-    ],
-    [
-      "How we implemented serverless full-text search in Rust",
-      "https://grafbase.com/blog/serverless-search-in-rust"
-    ]
-  ],
-  [
-    [
       "2023-08-22, 14:14:20",
       "https://lobste.rs/s/gjmiwk/algorithm_rollover_effects_on_our"
     ],
@@ -207,6 +197,16 @@
     [
       "Walk: Terminal file manager",
       "https://github.com/antonmedv/walk"
+    ]
+  ],
+  [
+    [
+      "2023-08-21, 15:38:14",
+      "https://lobste.rs/s/kno65c/history_windows_2_0"
+    ],
+    [
+      "The History of Windows 2.0",
+      "https://www.abortretry.fail/p/the-history-of-windows-20"
     ]
   ],
   [
