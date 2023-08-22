@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-22, 17:57:41](https://lobste.rs/s/lfkxmg/asyncio_twisted_tornado_gevent_walk_into) - [Asyncio, twisted, tornado, gevent walk into a bar](https://www.bitecode.dev/p/asyncio-twisted-tornado-gevent-walk)
 * [2023-08-22, 16:19:39](https://lobste.rs/s/cevscq/rijkscollection_personal_virtual) - [Rijkscollection: a Personal Virtual Museum](https://reindernijhoff.net/2023/08/rijkscollection-a-personal-virtual-museum/)
 * [2023-08-22, 16:07:07](https://lobste.rs/s/0onwl1/structured_logging_with_slog) - [Structured Logging with slog](https://go.dev/blog/slog)
 * [2023-08-22, 15:18:45](https://lobste.rs/s/vcxi59/first_conformant_m1_gpu_driver) - [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
@@ -20,7 +21,6 @@
 * [2023-08-21, 19:03:28](https://lobste.rs/s/kx8kmv/darling_progress_report_q2_2023) - [Darling Progress Report Q2 2023](https://blog.darlinghq.org/2023/08/21/progress-report-q2-2023/)
 * [2023-08-21, 17:02:01](https://lobste.rs/s/bupvxm/learn_autohotkey_by_stealing_my_scripts) - [Learn AutoHotKey by stealing my scripts](https://www.hillelwayne.com/post/ahk-scripts-project/)
 * [2023-08-21, 16:22:35](https://lobste.rs/s/dnbkoo/walk_terminal_file_manager) - [Walk: Terminal file manager](https://github.com/antonmedv/walk)
-* [2023-08-21, 15:38:14](https://lobste.rs/s/kno65c/history_windows_2_0) - [The History of Windows 2.0](https://www.abortretry.fail/p/the-history-of-windows-20)
 * [2023-08-21, 15:24:52](https://lobste.rs/s/728lp8/don_t_fire_your_illustrator) - [Don't Fire Your Illustrator](https://sambleckley.com/writing/dont-fire-your-illustrator.html)
 * [2023-08-21, 14:45:46](https://lobste.rs/s/r7w1nm/ideal_viewport_doesn_t_exist) - [The ideal viewport doesn’t exist](https://viewports.fyi/)
 * [2023-08-21, 13:22:09](https://lobste.rs/s/cw3gbh/16_bit_serial_homebrew_cpu) - [16-bit Serial Homebrew CPU](https://jiristepanovsky.cz/project.php?p=23cpu)
