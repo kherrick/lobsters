@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-22, 08:56:57](https://lobste.rs/s/oybfx5/my_custom_tesco_clubcard_pkpass) - [My custom Tesco Clubcard pkpass](https://xenodium.com/my-custom-tesco-clubcard-pkpass/)
 * [2023-08-22, 08:44:55](https://lobste.rs/s/upbvts/smaller_javascript_using_encapsulation) - [Smaller JavaScript Using Encapsulation](https://caolan.uk/notes/2023-07-28_smaller_javascript_using_encapsulation.cm)
-* [2023-08-22, 08:02:20](https://lobste.rs/s/wozv66/arm_announces_public_filing) - [Arm Announces Public Filing of Registration Statement for Proposed Initial Public Offering](https://www.arm.com/company/news/2023/08/arm-announces-public-filing-of-registration-statement-for-proposed-initial-public-offering)
 * [2023-08-22, 04:34:24](https://lobste.rs/s/cwfuig/story_reflection_mapping_2006) - [The Story of Reflection Mapping [2006]](https://www.pauldebevec.com/ReflectionMapping/)
 * [2023-08-22, 02:07:02](https://lobste.rs/s/rzje0o/compile_time_type_checked_truth_tables) - [Compile-time type-checked truth tables](https://blog.ploeh.dk/2023/08/21/compile-time-type-checked-truth-tables/)
 * [2023-08-21, 22:07:28](https://lobste.rs/s/qaygsw/p2panda_is_protocol_for_local_first) - [p2panda is a protocol for local-first applications](https://p2panda.org/about/)
