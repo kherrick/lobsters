@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
+* [2023-08-23, 12:36:09](https://lobste.rs/s/gvtq1t/sista_speculative_inlining_smalltalk) - [Sista: Speculative Inlining, Smalltalk-Style (2016)](https://www.youtube.com/watch?v=f4Cvia-HZ-w)
 * [2023-08-23, 11:54:40](https://lobste.rs/s/gyau1c/lambda_crypto_doctrine) - [Lambda Crypto Doctrine](https://blog.lambdaclass.com/lambda-crypto-doctrine/)
 * [2023-08-23, 11:50:57](https://lobste.rs/s/0yb8ra/https_blog_lambdaclass_com_how_code_fri) - [https://blog.lambdaclass.com/how-to-code-fri-from-scratch/](https://blog.lambdaclass.com/lambdaclass-starknet-foundation-going-forward/)
 * [2023-08-23, 10:01:03](https://lobste.rs/s/lhqpc4/plan_for_helios_ng_foss_cluster_native_os) - [The Plan for Helios NG - a FOSS cluster-native OS derived from TRIPOS](https://www.geekdot.com/helios-ng/)
