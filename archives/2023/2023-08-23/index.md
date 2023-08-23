@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
+* [2023-08-23, 11:54:40](https://lobste.rs/s/gyau1c/lambda_crypto_doctrine) - [Lambda Crypto Doctrine](https://blog.lambdaclass.com/lambda-crypto-doctrine/)
+* [2023-08-23, 11:50:57](https://lobste.rs/s/0yb8ra/https_blog_lambdaclass_com_how_code_fri) - [https://blog.lambdaclass.com/how-to-code-fri-from-scratch/](https://blog.lambdaclass.com/lambdaclass-starknet-foundation-going-forward/)
 * [2023-08-23, 10:01:03](https://lobste.rs/s/lhqpc4/plan_for_helios_ng_foss_cluster_native_os) - [The Plan for Helios NG - a FOSS cluster-native OS derived from TRIPOS](https://www.geekdot.com/helios-ng/)
 * [2023-08-23, 09:13:00](https://lobste.rs/s/pzkt7r/empirical_study_evaluation_modern) - [An Empirical Study & Evaluation of Modern CAPTCHAs](https://arxiv.org/pdf/2307.12108.pdf)
 * [2023-08-23, 08:17:20](https://lobste.rs/s/ognae8/postgres_lock_conflicts) - [Postgres Lock Conflicts](https://pglocks.org/)

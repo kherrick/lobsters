@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-23, 11:54:40](https://lobste.rs/s/gyau1c/lambda_crypto_doctrine) - [Lambda Crypto Doctrine](https://blog.lambdaclass.com/lambda-crypto-doctrine/)
+* [2023-08-23, 11:50:57](https://lobste.rs/s/0yb8ra/https_blog_lambdaclass_com_how_code_fri) - [https://blog.lambdaclass.com/how-to-code-fri-from-scratch/](https://blog.lambdaclass.com/lambdaclass-starknet-foundation-going-forward/)
 * [2023-08-23, 10:01:03](https://lobste.rs/s/lhqpc4/plan_for_helios_ng_foss_cluster_native_os) - [The Plan for Helios NG - a FOSS cluster-native OS derived from TRIPOS (2014)](https://www.geekdot.com/helios-ng/)
 * [2023-08-23, 09:13:00](https://lobste.rs/s/pzkt7r/empirical_study_evaluation_modern) - [An Empirical Study & Evaluation of Modern CAPTCHAs](https://arxiv.org/pdf/2307.12108.pdf)
 * [2023-08-23, 08:17:20](https://lobste.rs/s/ognae8/postgres_lock_conflicts) - [Postgres Lock Conflicts](https://pglocks.org/)
@@ -18,13 +20,11 @@
 * [2023-08-22, 16:07:07](https://lobste.rs/s/0onwl1/structured_logging_with_slog) - [Structured Logging with slog](https://go.dev/blog/slog)
 * [2023-08-22, 15:18:45](https://lobste.rs/s/vcxi59/first_conformant_m1_gpu_driver) - [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
 * [2023-08-22, 15:15:45](https://lobste.rs/s/rxp5oo/introducing_flakehub) - [Introducing FlakeHub](https://determinate.systems/posts/introducing-flakehub)
-* [2023-08-22, 15:01:29](https://lobste.rs/s/5w9she/elixir_for_fun_ecspanse_entity_component) - [Elixir For Fun (Ecspanse: Entity Component System Library)](https://iacobson.medium.com/elixir-for-fun-ecspanse-2852a7993ecd)
 * [2023-08-22, 14:09:57](https://lobste.rs/s/adbwa2/reconciling_elegance_secure_by_design) - [Reconciling elegance and secure-by-design in APIs](https://sethmlarson.dev/elegant-and-secure-api-design)
 * [2023-08-22, 13:06:29](https://lobste.rs/s/qdk3ra/nightingale_opensource_alternative) - [Nightingale: OpenSource alternative to Prometheus and Grafana](https://github.com/ccfos/nightingale)
 * [2023-08-22, 11:19:50](https://lobste.rs/s/wxdwba/rfc_6920_naming_things_with_hashes) - [RFC 6920: Naming Things with Hashes](https://posts.summerti.me/rfc-6920/)
 * [2023-08-22, 10:51:39](https://lobste.rs/s/vozxgx/zsa_moonlander_next_gen_split_ergonomic) - [ZSA Moonlander: Next-gen Split Ergonomic Keyboard](https://zsa.io/moonlander)
 * [2023-08-22, 08:56:57](https://lobste.rs/s/oybfx5/my_custom_tesco_clubcard_pkpass) - [My custom Tesco Clubcard pkpass](https://xenodium.com/my-custom-tesco-clubcard-pkpass/)
-* [2023-08-21, 20:09:44](https://lobste.rs/s/bithug/blog_cells_interactive_code_cells_for) - [blog-cells: Interactive code cells for static sites](https://rameshvarun.github.io/blog-cells/)
 
 ## [Archives](archives/index.md)
 
