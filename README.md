@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-23, 03:44:04](https://lobste.rs/s/lvb2jn/memory_order_c_2022) - [Memory Order in C++ (2022)](https://www.sobyte.net/post/2022-06/cpp-memory-order/)
 * [2023-08-22, 22:53:00](https://lobste.rs/s/6ms0co/introducing_python_excel_best_both) - [Introducing Python in Excel: The Best of Both Worlds for Data Analysis and Visualization](https://techcommunity.microsoft.com/t5/microsoft-365-blog/introducing-python-in-excel-the-best-of-both-worlds-for-data/ba-p/3905482)
 * [2023-08-22, 22:25:15](https://lobste.rs/s/ao2x0v/no_one_actually_wants_simplicity) - [No one actually wants simplicity](https://lukeplant.me.uk/blog/posts/no-one-actually-wants-simplicity/)
 * [2023-08-22, 21:43:18](https://lobste.rs/s/c5itzd/llm_tech_lot_more_version_13_3_wolfram) - [LLM Tech and a Lot More: Version 13.3 of Wolfram Language and Mathematica](https://writings.stephenwolfram.com/2023/06/llm-tech-and-a-lot-more-version-13-3-of-wolfram-language-and-mathematica/)
@@ -12,7 +13,6 @@
 * [2023-08-22, 15:18:45](https://lobste.rs/s/vcxi59/first_conformant_m1_gpu_driver) - [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
 * [2023-08-22, 15:15:45](https://lobste.rs/s/rxp5oo/introducing_flakehub) - [Introducing FlakeHub](https://determinate.systems/posts/introducing-flakehub)
 * [2023-08-22, 15:01:29](https://lobste.rs/s/5w9she/elixir_for_fun_ecspanse_entity_component) - [Elixir For Fun (Ecspanse: Entity Component System Library)](https://iacobson.medium.com/elixir-for-fun-ecspanse-2852a7993ecd)
-* [2023-08-22, 14:14:20](https://lobste.rs/s/gjmiwk/algorithm_rollover_effects_on_our) - [Algorithm rollover: the effects on our network traffic and resolvers](https://www.sidnlabs.nl/en/news-and-blogs/algorithm-rollover-the-effects-on-our-network-traffic-and-resolvers)
 * [2023-08-22, 14:09:57](https://lobste.rs/s/adbwa2/reconciling_elegance_secure_by_design) - [Reconciling elegance and secure-by-design in APIs](https://sethmlarson.dev/elegant-and-secure-api-design)
 * [2023-08-22, 13:06:29](https://lobste.rs/s/qdk3ra/nightingale_opensource_alternative) - [Nightingale: OpenSource alternative to Prometheus and Grafana](https://github.com/ccfos/nightingale)
 * [2023-08-22, 11:19:50](https://lobste.rs/s/wxdwba/rfc_6920_naming_things_with_hashes) - [RFC 6920: Naming Things with Hashes](https://posts.summerti.me/rfc-6920/)
