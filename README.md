@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-23, 04:16:31](https://lobste.rs/s/hq1xda/reconstructing_typescript_part_0_intro) - [Reconstructing TypeScript, part 0: intro and background](https://jaked.org/blog/2021-09-07-Reconstructing-TypeScript-part-0)
 * [2023-08-23, 03:44:04](https://lobste.rs/s/lvb2jn/memory_order_c_2022) - [Memory Order in C++ (2022)](https://www.sobyte.net/post/2022-06/cpp-memory-order/)
 * [2023-08-22, 22:53:00](https://lobste.rs/s/6ms0co/introducing_python_excel_best_both) - [Introducing Python in Excel: The Best of Both Worlds for Data Analysis and Visualization](https://techcommunity.microsoft.com/t5/microsoft-365-blog/introducing-python-in-excel-the-best-of-both-worlds-for-data/ba-p/3905482)
 * [2023-08-22, 22:25:15](https://lobste.rs/s/ao2x0v/no_one_actually_wants_simplicity) - [No one actually wants simplicity](https://lukeplant.me.uk/blog/posts/no-one-actually-wants-simplicity/)
@@ -19,7 +20,6 @@
 * [2023-08-22, 10:51:39](https://lobste.rs/s/vozxgx/zsa_moonlander_next_gen_split_ergonomic) - [ZSA Moonlander: Next-gen Split Ergonomic Keyboard](https://zsa.io/moonlander)
 * [2023-08-22, 08:56:57](https://lobste.rs/s/oybfx5/my_custom_tesco_clubcard_pkpass) - [My custom Tesco Clubcard pkpass](https://xenodium.com/my-custom-tesco-clubcard-pkpass/)
 * [2023-08-22, 08:44:55](https://lobste.rs/s/upbvts/smaller_javascript_using_encapsulation) - [Smaller JavaScript Using Encapsulation](https://caolan.uk/notes/2023-07-28_smaller_javascript_using_encapsulation.cm)
-* [2023-08-22, 02:07:02](https://lobste.rs/s/rzje0o/compile_time_type_checked_truth_tables) - [Compile-time type-checked truth tables](https://blog.ploeh.dk/2023/08/21/compile-time-type-checked-truth-tables/)
 * [2023-08-21, 20:09:44](https://lobste.rs/s/bithug/blog_cells_interactive_code_cells_for) - [blog-cells: Interactive code cells for static sites](https://rameshvarun.github.io/blog-cells/)
 * [2023-08-21, 19:17:24](https://lobste.rs/s/o82ns9/nvidia_bios_signature_lock_broken_vbios) - [NVIDIA BIOS Signature Lock Broken, vBIOS Modding and Crossflash Enabled by Groundbreaking New Tools](https://www.techpowerup.com/312631/nvidia-bios-signature-lock-broken-vbios-modding-and-crossflash-enabled-by-groundbreaking-new-tools)
 * [2023-08-21, 17:02:01](https://lobste.rs/s/bupvxm/learn_autohotkey_by_stealing_my_scripts) - [Learn AutoHotKey by stealing my scripts](https://www.hillelwayne.com/post/ahk-scripts-project/)
