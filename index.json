@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-23, 19:50:36",
+      "https://lobste.rs/s/dzkrzs/exploring_windows_xp_on_macos_arm64"
+    ],
+    [
+      "Exploring Windows XP on macOS ARM64",
+      "https://milen.me/writings/exploring-windows-xp-on-macos-arm64/"
+    ]
+  ],
+  [
+    [
+      "2023-08-23, 19:49:03",
+      "https://lobste.rs/s/mu41fo/c_c_performance_pitfall_int8_t_aliasing"
+    ],
+    [
+      "C/C++ performance pitfall: int8_t, aliasing and the ways out",
+      "https://gist.github.com/alexei-zaripov/dcc14c78819c5f1354afe8b70932007c"
+    ]
+  ],
+  [
+    [
       "2023-08-23, 18:24:03",
       "https://lobste.rs/s/zs5mut/hashicorp_terraform_opentf"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2023-08-23, 12:36:09",
-      "https://lobste.rs/s/gvtq1t/sista_speculative_inlining_smalltalk"
-    ],
-    [
-      "Sista: Speculative Inlining, Smalltalk-Style (2016)",
-      "https://www.youtube.com/watch?v=f4Cvia-HZ-w"
-    ]
-  ],
-  [
-    [
       "2023-08-23, 10:01:03",
       "https://lobste.rs/s/lhqpc4/plan_for_helios_ng_foss_cluster_native_os"
     ],
@@ -137,16 +147,6 @@
     [
       "My favorite prime number generator",
       "https://eli.thegreenplace.net/2023/my-favorite-prime-number-generator/"
-    ]
-  ],
-  [
-    [
-      "2023-08-23, 03:44:04",
-      "https://lobste.rs/s/lvb2jn/memory_order_c_2022"
-    ],
-    [
-      "Memory Order in C++ (2022)",
-      "https://www.sobyte.net/post/2022-06/cpp-memory-order/"
     ]
   ],
   [
