@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
+* [2023-08-23, 05:56:58](https://lobste.rs/s/6jvssi/view_transitions_break_incremental) - [View Transitions Break Incremental Rendering](https://ericportis.com/posts/2023/view-transitions-break-incremental-rendering/)
 * [2023-08-23, 04:52:24](https://lobste.rs/s/ozhfom/idome) - [iDome](https://paulbourke.net/dome/iDome/)
 * [2023-08-23, 04:44:36](https://lobste.rs/s/sqlldn/my_favorite_prime_number_generator) - [My favorite prime number generator](https://eli.thegreenplace.net/2023/my-favorite-prime-number-generator/)
 * [2023-08-23, 04:16:31](https://lobste.rs/s/hq1xda/reconstructing_typescript_part_0_intro) - [Reconstructing TypeScript, part 0: intro and background](https://jaked.org/blog/2021-09-07-Reconstructing-TypeScript-part-0)

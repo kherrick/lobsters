@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-23, 05:56:58](https://lobste.rs/s/6jvssi/view_transitions_break_incremental) - [View Transitions Break Incremental Rendering](https://ericportis.com/posts/2023/view-transitions-break-incremental-rendering/)
 * [2023-08-23, 04:52:24](https://lobste.rs/s/ozhfom/idome) - [iDome](https://paulbourke.net/dome/iDome/)
 * [2023-08-23, 04:44:36](https://lobste.rs/s/sqlldn/my_favorite_prime_number_generator) - [My favorite prime number generator](https://eli.thegreenplace.net/2023/my-favorite-prime-number-generator/)
 * [2023-08-23, 04:16:31](https://lobste.rs/s/hq1xda/reconstructing_typescript_part_0_intro) - [Reconstructing TypeScript, part 0: intro and background](https://jaked.org/blog/2021-09-07-Reconstructing-TypeScript-part-0)
@@ -23,7 +24,6 @@
 * [2023-08-22, 08:56:57](https://lobste.rs/s/oybfx5/my_custom_tesco_clubcard_pkpass) - [My custom Tesco Clubcard pkpass](https://xenodium.com/my-custom-tesco-clubcard-pkpass/)
 * [2023-08-21, 20:09:44](https://lobste.rs/s/bithug/blog_cells_interactive_code_cells_for) - [blog-cells: Interactive code cells for static sites](https://rameshvarun.github.io/blog-cells/)
 * [2023-08-21, 19:17:24](https://lobste.rs/s/o82ns9/nvidia_bios_signature_lock_broken_vbios) - [NVIDIA BIOS Signature Lock Broken, vBIOS Modding and Crossflash Enabled by Groundbreaking New Tools](https://www.techpowerup.com/312631/nvidia-bios-signature-lock-broken-vbios-modding-and-crossflash-enabled-by-groundbreaking-new-tools)
-* [2023-08-21, 17:02:01](https://lobste.rs/s/bupvxm/learn_autohotkey_by_stealing_my_scripts) - [Learn AutoHotKey by stealing my scripts](https://www.hillelwayne.com/post/ahk-scripts-project/)
 * [2023-08-21, 16:22:35](https://lobste.rs/s/dnbkoo/walk_terminal_file_manager) - [Walk: Terminal file manager](https://github.com/antonmedv/walk)
 
 ## [Archives](archives/index.md)
