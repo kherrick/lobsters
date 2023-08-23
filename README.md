@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-23, 18:24:03](https://lobste.rs/s/zs5mut/hashicorp_terraform_opentf_lwn_net) - [HashiCorp, Terraform, and OpenTF [LWN.net]](https://lwn.net/SubscriberLink/942346/014f407d03f4cd03/)
 * [2023-08-23, 17:34:21](https://lobste.rs/s/prrrbn/adding_wi_fi_macintosh_portable) - [Adding Wi-Fi to the Macintosh Portable](https://jcs.org/2023/08/23/scsiwifi)
 * [2023-08-23, 16:04:15](https://lobste.rs/s/edgsyh/use_web_components_for_what_they_re_good_at) - [Use web components for what they’re good at](https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/)
 * [2023-08-23, 15:10:47](https://lobste.rs/s/skjtga/psa_add_dir_auto_your_inputs_textareas) - [PSA: Add dir=\"auto\" to your inputs and textareas](https://mough.xyz/312/psa-add-dir-auto-to-your-inputs-and-textareas)
@@ -12,7 +13,6 @@
 * [2023-08-23, 08:17:20](https://lobste.rs/s/ognae8/postgres_lock_conflicts) - [Postgres Lock Conflicts](https://pglocks.org/)
 * [2023-08-23, 08:16:52](https://lobste.rs/s/luqhok/programming_programmers_mean_different) - [\"Programming\" and \"Programmers\" Mean Different Things to Different People](https://tratt.net/laurie/blog/2023/programming_and_programmers_mean_different_things_to_different_people.html)
 * [2023-08-23, 05:56:58](https://lobste.rs/s/6jvssi/view_transitions_break_incremental) - [View Transitions Break Incremental Rendering](https://ericportis.com/posts/2023/view-transitions-break-incremental-rendering/)
-* [2023-08-23, 04:52:24](https://lobste.rs/s/ozhfom/idome) - [iDome](https://paulbourke.net/dome/iDome/)
 * [2023-08-23, 04:44:36](https://lobste.rs/s/sqlldn/my_favorite_prime_number_generator) - [My favorite prime number generator](https://eli.thegreenplace.net/2023/my-favorite-prime-number-generator/)
 * [2023-08-23, 03:44:04](https://lobste.rs/s/lvb2jn/memory_order_c_2022) - [Memory Order in C++ (2022)](https://www.sobyte.net/post/2022-06/cpp-memory-order/)
 * [2023-08-22, 22:53:00](https://lobste.rs/s/6ms0co/introducing_python_excel_best_both) - [Introducing Python in Excel: The Best of Both Worlds for Data Analysis and Visualization](https://techcommunity.microsoft.com/t5/microsoft-365-blog/introducing-python-in-excel-the-best-of-both-worlds-for-data/ba-p/3905482)
