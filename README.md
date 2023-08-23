@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-23, 08:17:20](https://lobste.rs/s/ognae8/postgres_lock_conflicts) - [Postgres Lock Conflicts](https://pglocks.org/)
+* [2023-08-23, 08:16:52](https://lobste.rs/s/luqhok/programming_programmers_mean_different) - [\"Programming\" and \"Programmers\" Mean Different Things to Different People](https://tratt.net/laurie/blog/2023/programming_and_programmers_mean_different_things_to_different_people.html)
 * [2023-08-23, 06:30:38](https://lobste.rs/s/mxxn18/using_qspi_ram_with_rp2040_s_ssi_read_write) - [Using QSPI RAM with RP2040's SSI in read-write mode](http://dmitry.gr/?r=06.%20Thoughts&proj=10.%20RomRam)
 * [2023-08-23, 05:56:58](https://lobste.rs/s/6jvssi/view_transitions_break_incremental) - [View Transitions Break Incremental Rendering](https://ericportis.com/posts/2023/view-transitions-break-incremental-rendering/)
 * [2023-08-23, 04:52:24](https://lobste.rs/s/ozhfom/idome) - [iDome](https://paulbourke.net/dome/iDome/)
@@ -12,7 +14,6 @@
 * [2023-08-22, 19:50:03](https://lobste.rs/s/ibfl0f/breaking_out_snail_maze) - [Breaking out of the Snail Maze](https://www.leadedsolder.com/2023/08/22/snail-maze-romhack.html)
 * [2023-08-22, 19:06:20](https://lobste.rs/s/rosce2/500_byte_images_haiku_vector_icon_format) - [500 Byte Images: The Haiku Vector Icon Format](https://blog.leahhanson.us/post/recursecenter2016/haiku_icons.html)
 * [2023-08-22, 17:57:41](https://lobste.rs/s/lfkxmg/asyncio_twisted_tornado_gevent_walk_into) - [Asyncio, twisted, tornado, gevent walk into a bar](https://www.bitecode.dev/p/asyncio-twisted-tornado-gevent-walk)
-* [2023-08-22, 16:19:39](https://lobste.rs/s/cevscq/rijkscollection_personal_virtual) - [Rijkscollection: a Personal Virtual Museum](https://reindernijhoff.net/2023/08/rijkscollection-a-personal-virtual-museum/)
 * [2023-08-22, 16:07:07](https://lobste.rs/s/0onwl1/structured_logging_with_slog) - [Structured Logging with slog](https://go.dev/blog/slog)
 * [2023-08-22, 15:18:45](https://lobste.rs/s/vcxi59/first_conformant_m1_gpu_driver) - [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
 * [2023-08-22, 15:15:45](https://lobste.rs/s/rxp5oo/introducing_flakehub) - [Introducing FlakeHub](https://determinate.systems/posts/introducing-flakehub)
@@ -24,7 +25,6 @@
 * [2023-08-22, 08:56:57](https://lobste.rs/s/oybfx5/my_custom_tesco_clubcard_pkpass) - [My custom Tesco Clubcard pkpass](https://xenodium.com/my-custom-tesco-clubcard-pkpass/)
 * [2023-08-21, 20:09:44](https://lobste.rs/s/bithug/blog_cells_interactive_code_cells_for) - [blog-cells: Interactive code cells for static sites](https://rameshvarun.github.io/blog-cells/)
 * [2023-08-21, 19:17:24](https://lobste.rs/s/o82ns9/nvidia_bios_signature_lock_broken_vbios) - [NVIDIA BIOS Signature Lock Broken, vBIOS Modding and Crossflash Enabled by Groundbreaking New Tools](https://www.techpowerup.com/312631/nvidia-bios-signature-lock-broken-vbios-modding-and-crossflash-enabled-by-groundbreaking-new-tools)
-* [2023-08-21, 16:22:35](https://lobste.rs/s/dnbkoo/walk_terminal_file_manager) - [Walk: Terminal file manager](https://github.com/antonmedv/walk)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
+* [2023-08-23, 08:17:20](https://lobste.rs/s/ognae8/postgres_lock_conflicts) - [Postgres Lock Conflicts](https://pglocks.org/)
+* [2023-08-23, 08:16:52](https://lobste.rs/s/luqhok/programming_programmers_mean_different) - [\"Programming\" and \"Programmers\" Mean Different Things to Different People](https://tratt.net/laurie/blog/2023/programming_and_programmers_mean_different_things_to_different_people.html)
 * [2023-08-23, 06:30:38](https://lobste.rs/s/mxxn18/using_qspi_ram_with_rp2040_s_ssi_read_write) - [Using QSPI RAM with RP2040's SSI in read-write mode](http://dmitry.gr/?r=06.%20Thoughts&proj=10.%20RomRam)
 * [2023-08-23, 05:56:58](https://lobste.rs/s/6jvssi/view_transitions_break_incremental) - [View Transitions Break Incremental Rendering](https://ericportis.com/posts/2023/view-transitions-break-incremental-rendering/)
 * [2023-08-23, 04:52:24](https://lobste.rs/s/ozhfom/idome) - [iDome](https://paulbourke.net/dome/iDome/)
