@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
+* [2023-08-23, 17:34:21](https://lobste.rs/s/prrrbn/adding_wi_fi_macintosh_portable) - [Adding Wi-Fi to the Macintosh Portable](https://jcs.org/2023/08/23/scsiwifi)
 * [2023-08-23, 16:04:15](https://lobste.rs/s/edgsyh/use_web_components_for_what_they_re_good_at) - [Use web components for what they’re good at](https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/)
 * [2023-08-23, 15:10:47](https://lobste.rs/s/skjtga/psa_add_dir_auto_your_inputs_textareas) - [PSA: Add dir=\"auto\" to your inputs and textareas](https://mough.xyz/312/psa-add-dir-auto-to-your-inputs-and-textareas)
 * [2023-08-23, 14:55:09](https://lobste.rs/s/gfsjgv/compiling_test_suite) - [Compiling a Test Suite](https://concerningquality.com/test-compilation/)

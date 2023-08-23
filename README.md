@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-23, 17:34:21](https://lobste.rs/s/prrrbn/adding_wi_fi_macintosh_portable) - [Adding Wi-Fi to the Macintosh Portable](https://jcs.org/2023/08/23/scsiwifi)
 * [2023-08-23, 16:04:15](https://lobste.rs/s/edgsyh/use_web_components_for_what_they_re_good_at) - [Use web components for what they’re good at](https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/)
 * [2023-08-23, 15:10:47](https://lobste.rs/s/skjtga/psa_add_dir_auto_your_inputs_textareas) - [PSA: Add dir=\"auto\" to your inputs and textareas](https://mough.xyz/312/psa-add-dir-auto-to-your-inputs-and-textareas)
 * [2023-08-23, 14:55:09](https://lobste.rs/s/gfsjgv/compiling_test_suite) - [Compiling a Test Suite](https://concerningquality.com/test-compilation/)
@@ -10,7 +11,6 @@
 * [2023-08-23, 10:01:03](https://lobste.rs/s/lhqpc4/plan_for_helios_ng_foss_cluster_native_os) - [The Plan for Helios NG - a FOSS cluster-native OS derived from TRIPOS (2014)](https://www.geekdot.com/helios-ng/)
 * [2023-08-23, 08:17:20](https://lobste.rs/s/ognae8/postgres_lock_conflicts) - [Postgres Lock Conflicts](https://pglocks.org/)
 * [2023-08-23, 08:16:52](https://lobste.rs/s/luqhok/programming_programmers_mean_different) - [\"Programming\" and \"Programmers\" Mean Different Things to Different People](https://tratt.net/laurie/blog/2023/programming_and_programmers_mean_different_things_to_different_people.html)
-* [2023-08-23, 06:30:38](https://lobste.rs/s/mxxn18/using_qspi_ram_with_rp2040_s_ssi_read_write) - [Using QSPI RAM with RP2040's SSI in read-write mode](http://dmitry.gr/?r=06.%20Thoughts&proj=10.%20RomRam)
 * [2023-08-23, 05:56:58](https://lobste.rs/s/6jvssi/view_transitions_break_incremental) - [View Transitions Break Incremental Rendering](https://ericportis.com/posts/2023/view-transitions-break-incremental-rendering/)
 * [2023-08-23, 04:52:24](https://lobste.rs/s/ozhfom/idome) - [iDome](https://paulbourke.net/dome/iDome/)
 * [2023-08-23, 04:44:36](https://lobste.rs/s/sqlldn/my_favorite_prime_number_generator) - [My favorite prime number generator](https://eli.thegreenplace.net/2023/my-favorite-prime-number-generator/)
