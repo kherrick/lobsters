@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-23, 14:55:09](https://lobste.rs/s/gfsjgv/compiling_test_suite) - [Compiling a Test Suite](https://concerningquality.com/test-compilation/)
 * [2023-08-23, 13:47:48](https://lobste.rs/s/x7siga/costs_exposed_monorepo_vs_multirepo) - [Costs exposed: Monorepo vs. multirepo](https://jmmv.dev/2023/08/costs-exposed-monorepo-multirepo.html)
 * [2023-08-23, 13:47:31](https://lobste.rs/s/mkwany/some_rough_impressions_worldcoin) - [Some rough impressions of Worldcoin](https://blog.cryptographyengineering.com/2023/08/21/some-rough-impressions-of-worldcoin/)
 * [2023-08-23, 13:45:59](https://lobste.rs/s/ediwyn/pros_cons_using_shadow_dom_style) - [Pros and cons of using Shadow DOM and style encapsulation](https://www.matuzo.at/blog/2023/pros-and-cons-of-shadow-dom/)
@@ -16,7 +17,6 @@
 * [2023-08-22, 22:53:00](https://lobste.rs/s/6ms0co/introducing_python_excel_best_both) - [Introducing Python in Excel: The Best of Both Worlds for Data Analysis and Visualization](https://techcommunity.microsoft.com/t5/microsoft-365-blog/introducing-python-in-excel-the-best-of-both-worlds-for-data/ba-p/3905482)
 * [2023-08-22, 22:25:15](https://lobste.rs/s/ao2x0v/no_one_actually_wants_simplicity) - [No one actually wants simplicity](https://lukeplant.me.uk/blog/posts/no-one-actually-wants-simplicity/)
 * [2023-08-22, 21:03:40](https://lobste.rs/s/ymctwr/bitwise_binary_search_elegant_fast) - [Bitwise Binary Search: Elegant and Fast](https://orlp.net/blog/bitwise-binary-search/)
-* [2023-08-22, 19:50:03](https://lobste.rs/s/ibfl0f/breaking_out_snail_maze) - [Breaking out of the Snail Maze](https://www.leadedsolder.com/2023/08/22/snail-maze-romhack.html)
 * [2023-08-22, 19:06:20](https://lobste.rs/s/rosce2/500_byte_images_haiku_vector_icon_format) - [500 Byte Images: The Haiku Vector Icon Format](https://blog.leahhanson.us/post/recursecenter2016/haiku_icons.html)
 * [2023-08-22, 17:57:41](https://lobste.rs/s/lfkxmg/asyncio_twisted_tornado_gevent_walk_into) - [Asyncio, twisted, tornado, gevent walk into a bar](https://www.bitecode.dev/p/asyncio-twisted-tornado-gevent-walk)
 * [2023-08-22, 16:07:07](https://lobste.rs/s/0onwl1/structured_logging_with_slog) - [Structured Logging with slog](https://go.dev/blog/slog)
