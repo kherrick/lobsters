@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-23, 04:16:31",
+      "https://lobste.rs/s/hq1xda/reconstructing_typescript_part_0_intro"
+    ],
+    [
+      "Reconstructing TypeScript, part 0: intro and background",
+      "https://jaked.org/blog/2021-09-07-Reconstructing-TypeScript-part-0"
+    ]
+  ],
+  [
+    [
       "2023-08-23, 03:44:04",
       "https://lobste.rs/s/lvb2jn/memory_order_c_2022"
     ],
@@ -187,16 +197,6 @@
     [
       "Smaller JavaScript Using Encapsulation",
       "https://caolan.uk/notes/2023-07-28_smaller_javascript_using_encapsulation.cm"
-    ]
-  ],
-  [
-    [
-      "2023-08-22, 02:07:02",
-      "https://lobste.rs/s/rzje0o/compile_time_type_checked_truth_tables"
-    ],
-    [
-      "Compile-time type-checked truth tables",
-      "https://blog.ploeh.dk/2023/08/21/compile-time-type-checked-truth-tables/"
     ]
   ],
   [
