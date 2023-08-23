@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-23, 20:12:29](https://lobste.rs/s/ewzxj9/flipper_1_0_0) - [Flipper 1.0.0](https://www.johnnunemaker.com/flipper-1-0/)
+* [2023-08-23, 20:11:26](https://lobste.rs/s/izjizc/cve_2023_4273_vulnerability_linux_exfat) - [CVE-2023-4273: a vulnerability in the Linux exFAT driver](https://dfir.ru/2023/08/23/cve-2023-4273-a-vulnerability-in-the-linux-exfat-driver/)
 * [2023-08-23, 19:50:36](https://lobste.rs/s/dzkrzs/exploring_windows_xp_on_macos_arm64) - [Exploring Windows XP on macOS ARM64](https://milen.me/writings/exploring-windows-xp-on-macos-arm64/)
 * [2023-08-23, 19:49:03](https://lobste.rs/s/mu41fo/c_c_performance_pitfall_int8_t_aliasing) - [C/C++ performance pitfall: int8_t, aliasing and the ways out](https://gist.github.com/alexei-zaripov/dcc14c78819c5f1354afe8b70932007c)
 * [2023-08-23, 18:24:03](https://lobste.rs/s/zs5mut/hashicorp_terraform_opentf) - [HashiCorp, Terraform, and OpenTF](https://lwn.net/SubscriberLink/942346/014f407d03f4cd03/)
@@ -9,7 +11,6 @@
 * [2023-08-23, 14:55:09](https://lobste.rs/s/gfsjgv/compiling_test_suite) - [Compiling a Test Suite](https://concerningquality.com/test-compilation/)
 * [2023-08-23, 13:47:48](https://lobste.rs/s/x7siga/costs_exposed_monorepo_vs_multirepo) - [Costs exposed: Monorepo vs. multirepo](https://jmmv.dev/2023/08/costs-exposed-monorepo-multirepo.html)
 * [2023-08-23, 13:47:31](https://lobste.rs/s/mkwany/some_rough_impressions_worldcoin) - [Some rough impressions of Worldcoin](https://blog.cryptographyengineering.com/2023/08/21/some-rough-impressions-of-worldcoin/)
-* [2023-08-23, 13:45:59](https://lobste.rs/s/ediwyn/pros_cons_using_shadow_dom_style) - [Pros and cons of using Shadow DOM and style encapsulation](https://www.matuzo.at/blog/2023/pros-and-cons-of-shadow-dom/)
 * [2023-08-23, 10:01:03](https://lobste.rs/s/lhqpc4/plan_for_helios_ng_foss_cluster_native_os) - [The Plan for Helios NG - a FOSS cluster-native OS derived from TRIPOS (2014)](https://www.geekdot.com/helios-ng/)
 * [2023-08-23, 08:17:20](https://lobste.rs/s/ognae8/postgres_lock_conflicts) - [Postgres Lock Conflicts](https://pglocks.org/)
 * [2023-08-23, 08:16:52](https://lobste.rs/s/luqhok/programming_programmers_mean_different) - [\"Programming\" and \"Programmers\" Mean Different Things to Different People](https://tratt.net/laurie/blog/2023/programming_and_programmers_mean_different_things_to_different_people.html)
@@ -23,7 +24,6 @@
 * [2023-08-22, 15:18:45](https://lobste.rs/s/vcxi59/first_conformant_m1_gpu_driver) - [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
 * [2023-08-22, 15:15:45](https://lobste.rs/s/rxp5oo/introducing_flakehub) - [Introducing FlakeHub](https://determinate.systems/posts/introducing-flakehub)
 * [2023-08-22, 11:19:50](https://lobste.rs/s/wxdwba/rfc_6920_naming_things_with_hashes) - [RFC 6920: Naming Things with Hashes](https://posts.summerti.me/rfc-6920/)
-* [2023-08-22, 10:51:39](https://lobste.rs/s/vozxgx/zsa_moonlander_next_gen_split_ergonomic) - [ZSA Moonlander: Next-gen Split Ergonomic Keyboard](https://zsa.io/moonlander)
 * [2023-08-22, 08:56:57](https://lobste.rs/s/oybfx5/my_custom_tesco_clubcard_pkpass) - [My custom Tesco Clubcard pkpass](https://xenodium.com/my-custom-tesco-clubcard-pkpass/)
 
 ## [Archives](archives/index.md)

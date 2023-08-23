@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-23](index.md)
 
+* [2023-08-23, 20:12:29](https://lobste.rs/s/ewzxj9/flipper_1_0_0) - [Flipper 1.0.0](https://www.johnnunemaker.com/flipper-1-0/)
+* [2023-08-23, 20:11:26](https://lobste.rs/s/izjizc/cve_2023_4273_vulnerability_linux_exfat) - [CVE-2023-4273: a vulnerability in the Linux exFAT driver](https://dfir.ru/2023/08/23/cve-2023-4273-a-vulnerability-in-the-linux-exfat-driver/)
 * [2023-08-23, 19:50:36](https://lobste.rs/s/dzkrzs/exploring_windows_xp_on_macos_arm64) - [Exploring Windows XP on macOS ARM64](https://milen.me/writings/exploring-windows-xp-on-macos-arm64/)
 * [2023-08-23, 19:49:03](https://lobste.rs/s/mu41fo/c_c_performance_pitfall_int8_t_aliasing) - [C/C++ performance pitfall: int8_t, aliasing and the ways out](https://gist.github.com/alexei-zaripov/dcc14c78819c5f1354afe8b70932007c)
 * [2023-08-23, 18:24:03](https://lobste.rs/s/zs5mut/hashicorp_terraform_opentf_lwn_net) - [HashiCorp, Terraform, and OpenTF [LWN.net]](https://lwn.net/SubscriberLink/942346/014f407d03f4cd03/)
