@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-24](index.md)
 
+* [2023-08-24, 22:28:15](https://lobste.rs/s/sjsueq/philosophy_software_design_by_john) - [A philosophy of software design by John Ousterhout (summarized by Matt Duck)](https://www.mattduck.com/2021-04-a-philosophy-of-software-design.html)
 * [2023-08-24, 21:42:07](https://lobste.rs/s/ph7rnw/evaluating_algebraic_expressions_using) - [Evaluating Algebraic Expressions using Parser Combinators](https://blog.varunramesh.net/posts/algebraic-expressions-using-parser-combinators/)
 * [2023-08-24, 18:34:05](https://lobste.rs/s/dby2to/making_netbsd_multiboot_compatible_2007) - [Making NetBSD Multiboot-Compatible (2007)](https://jmmv.dev/2007/03/making-netbsd-multiboot-compatible.html)
 * [2023-08-24, 18:26:23](https://lobste.rs/s/eaj95e/is_computer_hacking_crime_1989) - [Is Computer Hacking a Crime (1989)](https://faculty.weber.edu/apainter1/Readings/Hacking%20a%20Crime.pdf)
