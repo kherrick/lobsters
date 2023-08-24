@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-24](index.md)
 
 * [2023-08-24, 18:34:05](https://lobste.rs/s/dby2to/making_netbsd_multiboot_compatible_2007) - [Making NetBSD Multiboot-Compatible (2007)](https://jmmv.dev/2007/03/making-netbsd-multiboot-compatible.html)
+* [2023-08-24, 18:26:23](https://lobste.rs/s/eaj95e/is_computer_hacking_crime_1989) - [Is Computer Hacking a Crime (1989)](https://faculty.weber.edu/apainter1/Readings/Hacking%20a%20Crime.pdf)
 * [2023-08-24, 17:00:56](https://lobste.rs/s/5ev73h/propositions_as_types_explained) - [Propositions as types: explained (and debunked)](https://lawrencecpaulson.github.io/2023/08/23/Propositions_as_Types.html)
 * [2023-08-24, 17:00:03](https://lobste.rs/s/zcj8vy/factor_0_99_now_available) - [Factor 0.99 now available](https://re.factorcode.org/2023/08/factor-0-99-now-available.html)
 * [2023-08-24, 16:48:59](https://lobste.rs/s/pgzpsc/microsoft_s_revocation_verisign_class_3) - [Microsoft's Revocation of the Verisign Class 3 Public Primary Certification Authority - G5 Root Certificate](https://airlockdigital.com/microsofts-revocation-of-the-verisign-class-3-public-primary-certification-authority-g5-root-certificate/)
