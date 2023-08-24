@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-24, 08:07:43",
+      "https://lobste.rs/s/d560iz/everything_you_never_wanted_know_about"
+    ],
+    [
+      "Everything you never wanted to know about Win32 environment blocks",
+      "https://nullprogram.com/blog/2023/08/23/"
+    ]
+  ],
+  [
+    [
       "2023-08-24, 06:49:47",
       "https://lobste.rs/s/h6bkmm/laziness_haskell_part_2_why_not_strict"
     ],
@@ -237,16 +247,6 @@
     [
       "Introducing FlakeHub",
       "https://determinate.systems/posts/introducing-flakehub"
-    ]
-  ],
-  [
-    [
-      "2023-08-22, 11:19:50",
-      "https://lobste.rs/s/wxdwba/rfc_6920_naming_things_with_hashes"
-    ],
-    [
-      "RFC 6920: Naming Things with Hashes",
-      "https://posts.summerti.me/rfc-6920/"
     ]
   ]
 ]
