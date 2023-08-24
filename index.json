@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-24, 23:27:46",
+      "https://lobste.rs/s/qkpfes/announcing_rust_1_72_0"
+    ],
+    [
+      "Announcing Rust 1.72.0",
+      "https://blog.rust-lang.org/2023/08/24/Rust-1.72.0.html"
+    ]
+  ],
+  [
+    [
       "2023-08-24, 23:02:04",
       "https://lobste.rs/s/sbjrkg/making_freebsd_quic"
     ],
@@ -87,16 +97,6 @@
     [
       "Celebrating Daemontools",
       "https://journal.infinitenegativeutility.com/celebrating-daemontools"
-    ]
-  ],
-  [
-    [
-      "2023-08-24, 15:15:25",
-      "https://lobste.rs/s/p8ww7b/effective_programming_ocaml_2021"
-    ],
-    [
-      "Effective Programming in OCaml (2021)",
-      "https://youtu.be/X28PFYvZ_V8?si=ydK0LqXJGarZSY--"
     ]
   ],
   [
