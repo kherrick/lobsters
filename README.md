@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-24, 06:49:47](https://lobste.rs/s/h6bkmm/laziness_haskell_part_2_why_not_strict) - [Laziness in Haskell — Part 2: Why not Strict Haskell?](https://www.youtube.com/watch?v=NCM8pRiLtAc)
 * [2023-08-24, 06:30:50](https://lobste.rs/s/kaxcd8/print_lol_doubled_speed_my_go_function) - [print(“lol”) doubled the speed of my Go function](https://medium.com/@ludirehak/printing-lol-doubled-the-speed-of-my-go-code-e32e02fc3f92)
 * [2023-08-24, 01:16:05](https://lobste.rs/s/0yzsrt/bun_v0_8_0) - [Bun v0.8.0](https://bun.sh/blog/bun-v0.8.0)
 * [2023-08-24, 01:06:23](https://lobste.rs/s/e1ovsz/complexity_theory_s_50_year_journey) - [Complexity Theory’s 50-Year Journey to the Limits of Knowledge](https://www.quantamagazine.org/complexity-theorys-50-year-journey-to-the-limits-of-knowledge-20230817/)
@@ -15,7 +16,6 @@
 * [2023-08-23, 14:55:09](https://lobste.rs/s/gfsjgv/compiling_test_suite) - [Compiling a Test Suite](https://concerningquality.com/test-compilation/)
 * [2023-08-23, 13:47:48](https://lobste.rs/s/x7siga/costs_exposed_monorepo_vs_multirepo) - [Costs exposed: Monorepo vs. multirepo](https://jmmv.dev/2023/08/costs-exposed-monorepo-multirepo.html)
 * [2023-08-23, 13:47:31](https://lobste.rs/s/mkwany/some_rough_impressions_worldcoin) - [Some rough impressions of Worldcoin](https://blog.cryptographyengineering.com/2023/08/21/some-rough-impressions-of-worldcoin/)
-* [2023-08-23, 10:01:03](https://lobste.rs/s/lhqpc4/plan_for_helios_ng_foss_cluster_native_os) - [The Plan for Helios NG - a FOSS cluster-native OS derived from TRIPOS (2014)](https://www.geekdot.com/helios-ng/)
 * [2023-08-23, 08:17:20](https://lobste.rs/s/ognae8/postgres_lock_conflicts) - [Postgres Lock Conflicts](https://pglocks.org/)
 * [2023-08-23, 08:16:52](https://lobste.rs/s/luqhok/programming_programmers_mean_different) - [\"Programming\" and \"Programmers\" Mean Different Things to Different People](https://tratt.net/laurie/blog/2023/programming_and_programmers_mean_different_things_to_different_people.html)
 * [2023-08-23, 04:44:36](https://lobste.rs/s/sqlldn/my_favorite_prime_number_generator) - [My favorite prime number generator](https://eli.thegreenplace.net/2023/my-favorite-prime-number-generator/)
