@@ -6,6 +6,7 @@
 
 * [2023-08-24, 23:27:46](https://lobste.rs/s/qkpfes/announcing_rust_1_72_0) - [Announcing Rust 1.72.0](https://blog.rust-lang.org/2023/08/24/Rust-1.72.0.html)
 * [2023-08-24, 23:02:04](https://lobste.rs/s/sbjrkg/making_freebsd_quic) - [Making FreeBSD QUIC](https://www.youtube.com/watch?v=QEKyBr1LS3s)
+* [2023-08-24, 22:28:15](https://lobste.rs/s/sjsueq/philosophy_software_design_summarized) - [\"A philosophy of software design\" summarized](https://www.mattduck.com/2021-04-a-philosophy-of-software-design.html)
 * [2023-08-24, 22:28:15](https://lobste.rs/s/sjsueq/philosophy_software_design_by_john) - [A philosophy of software design by John Ousterhout (summarized by Matt Duck)](https://www.mattduck.com/2021-04-a-philosophy-of-software-design.html)
 * [2023-08-24, 21:42:07](https://lobste.rs/s/ph7rnw/evaluating_algebraic_expressions_using) - [Evaluating Algebraic Expressions using Parser Combinators](https://blog.varunramesh.net/posts/algebraic-expressions-using-parser-combinators/)
 * [2023-08-24, 18:34:05](https://lobste.rs/s/dby2to/making_netbsd_multiboot_compatible_2007) - [Making NetBSD Multiboot-Compatible (2007)](https://jmmv.dev/2007/03/making-netbsd-multiboot-compatible.html)
