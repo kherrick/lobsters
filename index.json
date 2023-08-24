@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-24, 15:15:25",
+      "https://lobste.rs/s/p8ww7b/effective_programming_ocaml_2021"
+    ],
+    [
+      "Effective Programming in OCaml (2021)",
+      "https://youtu.be/X28PFYvZ_V8?si=ydK0LqXJGarZSY--"
+    ]
+  ],
+  [
+    [
+      "2023-08-24, 15:10:05",
+      "https://lobste.rs/s/a58cnr/earning_privilege_work_on_unoriginal"
+    ],
+    [
+      "Earning the privilege to work on unoriginal problems",
+      "https://landmines.substack.com/p/earning-the-privilege-to-work-on"
+    ]
+  ],
+  [
+    [
       "2023-08-24, 13:16:38",
       "https://lobste.rs/s/gkxg9p/leaving_haskell_behind"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2023-08-22, 19:06:20",
-      "https://lobste.rs/s/rosce2/500_byte_images_haiku_vector_icon_format"
-    ],
-    [
-      "500 Byte Images: The Haiku Vector Icon Format",
-      "https://blog.leahhanson.us/post/recursecenter2016/haiku_icons.html"
-    ]
-  ],
-  [
-    [
       "2023-08-22, 15:18:45",
       "https://lobste.rs/s/vcxi59/first_conformant_m1_gpu_driver"
     ],
     [
       "The first conformant M1 GPU driver",
       "https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-22, 15:15:45",
-      "https://lobste.rs/s/rxp5oo/introducing_flakehub"
-    ],
-    [
-      "Introducing FlakeHub",
-      "https://determinate.systems/posts/introducing-flakehub"
     ]
   ]
 ]
