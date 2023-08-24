@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-24, 06:49:47",
+      "https://lobste.rs/s/h6bkmm/laziness_haskell_part_2_why_not_strict"
+    ],
+    [
+      "Laziness in Haskell — Part 2: Why not Strict Haskell?",
+      "https://www.youtube.com/watch?v=NCM8pRiLtAc"
+    ]
+  ],
+  [
+    [
       "2023-08-24, 06:30:50",
       "https://lobste.rs/s/kaxcd8/print_lol_doubled_speed_my_go_function"
     ],
@@ -147,16 +157,6 @@
     [
       "Some rough impressions of Worldcoin",
       "https://blog.cryptographyengineering.com/2023/08/21/some-rough-impressions-of-worldcoin/"
-    ]
-  ],
-  [
-    [
-      "2023-08-23, 10:01:03",
-      "https://lobste.rs/s/lhqpc4/plan_for_helios_ng_foss_cluster_native_os"
-    ],
-    [
-      "The Plan for Helios NG - a FOSS cluster-native OS derived from TRIPOS (2014)",
-      "https://www.geekdot.com/helios-ng/"
     ]
   ],
   [
