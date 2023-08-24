@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2023-08-23, 10:01:03",
-      "https://lobste.rs/s/lhqpc4/plan_for_helios_ng_foss_cluster_native_os"
-    ],
-    [
-      "The Plan for Helios NG - a FOSS cluster-native OS derived from TRIPOS (2014)",
-      "https://www.geekdot.com/helios-ng/"
-    ]
-  ],
-  [
-    [
       "2023-08-23, 08:17:20",
       "https://lobste.rs/s/ognae8/postgres_lock_conflicts"
     ],
@@ -217,6 +207,16 @@
     [
       "500 Byte Images: The Haiku Vector Icon Format",
       "https://blog.leahhanson.us/post/recursecenter2016/haiku_icons.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-22, 17:57:41",
+      "https://lobste.rs/s/lfkxmg/asyncio_twisted_tornado_gevent_walk_into"
+    ],
+    [
+      "Asyncio, twisted, tornado, gevent walk into a bar",
+      "https://www.bitecode.dev/p/asyncio-twisted-tornado-gevent-walk"
     ]
   ],
   [
