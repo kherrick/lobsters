@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-24](index.md)
 
+* [2023-08-24, 21:42:07](https://lobste.rs/s/ph7rnw/evaluating_algebraic_expressions_using) - [Evaluating Algebraic Expressions using Parser Combinators](https://blog.varunramesh.net/posts/algebraic-expressions-using-parser-combinators/)
 * [2023-08-24, 18:34:05](https://lobste.rs/s/dby2to/making_netbsd_multiboot_compatible_2007) - [Making NetBSD Multiboot-Compatible (2007)](https://jmmv.dev/2007/03/making-netbsd-multiboot-compatible.html)
 * [2023-08-24, 18:26:23](https://lobste.rs/s/eaj95e/is_computer_hacking_crime_1989) - [Is Computer Hacking a Crime (1989)](https://faculty.weber.edu/apainter1/Readings/Hacking%20a%20Crime.pdf)
 * [2023-08-24, 17:00:56](https://lobste.rs/s/5ev73h/propositions_as_types_explained) - [Propositions as types: explained (and debunked)](https://lawrencecpaulson.github.io/2023/08/23/Propositions_as_Types.html)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-24, 21:42:07](https://lobste.rs/s/ph7rnw/evaluating_algebraic_expressions_using) - [Evaluating Algebraic Expressions using Parser Combinators](https://blog.varunramesh.net/posts/algebraic-expressions-using-parser-combinators/)
 * [2023-08-24, 18:34:05](https://lobste.rs/s/dby2to/making_netbsd_multiboot_compatible_2007) - [Making NetBSD Multiboot-Compatible (2007)](https://jmmv.dev/2007/03/making-netbsd-multiboot-compatible.html)
 * [2023-08-24, 18:26:23](https://lobste.rs/s/eaj95e/is_computer_hacking_crime_1989) - [Is Computer Hacking a Crime (1989)](https://faculty.weber.edu/apainter1/Readings/Hacking%20a%20Crime.pdf)
 * [2023-08-24, 17:00:56](https://lobste.rs/s/5ev73h/propositions_as_types_explained) - [Propositions as types: explained (and debunked)](https://lawrencecpaulson.github.io/2023/08/23/Propositions_as_Types.html)
@@ -16,7 +17,6 @@
 * [2023-08-24, 06:49:47](https://lobste.rs/s/h6bkmm/laziness_haskell_part_2_why_not_strict) - [Laziness in Haskell — Part 2: Why not Strict Haskell?](https://www.youtube.com/watch?v=NCM8pRiLtAc)
 * [2023-08-24, 06:30:50](https://lobste.rs/s/kaxcd8/print_lol_doubled_speed_my_go_function) - [print(“lol”) doubled the speed of my Go function](https://medium.com/@ludirehak/printing-lol-doubled-the-speed-of-my-go-code-e32e02fc3f92)
 * [2023-08-24, 01:16:05](https://lobste.rs/s/0yzsrt/bun_v0_8_0) - [Bun v0.8.0](https://bun.sh/blog/bun-v0.8.0)
-* [2023-08-24, 01:06:23](https://lobste.rs/s/e1ovsz/complexity_theory_s_50_year_journey) - [Complexity Theory’s 50-Year Journey to the Limits of Knowledge](https://www.quantamagazine.org/complexity-theorys-50-year-journey-to-the-limits-of-knowledge-20230817/)
 * [2023-08-23, 20:12:29](https://lobste.rs/s/ewzxj9/flipper_1_0_0) - [Flipper 1.0.0](https://www.johnnunemaker.com/flipper-1-0/)
 * [2023-08-23, 20:11:26](https://lobste.rs/s/izjizc/cve_2023_4273_vulnerability_linux_exfat) - [CVE-2023-4273: a vulnerability in the Linux exFAT driver](https://dfir.ru/2023/08/23/cve-2023-4273-a-vulnerability-in-the-linux-exfat-driver/)
 * [2023-08-23, 19:49:03](https://lobste.rs/s/mu41fo/c_c_performance_pitfall_int8_t_aliasing) - [C/C++ performance pitfall: int8_t, aliasing and the ways out](https://gist.github.com/alexei-zaripov/dcc14c78819c5f1354afe8b70932007c)
