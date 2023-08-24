@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2023-08-24, 15:15:25",
+      "https://lobste.rs/s/p8ww7b/effective_programming_ocaml_2021"
+    ],
+    [
+      "Effective Programming in OCaml (2021)",
+      "https://youtu.be/X28PFYvZ_V8?si=ydK0LqXJGarZSY--"
+    ]
+  ],
+  [
+    [
       "2023-08-24, 15:10:05",
       "https://lobste.rs/s/a58cnr/earning_privilege_work_on_unoriginal"
     ],
@@ -237,16 +247,6 @@
     [
       "PSA: Add dir=\"auto\" to your inputs and textareas",
       "https://mough.xyz/312/psa-add-dir-auto-to-your-inputs-and-textareas"
-    ]
-  ],
-  [
-    [
-      "2023-08-23, 13:47:48",
-      "https://lobste.rs/s/x7siga/costs_exposed_monorepo_vs_multirepo"
-    ],
-    [
-      "Costs exposed: Monorepo vs. multirepo",
-      "https://jmmv.dev/2023/08/costs-exposed-monorepo-multirepo.html"
     ]
   ]
 ]
