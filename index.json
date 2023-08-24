@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-24, 01:06:23",
+      "https://lobste.rs/s/e1ovsz/complexity_theory_s_50_year_journey"
+    ],
+    [
+      "Complexity Theory’s 50-Year Journey to the Limits of Knowledge",
+      "https://www.quantamagazine.org/complexity-theorys-50-year-journey-to-the-limits-of-knowledge-20230817/"
+    ]
+  ],
+  [
+    [
+      "2023-08-24, 00:31:17",
+      "https://lobste.rs/s/kebxky/mirror"
+    ],
+    [
+      "The Mirror",
+      "https://www.bassi.io/articles/2023/08/23/the-mirror/"
+    ]
+  ],
+  [
+    [
       "2023-08-23, 20:12:29",
       "https://lobste.rs/s/ewzxj9/flipper_1_0_0"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2023-08-23, 13:45:59",
-      "https://lobste.rs/s/ediwyn/pros_cons_using_shadow_dom_style"
-    ],
-    [
-      "Pros and cons of using Shadow DOM and style encapsulation",
-      "https://www.matuzo.at/blog/2023/pros-and-cons-of-shadow-dom/"
-    ]
-  ],
-  [
-    [
       "2023-08-23, 10:01:03",
       "https://lobste.rs/s/lhqpc4/plan_for_helios_ng_foss_cluster_native_os"
     ],
@@ -147,16 +157,6 @@
     [
       "\"Programming\" and \"Programmers\" Mean Different Things to Different People",
       "https://tratt.net/laurie/blog/2023/programming_and_programmers_mean_different_things_to_different_people.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-23, 05:56:58",
-      "https://lobste.rs/s/6jvssi/view_transitions_break_incremental"
-    ],
-    [
-      "View Transitions Break Incremental Rendering",
-      "https://ericportis.com/posts/2023/view-transitions-break-incremental-rendering/"
     ]
   ],
   [
