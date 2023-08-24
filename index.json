@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-24, 22:28:15",
+      "https://lobste.rs/s/sjsueq/philosophy_software_design_by_john"
+    ],
+    [
+      "A philosophy of software design by John Ousterhout (summarized by Matt Duck)",
+      "https://www.mattduck.com/2021-04-a-philosophy-of-software-design.html"
+    ]
+  ],
+  [
+    [
       "2023-08-24, 21:42:07",
       "https://lobste.rs/s/ph7rnw/evaluating_algebraic_expressions_using"
     ],
@@ -77,16 +87,6 @@
     [
       "Celebrating Daemontools",
       "https://journal.infinitenegativeutility.com/celebrating-daemontools"
-    ]
-  ],
-  [
-    [
-      "2023-08-24, 15:15:25",
-      "https://lobste.rs/s/p8ww7b/effective_programming_ocaml_2021"
-    ],
-    [
-      "Effective Programming in OCaml (2021)",
-      "https://youtu.be/X28PFYvZ_V8?si=ydK0LqXJGarZSY--"
     ]
   ],
   [
