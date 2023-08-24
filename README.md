@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-24, 08:21:13](https://lobste.rs/s/ajarjp/freebsd_on_firecracker) - [FreeBSD on Firecracker](https://www.usenix.org/publications/loginonline/freebsd-firecracker)
 * [2023-08-24, 08:07:43](https://lobste.rs/s/d560iz/everything_you_never_wanted_know_about) - [Everything you never wanted to know about Win32 environment blocks](https://nullprogram.com/blog/2023/08/23/)
 * [2023-08-24, 06:49:47](https://lobste.rs/s/h6bkmm/laziness_haskell_part_2_why_not_strict) - [Laziness in Haskell — Part 2: Why not Strict Haskell?](https://www.youtube.com/watch?v=NCM8pRiLtAc)
 * [2023-08-24, 06:30:50](https://lobste.rs/s/kaxcd8/print_lol_doubled_speed_my_go_function) - [print(“lol”) doubled the speed of my Go function](https://medium.com/@ludirehak/printing-lol-doubled-the-speed-of-my-go-code-e32e02fc3f92)
@@ -14,7 +15,6 @@
 * [2023-08-23, 17:34:21](https://lobste.rs/s/prrrbn/adding_wi_fi_macintosh_portable) - [Adding Wi-Fi to the Macintosh Portable](https://jcs.org/2023/08/23/scsiwifi)
 * [2023-08-23, 16:04:15](https://lobste.rs/s/edgsyh/use_web_components_for_what_they_re_good_at) - [Use web components for what they’re good at](https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/)
 * [2023-08-23, 15:10:47](https://lobste.rs/s/skjtga/psa_add_dir_auto_your_inputs_textareas) - [PSA: Add dir=\"auto\" to your inputs and textareas](https://mough.xyz/312/psa-add-dir-auto-to-your-inputs-and-textareas)
-* [2023-08-23, 14:55:09](https://lobste.rs/s/gfsjgv/compiling_test_suite) - [Compiling a Test Suite](https://concerningquality.com/test-compilation/)
 * [2023-08-23, 13:47:48](https://lobste.rs/s/x7siga/costs_exposed_monorepo_vs_multirepo) - [Costs exposed: Monorepo vs. multirepo](https://jmmv.dev/2023/08/costs-exposed-monorepo-multirepo.html)
 * [2023-08-23, 13:47:31](https://lobste.rs/s/mkwany/some_rough_impressions_worldcoin) - [Some rough impressions of Worldcoin](https://blog.cryptographyengineering.com/2023/08/21/some-rough-impressions-of-worldcoin/)
 * [2023-08-23, 08:17:20](https://lobste.rs/s/ognae8/postgres_lock_conflicts) - [Postgres Lock Conflicts](https://pglocks.org/)
