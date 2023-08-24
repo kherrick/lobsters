@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-24, 16:48:59](https://lobste.rs/s/pgzpsc/microsoft_s_revocation_verisign_class_3) - [Microsoft's Revocation of the Verisign Class 3 Public Primary Certification Authority - G5 Root Certificate](https://airlockdigital.com/microsofts-revocation-of-the-verisign-class-3-public-primary-certification-authority-g5-root-certificate/)
 * [2023-08-24, 16:43:19](https://lobste.rs/s/5mbrob/bypassing_bitlocker_using_cheap_logic) - [Bypassing Bitlocker using a cheap logic analyzer on a Lenovo laptop](https://www.errno.fr/BypassingBitlocker.html)
 * [2023-08-24, 16:33:04](https://lobste.rs/s/sbkuqa/celebrating_daemontools) - [Celebrating Daemontools](https://journal.infinitenegativeutility.com/celebrating-daemontools)
 * [2023-08-24, 15:15:25](https://lobste.rs/s/p8ww7b/effective_programming_ocaml_2021) - [Effective Programming in OCaml (2021)](https://youtu.be/X28PFYvZ_V8?si=ydK0LqXJGarZSY--)
@@ -21,7 +22,6 @@
 * [2023-08-23, 15:10:47](https://lobste.rs/s/skjtga/psa_add_dir_auto_your_inputs_textareas) - [PSA: Add dir=\"auto\" to your inputs and textareas](https://mough.xyz/312/psa-add-dir-auto-to-your-inputs-and-textareas)
 * [2023-08-23, 13:47:48](https://lobste.rs/s/x7siga/costs_exposed_monorepo_vs_multirepo) - [Costs exposed: Monorepo vs. multirepo](https://jmmv.dev/2023/08/costs-exposed-monorepo-multirepo.html)
 * [2023-08-23, 13:47:31](https://lobste.rs/s/mkwany/some_rough_impressions_worldcoin) - [Some rough impressions of Worldcoin](https://blog.cryptographyengineering.com/2023/08/21/some-rough-impressions-of-worldcoin/)
-* [2023-08-23, 08:17:20](https://lobste.rs/s/ognae8/postgres_lock_conflicts) - [Postgres Lock Conflicts](https://pglocks.org/)
 * [2023-08-23, 08:16:52](https://lobste.rs/s/luqhok/programming_programmers_mean_different) - [\"Programming\" and \"Programmers\" Mean Different Things to Different People](https://tratt.net/laurie/blog/2023/programming_and_programmers_mean_different_things_to_different_people.html)
 * [2023-08-22, 22:25:15](https://lobste.rs/s/ao2x0v/no_one_actually_wants_simplicity) - [No one actually wants simplicity](https://lukeplant.me.uk/blog/posts/no-one-actually-wants-simplicity/)
 * [2023-08-22, 15:18:45](https://lobste.rs/s/vcxi59/first_conformant_m1_gpu_driver) - [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-24](index.md)
 
+* [2023-08-24, 16:48:59](https://lobste.rs/s/pgzpsc/microsoft_s_revocation_verisign_class_3) - [Microsoft's Revocation of the Verisign Class 3 Public Primary Certification Authority - G5 Root Certificate](https://airlockdigital.com/microsofts-revocation-of-the-verisign-class-3-public-primary-certification-authority-g5-root-certificate/)
 * [2023-08-24, 16:43:19](https://lobste.rs/s/5mbrob/bypassing_bitlocker_using_cheap_logic) - [Bypassing Bitlocker using a cheap logic analyzer on a Lenovo laptop](https://www.errno.fr/BypassingBitlocker.html)
 * [2023-08-24, 16:33:04](https://lobste.rs/s/sbkuqa/celebrating_daemontools) - [Celebrating Daemontools](https://journal.infinitenegativeutility.com/celebrating-daemontools)
 * [2023-08-24, 15:15:25](https://lobste.rs/s/p8ww7b/effective_programming_ocaml_2021) - [Effective Programming in OCaml (2021)](https://youtu.be/X28PFYvZ_V8?si=ydK0LqXJGarZSY--)
