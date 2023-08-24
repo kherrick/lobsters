@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-08-23, 05:56:58",
+      "https://lobste.rs/s/6jvssi/view_transitions_break_incremental"
+    ],
+    [
+      "View Transitions Break Incremental Rendering",
+      "https://ericportis.com/posts/2023/view-transitions-break-incremental-rendering/"
+    ]
+  ],
+  [
+    [
       "2023-08-23, 04:44:36",
       "https://lobste.rs/s/sqlldn/my_favorite_prime_number_generator"
     ],
@@ -207,16 +217,6 @@
     [
       "500 Byte Images: The Haiku Vector Icon Format",
       "https://blog.leahhanson.us/post/recursecenter2016/haiku_icons.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-22, 17:57:41",
-      "https://lobste.rs/s/lfkxmg/asyncio_twisted_tornado_gevent_walk_into"
-    ],
-    [
-      "Asyncio, twisted, tornado, gevent walk into a bar",
-      "https://www.bitecode.dev/p/asyncio-twisted-tornado-gevent-walk"
     ]
   ],
   [
