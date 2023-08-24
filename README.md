@@ -9,6 +9,7 @@
 * [2023-08-24, 16:48:59](https://lobste.rs/s/pgzpsc/microsoft_s_revocation_verisign_class_3) - [Microsoft's Revocation of the Verisign Class 3 Public Primary Certification Authority - G5 Root Certificate](https://airlockdigital.com/microsofts-revocation-of-the-verisign-class-3-public-primary-certification-authority-g5-root-certificate/)
 * [2023-08-24, 16:43:19](https://lobste.rs/s/5mbrob/bypassing_bitlocker_using_cheap_logic) - [Bypassing Bitlocker using a cheap logic analyzer on a Lenovo laptop](https://www.errno.fr/BypassingBitlocker.html)
 * [2023-08-24, 16:33:04](https://lobste.rs/s/sbkuqa/celebrating_daemontools) - [Celebrating Daemontools](https://journal.infinitenegativeutility.com/celebrating-daemontools)
+* [2023-08-24, 15:15:25](https://lobste.rs/s/p8ww7b/effective_programming_ocaml_2021) - [Effective Programming in OCaml (2021)](https://youtu.be/X28PFYvZ_V8?si=ydK0LqXJGarZSY--)
 * [2023-08-24, 15:10:05](https://lobste.rs/s/a58cnr/earning_privilege_work_on_unoriginal) - [Earning the privilege to work on unoriginal problems](https://landmines.substack.com/p/earning-the-privilege-to-work-on)
 * [2023-08-24, 13:16:38](https://lobste.rs/s/gkxg9p/leaving_haskell_behind) - [Leaving Haskell behind](https://journal.infinitenegativeutility.com/leaving-haskell-behind)
 * [2023-08-24, 11:19:27](https://lobste.rs/s/vb3vv7/tao_go) - [The Tao of Go](https://bitfieldconsulting.com/golang/tao-of-go)
@@ -24,7 +25,6 @@
 * [2023-08-23, 17:34:21](https://lobste.rs/s/prrrbn/adding_wi_fi_macintosh_portable) - [Adding Wi-Fi to the Macintosh Portable](https://jcs.org/2023/08/23/scsiwifi)
 * [2023-08-23, 16:04:15](https://lobste.rs/s/edgsyh/use_web_components_for_what_they_re_good_at) - [Use web components for what they’re good at](https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/)
 * [2023-08-23, 15:10:47](https://lobste.rs/s/skjtga/psa_add_dir_auto_your_inputs_textareas) - [PSA: Add dir=\"auto\" to your inputs and textareas](https://mough.xyz/312/psa-add-dir-auto-to-your-inputs-and-textareas)
-* [2023-08-23, 13:47:48](https://lobste.rs/s/x7siga/costs_exposed_monorepo_vs_multirepo) - [Costs exposed: Monorepo vs. multirepo](https://jmmv.dev/2023/08/costs-exposed-monorepo-multirepo.html)
 
 ## [Archives](archives/index.md)
 
