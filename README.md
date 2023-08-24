@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-24, 15:15:25](https://lobste.rs/s/p8ww7b/effective_programming_ocaml_2021) - [Effective Programming in OCaml (2021)](https://youtu.be/X28PFYvZ_V8?si=ydK0LqXJGarZSY--)
+* [2023-08-24, 15:10:05](https://lobste.rs/s/a58cnr/earning_privilege_work_on_unoriginal) - [Earning the privilege to work on unoriginal problems](https://landmines.substack.com/p/earning-the-privilege-to-work-on)
 * [2023-08-24, 13:16:38](https://lobste.rs/s/gkxg9p/leaving_haskell_behind) - [Leaving Haskell behind](https://journal.infinitenegativeutility.com/leaving-haskell-behind)
 * [2023-08-24, 11:19:27](https://lobste.rs/s/vb3vv7/tao_go) - [The Tao of Go](https://bitfieldconsulting.com/golang/tao-of-go)
 * [2023-08-24, 08:21:13](https://lobste.rs/s/ajarjp/freebsd_on_firecracker) - [FreeBSD on Firecracker](https://www.usenix.org/publications/loginonline/freebsd-firecracker)
@@ -22,9 +24,7 @@
 * [2023-08-23, 08:17:20](https://lobste.rs/s/ognae8/postgres_lock_conflicts) - [Postgres Lock Conflicts](https://pglocks.org/)
 * [2023-08-23, 08:16:52](https://lobste.rs/s/luqhok/programming_programmers_mean_different) - [\"Programming\" and \"Programmers\" Mean Different Things to Different People](https://tratt.net/laurie/blog/2023/programming_and_programmers_mean_different_things_to_different_people.html)
 * [2023-08-22, 22:25:15](https://lobste.rs/s/ao2x0v/no_one_actually_wants_simplicity) - [No one actually wants simplicity](https://lukeplant.me.uk/blog/posts/no-one-actually-wants-simplicity/)
-* [2023-08-22, 19:06:20](https://lobste.rs/s/rosce2/500_byte_images_haiku_vector_icon_format) - [500 Byte Images: The Haiku Vector Icon Format](https://blog.leahhanson.us/post/recursecenter2016/haiku_icons.html)
 * [2023-08-22, 15:18:45](https://lobste.rs/s/vcxi59/first_conformant_m1_gpu_driver) - [The first conformant M1 GPU driver](https://rosenzweig.io/blog/first-conformant-m1-gpu-driver.html)
-* [2023-08-22, 15:15:45](https://lobste.rs/s/rxp5oo/introducing_flakehub) - [Introducing FlakeHub](https://determinate.systems/posts/introducing-flakehub)
 
 ## [Archives](archives/index.md)
 

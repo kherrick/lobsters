@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-24](index.md)
 
+* [2023-08-24, 15:15:25](https://lobste.rs/s/p8ww7b/effective_programming_ocaml_2021) - [Effective Programming in OCaml (2021)](https://youtu.be/X28PFYvZ_V8?si=ydK0LqXJGarZSY--)
+* [2023-08-24, 15:10:05](https://lobste.rs/s/a58cnr/earning_privilege_work_on_unoriginal) - [Earning the privilege to work on unoriginal problems](https://landmines.substack.com/p/earning-the-privilege-to-work-on)
 * [2023-08-24, 13:16:38](https://lobste.rs/s/gkxg9p/leaving_haskell_behind) - [Leaving Haskell behind](https://journal.infinitenegativeutility.com/leaving-haskell-behind)
 * [2023-08-24, 11:19:27](https://lobste.rs/s/vb3vv7/tao_go) - [The Tao of Go](https://bitfieldconsulting.com/golang/tao-of-go)
 * [2023-08-24, 08:21:13](https://lobste.rs/s/ajarjp/freebsd_on_firecracker) - [FreeBSD on Firecracker](https://www.usenix.org/publications/loginonline/freebsd-firecracker)
