@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-24, 23:27:46](https://lobste.rs/s/qkpfes/announcing_rust_1_72_0) - [Announcing Rust 1.72.0](https://blog.rust-lang.org/2023/08/24/Rust-1.72.0.html)
 * [2023-08-24, 23:02:04](https://lobste.rs/s/sbjrkg/making_freebsd_quic) - [Making FreeBSD QUIC](https://www.youtube.com/watch?v=QEKyBr1LS3s)
 * [2023-08-24, 22:28:15](https://lobste.rs/s/sjsueq/philosophy_software_design_by_john) - [A philosophy of software design by John Ousterhout (summarized by Matt Duck)](https://www.mattduck.com/2021-04-a-philosophy-of-software-design.html)
 * [2023-08-24, 21:42:07](https://lobste.rs/s/ph7rnw/evaluating_algebraic_expressions_using) - [Evaluating Algebraic Expressions using Parser Combinators](https://blog.varunramesh.net/posts/algebraic-expressions-using-parser-combinators/)
@@ -9,7 +10,6 @@
 * [2023-08-24, 16:48:59](https://lobste.rs/s/pgzpsc/microsoft_s_revocation_verisign_class_3) - [Microsoft's Revocation of the Verisign Class 3 Public Primary Certification Authority - G5 Root Certificate](https://airlockdigital.com/microsofts-revocation-of-the-verisign-class-3-public-primary-certification-authority-g5-root-certificate/)
 * [2023-08-24, 16:43:19](https://lobste.rs/s/5mbrob/bypassing_bitlocker_using_cheap_logic) - [Bypassing Bitlocker using a cheap logic analyzer on a Lenovo laptop](https://www.errno.fr/BypassingBitlocker.html)
 * [2023-08-24, 16:33:04](https://lobste.rs/s/sbkuqa/celebrating_daemontools) - [Celebrating Daemontools](https://journal.infinitenegativeutility.com/celebrating-daemontools)
-* [2023-08-24, 15:15:25](https://lobste.rs/s/p8ww7b/effective_programming_ocaml_2021) - [Effective Programming in OCaml (2021)](https://youtu.be/X28PFYvZ_V8?si=ydK0LqXJGarZSY--)
 * [2023-08-24, 15:10:05](https://lobste.rs/s/a58cnr/earning_privilege_work_on_unoriginal) - [Earning the privilege to work on unoriginal problems](https://landmines.substack.com/p/earning-the-privilege-to-work-on)
 * [2023-08-24, 13:16:38](https://lobste.rs/s/gkxg9p/leaving_haskell_behind) - [Leaving Haskell behind](https://journal.infinitenegativeutility.com/leaving-haskell-behind)
 * [2023-08-24, 11:19:27](https://lobste.rs/s/vb3vv7/tao_go) - [The Tao of Go](https://bitfieldconsulting.com/golang/tao-of-go)
