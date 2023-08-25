@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-25, 17:47:57](https://lobste.rs/s/kxqjr2/inner_product_argument_ipa_polynomial) - [Inner Product Argument (IPA) and a Polynomial Commitment Scheme](https://blog.lambdaclass.com/ipa-and-a-polynomial-commitment-scheme/)
 * [2023-08-25, 17:35:17](https://lobste.rs/s/wpq2bc/one_year_after_launch_u_s_digital_service) - [One Year after the Launch of the U.S. Digital Service: What’s Changed?](https://www.youtube.com/watch?v=dLE2rdkdQT4)
 * [2023-08-25, 16:41:49](https://lobste.rs/s/dnueaw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dnueaw/what_are_you_doing_this_weekend)
 * [2023-08-25, 16:39:22](https://lobste.rs/s/fsboxy/np_hard_does_not_mean_easy) - [NP-hard does not mean easy](https://buttondown.email/j2kun/archive/np-hard-does-not-mean-easy/)
@@ -12,7 +13,6 @@
 * [2023-08-25, 12:35:18](https://lobste.rs/s/zqim8p/open_source_mobile_phone_based_on_esp32) - [An Open Source Mobile Phone Based On The ESP32](https://hackaday.com/2023/08/24/an-open-source-mobile-phone-based-on-the-esp32/)
 * [2023-08-25, 12:27:03](https://lobste.rs/s/scur3x/domain_repetition) - [Domain Repetition](https://iquilezles.org/articles/sdfrepetition/)
 * [2023-08-25, 11:58:49](https://lobste.rs/s/siaxu7/my_thoughts_on_ocaml_vs_haskell_rust_2023) - [My Thoughts on OCaml vs Haskell/Rust in 2023](https://github.com/sidkshatriya/me/blob/master/007-My-Thoughts-on-OCaml-vs-Haskell-Rust-2023.md)
-* [2023-08-25, 11:16:53](https://lobste.rs/s/obeccu/devicetree_overlays_on_zephyr_rtos) - [DeviceTree Overlays on Zephyr RTOS: Adding I2C or SPI](https://www.beyondlogic.org/devicetree-overlays-on-zephyr-rtos-adding-i2c-or-spi/)
 * [2023-08-25, 10:30:20](https://lobste.rs/s/wqfbjo/programming_as_theory_building) - [Programming as Theory Building](https://ratfactor.com/papers/naur1)
 * [2023-08-25, 09:12:51](https://lobste.rs/s/u4wnc0/rust_malware_staged_on_crates_io) - [Rust Malware Staged on Crates.io](https://blog.phylum.io/rust-malware-staged-on-crates-io/)
 * [2023-08-25, 08:40:47](https://lobste.rs/s/mplxf4/ghostty_devlog_003) - [Ghostty Devlog 003](https://mitchellh.com/writing/ghostty-devlog-003)
