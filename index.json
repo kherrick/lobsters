@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-25, 08:13:04",
+      "https://lobste.rs/s/aemohz/choosing_right_rust_web_framework"
+    ],
+    [
+      "Choosing the Right Rust Web Framework: An Overview",
+      "https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison"
+    ]
+  ],
+  [
+    [
+      "2023-08-25, 08:11:33",
+      "https://lobste.rs/s/6jtloj/chrome_extensions_security_research"
+    ],
+    [
+      "Chrome Extensions Security Research",
+      "https://ndevtk.github.io/writeups/2023/08/18/extensions/"
+    ]
+  ],
+  [
+    [
       "2023-08-25, 05:26:46",
       "https://lobste.rs/s/t3lvvf/evolution_gitea_downloads_site"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-08-24, 08:07:43",
-      "https://lobste.rs/s/d560iz/everything_you_never_wanted_know_about"
-    ],
-    [
-      "Everything you never wanted to know about Win32 environment blocks",
-      "https://nullprogram.com/blog/2023/08/23/"
-    ]
-  ],
-  [
-    [
       "2023-08-24, 06:49:47",
       "https://lobste.rs/s/h6bkmm/laziness_haskell_part_2_why_not_strict"
     ],
@@ -207,16 +217,6 @@
     [
       "Flipper 1.0.0",
       "https://www.johnnunemaker.com/flipper-1-0/"
-    ]
-  ],
-  [
-    [
-      "2023-08-23, 20:11:26",
-      "https://lobste.rs/s/izjizc/cve_2023_4273_vulnerability_linux_exfat"
-    ],
-    [
-      "CVE-2023-4273: a vulnerability in the Linux exFAT driver",
-      "https://dfir.ru/2023/08/23/cve-2023-4273-a-vulnerability-in-the-linux-exfat-driver/"
     ]
   ],
   [
