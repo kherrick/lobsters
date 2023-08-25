@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 11:16:53](https://lobste.rs/s/obeccu/devicetree_overlays_on_zephyr_rtos) - [DeviceTree Overlays on Zephyr RTOS: Adding I2C or SPI](https://www.beyondlogic.org/devicetree-overlays-on-zephyr-rtos-adding-i2c-or-spi/)
 * [2023-08-25, 10:30:20](https://lobste.rs/s/wqfbjo/programming_as_theory_building) - [Programming as Theory Building](https://ratfactor.com/papers/naur1)
 * [2023-08-25, 09:12:51](https://lobste.rs/s/u4wnc0/rust_malware_staged_on_crates_io) - [Rust Malware Staged on Crates.io](https://blog.phylum.io/rust-malware-staged-on-crates-io/)
 * [2023-08-25, 09:09:28](https://lobste.rs/s/av5p80/lecture_notes_for_quantum_computation_by) - [Lecture Notes for Quantum Computation by Peter Shor](https://math.mit.edu/~shor/435-LN/)
