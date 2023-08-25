@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-08-25, 09:12:51",
+      "https://lobste.rs/s/u4wnc0/rust_malware_staged_on_crates_io"
+    ],
+    [
+      "Rust Malware Staged on Crates.io",
+      "https://blog.phylum.io/rust-malware-staged-on-crates-io/"
+    ]
+  ],
+  [
+    [
+      "2023-08-25, 09:09:28",
+      "https://lobste.rs/s/av5p80/lecture_notes_for_quantum_computation_by"
+    ],
+    [
+      "Lecture Notes for Quantum Computation by Peter Shor",
+      "https://math.mit.edu/~shor/435-LN/"
+    ]
+  ],
+  [
+    [
+      "2023-08-25, 09:05:16",
+      "https://lobste.rs/s/mnutmu/code_llama_open_foundation_models_for"
+    ],
+    [
+      "Code Llama: Open Foundation Models for Code",
+      "https://ai.meta.com/research/publications/code-llama-open-foundation-models-for-code/"
+    ]
+  ],
+  [
+    [
       "2023-08-25, 08:40:47",
       "https://lobste.rs/s/mplxf4/ghostty_devlog_003"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2023-08-24, 16:48:59",
-      "https://lobste.rs/s/pgzpsc/microsoft_s_revocation_verisign_class_3"
-    ],
-    [
-      "Microsoft's Revocation of the Verisign Class 3 Public Primary Certification Authority - G5 Root Certificate",
-      "https://airlockdigital.com/microsofts-revocation-of-the-verisign-class-3-public-primary-certification-authority-g5-root-certificate/"
-    ]
-  ],
-  [
-    [
       "2023-08-24, 16:43:19",
       "https://lobste.rs/s/5mbrob/bypassing_bitlocker_using_cheap_logic"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-08-23, 20:12:29",
-      "https://lobste.rs/s/ewzxj9/flipper_1_0_0"
-    ],
-    [
-      "Flipper 1.0.0",
-      "https://www.johnnunemaker.com/flipper-1-0/"
-    ]
-  ],
-  [
-    [
       "2023-08-23, 18:24:03",
       "https://lobste.rs/s/zs5mut/hashicorp_terraform_opentf"
     ],
@@ -237,16 +247,6 @@
     [
       "Adding Wi-Fi to the Macintosh Portable",
       "https://jcs.org/2023/08/23/scsiwifi"
-    ]
-  ],
-  [
-    [
-      "2023-08-23, 15:10:47",
-      "https://lobste.rs/s/skjtga/psa_add_dir_auto_your_inputs_textareas"
-    ],
-    [
-      "PSA: Add dir=\"auto\" to your inputs and textareas",
-      "https://mough.xyz/312/psa-add-dir-auto-to-your-inputs-and-textareas"
     ]
   ]
 ]
