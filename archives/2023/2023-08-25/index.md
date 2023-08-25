@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 09:12:51](https://lobste.rs/s/u4wnc0/rust_malware_staged_on_crates_io) - [Rust Malware Staged on Crates.io](https://blog.phylum.io/rust-malware-staged-on-crates-io/)
+* [2023-08-25, 09:09:28](https://lobste.rs/s/av5p80/lecture_notes_for_quantum_computation_by) - [Lecture Notes for Quantum Computation by Peter Shor](https://math.mit.edu/~shor/435-LN/)
+* [2023-08-25, 09:05:16](https://lobste.rs/s/mnutmu/code_llama_open_foundation_models_for) - [Code Llama: Open Foundation Models for Code](https://ai.meta.com/research/publications/code-llama-open-foundation-models-for-code/)
 * [2023-08-25, 08:40:47](https://lobste.rs/s/mplxf4/ghostty_devlog_003) - [Ghostty Devlog 003](https://mitchellh.com/writing/ghostty-devlog-003)
 * [2023-08-25, 08:13:04](https://lobste.rs/s/aemohz/choosing_right_rust_web_framework) - [Choosing the Right Rust Web Framework: An Overview](https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison)
 * [2023-08-25, 08:11:33](https://lobste.rs/s/6jtloj/chrome_extensions_security_research) - [Chrome Extensions Security Research](https://ndevtk.github.io/writeups/2023/08/18/extensions/)
