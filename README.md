@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-25, 18:20:23](https://lobste.rs/s/nko721/how_speed_up_rust_compiler_august_2023) - [How to speed up the Rust compiler in August 2023](https://nnethercote.github.io/2023/08/25/how-to-speed-up-the-rust-compiler-in-august-2023.html)
+* [2023-08-25, 18:19:44](https://lobste.rs/s/x7ernk/vintage_byte_magazine_library) - [Vintage Byte Magazine Library](https://vintageapple.org/byte/)
 * [2023-08-25, 17:47:57](https://lobste.rs/s/kxqjr2/inner_product_argument_ipa_polynomial) - [Inner Product Argument (IPA) and a Polynomial Commitment Scheme](https://blog.lambdaclass.com/ipa-and-a-polynomial-commitment-scheme/)
-* [2023-08-25, 17:35:17](https://lobste.rs/s/wpq2bc/one_year_after_launch_u_s_digital_service) - [One Year after the Launch of the U.S. Digital Service: What’s Changed?](https://www.youtube.com/watch?v=dLE2rdkdQT4)
-* [2023-08-25, 16:41:49](https://lobste.rs/s/dnueaw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dnueaw/what_are_you_doing_this_weekend)
+* [2023-08-25, 17:35:17](https://lobste.rs/s/wpq2bc/one_year_after_launch_u_s_digital_service) - [One Year after the Launch of the U.S. Digital Service: What’s Changed? (2015)](https://www.youtube.com/watch?v=dLE2rdkdQT4)
 * [2023-08-25, 16:39:22](https://lobste.rs/s/fsboxy/np_hard_does_not_mean_easy) - [NP-hard does not mean easy](https://buttondown.email/j2kun/archive/np-hard-does-not-mean-easy/)
 * [2023-08-25, 16:30:06](https://lobste.rs/s/2io3xa/why_htmx_does_not_have_build_step) - [Why htmx Does Not Have a Build Step](https://htmx.org/essays/no-build-step/)
 * [2023-08-25, 15:32:19](https://lobste.rs/s/pvfbpm/opentf_announces_fork_terraform) - [OpenTF Announces Fork of Terraform](https://opentf.org/announcement)
@@ -10,9 +11,9 @@
 * [2023-08-25, 14:56:48](https://lobste.rs/s/p9vsw4/ubuntu_desktop_charting_course_for) - [Ubuntu Desktop: charting a course for the future](https://ubuntu.com//blog/ubuntu-desktop-charting-a-course-for-the-future)
 * [2023-08-25, 14:41:06](https://lobste.rs/s/8gxlj9/implementing_interactive_languages) - [Implementing interactive languages](https://www.scattered-thoughts.net/writing/implementing-interactive-languages/)
 * [2023-08-25, 13:18:56](https://lobste.rs/s/p2ywse/tetra_tour_de_force_jailbreaking_digital) - [TETRA Tour de force: Jailbreaking digital radios and base stations for fun and secrets](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20presentations/Carlo%20Meijer%20Wouter%20Bokslag%20Jos%20Wetzels%20-%20TETRA%20Tour%20de%20Force%20Jailbreaking%20Digital%20Radios%20and%20Base%20Stations%20for%20Fun%20and%20Secrets.pdf)
-* [2023-08-25, 12:35:18](https://lobste.rs/s/zqim8p/open_source_mobile_phone_based_on_esp32) - [An Open Source Mobile Phone Based On The ESP32](https://hackaday.com/2023/08/24/an-open-source-mobile-phone-based-on-the-esp32/)
 * [2023-08-25, 12:27:03](https://lobste.rs/s/scur3x/domain_repetition) - [Domain Repetition](https://iquilezles.org/articles/sdfrepetition/)
 * [2023-08-25, 11:58:49](https://lobste.rs/s/siaxu7/my_thoughts_on_ocaml_vs_haskell_rust_2023) - [My Thoughts on OCaml vs Haskell/Rust in 2023](https://github.com/sidkshatriya/me/blob/master/007-My-Thoughts-on-OCaml-vs-Haskell-Rust-2023.md)
+* [2023-08-25, 11:16:53](https://lobste.rs/s/obeccu/devicetree_overlays_on_zephyr_rtos) - [DeviceTree Overlays on Zephyr RTOS: Adding I2C or SPI](https://www.beyondlogic.org/devicetree-overlays-on-zephyr-rtos-adding-i2c-or-spi/)
 * [2023-08-25, 10:30:20](https://lobste.rs/s/wqfbjo/programming_as_theory_building) - [Programming as Theory Building](https://ratfactor.com/papers/naur1)
 * [2023-08-25, 09:12:51](https://lobste.rs/s/u4wnc0/rust_malware_staged_on_crates_io) - [Rust Malware Staged on Crates.io](https://blog.phylum.io/rust-malware-staged-on-crates-io/)
 * [2023-08-25, 08:40:47](https://lobste.rs/s/mplxf4/ghostty_devlog_003) - [Ghostty Devlog 003](https://mitchellh.com/writing/ghostty-devlog-003)
@@ -24,7 +25,6 @@
 * [2023-08-24, 17:00:03](https://lobste.rs/s/zcj8vy/factor_0_99_now_available) - [Factor 0.99 now available](https://re.factorcode.org/2023/08/factor-0-99-now-available.html)
 * [2023-08-24, 16:33:04](https://lobste.rs/s/sbkuqa/celebrating_daemontools_2015) - [Celebrating Daemontools (2015)](https://journal.infinitenegativeutility.com/celebrating-daemontools)
 * [2023-08-24, 13:16:38](https://lobste.rs/s/gkxg9p/leaving_haskell_behind) - [Leaving Haskell behind](https://journal.infinitenegativeutility.com/leaving-haskell-behind)
-* [2023-08-24, 06:30:50](https://lobste.rs/s/kaxcd8/print_lol_doubled_speed_my_go_function) - [print(“lol”) doubled the speed of my Go function](https://medium.com/@ludirehak/printing-lol-doubled-the-speed-of-my-go-code-e32e02fc3f92)
 
 ## [Archives](archives/index.md)
 

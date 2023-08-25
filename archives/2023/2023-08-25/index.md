@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 18:20:23](https://lobste.rs/s/nko721/how_speed_up_rust_compiler_august_2023) - [How to speed up the Rust compiler in August 2023](https://nnethercote.github.io/2023/08/25/how-to-speed-up-the-rust-compiler-in-august-2023.html)
+* [2023-08-25, 18:19:44](https://lobste.rs/s/x7ernk/vintage_byte_magazine_library) - [Vintage Byte Magazine Library](https://vintageapple.org/byte/)
 * [2023-08-25, 17:47:57](https://lobste.rs/s/kxqjr2/inner_product_argument_ipa_polynomial) - [Inner Product Argument (IPA) and a Polynomial Commitment Scheme](https://blog.lambdaclass.com/ipa-and-a-polynomial-commitment-scheme/)
 * [2023-08-25, 17:35:17](https://lobste.rs/s/wpq2bc/one_year_after_launch_u_s_digital_service) - [One Year after the Launch of the U.S. Digital Service: What’s Changed?](https://www.youtube.com/watch?v=dLE2rdkdQT4)
 * [2023-08-25, 16:41:49](https://lobste.rs/s/dnueaw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dnueaw/what_are_you_doing_this_weekend)
