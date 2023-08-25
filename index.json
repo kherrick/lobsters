@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-08-25, 19:08:28",
-      "https://lobste.rs/s/tppnyr/friday_facts_373_factorio_space_age"
-    ],
-    [
-      "Friday Facts #373 - Factorio: Space Age",
-      "https://factorio.com/blog/post/fff-373"
-    ]
-  ],
-  [
-    [
       "2023-08-25, 19:01:52",
       "https://lobste.rs/s/do04rg/python_security_response_team_handling"
     ],
@@ -197,6 +187,16 @@
     [
       "Choosing the Right Rust Web Framework: An Overview",
       "https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison"
+    ]
+  ],
+  [
+    [
+      "2023-08-25, 08:11:33",
+      "https://lobste.rs/s/6jtloj/chrome_extensions_security_research"
+    ],
+    [
+      "Chrome Extensions Security Research",
+      "https://ndevtk.github.io/writeups/2023/08/18/extensions/"
     ]
   ],
   [
