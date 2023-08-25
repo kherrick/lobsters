@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-25, 17:35:17](https://lobste.rs/s/wpq2bc/one_year_after_launch_u_s_digital_service) - [One Year after the Launch of the U.S. Digital Service: What’s Changed?](https://www.youtube.com/watch?v=dLE2rdkdQT4)
 * [2023-08-25, 16:41:49](https://lobste.rs/s/dnueaw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dnueaw/what_are_you_doing_this_weekend)
 * [2023-08-25, 16:39:22](https://lobste.rs/s/fsboxy/np_hard_does_not_mean_easy) - [NP-hard does not mean easy](https://buttondown.email/j2kun/archive/np-hard-does-not-mean-easy/)
 * [2023-08-25, 16:30:06](https://lobste.rs/s/2io3xa/why_htmx_does_not_have_build_step) - [Why htmx Does Not Have a Build Step](https://htmx.org/essays/no-build-step/)
@@ -21,7 +22,6 @@
 * [2023-08-24, 23:27:46](https://lobste.rs/s/qkpfes/announcing_rust_1_72_0) - [Announcing Rust 1.72.0](https://blog.rust-lang.org/2023/08/24/Rust-1.72.0.html)
 * [2023-08-24, 22:28:15](https://lobste.rs/s/sjsueq/philosophy_software_design_summarized) - [\"A philosophy of software design\" summarized](https://www.mattduck.com/2021-04-a-philosophy-of-software-design.html)
 * [2023-08-24, 17:00:03](https://lobste.rs/s/zcj8vy/factor_0_99_now_available) - [Factor 0.99 now available](https://re.factorcode.org/2023/08/factor-0-99-now-available.html)
-* [2023-08-24, 16:43:19](https://lobste.rs/s/5mbrob/bypassing_bitlocker_using_cheap_logic) - [Bypassing Bitlocker using a cheap logic analyzer on a Lenovo laptop](https://www.errno.fr/BypassingBitlocker.html)
 * [2023-08-24, 16:33:04](https://lobste.rs/s/sbkuqa/celebrating_daemontools_2015) - [Celebrating Daemontools (2015)](https://journal.infinitenegativeutility.com/celebrating-daemontools)
 * [2023-08-24, 13:16:38](https://lobste.rs/s/gkxg9p/leaving_haskell_behind) - [Leaving Haskell behind](https://journal.infinitenegativeutility.com/leaving-haskell-behind)
 * [2023-08-24, 06:30:50](https://lobste.rs/s/kaxcd8/print_lol_doubled_speed_my_go_function) - [print(“lol”) doubled the speed of my Go function](https://medium.com/@ludirehak/printing-lol-doubled-the-speed-of-my-go-code-e32e02fc3f92)
