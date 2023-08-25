@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 15:32:19](https://lobste.rs/s/pvfbpm/opentf_announces_fork_terraform) - [OpenTF Announces Fork of Terraform](https://opentf.org/announcement)
 * [2023-08-25, 15:04:56](https://lobste.rs/s/0p8emp/introduction_decentralized_identity) - [An introduction to Decentralized Identity](https://cendyne.dev/posts/2023-08-25-attacking-decentralized-identity.html)
 * [2023-08-25, 14:56:48](https://lobste.rs/s/p9vsw4/ubuntu_desktop_charting_course_for) - [Ubuntu Desktop: charting a course for the future](https://ubuntu.com//blog/ubuntu-desktop-charting-a-course-for-the-future)
 * [2023-08-25, 14:41:06](https://lobste.rs/s/8gxlj9/implementing_interactive_languages) - [Implementing interactive languages](https://www.scattered-thoughts.net/writing/implementing-interactive-languages/)
