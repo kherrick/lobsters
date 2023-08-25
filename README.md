@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-25, 19:01:52](https://lobste.rs/s/do04rg/python_security_response_team_handling) - [Python Security Response Team handling of CVE-2023-40217](https://sethmlarson.dev/security-developer-in-residence-weekly-report-8)
 * [2023-08-25, 18:20:23](https://lobste.rs/s/nko721/how_speed_up_rust_compiler_august_2023) - [How to speed up the Rust compiler in August 2023](https://nnethercote.github.io/2023/08/25/how-to-speed-up-the-rust-compiler-in-august-2023.html)
 * [2023-08-25, 18:19:44](https://lobste.rs/s/x7ernk/vintage_byte_magazine_library) - [Vintage Byte Magazine Library](https://vintageapple.org/byte/)
 * [2023-08-25, 17:47:57](https://lobste.rs/s/kxqjr2/inner_product_argument_ipa_polynomial) - [Inner Product Argument (IPA) and a Polynomial Commitment Scheme](https://blog.lambdaclass.com/ipa-and-a-polynomial-commitment-scheme/)
@@ -18,7 +19,6 @@
 * [2023-08-25, 09:12:51](https://lobste.rs/s/u4wnc0/rust_malware_staged_on_crates_io) - [Rust Malware Staged on Crates.io](https://blog.phylum.io/rust-malware-staged-on-crates-io/)
 * [2023-08-25, 08:40:47](https://lobste.rs/s/mplxf4/ghostty_devlog_003) - [Ghostty Devlog 003](https://mitchellh.com/writing/ghostty-devlog-003)
 * [2023-08-25, 08:13:04](https://lobste.rs/s/aemohz/choosing_right_rust_web_framework) - [Choosing the Right Rust Web Framework: An Overview](https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison)
-* [2023-08-25, 08:11:33](https://lobste.rs/s/6jtloj/chrome_extensions_security_research) - [Chrome Extensions Security Research](https://ndevtk.github.io/writeups/2023/08/18/extensions/)
 * [2023-08-24, 23:59:38](https://lobste.rs/s/xaj9bz/what_s_your_braindump_second_brain) - [What's your braindump/second-brain workflow and which devices do you use for it?](https://lobste.rs/s/xaj9bz/what_s_your_braindump_second_brain)
 * [2023-08-24, 23:27:46](https://lobste.rs/s/qkpfes/announcing_rust_1_72_0) - [Announcing Rust 1.72.0](https://blog.rust-lang.org/2023/08/24/Rust-1.72.0.html)
 * [2023-08-24, 22:28:15](https://lobste.rs/s/sjsueq/philosophy_software_design_summarized) - [\"A philosophy of software design\" summarized](https://www.mattduck.com/2021-04-a-philosophy-of-software-design.html)
