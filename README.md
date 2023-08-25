@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-25, 16:41:49](https://lobste.rs/s/dnueaw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dnueaw/what_are_you_doing_this_weekend)
+* [2023-08-25, 16:39:22](https://lobste.rs/s/fsboxy/np_hard_does_not_mean_easy) - [NP-hard does not mean easy](https://buttondown.email/j2kun/archive/np-hard-does-not-mean-easy/)
 * [2023-08-25, 16:30:06](https://lobste.rs/s/2io3xa/why_htmx_does_not_have_build_step) - [Why htmx Does Not Have a Build Step](https://htmx.org/essays/no-build-step/)
 * [2023-08-25, 15:32:19](https://lobste.rs/s/pvfbpm/opentf_announces_fork_terraform) - [OpenTF Announces Fork of Terraform](https://opentf.org/announcement)
 * [2023-08-25, 15:04:56](https://lobste.rs/s/0p8emp/introduction_decentralized_identity) - [An introduction to Decentralized Identity](https://cendyne.dev/posts/2023-08-25-attacking-decentralized-identity.html)
@@ -15,10 +17,8 @@
 * [2023-08-25, 08:40:47](https://lobste.rs/s/mplxf4/ghostty_devlog_003) - [Ghostty Devlog 003](https://mitchellh.com/writing/ghostty-devlog-003)
 * [2023-08-25, 08:13:04](https://lobste.rs/s/aemohz/choosing_right_rust_web_framework) - [Choosing the Right Rust Web Framework: An Overview](https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison)
 * [2023-08-25, 08:11:33](https://lobste.rs/s/6jtloj/chrome_extensions_security_research) - [Chrome Extensions Security Research](https://ndevtk.github.io/writeups/2023/08/18/extensions/)
-* [2023-08-25, 04:02:08](https://lobste.rs/s/zrote4/foreach_derp_with_csh) - [Foreach derp with Csh](http://blog.syncpup.com/posts/foreach-derp-with-csh.html)
 * [2023-08-24, 23:59:38](https://lobste.rs/s/xaj9bz/what_s_your_braindump_second_brain) - [What's your braindump/second-brain workflow and which devices do you use for it?](https://lobste.rs/s/xaj9bz/what_s_your_braindump_second_brain)
 * [2023-08-24, 23:27:46](https://lobste.rs/s/qkpfes/announcing_rust_1_72_0) - [Announcing Rust 1.72.0](https://blog.rust-lang.org/2023/08/24/Rust-1.72.0.html)
-* [2023-08-24, 23:02:04](https://lobste.rs/s/sbjrkg/making_freebsd_quic) - [Making FreeBSD QUIC](https://www.youtube.com/watch?v=QEKyBr1LS3s)
 * [2023-08-24, 22:28:15](https://lobste.rs/s/sjsueq/philosophy_software_design_summarized) - [\"A philosophy of software design\" summarized](https://www.mattduck.com/2021-04-a-philosophy-of-software-design.html)
 * [2023-08-24, 17:00:03](https://lobste.rs/s/zcj8vy/factor_0_99_now_available) - [Factor 0.99 now available](https://re.factorcode.org/2023/08/factor-0-99-now-available.html)
 * [2023-08-24, 16:43:19](https://lobste.rs/s/5mbrob/bypassing_bitlocker_using_cheap_logic) - [Bypassing Bitlocker using a cheap logic analyzer on a Lenovo laptop](https://www.errno.fr/BypassingBitlocker.html)
