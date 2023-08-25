@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 21:58:25](https://lobste.rs/s/i2r9hg/casio_caleid_xm_700_mobile_navigator_1997) - [Casio CALEID XM-700 Mobile Navigator (1997)](https://blog.gingerbeardman.com/2023/08/25/casio-caleid-xm700-mobile-navigator-hardware/)
 * [2023-08-25, 19:08:28](https://lobste.rs/s/tppnyr/friday_facts_373_factorio_space_age) - [Friday Facts #373 - Factorio: Space Age](https://factorio.com/blog/post/fff-373)
 * [2023-08-25, 19:01:52](https://lobste.rs/s/do04rg/python_security_response_team_handling) - [Python Security Response Team handling of CVE-2023-40217](https://sethmlarson.dev/security-developer-in-residence-weekly-report-8)
 * [2023-08-25, 18:20:23](https://lobste.rs/s/nko721/how_speed_up_rust_compiler_august_2023) - [How to speed up the Rust compiler in August 2023](https://nnethercote.github.io/2023/08/25/how-to-speed-up-the-rust-compiler-in-august-2023.html)

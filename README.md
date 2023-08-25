@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-25, 21:58:25](https://lobste.rs/s/i2r9hg/casio_caleid_xm_700_mobile_navigator_1997) - [Casio CALEID XM-700 Mobile Navigator (1997)](https://blog.gingerbeardman.com/2023/08/25/casio-caleid-xm700-mobile-navigator-hardware/)
 * [2023-08-25, 19:01:52](https://lobste.rs/s/do04rg/python_security_response_team_handling) - [Python Security Response Team handling of CVE-2023-40217](https://sethmlarson.dev/security-developer-in-residence-weekly-report-8)
 * [2023-08-25, 18:20:23](https://lobste.rs/s/nko721/how_speed_up_rust_compiler_august_2023) - [How to speed up the Rust compiler in August 2023](https://nnethercote.github.io/2023/08/25/how-to-speed-up-the-rust-compiler-in-august-2023.html)
 * [2023-08-25, 18:19:44](https://lobste.rs/s/x7ernk/vintage_byte_magazine_library) - [Vintage Byte Magazine Library](https://vintageapple.org/byte/)
@@ -8,7 +9,6 @@
 * [2023-08-25, 16:41:49](https://lobste.rs/s/dnueaw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dnueaw/what_are_you_doing_this_weekend)
 * [2023-08-25, 16:39:22](https://lobste.rs/s/fsboxy/np_hard_does_not_mean_easy) - [NP-hard does not mean easy](https://buttondown.email/j2kun/archive/np-hard-does-not-mean-easy/)
 * [2023-08-25, 16:30:06](https://lobste.rs/s/2io3xa/why_htmx_does_not_have_build_step) - [Why htmx Does Not Have a Build Step](https://htmx.org/essays/no-build-step/)
-* [2023-08-25, 16:14:23](https://lobste.rs/s/cystnd/revitalizing_stalled_open_source) - [Revitalizing stalled open source projects](https://kurtmckee.org/2023/08/revitalizing-stalled-open-source-projects/)
 * [2023-08-25, 15:04:56](https://lobste.rs/s/0p8emp/introduction_decentralized_identity) - [An introduction to Decentralized Identity](https://cendyne.dev/posts/2023-08-25-attacking-decentralized-identity.html)
 * [2023-08-25, 14:56:48](https://lobste.rs/s/p9vsw4/ubuntu_desktop_charting_course_for) - [Ubuntu Desktop: charting a course for the future](https://ubuntu.com//blog/ubuntu-desktop-charting-a-course-for-the-future)
 * [2023-08-25, 14:41:06](https://lobste.rs/s/8gxlj9/implementing_interactive_languages) - [Implementing interactive languages](https://www.scattered-thoughts.net/writing/implementing-interactive-languages/)
