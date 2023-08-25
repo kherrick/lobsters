@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 22:26:44](https://lobste.rs/s/t4gyd5/why_are_computability_problems_always) - [Why are computability problems always written in full caps?](https://cs.stackexchange.com/questions/161731/why-are-computability-problems-always-written-in-full-caps)
 * [2023-08-25, 21:58:25](https://lobste.rs/s/i2r9hg/casio_caleid_xm_700_mobile_navigator_1997) - [Casio CALEID XM-700 Mobile Navigator (1997)](https://blog.gingerbeardman.com/2023/08/25/casio-caleid-xm700-mobile-navigator-hardware/)
 * [2023-08-25, 19:08:28](https://lobste.rs/s/tppnyr/friday_facts_373_factorio_space_age) - [Friday Facts #373 - Factorio: Space Age](https://factorio.com/blog/post/fff-373)
 * [2023-08-25, 19:01:52](https://lobste.rs/s/do04rg/python_security_response_team_handling) - [Python Security Response Team handling of CVE-2023-40217](https://sethmlarson.dev/security-developer-in-residence-weekly-report-8)
