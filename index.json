@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2023-08-23, 20:11:26",
+      "https://lobste.rs/s/izjizc/cve_2023_4273_vulnerability_linux_exfat"
+    ],
+    [
+      "CVE-2023-4273: a vulnerability in the Linux exFAT driver",
+      "https://dfir.ru/2023/08/23/cve-2023-4273-a-vulnerability-in-the-linux-exfat-driver/"
+    ]
+  ],
+  [
+    [
       "2023-08-23, 18:24:03",
       "https://lobste.rs/s/zs5mut/hashicorp_terraform_opentf"
     ],
@@ -227,16 +237,6 @@
     [
       "Adding Wi-Fi to the Macintosh Portable",
       "https://jcs.org/2023/08/23/scsiwifi"
-    ]
-  ],
-  [
-    [
-      "2023-08-23, 16:04:15",
-      "https://lobste.rs/s/edgsyh/use_web_components_for_what_they_re_good_at"
-    ],
-    [
-      "Use web components for what they’re good at",
-      "https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/"
     ]
   ],
   [
