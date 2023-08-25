@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-25, 10:30:20](https://lobste.rs/s/wqfbjo/programming_as_theory_building) - [Programming as Theory Building](https://ratfactor.com/papers/naur1)
 * [2023-08-25, 09:12:51](https://lobste.rs/s/u4wnc0/rust_malware_staged_on_crates_io) - [Rust Malware Staged on Crates.io](https://blog.phylum.io/rust-malware-staged-on-crates-io/)
 * [2023-08-25, 09:09:28](https://lobste.rs/s/av5p80/lecture_notes_for_quantum_computation_by) - [Lecture Notes for Quantum Computation by Peter Shor](https://math.mit.edu/~shor/435-LN/)
 * [2023-08-25, 09:05:16](https://lobste.rs/s/mnutmu/code_llama_open_foundation_models_for) - [Code Llama: Open Foundation Models for Code](https://ai.meta.com/research/publications/code-llama-open-foundation-models-for-code/)
@@ -23,7 +24,6 @@
 * [2023-08-24, 11:19:27](https://lobste.rs/s/vb3vv7/tao_go) - [The Tao of Go](https://bitfieldconsulting.com/golang/tao-of-go)
 * [2023-08-24, 08:21:13](https://lobste.rs/s/ajarjp/freebsd_on_firecracker) - [FreeBSD on Firecracker](https://www.usenix.org/publications/loginonline/freebsd-firecracker)
 * [2023-08-24, 06:30:50](https://lobste.rs/s/kaxcd8/print_lol_doubled_speed_my_go_function) - [print(“lol”) doubled the speed of my Go function](https://medium.com/@ludirehak/printing-lol-doubled-the-speed-of-my-go-code-e32e02fc3f92)
-* [2023-08-23, 18:24:03](https://lobste.rs/s/zs5mut/hashicorp_terraform_opentf) - [HashiCorp, Terraform, and OpenTF](https://lwn.net/SubscriberLink/942346/014f407d03f4cd03/)
 * [2023-08-23, 17:34:21](https://lobste.rs/s/prrrbn/adding_wi_fi_macintosh_portable) - [Adding Wi-Fi to the Macintosh Portable](https://jcs.org/2023/08/23/scsiwifi)
 
 ## [Archives](archives/index.md)

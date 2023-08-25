@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 10:30:20](https://lobste.rs/s/wqfbjo/programming_as_theory_building) - [Programming as Theory Building](https://ratfactor.com/papers/naur1)
 * [2023-08-25, 09:12:51](https://lobste.rs/s/u4wnc0/rust_malware_staged_on_crates_io) - [Rust Malware Staged on Crates.io](https://blog.phylum.io/rust-malware-staged-on-crates-io/)
 * [2023-08-25, 09:09:28](https://lobste.rs/s/av5p80/lecture_notes_for_quantum_computation_by) - [Lecture Notes for Quantum Computation by Peter Shor](https://math.mit.edu/~shor/435-LN/)
 * [2023-08-25, 09:05:16](https://lobste.rs/s/mnutmu/code_llama_open_foundation_models_for) - [Code Llama: Open Foundation Models for Code](https://ai.meta.com/research/publications/code-llama-open-foundation-models-for-code/)
