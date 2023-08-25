@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-25, 23:15:40](https://lobste.rs/s/f5i87t/cve_2020_19909_is_everything_is_wrong_with) - [CVE-2020-19909 is everything that is wrong with CVEs](https://daniel.haxx.se/blog/2023/08/26/cve-2020-19909-is-everything-that-is-wrong-with-cves/)
 * [2023-08-25, 22:51:28](https://lobste.rs/s/pzslm9/fuckstalkerware_pt_3_ownspy_got_well) - [#FuckStalkerware pt. 3 - ownspy got, well, owned](https://maia.crimew.gay/posts/fuckstalkerware-3/)
 * [2023-08-25, 22:26:44](https://lobste.rs/s/t4gyd5/why_are_computability_problems_always) - [Why are computability problems always written in full caps?](https://cs.stackexchange.com/questions/161731/why-are-computability-problems-always-written-in-full-caps)
 * [2023-08-25, 21:58:25](https://lobste.rs/s/i2r9hg/casio_caleid_xm_700_mobile_navigator_1997) - [Casio CALEID XM-700 Mobile Navigator (1997)](https://blog.gingerbeardman.com/2023/08/25/casio-caleid-xm700-mobile-navigator-hardware/)
@@ -21,7 +22,6 @@
 * [2023-08-25, 08:40:47](https://lobste.rs/s/mplxf4/ghostty_devlog_003) - [Ghostty Devlog 003](https://mitchellh.com/writing/ghostty-devlog-003)
 * [2023-08-25, 08:13:04](https://lobste.rs/s/aemohz/choosing_right_rust_web_framework) - [Choosing the Right Rust Web Framework: An Overview](https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison)
 * [2023-08-24, 23:59:38](https://lobste.rs/s/xaj9bz/what_s_your_braindump_second_brain) - [What's your braindump/second-brain workflow and which devices do you use for it?](https://lobste.rs/s/xaj9bz/what_s_your_braindump_second_brain)
-* [2023-08-24, 23:27:46](https://lobste.rs/s/qkpfes/announcing_rust_1_72_0) - [Announcing Rust 1.72.0](https://blog.rust-lang.org/2023/08/24/Rust-1.72.0.html)
 * [2023-08-24, 17:00:03](https://lobste.rs/s/zcj8vy/factor_0_99_now_available) - [Factor 0.99 now available](https://re.factorcode.org/2023/08/factor-0-99-now-available.html)
 * [2023-08-24, 16:33:04](https://lobste.rs/s/sbkuqa/celebrating_daemontools_2015) - [Celebrating Daemontools (2015)](https://journal.infinitenegativeutility.com/celebrating-daemontools)
 * [2023-08-24, 13:16:38](https://lobste.rs/s/gkxg9p/leaving_haskell_behind) - [Leaving Haskell behind](https://journal.infinitenegativeutility.com/leaving-haskell-behind)
