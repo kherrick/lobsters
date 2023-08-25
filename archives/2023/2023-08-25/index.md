@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 13:18:56](https://lobste.rs/s/p2ywse/tetra_tour_de_force_jailbreaking_digital) - [TETRA Tour de force: Jailbreaking digital radios and base stations for fun and secrets](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20presentations/Carlo%20Meijer%20Wouter%20Bokslag%20Jos%20Wetzels%20-%20TETRA%20Tour%20de%20Force%20Jailbreaking%20Digital%20Radios%20and%20Base%20Stations%20for%20Fun%20and%20Secrets.pdf)
 * [2023-08-25, 12:35:18](https://lobste.rs/s/zqim8p/open_source_mobile_phone_based_on_esp32) - [An Open Source Mobile Phone Based On The ESP32](https://hackaday.com/2023/08/24/an-open-source-mobile-phone-based-on-the-esp32/)
 * [2023-08-25, 12:27:03](https://lobste.rs/s/scur3x/domain_repetition) - [Domain Repetition](https://iquilezles.org/articles/sdfrepetition/)
 * [2023-08-25, 11:58:49](https://lobste.rs/s/siaxu7/my_thoughts_on_ocaml_vs_haskell_rust_2023) - [My Thoughts on OCaml vs Haskell/Rust in 2023](https://github.com/sidkshatriya/me/blob/master/007-My-Thoughts-on-OCaml-vs-Haskell-Rust-2023.md)
