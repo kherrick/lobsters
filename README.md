@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-25, 04:02:08](https://lobste.rs/s/zrote4/foreach_derp_with_csh) - [Foreach derp with Csh](http://blog.syncpup.com/posts/foreach-derp-with-csh.html)
 * [2023-08-24, 23:59:38](https://lobste.rs/s/xaj9bz/what_s_your_braindump_second_brain) - [What's your braindump/second-brain workflow and which devices do you use for it?](https://lobste.rs/s/xaj9bz/what_s_your_braindump_second_brain)
 * [2023-08-24, 23:27:46](https://lobste.rs/s/qkpfes/announcing_rust_1_72_0) - [Announcing Rust 1.72.0](https://blog.rust-lang.org/2023/08/24/Rust-1.72.0.html)
 * [2023-08-24, 23:02:04](https://lobste.rs/s/sbjrkg/making_freebsd_quic) - [Making FreeBSD QUIC](https://www.youtube.com/watch?v=QEKyBr1LS3s)
@@ -20,7 +21,6 @@
 * [2023-08-24, 06:30:50](https://lobste.rs/s/kaxcd8/print_lol_doubled_speed_my_go_function) - [print(“lol”) doubled the speed of my Go function](https://medium.com/@ludirehak/printing-lol-doubled-the-speed-of-my-go-code-e32e02fc3f92)
 * [2023-08-23, 20:12:29](https://lobste.rs/s/ewzxj9/flipper_1_0_0) - [Flipper 1.0.0](https://www.johnnunemaker.com/flipper-1-0/)
 * [2023-08-23, 20:11:26](https://lobste.rs/s/izjizc/cve_2023_4273_vulnerability_linux_exfat) - [CVE-2023-4273: a vulnerability in the Linux exFAT driver](https://dfir.ru/2023/08/23/cve-2023-4273-a-vulnerability-in-the-linux-exfat-driver/)
-* [2023-08-23, 19:49:03](https://lobste.rs/s/mu41fo/c_c_performance_pitfall_int8_t_aliasing) - [C/C++ performance pitfall: int8_t, aliasing and the ways out](https://gist.github.com/alexei-zaripov/dcc14c78819c5f1354afe8b70932007c)
 * [2023-08-23, 18:24:03](https://lobste.rs/s/zs5mut/hashicorp_terraform_opentf) - [HashiCorp, Terraform, and OpenTF](https://lwn.net/SubscriberLink/942346/014f407d03f4cd03/)
 * [2023-08-23, 17:34:21](https://lobste.rs/s/prrrbn/adding_wi_fi_macintosh_portable) - [Adding Wi-Fi to the Macintosh Portable](https://jcs.org/2023/08/23/scsiwifi)
 * [2023-08-23, 16:04:15](https://lobste.rs/s/edgsyh/use_web_components_for_what_they_re_good_at) - [Use web components for what they’re good at](https://nolanlawson.com/2023/08/23/use-web-components-for-what-theyre-good-at/)
