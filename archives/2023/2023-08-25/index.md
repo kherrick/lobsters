@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
+* [2023-08-25, 12:35:18](https://lobste.rs/s/zqim8p/open_source_mobile_phone_based_on_esp32) - [An Open Source Mobile Phone Based On The ESP32](https://hackaday.com/2023/08/24/an-open-source-mobile-phone-based-on-the-esp32/)
 * [2023-08-25, 12:27:03](https://lobste.rs/s/scur3x/domain_repetition) - [Domain Repetition](https://iquilezles.org/articles/sdfrepetition/)
 * [2023-08-25, 11:58:49](https://lobste.rs/s/siaxu7/my_thoughts_on_ocaml_vs_haskell_rust_2023) - [My Thoughts on OCaml vs Haskell/Rust in 2023](https://github.com/sidkshatriya/me/blob/master/007-My-Thoughts-on-OCaml-vs-Haskell-Rust-2023.md)
 * [2023-08-25, 11:16:53](https://lobste.rs/s/obeccu/devicetree_overlays_on_zephyr_rtos) - [DeviceTree Overlays on Zephyr RTOS: Adding I2C or SPI](https://www.beyondlogic.org/devicetree-overlays-on-zephyr-rtos-adding-i2c-or-spi/)

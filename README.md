@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-25, 12:35:18](https://lobste.rs/s/zqim8p/open_source_mobile_phone_based_on_esp32) - [An Open Source Mobile Phone Based On The ESP32](https://hackaday.com/2023/08/24/an-open-source-mobile-phone-based-on-the-esp32/)
 * [2023-08-25, 12:27:03](https://lobste.rs/s/scur3x/domain_repetition) - [Domain Repetition](https://iquilezles.org/articles/sdfrepetition/)
 * [2023-08-25, 11:58:49](https://lobste.rs/s/siaxu7/my_thoughts_on_ocaml_vs_haskell_rust_2023) - [My Thoughts on OCaml vs Haskell/Rust in 2023](https://github.com/sidkshatriya/me/blob/master/007-My-Thoughts-on-OCaml-vs-Haskell-Rust-2023.md)
 * [2023-08-25, 11:16:53](https://lobste.rs/s/obeccu/devicetree_overlays_on_zephyr_rtos) - [DeviceTree Overlays on Zephyr RTOS: Adding I2C or SPI](https://www.beyondlogic.org/devicetree-overlays-on-zephyr-rtos-adding-i2c-or-spi/)
 * [2023-08-25, 10:30:20](https://lobste.rs/s/wqfbjo/programming_as_theory_building) - [Programming as Theory Building](https://ratfactor.com/papers/naur1)
 * [2023-08-25, 09:12:51](https://lobste.rs/s/u4wnc0/rust_malware_staged_on_crates_io) - [Rust Malware Staged on Crates.io](https://blog.phylum.io/rust-malware-staged-on-crates-io/)
 * [2023-08-25, 09:09:28](https://lobste.rs/s/av5p80/lecture_notes_for_quantum_computation_by) - [Lecture Notes for Quantum Computation by Peter Shor](https://math.mit.edu/~shor/435-LN/)
-* [2023-08-25, 09:05:16](https://lobste.rs/s/mnutmu/code_llama_open_foundation_models_for) - [Code Llama: Open Foundation Models for Code](https://ai.meta.com/research/publications/code-llama-open-foundation-models-for-code/)
 * [2023-08-25, 08:40:47](https://lobste.rs/s/mplxf4/ghostty_devlog_003) - [Ghostty Devlog 003](https://mitchellh.com/writing/ghostty-devlog-003)
 * [2023-08-25, 08:13:04](https://lobste.rs/s/aemohz/choosing_right_rust_web_framework) - [Choosing the Right Rust Web Framework: An Overview](https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison)
 * [2023-08-25, 08:11:33](https://lobste.rs/s/6jtloj/chrome_extensions_security_research) - [Chrome Extensions Security Research](https://ndevtk.github.io/writeups/2023/08/18/extensions/)
