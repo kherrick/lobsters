@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-24](index.md)
 
+* [2023-08-24, 23:59:38](https://lobste.rs/s/xaj9bz/what_s_your_braindump_second_brain) - [What's your braindump/second-brain workflow and which devices do you use for it?](https://lobste.rs/s/xaj9bz/what_s_your_braindump_second_brain)
 * [2023-08-24, 23:27:46](https://lobste.rs/s/qkpfes/announcing_rust_1_72_0) - [Announcing Rust 1.72.0](https://blog.rust-lang.org/2023/08/24/Rust-1.72.0.html)
 * [2023-08-24, 23:02:04](https://lobste.rs/s/sbjrkg/making_freebsd_quic) - [Making FreeBSD QUIC](https://www.youtube.com/watch?v=QEKyBr1LS3s)
 * [2023-08-24, 22:28:15](https://lobste.rs/s/sjsueq/philosophy_software_design_summarized) - [\"A philosophy of software design\" summarized](https://www.mattduck.com/2021-04-a-philosophy-of-software-design.html)

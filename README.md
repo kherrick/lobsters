@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-24, 23:59:38](https://lobste.rs/s/xaj9bz/what_s_your_braindump_second_brain) - [What's your braindump/second-brain workflow and which devices do you use for it?](https://lobste.rs/s/xaj9bz/what_s_your_braindump_second_brain)
 * [2023-08-24, 23:27:46](https://lobste.rs/s/qkpfes/announcing_rust_1_72_0) - [Announcing Rust 1.72.0](https://blog.rust-lang.org/2023/08/24/Rust-1.72.0.html)
 * [2023-08-24, 23:02:04](https://lobste.rs/s/sbjrkg/making_freebsd_quic) - [Making FreeBSD QUIC](https://www.youtube.com/watch?v=QEKyBr1LS3s)
 * [2023-08-24, 22:28:15](https://lobste.rs/s/sjsueq/philosophy_software_design_summarized) - [\"A philosophy of software design\" summarized](https://www.mattduck.com/2021-04-a-philosophy-of-software-design.html)
@@ -17,7 +18,6 @@
 * [2023-08-24, 08:07:43](https://lobste.rs/s/d560iz/everything_you_never_wanted_know_about) - [Everything you never wanted to know about Win32 environment blocks](https://nullprogram.com/blog/2023/08/23/)
 * [2023-08-24, 06:49:47](https://lobste.rs/s/h6bkmm/laziness_haskell_part_2_why_not_strict) - [Laziness in Haskell — Part 2: Why not Strict Haskell?](https://www.youtube.com/watch?v=NCM8pRiLtAc)
 * [2023-08-24, 06:30:50](https://lobste.rs/s/kaxcd8/print_lol_doubled_speed_my_go_function) - [print(“lol”) doubled the speed of my Go function](https://medium.com/@ludirehak/printing-lol-doubled-the-speed-of-my-go-code-e32e02fc3f92)
-* [2023-08-24, 01:16:05](https://lobste.rs/s/0yzsrt/bun_v0_8_0) - [Bun v0.8.0](https://bun.sh/blog/bun-v0.8.0)
 * [2023-08-23, 20:12:29](https://lobste.rs/s/ewzxj9/flipper_1_0_0) - [Flipper 1.0.0](https://www.johnnunemaker.com/flipper-1-0/)
 * [2023-08-23, 20:11:26](https://lobste.rs/s/izjizc/cve_2023_4273_vulnerability_linux_exfat) - [CVE-2023-4273: a vulnerability in the Linux exFAT driver](https://dfir.ru/2023/08/23/cve-2023-4273-a-vulnerability-in-the-linux-exfat-driver/)
 * [2023-08-23, 19:49:03](https://lobste.rs/s/mu41fo/c_c_performance_pitfall_int8_t_aliasing) - [C/C++ performance pitfall: int8_t, aliasing and the ways out](https://gist.github.com/alexei-zaripov/dcc14c78819c5f1354afe8b70932007c)
