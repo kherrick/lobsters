@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-25, 16:30:06",
+      "https://lobste.rs/s/2io3xa/why_htmx_does_not_have_build_step"
+    ],
+    [
+      "Why htmx Does Not Have a Build Step",
+      "https://htmx.org/essays/no-build-step/"
+    ]
+  ],
+  [
+    [
       "2023-08-25, 15:32:19",
       "https://lobste.rs/s/pvfbpm/opentf_announces_fork_terraform"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2023-08-25, 09:05:16",
-      "https://lobste.rs/s/mnutmu/code_llama_open_foundation_models_for"
-    ],
-    [
-      "Code Llama: Open Foundation Models for Code",
-      "https://ai.meta.com/research/publications/code-llama-open-foundation-models-for-code/"
-    ]
-  ],
-  [
-    [
       "2023-08-25, 08:40:47",
       "https://lobste.rs/s/mplxf4/ghostty_devlog_003"
     ],
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2023-08-24, 23:02:04",
+      "https://lobste.rs/s/sbjrkg/making_freebsd_quic"
+    ],
+    [
+      "Making FreeBSD QUIC",
+      "https://www.youtube.com/watch?v=QEKyBr1LS3s"
+    ]
+  ],
+  [
+    [
       "2023-08-24, 22:28:15",
       "https://lobste.rs/s/sjsueq/philosophy_software_design_summarized"
     ],
@@ -227,16 +237,6 @@
     [
       "Leaving Haskell behind",
       "https://journal.infinitenegativeutility.com/leaving-haskell-behind"
-    ]
-  ],
-  [
-    [
-      "2023-08-24, 08:21:13",
-      "https://lobste.rs/s/ajarjp/freebsd_on_firecracker"
-    ],
-    [
-      "FreeBSD on Firecracker",
-      "https://www.usenix.org/publications/loginonline/freebsd-firecracker"
     ]
   ],
   [
