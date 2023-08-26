@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-26, 05:10:14](https://lobste.rs/s/fwvh9x/understanding_immortal_objects_python_3) - [Understanding Immortal Objects in Python 3.12: A Deep Dive into Python Internals](https://codeconfessions.substack.com/p/understanding-immortal-objects-in)
 * [2023-08-26, 03:26:11](https://lobste.rs/s/prfzaz/c4_c_four_functions) - [c4: C in four functions](https://github.com/rswier/c4)
 * [2023-08-26, 03:25:40](https://lobste.rs/s/ndn30n/finally_terminated_2015_finalterm) - [Finally terminated (2015) - FinalTerm retrospective](https://worldwidemann.com/finally-terminated/)
-* [2023-08-26, 03:21:28](https://lobste.rs/s/dtrfli/myth_google_s_plus) - [The myth of Google's plus](https://blog.zarfhome.com/2023/08/the-myth-of-google-plus)
 * [2023-08-26, 02:43:49](https://lobste.rs/s/zesdyn/ws2markdown_wordstar_markdown) - [ws2markdown, a WordStar to Markdown converter](https://code.rosaelefanten.org/ws2markdown)
 * [2023-08-26, 01:58:36](https://lobste.rs/s/di6pjy/porting_stunt_car_racer_commodore_plus_4) - [Porting Stunt Car Racer to the Commodore Plus/4](https://github.com/cobbpg/cobbpg.github.io/blob/main/docs/articles/stunt-car-racer-plus4-port.md)
 * [2023-08-26, 01:55:32](https://lobste.rs/s/wbrnmk/initial_impressions_microsoft_olive) - [Initial Impressions of Microsoft Olive](https://zhenghaotan.com/blog/initial-impressions-of-msft-olive)

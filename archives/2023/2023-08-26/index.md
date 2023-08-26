@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-26](index.md)
 
+* [2023-08-26, 05:10:14](https://lobste.rs/s/fwvh9x/understanding_immortal_objects_python_3) - [Understanding Immortal Objects in Python 3.12: A Deep Dive into Python Internals](https://codeconfessions.substack.com/p/understanding-immortal-objects-in)
 * [2023-08-26, 03:26:11](https://lobste.rs/s/prfzaz/c4_c_four_functions) - [c4: C in four functions](https://github.com/rswier/c4)
 * [2023-08-26, 03:25:40](https://lobste.rs/s/ndn30n/finally_terminated_2015_finalterm) - [Finally terminated (2015) - FinalTerm retrospective](https://worldwidemann.com/finally-terminated/)
 * [2023-08-26, 03:21:28](https://lobste.rs/s/dtrfli/myth_google_s_plus) - [The myth of Google's plus](https://blog.zarfhome.com/2023/08/the-myth-of-google-plus)
