@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-08-26, 17:33:15](https://lobste.rs/s/fyaxsi/e_ink_is_so_retropunk) - [E-ink is so Retropunk](https://rmkit.dev/eink-is-so-retropunk/)
-* [2023-08-26, 17:31:44](https://lobste.rs/s/uscoh5/this_isn_t_way_speed_up_rust_compile_times) - [This isn't the way to speed up Rust compile times](https://xeiaso.net/blog/serde-precompiled-stupid)
 * [2023-08-26, 15:28:50](https://lobste.rs/s/kbhqkd/exploring_rust_compiler_benchmark_suite) - [Exploring the Rust compiler benchmark suite](https://kobzol.github.io/rust/rustc/2023/08/18/rustc-benchmark-suite.html)
 * [2023-08-26, 15:12:40](https://lobste.rs/s/8ob5pp/modern_b_tree_techniques_2011) - [Modern B-Tree Techniques (2011)](https://w6113.github.io/files/papers/btreesurvey-graefe.pdf)
 * [2023-08-26, 14:59:25](https://lobste.rs/s/svdv5a/ichido_independent_search_engine) - [Ichido: an independent search engine inspired by 90s-2000s search](https://ichi.do/)
@@ -16,6 +15,7 @@
 * [2023-08-26, 03:21:28](https://lobste.rs/s/dtrfli/myth_google_s_plus) - [The myth of Google's plus](https://blog.zarfhome.com/2023/08/the-myth-of-google-plus)
 * [2023-08-26, 02:15:20](https://lobste.rs/s/c5comj/what_are_some_cool_side_projects_you_have) - [What are some cool side projects you have built lately?](https://lobste.rs/s/c5comj/what_are_some_cool_side_projects_you_have)
 * [2023-08-26, 01:58:36](https://lobste.rs/s/di6pjy/porting_stunt_car_racer_commodore_plus_4) - [Porting Stunt Car Racer to the Commodore Plus/4](https://github.com/cobbpg/cobbpg.github.io/blob/main/docs/articles/stunt-car-racer-plus4-port.md)
+* [2023-08-26, 01:55:32](https://lobste.rs/s/wbrnmk/initial_impressions_microsoft_olive) - [Initial Impressions of Microsoft Olive](https://zhenghaotan.com/blog/initial-impressions-of-msft-olive)
 * [2023-08-25, 23:15:40](https://lobste.rs/s/f5i87t/cve_2020_19909_is_everything_is_wrong_with) - [CVE-2020-19909 is everything that is wrong with CVEs](https://daniel.haxx.se/blog/2023/08/26/cve-2020-19909-is-everything-that-is-wrong-with-cves/)
 * [2023-08-25, 22:51:28](https://lobste.rs/s/pzslm9/ownspy_got_well_owned) - [ownspy got, well, owned](https://maia.crimew.gay/posts/fuckstalkerware-3/)
 * [2023-08-25, 21:58:25](https://lobste.rs/s/i2r9hg/casio_caleid_xm_700_mobile_navigator_1997) - [Casio CALEID XM-700 Mobile Navigator (1997)](https://blog.gingerbeardman.com/2023/08/25/casio-caleid-xm700-mobile-navigator-hardware/)
