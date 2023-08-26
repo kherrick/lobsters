@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-26](index.md)
 
+* [2023-08-26, 13:58:23](https://lobste.rs/s/lb6voh/what_s_smallest_statically_typed) - [What's the smallest statically typed language implemented in itself?](https://old.reddit.com/r/ProgrammingLanguages/comments/161ke75/whats_the_smallest_statically_typed_language/)
 * [2023-08-26, 12:55:01](https://lobste.rs/s/nhbxj7/how_ensure_optimising_compiler_will) - [How to ensure that an optimising compiler will terminate?](https://langdev.stackexchange.com/questions/2812/how-to-ensure-that-an-optimising-compiler-will-terminate)
 * [2023-08-26, 07:01:51](https://lobste.rs/s/odh9m4/rust_cryptography_should_be_written_rust) - [Rust Cryptography Should be Written in Rust](https://briansmith.org/rust-cryptography-should-be-written-in-rust-01)
 * [2023-08-26, 06:26:39](https://lobste.rs/s/jkhjnq/aws_honeycode_shuts_down) - [AWS Honeycode shuts down](https://honeycodecommunity.aws/c/announcements/7)

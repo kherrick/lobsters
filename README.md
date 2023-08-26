@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-26, 13:58:23](https://lobste.rs/s/lb6voh/what_s_smallest_statically_typed) - [What's the smallest statically typed language implemented in itself?](https://old.reddit.com/r/ProgrammingLanguages/comments/161ke75/whats_the_smallest_statically_typed_language/)
 * [2023-08-26, 12:55:01](https://lobste.rs/s/nhbxj7/how_ensure_optimising_compiler_will) - [How to ensure that an optimising compiler will terminate?](https://langdev.stackexchange.com/questions/2812/how-to-ensure-that-an-optimising-compiler-will-terminate)
 * [2023-08-26, 07:01:51](https://lobste.rs/s/odh9m4/rust_cryptography_should_be_written_rust) - [Rust Cryptography Should be Written in Rust](https://briansmith.org/rust-cryptography-should-be-written-in-rust-01)
 * [2023-08-26, 06:26:39](https://lobste.rs/s/jkhjnq/aws_honeycode_shuts_down) - [AWS Honeycode shuts down](https://honeycodecommunity.aws/c/announcements/7)
@@ -17,7 +18,6 @@
 * [2023-08-25, 18:20:23](https://lobste.rs/s/nko721/how_speed_up_rust_compiler_august_2023) - [How to speed up the Rust compiler in August 2023](https://nnethercote.github.io/2023/08/25/how-to-speed-up-the-rust-compiler-in-august-2023.html)
 * [2023-08-25, 18:19:44](https://lobste.rs/s/x7ernk/vintage_byte_magazine_library) - [Vintage Byte Magazine Library](https://vintageapple.org/byte/)
 * [2023-08-25, 16:41:49](https://lobste.rs/s/dnueaw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dnueaw/what_are_you_doing_this_weekend)
-* [2023-08-25, 16:39:22](https://lobste.rs/s/fsboxy/np_hard_does_not_mean_easy) - [NP-hard does not mean easy](https://buttondown.email/j2kun/archive/np-hard-does-not-mean-easy/)
 * [2023-08-25, 16:30:06](https://lobste.rs/s/2io3xa/why_htmx_does_not_have_build_step) - [Why htmx Does Not Have a Build Step](https://htmx.org/essays/no-build-step/)
 * [2023-08-25, 14:41:06](https://lobste.rs/s/8gxlj9/implementing_interactive_languages) - [Implementing interactive languages](https://www.scattered-thoughts.net/writing/implementing-interactive-languages/)
 * [2023-08-25, 11:58:49](https://lobste.rs/s/siaxu7/my_thoughts_on_ocaml_vs_haskell_rust_2023) - [My Thoughts on OCaml vs Haskell/Rust in 2023](https://github.com/sidkshatriya/me/blob/master/007-My-Thoughts-on-OCaml-vs-Haskell-Rust-2023.md)
