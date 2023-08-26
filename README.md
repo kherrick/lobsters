@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-26, 03:26:11](https://lobste.rs/s/prfzaz/c4_c_four_functions) - [c4: C in four functions](https://github.com/rswier/c4)
 * [2023-08-26, 03:25:40](https://lobste.rs/s/ndn30n/finally_terminated_2015_finalterm) - [Finally terminated (2015) - FinalTerm retrospective](https://worldwidemann.com/finally-terminated/)
 * [2023-08-26, 03:21:28](https://lobste.rs/s/dtrfli/myth_google_s_plus) - [The myth of Google's plus](https://blog.zarfhome.com/2023/08/the-myth-of-google-plus)
 * [2023-08-26, 02:43:49](https://lobste.rs/s/zesdyn/ws2markdown_wordstar_markdown) - [ws2markdown, a WordStar to Markdown converter](https://code.rosaelefanten.org/ws2markdown)
@@ -14,7 +15,6 @@
 * [2023-08-25, 16:39:22](https://lobste.rs/s/fsboxy/np_hard_does_not_mean_easy) - [NP-hard does not mean easy](https://buttondown.email/j2kun/archive/np-hard-does-not-mean-easy/)
 * [2023-08-25, 16:30:06](https://lobste.rs/s/2io3xa/why_htmx_does_not_have_build_step) - [Why htmx Does Not Have a Build Step](https://htmx.org/essays/no-build-step/)
 * [2023-08-25, 15:04:56](https://lobste.rs/s/0p8emp/introduction_decentralized_identity) - [An introduction to Decentralized Identity](https://cendyne.dev/posts/2023-08-25-attacking-decentralized-identity.html)
-* [2023-08-25, 14:56:48](https://lobste.rs/s/p9vsw4/ubuntu_desktop_charting_course_for) - [Ubuntu Desktop: charting a course for the future](https://ubuntu.com//blog/ubuntu-desktop-charting-a-course-for-the-future)
 * [2023-08-25, 14:41:06](https://lobste.rs/s/8gxlj9/implementing_interactive_languages) - [Implementing interactive languages](https://www.scattered-thoughts.net/writing/implementing-interactive-languages/)
 * [2023-08-25, 13:18:56](https://lobste.rs/s/p2ywse/tetra_tour_de_force_jailbreaking_digital) - [TETRA Tour de force: Jailbreaking digital radios and base stations for fun and secrets](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20presentations/Carlo%20Meijer%20Wouter%20Bokslag%20Jos%20Wetzels%20-%20TETRA%20Tour%20de%20Force%20Jailbreaking%20Digital%20Radios%20and%20Base%20Stations%20for%20Fun%20and%20Secrets.pdf)
 * [2023-08-25, 12:27:03](https://lobste.rs/s/scur3x/domain_repetition) - [Domain Repetition](https://iquilezles.org/articles/sdfrepetition/)
