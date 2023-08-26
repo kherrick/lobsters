@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-26, 17:33:15",
+      "https://lobste.rs/s/fyaxsi/e_ink_is_so_retropunk"
+    ],
+    [
+      "E-ink is so Retropunk",
+      "https://rmkit.dev/eink-is-so-retropunk/"
+    ]
+  ],
+  [
+    [
+      "2023-08-26, 17:31:44",
+      "https://lobste.rs/s/uscoh5/this_isn_t_way_speed_up_rust_compile_times"
+    ],
+    [
+      "This isn't the way to speed up Rust compile times",
+      "https://xeiaso.net/blog/serde-precompiled-stupid"
+    ]
+  ],
+  [
+    [
       "2023-08-26, 15:28:50",
       "https://lobste.rs/s/kbhqkd/exploring_rust_compiler_benchmark_suite"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-08-26, 01:55:32",
-      "https://lobste.rs/s/wbrnmk/initial_impressions_microsoft_olive"
-    ],
-    [
-      "Initial Impressions of Microsoft Olive",
-      "https://zhenghaotan.com/blog/initial-impressions-of-msft-olive"
-    ]
-  ],
-  [
-    [
       "2023-08-25, 23:15:40",
       "https://lobste.rs/s/f5i87t/cve_2020_19909_is_everything_is_wrong_with"
     ],
@@ -177,16 +187,6 @@
     [
       "Casio CALEID XM-700 Mobile Navigator (1997)",
       "https://blog.gingerbeardman.com/2023/08/25/casio-caleid-xm700-mobile-navigator-hardware/"
-    ]
-  ],
-  [
-    [
-      "2023-08-25, 19:01:52",
-      "https://lobste.rs/s/do04rg/python_security_response_team_handling"
-    ],
-    [
-      "Python Security Response Team handling of CVE-2023-40217",
-      "https://sethmlarson.dev/security-developer-in-residence-weekly-report-8"
     ]
   ],
   [
