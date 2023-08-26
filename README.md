@@ -20,11 +20,11 @@
 * [2023-08-26, 01:55:32](https://lobste.rs/s/wbrnmk/initial_impressions_microsoft_olive) - [Initial Impressions of Microsoft Olive](https://zhenghaotan.com/blog/initial-impressions-of-msft-olive)
 * [2023-08-25, 23:15:40](https://lobste.rs/s/f5i87t/cve_2020_19909_is_everything_is_wrong_with) - [CVE-2020-19909 is everything that is wrong with CVEs](https://daniel.haxx.se/blog/2023/08/26/cve-2020-19909-is-everything-that-is-wrong-with-cves/)
 * [2023-08-25, 22:51:28](https://lobste.rs/s/pzslm9/ownspy_got_well_owned) - [ownspy got, well, owned](https://maia.crimew.gay/posts/fuckstalkerware-3/)
+* [2023-08-25, 21:58:25](https://lobste.rs/s/i2r9hg/casio_caleid_xm_700_mobile_navigator_1997) - [Casio CALEID XM-700 Mobile Navigator (1997)](https://blog.gingerbeardman.com/2023/08/25/casio-caleid-xm700-mobile-navigator-hardware/)
 * [2023-08-25, 18:20:23](https://lobste.rs/s/nko721/how_speed_up_rust_compiler_august_2023) - [How to speed up the Rust compiler in August 2023](https://nnethercote.github.io/2023/08/25/how-to-speed-up-the-rust-compiler-in-august-2023.html)
 * [2023-08-25, 16:30:06](https://lobste.rs/s/2io3xa/why_htmx_does_not_have_build_step) - [Why htmx Does Not Have a Build Step](https://htmx.org/essays/no-build-step/)
 * [2023-08-25, 14:41:06](https://lobste.rs/s/8gxlj9/implementing_interactive_languages) - [Implementing interactive languages](https://www.scattered-thoughts.net/writing/implementing-interactive-languages/)
 * [2023-08-25, 11:58:49](https://lobste.rs/s/siaxu7/my_thoughts_on_ocaml_vs_haskell_rust_2023) - [My Thoughts on OCaml vs Haskell/Rust in 2023](https://github.com/sidkshatriya/me/blob/master/007-My-Thoughts-on-OCaml-vs-Haskell-Rust-2023.md)
-* [2023-08-25, 09:12:51](https://lobste.rs/s/u4wnc0/rust_malware_staged_on_crates_io) - [Rust Malware Staged on Crates.io](https://blog.phylum.io/rust-malware-staged-on-crates-io/)
 
 ## [Archives](archives/index.md)
 
