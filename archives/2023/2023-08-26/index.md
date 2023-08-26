@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-26](index.md)
 
+* [2023-08-26, 18:15:36](https://lobste.rs/s/lmum4i/web_scraping_for_me_not_for_thee) - [Web Scraping for Me, But Not for Thee](https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm)
 * [2023-08-26, 17:33:15](https://lobste.rs/s/fyaxsi/e_ink_is_so_retropunk) - [E-ink is so Retropunk](https://rmkit.dev/eink-is-so-retropunk/)
 * [2023-08-26, 17:31:44](https://lobste.rs/s/uscoh5/this_isn_t_way_speed_up_rust_compile_times) - [This isn't the way to speed up Rust compile times](https://xeiaso.net/blog/serde-precompiled-stupid)
 * [2023-08-26, 15:40:03](https://lobste.rs/s/bp2mnz/not_by_ai_add_badge_your_human_created) - [Not By AI — Add the Badge to Your Human-Created Content](https://notbyai.fyi/)
