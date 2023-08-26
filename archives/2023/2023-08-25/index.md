@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-25](index.md)
 
 * [2023-08-25, 23:15:40](https://lobste.rs/s/f5i87t/cve_2020_19909_is_everything_is_wrong_with) - [CVE-2020-19909 is everything that is wrong with CVEs](https://daniel.haxx.se/blog/2023/08/26/cve-2020-19909-is-everything-that-is-wrong-with-cves/)
+* [2023-08-25, 22:51:28](https://lobste.rs/s/pzslm9/ownspy_got_well_owned) - [ownspy got, well, owned](https://maia.crimew.gay/posts/fuckstalkerware-3/)
 * [2023-08-25, 22:51:28](https://lobste.rs/s/pzslm9/fuckstalkerware_pt_3_ownspy_got_well) - [#FuckStalkerware pt. 3 - ownspy got, well, owned](https://maia.crimew.gay/posts/fuckstalkerware-3/)
 * [2023-08-25, 22:26:44](https://lobste.rs/s/t4gyd5/why_are_computability_problems_always) - [Why are computability problems always written in full caps?](https://cs.stackexchange.com/questions/161731/why-are-computability-problems-always-written-in-full-caps)
 * [2023-08-25, 21:58:25](https://lobste.rs/s/i2r9hg/casio_caleid_xm_700_mobile_navigator_1997) - [Casio CALEID XM-700 Mobile Navigator (1997)](https://blog.gingerbeardman.com/2023/08/25/casio-caleid-xm700-mobile-navigator-hardware/)
