@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-26, 14:59:25",
+      "https://lobste.rs/s/svdv5a/ichido_independent_search_engine"
+    ],
+    [
+      "Ichido: an independent search engine inspired by 90s-2000s search",
+      "https://ichi.do/"
+    ]
+  ],
+  [
+    [
+      "2023-08-26, 14:55:39",
+      "https://lobste.rs/s/nrvowk/clean_mount_lists_linux"
+    ],
+    [
+      "Clean mount lists in Linux",
+      "https://dbohdan.com/clean-mount-lists"
+    ]
+  ],
+  [
+    [
       "2023-08-26, 13:58:23",
       "https://lobste.rs/s/lb6voh/what_s_smallest_statically_typed"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2023-08-26, 02:43:49",
-      "https://lobste.rs/s/zesdyn/ws2markdown_wordstar_markdown"
-    ],
-    [
-      "ws2markdown, a WordStar to Markdown converter",
-      "https://code.rosaelefanten.org/ws2markdown"
-    ]
-  ],
-  [
-    [
       "2023-08-26, 02:15:20",
       "https://lobste.rs/s/c5comj/what_are_some_cool_side_projects_you_have"
     ],
@@ -167,16 +177,6 @@
     [
       "How to speed up the Rust compiler in August 2023",
       "https://nnethercote.github.io/2023/08/25/how-to-speed-up-the-rust-compiler-in-august-2023.html"
-    ]
-  ],
-  [
-    [
-      "2023-08-25, 18:19:44",
-      "https://lobste.rs/s/x7ernk/vintage_byte_magazine_library"
-    ],
-    [
-      "Vintage Byte Magazine Library",
-      "https://vintageapple.org/byte/"
     ]
   ],
   [
