@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-26, 07:01:51](https://lobste.rs/s/odh9m4/rust_cryptography_should_be_written_rust) - [Rust Cryptography Should be Written in Rust](https://briansmith.org/rust-cryptography-should-be-written-in-rust-01)
 * [2023-08-26, 06:26:39](https://lobste.rs/s/jkhjnq/aws_honeycode_shuts_down) - [AWS Honeycode shuts down](https://honeycodecommunity.aws/c/announcements/7)
 * [2023-08-26, 05:10:14](https://lobste.rs/s/fwvh9x/understanding_immortal_objects_python_3) - [Understanding Immortal Objects in Python 3.12: A Deep Dive into Python Internals](https://codeconfessions.substack.com/p/understanding-immortal-objects-in)
 * [2023-08-26, 03:26:11](https://lobste.rs/s/prfzaz/c4_c_four_functions) - [c4: C in four functions](https://github.com/rswier/c4)
@@ -22,7 +23,6 @@
 * [2023-08-25, 11:58:49](https://lobste.rs/s/siaxu7/my_thoughts_on_ocaml_vs_haskell_rust_2023) - [My Thoughts on OCaml vs Haskell/Rust in 2023](https://github.com/sidkshatriya/me/blob/master/007-My-Thoughts-on-OCaml-vs-Haskell-Rust-2023.md)
 * [2023-08-25, 09:12:51](https://lobste.rs/s/u4wnc0/rust_malware_staged_on_crates_io) - [Rust Malware Staged on Crates.io](https://blog.phylum.io/rust-malware-staged-on-crates-io/)
 * [2023-08-25, 08:40:47](https://lobste.rs/s/mplxf4/ghostty_devlog_003) - [Ghostty Devlog 003](https://mitchellh.com/writing/ghostty-devlog-003)
-* [2023-08-25, 08:13:04](https://lobste.rs/s/aemohz/choosing_right_rust_web_framework) - [Choosing the Right Rust Web Framework: An Overview](https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison)
 * [2023-08-24, 23:59:38](https://lobste.rs/s/xaj9bz/what_s_your_braindump_second_brain) - [What's your braindump/second-brain workflow and which devices do you use for it?](https://lobste.rs/s/xaj9bz/what_s_your_braindump_second_brain)
 * [2023-08-24, 17:00:03](https://lobste.rs/s/zcj8vy/factor_0_99_now_available) - [Factor 0.99 now available](https://re.factorcode.org/2023/08/factor-0-99-now-available.html)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-26](index.md)
 
+* [2023-08-26, 07:01:51](https://lobste.rs/s/odh9m4/rust_cryptography_should_be_written_rust) - [Rust Cryptography Should be Written in Rust](https://briansmith.org/rust-cryptography-should-be-written-in-rust-01)
 * [2023-08-26, 06:26:39](https://lobste.rs/s/jkhjnq/aws_honeycode_shuts_down) - [AWS Honeycode shuts down](https://honeycodecommunity.aws/c/announcements/7)
 * [2023-08-26, 05:10:14](https://lobste.rs/s/fwvh9x/understanding_immortal_objects_python_3) - [Understanding Immortal Objects in Python 3.12: A Deep Dive into Python Internals](https://codeconfessions.substack.com/p/understanding-immortal-objects-in)
 * [2023-08-26, 03:26:11](https://lobste.rs/s/prfzaz/c4_c_four_functions) - [c4: C in four functions](https://github.com/rswier/c4)
