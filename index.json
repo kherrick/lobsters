@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-08-26, 06:26:39",
-      "https://lobste.rs/s/jkhjnq/aws_honeycode_shuts_down"
-    ],
-    [
-      "AWS Honeycode shuts down",
-      "https://honeycodecommunity.aws/c/announcements/7"
-    ]
-  ],
-  [
-    [
       "2023-08-26, 05:10:14",
       "https://lobste.rs/s/fwvh9x/understanding_immortal_objects_python_3"
     ],
@@ -247,6 +237,16 @@
     [
       "My Thoughts on OCaml vs Haskell/Rust in 2023",
       "https://github.com/sidkshatriya/me/blob/master/007-My-Thoughts-on-OCaml-vs-Haskell-Rust-2023.md"
+    ]
+  ],
+  [
+    [
+      "2023-08-25, 09:12:51",
+      "https://lobste.rs/s/u4wnc0/rust_malware_staged_on_crates_io"
+    ],
+    [
+      "Rust Malware Staged on Crates.io",
+      "https://blog.phylum.io/rust-malware-staged-on-crates-io/"
     ]
   ]
 ]
