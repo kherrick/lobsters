@@ -10,7 +10,6 @@
 * [2023-08-26, 13:58:23](https://lobste.rs/s/lb6voh/what_s_smallest_statically_typed) - [What's the smallest statically typed language implemented in itself?](https://old.reddit.com/r/ProgrammingLanguages/comments/161ke75/whats_the_smallest_statically_typed_language/)
 * [2023-08-26, 12:55:01](https://lobste.rs/s/nhbxj7/how_ensure_optimising_compiler_will) - [How to ensure that an optimising compiler will terminate?](https://langdev.stackexchange.com/questions/2812/how-to-ensure-that-an-optimising-compiler-will-terminate)
 * [2023-08-26, 07:01:51](https://lobste.rs/s/odh9m4/rust_cryptography_should_be_written_rust) - [Rust Cryptography Should be Written in Rust](https://briansmith.org/rust-cryptography-should-be-written-in-rust-01)
-* [2023-08-26, 06:26:39](https://lobste.rs/s/jkhjnq/aws_honeycode_shuts_down) - [AWS Honeycode shuts down](https://honeycodecommunity.aws/c/announcements/7)
 * [2023-08-26, 05:10:14](https://lobste.rs/s/fwvh9x/understanding_immortal_objects_python_3) - [Understanding Immortal Objects in Python 3.12: A Deep Dive into Python Internals](https://codeconfessions.substack.com/p/understanding-immortal-objects-in)
 * [2023-08-26, 03:26:11](https://lobste.rs/s/prfzaz/c4_c_four_functions) - [c4: C in four functions](https://github.com/rswier/c4)
 * [2023-08-26, 03:25:40](https://lobste.rs/s/ndn30n/finally_terminated_2015_finalterm) - [Finally terminated (2015) - FinalTerm retrospective](https://worldwidemann.com/finally-terminated/)
@@ -25,6 +24,7 @@
 * [2023-08-25, 16:30:06](https://lobste.rs/s/2io3xa/why_htmx_does_not_have_build_step) - [Why htmx Does Not Have a Build Step](https://htmx.org/essays/no-build-step/)
 * [2023-08-25, 14:41:06](https://lobste.rs/s/8gxlj9/implementing_interactive_languages) - [Implementing interactive languages](https://www.scattered-thoughts.net/writing/implementing-interactive-languages/)
 * [2023-08-25, 11:58:49](https://lobste.rs/s/siaxu7/my_thoughts_on_ocaml_vs_haskell_rust_2023) - [My Thoughts on OCaml vs Haskell/Rust in 2023](https://github.com/sidkshatriya/me/blob/master/007-My-Thoughts-on-OCaml-vs-Haskell-Rust-2023.md)
+* [2023-08-25, 09:12:51](https://lobste.rs/s/u4wnc0/rust_malware_staged_on_crates_io) - [Rust Malware Staged on Crates.io](https://blog.phylum.io/rust-malware-staged-on-crates-io/)
 
 ## [Archives](archives/index.md)
 
