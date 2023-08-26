@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-26, 15:12:40](https://lobste.rs/s/8ob5pp/modern_b_tree_techniques_2011) - [Modern B-Tree Techniques (2011)](https://w6113.github.io/files/papers/btreesurvey-graefe.pdf)
 * [2023-08-26, 14:59:25](https://lobste.rs/s/svdv5a/ichido_independent_search_engine) - [Ichido: an independent search engine inspired by 90s-2000s search](https://ichi.do/)
 * [2023-08-26, 14:55:39](https://lobste.rs/s/nrvowk/clean_mount_lists_linux) - [Clean mount lists in Linux](https://dbohdan.com/clean-mount-lists)
 * [2023-08-26, 13:58:23](https://lobste.rs/s/lb6voh/what_s_smallest_statically_typed) - [What's the smallest statically typed language implemented in itself?](https://old.reddit.com/r/ProgrammingLanguages/comments/161ke75/whats_the_smallest_statically_typed_language/)
@@ -24,7 +25,6 @@
 * [2023-08-25, 09:12:51](https://lobste.rs/s/u4wnc0/rust_malware_staged_on_crates_io) - [Rust Malware Staged on Crates.io](https://blog.phylum.io/rust-malware-staged-on-crates-io/)
 * [2023-08-25, 08:40:47](https://lobste.rs/s/mplxf4/ghostty_devlog_003) - [Ghostty Devlog 003](https://mitchellh.com/writing/ghostty-devlog-003)
 * [2023-08-24, 23:59:38](https://lobste.rs/s/xaj9bz/what_s_your_braindump_second_brain) - [What's your braindump/second-brain workflow and which devices do you use for it?](https://lobste.rs/s/xaj9bz/what_s_your_braindump_second_brain)
-* [2023-08-24, 17:00:03](https://lobste.rs/s/zcj8vy/factor_0_99_now_available) - [Factor 0.99 now available](https://re.factorcode.org/2023/08/factor-0-99-now-available.html)
 
 ## [Archives](archives/index.md)
 

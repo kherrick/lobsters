@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-26](index.md)
 
+* [2023-08-26, 15:12:40](https://lobste.rs/s/8ob5pp/modern_b_tree_techniques_2011) - [Modern B-Tree Techniques (2011)](https://w6113.github.io/files/papers/btreesurvey-graefe.pdf)
 * [2023-08-26, 14:59:25](https://lobste.rs/s/svdv5a/ichido_independent_search_engine) - [Ichido: an independent search engine inspired by 90s-2000s search](https://ichi.do/)
 * [2023-08-26, 14:55:39](https://lobste.rs/s/nrvowk/clean_mount_lists_linux) - [Clean mount lists in Linux](https://dbohdan.com/clean-mount-lists)
 * [2023-08-26, 13:58:23](https://lobste.rs/s/lb6voh/what_s_smallest_statically_typed) - [What's the smallest statically typed language implemented in itself?](https://old.reddit.com/r/ProgrammingLanguages/comments/161ke75/whats_the_smallest_statically_typed_language/)
