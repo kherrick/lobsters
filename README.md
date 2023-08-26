@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-26, 15:40:03](https://lobste.rs/s/bp2mnz/not_by_ai_add_badge_your_human_created) - [Not By AI — Add the Badge to Your Human-Created Content](https://notbyai.fyi/)
 * [2023-08-26, 15:28:50](https://lobste.rs/s/kbhqkd/exploring_rust_compiler_benchmark_suite) - [Exploring the Rust compiler benchmark suite](https://kobzol.github.io/rust/rustc/2023/08/18/rustc-benchmark-suite.html)
 * [2023-08-26, 15:12:40](https://lobste.rs/s/8ob5pp/modern_b_tree_techniques_2011) - [Modern B-Tree Techniques (2011)](https://w6113.github.io/files/papers/btreesurvey-graefe.pdf)
 * [2023-08-26, 14:59:25](https://lobste.rs/s/svdv5a/ichido_independent_search_engine) - [Ichido: an independent search engine inspired by 90s-2000s search](https://ichi.do/)
@@ -23,7 +24,6 @@
 * [2023-08-25, 14:41:06](https://lobste.rs/s/8gxlj9/implementing_interactive_languages) - [Implementing interactive languages](https://www.scattered-thoughts.net/writing/implementing-interactive-languages/)
 * [2023-08-25, 11:58:49](https://lobste.rs/s/siaxu7/my_thoughts_on_ocaml_vs_haskell_rust_2023) - [My Thoughts on OCaml vs Haskell/Rust in 2023](https://github.com/sidkshatriya/me/blob/master/007-My-Thoughts-on-OCaml-vs-Haskell-Rust-2023.md)
 * [2023-08-25, 09:12:51](https://lobste.rs/s/u4wnc0/rust_malware_staged_on_crates_io) - [Rust Malware Staged on Crates.io](https://blog.phylum.io/rust-malware-staged-on-crates-io/)
-* [2023-08-25, 08:40:47](https://lobste.rs/s/mplxf4/ghostty_devlog_003) - [Ghostty Devlog 003](https://mitchellh.com/writing/ghostty-devlog-003)
 * [2023-08-24, 23:59:38](https://lobste.rs/s/xaj9bz/what_s_your_braindump_second_brain) - [What's your braindump/second-brain workflow and which devices do you use for it?](https://lobste.rs/s/xaj9bz/what_s_your_braindump_second_brain)
 
 ## [Archives](archives/index.md)

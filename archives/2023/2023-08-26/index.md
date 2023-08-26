@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-26](index.md)
 
+* [2023-08-26, 15:40:03](https://lobste.rs/s/bp2mnz/not_by_ai_add_badge_your_human_created) - [Not By AI — Add the Badge to Your Human-Created Content](https://notbyai.fyi/)
 * [2023-08-26, 15:28:50](https://lobste.rs/s/kbhqkd/exploring_rust_compiler_benchmark_suite) - [Exploring the Rust compiler benchmark suite](https://kobzol.github.io/rust/rustc/2023/08/18/rustc-benchmark-suite.html)
 * [2023-08-26, 15:12:40](https://lobste.rs/s/8ob5pp/modern_b_tree_techniques_2011) - [Modern B-Tree Techniques (2011)](https://w6113.github.io/files/papers/btreesurvey-graefe.pdf)
 * [2023-08-26, 14:59:25](https://lobste.rs/s/svdv5a/ichido_independent_search_engine) - [Ichido: an independent search engine inspired by 90s-2000s search](https://ichi.do/)
