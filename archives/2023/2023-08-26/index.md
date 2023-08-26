@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-26](index.md)
 
+* [2023-08-26, 17:33:15](https://lobste.rs/s/fyaxsi/e_ink_is_so_retropunk) - [E-ink is so Retropunk](https://rmkit.dev/eink-is-so-retropunk/)
+* [2023-08-26, 17:31:44](https://lobste.rs/s/uscoh5/this_isn_t_way_speed_up_rust_compile_times) - [This isn't the way to speed up Rust compile times](https://xeiaso.net/blog/serde-precompiled-stupid)
 * [2023-08-26, 15:40:03](https://lobste.rs/s/bp2mnz/not_by_ai_add_badge_your_human_created) - [Not By AI — Add the Badge to Your Human-Created Content](https://notbyai.fyi/)
 * [2023-08-26, 15:28:50](https://lobste.rs/s/kbhqkd/exploring_rust_compiler_benchmark_suite) - [Exploring the Rust compiler benchmark suite](https://kobzol.github.io/rust/rustc/2023/08/18/rustc-benchmark-suite.html)
 * [2023-08-26, 15:12:40](https://lobste.rs/s/8ob5pp/modern_b_tree_techniques_2011) - [Modern B-Tree Techniques (2011)](https://w6113.github.io/files/papers/btreesurvey-graefe.pdf)
