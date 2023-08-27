@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-27, 19:20:08](https://lobste.rs/s/dcmjau/missing_performance_std_vector) - [The Missing Performance in std::vector](https://codingnest.com/the-little-things-the-missing-performance-in-std-vector/)
 * [2023-08-27, 19:06:28](https://lobste.rs/s/ulxmfo/php_tokio_use_any_async_rust_library_from) - [php-tokio: Use any async Rust library from PHP](https://github.com/danog/php-tokio)
 * [2023-08-27, 18:30:34](https://lobste.rs/s/mnkays/python_is_coming_excel) - [Python is coming to Excel](https://flowingdata.com/2023/08/23/python-is-coming-to-excel/)
 * [2023-08-27, 18:15:53](https://lobste.rs/s/twn5io/reaching_unix_philosophy_s_logical) - [Reaching the Unix Philosophy's Logical Extreme with Webassembly](https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm)
@@ -23,7 +24,6 @@
 * [2023-08-26, 17:33:15](https://lobste.rs/s/fyaxsi/e_ink_is_so_retropunk) - [E-ink is so Retropunk](https://rmkit.dev/eink-is-so-retropunk/)
 * [2023-08-26, 14:59:25](https://lobste.rs/s/svdv5a/ichido_independent_search_engine) - [Ichido: an independent search engine inspired by 90s-2000s search](https://ichi.do/)
 * [2023-08-26, 13:58:23](https://lobste.rs/s/lb6voh/what_s_smallest_statically_typed) - [What's the smallest statically typed language implemented in itself?](https://old.reddit.com/r/ProgrammingLanguages/comments/161ke75/whats_the_smallest_statically_typed_language/)
-* [2023-08-26, 07:01:51](https://lobste.rs/s/odh9m4/rust_cryptography_should_be_written_rust) - [Rust Cryptography Should be Written in Rust](https://briansmith.org/rust-cryptography-should-be-written-in-rust-01)
 * [2023-08-25, 23:15:40](https://lobste.rs/s/f5i87t/cve_2020_19909_is_everything_is_wrong_with) - [CVE-2020-19909 is everything that is wrong with CVEs](https://daniel.haxx.se/blog/2023/08/26/cve-2020-19909-is-everything-that-is-wrong-with-cves/)
 
 ## [Archives](archives/index.md)
