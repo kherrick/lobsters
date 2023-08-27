@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-27](index.md)
 
+* [2023-08-27, 14:47:52](https://lobste.rs/s/zmggyb/gitui_0_24_supports_searching_entire) - [GitUI 0.24 supports searching the entire commit history](https://dev.to/extrawurst/gitui-024-supports-searching-the-entire-commit-history-4098)
 * [2023-08-27, 13:36:38](https://lobste.rs/s/lkbvnn/visualizing_impossible) - [Visualizing the Impossible](https://liam-ilan.github.io/time-dependent-schrodinger-equation/)
 * [2023-08-27, 12:55:17](https://lobste.rs/s/9vk4at/curl_with_rust_2022) - [curl with rust (2022)](https://daniel.haxx.se/blog/2022/02/01/curl-with-rust/)
 * [2023-08-27, 12:44:04](https://lobste.rs/s/07eybk/boundedbikeshed_focus_on_comments_you) - [BoundedBikeshed: Focus on the comments you find most interesting](https://github.com/timkuijsten/BoundedBikeshed)
