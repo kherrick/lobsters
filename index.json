@@ -1,11 +1,21 @@
 [
   [
     [
-      "2023-08-27, 12:44:04",
-      "https://lobste.rs/s/07eybk/boundedbikeshed_focus_on_comments_you"
+      "2023-08-27, 12:55:17",
+      "https://lobste.rs/s/9vk4at/curl_with_rust_2022"
     ],
     [
-      "BoundedBikeshed: Focus on the comments you find most interesting",
+      "curl with rust (2022)",
+      "https://daniel.haxx.se/blog/2022/02/01/curl-with-rust/"
+    ]
+  ],
+  [
+    [
+      "2023-08-27, 12:44:04",
+      "https://lobste.rs/s/07eybk/bounded_bikeshed_focus_on_comments_you"
+    ],
+    [
+      "Bounded Bikeshed - Focus on the comments you find most interesting",
       "https://github.com/timkuijsten/BoundedBikeshed"
     ]
   ],
@@ -197,16 +207,6 @@
     [
       "Rust Cryptography Should be Written in Rust",
       "https://briansmith.org/rust-cryptography-should-be-written-in-rust-01"
-    ]
-  ],
-  [
-    [
-      "2023-08-26, 03:26:11",
-      "https://lobste.rs/s/prfzaz/c4_c_four_functions"
-    ],
-    [
-      "c4: C in four functions",
-      "https://github.com/rswier/c4"
     ]
   ],
   [
