@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-27, 05:42:27](https://lobste.rs/s/lg7q3k/ubus_openwrt_micro_bus_architecture) - [ubus (OpenWrt micro bus architecture)](https://openwrt.org/docs/techref/ubus)
+* [2023-08-27, 05:42:18](https://lobste.rs/s/tvpf8k/making_smalltalk_on_raspberry_pi) - [Making Smalltalk On A Raspberry Pi](https://hackaday.com/2020/07/12/making-smalltalk-on-a-raspberry-pi/)
 * [2023-08-27, 03:51:55](https://lobste.rs/s/1dy4yw/activesupport_s_concern_pictures) - [ActiveSupport's Concern, in pictures](https://blog.jez.io/concern-inheritance/)
 * [2023-08-27, 02:39:48](https://lobste.rs/s/vr9e4b/two_erlang_patterns_i_love) - [Two Erlang patterns I love](http://blog.syncpup.com/posts/two-erlang-patterns-i-love.html)
 * [2023-08-27, 02:21:24](https://lobste.rs/s/hsfvc7/scenes_from_solbourne_computer) - [Scenes from the Solbourne Computer corporate video, March 1992](https://oldvcr.blogspot.com/2023/08/scenes-from-solbourne-computer.html)
@@ -11,7 +13,6 @@
 * [2023-08-26, 15:28:50](https://lobste.rs/s/kbhqkd/exploring_rust_compiler_benchmark_suite) - [Exploring the Rust compiler benchmark suite](https://kobzol.github.io/rust/rustc/2023/08/18/rustc-benchmark-suite.html)
 * [2023-08-26, 15:12:40](https://lobste.rs/s/8ob5pp/modern_b_tree_techniques_2011) - [Modern B-Tree Techniques (2011)](https://w6113.github.io/files/papers/btreesurvey-graefe.pdf)
 * [2023-08-26, 14:59:25](https://lobste.rs/s/svdv5a/ichido_independent_search_engine) - [Ichido: an independent search engine inspired by 90s-2000s search](https://ichi.do/)
-* [2023-08-26, 14:55:39](https://lobste.rs/s/nrvowk/clean_mount_lists_linux) - [Clean mount lists in Linux](https://dbohdan.com/clean-mount-lists)
 * [2023-08-26, 13:58:23](https://lobste.rs/s/lb6voh/what_s_smallest_statically_typed) - [What's the smallest statically typed language implemented in itself?](https://old.reddit.com/r/ProgrammingLanguages/comments/161ke75/whats_the_smallest_statically_typed_language/)
 * [2023-08-26, 12:55:01](https://lobste.rs/s/nhbxj7/how_ensure_optimising_compiler_will) - [How to ensure that an optimising compiler will terminate?](https://langdev.stackexchange.com/questions/2812/how-to-ensure-that-an-optimising-compiler-will-terminate)
 * [2023-08-26, 07:01:51](https://lobste.rs/s/odh9m4/rust_cryptography_should_be_written_rust) - [Rust Cryptography Should be Written in Rust](https://briansmith.org/rust-cryptography-should-be-written-in-rust-01)
@@ -21,7 +22,6 @@
 * [2023-08-26, 02:15:20](https://lobste.rs/s/c5comj/what_are_some_cool_side_projects_you_have) - [What are some cool side projects you have built lately?](https://lobste.rs/s/c5comj/what_are_some_cool_side_projects_you_have)
 * [2023-08-25, 23:15:40](https://lobste.rs/s/f5i87t/cve_2020_19909_is_everything_is_wrong_with) - [CVE-2020-19909 is everything that is wrong with CVEs](https://daniel.haxx.se/blog/2023/08/26/cve-2020-19909-is-everything-that-is-wrong-with-cves/)
 * [2023-08-25, 22:51:28](https://lobste.rs/s/pzslm9/ownspy_got_well_owned) - [ownspy got, well, owned](https://maia.crimew.gay/posts/fuckstalkerware-3/)
-* [2023-08-25, 18:20:23](https://lobste.rs/s/nko721/how_speed_up_rust_compiler_august_2023) - [How to speed up the Rust compiler in August 2023](https://nnethercote.github.io/2023/08/25/how-to-speed-up-the-rust-compiler-in-august-2023.html)
 * [2023-08-25, 16:30:06](https://lobste.rs/s/2io3xa/why_htmx_does_not_have_build_step) - [Why htmx Does Not Have a Build Step](https://htmx.org/essays/no-build-step/)
 * [2023-08-25, 14:41:06](https://lobste.rs/s/8gxlj9/implementing_interactive_languages) - [Implementing interactive languages](https://www.scattered-thoughts.net/writing/implementing-interactive-languages/)
 * [2023-08-25, 11:58:49](https://lobste.rs/s/siaxu7/my_thoughts_on_ocaml_vs_haskell_rust_2023) - [My Thoughts on OCaml vs Haskell/Rust in 2023](https://github.com/sidkshatriya/me/blob/master/007-My-Thoughts-on-OCaml-vs-Haskell-Rust-2023.md)
