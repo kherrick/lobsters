@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-27, 17:28:42](https://lobste.rs/s/nrkga8/old_netbsd_server_running_since_2010) - [That Old NetBSD Server, Running Since 2010](https://it-notes.dragas.net/2023/08/27/that-old-netbsd-server-running-since-2010/)
 * [2023-08-27, 15:56:25](https://lobste.rs/s/p1gd9s/debugging_compilers_with_optimization) - [Debugging compilers with optimization fuel](http://blog.ezyang.com/2011/06/debugging-compilers-with-optimization-fuel/)
 * [2023-08-27, 14:47:52](https://lobste.rs/s/zmggyb/gitui_0_24_supports_searching_entire) - [GitUI 0.24 supports searching the entire commit history](https://dev.to/extrawurst/gitui-024-supports-searching-the-entire-commit-history-4098)
 * [2023-08-27, 13:36:38](https://lobste.rs/s/lkbvnn/visualizing_impossible) - [Visualizing the Impossible](https://liam-ilan.github.io/time-dependent-schrodinger-equation/)
@@ -16,7 +17,6 @@
 * [2023-08-27, 02:39:48](https://lobste.rs/s/vr9e4b/two_erlang_patterns_i_love) - [Two Erlang patterns I love](http://blog.syncpup.com/posts/two-erlang-patterns-i-love.html)
 * [2023-08-27, 02:21:24](https://lobste.rs/s/hsfvc7/scenes_from_solbourne_computer) - [Scenes from the Solbourne Computer corporate video, March 1992](https://oldvcr.blogspot.com/2023/08/scenes-from-solbourne-computer.html)
 * [2023-08-27, 01:04:11](https://lobste.rs/s/qirw2a/semu_c64_linux_on_commodore_c64) - [semu-c64: Linux on a Commodore C64](https://github.com/onnokort/semu-c64)
-* [2023-08-27, 00:47:50](https://lobste.rs/s/h8he5b/text_processing_apl_2022) - [Text Processing in APL (2022)](https://www.youtube.com/watch?v=5I4YPkVU7mY)
 * [2023-08-26, 22:05:29](https://lobste.rs/s/kn00pu/on_using_go_s_t_parallel) - [On Using Go's `t.Parallel()`](https://brandur.org/t-parallel)
 * [2023-08-26, 18:15:36](https://lobste.rs/s/lmum4i/web_scraping_for_me_not_for_thee) - [Web Scraping for Me, But Not for Thee](https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm)
 * [2023-08-26, 17:33:15](https://lobste.rs/s/fyaxsi/e_ink_is_so_retropunk) - [E-ink is so Retropunk](https://rmkit.dev/eink-is-so-retropunk/)

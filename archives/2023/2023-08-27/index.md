@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-27](index.md)
 
+* [2023-08-27, 17:28:42](https://lobste.rs/s/nrkga8/old_netbsd_server_running_since_2010) - [That Old NetBSD Server, Running Since 2010](https://it-notes.dragas.net/2023/08/27/that-old-netbsd-server-running-since-2010/)
 * [2023-08-27, 15:56:25](https://lobste.rs/s/p1gd9s/debugging_compilers_with_optimization) - [Debugging compilers with optimization fuel](http://blog.ezyang.com/2011/06/debugging-compilers-with-optimization-fuel/)
 * [2023-08-27, 14:47:52](https://lobste.rs/s/zmggyb/gitui_0_24_supports_searching_entire) - [GitUI 0.24 supports searching the entire commit history](https://dev.to/extrawurst/gitui-024-supports-searching-the-entire-commit-history-4098)
 * [2023-08-27, 13:36:38](https://lobste.rs/s/lkbvnn/visualizing_impossible) - [Visualizing the Impossible](https://liam-ilan.github.io/time-dependent-schrodinger-equation/)
