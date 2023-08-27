@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-27, 09:19:04](https://lobste.rs/s/a2dmf5/c_papercuts) - [C++ Papercuts](https://www.thecodedmessage.com/posts/c++-papercuts/)
 * [2023-08-27, 09:17:53](https://lobste.rs/s/7uruhm/i386_ubuntu_won_t_die) - [i386 in Ubuntu won't die](https://popey.com/blog/2023/08/i386-in-ubuntu-wont-die/)
 * [2023-08-27, 08:09:58](https://lobste.rs/s/deuwqj/block_youtube_ads_on_appletv_by) - [Block YouTube Ads on AppleTV by Decrypting and Stripping Ads from Profobuf](https://ericdraken.com/pfsense-decrypt-ad-traffic/)
 * [2023-08-27, 07:46:16](https://lobste.rs/s/bp1yyt/support_for_activitypub_on_gitlab) - [Support for ActivityPub on GitLab](https://gitlab.com/groups/gitlab-org/-/epics/11247)
@@ -24,7 +25,6 @@
 * [2023-08-25, 23:15:40](https://lobste.rs/s/f5i87t/cve_2020_19909_is_everything_is_wrong_with) - [CVE-2020-19909 is everything that is wrong with CVEs](https://daniel.haxx.se/blog/2023/08/26/cve-2020-19909-is-everything-that-is-wrong-with-cves/)
 * [2023-08-25, 22:51:28](https://lobste.rs/s/pzslm9/ownspy_got_well_owned) - [ownspy got, well, owned](https://maia.crimew.gay/posts/fuckstalkerware-3/)
 * [2023-08-25, 16:30:06](https://lobste.rs/s/2io3xa/why_htmx_does_not_have_build_step) - [Why htmx Does Not Have a Build Step](https://htmx.org/essays/no-build-step/)
-* [2023-08-25, 11:58:49](https://lobste.rs/s/siaxu7/my_thoughts_on_ocaml_vs_haskell_rust_2023) - [My Thoughts on OCaml vs Haskell/Rust in 2023](https://github.com/sidkshatriya/me/blob/master/007-My-Thoughts-on-OCaml-vs-Haskell-Rust-2023.md)
 
 ## [Archives](archives/index.md)
 
