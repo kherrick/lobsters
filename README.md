@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-27, 21:20:22](https://lobste.rs/s/achxa6/higher_order_typed_functional) - [Higher-Order Typed Functional Coreographic Programming](https://people.mpi-sws.org/~dg/papers/popl22-choreographies.pdf)
 * [2023-08-27, 19:20:08](https://lobste.rs/s/dcmjau/missing_performance_std_vector) - [The Missing Performance in std::vector](https://codingnest.com/the-little-things-the-missing-performance-in-std-vector/)
 * [2023-08-27, 19:06:28](https://lobste.rs/s/ulxmfo/php_tokio_use_any_async_rust_library_from) - [php-tokio: Use any async Rust library from PHP](https://github.com/danog/php-tokio)
 * [2023-08-27, 18:30:34](https://lobste.rs/s/mnkays/python_is_coming_excel) - [Python is coming to Excel](https://flowingdata.com/2023/08/23/python-is-coming-to-excel/)
@@ -19,7 +20,6 @@
 * [2023-08-27, 05:42:27](https://lobste.rs/s/lg7q3k/ubus_openwrt_micro_bus_architecture) - [ubus (OpenWrt micro bus architecture)](https://openwrt.org/docs/techref/ubus)
 * [2023-08-27, 05:42:18](https://lobste.rs/s/tvpf8k/making_smalltalk_on_raspberry_pi) - [Making Smalltalk On A Raspberry Pi](https://hackaday.com/2020/07/12/making-smalltalk-on-a-raspberry-pi/)
 * [2023-08-27, 02:39:48](https://lobste.rs/s/vr9e4b/two_erlang_patterns_i_love) - [Two Erlang patterns I love](http://blog.syncpup.com/posts/two-erlang-patterns-i-love.html)
-* [2023-08-27, 02:21:24](https://lobste.rs/s/hsfvc7/scenes_from_solbourne_computer) - [Scenes from the Solbourne Computer corporate video, March 1992](https://oldvcr.blogspot.com/2023/08/scenes-from-solbourne-computer.html)
 * [2023-08-27, 01:04:11](https://lobste.rs/s/qirw2a/semu_c64_linux_on_commodore_c64) - [semu-c64: Linux on a Commodore C64](https://github.com/onnokort/semu-c64)
 * [2023-08-26, 18:15:36](https://lobste.rs/s/lmum4i/web_scraping_for_me_not_for_thee) - [Web Scraping for Me, But Not for Thee](https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm)
 * [2023-08-26, 17:33:15](https://lobste.rs/s/fyaxsi/e_ink_is_so_retropunk) - [E-ink is so Retropunk](https://rmkit.dev/eink-is-so-retropunk/)
