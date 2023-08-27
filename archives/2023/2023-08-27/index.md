@@ -1,0 +1,8 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-08-27](index.md)
+
+* [2023-08-27, 01:04:11](https://lobste.rs/s/qirw2a/semu_c64_linux_on_commodore_c64) - [semu-c64: Linux on a Commodore C64](https://github.com/onnokort/semu-c64)
+* [2023-08-27, 00:47:50](https://lobste.rs/s/h8he5b/text_processing_apl_2022) - [Text Processing in APL (2022)](https://www.youtube.com/watch?v=5I4YPkVU7mY)
