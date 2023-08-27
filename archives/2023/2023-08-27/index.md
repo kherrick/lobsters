@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-27](index.md)
 
+* [2023-08-27, 18:15:53](https://lobste.rs/s/twn5io/reaching_unix_philosophy_s_logical) - [Reaching the Unix Philosophy's Logical Extreme with Webassembly](https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm)
+* [2023-08-27, 18:13:47](https://lobste.rs/s/arig9k/5_laws_software_estimates_explored) - [5 Laws of Software Estimates - Explored, Explained and Debunked](https://hygger.io/blog/software-estimates-explored-explained-and-debunked/)
 * [2023-08-27, 17:51:49](https://lobste.rs/s/alqetx/static_typescript_implementation) - [Static TypeScript: An Implementation of a Static Compiler for the TypeScript Language](https://www.microsoft.com/en-us/research/publication/static-typescript/)
 * [2023-08-27, 17:49:00](https://lobste.rs/s/asrqfh/jank_development_update_object_model) - [jank development update - Object model results](https://jank-lang.org/blog/2023-08-26-object-model/)
 * [2023-08-27, 17:28:42](https://lobste.rs/s/nrkga8/old_netbsd_server_running_since_2010) - [That Old NetBSD Server, Running Since 2010](https://it-notes.dragas.net/2023/08/27/that-old-netbsd-server-running-since-2010/)
