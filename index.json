@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-27, 17:49:00",
+      "https://lobste.rs/s/asrqfh/jank_development_update_object_model"
+    ],
+    [
+      "jank development update - Object model results",
+      "https://jank-lang.org/blog/2023-08-26-object-model/"
+    ]
+  ],
+  [
+    [
       "2023-08-27, 17:28:42",
       "https://lobste.rs/s/nrkga8/old_netbsd_server_running_since_2010"
     ],
@@ -37,16 +47,6 @@
     [
       "Visualizing the Impossible",
       "https://liam-ilan.github.io/time-dependent-schrodinger-equation/"
-    ]
-  ],
-  [
-    [
-      "2023-08-27, 12:55:17",
-      "https://lobste.rs/s/9vk4at/curl_with_rust_2022"
-    ],
-    [
-      "curl with rust (2022)",
-      "https://daniel.haxx.se/blog/2022/02/01/curl-with-rust/"
     ]
   ],
   [
