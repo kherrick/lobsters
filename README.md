@@ -20,7 +20,7 @@
 * [2023-08-27, 05:42:27](https://lobste.rs/s/lg7q3k/ubus_openwrt_micro_bus_architecture) - [ubus (OpenWrt micro bus architecture)](https://openwrt.org/docs/techref/ubus)
 * [2023-08-27, 05:42:18](https://lobste.rs/s/tvpf8k/making_smalltalk_on_raspberry_pi) - [Making Smalltalk On A Raspberry Pi](https://hackaday.com/2020/07/12/making-smalltalk-on-a-raspberry-pi/)
 * [2023-08-27, 02:39:48](https://lobste.rs/s/vr9e4b/two_erlang_patterns_i_love) - [Two Erlang patterns I love](http://blog.syncpup.com/posts/two-erlang-patterns-i-love.html)
-* [2023-08-26, 22:05:29](https://lobste.rs/s/kn00pu/on_using_go_s_t_parallel) - [On Using Go's `t.Parallel()`](https://brandur.org/t-parallel)
+* [2023-08-27, 01:04:11](https://lobste.rs/s/qirw2a/semu_c64_linux_on_commodore_c64) - [semu-c64: Linux on a Commodore C64](https://github.com/onnokort/semu-c64)
 * [2023-08-26, 18:15:36](https://lobste.rs/s/lmum4i/web_scraping_for_me_not_for_thee) - [Web Scraping for Me, But Not for Thee](https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm)
 * [2023-08-26, 17:33:15](https://lobste.rs/s/fyaxsi/e_ink_is_so_retropunk) - [E-ink is so Retropunk](https://rmkit.dev/eink-is-so-retropunk/)
 * [2023-08-26, 14:59:25](https://lobste.rs/s/svdv5a/ichido_independent_search_engine) - [Ichido: an independent search engine inspired by 90s-2000s search](https://ichi.do/)
