@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-27, 17:49:00](https://lobste.rs/s/asrqfh/jank_development_update_object_model) - [jank development update - Object model results](https://jank-lang.org/blog/2023-08-26-object-model/)
 * [2023-08-27, 17:28:42](https://lobste.rs/s/nrkga8/old_netbsd_server_running_since_2010) - [That Old NetBSD Server, Running Since 2010](https://it-notes.dragas.net/2023/08/27/that-old-netbsd-server-running-since-2010/)
 * [2023-08-27, 15:56:25](https://lobste.rs/s/p1gd9s/debugging_compilers_with_optimization) - [Debugging compilers with optimization fuel](http://blog.ezyang.com/2011/06/debugging-compilers-with-optimization-fuel/)
 * [2023-08-27, 14:47:52](https://lobste.rs/s/zmggyb/gitui_0_24_supports_searching_entire) - [GitUI 0.24 supports searching the entire commit history](https://dev.to/extrawurst/gitui-024-supports-searching-the-entire-commit-history-4098)
 * [2023-08-27, 13:36:38](https://lobste.rs/s/lkbvnn/visualizing_impossible) - [Visualizing the Impossible](https://liam-ilan.github.io/time-dependent-schrodinger-equation/)
-* [2023-08-27, 12:55:17](https://lobste.rs/s/9vk4at/curl_with_rust_2022) - [curl with rust (2022)](https://daniel.haxx.se/blog/2022/02/01/curl-with-rust/)
 * [2023-08-27, 12:44:04](https://lobste.rs/s/07eybk/bounded_bikeshed_focus_on_comments_you) - [Bounded Bikeshed - Focus on the comments you find most interesting](https://github.com/timkuijsten/BoundedBikeshed)
 * [2023-08-27, 11:51:59](https://lobste.rs/s/4kmbw7/it_s_all_just_debian) - [It's All Just Debian](https://rtpg.co/2023/08/27/its-all-just-debian/)
 * [2023-08-27, 09:19:04](https://lobste.rs/s/a2dmf5/c_papercuts) - [C++ Papercuts](https://www.thecodedmessage.com/posts/c++-papercuts/)
