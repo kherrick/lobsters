@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-27](index.md)
 
+* [2023-08-27, 18:30:34](https://lobste.rs/s/mnkays/python_is_coming_excel) - [Python is coming to Excel](https://flowingdata.com/2023/08/23/python-is-coming-to-excel/)
 * [2023-08-27, 18:15:53](https://lobste.rs/s/twn5io/reaching_unix_philosophy_s_logical) - [Reaching the Unix Philosophy's Logical Extreme with Webassembly](https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm)
 * [2023-08-27, 18:13:47](https://lobste.rs/s/arig9k/5_laws_software_estimates_explored) - [5 Laws of Software Estimates - Explored, Explained and Debunked](https://hygger.io/blog/software-estimates-explored-explained-and-debunked/)
 * [2023-08-27, 17:51:49](https://lobste.rs/s/alqetx/static_typescript_implementation) - [Static TypeScript: An Implementation of a Static Compiler for the TypeScript Language](https://www.microsoft.com/en-us/research/publication/static-typescript/)
