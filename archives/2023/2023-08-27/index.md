@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-27](index.md)
 
+* [2023-08-27, 11:51:59](https://lobste.rs/s/4kmbw7/it_s_all_just_debian) - [It's All Just Debian](https://rtpg.co/2023/08/27/its-all-just-debian/)
 * [2023-08-27, 09:19:04](https://lobste.rs/s/a2dmf5/c_papercuts) - [C++ Papercuts](https://www.thecodedmessage.com/posts/c++-papercuts/)
 * [2023-08-27, 09:17:53](https://lobste.rs/s/7uruhm/i386_ubuntu_won_t_die) - [i386 in Ubuntu won't die](https://popey.com/blog/2023/08/i386-in-ubuntu-wont-die/)
 * [2023-08-27, 08:09:58](https://lobste.rs/s/deuwqj/block_youtube_ads_on_appletv_by) - [Block YouTube Ads on AppleTV by Decrypting and Stripping Ads from Profobuf](https://ericdraken.com/pfsense-decrypt-ad-traffic/)
