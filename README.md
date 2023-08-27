@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-27, 15:56:25](https://lobste.rs/s/p1gd9s/debugging_compilers_with_optimization) - [Debugging compilers with optimization fuel](http://blog.ezyang.com/2011/06/debugging-compilers-with-optimization-fuel/)
 * [2023-08-27, 13:36:38](https://lobste.rs/s/lkbvnn/visualizing_impossible) - [Visualizing the Impossible](https://liam-ilan.github.io/time-dependent-schrodinger-equation/)
 * [2023-08-27, 12:55:17](https://lobste.rs/s/9vk4at/curl_with_rust_2022) - [curl with rust (2022)](https://daniel.haxx.se/blog/2022/02/01/curl-with-rust/)
 * [2023-08-27, 12:44:04](https://lobste.rs/s/07eybk/bounded_bikeshed_focus_on_comments_you) - [Bounded Bikeshed - Focus on the comments you find most interesting](https://github.com/timkuijsten/BoundedBikeshed)
@@ -24,7 +25,6 @@
 * [2023-08-26, 07:01:51](https://lobste.rs/s/odh9m4/rust_cryptography_should_be_written_rust) - [Rust Cryptography Should be Written in Rust](https://briansmith.org/rust-cryptography-should-be-written-in-rust-01)
 * [2023-08-26, 02:15:20](https://lobste.rs/s/c5comj/what_are_some_cool_side_projects_you_have) - [What are some cool side projects you have built lately?](https://lobste.rs/s/c5comj/what_are_some_cool_side_projects_you_have)
 * [2023-08-25, 23:15:40](https://lobste.rs/s/f5i87t/cve_2020_19909_is_everything_is_wrong_with) - [CVE-2020-19909 is everything that is wrong with CVEs](https://daniel.haxx.se/blog/2023/08/26/cve-2020-19909-is-everything-that-is-wrong-with-cves/)
-* [2023-08-25, 16:30:06](https://lobste.rs/s/2io3xa/why_htmx_does_not_have_build_step) - [Why htmx Does Not Have a Build Step](https://htmx.org/essays/no-build-step/)
 
 ## [Archives](archives/index.md)
 
