@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-27](index.md)
 
+* [2023-08-27, 19:06:28](https://lobste.rs/s/ulxmfo/php_tokio_use_any_async_rust_library_from) - [php-tokio: Use any async Rust library from PHP](https://github.com/danog/php-tokio)
 * [2023-08-27, 18:30:34](https://lobste.rs/s/mnkays/python_is_coming_excel) - [Python is coming to Excel](https://flowingdata.com/2023/08/23/python-is-coming-to-excel/)
 * [2023-08-27, 18:15:53](https://lobste.rs/s/twn5io/reaching_unix_philosophy_s_logical) - [Reaching the Unix Philosophy's Logical Extreme with Webassembly](https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm)
 * [2023-08-27, 18:13:47](https://lobste.rs/s/arig9k/5_laws_software_estimates_explored) - [5 Laws of Software Estimates - Explored, Explained and Debunked](https://hygger.io/blog/software-estimates-explored-explained-and-debunked/)
