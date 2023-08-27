@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-27, 02:21:24](https://lobste.rs/s/hsfvc7/scenes_from_solbourne_computer) - [Scenes from the Solbourne Computer corporate video, March 1992](https://oldvcr.blogspot.com/2023/08/scenes-from-solbourne-computer.html)
 * [2023-08-27, 01:04:11](https://lobste.rs/s/qirw2a/semu_c64_linux_on_commodore_c64) - [semu-c64: Linux on a Commodore C64](https://github.com/onnokort/semu-c64)
 * [2023-08-27, 00:47:50](https://lobste.rs/s/h8he5b/text_processing_apl_2022) - [Text Processing in APL (2022)](https://www.youtube.com/watch?v=5I4YPkVU7mY)
 * [2023-08-26, 22:05:29](https://lobste.rs/s/kn00pu/on_using_go_s_t_parallel) - [On Using Go's `t.Parallel()`](https://brandur.org/t-parallel)
@@ -18,7 +19,6 @@
 * [2023-08-26, 03:21:28](https://lobste.rs/s/dtrfli/myth_google_s_plus) - [The myth of Google's plus](https://blog.zarfhome.com/2023/08/the-myth-of-google-plus)
 * [2023-08-26, 02:15:20](https://lobste.rs/s/c5comj/what_are_some_cool_side_projects_you_have) - [What are some cool side projects you have built lately?](https://lobste.rs/s/c5comj/what_are_some_cool_side_projects_you_have)
 * [2023-08-26, 01:58:36](https://lobste.rs/s/di6pjy/porting_stunt_car_racer_commodore_plus_4) - [Porting Stunt Car Racer to the Commodore Plus/4](https://github.com/cobbpg/cobbpg.github.io/blob/main/docs/articles/stunt-car-racer-plus4-port.md)
-* [2023-08-26, 01:55:32](https://lobste.rs/s/wbrnmk/initial_impressions_microsoft_olive) - [Initial Impressions of Microsoft Olive](https://zhenghaotan.com/blog/initial-impressions-of-msft-olive)
 * [2023-08-25, 23:15:40](https://lobste.rs/s/f5i87t/cve_2020_19909_is_everything_is_wrong_with) - [CVE-2020-19909 is everything that is wrong with CVEs](https://daniel.haxx.se/blog/2023/08/26/cve-2020-19909-is-everything-that-is-wrong-with-cves/)
 * [2023-08-25, 22:51:28](https://lobste.rs/s/pzslm9/ownspy_got_well_owned) - [ownspy got, well, owned](https://maia.crimew.gay/posts/fuckstalkerware-3/)
 * [2023-08-25, 18:20:23](https://lobste.rs/s/nko721/how_speed_up_rust_compiler_august_2023) - [How to speed up the Rust compiler in August 2023](https://nnethercote.github.io/2023/08/25/how-to-speed-up-the-rust-compiler-in-august-2023.html)
