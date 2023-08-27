@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-27, 12:44:04](https://lobste.rs/s/07eybk/boundedbikeshed_focus_on_comments_you) - [BoundedBikeshed: Focus on the comments you find most interesting](https://github.com/timkuijsten/BoundedBikeshed)
 * [2023-08-27, 11:51:59](https://lobste.rs/s/4kmbw7/it_s_all_just_debian) - [It's All Just Debian](https://rtpg.co/2023/08/27/its-all-just-debian/)
 * [2023-08-27, 09:19:04](https://lobste.rs/s/a2dmf5/c_papercuts) - [C++ Papercuts](https://www.thecodedmessage.com/posts/c++-papercuts/)
 * [2023-08-27, 09:17:53](https://lobste.rs/s/7uruhm/i386_ubuntu_won_t_die) - [i386 in Ubuntu won't die](https://popey.com/blog/2023/08/i386-in-ubuntu-wont-die/)
@@ -23,7 +24,6 @@
 * [2023-08-26, 03:21:28](https://lobste.rs/s/dtrfli/myth_google_s_plus) - [The myth of Google's plus](https://blog.zarfhome.com/2023/08/the-myth-of-google-plus)
 * [2023-08-26, 02:15:20](https://lobste.rs/s/c5comj/what_are_some_cool_side_projects_you_have) - [What are some cool side projects you have built lately?](https://lobste.rs/s/c5comj/what_are_some_cool_side_projects_you_have)
 * [2023-08-25, 23:15:40](https://lobste.rs/s/f5i87t/cve_2020_19909_is_everything_is_wrong_with) - [CVE-2020-19909 is everything that is wrong with CVEs](https://daniel.haxx.se/blog/2023/08/26/cve-2020-19909-is-everything-that-is-wrong-with-cves/)
-* [2023-08-25, 22:51:28](https://lobste.rs/s/pzslm9/ownspy_got_well_owned) - [ownspy got, well, owned](https://maia.crimew.gay/posts/fuckstalkerware-3/)
 * [2023-08-25, 16:30:06](https://lobste.rs/s/2io3xa/why_htmx_does_not_have_build_step) - [Why htmx Does Not Have a Build Step](https://htmx.org/essays/no-build-step/)
 
 ## [Archives](archives/index.md)
