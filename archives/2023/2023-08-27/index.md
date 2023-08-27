@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-08-27](index.md)
 
+* [2023-08-27, 12:55:17](https://lobste.rs/s/9vk4at/curl_with_rust_2022) - [curl with rust (2022)](https://daniel.haxx.se/blog/2022/02/01/curl-with-rust/)
 * [2023-08-27, 12:44:04](https://lobste.rs/s/07eybk/boundedbikeshed_focus_on_comments_you) - [BoundedBikeshed: Focus on the comments you find most interesting](https://github.com/timkuijsten/BoundedBikeshed)
+* [2023-08-27, 12:44:04](https://lobste.rs/s/07eybk/bounded_bikeshed_focus_on_comments_you) - [Bounded Bikeshed - Focus on the comments you find most interesting](https://github.com/timkuijsten/BoundedBikeshed)
 * [2023-08-27, 11:51:59](https://lobste.rs/s/4kmbw7/it_s_all_just_debian) - [It's All Just Debian](https://rtpg.co/2023/08/27/its-all-just-debian/)
 * [2023-08-27, 09:19:04](https://lobste.rs/s/a2dmf5/c_papercuts) - [C++ Papercuts](https://www.thecodedmessage.com/posts/c++-papercuts/)
 * [2023-08-27, 09:17:53](https://lobste.rs/s/7uruhm/i386_ubuntu_won_t_die) - [i386 in Ubuntu won't die](https://popey.com/blog/2023/08/i386-in-ubuntu-wont-die/)
