@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-28, 15:35:11](https://lobste.rs/s/ih6dp9/quartex_pascal_status_progress) - [Quartex Pascal: Status and progress](https://jonlennartaasenden.wordpress.com/2023/08/28/quartex-pascal-progress-status/)
 * [2023-08-28, 14:08:54](https://lobste.rs/s/8tzhds/focustro_development_notes_for) - [Focustro: Development Notes for a Replicating React Application](https://kevinmahoney.co.uk/articles/focustro/)
 * [2023-08-28, 13:11:32](https://lobste.rs/s/49927u/parallel_lexing_parsing_semantic) - [Parallel Lexing, Parsing and Semantic Analysis on the GPU (2021)](https://theses.liacs.nl/pdf/2020-2021-VoetterRobin.pdf)
 * [2023-08-28, 12:48:00](https://lobste.rs/s/96h6lc/getting_into_formal_specification) - [Getting into formal specification, and getting my team into it too](https://brooker.co.za/blog/2022/07/29/getting-into-tla.html)
@@ -11,7 +12,6 @@
 * [2023-08-28, 07:30:43](https://lobste.rs/s/uumm5j/nix_revisited) - [Nix revisited](https://lottia.net/notes/0003-nix-revisited.html)
 * [2023-08-28, 07:06:02](https://lobste.rs/s/17beun/learning_programming_with_turtle) - [Learning programming with a turtle](https://anto.pt/articles/learning-programming-with-a-turtle)
 * [2023-08-28, 07:00:23](https://lobste.rs/s/psdjsa/announcing_ocaml_wasm_organisation) - [Announcing the ocaml-wasm organisation](https://discuss.ocaml.org/t/announcing-the-ocaml-wasm-organisation/12676)
-* [2023-08-28, 07:00:11](https://lobste.rs/s/uaaqml/how_create_qt_5_arm_intel_universal_binary) - [How to create a Qt 5 ARM/Intel universal binary for Mac](https://www.downtowndougbrown.com/2023/08/how-to-create-a-qt-5-arm-intel-universal-binary-for-mac/)
 * [2023-08-28, 04:58:33](https://lobste.rs/s/ffhxp4/isle_work_progress_decompilation_lego) - [isle: A work-in-progress decompilation of LEGO Island (1997)](https://github.com/isledecomp/isle)
 * [2023-08-28, 03:57:54](https://lobste.rs/s/ttnuqe/ux_design_patterns_for_loading) - [UX Design Patterns for Loading](https://pencilandpaper.io/articles/ux-pattern-analysis-loading-feedback/)
 * [2023-08-28, 00:47:38](https://lobste.rs/s/xszyoz/fifo_queues_are_all_you_need_for_cache) - [FIFO queues are all you need for cache eviction](https://blog.jasony.me/system/cache/2023/08/01/s3fifo)
