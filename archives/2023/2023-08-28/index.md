@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
+* [2023-08-28, 22:30:01](https://lobste.rs/s/8lkxrt/new_project_old_technique_dksdk_ffi) - [New project, old technique: DkSDK FFI](https://discuss.ocaml.org/t/ann-new-project-old-technique-dksdk-ffi-ocaml/12909)
 * [2023-08-28, 22:11:48](https://lobste.rs/s/1wzt3y/lunar_landing_game_related_documents) - [Lunar Landing Game Related Documents](https://www.cs.brandeis.edu/~storer/LunarLander/LunarLander.html)
 * [2023-08-28, 21:17:41](https://lobste.rs/s/bv7rkm/making_little_smalltalk) - [Making A Little Smalltalk](https://hackaday.com/2020/12/20/making-a-little-smalltalk/)
 * [2023-08-28, 20:04:28](https://lobste.rs/s/lpwnid/gnome_s_sysprof_adds_flamegraphs_better) - [GNOME's Sysprof Adds FlameGraphs To Better Visualize Output - Phoronix](https://www.phoronix.com/news/GNOME-Sysprof-FlameGraphs)
