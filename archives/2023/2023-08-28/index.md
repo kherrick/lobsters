@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
+* [2023-08-28, 18:18:21](https://lobste.rs/s/eztxbr/hard_soft_statistics) - [Hard and Soft Statistics](https://buttondown.email/jaffray/archive/hard-and-soft-statistics/)
 * [2023-08-28, 18:07:12](https://lobste.rs/s/yqysej/jetporch_dev_blog_1) - [JetPorch Dev Blog #1](https://jetporch.substack.com/p/jetporch-dev-blog-1)
 * [2023-08-28, 16:32:13](https://lobste.rs/s/ziuc1i/pigeon_is_still_faster_than_internet) - [A Pigeon is still faster than the Internet](https://www.jeffgeerling.com/blog/2023/pigeon-still-faster-internet)
 * [2023-08-28, 16:03:07](https://lobste.rs/s/pphlbr/further_sqlite_mode_extensions) - [Further sqlite-mode extensions](https://xenodium.com/further-sqlite-mode-extensions/)

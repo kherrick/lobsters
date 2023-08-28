@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-28, 18:18:21](https://lobste.rs/s/eztxbr/hard_soft_statistics) - [Hard and Soft Statistics](https://buttondown.email/jaffray/archive/hard-and-soft-statistics/)
 * [2023-08-28, 18:07:12](https://lobste.rs/s/yqysej/jetporch_dev_blog_1) - [JetPorch Dev Blog #1](https://jetporch.substack.com/p/jetporch-dev-blog-1)
 * [2023-08-28, 16:32:13](https://lobste.rs/s/ziuc1i/pigeon_is_still_faster_than_internet) - [A Pigeon is still faster than the Internet](https://www.jeffgeerling.com/blog/2023/pigeon-still-faster-internet)
 * [2023-08-28, 16:03:07](https://lobste.rs/s/pphlbr/further_sqlite_mode_extensions) - [Further sqlite-mode extensions](https://xenodium.com/further-sqlite-mode-extensions/)
@@ -15,7 +16,6 @@
 * [2023-08-28, 07:06:02](https://lobste.rs/s/17beun/learning_programming_with_turtle) - [Learning programming with a turtle](https://anto.pt/articles/learning-programming-with-a-turtle)
 * [2023-08-28, 07:00:23](https://lobste.rs/s/psdjsa/announcing_ocaml_wasm_organisation) - [Announcing the ocaml-wasm organisation](https://discuss.ocaml.org/t/announcing-the-ocaml-wasm-organisation/12676)
 * [2023-08-28, 04:58:33](https://lobste.rs/s/ffhxp4/isle_work_progress_decompilation_lego) - [isle: A work-in-progress decompilation of LEGO Island (1997)](https://github.com/isledecomp/isle)
-* [2023-08-28, 03:57:54](https://lobste.rs/s/ttnuqe/ux_design_patterns_for_loading) - [UX Design Patterns for Loading](https://pencilandpaper.io/articles/ux-pattern-analysis-loading-feedback/)
 * [2023-08-28, 00:47:38](https://lobste.rs/s/xszyoz/fifo_queues_are_all_you_need_for_cache) - [FIFO queues are all you need for cache eviction](https://blog.jasony.me/system/cache/2023/08/01/s3fifo)
 * [2023-08-27, 19:20:08](https://lobste.rs/s/dcmjau/missing_performance_std_vector) - [The Missing Performance in std::vector](https://codingnest.com/the-little-things-the-missing-performance-in-std-vector/)
 * [2023-08-27, 19:06:28](https://lobste.rs/s/ulxmfo/php_tokio_use_any_async_rust_library_from) - [php-tokio: Use any async Rust library from PHP](https://github.com/danog/php-tokio)
