@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-08-28, 12:20:07",
+      "https://lobste.rs/s/sgoshm/serde_is_no_longer_shipping_precompiled"
+    ],
+    [
+      "Serde is no longer shipping precompiled blobs",
+      "https://github.com/serde-rs/serde/pull/2590"
+    ]
+  ],
+  [
+    [
+      "2023-08-28, 12:03:52",
+      "https://lobste.rs/s/vlmsti/from_tui_rs_ratatui_6_months_cooking_up"
+    ],
+    [
+      "From tui-rs to Ratatui: 6 Months of Cooking Up Rust TUIs",
+      "https://blog.orhun.dev/ratatui-0-23-0/"
+    ]
+  ],
+  [
+    [
       "2023-08-28, 11:17:40",
       "https://lobste.rs/s/j8unbh/what_are_some_cool_side_projects_you_have"
     ],
@@ -67,16 +87,6 @@
     [
       "Announcing the ocaml-wasm organisation",
       "https://discuss.ocaml.org/t/announcing-the-ocaml-wasm-organisation/12676"
-    ]
-  ],
-  [
-    [
-      "2023-08-28, 07:00:11",
-      "https://lobste.rs/s/uaaqml/how_create_qt_5_arm_intel_universal_binary"
-    ],
-    [
-      "How to create a Qt 5 ARM/Intel universal binary for Mac",
-      "https://www.downtowndougbrown.com/2023/08/how-to-create-a-qt-5-arm-intel-universal-binary-for-mac/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "That Old NetBSD Server, Running Since 2010",
       "https://it-notes.dragas.net/2023/08/27/that-old-netbsd-server-running-since-2010/"
-    ]
-  ],
-  [
-    [
-      "2023-08-27, 15:56:25",
-      "https://lobste.rs/s/p1gd9s/debugging_compilers_with_optimization"
-    ],
-    [
-      "Debugging compilers with optimization fuel",
-      "http://blog.ezyang.com/2011/06/debugging-compilers-with-optimization-fuel/"
     ]
   ],
   [
