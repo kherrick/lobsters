@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-28, 16:03:07](https://lobste.rs/s/pphlbr/further_sqlite_mode_extensions) - [Further sqlite-mode extensions](https://xenodium.com/further-sqlite-mode-extensions/)
 * [2023-08-28, 15:35:11](https://lobste.rs/s/ih6dp9/quartex_pascal_status_progress) - [Quartex Pascal: Status and progress](https://jonlennartaasenden.wordpress.com/2023/08/28/quartex-pascal-progress-status/)
 * [2023-08-28, 14:08:54](https://lobste.rs/s/8tzhds/focustro_development_notes_for) - [Focustro: Development Notes for a Replicating React Application](https://kevinmahoney.co.uk/articles/focustro/)
 * [2023-08-28, 13:11:32](https://lobste.rs/s/49927u/parallel_lexing_parsing_semantic) - [Parallel Lexing, Parsing and Semantic Analysis on the GPU (2021)](https://theses.liacs.nl/pdf/2020-2021-VoetterRobin.pdf)
 * [2023-08-28, 12:48:00](https://lobste.rs/s/96h6lc/getting_into_formal_specification) - [Getting into formal specification, and getting my team into it too](https://brooker.co.za/blog/2022/07/29/getting-into-tla.html)
 * [2023-08-28, 12:20:07](https://lobste.rs/s/sgoshm/serde_is_no_longer_shipping_precompiled) - [Serde is no longer shipping precompiled blobs](https://github.com/serde-rs/serde/pull/2590)
 * [2023-08-28, 12:03:52](https://lobste.rs/s/vlmsti/from_tui_rs_ratatui_6_months_cooking_up) - [From tui-rs to Ratatui: 6 Months of Cooking Up Rust TUIs](https://blog.orhun.dev/ratatui-0-23-0/)
-* [2023-08-28, 11:14:24](https://lobste.rs/s/xyaxjo/taxonomy_bugs) - [A Taxonomy of Bugs](https://ruby0x1.github.io/machinery_blog_archive/post/a-taxonomy-of-bugs/index.html)
 * [2023-08-28, 11:11:19](https://lobste.rs/s/fyvcsx/first_postgres_vector_extension_with) - [First Postgres Vector Extension with Filtering Support](https://modelz.ai/blog/pgvecto-rs-condition-filtering)
 * [2023-08-28, 10:53:21](https://lobste.rs/s/xir7l8/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xir7l8/what_are_you_doing_this_week)
 * [2023-08-28, 07:30:43](https://lobste.rs/s/uumm5j/nix_revisited) - [Nix revisited](https://lottia.net/notes/0003-nix-revisited.html)
