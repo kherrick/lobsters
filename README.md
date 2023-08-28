@@ -7,7 +7,7 @@
 * [2023-08-28, 04:58:33](https://lobste.rs/s/ffhxp4/isle_work_progress_decompilation_lego) - [isle: A work-in-progress decompilation of LEGO Island (1997)](https://github.com/isledecomp/isle)
 * [2023-08-28, 03:57:54](https://lobste.rs/s/ttnuqe/ux_design_patterns_for_loading) - [UX Design Patterns for Loading](https://pencilandpaper.io/articles/ux-pattern-analysis-loading-feedback/)
 * [2023-08-28, 00:47:38](https://lobste.rs/s/xszyoz/fifo_queues_are_all_you_need_for_cache) - [FIFO queues are all you need for cache eviction](https://blog.jasony.me/system/cache/2023/08/01/s3fifo)
-* [2023-08-27, 21:20:22](https://lobste.rs/s/achxa6/higher_order_typed_functional) - [Higher-Order Typed Functional Coreographic Programming](https://people.mpi-sws.org/~dg/papers/popl22-choreographies.pdf)
+* [2023-08-27, 21:20:22](https://lobste.rs/s/achxa6/higher_order_typed_functional) - [Higher-Order Typed Functional Choreographic Programming](https://people.mpi-sws.org/~dg/papers/popl22-choreographies.pdf)
 * [2023-08-27, 19:20:08](https://lobste.rs/s/dcmjau/missing_performance_std_vector) - [The Missing Performance in std::vector](https://codingnest.com/the-little-things-the-missing-performance-in-std-vector/)
 * [2023-08-27, 19:06:28](https://lobste.rs/s/ulxmfo/php_tokio_use_any_async_rust_library_from) - [php-tokio: Use any async Rust library from PHP](https://github.com/danog/php-tokio)
 * [2023-08-27, 18:15:53](https://lobste.rs/s/twn5io/reaching_unix_philosophy_s_logical) - [Reaching the Unix Philosophy's Logical Extreme with Webassembly](https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm)
