@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-28, 07:30:43](https://lobste.rs/s/uumm5j/nix_revisited) - [Nix revisited](https://lottia.net/notes/0003-nix-revisited.html)
 * [2023-08-28, 07:06:02](https://lobste.rs/s/17beun/learning_programming_with_turtle) - [Learning programming with a turtle](https://anto.pt/articles/learning-programming-with-a-turtle)
 * [2023-08-28, 07:00:23](https://lobste.rs/s/psdjsa/announcing_ocaml_wasm_organisation) - [Announcing the ocaml-wasm organisation](https://discuss.ocaml.org/t/announcing-the-ocaml-wasm-organisation/12676)
 * [2023-08-28, 07:00:11](https://lobste.rs/s/uaaqml/how_create_qt_5_arm_intel_universal_binary) - [How to create a Qt 5 ARM/Intel universal binary for Mac](https://www.downtowndougbrown.com/2023/08/how-to-create-a-qt-5-arm-intel-universal-binary-for-mac/)
@@ -10,7 +11,6 @@
 * [2023-08-27, 19:20:08](https://lobste.rs/s/dcmjau/missing_performance_std_vector) - [The Missing Performance in std::vector](https://codingnest.com/the-little-things-the-missing-performance-in-std-vector/)
 * [2023-08-27, 19:06:28](https://lobste.rs/s/ulxmfo/php_tokio_use_any_async_rust_library_from) - [php-tokio: Use any async Rust library from PHP](https://github.com/danog/php-tokio)
 * [2023-08-27, 18:15:53](https://lobste.rs/s/twn5io/reaching_unix_philosophy_s_logical) - [Reaching the Unix Philosophy's Logical Extreme with Webassembly](https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm)
-* [2023-08-27, 18:13:47](https://lobste.rs/s/arig9k/5_laws_software_estimates_explored) - [5 Laws of Software Estimates - Explored, Explained and Debunked](https://hygger.io/blog/software-estimates-explored-explained-and-debunked/)
 * [2023-08-27, 17:51:49](https://lobste.rs/s/alqetx/static_typescript_implementation) - [Static TypeScript: An Implementation of a Static Compiler for the TypeScript Language](https://www.microsoft.com/en-us/research/publication/static-typescript/)
 * [2023-08-27, 17:49:00](https://lobste.rs/s/asrqfh/jank_development_update_object_model) - [jank development update - Object model results](https://jank-lang.org/blog/2023-08-26-object-model/)
 * [2023-08-27, 17:28:42](https://lobste.rs/s/nrkga8/old_netbsd_server_running_since_2010) - [That Old NetBSD Server, Running Since 2010](https://it-notes.dragas.net/2023/08/27/that-old-netbsd-server-running-since-2010/)
