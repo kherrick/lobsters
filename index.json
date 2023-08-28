@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2023-08-28, 11:14:24",
+      "https://lobste.rs/s/xyaxjo/taxonomy_bugs"
+    ],
+    [
+      "A Taxonomy of Bugs",
+      "https://ruby0x1.github.io/machinery_blog_archive/post/a-taxonomy-of-bugs/index.html"
+    ]
+  ],
+  [
+    [
       "2023-08-28, 11:11:19",
       "https://lobste.rs/s/fyvcsx/first_postgres_vector_extension_with"
     ],
@@ -157,16 +167,6 @@
     [
       "FIFO queues are all you need for cache eviction",
       "https://blog.jasony.me/system/cache/2023/08/01/s3fifo"
-    ]
-  ],
-  [
-    [
-      "2023-08-27, 21:20:22",
-      "https://lobste.rs/s/achxa6/higher_order_typed_functional"
-    ],
-    [
-      "Higher-Order Typed Functional Choreographic Programming",
-      "https://people.mpi-sws.org/~dg/papers/popl22-choreographies.pdf"
     ]
   ],
   [
