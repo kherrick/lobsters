@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-08-28, 07:06:02",
+      "https://lobste.rs/s/17beun/learning_programming_with_turtle"
+    ],
+    [
+      "Learning programming with a turtle",
+      "https://anto.pt/articles/learning-programming-with-a-turtle"
+    ]
+  ],
+  [
+    [
+      "2023-08-28, 07:00:23",
+      "https://lobste.rs/s/psdjsa/announcing_ocaml_wasm_organisation"
+    ],
+    [
+      "Announcing the ocaml-wasm organisation",
+      "https://discuss.ocaml.org/t/announcing-the-ocaml-wasm-organisation/12676"
+    ]
+  ],
+  [
+    [
+      "2023-08-28, 07:00:11",
+      "https://lobste.rs/s/uaaqml/how_create_qt_5_arm_intel_universal_binary"
+    ],
+    [
+      "How to create a Qt 5 ARM/Intel universal binary for Mac",
+      "https://www.downtowndougbrown.com/2023/08/how-to-create-a-qt-5-arm-intel-universal-binary-for-mac/"
+    ]
+  ],
+  [
+    [
       "2023-08-28, 04:58:33",
       "https://lobste.rs/s/ffhxp4/isle_work_progress_decompilation_lego"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2023-08-27, 13:36:38",
-      "https://lobste.rs/s/lkbvnn/visualizing_impossible"
-    ],
-    [
-      "Visualizing the Impossible",
-      "https://liam-ilan.github.io/time-dependent-schrodinger-equation/"
-    ]
-  ],
-  [
-    [
       "2023-08-27, 12:44:04",
       "https://lobste.rs/s/07eybk/bounded_bikeshed_focus_on_comments_you"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-08-26, 18:15:36",
-      "https://lobste.rs/s/lmum4i/web_scraping_for_me_not_for_thee"
-    ],
-    [
-      "Web Scraping for Me, But Not for Thee",
-      "https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm"
-    ]
-  ],
-  [
-    [
       "2023-08-26, 17:33:15",
       "https://lobste.rs/s/fyaxsi/e_ink_is_so_retropunk"
     ],
@@ -237,16 +247,6 @@
     [
       "Ichido: an independent search engine inspired by 90s-2000s search",
       "https://ichi.do/"
-    ]
-  ],
-  [
-    [
-      "2023-08-25, 23:15:40",
-      "https://lobste.rs/s/f5i87t/cve_2020_19909_is_everything_is_wrong_with"
-    ],
-    [
-      "CVE-2020-19909 is everything that is wrong with CVEs",
-      "https://daniel.haxx.se/blog/2023/08/26/cve-2020-19909-is-everything-that-is-wrong-with-cves/"
     ]
   ]
 ]
