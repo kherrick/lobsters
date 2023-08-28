@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-28, 10:53:21](https://lobste.rs/s/xir7l8/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xir7l8/what_are_you_doing_this_week)
 * [2023-08-28, 07:30:43](https://lobste.rs/s/uumm5j/nix_revisited) - [Nix revisited](https://lottia.net/notes/0003-nix-revisited.html)
 * [2023-08-28, 07:06:02](https://lobste.rs/s/17beun/learning_programming_with_turtle) - [Learning programming with a turtle](https://anto.pt/articles/learning-programming-with-a-turtle)
 * [2023-08-28, 07:00:23](https://lobste.rs/s/psdjsa/announcing_ocaml_wasm_organisation) - [Announcing the ocaml-wasm organisation](https://discuss.ocaml.org/t/announcing-the-ocaml-wasm-organisation/12676)
@@ -21,7 +22,6 @@
 * [2023-08-27, 09:17:53](https://lobste.rs/s/7uruhm/i386_ubuntu_won_t_die) - [i386 in Ubuntu won't die](https://popey.com/blog/2023/08/i386-in-ubuntu-wont-die/)
 * [2023-08-27, 08:09:58](https://lobste.rs/s/deuwqj/block_youtube_ads_on_appletv_by) - [Block YouTube Ads on AppleTV by Decrypting and Stripping Ads from Profobuf](https://ericdraken.com/pfsense-decrypt-ad-traffic/)
 * [2023-08-27, 07:46:16](https://lobste.rs/s/bp1yyt/support_for_activitypub_on_gitlab) - [Support for ActivityPub on GitLab](https://gitlab.com/groups/gitlab-org/-/epics/11247)
-* [2023-08-27, 05:42:27](https://lobste.rs/s/lg7q3k/ubus_openwrt_micro_bus_architecture) - [ubus (OpenWrt micro bus architecture)](https://openwrt.org/docs/techref/ubus)
 * [2023-08-27, 02:39:48](https://lobste.rs/s/vr9e4b/two_erlang_patterns_i_love) - [Two Erlang patterns I love](http://blog.syncpup.com/posts/two-erlang-patterns-i-love.html)
 * [2023-08-26, 17:33:15](https://lobste.rs/s/fyaxsi/e_ink_is_so_retropunk) - [E-ink is so Retropunk](https://rmkit.dev/eink-is-so-retropunk/)
 * [2023-08-26, 14:59:25](https://lobste.rs/s/svdv5a/ichido_independent_search_engine) - [Ichido: an independent search engine inspired by 90s-2000s search](https://ichi.do/)
