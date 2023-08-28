@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-28, 19:57:52",
+      "https://lobste.rs/s/qc6hxr/perfectly_reproducible_verified_go"
+    ],
+    [
+      "Perfectly Reproducible, Verified Go Toolchains",
+      "https://go.dev/blog/rebuild"
+    ]
+  ],
+  [
+    [
       "2023-08-28, 19:46:00",
       "https://lobste.rs/s/bcnvlf/premature_optimization_universally"
     ],
@@ -197,16 +207,6 @@
     [
       "Reaching the Unix Philosophy's Logical Extreme with Webassembly",
       "https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm"
-    ]
-  ],
-  [
-    [
-      "2023-08-27, 17:49:00",
-      "https://lobste.rs/s/asrqfh/jank_development_update_object_model"
-    ],
-    [
-      "jank development update - Object model results",
-      "https://jank-lang.org/blog/2023-08-26-object-model/"
     ]
   ],
   [
