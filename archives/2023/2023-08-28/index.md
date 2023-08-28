@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
+* [2023-08-28, 11:14:24](https://lobste.rs/s/xyaxjo/taxonomy_bugs) - [A Taxonomy of Bugs](https://ruby0x1.github.io/machinery_blog_archive/post/a-taxonomy-of-bugs/index.html)
+* [2023-08-28, 11:11:19](https://lobste.rs/s/fyvcsx/first_postgres_vector_extension_with) - [First Postgres Vector Extension with Filtering Support](https://modelz.ai/blog/pgvecto-rs-condition-filtering)
 * [2023-08-28, 10:53:21](https://lobste.rs/s/xir7l8/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xir7l8/what_are_you_doing_this_week)
 * [2023-08-28, 07:30:43](https://lobste.rs/s/uumm5j/nix_revisited) - [Nix revisited](https://lottia.net/notes/0003-nix-revisited.html)
 * [2023-08-28, 07:06:02](https://lobste.rs/s/17beun/learning_programming_with_turtle) - [Learning programming with a turtle](https://anto.pt/articles/learning-programming-with-a-turtle)
