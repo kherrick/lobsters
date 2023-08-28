@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-28, 21:17:41](https://lobste.rs/s/bv7rkm/making_little_smalltalk) - [Making A Little Smalltalk](https://hackaday.com/2020/12/20/making-a-little-smalltalk/)
 * [2023-08-28, 20:04:28](https://lobste.rs/s/lpwnid/gnome_s_sysprof_adds_flamegraphs_better) - [GNOME's Sysprof Adds FlameGraphs To Better Visualize Output - Phoronix](https://www.phoronix.com/news/GNOME-Sysprof-FlameGraphs)
 * [2023-08-28, 19:57:52](https://lobste.rs/s/qc6hxr/perfectly_reproducible_verified_go) - [Perfectly Reproducible, Verified Go Toolchains](https://go.dev/blog/rebuild)
 * [2023-08-28, 19:46:00](https://lobste.rs/s/bcnvlf/premature_optimization_universally) - [Premature Optimization: Universally Misunderstood](https://milen.me/writings/premature-optimization-universally-misunderstood/)
@@ -23,7 +24,6 @@
 * [2023-08-27, 19:06:28](https://lobste.rs/s/ulxmfo/php_tokio_use_any_async_rust_library_from) - [php-tokio: Use any async Rust library from PHP](https://github.com/danog/php-tokio)
 * [2023-08-27, 18:15:53](https://lobste.rs/s/twn5io/reaching_unix_philosophy_s_logical) - [Reaching the Unix Philosophy's Logical Extreme with Webassembly](https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm)
 * [2023-08-27, 17:28:42](https://lobste.rs/s/nrkga8/old_netbsd_server_running_since_2010) - [That Old NetBSD Server, Running Since 2010](https://it-notes.dragas.net/2023/08/27/that-old-netbsd-server-running-since-2010/)
-* [2023-08-27, 11:51:59](https://lobste.rs/s/4kmbw7/it_s_all_just_debian) - [It's All Just Debian](https://rtpg.co/2023/08/27/its-all-just-debian/)
 * [2023-08-27, 07:46:16](https://lobste.rs/s/bp1yyt/support_for_activitypub_on_gitlab) - [Support for ActivityPub on GitLab](https://gitlab.com/groups/gitlab-org/-/epics/11247)
 
 ## [Archives](archives/index.md)

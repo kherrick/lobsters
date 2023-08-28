@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
+* [2023-08-28, 21:17:41](https://lobste.rs/s/bv7rkm/making_little_smalltalk) - [Making A Little Smalltalk](https://hackaday.com/2020/12/20/making-a-little-smalltalk/)
 * [2023-08-28, 20:04:28](https://lobste.rs/s/lpwnid/gnome_s_sysprof_adds_flamegraphs_better) - [GNOME's Sysprof Adds FlameGraphs To Better Visualize Output - Phoronix](https://www.phoronix.com/news/GNOME-Sysprof-FlameGraphs)
 * [2023-08-28, 19:57:52](https://lobste.rs/s/qc6hxr/perfectly_reproducible_verified_go) - [Perfectly Reproducible, Verified Go Toolchains](https://go.dev/blog/rebuild)
 * [2023-08-28, 19:46:00](https://lobste.rs/s/bcnvlf/premature_optimization_universally) - [Premature Optimization: Universally Misunderstood](https://milen.me/writings/premature-optimization-universally-misunderstood/)
