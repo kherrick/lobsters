@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
+* [2023-08-28, 16:32:13](https://lobste.rs/s/ziuc1i/pigeon_is_still_faster_than_internet) - [A Pigeon is still faster than the Internet](https://www.jeffgeerling.com/blog/2023/pigeon-still-faster-internet)
 * [2023-08-28, 16:03:07](https://lobste.rs/s/pphlbr/further_sqlite_mode_extensions) - [Further sqlite-mode extensions](https://xenodium.com/further-sqlite-mode-extensions/)
 * [2023-08-28, 15:35:11](https://lobste.rs/s/ih6dp9/quartex_pascal_status_progress) - [Quartex Pascal: Status and progress](https://jonlennartaasenden.wordpress.com/2023/08/28/quartex-pascal-progress-status/)
 * [2023-08-28, 14:08:54](https://lobste.rs/s/8tzhds/focustro_development_notes_for) - [Focustro: Development Notes for a Replicating React Application](https://kevinmahoney.co.uk/articles/focustro/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-28, 16:32:13](https://lobste.rs/s/ziuc1i/pigeon_is_still_faster_than_internet) - [A Pigeon is still faster than the Internet](https://www.jeffgeerling.com/blog/2023/pigeon-still-faster-internet)
 * [2023-08-28, 16:03:07](https://lobste.rs/s/pphlbr/further_sqlite_mode_extensions) - [Further sqlite-mode extensions](https://xenodium.com/further-sqlite-mode-extensions/)
 * [2023-08-28, 15:35:11](https://lobste.rs/s/ih6dp9/quartex_pascal_status_progress) - [Quartex Pascal: Status and progress](https://jonlennartaasenden.wordpress.com/2023/08/28/quartex-pascal-progress-status/)
 * [2023-08-28, 14:08:54](https://lobste.rs/s/8tzhds/focustro_development_notes_for) - [Focustro: Development Notes for a Replicating React Application](https://kevinmahoney.co.uk/articles/focustro/)
@@ -21,7 +22,6 @@
 * [2023-08-27, 18:15:53](https://lobste.rs/s/twn5io/reaching_unix_philosophy_s_logical) - [Reaching the Unix Philosophy's Logical Extreme with Webassembly](https://xeiaso.net/talks/unix-philosophy-logical-extreme-wasm)
 * [2023-08-27, 17:49:00](https://lobste.rs/s/asrqfh/jank_development_update_object_model) - [jank development update - Object model results](https://jank-lang.org/blog/2023-08-26-object-model/)
 * [2023-08-27, 17:28:42](https://lobste.rs/s/nrkga8/old_netbsd_server_running_since_2010) - [That Old NetBSD Server, Running Since 2010](https://it-notes.dragas.net/2023/08/27/that-old-netbsd-server-running-since-2010/)
-* [2023-08-27, 12:44:04](https://lobste.rs/s/07eybk/bounded_bikeshed_focus_on_comments_you) - [Bounded Bikeshed - Focus on the comments you find most interesting](https://github.com/timkuijsten/BoundedBikeshed)
 * [2023-08-27, 11:51:59](https://lobste.rs/s/4kmbw7/it_s_all_just_debian) - [It's All Just Debian](https://rtpg.co/2023/08/27/its-all-just-debian/)
 * [2023-08-27, 08:09:58](https://lobste.rs/s/deuwqj/block_youtube_ads_on_appletv_by) - [Block YouTube Ads on AppleTV by Decrypting and Stripping Ads from Profobuf](https://ericdraken.com/pfsense-decrypt-ad-traffic/)
 * [2023-08-27, 07:46:16](https://lobste.rs/s/bp1yyt/support_for_activitypub_on_gitlab) - [Support for ActivityPub on GitLab](https://gitlab.com/groups/gitlab-org/-/epics/11247)
