@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-28, 14:08:54](https://lobste.rs/s/8tzhds/focustro_development_notes_for) - [Focustro: Development Notes for a Replicating React Application](https://kevinmahoney.co.uk/articles/focustro/)
 * [2023-08-28, 13:11:32](https://lobste.rs/s/49927u/parallel_lexing_parsing_semantic) - [Parallel Lexing, Parsing and Semantic Analysis on the GPU (2021)](https://theses.liacs.nl/pdf/2020-2021-VoetterRobin.pdf)
 * [2023-08-28, 12:48:00](https://lobste.rs/s/96h6lc/getting_into_formal_specification) - [Getting into formal specification, and getting my team into it too](https://brooker.co.za/blog/2022/07/29/getting-into-tla.html)
 * [2023-08-28, 12:20:07](https://lobste.rs/s/sgoshm/serde_is_no_longer_shipping_precompiled) - [Serde is no longer shipping precompiled blobs](https://github.com/serde-rs/serde/pull/2590)
@@ -24,7 +25,6 @@
 * [2023-08-27, 09:19:04](https://lobste.rs/s/a2dmf5/c_papercuts) - [C++ Papercuts](https://www.thecodedmessage.com/posts/c++-papercuts/)
 * [2023-08-27, 08:09:58](https://lobste.rs/s/deuwqj/block_youtube_ads_on_appletv_by) - [Block YouTube Ads on AppleTV by Decrypting and Stripping Ads from Profobuf](https://ericdraken.com/pfsense-decrypt-ad-traffic/)
 * [2023-08-27, 07:46:16](https://lobste.rs/s/bp1yyt/support_for_activitypub_on_gitlab) - [Support for ActivityPub on GitLab](https://gitlab.com/groups/gitlab-org/-/epics/11247)
-* [2023-08-26, 14:59:25](https://lobste.rs/s/svdv5a/ichido_independent_search_engine) - [Ichido: an independent search engine inspired by 90s-2000s search](https://ichi.do/)
 
 ## [Archives](archives/index.md)
 
