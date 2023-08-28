@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
+* [2023-08-28, 19:46:00](https://lobste.rs/s/bcnvlf/premature_optimization_universally) - [Premature Optimization: Universally Misunderstood](https://milen.me/writings/premature-optimization-universally-misunderstood/)
 * [2023-08-28, 18:42:07](https://lobste.rs/s/loniyh/crumb_programming_language) - [The Crumb Programming Language](https://github.com/liam-ilan/crumb)
 * [2023-08-28, 18:18:21](https://lobste.rs/s/eztxbr/hard_soft_statistics) - [Hard and Soft Statistics](https://buttondown.email/jaffray/archive/hard-and-soft-statistics/)
 * [2023-08-28, 18:07:12](https://lobste.rs/s/yqysej/jetporch_dev_blog_1) - [JetPorch Dev Blog #1](https://jetporch.substack.com/p/jetporch-dev-blog-1)

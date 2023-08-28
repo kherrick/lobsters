@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-28, 19:46:00](https://lobste.rs/s/bcnvlf/premature_optimization_universally) - [Premature Optimization: Universally Misunderstood](https://milen.me/writings/premature-optimization-universally-misunderstood/)
 * [2023-08-28, 18:42:07](https://lobste.rs/s/loniyh/crumb_programming_language) - [The Crumb Programming Language](https://github.com/liam-ilan/crumb)
 * [2023-08-28, 18:18:21](https://lobste.rs/s/eztxbr/hard_soft_statistics) - [Hard and Soft Statistics](https://buttondown.email/jaffray/archive/hard-and-soft-statistics/)
 * [2023-08-28, 18:07:12](https://lobste.rs/s/yqysej/jetporch_dev_blog_1) - [JetPorch Dev Blog #1](https://jetporch.substack.com/p/jetporch-dev-blog-1)
@@ -11,7 +12,6 @@
 * [2023-08-28, 12:48:00](https://lobste.rs/s/96h6lc/getting_into_formal_specification) - [Getting into formal specification, and getting my team into it too](https://brooker.co.za/blog/2022/07/29/getting-into-tla.html)
 * [2023-08-28, 12:20:07](https://lobste.rs/s/sgoshm/serde_is_no_longer_shipping_precompiled) - [Serde is no longer shipping precompiled blobs](https://github.com/serde-rs/serde/pull/2590)
 * [2023-08-28, 12:03:52](https://lobste.rs/s/vlmsti/from_tui_rs_ratatui_6_months_cooking_up) - [From tui-rs to Ratatui: 6 Months of Cooking Up Rust TUIs](https://blog.orhun.dev/ratatui-0-23-0/)
-* [2023-08-28, 11:14:24](https://lobste.rs/s/xyaxjo/taxonomy_bugs) - [A Taxonomy of Bugs](https://ruby0x1.github.io/machinery_blog_archive/post/a-taxonomy-of-bugs/index.html)
 * [2023-08-28, 10:53:21](https://lobste.rs/s/xir7l8/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xir7l8/what_are_you_doing_this_week)
 * [2023-08-28, 07:30:43](https://lobste.rs/s/uumm5j/nix_revisited) - [Nix revisited](https://lottia.net/notes/0003-nix-revisited.html)
 * [2023-08-28, 07:06:02](https://lobste.rs/s/17beun/learning_programming_with_turtle) - [Learning programming with a turtle](https://anto.pt/articles/learning-programming-with-a-turtle)
