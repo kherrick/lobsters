@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-28](index.md)
 
+* [2023-08-28, 12:20:07](https://lobste.rs/s/sgoshm/serde_is_no_longer_shipping_precompiled) - [Serde is no longer shipping precompiled blobs](https://github.com/serde-rs/serde/pull/2590)
+* [2023-08-28, 12:03:52](https://lobste.rs/s/vlmsti/from_tui_rs_ratatui_6_months_cooking_up) - [From tui-rs to Ratatui: 6 Months of Cooking Up Rust TUIs](https://blog.orhun.dev/ratatui-0-23-0/)
 * [2023-08-28, 11:17:40](https://lobste.rs/s/j8unbh/what_are_some_cool_side_projects_you_have) - [What are some cool side projects you have planned but haven't gotten around to doing?](https://lobste.rs/s/j8unbh/what_are_some_cool_side_projects_you_have)
 * [2023-08-28, 11:14:24](https://lobste.rs/s/xyaxjo/taxonomy_bugs) - [A Taxonomy of Bugs](https://ruby0x1.github.io/machinery_blog_archive/post/a-taxonomy-of-bugs/index.html)
 * [2023-08-28, 11:11:19](https://lobste.rs/s/fyvcsx/first_postgres_vector_extension_with) - [First Postgres Vector Extension with Filtering Support](https://modelz.ai/blog/pgvecto-rs-condition-filtering)
