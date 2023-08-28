@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-28, 12:48:00",
+      "https://lobste.rs/s/96h6lc/getting_into_formal_specification"
+    ],
+    [
+      "Getting into formal specification, and getting my team into it too",
+      "https://brooker.co.za/blog/2022/07/29/getting-into-tla.html"
+    ]
+  ],
+  [
+    [
       "2023-08-28, 12:20:07",
       "https://lobste.rs/s/sgoshm/serde_is_no_longer_shipping_precompiled"
     ],
@@ -227,16 +237,6 @@
     [
       "Support for ActivityPub on GitLab",
       "https://gitlab.com/groups/gitlab-org/-/epics/11247"
-    ]
-  ],
-  [
-    [
-      "2023-08-27, 02:39:48",
-      "https://lobste.rs/s/vr9e4b/two_erlang_patterns_i_love"
-    ],
-    [
-      "Two Erlang patterns I love",
-      "http://blog.syncpup.com/posts/two-erlang-patterns-i-love.html"
     ]
   ],
   [
