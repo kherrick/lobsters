@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-29, 20:50:30](https://lobste.rs/s/hcbytf/measuring_developer_productivity) - [Measuring developer productivity? A response to McKinsey](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity)
 * [2023-08-29, 19:45:58](https://lobste.rs/s/cueo1n/frameless_view_with_qtwidgets) - [Frameless view with QtWidgets](https://carlschwan.eu/2023/08/29/frameless-view-with-qtwidgets/)
 * [2023-08-29, 19:21:45](https://lobste.rs/s/ms5nrq/why_i_chose_thinkpad_z13_gen1_as_my_linux) - [Why I chose the ThinkPad Z13 Gen1 as my Linux laptop](https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/)
 * [2023-08-29, 18:36:04](https://lobste.rs/s/bstmbi/hacking_gta_v_rp_servers_using_web) - [Hacking GTA V RP Servers Using Web Exploitation Techniques](https://www.nullpt.rs/hacking-gta-servers-using-web-exploitation)
@@ -17,7 +18,6 @@
 * [2023-08-29, 11:19:34](https://lobste.rs/s/h22jka/grave_flaws_bgp_error_handling) - [Grave flaws in BGP Error handling](https://blog.benjojo.co.uk/post/bgp-path-attributes-grave-error-handling)
 * [2023-08-29, 10:01:37](https://lobste.rs/s/mvsk61/parallel_garbage_collection_for_sbcl) - [Parallel garbage collection for SBCL](https://applied-langua.ge/~hayley/swcl-gc.pdf)
 * [2023-08-29, 03:17:25](https://lobste.rs/s/tscr4k/go_1_22_s_likely_new_reflect_typefor) - [Go 1.22's (likely) new reflect.TypeFor() generic function](https://utcc.utoronto.ca/~cks/space/blog/programming/Go122ReflectTypeFor)
-* [2023-08-29, 01:38:03](https://lobste.rs/s/wl6pcd/keep_calm_crdt_on) - [Keep CALM and CRDT On](https://www.vldb.org/pvldb/vol16/p856-power.pdf)
 * [2023-08-29, 00:42:11](https://lobste.rs/s/qkticc/opentelemetry_2023) - [OpenTelemetry in 2023](https://bit.kevinslin.com/p/opentelemetry-in-2023)
 * [2023-08-28, 19:57:52](https://lobste.rs/s/qc6hxr/perfectly_reproducible_verified_go) - [Perfectly Reproducible, Verified Go Toolchains](https://go.dev/blog/rebuild)
 * [2023-08-28, 19:46:00](https://lobste.rs/s/bcnvlf/premature_optimization_universally) - [Premature Optimization: Universally Misunderstood](https://milen.me/writings/premature-optimization-universally-misunderstood/)
