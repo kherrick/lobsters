@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-29, 14:11:59",
+      "https://lobste.rs/s/bh27fl/keystroke_timing_obfuscation_added_ssh_1"
+    ],
+    [
+      "Keystroke timing obfuscation added to ssh(1)",
+      "https://undeadly.org/cgi?action=article;sid=20230829051257"
+    ]
+  ],
+  [
+    [
       "2023-08-29, 13:37:46",
       "https://lobste.rs/s/gdaohq/analysis_obfuscations_found_apple"
     ],
@@ -167,16 +177,6 @@
     [
       "A Pigeon is still faster than the Internet",
       "https://www.jeffgeerling.com/blog/2023/pigeon-still-faster-internet"
-    ]
-  ],
-  [
-    [
-      "2023-08-28, 16:03:07",
-      "https://lobste.rs/s/pphlbr/further_sqlite_mode_extensions"
-    ],
-    [
-      "Further sqlite-mode extensions",
-      "https://xenodium.com/further-sqlite-mode-extensions/"
     ]
   ],
   [
