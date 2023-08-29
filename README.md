@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-29, 14:11:59](https://lobste.rs/s/bh27fl/keystroke_timing_obfuscation_added_ssh_1) - [Keystroke timing obfuscation added to ssh(1)](https://undeadly.org/cgi?action=article;sid=20230829051257)
 * [2023-08-29, 13:37:46](https://lobste.rs/s/gdaohq/analysis_obfuscations_found_apple) - [Analysis of Obfuscations Found in Apple FairPlay](https://nicolo.dev/en/blog/fairplay-apple-obfuscation/)
 * [2023-08-29, 13:04:39](https://lobste.rs/s/i9ik0p/closer_look_at_tdfa_2022) - [A closer look at TDFA (2022)](https://arxiv.org/abs/2206.01398)
 * [2023-08-29, 12:13:43](https://lobste.rs/s/vvnjld/compiling_rust_for_net_using_only_tea) - [Compiling Rust for .NET, using only tea and stubbornness](https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_0_1.html)
@@ -17,7 +18,6 @@
 * [2023-08-28, 19:46:00](https://lobste.rs/s/bcnvlf/premature_optimization_universally) - [Premature Optimization: Universally Misunderstood](https://milen.me/writings/premature-optimization-universally-misunderstood/)
 * [2023-08-28, 18:42:07](https://lobste.rs/s/loniyh/crumb_programming_language) - [The Crumb Programming Language](https://github.com/liam-ilan/crumb)
 * [2023-08-28, 16:32:13](https://lobste.rs/s/ziuc1i/pigeon_is_still_faster_than_internet) - [A Pigeon is still faster than the Internet](https://www.jeffgeerling.com/blog/2023/pigeon-still-faster-internet)
-* [2023-08-28, 16:03:07](https://lobste.rs/s/pphlbr/further_sqlite_mode_extensions) - [Further sqlite-mode extensions](https://xenodium.com/further-sqlite-mode-extensions/)
 * [2023-08-28, 15:39:49](https://lobste.rs/s/yktkwr/changing_my_relationship_with_github) - [Changing my relationship with GitHub Copilot](https://ntietz.com/blog/changing-my-relationship-with-github-copilot/)
 * [2023-08-28, 12:48:00](https://lobste.rs/s/96h6lc/getting_into_formal_specification) - [Getting into formal specification, and getting my team into it too](https://brooker.co.za/blog/2022/07/29/getting-into-tla.html)
 * [2023-08-28, 12:20:07](https://lobste.rs/s/sgoshm/serde_is_no_longer_shipping_precompiled) - [Serde is no longer shipping precompiled blobs](https://github.com/serde-rs/serde/pull/2590)
