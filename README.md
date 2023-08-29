@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-29, 16:00:41](https://lobste.rs/s/vaf6lm/windows_confidential_aliens_ate_my) - [Windows Confidential: Aliens Ate My Software](https://learn.microsoft.com/en-us/previous-versions/technet-magazine/jj203546(v=msdn.10))
 * [2023-08-29, 15:11:22](https://lobste.rs/s/nmwvm2/popularity_dos_4gw_made_windows_95_game) - [The popularity of DOS/4GW made Windows 95 game compatibility a little easier, but with higher stakes](https://devblogs.microsoft.com/oldnewthing/20230829-00/?p=108661)
 * [2023-08-29, 15:02:14](https://lobste.rs/s/otrtnn/first_stable_release_memory_safe_sudo) - [The First Stable Release of a Memory Safe sudo Implementation](https://www.memorysafety.org/blog/sudo-first-stable-release/)
 * [2023-08-29, 14:50:57](https://lobste.rs/s/du6aaq/rgba_clock) - [RGBA Clock](https://re.factorcode.org/2023/08/rgba-clock.html)
 * [2023-08-29, 14:24:10](https://lobste.rs/s/vszw9v/diving_into_starlink_s_user_terminal) - [Diving into Starlink's User Terminal Firmware](https://blog.quarkslab.com/starlink.html)
 * [2023-08-29, 14:11:59](https://lobste.rs/s/bh27fl/keystroke_timing_obfuscation_added_ssh_1) - [Keystroke timing obfuscation added to ssh(1)](https://undeadly.org/cgi?action=article;sid=20230829051257)
 * [2023-08-29, 13:37:46](https://lobste.rs/s/gdaohq/analysis_obfuscations_found_apple) - [Analysis of Obfuscations Found in Apple FairPlay](https://nicolo.dev/en/blog/fairplay-apple-obfuscation/)
-* [2023-08-29, 13:04:39](https://lobste.rs/s/i9ik0p/closer_look_at_tdfa_2022) - [A closer look at TDFA (2022)](https://arxiv.org/abs/2206.01398)
 * [2023-08-29, 12:13:43](https://lobste.rs/s/vvnjld/compiling_rust_for_net_using_only_tea) - [Compiling Rust for .NET, using only tea and stubbornness](https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_0_1.html)
 * [2023-08-29, 11:32:29](https://lobste.rs/s/ehzhcw/semantic_markup_for_callouts) - [Semantic Markup for Callouts](https://toast.al/posts/softwarecraft/2023-08-29_semantic-markup-for-callouts)
 * [2023-08-29, 11:24:51](https://lobste.rs/s/mvt4ld/from_erverless_elixir) - [From $erverless to Elixir](https://medium.com/coryodaniel/from-erverless-to-elixir-48752db4d7bc)
