@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-29, 11:19:34](https://lobste.rs/s/h22jka/grave_flaws_bgp_error_handling) - [Grave flaws in BGP Error handling](https://blog.benjojo.co.uk/post/bgp-path-attributes-grave-error-handling)
 * [2023-08-29, 10:01:37](https://lobste.rs/s/mvsk61/parallel_garbage_collection_for_sbcl) - [Parallel garbage collection for SBCL](https://applied-langua.ge/~hayley/swcl-gc.pdf)
 * [2023-08-29, 07:04:37](https://lobste.rs/s/mwutlm/unix_sockets_cygwin_ssh_agents_sadness) - [Unix sockets, Cygwin, SSH agents, and sadness](https://mjg59.dreamwidth.org/67402.html)
 * [2023-08-29, 06:07:45](https://lobste.rs/s/5eyt7z/elixir_saves_pinterest_2_million_year) - [Elixir Saves Pinterest $2 Million a Year In Server Costs](https://paraxial.io/blog/elixir-savings)
@@ -8,7 +9,6 @@
 * [2023-08-29, 01:38:03](https://lobste.rs/s/wl6pcd/keep_calm_crdt_on) - [Keep CALM and CRDT On](https://www.vldb.org/pvldb/vol16/p856-power.pdf)
 * [2023-08-29, 00:42:11](https://lobste.rs/s/qkticc/opentelemetry_2023) - [OpenTelemetry in 2023](https://bit.kevinslin.com/p/opentelemetry-in-2023)
 * [2023-08-28, 22:11:48](https://lobste.rs/s/1wzt3y/lunar_landing_game_related_documents) - [Lunar Landing Game Related Documents](https://www.cs.brandeis.edu/~storer/LunarLander/LunarLander.html)
-* [2023-08-28, 21:17:41](https://lobste.rs/s/bv7rkm/making_little_smalltalk) - [Making A Little Smalltalk](https://hackaday.com/2020/12/20/making-a-little-smalltalk/)
 * [2023-08-28, 20:04:28](https://lobste.rs/s/lpwnid/gnome_s_sysprof_adds_flamegraphs_better) - [GNOME's Sysprof Adds FlameGraphs To Better Visualize Output](https://www.phoronix.com/news/GNOME-Sysprof-FlameGraphs)
 * [2023-08-28, 19:57:52](https://lobste.rs/s/qc6hxr/perfectly_reproducible_verified_go) - [Perfectly Reproducible, Verified Go Toolchains](https://go.dev/blog/rebuild)
 * [2023-08-28, 19:46:00](https://lobste.rs/s/bcnvlf/premature_optimization_universally) - [Premature Optimization: Universally Misunderstood](https://milen.me/writings/premature-optimization-universally-misunderstood/)
