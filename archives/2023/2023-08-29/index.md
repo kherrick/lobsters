@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
 * [2023-08-29, 22:39:36](https://lobste.rs/s/qv1twy/i_made_my_own_noise_function) - [I made my own noise function](https://medium.com/david-delassus/i-made-my-own-noise-function-9e6ce4b95a9c)
+* [2023-08-29, 22:39:36](https://lobste.rs/s/qv1twy/i_made_my_own_noise_function) - [I made my own noise function](https://david-delassus.medium.com/i-made-my-own-noise-function-9e6ce4b95a9c?sk=26c5bdd7687445016216cc0b7cb10fa7)
 * [2023-08-29, 21:13:41](https://lobste.rs/s/rf0auc/beginning_was_command_line_1999) - [In the Beginning...was the Command Line (1999)](https://web.stanford.edu/class/cs81n/command.txt)
 * [2023-08-29, 20:59:52](https://lobste.rs/s/h765g8/implementing_raid_expansion_zfs) - [Implementing RAID expansion in ZFS](https://github.com/openzfs/zfs/pull/15022/commits/ca80cdc40bac31db3472dc6d5624a7a8929ef99e)
 * [2023-08-29, 20:50:30](https://lobste.rs/s/hcbytf/measuring_developer_productivity) - [Measuring developer productivity? A response to McKinsey](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity)
