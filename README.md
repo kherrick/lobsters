@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-29, 12:13:43](https://lobste.rs/s/vvnjld/compiling_rust_for_net_using_only_tea) - [Compiling Rust for .NET, using only tea and stubbornness](https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_0_1.html)
 * [2023-08-29, 11:32:29](https://lobste.rs/s/ehzhcw/semantic_markup_for_callouts) - [Semantic Markup for Callouts](https://toast.al/posts/softwarecraft/2023-08-29_semantic-markup-for-callouts)
 * [2023-08-29, 11:24:51](https://lobste.rs/s/mvt4ld/from_erverless_elixir) - [From $erverless to Elixir](https://medium.com/coryodaniel/from-erverless-to-elixir-48752db4d7bc)
 * [2023-08-29, 11:19:34](https://lobste.rs/s/h22jka/grave_flaws_bgp_error_handling) - [Grave flaws in BGP Error handling](https://blog.benjojo.co.uk/post/bgp-path-attributes-grave-error-handling)
@@ -10,7 +11,6 @@
 * [2023-08-29, 01:38:03](https://lobste.rs/s/wl6pcd/keep_calm_crdt_on) - [Keep CALM and CRDT On](https://www.vldb.org/pvldb/vol16/p856-power.pdf)
 * [2023-08-29, 00:42:11](https://lobste.rs/s/qkticc/opentelemetry_2023) - [OpenTelemetry in 2023](https://bit.kevinslin.com/p/opentelemetry-in-2023)
 * [2023-08-28, 22:11:48](https://lobste.rs/s/1wzt3y/lunar_landing_game_related_documents) - [Lunar Landing Game Related Documents](https://www.cs.brandeis.edu/~storer/LunarLander/LunarLander.html)
-* [2023-08-28, 20:04:28](https://lobste.rs/s/lpwnid/gnome_s_sysprof_adds_flamegraphs_better) - [GNOME's Sysprof Adds FlameGraphs To Better Visualize Output](https://www.phoronix.com/news/GNOME-Sysprof-FlameGraphs)
 * [2023-08-28, 19:57:52](https://lobste.rs/s/qc6hxr/perfectly_reproducible_verified_go) - [Perfectly Reproducible, Verified Go Toolchains](https://go.dev/blog/rebuild)
 * [2023-08-28, 19:46:00](https://lobste.rs/s/bcnvlf/premature_optimization_universally) - [Premature Optimization: Universally Misunderstood](https://milen.me/writings/premature-optimization-universally-misunderstood/)
 * [2023-08-28, 18:42:07](https://lobste.rs/s/loniyh/crumb_programming_language) - [The Crumb Programming Language](https://github.com/liam-ilan/crumb)
