@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-29, 18:36:04](https://lobste.rs/s/bstmbi/hacking_gta_v_rp_servers_using_web) - [Hacking GTA V RP Servers Using Web Exploitation Techniques](https://www.nullpt.rs/hacking-gta-servers-using-web-exploitation)
 * [2023-08-29, 18:05:11](https://lobste.rs/s/rmmwgu/twitter_scale_mastodon_twitter_scale) - [twitter-scale-mastodon: Twitter-scale Mastodon implementation in only 10k lines of code](https://github.com/redplanetlabs/twitter-scale-mastodon)
 * [2023-08-29, 17:28:22](https://lobste.rs/s/ozvft9/my_painful_futile_quest_for_programmable) - [My painful, futile quest for programmable slideshow animations](https://buttondown.email/hillelwayne/archive/my-painful-futile-quest-for-programmable/)
 * [2023-08-29, 16:00:41](https://lobste.rs/s/vaf6lm/windows_confidential_aliens_ate_my) - [Windows Confidential: Aliens Ate My Software](https://learn.microsoft.com/en-us/previous-versions/technet-magazine/jj203546(v=msdn.10))
@@ -24,7 +25,6 @@
 * [2023-08-28, 12:20:07](https://lobste.rs/s/sgoshm/serde_is_no_longer_shipping_precompiled) - [Serde is no longer shipping precompiled blobs](https://github.com/serde-rs/serde/pull/2590)
 * [2023-08-28, 12:03:52](https://lobste.rs/s/vlmsti/from_tui_rs_ratatui_6_months_cooking_up) - [From tui-rs to Ratatui: 6 Months of Cooking Up Rust TUIs](https://blog.orhun.dev/ratatui-0-23-0/)
 * [2023-08-28, 07:30:43](https://lobste.rs/s/uumm5j/nix_revisited) - [Nix revisited](https://lottia.net/notes/0003-nix-revisited.html)
-* [2023-08-28, 00:47:38](https://lobste.rs/s/xszyoz/fifo_queues_are_all_you_need_for_cache) - [FIFO queues are all you need for cache eviction](https://blog.jasony.me/system/cache/2023/08/01/s3fifo)
 
 ## [Archives](archives/index.md)
 

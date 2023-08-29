@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
+* [2023-08-29, 18:36:04](https://lobste.rs/s/bstmbi/hacking_gta_v_rp_servers_using_web) - [Hacking GTA V RP Servers Using Web Exploitation Techniques](https://www.nullpt.rs/hacking-gta-servers-using-web-exploitation)
 * [2023-08-29, 18:05:11](https://lobste.rs/s/rmmwgu/twitter_scale_mastodon_twitter_scale) - [twitter-scale-mastodon: Twitter-scale Mastodon implementation in only 10k lines of code](https://github.com/redplanetlabs/twitter-scale-mastodon)
 * [2023-08-29, 17:28:22](https://lobste.rs/s/ozvft9/my_painful_futile_quest_for_programmable) - [My painful, futile quest for programmable slideshow animations](https://buttondown.email/hillelwayne/archive/my-painful-futile-quest-for-programmable/)
 * [2023-08-29, 16:00:41](https://lobste.rs/s/vaf6lm/windows_confidential_aliens_ate_my) - [Windows Confidential: Aliens Ate My Software](https://learn.microsoft.com/en-us/previous-versions/technet-magazine/jj203546(v=msdn.10))
