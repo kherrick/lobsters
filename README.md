@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-29, 06:07:45](https://lobste.rs/s/5eyt7z/elixir_saves_pinterest_2_million_year) - [Elixir Saves Pinterest $2 Million a Year In Server Costs](https://paraxial.io/blog/elixir-savings)
 * [2023-08-29, 04:28:59](https://lobste.rs/s/ymp2gw/skiff_whitepaper) - [Skiff Whitepaper](https://skiff-org.github.io/whitepaper/Skiff_Whitepaper_2023.pdf)
 * [2023-08-29, 03:17:25](https://lobste.rs/s/tscr4k/go_1_22_s_likely_new_reflect_typefor) - [Go 1.22's (likely) new reflect.TypeFor() generic function](https://utcc.utoronto.ca/~cks/space/blog/programming/Go122ReflectTypeFor)
 * [2023-08-29, 01:38:03](https://lobste.rs/s/wl6pcd/keep_calm_crdt_on) - [Keep CALM and CRDT On](https://www.vldb.org/pvldb/vol16/p856-power.pdf)
@@ -24,7 +25,6 @@
 * [2023-08-28, 04:58:33](https://lobste.rs/s/ffhxp4/isle_work_progress_decompilation_lego) - [isle: A work-in-progress decompilation of LEGO Island (1997)](https://github.com/isledecomp/isle)
 * [2023-08-28, 00:47:38](https://lobste.rs/s/xszyoz/fifo_queues_are_all_you_need_for_cache) - [FIFO queues are all you need for cache eviction](https://blog.jasony.me/system/cache/2023/08/01/s3fifo)
 * [2023-08-27, 19:06:28](https://lobste.rs/s/ulxmfo/php_tokio_use_any_async_rust_library_from) - [php-tokio: Use any async Rust library from PHP](https://github.com/danog/php-tokio)
-* [2023-08-27, 17:28:42](https://lobste.rs/s/nrkga8/old_netbsd_server_running_since_2010) - [That Old NetBSD Server, Running Since 2010](https://it-notes.dragas.net/2023/08/27/that-old-netbsd-server-running-since-2010/)
 
 ## [Archives](archives/index.md)
 
