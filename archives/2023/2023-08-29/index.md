@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-29](index.md)
 
+* [2023-08-29, 15:11:22](https://lobste.rs/s/nmwvm2/popularity_dos_4gw_made_windows_95_game) - [The popularity of DOS/4GW made Windows 95 game compatibility a little easier, but with higher stakes](https://devblogs.microsoft.com/oldnewthing/20230829-00/?p=108661)
 * [2023-08-29, 15:02:14](https://lobste.rs/s/otrtnn/first_stable_release_memory_safe_sudo) - [The First Stable Release of a Memory Safe sudo Implementation](https://www.memorysafety.org/blog/sudo-first-stable-release/)
 * [2023-08-29, 14:50:57](https://lobste.rs/s/du6aaq/rgba_clock) - [RGBA Clock](https://re.factorcode.org/2023/08/rgba-clock.html)
 * [2023-08-29, 14:24:10](https://lobste.rs/s/vszw9v/diving_into_starlink_s_user_terminal) - [Diving into Starlink's User Terminal Firmware](https://blog.quarkslab.com/starlink.html)
