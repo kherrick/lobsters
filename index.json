@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-08-29, 22:24:42",
+      "https://lobste.rs/s/tkrwlf/minecraft_esque_game_for_ti_84_ce"
+    ],
+    [
+      "A Minecraft-esque game for the TI 84 CE calculator",
+      "https://github.com/TheScienceElf/Blocks-TI-84"
+    ]
+  ],
+  [
+    [
       "2023-08-29, 21:13:41",
       "https://lobste.rs/s/rf0auc/beginning_was_command_line_1999"
     ],
@@ -197,16 +207,6 @@
     [
       "Go 1.22's (likely) new reflect.TypeFor() generic function",
       "https://utcc.utoronto.ca/~cks/space/blog/programming/Go122ReflectTypeFor"
-    ]
-  ],
-  [
-    [
-      "2023-08-29, 00:42:11",
-      "https://lobste.rs/s/qkticc/opentelemetry_2023"
-    ],
-    [
-      "OpenTelemetry in 2023",
-      "https://bit.kevinslin.com/p/opentelemetry-in-2023"
     ]
   ],
   [
