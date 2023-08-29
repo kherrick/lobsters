@@ -2,6 +2,7 @@
 
 * [2023-08-29, 21:13:41](https://lobste.rs/s/rf0auc/beginning_was_command_line_1999) - [In the Beginning...was the Command Line (1999)](https://web.stanford.edu/class/cs81n/command.txt)
 * [2023-08-29, 20:59:52](https://lobste.rs/s/h765g8/implementing_raid_expansion_zfs) - [Implementing RAID expansion in ZFS](https://github.com/openzfs/zfs/pull/15022/commits/ca80cdc40bac31db3472dc6d5624a7a8929ef99e)
+* [2023-08-29, 20:50:30](https://lobste.rs/s/hcbytf/measuring_developer_productivity) - [Measuring developer productivity? A response to McKinsey](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity)
 * [2023-08-29, 19:45:58](https://lobste.rs/s/cueo1n/frameless_view_with_qtwidgets) - [Frameless view with QtWidgets](https://carlschwan.eu/2023/08/29/frameless-view-with-qtwidgets/)
 * [2023-08-29, 19:21:45](https://lobste.rs/s/ms5nrq/why_i_chose_thinkpad_z13_gen1_as_my_linux) - [Why I chose the ThinkPad Z13 Gen1 as my Linux laptop](https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/)
 * [2023-08-29, 18:36:04](https://lobste.rs/s/bstmbi/hacking_gta_v_rp_servers_using_web) - [Hacking GTA V RP Servers Using Web Exploitation Techniques](https://www.nullpt.rs/hacking-gta-servers-using-web-exploitation)
@@ -21,7 +22,6 @@
 * [2023-08-29, 00:42:11](https://lobste.rs/s/qkticc/opentelemetry_2023) - [OpenTelemetry in 2023](https://bit.kevinslin.com/p/opentelemetry-in-2023)
 * [2023-08-28, 19:57:52](https://lobste.rs/s/qc6hxr/perfectly_reproducible_verified_go) - [Perfectly Reproducible, Verified Go Toolchains](https://go.dev/blog/rebuild)
 * [2023-08-28, 19:46:00](https://lobste.rs/s/bcnvlf/premature_optimization_universally) - [Premature Optimization: Universally Misunderstood](https://milen.me/writings/premature-optimization-universally-misunderstood/)
-* [2023-08-28, 18:42:07](https://lobste.rs/s/loniyh/crumb_programming_language) - [The Crumb Programming Language](https://github.com/liam-ilan/crumb)
 * [2023-08-28, 16:32:13](https://lobste.rs/s/ziuc1i/pigeon_is_still_faster_than_internet) - [A Pigeon is still faster than the Internet](https://www.jeffgeerling.com/blog/2023/pigeon-still-faster-internet)
 * [2023-08-28, 12:20:07](https://lobste.rs/s/sgoshm/serde_is_no_longer_shipping_precompiled) - [Serde is no longer shipping precompiled blobs](https://github.com/serde-rs/serde/pull/2590)
 * [2023-08-28, 07:30:43](https://lobste.rs/s/uumm5j/nix_revisited) - [Nix revisited](https://lottia.net/notes/0003-nix-revisited.html)
