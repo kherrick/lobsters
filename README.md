@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-29, 19:45:58](https://lobste.rs/s/cueo1n/frameless_view_with_qtwidgets) - [Frameless view with QtWidgets](https://carlschwan.eu/2023/08/29/frameless-view-with-qtwidgets/)
 * [2023-08-29, 19:21:45](https://lobste.rs/s/ms5nrq/why_i_chose_thinkpad_z13_gen1_as_my_linux) - [Why I chose the ThinkPad Z13 Gen1 as my Linux laptop](https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/)
 * [2023-08-29, 18:36:04](https://lobste.rs/s/bstmbi/hacking_gta_v_rp_servers_using_web) - [Hacking GTA V RP Servers Using Web Exploitation Techniques](https://www.nullpt.rs/hacking-gta-servers-using-web-exploitation)
 * [2023-08-29, 18:05:11](https://lobste.rs/s/rmmwgu/twitter_scale_mastodon_twitter_scale) - [twitter-scale-mastodon: Twitter-scale Mastodon implementation in only 10k lines of code](https://github.com/redplanetlabs/twitter-scale-mastodon)
@@ -23,7 +24,6 @@
 * [2023-08-28, 18:42:07](https://lobste.rs/s/loniyh/crumb_programming_language) - [The Crumb Programming Language](https://github.com/liam-ilan/crumb)
 * [2023-08-28, 16:32:13](https://lobste.rs/s/ziuc1i/pigeon_is_still_faster_than_internet) - [A Pigeon is still faster than the Internet](https://www.jeffgeerling.com/blog/2023/pigeon-still-faster-internet)
 * [2023-08-28, 12:20:07](https://lobste.rs/s/sgoshm/serde_is_no_longer_shipping_precompiled) - [Serde is no longer shipping precompiled blobs](https://github.com/serde-rs/serde/pull/2590)
-* [2023-08-28, 12:03:52](https://lobste.rs/s/vlmsti/from_tui_rs_ratatui_6_months_cooking_up) - [From tui-rs to Ratatui: 6 Months of Cooking Up Rust TUIs](https://blog.orhun.dev/ratatui-0-23-0/)
 * [2023-08-28, 07:30:43](https://lobste.rs/s/uumm5j/nix_revisited) - [Nix revisited](https://lottia.net/notes/0003-nix-revisited.html)
 
 ## [Archives](archives/index.md)
