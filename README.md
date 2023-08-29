@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-29, 04:28:59](https://lobste.rs/s/ymp2gw/skiff_whitepaper) - [Skiff Whitepaper](https://skiff-org.github.io/whitepaper/Skiff_Whitepaper_2023.pdf)
 * [2023-08-29, 03:17:25](https://lobste.rs/s/tscr4k/go_1_22_s_likely_new_reflect_typefor) - [Go 1.22's (likely) new reflect.TypeFor() generic function](https://utcc.utoronto.ca/~cks/space/blog/programming/Go122ReflectTypeFor)
 * [2023-08-29, 01:38:03](https://lobste.rs/s/wl6pcd/keep_calm_crdt_on) - [Keep CALM and CRDT On](https://www.vldb.org/pvldb/vol16/p856-power.pdf)
 * [2023-08-29, 00:42:11](https://lobste.rs/s/qkticc/opentelemetry_2023) - [OpenTelemetry in 2023](https://bit.kevinslin.com/p/opentelemetry-in-2023)
@@ -13,7 +14,6 @@
 * [2023-08-28, 16:32:13](https://lobste.rs/s/ziuc1i/pigeon_is_still_faster_than_internet) - [A Pigeon is still faster than the Internet](https://www.jeffgeerling.com/blog/2023/pigeon-still-faster-internet)
 * [2023-08-28, 16:03:07](https://lobste.rs/s/pphlbr/further_sqlite_mode_extensions) - [Further sqlite-mode extensions](https://xenodium.com/further-sqlite-mode-extensions/)
 * [2023-08-28, 15:39:49](https://lobste.rs/s/yktkwr/changing_my_relationship_with_github) - [Changing my relationship with GitHub Copilot](https://ntietz.com/blog/changing-my-relationship-with-github-copilot/)
-* [2023-08-28, 15:35:11](https://lobste.rs/s/ih6dp9/quartex_pascal_status_progress) - [Quartex Pascal: Status and progress](https://jonlennartaasenden.wordpress.com/2023/08/28/quartex-pascal-progress-status/)
 * [2023-08-28, 13:11:32](https://lobste.rs/s/49927u/parallel_lexing_parsing_semantic) - [Parallel Lexing, Parsing and Semantic Analysis on the GPU (2021)](https://theses.liacs.nl/pdf/2020-2021-VoetterRobin.pdf)
 * [2023-08-28, 12:48:00](https://lobste.rs/s/96h6lc/getting_into_formal_specification) - [Getting into formal specification, and getting my team into it too](https://brooker.co.za/blog/2022/07/29/getting-into-tla.html)
 * [2023-08-28, 12:20:07](https://lobste.rs/s/sgoshm/serde_is_no_longer_shipping_precompiled) - [Serde is no longer shipping precompiled blobs](https://github.com/serde-rs/serde/pull/2590)
