@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-29, 13:37:46](https://lobste.rs/s/gdaohq/analysis_obfuscations_found_apple) - [Analysis of Obfuscations Found in Apple FairPlay](https://nicolo.dev/en/blog/fairplay-apple-obfuscation/)
 * [2023-08-29, 13:04:39](https://lobste.rs/s/i9ik0p/closer_look_at_tdfa_2022) - [A closer look at TDFA (2022)](https://arxiv.org/abs/2206.01398)
 * [2023-08-29, 12:13:43](https://lobste.rs/s/vvnjld/compiling_rust_for_net_using_only_tea) - [Compiling Rust for .NET, using only tea and stubbornness](https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_0_1.html)
 * [2023-08-29, 11:32:29](https://lobste.rs/s/ehzhcw/semantic_markup_for_callouts) - [Semantic Markup for Callouts](https://toast.al/posts/softwarecraft/2023-08-29_semantic-markup-for-callouts)
@@ -24,7 +25,6 @@
 * [2023-08-28, 07:06:02](https://lobste.rs/s/17beun/learning_programming_with_turtle) - [Learning programming with a turtle](https://anto.pt/articles/learning-programming-with-a-turtle)
 * [2023-08-28, 04:58:33](https://lobste.rs/s/ffhxp4/isle_work_progress_decompilation_lego) - [isle: A work-in-progress decompilation of LEGO Island (1997)](https://github.com/isledecomp/isle)
 * [2023-08-28, 00:47:38](https://lobste.rs/s/xszyoz/fifo_queues_are_all_you_need_for_cache) - [FIFO queues are all you need for cache eviction](https://blog.jasony.me/system/cache/2023/08/01/s3fifo)
-* [2023-08-27, 19:06:28](https://lobste.rs/s/ulxmfo/php_tokio_use_any_async_rust_library_from) - [php-tokio: Use any async Rust library from PHP](https://github.com/danog/php-tokio)
 
 ## [Archives](archives/index.md)
 
