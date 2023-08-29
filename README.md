@@ -13,6 +13,7 @@
 * [2023-08-29, 01:38:03](https://lobste.rs/s/wl6pcd/keep_calm_crdt_on) - [Keep CALM and CRDT On](https://www.vldb.org/pvldb/vol16/p856-power.pdf)
 * [2023-08-29, 00:42:11](https://lobste.rs/s/qkticc/opentelemetry_2023) - [OpenTelemetry in 2023](https://bit.kevinslin.com/p/opentelemetry-in-2023)
 * [2023-08-28, 22:11:48](https://lobste.rs/s/1wzt3y/lunar_landing_game_related_documents) - [Lunar Landing Game Related Documents](https://www.cs.brandeis.edu/~storer/LunarLander/LunarLander.html)
+* [2023-08-28, 21:17:41](https://lobste.rs/s/bv7rkm/making_little_smalltalk) - [Making A Little Smalltalk](https://hackaday.com/2020/12/20/making-a-little-smalltalk/)
 * [2023-08-28, 19:57:52](https://lobste.rs/s/qc6hxr/perfectly_reproducible_verified_go) - [Perfectly Reproducible, Verified Go Toolchains](https://go.dev/blog/rebuild)
 * [2023-08-28, 19:46:00](https://lobste.rs/s/bcnvlf/premature_optimization_universally) - [Premature Optimization: Universally Misunderstood](https://milen.me/writings/premature-optimization-universally-misunderstood/)
 * [2023-08-28, 18:42:07](https://lobste.rs/s/loniyh/crumb_programming_language) - [The Crumb Programming Language](https://github.com/liam-ilan/crumb)
@@ -23,7 +24,6 @@
 * [2023-08-28, 12:03:52](https://lobste.rs/s/vlmsti/from_tui_rs_ratatui_6_months_cooking_up) - [From tui-rs to Ratatui: 6 Months of Cooking Up Rust TUIs](https://blog.orhun.dev/ratatui-0-23-0/)
 * [2023-08-28, 07:30:43](https://lobste.rs/s/uumm5j/nix_revisited) - [Nix revisited](https://lottia.net/notes/0003-nix-revisited.html)
 * [2023-08-28, 07:06:02](https://lobste.rs/s/17beun/learning_programming_with_turtle) - [Learning programming with a turtle](https://anto.pt/articles/learning-programming-with-a-turtle)
-* [2023-08-28, 04:58:33](https://lobste.rs/s/ffhxp4/isle_work_progress_decompilation_lego) - [isle: A work-in-progress decompilation of LEGO Island (1997)](https://github.com/isledecomp/isle)
 * [2023-08-28, 00:47:38](https://lobste.rs/s/xszyoz/fifo_queues_are_all_you_need_for_cache) - [FIFO queues are all you need for cache eviction](https://blog.jasony.me/system/cache/2023/08/01/s3fifo)
 
 ## [Archives](archives/index.md)
