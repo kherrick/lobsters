@@ -14,6 +14,7 @@
 * [2023-08-29, 13:04:39](https://lobste.rs/s/i9ik0p/closer_look_at_tdfa_2022) - [A closer look at TDFA (2022)](https://arxiv.org/abs/2206.01398)
 * [2023-08-29, 12:13:43](https://lobste.rs/s/vvnjld/compiling_rust_for_net_using_only_tea) - [Compiling Rust for .NET, using only tea and stubbornness](https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_0_1.html)
 * [2023-08-29, 11:32:29](https://lobste.rs/s/ehzhcw/semantic_markup_for_callouts) - [Semantic Markup for Callouts](https://toast.al/posts/softwarecraft/2023-08-29_semantic-markup-for-callouts)
+* [2023-08-29, 11:24:51](https://lobste.rs/s/mvt4ld/from_serverless_elixir) - [From Serverless to Elixir](https://medium.com/coryodaniel/from-erverless-to-elixir-48752db4d7bc)
 * [2023-08-29, 11:24:51](https://lobste.rs/s/mvt4ld/from_erverless_elixir) - [From $erverless to Elixir](https://medium.com/coryodaniel/from-erverless-to-elixir-48752db4d7bc)
 * [2023-08-29, 11:19:34](https://lobste.rs/s/h22jka/grave_flaws_bgp_error_handling) - [Grave flaws in BGP Error handling](https://blog.benjojo.co.uk/post/bgp-path-attributes-grave-error-handling)
 * [2023-08-29, 10:01:37](https://lobste.rs/s/mvsk61/parallel_garbage_collection_for_sbcl) - [Parallel garbage collection for SBCL](https://applied-langua.ge/~hayley/swcl-gc.pdf)
