@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-08-29, 03:17:25](https://lobste.rs/s/tscr4k/chris_s_wiki_blog_programming) - [Chris's Wiki :: blog/programming/Go122ReflectTypeFor](https://utcc.utoronto.ca/~cks/space/blog/programming/Go122ReflectTypeFor)
+* [2023-08-29, 03:17:25](https://lobste.rs/s/tscr4k/go_1_22_s_likely_new_reflect_typefor) - [Go 1.22's (likely) new reflect.TypeFor() generic function](https://utcc.utoronto.ca/~cks/space/blog/programming/Go122ReflectTypeFor)
 * [2023-08-29, 01:38:03](https://lobste.rs/s/wl6pcd/keep_calm_crdt_on) - [Keep CALM and CRDT On](https://www.vldb.org/pvldb/vol16/p856-power.pdf)
 * [2023-08-29, 00:42:11](https://lobste.rs/s/qkticc/opentelemetry_2023) - [OpenTelemetry in 2023](https://bit.kevinslin.com/p/opentelemetry-in-2023)
 * [2023-08-28, 22:30:01](https://lobste.rs/s/8lkxrt/new_project_old_technique_dksdk_ffi) - [New project, old technique: DkSDK FFI](https://discuss.ocaml.org/t/ann-new-project-old-technique-dksdk-ffi-ocaml/12909)
