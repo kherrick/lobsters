@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-29, 16:00:41",
+      "https://lobste.rs/s/vaf6lm/windows_confidential_aliens_ate_my"
+    ],
+    [
+      "Windows Confidential: Aliens Ate My Software",
+      "https://learn.microsoft.com/en-us/previous-versions/technet-magazine/jj203546(v=msdn.10)"
+    ]
+  ],
+  [
+    [
       "2023-08-29, 15:11:22",
       "https://lobste.rs/s/nmwvm2/popularity_dos_4gw_made_windows_95_game"
     ],
@@ -57,16 +67,6 @@
     [
       "Analysis of Obfuscations Found in Apple FairPlay",
       "https://nicolo.dev/en/blog/fairplay-apple-obfuscation/"
-    ]
-  ],
-  [
-    [
-      "2023-08-29, 13:04:39",
-      "https://lobste.rs/s/i9ik0p/closer_look_at_tdfa_2022"
-    ],
-    [
-      "A closer look at TDFA (2022)",
-      "https://arxiv.org/abs/2206.01398"
     ]
   ],
   [
