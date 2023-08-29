@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-29, 22:39:36",
+      "https://lobste.rs/s/qv1twy/i_made_my_own_noise_function"
+    ],
+    [
+      "I made my own noise function",
+      "https://medium.com/david-delassus/i-made-my-own-noise-function-9e6ce4b95a9c"
+    ]
+  ],
+  [
+    [
       "2023-08-29, 21:13:41",
       "https://lobste.rs/s/rf0auc/beginning_was_command_line_1999"
     ],
@@ -237,16 +247,6 @@
     [
       "Serde is no longer shipping precompiled blobs",
       "https://github.com/serde-rs/serde/pull/2590"
-    ]
-  ],
-  [
-    [
-      "2023-08-28, 07:30:43",
-      "https://lobste.rs/s/uumm5j/nix_revisited"
-    ],
-    [
-      "Nix revisited",
-      "https://lottia.net/notes/0003-nix-revisited.html"
     ]
   ]
 ]
