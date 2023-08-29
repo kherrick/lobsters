@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2023-08-28, 15:39:49",
-      "https://lobste.rs/s/yktkwr/changing_my_relationship_with_github"
-    ],
-    [
-      "Changing my relationship with GitHub Copilot",
-      "https://ntietz.com/blog/changing-my-relationship-with-github-copilot/"
-    ]
-  ],
-  [
-    [
       "2023-08-28, 12:20:07",
       "https://lobste.rs/s/sgoshm/serde_is_no_longer_shipping_precompiled"
     ],
@@ -247,6 +237,16 @@
     [
       "Nix revisited",
       "https://lottia.net/notes/0003-nix-revisited.html"
+    ]
+  ],
+  [
+    [
+      "2023-08-28, 00:47:38",
+      "https://lobste.rs/s/xszyoz/fifo_queues_are_all_you_need_for_cache"
+    ],
+    [
+      "FIFO queues are all you need for cache eviction",
+      "https://blog.jasony.me/system/cache/2023/08/01/s3fifo"
     ]
   ]
 ]
