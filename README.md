@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-29, 19:21:45](https://lobste.rs/s/ms5nrq/why_i_chose_thinkpad_z13_gen1_as_my_linux) - [Why I chose the ThinkPad Z13 Gen1 as my Linux laptop](https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/)
 * [2023-08-29, 18:36:04](https://lobste.rs/s/bstmbi/hacking_gta_v_rp_servers_using_web) - [Hacking GTA V RP Servers Using Web Exploitation Techniques](https://www.nullpt.rs/hacking-gta-servers-using-web-exploitation)
 * [2023-08-29, 18:05:11](https://lobste.rs/s/rmmwgu/twitter_scale_mastodon_twitter_scale) - [twitter-scale-mastodon: Twitter-scale Mastodon implementation in only 10k lines of code](https://github.com/redplanetlabs/twitter-scale-mastodon)
 * [2023-08-29, 17:28:22](https://lobste.rs/s/ozvft9/my_painful_futile_quest_for_programmable) - [My painful, futile quest for programmable slideshow animations](https://buttondown.email/hillelwayne/archive/my-painful-futile-quest-for-programmable/)
@@ -7,7 +8,6 @@
 * [2023-08-29, 15:11:22](https://lobste.rs/s/nmwvm2/popularity_dos_4gw_made_windows_95_game) - [The popularity of DOS/4GW made Windows 95 game compatibility a little easier, but with higher stakes](https://devblogs.microsoft.com/oldnewthing/20230829-00/?p=108661)
 * [2023-08-29, 15:02:14](https://lobste.rs/s/otrtnn/first_stable_release_memory_safe_sudo) - [The First Stable Release of a Memory Safe sudo Implementation](https://www.memorysafety.org/blog/sudo-first-stable-release/)
 * [2023-08-29, 14:50:57](https://lobste.rs/s/du6aaq/rgba_clock) - [RGBA Clock](https://re.factorcode.org/2023/08/rgba-clock.html)
-* [2023-08-29, 14:24:10](https://lobste.rs/s/vszw9v/diving_into_starlink_s_user_terminal) - [Diving into Starlink's User Terminal Firmware](https://blog.quarkslab.com/starlink.html)
 * [2023-08-29, 14:11:59](https://lobste.rs/s/bh27fl/keystroke_timing_obfuscation_added_ssh_1) - [Keystroke timing obfuscation added to ssh(1)](https://undeadly.org/cgi?action=article;sid=20230829051257)
 * [2023-08-29, 13:37:46](https://lobste.rs/s/gdaohq/analysis_obfuscations_found_apple) - [Analysis of Obfuscations Found in Apple FairPlay](https://nicolo.dev/en/blog/fairplay-apple-obfuscation/)
 * [2023-08-29, 12:13:43](https://lobste.rs/s/vvnjld/compiling_rust_for_net_using_only_tea) - [Compiling Rust for .NET, using only tea and stubbornness](https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_0_1.html)
