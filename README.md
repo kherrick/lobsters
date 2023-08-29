@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-29, 03:17:25](https://lobste.rs/s/tscr4k/chris_s_wiki_blog_programming) - [Chris's Wiki :: blog/programming/Go122ReflectTypeFor](https://utcc.utoronto.ca/~cks/space/blog/programming/Go122ReflectTypeFor)
 * [2023-08-29, 01:38:03](https://lobste.rs/s/wl6pcd/keep_calm_crdt_on) - [Keep CALM and CRDT On](https://www.vldb.org/pvldb/vol16/p856-power.pdf)
 * [2023-08-29, 00:42:11](https://lobste.rs/s/qkticc/opentelemetry_2023) - [OpenTelemetry in 2023](https://bit.kevinslin.com/p/opentelemetry-in-2023)
 * [2023-08-28, 22:30:01](https://lobste.rs/s/8lkxrt/new_project_old_technique_dksdk_ffi) - [New project, old technique: DkSDK FFI](https://discuss.ocaml.org/t/ann-new-project-old-technique-dksdk-ffi-ocaml/12909)
 * [2023-08-28, 22:11:48](https://lobste.rs/s/1wzt3y/lunar_landing_game_related_documents) - [Lunar Landing Game Related Documents](https://www.cs.brandeis.edu/~storer/LunarLander/LunarLander.html)
 * [2023-08-28, 21:17:41](https://lobste.rs/s/bv7rkm/making_little_smalltalk) - [Making A Little Smalltalk](https://hackaday.com/2020/12/20/making-a-little-smalltalk/)
-* [2023-08-28, 21:03:36](https://lobste.rs/s/rkfojx/four_solutions_trivial_problem_2015) - [Four Solutions to a Trivial Problem (2015)](https://www.youtube.com/watch?v=ftcIcn8AmSY)
 * [2023-08-28, 20:04:28](https://lobste.rs/s/lpwnid/gnome_s_sysprof_adds_flamegraphs_better) - [GNOME's Sysprof Adds FlameGraphs To Better Visualize Output](https://www.phoronix.com/news/GNOME-Sysprof-FlameGraphs)
 * [2023-08-28, 19:57:52](https://lobste.rs/s/qc6hxr/perfectly_reproducible_verified_go) - [Perfectly Reproducible, Verified Go Toolchains](https://go.dev/blog/rebuild)
 * [2023-08-28, 19:46:00](https://lobste.rs/s/bcnvlf/premature_optimization_universally) - [Premature Optimization: Universally Misunderstood](https://milen.me/writings/premature-optimization-universally-misunderstood/)
