@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 16:34:47](https://lobste.rs/s/xb5ntg/hitchhiker_s_guide_logical_verification) - [The Hitchhiker’s Guide to Logical Verification](https://raw.githubusercontent.com/blanchette/logical_verification_2020/master/hitchhikers_guide.pdf)
 * [2023-08-30, 16:15:14](https://lobste.rs/s/xtbhwh/file_attachments_databases_can_now_store) - [File Attachments: Databases can now store files and images](https://xata.io/blog/file-attachments)
 * [2023-08-30, 15:58:48](https://lobste.rs/s/74yfj0/unconventions) - [Unconventions](https://unconventions.org)
 * [2023-08-30, 15:56:38](https://lobste.rs/s/9lwxur/first_time_seeing_rare_event) - [First time seeing a rare event](https://www.johndcook.com/blog/2023/08/30/first-time-seeing-a-rare-event/)
