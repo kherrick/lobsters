@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-30, 14:03:45](https://lobste.rs/s/cl4gcv/implementing_oauth_rust) - [Implementing OAuth in Rust](https://www.shuttle.rs/blog/2023/08/30/using-oauth-with-axum)
+* [2023-08-30, 13:57:09](https://lobste.rs/s/icv6gh/antix_linux_23_released) - [antiX Linux 23 released](https://antixlinux.com/antix-23-released/)
 * [2023-08-30, 11:38:03](https://lobste.rs/s/remnbf/brainstorming_syntax_for_word_usage) - [Brainstorming a syntax for a word usage query language](https://jamesg.blog/2023/08/28/word-query-language/)
 * [2023-08-30, 09:24:15](https://lobste.rs/s/wzkz5m/enum_type_safe_enums_for_go_without_code) - [enum: Type safe enums for Go without code generation or reflection](https://github.com/orsinium-labs/enum)
-* [2023-08-30, 09:06:00](https://lobste.rs/s/ehcq2i/python_software_foundation_has_been) - [The Python Software Foundation has been authorized by the CVE Program as a CVE Numbering Authority (CNA)](https://pyfound.blogspot.com/2023/08/psf-authorized-as-cna.html)
 * [2023-08-30, 07:16:52](https://lobste.rs/s/ilpqe5/vectorized_interpreters_mrt_for_pl) - [Vectorized Interpreters: MRT for PL](http://venge.net/graydon/talks/VectorizedInterpretersTalk-2023-05-12.pdf)
 * [2023-08-30, 06:05:53](https://lobste.rs/s/eoyuf6/fomos_experimental_os_built_with_rust) - [Fomos: Experimental OS, built with rust](https://github.com/Ruddle/Fomos)
 * [2023-08-30, 03:15:15](https://lobste.rs/s/iv9b9g/road_amazonka_2_0) - [The Road to Amazonka 2.0](http://jackkelly.name/blog/archives/2023/08/30/the_road_to_amazonka_2_0/)
@@ -24,7 +25,6 @@
 * [2023-08-29, 11:24:51](https://lobste.rs/s/mvt4ld/from_serverless_elixir) - [From Serverless to Elixir](https://medium.com/coryodaniel/from-erverless-to-elixir-48752db4d7bc)
 * [2023-08-29, 11:19:34](https://lobste.rs/s/h22jka/grave_flaws_bgp_error_handling) - [Grave flaws in BGP Error handling](https://blog.benjojo.co.uk/post/bgp-path-attributes-grave-error-handling)
 * [2023-08-29, 10:01:37](https://lobste.rs/s/mvsk61/parallel_garbage_collection_for_sbcl) - [Parallel garbage collection for SBCL](https://applied-langua.ge/~hayley/swcl-gc.pdf)
-* [2023-08-28, 19:46:00](https://lobste.rs/s/bcnvlf/premature_optimization_universally) - [Premature Optimization: Universally Misunderstood](https://milen.me/writings/premature-optimization-universally-misunderstood/)
 
 ## [Archives](archives/index.md)
 

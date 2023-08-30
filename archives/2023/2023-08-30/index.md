@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 14:03:45](https://lobste.rs/s/cl4gcv/implementing_oauth_rust) - [Implementing OAuth in Rust](https://www.shuttle.rs/blog/2023/08/30/using-oauth-with-axum)
+* [2023-08-30, 13:57:09](https://lobste.rs/s/icv6gh/antix_linux_23_released) - [antiX Linux 23 released](https://antixlinux.com/antix-23-released/)
 * [2023-08-30, 11:38:03](https://lobste.rs/s/remnbf/brainstorming_syntax_for_word_usage) - [Brainstorming a syntax for a word usage query language](https://jamesg.blog/2023/08/28/word-query-language/)
 * [2023-08-30, 09:24:15](https://lobste.rs/s/wzkz5m/enum_type_safe_enums_for_go_without_code) - [enum: Type safe enums for Go without code generation or reflection](https://github.com/orsinium-labs/enum)
 * [2023-08-30, 09:06:00](https://lobste.rs/s/ehcq2i/python_software_foundation_has_been) - [The Python Software Foundation has been authorized by the CVE Program as a CVE Numbering Authority (CNA)](https://pyfound.blogspot.com/2023/08/psf-authorized-as-cna.html)
