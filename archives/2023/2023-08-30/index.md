@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 15:46:12](https://lobste.rs/s/zxwc11/how_pass_coding_interview_with_me) - [How to pass a coding interview with me](https://robertheaton.com/interview/)
 * [2023-08-30, 15:27:31](https://lobste.rs/s/9llczn/tiny_dream_header_only_embedded_stable) - [Tiny Dream - Header-Only, Embedded Stable Diffusion Inference Library in C++](https://pixlab.io/tiny-dream)
 * [2023-08-30, 15:21:50](https://lobste.rs/s/xqvzmr/implementing_nearest_neighbour) - [Implementing Nearest-Neighbour Recommendations in Ruby](https://www.vector-logic.com/blog/posts/implementing-neighbour-based-recommendations-in-ruby)
 * [2023-08-30, 14:51:36](https://lobste.rs/s/3l5oaa/rfc_7493_i_json_message_format_restricted) - [RFC 7493: The I-JSON Message Format (restricted subset of JSON for better interoperability) (2015)](https://www.rfc-editor.org/rfc/rfc7493.html)

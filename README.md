@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-30, 15:46:12](https://lobste.rs/s/zxwc11/how_pass_coding_interview_with_me) - [How to pass a coding interview with me](https://robertheaton.com/interview/)
 * [2023-08-30, 15:27:31](https://lobste.rs/s/9llczn/tiny_dream_header_only_embedded_stable) - [Tiny Dream - Header-Only, Embedded Stable Diffusion Inference Library in C++](https://pixlab.io/tiny-dream)
 * [2023-08-30, 15:21:50](https://lobste.rs/s/xqvzmr/implementing_nearest_neighbour) - [Implementing Nearest-Neighbour Recommendations in Ruby](https://www.vector-logic.com/blog/posts/implementing-neighbour-based-recommendations-in-ruby)
 * [2023-08-30, 14:51:36](https://lobste.rs/s/3l5oaa/rfc_7493_i_json_message_format_restricted) - [RFC 7493: The I-JSON Message Format (restricted subset of JSON for better interoperability) (2015)](https://www.rfc-editor.org/rfc/rfc7493.html)
@@ -12,7 +13,6 @@
 * [2023-08-30, 06:05:53](https://lobste.rs/s/eoyuf6/fomos_experimental_os_built_with_rust) - [Fomos: Experimental OS, built with rust](https://github.com/Ruddle/Fomos)
 * [2023-08-30, 03:15:15](https://lobste.rs/s/iv9b9g/road_amazonka_2_0) - [The Road to Amazonka 2.0](http://jackkelly.name/blog/archives/2023/08/30/the_road_to_amazonka_2_0/)
 * [2023-08-30, 01:21:47](https://lobste.rs/s/zqgrzg/ooze_escape_commodore_64_amiga) - [Ooze: The Escape (Commodore 64, Amiga)](https://h4plo.itch.io/ooze)
-* [2023-08-30, 01:18:04](https://lobste.rs/s/j1p3ez/announcing_biome) - [Announcing Biome](https://biomejs.dev/blog/annoucing-biome)
 * [2023-08-30, 01:11:36](https://lobste.rs/s/e2ubxj/ruby_outperforms_c_breaking_catch_22) - [Ruby Outperforms C: Breaking the Catch-22](https://railsatscale.com/2023-08-29-ruby-outperforms-c/)
 * [2023-08-29, 22:39:36](https://lobste.rs/s/qv1twy/i_made_my_own_noise_function) - [I made my own noise function](https://david-delassus.medium.com/i-made-my-own-noise-function-9e6ce4b95a9c?sk=26c5bdd7687445016216cc0b7cb10fa7)
 * [2023-08-29, 22:24:42](https://lobste.rs/s/tkrwlf/minecraft_esque_game_for_ti_84_ce) - [A Minecraft-esque game for the TI 84 CE calculator](https://github.com/TheScienceElf/Blocks-TI-84)
