@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-30, 19:09:00](https://lobste.rs/s/deezrp/regolith_desktop_3_0_released_with) - [Regolith Desktop 3.0 Released with Initial Wayland Support](https://www.omgubuntu.co.uk/2023/08/regolith-desktop-3-0-released-with-initial-wayland-support)
 * [2023-08-30, 18:17:27](https://lobste.rs/s/o2o2cg/running_nixos_from_any_linux_distro) - [Running NixOS from any Linux Distro in systemd-nspawn Containers](https://nixcademy.com/2023/08/29/nixos-nspawn/)
 * [2023-08-30, 16:34:47](https://lobste.rs/s/xb5ntg/hitchhiker_s_guide_logical_verification) - [The Hitchhiker’s Guide to Logical Verification](https://raw.githubusercontent.com/blanchette/logical_verification_2020/master/hitchhikers_guide.pdf)
 * [2023-08-30, 15:56:38](https://lobste.rs/s/9lwxur/first_time_seeing_rare_event) - [First time seeing a rare event](https://www.johndcook.com/blog/2023/08/30/first-time-seeing-a-rare-event/)
 * [2023-08-30, 15:46:12](https://lobste.rs/s/zxwc11/how_pass_coding_interview_with_me) - [How to pass a coding interview with me](https://robertheaton.com/interview/)
 * [2023-08-30, 15:27:31](https://lobste.rs/s/9llczn/tiny_dream_header_only_embedded_stable) - [Tiny Dream - Header-Only, Embedded Stable Diffusion Inference Library in C++](https://pixlab.io/tiny-dream)
-* [2023-08-30, 15:21:50](https://lobste.rs/s/xqvzmr/implementing_nearest_neighbour) - [Implementing Nearest-Neighbour Recommendations in Ruby](https://www.vector-logic.com/blog/posts/implementing-neighbour-based-recommendations-in-ruby)
 * [2023-08-30, 14:51:36](https://lobste.rs/s/3l5oaa/rfc_7493_i_json_message_format_restricted) - [RFC 7493: The I-JSON Message Format (restricted subset of JSON for better interoperability) (2015)](https://www.rfc-editor.org/rfc/rfc7493.html)
 * [2023-08-30, 14:03:45](https://lobste.rs/s/cl4gcv/implementing_oauth_rust) - [Implementing OAuth in Rust](https://www.shuttle.rs/blog/2023/08/30/using-oauth-with-axum)
 * [2023-08-30, 13:57:09](https://lobste.rs/s/icv6gh/antix_linux_23_released) - [antiX Linux 23 released](https://antixlinux.com/antix-23-released/)
