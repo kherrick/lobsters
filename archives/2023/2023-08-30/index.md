@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 18:17:27](https://lobste.rs/s/o2o2cg/running_nixos_from_any_linux_distro) - [Running NixOS from any Linux Distro in systemd-nspawn Containers](https://nixcademy.com/2023/08/29/nixos-nspawn/)
 * [2023-08-30, 16:34:47](https://lobste.rs/s/xb5ntg/hitchhiker_s_guide_logical_verification) - [The Hitchhiker’s Guide to Logical Verification](https://raw.githubusercontent.com/blanchette/logical_verification_2020/master/hitchhikers_guide.pdf)
 * [2023-08-30, 16:15:14](https://lobste.rs/s/xtbhwh/file_attachments_databases_can_now_store) - [File Attachments: Databases can now store files and images](https://xata.io/blog/file-attachments)
 * [2023-08-30, 15:58:48](https://lobste.rs/s/74yfj0/unconventions) - [Unconventions](https://unconventions.org)
