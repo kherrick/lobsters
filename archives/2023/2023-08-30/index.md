@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 15:21:50](https://lobste.rs/s/xqvzmr/implementing_nearest_neighbour) - [Implementing Nearest-Neighbour Recommendations in Ruby](https://www.vector-logic.com/blog/posts/implementing-neighbour-based-recommendations-in-ruby)
 * [2023-08-30, 14:51:36](https://lobste.rs/s/3l5oaa/rfc_7493_i_json_message_format_restricted) - [RFC 7493: The I-JSON Message Format (restricted subset of JSON for better interoperability) (2015)](https://www.rfc-editor.org/rfc/rfc7493.html)
 * [2023-08-30, 14:33:59](https://lobste.rs/s/b4tbby/project_idx_full_stack_application) - [Project IDX: Full-stack application development with generative AI](https://m.youtube.com/watch?si=VSe_O65LlqBgMmU-&t=616&v=-wlZY4tfGMY&feature=youtu.be)
 * [2023-08-30, 14:20:31](https://lobste.rs/s/1nhaqd/design_trade_offs_bundler_rationale) - [Design Trade-offs in Bundler: The Rationale Behind Creating Rspack](https://github.com/web-infra-dev/wg/discussions/1)
