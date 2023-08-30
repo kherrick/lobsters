@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-30, 09:06:00](https://lobste.rs/s/ehcq2i/python_software_foundation_has_been) - [The Python Software Foundation has been authorized by the CVE Program as a CVE Numbering Authority (CNA)](https://pyfound.blogspot.com/2023/08/psf-authorized-as-cna.html)
 * [2023-08-30, 07:16:52](https://lobste.rs/s/ilpqe5/vectorized_interpreters_mrt_for_pl) - [Vectorized Interpreters: MRT for PL](http://venge.net/graydon/talks/VectorizedInterpretersTalk-2023-05-12.pdf)
 * [2023-08-30, 06:05:53](https://lobste.rs/s/eoyuf6/fomos_experimental_os_built_with_rust) - [Fomos: Experimental OS, built with rust](https://github.com/Ruddle/Fomos)
 * [2023-08-30, 03:15:15](https://lobste.rs/s/iv9b9g/road_amazonka_2_0) - [The Road to Amazonka 2.0](http://jackkelly.name/blog/archives/2023/08/30/the_road_to_amazonka_2_0/)
@@ -24,7 +25,6 @@
 * [2023-08-29, 11:19:34](https://lobste.rs/s/h22jka/grave_flaws_bgp_error_handling) - [Grave flaws in BGP Error handling](https://blog.benjojo.co.uk/post/bgp-path-attributes-grave-error-handling)
 * [2023-08-29, 10:01:37](https://lobste.rs/s/mvsk61/parallel_garbage_collection_for_sbcl) - [Parallel garbage collection for SBCL](https://applied-langua.ge/~hayley/swcl-gc.pdf)
 * [2023-08-28, 19:46:00](https://lobste.rs/s/bcnvlf/premature_optimization_universally) - [Premature Optimization: Universally Misunderstood](https://milen.me/writings/premature-optimization-universally-misunderstood/)
-* [2023-08-28, 16:32:13](https://lobste.rs/s/ziuc1i/pigeon_is_still_faster_than_internet) - [A Pigeon is still faster than the Internet](https://www.jeffgeerling.com/blog/2023/pigeon-still-faster-internet)
 
 ## [Archives](archives/index.md)
 
