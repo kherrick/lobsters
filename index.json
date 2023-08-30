@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-08-30, 15:56:38",
-      "https://lobste.rs/s/9lwxur/first_time_seeing_rare_event"
+      "2023-08-30, 16:15:14",
+      "https://lobste.rs/s/xtbhwh/file_attachments_databases_can_now_store"
     ],
     [
-      "First time seeing a rare event",
-      "https://www.johndcook.com/blog/2023/08/30/first-time-seeing-a-rare-event/"
+      "File Attachments: Databases can now store files and images",
+      "https://xata.io/blog/file-attachments"
+    ]
+  ],
+  [
+    [
+      "2023-08-30, 15:58:48",
+      "https://lobste.rs/s/74yfj0/unconventions"
+    ],
+    [
+      "Unconventions",
+      "https://unconventions.org"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "From Serverless to Elixir",
       "https://medium.com/coryodaniel/from-erverless-to-elixir-48752db4d7bc"
-    ]
-  ],
-  [
-    [
-      "2023-08-29, 11:19:34",
-      "https://lobste.rs/s/h22jka/grave_flaws_bgp_error_handling"
-    ],
-    [
-      "Grave flaws in BGP Error handling",
-      "https://blog.benjojo.co.uk/post/bgp-path-attributes-grave-error-handling"
     ]
   ]
 ]
