@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 14:20:31](https://lobste.rs/s/1nhaqd/design_trade_offs_bundler_rationale) - [Design Trade-offs in Bundler: The Rationale Behind Creating Rspack](https://github.com/web-infra-dev/wg/discussions/1)
 * [2023-08-30, 14:03:45](https://lobste.rs/s/cl4gcv/implementing_oauth_rust) - [Implementing OAuth in Rust](https://www.shuttle.rs/blog/2023/08/30/using-oauth-with-axum)
 * [2023-08-30, 13:57:09](https://lobste.rs/s/icv6gh/antix_linux_23_released) - [antiX Linux 23 released](https://antixlinux.com/antix-23-released/)
 * [2023-08-30, 11:38:03](https://lobste.rs/s/remnbf/brainstorming_syntax_for_word_usage) - [Brainstorming a syntax for a word usage query language](https://jamesg.blog/2023/08/28/word-query-language/)
