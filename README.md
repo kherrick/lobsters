@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-30, 03:15:15](https://lobste.rs/s/iv9b9g/road_amazonka_2_0) - [The Road to Amazonka 2.0](http://jackkelly.name/blog/archives/2023/08/30/the_road_to_amazonka_2_0/)
 * [2023-08-30, 01:21:47](https://lobste.rs/s/zqgrzg/ooze_escape_commodore_64_amiga) - [Ooze: The Escape (Commodore 64, Amiga)](https://h4plo.itch.io/ooze)
 * [2023-08-30, 01:11:36](https://lobste.rs/s/e2ubxj/ruby_outperforms_c_breaking_catch_22) - [Ruby Outperforms C: Breaking the Catch-22](https://railsatscale.com/2023-08-29-ruby-outperforms-c/)
 * [2023-08-29, 22:39:36](https://lobste.rs/s/qv1twy/i_made_my_own_noise_function) - [I made my own noise function](https://david-delassus.medium.com/i-made-my-own-noise-function-9e6ce4b95a9c?sk=26c5bdd7687445016216cc0b7cb10fa7)
-* [2023-08-29, 22:24:42](https://lobste.rs/s/tkrwlf/minecraft_esque_game_for_ti_84_ce) - [A Minecraft-esque game for the TI 84 CE calculator](https://github.com/TheScienceElf/Blocks-TI-84)
 * [2023-08-29, 21:13:41](https://lobste.rs/s/rf0auc/beginning_was_command_line_1999) - [In the Beginning...was the Command Line (1999)](https://web.stanford.edu/class/cs81n/command.txt)
 * [2023-08-29, 20:50:30](https://lobste.rs/s/hcbytf/measuring_developer_productivity) - [Measuring developer productivity? A response to McKinsey](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity)
 * [2023-08-29, 19:45:58](https://lobste.rs/s/cueo1n/frameless_view_with_qtwidgets) - [Frameless view with QtWidgets](https://carlschwan.eu/2023/08/29/frameless-view-with-qtwidgets/)
