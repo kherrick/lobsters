@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-30, 07:16:52",
+      "https://lobste.rs/s/ilpqe5/vectorized_interpreters_mrt_for_pl"
+    ],
+    [
+      "Vectorized Interpreters: MRT for PL",
+      "http://venge.net/graydon/talks/VectorizedInterpretersTalk-2023-05-12.pdf"
+    ]
+  ],
+  [
+    [
       "2023-08-30, 06:05:53",
       "https://lobste.rs/s/eoyuf6/fomos_experimental_os_built_with_rust"
     ],
@@ -167,16 +177,6 @@
     [
       "Keystroke timing obfuscation added to ssh(1)",
       "https://undeadly.org/cgi?action=article;sid=20230829051257"
-    ]
-  ],
-  [
-    [
-      "2023-08-29, 13:37:46",
-      "https://lobste.rs/s/gdaohq/analysis_obfuscations_found_apple"
-    ],
-    [
-      "Analysis of Obfuscations Found in Apple FairPlay",
-      "https://nicolo.dev/en/blog/fairplay-apple-obfuscation/"
     ]
   ],
   [
