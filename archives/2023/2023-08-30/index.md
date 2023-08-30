@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 14:33:59](https://lobste.rs/s/b4tbby/project_idx_full_stack_application) - [Project IDX: Full-stack application development with generative AI](https://m.youtube.com/watch?si=VSe_O65LlqBgMmU-&t=616&v=-wlZY4tfGMY&feature=youtu.be)
 * [2023-08-30, 14:20:31](https://lobste.rs/s/1nhaqd/design_trade_offs_bundler_rationale) - [Design Trade-offs in Bundler: The Rationale Behind Creating Rspack](https://github.com/web-infra-dev/wg/discussions/1)
 * [2023-08-30, 14:03:45](https://lobste.rs/s/cl4gcv/implementing_oauth_rust) - [Implementing OAuth in Rust](https://www.shuttle.rs/blog/2023/08/30/using-oauth-with-axum)
 * [2023-08-30, 13:57:09](https://lobste.rs/s/icv6gh/antix_linux_23_released) - [antiX Linux 23 released](https://antixlinux.com/antix-23-released/)
