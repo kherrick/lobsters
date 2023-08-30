@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-08-29, 22:24:42",
+      "https://lobste.rs/s/tkrwlf/minecraft_esque_game_for_ti_84_ce"
+    ],
+    [
+      "A Minecraft-esque game for the TI 84 CE calculator",
+      "https://github.com/TheScienceElf/Blocks-TI-84"
+    ]
+  ],
+  [
+    [
       "2023-08-29, 21:13:41",
       "https://lobste.rs/s/rf0auc/beginning_was_command_line_1999"
     ],
@@ -207,16 +217,6 @@
     [
       "Parallel garbage collection for SBCL",
       "https://applied-langua.ge/~hayley/swcl-gc.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-08-28, 19:57:52",
-      "https://lobste.rs/s/qc6hxr/perfectly_reproducible_verified_go"
-    ],
-    [
-      "Perfectly Reproducible, Verified Go Toolchains",
-      "https://go.dev/blog/rebuild"
     ]
   ],
   [
