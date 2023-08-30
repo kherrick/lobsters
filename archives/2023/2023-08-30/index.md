@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 21:45:13](https://lobste.rs/s/vtmcsr/compress_text_compression_for) - [compress: Text compression for generating keyboard expansions](https://github.com/eschluntz/compress)
 * [2023-08-30, 21:02:49](https://lobste.rs/s/l8b2ov/procedural_planet_generation_2014) - [Procedural Planet Generation (2014)](https://web.archive.org/web/20220617041817/http://experilous.com/1/blog/post/procedural-planet-generation)
 * [2023-08-30, 20:46:12](https://lobste.rs/s/6onnz7/case_for_nushell) - [The case for Nushell](https://www.jntrnr.com/case-for-nushell/)
 * [2023-08-30, 20:35:33](https://lobste.rs/s/rlykrr/so_you_want_abolish_time_zones_2015) - [So You Want To Abolish Time Zones (2015)](https://qntm.org/abolish)
