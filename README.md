@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-30, 22:09:27](https://lobste.rs/s/faxdor/change_guidance_on_committing_lockfiles) - [Change in Guidance on Committing Lockfiles](https://blog.rust-lang.org/2023/08/29/committing-lockfiles.html)
 * [2023-08-30, 21:52:43](https://lobste.rs/s/s3cshk/how_build_distributed_inference_cache) - [How to Build a Distributed Inference Cache with NVIDIA Triton and Redis](https://developer.nvidia.com/blog/how-to-build-a-distributed-inference-cache-with-nvidia-triton-and-redis/)
 * [2023-08-30, 21:45:13](https://lobste.rs/s/vtmcsr/compress_text_compression_for) - [compress: Text compression for generating keyboard expansions](https://github.com/eschluntz/compress)
 * [2023-08-30, 21:02:49](https://lobste.rs/s/l8b2ov/procedural_planet_generation_2014) - [Procedural Planet Generation (2014)](https://web.archive.org/web/20220617041817/http://experilous.com/1/blog/post/procedural-planet-generation)
@@ -23,7 +24,6 @@
 * [2023-08-30, 01:11:36](https://lobste.rs/s/e2ubxj/ruby_outperforms_c_breaking_catch_22) - [Ruby Outperforms C: Breaking the Catch-22](https://railsatscale.com/2023-08-29-ruby-outperforms-c/)
 * [2023-08-29, 19:21:45](https://lobste.rs/s/ms5nrq/why_i_chose_thinkpad_z13_gen1_as_my_linux) - [Why I chose the ThinkPad Z13 Gen1 as my Linux laptop](https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/)
 * [2023-08-29, 15:02:14](https://lobste.rs/s/otrtnn/first_stable_release_memory_safe_sudo) - [The First Stable Release of a Memory Safe sudo Implementation](https://www.memorysafety.org/blog/sudo-first-stable-release/)
-* [2023-08-29, 14:11:59](https://lobste.rs/s/bh27fl/keystroke_timing_obfuscation_added_ssh_1) - [Keystroke timing obfuscation added to ssh(1)](https://undeadly.org/cgi?action=article;sid=20230829051257)
 * [2023-08-29, 11:32:29](https://lobste.rs/s/ehzhcw/semantic_markup_for_callouts) - [Semantic Markup for Callouts](https://toast.al/posts/softwarecraft/2023-08-29_semantic-markup-for-callouts)
 
 ## [Archives](archives/index.md)
