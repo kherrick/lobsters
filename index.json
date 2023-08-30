@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-30, 21:45:13",
+      "https://lobste.rs/s/vtmcsr/compress_text_compression_for"
+    ],
+    [
+      "compress: Text compression for generating keyboard expansions",
+      "https://github.com/eschluntz/compress"
+    ]
+  ],
+  [
+    [
       "2023-08-30, 21:02:49",
       "https://lobste.rs/s/l8b2ov/procedural_planet_generation_2014"
     ],
@@ -187,16 +197,6 @@
     [
       "Ruby Outperforms C: Breaking the Catch-22",
       "https://railsatscale.com/2023-08-29-ruby-outperforms-c/"
-    ]
-  ],
-  [
-    [
-      "2023-08-29, 22:24:42",
-      "https://lobste.rs/s/tkrwlf/minecraft_esque_game_for_ti_84_ce"
-    ],
-    [
-      "A Minecraft-esque game for the TI 84 CE calculator",
-      "https://github.com/TheScienceElf/Blocks-TI-84"
     ]
   ],
   [
