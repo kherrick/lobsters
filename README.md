@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-30, 09:24:15](https://lobste.rs/s/wzkz5m/enum_type_safe_enums_for_go_without_code) - [enum: Type safe enums for Go without code generation or reflection](https://github.com/orsinium-labs/enum)
 * [2023-08-30, 09:06:00](https://lobste.rs/s/ehcq2i/python_software_foundation_has_been) - [The Python Software Foundation has been authorized by the CVE Program as a CVE Numbering Authority (CNA)](https://pyfound.blogspot.com/2023/08/psf-authorized-as-cna.html)
 * [2023-08-30, 07:16:52](https://lobste.rs/s/ilpqe5/vectorized_interpreters_mrt_for_pl) - [Vectorized Interpreters: MRT for PL](http://venge.net/graydon/talks/VectorizedInterpretersTalk-2023-05-12.pdf)
 * [2023-08-30, 06:05:53](https://lobste.rs/s/eoyuf6/fomos_experimental_os_built_with_rust) - [Fomos: Experimental OS, built with rust](https://github.com/Ruddle/Fomos)
@@ -10,7 +11,6 @@
 * [2023-08-29, 22:39:36](https://lobste.rs/s/qv1twy/i_made_my_own_noise_function) - [I made my own noise function](https://david-delassus.medium.com/i-made-my-own-noise-function-9e6ce4b95a9c?sk=26c5bdd7687445016216cc0b7cb10fa7)
 * [2023-08-29, 22:24:42](https://lobste.rs/s/tkrwlf/minecraft_esque_game_for_ti_84_ce) - [A Minecraft-esque game for the TI 84 CE calculator](https://github.com/TheScienceElf/Blocks-TI-84)
 * [2023-08-29, 21:13:41](https://lobste.rs/s/rf0auc/beginning_was_command_line_1999) - [In the Beginning...was the Command Line (1999)](https://web.stanford.edu/class/cs81n/command.txt)
-* [2023-08-29, 20:59:52](https://lobste.rs/s/h765g8/implementing_raid_expansion_zfs) - [Implementing RAID expansion in ZFS](https://github.com/openzfs/zfs/pull/15022/commits/ca80cdc40bac31db3472dc6d5624a7a8929ef99e)
 * [2023-08-29, 20:50:30](https://lobste.rs/s/hcbytf/measuring_developer_productivity) - [Measuring developer productivity? A response to McKinsey](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity)
 * [2023-08-29, 19:21:45](https://lobste.rs/s/ms5nrq/why_i_chose_thinkpad_z13_gen1_as_my_linux) - [Why I chose the ThinkPad Z13 Gen1 as my Linux laptop](https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/)
 * [2023-08-29, 18:36:04](https://lobste.rs/s/bstmbi/hacking_gta_v_rp_servers_using_web) - [Hacking GTA V RP Servers Using Web Exploitation Techniques](https://www.nullpt.rs/hacking-gta-servers-using-web-exploitation)
