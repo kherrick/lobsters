@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 21:52:43](https://lobste.rs/s/s3cshk/how_build_distributed_inference_cache) - [How to Build a Distributed Inference Cache with NVIDIA Triton and Redis](https://developer.nvidia.com/blog/how-to-build-a-distributed-inference-cache-with-nvidia-triton-and-redis/)
 * [2023-08-30, 21:45:13](https://lobste.rs/s/vtmcsr/compress_text_compression_for) - [compress: Text compression for generating keyboard expansions](https://github.com/eschluntz/compress)
 * [2023-08-30, 21:02:49](https://lobste.rs/s/l8b2ov/procedural_planet_generation_2014) - [Procedural Planet Generation (2014)](https://web.archive.org/web/20220617041817/http://experilous.com/1/blog/post/procedural-planet-generation)
 * [2023-08-30, 20:46:12](https://lobste.rs/s/6onnz7/case_for_nushell) - [The case for Nushell](https://www.jntrnr.com/case-for-nushell/)
