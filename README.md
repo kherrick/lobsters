@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-30, 14:51:36](https://lobste.rs/s/3l5oaa/rfc_7493_i_json_message_format_restricted) - [RFC 7493: The I-JSON Message Format (restricted subset of JSON for better interoperability) (2015)](https://www.rfc-editor.org/rfc/rfc7493.html)
 * [2023-08-30, 14:33:59](https://lobste.rs/s/b4tbby/project_idx_full_stack_application) - [Project IDX: Full-stack application development with generative AI](https://m.youtube.com/watch?si=VSe_O65LlqBgMmU-&t=616&v=-wlZY4tfGMY&feature=youtu.be)
 * [2023-08-30, 14:20:31](https://lobste.rs/s/1nhaqd/design_trade_offs_bundler_rationale) - [Design Trade-offs in Bundler: The Rationale Behind Creating Rspack](https://github.com/web-infra-dev/wg/discussions/1)
 * [2023-08-30, 14:03:45](https://lobste.rs/s/cl4gcv/implementing_oauth_rust) - [Implementing OAuth in Rust](https://www.shuttle.rs/blog/2023/08/30/using-oauth-with-axum)
@@ -18,7 +19,6 @@
 * [2023-08-29, 20:50:30](https://lobste.rs/s/hcbytf/measuring_developer_productivity) - [Measuring developer productivity? A response to McKinsey](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity)
 * [2023-08-29, 19:21:45](https://lobste.rs/s/ms5nrq/why_i_chose_thinkpad_z13_gen1_as_my_linux) - [Why I chose the ThinkPad Z13 Gen1 as my Linux laptop](https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/)
 * [2023-08-29, 18:05:11](https://lobste.rs/s/rmmwgu/twitter_scale_mastodon_twitter_scale) - [twitter-scale-mastodon: Twitter-scale Mastodon implementation in only 10k lines of code](https://github.com/redplanetlabs/twitter-scale-mastodon)
-* [2023-08-29, 17:28:22](https://lobste.rs/s/ozvft9/my_painful_futile_quest_for_programmable) - [My painful, futile quest for programmable slideshow animations](https://buttondown.email/hillelwayne/archive/my-painful-futile-quest-for-programmable/)
 * [2023-08-29, 15:02:14](https://lobste.rs/s/otrtnn/first_stable_release_memory_safe_sudo) - [The First Stable Release of a Memory Safe sudo Implementation](https://www.memorysafety.org/blog/sudo-first-stable-release/)
 * [2023-08-29, 14:11:59](https://lobste.rs/s/bh27fl/keystroke_timing_obfuscation_added_ssh_1) - [Keystroke timing obfuscation added to ssh(1)](https://undeadly.org/cgi?action=article;sid=20230829051257)
 * [2023-08-29, 12:13:43](https://lobste.rs/s/vvnjld/compiling_rust_for_net_using_only_tea) - [Compiling Rust for .NET, using only tea and stubbornness](https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_0_1.html)
