@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-30, 06:05:53](https://lobste.rs/s/eoyuf6/fomos_experimental_os_built_with_rust) - [Fomos: Experimental OS, built with rust](https://github.com/Ruddle/Fomos)
 * [2023-08-30, 03:15:15](https://lobste.rs/s/iv9b9g/road_amazonka_2_0) - [The Road to Amazonka 2.0](http://jackkelly.name/blog/archives/2023/08/30/the_road_to_amazonka_2_0/)
 * [2023-08-30, 01:21:47](https://lobste.rs/s/zqgrzg/ooze_escape_commodore_64_amiga) - [Ooze: The Escape (Commodore 64, Amiga)](https://h4plo.itch.io/ooze)
 * [2023-08-30, 01:18:04](https://lobste.rs/s/j1p3ez/announcing_biome) - [Announcing Biome](https://biomejs.dev/blog/annoucing-biome)
@@ -24,7 +25,6 @@
 * [2023-08-29, 10:01:37](https://lobste.rs/s/mvsk61/parallel_garbage_collection_for_sbcl) - [Parallel garbage collection for SBCL](https://applied-langua.ge/~hayley/swcl-gc.pdf)
 * [2023-08-28, 19:46:00](https://lobste.rs/s/bcnvlf/premature_optimization_universally) - [Premature Optimization: Universally Misunderstood](https://milen.me/writings/premature-optimization-universally-misunderstood/)
 * [2023-08-28, 16:32:13](https://lobste.rs/s/ziuc1i/pigeon_is_still_faster_than_internet) - [A Pigeon is still faster than the Internet](https://www.jeffgeerling.com/blog/2023/pigeon-still-faster-internet)
-* [2023-08-28, 12:20:07](https://lobste.rs/s/sgoshm/serde_is_no_longer_shipping_precompiled) - [Serde is no longer shipping precompiled blobs](https://github.com/serde-rs/serde/pull/2590)
 
 ## [Archives](archives/index.md)
 
