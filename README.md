@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-08-30, 15:56:38](https://lobste.rs/s/9lwxur/first_time_seeing_rare_event) - [First time seeing a rare event](https://www.johndcook.com/blog/2023/08/30/first-time-seeing-a-rare-event/)
+* [2023-08-30, 16:15:14](https://lobste.rs/s/xtbhwh/file_attachments_databases_can_now_store) - [File Attachments: Databases can now store files and images](https://xata.io/blog/file-attachments)
+* [2023-08-30, 15:58:48](https://lobste.rs/s/74yfj0/unconventions) - [Unconventions](https://unconventions.org)
 * [2023-08-30, 15:46:12](https://lobste.rs/s/zxwc11/how_pass_coding_interview_with_me) - [How to pass a coding interview with me](https://robertheaton.com/interview/)
 * [2023-08-30, 15:27:31](https://lobste.rs/s/9llczn/tiny_dream_header_only_embedded_stable) - [Tiny Dream - Header-Only, Embedded Stable Diffusion Inference Library in C++](https://pixlab.io/tiny-dream)
 * [2023-08-30, 15:21:50](https://lobste.rs/s/xqvzmr/implementing_nearest_neighbour) - [Implementing Nearest-Neighbour Recommendations in Ruby](https://www.vector-logic.com/blog/posts/implementing-neighbour-based-recommendations-in-ruby)
@@ -24,7 +25,6 @@
 * [2023-08-29, 12:13:43](https://lobste.rs/s/vvnjld/compiling_rust_for_net_using_only_tea) - [Compiling Rust for .NET, using only tea and stubbornness](https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_0_1.html)
 * [2023-08-29, 11:32:29](https://lobste.rs/s/ehzhcw/semantic_markup_for_callouts) - [Semantic Markup for Callouts](https://toast.al/posts/softwarecraft/2023-08-29_semantic-markup-for-callouts)
 * [2023-08-29, 11:24:51](https://lobste.rs/s/mvt4ld/from_serverless_elixir) - [From Serverless to Elixir](https://medium.com/coryodaniel/from-erverless-to-elixir-48752db4d7bc)
-* [2023-08-29, 11:19:34](https://lobste.rs/s/h22jka/grave_flaws_bgp_error_handling) - [Grave flaws in BGP Error handling](https://blog.benjojo.co.uk/post/bgp-path-attributes-grave-error-handling)
 
 ## [Archives](archives/index.md)
 

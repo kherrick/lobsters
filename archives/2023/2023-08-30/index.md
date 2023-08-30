@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 16:15:14](https://lobste.rs/s/xtbhwh/file_attachments_databases_can_now_store) - [File Attachments: Databases can now store files and images](https://xata.io/blog/file-attachments)
+* [2023-08-30, 15:58:48](https://lobste.rs/s/74yfj0/unconventions) - [Unconventions](https://unconventions.org)
 * [2023-08-30, 15:56:38](https://lobste.rs/s/9lwxur/first_time_seeing_rare_event) - [First time seeing a rare event](https://www.johndcook.com/blog/2023/08/30/first-time-seeing-a-rare-event/)
 * [2023-08-30, 15:46:12](https://lobste.rs/s/zxwc11/how_pass_coding_interview_with_me) - [How to pass a coding interview with me](https://robertheaton.com/interview/)
 * [2023-08-30, 15:27:31](https://lobste.rs/s/9llczn/tiny_dream_header_only_embedded_stable) - [Tiny Dream - Header-Only, Embedded Stable Diffusion Inference Library in C++](https://pixlab.io/tiny-dream)
