@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-30, 07:16:52](https://lobste.rs/s/ilpqe5/vectorized_interpreters_mrt_for_pl) - [Vectorized Interpreters: MRT for PL](http://venge.net/graydon/talks/VectorizedInterpretersTalk-2023-05-12.pdf)
 * [2023-08-30, 06:05:53](https://lobste.rs/s/eoyuf6/fomos_experimental_os_built_with_rust) - [Fomos: Experimental OS, built with rust](https://github.com/Ruddle/Fomos)
 * [2023-08-30, 03:15:15](https://lobste.rs/s/iv9b9g/road_amazonka_2_0) - [The Road to Amazonka 2.0](http://jackkelly.name/blog/archives/2023/08/30/the_road_to_amazonka_2_0/)
 * [2023-08-30, 01:21:47](https://lobste.rs/s/zqgrzg/ooze_escape_commodore_64_amiga) - [Ooze: The Escape (Commodore 64, Amiga)](https://h4plo.itch.io/ooze)
@@ -17,7 +18,6 @@
 * [2023-08-29, 15:11:22](https://lobste.rs/s/nmwvm2/popularity_dos_4gw_made_windows_95_game) - [The popularity of DOS/4GW made Windows 95 game compatibility a little easier, but with higher stakes](https://devblogs.microsoft.com/oldnewthing/20230829-00/?p=108661)
 * [2023-08-29, 15:02:14](https://lobste.rs/s/otrtnn/first_stable_release_memory_safe_sudo) - [The First Stable Release of a Memory Safe sudo Implementation](https://www.memorysafety.org/blog/sudo-first-stable-release/)
 * [2023-08-29, 14:11:59](https://lobste.rs/s/bh27fl/keystroke_timing_obfuscation_added_ssh_1) - [Keystroke timing obfuscation added to ssh(1)](https://undeadly.org/cgi?action=article;sid=20230829051257)
-* [2023-08-29, 13:37:46](https://lobste.rs/s/gdaohq/analysis_obfuscations_found_apple) - [Analysis of Obfuscations Found in Apple FairPlay](https://nicolo.dev/en/blog/fairplay-apple-obfuscation/)
 * [2023-08-29, 12:13:43](https://lobste.rs/s/vvnjld/compiling_rust_for_net_using_only_tea) - [Compiling Rust for .NET, using only tea and stubbornness](https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_0_1.html)
 * [2023-08-29, 11:32:29](https://lobste.rs/s/ehzhcw/semantic_markup_for_callouts) - [Semantic Markup for Callouts](https://toast.al/posts/softwarecraft/2023-08-29_semantic-markup-for-callouts)
 * [2023-08-29, 11:24:51](https://lobste.rs/s/mvt4ld/from_serverless_elixir) - [From Serverless to Elixir](https://medium.com/coryodaniel/from-erverless-to-elixir-48752db4d7bc)

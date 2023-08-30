@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-30](index.md)
 
+* [2023-08-30, 07:16:52](https://lobste.rs/s/ilpqe5/vectorized_interpreters_mrt_for_pl) - [Vectorized Interpreters: MRT for PL](http://venge.net/graydon/talks/VectorizedInterpretersTalk-2023-05-12.pdf)
 * [2023-08-30, 06:05:53](https://lobste.rs/s/eoyuf6/fomos_experimental_os_built_with_rust) - [Fomos: Experimental OS, built with rust](https://github.com/Ruddle/Fomos)
 * [2023-08-30, 03:15:15](https://lobste.rs/s/iv9b9g/road_amazonka_2_0) - [The Road to Amazonka 2.0](http://jackkelly.name/blog/archives/2023/08/30/the_road_to_amazonka_2_0/)
 * [2023-08-30, 01:21:47](https://lobste.rs/s/zqgrzg/ooze_escape_commodore_64_amiga) - [Ooze: The Escape (Commodore 64, Amiga)](https://h4plo.itch.io/ooze)
