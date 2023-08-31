@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-31, 14:09:33](https://lobste.rs/s/m7eacj/my_source_code_root_folder_name) - [My source code root folder name](https://jamesg.blog/2023/04/18/source-code-folder-names/)
 * [2023-08-31, 13:58:00](https://lobste.rs/s/oanwpp/sparse_sets) - [Sparse sets](https://manenko.com/2021/05/23/sparse-sets.html)
 * [2023-08-31, 13:47:28](https://lobste.rs/s/ftl3yz/wayland_breaks_your_bad_software) - [Wayland breaks your bad software](https://orowith2os.gitlab.io/posts/wayland-breaks-your-bad-software/)
 * [2023-08-31, 13:23:24](https://lobste.rs/s/msyjzr/what_is_good_linux_kernel_bug) - [What is a \"good\" Linux Kernel bug?](https://blog.isosceles.com/what-is-a-good-linux-kernel-bug/)
@@ -24,7 +25,6 @@
 * [2023-08-30, 14:51:36](https://lobste.rs/s/3l5oaa/rfc_7493_i_json_message_format_restricted) - [RFC 7493: The I-JSON Message Format (restricted subset of JSON for better interoperability) (2015)](https://www.rfc-editor.org/rfc/rfc7493.html)
 * [2023-08-30, 07:16:52](https://lobste.rs/s/ilpqe5/vectorized_interpreters_mrt_for_pl) - [Vectorized Interpreters: MRT for PL](http://venge.net/graydon/talks/VectorizedInterpretersTalk-2023-05-12.pdf)
 * [2023-08-30, 06:05:53](https://lobste.rs/s/eoyuf6/fomos_experimental_os_built_with_rust) - [Fomos: Experimental OS, built with rust](https://github.com/Ruddle/Fomos)
-* [2023-08-30, 01:11:36](https://lobste.rs/s/e2ubxj/ruby_outperforms_c_breaking_catch_22) - [Ruby Outperforms C: Breaking the Catch-22](https://railsatscale.com/2023-08-29-ruby-outperforms-c/)
 
 ## [Archives](archives/index.md)
 
