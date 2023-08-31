@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-31, 07:55:12](https://lobste.rs/s/l4fbim/expr_release_v1_15) - [Expr release v1.15](https://github.com/antonmedv/expr/releases/tag/v1.15.0)
+* [2023-08-31, 07:54:55](https://lobste.rs/s/z7ejsx/transactions_across_data_stores) - [Transactions Across Data Stores](https://petereliaskraft.net/blog/epoxy)
 * [2023-08-30, 22:09:27](https://lobste.rs/s/faxdor/change_guidance_on_committing_lockfiles) - [Change in Guidance on Committing Lockfiles](https://blog.rust-lang.org/2023/08/29/committing-lockfiles.html)
-* [2023-08-30, 21:52:43](https://lobste.rs/s/s3cshk/how_build_distributed_inference_cache) - [How to Build a Distributed Inference Cache with NVIDIA Triton and Redis](https://developer.nvidia.com/blog/how-to-build-a-distributed-inference-cache-with-nvidia-triton-and-redis/)
-* [2023-08-30, 21:45:13](https://lobste.rs/s/vtmcsr/compress_text_compression_for) - [compress: Text compression for generating keyboard expansions](https://github.com/eschluntz/compress)
 * [2023-08-30, 21:02:49](https://lobste.rs/s/l8b2ov/procedural_planet_generation_2014) - [Procedural Planet Generation (2014)](https://web.archive.org/web/20220617041817/http://experilous.com/1/blog/post/procedural-planet-generation)
 * [2023-08-30, 20:46:12](https://lobste.rs/s/6onnz7/case_for_nushell) - [The case for Nushell](https://www.jntrnr.com/case-for-nushell/)
 * [2023-08-30, 20:35:33](https://lobste.rs/s/rlykrr/so_you_want_abolish_time_zones_2015) - [So You Want To Abolish Time Zones (2015)](https://qntm.org/abolish)
