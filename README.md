@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-31, 09:41:47](https://lobste.rs/s/3r29sb/making_vim_neovim_plugin_while_learning) - [Making a Vim/Neovim Plugin While Learning Nix Flakes](https://journal.platonic.systems/making-a-vim-neovim-plugin-while-learning-nix-flakes/)
 * [2023-08-31, 08:33:46](https://lobste.rs/s/tpaeit/git_cliff_1_3_0_is_released_highly) - [git-cliff 1.3.0 is released - a highly customizable changelog generator](https://git-cliff.org/blog/1.3.0)
 * [2023-08-31, 08:22:29](https://lobste.rs/s/whbyxt/2023_08_30_outage_midmortem) - [2023-08-30 Outage Midmortem](https://lobste.rs/s/whbyxt/2023_08_30_outage_midmortem)
 * [2023-08-31, 07:55:12](https://lobste.rs/s/l4fbim/expr_release_v1_15) - [Expr release v1.15](https://github.com/antonmedv/expr/releases/tag/v1.15.0)
@@ -17,7 +18,6 @@
 * [2023-08-30, 15:46:12](https://lobste.rs/s/zxwc11/how_pass_coding_interview_with_me) - [How to pass a coding interview with me](https://robertheaton.com/interview/)
 * [2023-08-30, 14:51:36](https://lobste.rs/s/3l5oaa/rfc_7493_i_json_message_format_restricted) - [RFC 7493: The I-JSON Message Format (restricted subset of JSON for better interoperability) (2015)](https://www.rfc-editor.org/rfc/rfc7493.html)
 * [2023-08-30, 14:03:45](https://lobste.rs/s/cl4gcv/implementing_oauth_rust) - [Implementing OAuth in Rust](https://www.shuttle.rs/blog/2023/08/30/using-oauth-with-axum)
-* [2023-08-30, 11:38:03](https://lobste.rs/s/remnbf/brainstorming_syntax_for_word_usage) - [Brainstorming a syntax for a word usage query language](https://jamesg.blog/2023/08/28/word-query-language/)
 * [2023-08-30, 09:24:15](https://lobste.rs/s/wzkz5m/enum_type_safe_enums_for_go_without_code) - [enum: Type safe enums for Go without code generation or reflection](https://github.com/orsinium-labs/enum)
 * [2023-08-30, 07:16:52](https://lobste.rs/s/ilpqe5/vectorized_interpreters_mrt_for_pl) - [Vectorized Interpreters: MRT for PL](http://venge.net/graydon/talks/VectorizedInterpretersTalk-2023-05-12.pdf)
 * [2023-08-30, 06:05:53](https://lobste.rs/s/eoyuf6/fomos_experimental_os_built_with_rust) - [Fomos: Experimental OS, built with rust](https://github.com/Ruddle/Fomos)
