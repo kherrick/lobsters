@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-31, 10:55:50](https://lobste.rs/s/sscalh/integrating_large_tokio_based_rust) - [Integrating a large Tokio-based Rust library with Haskell](https://www.iankduncan.com/articles/2023-08-30-integrating-haskell-and-tokio)
 * [2023-08-31, 10:29:12](https://lobste.rs/s/a4jewd/net_http_enhanced_servemux_routing) - [net/http: enhanced ServeMux routing (accepted proposal)](https://github.com/golang/go/issues/61410)
 * [2023-08-31, 10:03:49](https://lobste.rs/s/anbj87/inability_unsubscribe_from_emails) - [Inability to unsubscribe from emails](https://lobste.rs/s/anbj87/inability_unsubscribe_from_emails)
 * [2023-08-31, 09:41:47](https://lobste.rs/s/3r29sb/making_vim_neovim_plugin_while_learning) - [Making a Vim/Neovim Plugin While Learning Nix Flakes](https://journal.platonic.systems/making-a-vim-neovim-plugin-while-learning-nix-flakes/)
@@ -12,7 +13,6 @@
 * [2023-08-30, 20:46:12](https://lobste.rs/s/6onnz7/case_for_nushell) - [The case for Nushell](https://www.jntrnr.com/case-for-nushell/)
 * [2023-08-30, 20:35:33](https://lobste.rs/s/rlykrr/so_you_want_abolish_time_zones_2015) - [So You Want To Abolish Time Zones (2015)](https://qntm.org/abolish)
 * [2023-08-30, 20:02:59](https://lobste.rs/s/apzolm/visual_studio_for_mac_retirement) - [Visual Studio for Mac Retirement Announcement](https://devblogs.microsoft.com/visualstudio/visual-studio-for-mac-retirement-announcement/)
-* [2023-08-30, 19:56:47](https://lobste.rs/s/vwqp4k/please_test_parallel_mark_region) - [Please test the parallel mark-region collector for SBCL](https://applied-langua.ge/~hayley/pmrgc.html)
 * [2023-08-30, 19:09:00](https://lobste.rs/s/deezrp/regolith_desktop_3_0_released_with) - [Regolith Desktop 3.0 Released with Initial Wayland Support](https://www.omgubuntu.co.uk/2023/08/regolith-desktop-3-0-released-with-initial-wayland-support)
 * [2023-08-30, 18:17:27](https://lobste.rs/s/o2o2cg/running_nixos_from_any_linux_distro) - [Running NixOS from any Linux Distro in systemd-nspawn Containers](https://nixcademy.com/2023/08/29/nixos-nspawn/)
 * [2023-08-30, 15:56:38](https://lobste.rs/s/9lwxur/first_time_seeing_rare_event) - [First time seeing a rare event](https://www.johndcook.com/blog/2023/08/30/first-time-seeing-a-rare-event/)

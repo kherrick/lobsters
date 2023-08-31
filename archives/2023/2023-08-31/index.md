@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-31](index.md)
 
+* [2023-08-31, 10:55:50](https://lobste.rs/s/sscalh/integrating_large_tokio_based_rust) - [Integrating a large Tokio-based Rust library with Haskell](https://www.iankduncan.com/articles/2023-08-30-integrating-haskell-and-tokio)
 * [2023-08-31, 10:29:12](https://lobste.rs/s/a4jewd/net_http_enhanced_servemux_routing) - [net/http: enhanced ServeMux routing (accepted proposal)](https://github.com/golang/go/issues/61410)
 * [2023-08-31, 10:03:49](https://lobste.rs/s/anbj87/inability_unsubscribe_from_emails) - [Inability to unsubscribe from emails](https://lobste.rs/s/anbj87/inability_unsubscribe_from_emails)
 * [2023-08-31, 09:41:47](https://lobste.rs/s/3r29sb/making_vim_neovim_plugin_while_learning) - [Making a Vim/Neovim Plugin While Learning Nix Flakes](https://journal.platonic.systems/making-a-vim-neovim-plugin-while-learning-nix-flakes/)
