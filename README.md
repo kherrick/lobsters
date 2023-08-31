@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-31, 18:31:59](https://lobste.rs/s/sj32aw/comparing_request_handlers_scotty_yesod) - [Comparing request handlers in Scotty, Yesod, and Servant](https://nicolashery.com/comparing-scotty-yesod-servant/)
 * [2023-08-31, 17:12:47](https://lobste.rs/s/ksf9t0/amd_open_source_gpu_kernel_driver_above_5) - [AMD Open-Source GPU Kernel Driver Above 5 Million Lines, Entire Linux Kernel At 34.8 Million - Phoronix](https://www.phoronix.com/news/AMD-5-Million-Lines)
 * [2023-08-31, 16:56:58](https://lobste.rs/s/rqdsla/design_principles_behind_smalltalk) - [Design Principles Behind Smalltalk](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
 * [2023-08-31, 15:58:20](https://lobste.rs/s/j8li8k/which_self_hosted_applications_do_you_run) - [Which Self Hosted applications do you run?](https://lobste.rs/s/j8li8k/which_self_hosted_applications_do_you_run)
@@ -17,7 +18,6 @@
 * [2023-08-31, 08:22:29](https://lobste.rs/s/whbyxt/2023_08_30_outage_postmortem) - [2023-08-30 Outage Postmortem](https://lobste.rs/s/whbyxt/2023_08_30_outage_postmortem)
 * [2023-08-31, 07:55:12](https://lobste.rs/s/l4fbim/expr_release_v1_15) - [Expr release v1.15](https://github.com/antonmedv/expr/releases/tag/v1.15.0)
 * [2023-08-31, 07:54:55](https://lobste.rs/s/z7ejsx/transactions_across_data_stores) - [Transactions Across Data Stores](https://petereliaskraft.net/blog/epoxy)
-* [2023-08-30, 22:09:27](https://lobste.rs/s/faxdor/change_guidance_on_committing_lockfiles) - [Change in Guidance on Committing Lockfiles](https://blog.rust-lang.org/2023/08/29/committing-lockfiles.html)
 * [2023-08-30, 20:46:12](https://lobste.rs/s/6onnz7/case_for_nushell) - [The case for Nushell](https://www.jntrnr.com/case-for-nushell/)
 * [2023-08-30, 20:35:33](https://lobste.rs/s/rlykrr/so_you_want_abolish_time_zones_2015) - [So You Want To Abolish Time Zones (2015)](https://qntm.org/abolish)
 * [2023-08-30, 20:02:59](https://lobste.rs/s/apzolm/visual_studio_for_mac_retirement) - [Visual Studio for Mac Retirement Announcement](https://devblogs.microsoft.com/visualstudio/visual-studio-for-mac-retirement-announcement/)
