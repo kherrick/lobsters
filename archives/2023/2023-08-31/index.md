@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-31](index.md)
 
+* [2023-08-31, 15:58:20](https://lobste.rs/s/j8li8k/which_self_hosted_applications_do_you_run) - [Which self Hosted applications do you run?](https://lobste.rs/s/j8li8k/which_self_hosted_applications_do_you_run)
+* [2023-08-31, 15:51:28](https://lobste.rs/s/kmlayx/flake_schemas_making_nix_flake_outputs) - [Flake schemas: making Nix flake outputs extensible](https://determinate.systems/posts/flake-schemas)
 * [2023-08-31, 14:09:33](https://lobste.rs/s/m7eacj/my_source_code_root_folder_name) - [My source code root folder name](https://jamesg.blog/2023/04/18/source-code-folder-names/)
 * [2023-08-31, 13:58:00](https://lobste.rs/s/oanwpp/sparse_sets) - [Sparse sets](https://manenko.com/2021/05/23/sparse-sets.html)
 * [2023-08-31, 13:47:28](https://lobste.rs/s/ftl3yz/wayland_breaks_your_bad_software) - [Wayland breaks your bad software](https://orowith2os.gitlab.io/posts/wayland-breaks-your-bad-software/)

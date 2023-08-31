@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-31, 15:58:20](https://lobste.rs/s/j8li8k/which_self_hosted_applications_do_you_run) - [Which self Hosted applications do you run?](https://lobste.rs/s/j8li8k/which_self_hosted_applications_do_you_run)
+* [2023-08-31, 15:51:28](https://lobste.rs/s/kmlayx/flake_schemas_making_nix_flake_outputs) - [Flake schemas: making Nix flake outputs extensible](https://determinate.systems/posts/flake-schemas)
 * [2023-08-31, 14:09:33](https://lobste.rs/s/m7eacj/my_source_code_root_folder_name) - [My source code root folder name](https://jamesg.blog/2023/04/18/source-code-folder-names/)
 * [2023-08-31, 13:58:00](https://lobste.rs/s/oanwpp/sparse_sets) - [Sparse sets](https://manenko.com/2021/05/23/sparse-sets.html)
 * [2023-08-31, 13:47:28](https://lobste.rs/s/ftl3yz/wayland_breaks_your_bad_software) - [Wayland breaks your bad software](https://orowith2os.gitlab.io/posts/wayland-breaks-your-bad-software/)
@@ -14,7 +16,6 @@
 * [2023-08-31, 07:55:12](https://lobste.rs/s/l4fbim/expr_release_v1_15) - [Expr release v1.15](https://github.com/antonmedv/expr/releases/tag/v1.15.0)
 * [2023-08-31, 07:54:55](https://lobste.rs/s/z7ejsx/transactions_across_data_stores) - [Transactions Across Data Stores](https://petereliaskraft.net/blog/epoxy)
 * [2023-08-30, 22:09:27](https://lobste.rs/s/faxdor/change_guidance_on_committing_lockfiles) - [Change in Guidance on Committing Lockfiles](https://blog.rust-lang.org/2023/08/29/committing-lockfiles.html)
-* [2023-08-30, 21:02:49](https://lobste.rs/s/l8b2ov/procedural_planet_generation_2014) - [Procedural Planet Generation (2014)](https://web.archive.org/web/20220617041817/http://experilous.com/1/blog/post/procedural-planet-generation)
 * [2023-08-30, 20:46:12](https://lobste.rs/s/6onnz7/case_for_nushell) - [The case for Nushell](https://www.jntrnr.com/case-for-nushell/)
 * [2023-08-30, 20:35:33](https://lobste.rs/s/rlykrr/so_you_want_abolish_time_zones_2015) - [So You Want To Abolish Time Zones (2015)](https://qntm.org/abolish)
 * [2023-08-30, 20:02:59](https://lobste.rs/s/apzolm/visual_studio_for_mac_retirement) - [Visual Studio for Mac Retirement Announcement](https://devblogs.microsoft.com/visualstudio/visual-studio-for-mac-retirement-announcement/)
@@ -23,7 +24,6 @@
 * [2023-08-30, 15:56:38](https://lobste.rs/s/9lwxur/first_time_seeing_rare_event) - [First time seeing a rare event](https://www.johndcook.com/blog/2023/08/30/first-time-seeing-a-rare-event/)
 * [2023-08-30, 15:46:12](https://lobste.rs/s/zxwc11/how_pass_coding_interview_with_me) - [How to pass a coding interview with me](https://robertheaton.com/interview/)
 * [2023-08-30, 14:51:36](https://lobste.rs/s/3l5oaa/rfc_7493_i_json_message_format_restricted) - [RFC 7493: The I-JSON Message Format (restricted subset of JSON for better interoperability) (2015)](https://www.rfc-editor.org/rfc/rfc7493.html)
-* [2023-08-30, 07:16:52](https://lobste.rs/s/ilpqe5/vectorized_interpreters_mrt_for_pl) - [Vectorized Interpreters: MRT for PL](http://venge.net/graydon/talks/VectorizedInterpretersTalk-2023-05-12.pdf)
 * [2023-08-30, 06:05:53](https://lobste.rs/s/eoyuf6/fomos_experimental_os_built_with_rust) - [Fomos: Experimental OS, built with rust](https://github.com/Ruddle/Fomos)
 
 ## [Archives](archives/index.md)
