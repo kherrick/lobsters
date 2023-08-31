@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-31, 13:47:28",
+      "https://lobste.rs/s/ftl3yz/wayland_breaks_your_bad_software"
+    ],
+    [
+      "Wayland breaks your bad software",
+      "https://orowith2os.gitlab.io/posts/wayland-breaks-your-bad-software/"
+    ]
+  ],
+  [
+    [
       "2023-08-31, 13:23:24",
       "https://lobste.rs/s/msyjzr/what_is_good_linux_kernel_bug"
     ],
@@ -237,16 +247,6 @@
     [
       "Ruby Outperforms C: Breaking the Catch-22",
       "https://railsatscale.com/2023-08-29-ruby-outperforms-c/"
-    ]
-  ],
-  [
-    [
-      "2023-08-29, 15:02:14",
-      "https://lobste.rs/s/otrtnn/first_stable_release_memory_safe_sudo"
-    ],
-    [
-      "The First Stable Release of a Memory Safe sudo Implementation",
-      "https://www.memorysafety.org/blog/sudo-first-stable-release/"
     ]
   ]
 ]
