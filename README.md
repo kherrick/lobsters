@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-31, 10:03:49](https://lobste.rs/s/anbj87/inability_unsubscribe_from_emails) - [Inability to unsubscribe from emails](https://lobste.rs/s/anbj87/inability_unsubscribe_from_emails)
 * [2023-08-31, 09:41:47](https://lobste.rs/s/3r29sb/making_vim_neovim_plugin_while_learning) - [Making a Vim/Neovim Plugin While Learning Nix Flakes](https://journal.platonic.systems/making-a-vim-neovim-plugin-while-learning-nix-flakes/)
 * [2023-08-31, 08:33:46](https://lobste.rs/s/tpaeit/git_cliff_1_3_0_is_released_highly) - [git-cliff 1.3.0 is released - a highly customizable changelog generator](https://git-cliff.org/blog/1.3.0)
 * [2023-08-31, 08:22:29](https://lobste.rs/s/whbyxt/2023_08_30_outage_midmortem) - [2023-08-30 Outage Midmortem](https://lobste.rs/s/whbyxt/2023_08_30_outage_midmortem)
@@ -13,7 +14,6 @@
 * [2023-08-30, 19:56:47](https://lobste.rs/s/vwqp4k/please_test_parallel_mark_region) - [Please test the parallel mark-region collector for SBCL](https://applied-langua.ge/~hayley/pmrgc.html)
 * [2023-08-30, 19:09:00](https://lobste.rs/s/deezrp/regolith_desktop_3_0_released_with) - [Regolith Desktop 3.0 Released with Initial Wayland Support](https://www.omgubuntu.co.uk/2023/08/regolith-desktop-3-0-released-with-initial-wayland-support)
 * [2023-08-30, 18:17:27](https://lobste.rs/s/o2o2cg/running_nixos_from_any_linux_distro) - [Running NixOS from any Linux Distro in systemd-nspawn Containers](https://nixcademy.com/2023/08/29/nixos-nspawn/)
-* [2023-08-30, 16:34:47](https://lobste.rs/s/xb5ntg/hitchhiker_s_guide_logical_verification) - [The Hitchhiker’s Guide to Logical Verification](https://raw.githubusercontent.com/blanchette/logical_verification_2020/master/hitchhikers_guide.pdf)
 * [2023-08-30, 15:56:38](https://lobste.rs/s/9lwxur/first_time_seeing_rare_event) - [First time seeing a rare event](https://www.johndcook.com/blog/2023/08/30/first-time-seeing-a-rare-event/)
 * [2023-08-30, 15:46:12](https://lobste.rs/s/zxwc11/how_pass_coding_interview_with_me) - [How to pass a coding interview with me](https://robertheaton.com/interview/)
 * [2023-08-30, 14:51:36](https://lobste.rs/s/3l5oaa/rfc_7493_i_json_message_format_restricted) - [RFC 7493: The I-JSON Message Format (restricted subset of JSON for better interoperability) (2015)](https://www.rfc-editor.org/rfc/rfc7493.html)
