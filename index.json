@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-08-31, 10:55:50",
+      "https://lobste.rs/s/sscalh/integrating_large_tokio_based_rust"
+    ],
+    [
+      "Integrating a large Tokio-based Rust library with Haskell",
+      "https://www.iankduncan.com/articles/2023-08-30-integrating-haskell-and-tokio"
+    ]
+  ],
+  [
+    [
       "2023-08-31, 10:29:12",
       "https://lobste.rs/s/a4jewd/net_http_enhanced_servemux_routing"
     ],
@@ -117,16 +127,6 @@
     [
       "Visual Studio for Mac Retirement Announcement",
       "https://devblogs.microsoft.com/visualstudio/visual-studio-for-mac-retirement-announcement/"
-    ]
-  ],
-  [
-    [
-      "2023-08-30, 19:56:47",
-      "https://lobste.rs/s/vwqp4k/please_test_parallel_mark_region"
-    ],
-    [
-      "Please test the parallel mark-region collector for SBCL",
-      "https://applied-langua.ge/~hayley/pmrgc.html"
     ]
   ],
   [
