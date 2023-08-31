@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-31, 13:23:24](https://lobste.rs/s/msyjzr/what_is_good_linux_kernel_bug) - [What is a \"good\" Linux Kernel bug?](https://blog.isosceles.com/what-is-a-good-linux-kernel-bug/)
+* [2023-08-31, 13:16:35](https://lobste.rs/s/ortvfh/youtube2webpage_i_learn_much_better_from) - [Youtube2Webpage: I learn much better from text than from videos](https://github.com/obra/Youtube2Webpage)
 * [2023-08-31, 12:27:13](https://lobste.rs/s/vrkqjo/building_circuit_abominations_factorio) - [Building Circuit Abominations in Factorio](https://www.youtube.com/watch?v=etxV4pqVRm8)
 * [2023-08-31, 11:07:55](https://lobste.rs/s/1bk8em/unconventions) - [Unconventions](https://unconventions.org/)
 * [2023-08-31, 10:55:50](https://lobste.rs/s/sscalh/integrating_large_tokio_based_rust) - [Integrating a large Tokio-based Rust library with Haskell](https://www.iankduncan.com/articles/2023-08-30-integrating-haskell-and-tokio)
 * [2023-08-31, 10:29:12](https://lobste.rs/s/a4jewd/net_http_enhanced_servemux_routing) - [net/http: enhanced ServeMux routing (accepted proposal)](https://github.com/golang/go/issues/61410)
-* [2023-08-31, 10:03:49](https://lobste.rs/s/anbj87/inability_unsubscribe_from_emails) - [Inability to unsubscribe from emails](https://lobste.rs/s/anbj87/inability_unsubscribe_from_emails)
 * [2023-08-31, 08:33:46](https://lobste.rs/s/tpaeit/git_cliff_1_3_0_is_released_highly) - [git-cliff 1.3.0 is released - a highly customizable changelog generator](https://git-cliff.org/blog/1.3.0)
 * [2023-08-31, 08:22:29](https://lobste.rs/s/whbyxt/2023_08_30_outage_midmortem) - [2023-08-30 Outage Midmortem](https://lobste.rs/s/whbyxt/2023_08_30_outage_midmortem)
 * [2023-08-31, 07:55:12](https://lobste.rs/s/l4fbim/expr_release_v1_15) - [Expr release v1.15](https://github.com/antonmedv/expr/releases/tag/v1.15.0)
@@ -22,7 +23,6 @@
 * [2023-08-30, 09:24:15](https://lobste.rs/s/wzkz5m/enum_type_safe_enums_for_go_without_code) - [enum: Type safe enums for Go without code generation or reflection](https://github.com/orsinium-labs/enum)
 * [2023-08-30, 07:16:52](https://lobste.rs/s/ilpqe5/vectorized_interpreters_mrt_for_pl) - [Vectorized Interpreters: MRT for PL](http://venge.net/graydon/talks/VectorizedInterpretersTalk-2023-05-12.pdf)
 * [2023-08-30, 06:05:53](https://lobste.rs/s/eoyuf6/fomos_experimental_os_built_with_rust) - [Fomos: Experimental OS, built with rust](https://github.com/Ruddle/Fomos)
-* [2023-08-30, 03:15:15](https://lobste.rs/s/iv9b9g/road_amazonka_2_0) - [The Road to Amazonka 2.0](http://jackkelly.name/blog/archives/2023/08/30/the_road_to_amazonka_2_0/)
 * [2023-08-30, 01:11:36](https://lobste.rs/s/e2ubxj/ruby_outperforms_c_breaking_catch_22) - [Ruby Outperforms C: Breaking the Catch-22](https://railsatscale.com/2023-08-29-ruby-outperforms-c/)
 * [2023-08-29, 15:02:14](https://lobste.rs/s/otrtnn/first_stable_release_memory_safe_sudo) - [The First Stable Release of a Memory Safe sudo Implementation](https://www.memorysafety.org/blog/sudo-first-stable-release/)
 
