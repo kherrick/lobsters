@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-08-31](index.md)
 
+* [2023-08-31, 22:08:12](https://lobste.rs/s/3zdmgo/android_goes_all_on_fuzzing) - [Android Goes All-in on Fuzzing](https://security.googleblog.com/2023/08/android-goes-all-in-on-fuzzing.html)
+* [2023-08-31, 21:55:33](https://lobste.rs/s/w2aw1w/how_backup_ghost_on_fly_io_with_rsync) - [How to Backup Ghost on Fly.io with Rsync](https://www.autodidacts.io/backup-ghost-on-fly-with-rsync/)
 * [2023-08-31, 21:03:59](https://lobste.rs/s/5ysfw6/nougat_neural_optical_understanding_for) - [nougat: Neural Optical Understanding for Academic Documents](https://facebookresearch.github.io/nougat/)
 * [2023-08-31, 19:21:57](https://lobste.rs/s/rpkd8z/3d_gaussian_splatting_for_real_time) - [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
 * [2023-08-31, 18:31:59](https://lobste.rs/s/sj32aw/comparing_request_handlers_scotty_yesod) - [Comparing request handlers in Scotty, Yesod, and Servant](https://nicolashery.com/comparing-scotty-yesod-servant/)
