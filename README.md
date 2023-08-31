@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-08-31, 16:56:58](https://lobste.rs/s/rqdsla/design_principles_behind_smalltalk) - [Design Principles Behind Smalltalk](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
 * [2023-08-31, 15:58:20](https://lobste.rs/s/j8li8k/which_self_hosted_applications_do_you_run) - [Which Self Hosted applications do you run?](https://lobste.rs/s/j8li8k/which_self_hosted_applications_do_you_run)
 * [2023-08-31, 15:51:28](https://lobste.rs/s/kmlayx/flake_schemas_making_nix_flake_outputs) - [Flake schemas: making Nix flake outputs extensible](https://determinate.systems/posts/flake-schemas)
 * [2023-08-31, 14:09:33](https://lobste.rs/s/m7eacj/my_source_code_root_folder_name) - [My source code root folder name](https://jamesg.blog/2023/04/18/source-code-folder-names/)
@@ -24,7 +25,6 @@
 * [2023-08-30, 15:56:38](https://lobste.rs/s/9lwxur/first_time_seeing_rare_event) - [First time seeing a rare event](https://www.johndcook.com/blog/2023/08/30/first-time-seeing-a-rare-event/)
 * [2023-08-30, 15:46:12](https://lobste.rs/s/zxwc11/how_pass_coding_interview_with_me) - [How to pass a coding interview with me](https://robertheaton.com/interview/)
 * [2023-08-30, 14:51:36](https://lobste.rs/s/3l5oaa/rfc_7493_i_json_message_format_restricted) - [RFC 7493: The I-JSON Message Format (restricted subset of JSON for better interoperability) (2015)](https://www.rfc-editor.org/rfc/rfc7493.html)
-* [2023-08-30, 06:05:53](https://lobste.rs/s/eoyuf6/fomos_experimental_os_built_with_rust) - [Fomos: Experimental OS, built with rust](https://github.com/Ruddle/Fomos)
 
 ## [Archives](archives/index.md)
 
