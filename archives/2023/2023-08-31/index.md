@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-08-31](index.md)
 
+* [2023-08-31, 12:27:13](https://lobste.rs/s/vrkqjo/building_circuit_abominations_factorio) - [Building Circuit Abominations in Factorio](https://www.youtube.com/watch?v=etxV4pqVRm8)
 * [2023-08-31, 11:07:55](https://lobste.rs/s/1bk8em/unconventions) - [Unconventions](https://unconventions.org/)
 * [2023-08-31, 10:55:50](https://lobste.rs/s/sscalh/integrating_large_tokio_based_rust) - [Integrating a large Tokio-based Rust library with Haskell](https://www.iankduncan.com/articles/2023-08-30-integrating-haskell-and-tokio)
 * [2023-08-31, 10:29:12](https://lobste.rs/s/a4jewd/net_http_enhanced_servemux_routing) - [net/http: enhanced ServeMux routing (accepted proposal)](https://github.com/golang/go/issues/61410)
