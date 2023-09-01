@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-01, 16:33:38",
+      "https://lobste.rs/s/r0jlvn/coqui_bark_voice_cloning"
+    ],
+    [
+      "Coqui Bark Voice Cloning",
+      "https://huggingface.co/spaces/fffiloni/instant-TTS-Bark-cloning"
+    ]
+  ],
+  [
+    [
+      "2023-09-01, 16:28:25",
+      "https://lobste.rs/s/a2lc6i/gradual_write_barrier_insertion_into"
+    ],
+    [
+      "Gradual Write-Barrier Insertion into a Ruby Interpreter",
+      "http://www.atdot.net/~ko1/activities/rgengc_ismm.pdf"
+    ]
+  ],
+  [
+    [
       "2023-09-01, 15:24:48",
       "https://lobste.rs/s/bcgtpp/fh_cli_for_flakehub"
     ],
@@ -177,26 +197,6 @@
     [
       "Comparing request handlers in Scotty, Yesod, and Servant",
       "https://nicolashery.com/comparing-scotty-yesod-servant/"
-    ]
-  ],
-  [
-    [
-      "2023-08-31, 17:12:47",
-      "https://lobste.rs/s/ksf9t0/amd_open_source_gpu_kernel_driver_above_5"
-    ],
-    [
-      "AMD Open-Source GPU Kernel Driver Above 5 Million Lines, Entire Linux Kernel At 34.8 Million",
-      "https://www.phoronix.com/news/AMD-5-Million-Lines"
-    ]
-  ],
-  [
-    [
-      "2023-08-31, 16:56:58",
-      "https://lobste.rs/s/rqdsla/design_principles_behind_smalltalk"
-    ],
-    [
-      "Design Principles Behind Smalltalk",
-      "https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html"
     ]
   ],
   [
