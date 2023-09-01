@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-01, 21:58:22](https://lobste.rs/s/5qem7v/cgo_performance_go_1_21) - [CGO Performance In Go 1.21](https://shane.ai/posts/cgo-performance-in-go1.21/)
+* [2023-09-01, 21:57:00](https://lobste.rs/s/3atrcf/patterns_with_rust_types) - [Patterns with Rust types](https://www.shuttle.rs/blog/2022/07/28/patterns-with-rust-types)
 * [2023-09-01, 21:23:25](https://lobste.rs/s/gyffva/this_week_gnome_111) - [This Week in GNOME #111](https://thisweek.gnome.org/posts/2023/09/twig-111/)
 * [2023-09-01, 20:27:00](https://lobste.rs/s/x4fbyl/philosophy_coroutines) - [Philosophy of coroutines](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy/#use-cases)
 * [2023-09-01, 18:55:49](https://lobste.rs/s/vd07pw/focus_simple_fast_text_editor) - [focus: A simple and fast text editor](https://github.com/focus-editor/focus)
 * [2023-09-01, 18:55:22](https://lobste.rs/s/5suewc/storing_utc_is_not_silver_bullet_2019) - [Storing UTC is not a silver bullet (2019)](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
 * [2023-09-01, 18:38:39](https://lobste.rs/s/cmcpy9/getting_from_generative_ai_trustworthy) - [Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc](https://arxiv.org/abs/2308.04445)
 * [2023-09-01, 18:12:03](https://lobste.rs/s/xwa20j/obsidian_releases_version_1_4_for) - [Obsidian releases version 1.4 for everyone with YAML front matter support (properties)](https://obsidian.md/changelog/2023-08-31-desktop-v1.4.5/)
-* [2023-09-01, 16:33:38](https://lobste.rs/s/r0jlvn/coqui_bark_voice_cloning) - [Coqui Bark Voice Cloning](https://huggingface.co/spaces/fffiloni/instant-TTS-Bark-cloning)
 * [2023-09-01, 15:24:48](https://lobste.rs/s/bcgtpp/fh_cli_for_flakehub) - [fh: the CLI for FlakeHub](https://determinate.systems/posts/flakehub-cli)
 * [2023-09-01, 14:27:43](https://lobste.rs/s/pxzrfx/we_migrated_50_000_lines_code_react_server) - [We migrated 50,000 lines of code to React Server Components](https://www.mux.com/blog/what-are-react-server-components)
 * [2023-09-01, 14:02:37](https://lobste.rs/s/neavyr/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/neavyr/what_are_you_doing_this_weekend)
@@ -23,7 +24,6 @@
 * [2023-09-01, 00:24:35](https://lobste.rs/s/ilbq2q/functional_data_structures_algorithms) - [Functional Data Structures and Algorithms. A Proof Assistant Approach](https://functional-algorithms-verified.org/)
 * [2023-08-31, 18:31:59](https://lobste.rs/s/sj32aw/comparing_request_handlers_scotty_yesod) - [Comparing request handlers in Scotty, Yesod, and Servant](https://nicolashery.com/comparing-scotty-yesod-servant/)
 * [2023-08-31, 15:58:20](https://lobste.rs/s/j8li8k/which_self_hosted_applications_do_you_run) - [Which Self Hosted applications do you run?](https://lobste.rs/s/j8li8k/which_self_hosted_applications_do_you_run)
-* [2023-08-31, 10:29:12](https://lobste.rs/s/a4jewd/net_http_enhanced_servemux_routing) - [net/http: enhanced ServeMux routing (accepted proposal)](https://github.com/golang/go/issues/61410)
 * [2023-08-31, 08:22:29](https://lobste.rs/s/whbyxt/2023_08_30_outage_postmortem) - [2023-08-30 Outage Postmortem](https://lobste.rs/s/whbyxt/2023_08_30_outage_postmortem)
 
 ## [Archives](archives/index.md)

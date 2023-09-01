@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 21:58:22](https://lobste.rs/s/5qem7v/cgo_performance_go_1_21) - [CGO Performance In Go 1.21](https://shane.ai/posts/cgo-performance-in-go1.21/)
+* [2023-09-01, 21:57:00](https://lobste.rs/s/3atrcf/patterns_with_rust_types) - [Patterns with Rust types](https://www.shuttle.rs/blog/2022/07/28/patterns-with-rust-types)
 * [2023-09-01, 21:23:25](https://lobste.rs/s/gyffva/this_week_gnome_111) - [This Week in GNOME #111](https://thisweek.gnome.org/posts/2023/09/twig-111/)
 * [2023-09-01, 20:27:00](https://lobste.rs/s/x4fbyl/philosophy_coroutines) - [Philosophy of coroutines](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy/#use-cases)
 * [2023-09-01, 20:01:00](https://lobste.rs/s/7lja6m/program_proofs) - [Program Proofs](https://program-proofs.com)
