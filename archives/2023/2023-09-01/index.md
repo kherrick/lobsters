@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 10:12:33](https://lobste.rs/s/cy7da7/interactive_api_tutorials) - [Interactive API tutorials](https://antonz.org/interactive-api-tutorials/)
 * [2023-09-01, 09:38:55](https://lobste.rs/s/lonsxy/cs_syd_ad_hoc_polymorphism_erodes_type) - [CS SYD - Ad-hoc polymorphism erodes type-safety (type traits in Rust are dangerous for refactoring!)](https://cs-syd.eu/posts/2023-08-25-ad-hoc-polymorphism-erodes-type-safety)
 * [2023-09-01, 08:08:54](https://lobste.rs/s/udoae0/rise_fall_chatgpt_4) - [The Rise and Fall of ChatGPT-4](https://nadim.computer/posts/2023-09-01-chatgpt4.html)
 * [2023-09-01, 08:00:15](https://lobste.rs/s/yffiri/even_ancient_javascript_is_safer) - [Even ancient JavaScript is a safer language for programming with integers than modern C (2022)](https://hikari.noyu.me/blog/2022-04-01-javascript-is-a-safer-language-for-integer-programming-than-c.html)

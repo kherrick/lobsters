@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-01, 10:12:33](https://lobste.rs/s/cy7da7/interactive_api_tutorials) - [Interactive API tutorials](https://antonz.org/interactive-api-tutorials/)
 * [2023-09-01, 09:38:55](https://lobste.rs/s/lonsxy/cs_syd_ad_hoc_polymorphism_erodes_type) - [CS SYD - Ad-hoc polymorphism erodes type-safety (type traits in Rust are dangerous for refactoring!)](https://cs-syd.eu/posts/2023-08-25-ad-hoc-polymorphism-erodes-type-safety)
 * [2023-09-01, 08:08:54](https://lobste.rs/s/udoae0/rise_fall_chatgpt_4) - [The Rise and Fall of ChatGPT-4](https://nadim.computer/posts/2023-09-01-chatgpt4.html)
 * [2023-09-01, 08:00:15](https://lobste.rs/s/yffiri/even_ancient_javascript_is_safer) - [Even ancient JavaScript is a safer language for programming with integers than modern C (2022)](https://hikari.noyu.me/blog/2022-04-01-javascript-is-a-safer-language-for-integer-programming-than-c.html)
@@ -18,7 +19,6 @@
 * [2023-08-31, 15:58:20](https://lobste.rs/s/j8li8k/which_self_hosted_applications_do_you_run) - [Which Self Hosted applications do you run?](https://lobste.rs/s/j8li8k/which_self_hosted_applications_do_you_run)
 * [2023-08-31, 15:51:28](https://lobste.rs/s/kmlayx/flake_schemas_making_nix_flake_outputs) - [Flake schemas: making Nix flake outputs extensible](https://determinate.systems/posts/flake-schemas)
 * [2023-08-31, 13:58:00](https://lobste.rs/s/oanwpp/sparse_sets) - [Sparse sets](https://manenko.com/2021/05/23/sparse-sets.html)
-* [2023-08-31, 13:47:28](https://lobste.rs/s/ftl3yz/wayland_breaks_your_bad_software) - [Wayland breaks your bad software](https://orowith2os.gitlab.io/posts/wayland-breaks-your-bad-software/)
 * [2023-08-31, 10:55:50](https://lobste.rs/s/sscalh/integrating_large_tokio_based_rust) - [Integrating a large Tokio-based Rust library with Haskell](https://www.iankduncan.com/articles/2023-08-30-integrating-haskell-and-tokio)
 * [2023-08-31, 10:29:12](https://lobste.rs/s/a4jewd/net_http_enhanced_servemux_routing) - [net/http: enhanced ServeMux routing (accepted proposal)](https://github.com/golang/go/issues/61410)
 * [2023-08-31, 08:33:46](https://lobste.rs/s/tpaeit/git_cliff_1_3_0_is_released_highly) - [git-cliff 1.3.0 is released - a highly customizable changelog generator](https://git-cliff.org/blog/1.3.0)
