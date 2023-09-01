@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-01, 18:12:03",
+      "https://lobste.rs/s/xwa20j/obsidian_releases_version_1_4_for"
+    ],
+    [
+      "Obsidian releases version 1.4 for everyone with YAML front matter support (properties)",
+      "https://obsidian.md/changelog/2023-08-31-desktop-v1.4.5/"
+    ]
+  ],
+  [
+    [
       "2023-09-01, 16:33:38",
       "https://lobste.rs/s/r0jlvn/coqui_bark_voice_cloning"
     ],
@@ -177,16 +187,6 @@
     [
       "Functional Data Structures and Algorithms. A Proof Assistant Approach",
       "https://functional-algorithms-verified.org/"
-    ]
-  ],
-  [
-    [
-      "2023-08-31, 22:08:12",
-      "https://lobste.rs/s/3zdmgo/android_goes_all_on_fuzzing"
-    ],
-    [
-      "Android Goes All-in on Fuzzing",
-      "https://security.googleblog.com/2023/08/android-goes-all-in-on-fuzzing.html"
     ]
   ],
   [
