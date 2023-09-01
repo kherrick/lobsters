@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-01, 22:41:09",
+      "https://lobste.rs/s/1rbawx/explaining_postgres_meme"
+    ],
+    [
+      "Explaining The Postgres Meme",
+      "https://www.avestura.dev/blog/explaining-the-postgres-meme"
+    ]
+  ],
+  [
+    [
       "2023-09-01, 22:06:23",
       "https://lobste.rs/s/0z5nbz/phoenix_liveview_life_cycle_illustrated"
     ],
@@ -177,16 +187,6 @@
     [
       "Even ancient JavaScript is a safer language for programming with integers than modern C (2022)",
       "https://hikari.noyu.me/blog/2022-04-01-javascript-is-a-safer-language-for-integer-programming-than-c.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-01, 06:33:08",
-      "https://lobste.rs/s/ulmsaw/futhark_0_25_3_released"
-    ],
-    [
-      "Futhark 0.25.3 released",
-      "https://futhark-lang.org/blog/2023-08-30-futhark-0.25.3-released.html"
     ]
   ],
   [
