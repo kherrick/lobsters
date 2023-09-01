@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-01, 18:38:39",
+      "https://lobste.rs/s/cmcpy9/getting_from_generative_ai_trustworthy"
+    ],
+    [
+      "Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc",
+      "https://arxiv.org/abs/2308.04445"
+    ]
+  ],
+  [
+    [
       "2023-09-01, 18:12:03",
       "https://lobste.rs/s/xwa20j/obsidian_releases_version_1_4_for"
     ],
@@ -197,16 +207,6 @@
     [
       "Comparing request handlers in Scotty, Yesod, and Servant",
       "https://nicolashery.com/comparing-scotty-yesod-servant/"
-    ]
-  ],
-  [
-    [
-      "2023-08-31, 16:56:58",
-      "https://lobste.rs/s/rqdsla/design_principles_behind_smalltalk"
-    ],
-    [
-      "Design Principles Behind Smalltalk",
-      "https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html"
     ]
   ],
   [
