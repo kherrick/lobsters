@@ -2,7 +2,6 @@
 
 * [2023-09-01, 15:24:48](https://lobste.rs/s/bcgtpp/fh_cli_for_flakehub) - [fh: the CLI for FlakeHub](https://determinate.systems/posts/flakehub-cli)
 * [2023-09-01, 14:27:43](https://lobste.rs/s/pxzrfx/we_migrated_50_000_lines_code_react_server) - [We migrated 50,000 lines of code to React Server Components](https://www.mux.com/blog/what-are-react-server-components)
-* [2023-09-01, 14:02:37](https://lobste.rs/s/neavyr/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/neavyr/what_are_you_doing_this_weekend)
 * [2023-09-01, 13:23:25](https://lobste.rs/s/eginyy/filepath_clean_terms_conditions_apply) - [filepath.Clean: terms and conditions apply](https://tortel.li/post/dirty_filepath/)
 * [2023-09-01, 12:22:27](https://lobste.rs/s/84jx9b/paid_freemium_terminal_utilities) - [Paid or freemium terminal utilities](https://lobste.rs/s/84jx9b/paid_freemium_terminal_utilities)
 * [2023-09-01, 12:05:08](https://lobste.rs/s/v71bnp/technical_merits_wayland_are_mostly) - [The technical merits of Wayland are mostly irrelevant](https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandTechnicalMeritsIrrelevant)
@@ -22,6 +21,7 @@
 * [2023-08-31, 16:56:58](https://lobste.rs/s/rqdsla/design_principles_behind_smalltalk) - [Design Principles Behind Smalltalk](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
 * [2023-08-31, 15:58:20](https://lobste.rs/s/j8li8k/which_self_hosted_applications_do_you_run) - [Which Self Hosted applications do you run?](https://lobste.rs/s/j8li8k/which_self_hosted_applications_do_you_run)
 * [2023-08-31, 15:51:28](https://lobste.rs/s/kmlayx/flake_schemas_making_nix_flake_outputs) - [Flake schemas: making Nix flake outputs extensible](https://determinate.systems/posts/flake-schemas)
+* [2023-08-31, 13:58:00](https://lobste.rs/s/oanwpp/sparse_sets) - [Sparse sets](https://manenko.com/2021/05/23/sparse-sets.html)
 * [2023-08-31, 10:29:12](https://lobste.rs/s/a4jewd/net_http_enhanced_servemux_routing) - [net/http: enhanced ServeMux routing (accepted proposal)](https://github.com/golang/go/issues/61410)
 * [2023-08-31, 08:33:46](https://lobste.rs/s/tpaeit/git_cliff_1_3_0_is_released_highly) - [git-cliff 1.3.0 is released - a highly customizable changelog generator](https://git-cliff.org/blog/1.3.0)
 * [2023-08-31, 08:22:29](https://lobste.rs/s/whbyxt/2023_08_30_outage_postmortem) - [2023-08-30 Outage Postmortem](https://lobste.rs/s/whbyxt/2023_08_30_outage_postmortem)
