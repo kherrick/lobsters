@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-01, 18:55:49](https://lobste.rs/s/vd07pw/focus_simple_fast_text_editor) - [focus: A simple and fast text editor](https://github.com/focus-editor/focus)
+* [2023-09-01, 18:55:22](https://lobste.rs/s/5suewc/storing_utc_is_not_silver_bullet_2019) - [Storing UTC is not a silver bullet (2019)](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
 * [2023-09-01, 18:38:39](https://lobste.rs/s/cmcpy9/getting_from_generative_ai_trustworthy) - [Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc](https://arxiv.org/abs/2308.04445)
 * [2023-09-01, 18:12:03](https://lobste.rs/s/xwa20j/obsidian_releases_version_1_4_for) - [Obsidian releases version 1.4 for everyone with YAML front matter support (properties)](https://obsidian.md/changelog/2023-08-31-desktop-v1.4.5/)
 * [2023-09-01, 16:33:38](https://lobste.rs/s/r0jlvn/coqui_bark_voice_cloning) - [Coqui Bark Voice Cloning](https://huggingface.co/spaces/fffiloni/instant-TTS-Bark-cloning)
@@ -11,10 +13,8 @@
 * [2023-09-01, 12:22:27](https://lobste.rs/s/84jx9b/paid_freemium_terminal_utilities) - [Paid or freemium terminal utilities](https://lobste.rs/s/84jx9b/paid_freemium_terminal_utilities)
 * [2023-09-01, 12:05:08](https://lobste.rs/s/v71bnp/technical_merits_wayland_are_mostly) - [The technical merits of Wayland are mostly irrelevant](https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandTechnicalMeritsIrrelevant)
 * [2023-09-01, 10:48:34](https://lobste.rs/s/ytgh5i/nix_flake_architecture_practice) - [Nix Flake Architecture in Practice - A Beginner-friendly Tour](https://journal.platonic.systems/nix-flake-architecture-in-practice/)
-* [2023-09-01, 10:12:33](https://lobste.rs/s/cy7da7/interactive_api_tutorials) - [Interactive API tutorials](https://antonz.org/interactive-api-tutorials/)
 * [2023-09-01, 09:38:55](https://lobste.rs/s/lonsxy/cs_syd_ad_hoc_polymorphism_erodes_type) - [CS SYD - Ad-hoc polymorphism erodes type-safety (type traits in Rust are dangerous for refactoring!)](https://cs-syd.eu/posts/2023-08-25-ad-hoc-polymorphism-erodes-type-safety)
 * [2023-09-01, 08:00:15](https://lobste.rs/s/yffiri/even_ancient_javascript_is_safer) - [Even ancient JavaScript is a safer language for programming with integers than modern C (2022)](https://hikari.noyu.me/blog/2022-04-01-javascript-is-a-safer-language-for-integer-programming-than-c.html)
-* [2023-09-01, 06:39:59](https://lobste.rs/s/ziu6ni/restoring_45_year_old_video_game) - [Restoring A 45 Year Old Video Game](https://hackaday.com/2023/08/30/restoring-a-45-year-old-video-game/)
 * [2023-09-01, 06:33:08](https://lobste.rs/s/ulmsaw/futhark_0_25_3_released) - [Futhark 0.25.3 released](https://futhark-lang.org/blog/2023-08-30-futhark-0.25.3-released.html)
 * [2023-09-01, 05:29:21](https://lobste.rs/s/b5upmn/croquet_project_demo_2003) - [Croquet Project Demo (2003)](https://www.youtube.com/watch?v=cXGLOiZUZ2U)
 * [2023-09-01, 05:08:09](https://lobste.rs/s/xbs5t8/grep_log_analysis) - [Grep and Log Analysis](https://muhammadraza.me/2023/grep-log-analysis/)

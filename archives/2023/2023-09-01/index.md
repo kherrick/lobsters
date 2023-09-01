@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 18:55:49](https://lobste.rs/s/vd07pw/focus_simple_fast_text_editor) - [focus: A simple and fast text editor](https://github.com/focus-editor/focus)
+* [2023-09-01, 18:55:22](https://lobste.rs/s/5suewc/storing_utc_is_not_silver_bullet_2019) - [Storing UTC is not a silver bullet (2019)](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
 * [2023-09-01, 18:38:39](https://lobste.rs/s/cmcpy9/getting_from_generative_ai_trustworthy) - [Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc](https://arxiv.org/abs/2308.04445)
 * [2023-09-01, 18:12:03](https://lobste.rs/s/xwa20j/obsidian_releases_version_1_4_for) - [Obsidian releases version 1.4 for everyone with YAML front matter support (properties)](https://obsidian.md/changelog/2023-08-31-desktop-v1.4.5/)
 * [2023-09-01, 16:33:38](https://lobste.rs/s/r0jlvn/coqui_bark_voice_cloning) - [Coqui Bark Voice Cloning](https://huggingface.co/spaces/fffiloni/instant-TTS-Bark-cloning)
