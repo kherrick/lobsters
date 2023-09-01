@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-01, 05:08:09](https://lobste.rs/s/xbs5t8/grep_log_analysis) - [Grep and Log Analysis](https://muhammadraza.me/2023/grep-log-analysis/)
+* [2023-09-01, 04:58:20](https://lobste.rs/s/q9b4mm/nanoscale_instruments_for_visualizing) - [Nanoscale Instruments for Visualizing Small Proteins & Dynamicland](https://youtu.be/_gXiVOmaVSo?t=864)
 * [2023-09-01, 03:06:53](https://lobste.rs/s/xfchni/misconceptions_about_immutable) - [Misconceptions About Immutable Distributions](https://theevilskeleton.gitlab.io/2023/08/29/misconceptions-about-immutable-distributions.html)
 * [2023-09-01, 01:41:00](https://lobste.rs/s/v4ros6/multiplix_operating_system_kernel_for) - [Multiplix: An operating system kernel for RISC-V and AArch64 SBCs](https://github.com/zyedidia/multiplix)
 * [2023-09-01, 01:03:30](https://lobste.rs/s/vk1fxv/embedded_swift) - [Embedded Swift](https://forums.swift.org/t/embedded-swift/67057)
 * [2023-09-01, 00:24:35](https://lobste.rs/s/ilbq2q/functional_data_structures_algorithms) - [Functional Data Structures and Algorithms. A Proof Assistant Approach](https://functional-algorithms-verified.org/)
 * [2023-08-31, 22:08:12](https://lobste.rs/s/3zdmgo/android_goes_all_on_fuzzing) - [Android Goes All-in on Fuzzing](https://security.googleblog.com/2023/08/android-goes-all-in-on-fuzzing.html)
 * [2023-08-31, 21:55:33](https://lobste.rs/s/w2aw1w/how_backup_ghost_on_fly_io_with_rsync) - [How to Backup Ghost on Fly.io with Rsync](https://www.autodidacts.io/backup-ghost-on-fly-with-rsync/)
-* [2023-08-31, 21:03:59](https://lobste.rs/s/5ysfw6/nougat_neural_optical_understanding_for) - [nougat: Neural Optical Understanding for Academic Documents](https://facebookresearch.github.io/nougat/)
 * [2023-08-31, 19:21:57](https://lobste.rs/s/rpkd8z/3d_gaussian_splatting_for_real_time) - [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
 * [2023-08-31, 18:31:59](https://lobste.rs/s/sj32aw/comparing_request_handlers_scotty_yesod) - [Comparing request handlers in Scotty, Yesod, and Servant](https://nicolashery.com/comparing-scotty-yesod-servant/)
 * [2023-08-31, 17:12:47](https://lobste.rs/s/ksf9t0/amd_open_source_gpu_kernel_driver_above_5) - [AMD Open-Source GPU Kernel Driver Above 5 Million Lines, Entire Linux Kernel At 34.8 Million - Phoronix](https://www.phoronix.com/news/AMD-5-Million-Lines)
@@ -24,7 +25,6 @@
 * [2023-08-31, 07:55:12](https://lobste.rs/s/l4fbim/expr_release_v1_15) - [Expr release v1.15](https://github.com/antonmedv/expr/releases/tag/v1.15.0)
 * [2023-08-30, 20:46:12](https://lobste.rs/s/6onnz7/case_for_nushell) - [The case for Nushell](https://www.jntrnr.com/case-for-nushell/)
 * [2023-08-30, 20:35:33](https://lobste.rs/s/rlykrr/so_you_want_abolish_time_zones_2015) - [So You Want To Abolish Time Zones (2015)](https://qntm.org/abolish)
-* [2023-08-30, 15:46:12](https://lobste.rs/s/zxwc11/how_pass_coding_interview_with_me) - [How to pass a coding interview with me](https://robertheaton.com/interview/)
 
 ## [Archives](archives/index.md)
 
