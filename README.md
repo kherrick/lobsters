@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-01, 03:06:53](https://lobste.rs/s/xfchni/misconceptions_about_immutable) - [Misconceptions About Immutable Distributions](https://theevilskeleton.gitlab.io/2023/08/29/misconceptions-about-immutable-distributions.html)
 * [2023-09-01, 01:41:00](https://lobste.rs/s/v4ros6/multiplix_operating_system_kernel_for) - [Multiplix: An operating system kernel for RISC-V and AArch64 SBCs](https://github.com/zyedidia/multiplix)
 * [2023-09-01, 01:03:30](https://lobste.rs/s/vk1fxv/embedded_swift) - [Embedded Swift](https://forums.swift.org/t/embedded-swift/67057)
 * [2023-09-01, 00:24:35](https://lobste.rs/s/ilbq2q/functional_data_structures_algorithms) - [Functional Data Structures and Algorithms. A Proof Assistant Approach](https://functional-algorithms-verified.org/)
@@ -12,7 +13,6 @@
 * [2023-08-31, 16:56:58](https://lobste.rs/s/rqdsla/design_principles_behind_smalltalk) - [Design Principles Behind Smalltalk](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
 * [2023-08-31, 15:58:20](https://lobste.rs/s/j8li8k/which_self_hosted_applications_do_you_run) - [Which Self Hosted applications do you run?](https://lobste.rs/s/j8li8k/which_self_hosted_applications_do_you_run)
 * [2023-08-31, 15:51:28](https://lobste.rs/s/kmlayx/flake_schemas_making_nix_flake_outputs) - [Flake schemas: making Nix flake outputs extensible](https://determinate.systems/posts/flake-schemas)
-* [2023-08-31, 14:09:33](https://lobste.rs/s/m7eacj/my_source_code_root_folder_name) - [My source code root folder name](https://jamesg.blog/2023/04/18/source-code-folder-names/)
 * [2023-08-31, 13:58:00](https://lobste.rs/s/oanwpp/sparse_sets) - [Sparse sets](https://manenko.com/2021/05/23/sparse-sets.html)
 * [2023-08-31, 13:47:28](https://lobste.rs/s/ftl3yz/wayland_breaks_your_bad_software) - [Wayland breaks your bad software](https://orowith2os.gitlab.io/posts/wayland-breaks-your-bad-software/)
 * [2023-08-31, 13:23:24](https://lobste.rs/s/msyjzr/what_is_good_linux_kernel_bug) - [What is a \"good\" Linux Kernel bug?](https://blog.isosceles.com/what-is-a-good-linux-kernel-bug/)
