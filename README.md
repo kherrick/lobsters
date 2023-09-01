@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-01, 20:01:00](https://lobste.rs/s/7lja6m/program_proofs) - [Program Proofs](https://program-proofs.com)
 * [2023-09-01, 18:55:49](https://lobste.rs/s/vd07pw/focus_simple_fast_text_editor) - [focus: A simple and fast text editor](https://github.com/focus-editor/focus)
 * [2023-09-01, 18:55:22](https://lobste.rs/s/5suewc/storing_utc_is_not_silver_bullet_2019) - [Storing UTC is not a silver bullet (2019)](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
 * [2023-09-01, 18:38:39](https://lobste.rs/s/cmcpy9/getting_from_generative_ai_trustworthy) - [Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc](https://arxiv.org/abs/2308.04445)
 * [2023-09-01, 18:12:03](https://lobste.rs/s/xwa20j/obsidian_releases_version_1_4_for) - [Obsidian releases version 1.4 for everyone with YAML front matter support (properties)](https://obsidian.md/changelog/2023-08-31-desktop-v1.4.5/)
 * [2023-09-01, 16:33:38](https://lobste.rs/s/r0jlvn/coqui_bark_voice_cloning) - [Coqui Bark Voice Cloning](https://huggingface.co/spaces/fffiloni/instant-TTS-Bark-cloning)
-* [2023-09-01, 16:28:25](https://lobste.rs/s/a2lc6i/gradual_write_barrier_insertion_into) - [Gradual Write-Barrier Insertion into a Ruby Interpreter](http://www.atdot.net/~ko1/activities/rgengc_ismm.pdf)
 * [2023-09-01, 15:24:48](https://lobste.rs/s/bcgtpp/fh_cli_for_flakehub) - [fh: the CLI for FlakeHub](https://determinate.systems/posts/flakehub-cli)
 * [2023-09-01, 14:27:43](https://lobste.rs/s/pxzrfx/we_migrated_50_000_lines_code_react_server) - [We migrated 50,000 lines of code to React Server Components](https://www.mux.com/blog/what-are-react-server-components)
 * [2023-09-01, 14:02:37](https://lobste.rs/s/neavyr/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/neavyr/what_are_you_doing_this_weekend)
