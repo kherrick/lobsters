@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 20:27:00](https://lobste.rs/s/x4fbyl/philosophy_coroutines) - [Philosophy of coroutines](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy/#use-cases)
 * [2023-09-01, 20:01:00](https://lobste.rs/s/7lja6m/program_proofs) - [Program Proofs](https://program-proofs.com)
 * [2023-09-01, 18:55:49](https://lobste.rs/s/vd07pw/focus_simple_fast_text_editor) - [focus: A simple and fast text editor](https://github.com/focus-editor/focus)
 * [2023-09-01, 18:55:22](https://lobste.rs/s/5suewc/storing_utc_is_not_silver_bullet_2019) - [Storing UTC is not a silver bullet (2019)](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
