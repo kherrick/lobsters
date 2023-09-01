@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-01, 10:48:34",
+      "https://lobste.rs/s/ytgh5i/nix_flake_architecture_practice"
+    ],
+    [
+      "Nix Flake Architecture in Practice - A Beginner-friendly Tour",
+      "https://journal.platonic.systems/nix-flake-architecture-in-practice/"
+    ]
+  ],
+  [
+    [
       "2023-09-01, 10:12:33",
       "https://lobste.rs/s/cy7da7/interactive_api_tutorials"
     ],
@@ -227,16 +237,6 @@
     [
       "2023-08-30 Outage Postmortem",
       "https://lobste.rs/s/whbyxt/2023_08_30_outage_postmortem"
-    ]
-  ],
-  [
-    [
-      "2023-08-31, 07:55:12",
-      "https://lobste.rs/s/l4fbim/expr_release_v1_15"
-    ],
-    [
-      "Expr release v1.15",
-      "https://github.com/antonmedv/expr/releases/tag/v1.15.0"
     ]
   ],
   [
