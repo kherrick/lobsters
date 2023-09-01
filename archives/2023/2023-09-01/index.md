@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 16:33:38](https://lobste.rs/s/r0jlvn/coqui_bark_voice_cloning) - [Coqui Bark Voice Cloning](https://huggingface.co/spaces/fffiloni/instant-TTS-Bark-cloning)
+* [2023-09-01, 16:28:25](https://lobste.rs/s/a2lc6i/gradual_write_barrier_insertion_into) - [Gradual Write-Barrier Insertion into a Ruby Interpreter](http://www.atdot.net/~ko1/activities/rgengc_ismm.pdf)
 * [2023-09-01, 15:24:48](https://lobste.rs/s/bcgtpp/fh_cli_for_flakehub) - [fh: the CLI for FlakeHub](https://determinate.systems/posts/flakehub-cli)
 * [2023-09-01, 14:27:43](https://lobste.rs/s/pxzrfx/we_migrated_50_000_lines_code_react_server) - [We migrated 50,000 lines of code to React Server Components](https://www.mux.com/blog/what-are-react-server-components)
 * [2023-09-01, 14:02:37](https://lobste.rs/s/neavyr/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/neavyr/what_are_you_doing_this_weekend)

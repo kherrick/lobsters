@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-01, 16:33:38](https://lobste.rs/s/r0jlvn/coqui_bark_voice_cloning) - [Coqui Bark Voice Cloning](https://huggingface.co/spaces/fffiloni/instant-TTS-Bark-cloning)
+* [2023-09-01, 16:28:25](https://lobste.rs/s/a2lc6i/gradual_write_barrier_insertion_into) - [Gradual Write-Barrier Insertion into a Ruby Interpreter](http://www.atdot.net/~ko1/activities/rgengc_ismm.pdf)
 * [2023-09-01, 15:24:48](https://lobste.rs/s/bcgtpp/fh_cli_for_flakehub) - [fh: the CLI for FlakeHub](https://determinate.systems/posts/flakehub-cli)
 * [2023-09-01, 14:27:43](https://lobste.rs/s/pxzrfx/we_migrated_50_000_lines_code_react_server) - [We migrated 50,000 lines of code to React Server Components](https://www.mux.com/blog/what-are-react-server-components)
 * [2023-09-01, 14:02:37](https://lobste.rs/s/neavyr/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/neavyr/what_are_you_doing_this_weekend)
@@ -18,8 +20,6 @@
 * [2023-09-01, 00:24:35](https://lobste.rs/s/ilbq2q/functional_data_structures_algorithms) - [Functional Data Structures and Algorithms. A Proof Assistant Approach](https://functional-algorithms-verified.org/)
 * [2023-08-31, 22:08:12](https://lobste.rs/s/3zdmgo/android_goes_all_on_fuzzing) - [Android Goes All-in on Fuzzing](https://security.googleblog.com/2023/08/android-goes-all-in-on-fuzzing.html)
 * [2023-08-31, 18:31:59](https://lobste.rs/s/sj32aw/comparing_request_handlers_scotty_yesod) - [Comparing request handlers in Scotty, Yesod, and Servant](https://nicolashery.com/comparing-scotty-yesod-servant/)
-* [2023-08-31, 17:12:47](https://lobste.rs/s/ksf9t0/amd_open_source_gpu_kernel_driver_above_5) - [AMD Open-Source GPU Kernel Driver Above 5 Million Lines, Entire Linux Kernel At 34.8 Million](https://www.phoronix.com/news/AMD-5-Million-Lines)
-* [2023-08-31, 16:56:58](https://lobste.rs/s/rqdsla/design_principles_behind_smalltalk) - [Design Principles Behind Smalltalk](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
 * [2023-08-31, 15:58:20](https://lobste.rs/s/j8li8k/which_self_hosted_applications_do_you_run) - [Which Self Hosted applications do you run?](https://lobste.rs/s/j8li8k/which_self_hosted_applications_do_you_run)
 * [2023-08-31, 15:51:28](https://lobste.rs/s/kmlayx/flake_schemas_making_nix_flake_outputs) - [Flake schemas: making Nix flake outputs extensible](https://determinate.systems/posts/flake-schemas)
 * [2023-08-31, 10:29:12](https://lobste.rs/s/a4jewd/net_http_enhanced_servemux_routing) - [net/http: enhanced ServeMux routing (accepted proposal)](https://github.com/golang/go/issues/61410)
