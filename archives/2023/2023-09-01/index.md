@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 06:39:59](https://lobste.rs/s/ziu6ni/restoring_45_year_old_video_game) - [Restoring A 45 Year Old Video Game](https://hackaday.com/2023/08/30/restoring-a-45-year-old-video-game/)
 * [2023-09-01, 06:33:08](https://lobste.rs/s/ulmsaw/futhark_0_25_3_released) - [Futhark 0.25.3 released](https://futhark-lang.org/blog/2023-08-30-futhark-0.25.3-released.html)
 * [2023-09-01, 05:29:21](https://lobste.rs/s/b5upmn/croquet_project_demo_2003) - [Croquet Project Demo (2003)](https://www.youtube.com/watch?v=cXGLOiZUZ2U)
 * [2023-09-01, 05:08:09](https://lobste.rs/s/xbs5t8/grep_log_analysis) - [Grep and Log Analysis](https://muhammadraza.me/2023/grep-log-analysis/)
