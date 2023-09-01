@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 23:54:17](https://lobste.rs/s/awnlzq/oxidizing_ocaml_data_race_freedom) - [Oxidizing OCaml: Data Race Freedom](https://blog.janestreet.com/oxidizing-ocaml-parallelism/)
 * [2023-09-01, 22:41:09](https://lobste.rs/s/1rbawx/explaining_postgres_meme) - [Explaining The Postgres Meme](https://www.avestura.dev/blog/explaining-the-postgres-meme)
 * [2023-09-01, 22:06:23](https://lobste.rs/s/0z5nbz/phoenix_liveview_life_cycle_illustrated) - [The Phoenix LiveView Life Cycle Illustrated](https://johnelmlabs.com/posts/liveview-lifecycle-flow-chart)
 * [2023-09-01, 21:58:22](https://lobste.rs/s/5qem7v/cgo_performance_go_1_21) - [CGO Performance In Go 1.21](https://shane.ai/posts/cgo-performance-in-go1.21/)
