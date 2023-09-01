@@ -1,9 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-01, 12:22:27](https://lobste.rs/s/84jx9b/paid_freemium_terminal_utilities) - [Paid or freemium terminal utilities](https://lobste.rs/s/84jx9b/paid_freemium_terminal_utilities)
+* [2023-09-01, 12:05:08](https://lobste.rs/s/v71bnp/technical_merits_wayland_are_mostly) - [The technical merits of Wayland are mostly irrelevant](https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandTechnicalMeritsIrrelevant)
 * [2023-09-01, 10:48:34](https://lobste.rs/s/ytgh5i/nix_flake_architecture_practice) - [Nix Flake Architecture in Practice - A Beginner-friendly Tour](https://journal.platonic.systems/nix-flake-architecture-in-practice/)
 * [2023-09-01, 10:12:33](https://lobste.rs/s/cy7da7/interactive_api_tutorials) - [Interactive API tutorials](https://antonz.org/interactive-api-tutorials/)
 * [2023-09-01, 09:38:55](https://lobste.rs/s/lonsxy/cs_syd_ad_hoc_polymorphism_erodes_type) - [CS SYD - Ad-hoc polymorphism erodes type-safety (type traits in Rust are dangerous for refactoring!)](https://cs-syd.eu/posts/2023-08-25-ad-hoc-polymorphism-erodes-type-safety)
-* [2023-09-01, 08:08:54](https://lobste.rs/s/udoae0/rise_fall_chatgpt_4) - [The Rise and Fall of ChatGPT-4](https://nadim.computer/posts/2023-09-01-chatgpt4.html)
 * [2023-09-01, 08:00:15](https://lobste.rs/s/yffiri/even_ancient_javascript_is_safer) - [Even ancient JavaScript is a safer language for programming with integers than modern C (2022)](https://hikari.noyu.me/blog/2022-04-01-javascript-is-a-safer-language-for-integer-programming-than-c.html)
 * [2023-09-01, 06:39:59](https://lobste.rs/s/ziu6ni/restoring_45_year_old_video_game) - [Restoring A 45 Year Old Video Game](https://hackaday.com/2023/08/30/restoring-a-45-year-old-video-game/)
 * [2023-09-01, 06:33:08](https://lobste.rs/s/ulmsaw/futhark_0_25_3_released) - [Futhark 0.25.3 released](https://futhark-lang.org/blog/2023-08-30-futhark-0.25.3-released.html)
@@ -24,7 +25,6 @@
 * [2023-08-31, 10:29:12](https://lobste.rs/s/a4jewd/net_http_enhanced_servemux_routing) - [net/http: enhanced ServeMux routing (accepted proposal)](https://github.com/golang/go/issues/61410)
 * [2023-08-31, 08:33:46](https://lobste.rs/s/tpaeit/git_cliff_1_3_0_is_released_highly) - [git-cliff 1.3.0 is released - a highly customizable changelog generator](https://git-cliff.org/blog/1.3.0)
 * [2023-08-31, 08:22:29](https://lobste.rs/s/whbyxt/2023_08_30_outage_postmortem) - [2023-08-30 Outage Postmortem](https://lobste.rs/s/whbyxt/2023_08_30_outage_postmortem)
-* [2023-08-30, 20:46:12](https://lobste.rs/s/6onnz7/case_for_nushell) - [The case for Nushell](https://www.jntrnr.com/case-for-nushell/)
 
 ## [Archives](archives/index.md)
 
