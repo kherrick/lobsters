@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 18:12:03](https://lobste.rs/s/xwa20j/obsidian_releases_version_1_4_for) - [Obsidian releases version 1.4 for everyone with YAML front matter support (properties)](https://obsidian.md/changelog/2023-08-31-desktop-v1.4.5/)
 * [2023-09-01, 16:33:38](https://lobste.rs/s/r0jlvn/coqui_bark_voice_cloning) - [Coqui Bark Voice Cloning](https://huggingface.co/spaces/fffiloni/instant-TTS-Bark-cloning)
 * [2023-09-01, 16:28:25](https://lobste.rs/s/a2lc6i/gradual_write_barrier_insertion_into) - [Gradual Write-Barrier Insertion into a Ruby Interpreter](http://www.atdot.net/~ko1/activities/rgengc_ismm.pdf)
 * [2023-09-01, 15:24:48](https://lobste.rs/s/bcgtpp/fh_cli_for_flakehub) - [fh: the CLI for FlakeHub](https://determinate.systems/posts/flakehub-cli)

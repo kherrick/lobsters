@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-01, 18:12:03](https://lobste.rs/s/xwa20j/obsidian_releases_version_1_4_for) - [Obsidian releases version 1.4 for everyone with YAML front matter support (properties)](https://obsidian.md/changelog/2023-08-31-desktop-v1.4.5/)
 * [2023-09-01, 16:33:38](https://lobste.rs/s/r0jlvn/coqui_bark_voice_cloning) - [Coqui Bark Voice Cloning](https://huggingface.co/spaces/fffiloni/instant-TTS-Bark-cloning)
 * [2023-09-01, 16:28:25](https://lobste.rs/s/a2lc6i/gradual_write_barrier_insertion_into) - [Gradual Write-Barrier Insertion into a Ruby Interpreter](http://www.atdot.net/~ko1/activities/rgengc_ismm.pdf)
 * [2023-09-01, 15:24:48](https://lobste.rs/s/bcgtpp/fh_cli_for_flakehub) - [fh: the CLI for FlakeHub](https://determinate.systems/posts/flakehub-cli)
@@ -18,7 +19,6 @@
 * [2023-09-01, 05:08:09](https://lobste.rs/s/xbs5t8/grep_log_analysis) - [Grep and Log Analysis](https://muhammadraza.me/2023/grep-log-analysis/)
 * [2023-09-01, 03:06:53](https://lobste.rs/s/xfchni/misconceptions_about_immutable) - [Misconceptions About Immutable Distributions](https://theevilskeleton.gitlab.io/2023/08/29/misconceptions-about-immutable-distributions.html)
 * [2023-09-01, 00:24:35](https://lobste.rs/s/ilbq2q/functional_data_structures_algorithms) - [Functional Data Structures and Algorithms. A Proof Assistant Approach](https://functional-algorithms-verified.org/)
-* [2023-08-31, 22:08:12](https://lobste.rs/s/3zdmgo/android_goes_all_on_fuzzing) - [Android Goes All-in on Fuzzing](https://security.googleblog.com/2023/08/android-goes-all-in-on-fuzzing.html)
 * [2023-08-31, 18:31:59](https://lobste.rs/s/sj32aw/comparing_request_handlers_scotty_yesod) - [Comparing request handlers in Scotty, Yesod, and Servant](https://nicolashery.com/comparing-scotty-yesod-servant/)
 * [2023-08-31, 16:56:58](https://lobste.rs/s/rqdsla/design_principles_behind_smalltalk) - [Design Principles Behind Smalltalk](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
 * [2023-08-31, 15:58:20](https://lobste.rs/s/j8li8k/which_self_hosted_applications_do_you_run) - [Which Self Hosted applications do you run?](https://lobste.rs/s/j8li8k/which_self_hosted_applications_do_you_run)
