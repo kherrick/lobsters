@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-01, 05:29:21](https://lobste.rs/s/b5upmn/croquet_project_demo_2003) - [Croquet Project Demo (2003)](https://www.youtube.com/watch?v=cXGLOiZUZ2U)
 * [2023-09-01, 05:08:09](https://lobste.rs/s/xbs5t8/grep_log_analysis) - [Grep and Log Analysis](https://muhammadraza.me/2023/grep-log-analysis/)
 * [2023-09-01, 04:58:20](https://lobste.rs/s/q9b4mm/nanoscale_instruments_for_visualizing) - [Nanoscale Instruments for Visualizing Small Proteins & Dynamicland](https://youtu.be/_gXiVOmaVSo?t=864)
 * [2023-09-01, 03:06:53](https://lobste.rs/s/xfchni/misconceptions_about_immutable) - [Misconceptions About Immutable Distributions](https://theevilskeleton.gitlab.io/2023/08/29/misconceptions-about-immutable-distributions.html)
@@ -16,7 +17,6 @@
 * [2023-08-31, 15:51:28](https://lobste.rs/s/kmlayx/flake_schemas_making_nix_flake_outputs) - [Flake schemas: making Nix flake outputs extensible](https://determinate.systems/posts/flake-schemas)
 * [2023-08-31, 13:58:00](https://lobste.rs/s/oanwpp/sparse_sets) - [Sparse sets](https://manenko.com/2021/05/23/sparse-sets.html)
 * [2023-08-31, 13:47:28](https://lobste.rs/s/ftl3yz/wayland_breaks_your_bad_software) - [Wayland breaks your bad software](https://orowith2os.gitlab.io/posts/wayland-breaks-your-bad-software/)
-* [2023-08-31, 13:23:24](https://lobste.rs/s/msyjzr/what_is_good_linux_kernel_bug) - [What is a \"good\" Linux Kernel bug?](https://blog.isosceles.com/what-is-a-good-linux-kernel-bug/)
 * [2023-08-31, 12:27:13](https://lobste.rs/s/vrkqjo/building_circuit_abominations_factorio) - [Building Circuit Abominations in Factorio](https://www.youtube.com/watch?v=etxV4pqVRm8)
 * [2023-08-31, 10:55:50](https://lobste.rs/s/sscalh/integrating_large_tokio_based_rust) - [Integrating a large Tokio-based Rust library with Haskell](https://www.iankduncan.com/articles/2023-08-30-integrating-haskell-and-tokio)
 * [2023-08-31, 10:29:12](https://lobste.rs/s/a4jewd/net_http_enhanced_servemux_routing) - [net/http: enhanced ServeMux routing (accepted proposal)](https://github.com/golang/go/issues/61410)
