@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 22:06:23](https://lobste.rs/s/0z5nbz/phoenix_liveview_life_cycle_illustrated) - [The Phoenix LiveView Life Cycle Illustrated](https://johnelmlabs.com/posts/liveview-lifecycle-flow-chart)
 * [2023-09-01, 21:58:22](https://lobste.rs/s/5qem7v/cgo_performance_go_1_21) - [CGO Performance In Go 1.21](https://shane.ai/posts/cgo-performance-in-go1.21/)
 * [2023-09-01, 21:57:00](https://lobste.rs/s/3atrcf/patterns_with_rust_types) - [Patterns with Rust types](https://www.shuttle.rs/blog/2022/07/28/patterns-with-rust-types)
 * [2023-09-01, 21:23:25](https://lobste.rs/s/gyffva/this_week_gnome_111) - [This Week in GNOME #111](https://thisweek.gnome.org/posts/2023/09/twig-111/)
