@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 08:08:54](https://lobste.rs/s/udoae0/rise_fall_chatgpt_4) - [The Rise and Fall of ChatGPT-4](https://nadim.computer/posts/2023-09-01-chatgpt4.html)
+* [2023-09-01, 08:00:15](https://lobste.rs/s/yffiri/even_ancient_javascript_is_safer) - [Even ancient JavaScript is a safer language for programming with integers than modern C (2022)](https://hikari.noyu.me/blog/2022-04-01-javascript-is-a-safer-language-for-integer-programming-than-c.html)
 * [2023-09-01, 06:39:59](https://lobste.rs/s/ziu6ni/restoring_45_year_old_video_game) - [Restoring A 45 Year Old Video Game](https://hackaday.com/2023/08/30/restoring-a-45-year-old-video-game/)
 * [2023-09-01, 06:33:08](https://lobste.rs/s/ulmsaw/futhark_0_25_3_released) - [Futhark 0.25.3 released](https://futhark-lang.org/blog/2023-08-30-futhark-0.25.3-released.html)
 * [2023-09-01, 05:29:21](https://lobste.rs/s/b5upmn/croquet_project_demo_2003) - [Croquet Project Demo (2003)](https://www.youtube.com/watch?v=cXGLOiZUZ2U)
