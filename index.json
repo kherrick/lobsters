@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-01, 18:55:49",
+      "https://lobste.rs/s/vd07pw/focus_simple_fast_text_editor"
+    ],
+    [
+      "focus: A simple and fast text editor",
+      "https://github.com/focus-editor/focus"
+    ]
+  ],
+  [
+    [
+      "2023-09-01, 18:55:22",
+      "https://lobste.rs/s/5suewc/storing_utc_is_not_silver_bullet_2019"
+    ],
+    [
+      "Storing UTC is not a silver bullet (2019)",
+      "https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/"
+    ]
+  ],
+  [
+    [
       "2023-09-01, 18:38:39",
       "https://lobste.rs/s/cmcpy9/getting_from_generative_ai_trustworthy"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2023-09-01, 10:12:33",
-      "https://lobste.rs/s/cy7da7/interactive_api_tutorials"
-    ],
-    [
-      "Interactive API tutorials",
-      "https://antonz.org/interactive-api-tutorials/"
-    ]
-  ],
-  [
-    [
       "2023-09-01, 09:38:55",
       "https://lobste.rs/s/lonsxy/cs_syd_ad_hoc_polymorphism_erodes_type"
     ],
@@ -137,16 +147,6 @@
     [
       "Even ancient JavaScript is a safer language for programming with integers than modern C (2022)",
       "https://hikari.noyu.me/blog/2022-04-01-javascript-is-a-safer-language-for-integer-programming-than-c.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-01, 06:39:59",
-      "https://lobste.rs/s/ziu6ni/restoring_45_year_old_video_game"
-    ],
-    [
-      "Restoring A 45 Year Old Video Game",
-      "https://hackaday.com/2023/08/30/restoring-a-45-year-old-video-game/"
     ]
   ],
   [
