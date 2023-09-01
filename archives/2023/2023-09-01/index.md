@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-01](index.md)
 
+* [2023-09-01, 21:23:25](https://lobste.rs/s/gyffva/this_week_gnome_111) - [This Week in GNOME #111](https://thisweek.gnome.org/posts/2023/09/twig-111/)
 * [2023-09-01, 20:27:00](https://lobste.rs/s/x4fbyl/philosophy_coroutines) - [Philosophy of coroutines](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy/#use-cases)
 * [2023-09-01, 20:01:00](https://lobste.rs/s/7lja6m/program_proofs) - [Program Proofs](https://program-proofs.com)
 * [2023-09-01, 18:55:49](https://lobste.rs/s/vd07pw/focus_simple_fast_text_editor) - [focus: A simple and fast text editor](https://github.com/focus-editor/focus)
