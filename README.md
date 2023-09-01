@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-01, 10:48:34](https://lobste.rs/s/ytgh5i/nix_flake_architecture_practice) - [Nix Flake Architecture in Practice - A Beginner-friendly Tour](https://journal.platonic.systems/nix-flake-architecture-in-practice/)
 * [2023-09-01, 10:12:33](https://lobste.rs/s/cy7da7/interactive_api_tutorials) - [Interactive API tutorials](https://antonz.org/interactive-api-tutorials/)
 * [2023-09-01, 09:38:55](https://lobste.rs/s/lonsxy/cs_syd_ad_hoc_polymorphism_erodes_type) - [CS SYD - Ad-hoc polymorphism erodes type-safety (type traits in Rust are dangerous for refactoring!)](https://cs-syd.eu/posts/2023-08-25-ad-hoc-polymorphism-erodes-type-safety)
 * [2023-09-01, 08:08:54](https://lobste.rs/s/udoae0/rise_fall_chatgpt_4) - [The Rise and Fall of ChatGPT-4](https://nadim.computer/posts/2023-09-01-chatgpt4.html)
@@ -23,7 +24,6 @@
 * [2023-08-31, 10:29:12](https://lobste.rs/s/a4jewd/net_http_enhanced_servemux_routing) - [net/http: enhanced ServeMux routing (accepted proposal)](https://github.com/golang/go/issues/61410)
 * [2023-08-31, 08:33:46](https://lobste.rs/s/tpaeit/git_cliff_1_3_0_is_released_highly) - [git-cliff 1.3.0 is released - a highly customizable changelog generator](https://git-cliff.org/blog/1.3.0)
 * [2023-08-31, 08:22:29](https://lobste.rs/s/whbyxt/2023_08_30_outage_postmortem) - [2023-08-30 Outage Postmortem](https://lobste.rs/s/whbyxt/2023_08_30_outage_postmortem)
-* [2023-08-31, 07:55:12](https://lobste.rs/s/l4fbim/expr_release_v1_15) - [Expr release v1.15](https://github.com/antonmedv/expr/releases/tag/v1.15.0)
 * [2023-08-30, 20:46:12](https://lobste.rs/s/6onnz7/case_for_nushell) - [The case for Nushell](https://www.jntrnr.com/case-for-nushell/)
 
 ## [Archives](archives/index.md)
