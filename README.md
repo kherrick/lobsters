@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-02, 21:52:23](https://lobste.rs/s/d1bzam/how_am_i_supposed_safely_disable_this) - [How am I supposed to safely disable this warning on ARM GCC?](https://www.downtowndougbrown.com/2023/09/how-am-i-supposed-to-safely-disable-this-warning-on-arm-gcc/)
 * [2023-09-02, 21:06:12](https://lobste.rs/s/hbfdgk/extensions_gnome_45) - [Extensions in GNOME 45](https://blogs.gnome.org/shell-dev/2023/09/02/extensions-in-gnome-45/)
 * [2023-09-02, 20:42:33](https://lobste.rs/s/8u4iin/educational_sensational_inspirational) - [Educational Sensational Inspirational Foundational](https://esif.dev/)
 * [2023-09-02, 16:04:39](https://lobste.rs/s/0a6pgc/exploring_lesser_known_commands) - [Exploring Lesser-Known Commands and Advanced Features of Homebrew](https://muhammadraza.me/2023/exploring-homebrew/)
@@ -21,7 +22,6 @@
 * [2023-09-01, 20:27:00](https://lobste.rs/s/x4fbyl/philosophy_coroutines) - [Philosophy of coroutines](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy/#use-cases)
 * [2023-09-01, 18:55:49](https://lobste.rs/s/vd07pw/focus_simple_fast_text_editor) - [focus: A simple and fast text editor](https://github.com/focus-editor/focus)
 * [2023-09-01, 18:55:22](https://lobste.rs/s/5suewc/storing_utc_is_not_silver_bullet_2019) - [Storing UTC is not a silver bullet (2019)](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
-* [2023-09-01, 14:02:37](https://lobste.rs/s/neavyr/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/neavyr/what_are_you_doing_this_weekend)
 * [2023-09-01, 13:23:25](https://lobste.rs/s/eginyy/filepath_clean_terms_conditions_apply) - [filepath.Clean: terms and conditions apply](https://tortel.li/post/dirty_filepath/)
 * [2023-09-01, 12:05:08](https://lobste.rs/s/v71bnp/technical_merits_wayland_are_mostly) - [The technical merits of Wayland are mostly irrelevant](https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandTechnicalMeritsIrrelevant)
 * [2023-09-01, 10:48:34](https://lobste.rs/s/ytgh5i/nix_flake_architecture_practice) - [Nix Flake Architecture in Practice - A Beginner-friendly Tour](https://journal.platonic.systems/nix-flake-architecture-in-practice/)
