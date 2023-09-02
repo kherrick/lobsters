@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-02](index.md)
 
+* [2023-09-02, 15:17:35](https://lobste.rs/s/fza8kq/it_s_like_coding_dark) - [It’s Like Coding in the Dark](https://www.catharsisinsight.com/_files/ugd/fce7f8_2a41aa82670f4f08a3e403d196bcc341.pdf)
 * [2023-09-02, 13:49:14](https://lobste.rs/s/3vrkxn/mashing_enter_bypass_full_disk) - [Mashing Enter to bypass full disk encryption with TPM, Clevis, dracut and systemd](https://pulsesecurity.co.nz/advisories/tpm-luks-bypass)
 * [2023-09-02, 13:45:32](https://lobste.rs/s/8u8prc/infamous_chisel_malware_analysis_report) - [Infamous Chisel Malware Analysis Report](https://www.cisa.gov/news-events/analysis-reports/ar23-243a)
 * [2023-09-02, 13:19:49](https://lobste.rs/s/mjm73i/spoofing_certificates_with_md5) - [Spoofing certificates with MD5 collisions](https://cendyne.dev/posts/2023-09-01-spoofing-certificates-with-md5-collisions.html)
