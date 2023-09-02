@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-02, 15:24:59](https://lobste.rs/s/5t6vke/i_blame_w3c_s_html_standard_for_ordered) - [I Blame the W3C's HTML Standard for Ordered Lists](https://siderea.dreamwidth.org/1819759.html)
 * [2023-09-02, 15:17:35](https://lobste.rs/s/fza8kq/it_s_like_coding_dark) - [It’s Like Coding in the Dark](https://www.catharsisinsight.com/_files/ugd/fce7f8_2a41aa82670f4f08a3e403d196bcc341.pdf)
 * [2023-09-02, 13:49:14](https://lobste.rs/s/3vrkxn/mashing_enter_bypass_full_disk) - [Mashing Enter to bypass full disk encryption with TPM, Clevis, dracut and systemd](https://pulsesecurity.co.nz/advisories/tpm-luks-bypass)
 * [2023-09-02, 13:45:32](https://lobste.rs/s/8u8prc/infamous_chisel_malware_analysis_report) - [Infamous Chisel Malware Analysis Report](https://www.cisa.gov/news-events/analysis-reports/ar23-243a)
@@ -24,7 +25,6 @@
 * [2023-09-01, 12:22:27](https://lobste.rs/s/84jx9b/paid_freemium_terminal_utilities) - [Paid or freemium terminal utilities](https://lobste.rs/s/84jx9b/paid_freemium_terminal_utilities)
 * [2023-09-01, 12:05:08](https://lobste.rs/s/v71bnp/technical_merits_wayland_are_mostly) - [The technical merits of Wayland are mostly irrelevant](https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandTechnicalMeritsIrrelevant)
 * [2023-09-01, 10:48:34](https://lobste.rs/s/ytgh5i/nix_flake_architecture_practice) - [Nix Flake Architecture in Practice - A Beginner-friendly Tour](https://journal.platonic.systems/nix-flake-architecture-in-practice/)
-* [2023-08-31, 15:58:20](https://lobste.rs/s/j8li8k/which_self_hosted_applications_do_you_run) - [Which Self Hosted applications do you run?](https://lobste.rs/s/j8li8k/which_self_hosted_applications_do_you_run)
 
 ## [Archives](archives/index.md)
 
