@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-02, 13:49:14](https://lobste.rs/s/3vrkxn/mashing_enter_bypass_full_disk) - [Mashing Enter to bypass full disk encryption with TPM, Clevis, dracut and systemd](https://pulsesecurity.co.nz/advisories/tpm-luks-bypass)
 * [2023-09-02, 13:45:32](https://lobste.rs/s/8u8prc/infamous_chisel_malware_analysis_report) - [Infamous Chisel Malware Analysis Report](https://www.cisa.gov/news-events/analysis-reports/ar23-243a)
 * [2023-09-02, 13:19:49](https://lobste.rs/s/mjm73i/spoofing_certificates_with_md5) - [Spoofing certificates with MD5 collisions](https://cendyne.dev/posts/2023-09-01-spoofing-certificates-with-md5-collisions.html)
 * [2023-09-02, 13:09:46](https://lobste.rs/s/rty8go/virtual_synology_dsm_docker_container) - [Virtual Synology DSM in a docker container](https://github.com/kroese/virtual-dsm)
@@ -18,7 +19,6 @@
 * [2023-09-01, 18:55:49](https://lobste.rs/s/vd07pw/focus_simple_fast_text_editor) - [focus: A simple and fast text editor](https://github.com/focus-editor/focus)
 * [2023-09-01, 18:55:22](https://lobste.rs/s/5suewc/storing_utc_is_not_silver_bullet_2019) - [Storing UTC is not a silver bullet (2019)](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
 * [2023-09-01, 18:38:39](https://lobste.rs/s/cmcpy9/getting_from_generative_ai_trustworthy) - [Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc](https://arxiv.org/abs/2308.04445)
-* [2023-09-01, 15:24:48](https://lobste.rs/s/bcgtpp/fh_cli_for_flakehub) - [fh: the CLI for FlakeHub](https://determinate.systems/posts/flakehub-cli)
 * [2023-09-01, 14:02:37](https://lobste.rs/s/neavyr/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/neavyr/what_are_you_doing_this_weekend)
 * [2023-09-01, 13:23:25](https://lobste.rs/s/eginyy/filepath_clean_terms_conditions_apply) - [filepath.Clean: terms and conditions apply](https://tortel.li/post/dirty_filepath/)
 * [2023-09-01, 12:22:27](https://lobste.rs/s/84jx9b/paid_freemium_terminal_utilities) - [Paid or freemium terminal utilities](https://lobste.rs/s/84jx9b/paid_freemium_terminal_utilities)
