@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-02, 07:04:33",
+      "https://lobste.rs/s/nk1d2s/blog_about_what_you_want"
+    ],
+    [
+      "Blog about what you want",
+      "https://jamesg.blog/2023/08/06/blog-about-what-you-want/"
+    ]
+  ],
+  [
+    [
+      "2023-09-02, 07:00:44",
+      "https://lobste.rs/s/kv2yix/euclidean_affine_functions_their"
+    ],
+    [
+      "Euclidean affine functions and their application to calendar algorithms",
+      "https://onlinelibrary.wiley.com/doi/full/10.1002/spe.3172"
+    ]
+  ],
+  [
+    [
       "2023-09-02, 05:51:50",
       "https://lobste.rs/s/enaynl/hoopy_inline_haskell_inside_your_python"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-09-01, 14:27:43",
-      "https://lobste.rs/s/pxzrfx/we_migrated_50_000_lines_code_react_server"
-    ],
-    [
-      "We migrated 50,000 lines of code to React Server Components",
-      "https://www.mux.com/blog/what-are-react-server-components"
-    ]
-  ],
-  [
-    [
       "2023-09-01, 14:02:37",
       "https://lobste.rs/s/neavyr/what_are_you_doing_this_weekend"
     ],
@@ -207,16 +217,6 @@
     [
       "Even ancient JavaScript is a safer language for programming with integers than modern C (2022)",
       "https://hikari.noyu.me/blog/2022-04-01-javascript-is-a-safer-language-for-integer-programming-than-c.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-01, 05:08:09",
-      "https://lobste.rs/s/xbs5t8/grep_log_analysis"
-    ],
-    [
-      "Grep and Log Analysis",
-      "https://muhammadraza.me/2023/grep-log-analysis/"
     ]
   ],
   [
