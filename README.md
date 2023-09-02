@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-02, 11:24:38](https://lobste.rs/s/c6lwcm/vento_new_template_engine_for_deno) - [Vento (\"a new template engine for Deno\")](https://vento.js.org/)
 * [2023-09-02, 09:58:42](https://lobste.rs/s/w7cnz8/nope_foundry_foss_cross_platform) - [Nope Foundry, a FOSS cross-platform framework for motion design, 2D composition and visual effects](https://nope-foundry.org)
 * [2023-09-02, 08:27:58](https://lobste.rs/s/82dse5/they_made_golf_mmo_with_sonic_it) - [They Made A Golf MMO With Sonic In it](https://wuffs.org/blog/reviving-sega-splash-golf)
 * [2023-09-02, 07:00:44](https://lobste.rs/s/kv2yix/euclidean_affine_functions_their) - [Euclidean affine functions and their application to calendar algorithms](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.3172)
@@ -22,7 +23,6 @@
 * [2023-09-01, 12:05:08](https://lobste.rs/s/v71bnp/technical_merits_wayland_are_mostly) - [The technical merits of Wayland are mostly irrelevant](https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandTechnicalMeritsIrrelevant)
 * [2023-09-01, 10:48:34](https://lobste.rs/s/ytgh5i/nix_flake_architecture_practice) - [Nix Flake Architecture in Practice - A Beginner-friendly Tour](https://journal.platonic.systems/nix-flake-architecture-in-practice/)
 * [2023-09-01, 09:38:55](https://lobste.rs/s/lonsxy/cs_syd_ad_hoc_polymorphism_erodes_type) - [CS SYD - Ad-hoc polymorphism erodes type-safety (type traits in Rust are dangerous for refactoring!)](https://cs-syd.eu/posts/2023-08-25-ad-hoc-polymorphism-erodes-type-safety)
-* [2023-09-01, 08:00:15](https://lobste.rs/s/yffiri/even_ancient_javascript_is_safer) - [Even ancient JavaScript is a safer language for programming with integers than modern C (2022)](https://hikari.noyu.me/blog/2022-04-01-javascript-is-a-safer-language-for-integer-programming-than-c.html)
 * [2023-09-01, 03:06:53](https://lobste.rs/s/xfchni/misconceptions_about_immutable) - [Misconceptions About Immutable Distributions](https://theevilskeleton.gitlab.io/2023/08/29/misconceptions-about-immutable-distributions.html)
 * [2023-08-31, 15:58:20](https://lobste.rs/s/j8li8k/which_self_hosted_applications_do_you_run) - [Which Self Hosted applications do you run?](https://lobste.rs/s/j8li8k/which_self_hosted_applications_do_you_run)
 
