@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-02, 05:51:50",
+      "https://lobste.rs/s/enaynl/hoopy_inline_haskell_inside_your_python"
+    ],
+    [
+      "hoopy: Inline Haskell inside your Python code",
+      "https://github.com/RocketRace/hoopy"
+    ]
+  ],
+  [
+    [
       "2023-09-01, 23:54:17",
       "https://lobste.rs/s/awnlzq/oxidizing_ocaml_data_race_freedom"
     ],
@@ -197,16 +207,6 @@
     [
       "Even ancient JavaScript is a safer language for programming with integers than modern C (2022)",
       "https://hikari.noyu.me/blog/2022-04-01-javascript-is-a-safer-language-for-integer-programming-than-c.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-01, 06:33:08",
-      "https://lobste.rs/s/ulmsaw/futhark_0_25_3_released"
-    ],
-    [
-      "Futhark 0.25.3 released",
-      "https://futhark-lang.org/blog/2023-08-30-futhark-0.25.3-released.html"
     ]
   ],
   [
