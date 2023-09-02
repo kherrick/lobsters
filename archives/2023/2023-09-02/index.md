@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-02](index.md)
 
+* [2023-09-02, 09:58:42](https://lobste.rs/s/w7cnz8/nope_foundry_foss_cross_platform) - [Nope Foundry, a FOSS cross-platform framework for motion design, 2D composition and visual effects](https://nope-foundry.org)
 * [2023-09-02, 08:27:58](https://lobste.rs/s/82dse5/they_made_golf_mmo_with_sonic_it) - [They Made A Golf MMO With Sonic In it](https://wuffs.org/blog/reviving-sega-splash-golf)
 * [2023-09-02, 07:04:33](https://lobste.rs/s/nk1d2s/blog_about_what_you_want) - [Blog about what you want](https://jamesg.blog/2023/08/06/blog-about-what-you-want/)
 * [2023-09-02, 07:00:44](https://lobste.rs/s/kv2yix/euclidean_affine_functions_their) - [Euclidean affine functions and their application to calendar algorithms](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.3172)
