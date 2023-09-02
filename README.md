@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-02, 16:04:39](https://lobste.rs/s/0a6pgc/exploring_lesser_known_commands) - [Exploring Lesser-Known Commands and Advanced Features of Homebrew](https://muhammadraza.me/2023/exploring-homebrew/)
 * [2023-09-02, 15:37:33](https://lobste.rs/s/ppdabg/bcrypt_at_25_retrospective_on_password) - [bcrypt at 25: A retrospective on password security](https://blog.apnic.net/2023/08/02/bcrypt-at-25-a-retrospective-on-password-security/)
 * [2023-09-02, 15:24:59](https://lobste.rs/s/5t6vke/i_blame_w3c_s_html_standard_for_ordered) - [I Blame the W3C's HTML Standard for Ordered Lists](https://siderea.dreamwidth.org/1819759.html)
 * [2023-09-02, 15:17:35](https://lobste.rs/s/fza8kq/it_s_like_coding_dark) - [It’s Like Coding in the Dark](https://www.catharsisinsight.com/_files/ugd/fce7f8_2a41aa82670f4f08a3e403d196bcc341.pdf)
@@ -20,7 +21,6 @@
 * [2023-09-01, 20:27:00](https://lobste.rs/s/x4fbyl/philosophy_coroutines) - [Philosophy of coroutines](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy/#use-cases)
 * [2023-09-01, 18:55:49](https://lobste.rs/s/vd07pw/focus_simple_fast_text_editor) - [focus: A simple and fast text editor](https://github.com/focus-editor/focus)
 * [2023-09-01, 18:55:22](https://lobste.rs/s/5suewc/storing_utc_is_not_silver_bullet_2019) - [Storing UTC is not a silver bullet (2019)](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
-* [2023-09-01, 18:38:39](https://lobste.rs/s/cmcpy9/getting_from_generative_ai_trustworthy) - [Getting from Generative AI to Trustworthy AI: What LLMs might learn from Cyc](https://arxiv.org/abs/2308.04445)
 * [2023-09-01, 14:02:37](https://lobste.rs/s/neavyr/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/neavyr/what_are_you_doing_this_weekend)
 * [2023-09-01, 13:23:25](https://lobste.rs/s/eginyy/filepath_clean_terms_conditions_apply) - [filepath.Clean: terms and conditions apply](https://tortel.li/post/dirty_filepath/)
 * [2023-09-01, 12:05:08](https://lobste.rs/s/v71bnp/technical_merits_wayland_are_mostly) - [The technical merits of Wayland are mostly irrelevant](https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandTechnicalMeritsIrrelevant)
