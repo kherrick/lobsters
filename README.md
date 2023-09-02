@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-02, 13:45:32](https://lobste.rs/s/8u8prc/infamous_chisel_malware_analysis_report) - [Infamous Chisel Malware Analysis Report](https://www.cisa.gov/news-events/analysis-reports/ar23-243a)
 * [2023-09-02, 13:19:49](https://lobste.rs/s/mjm73i/spoofing_certificates_with_md5) - [Spoofing certificates with MD5 collisions](https://cendyne.dev/posts/2023-09-01-spoofing-certificates-with-md5-collisions.html)
 * [2023-09-02, 13:09:46](https://lobste.rs/s/rty8go/virtual_synology_dsm_docker_container) - [Virtual Synology DSM in a docker container](https://github.com/kroese/virtual-dsm)
 * [2023-09-02, 13:09:39](https://lobste.rs/s/rbuvrc/worst_programmer) - [The Worst Programmer](https://dannorth.net/2023/09/02/the-worst-programmer/)
@@ -13,7 +14,6 @@
 * [2023-09-01, 22:41:09](https://lobste.rs/s/1rbawx/explaining_postgres_meme) - [Explaining The Postgres Meme](https://www.avestura.dev/blog/explaining-the-postgres-meme)
 * [2023-09-01, 22:06:23](https://lobste.rs/s/0z5nbz/phoenix_liveview_life_cycle_illustrated) - [The Phoenix LiveView Life Cycle Illustrated](https://johnelmlabs.com/posts/liveview-lifecycle-flow-chart)
 * [2023-09-01, 21:58:22](https://lobste.rs/s/5qem7v/cgo_performance_go_1_21) - [CGO Performance In Go 1.21](https://shane.ai/posts/cgo-performance-in-go1.21/)
-* [2023-09-01, 21:57:00](https://lobste.rs/s/3atrcf/patterns_with_rust_types) - [Patterns with Rust types](https://www.shuttle.rs/blog/2022/07/28/patterns-with-rust-types)
 * [2023-09-01, 20:27:00](https://lobste.rs/s/x4fbyl/philosophy_coroutines) - [Philosophy of coroutines](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy/#use-cases)
 * [2023-09-01, 18:55:49](https://lobste.rs/s/vd07pw/focus_simple_fast_text_editor) - [focus: A simple and fast text editor](https://github.com/focus-editor/focus)
 * [2023-09-01, 18:55:22](https://lobste.rs/s/5suewc/storing_utc_is_not_silver_bullet_2019) - [Storing UTC is not a silver bullet (2019)](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)

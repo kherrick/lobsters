@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-02](index.md)
 
+* [2023-09-02, 13:45:32](https://lobste.rs/s/8u8prc/infamous_chisel_malware_analysis_report) - [Infamous Chisel Malware Analysis Report](https://www.cisa.gov/news-events/analysis-reports/ar23-243a)
 * [2023-09-02, 13:19:49](https://lobste.rs/s/mjm73i/spoofing_certificates_with_md5) - [Spoofing certificates with MD5 collisions](https://cendyne.dev/posts/2023-09-01-spoofing-certificates-with-md5-collisions.html)
 * [2023-09-02, 13:09:46](https://lobste.rs/s/rty8go/virtual_synology_dsm_docker_container) - [Virtual Synology DSM in a docker container](https://github.com/kroese/virtual-dsm)
 * [2023-09-02, 13:09:39](https://lobste.rs/s/rbuvrc/worst_programmer) - [The Worst Programmer](https://dannorth.net/2023/09/02/the-worst-programmer/)
