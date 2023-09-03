@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-03](index.md)
 
+* [2023-09-03, 11:18:24](https://lobste.rs/s/7rzyl2/review_glove80_ergonomic_keyboard) - [Review: Glove80 Ergonomic Keyboard](https://danieldk.eu/Posts/2023-09-03-Glove80.html)
 * [2023-09-03, 10:39:12](https://lobste.rs/s/s5a5ul/what_s_up_python_new_packaging_proposal) - [What's up Python? New packaging proposal, Python in Excel, a piano in the shell](https://www.bitecode.dev/p/whats-up-python-new-packaging-proposal)
 * [2023-09-03, 08:11:23](https://lobste.rs/s/dilm9w/where_do_you_get_your_science_technology) - [Where do you get your science/technology/math news?](https://lobste.rs/s/dilm9w/where_do_you_get_your_science_technology)
 * [2023-09-03, 07:40:54](https://lobste.rs/s/wrml8p/mastodon_is_easy_fun_except_when_it_isn_t) - [Mastodon is easy and fun except when it isn’t](https://erinkissane.com/mastodon-is-easy-and-fun-except-when-it-isnt)
