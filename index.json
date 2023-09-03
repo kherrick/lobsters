@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-03, 06:51:23",
+      "https://lobste.rs/s/xrv3lf/tale_two_forwarded_headers"
+    ],
+    [
+      "A Tale of Two Forwarded Headers",
+      "https://www.appsmith.com/blog/forwarded-header"
+    ]
+  ],
+  [
+    [
       "2023-09-03, 06:28:56",
       "https://lobste.rs/s/zcbxs3/gameroy_jit_compilation_high_accuracy"
     ],
@@ -47,16 +57,6 @@
     [
       "Fast Tokenizers with StringScanner",
       "https://tenderlovemaking.com/2023/09/02/fast-tokenizers-with-stringscanner.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-02, 21:52:23",
-      "https://lobste.rs/s/d1bzam/how_am_i_supposed_safely_disable_this"
-    ],
-    [
-      "How am I supposed to safely disable this warning on ARM GCC?",
-      "https://www.downtowndougbrown.com/2023/09/how-am-i-supposed-to-safely-disable-this-warning-on-arm-gcc/"
     ]
   ],
   [
