@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-03, 13:19:14](https://lobste.rs/s/sbloj5/boiling_frog_digital_freedom) - [The boiling frog of digital freedom](https://gazoche.xyz/posts/boiling-frog/)
 * [2023-09-03, 12:28:06](https://lobste.rs/s/wzgwd4/10_years_rio) - [10 years of rio](https://chainsawriot.com/postmannheim/2023/08/28/rio10.html)
 * [2023-09-03, 11:18:24](https://lobste.rs/s/7rzyl2/review_glove80_ergonomic_keyboard) - [Review: Glove80 Ergonomic Keyboard](https://danieldk.eu/Posts/2023-09-03-Glove80.html)
 * [2023-09-03, 10:39:12](https://lobste.rs/s/s5a5ul/what_s_up_python_new_packaging_proposal) - [What's up Python? New packaging proposal, Python in Excel, a piano in the shell](https://www.bitecode.dev/p/whats-up-python-new-packaging-proposal)
@@ -11,7 +12,6 @@
 * [2023-09-03, 02:18:43](https://lobste.rs/s/yo66hh/why_are_functional_programming) - [Why are functional programming languages so popular in the programming languages community?](https://statmodeling.stat.columbia.edu/2018/10/11/functional-programming-languages-popular-programming-languages-community/)
 * [2023-09-03, 01:54:18](https://lobste.rs/s/ikitkh/refurb_weekend_powerbook_duo_2300c) - [Refurb weekend: PowerBook Duo 2300c](https://oldvcr.blogspot.com/2023/09/refurb-weekend-powerbook-duo-2300c.html)
 * [2023-09-02, 23:03:43](https://lobste.rs/s/epbfzl/fast_tokenizers_with_stringscanner) - [Fast Tokenizers with StringScanner](https://tenderlovemaking.com/2023/09/02/fast-tokenizers-with-stringscanner.html)
-* [2023-09-02, 21:52:23](https://lobste.rs/s/d1bzam/how_am_i_supposed_safely_disable_this) - [How am I supposed to safely disable this warning on ARM GCC?](https://www.downtowndougbrown.com/2023/09/how-am-i-supposed-to-safely-disable-this-warning-on-arm-gcc/)
 * [2023-09-02, 21:06:12](https://lobste.rs/s/hbfdgk/extensions_gnome_45) - [Extensions in GNOME 45](https://blogs.gnome.org/shell-dev/2023/09/02/extensions-in-gnome-45/)
 * [2023-09-02, 20:42:33](https://lobste.rs/s/8u4iin/educational_sensational_inspirational) - [Educational Sensational Inspirational Foundational](https://esif.dev/)
 * [2023-09-02, 16:04:39](https://lobste.rs/s/0a6pgc/exploring_lesser_known_commands) - [Exploring Lesser-Known Commands and Advanced Features of Homebrew](https://muhammadraza.me/2023/exploring-homebrew/)
