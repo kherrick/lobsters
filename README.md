@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-03, 08:11:23](https://lobste.rs/s/dilm9w/where_do_you_get_your_science_technology) - [Where do you get your science/technology/math news?](https://lobste.rs/s/dilm9w/where_do_you_get_your_science_technology)
 * [2023-09-03, 07:40:54](https://lobste.rs/s/wrml8p/mastodon_is_easy_fun_except_when_it_isn_t) - [Mastodon is easy and fun except when it isn’t](https://erinkissane.com/mastodon-is-easy-and-fun-except-when-it-isnt)
 * [2023-09-03, 06:51:23](https://lobste.rs/s/xrv3lf/tale_two_forwarded_headers) - [A Tale of Two Forwarded Headers](https://www.appsmith.com/blog/forwarded-header)
 * [2023-09-03, 06:28:56](https://lobste.rs/s/zcbxs3/gameroy_jit_compilation_high_accuracy) - [GameRoy: JIT compilation in High-Accuracy Game Boy Emulation](https://rodrigodd.github.io/2023/09/02/gameroy-jit.html)
@@ -20,7 +21,6 @@
 * [2023-09-02, 09:58:42](https://lobste.rs/s/w7cnz8/nope_foundry_foss_cross_platform) - [Nope Foundry, a FOSS cross-platform framework for motion design, 2D composition and visual effects](https://nope-foundry.org)
 * [2023-09-02, 08:27:58](https://lobste.rs/s/82dse5/they_made_golf_mmo_with_sonic_it) - [They Made A Golf MMO With Sonic In it](https://wuffs.org/blog/reviving-sega-splash-golf)
 * [2023-09-02, 05:51:50](https://lobste.rs/s/enaynl/hoopy_inline_haskell_inside_your_python) - [hoopy: Inline Haskell inside your Python code](https://github.com/RocketRace/hoopy)
-* [2023-09-01, 23:54:17](https://lobste.rs/s/awnlzq/oxidizing_ocaml_data_race_freedom) - [Oxidizing OCaml: Data Race Freedom](https://blog.janestreet.com/oxidizing-ocaml-parallelism/)
 * [2023-09-01, 22:41:09](https://lobste.rs/s/1rbawx/explaining_postgres_meme) - [Explaining The Postgres Meme](https://www.avestura.dev/blog/explaining-the-postgres-meme)
 * [2023-09-01, 21:58:22](https://lobste.rs/s/5qem7v/cgo_performance_go_1_21) - [CGO Performance In Go 1.21](https://shane.ai/posts/cgo-performance-in-go1.21/)
 * [2023-09-01, 18:55:49](https://lobste.rs/s/vd07pw/focus_simple_fast_text_editor) - [focus: A simple and fast text editor](https://github.com/focus-editor/focus)
