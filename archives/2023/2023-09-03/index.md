@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-03](index.md)
 
+* [2023-09-03, 16:37:44](https://lobste.rs/s/darunh/apple_already_shipped_attestation_on_web) - [Apple already shipped attestation on the web, and we barely noticed](https://httptoolkit.com/blog/apple-private-access-tokens-attestation/)
 * [2023-09-03, 15:45:39](https://lobste.rs/s/irawiz/advantages_flexible_typing) - [The Advantages Of Flexible Typing](https://www.sqlite.org/flextypegood.html)
 * [2023-09-03, 15:43:09](https://lobste.rs/s/pewivz/hacking_timex_m851) - [Hacking the Timex m851](https://lock.cmpxchg8b.com/timex.html)
 * [2023-09-03, 13:19:14](https://lobste.rs/s/sbloj5/boiling_frog_digital_freedom) - [The boiling frog of digital freedom](https://gazoche.xyz/posts/boiling-frog/)

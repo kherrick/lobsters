@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-03, 16:37:44](https://lobste.rs/s/darunh/apple_already_shipped_attestation_on_web) - [Apple already shipped attestation on the web, and we barely noticed](https://httptoolkit.com/blog/apple-private-access-tokens-attestation/)
 * [2023-09-03, 15:45:39](https://lobste.rs/s/irawiz/advantages_flexible_typing) - [The Advantages Of Flexible Typing](https://www.sqlite.org/flextypegood.html)
 * [2023-09-03, 15:43:09](https://lobste.rs/s/pewivz/hacking_timex_m851) - [Hacking the Timex m851](https://lock.cmpxchg8b.com/timex.html)
 * [2023-09-03, 13:19:14](https://lobste.rs/s/sbloj5/boiling_frog_digital_freedom) - [The boiling frog of digital freedom](https://gazoche.xyz/posts/boiling-frog/)
@@ -14,7 +15,6 @@
 * [2023-09-03, 02:18:43](https://lobste.rs/s/yo66hh/why_are_functional_programming) - [Why are functional programming languages so popular in the programming languages community? (2018)](https://statmodeling.stat.columbia.edu/2018/10/11/functional-programming-languages-popular-programming-languages-community/)
 * [2023-09-03, 01:54:18](https://lobste.rs/s/ikitkh/refurb_weekend_powerbook_duo_2300c) - [Refurb weekend: PowerBook Duo 2300c](https://oldvcr.blogspot.com/2023/09/refurb-weekend-powerbook-duo-2300c.html)
 * [2023-09-02, 23:03:43](https://lobste.rs/s/epbfzl/fast_tokenizers_with_stringscanner) - [Fast Tokenizers with StringScanner](https://tenderlovemaking.com/2023/09/02/fast-tokenizers-with-stringscanner.html)
-* [2023-09-02, 21:52:23](https://lobste.rs/s/d1bzam/how_am_i_supposed_safely_disable_this) - [How am I supposed to safely disable this warning on ARM GCC?](https://www.downtowndougbrown.com/2023/09/how-am-i-supposed-to-safely-disable-this-warning-on-arm-gcc/)
 * [2023-09-02, 21:06:12](https://lobste.rs/s/hbfdgk/extensions_gnome_45) - [Extensions in GNOME 45](https://blogs.gnome.org/shell-dev/2023/09/02/extensions-in-gnome-45/)
 * [2023-09-02, 16:04:39](https://lobste.rs/s/0a6pgc/exploring_lesser_known_commands) - [Exploring Lesser-Known Commands and Advanced Features of Homebrew](https://muhammadraza.me/2023/exploring-homebrew/)
 * [2023-09-02, 15:37:33](https://lobste.rs/s/ppdabg/bcrypt_at_25_retrospective_on_password) - [bcrypt at 25: A retrospective on password security](https://blog.apnic.net/2023/08/02/bcrypt-at-25-a-retrospective-on-password-security/)
