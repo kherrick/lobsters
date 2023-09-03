@@ -11,6 +11,7 @@
 * [2023-09-03, 02:18:43](https://lobste.rs/s/yo66hh/why_are_functional_programming) - [Why are functional programming languages so popular in the programming languages community?](https://statmodeling.stat.columbia.edu/2018/10/11/functional-programming-languages-popular-programming-languages-community/)
 * [2023-09-03, 01:54:18](https://lobste.rs/s/ikitkh/refurb_weekend_powerbook_duo_2300c) - [Refurb weekend: PowerBook Duo 2300c](https://oldvcr.blogspot.com/2023/09/refurb-weekend-powerbook-duo-2300c.html)
 * [2023-09-02, 23:03:43](https://lobste.rs/s/epbfzl/fast_tokenizers_with_stringscanner) - [Fast Tokenizers with StringScanner](https://tenderlovemaking.com/2023/09/02/fast-tokenizers-with-stringscanner.html)
+* [2023-09-02, 21:52:23](https://lobste.rs/s/d1bzam/how_am_i_supposed_safely_disable_this) - [How am I supposed to safely disable this warning on ARM GCC?](https://www.downtowndougbrown.com/2023/09/how-am-i-supposed-to-safely-disable-this-warning-on-arm-gcc/)
 * [2023-09-02, 21:06:12](https://lobste.rs/s/hbfdgk/extensions_gnome_45) - [Extensions in GNOME 45](https://blogs.gnome.org/shell-dev/2023/09/02/extensions-in-gnome-45/)
 * [2023-09-02, 20:42:33](https://lobste.rs/s/8u4iin/educational_sensational_inspirational) - [Educational Sensational Inspirational Foundational](https://esif.dev/)
 * [2023-09-02, 16:04:39](https://lobste.rs/s/0a6pgc/exploring_lesser_known_commands) - [Exploring Lesser-Known Commands and Advanced Features of Homebrew](https://muhammadraza.me/2023/exploring-homebrew/)
@@ -22,7 +23,6 @@
 * [2023-09-02, 12:16:31](https://lobste.rs/s/e338p3/how_i_joined_bug_323_community) - [How I joined the bug 323 community](https://studios.ptilouk.net/superfluous-returnz/blog/2023-08-11_bug323.html)
 * [2023-09-02, 11:24:38](https://lobste.rs/s/c6lwcm/vento_new_template_engine_for_deno) - [Vento (\"a new template engine for Deno\")](https://vento.js.org/)
 * [2023-09-02, 08:27:58](https://lobste.rs/s/82dse5/they_made_golf_mmo_with_sonic_it) - [They Made A Golf MMO With Sonic In it](https://wuffs.org/blog/reviving-sega-splash-golf)
-* [2023-09-02, 05:51:50](https://lobste.rs/s/enaynl/hoopy_inline_haskell_inside_your_python) - [hoopy: Inline Haskell inside your Python code](https://github.com/RocketRace/hoopy)
 * [2023-09-01, 22:41:09](https://lobste.rs/s/1rbawx/explaining_postgres_meme) - [Explaining The Postgres Meme](https://www.avestura.dev/blog/explaining-the-postgres-meme)
 * [2023-09-01, 12:05:08](https://lobste.rs/s/v71bnp/technical_merits_wayland_are_mostly) - [The technical merits of Wayland are mostly irrelevant](https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandTechnicalMeritsIrrelevant)
 
