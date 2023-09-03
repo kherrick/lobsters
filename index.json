@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-03, 07:40:54",
+      "https://lobste.rs/s/wrml8p/mastodon_is_easy_fun_except_when_it_isn_t"
+    ],
+    [
+      "Mastodon is easy and fun except when it isn’t",
+      "https://erinkissane.com/mastodon-is-easy-and-fun-except-when-it-isnt"
+    ]
+  ],
+  [
+    [
       "2023-09-03, 06:51:23",
       "https://lobste.rs/s/xrv3lf/tale_two_forwarded_headers"
     ],
@@ -127,16 +137,6 @@
     [
       "Mashing Enter to bypass full disk encryption with TPM, Clevis, dracut and systemd",
       "https://pulsesecurity.co.nz/advisories/tpm-luks-bypass"
-    ]
-  ],
-  [
-    [
-      "2023-09-02, 13:19:49",
-      "https://lobste.rs/s/mjm73i/spoofing_certificates_with_md5"
-    ],
-    [
-      "Spoofing certificates with MD5 collisions",
-      "https://cendyne.dev/posts/2023-09-01-spoofing-certificates-with-md5-collisions.html"
     ]
   ],
   [
