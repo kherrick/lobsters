@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-03, 07:40:54](https://lobste.rs/s/wrml8p/mastodon_is_easy_fun_except_when_it_isn_t) - [Mastodon is easy and fun except when it isn’t](https://erinkissane.com/mastodon-is-easy-and-fun-except-when-it-isnt)
 * [2023-09-03, 06:51:23](https://lobste.rs/s/xrv3lf/tale_two_forwarded_headers) - [A Tale of Two Forwarded Headers](https://www.appsmith.com/blog/forwarded-header)
 * [2023-09-03, 06:28:56](https://lobste.rs/s/zcbxs3/gameroy_jit_compilation_high_accuracy) - [GameRoy: JIT compilation in High-Accuracy Game Boy Emulation](https://rodrigodd.github.io/2023/09/02/gameroy-jit.html)
 * [2023-09-03, 05:05:54](https://lobste.rs/s/oknhpt/is_something_pattern_agda) - [The \"Is Something\" Pattern in Agda](https://danilafe.com/blog/agda_is_pattern/)
@@ -13,7 +14,6 @@
 * [2023-09-02, 15:24:59](https://lobste.rs/s/5t6vke/i_blame_w3c_s_html_standard_for_ordered) - [I Blame the W3C's HTML Standard for Ordered Lists](https://siderea.dreamwidth.org/1819759.html)
 * [2023-09-02, 15:17:35](https://lobste.rs/s/fza8kq/it_s_like_coding_dark) - [It’s Like Coding in the Dark](https://www.catharsisinsight.com/_files/ugd/fce7f8_2a41aa82670f4f08a3e403d196bcc341.pdf)
 * [2023-09-02, 13:49:14](https://lobste.rs/s/3vrkxn/mashing_enter_bypass_full_disk) - [Mashing Enter to bypass full disk encryption with TPM, Clevis, dracut and systemd](https://pulsesecurity.co.nz/advisories/tpm-luks-bypass)
-* [2023-09-02, 13:19:49](https://lobste.rs/s/mjm73i/spoofing_certificates_with_md5) - [Spoofing certificates with MD5 collisions](https://cendyne.dev/posts/2023-09-01-spoofing-certificates-with-md5-collisions.html)
 * [2023-09-02, 13:09:39](https://lobste.rs/s/rbuvrc/worst_programmer) - [The Worst Programmer](https://dannorth.net/2023/09/02/the-worst-programmer/)
 * [2023-09-02, 12:16:31](https://lobste.rs/s/e338p3/how_i_joined_bug_323_community) - [How I joined the bug 323 community](https://studios.ptilouk.net/superfluous-returnz/blog/2023-08-11_bug323.html)
 * [2023-09-02, 11:24:38](https://lobste.rs/s/c6lwcm/vento_new_template_engine_for_deno) - [Vento (\"a new template engine for Deno\")](https://vento.js.org/)
