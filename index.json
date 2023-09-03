@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-03, 15:43:09",
+      "https://lobste.rs/s/pewivz/hacking_timex_m851"
+    ],
+    [
+      "Hacking the Timex m851",
+      "https://lock.cmpxchg8b.com/timex.html"
+    ]
+  ],
+  [
+    [
       "2023-09-03, 13:19:14",
       "https://lobste.rs/s/sbloj5/boiling_frog_digital_freedom"
     ],
@@ -237,16 +247,6 @@
     [
       "Explaining The Postgres Meme",
       "https://www.avestura.dev/blog/explaining-the-postgres-meme"
-    ]
-  ],
-  [
-    [
-      "2023-09-01, 12:05:08",
-      "https://lobste.rs/s/v71bnp/technical_merits_wayland_are_mostly"
-    ],
-    [
-      "The technical merits of Wayland are mostly irrelevant",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandTechnicalMeritsIrrelevant"
     ]
   ]
 ]
