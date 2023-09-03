@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-03, 15:45:39](https://lobste.rs/s/irawiz/advantages_flexible_typing) - [The Advantages Of Flexible Typing](https://www.sqlite.org/flextypegood.html)
 * [2023-09-03, 15:43:09](https://lobste.rs/s/pewivz/hacking_timex_m851) - [Hacking the Timex m851](https://lock.cmpxchg8b.com/timex.html)
 * [2023-09-03, 13:19:14](https://lobste.rs/s/sbloj5/boiling_frog_digital_freedom) - [The boiling frog of digital freedom](https://gazoche.xyz/posts/boiling-frog/)
 * [2023-09-03, 12:28:06](https://lobste.rs/s/wzgwd4/10_years_rio) - [10 years of rio](https://chainsawriot.com/postmannheim/2023/08/28/rio10.html)
@@ -17,7 +18,6 @@
 * [2023-09-02, 21:06:12](https://lobste.rs/s/hbfdgk/extensions_gnome_45) - [Extensions in GNOME 45](https://blogs.gnome.org/shell-dev/2023/09/02/extensions-in-gnome-45/)
 * [2023-09-02, 16:04:39](https://lobste.rs/s/0a6pgc/exploring_lesser_known_commands) - [Exploring Lesser-Known Commands and Advanced Features of Homebrew](https://muhammadraza.me/2023/exploring-homebrew/)
 * [2023-09-02, 15:37:33](https://lobste.rs/s/ppdabg/bcrypt_at_25_retrospective_on_password) - [bcrypt at 25: A retrospective on password security](https://blog.apnic.net/2023/08/02/bcrypt-at-25-a-retrospective-on-password-security/)
-* [2023-09-02, 15:24:59](https://lobste.rs/s/5t6vke/i_blame_w3c_s_html_standard_for_ordered) - [I Blame the W3C's HTML Standard for Ordered Lists](https://siderea.dreamwidth.org/1819759.html)
 * [2023-09-02, 15:17:35](https://lobste.rs/s/fza8kq/it_s_like_coding_dark) - [It’s Like Coding in the Dark](https://www.catharsisinsight.com/_files/ugd/fce7f8_2a41aa82670f4f08a3e403d196bcc341.pdf)
 * [2023-09-02, 13:49:14](https://lobste.rs/s/3vrkxn/mashing_enter_bypass_full_disk) - [Mashing Enter to bypass full disk encryption with TPM, Clevis, dracut and systemd](https://pulsesecurity.co.nz/advisories/tpm-luks-bypass)
 * [2023-09-02, 13:09:39](https://lobste.rs/s/rbuvrc/worst_programmer) - [The Worst Programmer](https://dannorth.net/2023/09/02/the-worst-programmer/)
