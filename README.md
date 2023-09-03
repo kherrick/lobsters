@@ -4,6 +4,7 @@
 * [2023-09-02, 21:52:23](https://lobste.rs/s/d1bzam/how_am_i_supposed_safely_disable_this) - [How am I supposed to safely disable this warning on ARM GCC?](https://www.downtowndougbrown.com/2023/09/how-am-i-supposed-to-safely-disable-this-warning-on-arm-gcc/)
 * [2023-09-02, 21:06:12](https://lobste.rs/s/hbfdgk/extensions_gnome_45) - [Extensions in GNOME 45](https://blogs.gnome.org/shell-dev/2023/09/02/extensions-in-gnome-45/)
 * [2023-09-02, 20:42:33](https://lobste.rs/s/8u4iin/educational_sensational_inspirational) - [Educational Sensational Inspirational Foundational](https://esif.dev/)
+* [2023-09-02, 16:04:39](https://lobste.rs/s/0a6pgc/exploring_lesser_known_commands) - [Exploring Lesser-Known Commands and Advanced Features of Homebrew](https://muhammadraza.me/2023/exploring-homebrew/)
 * [2023-09-02, 15:37:33](https://lobste.rs/s/ppdabg/bcrypt_at_25_retrospective_on_password) - [bcrypt at 25: A retrospective on password security](https://blog.apnic.net/2023/08/02/bcrypt-at-25-a-retrospective-on-password-security/)
 * [2023-09-02, 15:24:59](https://lobste.rs/s/5t6vke/i_blame_w3c_s_html_standard_for_ordered) - [I Blame the W3C's HTML Standard for Ordered Lists](https://siderea.dreamwidth.org/1819759.html)
 * [2023-09-02, 15:17:35](https://lobste.rs/s/fza8kq/it_s_like_coding_dark) - [It’s Like Coding in the Dark](https://www.catharsisinsight.com/_files/ugd/fce7f8_2a41aa82670f4f08a3e403d196bcc341.pdf)
@@ -24,7 +25,6 @@
 * [2023-09-01, 18:55:22](https://lobste.rs/s/5suewc/storing_utc_is_not_silver_bullet_2019) - [Storing UTC is not a silver bullet (2019)](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/)
 * [2023-09-01, 13:23:25](https://lobste.rs/s/eginyy/filepath_clean_terms_conditions_apply) - [filepath.Clean: terms and conditions apply](https://tortel.li/post/dirty_filepath/)
 * [2023-09-01, 12:05:08](https://lobste.rs/s/v71bnp/technical_merits_wayland_are_mostly) - [The technical merits of Wayland are mostly irrelevant](https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandTechnicalMeritsIrrelevant)
-* [2023-09-01, 10:48:34](https://lobste.rs/s/ytgh5i/nix_flake_architecture_practice) - [Nix Flake Architecture in Practice - A Beginner-friendly Tour](https://journal.platonic.systems/nix-flake-architecture-in-practice/)
 
 ## [Archives](archives/index.md)
 
