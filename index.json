@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-09-02, 16:04:39",
+      "https://lobste.rs/s/0a6pgc/exploring_lesser_known_commands"
+    ],
+    [
+      "Exploring Lesser-Known Commands and Advanced Features of Homebrew",
+      "https://muhammadraza.me/2023/exploring-homebrew/"
+    ]
+  ],
+  [
+    [
       "2023-09-02, 15:37:33",
       "https://lobste.rs/s/ppdabg/bcrypt_at_25_retrospective_on_password"
     ],
@@ -237,16 +247,6 @@
     [
       "The technical merits of Wayland are mostly irrelevant",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandTechnicalMeritsIrrelevant"
-    ]
-  ],
-  [
-    [
-      "2023-09-01, 10:48:34",
-      "https://lobste.rs/s/ytgh5i/nix_flake_architecture_practice"
-    ],
-    [
-      "Nix Flake Architecture in Practice - A Beginner-friendly Tour",
-      "https://journal.platonic.systems/nix-flake-architecture-in-practice/"
     ]
   ]
 ]
