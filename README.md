@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-03, 05:05:54](https://lobste.rs/s/oknhpt/is_something_pattern_agda) - [The \"Is Something\" Pattern in Agda](https://danilafe.com/blog/agda_is_pattern/)
 * [2023-09-03, 02:18:43](https://lobste.rs/s/yo66hh/why_are_functional_programming) - [Why are functional programming languages so popular in the programming languages community?](https://statmodeling.stat.columbia.edu/2018/10/11/functional-programming-languages-popular-programming-languages-community/)
 * [2023-09-03, 01:54:18](https://lobste.rs/s/ikitkh/refurb_weekend_powerbook_duo_2300c) - [Refurb weekend: PowerBook Duo 2300c](https://oldvcr.blogspot.com/2023/09/refurb-weekend-powerbook-duo-2300c.html)
 * [2023-09-02, 23:03:43](https://lobste.rs/s/epbfzl/fast_tokenizers_with_stringscanner) - [Fast Tokenizers with StringScanner](https://tenderlovemaking.com/2023/09/02/fast-tokenizers-with-stringscanner.html)
@@ -17,7 +18,6 @@
 * [2023-09-02, 11:24:38](https://lobste.rs/s/c6lwcm/vento_new_template_engine_for_deno) - [Vento (\"a new template engine for Deno\")](https://vento.js.org/)
 * [2023-09-02, 09:58:42](https://lobste.rs/s/w7cnz8/nope_foundry_foss_cross_platform) - [Nope Foundry, a FOSS cross-platform framework for motion design, 2D composition and visual effects](https://nope-foundry.org)
 * [2023-09-02, 08:27:58](https://lobste.rs/s/82dse5/they_made_golf_mmo_with_sonic_it) - [They Made A Golf MMO With Sonic In it](https://wuffs.org/blog/reviving-sega-splash-golf)
-* [2023-09-02, 07:00:44](https://lobste.rs/s/kv2yix/euclidean_affine_functions_their) - [Euclidean affine functions and their application to calendar algorithms](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.3172)
 * [2023-09-02, 05:51:50](https://lobste.rs/s/enaynl/hoopy_inline_haskell_inside_your_python) - [hoopy: Inline Haskell inside your Python code](https://github.com/RocketRace/hoopy)
 * [2023-09-01, 23:54:17](https://lobste.rs/s/awnlzq/oxidizing_ocaml_data_race_freedom) - [Oxidizing OCaml: Data Race Freedom](https://blog.janestreet.com/oxidizing-ocaml-parallelism/)
 * [2023-09-01, 22:41:09](https://lobste.rs/s/1rbawx/explaining_postgres_meme) - [Explaining The Postgres Meme](https://www.avestura.dev/blog/explaining-the-postgres-meme)
