@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-04, 15:41:15",
+      "https://lobste.rs/s/umpc5t/bring_your_own_interface"
+    ],
+    [
+      "Bring your own interface",
+      "https://blog.verygoodsoftwarenotvirus.ru/posts/interfaces/"
+    ]
+  ],
+  [
+    [
       "2023-09-04, 14:39:46",
       "https://lobste.rs/s/eg4drx/writing_simple_web_scraper_using_bash"
     ],
@@ -237,16 +247,6 @@
     [
       "Where do you get your science/technology/math news?",
       "https://lobste.rs/s/dilm9w/where_do_you_get_your_science_technology"
-    ]
-  ],
-  [
-    [
-      "2023-09-03, 06:28:56",
-      "https://lobste.rs/s/zcbxs3/gameroy_jit_compilation_high_accuracy"
-    ],
-    [
-      "GameRoy: JIT compilation in High-Accuracy Game Boy Emulation",
-      "https://rodrigodd.github.io/2023/09/02/gameroy-jit.html"
     ]
   ]
 ]
