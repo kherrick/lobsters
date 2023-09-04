@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-04, 20:13:30](https://lobste.rs/s/pui3ry/compiling_arrays) - [Compiling Arrays](https://veera.app/array.html)
 * [2023-09-04, 19:23:25](https://lobste.rs/s/qxiynu/writing_c_compiler_500_lines_python) - [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)
 * [2023-09-04, 19:04:32](https://lobste.rs/s/uglyrt/reviving_sega_s_forgotten_golf_mmo_after) - [Reviving Sega's forgotten golf MMO after 14 years](https://wuffs.org/blog/reviving-sega-splash-golf-part-2)
 * [2023-09-04, 17:56:41](https://lobste.rs/s/tszzzl/dsls_are_waste_time) - [DSLs are a waste of time](https://leebriggs.co.uk/blog/2023/09/04/dsl.html)
@@ -10,7 +11,6 @@
 * [2023-09-04, 13:37:40](https://lobste.rs/s/chzkxq/slint_ui_1_2_released_with_enhanced) - [Slint UI 1.2 Released with Enhanced Platform Abstraction](https://slint.dev/blog/slint-1.2-released)
 * [2023-09-04, 13:06:55](https://lobste.rs/s/dpnjqd/juno_lang_lisp_compiles_js_browser_based) - [Juno lang: a Lisp that compiles to JS, browser-based IDE, ability to save/restore applications](https://github.com/KinaKnowledge/juno-lang)
 * [2023-09-04, 12:02:00](https://lobste.rs/s/rp6t6x/pretendo_network) - [Pretendo Network](https://pretendo.network/)
-* [2023-09-04, 11:43:20](https://lobste.rs/s/nv7t6w/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/nv7t6w/what_are_you_doing_this_week)
 * [2023-09-04, 11:21:11](https://lobste.rs/s/9sn4ry/ieee_floating_point_is_like_having_built) - [IEEE floating point is like having a built-in Stradivari in each home appliance (2008)](https://yosefk.com/blog/consistency-how-to-defeat-the-purpose-of-ieee-floating-point.html)
 * [2023-09-04, 10:53:09](https://lobste.rs/s/uajsg5/top_programming_languages_2023) - [The Top Programming Languages 2023](https://spectrum.ieee.org/the-top-programming-languages-2023)
 * [2023-09-04, 10:34:08](https://lobste.rs/s/c621jg/omniscient_linter) - [The omniscient linter](https://jfmengels.net/the-omniscient-linter/)
