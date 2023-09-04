@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-04, 01:30:54",
+      "https://lobste.rs/s/8dawbk/ibm_analog_hardware_acceleration_kit"
+    ],
+    [
+      "IBM Analog Hardware Acceleration Kit",
+      "https://aihwkit.readthedocs.io/"
+    ]
+  ],
+  [
+    [
+      "2023-09-04, 01:19:03",
+      "https://lobste.rs/s/adhskt/thl_export_export_hit_list_lists_as_json"
+    ],
+    [
+      "thl-export: export The Hit List lists as JSON",
+      "https://github.com/taoeffect/thl-export"
+    ]
+  ],
+  [
+    [
       "2023-09-04, 00:14:05",
       "https://lobste.rs/s/bkyuw5/textbook_review_performance_modeling"
     ],
@@ -217,26 +237,6 @@
     [
       "How I joined the bug 323 community",
       "https://studios.ptilouk.net/superfluous-returnz/blog/2023-08-11_bug323.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-02, 11:24:38",
-      "https://lobste.rs/s/c6lwcm/vento_new_template_engine_for_deno"
-    ],
-    [
-      "Vento (\"a new template engine for Deno\")",
-      "https://vento.js.org/"
-    ]
-  ],
-  [
-    [
-      "2023-09-02, 08:27:58",
-      "https://lobste.rs/s/82dse5/they_made_golf_mmo_with_sonic_it"
-    ],
-    [
-      "They Made A Golf MMO With Sonic In it",
-      "https://wuffs.org/blog/reviving-sega-splash-golf"
     ]
   ],
   [
