@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-04, 17:56:41](https://lobste.rs/s/tszzzl/dsls_are_waste_time) - [DSLs are a waste of time](https://leebriggs.co.uk/blog/2023/09/04/dsl.html)
 * [2023-09-04, 16:58:30](https://lobste.rs/s/bdepma/what_does_toot_indexable_mean_for) - [what does toot:indexable mean for academic research on the fediverse?](https://test.roelof.info/log/toot-indexable/)
 * [2023-09-04, 16:42:12](https://lobste.rs/s/5i3p04/curl_wget_venn_diagram) - [The curl-wget Venn diagram](https://daniel.haxx.se/blog/2023/09/04/the-curl-wget-venn-diagram/)
 * [2023-09-04, 15:41:15](https://lobste.rs/s/umpc5t/bring_your_own_interface) - [Bring your own interface](https://blog.verygoodsoftwarenotvirus.ru/posts/interfaces/)
@@ -15,7 +16,6 @@
 * [2023-09-04, 08:54:16](https://lobste.rs/s/xfetvt/github_has_too_many_hidden_features) - [GitHub has too many hidden features](https://buttondown.email/hillelwayne/archive/github-has-too-many-hidden-features/)
 * [2023-09-04, 08:10:49](https://lobste.rs/s/egqnl8/wayland_screen_savers) - [Wayland and screen savers](https://www.jwz.org/blog/2023/09/wayland-and-screen-savers/)
 * [2023-09-04, 06:41:12](https://lobste.rs/s/6vrz94/extending_life_tomtom_wearables) - [Extending the life of TomTom wearables](https://www.spinellis.gr/blog/20230901/)
-* [2023-09-04, 01:30:54](https://lobste.rs/s/8dawbk/ibm_analog_hardware_acceleration_kit) - [IBM Analog Hardware Acceleration Kit](https://aihwkit.readthedocs.io/)
 * [2023-09-04, 00:14:05](https://lobste.rs/s/bkyuw5/textbook_review_performance_modeling) - [Textbook Review - Performance Modeling and Design of Computer Systems: Queueing Theory in Action](https://emptysqua.re/blog/review-queue-theory-book/)
 * [2023-09-03, 23:01:14](https://lobste.rs/s/9v4oym/everything_i_know_about_floppy_disks) - [Everything I know about floppy disks](https://thejpster.org.uk/blog/blog-2023-08-28/)
 * [2023-09-03, 21:03:15](https://lobste.rs/s/zvcr2j/apple_letter_heat_initiative) - [Apple letter to Heat Initiative](https://s3.documentcloud.org/documents/23933180/apple-letter-to-heat-initiative.pdf)
