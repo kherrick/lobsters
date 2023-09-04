@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-04, 14:39:46",
+      "https://lobste.rs/s/eg4drx/writing_simple_web_scraper_using_bash"
+    ],
+    [
+      "Writing a simple web scraper using bash",
+      "https://muhammadraza.me/2023/webscraping-in-bash/"
+    ]
+  ],
+  [
+    [
+      "2023-09-04, 14:34:24",
+      "https://lobste.rs/s/nnlyqs/haskell_mini_patterns_handbook_2020"
+    ],
+    [
+      "Haskell mini-patterns handbook (2020)",
+      "https://kowainik.github.io/posts/haskell-mini-patterns"
+    ]
+  ],
+  [
+    [
       "2023-09-04, 13:37:40",
       "https://lobste.rs/s/chzkxq/slint_ui_1_2_released_with_enhanced"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-09-03, 15:45:39",
-      "https://lobste.rs/s/irawiz/advantages_flexible_typing"
-    ],
-    [
-      "The Advantages Of Flexible Typing",
-      "https://www.sqlite.org/flextypegood.html"
-    ]
-  ],
-  [
-    [
       "2023-09-03, 15:43:09",
       "https://lobste.rs/s/pewivz/hacking_timex_m851"
     ],
@@ -237,16 +247,6 @@
     [
       "GameRoy: JIT compilation in High-Accuracy Game Boy Emulation",
       "https://rodrigodd.github.io/2023/09/02/gameroy-jit.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-03, 05:05:54",
-      "https://lobste.rs/s/oknhpt/is_something_pattern_agda"
-    ],
-    [
-      "The \"Is Something\" Pattern in Agda",
-      "https://danilafe.com/blog/agda_is_pattern/"
     ]
   ]
 ]
