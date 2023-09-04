@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2023-09-03, 15:45:39",
+      "https://lobste.rs/s/irawiz/advantages_flexible_typing"
+    ],
+    [
+      "The Advantages Of Flexible Typing",
+      "https://www.sqlite.org/flextypegood.html"
+    ]
+  ],
+  [
+    [
       "2023-09-03, 15:43:09",
       "https://lobste.rs/s/pewivz/hacking_timex_m851"
     ],
@@ -237,16 +247,6 @@
     [
       "GameRoy: JIT compilation in High-Accuracy Game Boy Emulation",
       "https://rodrigodd.github.io/2023/09/02/gameroy-jit.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-03, 05:05:54",
-      "https://lobste.rs/s/oknhpt/is_something_pattern_agda"
-    ],
-    [
-      "The \"Is Something\" Pattern in Agda",
-      "https://danilafe.com/blog/agda_is_pattern/"
     ]
   ]
 ]
