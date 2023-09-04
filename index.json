@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-04, 19:23:25",
+      "https://lobste.rs/s/qxiynu/writing_c_compiler_500_lines_python"
+    ],
+    [
+      "Writing a C compiler in 500 lines of Python",
+      "https://vgel.me/posts/c500/"
+    ]
+  ],
+  [
+    [
       "2023-09-04, 19:04:32",
       "https://lobste.rs/s/uglyrt/reviving_sega_s_forgotten_golf_mmo_after"
     ],
@@ -227,16 +237,6 @@
     [
       "Review: Glove80 Ergonomic Keyboard",
       "https://danieldk.eu/Posts/2023-09-03-Glove80.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-03, 10:39:12",
-      "https://lobste.rs/s/s5a5ul/what_s_up_python_new_packaging_proposal"
-    ],
-    [
-      "What's up Python? New packaging proposal, Python in Excel, a piano in the shell",
-      "https://www.bitecode.dev/p/whats-up-python-new-packaging-proposal"
     ]
   ],
   [
