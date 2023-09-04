@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-04](index.md)
 
+* [2023-09-04, 20:38:24](https://lobste.rs/s/bwoef7/llm_now_provides_tools_for_working_with) - [LLM now provides tools for working with embeddings](https://simonwillison.net/2023/Sep/4/llm-embeddings/)
 * [2023-09-04, 20:13:30](https://lobste.rs/s/pui3ry/compiling_arrays) - [Compiling Arrays](https://veera.app/array.html)
 * [2023-09-04, 19:23:25](https://lobste.rs/s/qxiynu/writing_c_compiler_500_lines_python) - [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)
 * [2023-09-04, 19:04:32](https://lobste.rs/s/uglyrt/reviving_sega_s_forgotten_golf_mmo_after) - [Reviving Sega's forgotten golf MMO after 14 years](https://wuffs.org/blog/reviving-sega-splash-golf-part-2)
