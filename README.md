@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-04, 00:14:05](https://lobste.rs/s/bkyuw5/textbook_review_performance_modeling) - [Textbook Review - Performance Modeling and Design of Computer Systems: Queueing Theory in Action](https://emptysqua.re/blog/review-queue-theory-book/)
 * [2023-09-03, 23:01:14](https://lobste.rs/s/9v4oym/everything_i_know_about_floppy_disks) - [Everything I know about floppy disks](https://thejpster.org.uk/blog/blog-2023-08-28/)
 * [2023-09-03, 21:03:15](https://lobste.rs/s/zvcr2j/apple_letter_heat_initiative) - [Apple letter to Heat Initiative](https://s3.documentcloud.org/documents/23933180/apple-letter-to-heat-initiative.pdf)
 * [2023-09-03, 16:37:44](https://lobste.rs/s/darunh/apple_already_shipped_attestation_on_web) - [Apple already shipped attestation on the web, and we barely noticed](https://httptoolkit.com/blog/apple-private-access-tokens-attestation/)
@@ -16,7 +17,6 @@
 * [2023-09-03, 05:05:54](https://lobste.rs/s/oknhpt/is_something_pattern_agda) - [The \"Is Something\" Pattern in Agda](https://danilafe.com/blog/agda_is_pattern/)
 * [2023-09-03, 02:18:43](https://lobste.rs/s/yo66hh/why_are_functional_programming) - [Why are functional programming languages so popular in the programming languages community? (2018)](https://statmodeling.stat.columbia.edu/2018/10/11/functional-programming-languages-popular-programming-languages-community/)
 * [2023-09-03, 01:54:18](https://lobste.rs/s/ikitkh/refurb_weekend_powerbook_duo_2300c) - [Refurb weekend: PowerBook Duo 2300c](https://oldvcr.blogspot.com/2023/09/refurb-weekend-powerbook-duo-2300c.html)
-* [2023-09-02, 23:03:43](https://lobste.rs/s/epbfzl/fast_tokenizers_with_stringscanner) - [Fast Tokenizers with StringScanner](https://tenderlovemaking.com/2023/09/02/fast-tokenizers-with-stringscanner.html)
 * [2023-09-02, 21:06:12](https://lobste.rs/s/hbfdgk/extensions_gnome_45) - [Extensions in GNOME 45](https://blogs.gnome.org/shell-dev/2023/09/02/extensions-in-gnome-45/)
 * [2023-09-02, 16:04:39](https://lobste.rs/s/0a6pgc/exploring_lesser_known_commands) - [Exploring Lesser-Known Commands and Advanced Features of Homebrew](https://muhammadraza.me/2023/exploring-homebrew/)
 * [2023-09-02, 13:49:14](https://lobste.rs/s/3vrkxn/mashing_enter_bypass_full_disk) - [Mashing Enter to bypass full disk encryption with TPM, Clevis, dracut and systemd](https://pulsesecurity.co.nz/advisories/tpm-luks-bypass)
