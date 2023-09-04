@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-04, 10:53:09](https://lobste.rs/s/uajsg5/top_programming_languages_2023) - [The Top Programming Languages 2023](https://spectrum.ieee.org/the-top-programming-languages-2023)
 * [2023-09-04, 10:34:08](https://lobste.rs/s/c621jg/omniscient_linter) - [The omniscient linter](https://jfmengels.net/the-omniscient-linter/)
 * [2023-09-04, 08:54:16](https://lobste.rs/s/xfetvt/github_has_too_many_hidden_features) - [GitHub has too many hidden features](https://buttondown.email/hillelwayne/archive/github-has-too-many-hidden-features/)
 * [2023-09-04, 08:10:49](https://lobste.rs/s/egqnl8/wayland_screen_savers) - [Wayland and screen savers](https://www.jwz.org/blog/2023/09/wayland-and-screen-savers/)
@@ -24,7 +25,6 @@
 * [2023-09-02, 21:06:12](https://lobste.rs/s/hbfdgk/extensions_gnome_45) - [Extensions in GNOME 45](https://blogs.gnome.org/shell-dev/2023/09/02/extensions-in-gnome-45/)
 * [2023-09-02, 13:09:39](https://lobste.rs/s/rbuvrc/worst_programmer) - [The Worst Programmer](https://dannorth.net/2023/09/02/the-worst-programmer/)
 * [2023-09-02, 12:16:31](https://lobste.rs/s/e338p3/how_i_joined_bug_323_community) - [How I joined the bug 323 community](https://studios.ptilouk.net/superfluous-returnz/blog/2023-08-11_bug323.html)
-* [2023-09-01, 22:41:09](https://lobste.rs/s/1rbawx/explaining_postgres_meme) - [Explaining The Postgres Meme](https://www.avestura.dev/blog/explaining-the-postgres-meme)
 
 ## [Archives](archives/index.md)
 
