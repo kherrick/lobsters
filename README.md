@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-04, 01:30:54](https://lobste.rs/s/8dawbk/ibm_analog_hardware_acceleration_kit) - [IBM Analog Hardware Acceleration Kit](https://aihwkit.readthedocs.io/)
+* [2023-09-04, 01:19:03](https://lobste.rs/s/adhskt/thl_export_export_hit_list_lists_as_json) - [thl-export: export The Hit List lists as JSON](https://github.com/taoeffect/thl-export)
 * [2023-09-04, 00:14:05](https://lobste.rs/s/bkyuw5/textbook_review_performance_modeling) - [Textbook Review - Performance Modeling and Design of Computer Systems: Queueing Theory in Action](https://emptysqua.re/blog/review-queue-theory-book/)
 * [2023-09-03, 23:01:14](https://lobste.rs/s/9v4oym/everything_i_know_about_floppy_disks) - [Everything I know about floppy disks](https://thejpster.org.uk/blog/blog-2023-08-28/)
 * [2023-09-03, 21:03:15](https://lobste.rs/s/zvcr2j/apple_letter_heat_initiative) - [Apple letter to Heat Initiative](https://s3.documentcloud.org/documents/23933180/apple-letter-to-heat-initiative.pdf)
@@ -22,8 +24,6 @@
 * [2023-09-02, 13:49:14](https://lobste.rs/s/3vrkxn/mashing_enter_bypass_full_disk) - [Mashing Enter to bypass full disk encryption with TPM, Clevis, dracut and systemd](https://pulsesecurity.co.nz/advisories/tpm-luks-bypass)
 * [2023-09-02, 13:09:39](https://lobste.rs/s/rbuvrc/worst_programmer) - [The Worst Programmer](https://dannorth.net/2023/09/02/the-worst-programmer/)
 * [2023-09-02, 12:16:31](https://lobste.rs/s/e338p3/how_i_joined_bug_323_community) - [How I joined the bug 323 community](https://studios.ptilouk.net/superfluous-returnz/blog/2023-08-11_bug323.html)
-* [2023-09-02, 11:24:38](https://lobste.rs/s/c6lwcm/vento_new_template_engine_for_deno) - [Vento (\"a new template engine for Deno\")](https://vento.js.org/)
-* [2023-09-02, 08:27:58](https://lobste.rs/s/82dse5/they_made_golf_mmo_with_sonic_it) - [They Made A Golf MMO With Sonic In it](https://wuffs.org/blog/reviving-sega-splash-golf)
 * [2023-09-01, 22:41:09](https://lobste.rs/s/1rbawx/explaining_postgres_meme) - [Explaining The Postgres Meme](https://www.avestura.dev/blog/explaining-the-postgres-meme)
 
 ## [Archives](archives/index.md)
