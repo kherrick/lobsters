@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-04, 18:43:31](https://lobste.rs/s/6cmsk4/what_break_reminder_do_you_use) - [What break reminder do you use?](https://lobste.rs/s/6cmsk4/what_break_reminder_do_you_use)
 * [2023-09-04, 17:56:41](https://lobste.rs/s/tszzzl/dsls_are_waste_time) - [DSLs are a waste of time](https://leebriggs.co.uk/blog/2023/09/04/dsl.html)
-* [2023-09-04, 16:58:30](https://lobste.rs/s/bdepma/what_does_toot_indexable_mean_for) - [what does toot:indexable mean for academic research on the fediverse?](https://test.roelof.info/log/toot-indexable/)
 * [2023-09-04, 16:42:12](https://lobste.rs/s/5i3p04/curl_wget_venn_diagram) - [The curl-wget Venn diagram](https://daniel.haxx.se/blog/2023/09/04/the-curl-wget-venn-diagram/)
 * [2023-09-04, 15:41:15](https://lobste.rs/s/umpc5t/bring_your_own_interface) - [Bring your own interface](https://blog.verygoodsoftwarenotvirus.ru/posts/interfaces/)
 * [2023-09-04, 14:39:46](https://lobste.rs/s/eg4drx/writing_simple_web_scraper_using_bash) - [Writing a simple web scraper using bash](https://muhammadraza.me/2023/webscraping-in-bash/)
