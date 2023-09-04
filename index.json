@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2023-09-04, 07:54:56",
-      "https://lobste.rs/s/ryjstd/private_access_tokens_also_not_great"
-    ],
-    [
-      "Private Access Tokens, also not great",
-      "https://educatedguesswork.org/posts/private-access-tokens/"
-    ]
-  ],
-  [
-    [
       "2023-09-04, 06:41:12",
       "https://lobste.rs/s/6vrz94/extending_life_tomtom_wearables"
     ],
@@ -247,6 +237,16 @@
     [
       "GameRoy: JIT compilation in High-Accuracy Game Boy Emulation",
       "https://rodrigodd.github.io/2023/09/02/gameroy-jit.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-03, 05:05:54",
+      "https://lobste.rs/s/oknhpt/is_something_pattern_agda"
+    ],
+    [
+      "The \"Is Something\" Pattern in Agda",
+      "https://danilafe.com/blog/agda_is_pattern/"
     ]
   ]
 ]
