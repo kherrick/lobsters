@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-04, 08:54:16](https://lobste.rs/s/xfetvt/github_has_too_many_hidden_features) - [GitHub has too many hidden features](https://buttondown.email/hillelwayne/archive/github-has-too-many-hidden-features/)
 * [2023-09-04, 08:10:49](https://lobste.rs/s/egqnl8/wayland_screen_savers) - [Wayland and screen savers](https://www.jwz.org/blog/2023/09/wayland-and-screen-savers/)
 * [2023-09-04, 07:54:56](https://lobste.rs/s/ryjstd/private_access_tokens_also_not_great) - [Private Access Tokens, also not great](https://educatedguesswork.org/posts/private-access-tokens/)
 * [2023-09-04, 06:41:12](https://lobste.rs/s/6vrz94/extending_life_tomtom_wearables) - [Extending the life of TomTom wearables](https://www.spinellis.gr/blog/20230901/)
@@ -20,7 +21,6 @@
 * [2023-09-03, 06:28:56](https://lobste.rs/s/zcbxs3/gameroy_jit_compilation_high_accuracy) - [GameRoy: JIT compilation in High-Accuracy Game Boy Emulation](https://rodrigodd.github.io/2023/09/02/gameroy-jit.html)
 * [2023-09-03, 05:05:54](https://lobste.rs/s/oknhpt/is_something_pattern_agda) - [The \"Is Something\" Pattern in Agda](https://danilafe.com/blog/agda_is_pattern/)
 * [2023-09-03, 02:18:43](https://lobste.rs/s/yo66hh/why_are_functional_programming) - [Why are functional programming languages so popular in the programming languages community? (2018)](https://statmodeling.stat.columbia.edu/2018/10/11/functional-programming-languages-popular-programming-languages-community/)
-* [2023-09-03, 01:54:18](https://lobste.rs/s/ikitkh/refurb_weekend_powerbook_duo_2300c) - [Refurb weekend: PowerBook Duo 2300c](https://oldvcr.blogspot.com/2023/09/refurb-weekend-powerbook-duo-2300c.html)
 * [2023-09-02, 21:06:12](https://lobste.rs/s/hbfdgk/extensions_gnome_45) - [Extensions in GNOME 45](https://blogs.gnome.org/shell-dev/2023/09/02/extensions-in-gnome-45/)
 * [2023-09-02, 13:09:39](https://lobste.rs/s/rbuvrc/worst_programmer) - [The Worst Programmer](https://dannorth.net/2023/09/02/the-worst-programmer/)
 * [2023-09-02, 12:16:31](https://lobste.rs/s/e338p3/how_i_joined_bug_323_community) - [How I joined the bug 323 community](https://studios.ptilouk.net/superfluous-returnz/blog/2023-08-11_bug323.html)
