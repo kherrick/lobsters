@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-04](index.md)
 
+* [2023-09-04, 11:21:11](https://lobste.rs/s/9sn4ry/ieee_floating_point_is_like_having_built) - [IEEE floating point is like having a built-in Stradivari in each home appliance (2008)](https://yosefk.com/blog/consistency-how-to-defeat-the-purpose-of-ieee-floating-point.html)
 * [2023-09-04, 10:53:09](https://lobste.rs/s/uajsg5/top_programming_languages_2023) - [The Top Programming Languages 2023](https://spectrum.ieee.org/the-top-programming-languages-2023)
 * [2023-09-04, 10:34:08](https://lobste.rs/s/c621jg/omniscient_linter) - [The omniscient linter](https://jfmengels.net/the-omniscient-linter/)
 * [2023-09-04, 08:54:16](https://lobste.rs/s/xfetvt/github_has_too_many_hidden_features) - [GitHub has too many hidden features](https://buttondown.email/hillelwayne/archive/github-has-too-many-hidden-features/)
