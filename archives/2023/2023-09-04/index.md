@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-04](index.md)
 
+* [2023-09-04, 19:04:32](https://lobste.rs/s/uglyrt/reviving_sega_s_forgotten_golf_mmo_after) - [Reviving Sega's forgotten golf MMO after 14 years](https://wuffs.org/blog/reviving-sega-splash-golf-part-2)
 * [2023-09-04, 18:43:31](https://lobste.rs/s/6cmsk4/what_break_reminder_do_you_use) - [What break reminder do you use?](https://lobste.rs/s/6cmsk4/what_break_reminder_do_you_use)
 * [2023-09-04, 17:56:41](https://lobste.rs/s/tszzzl/dsls_are_waste_time) - [DSLs are a waste of time](https://leebriggs.co.uk/blog/2023/09/04/dsl.html)
 * [2023-09-04, 16:58:30](https://lobste.rs/s/bdepma/what_does_toot_indexable_mean_for) - [what does toot:indexable mean for academic research on the fediverse?](https://test.roelof.info/log/toot-indexable/)
