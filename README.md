@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-04, 07:54:56](https://lobste.rs/s/ryjstd/private_access_tokens_also_not_great) - [Private Access Tokens, also not great](https://educatedguesswork.org/posts/private-access-tokens/)
 * [2023-09-04, 06:41:12](https://lobste.rs/s/6vrz94/extending_life_tomtom_wearables) - [Extending the life of TomTom wearables](https://www.spinellis.gr/blog/20230901/)
 * [2023-09-04, 01:30:54](https://lobste.rs/s/8dawbk/ibm_analog_hardware_acceleration_kit) - [IBM Analog Hardware Acceleration Kit](https://aihwkit.readthedocs.io/)
 * [2023-09-04, 01:19:03](https://lobste.rs/s/adhskt/thl_export_export_hit_list_lists) - [thl-export: export The Hit List lists](https://github.com/taoeffect/thl-export)
@@ -21,7 +22,6 @@
 * [2023-09-03, 02:18:43](https://lobste.rs/s/yo66hh/why_are_functional_programming) - [Why are functional programming languages so popular in the programming languages community? (2018)](https://statmodeling.stat.columbia.edu/2018/10/11/functional-programming-languages-popular-programming-languages-community/)
 * [2023-09-03, 01:54:18](https://lobste.rs/s/ikitkh/refurb_weekend_powerbook_duo_2300c) - [Refurb weekend: PowerBook Duo 2300c](https://oldvcr.blogspot.com/2023/09/refurb-weekend-powerbook-duo-2300c.html)
 * [2023-09-02, 21:06:12](https://lobste.rs/s/hbfdgk/extensions_gnome_45) - [Extensions in GNOME 45](https://blogs.gnome.org/shell-dev/2023/09/02/extensions-in-gnome-45/)
-* [2023-09-02, 16:04:39](https://lobste.rs/s/0a6pgc/exploring_lesser_known_commands) - [Exploring Lesser-Known Commands and Advanced Features of Homebrew](https://muhammadraza.me/2023/exploring-homebrew/)
 * [2023-09-02, 13:09:39](https://lobste.rs/s/rbuvrc/worst_programmer) - [The Worst Programmer](https://dannorth.net/2023/09/02/the-worst-programmer/)
 * [2023-09-02, 12:16:31](https://lobste.rs/s/e338p3/how_i_joined_bug_323_community) - [How I joined the bug 323 community](https://studios.ptilouk.net/superfluous-returnz/blog/2023-08-11_bug323.html)
 * [2023-09-01, 22:41:09](https://lobste.rs/s/1rbawx/explaining_postgres_meme) - [Explaining The Postgres Meme](https://www.avestura.dev/blog/explaining-the-postgres-meme)
