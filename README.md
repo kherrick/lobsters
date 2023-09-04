@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-04, 08:10:49](https://lobste.rs/s/egqnl8/wayland_screen_savers) - [Wayland and screen savers](https://www.jwz.org/blog/2023/09/wayland-and-screen-savers/)
 * [2023-09-04, 07:54:56](https://lobste.rs/s/ryjstd/private_access_tokens_also_not_great) - [Private Access Tokens, also not great](https://educatedguesswork.org/posts/private-access-tokens/)
 * [2023-09-04, 06:41:12](https://lobste.rs/s/6vrz94/extending_life_tomtom_wearables) - [Extending the life of TomTom wearables](https://www.spinellis.gr/blog/20230901/)
 * [2023-09-04, 01:30:54](https://lobste.rs/s/8dawbk/ibm_analog_hardware_acceleration_kit) - [IBM Analog Hardware Acceleration Kit](https://aihwkit.readthedocs.io/)
@@ -11,7 +12,6 @@
 * [2023-09-03, 15:45:39](https://lobste.rs/s/irawiz/advantages_flexible_typing) - [The Advantages Of Flexible Typing](https://www.sqlite.org/flextypegood.html)
 * [2023-09-03, 15:43:09](https://lobste.rs/s/pewivz/hacking_timex_m851) - [Hacking the Timex m851](https://lock.cmpxchg8b.com/timex.html)
 * [2023-09-03, 13:19:14](https://lobste.rs/s/sbloj5/boiling_frog_digital_freedom) - [The boiling frog of digital freedom](https://gazoche.xyz/posts/boiling-frog/)
-* [2023-09-03, 12:28:06](https://lobste.rs/s/wzgwd4/10_years_rio) - [10 years of rio](https://chainsawriot.com/postmannheim/2023/08/28/rio10.html)
 * [2023-09-03, 11:18:24](https://lobste.rs/s/7rzyl2/review_glove80_ergonomic_keyboard) - [Review: Glove80 Ergonomic Keyboard](https://danieldk.eu/Posts/2023-09-03-Glove80.html)
 * [2023-09-03, 10:39:12](https://lobste.rs/s/s5a5ul/what_s_up_python_new_packaging_proposal) - [What's up Python? New packaging proposal, Python in Excel, a piano in the shell](https://www.bitecode.dev/p/whats-up-python-new-packaging-proposal)
 * [2023-09-03, 08:11:23](https://lobste.rs/s/dilm9w/where_do_you_get_your_science_technology) - [Where do you get your science/technology/math news?](https://lobste.rs/s/dilm9w/where_do_you_get_your_science_technology)
