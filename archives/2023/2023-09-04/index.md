@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-04](index.md)
 
+* [2023-09-04, 13:37:40](https://lobste.rs/s/chzkxq/slint_ui_1_2_released_with_enhanced) - [Slint UI 1.2 Released with Enhanced Platform Abstraction](https://slint.dev/blog/slint-1.2-released)
 * [2023-09-04, 13:06:55](https://lobste.rs/s/dpnjqd/juno_lang_lisp_compiles_js_browser_based) - [Juno lang: a Lisp that compiles to JS, browser-based IDE, ability to save/restore applications](https://github.com/KinaKnowledge/juno-lang)
 * [2023-09-04, 12:02:00](https://lobste.rs/s/rp6t6x/pretendo_network) - [Pretendo Network](https://pretendo.network/)
 * [2023-09-04, 11:43:20](https://lobste.rs/s/nv7t6w/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/nv7t6w/what_are_you_doing_this_week)

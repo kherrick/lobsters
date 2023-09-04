@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-04, 13:37:40](https://lobste.rs/s/chzkxq/slint_ui_1_2_released_with_enhanced) - [Slint UI 1.2 Released with Enhanced Platform Abstraction](https://slint.dev/blog/slint-1.2-released)
 * [2023-09-04, 13:06:55](https://lobste.rs/s/dpnjqd/juno_lang_lisp_compiles_js_browser_based) - [Juno lang: a Lisp that compiles to JS, browser-based IDE, ability to save/restore applications](https://github.com/KinaKnowledge/juno-lang)
 * [2023-09-04, 12:02:00](https://lobste.rs/s/rp6t6x/pretendo_network) - [Pretendo Network](https://pretendo.network/)
 * [2023-09-04, 11:43:20](https://lobste.rs/s/nv7t6w/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/nv7t6w/what_are_you_doing_this_week)
@@ -21,7 +22,6 @@
 * [2023-09-03, 11:18:24](https://lobste.rs/s/7rzyl2/review_glove80_ergonomic_keyboard) - [Review: Glove80 Ergonomic Keyboard](https://danieldk.eu/Posts/2023-09-03-Glove80.html)
 * [2023-09-03, 10:39:12](https://lobste.rs/s/s5a5ul/what_s_up_python_new_packaging_proposal) - [What's up Python? New packaging proposal, Python in Excel, a piano in the shell](https://www.bitecode.dev/p/whats-up-python-new-packaging-proposal)
 * [2023-09-03, 08:11:23](https://lobste.rs/s/dilm9w/where_do_you_get_your_science_technology) - [Where do you get your science/technology/math news?](https://lobste.rs/s/dilm9w/where_do_you_get_your_science_technology)
-* [2023-09-03, 07:40:54](https://lobste.rs/s/wrml8p/mastodon_is_easy_fun_except_when_it_isn_t) - [Mastodon is easy and fun except when it isn’t](https://erinkissane.com/mastodon-is-easy-and-fun-except-when-it-isnt)
 * [2023-09-03, 06:28:56](https://lobste.rs/s/zcbxs3/gameroy_jit_compilation_high_accuracy) - [GameRoy: JIT compilation in High-Accuracy Game Boy Emulation](https://rodrigodd.github.io/2023/09/02/gameroy-jit.html)
 * [2023-09-03, 05:05:54](https://lobste.rs/s/oknhpt/is_something_pattern_agda) - [The \"Is Something\" Pattern in Agda](https://danilafe.com/blog/agda_is_pattern/)
 * [2023-09-02, 13:09:39](https://lobste.rs/s/rbuvrc/worst_programmer) - [The Worst Programmer](https://dannorth.net/2023/09/02/the-worst-programmer/)
