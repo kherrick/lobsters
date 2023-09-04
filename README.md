@@ -17,6 +17,7 @@
 * [2023-09-03, 23:01:14](https://lobste.rs/s/9v4oym/everything_i_know_about_floppy_disks) - [Everything I know about floppy disks](https://thejpster.org.uk/blog/blog-2023-08-28/)
 * [2023-09-03, 21:03:15](https://lobste.rs/s/zvcr2j/apple_letter_heat_initiative) - [Apple letter to Heat Initiative](https://s3.documentcloud.org/documents/23933180/apple-letter-to-heat-initiative.pdf)
 * [2023-09-03, 16:37:44](https://lobste.rs/s/darunh/apple_already_shipped_attestation_on_web) - [Apple already shipped attestation on the web, and we barely noticed](https://httptoolkit.com/blog/apple-private-access-tokens-attestation/)
+* [2023-09-03, 15:45:39](https://lobste.rs/s/irawiz/advantages_flexible_typing) - [The Advantages Of Flexible Typing](https://www.sqlite.org/flextypegood.html)
 * [2023-09-03, 15:43:09](https://lobste.rs/s/pewivz/hacking_timex_m851) - [Hacking the Timex m851](https://lock.cmpxchg8b.com/timex.html)
 * [2023-09-03, 13:19:14](https://lobste.rs/s/sbloj5/boiling_frog_digital_freedom) - [The boiling frog of digital freedom](https://gazoche.xyz/posts/boiling-frog/)
 * [2023-09-03, 11:18:24](https://lobste.rs/s/7rzyl2/review_glove80_ergonomic_keyboard) - [Review: Glove80 Ergonomic Keyboard](https://danieldk.eu/Posts/2023-09-03-Glove80.html)
@@ -24,7 +25,6 @@
 * [2023-09-03, 08:11:23](https://lobste.rs/s/dilm9w/where_do_you_get_your_science_technology) - [Where do you get your science/technology/math news?](https://lobste.rs/s/dilm9w/where_do_you_get_your_science_technology)
 * [2023-09-03, 06:28:56](https://lobste.rs/s/zcbxs3/gameroy_jit_compilation_high_accuracy) - [GameRoy: JIT compilation in High-Accuracy Game Boy Emulation](https://rodrigodd.github.io/2023/09/02/gameroy-jit.html)
 * [2023-09-03, 05:05:54](https://lobste.rs/s/oknhpt/is_something_pattern_agda) - [The \"Is Something\" Pattern in Agda](https://danilafe.com/blog/agda_is_pattern/)
-* [2023-09-02, 13:09:39](https://lobste.rs/s/rbuvrc/worst_programmer) - [The Worst Programmer](https://dannorth.net/2023/09/02/the-worst-programmer/)
 
 ## [Archives](archives/index.md)
 
