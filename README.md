@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-04, 15:41:15](https://lobste.rs/s/umpc5t/bring_your_own_interface) - [Bring your own interface](https://blog.verygoodsoftwarenotvirus.ru/posts/interfaces/)
 * [2023-09-04, 14:39:46](https://lobste.rs/s/eg4drx/writing_simple_web_scraper_using_bash) - [Writing a simple web scraper using bash](https://muhammadraza.me/2023/webscraping-in-bash/)
 * [2023-09-04, 14:34:24](https://lobste.rs/s/nnlyqs/haskell_mini_patterns_handbook_2020) - [Haskell mini-patterns handbook (2020)](https://kowainik.github.io/posts/haskell-mini-patterns)
 * [2023-09-04, 13:37:40](https://lobste.rs/s/chzkxq/slint_ui_1_2_released_with_enhanced) - [Slint UI 1.2 Released with Enhanced Platform Abstraction](https://slint.dev/blog/slint-1.2-released)
@@ -24,7 +25,6 @@
 * [2023-09-03, 11:18:24](https://lobste.rs/s/7rzyl2/review_glove80_ergonomic_keyboard) - [Review: Glove80 Ergonomic Keyboard](https://danieldk.eu/Posts/2023-09-03-Glove80.html)
 * [2023-09-03, 10:39:12](https://lobste.rs/s/s5a5ul/what_s_up_python_new_packaging_proposal) - [What's up Python? New packaging proposal, Python in Excel, a piano in the shell](https://www.bitecode.dev/p/whats-up-python-new-packaging-proposal)
 * [2023-09-03, 08:11:23](https://lobste.rs/s/dilm9w/where_do_you_get_your_science_technology) - [Where do you get your science/technology/math news?](https://lobste.rs/s/dilm9w/where_do_you_get_your_science_technology)
-* [2023-09-03, 06:28:56](https://lobste.rs/s/zcbxs3/gameroy_jit_compilation_high_accuracy) - [GameRoy: JIT compilation in High-Accuracy Game Boy Emulation](https://rodrigodd.github.io/2023/09/02/gameroy-jit.html)
 
 ## [Archives](archives/index.md)
 

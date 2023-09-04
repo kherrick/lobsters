@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-04](index.md)
 
+* [2023-09-04, 15:41:15](https://lobste.rs/s/umpc5t/bring_your_own_interface) - [Bring your own interface](https://blog.verygoodsoftwarenotvirus.ru/posts/interfaces/)
 * [2023-09-04, 14:39:46](https://lobste.rs/s/eg4drx/writing_simple_web_scraper_using_bash) - [Writing a simple web scraper using bash](https://muhammadraza.me/2023/webscraping-in-bash/)
 * [2023-09-04, 14:34:24](https://lobste.rs/s/nnlyqs/haskell_mini_patterns_handbook_2020) - [Haskell mini-patterns handbook (2020)](https://kowainik.github.io/posts/haskell-mini-patterns)
 * [2023-09-04, 13:37:40](https://lobste.rs/s/chzkxq/slint_ui_1_2_released_with_enhanced) - [Slint UI 1.2 Released with Enhanced Platform Abstraction](https://slint.dev/blog/slint-1.2-released)
