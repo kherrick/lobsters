@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-05, 07:06:37](https://lobste.rs/s/ltugsw/fast_track_tip) - [The fast track tip](https://www.bitecode.dev/p/the-fast-track-tip)
 * [2023-09-05, 06:11:03](https://lobste.rs/s/ebfljz/when_url_parsers_disagree_cve_2023_38633) - [When URL parsers disagree (CVE-2023-38633)](https://www.canva.dev/blog/engineering/when-url-parsers-disagree-cve-2023-38633/)
 * [2023-09-05, 06:04:22](https://lobste.rs/s/uykapx/emacs_bedrock_stepping_stones_better) - [emacs-bedrock: Stepping stones to a better Emacs experience](https://sr.ht/~ashton314/emacs-bedrock/)
 * [2023-09-05, 03:18:20](https://lobste.rs/s/4jqm4s/time_preserve_those_floppy_disks) - [Time to preserve those floppy disks](https://www.patreon.com/posts/78074244)
@@ -23,7 +24,6 @@
 * [2023-09-03, 23:01:14](https://lobste.rs/s/9v4oym/everything_i_know_about_floppy_disks) - [Everything I know about floppy disks](https://thejpster.org.uk/blog/blog-2023-08-28/)
 * [2023-09-03, 21:03:15](https://lobste.rs/s/zvcr2j/apple_letter_heat_initiative) - [Apple letter to Heat Initiative](https://s3.documentcloud.org/documents/23933180/apple-letter-to-heat-initiative.pdf)
 * [2023-09-03, 16:37:44](https://lobste.rs/s/darunh/apple_already_shipped_attestation_on_web) - [Apple already shipped attestation on the web, and we barely noticed](https://httptoolkit.com/blog/apple-private-access-tokens-attestation/)
-* [2023-09-03, 13:19:14](https://lobste.rs/s/sbloj5/boiling_frog_digital_freedom) - [The boiling frog of digital freedom](https://gazoche.xyz/posts/boiling-frog/)
 * [2023-09-03, 11:18:24](https://lobste.rs/s/7rzyl2/review_glove80_ergonomic_keyboard) - [Review: Glove80 Ergonomic Keyboard](https://danieldk.eu/Posts/2023-09-03-Glove80.html)
 
 ## [Archives](archives/index.md)
