@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-09-05, 07:06:37",
-      "https://lobste.rs/s/ltugsw/fast_track_tip"
-    ],
-    [
-      "The fast track tip",
-      "https://www.bitecode.dev/p/the-fast-track-tip"
-    ]
-  ],
-  [
-    [
       "2023-09-05, 06:11:03",
       "https://lobste.rs/s/ebfljz/when_url_parsers_disagree_cve_2023_38633"
     ],
@@ -177,6 +167,16 @@
     [
       "Slint UI 1.2 Released with Enhanced Platform Abstraction",
       "https://slint.dev/blog/slint-1.2-released"
+    ]
+  ],
+  [
+    [
+      "2023-09-04, 13:06:55",
+      "https://lobste.rs/s/dpnjqd/juno_lang_lisp_compiles_js_browser_based"
+    ],
+    [
+      "Juno lang: a Lisp that compiles to JS, browser-based IDE, ability to save/restore applications",
+      "https://github.com/KinaKnowledge/juno-lang"
     ]
   ],
   [
