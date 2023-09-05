@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-09-04, 19:04:32",
-      "https://lobste.rs/s/uglyrt/reviving_sega_s_forgotten_golf_mmo_after"
-    ],
-    [
-      "Reviving Sega's forgotten golf MMO after 14 years",
-      "https://wuffs.org/blog/reviving-sega-splash-golf-part-2"
-    ]
-  ],
-  [
-    [
       "2023-09-04, 17:56:41",
       "https://lobste.rs/s/tszzzl/dsls_are_waste_time"
     ],
@@ -217,6 +207,16 @@
     [
       "Apple already shipped attestation on the web, and we barely noticed",
       "https://httptoolkit.com/blog/apple-private-access-tokens-attestation/"
+    ]
+  ],
+  [
+    [
+      "2023-09-03, 15:43:09",
+      "https://lobste.rs/s/pewivz/hacking_timex_m851"
+    ],
+    [
+      "Hacking the Timex m851",
+      "https://lock.cmpxchg8b.com/timex.html"
     ]
   ],
   [
