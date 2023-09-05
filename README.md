@@ -5,7 +5,6 @@
 * [2023-09-05, 10:56:33](https://lobste.rs/s/2kffgg/alternative_devices_while_waiting_for) - [Alternative devices while waiting for the uConsole](https://forum.clockworkpi.com/t/alternative-devices-while-waiting-for-the-uconsole)
 * [2023-09-05, 10:41:20](https://lobste.rs/s/vzg1nm/inline_previous_result_why_you_should) - [Inline previous result and why you should edebug](https://xenodium.com/inline-previous-result-and-why-you-should-edebug/)
 * [2023-09-05, 08:46:22](https://lobste.rs/s/5i9ekp/amiga_systems_programming_2023) - [Amiga Systems Programming in 2023](https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023/)
-* [2023-09-05, 07:45:21](https://lobste.rs/s/ejapc3/adopting_freebsd_as_your_open_source_os) - [Adopting FreeBSD as Your Open Source OS: Benefits and Considerations](https://www.javacodegeeks.com/2023/09/adopting-freebsd-as-your-open-source-operating-system-benefits-considerations.html)
 * [2023-09-05, 07:34:27](https://lobste.rs/s/8uhm2e/freebsd_containers_on_macos) - [FreeBSD containers on macOS](https://github.com/davidchisnall/container-vm-scripts)
 * [2023-09-05, 06:11:03](https://lobste.rs/s/ebfljz/when_url_parsers_disagree_cve_2023_38633) - [When URL parsers disagree (CVE-2023-38633)](https://www.canva.dev/blog/engineering/when-url-parsers-disagree-cve-2023-38633/)
 * [2023-09-05, 06:04:22](https://lobste.rs/s/uykapx/emacs_bedrock_stepping_stones_better) - [emacs-bedrock: Stepping stones to a better Emacs experience](https://sr.ht/~ashton314/emacs-bedrock/)
@@ -25,6 +24,7 @@
 * [2023-09-04, 08:54:16](https://lobste.rs/s/xfetvt/github_has_too_many_hidden_features) - [GitHub has too many hidden features](https://buttondown.email/hillelwayne/archive/github-has-too-many-hidden-features/)
 * [2023-09-04, 08:10:49](https://lobste.rs/s/egqnl8/wayland_screen_savers) - [Wayland and screen savers](https://www.jwz.org/blog/2023/09/wayland-and-screen-savers/)
 * [2023-09-03, 16:37:44](https://lobste.rs/s/darunh/apple_already_shipped_attestation_on_web) - [Apple already shipped attestation on the web, and we barely noticed](https://httptoolkit.com/blog/apple-private-access-tokens-attestation/)
+* [2023-09-03, 11:18:24](https://lobste.rs/s/7rzyl2/review_glove80_ergonomic_keyboard) - [Review: Glove80 Ergonomic Keyboard](https://danieldk.eu/Posts/2023-09-03-Glove80.html)
 
 ## [Archives](archives/index.md)
 
