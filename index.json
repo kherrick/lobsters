@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-05, 18:39:44",
+      "https://lobste.rs/s/jn0h8c/manjaro_23_0_uranos_released"
+    ],
+    [
+      "Manjaro 23.0 Uranos released",
+      "https://forum.manjaro.org/t/manjaro-23-0-uranos-released/147448"
+    ]
+  ],
+  [
+    [
       "2023-09-05, 17:07:59",
       "https://lobste.rs/s/unrdqi/feature_flag_relay_race"
     ],
@@ -237,16 +247,6 @@
     [
       "Wayland and screen savers",
       "https://www.jwz.org/blog/2023/09/wayland-and-screen-savers/"
-    ]
-  ],
-  [
-    [
-      "2023-09-03, 16:37:44",
-      "https://lobste.rs/s/darunh/apple_already_shipped_attestation_on_web"
-    ],
-    [
-      "Apple already shipped attestation on the web, and we barely noticed",
-      "https://httptoolkit.com/blog/apple-private-access-tokens-attestation/"
     ]
   ]
 ]
