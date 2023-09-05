@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-05](index.md)
 
+* [2023-09-05, 08:46:22](https://lobste.rs/s/5i9ekp/amiga_systems_programming_2023) - [Amiga Systems Programming in 2023](https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023/)
 * [2023-09-05, 07:45:21](https://lobste.rs/s/ejapc3/adopting_freebsd_as_your_open_source_os) - [Adopting FreeBSD as Your Open Source OS: Benefits and Considerations](https://www.javacodegeeks.com/2023/09/adopting-freebsd-as-your-open-source-operating-system-benefits-considerations.html)
 * [2023-09-05, 07:34:27](https://lobste.rs/s/8uhm2e/freebsd_containers_on_macos) - [FreeBSD containers on macOS](https://github.com/davidchisnall/container-vm-scripts)
 * [2023-09-05, 07:06:37](https://lobste.rs/s/ltugsw/fast_track_tip) - [The fast track tip](https://www.bitecode.dev/p/the-fast-track-tip)
