@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-05, 14:13:06](https://lobste.rs/s/0dpadp/rhovas_programming_language_for_api) - [Rhovas: A programming language for API design and enforcement](https://rhovas.dev/)
 * [2023-09-05, 13:39:00](https://lobste.rs/s/qqbfdo/revamping_bpftrace_s_ci_with_nix) - [Revamping bpftrace’s CI with Nix](https://dxuuu.xyz/bpftrace-nix.html)
 * [2023-09-05, 11:52:59](https://lobste.rs/s/hfhdd7/mastering_curl_interactive_text_guide) - [Mastering curl: interactive text guide](https://antonz.org/mastering-curl/)
 * [2023-09-05, 10:56:33](https://lobste.rs/s/2kffgg/alternative_devices_while_waiting_for) - [Alternative devices while waiting for the uConsole](https://forum.clockworkpi.com/t/alternative-devices-while-waiting-for-the-uconsole)
@@ -24,7 +25,6 @@
 * [2023-09-04, 08:54:16](https://lobste.rs/s/xfetvt/github_has_too_many_hidden_features) - [GitHub has too many hidden features](https://buttondown.email/hillelwayne/archive/github-has-too-many-hidden-features/)
 * [2023-09-04, 08:10:49](https://lobste.rs/s/egqnl8/wayland_screen_savers) - [Wayland and screen savers](https://www.jwz.org/blog/2023/09/wayland-and-screen-savers/)
 * [2023-09-03, 16:37:44](https://lobste.rs/s/darunh/apple_already_shipped_attestation_on_web) - [Apple already shipped attestation on the web, and we barely noticed](https://httptoolkit.com/blog/apple-private-access-tokens-attestation/)
-* [2023-09-03, 11:18:24](https://lobste.rs/s/7rzyl2/review_glove80_ergonomic_keyboard) - [Review: Glove80 Ergonomic Keyboard](https://danieldk.eu/Posts/2023-09-03-Glove80.html)
 
 ## [Archives](archives/index.md)
 
