@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-05, 19:10:47](https://lobste.rs/s/8cfehf/carbon_emissions_browser_devtools) - [Carbon Emissions in Browser DevTools - Firefox Profiler and CO2.js](https://www.thegreenwebfoundation.org/news/carbon-emissions-in-browser-devtools-firefox-profiler-and-co2-js/)
 * [2023-09-05, 18:39:44](https://lobste.rs/s/jn0h8c/manjaro_23_0_uranos_released) - [Manjaro 23.0 Uranos released](https://forum.manjaro.org/t/manjaro-23-0-uranos-released/147448)
 * [2023-09-05, 17:07:59](https://lobste.rs/s/unrdqi/feature_flag_relay_race) - [The Feature Flag Relay Race](https://blog.flippercloud.io/the-feature-flag-relay-race/)
 * [2023-09-05, 16:16:12](https://lobste.rs/s/vsifq9/why_i_two_space) - [Why I Two-Space](https://stevelosh.com/blog/2012/10/why-i-two-space/)
@@ -18,7 +19,6 @@
 * [2023-09-05, 03:18:20](https://lobste.rs/s/4jqm4s/time_preserve_those_floppy_disks) - [Time to preserve those floppy disks](https://www.patreon.com/posts/78074244)
 * [2023-09-04, 20:38:24](https://lobste.rs/s/bwoef7/llm_now_provides_tools_for_working_with) - [LLM now provides tools for working with embeddings](https://simonwillison.net/2023/Sep/4/llm-embeddings/)
 * [2023-09-04, 19:23:25](https://lobste.rs/s/qxiynu/writing_c_compiler_500_lines_python) - [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)
-* [2023-09-04, 17:56:41](https://lobste.rs/s/tszzzl/dsls_are_waste_time) - [DSLs are a waste of time](https://leebriggs.co.uk/blog/2023/09/04/dsl.html)
 * [2023-09-04, 16:42:12](https://lobste.rs/s/5i3p04/curl_wget_venn_diagram) - [The curl-wget Venn diagram](https://daniel.haxx.se/blog/2023/09/04/the-curl-wget-venn-diagram/)
 * [2023-09-04, 15:41:15](https://lobste.rs/s/umpc5t/bring_your_own_interface) - [Bring your own interface](https://blog.verygoodsoftwarenotvirus.ru/posts/interfaces/)
 * [2023-09-04, 14:39:46](https://lobste.rs/s/eg4drx/writing_simple_web_scraper_using_bash) - [Writing a simple web scraper using bash](https://muhammadraza.me/2023/webscraping-in-bash/)
