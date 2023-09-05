@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-05](index.md)
 
+* [2023-09-05, 13:39:00](https://lobste.rs/s/qqbfdo/revamping_bpftrace_s_ci_with_nix) - [Revamping bpftrace’s CI with Nix](https://dxuuu.xyz/bpftrace-nix.html)
 * [2023-09-05, 11:52:59](https://lobste.rs/s/hfhdd7/mastering_curl_interactive_text_guide) - [Mastering curl: interactive text guide](https://antonz.org/mastering-curl/)
 * [2023-09-05, 10:56:33](https://lobste.rs/s/2kffgg/alternative_devices_while_waiting_for) - [Alternative devices while waiting for the uConsole](https://forum.clockworkpi.com/t/alternative-devices-while-waiting-for-the-uconsole)
 * [2023-09-05, 10:41:20](https://lobste.rs/s/vzg1nm/inline_previous_result_why_you_should) - [Inline previous result and why you should edebug](https://xenodium.com/inline-previous-result-and-why-you-should-edebug/)
