@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-09-05, 19:54:17](https://lobste.rs/s/io5blv/profile_guided_optimization_go_1_2) - [Profile-guided optimization in Go 1.2](https://go.dev/blog/pgo)
+* [2023-09-05, 19:54:17](https://lobste.rs/s/io5blv/profile_guided_optimization_go_1_21) - [Profile-guided optimization in Go 1.21](https://go.dev/blog/pgo)
 * [2023-09-05, 19:39:54](https://lobste.rs/s/7r9h47/everything_you_need_know_about) - [Everything you need to know about configuration and secret management in .NET](https://stenbrinke.nl/blog/configuration-and-secret-management-in-dotnet/)
 * [2023-09-05, 19:31:57](https://lobste.rs/s/b50akc/tdd_doesn_t_force_good_design) - [TDD Doesn't Force Good Design](https://www.aaronbruce.com/posts/tests-dont-force-good-desgin/)
 * [2023-09-05, 19:10:47](https://lobste.rs/s/8cfehf/carbon_emissions_browser_devtools) - [Carbon Emissions in Browser DevTools - Firefox Profiler and CO2.js](https://www.thegreenwebfoundation.org/news/carbon-emissions-in-browser-devtools-firefox-profiler-and-co2-js/)
