@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-05, 16:16:12](https://lobste.rs/s/vsifq9/why_i_two_space) - [Why I Two-Space](https://stevelosh.com/blog/2012/10/why-i-two-space/)
 * [2023-09-05, 16:02:40](https://lobste.rs/s/3efqsk/learn_webassembly_by_writing_small) - [Learn WebAssembly by writing small programs](https://github.com/EmNudge/watlings)
 * [2023-09-05, 15:59:53](https://lobste.rs/s/rnpghh/zsa_voyager_low_profile_split_keyboard) - [ZSA Voyager: Low profile split keyboard](https://www.zsa.io/voyager/)
 * [2023-09-05, 14:55:08](https://lobste.rs/s/thylmz/zx_tool_for_writing_better_scripts) - [Zx - a tool for writing better scripts](https://google.github.io/zx/)
@@ -20,7 +21,6 @@
 * [2023-09-04, 16:42:12](https://lobste.rs/s/5i3p04/curl_wget_venn_diagram) - [The curl-wget Venn diagram](https://daniel.haxx.se/blog/2023/09/04/the-curl-wget-venn-diagram/)
 * [2023-09-04, 15:41:15](https://lobste.rs/s/umpc5t/bring_your_own_interface) - [Bring your own interface](https://blog.verygoodsoftwarenotvirus.ru/posts/interfaces/)
 * [2023-09-04, 14:39:46](https://lobste.rs/s/eg4drx/writing_simple_web_scraper_using_bash) - [Writing a simple web scraper using bash](https://muhammadraza.me/2023/webscraping-in-bash/)
-* [2023-09-04, 13:37:40](https://lobste.rs/s/chzkxq/slint_ui_1_2_released_with_enhanced) - [Slint UI 1.2 Released with Enhanced Platform Abstraction](https://slint.dev/blog/slint-1.2-released)
 * [2023-09-04, 12:02:00](https://lobste.rs/s/rp6t6x/pretendo_network) - [Pretendo Network](https://pretendo.network/)
 * [2023-09-04, 08:54:16](https://lobste.rs/s/xfetvt/github_has_too_many_hidden_features) - [GitHub has too many hidden features](https://buttondown.email/hillelwayne/archive/github-has-too-many-hidden-features/)
 * [2023-09-04, 08:10:49](https://lobste.rs/s/egqnl8/wayland_screen_savers) - [Wayland and screen savers](https://www.jwz.org/blog/2023/09/wayland-and-screen-savers/)
