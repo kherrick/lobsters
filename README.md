@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-05, 07:34:27](https://lobste.rs/s/8uhm2e/freebsd_containers_on_macos) - [FreeBSD containers on macOS](https://github.com/davidchisnall/container-vm-scripts)
 * [2023-09-05, 07:06:37](https://lobste.rs/s/ltugsw/fast_track_tip) - [The fast track tip](https://www.bitecode.dev/p/the-fast-track-tip)
 * [2023-09-05, 06:11:03](https://lobste.rs/s/ebfljz/when_url_parsers_disagree_cve_2023_38633) - [When URL parsers disagree (CVE-2023-38633)](https://www.canva.dev/blog/engineering/when-url-parsers-disagree-cve-2023-38633/)
 * [2023-09-05, 06:04:22](https://lobste.rs/s/uykapx/emacs_bedrock_stepping_stones_better) - [emacs-bedrock: Stepping stones to a better Emacs experience](https://sr.ht/~ashton314/emacs-bedrock/)
@@ -20,7 +21,6 @@
 * [2023-09-04, 10:34:08](https://lobste.rs/s/c621jg/omniscient_linter) - [The omniscient linter](https://jfmengels.net/the-omniscient-linter/)
 * [2023-09-04, 08:54:16](https://lobste.rs/s/xfetvt/github_has_too_many_hidden_features) - [GitHub has too many hidden features](https://buttondown.email/hillelwayne/archive/github-has-too-many-hidden-features/)
 * [2023-09-04, 08:10:49](https://lobste.rs/s/egqnl8/wayland_screen_savers) - [Wayland and screen savers](https://www.jwz.org/blog/2023/09/wayland-and-screen-savers/)
-* [2023-09-04, 00:14:05](https://lobste.rs/s/bkyuw5/textbook_review_performance_modeling) - [Textbook Review - Performance Modeling and Design of Computer Systems: Queueing Theory in Action](https://emptysqua.re/blog/review-queue-theory-book/)
 * [2023-09-03, 23:01:14](https://lobste.rs/s/9v4oym/everything_i_know_about_floppy_disks) - [Everything I know about floppy disks](https://thejpster.org.uk/blog/blog-2023-08-28/)
 * [2023-09-03, 21:03:15](https://lobste.rs/s/zvcr2j/apple_letter_heat_initiative) - [Apple letter to Heat Initiative](https://s3.documentcloud.org/documents/23933180/apple-letter-to-heat-initiative.pdf)
 * [2023-09-03, 16:37:44](https://lobste.rs/s/darunh/apple_already_shipped_attestation_on_web) - [Apple already shipped attestation on the web, and we barely noticed](https://httptoolkit.com/blog/apple-private-access-tokens-attestation/)
