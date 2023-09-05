@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-09-05, 15:42:45](https://lobste.rs/s/4hbwk5/hoard_bitfonts) - [Hoard of bitfonts](http://robhagemans.github.io/monobit/)
 * [2023-09-05, 14:55:08](https://lobste.rs/s/thylmz/zx_tool_for_writing_better_scripts) - [Zx - a tool for writing better scripts](https://google.github.io/zx/)
 * [2023-09-05, 14:13:06](https://lobste.rs/s/0dpadp/rhovas_programming_language_for_api) - [Rhovas: A programming language for API design and enforcement](https://rhovas.dev/)
 * [2023-09-05, 13:39:00](https://lobste.rs/s/qqbfdo/revamping_bpftrace_s_ci_with_nix) - [Revamping bpftrace’s CI with Nix](https://dxuuu.xyz/bpftrace-nix.html)
@@ -22,6 +21,7 @@
 * [2023-09-04, 13:37:40](https://lobste.rs/s/chzkxq/slint_ui_1_2_released_with_enhanced) - [Slint UI 1.2 Released with Enhanced Platform Abstraction](https://slint.dev/blog/slint-1.2-released)
 * [2023-09-04, 12:02:00](https://lobste.rs/s/rp6t6x/pretendo_network) - [Pretendo Network](https://pretendo.network/)
 * [2023-09-04, 11:21:11](https://lobste.rs/s/9sn4ry/ieee_floating_point_is_like_having_built) - [IEEE floating point is like having a built-in Stradivari in each home appliance (2008)](https://yosefk.com/blog/consistency-how-to-defeat-the-purpose-of-ieee-floating-point.html)
+* [2023-09-04, 10:53:09](https://lobste.rs/s/uajsg5/top_programming_languages_2023) - [The Top Programming Languages 2023](https://spectrum.ieee.org/the-top-programming-languages-2023)
 * [2023-09-04, 08:54:16](https://lobste.rs/s/xfetvt/github_has_too_many_hidden_features) - [GitHub has too many hidden features](https://buttondown.email/hillelwayne/archive/github-has-too-many-hidden-features/)
 * [2023-09-04, 08:10:49](https://lobste.rs/s/egqnl8/wayland_screen_savers) - [Wayland and screen savers](https://www.jwz.org/blog/2023/09/wayland-and-screen-savers/)
 * [2023-09-03, 16:37:44](https://lobste.rs/s/darunh/apple_already_shipped_attestation_on_web) - [Apple already shipped attestation on the web, and we barely noticed](https://httptoolkit.com/blog/apple-private-access-tokens-attestation/)
