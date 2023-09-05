@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-05](index.md)
 
+* [2023-09-05, 18:39:44](https://lobste.rs/s/jn0h8c/manjaro_23_0_uranos_released) - [Manjaro 23.0 Uranos released](https://forum.manjaro.org/t/manjaro-23-0-uranos-released/147448)
 * [2023-09-05, 17:07:59](https://lobste.rs/s/unrdqi/feature_flag_relay_race) - [The Feature Flag Relay Race](https://blog.flippercloud.io/the-feature-flag-relay-race/)
 * [2023-09-05, 16:16:12](https://lobste.rs/s/vsifq9/why_i_two_space) - [Why I Two-Space](https://stevelosh.com/blog/2012/10/why-i-two-space/)
 * [2023-09-05, 16:02:40](https://lobste.rs/s/3efqsk/learn_webassembly_by_writing_small) - [Learn WebAssembly by writing small programs](https://github.com/EmNudge/watlings)
