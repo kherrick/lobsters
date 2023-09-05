@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-05, 16:16:12",
+      "https://lobste.rs/s/vsifq9/why_i_two_space"
+    ],
+    [
+      "Why I Two-Space",
+      "https://stevelosh.com/blog/2012/10/why-i-two-space/"
+    ]
+  ],
+  [
+    [
       "2023-09-05, 16:02:40",
       "https://lobste.rs/s/3efqsk/learn_webassembly_by_writing_small"
     ],
@@ -197,16 +207,6 @@
     [
       "Writing a simple web scraper using bash",
       "https://muhammadraza.me/2023/webscraping-in-bash/"
-    ]
-  ],
-  [
-    [
-      "2023-09-04, 13:37:40",
-      "https://lobste.rs/s/chzkxq/slint_ui_1_2_released_with_enhanced"
-    ],
-    [
-      "Slint UI 1.2 Released with Enhanced Platform Abstraction",
-      "https://slint.dev/blog/slint-1.2-released"
     ]
   ],
   [
