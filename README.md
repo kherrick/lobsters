@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-05, 20:30:40](https://lobste.rs/s/flcm5h/year_after_disastrous_breach_lastpass) - [A year after the disastrous breach, LastPass has not improved](https://palant.info/2023/09/05/a-year-after-the-disastrous-breach-lastpass-has-not-improved/)
 * [2023-09-05, 19:54:17](https://lobste.rs/s/io5blv/profile_guided_optimization_go_1_21) - [Profile-guided optimization in Go 1.21](https://go.dev/blog/pgo)
 * [2023-09-05, 19:39:54](https://lobste.rs/s/7r9h47/everything_you_need_know_about) - [Everything you need to know about configuration and secret management in .NET](https://stenbrinke.nl/blog/configuration-and-secret-management-in-dotnet/)
 * [2023-09-05, 19:31:57](https://lobste.rs/s/b50akc/tdd_doesn_t_force_good_design) - [TDD Doesn't Force Good Design](https://www.aaronbruce.com/posts/tests-dont-force-good-desgin/)
@@ -16,7 +17,6 @@
 * [2023-09-05, 10:41:20](https://lobste.rs/s/vzg1nm/inline_previous_result_why_you_should) - [Inline previous result and why you should edebug](https://xenodium.com/inline-previous-result-and-why-you-should-edebug/)
 * [2023-09-05, 08:46:22](https://lobste.rs/s/5i9ekp/amiga_systems_programming_2023) - [Amiga Systems Programming in 2023](https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023/)
 * [2023-09-05, 07:34:27](https://lobste.rs/s/8uhm2e/freebsd_containers_on_macos) - [FreeBSD containers on macOS](https://github.com/davidchisnall/container-vm-scripts)
-* [2023-09-05, 06:11:03](https://lobste.rs/s/ebfljz/when_url_parsers_disagree_cve_2023_38633) - [When URL parsers disagree (CVE-2023-38633)](https://www.canva.dev/blog/engineering/when-url-parsers-disagree-cve-2023-38633/)
 * [2023-09-05, 06:04:22](https://lobste.rs/s/uykapx/emacs_bedrock_stepping_stones_better) - [emacs-bedrock: Stepping stones to a better Emacs experience](https://sr.ht/~ashton314/emacs-bedrock/)
 * [2023-09-05, 03:18:20](https://lobste.rs/s/4jqm4s/time_preserve_those_floppy_disks) - [Time to preserve those floppy disks](https://www.patreon.com/posts/78074244)
 * [2023-09-04, 20:38:24](https://lobste.rs/s/bwoef7/llm_now_provides_tools_for_working_with) - [LLM now provides tools for working with embeddings](https://simonwillison.net/2023/Sep/4/llm-embeddings/)
