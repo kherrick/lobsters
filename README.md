@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-05, 19:39:54](https://lobste.rs/s/7r9h47/everything_you_need_know_about) - [Everything you need to know about configuration and secret management in .NET](https://stenbrinke.nl/blog/configuration-and-secret-management-in-dotnet/)
 * [2023-09-05, 19:31:57](https://lobste.rs/s/b50akc/tdd_doesn_t_force_good_design) - [TDD Doesn't Force Good Design](https://www.aaronbruce.com/posts/tests-dont-force-good-desgin/)
 * [2023-09-05, 19:10:47](https://lobste.rs/s/8cfehf/carbon_emissions_browser_devtools) - [Carbon Emissions in Browser DevTools - Firefox Profiler and CO2.js](https://www.thegreenwebfoundation.org/news/carbon-emissions-in-browser-devtools-firefox-profiler-and-co2-js/)
 * [2023-09-05, 18:39:44](https://lobste.rs/s/jn0h8c/manjaro_23_0_uranos_released) - [Manjaro 23.0 Uranos released](https://forum.manjaro.org/t/manjaro-23-0-uranos-released/147448)
@@ -22,7 +23,6 @@
 * [2023-09-04, 19:23:25](https://lobste.rs/s/qxiynu/writing_c_compiler_500_lines_python) - [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)
 * [2023-09-04, 16:42:12](https://lobste.rs/s/5i3p04/curl_wget_venn_diagram) - [The curl-wget Venn diagram](https://daniel.haxx.se/blog/2023/09/04/the-curl-wget-venn-diagram/)
 * [2023-09-04, 15:41:15](https://lobste.rs/s/umpc5t/bring_your_own_interface) - [Bring your own interface](https://blog.verygoodsoftwarenotvirus.ru/posts/interfaces/)
-* [2023-09-04, 14:39:46](https://lobste.rs/s/eg4drx/writing_simple_web_scraper_using_bash) - [Writing a simple web scraper using bash](https://muhammadraza.me/2023/webscraping-in-bash/)
 * [2023-09-04, 08:54:16](https://lobste.rs/s/xfetvt/github_has_too_many_hidden_features) - [GitHub has too many hidden features](https://buttondown.email/hillelwayne/archive/github-has-too-many-hidden-features/)
 * [2023-09-04, 08:10:49](https://lobste.rs/s/egqnl8/wayland_screen_savers) - [Wayland and screen savers](https://www.jwz.org/blog/2023/09/wayland-and-screen-savers/)
 
