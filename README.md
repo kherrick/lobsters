@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-05, 14:55:08](https://lobste.rs/s/thylmz/zx_tool_for_writing_better_scripts) - [Zx - a tool for writing better scripts](https://google.github.io/zx/)
 * [2023-09-05, 14:13:06](https://lobste.rs/s/0dpadp/rhovas_programming_language_for_api) - [Rhovas: A programming language for API design and enforcement](https://rhovas.dev/)
 * [2023-09-05, 13:39:00](https://lobste.rs/s/qqbfdo/revamping_bpftrace_s_ci_with_nix) - [Revamping bpftrace’s CI with Nix](https://dxuuu.xyz/bpftrace-nix.html)
 * [2023-09-05, 11:52:59](https://lobste.rs/s/hfhdd7/mastering_curl_interactive_text_guide) - [Mastering curl: interactive text guide](https://antonz.org/mastering-curl/)
@@ -17,7 +18,6 @@
 * [2023-09-04, 16:42:12](https://lobste.rs/s/5i3p04/curl_wget_venn_diagram) - [The curl-wget Venn diagram](https://daniel.haxx.se/blog/2023/09/04/the-curl-wget-venn-diagram/)
 * [2023-09-04, 15:41:15](https://lobste.rs/s/umpc5t/bring_your_own_interface) - [Bring your own interface](https://blog.verygoodsoftwarenotvirus.ru/posts/interfaces/)
 * [2023-09-04, 14:39:46](https://lobste.rs/s/eg4drx/writing_simple_web_scraper_using_bash) - [Writing a simple web scraper using bash](https://muhammadraza.me/2023/webscraping-in-bash/)
-* [2023-09-04, 14:34:24](https://lobste.rs/s/nnlyqs/haskell_mini_patterns_handbook_2020) - [Haskell mini-patterns handbook (2020)](https://kowainik.github.io/posts/haskell-mini-patterns)
 * [2023-09-04, 13:37:40](https://lobste.rs/s/chzkxq/slint_ui_1_2_released_with_enhanced) - [Slint UI 1.2 Released with Enhanced Platform Abstraction](https://slint.dev/blog/slint-1.2-released)
 * [2023-09-04, 12:02:00](https://lobste.rs/s/rp6t6x/pretendo_network) - [Pretendo Network](https://pretendo.network/)
 * [2023-09-04, 11:21:11](https://lobste.rs/s/9sn4ry/ieee_floating_point_is_like_having_built) - [IEEE floating point is like having a built-in Stradivari in each home appliance (2008)](https://yosefk.com/blog/consistency-how-to-defeat-the-purpose-of-ieee-floating-point.html)
