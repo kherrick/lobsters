@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-06](index.md)
 
+* [2023-09-06, 18:07:48](https://lobste.rs/s/fd7upk/from_editor_web_apps_issue_2_mar_apr_1997) - [From the Editor -- Web Apps, Issue 2 Mar/Apr 1997](https://www.w3.org/People/Connolly/9703-web-apps-essay.html)
 * [2023-09-06, 18:03:24](https://lobste.rs/s/9prx5m/making_sense_react_server_components) - [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
 * [2023-09-06, 17:35:11](https://lobste.rs/s/aiisyw/gaussian_splatting_is_pretty_cool) - [Gaussian Splatting is pretty cool](https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/)
 * [2023-09-06, 17:06:59](https://lobste.rs/s/hnwos1/xcom_crossplatform_graphics_user) - [XCOM, a \"crossplatform graphics user interface\"](http://xcom.infora.hu/index.html)
