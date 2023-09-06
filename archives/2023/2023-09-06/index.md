@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-06](index.md)
 
+* [2023-09-06, 13:34:30](https://lobste.rs/s/cv6afw/acidrain_concurrency_related_attacks_on) - [ACIDRain: Concurrency-Related Attacks on Database-Backed Web Applications (2017)](http://www.bailis.org/papers/acidrain-sigmod2017.pdf)
 * [2023-09-06, 11:10:51](https://lobste.rs/s/hm5el5/why_prefer_t_cleanup_defer) - [Why to prefer `t.Cleanup` to `defer`](https://brandur.org/fragments/go-prefer-t-cleanup-with-parallel-subtests)
 * [2023-09-06, 10:34:16](https://lobste.rs/s/idysrp/how_write_secure_jwt_library_if_you) - [How to Write a Secure JWT Library If You Absolutely Must](https://scottarc.blog/2023/09/06/how-to-write-a-secure-jwt-library-if-you-absolutely-must/)
 * [2023-09-06, 09:21:35](https://lobste.rs/s/voyfzz/bogus_cve_follow_ups) - [Bogus CVE follow-ups](https://daniel.haxx.se/blog/2023/09/05/bogus-cve-follow-ups/)
