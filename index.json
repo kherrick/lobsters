@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-06, 02:12:47",
+      "https://lobste.rs/s/a05jcz/understanding_request_latency_with"
+    ],
+    [
+      "Understanding Request Latency with Profiling",
+      "https://richardstartin.github.io/posts/wallclock-profiler"
+    ]
+  ],
+  [
+    [
       "2023-09-06, 00:55:15",
       "https://lobste.rs/s/zzq613/pure_wasm_game_life"
     ],
@@ -237,16 +247,6 @@
     [
       "Writing a C compiler in 500 lines of Python",
       "https://vgel.me/posts/c500/"
-    ]
-  ],
-  [
-    [
-      "2023-09-04, 08:54:16",
-      "https://lobste.rs/s/xfetvt/github_has_too_many_hidden_features"
-    ],
-    [
-      "GitHub has too many hidden features",
-      "https://buttondown.email/hillelwayne/archive/github-has-too-many-hidden-features/"
     ]
   ]
 ]
