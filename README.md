@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-06, 02:31:47](https://lobste.rs/s/itpf8g/experts_fear_crooks_are_cracking_keys) - [Experts Fear Crooks are Cracking Keys Stolen in LastPass Breach](https://krebsonsecurity.com/2023/09/experts-fear-crooks-are-cracking-keys-stolen-in-lastpass-breach/)
 * [2023-09-06, 02:12:47](https://lobste.rs/s/a05jcz/understanding_request_latency_with) - [Understanding Request Latency with Profiling](https://richardstartin.github.io/posts/wallclock-profiler)
 * [2023-09-06, 00:55:15](https://lobste.rs/s/zzq613/pure_wasm_game_life) - [Pure Wasm Game of Life](https://ashen.earth/wasm-game-of-life-1)
 * [2023-09-06, 00:17:22](https://lobste.rs/s/shiknq/squirrel_strings) - [Squirrel Strings](https://blog.brixit.nl/squirrel-strings/)
@@ -7,7 +8,6 @@
 * [2023-09-05, 21:00:12](https://lobste.rs/s/kl46df/new_eu_rules_smartphones_tablets_will) - [New EU Rules: Smartphones and Tablets will follow new ecodesign requirements by June 2025](https://repair.eu/news/new-eu-rules-smartphones-and-tablets-will-follow-new-ecodesign-requirements-by-june-2025/)
 * [2023-09-05, 20:30:40](https://lobste.rs/s/flcm5h/year_after_disastrous_breach_lastpass) - [A year after the disastrous breach, LastPass has not improved](https://palant.info/2023/09/05/a-year-after-the-disastrous-breach-lastpass-has-not-improved/)
 * [2023-09-05, 19:54:17](https://lobste.rs/s/io5blv/profile_guided_optimization_go_1_21) - [Profile-guided optimization in Go 1.21](https://go.dev/blog/pgo)
-* [2023-09-05, 19:39:54](https://lobste.rs/s/7r9h47/everything_you_need_know_about) - [Everything you need to know about configuration and secret management in .NET](https://stenbrinke.nl/blog/configuration-and-secret-management-in-dotnet/)
 * [2023-09-05, 19:31:57](https://lobste.rs/s/b50akc/tdd_doesn_t_force_good_design) - [TDD Doesn't Force Good Design](https://www.aaronbruce.com/posts/tests-dont-force-good-desgin/)
 * [2023-09-05, 19:10:47](https://lobste.rs/s/8cfehf/carbon_emissions_browser_devtools) - [Carbon Emissions in Browser DevTools - Firefox Profiler and CO2.js](https://www.thegreenwebfoundation.org/news/carbon-emissions-in-browser-devtools-firefox-profiler-and-co2-js/)
 * [2023-09-05, 17:07:59](https://lobste.rs/s/unrdqi/feature_flag_relay_race) - [The Feature Flag Relay Race](https://blog.flippercloud.io/the-feature-flag-relay-race/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-06](index.md)
 
+* [2023-09-06, 02:31:47](https://lobste.rs/s/itpf8g/experts_fear_crooks_are_cracking_keys) - [Experts Fear Crooks are Cracking Keys Stolen in LastPass Breach](https://krebsonsecurity.com/2023/09/experts-fear-crooks-are-cracking-keys-stolen-in-lastpass-breach/)
 * [2023-09-06, 02:12:47](https://lobste.rs/s/a05jcz/understanding_request_latency_with) - [Understanding Request Latency with Profiling](https://richardstartin.github.io/posts/wallclock-profiler)
 * [2023-09-06, 00:55:15](https://lobste.rs/s/zzq613/pure_wasm_game_life) - [Pure Wasm Game of Life](https://ashen.earth/wasm-game-of-life-1)
 * [2023-09-06, 00:17:22](https://lobste.rs/s/shiknq/squirrel_strings) - [Squirrel Strings](https://blog.brixit.nl/squirrel-strings/)
