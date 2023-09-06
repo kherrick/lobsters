@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2023-09-06](index.md)
 
+* [2023-09-06, 00:55:15](https://lobste.rs/s/zzq613/pure_wasm_game_life) - [Pure Wasm Game of Life](https://ashen.earth/wasm-game-of-life-1)
 * [2023-09-06, 00:17:22](https://lobste.rs/s/shiknq/squirrel_strings) - [Squirrel Strings](https://blog.brixit.nl/squirrel-strings/)
 * [2023-09-06, 00:07:40](https://lobste.rs/s/ul2bgi/annotated_history_modern_ai_deep_neural) - [Annotated history of modern AI and deep neural networks](https://people.idsia.ch/~juergen/deep-learning-history.html)
