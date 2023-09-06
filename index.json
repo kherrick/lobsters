@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-06, 08:27:55",
+      "https://lobste.rs/s/tw3bu2/modularization_approach_against"
+    ],
+    [
+      "A Modularization Approach Against Technical Debt",
+      "https://massimo-nazaria.github.io/modularization.html"
+    ]
+  ],
+  [
+    [
       "2023-09-06, 08:11:54",
       "https://lobste.rs/s/tlddmz/bloom_filters_beyond_illustrated"
     ],
@@ -107,16 +117,6 @@
     [
       "Carbon Emissions in Browser DevTools - Firefox Profiler and CO2.js",
       "https://www.thegreenwebfoundation.org/news/carbon-emissions-in-browser-devtools-firefox-profiler-and-co2-js/"
-    ]
-  ],
-  [
-    [
-      "2023-09-05, 17:07:59",
-      "https://lobste.rs/s/unrdqi/feature_flag_relay_race"
-    ],
-    [
-      "The Feature Flag Relay Race",
-      "https://blog.flippercloud.io/the-feature-flag-relay-race/"
     ]
   ],
   [
