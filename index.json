@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-06, 08:11:54",
+      "https://lobste.rs/s/tlddmz/bloom_filters_beyond_illustrated"
+    ],
+    [
+      "Bloom Filters and Beyond: An Illustrated Introduction and Implementation",
+      "https://codeconfessions.substack.com/p/bloom-filters-and-beyond"
+    ]
+  ],
+  [
+    [
       "2023-09-06, 05:51:54",
       "https://lobste.rs/s/sceokj/code_vulnerabilities_leak_emails_proton"
     ],
@@ -37,16 +47,6 @@
     [
       "Experts Fear Crooks are Cracking Keys Stolen in LastPass Breach",
       "https://krebsonsecurity.com/2023/09/experts-fear-crooks-are-cracking-keys-stolen-in-lastpass-breach/"
-    ]
-  ],
-  [
-    [
-      "2023-09-06, 02:12:47",
-      "https://lobste.rs/s/a05jcz/understanding_request_latency_with"
-    ],
-    [
-      "Understanding Request Latency with Profiling",
-      "https://richardstartin.github.io/posts/wallclock-profiler"
     ]
   ],
   [
