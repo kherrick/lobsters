@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-06, 10:34:16](https://lobste.rs/s/idysrp/how_write_secure_jwt_library_if_you) - [How to Write a Secure JWT Library If You Absolutely Must](https://scottarc.blog/2023/09/06/how-to-write-a-secure-jwt-library-if-you-absolutely-must/)
 * [2023-09-06, 09:21:35](https://lobste.rs/s/voyfzz/bogus_cve_follow_ups) - [Bogus CVE follow-ups](https://daniel.haxx.se/blog/2023/09/05/bogus-cve-follow-ups/)
 * [2023-09-06, 08:27:55](https://lobste.rs/s/tw3bu2/modularization_approach_against) - [A Modularization Approach Against Technical Debt](https://massimo-nazaria.github.io/modularization.html)
 * [2023-09-06, 08:11:54](https://lobste.rs/s/tlddmz/bloom_filters_beyond_illustrated) - [Bloom Filters and Beyond: An Illustrated Introduction and Implementation](https://codeconfessions.substack.com/p/bloom-filters-and-beyond)
 * [2023-09-06, 05:51:54](https://lobste.rs/s/sceokj/code_vulnerabilities_leak_emails_proton) - [Code Vulnerabilities Leak Emails in Proton Mail](https://www.sonarsource.com/blog/code-vulnerabilities-leak-emails-in-proton-mail/)
 * [2023-09-06, 05:02:25](https://lobste.rs/s/qw8ifh/correct_way_do_sentence_spacing) - [The Correct Way to do Sentence Spacing](https://www.kronopath.com/blog/the-correct-way-to-do-sentence-spacing/)
-* [2023-09-06, 03:18:09](https://lobste.rs/s/lywssq/zx_origins_8x8_bitmap_fonts) - [ZX Origins 8x8 Bitmap Fonts](https://damieng.com/typography/zx-origins/)
 * [2023-09-06, 00:55:15](https://lobste.rs/s/zzq613/pure_wasm_game_life) - [Pure Wasm Game of Life](https://ashen.earth/wasm-game-of-life-1)
 * [2023-09-05, 21:00:12](https://lobste.rs/s/kl46df/new_eu_rules_smartphones_tablets_will) - [New EU Rules: Smartphones and Tablets will follow new ecodesign requirements by June 2025](https://repair.eu/news/new-eu-rules-smartphones-and-tablets-will-follow-new-ecodesign-requirements-by-june-2025/)
 * [2023-09-05, 20:30:40](https://lobste.rs/s/flcm5h/year_after_disastrous_breach_lastpass) - [A year after the disastrous breach, LastPass has not improved](https://palant.info/2023/09/05/a-year-after-the-disastrous-breach-lastpass-has-not-improved/)
