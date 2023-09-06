@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-06, 19:19:27](https://lobste.rs/s/bnbr6a/compressing_single_color_image_various) - [Compressing a single-color image in various formats (2016)](https://cloudinary.com/blog/a_one_color_image_is_worth_two_thousand_words)
 * [2023-09-06, 18:52:48](https://lobste.rs/s/ex6q7x/results_major_technical_investigations) - [Results of Major Technical Investigations for Storm-0558 Key Acquisition](https://msrc.microsoft.com/blog/2023/09/results-of-major-technical-investigations-for-storm-0558-key-acquisition/)
 * [2023-09-06, 18:25:46](https://lobste.rs/s/suid1y/it_s_official_cars_are_worst_product) - [It’s Official: Cars Are the Worst Product Category We Have Ever Reviewed for Privacy](https://foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy/)
 * [2023-09-06, 18:07:48](https://lobste.rs/s/fd7upk/from_editor_web_apps_issue_2_mar_apr_1997) - [From the Editor -- Web Apps, Issue 2 Mar/Apr 1997](https://www.w3.org/People/Connolly/9703-web-apps-essay.html)
@@ -19,7 +20,6 @@
 * [2023-09-05, 21:00:12](https://lobste.rs/s/kl46df/new_eu_rules_smartphones_tablets_will) - [New EU Rules: Smartphones and Tablets will follow new ecodesign requirements by June 2025](https://repair.eu/news/new-eu-rules-smartphones-and-tablets-will-follow-new-ecodesign-requirements-by-june-2025/)
 * [2023-09-05, 20:30:40](https://lobste.rs/s/flcm5h/year_after_disastrous_breach_lastpass) - [A year after the disastrous breach, LastPass has not improved](https://palant.info/2023/09/05/a-year-after-the-disastrous-breach-lastpass-has-not-improved/)
 * [2023-09-05, 16:16:12](https://lobste.rs/s/vsifq9/why_i_two_space) - [Why I Two-Space](https://stevelosh.com/blog/2012/10/why-i-two-space/)
-* [2023-09-05, 16:02:40](https://lobste.rs/s/3efqsk/learn_webassembly_by_writing_small) - [Learn WebAssembly by writing small programs](https://github.com/EmNudge/watlings)
 * [2023-09-05, 15:59:53](https://lobste.rs/s/rnpghh/zsa_voyager_low_profile_split_keyboard) - [ZSA Voyager: Low profile split keyboard](https://www.zsa.io/voyager/)
 * [2023-09-05, 14:55:08](https://lobste.rs/s/thylmz/zx_tool_for_writing_better_scripts) - [Zx - a tool for writing better scripts](https://google.github.io/zx/)
 * [2023-09-05, 13:39:00](https://lobste.rs/s/qqbfdo/revamping_bpftrace_s_ci_with_nix) - [Revamping bpftrace’s CI with Nix](https://dxuuu.xyz/bpftrace-nix.html)

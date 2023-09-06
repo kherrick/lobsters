@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-06](index.md)
 
+* [2023-09-06, 19:19:27](https://lobste.rs/s/bnbr6a/compressing_single_color_image_various) - [Compressing a single-color image in various formats (2016)](https://cloudinary.com/blog/a_one_color_image_is_worth_two_thousand_words)
 * [2023-09-06, 18:52:48](https://lobste.rs/s/ex6q7x/results_major_technical_investigations) - [Results of Major Technical Investigations for Storm-0558 Key Acquisition](https://msrc.microsoft.com/blog/2023/09/results-of-major-technical-investigations-for-storm-0558-key-acquisition/)
 * [2023-09-06, 18:25:46](https://lobste.rs/s/suid1y/it_s_official_cars_are_worst_product) - [It’s Official: Cars Are the Worst Product Category We Have Ever Reviewed for Privacy](https://foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy/)
 * [2023-09-06, 18:07:48](https://lobste.rs/s/fd7upk/from_editor_web_apps_issue_2_mar_apr_1997) - [From the Editor -- Web Apps, Issue 2 Mar/Apr 1997](https://www.w3.org/People/Connolly/9703-web-apps-essay.html)
