@@ -22,8 +22,8 @@
 * [2023-09-05, 20:30:40](https://lobste.rs/s/flcm5h/year_after_disastrous_breach_lastpass) - [A year after the disastrous breach, LastPass has not improved](https://palant.info/2023/09/05/a-year-after-the-disastrous-breach-lastpass-has-not-improved/)
 * [2023-09-05, 16:16:12](https://lobste.rs/s/vsifq9/why_i_two_space) - [Why I Two-Space](https://stevelosh.com/blog/2012/10/why-i-two-space/)
 * [2023-09-05, 15:59:53](https://lobste.rs/s/rnpghh/zsa_voyager_low_profile_split_keyboard) - [ZSA Voyager: Low profile split keyboard](https://www.zsa.io/voyager/)
-* [2023-09-05, 14:55:08](https://lobste.rs/s/thylmz/zx_tool_for_writing_better_scripts) - [Zx - a tool for writing better scripts](https://google.github.io/zx/)
 * [2023-09-05, 13:39:00](https://lobste.rs/s/qqbfdo/revamping_bpftrace_s_ci_with_nix) - [Revamping bpftrace’s CI with Nix](https://dxuuu.xyz/bpftrace-nix.html)
+* [2023-09-05, 08:46:22](https://lobste.rs/s/5i9ekp/amiga_systems_programming_2023) - [Amiga Systems Programming in 2023](https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023/)
 * [2023-09-05, 07:34:27](https://lobste.rs/s/8uhm2e/freebsd_containers_on_macos) - [FreeBSD containers on macOS](https://github.com/davidchisnall/container-vm-scripts)
 
 ## [Archives](archives/index.md)
