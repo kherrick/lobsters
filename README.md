@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-06, 02:12:47](https://lobste.rs/s/a05jcz/understanding_request_latency_with) - [Understanding Request Latency with Profiling](https://richardstartin.github.io/posts/wallclock-profiler)
 * [2023-09-06, 00:55:15](https://lobste.rs/s/zzq613/pure_wasm_game_life) - [Pure Wasm Game of Life](https://ashen.earth/wasm-game-of-life-1)
 * [2023-09-06, 00:17:22](https://lobste.rs/s/shiknq/squirrel_strings) - [Squirrel Strings](https://blog.brixit.nl/squirrel-strings/)
 * [2023-09-06, 00:07:40](https://lobste.rs/s/ul2bgi/annotated_history_modern_ai_deep_neural) - [Annotated history of modern AI and deep neural networks](https://people.idsia.ch/~juergen/deep-learning-history.html)
@@ -24,7 +25,6 @@
 * [2023-09-05, 06:04:22](https://lobste.rs/s/uykapx/emacs_bedrock_stepping_stones_better) - [emacs-bedrock: Stepping stones to a better Emacs experience](https://sr.ht/~ashton314/emacs-bedrock/)
 * [2023-09-05, 03:18:20](https://lobste.rs/s/4jqm4s/time_preserve_those_floppy_disks) - [Time to preserve those floppy disks](https://www.patreon.com/posts/78074244)
 * [2023-09-04, 19:23:25](https://lobste.rs/s/qxiynu/writing_c_compiler_500_lines_python) - [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)
-* [2023-09-04, 08:54:16](https://lobste.rs/s/xfetvt/github_has_too_many_hidden_features) - [GitHub has too many hidden features](https://buttondown.email/hillelwayne/archive/github-has-too-many-hidden-features/)
 
 ## [Archives](archives/index.md)
 
