@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-06, 13:49:30",
+      "https://lobste.rs/s/wxs0rh/learn_where_some_network_sysctl"
+    ],
+    [
+      "Learn where some of the network sysctl variables fit into the Linux/Kernel network flow",
+      "https://github.com/leandromoreira/linux-network-performance-parameters"
+    ]
+  ],
+  [
+    [
       "2023-09-06, 13:34:30",
       "https://lobste.rs/s/cv6afw/acidrain_concurrency_related_attacks_on"
     ],
@@ -227,16 +237,6 @@
     [
       "FreeBSD containers on macOS",
       "https://github.com/davidchisnall/container-vm-scripts"
-    ]
-  ],
-  [
-    [
-      "2023-09-05, 06:04:22",
-      "https://lobste.rs/s/uykapx/emacs_bedrock_stepping_stones_better"
-    ],
-    [
-      "emacs-bedrock: Stepping stones to a better Emacs experience",
-      "https://sr.ht/~ashton314/emacs-bedrock/"
     ]
   ],
   [
