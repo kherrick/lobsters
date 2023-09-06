@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-06, 11:10:51](https://lobste.rs/s/hm5el5/why_prefer_t_cleanup_defer) - [Why to prefer `t.Cleanup` to `defer`](https://brandur.org/fragments/go-prefer-t-cleanup-with-parallel-subtests)
 * [2023-09-06, 10:34:16](https://lobste.rs/s/idysrp/how_write_secure_jwt_library_if_you) - [How to Write a Secure JWT Library If You Absolutely Must](https://scottarc.blog/2023/09/06/how-to-write-a-secure-jwt-library-if-you-absolutely-must/)
 * [2023-09-06, 09:21:35](https://lobste.rs/s/voyfzz/bogus_cve_follow_ups) - [Bogus CVE follow-ups](https://daniel.haxx.se/blog/2023/09/05/bogus-cve-follow-ups/)
-* [2023-09-06, 08:27:55](https://lobste.rs/s/tw3bu2/modularization_approach_against) - [A Modularization Approach Against Technical Debt](https://massimo-nazaria.github.io/modularization.html)
 * [2023-09-06, 08:11:54](https://lobste.rs/s/tlddmz/bloom_filters_beyond_illustrated) - [Bloom Filters and Beyond: An Illustrated Introduction and Implementation](https://codeconfessions.substack.com/p/bloom-filters-and-beyond)
 * [2023-09-06, 05:51:54](https://lobste.rs/s/sceokj/code_vulnerabilities_leak_emails_proton) - [Code Vulnerabilities Leak Emails in Proton Mail](https://www.sonarsource.com/blog/code-vulnerabilities-leak-emails-in-proton-mail/)
 * [2023-09-06, 05:02:25](https://lobste.rs/s/qw8ifh/correct_way_do_sentence_spacing) - [The Correct Way to do Sentence Spacing](https://www.kronopath.com/blog/the-correct-way-to-do-sentence-spacing/)
