@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2023-09-06, 13:49:30",
+      "https://lobste.rs/s/wxs0rh/learn_where_some_network_sysctl"
+    ],
+    [
+      "Learn where some of the network sysctl variables fit into the Linux/Kernel network flow",
+      "https://github.com/leandromoreira/linux-network-performance-parameters"
+    ]
+  ],
+  [
+    [
       "2023-09-06, 11:10:51",
       "https://lobste.rs/s/hm5el5/why_prefer_t_cleanup_defer"
     ],
@@ -227,16 +237,6 @@
     [
       "Revamping bpftrace’s CI with Nix",
       "https://dxuuu.xyz/bpftrace-nix.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-05, 08:46:22",
-      "https://lobste.rs/s/5i9ekp/amiga_systems_programming_2023"
-    ],
-    [
-      "Amiga Systems Programming in 2023",
-      "https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023/"
     ]
   ],
   [
