@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-06, 14:39:23](https://lobste.rs/s/umywbs/why_react_re_renders_when_do_we_need_worry) - [Why React re-renders & when do we need to worry about it?](https://punits.dev/jargon-free-intros/why-react-rerenders-and-when-to-worry-about-it/)
 * [2023-09-06, 13:49:30](https://lobste.rs/s/wxs0rh/learn_where_some_network_sysctl) - [Learn where some of the network sysctl variables fit into the Linux/Kernel network flow](https://github.com/leandromoreira/linux-network-performance-parameters)
 * [2023-09-06, 13:34:30](https://lobste.rs/s/cv6afw/acidrain_concurrency_related_attacks_on) - [ACIDRain: Concurrency-Related Attacks on Database-Backed Web Applications (2017)](http://www.bailis.org/papers/acidrain-sigmod2017.pdf)
 * [2023-09-06, 11:10:51](https://lobste.rs/s/hm5el5/why_prefer_t_cleanup_defer) - [Why to prefer `t.Cleanup` to `defer`](https://brandur.org/fragments/go-prefer-t-cleanup-with-parallel-subtests)
@@ -8,7 +9,6 @@
 * [2023-09-06, 08:11:54](https://lobste.rs/s/tlddmz/bloom_filters_beyond_illustrated) - [Bloom Filters and Beyond: An Illustrated Introduction and Implementation](https://codeconfessions.substack.com/p/bloom-filters-and-beyond)
 * [2023-09-06, 05:51:54](https://lobste.rs/s/sceokj/code_vulnerabilities_leak_emails_proton) - [Code Vulnerabilities Leak Emails in Proton Mail](https://www.sonarsource.com/blog/code-vulnerabilities-leak-emails-in-proton-mail/)
 * [2023-09-06, 03:18:09](https://lobste.rs/s/lywssq/zx_origins_8x8_bitmap_fonts) - [ZX Origins 8x8 Bitmap Fonts](https://damieng.com/typography/zx-origins/)
-* [2023-09-06, 00:55:15](https://lobste.rs/s/zzq613/pure_wasm_game_life) - [Pure Wasm Game of Life](https://ashen.earth/wasm-game-of-life-1)
 * [2023-09-05, 21:00:12](https://lobste.rs/s/kl46df/new_eu_rules_smartphones_tablets_will) - [New EU Rules: Smartphones and Tablets will follow new ecodesign requirements by June 2025](https://repair.eu/news/new-eu-rules-smartphones-and-tablets-will-follow-new-ecodesign-requirements-by-june-2025/)
 * [2023-09-05, 20:30:40](https://lobste.rs/s/flcm5h/year_after_disastrous_breach_lastpass) - [A year after the disastrous breach, LastPass has not improved](https://palant.info/2023/09/05/a-year-after-the-disastrous-breach-lastpass-has-not-improved/)
 * [2023-09-05, 19:54:17](https://lobste.rs/s/io5blv/profile_guided_optimization_go_1_21) - [Profile-guided optimization in Go 1.21](https://go.dev/blog/pgo)

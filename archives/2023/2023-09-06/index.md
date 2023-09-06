@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-06](index.md)
 
+* [2023-09-06, 14:39:23](https://lobste.rs/s/umywbs/why_react_re_renders_when_do_we_need_worry) - [Why React re-renders & when do we need to worry about it?](https://punits.dev/jargon-free-intros/why-react-rerenders-and-when-to-worry-about-it/)
 * [2023-09-06, 13:49:30](https://lobste.rs/s/wxs0rh/learn_where_some_network_sysctl) - [Learn where some of the network sysctl variables fit into the Linux/Kernel network flow](https://github.com/leandromoreira/linux-network-performance-parameters)
 * [2023-09-06, 13:34:30](https://lobste.rs/s/cv6afw/acidrain_concurrency_related_attacks_on) - [ACIDRain: Concurrency-Related Attacks on Database-Backed Web Applications (2017)](http://www.bailis.org/papers/acidrain-sigmod2017.pdf)
 * [2023-09-06, 11:10:51](https://lobste.rs/s/hm5el5/why_prefer_t_cleanup_defer) - [Why to prefer `t.Cleanup` to `defer`](https://brandur.org/fragments/go-prefer-t-cleanup-with-parallel-subtests)
