@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-06](index.md)
 
+* [2023-09-06, 09:21:35](https://lobste.rs/s/voyfzz/bogus_cve_follow_ups) - [Bogus CVE follow-ups](https://daniel.haxx.se/blog/2023/09/05/bogus-cve-follow-ups/)
 * [2023-09-06, 08:27:55](https://lobste.rs/s/tw3bu2/modularization_approach_against) - [A Modularization Approach Against Technical Debt](https://massimo-nazaria.github.io/modularization.html)
 * [2023-09-06, 08:11:54](https://lobste.rs/s/tlddmz/bloom_filters_beyond_illustrated) - [Bloom Filters and Beyond: An Illustrated Introduction and Implementation](https://codeconfessions.substack.com/p/bloom-filters-and-beyond)
 * [2023-09-06, 05:51:54](https://lobste.rs/s/sceokj/code_vulnerabilities_leak_emails_proton) - [Code Vulnerabilities Leak Emails in Proton Mail](https://www.sonarsource.com/blog/code-vulnerabilities-leak-emails-in-proton-mail/)
