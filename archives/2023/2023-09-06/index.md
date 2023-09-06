@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-06](index.md)
 
+* [2023-09-06, 05:51:54](https://lobste.rs/s/sceokj/code_vulnerabilities_leak_emails_proton) - [Code Vulnerabilities Leak Emails in Proton Mail](https://www.sonarsource.com/blog/code-vulnerabilities-leak-emails-in-proton-mail/)
 * [2023-09-06, 05:02:25](https://lobste.rs/s/qw8ifh/correct_way_do_sentence_spacing) - [The Correct Way to do Sentence Spacing](https://www.kronopath.com/blog/the-correct-way-to-do-sentence-spacing/)
 * [2023-09-06, 04:31:56](https://lobste.rs/s/rwwtrn/into_labyrinth_revealing_mantic) - [Into the Labyrinth: Revealing the Mantic Minotaur](https://ubuntu.com//blog/into-the-labyrinth)
 * [2023-09-06, 03:18:09](https://lobste.rs/s/lywssq/zx_origins_8x8_bitmap_fonts) - [ZX Origins 8x8 Bitmap Fonts](https://damieng.com/typography/zx-origins/)
