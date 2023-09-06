@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-06, 08:27:55](https://lobste.rs/s/tw3bu2/modularization_approach_against) - [A Modularization Approach Against Technical Debt](https://massimo-nazaria.github.io/modularization.html)
 * [2023-09-06, 08:11:54](https://lobste.rs/s/tlddmz/bloom_filters_beyond_illustrated) - [Bloom Filters and Beyond: An Illustrated Introduction and Implementation](https://codeconfessions.substack.com/p/bloom-filters-and-beyond)
 * [2023-09-06, 05:51:54](https://lobste.rs/s/sceokj/code_vulnerabilities_leak_emails_proton) - [Code Vulnerabilities Leak Emails in Proton Mail](https://www.sonarsource.com/blog/code-vulnerabilities-leak-emails-in-proton-mail/)
 * [2023-09-06, 05:02:25](https://lobste.rs/s/qw8ifh/correct_way_do_sentence_spacing) - [The Correct Way to do Sentence Spacing](https://www.kronopath.com/blog/the-correct-way-to-do-sentence-spacing/)
@@ -11,7 +12,6 @@
 * [2023-09-05, 19:54:17](https://lobste.rs/s/io5blv/profile_guided_optimization_go_1_21) - [Profile-guided optimization in Go 1.21](https://go.dev/blog/pgo)
 * [2023-09-05, 19:31:57](https://lobste.rs/s/b50akc/tdd_doesn_t_force_good_design) - [TDD Doesn't Force Good Design](https://www.aaronbruce.com/posts/tests-dont-force-good-desgin/)
 * [2023-09-05, 19:10:47](https://lobste.rs/s/8cfehf/carbon_emissions_browser_devtools) - [Carbon Emissions in Browser DevTools - Firefox Profiler and CO2.js](https://www.thegreenwebfoundation.org/news/carbon-emissions-in-browser-devtools-firefox-profiler-and-co2-js/)
-* [2023-09-05, 17:07:59](https://lobste.rs/s/unrdqi/feature_flag_relay_race) - [The Feature Flag Relay Race](https://blog.flippercloud.io/the-feature-flag-relay-race/)
 * [2023-09-05, 16:16:12](https://lobste.rs/s/vsifq9/why_i_two_space) - [Why I Two-Space](https://stevelosh.com/blog/2012/10/why-i-two-space/)
 * [2023-09-05, 16:02:40](https://lobste.rs/s/3efqsk/learn_webassembly_by_writing_small) - [Learn WebAssembly by writing small programs](https://github.com/EmNudge/watlings)
 * [2023-09-05, 15:59:53](https://lobste.rs/s/rnpghh/zsa_voyager_low_profile_split_keyboard) - [ZSA Voyager: Low profile split keyboard](https://www.zsa.io/voyager/)
