@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-06](index.md)
 
+* [2023-09-06, 17:06:59](https://lobste.rs/s/hnwos1/xcom_crossplatform_graphics_user) - [XCOM, a \"crossplatform graphics user interface\"](http://xcom.infora.hu/index.html)
 * [2023-09-06, 16:34:06](https://lobste.rs/s/9sjhjb/now_it_s_postgresql_s_turn_have_bogus_cve) - [Now it's PostgreSQL's turn to have a bogus CVE](https://opensourcewatch.beehiiv.com/p/now-postgresqls-turn-bogus-cve)
 * [2023-09-06, 15:32:36](https://lobste.rs/s/adoesy/waterfall_doesn_t_mean_what_you_think_it) - [\"Waterfall\" doesn't mean what you think it means](https://changelog.com/posts/waterfall-doesnt-mean-what-you-think-it-means)
 * [2023-09-06, 14:39:23](https://lobste.rs/s/umywbs/why_react_re_renders_when_do_we_need_worry) - [Why React re-renders & when do we need to worry about it?](https://punits.dev/jargon-free-intros/why-react-rerenders-and-when-to-worry-about-it/)

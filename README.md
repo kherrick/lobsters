@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-06, 17:06:59](https://lobste.rs/s/hnwos1/xcom_crossplatform_graphics_user) - [XCOM, a \"crossplatform graphics user interface\"](http://xcom.infora.hu/index.html)
 * [2023-09-06, 16:34:06](https://lobste.rs/s/9sjhjb/now_it_s_postgresql_s_turn_have_bogus_cve) - [Now it's PostgreSQL's turn to have a bogus CVE](https://opensourcewatch.beehiiv.com/p/now-postgresqls-turn-bogus-cve)
 * [2023-09-06, 15:32:36](https://lobste.rs/s/adoesy/waterfall_doesn_t_mean_what_you_think_it) - [\"Waterfall\" doesn't mean what you think it means](https://changelog.com/posts/waterfall-doesnt-mean-what-you-think-it-means)
 * [2023-09-06, 14:39:23](https://lobste.rs/s/umywbs/why_react_re_renders_when_do_we_need_worry) - [Why React re-renders & when do we need to worry about it?](https://punits.dev/jargon-free-intros/why-react-rerenders-and-when-to-worry-about-it/)
@@ -11,7 +12,6 @@
 * [2023-09-06, 08:11:54](https://lobste.rs/s/tlddmz/bloom_filters_beyond_illustrated) - [Bloom Filters and Beyond: An Illustrated Introduction and Implementation](https://codeconfessions.substack.com/p/bloom-filters-and-beyond)
 * [2023-09-06, 05:51:54](https://lobste.rs/s/sceokj/code_vulnerabilities_leak_emails_proton) - [Code Vulnerabilities Leak Emails in Proton Mail](https://www.sonarsource.com/blog/code-vulnerabilities-leak-emails-in-proton-mail/)
 * [2023-09-06, 03:18:09](https://lobste.rs/s/lywssq/zx_origins_8x8_bitmap_fonts) - [ZX Origins 8x8 Bitmap Fonts](https://damieng.com/typography/zx-origins/)
-* [2023-09-06, 00:17:22](https://lobste.rs/s/shiknq/squirrel_strings) - [Squirrel Strings](https://blog.brixit.nl/squirrel-strings/)
 * [2023-09-05, 21:00:12](https://lobste.rs/s/kl46df/new_eu_rules_smartphones_tablets_will) - [New EU Rules: Smartphones and Tablets will follow new ecodesign requirements by June 2025](https://repair.eu/news/new-eu-rules-smartphones-and-tablets-will-follow-new-ecodesign-requirements-by-june-2025/)
 * [2023-09-05, 20:30:40](https://lobste.rs/s/flcm5h/year_after_disastrous_breach_lastpass) - [A year after the disastrous breach, LastPass has not improved](https://palant.info/2023/09/05/a-year-after-the-disastrous-breach-lastpass-has-not-improved/)
 * [2023-09-05, 19:31:57](https://lobste.rs/s/b50akc/tdd_doesn_t_force_good_design) - [TDD Doesn't Force Good Design](https://www.aaronbruce.com/posts/tests-dont-force-good-desgin/)
