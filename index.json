@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-06, 15:32:36",
+      "https://lobste.rs/s/adoesy/waterfall_doesn_t_mean_what_you_think_it"
+    ],
+    [
+      "\"Waterfall\" doesn't mean what you think it means",
+      "https://changelog.com/posts/waterfall-doesnt-mean-what-you-think-it-means"
+    ]
+  ],
+  [
+    [
       "2023-09-06, 14:39:23",
       "https://lobste.rs/s/umywbs/why_react_re_renders_when_do_we_need_worry"
     ],
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2023-09-06, 00:55:15",
+      "https://lobste.rs/s/zzq613/pure_wasm_game_life"
+    ],
+    [
+      "Pure Wasm Game of Life",
+      "https://ashen.earth/wasm-game-of-life-1"
+    ]
+  ],
+  [
+    [
       "2023-09-05, 21:00:12",
       "https://lobste.rs/s/kl46df/new_eu_rules_smartphones_tablets_will"
     ],
@@ -107,16 +127,6 @@
     [
       "A year after the disastrous breach, LastPass has not improved",
       "https://palant.info/2023/09/05/a-year-after-the-disastrous-breach-lastpass-has-not-improved/"
-    ]
-  ],
-  [
-    [
-      "2023-09-05, 19:54:17",
-      "https://lobste.rs/s/io5blv/profile_guided_optimization_go_1_21"
-    ],
-    [
-      "Profile-guided optimization in Go 1.21",
-      "https://go.dev/blog/pgo"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Mastering curl: interactive text guide",
       "https://antonz.org/mastering-curl/"
-    ]
-  ],
-  [
-    [
-      "2023-09-05, 10:41:20",
-      "https://lobste.rs/s/vzg1nm/inline_previous_result_why_you_should"
-    ],
-    [
-      "Inline previous result and why you should edebug",
-      "https://xenodium.com/inline-previous-result-and-why-you-should-edebug/"
     ]
   ],
   [
