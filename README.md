@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-06, 00:17:22](https://lobste.rs/s/shiknq/squirrel_strings) - [Squirrel Strings](https://blog.brixit.nl/squirrel-strings/)
+* [2023-09-06, 00:07:40](https://lobste.rs/s/ul2bgi/annotated_history_modern_ai_deep_neural) - [Annotated history of modern AI and deep neural networks](https://people.idsia.ch/~juergen/deep-learning-history.html)
 * [2023-09-05, 21:00:12](https://lobste.rs/s/kl46df/new_eu_rules_smartphones_tablets_will) - [New EU Rules: Smartphones and Tablets will follow new ecodesign requirements by June 2025](https://repair.eu/news/new-eu-rules-smartphones-and-tablets-will-follow-new-ecodesign-requirements-by-june-2025/)
 * [2023-09-05, 20:30:40](https://lobste.rs/s/flcm5h/year_after_disastrous_breach_lastpass) - [A year after the disastrous breach, LastPass has not improved](https://palant.info/2023/09/05/a-year-after-the-disastrous-breach-lastpass-has-not-improved/)
 * [2023-09-05, 19:54:17](https://lobste.rs/s/io5blv/profile_guided_optimization_go_1_21) - [Profile-guided optimization in Go 1.21](https://go.dev/blog/pgo)
@@ -22,8 +24,6 @@
 * [2023-09-05, 03:18:20](https://lobste.rs/s/4jqm4s/time_preserve_those_floppy_disks) - [Time to preserve those floppy disks](https://www.patreon.com/posts/78074244)
 * [2023-09-04, 20:38:24](https://lobste.rs/s/bwoef7/llm_now_provides_tools_for_working_with) - [LLM now provides tools for working with embeddings](https://simonwillison.net/2023/Sep/4/llm-embeddings/)
 * [2023-09-04, 19:23:25](https://lobste.rs/s/qxiynu/writing_c_compiler_500_lines_python) - [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)
-* [2023-09-04, 16:42:12](https://lobste.rs/s/5i3p04/curl_wget_venn_diagram) - [The curl-wget Venn diagram](https://daniel.haxx.se/blog/2023/09/04/the-curl-wget-venn-diagram/)
-* [2023-09-04, 15:41:15](https://lobste.rs/s/umpc5t/bring_your_own_interface) - [Bring your own interface](https://blog.verygoodsoftwarenotvirus.ru/posts/interfaces/)
 * [2023-09-04, 08:54:16](https://lobste.rs/s/xfetvt/github_has_too_many_hidden_features) - [GitHub has too many hidden features](https://buttondown.email/hillelwayne/archive/github-has-too-many-hidden-features/)
 
 ## [Archives](archives/index.md)
