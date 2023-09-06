@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-06, 00:55:15",
+      "https://lobste.rs/s/zzq613/pure_wasm_game_life"
+    ],
+    [
+      "Pure Wasm Game of Life",
+      "https://ashen.earth/wasm-game-of-life-1"
+    ]
+  ],
+  [
+    [
       "2023-09-06, 00:17:22",
       "https://lobste.rs/s/shiknq/squirrel_strings"
     ],
@@ -217,16 +227,6 @@
     [
       "Time to preserve those floppy disks",
       "https://www.patreon.com/posts/78074244"
-    ]
-  ],
-  [
-    [
-      "2023-09-04, 20:38:24",
-      "https://lobste.rs/s/bwoef7/llm_now_provides_tools_for_working_with"
-    ],
-    [
-      "LLM now provides tools for working with embeddings",
-      "https://simonwillison.net/2023/Sep/4/llm-embeddings/"
     ]
   ],
   [
