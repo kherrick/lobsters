@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-06, 14:39:23",
+      "https://lobste.rs/s/umywbs/why_react_re_renders_when_do_we_need_worry"
+    ],
+    [
+      "Why React re-renders & when do we need to worry about it?",
+      "https://punits.dev/jargon-free-intros/why-react-rerenders-and-when-to-worry-about-it/"
+    ]
+  ],
+  [
+    [
       "2023-09-06, 13:49:30",
       "https://lobste.rs/s/wxs0rh/learn_where_some_network_sysctl"
     ],
@@ -77,16 +87,6 @@
     [
       "ZX Origins 8x8 Bitmap Fonts",
       "https://damieng.com/typography/zx-origins/"
-    ]
-  ],
-  [
-    [
-      "2023-09-06, 00:55:15",
-      "https://lobste.rs/s/zzq613/pure_wasm_game_life"
-    ],
-    [
-      "Pure Wasm Game of Life",
-      "https://ashen.earth/wasm-game-of-life-1"
     ]
   ],
   [
