@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-06, 18:52:48](https://lobste.rs/s/ex6q7x/results_major_technical_investigations) - [Results of Major Technical Investigations for Storm-0558 Key Acquisition](https://msrc.microsoft.com/blog/2023/09/results-of-major-technical-investigations-for-storm-0558-key-acquisition/)
 * [2023-09-06, 18:25:46](https://lobste.rs/s/suid1y/it_s_official_cars_are_worst_product) - [It’s Official: Cars Are the Worst Product Category We Have Ever Reviewed for Privacy](https://foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy/)
 * [2023-09-06, 18:07:48](https://lobste.rs/s/fd7upk/from_editor_web_apps_issue_2_mar_apr_1997) - [From the Editor -- Web Apps, Issue 2 Mar/Apr 1997](https://www.w3.org/People/Connolly/9703-web-apps-essay.html)
 * [2023-09-06, 18:03:24](https://lobste.rs/s/9prx5m/making_sense_react_server_components) - [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
@@ -21,7 +22,6 @@
 * [2023-09-05, 16:02:40](https://lobste.rs/s/3efqsk/learn_webassembly_by_writing_small) - [Learn WebAssembly by writing small programs](https://github.com/EmNudge/watlings)
 * [2023-09-05, 15:59:53](https://lobste.rs/s/rnpghh/zsa_voyager_low_profile_split_keyboard) - [ZSA Voyager: Low profile split keyboard](https://www.zsa.io/voyager/)
 * [2023-09-05, 14:55:08](https://lobste.rs/s/thylmz/zx_tool_for_writing_better_scripts) - [Zx - a tool for writing better scripts](https://google.github.io/zx/)
-* [2023-09-05, 14:13:06](https://lobste.rs/s/0dpadp/rhovas_programming_language_for_api) - [Rhovas: A programming language for API design and enforcement](https://rhovas.dev/)
 * [2023-09-05, 13:39:00](https://lobste.rs/s/qqbfdo/revamping_bpftrace_s_ci_with_nix) - [Revamping bpftrace’s CI with Nix](https://dxuuu.xyz/bpftrace-nix.html)
 * [2023-09-05, 08:46:22](https://lobste.rs/s/5i9ekp/amiga_systems_programming_2023) - [Amiga Systems Programming in 2023](https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023/)
 * [2023-09-05, 07:34:27](https://lobste.rs/s/8uhm2e/freebsd_containers_on_macos) - [FreeBSD containers on macOS](https://github.com/davidchisnall/container-vm-scripts)
