@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-06, 17:35:11",
+      "https://lobste.rs/s/aiisyw/gaussian_splatting_is_pretty_cool"
+    ],
+    [
+      "Gaussian Splatting is pretty cool",
+      "https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/"
+    ]
+  ],
+  [
+    [
       "2023-09-06, 17:06:59",
       "https://lobste.rs/s/hnwos1/xcom_crossplatform_graphics_user"
     ],
@@ -237,16 +247,6 @@
     [
       "FreeBSD containers on macOS",
       "https://github.com/davidchisnall/container-vm-scripts"
-    ]
-  ],
-  [
-    [
-      "2023-09-04, 19:23:25",
-      "https://lobste.rs/s/qxiynu/writing_c_compiler_500_lines_python"
-    ],
-    [
-      "Writing a C compiler in 500 lines of Python",
-      "https://vgel.me/posts/c500/"
     ]
   ]
 ]
