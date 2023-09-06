@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-06, 17:35:11](https://lobste.rs/s/aiisyw/gaussian_splatting_is_pretty_cool) - [Gaussian Splatting is pretty cool](https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/)
 * [2023-09-06, 17:06:59](https://lobste.rs/s/hnwos1/xcom_crossplatform_graphics_user) - [XCOM, a \"crossplatform graphics user interface\"](http://xcom.infora.hu/index.html)
 * [2023-09-06, 16:34:06](https://lobste.rs/s/9sjhjb/now_it_s_postgresql_s_turn_have_bogus_cve) - [Now it's PostgreSQL's turn to have a bogus CVE](https://opensourcewatch.beehiiv.com/p/now-postgresqls-turn-bogus-cve)
 * [2023-09-06, 15:32:36](https://lobste.rs/s/adoesy/waterfall_doesn_t_mean_what_you_think_it) - [\"Waterfall\" doesn't mean what you think it means](https://changelog.com/posts/waterfall-doesnt-mean-what-you-think-it-means)
@@ -24,7 +25,6 @@
 * [2023-09-05, 13:39:00](https://lobste.rs/s/qqbfdo/revamping_bpftrace_s_ci_with_nix) - [Revamping bpftrace’s CI with Nix](https://dxuuu.xyz/bpftrace-nix.html)
 * [2023-09-05, 08:46:22](https://lobste.rs/s/5i9ekp/amiga_systems_programming_2023) - [Amiga Systems Programming in 2023](https://www.markround.com/blog/2023/08/30/amiga-systems-programming-in-2023/)
 * [2023-09-05, 07:34:27](https://lobste.rs/s/8uhm2e/freebsd_containers_on_macos) - [FreeBSD containers on macOS](https://github.com/davidchisnall/container-vm-scripts)
-* [2023-09-04, 19:23:25](https://lobste.rs/s/qxiynu/writing_c_compiler_500_lines_python) - [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)
 
 ## [Archives](archives/index.md)
 
