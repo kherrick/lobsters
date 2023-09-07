@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-09-07, 18:44:20](https://lobste.rs/s/eprllj/ricochet_robots_solver) - [Ricochet Robots Solver](https://kevincox.ca/2023/09/02/ricochet-robots-solver/)
+* [2023-09-07, 18:35:08](https://lobste.rs/s/cvjcrs/bun_1_0_is_here) - [Bun 1.0 is here](https://www.youtube.com/watch?v=BsnCpESUEqM)
 * [2023-09-07, 18:07:01](https://lobste.rs/s/esqoud/refact_open_source_ai_coding_assistant) - [Refact: Open-source AI coding assistant with local fine-tuning on codebase](https://github.com/smallcloudai/refact)
 * [2023-09-07, 17:41:25](https://lobste.rs/s/nlp3h7/dealing_with_large_structs_table_tests) - [Dealing with large structs in (table) tests](https://www.willem.dev/articles/large-structs-in-table-tests/)
 * [2023-09-07, 17:36:52](https://lobste.rs/s/bwip4d/proposal_add_intern_package_go) - [Proposal to add an intern package to Go](https://github.com/golang/go/issues/62483)
@@ -10,7 +11,6 @@
 * [2023-09-07, 16:32:35](https://lobste.rs/s/enfofz/modular_mojo_it_s_finally_here) - [Modular Mojo: It’s finally here](https://www.modular.com/blog/mojo-its-finally-here)
 * [2023-09-07, 16:04:55](https://lobste.rs/s/lsvmkq/semver_violations_are_common_better) - [Semver violations are common, better tooling is the answer](https://predr.ag/blog/semver-violations-are-common-better-tooling-is-the-answer/)
 * [2023-09-07, 15:49:22](https://lobste.rs/s/dxptka/active_north_korean_campaign_targeting) - [Active North Korean campaign targeting security researchers](https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/)
-* [2023-09-07, 15:24:35](https://lobste.rs/s/zfyi8c/introducing_flake8_logging) - [Introducing flake8-logging](https://adamj.eu/tech/2023/09/07/introducing-flake8-logging/)
 * [2023-09-07, 14:07:00](https://lobste.rs/s/bulztv/request_catcher_record_http_requests) - [Request Catcher — record HTTP requests, webhooks, API calls](https://requestcatcher.com/)
 * [2023-09-07, 13:39:00](https://lobste.rs/s/wvi9xw/why_not_matrix) - [why not matrix?](https://telegra.ph/why-not-matrix-08-07)
 * [2023-09-07, 13:03:32](https://lobste.rs/s/8ejn7x/turbo_8_is_dropping_typescript) - [Turbo 8 is dropping TypeScript](https://world.hey.com/dhh/turbo-8-is-dropping-typescript-70165c01)
