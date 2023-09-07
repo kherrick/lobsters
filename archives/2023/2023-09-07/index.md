@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
 * [2023-09-07, 23:31:36](https://lobste.rs/s/5pk023/emerging_from_dotemacs_bankruptcy_hard) - [Emerging from dotemacs bankruptcy the hard way: integrating the IDE (feat. Clojure(Script))](https://www.evalapply.org/posts/emerging-from-dotemacs-bankruptcy-ide-experience/index.html#why-ides)
+* [2023-09-07, 23:31:28](https://lobste.rs/s/fhn3jf/ui_context_rails_variants) - [UI Context and Rails Variants](https://domchristie.co.uk/posts/ui-context-and-rails-variants/)
 * [2023-09-07, 22:06:29](https://lobste.rs/s/1syovw/learning_english_with_crosswords) - [Learning English with crosswords and an extension integrating ChatGPT](https://ranfdev.com/blog/learning-english-crosswords-extension/)
 * [2023-09-07, 21:40:42](https://lobste.rs/s/gxiile/introduction_betterer) - [Introduction | Betterer](https://phenomnomnominal.github.io/betterer/docs/introduction)
 * [2023-09-07, 20:21:25](https://lobste.rs/s/bbnye1/blastpass_nso_group_iphone_zero_click) - [BLASTPASS: NSO Group iPhone Zero-Click, Zero-Day Exploit Captured in the Wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/)
