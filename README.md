@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-07, 18:35:08](https://lobste.rs/s/cvjcrs/bun_1_0_is_here) - [Bun 1.0 is here](https://www.youtube.com/watch?v=BsnCpESUEqM)
 * [2023-09-07, 18:07:01](https://lobste.rs/s/esqoud/refact_open_source_ai_coding_assistant) - [Refact: Open-source AI coding assistant with local fine-tuning on codebase](https://github.com/smallcloudai/refact)
 * [2023-09-07, 17:41:25](https://lobste.rs/s/nlp3h7/dealing_with_large_structs_table_tests) - [Dealing with large structs in (table) tests](https://www.willem.dev/articles/large-structs-in-table-tests/)
 * [2023-09-07, 17:36:52](https://lobste.rs/s/bwip4d/proposal_add_intern_package_go) - [Proposal to add an intern package to Go](https://github.com/golang/go/issues/62483)
@@ -17,7 +18,6 @@
 * [2023-09-07, 12:10:15](https://lobste.rs/s/he6z4h/fleng_16_released_now_with_graphics) - [FLENG 16 released - now with graphics support and a much improved PCN frontend](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2023-09-07, 11:22:19](https://lobste.rs/s/3fswdc/remembering_molly_holzschlag) - [Remembering Molly Holzschlag](https://thehistoryoftheweb.com/remembering-molly-one-of-the-greats/)
 * [2023-09-07, 11:11:05](https://lobste.rs/s/rgj9j9/yet_another_c_coroutine_tutorial) - [Yet Another C++ Coroutine Tutorial](https://theshoemaker.de/posts/yet-another-cpp-coroutine-tutorial)
-* [2023-09-07, 07:28:10](https://lobste.rs/s/hyogcb/advances_real_time_rendering_2023) - [Advances in Real-Time Rendering 2023](https://advances.realtimerendering.com/s2023/index.html)
 * [2023-09-07, 06:48:06](https://lobste.rs/s/atup8s/ikea_powered_homelab_on_wall) - [The IKEA-powered homelab on a wall](https://ounapuu.ee/posts/2023/09/07/ikea-powered-homelab/)
 * [2023-09-07, 06:35:05](https://lobste.rs/s/eatrjj/generating_clojure_native_images_with) - [Generating Clojure Native Images with GraalVM and clj-nix](https://thenybble.de/posts/clojure-nix-graalvm/)
 * [2023-09-07, 03:36:12](https://lobste.rs/s/wamkim/nix_flakes_is_experiment_did_too_much_at) - [Nix Flakes is an experiment that did too much at once…](https://samuel.dionne-riel.com/blog/2023/09/06/flakes-is-an-experiment-that-did-too-much-at-once.html)
