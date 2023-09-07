@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-07, 23:31:36](https://lobste.rs/s/5pk023/emerging_from_dotemacs_bankruptcy_hard) - [Emerging from dotemacs bankruptcy the hard way: integrating the IDE (feat. Clojure(Script))](https://www.evalapply.org/posts/emerging-from-dotemacs-bankruptcy-ide-experience/index.html#why-ides)
 * [2023-09-07, 22:06:29](https://lobste.rs/s/1syovw/learning_english_with_crosswords) - [Learning English with crosswords and an extension integrating ChatGPT](https://ranfdev.com/blog/learning-english-crosswords-extension/)
 * [2023-09-07, 21:40:42](https://lobste.rs/s/gxiile/introduction_betterer) - [Introduction | Betterer](https://phenomnomnominal.github.io/betterer/docs/introduction)
 * [2023-09-07, 20:21:25](https://lobste.rs/s/bbnye1/blastpass_nso_group_iphone_zero_click) - [BLASTPASS: NSO Group iPhone Zero-Click, Zero-Day Exploit Captured in the Wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/)
@@ -16,7 +17,6 @@
 * [2023-09-07, 15:49:22](https://lobste.rs/s/dxptka/active_north_korean_campaign_targeting) - [Active North Korean campaign targeting security researchers](https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/)
 * [2023-09-07, 15:24:35](https://lobste.rs/s/zfyi8c/introducing_flake8_logging) - [Introducing flake8-logging](https://adamj.eu/tech/2023/09/07/introducing-flake8-logging/)
 * [2023-09-07, 13:39:00](https://lobste.rs/s/wvi9xw/why_not_matrix) - [why not matrix?](https://telegra.ph/why-not-matrix-08-07)
-* [2023-09-07, 13:03:32](https://lobste.rs/s/8ejn7x/turbo_8_is_dropping_typescript) - [Turbo 8 is dropping TypeScript](https://world.hey.com/dhh/turbo-8-is-dropping-typescript-70165c01)
 * [2023-09-07, 12:21:09](https://lobste.rs/s/enh3bb/feature_request_link_parent_comment) - [Feature request: link to parent of a comment](https://lobste.rs/s/enh3bb/feature_request_link_parent_comment)
 * [2023-09-07, 12:10:15](https://lobste.rs/s/he6z4h/fleng_16_released_now_with_graphics) - [FLENG 16 released - now with graphics support and a much improved PCN frontend](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2023-09-07, 11:22:19](https://lobste.rs/s/3fswdc/remembering_molly_holzschlag) - [Remembering Molly Holzschlag](https://thehistoryoftheweb.com/remembering-molly-one-of-the-greats/)
