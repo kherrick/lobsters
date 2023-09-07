@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2023-09-07, 10:14:37",
+      "https://lobste.rs/s/sec4bk/minijail_sandboxing_containment_tool"
+    ],
+    [
+      "minijail - sandboxing and containment tool used in ChromeOS/Android",
+      "https://google.github.io/minijail/"
+    ]
+  ],
+  [
+    [
       "2023-09-07, 07:28:10",
       "https://lobste.rs/s/hyogcb/advances_real_time_rendering_2023"
     ],
@@ -107,16 +117,6 @@
     [
       "The IKEA-powered homelab on a wall",
       "https://ounapuu.ee/posts/2023/09/07/ikea-powered-homelab/"
-    ]
-  ],
-  [
-    [
-      "2023-09-07, 06:38:32",
-      "https://lobste.rs/s/t48fdd/surviving_disillusionment"
-    ],
-    [
-      "Surviving disillusionment",
-      "https://www.spakhm.com/p/surviving-disillusionment"
     ]
   ],
   [
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2023-09-06, 18:25:46",
-      "https://lobste.rs/s/suid1y/it_s_official_cars_are_worst_product"
-    ],
-    [
-      "It’s Official: Cars Are the Worst Product Category We Have Ever Reviewed for Privacy",
-      "https://foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy/"
-    ]
-  ],
-  [
-    [
       "2023-09-06, 17:35:11",
       "https://lobste.rs/s/aiisyw/gaussian_splatting_is_pretty_cool"
     ],
@@ -217,6 +207,16 @@
     [
       "Why React re-renders & when do we need to worry about it?",
       "https://punits.dev/jargon-free-intros/why-react-rerenders-and-when-to-worry-about-it/"
+    ]
+  ],
+  [
+    [
+      "2023-09-06, 11:10:51",
+      "https://lobste.rs/s/hm5el5/why_prefer_t_cleanup_defer"
+    ],
+    [
+      "Why to prefer `t.Cleanup` to `defer`",
+      "https://brandur.org/fragments/go-prefer-t-cleanup-with-parallel-subtests"
     ]
   ],
   [
