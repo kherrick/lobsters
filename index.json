@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-07, 10:49:55",
+      "https://lobste.rs/s/phyzoh/better_faster_cheaper_how_grammarly"
+    ],
+    [
+      "Better, Faster, Cheaper: How Grammarly Improved Monitoring by Over 10x with VictoriaMetrics",
+      "https://www.grammarly.com/blog/engineering/monitoring-with-victoriametrics/"
+    ]
+  ],
+  [
+    [
       "2023-09-07, 10:14:37",
       "https://lobste.rs/s/sec4bk/minijail_sandboxing_containment_tool"
     ],
@@ -77,16 +87,6 @@
     [
       "Experimental does not mean unstable, DetSys' perspective on Nix flakes",
       "https://determinate.systems/posts/experimental-does-not-mean-unstable"
-    ]
-  ],
-  [
-    [
-      "2023-09-06, 20:55:13",
-      "https://lobste.rs/s/bqlltd/digital_markets_act"
-    ],
-    [
-      "Digital Markets Act",
-      "https://digital-markets-act.ec.europa.eu/legislation_en"
     ]
   ],
   [
