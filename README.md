@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-09-07, 22:06:29](https://lobste.rs/s/1syovw/learning_english_with_crosswords) - [Learning English with crosswords and an extension integrating ChatGPT](https://ranfdev.com/blog/learning-english-crosswords-extension/)
+* [2023-09-07, 21:40:42](https://lobste.rs/s/gxiile/introduction_betterer) - [Introduction | Betterer](https://phenomnomnominal.github.io/betterer/docs/introduction)
 * [2023-09-07, 20:21:25](https://lobste.rs/s/bbnye1/blastpass_nso_group_iphone_zero_click) - [BLASTPASS: NSO Group iPhone Zero-Click, Zero-Day Exploit Captured in the Wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/)
 * [2023-09-07, 18:44:20](https://lobste.rs/s/eprllj/ricochet_robots_solver) - [Ricochet Robots Solver](https://kevincox.ca/2023/09/02/ricochet-robots-solver/)
 * [2023-09-07, 18:35:08](https://lobste.rs/s/cvjcrs/bun_1_0_is_here) - [Bun 1.0 is here](https://www.youtube.com/watch?v=BsnCpESUEqM)
@@ -23,7 +24,6 @@
 * [2023-09-07, 06:35:05](https://lobste.rs/s/eatrjj/generating_clojure_native_images_with) - [Generating Clojure Native Images with GraalVM and clj-nix](https://thenybble.de/posts/clojure-nix-graalvm/)
 * [2023-09-07, 03:36:12](https://lobste.rs/s/wamkim/nix_flakes_is_experiment_did_too_much_at) - [Nix Flakes is an experiment that did too much at once…](https://samuel.dionne-riel.com/blog/2023/09/06/flakes-is-an-experiment-that-did-too-much-at-once.html)
 * [2023-09-07, 00:52:19](https://lobste.rs/s/ytosdr/experimental_does_not_mean_unstable) - [Experimental does not mean unstable, DetSys' perspective on Nix flakes](https://determinate.systems/posts/experimental-does-not-mean-unstable)
-* [2023-09-06, 19:26:02](https://lobste.rs/s/vbm3ln/internet_php) - [An Internet of PHP](https://timotijhof.net/posts/2023/an-internet-of-php/)
 * [2023-09-06, 16:34:06](https://lobste.rs/s/9sjhjb/now_it_s_postgresql_s_turn_have_bogus_cve) - [Now it's PostgreSQL's turn to have a bogus CVE](https://opensourcewatch.beehiiv.com/p/now-postgresqls-turn-bogus-cve)
 
 ## [Archives](archives/index.md)
