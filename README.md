@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-07, 10:56:11](https://lobste.rs/s/2n03xd/former_huawei_executive_claims) - [Former Huawei executive claims that HarmonyOS for PC will release next year](https://www.neowin.net/news/former-huawei-executive-claims-that-harmonyos-for-pc-will-release-next-year/)
 * [2023-09-07, 10:49:55](https://lobste.rs/s/phyzoh/better_faster_cheaper_how_grammarly) - [Better, Faster, Cheaper: How Grammarly Improved Monitoring by Over 10x with VictoriaMetrics](https://www.grammarly.com/blog/engineering/monitoring-with-victoriametrics/)
 * [2023-09-07, 10:14:37](https://lobste.rs/s/sec4bk/minijail_sandboxing_containment_tool) - [minijail - sandboxing and containment tool used in ChromeOS/Android](https://google.github.io/minijail/)
 * [2023-09-07, 07:28:10](https://lobste.rs/s/hyogcb/advances_real_time_rendering_2023) - [Advances in Real-Time Rendering 2023](https://advances.realtimerendering.com/s2023/index.html)
@@ -24,7 +25,6 @@
 * [2023-09-06, 05:51:54](https://lobste.rs/s/sceokj/code_vulnerabilities_leak_emails_proton) - [Code Vulnerabilities Leak Emails in Proton Mail](https://www.sonarsource.com/blog/code-vulnerabilities-leak-emails-in-proton-mail/)
 * [2023-09-05, 21:00:12](https://lobste.rs/s/kl46df/new_eu_rules_smartphones_tablets_will) - [New EU Rules: Smartphones and Tablets will follow new ecodesign requirements by June 2025](https://repair.eu/news/new-eu-rules-smartphones-and-tablets-will-follow-new-ecodesign-requirements-by-june-2025/)
 * [2023-09-05, 20:30:40](https://lobste.rs/s/flcm5h/year_after_disastrous_breach_lastpass) - [A year after the disastrous breach, LastPass has not improved](https://palant.info/2023/09/05/a-year-after-the-disastrous-breach-lastpass-has-not-improved/)
-* [2023-09-05, 16:16:12](https://lobste.rs/s/vsifq9/why_i_two_space) - [Why I Two-Space](https://stevelosh.com/blog/2012/10/why-i-two-space/)
 
 ## [Archives](archives/index.md)
 
