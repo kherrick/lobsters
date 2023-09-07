@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-07, 17:41:25",
+      "https://lobste.rs/s/nlp3h7/dealing_with_large_structs_table_tests"
+    ],
+    [
+      "Dealing with large structs in (table) tests",
+      "https://www.willem.dev/articles/large-structs-in-table-tests/"
+    ]
+  ],
+  [
+    [
       "2023-09-07, 17:36:52",
       "https://lobste.rs/s/bwip4d/proposal_add_intern_package_go"
     ],
@@ -147,16 +157,6 @@
     [
       "Yet Another C++ Coroutine Tutorial",
       "https://theshoemaker.de/posts/yet-another-cpp-coroutine-tutorial"
-    ]
-  ],
-  [
-    [
-      "2023-09-07, 10:49:55",
-      "https://lobste.rs/s/phyzoh/better_faster_cheaper_how_grammarly"
-    ],
-    [
-      "Better, Faster, Cheaper: How Grammarly Improved Monitoring by Over 10x with VictoriaMetrics",
-      "https://www.grammarly.com/blog/engineering/monitoring-with-victoriametrics/"
     ]
   ],
   [
