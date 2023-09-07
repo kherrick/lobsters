@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-07, 12:10:15](https://lobste.rs/s/he6z4h/fleng_16_released_now_with_graphics) - [FLENG 16 released - now with graphics support and a much improved PCN frontend](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2023-09-07, 11:22:19](https://lobste.rs/s/3fswdc/remembering_molly_holzschlag) - [Remembering Molly Holzschlag](https://thehistoryoftheweb.com/remembering-molly-one-of-the-greats/)
 * [2023-09-07, 11:11:05](https://lobste.rs/s/rgj9j9/yet_another_c_coroutine_tutorial) - [Yet Another C++ Coroutine Tutorial » theshoemaker](https://theshoemaker.de/posts/yet-another-cpp-coroutine-tutorial)
 * [2023-09-07, 10:56:11](https://lobste.rs/s/2n03xd/former_huawei_executive_claims) - [Former Huawei executive claims that HarmonyOS for PC will release next year](https://www.neowin.net/news/former-huawei-executive-claims-that-harmonyos-for-pc-will-release-next-year/)
@@ -18,7 +19,6 @@
 * [2023-09-06, 17:35:11](https://lobste.rs/s/aiisyw/gaussian_splatting_is_pretty_cool) - [Gaussian Splatting is pretty cool](https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/)
 * [2023-09-06, 17:06:59](https://lobste.rs/s/hnwos1/xcom_crossplatform_graphics_user) - [XCOM, a \"crossplatform graphics user interface\"](http://xcom.infora.hu/index.html)
 * [2023-09-06, 16:34:06](https://lobste.rs/s/9sjhjb/now_it_s_postgresql_s_turn_have_bogus_cve) - [Now it's PostgreSQL's turn to have a bogus CVE](https://opensourcewatch.beehiiv.com/p/now-postgresqls-turn-bogus-cve)
-* [2023-09-06, 15:32:36](https://lobste.rs/s/adoesy/waterfall_doesn_t_mean_what_you_think_it) - [\"Waterfall\" doesn't mean what you think it means](https://changelog.com/posts/waterfall-doesnt-mean-what-you-think-it-means)
 * [2023-09-06, 14:39:23](https://lobste.rs/s/umywbs/why_react_re_renders_when_do_we_need_worry) - [Why React re-renders & when do we need to worry about it?](https://punits.dev/jargon-free-intros/why-react-rerenders-and-when-to-worry-about-it/)
 * [2023-09-06, 11:10:51](https://lobste.rs/s/hm5el5/why_prefer_t_cleanup_defer) - [Why to prefer `t.Cleanup` to `defer`](https://brandur.org/fragments/go-prefer-t-cleanup-with-parallel-subtests)
 * [2023-09-06, 10:34:16](https://lobste.rs/s/idysrp/how_write_secure_jwt_library_if_you) - [How to Write a Secure JWT Library If You Absolutely Must](https://scottarc.blog/2023/09/06/how-to-write-a-secure-jwt-library-if-you-absolutely-must/)

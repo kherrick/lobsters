@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
+* [2023-09-07, 12:10:15](https://lobste.rs/s/he6z4h/fleng_16_released_now_with_graphics) - [FLENG 16 released - now with graphics support and a much improved PCN frontend](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2023-09-07, 11:22:19](https://lobste.rs/s/3fswdc/remembering_molly_holzschlag) - [Remembering Molly Holzschlag](https://thehistoryoftheweb.com/remembering-molly-one-of-the-greats/)
 * [2023-09-07, 11:11:05](https://lobste.rs/s/rgj9j9/yet_another_c_coroutine_tutorial) - [Yet Another C++ Coroutine Tutorial » theshoemaker](https://theshoemaker.de/posts/yet-another-cpp-coroutine-tutorial)
 * [2023-09-07, 10:56:11](https://lobste.rs/s/2n03xd/former_huawei_executive_claims) - [Former Huawei executive claims that HarmonyOS for PC will release next year](https://www.neowin.net/news/former-huawei-executive-claims-that-harmonyos-for-pc-will-release-next-year/)
