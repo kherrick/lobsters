@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-07, 16:44:28",
+      "https://lobste.rs/s/0fcqkx/tolkien_clojure_library_for_accurate"
+    ],
+    [
+      "Tolkien: Clojure library for accurate* token counting for OpenAI APIs",
+      "https://medium.com/@lukaszkorecki/tolkien-clojure-library-for-accurate-token-counting-for-openai-apis-cd03b618232"
+    ]
+  ],
+  [
+    [
+      "2023-09-07, 16:44:03",
+      "https://lobste.rs/s/qzh42h/video_codecs_adding_av1_stateless_video"
+    ],
+    [
+      "Video codecs: Adding AV1 stateless video decoder support to Linux",
+      "https://www.collabora.com/news-and-blog/news-and-events/video-codecs-adding-av1-stateless-video-decoder-support-to-linux.html"
+    ]
+  ],
+  [
+    [
       "2023-09-07, 16:32:35",
       "https://lobste.rs/s/enfofz/modular_mojo_it_s_finally_here"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-09-06, 18:52:48",
-      "https://lobste.rs/s/ex6q7x/results_major_technical_investigations"
-    ],
-    [
-      "Results of Major Technical Investigations for Storm-0558 Key Acquisition",
-      "https://msrc.microsoft.com/blog/2023/09/results-of-major-technical-investigations-for-storm-0558-key-acquisition/"
-    ]
-  ],
-  [
-    [
       "2023-09-06, 17:35:11",
       "https://lobste.rs/s/aiisyw/gaussian_splatting_is_pretty_cool"
     ],
@@ -237,16 +247,6 @@
     [
       "Bogus CVE follow-ups",
       "https://daniel.haxx.se/blog/2023/09/05/bogus-cve-follow-ups/"
-    ]
-  ],
-  [
-    [
-      "2023-09-05, 21:00:12",
-      "https://lobste.rs/s/kl46df/new_eu_rules_smartphones_tablets_will"
-    ],
-    [
-      "New EU Rules: Smartphones and Tablets will follow new ecodesign requirements by June 2025",
-      "https://repair.eu/news/new-eu-rules-smartphones-and-tablets-will-follow-new-ecodesign-requirements-by-june-2025/"
     ]
   ]
 ]
