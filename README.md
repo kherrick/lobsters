@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-07, 16:46:52](https://lobste.rs/s/llkcap/kagi_small_web) - [Kagi Small Web](https://blog.kagi.com/small-web)
 * [2023-09-07, 16:44:28](https://lobste.rs/s/0fcqkx/tolkien_clojure_library_for_accurate) - [Tolkien: Clojure library for accurate* token counting for OpenAI APIs](https://medium.com/@lukaszkorecki/tolkien-clojure-library-for-accurate-token-counting-for-openai-apis-cd03b618232)
 * [2023-09-07, 16:44:03](https://lobste.rs/s/qzh42h/video_codecs_adding_av1_stateless_video) - [Video codecs: Adding AV1 stateless video decoder support to Linux](https://www.collabora.com/news-and-blog/news-and-events/video-codecs-adding-av1-stateless-video-decoder-support-to-linux.html)
 * [2023-09-07, 16:32:35](https://lobste.rs/s/enfofz/modular_mojo_it_s_finally_here) - [Modular Mojo: It’s finally here](https://www.modular.com/blog/mojo-its-finally-here)
@@ -22,7 +23,6 @@
 * [2023-09-07, 00:52:19](https://lobste.rs/s/ytosdr/experimental_does_not_mean_unstable) - [Experimental does not mean unstable, DetSys' perspective on Nix flakes](https://determinate.systems/posts/experimental-does-not-mean-unstable)
 * [2023-09-06, 19:26:02](https://lobste.rs/s/vbm3ln/internet_php) - [An Internet of PHP](https://timotijhof.net/posts/2023/an-internet-of-php/)
 * [2023-09-06, 17:35:11](https://lobste.rs/s/aiisyw/gaussian_splatting_is_pretty_cool) - [Gaussian Splatting is pretty cool](https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/)
-* [2023-09-06, 17:06:59](https://lobste.rs/s/hnwos1/xcom_crossplatform_graphics_user) - [XCOM, a \"crossplatform graphics user interface\"](http://xcom.infora.hu/index.html)
 * [2023-09-06, 16:34:06](https://lobste.rs/s/9sjhjb/now_it_s_postgresql_s_turn_have_bogus_cve) - [Now it's PostgreSQL's turn to have a bogus CVE](https://opensourcewatch.beehiiv.com/p/now-postgresqls-turn-bogus-cve)
 * [2023-09-06, 09:21:35](https://lobste.rs/s/voyfzz/bogus_cve_follow_ups) - [Bogus CVE follow-ups](https://daniel.haxx.se/blog/2023/09/05/bogus-cve-follow-ups/)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
+* [2023-09-07, 16:46:52](https://lobste.rs/s/llkcap/kagi_small_web) - [Kagi Small Web](https://blog.kagi.com/small-web)
 * [2023-09-07, 16:44:28](https://lobste.rs/s/0fcqkx/tolkien_clojure_library_for_accurate) - [Tolkien: Clojure library for accurate* token counting for OpenAI APIs](https://medium.com/@lukaszkorecki/tolkien-clojure-library-for-accurate-token-counting-for-openai-apis-cd03b618232)
 * [2023-09-07, 16:44:03](https://lobste.rs/s/qzh42h/video_codecs_adding_av1_stateless_video) - [Video codecs: Adding AV1 stateless video decoder support to Linux](https://www.collabora.com/news-and-blog/news-and-events/video-codecs-adding-av1-stateless-video-decoder-support-to-linux.html)
 * [2023-09-07, 16:32:35](https://lobste.rs/s/enfofz/modular_mojo_it_s_finally_here) - [Modular Mojo: It’s finally here](https://www.modular.com/blog/mojo-its-finally-here)
