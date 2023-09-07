@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-07, 18:07:01](https://lobste.rs/s/esqoud/refact_open_source_ai_coding_assistant) - [Refact: Open-source AI coding assistant with local fine-tuning on codebase](https://github.com/smallcloudai/refact)
 * [2023-09-07, 17:41:25](https://lobste.rs/s/nlp3h7/dealing_with_large_structs_table_tests) - [Dealing with large structs in (table) tests](https://www.willem.dev/articles/large-structs-in-table-tests/)
 * [2023-09-07, 17:36:52](https://lobste.rs/s/bwip4d/proposal_add_intern_package_go) - [Proposal to add an intern package to Go](https://github.com/golang/go/issues/62483)
 * [2023-09-07, 16:46:52](https://lobste.rs/s/llkcap/kagi_small_web) - [Kagi Small Web](https://blog.kagi.com/small-web)
@@ -22,7 +23,6 @@
 * [2023-09-07, 03:36:12](https://lobste.rs/s/wamkim/nix_flakes_is_experiment_did_too_much_at) - [Nix Flakes is an experiment that did too much at once…](https://samuel.dionne-riel.com/blog/2023/09/06/flakes-is-an-experiment-that-did-too-much-at-once.html)
 * [2023-09-07, 00:52:19](https://lobste.rs/s/ytosdr/experimental_does_not_mean_unstable) - [Experimental does not mean unstable, DetSys' perspective on Nix flakes](https://determinate.systems/posts/experimental-does-not-mean-unstable)
 * [2023-09-06, 19:26:02](https://lobste.rs/s/vbm3ln/internet_php) - [An Internet of PHP](https://timotijhof.net/posts/2023/an-internet-of-php/)
-* [2023-09-06, 17:35:11](https://lobste.rs/s/aiisyw/gaussian_splatting_is_pretty_cool) - [Gaussian Splatting is pretty cool](https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/)
 * [2023-09-06, 16:34:06](https://lobste.rs/s/9sjhjb/now_it_s_postgresql_s_turn_have_bogus_cve) - [Now it's PostgreSQL's turn to have a bogus CVE](https://opensourcewatch.beehiiv.com/p/now-postgresqls-turn-bogus-cve)
 * [2023-09-06, 09:21:35](https://lobste.rs/s/voyfzz/bogus_cve_follow_ups) - [Bogus CVE follow-ups](https://daniel.haxx.se/blog/2023/09/05/bogus-cve-follow-ups/)
 
