@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
+* [2023-09-07, 17:41:25](https://lobste.rs/s/nlp3h7/dealing_with_large_structs_table_tests) - [Dealing with large structs in (table) tests](https://www.willem.dev/articles/large-structs-in-table-tests/)
 * [2023-09-07, 17:36:52](https://lobste.rs/s/bwip4d/proposal_add_intern_package_go) - [Proposal to add an intern package to Go](https://github.com/golang/go/issues/62483)
 * [2023-09-07, 16:46:52](https://lobste.rs/s/llkcap/kagi_small_web) - [Kagi Small Web](https://blog.kagi.com/small-web)
 * [2023-09-07, 16:44:28](https://lobste.rs/s/0fcqkx/tolkien_clojure_library_for_accurate) - [Tolkien: Clojure library for accurate* token counting for OpenAI APIs](https://medium.com/@lukaszkorecki/tolkien-clojure-library-for-accurate-token-counting-for-openai-apis-cd03b618232)
