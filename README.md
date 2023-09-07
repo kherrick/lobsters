@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-07, 06:38:32](https://lobste.rs/s/t48fdd/surviving_disillusionment) - [Surviving disillusionment](https://www.spakhm.com/p/surviving-disillusionment)
+* [2023-09-07, 06:35:05](https://lobste.rs/s/eatrjj/generating_clojure_native_images_with) - [Generating Clojure Native Images with GraalVM and clj-nix](https://thenybble.de/posts/clojure-nix-graalvm/)
 * [2023-09-07, 03:36:12](https://lobste.rs/s/wamkim/nix_flakes_is_experiment_did_too_much_at) - [Nix Flakes is an experiment that did too much at once…](https://samuel.dionne-riel.com/blog/2023/09/06/flakes-is-an-experiment-that-did-too-much-at-once.html)
 * [2023-09-07, 00:52:19](https://lobste.rs/s/ytosdr/experimental_does_not_mean_unstable) - [Experimental does not mean unstable, DetSys' perspective on Nix flakes](https://determinate.systems/posts/experimental-does-not-mean-unstable)
 * [2023-09-06, 20:55:13](https://lobste.rs/s/bqlltd/digital_markets_act) - [Digital Markets Act](https://digital-markets-act.ec.europa.eu/legislation_en)
@@ -7,7 +9,6 @@
 * [2023-09-06, 19:19:27](https://lobste.rs/s/bnbr6a/compressing_single_color_image_various) - [Compressing a single-color image in various formats (2016)](https://cloudinary.com/blog/a_one_color_image_is_worth_two_thousand_words)
 * [2023-09-06, 18:52:48](https://lobste.rs/s/ex6q7x/results_major_technical_investigations) - [Results of Major Technical Investigations for Storm-0558 Key Acquisition](https://msrc.microsoft.com/blog/2023/09/results-of-major-technical-investigations-for-storm-0558-key-acquisition/)
 * [2023-09-06, 18:25:46](https://lobste.rs/s/suid1y/it_s_official_cars_are_worst_product) - [It’s Official: Cars Are the Worst Product Category We Have Ever Reviewed for Privacy](https://foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy/)
-* [2023-09-06, 18:07:48](https://lobste.rs/s/fd7upk/from_editor_web_apps_issue_2_mar_apr_1997) - [From the Editor -- Web Apps, Issue 2 Mar/Apr 1997](https://www.w3.org/People/Connolly/9703-web-apps-essay.html)
 * [2023-09-06, 18:03:24](https://lobste.rs/s/9prx5m/making_sense_react_server_components) - [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
 * [2023-09-06, 17:35:11](https://lobste.rs/s/aiisyw/gaussian_splatting_is_pretty_cool) - [Gaussian Splatting is pretty cool](https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/)
 * [2023-09-06, 17:06:59](https://lobste.rs/s/hnwos1/xcom_crossplatform_graphics_user) - [XCOM, a \"crossplatform graphics user interface\"](http://xcom.infora.hu/index.html)
@@ -24,7 +25,6 @@
 * [2023-09-05, 21:00:12](https://lobste.rs/s/kl46df/new_eu_rules_smartphones_tablets_will) - [New EU Rules: Smartphones and Tablets will follow new ecodesign requirements by June 2025](https://repair.eu/news/new-eu-rules-smartphones-and-tablets-will-follow-new-ecodesign-requirements-by-june-2025/)
 * [2023-09-05, 20:30:40](https://lobste.rs/s/flcm5h/year_after_disastrous_breach_lastpass) - [A year after the disastrous breach, LastPass has not improved](https://palant.info/2023/09/05/a-year-after-the-disastrous-breach-lastpass-has-not-improved/)
 * [2023-09-05, 16:16:12](https://lobste.rs/s/vsifq9/why_i_two_space) - [Why I Two-Space](https://stevelosh.com/blog/2012/10/why-i-two-space/)
-* [2023-09-05, 07:34:27](https://lobste.rs/s/8uhm2e/freebsd_containers_on_macos) - [FreeBSD containers on macOS](https://github.com/davidchisnall/container-vm-scripts)
 
 ## [Archives](archives/index.md)
 
