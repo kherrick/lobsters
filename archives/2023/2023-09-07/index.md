@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
+* [2023-09-07, 10:49:55](https://lobste.rs/s/phyzoh/better_faster_cheaper_how_grammarly) - [Better, Faster, Cheaper: How Grammarly Improved Monitoring by Over 10x with VictoriaMetrics](https://www.grammarly.com/blog/engineering/monitoring-with-victoriametrics/)
 * [2023-09-07, 10:14:37](https://lobste.rs/s/sec4bk/minijail_sandboxing_containment_tool) - [minijail - sandboxing and containment tool used in ChromeOS/Android](https://google.github.io/minijail/)
 * [2023-09-07, 07:28:10](https://lobste.rs/s/hyogcb/advances_real_time_rendering_2023) - [Advances in Real-Time Rendering 2023](https://advances.realtimerendering.com/s2023/index.html)
 * [2023-09-07, 06:50:07](https://lobste.rs/s/dxeqhs/minecraft_1_8_9_for_powerpc_macs) - [Minecraft 1.8.9 for PowerPC Macs](https://lowendmac.com/2023/minecraft-1-8-9-for-powerpc-macs/)
