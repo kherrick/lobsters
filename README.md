@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-07, 11:22:19](https://lobste.rs/s/3fswdc/remembering_molly_holzschlag) - [Remembering Molly Holzschlag](https://thehistoryoftheweb.com/remembering-molly-one-of-the-greats/)
 * [2023-09-07, 11:11:05](https://lobste.rs/s/rgj9j9/yet_another_c_coroutine_tutorial) - [Yet Another C++ Coroutine Tutorial » theshoemaker](https://theshoemaker.de/posts/yet-another-cpp-coroutine-tutorial)
 * [2023-09-07, 10:56:11](https://lobste.rs/s/2n03xd/former_huawei_executive_claims) - [Former Huawei executive claims that HarmonyOS for PC will release next year](https://www.neowin.net/news/former-huawei-executive-claims-that-harmonyos-for-pc-will-release-next-year/)
 * [2023-09-07, 10:49:55](https://lobste.rs/s/phyzoh/better_faster_cheaper_how_grammarly) - [Better, Faster, Cheaper: How Grammarly Improved Monitoring by Over 10x with VictoriaMetrics](https://www.grammarly.com/blog/engineering/monitoring-with-victoriametrics/)
@@ -12,7 +13,6 @@
 * [2023-09-07, 03:36:12](https://lobste.rs/s/wamkim/nix_flakes_is_experiment_did_too_much_at) - [Nix Flakes is an experiment that did too much at once…](https://samuel.dionne-riel.com/blog/2023/09/06/flakes-is-an-experiment-that-did-too-much-at-once.html)
 * [2023-09-07, 00:52:19](https://lobste.rs/s/ytosdr/experimental_does_not_mean_unstable) - [Experimental does not mean unstable, DetSys' perspective on Nix flakes](https://determinate.systems/posts/experimental-does-not-mean-unstable)
 * [2023-09-06, 19:26:02](https://lobste.rs/s/vbm3ln/internet_php) - [An Internet of PHP](https://timotijhof.net/posts/2023/an-internet-of-php/)
-* [2023-09-06, 19:19:27](https://lobste.rs/s/bnbr6a/compressing_single_color_image_various) - [Compressing a single-color image in various formats (2016)](https://cloudinary.com/blog/a_one_color_image_is_worth_two_thousand_words)
 * [2023-09-06, 18:52:48](https://lobste.rs/s/ex6q7x/results_major_technical_investigations) - [Results of Major Technical Investigations for Storm-0558 Key Acquisition](https://msrc.microsoft.com/blog/2023/09/results-of-major-technical-investigations-for-storm-0558-key-acquisition/)
 * [2023-09-06, 18:25:46](https://lobste.rs/s/suid1y/it_s_official_cars_are_worst_product) - [It’s Official: Cars Are the Worst Product Category We Have Ever Reviewed for Privacy](https://foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy/)
 * [2023-09-06, 17:35:11](https://lobste.rs/s/aiisyw/gaussian_splatting_is_pretty_cool) - [Gaussian Splatting is pretty cool](https://aras-p.info/blog/2023/09/05/Gaussian-Splatting-is-pretty-cool/)
