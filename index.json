@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-07, 10:14:37",
+      "https://lobste.rs/s/sec4bk/minijail_sandboxing_containment_tool"
+    ],
+    [
+      "minijail - sandboxing and containment tool used in ChromeOS/Android",
+      "https://google.github.io/minijail/"
+    ]
+  ],
+  [
+    [
       "2023-09-07, 07:28:10",
       "https://lobste.rs/s/hyogcb/advances_real_time_rendering_2023"
     ],
@@ -197,16 +207,6 @@
     [
       "Bogus CVE follow-ups",
       "https://daniel.haxx.se/blog/2023/09/05/bogus-cve-follow-ups/"
-    ]
-  ],
-  [
-    [
-      "2023-09-06, 08:11:54",
-      "https://lobste.rs/s/tlddmz/bloom_filters_beyond_illustrated"
-    ],
-    [
-      "Bloom Filters and Beyond: An Illustrated Introduction and Implementation",
-      "https://codeconfessions.substack.com/p/bloom-filters-and-beyond"
     ]
   ],
   [
