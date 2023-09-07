@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
+* [2023-09-07, 16:04:55](https://lobste.rs/s/lsvmkq/semver_violations_are_common_better) - [Semver violations are common, better tooling is the answer](https://predr.ag/blog/semver-violations-are-common-better-tooling-is-the-answer/)
 * [2023-09-07, 15:49:22](https://lobste.rs/s/dxptka/active_north_korean_campaign_targeting) - [Active North Korean campaign targeting security researchers](https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/)
 * [2023-09-07, 15:24:35](https://lobste.rs/s/zfyi8c/introducing_flake8_logging) - [Introducing flake8-logging](https://adamj.eu/tech/2023/09/07/introducing-flake8-logging/)
 * [2023-09-07, 14:07:00](https://lobste.rs/s/bulztv/request_catcher_record_http_requests) - [Request Catcher — record HTTP requests, webhooks, API calls](https://requestcatcher.com/)
