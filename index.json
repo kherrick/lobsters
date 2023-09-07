@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-07, 06:50:07",
+      "https://lobste.rs/s/dxeqhs/minecraft_1_8_9_for_powerpc_macs"
+    ],
+    [
+      "Minecraft 1.8.9 for PowerPC Macs",
+      "https://lowendmac.com/2023/minecraft-1-8-9-for-powerpc-macs/"
+    ]
+  ],
+  [
+    [
+      "2023-09-07, 06:48:06",
+      "https://lobste.rs/s/atup8s/ikea_powered_homelab_on_wall"
+    ],
+    [
+      "The IKEA-powered homelab on a wall",
+      "https://ounapuu.ee/posts/2023/09/07/ikea-powered-homelab/"
+    ]
+  ],
+  [
+    [
       "2023-09-07, 06:38:32",
       "https://lobste.rs/s/t48fdd/surviving_disillusionment"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-09-06, 13:49:30",
-      "https://lobste.rs/s/wxs0rh/learn_where_some_network_sysctl"
-    ],
-    [
-      "Learn where some of the network sysctl variables fit into the Linux/Kernel network flow",
-      "https://github.com/leandromoreira/linux-network-performance-parameters"
-    ]
-  ],
-  [
-    [
       "2023-09-06, 11:10:51",
       "https://lobste.rs/s/hm5el5/why_prefer_t_cleanup_defer"
     ],
@@ -207,16 +217,6 @@
     [
       "Code Vulnerabilities Leak Emails in Proton Mail",
       "https://www.sonarsource.com/blog/code-vulnerabilities-leak-emails-in-proton-mail/"
-    ]
-  ],
-  [
-    [
-      "2023-09-06, 03:18:09",
-      "https://lobste.rs/s/lywssq/zx_origins_8x8_bitmap_fonts"
-    ],
-    [
-      "ZX Origins 8x8 Bitmap Fonts",
-      "https://damieng.com/typography/zx-origins/"
     ]
   ],
   [
