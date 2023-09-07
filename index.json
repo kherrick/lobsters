@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-07, 12:21:09",
+      "https://lobste.rs/s/enh3bb/feature_request_link_parent_comment"
+    ],
+    [
+      "Feature request: link to parent of a comment",
+      "https://lobste.rs/s/enh3bb/feature_request_link_parent_comment"
+    ]
+  ],
+  [
+    [
       "2023-09-07, 12:10:15",
       "https://lobste.rs/s/he6z4h/fleng_16_released_now_with_graphics"
     ],
@@ -187,16 +197,6 @@
     [
       "Now it's PostgreSQL's turn to have a bogus CVE",
       "https://opensourcewatch.beehiiv.com/p/now-postgresqls-turn-bogus-cve"
-    ]
-  ],
-  [
-    [
-      "2023-09-06, 14:39:23",
-      "https://lobste.rs/s/umywbs/why_react_re_renders_when_do_we_need_worry"
-    ],
-    [
-      "Why React re-renders & when do we need to worry about it?",
-      "https://punits.dev/jargon-free-intros/why-react-rerenders-and-when-to-worry-about-it/"
     ]
   ],
   [
