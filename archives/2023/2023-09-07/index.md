@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-07](index.md)
 
+* [2023-09-07, 14:07:00](https://lobste.rs/s/bulztv/request_catcher_record_http_requests) - [Request Catcher — record HTTP requests, webhooks, API calls](https://requestcatcher.com/)
 * [2023-09-07, 13:39:00](https://lobste.rs/s/wvi9xw/why_not_matrix) - [why not matrix?](https://telegra.ph/why-not-matrix-08-07)
 * [2023-09-07, 13:03:32](https://lobste.rs/s/8ejn7x/turbo_8_is_dropping_typescript) - [Turbo 8 is dropping TypeScript](https://world.hey.com/dhh/turbo-8-is-dropping-typescript-70165c01)
 * [2023-09-07, 12:21:09](https://lobste.rs/s/enh3bb/feature_request_link_parent_comment) - [Feature request: link to parent of a comment](https://lobste.rs/s/enh3bb/feature_request_link_parent_comment)
