@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-07, 13:03:32](https://lobste.rs/s/8ejn7x/turbo_8_is_dropping_typescript) - [Turbo 8 is dropping TypeScript](https://world.hey.com/dhh/turbo-8-is-dropping-typescript-70165c01)
 * [2023-09-07, 12:21:09](https://lobste.rs/s/enh3bb/feature_request_link_parent_comment) - [Feature request: link to parent of a comment](https://lobste.rs/s/enh3bb/feature_request_link_parent_comment)
 * [2023-09-07, 12:10:15](https://lobste.rs/s/he6z4h/fleng_16_released_now_with_graphics) - [FLENG 16 released - now with graphics support and a much improved PCN frontend](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2023-09-07, 11:22:19](https://lobste.rs/s/3fswdc/remembering_molly_holzschlag) - [Remembering Molly Holzschlag](https://thehistoryoftheweb.com/remembering-molly-one-of-the-greats/)
@@ -24,7 +25,6 @@
 * [2023-09-06, 10:34:16](https://lobste.rs/s/idysrp/how_write_secure_jwt_library_if_you) - [How to Write a Secure JWT Library If You Absolutely Must](https://scottarc.blog/2023/09/06/how-to-write-a-secure-jwt-library-if-you-absolutely-must/)
 * [2023-09-06, 09:21:35](https://lobste.rs/s/voyfzz/bogus_cve_follow_ups) - [Bogus CVE follow-ups](https://daniel.haxx.se/blog/2023/09/05/bogus-cve-follow-ups/)
 * [2023-09-05, 21:00:12](https://lobste.rs/s/kl46df/new_eu_rules_smartphones_tablets_will) - [New EU Rules: Smartphones and Tablets will follow new ecodesign requirements by June 2025](https://repair.eu/news/new-eu-rules-smartphones-and-tablets-will-follow-new-ecodesign-requirements-by-june-2025/)
-* [2023-09-05, 20:30:40](https://lobste.rs/s/flcm5h/year_after_disastrous_breach_lastpass) - [A year after the disastrous breach, LastPass has not improved](https://palant.info/2023/09/05/a-year-after-the-disastrous-breach-lastpass-has-not-improved/)
 
 ## [Archives](archives/index.md)
 
