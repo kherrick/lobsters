@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-07, 10:14:37](https://lobste.rs/s/sec4bk/minijail_sandboxing_containment_tool) - [minijail - sandboxing and containment tool used in ChromeOS/Android](https://google.github.io/minijail/)
 * [2023-09-07, 07:28:10](https://lobste.rs/s/hyogcb/advances_real_time_rendering_2023) - [Advances in Real-Time Rendering 2023](https://advances.realtimerendering.com/s2023/index.html)
 * [2023-09-07, 06:50:07](https://lobste.rs/s/dxeqhs/minecraft_1_8_9_for_powerpc_macs) - [Minecraft 1.8.9 for PowerPC Macs](https://lowendmac.com/2023/minecraft-1-8-9-for-powerpc-macs/)
 * [2023-09-07, 06:48:06](https://lobste.rs/s/atup8s/ikea_powered_homelab_on_wall) - [The IKEA-powered homelab on a wall](https://ounapuu.ee/posts/2023/09/07/ikea-powered-homelab/)
@@ -20,7 +21,6 @@
 * [2023-09-06, 11:10:51](https://lobste.rs/s/hm5el5/why_prefer_t_cleanup_defer) - [Why to prefer `t.Cleanup` to `defer`](https://brandur.org/fragments/go-prefer-t-cleanup-with-parallel-subtests)
 * [2023-09-06, 10:34:16](https://lobste.rs/s/idysrp/how_write_secure_jwt_library_if_you) - [How to Write a Secure JWT Library If You Absolutely Must](https://scottarc.blog/2023/09/06/how-to-write-a-secure-jwt-library-if-you-absolutely-must/)
 * [2023-09-06, 09:21:35](https://lobste.rs/s/voyfzz/bogus_cve_follow_ups) - [Bogus CVE follow-ups](https://daniel.haxx.se/blog/2023/09/05/bogus-cve-follow-ups/)
-* [2023-09-06, 08:11:54](https://lobste.rs/s/tlddmz/bloom_filters_beyond_illustrated) - [Bloom Filters and Beyond: An Illustrated Introduction and Implementation](https://codeconfessions.substack.com/p/bloom-filters-and-beyond)
 * [2023-09-06, 05:51:54](https://lobste.rs/s/sceokj/code_vulnerabilities_leak_emails_proton) - [Code Vulnerabilities Leak Emails in Proton Mail](https://www.sonarsource.com/blog/code-vulnerabilities-leak-emails-in-proton-mail/)
 * [2023-09-05, 21:00:12](https://lobste.rs/s/kl46df/new_eu_rules_smartphones_tablets_will) - [New EU Rules: Smartphones and Tablets will follow new ecodesign requirements by June 2025](https://repair.eu/news/new-eu-rules-smartphones-and-tablets-will-follow-new-ecodesign-requirements-by-june-2025/)
 * [2023-09-05, 20:30:40](https://lobste.rs/s/flcm5h/year_after_disastrous_breach_lastpass) - [A year after the disastrous breach, LastPass has not improved](https://palant.info/2023/09/05/a-year-after-the-disastrous-breach-lastpass-has-not-improved/)
