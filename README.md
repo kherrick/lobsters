@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-08, 03:16:48](https://lobste.rs/s/dtiztq/simple_simulations_for_system_builders) - [Simple Simulations for System Builders (2022)](https://brooker.co.za/blog/2022/04/11/simulation.html)
 * [2023-09-08, 00:42:34](https://lobste.rs/s/70ri2g/real_time_trumpet_simulation) - [Real-time Trumpet Simulation](https://www.youtube.com/watch?v=rGNUHigqUBM)
 * [2023-09-07, 23:31:28](https://lobste.rs/s/fhn3jf/ui_context_rails_variants) - [UI Context and Rails Variants](https://domchristie.co.uk/posts/ui-context-and-rails-variants/)
 * [2023-09-07, 22:06:29](https://lobste.rs/s/1syovw/learning_english_with_crosswords) - [Learning English with crosswords and an extension integrating ChatGPT](https://ranfdev.com/blog/learning-english-crosswords-extension/)
-* [2023-09-07, 21:40:42](https://lobste.rs/s/gxiile/introduction_betterer) - [Introduction | Betterer](https://phenomnomnominal.github.io/betterer/docs/introduction)
 * [2023-09-07, 20:21:25](https://lobste.rs/s/bbnye1/blastpass_nso_group_iphone_zero_click) - [BLASTPASS: NSO Group iPhone Zero-Click, Zero-Day Exploit Captured in the Wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/)
 * [2023-09-07, 18:44:20](https://lobste.rs/s/eprllj/ricochet_robots_solver) - [Ricochet Robots Solver](https://kevincox.ca/2023/09/02/ricochet-robots-solver/)
 * [2023-09-07, 18:35:08](https://lobste.rs/s/cvjcrs/bun_1_0_is_here) - [Bun 1.0 is here](https://www.youtube.com/watch?v=BsnCpESUEqM)
