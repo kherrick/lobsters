@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-09-08, 17:42:07](https://lobste.rs/s/f5zlq9/scaling_gopls_for_growing_go_ecosystem) - [Scaling gopls for the growing Go ecosystem](https://go.dev/blog/gopls-scalability)
+* [2023-09-08, 18:26:45](https://lobste.rs/s/d2pcdi/cve_2023_4809_freebsd_pf_bypass_when_using) - [CVE-2023-4809: FreeBSD pf bypass when using IPv6](https://www.enricobassetti.it/2023/09/cve-2023-4809-freebsd-pf-bypass-when-using-ipv6/)
+* [2023-09-08, 18:21:28](https://lobste.rs/s/cryfiu/async_rust_is_bad_language) - [Async Rust Is A Bad Language](https://bitbashing.io/async-rust.html)
 * [2023-09-08, 16:47:28](https://lobste.rs/s/tyoflm/solving_same_problem_multiple_times) - [Solving the same problem multiple times](https://blog.fredrb.com/2023/09/08/same-problem-multiple-times/)
 * [2023-09-08, 16:44:39](https://lobste.rs/s/ur80zz/carbon_language_successor_strategy_from) - [Carbon Language Successor Strategy: From C++ Interop to Memory Safety](https://www.youtube.com/watch?v=1ZTJ9omXOQ0)
 * [2023-09-08, 16:43:30](https://lobste.rs/s/dkp1te/release_jq_1_7_jqlang_jq) - [Release jq 1.7 · jqlang/jq](https://github.com/jqlang/jq/releases/tag/jq-1.7)
@@ -21,7 +22,6 @@
 * [2023-09-07, 18:35:08](https://lobste.rs/s/cvjcrs/bun_1_0_is_here) - [Bun 1.0 is here](https://www.youtube.com/watch?v=BsnCpESUEqM)
 * [2023-09-07, 18:07:01](https://lobste.rs/s/esqoud/refact_open_source_ai_coding_assistant) - [Refact: Open-source AI coding assistant with local fine-tuning on codebase](https://github.com/smallcloudai/refact)
 * [2023-09-07, 16:46:52](https://lobste.rs/s/llkcap/kagi_small_web) - [Kagi Small Web](https://blog.kagi.com/small-web)
-* [2023-09-07, 16:32:35](https://lobste.rs/s/enfofz/modular_mojo_it_s_finally_here) - [Modular Mojo: It’s finally here](https://www.modular.com/blog/mojo-its-finally-here)
 * [2023-09-07, 16:04:55](https://lobste.rs/s/lsvmkq/semver_violations_are_common_better) - [Semver violations are common, better tooling is the answer](https://predr.ag/blog/semver-violations-are-common-better-tooling-is-the-answer/)
 * [2023-09-07, 13:39:00](https://lobste.rs/s/wvi9xw/why_not_matrix) - [why not matrix?](https://telegra.ph/why-not-matrix-08-07)
 * [2023-09-07, 06:48:06](https://lobste.rs/s/atup8s/ikea_powered_homelab_on_wall) - [The IKEA-powered homelab on a wall](https://ounapuu.ee/posts/2023/09/07/ikea-powered-homelab/)
