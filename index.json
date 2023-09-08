@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-08, 16:14:00",
+      "https://lobste.rs/s/cnwoxq/simple_application_oauth_mastodon_s_api"
+    ],
+    [
+      "A simple application of OAuth: Mastodon's API - Dan Schnau dot com",
+      "https://danschnau.com/blog/this_blog_automatically_posts_to_the_fediverse"
+    ]
+  ],
+  [
+    [
       "2023-09-08, 15:17:13",
       "https://lobste.rs/s/xsn8ds/elks_v0_7_0_linux_for_intel_8086"
     ],
@@ -237,16 +247,6 @@
     [
       "The IKEA-powered homelab on a wall",
       "https://ounapuu.ee/posts/2023/09/07/ikea-powered-homelab/"
-    ]
-  ],
-  [
-    [
-      "2023-09-07, 03:36:12",
-      "https://lobste.rs/s/wamkim/nix_flakes_is_experiment_did_too_much_at"
-    ],
-    [
-      "Nix Flakes is an experiment that did too much at once…",
-      "https://samuel.dionne-riel.com/blog/2023/09/06/flakes-is-an-experiment-that-did-too-much-at-once.html"
     ]
   ]
 ]
