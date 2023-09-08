@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-08, 09:23:07](https://lobste.rs/s/8uiawi/just_how_constexpr_is_c_20_s_std_string) - [Just how constexpr is C++20’s std::string?](https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/)
 * [2023-09-08, 05:59:34](https://lobste.rs/s/w4ss34/eval_really_is_dangerous_2012) - [Eval really is dangerous (2012)](https://nedbatchelder.com/blog/201206/eval_really_is_dangerous.html)
 * [2023-09-08, 05:32:28](https://lobste.rs/s/irrf00/msdos_themed_image_enhancement_tool) - [MSDOS Themed Image Enhancement Tool](https://msdosimagetools.ngrok.dev)
 * [2023-09-08, 00:42:34](https://lobste.rs/s/70ri2g/real_time_trumpet_simulation) - [Real-time Trumpet Simulation](https://www.youtube.com/watch?v=rGNUHigqUBM)
@@ -9,7 +10,6 @@
 * [2023-09-07, 18:44:20](https://lobste.rs/s/eprllj/ricochet_robots_solver) - [Ricochet Robots Solver](https://kevincox.ca/2023/09/02/ricochet-robots-solver/)
 * [2023-09-07, 18:35:08](https://lobste.rs/s/cvjcrs/bun_1_0_is_here) - [Bun 1.0 is here](https://www.youtube.com/watch?v=BsnCpESUEqM)
 * [2023-09-07, 18:07:01](https://lobste.rs/s/esqoud/refact_open_source_ai_coding_assistant) - [Refact: Open-source AI coding assistant with local fine-tuning on codebase](https://github.com/smallcloudai/refact)
-* [2023-09-07, 17:41:25](https://lobste.rs/s/nlp3h7/dealing_with_large_structs_table_tests) - [Dealing with large structs in (table) tests](https://www.willem.dev/articles/large-structs-in-table-tests/)
 * [2023-09-07, 17:36:52](https://lobste.rs/s/bwip4d/proposal_add_intern_package_go) - [Proposal to add an intern package to Go](https://github.com/golang/go/issues/62483)
 * [2023-09-07, 16:46:52](https://lobste.rs/s/llkcap/kagi_small_web) - [Kagi Small Web](https://blog.kagi.com/small-web)
 * [2023-09-07, 16:44:28](https://lobste.rs/s/0fcqkx/tolkien_clojure_library_for_accurate) - [Tolkien: Clojure library for accurate* token counting for OpenAI APIs](https://medium.com/@lukaszkorecki/tolkien-clojure-library-for-accurate-token-counting-for-openai-apis-cd03b618232)
