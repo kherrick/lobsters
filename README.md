@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-08, 05:59:34](https://lobste.rs/s/w4ss34/eval_really_is_dangerous_2012) - [Eval really is dangerous (2012)](https://nedbatchelder.com/blog/201206/eval_really_is_dangerous.html)
 * [2023-09-08, 05:32:28](https://lobste.rs/s/irrf00/msdos_themed_image_enhancement_tool) - [MSDOS Themed Image Enhancement Tool](https://msdosimagetools.ngrok.dev)
-* [2023-09-08, 03:16:48](https://lobste.rs/s/dtiztq/simple_simulations_for_system_builders) - [Simple Simulations for System Builders (2022)](https://brooker.co.za/blog/2022/04/11/simulation.html)
 * [2023-09-08, 00:42:34](https://lobste.rs/s/70ri2g/real_time_trumpet_simulation) - [Real-time Trumpet Simulation](https://www.youtube.com/watch?v=rGNUHigqUBM)
 * [2023-09-07, 23:31:28](https://lobste.rs/s/fhn3jf/ui_context_rails_variants) - [UI Context and Rails Variants](https://domchristie.co.uk/posts/ui-context-and-rails-variants/)
 * [2023-09-07, 22:06:29](https://lobste.rs/s/1syovw/learning_english_with_crosswords) - [Learning English with crosswords and an extension integrating ChatGPT](https://ranfdev.com/blog/learning-english-crosswords-extension/)
