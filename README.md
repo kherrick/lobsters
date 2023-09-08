@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-08, 05:32:28](https://lobste.rs/s/irrf00/msdos_themed_image_enhancement_tool) - [MSDOS Themed Image Enhancement Tool](https://msdosimagetools.ngrok.dev)
 * [2023-09-08, 03:16:48](https://lobste.rs/s/dtiztq/simple_simulations_for_system_builders) - [Simple Simulations for System Builders (2022)](https://brooker.co.za/blog/2022/04/11/simulation.html)
 * [2023-09-08, 00:42:34](https://lobste.rs/s/70ri2g/real_time_trumpet_simulation) - [Real-time Trumpet Simulation](https://www.youtube.com/watch?v=rGNUHigqUBM)
 * [2023-09-07, 23:31:28](https://lobste.rs/s/fhn3jf/ui_context_rails_variants) - [UI Context and Rails Variants](https://domchristie.co.uk/posts/ui-context-and-rails-variants/)
@@ -18,7 +19,6 @@
 * [2023-09-07, 15:49:22](https://lobste.rs/s/dxptka/active_north_korean_campaign_targeting) - [Active North Korean campaign targeting security researchers](https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/)
 * [2023-09-07, 15:24:35](https://lobste.rs/s/zfyi8c/introducing_flake8_logging) - [Introducing flake8-logging](https://adamj.eu/tech/2023/09/07/introducing-flake8-logging/)
 * [2023-09-07, 13:39:00](https://lobste.rs/s/wvi9xw/why_not_matrix) - [why not matrix?](https://telegra.ph/why-not-matrix-08-07)
-* [2023-09-07, 12:21:09](https://lobste.rs/s/enh3bb/feature_request_link_parent_comment) - [Feature request: link to parent of a comment](https://lobste.rs/s/enh3bb/feature_request_link_parent_comment)
 * [2023-09-07, 12:10:15](https://lobste.rs/s/he6z4h/fleng_16_released_now_with_graphics) - [FLENG 16 released - now with graphics support and a much improved PCN frontend](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2023-09-07, 11:22:19](https://lobste.rs/s/3fswdc/remembering_molly_holzschlag) - [Remembering Molly Holzschlag](https://thehistoryoftheweb.com/remembering-molly-one-of-the-greats/)
 * [2023-09-07, 06:48:06](https://lobste.rs/s/atup8s/ikea_powered_homelab_on_wall) - [The IKEA-powered homelab on a wall](https://ounapuu.ee/posts/2023/09/07/ikea-powered-homelab/)
