@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-08, 15:17:13",
+      "https://lobste.rs/s/xsn8ds/elks_v0_7_0_linux_for_intel_8086"
+    ],
+    [
+      "ELKS v0.7.0 – Linux for the Intel 8086",
+      "https://github.com/ghaerr/elks/releases/tag/v0.7.0"
+    ]
+  ],
+  [
+    [
       "2023-09-08, 14:33:49",
       "https://lobste.rs/s/wywsvx/how_big_is_kilobyte"
     ],
@@ -237,16 +247,6 @@
     [
       "Nix Flakes is an experiment that did too much at once…",
       "https://samuel.dionne-riel.com/blog/2023/09/06/flakes-is-an-experiment-that-did-too-much-at-once.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-07, 00:52:19",
-      "https://lobste.rs/s/ytosdr/experimental_does_not_mean_unstable"
-    ],
-    [
-      "Experimental does not mean unstable, DetSys' perspective on Nix flakes",
-      "https://determinate.systems/posts/experimental-does-not-mean-unstable"
     ]
   ]
 ]
