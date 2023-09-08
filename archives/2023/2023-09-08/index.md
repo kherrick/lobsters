@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
+* [2023-09-08, 17:42:07](https://lobste.rs/s/f5zlq9/scaling_gopls_for_growing_go_ecosystem) - [Scaling gopls for the growing Go ecosystem](https://go.dev/blog/gopls-scalability)
 * [2023-09-08, 16:47:28](https://lobste.rs/s/tyoflm/solving_same_problem_multiple_times) - [Solving the same problem multiple times](https://blog.fredrb.com/2023/09/08/same-problem-multiple-times/)
 * [2023-09-08, 16:44:39](https://lobste.rs/s/ur80zz/carbon_language_successor_strategy_from) - [Carbon Language Successor Strategy: From C++ Interop to Memory Safety](https://www.youtube.com/watch?v=1ZTJ9omXOQ0)
 * [2023-09-08, 16:43:30](https://lobste.rs/s/dkp1te/release_jq_1_7_jqlang_jq) - [Release jq 1.7 · jqlang/jq](https://github.com/jqlang/jq/releases/tag/jq-1.7)

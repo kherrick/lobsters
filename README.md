@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-08, 17:42:07](https://lobste.rs/s/f5zlq9/scaling_gopls_for_growing_go_ecosystem) - [Scaling gopls for the growing Go ecosystem](https://go.dev/blog/gopls-scalability)
 * [2023-09-08, 16:47:28](https://lobste.rs/s/tyoflm/solving_same_problem_multiple_times) - [Solving the same problem multiple times](https://blog.fredrb.com/2023/09/08/same-problem-multiple-times/)
 * [2023-09-08, 16:44:39](https://lobste.rs/s/ur80zz/carbon_language_successor_strategy_from) - [Carbon Language Successor Strategy: From C++ Interop to Memory Safety](https://www.youtube.com/watch?v=1ZTJ9omXOQ0)
 * [2023-09-08, 16:43:30](https://lobste.rs/s/dkp1te/release_jq_1_7_jqlang_jq) - [Release jq 1.7 · jqlang/jq](https://github.com/jqlang/jq/releases/tag/jq-1.7)
@@ -17,7 +18,6 @@
 * [2023-09-08, 05:59:34](https://lobste.rs/s/w4ss34/eval_really_is_dangerous_2012) - [Eval really is dangerous (2012)](https://nedbatchelder.com/blog/201206/eval_really_is_dangerous.html)
 * [2023-09-08, 00:42:34](https://lobste.rs/s/70ri2g/real_time_trumpet_simulation) - [Real-time Trumpet Simulation](https://www.youtube.com/watch?v=rGNUHigqUBM)
 * [2023-09-07, 20:21:25](https://lobste.rs/s/bbnye1/blastpass_nso_group_iphone_zero_click) - [BLASTPASS: NSO Group iPhone Zero-Click, Zero-Day Exploit Captured in the Wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/)
-* [2023-09-07, 18:44:20](https://lobste.rs/s/eprllj/ricochet_robots_solver) - [Ricochet Robots Solver](https://kevincox.ca/2023/09/02/ricochet-robots-solver/)
 * [2023-09-07, 18:35:08](https://lobste.rs/s/cvjcrs/bun_1_0_is_here) - [Bun 1.0 is here](https://www.youtube.com/watch?v=BsnCpESUEqM)
 * [2023-09-07, 18:07:01](https://lobste.rs/s/esqoud/refact_open_source_ai_coding_assistant) - [Refact: Open-source AI coding assistant with local fine-tuning on codebase](https://github.com/smallcloudai/refact)
 * [2023-09-07, 16:46:52](https://lobste.rs/s/llkcap/kagi_small_web) - [Kagi Small Web](https://blog.kagi.com/small-web)
