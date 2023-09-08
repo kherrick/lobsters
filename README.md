@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-08, 23:46:50](https://lobste.rs/s/5aclse/non_determinism_gpt_4_is_caused_by_sparse) - [Non-determinism in GPT-4 is caused by Sparse MoE](https://152334h.github.io/blog/non-determinism-in-gpt-4/)
 * [2023-09-08, 23:18:11](https://lobste.rs/s/bpsvbj/bun_1_0_bun_blog) - [Bun 1.0 | Bun Blog](https://bun.sh/blog/bun-v1.0)
 * [2023-09-08, 21:17:20](https://lobste.rs/s/lz0rbb/decoded_gnu_coreutils) - [Decoded: GNU coreutils](https://maizure.org/projects/decoded-gnu-coreutils/)
 * [2023-09-08, 20:53:50](https://lobste.rs/s/gtluba/what_if_someone_made_plan_9_could_run_linux) - [What if... someone made a Plan 9 that could run Linux apps?](https://liam-on-linux.dreamwidth.org/89039.html)
@@ -18,7 +19,6 @@
 * [2023-09-08, 13:02:52](https://lobste.rs/s/frapzu/android_14_blocks_direct_modification) - [Android 14 blocks direct modification of system certificates](https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/)
 * [2023-09-08, 10:20:40](https://lobste.rs/s/ysfpcs/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ysfpcs/what_are_you_doing_this_weekend)
 * [2023-09-08, 10:20:35](https://lobste.rs/s/kh2z3w/response_time_is_system_talking) - [Response Time Is the System Talking](https://two-wrongs.com/response-time-is-the-system-talking.html)
-* [2023-09-08, 09:57:23](https://lobste.rs/s/dpzsdl/developer_tools) - [Developer Tools](https://popey.com/blog/2023/09/developer-tools/)
 * [2023-09-08, 05:59:34](https://lobste.rs/s/w4ss34/eval_really_is_dangerous_2012) - [Eval really is dangerous (2012)](https://nedbatchelder.com/blog/201206/eval_really_is_dangerous.html)
 * [2023-09-07, 20:21:25](https://lobste.rs/s/bbnye1/blastpass_nso_group_iphone_zero_click) - [BLASTPASS: NSO Group iPhone Zero-Click, Zero-Day Exploit Captured in the Wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/)
 * [2023-09-07, 18:35:08](https://lobste.rs/s/cvjcrs/bun_1_0_is_here) - [Bun 1.0 is here](https://www.youtube.com/watch?v=BsnCpESUEqM)

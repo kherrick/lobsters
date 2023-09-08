@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
+* [2023-09-08, 23:46:50](https://lobste.rs/s/5aclse/non_determinism_gpt_4_is_caused_by_sparse) - [Non-determinism in GPT-4 is caused by Sparse MoE](https://152334h.github.io/blog/non-determinism-in-gpt-4/)
 * [2023-09-08, 23:18:11](https://lobste.rs/s/bpsvbj/bun_1_0_bun_blog) - [Bun 1.0 | Bun Blog](https://bun.sh/blog/bun-v1.0)
 * [2023-09-08, 22:44:55](https://lobste.rs/s/wwxtej/elevate_your_rust_code_art_separating) - [Elevate Your Rust Code: The Art of Separating Actions and Calculations](https://rusty-ferris.pages.dev/blog/fp-actions-vs-calculations/)
 * [2023-09-08, 21:17:20](https://lobste.rs/s/lz0rbb/decoded_gnu_coreutils) - [Decoded: GNU coreutils](https://maizure.org/projects/decoded-gnu-coreutils/)
