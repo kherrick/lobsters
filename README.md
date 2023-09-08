@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-08, 09:57:23](https://lobste.rs/s/dpzsdl/developer_tools) - [Developer Tools](https://popey.com/blog/2023/09/developer-tools/)
 * [2023-09-08, 09:23:07](https://lobste.rs/s/8uiawi/just_how_constexpr_is_c_20_s_std_string) - [Just how constexpr is C++20’s std::string?](https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/)
 * [2023-09-08, 05:59:34](https://lobste.rs/s/w4ss34/eval_really_is_dangerous_2012) - [Eval really is dangerous (2012)](https://nedbatchelder.com/blog/201206/eval_really_is_dangerous.html)
 * [2023-09-08, 05:32:28](https://lobste.rs/s/irrf00/msdos_themed_image_enhancement_tool) - [MSDOS Themed Image Enhancement Tool](https://msdosimagetools.ngrok.dev)
 * [2023-09-08, 00:42:34](https://lobste.rs/s/70ri2g/real_time_trumpet_simulation) - [Real-time Trumpet Simulation](https://www.youtube.com/watch?v=rGNUHigqUBM)
 * [2023-09-07, 23:31:28](https://lobste.rs/s/fhn3jf/ui_context_rails_variants) - [UI Context and Rails Variants](https://domchristie.co.uk/posts/ui-context-and-rails-variants/)
-* [2023-09-07, 21:40:42](https://lobste.rs/s/gxiile/introduction_betterer) - [Introduction | Betterer](https://phenomnomnominal.github.io/betterer/docs/introduction)
 * [2023-09-07, 20:21:25](https://lobste.rs/s/bbnye1/blastpass_nso_group_iphone_zero_click) - [BLASTPASS: NSO Group iPhone Zero-Click, Zero-Day Exploit Captured in the Wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/)
 * [2023-09-07, 18:44:20](https://lobste.rs/s/eprllj/ricochet_robots_solver) - [Ricochet Robots Solver](https://kevincox.ca/2023/09/02/ricochet-robots-solver/)
 * [2023-09-07, 18:35:08](https://lobste.rs/s/cvjcrs/bun_1_0_is_here) - [Bun 1.0 is here](https://www.youtube.com/watch?v=BsnCpESUEqM)
