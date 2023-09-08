@@ -152,10 +152,10 @@
   [
     [
       "2023-09-08, 13:02:52",
-      "https://lobste.rs/s/frapzu/android_14_blocks_all_modification"
+      "https://lobste.rs/s/frapzu/android_14_blocks_direct_modification"
     ],
     [
-      "Android 14 blocks all modification of system certificates, even as root",
+      "Android 14 blocks direct modification of system certificates",
       "https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/"
     ]
   ],
