@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-08, 16:14:00](https://lobste.rs/s/cnwoxq/simple_application_oauth_mastodon_s_api) - [A simple application of OAuth: Mastodon's API - Dan Schnau dot com](https://danschnau.com/blog/this_blog_automatically_posts_to_the_fediverse)
 * [2023-09-08, 15:17:13](https://lobste.rs/s/xsn8ds/elks_v0_7_0_linux_for_intel_8086) - [ELKS v0.7.0 – Linux for the Intel 8086](https://github.com/ghaerr/elks/releases/tag/v0.7.0)
 * [2023-09-08, 14:33:49](https://lobste.rs/s/wywsvx/how_big_is_kilobyte) - [How big is a kilobyte?](https://evanhahn.com/how-big-is-a-kilobyte/)
 * [2023-09-08, 14:25:39](https://lobste.rs/s/ydotcc/how_does_linux_nat_ping) - [how does linux nat a ping?](https://devnonsense.com/posts/how-does-linux-nat-a-ping/)
@@ -24,7 +25,6 @@
 * [2023-09-07, 12:10:15](https://lobste.rs/s/he6z4h/fleng_16_released_now_with_graphics) - [FLENG 16 released - now with graphics support and a much improved PCN frontend](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2023-09-07, 11:22:19](https://lobste.rs/s/3fswdc/remembering_molly_holzschlag) - [Remembering Molly Holzschlag](https://thehistoryoftheweb.com/remembering-molly-one-of-the-greats/)
 * [2023-09-07, 06:48:06](https://lobste.rs/s/atup8s/ikea_powered_homelab_on_wall) - [The IKEA-powered homelab on a wall](https://ounapuu.ee/posts/2023/09/07/ikea-powered-homelab/)
-* [2023-09-07, 03:36:12](https://lobste.rs/s/wamkim/nix_flakes_is_experiment_did_too_much_at) - [Nix Flakes is an experiment that did too much at once…](https://samuel.dionne-riel.com/blog/2023/09/06/flakes-is-an-experiment-that-did-too-much-at-once.html)
 
 ## [Archives](archives/index.md)
 
