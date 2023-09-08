@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
+* [2023-09-08, 15:17:13](https://lobste.rs/s/xsn8ds/elks_v0_7_0_linux_for_intel_8086) - [ELKS v0.7.0 – Linux for the Intel 8086](https://github.com/ghaerr/elks/releases/tag/v0.7.0)
 * [2023-09-08, 14:33:49](https://lobste.rs/s/wywsvx/how_big_is_kilobyte) - [How big is a kilobyte?](https://evanhahn.com/how-big-is-a-kilobyte/)
 * [2023-09-08, 14:25:39](https://lobste.rs/s/ydotcc/how_does_linux_nat_ping) - [how does linux nat a ping?](https://devnonsense.com/posts/how-does-linux-nat-a-ping/)
 * [2023-09-08, 13:55:42](https://lobste.rs/s/i9eqm0/learning_zig) - [Learning Zig](https://www.openmymind.net/learning_zig/)
