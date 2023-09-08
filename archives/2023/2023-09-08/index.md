@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
+* [2023-09-08, 14:25:39](https://lobste.rs/s/ydotcc/how_does_linux_nat_ping) - [how does linux nat a ping?](https://devnonsense.com/posts/how-does-linux-nat-a-ping/)
 * [2023-09-08, 13:55:42](https://lobste.rs/s/i9eqm0/learning_zig) - [Learning Zig](https://www.openmymind.net/learning_zig/)
 * [2023-09-08, 13:27:15](https://lobste.rs/s/r4pqzr/enjargo_another_way_generate_go_json) - [enjargo - another way to generate go json encoders](https://flak.tedunangst.com/post/enjargo)
 * [2023-09-08, 13:02:52](https://lobste.rs/s/frapzu/android_14_blocks_all_modification) - [Android 14 blocks all modification of system certificates, even as root](https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/)
