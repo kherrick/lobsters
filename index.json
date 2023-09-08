@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-08, 14:25:39",
+      "https://lobste.rs/s/ydotcc/how_does_linux_nat_ping"
+    ],
+    [
+      "how does linux nat a ping?",
+      "https://devnonsense.com/posts/how-does-linux-nat-a-ping/"
+    ]
+  ],
+  [
+    [
       "2023-09-08, 13:55:42",
       "https://lobste.rs/s/i9eqm0/learning_zig"
     ],
@@ -127,16 +137,6 @@
     [
       "Refact: Open-source AI coding assistant with local fine-tuning on codebase",
       "https://github.com/smallcloudai/refact"
-    ]
-  ],
-  [
-    [
-      "2023-09-07, 17:36:52",
-      "https://lobste.rs/s/bwip4d/proposal_add_intern_package_go"
-    ],
-    [
-      "Proposal to add an intern package to Go",
-      "https://github.com/golang/go/issues/62483"
     ]
   ],
   [
