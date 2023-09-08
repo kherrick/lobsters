@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-08, 22:44:55",
+      "https://lobste.rs/s/wwxtej/elevate_your_rust_code_art_separating"
+    ],
+    [
+      "Elevate Your Rust Code: The Art of Separating Actions and Calculations",
+      "https://rusty-ferris.pages.dev/blog/fp-actions-vs-calculations/"
+    ]
+  ],
+  [
+    [
       "2023-09-08, 21:17:20",
       "https://lobste.rs/s/lz0rbb/decoded_gnu_coreutils"
     ],
@@ -177,16 +187,6 @@
     [
       "Developer Tools",
       "https://popey.com/blog/2023/09/developer-tools/"
-    ]
-  ],
-  [
-    [
-      "2023-09-08, 09:23:07",
-      "https://lobste.rs/s/8uiawi/just_how_constexpr_is_c_20_s_std_string"
-    ],
-    [
-      "Just how constexpr is C++20’s std::string?",
-      "https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/"
     ]
   ],
   [
