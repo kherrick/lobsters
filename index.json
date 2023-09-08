@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-08, 13:27:15",
+      "https://lobste.rs/s/r4pqzr/enjargo_another_way_generate_go_json"
+    ],
+    [
+      "enjargo - another way to generate go json encoders",
+      "https://flak.tedunangst.com/post/enjargo"
+    ]
+  ],
+  [
+    [
       "2023-09-08, 13:02:52",
       "https://lobste.rs/s/frapzu/android_14_blocks_all_modification"
     ],
@@ -57,16 +67,6 @@
     [
       "Eval really is dangerous (2012)",
       "https://nedbatchelder.com/blog/201206/eval_really_is_dangerous.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-08, 05:32:28",
-      "https://lobste.rs/s/irrf00/msdos_themed_image_enhancement_tool"
-    ],
-    [
-      "MSDOS Themed Image Enhancement Tool",
-      "https://msdosimagetools.ngrok.dev"
     ]
   ],
   [
