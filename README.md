@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-09-08, 18:26:45](https://lobste.rs/s/d2pcdi/cve_2023_4809_freebsd_pf_bypass_when_using) - [CVE-2023-4809: FreeBSD pf bypass when using IPv6](https://www.enricobassetti.it/2023/09/cve-2023-4809-freebsd-pf-bypass-when-using-ipv6/)
+* [2023-09-08, 18:38:35](https://lobste.rs/s/9k6efy/good_performance_is_not_just_big_o) - [Good performance is not just big O](https://jmmv.dev/2023/09/performance-is-not-big-o.html)
 * [2023-09-08, 18:21:28](https://lobste.rs/s/cryfiu/async_rust_is_bad_language) - [Async Rust Is A Bad Language](https://bitbashing.io/async-rust.html)
 * [2023-09-08, 16:47:28](https://lobste.rs/s/tyoflm/solving_same_problem_multiple_times) - [Solving the same problem multiple times](https://blog.fredrb.com/2023/09/08/same-problem-multiple-times/)
 * [2023-09-08, 16:44:39](https://lobste.rs/s/ur80zz/carbon_language_successor_strategy_from) - [Carbon Language Successor Strategy: From C++ Interop to Memory Safety](https://www.youtube.com/watch?v=1ZTJ9omXOQ0)
