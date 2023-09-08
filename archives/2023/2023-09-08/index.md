@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
+* [2023-09-08, 13:02:52](https://lobste.rs/s/frapzu/android_14_blocks_all_modification) - [Android 14 blocks all modification of system certificates, even as root](https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/)
 * [2023-09-08, 10:20:40](https://lobste.rs/s/ysfpcs/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ysfpcs/what_are_you_doing_this_weekend)
 * [2023-09-08, 10:20:35](https://lobste.rs/s/kh2z3w/response_time_is_system_talking) - [Response Time Is the System Talking](https://two-wrongs.com/response-time-is-the-system-talking.html)
 * [2023-09-08, 09:57:23](https://lobste.rs/s/dpzsdl/developer_tools) - [Developer Tools](https://popey.com/blog/2023/09/developer-tools/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-08, 13:02:52](https://lobste.rs/s/frapzu/android_14_blocks_all_modification) - [Android 14 blocks all modification of system certificates, even as root](https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/)
 * [2023-09-08, 10:20:40](https://lobste.rs/s/ysfpcs/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ysfpcs/what_are_you_doing_this_weekend)
 * [2023-09-08, 10:20:35](https://lobste.rs/s/kh2z3w/response_time_is_system_talking) - [Response Time Is the System Talking](https://two-wrongs.com/response-time-is-the-system-talking.html)
 * [2023-09-08, 09:57:23](https://lobste.rs/s/dpzsdl/developer_tools) - [Developer Tools](https://popey.com/blog/2023/09/developer-tools/)
@@ -14,7 +15,6 @@
 * [2023-09-07, 18:07:01](https://lobste.rs/s/esqoud/refact_open_source_ai_coding_assistant) - [Refact: Open-source AI coding assistant with local fine-tuning on codebase](https://github.com/smallcloudai/refact)
 * [2023-09-07, 17:36:52](https://lobste.rs/s/bwip4d/proposal_add_intern_package_go) - [Proposal to add an intern package to Go](https://github.com/golang/go/issues/62483)
 * [2023-09-07, 16:46:52](https://lobste.rs/s/llkcap/kagi_small_web) - [Kagi Small Web](https://blog.kagi.com/small-web)
-* [2023-09-07, 16:44:28](https://lobste.rs/s/0fcqkx/tolkien_clojure_library_for_accurate) - [Tolkien: Clojure library for accurate* token counting for OpenAI APIs](https://medium.com/@lukaszkorecki/tolkien-clojure-library-for-accurate-token-counting-for-openai-apis-cd03b618232)
 * [2023-09-07, 16:44:03](https://lobste.rs/s/qzh42h/video_codecs_adding_av1_stateless_video) - [Video codecs: Adding AV1 stateless video decoder support to Linux](https://www.collabora.com/news-and-blog/news-and-events/video-codecs-adding-av1-stateless-video-decoder-support-to-linux.html)
 * [2023-09-07, 16:32:35](https://lobste.rs/s/enfofz/modular_mojo_it_s_finally_here) - [Modular Mojo: It’s finally here](https://www.modular.com/blog/mojo-its-finally-here)
 * [2023-09-07, 16:04:55](https://lobste.rs/s/lsvmkq/semver_violations_are_common_better) - [Semver violations are common, better tooling is the answer](https://predr.ag/blog/semver-violations-are-common-better-tooling-is-the-answer/)
