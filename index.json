@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-09-08, 17:42:07",
-      "https://lobste.rs/s/f5zlq9/scaling_gopls_for_growing_go_ecosystem"
+      "2023-09-08, 18:26:45",
+      "https://lobste.rs/s/d2pcdi/cve_2023_4809_freebsd_pf_bypass_when_using"
     ],
     [
-      "Scaling gopls for the growing Go ecosystem",
-      "https://go.dev/blog/gopls-scalability"
+      "CVE-2023-4809: FreeBSD pf bypass when using IPv6",
+      "https://www.enricobassetti.it/2023/09/cve-2023-4809-freebsd-pf-bypass-when-using-ipv6/"
+    ]
+  ],
+  [
+    [
+      "2023-09-08, 18:21:28",
+      "https://lobste.rs/s/cryfiu/async_rust_is_bad_language"
+    ],
+    [
+      "Async Rust Is A Bad Language",
+      "https://bitbashing.io/async-rust.html"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Kagi Small Web",
       "https://blog.kagi.com/small-web"
-    ]
-  ],
-  [
-    [
-      "2023-09-07, 16:32:35",
-      "https://lobste.rs/s/enfofz/modular_mojo_it_s_finally_here"
-    ],
-    [
-      "Modular Mojo: It’s finally here",
-      "https://www.modular.com/blog/mojo-its-finally-here"
     ]
   ],
   [
