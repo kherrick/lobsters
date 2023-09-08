@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-08, 21:17:20](https://lobste.rs/s/lz0rbb/decoded_gnu_coreutils) - [Decoded: GNU coreutils](https://maizure.org/projects/decoded-gnu-coreutils/)
 * [2023-09-08, 20:53:50](https://lobste.rs/s/gtluba/what_if_someone_made_plan_9_could_run_linux) - [What if... someone made a Plan 9 that could run Linux apps?](https://liam-on-linux.dreamwidth.org/89039.html)
 * [2023-09-08, 20:25:06](https://lobste.rs/s/dqjjou/ziggy_pydust) - [Ziggy Pydust](https://zig.news/gatesn/ziggy-pydust-36d5)
 * [2023-09-08, 18:38:35](https://lobste.rs/s/9k6efy/good_performance_is_not_just_big_o) - [Good performance is not just big O](https://jmmv.dev/2023/09/performance-is-not-big-o.html)
@@ -19,7 +20,6 @@
 * [2023-09-08, 09:57:23](https://lobste.rs/s/dpzsdl/developer_tools) - [Developer Tools](https://popey.com/blog/2023/09/developer-tools/)
 * [2023-09-08, 09:23:07](https://lobste.rs/s/8uiawi/just_how_constexpr_is_c_20_s_std_string) - [Just how constexpr is C++20’s std::string?](https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/)
 * [2023-09-08, 05:59:34](https://lobste.rs/s/w4ss34/eval_really_is_dangerous_2012) - [Eval really is dangerous (2012)](https://nedbatchelder.com/blog/201206/eval_really_is_dangerous.html)
-* [2023-09-08, 00:42:34](https://lobste.rs/s/70ri2g/real_time_trumpet_simulation) - [Real-time Trumpet Simulation](https://www.youtube.com/watch?v=rGNUHigqUBM)
 * [2023-09-07, 20:21:25](https://lobste.rs/s/bbnye1/blastpass_nso_group_iphone_zero_click) - [BLASTPASS: NSO Group iPhone Zero-Click, Zero-Day Exploit Captured in the Wild](https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/)
 * [2023-09-07, 18:35:08](https://lobste.rs/s/cvjcrs/bun_1_0_is_here) - [Bun 1.0 is here](https://www.youtube.com/watch?v=BsnCpESUEqM)
 * [2023-09-07, 16:46:52](https://lobste.rs/s/llkcap/kagi_small_web) - [Kagi Small Web](https://blog.kagi.com/small-web)
