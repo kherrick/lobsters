@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-08, 16:43:30](https://lobste.rs/s/dkp1te/release_jq_1_7_jqlang_jq) - [Release jq 1.7 · jqlang/jq](https://github.com/jqlang/jq/releases/tag/jq-1.7)
 * [2023-09-08, 16:14:00](https://lobste.rs/s/cnwoxq/simple_application_oauth_mastodon_s_api) - [A simple application of OAuth: Mastodon's API - Dan Schnau dot com](https://danschnau.com/blog/this_blog_automatically_posts_to_the_fediverse)
 * [2023-09-08, 15:17:13](https://lobste.rs/s/xsn8ds/elks_v0_7_0_linux_for_intel_8086) - [ELKS v0.7.0 – Linux for the Intel 8086](https://github.com/ghaerr/elks/releases/tag/v0.7.0)
 * [2023-09-08, 14:33:49](https://lobste.rs/s/wywsvx/how_big_is_kilobyte) - [How big is a kilobyte?](https://evanhahn.com/how-big-is-a-kilobyte/)
@@ -20,7 +21,6 @@
 * [2023-09-07, 16:46:52](https://lobste.rs/s/llkcap/kagi_small_web) - [Kagi Small Web](https://blog.kagi.com/small-web)
 * [2023-09-07, 16:32:35](https://lobste.rs/s/enfofz/modular_mojo_it_s_finally_here) - [Modular Mojo: It’s finally here](https://www.modular.com/blog/mojo-its-finally-here)
 * [2023-09-07, 16:04:55](https://lobste.rs/s/lsvmkq/semver_violations_are_common_better) - [Semver violations are common, better tooling is the answer](https://predr.ag/blog/semver-violations-are-common-better-tooling-is-the-answer/)
-* [2023-09-07, 15:49:22](https://lobste.rs/s/dxptka/active_north_korean_campaign_targeting) - [Active North Korean campaign targeting security researchers](https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/)
 * [2023-09-07, 13:39:00](https://lobste.rs/s/wvi9xw/why_not_matrix) - [why not matrix?](https://telegra.ph/why-not-matrix-08-07)
 * [2023-09-07, 12:10:15](https://lobste.rs/s/he6z4h/fleng_16_released_now_with_graphics) - [FLENG 16 released - now with graphics support and a much improved PCN frontend](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2023-09-07, 11:22:19](https://lobste.rs/s/3fswdc/remembering_molly_holzschlag) - [Remembering Molly Holzschlag](https://thehistoryoftheweb.com/remembering-molly-one-of-the-greats/)
