@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-08, 10:20:40](https://lobste.rs/s/ysfpcs/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ysfpcs/what_are_you_doing_this_weekend)
+* [2023-09-08, 10:20:35](https://lobste.rs/s/kh2z3w/response_time_is_system_talking) - [Response Time Is the System Talking](https://two-wrongs.com/response-time-is-the-system-talking.html)
 * [2023-09-08, 09:57:23](https://lobste.rs/s/dpzsdl/developer_tools) - [Developer Tools](https://popey.com/blog/2023/09/developer-tools/)
 * [2023-09-08, 09:23:07](https://lobste.rs/s/8uiawi/just_how_constexpr_is_c_20_s_std_string) - [Just how constexpr is C++20’s std::string?](https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/)
 * [2023-09-08, 05:59:34](https://lobste.rs/s/w4ss34/eval_really_is_dangerous_2012) - [Eval really is dangerous (2012)](https://nedbatchelder.com/blog/201206/eval_really_is_dangerous.html)
@@ -17,12 +19,10 @@
 * [2023-09-07, 16:32:35](https://lobste.rs/s/enfofz/modular_mojo_it_s_finally_here) - [Modular Mojo: It’s finally here](https://www.modular.com/blog/mojo-its-finally-here)
 * [2023-09-07, 16:04:55](https://lobste.rs/s/lsvmkq/semver_violations_are_common_better) - [Semver violations are common, better tooling is the answer](https://predr.ag/blog/semver-violations-are-common-better-tooling-is-the-answer/)
 * [2023-09-07, 15:49:22](https://lobste.rs/s/dxptka/active_north_korean_campaign_targeting) - [Active North Korean campaign targeting security researchers](https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/)
-* [2023-09-07, 15:24:35](https://lobste.rs/s/zfyi8c/introducing_flake8_logging) - [Introducing flake8-logging](https://adamj.eu/tech/2023/09/07/introducing-flake8-logging/)
 * [2023-09-07, 13:39:00](https://lobste.rs/s/wvi9xw/why_not_matrix) - [why not matrix?](https://telegra.ph/why-not-matrix-08-07)
 * [2023-09-07, 12:10:15](https://lobste.rs/s/he6z4h/fleng_16_released_now_with_graphics) - [FLENG 16 released - now with graphics support and a much improved PCN frontend](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2023-09-07, 11:22:19](https://lobste.rs/s/3fswdc/remembering_molly_holzschlag) - [Remembering Molly Holzschlag](https://thehistoryoftheweb.com/remembering-molly-one-of-the-greats/)
 * [2023-09-07, 06:48:06](https://lobste.rs/s/atup8s/ikea_powered_homelab_on_wall) - [The IKEA-powered homelab on a wall](https://ounapuu.ee/posts/2023/09/07/ikea-powered-homelab/)
-* [2023-09-07, 06:35:05](https://lobste.rs/s/eatrjj/generating_clojure_native_images_with) - [Generating Clojure Native Images with GraalVM and clj-nix](https://thenybble.de/posts/clojure-nix-graalvm/)
 * [2023-09-07, 03:36:12](https://lobste.rs/s/wamkim/nix_flakes_is_experiment_did_too_much_at) - [Nix Flakes is an experiment that did too much at once…](https://samuel.dionne-riel.com/blog/2023/09/06/flakes-is-an-experiment-that-did-too-much-at-once.html)
 * [2023-09-07, 00:52:19](https://lobste.rs/s/ytosdr/experimental_does_not_mean_unstable) - [Experimental does not mean unstable, DetSys' perspective on Nix flakes](https://determinate.systems/posts/experimental-does-not-mean-unstable)
 

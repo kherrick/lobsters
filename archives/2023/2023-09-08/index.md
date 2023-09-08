@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
+* [2023-09-08, 10:20:40](https://lobste.rs/s/ysfpcs/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ysfpcs/what_are_you_doing_this_weekend)
+* [2023-09-08, 10:20:35](https://lobste.rs/s/kh2z3w/response_time_is_system_talking) - [Response Time Is the System Talking](https://two-wrongs.com/response-time-is-the-system-talking.html)
 * [2023-09-08, 09:57:23](https://lobste.rs/s/dpzsdl/developer_tools) - [Developer Tools](https://popey.com/blog/2023/09/developer-tools/)
 * [2023-09-08, 09:23:07](https://lobste.rs/s/8uiawi/just_how_constexpr_is_c_20_s_std_string) - [Just how constexpr is C++20’s std::string?](https://quuxplusone.github.io/blog/2023/09/08/constexpr-string-firewall/)
 * [2023-09-08, 05:59:34](https://lobste.rs/s/w4ss34/eval_really_is_dangerous_2012) - [Eval really is dangerous (2012)](https://nedbatchelder.com/blog/201206/eval_really_is_dangerous.html)
