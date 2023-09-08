@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-08, 10:20:40",
+      "https://lobste.rs/s/ysfpcs/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/ysfpcs/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
+      "2023-09-08, 10:20:35",
+      "https://lobste.rs/s/kh2z3w/response_time_is_system_talking"
+    ],
+    [
+      "Response Time Is the System Talking",
+      "https://two-wrongs.com/response-time-is-the-system-talking.html"
+    ]
+  ],
+  [
+    [
       "2023-09-08, 09:57:23",
       "https://lobste.rs/s/dpzsdl/developer_tools"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-09-07, 15:24:35",
-      "https://lobste.rs/s/zfyi8c/introducing_flake8_logging"
-    ],
-    [
-      "Introducing flake8-logging",
-      "https://adamj.eu/tech/2023/09/07/introducing-flake8-logging/"
-    ]
-  ],
-  [
-    [
       "2023-09-07, 13:39:00",
       "https://lobste.rs/s/wvi9xw/why_not_matrix"
     ],
@@ -217,16 +227,6 @@
     [
       "The IKEA-powered homelab on a wall",
       "https://ounapuu.ee/posts/2023/09/07/ikea-powered-homelab/"
-    ]
-  ],
-  [
-    [
-      "2023-09-07, 06:35:05",
-      "https://lobste.rs/s/eatrjj/generating_clojure_native_images_with"
-    ],
-    [
-      "Generating Clojure Native Images with GraalVM and clj-nix",
-      "https://thenybble.de/posts/clojure-nix-graalvm/"
     ]
   ],
   [
