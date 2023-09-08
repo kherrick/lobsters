@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-08](index.md)
 
+* [2023-09-08, 20:25:06](https://lobste.rs/s/dqjjou/ziggy_pydust) - [Ziggy Pydust](https://zig.news/gatesn/ziggy-pydust-36d5)
 * [2023-09-08, 20:11:25](https://lobste.rs/s/b6f3if/using_kani_validate_security_boundaries) - [Using Kani to Validate Security Boundaries in AWS Firecracker](https://model-checking.github.io/kani-verifier-blog/2023/08/31/using-kani-to-validate-security-boundaries-in-aws-firecracker.html)
 * [2023-09-08, 18:38:35](https://lobste.rs/s/9k6efy/good_performance_is_not_just_big_o) - [Good performance is not just big O](https://jmmv.dev/2023/09/performance-is-not-big-o.html)
 * [2023-09-08, 18:26:45](https://lobste.rs/s/d2pcdi/cve_2023_4809_freebsd_pf_bypass_when_using) - [CVE-2023-4809: FreeBSD pf bypass when using IPv6](https://www.enricobassetti.it/2023/09/cve-2023-4809-freebsd-pf-bypass-when-using-ipv6/)
