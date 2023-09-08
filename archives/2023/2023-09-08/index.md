@@ -14,6 +14,7 @@
 * [2023-09-08, 16:47:28](https://lobste.rs/s/tyoflm/solving_same_problem_multiple_times) - [Solving the same problem multiple times](https://blog.fredrb.com/2023/09/08/same-problem-multiple-times/)
 * [2023-09-08, 16:44:39](https://lobste.rs/s/ur80zz/carbon_language_successor_strategy_from) - [Carbon Language Successor Strategy: From C++ Interop to Memory Safety](https://www.youtube.com/watch?v=1ZTJ9omXOQ0)
 * [2023-09-08, 16:43:30](https://lobste.rs/s/dkp1te/release_jq_1_7_jqlang_jq) - [Release jq 1.7 · jqlang/jq](https://github.com/jqlang/jq/releases/tag/jq-1.7)
+* [2023-09-08, 16:43:30](https://lobste.rs/s/dkp1te/release_jq_1_7) - [Release jq 1.7](https://github.com/jqlang/jq/releases/tag/jq-1.7)
 * [2023-09-08, 16:14:00](https://lobste.rs/s/cnwoxq/simple_application_oauth_mastodon_s_api) - [A simple application of OAuth: Mastodon's API - Dan Schnau dot com](https://danschnau.com/blog/this_blog_automatically_posts_to_the_fediverse)
 * [2023-09-08, 15:17:13](https://lobste.rs/s/xsn8ds/elks_v0_7_0_linux_for_intel_8086) - [ELKS v0.7.0 – Linux for the Intel 8086](https://github.com/ghaerr/elks/releases/tag/v0.7.0)
 * [2023-09-08, 14:33:49](https://lobste.rs/s/wywsvx/how_big_is_kilobyte) - [How big is a kilobyte?](https://evanhahn.com/how-big-is-a-kilobyte/)
