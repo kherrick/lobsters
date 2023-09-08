@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-08, 16:43:30",
+      "https://lobste.rs/s/dkp1te/release_jq_1_7_jqlang_jq"
+    ],
+    [
+      "Release jq 1.7 · jqlang/jq",
+      "https://github.com/jqlang/jq/releases/tag/jq-1.7"
+    ]
+  ],
+  [
+    [
       "2023-09-08, 16:14:00",
       "https://lobste.rs/s/cnwoxq/simple_application_oauth_mastodon_s_api"
     ],
@@ -197,16 +207,6 @@
     [
       "Semver violations are common, better tooling is the answer",
       "https://predr.ag/blog/semver-violations-are-common-better-tooling-is-the-answer/"
-    ]
-  ],
-  [
-    [
-      "2023-09-07, 15:49:22",
-      "https://lobste.rs/s/dxptka/active_north_korean_campaign_targeting"
-    ],
-    [
-      "Active North Korean campaign targeting security researchers",
-      "https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/"
     ]
   ],
   [
