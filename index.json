@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2023-09-08, 17:42:07",
+      "https://lobste.rs/s/f5zlq9/scaling_gopls_for_growing_go_ecosystem"
+    ],
+    [
+      "Scaling gopls for the growing Go ecosystem",
+      "https://go.dev/blog/gopls-scalability"
+    ]
+  ],
+  [
+    [
       "2023-09-08, 16:47:28",
       "https://lobste.rs/s/tyoflm/solving_same_problem_multiple_times"
     ],
@@ -207,16 +217,6 @@
     [
       "Response Time Is the System Talking",
       "https://two-wrongs.com/response-time-is-the-system-talking.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-08, 05:59:34",
-      "https://lobste.rs/s/w4ss34/eval_really_is_dangerous_2012"
-    ],
-    [
-      "Eval really is dangerous (2012)",
-      "https://nedbatchelder.com/blog/201206/eval_really_is_dangerous.html"
     ]
   ],
   [
