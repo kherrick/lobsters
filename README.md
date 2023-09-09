@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-09, 07:29:57](https://lobste.rs/s/70ymtu/svg_viewer_browser_slideshow_which) - [An SVG viewer / browser / \"slideshow\" which itself is a self-contained SVG](https://github.com/stevana/svg-viewer-in-svg#svg-viewer-written-in-svg)
 * [2023-09-09, 06:13:21](https://lobste.rs/s/2fmws0/examples_tiddlywiki_being_used_wild) - [Examples of TiddlyWiki being used in the wild](https://tiddlywiki.com/static/Examples.html)
 * [2023-09-09, 02:07:08](https://lobste.rs/s/2pxtom/swift_org_new_homepage) - [Swift.org new homepage](https://swift.org/)
-* [2023-09-08, 23:46:50](https://lobste.rs/s/5aclse/non_determinism_gpt_4_is_caused_by_sparse) - [Non-determinism in GPT-4 is caused by Sparse MoE](https://152334h.github.io/blog/non-determinism-in-gpt-4/)
 * [2023-09-08, 23:18:11](https://lobste.rs/s/bpsvbj/bun_1_0_bun_blog) - [Bun 1.0 | Bun Blog](https://bun.sh/blog/bun-v1.0)
 * [2023-09-08, 21:17:20](https://lobste.rs/s/lz0rbb/decoded_gnu_coreutils) - [Decoded: GNU coreutils](https://maizure.org/projects/decoded-gnu-coreutils/)
 * [2023-09-08, 20:53:50](https://lobste.rs/s/gtluba/what_if_someone_made_plan_9_could_run_linux) - [What if... someone made a Plan 9 that could run Linux apps?](https://liam-on-linux.dreamwidth.org/89039.html)
