@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-09, 23:52:42](https://lobste.rs/s/brz1f1/recent_story_about_not_doing_any_work_at) - [Recent story about not doing any work at data science jobs ?](https://lobste.rs/s/brz1f1/recent_story_about_not_doing_any_work_at)
 * [2023-09-09, 22:37:27](https://lobste.rs/s/yda1ir/definitive_php_7_2_7_3_7_4_8_0_8_1_benchmarks) - [The Definitive PHP 7.2, 7.3, 7.4, 8.0, and 8.1 Benchmarks (2023)](https://kinsta.com/blog/php-benchmarks/)
 * [2023-09-09, 20:45:46](https://lobste.rs/s/kzm1wy/reflections_on_llvm_s_switch_github_pull) - [Reflections on LLVM's switch to GitHub pull requests](https://maskray.me/blog/2023-09-09-reflections-on-llvm-switch-to-github-pull-requests)
 * [2023-09-09, 16:46:01](https://lobste.rs/s/vkll70/introduction_cors_for_go_programmers) - [Introduction to CORS for Go programmers](https://eli.thegreenplace.net/2023/introduction-to-cors-for-go-programmers/)
@@ -22,7 +23,6 @@
 * [2023-09-08, 18:21:28](https://lobste.rs/s/cryfiu/async_rust_is_bad_language) - [Async Rust Is A Bad Language](https://bitbashing.io/async-rust.html)
 * [2023-09-08, 16:43:30](https://lobste.rs/s/dkp1te/release_jq_1_7) - [Release jq 1.7](https://github.com/jqlang/jq/releases/tag/jq-1.7)
 * [2023-09-08, 14:33:49](https://lobste.rs/s/wywsvx/how_big_is_kilobyte) - [How big is a kilobyte?](https://evanhahn.com/how-big-is-a-kilobyte/)
-* [2023-09-08, 14:25:39](https://lobste.rs/s/ydotcc/how_does_linux_nat_ping) - [how does linux nat a ping?](https://devnonsense.com/posts/how-does-linux-nat-a-ping/)
 * [2023-09-08, 13:55:42](https://lobste.rs/s/i9eqm0/learning_zig) - [Learning Zig](https://www.openmymind.net/learning_zig/)
 * [2023-09-08, 10:20:35](https://lobste.rs/s/kh2z3w/response_time_is_system_talking) - [Response Time Is the System Talking](https://two-wrongs.com/response-time-is-the-system-talking.html)
 

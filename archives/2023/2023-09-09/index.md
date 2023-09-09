@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-09](index.md)
 
+* [2023-09-09, 23:52:42](https://lobste.rs/s/brz1f1/recent_story_about_not_doing_any_work_at) - [Recent story about not doing any work at data science jobs ?](https://lobste.rs/s/brz1f1/recent_story_about_not_doing_any_work_at)
 * [2023-09-09, 22:37:27](https://lobste.rs/s/yda1ir/definitive_php_7_2_7_3_7_4_8_0_8_1_benchmarks) - [The Definitive PHP 7.2, 7.3, 7.4, 8.0, and 8.1 Benchmarks (2023)](https://kinsta.com/blog/php-benchmarks/)
 * [2023-09-09, 21:34:35](https://lobste.rs/s/pdpbxx/why_you_might_actually_want_async_your) - [Why you might actually want async in your project](https://notgull.net/why-you-want-async/)
 * [2023-09-09, 20:45:46](https://lobste.rs/s/kzm1wy/reflections_on_llvm_s_switch_github_pull) - [Reflections on LLVM's switch to GitHub pull requests](https://maskray.me/blog/2023-09-09-reflections-on-llvm-switch-to-github-pull-requests)
