@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-09, 12:37:39](https://lobste.rs/s/myjkru/there_is_plenty_room_at_bottom_2021) - [There is plenty of room at the bottom (2021)](http://muratbuffalo.blogspot.com/2021/08/there-is-plenty-of-room-at-bottom.html)
+* [2023-09-09, 12:29:15](https://lobste.rs/s/yevgab/data_centric_introduction_computing) - [A Data-Centric Introduction to Computing](https://dcic-world.org/2023-02-21/index.html)
 * [2023-09-09, 12:00:07](https://lobste.rs/s/w0qu8g/is_popl_mathematics_science) - [Is POPL Mathematics or Science?](https://www.cs.princeton.edu/~appel/papers/science.pdf)
 * [2023-09-09, 07:29:57](https://lobste.rs/s/70ymtu/svg_viewer_browser_slideshow_which) - [An SVG viewer / browser / \"slideshow\" which itself is a self-contained SVG](https://github.com/stevana/svg-viewer-in-svg#svg-viewer-written-in-svg)
 * [2023-09-09, 06:13:21](https://lobste.rs/s/2fmws0/examples_tiddlywiki_being_used_wild) - [Examples of TiddlyWiki being used in the wild](https://tiddlywiki.com/static/Examples.html)
@@ -19,9 +21,7 @@
 * [2023-09-08, 14:33:49](https://lobste.rs/s/wywsvx/how_big_is_kilobyte) - [How big is a kilobyte?](https://evanhahn.com/how-big-is-a-kilobyte/)
 * [2023-09-08, 14:25:39](https://lobste.rs/s/ydotcc/how_does_linux_nat_ping) - [how does linux nat a ping?](https://devnonsense.com/posts/how-does-linux-nat-a-ping/)
 * [2023-09-08, 13:55:42](https://lobste.rs/s/i9eqm0/learning_zig) - [Learning Zig](https://www.openmymind.net/learning_zig/)
-* [2023-09-08, 13:27:15](https://lobste.rs/s/r4pqzr/enjargo_another_way_generate_go_json) - [enjargo - another way to generate go json encoders](https://flak.tedunangst.com/post/enjargo)
 * [2023-09-08, 13:02:52](https://lobste.rs/s/frapzu/android_14_blocks_direct_modification) - [Android 14 blocks direct modification of system certificates](https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/)
-* [2023-09-08, 10:20:40](https://lobste.rs/s/ysfpcs/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ysfpcs/what_are_you_doing_this_weekend)
 * [2023-09-08, 10:20:35](https://lobste.rs/s/kh2z3w/response_time_is_system_talking) - [Response Time Is the System Talking](https://two-wrongs.com/response-time-is-the-system-talking.html)
 * [2023-09-07, 16:46:52](https://lobste.rs/s/llkcap/kagi_small_web) - [Kagi Small Web](https://blog.kagi.com/small-web)
 * [2023-09-07, 16:04:55](https://lobste.rs/s/lsvmkq/semver_violations_are_common_better) - [Semver violations are common, better tooling is the answer](https://predr.ag/blog/semver-violations-are-common-better-tooling-is-the-answer/)
