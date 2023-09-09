@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-09, 15:45:53",
+      "https://lobste.rs/s/xlkow8/countering_string_bloat"
+    ],
+    [
+      "Countering string bloat",
+      "https://www.volkerkrause.eu/2023/09/09/qt-string-bloat.html"
+    ]
+  ],
+  [
+    [
       "2023-09-09, 15:30:41",
       "https://lobste.rs/s/okwucm/design_implementation_object_oriented"
     ],
@@ -227,16 +237,6 @@
     [
       "Learning Zig",
       "https://www.openmymind.net/learning_zig/"
-    ]
-  ],
-  [
-    [
-      "2023-09-08, 13:02:52",
-      "https://lobste.rs/s/frapzu/android_14_blocks_direct_modification"
-    ],
-    [
-      "Android 14 blocks direct modification of system certificates",
-      "https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/"
     ]
   ],
   [
