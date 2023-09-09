@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-09](index.md)
 
+* [2023-09-09, 15:30:41](https://lobste.rs/s/okwucm/design_implementation_object_oriented) - [Design and Implementation of an Object-Oriented Functional Language](https://discovery.ucl.ac.uk/id/eprint/10107565/1/Design_and_implementation_of_a.pdf)
 * [2023-09-09, 15:18:38](https://lobste.rs/s/lndue2/just_for_fun_what_happens_when_you_shift) - [Just for fun: What happens when you shift a register by more than the register size?](https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704)
 * [2023-09-09, 15:10:27](https://lobste.rs/s/kgtjav/p2k23_hackathon_report_marc_espie_espie) - [p2k23 Hackathon Report: Marc Espie (espie@) on a flurry of packages activity](https://undeadly.org/cgi?action=article;sid=20230909100706)
 * [2023-09-09, 14:29:54](https://lobste.rs/s/scwhgh/brainfuck_stark_tutorial) - [Brainfuck STARK Tutorial](https://neptune.cash/learn/brainfuck-tutorial/)
