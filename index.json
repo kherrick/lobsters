@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-09, 15:30:41",
+      "https://lobste.rs/s/okwucm/design_implementation_object_oriented"
+    ],
+    [
+      "Design and Implementation of an Object-Oriented Functional Language",
+      "https://discovery.ucl.ac.uk/id/eprint/10107565/1/Design_and_implementation_of_a.pdf"
+    ]
+  ],
+  [
+    [
       "2023-09-09, 15:18:38",
       "https://lobste.rs/s/lndue2/just_for_fun_what_happens_when_you_shift"
     ],
@@ -47,16 +57,6 @@
     [
       "My mental model of Clojure transducers",
       "https://blog.danieljanus.pl/2023/09/09/transducers/"
-    ]
-  ],
-  [
-    [
-      "2023-09-09, 12:56:30",
-      "https://lobste.rs/s/dsmjrp/more_on_response_time_scale"
-    ],
-    [
-      "More On Response Time And Scale",
-      "https://two-wrongs.com/more-on-response-time-and-scale.html"
     ]
   ],
   [
