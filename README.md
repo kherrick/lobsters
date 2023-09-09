@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-09, 13:15:05](https://lobste.rs/s/errpj4/much_ado_about_nil_things_more_go_pitfalls) - [Much Ado About Nil Things: More Go Pitfalls](https://www.dolthub.com/blog/2023-09-08-much-ado-about-nil-things/)
+* [2023-09-09, 13:14:58](https://lobste.rs/s/mffpva/my_mental_model_clojure_transducers) - [My mental model of Clojure transducers](https://blog.danieljanus.pl/2023/09/09/transducers/)
 * [2023-09-09, 12:56:30](https://lobste.rs/s/dsmjrp/more_on_response_time_scale) - [More On Response Time And Scale](https://two-wrongs.com/more-on-response-time-and-scale.html)
 * [2023-09-09, 12:37:39](https://lobste.rs/s/myjkru/there_is_plenty_room_at_bottom_2021) - [There is plenty of room at the bottom (2021)](http://muratbuffalo.blogspot.com/2021/08/there-is-plenty-of-room-at-bottom.html)
 * [2023-09-09, 12:29:15](https://lobste.rs/s/yevgab/data_centric_introduction_computing) - [A Data-Centric Introduction to Computing](https://dcic-world.org/2023-02-21/index.html)
@@ -23,8 +25,6 @@
 * [2023-09-08, 13:55:42](https://lobste.rs/s/i9eqm0/learning_zig) - [Learning Zig](https://www.openmymind.net/learning_zig/)
 * [2023-09-08, 13:02:52](https://lobste.rs/s/frapzu/android_14_blocks_direct_modification) - [Android 14 blocks direct modification of system certificates](https://httptoolkit.com/blog/android-14-breaks-system-certificate-installation/)
 * [2023-09-08, 10:20:35](https://lobste.rs/s/kh2z3w/response_time_is_system_talking) - [Response Time Is the System Talking](https://two-wrongs.com/response-time-is-the-system-talking.html)
-* [2023-09-07, 16:46:52](https://lobste.rs/s/llkcap/kagi_small_web) - [Kagi Small Web](https://blog.kagi.com/small-web)
-* [2023-09-07, 16:04:55](https://lobste.rs/s/lsvmkq/semver_violations_are_common_better) - [Semver violations are common, better tooling is the answer](https://predr.ag/blog/semver-violations-are-common-better-tooling-is-the-answer/)
 
 ## [Archives](archives/index.md)
 
