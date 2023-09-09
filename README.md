@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-09, 12:56:30](https://lobste.rs/s/dsmjrp/more_on_response_time_scale) - [More On Response Time And Scale](https://two-wrongs.com/more-on-response-time-and-scale.html)
 * [2023-09-09, 12:37:39](https://lobste.rs/s/myjkru/there_is_plenty_room_at_bottom_2021) - [There is plenty of room at the bottom (2021)](http://muratbuffalo.blogspot.com/2021/08/there-is-plenty-of-room-at-bottom.html)
 * [2023-09-09, 12:29:15](https://lobste.rs/s/yevgab/data_centric_introduction_computing) - [A Data-Centric Introduction to Computing](https://dcic-world.org/2023-02-21/index.html)
 * [2023-09-09, 12:00:07](https://lobste.rs/s/w0qu8g/is_popl_mathematics_science) - [Is POPL Mathematics or Science?](https://www.cs.princeton.edu/~appel/papers/science.pdf)
@@ -15,7 +16,6 @@
 * [2023-09-08, 18:21:28](https://lobste.rs/s/cryfiu/async_rust_is_bad_language) - [Async Rust Is A Bad Language](https://bitbashing.io/async-rust.html)
 * [2023-09-08, 17:42:07](https://lobste.rs/s/f5zlq9/scaling_gopls_for_growing_go_ecosystem) - [Scaling gopls for the growing Go ecosystem](https://go.dev/blog/gopls-scalability)
 * [2023-09-08, 16:47:28](https://lobste.rs/s/tyoflm/solving_same_problem_multiple_times) - [Solving the same problem multiple times](https://blog.fredrb.com/2023/09/08/same-problem-multiple-times/)
-* [2023-09-08, 16:44:39](https://lobste.rs/s/ur80zz/carbon_language_successor_strategy_from) - [Carbon Language Successor Strategy: From C++ Interop to Memory Safety](https://www.youtube.com/watch?v=1ZTJ9omXOQ0)
 * [2023-09-08, 16:43:30](https://lobste.rs/s/dkp1te/release_jq_1_7) - [Release jq 1.7](https://github.com/jqlang/jq/releases/tag/jq-1.7)
 * [2023-09-08, 16:14:00](https://lobste.rs/s/cnwoxq/simple_application_oauth_mastodon_s_api) - [A simple application of OAuth: Mastodon's API](https://danschnau.com/blog/this_blog_automatically_posts_to_the_fediverse)
 * [2023-09-08, 14:33:49](https://lobste.rs/s/wywsvx/how_big_is_kilobyte) - [How big is a kilobyte?](https://evanhahn.com/how-big-is-a-kilobyte/)

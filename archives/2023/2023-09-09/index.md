@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-09](index.md)
 
+* [2023-09-09, 12:56:30](https://lobste.rs/s/dsmjrp/more_on_response_time_scale) - [More On Response Time And Scale](https://two-wrongs.com/more-on-response-time-and-scale.html)
 * [2023-09-09, 12:37:39](https://lobste.rs/s/myjkru/there_is_plenty_room_at_bottom_2021) - [There is plenty of room at the bottom (2021)](http://muratbuffalo.blogspot.com/2021/08/there-is-plenty-of-room-at-bottom.html)
 * [2023-09-09, 12:29:15](https://lobste.rs/s/yevgab/data_centric_introduction_computing) - [A Data-Centric Introduction to Computing](https://dcic-world.org/2023-02-21/index.html)
 * [2023-09-09, 12:00:07](https://lobste.rs/s/w0qu8g/is_popl_mathematics_science) - [Is POPL Mathematics or Science?](https://www.cs.princeton.edu/~appel/papers/science.pdf)
