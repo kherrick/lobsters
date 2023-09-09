@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-09, 15:18:38",
+      "https://lobste.rs/s/lndue2/just_for_fun_what_happens_when_you_shift"
+    ],
+    [
+      "Just for fun: What happens when you shift a register by more than the register size?",
+      "https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704"
+    ]
+  ],
+  [
+    [
       "2023-09-09, 15:10:27",
       "https://lobste.rs/s/kgtjav/p2k23_hackathon_report_marc_espie_espie"
     ],
@@ -187,16 +197,6 @@
     [
       "Release jq 1.7",
       "https://github.com/jqlang/jq/releases/tag/jq-1.7"
-    ]
-  ],
-  [
-    [
-      "2023-09-08, 16:14:00",
-      "https://lobste.rs/s/cnwoxq/simple_application_oauth_mastodon_s_api"
-    ],
-    [
-      "A simple application of OAuth: Mastodon's API",
-      "https://danschnau.com/blog/this_blog_automatically_posts_to_the_fediverse"
     ]
   ],
   [
