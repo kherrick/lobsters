@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-09](index.md)
 
+* [2023-09-09, 15:10:27](https://lobste.rs/s/kgtjav/p2k23_hackathon_report_marc_espie_espie) - [p2k23 Hackathon Report: Marc Espie (espie@) on a flurry of packages activity](https://undeadly.org/cgi?action=article;sid=20230909100706)
 * [2023-09-09, 14:29:54](https://lobste.rs/s/scwhgh/brainfuck_stark_tutorial) - [Brainfuck STARK Tutorial](https://neptune.cash/learn/brainfuck-tutorial/)
 * [2023-09-09, 13:15:05](https://lobste.rs/s/errpj4/much_ado_about_nil_things_more_go_pitfalls) - [Much Ado About Nil Things: More Go Pitfalls](https://www.dolthub.com/blog/2023-09-08-much-ado-about-nil-things/)
 * [2023-09-09, 13:14:58](https://lobste.rs/s/mffpva/my_mental_model_clojure_transducers) - [My mental model of Clojure transducers](https://blog.danieljanus.pl/2023/09/09/transducers/)

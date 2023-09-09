@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-09, 15:10:27](https://lobste.rs/s/kgtjav/p2k23_hackathon_report_marc_espie_espie) - [p2k23 Hackathon Report: Marc Espie (espie@) on a flurry of packages activity](https://undeadly.org/cgi?action=article;sid=20230909100706)
 * [2023-09-09, 14:29:54](https://lobste.rs/s/scwhgh/brainfuck_stark_tutorial) - [Brainfuck STARK Tutorial](https://neptune.cash/learn/brainfuck-tutorial/)
 * [2023-09-09, 13:15:05](https://lobste.rs/s/errpj4/much_ado_about_nil_things_more_go_pitfalls) - [Much Ado About Nil Things: More Go Pitfalls](https://www.dolthub.com/blog/2023-09-08-much-ado-about-nil-things/)
 * [2023-09-09, 13:14:58](https://lobste.rs/s/mffpva/my_mental_model_clojure_transducers) - [My mental model of Clojure transducers](https://blog.danieljanus.pl/2023/09/09/transducers/)
@@ -11,7 +12,6 @@
 * [2023-09-09, 06:13:21](https://lobste.rs/s/2fmws0/examples_tiddlywiki_being_used_wild) - [Examples of TiddlyWiki being used in the wild](https://tiddlywiki.com/static/Examples.html)
 * [2023-09-09, 02:07:08](https://lobste.rs/s/2pxtom/swift_org_new_homepage) - [Swift.org new homepage](https://swift.org/)
 * [2023-09-08, 23:18:11](https://lobste.rs/s/bpsvbj/bun_1_0_bun_blog) - [Bun 1.0 | Bun Blog](https://bun.sh/blog/bun-v1.0)
-* [2023-09-08, 21:17:20](https://lobste.rs/s/lz0rbb/decoded_gnu_coreutils) - [Decoded: GNU coreutils](https://maizure.org/projects/decoded-gnu-coreutils/)
 * [2023-09-08, 20:53:50](https://lobste.rs/s/gtluba/what_if_someone_made_plan_9_could_run_linux) - [What if... someone made a Plan 9 that could run Linux apps?](https://liam-on-linux.dreamwidth.org/89039.html)
 * [2023-09-08, 20:25:06](https://lobste.rs/s/dqjjou/ziggy_pydust) - [Ziggy Pydust](https://zig.news/gatesn/ziggy-pydust-36d5)
 * [2023-09-08, 18:38:35](https://lobste.rs/s/9k6efy/good_performance_is_not_just_big_o) - [Good performance is not just big O](https://jmmv.dev/2023/09/performance-is-not-big-o.html)
