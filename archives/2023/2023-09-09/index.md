@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-09](index.md)
 
+* [2023-09-09, 16:37:55](https://lobste.rs/s/uteqkq/video_demo_go_on_rails_framework) - [Video demo of “go on rails” framework](https://lobste.rs/s/uteqkq/video_demo_go_on_rails_framework)
 * [2023-09-09, 15:45:53](https://lobste.rs/s/xlkow8/countering_string_bloat) - [Countering string bloat](https://www.volkerkrause.eu/2023/09/09/qt-string-bloat.html)
 * [2023-09-09, 15:30:41](https://lobste.rs/s/okwucm/design_implementation_object_oriented) - [Design and Implementation of an Object-Oriented Functional Language](https://discovery.ucl.ac.uk/id/eprint/10107565/1/Design_and_implementation_of_a.pdf)
 * [2023-09-09, 15:18:38](https://lobste.rs/s/lndue2/just_for_fun_what_happens_when_you_shift) - [Just for fun: What happens when you shift a register by more than the register size?](https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704)

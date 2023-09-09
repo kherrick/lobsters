@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-09, 16:37:55](https://lobste.rs/s/uteqkq/video_demo_go_on_rails_framework) - [Video demo of “go on rails” framework](https://lobste.rs/s/uteqkq/video_demo_go_on_rails_framework)
 * [2023-09-09, 15:45:53](https://lobste.rs/s/xlkow8/countering_string_bloat) - [Countering string bloat](https://www.volkerkrause.eu/2023/09/09/qt-string-bloat.html)
 * [2023-09-09, 15:30:41](https://lobste.rs/s/okwucm/design_implementation_object_oriented) - [Design and Implementation of an Object-Oriented Functional Language](https://discovery.ucl.ac.uk/id/eprint/10107565/1/Design_and_implementation_of_a.pdf)
 * [2023-09-09, 15:18:38](https://lobste.rs/s/lndue2/just_for_fun_what_happens_when_you_shift) - [Just for fun: What happens when you shift a register by more than the register size?](https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704)
@@ -9,7 +10,6 @@
 * [2023-09-09, 13:14:58](https://lobste.rs/s/mffpva/my_mental_model_clojure_transducers) - [My mental model of Clojure transducers](https://blog.danieljanus.pl/2023/09/09/transducers/)
 * [2023-09-09, 12:37:39](https://lobste.rs/s/myjkru/there_is_plenty_room_at_bottom_2021) - [There is plenty of room at the bottom (2021)](http://muratbuffalo.blogspot.com/2021/08/there-is-plenty-of-room-at-bottom.html)
 * [2023-09-09, 12:29:15](https://lobste.rs/s/yevgab/data_centric_introduction_computing) - [A Data-Centric Introduction to Computing](https://dcic-world.org/2023-02-21/index.html)
-* [2023-09-09, 12:00:07](https://lobste.rs/s/w0qu8g/is_popl_mathematics_science) - [Is POPL Mathematics or Science?](https://www.cs.princeton.edu/~appel/papers/science.pdf)
 * [2023-09-09, 07:29:57](https://lobste.rs/s/70ymtu/svg_viewer_browser_slideshow_which) - [An SVG viewer / browser / \"slideshow\" which itself is a self-contained SVG](https://github.com/stevana/svg-viewer-in-svg#svg-viewer-written-in-svg)
 * [2023-09-09, 06:13:21](https://lobste.rs/s/2fmws0/examples_tiddlywiki_being_used_wild) - [Examples of TiddlyWiki being used in the wild](https://tiddlywiki.com/static/Examples.html)
 * [2023-09-09, 02:07:08](https://lobste.rs/s/2pxtom/swift_org_new_homepage) - [Swift.org new homepage](https://swift.org/)
