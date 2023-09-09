@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2023-09-08, 23:18:11",
-      "https://lobste.rs/s/bpsvbj/bun_1_0_bun_blog"
-    ],
-    [
-      "Bun 1.0 | Bun Blog",
-      "https://bun.sh/blog/bun-v1.0"
-    ]
-  ],
-  [
-    [
       "2023-09-08, 20:53:50",
       "https://lobste.rs/s/gtluba/what_if_someone_made_plan_9_could_run_linux"
     ],
@@ -197,6 +187,16 @@
     [
       "Async Rust Is A Bad Language",
       "https://bitbashing.io/async-rust.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-08, 16:47:28",
+      "https://lobste.rs/s/tyoflm/solving_same_problem_multiple_times"
+    ],
+    [
+      "Solving the same problem multiple times",
+      "https://blog.fredrb.com/2023/09/08/same-problem-multiple-times/"
     ]
   ],
   [
