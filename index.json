@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-09, 07:29:57",
+      "https://lobste.rs/s/70ymtu/svg_viewer_browser_slideshow_which"
+    ],
+    [
+      "An SVG viewer / browser / \"slideshow\" which itself is a self-contained SVG",
+      "https://github.com/stevana/svg-viewer-in-svg#svg-viewer-written-in-svg"
+    ]
+  ],
+  [
+    [
       "2023-09-09, 06:13:21",
       "https://lobste.rs/s/2fmws0/examples_tiddlywiki_being_used_wild"
     ],
@@ -17,16 +27,6 @@
     [
       "Swift.org new homepage",
       "https://swift.org/"
-    ]
-  ],
-  [
-    [
-      "2023-09-08, 23:46:50",
-      "https://lobste.rs/s/5aclse/non_determinism_gpt_4_is_caused_by_sparse"
-    ],
-    [
-      "Non-determinism in GPT-4 is caused by Sparse MoE",
-      "https://152334h.github.io/blog/non-determinism-in-gpt-4/"
     ]
   ],
   [
