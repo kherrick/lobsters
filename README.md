@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-09, 15:18:38](https://lobste.rs/s/lndue2/just_for_fun_what_happens_when_you_shift) - [Just for fun: What happens when you shift a register by more than the register size?](https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704)
 * [2023-09-09, 15:10:27](https://lobste.rs/s/kgtjav/p2k23_hackathon_report_marc_espie_espie) - [p2k23 Hackathon Report: Marc Espie (espie@) on a flurry of packages activity](https://undeadly.org/cgi?action=article;sid=20230909100706)
 * [2023-09-09, 14:29:54](https://lobste.rs/s/scwhgh/brainfuck_stark_tutorial) - [Brainfuck STARK Tutorial](https://neptune.cash/learn/brainfuck-tutorial/)
 * [2023-09-09, 13:15:05](https://lobste.rs/s/errpj4/much_ado_about_nil_things_more_go_pitfalls) - [Much Ado About Nil Things: More Go Pitfalls](https://www.dolthub.com/blog/2023-09-08-much-ado-about-nil-things/)
@@ -19,7 +20,6 @@
 * [2023-09-08, 17:42:07](https://lobste.rs/s/f5zlq9/scaling_gopls_for_growing_go_ecosystem) - [Scaling gopls for the growing Go ecosystem](https://go.dev/blog/gopls-scalability)
 * [2023-09-08, 16:47:28](https://lobste.rs/s/tyoflm/solving_same_problem_multiple_times) - [Solving the same problem multiple times](https://blog.fredrb.com/2023/09/08/same-problem-multiple-times/)
 * [2023-09-08, 16:43:30](https://lobste.rs/s/dkp1te/release_jq_1_7) - [Release jq 1.7](https://github.com/jqlang/jq/releases/tag/jq-1.7)
-* [2023-09-08, 16:14:00](https://lobste.rs/s/cnwoxq/simple_application_oauth_mastodon_s_api) - [A simple application of OAuth: Mastodon's API](https://danschnau.com/blog/this_blog_automatically_posts_to_the_fediverse)
 * [2023-09-08, 14:33:49](https://lobste.rs/s/wywsvx/how_big_is_kilobyte) - [How big is a kilobyte?](https://evanhahn.com/how-big-is-a-kilobyte/)
 * [2023-09-08, 14:25:39](https://lobste.rs/s/ydotcc/how_does_linux_nat_ping) - [how does linux nat a ping?](https://devnonsense.com/posts/how-does-linux-nat-a-ping/)
 * [2023-09-08, 13:55:42](https://lobste.rs/s/i9eqm0/learning_zig) - [Learning Zig](https://www.openmymind.net/learning_zig/)
