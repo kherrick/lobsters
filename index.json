@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-09-08, 20:11:25",
+      "https://lobste.rs/s/b6f3if/using_kani_validate_security_boundaries"
+    ],
+    [
+      "Using Kani to Validate Security Boundaries in AWS Firecracker",
+      "https://model-checking.github.io/kani-verifier-blog/2023/08/31/using-kani-to-validate-security-boundaries-in-aws-firecracker.html"
+    ]
+  ],
+  [
+    [
       "2023-09-08, 18:38:35",
       "https://lobste.rs/s/9k6efy/good_performance_is_not_just_big_o"
     ],
@@ -207,16 +217,6 @@
     [
       "BLASTPASS: NSO Group iPhone Zero-Click, Zero-Day Exploit Captured in the Wild",
       "https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/"
-    ]
-  ],
-  [
-    [
-      "2023-09-07, 18:35:08",
-      "https://lobste.rs/s/cvjcrs/bun_1_0_is_here"
-    ],
-    [
-      "Bun 1.0 is here",
-      "https://www.youtube.com/watch?v=BsnCpESUEqM"
     ]
   ],
   [
