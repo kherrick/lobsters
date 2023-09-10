@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2023-09-09, 16:46:01",
+      "https://lobste.rs/s/vkll70/introduction_cors_for_go_programmers"
+    ],
+    [
+      "Introduction to CORS for Go programmers",
+      "https://eli.thegreenplace.net/2023/introduction-to-cors-for-go-programmers/"
+    ]
+  ],
+  [
+    [
       "2023-09-09, 16:37:55",
       "https://lobste.rs/s/uteqkq/video_demo_go_on_rails_framework"
     ],
@@ -237,16 +247,6 @@
     [
       "How big is a kilobyte?",
       "https://evanhahn.com/how-big-is-a-kilobyte/"
-    ]
-  ],
-  [
-    [
-      "2023-09-08, 10:20:35",
-      "https://lobste.rs/s/kh2z3w/response_time_is_system_talking"
-    ],
-    [
-      "Response Time Is the System Talking",
-      "https://two-wrongs.com/response-time-is-the-system-talking.html"
     ]
   ]
 ]
