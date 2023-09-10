@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-10](index.md)
 
+* [2023-09-10, 15:00:13](https://lobste.rs/s/oobvjl/porting_my_mac_rom_simm_programmer_from) - [Porting my Mac ROM SIMM programmer from AVR to ARM](https://www.downtowndougbrown.com/2023/09/porting-my-mac-rom-simm-programmer-from-avr-to-arm/)
+* [2023-09-10, 14:54:58](https://lobste.rs/s/tuwqjd/factorio_mutation_lossiness) - [Factorio, Mutation, & Lossiness](https://www.rfleury.com/p/factorio-mutation-and-lossiness)
 * [2023-09-10, 14:16:21](https://lobste.rs/s/9zegfk/picolisp_explored_discrete_event) - [PicoLisp Explored: Discrete Event Simulation](https://picolisp-explored.com/picolisp-explored-discrete-event-simulation)
 * [2023-09-10, 12:30:23](https://lobste.rs/s/syvng1/google_gets_its_way_bakes_user_tracking_ad) - [Google gets its way, bakes a user-tracking ad platform directly into Chrome](https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/)
 * [2023-09-10, 09:21:46](https://lobste.rs/s/sns4mr/comfy_with_python_basic_tooling_now_what) - [Comfy with Python basic tooling, now what?](https://www.bitecode.dev/p/you-are-comfy-with-python-basics)
