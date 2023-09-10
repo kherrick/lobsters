@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-10, 22:38:38",
+      "https://lobste.rs/s/rhjptp/awk_book_s_60_line_version_make"
+    ],
+    [
+      "The AWK book's 60-line version of Make",
+      "https://benhoyt.com/writings/awk-make/"
+    ]
+  ],
+  [
+    [
       "2023-09-10, 22:04:34",
       "https://lobste.rs/s/wupbhe/how_does_os_boot"
     ],
@@ -217,16 +227,6 @@
     [
       "An SVG viewer / browser / \"slideshow\" which itself is a self-contained SVG",
       "https://github.com/stevana/svg-viewer-in-svg#svg-viewer-written-in-svg"
-    ]
-  ],
-  [
-    [
-      "2023-09-08, 20:53:50",
-      "https://lobste.rs/s/gtluba/what_if_someone_made_plan_9_could_run_linux"
-    ],
-    [
-      "What if... someone made a Plan 9 that could run Linux apps?",
-      "https://liam-on-linux.dreamwidth.org/89039.html"
     ]
   ],
   [
