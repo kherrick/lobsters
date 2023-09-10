@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-10, 20:40:12](https://lobste.rs/s/g2khpx/nats_major_incident_preliminary_report) - [NATS Major Incident Preliminary Report - UK air traffic control lost computer help for a day](https://publicapps.caa.co.uk/docs/33/NERL%20Major%20Incident%20Investigation%20Preliminary%20Report.pdf)
 * [2023-09-10, 20:13:27](https://lobste.rs/s/obkubk/p2k23_hackathon_report_jeremy_evans) - [p2k23 Hackathon Report: Jeremy Evans (jeremy@) on Ruby ports cleanup, database progress, and more](https://undeadly.org/cgi?action=article;sid=20230910194038)
 * [2023-09-10, 18:41:13](https://lobste.rs/s/xkor14/making_visually_stable_uis_2020) - [Making visually stable UIs (2020)](https://blog.horizon-eda.org/misc/2020/02/19/ui.html)
 * [2023-09-10, 17:46:07](https://lobste.rs/s/7h9owg/nixcon_2023_talks) - [NixCon 2023 Talks](https://media.ccc.de/b/conferences/nixcon/nixcon2023)
@@ -19,7 +20,6 @@
 * [2023-09-09, 15:18:38](https://lobste.rs/s/lndue2/just_for_fun_what_happens_when_you_shift) - [Just for fun: What happens when you shift a register by more than the register size?](https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704)
 * [2023-09-09, 13:15:05](https://lobste.rs/s/errpj4/much_ado_about_nil_things_more_go_pitfalls) - [Much Ado About Nil Things: More Go Pitfalls](https://www.dolthub.com/blog/2023-09-08-much-ado-about-nil-things/)
 * [2023-09-09, 13:14:58](https://lobste.rs/s/mffpva/my_mental_model_clojure_transducers) - [My mental model of Clojure transducers](https://blog.danieljanus.pl/2023/09/09/transducers/)
-* [2023-09-09, 12:37:39](https://lobste.rs/s/myjkru/there_is_plenty_room_at_bottom_2021) - [There is plenty of room at the bottom (2021)](http://muratbuffalo.blogspot.com/2021/08/there-is-plenty-of-room-at-bottom.html)
 * [2023-09-09, 07:29:57](https://lobste.rs/s/70ymtu/svg_viewer_browser_slideshow_which) - [An SVG viewer / browser / \"slideshow\" which itself is a self-contained SVG](https://github.com/stevana/svg-viewer-in-svg#svg-viewer-written-in-svg)
 * [2023-09-09, 06:13:21](https://lobste.rs/s/2fmws0/examples_tiddlywiki_being_used_wild) - [Examples of TiddlyWiki being used in the wild](https://tiddlywiki.com/static/Examples.html)
 * [2023-09-08, 20:53:50](https://lobste.rs/s/gtluba/what_if_someone_made_plan_9_could_run_linux) - [What if... someone made a Plan 9 that could run Linux apps?](https://liam-on-linux.dreamwidth.org/89039.html)
