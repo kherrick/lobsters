@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-10](index.md)
 
+* [2023-09-10, 14:16:21](https://lobste.rs/s/9zegfk/picolisp_explored_discrete_event) - [PicoLisp Explored: Discrete Event Simulation](https://picolisp-explored.com/picolisp-explored-discrete-event-simulation)
 * [2023-09-10, 12:30:23](https://lobste.rs/s/syvng1/google_gets_its_way_bakes_user_tracking_ad) - [Google gets its way, bakes a user-tracking ad platform directly into Chrome](https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/)
 * [2023-09-10, 09:21:46](https://lobste.rs/s/sns4mr/comfy_with_python_basic_tooling_now_what) - [Comfy with Python basic tooling, now what?](https://www.bitecode.dev/p/you-are-comfy-with-python-basics)
 * [2023-09-10, 05:42:08](https://lobste.rs/s/2eji2q/meet_guy_preserving_new_history_pc_games) - [Meet the Guy Preserving the New History of PC Games, One Linux Port at a Time](https://www.404media.co/meet-the-guy-preserving-the-new-history-of-pc-games-one-linux-port-at-a-time/)

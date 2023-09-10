@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-10, 14:16:21](https://lobste.rs/s/9zegfk/picolisp_explored_discrete_event) - [PicoLisp Explored: Discrete Event Simulation](https://picolisp-explored.com/picolisp-explored-discrete-event-simulation)
 * [2023-09-10, 12:30:23](https://lobste.rs/s/syvng1/google_gets_its_way_bakes_user_tracking_ad) - [Google gets its way, bakes a user-tracking ad platform directly into Chrome](https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/)
 * [2023-09-10, 09:21:46](https://lobste.rs/s/sns4mr/comfy_with_python_basic_tooling_now_what) - [Comfy with Python basic tooling, now what?](https://www.bitecode.dev/p/you-are-comfy-with-python-basics)
 * [2023-09-10, 05:42:08](https://lobste.rs/s/2eji2q/meet_guy_preserving_new_history_pc_games) - [Meet the Guy Preserving the New History of PC Games, One Linux Port at a Time](https://www.404media.co/meet-the-guy-preserving-the-new-history-of-pc-games-one-linux-port-at-a-time/)
@@ -15,7 +16,6 @@
 * [2023-09-09, 15:18:38](https://lobste.rs/s/lndue2/just_for_fun_what_happens_when_you_shift) - [Just for fun: What happens when you shift a register by more than the register size?](https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704)
 * [2023-09-09, 13:15:05](https://lobste.rs/s/errpj4/much_ado_about_nil_things_more_go_pitfalls) - [Much Ado About Nil Things: More Go Pitfalls](https://www.dolthub.com/blog/2023-09-08-much-ado-about-nil-things/)
 * [2023-09-09, 13:14:58](https://lobste.rs/s/mffpva/my_mental_model_clojure_transducers) - [My mental model of Clojure transducers](https://blog.danieljanus.pl/2023/09/09/transducers/)
-* [2023-09-09, 12:56:30](https://lobste.rs/s/dsmjrp/more_on_response_time_scale) - [More On Response Time And Scale](https://two-wrongs.com/more-on-response-time-and-scale.html)
 * [2023-09-09, 12:37:39](https://lobste.rs/s/myjkru/there_is_plenty_room_at_bottom_2021) - [There is plenty of room at the bottom (2021)](http://muratbuffalo.blogspot.com/2021/08/there-is-plenty-of-room-at-bottom.html)
 * [2023-09-09, 12:00:07](https://lobste.rs/s/w0qu8g/is_popl_mathematics_science) - [Is POPL Mathematics or Science?](https://www.cs.princeton.edu/~appel/papers/science.pdf)
 * [2023-09-09, 07:29:57](https://lobste.rs/s/70ymtu/svg_viewer_browser_slideshow_which) - [An SVG viewer / browser / \"slideshow\" which itself is a self-contained SVG](https://github.com/stevana/svg-viewer-in-svg#svg-viewer-written-in-svg)
