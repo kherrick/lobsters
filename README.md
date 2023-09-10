@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-10, 18:41:13](https://lobste.rs/s/xkor14/making_visually_stable_uis_2020) - [Making visually stable UIs (2020)](https://blog.horizon-eda.org/misc/2020/02/19/ui.html)
 * [2023-09-10, 17:46:07](https://lobste.rs/s/7h9owg/nixcon_2023_talks) - [NixCon 2023 Talks](https://media.ccc.de/b/conferences/nixcon/nixcon2023)
 * [2023-09-10, 15:28:59](https://lobste.rs/s/l3ujrr/having_fun_with_keyboard_mappings_under) - [Having fun with keyboard mappings under Linux](https://pulsar17.me/2023/09/keymapping)
 * [2023-09-10, 15:00:13](https://lobste.rs/s/oobvjl/porting_my_mac_rom_simm_programmer_from) - [Porting my Mac ROM SIMM programmer from AVR to ARM](https://www.downtowndougbrown.com/2023/09/porting-my-mac-rom-simm-programmer-from-avr-to-arm/)
@@ -24,7 +25,6 @@
 * [2023-09-08, 20:53:50](https://lobste.rs/s/gtluba/what_if_someone_made_plan_9_could_run_linux) - [What if... someone made a Plan 9 that could run Linux apps?](https://liam-on-linux.dreamwidth.org/89039.html)
 * [2023-09-08, 18:38:35](https://lobste.rs/s/9k6efy/good_performance_is_not_just_big_o) - [Good performance is not just big O](https://jmmv.dev/2023/09/performance-is-not-big-o.html)
 * [2023-09-08, 18:21:28](https://lobste.rs/s/cryfiu/async_rust_is_bad_language) - [Async Rust Is A Bad Language](https://bitbashing.io/async-rust.html)
-* [2023-09-08, 14:33:49](https://lobste.rs/s/wywsvx/how_big_is_kilobyte) - [How big is a kilobyte?](https://evanhahn.com/how-big-is-a-kilobyte/)
 
 ## [Archives](archives/index.md)
 
