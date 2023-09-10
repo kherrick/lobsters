@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-10, 12:30:23](https://lobste.rs/s/syvng1/google_gets_its_way_bakes_user_tracking_ad) - [Google gets its way, bakes a user-tracking ad platform directly into Chrome](https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/)
 * [2023-09-10, 09:21:46](https://lobste.rs/s/sns4mr/comfy_with_python_basic_tooling_now_what) - [Comfy with Python basic tooling, now what?](https://www.bitecode.dev/p/you-are-comfy-with-python-basics)
 * [2023-09-10, 05:42:08](https://lobste.rs/s/2eji2q/meet_guy_preserving_new_history_pc_games) - [Meet the Guy Preserving the New History of PC Games, One Linux Port at a Time](https://www.404media.co/meet-the-guy-preserving-the-new-history-of-pc-games-one-linux-port-at-a-time/)
 * [2023-09-10, 04:51:23](https://lobste.rs/s/8jkqu6/prerequisites_for_large_anonymous) - [Prerequisites for large anonymous folios](https://lwn.net/SubscriberLink/943758/9abed6231b52be96/)
@@ -11,7 +12,6 @@
 * [2023-09-09, 16:46:01](https://lobste.rs/s/vkll70/introduction_cors_for_go_programmers) - [Introduction to CORS for Go programmers](https://eli.thegreenplace.net/2023/introduction-to-cors-for-go-programmers/)
 * [2023-09-09, 16:37:55](https://lobste.rs/s/uteqkq/video_demo_go_on_rails_framework) - [Video demo of “go on rails” framework](https://lobste.rs/s/uteqkq/video_demo_go_on_rails_framework)
 * [2023-09-09, 15:45:53](https://lobste.rs/s/xlkow8/countering_string_bloat) - [Countering string bloat](https://www.volkerkrause.eu/2023/09/09/qt-string-bloat.html)
-* [2023-09-09, 15:30:41](https://lobste.rs/s/okwucm/design_implementation_object_oriented) - [Design and Implementation of an Object-Oriented Functional Language](https://discovery.ucl.ac.uk/id/eprint/10107565/1/Design_and_implementation_of_a.pdf)
 * [2023-09-09, 15:18:38](https://lobste.rs/s/lndue2/just_for_fun_what_happens_when_you_shift) - [Just for fun: What happens when you shift a register by more than the register size?](https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704)
 * [2023-09-09, 13:15:05](https://lobste.rs/s/errpj4/much_ado_about_nil_things_more_go_pitfalls) - [Much Ado About Nil Things: More Go Pitfalls](https://www.dolthub.com/blog/2023-09-08-much-ado-about-nil-things/)
 * [2023-09-09, 13:14:58](https://lobste.rs/s/mffpva/my_mental_model_clojure_transducers) - [My mental model of Clojure transducers](https://blog.danieljanus.pl/2023/09/09/transducers/)
