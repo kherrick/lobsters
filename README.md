@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-10, 05:42:08](https://lobste.rs/s/2eji2q/meet_guy_preserving_new_history_pc_games) - [Meet the Guy Preserving the New History of PC Games, One Linux Port at a Time](https://www.404media.co/meet-the-guy-preserving-the-new-history-of-pc-games-one-linux-port-at-a-time/)
 * [2023-09-10, 04:51:23](https://lobste.rs/s/8jkqu6/prerequisites_for_large_anonymous) - [Prerequisites for large anonymous folios](https://lwn.net/SubscriberLink/943758/9abed6231b52be96/)
 * [2023-09-10, 00:59:04](https://lobste.rs/s/ohqpvc/i_wrote_string_type) - [I Wrote A String Type](https://mcyoung.xyz/2023/08/09/yarns/)
 * [2023-09-10, 00:02:12](https://lobste.rs/s/eyxrua/computer_science_from_bottom_up) - [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
@@ -23,7 +24,6 @@
 * [2023-09-08, 18:21:28](https://lobste.rs/s/cryfiu/async_rust_is_bad_language) - [Async Rust Is A Bad Language](https://bitbashing.io/async-rust.html)
 * [2023-09-08, 16:43:30](https://lobste.rs/s/dkp1te/release_jq_1_7) - [Release jq 1.7](https://github.com/jqlang/jq/releases/tag/jq-1.7)
 * [2023-09-08, 14:33:49](https://lobste.rs/s/wywsvx/how_big_is_kilobyte) - [How big is a kilobyte?](https://evanhahn.com/how-big-is-a-kilobyte/)
-* [2023-09-08, 13:55:42](https://lobste.rs/s/i9eqm0/learning_zig) - [Learning Zig](https://www.openmymind.net/learning_zig/)
 * [2023-09-08, 10:20:35](https://lobste.rs/s/kh2z3w/response_time_is_system_talking) - [Response Time Is the System Talking](https://two-wrongs.com/response-time-is-the-system-talking.html)
 
 ## [Archives](archives/index.md)
