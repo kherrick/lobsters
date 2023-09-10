@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-10](index.md)
 
+* [2023-09-10, 22:04:34](https://lobste.rs/s/wupbhe/how_does_os_boot) - [How does an OS boot?](https://youtu.be/KkenLT8S9Hs)
 * [2023-09-10, 21:11:14](https://lobste.rs/s/bamzoo/scryer_playground_run_scryer_prolog_on) - [Scryer Playground: Run Scryer Prolog on the Browser](https://play.scryer.pl)
 * [2023-09-10, 20:40:12](https://lobste.rs/s/g2khpx/nats_major_incident_preliminary_report) - [NATS Major Incident Preliminary Report - UK air traffic control lost computer help for a day](https://publicapps.caa.co.uk/docs/33/NERL%20Major%20Incident%20Investigation%20Preliminary%20Report.pdf)
 * [2023-09-10, 20:13:27](https://lobste.rs/s/obkubk/p2k23_hackathon_report_jeremy_evans) - [p2k23 Hackathon Report: Jeremy Evans (jeremy@) on Ruby ports cleanup, database progress, and more](https://undeadly.org/cgi?action=article;sid=20230910194038)
