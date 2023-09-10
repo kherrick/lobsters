@@ -6,7 +6,7 @@
 * [2023-09-09, 23:52:42](https://lobste.rs/s/brz1f1/recent_story_about_not_doing_any_work_at) - [Recent story about not doing any work at data science jobs ?](https://lobste.rs/s/brz1f1/recent_story_about_not_doing_any_work_at)
 * [2023-09-09, 22:37:27](https://lobste.rs/s/yda1ir/definitive_php_7_2_7_3_7_4_8_0_8_1_benchmarks) - [The Definitive PHP 7.2, 7.3, 7.4, 8.0, and 8.1 Benchmarks (2023)](https://kinsta.com/blog/php-benchmarks/)
 * [2023-09-09, 20:45:46](https://lobste.rs/s/kzm1wy/reflections_on_llvm_s_switch_github_pull) - [Reflections on LLVM's switch to GitHub pull requests](https://maskray.me/blog/2023-09-09-reflections-on-llvm-switch-to-github-pull-requests)
-* [2023-09-09, 16:46:01](https://lobste.rs/s/vkll70/introduction_cors_for_go_programmers) - [Introduction to CORS for Go programmers](https://eli.thegreenplace.net/2023/introduction-to-cors-for-go-programmers/)
+* [2023-09-09, 16:37:55](https://lobste.rs/s/uteqkq/video_demo_go_on_rails_framework) - [Video demo of “go on rails” framework](https://lobste.rs/s/uteqkq/video_demo_go_on_rails_framework)
 * [2023-09-09, 15:45:53](https://lobste.rs/s/xlkow8/countering_string_bloat) - [Countering string bloat](https://www.volkerkrause.eu/2023/09/09/qt-string-bloat.html)
 * [2023-09-09, 15:30:41](https://lobste.rs/s/okwucm/design_implementation_object_oriented) - [Design and Implementation of an Object-Oriented Functional Language](https://discovery.ucl.ac.uk/id/eprint/10107565/1/Design_and_implementation_of_a.pdf)
 * [2023-09-09, 15:18:38](https://lobste.rs/s/lndue2/just_for_fun_what_happens_when_you_shift) - [Just for fun: What happens when you shift a register by more than the register size?](https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704)
