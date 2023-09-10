@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-10, 14:16:21",
+      "https://lobste.rs/s/9zegfk/picolisp_explored_discrete_event"
+    ],
+    [
+      "PicoLisp Explored: Discrete Event Simulation",
+      "https://picolisp-explored.com/picolisp-explored-discrete-event-simulation"
+    ]
+  ],
+  [
+    [
       "2023-09-10, 12:30:23",
       "https://lobste.rs/s/syvng1/google_gets_its_way_bakes_user_tracking_ad"
     ],
@@ -147,16 +157,6 @@
     [
       "My mental model of Clojure transducers",
       "https://blog.danieljanus.pl/2023/09/09/transducers/"
-    ]
-  ],
-  [
-    [
-      "2023-09-09, 12:56:30",
-      "https://lobste.rs/s/dsmjrp/more_on_response_time_scale"
-    ],
-    [
-      "More On Response Time And Scale",
-      "https://two-wrongs.com/more-on-response-time-and-scale.html"
     ]
   ],
   [
