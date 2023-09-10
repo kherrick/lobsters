@@ -9,6 +9,7 @@
 * [2023-09-09, 22:37:27](https://lobste.rs/s/yda1ir/definitive_php_7_2_7_3_7_4_8_0_8_1_benchmarks) - [The Definitive PHP 7.2, 7.3, 7.4, 8.0, and 8.1 Benchmarks (2023)](https://kinsta.com/blog/php-benchmarks/)
 * [2023-09-09, 20:45:46](https://lobste.rs/s/kzm1wy/reflections_on_llvm_s_switch_github_pull) - [Reflections on LLVM's switch to GitHub pull requests](https://maskray.me/blog/2023-09-09-reflections-on-llvm-switch-to-github-pull-requests)
 * [2023-09-09, 16:46:01](https://lobste.rs/s/vkll70/introduction_cors_for_go_programmers) - [Introduction to CORS for Go programmers](https://eli.thegreenplace.net/2023/introduction-to-cors-for-go-programmers/)
+* [2023-09-09, 16:37:55](https://lobste.rs/s/uteqkq/video_demo_go_on_rails_framework) - [Video demo of “go on rails” framework](https://lobste.rs/s/uteqkq/video_demo_go_on_rails_framework)
 * [2023-09-09, 15:45:53](https://lobste.rs/s/xlkow8/countering_string_bloat) - [Countering string bloat](https://www.volkerkrause.eu/2023/09/09/qt-string-bloat.html)
 * [2023-09-09, 15:30:41](https://lobste.rs/s/okwucm/design_implementation_object_oriented) - [Design and Implementation of an Object-Oriented Functional Language](https://discovery.ucl.ac.uk/id/eprint/10107565/1/Design_and_implementation_of_a.pdf)
 * [2023-09-09, 15:18:38](https://lobste.rs/s/lndue2/just_for_fun_what_happens_when_you_shift) - [Just for fun: What happens when you shift a register by more than the register size?](https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704)
@@ -23,7 +24,6 @@
 * [2023-09-08, 20:53:50](https://lobste.rs/s/gtluba/what_if_someone_made_plan_9_could_run_linux) - [What if... someone made a Plan 9 that could run Linux apps?](https://liam-on-linux.dreamwidth.org/89039.html)
 * [2023-09-08, 18:38:35](https://lobste.rs/s/9k6efy/good_performance_is_not_just_big_o) - [Good performance is not just big O](https://jmmv.dev/2023/09/performance-is-not-big-o.html)
 * [2023-09-08, 18:21:28](https://lobste.rs/s/cryfiu/async_rust_is_bad_language) - [Async Rust Is A Bad Language](https://bitbashing.io/async-rust.html)
-* [2023-09-08, 16:43:30](https://lobste.rs/s/dkp1te/release_jq_1_7) - [Release jq 1.7](https://github.com/jqlang/jq/releases/tag/jq-1.7)
 * [2023-09-08, 14:33:49](https://lobste.rs/s/wywsvx/how_big_is_kilobyte) - [How big is a kilobyte?](https://evanhahn.com/how-big-is-a-kilobyte/)
 
 ## [Archives](archives/index.md)
