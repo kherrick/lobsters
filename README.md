@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-10, 22:38:38](https://lobste.rs/s/rhjptp/awk_book_s_60_line_version_make) - [The AWK book's 60-line version of Make](https://benhoyt.com/writings/awk-make/)
 * [2023-09-10, 22:04:34](https://lobste.rs/s/wupbhe/how_does_os_boot) - [How does an OS boot?](https://youtu.be/KkenLT8S9Hs)
 * [2023-09-10, 21:11:14](https://lobste.rs/s/bamzoo/scryer_playground_run_scryer_prolog_on) - [Scryer Playground: Run Scryer Prolog on the Browser](https://play.scryer.pl)
 * [2023-09-10, 20:40:12](https://lobste.rs/s/g2khpx/nats_major_incident_preliminary_report) - [NATS Major Incident Preliminary Report - UK air traffic control lost computer help for a day](https://publicapps.caa.co.uk/docs/33/NERL%20Major%20Incident%20Investigation%20Preliminary%20Report.pdf)
@@ -22,7 +23,6 @@
 * [2023-09-09, 13:15:05](https://lobste.rs/s/errpj4/much_ado_about_nil_things_more_go_pitfalls) - [Much Ado About Nil Things: More Go Pitfalls](https://www.dolthub.com/blog/2023-09-08-much-ado-about-nil-things/)
 * [2023-09-09, 13:14:58](https://lobste.rs/s/mffpva/my_mental_model_clojure_transducers) - [My mental model of Clojure transducers](https://blog.danieljanus.pl/2023/09/09/transducers/)
 * [2023-09-09, 07:29:57](https://lobste.rs/s/70ymtu/svg_viewer_browser_slideshow_which) - [An SVG viewer / browser / \"slideshow\" which itself is a self-contained SVG](https://github.com/stevana/svg-viewer-in-svg#svg-viewer-written-in-svg)
-* [2023-09-08, 20:53:50](https://lobste.rs/s/gtluba/what_if_someone_made_plan_9_could_run_linux) - [What if... someone made a Plan 9 that could run Linux apps?](https://liam-on-linux.dreamwidth.org/89039.html)
 * [2023-09-08, 18:38:35](https://lobste.rs/s/9k6efy/good_performance_is_not_just_big_o) - [Good performance is not just big O](https://jmmv.dev/2023/09/performance-is-not-big-o.html)
 * [2023-09-08, 18:21:28](https://lobste.rs/s/cryfiu/async_rust_is_bad_language) - [Async Rust Is A Bad Language](https://bitbashing.io/async-rust.html)
 
