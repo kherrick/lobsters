@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-10, 21:11:14",
+      "https://lobste.rs/s/bamzoo/scryer_playground_run_scryer_prolog_on"
+    ],
+    [
+      "Scryer Playground: Run Scryer Prolog on the Browser",
+      "https://play.scryer.pl"
+    ]
+  ],
+  [
+    [
       "2023-09-10, 20:40:12",
       "https://lobste.rs/s/g2khpx/nats_major_incident_preliminary_report"
     ],
@@ -167,16 +177,6 @@
     [
       "Countering string bloat",
       "https://www.volkerkrause.eu/2023/09/09/qt-string-bloat.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-09, 15:18:38",
-      "https://lobste.rs/s/lndue2/just_for_fun_what_happens_when_you_shift"
-    ],
-    [
-      "Just for fun: What happens when you shift a register by more than the register size?",
-      "https://devblogs.microsoft.com/oldnewthing/20230904-00/?p=108704"
     ]
   ],
   [
