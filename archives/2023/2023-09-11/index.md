@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-11](index.md)
 
+* [2023-09-11, 20:24:30](https://lobste.rs/s/9fmomo/what_other_companies_have_hiring_process) - [What other companies have a hiring process like fly.io?](https://lobste.rs/s/9fmomo/what_other_companies_have_hiring_process)
 * [2023-09-11, 18:30:50](https://lobste.rs/s/e54k9x/we_need_deterministic_installs_not_just) - [We need deterministic installs, not just immutable OS's](https://notes.volution.ro/v1/2023/09/remarks/423b80cc/)
 * [2023-09-11, 18:24:59](https://lobste.rs/s/lrdllc/veilid_peer_peer_framework) - [Veilid - peer-to-peer framework](https://veilid.com/)
 * [2023-09-11, 17:58:58](https://lobste.rs/s/fbooht/vimgifs) - [vimgifs](https://vimgifs.vercel.app/)
