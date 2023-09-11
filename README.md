@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-11, 09:50:21](https://lobste.rs/s/tmp0cv/visualizing_cpython_release_process) - [Visualizing the CPython Release Process](https://sethmlarson.dev/security-developer-in-residence-weekly-report-9?date=2023-09-05)
 * [2023-09-11, 08:56:45](https://lobste.rs/s/b7im92/month_ada) - [A month in Ada](https://craftofcoding.wordpress.com/2023/03/03/a-month-in-ada/)
 * [2023-09-11, 07:36:25](https://lobste.rs/s/yufykt/safely_executing_llm_generated_sql) - [Safely executing LLM-generated SQL](https://docs.heimdallm.ai/en/main/blog/posts/safe-sql-execution.html)
 * [2023-09-11, 07:26:04](https://lobste.rs/s/ssdbv0/hdmi_isa_graphics_card_for_vintage_pcs_by) - [HDMI ISA graphics card for vintage PCs by improving the Graphics Gremlin](https://yeokhengmeng.com/2023/09/hdmi-isa-graphics-card-for-vintage-pcs/)
@@ -24,7 +25,6 @@
 * [2023-09-09, 20:45:46](https://lobste.rs/s/kzm1wy/reflections_on_llvm_s_switch_github_pull) - [Reflections on LLVM's switch to GitHub pull requests](https://maskray.me/blog/2023-09-09-reflections-on-llvm-switch-to-github-pull-requests)
 * [2023-09-09, 13:15:05](https://lobste.rs/s/errpj4/much_ado_about_nil_things_more_go_pitfalls) - [Much Ado About Nil Things: More Go Pitfalls](https://www.dolthub.com/blog/2023-09-08-much-ado-about-nil-things/)
 * [2023-09-09, 13:14:58](https://lobste.rs/s/mffpva/my_mental_model_clojure_transducers) - [My mental model of Clojure transducers](https://blog.danieljanus.pl/2023/09/09/transducers/)
-* [2023-09-08, 18:21:28](https://lobste.rs/s/cryfiu/async_rust_is_bad_language) - [Async Rust Is A Bad Language](https://bitbashing.io/async-rust.html)
 
 ## [Archives](archives/index.md)
 
