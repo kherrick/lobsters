@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-11](index.md)
 
+* [2023-09-11, 15:54:26](https://lobste.rs/s/nengqj/monado_openxr_slam_datasets_now) - [Monado OpenXR SLAM datasets now available](https://www.collabora.com/news-and-blog/news-and-events/monado-slam-datasets-now-available.html)
 * [2023-09-11, 14:25:06](https://lobste.rs/s/2jd0t1/power_prolog) - [The power of prolog](https://www.metalevel.at/prolog/facets)
 * [2023-09-11, 14:12:20](https://lobste.rs/s/9kttjb/getting_started_with_ada_by_way_rust) - [Getting Started With Ada by Way of Rust | Conifer Productions](https://coniferproductions.com/ada/ohyes/getting-started-with-ada-by-way-of-rust/)
 * [2023-09-11, 14:09:31](https://lobste.rs/s/mxvsju/datalite_simple_datalog_built_around) - [Datalite: A Simple Datalog Built Around SQLite in Python](https://www.philipzucker.com/datalite/)

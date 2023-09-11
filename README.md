@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-11, 15:54:26](https://lobste.rs/s/nengqj/monado_openxr_slam_datasets_now) - [Monado OpenXR SLAM datasets now available](https://www.collabora.com/news-and-blog/news-and-events/monado-slam-datasets-now-available.html)
 * [2023-09-11, 14:25:06](https://lobste.rs/s/2jd0t1/power_prolog) - [The power of prolog](https://www.metalevel.at/prolog/facets)
-* [2023-09-11, 14:12:20](https://lobste.rs/s/9kttjb/getting_started_with_ada_by_way_rust) - [Getting Started With Ada by Way of Rust | Conifer Productions](https://coniferproductions.com/ada/ohyes/getting-started-with-ada-by-way-of-rust/)
+* [2023-09-11, 14:12:20](https://lobste.rs/s/9kttjb/getting_started_with_ada_by_way_rust) - [Getting Started With Ada by Way of Rust](https://coniferproductions.com/ada/ohyes/getting-started-with-ada-by-way-of-rust/)
 * [2023-09-11, 14:09:31](https://lobste.rs/s/mxvsju/datalite_simple_datalog_built_around) - [Datalite: A Simple Datalog Built Around SQLite in Python](https://www.philipzucker.com/datalite/)
 * [2023-09-11, 12:00:19](https://lobste.rs/s/4iwbak/systematic_approach_debugging) - [A systematic approach to debugging](https://ntietz.com/blog/how-i-debug-2023/)
 * [2023-09-11, 10:28:54](https://lobste.rs/s/c5we7j/zfs_for_dummies) - [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
@@ -13,7 +14,6 @@
 * [2023-09-11, 06:26:32](https://lobste.rs/s/ew3tjd/complete_course_raku_programming) - [A Complete Course of the Raku programming language](https://course.raku.org/)
 * [2023-09-11, 02:47:51](https://lobste.rs/s/kry2qn/pure_wasm_life_2_optimizing_webassembly) - [Pure Wasm Life 2: Optimizing Webassembly and Canvas](https://ashen.earth/wasm-game-of-life-2)
 * [2023-09-10, 22:38:38](https://lobste.rs/s/rhjptp/awk_book_s_60_line_version_make) - [The AWK book's 60-line version of Make](https://benhoyt.com/writings/awk-make/)
-* [2023-09-10, 22:04:34](https://lobste.rs/s/wupbhe/how_does_os_boot) - [How does an OS boot?](https://youtu.be/KkenLT8S9Hs)
 * [2023-09-10, 21:11:14](https://lobste.rs/s/bamzoo/scryer_playground_run_scryer_prolog_on) - [Scryer Playground: Run Scryer Prolog on the Browser](https://play.scryer.pl)
 * [2023-09-10, 20:40:12](https://lobste.rs/s/g2khpx/nats_major_incident_preliminary_report) - [NATS Major Incident Preliminary Report - UK air traffic control lost computer help for a day](https://publicapps.caa.co.uk/docs/33/NERL%20Major%20Incident%20Investigation%20Preliminary%20Report.pdf)
 * [2023-09-10, 20:13:27](https://lobste.rs/s/obkubk/p2k23_hackathon_report_jeremy_evans) - [p2k23 Hackathon Report: Jeremy Evans (jeremy@) on Ruby ports cleanup, database progress, and more](https://undeadly.org/cgi?action=article;sid=20230910194038)
