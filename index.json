@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-09-11, 18:24:59",
+      "https://lobste.rs/s/lrdllc/veilid_peer_peer_framework"
+    ],
+    [
+      "Veilid - peer-to-peer framework",
+      "https://veilid.com/"
+    ]
+  ],
+  [
+    [
       "2023-09-11, 17:58:58",
       "https://lobste.rs/s/fbooht/vimgifs"
     ],
@@ -237,16 +247,6 @@
     [
       "Google gets its way, bakes a user-tracking ad platform directly into Chrome",
       "https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/"
-    ]
-  ],
-  [
-    [
-      "2023-09-09, 20:45:46",
-      "https://lobste.rs/s/kzm1wy/reflections_on_llvm_s_switch_github_pull"
-    ],
-    [
-      "Reflections on LLVM's switch to GitHub pull requests",
-      "https://maskray.me/blog/2023-09-09-reflections-on-llvm-switch-to-github-pull-requests"
     ]
   ]
 ]
