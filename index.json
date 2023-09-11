@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-11, 10:28:54",
+      "https://lobste.rs/s/c5we7j/zfs_for_dummies"
+    ],
+    [
+      "ZFS for Dummies",
+      "https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/"
+    ]
+  ],
+  [
+    [
       "2023-09-11, 10:03:40",
       "https://lobste.rs/s/vas4kv/what_are_you_doing_this_week"
     ],
@@ -237,16 +247,6 @@
     [
       "Reflections on LLVM's switch to GitHub pull requests",
       "https://maskray.me/blog/2023-09-09-reflections-on-llvm-switch-to-github-pull-requests"
-    ]
-  ],
-  [
-    [
-      "2023-09-09, 13:14:58",
-      "https://lobste.rs/s/mffpva/my_mental_model_clojure_transducers"
-    ],
-    [
-      "My mental model of Clojure transducers",
-      "https://blog.danieljanus.pl/2023/09/09/transducers/"
     ]
   ]
 ]
