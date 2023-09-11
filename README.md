@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-11, 17:58:58](https://lobste.rs/s/fbooht/vimgifs) - [vimgifs](https://vimgifs.vercel.app/)
 * [2023-09-11, 17:38:38](https://lobste.rs/s/kahzch/protohackers_learnings) - [Protohackers learnings](https://geekingfrog.com/blog/post/protohackers-learnings)
 * [2023-09-11, 17:37:39](https://lobste.rs/s/yra5az/our_journey_at_f5_with_apache_arrow) - [Our journey at F5 with Apache Arrow](https://arrow.apache.org/blog/2023/04/11/our-journey-at-f5-with-apache-arrow-part-1/)
 * [2023-09-11, 15:54:26](https://lobste.rs/s/nengqj/monado_openxr_slam_datasets_now) - [Monado OpenXR SLAM datasets now available](https://www.collabora.com/news-and-blog/news-and-events/monado-slam-datasets-now-available.html)
@@ -18,7 +19,6 @@
 * [2023-09-10, 22:38:38](https://lobste.rs/s/rhjptp/awk_book_s_60_line_version_make) - [The AWK book's 60-line version of Make](https://benhoyt.com/writings/awk-make/)
 * [2023-09-10, 21:11:14](https://lobste.rs/s/bamzoo/scryer_playground_run_scryer_prolog_on) - [Scryer Playground: Run Scryer Prolog on the Browser](https://play.scryer.pl)
 * [2023-09-10, 20:40:12](https://lobste.rs/s/g2khpx/nats_major_incident_preliminary_report) - [NATS Major Incident Preliminary Report - UK air traffic control lost computer help for a day](https://publicapps.caa.co.uk/docs/33/NERL%20Major%20Incident%20Investigation%20Preliminary%20Report.pdf)
-* [2023-09-10, 20:13:27](https://lobste.rs/s/obkubk/p2k23_hackathon_report_jeremy_evans) - [p2k23 Hackathon Report: Jeremy Evans (jeremy@) on Ruby ports cleanup, database progress, and more](https://undeadly.org/cgi?action=article;sid=20230910194038)
 * [2023-09-10, 18:41:13](https://lobste.rs/s/xkor14/making_visually_stable_uis_2020) - [Making visually stable UIs (2020)](https://blog.horizon-eda.org/misc/2020/02/19/ui.html)
 * [2023-09-10, 17:46:07](https://lobste.rs/s/7h9owg/nixcon_2023_talks) - [NixCon 2023 Talks](https://media.ccc.de/b/conferences/nixcon/nixcon2023)
 * [2023-09-10, 15:28:59](https://lobste.rs/s/l3ujrr/having_fun_with_keyboard_mappings_under) - [Having fun with keyboard mappings under Linux](https://pulsar17.me/2023/09/keymapping)
