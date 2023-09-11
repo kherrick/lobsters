@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-11](index.md)
 
+* [2023-09-11, 10:28:54](https://lobste.rs/s/c5we7j/zfs_for_dummies) - [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
 * [2023-09-11, 10:03:40](https://lobste.rs/s/vas4kv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/vas4kv/what_are_you_doing_this_week)
 * [2023-09-11, 09:50:21](https://lobste.rs/s/tmp0cv/visualizing_cpython_release_process) - [Visualizing the CPython Release Process](https://sethmlarson.dev/security-developer-in-residence-weekly-report-9?date=2023-09-05)
 * [2023-09-11, 08:56:45](https://lobste.rs/s/b7im92/month_ada) - [A month in Ada](https://craftofcoding.wordpress.com/2023/03/03/a-month-in-ada/)
