@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-11, 18:24:59](https://lobste.rs/s/lrdllc/veilid_peer_peer_framework) - [Veilid - peer-to-peer framework](https://veilid.com/)
 * [2023-09-11, 17:58:58](https://lobste.rs/s/fbooht/vimgifs) - [vimgifs](https://vimgifs.vercel.app/)
 * [2023-09-11, 17:38:38](https://lobste.rs/s/kahzch/protohackers_learnings) - [Protohackers learnings](https://geekingfrog.com/blog/post/protohackers-learnings)
 * [2023-09-11, 17:37:39](https://lobste.rs/s/yra5az/our_journey_at_f5_with_apache_arrow) - [Our journey at F5 with Apache Arrow](https://arrow.apache.org/blog/2023/04/11/our-journey-at-f5-with-apache-arrow-part-1/)
@@ -15,7 +16,6 @@
 * [2023-09-11, 07:36:25](https://lobste.rs/s/yufykt/safely_executing_llm_generated_sql) - [Safely executing LLM-generated SQL](https://docs.heimdallm.ai/en/main/blog/posts/safe-sql-execution.html)
 * [2023-09-11, 07:26:04](https://lobste.rs/s/ssdbv0/hdmi_isa_graphics_card_for_vintage_pcs_by) - [HDMI ISA graphics card for vintage PCs by improving the Graphics Gremlin](https://yeokhengmeng.com/2023/09/hdmi-isa-graphics-card-for-vintage-pcs/)
 * [2023-09-11, 06:26:32](https://lobste.rs/s/ew3tjd/complete_course_raku_programming) - [A Complete Course of the Raku programming language](https://course.raku.org/)
-* [2023-09-11, 02:47:51](https://lobste.rs/s/kry2qn/pure_wasm_life_2_optimizing_webassembly) - [Pure Wasm Life 2: Optimizing Webassembly and Canvas](https://ashen.earth/wasm-game-of-life-2)
 * [2023-09-10, 22:38:38](https://lobste.rs/s/rhjptp/awk_book_s_60_line_version_make) - [The AWK book's 60-line version of Make](https://benhoyt.com/writings/awk-make/)
 * [2023-09-10, 21:11:14](https://lobste.rs/s/bamzoo/scryer_playground_run_scryer_prolog_on) - [Scryer Playground: Run Scryer Prolog on the Browser](https://play.scryer.pl)
 * [2023-09-10, 20:40:12](https://lobste.rs/s/g2khpx/nats_major_incident_preliminary_report) - [NATS Major Incident Preliminary Report - UK air traffic control lost computer help for a day](https://publicapps.caa.co.uk/docs/33/NERL%20Major%20Incident%20Investigation%20Preliminary%20Report.pdf)
