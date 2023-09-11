@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-11, 17:38:38](https://lobste.rs/s/kahzch/protohackers_learnings) - [Protohackers learnings](https://geekingfrog.com/blog/post/protohackers-learnings)
+* [2023-09-11, 17:37:39](https://lobste.rs/s/yra5az/our_journey_at_f5_with_apache_arrow) - [Our journey at F5 with Apache Arrow](https://arrow.apache.org/blog/2023/04/11/our-journey-at-f5-with-apache-arrow-part-1/)
 * [2023-09-11, 15:54:26](https://lobste.rs/s/nengqj/monado_openxr_slam_datasets_now) - [Monado OpenXR SLAM datasets now available](https://www.collabora.com/news-and-blog/news-and-events/monado-slam-datasets-now-available.html)
 * [2023-09-11, 14:25:06](https://lobste.rs/s/2jd0t1/power_prolog) - [The power of prolog](https://www.metalevel.at/prolog/facets)
 * [2023-09-11, 14:12:20](https://lobste.rs/s/9kttjb/getting_started_with_ada_by_way_rust) - [Getting Started With Ada by Way of Rust](https://coniferproductions.com/ada/ohyes/getting-started-with-ada-by-way-of-rust/)
@@ -21,9 +23,7 @@
 * [2023-09-10, 17:46:07](https://lobste.rs/s/7h9owg/nixcon_2023_talks) - [NixCon 2023 Talks](https://media.ccc.de/b/conferences/nixcon/nixcon2023)
 * [2023-09-10, 15:28:59](https://lobste.rs/s/l3ujrr/having_fun_with_keyboard_mappings_under) - [Having fun with keyboard mappings under Linux](https://pulsar17.me/2023/09/keymapping)
 * [2023-09-10, 14:54:58](https://lobste.rs/s/tuwqjd/factorio_mutation_lossiness) - [Factorio, Mutation, & Lossiness](https://www.rfleury.com/p/factorio-mutation-and-lossiness)
-* [2023-09-10, 14:16:21](https://lobste.rs/s/9zegfk/picolisp_explored_discrete_event) - [PicoLisp Explored: Discrete Event Simulation](https://picolisp-explored.com/picolisp-explored-discrete-event-simulation)
 * [2023-09-10, 12:30:23](https://lobste.rs/s/syvng1/google_gets_its_way_bakes_user_tracking_ad) - [Google gets its way, bakes a user-tracking ad platform directly into Chrome](https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/)
-* [2023-09-10, 09:21:46](https://lobste.rs/s/sns4mr/comfy_with_python_basic_tooling_now_what) - [Comfy with Python basic tooling, now what?](https://www.bitecode.dev/p/you-are-comfy-with-python-basics)
 * [2023-09-09, 20:45:46](https://lobste.rs/s/kzm1wy/reflections_on_llvm_s_switch_github_pull) - [Reflections on LLVM's switch to GitHub pull requests](https://maskray.me/blog/2023-09-09-reflections-on-llvm-switch-to-github-pull-requests)
 
 ## [Archives](archives/index.md)

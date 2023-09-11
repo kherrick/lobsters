@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-11](index.md)
 
+* [2023-09-11, 17:38:38](https://lobste.rs/s/kahzch/protohackers_learnings) - [Protohackers learnings](https://geekingfrog.com/blog/post/protohackers-learnings)
+* [2023-09-11, 17:37:39](https://lobste.rs/s/yra5az/our_journey_at_f5_with_apache_arrow) - [Our journey at F5 with Apache Arrow](https://arrow.apache.org/blog/2023/04/11/our-journey-at-f5-with-apache-arrow-part-1/)
 * [2023-09-11, 15:54:26](https://lobste.rs/s/nengqj/monado_openxr_slam_datasets_now) - [Monado OpenXR SLAM datasets now available](https://www.collabora.com/news-and-blog/news-and-events/monado-slam-datasets-now-available.html)
 * [2023-09-11, 14:25:06](https://lobste.rs/s/2jd0t1/power_prolog) - [The power of prolog](https://www.metalevel.at/prolog/facets)
 * [2023-09-11, 14:12:20](https://lobste.rs/s/9kttjb/getting_started_with_ada_by_way_rust) - [Getting Started With Ada by Way of Rust | Conifer Productions](https://coniferproductions.com/ada/ohyes/getting-started-with-ada-by-way-of-rust/)
