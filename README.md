@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-11, 12:30:31](https://lobste.rs/s/rjvcjh/is_show_story_previews_broken) - [Is \"Show Story Previews\" broken?](https://lobste.rs/s/rjvcjh/is_show_story_previews_broken)
 * [2023-09-11, 12:00:19](https://lobste.rs/s/4iwbak/systematic_approach_debugging) - [A systematic approach to debugging](https://ntietz.com/blog/how-i-debug-2023/)
 * [2023-09-11, 10:28:54](https://lobste.rs/s/c5we7j/zfs_for_dummies) - [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
 * [2023-09-11, 10:03:40](https://lobste.rs/s/vas4kv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/vas4kv/what_are_you_doing_this_week)
@@ -23,7 +24,6 @@
 * [2023-09-10, 12:30:23](https://lobste.rs/s/syvng1/google_gets_its_way_bakes_user_tracking_ad) - [Google gets its way, bakes a user-tracking ad platform directly into Chrome](https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/)
 * [2023-09-10, 09:21:46](https://lobste.rs/s/sns4mr/comfy_with_python_basic_tooling_now_what) - [Comfy with Python basic tooling, now what?](https://www.bitecode.dev/p/you-are-comfy-with-python-basics)
 * [2023-09-10, 05:42:08](https://lobste.rs/s/2eji2q/meet_guy_preserving_new_history_pc_games) - [Meet the Guy Preserving the New History of PC Games, One Linux Port at a Time](https://www.404media.co/meet-the-guy-preserving-the-new-history-of-pc-games-one-linux-port-at-a-time/)
-* [2023-09-10, 00:59:04](https://lobste.rs/s/ohqpvc/i_wrote_string_type) - [I Wrote A String Type](https://mcyoung.xyz/2023/08/09/yarns/)
 * [2023-09-09, 20:45:46](https://lobste.rs/s/kzm1wy/reflections_on_llvm_s_switch_github_pull) - [Reflections on LLVM's switch to GitHub pull requests](https://maskray.me/blog/2023-09-09-reflections-on-llvm-switch-to-github-pull-requests)
 
 ## [Archives](archives/index.md)
