@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-11, 18:24:59",
+      "https://lobste.rs/s/lrdllc/veilid_peer_peer_framework"
+    ],
+    [
+      "Veilid - peer-to-peer framework",
+      "https://veilid.com/"
+    ]
+  ],
+  [
+    [
       "2023-09-11, 17:58:58",
       "https://lobste.rs/s/fbooht/vimgifs"
     ],
@@ -147,16 +157,6 @@
     [
       "A Complete Course of the Raku programming language",
       "https://course.raku.org/"
-    ]
-  ],
-  [
-    [
-      "2023-09-11, 02:47:51",
-      "https://lobste.rs/s/kry2qn/pure_wasm_life_2_optimizing_webassembly"
-    ],
-    [
-      "Pure Wasm Life 2: Optimizing Webassembly and Canvas",
-      "https://ashen.earth/wasm-game-of-life-2"
     ]
   ],
   [
