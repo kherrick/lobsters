@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-11](index.md)
 
+* [2023-09-11, 08:56:45](https://lobste.rs/s/b7im92/month_ada) - [A month in Ada](https://craftofcoding.wordpress.com/2023/03/03/a-month-in-ada/)
 * [2023-09-11, 07:36:25](https://lobste.rs/s/yufykt/safely_executing_llm_generated_sql) - [Safely executing LLM-generated SQL](https://docs.heimdallm.ai/en/main/blog/posts/safe-sql-execution.html)
 * [2023-09-11, 07:26:04](https://lobste.rs/s/ssdbv0/hdmi_isa_graphics_card_for_vintage_pcs_by) - [HDMI ISA graphics card for vintage PCs by improving the Graphics Gremlin](https://yeokhengmeng.com/2023/09/hdmi-isa-graphics-card-for-vintage-pcs/)
 * [2023-09-11, 06:26:32](https://lobste.rs/s/ew3tjd/complete_course_raku_programming) - [A Complete Course of the Raku programming language](https://course.raku.org/)
