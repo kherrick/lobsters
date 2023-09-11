@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-11](index.md)
 
+* [2023-09-11, 14:25:06](https://lobste.rs/s/2jd0t1/power_prolog) - [The power of prolog](https://www.metalevel.at/prolog/facets)
 * [2023-09-11, 14:12:20](https://lobste.rs/s/9kttjb/getting_started_with_ada_by_way_rust) - [Getting Started With Ada by Way of Rust | Conifer Productions](https://coniferproductions.com/ada/ohyes/getting-started-with-ada-by-way-of-rust/)
 * [2023-09-11, 14:09:31](https://lobste.rs/s/mxvsju/datalite_simple_datalog_built_around) - [Datalite: A Simple Datalog Built Around SQLite in Python](https://www.philipzucker.com/datalite/)
 * [2023-09-11, 12:30:31](https://lobste.rs/s/rjvcjh/is_show_story_previews_broken) - [Is \"Show Story Previews\" broken?](https://lobste.rs/s/rjvcjh/is_show_story_previews_broken)
