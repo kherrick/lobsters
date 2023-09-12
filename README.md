@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-12, 17:03:55](https://lobste.rs/s/6mvg65/riffle_reactive_relational_state) - [Riffle - Reactive Relational State](https://youtu.be/zjl7CpG9h3w?si=93Ih3xlL7fGurs2Y)
 * [2023-09-12, 16:04:58](https://lobste.rs/s/bpb6p1/code_without_fear_sometimes) - [Code without fear. Sometimes?](https://reasoning.page/2023/09/12/code-without-fear-sometimes/)
 * [2023-09-12, 14:11:44](https://lobste.rs/s/viyrsx/spawn_atarilab_universal_laboratory) - [The spawn of AtariLab and the Universal Laboratory Interface](http://oldvcr.blogspot.com/2023/09/the-spawn-of-atarilab-and-universal.html)
 * [2023-09-12, 14:11:26](https://lobste.rs/s/1enwcg/conditional_foreign_keys_polymorphism) - [Conditional foreign keys and polymorphism in SQL: 4 Methods](https://www.cybertec-postgresql.com/en/conditional-foreign-keys-polymorphism-in-sql/)
@@ -24,7 +25,6 @@
 * [2023-09-11, 12:00:19](https://lobste.rs/s/4iwbak/systematic_approach_debugging) - [A systematic approach to debugging](https://ntietz.com/blog/how-i-debug-2023/)
 * [2023-09-11, 10:28:54](https://lobste.rs/s/c5we7j/zfs_for_dummies) - [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
 * [2023-09-11, 07:26:04](https://lobste.rs/s/ssdbv0/hdmi_isa_graphics_card_for_vintage_pcs_by) - [HDMI ISA graphics card for vintage PCs by improving the Graphics Gremlin](https://yeokhengmeng.com/2023/09/hdmi-isa-graphics-card-for-vintage-pcs/)
-* [2023-09-10, 12:30:23](https://lobste.rs/s/syvng1/google_gets_its_way_bakes_user_tracking_ad) - [Google gets its way, bakes a user-tracking ad platform directly into Chrome](https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/)
 
 ## [Archives](archives/index.md)
 
