@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-12, 02:49:02](https://lobste.rs/s/ncexcb/fixity_intention_rethinking_lifetime) - [Fixity and Intention - Rethinking the Lifetime of Tests](https://open.substack.com/pub/michaelfeathers/p/fixity-and-intention)
 * [2023-09-12, 00:50:50](https://lobste.rs/s/oroflm/uk_air_traffic_control_meltdown) - [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)
 * [2023-09-11, 18:30:50](https://lobste.rs/s/e54k9x/we_need_deterministic_installs_not_just) - [We need deterministic installs, not just immutable OS's](https://notes.volution.ro/v1/2023/09/remarks/423b80cc/)
 * [2023-09-11, 18:24:59](https://lobste.rs/s/lrdllc/veilid_peer_peer_framework) - [Veilid - peer-to-peer framework](https://veilid.com/)
@@ -13,7 +14,6 @@
 * [2023-09-11, 12:00:19](https://lobste.rs/s/4iwbak/systematic_approach_debugging) - [A systematic approach to debugging](https://ntietz.com/blog/how-i-debug-2023/)
 * [2023-09-11, 10:28:54](https://lobste.rs/s/c5we7j/zfs_for_dummies) - [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
 * [2023-09-11, 10:03:40](https://lobste.rs/s/vas4kv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/vas4kv/what_are_you_doing_this_week)
-* [2023-09-11, 09:50:21](https://lobste.rs/s/tmp0cv/visualizing_cpython_release_process) - [Visualizing the CPython Release Process](https://sethmlarson.dev/security-developer-in-residence-weekly-report-9?date=2023-09-05)
 * [2023-09-11, 08:56:45](https://lobste.rs/s/b7im92/month_ada) - [A month in Ada](https://craftofcoding.wordpress.com/2023/03/03/a-month-in-ada/)
 * [2023-09-11, 07:36:25](https://lobste.rs/s/yufykt/safely_executing_llm_generated_sql) - [Safely executing LLM-generated SQL](https://docs.heimdallm.ai/en/main/blog/posts/safe-sql-execution.html)
 * [2023-09-11, 07:26:04](https://lobste.rs/s/ssdbv0/hdmi_isa_graphics_card_for_vintage_pcs_by) - [HDMI ISA graphics card for vintage PCs by improving the Graphics Gremlin](https://yeokhengmeng.com/2023/09/hdmi-isa-graphics-card-for-vintage-pcs/)
