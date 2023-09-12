@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
+* [2023-09-12, 16:04:58](https://lobste.rs/s/bpb6p1/code_without_fear_sometimes) - [Code without fear. Sometimes?](https://reasoning.page/2023/09/12/code-without-fear-sometimes/)
 * [2023-09-12, 15:30:43](https://lobste.rs/s/dneglb/possible_by_default) - [Possible by default](https://linus.coffee/note/possible/)
 * [2023-09-12, 14:11:44](https://lobste.rs/s/viyrsx/spawn_atarilab_universal_laboratory) - [The spawn of AtariLab and the Universal Laboratory Interface](http://oldvcr.blogspot.com/2023/09/the-spawn-of-atarilab-and-universal.html)
 * [2023-09-12, 14:11:26](https://lobste.rs/s/1enwcg/conditional_foreign_keys_polymorphism) - [Conditional foreign keys and polymorphism in SQL: 4 Methods](https://www.cybertec-postgresql.com/en/conditional-foreign-keys-polymorphism-in-sql/)
