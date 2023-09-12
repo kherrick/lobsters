@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
+* [2023-09-12, 06:20:23](https://lobste.rs/s/qj7rwq/onboarding_floating_point) - [Onboarding floating-point](https://www.altdevarts.com/p/onboarding-floating-point)
 * [2023-09-12, 05:31:00](https://lobste.rs/s/oncz0o/roots_obscure_bourne_shell_error_message) - [The roots of an obscure Bourne shell error message](https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellObscureErrorRoots)
 * [2023-09-12, 05:06:24](https://lobste.rs/s/h9k2ee/rectangle_covers_revisited) - [Rectangle Covers Revisited Computationally](https://www.or.rwth-aachen.de/files/research/publications/rcover-jea.pdf)
 * [2023-09-12, 05:04:20](https://lobste.rs/s/yluknc/going_back_edasm_1980_apple_ii_editor) - [Going Back to EDASM, the 1980 Apple II Editor/Assembler](https://retrocomputingforum.com/t/going-back-to-edasm-the-1980-apple-ii-editor-assembler/1041)
