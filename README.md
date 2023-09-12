@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-12, 09:27:01](https://lobste.rs/s/s2dtut/phases_software_architecture) - [Phases in Software Architecture (Architectural Pearl)](https://www.cs.ox.ac.uk/jeremy.gibbons/publications/phases.pdf)
 * [2023-09-12, 07:04:56](https://lobste.rs/s/513qkc/antimirov_algebraic_manipulation) - [antimirov: algebraic manipulation of regular expressions](https://github.com/non/antimirov)
 * [2023-09-12, 06:42:58](https://lobste.rs/s/vg5asq/how_many_ways_can_you_slice_url_name_pieces) - [How many ways can you slice a URL and name the pieces?](https://tantek.com/2011/238/b1/many-ways-slice-url-name-pieces)
 * [2023-09-12, 06:20:23](https://lobste.rs/s/qj7rwq/onboarding_floating_point) - [Onboarding floating-point](https://www.altdevarts.com/p/onboarding-floating-point)
@@ -21,7 +22,6 @@
 * [2023-09-11, 10:28:54](https://lobste.rs/s/c5we7j/zfs_for_dummies) - [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
 * [2023-09-11, 10:03:40](https://lobste.rs/s/vas4kv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/vas4kv/what_are_you_doing_this_week)
 * [2023-09-11, 08:56:45](https://lobste.rs/s/b7im92/month_ada) - [A month in Ada](https://craftofcoding.wordpress.com/2023/03/03/a-month-in-ada/)
-* [2023-09-11, 07:36:25](https://lobste.rs/s/yufykt/safely_executing_llm_generated_sql) - [Safely executing LLM-generated SQL](https://docs.heimdallm.ai/en/main/blog/posts/safe-sql-execution.html)
 * [2023-09-11, 07:26:04](https://lobste.rs/s/ssdbv0/hdmi_isa_graphics_card_for_vintage_pcs_by) - [HDMI ISA graphics card for vintage PCs by improving the Graphics Gremlin](https://yeokhengmeng.com/2023/09/hdmi-isa-graphics-card-for-vintage-pcs/)
 * [2023-09-11, 06:26:32](https://lobste.rs/s/ew3tjd/complete_course_raku_programming) - [A Complete Course of the Raku programming language](https://course.raku.org/)
 * [2023-09-10, 12:30:23](https://lobste.rs/s/syvng1/google_gets_its_way_bakes_user_tracking_ad) - [Google gets its way, bakes a user-tracking ad platform directly into Chrome](https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/)
