@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-12, 15:30:43](https://lobste.rs/s/dneglb/possible_by_default) - [Possible by default](https://linus.coffee/note/possible/)
 * [2023-09-12, 14:11:44](https://lobste.rs/s/viyrsx/spawn_atarilab_universal_laboratory) - [The spawn of AtariLab and the Universal Laboratory Interface](http://oldvcr.blogspot.com/2023/09/the-spawn-of-atarilab-and-universal.html)
 * [2023-09-12, 14:11:26](https://lobste.rs/s/1enwcg/conditional_foreign_keys_polymorphism) - [Conditional foreign keys and polymorphism in SQL: 4 Methods](https://www.cybertec-postgresql.com/en/conditional-foreign-keys-polymorphism-in-sql/)
 * [2023-09-12, 14:00:45](https://lobste.rs/s/klhjnb/what_is_llama_2_meta_s_large_language_model) - [What is Llama 2? Meta’s large language model explained](https://www.infoworld.com/article/3706470/what-is-llama-2-metas-large-language-model-explained.html)
@@ -20,7 +21,6 @@
 * [2023-09-11, 18:24:59](https://lobste.rs/s/lrdllc/veilid_peer_peer_framework) - [Veilid - peer-to-peer framework](https://veilid.com/)
 * [2023-09-11, 17:38:38](https://lobste.rs/s/kahzch/protohackers_learnings) - [Protohackers learnings](https://geekingfrog.com/blog/post/protohackers-learnings)
 * [2023-09-11, 14:25:06](https://lobste.rs/s/2jd0t1/power_prolog) - [The power of prolog](https://www.metalevel.at/prolog/facets)
-* [2023-09-11, 14:09:31](https://lobste.rs/s/mxvsju/datalite_simple_datalog_built_around) - [Datalite: A Simple Datalog Built Around SQLite in Python](https://www.philipzucker.com/datalite/)
 * [2023-09-11, 12:00:19](https://lobste.rs/s/4iwbak/systematic_approach_debugging) - [A systematic approach to debugging](https://ntietz.com/blog/how-i-debug-2023/)
 * [2023-09-11, 10:28:54](https://lobste.rs/s/c5we7j/zfs_for_dummies) - [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
 * [2023-09-11, 07:26:04](https://lobste.rs/s/ssdbv0/hdmi_isa_graphics_card_for_vintage_pcs_by) - [HDMI ISA graphics card for vintage PCs by improving the Graphics Gremlin](https://yeokhengmeng.com/2023/09/hdmi-isa-graphics-card-for-vintage-pcs/)
