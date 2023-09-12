@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
+* [2023-09-12, 09:51:16](https://lobste.rs/s/b5tqmm/hidden_features_firefox_2020) - [Hidden features in Firefox (2020)](https://exple.tive.org/blarg/2020/10/25/navigational-instruments/)
 * [2023-09-12, 09:27:01](https://lobste.rs/s/s2dtut/phases_software_architecture) - [Phases in Software Architecture (Architectural Pearl)](https://www.cs.ox.ac.uk/jeremy.gibbons/publications/phases.pdf)
 * [2023-09-12, 07:04:56](https://lobste.rs/s/513qkc/antimirov_algebraic_manipulation) - [antimirov: algebraic manipulation of regular expressions](https://github.com/non/antimirov)
 * [2023-09-12, 06:42:58](https://lobste.rs/s/vg5asq/how_many_ways_can_you_slice_url_name_pieces) - [How many ways can you slice a URL and name the pieces?](https://tantek.com/2011/238/b1/many-ways-slice-url-name-pieces)

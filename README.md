@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-12, 09:51:16](https://lobste.rs/s/b5tqmm/hidden_features_firefox_2020) - [Hidden features in Firefox (2020)](https://exple.tive.org/blarg/2020/10/25/navigational-instruments/)
 * [2023-09-12, 09:27:01](https://lobste.rs/s/s2dtut/phases_software_architecture) - [Phases in Software Architecture (Architectural Pearl)](https://www.cs.ox.ac.uk/jeremy.gibbons/publications/phases.pdf)
 * [2023-09-12, 07:04:56](https://lobste.rs/s/513qkc/antimirov_algebraic_manipulation) - [antimirov: algebraic manipulation of regular expressions](https://github.com/non/antimirov)
 * [2023-09-12, 06:42:58](https://lobste.rs/s/vg5asq/how_many_ways_can_you_slice_url_name_pieces) - [How many ways can you slice a URL and name the pieces?](https://tantek.com/2011/238/b1/many-ways-slice-url-name-pieces)
@@ -12,7 +13,6 @@
 * [2023-09-12, 00:50:50](https://lobste.rs/s/oroflm/uk_air_traffic_control_meltdown) - [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)
 * [2023-09-11, 18:30:50](https://lobste.rs/s/e54k9x/we_need_deterministic_installs_not_just) - [We need deterministic installs, not just immutable OS's](https://notes.volution.ro/v1/2023/09/remarks/423b80cc/)
 * [2023-09-11, 18:24:59](https://lobste.rs/s/lrdllc/veilid_peer_peer_framework) - [Veilid - peer-to-peer framework](https://veilid.com/)
-* [2023-09-11, 17:58:58](https://lobste.rs/s/fbooht/vimgifs) - [vimgifs](https://vimgifs.vercel.app/)
 * [2023-09-11, 17:38:38](https://lobste.rs/s/kahzch/protohackers_learnings) - [Protohackers learnings](https://geekingfrog.com/blog/post/protohackers-learnings)
 * [2023-09-11, 17:37:39](https://lobste.rs/s/yra5az/our_journey_at_f5_with_apache_arrow) - [Our journey at F5 with Apache Arrow](https://arrow.apache.org/blog/2023/04/11/our-journey-at-f5-with-apache-arrow-part-1/)
 * [2023-09-11, 14:25:06](https://lobste.rs/s/2jd0t1/power_prolog) - [The power of prolog](https://www.metalevel.at/prolog/facets)
