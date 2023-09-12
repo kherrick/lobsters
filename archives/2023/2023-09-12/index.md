@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
+* [2023-09-12, 18:07:02](https://lobste.rs/s/neiofo/microsoft_will_stop_accepting_new_third) - [Microsoft will stop accepting new third-party print drivers in Windows](https://arstechnica.com/gadgets/2023/09/microsoft-will-stop-accepting-new-third-party-print-drivers-in-windows/)
+* [2023-09-12, 18:06:36](https://lobste.rs/s/rjczwm/bcachefs_merged_into_linux_next) - [Bcachefs Merged Into Linux-Next](https://www.phoronix.com/news/Bcachefs-In-Linux-Next)
 * [2023-09-12, 17:03:55](https://lobste.rs/s/6mvg65/riffle_reactive_relational_state) - [Riffle - Reactive Relational State](https://youtu.be/zjl7CpG9h3w?si=93Ih3xlL7fGurs2Y)
 * [2023-09-12, 16:04:58](https://lobste.rs/s/bpb6p1/code_without_fear_sometimes) - [Code without fear. Sometimes?](https://reasoning.page/2023/09/12/code-without-fear-sometimes/)
 * [2023-09-12, 15:30:43](https://lobste.rs/s/dneglb/possible_by_default) - [Possible by default](https://linus.coffee/note/possible/)

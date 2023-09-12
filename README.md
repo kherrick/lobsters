@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-12, 18:07:02](https://lobste.rs/s/neiofo/microsoft_will_stop_accepting_new_third) - [Microsoft will stop accepting new third-party print drivers in Windows](https://arstechnica.com/gadgets/2023/09/microsoft-will-stop-accepting-new-third-party-print-drivers-in-windows/)
+* [2023-09-12, 18:06:36](https://lobste.rs/s/rjczwm/bcachefs_merged_into_linux_next) - [Bcachefs Merged Into Linux-Next](https://www.phoronix.com/news/Bcachefs-In-Linux-Next)
 * [2023-09-12, 17:03:55](https://lobste.rs/s/6mvg65/riffle_reactive_relational_state) - [Riffle - Reactive Relational State](https://youtu.be/zjl7CpG9h3w?si=93Ih3xlL7fGurs2Y)
 * [2023-09-12, 16:04:58](https://lobste.rs/s/bpb6p1/code_without_fear_sometimes) - [Code without fear. Sometimes?](https://reasoning.page/2023/09/12/code-without-fear-sometimes/)
 * [2023-09-12, 14:11:44](https://lobste.rs/s/viyrsx/spawn_atarilab_universal_laboratory) - [The spawn of AtariLab and the Universal Laboratory Interface](http://oldvcr.blogspot.com/2023/09/the-spawn-of-atarilab-and-universal.html)
@@ -7,7 +9,6 @@
 * [2023-09-12, 14:00:45](https://lobste.rs/s/klhjnb/what_is_llama_2_meta_s_large_language_model) - [What is Llama 2? Meta’s large language model explained](https://www.infoworld.com/article/3706470/what-is-llama-2-metas-large-language-model-explained.html)
 * [2023-09-12, 13:57:48](https://lobste.rs/s/dx44ml/chasing_memory_corruptions_firefox) - [chasing memory corruptions in firefox](http://undeadly.org/cgi?action=article;sid=20230912094727)
 * [2023-09-12, 13:54:44](https://lobste.rs/s/trvktj/apple_event_for_september_12th_2023) - [Apple Event for September 12th, 2023](https://www.apple.com/apple-events/)
-* [2023-09-12, 13:18:11](https://lobste.rs/s/zbdjdi/sparrows_on_eagles_delegate_your_work) - [Sparrows on Eagles: Delegate your work to Prolog](https://www.youtube.com/watch?v=vdabv9EkYrY)
 * [2023-09-12, 12:03:12](https://lobste.rs/s/a6lruo/rails_client_side_feature_flags) - [Rails: Client-side feature flags](https://blog.flippercloud.io/client-side-feature-flags/)
 * [2023-09-12, 10:11:08](https://lobste.rs/s/rdllcf/hacking_book8088_for_better_accuracy) - [Hacking the Book8088 for Better Accuracy](https://martypc.blogspot.com/2023/09/hacking-book8088-for-better-accuracy.html)
 * [2023-09-12, 10:06:40](https://lobste.rs/s/b5gjxz/thunderbird_115_supernova_is_here) - [Thunderbird 115 \"Supernova\" Is Here](https://blog.thunderbird.net/2023/07/our-fastest-most-beautiful-release-ever-thunderbird-115-supernova-is-here/)
@@ -24,7 +25,6 @@
 * [2023-09-11, 14:25:06](https://lobste.rs/s/2jd0t1/power_prolog) - [The power of prolog](https://www.metalevel.at/prolog/facets)
 * [2023-09-11, 12:00:19](https://lobste.rs/s/4iwbak/systematic_approach_debugging) - [A systematic approach to debugging](https://ntietz.com/blog/how-i-debug-2023/)
 * [2023-09-11, 10:28:54](https://lobste.rs/s/c5we7j/zfs_for_dummies) - [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
-* [2023-09-11, 07:26:04](https://lobste.rs/s/ssdbv0/hdmi_isa_graphics_card_for_vintage_pcs_by) - [HDMI ISA graphics card for vintage PCs by improving the Graphics Gremlin](https://yeokhengmeng.com/2023/09/hdmi-isa-graphics-card-for-vintage-pcs/)
 
 ## [Archives](archives/index.md)
 
