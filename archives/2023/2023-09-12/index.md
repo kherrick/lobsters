@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
+* [2023-09-12, 07:04:56](https://lobste.rs/s/513qkc/antimirov_algebraic_manipulation) - [antimirov: algebraic manipulation of regular expressions](https://github.com/non/antimirov)
 * [2023-09-12, 06:42:58](https://lobste.rs/s/vg5asq/how_many_ways_can_you_slice_url_name_pieces) - [How many ways can you slice a URL and name the pieces?](https://tantek.com/2011/238/b1/many-ways-slice-url-name-pieces)
 * [2023-09-12, 06:20:23](https://lobste.rs/s/qj7rwq/onboarding_floating_point) - [Onboarding floating-point](https://www.altdevarts.com/p/onboarding-floating-point)
 * [2023-09-12, 05:31:00](https://lobste.rs/s/oncz0o/roots_obscure_bourne_shell_error_message) - [The roots of an obscure Bourne shell error message](https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellObscureErrorRoots)
