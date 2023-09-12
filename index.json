@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-12, 06:42:58",
+      "https://lobste.rs/s/vg5asq/how_many_ways_can_you_slice_url_name_pieces"
+    ],
+    [
+      "How many ways can you slice a URL and name the pieces?",
+      "https://tantek.com/2011/238/b1/many-ways-slice-url-name-pieces"
+    ]
+  ],
+  [
+    [
       "2023-09-12, 06:20:23",
       "https://lobste.rs/s/qj7rwq/onboarding_floating_point"
     ],
@@ -217,16 +227,6 @@
     [
       "A Complete Course of the Raku programming language",
       "https://course.raku.org/"
-    ]
-  ],
-  [
-    [
-      "2023-09-10, 22:38:38",
-      "https://lobste.rs/s/rhjptp/awk_book_s_60_line_version_make"
-    ],
-    [
-      "The AWK book's 60-line version of Make",
-      "https://benhoyt.com/writings/awk-make/"
     ]
   ],
   [
