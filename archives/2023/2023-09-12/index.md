@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
+* [2023-09-12, 21:50:34](https://lobste.rs/s/lpkrdy/enhancing_your_rails_app_with_sqlite) - [Enhancing your Rails app with SQLite](https://fractaledmind.github.io/2023/09/06/enhancing-rails-sqlite-branch-databases/)
+* [2023-09-12, 21:48:13](https://lobste.rs/s/lblyy8/endbasic) - [EndBASIC](https://www.endbasic.dev/)
 * [2023-09-12, 21:24:28](https://lobste.rs/s/vokhlo/what_interns_have_wrought_2023_edition) - [What the interns have wrought, 2023 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2023/)
 * [2023-09-12, 18:07:02](https://lobste.rs/s/neiofo/microsoft_will_stop_accepting_new_third) - [Microsoft will stop accepting new third-party print drivers in Windows](https://arstechnica.com/gadgets/2023/09/microsoft-will-stop-accepting-new-third-party-print-drivers-in-windows/)
 * [2023-09-12, 18:06:36](https://lobste.rs/s/rjczwm/bcachefs_merged_into_linux_next) - [Bcachefs Merged Into Linux-Next](https://www.phoronix.com/news/Bcachefs-In-Linux-Next)

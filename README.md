@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-12, 21:50:34](https://lobste.rs/s/lpkrdy/enhancing_your_rails_app_with_sqlite) - [Enhancing your Rails app with SQLite](https://fractaledmind.github.io/2023/09/06/enhancing-rails-sqlite-branch-databases/)
+* [2023-09-12, 21:48:13](https://lobste.rs/s/lblyy8/endbasic) - [EndBASIC](https://www.endbasic.dev/)
 * [2023-09-12, 21:24:28](https://lobste.rs/s/vokhlo/what_interns_have_wrought_2023_edition) - [What the interns have wrought, 2023 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2023/)
 * [2023-09-12, 18:07:02](https://lobste.rs/s/neiofo/microsoft_will_stop_accepting_new_third) - [Microsoft will stop accepting new third-party print drivers in Windows](https://arstechnica.com/gadgets/2023/09/microsoft-will-stop-accepting-new-third-party-print-drivers-in-windows/)
 * [2023-09-12, 18:06:36](https://lobste.rs/s/rjczwm/bcachefs_merged_into_linux_next) - [Bcachefs Merged Into Linux-Next](https://www.phoronix.com/news/Bcachefs-In-Linux-Next)
@@ -19,12 +21,10 @@
 * [2023-09-12, 07:04:56](https://lobste.rs/s/513qkc/antimirov_algebraic_manipulation) - [antimirov: algebraic manipulation of regular expressions](https://github.com/non/antimirov)
 * [2023-09-12, 06:42:58](https://lobste.rs/s/vg5asq/how_many_ways_can_you_slice_url_name_pieces) - [How many ways can you slice a URL and name the pieces? (2011)](https://tantek.com/2011/238/b1/many-ways-slice-url-name-pieces)
 * [2023-09-12, 05:31:00](https://lobste.rs/s/oncz0o/roots_obscure_bourne_shell_error_message) - [The roots of an obscure Bourne shell error message](https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellObscureErrorRoots)
-* [2023-09-12, 05:04:20](https://lobste.rs/s/yluknc/going_back_edasm_1980_apple_ii_editor) - [Going Back to EDASM, the 1980 Apple II Editor/Assembler](https://retrocomputingforum.com/t/going-back-to-edasm-the-1980-apple-ii-editor-assembler/1041)
 * [2023-09-12, 00:50:50](https://lobste.rs/s/oroflm/uk_air_traffic_control_meltdown) - [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)
 * [2023-09-11, 18:30:50](https://lobste.rs/s/e54k9x/we_need_deterministic_installs_not_just) - [We need deterministic installs, not just immutable OS's](https://notes.volution.ro/v1/2023/09/remarks/423b80cc/)
 * [2023-09-11, 18:24:59](https://lobste.rs/s/lrdllc/veilid_peer_peer_framework) - [Veilid - peer-to-peer framework](https://veilid.com/)
 * [2023-09-11, 14:25:06](https://lobste.rs/s/2jd0t1/power_prolog) - [The power of prolog](https://www.metalevel.at/prolog/facets)
-* [2023-09-11, 10:28:54](https://lobste.rs/s/c5we7j/zfs_for_dummies) - [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/)
 
 ## [Archives](archives/index.md)
 
