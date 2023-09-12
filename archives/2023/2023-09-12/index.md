@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
+* [2023-09-12, 14:11:44](https://lobste.rs/s/viyrsx/spawn_atarilab_universal_laboratory) - [The spawn of AtariLab and the Universal Laboratory Interface](http://oldvcr.blogspot.com/2023/09/the-spawn-of-atarilab-and-universal.html)
+* [2023-09-12, 14:11:26](https://lobste.rs/s/1enwcg/conditional_foreign_keys_polymorphism) - [Conditional foreign keys and polymorphism in SQL: 4 Methods](https://www.cybertec-postgresql.com/en/conditional-foreign-keys-polymorphism-in-sql/)
+* [2023-09-12, 14:00:45](https://lobste.rs/s/klhjnb/what_is_llama_2_meta_s_large_language_model) - [What is Llama 2? Meta’s large language model explained](https://www.infoworld.com/article/3706470/what-is-llama-2-metas-large-language-model-explained.html)
 * [2023-09-12, 13:57:48](https://lobste.rs/s/dx44ml/p2k23_hackathon_report_landry_breuil) - [p2k23 Hackathon Report: Landry Breuil (landry@) on chasing memory corruptions](http://undeadly.org/cgi?action=article;sid=20230912094727)
+* [2023-09-12, 13:57:48](https://lobste.rs/s/dx44ml/chasing_memory_corruptions_firefox) - [chasing memory corruptions in firefox](http://undeadly.org/cgi?action=article;sid=20230912094727)
 * [2023-09-12, 13:54:44](https://lobste.rs/s/trvktj/apple_event_for_september_12th_2023) - [Apple Event for September 12th, 2023](https://www.apple.com/apple-events/)
 * [2023-09-12, 13:18:11](https://lobste.rs/s/zbdjdi/sparrows_on_eagles_delegate_your_work) - [Sparrows on Eagles: Delegate your work to Prolog](https://www.youtube.com/watch?v=vdabv9EkYrY)
 * [2023-09-12, 12:03:12](https://lobste.rs/s/a6lruo/rails_client_side_feature_flags) - [Rails: Client-side feature flags](https://blog.flippercloud.io/client-side-feature-flags/)
