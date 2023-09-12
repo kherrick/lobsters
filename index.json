@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-12, 00:50:50",
+      "https://lobste.rs/s/oroflm/uk_air_traffic_control_meltdown"
+    ],
+    [
+      "UK air traffic control meltdown",
+      "https://jameshaydon.github.io/nats-fail/"
+    ]
+  ],
+  [
+    [
       "2023-09-11, 18:30:50",
       "https://lobste.rs/s/e54k9x/we_need_deterministic_installs_not_just"
     ],
@@ -187,16 +197,6 @@
     [
       "Scryer Playground: Run Scryer Prolog on the Browser",
       "https://play.scryer.pl"
-    ]
-  ],
-  [
-    [
-      "2023-09-10, 20:40:12",
-      "https://lobste.rs/s/g2khpx/nats_major_incident_preliminary_report"
-    ],
-    [
-      "NATS Major Incident Preliminary Report - UK air traffic control lost computer help for a day",
-      "https://publicapps.caa.co.uk/docs/33/NERL%20Major%20Incident%20Investigation%20Preliminary%20Report.pdf"
     ]
   ],
   [
