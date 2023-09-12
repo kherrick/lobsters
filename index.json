@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-12, 05:31:00",
+      "https://lobste.rs/s/oncz0o/roots_obscure_bourne_shell_error_message"
+    ],
+    [
+      "The roots of an obscure Bourne shell error message",
+      "https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellObscureErrorRoots"
+    ]
+  ],
+  [
+    [
       "2023-09-12, 05:06:24",
       "https://lobste.rs/s/h9k2ee/rectangle_covers_revisited"
     ],
@@ -207,16 +217,6 @@
     [
       "The AWK book's 60-line version of Make",
       "https://benhoyt.com/writings/awk-make/"
-    ]
-  ],
-  [
-    [
-      "2023-09-10, 21:11:14",
-      "https://lobste.rs/s/bamzoo/scryer_playground_run_scryer_prolog_on"
-    ],
-    [
-      "Scryer Playground: Run Scryer Prolog on the Browser",
-      "https://play.scryer.pl"
     ]
   ],
   [
