@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-12, 21:50:34",
+      "https://lobste.rs/s/lpkrdy/enhancing_your_rails_app_with_sqlite"
+    ],
+    [
+      "Enhancing your Rails app with SQLite",
+      "https://fractaledmind.github.io/2023/09/06/enhancing-rails-sqlite-branch-databases/"
+    ]
+  ],
+  [
+    [
+      "2023-09-12, 21:48:13",
+      "https://lobste.rs/s/lblyy8/endbasic"
+    ],
+    [
+      "EndBASIC",
+      "https://www.endbasic.dev/"
+    ]
+  ],
+  [
+    [
       "2023-09-12, 21:24:28",
       "https://lobste.rs/s/vokhlo/what_interns_have_wrought_2023_edition"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-09-12, 05:04:20",
-      "https://lobste.rs/s/yluknc/going_back_edasm_1980_apple_ii_editor"
-    ],
-    [
-      "Going Back to EDASM, the 1980 Apple II Editor/Assembler",
-      "https://retrocomputingforum.com/t/going-back-to-edasm-the-1980-apple-ii-editor-assembler/1041"
-    ]
-  ],
-  [
-    [
       "2023-09-12, 00:50:50",
       "https://lobste.rs/s/oroflm/uk_air_traffic_control_meltdown"
     ],
@@ -237,16 +247,6 @@
     [
       "The power of prolog",
       "https://www.metalevel.at/prolog/facets"
-    ]
-  ],
-  [
-    [
-      "2023-09-11, 10:28:54",
-      "https://lobste.rs/s/c5we7j/zfs_for_dummies"
-    ],
-    [
-      "ZFS for Dummies",
-      "https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/"
     ]
   ]
 ]
