@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
+* [2023-09-12, 10:06:40](https://lobste.rs/s/b5gjxz/thunderbird_115_supernova_is_here) - [Thunderbird 115 \"Supernova\" Is Here](https://blog.thunderbird.net/2023/07/our-fastest-most-beautiful-release-ever-thunderbird-115-supernova-is-here/)
 * [2023-09-12, 09:51:16](https://lobste.rs/s/b5tqmm/hidden_features_firefox_2020) - [Hidden features in Firefox (2020)](https://exple.tive.org/blarg/2020/10/25/navigational-instruments/)
 * [2023-09-12, 09:27:01](https://lobste.rs/s/s2dtut/phases_software_architecture) - [Phases in Software Architecture (Architectural Pearl)](https://www.cs.ox.ac.uk/jeremy.gibbons/publications/phases.pdf)
 * [2023-09-12, 07:04:56](https://lobste.rs/s/513qkc/antimirov_algebraic_manipulation) - [antimirov: algebraic manipulation of regular expressions](https://github.com/non/antimirov)
