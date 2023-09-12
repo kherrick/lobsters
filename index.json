@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-12, 22:50:58",
+      "https://lobste.rs/s/b8zevg/formatting_text_c_old_new_ways"
+    ],
+    [
+      "Formatting Text in C++: The Old and The New Ways",
+      "https://mariusbancila.ro/blog/2023/09/12/formatting-text-in-c-the-old-and-the-new-ways/"
+    ]
+  ],
+  [
+    [
+      "2023-09-12, 22:50:07",
+      "https://lobste.rs/s/5l6x7i/intro_c_coroutines_concept"
+    ],
+    [
+      "Intro to C++ Coroutines: Concept",
+      "https://www.kdab.com/intro-to-c-coroutines-concept/"
+    ]
+  ],
+  [
+    [
       "2023-09-12, 21:50:34",
       "https://lobste.rs/s/lpkrdy/enhancing_your_rails_app_with_sqlite"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2023-09-12, 14:00:45",
-      "https://lobste.rs/s/klhjnb/what_is_llama_2_meta_s_large_language_model"
-    ],
-    [
-      "What is Llama 2? Meta’s large language model explained",
-      "https://www.infoworld.com/article/3706470/what-is-llama-2-metas-large-language-model-explained.html"
-    ]
-  ],
-  [
-    [
       "2023-09-12, 13:57:48",
       "https://lobste.rs/s/dx44ml/chasing_memory_corruptions_firefox"
     ],
@@ -167,16 +177,6 @@
     [
       "Hidden features in Firefox (2020)",
       "https://exple.tive.org/blarg/2020/10/25/navigational-instruments/"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 09:27:01",
-      "https://lobste.rs/s/s2dtut/phases_software_architecture"
-    ],
-    [
-      "Phases in Software Architecture (Architectural Pearl)",
-      "https://www.cs.ox.ac.uk/jeremy.gibbons/publications/phases.pdf"
     ]
   ],
   [
