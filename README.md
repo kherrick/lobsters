@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-12, 03:24:22](https://lobste.rs/s/obfrds/building_owly_ai_comic_video_generator) - [Building Owly an AI Comic Video Generator For My Son](https://towardsdatascience.com/building-owly-an-ai-comic-story-generator-for-my-son-c99fb695d83b)
 * [2023-09-12, 02:49:02](https://lobste.rs/s/ncexcb/fixity_intention_rethinking_lifetime) - [Fixity and Intention - Rethinking the Lifetime of Tests](https://open.substack.com/pub/michaelfeathers/p/fixity-and-intention)
 * [2023-09-12, 00:50:50](https://lobste.rs/s/oroflm/uk_air_traffic_control_meltdown) - [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)
 * [2023-09-11, 18:30:50](https://lobste.rs/s/e54k9x/we_need_deterministic_installs_not_just) - [We need deterministic installs, not just immutable OS's](https://notes.volution.ro/v1/2023/09/remarks/423b80cc/)
@@ -22,7 +23,6 @@
 * [2023-09-10, 21:11:14](https://lobste.rs/s/bamzoo/scryer_playground_run_scryer_prolog_on) - [Scryer Playground: Run Scryer Prolog on the Browser](https://play.scryer.pl)
 * [2023-09-10, 18:41:13](https://lobste.rs/s/xkor14/making_visually_stable_uis_2020) - [Making visually stable UIs (2020)](https://blog.horizon-eda.org/misc/2020/02/19/ui.html)
 * [2023-09-10, 17:46:07](https://lobste.rs/s/7h9owg/nixcon_2023_talks) - [NixCon 2023 Talks](https://media.ccc.de/b/conferences/nixcon/nixcon2023)
-* [2023-09-10, 15:28:59](https://lobste.rs/s/l3ujrr/having_fun_with_keyboard_mappings_under) - [Having fun with keyboard mappings under Linux](https://pulsar17.me/2023/09/keymapping)
 * [2023-09-10, 14:54:58](https://lobste.rs/s/tuwqjd/factorio_mutation_lossiness) - [Factorio, Mutation, & Lossiness](https://www.rfleury.com/p/factorio-mutation-and-lossiness)
 * [2023-09-10, 12:30:23](https://lobste.rs/s/syvng1/google_gets_its_way_bakes_user_tracking_ad) - [Google gets its way, bakes a user-tracking ad platform directly into Chrome](https://arstechnica.com/gadgets/2023/09/googles-widely-opposed-ad-platform-the-privacy-sandbox-launches-in-chrome/)
 
