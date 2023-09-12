@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-12](index.md)
 
+* [2023-09-12, 13:18:11](https://lobste.rs/s/zbdjdi/sparrows_on_eagles_delegate_your_work) - [Sparrows on Eagles: Delegate your work to Prolog](https://www.youtube.com/watch?v=vdabv9EkYrY)
 * [2023-09-12, 12:03:12](https://lobste.rs/s/a6lruo/rails_client_side_feature_flags) - [Rails: Client-side feature flags](https://blog.flippercloud.io/client-side-feature-flags/)
 * [2023-09-12, 10:11:08](https://lobste.rs/s/rdllcf/hacking_book8088_for_better_accuracy) - [Hacking the Book8088 for Better Accuracy](https://martypc.blogspot.com/2023/09/hacking-book8088-for-better-accuracy.html)
 * [2023-09-12, 10:06:40](https://lobste.rs/s/b5gjxz/thunderbird_115_supernova_is_here) - [Thunderbird 115 \"Supernova\" Is Here](https://blog.thunderbird.net/2023/07/our-fastest-most-beautiful-release-ever-thunderbird-115-supernova-is-here/)

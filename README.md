@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-12, 13:18:11](https://lobste.rs/s/zbdjdi/sparrows_on_eagles_delegate_your_work) - [Sparrows on Eagles: Delegate your work to Prolog](https://www.youtube.com/watch?v=vdabv9EkYrY)
 * [2023-09-12, 12:03:12](https://lobste.rs/s/a6lruo/rails_client_side_feature_flags) - [Rails: Client-side feature flags](https://blog.flippercloud.io/client-side-feature-flags/)
 * [2023-09-12, 10:11:08](https://lobste.rs/s/rdllcf/hacking_book8088_for_better_accuracy) - [Hacking the Book8088 for Better Accuracy](https://martypc.blogspot.com/2023/09/hacking-book8088-for-better-accuracy.html)
 * [2023-09-12, 10:06:40](https://lobste.rs/s/b5gjxz/thunderbird_115_supernova_is_here) - [Thunderbird 115 \"Supernova\" Is Here](https://blog.thunderbird.net/2023/07/our-fastest-most-beautiful-release-ever-thunderbird-115-supernova-is-here/)
@@ -9,7 +10,6 @@
 * [2023-09-12, 06:42:58](https://lobste.rs/s/vg5asq/how_many_ways_can_you_slice_url_name_pieces) - [How many ways can you slice a URL and name the pieces?](https://tantek.com/2011/238/b1/many-ways-slice-url-name-pieces)
 * [2023-09-12, 06:20:23](https://lobste.rs/s/qj7rwq/onboarding_floating_point) - [Onboarding floating-point](https://www.altdevarts.com/p/onboarding-floating-point)
 * [2023-09-12, 05:31:00](https://lobste.rs/s/oncz0o/roots_obscure_bourne_shell_error_message) - [The roots of an obscure Bourne shell error message](https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellObscureErrorRoots)
-* [2023-09-12, 05:06:24](https://lobste.rs/s/h9k2ee/rectangle_covers_revisited) - [Rectangle Covers Revisited Computationally](https://www.or.rwth-aachen.de/files/research/publications/rcover-jea.pdf)
 * [2023-09-12, 05:04:20](https://lobste.rs/s/yluknc/going_back_edasm_1980_apple_ii_editor) - [Going Back to EDASM, the 1980 Apple II Editor/Assembler](https://retrocomputingforum.com/t/going-back-to-edasm-the-1980-apple-ii-editor-assembler/1041)
 * [2023-09-12, 02:49:02](https://lobste.rs/s/ncexcb/fixity_intention_rethinking_lifetime) - [Fixity and Intention - Rethinking the Lifetime of Tests](https://open.substack.com/pub/michaelfeathers/p/fixity-and-intention)
 * [2023-09-12, 00:50:50](https://lobste.rs/s/oroflm/uk_air_traffic_control_meltdown) - [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)
