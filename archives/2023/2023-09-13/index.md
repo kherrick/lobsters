@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-13](index.md)
 
+* [2023-09-13, 14:26:25](https://lobste.rs/s/d2jwgn/nixify_your_haskell_project) - [Nixify your haskell project: Introduction](https://zero-to-flakes.com/blog/nixify-haskell-project-intro)
 * [2023-09-13, 12:27:43](https://lobste.rs/s/hguv3m/introducing_rustrover_standalone_rust) - [Introducing RustRover – A Standalone Rust IDE by JetBrains](https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/)
 * [2023-09-13, 11:19:59](https://lobste.rs/s/kgzfi1/terraform_cloud_review) - [Terraform Cloud Review](https://matduggan.com/terraform-cloud-review/)
 * [2023-09-13, 11:17:03](https://lobste.rs/s/h95x1b/death_by_thousand_microservices) - [Death by a thousand microservices](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html)
