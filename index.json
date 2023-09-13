@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-13, 12:27:43",
+      "https://lobste.rs/s/hguv3m/introducing_rustrover_standalone_rust"
+    ],
+    [
+      "Introducing RustRover – A Standalone Rust IDE by JetBrains",
+      "https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/"
+    ]
+  ],
+  [
+    [
       "2023-09-13, 11:19:59",
       "https://lobste.rs/s/kgzfi1/terraform_cloud_review"
     ],
@@ -237,16 +247,6 @@
     [
       "The roots of an obscure Bourne shell error message",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellObscureErrorRoots"
-    ]
-  ],
-  [
-    [
-      "2023-09-11, 18:30:50",
-      "https://lobste.rs/s/e54k9x/we_need_deterministic_installs_not_just"
-    ],
-    [
-      "We need deterministic installs, not just immutable OS's",
-      "https://notes.volution.ro/v1/2023/09/remarks/423b80cc/"
     ]
   ]
 ]
