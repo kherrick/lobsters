@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-13, 06:23:07](https://lobste.rs/s/ul0fe1/audio_back_again) - [To Audio & Back Again](https://unascribed.com/junk/imgaudio/)
 * [2023-09-13, 05:14:41](https://lobste.rs/s/w6cze6/shape_machine) - [The Shape Of The Machine](https://exple.tive.org/blarg/2020/05/05/the-shape-of-the-machine/)
 * [2023-09-13, 04:04:11](https://lobste.rs/s/x8pexe/do_contributing_files_provide) - [Do CONTRIBUTING Files Provide Information about OSS Newcomers’ Onboarding Barriers?](https://fron.ch/preprint_fse.pdf)
 * [2023-09-13, 03:31:03](https://lobste.rs/s/3343ri/node_red) - [Node-RED](https://nodered.org/)
@@ -10,7 +11,6 @@
 * [2023-09-12, 21:24:28](https://lobste.rs/s/vokhlo/what_interns_have_wrought_2023_edition) - [What the interns have wrought, 2023 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2023/)
 * [2023-09-12, 18:07:02](https://lobste.rs/s/neiofo/microsoft_will_stop_accepting_new_third) - [Microsoft will stop accepting new third-party print drivers in Windows](https://arstechnica.com/gadgets/2023/09/microsoft-will-stop-accepting-new-third-party-print-drivers-in-windows/)
 * [2023-09-12, 18:06:36](https://lobste.rs/s/rjczwm/bcachefs_merged_into_linux_next) - [Bcachefs Merged Into Linux-Next](https://www.phoronix.com/news/Bcachefs-In-Linux-Next)
-* [2023-09-12, 17:03:55](https://lobste.rs/s/6mvg65/riffle_reactive_relational_state) - [Riffle - Reactive Relational State](https://youtu.be/zjl7CpG9h3w?si=93Ih3xlL7fGurs2Y)
 * [2023-09-12, 14:11:44](https://lobste.rs/s/viyrsx/spawn_atarilab_universal_laboratory) - [The spawn of AtariLab and the Universal Laboratory Interface](http://oldvcr.blogspot.com/2023/09/the-spawn-of-atarilab-and-universal.html)
 * [2023-09-12, 14:11:26](https://lobste.rs/s/1enwcg/conditional_foreign_keys_polymorphism) - [Conditional foreign keys and polymorphism in SQL: 4 Methods](https://www.cybertec-postgresql.com/en/conditional-foreign-keys-polymorphism-in-sql/)
 * [2023-09-12, 13:57:48](https://lobste.rs/s/dx44ml/chasing_memory_corruptions_firefox) - [chasing memory corruptions in firefox](http://undeadly.org/cgi?action=article;sid=20230912094727)
