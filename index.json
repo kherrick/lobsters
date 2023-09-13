@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2023-09-12, 14:11:26",
+      "https://lobste.rs/s/1enwcg/conditional_foreign_keys_polymorphism"
+    ],
+    [
+      "Conditional foreign keys and polymorphism in SQL: 4 Methods",
+      "https://www.cybertec-postgresql.com/en/conditional-foreign-keys-polymorphism-in-sql/"
+    ]
+  ],
+  [
+    [
       "2023-09-12, 13:54:44",
       "https://lobste.rs/s/trvktj/apple_event_for_september_12th_2023"
     ],
@@ -227,16 +237,6 @@
     [
       "The roots of an obscure Bourne shell error message",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellObscureErrorRoots"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 00:50:50",
-      "https://lobste.rs/s/oroflm/uk_air_traffic_control_meltdown"
-    ],
-    [
-      "UK air traffic control meltdown",
-      "https://jameshaydon.github.io/nats-fail/"
     ]
   ],
   [
