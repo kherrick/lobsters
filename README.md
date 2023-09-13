@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-13, 19:06:03](https://lobste.rs/s/fmauod/btrblocks_efficient_columnar) - [BtrBlocks: Efficient Columnar Compression for Data Lakes](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrblocks.pdf)
 * [2023-09-13, 18:35:16](https://lobste.rs/s/n7cc9h/password_stealing_without_hacking_wi_fi) - [Password-Stealing without Hacking: Wi-Fi Enabled Practical Keystroke Eavesdropping](https://arxiv.org/pdf/2309.03492.pdf)
 * [2023-09-13, 17:38:48](https://lobste.rs/s/qaabd9/onboarding_floating_point) - [Onboarding floating-point](https://www.altdevarts.com/p/onboarding-floating-point?r=yknp0)
 * [2023-09-13, 16:28:05](https://lobste.rs/s/dsajql/wasi_support_go) - [WASI support in Go](https://go.dev/blog/wasi)
@@ -17,7 +18,6 @@
 * [2023-09-13, 07:33:10](https://lobste.rs/s/wleo7m/importance_post_build_audits_do_you_know) - [The importance of post-build audits: Do you know what you ship?](https://www.zerocopter.com/blog-en/the-importance-of-post-build-audits-do-you-know-what-you-ship)
 * [2023-09-13, 06:54:48](https://lobste.rs/s/af2qom/trojanized_free_download_manager_found) - [Trojanized Free Download Manager found to contain a Linux backdoor](https://securelist.com/backdoored-free-download-manager-linux-malware/110465/)
 * [2023-09-13, 06:23:07](https://lobste.rs/s/ul0fe1/audio_back_again) - [To Audio & Back Again](https://unascribed.com/junk/imgaudio/)
-* [2023-09-13, 05:14:41](https://lobste.rs/s/w6cze6/shape_machine) - [The Shape Of The Machine](https://exple.tive.org/blarg/2020/05/05/the-shape-of-the-machine/)
 * [2023-09-13, 04:04:11](https://lobste.rs/s/x8pexe/do_contributing_files_provide) - [Do CONTRIBUTING Files Provide Information about OSS Newcomers’ Onboarding Barriers?](https://fron.ch/preprint_fse.pdf)
 * [2023-09-13, 02:38:56](https://lobste.rs/s/gmtken/haiku_activity_contract_report_august) - [Haiku Activity & Contract Report, August 2023](https://www.haiku-os.org/blog/waddlesplash/2023-09-12_haiku_activity_contract_report_august_2023/)
 * [2023-09-12, 21:48:13](https://lobste.rs/s/lblyy8/endbasic) - [EndBASIC](https://www.endbasic.dev/)
