@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-13, 03:31:03](https://lobste.rs/s/3343ri/node_red) - [Node-RED](https://nodered.org/)
 * [2023-09-13, 02:38:56](https://lobste.rs/s/gmtken/haiku_activity_contract_report_august) - [Haiku Activity & Contract Report, August 2023](https://www.haiku-os.org/blog/waddlesplash/2023-09-12_haiku_activity_contract_report_august_2023/)
 * [2023-09-12, 22:50:58](https://lobste.rs/s/b8zevg/formatting_text_c_old_new_ways) - [Formatting Text in C++: The Old and The New Ways](https://mariusbancila.ro/blog/2023/09/12/formatting-text-in-c-the-old-and-the-new-ways/)
 * [2023-09-12, 22:50:07](https://lobste.rs/s/5l6x7i/intro_c_coroutines_concept) - [Intro to C++ Coroutines: Concept](https://www.kdab.com/intro-to-c-coroutines-concept/)
@@ -9,7 +10,6 @@
 * [2023-09-12, 18:07:02](https://lobste.rs/s/neiofo/microsoft_will_stop_accepting_new_third) - [Microsoft will stop accepting new third-party print drivers in Windows](https://arstechnica.com/gadgets/2023/09/microsoft-will-stop-accepting-new-third-party-print-drivers-in-windows/)
 * [2023-09-12, 18:06:36](https://lobste.rs/s/rjczwm/bcachefs_merged_into_linux_next) - [Bcachefs Merged Into Linux-Next](https://www.phoronix.com/news/Bcachefs-In-Linux-Next)
 * [2023-09-12, 17:03:55](https://lobste.rs/s/6mvg65/riffle_reactive_relational_state) - [Riffle - Reactive Relational State](https://youtu.be/zjl7CpG9h3w?si=93Ih3xlL7fGurs2Y)
-* [2023-09-12, 16:04:58](https://lobste.rs/s/bpb6p1/code_without_fear_sometimes) - [Code without fear. Sometimes?](https://reasoning.page/2023/09/12/code-without-fear-sometimes/)
 * [2023-09-12, 14:11:44](https://lobste.rs/s/viyrsx/spawn_atarilab_universal_laboratory) - [The spawn of AtariLab and the Universal Laboratory Interface](http://oldvcr.blogspot.com/2023/09/the-spawn-of-atarilab-and-universal.html)
 * [2023-09-12, 14:11:26](https://lobste.rs/s/1enwcg/conditional_foreign_keys_polymorphism) - [Conditional foreign keys and polymorphism in SQL: 4 Methods](https://www.cybertec-postgresql.com/en/conditional-foreign-keys-polymorphism-in-sql/)
 * [2023-09-12, 13:57:48](https://lobste.rs/s/dx44ml/chasing_memory_corruptions_firefox) - [chasing memory corruptions in firefox](http://undeadly.org/cgi?action=article;sid=20230912094727)

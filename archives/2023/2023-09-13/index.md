@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-09-13](index.md)
 
+* [2023-09-13, 03:31:03](https://lobste.rs/s/3343ri/node_red) - [Node-RED](https://nodered.org/)
 * [2023-09-13, 02:38:56](https://lobste.rs/s/gmtken/haiku_activity_contract_report_august) - [Haiku Activity & Contract Report, August 2023](https://www.haiku-os.org/blog/waddlesplash/2023-09-12_haiku_activity_contract_report_august_2023/)
