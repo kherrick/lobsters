@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-13](index.md)
 
+* [2023-09-13, 18:35:16](https://lobste.rs/s/n7cc9h/password_stealing_without_hacking_wi_fi) - [Password-Stealing without Hacking: Wi-Fi Enabled Practical Keystroke Eavesdropping](https://arxiv.org/pdf/2309.03492.pdf)
 * [2023-09-13, 17:38:48](https://lobste.rs/s/qaabd9/onboarding_floating_point) - [Onboarding floating-point](https://www.altdevarts.com/p/onboarding-floating-point?r=yknp0)
 * [2023-09-13, 16:28:05](https://lobste.rs/s/dsajql/wasi_support_go) - [WASI support in Go](https://go.dev/blog/wasi)
 * [2023-09-13, 15:28:18](https://lobste.rs/s/qkqnp6/acme_gap_introducing_anchor) - [The ACME Gap: Introducing Anchor](https://blog.anchor.dev/the-acme-gap-introducing-anchor-part-1-of-3-2466ad7e53f6)

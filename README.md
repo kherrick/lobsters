@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-13, 18:35:16](https://lobste.rs/s/n7cc9h/password_stealing_without_hacking_wi_fi) - [Password-Stealing without Hacking: Wi-Fi Enabled Practical Keystroke Eavesdropping](https://arxiv.org/pdf/2309.03492.pdf)
 * [2023-09-13, 17:38:48](https://lobste.rs/s/qaabd9/onboarding_floating_point) - [Onboarding floating-point](https://www.altdevarts.com/p/onboarding-floating-point?r=yknp0)
 * [2023-09-13, 16:28:05](https://lobste.rs/s/dsajql/wasi_support_go) - [WASI support in Go](https://go.dev/blog/wasi)
 * [2023-09-13, 15:23:52](https://lobste.rs/s/a4narj/jetty_12_adapter_for_clojure_ring_decade) - [The Jetty 12 Adapter for Clojure Ring, and A Decade of A Custom Ring Adapter](https://sunng.info/blog/the-jetty-12-adapter-for-clojure-ring-and-a-decade-of-a-custom-ring-adapter.html)
@@ -21,7 +22,6 @@
 * [2023-09-13, 02:38:56](https://lobste.rs/s/gmtken/haiku_activity_contract_report_august) - [Haiku Activity & Contract Report, August 2023](https://www.haiku-os.org/blog/waddlesplash/2023-09-12_haiku_activity_contract_report_august_2023/)
 * [2023-09-12, 21:48:13](https://lobste.rs/s/lblyy8/endbasic) - [EndBASIC](https://www.endbasic.dev/)
 * [2023-09-12, 21:24:28](https://lobste.rs/s/vokhlo/what_interns_have_wrought_2023_edition) - [What the interns have wrought, 2023 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2023/)
-* [2023-09-12, 18:07:02](https://lobste.rs/s/neiofo/microsoft_will_stop_accepting_new_third) - [Microsoft will stop accepting new third-party print drivers in Windows](https://arstechnica.com/gadgets/2023/09/microsoft-will-stop-accepting-new-third-party-print-drivers-in-windows/)
 * [2023-09-12, 18:06:36](https://lobste.rs/s/rjczwm/bcachefs_merged_into_linux_next) - [Bcachefs Merged Into Linux-Next](https://www.phoronix.com/news/Bcachefs-In-Linux-Next)
 * [2023-09-12, 13:54:44](https://lobste.rs/s/trvktj/apple_event_for_september_12th_2023) - [Apple Event for September 12th, 2023](https://www.apple.com/apple-events/)
 * [2023-09-12, 09:51:16](https://lobste.rs/s/b5tqmm/hidden_features_firefox_2020) - [Hidden features in Firefox (2020)](https://exple.tive.org/blarg/2020/10/25/navigational-instruments/)
