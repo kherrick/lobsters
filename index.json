@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-13, 15:28:18",
+      "https://lobste.rs/s/qkqnp6/acme_gap_introducing_anchor"
+    ],
+    [
+      "The ACME Gap: Introducing Anchor",
+      "https://blog.anchor.dev/the-acme-gap-introducing-anchor-part-1-of-3-2466ad7e53f6"
+    ]
+  ],
+  [
+    [
+      "2023-09-13, 15:23:52",
+      "https://lobste.rs/s/a4narj/jetty_12_adapter_for_clojure_ring_decade"
+    ],
+    [
+      "The Jetty 12 Adapter for Clojure Ring, and A Decade of A Custom Ring Adapter",
+      "https://sunng.info/blog/the-jetty-12-adapter-for-clojure-ring-and-a-decade-of-a-custom-ring-adapter.html"
+    ]
+  ],
+  [
+    [
       "2023-09-13, 14:40:50",
       "https://lobste.rs/s/tghvon/rhombus_new_spin_on_macros_without_all"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-09-12, 21:50:34",
-      "https://lobste.rs/s/lpkrdy/enhancing_your_rails_app_with_sqlite"
-    ],
-    [
-      "Enhancing your Rails app with SQLite",
-      "https://fractaledmind.github.io/2023/09/06/enhancing-rails-sqlite-branch-databases/"
-    ]
-  ],
-  [
-    [
       "2023-09-12, 21:48:13",
       "https://lobste.rs/s/lblyy8/endbasic"
     ],
@@ -237,16 +247,6 @@
     [
       "Hidden features in Firefox (2020)",
       "https://exple.tive.org/blarg/2020/10/25/navigational-instruments/"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 05:31:00",
-      "https://lobste.rs/s/oncz0o/roots_obscure_bourne_shell_error_message"
-    ],
-    [
-      "The roots of an obscure Bourne shell error message",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellObscureErrorRoots"
     ]
   ]
 ]
