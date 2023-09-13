@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-13, 07:33:10](https://lobste.rs/s/wleo7m/importance_post_build_audits_do_you_know) - [The importance of post-build audits: Do you know what you ship?](https://www.zerocopter.com/blog-en/the-importance-of-post-build-audits-do-you-know-what-you-ship)
 * [2023-09-13, 06:54:48](https://lobste.rs/s/af2qom/trojanized_free_download_manager_found) - [Trojanized Free Download Manager found to contain a Linux backdoor](https://securelist.com/backdoored-free-download-manager-linux-malware/110465/)
 * [2023-09-13, 06:30:51](https://lobste.rs/s/kzhddu/resilient_distributed_datasets_fault) - [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](http://people.csail.mit.edu/matei/papers/2012/nsdi_spark.pdf)
 * [2023-09-13, 06:23:07](https://lobste.rs/s/ul0fe1/audio_back_again) - [To Audio & Back Again](https://unascribed.com/junk/imgaudio/)
@@ -7,7 +8,6 @@
 * [2023-09-13, 04:04:11](https://lobste.rs/s/x8pexe/do_contributing_files_provide) - [Do CONTRIBUTING Files Provide Information about OSS Newcomers’ Onboarding Barriers?](https://fron.ch/preprint_fse.pdf)
 * [2023-09-13, 03:31:03](https://lobste.rs/s/3343ri/node_red) - [Node-RED](https://nodered.org/)
 * [2023-09-13, 02:38:56](https://lobste.rs/s/gmtken/haiku_activity_contract_report_august) - [Haiku Activity & Contract Report, August 2023](https://www.haiku-os.org/blog/waddlesplash/2023-09-12_haiku_activity_contract_report_august_2023/)
-* [2023-09-12, 22:50:07](https://lobste.rs/s/5l6x7i/intro_c_coroutines_concept) - [Intro to C++ Coroutines: Concept](https://www.kdab.com/intro-to-c-coroutines-concept/)
 * [2023-09-12, 21:50:34](https://lobste.rs/s/lpkrdy/enhancing_your_rails_app_with_sqlite) - [Enhancing your Rails app with SQLite](https://fractaledmind.github.io/2023/09/06/enhancing-rails-sqlite-branch-databases/)
 * [2023-09-12, 21:48:13](https://lobste.rs/s/lblyy8/endbasic) - [EndBASIC](https://www.endbasic.dev/)
 * [2023-09-12, 21:24:28](https://lobste.rs/s/vokhlo/what_interns_have_wrought_2023_edition) - [What the interns have wrought, 2023 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2023/)
