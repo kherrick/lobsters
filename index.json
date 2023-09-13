@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-13, 17:38:48",
+      "https://lobste.rs/s/qaabd9/onboarding_floating_point"
+    ],
+    [
+      "Onboarding floating-point",
+      "https://www.altdevarts.com/p/onboarding-floating-point?r=yknp0"
+    ]
+  ],
+  [
+    [
       "2023-09-13, 16:28:05",
       "https://lobste.rs/s/dsajql/wasi_support_go"
     ],
@@ -137,16 +147,6 @@
     [
       "Trojanized Free Download Manager found to contain a Linux backdoor",
       "https://securelist.com/backdoored-free-download-manager-linux-malware/110465/"
-    ]
-  ],
-  [
-    [
-      "2023-09-13, 06:30:51",
-      "https://lobste.rs/s/kzhddu/resilient_distributed_datasets_fault"
-    ],
-    [
-      "Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing",
-      "http://people.csail.mit.edu/matei/papers/2012/nsdi_spark.pdf"
     ]
   ],
   [
