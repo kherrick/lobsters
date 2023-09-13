@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-13, 02:38:56](https://lobste.rs/s/gmtken/haiku_activity_contract_report_august) - [Haiku Activity & Contract Report, August 2023](https://www.haiku-os.org/blog/waddlesplash/2023-09-12_haiku_activity_contract_report_august_2023/)
 * [2023-09-12, 22:50:58](https://lobste.rs/s/b8zevg/formatting_text_c_old_new_ways) - [Formatting Text in C++: The Old and The New Ways](https://mariusbancila.ro/blog/2023/09/12/formatting-text-in-c-the-old-and-the-new-ways/)
 * [2023-09-12, 22:50:07](https://lobste.rs/s/5l6x7i/intro_c_coroutines_concept) - [Intro to C++ Coroutines: Concept](https://www.kdab.com/intro-to-c-coroutines-concept/)
 * [2023-09-12, 21:50:34](https://lobste.rs/s/lpkrdy/enhancing_your_rails_app_with_sqlite) - [Enhancing your Rails app with SQLite](https://fractaledmind.github.io/2023/09/06/enhancing-rails-sqlite-branch-databases/)
@@ -13,7 +14,6 @@
 * [2023-09-12, 14:11:26](https://lobste.rs/s/1enwcg/conditional_foreign_keys_polymorphism) - [Conditional foreign keys and polymorphism in SQL: 4 Methods](https://www.cybertec-postgresql.com/en/conditional-foreign-keys-polymorphism-in-sql/)
 * [2023-09-12, 13:57:48](https://lobste.rs/s/dx44ml/chasing_memory_corruptions_firefox) - [chasing memory corruptions in firefox](http://undeadly.org/cgi?action=article;sid=20230912094727)
 * [2023-09-12, 13:54:44](https://lobste.rs/s/trvktj/apple_event_for_september_12th_2023) - [Apple Event for September 12th, 2023](https://www.apple.com/apple-events/)
-* [2023-09-12, 13:18:11](https://lobste.rs/s/zbdjdi/sparrows_on_eagles_delegate_your_work) - [Sparrows on Eagles: Delegate your work to Prolog](https://www.youtube.com/watch?v=vdabv9EkYrY)
 * [2023-09-12, 12:03:12](https://lobste.rs/s/a6lruo/rails_client_side_feature_flags) - [Rails: Client-side feature flags](https://blog.flippercloud.io/client-side-feature-flags/)
 * [2023-09-12, 10:11:08](https://lobste.rs/s/rdllcf/hacking_book8088_for_better_accuracy) - [Hacking the Book8088 for Better Accuracy](https://martypc.blogspot.com/2023/09/hacking-book8088-for-better-accuracy.html)
 * [2023-09-12, 10:06:40](https://lobste.rs/s/b5gjxz/thunderbird_115_supernova_is_here) - [Thunderbird 115 \"Supernova\" Is Here](https://blog.thunderbird.net/2023/07/our-fastest-most-beautiful-release-ever-thunderbird-115-supernova-is-here/)
