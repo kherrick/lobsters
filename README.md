@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-13, 19:31:53](https://lobste.rs/s/5kgw2m/pagefind_v1_0_0_stable_static_search_at) - [Pagefind v1.0.0 — Stable static search at scale](https://github.com/CloudCannon/pagefind/releases/tag/v1.0.0)
 * [2023-09-13, 19:13:32](https://lobste.rs/s/pyygpd/rails_7_1_beta_1_dockerfiles_byo) - [Rails 7.1 Beta 1: Dockerfiles, BYO Authentication, More Async Queries, and more](https://rubyonrails.org/2023/9/13/Rails-7-1-0-beta-1-has-been-released)
 * [2023-09-13, 19:13:14](https://lobste.rs/s/gxvgz7/multi_page_web_apps) - [Multi-page web apps](https://adactio.com/journal/20442)
 * [2023-09-13, 19:06:03](https://lobste.rs/s/fmauod/btrblocks_efficient_columnar) - [BtrBlocks: Efficient Columnar Compression for Data Lakes](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrblocks.pdf)
@@ -18,7 +19,6 @@
 * [2023-09-13, 07:33:10](https://lobste.rs/s/wleo7m/importance_post_build_audits_do_you_know) - [The importance of post-build audits: Do you know what you ship?](https://www.zerocopter.com/blog-en/the-importance-of-post-build-audits-do-you-know-what-you-ship)
 * [2023-09-13, 06:54:48](https://lobste.rs/s/af2qom/trojanized_free_download_manager_found) - [Trojanized Free Download Manager found to contain a Linux backdoor](https://securelist.com/backdoored-free-download-manager-linux-malware/110465/)
 * [2023-09-13, 06:23:07](https://lobste.rs/s/ul0fe1/audio_back_again) - [To Audio & Back Again](https://unascribed.com/junk/imgaudio/)
-* [2023-09-13, 04:04:11](https://lobste.rs/s/x8pexe/do_contributing_files_provide) - [Do CONTRIBUTING Files Provide Information about OSS Newcomers’ Onboarding Barriers?](https://fron.ch/preprint_fse.pdf)
 * [2023-09-13, 02:38:56](https://lobste.rs/s/gmtken/haiku_activity_contract_report_august) - [Haiku Activity & Contract Report, August 2023](https://www.haiku-os.org/blog/waddlesplash/2023-09-12_haiku_activity_contract_report_august_2023/)
 * [2023-09-12, 21:48:13](https://lobste.rs/s/lblyy8/endbasic) - [EndBASIC](https://www.endbasic.dev/)
 * [2023-09-12, 21:24:28](https://lobste.rs/s/vokhlo/what_interns_have_wrought_2023_edition) - [What the interns have wrought, 2023 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2023/)
