@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-13, 17:38:48](https://lobste.rs/s/qaabd9/onboarding_floating_point) - [Onboarding floating-point](https://www.altdevarts.com/p/onboarding-floating-point?r=yknp0)
 * [2023-09-13, 16:28:05](https://lobste.rs/s/dsajql/wasi_support_go) - [WASI support in Go](https://go.dev/blog/wasi)
 * [2023-09-13, 15:28:18](https://lobste.rs/s/qkqnp6/acme_gap_introducing_anchor) - [The ACME Gap: Introducing Anchor](https://blog.anchor.dev/the-acme-gap-introducing-anchor-part-1-of-3-2466ad7e53f6)
 * [2023-09-13, 15:23:52](https://lobste.rs/s/a4narj/jetty_12_adapter_for_clojure_ring_decade) - [The Jetty 12 Adapter for Clojure Ring, and A Decade of A Custom Ring Adapter](https://sunng.info/blog/the-jetty-12-adapter-for-clojure-ring-and-a-decade-of-a-custom-ring-adapter.html)
@@ -14,7 +15,6 @@
 * [2023-09-13, 09:06:25](https://lobste.rs/s/ursgz0/libsodium_1_0_19_released) - [libsodium 1.0.19 released](https://github.com/jedisct1/libsodium/releases/tag/1.0.19-RELEASE)
 * [2023-09-13, 07:33:10](https://lobste.rs/s/wleo7m/importance_post_build_audits_do_you_know) - [The importance of post-build audits: Do you know what you ship?](https://www.zerocopter.com/blog-en/the-importance-of-post-build-audits-do-you-know-what-you-ship)
 * [2023-09-13, 06:54:48](https://lobste.rs/s/af2qom/trojanized_free_download_manager_found) - [Trojanized Free Download Manager found to contain a Linux backdoor](https://securelist.com/backdoored-free-download-manager-linux-malware/110465/)
-* [2023-09-13, 06:30:51](https://lobste.rs/s/kzhddu/resilient_distributed_datasets_fault) - [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](http://people.csail.mit.edu/matei/papers/2012/nsdi_spark.pdf)
 * [2023-09-13, 06:23:07](https://lobste.rs/s/ul0fe1/audio_back_again) - [To Audio & Back Again](https://unascribed.com/junk/imgaudio/)
 * [2023-09-13, 05:14:41](https://lobste.rs/s/w6cze6/shape_machine) - [The Shape Of The Machine](https://exple.tive.org/blarg/2020/05/05/the-shape-of-the-machine/)
 * [2023-09-13, 04:04:11](https://lobste.rs/s/x8pexe/do_contributing_files_provide) - [Do CONTRIBUTING Files Provide Information about OSS Newcomers’ Onboarding Barriers?](https://fron.ch/preprint_fse.pdf)
