@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-13, 04:04:11](https://lobste.rs/s/x8pexe/do_contributing_files_provide) - [Do CONTRIBUTING Files Provide Information about OSS Newcomers’ Onboarding Barriers?](https://fron.ch/preprint_fse.pdf)
 * [2023-09-13, 03:31:03](https://lobste.rs/s/3343ri/node_red) - [Node-RED](https://nodered.org/)
 * [2023-09-13, 02:38:56](https://lobste.rs/s/gmtken/haiku_activity_contract_report_august) - [Haiku Activity & Contract Report, August 2023](https://www.haiku-os.org/blog/waddlesplash/2023-09-12_haiku_activity_contract_report_august_2023/)
-* [2023-09-12, 22:50:58](https://lobste.rs/s/b8zevg/formatting_text_c_old_new_ways) - [Formatting Text in C++: The Old and The New Ways](https://mariusbancila.ro/blog/2023/09/12/formatting-text-in-c-the-old-and-the-new-ways/)
 * [2023-09-12, 22:50:07](https://lobste.rs/s/5l6x7i/intro_c_coroutines_concept) - [Intro to C++ Coroutines: Concept](https://www.kdab.com/intro-to-c-coroutines-concept/)
 * [2023-09-12, 21:50:34](https://lobste.rs/s/lpkrdy/enhancing_your_rails_app_with_sqlite) - [Enhancing your Rails app with SQLite](https://fractaledmind.github.io/2023/09/06/enhancing-rails-sqlite-branch-databases/)
 * [2023-09-12, 21:48:13](https://lobste.rs/s/lblyy8/endbasic) - [EndBASIC](https://www.endbasic.dev/)
