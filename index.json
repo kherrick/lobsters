@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-13, 10:27:36",
+      "https://lobste.rs/s/coukxs/ghostty_some_useful_zig_patterns"
+    ],
+    [
+      "Ghostty and Some Useful Zig Patterns",
+      "https://mitchellh.com/writing/ghostty-and-useful-zig-patterns"
+    ]
+  ],
+  [
+    [
       "2023-09-13, 10:15:24",
       "https://lobste.rs/s/sl52a3/comparative_analysis"
     ],
@@ -171,26 +181,6 @@
   ],
   [
     [
-      "2023-09-12, 14:11:44",
-      "https://lobste.rs/s/viyrsx/spawn_atarilab_universal_laboratory"
-    ],
-    [
-      "The spawn of AtariLab and the Universal Laboratory Interface",
-      "http://oldvcr.blogspot.com/2023/09/the-spawn-of-atarilab-and-universal.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 14:11:26",
-      "https://lobste.rs/s/1enwcg/conditional_foreign_keys_polymorphism"
-    ],
-    [
-      "Conditional foreign keys and polymorphism in SQL: 4 Methods",
-      "https://www.cybertec-postgresql.com/en/conditional-foreign-keys-polymorphism-in-sql/"
-    ]
-  ],
-  [
-    [
       "2023-09-12, 13:54:44",
       "https://lobste.rs/s/trvktj/apple_event_for_september_12th_2023"
     ],
@@ -207,6 +197,16 @@
     [
       "Hacking the Book8088 for Better Accuracy",
       "https://martypc.blogspot.com/2023/09/hacking-book8088-for-better-accuracy.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-12, 10:06:40",
+      "https://lobste.rs/s/b5gjxz/thunderbird_115_supernova_is_here"
+    ],
+    [
+      "Thunderbird 115 \"Supernova\" Is Here",
+      "https://blog.thunderbird.net/2023/07/our-fastest-most-beautiful-release-ever-thunderbird-115-supernova-is-here/"
     ]
   ],
   [
