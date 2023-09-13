@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-13, 06:54:48",
+      "https://lobste.rs/s/af2qom/trojanized_free_download_manager_found"
+    ],
+    [
+      "Trojanized Free Download Manager found to contain a Linux backdoor",
+      "https://securelist.com/backdoored-free-download-manager-linux-malware/110465/"
+    ]
+  ],
+  [
+    [
       "2023-09-13, 06:30:51",
       "https://lobste.rs/s/kzhddu/resilient_distributed_datasets_fault"
     ],
@@ -137,16 +147,6 @@
     [
       "Conditional foreign keys and polymorphism in SQL: 4 Methods",
       "https://www.cybertec-postgresql.com/en/conditional-foreign-keys-polymorphism-in-sql/"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 13:57:48",
-      "https://lobste.rs/s/dx44ml/chasing_memory_corruptions_firefox"
-    ],
-    [
-      "chasing memory corruptions in firefox",
-      "http://undeadly.org/cgi?action=article;sid=20230912094727"
     ]
   ],
   [
