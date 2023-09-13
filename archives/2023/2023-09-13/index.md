@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-13](index.md)
 
+* [2023-09-13, 09:06:25](https://lobste.rs/s/ursgz0/libsodium_1_0_19_released) - [libsodium 1.0.19 released](https://github.com/jedisct1/libsodium/releases/tag/1.0.19-RELEASE)
 * [2023-09-13, 07:33:10](https://lobste.rs/s/wleo7m/importance_post_build_audits_do_you_know) - [The importance of post-build audits: Do you know what you ship?](https://www.zerocopter.com/blog-en/the-importance-of-post-build-audits-do-you-know-what-you-ship)
 * [2023-09-13, 06:54:48](https://lobste.rs/s/af2qom/trojanized_free_download_manager_found) - [Trojanized Free Download Manager found to contain a Linux backdoor](https://securelist.com/backdoored-free-download-manager-linux-malware/110465/)
 * [2023-09-13, 06:30:51](https://lobste.rs/s/kzhddu/resilient_distributed_datasets_fault) - [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](http://people.csail.mit.edu/matei/papers/2012/nsdi_spark.pdf)
