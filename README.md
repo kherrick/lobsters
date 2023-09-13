@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-13, 20:32:13](https://lobste.rs/s/urbudl/computer_science_jargon) - [Computer science jargon](https://jamesg.blog/2023/04/06/fun-with-words-cs-jargon/)
 * [2023-09-13, 20:02:27](https://lobste.rs/s/zz7age/making_colas_with_pepsi_coke_2005) - [Making COLAs with Pepsi and Coke (2005)](https://www.piumarta.com/software/cola/colas-whitepaper.pdf)
 * [2023-09-13, 19:31:53](https://lobste.rs/s/5kgw2m/pagefind_v1_0_0_stable_static_search_at) - [Pagefind v1.0.0 — Stable static search at scale](https://github.com/CloudCannon/pagefind/releases/tag/v1.0.0)
 * [2023-09-13, 19:13:32](https://lobste.rs/s/pyygpd/rails_7_1_beta_1_dockerfiles_byo) - [Rails 7.1 Beta 1: Dockerfiles, BYO Authentication, More Async Queries, and more](https://rubyonrails.org/2023/9/13/Rails-7-1-0-beta-1-has-been-released)
 * [2023-09-13, 19:13:14](https://lobste.rs/s/gxvgz7/multi_page_web_apps) - [Multi-page web apps](https://adactio.com/journal/20442)
-* [2023-09-13, 19:06:03](https://lobste.rs/s/fmauod/btrblocks_efficient_columnar) - [BtrBlocks: Efficient Columnar Compression for Data Lakes](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrblocks.pdf)
 * [2023-09-13, 16:28:05](https://lobste.rs/s/dsajql/wasi_support_go) - [WASI support in Go](https://go.dev/blog/wasi)
 * [2023-09-13, 15:23:52](https://lobste.rs/s/a4narj/jetty_12_adapter_for_clojure_ring_decade) - [The Jetty 12 Adapter for Clojure Ring, and A Decade of A Custom Ring Adapter](https://sunng.info/blog/the-jetty-12-adapter-for-clojure-ring-and-a-decade-of-a-custom-ring-adapter.html)
 * [2023-09-13, 14:40:50](https://lobste.rs/s/tghvon/rhombus_new_spin_on_macros_without_all) - [Rhombus: A New Spin on Macros Without All the Parentheses](https://gopiandcode.uk/pdfs/rhombus-oopsla23.pdf)
