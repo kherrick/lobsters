@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-13](index.md)
 
+* [2023-09-13, 19:13:32](https://lobste.rs/s/pyygpd/rails_7_1_beta_1_dockerfiles_byo) - [Rails 7.1 Beta 1: Dockerfiles, BYO Authentication, More Async Queries, and more](https://rubyonrails.org/2023/9/13/Rails-7-1-0-beta-1-has-been-released)
+* [2023-09-13, 19:13:14](https://lobste.rs/s/gxvgz7/multi_page_web_apps) - [Multi-page web apps](https://adactio.com/journal/20442)
 * [2023-09-13, 19:06:03](https://lobste.rs/s/fmauod/btrblocks_efficient_columnar) - [BtrBlocks: Efficient Columnar Compression for Data Lakes](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrblocks.pdf)
 * [2023-09-13, 18:35:16](https://lobste.rs/s/n7cc9h/password_stealing_without_hacking_wi_fi) - [Password-Stealing without Hacking: Wi-Fi Enabled Practical Keystroke Eavesdropping](https://arxiv.org/pdf/2309.03492.pdf)
 * [2023-09-13, 17:38:48](https://lobste.rs/s/qaabd9/onboarding_floating_point) - [Onboarding floating-point](https://www.altdevarts.com/p/onboarding-floating-point?r=yknp0)
