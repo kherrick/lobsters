@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-13](index.md)
 
+* [2023-09-13, 21:13:37](https://lobste.rs/s/8mkknj/skip_api_ship_your_database) - [Skip the API, Ship Your Database](https://fly.io/blog/skip-the-api/)
 * [2023-09-13, 20:32:13](https://lobste.rs/s/urbudl/computer_science_jargon) - [Computer science jargon](https://jamesg.blog/2023/04/06/fun-with-words-cs-jargon/)
 * [2023-09-13, 20:02:27](https://lobste.rs/s/zz7age/making_colas_with_pepsi_coke_2005) - [Making COLAs with Pepsi and Coke (2005)](https://www.piumarta.com/software/cola/colas-whitepaper.pdf)
 * [2023-09-13, 19:31:53](https://lobste.rs/s/5kgw2m/pagefind_v1_0_0_stable_static_search_at) - [Pagefind v1.0.0 — Stable static search at scale](https://github.com/CloudCannon/pagefind/releases/tag/v1.0.0)
