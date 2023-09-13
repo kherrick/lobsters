@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-13](index.md)
 
+* [2023-09-13, 15:28:18](https://lobste.rs/s/qkqnp6/acme_gap_introducing_anchor) - [The ACME Gap: Introducing Anchor](https://blog.anchor.dev/the-acme-gap-introducing-anchor-part-1-of-3-2466ad7e53f6)
+* [2023-09-13, 15:23:52](https://lobste.rs/s/a4narj/jetty_12_adapter_for_clojure_ring_decade) - [The Jetty 12 Adapter for Clojure Ring, and A Decade of A Custom Ring Adapter](https://sunng.info/blog/the-jetty-12-adapter-for-clojure-ring-and-a-decade-of-a-custom-ring-adapter.html)
 * [2023-09-13, 14:40:50](https://lobste.rs/s/tghvon/rhombus_new_spin_on_macros_without_all) - [Rhombus: A New Spin on Macros Without All the Parentheses](https://gopiandcode.uk/pdfs/rhombus-oopsla23.pdf)
 * [2023-09-13, 14:26:25](https://lobste.rs/s/d2jwgn/nixify_your_haskell_project) - [Nixify your haskell project: Introduction](https://zero-to-flakes.com/blog/nixify-haskell-project-intro)
 * [2023-09-13, 12:27:43](https://lobste.rs/s/hguv3m/introducing_rustrover_standalone_rust) - [Introducing RustRover – A Standalone Rust IDE by JetBrains](https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/)
