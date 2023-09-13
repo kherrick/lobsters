@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-13, 10:15:24](https://lobste.rs/s/sl52a3/comparative_analysis) - [Comparative Analysis](https://matklad.github.io/2023/09/13/comparative-analysis.html)
 * [2023-09-13, 09:55:32](https://lobste.rs/s/ouyx95/any_sufficiently_advanced_uninstaller) - [Any sufficiently advanced uninstaller is indistinguishable from malware](https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749)
 * [2023-09-13, 09:30:23](https://lobste.rs/s/zi047b/simple_data_pipeline_powertools_sqlite) - [Simple data pipeline powertools: sqlite, pandas, gnuplot and friends](https://csvbase.com/blog/5)
 * [2023-09-13, 09:06:25](https://lobste.rs/s/ursgz0/libsodium_1_0_19_released) - [libsodium 1.0.19 released](https://github.com/jedisct1/libsodium/releases/tag/1.0.19-RELEASE)
@@ -20,7 +21,6 @@
 * [2023-09-12, 14:11:26](https://lobste.rs/s/1enwcg/conditional_foreign_keys_polymorphism) - [Conditional foreign keys and polymorphism in SQL: 4 Methods](https://www.cybertec-postgresql.com/en/conditional-foreign-keys-polymorphism-in-sql/)
 * [2023-09-12, 13:54:44](https://lobste.rs/s/trvktj/apple_event_for_september_12th_2023) - [Apple Event for September 12th, 2023](https://www.apple.com/apple-events/)
 * [2023-09-12, 10:11:08](https://lobste.rs/s/rdllcf/hacking_book8088_for_better_accuracy) - [Hacking the Book8088 for Better Accuracy](https://martypc.blogspot.com/2023/09/hacking-book8088-for-better-accuracy.html)
-* [2023-09-12, 10:06:40](https://lobste.rs/s/b5gjxz/thunderbird_115_supernova_is_here) - [Thunderbird 115 \"Supernova\" Is Here](https://blog.thunderbird.net/2023/07/our-fastest-most-beautiful-release-ever-thunderbird-115-supernova-is-here/)
 * [2023-09-12, 09:51:16](https://lobste.rs/s/b5tqmm/hidden_features_firefox_2020) - [Hidden features in Firefox (2020)](https://exple.tive.org/blarg/2020/10/25/navigational-instruments/)
 * [2023-09-12, 06:42:58](https://lobste.rs/s/vg5asq/how_many_ways_can_you_slice_url_name_pieces) - [How many ways can you slice a URL and name the pieces? (2011)](https://tantek.com/2011/238/b1/many-ways-slice-url-name-pieces)
 * [2023-09-12, 05:31:00](https://lobste.rs/s/oncz0o/roots_obscure_bourne_shell_error_message) - [The roots of an obscure Bourne shell error message](https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellObscureErrorRoots)

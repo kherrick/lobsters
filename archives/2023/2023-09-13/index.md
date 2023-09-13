@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-13](index.md)
 
+* [2023-09-13, 10:15:24](https://lobste.rs/s/sl52a3/comparative_analysis) - [Comparative Analysis](https://matklad.github.io/2023/09/13/comparative-analysis.html)
 * [2023-09-13, 09:55:32](https://lobste.rs/s/ouyx95/any_sufficiently_advanced_uninstaller) - [Any sufficiently advanced uninstaller is indistinguishable from malware](https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749)
 * [2023-09-13, 09:30:23](https://lobste.rs/s/zi047b/simple_data_pipeline_powertools_sqlite) - [Simple data pipeline powertools: sqlite, pandas, gnuplot and friends](https://csvbase.com/blog/5)
 * [2023-09-13, 09:06:25](https://lobste.rs/s/ursgz0/libsodium_1_0_19_released) - [libsodium 1.0.19 released](https://github.com/jedisct1/libsodium/releases/tag/1.0.19-RELEASE)
