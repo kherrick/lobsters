@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-13, 06:30:51](https://lobste.rs/s/kzhddu/resilient_distributed_datasets_fault) - [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](http://people.csail.mit.edu/matei/papers/2012/nsdi_spark.pdf)
 * [2023-09-13, 06:23:07](https://lobste.rs/s/ul0fe1/audio_back_again) - [To Audio & Back Again](https://unascribed.com/junk/imgaudio/)
 * [2023-09-13, 05:14:41](https://lobste.rs/s/w6cze6/shape_machine) - [The Shape Of The Machine](https://exple.tive.org/blarg/2020/05/05/the-shape-of-the-machine/)
 * [2023-09-13, 04:04:11](https://lobste.rs/s/x8pexe/do_contributing_files_provide) - [Do CONTRIBUTING Files Provide Information about OSS Newcomers’ Onboarding Barriers?](https://fron.ch/preprint_fse.pdf)
@@ -23,7 +24,6 @@
 * [2023-09-12, 05:31:00](https://lobste.rs/s/oncz0o/roots_obscure_bourne_shell_error_message) - [The roots of an obscure Bourne shell error message](https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellObscureErrorRoots)
 * [2023-09-12, 00:50:50](https://lobste.rs/s/oroflm/uk_air_traffic_control_meltdown) - [UK air traffic control meltdown](https://jameshaydon.github.io/nats-fail/)
 * [2023-09-11, 18:30:50](https://lobste.rs/s/e54k9x/we_need_deterministic_installs_not_just) - [We need deterministic installs, not just immutable OS's](https://notes.volution.ro/v1/2023/09/remarks/423b80cc/)
-* [2023-09-11, 18:24:59](https://lobste.rs/s/lrdllc/veilid_peer_peer_framework) - [Veilid - peer-to-peer framework](https://veilid.com/)
 * [2023-09-11, 14:25:06](https://lobste.rs/s/2jd0t1/power_prolog) - [The power of prolog](https://www.metalevel.at/prolog/facets)
 
 ## [Archives](archives/index.md)
