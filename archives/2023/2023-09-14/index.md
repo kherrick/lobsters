@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-14](index.md)
 
+* [2023-09-14, 20:50:11](https://lobste.rs/s/3jwkro/9_ways_improve_your_log_formatting) - [9 Ways to Improve Your Log Formatting in Production](https://betterstack.com/community/guides/logging/log-formatting/)
 * [2023-09-14, 20:38:42](https://lobste.rs/s/rlhzkc/bounties_damage_open_source_projects) - [Bounties Damage Open Source Projects](https://ziglang.org/news/bounties-damage-open-source-projects/)
 * [2023-09-14, 19:29:16](https://lobste.rs/s/ezdkjv/localhost_doesn_t_need_die_except_maybe) - [Localhost doesn't need to die, except maybe with venture capital](https://danschnau.com/blog/localhost_doesnt_need_to_die)
 * [2023-09-14, 18:23:25](https://lobste.rs/s/ysaoyk/git_repository_where_do_your_files_live) - [In a git repository, where do your files live?](https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/)
