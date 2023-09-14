@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-14, 09:34:05",
+      "https://lobste.rs/s/bkgbaw/k3s_clusterduck_over_alpine_over_openbsd"
+    ],
+    [
+      "K3s clusterDuck over Alpine over OpenBSD",
+      "https://x61.ar/log/2022/09/20220926T143151-openbsd_alpine_k3s_cluster.html"
+    ]
+  ],
+  [
+    [
       "2023-09-14, 07:05:25",
       "https://lobste.rs/s/stnjk6/when_mfa_isn_t_actually_mfa"
     ],
@@ -57,16 +67,6 @@
     [
       "Kiesel Devlog #1: Now passing 25% of test262",
       "https://linus.dev/posts/kiesel-devlog-1/"
-    ]
-  ],
-  [
-    [
-      "2023-09-13, 22:28:22",
-      "https://lobste.rs/s/chufwv/what_happens_when_haskell_programmer"
-    ],
-    [
-      "What happens when a Haskell programmer writes Java",
-      "https://www.youtube.com/watch?v=bPyR1ttdE7o"
     ]
   ],
   [
