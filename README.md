@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-14, 15:13:49](https://lobste.rs/s/opk9xm/lambda_ultimate_goto) - [Lambda: The Ultimate GOTO](https://en.wikisource.org/wiki/Lambda:_The_Ultimate_GOTO)
 * [2023-09-14, 13:15:40](https://lobste.rs/s/8lw2pa/on_waiting) - [On Waiting](https://timkellogg.me/blog/2023/09/14/wu-wei)
 * [2023-09-14, 10:56:56](https://lobste.rs/s/gkwf4x/today_email_hegemony) - [Today in Email Hegemony](https://www.jwz.org/blog/2023/09/today-in-email-hegemony/)
 * [2023-09-14, 10:50:09](https://lobste.rs/s/goxx8g/nue_react_vue_vite_astro_alternative) - [Nue: A React/Vue/Vite/Astro alternative](https://nuejs.org)
@@ -21,7 +22,6 @@
 * [2023-09-13, 11:19:59](https://lobste.rs/s/kgzfi1/terraform_cloud_review) - [Terraform Cloud Review](https://matduggan.com/terraform-cloud-review/)
 * [2023-09-13, 11:17:03](https://lobste.rs/s/h95x1b/death_by_thousand_microservices) - [Death by a thousand microservices](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html)
 * [2023-09-13, 10:27:36](https://lobste.rs/s/coukxs/ghostty_some_useful_zig_patterns) - [Ghostty and Some Useful Zig Patterns](https://mitchellh.com/writing/ghostty-and-useful-zig-patterns)
-* [2023-09-13, 10:15:24](https://lobste.rs/s/sl52a3/comparative_analysis) - [Comparative Analysis](https://matklad.github.io/2023/09/13/comparative-analysis.html)
 * [2023-09-13, 09:55:32](https://lobste.rs/s/ouyx95/any_sufficiently_advanced_uninstaller) - [Any sufficiently advanced uninstaller is indistinguishable from malware](https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749)
 * [2023-09-13, 09:30:23](https://lobste.rs/s/zi047b/simple_data_pipeline_powertools_sqlite) - [Simple data pipeline powertools: sqlite, pandas, gnuplot and friends](https://csvbase.com/blog/5)
 * [2023-09-12, 18:06:36](https://lobste.rs/s/rjczwm/bcachefs_merged_into_linux_next) - [Bcachefs Merged Into Linux-Next](https://www.phoronix.com/news/Bcachefs-In-Linux-Next)

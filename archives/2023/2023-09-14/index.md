@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-14](index.md)
 
+* [2023-09-14, 15:13:49](https://lobste.rs/s/opk9xm/lambda_ultimate_goto) - [Lambda: The Ultimate GOTO](https://en.wikisource.org/wiki/Lambda:_The_Ultimate_GOTO)
 * [2023-09-14, 13:15:40](https://lobste.rs/s/8lw2pa/on_waiting) - [On Waiting](https://timkellogg.me/blog/2023/09/14/wu-wei)
 * [2023-09-14, 10:56:56](https://lobste.rs/s/gkwf4x/today_email_hegemony) - [Today in Email Hegemony](https://www.jwz.org/blog/2023/09/today-in-email-hegemony/)
 * [2023-09-14, 10:50:09](https://lobste.rs/s/goxx8g/nue_react_vue_vite_astro_alternative) - [Nue: A React/Vue/Vite/Astro alternative](https://nuejs.org)
