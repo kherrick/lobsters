@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-14, 15:42:35](https://lobste.rs/s/ellwwd/dependent_types_haskell) - [Dependent types in Haskell](https://serokell.io/blog/ghc-dependent-types-in-haskell)
 * [2023-09-14, 15:19:28](https://lobste.rs/s/co73hz/deep_dive_into_clojure_http_basics_ring) - [Deep dive into Clojure HTTP Basics: Ring, Compojure, Jetty](https://youtube.com/watch?si=Nxr7GPi7mW1OWMNU&v=dnMNBN1rqec&feature=youtu.be)
 * [2023-09-14, 15:13:49](https://lobste.rs/s/opk9xm/lambda_ultimate_goto) - [Lambda: The Ultimate GOTO](https://en.wikisource.org/wiki/Lambda:_The_Ultimate_GOTO)
 * [2023-09-14, 13:15:40](https://lobste.rs/s/8lw2pa/on_waiting) - [On Waiting](https://timkellogg.me/blog/2023/09/14/wu-wei)
@@ -14,7 +15,6 @@
 * [2023-09-14, 01:39:32](https://lobste.rs/s/brhus4/kiesel_devlog_1_now_passing_25_test262) - [Kiesel Devlog #1: Now passing 25% of test262](https://linus.dev/posts/kiesel-devlog-1/)
 * [2023-09-13, 21:13:37](https://lobste.rs/s/8mkknj/skip_api_ship_your_database) - [Skip the API, Ship Your Database](https://fly.io/blog/skip-the-api/)
 * [2023-09-13, 19:31:53](https://lobste.rs/s/5kgw2m/pagefind_v1_0_0_stable_static_search_at) - [Pagefind v1.0.0 — Stable static search at scale](https://github.com/CloudCannon/pagefind/releases/tag/v1.0.0)
-* [2023-09-13, 19:13:32](https://lobste.rs/s/pyygpd/rails_7_1_beta_1_dockerfiles_byo) - [Rails 7.1 Beta 1: Dockerfiles, BYO Authentication, More Async Queries, and more](https://rubyonrails.org/2023/9/13/Rails-7-1-0-beta-1-has-been-released)
 * [2023-09-13, 19:13:14](https://lobste.rs/s/gxvgz7/multi_page_web_apps) - [Multi-page web apps](https://adactio.com/journal/20442)
 * [2023-09-13, 16:28:05](https://lobste.rs/s/dsajql/wasi_support_go) - [WASI support in Go](https://go.dev/blog/wasi)
 * [2023-09-13, 15:23:52](https://lobste.rs/s/a4narj/jetty_12_adapter_for_clojure_ring_decade) - [The Jetty 12 Adapter for Clojure Ring, and A Decade of A Custom Ring Adapter](https://sunng.info/blog/the-jetty-12-adapter-for-clojure-ring-and-a-decade-of-a-custom-ring-adapter.html)
