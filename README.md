@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-14, 10:28:07](https://lobste.rs/s/tzbluo/goodbye_etcd_hello_postgresql_running) - [Goodbye etcd, Hello PostgreSQL: Running Kubernetes with an SQL Database](https://martinheinz.dev/blog/100)
 * [2023-09-14, 10:04:24](https://lobste.rs/s/enjbja/devops_engineer_walks_into_bar) - [A DevOps engineer walks into a bar](https://fosstodon.org/@garritfra/111062910267586307)
 * [2023-09-14, 09:34:05](https://lobste.rs/s/bkgbaw/k3s_clusterduck_over_alpine_over_openbsd) - [K3s clusterDuck over Alpine over OpenBSD](https://x61.ar/log/2022/09/20220926T143151-openbsd_alpine_k3s_cluster.html)
 * [2023-09-14, 07:05:25](https://lobste.rs/s/stnjk6/when_mfa_isn_t_actually_mfa) - [When MFA isn't actually MFA](https://retool.com/blog/mfa-isnt-mfa/)
@@ -22,7 +23,6 @@
 * [2023-09-13, 10:15:24](https://lobste.rs/s/sl52a3/comparative_analysis) - [Comparative Analysis](https://matklad.github.io/2023/09/13/comparative-analysis.html)
 * [2023-09-13, 09:55:32](https://lobste.rs/s/ouyx95/any_sufficiently_advanced_uninstaller) - [Any sufficiently advanced uninstaller is indistinguishable from malware](https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749)
 * [2023-09-13, 09:30:23](https://lobste.rs/s/zi047b/simple_data_pipeline_powertools_sqlite) - [Simple data pipeline powertools: sqlite, pandas, gnuplot and friends](https://csvbase.com/blog/5)
-* [2023-09-12, 21:24:28](https://lobste.rs/s/vokhlo/what_interns_have_wrought_2023_edition) - [What the interns have wrought, 2023 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2023/)
 * [2023-09-12, 18:06:36](https://lobste.rs/s/rjczwm/bcachefs_merged_into_linux_next) - [Bcachefs Merged Into Linux-Next](https://www.phoronix.com/news/Bcachefs-In-Linux-Next)
 * [2023-09-12, 13:54:44](https://lobste.rs/s/trvktj/apple_event_for_september_12th_2023) - [Apple Event for September 12th, 2023](https://www.apple.com/apple-events/)
 
