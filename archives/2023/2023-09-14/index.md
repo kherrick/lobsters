@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-09-14](index.md)
 
 * [2023-09-14, 10:56:56](https://lobste.rs/s/gkwf4x/today_email_hegemony) - [Today in Email Hegemony](https://www.jwz.org/blog/2023/09/today-in-email-hegemony/)
+* [2023-09-14, 10:50:09](https://lobste.rs/s/goxx8g/nue_react_vue_vite_astro_alternative) - [Nue: A React/Vue/Vite/Astro alternative](https://nuejs.org)
 * [2023-09-14, 10:50:09](https://lobste.rs/s/goxx8g/nue_powerful_react_vue_vite_astro) - [Nue -- Powerful React/Vue/Vite/Astro alternative](https://nuejs.org)
 * [2023-09-14, 10:28:07](https://lobste.rs/s/tzbluo/goodbye_etcd_hello_postgresql_running) - [Goodbye etcd, Hello PostgreSQL: Running Kubernetes with an SQL Database](https://martinheinz.dev/blog/100)
 * [2023-09-14, 10:04:24](https://lobste.rs/s/enjbja/devops_engineer_walks_into_bar) - [A DevOps engineer walks into a bar](https://fosstodon.org/@garritfra/111062910267586307)
