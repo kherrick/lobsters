@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-14, 19:29:16](https://lobste.rs/s/ezdkjv/localhost_doesn_t_need_die_except_maybe) - [Localhost doesn't need to die, except maybe with venture capital](https://danschnau.com/blog/localhost_doesnt_need_to_die)
 * [2023-09-14, 18:23:25](https://lobste.rs/s/ysaoyk/git_repository_where_do_your_files_live) - [In a git repository, where do your files live?](https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/)
 * [2023-09-14, 18:09:50](https://lobste.rs/s/ipbeec/application_operation_research) - [Application of Operation Research in Software Engineering?](https://lobste.rs/s/ipbeec/application_operation_research)
 * [2023-09-14, 15:43:45](https://lobste.rs/s/psyt6b/understanding_wasm_part_3_you_are_here) - [Understanding Wasm, Part 3: You Are Here](https://www.neversaw.us/2023/09/04/understanding-wasm/part3/you-are-here/)
 * [2023-09-14, 15:42:35](https://lobste.rs/s/ellwwd/dependent_types_haskell) - [Dependent types in Haskell](https://serokell.io/blog/ghc-dependent-types-in-haskell)
-* [2023-09-14, 15:19:28](https://lobste.rs/s/co73hz/deep_dive_into_clojure_http_basics_ring) - [Deep dive into Clojure HTTP Basics: Ring, Compojure, Jetty](https://youtube.com/watch?si=Nxr7GPi7mW1OWMNU&v=dnMNBN1rqec&feature=youtu.be)
 * [2023-09-14, 15:13:49](https://lobste.rs/s/opk9xm/lambda_ultimate_goto) - [Lambda: The Ultimate GOTO](https://en.wikisource.org/wiki/Lambda:_The_Ultimate_GOTO)
 * [2023-09-14, 13:15:40](https://lobste.rs/s/8lw2pa/on_waiting) - [On Waiting](https://timkellogg.me/blog/2023/09/14/wu-wei)
 * [2023-09-14, 10:56:56](https://lobste.rs/s/gkwf4x/today_email_hegemony) - [Today in Email Hegemony](https://www.jwz.org/blog/2023/09/today-in-email-hegemony/)

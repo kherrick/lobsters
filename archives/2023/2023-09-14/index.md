@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-14](index.md)
 
+* [2023-09-14, 19:29:16](https://lobste.rs/s/ezdkjv/localhost_doesn_t_need_die_except_maybe) - [Localhost doesn't need to die, except maybe with venture capital](https://danschnau.com/blog/localhost_doesnt_need_to_die)
 * [2023-09-14, 18:23:25](https://lobste.rs/s/ysaoyk/git_repository_where_do_your_files_live) - [In a git repository, where do your files live?](https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/)
 * [2023-09-14, 18:09:50](https://lobste.rs/s/ipbeec/application_operation_research) - [Application of Operation Research in Software Engineering?](https://lobste.rs/s/ipbeec/application_operation_research)
 * [2023-09-14, 17:48:30](https://lobste.rs/s/keot20/make_member_function_const_global) - [Make Member Function const and Global Function Static in Visual Studio](https://devblogs.microsoft.com/cppblog/make-member-function-const-and-global-function-static-in-visual-studio/)
