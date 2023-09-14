@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-14, 10:28:07",
+      "https://lobste.rs/s/tzbluo/goodbye_etcd_hello_postgresql_running"
+    ],
+    [
+      "Goodbye etcd, Hello PostgreSQL: Running Kubernetes with an SQL Database",
+      "https://martinheinz.dev/blog/100"
+    ]
+  ],
+  [
+    [
       "2023-09-14, 10:04:24",
       "https://lobste.rs/s/enjbja/devops_engineer_walks_into_bar"
     ],
@@ -217,16 +227,6 @@
     [
       "Simple data pipeline powertools: sqlite, pandas, gnuplot and friends",
       "https://csvbase.com/blog/5"
-    ]
-  ],
-  [
-    [
-      "2023-09-12, 21:24:28",
-      "https://lobste.rs/s/vokhlo/what_interns_have_wrought_2023_edition"
-    ],
-    [
-      "What the interns have wrought, 2023 edition",
-      "https://blog.janestreet.com/what-the-interns-have-wrought-2023/"
     ]
   ],
   [
