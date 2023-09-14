@@ -20,10 +20,10 @@
 * [2023-09-14, 07:05:25](https://lobste.rs/s/stnjk6/when_mfa_isn_t_actually_mfa) - [When MFA isn't actually MFA](https://retool.com/blog/mfa-isnt-mfa/)
 * [2023-09-14, 05:33:33](https://lobste.rs/s/4r1edw/s32_unix_clock) - [s32 Unix Clock](https://www.da.vidbuchanan.co.uk/blog/unix-clock.html)
 * [2023-09-14, 05:19:10](https://lobste.rs/s/pbkry3/ai_end_programming) - [AI and the end of programming](http://bit-player.org/2023/ai-and-the-end-of-programming)
-* [2023-09-14, 02:28:40](https://lobste.rs/s/eprtpo/user_program_doing_intense_io_can) - [A user program doing intense IO can manifest as high system CPU time](https://utcc.utoronto.ca/~cks/space/blog/linux/UserIOCanBeSystemTime)
 * [2023-09-13, 19:31:53](https://lobste.rs/s/5kgw2m/pagefind_v1_0_0_stable_static_search_at) - [Pagefind v1.0.0 — Stable static search at scale](https://github.com/CloudCannon/pagefind/releases/tag/v1.0.0)
 * [2023-09-13, 19:13:14](https://lobste.rs/s/gxvgz7/multi_page_web_apps) - [Multi-page web apps](https://adactio.com/journal/20442)
 * [2023-09-13, 12:27:43](https://lobste.rs/s/hguv3m/introducing_rustrover_standalone_rust) - [Introducing RustRover – A Standalone Rust IDE by JetBrains](https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/)
+* [2023-09-13, 10:27:36](https://lobste.rs/s/coukxs/ghostty_some_useful_zig_patterns) - [Ghostty and Some Useful Zig Patterns](https://mitchellh.com/writing/ghostty-and-useful-zig-patterns)
 * [2023-09-13, 09:55:32](https://lobste.rs/s/ouyx95/any_sufficiently_advanced_uninstaller) - [Any sufficiently advanced uninstaller is indistinguishable from malware](https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749)
 
 ## [Archives](archives/index.md)
