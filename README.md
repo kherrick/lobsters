@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-14, 03:38:59](https://lobste.rs/s/9zylas/on_road_kde_plasma_6_vol) - [On the Road to KDE Plasma 6, Vol. Ⅲ](https://blog.broulik.de/2023/09/on-the-road-to-plasma-6-vol-%e2%85%b2/)
 * [2023-09-14, 02:28:40](https://lobste.rs/s/eprtpo/user_program_doing_intense_io_can) - [A user program doing intense IO can manifest as high system CPU time](https://utcc.utoronto.ca/~cks/space/blog/linux/UserIOCanBeSystemTime)
 * [2023-09-14, 01:39:32](https://lobste.rs/s/brhus4/kiesel_devlog_1_now_passing_25_test262) - [Kiesel Devlog #1: Now passing 25% of test262](https://linus.dev/posts/kiesel-devlog-1/)
 * [2023-09-13, 22:28:22](https://lobste.rs/s/chufwv/what_happens_when_haskell_programmer) - [What happens when a Haskell programmer writes Java](https://www.youtube.com/watch?v=bPyR1ttdE7o)
@@ -19,7 +20,6 @@
 * [2023-09-13, 09:55:32](https://lobste.rs/s/ouyx95/any_sufficiently_advanced_uninstaller) - [Any sufficiently advanced uninstaller is indistinguishable from malware](https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749)
 * [2023-09-13, 09:30:23](https://lobste.rs/s/zi047b/simple_data_pipeline_powertools_sqlite) - [Simple data pipeline powertools: sqlite, pandas, gnuplot and friends](https://csvbase.com/blog/5)
 * [2023-09-13, 06:54:48](https://lobste.rs/s/af2qom/trojanized_free_download_manager_found) - [Trojanized Free Download Manager found to contain a Linux backdoor](https://securelist.com/backdoored-free-download-manager-linux-malware/110465/)
-* [2023-09-13, 02:38:56](https://lobste.rs/s/gmtken/haiku_activity_contract_report_august) - [Haiku Activity & Contract Report, August 2023](https://www.haiku-os.org/blog/waddlesplash/2023-09-12_haiku_activity_contract_report_august_2023/)
 * [2023-09-12, 21:48:13](https://lobste.rs/s/lblyy8/endbasic) - [EndBASIC](https://www.endbasic.dev/)
 * [2023-09-12, 21:24:28](https://lobste.rs/s/vokhlo/what_interns_have_wrought_2023_edition) - [What the interns have wrought, 2023 edition](https://blog.janestreet.com/what-the-interns-have-wrought-2023/)
 * [2023-09-12, 18:06:36](https://lobste.rs/s/rjczwm/bcachefs_merged_into_linux_next) - [Bcachefs Merged Into Linux-Next](https://www.phoronix.com/news/Bcachefs-In-Linux-Next)
