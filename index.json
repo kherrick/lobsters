@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-14, 18:23:25",
+      "https://lobste.rs/s/ysaoyk/git_repository_where_do_your_files_live"
+    ],
+    [
+      "In a git repository, where do your files live?",
+      "https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/"
+    ]
+  ],
+  [
+    [
       "2023-09-14, 18:09:50",
       "https://lobste.rs/s/ipbeec/application_operation_research"
     ],
@@ -217,16 +227,6 @@
     [
       "Introducing RustRover – A Standalone Rust IDE by JetBrains",
       "https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/"
-    ]
-  ],
-  [
-    [
-      "2023-09-13, 11:19:59",
-      "https://lobste.rs/s/kgzfi1/terraform_cloud_review"
-    ],
-    [
-      "Terraform Cloud Review",
-      "https://matduggan.com/terraform-cloud-review/"
     ]
   ],
   [
