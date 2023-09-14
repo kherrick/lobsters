@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-14](index.md)
 
+* [2023-09-14, 10:56:56](https://lobste.rs/s/gkwf4x/today_email_hegemony) - [Today in Email Hegemony](https://www.jwz.org/blog/2023/09/today-in-email-hegemony/)
+* [2023-09-14, 10:50:09](https://lobste.rs/s/goxx8g/nue_powerful_react_vue_vite_astro) - [Nue -- Powerful React/Vue/Vite/Astro alternative](https://nuejs.org)
 * [2023-09-14, 10:28:07](https://lobste.rs/s/tzbluo/goodbye_etcd_hello_postgresql_running) - [Goodbye etcd, Hello PostgreSQL: Running Kubernetes with an SQL Database](https://martinheinz.dev/blog/100)
 * [2023-09-14, 10:04:24](https://lobste.rs/s/enjbja/devops_engineer_walks_into_bar) - [A DevOps engineer walks into a bar](https://fosstodon.org/@garritfra/111062910267586307)
 * [2023-09-14, 09:34:05](https://lobste.rs/s/bkgbaw/k3s_clusterduck_over_alpine_over_openbsd) - [K3s clusterDuck over Alpine over OpenBSD](https://x61.ar/log/2022/09/20220926T143151-openbsd_alpine_k3s_cluster.html)
