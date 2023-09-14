@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-14, 20:38:42",
+      "https://lobste.rs/s/rlhzkc/bounties_damage_open_source_projects"
+    ],
+    [
+      "Bounties Damage Open Source Projects",
+      "https://ziglang.org/news/bounties-damage-open-source-projects/"
+    ]
+  ],
+  [
+    [
       "2023-09-14, 19:29:16",
       "https://lobste.rs/s/ezdkjv/localhost_doesn_t_need_die_except_maybe"
     ],
@@ -187,16 +197,6 @@
     [
       "Multi-page web apps",
       "https://adactio.com/journal/20442"
-    ]
-  ],
-  [
-    [
-      "2023-09-13, 16:28:05",
-      "https://lobste.rs/s/dsajql/wasi_support_go"
-    ],
-    [
-      "WASI support in Go",
-      "https://go.dev/blog/wasi"
     ]
   ],
   [
