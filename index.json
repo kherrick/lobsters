@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-14, 15:42:35",
+      "https://lobste.rs/s/ellwwd/dependent_types_haskell"
+    ],
+    [
+      "Dependent types in Haskell",
+      "https://serokell.io/blog/ghc-dependent-types-in-haskell"
+    ]
+  ],
+  [
+    [
       "2023-09-14, 15:19:28",
       "https://lobste.rs/s/co73hz/deep_dive_into_clojure_http_basics_ring"
     ],
@@ -137,16 +147,6 @@
     [
       "Pagefind v1.0.0 — Stable static search at scale",
       "https://github.com/CloudCannon/pagefind/releases/tag/v1.0.0"
-    ]
-  ],
-  [
-    [
-      "2023-09-13, 19:13:32",
-      "https://lobste.rs/s/pyygpd/rails_7_1_beta_1_dockerfiles_byo"
-    ],
-    [
-      "Rails 7.1 Beta 1: Dockerfiles, BYO Authentication, More Async Queries, and more",
-      "https://rubyonrails.org/2023/9/13/Rails-7-1-0-beta-1-has-been-released"
     ]
   ],
   [
