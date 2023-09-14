@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-14, 05:19:10](https://lobste.rs/s/pbkry3/ai_end_programming) - [AI and the end of programming](http://bit-player.org/2023/ai-and-the-end-of-programming)
 * [2023-09-14, 03:38:59](https://lobste.rs/s/9zylas/on_road_kde_plasma_6_vol) - [On the Road to KDE Plasma 6, Vol. Ⅲ](https://blog.broulik.de/2023/09/on-the-road-to-plasma-6-vol-%e2%85%b2/)
 * [2023-09-14, 02:28:40](https://lobste.rs/s/eprtpo/user_program_doing_intense_io_can) - [A user program doing intense IO can manifest as high system CPU time](https://utcc.utoronto.ca/~cks/space/blog/linux/UserIOCanBeSystemTime)
 * [2023-09-14, 01:39:32](https://lobste.rs/s/brhus4/kiesel_devlog_1_now_passing_25_test262) - [Kiesel Devlog #1: Now passing 25% of test262](https://linus.dev/posts/kiesel-devlog-1/)
-* [2023-09-13, 22:28:22](https://lobste.rs/s/chufwv/what_happens_when_haskell_programmer) - [What happens when a Haskell programmer writes Java](https://www.youtube.com/watch?v=bPyR1ttdE7o)
 * [2023-09-13, 21:13:37](https://lobste.rs/s/8mkknj/skip_api_ship_your_database) - [Skip the API, Ship Your Database](https://fly.io/blog/skip-the-api/)
 * [2023-09-13, 19:31:53](https://lobste.rs/s/5kgw2m/pagefind_v1_0_0_stable_static_search_at) - [Pagefind v1.0.0 — Stable static search at scale](https://github.com/CloudCannon/pagefind/releases/tag/v1.0.0)
 * [2023-09-13, 19:13:32](https://lobste.rs/s/pyygpd/rails_7_1_beta_1_dockerfiles_byo) - [Rails 7.1 Beta 1: Dockerfiles, BYO Authentication, More Async Queries, and more](https://rubyonrails.org/2023/9/13/Rails-7-1-0-beta-1-has-been-released)
