@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-14, 15:43:45](https://lobste.rs/s/psyt6b/understanding_wasm_part_3_you_are_here) - [Understanding Wasm, Part 3: You Are Here](https://www.neversaw.us/2023/09/04/understanding-wasm/part3/you-are-here/)
 * [2023-09-14, 15:42:35](https://lobste.rs/s/ellwwd/dependent_types_haskell) - [Dependent types in Haskell](https://serokell.io/blog/ghc-dependent-types-in-haskell)
 * [2023-09-14, 15:19:28](https://lobste.rs/s/co73hz/deep_dive_into_clojure_http_basics_ring) - [Deep dive into Clojure HTTP Basics: Ring, Compojure, Jetty](https://youtube.com/watch?si=Nxr7GPi7mW1OWMNU&v=dnMNBN1rqec&feature=youtu.be)
 * [2023-09-14, 15:13:49](https://lobste.rs/s/opk9xm/lambda_ultimate_goto) - [Lambda: The Ultimate GOTO](https://en.wikisource.org/wiki/Lambda:_The_Ultimate_GOTO)
@@ -21,7 +22,6 @@
 * [2023-09-13, 14:40:50](https://lobste.rs/s/tghvon/rhombus_new_spin_on_macros_without_all) - [Rhombus: A New Spin on Macros Without All the Parentheses](https://gopiandcode.uk/pdfs/rhombus-oopsla23.pdf)
 * [2023-09-13, 12:27:43](https://lobste.rs/s/hguv3m/introducing_rustrover_standalone_rust) - [Introducing RustRover – A Standalone Rust IDE by JetBrains](https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/)
 * [2023-09-13, 11:19:59](https://lobste.rs/s/kgzfi1/terraform_cloud_review) - [Terraform Cloud Review](https://matduggan.com/terraform-cloud-review/)
-* [2023-09-13, 11:17:03](https://lobste.rs/s/h95x1b/death_by_thousand_microservices) - [Death by a thousand microservices](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html)
 * [2023-09-13, 10:27:36](https://lobste.rs/s/coukxs/ghostty_some_useful_zig_patterns) - [Ghostty and Some Useful Zig Patterns](https://mitchellh.com/writing/ghostty-and-useful-zig-patterns)
 * [2023-09-13, 09:55:32](https://lobste.rs/s/ouyx95/any_sufficiently_advanced_uninstaller) - [Any sufficiently advanced uninstaller is indistinguishable from malware](https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749)
 * [2023-09-13, 09:30:23](https://lobste.rs/s/zi047b/simple_data_pipeline_powertools_sqlite) - [Simple data pipeline powertools: sqlite, pandas, gnuplot and friends](https://csvbase.com/blog/5)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-14](index.md)
 
+* [2023-09-14, 15:43:45](https://lobste.rs/s/psyt6b/understanding_wasm_part_3_you_are_here) - [Understanding Wasm, Part 3: You Are Here](https://www.neversaw.us/2023/09/04/understanding-wasm/part3/you-are-here/)
 * [2023-09-14, 15:42:35](https://lobste.rs/s/ellwwd/dependent_types_haskell) - [Dependent types in Haskell](https://serokell.io/blog/ghc-dependent-types-in-haskell)
 * [2023-09-14, 15:19:28](https://lobste.rs/s/co73hz/deep_dive_into_clojure_http_basics_ring) - [Deep dive into Clojure HTTP Basics: Ring, Compojure, Jetty](https://youtube.com/watch?si=Nxr7GPi7mW1OWMNU&v=dnMNBN1rqec&feature=youtu.be)
 * [2023-09-14, 15:13:49](https://lobste.rs/s/opk9xm/lambda_ultimate_goto) - [Lambda: The Ultimate GOTO](https://en.wikisource.org/wiki/Lambda:_The_Ultimate_GOTO)
