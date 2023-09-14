@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-14, 02:28:40",
+      "https://lobste.rs/s/eprtpo/user_program_doing_intense_io_can"
+    ],
+    [
+      "A user program doing intense IO can manifest as high system CPU time",
+      "https://utcc.utoronto.ca/~cks/space/blog/linux/UserIOCanBeSystemTime"
+    ]
+  ],
+  [
+    [
       "2023-09-14, 01:39:32",
       "https://lobste.rs/s/brhus4/kiesel_devlog_1_now_passing_25_test262"
     ],
@@ -177,16 +187,6 @@
     [
       "Trojanized Free Download Manager found to contain a Linux backdoor",
       "https://securelist.com/backdoored-free-download-manager-linux-malware/110465/"
-    ]
-  ],
-  [
-    [
-      "2023-09-13, 06:23:07",
-      "https://lobste.rs/s/ul0fe1/audio_back_again"
-    ],
-    [
-      "To Audio & Back Again",
-      "https://unascribed.com/junk/imgaudio/"
     ]
   ],
   [
