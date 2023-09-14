@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-14](index.md)
 
+* [2023-09-14, 10:04:24](https://lobste.rs/s/enjbja/devops_engineer_walks_into_bar) - [A DevOps engineer walks into a bar](https://fosstodon.org/@garritfra/111062910267586307)
 * [2023-09-14, 09:34:05](https://lobste.rs/s/bkgbaw/k3s_clusterduck_over_alpine_over_openbsd) - [K3s clusterDuck over Alpine over OpenBSD](https://x61.ar/log/2022/09/20220926T143151-openbsd_alpine_k3s_cluster.html)
 * [2023-09-14, 07:05:25](https://lobste.rs/s/stnjk6/when_mfa_isn_t_actually_mfa) - [When MFA isn't actually MFA](https://retool.com/blog/mfa-isnt-mfa/)
 * [2023-09-14, 05:33:33](https://lobste.rs/s/4r1edw/s32_unix_clock) - [s32 Unix Clock](https://www.da.vidbuchanan.co.uk/blog/unix-clock.html)
