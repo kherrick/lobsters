@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-09-14, 17:48:30",
-      "https://lobste.rs/s/keot20/make_member_function_const_global"
-    ],
-    [
-      "Make Member Function const and Global Function Static in Visual Studio",
-      "https://devblogs.microsoft.com/cppblog/make-member-function-const-and-global-function-static-in-visual-studio/"
-    ]
-  ],
-  [
-    [
       "2023-09-14, 15:43:45",
       "https://lobste.rs/s/psyt6b/understanding_wasm_part_3_you_are_here"
     ],
@@ -227,6 +217,16 @@
     [
       "Terraform Cloud Review",
       "https://matduggan.com/terraform-cloud-review/"
+    ]
+  ],
+  [
+    [
+      "2023-09-13, 11:17:03",
+      "https://lobste.rs/s/h95x1b/death_by_thousand_microservices"
+    ],
+    [
+      "Death by a thousand microservices",
+      "https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html"
     ]
   ],
   [
