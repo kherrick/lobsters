@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-14](index.md)
 
+* [2023-09-14, 21:55:16](https://lobste.rs/s/m6oqur/project_oberon_new_edition_2013) - [Project Oberon (New Edition 2013)](https://people.inf.ethz.ch/wirth/ProjectOberon/)
 * [2023-09-14, 21:27:48](https://lobste.rs/s/fsoprt/from_terminal_output_arbitrary_remote) - [From Terminal Output to Arbitrary Remote Code Execution](https://blog.solidsnail.com/posts/2023-08-28-iterm2-rce)
 * [2023-09-14, 21:25:51](https://lobste.rs/s/patml3/uncursing_ncurses_memory_corruption) - [Uncursing the ncurses: Memory corruption vulnerabilities found in library](https://www.microsoft.com/en-us/security/blog/2023/09/14/uncursing-the-ncurses-memory-corruption-vulnerabilities-found-in-library/)
 * [2023-09-14, 20:58:44](https://lobste.rs/s/5ikx9g/simplify_move_code_into_database) - [Simplify: move code into database functions (2015)](https://sive.rs/pg)
