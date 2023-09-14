@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-14](index.md)
 
+* [2023-09-14, 15:19:28](https://lobste.rs/s/co73hz/deep_dive_into_clojure_http_basics_ring) - [Deep dive into Clojure HTTP Basics: Ring, Compojure, Jetty](https://youtube.com/watch?si=Nxr7GPi7mW1OWMNU&v=dnMNBN1rqec&feature=youtu.be)
 * [2023-09-14, 15:13:49](https://lobste.rs/s/opk9xm/lambda_ultimate_goto) - [Lambda: The Ultimate GOTO](https://en.wikisource.org/wiki/Lambda:_The_Ultimate_GOTO)
 * [2023-09-14, 13:15:40](https://lobste.rs/s/8lw2pa/on_waiting) - [On Waiting](https://timkellogg.me/blog/2023/09/14/wu-wei)
 * [2023-09-14, 10:56:56](https://lobste.rs/s/gkwf4x/today_email_hegemony) - [Today in Email Hegemony](https://www.jwz.org/blog/2023/09/today-in-email-hegemony/)
