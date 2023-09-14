@@ -22,9 +22,9 @@
 * [2023-09-13, 14:40:50](https://lobste.rs/s/tghvon/rhombus_new_spin_on_macros_without_all) - [Rhombus: A New Spin on Macros Without All the Parentheses](https://gopiandcode.uk/pdfs/rhombus-oopsla23.pdf)
 * [2023-09-13, 12:27:43](https://lobste.rs/s/hguv3m/introducing_rustrover_standalone_rust) - [Introducing RustRover – A Standalone Rust IDE by JetBrains](https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/)
 * [2023-09-13, 11:19:59](https://lobste.rs/s/kgzfi1/terraform_cloud_review) - [Terraform Cloud Review](https://matduggan.com/terraform-cloud-review/)
+* [2023-09-13, 11:17:03](https://lobste.rs/s/h95x1b/death_by_thousand_microservices) - [Death by a thousand microservices](https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html)
 * [2023-09-13, 10:27:36](https://lobste.rs/s/coukxs/ghostty_some_useful_zig_patterns) - [Ghostty and Some Useful Zig Patterns](https://mitchellh.com/writing/ghostty-and-useful-zig-patterns)
 * [2023-09-13, 09:55:32](https://lobste.rs/s/ouyx95/any_sufficiently_advanced_uninstaller) - [Any sufficiently advanced uninstaller is indistinguishable from malware](https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749)
-* [2023-09-13, 09:30:23](https://lobste.rs/s/zi047b/simple_data_pipeline_powertools_sqlite) - [Simple data pipeline powertools: sqlite, pandas, gnuplot and friends](https://csvbase.com/blog/5)
 
 ## [Archives](archives/index.md)
 
