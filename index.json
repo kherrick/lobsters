@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-14, 10:04:24",
+      "https://lobste.rs/s/enjbja/devops_engineer_walks_into_bar"
+    ],
+    [
+      "A DevOps engineer walks into a bar",
+      "https://fosstodon.org/@garritfra/111062910267586307"
+    ]
+  ],
+  [
+    [
       "2023-09-14, 09:34:05",
       "https://lobste.rs/s/bkgbaw/k3s_clusterduck_over_alpine_over_openbsd"
     ],
@@ -107,16 +117,6 @@
     [
       "Multi-page web apps",
       "https://adactio.com/journal/20442"
-    ]
-  ],
-  [
-    [
-      "2023-09-13, 19:06:03",
-      "https://lobste.rs/s/fmauod/btrblocks_efficient_columnar"
-    ],
-    [
-      "BtrBlocks: Efficient Columnar Compression for Data Lakes",
-      "https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrblocks.pdf"
     ]
   ],
   [
