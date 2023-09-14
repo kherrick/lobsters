@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-14](index.md)
 
+* [2023-09-14, 20:58:44](https://lobste.rs/s/5ikx9g/simplify_move_code_into_database) - [Simplify: move code into database functions (2015)](https://sive.rs/pg)
 * [2023-09-14, 20:50:11](https://lobste.rs/s/3jwkro/9_ways_improve_your_log_formatting) - [9 Ways to Improve Your Log Formatting in Production](https://betterstack.com/community/guides/logging/log-formatting/)
 * [2023-09-14, 20:38:42](https://lobste.rs/s/rlhzkc/bounties_damage_open_source_projects) - [Bounties Damage Open Source Projects](https://ziglang.org/news/bounties-damage-open-source-projects/)
 * [2023-09-14, 19:29:16](https://lobste.rs/s/ezdkjv/localhost_doesn_t_need_die_except_maybe) - [Localhost doesn't need to die, except maybe with venture capital](https://danschnau.com/blog/localhost_doesnt_need_to_die)

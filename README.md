@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-14, 20:58:44](https://lobste.rs/s/5ikx9g/simplify_move_code_into_database) - [Simplify: move code into database functions (2015)](https://sive.rs/pg)
 * [2023-09-14, 20:50:11](https://lobste.rs/s/3jwkro/9_ways_improve_your_log_formatting) - [9 Ways to Improve Your Log Formatting in Production](https://betterstack.com/community/guides/logging/log-formatting/)
 * [2023-09-14, 20:38:42](https://lobste.rs/s/rlhzkc/bounties_damage_open_source_projects) - [Bounties Damage Open Source Projects](https://ziglang.org/news/bounties-damage-open-source-projects/)
 * [2023-09-14, 19:29:16](https://lobste.rs/s/ezdkjv/localhost_doesn_t_need_die_except_maybe) - [Localhost doesn't need to die, except maybe with venture capital](https://danschnau.com/blog/localhost_doesnt_need_to_die)
@@ -21,7 +22,6 @@
 * [2023-09-13, 21:13:37](https://lobste.rs/s/8mkknj/skip_api_ship_your_database) - [Skip the API, Ship Your Database](https://fly.io/blog/skip-the-api/)
 * [2023-09-13, 19:31:53](https://lobste.rs/s/5kgw2m/pagefind_v1_0_0_stable_static_search_at) - [Pagefind v1.0.0 — Stable static search at scale](https://github.com/CloudCannon/pagefind/releases/tag/v1.0.0)
 * [2023-09-13, 19:13:14](https://lobste.rs/s/gxvgz7/multi_page_web_apps) - [Multi-page web apps](https://adactio.com/journal/20442)
-* [2023-09-13, 15:23:52](https://lobste.rs/s/a4narj/jetty_12_adapter_for_clojure_ring_decade) - [The Jetty 12 Adapter for Clojure Ring, and A Decade of A Custom Ring Adapter](https://sunng.info/blog/the-jetty-12-adapter-for-clojure-ring-and-a-decade-of-a-custom-ring-adapter.html)
 * [2023-09-13, 12:27:43](https://lobste.rs/s/hguv3m/introducing_rustrover_standalone_rust) - [Introducing RustRover – A Standalone Rust IDE by JetBrains](https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/)
 * [2023-09-13, 10:27:36](https://lobste.rs/s/coukxs/ghostty_some_useful_zig_patterns) - [Ghostty and Some Useful Zig Patterns](https://mitchellh.com/writing/ghostty-and-useful-zig-patterns)
 * [2023-09-13, 09:55:32](https://lobste.rs/s/ouyx95/any_sufficiently_advanced_uninstaller) - [Any sufficiently advanced uninstaller is indistinguishable from malware](https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749)
