@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-14, 23:27:55",
+      "https://lobste.rs/s/m9ivcf/we_turned_lobste_rs_into_rails_benchmark"
+    ],
+    [
+      "We Turned Lobste.rs into a Rails Benchmark for YJIT",
+      "https://railsatscale.com/2023-08-25-we-turned-lobsters-into-a-rails-benchmark-for-yjit/"
+    ]
+  ],
+  [
+    [
       "2023-09-14, 21:55:16",
       "https://lobste.rs/s/m6oqur/project_oberon_new_edition_2013"
     ],
@@ -227,16 +237,6 @@
     [
       "Introducing RustRover – A Standalone Rust IDE by JetBrains",
       "https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/"
-    ]
-  ],
-  [
-    [
-      "2023-09-13, 10:27:36",
-      "https://lobste.rs/s/coukxs/ghostty_some_useful_zig_patterns"
-    ],
-    [
-      "Ghostty and Some Useful Zig Patterns",
-      "https://mitchellh.com/writing/ghostty-and-useful-zig-patterns"
     ]
   ],
   [
