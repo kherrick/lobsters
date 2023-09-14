@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-14, 21:27:48](https://lobste.rs/s/fsoprt/from_terminal_output_arbitrary_remote) - [From Terminal Output to Arbitrary Remote Code Execution](https://blog.solidsnail.com/posts/2023-08-28-iterm2-rce)
+* [2023-09-14, 21:25:51](https://lobste.rs/s/patml3/uncursing_ncurses_memory_corruption) - [Uncursing the ncurses: Memory corruption vulnerabilities found in library](https://www.microsoft.com/en-us/security/blog/2023/09/14/uncursing-the-ncurses-memory-corruption-vulnerabilities-found-in-library/)
 * [2023-09-14, 20:58:44](https://lobste.rs/s/5ikx9g/simplify_move_code_into_database) - [Simplify: move code into database functions (2015)](https://sive.rs/pg)
 * [2023-09-14, 20:50:11](https://lobste.rs/s/3jwkro/9_ways_improve_your_log_formatting) - [9 Ways to Improve Your Log Formatting in Production](https://betterstack.com/community/guides/logging/log-formatting/)
 * [2023-09-14, 20:38:42](https://lobste.rs/s/rlhzkc/bounties_damage_open_source_projects) - [Bounties Damage Open Source Projects](https://ziglang.org/news/bounties-damage-open-source-projects/)
@@ -18,8 +20,6 @@
 * [2023-09-14, 05:33:33](https://lobste.rs/s/4r1edw/s32_unix_clock) - [s32 Unix Clock](https://www.da.vidbuchanan.co.uk/blog/unix-clock.html)
 * [2023-09-14, 05:19:10](https://lobste.rs/s/pbkry3/ai_end_programming) - [AI and the end of programming](http://bit-player.org/2023/ai-and-the-end-of-programming)
 * [2023-09-14, 02:28:40](https://lobste.rs/s/eprtpo/user_program_doing_intense_io_can) - [A user program doing intense IO can manifest as high system CPU time](https://utcc.utoronto.ca/~cks/space/blog/linux/UserIOCanBeSystemTime)
-* [2023-09-14, 01:39:32](https://lobste.rs/s/brhus4/kiesel_devlog_1_now_passing_25_test262) - [Kiesel Devlog #1: Now passing 25% of test262](https://linus.dev/posts/kiesel-devlog-1/)
-* [2023-09-13, 21:13:37](https://lobste.rs/s/8mkknj/skip_api_ship_your_database) - [Skip the API, Ship Your Database](https://fly.io/blog/skip-the-api/)
 * [2023-09-13, 19:31:53](https://lobste.rs/s/5kgw2m/pagefind_v1_0_0_stable_static_search_at) - [Pagefind v1.0.0 — Stable static search at scale](https://github.com/CloudCannon/pagefind/releases/tag/v1.0.0)
 * [2023-09-13, 19:13:14](https://lobste.rs/s/gxvgz7/multi_page_web_apps) - [Multi-page web apps](https://adactio.com/journal/20442)
 * [2023-09-13, 12:27:43](https://lobste.rs/s/hguv3m/introducing_rustrover_standalone_rust) - [Introducing RustRover – A Standalone Rust IDE by JetBrains](https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/)
