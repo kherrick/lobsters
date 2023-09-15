@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-09-15, 15:45:50",
-      "https://lobste.rs/s/vfqtx1/huh_as_signal"
-    ],
-    [
-      "Huh! as a signal",
-      "https://blog.danslimmon.com/2023/02/06/huh-as-a-signal/"
-    ]
-  ],
-  [
-    [
       "2023-09-15, 14:47:31",
       "https://lobste.rs/s/nxdivw/should_i_rust_should_i_go"
     ],
@@ -167,6 +157,16 @@
     [
       "Linear code is more readable",
       "https://blog.separateconcerns.com/2023-09-11-linear-code.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-15, 01:54:48",
+      "https://lobste.rs/s/twvnmn/cve_2023_38146_arbitrary_code_execution"
+    ],
+    [
+      "CVE-2023-38146: Arbitrary Code Execution via Windows Themes",
+      "https://exploits.forsale/themebleed/"
     ]
   ],
   [
