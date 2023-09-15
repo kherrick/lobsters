@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 12:33:09](https://lobste.rs/s/kdwrix/making_nixos_modules_for_fun_hopefully) - [Making NixOS modules for fun and (hopefully) profit](https://xeiaso.net/talks/asg-2023-nixos)
 * [2023-09-15, 12:25:06](https://lobste.rs/s/xvkg7s/findmycat_open_source_pet_tracker) - [FindMyCat - The Open-Source Pet Tracker](https://findmycat.io)
 * [2023-09-15, 12:08:32](https://lobste.rs/s/d7gu9j/modern_authorization_systems) - [Modern Authorization Systems](https://authzed.com/blog/authz-primer)
 * [2023-09-15, 11:29:11](https://lobste.rs/s/97v3bo/crap_wasmtoy) - [Crap: WASMtoy](https://c0de517e.com/004_wasmtoy.htm)
