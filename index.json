@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-15, 17:17:15",
+      "https://lobste.rs/s/jmemvd/understanding_origins_evolution_vi_vim"
+    ],
+    [
+      "Understanding the Origins and the Evolution of Vi & Vim",
+      "https://pikuma.com/blog/origins-of-vim-text-editor"
+    ]
+  ],
+  [
+    [
       "2023-09-15, 14:47:31",
       "https://lobste.rs/s/nxdivw/should_i_rust_should_i_go"
     ],
@@ -157,16 +167,6 @@
     [
       "Linear code is more readable",
       "https://blog.separateconcerns.com/2023-09-11-linear-code.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-15, 01:54:48",
-      "https://lobste.rs/s/twvnmn/cve_2023_38146_arbitrary_code_execution"
-    ],
-    [
-      "CVE-2023-38146: Arbitrary Code Execution via Windows Themes",
-      "https://exploits.forsale/themebleed/"
     ]
   ],
   [
