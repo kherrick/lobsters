@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-15, 00:32:30",
+      "https://lobste.rs/s/vnwhrx/localhost_will_inevitably_die"
+    ],
+    [
+      "Localhost will inevitably die",
+      "https://lucasfcosta.com/2023/09/11/localhost-will-die.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-15, 00:30:39",
+      "https://lobste.rs/s/ukurl9/my_little_milliondollarhomepage_garden"
+    ],
+    [
+      "My little MillionDollarHomepage garden",
+      "https://matthieu.io/blog/2023/09/13/million-dollar-homepage-garden/"
+    ]
+  ],
+  [
+    [
       "2023-09-14, 23:27:55",
       "https://lobste.rs/s/m9ivcf/we_turned_lobste_rs_into_rails_benchmark"
     ],
@@ -67,16 +87,6 @@
     [
       "Bounties Damage Open Source Projects",
       "https://ziglang.org/news/bounties-damage-open-source-projects/"
-    ]
-  ],
-  [
-    [
-      "2023-09-14, 19:29:16",
-      "https://lobste.rs/s/ezdkjv/localhost_doesn_t_need_die_except_maybe"
-    ],
-    [
-      "Localhost doesn't need to die, except maybe with venture capital",
-      "https://danschnau.com/blog/localhost_doesnt_need_to_die"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Introducing RustRover – A Standalone Rust IDE by JetBrains",
       "https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/"
-    ]
-  ],
-  [
-    [
-      "2023-09-13, 09:55:32",
-      "https://lobste.rs/s/ouyx95/any_sufficiently_advanced_uninstaller"
-    ],
-    [
-      "Any sufficiently advanced uninstaller is indistinguishable from malware",
-      "https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749"
     ]
   ]
 ]
