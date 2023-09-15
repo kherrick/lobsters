@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 09:59:35](https://lobste.rs/s/rjkiqf/on_impending_crypto_monoculture_2016) - [On the Impending Crypto Monoculture (2016)](https://www.metzdowd.com/pipermail/cryptography/2016-March/028824.html)
 * [2023-09-15, 08:41:49](https://lobste.rs/s/1sewnq/marginalia_search_receives_futo_grant) - [Marginalia Search receives FUTO Grant](https://www.marginalia.nu/log/88-futo-grant/)
 * [2023-09-15, 08:36:50](https://lobste.rs/s/py94bo/postgresql_16_released) - [PostgreSQL 16 Released](https://www.postgresql.org/about/news/postgresql-16-released-2715/)
 * [2023-09-15, 07:16:02](https://lobste.rs/s/ijrfut/why_how_does_cpython_use_bloom_filters) - [Why and How Does CPython Use Bloom Filters in String Processing?](https://codeconfessions.substack.com/p/cpython-bloom-filter-usage)
