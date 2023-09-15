@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-15, 06:47:27](https://lobste.rs/s/lwvf64/go_perf_meetup_1) - [Go-perf meetup #1](https://go-perf.dev/go-perf-meetup-1)
 * [2023-09-15, 04:35:20](https://lobste.rs/s/rmflog/intertwingling_tiddlywiki_with_erlang) - [Intertwingling the Tiddlywiki with Erlang (2018)](https://www.youtube.com/watch?v=Uv1UfLPK7_Q)
 * [2023-09-15, 03:10:55](https://lobste.rs/s/udgtcx/linear_code_is_more_readable) - [Linear code is more readable](https://blog.separateconcerns.com/2023-09-11-linear-code.html)
 * [2023-09-15, 01:54:48](https://lobste.rs/s/twvnmn/cve_2023_38146_arbitrary_code_execution) - [CVE-2023-38146: Arbitrary Code Execution via Windows Themes](https://exploits.forsale/themebleed/)
@@ -21,7 +22,6 @@
 * [2023-09-14, 10:28:07](https://lobste.rs/s/tzbluo/goodbye_etcd_hello_postgresql_running) - [Goodbye etcd, Hello PostgreSQL: Running Kubernetes with an SQL Database](https://martinheinz.dev/blog/100)
 * [2023-09-14, 09:34:05](https://lobste.rs/s/bkgbaw/k3s_clusterduck_over_alpine_over_openbsd) - [K3s clusterDuck over Alpine over OpenBSD](https://x61.ar/log/2022/09/20220926T143151-openbsd_alpine_k3s_cluster.html)
 * [2023-09-14, 07:05:25](https://lobste.rs/s/stnjk6/when_mfa_isn_t_actually_mfa) - [When MFA isn't actually MFA](https://retool.com/blog/mfa-isnt-mfa/)
-* [2023-09-14, 05:33:33](https://lobste.rs/s/4r1edw/s32_unix_clock) - [s32 Unix Clock](https://www.da.vidbuchanan.co.uk/blog/unix-clock.html)
 * [2023-09-14, 05:19:10](https://lobste.rs/s/pbkry3/ai_end_programming) - [AI and the end of programming](http://bit-player.org/2023/ai-and-the-end-of-programming)
 * [2023-09-13, 19:31:53](https://lobste.rs/s/5kgw2m/pagefind_v1_0_0_stable_static_search_at) - [Pagefind v1.0.0 — Stable static search at scale](https://github.com/CloudCannon/pagefind/releases/tag/v1.0.0)
 * [2023-09-13, 12:27:43](https://lobste.rs/s/hguv3m/introducing_rustrover_standalone_rust) - [Introducing RustRover – A Standalone Rust IDE by JetBrains](https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/)

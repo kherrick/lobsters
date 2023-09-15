@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 06:47:27](https://lobste.rs/s/lwvf64/go_perf_meetup_1) - [Go-perf meetup #1](https://go-perf.dev/go-perf-meetup-1)
 * [2023-09-15, 04:35:20](https://lobste.rs/s/rmflog/intertwingling_tiddlywiki_with_erlang) - [Intertwingling the Tiddlywiki with Erlang (2018)](https://www.youtube.com/watch?v=Uv1UfLPK7_Q)
 * [2023-09-15, 03:10:55](https://lobste.rs/s/udgtcx/linear_code_is_more_readable) - [Linear code is more readable](https://blog.separateconcerns.com/2023-09-11-linear-code.html)
 * [2023-09-15, 01:54:48](https://lobste.rs/s/twvnmn/cve_2023_38146_arbitrary_code_execution) - [CVE-2023-38146: Arbitrary Code Execution via Windows Themes](https://exploits.forsale/themebleed/)
