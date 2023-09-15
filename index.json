@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-09-15, 01:47:43",
+      "https://lobste.rs/s/icbbe1/loom_s_nightmare_aws_outage_how_it_might"
+    ],
+    [
+      "Loom’s nightmare AWS outage and how it might have been prevented",
+      "https://overmind.tech/blog/looms-nightmare-aws-outage"
+    ]
+  ],
+  [
+    [
       "2023-09-15, 00:32:30",
       "https://lobste.rs/s/vnwhrx/localhost_will_inevitably_die"
     ],
@@ -237,16 +247,6 @@
     [
       "Pagefind v1.0.0 — Stable static search at scale",
       "https://github.com/CloudCannon/pagefind/releases/tag/v1.0.0"
-    ]
-  ],
-  [
-    [
-      "2023-09-13, 12:27:43",
-      "https://lobste.rs/s/hguv3m/introducing_rustrover_standalone_rust"
-    ],
-    [
-      "Introducing RustRover – A Standalone Rust IDE by JetBrains",
-      "https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/"
     ]
   ]
 ]
