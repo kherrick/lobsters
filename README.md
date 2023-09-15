@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-15, 10:16:10](https://lobste.rs/s/ggdnee/notes_on_using_single_person_mastodon) - [Notes on using a single-person Mastodon server](https://jvns.ca/blog/2023/08/11/some-notes-on-mastodon/)
+* [2023-09-15, 10:08:48](https://lobste.rs/s/eki0a0/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/eki0a0/what_are_you_doing_this_weekend)
 * [2023-09-15, 09:59:35](https://lobste.rs/s/rjkiqf/on_impending_crypto_monoculture_2016) - [On the Impending Crypto Monoculture (2016)](https://www.metzdowd.com/pipermail/cryptography/2016-March/028824.html)
 * [2023-09-15, 08:41:49](https://lobste.rs/s/1sewnq/marginalia_search_receives_futo_grant) - [Marginalia Search receives FUTO Grant](https://www.marginalia.nu/log/88-futo-grant/)
 * [2023-09-15, 08:36:50](https://lobste.rs/s/py94bo/postgresql_16_released) - [PostgreSQL 16 Released](https://www.postgresql.org/about/news/postgresql-16-released-2715/)
 * [2023-09-15, 07:16:02](https://lobste.rs/s/ijrfut/why_how_does_cpython_use_bloom_filters) - [Why and How Does CPython Use Bloom Filters in String Processing?](https://codeconfessions.substack.com/p/cpython-bloom-filter-usage)
 * [2023-09-15, 06:47:27](https://lobste.rs/s/lwvf64/go_perf_meetup_1) - [Go-perf meetup #1](https://go-perf.dev/go-perf-meetup-1)
-* [2023-09-15, 04:35:20](https://lobste.rs/s/rmflog/intertwingling_tiddlywiki_with_erlang) - [Intertwingling the Tiddlywiki with Erlang (2018)](https://www.youtube.com/watch?v=Uv1UfLPK7_Q)
 * [2023-09-15, 03:10:55](https://lobste.rs/s/udgtcx/linear_code_is_more_readable) - [Linear code is more readable](https://blog.separateconcerns.com/2023-09-11-linear-code.html)
 * [2023-09-15, 01:54:48](https://lobste.rs/s/twvnmn/cve_2023_38146_arbitrary_code_execution) - [CVE-2023-38146: Arbitrary Code Execution via Windows Themes](https://exploits.forsale/themebleed/)
 * [2023-09-15, 00:32:30](https://lobste.rs/s/vnwhrx/localhost_will_inevitably_die) - [Localhost will inevitably die](https://lucasfcosta.com/2023/09/11/localhost-will-die.html)
@@ -22,7 +23,6 @@
 * [2023-09-14, 13:15:40](https://lobste.rs/s/8lw2pa/on_waiting) - [On Waiting](https://timkellogg.me/blog/2023/09/14/wu-wei)
 * [2023-09-14, 10:56:56](https://lobste.rs/s/gkwf4x/today_email_hegemony) - [Today in Email Hegemony](https://www.jwz.org/blog/2023/09/today-in-email-hegemony/)
 * [2023-09-14, 10:50:09](https://lobste.rs/s/goxx8g/nue_react_vue_vite_astro_alternative) - [Nue: A React/Vue/Vite/Astro alternative](https://nuejs.org)
-* [2023-09-14, 10:28:07](https://lobste.rs/s/tzbluo/goodbye_etcd_hello_postgresql_running) - [Goodbye etcd, Hello PostgreSQL: Running Kubernetes with an SQL Database](https://martinheinz.dev/blog/100)
 * [2023-09-14, 05:19:10](https://lobste.rs/s/pbkry3/ai_end_programming) - [AI and the end of programming](http://bit-player.org/2023/ai-and-the-end-of-programming)
 * [2023-09-13, 19:31:53](https://lobste.rs/s/5kgw2m/pagefind_v1_0_0_stable_static_search_at) - [Pagefind v1.0.0 — Stable static search at scale](https://github.com/CloudCannon/pagefind/releases/tag/v1.0.0)
 
