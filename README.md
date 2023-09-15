@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-15, 00:32:30](https://lobste.rs/s/vnwhrx/localhost_will_inevitably_die) - [Localhost will inevitably die](https://lucasfcosta.com/2023/09/11/localhost-will-die.html)
+* [2023-09-15, 00:30:39](https://lobste.rs/s/ukurl9/my_little_milliondollarhomepage_garden) - [My little MillionDollarHomepage garden](https://matthieu.io/blog/2023/09/13/million-dollar-homepage-garden/)
 * [2023-09-14, 23:27:55](https://lobste.rs/s/m9ivcf/we_turned_lobste_rs_into_rails_benchmark) - [We Turned Lobste.rs into a Rails Benchmark for YJIT](https://railsatscale.com/2023-08-25-we-turned-lobsters-into-a-rails-benchmark-for-yjit/)
 * [2023-09-14, 21:55:16](https://lobste.rs/s/m6oqur/project_oberon_new_edition_2013) - [Project Oberon (New Edition 2013)](https://people.inf.ethz.ch/wirth/ProjectOberon/)
 * [2023-09-14, 21:27:48](https://lobste.rs/s/fsoprt/from_terminal_output_arbitrary_remote) - [From Terminal Output to Arbitrary Remote Code Execution](https://blog.solidsnail.com/posts/2023-08-28-iterm2-rce)
@@ -7,7 +9,6 @@
 * [2023-09-14, 20:58:44](https://lobste.rs/s/5ikx9g/simplify_move_code_into_database) - [Simplify: move code into database functions (2015)](https://sive.rs/pg)
 * [2023-09-14, 20:50:11](https://lobste.rs/s/3jwkro/9_ways_improve_your_log_formatting) - [9 Ways to Improve Your Log Formatting in Production](https://betterstack.com/community/guides/logging/log-formatting/)
 * [2023-09-14, 20:38:42](https://lobste.rs/s/rlhzkc/bounties_damage_open_source_projects) - [Bounties Damage Open Source Projects](https://ziglang.org/news/bounties-damage-open-source-projects/)
-* [2023-09-14, 19:29:16](https://lobste.rs/s/ezdkjv/localhost_doesn_t_need_die_except_maybe) - [Localhost doesn't need to die, except maybe with venture capital](https://danschnau.com/blog/localhost_doesnt_need_to_die)
 * [2023-09-14, 18:23:25](https://lobste.rs/s/ysaoyk/git_repository_where_do_your_files_live) - [In a git repository, where do your files live?](https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/)
 * [2023-09-14, 18:09:50](https://lobste.rs/s/ipbeec/application_operation_research) - [Application of Operation Research in Software Engineering?](https://lobste.rs/s/ipbeec/application_operation_research)
 * [2023-09-14, 15:43:45](https://lobste.rs/s/psyt6b/understanding_wasm_part_3_you_are_here) - [Understanding Wasm, Part 3: You Are Here](https://www.neversaw.us/2023/09/04/understanding-wasm/part3/you-are-here/)
@@ -24,7 +25,6 @@
 * [2023-09-13, 19:31:53](https://lobste.rs/s/5kgw2m/pagefind_v1_0_0_stable_static_search_at) - [Pagefind v1.0.0 — Stable static search at scale](https://github.com/CloudCannon/pagefind/releases/tag/v1.0.0)
 * [2023-09-13, 19:13:14](https://lobste.rs/s/gxvgz7/multi_page_web_apps) - [Multi-page web apps](https://adactio.com/journal/20442)
 * [2023-09-13, 12:27:43](https://lobste.rs/s/hguv3m/introducing_rustrover_standalone_rust) - [Introducing RustRover – A Standalone Rust IDE by JetBrains](https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/)
-* [2023-09-13, 09:55:32](https://lobste.rs/s/ouyx95/any_sufficiently_advanced_uninstaller) - [Any sufficiently advanced uninstaller is indistinguishable from malware](https://devblogs.microsoft.com/oldnewthing/20230911-00/?p=108749)
 
 ## [Archives](archives/index.md)
 
