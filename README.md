@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-09-15, 15:45:50](https://lobste.rs/s/vfqtx1/huh_as_signal) - [Huh! as a signal](https://blog.danslimmon.com/2023/02/06/huh-as-a-signal/)
 * [2023-09-15, 14:47:31](https://lobste.rs/s/nxdivw/should_i_rust_should_i_go) - [Should I Rust or should I go?](https://kerkour.com/should-i-rust-or-should-i-go)
 * [2023-09-15, 13:54:02](https://lobste.rs/s/lca4xn/strange_loop_s_greatest_hits) - [Strange Loop's greatest hits](https://changelog.com/posts/strange-loops-greatest-hits)
 * [2023-09-15, 12:55:39](https://lobste.rs/s/k3tvzb/send_note_kindle) - [Send note to Kindle](https://xenodium.com/emacs-send-to-kindle/)
@@ -17,6 +16,7 @@
 * [2023-09-15, 07:16:02](https://lobste.rs/s/ijrfut/why_how_does_cpython_use_bloom_filters) - [Why and How Does CPython Use Bloom Filters in String Processing?](https://codeconfessions.substack.com/p/cpython-bloom-filter-usage)
 * [2023-09-15, 06:47:27](https://lobste.rs/s/lwvf64/go_perf_meetup_1) - [Go-perf meetup #1](https://go-perf.dev/go-perf-meetup-1)
 * [2023-09-15, 03:10:55](https://lobste.rs/s/udgtcx/linear_code_is_more_readable) - [Linear code is more readable](https://blog.separateconcerns.com/2023-09-11-linear-code.html)
+* [2023-09-15, 01:54:48](https://lobste.rs/s/twvnmn/cve_2023_38146_arbitrary_code_execution) - [CVE-2023-38146: Arbitrary Code Execution via Windows Themes](https://exploits.forsale/themebleed/)
 * [2023-09-15, 00:32:30](https://lobste.rs/s/vnwhrx/localhost_will_inevitably_die) - [Localhost will inevitably die](https://lucasfcosta.com/2023/09/11/localhost-will-die.html)
 * [2023-09-15, 00:30:39](https://lobste.rs/s/ukurl9/my_little_milliondollarhomepage_garden) - [My little MillionDollarHomepage garden](https://matthieu.io/blog/2023/09/13/million-dollar-homepage-garden/)
 * [2023-09-14, 23:27:55](https://lobste.rs/s/m9ivcf/we_turned_lobste_rs_into_rails_benchmark) - [We Turned Lobste.rs into a Rails Benchmark for YJIT](https://railsatscale.com/2023-08-25-we-turned-lobsters-into-a-rails-benchmark-for-yjit/)
