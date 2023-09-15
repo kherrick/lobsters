@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-15, 13:54:02",
+      "https://lobste.rs/s/lca4xn/strange_loop_s_greatest_hits"
+    ],
+    [
+      "Strange Loop's greatest hits",
+      "https://changelog.com/posts/strange-loops-greatest-hits"
+    ]
+  ],
+  [
+    [
       "2023-09-15, 12:55:39",
       "https://lobste.rs/s/k3tvzb/send_note_kindle"
     ],
@@ -197,16 +207,6 @@
     [
       "In a git repository, where do your files live?",
       "https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/"
-    ]
-  ],
-  [
-    [
-      "2023-09-14, 15:42:35",
-      "https://lobste.rs/s/ellwwd/dependent_types_haskell"
-    ],
-    [
-      "Dependent types in Haskell",
-      "https://serokell.io/blog/ghc-dependent-types-in-haskell"
     ]
   ],
   [
