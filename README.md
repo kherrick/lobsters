@@ -4,6 +4,7 @@
 * [2023-09-15, 04:35:20](https://lobste.rs/s/rmflog/intertwingling_tiddlywiki_with_erlang) - [Intertwingling the Tiddlywiki with Erlang (2018)](https://www.youtube.com/watch?v=Uv1UfLPK7_Q)
 * [2023-09-15, 03:10:55](https://lobste.rs/s/udgtcx/linear_code_is_more_readable) - [Linear code is more readable](https://blog.separateconcerns.com/2023-09-11-linear-code.html)
 * [2023-09-15, 01:54:48](https://lobste.rs/s/twvnmn/cve_2023_38146_arbitrary_code_execution) - [CVE-2023-38146: Arbitrary Code Execution via Windows Themes](https://exploits.forsale/themebleed/)
+* [2023-09-15, 01:47:43](https://lobste.rs/s/icbbe1/loom_s_nightmare_aws_outage_how_it_might) - [Loom’s nightmare AWS outage and how it might have been prevented](https://overmind.tech/blog/looms-nightmare-aws-outage)
 * [2023-09-15, 00:32:30](https://lobste.rs/s/vnwhrx/localhost_will_inevitably_die) - [Localhost will inevitably die](https://lucasfcosta.com/2023/09/11/localhost-will-die.html)
 * [2023-09-15, 00:30:39](https://lobste.rs/s/ukurl9/my_little_milliondollarhomepage_garden) - [My little MillionDollarHomepage garden](https://matthieu.io/blog/2023/09/13/million-dollar-homepage-garden/)
 * [2023-09-14, 23:27:55](https://lobste.rs/s/m9ivcf/we_turned_lobste_rs_into_rails_benchmark) - [We Turned Lobste.rs into a Rails Benchmark for YJIT](https://railsatscale.com/2023-08-25-we-turned-lobsters-into-a-rails-benchmark-for-yjit/)
@@ -24,7 +25,6 @@
 * [2023-09-14, 07:05:25](https://lobste.rs/s/stnjk6/when_mfa_isn_t_actually_mfa) - [When MFA isn't actually MFA](https://retool.com/blog/mfa-isnt-mfa/)
 * [2023-09-14, 05:19:10](https://lobste.rs/s/pbkry3/ai_end_programming) - [AI and the end of programming](http://bit-player.org/2023/ai-and-the-end-of-programming)
 * [2023-09-13, 19:31:53](https://lobste.rs/s/5kgw2m/pagefind_v1_0_0_stable_static_search_at) - [Pagefind v1.0.0 — Stable static search at scale](https://github.com/CloudCannon/pagefind/releases/tag/v1.0.0)
-* [2023-09-13, 12:27:43](https://lobste.rs/s/hguv3m/introducing_rustrover_standalone_rust) - [Introducing RustRover – A Standalone Rust IDE by JetBrains](https://blog.jetbrains.com/rust/2023/09/13/introducing-rustrover-a-standalone-rust-ide-by-jetbrains/)
 
 ## [Archives](archives/index.md)
 
