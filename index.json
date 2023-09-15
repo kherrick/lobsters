@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-15, 15:12:06",
+      "https://lobste.rs/s/8zaynm/build_keep_your_context_window"
+    ],
+    [
+      "Build and keep your context window",
+      "https://vickiboykis.com/2023/09/13/build-and-keep-your-context-window/"
+    ]
+  ],
+  [
+    [
       "2023-09-15, 14:47:31",
       "https://lobste.rs/s/nxdivw/should_i_rust_should_i_go"
     ],
@@ -157,16 +167,6 @@
     [
       "Linear code is more readable",
       "https://blog.separateconcerns.com/2023-09-11-linear-code.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-15, 01:54:48",
-      "https://lobste.rs/s/twvnmn/cve_2023_38146_arbitrary_code_execution"
-    ],
-    [
-      "CVE-2023-38146: Arbitrary Code Execution via Windows Themes",
-      "https://exploits.forsale/themebleed/"
     ]
   ],
   [
