@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2023-09-14, 21:27:48",
+      "https://lobste.rs/s/fsoprt/from_terminal_output_arbitrary_remote"
+    ],
+    [
+      "From Terminal Output to Arbitrary Remote Code Execution",
+      "https://blog.solidsnail.com/posts/2023-08-28-iterm2-rce"
+    ]
+  ],
+  [
+    [
       "2023-09-14, 21:25:51",
       "https://lobste.rs/s/patml3/uncursing_ncurses_memory_corruption"
     ],
@@ -137,16 +147,6 @@
     [
       "Dependent types in Haskell",
       "https://serokell.io/blog/ghc-dependent-types-in-haskell"
-    ]
-  ],
-  [
-    [
-      "2023-09-14, 15:13:49",
-      "https://lobste.rs/s/opk9xm/lambda_ultimate_goto"
-    ],
-    [
-      "Lambda: The Ultimate GOTO",
-      "https://en.wikisource.org/wiki/Lambda:_The_Ultimate_GOTO"
     ]
   ],
   [
