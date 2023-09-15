@@ -21,10 +21,10 @@
 * [2023-09-14, 23:27:55](https://lobste.rs/s/m9ivcf/we_turned_lobste_rs_into_rails_benchmark) - [We Turned Lobste.rs into a Rails Benchmark for YJIT](https://railsatscale.com/2023-08-25-we-turned-lobsters-into-a-rails-benchmark-for-yjit/)
 * [2023-09-14, 20:38:42](https://lobste.rs/s/rlhzkc/bounties_damage_open_source_projects) - [Bounties Damage Open Source Projects](https://ziglang.org/news/bounties-damage-open-source-projects/)
 * [2023-09-14, 18:23:25](https://lobste.rs/s/ysaoyk/git_repository_where_do_your_files_live) - [In a git repository, where do your files live?](https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/)
+* [2023-09-14, 15:42:35](https://lobste.rs/s/ellwwd/dependent_types_haskell) - [Dependent types in Haskell](https://serokell.io/blog/ghc-dependent-types-in-haskell)
 * [2023-09-14, 13:15:40](https://lobste.rs/s/8lw2pa/on_waiting) - [On Waiting](https://timkellogg.me/blog/2023/09/14/wu-wei)
 * [2023-09-14, 10:56:56](https://lobste.rs/s/gkwf4x/today_email_hegemony) - [Today in Email Hegemony](https://www.jwz.org/blog/2023/09/today-in-email-hegemony/)
 * [2023-09-14, 10:50:09](https://lobste.rs/s/goxx8g/nue_react_vue_vite_astro_alternative) - [Nue: A React/Vue/Vite/Astro alternative](https://nuejs.org)
-* [2023-09-13, 19:31:53](https://lobste.rs/s/5kgw2m/pagefind_v1_0_0_stable_static_search_at) - [Pagefind v1.0.0 — Stable static search at scale](https://github.com/CloudCannon/pagefind/releases/tag/v1.0.0)
 
 ## [Archives](archives/index.md)
 
