@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 08:41:49](https://lobste.rs/s/1sewnq/marginalia_search_receives_futo_grant) - [Marginalia Search receives FUTO Grant](https://www.marginalia.nu/log/88-futo-grant/)
+* [2023-09-15, 08:36:50](https://lobste.rs/s/py94bo/postgresql_16_released) - [PostgreSQL 16 Released](https://www.postgresql.org/about/news/postgresql-16-released-2715/)
 * [2023-09-15, 07:16:02](https://lobste.rs/s/ijrfut/why_how_does_cpython_use_bloom_filters) - [Why and How Does CPython Use Bloom Filters in String Processing?](https://codeconfessions.substack.com/p/cpython-bloom-filter-usage)
 * [2023-09-15, 06:47:27](https://lobste.rs/s/lwvf64/go_perf_meetup_1) - [Go-perf meetup #1](https://go-perf.dev/go-perf-meetup-1)
 * [2023-09-15, 04:35:20](https://lobste.rs/s/rmflog/intertwingling_tiddlywiki_with_erlang) - [Intertwingling the Tiddlywiki with Erlang (2018)](https://www.youtube.com/watch?v=Uv1UfLPK7_Q)
