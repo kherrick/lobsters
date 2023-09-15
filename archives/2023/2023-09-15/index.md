@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 10:27:03](https://lobste.rs/s/tpcrlo/summary_chatgpt_related_research) - [Summary of ChatGPT-Related Research and Perspective Towards the Future of LLMs](https://arxiv.org/abs/2304.01852)
 * [2023-09-15, 10:16:10](https://lobste.rs/s/ggdnee/notes_on_using_single_person_mastodon) - [Notes on using a single-person Mastodon server](https://jvns.ca/blog/2023/08/11/some-notes-on-mastodon/)
 * [2023-09-15, 10:08:48](https://lobste.rs/s/eki0a0/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/eki0a0/what_are_you_doing_this_weekend)
 * [2023-09-15, 09:59:35](https://lobste.rs/s/rjkiqf/on_impending_crypto_monoculture_2016) - [On the Impending Crypto Monoculture (2016)](https://www.metzdowd.com/pipermail/cryptography/2016-March/028824.html)

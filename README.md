@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-15, 10:27:03](https://lobste.rs/s/tpcrlo/summary_chatgpt_related_research) - [Summary of ChatGPT-Related Research and Perspective Towards the Future of LLMs](https://arxiv.org/abs/2304.01852)
 * [2023-09-15, 10:16:10](https://lobste.rs/s/ggdnee/notes_on_using_single_person_mastodon) - [Notes on using a single-person Mastodon server](https://jvns.ca/blog/2023/08/11/some-notes-on-mastodon/)
 * [2023-09-15, 10:08:48](https://lobste.rs/s/eki0a0/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/eki0a0/what_are_you_doing_this_weekend)
 * [2023-09-15, 09:59:35](https://lobste.rs/s/rjkiqf/on_impending_crypto_monoculture_2016) - [On the Impending Crypto Monoculture (2016)](https://www.metzdowd.com/pipermail/cryptography/2016-March/028824.html)
@@ -14,7 +15,6 @@
 * [2023-09-14, 23:27:55](https://lobste.rs/s/m9ivcf/we_turned_lobste_rs_into_rails_benchmark) - [We Turned Lobste.rs into a Rails Benchmark for YJIT](https://railsatscale.com/2023-08-25-we-turned-lobsters-into-a-rails-benchmark-for-yjit/)
 * [2023-09-14, 21:55:16](https://lobste.rs/s/m6oqur/project_oberon_new_edition_2013) - [Project Oberon (New Edition 2013)](https://people.inf.ethz.ch/wirth/ProjectOberon/)
 * [2023-09-14, 21:25:51](https://lobste.rs/s/patml3/uncursing_ncurses_memory_corruption) - [Uncursing the ncurses: Memory corruption vulnerabilities found in library](https://www.microsoft.com/en-us/security/blog/2023/09/14/uncursing-the-ncurses-memory-corruption-vulnerabilities-found-in-library/)
-* [2023-09-14, 20:58:44](https://lobste.rs/s/5ikx9g/simplify_move_code_into_database) - [Simplify: move code into database functions (2015)](https://sive.rs/pg)
 * [2023-09-14, 20:38:42](https://lobste.rs/s/rlhzkc/bounties_damage_open_source_projects) - [Bounties Damage Open Source Projects](https://ziglang.org/news/bounties-damage-open-source-projects/)
 * [2023-09-14, 18:23:25](https://lobste.rs/s/ysaoyk/git_repository_where_do_your_files_live) - [In a git repository, where do your files live?](https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/)
 * [2023-09-14, 18:09:50](https://lobste.rs/s/ipbeec/application_operation_research) - [Application of Operation Research in Software Engineering?](https://lobste.rs/s/ipbeec/application_operation_research)
