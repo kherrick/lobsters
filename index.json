@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-15, 12:33:09",
+      "https://lobste.rs/s/kdwrix/making_nixos_modules_for_fun_hopefully"
+    ],
+    [
+      "Making NixOS modules for fun and (hopefully) profit",
+      "https://xeiaso.net/talks/asg-2023-nixos"
+    ]
+  ],
+  [
+    [
       "2023-09-15, 12:25:06",
       "https://lobste.rs/s/xvkg7s/findmycat_open_source_pet_tracker"
     ],
@@ -27,16 +37,6 @@
     [
       "Crap: WASMtoy",
       "https://c0de517e.com/004_wasmtoy.htm"
-    ]
-  ],
-  [
-    [
-      "2023-09-15, 10:27:03",
-      "https://lobste.rs/s/tpcrlo/summary_chatgpt_related_research"
-    ],
-    [
-      "Summary of ChatGPT-Related Research and Perspective Towards the Future of LLMs",
-      "https://arxiv.org/abs/2304.01852"
     ]
   ],
   [
