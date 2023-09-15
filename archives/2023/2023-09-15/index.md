@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-15](index.md)
 
+* [2023-09-15, 14:47:31](https://lobste.rs/s/nxdivw/should_i_rust_should_i_go) - [Should I Rust or should I go?](https://kerkour.com/should-i-rust-or-should-i-go)
 * [2023-09-15, 13:54:02](https://lobste.rs/s/lca4xn/strange_loop_s_greatest_hits) - [Strange Loop's greatest hits](https://changelog.com/posts/strange-loops-greatest-hits)
 * [2023-09-15, 12:55:39](https://lobste.rs/s/k3tvzb/send_note_kindle) - [Send note to Kindle](https://xenodium.com/emacs-send-to-kindle/)
 * [2023-09-15, 12:54:49](https://lobste.rs/s/zd92th/truthiness_c) - [Truthiness in C](https://dxuuu.xyz/casts.html)
