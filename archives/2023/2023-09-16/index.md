@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-16](index.md)
 
+* [2023-09-16, 20:59:51](https://lobste.rs/s/fafnz8/sifting_through_crates_io_for_malware) - [Sifting through crates.io for malware with OSSF Package Analysis](http://www.williballenthin.com/post/sifting-through-crates.io-for-malware-with-ossf-package-analysis/)
 * [2023-09-16, 19:08:05](https://lobste.rs/s/epapek/capslock_capability_analysis_cli_for_go) - [Capslock - a capability analysis CLI for Go packages](https://github.com/google/capslock/)
 * [2023-09-16, 19:07:43](https://lobste.rs/s/qqfwd4/running_one_s_own_root_certificate) - [Running one’s own root Certificate Authority in 2023](https://wejn.org/2023/09/running-ones-own-root-certificate-authority-in-2023/)
 * [2023-09-16, 13:45:45](https://lobste.rs/s/qo0amc/static_server_http_server_go_for_static) - [static-server: an HTTP server in Go for static content](https://eli.thegreenplace.net/2023/static-server-an-http-server-in-go-for-static-content/)

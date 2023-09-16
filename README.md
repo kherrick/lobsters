@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-16, 20:59:51](https://lobste.rs/s/fafnz8/sifting_through_crates_io_for_malware) - [Sifting through crates.io for malware with OSSF Package Analysis](http://www.williballenthin.com/post/sifting-through-crates.io-for-malware-with-ossf-package-analysis/)
 * [2023-09-16, 19:07:43](https://lobste.rs/s/qqfwd4/running_one_s_own_root_certificate) - [Running one’s own root Certificate Authority in 2023](https://wejn.org/2023/09/running-ones-own-root-certificate-authority-in-2023/)
 * [2023-09-16, 13:45:45](https://lobste.rs/s/qo0amc/static_server_http_server_go_for_static) - [static-server: an HTTP server in Go for static content](https://eli.thegreenplace.net/2023/static-server-an-http-server-in-go-for-static-content/)
 * [2023-09-16, 08:02:31](https://lobste.rs/s/qhabh3/youlessqt_helps_align_youless_analog) - [YouLessQt, helps to align the YouLess to an analog electricity meter](https://raymii.org/s/software/YouLessQt.html)
@@ -16,7 +17,6 @@
 * [2023-09-15, 17:17:15](https://lobste.rs/s/jmemvd/understanding_origins_evolution_vi_vim) - [Understanding the Origins and the Evolution of Vi & Vim](https://pikuma.com/blog/origins-of-vim-text-editor)
 * [2023-09-15, 14:47:31](https://lobste.rs/s/nxdivw/should_i_rust_should_i_go) - [Should I Rust or should I go?](https://kerkour.com/should-i-rust-or-should-i-go)
 * [2023-09-15, 13:54:02](https://lobste.rs/s/lca4xn/strange_loop_s_greatest_hits) - [Strange Loop's greatest hits](https://changelog.com/posts/strange-loops-greatest-hits)
-* [2023-09-15, 12:55:39](https://lobste.rs/s/k3tvzb/send_note_kindle) - [Send note to Kindle](https://xenodium.com/emacs-send-to-kindle/)
 * [2023-09-15, 12:54:49](https://lobste.rs/s/zd92th/truthiness_c) - [Truthiness in C](https://dxuuu.xyz/casts.html)
 * [2023-09-15, 12:33:09](https://lobste.rs/s/kdwrix/making_nixos_modules_for_fun_hopefully) - [Making NixOS modules for fun and (hopefully) profit](https://xeiaso.net/talks/asg-2023-nixos)
 * [2023-09-15, 12:25:06](https://lobste.rs/s/xvkg7s/findmycat_open_source_pet_tracker) - [FindMyCat - The Open-Source Pet Tracker](https://findmycat.io)
