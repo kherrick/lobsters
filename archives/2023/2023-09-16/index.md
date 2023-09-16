@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-16](index.md)
 
+* [2023-09-16, 08:02:31](https://lobste.rs/s/qhabh3/youlessqt_helps_align_youless_analog) - [YouLessQt, helps to align the YouLess to an analog electricity meter](https://raymii.org/s/software/YouLessQt.html)
 * [2023-09-16, 07:45:15](https://lobste.rs/s/tfkt5u/chatgpt_based_parental_control_browser) - [ChatGPT-based parental control browser extension](https://grgv.xyz/blog/apc/)
 * [2023-09-16, 07:28:16](https://lobste.rs/s/pqigdt/solving_expression_problem_go) - [Solving the Expression Problem in Go](https://www.tzcl.me/posts/expression-problem/)
 * [2023-09-16, 07:03:07](https://lobste.rs/s/7jrqlr/rollups_aren_t_real) - [Rollups Aren't Real](https://joncharbonneau.substack.com/p/rollups-arent-real)
