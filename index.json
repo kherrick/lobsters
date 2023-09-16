@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-16, 07:28:16",
+      "https://lobste.rs/s/pqigdt/solving_expression_problem_go"
+    ],
+    [
+      "Solving the Expression Problem in Go",
+      "https://www.tzcl.me/posts/expression-problem/"
+    ]
+  ],
+  [
+    [
       "2023-09-16, 07:03:07",
       "https://lobste.rs/s/7jrqlr/rollups_aren_t_real"
     ],
@@ -227,16 +237,6 @@
     [
       "Linear code is more readable",
       "https://blog.separateconcerns.com/2023-09-11-linear-code.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-14, 23:27:55",
-      "https://lobste.rs/s/m9ivcf/we_turned_lobste_rs_into_rails_benchmark"
-    ],
-    [
-      "We Turned Lobste.rs into a Rails Benchmark for YJIT",
-      "https://railsatscale.com/2023-08-25-we-turned-lobsters-into-a-rails-benchmark-for-yjit/"
     ]
   ],
   [
