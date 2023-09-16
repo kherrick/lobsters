@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-16, 05:53:20](https://lobste.rs/s/gcjfoy/pineapple_one_open_source_32_bit_risc_v_cpu) - [Pineapple ONE: Open source 32 bit RISC-V CPU that you can make at home](https://pineapple-one.github.io/)
 * [2023-09-16, 04:46:05](https://lobste.rs/s/o14iyj/holy_macroni_recipe_for_progressive) - [Holy Macroni! A recipe for progressive language enhancement](https://blog.trailofbits.com/2023/09/11/holy-macroni-a-recipe-for-progressive-language-enhancement/)
 * [2023-09-16, 01:16:21](https://lobste.rs/s/ztk89c/mastodon_instance_with_6_files) - [Mastodon instance with 6 files](https://justingarrison.com/blog/2022-12-06-mastodon-files-instance/)
 * [2023-09-16, 00:25:08](https://lobste.rs/s/c4w87j/ocaml_5_1_0_release_notes) - [OCaml 5.1.0 Release Notes](https://ocaml.org/releases/5.1.0)
@@ -15,7 +16,6 @@
 * [2023-09-15, 12:25:06](https://lobste.rs/s/xvkg7s/findmycat_open_source_pet_tracker) - [FindMyCat - The Open-Source Pet Tracker](https://findmycat.io)
 * [2023-09-15, 12:08:32](https://lobste.rs/s/d7gu9j/modern_authorization_systems) - [Modern Authorization Systems](https://authzed.com/blog/authz-primer)
 * [2023-09-15, 10:16:10](https://lobste.rs/s/ggdnee/notes_on_using_single_person_mastodon) - [Notes on using a single-person Mastodon server](https://jvns.ca/blog/2023/08/11/some-notes-on-mastodon/)
-* [2023-09-15, 10:08:48](https://lobste.rs/s/eki0a0/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/eki0a0/what_are_you_doing_this_weekend)
 * [2023-09-15, 09:59:35](https://lobste.rs/s/rjkiqf/on_impending_crypto_monoculture_2016) - [On the Impending Crypto Monoculture (2016)](https://www.metzdowd.com/pipermail/cryptography/2016-March/028824.html)
 * [2023-09-15, 08:41:49](https://lobste.rs/s/1sewnq/marginalia_search_receives_futo_grant) - [Marginalia Search receives FUTO Grant](https://www.marginalia.nu/log/88-futo-grant/)
 * [2023-09-15, 08:36:50](https://lobste.rs/s/py94bo/postgresql_16_released) - [PostgreSQL 16 Released](https://www.postgresql.org/about/news/postgresql-16-released-2715/)
