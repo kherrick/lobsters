@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-16, 13:45:45](https://lobste.rs/s/qo0amc/static_server_http_server_go_for_static) - [static-server: an HTTP server in Go for static content](https://eli.thegreenplace.net/2023/static-server-an-http-server-in-go-for-static-content/)
 * [2023-09-16, 08:02:31](https://lobste.rs/s/qhabh3/youlessqt_helps_align_youless_analog) - [YouLessQt, helps to align the YouLess to an analog electricity meter](https://raymii.org/s/software/YouLessQt.html)
 * [2023-09-16, 07:45:15](https://lobste.rs/s/tfkt5u/chatgpt_based_parental_control_browser) - [ChatGPT-based parental control browser extension](https://grgv.xyz/blog/apc/)
 * [2023-09-16, 07:28:16](https://lobste.rs/s/pqigdt/solving_expression_problem_go) - [Solving the Expression Problem in Go](https://www.tzcl.me/posts/expression-problem/)
@@ -20,7 +21,6 @@
 * [2023-09-15, 12:25:06](https://lobste.rs/s/xvkg7s/findmycat_open_source_pet_tracker) - [FindMyCat - The Open-Source Pet Tracker](https://findmycat.io)
 * [2023-09-15, 10:16:10](https://lobste.rs/s/ggdnee/notes_on_using_single_person_mastodon) - [Notes on using a single-person Mastodon server](https://jvns.ca/blog/2023/08/11/some-notes-on-mastodon/)
 * [2023-09-15, 09:59:35](https://lobste.rs/s/rjkiqf/on_impending_crypto_monoculture_2016) - [On the Impending Crypto Monoculture (2016)](https://www.metzdowd.com/pipermail/cryptography/2016-March/028824.html)
-* [2023-09-15, 08:41:49](https://lobste.rs/s/1sewnq/marginalia_search_receives_futo_grant) - [Marginalia Search receives FUTO Grant](https://www.marginalia.nu/log/88-futo-grant/)
 * [2023-09-15, 08:36:50](https://lobste.rs/s/py94bo/postgresql_16_released) - [PostgreSQL 16 Released](https://www.postgresql.org/about/news/postgresql-16-released-2715/)
 * [2023-09-15, 07:16:02](https://lobste.rs/s/ijrfut/why_how_does_cpython_use_bloom_filters) - [Why and How Does CPython Use Bloom Filters in String Processing?](https://codeconfessions.substack.com/p/cpython-bloom-filter-usage)
 * [2023-09-15, 03:10:55](https://lobste.rs/s/udgtcx/linear_code_is_more_readable) - [Linear code is more readable](https://blog.separateconcerns.com/2023-09-11-linear-code.html)

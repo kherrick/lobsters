@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-16](index.md)
 
+* [2023-09-16, 13:45:45](https://lobste.rs/s/qo0amc/static_server_http_server_go_for_static) - [static-server: an HTTP server in Go for static content](https://eli.thegreenplace.net/2023/static-server-an-http-server-in-go-for-static-content/)
 * [2023-09-16, 08:02:31](https://lobste.rs/s/qhabh3/youlessqt_helps_align_youless_analog) - [YouLessQt, helps to align the YouLess to an analog electricity meter](https://raymii.org/s/software/YouLessQt.html)
 * [2023-09-16, 07:45:15](https://lobste.rs/s/tfkt5u/chatgpt_based_parental_control_browser) - [ChatGPT-based parental control browser extension](https://grgv.xyz/blog/apc/)
 * [2023-09-16, 07:28:16](https://lobste.rs/s/pqigdt/solving_expression_problem_go) - [Solving the Expression Problem in Go](https://www.tzcl.me/posts/expression-problem/)
