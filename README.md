@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-16, 07:03:07](https://lobste.rs/s/7jrqlr/rollups_aren_t_real) - [Rollups Aren't Real](https://joncharbonneau.substack.com/p/rollups-arent-real)
 * [2023-09-16, 06:22:34](https://lobste.rs/s/auttfp/capslock_what_is_your_code_really_capable) - [Capslock: What is your code really capable of?](https://security.googleblog.com/2023/09/capslock-what-is-your-code-really.html)
 * [2023-09-16, 05:53:20](https://lobste.rs/s/gcjfoy/pineapple_one_open_source_32_bit_risc_v_cpu) - [Pineapple ONE: Open source 32 bit RISC-V CPU that you can make at home](https://pineapple-one.github.io/)
 * [2023-09-16, 04:46:05](https://lobste.rs/s/o14iyj/holy_macroni_recipe_for_progressive) - [Holy Macroni! A recipe for progressive language enhancement](https://blog.trailofbits.com/2023/09/11/holy-macroni-a-recipe-for-progressive-language-enhancement/)
@@ -15,7 +16,6 @@
 * [2023-09-15, 12:54:49](https://lobste.rs/s/zd92th/truthiness_c) - [Truthiness in C](https://dxuuu.xyz/casts.html)
 * [2023-09-15, 12:33:09](https://lobste.rs/s/kdwrix/making_nixos_modules_for_fun_hopefully) - [Making NixOS modules for fun and (hopefully) profit](https://xeiaso.net/talks/asg-2023-nixos)
 * [2023-09-15, 12:25:06](https://lobste.rs/s/xvkg7s/findmycat_open_source_pet_tracker) - [FindMyCat - The Open-Source Pet Tracker](https://findmycat.io)
-* [2023-09-15, 12:08:32](https://lobste.rs/s/d7gu9j/modern_authorization_systems) - [Modern Authorization Systems](https://authzed.com/blog/authz-primer)
 * [2023-09-15, 10:16:10](https://lobste.rs/s/ggdnee/notes_on_using_single_person_mastodon) - [Notes on using a single-person Mastodon server](https://jvns.ca/blog/2023/08/11/some-notes-on-mastodon/)
 * [2023-09-15, 09:59:35](https://lobste.rs/s/rjkiqf/on_impending_crypto_monoculture_2016) - [On the Impending Crypto Monoculture (2016)](https://www.metzdowd.com/pipermail/cryptography/2016-March/028824.html)
 * [2023-09-15, 08:41:49](https://lobste.rs/s/1sewnq/marginalia_search_receives_futo_grant) - [Marginalia Search receives FUTO Grant](https://www.marginalia.nu/log/88-futo-grant/)
