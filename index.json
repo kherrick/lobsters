@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-09-16, 19:08:05",
-      "https://lobste.rs/s/epapek/capslock_capability_analysis_cli_for_go"
-    ],
-    [
-      "Capslock - a capability analysis CLI for Go packages",
-      "https://github.com/google/capslock/"
-    ]
-  ],
-  [
-    [
       "2023-09-16, 19:07:43",
       "https://lobste.rs/s/qqfwd4/running_one_s_own_root_certificate"
     ],
@@ -167,6 +157,16 @@
     [
       "Strange Loop's greatest hits",
       "https://changelog.com/posts/strange-loops-greatest-hits"
+    ]
+  ],
+  [
+    [
+      "2023-09-15, 12:55:39",
+      "https://lobste.rs/s/k3tvzb/send_note_kindle"
+    ],
+    [
+      "Send note to Kindle",
+      "https://xenodium.com/emacs-send-to-kindle/"
     ]
   ],
   [
