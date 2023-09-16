@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-16, 01:16:21",
+      "https://lobste.rs/s/ztk89c/mastodon_instance_with_6_files"
+    ],
+    [
+      "Mastodon instance with 6 files",
+      "https://justingarrison.com/blog/2022-12-06-mastodon-files-instance/"
+    ]
+  ],
+  [
+    [
       "2023-09-16, 00:25:08",
       "https://lobste.rs/s/c4w87j/ocaml_5_1_0_release_notes"
     ],
@@ -237,16 +247,6 @@
     [
       "Bounties Damage Open Source Projects",
       "https://ziglang.org/news/bounties-damage-open-source-projects/"
-    ]
-  ],
-  [
-    [
-      "2023-09-14, 10:50:09",
-      "https://lobste.rs/s/goxx8g/nue_react_vue_vite_astro_alternative"
-    ],
-    [
-      "Nue: A React/Vue/Vite/Astro alternative",
-      "https://nuejs.org"
     ]
   ]
 ]
