@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-16](index.md)
 
+* [2023-09-16, 19:08:05](https://lobste.rs/s/epapek/capslock_capability_analysis_cli_for_go) - [Capslock - a capability analysis CLI for Go packages](https://github.com/google/capslock/)
+* [2023-09-16, 19:07:43](https://lobste.rs/s/qqfwd4/running_one_s_own_root_certificate) - [Running one’s own root Certificate Authority in 2023](https://wejn.org/2023/09/running-ones-own-root-certificate-authority-in-2023/)
 * [2023-09-16, 13:45:45](https://lobste.rs/s/qo0amc/static_server_http_server_go_for_static) - [static-server: an HTTP server in Go for static content](https://eli.thegreenplace.net/2023/static-server-an-http-server-in-go-for-static-content/)
 * [2023-09-16, 08:02:31](https://lobste.rs/s/qhabh3/youlessqt_helps_align_youless_analog) - [YouLessQt, helps to align the YouLess to an analog electricity meter](https://raymii.org/s/software/YouLessQt.html)
 * [2023-09-16, 07:45:15](https://lobste.rs/s/tfkt5u/chatgpt_based_parental_control_browser) - [ChatGPT-based parental control browser extension](https://grgv.xyz/blog/apc/)
