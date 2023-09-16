@@ -5,6 +5,7 @@
 * [2023-09-16, 07:28:16](https://lobste.rs/s/pqigdt/solving_expression_problem_go) - [Solving the Expression Problem in Go](https://www.tzcl.me/posts/expression-problem/)
 * [2023-09-16, 06:22:34](https://lobste.rs/s/auttfp/capslock_what_is_your_code_really_capable) - [Capslock: What is your code really capable of?](https://security.googleblog.com/2023/09/capslock-what-is-your-code-really.html)
 * [2023-09-16, 05:53:20](https://lobste.rs/s/gcjfoy/pineapple_one_open_source_32_bit_risc_v_cpu) - [Pineapple ONE: Open source 32 bit RISC-V CPU that you can make at home](https://pineapple-one.github.io/)
+* [2023-09-16, 04:46:05](https://lobste.rs/s/o14iyj/holy_macroni_recipe_for_progressive) - [Holy Macroni! A recipe for progressive language enhancement](https://blog.trailofbits.com/2023/09/11/holy-macroni-a-recipe-for-progressive-language-enhancement/)
 * [2023-09-16, 01:16:21](https://lobste.rs/s/ztk89c/mastodon_instance_with_6_files) - [Mastodon instance with 6 files](https://justingarrison.com/blog/2022-12-06-mastodon-files-instance/)
 * [2023-09-16, 00:25:08](https://lobste.rs/s/c4w87j/ocaml_5_1_0_release_notes) - [OCaml 5.1.0 Release Notes](https://ocaml.org/releases/5.1.0)
 * [2023-09-15, 22:06:30](https://lobste.rs/s/n5ivuk/getting_used_microservices) - [Getting Used To Microservices](https://two-wrongs.com/getting-used-to-microservices.html)
@@ -22,7 +23,6 @@
 * [2023-09-15, 08:41:49](https://lobste.rs/s/1sewnq/marginalia_search_receives_futo_grant) - [Marginalia Search receives FUTO Grant](https://www.marginalia.nu/log/88-futo-grant/)
 * [2023-09-15, 08:36:50](https://lobste.rs/s/py94bo/postgresql_16_released) - [PostgreSQL 16 Released](https://www.postgresql.org/about/news/postgresql-16-released-2715/)
 * [2023-09-15, 07:16:02](https://lobste.rs/s/ijrfut/why_how_does_cpython_use_bloom_filters) - [Why and How Does CPython Use Bloom Filters in String Processing?](https://codeconfessions.substack.com/p/cpython-bloom-filter-usage)
-* [2023-09-15, 06:47:27](https://lobste.rs/s/lwvf64/go_perf_meetup_1) - [Go-perf meetup #1](https://go-perf.dev/go-perf-meetup-1)
 * [2023-09-15, 03:10:55](https://lobste.rs/s/udgtcx/linear_code_is_more_readable) - [Linear code is more readable](https://blog.separateconcerns.com/2023-09-11-linear-code.html)
 * [2023-09-14, 20:38:42](https://lobste.rs/s/rlhzkc/bounties_damage_open_source_projects) - [Bounties Damage Open Source Projects](https://ziglang.org/news/bounties-damage-open-source-projects/)
 
