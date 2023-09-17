@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-17, 08:27:12",
+      "https://lobste.rs/s/yldk6x/ferricy_building_custom_34_key_split"
+    ],
+    [
+      "Ferricy: Building a custom 34-key split keyboard",
+      "https://www.snprajwal.com/blog/ferricy-custom-split-keyboard/"
+    ]
+  ],
+  [
+    [
       "2023-09-17, 07:08:55",
       "https://lobste.rs/s/yo6ozl/zig_curl_zig_bindings_libcurl"
     ],
@@ -217,16 +227,6 @@
     [
       "Truthiness in C",
       "https://dxuuu.xyz/casts.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-15, 12:33:09",
-      "https://lobste.rs/s/kdwrix/making_nixos_modules_for_fun_hopefully"
-    ],
-    [
-      "Making NixOS modules for fun and (hopefully) profit",
-      "https://xeiaso.net/talks/asg-2023-nixos"
     ]
   ],
   [
