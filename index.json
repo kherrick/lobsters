@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-17, 22:46:27",
+      "https://lobste.rs/s/jdsv1j/homebrew_website_club"
+    ],
+    [
+      "Homebrew Website Club",
+      "https://indieweb.org/HWC"
+    ]
+  ],
+  [
+    [
       "2023-09-17, 19:47:25",
       "https://lobste.rs/s/tke9az/look_at_apple_s_new_transformer_powered"
     ],
@@ -177,16 +187,6 @@
     [
       "Running one’s own root Certificate Authority in 2023",
       "https://wejn.org/2023/09/running-ones-own-root-certificate-authority-in-2023/"
-    ]
-  ],
-  [
-    [
-      "2023-09-16, 13:45:45",
-      "https://lobste.rs/s/qo0amc/static_server_http_server_go_for_static"
-    ],
-    [
-      "static-server: an HTTP server in Go for static content",
-      "https://eli.thegreenplace.net/2023/static-server-an-http-server-in-go-for-static-content/"
     ]
   ],
   [
