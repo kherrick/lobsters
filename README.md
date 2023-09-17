@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-17, 19:47:25](https://lobste.rs/s/tke9az/look_at_apple_s_new_transformer_powered) - [A look at Apple’s new Transformer-powered predictive text model](https://jackcook.com/2023/09/08/predictive-text.html)
 * [2023-09-17, 17:43:42](https://lobste.rs/s/5ptjpj/which_computational_universe_do_we_live) - [Which Computational Universe Do We Live In?](https://www.quantamagazine.org/which-computational-universe-do-we-live-in-20220418/)
 * [2023-09-17, 17:30:02](https://lobste.rs/s/mr8mx6/def_con_31_videos) - [DEF CON 31 Videos](https://www.youtube.com/@DEFCONConference/videos)
 * [2023-09-17, 17:22:01](https://lobste.rs/s/tfsr57/changing_rules_rust) - [Changing the rules of Rust](https://without.boats/blog/changing-the-rules-of-rust/)
@@ -23,7 +24,6 @@
 * [2023-09-16, 01:16:21](https://lobste.rs/s/ztk89c/mastodon_instance_with_6_files) - [Mastodon instance with 6 files](https://justingarrison.com/blog/2022-12-06-mastodon-files-instance/)
 * [2023-09-16, 00:25:08](https://lobste.rs/s/c4w87j/ocaml_5_1_0_release_notes) - [OCaml 5.1.0 Release Notes](https://ocaml.org/releases/5.1.0)
 * [2023-09-15, 22:06:30](https://lobste.rs/s/n5ivuk/getting_used_microservices) - [Getting Used To Microservices](https://two-wrongs.com/getting-used-to-microservices.html)
-* [2023-09-15, 14:47:31](https://lobste.rs/s/nxdivw/should_i_rust_should_i_go) - [Should I Rust or should I go?](https://kerkour.com/should-i-rust-or-should-i-go)
 * [2023-09-15, 13:54:02](https://lobste.rs/s/lca4xn/strange_loop_s_greatest_hits) - [Strange Loop's greatest hits](https://changelog.com/posts/strange-loops-greatest-hits)
 
 ## [Archives](archives/index.md)

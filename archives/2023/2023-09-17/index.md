@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-17](index.md)
 
+* [2023-09-17, 19:47:25](https://lobste.rs/s/tke9az/look_at_apple_s_new_transformer_powered) - [A look at Apple’s new Transformer-powered predictive text model](https://jackcook.com/2023/09/08/predictive-text.html)
 * [2023-09-17, 17:43:42](https://lobste.rs/s/5ptjpj/which_computational_universe_do_we_live) - [Which Computational Universe Do We Live In?](https://www.quantamagazine.org/which-computational-universe-do-we-live-in-20220418/)
 * [2023-09-17, 17:30:02](https://lobste.rs/s/mr8mx6/def_con_31_videos) - [DEF CON 31 Videos](https://www.youtube.com/@DEFCONConference/videos)
 * [2023-09-17, 17:22:01](https://lobste.rs/s/tfsr57/changing_rules_rust) - [Changing the rules of Rust](https://without.boats/blog/changing-the-rules-of-rust/)
