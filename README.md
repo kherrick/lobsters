@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-17, 03:32:48](https://lobste.rs/s/fgws6v/two_types_work) - [Two types of work](https://drmaciver.substack.com/p/two-types-of-work)
 * [2023-09-17, 02:29:39](https://lobste.rs/s/jntued/digital_fly_by_wire_apollo_guidance) - [Digital Fly-By-Wire: The Apollo Guidance Computer's final gift to the world](https://youtu.be/kPfrk6Q5CXI)
 * [2023-09-17, 02:21:02](https://lobste.rs/s/u6ewve/fossil_wrist_pda_becomes_tiny_gopher) - [The Fossil Wrist PDA becomes a tiny Gopher client](https://oldvcr.blogspot.com/2023/09/the-fossil-wrist-pda-becomes-tiny.html)
 * [2023-09-17, 00:04:04](https://lobste.rs/s/7ygaok/programming_with_5_bits_ram_what_turing) - [Programming With 5 Bits of RAM — What Turing Machines Can Tell Us About Programming Languages](https://antipodes.substack.com/p/programming-with-5-bits-of-ram)
@@ -17,7 +18,6 @@
 * [2023-09-15, 22:06:30](https://lobste.rs/s/n5ivuk/getting_used_microservices) - [Getting Used To Microservices](https://two-wrongs.com/getting-used-to-microservices.html)
 * [2023-09-15, 19:53:13](https://lobste.rs/s/wmhibp/using_janet_as_database) - [Using Janet as Database](https://www.1a-insec.net/blog/18-janet-as-database/)
 * [2023-09-15, 17:32:20](https://lobste.rs/s/lgftx4/this_month_servo_upcoming_events_new) - [This month in Servo: upcoming events, new browser UI, and more](https://servo.org/blog/2023/09/15/upcoming-events-and-new-browser-ui/)
-* [2023-09-15, 17:17:15](https://lobste.rs/s/jmemvd/understanding_origins_evolution_vi_vim) - [Understanding the Origins and the Evolution of Vi & Vim](https://pikuma.com/blog/origins-of-vim-text-editor)
 * [2023-09-15, 14:47:31](https://lobste.rs/s/nxdivw/should_i_rust_should_i_go) - [Should I Rust or should I go?](https://kerkour.com/should-i-rust-or-should-i-go)
 * [2023-09-15, 13:54:02](https://lobste.rs/s/lca4xn/strange_loop_s_greatest_hits) - [Strange Loop's greatest hits](https://changelog.com/posts/strange-loops-greatest-hits)
 * [2023-09-15, 12:54:49](https://lobste.rs/s/zd92th/truthiness_c) - [Truthiness in C](https://dxuuu.xyz/casts.html)
