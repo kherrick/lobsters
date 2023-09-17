@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-17](index.md)
 
+* [2023-09-17, 17:30:02](https://lobste.rs/s/mr8mx6/def_con_31_videos) - [DEF CON 31 Videos](https://www.youtube.com/@DEFCONConference/videos)
 * [2023-09-17, 17:22:01](https://lobste.rs/s/tfsr57/changing_rules_rust) - [Changing the rules of Rust](https://without.boats/blog/changing-the-rules-of-rust/)
 * [2023-09-17, 15:24:55](https://lobste.rs/s/hbzhdu/oils_0_18_0_progress_on_all_fronts) - [Oils 0.18.0 - Progress on All Fronts](https://www.oilshell.org/blog/2023/09/release-0.18.0.html)
 * [2023-09-17, 15:14:56](https://lobste.rs/s/vhwjax/q_agile_open_source_projects) - [[Q] Agile in open source projects](https://lobste.rs/s/vhwjax/q_agile_open_source_projects)
