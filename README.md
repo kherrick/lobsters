@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-17, 04:35:49](https://lobste.rs/s/ukoj9o/hardest_software_design_quiz) - [The Hardest Software Design Quiz](https://mirdin.com/quizzes/software-design-quiz/)
 * [2023-09-17, 03:32:48](https://lobste.rs/s/fgws6v/two_types_work) - [Two types of work](https://drmaciver.substack.com/p/two-types-of-work)
 * [2023-09-17, 02:29:39](https://lobste.rs/s/jntued/digital_fly_by_wire_apollo_guidance) - [Digital Fly-By-Wire: The Apollo Guidance Computer's final gift to the world](https://youtu.be/kPfrk6Q5CXI)
 * [2023-09-17, 02:21:02](https://lobste.rs/s/u6ewve/fossil_wrist_pda_becomes_tiny_gopher) - [The Fossil Wrist PDA becomes a tiny Gopher client](https://oldvcr.blogspot.com/2023/09/the-fossil-wrist-pda-becomes-tiny.html)
@@ -8,7 +9,6 @@
 * [2023-09-16, 19:07:43](https://lobste.rs/s/qqfwd4/running_one_s_own_root_certificate) - [Running one’s own root Certificate Authority in 2023](https://wejn.org/2023/09/running-ones-own-root-certificate-authority-in-2023/)
 * [2023-09-16, 13:45:45](https://lobste.rs/s/qo0amc/static_server_http_server_go_for_static) - [static-server: an HTTP server in Go for static content](https://eli.thegreenplace.net/2023/static-server-an-http-server-in-go-for-static-content/)
 * [2023-09-16, 08:02:31](https://lobste.rs/s/qhabh3/youlessqt_helps_align_youless_analog) - [YouLessQt, helps to align the YouLess to an analog electricity meter](https://raymii.org/s/software/YouLessQt.html)
-* [2023-09-16, 07:45:15](https://lobste.rs/s/tfkt5u/chatgpt_based_parental_control_browser) - [ChatGPT-based parental control browser extension](https://grgv.xyz/blog/apc/)
 * [2023-09-16, 07:28:16](https://lobste.rs/s/pqigdt/solving_expression_problem_go) - [Solving the Expression Problem in Go](https://www.tzcl.me/posts/expression-problem/)
 * [2023-09-16, 06:22:34](https://lobste.rs/s/auttfp/capslock_what_is_your_code_really_capable) - [Capslock: What is your code really capable of?](https://security.googleblog.com/2023/09/capslock-what-is-your-code-really.html)
 * [2023-09-16, 05:53:20](https://lobste.rs/s/gcjfoy/pineapple_one_open_source_32_bit_risc_v_cpu) - [Pineapple ONE: Open source 32 bit RISC-V CPU that you can make at home](https://pineapple-one.github.io/)
