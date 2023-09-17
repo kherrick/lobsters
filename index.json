@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-17, 02:29:39",
+      "https://lobste.rs/s/jntued/digital_fly_by_wire_apollo_guidance"
+    ],
+    [
+      "Digital Fly-By-Wire: The Apollo Guidance Computer's final gift to the world",
+      "https://youtu.be/kPfrk6Q5CXI"
+    ]
+  ],
+  [
+    [
       "2023-09-17, 02:21:02",
       "https://lobste.rs/s/u6ewve/fossil_wrist_pda_becomes_tiny_gopher"
     ],
@@ -227,16 +237,6 @@
     [
       "Notes on using a single-person Mastodon server",
       "https://jvns.ca/blog/2023/08/11/some-notes-on-mastodon/"
-    ]
-  ],
-  [
-    [
-      "2023-09-15, 07:16:02",
-      "https://lobste.rs/s/ijrfut/why_how_does_cpython_use_bloom_filters"
-    ],
-    [
-      "Why and How Does CPython Use Bloom Filters in String Processing?",
-      "https://codeconfessions.substack.com/p/cpython-bloom-filter-usage"
     ]
   ],
   [
