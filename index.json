@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-17, 17:22:01",
+      "https://lobste.rs/s/tfsr57/changing_rules_rust"
+    ],
+    [
+      "Changing the rules of Rust",
+      "https://without.boats/blog/changing-the-rules-of-rust/"
+    ]
+  ],
+  [
+    [
       "2023-09-17, 15:24:55",
       "https://lobste.rs/s/hbzhdu/oils_0_18_0_progress_on_all_fronts"
     ],
@@ -147,16 +157,6 @@
     [
       "static-server: an HTTP server in Go for static content",
       "https://eli.thegreenplace.net/2023/static-server-an-http-server-in-go-for-static-content/"
-    ]
-  ],
-  [
-    [
-      "2023-09-16, 08:02:31",
-      "https://lobste.rs/s/qhabh3/youlessqt_helps_align_youless_analog"
-    ],
-    [
-      "YouLessQt, helps to align the YouLess to an analog electricity meter",
-      "https://raymii.org/s/software/YouLessQt.html"
     ]
   ],
   [
