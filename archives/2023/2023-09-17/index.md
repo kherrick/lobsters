@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-17](index.md)
 
+* [2023-09-17, 13:10:29](https://lobste.rs/s/rowxtx/why_not_react) - [Why not React?](https://dev.to/tigt/why-not-react-2f8l)
 * [2023-09-17, 12:06:47](https://lobste.rs/s/5jpbgl/sql_join_flavors) - [SQL join flavors](https://antonz.org/sql-join/)
 * [2023-09-17, 08:27:12](https://lobste.rs/s/yldk6x/ferricy_building_custom_34_key_split) - [Ferricy: Building a custom 34-key split keyboard](https://www.snprajwal.com/blog/ferricy-custom-split-keyboard/)
 * [2023-09-17, 07:08:55](https://lobste.rs/s/yo6ozl/zig_curl_zig_bindings_libcurl) - [zig-curl: Zig bindings to libcurl](https://github.com/jiacai2050/zig-curl)
