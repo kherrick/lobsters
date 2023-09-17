@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-17](index.md)
 
+* [2023-09-17, 15:24:55](https://lobste.rs/s/hbzhdu/oils_0_18_0_progress_on_all_fronts) - [Oils 0.18.0 - Progress on All Fronts](https://www.oilshell.org/blog/2023/09/release-0.18.0.html)
 * [2023-09-17, 15:14:56](https://lobste.rs/s/vhwjax/q_agile_open_source_projects) - [[Q] Agile in open source projects](https://lobste.rs/s/vhwjax/q_agile_open_source_projects)
 * [2023-09-17, 15:08:29](https://lobste.rs/s/yqo4kd/how_mac_didn_t_bring_programming_people) - [How the Mac didn’t bring programming to the people](https://eclecticlight.co/2023/09/16/how-the-mac-didnt-bring-programming-to-the-people/)
 * [2023-09-17, 15:03:49](https://lobste.rs/s/tswthi/ibertex_spanish_videotext) - [Ibertex (Spanish videotext)](https://www.youtube.com/playlist?list=PLBC_8UFeexNgEnIrDn7-4D-E1VApmQtR6)
