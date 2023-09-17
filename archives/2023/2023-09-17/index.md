@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-09-17](index.md)
 
+* [2023-09-17, 15:14:56](https://lobste.rs/s/vhwjax/q_agile_open_source_projects) - [[Q] Agile in open source projects](https://lobste.rs/s/vhwjax/q_agile_open_source_projects)
+* [2023-09-17, 15:08:29](https://lobste.rs/s/yqo4kd/how_mac_didn_t_bring_programming_people) - [How the Mac didn’t bring programming to the people](https://eclecticlight.co/2023/09/16/how-the-mac-didnt-bring-programming-to-the-people/)
+* [2023-09-17, 15:03:49](https://lobste.rs/s/tswthi/ibertex_spanish_videotext) - [Ibertex (Spanish videotext)](https://www.youtube.com/playlist?list=PLBC_8UFeexNgEnIrDn7-4D-E1VApmQtR6)
 * [2023-09-17, 13:10:29](https://lobste.rs/s/rowxtx/why_not_react) - [Why not React?](https://dev.to/tigt/why-not-react-2f8l)
 * [2023-09-17, 12:06:47](https://lobste.rs/s/5jpbgl/sql_join_flavors) - [SQL join flavors](https://antonz.org/sql-join/)
 * [2023-09-17, 08:27:12](https://lobste.rs/s/yldk6x/ferricy_building_custom_34_key_split) - [Ferricy: Building a custom 34-key split keyboard](https://www.snprajwal.com/blog/ferricy-custom-split-keyboard/)
 * [2023-09-17, 07:08:55](https://lobste.rs/s/yo6ozl/zig_curl_zig_bindings_libcurl) - [zig-curl: Zig bindings to libcurl](https://github.com/jiacai2050/zig-curl)
+* [2023-09-17, 04:35:49](https://lobste.rs/s/ukoj9o/software_design_quiz) - [Software Design Quiz](https://mirdin.com/quizzes/software-design-quiz/)
 * [2023-09-17, 04:35:49](https://lobste.rs/s/ukoj9o/hardest_software_design_quiz) - [The Hardest Software Design Quiz](https://mirdin.com/quizzes/software-design-quiz/)
 * [2023-09-17, 03:32:48](https://lobste.rs/s/fgws6v/two_types_work) - [Two types of work](https://drmaciver.substack.com/p/two-types-of-work)
 * [2023-09-17, 02:29:39](https://lobste.rs/s/jntued/digital_fly_by_wire_apollo_guidance) - [Digital Fly-By-Wire: The Apollo Guidance Computer's final gift to the world](https://youtu.be/kPfrk6Q5CXI)
