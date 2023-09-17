@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-17](index.md)
 
+* [2023-09-17, 08:27:12](https://lobste.rs/s/yldk6x/ferricy_building_custom_34_key_split) - [Ferricy: Building a custom 34-key split keyboard](https://www.snprajwal.com/blog/ferricy-custom-split-keyboard/)
 * [2023-09-17, 07:08:55](https://lobste.rs/s/yo6ozl/zig_curl_zig_bindings_libcurl) - [zig-curl: Zig bindings to libcurl](https://github.com/jiacai2050/zig-curl)
 * [2023-09-17, 04:35:49](https://lobste.rs/s/ukoj9o/hardest_software_design_quiz) - [The Hardest Software Design Quiz](https://mirdin.com/quizzes/software-design-quiz/)
 * [2023-09-17, 03:32:48](https://lobste.rs/s/fgws6v/two_types_work) - [Two types of work](https://drmaciver.substack.com/p/two-types-of-work)
