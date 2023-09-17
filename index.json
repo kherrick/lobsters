@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-17, 07:08:55",
+      "https://lobste.rs/s/yo6ozl/zig_curl_zig_bindings_libcurl"
+    ],
+    [
+      "zig-curl: Zig bindings to libcurl",
+      "https://github.com/jiacai2050/zig-curl"
+    ]
+  ],
+  [
+    [
       "2023-09-17, 04:35:49",
       "https://lobste.rs/s/ukoj9o/hardest_software_design_quiz"
     ],
@@ -217,16 +227,6 @@
     [
       "Making NixOS modules for fun and (hopefully) profit",
       "https://xeiaso.net/talks/asg-2023-nixos"
-    ]
-  ],
-  [
-    [
-      "2023-09-15, 12:25:06",
-      "https://lobste.rs/s/xvkg7s/findmycat_open_source_pet_tracker"
-    ],
-    [
-      "FindMyCat - The Open-Source Pet Tracker",
-      "https://findmycat.io"
     ]
   ],
   [
