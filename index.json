@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-09-17, 15:14:56",
+      "https://lobste.rs/s/vhwjax/q_agile_open_source_projects"
+    ],
+    [
+      "[Q] Agile in open source projects",
+      "https://lobste.rs/s/vhwjax/q_agile_open_source_projects"
+    ]
+  ],
+  [
+    [
+      "2023-09-17, 15:08:29",
+      "https://lobste.rs/s/yqo4kd/how_mac_didn_t_bring_programming_people"
+    ],
+    [
+      "How the Mac didn’t bring programming to the people",
+      "https://eclecticlight.co/2023/09/16/how-the-mac-didnt-bring-programming-to-the-people/"
+    ]
+  ],
+  [
+    [
+      "2023-09-17, 15:03:49",
+      "https://lobste.rs/s/tswthi/ibertex_spanish_videotext"
+    ],
+    [
+      "Ibertex (Spanish videotext)",
+      "https://www.youtube.com/playlist?list=PLBC_8UFeexNgEnIrDn7-4D-E1VApmQtR6"
+    ]
+  ],
+  [
+    [
       "2023-09-17, 13:10:29",
       "https://lobste.rs/s/rowxtx/why_not_react"
     ],
@@ -42,10 +72,10 @@
   [
     [
       "2023-09-17, 04:35:49",
-      "https://lobste.rs/s/ukoj9o/hardest_software_design_quiz"
+      "https://lobste.rs/s/ukoj9o/software_design_quiz"
     ],
     [
-      "The Hardest Software Design Quiz",
+      "Software Design Quiz",
       "https://mirdin.com/quizzes/software-design-quiz/"
     ]
   ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2023-09-16, 04:46:05",
-      "https://lobste.rs/s/o14iyj/holy_macroni_recipe_for_progressive"
-    ],
-    [
-      "Holy Macroni! A recipe for progressive language enhancement",
-      "https://blog.trailofbits.com/2023/09/11/holy-macroni-a-recipe-for-progressive-language-enhancement/"
-    ]
-  ],
-  [
-    [
       "2023-09-16, 01:16:21",
       "https://lobste.rs/s/ztk89c/mastodon_instance_with_6_files"
     ],
@@ -187,16 +207,6 @@
     [
       "Getting Used To Microservices",
       "https://two-wrongs.com/getting-used-to-microservices.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-15, 19:53:13",
-      "https://lobste.rs/s/wmhibp/using_janet_as_database"
-    ],
-    [
-      "Using Janet as Database",
-      "https://www.1a-insec.net/blog/18-janet-as-database/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Notes on using a single-person Mastodon server",
       "https://jvns.ca/blog/2023/08/11/some-notes-on-mastodon/"
-    ]
-  ],
-  [
-    [
-      "2023-09-15, 03:10:55",
-      "https://lobste.rs/s/udgtcx/linear_code_is_more_readable"
-    ],
-    [
-      "Linear code is more readable",
-      "https://blog.separateconcerns.com/2023-09-11-linear-code.html"
     ]
   ]
 ]
