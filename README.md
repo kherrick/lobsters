@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-17, 07:08:55](https://lobste.rs/s/yo6ozl/zig_curl_zig_bindings_libcurl) - [zig-curl: Zig bindings to libcurl](https://github.com/jiacai2050/zig-curl)
 * [2023-09-17, 04:35:49](https://lobste.rs/s/ukoj9o/hardest_software_design_quiz) - [The Hardest Software Design Quiz](https://mirdin.com/quizzes/software-design-quiz/)
 * [2023-09-17, 03:32:48](https://lobste.rs/s/fgws6v/two_types_work) - [Two types of work](https://drmaciver.substack.com/p/two-types-of-work)
 * [2023-09-17, 02:29:39](https://lobste.rs/s/jntued/digital_fly_by_wire_apollo_guidance) - [Digital Fly-By-Wire: The Apollo Guidance Computer's final gift to the world](https://youtu.be/kPfrk6Q5CXI)
@@ -22,7 +23,6 @@
 * [2023-09-15, 13:54:02](https://lobste.rs/s/lca4xn/strange_loop_s_greatest_hits) - [Strange Loop's greatest hits](https://changelog.com/posts/strange-loops-greatest-hits)
 * [2023-09-15, 12:54:49](https://lobste.rs/s/zd92th/truthiness_c) - [Truthiness in C](https://dxuuu.xyz/casts.html)
 * [2023-09-15, 12:33:09](https://lobste.rs/s/kdwrix/making_nixos_modules_for_fun_hopefully) - [Making NixOS modules for fun and (hopefully) profit](https://xeiaso.net/talks/asg-2023-nixos)
-* [2023-09-15, 12:25:06](https://lobste.rs/s/xvkg7s/findmycat_open_source_pet_tracker) - [FindMyCat - The Open-Source Pet Tracker](https://findmycat.io)
 * [2023-09-15, 10:16:10](https://lobste.rs/s/ggdnee/notes_on_using_single_person_mastodon) - [Notes on using a single-person Mastodon server](https://jvns.ca/blog/2023/08/11/some-notes-on-mastodon/)
 * [2023-09-15, 03:10:55](https://lobste.rs/s/udgtcx/linear_code_is_more_readable) - [Linear code is more readable](https://blog.separateconcerns.com/2023-09-11-linear-code.html)
 
