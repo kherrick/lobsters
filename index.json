@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-17, 17:30:02",
+      "https://lobste.rs/s/mr8mx6/def_con_31_videos"
+    ],
+    [
+      "DEF CON 31 Videos",
+      "https://www.youtube.com/@DEFCONConference/videos"
+    ]
+  ],
+  [
+    [
       "2023-09-17, 17:22:01",
       "https://lobste.rs/s/tfsr57/changing_rules_rust"
     ],
@@ -217,16 +227,6 @@
     [
       "Getting Used To Microservices",
       "https://two-wrongs.com/getting-used-to-microservices.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-15, 17:32:20",
-      "https://lobste.rs/s/lgftx4/this_month_servo_upcoming_events_new"
-    ],
-    [
-      "This month in Servo: upcoming events, new browser UI, and more",
-      "https://servo.org/blog/2023/09/15/upcoming-events-and-new-browser-ui/"
     ]
   ],
   [
