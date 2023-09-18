@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-18](index.md)
 
+* [2023-09-18, 20:27:31](https://lobste.rs/s/dfgkd3/low_latency_logging_rust) - [Low latency logging in Rust](https://ochagavia.nl/blog/low-latency-logging-in-rust/)
 * [2023-09-18, 18:19:23](https://lobste.rs/s/httypw/stability_without_stressing_out) - [Stability without stressing the !@#! out](https://smallcultfollowing.com/babysteps/blog/2023/09/18/stability-without-stressing-the-out/)
 * [2023-09-18, 18:10:36](https://lobste.rs/s/tewdvu/hamlib_ham_radio_control_library_for_rigs) - [Hamlib: Ham radio control library for rigs, rotators, tuners, and amplifiers](https://github.com/Hamlib/Hamlib)
 * [2023-09-18, 17:02:52](https://lobste.rs/s/n49jxz/microsoft_publishes_garbled_ai_article) - [Microsoft Publishes Garbled AI Article Calling Tragically Deceased NBA Player \"Useless\"](https://futurism.com/msn-ai-brandon-hunter-useless)
