@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2023-09-17, 02:29:39",
-      "https://lobste.rs/s/jntued/digital_fly_by_wire_apollo_guidance"
-    ],
-    [
-      "Digital Fly-By-Wire: The Apollo Guidance Computer's final gift to the world",
-      "https://youtu.be/kPfrk6Q5CXI"
-    ]
-  ],
-  [
-    [
       "2023-09-17, 02:21:02",
       "https://lobste.rs/s/u6ewve/fossil_wrist_pda_becomes_tiny_gopher"
     ],
@@ -197,6 +187,16 @@
     [
       "Running one’s own root Certificate Authority in 2023",
       "https://wejn.org/2023/09/running-ones-own-root-certificate-authority-in-2023/"
+    ]
+  ],
+  [
+    [
+      "2023-09-16, 13:45:45",
+      "https://lobste.rs/s/qo0amc/static_server_http_server_go_for_static"
+    ],
+    [
+      "static-server: an HTTP server in Go for static content",
+      "https://eli.thegreenplace.net/2023/static-server-an-http-server-in-go-for-static-content/"
     ]
   ],
   [
