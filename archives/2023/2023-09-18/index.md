@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-18](index.md)
 
+* [2023-09-18, 11:08:08](https://lobste.rs/s/kwko3s/segmented_stacks_wine_proton_minidumps) - [Segmented stacks in Wine/Proton minidumps](https://werat.dev/blog/segmented-stacks-in-wine-proton-minidumps/)
 * [2023-09-18, 10:16:59](https://lobste.rs/s/srjntb/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/srjntb/what_are_you_doing_this_week)
 * [2023-09-18, 10:00:18](https://lobste.rs/s/l6wdzd/what_if_opendocument_used_sqlite) - [What If OpenDocument Used SQLite](https://www.sqlite.org/affcase1.html)
 * [2023-09-18, 09:45:15](https://lobste.rs/s/ez2wph/how_hard_is_it_adapt_memory_allocator) - [How Hard is it to Adapt a Memory Allocator to CHERI?](https://tratt.net/laurie/blog/2023/how_hard_is_it_to_adapt_a_memory_allocator_to_cheri.html)
