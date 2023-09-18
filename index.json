@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-18, 09:45:15",
+      "https://lobste.rs/s/ez2wph/how_hard_is_it_adapt_memory_allocator"
+    ],
+    [
+      "How Hard is it to Adapt a Memory Allocator to CHERI?",
+      "https://tratt.net/laurie/blog/2023/how_hard_is_it_to_adapt_a_memory_allocator_to_cheri.html"
+    ]
+  ],
+  [
+    [
       "2023-09-18, 08:48:37",
       "https://lobste.rs/s/smmiri/tale_failing_design_rule_boundaries_data"
     ],
@@ -237,16 +247,6 @@
     [
       "Pineapple ONE: Open source 32 bit RISC-V CPU that you can make at home",
       "https://pineapple-one.github.io/"
-    ]
-  ],
-  [
-    [
-      "2023-09-16, 01:16:21",
-      "https://lobste.rs/s/ztk89c/mastodon_instance_with_6_files"
-    ],
-    [
-      "Mastodon instance with 6 files",
-      "https://justingarrison.com/blog/2022-12-06-mastodon-files-instance/"
     ]
   ]
 ]
