@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-18, 18:10:36](https://lobste.rs/s/tewdvu/hamlib_ham_radio_control_library_for_rigs) - [Hamlib: Ham radio control library for rigs, rotators, tuners, and amplifiers](https://github.com/Hamlib/Hamlib)
 * [2023-09-18, 16:45:43](https://lobste.rs/s/dmrner/38tb_data_accidentally_exposed_by) - [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
 * [2023-09-18, 16:13:54](https://lobste.rs/s/pt3cft/creating_base_oci_image_for_nix_flake) - [Creating a base OCI image for Nix flake builds within Gitea/Forgejo](https://blog.cyplo.dev/posts/2023/09/act-runner-image/)
 * [2023-09-18, 14:40:30](https://lobste.rs/s/ixzr1c/buffer_analysis_when_using_explain) - [Buffer analysis when using EXPLAIN ANALYSE in Postgres](https://willj.net/posts/buffer-analysis-when-using-explain-analyse-in-postgres/)
@@ -19,7 +20,6 @@
 * [2023-09-18, 05:13:49](https://lobste.rs/s/sguibs/so_let_s_talk_about_this_wayland_thing) - [So let’s talk about this Wayland thing](https://pointieststick.com/2023/09/17/so-lets-talk-about-this-wayland-thing/)
 * [2023-09-18, 04:57:39](https://lobste.rs/s/mat4pb/tickling_ksmbd_fuzzing_smb_linux_kernel) - [Tickling ksmbd: fuzzing SMB in the Linux kernel](https://pwning.tech/ksmbd-syzkaller/)
 * [2023-09-18, 01:08:05](https://lobste.rs/s/w1oxtc/backlight_auto_missing_linux_automatic) - [backlight-auto - the missing Linux automatic backlight adjuster](https://len.falken.directory/backlight-auto.html)
-* [2023-09-17, 17:43:42](https://lobste.rs/s/5ptjpj/which_computational_universe_do_we_live) - [Which Computational Universe Do We Live In?](https://www.quantamagazine.org/which-computational-universe-do-we-live-in-20220418/)
 * [2023-09-17, 17:22:01](https://lobste.rs/s/tfsr57/changing_rules_rust) - [Changing the rules of Rust](https://without.boats/blog/changing-the-rules-of-rust/)
 * [2023-09-17, 15:24:55](https://lobste.rs/s/hbzhdu/oils_0_18_0_progress_on_all_fronts) - [Oils 0.18.0 - Progress on All Fronts](https://www.oilshell.org/blog/2023/09/release-0.18.0.html)
 * [2023-09-17, 15:08:29](https://lobste.rs/s/yqo4kd/how_mac_didn_t_bring_programming_people) - [How the Mac didn’t bring programming to the people](https://eclecticlight.co/2023/09/16/how-the-mac-didnt-bring-programming-to-the-people/)
