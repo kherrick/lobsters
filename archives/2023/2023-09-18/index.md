@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-18](index.md)
 
+* [2023-09-18, 14:40:30](https://lobste.rs/s/ixzr1c/buffer_analysis_when_using_explain) - [Buffer analysis when using EXPLAIN ANALYSE in Postgres](https://willj.net/posts/buffer-analysis-when-using-explain-analyse-in-postgres/)
 * [2023-09-18, 14:22:12](https://lobste.rs/s/fjhuo7/path_great_ux_increased_exposure_hours) - [Path to a Great UX - Increased Exposure Hours](https://articles.centercentre.com/user_exposure_hours/)
 * [2023-09-18, 14:17:34](https://lobste.rs/s/qckbua/petals_run_llms_at_home_bittorrent_style) - [Petals – Run LLMs at home, BitTorrent-style](https://petals.dev/)
 * [2023-09-18, 13:00:32](https://lobste.rs/s/hwuo4x/i_hacked_macos_cve_2022_32947) - [I hacked macOS! (CVE-2022-32947)](https://asahilina.net/agx-exploit/)
