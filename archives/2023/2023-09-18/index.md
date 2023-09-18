@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-18](index.md)
 
+* [2023-09-18, 14:22:12](https://lobste.rs/s/fjhuo7/path_great_ux_increased_exposure_hours) - [Path to a Great UX - Increased Exposure Hours](https://articles.centercentre.com/user_exposure_hours/)
+* [2023-09-18, 14:17:34](https://lobste.rs/s/qckbua/petals_run_llms_at_home_bittorrent_style) - [Petals – Run LLMs at home, BitTorrent-style](https://petals.dev/)
 * [2023-09-18, 13:00:32](https://lobste.rs/s/hwuo4x/i_hacked_macos_cve_2022_32947) - [I hacked macOS! (CVE-2022-32947)](https://asahilina.net/agx-exploit/)
 * [2023-09-18, 12:59:57](https://lobste.rs/s/0l3rch/we_need_standard_layered_image_format) - [We Need A Standard Layered Image Format (2013)](https://shapeof.com/archives/2013/4/we_need_a_standard_layered_image_format.html)
 * [2023-09-18, 12:00:03](https://lobste.rs/s/0d6jxz/when_zig_outshines_rust_memory_efficient) - [When Zig Outshines Rust - Memory Efficient Enum Arrays](https://alic.dev/blog/dense-enums)

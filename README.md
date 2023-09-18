@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-18, 14:22:12](https://lobste.rs/s/fjhuo7/path_great_ux_increased_exposure_hours) - [Path to a Great UX - Increased Exposure Hours](https://articles.centercentre.com/user_exposure_hours/)
+* [2023-09-18, 14:17:34](https://lobste.rs/s/qckbua/petals_run_llms_at_home_bittorrent_style) - [Petals – Run LLMs at home, BitTorrent-style](https://petals.dev/)
 * [2023-09-18, 13:00:32](https://lobste.rs/s/hwuo4x/i_hacked_macos_cve_2022_32947) - [I hacked macOS! (CVE-2022-32947)](https://asahilina.net/agx-exploit/)
 * [2023-09-18, 12:59:57](https://lobste.rs/s/0l3rch/we_need_standard_layered_image_format) - [We Need A Standard Layered Image Format (2013)](https://shapeof.com/archives/2013/4/we_need_a_standard_layered_image_format.html)
 * [2023-09-18, 12:00:03](https://lobste.rs/s/0d6jxz/when_zig_outshines_rust_memory_efficient) - [When Zig Outshines Rust - Memory Efficient Enum Arrays](https://alic.dev/blog/dense-enums)
@@ -15,7 +17,6 @@
 * [2023-09-18, 04:57:39](https://lobste.rs/s/mat4pb/tickling_ksmbd_fuzzing_smb_linux_kernel) - [Tickling ksmbd: fuzzing SMB in the Linux kernel](https://pwning.tech/ksmbd-syzkaller/)
 * [2023-09-18, 01:08:05](https://lobste.rs/s/w1oxtc/backlight_auto_missing_linux_automatic) - [backlight-auto - the missing Linux automatic backlight adjuster](https://len.falken.directory/backlight-auto.html)
 * [2023-09-17, 22:46:27](https://lobste.rs/s/jdsv1j/homebrew_website_club) - [Homebrew Website Club](https://indieweb.org/HWC)
-* [2023-09-17, 19:47:25](https://lobste.rs/s/tke9az/look_at_apple_s_new_transformer_powered) - [A look at Apple’s new Transformer-powered predictive text model](https://jackcook.com/2023/09/08/predictive-text.html)
 * [2023-09-17, 17:43:42](https://lobste.rs/s/5ptjpj/which_computational_universe_do_we_live) - [Which Computational Universe Do We Live In?](https://www.quantamagazine.org/which-computational-universe-do-we-live-in-20220418/)
 * [2023-09-17, 17:30:02](https://lobste.rs/s/mr8mx6/def_con_31_videos) - [DEF CON 31 Videos](https://www.youtube.com/@DEFCONConference/videos)
 * [2023-09-17, 17:22:01](https://lobste.rs/s/tfsr57/changing_rules_rust) - [Changing the rules of Rust](https://without.boats/blog/changing-the-rules-of-rust/)
@@ -24,7 +25,6 @@
 * [2023-09-17, 13:10:29](https://lobste.rs/s/rowxtx/why_not_react) - [Why not React?](https://dev.to/tigt/why-not-react-2f8l)
 * [2023-09-17, 12:06:47](https://lobste.rs/s/5jpbgl/sql_join_flavors) - [SQL join flavors](https://antonz.org/sql-join/)
 * [2023-09-17, 08:27:12](https://lobste.rs/s/yldk6x/ferricy_building_custom_34_key_split) - [Ferricy: Building a custom 34-key split keyboard](https://www.snprajwal.com/blog/ferricy-custom-split-keyboard/)
-* [2023-09-17, 07:08:55](https://lobste.rs/s/yo6ozl/zig_curl_zig_bindings_libcurl) - [zig-curl: Zig bindings to libcurl](https://github.com/jiacai2050/zig-curl)
 
 ## [Archives](archives/index.md)
 
