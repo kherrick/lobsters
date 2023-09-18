@@ -21,8 +21,8 @@
 * [2023-09-18, 07:11:48](https://lobste.rs/s/fgnk3g/what_s_deal_with_flag_emoji) - [what's the deal with flag emoji?](https://cohost.org/BerryPi/post/451056-what-s-the-deal-with)
 * [2023-09-18, 06:50:20](https://lobste.rs/s/h2pqdv/so_what_s_so_special_about_mill_scala_build) - [So, What's So Special About The Mill Scala Build Tool?](https://www.lihaoyi.com/post/SoWhatsSoSpecialAboutTheMillScalaBuildTool.html)
 * [2023-09-18, 05:13:49](https://lobste.rs/s/sguibs/so_let_s_talk_about_this_wayland_thing) - [So let’s talk about this Wayland thing](https://pointieststick.com/2023/09/17/so-lets-talk-about-this-wayland-thing/)
-* [2023-09-18, 04:57:39](https://lobste.rs/s/mat4pb/tickling_ksmbd_fuzzing_smb_linux_kernel) - [Tickling ksmbd: fuzzing SMB in the Linux kernel](https://pwning.tech/ksmbd-syzkaller/)
 * [2023-09-18, 01:08:05](https://lobste.rs/s/w1oxtc/backlight_auto_missing_linux_automatic) - [backlight-auto - the missing Linux automatic backlight adjuster](https://len.falken.directory/backlight-auto.html)
+* [2023-09-17, 17:22:01](https://lobste.rs/s/tfsr57/changing_rules_rust) - [Changing the rules of Rust](https://without.boats/blog/changing-the-rules-of-rust/)
 * [2023-09-17, 15:24:55](https://lobste.rs/s/hbzhdu/oils_0_18_0_progress_on_all_fronts) - [Oils 0.18.0 - Progress on All Fronts](https://www.oilshell.org/blog/2023/09/release-0.18.0.html)
 * [2023-09-17, 12:06:47](https://lobste.rs/s/5jpbgl/sql_join_flavors) - [SQL join flavors](https://antonz.org/sql-join/)
 
