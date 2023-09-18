@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-18](index.md)
 
+* [2023-09-18, 21:51:57](https://lobste.rs/s/zmhept/tracing_structured_logging_better_every) - [Tracing: structured logging, but better in every way](https://andydote.co.uk/2023/09/19/tracing-is-better/)
 * [2023-09-18, 21:29:19](https://lobste.rs/s/baqsft/grounded_conceptual_model_for_ownership) - [A Grounded Conceptual Model for Ownership Types in Rust](https://blog.brownplt.org/2023/09/17/rust-ownership.html)
 * [2023-09-18, 21:27:38](https://lobste.rs/s/zoqvpp/security_flaws_sso_plugin_for_caddy) - [Security flaws in an SSO plugin for Caddy](https://blog.trailofbits.com/2023/09/18/security-flaws-in-an-sso-plugin-for-caddy/)
 * [2023-09-18, 21:16:20](https://lobste.rs/s/bd9vp9/comments_on_comments) - [Comments On Comments](https://noncombatant.org/2023/08/27/comments/)
