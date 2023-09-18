@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-18, 10:16:59](https://lobste.rs/s/srjntb/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/srjntb/what_are_you_doing_this_week)
 * [2023-09-18, 10:00:18](https://lobste.rs/s/l6wdzd/what_if_opendocument_used_sqlite) - [What If OpenDocument Used SQLite](https://www.sqlite.org/affcase1.html)
 * [2023-09-18, 09:45:15](https://lobste.rs/s/ez2wph/how_hard_is_it_adapt_memory_allocator) - [How Hard is it to Adapt a Memory Allocator to CHERI?](https://tratt.net/laurie/blog/2023/how_hard_is_it_to_adapt_a_memory_allocator_to_cheri.html)
 * [2023-09-18, 08:48:37](https://lobste.rs/s/smmiri/tale_failing_design_rule_boundaries_data) - [A tale of failing to design rule boundaries - Data-last functions](https://jfmengels.net/data-last-rule-failure/)
@@ -16,7 +17,6 @@
 * [2023-09-17, 15:24:55](https://lobste.rs/s/hbzhdu/oils_0_18_0_progress_on_all_fronts) - [Oils 0.18.0 - Progress on All Fronts](https://www.oilshell.org/blog/2023/09/release-0.18.0.html)
 * [2023-09-17, 15:14:56](https://lobste.rs/s/vhwjax/q_agile_open_source_projects) - [[Q] Agile in open source projects](https://lobste.rs/s/vhwjax/q_agile_open_source_projects)
 * [2023-09-17, 15:08:29](https://lobste.rs/s/yqo4kd/how_mac_didn_t_bring_programming_people) - [How the Mac didn’t bring programming to the people](https://eclecticlight.co/2023/09/16/how-the-mac-didnt-bring-programming-to-the-people/)
-* [2023-09-17, 15:03:49](https://lobste.rs/s/tswthi/ibertex_spanish_videotext) - [Ibertex (Spanish videotext)](https://www.youtube.com/playlist?list=PLBC_8UFeexNgEnIrDn7-4D-E1VApmQtR6)
 * [2023-09-17, 13:10:29](https://lobste.rs/s/rowxtx/why_not_react) - [Why not React?](https://dev.to/tigt/why-not-react-2f8l)
 * [2023-09-17, 12:06:47](https://lobste.rs/s/5jpbgl/sql_join_flavors) - [SQL join flavors](https://antonz.org/sql-join/)
 * [2023-09-17, 08:27:12](https://lobste.rs/s/yldk6x/ferricy_building_custom_34_key_split) - [Ferricy: Building a custom 34-key split keyboard](https://www.snprajwal.com/blog/ferricy-custom-split-keyboard/)
