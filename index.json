@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-18, 21:51:57",
+      "https://lobste.rs/s/zmhept/tracing_structured_logging_better_every"
+    ],
+    [
+      "Tracing: structured logging, but better in every way",
+      "https://andydote.co.uk/2023/09/19/tracing-is-better/"
+    ]
+  ],
+  [
+    [
       "2023-09-18, 21:29:19",
       "https://lobste.rs/s/baqsft/grounded_conceptual_model_for_ownership"
     ],
@@ -157,16 +167,6 @@
     [
       "How Hard is it to Adapt a Memory Allocator to CHERI?",
       "https://tratt.net/laurie/blog/2023/how_hard_is_it_to_adapt_a_memory_allocator_to_cheri.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-18, 08:48:37",
-      "https://lobste.rs/s/smmiri/tale_failing_design_rule_boundaries_data"
-    ],
-    [
-      "A tale of failing to design rule boundaries - Data-last functions",
-      "https://jfmengels.net/data-last-rule-failure/"
     ]
   ],
   [
