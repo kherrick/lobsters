@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-18](index.md)
 
+* [2023-09-18, 21:29:19](https://lobste.rs/s/baqsft/grounded_conceptual_model_for_ownership) - [A Grounded Conceptual Model for Ownership Types in Rust](https://blog.brownplt.org/2023/09/17/rust-ownership.html)
+* [2023-09-18, 21:27:38](https://lobste.rs/s/zoqvpp/security_flaws_sso_plugin_for_caddy) - [Security flaws in an SSO plugin for Caddy](https://blog.trailofbits.com/2023/09/18/security-flaws-in-an-sso-plugin-for-caddy/)
 * [2023-09-18, 21:16:20](https://lobste.rs/s/bd9vp9/comments_on_comments) - [Comments On Comments](https://noncombatant.org/2023/08/27/comments/)
 * [2023-09-18, 20:27:31](https://lobste.rs/s/dfgkd3/low_latency_logging_rust) - [Low latency logging in Rust](https://ochagavia.nl/blog/low-latency-logging-in-rust/)
 * [2023-09-18, 18:19:23](https://lobste.rs/s/httypw/stability_without_stressing_out) - [Stability without stressing the !@#! out](https://smallcultfollowing.com/babysteps/blog/2023/09/18/stability-without-stressing-the-out/)
