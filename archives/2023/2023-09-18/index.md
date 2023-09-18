@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-18](index.md)
 
+* [2023-09-18, 17:02:52](https://lobste.rs/s/n49jxz/microsoft_publishes_garbled_ai_article) - [Microsoft Publishes Garbled AI Article Calling Tragically Deceased NBA Player \"Useless\"](https://futurism.com/msn-ai-brandon-hunter-useless)
 * [2023-09-18, 16:45:43](https://lobste.rs/s/dmrner/38tb_data_accidentally_exposed_by) - [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
 * [2023-09-18, 16:13:54](https://lobste.rs/s/pt3cft/creating_base_oci_image_for_nix_flake) - [Creating a base OCI image for Nix flake builds within Gitea/Forgejo](https://blog.cyplo.dev/posts/2023/09/act-runner-image/)
 * [2023-09-18, 14:40:30](https://lobste.rs/s/ixzr1c/buffer_analysis_when_using_explain) - [Buffer analysis when using EXPLAIN ANALYSE in Postgres](https://willj.net/posts/buffer-analysis-when-using-explain-analyse-in-postgres/)
