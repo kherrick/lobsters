@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-18, 08:48:37",
+      "https://lobste.rs/s/smmiri/tale_failing_design_rule_boundaries_data"
+    ],
+    [
+      "A tale of failing to design rule boundaries - Data-last functions",
+      "https://jfmengels.net/data-last-rule-failure/"
+    ]
+  ],
+  [
+    [
       "2023-09-18, 07:11:48",
       "https://lobste.rs/s/fgnk3g/what_s_deal_with_flag_emoji"
     ],
@@ -217,16 +227,6 @@
     [
       "Sifting through crates.io for malware with OSSF Package Analysis",
       "http://www.williballenthin.com/post/sifting-through-crates.io-for-malware-with-ossf-package-analysis/"
-    ]
-  ],
-  [
-    [
-      "2023-09-16, 19:07:43",
-      "https://lobste.rs/s/qqfwd4/running_one_s_own_root_certificate"
-    ],
-    [
-      "Running one’s own root Certificate Authority in 2023",
-      "https://wejn.org/2023/09/running-ones-own-root-certificate-authority-in-2023/"
     ]
   ],
   [
