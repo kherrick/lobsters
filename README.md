@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-18, 10:00:18](https://lobste.rs/s/l6wdzd/what_if_opendocument_used_sqlite) - [What If OpenDocument Used SQLite](https://www.sqlite.org/affcase1.html)
 * [2023-09-18, 09:45:15](https://lobste.rs/s/ez2wph/how_hard_is_it_adapt_memory_allocator) - [How Hard is it to Adapt a Memory Allocator to CHERI?](https://tratt.net/laurie/blog/2023/how_hard_is_it_to_adapt_a_memory_allocator_to_cheri.html)
 * [2023-09-18, 08:48:37](https://lobste.rs/s/smmiri/tale_failing_design_rule_boundaries_data) - [A tale of failing to design rule boundaries - Data-last functions](https://jfmengels.net/data-last-rule-failure/)
 * [2023-09-18, 07:11:48](https://lobste.rs/s/fgnk3g/what_s_deal_with_flag_emoji) - [what's the deal with flag emoji?](https://cohost.org/BerryPi/post/451056-what-s-the-deal-with)
@@ -24,7 +25,6 @@
 * [2023-09-17, 02:21:02](https://lobste.rs/s/u6ewve/fossil_wrist_pda_becomes_tiny_gopher) - [The Fossil Wrist PDA becomes a tiny Gopher client](https://oldvcr.blogspot.com/2023/09/the-fossil-wrist-pda-becomes-tiny.html)
 * [2023-09-17, 00:04:04](https://lobste.rs/s/7ygaok/programming_with_5_bits_ram_what_turing) - [Programming With 5 Bits of RAM — What Turing Machines Can Tell Us About Programming Languages](https://antipodes.substack.com/p/programming-with-5-bits-of-ram)
 * [2023-09-16, 20:59:51](https://lobste.rs/s/fafnz8/sifting_through_crates_io_for_malware) - [Sifting through crates.io for malware with OSSF Package Analysis](http://www.williballenthin.com/post/sifting-through-crates.io-for-malware-with-ossf-package-analysis/)
-* [2023-09-16, 05:53:20](https://lobste.rs/s/gcjfoy/pineapple_one_open_source_32_bit_risc_v_cpu) - [Pineapple ONE: Open source 32 bit RISC-V CPU that you can make at home](https://pineapple-one.github.io/)
 
 ## [Archives](archives/index.md)
 
