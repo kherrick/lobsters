@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-18, 11:35:40](https://lobste.rs/s/molidx/help_iterators_made_my_rust_program) - [\"Help, iterators made my Rust program slower!\"](https://ntietz.com/blog/rust-iterators-and-threads/)
 * [2023-09-18, 11:08:08](https://lobste.rs/s/kwko3s/segmented_stacks_wine_proton_minidumps) - [Segmented stacks in Wine/Proton minidumps](https://werat.dev/blog/segmented-stacks-in-wine-proton-minidumps/)
 * [2023-09-18, 10:16:59](https://lobste.rs/s/srjntb/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/srjntb/what_are_you_doing_this_week)
 * [2023-09-18, 10:00:18](https://lobste.rs/s/l6wdzd/what_if_opendocument_used_sqlite) - [What If OpenDocument Used SQLite](https://www.sqlite.org/affcase1.html)
@@ -24,7 +25,6 @@
 * [2023-09-17, 07:08:55](https://lobste.rs/s/yo6ozl/zig_curl_zig_bindings_libcurl) - [zig-curl: Zig bindings to libcurl](https://github.com/jiacai2050/zig-curl)
 * [2023-09-17, 04:35:49](https://lobste.rs/s/ukoj9o/software_design_quiz) - [Software Design Quiz](https://mirdin.com/quizzes/software-design-quiz/)
 * [2023-09-17, 02:21:02](https://lobste.rs/s/u6ewve/fossil_wrist_pda_becomes_tiny_gopher) - [The Fossil Wrist PDA becomes a tiny Gopher client](https://oldvcr.blogspot.com/2023/09/the-fossil-wrist-pda-becomes-tiny.html)
-* [2023-09-16, 20:59:51](https://lobste.rs/s/fafnz8/sifting_through_crates_io_for_malware) - [Sifting through crates.io for malware with OSSF Package Analysis](http://www.williballenthin.com/post/sifting-through-crates.io-for-malware-with-ossf-package-analysis/)
 
 ## [Archives](archives/index.md)
 
