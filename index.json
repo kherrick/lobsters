@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-18, 14:40:30",
+      "https://lobste.rs/s/ixzr1c/buffer_analysis_when_using_explain"
+    ],
+    [
+      "Buffer analysis when using EXPLAIN ANALYSE in Postgres",
+      "https://willj.net/posts/buffer-analysis-when-using-explain-analyse-in-postgres/"
+    ]
+  ],
+  [
+    [
       "2023-09-18, 14:22:12",
       "https://lobste.rs/s/fjhuo7/path_great_ux_increased_exposure_hours"
     ],
@@ -27,16 +37,6 @@
     [
       "I hacked macOS! (CVE-2022-32947)",
       "https://asahilina.net/agx-exploit/"
-    ]
-  ],
-  [
-    [
-      "2023-09-18, 12:59:57",
-      "https://lobste.rs/s/0l3rch/we_need_standard_layered_image_format"
-    ],
-    [
-      "We Need A Standard Layered Image Format (2013)",
-      "https://shapeof.com/archives/2013/4/we_need_a_standard_layered_image_format.html"
     ]
   ],
   [
