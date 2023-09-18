@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-18, 13:00:32](https://lobste.rs/s/hwuo4x/i_hacked_macos_cve_2022_32947) - [I hacked macOS! (CVE-2022-32947)](https://asahilina.net/agx-exploit/)
+* [2023-09-18, 12:59:57](https://lobste.rs/s/0l3rch/we_need_standard_layered_image_format) - [We Need A Standard Layered Image Format (2013)](https://shapeof.com/archives/2013/4/we_need_a_standard_layered_image_format.html)
 * [2023-09-18, 12:00:03](https://lobste.rs/s/0d6jxz/when_zig_outshines_rust_memory_efficient) - [When Zig Outshines Rust - Memory Efficient Enum Arrays](https://alic.dev/blog/dense-enums)
 * [2023-09-18, 11:35:40](https://lobste.rs/s/molidx/help_iterators_made_my_rust_program) - [\"Help, iterators made my Rust program slower!\"](https://ntietz.com/blog/rust-iterators-and-threads/)
 * [2023-09-18, 11:08:08](https://lobste.rs/s/kwko3s/segmented_stacks_wine_proton_minidumps) - [Segmented stacks in Wine/Proton minidumps](https://werat.dev/blog/segmented-stacks-in-wine-proton-minidumps/)
@@ -23,8 +25,6 @@
 * [2023-09-17, 12:06:47](https://lobste.rs/s/5jpbgl/sql_join_flavors) - [SQL join flavors](https://antonz.org/sql-join/)
 * [2023-09-17, 08:27:12](https://lobste.rs/s/yldk6x/ferricy_building_custom_34_key_split) - [Ferricy: Building a custom 34-key split keyboard](https://www.snprajwal.com/blog/ferricy-custom-split-keyboard/)
 * [2023-09-17, 07:08:55](https://lobste.rs/s/yo6ozl/zig_curl_zig_bindings_libcurl) - [zig-curl: Zig bindings to libcurl](https://github.com/jiacai2050/zig-curl)
-* [2023-09-17, 04:35:49](https://lobste.rs/s/ukoj9o/software_design_quiz) - [Software Design Quiz](https://mirdin.com/quizzes/software-design-quiz/)
-* [2023-09-17, 02:21:02](https://lobste.rs/s/u6ewve/fossil_wrist_pda_becomes_tiny_gopher) - [The Fossil Wrist PDA becomes a tiny Gopher client](https://oldvcr.blogspot.com/2023/09/the-fossil-wrist-pda-becomes-tiny.html)
 
 ## [Archives](archives/index.md)
 
