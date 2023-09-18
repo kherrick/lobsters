@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-18, 10:00:18",
+      "https://lobste.rs/s/l6wdzd/what_if_opendocument_used_sqlite"
+    ],
+    [
+      "What If OpenDocument Used SQLite",
+      "https://www.sqlite.org/affcase1.html"
+    ]
+  ],
+  [
+    [
       "2023-09-18, 09:45:15",
       "https://lobste.rs/s/ez2wph/how_hard_is_it_adapt_memory_allocator"
     ],
@@ -237,16 +247,6 @@
     [
       "Sifting through crates.io for malware with OSSF Package Analysis",
       "http://www.williballenthin.com/post/sifting-through-crates.io-for-malware-with-ossf-package-analysis/"
-    ]
-  ],
-  [
-    [
-      "2023-09-16, 05:53:20",
-      "https://lobste.rs/s/gcjfoy/pineapple_one_open_source_32_bit_risc_v_cpu"
-    ],
-    [
-      "Pineapple ONE: Open source 32 bit RISC-V CPU that you can make at home",
-      "https://pineapple-one.github.io/"
     ]
   ]
 ]
