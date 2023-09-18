@@ -4,6 +4,7 @@
 * [2023-09-18, 21:51:57](https://lobste.rs/s/zmhept/tracing_structured_logging_better_every) - [Tracing: structured logging, but better in every way](https://andydote.co.uk/2023/09/19/tracing-is-better/)
 * [2023-09-18, 21:27:38](https://lobste.rs/s/zoqvpp/security_flaws_sso_plugin_for_caddy) - [Security flaws in an SSO plugin for Caddy](https://blog.trailofbits.com/2023/09/18/security-flaws-in-an-sso-plugin-for-caddy/)
 * [2023-09-18, 21:16:20](https://lobste.rs/s/bd9vp9/comments_on_comments) - [Comments On Comments](https://noncombatant.org/2023/08/27/comments/)
+* [2023-09-18, 20:27:31](https://lobste.rs/s/dfgkd3/low_latency_logging_rust) - [Low latency logging in Rust](https://ochagavia.nl/blog/low-latency-logging-in-rust/)
 * [2023-09-18, 18:19:23](https://lobste.rs/s/httypw/stability_without_stressing_out) - [Stability without stressing the !@#! out](https://smallcultfollowing.com/babysteps/blog/2023/09/18/stability-without-stressing-the-out/)
 * [2023-09-18, 18:10:36](https://lobste.rs/s/tewdvu/hamlib_ham_radio_control_library_for_rigs) - [Hamlib: Ham radio control library for rigs, rotators, tuners, and amplifiers](https://github.com/Hamlib/Hamlib)
 * [2023-09-18, 16:45:43](https://lobste.rs/s/dmrner/38tb_data_accidentally_exposed_by) - [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
@@ -22,7 +23,6 @@
 * [2023-09-18, 05:13:49](https://lobste.rs/s/sguibs/so_let_s_talk_about_this_wayland_thing) - [So let’s talk about this Wayland thing](https://pointieststick.com/2023/09/17/so-lets-talk-about-this-wayland-thing/)
 * [2023-09-18, 04:57:39](https://lobste.rs/s/mat4pb/tickling_ksmbd_fuzzing_smb_linux_kernel) - [Tickling ksmbd: fuzzing SMB in the Linux kernel](https://pwning.tech/ksmbd-syzkaller/)
 * [2023-09-18, 01:08:05](https://lobste.rs/s/w1oxtc/backlight_auto_missing_linux_automatic) - [backlight-auto - the missing Linux automatic backlight adjuster](https://len.falken.directory/backlight-auto.html)
-* [2023-09-17, 17:22:01](https://lobste.rs/s/tfsr57/changing_rules_rust) - [Changing the rules of Rust](https://without.boats/blog/changing-the-rules-of-rust/)
 * [2023-09-17, 15:24:55](https://lobste.rs/s/hbzhdu/oils_0_18_0_progress_on_all_fronts) - [Oils 0.18.0 - Progress on All Fronts](https://www.oilshell.org/blog/2023/09/release-0.18.0.html)
 * [2023-09-17, 12:06:47](https://lobste.rs/s/5jpbgl/sql_join_flavors) - [SQL join flavors](https://antonz.org/sql-join/)
 
