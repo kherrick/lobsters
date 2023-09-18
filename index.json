@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-18, 14:22:12",
+      "https://lobste.rs/s/fjhuo7/path_great_ux_increased_exposure_hours"
+    ],
+    [
+      "Path to a Great UX - Increased Exposure Hours",
+      "https://articles.centercentre.com/user_exposure_hours/"
+    ]
+  ],
+  [
+    [
+      "2023-09-18, 14:17:34",
+      "https://lobste.rs/s/qckbua/petals_run_llms_at_home_bittorrent_style"
+    ],
+    [
+      "Petals – Run LLMs at home, BitTorrent-style",
+      "https://petals.dev/"
+    ]
+  ],
+  [
+    [
       "2023-09-18, 13:00:32",
       "https://lobste.rs/s/hwuo4x/i_hacked_macos_cve_2022_32947"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-09-17, 19:47:25",
-      "https://lobste.rs/s/tke9az/look_at_apple_s_new_transformer_powered"
-    ],
-    [
-      "A look at Apple’s new Transformer-powered predictive text model",
-      "https://jackcook.com/2023/09/08/predictive-text.html"
-    ]
-  ],
-  [
-    [
       "2023-09-17, 17:43:42",
       "https://lobste.rs/s/5ptjpj/which_computational_universe_do_we_live"
     ],
@@ -237,16 +247,6 @@
     [
       "Ferricy: Building a custom 34-key split keyboard",
       "https://www.snprajwal.com/blog/ferricy-custom-split-keyboard/"
-    ]
-  ],
-  [
-    [
-      "2023-09-17, 07:08:55",
-      "https://lobste.rs/s/yo6ozl/zig_curl_zig_bindings_libcurl"
-    ],
-    [
-      "zig-curl: Zig bindings to libcurl",
-      "https://github.com/jiacai2050/zig-curl"
     ]
   ]
 ]
