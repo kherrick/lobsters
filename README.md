@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-18, 18:19:23](https://lobste.rs/s/httypw/stability_without_stressing_out) - [Stability without stressing the !@#! out](https://smallcultfollowing.com/babysteps/blog/2023/09/18/stability-without-stressing-the-out/)
 * [2023-09-18, 18:10:36](https://lobste.rs/s/tewdvu/hamlib_ham_radio_control_library_for_rigs) - [Hamlib: Ham radio control library for rigs, rotators, tuners, and amplifiers](https://github.com/Hamlib/Hamlib)
 * [2023-09-18, 16:45:43](https://lobste.rs/s/dmrner/38tb_data_accidentally_exposed_by) - [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
 * [2023-09-18, 16:13:54](https://lobste.rs/s/pt3cft/creating_base_oci_image_for_nix_flake) - [Creating a base OCI image for Nix flake builds within Gitea/Forgejo](https://blog.cyplo.dev/posts/2023/09/act-runner-image/)
@@ -24,7 +25,6 @@
 * [2023-09-17, 15:24:55](https://lobste.rs/s/hbzhdu/oils_0_18_0_progress_on_all_fronts) - [Oils 0.18.0 - Progress on All Fronts](https://www.oilshell.org/blog/2023/09/release-0.18.0.html)
 * [2023-09-17, 15:08:29](https://lobste.rs/s/yqo4kd/how_mac_didn_t_bring_programming_people) - [How the Mac didn’t bring programming to the people](https://eclecticlight.co/2023/09/16/how-the-mac-didnt-bring-programming-to-the-people/)
 * [2023-09-17, 12:06:47](https://lobste.rs/s/5jpbgl/sql_join_flavors) - [SQL join flavors](https://antonz.org/sql-join/)
-* [2023-09-17, 08:27:12](https://lobste.rs/s/yldk6x/ferricy_building_custom_34_key_split) - [Ferricy: Building a custom 34-key split keyboard](https://www.snprajwal.com/blog/ferricy-custom-split-keyboard/)
 
 ## [Archives](archives/index.md)
 
