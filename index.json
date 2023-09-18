@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-09-18, 20:27:31",
+      "https://lobste.rs/s/dfgkd3/low_latency_logging_rust"
+    ],
+    [
+      "Low latency logging in Rust",
+      "https://ochagavia.nl/blog/low-latency-logging-in-rust/"
+    ]
+  ],
+  [
+    [
       "2023-09-18, 18:19:23",
       "https://lobste.rs/s/httypw/stability_without_stressing_out"
     ],
@@ -217,16 +227,6 @@
     [
       "backlight-auto - the missing Linux automatic backlight adjuster",
       "https://len.falken.directory/backlight-auto.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-17, 17:22:01",
-      "https://lobste.rs/s/tfsr57/changing_rules_rust"
-    ],
-    [
-      "Changing the rules of Rust",
-      "https://without.boats/blog/changing-the-rules-of-rust/"
     ]
   ],
   [
