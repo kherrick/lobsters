@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-18, 12:00:03](https://lobste.rs/s/0d6jxz/when_zig_outshines_rust_memory_efficient) - [When Zig Outshines Rust - Memory Efficient Enum Arrays](https://alic.dev/blog/dense-enums)
 * [2023-09-18, 11:35:40](https://lobste.rs/s/molidx/help_iterators_made_my_rust_program) - [\"Help, iterators made my Rust program slower!\"](https://ntietz.com/blog/rust-iterators-and-threads/)
 * [2023-09-18, 11:08:08](https://lobste.rs/s/kwko3s/segmented_stacks_wine_proton_minidumps) - [Segmented stacks in Wine/Proton minidumps](https://werat.dev/blog/segmented-stacks-in-wine-proton-minidumps/)
 * [2023-09-18, 10:16:59](https://lobste.rs/s/srjntb/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/srjntb/what_are_you_doing_this_week)
@@ -17,7 +18,6 @@
 * [2023-09-17, 17:30:02](https://lobste.rs/s/mr8mx6/def_con_31_videos) - [DEF CON 31 Videos](https://www.youtube.com/@DEFCONConference/videos)
 * [2023-09-17, 17:22:01](https://lobste.rs/s/tfsr57/changing_rules_rust) - [Changing the rules of Rust](https://without.boats/blog/changing-the-rules-of-rust/)
 * [2023-09-17, 15:24:55](https://lobste.rs/s/hbzhdu/oils_0_18_0_progress_on_all_fronts) - [Oils 0.18.0 - Progress on All Fronts](https://www.oilshell.org/blog/2023/09/release-0.18.0.html)
-* [2023-09-17, 15:14:56](https://lobste.rs/s/vhwjax/q_agile_open_source_projects) - [[Q] Agile in open source projects](https://lobste.rs/s/vhwjax/q_agile_open_source_projects)
 * [2023-09-17, 15:08:29](https://lobste.rs/s/yqo4kd/how_mac_didn_t_bring_programming_people) - [How the Mac didn’t bring programming to the people](https://eclecticlight.co/2023/09/16/how-the-mac-didnt-bring-programming-to-the-people/)
 * [2023-09-17, 13:10:29](https://lobste.rs/s/rowxtx/why_not_react) - [Why not React?](https://dev.to/tigt/why-not-react-2f8l)
 * [2023-09-17, 12:06:47](https://lobste.rs/s/5jpbgl/sql_join_flavors) - [SQL join flavors](https://antonz.org/sql-join/)
