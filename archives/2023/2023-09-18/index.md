@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-18](index.md)
 
+* [2023-09-18, 16:45:43](https://lobste.rs/s/dmrner/38tb_data_accidentally_exposed_by) - [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
 * [2023-09-18, 16:13:54](https://lobste.rs/s/pt3cft/creating_base_oci_image_for_nix_flake) - [Creating a base OCI image for Nix flake builds within Gitea/Forgejo](https://blog.cyplo.dev/posts/2023/09/act-runner-image/)
 * [2023-09-18, 14:40:30](https://lobste.rs/s/ixzr1c/buffer_analysis_when_using_explain) - [Buffer analysis when using EXPLAIN ANALYSE in Postgres](https://willj.net/posts/buffer-analysis-when-using-explain-analyse-in-postgres/)
 * [2023-09-18, 14:22:12](https://lobste.rs/s/fjhuo7/path_great_ux_increased_exposure_hours) - [Path to a Great UX - Increased Exposure Hours](https://articles.centercentre.com/user_exposure_hours/)

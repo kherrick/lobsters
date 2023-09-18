@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-18, 16:45:43](https://lobste.rs/s/dmrner/38tb_data_accidentally_exposed_by) - [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
 * [2023-09-18, 16:13:54](https://lobste.rs/s/pt3cft/creating_base_oci_image_for_nix_flake) - [Creating a base OCI image for Nix flake builds within Gitea/Forgejo](https://blog.cyplo.dev/posts/2023/09/act-runner-image/)
 * [2023-09-18, 14:40:30](https://lobste.rs/s/ixzr1c/buffer_analysis_when_using_explain) - [Buffer analysis when using EXPLAIN ANALYSE in Postgres](https://willj.net/posts/buffer-analysis-when-using-explain-analyse-in-postgres/)
-* [2023-09-18, 14:22:12](https://lobste.rs/s/fjhuo7/path_great_ux_increased_exposure_hours) - [Path to a Great UX - Increased Exposure Hours](https://articles.centercentre.com/user_exposure_hours/)
 * [2023-09-18, 13:00:32](https://lobste.rs/s/hwuo4x/i_hacked_macos_cve_2022_32947) - [I hacked macOS! (CVE-2022-32947)](https://asahilina.net/agx-exploit/)
 * [2023-09-18, 12:59:57](https://lobste.rs/s/0l3rch/we_need_standard_layered_image_format) - [We Need A Standard Layered Image Format (2013)](https://shapeof.com/archives/2013/4/we_need_a_standard_layered_image_format.html)
 * [2023-09-18, 12:00:03](https://lobste.rs/s/0d6jxz/when_zig_outshines_rust_memory_efficient) - [When Zig Outshines Rust - Memory Efficient Enum Arrays](https://alic.dev/blog/dense-enums)
