@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-18, 20:27:31",
+      "https://lobste.rs/s/dfgkd3/low_latency_logging_rust"
+    ],
+    [
+      "Low latency logging in Rust",
+      "https://ochagavia.nl/blog/low-latency-logging-in-rust/"
+    ]
+  ],
+  [
+    [
       "2023-09-18, 18:19:23",
       "https://lobste.rs/s/httypw/stability_without_stressing_out"
     ],
@@ -47,16 +57,6 @@
     [
       "Buffer analysis when using EXPLAIN ANALYSE in Postgres",
       "https://willj.net/posts/buffer-analysis-when-using-explain-analyse-in-postgres/"
-    ]
-  ],
-  [
-    [
-      "2023-09-18, 14:22:12",
-      "https://lobste.rs/s/fjhuo7/path_great_ux_increased_exposure_hours"
-    ],
-    [
-      "Path to a Great UX - Increased Exposure Hours",
-      "https://articles.centercentre.com/user_exposure_hours/"
     ]
   ],
   [
