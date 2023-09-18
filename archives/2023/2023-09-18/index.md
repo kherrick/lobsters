@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-18](index.md)
 
+* [2023-09-18, 09:45:15](https://lobste.rs/s/ez2wph/how_hard_is_it_adapt_memory_allocator) - [How Hard is it to Adapt a Memory Allocator to CHERI?](https://tratt.net/laurie/blog/2023/how_hard_is_it_to_adapt_a_memory_allocator_to_cheri.html)
 * [2023-09-18, 08:48:37](https://lobste.rs/s/smmiri/tale_failing_design_rule_boundaries_data) - [A tale of failing to design rule boundaries - Data-last functions](https://jfmengels.net/data-last-rule-failure/)
 * [2023-09-18, 07:11:48](https://lobste.rs/s/fgnk3g/what_s_deal_with_flag_emoji) - [what's the deal with flag emoji?](https://cohost.org/BerryPi/post/451056-what-s-the-deal-with)
 * [2023-09-18, 06:50:20](https://lobste.rs/s/h2pqdv/so_what_s_so_special_about_mill_scala_build) - [So, What's So Special About The Mill Scala Build Tool?](https://www.lihaoyi.com/post/SoWhatsSoSpecialAboutTheMillScalaBuildTool.html)
