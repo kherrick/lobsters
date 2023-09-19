@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 21:42:59](https://lobste.rs/s/onvo30/simple_java_virtual_machine_c) - [Simple Java virtual machine in C](https://github.com/phillbush/jvm)
 * [2023-09-19, 19:23:37](https://lobste.rs/s/w6dpri/fixing_for_loops_go_1_22) - [Fixing For Loops in Go 1.22](https://go.dev/blog/loopvar-preview)
 * [2023-09-19, 18:51:53](https://lobste.rs/s/3iwgfy/build123d_python_cad_programming) - [build123d: A python CAD programming library](https://github.com/gumyr/build123d)
 * [2023-09-19, 18:45:15](https://lobste.rs/s/z46wyt/analyzing_modern_wild_android_exploit) - [Analyzing a Modern In-the-wild Android Exploit](https://googleprojectzero.blogspot.com/2023/09/analyzing-modern-in-wild-android-exploit.html)
