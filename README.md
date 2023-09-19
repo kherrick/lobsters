@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-19, 17:37:10](https://lobste.rs/s/0fj5vg/open_sourcing_grafbase_engine) - [Open sourcing the Grafbase Engine](https://grafbase.com/blog/open-sourcing-the-grafbase-engine)
+* [2023-09-19, 17:36:12](https://lobste.rs/s/hqx3kr/follow_up_changing_rules_rust) - [Follow up to \"Changing the rules of Rust\"](https://without.boats/blog/follow-up-to-changing-the-rules-of-rust/)
 * [2023-09-19, 16:45:55](https://lobste.rs/s/xxg7w6/kamal_deploy_deploy_web_apps_anywhere) - [kamal-deploy: Deploy web apps anywhere](https://kamal-deploy.org/)
 * [2023-09-19, 16:23:55](https://lobste.rs/s/nxg81c/okay_microservices_have_benefits_too) - [Okay, Microservices Have Benefits Too](https://two-wrongs.com/benefits-of-microservices.html)
 * [2023-09-19, 15:49:14](https://lobste.rs/s/zu8hii/jdk_21_release_notes) - [JDK 21 Release Notes](https://jdk.java.net/21/release-notes)
@@ -13,7 +15,6 @@
 * [2023-09-19, 08:24:15](https://lobste.rs/s/pb4vuz/fx_terminal_json_viewer) - [fx – terminal JSON viewer](https://fx.wtf/)
 * [2023-09-19, 07:56:23](https://lobste.rs/s/qg39wt/packet_drop_reasons) - [Packet drop reasons](https://dxuuu.xyz/dropreason.html)
 * [2023-09-19, 06:15:48](https://lobste.rs/s/ipn1sc/django_5_0_alpha_1_released) - [Django 5.0 alpha 1 released](https://www.djangoproject.com/weblog/2023/sep/18/django-50-alpha-1-released/)
-* [2023-09-19, 01:10:20](https://lobste.rs/s/i7zzyo/immutable_reprovisionable_anti) - [“Immutable” - reprovisionable, anti-hysteresis](https://blog.verbum.org/2020/08/22/immutable-→-reprovisionable-anti-hysteresis/)
 * [2023-09-19, 01:04:19](https://lobste.rs/s/7626ru/webkit_features_safari_17_0) - [WebKit Features in Safari 17.0](https://webkit.org/blog/14445/webkit-features-in-safari-17-0/)
 * [2023-09-18, 22:15:20](https://lobste.rs/s/vbngne/inside_new_query_engine_mongodb) - [Inside New Query Engine of MongoDB](https://laplab.me/posts/inside-new-query-engine-of-mongodb/)
 * [2023-09-18, 22:10:07](https://lobste.rs/s/0qgt3d/godot_is_not_new_unity_anatomy_godot_api) - [Godot is not the new Unity - The anatomy of a Godot API call](https://sampruden.github.io/posts/godot-is-not-the-new-unity/)
@@ -23,7 +24,6 @@
 * [2023-09-18, 12:00:03](https://lobste.rs/s/0d6jxz/when_zig_outshines_rust_memory_efficient) - [When Zig Outshines Rust - Memory Efficient Enum Arrays](https://alic.dev/blog/dense-enums)
 * [2023-09-18, 11:35:40](https://lobste.rs/s/molidx/help_iterators_made_my_rust_program) - [\"Help, iterators made my Rust program slower!\"](https://ntietz.com/blog/rust-iterators-and-threads/)
 * [2023-09-18, 10:00:18](https://lobste.rs/s/l6wdzd/what_if_opendocument_used_sqlite) - [What If OpenDocument Used SQLite](https://www.sqlite.org/affcase1.html)
-* [2023-09-18, 09:45:15](https://lobste.rs/s/ez2wph/how_hard_is_it_adapt_memory_allocator) - [How Hard is it to Adapt a Memory Allocator to CHERI?](https://tratt.net/laurie/blog/2023/how_hard_is_it_to_adapt_a_memory_allocator_to_cheri.html)
 * [2023-09-18, 05:13:49](https://lobste.rs/s/sguibs/so_let_s_talk_about_this_wayland_thing) - [So let’s talk about this Wayland thing](https://pointieststick.com/2023/09/17/so-lets-talk-about-this-wayland-thing/)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 17:37:10](https://lobste.rs/s/0fj5vg/open_sourcing_grafbase_engine) - [Open sourcing the Grafbase Engine](https://grafbase.com/blog/open-sourcing-the-grafbase-engine)
+* [2023-09-19, 17:36:12](https://lobste.rs/s/hqx3kr/follow_up_changing_rules_rust) - [Follow up to \"Changing the rules of Rust\"](https://without.boats/blog/follow-up-to-changing-the-rules-of-rust/)
 * [2023-09-19, 16:45:55](https://lobste.rs/s/xxg7w6/kamal_deploy_deploy_web_apps_anywhere) - [kamal-deploy: Deploy web apps anywhere](https://kamal-deploy.org/)
 * [2023-09-19, 16:23:55](https://lobste.rs/s/nxg81c/okay_microservices_have_benefits_too) - [Okay, Microservices Have Benefits Too](https://two-wrongs.com/benefits-of-microservices.html)
 * [2023-09-19, 15:49:14](https://lobste.rs/s/zu8hii/jdk_21_release_notes) - [JDK 21 Release Notes](https://jdk.java.net/21/release-notes)
