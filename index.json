@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-09-19, 21:42:59",
-      "https://lobste.rs/s/onvo30/simple_java_virtual_machine_c"
+      "2023-09-19, 23:02:25",
+      "https://lobste.rs/s/qpmn9w/all_ways_capture_changes_postgres"
     ],
     [
-      "Simple Java virtual machine in C",
-      "https://github.com/phillbush/jvm"
+      "All the ways to capture changes in Postgres",
+      "https://blog.sequin.io/all-the-ways-to-capture-changes-in-postgres/"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "tclip just got clippier",
       "https://tailscale.dev/blog/tclip-updates-092023"
+    ]
+  ],
+  [
+    [
+      "2023-09-19, 20:26:42",
+      "https://lobste.rs/s/gupvpz/making_gaussian_splats_smaller"
+    ],
+    [
+      "Making Gaussian Splats smaller",
+      "https://aras-p.info/blog/2023/09/13/Making-Gaussian-Splats-smaller/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "WebKit Features in Safari 17.0",
       "https://webkit.org/blog/14445/webkit-features-in-safari-17-0/"
-    ]
-  ],
-  [
-    [
-      "2023-09-18, 22:15:20",
-      "https://lobste.rs/s/vbngne/inside_new_query_engine_mongodb"
-    ],
-    [
-      "Inside New Query Engine of MongoDB",
-      "https://laplab.me/posts/inside-new-query-engine-of-mongodb/"
     ]
   ],
   [
