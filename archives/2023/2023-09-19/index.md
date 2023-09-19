@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 08:55:07](https://lobste.rs/s/y2790z/java_21_is_available_today_it_s_quite) - [Java 21 Is Available Today, And It's Quite The Update](https://foojay.io/today/java-21-is-available-today-and-its-quite-the-update/)
 * [2023-09-19, 08:24:15](https://lobste.rs/s/pb4vuz/fx_terminal_json_viewer) - [fx – terminal JSON viewer](https://fx.wtf/)
 * [2023-09-19, 07:56:23](https://lobste.rs/s/qg39wt/packet_drop_reasons) - [Packet drop reasons](https://dxuuu.xyz/dropreason.html)
 * [2023-09-19, 06:19:43](https://lobste.rs/s/o4i23q/revisiting_programmable_mac_rom_simms) - [Revisiting programmable Mac ROM SIMMs in Quadras](https://www.downtowndougbrown.com/2023/09/revisiting-programmable-mac-rom-simms-in-quadras/)
