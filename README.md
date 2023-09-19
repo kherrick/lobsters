@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-19, 06:19:43](https://lobste.rs/s/o4i23q/revisiting_programmable_mac_rom_simms) - [Revisiting programmable Mac ROM SIMMs in Quadras](https://www.downtowndougbrown.com/2023/09/revisiting-programmable-mac-rom-simms-in-quadras/)
 * [2023-09-19, 06:15:48](https://lobste.rs/s/ipn1sc/django_5_0_alpha_1_released) - [Django 5.0 alpha 1 released](https://www.djangoproject.com/weblog/2023/sep/18/django-50-alpha-1-released/)
 * [2023-09-19, 01:10:20](https://lobste.rs/s/i7zzyo/immutable_reprovisionable_anti) - [“Immutable” - reprovisionable, anti-hysteresis](https://blog.verbum.org/2020/08/22/immutable-→-reprovisionable-anti-hysteresis/)
 * [2023-09-19, 01:04:19](https://lobste.rs/s/7626ru/webkit_features_safari_17_0) - [WebKit Features in Safari 17.0](https://webkit.org/blog/14445/webkit-features-in-safari-17-0/)
@@ -13,7 +14,6 @@
 * [2023-09-18, 18:10:36](https://lobste.rs/s/tewdvu/hamlib_ham_radio_control_library_for_rigs) - [Hamlib: Ham radio control library for rigs, rotators, tuners, and amplifiers](https://github.com/Hamlib/Hamlib)
 * [2023-09-18, 16:45:43](https://lobste.rs/s/dmrner/38tb_data_accidentally_exposed_by) - [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
 * [2023-09-18, 16:13:54](https://lobste.rs/s/pt3cft/creating_base_oci_image_for_nix_flake) - [Creating a base OCI image for Nix flake builds within Gitea/Forgejo](https://blog.cyplo.dev/posts/2023/09/act-runner-image/)
-* [2023-09-18, 14:17:34](https://lobste.rs/s/qckbua/petals_run_llms_at_home_bittorrent_style) - [Petals – Run LLMs at home, BitTorrent-style](https://petals.dev/)
 * [2023-09-18, 13:00:32](https://lobste.rs/s/hwuo4x/i_hacked_macos_cve_2022_32947) - [I hacked macOS! (CVE-2022-32947)](https://asahilina.net/agx-exploit/)
 * [2023-09-18, 12:59:57](https://lobste.rs/s/0l3rch/we_need_standard_layered_image_format) - [We Need A Standard Layered Image Format (2013)](https://shapeof.com/archives/2013/4/we_need_a_standard_layered_image_format.html)
 * [2023-09-18, 12:00:03](https://lobste.rs/s/0d6jxz/when_zig_outshines_rust_memory_efficient) - [When Zig Outshines Rust - Memory Efficient Enum Arrays](https://alic.dev/blog/dense-enums)
