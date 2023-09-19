@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-19, 19:23:37](https://lobste.rs/s/w6dpri/fixing_for_loops_go_1_22) - [Fixing For Loops in Go 1.22](https://go.dev/blog/loopvar-preview)
 * [2023-09-19, 18:51:53](https://lobste.rs/s/3iwgfy/build123d_python_cad_programming) - [build123d: A python CAD programming library](https://github.com/gumyr/build123d)
 * [2023-09-19, 18:45:15](https://lobste.rs/s/z46wyt/analyzing_modern_wild_android_exploit) - [Analyzing a Modern In-the-wild Android Exploit](https://googleprojectzero.blogspot.com/2023/09/analyzing-modern-in-wild-android-exploit.html)
 * [2023-09-19, 17:37:10](https://lobste.rs/s/0fj5vg/open_sourcing_grafbase_engine) - [Open sourcing the Grafbase Engine](https://grafbase.com/blog/open-sourcing-the-grafbase-engine)
@@ -22,7 +23,6 @@
 * [2023-09-18, 21:16:20](https://lobste.rs/s/bd9vp9/comments_on_comments) - [Comments On Comments](https://noncombatant.org/2023/08/27/comments/)
 * [2023-09-18, 13:00:32](https://lobste.rs/s/hwuo4x/i_hacked_macos_cve_2022_32947) - [I hacked macOS! (CVE-2022-32947)](https://asahilina.net/agx-exploit/)
 * [2023-09-18, 12:00:03](https://lobste.rs/s/0d6jxz/when_zig_outshines_rust_memory_efficient) - [When Zig Outshines Rust - Memory Efficient Enum Arrays](https://alic.dev/blog/dense-enums)
-* [2023-09-18, 11:35:40](https://lobste.rs/s/molidx/help_iterators_made_my_rust_program) - [\"Help, iterators made my Rust program slower!\"](https://ntietz.com/blog/rust-iterators-and-threads/)
 * [2023-09-18, 10:00:18](https://lobste.rs/s/l6wdzd/what_if_opendocument_used_sqlite) - [What If OpenDocument Used SQLite](https://www.sqlite.org/affcase1.html)
 * [2023-09-18, 05:13:49](https://lobste.rs/s/sguibs/so_let_s_talk_about_this_wayland_thing) - [So let’s talk about this Wayland thing](https://pointieststick.com/2023/09/17/so-lets-talk-about-this-wayland-thing/)
 
