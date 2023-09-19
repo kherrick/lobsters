@@ -1,22 +1,12 @@
 [
   [
     [
-      "2023-09-19, 22:02:23",
-      "https://lobste.rs/s/jwvnpj/crash_course_lxd"
+      "2023-09-19, 21:42:59",
+      "https://lobste.rs/s/onvo30/simple_java_virtual_machine_c"
     ],
     [
-      "Crash Course to LXD",
-      "https://secluded.site/crash-course-to-lxd/"
-    ]
-  ],
-  [
-    [
-      "2023-09-19, 22:01:36",
-      "https://lobste.rs/s/uwiqnf/lxd_containers_for_human_beings"
-    ],
-    [
-      "LXD: Containers for Human Beings",
-      "https://secluded.site/lxd-containers-for-human-beings/"
+      "Simple Java virtual machine in C",
+      "https://github.com/phillbush/jvm"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Tracing: structured logging, but better in every way",
       "https://andydote.co.uk/2023/09/19/tracing-is-better/"
+    ]
+  ],
+  [
+    [
+      "2023-09-18, 13:00:32",
+      "https://lobste.rs/s/hwuo4x/i_hacked_macos_cve_2022_32947"
+    ],
+    [
+      "I hacked macOS! (CVE-2022-32947)",
+      "https://asahilina.net/agx-exploit/"
     ]
   ],
   [
