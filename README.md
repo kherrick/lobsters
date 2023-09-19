@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-19, 06:15:48](https://lobste.rs/s/ipn1sc/django_5_0_alpha_1_released) - [Django 5.0 alpha 1 released](https://www.djangoproject.com/weblog/2023/sep/18/django-50-alpha-1-released/)
 * [2023-09-19, 01:10:20](https://lobste.rs/s/i7zzyo/immutable_reprovisionable_anti) - [“Immutable” - reprovisionable, anti-hysteresis](https://blog.verbum.org/2020/08/22/immutable-→-reprovisionable-anti-hysteresis/)
 * [2023-09-19, 01:04:19](https://lobste.rs/s/7626ru/webkit_features_safari_17_0) - [WebKit Features in Safari 17.0](https://webkit.org/blog/14445/webkit-features-in-safari-17-0/)
 * [2023-09-18, 22:15:20](https://lobste.rs/s/vbngne/inside_new_query_engine_mongodb) - [Inside New Query Engine of MongoDB](https://laplab.me/posts/inside-new-query-engine-of-mongodb/)
@@ -23,7 +24,6 @@
 * [2023-09-18, 07:11:48](https://lobste.rs/s/fgnk3g/what_s_deal_with_flag_emoji) - [what's the deal with flag emoji?](https://cohost.org/BerryPi/post/451056-what-s-the-deal-with)
 * [2023-09-18, 06:50:20](https://lobste.rs/s/h2pqdv/so_what_s_so_special_about_mill_scala_build) - [So, What's So Special About The Mill Scala Build Tool?](https://www.lihaoyi.com/post/SoWhatsSoSpecialAboutTheMillScalaBuildTool.html)
 * [2023-09-18, 05:13:49](https://lobste.rs/s/sguibs/so_let_s_talk_about_this_wayland_thing) - [So let’s talk about this Wayland thing](https://pointieststick.com/2023/09/17/so-lets-talk-about-this-wayland-thing/)
-* [2023-09-18, 01:08:05](https://lobste.rs/s/w1oxtc/backlight_auto_missing_linux_automatic) - [backlight-auto - the missing Linux automatic backlight adjuster](https://len.falken.directory/backlight-auto.html)
 * [2023-09-17, 12:06:47](https://lobste.rs/s/5jpbgl/sql_join_flavors) - [SQL join flavors](https://antonz.org/sql-join/)
 
 ## [Archives](archives/index.md)
