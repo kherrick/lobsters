@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-19, 15:49:14",
+      "https://lobste.rs/s/zu8hii/jdk_21_release_notes"
+    ],
+    [
+      "JDK 21 Release Notes",
+      "https://jdk.java.net/21/release-notes"
+    ]
+  ],
+  [
+    [
       "2023-09-19, 14:36:59",
       "https://lobste.rs/s/huacom/you_probably_don_t_need_oauth2_openid"
     ],
@@ -147,16 +157,6 @@
     [
       "Tracing: structured logging, but better in every way",
       "https://andydote.co.uk/2023/09/19/tracing-is-better/"
-    ]
-  ],
-  [
-    [
-      "2023-09-18, 21:27:38",
-      "https://lobste.rs/s/zoqvpp/security_flaws_sso_plugin_for_caddy"
-    ],
-    [
-      "Security flaws in an SSO plugin for Caddy",
-      "https://blog.trailofbits.com/2023/09/18/security-flaws-in-an-sso-plugin-for-caddy/"
     ]
   ],
   [
