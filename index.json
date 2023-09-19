@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-19, 17:37:10",
+      "https://lobste.rs/s/0fj5vg/open_sourcing_grafbase_engine"
+    ],
+    [
+      "Open sourcing the Grafbase Engine",
+      "https://grafbase.com/blog/open-sourcing-the-grafbase-engine"
+    ]
+  ],
+  [
+    [
+      "2023-09-19, 17:36:12",
+      "https://lobste.rs/s/hqx3kr/follow_up_changing_rules_rust"
+    ],
+    [
+      "Follow up to \"Changing the rules of Rust\"",
+      "https://without.boats/blog/follow-up-to-changing-the-rules-of-rust/"
+    ]
+  ],
+  [
+    [
       "2023-09-19, 16:45:55",
       "https://lobste.rs/s/xxg7w6/kamal_deploy_deploy_web_apps_anywhere"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-09-19, 01:10:20",
-      "https://lobste.rs/s/i7zzyo/immutable_reprovisionable_anti"
-    ],
-    [
-      "“Immutable” - reprovisionable, anti-hysteresis",
-      "https://blog.verbum.org/2020/08/22/immutable-→-reprovisionable-anti-hysteresis/"
-    ]
-  ],
-  [
-    [
       "2023-09-19, 01:04:19",
       "https://lobste.rs/s/7626ru/webkit_features_safari_17_0"
     ],
@@ -227,16 +237,6 @@
     [
       "What If OpenDocument Used SQLite",
       "https://www.sqlite.org/affcase1.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-18, 09:45:15",
-      "https://lobste.rs/s/ez2wph/how_hard_is_it_adapt_memory_allocator"
-    ],
-    [
-      "How Hard is it to Adapt a Memory Allocator to CHERI?",
-      "https://tratt.net/laurie/blog/2023/how_hard_is_it_to_adapt_a_memory_allocator_to_cheri.html"
     ]
   ],
   [
