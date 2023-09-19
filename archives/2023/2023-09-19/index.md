@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 23:32:37](https://lobste.rs/s/sqa0ao/circles_do_not_exist) - [Circles do not exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
 * [2023-09-19, 23:02:25](https://lobste.rs/s/qpmn9w/all_ways_capture_changes_postgres) - [All the ways to capture changes in Postgres](https://blog.sequin.io/all-the-ways-to-capture-changes-in-postgres/)
 * [2023-09-19, 22:02:23](https://lobste.rs/s/jwvnpj/crash_course_lxd) - [Crash Course to LXD](https://secluded.site/crash-course-to-lxd/)
 * [2023-09-19, 22:01:36](https://lobste.rs/s/uwiqnf/lxd_containers_for_human_beings) - [LXD: Containers for Human Beings](https://secluded.site/lxd-containers-for-human-beings/)
