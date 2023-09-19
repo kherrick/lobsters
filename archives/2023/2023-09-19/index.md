@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 16:45:55](https://lobste.rs/s/xxg7w6/kamal_deploy_deploy_web_apps_anywhere) - [kamal-deploy: Deploy web apps anywhere](https://kamal-deploy.org/)
 * [2023-09-19, 16:23:55](https://lobste.rs/s/nxg81c/okay_microservices_have_benefits_too) - [Okay, Microservices Have Benefits Too](https://two-wrongs.com/benefits-of-microservices.html)
 * [2023-09-19, 15:49:14](https://lobste.rs/s/zu8hii/jdk_21_release_notes) - [JDK 21 Release Notes](https://jdk.java.net/21/release-notes)
 * [2023-09-19, 14:36:59](https://lobste.rs/s/huacom/you_probably_don_t_need_oauth2_openid) - [You Probably Don't Need OAuth2/OpenID Connect: Here's Why (2020)](https://hackernoon.com/you-probably-dont-need-oauth2openid-connect-heres-why)
