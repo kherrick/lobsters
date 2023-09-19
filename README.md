@@ -2,10 +2,10 @@
 
 * [2023-09-19, 18:51:53](https://lobste.rs/s/3iwgfy/build123d_python_cad_programming) - [build123d: A python CAD programming library](https://github.com/gumyr/build123d)
 * [2023-09-19, 18:45:15](https://lobste.rs/s/z46wyt/analyzing_modern_wild_android_exploit) - [Analyzing a Modern In-the-wild Android Exploit](https://googleprojectzero.blogspot.com/2023/09/analyzing-modern-in-wild-android-exploit.html)
+* [2023-09-19, 17:37:10](https://lobste.rs/s/0fj5vg/open_sourcing_grafbase_engine) - [Open sourcing the Grafbase Engine](https://grafbase.com/blog/open-sourcing-the-grafbase-engine)
 * [2023-09-19, 16:45:55](https://lobste.rs/s/xxg7w6/kamal_deploy_deploy_web_apps_anywhere) - [kamal-deploy: Deploy web apps anywhere](https://kamal-deploy.org/)
 * [2023-09-19, 16:23:55](https://lobste.rs/s/nxg81c/okay_microservices_have_benefits_too) - [Okay, Microservices Have Benefits Too](https://two-wrongs.com/benefits-of-microservices.html)
 * [2023-09-19, 15:49:14](https://lobste.rs/s/zu8hii/jdk_21_release_notes) - [JDK 21 Release Notes](https://jdk.java.net/21/release-notes)
-* [2023-09-19, 14:36:59](https://lobste.rs/s/huacom/you_probably_don_t_need_oauth2_openid) - [You Probably Don't Need OAuth2/OpenID Connect: Here's Why (2020)](https://hackernoon.com/you-probably-dont-need-oauth2openid-connect-heres-why)
 * [2023-09-19, 13:20:42](https://lobste.rs/s/7g4l4h/compiling_ml_models_c_for_fun) - [Compiling ML models to C for fun](https://bernsteinbear.com//blog/compiling-ml-models/)
 * [2023-09-19, 13:08:13](https://lobste.rs/s/ctmitn/performance_comparison_linear_search_vs) - [Performance comparison: linear search vs binary search (2017)](https://dirtyhandscoding.github.io/posts/performance-comparison-linear-search-vs-binary-search.html)
 * [2023-09-19, 12:48:26](https://lobste.rs/s/nm7elo/improving_your_online_privacy_update) - [Improving your online privacy: An update](https://blog.ovalerio.net/archives/2615)
