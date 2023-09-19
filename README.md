@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-19, 14:36:59](https://lobste.rs/s/huacom/you_probably_don_t_need_oauth2_openid) - [You Probably Don't Need OAuth2/OpenID Connect: Here's Why (2020)](https://hackernoon.com/you-probably-dont-need-oauth2openid-connect-heres-why)
 * [2023-09-19, 13:20:42](https://lobste.rs/s/7g4l4h/compiling_ml_models_c_for_fun) - [Compiling ML models to C for fun](https://bernsteinbear.com//blog/compiling-ml-models/)
 * [2023-09-19, 13:08:13](https://lobste.rs/s/ctmitn/performance_comparison_linear_search_vs) - [Performance comparison: linear search vs binary search (2017)](https://dirtyhandscoding.github.io/posts/performance-comparison-linear-search-vs-binary-search.html)
 * [2023-09-19, 12:48:26](https://lobste.rs/s/nm7elo/improving_your_online_privacy_update) - [Improving your online privacy: An update](https://blog.ovalerio.net/archives/2615)
@@ -15,7 +16,6 @@
 * [2023-09-18, 22:15:20](https://lobste.rs/s/vbngne/inside_new_query_engine_mongodb) - [Inside New Query Engine of MongoDB](https://laplab.me/posts/inside-new-query-engine-of-mongodb/)
 * [2023-09-18, 22:10:07](https://lobste.rs/s/0qgt3d/godot_is_not_new_unity_anatomy_godot_api) - [Godot is not the new Unity - The anatomy of a Godot API call](https://sampruden.github.io/posts/godot-is-not-the-new-unity/)
 * [2023-09-18, 21:51:57](https://lobste.rs/s/zmhept/tracing_structured_logging_better_every) - [Tracing: structured logging, but better in every way](https://andydote.co.uk/2023/09/19/tracing-is-better/)
-* [2023-09-18, 21:27:38](https://lobste.rs/s/zoqvpp/security_flaws_sso_plugin_for_caddy) - [Security flaws in an SSO plugin for Caddy](https://blog.trailofbits.com/2023/09/18/security-flaws-in-an-sso-plugin-for-caddy/)
 * [2023-09-18, 21:16:20](https://lobste.rs/s/bd9vp9/comments_on_comments) - [Comments On Comments](https://noncombatant.org/2023/08/27/comments/)
 * [2023-09-18, 16:45:43](https://lobste.rs/s/dmrner/38tb_data_accidentally_exposed_by) - [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
 * [2023-09-18, 13:00:32](https://lobste.rs/s/hwuo4x/i_hacked_macos_cve_2022_32947) - [I hacked macOS! (CVE-2022-32947)](https://asahilina.net/agx-exploit/)
