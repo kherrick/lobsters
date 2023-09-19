@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-19, 06:15:48",
+      "https://lobste.rs/s/ipn1sc/django_5_0_alpha_1_released"
+    ],
+    [
+      "Django 5.0 alpha 1 released",
+      "https://www.djangoproject.com/weblog/2023/sep/18/django-50-alpha-1-released/"
+    ]
+  ],
+  [
+    [
       "2023-09-19, 01:10:20",
       "https://lobste.rs/s/i7zzyo/immutable_reprovisionable_anti"
     ],
@@ -227,16 +237,6 @@
     [
       "So let’s talk about this Wayland thing",
       "https://pointieststick.com/2023/09/17/so-lets-talk-about-this-wayland-thing/"
-    ]
-  ],
-  [
-    [
-      "2023-09-18, 01:08:05",
-      "https://lobste.rs/s/w1oxtc/backlight_auto_missing_linux_automatic"
-    ],
-    [
-      "backlight-auto - the missing Linux automatic backlight adjuster",
-      "https://len.falken.directory/backlight-auto.html"
     ]
   ],
   [
