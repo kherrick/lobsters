@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 12:05:18](https://lobste.rs/s/vz4ocd/64_bit_bank_balances_ought_be_enough_for) - [64-Bit Bank Balances ‘Ought to be Enough for Anybody’?](https://tigerbeetle.com/blog/2023-09-19-64-bit-bank-balances-ought-to-be-enough-for-anybody/)
 * [2023-09-19, 08:55:07](https://lobste.rs/s/y2790z/java_21_is_available_today_it_s_quite) - [Java 21 Is Available Today, And It's Quite The Update](https://foojay.io/today/java-21-is-available-today-and-its-quite-the-update/)
 * [2023-09-19, 08:24:15](https://lobste.rs/s/pb4vuz/fx_terminal_json_viewer) - [fx – terminal JSON viewer](https://fx.wtf/)
 * [2023-09-19, 07:56:23](https://lobste.rs/s/qg39wt/packet_drop_reasons) - [Packet drop reasons](https://dxuuu.xyz/dropreason.html)

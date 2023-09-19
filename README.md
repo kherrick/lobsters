@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-19, 12:05:18](https://lobste.rs/s/vz4ocd/64_bit_bank_balances_ought_be_enough_for) - [64-Bit Bank Balances ‘Ought to be Enough for Anybody’?](https://tigerbeetle.com/blog/2023-09-19-64-bit-bank-balances-ought-to-be-enough-for-anybody/)
 * [2023-09-19, 08:55:07](https://lobste.rs/s/y2790z/java_21_is_available_today_it_s_quite) - [Java 21 Is Available Today, And It's Quite The Update](https://foojay.io/today/java-21-is-available-today-and-its-quite-the-update/)
 * [2023-09-19, 08:24:15](https://lobste.rs/s/pb4vuz/fx_terminal_json_viewer) - [fx – terminal JSON viewer](https://fx.wtf/)
 * [2023-09-19, 07:56:23](https://lobste.rs/s/qg39wt/packet_drop_reasons) - [Packet drop reasons](https://dxuuu.xyz/dropreason.html)
@@ -12,7 +13,6 @@
 * [2023-09-18, 21:51:57](https://lobste.rs/s/zmhept/tracing_structured_logging_better_every) - [Tracing: structured logging, but better in every way](https://andydote.co.uk/2023/09/19/tracing-is-better/)
 * [2023-09-18, 21:27:38](https://lobste.rs/s/zoqvpp/security_flaws_sso_plugin_for_caddy) - [Security flaws in an SSO plugin for Caddy](https://blog.trailofbits.com/2023/09/18/security-flaws-in-an-sso-plugin-for-caddy/)
 * [2023-09-18, 21:16:20](https://lobste.rs/s/bd9vp9/comments_on_comments) - [Comments On Comments](https://noncombatant.org/2023/08/27/comments/)
-* [2023-09-18, 20:27:31](https://lobste.rs/s/dfgkd3/low_latency_logging_rust) - [Low latency logging in Rust](https://ochagavia.nl/blog/low-latency-logging-in-rust/)
 * [2023-09-18, 18:19:23](https://lobste.rs/s/httypw/stability_without_stressing_out) - [Stability without stressing the !@#! out](https://smallcultfollowing.com/babysteps/blog/2023/09/18/stability-without-stressing-the-out/)
 * [2023-09-18, 16:45:43](https://lobste.rs/s/dmrner/38tb_data_accidentally_exposed_by) - [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
 * [2023-09-18, 16:13:54](https://lobste.rs/s/pt3cft/creating_base_oci_image_for_nix_flake) - [Creating a base OCI image for Nix flake builds within Gitea/Forgejo](https://blog.cyplo.dev/posts/2023/09/act-runner-image/)
