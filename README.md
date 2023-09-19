@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-19, 16:23:55](https://lobste.rs/s/nxg81c/okay_microservices_have_benefits_too) - [Okay, Microservices Have Benefits Too](https://two-wrongs.com/benefits-of-microservices.html)
 * [2023-09-19, 15:49:14](https://lobste.rs/s/zu8hii/jdk_21_release_notes) - [JDK 21 Release Notes](https://jdk.java.net/21/release-notes)
 * [2023-09-19, 14:36:59](https://lobste.rs/s/huacom/you_probably_don_t_need_oauth2_openid) - [You Probably Don't Need OAuth2/OpenID Connect: Here's Why (2020)](https://hackernoon.com/you-probably-dont-need-oauth2openid-connect-heres-why)
 * [2023-09-19, 13:20:42](https://lobste.rs/s/7g4l4h/compiling_ml_models_c_for_fun) - [Compiling ML models to C for fun](https://bernsteinbear.com//blog/compiling-ml-models/)
@@ -17,7 +18,6 @@
 * [2023-09-18, 22:10:07](https://lobste.rs/s/0qgt3d/godot_is_not_new_unity_anatomy_godot_api) - [Godot is not the new Unity - The anatomy of a Godot API call](https://sampruden.github.io/posts/godot-is-not-the-new-unity/)
 * [2023-09-18, 21:51:57](https://lobste.rs/s/zmhept/tracing_structured_logging_better_every) - [Tracing: structured logging, but better in every way](https://andydote.co.uk/2023/09/19/tracing-is-better/)
 * [2023-09-18, 21:16:20](https://lobste.rs/s/bd9vp9/comments_on_comments) - [Comments On Comments](https://noncombatant.org/2023/08/27/comments/)
-* [2023-09-18, 16:45:43](https://lobste.rs/s/dmrner/38tb_data_accidentally_exposed_by) - [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
 * [2023-09-18, 13:00:32](https://lobste.rs/s/hwuo4x/i_hacked_macos_cve_2022_32947) - [I hacked macOS! (CVE-2022-32947)](https://asahilina.net/agx-exploit/)
 * [2023-09-18, 12:00:03](https://lobste.rs/s/0d6jxz/when_zig_outshines_rust_memory_efficient) - [When Zig Outshines Rust - Memory Efficient Enum Arrays](https://alic.dev/blog/dense-enums)
 * [2023-09-18, 11:35:40](https://lobste.rs/s/molidx/help_iterators_made_my_rust_program) - [\"Help, iterators made my Rust program slower!\"](https://ntietz.com/blog/rust-iterators-and-threads/)
