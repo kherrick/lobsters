@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-09-19, 21:42:59](https://lobste.rs/s/onvo30/simple_java_virtual_machine_c) - [Simple Java virtual machine in C](https://github.com/phillbush/jvm)
+* [2023-09-19, 20:59:05](https://lobste.rs/s/tv2tai/tclip_just_got_clippier) - [tclip just got clippier](https://tailscale.dev/blog/tclip-updates-092023)
 * [2023-09-19, 19:23:37](https://lobste.rs/s/w6dpri/fixing_for_loops_go_1_22) - [Fixing For Loops in Go 1.22](https://go.dev/blog/loopvar-preview)
 * [2023-09-19, 18:51:53](https://lobste.rs/s/3iwgfy/build123d_python_cad_programming) - [build123d: A python CAD programming library](https://github.com/gumyr/build123d)
 * [2023-09-19, 18:45:15](https://lobste.rs/s/z46wyt/analyzing_modern_wild_android_exploit) - [Analyzing a Modern In-the-wild Android Exploit](https://googleprojectzero.blogspot.com/2023/09/analyzing-modern-in-wild-android-exploit.html)
@@ -21,7 +22,6 @@
 * [2023-09-18, 22:15:20](https://lobste.rs/s/vbngne/inside_new_query_engine_mongodb) - [Inside New Query Engine of MongoDB](https://laplab.me/posts/inside-new-query-engine-of-mongodb/)
 * [2023-09-18, 22:10:07](https://lobste.rs/s/0qgt3d/godot_is_not_new_unity_anatomy_godot_api) - [Godot is not the new Unity - The anatomy of a Godot API call](https://sampruden.github.io/posts/godot-is-not-the-new-unity/)
 * [2023-09-18, 21:51:57](https://lobste.rs/s/zmhept/tracing_structured_logging_better_every) - [Tracing: structured logging, but better in every way](https://andydote.co.uk/2023/09/19/tracing-is-better/)
-* [2023-09-18, 13:00:32](https://lobste.rs/s/hwuo4x/i_hacked_macos_cve_2022_32947) - [I hacked macOS! (CVE-2022-32947)](https://asahilina.net/agx-exploit/)
 * [2023-09-18, 12:00:03](https://lobste.rs/s/0d6jxz/when_zig_outshines_rust_memory_efficient) - [When Zig Outshines Rust - Memory Efficient Enum Arrays](https://alic.dev/blog/dense-enums)
 * [2023-09-18, 10:00:18](https://lobste.rs/s/l6wdzd/what_if_opendocument_used_sqlite) - [What If OpenDocument Used SQLite](https://www.sqlite.org/affcase1.html)
 * [2023-09-18, 05:13:49](https://lobste.rs/s/sguibs/so_let_s_talk_about_this_wayland_thing) - [So let’s talk about this Wayland thing](https://pointieststick.com/2023/09/17/so-lets-talk-about-this-wayland-thing/)
