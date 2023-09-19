@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 12:48:26](https://lobste.rs/s/nm7elo/improving_your_online_privacy_update) - [Improving your online privacy: An update](https://blog.ovalerio.net/archives/2615)
 * [2023-09-19, 12:15:39](https://lobste.rs/s/n6gmpk/more_modern_css_reset) - [A (more) Modern CSS Reset](https://andy-bell.co.uk/a-more-modern-css-reset/)
 * [2023-09-19, 12:05:18](https://lobste.rs/s/vz4ocd/64_bit_bank_balances_ought_be_enough_for) - [64-Bit Bank Balances ‘Ought to be Enough for Anybody’?](https://tigerbeetle.com/blog/2023-09-19-64-bit-bank-balances-ought-to-be-enough-for-anybody/)
 * [2023-09-19, 08:55:07](https://lobste.rs/s/y2790z/java_21_is_available_today_it_s_quite) - [Java 21 Is Available Today, And It's Quite The Update](https://foojay.io/today/java-21-is-available-today-and-its-quite-the-update/)

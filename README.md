@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-19, 12:48:26](https://lobste.rs/s/nm7elo/improving_your_online_privacy_update) - [Improving your online privacy: An update](https://blog.ovalerio.net/archives/2615)
 * [2023-09-19, 12:15:39](https://lobste.rs/s/n6gmpk/more_modern_css_reset) - [A (more) Modern CSS Reset](https://andy-bell.co.uk/a-more-modern-css-reset/)
 * [2023-09-19, 12:05:18](https://lobste.rs/s/vz4ocd/64_bit_bank_balances_ought_be_enough_for) - [64-Bit Bank Balances ‘Ought to be Enough for Anybody’?](https://tigerbeetle.com/blog/2023-09-19-64-bit-bank-balances-ought-to-be-enough-for-anybody/)
 * [2023-09-19, 08:55:07](https://lobste.rs/s/y2790z/java_21_is_available_today_it_s_quite) - [Java 21 Is Available Today, And It's Quite The Update](https://foojay.io/today/java-21-is-available-today-and-its-quite-the-update/)
@@ -17,7 +18,6 @@
 * [2023-09-18, 16:45:43](https://lobste.rs/s/dmrner/38tb_data_accidentally_exposed_by) - [38TB of data accidentally exposed by Microsoft AI researchers](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
 * [2023-09-18, 16:13:54](https://lobste.rs/s/pt3cft/creating_base_oci_image_for_nix_flake) - [Creating a base OCI image for Nix flake builds within Gitea/Forgejo](https://blog.cyplo.dev/posts/2023/09/act-runner-image/)
 * [2023-09-18, 13:00:32](https://lobste.rs/s/hwuo4x/i_hacked_macos_cve_2022_32947) - [I hacked macOS! (CVE-2022-32947)](https://asahilina.net/agx-exploit/)
-* [2023-09-18, 12:59:57](https://lobste.rs/s/0l3rch/we_need_standard_layered_image_format) - [We Need A Standard Layered Image Format (2013)](https://shapeof.com/archives/2013/4/we_need_a_standard_layered_image_format.html)
 * [2023-09-18, 12:00:03](https://lobste.rs/s/0d6jxz/when_zig_outshines_rust_memory_efficient) - [When Zig Outshines Rust - Memory Efficient Enum Arrays](https://alic.dev/blog/dense-enums)
 * [2023-09-18, 11:35:40](https://lobste.rs/s/molidx/help_iterators_made_my_rust_program) - [\"Help, iterators made my Rust program slower!\"](https://ntietz.com/blog/rust-iterators-and-threads/)
 * [2023-09-18, 10:16:59](https://lobste.rs/s/srjntb/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/srjntb/what_are_you_doing_this_week)
