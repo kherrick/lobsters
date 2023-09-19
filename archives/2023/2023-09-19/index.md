@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 18:45:15](https://lobste.rs/s/z46wyt/analyzing_modern_wild_android_exploit) - [Analyzing a Modern In-the-wild Android Exploit](https://googleprojectzero.blogspot.com/2023/09/analyzing-modern-in-wild-android-exploit.html)
 * [2023-09-19, 17:37:10](https://lobste.rs/s/0fj5vg/open_sourcing_grafbase_engine) - [Open sourcing the Grafbase Engine](https://grafbase.com/blog/open-sourcing-the-grafbase-engine)
 * [2023-09-19, 17:36:12](https://lobste.rs/s/hqx3kr/follow_up_changing_rules_rust) - [Follow up to \"Changing the rules of Rust\"](https://without.boats/blog/follow-up-to-changing-the-rules-of-rust/)
 * [2023-09-19, 16:45:55](https://lobste.rs/s/xxg7w6/kamal_deploy_deploy_web_apps_anywhere) - [kamal-deploy: Deploy web apps anywhere](https://kamal-deploy.org/)
