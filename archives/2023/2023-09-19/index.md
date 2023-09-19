@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-19](index.md)
 
+* [2023-09-19, 13:20:42](https://lobste.rs/s/7g4l4h/compiling_ml_models_c_for_fun) - [Compiling ML models to C for fun](https://bernsteinbear.com//blog/compiling-ml-models/)
 * [2023-09-19, 13:08:13](https://lobste.rs/s/ctmitn/performance_comparison_linear_search_vs) - [Performance comparison: linear search vs binary search (2017)](https://dirtyhandscoding.github.io/posts/performance-comparison-linear-search-vs-binary-search.html)
 * [2023-09-19, 12:48:26](https://lobste.rs/s/nm7elo/improving_your_online_privacy_update) - [Improving your online privacy: An update](https://blog.ovalerio.net/archives/2615)
 * [2023-09-19, 12:15:39](https://lobste.rs/s/n6gmpk/more_modern_css_reset) - [A (more) Modern CSS Reset](https://andy-bell.co.uk/a-more-modern-css-reset/)
