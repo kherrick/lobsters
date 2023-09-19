@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-19, 06:19:43",
+      "https://lobste.rs/s/o4i23q/revisiting_programmable_mac_rom_simms"
+    ],
+    [
+      "Revisiting programmable Mac ROM SIMMs in Quadras",
+      "https://www.downtowndougbrown.com/2023/09/revisiting-programmable-mac-rom-simms-in-quadras/"
+    ]
+  ],
+  [
+    [
       "2023-09-19, 06:15:48",
       "https://lobste.rs/s/ipn1sc/django_5_0_alpha_1_released"
     ],
@@ -127,16 +137,6 @@
     [
       "Creating a base OCI image for Nix flake builds within Gitea/Forgejo",
       "https://blog.cyplo.dev/posts/2023/09/act-runner-image/"
-    ]
-  ],
-  [
-    [
-      "2023-09-18, 14:17:34",
-      "https://lobste.rs/s/qckbua/petals_run_llms_at_home_bittorrent_style"
-    ],
-    [
-      "Petals – Run LLMs at home, BitTorrent-style",
-      "https://petals.dev/"
     ]
   ],
   [
