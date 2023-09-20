@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
+* [2023-09-20, 08:47:14](https://lobste.rs/s/huku9a/openbsd_arm64_on_hetzner_cloud) - [OpenBSD/arm64 on Hetzner Cloud](https://www.cambus.net/openbsd-arm64-on-hetzner-cloud/)
 * [2023-09-20, 08:00:17](https://lobste.rs/s/h3ib8y/cube_css_cube_css) - [CUBE CSS | CUBE CSS](https://cube.fyi/)
 * [2023-09-20, 07:57:52](https://lobste.rs/s/pe6749/bem_block_element_modifier) - [BEM — Block Element Modifier](https://getbem.com/)
 * [2023-09-20, 07:39:34](https://lobste.rs/s/z7wuy3/opentofu) - [OpenTofu](https://opentofu.org/)

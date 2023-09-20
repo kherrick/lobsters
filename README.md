@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-20, 08:47:14](https://lobste.rs/s/huku9a/openbsd_arm64_on_hetzner_cloud) - [OpenBSD/arm64 on Hetzner Cloud](https://www.cambus.net/openbsd-arm64-on-hetzner-cloud/)
 * [2023-09-20, 08:00:17](https://lobste.rs/s/h3ib8y/cube_css_cube_css) - [CUBE CSS | CUBE CSS](https://cube.fyi/)
 * [2023-09-20, 07:57:52](https://lobste.rs/s/pe6749/bem_block_element_modifier) - [BEM — Block Element Modifier](https://getbem.com/)
 * [2023-09-20, 07:39:34](https://lobste.rs/s/z7wuy3/opentofu) - [OpenTofu](https://opentofu.org/)
@@ -17,7 +18,6 @@
 * [2023-09-19, 16:23:55](https://lobste.rs/s/nxg81c/okay_microservices_have_benefits_too) - [Okay, Microservices Have Benefits Too](https://two-wrongs.com/benefits-of-microservices.html)
 * [2023-09-19, 15:49:14](https://lobste.rs/s/zu8hii/jdk_21_release_notes) - [JDK 21 Release Notes](https://jdk.java.net/21/release-notes)
 * [2023-09-19, 13:20:42](https://lobste.rs/s/7g4l4h/compiling_ml_models_c_for_fun) - [Compiling ML models to C for fun](https://bernsteinbear.com//blog/compiling-ml-models/)
-* [2023-09-19, 13:08:13](https://lobste.rs/s/ctmitn/performance_comparison_linear_search_vs) - [Performance comparison: linear search vs binary search (2017)](https://dirtyhandscoding.github.io/posts/performance-comparison-linear-search-vs-binary-search.html)
 * [2023-09-19, 12:48:26](https://lobste.rs/s/nm7elo/improving_your_online_privacy_update) - [Improving your online privacy: An update](https://blog.ovalerio.net/archives/2615)
 * [2023-09-19, 12:15:39](https://lobste.rs/s/n6gmpk/more_modern_css_reset) - [A (more) Modern CSS Reset](https://andy-bell.co.uk/a-more-modern-css-reset/)
 * [2023-09-19, 12:05:18](https://lobste.rs/s/vz4ocd/64_bit_bank_balances_ought_be_enough_for) - [64-Bit Bank Balances ‘Ought to be Enough for Anybody’?](https://tigerbeetle.com/blog/2023-09-19-64-bit-bank-balances-ought-to-be-enough-for-anybody/)
