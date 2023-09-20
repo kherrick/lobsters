@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-20, 22:17:36",
+      "https://lobste.rs/s/6uuopt/re_malloc_write_after_free_error_checking"
+    ],
+    [
+      "Re: malloc write after free error checking",
+      "https://marc.info/?l=openbsd-tech&m=169519004327392&w=2"
+    ]
+  ],
+  [
+    [
       "2023-09-20, 21:40:14",
       "https://lobste.rs/s/bpp5w3/introducing_gnome_45_gnome_foundation"
     ],
@@ -57,16 +67,6 @@
     [
       "Once more about clean code",
       "https://www.sandordargo.com/blog/2023/09/20/once-more-about-clean-code"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 17:29:05",
-      "https://lobste.rs/s/rgeeqe/monitor_bandwidth_usage_with_bandwhich"
-    ],
-    [
-      "Monitor bandwidth usage with bandwhich (and build a snap package of it)",
-      "https://popey.com/blog/2023/09/monitor-bandwidth-usage-with-bandwhich/"
     ]
   ],
   [
