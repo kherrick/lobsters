@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-20, 20:58:55](https://lobste.rs/s/r9bmlk/logparser_machine_learning_toolkit_for) - [logparser: A machine learning toolkit for log parsing](https://github.com/logpai/logparser)
 * [2023-09-20, 19:55:14](https://lobste.rs/s/c2uyhx/openresty_vs_lua_5_4_benchmark) - [OpenResty vs Lua 5.4: a benchmark](https://berwyn.hashnode.dev/openresty-vs-lua-54-a-benchmark)
 * [2023-09-20, 19:34:05](https://lobste.rs/s/9coj14/speeding_up_floyd_steinberg_dithering) - [Speeding up Floyd-Steinberg dithering: an optimization exercise](https://pythonspeed.com/articles/optimizing-dithering/)
 * [2023-09-20, 18:42:31](https://lobste.rs/s/kteyjx/strong_arrows_new_approach_gradual) - [Strong arrows: a new approach to gradual typing](https://elixir-lang.org/blog/2023/09/20/strong-arrows-gradual-typing/)
@@ -17,7 +18,6 @@
 * [2023-09-20, 07:39:34](https://lobste.rs/s/z7wuy3/opentofu) - [OpenTofu](https://opentofu.org/)
 * [2023-09-20, 05:47:27](https://lobste.rs/s/a59jja/custom_marshalers_go_unexpected_gotcha) - [Custom marshalers in Go: An unexpected gotcha](https://www.snprajwal.com/tech/custom-marshalers-in-go/)
 * [2023-09-20, 04:06:34](https://lobste.rs/s/i8jbba/why_we_built_our_own_nfs_server_rust) - [Why We Built our own NFS Server in Rust](https://about.xethub.com/blog/nfs-fuse-why-we-built-nfs-server-rust)
-* [2023-09-20, 03:38:40](https://lobste.rs/s/xs94ii/add_extra_stuff_standard_encoding_sure) - [Add extra stuff to a \"standard\" encoding?  Sure, why not](https://rachelbythebay.com/w/2023/09/19/badlib/)
 * [2023-09-20, 01:33:30](https://lobste.rs/s/tccmnj/writing_html_by_hand) - [Writing HTML by hand](https://simblob.blogspot.com/2023/09/writing-html-by-hand.html)
 * [2023-09-19, 23:32:37](https://lobste.rs/s/sqa0ao/circles_do_not_exist) - [Circles do not exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
 * [2023-09-19, 23:02:25](https://lobste.rs/s/qpmn9w/all_ways_capture_changes_postgres) - [All the ways to capture changes in Postgres](https://blog.sequin.io/all-the-ways-to-capture-changes-in-postgres/)
