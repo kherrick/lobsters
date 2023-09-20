@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
+* [2023-09-20, 14:30:48](https://lobste.rs/s/othymr/how_build_computer_using_origami) - [How to build a computer using origami](https://apieceofthepi.substack.com/p/how-to-build-a-computer-using-origami)
 * [2023-09-20, 14:19:44](https://lobste.rs/s/iqzjrd/polynomial_interpolation) - [Polynomial Interpolation](https://cohost.org/tomforsyth/post/982199-polynomial-interpola)
 * [2023-09-20, 13:31:51](https://lobste.rs/s/vjg35t/frustration_loop) - [The Frustration Loop](https://herman.bearblog.dev/the-frustration-loop/)
 * [2023-09-20, 13:30:30](https://lobste.rs/s/z9ccsl/inside_look_at_ditto_s_delta_state_crdts) - [An Inside Look at Ditto's Delta State CRDTs](https://www.ditto.live/blog/dittos-delta-state-crdts)

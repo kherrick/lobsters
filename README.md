@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-20, 14:30:48](https://lobste.rs/s/othymr/how_build_computer_using_origami) - [How to build a computer using origami](https://apieceofthepi.substack.com/p/how-to-build-a-computer-using-origami)
 * [2023-09-20, 14:19:44](https://lobste.rs/s/iqzjrd/polynomial_interpolation) - [Polynomial Interpolation](https://cohost.org/tomforsyth/post/982199-polynomial-interpola)
 * [2023-09-20, 13:31:51](https://lobste.rs/s/vjg35t/frustration_loop) - [The Frustration Loop](https://herman.bearblog.dev/the-frustration-loop/)
 * [2023-09-20, 13:30:30](https://lobste.rs/s/z9ccsl/inside_look_at_ditto_s_delta_state_crdts) - [An Inside Look at Ditto's Delta State CRDTs](https://www.ditto.live/blog/dittos-delta-state-crdts)
@@ -18,7 +19,6 @@
 * [2023-09-19, 23:02:25](https://lobste.rs/s/qpmn9w/all_ways_capture_changes_postgres) - [All the ways to capture changes in Postgres](https://blog.sequin.io/all-the-ways-to-capture-changes-in-postgres/)
 * [2023-09-19, 19:23:37](https://lobste.rs/s/w6dpri/fixing_for_loops_go_1_22) - [Fixing For Loops in Go 1.22](https://go.dev/blog/loopvar-preview)
 * [2023-09-19, 16:23:55](https://lobste.rs/s/nxg81c/okay_microservices_have_benefits_too) - [Okay, Microservices Have Benefits Too](https://two-wrongs.com/benefits-of-microservices.html)
-* [2023-09-19, 13:20:42](https://lobste.rs/s/7g4l4h/compiling_ml_models_c_for_fun) - [Compiling ML models to C for fun](https://bernsteinbear.com//blog/compiling-ml-models/)
 * [2023-09-19, 12:48:26](https://lobste.rs/s/nm7elo/improving_your_online_privacy_update) - [Improving your online privacy: An update](https://blog.ovalerio.net/archives/2615)
 * [2023-09-19, 12:15:39](https://lobste.rs/s/n6gmpk/more_modern_css_reset) - [A (more) Modern CSS Reset](https://andy-bell.co.uk/a-more-modern-css-reset/)
 * [2023-09-19, 12:05:18](https://lobste.rs/s/vz4ocd/64_bit_bank_balances_ought_be_enough_for) - [64-Bit Bank Balances ‘Ought to be Enough for Anybody’?](https://tigerbeetle.com/blog/2023-09-19-64-bit-bank-balances-ought-to-be-enough-for-anybody/)
