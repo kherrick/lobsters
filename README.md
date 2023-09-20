@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-20, 23:17:45](https://lobste.rs/s/pnujxa/how_abuse_fix_authenticated_encryption) - [How to Abuse and Fix Authenticated Encryption Without Key Commitment | USENIX](https://www.usenix.org/conference/usenixsecurity22/presentation/albertini)
 * [2023-09-20, 22:17:36](https://lobste.rs/s/6uuopt/re_malloc_write_after_free_error_checking) - [Re: malloc write after free error checking](https://marc.info/?l=openbsd-tech&m=169519004327392&w=2)
-* [2023-09-20, 21:40:14](https://lobste.rs/s/bpp5w3/introducing_gnome_45_gnome_foundation) - [Introducing GNOME 45 – The GNOME Foundation](https://foundation.gnome.org/2023/09/20/introducing-gnome-45/)
 * [2023-09-20, 21:28:19](https://lobste.rs/s/qalf8d/what_s_it_like_work_as_developer_advocate) - [What’s it like to work as developer advocate/relations](https://lobste.rs/s/qalf8d/what_s_it_like_work_as_developer_advocate)
 * [2023-09-20, 19:55:14](https://lobste.rs/s/c2uyhx/openresty_vs_lua_5_4_benchmark) - [OpenResty vs Lua 5.4: a benchmark](https://berwyn.hashnode.dev/openresty-vs-lua-54-a-benchmark)
 * [2023-09-20, 19:34:05](https://lobste.rs/s/9coj14/speeding_up_floyd_steinberg_dithering) - [Speeding up Floyd-Steinberg dithering: an optimization exercise](https://pythonspeed.com/articles/optimizing-dithering/)
