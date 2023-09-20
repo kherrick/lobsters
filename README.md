@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-20, 04:06:34](https://lobste.rs/s/i8jbba/why_we_built_our_own_nfs_server_rust) - [Why We Built our own NFS Server in Rust](https://about.xethub.com/blog/nfs-fuse-why-we-built-nfs-server-rust)
 * [2023-09-20, 03:38:40](https://lobste.rs/s/xs94ii/add_extra_stuff_standard_encoding_sure) - [Add extra stuff to a \"standard\" encoding?  Sure, why not](https://rachelbythebay.com/w/2023/09/19/badlib/)
 * [2023-09-20, 02:01:17](https://lobste.rs/s/d6ub7h/shipit_presents_how_shopify_uses_nix_2020) - [Shipit! Presents: How Shopify Uses Nix (2020)](https://youtu.be/KaIRpx11qrc?si=gISCMtvPlIXtMw8d)
 * [2023-09-20, 01:33:30](https://lobste.rs/s/tccmnj/writing_html_by_hand) - [Writing HTML by hand](https://simblob.blogspot.com/2023/09/writing-html-by-hand.html)
@@ -8,7 +9,6 @@
 * [2023-09-19, 21:42:59](https://lobste.rs/s/onvo30/simple_java_virtual_machine_c) - [Simple Java virtual machine in C](https://github.com/phillbush/jvm)
 * [2023-09-19, 20:59:05](https://lobste.rs/s/tv2tai/tclip_just_got_clippier) - [tclip just got clippier](https://tailscale.dev/blog/tclip-updates-092023)
 * [2023-09-19, 19:23:37](https://lobste.rs/s/w6dpri/fixing_for_loops_go_1_22) - [Fixing For Loops in Go 1.22](https://go.dev/blog/loopvar-preview)
-* [2023-09-19, 18:51:53](https://lobste.rs/s/3iwgfy/build123d_python_cad_programming) - [build123d: A python CAD programming library](https://github.com/gumyr/build123d)
 * [2023-09-19, 18:45:15](https://lobste.rs/s/z46wyt/analyzing_modern_wild_android_exploit) - [Analyzing a Modern In-the-wild Android Exploit](https://googleprojectzero.blogspot.com/2023/09/analyzing-modern-in-wild-android-exploit.html)
 * [2023-09-19, 16:45:55](https://lobste.rs/s/xxg7w6/kamal_deploy_deploy_web_apps_anywhere) - [kamal-deploy: Deploy web apps anywhere](https://kamal-deploy.org/)
 * [2023-09-19, 16:23:55](https://lobste.rs/s/nxg81c/okay_microservices_have_benefits_too) - [Okay, Microservices Have Benefits Too](https://two-wrongs.com/benefits-of-microservices.html)
