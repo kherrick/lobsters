@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-20, 05:47:27](https://lobste.rs/s/a59jja/custom_marshalers_go_unexpected_gotcha) - [Custom marshalers in Go: An unexpected gotcha](https://www.snprajwal.com/tech/custom-marshalers-in-go/)
 * [2023-09-20, 04:06:34](https://lobste.rs/s/i8jbba/why_we_built_our_own_nfs_server_rust) - [Why We Built our own NFS Server in Rust](https://about.xethub.com/blog/nfs-fuse-why-we-built-nfs-server-rust)
 * [2023-09-20, 03:38:40](https://lobste.rs/s/xs94ii/add_extra_stuff_standard_encoding_sure) - [Add extra stuff to a \"standard\" encoding?  Sure, why not](https://rachelbythebay.com/w/2023/09/19/badlib/)
 * [2023-09-20, 02:01:17](https://lobste.rs/s/d6ub7h/shipit_presents_how_shopify_uses_nix_2020) - [Shipit! Presents: How Shopify Uses Nix (2020)](https://youtu.be/KaIRpx11qrc?si=gISCMtvPlIXtMw8d)
@@ -22,7 +23,6 @@
 * [2023-09-19, 08:24:15](https://lobste.rs/s/pb4vuz/fx_terminal_json_viewer) - [fx – terminal JSON viewer](https://fx.wtf/)
 * [2023-09-19, 07:56:23](https://lobste.rs/s/qg39wt/packet_drop_reasons) - [Packet drop reasons](https://dxuuu.xyz/dropreason.html)
 * [2023-09-19, 06:15:48](https://lobste.rs/s/ipn1sc/django_5_0_alpha_1_released) - [Django 5.0 alpha 1 released](https://www.djangoproject.com/weblog/2023/sep/18/django-50-alpha-1-released/)
-* [2023-09-19, 01:04:19](https://lobste.rs/s/7626ru/webkit_features_safari_17_0) - [WebKit Features in Safari 17.0](https://webkit.org/blog/14445/webkit-features-in-safari-17-0/)
 * [2023-09-18, 21:51:57](https://lobste.rs/s/zmhept/tracing_structured_logging_better_every) - [Tracing: structured logging, but better in every way](https://andydote.co.uk/2023/09/19/tracing-is-better/)
 * [2023-09-18, 12:00:03](https://lobste.rs/s/0d6jxz/when_zig_outshines_rust_memory_efficient) - [When Zig Outshines Rust - Memory Efficient Enum Arrays](https://alic.dev/blog/dense-enums)
 
