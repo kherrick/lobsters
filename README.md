@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-20, 21:40:14](https://lobste.rs/s/bpp5w3/introducing_gnome_45_gnome_foundation) - [Introducing GNOME 45 – The GNOME Foundation](https://foundation.gnome.org/2023/09/20/introducing-gnome-45/)
 * [2023-09-20, 21:28:19](https://lobste.rs/s/qalf8d/what_s_it_like_work_as_developer_advocate) - [What’s it like to work as developer advocate/relations](https://lobste.rs/s/qalf8d/what_s_it_like_work_as_developer_advocate)
 * [2023-09-20, 19:55:14](https://lobste.rs/s/c2uyhx/openresty_vs_lua_5_4_benchmark) - [OpenResty vs Lua 5.4: a benchmark](https://berwyn.hashnode.dev/openresty-vs-lua-54-a-benchmark)
 * [2023-09-20, 19:34:05](https://lobste.rs/s/9coj14/speeding_up_floyd_steinberg_dithering) - [Speeding up Floyd-Steinberg dithering: an optimization exercise](https://pythonspeed.com/articles/optimizing-dithering/)
@@ -20,7 +21,6 @@
 * [2023-09-20, 04:06:34](https://lobste.rs/s/i8jbba/why_we_built_our_own_nfs_server_rust) - [Why We Built our own NFS Server in Rust](https://about.xethub.com/blog/nfs-fuse-why-we-built-nfs-server-rust)
 * [2023-09-20, 01:33:30](https://lobste.rs/s/tccmnj/writing_html_by_hand) - [Writing HTML by hand](https://simblob.blogspot.com/2023/09/writing-html-by-hand.html)
 * [2023-09-19, 23:32:37](https://lobste.rs/s/sqa0ao/circles_do_not_exist) - [Circles do not exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
-* [2023-09-19, 23:02:25](https://lobste.rs/s/qpmn9w/all_ways_capture_changes_postgres) - [All the ways to capture changes in Postgres](https://blog.sequin.io/all-the-ways-to-capture-changes-in-postgres/)
 * [2023-09-19, 19:23:37](https://lobste.rs/s/w6dpri/fixing_for_loops_go_1_22) - [Fixing For Loops in Go 1.22](https://go.dev/blog/loopvar-preview)
 * [2023-09-19, 16:23:55](https://lobste.rs/s/nxg81c/okay_microservices_have_benefits_too) - [Okay, Microservices Have Benefits Too](https://two-wrongs.com/benefits-of-microservices.html)
 * [2023-09-19, 12:05:18](https://lobste.rs/s/vz4ocd/64_bit_bank_balances_ought_be_enough_for) - [64-Bit Bank Balances ‘Ought to be Enough for Anybody’?](https://tigerbeetle.com/blog/2023-09-19-64-bit-bank-balances-ought-to-be-enough-for-anybody/)
