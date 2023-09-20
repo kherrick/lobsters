@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
+* [2023-09-20, 17:48:23](https://lobste.rs/s/w2vidu/strada_create_high_fidelity_native) - [Strada: Create high fidelity native interactions driven by your web app](https://strada.hotwired.dev/)
 * [2023-09-20, 17:30:38](https://lobste.rs/s/j61gol/once_more_about_clean_code) - [Once more about clean code](https://www.sandordargo.com/blog/2023/09/20/once-more-about-clean-code)
 * [2023-09-20, 15:56:31](https://lobste.rs/s/thz49e/attention_attention) - [Attention? Attention](https://lilianweng.github.io/posts/2018-06-24-attention/)
 * [2023-09-20, 15:43:02](https://lobste.rs/s/53qha5/caveat_thread_name_length_glibc) - [The caveat of thread name length in glibc](https://nanxiao.me/en/the-caveat-of-thread-name-length-in-glibc/)
