@@ -1,13 +1,14 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-20, 14:44:03](https://lobste.rs/s/thw5pl/signal_protocol_used_by_1_billion_people) - [The Signal Protocol used by 1+ billion people is getting a post-quantum makeover](https://arstechnica.com/?p=1969529)
 * [2023-09-20, 14:30:48](https://lobste.rs/s/othymr/how_build_computer_using_origami) - [How to build a computer using origami](https://apieceofthepi.substack.com/p/how-to-build-a-computer-using-origami)
 * [2023-09-20, 14:19:44](https://lobste.rs/s/iqzjrd/polynomial_interpolation) - [Polynomial Interpolation](https://cohost.org/tomforsyth/post/982199-polynomial-interpola)
 * [2023-09-20, 13:31:51](https://lobste.rs/s/vjg35t/frustration_loop) - [The Frustration Loop](https://herman.bearblog.dev/the-frustration-loop/)
-* [2023-09-20, 13:30:30](https://lobste.rs/s/z9ccsl/inside_look_at_ditto_s_delta_state_crdts) - [An Inside Look at Ditto's Delta State CRDTs](https://www.ditto.live/blog/dittos-delta-state-crdts)
 * [2023-09-20, 13:14:10](https://lobste.rs/s/4sc4yf/mullvad_vpn_we_have_successfully) - [Mullvad VPN: We have successfully completed our migration to RAM-only VPN infrastructure](https://www.mullvad.net/en/blog/2023/9/20/we-have-successfully-completed-our-migration-to-ram-only-vpn-infrastructure/)
+* [2023-09-20, 12:59:58](https://lobste.rs/s/gej4kh/user_support_equanimity_potential_cross) - [User Support, Equanimity, And Potential Cross-Project Tools and Practices in Open Source](https://www.harihareswara.net/posts/2023/user-support-equanimity-potential-cross-project-tools-practices-open-source/)
 * [2023-09-20, 12:50:46](https://lobste.rs/s/lz2v3g/gokrazy_is_really_cool) - [gokrazy is really cool](https://xeiaso.net/blog/gokrazy)
 * [2023-09-20, 12:43:48](https://lobste.rs/s/alzaim/thoughts_on_gentle_tyranny_call_return) - [Thoughts on \"The Gentle Tyranny of Call/Return\"](https://frogulis.net/writing/gentle-tyranny-thoughts)
-* [2023-09-20, 12:39:30](https://lobste.rs/s/6nwmls/commandline_productivity_part_1_fzf) - [Commandline Productivity Part 1: fzf - The Command-Line Fuzzy Finder](https://muhammadraza.me/2023/fzf/)
+* [2023-09-20, 12:39:30](https://lobste.rs/s/6nwmls/fzf_command_line_fuzzy_finder) - [fzf - The Command-Line Fuzzy Finder](https://muhammadraza.me/2023/fzf/)
 * [2023-09-20, 09:26:47](https://lobste.rs/s/arhjon/side_effecting_deopt_javascript) - [Side effecting a deopt in JavaScript](https://www.recompiled.dev/blog/deopt/)
 * [2023-09-20, 08:47:14](https://lobste.rs/s/huku9a/openbsd_arm64_on_hetzner_cloud) - [OpenBSD/arm64 on Hetzner Cloud](https://www.cambus.net/openbsd-arm64-on-hetzner-cloud/)
 * [2023-09-20, 07:39:34](https://lobste.rs/s/z7wuy3/opentofu) - [OpenTofu](https://opentofu.org/)
@@ -24,7 +25,6 @@
 * [2023-09-19, 12:05:18](https://lobste.rs/s/vz4ocd/64_bit_bank_balances_ought_be_enough_for) - [64-Bit Bank Balances ‘Ought to be Enough for Anybody’?](https://tigerbeetle.com/blog/2023-09-19-64-bit-bank-balances-ought-to-be-enough-for-anybody/)
 * [2023-09-19, 08:55:07](https://lobste.rs/s/y2790z/java_21_is_available_today_it_s_quite) - [Java 21 Is Available Today, And It's Quite The Update](https://foojay.io/today/java-21-is-available-today-and-its-quite-the-update/)
 * [2023-09-19, 08:24:15](https://lobste.rs/s/pb4vuz/fx_terminal_json_viewer) - [fx – terminal JSON viewer](https://fx.wtf/)
-* [2023-09-18, 21:51:57](https://lobste.rs/s/zmhept/tracing_structured_logging_better_every) - [Tracing: structured logging, but better in every way](https://andydote.co.uk/2023/09/19/tracing-is-better/)
 
 ## [Archives](archives/index.md)
 

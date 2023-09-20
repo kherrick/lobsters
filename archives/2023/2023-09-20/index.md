@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
+* [2023-09-20, 14:44:03](https://lobste.rs/s/thw5pl/signal_protocol_used_by_1_billion_people) - [The Signal Protocol used by 1+ billion people is getting a post-quantum makeover](https://arstechnica.com/?p=1969529)
 * [2023-09-20, 14:30:48](https://lobste.rs/s/othymr/how_build_computer_using_origami) - [How to build a computer using origami](https://apieceofthepi.substack.com/p/how-to-build-a-computer-using-origami)
 * [2023-09-20, 14:19:44](https://lobste.rs/s/iqzjrd/polynomial_interpolation) - [Polynomial Interpolation](https://cohost.org/tomforsyth/post/982199-polynomial-interpola)
 * [2023-09-20, 13:31:51](https://lobste.rs/s/vjg35t/frustration_loop) - [The Frustration Loop](https://herman.bearblog.dev/the-frustration-loop/)
@@ -12,6 +13,7 @@
 * [2023-09-20, 12:59:58](https://lobste.rs/s/gej4kh/user_support_equanimity_potential_cross) - [User Support, Equanimity, And Potential Cross-Project Tools and Practices in Open Source](https://www.harihareswara.net/posts/2023/user-support-equanimity-potential-cross-project-tools-practices-open-source/)
 * [2023-09-20, 12:50:46](https://lobste.rs/s/lz2v3g/gokrazy_is_really_cool) - [gokrazy is really cool](https://xeiaso.net/blog/gokrazy)
 * [2023-09-20, 12:43:48](https://lobste.rs/s/alzaim/thoughts_on_gentle_tyranny_call_return) - [Thoughts on \"The Gentle Tyranny of Call/Return\"](https://frogulis.net/writing/gentle-tyranny-thoughts)
+* [2023-09-20, 12:39:30](https://lobste.rs/s/6nwmls/fzf_command_line_fuzzy_finder) - [fzf - The Command-Line Fuzzy Finder](https://muhammadraza.me/2023/fzf/)
 * [2023-09-20, 12:39:30](https://lobste.rs/s/6nwmls/commandline_productivity_part_1_fzf) - [Commandline Productivity Part 1: fzf - The Command-Line Fuzzy Finder | Muhammad](https://muhammadraza.me/2023/fzf/)
 * [2023-09-20, 12:29:48](https://lobste.rs/s/buno0g/syntax_sawdust_lessons_from_middle) - [Syntax to Sawdust: Lessons from Middle School Woodshop - Dan Schnau dot com](https://danschnau.com/blog/syntax_to_sawdust)
 * [2023-09-20, 11:38:59](https://lobste.rs/s/9b5pap/nushell_uutils) - [Nushell + Uutils](https://www.nushell.sh/blog/2023-09-05-why-uu.html)
