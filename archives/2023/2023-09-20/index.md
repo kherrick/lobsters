@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
+* [2023-09-20, 12:50:46](https://lobste.rs/s/lz2v3g/gokrazy_is_really_cool) - [gokrazy is really cool](https://xeiaso.net/blog/gokrazy)
+* [2023-09-20, 12:43:48](https://lobste.rs/s/alzaim/thoughts_on_gentle_tyranny_call_return) - [Thoughts on \"The Gentle Tyranny of Call/Return\"](https://frogulis.net/writing/gentle-tyranny-thoughts)
 * [2023-09-20, 12:39:30](https://lobste.rs/s/6nwmls/commandline_productivity_part_1_fzf) - [Commandline Productivity Part 1: fzf - The Command-Line Fuzzy Finder | Muhammad](https://muhammadraza.me/2023/fzf/)
 * [2023-09-20, 12:29:48](https://lobste.rs/s/buno0g/syntax_sawdust_lessons_from_middle) - [Syntax to Sawdust: Lessons from Middle School Woodshop - Dan Schnau dot com](https://danschnau.com/blog/syntax_to_sawdust)
 * [2023-09-20, 11:38:59](https://lobste.rs/s/9b5pap/nushell_uutils) - [Nushell + Uutils](https://www.nushell.sh/blog/2023-09-05-why-uu.html)
