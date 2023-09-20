@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
+* [2023-09-20, 19:34:05](https://lobste.rs/s/9coj14/speeding_up_floyd_steinberg_dithering) - [Speeding up Floyd-Steinberg dithering: an optimization exercise](https://pythonspeed.com/articles/optimizing-dithering/)
 * [2023-09-20, 18:42:31](https://lobste.rs/s/kteyjx/strong_arrows_new_approach_gradual) - [Strong arrows: a new approach to gradual typing](https://elixir-lang.org/blog/2023/09/20/strong-arrows-gradual-typing/)
 * [2023-09-20, 17:48:23](https://lobste.rs/s/w2vidu/strada_create_high_fidelity_native) - [Strada: Create high fidelity native interactions driven by your web app](https://strada.hotwired.dev/)
 * [2023-09-20, 17:30:38](https://lobste.rs/s/j61gol/once_more_about_clean_code) - [Once more about clean code](https://www.sandordargo.com/blog/2023/09/20/once-more-about-clean-code)
