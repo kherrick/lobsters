@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-20, 08:00:17",
+      "https://lobste.rs/s/h3ib8y/cube_css_cube_css"
+    ],
+    [
+      "CUBE CSS | CUBE CSS",
+      "https://cube.fyi/"
+    ]
+  ],
+  [
+    [
+      "2023-09-20, 07:57:52",
+      "https://lobste.rs/s/pe6749/bem_block_element_modifier"
+    ],
+    [
+      "BEM — Block Element Modifier",
+      "https://getbem.com/"
+    ]
+  ],
+  [
+    [
       "2023-09-20, 07:39:34",
       "https://lobste.rs/s/z7wuy3/opentofu"
     ],
@@ -77,16 +97,6 @@
     [
       "All the ways to capture changes in Postgres",
       "https://blog.sequin.io/all-the-ways-to-capture-changes-in-postgres/"
-    ]
-  ],
-  [
-    [
-      "2023-09-19, 21:42:59",
-      "https://lobste.rs/s/onvo30/simple_java_virtual_machine_c"
-    ],
-    [
-      "Simple Java virtual machine in C",
-      "https://github.com/phillbush/jvm"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Tracing: structured logging, but better in every way",
       "https://andydote.co.uk/2023/09/19/tracing-is-better/"
-    ]
-  ],
-  [
-    [
-      "2023-09-18, 12:00:03",
-      "https://lobste.rs/s/0d6jxz/when_zig_outshines_rust_memory_efficient"
-    ],
-    [
-      "When Zig Outshines Rust - Memory Efficient Enum Arrays",
-      "https://alic.dev/blog/dense-enums"
     ]
   ]
 ]
