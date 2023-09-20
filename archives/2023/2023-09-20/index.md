@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
+* [2023-09-20, 02:01:17](https://lobste.rs/s/d6ub7h/shipit_presents_how_shopify_uses_nix_2020) - [Shipit! Presents: How Shopify Uses Nix (2020)](https://youtu.be/KaIRpx11qrc?si=gISCMtvPlIXtMw8d)
 * [2023-09-20, 01:33:30](https://lobste.rs/s/tccmnj/writing_html_by_hand) - [Writing HTML by hand](https://simblob.blogspot.com/2023/09/writing-html-by-hand.html)
