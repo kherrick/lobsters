@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
+* [2023-09-20, 08:00:17](https://lobste.rs/s/h3ib8y/cube_css_cube_css) - [CUBE CSS | CUBE CSS](https://cube.fyi/)
+* [2023-09-20, 07:57:52](https://lobste.rs/s/pe6749/bem_block_element_modifier) - [BEM — Block Element Modifier](https://getbem.com/)
 * [2023-09-20, 07:39:34](https://lobste.rs/s/z7wuy3/opentofu) - [OpenTofu](https://opentofu.org/)
 * [2023-09-20, 06:12:54](https://lobste.rs/s/16xjlz/diagnostic_improvements_clang_17) - [Diagnostic Improvements in Clang 17](https://blog.llvm.org/posts/2023-09-19-diagnostic-improvements-in-clang-17/)
 * [2023-09-20, 05:47:27](https://lobste.rs/s/a59jja/custom_marshalers_go_unexpected_gotcha) - [Custom marshalers in Go: An unexpected gotcha](https://www.snprajwal.com/tech/custom-marshalers-in-go/)
