@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-20, 20:58:55",
+      "https://lobste.rs/s/r9bmlk/logparser_machine_learning_toolkit_for"
+    ],
+    [
+      "logparser: A machine learning toolkit for log parsing",
+      "https://github.com/logpai/logparser"
+    ]
+  ],
+  [
+    [
       "2023-09-20, 19:55:14",
       "https://lobste.rs/s/c2uyhx/openresty_vs_lua_5_4_benchmark"
     ],
@@ -167,16 +177,6 @@
     [
       "Why We Built our own NFS Server in Rust",
       "https://about.xethub.com/blog/nfs-fuse-why-we-built-nfs-server-rust"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 03:38:40",
-      "https://lobste.rs/s/xs94ii/add_extra_stuff_standard_encoding_sure"
-    ],
-    [
-      "Add extra stuff to a \"standard\" encoding?  Sure, why not",
-      "https://rachelbythebay.com/w/2023/09/19/badlib/"
     ]
   ],
   [
