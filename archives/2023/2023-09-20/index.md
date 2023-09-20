@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
+* [2023-09-20, 12:39:30](https://lobste.rs/s/6nwmls/commandline_productivity_part_1_fzf) - [Commandline Productivity Part 1: fzf - The Command-Line Fuzzy Finder | Muhammad](https://muhammadraza.me/2023/fzf/)
+* [2023-09-20, 12:29:48](https://lobste.rs/s/buno0g/syntax_sawdust_lessons_from_middle) - [Syntax to Sawdust: Lessons from Middle School Woodshop - Dan Schnau dot com](https://danschnau.com/blog/syntax_to_sawdust)
 * [2023-09-20, 11:38:59](https://lobste.rs/s/9b5pap/nushell_uutils) - [Nushell + Uutils](https://www.nushell.sh/blog/2023-09-05-why-uu.html)
 * [2023-09-20, 09:26:47](https://lobste.rs/s/arhjon/side_effecting_deopt_javascript) - [Side effecting a deopt in JavaScript](https://www.recompiled.dev/blog/deopt/)
 * [2023-09-20, 08:47:14](https://lobste.rs/s/huku9a/openbsd_arm64_on_hetzner_cloud) - [OpenBSD/arm64 on Hetzner Cloud](https://www.cambus.net/openbsd-arm64-on-hetzner-cloud/)
