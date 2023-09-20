@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-20, 08:47:14",
+      "https://lobste.rs/s/huku9a/openbsd_arm64_on_hetzner_cloud"
+    ],
+    [
+      "OpenBSD/arm64 on Hetzner Cloud",
+      "https://www.cambus.net/openbsd-arm64-on-hetzner-cloud/"
+    ]
+  ],
+  [
+    [
       "2023-09-20, 08:00:17",
       "https://lobste.rs/s/h3ib8y/cube_css_cube_css"
     ],
@@ -167,16 +177,6 @@
     [
       "Compiling ML models to C for fun",
       "https://bernsteinbear.com//blog/compiling-ml-models/"
-    ]
-  ],
-  [
-    [
-      "2023-09-19, 13:08:13",
-      "https://lobste.rs/s/ctmitn/performance_comparison_linear_search_vs"
-    ],
-    [
-      "Performance comparison: linear search vs binary search (2017)",
-      "https://dirtyhandscoding.github.io/posts/performance-comparison-linear-search-vs-binary-search.html"
     ]
   ],
   [
