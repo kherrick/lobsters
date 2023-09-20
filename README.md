@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-20, 03:38:40](https://lobste.rs/s/xs94ii/add_extra_stuff_standard_encoding_sure) - [Add extra stuff to a \"standard\" encoding?  Sure, why not](https://rachelbythebay.com/w/2023/09/19/badlib/)
 * [2023-09-20, 02:01:17](https://lobste.rs/s/d6ub7h/shipit_presents_how_shopify_uses_nix_2020) - [Shipit! Presents: How Shopify Uses Nix (2020)](https://youtu.be/KaIRpx11qrc?si=gISCMtvPlIXtMw8d)
 * [2023-09-20, 01:33:30](https://lobste.rs/s/tccmnj/writing_html_by_hand) - [Writing HTML by hand](https://simblob.blogspot.com/2023/09/writing-html-by-hand.html)
 * [2023-09-19, 23:32:37](https://lobste.rs/s/sqa0ao/circles_do_not_exist) - [Circles do not exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
@@ -24,7 +25,6 @@
 * [2023-09-19, 01:04:19](https://lobste.rs/s/7626ru/webkit_features_safari_17_0) - [WebKit Features in Safari 17.0](https://webkit.org/blog/14445/webkit-features-in-safari-17-0/)
 * [2023-09-18, 21:51:57](https://lobste.rs/s/zmhept/tracing_structured_logging_better_every) - [Tracing: structured logging, but better in every way](https://andydote.co.uk/2023/09/19/tracing-is-better/)
 * [2023-09-18, 12:00:03](https://lobste.rs/s/0d6jxz/when_zig_outshines_rust_memory_efficient) - [When Zig Outshines Rust - Memory Efficient Enum Arrays](https://alic.dev/blog/dense-enums)
-* [2023-09-18, 10:00:18](https://lobste.rs/s/l6wdzd/what_if_opendocument_used_sqlite) - [What If OpenDocument Used SQLite](https://www.sqlite.org/affcase1.html)
 
 ## [Archives](archives/index.md)
 
