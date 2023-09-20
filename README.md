@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-09-20, 18:42:31](https://lobste.rs/s/kteyjx/strong_arrows_new_approach_gradual) - [Strong arrows: a new approach to gradual typing](https://elixir-lang.org/blog/2023/09/20/strong-arrows-gradual-typing/)
+* [2023-09-20, 17:29:05](https://lobste.rs/s/rgeeqe/monitor_bandwidth_usage_with_bandwhich) - [Monitor bandwidth usage with bandwhich (and build a snap package of it)](https://popey.com/blog/2023/09/monitor-bandwidth-usage-with-bandwhich/)
 * [2023-09-20, 15:43:02](https://lobste.rs/s/53qha5/caveat_thread_name_length_glibc) - [The caveat of thread name length in glibc](https://nanxiao.me/en/the-caveat-of-thread-name-length-in-glibc/)
 * [2023-09-20, 15:19:54](https://lobste.rs/s/fue8mw/xml_is_better_than_yaml) - [XML is better than YAML](https://changelog.com/posts/xml-better-than-yaml)
 * [2023-09-20, 14:44:03](https://lobste.rs/s/thw5pl/signal_protocol_used_by_1_billion_people) - [The Signal Protocol used by 1+ billion people is getting a post-quantum makeover](https://arstechnica.com/?p=1969529)
@@ -23,7 +24,6 @@
 * [2023-09-19, 19:23:37](https://lobste.rs/s/w6dpri/fixing_for_loops_go_1_22) - [Fixing For Loops in Go 1.22](https://go.dev/blog/loopvar-preview)
 * [2023-09-19, 16:23:55](https://lobste.rs/s/nxg81c/okay_microservices_have_benefits_too) - [Okay, Microservices Have Benefits Too](https://two-wrongs.com/benefits-of-microservices.html)
 * [2023-09-19, 12:05:18](https://lobste.rs/s/vz4ocd/64_bit_bank_balances_ought_be_enough_for) - [64-Bit Bank Balances ‘Ought to be Enough for Anybody’?](https://tigerbeetle.com/blog/2023-09-19-64-bit-bank-balances-ought-to-be-enough-for-anybody/)
-* [2023-09-19, 08:55:07](https://lobste.rs/s/y2790z/java_21_is_available_today_it_s_quite) - [Java 21 Is Available Today, And It's Quite The Update](https://foojay.io/today/java-21-is-available-today-and-its-quite-the-update/)
 * [2023-09-19, 08:24:15](https://lobste.rs/s/pb4vuz/fx_terminal_json_viewer) - [fx – terminal JSON viewer](https://fx.wtf/)
 
 ## [Archives](archives/index.md)
