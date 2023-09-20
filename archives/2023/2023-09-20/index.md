@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
+* [2023-09-20, 22:17:36](https://lobste.rs/s/6uuopt/re_malloc_write_after_free_error_checking) - [Re: malloc write after free error checking](https://marc.info/?l=openbsd-tech&m=169519004327392&w=2)
 * [2023-09-20, 21:40:14](https://lobste.rs/s/bpp5w3/introducing_gnome_45_gnome_foundation) - [Introducing GNOME 45 – The GNOME Foundation](https://foundation.gnome.org/2023/09/20/introducing-gnome-45/)
 * [2023-09-20, 21:28:19](https://lobste.rs/s/qalf8d/what_s_it_like_work_as_developer_advocate) - [What’s it like to work as developer advocate/relations](https://lobste.rs/s/qalf8d/what_s_it_like_work_as_developer_advocate)
 * [2023-09-20, 20:58:55](https://lobste.rs/s/r9bmlk/logparser_machine_learning_toolkit_for) - [logparser: A machine learning toolkit for log parsing](https://github.com/logpai/logparser)
