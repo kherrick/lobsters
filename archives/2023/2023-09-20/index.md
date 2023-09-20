@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
+* [2023-09-20, 07:39:34](https://lobste.rs/s/z7wuy3/opentofu) - [OpenTofu](https://opentofu.org/)
 * [2023-09-20, 06:12:54](https://lobste.rs/s/16xjlz/diagnostic_improvements_clang_17) - [Diagnostic Improvements in Clang 17](https://blog.llvm.org/posts/2023-09-19-diagnostic-improvements-in-clang-17/)
 * [2023-09-20, 05:47:27](https://lobste.rs/s/a59jja/custom_marshalers_go_unexpected_gotcha) - [Custom marshalers in Go: An unexpected gotcha](https://www.snprajwal.com/tech/custom-marshalers-in-go/)
 * [2023-09-20, 04:06:34](https://lobste.rs/s/i8jbba/why_we_built_our_own_nfs_server_rust) - [Why We Built our own NFS Server in Rust](https://about.xethub.com/blog/nfs-fuse-why-we-built-nfs-server-rust)
