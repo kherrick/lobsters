@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-20, 01:33:30",
+      "https://lobste.rs/s/tccmnj/writing_html_by_hand"
+    ],
+    [
+      "Writing HTML by hand",
+      "https://simblob.blogspot.com/2023/09/writing-html-by-hand.html"
+    ]
+  ],
+  [
+    [
       "2023-09-19, 23:32:37",
       "https://lobste.rs/s/sqa0ao/circles_do_not_exist"
     ],
@@ -17,6 +27,16 @@
     [
       "All the ways to capture changes in Postgres",
       "https://blog.sequin.io/all-the-ways-to-capture-changes-in-postgres/"
+    ]
+  ],
+  [
+    [
+      "2023-09-19, 21:42:59",
+      "https://lobste.rs/s/onvo30/simple_java_virtual_machine_c"
+    ],
+    [
+      "Simple Java virtual machine in C",
+      "https://github.com/phillbush/jvm"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Analyzing a Modern In-the-wild Android Exploit",
       "https://googleprojectzero.blogspot.com/2023/09/analyzing-modern-in-wild-android-exploit.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-19, 17:37:10",
-      "https://lobste.rs/s/0fj5vg/open_sourcing_grafbase_engine"
-    ],
-    [
-      "Open sourcing the Grafbase Engine",
-      "https://grafbase.com/blog/open-sourcing-the-grafbase-engine"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "WebKit Features in Safari 17.0",
       "https://webkit.org/blog/14445/webkit-features-in-safari-17-0/"
-    ]
-  ],
-  [
-    [
-      "2023-09-18, 22:10:07",
-      "https://lobste.rs/s/0qgt3d/godot_is_not_new_unity_anatomy_godot_api"
-    ],
-    [
-      "Godot is not the new Unity - The anatomy of a Godot API call",
-      "https://sampruden.github.io/posts/godot-is-not-the-new-unity/"
     ]
   ],
   [
