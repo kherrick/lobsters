@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-20, 09:26:47](https://lobste.rs/s/arhjon/side_effecting_deopt_javascript) - [Side effecting a deopt in JavaScript](https://www.recompiled.dev/blog/deopt/)
 * [2023-09-20, 08:47:14](https://lobste.rs/s/huku9a/openbsd_arm64_on_hetzner_cloud) - [OpenBSD/arm64 on Hetzner Cloud](https://www.cambus.net/openbsd-arm64-on-hetzner-cloud/)
 * [2023-09-20, 08:00:17](https://lobste.rs/s/h3ib8y/cube_css_cube_css) - [CUBE CSS | CUBE CSS](https://cube.fyi/)
 * [2023-09-20, 07:57:52](https://lobste.rs/s/pe6749/bem_block_element_modifier) - [BEM — Block Element Modifier](https://getbem.com/)
@@ -11,7 +12,6 @@
 * [2023-09-20, 01:33:30](https://lobste.rs/s/tccmnj/writing_html_by_hand) - [Writing HTML by hand](https://simblob.blogspot.com/2023/09/writing-html-by-hand.html)
 * [2023-09-19, 23:32:37](https://lobste.rs/s/sqa0ao/circles_do_not_exist) - [Circles do not exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
 * [2023-09-19, 23:02:25](https://lobste.rs/s/qpmn9w/all_ways_capture_changes_postgres) - [All the ways to capture changes in Postgres](https://blog.sequin.io/all-the-ways-to-capture-changes-in-postgres/)
-* [2023-09-19, 20:59:05](https://lobste.rs/s/tv2tai/tclip_just_got_clippier) - [tclip just got clippier](https://tailscale.dev/blog/tclip-updates-092023)
 * [2023-09-19, 19:23:37](https://lobste.rs/s/w6dpri/fixing_for_loops_go_1_22) - [Fixing For Loops in Go 1.22](https://go.dev/blog/loopvar-preview)
 * [2023-09-19, 18:45:15](https://lobste.rs/s/z46wyt/analyzing_modern_wild_android_exploit) - [Analyzing a Modern In-the-wild Android Exploit](https://googleprojectzero.blogspot.com/2023/09/analyzing-modern-in-wild-android-exploit.html)
 * [2023-09-19, 16:45:55](https://lobste.rs/s/xxg7w6/kamal_deploy_deploy_web_apps_anywhere) - [kamal-deploy: Deploy web apps anywhere](https://kamal-deploy.org/)
