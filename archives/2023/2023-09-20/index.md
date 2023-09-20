@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
+* [2023-09-20, 13:14:10](https://lobste.rs/s/4sc4yf/mullvad_vpn_we_have_successfully) - [Mullvad VPN: We have successfully completed our migration to RAM-only VPN infrastructure](https://www.mullvad.net/en/blog/2023/9/20/we-have-successfully-completed-our-migration-to-ram-only-vpn-infrastructure/)
+* [2023-09-20, 12:59:58](https://lobste.rs/s/gej4kh/user_support_equanimity_potential_cross) - [User Support, Equanimity, And Potential Cross-Project Tools and Practices in Open Source](https://www.harihareswara.net/posts/2023/user-support-equanimity-potential-cross-project-tools-practices-open-source/)
 * [2023-09-20, 12:50:46](https://lobste.rs/s/lz2v3g/gokrazy_is_really_cool) - [gokrazy is really cool](https://xeiaso.net/blog/gokrazy)
 * [2023-09-20, 12:43:48](https://lobste.rs/s/alzaim/thoughts_on_gentle_tyranny_call_return) - [Thoughts on \"The Gentle Tyranny of Call/Return\"](https://frogulis.net/writing/gentle-tyranny-thoughts)
 * [2023-09-20, 12:39:30](https://lobste.rs/s/6nwmls/commandline_productivity_part_1_fzf) - [Commandline Productivity Part 1: fzf - The Command-Line Fuzzy Finder | Muhammad](https://muhammadraza.me/2023/fzf/)
