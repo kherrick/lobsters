@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-20, 12:39:30",
+      "https://lobste.rs/s/6nwmls/commandline_productivity_part_1_fzf"
+    ],
+    [
+      "Commandline Productivity Part 1: fzf - The Command-Line Fuzzy Finder | Muhammad",
+      "https://muhammadraza.me/2023/fzf/"
+    ]
+  ],
+  [
+    [
+      "2023-09-20, 12:29:48",
+      "https://lobste.rs/s/buno0g/syntax_sawdust_lessons_from_middle"
+    ],
+    [
+      "Syntax to Sawdust: Lessons from Middle School Woodshop - Dan Schnau dot com",
+      "https://danschnau.com/blog/syntax_to_sawdust"
+    ]
+  ],
+  [
+    [
       "2023-09-20, 11:38:59",
       "https://lobste.rs/s/9b5pap/nushell_uutils"
     ],
@@ -27,16 +47,6 @@
     [
       "OpenBSD/arm64 on Hetzner Cloud",
       "https://www.cambus.net/openbsd-arm64-on-hetzner-cloud/"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 08:00:17",
-      "https://lobste.rs/s/h3ib8y/cube_css_cube_css"
-    ],
-    [
-      "CUBE CSS | CUBE CSS",
-      "https://cube.fyi/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "fx – terminal JSON viewer",
       "https://fx.wtf/"
-    ]
-  ],
-  [
-    [
-      "2023-09-19, 07:56:23",
-      "https://lobste.rs/s/qg39wt/packet_drop_reasons"
-    ],
-    [
-      "Packet drop reasons",
-      "https://dxuuu.xyz/dropreason.html"
     ]
   ],
   [
