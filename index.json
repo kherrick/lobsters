@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-09-20, 15:56:31",
-      "https://lobste.rs/s/thz49e/attention_attention"
+      "2023-09-20, 15:43:02",
+      "https://lobste.rs/s/53qha5/caveat_thread_name_length_glibc"
     ],
     [
-      "Attention? Attention",
-      "https://lilianweng.github.io/posts/2018-06-24-attention/"
+      "The caveat of thread name length in glibc",
+      "https://nanxiao.me/en/the-caveat-of-thread-name-length-in-glibc/"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "The Frustration Loop",
       "https://herman.bearblog.dev/the-frustration-loop/"
+    ]
+  ],
+  [
+    [
+      "2023-09-20, 13:30:30",
+      "https://lobste.rs/s/z9ccsl/inside_look_at_ditto_s_delta_state_crdts"
+    ],
+    [
+      "An Inside Look at Ditto's Delta State CRDTs",
+      "https://www.ditto.live/blog/dittos-delta-state-crdts"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Okay, Microservices Have Benefits Too",
       "https://two-wrongs.com/benefits-of-microservices.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-19, 12:15:39",
-      "https://lobste.rs/s/n6gmpk/more_modern_css_reset"
-    ],
-    [
-      "A (more) Modern CSS Reset",
-      "https://andy-bell.co.uk/a-more-modern-css-reset/"
     ]
   ],
   [
