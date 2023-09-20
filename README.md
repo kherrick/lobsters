@@ -4,7 +4,7 @@
 * [2023-09-20, 12:59:58](https://lobste.rs/s/gej4kh/user_support_equanimity_potential_cross) - [User Support, Equanimity, And Potential Cross-Project Tools and Practices in Open Source](https://www.harihareswara.net/posts/2023/user-support-equanimity-potential-cross-project-tools-practices-open-source/)
 * [2023-09-20, 12:50:46](https://lobste.rs/s/lz2v3g/gokrazy_is_really_cool) - [gokrazy is really cool](https://xeiaso.net/blog/gokrazy)
 * [2023-09-20, 12:43:48](https://lobste.rs/s/alzaim/thoughts_on_gentle_tyranny_call_return) - [Thoughts on \"The Gentle Tyranny of Call/Return\"](https://frogulis.net/writing/gentle-tyranny-thoughts)
-* [2023-09-20, 12:39:30](https://lobste.rs/s/6nwmls/commandline_productivity_part_1_fzf) - [Commandline Productivity Part 1: fzf - The Command-Line Fuzzy Finder | Muhammad](https://muhammadraza.me/2023/fzf/)
+* [2023-09-20, 12:39:30](https://lobste.rs/s/6nwmls/commandline_productivity_part_1_fzf) - [Commandline Productivity Part 1: fzf - The Command-Line Fuzzy Finder](https://muhammadraza.me/2023/fzf/)
 * [2023-09-20, 09:26:47](https://lobste.rs/s/arhjon/side_effecting_deopt_javascript) - [Side effecting a deopt in JavaScript](https://www.recompiled.dev/blog/deopt/)
 * [2023-09-20, 08:47:14](https://lobste.rs/s/huku9a/openbsd_arm64_on_hetzner_cloud) - [OpenBSD/arm64 on Hetzner Cloud](https://www.cambus.net/openbsd-arm64-on-hetzner-cloud/)
 * [2023-09-20, 07:57:52](https://lobste.rs/s/pe6749/bem_block_element_modifier) - [BEM — Block Element Modifier](https://getbem.com/)
