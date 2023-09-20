@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
+* [2023-09-20, 13:31:51](https://lobste.rs/s/vjg35t/frustration_loop) - [The Frustration Loop](https://herman.bearblog.dev/the-frustration-loop/)
+* [2023-09-20, 13:30:30](https://lobste.rs/s/z9ccsl/inside_look_at_ditto_s_delta_state_crdts) - [An Inside Look at Ditto's Delta State CRDTs](https://www.ditto.live/blog/dittos-delta-state-crdts)
 * [2023-09-20, 13:14:10](https://lobste.rs/s/4sc4yf/mullvad_vpn_we_have_successfully) - [Mullvad VPN: We have successfully completed our migration to RAM-only VPN infrastructure](https://www.mullvad.net/en/blog/2023/9/20/we-have-successfully-completed-our-migration-to-ram-only-vpn-infrastructure/)
 * [2023-09-20, 12:59:58](https://lobste.rs/s/gej4kh/user_support_equanimity_potential_cross) - [User Support, Equanimity, And Potential Cross-Project Tools and Practices in Open Source](https://www.harihareswara.net/posts/2023/user-support-equanimity-potential-cross-project-tools-practices-open-source/)
 * [2023-09-20, 12:50:46](https://lobste.rs/s/lz2v3g/gokrazy_is_really_cool) - [gokrazy is really cool](https://xeiaso.net/blog/gokrazy)
