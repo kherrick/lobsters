@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
+* [2023-09-21, 21:00:24](https://lobste.rs/s/iovz9o/state_async_rust) - [The State of Async Rust](https://corrode.dev/blog/async/)
 * [2023-09-21, 20:01:58](https://lobste.rs/s/hx8vjb/webp_0day) - [The WebP 0day](https://blog.isosceles.com/the-webp-0day/)
 * [2023-09-21, 19:53:41](https://lobste.rs/s/fvalqf/awk_for_exploratory_data_analysis) - [AWK for Exploratory Data Analysis of Humanities Data](https://awk.dev/eda.html)
 * [2023-09-21, 19:53:12](https://lobste.rs/s/psdmso/matrix_2_0_future_matrix) - [Matrix 2.0: The Future of Matrix](https://matrix.org/blog/2023/09/matrix-2-0/)
