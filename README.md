@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-21, 15:45:06](https://lobste.rs/s/dkfkva/state_html_2023) - [State of HTML 2023](https://survey.devographics.com/en-US/survey/state-of-html/2023)
+* [2023-09-21, 15:42:32](https://lobste.rs/s/ph57od/mastodon_4_2) - [Mastodon 4.2](https://blog.joinmastodon.org/2023/09/mastodon-4.2/)
 * [2023-09-21, 14:58:40](https://lobste.rs/s/bu9mfy/supply_chain_issues_pypi) - [Supply Chain Issues in PyPI](https://stiankri.substack.com/p/supply-chain-issues-in-pypi)
-* [2023-09-21, 13:22:54](https://lobste.rs/s/vn7dqp/few_different_ways_run_wordpress) - [Few different ways to run wordpress](https://github.com/geekodour/xrunsWordpress)
 * [2023-09-21, 12:21:57](https://lobste.rs/s/wieu1x/seagoat_local_first_semantic_code_search) - [SeaGOAT: local-first semantic code search engine (\"AI based grep\")](https://github.com/kantord/SeaGOAT)
 * [2023-09-21, 11:44:32](https://lobste.rs/s/fu1pir/heat_map_reporter_for_minitest) - [A Heat Map Reporter for Minitest](https://garrettdimon.com/journal/posts/a-heat-map-reporter-for-minitest)
 * [2023-09-21, 10:24:05](https://lobste.rs/s/c9jjwl/grouping_digits_sql) - [Grouping digits in SQL](https://peter.eisentraut.org/blog/2023/09/20/grouping-digits-in-sql)
@@ -23,7 +24,6 @@
 * [2023-09-20, 13:31:51](https://lobste.rs/s/vjg35t/frustration_loop) - [The Frustration Loop](https://herman.bearblog.dev/the-frustration-loop/)
 * [2023-09-20, 12:50:46](https://lobste.rs/s/lz2v3g/gokrazy_is_really_cool) - [gokrazy is really cool](https://xeiaso.net/blog/gokrazy)
 * [2023-09-20, 12:39:30](https://lobste.rs/s/6nwmls/fzf_command_line_fuzzy_finder) - [fzf - The Command-Line Fuzzy Finder](https://muhammadraza.me/2023/fzf/)
-* [2023-09-20, 08:47:14](https://lobste.rs/s/huku9a/openbsd_arm64_on_hetzner_cloud) - [OpenBSD/arm64 on Hetzner Cloud](https://www.cambus.net/openbsd-arm64-on-hetzner-cloud/)
 * [2023-09-20, 07:39:34](https://lobste.rs/s/z7wuy3/opentofu) - [OpenTofu](https://opentofu.org/)
 
 ## [Archives](archives/index.md)
