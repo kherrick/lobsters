@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
+* [2023-09-21, 15:52:34](https://lobste.rs/s/rlkuts/cheri_instruction_set_architecture) - [The CHERI Instruction-Set Architecture, Version 9](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-987.html)
 * [2023-09-21, 15:45:06](https://lobste.rs/s/dkfkva/state_html_2023) - [State of HTML 2023](https://survey.devographics.com/en-US/survey/state-of-html/2023)
 * [2023-09-21, 15:42:32](https://lobste.rs/s/ph57od/mastodon_4_2) - [Mastodon 4.2](https://blog.joinmastodon.org/2023/09/mastodon-4.2/)
 * [2023-09-21, 14:58:40](https://lobste.rs/s/bu9mfy/supply_chain_issues_pypi) - [Supply Chain Issues in PyPI](https://stiankri.substack.com/p/supply-chain-issues-in-pypi)
