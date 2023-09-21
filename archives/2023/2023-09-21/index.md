@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
+* [2023-09-21, 23:55:52](https://lobste.rs/s/ncwngm/godot_binding_system_explained) - [Godot Binding System Explained](https://gist.github.com/reduz/cb05fe96079e46785f08a79ec3b0ef21)
 * [2023-09-21, 23:45:11](https://lobste.rs/s/ttscua/why_are_there_so_many_python_dataframes) - [Why Are There So Many Python Dataframes?](https://ponder.io/why-are-there-so-many-python-dataframes/)
 * [2023-09-21, 21:34:07](https://lobste.rs/s/bvypaa/buzz_small_lightweight_statically_typed) - [buzz - A small/lightweight statically typed scripting language](https://buzz-lang.dev)
 * [2023-09-21, 21:21:53](https://lobste.rs/s/cjyajl/scudo_hardened_allocator_unofficial) - [SCUDO Hardened Allocator — Unofficial Internals Documentation](https://trenchant.io/scudo-hardened-allocator-unofficial-internals-documentation/)

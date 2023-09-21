@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-21, 23:55:52](https://lobste.rs/s/ncwngm/godot_binding_system_explained) - [Godot Binding System Explained](https://gist.github.com/reduz/cb05fe96079e46785f08a79ec3b0ef21)
 * [2023-09-21, 23:45:11](https://lobste.rs/s/ttscua/why_are_there_so_many_python_dataframes) - [Why Are There So Many Python Dataframes?](https://ponder.io/why-are-there-so-many-python-dataframes/)
 * [2023-09-21, 21:34:07](https://lobste.rs/s/bvypaa/buzz_small_lightweight_statically_typed) - [buzz - A small/lightweight statically typed scripting language](https://buzz-lang.dev)
 * [2023-09-21, 21:00:24](https://lobste.rs/s/iovz9o/state_async_rust) - [The State of Async Rust](https://corrode.dev/blog/async/)
@@ -14,7 +15,6 @@
 * [2023-09-21, 15:42:32](https://lobste.rs/s/ph57od/mastodon_4_2) - [Mastodon 4.2](https://blog.joinmastodon.org/2023/09/mastodon-4.2/)
 * [2023-09-21, 14:58:40](https://lobste.rs/s/bu9mfy/supply_chain_issues_pypi) - [Supply Chain Issues in PyPI](https://stiankri.substack.com/p/supply-chain-issues-in-pypi)
 * [2023-09-21, 12:21:57](https://lobste.rs/s/wieu1x/seagoat_local_first_semantic_code_search) - [SeaGOAT: local-first semantic code search engine (\"AI based grep\")](https://github.com/kantord/SeaGOAT)
-* [2023-09-21, 11:44:32](https://lobste.rs/s/fu1pir/heat_map_reporter_for_minitest) - [A Heat Map Reporter for Minitest](https://garrettdimon.com/journal/posts/a-heat-map-reporter-for-minitest)
 * [2023-09-21, 08:54:10](https://lobste.rs/s/tg2giw/why_kakoune) - [Why Kakoune](https://andreyor.st/posts/2023-09-20-why-kakoune/)
 * [2023-09-21, 08:25:19](https://lobste.rs/s/3fyo9u/first_arm64_cpu_launch) - [The first arm64 CPU launch](https://ioc.exchange/@shac/111099766302290499)
 * [2023-09-21, 07:46:27](https://lobste.rs/s/3syk0k/data_contract_specification) - [Data Contract Specification](https://datacontract.com)
