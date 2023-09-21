@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
+* [2023-09-21, 21:34:07](https://lobste.rs/s/bvypaa/buzz_small_lightweight_statically_typed) - [buzz - A small/lightweight statically typed scripting language](https://buzz-lang.dev)
 * [2023-09-21, 21:21:53](https://lobste.rs/s/cjyajl/scudo_hardened_allocator_unofficial) - [SCUDO Hardened Allocator — Unofficial Internals Documentation](https://trenchant.io/scudo-hardened-allocator-unofficial-internals-documentation/)
 * [2023-09-21, 21:00:24](https://lobste.rs/s/iovz9o/state_async_rust) - [The State of Async Rust](https://corrode.dev/blog/async/)
 * [2023-09-21, 20:01:58](https://lobste.rs/s/hx8vjb/webp_0day) - [The WebP 0day](https://blog.isosceles.com/the-webp-0day/)
