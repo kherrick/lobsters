@@ -13,6 +13,7 @@
 * [2023-09-21, 15:42:32](https://lobste.rs/s/ph57od/mastodon_4_2) - [Mastodon 4.2](https://blog.joinmastodon.org/2023/09/mastodon-4.2/)
 * [2023-09-21, 14:58:40](https://lobste.rs/s/bu9mfy/supply_chain_issues_pypi) - [Supply Chain Issues in PyPI](https://stiankri.substack.com/p/supply-chain-issues-in-pypi)
 * [2023-09-21, 12:21:57](https://lobste.rs/s/wieu1x/seagoat_local_first_semantic_code_search) - [SeaGOAT: local-first semantic code search engine (\"AI based grep\")](https://github.com/kantord/SeaGOAT)
+* [2023-09-21, 11:44:32](https://lobste.rs/s/fu1pir/heat_map_reporter_for_minitest) - [A Heat Map Reporter for Minitest](https://garrettdimon.com/journal/posts/a-heat-map-reporter-for-minitest)
 * [2023-09-21, 08:54:10](https://lobste.rs/s/tg2giw/why_kakoune) - [Why Kakoune](https://andreyor.st/posts/2023-09-20-why-kakoune/)
 * [2023-09-21, 08:25:19](https://lobste.rs/s/3fyo9u/first_arm64_cpu_launch) - [The first arm64 CPU launch](https://ioc.exchange/@shac/111099766302290499)
 * [2023-09-21, 07:46:27](https://lobste.rs/s/3syk0k/data_contract_specification) - [Data Contract Specification](https://datacontract.com)
@@ -24,7 +25,6 @@
 * [2023-09-20, 13:31:51](https://lobste.rs/s/vjg35t/frustration_loop) - [The Frustration Loop](https://herman.bearblog.dev/the-frustration-loop/)
 * [2023-09-20, 12:50:46](https://lobste.rs/s/lz2v3g/gokrazy_is_really_cool) - [gokrazy is really cool](https://xeiaso.net/blog/gokrazy)
 * [2023-09-20, 12:39:30](https://lobste.rs/s/6nwmls/fzf_command_line_fuzzy_finder) - [fzf - The Command-Line Fuzzy Finder](https://muhammadraza.me/2023/fzf/)
-* [2023-09-20, 07:39:34](https://lobste.rs/s/z7wuy3/opentofu) - [OpenTofu](https://opentofu.org/)
 
 ## [Archives](archives/index.md)
 
