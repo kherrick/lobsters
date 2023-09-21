@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-20](index.md)
 
+* [2023-09-20, 23:59:18](https://lobste.rs/s/trivcf/repalm) - [rePalm](http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
 * [2023-09-20, 23:17:45](https://lobste.rs/s/pnujxa/how_abuse_fix_authenticated_encryption) - [How to Abuse and Fix Authenticated Encryption Without Key Commitment | USENIX](https://www.usenix.org/conference/usenixsecurity22/presentation/albertini)
 * [2023-09-20, 22:17:36](https://lobste.rs/s/6uuopt/re_malloc_write_after_free_error_checking) - [Re: malloc write after free error checking](https://marc.info/?l=openbsd-tech&m=169519004327392&w=2)
 * [2023-09-20, 21:40:14](https://lobste.rs/s/bpp5w3/introducing_gnome_45_gnome_foundation) - [Introducing GNOME 45 – The GNOME Foundation](https://foundation.gnome.org/2023/09/20/introducing-gnome-45/)
