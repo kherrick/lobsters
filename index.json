@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-21, 21:00:24",
+      "https://lobste.rs/s/iovz9o/state_async_rust"
+    ],
+    [
+      "The State of Async Rust",
+      "https://corrode.dev/blog/async/"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 20:01:58",
       "https://lobste.rs/s/hx8vjb/webp_0day"
     ],
@@ -137,16 +147,6 @@
     [
       "Data Contract Specification",
       "https://datacontract.com"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 02:18:04",
-      "https://lobste.rs/s/iulxmq/learning_resources_for_efficient_gpu"
-    ],
-    [
-      "Learning resources for efficient GPU computation?",
-      "https://lobste.rs/s/iulxmq/learning_resources_for_efficient_gpu"
     ]
   ],
   [
