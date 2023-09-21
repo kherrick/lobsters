@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-21, 20:01:58](https://lobste.rs/s/hx8vjb/webp_0day) - [The WebP 0day](https://blog.isosceles.com/the-webp-0day/)
 * [2023-09-21, 19:53:41](https://lobste.rs/s/fvalqf/awk_for_exploratory_data_analysis) - [AWK for Exploratory Data Analysis of Humanities Data](https://awk.dev/eda.html)
 * [2023-09-21, 19:53:12](https://lobste.rs/s/psdmso/matrix_2_0_future_matrix) - [Matrix 2.0: The Future of Matrix](https://matrix.org/blog/2023/09/matrix-2-0/)
 * [2023-09-21, 19:19:03](https://lobste.rs/s/tkzyme/how_do_databases_execute_expressions) - [How do databases execute expressions?](https://notes.eatonphil.com/2023-09-21-how-do-databases-execute-expressions.html)
@@ -9,7 +10,6 @@
 * [2023-09-21, 15:42:32](https://lobste.rs/s/ph57od/mastodon_4_2) - [Mastodon 4.2](https://blog.joinmastodon.org/2023/09/mastodon-4.2/)
 * [2023-09-21, 14:58:40](https://lobste.rs/s/bu9mfy/supply_chain_issues_pypi) - [Supply Chain Issues in PyPI](https://stiankri.substack.com/p/supply-chain-issues-in-pypi)
 * [2023-09-21, 12:21:57](https://lobste.rs/s/wieu1x/seagoat_local_first_semantic_code_search) - [SeaGOAT: local-first semantic code search engine (\"AI based grep\")](https://github.com/kantord/SeaGOAT)
-* [2023-09-21, 11:44:32](https://lobste.rs/s/fu1pir/heat_map_reporter_for_minitest) - [A Heat Map Reporter for Minitest](https://garrettdimon.com/journal/posts/a-heat-map-reporter-for-minitest)
 * [2023-09-21, 10:03:09](https://lobste.rs/s/8ognw7/github_actions_for_c_qt) - [GitHub Actions for C++ and Qt](https://www.kdab.com/github-actions-for-cpp-and-qt/)
 * [2023-09-21, 08:54:10](https://lobste.rs/s/tg2giw/why_kakoune) - [Why Kakoune](https://andreyor.st/posts/2023-09-20-why-kakoune/)
 * [2023-09-21, 08:25:19](https://lobste.rs/s/3fyo9u/first_arm64_cpu_launch) - [The first arm64 CPU launch](https://ioc.exchange/@shac/111099766302290499)
