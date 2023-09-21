@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
+* [2023-09-21, 17:59:11](https://lobste.rs/s/yst7r6/behind_scenes_with_fawltydeps_v0_13_0) - [Behind the scenes with FawltyDeps v0.13.0: Matching imports with dependencies](https://www.tweag.io/blog/2023-09-21-fawltydeps-mapping-strategy/)
+* [2023-09-21, 17:58:59](https://lobste.rs/s/xr24nd/memories_really_goofy_phone_from_late_80s) - [Memories of a really goofy phone from the late 80s](https://rachelbythebay.com/w/2023/09/20/fv1000/)
 * [2023-09-21, 17:26:55](https://lobste.rs/s/rtepnw/most_ui_applications_are_broken_real_time) - [Most UI Applications are Broken Real-time Applications](https://thelig.ht/ui-apps-are-broken/)
 * [2023-09-21, 15:52:34](https://lobste.rs/s/rlkuts/cheri_instruction_set_architecture) - [The CHERI Instruction-Set Architecture, Version 9](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-987.html)
 * [2023-09-21, 15:45:06](https://lobste.rs/s/dkfkva/state_html_2023) - [State of HTML 2023](https://survey.devographics.com/en-US/survey/state-of-html/2023)
