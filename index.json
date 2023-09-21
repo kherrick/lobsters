@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-21, 23:55:52",
+      "https://lobste.rs/s/ncwngm/godot_binding_system_explained"
+    ],
+    [
+      "Godot Binding System Explained",
+      "https://gist.github.com/reduz/cb05fe96079e46785f08a79ec3b0ef21"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 23:45:11",
       "https://lobste.rs/s/ttscua/why_are_there_so_many_python_dataframes"
     ],
@@ -137,16 +147,6 @@
     [
       "SeaGOAT: local-first semantic code search engine (\"AI based grep\")",
       "https://github.com/kantord/SeaGOAT"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 11:44:32",
-      "https://lobste.rs/s/fu1pir/heat_map_reporter_for_minitest"
-    ],
-    [
-      "A Heat Map Reporter for Minitest",
-      "https://garrettdimon.com/journal/posts/a-heat-map-reporter-for-minitest"
     ]
   ],
   [
