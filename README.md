@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-21, 08:54:10](https://lobste.rs/s/tg2giw/why_kakoune) - [Why Kakoune](https://andreyor.st/posts/2023-09-20-why-kakoune/)
 * [2023-09-21, 08:25:19](https://lobste.rs/s/3fyo9u/first_arm64_cpu_launch) - [The first arm64 CPU launch](https://ioc.exchange/@shac/111099766302290499)
 * [2023-09-21, 07:46:27](https://lobste.rs/s/3syk0k/data_contract_specification) - [Data Contract Specification](https://datacontract.com)
 * [2023-09-21, 02:18:04](https://lobste.rs/s/iulxmq/learning_resources_for_efficient_gpu) - [Learning resources for efficient GPU computation?](https://lobste.rs/s/iulxmq/learning_resources_for_efficient_gpu)
@@ -9,7 +10,6 @@
 * [2023-09-20, 21:40:14](https://lobste.rs/s/bpp5w3/introducing_gnome_45_gnome_foundation) - [Introducing GNOME 45 – The GNOME Foundation](https://foundation.gnome.org/2023/09/20/introducing-gnome-45/)
 * [2023-09-20, 19:34:05](https://lobste.rs/s/9coj14/speeding_up_floyd_steinberg_dithering) - [Speeding up Floyd-Steinberg dithering: an optimization exercise](https://pythonspeed.com/articles/optimizing-dithering/)
 * [2023-09-20, 18:42:31](https://lobste.rs/s/kteyjx/strong_arrows_new_approach_gradual) - [Strong arrows: a new approach to gradual typing](https://elixir-lang.org/blog/2023/09/20/strong-arrows-gradual-typing/)
-* [2023-09-20, 17:30:38](https://lobste.rs/s/j61gol/once_more_about_clean_code) - [Once more about clean code](https://www.sandordargo.com/blog/2023/09/20/once-more-about-clean-code)
 * [2023-09-20, 15:19:54](https://lobste.rs/s/fue8mw/xml_is_better_than_yaml) - [XML is better than YAML](https://changelog.com/posts/xml-better-than-yaml)
 * [2023-09-20, 14:44:03](https://lobste.rs/s/thw5pl/signal_protocol_used_by_1_billion_people) - [The Signal Protocol used by 1+ billion people is getting a post-quantum makeover](https://arstechnica.com/?p=1969529)
 * [2023-09-20, 14:30:48](https://lobste.rs/s/othymr/how_build_computer_using_origami) - [How to build a computer using origami](https://apieceofthepi.substack.com/p/how-to-build-a-computer-using-origami)
