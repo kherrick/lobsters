@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-09-21, 15:52:34](https://lobste.rs/s/rlkuts/cheri_instruction_set_architecture) - [The CHERI Instruction-Set Architecture, Version 9](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-987.html)
-* [2023-09-21, 15:45:06](https://lobste.rs/s/dkfkva/state_html_2023) - [State of HTML 2023](https://survey.devographics.com/en-US/survey/state-of-html/2023)
 * [2023-09-21, 15:42:32](https://lobste.rs/s/ph57od/mastodon_4_2) - [Mastodon 4.2](https://blog.joinmastodon.org/2023/09/mastodon-4.2/)
 * [2023-09-21, 14:58:40](https://lobste.rs/s/bu9mfy/supply_chain_issues_pypi) - [Supply Chain Issues in PyPI](https://stiankri.substack.com/p/supply-chain-issues-in-pypi)
 * [2023-09-21, 12:21:57](https://lobste.rs/s/wieu1x/seagoat_local_first_semantic_code_search) - [SeaGOAT: local-first semantic code search engine (\"AI based grep\")](https://github.com/kantord/SeaGOAT)
@@ -15,6 +14,7 @@
 * [2023-09-21, 02:18:04](https://lobste.rs/s/iulxmq/learning_resources_for_efficient_gpu) - [Learning resources for efficient GPU computation?](https://lobste.rs/s/iulxmq/learning_resources_for_efficient_gpu)
 * [2023-09-21, 01:43:21](https://lobste.rs/s/j3x35c/long_term_support_for_linux_kernel_be_cut) - [Long-term support for Linux kernel to be cut as maintainence remains under strain](https://www.zdnet.com/article/long-term-support-for-linux-kernel-to-be-cut-as-maintainence-remains-under-strain/)
 * [2023-09-20, 23:59:18](https://lobste.rs/s/trivcf/repalm) - [rePalm](http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
+* [2023-09-20, 22:17:36](https://lobste.rs/s/6uuopt/re_malloc_write_after_free_error_checking) - [Re: malloc write after free error checking](https://marc.info/?l=openbsd-tech&m=169519004327392&w=2)
 * [2023-09-20, 21:40:14](https://lobste.rs/s/bpp5w3/introducing_gnome_45_gnome_foundation) - [Introducing GNOME 45 – The GNOME Foundation](https://foundation.gnome.org/2023/09/20/introducing-gnome-45/)
 * [2023-09-20, 19:55:14](https://lobste.rs/s/c2uyhx/openresty_vs_lua_5_4_benchmark) - [OpenResty vs Lua 5.4: a benchmark](https://berwyn.hashnode.dev/openresty-vs-lua-54-a-benchmark)
 * [2023-09-20, 19:34:05](https://lobste.rs/s/9coj14/speeding_up_floyd_steinberg_dithering) - [Speeding up Floyd-Steinberg dithering: an optimization exercise](https://pythonspeed.com/articles/optimizing-dithering/)
