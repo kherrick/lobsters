@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-21, 13:22:54",
+      "https://lobste.rs/s/vn7dqp/few_different_ways_run_wordpress"
+    ],
+    [
+      "Few different ways to run wordpress",
+      "https://github.com/geekodour/xrunsWordpress"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 12:21:57",
       "https://lobste.rs/s/wieu1x/seagoat_local_first_semantic_code_search"
     ],
@@ -217,16 +227,6 @@
     [
       "fzf - The Command-Line Fuzzy Finder",
       "https://muhammadraza.me/2023/fzf/"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 09:26:47",
-      "https://lobste.rs/s/arhjon/side_effecting_deopt_javascript"
-    ],
-    [
-      "Side effecting a deopt in JavaScript",
-      "https://www.recompiled.dev/blog/deopt/"
     ]
   ],
   [
