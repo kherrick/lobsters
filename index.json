@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-09-21, 21:00:24",
+      "https://lobste.rs/s/iovz9o/state_async_rust"
+    ],
+    [
+      "The State of Async Rust",
+      "https://corrode.dev/blog/async/"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 20:01:58",
       "https://lobste.rs/s/hx8vjb/webp_0day"
     ],
@@ -197,16 +207,6 @@
     [
       "XML is better than YAML",
       "https://changelog.com/posts/xml-better-than-yaml"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 14:44:03",
-      "https://lobste.rs/s/thw5pl/signal_protocol_used_by_1_billion_people"
-    ],
-    [
-      "The Signal Protocol used by 1+ billion people is getting a post-quantum makeover",
-      "https://arstechnica.com/?p=1969529"
     ]
   ],
   [
