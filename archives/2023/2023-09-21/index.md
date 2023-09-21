@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
+* [2023-09-21, 19:53:41](https://lobste.rs/s/fvalqf/awk_for_exploratory_data_analysis) - [AWK for Exploratory Data Analysis of Humanities Data](https://awk.dev/eda.html)
+* [2023-09-21, 19:53:12](https://lobste.rs/s/psdmso/matrix_2_0_future_matrix) - [Matrix 2.0: The Future of Matrix](https://matrix.org/blog/2023/09/matrix-2-0/)
 * [2023-09-21, 19:19:03](https://lobste.rs/s/tkzyme/how_do_databases_execute_expressions) - [How do databases execute expressions?](https://notes.eatonphil.com/2023-09-21-how-do-databases-execute-expressions.html)
 * [2023-09-21, 17:59:11](https://lobste.rs/s/yst7r6/behind_scenes_with_fawltydeps_v0_13_0) - [Behind the scenes with FawltyDeps v0.13.0: Matching imports with dependencies](https://www.tweag.io/blog/2023-09-21-fawltydeps-mapping-strategy/)
 * [2023-09-21, 17:58:59](https://lobste.rs/s/xr24nd/memories_really_goofy_phone_from_late_80s) - [Memories of a really goofy phone from the late 80s](https://rachelbythebay.com/w/2023/09/20/fv1000/)
