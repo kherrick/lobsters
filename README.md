@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-21, 11:30:59](https://lobste.rs/s/1rgw6s/achieving_high_availability_with) - [Achieving High Availability with HAProxy and Keepalived: Building a Redundant Load Balancer](https://sysadmins.co.za/achieving-high-availability-with-haproxy-and-keepalived-building-a-redundant-load-balancer/)
 * [2023-09-21, 10:24:05](https://lobste.rs/s/c9jjwl/grouping_digits_sql) - [Grouping digits in SQL](https://peter.eisentraut.org/blog/2023/09/20/grouping-digits-in-sql)
 * [2023-09-21, 10:03:09](https://lobste.rs/s/8ognw7/github_actions_for_c_qt) - [GitHub Actions for C++ and Qt](https://www.kdab.com/github-actions-for-cpp-and-qt/)
 * [2023-09-21, 09:39:02](https://lobste.rs/s/sz49qc/hidden_origins_lisp) - [The Hidden Origins of Lisp](https://lfe.io/books/sicp/fm/preface-3/origins.html)
@@ -18,7 +19,6 @@
 * [2023-09-20, 14:44:03](https://lobste.rs/s/thw5pl/signal_protocol_used_by_1_billion_people) - [The Signal Protocol used by 1+ billion people is getting a post-quantum makeover](https://arstechnica.com/?p=1969529)
 * [2023-09-20, 13:31:51](https://lobste.rs/s/vjg35t/frustration_loop) - [The Frustration Loop](https://herman.bearblog.dev/the-frustration-loop/)
 * [2023-09-20, 12:50:46](https://lobste.rs/s/lz2v3g/gokrazy_is_really_cool) - [gokrazy is really cool](https://xeiaso.net/blog/gokrazy)
-* [2023-09-20, 12:43:48](https://lobste.rs/s/alzaim/thoughts_on_gentle_tyranny_call_return) - [Thoughts on \"The Gentle Tyranny of Call/Return\"](https://frogulis.net/writing/gentle-tyranny-thoughts)
 * [2023-09-20, 12:39:30](https://lobste.rs/s/6nwmls/fzf_command_line_fuzzy_finder) - [fzf - The Command-Line Fuzzy Finder](https://muhammadraza.me/2023/fzf/)
 * [2023-09-20, 09:26:47](https://lobste.rs/s/arhjon/side_effecting_deopt_javascript) - [Side effecting a deopt in JavaScript](https://www.recompiled.dev/blog/deopt/)
 * [2023-09-20, 08:47:14](https://lobste.rs/s/huku9a/openbsd_arm64_on_hetzner_cloud) - [OpenBSD/arm64 on Hetzner Cloud](https://www.cambus.net/openbsd-arm64-on-hetzner-cloud/)
