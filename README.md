@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-21, 01:43:21](https://lobste.rs/s/j3x35c/long_term_support_for_linux_kernel_be_cut) - [Long-term support for Linux kernel to be cut as maintainence remains under strain](https://www.zdnet.com/article/long-term-support-for-linux-kernel-to-be-cut-as-maintainence-remains-under-strain/)
 * [2023-09-20, 23:59:18](https://lobste.rs/s/trivcf/repalm) - [rePalm](http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
 * [2023-09-20, 23:17:45](https://lobste.rs/s/pnujxa/how_abuse_fix_authenticated_encryption) - [How to Abuse and Fix Authenticated Encryption Without Key Commitment](https://www.usenix.org/conference/usenixsecurity22/presentation/albertini)
 * [2023-09-20, 22:17:36](https://lobste.rs/s/6uuopt/re_malloc_write_after_free_error_checking) - [Re: malloc write after free error checking](https://marc.info/?l=openbsd-tech&m=169519004327392&w=2)
@@ -22,7 +23,6 @@
 * [2023-09-20, 04:06:34](https://lobste.rs/s/i8jbba/why_we_built_our_own_nfs_server_rust) - [Why We Built our own NFS Server in Rust](https://about.xethub.com/blog/nfs-fuse-why-we-built-nfs-server-rust)
 * [2023-09-19, 23:32:37](https://lobste.rs/s/sqa0ao/circles_do_not_exist) - [Circles do not exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
 * [2023-09-19, 19:23:37](https://lobste.rs/s/w6dpri/fixing_for_loops_go_1_22) - [Fixing For Loops in Go 1.22](https://go.dev/blog/loopvar-preview)
-* [2023-09-19, 16:23:55](https://lobste.rs/s/nxg81c/okay_microservices_have_benefits_too) - [Okay, Microservices Have Benefits Too](https://two-wrongs.com/benefits-of-microservices.html)
 * [2023-09-19, 12:05:18](https://lobste.rs/s/vz4ocd/64_bit_bank_balances_ought_be_enough_for) - [64-Bit Bank Balances ‘Ought to be Enough for Anybody’?](https://tigerbeetle.com/blog/2023-09-19-64-bit-bank-balances-ought-to-be-enough-for-anybody/)
 * [2023-09-19, 08:24:15](https://lobste.rs/s/pb4vuz/fx_terminal_json_viewer) - [fx – terminal JSON viewer](https://fx.wtf/)
 
