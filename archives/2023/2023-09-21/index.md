@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
+* [2023-09-21, 11:44:32](https://lobste.rs/s/fu1pir/heat_map_reporter_for_minitest) - [A Heat Map Reporter for Minitest](https://garrettdimon.com/journal/posts/a-heat-map-reporter-for-minitest)
 * [2023-09-21, 11:30:59](https://lobste.rs/s/1rgw6s/achieving_high_availability_with) - [Achieving High Availability with HAProxy and Keepalived: Building a Redundant Load Balancer](https://sysadmins.co.za/achieving-high-availability-with-haproxy-and-keepalived-building-a-redundant-load-balancer/)
 * [2023-09-21, 10:24:05](https://lobste.rs/s/c9jjwl/grouping_digits_sql) - [Grouping digits in SQL](https://peter.eisentraut.org/blog/2023/09/20/grouping-digits-in-sql)
 * [2023-09-21, 10:03:09](https://lobste.rs/s/8ognw7/github_actions_for_c_qt) - [GitHub Actions for C++ and Qt](https://www.kdab.com/github-actions-for-cpp-and-qt/)
