@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2023-09-21, 11:44:32",
+      "https://lobste.rs/s/fu1pir/heat_map_reporter_for_minitest"
+    ],
+    [
+      "A Heat Map Reporter for Minitest",
+      "https://garrettdimon.com/journal/posts/a-heat-map-reporter-for-minitest"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 08:54:10",
       "https://lobste.rs/s/tg2giw/why_kakoune"
     ],
@@ -237,16 +247,6 @@
     [
       "fzf - The Command-Line Fuzzy Finder",
       "https://muhammadraza.me/2023/fzf/"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 07:39:34",
-      "https://lobste.rs/s/z7wuy3/opentofu"
-    ],
-    [
-      "OpenTofu",
-      "https://opentofu.org/"
     ]
   ]
 ]
