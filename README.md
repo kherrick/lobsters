@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-21, 07:46:27](https://lobste.rs/s/3syk0k/data_contract_specification) - [Data Contract Specification](https://datacontract.com)
 * [2023-09-21, 02:18:04](https://lobste.rs/s/iulxmq/learning_resources_for_efficient_gpu) - [Learning resources for efficient GPU computation?](https://lobste.rs/s/iulxmq/learning_resources_for_efficient_gpu)
 * [2023-09-21, 01:43:21](https://lobste.rs/s/j3x35c/long_term_support_for_linux_kernel_be_cut) - [Long-term support for Linux kernel to be cut as maintainence remains under strain](https://www.zdnet.com/article/long-term-support-for-linux-kernel-to-be-cut-as-maintainence-remains-under-strain/)
 * [2023-09-20, 23:59:18](https://lobste.rs/s/trivcf/repalm) - [rePalm](http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
@@ -24,7 +25,6 @@
 * [2023-09-19, 23:32:37](https://lobste.rs/s/sqa0ao/circles_do_not_exist) - [Circles do not exist](https://nibblestew.blogspot.com/2023/09/circles-do-not-exist.html)
 * [2023-09-19, 19:23:37](https://lobste.rs/s/w6dpri/fixing_for_loops_go_1_22) - [Fixing For Loops in Go 1.22](https://go.dev/blog/loopvar-preview)
 * [2023-09-19, 12:05:18](https://lobste.rs/s/vz4ocd/64_bit_bank_balances_ought_be_enough_for) - [64-Bit Bank Balances ‘Ought to be Enough for Anybody’?](https://tigerbeetle.com/blog/2023-09-19-64-bit-bank-balances-ought-to-be-enough-for-anybody/)
-* [2023-09-19, 08:24:15](https://lobste.rs/s/pb4vuz/fx_terminal_json_viewer) - [fx – terminal JSON viewer](https://fx.wtf/)
 
 ## [Archives](archives/index.md)
 
