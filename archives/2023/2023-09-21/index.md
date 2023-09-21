@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-21](index.md)
 
+* [2023-09-21, 23:45:11](https://lobste.rs/s/ttscua/why_are_there_so_many_python_dataframes) - [Why Are There So Many Python Dataframes?](https://ponder.io/why-are-there-so-many-python-dataframes/)
 * [2023-09-21, 21:34:07](https://lobste.rs/s/bvypaa/buzz_small_lightweight_statically_typed) - [buzz - A small/lightweight statically typed scripting language](https://buzz-lang.dev)
 * [2023-09-21, 21:21:53](https://lobste.rs/s/cjyajl/scudo_hardened_allocator_unofficial) - [SCUDO Hardened Allocator — Unofficial Internals Documentation](https://trenchant.io/scudo-hardened-allocator-unofficial-internals-documentation/)
 * [2023-09-21, 21:00:24](https://lobste.rs/s/iovz9o/state_async_rust) - [The State of Async Rust](https://corrode.dev/blog/async/)
