@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-21, 21:34:07",
+      "https://lobste.rs/s/bvypaa/buzz_small_lightweight_statically_typed"
+    ],
+    [
+      "buzz - A small/lightweight statically typed scripting language",
+      "https://buzz-lang.dev"
+    ]
+  ],
+  [
+    [
       "2023-09-21, 21:21:53",
       "https://lobste.rs/s/cjyajl/scudo_hardened_allocator_unofficial"
     ],
@@ -177,16 +187,6 @@
     [
       "Introducing GNOME 45 – The GNOME Foundation",
       "https://foundation.gnome.org/2023/09/20/introducing-gnome-45/"
-    ]
-  ],
-  [
-    [
-      "2023-09-20, 18:42:31",
-      "https://lobste.rs/s/kteyjx/strong_arrows_new_approach_gradual"
-    ],
-    [
-      "Strong arrows: a new approach to gradual typing",
-      "https://elixir-lang.org/blog/2023/09/20/strong-arrows-gradual-typing/"
     ]
   ],
   [
