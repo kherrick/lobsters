@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-09-21, 21:34:07](https://lobste.rs/s/bvypaa/buzz_small_lightweight_statically_typed) - [buzz - A small/lightweight statically typed scripting language](https://buzz-lang.dev)
+* [2023-09-21, 21:00:24](https://lobste.rs/s/iovz9o/state_async_rust) - [The State of Async Rust](https://corrode.dev/blog/async/)
 * [2023-09-21, 20:01:58](https://lobste.rs/s/hx8vjb/webp_0day) - [The WebP 0day](https://blog.isosceles.com/the-webp-0day/)
 * [2023-09-21, 19:53:41](https://lobste.rs/s/fvalqf/awk_for_exploratory_data_analysis) - [AWK for Exploratory Data Analysis of Humanities Data](https://awk.dev/eda.html)
 * [2023-09-21, 19:53:12](https://lobste.rs/s/psdmso/matrix_2_0_future_matrix) - [Matrix 2.0: The Future of Matrix](https://matrix.org/blog/2023/09/matrix-2-0/)
@@ -20,7 +21,6 @@
 * [2023-09-20, 23:59:18](https://lobste.rs/s/trivcf/repalm) - [rePalm](http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
 * [2023-09-20, 21:40:14](https://lobste.rs/s/bpp5w3/introducing_gnome_45_gnome_foundation) - [Introducing GNOME 45 – The GNOME Foundation](https://foundation.gnome.org/2023/09/20/introducing-gnome-45/)
 * [2023-09-20, 15:19:54](https://lobste.rs/s/fue8mw/xml_is_better_than_yaml) - [XML is better than YAML](https://changelog.com/posts/xml-better-than-yaml)
-* [2023-09-20, 14:44:03](https://lobste.rs/s/thw5pl/signal_protocol_used_by_1_billion_people) - [The Signal Protocol used by 1+ billion people is getting a post-quantum makeover](https://arstechnica.com/?p=1969529)
 * [2023-09-20, 13:31:51](https://lobste.rs/s/vjg35t/frustration_loop) - [The Frustration Loop](https://herman.bearblog.dev/the-frustration-loop/)
 * [2023-09-20, 12:50:46](https://lobste.rs/s/lz2v3g/gokrazy_is_really_cool) - [gokrazy is really cool](https://xeiaso.net/blog/gokrazy)
 * [2023-09-20, 12:39:30](https://lobste.rs/s/6nwmls/fzf_command_line_fuzzy_finder) - [fzf - The Command-Line Fuzzy Finder](https://muhammadraza.me/2023/fzf/)
