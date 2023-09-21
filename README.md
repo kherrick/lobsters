@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-21, 10:24:05](https://lobste.rs/s/c9jjwl/grouping_digits_sql) - [Grouping digits in SQL](https://peter.eisentraut.org/blog/2023/09/20/grouping-digits-in-sql)
 * [2023-09-21, 10:03:09](https://lobste.rs/s/8ognw7/github_actions_for_c_qt) - [GitHub Actions for C++ and Qt](https://www.kdab.com/github-actions-for-cpp-and-qt/)
 * [2023-09-21, 09:39:02](https://lobste.rs/s/sz49qc/hidden_origins_lisp) - [The Hidden Origins of Lisp](https://lfe.io/books/sicp/fm/preface-3/origins.html)
 * [2023-09-21, 08:54:10](https://lobste.rs/s/tg2giw/why_kakoune) - [Why Kakoune](https://andreyor.st/posts/2023-09-20-why-kakoune/)
@@ -10,7 +11,6 @@
 * [2023-09-20, 23:59:18](https://lobste.rs/s/trivcf/repalm) - [rePalm](http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
 * [2023-09-20, 22:17:36](https://lobste.rs/s/6uuopt/re_malloc_write_after_free_error_checking) - [Re: malloc write after free error checking](https://marc.info/?l=openbsd-tech&m=169519004327392&w=2)
 * [2023-09-20, 21:40:14](https://lobste.rs/s/bpp5w3/introducing_gnome_45_gnome_foundation) - [Introducing GNOME 45 – The GNOME Foundation](https://foundation.gnome.org/2023/09/20/introducing-gnome-45/)
-* [2023-09-20, 19:55:14](https://lobste.rs/s/c2uyhx/openresty_vs_lua_5_4_benchmark) - [OpenResty vs Lua 5.4: a benchmark](https://berwyn.hashnode.dev/openresty-vs-lua-54-a-benchmark)
 * [2023-09-20, 19:34:05](https://lobste.rs/s/9coj14/speeding_up_floyd_steinberg_dithering) - [Speeding up Floyd-Steinberg dithering: an optimization exercise](https://pythonspeed.com/articles/optimizing-dithering/)
 * [2023-09-20, 18:42:31](https://lobste.rs/s/kteyjx/strong_arrows_new_approach_gradual) - [Strong arrows: a new approach to gradual typing](https://elixir-lang.org/blog/2023/09/20/strong-arrows-gradual-typing/)
 * [2023-09-20, 15:19:54](https://lobste.rs/s/fue8mw/xml_is_better_than_yaml) - [XML is better than YAML](https://changelog.com/posts/xml-better-than-yaml)
