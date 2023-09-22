@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
+* [2023-09-22, 22:32:21](https://lobste.rs/s/yxfwdc/sharded_does_not_imply_distributed) - [Sharded Does Not Imply Distributed](https://medium.com/@magda7817/sharded-does-not-imply-distributed-572fdafc4040)
 * [2023-09-22, 21:09:49](https://lobste.rs/s/wmfhm7/let_s_build_fips_validated_rust_crypto) - [Let's Build a FIPS-validated Rust Crypto Library](https://briansmith.org/lets-build-a-fips-rust-crypto)
 * [2023-09-22, 18:21:51](https://lobste.rs/s/21ahgz/www_which_wasm_works) - [www which wasm works](https://flak.tedunangst.com/post/www-which-wasm-works)
 * [2023-09-22, 18:17:03](https://lobste.rs/s/acxkwj/name_biggest_number) - [Name the biggest number](https://github.com/codyroux/name-the-biggest-number)
