@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
+* [2023-09-22, 16:32:32](https://lobste.rs/s/6ptujd/amd_driver_specific_properties_for_color) - [AMD Driver-specific Properties for Color Management on Linux (Part 1)](https://melissawen.github.io/blog/2023/08/21/amd-steamdeck-colors)
 * [2023-09-22, 15:56:33](https://lobste.rs/s/ljp4yw/raw_water_quenching_your_thirst_for_sql) - [Raw Water: Quenching Your Thirst for SQL Injection](https://nautilus.institute/blog/2023/raw-water/)
 * [2023-09-22, 15:20:08](https://lobste.rs/s/3k7me7/generations_based_map_vs_sparse_map) - [Generations-based map vs sparse map](https://quasilyte.dev/blog/post/gen-map/)
 * [2023-09-22, 15:04:43](https://lobste.rs/s/tmmk6t/java_21_nice_meh_momentous) - [Java 21: The Nice, The Meh, and the ... Momentous](https://horstmann.com/unblog/2023-09-19/index.html)
