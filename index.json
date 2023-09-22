@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-22, 22:32:21",
+      "https://lobste.rs/s/yxfwdc/sharded_does_not_imply_distributed"
+    ],
+    [
+      "Sharded Does Not Imply Distributed",
+      "https://medium.com/@magda7817/sharded-does-not-imply-distributed-572fdafc4040"
+    ]
+  ],
+  [
+    [
       "2023-09-22, 21:09:49",
       "https://lobste.rs/s/wmfhm7/let_s_build_fips_validated_rust_crypto"
     ],
@@ -187,16 +197,6 @@
     [
       "The WebP 0day",
       "https://blog.isosceles.com/the-webp-0day/"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 19:53:41",
-      "https://lobste.rs/s/fvalqf/awk_for_exploratory_data_analysis"
-    ],
-    [
-      "AWK for Exploratory Data Analysis of Humanities Data",
-      "https://awk.dev/eda.html"
     ]
   ],
   [
