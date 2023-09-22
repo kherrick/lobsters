@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-22, 14:11:24",
+      "https://lobste.rs/s/t1u1iq/neardrop_unofficial_google_nearby_share"
+    ],
+    [
+      "NearDrop: An unofficial Google Nearby Share app for macOS",
+      "https://github.com/grishka/NearDrop"
+    ]
+  ],
+  [
+    [
       "2023-09-22, 13:51:59",
       "https://lobste.rs/s/iesvdc/scaling_rust_adoption_through_training"
     ],
@@ -77,16 +87,6 @@
     [
       "Drawing Hat tiling using Racket",
       "https://rdivyanshu.github.io/hat.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-22, 04:32:39",
-      "https://lobste.rs/s/h3va2e/introducing_azure_quantum_development"
-    ],
-    [
-      "Introducing the Azure Quantum Development Kit Preview",
-      "https://devblogs.microsoft.com/qsharp/introducing-the-azure-quantum-development-kit-preview/"
     ]
   ],
   [
