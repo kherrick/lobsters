@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
+* [2023-09-22, 08:49:30](https://lobste.rs/s/b54afl/how_minecraft_library_babel_works) - [How the Minecraft Library of Babel Works](https://youtu.be/WFFi9zVtvsw)
 * [2023-09-22, 06:27:40](https://lobste.rs/s/nh2qli/codemusings) - [CodeMusings](https://codemusings.nl/about)
 * [2023-09-22, 05:34:10](https://lobste.rs/s/tvhfwd/drawing_hat_tiling_using_racket) - [Drawing Hat tiling using Racket](https://rdivyanshu.github.io/hat.html)
 * [2023-09-22, 04:32:39](https://lobste.rs/s/h3va2e/introducing_azure_quantum_development) - [Introducing the Azure Quantum Development Kit Preview](https://devblogs.microsoft.com/qsharp/introducing-the-azure-quantum-development-kit-preview/)
