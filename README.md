@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-22, 06:27:40](https://lobste.rs/s/nh2qli/codemusings) - [CodeMusings](https://codemusings.nl/about)
 * [2023-09-22, 05:34:10](https://lobste.rs/s/tvhfwd/drawing_hat_tiling_using_racket) - [Drawing Hat tiling using Racket](https://rdivyanshu.github.io/hat.html)
 * [2023-09-22, 04:32:39](https://lobste.rs/s/h3va2e/introducing_azure_quantum_development) - [Introducing the Azure Quantum Development Kit Preview](https://devblogs.microsoft.com/qsharp/introducing-the-azure-quantum-development-kit-preview/)
 * [2023-09-22, 01:57:25](https://lobste.rs/s/f18rax/i_m_re_imagining_command_line_interpreter) - [I'm Re-Imagining the Command Line Interpreter](https://youtu.be/NxsaHxON350?si=e178BNvF7N8zUuiF)
@@ -15,7 +16,6 @@
 * [2023-09-21, 17:59:11](https://lobste.rs/s/yst7r6/behind_scenes_with_fawltydeps_v0_13_0) - [Behind the scenes with FawltyDeps v0.13.0: Matching imports with dependencies](https://www.tweag.io/blog/2023-09-21-fawltydeps-mapping-strategy/)
 * [2023-09-21, 17:58:59](https://lobste.rs/s/xr24nd/memories_really_goofy_phone_from_late_80s) - [Memories of a really goofy phone from the late 80s](https://rachelbythebay.com/w/2023/09/20/fv1000/)
 * [2023-09-21, 17:26:55](https://lobste.rs/s/rtepnw/most_ui_applications_are_broken_real_time) - [Most UI Applications are Broken Real-time Applications](https://thelig.ht/ui-apps-are-broken/)
-* [2023-09-21, 15:52:34](https://lobste.rs/s/rlkuts/cheri_instruction_set_architecture) - [The CHERI Instruction-Set Architecture, Version 9](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-987.html)
 * [2023-09-21, 15:42:32](https://lobste.rs/s/ph57od/mastodon_4_2) - [Mastodon 4.2](https://blog.joinmastodon.org/2023/09/mastodon-4.2/)
 * [2023-09-21, 14:58:40](https://lobste.rs/s/bu9mfy/supply_chain_issues_pypi) - [Supply Chain Issues in PyPI](https://stiankri.substack.com/p/supply-chain-issues-in-pypi)
 * [2023-09-21, 08:54:10](https://lobste.rs/s/tg2giw/why_kakoune) - [Why Kakoune](https://andreyor.st/posts/2023-09-20-why-kakoune/)
