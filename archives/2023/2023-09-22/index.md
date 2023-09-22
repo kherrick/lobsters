@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
+* [2023-09-22, 14:11:24](https://lobste.rs/s/t1u1iq/neardrop_unofficial_google_nearby_share) - [NearDrop: An unofficial Google Nearby Share app for macOS](https://github.com/grishka/NearDrop)
 * [2023-09-22, 13:51:59](https://lobste.rs/s/iesvdc/scaling_rust_adoption_through_training) - [Scaling Rust Adoption Through Training](https://security.googleblog.com/2023/09/scaling-rust-adoption-through-training.html)
 * [2023-09-22, 13:45:14](https://lobste.rs/s/l6dx99/style_with_stateful_semantic_selectors) - [Style with Stateful, Semantic Selectors](https://benmyers.dev/blog/semantic-selectors/)
 * [2023-09-22, 12:59:31](https://lobste.rs/s/jq83hn/typescript_origins_documentary) - [TypeScript Origins: The Documentary](https://youtu.be/U6s2pdxebSo?si=6CG04kY1W2RmWBo_)
