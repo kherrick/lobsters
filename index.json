@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-22, 08:49:30",
+      "https://lobste.rs/s/b54afl/how_minecraft_library_babel_works"
+    ],
+    [
+      "How the Minecraft Library of Babel Works",
+      "https://youtu.be/WFFi9zVtvsw"
+    ]
+  ],
+  [
+    [
       "2023-09-22, 06:27:40",
       "https://lobste.rs/s/nh2qli/codemusings"
     ],
@@ -51,12 +61,12 @@
   ],
   [
     [
-      "2023-09-22, 00:05:52",
-      "https://lobste.rs/s/rm9xnh/taming_oom_killer"
+      "2023-09-21, 23:55:52",
+      "https://lobste.rs/s/ncwngm/godot_binding_system_explained"
     ],
     [
-      "Taming the OOM killer",
-      "https://lwn.net/Articles/317814/"
+      "Godot Binding System Explained",
+      "https://gist.github.com/reduz/cb05fe96079e46785f08a79ec3b0ef21"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Data Contract Specification",
       "https://datacontract.com"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 01:43:21",
-      "https://lobste.rs/s/j3x35c/long_term_support_for_linux_kernel_be_cut"
-    ],
-    [
-      "Long-term support for Linux kernel to be cut as maintainence remains under strain",
-      "https://www.zdnet.com/article/long-term-support-for-linux-kernel-to-be-cut-as-maintainence-remains-under-strain/"
     ]
   ],
   [
