@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-22, 09:49:15](https://lobste.rs/s/lqasvg/how_dplyr_replaced_my_most_common_r_idioms) - [How dplyr replaced my most common R idioms (2014)](https://web.archive.org/web/20200223002527/http://www.onthelambda.com/2014/02/10/how-dplyr-replaced-my-most-common-r-idioms/)
 * [2023-09-22, 08:49:30](https://lobste.rs/s/b54afl/how_minecraft_library_babel_works) - [How the Minecraft Library of Babel Works](https://youtu.be/WFFi9zVtvsw)
 * [2023-09-22, 06:27:40](https://lobste.rs/s/nh2qli/codemusings) - [CodeMusings](https://codemusings.nl/about)
 * [2023-09-22, 05:34:10](https://lobste.rs/s/tvhfwd/drawing_hat_tiling_using_racket) - [Drawing Hat tiling using Racket](https://rdivyanshu.github.io/hat.html)
@@ -24,7 +25,6 @@
 * [2023-09-21, 07:46:27](https://lobste.rs/s/3syk0k/data_contract_specification) - [Data Contract Specification](https://datacontract.com)
 * [2023-09-20, 23:59:18](https://lobste.rs/s/trivcf/repalm) - [rePalm](http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
 * [2023-09-20, 15:19:54](https://lobste.rs/s/fue8mw/xml_is_better_than_yaml) - [XML is better than YAML](https://changelog.com/posts/xml-better-than-yaml)
-* [2023-09-20, 12:50:46](https://lobste.rs/s/lz2v3g/gokrazy_is_really_cool) - [gokrazy is really cool](https://xeiaso.net/blog/gokrazy)
 
 ## [Archives](archives/index.md)
 
