@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
+* [2023-09-22, 14:48:38](https://lobste.rs/s/luukz3/invisible_problem_text_editing_on_mobile) - [The invisible problem (of text editing on mobile)](https://jenson.org/text/)
 * [2023-09-22, 14:22:22](https://lobste.rs/s/veoan6/github_actions_could_be_so_much_better) - [GitHub Actions could be so much better](https://blog.yossarian.net/2023/09/22/GitHub-Actions-could-be-so-much-better)
 * [2023-09-22, 14:11:24](https://lobste.rs/s/t1u1iq/neardrop_unofficial_google_nearby_share) - [NearDrop: An unofficial Google Nearby Share app for macOS](https://github.com/grishka/NearDrop)
 * [2023-09-22, 13:51:59](https://lobste.rs/s/iesvdc/scaling_rust_adoption_through_training) - [Scaling Rust Adoption Through Training](https://security.googleblog.com/2023/09/scaling-rust-adoption-through-training.html)
