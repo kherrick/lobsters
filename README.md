@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-22, 18:17:03](https://lobste.rs/s/acxkwj/name_biggest_number) - [Name the biggest number](https://github.com/codyroux/name-the-biggest-number)
 * [2023-09-22, 16:50:07](https://lobste.rs/s/o7ryrg/making_micro_linux_distro) - [Making a micro Linux distro](https://popovicu.com/posts/making-a-micro-linux-distro/)
 * [2023-09-22, 16:32:32](https://lobste.rs/s/6ptujd/amd_driver_specific_properties_for_color) - [AMD Driver-specific Properties for Color Management on Linux (Part 1)](https://melissawen.github.io/blog/2023/08/21/amd-steamdeck-colors)
 * [2023-09-22, 15:56:33](https://lobste.rs/s/ljp4yw/raw_water_quenching_your_thirst_for_sql) - [Raw Water: Quenching Your Thirst for SQL Injection](https://nautilus.institute/blog/2023/raw-water/)
@@ -12,7 +13,6 @@
 * [2023-09-22, 13:45:14](https://lobste.rs/s/l6dx99/style_with_stateful_semantic_selectors) - [Style with Stateful, Semantic Selectors](https://benmyers.dev/blog/semantic-selectors/)
 * [2023-09-22, 12:59:31](https://lobste.rs/s/jq83hn/typescript_origins_documentary) - [TypeScript Origins: The Documentary](https://youtu.be/U6s2pdxebSo?si=6CG04kY1W2RmWBo_)
 * [2023-09-22, 10:05:27](https://lobste.rs/s/oyvjvc/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/oyvjvc/what_are_you_doing_this_weekend)
-* [2023-09-22, 09:49:15](https://lobste.rs/s/lqasvg/how_dplyr_replaced_my_most_common_r_idioms) - [How dplyr replaced my most common R idioms (2014)](https://web.archive.org/web/20200223002527/http://www.onthelambda.com/2014/02/10/how-dplyr-replaced-my-most-common-r-idioms/)
 * [2023-09-22, 05:34:10](https://lobste.rs/s/tvhfwd/drawing_hat_tiling_using_racket) - [Drawing Hat tiling using Racket](https://rdivyanshu.github.io/hat.html)
 * [2023-09-22, 01:57:25](https://lobste.rs/s/f18rax/i_m_re_imagining_command_line_interpreter) - [I'm Re-Imagining the Command Line Interpreter](https://youtu.be/NxsaHxON350?si=e178BNvF7N8zUuiF)
 * [2023-09-22, 01:08:50](https://lobste.rs/s/3rnney/nintendo_3ds_architecture) - [Nintendo 3DS architecture](https://www.copetti.org/writings/consoles/nintendo-3ds/)
