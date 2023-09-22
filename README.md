@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-22, 21:09:49](https://lobste.rs/s/wmfhm7/let_s_build_fips_validated_rust_crypto) - [Let's Build a FIPS-validated Rust Crypto Library](https://briansmith.org/lets-build-a-fips-rust-crypto)
 * [2023-09-22, 18:21:51](https://lobste.rs/s/21ahgz/www_which_wasm_works) - [www which wasm works](https://flak.tedunangst.com/post/www-which-wasm-works)
 * [2023-09-22, 18:17:03](https://lobste.rs/s/acxkwj/name_biggest_number) - [Name the biggest number](https://github.com/codyroux/name-the-biggest-number)
 * [2023-09-22, 16:50:07](https://lobste.rs/s/o7ryrg/making_micro_linux_distro) - [Making a micro Linux distro](https://popovicu.com/posts/making-a-micro-linux-distro/)
 * [2023-09-22, 16:32:32](https://lobste.rs/s/6ptujd/amd_driver_specific_properties_for_color) - [AMD Driver-specific Properties for Color Management on Linux (Part 1)](https://melissawen.github.io/blog/2023/08/21/amd-steamdeck-colors)
-* [2023-09-22, 15:56:33](https://lobste.rs/s/ljp4yw/raw_water_quenching_your_thirst_for_sql) - [Raw Water: Quenching Your Thirst for SQL Injection](https://nautilus.institute/blog/2023/raw-water/)
 * [2023-09-22, 15:20:08](https://lobste.rs/s/3k7me7/generations_based_map_vs_sparse_map) - [Generations-based map vs sparse map](https://quasilyte.dev/blog/post/gen-map/)
 * [2023-09-22, 14:59:08](https://lobste.rs/s/wrytc2/pqxdh_key_agreement_protocol) - [The PQXDH Key Agreement Protocol](https://signal.org/docs/specifications/pqxdh/)
 * [2023-09-22, 14:48:38](https://lobste.rs/s/luukz3/invisible_problem_text_editing_on_mobile) - [The invisible problem (of text editing on mobile)](https://jenson.org/text/)
