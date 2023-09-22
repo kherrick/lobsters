@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-22, 04:32:39](https://lobste.rs/s/h3va2e/introducing_azure_quantum_development) - [Introducing the Azure Quantum Development Kit Preview](https://devblogs.microsoft.com/qsharp/introducing-the-azure-quantum-development-kit-preview/)
 * [2023-09-22, 01:57:25](https://lobste.rs/s/f18rax/i_m_re_imagining_command_line_interpreter) - [I'm Re-Imagining the Command Line Interpreter](https://youtu.be/NxsaHxON350?si=e178BNvF7N8zUuiF)
 * [2023-09-22, 01:08:50](https://lobste.rs/s/3rnney/nintendo_3ds_architecture) - [Nintendo 3DS architecture](https://www.copetti.org/writings/consoles/nintendo-3ds/)
 * [2023-09-22, 00:05:52](https://lobste.rs/s/rm9xnh/taming_oom_killer) - [Taming the OOM killer](https://lwn.net/Articles/317814/)
@@ -16,7 +17,6 @@
 * [2023-09-21, 15:52:34](https://lobste.rs/s/rlkuts/cheri_instruction_set_architecture) - [The CHERI Instruction-Set Architecture, Version 9](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-987.html)
 * [2023-09-21, 15:42:32](https://lobste.rs/s/ph57od/mastodon_4_2) - [Mastodon 4.2](https://blog.joinmastodon.org/2023/09/mastodon-4.2/)
 * [2023-09-21, 14:58:40](https://lobste.rs/s/bu9mfy/supply_chain_issues_pypi) - [Supply Chain Issues in PyPI](https://stiankri.substack.com/p/supply-chain-issues-in-pypi)
-* [2023-09-21, 12:21:57](https://lobste.rs/s/wieu1x/seagoat_local_first_semantic_code_search) - [SeaGOAT: local-first semantic code search engine (\"AI based grep\")](https://github.com/kantord/SeaGOAT)
 * [2023-09-21, 08:54:10](https://lobste.rs/s/tg2giw/why_kakoune) - [Why Kakoune](https://andreyor.st/posts/2023-09-20-why-kakoune/)
 * [2023-09-21, 08:25:19](https://lobste.rs/s/3fyo9u/first_arm64_cpu_launch) - [The first arm64 CPU launch](https://ioc.exchange/@shac/111099766302290499)
 * [2023-09-21, 07:46:27](https://lobste.rs/s/3syk0k/data_contract_specification) - [Data Contract Specification](https://datacontract.com)
