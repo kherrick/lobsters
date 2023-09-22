@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-22, 04:32:39",
+      "https://lobste.rs/s/h3va2e/introducing_azure_quantum_development"
+    ],
+    [
+      "Introducing the Azure Quantum Development Kit Preview",
+      "https://devblogs.microsoft.com/qsharp/introducing-the-azure-quantum-development-kit-preview/"
+    ]
+  ],
+  [
+    [
       "2023-09-22, 01:57:25",
       "https://lobste.rs/s/f18rax/i_m_re_imagining_command_line_interpreter"
     ],
@@ -157,16 +167,6 @@
     [
       "Supply Chain Issues in PyPI",
       "https://stiankri.substack.com/p/supply-chain-issues-in-pypi"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 12:21:57",
-      "https://lobste.rs/s/wieu1x/seagoat_local_first_semantic_code_search"
-    ],
-    [
-      "SeaGOAT: local-first semantic code search engine (\"AI based grep\")",
-      "https://github.com/kantord/SeaGOAT"
     ]
   ],
   [
