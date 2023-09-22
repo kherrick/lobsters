@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
+* [2023-09-22, 13:51:59](https://lobste.rs/s/iesvdc/scaling_rust_adoption_through_training) - [Scaling Rust Adoption Through Training](https://security.googleblog.com/2023/09/scaling-rust-adoption-through-training.html)
 * [2023-09-22, 13:45:14](https://lobste.rs/s/l6dx99/style_with_stateful_semantic_selectors) - [Style with Stateful, Semantic Selectors](https://benmyers.dev/blog/semantic-selectors/)
 * [2023-09-22, 12:59:31](https://lobste.rs/s/jq83hn/typescript_origins_documentary) - [TypeScript Origins: The Documentary](https://youtu.be/U6s2pdxebSo?si=6CG04kY1W2RmWBo_)
 * [2023-09-22, 10:05:27](https://lobste.rs/s/oyvjvc/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/oyvjvc/what_are_you_doing_this_weekend)

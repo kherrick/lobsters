@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-22, 13:51:59](https://lobste.rs/s/iesvdc/scaling_rust_adoption_through_training) - [Scaling Rust Adoption Through Training](https://security.googleblog.com/2023/09/scaling-rust-adoption-through-training.html)
 * [2023-09-22, 13:45:14](https://lobste.rs/s/l6dx99/style_with_stateful_semantic_selectors) - [Style with Stateful, Semantic Selectors](https://benmyers.dev/blog/semantic-selectors/)
 * [2023-09-22, 12:59:31](https://lobste.rs/s/jq83hn/typescript_origins_documentary) - [TypeScript Origins: The Documentary](https://youtu.be/U6s2pdxebSo?si=6CG04kY1W2RmWBo_)
 * [2023-09-22, 10:05:27](https://lobste.rs/s/oyvjvc/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/oyvjvc/what_are_you_doing_this_weekend)
@@ -21,7 +22,6 @@
 * [2023-09-21, 17:58:59](https://lobste.rs/s/xr24nd/memories_really_goofy_phone_from_late_80s) - [Memories of a really goofy phone from the late 80s](https://rachelbythebay.com/w/2023/09/20/fv1000/)
 * [2023-09-21, 17:26:55](https://lobste.rs/s/rtepnw/most_ui_applications_are_broken_real_time) - [Most UI Applications are Broken Real-time Applications](https://thelig.ht/ui-apps-are-broken/)
 * [2023-09-21, 15:42:32](https://lobste.rs/s/ph57od/mastodon_4_2) - [Mastodon 4.2](https://blog.joinmastodon.org/2023/09/mastodon-4.2/)
-* [2023-09-21, 14:58:40](https://lobste.rs/s/bu9mfy/supply_chain_issues_pypi) - [Supply Chain Issues in PyPI](https://stiankri.substack.com/p/supply-chain-issues-in-pypi)
 * [2023-09-21, 08:54:10](https://lobste.rs/s/tg2giw/why_kakoune) - [Why Kakoune](https://andreyor.st/posts/2023-09-20-why-kakoune/)
 * [2023-09-21, 08:25:19](https://lobste.rs/s/3fyo9u/first_arm64_cpu_launch) - [The first arm64 CPU launch](https://ioc.exchange/@shac/111099766302290499)
 * [2023-09-20, 15:19:54](https://lobste.rs/s/fue8mw/xml_is_better_than_yaml) - [XML is better than YAML](https://changelog.com/posts/xml-better-than-yaml)
