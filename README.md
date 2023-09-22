@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-09-22, 15:04:43](https://lobste.rs/s/tmmk6t/java_21_nice_meh_momentous) - [Java 21: The Nice, The Meh, and the ... Momentous](https://horstmann.com/unblog/2023-09-19/index.html)
+* [2023-09-22, 15:20:08](https://lobste.rs/s/3k7me7/generations_based_map_vs_sparse_map) - [Generations-based map vs sparse map](https://quasilyte.dev/blog/post/gen-map/)
 * [2023-09-22, 14:59:08](https://lobste.rs/s/wrytc2/pqxdh_key_agreement_protocol) - [The PQXDH Key Agreement Protocol](https://signal.org/docs/specifications/pqxdh/)
 * [2023-09-22, 14:48:38](https://lobste.rs/s/luukz3/invisible_problem_text_editing_on_mobile) - [The invisible problem (of text editing on mobile)](https://jenson.org/text/)
 * [2023-09-22, 14:22:22](https://lobste.rs/s/veoan6/github_actions_could_be_so_much_better) - [GitHub Actions could be so much better](https://blog.yossarian.net/2023/09/22/GitHub-Actions-could-be-so-much-better)
