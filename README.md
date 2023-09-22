@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-22, 10:05:27](https://lobste.rs/s/oyvjvc/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/oyvjvc/what_are_you_doing_this_weekend)
 * [2023-09-22, 09:49:15](https://lobste.rs/s/lqasvg/how_dplyr_replaced_my_most_common_r_idioms) - [How dplyr replaced my most common R idioms (2014)](https://web.archive.org/web/20200223002527/http://www.onthelambda.com/2014/02/10/how-dplyr-replaced-my-most-common-r-idioms/)
 * [2023-09-22, 08:49:30](https://lobste.rs/s/b54afl/how_minecraft_library_babel_works) - [How the Minecraft Library of Babel Works](https://youtu.be/WFFi9zVtvsw)
 * [2023-09-22, 06:27:40](https://lobste.rs/s/nh2qli/codemusings) - [CodeMusings](https://codemusings.nl/about)
@@ -22,7 +23,6 @@
 * [2023-09-21, 14:58:40](https://lobste.rs/s/bu9mfy/supply_chain_issues_pypi) - [Supply Chain Issues in PyPI](https://stiankri.substack.com/p/supply-chain-issues-in-pypi)
 * [2023-09-21, 08:54:10](https://lobste.rs/s/tg2giw/why_kakoune) - [Why Kakoune](https://andreyor.st/posts/2023-09-20-why-kakoune/)
 * [2023-09-21, 08:25:19](https://lobste.rs/s/3fyo9u/first_arm64_cpu_launch) - [The first arm64 CPU launch](https://ioc.exchange/@shac/111099766302290499)
-* [2023-09-21, 07:46:27](https://lobste.rs/s/3syk0k/data_contract_specification) - [Data Contract Specification](https://datacontract.com)
 * [2023-09-20, 23:59:18](https://lobste.rs/s/trivcf/repalm) - [rePalm](http://dmitry.gr/?r=05.Projects&proj=27.%20rePalm)
 * [2023-09-20, 15:19:54](https://lobste.rs/s/fue8mw/xml_is_better_than_yaml) - [XML is better than YAML](https://changelog.com/posts/xml-better-than-yaml)
 
