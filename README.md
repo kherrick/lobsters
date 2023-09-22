@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-22, 15:04:43](https://lobste.rs/s/tmmk6t/java_21_nice_meh_momentous) - [Java 21: The Nice, The Meh, and the ... Momentous](https://horstmann.com/unblog/2023-09-19/index.html)
+* [2023-09-22, 14:59:08](https://lobste.rs/s/wrytc2/pqxdh_key_agreement_protocol) - [The PQXDH Key Agreement Protocol](https://signal.org/docs/specifications/pqxdh/)
 * [2023-09-22, 14:48:38](https://lobste.rs/s/luukz3/invisible_problem_text_editing_on_mobile) - [The invisible problem (of text editing on mobile)](https://jenson.org/text/)
 * [2023-09-22, 14:22:22](https://lobste.rs/s/veoan6/github_actions_could_be_so_much_better) - [GitHub Actions could be so much better](https://blog.yossarian.net/2023/09/22/GitHub-Actions-could-be-so-much-better)
 * [2023-09-22, 14:11:24](https://lobste.rs/s/t1u1iq/neardrop_unofficial_google_nearby_share) - [NearDrop: An unofficial Google Nearby Share app for macOS](https://github.com/grishka/NearDrop)
@@ -8,7 +10,6 @@
 * [2023-09-22, 12:59:31](https://lobste.rs/s/jq83hn/typescript_origins_documentary) - [TypeScript Origins: The Documentary](https://youtu.be/U6s2pdxebSo?si=6CG04kY1W2RmWBo_)
 * [2023-09-22, 10:05:27](https://lobste.rs/s/oyvjvc/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/oyvjvc/what_are_you_doing_this_weekend)
 * [2023-09-22, 09:49:15](https://lobste.rs/s/lqasvg/how_dplyr_replaced_my_most_common_r_idioms) - [How dplyr replaced my most common R idioms (2014)](https://web.archive.org/web/20200223002527/http://www.onthelambda.com/2014/02/10/how-dplyr-replaced-my-most-common-r-idioms/)
-* [2023-09-22, 08:49:30](https://lobste.rs/s/b54afl/how_minecraft_library_babel_works) - [How the Minecraft Library of Babel Works](https://youtu.be/WFFi9zVtvsw)
 * [2023-09-22, 06:27:40](https://lobste.rs/s/nh2qli/codemusings) - [CodeMusings](https://codemusings.nl/about)
 * [2023-09-22, 05:34:10](https://lobste.rs/s/tvhfwd/drawing_hat_tiling_using_racket) - [Drawing Hat tiling using Racket](https://rdivyanshu.github.io/hat.html)
 * [2023-09-22, 01:57:25](https://lobste.rs/s/f18rax/i_m_re_imagining_command_line_interpreter) - [I'm Re-Imagining the Command Line Interpreter](https://youtu.be/NxsaHxON350?si=e178BNvF7N8zUuiF)
@@ -19,7 +20,6 @@
 * [2023-09-21, 19:53:41](https://lobste.rs/s/fvalqf/awk_for_exploratory_data_analysis) - [AWK for Exploratory Data Analysis of Humanities Data](https://awk.dev/eda.html)
 * [2023-09-21, 19:53:12](https://lobste.rs/s/psdmso/matrix_2_0_future_matrix) - [Matrix 2.0: The Future of Matrix](https://matrix.org/blog/2023/09/matrix-2-0/)
 * [2023-09-21, 19:19:03](https://lobste.rs/s/tkzyme/how_do_databases_execute_expressions) - [How do databases execute expressions?](https://notes.eatonphil.com/2023-09-21-how-do-databases-execute-expressions.html)
-* [2023-09-21, 17:58:59](https://lobste.rs/s/xr24nd/memories_really_goofy_phone_from_late_80s) - [Memories of a really goofy phone from the late 80s](https://rachelbythebay.com/w/2023/09/20/fv1000/)
 * [2023-09-21, 17:26:55](https://lobste.rs/s/rtepnw/most_ui_applications_are_broken_real_time) - [Most UI Applications are Broken Real-time Applications](https://thelig.ht/ui-apps-are-broken/)
 * [2023-09-21, 15:42:32](https://lobste.rs/s/ph57od/mastodon_4_2) - [Mastodon 4.2](https://blog.joinmastodon.org/2023/09/mastodon-4.2/)
 * [2023-09-21, 08:54:10](https://lobste.rs/s/tg2giw/why_kakoune) - [Why Kakoune](https://andreyor.st/posts/2023-09-20-why-kakoune/)
