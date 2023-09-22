@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-22, 18:21:51](https://lobste.rs/s/21ahgz/www_which_wasm_works) - [www which wasm works](https://flak.tedunangst.com/post/www-which-wasm-works)
 * [2023-09-22, 18:17:03](https://lobste.rs/s/acxkwj/name_biggest_number) - [Name the biggest number](https://github.com/codyroux/name-the-biggest-number)
 * [2023-09-22, 16:50:07](https://lobste.rs/s/o7ryrg/making_micro_linux_distro) - [Making a micro Linux distro](https://popovicu.com/posts/making-a-micro-linux-distro/)
 * [2023-09-22, 16:32:32](https://lobste.rs/s/6ptujd/amd_driver_specific_properties_for_color) - [AMD Driver-specific Properties for Color Management on Linux (Part 1)](https://melissawen.github.io/blog/2023/08/21/amd-steamdeck-colors)
@@ -16,7 +17,6 @@
 * [2023-09-22, 05:34:10](https://lobste.rs/s/tvhfwd/drawing_hat_tiling_using_racket) - [Drawing Hat tiling using Racket](https://rdivyanshu.github.io/hat.html)
 * [2023-09-22, 01:57:25](https://lobste.rs/s/f18rax/i_m_re_imagining_command_line_interpreter) - [I'm Re-Imagining the Command Line Interpreter](https://youtu.be/NxsaHxON350?si=e178BNvF7N8zUuiF)
 * [2023-09-22, 01:08:50](https://lobste.rs/s/3rnney/nintendo_3ds_architecture) - [Nintendo 3DS architecture](https://www.copetti.org/writings/consoles/nintendo-3ds/)
-* [2023-09-21, 21:34:07](https://lobste.rs/s/bvypaa/buzz_small_lightweight_statically_typed) - [buzz - A small/lightweight statically typed scripting language](https://buzz-lang.dev)
 * [2023-09-21, 21:00:24](https://lobste.rs/s/iovz9o/state_async_rust) - [The State of Async Rust](https://corrode.dev/blog/async/)
 * [2023-09-21, 20:01:58](https://lobste.rs/s/hx8vjb/webp_0day) - [The WebP 0day](https://blog.isosceles.com/the-webp-0day/)
 * [2023-09-21, 19:53:41](https://lobste.rs/s/fvalqf/awk_for_exploratory_data_analysis) - [AWK for Exploratory Data Analysis of Humanities Data](https://awk.dev/eda.html)

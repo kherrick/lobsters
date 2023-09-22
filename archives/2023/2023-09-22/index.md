@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-22](index.md)
 
+* [2023-09-22, 18:21:51](https://lobste.rs/s/21ahgz/www_which_wasm_works) - [www which wasm works](https://flak.tedunangst.com/post/www-which-wasm-works)
 * [2023-09-22, 18:17:03](https://lobste.rs/s/acxkwj/name_biggest_number) - [Name the biggest number](https://github.com/codyroux/name-the-biggest-number)
 * [2023-09-22, 16:50:07](https://lobste.rs/s/o7ryrg/making_micro_linux_distro) - [Making a micro Linux distro](https://popovicu.com/posts/making-a-micro-linux-distro/)
 * [2023-09-22, 16:32:32](https://lobste.rs/s/6ptujd/amd_driver_specific_properties_for_color) - [AMD Driver-specific Properties for Color Management on Linux (Part 1)](https://melissawen.github.io/blog/2023/08/21/amd-steamdeck-colors)
