@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-23, 20:21:30",
+      "https://lobste.rs/s/mevzed/responsive_type_scales_with_composable"
+    ],
+    [
+      "Responsive type scales with composable CSS utilities",
+      "https://tobiasahlin.com/blog/responsive-fluid-css-type-scales/"
+    ]
+  ],
+  [
+    [
       "2023-09-23, 19:26:37",
       "https://lobste.rs/s/bkw5u0/no_stale_bots"
     ],
@@ -197,16 +207,6 @@
     [
       "Scaling Rust Adoption Through Training",
       "https://security.googleblog.com/2023/09/scaling-rust-adoption-through-training.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-22, 13:45:14",
-      "https://lobste.rs/s/l6dx99/style_with_stateful_semantic_selectors"
-    ],
-    [
-      "Style with Stateful, Semantic Selectors",
-      "https://benmyers.dev/blog/semantic-selectors/"
     ]
   ],
   [
