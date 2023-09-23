@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-23, 14:49:41](https://lobste.rs/s/g2ajzg/shshsh_bridge_between_python_shell) - [shshsh: a bridge between python and shell](https://github.com/zqqqqz2000/shshsh)
 * [2023-09-23, 12:49:18](https://lobste.rs/s/cxrd1l/gitops_is_means_where_is_end) - [GitOps Is a Means, Where Is the End?](https://www.flipt.io/blog/gitops-means-to-an-end)
 * [2023-09-23, 12:09:23](https://lobste.rs/s/4rgej4/luajit_v3_0_tracking_issue) - [LuaJIT v3.0 Tracking Issue](https://github.com/LuaJIT/LuaJIT/issues/1092)
 * [2023-09-23, 11:32:05](https://lobste.rs/s/lqbven/projekt_overflow_assembler_c_tabletop) - [PROJEKT:OVERFLOW - Assembler and C tabletop board game](https://punkx.org/overflow)
@@ -20,7 +21,6 @@
 * [2023-09-22, 12:59:31](https://lobste.rs/s/jq83hn/typescript_origins_documentary) - [TypeScript Origins: The Documentary](https://youtu.be/U6s2pdxebSo?si=6CG04kY1W2RmWBo_)
 * [2023-09-22, 10:05:27](https://lobste.rs/s/oyvjvc/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/oyvjvc/what_are_you_doing_this_weekend)
 * [2023-09-22, 05:34:10](https://lobste.rs/s/tvhfwd/drawing_hat_tiling_using_racket) - [Drawing Hat tiling using Racket](https://rdivyanshu.github.io/hat.html)
-* [2023-09-22, 01:08:50](https://lobste.rs/s/3rnney/nintendo_3ds_architecture) - [Nintendo 3DS architecture](https://www.copetti.org/writings/consoles/nintendo-3ds/)
 * [2023-09-21, 19:53:12](https://lobste.rs/s/psdmso/matrix_2_0_future_matrix) - [Matrix 2.0: The Future of Matrix](https://matrix.org/blog/2023/09/matrix-2-0/)
 * [2023-09-21, 19:19:03](https://lobste.rs/s/tkzyme/how_do_databases_execute_expressions) - [How do databases execute expressions?](https://notes.eatonphil.com/2023-09-21-how-do-databases-execute-expressions.html)
 * [2023-09-21, 17:26:55](https://lobste.rs/s/rtepnw/most_ui_applications_are_broken_real_time) - [Most UI Applications are Broken Real-time Applications](https://thelig.ht/ui-apps-are-broken/)
