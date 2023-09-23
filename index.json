@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-23, 23:49:50",
+      "https://lobste.rs/s/lxa416/semgrep_static_analysis_journey"
+    ],
+    [
+      "Semgrep: a static analysis journey",
+      "https://semgrep.dev/blog/2021/semgrep-a-static-analysis-journey/"
+    ]
+  ],
+  [
+    [
       "2023-09-23, 21:44:54",
       "https://lobste.rs/s/ppc3pi/recent_advances_computer_science_since"
     ],
@@ -237,16 +247,6 @@
     [
       "Matrix 2.0: The Future of Matrix",
       "https://matrix.org/blog/2023/09/matrix-2-0/"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 17:26:55",
-      "https://lobste.rs/s/rtepnw/most_ui_applications_are_broken_real_time"
-    ],
-    [
-      "Most UI Applications are Broken Real-time Applications",
-      "https://thelig.ht/ui-apps-are-broken/"
     ]
   ]
 ]
