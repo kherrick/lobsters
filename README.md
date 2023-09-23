@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-23, 12:09:23](https://lobste.rs/s/4rgej4/luajit_v3_0_tracking_issue) - [LuaJIT v3.0 Tracking Issue](https://github.com/LuaJIT/LuaJIT/issues/1092)
 * [2023-09-23, 11:32:05](https://lobste.rs/s/lqbven/projekt_overflow_assembler_c_tabletop) - [PROJEKT:OVERFLOW - Assembler and C tabletop board game](https://punkx.org/overflow)
 * [2023-09-23, 06:24:30](https://lobste.rs/s/mq0ay6/polonius_revisited_part_1) - [Polonius revisited, part 1](https://smallcultfollowing.com/babysteps/blog/2023/09/22/polonius-part-1/)
 * [2023-09-23, 06:18:54](https://lobste.rs/s/syq2ta/notes_self_on_woodpecker_ci) - [Notes to self on Woodpecker-CI](https://jpmens.net/2023/09/22/notes-to-self-on-woodpecker-ci/)
@@ -18,7 +19,6 @@
 * [2023-09-22, 13:45:14](https://lobste.rs/s/l6dx99/style_with_stateful_semantic_selectors) - [Style with Stateful, Semantic Selectors](https://benmyers.dev/blog/semantic-selectors/)
 * [2023-09-22, 12:59:31](https://lobste.rs/s/jq83hn/typescript_origins_documentary) - [TypeScript Origins: The Documentary](https://youtu.be/U6s2pdxebSo?si=6CG04kY1W2RmWBo_)
 * [2023-09-22, 05:34:10](https://lobste.rs/s/tvhfwd/drawing_hat_tiling_using_racket) - [Drawing Hat tiling using Racket](https://rdivyanshu.github.io/hat.html)
-* [2023-09-22, 01:57:25](https://lobste.rs/s/f18rax/i_m_re_imagining_command_line_interpreter) - [I'm Re-Imagining the Command Line Interpreter](https://youtu.be/NxsaHxON350?si=e178BNvF7N8zUuiF)
 * [2023-09-22, 01:08:50](https://lobste.rs/s/3rnney/nintendo_3ds_architecture) - [Nintendo 3DS architecture](https://www.copetti.org/writings/consoles/nintendo-3ds/)
 * [2023-09-21, 21:00:24](https://lobste.rs/s/iovz9o/state_async_rust) - [The State of Async Rust](https://corrode.dev/blog/async/)
 * [2023-09-21, 19:53:12](https://lobste.rs/s/psdmso/matrix_2_0_future_matrix) - [Matrix 2.0: The Future of Matrix](https://matrix.org/blog/2023/09/matrix-2-0/)
