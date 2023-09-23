@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-23](index.md)
 
+* [2023-09-23, 20:21:30](https://lobste.rs/s/mevzed/responsive_type_scales_with_composable) - [Responsive type scales with composable CSS utilities](https://tobiasahlin.com/blog/responsive-fluid-css-type-scales/)
 * [2023-09-23, 19:26:37](https://lobste.rs/s/bkw5u0/no_stale_bots) - [No Stale Bots](https://nostalebots.xyz/)
 * [2023-09-23, 19:00:48](https://lobste.rs/s/thn5x6/surviving_power_cut_home_automation) - [Surviving a Power Cut - Home Automation Resilience](https://www.jamesridgway.co.uk/surviving-a-power-cut-home-automation-resilience/)
 * [2023-09-23, 17:30:47](https://lobste.rs/s/v6jbcx/fixing_memory_corruption_bug_go) - [Fixing a Memory Corruption Bug in Go](https://totallygamerjet.hashnode.dev/fixing-a-memory-corruption-bug-in-go)
