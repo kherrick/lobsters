@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-23, 19:26:37](https://lobste.rs/s/bkw5u0/no_stale_bots) - [No Stale Bots](https://nostalebots.xyz/)
 * [2023-09-23, 19:00:48](https://lobste.rs/s/thn5x6/surviving_power_cut_home_automation) - [Surviving a Power Cut - Home Automation Resilience](https://www.jamesridgway.co.uk/surviving-a-power-cut-home-automation-resilience/)
 * [2023-09-23, 17:30:47](https://lobste.rs/s/v6jbcx/fixing_memory_corruption_bug_go) - [Fixing a Memory Corruption Bug in Go](https://totallygamerjet.hashnode.dev/fixing-a-memory-corruption-bug-in-go)
 * [2023-09-23, 14:49:41](https://lobste.rs/s/g2ajzg/shshsh_bridge_between_python_shell) - [shshsh: a bridge between python and shell](https://github.com/zqqqqz2000/shshsh)
@@ -20,7 +21,6 @@
 * [2023-09-22, 14:22:22](https://lobste.rs/s/veoan6/github_actions_could_be_so_much_better) - [GitHub Actions could be so much better](https://blog.yossarian.net/2023/09/22/GitHub-Actions-could-be-so-much-better)
 * [2023-09-22, 13:51:59](https://lobste.rs/s/iesvdc/scaling_rust_adoption_through_training) - [Scaling Rust Adoption Through Training](https://security.googleblog.com/2023/09/scaling-rust-adoption-through-training.html)
 * [2023-09-22, 13:45:14](https://lobste.rs/s/l6dx99/style_with_stateful_semantic_selectors) - [Style with Stateful, Semantic Selectors](https://benmyers.dev/blog/semantic-selectors/)
-* [2023-09-22, 12:59:31](https://lobste.rs/s/jq83hn/typescript_origins_documentary) - [TypeScript Origins: The Documentary](https://youtu.be/U6s2pdxebSo?si=6CG04kY1W2RmWBo_)
 * [2023-09-22, 05:34:10](https://lobste.rs/s/tvhfwd/drawing_hat_tiling_using_racket) - [Drawing Hat tiling using Racket](https://rdivyanshu.github.io/hat.html)
 * [2023-09-21, 19:53:12](https://lobste.rs/s/psdmso/matrix_2_0_future_matrix) - [Matrix 2.0: The Future of Matrix](https://matrix.org/blog/2023/09/matrix-2-0/)
 * [2023-09-21, 19:19:03](https://lobste.rs/s/tkzyme/how_do_databases_execute_expressions) - [How do databases execute expressions?](https://notes.eatonphil.com/2023-09-21-how-do-databases-execute-expressions.html)
