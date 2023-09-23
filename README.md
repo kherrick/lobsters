@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-23, 00:47:11](https://lobste.rs/s/ut2cny/does_alpine_resolve_dns_properly_2021) - [Does Alpine resolve DNS properly? (2021)](https://purplecarrot.co.uk/post/2021-09-04-does_alpine-resolve_dns_properly/)
 * [2023-09-22, 22:32:21](https://lobste.rs/s/yxfwdc/sharded_does_not_imply_distributed) - [Sharded Does Not Imply Distributed](https://medium.com/@magda7817/sharded-does-not-imply-distributed-572fdafc4040)
 * [2023-09-22, 21:09:49](https://lobste.rs/s/wmfhm7/let_s_build_fips_validated_rust_crypto) - [Let's Build a FIPS-validated Rust Crypto Library](https://briansmith.org/lets-build-a-fips-rust-crypto)
 * [2023-09-22, 18:21:51](https://lobste.rs/s/21ahgz/www_which_wasm_works) - [www which wasm works](https://flak.tedunangst.com/post/www-which-wasm-works)
@@ -24,7 +25,6 @@
 * [2023-09-21, 19:19:03](https://lobste.rs/s/tkzyme/how_do_databases_execute_expressions) - [How do databases execute expressions?](https://notes.eatonphil.com/2023-09-21-how-do-databases-execute-expressions.html)
 * [2023-09-21, 17:26:55](https://lobste.rs/s/rtepnw/most_ui_applications_are_broken_real_time) - [Most UI Applications are Broken Real-time Applications](https://thelig.ht/ui-apps-are-broken/)
 * [2023-09-21, 15:42:32](https://lobste.rs/s/ph57od/mastodon_4_2) - [Mastodon 4.2](https://blog.joinmastodon.org/2023/09/mastodon-4.2/)
-* [2023-09-21, 08:25:19](https://lobste.rs/s/3fyo9u/first_arm64_cpu_launch) - [The first arm64 CPU launch](https://ioc.exchange/@shac/111099766302290499)
 
 ## [Archives](archives/index.md)
 
