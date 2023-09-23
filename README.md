@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-23, 20:43:59](https://lobste.rs/s/s3zeqm/reverse_engineering_gen7_pen_data_format) - [Reverse-Engineering Gen7+ Pen Data Format](https://github.com/linux-surface/intel-precise-touch/issues/14)
 * [2023-09-23, 20:21:30](https://lobste.rs/s/mevzed/responsive_type_scales_with_composable) - [Responsive type scales with composable CSS utilities](https://tobiasahlin.com/blog/responsive-fluid-css-type-scales/)
 * [2023-09-23, 19:26:37](https://lobste.rs/s/bkw5u0/no_stale_bots) - [No Stale Bots](https://nostalebots.xyz/)
 * [2023-09-23, 19:00:48](https://lobste.rs/s/thn5x6/surviving_power_cut_home_automation) - [Surviving a Power Cut - Home Automation Resilience](https://www.jamesridgway.co.uk/surviving-a-power-cut-home-automation-resilience/)
@@ -23,7 +24,6 @@
 * [2023-09-22, 13:51:59](https://lobste.rs/s/iesvdc/scaling_rust_adoption_through_training) - [Scaling Rust Adoption Through Training](https://security.googleblog.com/2023/09/scaling-rust-adoption-through-training.html)
 * [2023-09-22, 05:34:10](https://lobste.rs/s/tvhfwd/drawing_hat_tiling_using_racket) - [Drawing Hat tiling using Racket](https://rdivyanshu.github.io/hat.html)
 * [2023-09-21, 19:53:12](https://lobste.rs/s/psdmso/matrix_2_0_future_matrix) - [Matrix 2.0: The Future of Matrix](https://matrix.org/blog/2023/09/matrix-2-0/)
-* [2023-09-21, 19:19:03](https://lobste.rs/s/tkzyme/how_do_databases_execute_expressions) - [How do databases execute expressions?](https://notes.eatonphil.com/2023-09-21-how-do-databases-execute-expressions.html)
 * [2023-09-21, 17:26:55](https://lobste.rs/s/rtepnw/most_ui_applications_are_broken_real_time) - [Most UI Applications are Broken Real-time Applications](https://thelig.ht/ui-apps-are-broken/)
 
 ## [Archives](archives/index.md)
