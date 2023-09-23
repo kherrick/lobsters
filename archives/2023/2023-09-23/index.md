@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-23](index.md)
 
+* [2023-09-23, 17:30:47](https://lobste.rs/s/v6jbcx/fixing_memory_corruption_bug_go) - [Fixing a Memory Corruption Bug in Go](https://totallygamerjet.hashnode.dev/fixing-a-memory-corruption-bug-in-go)
 * [2023-09-23, 14:49:41](https://lobste.rs/s/g2ajzg/shshsh_bridge_between_python_shell) - [shshsh: a bridge between python and shell](https://github.com/zqqqqz2000/shshsh)
 * [2023-09-23, 12:49:18](https://lobste.rs/s/cxrd1l/gitops_is_means_where_is_end) - [GitOps Is a Means, Where Is the End?](https://www.flipt.io/blog/gitops-means-to-an-end)
 * [2023-09-23, 12:09:23](https://lobste.rs/s/4rgej4/luajit_v3_0_tracking_issue) - [LuaJIT v3.0 Tracking Issue](https://github.com/LuaJIT/LuaJIT/issues/1092)
