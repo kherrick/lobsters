@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-23, 03:55:21",
+      "https://lobste.rs/s/y6qsn1/bits_history_words_advice_1984"
+    ],
+    [
+      "Bits of History, Words of Advice (1984)",
+      "https://rmod-files.lille.inria.fr/FreeBooks/BitsOfHistory/BitsOfHistory.pdf"
+    ]
+  ],
+  [
+    [
       "2023-09-23, 01:56:31",
       "https://lobste.rs/s/cegbry/gameplay_programming_puzzle_for_ecs"
     ],
@@ -107,16 +117,6 @@
     [
       "GitHub Actions could be so much better",
       "https://blog.yossarian.net/2023/09/22/GitHub-Actions-could-be-so-much-better"
-    ]
-  ],
-  [
-    [
-      "2023-09-22, 14:11:24",
-      "https://lobste.rs/s/t1u1iq/neardrop_unofficial_google_nearby_share"
-    ],
-    [
-      "NearDrop: An unofficial Google Nearby Share app for macOS",
-      "https://github.com/grishka/NearDrop"
     ]
   ],
   [
