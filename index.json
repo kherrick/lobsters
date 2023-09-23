@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-23, 20:43:59",
+      "https://lobste.rs/s/s3zeqm/reverse_engineering_gen7_pen_data_format"
+    ],
+    [
+      "Reverse-Engineering Gen7+ Pen Data Format",
+      "https://github.com/linux-surface/intel-precise-touch/issues/14"
+    ]
+  ],
+  [
+    [
       "2023-09-23, 20:21:30",
       "https://lobste.rs/s/mevzed/responsive_type_scales_with_composable"
     ],
@@ -227,16 +237,6 @@
     [
       "Matrix 2.0: The Future of Matrix",
       "https://matrix.org/blog/2023/09/matrix-2-0/"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 19:19:03",
-      "https://lobste.rs/s/tkzyme/how_do_databases_execute_expressions"
-    ],
-    [
-      "How do databases execute expressions?",
-      "https://notes.eatonphil.com/2023-09-21-how-do-databases-execute-expressions.html"
     ]
   ],
   [
