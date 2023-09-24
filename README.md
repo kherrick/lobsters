@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-24, 12:01:39](https://lobste.rs/s/zrprsj/platform_enables_windows_driver) - [Platform that enables Windows driver development in Rust. Developed by Surface](https://github.com/microsoft/windows-drivers-rs)
 * [2023-09-24, 10:06:57](https://lobste.rs/s/hrnw7f/implementing_smooth_plymouth_x) - [Implementing smooth Plymouth ⟶ X transition (2009)](https://blogs.gnome.org/halfline/2009/11/28/plymouth-%E2%9F%B6-x-transition/)
 * [2023-09-24, 08:27:58](https://lobste.rs/s/7ooars/contributing_ocaml_collective) - [Contributing to OCaml: Collective maintenance](https://github.com/ocaml/ocaml/blob/trunk/CONTRIBUTING.md#collective-maintenance)
 * [2023-09-24, 06:54:51](https://lobste.rs/s/rjxumb/defense_stale_bots) - [In defense of stale-bots](https://lonami.dev/blog/stalebots/)
@@ -22,7 +23,6 @@
 * [2023-09-23, 06:18:54](https://lobste.rs/s/syq2ta/notes_self_on_woodpecker_ci) - [Notes to self on Woodpecker-CI](https://jpmens.net/2023/09/22/notes-to-self-on-woodpecker-ci/)
 * [2023-09-23, 01:56:31](https://lobste.rs/s/cegbry/gameplay_programming_puzzle_for_ecs) - [A Gameplay Programming Puzzle for ECS](https://johnaustin.io/articles/2023/a-gameplay-programming-brain-teaser-for-ecs)
 * [2023-09-23, 00:47:11](https://lobste.rs/s/ut2cny/does_alpine_resolve_dns_properly_2021) - [Does Alpine resolve DNS properly? (2021)](https://purplecarrot.co.uk/post/2021-09-04-does_alpine-resolve_dns_properly/)
-* [2023-09-22, 22:32:21](https://lobste.rs/s/yxfwdc/sharded_does_not_imply_distributed) - [Sharded Does Not Imply Distributed](https://medium.com/@magda7817/sharded-does-not-imply-distributed-572fdafc4040)
 * [2023-09-22, 14:48:38](https://lobste.rs/s/luukz3/invisible_problem_text_editing_on_mobile) - [The invisible problem (of text editing on mobile)](https://jenson.org/text/)
 * [2023-09-22, 14:22:22](https://lobste.rs/s/veoan6/github_actions_could_be_so_much_better) - [GitHub Actions could be so much better](https://blog.yossarian.net/2023/09/22/GitHub-Actions-could-be-so-much-better)
 

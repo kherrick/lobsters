@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-24](index.md)
 
+* [2023-09-24, 12:01:39](https://lobste.rs/s/zrprsj/platform_enables_windows_driver) - [Platform that enables Windows driver development in Rust. Developed by Surface](https://github.com/microsoft/windows-drivers-rs)
 * [2023-09-24, 10:06:57](https://lobste.rs/s/hrnw7f/implementing_smooth_plymouth_x) - [Implementing smooth Plymouth ⟶ X transition (2009)](https://blogs.gnome.org/halfline/2009/11/28/plymouth-%E2%9F%B6-x-transition/)
 * [2023-09-24, 08:27:58](https://lobste.rs/s/7ooars/contributing_ocaml_collective) - [Contributing to OCaml: Collective maintenance](https://github.com/ocaml/ocaml/blob/trunk/CONTRIBUTING.md#collective-maintenance)
 * [2023-09-24, 06:54:51](https://lobste.rs/s/rjxumb/defense_stale_bots) - [In defense of stale-bots](https://lonami.dev/blog/stalebots/)
