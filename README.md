@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-09-24, 14:15:45](https://lobste.rs/s/cs2og8/free_software_free_society_richard) - [Free software, free society: Richard Stallman at TEDxGeneva 2014](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
+* [2023-09-24, 14:15:45](https://lobste.rs/s/cs2og8/free_software_free_society) - [Free software, free society](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
 * [2023-09-24, 14:15:18](https://lobste.rs/s/yby2nr/prompt_engineering_for_claude_s_long) - [Prompt engineering for Claude's long context window](https://www.anthropic.com/index/prompting-long-context)
 * [2023-09-24, 12:01:39](https://lobste.rs/s/zrprsj/platform_enables_windows_driver) - [Platform that enables Windows driver development in Rust. Developed by Surface](https://github.com/microsoft/windows-drivers-rs)
 * [2023-09-24, 10:06:57](https://lobste.rs/s/hrnw7f/implementing_smooth_plymouth_x) - [Implementing smooth Plymouth ⟶ X transition (2009)](https://blogs.gnome.org/halfline/2009/11/28/plymouth-%E2%9F%B6-x-transition/)
