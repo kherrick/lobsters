@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-09-24, 15:59:44",
-      "https://lobste.rs/s/npggyc/introducing_neohaskell_beacon_joy"
-    ],
-    [
-      "Introducing NeoHaskell: A beacon of joy in a greyed tech world",
-      "https://dev.to/neohaskell/introducing-neohaskell-a-beacon-of-joy-in-a-greyed-tech-world-4f9b"
-    ]
-  ],
-  [
-    [
       "2023-09-24, 15:31:09",
       "https://lobste.rs/s/dt20bm/you_can_be_lumberjack_s_okay"
     ],
@@ -127,6 +117,16 @@
     [
       "Recent advances in computer science since 2010?",
       "https://cstheory.stackexchange.com/questions/53343/recent-advances-in-computer-science-since-2010"
+    ]
+  ],
+  [
+    [
+      "2023-09-23, 20:43:59",
+      "https://lobste.rs/s/s3zeqm/reverse_engineering_gen7_pen_data_format"
+    ],
+    [
+      "Reverse-Engineering Gen7+ Pen Data Format",
+      "https://github.com/linux-surface/intel-precise-touch/issues/14"
     ]
   ],
   [
