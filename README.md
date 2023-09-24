@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-24, 00:57:11](https://lobste.rs/s/ihugsb/digital_pollution_2019) - [Digital pollution (2019)](https://sive.rs/polut)
+* [2023-09-24, 00:46:18](https://lobste.rs/s/jit6lv/visual_interactive_guide_basics_neural) - [A Visual and Interactive Guide to the Basics of Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
 * [2023-09-23, 23:49:50](https://lobste.rs/s/lxa416/semgrep_static_analysis_journey) - [Semgrep: a static analysis journey](https://semgrep.dev/blog/2021/semgrep-a-static-analysis-journey/)
 * [2023-09-23, 21:44:54](https://lobste.rs/s/ppc3pi/recent_advances_computer_science_since) - [Recent advances in computer science since 2010?](https://cstheory.stackexchange.com/questions/53343/recent-advances-in-computer-science-since-2010)
 * [2023-09-23, 20:43:59](https://lobste.rs/s/s3zeqm/reverse_engineering_gen7_pen_data_format) - [Reverse-Engineering Gen7+ Pen Data Format](https://github.com/linux-surface/intel-precise-touch/issues/14)
@@ -23,8 +25,6 @@
 * [2023-09-22, 15:20:08](https://lobste.rs/s/3k7me7/generations_based_map_vs_sparse_map) - [Generations-based map vs sparse map](https://quasilyte.dev/blog/post/gen-map/)
 * [2023-09-22, 14:48:38](https://lobste.rs/s/luukz3/invisible_problem_text_editing_on_mobile) - [The invisible problem (of text editing on mobile)](https://jenson.org/text/)
 * [2023-09-22, 14:22:22](https://lobste.rs/s/veoan6/github_actions_could_be_so_much_better) - [GitHub Actions could be so much better](https://blog.yossarian.net/2023/09/22/GitHub-Actions-could-be-so-much-better)
-* [2023-09-22, 13:51:59](https://lobste.rs/s/iesvdc/scaling_rust_adoption_through_training) - [Scaling Rust Adoption Through Training](https://security.googleblog.com/2023/09/scaling-rust-adoption-through-training.html)
-* [2023-09-21, 19:53:12](https://lobste.rs/s/psdmso/matrix_2_0_future_matrix) - [Matrix 2.0: The Future of Matrix](https://matrix.org/blog/2023/09/matrix-2-0/)
 
 ## [Archives](archives/index.md)
 
