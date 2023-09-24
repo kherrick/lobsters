@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-24, 14:15:45",
+      "https://lobste.rs/s/cs2og8/free_software_free_society_richard"
+    ],
+    [
+      "Free software, free society: Richard Stallman at TEDxGeneva 2014",
+      "https://www.youtube.com/watch?v=Ag1AKIl_2GM"
+    ]
+  ],
+  [
+    [
+      "2023-09-24, 14:15:18",
+      "https://lobste.rs/s/yby2nr/prompt_engineering_for_claude_s_long"
+    ],
+    [
+      "Prompt engineering for Claude's long context window",
+      "https://www.anthropic.com/index/prompting-long-context"
+    ]
+  ],
+  [
+    [
       "2023-09-24, 12:01:39",
       "https://lobste.rs/s/zrprsj/platform_enables_windows_driver"
     ],
@@ -97,26 +117,6 @@
     [
       "Recent advances in computer science since 2010?",
       "https://cstheory.stackexchange.com/questions/53343/recent-advances-in-computer-science-since-2010"
-    ]
-  ],
-  [
-    [
-      "2023-09-23, 20:43:59",
-      "https://lobste.rs/s/s3zeqm/reverse_engineering_gen7_pen_data_format"
-    ],
-    [
-      "Reverse-Engineering Gen7+ Pen Data Format",
-      "https://github.com/linux-surface/intel-precise-touch/issues/14"
-    ]
-  ],
-  [
-    [
-      "2023-09-23, 20:21:30",
-      "https://lobste.rs/s/mevzed/responsive_type_scales_with_composable"
-    ],
-    [
-      "Responsive type scales with composable CSS utilities",
-      "https://tobiasahlin.com/blog/responsive-fluid-css-type-scales/"
     ]
   ],
   [
