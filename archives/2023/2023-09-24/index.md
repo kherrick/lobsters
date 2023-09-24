@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-24](index.md)
 
+* [2023-09-24, 17:30:10](https://lobste.rs/s/l5hxjl/3_irl_use_cases_for_python_htmx) - [3 IRL use cases for Python and HTMX](https://www.bitecode.dev/p/3-irl-use-cases-for-python-and-htmx)
 * [2023-09-24, 15:59:44](https://lobste.rs/s/npggyc/introducing_neohaskell_beacon_joy) - [Introducing NeoHaskell: A beacon of joy in a greyed tech world](https://dev.to/neohaskell/introducing-neohaskell-a-beacon-of-joy-in-a-greyed-tech-world-4f9b)
 * [2023-09-24, 15:31:09](https://lobste.rs/s/dt20bm/you_can_be_lumberjack_s_okay) - [You Can Be a Lumberjack (and that's okay)](https://danielbmarkham.com/you-can-be-a-lumberjack-and-thats-okay/)
 * [2023-09-24, 14:15:45](https://lobste.rs/s/cs2og8/free_software_free_society_richard) - [Free software, free society: Richard Stallman at TEDxGeneva 2014](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
