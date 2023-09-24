@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-24, 21:34:49](https://lobste.rs/s/okvfhi/announcing_comfy_new_fun_2d_game_engine) - [Announcing Comfy - a new fun 2d game engine in Rust/wgpu](https://github.com/darthdeus/comfy)
 * [2023-09-24, 20:49:27](https://lobste.rs/s/uz3tr2/solving_engineering_strategy_crisis) - [Solving the Engineering Strategy crisis](https://lethain.com/solving-the-engineering-strategy-crisis/)
 * [2023-09-24, 20:12:13](https://lobste.rs/s/mu8fle/why_do_we_need_modules_at_all) - [Why do we need modules at all?](http://erlang.org/pipermail/erlang-questions/2011-May/058768.html)
 * [2023-09-24, 18:41:10](https://lobste.rs/s/jo6wmf/mythbusters_wing_commander_i_edition) - [Mythbusters: Wing Commander I Edition](https://www.wcnews.com/news/update/16279)
@@ -15,7 +16,6 @@
 * [2023-09-24, 03:21:34](https://lobste.rs/s/l9jbft/blocking_visual_studio_code_embedded) - [Blocking Visual Studio Code embedded reverse shell before it's too late](https://ipfyx.fr/post/visual-studio-code-tunnel/)
 * [2023-09-24, 01:19:56](https://lobste.rs/s/eqwtca/ditch_else) - [Ditch That Else](https://preslav.me/2023/09/22/ditch-that-else)
 * [2023-09-24, 00:57:11](https://lobste.rs/s/ihugsb/digital_pollution_2019) - [Digital pollution (2019)](https://sive.rs/polut)
-* [2023-09-24, 00:46:18](https://lobste.rs/s/jit6lv/visual_interactive_guide_basics_neural) - [A Visual and Interactive Guide to the Basics of Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
 * [2023-09-23, 23:49:50](https://lobste.rs/s/lxa416/semgrep_static_analysis_journey) - [Semgrep: a static analysis journey](https://semgrep.dev/blog/2021/semgrep-a-static-analysis-journey/)
 * [2023-09-23, 21:44:54](https://lobste.rs/s/ppc3pi/recent_advances_computer_science_since) - [Recent advances in computer science since 2010?](https://cstheory.stackexchange.com/questions/53343/recent-advances-in-computer-science-since-2010)
 * [2023-09-23, 19:26:37](https://lobste.rs/s/bkw5u0/no_stale_bots) - [No Stale Bots](https://nostalebots.xyz/)
