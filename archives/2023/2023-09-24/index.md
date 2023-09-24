@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-24](index.md)
 
+* [2023-09-24, 06:54:51](https://lobste.rs/s/rjxumb/defense_stale_bots) - [In defense of stale-bots](https://lonami.dev/blog/stalebots/)
 * [2023-09-24, 03:21:34](https://lobste.rs/s/l9jbft/blocking_visual_studio_code_embedded) - [Blocking Visual Studio Code embedded reverse shell before it's too late](https://ipfyx.fr/post/visual-studio-code-tunnel/)
 * [2023-09-24, 01:19:56](https://lobste.rs/s/eqwtca/ditch_else) - [Ditch That Else](https://preslav.me/2023/09/22/ditch-that-else)
 * [2023-09-24, 00:57:11](https://lobste.rs/s/ihugsb/digital_pollution_2019) - [Digital pollution (2019)](https://sive.rs/polut)
