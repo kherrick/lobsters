@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-24, 20:12:13](https://lobste.rs/s/mu8fle/why_do_we_need_modules_at_all) - [Why do we need modules at all?](http://erlang.org/pipermail/erlang-questions/2011-May/058768.html)
 * [2023-09-24, 18:41:10](https://lobste.rs/s/jo6wmf/mythbusters_wing_commander_i_edition) - [Mythbusters: Wing Commander I Edition](https://www.wcnews.com/news/update/16279)
 * [2023-09-24, 18:20:02](https://lobste.rs/s/rk3eft/choose_postgres_queue_technology) - [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
 * [2023-09-24, 17:52:22](https://lobste.rs/s/75l4io/gpu_gems_3) - [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/foreword)
@@ -24,7 +25,6 @@
 * [2023-09-23, 12:09:23](https://lobste.rs/s/4rgej4/luajit_v3_0_tracking_issue) - [LuaJIT v3.0 Tracking Issue](https://github.com/LuaJIT/LuaJIT/issues/1092)
 * [2023-09-23, 11:32:05](https://lobste.rs/s/lqbven/projekt_overflow_assembler_c_tabletop) - [PROJEKT:OVERFLOW - Assembler and C tabletop board game](https://punkx.org/overflow)
 * [2023-09-23, 01:56:31](https://lobste.rs/s/cegbry/gameplay_programming_puzzle_for_ecs) - [A Gameplay Programming Puzzle for ECS](https://johnaustin.io/articles/2023/a-gameplay-programming-brain-teaser-for-ecs)
-* [2023-09-22, 14:48:38](https://lobste.rs/s/luukz3/invisible_problem_text_editing_on_mobile) - [The invisible problem (of text editing on mobile)](https://jenson.org/text/)
 
 ## [Archives](archives/index.md)
 
