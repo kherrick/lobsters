@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-24, 14:15:45](https://lobste.rs/s/cs2og8/free_software_free_society_richard) - [Free software, free society: Richard Stallman at TEDxGeneva 2014](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
+* [2023-09-24, 14:15:18](https://lobste.rs/s/yby2nr/prompt_engineering_for_claude_s_long) - [Prompt engineering for Claude's long context window](https://www.anthropic.com/index/prompting-long-context)
 * [2023-09-24, 12:01:39](https://lobste.rs/s/zrprsj/platform_enables_windows_driver) - [Platform that enables Windows driver development in Rust. Developed by Surface](https://github.com/microsoft/windows-drivers-rs)
 * [2023-09-24, 10:06:57](https://lobste.rs/s/hrnw7f/implementing_smooth_plymouth_x) - [Implementing smooth Plymouth ⟶ X transition (2009)](https://blogs.gnome.org/halfline/2009/11/28/plymouth-%E2%9F%B6-x-transition/)
 * [2023-09-24, 08:27:58](https://lobste.rs/s/7ooars/contributing_ocaml_collective) - [Contributing to OCaml: Collective maintenance](https://github.com/ocaml/ocaml/blob/trunk/CONTRIBUTING.md#collective-maintenance)
@@ -10,8 +12,6 @@
 * [2023-09-24, 00:46:18](https://lobste.rs/s/jit6lv/visual_interactive_guide_basics_neural) - [A Visual and Interactive Guide to the Basics of Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
 * [2023-09-23, 23:49:50](https://lobste.rs/s/lxa416/semgrep_static_analysis_journey) - [Semgrep: a static analysis journey](https://semgrep.dev/blog/2021/semgrep-a-static-analysis-journey/)
 * [2023-09-23, 21:44:54](https://lobste.rs/s/ppc3pi/recent_advances_computer_science_since) - [Recent advances in computer science since 2010?](https://cstheory.stackexchange.com/questions/53343/recent-advances-in-computer-science-since-2010)
-* [2023-09-23, 20:43:59](https://lobste.rs/s/s3zeqm/reverse_engineering_gen7_pen_data_format) - [Reverse-Engineering Gen7+ Pen Data Format](https://github.com/linux-surface/intel-precise-touch/issues/14)
-* [2023-09-23, 20:21:30](https://lobste.rs/s/mevzed/responsive_type_scales_with_composable) - [Responsive type scales with composable CSS utilities](https://tobiasahlin.com/blog/responsive-fluid-css-type-scales/)
 * [2023-09-23, 19:26:37](https://lobste.rs/s/bkw5u0/no_stale_bots) - [No Stale Bots](https://nostalebots.xyz/)
 * [2023-09-23, 19:00:48](https://lobste.rs/s/thn5x6/surviving_power_cut_home_automation) - [Surviving a Power Cut - Home Automation Resilience](https://www.jamesridgway.co.uk/surviving-a-power-cut-home-automation-resilience/)
 * [2023-09-23, 17:30:47](https://lobste.rs/s/v6jbcx/fixing_memory_corruption_bug_go) - [Fixing a Memory Corruption Bug in Go](https://totallygamerjet.hashnode.dev/fixing-a-memory-corruption-bug-in-go)
