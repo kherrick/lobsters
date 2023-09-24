@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-24, 00:57:11",
+      "https://lobste.rs/s/ihugsb/digital_pollution_2019"
+    ],
+    [
+      "Digital pollution (2019)",
+      "https://sive.rs/polut"
+    ]
+  ],
+  [
+    [
+      "2023-09-24, 00:46:18",
+      "https://lobste.rs/s/jit6lv/visual_interactive_guide_basics_neural"
+    ],
+    [
+      "A Visual and Interactive Guide to the Basics of Neural Networks",
+      "https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/"
+    ]
+  ],
+  [
+    [
       "2023-09-23, 23:49:50",
       "https://lobste.rs/s/lxa416/semgrep_static_analysis_journey"
     ],
@@ -227,26 +247,6 @@
     [
       "GitHub Actions could be so much better",
       "https://blog.yossarian.net/2023/09/22/GitHub-Actions-could-be-so-much-better"
-    ]
-  ],
-  [
-    [
-      "2023-09-22, 13:51:59",
-      "https://lobste.rs/s/iesvdc/scaling_rust_adoption_through_training"
-    ],
-    [
-      "Scaling Rust Adoption Through Training",
-      "https://security.googleblog.com/2023/09/scaling-rust-adoption-through-training.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-21, 19:53:12",
-      "https://lobste.rs/s/psdmso/matrix_2_0_future_matrix"
-    ],
-    [
-      "Matrix 2.0: The Future of Matrix",
-      "https://matrix.org/blog/2023/09/matrix-2-0/"
     ]
   ]
 ]
