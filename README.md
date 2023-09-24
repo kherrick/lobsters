@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-24, 18:20:02](https://lobste.rs/s/rk3eft/choose_postgres_queue_technology) - [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
 * [2023-09-24, 17:52:22](https://lobste.rs/s/75l4io/gpu_gems_3) - [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/foreword)
 * [2023-09-24, 17:30:10](https://lobste.rs/s/l5hxjl/3_irl_use_cases_for_python_htmx) - [3 IRL use cases for Python and HTMX](https://www.bitecode.dev/p/3-irl-use-cases-for-python-and-htmx)
 * [2023-09-24, 15:31:09](https://lobste.rs/s/dt20bm/you_can_be_lumberjack_s_okay) - [You Can Be a Lumberjack (and that's okay)](https://danielbmarkham.com/you-can-be-a-lumberjack-and-thats-okay/)
@@ -22,7 +23,6 @@
 * [2023-09-23, 12:09:23](https://lobste.rs/s/4rgej4/luajit_v3_0_tracking_issue) - [LuaJIT v3.0 Tracking Issue](https://github.com/LuaJIT/LuaJIT/issues/1092)
 * [2023-09-23, 11:32:05](https://lobste.rs/s/lqbven/projekt_overflow_assembler_c_tabletop) - [PROJEKT:OVERFLOW - Assembler and C tabletop board game](https://punkx.org/overflow)
 * [2023-09-23, 06:24:30](https://lobste.rs/s/mq0ay6/polonius_revisited_part_1) - [Polonius revisited, part 1](https://smallcultfollowing.com/babysteps/blog/2023/09/22/polonius-part-1/)
-* [2023-09-23, 06:18:54](https://lobste.rs/s/syq2ta/notes_self_on_woodpecker_ci) - [Notes to self on Woodpecker-CI](https://jpmens.net/2023/09/22/notes-to-self-on-woodpecker-ci/)
 * [2023-09-23, 01:56:31](https://lobste.rs/s/cegbry/gameplay_programming_puzzle_for_ecs) - [A Gameplay Programming Puzzle for ECS](https://johnaustin.io/articles/2023/a-gameplay-programming-brain-teaser-for-ecs)
 * [2023-09-22, 14:48:38](https://lobste.rs/s/luukz3/invisible_problem_text_editing_on_mobile) - [The invisible problem (of text editing on mobile)](https://jenson.org/text/)
 
