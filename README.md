@@ -12,6 +12,7 @@
 * [2023-09-24, 00:46:18](https://lobste.rs/s/jit6lv/visual_interactive_guide_basics_neural) - [A Visual and Interactive Guide to the Basics of Neural Networks](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
 * [2023-09-23, 23:49:50](https://lobste.rs/s/lxa416/semgrep_static_analysis_journey) - [Semgrep: a static analysis journey](https://semgrep.dev/blog/2021/semgrep-a-static-analysis-journey/)
 * [2023-09-23, 21:44:54](https://lobste.rs/s/ppc3pi/recent_advances_computer_science_since) - [Recent advances in computer science since 2010?](https://cstheory.stackexchange.com/questions/53343/recent-advances-in-computer-science-since-2010)
+* [2023-09-23, 20:43:59](https://lobste.rs/s/s3zeqm/reverse_engineering_gen7_pen_data_format) - [Reverse-Engineering Gen7+ Pen Data Format](https://github.com/linux-surface/intel-precise-touch/issues/14)
 * [2023-09-23, 19:26:37](https://lobste.rs/s/bkw5u0/no_stale_bots) - [No Stale Bots](https://nostalebots.xyz/)
 * [2023-09-23, 19:00:48](https://lobste.rs/s/thn5x6/surviving_power_cut_home_automation) - [Surviving a Power Cut - Home Automation Resilience](https://www.jamesridgway.co.uk/surviving-a-power-cut-home-automation-resilience/)
 * [2023-09-23, 17:30:47](https://lobste.rs/s/v6jbcx/fixing_memory_corruption_bug_go) - [Fixing a Memory Corruption Bug in Go](https://totallygamerjet.hashnode.dev/fixing-a-memory-corruption-bug-in-go)
@@ -22,7 +23,6 @@
 * [2023-09-23, 06:24:30](https://lobste.rs/s/mq0ay6/polonius_revisited_part_1) - [Polonius revisited, part 1](https://smallcultfollowing.com/babysteps/blog/2023/09/22/polonius-part-1/)
 * [2023-09-23, 06:18:54](https://lobste.rs/s/syq2ta/notes_self_on_woodpecker_ci) - [Notes to self on Woodpecker-CI](https://jpmens.net/2023/09/22/notes-to-self-on-woodpecker-ci/)
 * [2023-09-23, 01:56:31](https://lobste.rs/s/cegbry/gameplay_programming_puzzle_for_ecs) - [A Gameplay Programming Puzzle for ECS](https://johnaustin.io/articles/2023/a-gameplay-programming-brain-teaser-for-ecs)
-* [2023-09-23, 00:47:11](https://lobste.rs/s/ut2cny/does_alpine_resolve_dns_properly_2021) - [Does Alpine resolve DNS properly? (2021)](https://purplecarrot.co.uk/post/2021-09-04-does_alpine-resolve_dns_properly/)
 * [2023-09-22, 14:48:38](https://lobste.rs/s/luukz3/invisible_problem_text_editing_on_mobile) - [The invisible problem (of text editing on mobile)](https://jenson.org/text/)
 * [2023-09-22, 14:22:22](https://lobste.rs/s/veoan6/github_actions_could_be_so_much_better) - [GitHub Actions could be so much better](https://blog.yossarian.net/2023/09/22/GitHub-Actions-could-be-so-much-better)
 
