@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-24, 12:01:39",
+      "https://lobste.rs/s/zrprsj/platform_enables_windows_driver"
+    ],
+    [
+      "Platform that enables Windows driver development in Rust. Developed by Surface",
+      "https://github.com/microsoft/windows-drivers-rs"
+    ]
+  ],
+  [
+    [
       "2023-09-24, 10:06:57",
       "https://lobste.rs/s/hrnw7f/implementing_smooth_plymouth_x"
     ],
@@ -217,16 +227,6 @@
     [
       "Does Alpine resolve DNS properly? (2021)",
       "https://purplecarrot.co.uk/post/2021-09-04-does_alpine-resolve_dns_properly/"
-    ]
-  ],
-  [
-    [
-      "2023-09-22, 22:32:21",
-      "https://lobste.rs/s/yxfwdc/sharded_does_not_imply_distributed"
-    ],
-    [
-      "Sharded Does Not Imply Distributed",
-      "https://medium.com/@magda7817/sharded-does-not-imply-distributed-572fdafc4040"
     ]
   ],
   [
