@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-24](index.md)
 
+* [2023-09-24, 15:31:09](https://lobste.rs/s/dt20bm/you_can_be_lumberjack_s_okay) - [You Can Be a Lumberjack (and that's okay)](https://danielbmarkham.com/you-can-be-a-lumberjack-and-thats-okay/)
 * [2023-09-24, 14:15:45](https://lobste.rs/s/cs2og8/free_software_free_society_richard) - [Free software, free society: Richard Stallman at TEDxGeneva 2014](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
 * [2023-09-24, 14:15:45](https://lobste.rs/s/cs2og8/free_software_free_society) - [Free software, free society](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
 * [2023-09-24, 14:15:18](https://lobste.rs/s/yby2nr/prompt_engineering_for_claude_s_long) - [Prompt engineering for Claude's long context window](https://www.anthropic.com/index/prompting-long-context)
