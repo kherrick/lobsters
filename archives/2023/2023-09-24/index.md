@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-24](index.md)
 
+* [2023-09-24, 08:27:58](https://lobste.rs/s/7ooars/contributing_ocaml_collective) - [Contributing to OCaml: Collective maintenance](https://github.com/ocaml/ocaml/blob/trunk/CONTRIBUTING.md#collective-maintenance)
 * [2023-09-24, 06:54:51](https://lobste.rs/s/rjxumb/defense_stale_bots) - [In defense of stale-bots](https://lonami.dev/blog/stalebots/)
 * [2023-09-24, 03:21:34](https://lobste.rs/s/l9jbft/blocking_visual_studio_code_embedded) - [Blocking Visual Studio Code embedded reverse shell before it's too late](https://ipfyx.fr/post/visual-studio-code-tunnel/)
 * [2023-09-24, 01:19:56](https://lobste.rs/s/eqwtca/ditch_else) - [Ditch That Else](https://preslav.me/2023/09/22/ditch-that-else)
