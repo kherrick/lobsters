@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-25, 13:48:56",
+      "https://lobste.rs/s/qy7ea6/viable_rop_free_roadmap_for_i386_armv8"
+    ],
+    [
+      "Viable ROP-free roadmap for i386/armv8/riscv64/alpha/sparc64",
+      "https://marc.info/?l=openbsd-tech&m=169558749114476&w=2"
+    ]
+  ],
+  [
+    [
       "2023-09-25, 13:27:48",
       "https://lobste.rs/s/ovrpwy/gleam_v0_31_0_released"
     ],
@@ -197,16 +207,6 @@
     [
       "Free software, free society",
       "https://www.youtube.com/watch?v=Ag1AKIl_2GM"
-    ]
-  ],
-  [
-    [
-      "2023-09-24, 14:15:18",
-      "https://lobste.rs/s/yby2nr/prompt_engineering_for_claude_s_long"
-    ],
-    [
-      "Prompt engineering for Claude's long context window",
-      "https://www.anthropic.com/index/prompting-long-context"
     ]
   ],
   [
