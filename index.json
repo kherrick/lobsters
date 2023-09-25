@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2023-09-25, 09:23:25",
+      "https://lobste.rs/s/ieumku/bindiff_quickly_find_differences"
+    ],
+    [
+      "bindiff: Quickly find differences and similarities in disassembled code",
+      "https://github.com/google/bindiff"
+    ]
+  ],
+  [
+    [
       "2023-09-25, 09:16:48",
       "https://lobste.rs/s/uzjmam/mon_stupid_simple_monitoring"
     ],
@@ -237,16 +247,6 @@
     [
       "Contributing to OCaml: Collective maintenance",
       "https://github.com/ocaml/ocaml/blob/trunk/CONTRIBUTING.md#collective-maintenance"
-    ]
-  ],
-  [
-    [
-      "2023-09-23, 19:26:37",
-      "https://lobste.rs/s/bkw5u0/no_stale_bots"
-    ],
-    [
-      "No Stale Bots",
-      "https://nostalebots.xyz/"
     ]
   ]
 ]
