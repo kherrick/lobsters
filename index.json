@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-25, 01:12:33",
+      "https://lobste.rs/s/pyysai/knuth_s_20_questions_for_chatgpt"
+    ],
+    [
+      "Knuth's 20 Questions for ChatGPT",
+      "https://www-cs-faculty.stanford.edu/~knuth/chatGPT20.txt"
+    ]
+  ],
+  [
+    [
       "2023-09-25, 00:58:54",
       "https://lobste.rs/s/adnzen/software_packaging_is_nightmare"
     ],
@@ -197,16 +207,6 @@
     [
       "No Stale Bots",
       "https://nostalebots.xyz/"
-    ]
-  ],
-  [
-    [
-      "2023-09-23, 17:30:47",
-      "https://lobste.rs/s/v6jbcx/fixing_memory_corruption_bug_go"
-    ],
-    [
-      "Fixing a Memory Corruption Bug in Go",
-      "https://totallygamerjet.hashnode.dev/fixing-a-memory-corruption-bug-in-go"
     ]
   ],
   [
