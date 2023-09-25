@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-25, 13:18:43",
+      "https://lobste.rs/s/vsovl9/postscript_s_sudden_death_sonoma"
+    ],
+    [
+      "PostScript’s sudden death in Sonoma",
+      "https://eclecticlight.co/2023/09/25/postscripts-sudden-death-in-sonoma/"
+    ]
+  ],
+  [
+    [
       "2023-09-25, 11:32:55",
       "https://lobste.rs/s/qqzk80/making_it_fast_shouldn_t_be_last_step"
     ],
@@ -187,16 +197,6 @@
     [
       "Prompt engineering for Claude's long context window",
       "https://www.anthropic.com/index/prompting-long-context"
-    ]
-  ],
-  [
-    [
-      "2023-09-24, 12:01:39",
-      "https://lobste.rs/s/zrprsj/platform_enables_windows_driver"
-    ],
-    [
-      "Platform that enables Windows driver development in Rust. Developed by Surface",
-      "https://github.com/microsoft/windows-drivers-rs"
     ]
   ],
   [
