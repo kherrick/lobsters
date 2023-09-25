@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2023-09-25](index.md)
 
+* [2023-09-25, 04:33:16](https://lobste.rs/s/qb44v1/flameshow_terminal_flamegraph_viewer) - [flameshow: A terminal Flamegraph viewer](https://github.com/laixintao/flameshow)
 * [2023-09-25, 01:12:33](https://lobste.rs/s/pyysai/knuth_s_20_questions_for_chatgpt) - [Knuth's 20 Questions for ChatGPT](https://www-cs-faculty.stanford.edu/~knuth/chatGPT20.txt)
 * [2023-09-25, 00:58:54](https://lobste.rs/s/adnzen/software_packaging_is_nightmare) - [Software Packaging Is A Nightmare](https://cohost.org/PolyWolf/post/2613009-software-packaging-a)
