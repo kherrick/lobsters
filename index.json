@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2023-09-25, 14:13:08",
-      "https://lobste.rs/s/bokcod/small_language_model_made_from"
-    ],
-    [
-      "A small language model made from matchboxes",
-      "https://dcorney.com/thoughts/2023/09/23/matchboxes.html"
-    ]
-  ],
-  [
-    [
       "2023-09-25, 14:00:35",
       "https://lobste.rs/s/jgudu7/running_windows_95_on_pocket_pc"
     ],
@@ -147,6 +137,16 @@
     [
       "Bringing Modern JavaScript (Deno) to the Jupyter Notebook",
       "https://blog.jupyter.org/bringing-modern-javascript-to-the-jupyter-notebook-fc998095081e"
+    ]
+  ],
+  [
+    [
+      "2023-09-25, 09:23:25",
+      "https://lobste.rs/s/ieumku/bindiff_quickly_find_differences"
+    ],
+    [
+      "bindiff: Quickly find differences and similarities in disassembled code",
+      "https://github.com/google/bindiff"
     ]
   ],
   [
