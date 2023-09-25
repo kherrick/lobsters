@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-25](index.md)
 
+* [2023-09-25, 20:13:30](https://lobste.rs/s/mwsk2m/picat_logic_based_multi_paradigm_pl_for) - [Picat: logic-based multi-paradigm PL for general-purpose applications](http://picat-lang.org/)
 * [2023-09-25, 19:20:20](https://lobste.rs/s/uhpfao/mcap_container_file_format_for_log_data) - [MCAP - container file format for log data](https://mcap.dev/)
 * [2023-09-25, 17:04:09](https://lobste.rs/s/wjlijb/interoperability_swift_s_super_power) - [Interoperability: Swift’s Super Power](https://speakinginswift.substack.com/p/interoperability-swifts-super-power)
 * [2023-09-25, 17:01:55](https://lobste.rs/s/hn0vds/brief_incomplete_mostly_wrong_devops) - [A Brief, Incomplete and Mostly Wrong Devops Glossary](https://earthly.dev/blog/devops-glossary/)
