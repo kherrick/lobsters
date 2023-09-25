@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-25, 16:10:04](https://lobste.rs/s/leyibh/lets_just_try_it) - [Lets just try it](https://frankwiles.com/posts/lets-just-try-it/)
 * [2023-09-25, 14:15:23](https://lobste.rs/s/q4j4vl/gold_standard_plotter_hp_7475a) - [Gold Standard Plotter - HP 7475A](https://www.youtube.com/watch?v=8785ktWD7vQ)
 * [2023-09-25, 14:13:08](https://lobste.rs/s/bokcod/small_language_model_made_from) - [A small language model made from matchboxes](https://dcorney.com/thoughts/2023/09/23/matchboxes.html)
 * [2023-09-25, 14:00:35](https://lobste.rs/s/jgudu7/running_windows_95_on_pocket_pc) - [Running Windows 95 on a Pocket PC](https://www.hpcfactor.com/reviews/editorial/bochs-2-1-1)
@@ -9,7 +10,6 @@
 * [2023-09-25, 13:18:43](https://lobste.rs/s/vsovl9/postscript_s_sudden_death_sonoma) - [PostScript’s sudden death in Sonoma](https://eclecticlight.co/2023/09/25/postscripts-sudden-death-in-sonoma/)
 * [2023-09-25, 11:32:55](https://lobste.rs/s/qqzk80/making_it_fast_shouldn_t_be_last_step) - [Making it fast shouldn't be the last step](https://ntietz.com/blog/make-it-fast-from-the-start/)
 * [2023-09-25, 09:25:15](https://lobste.rs/s/rrbznr/bringing_modern_javascript_deno_jupyter) - [Bringing Modern JavaScript (Deno) to the Jupyter Notebook](https://blog.jupyter.org/bringing-modern-javascript-to-the-jupyter-notebook-fc998095081e)
-* [2023-09-25, 09:23:25](https://lobste.rs/s/ieumku/bindiff_quickly_find_differences) - [bindiff: Quickly find differences and similarities in disassembled code](https://github.com/google/bindiff)
 * [2023-09-25, 09:16:48](https://lobste.rs/s/uzjmam/mon_stupid_simple_monitoring) - [μMon: Stupid simple monitoring](https://tomscii.sig7.se/2022/07/uMon-stupid-simple-monitoring)
 * [2023-09-25, 08:35:41](https://lobste.rs/s/hqvodq/monitoring_me) - [Monitoring and Me](https://gabrielsimmer.com/blog/monitoring-and-me)
 * [2023-09-25, 07:11:47](https://lobste.rs/s/mai6ft/running_nixos_on_proxmox) - [Running NixOS on Proxmox](https://mtlynch.io/notes/nixos-proxmox/)

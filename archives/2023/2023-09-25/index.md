@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-25](index.md)
 
+* [2023-09-25, 16:10:04](https://lobste.rs/s/leyibh/lets_just_try_it) - [Lets just try it](https://frankwiles.com/posts/lets-just-try-it/)
 * [2023-09-25, 14:15:23](https://lobste.rs/s/q4j4vl/gold_standard_plotter_hp_7475a) - [Gold Standard Plotter - HP 7475A](https://www.youtube.com/watch?v=8785ktWD7vQ)
 * [2023-09-25, 14:13:08](https://lobste.rs/s/bokcod/small_language_model_made_from) - [A small language model made from matchboxes](https://dcorney.com/thoughts/2023/09/23/matchboxes.html)
 * [2023-09-25, 14:00:35](https://lobste.rs/s/jgudu7/running_windows_95_on_pocket_pc) - [Running Windows 95 on a Pocket PC](https://www.hpcfactor.com/reviews/editorial/bochs-2-1-1)
