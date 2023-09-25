@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-25, 11:32:55](https://lobste.rs/s/qqzk80/making_it_fast_shouldn_t_be_last_step) - [Making it fast shouldn't be the last step](https://ntietz.com/blog/make-it-fast-from-the-start/)
 * [2023-09-25, 09:25:15](https://lobste.rs/s/rrbznr/bringing_modern_javascript_deno_jupyter) - [Bringing Modern JavaScript (Deno) to the Jupyter Notebook](https://blog.jupyter.org/bringing-modern-javascript-to-the-jupyter-notebook-fc998095081e)
 * [2023-09-25, 09:23:25](https://lobste.rs/s/ieumku/bindiff_quickly_find_differences) - [bindiff: Quickly find differences and similarities in disassembled code](https://github.com/google/bindiff)
 * [2023-09-25, 09:16:48](https://lobste.rs/s/uzjmam/mon_stupid_simple_monitoring) - [μMon: Stupid simple monitoring](https://tomscii.sig7.se/2022/07/uMon-stupid-simple-monitoring)
@@ -19,7 +20,6 @@
 * [2023-09-24, 15:31:09](https://lobste.rs/s/dt20bm/you_can_be_lumberjack_s_okay) - [You Can Be a Lumberjack (and that's okay)](https://danielbmarkham.com/you-can-be-a-lumberjack-and-thats-okay/)
 * [2023-09-24, 14:15:45](https://lobste.rs/s/cs2og8/free_software_free_society) - [Free software, free society](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
 * [2023-09-24, 14:15:18](https://lobste.rs/s/yby2nr/prompt_engineering_for_claude_s_long) - [Prompt engineering for Claude's long context window](https://www.anthropic.com/index/prompting-long-context)
-* [2023-09-24, 12:01:39](https://lobste.rs/s/zrprsj/platform_enables_windows_driver) - [Platform that enables Windows driver development in Rust. Developed by Surface](https://github.com/microsoft/windows-drivers-rs)
 * [2023-09-24, 08:27:58](https://lobste.rs/s/7ooars/contributing_ocaml_collective) - [Contributing to OCaml: Collective maintenance](https://github.com/ocaml/ocaml/blob/trunk/CONTRIBUTING.md#collective-maintenance)
 * [2023-09-24, 03:21:34](https://lobste.rs/s/l9jbft/blocking_visual_studio_code_embedded) - [Blocking Visual Studio Code embedded reverse shell before it's too late](https://ipfyx.fr/post/visual-studio-code-tunnel/)
 * [2023-09-24, 01:19:56](https://lobste.rs/s/eqwtca/ditch_else) - [Ditch That Else](https://preslav.me/2023/09/22/ditch-that-else)
