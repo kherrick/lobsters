@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-25, 09:25:15",
+      "https://lobste.rs/s/rrbznr/bringing_modern_javascript_deno_jupyter"
+    ],
+    [
+      "Bringing Modern JavaScript (Deno) to the Jupyter Notebook",
+      "https://blog.jupyter.org/bringing-modern-javascript-to-the-jupyter-notebook-fc998095081e"
+    ]
+  ],
+  [
+    [
+      "2023-09-25, 09:23:25",
+      "https://lobste.rs/s/ieumku/bindiff_quickly_find_differences"
+    ],
+    [
+      "bindiff: Quickly find differences and similarities in disassembled code",
+      "https://github.com/google/bindiff"
+    ]
+  ],
+  [
+    [
       "2023-09-25, 09:16:48",
       "https://lobste.rs/s/uzjmam/mon_stupid_simple_monitoring"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-09-24, 00:57:11",
-      "https://lobste.rs/s/ihugsb/digital_pollution_2019"
-    ],
-    [
-      "Digital pollution (2019)",
-      "https://sive.rs/polut"
-    ]
-  ],
-  [
-    [
       "2023-09-23, 21:44:54",
       "https://lobste.rs/s/ppc3pi/recent_advances_computer_science_since"
     ],
@@ -237,16 +247,6 @@
     [
       "No Stale Bots",
       "https://nostalebots.xyz/"
-    ]
-  ],
-  [
-    [
-      "2023-09-23, 11:32:05",
-      "https://lobste.rs/s/lqbven/projekt_overflow_assembler_c_tabletop"
-    ],
-    [
-      "PROJEKT:OVERFLOW - Assembler and C tabletop board game",
-      "https://punkx.org/overflow"
     ]
   ]
 ]
