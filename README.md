@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-25, 21:59:33](https://lobste.rs/s/vb67oi/building_risingwave_connector_for) - [Building A RisingWave Connector for Django ORM](https://bas.codes/posts/django-risingwave)
 * [2023-09-25, 20:40:27](https://lobste.rs/s/myfi3p/debugging_zig_test_failure) - [Debugging a Zig Test Failure](https://zinascii.com/2023/debugging-a-zig-test-failure.html)
 * [2023-09-25, 20:13:30](https://lobste.rs/s/mwsk2m/picat_logic_based_multi_paradigm_pl_for) - [Picat: logic-based multi-paradigm PL for general-purpose applications](http://picat-lang.org/)
 * [2023-09-25, 19:20:20](https://lobste.rs/s/uhpfao/mcap_container_file_format_for_log_data) - [MCAP - container file format for log data](https://mcap.dev/)
 * [2023-09-25, 17:04:09](https://lobste.rs/s/wjlijb/interoperability_swift_s_super_power) - [Interoperability: Swift’s Super Power](https://speakinginswift.substack.com/p/interoperability-swifts-super-power)
 * [2023-09-25, 17:01:55](https://lobste.rs/s/hn0vds/brief_incomplete_mostly_wrong_devops) - [A Brief, Incomplete and Mostly Wrong Devops Glossary](https://earthly.dev/blog/devops-glossary/)
 * [2023-09-25, 16:10:04](https://lobste.rs/s/leyibh/lets_just_try_it) - [Lets just try it](https://frankwiles.com/posts/lets-just-try-it/)
-* [2023-09-25, 14:15:23](https://lobste.rs/s/q4j4vl/gold_standard_plotter_hp_7475a) - [Gold Standard Plotter - HP 7475A](https://www.youtube.com/watch?v=8785ktWD7vQ)
 * [2023-09-25, 14:00:35](https://lobste.rs/s/jgudu7/running_windows_95_on_pocket_pc) - [Running Windows 95 on a Pocket PC](https://www.hpcfactor.com/reviews/editorial/bochs-2-1-1)
 * [2023-09-25, 13:48:56](https://lobste.rs/s/qy7ea6/viable_rop_free_roadmap_for_i386_armv8) - [Viable ROP-free roadmap for i386/armv8/riscv64/alpha/sparc64](https://marc.info/?l=openbsd-tech&m=169558749114476&w=2)
 * [2023-09-25, 13:27:48](https://lobste.rs/s/ovrpwy/gleam_v0_31_0_released) - [Gleam v0.31.0 released](https://gleam.run/news/v0.31-keeping-dependencies-explicit/)
