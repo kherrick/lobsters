@@ -13,6 +13,7 @@
 * [2023-09-25, 13:18:43](https://lobste.rs/s/vsovl9/postscript_s_sudden_death_sonoma) - [PostScript’s sudden death in Sonoma](https://eclecticlight.co/2023/09/25/postscripts-sudden-death-in-sonoma/)
 * [2023-09-25, 11:32:55](https://lobste.rs/s/qqzk80/making_it_fast_shouldn_t_be_last_step) - [Making it fast shouldn't be the last step](https://ntietz.com/blog/make-it-fast-from-the-start/)
 * [2023-09-25, 09:25:15](https://lobste.rs/s/rrbznr/bringing_modern_javascript_deno_jupyter) - [Bringing Modern JavaScript (Deno) to the Jupyter Notebook](https://blog.jupyter.org/bringing-modern-javascript-to-the-jupyter-notebook-fc998095081e)
+* [2023-09-25, 09:23:25](https://lobste.rs/s/ieumku/bindiff_quickly_find_differences) - [bindiff: Quickly find differences and similarities in disassembled code](https://github.com/google/bindiff)
 * [2023-09-25, 09:16:48](https://lobste.rs/s/uzjmam/mon_stupid_simple_monitoring) - [μMon: Stupid simple monitoring](https://tomscii.sig7.se/2022/07/uMon-stupid-simple-monitoring)
 * [2023-09-25, 08:35:41](https://lobste.rs/s/hqvodq/monitoring_me) - [Monitoring and Me](https://gabrielsimmer.com/blog/monitoring-and-me)
 * [2023-09-25, 07:11:47](https://lobste.rs/s/mai6ft/running_nixos_on_proxmox) - [Running NixOS on Proxmox](https://mtlynch.io/notes/nixos-proxmox/)
@@ -24,7 +25,6 @@
 * [2023-09-24, 18:20:02](https://lobste.rs/s/rk3eft/choose_postgres_queue_technology) - [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
 * [2023-09-24, 17:30:10](https://lobste.rs/s/l5hxjl/3_irl_use_cases_for_python_htmx) - [3 IRL use cases for Python and HTMX](https://www.bitecode.dev/p/3-irl-use-cases-for-python-and-htmx)
 * [2023-09-24, 08:27:58](https://lobste.rs/s/7ooars/contributing_ocaml_collective) - [Contributing to OCaml: Collective maintenance](https://github.com/ocaml/ocaml/blob/trunk/CONTRIBUTING.md#collective-maintenance)
-* [2023-09-23, 19:26:37](https://lobste.rs/s/bkw5u0/no_stale_bots) - [No Stale Bots](https://nostalebots.xyz/)
 
 ## [Archives](archives/index.md)
 
