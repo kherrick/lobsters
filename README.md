@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-25, 09:25:15](https://lobste.rs/s/rrbznr/bringing_modern_javascript_deno_jupyter) - [Bringing Modern JavaScript (Deno) to the Jupyter Notebook](https://blog.jupyter.org/bringing-modern-javascript-to-the-jupyter-notebook-fc998095081e)
+* [2023-09-25, 09:23:25](https://lobste.rs/s/ieumku/bindiff_quickly_find_differences) - [bindiff: Quickly find differences and similarities in disassembled code](https://github.com/google/bindiff)
 * [2023-09-25, 09:16:48](https://lobste.rs/s/uzjmam/mon_stupid_simple_monitoring) - [μMon: Stupid simple monitoring](https://tomscii.sig7.se/2022/07/uMon-stupid-simple-monitoring)
 * [2023-09-25, 08:35:41](https://lobste.rs/s/hqvodq/monitoring_me) - [Monitoring and Me](https://gabrielsimmer.com/blog/monitoring-and-me)
 * [2023-09-25, 07:11:47](https://lobste.rs/s/mai6ft/running_nixos_on_proxmox) - [Running NixOS on Proxmox](https://mtlynch.io/notes/nixos-proxmox/)
@@ -21,10 +23,8 @@
 * [2023-09-24, 08:27:58](https://lobste.rs/s/7ooars/contributing_ocaml_collective) - [Contributing to OCaml: Collective maintenance](https://github.com/ocaml/ocaml/blob/trunk/CONTRIBUTING.md#collective-maintenance)
 * [2023-09-24, 03:21:34](https://lobste.rs/s/l9jbft/blocking_visual_studio_code_embedded) - [Blocking Visual Studio Code embedded reverse shell before it's too late](https://ipfyx.fr/post/visual-studio-code-tunnel/)
 * [2023-09-24, 01:19:56](https://lobste.rs/s/eqwtca/ditch_else) - [Ditch That Else](https://preslav.me/2023/09/22/ditch-that-else)
-* [2023-09-24, 00:57:11](https://lobste.rs/s/ihugsb/digital_pollution_2019) - [Digital pollution (2019)](https://sive.rs/polut)
 * [2023-09-23, 21:44:54](https://lobste.rs/s/ppc3pi/recent_advances_computer_science_since) - [Recent advances in computer science since 2010?](https://cstheory.stackexchange.com/questions/53343/recent-advances-in-computer-science-since-2010)
 * [2023-09-23, 19:26:37](https://lobste.rs/s/bkw5u0/no_stale_bots) - [No Stale Bots](https://nostalebots.xyz/)
-* [2023-09-23, 11:32:05](https://lobste.rs/s/lqbven/projekt_overflow_assembler_c_tabletop) - [PROJEKT:OVERFLOW - Assembler and C tabletop board game](https://punkx.org/overflow)
 
 ## [Archives](archives/index.md)
 

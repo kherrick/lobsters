@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-25](index.md)
 
+* [2023-09-25, 09:25:15](https://lobste.rs/s/rrbznr/bringing_modern_javascript_deno_jupyter) - [Bringing Modern JavaScript (Deno) to the Jupyter Notebook](https://blog.jupyter.org/bringing-modern-javascript-to-the-jupyter-notebook-fc998095081e)
+* [2023-09-25, 09:23:25](https://lobste.rs/s/ieumku/bindiff_quickly_find_differences) - [bindiff: Quickly find differences and similarities in disassembled code](https://github.com/google/bindiff)
 * [2023-09-25, 09:16:48](https://lobste.rs/s/uzjmam/mon_stupid_simple_monitoring) - [μMon: Stupid simple monitoring](https://tomscii.sig7.se/2022/07/uMon-stupid-simple-monitoring)
 * [2023-09-25, 08:35:41](https://lobste.rs/s/hqvodq/monitoring_me) - [Monitoring and Me](https://gabrielsimmer.com/blog/monitoring-and-me)
 * [2023-09-25, 07:11:47](https://lobste.rs/s/mai6ft/running_nixos_on_proxmox) - [Running NixOS on Proxmox](https://mtlynch.io/notes/nixos-proxmox/)
