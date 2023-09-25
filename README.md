@@ -15,7 +15,6 @@
 * [2023-09-25, 13:18:43](https://lobste.rs/s/vsovl9/postscript_s_sudden_death_sonoma) - [PostScript’s sudden death in Sonoma](https://eclecticlight.co/2023/09/25/postscripts-sudden-death-in-sonoma/)
 * [2023-09-25, 11:32:55](https://lobste.rs/s/qqzk80/making_it_fast_shouldn_t_be_last_step) - [Making it fast shouldn't be the last step](https://ntietz.com/blog/make-it-fast-from-the-start/)
 * [2023-09-25, 09:25:15](https://lobste.rs/s/rrbznr/bringing_modern_javascript_deno_jupyter) - [Bringing Modern JavaScript (Deno) to the Jupyter Notebook](https://blog.jupyter.org/bringing-modern-javascript-to-the-jupyter-notebook-fc998095081e)
-* [2023-09-25, 09:23:25](https://lobste.rs/s/ieumku/bindiff_quickly_find_differences) - [bindiff: Quickly find differences and similarities in disassembled code](https://github.com/google/bindiff)
 * [2023-09-25, 09:16:48](https://lobste.rs/s/uzjmam/mon_stupid_simple_monitoring) - [μMon: Stupid simple monitoring](https://tomscii.sig7.se/2022/07/uMon-stupid-simple-monitoring)
 * [2023-09-25, 08:35:41](https://lobste.rs/s/hqvodq/monitoring_me) - [Monitoring and Me](https://gabrielsimmer.com/blog/monitoring-and-me)
 * [2023-09-25, 07:11:47](https://lobste.rs/s/mai6ft/running_nixos_on_proxmox) - [Running NixOS on Proxmox](https://mtlynch.io/notes/nixos-proxmox/)
@@ -23,6 +22,7 @@
 * [2023-09-25, 00:58:54](https://lobste.rs/s/adnzen/software_packaging_is_nightmare) - [Software Packaging Is A Nightmare](https://cohost.org/PolyWolf/post/2613009-software-packaging-a)
 * [2023-09-24, 21:34:49](https://lobste.rs/s/okvfhi/announcing_comfy_new_fun_2d_game_engine) - [Announcing Comfy - a new fun 2d game engine in Rust/wgpu](https://github.com/darthdeus/comfy)
 * [2023-09-24, 20:12:13](https://lobste.rs/s/mu8fle/why_do_we_need_modules_at_all) - [Why do we need modules at all?](http://erlang.org/pipermail/erlang-questions/2011-May/058768.html)
+* [2023-09-24, 18:41:10](https://lobste.rs/s/jo6wmf/mythbusters_wing_commander_i_edition) - [Mythbusters: Wing Commander I Edition](https://www.wcnews.com/news/update/16279)
 * [2023-09-24, 18:20:02](https://lobste.rs/s/rk3eft/choose_postgres_queue_technology) - [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
 * [2023-09-24, 17:30:10](https://lobste.rs/s/l5hxjl/3_irl_use_cases_for_python_htmx) - [3 IRL use cases for Python and HTMX](https://www.bitecode.dev/p/3-irl-use-cases-for-python-and-htmx)
 
