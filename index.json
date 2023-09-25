@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2023-09-25, 01:12:33",
-      "https://lobste.rs/s/pyysai/knuth_s_20_questions_for_chatgpt"
-    ],
-    [
-      "Knuth's 20 Questions for ChatGPT",
-      "https://www-cs-faculty.stanford.edu/~knuth/chatGPT20.txt"
-    ]
-  ],
-  [
-    [
       "2023-09-25, 00:58:54",
       "https://lobste.rs/s/adnzen/software_packaging_is_nightmare"
     ],
@@ -197,6 +187,16 @@
     [
       "Prompt engineering for Claude's long context window",
       "https://www.anthropic.com/index/prompting-long-context"
+    ]
+  ],
+  [
+    [
+      "2023-09-24, 12:01:39",
+      "https://lobste.rs/s/zrprsj/platform_enables_windows_driver"
+    ],
+    [
+      "Platform that enables Windows driver development in Rust. Developed by Surface",
+      "https://github.com/microsoft/windows-drivers-rs"
     ]
   ],
   [
