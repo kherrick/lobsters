@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-25](index.md)
 
+* [2023-09-25, 22:51:13](https://lobste.rs/s/o4d3mr/geospatial_sql_queries_sqlite_using_tg) - [Geospatial SQL queries in SQLite using TG, sqlite-tg and datasette-sqlite-tg](https://til.simonwillison.net/sqlite/sqlite-tg)
 * [2023-09-25, 22:40:53](https://lobste.rs/s/oazilg/humanhash_human_readable_digests) - [humanhash: Human-readable digests](https://github.com/zacharyvoase/humanhash)
 * [2023-09-25, 21:59:33](https://lobste.rs/s/vb67oi/building_risingwave_connector_for) - [Building A RisingWave Connector for Django ORM](https://bas.codes/posts/django-risingwave)
 * [2023-09-25, 20:40:27](https://lobste.rs/s/myfi3p/debugging_zig_test_failure) - [Debugging a Zig Test Failure](https://zinascii.com/2023/debugging-a-zig-test-failure.html)
