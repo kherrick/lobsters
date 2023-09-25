@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-25, 08:35:41",
+      "https://lobste.rs/s/hqvodq/monitoring_me"
+    ],
+    [
+      "Monitoring and Me",
+      "https://gabrielsimmer.com/blog/monitoring-and-me"
+    ]
+  ],
+  [
+    [
       "2023-09-25, 07:11:47",
       "https://lobste.rs/s/mai6ft/running_nixos_on_proxmox"
     ],
@@ -157,16 +167,6 @@
     [
       "Platform that enables Windows driver development in Rust. Developed by Surface",
       "https://github.com/microsoft/windows-drivers-rs"
-    ]
-  ],
-  [
-    [
-      "2023-09-24, 10:06:57",
-      "https://lobste.rs/s/hrnw7f/implementing_smooth_plymouth_x"
-    ],
-    [
-      "Implementing smooth Plymouth ⟶ X transition (2009)",
-      "https://blogs.gnome.org/halfline/2009/11/28/plymouth-%E2%9F%B6-x-transition/"
     ]
   ],
   [
