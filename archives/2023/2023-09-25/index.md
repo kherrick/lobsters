@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-25](index.md)
 
+* [2023-09-25, 08:35:41](https://lobste.rs/s/hqvodq/monitoring_me) - [Monitoring and Me](https://gabrielsimmer.com/blog/monitoring-and-me)
 * [2023-09-25, 07:11:47](https://lobste.rs/s/mai6ft/running_nixos_on_proxmox) - [Running NixOS on Proxmox](https://mtlynch.io/notes/nixos-proxmox/)
 * [2023-09-25, 05:24:35](https://lobste.rs/s/blulbx/how_equifax_was_breached_2017) - [How Equifax Was Breached in 2017](https://blog.0x7d0.dev/history/how-equifax-was-breached-in-2017/)
 * [2023-09-25, 04:33:16](https://lobste.rs/s/qb44v1/flameshow_terminal_flamegraph_viewer) - [flameshow: A terminal Flamegraph viewer](https://github.com/laixintao/flameshow)

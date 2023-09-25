@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-25, 08:35:41](https://lobste.rs/s/hqvodq/monitoring_me) - [Monitoring and Me](https://gabrielsimmer.com/blog/monitoring-and-me)
 * [2023-09-25, 07:11:47](https://lobste.rs/s/mai6ft/running_nixos_on_proxmox) - [Running NixOS on Proxmox](https://mtlynch.io/notes/nixos-proxmox/)
 * [2023-09-25, 05:24:35](https://lobste.rs/s/blulbx/how_equifax_was_breached_2017) - [How Equifax Was Breached in 2017](https://blog.0x7d0.dev/history/how-equifax-was-breached-in-2017/)
 * [2023-09-25, 04:33:16](https://lobste.rs/s/qb44v1/flameshow_terminal_flamegraph_viewer) - [flameshow: A terminal Flamegraph viewer](https://github.com/laixintao/flameshow)
@@ -16,7 +17,6 @@
 * [2023-09-24, 14:15:45](https://lobste.rs/s/cs2og8/free_software_free_society) - [Free software, free society](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
 * [2023-09-24, 14:15:18](https://lobste.rs/s/yby2nr/prompt_engineering_for_claude_s_long) - [Prompt engineering for Claude's long context window](https://www.anthropic.com/index/prompting-long-context)
 * [2023-09-24, 12:01:39](https://lobste.rs/s/zrprsj/platform_enables_windows_driver) - [Platform that enables Windows driver development in Rust. Developed by Surface](https://github.com/microsoft/windows-drivers-rs)
-* [2023-09-24, 10:06:57](https://lobste.rs/s/hrnw7f/implementing_smooth_plymouth_x) - [Implementing smooth Plymouth ⟶ X transition (2009)](https://blogs.gnome.org/halfline/2009/11/28/plymouth-%E2%9F%B6-x-transition/)
 * [2023-09-24, 08:27:58](https://lobste.rs/s/7ooars/contributing_ocaml_collective) - [Contributing to OCaml: Collective maintenance](https://github.com/ocaml/ocaml/blob/trunk/CONTRIBUTING.md#collective-maintenance)
 * [2023-09-24, 03:21:34](https://lobste.rs/s/l9jbft/blocking_visual_studio_code_embedded) - [Blocking Visual Studio Code embedded reverse shell before it's too late](https://ipfyx.fr/post/visual-studio-code-tunnel/)
 * [2023-09-24, 01:19:56](https://lobste.rs/s/eqwtca/ditch_else) - [Ditch That Else](https://preslav.me/2023/09/22/ditch-that-else)
