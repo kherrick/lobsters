@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-25, 20:40:27](https://lobste.rs/s/myfi3p/debugging_zig_test_failure) - [Debugging a Zig Test Failure](https://zinascii.com/2023/debugging-a-zig-test-failure.html)
 * [2023-09-25, 20:13:30](https://lobste.rs/s/mwsk2m/picat_logic_based_multi_paradigm_pl_for) - [Picat: logic-based multi-paradigm PL for general-purpose applications](http://picat-lang.org/)
 * [2023-09-25, 19:20:20](https://lobste.rs/s/uhpfao/mcap_container_file_format_for_log_data) - [MCAP - container file format for log data](https://mcap.dev/)
 * [2023-09-25, 17:04:09](https://lobste.rs/s/wjlijb/interoperability_swift_s_super_power) - [Interoperability: Swift’s Super Power](https://speakinginswift.substack.com/p/interoperability-swifts-super-power)
@@ -24,7 +25,6 @@
 * [2023-09-24, 18:41:10](https://lobste.rs/s/jo6wmf/mythbusters_wing_commander_i_edition) - [Mythbusters: Wing Commander I Edition](https://www.wcnews.com/news/update/16279)
 * [2023-09-24, 18:20:02](https://lobste.rs/s/rk3eft/choose_postgres_queue_technology) - [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
 * [2023-09-24, 17:30:10](https://lobste.rs/s/l5hxjl/3_irl_use_cases_for_python_htmx) - [3 IRL use cases for Python and HTMX](https://www.bitecode.dev/p/3-irl-use-cases-for-python-and-htmx)
-* [2023-09-24, 08:27:58](https://lobste.rs/s/7ooars/contributing_ocaml_collective) - [Contributing to OCaml: Collective maintenance](https://github.com/ocaml/ocaml/blob/trunk/CONTRIBUTING.md#collective-maintenance)
 
 ## [Archives](archives/index.md)
 
