@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-25, 01:12:33](https://lobste.rs/s/pyysai/knuth_s_20_questions_for_chatgpt) - [Knuth's 20 Questions for ChatGPT](https://www-cs-faculty.stanford.edu/~knuth/chatGPT20.txt)
 * [2023-09-25, 00:58:54](https://lobste.rs/s/adnzen/software_packaging_is_nightmare) - [Software Packaging Is A Nightmare](https://cohost.org/PolyWolf/post/2613009-software-packaging-a)
 * [2023-09-24, 21:34:49](https://lobste.rs/s/okvfhi/announcing_comfy_new_fun_2d_game_engine) - [Announcing Comfy - a new fun 2d game engine in Rust/wgpu](https://github.com/darthdeus/comfy)
 * [2023-09-24, 20:49:27](https://lobste.rs/s/uz3tr2/solving_engineering_strategy_crisis) - [Solving the Engineering Strategy crisis](https://lethain.com/solving-the-engineering-strategy-crisis/)
@@ -20,7 +21,6 @@
 * [2023-09-23, 23:49:50](https://lobste.rs/s/lxa416/semgrep_static_analysis_journey) - [Semgrep: a static analysis journey](https://semgrep.dev/blog/2021/semgrep-a-static-analysis-journey/)
 * [2023-09-23, 21:44:54](https://lobste.rs/s/ppc3pi/recent_advances_computer_science_since) - [Recent advances in computer science since 2010?](https://cstheory.stackexchange.com/questions/53343/recent-advances-in-computer-science-since-2010)
 * [2023-09-23, 19:26:37](https://lobste.rs/s/bkw5u0/no_stale_bots) - [No Stale Bots](https://nostalebots.xyz/)
-* [2023-09-23, 17:30:47](https://lobste.rs/s/v6jbcx/fixing_memory_corruption_bug_go) - [Fixing a Memory Corruption Bug in Go](https://totallygamerjet.hashnode.dev/fixing-a-memory-corruption-bug-in-go)
 * [2023-09-23, 14:49:41](https://lobste.rs/s/g2ajzg/shshsh_bridge_between_python_shell) - [shshsh: a bridge between python and shell](https://github.com/zqqqqz2000/shshsh)
 * [2023-09-23, 12:49:18](https://lobste.rs/s/cxrd1l/gitops_is_means_where_is_end) - [GitOps Is a Means, Where Is the End?](https://www.flipt.io/blog/gitops-means-to-an-end)
 * [2023-09-23, 12:09:23](https://lobste.rs/s/4rgej4/luajit_v3_0_tracking_issue) - [LuaJIT v3.0 Tracking Issue](https://github.com/LuaJIT/LuaJIT/issues/1092)
