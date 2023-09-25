@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-25, 14:00:35",
+      "https://lobste.rs/s/jgudu7/running_windows_95_on_pocket_pc"
+    ],
+    [
+      "Running Windows 95 on a Pocket PC",
+      "https://www.hpcfactor.com/reviews/editorial/bochs-2-1-1"
+    ]
+  ],
+  [
+    [
       "2023-09-25, 13:48:56",
       "https://lobste.rs/s/qy7ea6/viable_rop_free_roadmap_for_i386_armv8"
     ],
@@ -217,16 +227,6 @@
     [
       "Contributing to OCaml: Collective maintenance",
       "https://github.com/ocaml/ocaml/blob/trunk/CONTRIBUTING.md#collective-maintenance"
-    ]
-  ],
-  [
-    [
-      "2023-09-24, 03:21:34",
-      "https://lobste.rs/s/l9jbft/blocking_visual_studio_code_embedded"
-    ],
-    [
-      "Blocking Visual Studio Code embedded reverse shell before it's too late",
-      "https://ipfyx.fr/post/visual-studio-code-tunnel/"
     ]
   ],
   [
