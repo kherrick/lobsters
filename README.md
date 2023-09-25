@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-25, 22:40:53](https://lobste.rs/s/oazilg/humanhash_human_readable_digests) - [humanhash: Human-readable digests](https://github.com/zacharyvoase/humanhash)
 * [2023-09-25, 21:59:33](https://lobste.rs/s/vb67oi/building_risingwave_connector_for) - [Building A RisingWave Connector for Django ORM](https://bas.codes/posts/django-risingwave)
 * [2023-09-25, 20:40:27](https://lobste.rs/s/myfi3p/debugging_zig_test_failure) - [Debugging a Zig Test Failure](https://zinascii.com/2023/debugging-a-zig-test-failure.html)
 * [2023-09-25, 20:13:30](https://lobste.rs/s/mwsk2m/picat_logic_based_multi_paradigm_pl_for) - [Picat: logic-based multi-paradigm PL for general-purpose applications](http://picat-lang.org/)
@@ -22,7 +23,6 @@
 * [2023-09-25, 00:58:54](https://lobste.rs/s/adnzen/software_packaging_is_nightmare) - [Software Packaging Is A Nightmare](https://cohost.org/PolyWolf/post/2613009-software-packaging-a)
 * [2023-09-24, 21:34:49](https://lobste.rs/s/okvfhi/announcing_comfy_new_fun_2d_game_engine) - [Announcing Comfy - a new fun 2d game engine in Rust/wgpu](https://github.com/darthdeus/comfy)
 * [2023-09-24, 20:12:13](https://lobste.rs/s/mu8fle/why_do_we_need_modules_at_all) - [Why do we need modules at all?](http://erlang.org/pipermail/erlang-questions/2011-May/058768.html)
-* [2023-09-24, 18:41:10](https://lobste.rs/s/jo6wmf/mythbusters_wing_commander_i_edition) - [Mythbusters: Wing Commander I Edition](https://www.wcnews.com/news/update/16279)
 * [2023-09-24, 18:20:02](https://lobste.rs/s/rk3eft/choose_postgres_queue_technology) - [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
 * [2023-09-24, 17:30:10](https://lobste.rs/s/l5hxjl/3_irl_use_cases_for_python_htmx) - [3 IRL use cases for Python and HTMX](https://www.bitecode.dev/p/3-irl-use-cases-for-python-and-htmx)
 
