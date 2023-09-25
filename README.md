@@ -14,7 +14,7 @@
 * [2023-09-24, 20:12:13](https://lobste.rs/s/mu8fle/why_do_we_need_modules_at_all) - [Why do we need modules at all?](http://erlang.org/pipermail/erlang-questions/2011-May/058768.html)
 * [2023-09-24, 18:41:10](https://lobste.rs/s/jo6wmf/mythbusters_wing_commander_i_edition) - [Mythbusters: Wing Commander I Edition](https://www.wcnews.com/news/update/16279)
 * [2023-09-24, 18:20:02](https://lobste.rs/s/rk3eft/choose_postgres_queue_technology) - [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
-* [2023-09-24, 17:52:22](https://lobste.rs/s/75l4io/gpu_gems_3) - [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/foreword)
+* [2023-09-24, 17:52:22](https://lobste.rs/s/75l4io/gpu_gems_3_2007) - [GPU Gems 3 (2007)](https://developer.nvidia.com/gpugems/gpugems3/foreword)
 * [2023-09-24, 17:30:10](https://lobste.rs/s/l5hxjl/3_irl_use_cases_for_python_htmx) - [3 IRL use cases for Python and HTMX](https://www.bitecode.dev/p/3-irl-use-cases-for-python-and-htmx)
 * [2023-09-24, 15:31:09](https://lobste.rs/s/dt20bm/you_can_be_lumberjack_s_okay) - [You Can Be a Lumberjack (and that's okay)](https://danielbmarkham.com/you-can-be-a-lumberjack-and-thats-okay/)
 * [2023-09-24, 14:15:45](https://lobste.rs/s/cs2og8/free_software_free_society) - [Free software, free society](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
