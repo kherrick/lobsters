@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-25, 11:32:55",
+      "https://lobste.rs/s/qqzk80/making_it_fast_shouldn_t_be_last_step"
+    ],
+    [
+      "Making it fast shouldn't be the last step",
+      "https://ntietz.com/blog/make-it-fast-from-the-start/"
+    ]
+  ],
+  [
+    [
       "2023-09-25, 09:25:15",
       "https://lobste.rs/s/rrbznr/bringing_modern_javascript_deno_jupyter"
     ],
@@ -187,16 +197,6 @@
     [
       "Prompt engineering for Claude's long context window",
       "https://www.anthropic.com/index/prompting-long-context"
-    ]
-  ],
-  [
-    [
-      "2023-09-24, 12:01:39",
-      "https://lobste.rs/s/zrprsj/platform_enables_windows_driver"
-    ],
-    [
-      "Platform that enables Windows driver development in Rust. Developed by Surface",
-      "https://github.com/microsoft/windows-drivers-rs"
     ]
   ],
   [
