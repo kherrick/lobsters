@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-25](index.md)
 
+* [2023-09-25, 14:00:35](https://lobste.rs/s/jgudu7/running_windows_95_on_pocket_pc) - [Running Windows 95 on a Pocket PC](https://www.hpcfactor.com/reviews/editorial/bochs-2-1-1)
 * [2023-09-25, 13:48:56](https://lobste.rs/s/qy7ea6/viable_rop_free_roadmap_for_i386_armv8) - [Viable ROP-free roadmap for i386/armv8/riscv64/alpha/sparc64](https://marc.info/?l=openbsd-tech&m=169558749114476&w=2)
 * [2023-09-25, 13:27:48](https://lobste.rs/s/ovrpwy/gleam_v0_31_0_released) - [Gleam v0.31.0 released](https://gleam.run/news/v0.31-keeping-dependencies-explicit/)
 * [2023-09-25, 13:20:24](https://lobste.rs/s/gwvmdy/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/gwvmdy/what_are_you_doing_this_week)
