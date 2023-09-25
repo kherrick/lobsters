@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-25](index.md)
 
+* [2023-09-25, 13:27:48](https://lobste.rs/s/ovrpwy/gleam_v0_31_0_released) - [Gleam v0.31.0 released](https://gleam.run/news/v0.31-keeping-dependencies-explicit/)
+* [2023-09-25, 13:20:24](https://lobste.rs/s/gwvmdy/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/gwvmdy/what_are_you_doing_this_week)
 * [2023-09-25, 13:18:43](https://lobste.rs/s/vsovl9/postscript_s_sudden_death_sonoma) - [PostScript’s sudden death in Sonoma](https://eclecticlight.co/2023/09/25/postscripts-sudden-death-in-sonoma/)
 * [2023-09-25, 11:32:55](https://lobste.rs/s/qqzk80/making_it_fast_shouldn_t_be_last_step) - [Making it fast shouldn't be the last step](https://ntietz.com/blog/make-it-fast-from-the-start/)
 * [2023-09-25, 09:25:15](https://lobste.rs/s/rrbznr/bringing_modern_javascript_deno_jupyter) - [Bringing Modern JavaScript (Deno) to the Jupyter Notebook](https://blog.jupyter.org/bringing-modern-javascript-to-the-jupyter-notebook-fc998095081e)
