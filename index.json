@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-25, 16:10:04",
+      "https://lobste.rs/s/leyibh/lets_just_try_it"
+    ],
+    [
+      "Lets just try it",
+      "https://frankwiles.com/posts/lets-just-try-it/"
+    ]
+  ],
+  [
+    [
       "2023-09-25, 14:15:23",
       "https://lobste.rs/s/q4j4vl/gold_standard_plotter_hp_7475a"
     ],
@@ -87,16 +97,6 @@
     [
       "Bringing Modern JavaScript (Deno) to the Jupyter Notebook",
       "https://blog.jupyter.org/bringing-modern-javascript-to-the-jupyter-notebook-fc998095081e"
-    ]
-  ],
-  [
-    [
-      "2023-09-25, 09:23:25",
-      "https://lobste.rs/s/ieumku/bindiff_quickly_find_differences"
-    ],
-    [
-      "bindiff: Quickly find differences and similarities in disassembled code",
-      "https://github.com/google/bindiff"
     ]
   ],
   [
