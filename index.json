@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-26, 19:23:21",
+      "https://lobste.rs/s/dx3mj6/using_monadlogger_without_loggingt"
+    ],
+    [
+      "Using MonadLogger without LoggingT",
+      "https://nicolashery.com/monadlogger-without-loggingt/"
+    ]
+  ],
+  [
+    [
       "2023-09-26, 18:11:15",
       "https://lobste.rs/s/ikjs0s/exploring_linux_command_line_space_time"
     ],
@@ -167,16 +177,6 @@
     [
       "Geospatial SQL queries in SQLite using TG, sqlite-tg and datasette-sqlite-tg",
       "https://til.simonwillison.net/sqlite/sqlite-tg"
-    ]
-  ],
-  [
-    [
-      "2023-09-25, 20:40:27",
-      "https://lobste.rs/s/myfi3p/debugging_zig_test_failure"
-    ],
-    [
-      "Debugging a Zig Test Failure",
-      "https://zinascii.com/2023/debugging-a-zig-test-failure.html"
     ]
   ],
   [
