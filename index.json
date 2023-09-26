@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-26, 20:03:46",
+      "https://lobste.rs/s/liyvri/managed_databases_with_sqlc_vet"
+    ],
+    [
+      "Managed databases with sqlc vet",
+      "https://sqlc.dev/posts/2023/09/25/v1.22.0-managed-databases/"
+    ]
+  ],
+  [
+    [
       "2023-09-26, 19:23:21",
       "https://lobste.rs/s/dx3mj6/using_monadlogger_without_loggingt"
     ],
@@ -57,16 +67,6 @@
     [
       "rde: Tools for managing reproducible development environments w/ guix",
       "https://sr.ht/~abcdw/rde/"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 15:37:54",
-      "https://lobste.rs/s/cb8gpw/using_secondary_klipper_for_3d_printer"
-    ],
-    [
-      "Using a Secondary Klipper for 3D Printer Power Control",
-      "https://www.petekeen.net/secondary-klipper-for-power-control"
     ]
   ],
   [
