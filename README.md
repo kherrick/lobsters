@@ -14,6 +14,7 @@
 * [2023-09-26, 00:58:29](https://lobste.rs/s/bblmhb/pitfalls_programming_with_dependent) - [Pitfalls of Programming with Dependent Types](https://lean-lang.org/functional_programming_in_lean/dependent-types/pitfalls.html)
 * [2023-09-25, 22:51:13](https://lobste.rs/s/o4d3mr/geospatial_sql_queries_sqlite_using_tg) - [Geospatial SQL queries in SQLite using TG, sqlite-tg and datasette-sqlite-tg](https://til.simonwillison.net/sqlite/sqlite-tg)
 * [2023-09-25, 22:40:53](https://lobste.rs/s/oazilg/humanhash_human_readable_digests) - [humanhash: Human-readable digests](https://github.com/zacharyvoase/humanhash)
+* [2023-09-25, 20:40:27](https://lobste.rs/s/myfi3p/debugging_zig_test_failure) - [Debugging a Zig Test Failure](https://zinascii.com/2023/debugging-a-zig-test-failure.html)
 * [2023-09-25, 20:13:30](https://lobste.rs/s/mwsk2m/picat_logic_based_multi_paradigm_pl_for) - [Picat: logic-based multi-paradigm PL for general-purpose applications](http://picat-lang.org/)
 * [2023-09-25, 17:04:09](https://lobste.rs/s/wjlijb/interoperability_swift_s_super_power) - [Interoperability: Swift’s Super Power](https://speakinginswift.substack.com/p/interoperability-swifts-super-power)
 * [2023-09-25, 16:10:04](https://lobste.rs/s/leyibh/lets_just_try_it) - [Lets just try it](https://frankwiles.com/posts/lets-just-try-it/)
@@ -23,7 +24,6 @@
 * [2023-09-25, 13:18:43](https://lobste.rs/s/vsovl9/postscript_s_sudden_death_sonoma) - [PostScript’s sudden death in Sonoma](https://eclecticlight.co/2023/09/25/postscripts-sudden-death-in-sonoma/)
 * [2023-09-25, 11:32:55](https://lobste.rs/s/qqzk80/making_it_fast_shouldn_t_be_last_step) - [Making it fast shouldn't be the last step](https://ntietz.com/blog/make-it-fast-from-the-start/)
 * [2023-09-25, 09:16:48](https://lobste.rs/s/uzjmam/mon_stupid_simple_monitoring) - [μMon: Stupid simple monitoring](https://tomscii.sig7.se/2022/07/uMon-stupid-simple-monitoring)
-* [2023-09-25, 04:33:16](https://lobste.rs/s/qb44v1/flameshow_terminal_flamegraph_viewer) - [flameshow: A terminal Flamegraph viewer](https://github.com/laixintao/flameshow)
 * [2023-09-24, 18:20:02](https://lobste.rs/s/rk3eft/choose_postgres_queue_technology) - [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
 
 ## [Archives](archives/index.md)
