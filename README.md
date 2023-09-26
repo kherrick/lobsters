@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-26, 21:38:00](https://lobste.rs/s/dpmfrd/dotfiles_matter) - [Dotfiles matter](https://dotfiles-matter.click/)
 * [2023-09-26, 21:15:20](https://lobste.rs/s/nntmwc/introduction_sysclean_8_on_openbsd) - [Introduction to sysclean(8) on OpenBSD](https://kapouay.eu.org/notes/sysclean-intro/)
 * [2023-09-26, 21:14:26](https://lobste.rs/s/33lfac/make_your_own_vpn_wireguard_on_freebsd_on) - [Make Your Own VPN – Wireguard on FreeBSD on IPv6 with AD Blocking Included](https://it-notes.dragas.net/2023/09/23/make-your-own-vpn-freebsd-wireguard-ipv6-and-ad-blocking-included/)
 * [2023-09-26, 21:13:51](https://lobste.rs/s/ixvlpq/freebsd_on_raspberry_pi_with_bastille) - [FreeBSD on Raspberry Pi with Bastille Jails](https://eldapper.wordpress.com/2023/09/18/freebsd-on-raspberry-pi-with-bastille-jails/)
@@ -19,7 +20,6 @@
 * [2023-09-26, 03:51:10](https://lobste.rs/s/pdls0c/guids_how_i_messed_up_my_rss_feed) - [GUIDs - How I messed up my RSS feed](https://theorangeone.net/posts/rss-guids/)
 * [2023-09-26, 03:48:27](https://lobste.rs/s/1keeke/lil_scripting_language) - [Lil: A Scripting Language](http://beyondloom.com/decker/lil.html)
 * [2023-09-26, 03:07:04](https://lobste.rs/s/5uyjxi/linux_from_scratch) - [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/stable/)
-* [2023-09-26, 00:58:29](https://lobste.rs/s/bblmhb/pitfalls_programming_with_dependent) - [Pitfalls of Programming with Dependent Types](https://lean-lang.org/functional_programming_in_lean/dependent-types/pitfalls.html)
 * [2023-09-25, 22:51:13](https://lobste.rs/s/o4d3mr/geospatial_sql_queries_sqlite_using_tg) - [Geospatial SQL queries in SQLite using TG, sqlite-tg and datasette-sqlite-tg](https://til.simonwillison.net/sqlite/sqlite-tg)
 * [2023-09-25, 16:10:04](https://lobste.rs/s/leyibh/lets_just_try_it) - [Lets just try it](https://frankwiles.com/posts/lets-just-try-it/)
 * [2023-09-25, 13:48:56](https://lobste.rs/s/qy7ea6/viable_rop_free_roadmap_for_i386_armv8) - [Viable ROP-free roadmap for i386/armv8/riscv64/alpha/sparc64](https://marc.info/?l=openbsd-tech&m=169558749114476&w=2)
