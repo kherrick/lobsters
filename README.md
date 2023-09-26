@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-09-26, 04:51:03](https://lobste.rs/s/xmuu2z/what_tools_do_you_use_when_you_only_care) - [What Tools Do You Use When You Only Care About Dev Velocity?](https://lobste.rs/s/xmuu2z/what_tools_do_you_use_when_you_only_care)
 * [2023-09-26, 03:53:52](https://lobste.rs/s/pdfm94/web_search_keywords_krunner_tales) - [Web-Search-Keywords in KRunner, tales of optimizations](https://write.as/alexander-lohnau/web-search-keywords-in-krunner-tales-of-optimizations)
 * [2023-09-26, 03:51:10](https://lobste.rs/s/pdls0c/guids_how_i_messed_up_my_rss_feed) - [GUIDs - How I messed up my RSS feed](https://theorangeone.net/posts/rss-guids/)
 * [2023-09-26, 03:48:27](https://lobste.rs/s/1keeke/lil_scripting_language) - [Lil: A Scripting Language](http://beyondloom.com/decker/lil.html)
@@ -23,6 +22,7 @@
 * [2023-09-25, 08:35:41](https://lobste.rs/s/hqvodq/monitoring_me) - [Monitoring and Me](https://gabrielsimmer.com/blog/monitoring-and-me)
 * [2023-09-25, 04:33:16](https://lobste.rs/s/qb44v1/flameshow_terminal_flamegraph_viewer) - [flameshow: A terminal Flamegraph viewer](https://github.com/laixintao/flameshow)
 * [2023-09-25, 00:58:54](https://lobste.rs/s/adnzen/software_packaging_is_nightmare) - [Software Packaging Is A Nightmare](https://cohost.org/PolyWolf/post/2613009-software-packaging-a)
+* [2023-09-24, 21:34:49](https://lobste.rs/s/okvfhi/announcing_comfy_new_fun_2d_game_engine) - [Announcing Comfy - a new fun 2d game engine in Rust/wgpu](https://github.com/darthdeus/comfy)
 * [2023-09-24, 20:12:13](https://lobste.rs/s/mu8fle/why_do_we_need_modules_at_all_2011) - [Why do we need modules at all? (2011)](http://erlang.org/pipermail/erlang-questions/2011-May/058768.html)
 * [2023-09-24, 18:20:02](https://lobste.rs/s/rk3eft/choose_postgres_queue_technology) - [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
 
