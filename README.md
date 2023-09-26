@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-26, 15:37:54](https://lobste.rs/s/cb8gpw/using_secondary_klipper_for_3d_printer) - [Using a Secondary Klipper for 3D Printer Power Control](https://www.petekeen.net/secondary-klipper-for-power-control)
 * [2023-09-26, 13:42:57](https://lobste.rs/s/orejex/folded_polynomial_n64_optimization) - [The Folded Polynomial - N64 Optimization](https://www.youtube.com/watch?v=hffgNRfL1XY)
 * [2023-09-26, 13:30:04](https://lobste.rs/s/uhu2w7/water_surface_simulation_on_nes) - [Water surface simulation on the NES](https://www.kickstarter.com/projects/morphcat-games/triple-jump-a-platformer-multi-cartridge-for-the-nes/posts/3918838)
 * [2023-09-26, 12:23:17](https://lobste.rs/s/nbqo7g/cut_paste_user_creation_statement_with) - [Cut & Paste a User Creation Statement with MySQL 8](https://lefred.be/content/cut-paste-a-user-creation-statement-with-mysql-8/)
@@ -15,7 +16,6 @@
 * [2023-09-25, 22:40:53](https://lobste.rs/s/oazilg/humanhash_human_readable_digests) - [humanhash: Human-readable digests](https://github.com/zacharyvoase/humanhash)
 * [2023-09-25, 20:13:30](https://lobste.rs/s/mwsk2m/picat_logic_based_multi_paradigm_pl_for) - [Picat: logic-based multi-paradigm PL for general-purpose applications](http://picat-lang.org/)
 * [2023-09-25, 17:04:09](https://lobste.rs/s/wjlijb/interoperability_swift_s_super_power) - [Interoperability: Swift’s Super Power](https://speakinginswift.substack.com/p/interoperability-swifts-super-power)
-* [2023-09-25, 17:01:55](https://lobste.rs/s/hn0vds/brief_incomplete_mostly_wrong_devops) - [A Brief, Incomplete and Mostly Wrong Devops Glossary](https://earthly.dev/blog/devops-glossary/)
 * [2023-09-25, 16:10:04](https://lobste.rs/s/leyibh/lets_just_try_it) - [Lets just try it](https://frankwiles.com/posts/lets-just-try-it/)
 * [2023-09-25, 13:48:56](https://lobste.rs/s/qy7ea6/viable_rop_free_roadmap_for_i386_armv8) - [Viable ROP-free roadmap for i386/armv8/riscv64/alpha/sparc64](https://marc.info/?l=openbsd-tech&m=169558749114476&w=2)
 * [2023-09-25, 13:27:48](https://lobste.rs/s/ovrpwy/gleam_v0_31_0_released) - [Gleam v0.31.0 released](https://gleam.run/news/v0.31-keeping-dependencies-explicit/)
