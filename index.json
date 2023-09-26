@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-26, 18:11:15",
+      "https://lobste.rs/s/ikjs0s/exploring_linux_command_line_space_time"
+    ],
+    [
+      "Exploring Linux command-line space time",
+      "https://fabiensanglard.net/st/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-09-26, 18:07:24",
+      "https://lobste.rs/s/tmk2il/formal_methods_can_t_fix_everything_s_okay"
+    ],
+    [
+      "Formal Methods can't fix everything and that's okay",
+      "https://buttondown.email/hillelwayne/archive/formal-methods-cant-fix-everything-and-thats-okay/"
+    ]
+  ],
+  [
+    [
       "2023-09-26, 17:31:57",
       "https://lobste.rs/s/zwthrh/organizing_go_module"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-09-25, 22:40:53",
-      "https://lobste.rs/s/oazilg/humanhash_human_readable_digests"
-    ],
-    [
-      "humanhash: Human-readable digests",
-      "https://github.com/zacharyvoase/humanhash"
-    ]
-  ],
-  [
-    [
       "2023-09-25, 20:40:27",
       "https://lobste.rs/s/myfi3p/debugging_zig_test_failure"
     ],
@@ -237,16 +247,6 @@
     [
       "μMon: Stupid simple monitoring",
       "https://tomscii.sig7.se/2022/07/uMon-stupid-simple-monitoring"
-    ]
-  ],
-  [
-    [
-      "2023-09-24, 18:20:02",
-      "https://lobste.rs/s/rk3eft/choose_postgres_queue_technology"
-    ],
-    [
-      "Choose Postgres queue technology",
-      "https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/"
     ]
   ]
 ]
