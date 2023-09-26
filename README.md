@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-26, 17:17:53](https://lobste.rs/s/eu3czk/trigraphs_digraphs) - [Trigraphs and Digraphs](https://www.logikalsolutions.com/wordpress/information-technology/trigraphs/)
 * [2023-09-26, 17:12:23](https://lobste.rs/s/xswrjc/rde_tools_for_managing_reproducible) - [rde: Tools for managing reproducible development environments w/ guix](https://sr.ht/~abcdw/rde/)
 * [2023-09-26, 15:37:54](https://lobste.rs/s/cb8gpw/using_secondary_klipper_for_3d_printer) - [Using a Secondary Klipper for 3D Printer Power Control](https://www.petekeen.net/secondary-klipper-for-power-control)
 * [2023-09-26, 13:42:57](https://lobste.rs/s/orejex/folded_polynomial_n64_optimization) - [The Folded Polynomial - N64 Optimization](https://www.youtube.com/watch?v=hffgNRfL1XY)
 * [2023-09-26, 13:30:04](https://lobste.rs/s/uhu2w7/water_surface_simulation_on_nes) - [Water surface simulation on the NES](https://www.kickstarter.com/projects/morphcat-games/triple-jump-a-platformer-multi-cartridge-for-the-nes/posts/3918838)
-* [2023-09-26, 12:23:17](https://lobste.rs/s/nbqo7g/cut_paste_user_creation_statement_with) - [Cut & Paste a User Creation Statement with MySQL 8](https://lefred.be/content/cut-paste-a-user-creation-statement-with-mysql-8/)
 * [2023-09-26, 12:07:24](https://lobste.rs/s/mfupg5/upsert_sql) - [Upsert in SQL](https://antonz.org/sql-upsert/)
 * [2023-09-26, 11:21:25](https://lobste.rs/s/ae81yw/adding_runtime_benchmarks_rust_compiler) - [Adding runtime benchmarks to the Rust compiler benchmark suite](https://kobzol.github.io/rust/rustc/2023/09/23/rustc-runtime-benchmarks.html)
 * [2023-09-26, 11:09:37](https://lobste.rs/s/wdi78j/how_not_apply_for_software_job) - [How (not) to apply for a software job](https://benhoyt.com/writings/how-to-apply/)
