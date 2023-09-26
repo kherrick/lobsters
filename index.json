@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2023-09-25, 14:13:08",
-      "https://lobste.rs/s/bokcod/small_language_model_made_from"
-    ],
-    [
-      "A small language model made from matchboxes",
-      "https://dcorney.com/thoughts/2023/09/23/matchboxes.html"
-    ]
-  ],
-  [
-    [
       "2023-09-25, 14:00:35",
       "https://lobste.rs/s/jgudu7/running_windows_95_on_pocket_pc"
     ],
@@ -171,6 +161,16 @@
   ],
   [
     [
+      "2023-09-25, 09:23:25",
+      "https://lobste.rs/s/ieumku/bindiff_quickly_find_differences"
+    ],
+    [
+      "bindiff: Quickly find differences and similarities in disassembled code",
+      "https://github.com/google/bindiff"
+    ]
+  ],
+  [
+    [
       "2023-09-25, 09:16:48",
       "https://lobste.rs/s/uzjmam/mon_stupid_simple_monitoring"
     ],
@@ -187,6 +187,16 @@
     [
       "Monitoring and Me",
       "https://gabrielsimmer.com/blog/monitoring-and-me"
+    ]
+  ],
+  [
+    [
+      "2023-09-25, 07:11:47",
+      "https://lobste.rs/s/mai6ft/running_nixos_on_proxmox"
+    ],
+    [
+      "Running NixOS on Proxmox",
+      "https://mtlynch.io/notes/nixos-proxmox/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Choose Postgres queue technology",
       "https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/"
-    ]
-  ],
-  [
-    [
-      "2023-09-24, 17:30:10",
-      "https://lobste.rs/s/l5hxjl/3_irl_use_cases_for_python_htmx"
-    ],
-    [
-      "3 IRL use cases for Python and HTMX",
-      "https://www.bitecode.dev/p/3-irl-use-cases-for-python-and-htmx"
     ]
   ]
 ]
