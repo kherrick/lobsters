@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
+* [2023-09-26, 20:53:20](https://lobste.rs/s/nyjqnv/eyra_is_interesting_rust_project) - [Eyra is an interesting Rust project](https://notgull.net/eyra/)
 * [2023-09-26, 20:50:05](https://lobste.rs/s/a5aqvl/counting_ghosts_case_for_abandoning_web) - [Counting Ghosts: A case for abandoning web analytics](https://pcmaffey.com/counting-ghosts)
 * [2023-09-26, 20:03:46](https://lobste.rs/s/liyvri/managed_databases_with_sqlc_vet) - [Managed databases with sqlc vet](https://sqlc.dev/posts/2023/09/25/v1.22.0-managed-databases/)
 * [2023-09-26, 19:23:21](https://lobste.rs/s/dx3mj6/using_monadlogger_without_loggingt) - [Using MonadLogger without LoggingT](https://nicolashery.com/monadlogger-without-loggingt/)
