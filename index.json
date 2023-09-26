@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-26, 13:42:57",
+      "https://lobste.rs/s/orejex/folded_polynomial_n64_optimization"
+    ],
+    [
+      "The Folded Polynomial - N64 Optimization",
+      "https://www.youtube.com/watch?v=hffgNRfL1XY"
+    ]
+  ],
+  [
+    [
       "2023-09-26, 13:30:04",
       "https://lobste.rs/s/uhu2w7/water_surface_simulation_on_nes"
     ],
@@ -107,16 +117,6 @@
     [
       "Geospatial SQL queries in SQLite using TG, sqlite-tg and datasette-sqlite-tg",
       "https://til.simonwillison.net/sqlite/sqlite-tg"
-    ]
-  ],
-  [
-    [
-      "2023-09-25, 22:40:53",
-      "https://lobste.rs/s/oazilg/humanhash_human_readable_digests"
-    ],
-    [
-      "humanhash: Human-readable digests",
-      "https://github.com/zacharyvoase/humanhash"
     ]
   ],
   [
