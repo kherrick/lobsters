@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-26, 18:11:15](https://lobste.rs/s/ikjs0s/exploring_linux_command_line_space_time) - [Exploring Linux command-line space time](https://fabiensanglard.net/st/index.html)
+* [2023-09-26, 18:07:24](https://lobste.rs/s/tmk2il/formal_methods_can_t_fix_everything_s_okay) - [Formal Methods can't fix everything and that's okay](https://buttondown.email/hillelwayne/archive/formal-methods-cant-fix-everything-and-thats-okay/)
 * [2023-09-26, 17:31:57](https://lobste.rs/s/zwthrh/organizing_go_module) - [Organizing a Go module](https://go.dev/doc/modules/layout)
 * [2023-09-26, 17:17:53](https://lobste.rs/s/eu3czk/trigraphs_digraphs) - [Trigraphs and Digraphs](https://www.logikalsolutions.com/wordpress/information-technology/trigraphs/)
 * [2023-09-26, 17:12:23](https://lobste.rs/s/xswrjc/rde_tools_for_managing_reproducible) - [rde: Tools for managing reproducible development environments w/ guix](https://sr.ht/~abcdw/rde/)
@@ -15,7 +17,6 @@
 * [2023-09-26, 03:07:04](https://lobste.rs/s/5uyjxi/linux_from_scratch) - [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/stable/)
 * [2023-09-26, 00:58:29](https://lobste.rs/s/bblmhb/pitfalls_programming_with_dependent) - [Pitfalls of Programming with Dependent Types](https://lean-lang.org/functional_programming_in_lean/dependent-types/pitfalls.html)
 * [2023-09-25, 22:51:13](https://lobste.rs/s/o4d3mr/geospatial_sql_queries_sqlite_using_tg) - [Geospatial SQL queries in SQLite using TG, sqlite-tg and datasette-sqlite-tg](https://til.simonwillison.net/sqlite/sqlite-tg)
-* [2023-09-25, 22:40:53](https://lobste.rs/s/oazilg/humanhash_human_readable_digests) - [humanhash: Human-readable digests](https://github.com/zacharyvoase/humanhash)
 * [2023-09-25, 20:40:27](https://lobste.rs/s/myfi3p/debugging_zig_test_failure) - [Debugging a Zig Test Failure](https://zinascii.com/2023/debugging-a-zig-test-failure.html)
 * [2023-09-25, 16:10:04](https://lobste.rs/s/leyibh/lets_just_try_it) - [Lets just try it](https://frankwiles.com/posts/lets-just-try-it/)
 * [2023-09-25, 13:48:56](https://lobste.rs/s/qy7ea6/viable_rop_free_roadmap_for_i386_armv8) - [Viable ROP-free roadmap for i386/armv8/riscv64/alpha/sparc64](https://marc.info/?l=openbsd-tech&m=169558749114476&w=2)
@@ -24,7 +25,6 @@
 * [2023-09-25, 13:18:43](https://lobste.rs/s/vsovl9/postscript_s_sudden_death_sonoma) - [PostScript’s sudden death in Sonoma](https://eclecticlight.co/2023/09/25/postscripts-sudden-death-in-sonoma/)
 * [2023-09-25, 11:32:55](https://lobste.rs/s/qqzk80/making_it_fast_shouldn_t_be_last_step) - [Making it fast shouldn't be the last step](https://ntietz.com/blog/make-it-fast-from-the-start/)
 * [2023-09-25, 09:16:48](https://lobste.rs/s/uzjmam/mon_stupid_simple_monitoring) - [μMon: Stupid simple monitoring](https://tomscii.sig7.se/2022/07/uMon-stupid-simple-monitoring)
-* [2023-09-24, 18:20:02](https://lobste.rs/s/rk3eft/choose_postgres_queue_technology) - [Choose Postgres queue technology](https://adriano.fyi/posts/2023-09-24-choose-postgres-queue-technology/)
 
 ## [Archives](archives/index.md)
 

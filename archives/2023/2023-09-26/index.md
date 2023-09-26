@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
+* [2023-09-26, 18:11:15](https://lobste.rs/s/ikjs0s/exploring_linux_command_line_space_time) - [Exploring Linux command-line space time](https://fabiensanglard.net/st/index.html)
+* [2023-09-26, 18:07:24](https://lobste.rs/s/tmk2il/formal_methods_can_t_fix_everything_s_okay) - [Formal Methods can't fix everything and that's okay](https://buttondown.email/hillelwayne/archive/formal-methods-cant-fix-everything-and-thats-okay/)
 * [2023-09-26, 17:31:57](https://lobste.rs/s/zwthrh/organizing_go_module) - [Organizing a Go module](https://go.dev/doc/modules/layout)
 * [2023-09-26, 17:17:53](https://lobste.rs/s/eu3czk/trigraphs_digraphs) - [Trigraphs and Digraphs](https://www.logikalsolutions.com/wordpress/information-technology/trigraphs/)
 * [2023-09-26, 17:12:23](https://lobste.rs/s/xswrjc/rde_tools_for_managing_reproducible) - [rde: Tools for managing reproducible development environments w/ guix](https://sr.ht/~abcdw/rde/)
