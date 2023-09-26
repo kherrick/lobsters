@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
+* [2023-09-26, 17:31:57](https://lobste.rs/s/zwthrh/organizing_go_module) - [Organizing a Go module](https://go.dev/doc/modules/layout)
 * [2023-09-26, 17:17:53](https://lobste.rs/s/eu3czk/trigraphs_digraphs) - [Trigraphs and Digraphs](https://www.logikalsolutions.com/wordpress/information-technology/trigraphs/)
 * [2023-09-26, 17:12:23](https://lobste.rs/s/xswrjc/rde_tools_for_managing_reproducible) - [rde: Tools for managing reproducible development environments w/ guix](https://sr.ht/~abcdw/rde/)
 * [2023-09-26, 15:37:54](https://lobste.rs/s/cb8gpw/using_secondary_klipper_for_3d_printer) - [Using a Secondary Klipper for 3D Printer Power Control](https://www.petekeen.net/secondary-klipper-for-power-control)

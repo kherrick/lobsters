@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-26, 17:31:57](https://lobste.rs/s/zwthrh/organizing_go_module) - [Organizing a Go module](https://go.dev/doc/modules/layout)
 * [2023-09-26, 17:17:53](https://lobste.rs/s/eu3czk/trigraphs_digraphs) - [Trigraphs and Digraphs](https://www.logikalsolutions.com/wordpress/information-technology/trigraphs/)
 * [2023-09-26, 17:12:23](https://lobste.rs/s/xswrjc/rde_tools_for_managing_reproducible) - [rde: Tools for managing reproducible development environments w/ guix](https://sr.ht/~abcdw/rde/)
 * [2023-09-26, 15:37:54](https://lobste.rs/s/cb8gpw/using_secondary_klipper_for_3d_printer) - [Using a Secondary Klipper for 3D Printer Power Control](https://www.petekeen.net/secondary-klipper-for-power-control)
@@ -16,7 +17,6 @@
 * [2023-09-25, 22:51:13](https://lobste.rs/s/o4d3mr/geospatial_sql_queries_sqlite_using_tg) - [Geospatial SQL queries in SQLite using TG, sqlite-tg and datasette-sqlite-tg](https://til.simonwillison.net/sqlite/sqlite-tg)
 * [2023-09-25, 22:40:53](https://lobste.rs/s/oazilg/humanhash_human_readable_digests) - [humanhash: Human-readable digests](https://github.com/zacharyvoase/humanhash)
 * [2023-09-25, 20:40:27](https://lobste.rs/s/myfi3p/debugging_zig_test_failure) - [Debugging a Zig Test Failure](https://zinascii.com/2023/debugging-a-zig-test-failure.html)
-* [2023-09-25, 17:04:09](https://lobste.rs/s/wjlijb/interoperability_swift_s_super_power) - [Interoperability: Swift’s Super Power](https://speakinginswift.substack.com/p/interoperability-swifts-super-power)
 * [2023-09-25, 16:10:04](https://lobste.rs/s/leyibh/lets_just_try_it) - [Lets just try it](https://frankwiles.com/posts/lets-just-try-it/)
 * [2023-09-25, 13:48:56](https://lobste.rs/s/qy7ea6/viable_rop_free_roadmap_for_i386_armv8) - [Viable ROP-free roadmap for i386/armv8/riscv64/alpha/sparc64](https://marc.info/?l=openbsd-tech&m=169558749114476&w=2)
 * [2023-09-25, 13:27:48](https://lobste.rs/s/ovrpwy/gleam_v0_31_0_released) - [Gleam v0.31.0 released](https://gleam.run/news/v0.31-keeping-dependencies-explicit/)
