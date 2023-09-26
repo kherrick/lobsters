@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-09-26, 13:58:47",
-      "https://lobste.rs/s/3fn8iv/importing_overture_maps_data_into_neo4j"
-    ],
-    [
-      "Importing Overture Maps Data Into Neo4j",
-      "https://lyonwj.com/blog/importing-overture-maps-neo4j-aws-athena-spatial-sql-query"
-    ]
-  ],
-  [
-    [
       "2023-09-26, 13:42:57",
       "https://lobste.rs/s/orejex/folded_polynomial_n64_optimization"
     ],
@@ -157,6 +147,16 @@
     [
       "Interoperability: Swift’s Super Power",
       "https://speakinginswift.substack.com/p/interoperability-swifts-super-power"
+    ]
+  ],
+  [
+    [
+      "2023-09-25, 17:01:55",
+      "https://lobste.rs/s/hn0vds/brief_incomplete_mostly_wrong_devops"
+    ],
+    [
+      "A Brief, Incomplete and Mostly Wrong Devops Glossary",
+      "https://earthly.dev/blog/devops-glossary/"
     ]
   ],
   [
