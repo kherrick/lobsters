@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-26, 22:10:26",
+      "https://lobste.rs/s/vsffrx/jep_442_foreign_function_memory_api_third"
+    ],
+    [
+      "JEP 442: Foreign Function & Memory API (Third Preview)",
+      "https://openjdk.org/jeps/442"
+    ]
+  ],
+  [
+    [
+      "2023-09-26, 22:04:43",
+      "https://lobste.rs/s/jebmrs/gpu_zip_new_type_side_channel_exposing"
+    ],
+    [
+      "GPU.zip: a new type of side channel exposing visual data processed on the GPU",
+      "https://www.hertzbleed.com/gpu.zip/"
+    ]
+  ],
+  [
+    [
       "2023-09-26, 21:38:00",
       "https://lobste.rs/s/dpmfrd/dotfiles_matter"
     ],
@@ -81,6 +101,16 @@
   ],
   [
     [
+      "2023-09-26, 18:11:15",
+      "https://lobste.rs/s/ikjs0s/exploring_linux_command_line_space_time"
+    ],
+    [
+      "Exploring Linux command-line space time",
+      "https://fabiensanglard.net/st/index.html"
+    ]
+  ],
+  [
+    [
       "2023-09-26, 18:07:24",
       "https://lobste.rs/s/tmk2il/formal_methods_can_t_fix_everything_s_okay"
     ],
@@ -97,16 +127,6 @@
     [
       "Organizing a Go module",
       "https://go.dev/doc/modules/layout"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 17:17:53",
-      "https://lobste.rs/s/eu3czk/trigraphs_digraphs"
-    ],
-    [
-      "Trigraphs and Digraphs",
-      "https://www.logikalsolutions.com/wordpress/information-technology/trigraphs/"
     ]
   ],
   [
@@ -137,16 +157,6 @@
     [
       "Upsert in SQL",
       "https://antonz.org/sql-upsert/"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 11:21:25",
-      "https://lobste.rs/s/ae81yw/adding_runtime_benchmarks_rust_compiler"
-    ],
-    [
-      "Adding runtime benchmarks to the Rust compiler benchmark suite",
-      "https://kobzol.github.io/rust/rustc/2023/09/23/rustc-runtime-benchmarks.html"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Lets just try it",
       "https://frankwiles.com/posts/lets-just-try-it/"
-    ]
-  ],
-  [
-    [
-      "2023-09-25, 13:48:56",
-      "https://lobste.rs/s/qy7ea6/viable_rop_free_roadmap_for_i386_armv8"
-    ],
-    [
-      "Viable ROP-free roadmap for i386/armv8/riscv64/alpha/sparc64",
-      "https://marc.info/?l=openbsd-tech&m=169558749114476&w=2"
     ]
   ],
   [
