@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-26, 03:53:52",
+      "https://lobste.rs/s/pdfm94/web_search_keywords_krunner_tales"
+    ],
+    [
+      "Web-Search-Keywords in KRunner, tales of optimizations",
+      "https://write.as/alexander-lohnau/web-search-keywords-in-krunner-tales-of-optimizations"
+    ]
+  ],
+  [
+    [
       "2023-09-26, 03:51:10",
       "https://lobste.rs/s/pdls0c/guids_how_i_messed_up_my_rss_feed"
     ],
@@ -57,16 +67,6 @@
     [
       "humanhash: Human-readable digests",
       "https://github.com/zacharyvoase/humanhash"
-    ]
-  ],
-  [
-    [
-      "2023-09-25, 21:59:33",
-      "https://lobste.rs/s/vb67oi/building_risingwave_connector_for"
-    ],
-    [
-      "Building A RisingWave Connector for Django ORM",
-      "https://bas.codes/posts/django-risingwave"
     ]
   ],
   [
