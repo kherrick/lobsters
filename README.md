@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-26, 03:53:52](https://lobste.rs/s/pdfm94/web_search_keywords_krunner_tales) - [Web-Search-Keywords in KRunner, tales of optimizations](https://write.as/alexander-lohnau/web-search-keywords-in-krunner-tales-of-optimizations)
 * [2023-09-26, 03:51:10](https://lobste.rs/s/pdls0c/guids_how_i_messed_up_my_rss_feed) - [GUIDs - How I messed up my RSS feed](https://theorangeone.net/posts/rss-guids/)
 * [2023-09-26, 03:48:27](https://lobste.rs/s/1keeke/lil_scripting_language) - [Lil: A Scripting Language](http://beyondloom.com/decker/lil.html)
 * [2023-09-26, 03:07:04](https://lobste.rs/s/5uyjxi/linux_from_scratch) - [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/stable/)
 * [2023-09-26, 00:58:29](https://lobste.rs/s/bblmhb/pitfalls_programming_with_dependent) - [Pitfalls of Programming with Dependent Types](https://lean-lang.org/functional_programming_in_lean/dependent-types/pitfalls.html)
 * [2023-09-25, 22:51:13](https://lobste.rs/s/o4d3mr/geospatial_sql_queries_sqlite_using_tg) - [Geospatial SQL queries in SQLite using TG, sqlite-tg and datasette-sqlite-tg](https://til.simonwillison.net/sqlite/sqlite-tg)
 * [2023-09-25, 22:40:53](https://lobste.rs/s/oazilg/humanhash_human_readable_digests) - [humanhash: Human-readable digests](https://github.com/zacharyvoase/humanhash)
-* [2023-09-25, 21:59:33](https://lobste.rs/s/vb67oi/building_risingwave_connector_for) - [Building A RisingWave Connector for Django ORM](https://bas.codes/posts/django-risingwave)
 * [2023-09-25, 20:40:27](https://lobste.rs/s/myfi3p/debugging_zig_test_failure) - [Debugging a Zig Test Failure](https://zinascii.com/2023/debugging-a-zig-test-failure.html)
 * [2023-09-25, 20:13:30](https://lobste.rs/s/mwsk2m/picat_logic_based_multi_paradigm_pl_for) - [Picat: logic-based multi-paradigm PL for general-purpose applications](http://picat-lang.org/)
 * [2023-09-25, 19:20:20](https://lobste.rs/s/uhpfao/mcap_container_file_format_for_log_data) - [MCAP - container file format for log data](https://mcap.dev/)

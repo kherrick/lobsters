@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
+* [2023-09-26, 03:53:52](https://lobste.rs/s/pdfm94/web_search_keywords_krunner_tales) - [Web-Search-Keywords in KRunner, tales of optimizations](https://write.as/alexander-lohnau/web-search-keywords-in-krunner-tales-of-optimizations)
 * [2023-09-26, 03:51:10](https://lobste.rs/s/pdls0c/guids_how_i_messed_up_my_rss_feed) - [GUIDs - How I messed up my RSS feed](https://theorangeone.net/posts/rss-guids/)
 * [2023-09-26, 03:48:27](https://lobste.rs/s/1keeke/lil_scripting_language) - [Lil: A Scripting Language](http://beyondloom.com/decker/lil.html)
 * [2023-09-26, 03:07:04](https://lobste.rs/s/5uyjxi/linux_from_scratch) - [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/stable/)
