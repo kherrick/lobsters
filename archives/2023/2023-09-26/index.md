@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
+* [2023-09-26, 13:58:47](https://lobste.rs/s/3fn8iv/importing_overture_maps_data_into_neo4j) - [Importing Overture Maps Data Into Neo4j](https://lyonwj.com/blog/importing-overture-maps-neo4j-aws-athena-spatial-sql-query)
 * [2023-09-26, 13:42:57](https://lobste.rs/s/orejex/folded_polynomial_n64_optimization) - [The Folded Polynomial - N64 Optimization](https://www.youtube.com/watch?v=hffgNRfL1XY)
 * [2023-09-26, 13:30:04](https://lobste.rs/s/uhu2w7/water_surface_simulation_on_nes) - [Water surface simulation on the NES](https://www.kickstarter.com/projects/morphcat-games/triple-jump-a-platformer-multi-cartridge-for-the-nes/posts/3918838)
 * [2023-09-26, 12:23:17](https://lobste.rs/s/nbqo7g/cut_paste_user_creation_statement_with) - [Cut & Paste a User Creation Statement with MySQL 8](https://lefred.be/content/cut-paste-a-user-creation-statement-with-mysql-8/)
