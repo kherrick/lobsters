@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
+* [2023-09-26, 12:07:24](https://lobste.rs/s/mfupg5/upsert_sql) - [Upsert in SQL](https://antonz.org/sql-upsert/)
 * [2023-09-26, 11:21:25](https://lobste.rs/s/ae81yw/adding_runtime_benchmarks_rust_compiler) - [Adding runtime benchmarks to the Rust compiler benchmark suite](https://kobzol.github.io/rust/rustc/2023/09/23/rustc-runtime-benchmarks.html)
 * [2023-09-26, 11:09:37](https://lobste.rs/s/wdi78j/how_not_apply_for_software_job) - [How (not) to apply for a software job](https://benhoyt.com/writings/how-to-apply/)
 * [2023-09-26, 08:04:52](https://lobste.rs/s/azhjab/deep_dive_into_clang_s_source_file) - [A deep dive into Clang's source file compilation](https://maskray.me/blog/2023-09-24-a-deep-dive-into-clang-source-file-compilation)
