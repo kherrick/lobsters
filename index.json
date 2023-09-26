@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-26, 12:07:24",
+      "https://lobste.rs/s/mfupg5/upsert_sql"
+    ],
+    [
+      "Upsert in SQL",
+      "https://antonz.org/sql-upsert/"
+    ]
+  ],
+  [
+    [
       "2023-09-26, 11:21:25",
       "https://lobste.rs/s/ae81yw/adding_runtime_benchmarks_rust_compiler"
     ],
@@ -227,16 +237,6 @@
     [
       "flameshow: A terminal Flamegraph viewer",
       "https://github.com/laixintao/flameshow"
-    ]
-  ],
-  [
-    [
-      "2023-09-25, 00:58:54",
-      "https://lobste.rs/s/adnzen/software_packaging_is_nightmare"
-    ],
-    [
-      "Software Packaging Is A Nightmare",
-      "https://cohost.org/PolyWolf/post/2613009-software-packaging-a"
     ]
   ],
   [
