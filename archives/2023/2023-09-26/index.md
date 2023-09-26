@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
+* [2023-09-26, 22:55:23](https://lobste.rs/s/7c0oo1/armfuck_turing_completeness_from_two) - [ARMfuck: Turing completeness from two RISC instructions](https://kellanclark.github.io/2023/09/18/armfuck/)
 * [2023-09-26, 22:13:49](https://lobste.rs/s/ctfk0v/how_many_days_has_it_been_since_jwt_alg_none) - [How Many Days Has It Been Since a JWT alg=none Vulnerability?](https://www.howmanydayssinceajwtalgnonevuln.com/)
 * [2023-09-26, 22:10:26](https://lobste.rs/s/vsffrx/jep_442_foreign_function_memory_api_third) - [JEP 442: Foreign Function & Memory API (Third Preview)](https://openjdk.org/jeps/442)
 * [2023-09-26, 22:04:43](https://lobste.rs/s/jebmrs/gpu_zip_new_type_side_channel_exposing) - [GPU.zip: a new type of side channel exposing visual data processed on the GPU](https://www.hertzbleed.com/gpu.zip/)
