@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-26, 20:50:05",
+      "https://lobste.rs/s/a5aqvl/counting_ghosts_case_for_abandoning_web"
+    ],
+    [
+      "Counting Ghosts: A case for abandoning web analytics",
+      "https://pcmaffey.com/counting-ghosts"
+    ]
+  ],
+  [
+    [
       "2023-09-26, 20:03:46",
       "https://lobste.rs/s/liyvri/managed_databases_with_sqlc_vet"
     ],
@@ -227,16 +237,6 @@
     [
       "PostScript’s sudden death in Sonoma",
       "https://eclecticlight.co/2023/09/25/postscripts-sudden-death-in-sonoma/"
-    ]
-  ],
-  [
-    [
-      "2023-09-25, 11:32:55",
-      "https://lobste.rs/s/qqzk80/making_it_fast_shouldn_t_be_last_step"
-    ],
-    [
-      "Making it fast shouldn't be the last step",
-      "https://ntietz.com/blog/make-it-fast-from-the-start/"
     ]
   ],
   [
