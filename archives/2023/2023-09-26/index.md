@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-26](index.md)
 
+* [2023-09-26, 21:14:26](https://lobste.rs/s/33lfac/make_your_own_vpn_wireguard_on_freebsd_on) - [Make Your Own VPN – Wireguard on FreeBSD on IPv6 with AD Blocking Included](https://it-notes.dragas.net/2023/09/23/make-your-own-vpn-freebsd-wireguard-ipv6-and-ad-blocking-included/)
+* [2023-09-26, 21:13:51](https://lobste.rs/s/ixvlpq/freebsd_on_raspberry_pi_with_bastille) - [FreeBSD on Raspberry Pi with Bastille Jails](https://eldapper.wordpress.com/2023/09/18/freebsd-on-raspberry-pi-with-bastille-jails/)
 * [2023-09-26, 20:53:20](https://lobste.rs/s/nyjqnv/eyra_is_interesting_rust_project) - [Eyra is an interesting Rust project](https://notgull.net/eyra/)
 * [2023-09-26, 20:50:05](https://lobste.rs/s/a5aqvl/counting_ghosts_case_for_abandoning_web) - [Counting Ghosts: A case for abandoning web analytics](https://pcmaffey.com/counting-ghosts)
 * [2023-09-26, 20:03:46](https://lobste.rs/s/liyvri/managed_databases_with_sqlc_vet) - [Managed databases with sqlc vet](https://sqlc.dev/posts/2023/09/25/v1.22.0-managed-databases/)

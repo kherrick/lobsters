@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-26, 21:14:26](https://lobste.rs/s/33lfac/make_your_own_vpn_wireguard_on_freebsd_on) - [Make Your Own VPN – Wireguard on FreeBSD on IPv6 with AD Blocking Included](https://it-notes.dragas.net/2023/09/23/make-your-own-vpn-freebsd-wireguard-ipv6-and-ad-blocking-included/)
+* [2023-09-26, 21:13:51](https://lobste.rs/s/ixvlpq/freebsd_on_raspberry_pi_with_bastille) - [FreeBSD on Raspberry Pi with Bastille Jails](https://eldapper.wordpress.com/2023/09/18/freebsd-on-raspberry-pi-with-bastille-jails/)
 * [2023-09-26, 20:53:20](https://lobste.rs/s/nyjqnv/eyra_is_interesting_rust_project) - [Eyra is an interesting Rust project](https://notgull.net/eyra/)
 * [2023-09-26, 20:50:05](https://lobste.rs/s/a5aqvl/counting_ghosts_case_for_abandoning_web) - [Counting Ghosts: A case for abandoning web analytics](https://pcmaffey.com/counting-ghosts)
 * [2023-09-26, 20:03:46](https://lobste.rs/s/liyvri/managed_databases_with_sqlc_vet) - [Managed databases with sqlc vet](https://sqlc.dev/posts/2023/09/25/v1.22.0-managed-databases/)
 * [2023-09-26, 19:23:21](https://lobste.rs/s/dx3mj6/using_monadlogger_without_loggingt) - [Using MonadLogger without LoggingT](https://nicolashery.com/monadlogger-without-loggingt/)
-* [2023-09-26, 18:11:15](https://lobste.rs/s/ikjs0s/exploring_linux_command_line_space_time) - [Exploring Linux command-line space time](https://fabiensanglard.net/st/index.html)
 * [2023-09-26, 18:07:24](https://lobste.rs/s/tmk2il/formal_methods_can_t_fix_everything_s_okay) - [Formal Methods can't fix everything and that's okay](https://buttondown.email/hillelwayne/archive/formal-methods-cant-fix-everything-and-thats-okay/)
 * [2023-09-26, 17:31:57](https://lobste.rs/s/zwthrh/organizing_go_module) - [Organizing a Go module](https://go.dev/doc/modules/layout)
 * [2023-09-26, 17:17:53](https://lobste.rs/s/eu3czk/trigraphs_digraphs) - [Trigraphs and Digraphs](https://www.logikalsolutions.com/wordpress/information-technology/trigraphs/)
@@ -22,7 +23,6 @@
 * [2023-09-25, 16:10:04](https://lobste.rs/s/leyibh/lets_just_try_it) - [Lets just try it](https://frankwiles.com/posts/lets-just-try-it/)
 * [2023-09-25, 13:48:56](https://lobste.rs/s/qy7ea6/viable_rop_free_roadmap_for_i386_armv8) - [Viable ROP-free roadmap for i386/armv8/riscv64/alpha/sparc64](https://marc.info/?l=openbsd-tech&m=169558749114476&w=2)
 * [2023-09-25, 13:27:48](https://lobste.rs/s/ovrpwy/gleam_v0_31_0_released) - [Gleam v0.31.0 released](https://gleam.run/news/v0.31-keeping-dependencies-explicit/)
-* [2023-09-25, 13:20:24](https://lobste.rs/s/gwvmdy/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/gwvmdy/what_are_you_doing_this_week)
 * [2023-09-25, 13:18:43](https://lobste.rs/s/vsovl9/postscript_s_sudden_death_sonoma) - [PostScript’s sudden death in Sonoma](https://eclecticlight.co/2023/09/25/postscripts-sudden-death-in-sonoma/)
 * [2023-09-25, 09:16:48](https://lobste.rs/s/uzjmam/mon_stupid_simple_monitoring) - [μMon: Stupid simple monitoring](https://tomscii.sig7.se/2022/07/uMon-stupid-simple-monitoring)
 
