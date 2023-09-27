@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
+* [2023-09-27, 21:26:10](https://lobste.rs/s/77rb8j/rethinking_setup_convention_neovim_is_it) - [Rethinking the `setup` convention in Neovim. Is it time for a paradigm shift?](https://mrcjkb.dev/posts/2023-08-22-setup.html)
 * [2023-09-27, 21:01:45](https://lobste.rs/s/9ipp9z/bloom_filter_calculator) - [Bloom filter calculator](https://hur.st/bloomfilter/)
 * [2023-09-27, 21:01:32](https://lobste.rs/s/jsjank/random_walk_2_lines_j_asindu_s_journal) - [Random walk in 2 lines of J - Asindu's Journal](https://asindu.xyz/posts/random-walk-in-2-lines-of-j/)
 * [2023-09-27, 20:24:19](https://lobste.rs/s/fqatnb/getting_rce_chrome_with_incorrect_side) - [Getting RCE in Chrome with incorrect side effect in the JIT compiler](https://github.blog/2023-09-26-getting-rce-in-chrome-with-incorrect-side-effect-in-the-jit-compiler/)
