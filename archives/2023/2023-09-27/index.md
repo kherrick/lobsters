@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
+* [2023-09-27, 20:24:19](https://lobste.rs/s/fqatnb/getting_rce_chrome_with_incorrect_side) - [Getting RCE in Chrome with incorrect side effect in the JIT compiler](https://github.blog/2023-09-26-getting-rce-in-chrome-with-incorrect-side-effect-in-the-jit-compiler/)
 * [2023-09-27, 20:15:22](https://lobste.rs/s/5280ht/mistral_7b_ai_open_source_model) - [Mistral 7B AI Open Source Model](https://mistral.ai/news/announcing-mistral-7b/)
 * [2023-09-27, 19:42:53](https://lobste.rs/s/v4fric/lambda_s_engineering_philosophy) - [Lambda’s engineering philosophy](https://blog.lambdaclass.com/lambdas-engineering-philosophy/)
 * [2023-09-27, 18:26:57](https://lobste.rs/s/skxn9r/finding_bathroom_faucets_with) - [Finding Bathroom Faucets with Embeddings](https://www.dbreunig.com/2023/09/26/faucet-finder.html)
 * [2023-09-27, 18:10:20](https://lobste.rs/s/5zasmz/ipv6_router_advertisement_why_is_it) - [IPv6 Router Advertisement: Why is it enabled by default on some network vendors?](https://www.daryllswer.com/ipv6-router-advertisement-why-is-it-enabled-by-default-on-some-network-vendors/)
 * [2023-09-27, 17:59:07](https://lobste.rs/s/zygcqk/meet_swiftgodot) - [Meet SwiftGodot](https://migueldeicaza.github.io/SwiftGodotDocs/tutorials/swiftgodot-tutorials/)
+* [2023-09-27, 17:37:14](https://lobste.rs/s/xczwxa/champagne_for_my_real_friends) - [Champagne for my real friends](http://jeremybmerrill.com/documents/champagnerealpain.html)
 * [2023-09-27, 17:37:14](https://lobste.rs/s/xczwxa/champagne_for_my_real_friends) - [Champagne for my real friends](http://jeremybmerrill.com/documents/champagnerealpain.htm)
 * [2023-09-27, 17:35:59](https://lobste.rs/s/mwthtn/casual_maintenance_intended) - [Casual Maintenance Intended](https://casuallymaintained.tech)
 * [2023-09-27, 17:33:18](https://lobste.rs/s/kjleh7/super_fast_sphinx_docs_snob_driven) - [Super-fast Sphinx docs, and SNOB driven development](https://lukeplant.me.uk/blog/posts/super-fast-sphinx-docs/)
