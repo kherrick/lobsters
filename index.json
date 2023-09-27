@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-27, 21:01:45",
+      "https://lobste.rs/s/9ipp9z/bloom_filter_calculator"
+    ],
+    [
+      "Bloom filter calculator",
+      "https://hur.st/bloomfilter/"
+    ]
+  ],
+  [
+    [
+      "2023-09-27, 21:01:32",
+      "https://lobste.rs/s/jsjank/random_walk_2_lines_j_asindu_s_journal"
+    ],
+    [
+      "Random walk in 2 lines of J - Asindu's Journal",
+      "https://asindu.xyz/posts/random-walk-in-2-lines-of-j/"
+    ]
+  ],
+  [
+    [
       "2023-09-27, 20:24:19",
       "https://lobste.rs/s/fqatnb/getting_rce_chrome_with_incorrect_side"
     ],
@@ -47,16 +67,6 @@
     [
       "Super-fast Sphinx docs, and SNOB driven development",
       "https://lukeplant.me.uk/blog/posts/super-fast-sphinx-docs/"
-    ]
-  ],
-  [
-    [
-      "2023-09-27, 16:20:50",
-      "https://lobste.rs/s/1wfnct/robots_txt"
-    ],
-    [
-      "Robots.txt",
-      "https://blog.jim-nielsen.com/2023/robots-txt/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "GNU 40th anniversary",
       "https://www.gnu.org/gnu40/"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 22:55:23",
-      "https://lobste.rs/s/7c0oo1/armfuck_turing_completeness_from_two"
-    ],
-    [
-      "ARMfuck: Turing completeness from two RISC instructions",
-      "https://kellanclark.github.io/2023/09/18/armfuck/"
     ]
   ],
   [
