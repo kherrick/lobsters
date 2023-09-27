@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
+* [2023-09-27, 17:37:14](https://lobste.rs/s/xczwxa/champagne_for_my_real_friends) - [Champagne for my real friends](http://jeremybmerrill.com/documents/champagnerealpain.htm)
+* [2023-09-27, 17:35:59](https://lobste.rs/s/mwthtn/casual_maintenance_intended) - [Casual Maintenance Intended](https://casuallymaintained.tech)
+* [2023-09-27, 17:33:18](https://lobste.rs/s/kjleh7/super_fast_sphinx_docs_snob_driven) - [Super-fast Sphinx docs, and SNOB driven development](https://lukeplant.me.uk/blog/posts/super-fast-sphinx-docs/)
 * [2023-09-27, 16:20:50](https://lobste.rs/s/1wfnct/robots_txt) - [Robots.txt](https://blog.jim-nielsen.com/2023/robots-txt/)
 * [2023-09-27, 16:15:34](https://lobste.rs/s/tgvwtb/announcing_deno_queues) - [Announcing Deno Queues](https://deno.com/blog/queues)
 * [2023-09-27, 15:39:34](https://lobste.rs/s/g44oeq/rust_vs_go_hands_on_comparison) - [Rust Vs Go: A Hands-On Comparison](https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison)
