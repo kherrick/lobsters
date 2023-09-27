@@ -2,7 +2,8 @@
 
 * [2023-09-27, 21:26:10](https://lobste.rs/s/77rb8j/rethinking_setup_convention_neovim_is_it) - [Rethinking the `setup` convention in Neovim. Is it time for a paradigm shift?](https://mrcjkb.dev/posts/2023-08-22-setup.html)
 * [2023-09-27, 21:01:45](https://lobste.rs/s/9ipp9z/bloom_filter_calculator) - [Bloom filter calculator](https://hur.st/bloomfilter/)
-* [2023-09-27, 21:01:32](https://lobste.rs/s/jsjank/random_walk_2_lines_j_asindu_s_journal) - [Random walk in 2 lines of J - Asindu's Journal](https://asindu.xyz/posts/random-walk-in-2-lines-of-j/)
+* [2023-09-27, 21:01:32](https://lobste.rs/s/jsjank/random_walk_2_lines_j) - [Random walk in 2 lines of J](https://asindu.xyz/posts/random-walk-in-2-lines-of-j/)
+* [2023-09-27, 17:59:07](https://lobste.rs/s/zygcqk/meet_swiftgodot) - [Meet SwiftGodot](https://migueldeicaza.github.io/SwiftGodotDocs/tutorials/swiftgodot-tutorials/)
 * [2023-09-27, 17:37:14](https://lobste.rs/s/xczwxa/champagne_for_my_real_friends) - [Champagne for my real friends](http://jeremybmerrill.com/documents/champagnerealpain.html)
 * [2023-09-27, 17:35:59](https://lobste.rs/s/mwthtn/casual_maintenance_intended) - [Casual Maintenance Intended](https://casuallymaintained.tech)
 * [2023-09-27, 17:33:18](https://lobste.rs/s/kjleh7/super_fast_sphinx_docs_snob_driven) - [Super-fast Sphinx docs, and SNOB driven development](https://lukeplant.me.uk/blog/posts/super-fast-sphinx-docs/)
@@ -16,7 +17,6 @@
 * [2023-09-27, 11:48:41](https://lobste.rs/s/qygnov/uiua_concatenative_array_programming) - [Uiua - a concatenative array programming language](https://www.uiua.org/)
 * [2023-09-27, 10:30:51](https://lobste.rs/s/g1zzsd/gammaray_for_qt_3_0_0_is_released) - [GammaRay for Qt 3.0.0 is released](https://www.kdab.com/gammaray-3-0-0-is-released/)
 * [2023-09-27, 10:27:43](https://lobste.rs/s/spzfnz/how_my_first_kernel_contribution_wasn_t) - [How my first kernel contribution wasn’t accepted](https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/)
-* [2023-09-27, 06:20:35](https://lobste.rs/s/lejuol/changing_node_version_requirements) - [Changing Node Version Requirements Should Not Bump Your Major Version](https://rtpg.co/2023/09/27/avoiding-major-version-bumps-for-node/)
 * [2023-09-27, 05:59:45](https://lobste.rs/s/sutuvh/arena_allocator_tips_tricks) - [Arena allocator tips and tricks](https://nullprogram.com/blog/2023/09/27/)
 * [2023-09-27, 05:48:37](https://lobste.rs/s/8rloiu/gnu_40th_anniversary) - [GNU 40th anniversary](https://www.gnu.org/gnu40/)
 * [2023-09-26, 22:13:49](https://lobste.rs/s/ctfk0v/how_many_days_has_it_been_since_jwt_alg_none) - [How Many Days Has It Been Since a JWT alg=none Vulnerability?](https://www.howmanydayssinceajwtalgnonevuln.com/)
