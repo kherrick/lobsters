@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-27, 12:32:25",
+      "https://lobste.rs/s/bxfelc/playing_with_caml_light_on_dos"
+    ],
+    [
+      "Playing with Caml Light on DOS",
+      "https://www.cambus.net/playing-with-caml-light-on-dos/"
+    ]
+  ],
+  [
+    [
       "2023-09-27, 11:48:41",
       "https://lobste.rs/s/qygnov/uiua_concatenative_array_programming"
     ],
@@ -157,16 +167,6 @@
     [
       "Using MonadLogger without LoggingT",
       "https://nicolashery.com/monadlogger-without-loggingt/"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 18:11:15",
-      "https://lobste.rs/s/ikjs0s/exploring_linux_command_line_space_time"
-    ],
-    [
-      "Exploring Linux command-line space time",
-      "https://fabiensanglard.net/st/index.html"
     ]
   ],
   [
