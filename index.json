@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-27, 05:48:37",
+      "https://lobste.rs/s/8rloiu/gnu_40th_anniversary"
+    ],
+    [
+      "GNU 40th anniversary",
+      "https://www.gnu.org/gnu40/"
+    ]
+  ],
+  [
+    [
       "2023-09-27, 00:23:35",
       "https://lobste.rs/s/rlkybm/getting_postgres_logs_github_action"
     ],
@@ -177,16 +187,6 @@
     [
       "How (not) to apply for a software job",
       "https://benhoyt.com/writings/how-to-apply/"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 08:04:52",
-      "https://lobste.rs/s/azhjab/deep_dive_into_clang_s_source_file"
-    ],
-    [
-      "A deep dive into Clang's source file compilation",
-      "https://maskray.me/blog/2023-09-24-a-deep-dive-into-clang-source-file-compilation"
     ]
   ],
   [
