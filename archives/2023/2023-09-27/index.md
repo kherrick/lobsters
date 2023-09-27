@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
+* [2023-09-27, 17:59:07](https://lobste.rs/s/zygcqk/meet_swiftgodot) - [Meet SwiftGodot](https://migueldeicaza.github.io/SwiftGodotDocs/tutorials/swiftgodot-tutorials/)
 * [2023-09-27, 17:37:14](https://lobste.rs/s/xczwxa/champagne_for_my_real_friends) - [Champagne for my real friends](http://jeremybmerrill.com/documents/champagnerealpain.htm)
 * [2023-09-27, 17:35:59](https://lobste.rs/s/mwthtn/casual_maintenance_intended) - [Casual Maintenance Intended](https://casuallymaintained.tech)
 * [2023-09-27, 17:33:18](https://lobste.rs/s/kjleh7/super_fast_sphinx_docs_snob_driven) - [Super-fast Sphinx docs, and SNOB driven development](https://lukeplant.me.uk/blog/posts/super-fast-sphinx-docs/)
