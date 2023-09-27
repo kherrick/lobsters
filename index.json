@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-27, 14:28:28",
+      "https://lobste.rs/s/hzx2oi/clickhouse_keeper_zookeeper"
+    ],
+    [
+      "ClickHouse Keeper: A ZooKeeper alternative written in C++",
+      "https://clickhouse.com/blog/clickhouse-keeper-a-zookeeper-alternative-written-in-cpp"
+    ]
+  ],
+  [
+    [
       "2023-09-27, 13:47:16",
       "https://lobste.rs/s/zku7zr/lost_language_extensions_metaware_s_high"
     ],
@@ -27,16 +37,6 @@
     [
       "Linux Mint Debian Edition 6: \"Faye\" released",
       "https://blog.linuxmint.com/?p=4570"
-    ]
-  ],
-  [
-    [
-      "2023-09-27, 12:40:05",
-      "https://lobste.rs/s/ps5wpm/deconstructing_type_parameters"
-    ],
-    [
-      "Deconstructing Type Parameters",
-      "https://go.dev/blog/deconstructing-type-parameters"
     ]
   ],
   [
