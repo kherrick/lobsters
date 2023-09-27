@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
+* [2023-09-27, 21:01:45](https://lobste.rs/s/9ipp9z/bloom_filter_calculator) - [Bloom filter calculator](https://hur.st/bloomfilter/)
+* [2023-09-27, 21:01:32](https://lobste.rs/s/jsjank/random_walk_2_lines_j_asindu_s_journal) - [Random walk in 2 lines of J - Asindu's Journal](https://asindu.xyz/posts/random-walk-in-2-lines-of-j/)
 * [2023-09-27, 20:24:19](https://lobste.rs/s/fqatnb/getting_rce_chrome_with_incorrect_side) - [Getting RCE in Chrome with incorrect side effect in the JIT compiler](https://github.blog/2023-09-26-getting-rce-in-chrome-with-incorrect-side-effect-in-the-jit-compiler/)
 * [2023-09-27, 20:15:22](https://lobste.rs/s/5280ht/mistral_7b_ai_open_source_model) - [Mistral 7B AI Open Source Model](https://mistral.ai/news/announcing-mistral-7b/)
 * [2023-09-27, 19:42:53](https://lobste.rs/s/v4fric/lambda_s_engineering_philosophy) - [Lambda’s engineering philosophy](https://blog.lambdaclass.com/lambdas-engineering-philosophy/)
