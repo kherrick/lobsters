@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-27, 13:03:36](https://lobste.rs/s/spv48b/linux_mint_debian_edition_6_faye_released) - [Linux Mint Debian Edition 6: \"Faye\" released](https://blog.linuxmint.com/?p=4570)
 * [2023-09-27, 12:40:05](https://lobste.rs/s/ps5wpm/deconstructing_type_parameters) - [Deconstructing Type Parameters](https://go.dev/blog/deconstructing-type-parameters)
 * [2023-09-27, 12:32:25](https://lobste.rs/s/bxfelc/playing_with_caml_light_on_dos) - [Playing with Caml Light on DOS](https://www.cambus.net/playing-with-caml-light-on-dos/)
 * [2023-09-27, 11:48:41](https://lobste.rs/s/qygnov/uiua_concatenative_array_programming) - [Uiua - a concatenative array programming language](https://www.uiua.org/)
@@ -16,7 +17,6 @@
 * [2023-09-26, 21:15:20](https://lobste.rs/s/nntmwc/introduction_sysclean_8_on_openbsd) - [Introduction to sysclean(8) on OpenBSD](https://kapouay.eu.org/notes/sysclean-intro/)
 * [2023-09-26, 20:53:20](https://lobste.rs/s/nyjqnv/eyra_is_interesting_rust_project) - [Eyra is an interesting Rust project](https://notgull.net/eyra/)
 * [2023-09-26, 20:50:05](https://lobste.rs/s/a5aqvl/counting_ghosts_case_for_abandoning_web) - [Counting Ghosts: A case for abandoning web analytics](https://pcmaffey.com/counting-ghosts)
-* [2023-09-26, 20:03:46](https://lobste.rs/s/liyvri/managed_databases_with_sqlc_vet) - [Managed databases with sqlc vet](https://sqlc.dev/posts/2023/09/25/v1.22.0-managed-databases/)
 * [2023-09-26, 19:23:21](https://lobste.rs/s/dx3mj6/using_monadlogger_without_loggingt) - [Using MonadLogger without LoggingT](https://nicolashery.com/monadlogger-without-loggingt/)
 * [2023-09-26, 18:07:24](https://lobste.rs/s/tmk2il/formal_methods_can_t_fix_everything_s_okay) - [Formal Methods can't fix everything and that's okay](https://buttondown.email/hillelwayne/archive/formal-methods-cant-fix-everything-and-thats-okay/)
 * [2023-09-26, 17:31:57](https://lobste.rs/s/zwthrh/organizing_go_module) - [Organizing a Go module](https://go.dev/doc/modules/layout)
