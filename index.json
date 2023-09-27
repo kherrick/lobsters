@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-27, 00:23:35",
+      "https://lobste.rs/s/rlkybm/getting_postgres_logs_github_action"
+    ],
+    [
+      "Getting Postgres logs in a GitHub Action",
+      "https://brandur.org/fragments/postgres-logs-in-github-actions"
+    ]
+  ],
+  [
+    [
       "2023-09-26, 22:55:23",
       "https://lobste.rs/s/7c0oo1/armfuck_turing_completeness_from_two"
     ],
@@ -237,16 +247,6 @@
     [
       "Gleam v0.31.0 released",
       "https://gleam.run/news/v0.31-keeping-dependencies-explicit/"
-    ]
-  ],
-  [
-    [
-      "2023-09-25, 13:18:43",
-      "https://lobste.rs/s/vsovl9/postscript_s_sudden_death_sonoma"
-    ],
-    [
-      "PostScript’s sudden death in Sonoma",
-      "https://eclecticlight.co/2023/09/25/postscripts-sudden-death-in-sonoma/"
     ]
   ]
 ]
