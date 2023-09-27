@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-27, 06:20:35](https://lobste.rs/s/lejuol/changing_node_version_requirements) - [Changing Node Version Requirements Should Not Bump Your Major Version](https://rtpg.co/2023/09/27/avoiding-major-version-bumps-for-node/)
 * [2023-09-27, 05:59:45](https://lobste.rs/s/sutuvh/arena_allocator_tips_tricks) - [Arena allocator tips and tricks](https://nullprogram.com/blog/2023/09/27/)
 * [2023-09-27, 05:48:37](https://lobste.rs/s/8rloiu/gnu_40th_anniversary) - [GNU 40th anniversary](https://www.gnu.org/gnu40/)
 * [2023-09-27, 00:23:35](https://lobste.rs/s/rlkybm/getting_postgres_logs_github_action) - [Getting Postgres logs in a GitHub Action](https://brandur.org/fragments/postgres-logs-in-github-actions)
@@ -8,7 +9,6 @@
 * [2023-09-26, 22:04:43](https://lobste.rs/s/jebmrs/gpu_zip_new_type_side_channel_exposing) - [GPU.zip: a new type of side channel exposing visual data processed on the GPU](https://www.hertzbleed.com/gpu.zip/)
 * [2023-09-26, 21:38:00](https://lobste.rs/s/dpmfrd/dotfiles_matter) - [Dotfiles matter](https://dotfiles-matter.click/)
 * [2023-09-26, 21:15:20](https://lobste.rs/s/nntmwc/introduction_sysclean_8_on_openbsd) - [Introduction to sysclean(8) on OpenBSD](https://kapouay.eu.org/notes/sysclean-intro/)
-* [2023-09-26, 21:13:51](https://lobste.rs/s/ixvlpq/freebsd_on_raspberry_pi_with_bastille) - [FreeBSD on Raspberry Pi with Bastille Jails](https://eldapper.wordpress.com/2023/09/18/freebsd-on-raspberry-pi-with-bastille-jails/)
 * [2023-09-26, 20:53:20](https://lobste.rs/s/nyjqnv/eyra_is_interesting_rust_project) - [Eyra is an interesting Rust project](https://notgull.net/eyra/)
 * [2023-09-26, 20:50:05](https://lobste.rs/s/a5aqvl/counting_ghosts_case_for_abandoning_web) - [Counting Ghosts: A case for abandoning web analytics](https://pcmaffey.com/counting-ghosts)
 * [2023-09-26, 20:03:46](https://lobste.rs/s/liyvri/managed_databases_with_sqlc_vet) - [Managed databases with sqlc vet](https://sqlc.dev/posts/2023/09/25/v1.22.0-managed-databases/)
