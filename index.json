@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-27, 15:39:34",
+      "https://lobste.rs/s/g44oeq/rust_vs_go_hands_on_comparison"
+    ],
+    [
+      "Rust Vs Go: A Hands-On Comparison",
+      "https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison"
+    ]
+  ],
+  [
+    [
       "2023-09-27, 14:57:07",
       "https://lobste.rs/s/uzei4e/pymilo_new_python_library_for_ml_i_o"
     ],
@@ -187,16 +197,6 @@
     [
       "Counting Ghosts: A case for abandoning web analytics",
       "https://pcmaffey.com/counting-ghosts"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 19:23:21",
-      "https://lobste.rs/s/dx3mj6/using_monadlogger_without_loggingt"
-    ],
-    [
-      "Using MonadLogger without LoggingT",
-      "https://nicolashery.com/monadlogger-without-loggingt/"
     ]
   ],
   [
