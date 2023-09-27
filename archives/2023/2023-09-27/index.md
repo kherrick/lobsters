@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
+* [2023-09-27, 16:20:50](https://lobste.rs/s/1wfnct/robots_txt) - [Robots.txt](https://blog.jim-nielsen.com/2023/robots-txt/)
+* [2023-09-27, 16:15:34](https://lobste.rs/s/tgvwtb/announcing_deno_queues) - [Announcing Deno Queues](https://deno.com/blog/queues)
 * [2023-09-27, 15:39:34](https://lobste.rs/s/g44oeq/rust_vs_go_hands_on_comparison) - [Rust Vs Go: A Hands-On Comparison](https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison)
 * [2023-09-27, 14:57:07](https://lobste.rs/s/uzei4e/pymilo_new_python_library_for_ml_i_o) - [PyMilo: New Python Library for ML I/O](https://github.com/openscilab/pymilo)
 * [2023-09-27, 14:28:28](https://lobste.rs/s/hzx2oi/clickhouse_keeper_zookeeper) - [ClickHouse Keeper: A ZooKeeper alternative written in C++](https://clickhouse.com/blog/clickhouse-keeper-a-zookeeper-alternative-written-in-cpp)
