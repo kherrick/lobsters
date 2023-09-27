@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-27, 06:20:35",
+      "https://lobste.rs/s/lejuol/changing_node_version_requirements"
+    ],
+    [
+      "Changing Node Version Requirements Should Not Bump Your Major Version",
+      "https://rtpg.co/2023/09/27/avoiding-major-version-bumps-for-node/"
+    ]
+  ],
+  [
+    [
       "2023-09-27, 05:59:45",
       "https://lobste.rs/s/sutuvh/arena_allocator_tips_tricks"
     ],
@@ -77,16 +87,6 @@
     [
       "Introduction to sysclean(8) on OpenBSD",
       "https://kapouay.eu.org/notes/sysclean-intro/"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 21:13:51",
-      "https://lobste.rs/s/ixvlpq/freebsd_on_raspberry_pi_with_bastille"
-    ],
-    [
-      "FreeBSD on Raspberry Pi with Bastille Jails",
-      "https://eldapper.wordpress.com/2023/09/18/freebsd-on-raspberry-pi-with-bastille-jails/"
     ]
   ],
   [
