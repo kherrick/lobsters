@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-27, 05:59:45",
+      "https://lobste.rs/s/sutuvh/arena_allocator_tips_tricks"
+    ],
+    [
+      "Arena allocator tips and tricks",
+      "https://nullprogram.com/blog/2023/09/27/"
+    ]
+  ],
+  [
+    [
       "2023-09-27, 05:48:37",
       "https://lobste.rs/s/8rloiu/gnu_40th_anniversary"
     ],
@@ -217,16 +227,6 @@
     [
       "Linux From Scratch",
       "https://www.linuxfromscratch.org/lfs/view/stable/"
-    ]
-  ],
-  [
-    [
-      "2023-09-25, 22:51:13",
-      "https://lobste.rs/s/o4d3mr/geospatial_sql_queries_sqlite_using_tg"
-    ],
-    [
-      "Geospatial SQL queries in SQLite using TG, sqlite-tg and datasette-sqlite-tg",
-      "https://til.simonwillison.net/sqlite/sqlite-tg"
     ]
   ],
   [
