@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
+* [2023-09-27, 13:18:21](https://lobste.rs/s/g1sux7/essence_desktop_os_built_from_scratch_for) - [Essence: A desktop OS built from scratch, for control and simplicity](https://nakst.gitlab.io/essence)
 * [2023-09-27, 13:03:36](https://lobste.rs/s/spv48b/linux_mint_debian_edition_6_faye_released) - [Linux Mint Debian Edition 6: \"Faye\" released](https://blog.linuxmint.com/?p=4570)
 * [2023-09-27, 12:40:05](https://lobste.rs/s/ps5wpm/deconstructing_type_parameters) - [Deconstructing Type Parameters](https://go.dev/blog/deconstructing-type-parameters)
 * [2023-09-27, 12:32:25](https://lobste.rs/s/bxfelc/playing_with_caml_light_on_dos) - [Playing with Caml Light on DOS](https://www.cambus.net/playing-with-caml-light-on-dos/)

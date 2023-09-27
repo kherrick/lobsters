@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-27, 13:18:21](https://lobste.rs/s/g1sux7/essence_desktop_os_built_from_scratch_for) - [Essence: A desktop OS built from scratch, for control and simplicity](https://nakst.gitlab.io/essence)
 * [2023-09-27, 13:03:36](https://lobste.rs/s/spv48b/linux_mint_debian_edition_6_faye_released) - [Linux Mint Debian Edition 6: \"Faye\" released](https://blog.linuxmint.com/?p=4570)
 * [2023-09-27, 12:40:05](https://lobste.rs/s/ps5wpm/deconstructing_type_parameters) - [Deconstructing Type Parameters](https://go.dev/blog/deconstructing-type-parameters)
 * [2023-09-27, 12:32:25](https://lobste.rs/s/bxfelc/playing_with_caml_light_on_dos) - [Playing with Caml Light on DOS](https://www.cambus.net/playing-with-caml-light-on-dos/)
@@ -24,7 +25,6 @@
 * [2023-09-26, 12:07:24](https://lobste.rs/s/mfupg5/upsert_sql) - [Upsert in SQL](https://antonz.org/sql-upsert/)
 * [2023-09-26, 11:09:37](https://lobste.rs/s/wdi78j/how_not_apply_for_software_job) - [How (not) to apply for a software job](https://benhoyt.com/writings/how-to-apply/)
 * [2023-09-26, 03:07:04](https://lobste.rs/s/5uyjxi/linux_from_scratch) - [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/stable/)
-* [2023-09-25, 16:10:04](https://lobste.rs/s/leyibh/lets_just_try_it) - [Lets just try it](https://frankwiles.com/posts/lets-just-try-it/)
 
 ## [Archives](archives/index.md)
 
