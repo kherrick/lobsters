@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
+* [2023-09-27, 13:47:16](https://lobste.rs/s/zku7zr/lost_language_extensions_metaware_s_high) - [The lost language extensions of MetaWare's High C Compiler](https://cohost.org/jckarter/post/2955755-the-lost-language-ex)
 * [2023-09-27, 13:18:21](https://lobste.rs/s/g1sux7/essence_desktop_os_built_from_scratch_for) - [Essence: A desktop OS built from scratch, for control and simplicity](https://nakst.gitlab.io/essence)
 * [2023-09-27, 13:03:36](https://lobste.rs/s/spv48b/linux_mint_debian_edition_6_faye_released) - [Linux Mint Debian Edition 6: \"Faye\" released](https://blog.linuxmint.com/?p=4570)
 * [2023-09-27, 12:40:05](https://lobste.rs/s/ps5wpm/deconstructing_type_parameters) - [Deconstructing Type Parameters](https://go.dev/blog/deconstructing-type-parameters)
