@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-27, 05:59:45](https://lobste.rs/s/sutuvh/arena_allocator_tips_tricks) - [Arena allocator tips and tricks](https://nullprogram.com/blog/2023/09/27/)
 * [2023-09-27, 05:48:37](https://lobste.rs/s/8rloiu/gnu_40th_anniversary) - [GNU 40th anniversary](https://www.gnu.org/gnu40/)
 * [2023-09-27, 00:23:35](https://lobste.rs/s/rlkybm/getting_postgres_logs_github_action) - [Getting Postgres logs in a GitHub Action](https://brandur.org/fragments/postgres-logs-in-github-actions)
 * [2023-09-26, 22:55:23](https://lobste.rs/s/7c0oo1/armfuck_turing_completeness_from_two) - [ARMfuck: Turing completeness from two RISC instructions](https://kellanclark.github.io/2023/09/18/armfuck/)
@@ -22,7 +23,6 @@
 * [2023-09-26, 03:51:10](https://lobste.rs/s/pdls0c/guids_how_i_messed_up_my_rss_feed) - [GUIDs - How I messed up my RSS feed](https://theorangeone.net/posts/rss-guids/)
 * [2023-09-26, 03:48:27](https://lobste.rs/s/1keeke/lil_scripting_language) - [Lil: A Scripting Language](http://beyondloom.com/decker/lil.html)
 * [2023-09-26, 03:07:04](https://lobste.rs/s/5uyjxi/linux_from_scratch) - [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/stable/)
-* [2023-09-25, 22:51:13](https://lobste.rs/s/o4d3mr/geospatial_sql_queries_sqlite_using_tg) - [Geospatial SQL queries in SQLite using TG, sqlite-tg and datasette-sqlite-tg](https://til.simonwillison.net/sqlite/sqlite-tg)
 * [2023-09-25, 16:10:04](https://lobste.rs/s/leyibh/lets_just_try_it) - [Lets just try it](https://frankwiles.com/posts/lets-just-try-it/)
 * [2023-09-25, 13:27:48](https://lobste.rs/s/ovrpwy/gleam_v0_31_0_released) - [Gleam v0.31.0 released](https://gleam.run/news/v0.31-keeping-dependencies-explicit/)
 
