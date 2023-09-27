@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-27, 19:42:53",
+      "https://lobste.rs/s/v4fric/lambda_s_engineering_philosophy"
+    ],
+    [
+      "Lambda’s engineering philosophy",
+      "https://blog.lambdaclass.com/lambdas-engineering-philosophy/"
+    ]
+  ],
+  [
+    [
       "2023-09-27, 17:35:59",
       "https://lobste.rs/s/mwthtn/casual_maintenance_intended"
     ],
@@ -227,16 +237,6 @@
     [
       "Water surface simulation on the NES",
       "https://www.kickstarter.com/projects/morphcat-games/triple-jump-a-platformer-multi-cartridge-for-the-nes/posts/3918838"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 12:07:24",
-      "https://lobste.rs/s/mfupg5/upsert_sql"
-    ],
-    [
-      "Upsert in SQL",
-      "https://antonz.org/sql-upsert/"
     ]
   ],
   [
