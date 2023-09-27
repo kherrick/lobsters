@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-27, 20:24:19",
+      "https://lobste.rs/s/fqatnb/getting_rce_chrome_with_incorrect_side"
+    ],
+    [
+      "Getting RCE in Chrome with incorrect side effect in the JIT compiler",
+      "https://github.blog/2023-09-26-getting-rce-in-chrome-with-incorrect-side-effect-in-the-jit-compiler/"
+    ]
+  ],
+  [
+    [
       "2023-09-27, 20:15:22",
       "https://lobste.rs/s/5280ht/mistral_7b_ai_open_source_model"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2023-09-27, 19:42:53",
-      "https://lobste.rs/s/v4fric/lambda_s_engineering_philosophy"
+      "2023-09-27, 17:37:14",
+      "https://lobste.rs/s/xczwxa/champagne_for_my_real_friends"
     ],
     [
-      "Lambda’s engineering philosophy",
-      "https://blog.lambdaclass.com/lambdas-engineering-philosophy/"
+      "Champagne for my real friends",
+      "http://jeremybmerrill.com/documents/champagnerealpain.html"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Eyra is an interesting Rust project",
       "https://notgull.net/eyra/"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 17:31:57",
-      "https://lobste.rs/s/zwthrh/organizing_go_module"
-    ],
-    [
-      "Organizing a Go module",
-      "https://go.dev/doc/modules/layout"
     ]
   ],
   [
