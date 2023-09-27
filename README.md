@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-27, 12:32:25](https://lobste.rs/s/bxfelc/playing_with_caml_light_on_dos) - [Playing with Caml Light on DOS](https://www.cambus.net/playing-with-caml-light-on-dos/)
 * [2023-09-27, 11:48:41](https://lobste.rs/s/qygnov/uiua_concatenative_array_programming) - [Uiua - a concatenative array programming language](https://www.uiua.org/)
 * [2023-09-27, 10:30:51](https://lobste.rs/s/g1zzsd/gammaray_for_qt_3_0_0_is_released) - [GammaRay for Qt 3.0.0 is released](https://www.kdab.com/gammaray-3-0-0-is-released/)
 * [2023-09-27, 10:27:43](https://lobste.rs/s/spzfnz/how_i_got_robbed_my_first_kernel) - [How I got robbed of my first kernel contribution](https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/)
@@ -16,7 +17,6 @@
 * [2023-09-26, 20:50:05](https://lobste.rs/s/a5aqvl/counting_ghosts_case_for_abandoning_web) - [Counting Ghosts: A case for abandoning web analytics](https://pcmaffey.com/counting-ghosts)
 * [2023-09-26, 20:03:46](https://lobste.rs/s/liyvri/managed_databases_with_sqlc_vet) - [Managed databases with sqlc vet](https://sqlc.dev/posts/2023/09/25/v1.22.0-managed-databases/)
 * [2023-09-26, 19:23:21](https://lobste.rs/s/dx3mj6/using_monadlogger_without_loggingt) - [Using MonadLogger without LoggingT](https://nicolashery.com/monadlogger-without-loggingt/)
-* [2023-09-26, 18:11:15](https://lobste.rs/s/ikjs0s/exploring_linux_command_line_space_time) - [Exploring Linux command-line space time](https://fabiensanglard.net/st/index.html)
 * [2023-09-26, 18:07:24](https://lobste.rs/s/tmk2il/formal_methods_can_t_fix_everything_s_okay) - [Formal Methods can't fix everything and that's okay](https://buttondown.email/hillelwayne/archive/formal-methods-cant-fix-everything-and-thats-okay/)
 * [2023-09-26, 17:31:57](https://lobste.rs/s/zwthrh/organizing_go_module) - [Organizing a Go module](https://go.dev/doc/modules/layout)
 * [2023-09-26, 13:30:04](https://lobste.rs/s/uhu2w7/water_surface_simulation_on_nes) - [Water surface simulation on the NES](https://www.kickstarter.com/projects/morphcat-games/triple-jump-a-platformer-multi-cartridge-for-the-nes/posts/3918838)
