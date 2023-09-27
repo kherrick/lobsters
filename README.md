@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-27, 00:23:35](https://lobste.rs/s/rlkybm/getting_postgres_logs_github_action) - [Getting Postgres logs in a GitHub Action](https://brandur.org/fragments/postgres-logs-in-github-actions)
 * [2023-09-26, 22:55:23](https://lobste.rs/s/7c0oo1/armfuck_turing_completeness_from_two) - [ARMfuck: Turing completeness from two RISC instructions](https://kellanclark.github.io/2023/09/18/armfuck/)
 * [2023-09-26, 22:13:49](https://lobste.rs/s/ctfk0v/how_many_days_has_it_been_since_jwt_alg_none) - [How Many Days Has It Been Since a JWT alg=none Vulnerability?](https://www.howmanydayssinceajwtalgnonevuln.com/)
 * [2023-09-26, 22:04:43](https://lobste.rs/s/jebmrs/gpu_zip_new_type_side_channel_exposing) - [GPU.zip: a new type of side channel exposing visual data processed on the GPU](https://www.hertzbleed.com/gpu.zip/)
@@ -24,7 +25,6 @@
 * [2023-09-25, 22:51:13](https://lobste.rs/s/o4d3mr/geospatial_sql_queries_sqlite_using_tg) - [Geospatial SQL queries in SQLite using TG, sqlite-tg and datasette-sqlite-tg](https://til.simonwillison.net/sqlite/sqlite-tg)
 * [2023-09-25, 16:10:04](https://lobste.rs/s/leyibh/lets_just_try_it) - [Lets just try it](https://frankwiles.com/posts/lets-just-try-it/)
 * [2023-09-25, 13:27:48](https://lobste.rs/s/ovrpwy/gleam_v0_31_0_released) - [Gleam v0.31.0 released](https://gleam.run/news/v0.31-keeping-dependencies-explicit/)
-* [2023-09-25, 13:18:43](https://lobste.rs/s/vsovl9/postscript_s_sudden_death_sonoma) - [PostScript’s sudden death in Sonoma](https://eclecticlight.co/2023/09/25/postscripts-sudden-death-in-sonoma/)
 
 ## [Archives](archives/index.md)
 
