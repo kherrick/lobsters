@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-27](index.md)
 
+* [2023-09-27, 19:42:53](https://lobste.rs/s/v4fric/lambda_s_engineering_philosophy) - [Lambda’s engineering philosophy](https://blog.lambdaclass.com/lambdas-engineering-philosophy/)
 * [2023-09-27, 18:26:57](https://lobste.rs/s/skxn9r/finding_bathroom_faucets_with) - [Finding Bathroom Faucets with Embeddings](https://www.dbreunig.com/2023/09/26/faucet-finder.html)
 * [2023-09-27, 18:10:20](https://lobste.rs/s/5zasmz/ipv6_router_advertisement_why_is_it) - [IPv6 Router Advertisement: Why is it enabled by default on some network vendors?](https://www.daryllswer.com/ipv6-router-advertisement-why-is-it-enabled-by-default-on-some-network-vendors/)
 * [2023-09-27, 17:59:07](https://lobste.rs/s/zygcqk/meet_swiftgodot) - [Meet SwiftGodot](https://migueldeicaza.github.io/SwiftGodotDocs/tutorials/swiftgodot-tutorials/)

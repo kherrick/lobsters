@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-27, 19:42:53](https://lobste.rs/s/v4fric/lambda_s_engineering_philosophy) - [Lambda’s engineering philosophy](https://blog.lambdaclass.com/lambdas-engineering-philosophy/)
 * [2023-09-27, 17:35:59](https://lobste.rs/s/mwthtn/casual_maintenance_intended) - [Casual Maintenance Intended](https://casuallymaintained.tech)
 * [2023-09-27, 17:33:18](https://lobste.rs/s/kjleh7/super_fast_sphinx_docs_snob_driven) - [Super-fast Sphinx docs, and SNOB driven development](https://lukeplant.me.uk/blog/posts/super-fast-sphinx-docs/)
 * [2023-09-27, 16:20:50](https://lobste.rs/s/1wfnct/robots_txt) - [Robots.txt](https://blog.jim-nielsen.com/2023/robots-txt/)
@@ -23,7 +24,6 @@
 * [2023-09-26, 20:53:20](https://lobste.rs/s/nyjqnv/eyra_is_interesting_rust_project) - [Eyra is an interesting Rust project](https://notgull.net/eyra/)
 * [2023-09-26, 17:31:57](https://lobste.rs/s/zwthrh/organizing_go_module) - [Organizing a Go module](https://go.dev/doc/modules/layout)
 * [2023-09-26, 13:30:04](https://lobste.rs/s/uhu2w7/water_surface_simulation_on_nes) - [Water surface simulation on the NES](https://www.kickstarter.com/projects/morphcat-games/triple-jump-a-platformer-multi-cartridge-for-the-nes/posts/3918838)
-* [2023-09-26, 12:07:24](https://lobste.rs/s/mfupg5/upsert_sql) - [Upsert in SQL](https://antonz.org/sql-upsert/)
 * [2023-09-26, 11:09:37](https://lobste.rs/s/wdi78j/how_not_apply_for_software_job) - [How (not) to apply for a software job](https://benhoyt.com/writings/how-to-apply/)
 
 ## [Archives](archives/index.md)
