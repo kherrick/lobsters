@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-27, 12:40:05",
+      "https://lobste.rs/s/ps5wpm/deconstructing_type_parameters"
+    ],
+    [
+      "Deconstructing Type Parameters",
+      "https://go.dev/blog/deconstructing-type-parameters"
+    ]
+  ],
+  [
+    [
       "2023-09-27, 12:32:25",
       "https://lobste.rs/s/bxfelc/playing_with_caml_light_on_dos"
     ],
@@ -32,10 +42,10 @@
   [
     [
       "2023-09-27, 10:27:43",
-      "https://lobste.rs/s/spzfnz/how_i_got_robbed_my_first_kernel"
+      "https://lobste.rs/s/spzfnz/how_i_my_first_kernel_contribution_wasn_t"
     ],
     [
-      "How I got robbed of my first kernel contribution",
+      "How I my first kernel contribution wasn’t accepted",
       "https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/"
     ]
   ],
@@ -217,16 +227,6 @@
     [
       "How (not) to apply for a software job",
       "https://benhoyt.com/writings/how-to-apply/"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 03:48:27",
-      "https://lobste.rs/s/1keeke/lil_scripting_language"
-    ],
-    [
-      "Lil: A Scripting Language",
-      "http://beyondloom.com/decker/lil.html"
     ]
   ],
   [
