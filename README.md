@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-09-27, 18:10:20](https://lobste.rs/s/5zasmz/ipv6_router_advertisement_why_is_it) - [IPv6 Router Advertisement: Why is it enabled by default on some network vendors?](https://www.daryllswer.com/ipv6-router-advertisement-why-is-it-enabled-by-default-on-some-network-vendors/)
+* [2023-09-27, 18:26:57](https://lobste.rs/s/skxn9r/finding_bathroom_faucets_with) - [Finding Bathroom Faucets with Embeddings](https://www.dbreunig.com/2023/09/26/faucet-finder.html)
 * [2023-09-27, 17:35:59](https://lobste.rs/s/mwthtn/casual_maintenance_intended) - [Casual Maintenance Intended](https://casuallymaintained.tech)
 * [2023-09-27, 17:33:18](https://lobste.rs/s/kjleh7/super_fast_sphinx_docs_snob_driven) - [Super-fast Sphinx docs, and SNOB driven development](https://lukeplant.me.uk/blog/posts/super-fast-sphinx-docs/)
 * [2023-09-27, 16:20:50](https://lobste.rs/s/1wfnct/robots_txt) - [Robots.txt](https://blog.jim-nielsen.com/2023/robots-txt/)
