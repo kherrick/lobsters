@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-27, 05:48:37](https://lobste.rs/s/8rloiu/gnu_40th_anniversary) - [GNU 40th anniversary](https://www.gnu.org/gnu40/)
 * [2023-09-27, 00:23:35](https://lobste.rs/s/rlkybm/getting_postgres_logs_github_action) - [Getting Postgres logs in a GitHub Action](https://brandur.org/fragments/postgres-logs-in-github-actions)
 * [2023-09-26, 22:55:23](https://lobste.rs/s/7c0oo1/armfuck_turing_completeness_from_two) - [ARMfuck: Turing completeness from two RISC instructions](https://kellanclark.github.io/2023/09/18/armfuck/)
 * [2023-09-26, 22:13:49](https://lobste.rs/s/ctfk0v/how_many_days_has_it_been_since_jwt_alg_none) - [How Many Days Has It Been Since a JWT alg=none Vulnerability?](https://www.howmanydayssinceajwtalgnonevuln.com/)
@@ -18,7 +19,6 @@
 * [2023-09-26, 13:30:04](https://lobste.rs/s/uhu2w7/water_surface_simulation_on_nes) - [Water surface simulation on the NES](https://www.kickstarter.com/projects/morphcat-games/triple-jump-a-platformer-multi-cartridge-for-the-nes/posts/3918838)
 * [2023-09-26, 12:07:24](https://lobste.rs/s/mfupg5/upsert_sql) - [Upsert in SQL](https://antonz.org/sql-upsert/)
 * [2023-09-26, 11:09:37](https://lobste.rs/s/wdi78j/how_not_apply_for_software_job) - [How (not) to apply for a software job](https://benhoyt.com/writings/how-to-apply/)
-* [2023-09-26, 08:04:52](https://lobste.rs/s/azhjab/deep_dive_into_clang_s_source_file) - [A deep dive into Clang's source file compilation](https://maskray.me/blog/2023-09-24-a-deep-dive-into-clang-source-file-compilation)
 * [2023-09-26, 03:51:10](https://lobste.rs/s/pdls0c/guids_how_i_messed_up_my_rss_feed) - [GUIDs - How I messed up my RSS feed](https://theorangeone.net/posts/rss-guids/)
 * [2023-09-26, 03:48:27](https://lobste.rs/s/1keeke/lil_scripting_language) - [Lil: A Scripting Language](http://beyondloom.com/decker/lil.html)
 * [2023-09-26, 03:07:04](https://lobste.rs/s/5uyjxi/linux_from_scratch) - [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/stable/)
