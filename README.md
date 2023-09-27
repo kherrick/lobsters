@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-27, 15:39:34](https://lobste.rs/s/g44oeq/rust_vs_go_hands_on_comparison) - [Rust Vs Go: A Hands-On Comparison](https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison)
 * [2023-09-27, 14:57:07](https://lobste.rs/s/uzei4e/pymilo_new_python_library_for_ml_i_o) - [PyMilo: New Python Library for ML I/O](https://github.com/openscilab/pymilo)
 * [2023-09-27, 14:28:28](https://lobste.rs/s/hzx2oi/clickhouse_keeper_zookeeper) - [ClickHouse Keeper: A ZooKeeper alternative written in C++](https://clickhouse.com/blog/clickhouse-keeper-a-zookeeper-alternative-written-in-cpp)
 * [2023-09-27, 13:47:16](https://lobste.rs/s/zku7zr/lost_language_extensions_metaware_s_high) - [The lost language extensions of MetaWare's High C Compiler](https://cohost.org/jckarter/post/2955755-the-lost-language-ex)
@@ -19,7 +20,6 @@
 * [2023-09-26, 21:15:20](https://lobste.rs/s/nntmwc/introduction_sysclean_8_on_openbsd) - [Introduction to sysclean(8) on OpenBSD](https://kapouay.eu.org/notes/sysclean-intro/)
 * [2023-09-26, 20:53:20](https://lobste.rs/s/nyjqnv/eyra_is_interesting_rust_project) - [Eyra is an interesting Rust project](https://notgull.net/eyra/)
 * [2023-09-26, 20:50:05](https://lobste.rs/s/a5aqvl/counting_ghosts_case_for_abandoning_web) - [Counting Ghosts: A case for abandoning web analytics](https://pcmaffey.com/counting-ghosts)
-* [2023-09-26, 19:23:21](https://lobste.rs/s/dx3mj6/using_monadlogger_without_loggingt) - [Using MonadLogger without LoggingT](https://nicolashery.com/monadlogger-without-loggingt/)
 * [2023-09-26, 18:07:24](https://lobste.rs/s/tmk2il/formal_methods_can_t_fix_everything_s_okay) - [Formal Methods can't fix everything and that's okay](https://buttondown.email/hillelwayne/archive/formal-methods-cant-fix-everything-and-thats-okay/)
 * [2023-09-26, 17:31:57](https://lobste.rs/s/zwthrh/organizing_go_module) - [Organizing a Go module](https://go.dev/doc/modules/layout)
 * [2023-09-26, 13:30:04](https://lobste.rs/s/uhu2w7/water_surface_simulation_on_nes) - [Water surface simulation on the NES](https://www.kickstarter.com/projects/morphcat-games/triple-jump-a-platformer-multi-cartridge-for-the-nes/posts/3918838)
