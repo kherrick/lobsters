@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-27, 11:48:41](https://lobste.rs/s/qygnov/uiua_concatenative_array_programming) - [Uiua - a concatenative array programming language](https://www.uiua.org/)
 * [2023-09-27, 10:30:51](https://lobste.rs/s/g1zzsd/gammaray_for_qt_3_0_0_is_released) - [GammaRay for Qt 3.0.0 is released](https://www.kdab.com/gammaray-3-0-0-is-released/)
 * [2023-09-27, 10:27:43](https://lobste.rs/s/spzfnz/how_i_got_robbed_my_first_kernel) - [How I got robbed of my first kernel contribution](https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/)
 * [2023-09-27, 06:20:35](https://lobste.rs/s/lejuol/changing_node_version_requirements) - [Changing Node Version Requirements Should Not Bump Your Major Version](https://rtpg.co/2023/09/27/avoiding-major-version-bumps-for-node/)
@@ -18,7 +19,6 @@
 * [2023-09-26, 18:11:15](https://lobste.rs/s/ikjs0s/exploring_linux_command_line_space_time) - [Exploring Linux command-line space time](https://fabiensanglard.net/st/index.html)
 * [2023-09-26, 18:07:24](https://lobste.rs/s/tmk2il/formal_methods_can_t_fix_everything_s_okay) - [Formal Methods can't fix everything and that's okay](https://buttondown.email/hillelwayne/archive/formal-methods-cant-fix-everything-and-thats-okay/)
 * [2023-09-26, 17:31:57](https://lobste.rs/s/zwthrh/organizing_go_module) - [Organizing a Go module](https://go.dev/doc/modules/layout)
-* [2023-09-26, 13:42:57](https://lobste.rs/s/orejex/folded_polynomial_n64_optimization) - [The Folded Polynomial - N64 Optimization](https://www.youtube.com/watch?v=hffgNRfL1XY)
 * [2023-09-26, 13:30:04](https://lobste.rs/s/uhu2w7/water_surface_simulation_on_nes) - [Water surface simulation on the NES](https://www.kickstarter.com/projects/morphcat-games/triple-jump-a-platformer-multi-cartridge-for-the-nes/posts/3918838)
 * [2023-09-26, 12:07:24](https://lobste.rs/s/mfupg5/upsert_sql) - [Upsert in SQL](https://antonz.org/sql-upsert/)
 * [2023-09-26, 11:09:37](https://lobste.rs/s/wdi78j/how_not_apply_for_software_job) - [How (not) to apply for a software job](https://benhoyt.com/writings/how-to-apply/)
