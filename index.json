@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-28, 16:11:36",
+      "https://lobste.rs/s/cnpaup/was_javascript_really_made_10_days"
+    ],
+    [
+      "Was Javascript really made in 10 days?",
+      "https://buttondown.email/hillelwayne/archive/did-brendan-eich-really-make-javascript-in-10-days/"
+    ]
+  ],
+  [
+    [
+      "2023-09-28, 16:04:52",
+      "https://lobste.rs/s/tbujtq/qt_6_5_3_released"
+    ],
+    [
+      "Qt 6.5.3 Released",
+      "https://www.qt.io/blog/qt-6.5.3-released"
+    ]
+  ],
+  [
+    [
       "2023-09-28, 14:42:52",
       "https://lobste.rs/s/rxiytz/s_lot_yaml"
     ],
@@ -97,16 +117,6 @@
     [
       "Random walk in 2 lines of J",
       "https://asindu.xyz/posts/random-walk-in-2-lines-of-j/"
-    ]
-  ],
-  [
-    [
-      "2023-09-27, 18:26:57",
-      "https://lobste.rs/s/skxn9r/finding_bathroom_faucets_with"
-    ],
-    [
-      "Finding Bathroom Faucets with Embeddings",
-      "https://www.dbreunig.com/2023/09/26/faucet-finder.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Dotfiles matter",
       "https://dotfiles-matter.click/"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 20:53:20",
-      "https://lobste.rs/s/nyjqnv/eyra_is_interesting_rust_project"
-    ],
-    [
-      "Eyra is an interesting Rust project",
-      "https://notgull.net/eyra/"
     ]
   ]
 ]
