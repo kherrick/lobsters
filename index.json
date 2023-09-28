@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2023-09-28, 16:04:52",
-      "https://lobste.rs/s/tbujtq/qt_6_5_3_released"
-    ],
-    [
-      "Qt 6.5.3 Released",
-      "https://www.qt.io/blog/qt-6.5.3-released"
-    ]
-  ],
-  [
-    [
       "2023-09-28, 14:42:52",
       "https://lobste.rs/s/rxiytz/s_lot_yaml"
     ],
@@ -197,6 +187,16 @@
     [
       "Robots.txt",
       "https://blog.jim-nielsen.com/2023/robots-txt/"
+    ]
+  ],
+  [
+    [
+      "2023-09-27, 16:15:34",
+      "https://lobste.rs/s/tgvwtb/announcing_deno_queues"
+    ],
+    [
+      "Announcing Deno Queues",
+      "https://deno.com/blog/queues"
     ]
   ],
   [
