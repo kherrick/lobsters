@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-28, 20:10:03",
+      "https://lobste.rs/s/mbq0vg/saga_closure_compiler_why_typescript_won"
+    ],
+    [
+      "The Saga of the Closure Compiler, and Why TypeScript Won",
+      "https://effectivetypescript.com/2023/09/27/closure-compiler/"
+    ]
+  ],
+  [
+    [
       "2023-09-28, 18:45:13",
       "https://lobste.rs/s/kgct6h/better_than_yaml"
     ],
@@ -187,16 +197,6 @@
     [
       "Robots.txt",
       "https://blog.jim-nielsen.com/2023/robots-txt/"
-    ]
-  ],
-  [
-    [
-      "2023-09-27, 16:15:34",
-      "https://lobste.rs/s/tgvwtb/announcing_deno_queues"
-    ],
-    [
-      "Announcing Deno Queues",
-      "https://deno.com/blog/queues"
     ]
   ],
   [
