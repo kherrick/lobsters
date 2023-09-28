@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
+* [2023-09-28, 16:11:36](https://lobste.rs/s/cnpaup/was_javascript_really_made_10_days) - [Was Javascript really made in 10 days?](https://buttondown.email/hillelwayne/archive/did-brendan-eich-really-make-javascript-in-10-days/)
+* [2023-09-28, 16:04:52](https://lobste.rs/s/tbujtq/qt_6_5_3_released) - [Qt 6.5.3 Released](https://www.qt.io/blog/qt-6.5.3-released)
 * [2023-09-28, 14:42:52](https://lobste.rs/s/rxiytz/s_lot_yaml) - [That's a lot of YAML](https://noyaml.com)
 * [2023-09-28, 13:14:03](https://lobste.rs/s/pdpm41/aborted_experiment_with_server_swift) - [an aborted experiment with server swift](https://flak.tedunangst.com/post/an-aborted-experiment-with-server-swift)
 * [2023-09-28, 11:49:13](https://lobste.rs/s/oul1ku/better_postman_alternative_hoppscotch) - [A better Postman alternative: Hoppscotch](https://jlelse.blog/dev/hoppscotch)

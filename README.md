@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-28, 16:11:36](https://lobste.rs/s/cnpaup/was_javascript_really_made_10_days) - [Was Javascript really made in 10 days?](https://buttondown.email/hillelwayne/archive/did-brendan-eich-really-make-javascript-in-10-days/)
+* [2023-09-28, 16:04:52](https://lobste.rs/s/tbujtq/qt_6_5_3_released) - [Qt 6.5.3 Released](https://www.qt.io/blog/qt-6.5.3-released)
 * [2023-09-28, 14:42:52](https://lobste.rs/s/rxiytz/s_lot_yaml) - [That's a lot of YAML](https://noyaml.com)
 * [2023-09-28, 13:14:03](https://lobste.rs/s/pdpm41/aborted_experiment_with_server_swift) - [an aborted experiment with server swift](https://flak.tedunangst.com/post/an-aborted-experiment-with-server-swift)
 * [2023-09-28, 11:38:31](https://lobste.rs/s/dj4h0s/analysis_deepmind_s_language_modeling_is) - [An Analysis of DeepMind's 'Language Modeling Is Compression' Paper](https://codeconfessions.substack.com/p/language-modeling-is-compression)
@@ -10,7 +12,6 @@
 * [2023-09-28, 02:13:20](https://lobste.rs/s/odteem/controlling_large_software_development) - [Controlling Large Software Development In a Distributed Environment (1982)](http://www.bitsavers.org/pdf/xerox/parc/techReports/CSL-82-7_Controlling_Large_Software_Development_In_a_Distributed_Environment.pdf)
 * [2023-09-27, 21:26:10](https://lobste.rs/s/77rb8j/rethinking_setup_convention_neovim_is_it) - [Rethinking the `setup` convention in Neovim. Is it time for a paradigm shift?](https://mrcjkb.dev/posts/2023-08-22-setup.html)
 * [2023-09-27, 21:01:32](https://lobste.rs/s/jsjank/random_walk_2_lines_j) - [Random walk in 2 lines of J](https://asindu.xyz/posts/random-walk-in-2-lines-of-j/)
-* [2023-09-27, 18:26:57](https://lobste.rs/s/skxn9r/finding_bathroom_faucets_with) - [Finding Bathroom Faucets with Embeddings](https://www.dbreunig.com/2023/09/26/faucet-finder.html)
 * [2023-09-27, 17:59:07](https://lobste.rs/s/zygcqk/meet_swiftgodot) - [Meet SwiftGodot](https://migueldeicaza.github.io/SwiftGodotDocs/tutorials/swiftgodot-tutorials/)
 * [2023-09-27, 17:37:14](https://lobste.rs/s/xczwxa/champagne_for_my_real_friends) - [Champagne for my real friends](http://jeremybmerrill.com/documents/champagnerealpain.html)
 * [2023-09-27, 17:35:59](https://lobste.rs/s/mwthtn/casual_maintenance_intended) - [Casual Maintenance Intended](https://casuallymaintained.tech)
@@ -24,7 +25,6 @@
 * [2023-09-27, 11:48:41](https://lobste.rs/s/qygnov/uiua_concatenative_array_programming) - [Uiua - a concatenative array programming language](https://www.uiua.org/)
 * [2023-09-27, 05:59:45](https://lobste.rs/s/sutuvh/arena_allocator_tips_tricks) - [Arena allocator tips and tricks](https://nullprogram.com/blog/2023/09/27/)
 * [2023-09-26, 21:38:00](https://lobste.rs/s/dpmfrd/dotfiles_matter) - [Dotfiles matter](https://dotfiles-matter.click/)
-* [2023-09-26, 20:53:20](https://lobste.rs/s/nyjqnv/eyra_is_interesting_rust_project) - [Eyra is an interesting Rust project](https://notgull.net/eyra/)
 
 ## [Archives](archives/index.md)
 
