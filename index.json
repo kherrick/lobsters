@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-28, 17:10:49",
+      "https://lobste.rs/s/oywraq/pitfalls_lambda_capture_initialization"
+    ],
+    [
+      "Pitfalls of lambda capture initialization in C++",
+      "https://www.arnorehn.de/blog/2023/09/27/pitfalls-of-lambda-capture-initialization/"
+    ]
+  ],
+  [
+    [
       "2023-09-28, 16:43:22",
       "https://lobste.rs/s/0a7pod/demystifying_database_transcations"
     ],
@@ -197,16 +207,6 @@
     [
       "The lost language extensions of MetaWare's High C Compiler",
       "https://cohost.org/jckarter/post/2955755-the-lost-language-ex"
-    ]
-  ],
-  [
-    [
-      "2023-09-27, 13:18:21",
-      "https://lobste.rs/s/g1sux7/essence_desktop_os_built_from_scratch_for"
-    ],
-    [
-      "Essence: A desktop OS built from scratch, for control and simplicity",
-      "https://nakst.gitlab.io/essence"
     ]
   ],
   [
