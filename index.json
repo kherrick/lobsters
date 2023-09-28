@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-28, 05:42:40",
+      "https://lobste.rs/s/d1jdol/raspberry_pi_5_datasheet_leak"
+    ],
+    [
+      "Raspberry Pi 5 datasheet leak",
+      "https://datasheets.raspberrypi.com/rpi5/raspberry-pi-5-product-brief.pdf"
+    ]
+  ],
+  [
+    [
       "2023-09-28, 03:29:39",
       "https://lobste.rs/s/ijwygq/how_get_started_hacking_netbsd"
     ],
@@ -237,16 +247,6 @@
     [
       "Eyra is an interesting Rust project",
       "https://notgull.net/eyra/"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 13:30:04",
-      "https://lobste.rs/s/uhu2w7/water_surface_simulation_on_nes"
-    ],
-    [
-      "Water surface simulation on the NES",
-      "https://www.kickstarter.com/projects/morphcat-games/triple-jump-a-platformer-multi-cartridge-for-the-nes/posts/3918838"
     ]
   ]
 ]
