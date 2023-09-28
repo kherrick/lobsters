@@ -22,7 +22,7 @@
 * [2023-09-27, 11:48:41](https://lobste.rs/s/qygnov/uiua_concatenative_array_programming) - [Uiua - a concatenative array programming language](https://www.uiua.org/)
 * [2023-09-27, 10:27:43](https://lobste.rs/s/spzfnz/how_my_first_kernel_contribution_wasn_t) - [How my first kernel contribution wasn’t accepted](https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/)
 * [2023-09-27, 05:59:45](https://lobste.rs/s/sutuvh/arena_allocator_tips_tricks) - [Arena allocator tips and tricks](https://nullprogram.com/blog/2023/09/27/)
-* [2023-09-26, 22:13:49](https://lobste.rs/s/ctfk0v/how_many_days_has_it_been_since_jwt_alg_none) - [How Many Days Has It Been Since a JWT alg=none Vulnerability?](https://www.howmanydayssinceajwtalgnonevuln.com/)
+* [2023-09-27, 05:48:37](https://lobste.rs/s/8rloiu/gnu_40th_anniversary) - [GNU 40th anniversary](https://www.gnu.org/gnu40/)
 * [2023-09-26, 21:38:00](https://lobste.rs/s/dpmfrd/dotfiles_matter) - [Dotfiles matter](https://dotfiles-matter.click/)
 * [2023-09-26, 20:53:20](https://lobste.rs/s/nyjqnv/eyra_is_interesting_rust_project) - [Eyra is an interesting Rust project](https://notgull.net/eyra/)
 
