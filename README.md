@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-09-28, 06:10:40](https://lobste.rs/s/faeilh/backflip) - [backflip](https://www.youtube.com/watch?v=1zUJzzRu-xs)
-* [2023-09-28, 05:42:40](https://lobste.rs/s/d1jdol/raspberry_pi_5_datasheet_leak) - [Raspberry Pi 5 datasheet leak](https://datasheets.raspberrypi.com/rpi5/raspberry-pi-5-product-brief.pdf)
+* [2023-09-28, 05:42:40](https://lobste.rs/s/d1jdol/raspberry_pi_5_announced) - [Raspberry Pi 5 announced](https://datasheets.raspberrypi.com/rpi5/raspberry-pi-5-product-brief.pdf)
 * [2023-09-28, 03:29:39](https://lobste.rs/s/ijwygq/how_get_started_hacking_netbsd) - [How to get started hacking NetBSD](https://2023.eurobsdcon.org/slides/eurobsdcon2023-taylor_campbell-getstarted.pdf)
 * [2023-09-27, 21:26:10](https://lobste.rs/s/77rb8j/rethinking_setup_convention_neovim_is_it) - [Rethinking the `setup` convention in Neovim. Is it time for a paradigm shift?](https://mrcjkb.dev/posts/2023-08-22-setup.html)
 * [2023-09-27, 21:01:45](https://lobste.rs/s/9ipp9z/bloom_filter_calculator) - [Bloom filter calculator](https://hur.st/bloomfilter/)
