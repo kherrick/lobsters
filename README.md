@@ -2,7 +2,6 @@
 
 * [2023-09-28, 20:29:18](https://lobste.rs/s/orhck0/making_gaussian_splats_more_smaller) - [Making Gaussian Splats more smaller ·](https://aras-p.info/blog/2023/09/27/Making-Gaussian-Splats-more-smaller/)
 * [2023-09-28, 20:10:03](https://lobste.rs/s/mbq0vg/saga_closure_compiler_why_typescript_won) - [The Saga of the Closure Compiler, and Why TypeScript Won](https://effectivetypescript.com/2023/09/27/closure-compiler/)
-* [2023-09-28, 18:45:13](https://lobste.rs/s/kgct6h/better_than_yaml) - [Better Than YAML](https://wiki.alopex.li/BetterThanYaml)
 * [2023-09-28, 18:21:44](https://lobste.rs/s/uzuj6m/inxidents_minimal_incident_monitoring) - [Inxidents, a minimal incident monitoring tool with alerts and real-time dashboard in Go](https://github.com/piqoni/inxidents)
 * [2023-09-28, 18:07:20](https://lobste.rs/s/s7vdrx/python_3_12_preview_static_typing) - [Python 3.12 Preview: Static Typing Improvements](https://realpython.com/python312-typing/)
 * [2023-09-28, 17:10:49](https://lobste.rs/s/oywraq/pitfalls_lambda_capture_initialization) - [Pitfalls of lambda capture initialization in C++](https://www.arnorehn.de/blog/2023/09/27/pitfalls-of-lambda-capture-initialization/)
@@ -15,6 +14,7 @@
 * [2023-09-28, 08:02:42](https://lobste.rs/s/nzglpl/caps_lock_behaviour_disabled_gnome) - [CAPS LOCK BEHAVIOUR DISABLED IN GNOME](https://popey.com/blog/2023/09/caps-lock-behaviour-disabled-in-gnome/)
 * [2023-09-28, 05:42:40](https://lobste.rs/s/d1jdol/raspberry_pi_5_announced) - [Raspberry Pi 5 announced](https://datasheets.raspberrypi.com/rpi5/raspberry-pi-5-product-brief.pdf)
 * [2023-09-28, 03:29:39](https://lobste.rs/s/ijwygq/how_get_started_hacking_netbsd) - [How to get started hacking NetBSD](https://2023.eurobsdcon.org/slides/eurobsdcon2023-taylor_campbell-getstarted.pdf)
+* [2023-09-27, 21:26:10](https://lobste.rs/s/77rb8j/rethinking_setup_convention_neovim_is_it) - [Rethinking the `setup` convention in Neovim. Is it time for a paradigm shift?](https://mrcjkb.dev/posts/2023-08-22-setup.html)
 * [2023-09-27, 21:01:32](https://lobste.rs/s/jsjank/random_walk_2_lines_j) - [Random walk in 2 lines of J](https://asindu.xyz/posts/random-walk-in-2-lines-of-j/)
 * [2023-09-27, 17:37:14](https://lobste.rs/s/xczwxa/champagne_for_my_real_friends) - [Champagne for my real friends](http://jeremybmerrill.com/documents/champagnerealpain.html)
 * [2023-09-27, 17:35:59](https://lobste.rs/s/mwthtn/casual_maintenance_intended) - [Casual Maintenance Intended](https://casuallymaintained.tech)
