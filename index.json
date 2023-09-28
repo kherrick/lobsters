@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-28, 02:13:20",
+      "https://lobste.rs/s/odteem/controlling_large_software_development"
+    ],
+    [
+      "Controlling Large Software Development In a Distributed Environment (1982)",
+      "http://www.bitsavers.org/pdf/xerox/parc/techReports/CSL-82-7_Controlling_Large_Software_Development_In_a_Distributed_Environment.pdf"
+    ]
+  ],
+  [
+    [
       "2023-09-27, 21:26:10",
       "https://lobste.rs/s/77rb8j/rethinking_setup_convention_neovim_is_it"
     ],
@@ -237,16 +247,6 @@
     [
       "Water surface simulation on the NES",
       "https://www.kickstarter.com/projects/morphcat-games/triple-jump-a-platformer-multi-cartridge-for-the-nes/posts/3918838"
-    ]
-  ],
-  [
-    [
-      "2023-09-26, 11:09:37",
-      "https://lobste.rs/s/wdi78j/how_not_apply_for_software_job"
-    ],
-    [
-      "How (not) to apply for a software job",
-      "https://benhoyt.com/writings/how-to-apply/"
     ]
   ]
 ]
