@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-28, 18:45:13](https://lobste.rs/s/kgct6h/better_than_yaml) - [Better Than YAML](https://wiki.alopex.li/BetterThanYaml)
 * [2023-09-28, 18:21:44](https://lobste.rs/s/uzuj6m/inxidents_minimal_incident_monitoring) - [Inxidents, a minimal incident monitoring tool with alerts and real-time dashboard in Go](https://github.com/piqoni/inxidents)
 * [2023-09-28, 18:07:20](https://lobste.rs/s/s7vdrx/python_3_12_preview_static_typing) - [Python 3.12 Preview: Static Typing Improvements](https://realpython.com/python312-typing/)
 * [2023-09-28, 17:10:49](https://lobste.rs/s/oywraq/pitfalls_lambda_capture_initialization) - [Pitfalls of lambda capture initialization in C++](https://www.arnorehn.de/blog/2023/09/27/pitfalls-of-lambda-capture-initialization/)
@@ -23,7 +24,6 @@
 * [2023-09-27, 13:47:16](https://lobste.rs/s/zku7zr/lost_language_extensions_metaware_s_high) - [The lost language extensions of MetaWare's High C Compiler](https://cohost.org/jckarter/post/2955755-the-lost-language-ex)
 * [2023-09-27, 12:32:25](https://lobste.rs/s/bxfelc/playing_with_caml_light_on_dos) - [Playing with Caml Light on DOS](https://www.cambus.net/playing-with-caml-light-on-dos/)
 * [2023-09-27, 11:48:41](https://lobste.rs/s/qygnov/uiua_concatenative_array_programming) - [Uiua - a concatenative array programming language](https://www.uiua.org/)
-* [2023-09-27, 05:59:45](https://lobste.rs/s/sutuvh/arena_allocator_tips_tricks) - [Arena allocator tips and tricks](https://nullprogram.com/blog/2023/09/27/)
 * [2023-09-26, 21:38:00](https://lobste.rs/s/dpmfrd/dotfiles_matter) - [Dotfiles matter](https://dotfiles-matter.click/)
 
 ## [Archives](archives/index.md)
