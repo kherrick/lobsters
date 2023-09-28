@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
+* [2023-09-28, 08:02:42](https://lobste.rs/s/nzglpl/caps_lock_behaviour_disabled_gnome) - [CAPS LOCK BEHAVIOUR DISABLED IN GNOME](https://popey.com/blog/2023/09/caps-lock-behaviour-disabled-in-gnome/)
 * [2023-09-28, 06:28:05](https://lobste.rs/s/nf39oa/introducing_raspberry_pi_5) - [Introducing: Raspberry Pi 5](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/)
 * [2023-09-28, 06:10:40](https://lobste.rs/s/faeilh/backflip) - [backflip](https://www.youtube.com/watch?v=1zUJzzRu-xs)
 * [2023-09-28, 05:42:40](https://lobste.rs/s/d1jdol/raspberry_pi_5_datasheet_leak) - [Raspberry Pi 5 datasheet leak](https://datasheets.raspberrypi.com/rpi5/raspberry-pi-5-product-brief.pdf)
