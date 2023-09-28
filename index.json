@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-28, 08:02:42",
+      "https://lobste.rs/s/nzglpl/caps_lock_behaviour_disabled_gnome"
+    ],
+    [
+      "CAPS LOCK BEHAVIOUR DISABLED IN GNOME",
+      "https://popey.com/blog/2023/09/caps-lock-behaviour-disabled-in-gnome/"
+    ]
+  ],
+  [
+    [
       "2023-09-28, 06:10:40",
       "https://lobste.rs/s/faeilh/backflip"
     ],
@@ -137,16 +147,6 @@
     [
       "Rust Vs Go: A Hands-On Comparison",
       "https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison"
-    ]
-  ],
-  [
-    [
-      "2023-09-27, 14:57:07",
-      "https://lobste.rs/s/uzei4e/pymilo_new_python_library_for_ml_i_o"
-    ],
-    [
-      "PyMilo: New Python Library for ML I/O",
-      "https://github.com/openscilab/pymilo"
     ]
   ],
   [
