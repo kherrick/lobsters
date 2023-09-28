@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-09-28, 18:21:44",
+      "https://lobste.rs/s/uzuj6m/inxidents_minimal_incident_monitoring"
+    ],
+    [
+      "Inxidents, a minimal incident monitoring tool with alerts and real-time dashboard in Go",
+      "https://github.com/piqoni/inxidents"
+    ]
+  ],
+  [
+    [
       "2023-09-28, 18:07:20",
       "https://lobste.rs/s/s7vdrx/python_3_12_preview_static_typing"
     ],
@@ -137,16 +147,6 @@
     [
       "How to get started hacking NetBSD",
       "https://2023.eurobsdcon.org/slides/eurobsdcon2023-taylor_campbell-getstarted.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-09-27, 21:26:10",
-      "https://lobste.rs/s/77rb8j/rethinking_setup_convention_neovim_is_it"
-    ],
-    [
-      "Rethinking the `setup` convention in Neovim. Is it time for a paradigm shift?",
-      "https://mrcjkb.dev/posts/2023-08-22-setup.html"
     ]
   ],
   [
