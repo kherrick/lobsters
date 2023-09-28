@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
+* [2023-09-28, 21:53:27](https://lobste.rs/s/vwy7qp/shallow_survey_olap_htap_query_engines) - [A shallow survey of OLAP and HTAP query engines](https://scattered-thoughts.net/writing/a-shallow-survey-of-olap-and-htap-query-engines/)
 * [2023-09-28, 20:29:18](https://lobste.rs/s/orhck0/making_gaussian_splats_more_smaller) - [Making Gaussian Splats more smaller ·](https://aras-p.info/blog/2023/09/27/Making-Gaussian-Splats-more-smaller/)
 * [2023-09-28, 20:10:03](https://lobste.rs/s/mbq0vg/saga_closure_compiler_why_typescript_won) - [The Saga of the Closure Compiler, and Why TypeScript Won](https://effectivetypescript.com/2023/09/27/closure-compiler/)
 * [2023-09-28, 18:45:13](https://lobste.rs/s/kgct6h/better_than_yaml) - [Better Than YAML](https://wiki.alopex.li/BetterThanYaml)
