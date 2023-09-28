@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-09-28, 03:29:39](https://lobste.rs/s/ijwygq/pdf_how_get_started_hacking_netbsd) - [[pdf]How to get started hacking NetBSD](https://2023.eurobsdcon.org/slides/eurobsdcon2023-taylor_campbell-getstarted.pdf)
+* [2023-09-28, 03:29:39](https://lobste.rs/s/ijwygq/how_get_started_hacking_netbsd) - [How to get started hacking NetBSD](https://2023.eurobsdcon.org/slides/eurobsdcon2023-taylor_campbell-getstarted.pdf)
 * [2023-09-28, 02:13:20](https://lobste.rs/s/odteem/controlling_large_software_development) - [Controlling Large Software Development In a Distributed Environment (1982)](http://www.bitsavers.org/pdf/xerox/parc/techReports/CSL-82-7_Controlling_Large_Software_Development_In_a_Distributed_Environment.pdf)
 * [2023-09-27, 21:26:10](https://lobste.rs/s/77rb8j/rethinking_setup_convention_neovim_is_it) - [Rethinking the `setup` convention in Neovim. Is it time for a paradigm shift?](https://mrcjkb.dev/posts/2023-08-22-setup.html)
 * [2023-09-27, 21:01:45](https://lobste.rs/s/9ipp9z/bloom_filter_calculator) - [Bloom filter calculator](https://hur.st/bloomfilter/)
