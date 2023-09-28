@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-09-28, 13:14:03](https://lobste.rs/s/pdpm41/aborted_experiment_with_server_swift) - [an aborted experiment with server swift](https://flak.tedunangst.com/post/an-aborted-experiment-with-server-swift)
-* [2023-09-28, 11:49:13](https://lobste.rs/s/oul1ku/better_postman_alternative_hoppscotch) - [A better Postman alternative: Hoppscotch](https://jlelse.blog/dev/hoppscotch)
 * [2023-09-28, 11:38:31](https://lobste.rs/s/dj4h0s/analysis_deepmind_s_language_modeling_is) - [An Analysis of DeepMind's 'Language Modeling Is Compression' Paper](https://codeconfessions.substack.com/p/language-modeling-is-compression)
 * [2023-09-28, 08:02:42](https://lobste.rs/s/nzglpl/caps_lock_behaviour_disabled_gnome) - [CAPS LOCK BEHAVIOUR DISABLED IN GNOME](https://popey.com/blog/2023/09/caps-lock-behaviour-disabled-in-gnome/)
 * [2023-09-28, 06:10:40](https://lobste.rs/s/faeilh/backflip) - [backflip](https://www.youtube.com/watch?v=1zUJzzRu-xs)
@@ -10,6 +9,7 @@
 * [2023-09-28, 02:13:20](https://lobste.rs/s/odteem/controlling_large_software_development) - [Controlling Large Software Development In a Distributed Environment (1982)](http://www.bitsavers.org/pdf/xerox/parc/techReports/CSL-82-7_Controlling_Large_Software_Development_In_a_Distributed_Environment.pdf)
 * [2023-09-27, 21:26:10](https://lobste.rs/s/77rb8j/rethinking_setup_convention_neovim_is_it) - [Rethinking the `setup` convention in Neovim. Is it time for a paradigm shift?](https://mrcjkb.dev/posts/2023-08-22-setup.html)
 * [2023-09-27, 21:01:32](https://lobste.rs/s/jsjank/random_walk_2_lines_j) - [Random walk in 2 lines of J](https://asindu.xyz/posts/random-walk-in-2-lines-of-j/)
+* [2023-09-27, 18:26:57](https://lobste.rs/s/skxn9r/finding_bathroom_faucets_with) - [Finding Bathroom Faucets with Embeddings](https://www.dbreunig.com/2023/09/26/faucet-finder.html)
 * [2023-09-27, 17:59:07](https://lobste.rs/s/zygcqk/meet_swiftgodot) - [Meet SwiftGodot](https://migueldeicaza.github.io/SwiftGodotDocs/tutorials/swiftgodot-tutorials/)
 * [2023-09-27, 17:37:14](https://lobste.rs/s/xczwxa/champagne_for_my_real_friends) - [Champagne for my real friends](http://jeremybmerrill.com/documents/champagnerealpain.html)
 * [2023-09-27, 17:35:59](https://lobste.rs/s/mwthtn/casual_maintenance_intended) - [Casual Maintenance Intended](https://casuallymaintained.tech)
