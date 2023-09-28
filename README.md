@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-28, 03:29:39](https://lobste.rs/s/ijwygq/pdf_how_get_started_hacking_netbsd) - [[pdf]How to get started hacking NetBSD](https://2023.eurobsdcon.org/slides/eurobsdcon2023-taylor_campbell-getstarted.pdf)
 * [2023-09-28, 02:13:20](https://lobste.rs/s/odteem/controlling_large_software_development) - [Controlling Large Software Development In a Distributed Environment (1982)](http://www.bitsavers.org/pdf/xerox/parc/techReports/CSL-82-7_Controlling_Large_Software_Development_In_a_Distributed_Environment.pdf)
 * [2023-09-27, 21:26:10](https://lobste.rs/s/77rb8j/rethinking_setup_convention_neovim_is_it) - [Rethinking the `setup` convention in Neovim. Is it time for a paradigm shift?](https://mrcjkb.dev/posts/2023-08-22-setup.html)
 * [2023-09-27, 21:01:45](https://lobste.rs/s/9ipp9z/bloom_filter_calculator) - [Bloom filter calculator](https://hur.st/bloomfilter/)
@@ -12,7 +13,6 @@
 * [2023-09-27, 16:20:50](https://lobste.rs/s/1wfnct/robots_txt) - [Robots.txt](https://blog.jim-nielsen.com/2023/robots-txt/)
 * [2023-09-27, 16:15:34](https://lobste.rs/s/tgvwtb/announcing_deno_queues) - [Announcing Deno Queues](https://deno.com/blog/queues)
 * [2023-09-27, 15:39:34](https://lobste.rs/s/g44oeq/rust_vs_go_hands_on_comparison) - [Rust Vs Go: A Hands-On Comparison](https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison)
-* [2023-09-27, 14:57:07](https://lobste.rs/s/uzei4e/pymilo_new_python_library_for_ml_i_o) - [PyMilo: New Python Library for ML I/O](https://github.com/openscilab/pymilo)
 * [2023-09-27, 13:47:16](https://lobste.rs/s/zku7zr/lost_language_extensions_metaware_s_high) - [The lost language extensions of MetaWare's High C Compiler](https://cohost.org/jckarter/post/2955755-the-lost-language-ex)
 * [2023-09-27, 13:18:21](https://lobste.rs/s/g1sux7/essence_desktop_os_built_from_scratch_for) - [Essence: A desktop OS built from scratch, for control and simplicity](https://nakst.gitlab.io/essence)
 * [2023-09-27, 12:32:25](https://lobste.rs/s/bxfelc/playing_with_caml_light_on_dos) - [Playing with Caml Light on DOS](https://www.cambus.net/playing-with-caml-light-on-dos/)
