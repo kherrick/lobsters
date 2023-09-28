@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-28, 20:10:03](https://lobste.rs/s/mbq0vg/saga_closure_compiler_why_typescript_won) - [The Saga of the Closure Compiler, and Why TypeScript Won](https://effectivetypescript.com/2023/09/27/closure-compiler/)
 * [2023-09-28, 18:45:13](https://lobste.rs/s/kgct6h/better_than_yaml) - [Better Than YAML](https://wiki.alopex.li/BetterThanYaml)
 * [2023-09-28, 18:21:44](https://lobste.rs/s/uzuj6m/inxidents_minimal_incident_monitoring) - [Inxidents, a minimal incident monitoring tool with alerts and real-time dashboard in Go](https://github.com/piqoni/inxidents)
 * [2023-09-28, 18:07:20](https://lobste.rs/s/s7vdrx/python_3_12_preview_static_typing) - [Python 3.12 Preview: Static Typing Improvements](https://realpython.com/python312-typing/)
@@ -19,7 +20,6 @@
 * [2023-09-27, 17:35:59](https://lobste.rs/s/mwthtn/casual_maintenance_intended) - [Casual Maintenance Intended](https://casuallymaintained.tech)
 * [2023-09-27, 17:33:18](https://lobste.rs/s/kjleh7/super_fast_sphinx_docs_snob_driven) - [Super-fast Sphinx docs, and SNOB driven development](https://lukeplant.me.uk/blog/posts/super-fast-sphinx-docs/)
 * [2023-09-27, 16:20:50](https://lobste.rs/s/1wfnct/robots_txt) - [Robots.txt](https://blog.jim-nielsen.com/2023/robots-txt/)
-* [2023-09-27, 16:15:34](https://lobste.rs/s/tgvwtb/announcing_deno_queues) - [Announcing Deno Queues](https://deno.com/blog/queues)
 * [2023-09-27, 15:39:34](https://lobste.rs/s/g44oeq/rust_vs_go_hands_on_comparison) - [Rust Vs Go: A Hands-On Comparison](https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison)
 * [2023-09-27, 13:47:16](https://lobste.rs/s/zku7zr/lost_language_extensions_metaware_s_high) - [The lost language extensions of MetaWare's High C Compiler](https://cohost.org/jckarter/post/2955755-the-lost-language-ex)
 * [2023-09-27, 12:32:25](https://lobste.rs/s/bxfelc/playing_with_caml_light_on_dos) - [Playing with Caml Light on DOS](https://www.cambus.net/playing-with-caml-light-on-dos/)

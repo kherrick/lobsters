@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
+* [2023-09-28, 20:10:03](https://lobste.rs/s/mbq0vg/saga_closure_compiler_why_typescript_won) - [The Saga of the Closure Compiler, and Why TypeScript Won](https://effectivetypescript.com/2023/09/27/closure-compiler/)
 * [2023-09-28, 18:45:13](https://lobste.rs/s/kgct6h/better_than_yaml) - [Better Than YAML](https://wiki.alopex.li/BetterThanYaml)
 * [2023-09-28, 18:21:44](https://lobste.rs/s/uzuj6m/inxidents_minimal_incident_monitoring) - [Inxidents, a minimal incident monitoring tool with alerts and real-time dashboard in Go](https://github.com/piqoni/inxidents)
 * [2023-09-28, 18:07:20](https://lobste.rs/s/s7vdrx/python_3_12_preview_static_typing) - [Python 3.12 Preview: Static Typing Improvements](https://realpython.com/python312-typing/)
