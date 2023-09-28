@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-28, 18:45:13",
+      "https://lobste.rs/s/kgct6h/better_than_yaml"
+    ],
+    [
+      "Better Than YAML",
+      "https://wiki.alopex.li/BetterThanYaml"
+    ]
+  ],
+  [
+    [
       "2023-09-28, 18:21:44",
       "https://lobste.rs/s/uzuj6m/inxidents_minimal_incident_monitoring"
     ],
@@ -227,16 +237,6 @@
     [
       "Uiua - a concatenative array programming language",
       "https://www.uiua.org/"
-    ]
-  ],
-  [
-    [
-      "2023-09-27, 05:59:45",
-      "https://lobste.rs/s/sutuvh/arena_allocator_tips_tricks"
-    ],
-    [
-      "Arena allocator tips and tricks",
-      "https://nullprogram.com/blog/2023/09/27/"
     ]
   ],
   [
