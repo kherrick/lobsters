@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-28, 17:10:49](https://lobste.rs/s/oywraq/pitfalls_lambda_capture_initialization) - [Pitfalls of lambda capture initialization in C++](https://www.arnorehn.de/blog/2023/09/27/pitfalls-of-lambda-capture-initialization/)
 * [2023-09-28, 16:43:22](https://lobste.rs/s/0a7pod/demystifying_database_transcations) - [Demystifying Database Transcations](https://dineshgowda.com/posts/demystifying-database-transcations/)
 * [2023-09-28, 16:11:36](https://lobste.rs/s/cnpaup/was_javascript_really_made_10_days) - [Was Javascript really made in 10 days?](https://buttondown.email/hillelwayne/archive/did-brendan-eich-really-make-javascript-in-10-days/)
 * [2023-09-28, 16:04:52](https://lobste.rs/s/tbujtq/qt_6_5_3_released) - [Qt 6.5.3 Released](https://www.qt.io/blog/qt-6.5.3-released)
@@ -20,7 +21,6 @@
 * [2023-09-27, 16:15:34](https://lobste.rs/s/tgvwtb/announcing_deno_queues) - [Announcing Deno Queues](https://deno.com/blog/queues)
 * [2023-09-27, 15:39:34](https://lobste.rs/s/g44oeq/rust_vs_go_hands_on_comparison) - [Rust Vs Go: A Hands-On Comparison](https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison)
 * [2023-09-27, 13:47:16](https://lobste.rs/s/zku7zr/lost_language_extensions_metaware_s_high) - [The lost language extensions of MetaWare's High C Compiler](https://cohost.org/jckarter/post/2955755-the-lost-language-ex)
-* [2023-09-27, 13:18:21](https://lobste.rs/s/g1sux7/essence_desktop_os_built_from_scratch_for) - [Essence: A desktop OS built from scratch, for control and simplicity](https://nakst.gitlab.io/essence)
 * [2023-09-27, 12:32:25](https://lobste.rs/s/bxfelc/playing_with_caml_light_on_dos) - [Playing with Caml Light on DOS](https://www.cambus.net/playing-with-caml-light-on-dos/)
 * [2023-09-27, 11:48:41](https://lobste.rs/s/qygnov/uiua_concatenative_array_programming) - [Uiua - a concatenative array programming language](https://www.uiua.org/)
 * [2023-09-27, 05:59:45](https://lobste.rs/s/sutuvh/arena_allocator_tips_tricks) - [Arena allocator tips and tricks](https://nullprogram.com/blog/2023/09/27/)

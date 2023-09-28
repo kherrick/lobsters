@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
+* [2023-09-28, 17:10:49](https://lobste.rs/s/oywraq/pitfalls_lambda_capture_initialization) - [Pitfalls of lambda capture initialization in C++](https://www.arnorehn.de/blog/2023/09/27/pitfalls-of-lambda-capture-initialization/)
 * [2023-09-28, 16:43:22](https://lobste.rs/s/0a7pod/demystifying_database_transcations) - [Demystifying Database Transcations](https://dineshgowda.com/posts/demystifying-database-transcations/)
 * [2023-09-28, 16:11:36](https://lobste.rs/s/cnpaup/was_javascript_really_made_10_days) - [Was Javascript really made in 10 days?](https://buttondown.email/hillelwayne/archive/did-brendan-eich-really-make-javascript-in-10-days/)
 * [2023-09-28, 16:04:52](https://lobste.rs/s/tbujtq/qt_6_5_3_released) - [Qt 6.5.3 Released](https://www.qt.io/blog/qt-6.5.3-released)
