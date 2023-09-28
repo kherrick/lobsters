@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
+* [2023-09-28, 14:42:52](https://lobste.rs/s/rxiytz/s_lot_yaml) - [That's a lot of YAML](https://noyaml.com)
 * [2023-09-28, 13:14:03](https://lobste.rs/s/pdpm41/aborted_experiment_with_server_swift) - [an aborted experiment with server swift](https://flak.tedunangst.com/post/an-aborted-experiment-with-server-swift)
 * [2023-09-28, 11:49:13](https://lobste.rs/s/oul1ku/better_postman_alternative_hoppscotch) - [A better Postman alternative: Hoppscotch](https://jlelse.blog/dev/hoppscotch)
 * [2023-09-28, 11:38:31](https://lobste.rs/s/dj4h0s/analysis_deepmind_s_language_modeling_is) - [An Analysis of DeepMind's 'Language Modeling Is Compression' Paper](https://codeconfessions.substack.com/p/language-modeling-is-compression)

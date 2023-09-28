@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-28, 14:42:52](https://lobste.rs/s/rxiytz/s_lot_yaml) - [That's a lot of YAML](https://noyaml.com)
 * [2023-09-28, 13:14:03](https://lobste.rs/s/pdpm41/aborted_experiment_with_server_swift) - [an aborted experiment with server swift](https://flak.tedunangst.com/post/an-aborted-experiment-with-server-swift)
 * [2023-09-28, 11:38:31](https://lobste.rs/s/dj4h0s/analysis_deepmind_s_language_modeling_is) - [An Analysis of DeepMind's 'Language Modeling Is Compression' Paper](https://codeconfessions.substack.com/p/language-modeling-is-compression)
 * [2023-09-28, 08:02:42](https://lobste.rs/s/nzglpl/caps_lock_behaviour_disabled_gnome) - [CAPS LOCK BEHAVIOUR DISABLED IN GNOME](https://popey.com/blog/2023/09/caps-lock-behaviour-disabled-in-gnome/)
@@ -21,7 +22,6 @@
 * [2023-09-27, 13:18:21](https://lobste.rs/s/g1sux7/essence_desktop_os_built_from_scratch_for) - [Essence: A desktop OS built from scratch, for control and simplicity](https://nakst.gitlab.io/essence)
 * [2023-09-27, 12:32:25](https://lobste.rs/s/bxfelc/playing_with_caml_light_on_dos) - [Playing with Caml Light on DOS](https://www.cambus.net/playing-with-caml-light-on-dos/)
 * [2023-09-27, 11:48:41](https://lobste.rs/s/qygnov/uiua_concatenative_array_programming) - [Uiua - a concatenative array programming language](https://www.uiua.org/)
-* [2023-09-27, 10:27:43](https://lobste.rs/s/spzfnz/how_my_first_kernel_contribution_wasn_t) - [How my first kernel contribution wasn’t accepted](https://ariel-miculas.github.io/How-I-got-robbed-of-my-first-kernel-contribution/)
 * [2023-09-27, 05:59:45](https://lobste.rs/s/sutuvh/arena_allocator_tips_tricks) - [Arena allocator tips and tricks](https://nullprogram.com/blog/2023/09/27/)
 * [2023-09-26, 21:38:00](https://lobste.rs/s/dpmfrd/dotfiles_matter) - [Dotfiles matter](https://dotfiles-matter.click/)
 * [2023-09-26, 20:53:20](https://lobste.rs/s/nyjqnv/eyra_is_interesting_rust_project) - [Eyra is an interesting Rust project](https://notgull.net/eyra/)
