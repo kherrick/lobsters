@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-28](index.md)
 
+* [2023-09-28, 16:43:22](https://lobste.rs/s/0a7pod/demystifying_database_transcations) - [Demystifying Database Transcations](https://dineshgowda.com/posts/demystifying-database-transcations/)
 * [2023-09-28, 16:11:36](https://lobste.rs/s/cnpaup/was_javascript_really_made_10_days) - [Was Javascript really made in 10 days?](https://buttondown.email/hillelwayne/archive/did-brendan-eich-really-make-javascript-in-10-days/)
 * [2023-09-28, 16:04:52](https://lobste.rs/s/tbujtq/qt_6_5_3_released) - [Qt 6.5.3 Released](https://www.qt.io/blog/qt-6.5.3-released)
 * [2023-09-28, 14:42:52](https://lobste.rs/s/rxiytz/s_lot_yaml) - [That's a lot of YAML](https://noyaml.com)
