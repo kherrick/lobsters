@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-09-29, 22:03:47",
-      "https://lobste.rs/s/xjx6nf/silicon_valley_lied_me"
-    ],
-    [
-      "Silicon Valley lied to me",
-      "https://naiveai.hashnode.dev/silicon-valley-lied-to-me"
-    ]
-  ],
-  [
-    [
       "2023-09-29, 19:32:39",
       "https://lobste.rs/s/ht8prb/bruno_git_friendly_postman_alternative"
     ],
@@ -187,6 +177,16 @@
     [
       "Subtraction Is Functionally Complete",
       "https://orlp.net/blog/subtraction-is-functionally-complete/"
+    ]
+  ],
+  [
+    [
+      "2023-09-28, 20:10:03",
+      "https://lobste.rs/s/mbq0vg/saga_closure_compiler_why_typescript_won"
+    ],
+    [
+      "The Saga of the Closure Compiler, and Why TypeScript Won",
+      "https://effectivetypescript.com/2023/09/27/closure-compiler/"
     ]
   ],
   [
