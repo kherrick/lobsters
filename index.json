@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-29, 01:23:36",
+      "https://lobste.rs/s/wsbos7/subtraction_is_functionally_complete"
+    ],
+    [
+      "Subtraction Is Functionally Complete",
+      "https://orlp.net/blog/subtraction-is-functionally-complete/"
+    ]
+  ],
+  [
+    [
       "2023-09-28, 21:53:27",
       "https://lobste.rs/s/vwy7qp/shallow_survey_olap_htap_query_engines"
     ],
@@ -147,16 +157,6 @@
     [
       "How to get started hacking NetBSD",
       "https://2023.eurobsdcon.org/slides/eurobsdcon2023-taylor_campbell-getstarted.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-09-27, 21:26:10",
-      "https://lobste.rs/s/77rb8j/rethinking_setup_convention_neovim_is_it"
-    ],
-    [
-      "Rethinking the `setup` convention in Neovim. Is it time for a paradigm shift?",
-      "https://mrcjkb.dev/posts/2023-08-22-setup.html"
     ]
   ],
   [
