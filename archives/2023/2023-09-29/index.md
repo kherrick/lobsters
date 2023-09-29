@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-29](index.md)
 
+* [2023-09-29, 23:54:21](https://lobste.rs/s/5hdxts/integrating_slonik_with_express_js) - [Integrating Slonik with Express.js](https://contra.com/p/bgA66gkW-integrating-slonik-with-express-js)
 * [2023-09-29, 23:26:30](https://lobste.rs/s/gmeze2/can_kde_learn_something_from_nextcloud) - [Can KDE learn something from Nextcloud?](https://blog.nicco.love/can-kde-learn-something-from-nextcloud/)
 * [2023-09-29, 22:03:47](https://lobste.rs/s/xjx6nf/silicon_valley_lied_me) - [Silicon Valley lied to me](https://naiveai.hashnode.dev/silicon-valley-lied-to-me)
 * [2023-09-29, 19:32:39](https://lobste.rs/s/ht8prb/bruno_git_friendly_postman_alternative) - [bruno: a git-friendly Postman alternative](https://www.usebruno.com/)
