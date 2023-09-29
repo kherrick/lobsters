@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-29, 04:16:31](https://lobste.rs/s/ac1t6n/who_s_hiring_q42023) - [Who's hiring? Q42023](https://lobste.rs/s/ac1t6n/who_s_hiring_q42023)
 * [2023-09-29, 02:19:05](https://lobste.rs/s/3x2z0t/reactive_signals_build_system) - [Reactive Signals and Build System](https://www.1a-insec.net/blog/19-reactive-signal-and-build-system/)
 * [2023-09-29, 01:23:36](https://lobste.rs/s/wsbos7/subtraction_is_functionally_complete) - [Subtraction Is Functionally Complete](https://orlp.net/blog/subtraction-is-functionally-complete/)
 * [2023-09-28, 21:53:27](https://lobste.rs/s/vwy7qp/shallow_survey_olap_htap_query_engines) - [A shallow survey of OLAP and HTAP query engines](https://scattered-thoughts.net/writing/a-shallow-survey-of-olap-and-htap-query-engines/)
@@ -21,7 +22,6 @@
 * [2023-09-27, 17:37:14](https://lobste.rs/s/xczwxa/champagne_for_my_real_friends) - [Champagne for my real friends](http://jeremybmerrill.com/documents/champagnerealpain.html)
 * [2023-09-27, 17:35:59](https://lobste.rs/s/mwthtn/casual_maintenance_intended) - [Casual Maintenance Intended](https://casuallymaintained.tech)
 * [2023-09-27, 17:33:18](https://lobste.rs/s/kjleh7/super_fast_sphinx_docs_snob_driven) - [Super-fast Sphinx docs, and SNOB driven development](https://lukeplant.me.uk/blog/posts/super-fast-sphinx-docs/)
-* [2023-09-27, 16:20:50](https://lobste.rs/s/1wfnct/robots_txt) - [Robots.txt](https://blog.jim-nielsen.com/2023/robots-txt/)
 * [2023-09-27, 15:39:34](https://lobste.rs/s/g44oeq/rust_vs_go_hands_on_comparison) - [Rust Vs Go: A Hands-On Comparison](https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison)
 * [2023-09-27, 13:47:16](https://lobste.rs/s/zku7zr/lost_language_extensions_metaware_s_high) - [The lost language extensions of MetaWare's High C Compiler](https://cohost.org/jckarter/post/2955755-the-lost-language-ex)
 * [2023-09-27, 11:48:41](https://lobste.rs/s/qygnov/uiua_concatenative_array_programming) - [Uiua - a concatenative array programming language](https://www.uiua.org/)
