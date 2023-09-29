@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-29, 22:03:47](https://lobste.rs/s/xjx6nf/silicon_valley_lied_me) - [Silicon Valley lied to me](https://naiveai.hashnode.dev/silicon-valley-lied-to-me)
 * [2023-09-29, 19:32:39](https://lobste.rs/s/ht8prb/bruno_git_friendly_postman_alternative) - [bruno: a git-friendly Postman alternative](https://www.usebruno.com/)
 * [2023-09-29, 16:58:29](https://lobste.rs/s/c12vzm/hijacking_bluesky_identities_with) - [Hijacking Bluesky Identities with a Malleable Deputy](https://www.da.vidbuchanan.co.uk/blog/hacking-bluesky.html)
 * [2023-09-29, 15:01:45](https://lobste.rs/s/pjccms/making_music_library_without_spa) - [Making a music library without a SPA](https://begin.com/blog/posts/2023-09-28-introducing-enhance-music)
@@ -19,7 +20,6 @@
 * [2023-09-29, 01:23:36](https://lobste.rs/s/wsbos7/subtraction_is_functionally_complete) - [Subtraction Is Functionally Complete](https://orlp.net/blog/subtraction-is-functionally-complete/)
 * [2023-09-28, 20:10:03](https://lobste.rs/s/mbq0vg/saga_closure_compiler_why_typescript_won) - [The Saga of the Closure Compiler, and Why TypeScript Won](https://effectivetypescript.com/2023/09/27/closure-compiler/)
 * [2023-09-28, 18:07:20](https://lobste.rs/s/s7vdrx/python_3_12_preview_static_typing) - [Python 3.12 Preview: Static Typing Improvements](https://realpython.com/python312-typing/)
-* [2023-09-28, 16:43:22](https://lobste.rs/s/0a7pod/demystifying_database_transcations) - [Demystifying Database Transcations](https://dineshgowda.com/posts/demystifying-database-transcations/)
 * [2023-09-28, 16:11:36](https://lobste.rs/s/cnpaup/was_javascript_really_made_10_days) - [Was Javascript really made in 10 days?](https://buttondown.email/hillelwayne/archive/did-brendan-eich-really-make-javascript-in-10-days/)
 * [2023-09-28, 14:42:52](https://lobste.rs/s/rxiytz/s_lot_yaml) - [That's a lot of YAML](https://noyaml.com)
 * [2023-09-28, 13:14:03](https://lobste.rs/s/pdpm41/aborted_experiment_with_server_swift) - [an aborted experiment with server swift](https://flak.tedunangst.com/post/an-aborted-experiment-with-server-swift)
