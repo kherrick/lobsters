@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-29, 11:48:14](https://lobste.rs/s/sxbmst/you_can_t_control_your_data_cloud_2016) - [You Can't Control Your Data in the Cloud (2016)](https://karl-voit.at/cloud/)
+* [2023-09-29, 11:43:34](https://lobste.rs/s/8zqsoy/twiddler_chord_notation) - [Twiddler chord notation](https://twiddler.tekgear.com/doc/doku.php?id=chordnotation)
 * [2023-09-29, 10:30:24](https://lobste.rs/s/loew5x/ghostty_devlog_004) - [Ghostty Devlog 004](https://mitchellh.com/writing/ghostty-devlog-004)
 * [2023-09-29, 09:35:08](https://lobste.rs/s/txewtb/how_steamos_is_contributing_linux) - [How SteamOS is contributing to the Linux ecosystem](https://static.sched.com/hosted_files/osseu2023/83/steamos-and-linux-oss-eu-2023.pdf)
 * [2023-09-29, 09:14:04](https://lobste.rs/s/i2umgi/poc_monotrail_proof_concept_for_python) - [poc-monotrail: Proof Of Concept for python package management without virtualenvs](https://github.com/konstin/poc-monotrail)
@@ -20,10 +22,8 @@
 * [2023-09-28, 16:11:36](https://lobste.rs/s/cnpaup/was_javascript_really_made_10_days) - [Was Javascript really made in 10 days?](https://buttondown.email/hillelwayne/archive/did-brendan-eich-really-make-javascript-in-10-days/)
 * [2023-09-28, 14:42:52](https://lobste.rs/s/rxiytz/s_lot_yaml) - [That's a lot of YAML](https://noyaml.com)
 * [2023-09-28, 13:14:03](https://lobste.rs/s/pdpm41/aborted_experiment_with_server_swift) - [an aborted experiment with server swift](https://flak.tedunangst.com/post/an-aborted-experiment-with-server-swift)
-* [2023-09-28, 11:38:31](https://lobste.rs/s/dj4h0s/analysis_deepmind_s_language_modeling_is) - [An Analysis of DeepMind's 'Language Modeling Is Compression' Paper](https://codeconfessions.substack.com/p/language-modeling-is-compression)
 * [2023-09-28, 08:02:42](https://lobste.rs/s/nzglpl/caps_lock_behaviour_disabled_gnome) - [CAPS LOCK BEHAVIOUR DISABLED IN GNOME](https://popey.com/blog/2023/09/caps-lock-behaviour-disabled-in-gnome/)
 * [2023-09-28, 05:42:40](https://lobste.rs/s/d1jdol/raspberry_pi_5_announced) - [Raspberry Pi 5 announced](https://datasheets.raspberrypi.com/rpi5/raspberry-pi-5-product-brief.pdf)
-* [2023-09-28, 03:29:39](https://lobste.rs/s/ijwygq/how_get_started_hacking_netbsd) - [How to get started hacking NetBSD](https://2023.eurobsdcon.org/slides/eurobsdcon2023-taylor_campbell-getstarted.pdf)
 * [2023-09-27, 21:01:32](https://lobste.rs/s/jsjank/random_walk_2_lines_j) - [Random walk in 2 lines of J](https://asindu.xyz/posts/random-walk-in-2-lines-of-j/)
 
 ## [Archives](archives/index.md)

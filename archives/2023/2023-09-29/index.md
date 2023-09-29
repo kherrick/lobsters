@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-29](index.md)
 
+* [2023-09-29, 11:48:14](https://lobste.rs/s/sxbmst/you_can_t_control_your_data_cloud_2016) - [You Can't Control Your Data in the Cloud (2016)](https://karl-voit.at/cloud/)
+* [2023-09-29, 11:43:34](https://lobste.rs/s/8zqsoy/twiddler_chord_notation) - [Twiddler chord notation](https://twiddler.tekgear.com/doc/doku.php?id=chordnotation)
 * [2023-09-29, 10:30:24](https://lobste.rs/s/loew5x/ghostty_devlog_004) - [Ghostty Devlog 004](https://mitchellh.com/writing/ghostty-devlog-004)
 * [2023-09-29, 09:35:08](https://lobste.rs/s/txewtb/how_steamos_is_contributing_linux) - [How SteamOS is contributing to the Linux ecosystem](https://static.sched.com/hosted_files/osseu2023/83/steamos-and-linux-oss-eu-2023.pdf)
 * [2023-09-29, 09:14:04](https://lobste.rs/s/i2umgi/poc_monotrail_proof_concept_for_python) - [poc-monotrail: Proof Of Concept for python package management without virtualenvs](https://github.com/konstin/poc-monotrail)
