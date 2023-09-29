@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-29, 06:14:59](https://lobste.rs/s/dzl1tp/introducing_raspberry_pi_5) - [Introducing: Raspberry Pi 5](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/)
 * [2023-09-29, 04:47:48](https://lobste.rs/s/0fevfi/css_nesting_cascade) - [CSS Nesting and the Cascade](https://webkit.org/blog/14571/css-nesting-and-the-cascade/)
 * [2023-09-29, 04:16:31](https://lobste.rs/s/ac1t6n/who_s_hiring_q42023) - [Who's hiring? Q42023](https://lobste.rs/s/ac1t6n/who_s_hiring_q42023)
 * [2023-09-29, 02:19:05](https://lobste.rs/s/3x2z0t/reactive_signals_build_system) - [Reactive Signals and Build System](https://www.1a-insec.net/blog/19-reactive-signal-and-build-system/)
@@ -20,7 +21,6 @@
 * [2023-09-28, 05:42:40](https://lobste.rs/s/d1jdol/raspberry_pi_5_announced) - [Raspberry Pi 5 announced](https://datasheets.raspberrypi.com/rpi5/raspberry-pi-5-product-brief.pdf)
 * [2023-09-28, 03:29:39](https://lobste.rs/s/ijwygq/how_get_started_hacking_netbsd) - [How to get started hacking NetBSD](https://2023.eurobsdcon.org/slides/eurobsdcon2023-taylor_campbell-getstarted.pdf)
 * [2023-09-27, 21:01:32](https://lobste.rs/s/jsjank/random_walk_2_lines_j) - [Random walk in 2 lines of J](https://asindu.xyz/posts/random-walk-in-2-lines-of-j/)
-* [2023-09-27, 17:37:14](https://lobste.rs/s/xczwxa/champagne_for_my_real_friends) - [Champagne for my real friends](http://jeremybmerrill.com/documents/champagnerealpain.html)
 * [2023-09-27, 17:35:59](https://lobste.rs/s/mwthtn/casual_maintenance_intended) - [Casual Maintenance Intended](https://casuallymaintained.tech)
 * [2023-09-27, 17:33:18](https://lobste.rs/s/kjleh7/super_fast_sphinx_docs_snob_driven) - [Super-fast Sphinx docs, and SNOB driven development](https://lukeplant.me.uk/blog/posts/super-fast-sphinx-docs/)
 * [2023-09-27, 15:39:34](https://lobste.rs/s/g44oeq/rust_vs_go_hands_on_comparison) - [Rust Vs Go: A Hands-On Comparison](https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison)
