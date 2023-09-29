@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-29](index.md)
 
+* [2023-09-29, 13:19:01](https://lobste.rs/s/eibvvz/esorterica_esoteric_sorting_algorithms) - [Esorterica: Esoteric Sorting Algorithms](https://www.youtube.com/watch?v=TYPCku-DJrY)
+* [2023-09-29, 13:18:50](https://lobste.rs/s/buc6dh/imap_sent_folder_can_create_some_odd) - [The IMAP Sent folder can create some odd issues and confusion](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IMAPSentFolderIssues)
 * [2023-09-29, 11:48:14](https://lobste.rs/s/sxbmst/you_can_t_control_your_data_cloud_2016) - [You Can't Control Your Data in the Cloud (2016)](https://karl-voit.at/cloud/)
 * [2023-09-29, 11:43:34](https://lobste.rs/s/8zqsoy/twiddler_chord_notation) - [Twiddler chord notation](https://twiddler.tekgear.com/doc/doku.php?id=chordnotation)
 * [2023-09-29, 10:30:24](https://lobste.rs/s/loew5x/ghostty_devlog_004) - [Ghostty Devlog 004](https://mitchellh.com/writing/ghostty-devlog-004)
