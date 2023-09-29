@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-29, 09:35:08",
+      "https://lobste.rs/s/txewtb/how_steamos_is_contributing_linux"
+    ],
+    [
+      "How SteamOS is contributing to the Linux ecosystem",
+      "https://static.sched.com/hosted_files/osseu2023/83/steamos-and-linux-oss-eu-2023.pdf"
+    ]
+  ],
+  [
+    [
       "2023-09-29, 09:14:04",
       "https://lobste.rs/s/i2umgi/poc_monotrail_proof_concept_for_python"
     ],
@@ -237,16 +247,6 @@
     [
       "Random walk in 2 lines of J",
       "https://asindu.xyz/posts/random-walk-in-2-lines-of-j/"
-    ]
-  ],
-  [
-    [
-      "2023-09-27, 15:39:34",
-      "https://lobste.rs/s/g44oeq/rust_vs_go_hands_on_comparison"
-    ],
-    [
-      "Rust Vs Go: A Hands-On Comparison",
-      "https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison"
     ]
   ]
 ]
