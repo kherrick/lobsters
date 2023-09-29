@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-29, 09:14:04",
+      "https://lobste.rs/s/i2umgi/poc_monotrail_proof_concept_for_python"
+    ],
+    [
+      "poc-monotrail: Proof Of Concept for python package management without virtualenvs",
+      "https://github.com/konstin/poc-monotrail"
+    ]
+  ],
+  [
+    [
       "2023-09-29, 08:51:32",
       "https://lobste.rs/s/nfvk73/what_predicts_software_developers"
     ],
@@ -227,16 +237,6 @@
     [
       "Random walk in 2 lines of J",
       "https://asindu.xyz/posts/random-walk-in-2-lines-of-j/"
-    ]
-  ],
-  [
-    [
-      "2023-09-27, 17:35:59",
-      "https://lobste.rs/s/mwthtn/casual_maintenance_intended"
-    ],
-    [
-      "Casual Maintenance Intended",
-      "https://casuallymaintained.tech"
     ]
   ],
   [
