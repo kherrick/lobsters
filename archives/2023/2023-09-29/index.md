@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-09-29](index.md)
 
+* [2023-09-29, 15:01:45](https://lobste.rs/s/pjccms/making_music_library_without_spa) - [Making a music library without a SPA](https://begin.com/blog/posts/2023-09-28-introducing-enhance-music)
+* [2023-09-29, 14:59:54](https://lobste.rs/s/phsgxt/richard_stallman_is_battling_cancer) - [Richard Stallman is Battling Cancer](https://news.itsfoss.com/richard-stallman-battling-cancer/)
 * [2023-09-29, 14:02:23](https://lobste.rs/s/9o9nyn/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/9o9nyn/what_are_you_doing_this_weekend)
 * [2023-09-29, 13:19:01](https://lobste.rs/s/eibvvz/esorterica_esoteric_sorting_algorithms) - [Esorterica: Esoteric Sorting Algorithms](https://www.youtube.com/watch?v=TYPCku-DJrY)
 * [2023-09-29, 13:18:50](https://lobste.rs/s/buc6dh/imap_sent_folder_can_create_some_odd) - [The IMAP Sent folder can create some odd issues and confusion](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IMAPSentFolderIssues)

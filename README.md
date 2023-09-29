@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-29, 15:01:45](https://lobste.rs/s/pjccms/making_music_library_without_spa) - [Making a music library without a SPA](https://begin.com/blog/posts/2023-09-28-introducing-enhance-music)
+* [2023-09-29, 14:59:54](https://lobste.rs/s/phsgxt/richard_stallman_is_battling_cancer) - [Richard Stallman is Battling Cancer](https://news.itsfoss.com/richard-stallman-battling-cancer/)
 * [2023-09-29, 14:02:23](https://lobste.rs/s/9o9nyn/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/9o9nyn/what_are_you_doing_this_weekend)
-* [2023-09-29, 13:19:01](https://lobste.rs/s/eibvvz/esorterica_esoteric_sorting_algorithms) - [Esorterica: Esoteric Sorting Algorithms](https://www.youtube.com/watch?v=TYPCku-DJrY)
 * [2023-09-29, 13:18:50](https://lobste.rs/s/buc6dh/imap_sent_folder_can_create_some_odd) - [The IMAP Sent folder can create some odd issues and confusion](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IMAPSentFolderIssues)
 * [2023-09-29, 11:48:14](https://lobste.rs/s/sxbmst/you_can_t_control_your_data_cloud_2016) - [You Can't Control Your Data in the Cloud (2016)](https://karl-voit.at/cloud/)
 * [2023-09-29, 11:43:34](https://lobste.rs/s/8zqsoy/twiddler_chord_notation) - [Twiddler chord notation](https://twiddler.tekgear.com/doc/doku.php?id=chordnotation)
@@ -15,7 +16,6 @@
 * [2023-09-29, 04:16:31](https://lobste.rs/s/ac1t6n/who_s_hiring_q42023) - [Who's hiring? Q42023](https://lobste.rs/s/ac1t6n/who_s_hiring_q42023)
 * [2023-09-29, 02:19:05](https://lobste.rs/s/3x2z0t/reactive_signals_build_system) - [Reactive Signals and Build System](https://www.1a-insec.net/blog/19-reactive-signal-and-build-system/)
 * [2023-09-29, 01:23:36](https://lobste.rs/s/wsbos7/subtraction_is_functionally_complete) - [Subtraction Is Functionally Complete](https://orlp.net/blog/subtraction-is-functionally-complete/)
-* [2023-09-28, 21:53:27](https://lobste.rs/s/vwy7qp/shallow_survey_olap_htap_query_engines) - [A shallow survey of OLAP and HTAP query engines](https://scattered-thoughts.net/writing/a-shallow-survey-of-olap-and-htap-query-engines/)
 * [2023-09-28, 20:29:18](https://lobste.rs/s/orhck0/making_gaussian_splats_more_smaller) - [Making Gaussian Splats more smaller](https://aras-p.info/blog/2023/09/27/Making-Gaussian-Splats-more-smaller/)
 * [2023-09-28, 20:10:03](https://lobste.rs/s/mbq0vg/saga_closure_compiler_why_typescript_won) - [The Saga of the Closure Compiler, and Why TypeScript Won](https://effectivetypescript.com/2023/09/27/closure-compiler/)
 * [2023-09-28, 18:07:20](https://lobste.rs/s/s7vdrx/python_3_12_preview_static_typing) - [Python 3.12 Preview: Static Typing Improvements](https://realpython.com/python312-typing/)
