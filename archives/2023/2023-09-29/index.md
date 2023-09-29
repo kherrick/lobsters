@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-29](index.md)
 
+* [2023-09-29, 15:18:23](https://lobste.rs/s/5iwjux/toolchains_adventures_q3_2023) - [Toolchains adventures - Q3 2023](https://www.cambus.net/toolchains-adventures-q3-2023/)
 * [2023-09-29, 15:01:45](https://lobste.rs/s/pjccms/making_music_library_without_spa) - [Making a music library without a SPA](https://begin.com/blog/posts/2023-09-28-introducing-enhance-music)
 * [2023-09-29, 14:59:54](https://lobste.rs/s/phsgxt/richard_stallman_is_battling_cancer) - [Richard Stallman is Battling Cancer](https://news.itsfoss.com/richard-stallman-battling-cancer/)
 * [2023-09-29, 14:02:23](https://lobste.rs/s/9o9nyn/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/9o9nyn/what_are_you_doing_this_weekend)
