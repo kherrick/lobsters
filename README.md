@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-29, 09:35:08](https://lobste.rs/s/txewtb/how_steamos_is_contributing_linux) - [How SteamOS is contributing to the Linux ecosystem](https://static.sched.com/hosted_files/osseu2023/83/steamos-and-linux-oss-eu-2023.pdf)
 * [2023-09-29, 09:14:04](https://lobste.rs/s/i2umgi/poc_monotrail_proof_concept_for_python) - [poc-monotrail: Proof Of Concept for python package management without virtualenvs](https://github.com/konstin/poc-monotrail)
 * [2023-09-29, 08:51:32](https://lobste.rs/s/nfvk73/what_predicts_software_developers) - [What Predicts Software Developers’ Productivity?](https://newsletter.getdx.com/p/factors-of-developer-productivity)
 * [2023-09-29, 08:47:43](https://lobste.rs/s/u8pq6n/simplifying_fluffy_constructors_unit) - [Simplifying Fluffy Constructors in Unit Tests](https://www.moderndescartes.com/essays/simplifying_fluff/)
@@ -24,7 +25,6 @@
 * [2023-09-28, 05:42:40](https://lobste.rs/s/d1jdol/raspberry_pi_5_announced) - [Raspberry Pi 5 announced](https://datasheets.raspberrypi.com/rpi5/raspberry-pi-5-product-brief.pdf)
 * [2023-09-28, 03:29:39](https://lobste.rs/s/ijwygq/how_get_started_hacking_netbsd) - [How to get started hacking NetBSD](https://2023.eurobsdcon.org/slides/eurobsdcon2023-taylor_campbell-getstarted.pdf)
 * [2023-09-27, 21:01:32](https://lobste.rs/s/jsjank/random_walk_2_lines_j) - [Random walk in 2 lines of J](https://asindu.xyz/posts/random-walk-in-2-lines-of-j/)
-* [2023-09-27, 15:39:34](https://lobste.rs/s/g44oeq/rust_vs_go_hands_on_comparison) - [Rust Vs Go: A Hands-On Comparison](https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison)
 
 ## [Archives](archives/index.md)
 
