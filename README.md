@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-29, 08:51:32](https://lobste.rs/s/nfvk73/what_predicts_software_developers) - [What Predicts Software Developers’ Productivity?](https://newsletter.getdx.com/p/factors-of-developer-productivity)
 * [2023-09-29, 08:47:43](https://lobste.rs/s/u8pq6n/simplifying_fluffy_constructors_unit) - [Simplifying Fluffy Constructors in Unit Tests](https://www.moderndescartes.com/essays/simplifying_fluff/)
 * [2023-09-29, 06:51:33](https://lobste.rs/s/bgqkoo/nope_foundry_release_2023_4) - [Nope Foundry Release 2023.4](https://www.nope-foundry.org/news/release-2023.4/)
 * [2023-09-29, 04:47:48](https://lobste.rs/s/0fevfi/css_nesting_cascade) - [CSS Nesting and the Cascade](https://webkit.org/blog/14571/css-nesting-and-the-cascade/)
@@ -24,7 +25,6 @@
 * [2023-09-27, 21:01:32](https://lobste.rs/s/jsjank/random_walk_2_lines_j) - [Random walk in 2 lines of J](https://asindu.xyz/posts/random-walk-in-2-lines-of-j/)
 * [2023-09-27, 17:35:59](https://lobste.rs/s/mwthtn/casual_maintenance_intended) - [Casual Maintenance Intended](https://casuallymaintained.tech)
 * [2023-09-27, 15:39:34](https://lobste.rs/s/g44oeq/rust_vs_go_hands_on_comparison) - [Rust Vs Go: A Hands-On Comparison](https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison)
-* [2023-09-27, 13:47:16](https://lobste.rs/s/zku7zr/lost_language_extensions_metaware_s_high) - [The lost language extensions of MetaWare's High C Compiler](https://cohost.org/jckarter/post/2955755-the-lost-language-ex)
 
 ## [Archives](archives/index.md)
 

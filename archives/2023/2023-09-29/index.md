@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-29](index.md)
 
+* [2023-09-29, 08:51:32](https://lobste.rs/s/nfvk73/what_predicts_software_developers) - [What Predicts Software Developers’ Productivity?](https://newsletter.getdx.com/p/factors-of-developer-productivity)
 * [2023-09-29, 08:47:43](https://lobste.rs/s/u8pq6n/simplifying_fluffy_constructors_unit) - [Simplifying Fluffy Constructors in Unit Tests](https://www.moderndescartes.com/essays/simplifying_fluff/)
 * [2023-09-29, 06:51:33](https://lobste.rs/s/bgqkoo/nope_foundry_release_2023_4) - [Nope Foundry Release 2023.4](https://www.nope-foundry.org/news/release-2023.4/)
 * [2023-09-29, 06:14:59](https://lobste.rs/s/dzl1tp/introducing_raspberry_pi_5) - [Introducing: Raspberry Pi 5](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/)
