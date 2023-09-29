@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-29, 19:32:39](https://lobste.rs/s/ht8prb/bruno_git_friendly_postman_alternative) - [bruno: a git-friendly Postman alternative](https://www.usebruno.com/)
 * [2023-09-29, 16:58:29](https://lobste.rs/s/c12vzm/hijacking_bluesky_identities_with) - [Hijacking Bluesky Identities with a Malleable Deputy](https://www.da.vidbuchanan.co.uk/blog/hacking-bluesky.html)
-* [2023-09-29, 15:18:23](https://lobste.rs/s/5iwjux/toolchains_adventures_q3_2023) - [Toolchains adventures - Q3 2023](https://www.cambus.net/toolchains-adventures-q3-2023/)
 * [2023-09-29, 15:01:45](https://lobste.rs/s/pjccms/making_music_library_without_spa) - [Making a music library without a SPA](https://begin.com/blog/posts/2023-09-28-introducing-enhance-music)
 * [2023-09-29, 14:02:23](https://lobste.rs/s/9o9nyn/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/9o9nyn/what_are_you_doing_this_weekend)
 * [2023-09-29, 13:18:50](https://lobste.rs/s/buc6dh/imap_sent_folder_can_create_some_odd) - [The IMAP Sent folder can create some odd issues and confusion](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IMAPSentFolderIssues)
