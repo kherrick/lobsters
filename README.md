@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-29, 14:02:23](https://lobste.rs/s/9o9nyn/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/9o9nyn/what_are_you_doing_this_weekend)
 * [2023-09-29, 13:19:01](https://lobste.rs/s/eibvvz/esorterica_esoteric_sorting_algorithms) - [Esorterica: Esoteric Sorting Algorithms](https://www.youtube.com/watch?v=TYPCku-DJrY)
 * [2023-09-29, 13:18:50](https://lobste.rs/s/buc6dh/imap_sent_folder_can_create_some_odd) - [The IMAP Sent folder can create some odd issues and confusion](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IMAPSentFolderIssues)
 * [2023-09-29, 11:48:14](https://lobste.rs/s/sxbmst/you_can_t_control_your_data_cloud_2016) - [You Can't Control Your Data in the Cloud (2016)](https://karl-voit.at/cloud/)
@@ -17,7 +18,6 @@
 * [2023-09-28, 21:53:27](https://lobste.rs/s/vwy7qp/shallow_survey_olap_htap_query_engines) - [A shallow survey of OLAP and HTAP query engines](https://scattered-thoughts.net/writing/a-shallow-survey-of-olap-and-htap-query-engines/)
 * [2023-09-28, 20:29:18](https://lobste.rs/s/orhck0/making_gaussian_splats_more_smaller) - [Making Gaussian Splats more smaller](https://aras-p.info/blog/2023/09/27/Making-Gaussian-Splats-more-smaller/)
 * [2023-09-28, 20:10:03](https://lobste.rs/s/mbq0vg/saga_closure_compiler_why_typescript_won) - [The Saga of the Closure Compiler, and Why TypeScript Won](https://effectivetypescript.com/2023/09/27/closure-compiler/)
-* [2023-09-28, 18:21:44](https://lobste.rs/s/uzuj6m/inxidents_minimal_incident_monitoring) - [Inxidents, a minimal incident monitoring tool with alerts and real-time dashboard in Go](https://github.com/piqoni/inxidents)
 * [2023-09-28, 18:07:20](https://lobste.rs/s/s7vdrx/python_3_12_preview_static_typing) - [Python 3.12 Preview: Static Typing Improvements](https://realpython.com/python312-typing/)
 * [2023-09-28, 16:43:22](https://lobste.rs/s/0a7pod/demystifying_database_transcations) - [Demystifying Database Transcations](https://dineshgowda.com/posts/demystifying-database-transcations/)
 * [2023-09-28, 16:11:36](https://lobste.rs/s/cnpaup/was_javascript_really_made_10_days) - [Was Javascript really made in 10 days?](https://buttondown.email/hillelwayne/archive/did-brendan-eich-really-make-javascript-in-10-days/)
