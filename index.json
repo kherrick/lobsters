@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-29, 13:19:01",
+      "https://lobste.rs/s/eibvvz/esorterica_esoteric_sorting_algorithms"
+    ],
+    [
+      "Esorterica: Esoteric Sorting Algorithms",
+      "https://www.youtube.com/watch?v=TYPCku-DJrY"
+    ]
+  ],
+  [
+    [
+      "2023-09-29, 13:18:50",
+      "https://lobste.rs/s/buc6dh/imap_sent_folder_can_create_some_odd"
+    ],
+    [
+      "The IMAP Sent folder can create some odd issues and confusion",
+      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IMAPSentFolderIssues"
+    ]
+  ],
+  [
+    [
       "2023-09-29, 11:48:14",
       "https://lobste.rs/s/sxbmst/you_can_t_control_your_data_cloud_2016"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-09-28, 17:10:49",
-      "https://lobste.rs/s/oywraq/pitfalls_lambda_capture_initialization"
-    ],
-    [
-      "Pitfalls of lambda capture initialization in C++",
-      "https://www.arnorehn.de/blog/2023/09/27/pitfalls-of-lambda-capture-initialization/"
-    ]
-  ],
-  [
-    [
       "2023-09-28, 16:43:22",
       "https://lobste.rs/s/0a7pod/demystifying_database_transcations"
     ],
@@ -237,16 +247,6 @@
     [
       "Raspberry Pi 5 announced",
       "https://datasheets.raspberrypi.com/rpi5/raspberry-pi-5-product-brief.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-09-27, 21:01:32",
-      "https://lobste.rs/s/jsjank/random_walk_2_lines_j"
-    ],
-    [
-      "Random walk in 2 lines of J",
-      "https://asindu.xyz/posts/random-walk-in-2-lines-of-j/"
     ]
   ]
 ]
