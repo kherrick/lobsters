@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-30, 21:10:55](https://lobste.rs/s/8s9p5b/how_flip_flops_are_implemented_intel_8086) - [How flip-flops are implemented in the Intel 8086 processor](http://www.righto.com/2023/09/8086-flip-flops.html)
+* [2023-09-30, 21:09:47](https://lobste.rs/s/xw17vh/faster_hash_maps_binary_trees_etc_through) - [Faster hash maps, binary trees etc. through data layout modification](https://johnnysswlab.com/faster-hash-maps-binary-trees-etc-through-data-layout-modification/)
+* [2023-09-30, 21:04:32](https://lobste.rs/s/cugy9j/pruning_radix_trie_radix_trie_on_steroids) - [The Pruning Radix Trie — a Radix Trie on steroids](https://seekstorm.com/blog/pruning-radix-trie/)
 * [2023-09-30, 20:57:42](https://lobste.rs/s/nir1lm/cppfront_autumn_update) - [cppfront: Autumn update](https://herbsutter.com/2023/09/28/cppfront-autumn-update/)
 * [2023-09-30, 17:28:50](https://lobste.rs/s/wbrwvw/orbiton_2_65_1_is_out) - [Orbiton 2.65.1 is out](https://github.com/xyproto/orbiton/releases/tag/v2.65.1)
 * [2023-09-30, 17:20:55](https://lobste.rs/s/wbfuoo/reorient_github_pull_requests_around) - [Reorient GitHub Pull Requests Around Changesets](https://mitchellh.com/writing/github-changesets)
@@ -10,9 +13,7 @@
 * [2023-09-30, 11:22:02](https://lobste.rs/s/8dyjxz/how_does_printf_work_xv6_kernel) - [How does printf() work in the xv6 kernel?](https://www.youtube.com/watch?v=uNp4DElDQyY)
 * [2023-09-30, 10:31:13](https://lobste.rs/s/eewpsm/hardening_macos_updated_for_macos_sonoma) - [Hardening macOS (updated for macOS Sonoma 14.0)](https://www.bejarano.io/hardening-macos/)
 * [2023-09-30, 08:06:42](https://lobste.rs/s/g1zvo8/50_years_later_is_two_phase_locking_best_we) - [50 years later, is Two-Phase Locking the best we can do?](http://concurrencyfreaks.blogspot.com/2023/09/50-years-later-is-two-phase-locking.html)
-* [2023-09-30, 05:36:03](https://lobste.rs/s/vxc3cl/how_convert_enum_string_c) - [How to convert an enum to string in C++](https://mariusbancila.ro/blog/2023/08/17/how-to-convert-an-enum-to-string-in-cpp/)
 * [2023-09-30, 05:25:59](https://lobste.rs/s/ruwoax/60_terrible_tips_for_c_developer) - [60 terrible tips for a C++ developer](https://www.modernescpp.com/index.php/60-terrible-tips-for-a-c-developer/)
-* [2023-09-30, 05:20:12](https://lobste.rs/s/hivvpe/some_c_20_ranges_aren_t_const_iterable) - [Some C++20 ranges aren’t const-iterable](https://quuxplusone.github.io/blog/2023/08/13/non-const-iterable-ranges/)
 * [2023-09-30, 05:15:02](https://lobste.rs/s/wyfc16/c_23_multidimensional_operator) - [C++23: multidimensional operator[]](https://www.sandordargo.com/blog/2023/08/09/cpp23-multidimensional-subscription-operator)
 * [2023-09-30, 02:30:50](https://lobste.rs/s/4jjipr/encrypted_client_hello) - [Encrypted Client Hello](https://blog.cloudflare.com/announcing-encrypted-client-hello/)
 * [2023-09-30, 02:22:15](https://lobste.rs/s/eqyzhh/things_i_ve_learned_about_building_cli) - [Things I’ve learned about building CLI tools in Python](https://simonwillison.net/2023/Sep/30/cli-tools-python/)
@@ -23,7 +24,6 @@
 * [2023-09-29, 14:02:23](https://lobste.rs/s/9o9nyn/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/9o9nyn/what_are_you_doing_this_weekend)
 * [2023-09-29, 10:30:24](https://lobste.rs/s/loew5x/ghostty_devlog_004) - [Ghostty Devlog 004](https://mitchellh.com/writing/ghostty-devlog-004)
 * [2023-09-29, 09:35:08](https://lobste.rs/s/txewtb/how_steamos_is_contributing_linux) - [How SteamOS is contributing to the Linux ecosystem](https://static.sched.com/hosted_files/osseu2023/83/steamos-and-linux-oss-eu-2023.pdf)
-* [2023-09-29, 04:16:31](https://lobste.rs/s/ac1t6n/who_s_hiring_q42023) - [Who's hiring? Q42023](https://lobste.rs/s/ac1t6n/who_s_hiring_q42023)
 * [2023-09-28, 16:11:36](https://lobste.rs/s/cnpaup/was_javascript_really_made_10_days) - [Was Javascript really made in 10 days?](https://buttondown.email/hillelwayne/archive/did-brendan-eich-really-make-javascript-in-10-days/)
 
 ## [Archives](archives/index.md)

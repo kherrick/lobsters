@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-09-30](index.md)
 
+* [2023-09-30, 21:10:55](https://lobste.rs/s/8s9p5b/how_flip_flops_are_implemented_intel_8086) - [How flip-flops are implemented in the Intel 8086 processor](http://www.righto.com/2023/09/8086-flip-flops.html)
+* [2023-09-30, 21:09:47](https://lobste.rs/s/xw17vh/faster_hash_maps_binary_trees_etc_through) - [Faster hash maps, binary trees etc. through data layout modification](https://johnnysswlab.com/faster-hash-maps-binary-trees-etc-through-data-layout-modification/)
+* [2023-09-30, 21:04:32](https://lobste.rs/s/cugy9j/pruning_radix_trie_radix_trie_on_steroids) - [The Pruning Radix Trie — a Radix Trie on steroids](https://seekstorm.com/blog/pruning-radix-trie/)
 * [2023-09-30, 20:57:42](https://lobste.rs/s/nir1lm/cppfront_autumn_update) - [cppfront: Autumn update](https://herbsutter.com/2023/09/28/cppfront-autumn-update/)
 * [2023-09-30, 17:28:50](https://lobste.rs/s/wbrwvw/orbiton_2_65_1_is_out) - [Orbiton 2.65.1 is out](https://github.com/xyproto/orbiton/releases/tag/v2.65.1)
 * [2023-09-30, 17:20:55](https://lobste.rs/s/wbfuoo/reorient_github_pull_requests_around) - [Reorient GitHub Pull Requests Around Changesets](https://mitchellh.com/writing/github-changesets)
