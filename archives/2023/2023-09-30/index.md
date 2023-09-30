@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-30](index.md)
 
+* [2023-09-30, 20:57:42](https://lobste.rs/s/nir1lm/cppfront_autumn_update) - [cppfront: Autumn update](https://herbsutter.com/2023/09/28/cppfront-autumn-update/)
 * [2023-09-30, 17:28:50](https://lobste.rs/s/wbrwvw/orbiton_2_65_1_is_out) - [Orbiton 2.65.1 is out](https://github.com/xyproto/orbiton/releases/tag/v2.65.1)
 * [2023-09-30, 17:20:55](https://lobste.rs/s/wbfuoo/reorient_github_pull_requests_around) - [Reorient GitHub Pull Requests Around Changesets](https://mitchellh.com/writing/github-changesets)
 * [2023-09-30, 16:01:49](https://lobste.rs/s/uopjk3/dbg_macro_for_printf_style_debugging_fans) - [dbg(…) -  A macro for printf-style debugging fans](https://github.com/sharkdp/dbg-macro)
