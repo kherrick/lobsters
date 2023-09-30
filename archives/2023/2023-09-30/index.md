@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-30](index.md)
 
+* [2023-09-30, 10:31:13](https://lobste.rs/s/eewpsm/hardening_macos_updated_for_macos_sonoma) - [Hardening macOS (updated for macOS Sonoma 14.0)](https://www.bejarano.io/hardening-macos/)
 * [2023-09-30, 08:06:42](https://lobste.rs/s/g1zvo8/50_years_later_is_two_phase_locking_best_we) - [50 years later, is Two-Phase Locking the best we can do?](http://concurrencyfreaks.blogspot.com/2023/09/50-years-later-is-two-phase-locking.html)
 * [2023-09-30, 06:22:10](https://lobste.rs/s/5nfcgd/how_use_monadic_operations_for_std) - [How to Use Monadic Operations for `std::optional` in C++23](https://www.cppstories.com/2023/monadic-optional-ops-cpp23/)
 * [2023-09-30, 05:36:03](https://lobste.rs/s/vxc3cl/how_convert_enum_string_c) - [How to convert an enum to string in C++](https://mariusbancila.ro/blog/2023/08/17/how-to-convert-an-enum-to-string-in-cpp/)
