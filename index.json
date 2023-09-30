@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-30, 06:22:10",
+      "https://lobste.rs/s/5nfcgd/how_use_monadic_operations_for_std"
+    ],
+    [
+      "How to Use Monadic Operations for `std::optional` in C++23",
+      "https://www.cppstories.com/2023/monadic-optional-ops-cpp23/"
+    ]
+  ],
+  [
+    [
       "2023-09-30, 05:36:03",
       "https://lobste.rs/s/vxc3cl/how_convert_enum_string_c"
     ],
@@ -177,16 +187,6 @@
     [
       "What Predicts Software Developers’ Productivity?",
       "https://newsletter.getdx.com/p/factors-of-developer-productivity"
-    ]
-  ],
-  [
-    [
-      "2023-09-29, 04:47:48",
-      "https://lobste.rs/s/0fevfi/css_nesting_cascade"
-    ],
-    [
-      "CSS Nesting and the Cascade",
-      "https://webkit.org/blog/14571/css-nesting-and-the-cascade/"
     ]
   ],
   [
