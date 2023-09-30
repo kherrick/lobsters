@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-30, 20:57:42",
+      "https://lobste.rs/s/nir1lm/cppfront_autumn_update"
+    ],
+    [
+      "cppfront: Autumn update",
+      "https://herbsutter.com/2023/09/28/cppfront-autumn-update/"
+    ]
+  ],
+  [
+    [
       "2023-09-30, 17:28:50",
       "https://lobste.rs/s/wbrwvw/orbiton_2_65_1_is_out"
     ],
@@ -127,16 +137,6 @@
     [
       "C++23: multidimensional operator[]",
       "https://www.sandordargo.com/blog/2023/08/09/cpp23-multidimensional-subscription-operator"
-    ]
-  ],
-  [
-    [
-      "2023-09-30, 05:11:10",
-      "https://lobste.rs/s/ryh3wu/five_advanced_initialization"
-    ],
-    [
-      "Five Advanced Initialization Techniques in C++: From reserve() to piecewise_construct and More",
-      "https://www.cppstories.com/2023/five-adv-init-techniques-cpp/"
     ]
   ],
   [
