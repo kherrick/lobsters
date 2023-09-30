@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-30](index.md)
 
+* [2023-09-30, 15:21:59](https://lobste.rs/s/gnr5pv/adding_icons_for_go_built_windows) - [Adding Icons for Go-built Windows Executable](https://hjr265.me/blog/adding-icons-for-go-built-windows-executable/)
 * [2023-09-30, 13:13:08](https://lobste.rs/s/wc1yc1/2fa_on_laravel_with_support_most_popular) - [2FA on Laravel with the support of the most popular SMS providers](https://github.com/alexeygeno/phone-verification-laravel)
 * [2023-09-30, 12:51:03](https://lobste.rs/s/hyxrwj/oldest_living_torrent_is_20_years_old) - [The Oldest Living Torrent Is 20 Years Old](https://hackaday.com/2023/09/28/the-oldest-living-torrent-is-20-years-old/)
 * [2023-09-30, 11:22:02](https://lobste.rs/s/8dyjxz/how_does_printf_work_xv6_kernel) - [How does printf() work in the xv6 kernel?](https://www.youtube.com/watch?v=uNp4DElDQyY)
