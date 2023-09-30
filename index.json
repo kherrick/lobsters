@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-09-30, 15:21:59",
+      "https://lobste.rs/s/gnr5pv/adding_icons_for_go_built_windows"
+    ],
+    [
+      "Adding Icons for Go-built Windows Executable",
+      "https://hjr265.me/blog/adding-icons-for-go-built-windows-executable/"
+    ]
+  ],
+  [
+    [
       "2023-09-30, 12:51:03",
       "https://lobste.rs/s/hyxrwj/oldest_living_torrent_is_20_years_old"
     ],
@@ -37,16 +47,6 @@
     [
       "50 years later, is Two-Phase Locking the best we can do?",
       "http://concurrencyfreaks.blogspot.com/2023/09/50-years-later-is-two-phase-locking.html"
-    ]
-  ],
-  [
-    [
-      "2023-09-30, 06:22:10",
-      "https://lobste.rs/s/5nfcgd/how_use_monadic_operations_for_std"
-    ],
-    [
-      "How to Use Monadic Operations for `std::optional` in C++23",
-      "https://www.cppstories.com/2023/monadic-optional-ops-cpp23/"
     ]
   ],
   [
