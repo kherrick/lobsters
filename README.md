@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-30, 05:20:12](https://lobste.rs/s/hivvpe/some_c_20_ranges_aren_t_const_iterable) - [Some C++20 ranges aren’t const-iterable](https://quuxplusone.github.io/blog/2023/08/13/non-const-iterable-ranges/)
+* [2023-09-30, 05:15:02](https://lobste.rs/s/wyfc16/c_23_multidimensional_operator) - [C++23: multidimensional operator[]](https://www.sandordargo.com/blog/2023/08/09/cpp23-multidimensional-subscription-operator)
+* [2023-09-30, 05:11:10](https://lobste.rs/s/ryh3wu/five_advanced_initialization) - [Five Advanced Initialization Techniques in C++: From reserve() to piecewise_construct and More](https://www.cppstories.com/2023/five-adv-init-techniques-cpp/)
 * [2023-09-30, 02:30:50](https://lobste.rs/s/4jjipr/encrypted_client_hello) - [Encrypted Client Hello](https://blog.cloudflare.com/announcing-encrypted-client-hello/)
 * [2023-09-30, 02:22:15](https://lobste.rs/s/eqyzhh/things_i_ve_learned_about_building_cli) - [Things I’ve learned about building CLI tools in Python](https://simonwillison.net/2023/Sep/30/cli-tools-python/)
 * [2023-09-30, 01:09:14](https://lobste.rs/s/sq5sss/yaml_config_file_pain_try_lua) - [YAML config file? Pain? Try Lua](https://boston.conman.org/2023/09/29.1)
@@ -14,8 +17,6 @@
 * [2023-09-29, 10:30:24](https://lobste.rs/s/loew5x/ghostty_devlog_004) - [Ghostty Devlog 004](https://mitchellh.com/writing/ghostty-devlog-004)
 * [2023-09-29, 09:35:08](https://lobste.rs/s/txewtb/how_steamos_is_contributing_linux) - [How SteamOS is contributing to the Linux ecosystem](https://static.sched.com/hosted_files/osseu2023/83/steamos-and-linux-oss-eu-2023.pdf)
 * [2023-09-29, 08:51:32](https://lobste.rs/s/nfvk73/what_predicts_software_developers) - [What Predicts Software Developers’ Productivity?](https://newsletter.getdx.com/p/factors-of-developer-productivity)
-* [2023-09-29, 08:47:43](https://lobste.rs/s/u8pq6n/simplifying_fluffy_constructors_unit) - [Simplifying Fluffy Constructors in Unit Tests](https://www.moderndescartes.com/essays/simplifying_fluff/)
-* [2023-09-29, 06:51:33](https://lobste.rs/s/bgqkoo/nope_foundry_release_2023_4) - [Nope Foundry Release 2023.4](https://www.nope-foundry.org/news/release-2023.4/)
 * [2023-09-29, 04:47:48](https://lobste.rs/s/0fevfi/css_nesting_cascade) - [CSS Nesting and the Cascade](https://webkit.org/blog/14571/css-nesting-and-the-cascade/)
 * [2023-09-29, 04:16:31](https://lobste.rs/s/ac1t6n/who_s_hiring_q42023) - [Who's hiring? Q42023](https://lobste.rs/s/ac1t6n/who_s_hiring_q42023)
 * [2023-09-29, 02:19:05](https://lobste.rs/s/3x2z0t/reactive_signals_build_system) - [Reactive Signals and Build System](https://www.1a-insec.net/blog/19-reactive-signal-and-build-system/)
@@ -24,7 +25,6 @@
 * [2023-09-28, 16:11:36](https://lobste.rs/s/cnpaup/was_javascript_really_made_10_days) - [Was Javascript really made in 10 days?](https://buttondown.email/hillelwayne/archive/did-brendan-eich-really-make-javascript-in-10-days/)
 * [2023-09-28, 14:42:52](https://lobste.rs/s/rxiytz/s_lot_yaml) - [That's a lot of YAML](https://noyaml.com)
 * [2023-09-28, 13:14:03](https://lobste.rs/s/pdpm41/aborted_experiment_with_server_swift) - [an aborted experiment with server swift](https://flak.tedunangst.com/post/an-aborted-experiment-with-server-swift)
-* [2023-09-28, 05:42:40](https://lobste.rs/s/d1jdol/raspberry_pi_5_announced) - [Raspberry Pi 5 announced](https://www.raspberrypi.com/news/introducing-raspberry-pi-5/)
 
 ## [Archives](archives/index.md)
 
