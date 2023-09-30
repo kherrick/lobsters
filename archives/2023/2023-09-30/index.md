@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-30](index.md)
 
+* [2023-09-30, 23:03:16](https://lobste.rs/s/o95bz8/werror_is_not_your_friend) - [-Werror is Not Your Friend](https://embeddedartistry.com/blog/2017/05/22/werror-is-not-your-friend/)
 * [2023-09-30, 22:17:26](https://lobste.rs/s/uhpqpk/error_messages_are_classifiers) - [Error Messages Are Classifiers](https://cs.brown.edu/~sk/Publications/Papers/Published/wk-error-msg-classifier/paper.pdf)
 * [2023-09-30, 21:54:47](https://lobste.rs/s/4tbf3d/django_developers_survey_2023) - [Django Developers Survey 2023](https://surveys.jetbrains.com/s3/django-developers-survey-2023)
 * [2023-09-30, 21:10:55](https://lobste.rs/s/8s9p5b/how_flip_flops_are_implemented_intel_8086) - [How flip-flops are implemented in the Intel 8086 processor](http://www.righto.com/2023/09/8086-flip-flops.html)
