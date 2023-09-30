@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-30, 12:51:03](https://lobste.rs/s/hyxrwj/oldest_living_torrent_is_20_years_old) - [The Oldest Living Torrent Is 20 Years Old](https://hackaday.com/2023/09/28/the-oldest-living-torrent-is-20-years-old/)
 * [2023-09-30, 11:22:02](https://lobste.rs/s/8dyjxz/how_does_printf_work_xv6_kernel) - [How does printf() work in the xv6 kernel?](https://www.youtube.com/watch?v=uNp4DElDQyY)
 * [2023-09-30, 10:31:13](https://lobste.rs/s/eewpsm/hardening_macos_updated_for_macos_sonoma) - [Hardening macOS (updated for macOS Sonoma 14.0)](https://www.bejarano.io/hardening-macos/)
 * [2023-09-30, 08:06:42](https://lobste.rs/s/g1zvo8/50_years_later_is_two_phase_locking_best_we) - [50 years later, is Two-Phase Locking the best we can do?](http://concurrencyfreaks.blogspot.com/2023/09/50-years-later-is-two-phase-locking.html)
@@ -21,7 +22,6 @@
 * [2023-09-29, 14:02:23](https://lobste.rs/s/9o9nyn/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/9o9nyn/what_are_you_doing_this_weekend)
 * [2023-09-29, 10:30:24](https://lobste.rs/s/loew5x/ghostty_devlog_004) - [Ghostty Devlog 004](https://mitchellh.com/writing/ghostty-devlog-004)
 * [2023-09-29, 09:35:08](https://lobste.rs/s/txewtb/how_steamos_is_contributing_linux) - [How SteamOS is contributing to the Linux ecosystem](https://static.sched.com/hosted_files/osseu2023/83/steamos-and-linux-oss-eu-2023.pdf)
-* [2023-09-29, 08:51:32](https://lobste.rs/s/nfvk73/what_predicts_software_developers) - [What Predicts Software Developers’ Productivity?](https://newsletter.getdx.com/p/factors-of-developer-productivity)
 * [2023-09-29, 04:16:31](https://lobste.rs/s/ac1t6n/who_s_hiring_q42023) - [Who's hiring? Q42023](https://lobste.rs/s/ac1t6n/who_s_hiring_q42023)
 * [2023-09-29, 02:19:05](https://lobste.rs/s/3x2z0t/reactive_signals_build_system) - [Reactive Signals and Build System](https://www.1a-insec.net/blog/19-reactive-signal-and-build-system/)
 * [2023-09-28, 16:11:36](https://lobste.rs/s/cnpaup/was_javascript_really_made_10_days) - [Was Javascript really made in 10 days?](https://buttondown.email/hillelwayne/archive/did-brendan-eich-really-make-javascript-in-10-days/)
