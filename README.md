@@ -14,6 +14,7 @@
 * [2023-09-30, 02:22:15](https://lobste.rs/s/eqyzhh/things_i_ve_learned_about_building_cli) - [Things I’ve learned about building CLI tools in Python](https://simonwillison.net/2023/Sep/30/cli-tools-python/)
 * [2023-09-30, 01:09:14](https://lobste.rs/s/sq5sss/yaml_config_file_pain_try_lua) - [YAML config file? Pain? Try Lua](https://boston.conman.org/2023/09/29.1)
 * [2023-09-29, 23:54:21](https://lobste.rs/s/5hdxts/integrating_slonik_with_express_js) - [Integrating Slonik with Express.js](https://contra.com/p/bgA66gkW-integrating-slonik-with-express-js)
+* [2023-09-29, 23:26:30](https://lobste.rs/s/gmeze2/can_kde_learn_something_from_nextcloud) - [Can KDE learn something from Nextcloud?](https://blog.nicco.love/can-kde-learn-something-from-nextcloud/)
 * [2023-09-29, 19:32:39](https://lobste.rs/s/ht8prb/bruno_git_friendly_postman_alternative) - [bruno: a git-friendly Postman alternative](https://www.usebruno.com/)
 * [2023-09-29, 16:58:29](https://lobste.rs/s/c12vzm/hijacking_bluesky_identities_with) - [Hijacking Bluesky Identities with a Malleable Deputy](https://www.da.vidbuchanan.co.uk/blog/hacking-bluesky.html)
 * [2023-09-29, 15:01:45](https://lobste.rs/s/pjccms/making_music_library_without_spa) - [Making a music library without a SPA](https://begin.com/blog/posts/2023-09-28-introducing-enhance-music)
@@ -23,7 +24,6 @@
 * [2023-09-29, 08:51:32](https://lobste.rs/s/nfvk73/what_predicts_software_developers) - [What Predicts Software Developers’ Productivity?](https://newsletter.getdx.com/p/factors-of-developer-productivity)
 * [2023-09-29, 04:16:31](https://lobste.rs/s/ac1t6n/who_s_hiring_q42023) - [Who's hiring? Q42023](https://lobste.rs/s/ac1t6n/who_s_hiring_q42023)
 * [2023-09-29, 02:19:05](https://lobste.rs/s/3x2z0t/reactive_signals_build_system) - [Reactive Signals and Build System](https://www.1a-insec.net/blog/19-reactive-signal-and-build-system/)
-* [2023-09-29, 01:23:36](https://lobste.rs/s/wsbos7/subtraction_is_functionally_complete) - [Subtraction Is Functionally Complete](https://orlp.net/blog/subtraction-is-functionally-complete/)
 * [2023-09-28, 16:11:36](https://lobste.rs/s/cnpaup/was_javascript_really_made_10_days) - [Was Javascript really made in 10 days?](https://buttondown.email/hillelwayne/archive/did-brendan-eich-really-make-javascript-in-10-days/)
 
 ## [Archives](archives/index.md)
