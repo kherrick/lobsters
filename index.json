@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-09-30, 05:25:59",
+      "https://lobste.rs/s/ruwoax/60_terrible_tips_for_c_developer"
+    ],
+    [
+      "60 terrible tips for a C++ developer",
+      "https://www.modernescpp.com/index.php/60-terrible-tips-for-a-c-developer/"
+    ]
+  ],
+  [
+    [
+      "2023-09-30, 05:22:36",
+      "https://lobste.rs/s/1js6to/going_out_on_limb_efficient_elliptic"
+    ],
+    [
+      "Going out on a Limb: Efficient Elliptic Curve Arithmetic in OpenSSL",
+      "https://sthbrx.github.io/blog/2023/08/07/going-out-on-a-limb-efficient-elliptic-curve-arithmetic-in-openssl/"
+    ]
+  ],
+  [
+    [
       "2023-09-30, 05:20:12",
       "https://lobste.rs/s/hivvpe/some_c_20_ranges_aren_t_const_iterable"
     ],
@@ -67,16 +87,6 @@
     [
       "Integrating Slonik with Express.js",
       "https://contra.com/p/bgA66gkW-integrating-slonik-with-express-js"
-    ]
-  ],
-  [
-    [
-      "2023-09-29, 23:26:30",
-      "https://lobste.rs/s/gmeze2/can_kde_learn_something_from_nextcloud"
-    ],
-    [
-      "Can KDE learn something from Nextcloud?",
-      "https://blog.nicco.love/can-kde-learn-something-from-nextcloud/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Subtraction Is Functionally Complete",
       "https://orlp.net/blog/subtraction-is-functionally-complete/"
-    ]
-  ],
-  [
-    [
-      "2023-09-28, 18:07:20",
-      "https://lobste.rs/s/s7vdrx/python_3_12_preview_static_typing"
-    ],
-    [
-      "Python 3.12 Preview: Static Typing Improvements",
-      "https://realpython.com/python312-typing/"
     ]
   ],
   [
