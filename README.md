@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-30, 13:13:08](https://lobste.rs/s/wc1yc1/2fa_on_laravel_with_support_most_popular) - [2FA on Laravel with the support of the most popular SMS providers](https://github.com/alexeygeno/phone-verification-laravel)
 * [2023-09-30, 12:51:03](https://lobste.rs/s/hyxrwj/oldest_living_torrent_is_20_years_old) - [The Oldest Living Torrent Is 20 Years Old](https://hackaday.com/2023/09/28/the-oldest-living-torrent-is-20-years-old/)
 * [2023-09-30, 11:22:02](https://lobste.rs/s/8dyjxz/how_does_printf_work_xv6_kernel) - [How does printf() work in the xv6 kernel?](https://www.youtube.com/watch?v=uNp4DElDQyY)
 * [2023-09-30, 10:31:13](https://lobste.rs/s/eewpsm/hardening_macos_updated_for_macos_sonoma) - [Hardening macOS (updated for macOS Sonoma 14.0)](https://www.bejarano.io/hardening-macos/)
@@ -7,7 +8,6 @@
 * [2023-09-30, 06:22:10](https://lobste.rs/s/5nfcgd/how_use_monadic_operations_for_std) - [How to Use Monadic Operations for `std::optional` in C++23](https://www.cppstories.com/2023/monadic-optional-ops-cpp23/)
 * [2023-09-30, 05:36:03](https://lobste.rs/s/vxc3cl/how_convert_enum_string_c) - [How to convert an enum to string in C++](https://mariusbancila.ro/blog/2023/08/17/how-to-convert-an-enum-to-string-in-cpp/)
 * [2023-09-30, 05:25:59](https://lobste.rs/s/ruwoax/60_terrible_tips_for_c_developer) - [60 terrible tips for a C++ developer](https://www.modernescpp.com/index.php/60-terrible-tips-for-a-c-developer/)
-* [2023-09-30, 05:22:36](https://lobste.rs/s/1js6to/going_out_on_limb_efficient_elliptic) - [Going out on a Limb: Efficient Elliptic Curve Arithmetic in OpenSSL](https://sthbrx.github.io/blog/2023/08/07/going-out-on-a-limb-efficient-elliptic-curve-arithmetic-in-openssl/)
 * [2023-09-30, 05:20:12](https://lobste.rs/s/hivvpe/some_c_20_ranges_aren_t_const_iterable) - [Some C++20 ranges aren’t const-iterable](https://quuxplusone.github.io/blog/2023/08/13/non-const-iterable-ranges/)
 * [2023-09-30, 05:15:02](https://lobste.rs/s/wyfc16/c_23_multidimensional_operator) - [C++23: multidimensional operator[]](https://www.sandordargo.com/blog/2023/08/09/cpp23-multidimensional-subscription-operator)
 * [2023-09-30, 05:11:10](https://lobste.rs/s/ryh3wu/five_advanced_initialization) - [Five Advanced Initialization Techniques in C++: From reserve() to piecewise_construct and More](https://www.cppstories.com/2023/five-adv-init-techniques-cpp/)
