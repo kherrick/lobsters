@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-09-30, 13:13:08](https://lobste.rs/s/wc1yc1/2fa_on_laravel_with_support_most_popular) - [2FA on Laravel with the support of the most popular SMS providers](https://github.com/alexeygeno/phone-verification-laravel)
 * [2023-09-30, 12:51:03](https://lobste.rs/s/hyxrwj/oldest_living_torrent_is_20_years_old) - [The Oldest Living Torrent Is 20 Years Old](https://hackaday.com/2023/09/28/the-oldest-living-torrent-is-20-years-old/)
 * [2023-09-30, 11:22:02](https://lobste.rs/s/8dyjxz/how_does_printf_work_xv6_kernel) - [How does printf() work in the xv6 kernel?](https://www.youtube.com/watch?v=uNp4DElDQyY)
 * [2023-09-30, 10:31:13](https://lobste.rs/s/eewpsm/hardening_macos_updated_for_macos_sonoma) - [Hardening macOS (updated for macOS Sonoma 14.0)](https://www.bejarano.io/hardening-macos/)
@@ -16,6 +15,7 @@
 * [2023-09-30, 02:22:15](https://lobste.rs/s/eqyzhh/things_i_ve_learned_about_building_cli) - [Things I’ve learned about building CLI tools in Python](https://simonwillison.net/2023/Sep/30/cli-tools-python/)
 * [2023-09-30, 01:09:14](https://lobste.rs/s/sq5sss/yaml_config_file_pain_try_lua) - [YAML config file? Pain? Try Lua](https://boston.conman.org/2023/09/29.1)
 * [2023-09-29, 23:54:21](https://lobste.rs/s/5hdxts/integrating_slonik_with_express_js) - [Integrating Slonik with Express.js](https://contra.com/p/bgA66gkW-integrating-slonik-with-express-js)
+* [2023-09-29, 23:26:30](https://lobste.rs/s/gmeze2/can_kde_learn_something_from_nextcloud) - [Can KDE learn something from Nextcloud?](https://blog.nicco.love/can-kde-learn-something-from-nextcloud/)
 * [2023-09-29, 19:32:39](https://lobste.rs/s/ht8prb/bruno_git_friendly_postman_alternative) - [bruno: a git-friendly Postman alternative](https://www.usebruno.com/)
 * [2023-09-29, 16:58:29](https://lobste.rs/s/c12vzm/hijacking_bluesky_identities_with) - [Hijacking Bluesky Identities with a Malleable Deputy](https://www.da.vidbuchanan.co.uk/blog/hacking-bluesky.html)
 * [2023-09-29, 15:01:45](https://lobste.rs/s/pjccms/making_music_library_without_spa) - [Making a music library without a SPA](https://begin.com/blog/posts/2023-09-28-introducing-enhance-music)
