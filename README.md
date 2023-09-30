@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-30, 02:30:50](https://lobste.rs/s/4jjipr/encrypted_client_hello) - [Encrypted Client Hello](https://blog.cloudflare.com/announcing-encrypted-client-hello/)
 * [2023-09-30, 02:22:15](https://lobste.rs/s/eqyzhh/things_i_ve_learned_about_building_cli) - [Things I’ve learned about building CLI tools in Python](https://simonwillison.net/2023/Sep/30/cli-tools-python/)
 * [2023-09-30, 01:09:14](https://lobste.rs/s/sq5sss/yaml_config_file_pain_try_lua) - [YAML config file? Pain? Try Lua](https://boston.conman.org/2023/09/29.1)
 * [2023-09-29, 23:54:21](https://lobste.rs/s/5hdxts/integrating_slonik_with_express_js) - [Integrating Slonik with Express.js](https://contra.com/p/bgA66gkW-integrating-slonik-with-express-js)
@@ -12,7 +13,6 @@
 * [2023-09-29, 11:43:34](https://lobste.rs/s/8zqsoy/twiddler_chord_notation) - [Twiddler chord notation](https://twiddler.tekgear.com/doc/doku.php?id=chordnotation)
 * [2023-09-29, 10:30:24](https://lobste.rs/s/loew5x/ghostty_devlog_004) - [Ghostty Devlog 004](https://mitchellh.com/writing/ghostty-devlog-004)
 * [2023-09-29, 09:35:08](https://lobste.rs/s/txewtb/how_steamos_is_contributing_linux) - [How SteamOS is contributing to the Linux ecosystem](https://static.sched.com/hosted_files/osseu2023/83/steamos-and-linux-oss-eu-2023.pdf)
-* [2023-09-29, 09:14:04](https://lobste.rs/s/i2umgi/poc_monotrail_proof_concept_for_python) - [poc-monotrail: Proof Of Concept for python package management without virtualenvs](https://github.com/konstin/poc-monotrail)
 * [2023-09-29, 08:51:32](https://lobste.rs/s/nfvk73/what_predicts_software_developers) - [What Predicts Software Developers’ Productivity?](https://newsletter.getdx.com/p/factors-of-developer-productivity)
 * [2023-09-29, 08:47:43](https://lobste.rs/s/u8pq6n/simplifying_fluffy_constructors_unit) - [Simplifying Fluffy Constructors in Unit Tests](https://www.moderndescartes.com/essays/simplifying_fluff/)
 * [2023-09-29, 06:51:33](https://lobste.rs/s/bgqkoo/nope_foundry_release_2023_4) - [Nope Foundry Release 2023.4](https://www.nope-foundry.org/news/release-2023.4/)
