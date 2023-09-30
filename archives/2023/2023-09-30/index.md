@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-09-30](index.md)
 
+* [2023-09-30, 17:20:55](https://lobste.rs/s/wbfuoo/reorient_github_pull_requests_around) - [Reorient GitHub Pull Requests Around Changesets](https://mitchellh.com/writing/github-changesets)
 * [2023-09-30, 16:01:49](https://lobste.rs/s/uopjk3/dbg_macro_for_printf_style_debugging_fans) - [dbg(…) -  A macro for printf-style debugging fans](https://github.com/sharkdp/dbg-macro)
 * [2023-09-30, 15:31:15](https://lobste.rs/s/lkx2hh/hacking_upgrading_korg_kronos) - [Hacking and upgrading the Korg Kronos](https://marcan.st/2016/06/hacking-and-upgrading-the-korg-kronos/)
 * [2023-09-30, 15:21:59](https://lobste.rs/s/gnr5pv/adding_icons_for_go_built_windows) - [Adding Icons for Go-built Windows Executable](https://hjr265.me/blog/adding-icons-for-go-built-windows-executable/)

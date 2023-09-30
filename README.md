@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-09-30, 17:20:55](https://lobste.rs/s/wbfuoo/reorient_github_pull_requests_around) - [Reorient GitHub Pull Requests Around Changesets](https://mitchellh.com/writing/github-changesets)
 * [2023-09-30, 16:01:49](https://lobste.rs/s/uopjk3/dbg_macro_for_printf_style_debugging_fans) - [dbg(…) -  A macro for printf-style debugging fans](https://github.com/sharkdp/dbg-macro)
 * [2023-09-30, 15:31:15](https://lobste.rs/s/lkx2hh/hacking_upgrading_korg_kronos) - [Hacking and upgrading the Korg Kronos](https://marcan.st/2016/06/hacking-and-upgrading-the-korg-kronos/)
 * [2023-09-30, 15:21:59](https://lobste.rs/s/gnr5pv/adding_icons_for_go_built_windows) - [Adding Icons for Go-built Windows Executable](https://hjr265.me/blog/adding-icons-for-go-built-windows-executable/)
@@ -15,7 +16,6 @@
 * [2023-09-30, 02:30:50](https://lobste.rs/s/4jjipr/encrypted_client_hello) - [Encrypted Client Hello](https://blog.cloudflare.com/announcing-encrypted-client-hello/)
 * [2023-09-30, 02:22:15](https://lobste.rs/s/eqyzhh/things_i_ve_learned_about_building_cli) - [Things I’ve learned about building CLI tools in Python](https://simonwillison.net/2023/Sep/30/cli-tools-python/)
 * [2023-09-30, 01:09:14](https://lobste.rs/s/sq5sss/yaml_config_file_pain_try_lua) - [YAML config file? Pain? Try Lua](https://boston.conman.org/2023/09/29.1)
-* [2023-09-29, 23:54:21](https://lobste.rs/s/5hdxts/integrating_slonik_with_express_js) - [Integrating Slonik with Express.js](https://contra.com/p/bgA66gkW-integrating-slonik-with-express-js)
 * [2023-09-29, 23:26:30](https://lobste.rs/s/gmeze2/can_kde_learn_something_from_nextcloud) - [Can KDE learn something from Nextcloud?](https://blog.nicco.love/can-kde-learn-something-from-nextcloud/)
 * [2023-09-29, 19:32:39](https://lobste.rs/s/ht8prb/bruno_git_friendly_postman_alternative) - [bruno: a git-friendly Postman alternative](https://www.usebruno.com/)
 * [2023-09-29, 16:58:29](https://lobste.rs/s/c12vzm/hijacking_bluesky_identities_with) - [Hijacking Bluesky Identities with a Malleable Deputy](https://www.da.vidbuchanan.co.uk/blog/hacking-bluesky.html)
