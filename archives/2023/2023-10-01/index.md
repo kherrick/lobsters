@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-01](index.md)
 
+* [2023-10-01, 16:06:10](https://lobste.rs/s/wsx4vp/choose_boring_technology) - [Choose Boring Technology](https://boringtechnology.club/)
 * [2023-10-01, 15:22:08](https://lobste.rs/s/b08buc/my_freebsd_years_2000_2005) - [My FreeBSD years: 2000-2005](https://www.cambus.net/my-freebsd-years-2000-2005/)
 * [2023-10-01, 15:10:34](https://lobste.rs/s/pbdu8s/what_s_up_python_jupyter_more_popular_than) - [What's up Python: Jupyter more popular than Vim, VSCode in Excel and a button](https://www.bitecode.dev/p/whats-up-python-jupyter-more-popular)
 * [2023-10-01, 14:51:33](https://lobste.rs/s/sqk97c/gnu_taler_digital_cash_payment_system) - [The GNU Taler Digital Cash Payment System (2022)](https://taler.net/videos/rms2022.webm)
