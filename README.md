@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-01, 00:55:26](https://lobste.rs/s/9z6wjk/just_because_it_s_old_doesn_t_make_it_tech) - [Just because it's old, doesn't make it tech debt](https://www.elliotcsmith.com/tech-debt/)
 * [2023-09-30, 23:03:16](https://lobste.rs/s/o95bz8/werror_is_not_your_friend) - [-Werror is Not Your Friend](https://embeddedartistry.com/blog/2017/05/22/werror-is-not-your-friend/)
 * [2023-09-30, 22:17:26](https://lobste.rs/s/uhpqpk/error_messages_are_classifiers) - [Error Messages Are Classifiers](https://cs.brown.edu/~sk/Publications/Papers/Published/wk-error-msg-classifier/paper.pdf)
 * [2023-09-30, 21:54:47](https://lobste.rs/s/4tbf3d/django_developers_survey_2023) - [Django Developers Survey 2023](https://surveys.jetbrains.com/s3/django-developers-survey-2023)
@@ -17,7 +18,6 @@
 * [2023-09-30, 10:31:13](https://lobste.rs/s/eewpsm/hardening_macos_updated_for_macos_sonoma) - [Hardening macOS (updated for macOS Sonoma 14.0)](https://www.bejarano.io/hardening-macos/)
 * [2023-09-30, 08:06:42](https://lobste.rs/s/g1zvo8/50_years_later_is_two_phase_locking_best_we) - [50 years later, is Two-Phase Locking the best we can do?](http://concurrencyfreaks.blogspot.com/2023/09/50-years-later-is-two-phase-locking.html)
 * [2023-09-30, 05:25:59](https://lobste.rs/s/ruwoax/60_terrible_tips_for_c_developer) - [60 terrible tips for a C++ developer](https://www.modernescpp.com/index.php/60-terrible-tips-for-a-c-developer/)
-* [2023-09-30, 05:15:02](https://lobste.rs/s/wyfc16/c_23_multidimensional_operator) - [C++23: multidimensional operator[]](https://www.sandordargo.com/blog/2023/08/09/cpp23-multidimensional-subscription-operator)
 * [2023-09-30, 02:30:50](https://lobste.rs/s/4jjipr/encrypted_client_hello) - [Encrypted Client Hello](https://blog.cloudflare.com/announcing-encrypted-client-hello/)
 * [2023-09-30, 02:22:15](https://lobste.rs/s/eqyzhh/things_i_ve_learned_about_building_cli) - [Things I’ve learned about building CLI tools in Python](https://simonwillison.net/2023/Sep/30/cli-tools-python/)
 * [2023-09-30, 01:09:14](https://lobste.rs/s/sq5sss/yaml_config_file_pain_try_lua) - [YAML config file? Pain? Try Lua](https://boston.conman.org/2023/09/29.1)
