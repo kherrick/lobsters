@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-01, 21:00:20](https://lobste.rs/s/yqjfgz/m2_macbook_air_off_by_one_audio_dsp_bug) - [M2 MacBook Air \"off-by-one\" audio DSP bug](https://social.treehouse.systems/@marcan/111160552044972689)
 * [2023-10-01, 20:45:07](https://lobste.rs/s/4av4vr/how_startup_full_ex_iphone_talent_is) - [How a startup full of ex-iPhone talent is trying to make phones obsolete](https://www.inverse.com/tech/humane-projection-device-ex-apple-employees-artificial-intelligence)
 * [2023-10-01, 19:50:02](https://lobste.rs/s/pqpko2/irish_logarithm) - [The Irish logarithm](https://blog.plover.com/2023/10/01/#irish-logarithm)
 * [2023-10-01, 17:20:38](https://lobste.rs/s/s9ytsb/database_migrations) - [Database Migrations](https://vadimkravcenko.com/shorts/database-migrations/)
@@ -12,7 +13,6 @@
 * [2023-10-01, 13:43:30](https://lobste.rs/s/wkciiw/ai_from_legal_perspective) - [AI from a legal perspective](https://lwn.net/SubscriberLink/945504/ee1f1db87dae56b1/)
 * [2023-10-01, 09:22:05](https://lobste.rs/s/vc67gc/x220_thinkpad_is_best_laptop_world) - [The X220 ThinkPad is the Best Laptop in the World](https://bt.ht/x220)
 * [2023-10-01, 08:40:26](https://lobste.rs/s/vvqrol/netbsd_performance_power_management) - [NetBSD Performance and Power Management Tweaks](https://www.unitedbsd.com/d/439-netbsd-performance-and-power-management-tweaks)
-* [2023-10-01, 08:39:02](https://lobste.rs/s/rxvkxc/bastillebsd_jails_on_freebsd) - [BastilleBSD Jails on FreeBSD](https://www.sharpwriting.net/project/bastille-jail-management-on-raspberry-pi-with-adguard/)
 * [2023-10-01, 06:14:59](https://lobste.rs/s/jpk8at/storage_challenges_evolution_database) - [Storage Challenges in the Evolution of Database Architecture](https://blog.postman.com/storage-challenges-in-the-evolution-of-database-architecture/)
 * [2023-10-01, 00:55:26](https://lobste.rs/s/9z6wjk/just_because_it_s_old_doesn_t_make_it_tech) - [Just because it's old, doesn't make it tech debt](https://www.elliotcsmith.com/tech-debt/)
 * [2023-09-30, 23:03:16](https://lobste.rs/s/o95bz8/werror_is_not_your_friend_2017) - [-Werror is Not Your Friend (2017)](https://embeddedartistry.com/blog/2017/05/22/werror-is-not-your-friend/)
