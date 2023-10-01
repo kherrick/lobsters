@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-01, 15:22:08](https://lobste.rs/s/b08buc/my_freebsd_years_2000_2005) - [My FreeBSD years: 2000-2005](https://www.cambus.net/my-freebsd-years-2000-2005/)
 * [2023-10-01, 15:10:34](https://lobste.rs/s/pbdu8s/what_s_up_python_jupyter_more_popular_than) - [What's up Python: Jupyter more popular than Vim, VSCode in Excel and a button](https://www.bitecode.dev/p/whats-up-python-jupyter-more-popular)
 * [2023-10-01, 14:51:33](https://lobste.rs/s/sqk97c/gnu_taler_digital_cash_payment_system) - [The GNU Taler Digital Cash Payment System (2022)](https://taler.net/videos/rms2022.webm)
 * [2023-10-01, 14:20:23](https://lobste.rs/s/dfijne/intercepting_modifying_linux_system) - [Intercepting and modifying Linux system calls with ptrace](https://notes.eatonphil.com/2023-10-01-intercepting-and-modifying-linux-system-calls-with-ptrace.html)
@@ -22,7 +23,6 @@
 * [2023-09-30, 15:21:59](https://lobste.rs/s/gnr5pv/adding_icons_for_go_built_windows) - [Adding Icons for Go-built Windows Executable](https://hjr265.me/blog/adding-icons-for-go-built-windows-executable/)
 * [2023-09-30, 12:51:03](https://lobste.rs/s/hyxrwj/oldest_living_torrent_is_20_years_old) - [The Oldest Living Torrent Is 20 Years Old](https://hackaday.com/2023/09/28/the-oldest-living-torrent-is-20-years-old/)
 * [2023-09-30, 10:31:13](https://lobste.rs/s/eewpsm/hardening_macos_updated_for_macos_sonoma) - [Hardening macOS (updated for macOS Sonoma 14.0)](https://www.bejarano.io/hardening-macos/)
-* [2023-09-30, 08:06:42](https://lobste.rs/s/g1zvo8/50_years_later_is_two_phase_locking_best_we) - [50 years later, is Two-Phase Locking the best we can do?](http://concurrencyfreaks.blogspot.com/2023/09/50-years-later-is-two-phase-locking.html)
 * [2023-09-30, 01:09:14](https://lobste.rs/s/sq5sss/yaml_config_file_pain_try_lua) - [YAML config file? Pain? Try Lua](https://boston.conman.org/2023/09/29.1)
 * [2023-09-29, 16:58:29](https://lobste.rs/s/c12vzm/hijacking_bluesky_identities_with) - [Hijacking Bluesky Identities with a Malleable Deputy](https://www.da.vidbuchanan.co.uk/blog/hacking-bluesky.html)
 
