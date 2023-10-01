@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-01](index.md)
 
+* [2023-10-01, 15:10:34](https://lobste.rs/s/pbdu8s/what_s_up_python_jupyter_more_popular_than) - [What's up Python: Jupyter more popular than Vim, VSCode in Excel and a button](https://www.bitecode.dev/p/whats-up-python-jupyter-more-popular)
 * [2023-10-01, 14:51:33](https://lobste.rs/s/sqk97c/gnu_taler_digital_cash_payment_system) - [The GNU Taler Digital Cash Payment System (2022)](https://taler.net/videos/rms2022.webm)
 * [2023-10-01, 14:20:23](https://lobste.rs/s/dfijne/intercepting_modifying_linux_system) - [Intercepting and modifying Linux system calls with ptrace](https://notes.eatonphil.com/2023-10-01-intercepting-and-modifying-linux-system-calls-with-ptrace.html)
 * [2023-10-01, 13:43:51](https://lobste.rs/s/g2mcxf/git_pile_stacked_diff_support_for_github) - [git-pile: Stacked diff support for GitHub workflows](https://github.com/keith/git-pile)
