@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2023-09-30, 21:54:47",
-      "https://lobste.rs/s/4tbf3d/django_developers_survey_2023"
-    ],
-    [
-      "Django Developers Survey 2023",
-      "https://surveys.jetbrains.com/s3/django-developers-survey-2023"
-    ]
-  ],
-  [
-    [
       "2023-09-30, 21:09:47",
       "https://lobste.rs/s/xw17vh/faster_hash_maps_binary_trees_etc_through"
     ],
@@ -227,6 +217,16 @@
     [
       "Hardening macOS (updated for macOS Sonoma 14.0)",
       "https://www.bejarano.io/hardening-macos/"
+    ]
+  ],
+  [
+    [
+      "2023-09-30, 08:06:42",
+      "https://lobste.rs/s/g1zvo8/50_years_later_is_two_phase_locking_best_we"
+    ],
+    [
+      "50 years later, is Two-Phase Locking the best we can do?",
+      "http://concurrencyfreaks.blogspot.com/2023/09/50-years-later-is-two-phase-locking.html"
     ]
   ],
   [
