@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-01](index.md)
 
+* [2023-10-01, 20:45:07](https://lobste.rs/s/4av4vr/how_startup_full_ex_iphone_talent_is) - [How a startup full of ex-iPhone talent is trying to make phones obsolete](https://www.inverse.com/tech/humane-projection-device-ex-apple-employees-artificial-intelligence)
 * [2023-10-01, 19:50:02](https://lobste.rs/s/pqpko2/irish_logarithm) - [The Irish logarithm](https://blog.plover.com/2023/10/01/#irish-logarithm)
 * [2023-10-01, 17:20:38](https://lobste.rs/s/s9ytsb/database_migrations) - [Database Migrations](https://vadimkravcenko.com/shorts/database-migrations/)
 * [2023-10-01, 16:06:10](https://lobste.rs/s/wsx4vp/choose_boring_technology) - [Choose Boring Technology](https://boringtechnology.club/)

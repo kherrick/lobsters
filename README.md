@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-01, 20:45:07](https://lobste.rs/s/4av4vr/how_startup_full_ex_iphone_talent_is) - [How a startup full of ex-iPhone talent is trying to make phones obsolete](https://www.inverse.com/tech/humane-projection-device-ex-apple-employees-artificial-intelligence)
 * [2023-10-01, 19:50:02](https://lobste.rs/s/pqpko2/irish_logarithm) - [The Irish logarithm](https://blog.plover.com/2023/10/01/#irish-logarithm)
 * [2023-10-01, 17:20:38](https://lobste.rs/s/s9ytsb/database_migrations) - [Database Migrations](https://vadimkravcenko.com/shorts/database-migrations/)
 * [2023-10-01, 16:06:10](https://lobste.rs/s/wsx4vp/choose_boring_technology) - [Choose Boring Technology](https://boringtechnology.club/)
@@ -22,7 +23,6 @@
 * [2023-09-30, 16:01:49](https://lobste.rs/s/uopjk3/dbg_macro_for_printf_style_debugging_fans) - [dbg(…) -  A macro for printf-style debugging fans](https://github.com/sharkdp/dbg-macro)
 * [2023-09-30, 15:31:15](https://lobste.rs/s/lkx2hh/hacking_upgrading_korg_kronos) - [Hacking and upgrading the Korg Kronos](https://marcan.st/2016/06/hacking-and-upgrading-the-korg-kronos/)
 * [2023-09-30, 15:21:59](https://lobste.rs/s/gnr5pv/adding_icons_for_go_built_windows) - [Adding Icons for Go-built Windows Executable](https://hjr265.me/blog/adding-icons-for-go-built-windows-executable/)
-* [2023-09-30, 12:51:03](https://lobste.rs/s/hyxrwj/oldest_living_torrent_is_20_years_old) - [The Oldest Living Torrent Is 20 Years Old](https://hackaday.com/2023/09/28/the-oldest-living-torrent-is-20-years-old/)
 * [2023-09-30, 10:31:13](https://lobste.rs/s/eewpsm/hardening_macos_updated_for_macos_sonoma) - [Hardening macOS (updated for macOS Sonoma 14.0)](https://www.bejarano.io/hardening-macos/)
 * [2023-09-30, 01:09:14](https://lobste.rs/s/sq5sss/yaml_config_file_pain_try_lua) - [YAML config file? Pain? Try Lua](https://boston.conman.org/2023/09/29.1)
 
