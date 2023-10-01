@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-01, 08:40:26](https://lobste.rs/s/vvqrol/netbsd_performance_power_management) - [NetBSD Performance and Power Management Tweaks](https://www.unitedbsd.com/d/439-netbsd-performance-and-power-management-tweaks)
 * [2023-10-01, 08:39:36](https://lobste.rs/s/2s4qpg/bastillebsd_changes_its_bastille_conf) - [BastilleBSD Changes Its bastille.conf Config Format](https://fosstodon.org/@BastilleBSD/110950908034719075)
 * [2023-10-01, 08:39:02](https://lobste.rs/s/rxvkxc/bastillebsd_jails_on_freebsd) - [BastilleBSD Jails on FreeBSD](https://www.sharpwriting.net/project/bastille-jail-management-on-raspberry-pi-with-adguard/)
 * [2023-10-01, 08:38:22](https://lobste.rs/s/hw1923/freebsd_foundation_install_freebsd_with) - [FreeBSD Foundation – Install FreeBSD with VirtualBox](https://www.youtube.com/watch?v=wGL3KiakMX8)
@@ -21,7 +22,6 @@
 * [2023-09-30, 11:22:02](https://lobste.rs/s/8dyjxz/how_does_printf_work_xv6_kernel) - [How does printf() work in the xv6 kernel?](https://www.youtube.com/watch?v=uNp4DElDQyY)
 * [2023-09-30, 10:31:13](https://lobste.rs/s/eewpsm/hardening_macos_updated_for_macos_sonoma) - [Hardening macOS (updated for macOS Sonoma 14.0)](https://www.bejarano.io/hardening-macos/)
 * [2023-09-30, 08:06:42](https://lobste.rs/s/g1zvo8/50_years_later_is_two_phase_locking_best_we) - [50 years later, is Two-Phase Locking the best we can do?](http://concurrencyfreaks.blogspot.com/2023/09/50-years-later-is-two-phase-locking.html)
-* [2023-09-30, 02:22:15](https://lobste.rs/s/eqyzhh/things_i_ve_learned_about_building_cli) - [Things I’ve learned about building CLI tools in Python](https://simonwillison.net/2023/Sep/30/cli-tools-python/)
 * [2023-09-30, 01:09:14](https://lobste.rs/s/sq5sss/yaml_config_file_pain_try_lua) - [YAML config file? Pain? Try Lua](https://boston.conman.org/2023/09/29.1)
 * [2023-09-29, 19:32:39](https://lobste.rs/s/ht8prb/bruno_git_friendly_postman_alternative) - [bruno: a git-friendly Postman alternative](https://www.usebruno.com/)
 * [2023-09-29, 16:58:29](https://lobste.rs/s/c12vzm/hijacking_bluesky_identities_with) - [Hijacking Bluesky Identities with a Malleable Deputy](https://www.da.vidbuchanan.co.uk/blog/hacking-bluesky.html)
