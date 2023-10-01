@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-01, 16:06:10",
+      "https://lobste.rs/s/wsx4vp/choose_boring_technology"
+    ],
+    [
+      "Choose Boring Technology",
+      "https://boringtechnology.club/"
+    ]
+  ],
+  [
+    [
       "2023-10-01, 15:22:08",
       "https://lobste.rs/s/b08buc/my_freebsd_years_2000_2005"
     ],
@@ -237,16 +247,6 @@
     [
       "YAML config file? Pain? Try Lua",
       "https://boston.conman.org/2023/09/29.1"
-    ]
-  ],
-  [
-    [
-      "2023-09-29, 16:58:29",
-      "https://lobste.rs/s/c12vzm/hijacking_bluesky_identities_with"
-    ],
-    [
-      "Hijacking Bluesky Identities with a Malleable Deputy",
-      "https://www.da.vidbuchanan.co.uk/blog/hacking-bluesky.html"
     ]
   ]
 ]
