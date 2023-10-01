@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-01, 21:39:56",
+      "https://lobste.rs/s/jjszjo/try_swi_prolog_online"
+    ],
+    [
+      "Try SWI-Prolog Online",
+      "https://swish.swi-prolog.org/"
+    ]
+  ],
+  [
+    [
       "2023-10-01, 21:00:20",
       "https://lobste.rs/s/yqjfgz/m2_macbook_air_off_by_one_audio_dsp_bug"
     ],
@@ -157,16 +167,6 @@
     [
       "Error Messages Are Classifiers",
       "https://cs.brown.edu/~sk/Publications/Papers/Published/wk-error-msg-classifier/paper.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-09-30, 21:09:47",
-      "https://lobste.rs/s/xw17vh/faster_hash_maps_binary_trees_etc_through"
-    ],
-    [
-      "Faster hash maps, binary trees etc. through data layout modification",
-      "https://johnnysswlab.com/faster-hash-maps-binary-trees-etc-through-data-layout-modification/"
     ]
   ],
   [
