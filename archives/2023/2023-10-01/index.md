@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-01](index.md)
 
+* [2023-10-01, 19:50:02](https://lobste.rs/s/pqpko2/irish_logarithm) - [The Irish logarithm](https://blog.plover.com/2023/10/01/#irish-logarithm)
 * [2023-10-01, 17:20:38](https://lobste.rs/s/s9ytsb/database_migrations) - [Database Migrations](https://vadimkravcenko.com/shorts/database-migrations/)
 * [2023-10-01, 16:06:10](https://lobste.rs/s/wsx4vp/choose_boring_technology) - [Choose Boring Technology](https://boringtechnology.club/)
 * [2023-10-01, 15:22:08](https://lobste.rs/s/b08buc/my_freebsd_years_2000_2005) - [My FreeBSD years: 2000-2005](https://www.cambus.net/my-freebsd-years-2000-2005/)
