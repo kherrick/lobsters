@@ -13,7 +13,6 @@
 * [2023-10-01, 00:55:26](https://lobste.rs/s/9z6wjk/just_because_it_s_old_doesn_t_make_it_tech) - [Just because it's old, doesn't make it tech debt](https://www.elliotcsmith.com/tech-debt/)
 * [2023-09-30, 23:03:16](https://lobste.rs/s/o95bz8/werror_is_not_your_friend_2017) - [-Werror is Not Your Friend (2017)](https://embeddedartistry.com/blog/2017/05/22/werror-is-not-your-friend/)
 * [2023-09-30, 22:17:26](https://lobste.rs/s/uhpqpk/error_messages_are_classifiers) - [Error Messages Are Classifiers](https://cs.brown.edu/~sk/Publications/Papers/Published/wk-error-msg-classifier/paper.pdf)
-* [2023-09-30, 21:54:47](https://lobste.rs/s/4tbf3d/django_developers_survey_2023) - [Django Developers Survey 2023](https://surveys.jetbrains.com/s3/django-developers-survey-2023)
 * [2023-09-30, 21:09:47](https://lobste.rs/s/xw17vh/faster_hash_maps_binary_trees_etc_through) - [Faster hash maps, binary trees etc. through data layout modification](https://johnnysswlab.com/faster-hash-maps-binary-trees-etc-through-data-layout-modification/)
 * [2023-09-30, 20:57:42](https://lobste.rs/s/nir1lm/cppfront_autumn_update) - [cppfront: Autumn update](https://herbsutter.com/2023/09/28/cppfront-autumn-update/)
 * [2023-09-30, 17:28:50](https://lobste.rs/s/wbrwvw/orbiton_2_65_1_is_out) - [Orbiton 2.65.1 is out](https://github.com/xyproto/orbiton/releases/tag/v2.65.1)
@@ -23,6 +22,7 @@
 * [2023-09-30, 15:21:59](https://lobste.rs/s/gnr5pv/adding_icons_for_go_built_windows) - [Adding Icons for Go-built Windows Executable](https://hjr265.me/blog/adding-icons-for-go-built-windows-executable/)
 * [2023-09-30, 12:51:03](https://lobste.rs/s/hyxrwj/oldest_living_torrent_is_20_years_old) - [The Oldest Living Torrent Is 20 Years Old](https://hackaday.com/2023/09/28/the-oldest-living-torrent-is-20-years-old/)
 * [2023-09-30, 10:31:13](https://lobste.rs/s/eewpsm/hardening_macos_updated_for_macos_sonoma) - [Hardening macOS (updated for macOS Sonoma 14.0)](https://www.bejarano.io/hardening-macos/)
+* [2023-09-30, 08:06:42](https://lobste.rs/s/g1zvo8/50_years_later_is_two_phase_locking_best_we) - [50 years later, is Two-Phase Locking the best we can do?](http://concurrencyfreaks.blogspot.com/2023/09/50-years-later-is-two-phase-locking.html)
 * [2023-09-30, 01:09:14](https://lobste.rs/s/sq5sss/yaml_config_file_pain_try_lua) - [YAML config file? Pain? Try Lua](https://boston.conman.org/2023/09/29.1)
 * [2023-09-29, 16:58:29](https://lobste.rs/s/c12vzm/hijacking_bluesky_identities_with) - [Hijacking Bluesky Identities with a Malleable Deputy](https://www.da.vidbuchanan.co.uk/blog/hacking-bluesky.html)
 
