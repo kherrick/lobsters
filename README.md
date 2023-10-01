@@ -8,7 +8,7 @@
 * [2023-10-01, 06:14:59](https://lobste.rs/s/jpk8at/storage_challenges_evolution_database) - [Storage Challenges in the Evolution of Database Architecture](https://blog.postman.com/storage-challenges-in-the-evolution-of-database-architecture/)
 * [2023-10-01, 04:02:33](https://lobste.rs/s/wv6igz/optimization_techniques_for_gpu) - [Optimization Techniques for GPU Programming](https://dl.acm.org/doi/pdf/10.1145/3570638)
 * [2023-10-01, 00:55:26](https://lobste.rs/s/9z6wjk/just_because_it_s_old_doesn_t_make_it_tech) - [Just because it's old, doesn't make it tech debt](https://www.elliotcsmith.com/tech-debt/)
-* [2023-09-30, 23:03:16](https://lobste.rs/s/o95bz8/werror_is_not_your_friend) - [-Werror is Not Your Friend](https://embeddedartistry.com/blog/2017/05/22/werror-is-not-your-friend/)
+* [2023-09-30, 23:03:16](https://lobste.rs/s/o95bz8/werror_is_not_your_friend_2017) - [-Werror is Not Your Friend (2017)](https://embeddedartistry.com/blog/2017/05/22/werror-is-not-your-friend/)
 * [2023-09-30, 22:17:26](https://lobste.rs/s/uhpqpk/error_messages_are_classifiers) - [Error Messages Are Classifiers](https://cs.brown.edu/~sk/Publications/Papers/Published/wk-error-msg-classifier/paper.pdf)
 * [2023-09-30, 21:54:47](https://lobste.rs/s/4tbf3d/django_developers_survey_2023) - [Django Developers Survey 2023](https://surveys.jetbrains.com/s3/django-developers-survey-2023)
 * [2023-09-30, 21:09:47](https://lobste.rs/s/xw17vh/faster_hash_maps_binary_trees_etc_through) - [Faster hash maps, binary trees etc. through data layout modification](https://johnnysswlab.com/faster-hash-maps-binary-trees-etc-through-data-layout-modification/)
