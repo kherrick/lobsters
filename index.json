@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-02, 07:33:30",
+      "https://lobste.rs/s/tuamtj/nixos_ha_kubernetes_toy_highly_available"
+    ],
+    [
+      "nixos-ha-kubernetes: Toy highly-available Kubernetes cluster on NixOS",
+      "https://github.com/justinas/nixos-ha-kubernetes"
+    ]
+  ],
+  [
+    [
       "2023-10-02, 07:00:45",
       "https://lobste.rs/s/mitnma/32_mib_working_sets_on_64_gib_machine"
     ],
@@ -217,16 +227,6 @@
     [
       "Hacking and upgrading the Korg Kronos",
       "https://marcan.st/2016/06/hacking-and-upgrading-the-korg-kronos/"
-    ]
-  ],
-  [
-    [
-      "2023-09-30, 15:21:59",
-      "https://lobste.rs/s/gnr5pv/adding_icons_for_go_built_windows"
-    ],
-    [
-      "Adding Icons for Go-built Windows Executable",
-      "https://hjr265.me/blog/adding-icons-for-go-built-windows-executable/"
     ]
   ],
   [
