@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-02](index.md)
 
+* [2023-10-02, 14:50:46](https://lobste.rs/s/se0sbt/hints_for_distributed_systems_design) - [Hints for Distributed Systems Design (2023)](https://muratbuffalo.blogspot.com/2023/10/hints-for-distributed-systems-design.html)
+* [2023-10-02, 14:50:08](https://lobste.rs/s/d9ezu7/github_repos_bombarded_by_info_stealing) - [GitHub repos bombarded by info-stealing commits masked as Dependabot](https://www.bleepingcomputer.com/news/security/github-repos-bombarded-by-info-stealing-commits-masked-as-dependabot/)
 * [2023-10-02, 14:21:05](https://lobste.rs/s/9vepfe/jetporch_general_purpose_community) - [JetPorch - general-purpose, community-driven IT automation platform](https://www.jetporch.com/)
 * [2023-10-02, 14:00:46](https://lobste.rs/s/pznwxq/python_3_12_0_released) - [Python 3.12.0 released](https://www.python.org/downloads/release/python-3120/)
 * [2023-10-02, 13:54:15](https://lobste.rs/s/l0o7qn/freebsd_jail_running_devuan_linux_with) - [FreeBSD Jail Running Devuan Linux with OpenRC](https://weblog.antranigv.am/posts/2023/08/freebsd-jail-devuan-linux-openrc/)

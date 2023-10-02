@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-10-02, 14:21:05](https://lobste.rs/s/9vepfe/jetporch_general_purpose_community) - [JetPorch - general-purpose, community-driven IT automation platform](https://www.jetporch.com/)
+* [2023-10-02, 14:50:46](https://lobste.rs/s/se0sbt/hints_for_distributed_systems_design) - [Hints for Distributed Systems Design (2023)](https://muratbuffalo.blogspot.com/2023/10/hints-for-distributed-systems-design.html)
+* [2023-10-02, 14:50:08](https://lobste.rs/s/d9ezu7/github_repos_bombarded_by_info_stealing) - [GitHub repos bombarded by info-stealing commits masked as Dependabot](https://www.bleepingcomputer.com/news/security/github-repos-bombarded-by-info-stealing-commits-masked-as-dependabot/)
 * [2023-10-02, 14:00:46](https://lobste.rs/s/pznwxq/python_3_12_0_released) - [Python 3.12.0 released](https://www.python.org/downloads/release/python-3120/)
 * [2023-10-02, 13:51:30](https://lobste.rs/s/a9lwr9/some_notes_on_javascript_jit_deopt) - [Some notes on 'javascript jit and deopt'](https://shane.ai/posts/notes-on-javascript-jit-deopt/)
 * [2023-10-02, 13:27:44](https://lobste.rs/s/lgtb12/what_would_web_app_canary_look_like) - [What would a web app canary look like?](https://ntietz.com/blog/web-app-canaries/)
@@ -24,7 +25,6 @@
 * [2023-10-01, 14:51:33](https://lobste.rs/s/sqk97c/gnu_taler_digital_cash_payment_system) - [The GNU Taler Digital Cash Payment System (2022)](https://taler.net/videos/rms2022.webm)
 * [2023-10-01, 14:20:23](https://lobste.rs/s/dfijne/intercepting_modifying_linux_system) - [Intercepting and modifying Linux system calls with ptrace](https://notes.eatonphil.com/2023-10-01-intercepting-and-modifying-linux-system-calls-with-ptrace.html)
 * [2023-10-01, 09:22:05](https://lobste.rs/s/vc67gc/x220_thinkpad_is_best_laptop_world) - [The X220 ThinkPad is the Best Laptop in the World](https://bt.ht/x220)
-* [2023-10-01, 00:55:26](https://lobste.rs/s/9z6wjk/just_because_it_s_old_doesn_t_make_it_tech) - [Just because it's old, doesn't make it tech debt](https://www.elliotcsmith.com/tech-debt/)
 
 ## [Archives](archives/index.md)
 
