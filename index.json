@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-02, 08:12:51",
+      "https://lobste.rs/s/m8ih8d/marvin_attack"
+    ],
+    [
+      "The Marvin Attack",
+      "https://people.redhat.com/~hkario/marvin/"
+    ]
+  ],
+  [
+    [
       "2023-10-02, 07:53:42",
       "https://lobste.rs/s/zg59ef/tutorial_how_port_lwt_applications_eio"
     ],
@@ -207,16 +217,6 @@
     [
       "Error Messages Are Classifiers",
       "https://cs.brown.edu/~sk/Publications/Papers/Published/wk-error-msg-classifier/paper.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-09-30, 20:57:42",
-      "https://lobste.rs/s/nir1lm/cppfront_autumn_update"
-    ],
-    [
-      "cppfront: Autumn update",
-      "https://herbsutter.com/2023/09/28/cppfront-autumn-update/"
     ]
   ],
   [
