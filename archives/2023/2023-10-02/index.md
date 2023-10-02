@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-02](index.md)
 
+* [2023-10-02, 13:27:44](https://lobste.rs/s/lgtb12/what_would_web_app_canary_look_like) - [What would a web app canary look like?](https://ntietz.com/blog/web-app-canaries/)
 * [2023-10-02, 12:04:39](https://lobste.rs/s/tq5lua/modeling_flight_requests_alloy) - [Modeling in-flight requests in Alloy](https://bytes.zone/posts/modeling-in-flight-requests-in-alloy/)
 * [2023-10-02, 11:38:37](https://lobste.rs/s/ocu5oz/daktilo_turn_your_keyboard_into) - [daktilo — Turn your keyboard into a typewriter](https://github.com/orhun/daktilo)
 * [2023-10-02, 11:28:23](https://lobste.rs/s/bkavdb/unicode_overview) - [Unicode Overview](https://tonsky.me/blog/unicode/)

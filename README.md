@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-02, 13:27:44](https://lobste.rs/s/lgtb12/what_would_web_app_canary_look_like) - [What would a web app canary look like?](https://ntietz.com/blog/web-app-canaries/)
 * [2023-10-02, 12:04:39](https://lobste.rs/s/tq5lua/modeling_flight_requests_alloy) - [Modeling in-flight requests in Alloy](https://bytes.zone/posts/modeling-in-flight-requests-in-alloy/)
 * [2023-10-02, 11:38:37](https://lobste.rs/s/ocu5oz/daktilo_turn_your_keyboard_into) - [daktilo — Turn your keyboard into a typewriter](https://github.com/orhun/daktilo)
 * [2023-10-02, 11:28:23](https://lobste.rs/s/bkavdb/unicode_overview) - [Unicode Overview](https://tonsky.me/blog/unicode/)
@@ -24,7 +25,6 @@
 * [2023-10-01, 13:43:30](https://lobste.rs/s/wkciiw/ai_from_legal_perspective) - [AI from a legal perspective](https://lwn.net/SubscriberLink/945504/ee1f1db87dae56b1/)
 * [2023-10-01, 09:22:05](https://lobste.rs/s/vc67gc/x220_thinkpad_is_best_laptop_world) - [The X220 ThinkPad is the Best Laptop in the World](https://bt.ht/x220)
 * [2023-10-01, 00:55:26](https://lobste.rs/s/9z6wjk/just_because_it_s_old_doesn_t_make_it_tech) - [Just because it's old, doesn't make it tech debt](https://www.elliotcsmith.com/tech-debt/)
-* [2023-09-30, 17:20:55](https://lobste.rs/s/wbfuoo/reorient_github_pull_requests_around) - [Reorient GitHub Pull Requests Around Changesets](https://mitchellh.com/writing/github-changesets)
 
 ## [Archives](archives/index.md)
 
