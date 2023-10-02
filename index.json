@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-02, 13:27:44",
+      "https://lobste.rs/s/lgtb12/what_would_web_app_canary_look_like"
+    ],
+    [
+      "What would a web app canary look like?",
+      "https://ntietz.com/blog/web-app-canaries/"
+    ]
+  ],
+  [
+    [
       "2023-10-02, 12:04:39",
       "https://lobste.rs/s/tq5lua/modeling_flight_requests_alloy"
     ],
@@ -237,16 +247,6 @@
     [
       "Just because it's old, doesn't make it tech debt",
       "https://www.elliotcsmith.com/tech-debt/"
-    ]
-  ],
-  [
-    [
-      "2023-09-30, 17:20:55",
-      "https://lobste.rs/s/wbfuoo/reorient_github_pull_requests_around"
-    ],
-    [
-      "Reorient GitHub Pull Requests Around Changesets",
-      "https://mitchellh.com/writing/github-changesets"
     ]
   ]
 ]
