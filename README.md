@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-02, 07:33:30](https://lobste.rs/s/tuamtj/nixos_ha_kubernetes_toy_highly_available) - [nixos-ha-kubernetes: Toy highly-available Kubernetes cluster on NixOS](https://github.com/justinas/nixos-ha-kubernetes)
 * [2023-10-02, 07:00:45](https://lobste.rs/s/mitnma/32_mib_working_sets_on_64_gib_machine) - [32 MiB Working Sets on a 64 GiB machine](https://randomascii.wordpress.com/2023/10/01/32-mib-working-sets-on-a-64-gib-machine/)
 * [2023-10-02, 03:09:16](https://lobste.rs/s/pm6l5t/goodbye_sequential_integers_hello) - [Goodbye to sequential integers,  hello UUIDv7](https://buildkite.com/blog/goodbye-integers-hello-uuids)
 * [2023-10-01, 21:39:56](https://lobste.rs/s/jjszjo/try_swi_prolog_online) - [Try SWI-Prolog Online](https://swish.swi-prolog.org/)
@@ -22,7 +23,6 @@
 * [2023-09-30, 20:57:42](https://lobste.rs/s/nir1lm/cppfront_autumn_update) - [cppfront: Autumn update](https://herbsutter.com/2023/09/28/cppfront-autumn-update/)
 * [2023-09-30, 17:20:55](https://lobste.rs/s/wbfuoo/reorient_github_pull_requests_around) - [Reorient GitHub Pull Requests Around Changesets](https://mitchellh.com/writing/github-changesets)
 * [2023-09-30, 15:31:15](https://lobste.rs/s/lkx2hh/hacking_upgrading_korg_kronos) - [Hacking and upgrading the Korg Kronos](https://marcan.st/2016/06/hacking-and-upgrading-the-korg-kronos/)
-* [2023-09-30, 15:21:59](https://lobste.rs/s/gnr5pv/adding_icons_for_go_built_windows) - [Adding Icons for Go-built Windows Executable](https://hjr265.me/blog/adding-icons-for-go-built-windows-executable/)
 * [2023-09-30, 10:31:13](https://lobste.rs/s/eewpsm/hardening_macos_updated_for_macos_sonoma) - [Hardening macOS (updated for macOS Sonoma 14.0)](https://www.bejarano.io/hardening-macos/)
 * [2023-09-30, 01:09:14](https://lobste.rs/s/sq5sss/yaml_config_file_pain_try_lua) - [YAML config file? Pain? Try Lua](https://boston.conman.org/2023/09/29.1)
 
