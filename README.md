@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-10-02, 22:07:14](https://lobste.rs/s/gkmrs4/how_run_freebsd_on_power_toshaan_bharvani) - [How to run FreeBSD on POWER - Toshaan Bharvani - EuroBSDcon2023](https://www.youtube.com/watch?v=Tj4Q-m_WEh0&t=220s)
+* [2023-10-02, 22:07:14](https://lobste.rs/s/gkmrs4/how_run_freebsd_on_power) - [How to run FreeBSD on POWER](https://www.youtube.com/watch?v=Tj4Q-m_WEh0&t=220s)
 * [2023-10-02, 21:54:57](https://lobste.rs/s/vogqos/grapheme_clusters_terminal_emulators) - [Grapheme Clusters and Terminal Emulators](https://mitchellh.com/writing/grapheme-clusters-in-terminals)
+* [2023-10-02, 20:54:23](https://lobste.rs/s/9backq/my_views_on_neohaskell) - [My views on NeoHaskell](https://www.haskellforall.com/2023/10/my-views-on-neohaskell.html)
 * [2023-10-02, 20:37:08](https://lobste.rs/s/7mhin1/functions_as_methods_dafny) - [Functions as Methods in Dafny?](https://whileydave.com/2023/09/16/efficient-functions-in-dafny/)
 * [2023-10-02, 17:27:31](https://lobste.rs/s/572efc/300_production_problem) - [The 300% Production Problem](https://leebriggs.co.uk/blog/2023/09/28/300_percent_problem)
 * [2023-10-02, 17:20:19](https://lobste.rs/s/fx7bzs/making_hard_things_easy) - [Making Hard Things Easy](https://youtu.be/30YWsGDr8mA)
@@ -24,7 +25,6 @@
 * [2023-10-01, 21:00:20](https://lobste.rs/s/yqjfgz/m2_macbook_air_off_by_one_audio_dsp_bug) - [M2 MacBook Air \"off-by-one\" audio DSP bug](https://social.treehouse.systems/@marcan/111160552044972689)
 * [2023-10-01, 19:50:02](https://lobste.rs/s/pqpko2/irish_logarithm) - [The Irish logarithm](https://blog.plover.com/2023/10/01/#irish-logarithm)
 * [2023-10-01, 16:06:10](https://lobste.rs/s/wsx4vp/choose_boring_technology) - [Choose Boring Technology](https://boringtechnology.club/)
-* [2023-10-01, 15:22:08](https://lobste.rs/s/b08buc/my_freebsd_years_2000_2005) - [My FreeBSD years: 2000-2005](https://www.cambus.net/my-freebsd-years-2000-2005/)
 
 ## [Archives](archives/index.md)
 
