@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-02, 20:54:23](https://lobste.rs/s/9backq/my_views_on_neohaskell) - [My views on NeoHaskell](https://www.haskellforall.com/2023/10/my-views-on-neohaskell.html)
 * [2023-10-02, 20:37:08](https://lobste.rs/s/7mhin1/functions_as_methods_dafny) - [Functions as Methods in Dafny?](https://whileydave.com/2023/09/16/efficient-functions-in-dafny/)
 * [2023-10-02, 17:27:31](https://lobste.rs/s/572efc/300_production_problem) - [The 300% Production Problem](https://leebriggs.co.uk/blog/2023/09/28/300_percent_problem)
 * [2023-10-02, 17:20:19](https://lobste.rs/s/fx7bzs/making_hard_things_easy) - [Making Hard Things Easy](https://youtu.be/30YWsGDr8mA)
@@ -15,7 +16,6 @@
 * [2023-10-02, 11:09:45](https://lobste.rs/s/chfliv/hey_computer_make_me_font) - [Hey, Computer, Make Me a Font](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font)
 * [2023-10-02, 10:06:21](https://lobste.rs/s/slusfy/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/slusfy/what_are_you_doing_this_week)
 * [2023-10-02, 09:56:28](https://lobste.rs/s/6svdyk/original_raptor_call_shadows_1_2_dos) - [Original Raptor Call Of The Shadows 1.2 DOS source code](https://github.com/skynettx/dosraptor)
-* [2023-10-02, 08:17:26](https://lobste.rs/s/fmt2xt/overview_aws_step_functions) - [An Overview of AWS Step Functions](https://scorpil.com/post/overview-of-aws-step-functions/)
 * [2023-10-02, 08:12:51](https://lobste.rs/s/m8ih8d/marvin_attack) - [The Marvin Attack](https://people.redhat.com/~hkario/marvin/)
 * [2023-10-02, 07:44:16](https://lobste.rs/s/zasjvg/why_doesn_t_set_e_set_o_errexit_trap_err_do) - [Why doesn't set -e (or set -o errexit, or trap ERR) do what I expected?](https://mywiki.wooledge.org/BashFAQ/105)
 * [2023-10-02, 07:33:30](https://lobste.rs/s/tuamtj/nixos_ha_kubernetes_toy_highly_available) - [nixos-ha-kubernetes: Toy highly-available Kubernetes cluster on NixOS](https://github.com/justinas/nixos-ha-kubernetes)
