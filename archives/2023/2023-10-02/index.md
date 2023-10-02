@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-02](index.md)
 
+* [2023-10-02, 22:07:14](https://lobste.rs/s/gkmrs4/how_run_freebsd_on_power_toshaan_bharvani) - [How to run FreeBSD on POWER - Toshaan Bharvani - EuroBSDcon2023](https://www.youtube.com/watch?v=Tj4Q-m_WEh0&t=220s)
 * [2023-10-02, 21:54:57](https://lobste.rs/s/vogqos/grapheme_clusters_terminal_emulators) - [Grapheme Clusters and Terminal Emulators](https://mitchellh.com/writing/grapheme-clusters-in-terminals)
 * [2023-10-02, 20:54:23](https://lobste.rs/s/9backq/my_views_on_neohaskell) - [My views on NeoHaskell](https://www.haskellforall.com/2023/10/my-views-on-neohaskell.html)
 * [2023-10-02, 20:37:08](https://lobste.rs/s/7mhin1/functions_as_methods_dafny) - [Functions as Methods in Dafny?](https://whileydave.com/2023/09/16/efficient-functions-in-dafny/)
