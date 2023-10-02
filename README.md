@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-02, 11:28:23](https://lobste.rs/s/bkavdb/absolute_minimum_every_software) - [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 (Still No Excuses!)](https://tonsky.me/blog/unicode/)
 * [2023-10-02, 11:09:45](https://lobste.rs/s/chfliv/hey_computer_make_me_font) - [Hey, Computer, Make Me a Font](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font)
 * [2023-10-02, 10:35:15](https://lobste.rs/s/9ovesq/sloot_digital_coding_system) - [Sloot Digital Coding System](https://corecursive.com/sloot-digital-coding-system/)
 * [2023-10-02, 10:06:21](https://lobste.rs/s/slusfy/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/slusfy/what_are_you_doing_this_week)
@@ -14,7 +15,6 @@
 * [2023-10-01, 21:39:56](https://lobste.rs/s/jjszjo/try_swi_prolog_online) - [Try SWI-Prolog Online](https://swish.swi-prolog.org/)
 * [2023-10-01, 21:00:20](https://lobste.rs/s/yqjfgz/m2_macbook_air_off_by_one_audio_dsp_bug) - [M2 MacBook Air \"off-by-one\" audio DSP bug](https://social.treehouse.systems/@marcan/111160552044972689)
 * [2023-10-01, 19:50:02](https://lobste.rs/s/pqpko2/irish_logarithm) - [The Irish logarithm](https://blog.plover.com/2023/10/01/#irish-logarithm)
-* [2023-10-01, 17:20:38](https://lobste.rs/s/s9ytsb/database_migrations) - [Database Migrations](https://vadimkravcenko.com/shorts/database-migrations/)
 * [2023-10-01, 16:06:10](https://lobste.rs/s/wsx4vp/choose_boring_technology) - [Choose Boring Technology](https://boringtechnology.club/)
 * [2023-10-01, 15:22:08](https://lobste.rs/s/b08buc/my_freebsd_years_2000_2005) - [My FreeBSD years: 2000-2005](https://www.cambus.net/my-freebsd-years-2000-2005/)
 * [2023-10-01, 15:10:34](https://lobste.rs/s/pbdu8s/what_s_up_python_jupyter_more_popular_than) - [What's up Python: Jupyter more popular than Vim, VSCode in Excel and a button](https://www.bitecode.dev/p/whats-up-python-jupyter-more-popular)

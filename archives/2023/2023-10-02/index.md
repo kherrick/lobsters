@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-02](index.md)
 
+* [2023-10-02, 11:28:23](https://lobste.rs/s/bkavdb/absolute_minimum_every_software) - [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 (Still No Excuses!)](https://tonsky.me/blog/unicode/)
 * [2023-10-02, 11:09:45](https://lobste.rs/s/chfliv/hey_computer_make_me_font) - [Hey, Computer, Make Me a Font](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font)
 * [2023-10-02, 10:35:15](https://lobste.rs/s/9ovesq/sloot_digital_coding_system) - [Sloot Digital Coding System](https://corecursive.com/sloot-digital-coding-system/)
 * [2023-10-02, 10:06:21](https://lobste.rs/s/slusfy/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/slusfy/what_are_you_doing_this_week)
