@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-02, 17:27:31](https://lobste.rs/s/572efc/300_production_problem) - [The 300% Production Problem](https://leebriggs.co.uk/blog/2023/09/28/300_percent_problem)
 * [2023-10-02, 16:21:19](https://lobste.rs/s/usu3za/script_find_missing_std_includes_c) - [Script to find missing std #includes in C++ headers](https://gist.github.com/snej/2672fe996d39752e23c471f6ed789958)
 * [2023-10-02, 16:15:32](https://lobste.rs/s/n1vhca/visual_comparison_different_national) - [A Visual Comparison of Different National Layouts on a Computer Keyboard](https://www.farah.cl/Keyboardery/A-Visual-Comparison-of-Different-National-Layouts/)
 * [2023-10-02, 14:50:46](https://lobste.rs/s/se0sbt/hints_for_distributed_systems_design) - [Hints for Distributed Systems Design (2023)](https://muratbuffalo.blogspot.com/2023/10/hints-for-distributed-systems-design.html)
@@ -24,7 +25,6 @@
 * [2023-10-01, 19:50:02](https://lobste.rs/s/pqpko2/irish_logarithm) - [The Irish logarithm](https://blog.plover.com/2023/10/01/#irish-logarithm)
 * [2023-10-01, 16:06:10](https://lobste.rs/s/wsx4vp/choose_boring_technology) - [Choose Boring Technology](https://boringtechnology.club/)
 * [2023-10-01, 15:22:08](https://lobste.rs/s/b08buc/my_freebsd_years_2000_2005) - [My FreeBSD years: 2000-2005](https://www.cambus.net/my-freebsd-years-2000-2005/)
-* [2023-10-01, 09:22:05](https://lobste.rs/s/vc67gc/x220_thinkpad_is_best_laptop_world) - [The X220 ThinkPad is the Best Laptop in the World](https://bt.ht/x220)
 
 ## [Archives](archives/index.md)
 
