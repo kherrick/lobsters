@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-02, 20:37:08](https://lobste.rs/s/7mhin1/functions_as_methods_dafny) - [Functions as Methods in Dafny?](https://whileydave.com/2023/09/16/efficient-functions-in-dafny/)
 * [2023-10-02, 17:27:31](https://lobste.rs/s/572efc/300_production_problem) - [The 300% Production Problem](https://leebriggs.co.uk/blog/2023/09/28/300_percent_problem)
 * [2023-10-02, 17:20:19](https://lobste.rs/s/fx7bzs/making_hard_things_easy) - [Making Hard Things Easy](https://youtu.be/30YWsGDr8mA)
 * [2023-10-02, 16:21:19](https://lobste.rs/s/usu3za/script_find_missing_std_includes_c) - [Script to find missing std #includes in C++ headers](https://gist.github.com/snej/2672fe996d39752e23c471f6ed789958)
-* [2023-10-02, 16:15:32](https://lobste.rs/s/n1vhca/visual_comparison_different_national) - [A Visual Comparison of Different National Layouts on a Computer Keyboard](https://www.farah.cl/Keyboardery/A-Visual-Comparison-of-Different-National-Layouts/)
 * [2023-10-02, 14:50:46](https://lobste.rs/s/se0sbt/hints_for_distributed_systems_design) - [Hints for Distributed Systems Design (2023)](https://muratbuffalo.blogspot.com/2023/10/hints-for-distributed-systems-design.html)
 * [2023-10-02, 14:50:08](https://lobste.rs/s/d9ezu7/github_repos_bombarded_by_info_stealing) - [GitHub repos bombarded by info-stealing commits masked as Dependabot](https://www.bleepingcomputer.com/news/security/github-repos-bombarded-by-info-stealing-commits-masked-as-dependabot/)
 * [2023-10-02, 14:21:05](https://lobste.rs/s/9vepfe/jetporch_general_purpose_community) - [JetPorch - general-purpose, community-driven IT automation platform](https://www.jetporch.com/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-02](index.md)
 
+* [2023-10-02, 20:37:08](https://lobste.rs/s/7mhin1/functions_as_methods_dafny) - [Functions as Methods in Dafny?](https://whileydave.com/2023/09/16/efficient-functions-in-dafny/)
 * [2023-10-02, 17:27:31](https://lobste.rs/s/572efc/300_production_problem) - [The 300% Production Problem](https://leebriggs.co.uk/blog/2023/09/28/300_percent_problem)
 * [2023-10-02, 17:20:19](https://lobste.rs/s/fx7bzs/making_hard_things_easy) - [Making Hard Things Easy](https://youtu.be/30YWsGDr8mA)
 * [2023-10-02, 16:21:19](https://lobste.rs/s/usu3za/script_find_missing_std_includes_c) - [Script to find missing std #includes in C++ headers](https://gist.github.com/snej/2672fe996d39752e23c471f6ed789958)
