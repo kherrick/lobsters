@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-10-02, 16:21:19](https://lobste.rs/s/usu3za/script_find_missing_std_includes_c) - [Script to find missing std #includes in C++ headers](https://gist.github.com/snej/2672fe996d39752e23c471f6ed789958)
+* [2023-10-02, 16:15:32](https://lobste.rs/s/n1vhca/visual_comparison_different_national) - [A Visual Comparison of Different National Layouts on a Computer Keyboard](https://www.farah.cl/Keyboardery/A-Visual-Comparison-of-Different-National-Layouts/)
 * [2023-10-02, 14:50:46](https://lobste.rs/s/se0sbt/hints_for_distributed_systems_design) - [Hints for Distributed Systems Design (2023)](https://muratbuffalo.blogspot.com/2023/10/hints-for-distributed-systems-design.html)
 * [2023-10-02, 14:50:08](https://lobste.rs/s/d9ezu7/github_repos_bombarded_by_info_stealing) - [GitHub repos bombarded by info-stealing commits masked as Dependabot](https://www.bleepingcomputer.com/news/security/github-repos-bombarded-by-info-stealing-commits-masked-as-dependabot/)
-* [2023-10-02, 14:21:05](https://lobste.rs/s/9vepfe/jetporch_general_purpose_community) - [JetPorch - general-purpose, community-driven IT automation platform](https://www.jetporch.com/)
 * [2023-10-02, 14:00:46](https://lobste.rs/s/pznwxq/python_3_12_0_released) - [Python 3.12.0 released](https://www.python.org/downloads/release/python-3120/)
 * [2023-10-02, 13:51:30](https://lobste.rs/s/a9lwr9/some_notes_on_javascript_jit_deopt) - [Some notes on 'javascript jit and deopt'](https://shane.ai/posts/notes-on-javascript-jit-deopt/)
 * [2023-10-02, 13:27:44](https://lobste.rs/s/lgtb12/what_would_web_app_canary_look_like) - [What would a web app canary look like?](https://ntietz.com/blog/web-app-canaries/)
