@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-02, 12:04:39](https://lobste.rs/s/tq5lua/modeling_flight_requests_alloy) - [Modeling in-flight requests in Alloy](https://bytes.zone/posts/modeling-in-flight-requests-in-alloy/)
 * [2023-10-02, 11:38:37](https://lobste.rs/s/ocu5oz/daktilo_turn_your_keyboard_into) - [daktilo — Turn your keyboard into a typewriter](https://github.com/orhun/daktilo)
 * [2023-10-02, 11:28:23](https://lobste.rs/s/bkavdb/absolute_minimum_every_software) - [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 (Still No Excuses!)](https://tonsky.me/blog/unicode/)
 * [2023-10-02, 11:09:45](https://lobste.rs/s/chfliv/hey_computer_make_me_font) - [Hey, Computer, Make Me a Font](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font)
@@ -13,7 +14,6 @@
 * [2023-10-02, 07:33:30](https://lobste.rs/s/tuamtj/nixos_ha_kubernetes_toy_highly_available) - [nixos-ha-kubernetes: Toy highly-available Kubernetes cluster on NixOS](https://github.com/justinas/nixos-ha-kubernetes)
 * [2023-10-02, 07:00:45](https://lobste.rs/s/mitnma/32_mib_working_sets_on_64_gib_machine) - [32 MiB Working Sets on a 64 GiB machine](https://randomascii.wordpress.com/2023/10/01/32-mib-working-sets-on-a-64-gib-machine/)
 * [2023-10-02, 03:09:16](https://lobste.rs/s/pm6l5t/goodbye_sequential_integers_hello) - [Goodbye to sequential integers,  hello UUIDv7](https://buildkite.com/blog/goodbye-integers-hello-uuids)
-* [2023-10-01, 21:39:56](https://lobste.rs/s/jjszjo/try_swi_prolog_online) - [Try SWI-Prolog Online](https://swish.swi-prolog.org/)
 * [2023-10-01, 21:00:20](https://lobste.rs/s/yqjfgz/m2_macbook_air_off_by_one_audio_dsp_bug) - [M2 MacBook Air \"off-by-one\" audio DSP bug](https://social.treehouse.systems/@marcan/111160552044972689)
 * [2023-10-01, 19:50:02](https://lobste.rs/s/pqpko2/irish_logarithm) - [The Irish logarithm](https://blog.plover.com/2023/10/01/#irish-logarithm)
 * [2023-10-01, 16:06:10](https://lobste.rs/s/wsx4vp/choose_boring_technology) - [Choose Boring Technology](https://boringtechnology.club/)

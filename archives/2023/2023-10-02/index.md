@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-02](index.md)
 
+* [2023-10-02, 12:04:39](https://lobste.rs/s/tq5lua/modeling_flight_requests_alloy) - [Modeling in-flight requests in Alloy](https://bytes.zone/posts/modeling-in-flight-requests-in-alloy/)
 * [2023-10-02, 11:38:37](https://lobste.rs/s/ocu5oz/daktilo_turn_your_keyboard_into) - [daktilo — Turn your keyboard into a typewriter](https://github.com/orhun/daktilo)
 * [2023-10-02, 11:28:23](https://lobste.rs/s/bkavdb/absolute_minimum_every_software) - [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 (Still No Excuses!)](https://tonsky.me/blog/unicode/)
 * [2023-10-02, 11:09:45](https://lobste.rs/s/chfliv/hey_computer_make_me_font) - [Hey, Computer, Make Me a Font](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font)
