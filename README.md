@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-02, 08:17:26](https://lobste.rs/s/fmt2xt/overview_aws_step_functions) - [An Overview of AWS Step Functions](https://scorpil.com/post/overview-of-aws-step-functions/)
 * [2023-10-02, 08:12:51](https://lobste.rs/s/m8ih8d/marvin_attack) - [The Marvin Attack](https://people.redhat.com/~hkario/marvin/)
 * [2023-10-02, 07:53:42](https://lobste.rs/s/zg59ef/tutorial_how_port_lwt_applications_eio) - [Tutorial: How to Port Lwt Applications to Eio](https://tarides.com/blog/2023-09-27-tutorial-how-to-port-lwt-applications-to-eio/)
 * [2023-10-02, 07:44:16](https://lobste.rs/s/zasjvg/why_doesn_t_set_e_set_o_errexit_trap_err_do) - [Why doesn't set -e (or set -o errexit, or trap ERR) do what I expected?](https://mywiki.wooledge.org/BashFAQ/105)
@@ -18,7 +19,6 @@
 * [2023-10-01, 13:43:51](https://lobste.rs/s/g2mcxf/git_pile_stacked_diff_support_for_github) - [git-pile: Stacked diff support for GitHub workflows](https://github.com/keith/git-pile)
 * [2023-10-01, 13:43:30](https://lobste.rs/s/wkciiw/ai_from_legal_perspective) - [AI from a legal perspective](https://lwn.net/SubscriberLink/945504/ee1f1db87dae56b1/)
 * [2023-10-01, 09:22:05](https://lobste.rs/s/vc67gc/x220_thinkpad_is_best_laptop_world) - [The X220 ThinkPad is the Best Laptop in the World](https://bt.ht/x220)
-* [2023-10-01, 08:40:26](https://lobste.rs/s/vvqrol/netbsd_performance_power_management) - [NetBSD Performance and Power Management Tweaks](https://www.unitedbsd.com/d/439-netbsd-performance-and-power-management-tweaks)
 * [2023-10-01, 00:55:26](https://lobste.rs/s/9z6wjk/just_because_it_s_old_doesn_t_make_it_tech) - [Just because it's old, doesn't make it tech debt](https://www.elliotcsmith.com/tech-debt/)
 * [2023-09-30, 23:03:16](https://lobste.rs/s/o95bz8/werror_is_not_your_friend_2017) - [-Werror is Not Your Friend (2017)](https://embeddedartistry.com/blog/2017/05/22/werror-is-not-your-friend/)
 * [2023-09-30, 22:17:26](https://lobste.rs/s/uhpqpk/error_messages_are_classifiers) - [Error Messages Are Classifiers](https://cs.brown.edu/~sk/Publications/Papers/Published/wk-error-msg-classifier/paper.pdf)
