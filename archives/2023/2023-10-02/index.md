@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-02](index.md)
 
+* [2023-10-02, 14:00:46](https://lobste.rs/s/pznwxq/python_3_12_0_released) - [Python 3.12.0 released](https://www.python.org/downloads/release/python-3120/)
 * [2023-10-02, 13:54:15](https://lobste.rs/s/l0o7qn/freebsd_jail_running_devuan_linux_with) - [FreeBSD Jail Running Devuan Linux with OpenRC](https://weblog.antranigv.am/posts/2023/08/freebsd-jail-devuan-linux-openrc/)
 * [2023-10-02, 13:51:30](https://lobste.rs/s/a9lwr9/some_notes_on_javascript_jit_deopt) - [Some notes on 'javascript jit and deopt'](https://shane.ai/posts/notes-on-javascript-jit-deopt/)
 * [2023-10-02, 13:27:44](https://lobste.rs/s/lgtb12/what_would_web_app_canary_look_like) - [What would a web app canary look like?](https://ntietz.com/blog/web-app-canaries/)
