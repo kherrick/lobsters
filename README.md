@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-02, 11:38:37](https://lobste.rs/s/ocu5oz/daktilo_turn_your_keyboard_into) - [daktilo — Turn your keyboard into a typewriter](https://github.com/orhun/daktilo)
 * [2023-10-02, 11:28:23](https://lobste.rs/s/bkavdb/absolute_minimum_every_software) - [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 (Still No Excuses!)](https://tonsky.me/blog/unicode/)
 * [2023-10-02, 11:09:45](https://lobste.rs/s/chfliv/hey_computer_make_me_font) - [Hey, Computer, Make Me a Font](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font)
 * [2023-10-02, 10:35:15](https://lobste.rs/s/9ovesq/sloot_digital_coding_system) - [Sloot Digital Coding System](https://corecursive.com/sloot-digital-coding-system/)
@@ -20,7 +21,6 @@
 * [2023-10-01, 15:10:34](https://lobste.rs/s/pbdu8s/what_s_up_python_jupyter_more_popular_than) - [What's up Python: Jupyter more popular than Vim, VSCode in Excel and a button](https://www.bitecode.dev/p/whats-up-python-jupyter-more-popular)
 * [2023-10-01, 14:51:33](https://lobste.rs/s/sqk97c/gnu_taler_digital_cash_payment_system) - [The GNU Taler Digital Cash Payment System (2022)](https://taler.net/videos/rms2022.webm)
 * [2023-10-01, 14:20:23](https://lobste.rs/s/dfijne/intercepting_modifying_linux_system) - [Intercepting and modifying Linux system calls with ptrace](https://notes.eatonphil.com/2023-10-01-intercepting-and-modifying-linux-system-calls-with-ptrace.html)
-* [2023-10-01, 13:43:51](https://lobste.rs/s/g2mcxf/git_pile_stacked_diff_support_for_github) - [git-pile: Stacked diff support for GitHub workflows](https://github.com/keith/git-pile)
 * [2023-10-01, 13:43:30](https://lobste.rs/s/wkciiw/ai_from_legal_perspective) - [AI from a legal perspective](https://lwn.net/SubscriberLink/945504/ee1f1db87dae56b1/)
 * [2023-10-01, 09:22:05](https://lobste.rs/s/vc67gc/x220_thinkpad_is_best_laptop_world) - [The X220 ThinkPad is the Best Laptop in the World](https://bt.ht/x220)
 * [2023-10-01, 00:55:26](https://lobste.rs/s/9z6wjk/just_because_it_s_old_doesn_t_make_it_tech) - [Just because it's old, doesn't make it tech debt](https://www.elliotcsmith.com/tech-debt/)
