@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-02, 07:00:45",
+      "https://lobste.rs/s/mitnma/32_mib_working_sets_on_64_gib_machine"
+    ],
+    [
+      "32 MiB Working Sets on a 64 GiB machine",
+      "https://randomascii.wordpress.com/2023/10/01/32-mib-working-sets-on-a-64-gib-machine/"
+    ]
+  ],
+  [
+    [
       "2023-10-02, 03:09:16",
       "https://lobste.rs/s/pm6l5t/goodbye_sequential_integers_hello"
     ],
@@ -197,16 +207,6 @@
     [
       "Reorient GitHub Pull Requests Around Changesets",
       "https://mitchellh.com/writing/github-changesets"
-    ]
-  ],
-  [
-    [
-      "2023-09-30, 16:01:49",
-      "https://lobste.rs/s/uopjk3/dbg_macro_for_printf_style_debugging_fans"
-    ],
-    [
-      "dbg(…) -  A macro for printf-style debugging fans",
-      "https://github.com/sharkdp/dbg-macro"
     ]
   ],
   [
