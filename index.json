@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-02, 11:38:37",
+      "https://lobste.rs/s/ocu5oz/daktilo_turn_your_keyboard_into"
+    ],
+    [
+      "daktilo — Turn your keyboard into a typewriter",
+      "https://github.com/orhun/daktilo"
+    ]
+  ],
+  [
+    [
       "2023-10-02, 11:28:23",
       "https://lobste.rs/s/bkavdb/absolute_minimum_every_software"
     ],
@@ -197,16 +207,6 @@
     [
       "Intercepting and modifying Linux system calls with ptrace",
       "https://notes.eatonphil.com/2023-10-01-intercepting-and-modifying-linux-system-calls-with-ptrace.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-01, 13:43:51",
-      "https://lobste.rs/s/g2mcxf/git_pile_stacked_diff_support_for_github"
-    ],
-    [
-      "git-pile: Stacked diff support for GitHub workflows",
-      "https://github.com/keith/git-pile"
     ]
   ],
   [
