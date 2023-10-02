@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-02, 03:09:16",
+      "https://lobste.rs/s/pm6l5t/goodbye_sequential_integers_hello"
+    ],
+    [
+      "Goodbye to sequential integers,  hello UUIDv7",
+      "https://buildkite.com/blog/goodbye-integers-hello-uuids"
+    ]
+  ],
+  [
+    [
       "2023-10-01, 21:39:56",
       "https://lobste.rs/s/jjszjo/try_swi_prolog_online"
     ],
@@ -177,16 +187,6 @@
     [
       "cppfront: Autumn update",
       "https://herbsutter.com/2023/09/28/cppfront-autumn-update/"
-    ]
-  ],
-  [
-    [
-      "2023-09-30, 17:28:50",
-      "https://lobste.rs/s/wbrwvw/orbiton_2_65_1_is_out"
-    ],
-    [
-      "Orbiton 2.65.1 is out",
-      "https://github.com/xyproto/orbiton/releases/tag/v2.65.1"
     ]
   ],
   [
