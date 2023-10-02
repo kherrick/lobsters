@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-02, 11:09:45](https://lobste.rs/s/chfliv/hey_computer_make_me_font) - [Hey, Computer, Make Me a Font](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font)
 * [2023-10-02, 10:35:15](https://lobste.rs/s/9ovesq/sloot_digital_coding_system) - [Sloot Digital Coding System](https://corecursive.com/sloot-digital-coding-system/)
 * [2023-10-02, 10:06:21](https://lobste.rs/s/slusfy/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/slusfy/what_are_you_doing_this_week)
 * [2023-10-02, 09:56:28](https://lobste.rs/s/6svdyk/original_raptor_call_shadows_1_2_dos) - [Original Raptor Call Of The Shadows 1.2 DOS source code](https://github.com/skynettx/dosraptor)
@@ -23,7 +24,6 @@
 * [2023-10-01, 13:43:30](https://lobste.rs/s/wkciiw/ai_from_legal_perspective) - [AI from a legal perspective](https://lwn.net/SubscriberLink/945504/ee1f1db87dae56b1/)
 * [2023-10-01, 09:22:05](https://lobste.rs/s/vc67gc/x220_thinkpad_is_best_laptop_world) - [The X220 ThinkPad is the Best Laptop in the World](https://bt.ht/x220)
 * [2023-10-01, 00:55:26](https://lobste.rs/s/9z6wjk/just_because_it_s_old_doesn_t_make_it_tech) - [Just because it's old, doesn't make it tech debt](https://www.elliotcsmith.com/tech-debt/)
-* [2023-09-30, 23:03:16](https://lobste.rs/s/o95bz8/werror_is_not_your_friend_2017) - [-Werror is Not Your Friend (2017)](https://embeddedartistry.com/blog/2017/05/22/werror-is-not-your-friend/)
 * [2023-09-30, 17:20:55](https://lobste.rs/s/wbfuoo/reorient_github_pull_requests_around) - [Reorient GitHub Pull Requests Around Changesets](https://mitchellh.com/writing/github-changesets)
 
 ## [Archives](archives/index.md)
