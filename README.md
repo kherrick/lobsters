@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-10-02, 17:27:31](https://lobste.rs/s/572efc/300_production_problem) - [The 300% Production Problem](https://leebriggs.co.uk/blog/2023/09/28/300_percent_problem)
+* [2023-10-02, 17:20:19](https://lobste.rs/s/fx7bzs/making_hard_things_easy) - [Making Hard Things Easy](https://youtu.be/30YWsGDr8mA)
 * [2023-10-02, 16:21:19](https://lobste.rs/s/usu3za/script_find_missing_std_includes_c) - [Script to find missing std #includes in C++ headers](https://gist.github.com/snej/2672fe996d39752e23c471f6ed789958)
 * [2023-10-02, 16:15:32](https://lobste.rs/s/n1vhca/visual_comparison_different_national) - [A Visual Comparison of Different National Layouts on a Computer Keyboard](https://www.farah.cl/Keyboardery/A-Visual-Comparison-of-Different-National-Layouts/)
 * [2023-10-02, 14:50:46](https://lobste.rs/s/se0sbt/hints_for_distributed_systems_design) - [Hints for Distributed Systems Design (2023)](https://muratbuffalo.blogspot.com/2023/10/hints-for-distributed-systems-design.html)
@@ -16,7 +17,6 @@
 * [2023-10-02, 09:56:28](https://lobste.rs/s/6svdyk/original_raptor_call_shadows_1_2_dos) - [Original Raptor Call Of The Shadows 1.2 DOS source code](https://github.com/skynettx/dosraptor)
 * [2023-10-02, 08:17:26](https://lobste.rs/s/fmt2xt/overview_aws_step_functions) - [An Overview of AWS Step Functions](https://scorpil.com/post/overview-of-aws-step-functions/)
 * [2023-10-02, 08:12:51](https://lobste.rs/s/m8ih8d/marvin_attack) - [The Marvin Attack](https://people.redhat.com/~hkario/marvin/)
-* [2023-10-02, 07:53:42](https://lobste.rs/s/zg59ef/tutorial_how_port_lwt_applications_eio) - [Tutorial: How to Port Lwt Applications to Eio](https://tarides.com/blog/2023-09-27-tutorial-how-to-port-lwt-applications-to-eio/)
 * [2023-10-02, 07:44:16](https://lobste.rs/s/zasjvg/why_doesn_t_set_e_set_o_errexit_trap_err_do) - [Why doesn't set -e (or set -o errexit, or trap ERR) do what I expected?](https://mywiki.wooledge.org/BashFAQ/105)
 * [2023-10-02, 07:33:30](https://lobste.rs/s/tuamtj/nixos_ha_kubernetes_toy_highly_available) - [nixos-ha-kubernetes: Toy highly-available Kubernetes cluster on NixOS](https://github.com/justinas/nixos-ha-kubernetes)
 * [2023-10-02, 07:00:45](https://lobste.rs/s/mitnma/32_mib_working_sets_on_64_gib_machine) - [32 MiB Working Sets on a 64 GiB machine](https://randomascii.wordpress.com/2023/10/01/32-mib-working-sets-on-a-64-gib-machine/)
