@@ -2,10 +2,10 @@
   [
     [
       "2023-10-02, 22:07:14",
-      "https://lobste.rs/s/gkmrs4/how_run_freebsd_on_power_toshaan_bharvani"
+      "https://lobste.rs/s/gkmrs4/how_run_freebsd_on_power"
     ],
     [
-      "How to run FreeBSD on POWER - Toshaan Bharvani - EuroBSDcon2023",
+      "How to run FreeBSD on POWER",
       "https://www.youtube.com/watch?v=Tj4Q-m_WEh0&t=220s"
     ]
   ],
@@ -17,6 +17,16 @@
     [
       "Grapheme Clusters and Terminal Emulators",
       "https://mitchellh.com/writing/grapheme-clusters-in-terminals"
+    ]
+  ],
+  [
+    [
+      "2023-10-02, 20:54:23",
+      "https://lobste.rs/s/9backq/my_views_on_neohaskell"
+    ],
+    [
+      "My views on NeoHaskell",
+      "https://www.haskellforall.com/2023/10/my-views-on-neohaskell.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Choose Boring Technology",
       "https://boringtechnology.club/"
-    ]
-  ],
-  [
-    [
-      "2023-10-01, 15:22:08",
-      "https://lobste.rs/s/b08buc/my_freebsd_years_2000_2005"
-    ],
-    [
-      "My FreeBSD years: 2000-2005",
-      "https://www.cambus.net/my-freebsd-years-2000-2005/"
     ]
   ]
 ]
