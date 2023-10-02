@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-02, 10:35:15](https://lobste.rs/s/9ovesq/sloot_digital_coding_system) - [Sloot Digital Coding System](https://corecursive.com/sloot-digital-coding-system/)
 * [2023-10-02, 10:06:21](https://lobste.rs/s/slusfy/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/slusfy/what_are_you_doing_this_week)
 * [2023-10-02, 09:56:28](https://lobste.rs/s/6svdyk/original_raptor_call_shadows_1_2_dos) - [Original Raptor Call Of The Shadows 1.2 DOS source code](https://github.com/skynettx/dosraptor)
 * [2023-10-02, 08:17:26](https://lobste.rs/s/fmt2xt/overview_aws_step_functions) - [An Overview of AWS Step Functions](https://scorpil.com/post/overview-of-aws-step-functions/)
@@ -24,7 +25,6 @@
 * [2023-10-01, 00:55:26](https://lobste.rs/s/9z6wjk/just_because_it_s_old_doesn_t_make_it_tech) - [Just because it's old, doesn't make it tech debt](https://www.elliotcsmith.com/tech-debt/)
 * [2023-09-30, 23:03:16](https://lobste.rs/s/o95bz8/werror_is_not_your_friend_2017) - [-Werror is Not Your Friend (2017)](https://embeddedartistry.com/blog/2017/05/22/werror-is-not-your-friend/)
 * [2023-09-30, 17:20:55](https://lobste.rs/s/wbfuoo/reorient_github_pull_requests_around) - [Reorient GitHub Pull Requests Around Changesets](https://mitchellh.com/writing/github-changesets)
-* [2023-09-30, 01:09:14](https://lobste.rs/s/sq5sss/yaml_config_file_pain_try_lua) - [YAML config file? Pain? Try Lua](https://boston.conman.org/2023/09/29.1)
 
 ## [Archives](archives/index.md)
 
