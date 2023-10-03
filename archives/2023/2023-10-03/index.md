@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-03](index.md)
 
+* [2023-10-03, 16:17:58](https://lobste.rs/s/wyq1yy/listen_page_mobile_safari_17) - [Listen to Page in Mobile Safari 17](https://daverupert.com/2023/09/listen-to-page-mobile-safari-17/)
+* [2023-10-03, 16:02:13](https://lobste.rs/s/p1ijfm/why_we_re_no_longer_using_core_typed_2016) - [Why we're no longer using Core.typed (2016)](https://web.archive.org/web/20160304022108/https://blog.circleci.com/why-were-no-longer-using-core-typed/)
 * [2023-10-03, 14:39:06](https://lobste.rs/s/7rvttt/gitshed_idea_for_both_familiar_low_tech) - [GitShed: an idea for both a familiar and \"low-tech\" git forge](http://len.falken.directory/my-inner-conflict-with-github-and-what-i-plan-to-do-about-it.txt)
 * [2023-10-03, 14:13:43](https://lobste.rs/s/bsjux8/2017_how_they_did_it_analysis_emission) - [(2017) How They Did It: An Analysis of Emission Defeat Devices in Modern Automobiles](https://www.ieee-security.org/TC/SP2017/papers/101.pdf)
 * [2023-10-03, 13:54:19](https://lobste.rs/s/cthn7c/windows_arm64ec_abi_notes) - [Windows Arm64EC ABI Notes](https://www.corsix.org/content/windows-arm64ec-notes)
