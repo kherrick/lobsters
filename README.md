@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-03, 12:56:48](https://lobste.rs/s/gtakkq/programming_language_structure) - [Programming, language | Structure and Interpretation of Computer Programmers](https://www.sicpers.info/2023/10/programming-language/)
+* [2023-10-03, 12:43:42](https://lobste.rs/s/mxeqxe/james_adams_eben_upton_on_designing) - [James Adams and Eben Upton on designing Raspberry Pi 5](https://www.raspberrypi.com/news/james-adams-and-eben-upton-on-designing-raspberry-pi-5/)
 * [2023-10-03, 11:02:32](https://lobste.rs/s/dwc62h/plan_for_influxdb_3_0_open_source) - [The Plan for InfluxDB 3.0 Open Source](https://www.influxdata.com/blog/the-plan-for-influxdb-3-0-open-source/)
 * [2023-10-03, 10:30:36](https://lobste.rs/s/ss2mlh/whirlwind_tour_aarch64_vector) - [A whirlwind tour of AArch64 vector instructions](https://www.corsix.org/content/whirlwind-tour-aarch64-vector-instructions)
 * [2023-10-03, 08:20:39](https://lobste.rs/s/gp6okk/exploiting_iphone_4) - [Exploiting the iPhone 4](https://axleos.com/exploiting-the-iphone-4-part-1-gaining-entry/)
@@ -12,7 +14,6 @@
 * [2023-10-02, 20:54:23](https://lobste.rs/s/9backq/my_views_on_neohaskell) - [My views on NeoHaskell](https://www.haskellforall.com/2023/10/my-views-on-neohaskell.html)
 * [2023-10-02, 20:37:08](https://lobste.rs/s/7mhin1/functions_as_methods_dafny) - [Functions as Methods in Dafny?](https://whileydave.com/2023/09/16/efficient-functions-in-dafny/)
 * [2023-10-02, 17:27:31](https://lobste.rs/s/572efc/300_production_problem) - [The 300% Production Problem](https://leebriggs.co.uk/blog/2023/09/28/300_percent_problem)
-* [2023-10-02, 16:21:19](https://lobste.rs/s/usu3za/script_find_missing_std_includes_c) - [Script to find missing std #includes in C++ headers](https://gist.github.com/snej/2672fe996d39752e23c471f6ed789958)
 * [2023-10-02, 14:50:46](https://lobste.rs/s/se0sbt/hints_for_distributed_systems_design) - [Hints for Distributed Systems Design (2023)](https://muratbuffalo.blogspot.com/2023/10/hints-for-distributed-systems-design.html)
 * [2023-10-02, 14:50:08](https://lobste.rs/s/d9ezu7/github_repos_bombarded_by_info_stealing) - [GitHub repos bombarded by info-stealing commits masked as Dependabot](https://www.bleepingcomputer.com/news/security/github-repos-bombarded-by-info-stealing-commits-masked-as-dependabot/)
 * [2023-10-02, 14:00:46](https://lobste.rs/s/pznwxq/python_3_12_0_released) - [Python 3.12.0 released](https://www.python.org/downloads/release/python-3120/)
@@ -24,7 +25,6 @@
 * [2023-10-02, 07:44:16](https://lobste.rs/s/zasjvg/why_doesn_t_set_e_set_o_errexit_trap_err_do) - [Why doesn't set -e (or set -o errexit, or trap ERR) do what I expected?](https://mywiki.wooledge.org/BashFAQ/105)
 * [2023-10-02, 07:00:45](https://lobste.rs/s/mitnma/32_mib_working_sets_on_64_gib_machine) - [32 MiB Working Sets on a 64 GiB machine](https://randomascii.wordpress.com/2023/10/01/32-mib-working-sets-on-a-64-gib-machine/)
 * [2023-10-02, 03:09:16](https://lobste.rs/s/pm6l5t/goodbye_sequential_integers_hello) - [Goodbye to sequential integers,  hello UUIDv7](https://buildkite.com/blog/goodbye-integers-hello-uuids)
-* [2023-10-01, 16:06:10](https://lobste.rs/s/wsx4vp/choose_boring_technology) - [Choose Boring Technology](https://boringtechnology.club/)
 
 ## [Archives](archives/index.md)
 
