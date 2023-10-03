@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-03, 12:56:48",
+      "https://lobste.rs/s/gtakkq/programming_language_structure"
+    ],
+    [
+      "Programming, language | Structure and Interpretation of Computer Programmers",
+      "https://www.sicpers.info/2023/10/programming-language/"
+    ]
+  ],
+  [
+    [
+      "2023-10-03, 12:43:42",
+      "https://lobste.rs/s/mxeqxe/james_adams_eben_upton_on_designing"
+    ],
+    [
+      "James Adams and Eben Upton on designing Raspberry Pi 5",
+      "https://www.raspberrypi.com/news/james-adams-and-eben-upton-on-designing-raspberry-pi-5/"
+    ]
+  ],
+  [
+    [
       "2023-10-03, 11:02:32",
       "https://lobste.rs/s/dwc62h/plan_for_influxdb_3_0_open_source"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2023-10-02, 16:21:19",
-      "https://lobste.rs/s/usu3za/script_find_missing_std_includes_c"
-    ],
-    [
-      "Script to find missing std #includes in C++ headers",
-      "https://gist.github.com/snej/2672fe996d39752e23c471f6ed789958"
-    ]
-  ],
-  [
-    [
       "2023-10-02, 14:50:46",
       "https://lobste.rs/s/se0sbt/hints_for_distributed_systems_design"
     ],
@@ -237,16 +247,6 @@
     [
       "Goodbye to sequential integers,  hello UUIDv7",
       "https://buildkite.com/blog/goodbye-integers-hello-uuids"
-    ]
-  ],
-  [
-    [
-      "2023-10-01, 16:06:10",
-      "https://lobste.rs/s/wsx4vp/choose_boring_technology"
-    ],
-    [
-      "Choose Boring Technology",
-      "https://boringtechnology.club/"
     ]
   ]
 ]
