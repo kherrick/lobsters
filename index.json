@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-10-03, 00:05:05",
-      "https://lobste.rs/s/tmbyc7/90s_vulns_90s_software_exim_is_sky_falling"
+      "2023-10-03, 01:04:16",
+      "https://lobste.rs/s/ghamle/defining_memory_safety_problem"
     ],
     [
-      "90s Vulns In 90s Software (Exim) - Is the Sky Falling?",
-      "https://labs.watchtowr.com/exim-0days-90s-vulns-in-90s-software/"
+      "Defining the memory safety problem",
+      "https://alexgaynor.net/2023/oct/02/defining-the-memory-safety-problem/"
+    ]
+  ],
+  [
+    [
+      "2023-10-02, 22:07:14",
+      "https://lobste.rs/s/gkmrs4/how_run_freebsd_on_power"
+    ],
+    [
+      "How to run FreeBSD on POWER",
+      "https://www.youtube.com/watch?v=Tj4Q-m_WEh0&t=220s"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "M2 MacBook Air \"off-by-one\" audio DSP bug",
       "https://social.treehouse.systems/@marcan/111160552044972689"
-    ]
-  ],
-  [
-    [
-      "2023-10-01, 19:50:02",
-      "https://lobste.rs/s/pqpko2/irish_logarithm"
-    ],
-    [
-      "The Irish logarithm",
-      "https://blog.plover.com/2023/10/01/#irish-logarithm"
     ]
   ],
   [
