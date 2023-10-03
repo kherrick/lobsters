@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-03, 10:30:36",
+      "https://lobste.rs/s/ss2mlh/whirlwind_tour_aarch64_vector"
+    ],
+    [
+      "A whirlwind tour of AArch64 vector instructions",
+      "https://www.corsix.org/content/whirlwind-tour-aarch64-vector-instructions"
+    ]
+  ],
+  [
+    [
       "2023-10-03, 08:54:55",
       "https://lobste.rs/s/diqlgq/unlocking_power_openai_ada_programs"
     ],
@@ -197,16 +207,6 @@
     [
       "Original Raptor Call Of The Shadows 1.2 DOS source code",
       "https://github.com/skynettx/dosraptor"
-    ]
-  ],
-  [
-    [
-      "2023-10-02, 08:12:51",
-      "https://lobste.rs/s/m8ih8d/marvin_attack"
-    ],
-    [
-      "The Marvin Attack",
-      "https://people.redhat.com/~hkario/marvin/"
     ]
   ],
   [
