@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-10-03, 21:37:05](https://lobste.rs/s/vnmaij/lessons_from_debugging) - [Lessons From Debugging](https://matt-rickard.com/lessons-from-debugging)
-* [2023-10-03, 21:24:59](https://lobste.rs/s/jgezh0/shift_happens) - [Shift Happens](https://shifthappens.backerkit.com/hosted_preorders)
 * [2023-10-03, 21:14:05](https://lobste.rs/s/wcddhk/programmation_par_contraintes) - [Programmation Par Contraintes](https://bpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/3/865/files/2023/10/AlainColmerauer.pdf)
 * [2023-10-03, 20:16:37](https://lobste.rs/s/thggmf/announcing_typescript_5_3_beta) - [Announcing TypeScript 5.3 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-3-beta/)
 * [2023-10-03, 19:40:52](https://lobste.rs/s/0p1rra/conventional_comments) - [Conventional Comments](https://conventionalcomments.org/)
@@ -10,6 +9,7 @@
 * [2023-10-03, 16:49:07](https://lobste.rs/s/zgbwcd/picat_is_my_favorite_new_toolbox_language) - [Picat is my favorite new toolbox language](https://buttondown.email/hillelwayne/archive/picat-is-my-favorite-new-toolbox-language/)
 * [2023-10-03, 16:02:13](https://lobste.rs/s/p1ijfm/why_we_re_no_longer_using_core_typed_2016) - [Why we're no longer using Core.typed (2016)](https://web.archive.org/web/20160304022108/https://blog.circleci.com/why-were-no-longer-using-core-typed/)
 * [2023-10-03, 14:39:06](https://lobste.rs/s/7rvttt/gitshed_idea_for_both_familiar_low_tech) - [GitShed: an idea for both a familiar and \"low-tech\" source forge](http://len.falken.directory/my-inner-conflict-with-github-and-what-i-plan-to-do-about-it.txt)
+* [2023-10-03, 14:13:43](https://lobste.rs/s/bsjux8/2017_how_they_did_it_analysis_emission) - [(2017) How They Did It: An Analysis of Emission Defeat Devices in Modern Automobiles](https://www.ieee-security.org/TC/SP2017/papers/101.pdf)
 * [2023-10-03, 13:54:19](https://lobste.rs/s/cthn7c/windows_arm64ec_abi_notes) - [Windows Arm64EC ABI Notes](https://www.corsix.org/content/windows-arm64ec-notes)
 * [2023-10-03, 12:56:48](https://lobste.rs/s/gtakkq/programming_language) - [Programming, language](https://www.sicpers.info/2023/10/programming-language/)
 * [2023-10-03, 11:02:32](https://lobste.rs/s/dwc62h/plan_for_influxdb_3_0_open_source) - [The Plan for InfluxDB 3.0 Open Source](https://www.influxdata.com/blog/the-plan-for-influxdb-3-0-open-source/)
