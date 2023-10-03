@@ -3,7 +3,7 @@
 * [2023-10-03, 14:39:06](https://lobste.rs/s/7rvttt/gitshed_idea_for_both_familiar_low_tech) - [GitShed: an idea for both a familiar and \"low-tech\" git forge](http://len.falken.directory/my-inner-conflict-with-github-and-what-i-plan-to-do-about-it.txt)
 * [2023-10-03, 14:13:43](https://lobste.rs/s/bsjux8/2017_how_they_did_it_analysis_emission) - [(2017) How They Did It: An Analysis of Emission Defeat Devices in Modern Automobiles](https://www.ieee-security.org/TC/SP2017/papers/101.pdf)
 * [2023-10-03, 13:54:19](https://lobste.rs/s/cthn7c/windows_arm64ec_abi_notes) - [Windows Arm64EC ABI Notes](https://www.corsix.org/content/windows-arm64ec-notes)
-* [2023-10-03, 12:56:48](https://lobste.rs/s/gtakkq/programming_language_structure) - [Programming, language | Structure and Interpretation of Computer Programmers](https://www.sicpers.info/2023/10/programming-language/)
+* [2023-10-03, 12:56:48](https://lobste.rs/s/gtakkq/programming_language) - [Programming, language](https://www.sicpers.info/2023/10/programming-language/)
 * [2023-10-03, 12:43:42](https://lobste.rs/s/mxeqxe/designing_raspberry_pi_5) - [Designing Raspberry Pi 5](https://www.raspberrypi.com/news/james-adams-and-eben-upton-on-designing-raspberry-pi-5/)
 * [2023-10-03, 11:02:32](https://lobste.rs/s/dwc62h/plan_for_influxdb_3_0_open_source) - [The Plan for InfluxDB 3.0 Open Source](https://www.influxdata.com/blog/the-plan-for-influxdb-3-0-open-source/)
 * [2023-10-03, 10:30:36](https://lobste.rs/s/ss2mlh/whirlwind_tour_aarch64_vector) - [A whirlwind tour of AArch64 vector instructions](https://www.corsix.org/content/whirlwind-tour-aarch64-vector-instructions)
