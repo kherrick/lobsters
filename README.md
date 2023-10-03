@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-03, 17:53:16](https://lobste.rs/s/bfh4nj/python_3_12_what_didn_t_make_headlines) - [python 3.12: what didn't make the headlines](https://www.bitecode.dev/p/python-312-what-didnt-make-the-headlines)
 * [2023-10-03, 16:49:07](https://lobste.rs/s/zgbwcd/picat_is_my_favorite_new_toolbox_language) - [Picat is my favorite new toolbox language](https://buttondown.email/hillelwayne/archive/picat-is-my-favorite-new-toolbox-language/)
 * [2023-10-03, 16:17:58](https://lobste.rs/s/wyq1yy/listen_page_mobile_safari_17) - [Listen to Page in Mobile Safari 17](https://daverupert.com/2023/09/listen-to-page-mobile-safari-17/)
 * [2023-10-03, 16:02:13](https://lobste.rs/s/p1ijfm/why_we_re_no_longer_using_core_typed_2016) - [Why we're no longer using Core.typed (2016)](https://web.archive.org/web/20160304022108/https://blog.circleci.com/why-were-no-longer-using-core-typed/)
@@ -8,7 +9,6 @@
 * [2023-10-03, 12:56:48](https://lobste.rs/s/gtakkq/programming_language) - [Programming, language](https://www.sicpers.info/2023/10/programming-language/)
 * [2023-10-03, 12:43:42](https://lobste.rs/s/mxeqxe/designing_raspberry_pi_5) - [Designing Raspberry Pi 5](https://www.raspberrypi.com/news/james-adams-and-eben-upton-on-designing-raspberry-pi-5/)
 * [2023-10-03, 11:02:32](https://lobste.rs/s/dwc62h/plan_for_influxdb_3_0_open_source) - [The Plan for InfluxDB 3.0 Open Source](https://www.influxdata.com/blog/the-plan-for-influxdb-3-0-open-source/)
-* [2023-10-03, 10:30:36](https://lobste.rs/s/ss2mlh/whirlwind_tour_aarch64_vector) - [A whirlwind tour of AArch64 vector instructions](https://www.corsix.org/content/whirlwind-tour-aarch64-vector-instructions)
 * [2023-10-03, 08:20:39](https://lobste.rs/s/gp6okk/exploiting_iphone_4) - [Exploiting the iPhone 4](https://axleos.com/exploiting-the-iphone-4-part-1-gaining-entry/)
 * [2023-10-03, 07:01:48](https://lobste.rs/s/wjeb13/getting_jtag_on_iphone_15) - [Getting JTAG on the iPhone 15](https://www.youtube.com/watch?v=D8UGlvBubkA)
 * [2023-10-03, 06:48:37](https://lobste.rs/s/rrcoyr/beginner_s_guide_sequence_analytics_sql) - [A Beginner's Guide to Sequence Analytics in SQL](https://www.motifanalytics.com/blog/a-beginners-guide-to-sequence-analytics-in-sql)
