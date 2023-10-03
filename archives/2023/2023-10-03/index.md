@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-03](index.md)
 
+* [2023-10-03, 13:42:27](https://lobste.rs/s/zuc03q/say_encrypted_hello_more_private) - [Say (an encrypted) hello to a more private internet](https://blog.mozilla.org/en/products/firefox/encrypted-hello/)
 * [2023-10-03, 12:56:48](https://lobste.rs/s/gtakkq/programming_language_structure) - [Programming, language | Structure and Interpretation of Computer Programmers](https://www.sicpers.info/2023/10/programming-language/)
 * [2023-10-03, 12:43:42](https://lobste.rs/s/mxeqxe/james_adams_eben_upton_on_designing) - [James Adams and Eben Upton on designing Raspberry Pi 5](https://www.raspberrypi.com/news/james-adams-and-eben-upton-on-designing-raspberry-pi-5/)
 * [2023-10-03, 12:43:42](https://lobste.rs/s/mxeqxe/designing_raspberry_pi_5) - [Designing Raspberry Pi 5](https://www.raspberrypi.com/news/james-adams-and-eben-upton-on-designing-raspberry-pi-5/)

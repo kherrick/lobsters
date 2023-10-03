@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-03, 13:42:27](https://lobste.rs/s/zuc03q/say_encrypted_hello_more_private) - [Say (an encrypted) hello to a more private internet](https://blog.mozilla.org/en/products/firefox/encrypted-hello/)
 * [2023-10-03, 12:56:48](https://lobste.rs/s/gtakkq/programming_language_structure) - [Programming, language | Structure and Interpretation of Computer Programmers](https://www.sicpers.info/2023/10/programming-language/)
 * [2023-10-03, 12:43:42](https://lobste.rs/s/mxeqxe/designing_raspberry_pi_5) - [Designing Raspberry Pi 5](https://www.raspberrypi.com/news/james-adams-and-eben-upton-on-designing-raspberry-pi-5/)
 * [2023-10-03, 11:02:32](https://lobste.rs/s/dwc62h/plan_for_influxdb_3_0_open_source) - [The Plan for InfluxDB 3.0 Open Source](https://www.influxdata.com/blog/the-plan-for-influxdb-3-0-open-source/)
@@ -18,7 +19,6 @@
 * [2023-10-02, 14:50:46](https://lobste.rs/s/se0sbt/hints_for_distributed_systems_design) - [Hints for Distributed Systems Design (2023)](https://muratbuffalo.blogspot.com/2023/10/hints-for-distributed-systems-design.html)
 * [2023-10-02, 14:50:08](https://lobste.rs/s/d9ezu7/github_repos_bombarded_by_info_stealing) - [GitHub repos bombarded by info-stealing commits masked as Dependabot](https://www.bleepingcomputer.com/news/security/github-repos-bombarded-by-info-stealing-commits-masked-as-dependabot/)
 * [2023-10-02, 14:00:46](https://lobste.rs/s/pznwxq/python_3_12_0_released) - [Python 3.12.0 released](https://www.python.org/downloads/release/python-3120/)
-* [2023-10-02, 12:04:39](https://lobste.rs/s/tq5lua/modeling_flight_requests_alloy) - [Modeling in-flight requests in Alloy](https://bytes.zone/posts/modeling-in-flight-requests-in-alloy/)
 * [2023-10-02, 11:28:23](https://lobste.rs/s/bkavdb/unicode_overview) - [Unicode Overview](https://tonsky.me/blog/unicode/)
 * [2023-10-02, 11:09:45](https://lobste.rs/s/chfliv/hey_computer_make_me_font) - [Hey, Computer, Make Me a Font](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font)
 * [2023-10-02, 09:56:28](https://lobste.rs/s/6svdyk/original_raptor_call_shadows_1_2_dos) - [Original Raptor Call Of The Shadows 1.2 DOS source code](https://github.com/skynettx/dosraptor)
