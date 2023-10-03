@@ -2,6 +2,7 @@
 
 * [2023-10-03, 08:54:55](https://lobste.rs/s/diqlgq/unlocking_power_openai_ada_programs) - [Unlocking the Power of OpenAI in Ada programs](https://blog.vacs.fr/vacs/blogs/post.html?post=2023%2F10%2F01%2FUnlocking-the-Power-of-OpenAI-in-Ada-programs)
 * [2023-10-03, 08:20:39](https://lobste.rs/s/gp6okk/exploiting_iphone_4) - [Exploiting the iPhone 4](https://axleos.com/exploiting-the-iphone-4-part-1-gaining-entry/)
+* [2023-10-03, 07:01:48](https://lobste.rs/s/wjeb13/getting_jtag_on_iphone_15) - [Getting JTAG on the iPhone 15](https://www.youtube.com/watch?v=D8UGlvBubkA)
 * [2023-10-03, 06:48:37](https://lobste.rs/s/rrcoyr/beginner_s_guide_sequence_analytics_sql) - [A Beginner's Guide to Sequence Analytics in SQL](https://www.motifanalytics.com/blog/a-beginners-guide-to-sequence-analytics-in-sql)
 * [2023-10-03, 04:47:33](https://lobste.rs/s/xygji1/windows_nt_3_1_on_dec_alpha_axp) - [Windows NT 3.1 on DEC Alpha AXP](https://virtuallyfun.com/2023/10/02/windows-nt-3-1-on-dec-alpha-axp/)
 * [2023-10-03, 02:21:02](https://lobste.rs/s/6dpkas/rose_is_open_source_compiler) - [ROSE is an open source compiler infrastructure](http://rosecompiler.org/ROSE_HTML_Reference/index.html)
@@ -23,7 +24,6 @@
 * [2023-10-02, 07:44:16](https://lobste.rs/s/zasjvg/why_doesn_t_set_e_set_o_errexit_trap_err_do) - [Why doesn't set -e (or set -o errexit, or trap ERR) do what I expected?](https://mywiki.wooledge.org/BashFAQ/105)
 * [2023-10-02, 07:00:45](https://lobste.rs/s/mitnma/32_mib_working_sets_on_64_gib_machine) - [32 MiB Working Sets on a 64 GiB machine](https://randomascii.wordpress.com/2023/10/01/32-mib-working-sets-on-a-64-gib-machine/)
 * [2023-10-02, 03:09:16](https://lobste.rs/s/pm6l5t/goodbye_sequential_integers_hello) - [Goodbye to sequential integers,  hello UUIDv7](https://buildkite.com/blog/goodbye-integers-hello-uuids)
-* [2023-10-01, 21:00:20](https://lobste.rs/s/yqjfgz/m2_macbook_air_off_by_one_audio_dsp_bug) - [M2 MacBook Air \"off-by-one\" audio DSP bug](https://social.treehouse.systems/@marcan/111160552044972689)
 * [2023-10-01, 16:06:10](https://lobste.rs/s/wsx4vp/choose_boring_technology) - [Choose Boring Technology](https://boringtechnology.club/)
 
 ## [Archives](archives/index.md)
