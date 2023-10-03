@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-03, 11:02:32](https://lobste.rs/s/dwc62h/plan_for_influxdb_3_0_open_source) - [The Plan for InfluxDB 3.0 Open Source](https://www.influxdata.com/blog/the-plan-for-influxdb-3-0-open-source/)
 * [2023-10-03, 10:30:36](https://lobste.rs/s/ss2mlh/whirlwind_tour_aarch64_vector) - [A whirlwind tour of AArch64 vector instructions](https://www.corsix.org/content/whirlwind-tour-aarch64-vector-instructions)
-* [2023-10-03, 08:54:55](https://lobste.rs/s/diqlgq/unlocking_power_openai_ada_programs) - [Unlocking the Power of OpenAI in Ada programs](https://blog.vacs.fr/vacs/blogs/post.html?post=2023%2F10%2F01%2FUnlocking-the-Power-of-OpenAI-in-Ada-programs)
 * [2023-10-03, 08:20:39](https://lobste.rs/s/gp6okk/exploiting_iphone_4) - [Exploiting the iPhone 4](https://axleos.com/exploiting-the-iphone-4-part-1-gaining-entry/)
 * [2023-10-03, 07:01:48](https://lobste.rs/s/wjeb13/getting_jtag_on_iphone_15) - [Getting JTAG on the iPhone 15](https://www.youtube.com/watch?v=D8UGlvBubkA)
 * [2023-10-03, 06:48:37](https://lobste.rs/s/rrcoyr/beginner_s_guide_sequence_analytics_sql) - [A Beginner's Guide to Sequence Analytics in SQL](https://www.motifanalytics.com/blog/a-beginners-guide-to-sequence-analytics-in-sql)
