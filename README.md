@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-03, 02:21:02](https://lobste.rs/s/6dpkas/rose_is_open_source_compiler) - [ROSE is an open source compiler infrastructure](http://rosecompiler.org/ROSE_HTML_Reference/index.html)
 * [2023-10-03, 01:04:16](https://lobste.rs/s/ghamle/defining_memory_safety_problem) - [Defining the memory safety problem](https://alexgaynor.net/2023/oct/02/defining-the-memory-safety-problem/)
-* [2023-10-02, 22:07:14](https://lobste.rs/s/gkmrs4/how_run_freebsd_on_power) - [How to run FreeBSD on POWER](https://www.youtube.com/watch?v=Tj4Q-m_WEh0&t=220s)
 * [2023-10-02, 21:54:57](https://lobste.rs/s/vogqos/grapheme_clusters_terminal_emulators) - [Grapheme Clusters and Terminal Emulators](https://mitchellh.com/writing/grapheme-clusters-in-terminals)
 * [2023-10-02, 20:54:23](https://lobste.rs/s/9backq/my_views_on_neohaskell) - [My views on NeoHaskell](https://www.haskellforall.com/2023/10/my-views-on-neohaskell.html)
 * [2023-10-02, 20:37:08](https://lobste.rs/s/7mhin1/functions_as_methods_dafny) - [Functions as Methods in Dafny?](https://whileydave.com/2023/09/16/efficient-functions-in-dafny/)
