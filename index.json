@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-03, 08:20:39",
+      "https://lobste.rs/s/gp6okk/exploiting_iphone_4"
+    ],
+    [
+      "Exploiting the iPhone 4",
+      "https://axleos.com/exploiting-the-iphone-4-part-1-gaining-entry/"
+    ]
+  ],
+  [
+    [
       "2023-10-03, 07:01:48",
       "https://lobste.rs/s/wjeb13/getting_jtag_on_iphone_15"
     ],
@@ -117,16 +127,6 @@
     [
       "GitHub repos bombarded by info-stealing commits masked as Dependabot",
       "https://www.bleepingcomputer.com/news/security/github-repos-bombarded-by-info-stealing-commits-masked-as-dependabot/"
-    ]
-  ],
-  [
-    [
-      "2023-10-02, 14:21:05",
-      "https://lobste.rs/s/9vepfe/jetporch_general_purpose_community"
-    ],
-    [
-      "JetPorch - general-purpose, community-driven IT automation platform",
-      "https://www.jetporch.com/"
     ]
   ],
   [
