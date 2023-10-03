@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-03, 19:40:52](https://lobste.rs/s/0p1rra/conventional_comments) - [Conventional Comments](https://conventionalcomments.org/)
 * [2023-10-03, 19:00:56](https://lobste.rs/s/i8rm6l/looney_tunables_local_privilege) - [Looney Tunables: Local Privilege Escalation in the glibc's ld.so (CVE-2023-4911)](https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt)
 * [2023-10-03, 17:53:16](https://lobste.rs/s/bfh4nj/python_3_12_what_didn_t_make_headlines) - [python 3.12: what didn't make the headlines](https://www.bitecode.dev/p/python-312-what-didnt-make-the-headlines)
 * [2023-10-03, 16:49:07](https://lobste.rs/s/zgbwcd/picat_is_my_favorite_new_toolbox_language) - [Picat is my favorite new toolbox language](https://buttondown.email/hillelwayne/archive/picat-is-my-favorite-new-toolbox-language/)
 * [2023-10-03, 16:17:58](https://lobste.rs/s/wyq1yy/listen_page_mobile_safari_17) - [Listen to Page in Mobile Safari 17](https://daverupert.com/2023/09/listen-to-page-mobile-safari-17/)
 * [2023-10-03, 16:02:13](https://lobste.rs/s/p1ijfm/why_we_re_no_longer_using_core_typed_2016) - [Why we're no longer using Core.typed (2016)](https://web.archive.org/web/20160304022108/https://blog.circleci.com/why-were-no-longer-using-core-typed/)
 * [2023-10-03, 14:39:06](https://lobste.rs/s/7rvttt/gitshed_idea_for_both_familiar_low_tech) - [GitShed: an idea for both a familiar and \"low-tech\" source forge](http://len.falken.directory/my-inner-conflict-with-github-and-what-i-plan-to-do-about-it.txt)
-* [2023-10-03, 14:13:43](https://lobste.rs/s/bsjux8/2017_how_they_did_it_analysis_emission) - [(2017) How They Did It: An Analysis of Emission Defeat Devices in Modern Automobiles](https://www.ieee-security.org/TC/SP2017/papers/101.pdf)
 * [2023-10-03, 12:56:48](https://lobste.rs/s/gtakkq/programming_language) - [Programming, language](https://www.sicpers.info/2023/10/programming-language/)
 * [2023-10-03, 12:43:42](https://lobste.rs/s/mxeqxe/designing_raspberry_pi_5) - [Designing Raspberry Pi 5](https://www.raspberrypi.com/news/james-adams-and-eben-upton-on-designing-raspberry-pi-5/)
 * [2023-10-03, 11:02:32](https://lobste.rs/s/dwc62h/plan_for_influxdb_3_0_open_source) - [The Plan for InfluxDB 3.0 Open Source](https://www.influxdata.com/blog/the-plan-for-influxdb-3-0-open-source/)
