@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-03](index.md)
 
+* [2023-10-03, 21:37:05](https://lobste.rs/s/vnmaij/lessons_from_debugging) - [Lessons From Debugging](https://matt-rickard.com/lessons-from-debugging)
 * [2023-10-03, 21:24:59](https://lobste.rs/s/jgezh0/shift_happens) - [Shift Happens](https://shifthappens.backerkit.com/hosted_preorders)
 * [2023-10-03, 21:14:05](https://lobste.rs/s/wcddhk/programmation_par_contraintes) - [Programmation Par Contraintes](https://bpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/3/865/files/2023/10/AlainColmerauer.pdf)
 * [2023-10-03, 20:16:37](https://lobste.rs/s/thggmf/announcing_typescript_5_3_beta) - [Announcing TypeScript 5.3 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-3-beta/)
