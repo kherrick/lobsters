@@ -6,6 +6,7 @@
 
 * [2023-10-03, 12:56:48](https://lobste.rs/s/gtakkq/programming_language_structure) - [Programming, language | Structure and Interpretation of Computer Programmers](https://www.sicpers.info/2023/10/programming-language/)
 * [2023-10-03, 12:43:42](https://lobste.rs/s/mxeqxe/james_adams_eben_upton_on_designing) - [James Adams and Eben Upton on designing Raspberry Pi 5](https://www.raspberrypi.com/news/james-adams-and-eben-upton-on-designing-raspberry-pi-5/)
+* [2023-10-03, 12:43:42](https://lobste.rs/s/mxeqxe/designing_raspberry_pi_5) - [Designing Raspberry Pi 5](https://www.raspberrypi.com/news/james-adams-and-eben-upton-on-designing-raspberry-pi-5/)
 * [2023-10-03, 11:02:32](https://lobste.rs/s/dwc62h/plan_for_influxdb_3_0_open_source) - [The Plan for InfluxDB 3.0 Open Source](https://www.influxdata.com/blog/the-plan-for-influxdb-3-0-open-source/)
 * [2023-10-03, 10:30:36](https://lobste.rs/s/ss2mlh/whirlwind_tour_aarch64_vector) - [A whirlwind tour of AArch64 vector instructions](https://www.corsix.org/content/whirlwind-tour-aarch64-vector-instructions)
 * [2023-10-03, 08:54:55](https://lobste.rs/s/diqlgq/unlocking_power_openai_ada_programs) - [Unlocking the Power of OpenAI in Ada programs](https://blog.vacs.fr/vacs/blogs/post.html?post=2023%2F10%2F01%2FUnlocking-the-Power-of-OpenAI-in-Ada-programs)
