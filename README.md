@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-03, 21:24:59](https://lobste.rs/s/jgezh0/shift_happens) - [Shift Happens](https://shifthappens.backerkit.com/hosted_preorders)
 * [2023-10-03, 21:14:05](https://lobste.rs/s/wcddhk/programmation_par_contraintes) - [Programmation Par Contraintes](https://bpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/3/865/files/2023/10/AlainColmerauer.pdf)
 * [2023-10-03, 20:16:37](https://lobste.rs/s/thggmf/announcing_typescript_5_3_beta) - [Announcing TypeScript 5.3 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-3-beta/)
 * [2023-10-03, 19:40:52](https://lobste.rs/s/0p1rra/conventional_comments) - [Conventional Comments](https://conventionalcomments.org/)
@@ -24,7 +25,6 @@
 * [2023-10-02, 14:50:08](https://lobste.rs/s/d9ezu7/github_repos_bombarded_by_info_stealing) - [GitHub repos bombarded by info-stealing commits masked as Dependabot](https://www.bleepingcomputer.com/news/security/github-repos-bombarded-by-info-stealing-commits-masked-as-dependabot/)
 * [2023-10-02, 14:00:46](https://lobste.rs/s/pznwxq/python_3_12_0_released) - [Python 3.12.0 released](https://www.python.org/downloads/release/python-3120/)
 * [2023-10-02, 11:28:23](https://lobste.rs/s/bkavdb/unicode_overview) - [Unicode Overview](https://tonsky.me/blog/unicode/)
-* [2023-10-02, 11:09:45](https://lobste.rs/s/chfliv/hey_computer_make_me_font) - [Hey, Computer, Make Me a Font](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font)
 
 ## [Archives](archives/index.md)
 
