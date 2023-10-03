@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-03, 10:30:36](https://lobste.rs/s/ss2mlh/whirlwind_tour_aarch64_vector) - [A whirlwind tour of AArch64 vector instructions](https://www.corsix.org/content/whirlwind-tour-aarch64-vector-instructions)
 * [2023-10-03, 08:54:55](https://lobste.rs/s/diqlgq/unlocking_power_openai_ada_programs) - [Unlocking the Power of OpenAI in Ada programs](https://blog.vacs.fr/vacs/blogs/post.html?post=2023%2F10%2F01%2FUnlocking-the-Power-of-OpenAI-in-Ada-programs)
 * [2023-10-03, 08:20:39](https://lobste.rs/s/gp6okk/exploiting_iphone_4) - [Exploiting the iPhone 4](https://axleos.com/exploiting-the-iphone-4-part-1-gaining-entry/)
 * [2023-10-03, 07:01:48](https://lobste.rs/s/wjeb13/getting_jtag_on_iphone_15) - [Getting JTAG on the iPhone 15](https://www.youtube.com/watch?v=D8UGlvBubkA)
@@ -20,7 +21,6 @@
 * [2023-10-02, 11:28:23](https://lobste.rs/s/bkavdb/unicode_overview) - [Unicode Overview](https://tonsky.me/blog/unicode/)
 * [2023-10-02, 11:09:45](https://lobste.rs/s/chfliv/hey_computer_make_me_font) - [Hey, Computer, Make Me a Font](https://serce.me/posts/02-10-2023-hey-computer-make-me-a-font)
 * [2023-10-02, 09:56:28](https://lobste.rs/s/6svdyk/original_raptor_call_shadows_1_2_dos) - [Original Raptor Call Of The Shadows 1.2 DOS source code](https://github.com/skynettx/dosraptor)
-* [2023-10-02, 08:12:51](https://lobste.rs/s/m8ih8d/marvin_attack) - [The Marvin Attack](https://people.redhat.com/~hkario/marvin/)
 * [2023-10-02, 07:44:16](https://lobste.rs/s/zasjvg/why_doesn_t_set_e_set_o_errexit_trap_err_do) - [Why doesn't set -e (or set -o errexit, or trap ERR) do what I expected?](https://mywiki.wooledge.org/BashFAQ/105)
 * [2023-10-02, 07:00:45](https://lobste.rs/s/mitnma/32_mib_working_sets_on_64_gib_machine) - [32 MiB Working Sets on a 64 GiB machine](https://randomascii.wordpress.com/2023/10/01/32-mib-working-sets-on-a-64-gib-machine/)
 * [2023-10-02, 03:09:16](https://lobste.rs/s/pm6l5t/goodbye_sequential_integers_hello) - [Goodbye to sequential integers,  hello UUIDv7](https://buildkite.com/blog/goodbye-integers-hello-uuids)
