@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-03, 19:00:56",
+      "https://lobste.rs/s/i8rm6l/looney_tunables_local_privilege"
+    ],
+    [
+      "Looney Tunables: Local Privilege Escalation in the glibc's ld.so (CVE-2023-4911)",
+      "https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt"
+    ]
+  ],
+  [
+    [
       "2023-10-03, 17:53:16",
       "https://lobste.rs/s/bfh4nj/python_3_12_what_didn_t_make_headlines"
     ],
@@ -187,16 +197,6 @@
     [
       "The 300% Production Problem",
       "https://leebriggs.co.uk/blog/2023/09/28/300_percent_problem"
-    ]
-  ],
-  [
-    [
-      "2023-10-02, 14:50:46",
-      "https://lobste.rs/s/se0sbt/hints_for_distributed_systems_design"
-    ],
-    [
-      "Hints for Distributed Systems Design (2023)",
-      "https://muratbuffalo.blogspot.com/2023/10/hints-for-distributed-systems-design.html"
     ]
   ],
   [
