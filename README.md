@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-03, 08:20:39](https://lobste.rs/s/gp6okk/exploiting_iphone_4) - [Exploiting the iPhone 4](https://axleos.com/exploiting-the-iphone-4-part-1-gaining-entry/)
 * [2023-10-03, 07:01:48](https://lobste.rs/s/wjeb13/getting_jtag_on_iphone_15) - [Getting JTAG on the iPhone 15](https://www.youtube.com/watch?v=D8UGlvBubkA)
 * [2023-10-03, 06:48:37](https://lobste.rs/s/rrcoyr/beginner_s_guide_sequence_analytics_sql) - [A Beginner's Guide to Sequence Analytics in SQL](https://www.motifanalytics.com/blog/a-beginners-guide-to-sequence-analytics-in-sql)
 * [2023-10-03, 04:47:33](https://lobste.rs/s/xygji1/windows_nt_3_1_on_dec_alpha_axp) - [Windows NT 3.1 on DEC Alpha AXP](https://virtuallyfun.com/2023/10/02/windows-nt-3-1-on-dec-alpha-axp/)
@@ -12,7 +13,6 @@
 * [2023-10-02, 16:21:19](https://lobste.rs/s/usu3za/script_find_missing_std_includes_c) - [Script to find missing std #includes in C++ headers](https://gist.github.com/snej/2672fe996d39752e23c471f6ed789958)
 * [2023-10-02, 14:50:46](https://lobste.rs/s/se0sbt/hints_for_distributed_systems_design) - [Hints for Distributed Systems Design (2023)](https://muratbuffalo.blogspot.com/2023/10/hints-for-distributed-systems-design.html)
 * [2023-10-02, 14:50:08](https://lobste.rs/s/d9ezu7/github_repos_bombarded_by_info_stealing) - [GitHub repos bombarded by info-stealing commits masked as Dependabot](https://www.bleepingcomputer.com/news/security/github-repos-bombarded-by-info-stealing-commits-masked-as-dependabot/)
-* [2023-10-02, 14:21:05](https://lobste.rs/s/9vepfe/jetporch_general_purpose_community) - [JetPorch - general-purpose, community-driven IT automation platform](https://www.jetporch.com/)
 * [2023-10-02, 14:00:46](https://lobste.rs/s/pznwxq/python_3_12_0_released) - [Python 3.12.0 released](https://www.python.org/downloads/release/python-3120/)
 * [2023-10-02, 12:04:39](https://lobste.rs/s/tq5lua/modeling_flight_requests_alloy) - [Modeling in-flight requests in Alloy](https://bytes.zone/posts/modeling-in-flight-requests-in-alloy/)
 * [2023-10-02, 11:38:37](https://lobste.rs/s/ocu5oz/daktilo_turn_your_keyboard_into) - [daktilo — Turn your keyboard into a typewriter](https://github.com/orhun/daktilo)
