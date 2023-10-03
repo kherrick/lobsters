@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-03](index.md)
 
+* [2023-10-03, 22:20:18](https://lobste.rs/s/yzbon7/writing_object_shape_friendly_code_ruby) - [Writing Object Shape friendly code in Ruby](https://island94.org/2023/10/writing-object-shape-friendly-code-in-ruby)
+* [2023-10-03, 22:15:06](https://lobste.rs/s/dygpod/tldr_on_ruby_s_new_tldr_testing_framework) - [The TLDR on Ruby's new TLDR testing framework](https://blog.testdouble.com/posts/2023-10-03-introducing-the-tldr-ruby-test-framework/)
 * [2023-10-03, 21:37:05](https://lobste.rs/s/vnmaij/lessons_from_debugging) - [Lessons From Debugging](https://matt-rickard.com/lessons-from-debugging)
 * [2023-10-03, 21:24:59](https://lobste.rs/s/jgezh0/shift_happens) - [Shift Happens](https://shifthappens.backerkit.com/hosted_preorders)
 * [2023-10-03, 21:14:05](https://lobste.rs/s/wcddhk/programmation_par_contraintes) - [Programmation Par Contraintes](https://bpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/3/865/files/2023/10/AlainColmerauer.pdf)
