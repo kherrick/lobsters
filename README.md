@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-04, 18:01:39](https://lobste.rs/s/j4g5x0/pancake_verified_systems_programming) - [Pancake: Verified Systems Programming Made Sweeter](https://trustworthy.systems/publications/papers/Pohjola_STWSNUMSMNH_23.pdf)
 * [2023-10-04, 17:25:26](https://lobste.rs/s/bqnp9m/interactive_intro_crdts) - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
 * [2023-10-04, 17:15:50](https://lobste.rs/s/9ubxjf/smooth_vector_graphics_qt_quick) - [Smooth Vector Graphics in Qt Quick](https://www.qt.io/blog/smooth-vector-graphics-in-qt-quick)
 * [2023-10-04, 17:08:48](https://lobste.rs/s/mlhvmj/web_assemble) - [Web Assemble](https://dominickm.com/web-assemble/)
@@ -23,7 +24,6 @@
 * [2023-10-03, 16:49:07](https://lobste.rs/s/zgbwcd/picat_is_my_favorite_new_toolbox_language) - [Picat is my favorite new toolbox language](https://buttondown.email/hillelwayne/archive/picat-is-my-favorite-new-toolbox-language/)
 * [2023-10-03, 14:39:06](https://lobste.rs/s/7rvttt/gitshed_idea_for_both_familiar_low_tech) - [GitShed: an idea for both a familiar and \"low-tech\" source forge](http://len.falken.directory/my-inner-conflict-with-github-and-what-i-plan-to-do-about-it.txt)
 * [2023-10-03, 12:56:48](https://lobste.rs/s/gtakkq/programming_language) - [Programming, language](https://www.sicpers.info/2023/10/programming-language/)
-* [2023-10-02, 17:27:31](https://lobste.rs/s/572efc/300_production_problem) - [The 300% Production Problem](https://leebriggs.co.uk/blog/2023/09/28/300_percent_problem)
 * [2023-10-02, 14:00:46](https://lobste.rs/s/pznwxq/python_3_12_0_released) - [Python 3.12.0 released](https://www.python.org/downloads/release/python-3120/)
 
 ## [Archives](archives/index.md)

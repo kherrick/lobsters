@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 18:01:39](https://lobste.rs/s/j4g5x0/pancake_verified_systems_programming) - [Pancake: Verified Systems Programming Made Sweeter](https://trustworthy.systems/publications/papers/Pohjola_STWSNUMSMNH_23.pdf)
 * [2023-10-04, 17:25:26](https://lobste.rs/s/bqnp9m/interactive_intro_crdts) - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
 * [2023-10-04, 17:15:50](https://lobste.rs/s/9ubxjf/smooth_vector_graphics_qt_quick) - [Smooth Vector Graphics in Qt Quick](https://www.qt.io/blog/smooth-vector-graphics-in-qt-quick)
 * [2023-10-04, 17:08:48](https://lobste.rs/s/mlhvmj/web_assemble) - [Web Assemble](https://dominickm.com/web-assemble/)
