@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 17:15:50](https://lobste.rs/s/9ubxjf/smooth_vector_graphics_qt_quick) - [Smooth Vector Graphics in Qt Quick](https://www.qt.io/blog/smooth-vector-graphics-in-qt-quick)
+* [2023-10-04, 17:08:48](https://lobste.rs/s/mlhvmj/web_assemble) - [Web Assemble](https://dominickm.com/web-assemble/)
 * [2023-10-04, 17:02:43](https://lobste.rs/s/wavdfn/why_you_shouldn_t_use_lesser_gpl_for_your) - [Why you shouldn't use the Lesser GPL for your next library](https://www.gnu.org/licenses/why-not-lgpl.html)
 * [2023-10-04, 16:44:29](https://lobste.rs/s/pcbjzj/open_sourcing_ferrocene_ferrous_systems) - [Open Sourcing Ferrocene  - Ferrous Systems](https://ferrous-systems.com/blog/ferrocene-open-source/)
 * [2023-10-04, 16:44:29](https://lobste.rs/s/pcbjzj/open_sourcing_ferrocene) - [Open Sourcing Ferrocene](https://ferrous-systems.com/blog/ferrocene-open-source/)
