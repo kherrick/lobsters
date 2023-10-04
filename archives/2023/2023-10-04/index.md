@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 19:07:17](https://lobste.rs/s/9y7pz3/using_intl_segmenter_api) - [Using the Intl segmenter API](https://polypane.app/blog/using-the-intl-segmenter-api/)
+* [2023-10-04, 19:03:38](https://lobste.rs/s/mo5vmr/ghc_plugin_for_opentelemetry_build) - [A GHC plugin for OpenTelemetry build metrics](https://www.haskellforall.com/2023/10/a-ghc-plugin-for-opentelemetry-build.html)
 * [2023-10-04, 18:01:39](https://lobste.rs/s/j4g5x0/pancake_verified_systems_programming) - [Pancake: Verified Systems Programming Made Sweeter](https://trustworthy.systems/publications/papers/Pohjola_STWSNUMSMNH_23.pdf)
 * [2023-10-04, 17:25:26](https://lobste.rs/s/bqnp9m/interactive_intro_crdts) - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
 * [2023-10-04, 17:15:50](https://lobste.rs/s/9ubxjf/smooth_vector_graphics_qt_quick) - [Smooth Vector Graphics in Qt Quick](https://www.qt.io/blog/smooth-vector-graphics-in-qt-quick)
