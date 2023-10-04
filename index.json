@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-04, 12:47:06",
+      "https://lobste.rs/s/d9gjpf/ambient_multiplayer_game_engine"
+    ],
+    [
+      "Ambient, a multiplayer game engine & platform using Rust, WASM, WebGPU",
+      "https://ambient.run/blog/platform"
+    ]
+  ],
+  [
+    [
       "2023-10-04, 10:45:04",
       "https://lobste.rs/s/vnkbia/how_setup_duration_based_profiling"
     ],
@@ -77,16 +87,6 @@
     [
       "Shift Happens",
       "https://shifthappens.backerkit.com/hosted_preorders"
-    ]
-  ],
-  [
-    [
-      "2023-10-03, 20:16:37",
-      "https://lobste.rs/s/thggmf/announcing_typescript_5_3_beta"
-    ],
-    [
-      "Announcing TypeScript 5.3 Beta",
-      "https://devblogs.microsoft.com/typescript/announcing-typescript-5-3-beta/"
     ]
   ],
   [
