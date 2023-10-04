@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 21:10:24](https://lobste.rs/s/0emeiy/programming_language_ideas_work_don_t) - [Programming Language Ideas That Work And Don't Work (2022)](https://www.youtube.com/watch?v=y7KWGv_t-MU)
 * [2023-10-04, 20:54:32](https://lobste.rs/s/z6lpqg/strong_static_typing_hill_i_m_willing_die) - [Strong static typing, a hill I'm willing to die on](https://www.svix.com/blog/strong-typing-hill-to-die-on/)
 * [2023-10-04, 20:51:36](https://lobste.rs/s/smpvwe/freebsd_unix_wallpapers) - [FreeBSD UNIX Wallpapers](https://vermaden.wordpress.com/2023/10/04/freebsd-unix-wallpapers/)
 * [2023-10-04, 20:29:58](https://lobste.rs/s/v5pcyj/diorama_engine) - [The Diorama Engine](https://dioragame.com/devlog/?log=3)

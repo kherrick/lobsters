@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-04, 21:10:24](https://lobste.rs/s/0emeiy/programming_language_ideas_work_don_t) - [Programming Language Ideas That Work And Don't Work (2022)](https://www.youtube.com/watch?v=y7KWGv_t-MU)
 * [2023-10-04, 20:54:32](https://lobste.rs/s/z6lpqg/strong_static_typing_hill_i_m_willing_die) - [Strong static typing, a hill I'm willing to die on](https://www.svix.com/blog/strong-typing-hill-to-die-on/)
 * [2023-10-04, 20:51:36](https://lobste.rs/s/smpvwe/freebsd_unix_wallpapers) - [FreeBSD UNIX Wallpapers](https://vermaden.wordpress.com/2023/10/04/freebsd-unix-wallpapers/)
 * [2023-10-04, 20:29:58](https://lobste.rs/s/v5pcyj/diorama_engine) - [The Diorama Engine](https://dioragame.com/devlog/?log=3)
@@ -18,7 +19,6 @@
 * [2023-10-04, 13:28:58](https://lobste.rs/s/glemv1/improving_efficiency_your_regular) - [Improving the efficiency of your regular expressions (2020)](https://abseil.io/fast/21)
 * [2023-10-04, 12:47:06](https://lobste.rs/s/d9gjpf/ambient_multiplayer_game_engine) - [Ambient, a multiplayer game engine & platform using Rust, WASM, WebGPU](https://ambient.run/blog/platform)
 * [2023-10-04, 10:35:26](https://lobste.rs/s/7x680k/leporello_js) - [Leporello.js](https://leporello.tech/)
-* [2023-10-03, 22:20:18](https://lobste.rs/s/yzbon7/writing_object_shape_friendly_code_ruby) - [Writing Object Shape friendly code in Ruby](https://island94.org/2023/10/writing-object-shape-friendly-code-in-ruby)
 * [2023-10-03, 22:15:06](https://lobste.rs/s/dygpod/tldr_on_ruby_s_new_tldr_testing_framework) - [The TLDR on Ruby's new TLDR testing framework](https://blog.testdouble.com/posts/2023-10-03-introducing-the-tldr-ruby-test-framework/)
 * [2023-10-03, 19:40:52](https://lobste.rs/s/0p1rra/conventional_comments) - [Conventional Comments](https://conventionalcomments.org/)
 * [2023-10-03, 19:00:56](https://lobste.rs/s/i8rm6l/looney_tunables_local_privilege) - [Looney Tunables: Local Privilege Escalation in the glibc's ld.so (CVE-2023-4911)](https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt)
