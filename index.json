@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-04, 20:29:58",
+      "https://lobste.rs/s/v5pcyj/diorama_engine"
+    ],
+    [
+      "The Diorama Engine",
+      "https://dioragame.com/devlog/?log=3"
+    ]
+  ],
+  [
+    [
       "2023-10-04, 20:10:52",
       "https://lobste.rs/s/kcdkse/is_software_engineering_real"
     ],
@@ -187,16 +197,6 @@
     [
       "The TLDR on Ruby's new TLDR testing framework",
       "https://blog.testdouble.com/posts/2023-10-03-introducing-the-tldr-ruby-test-framework/"
-    ]
-  ],
-  [
-    [
-      "2023-10-03, 21:37:05",
-      "https://lobste.rs/s/vnmaij/lessons_from_debugging"
-    ],
-    [
-      "Lessons From Debugging",
-      "https://matt-rickard.com/lessons-from-debugging"
     ]
   ],
   [
