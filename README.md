@@ -16,7 +16,7 @@
 * [2023-10-04, 12:47:06](https://lobste.rs/s/d9gjpf/ambient_multiplayer_game_engine) - [Ambient, a multiplayer game engine & platform using Rust, WASM, WebGPU](https://ambient.run/blog/platform)
 * [2023-10-04, 10:45:04](https://lobste.rs/s/vnkbia/how_setup_duration_based_profiling) - [How to setup duration based profiling in Sentry](https://neilkakkar.com/sentry-duration-span-sampling.html)
 * [2023-10-04, 10:35:26](https://lobste.rs/s/7x680k/leporello_js) - [Leporello.js](https://leporello.tech/)
-* [2023-10-04, 04:51:11](https://lobste.rs/s/7p5qeg/lectures_on_applied_category_theory_n) - [Lectures on Applied Category Theory | The n-Category Café](https://golem.ph.utexas.edu/category/2023/09/lectures_on_applied_category_t.html)
+* [2023-10-04, 04:51:11](https://lobste.rs/s/7p5qeg/lectures_on_applied_category_theory) - [Lectures on Applied Category Theory](https://golem.ph.utexas.edu/category/2023/09/lectures_on_applied_category_t.html)
 * [2023-10-03, 22:20:18](https://lobste.rs/s/yzbon7/writing_object_shape_friendly_code_ruby) - [Writing Object Shape friendly code in Ruby](https://island94.org/2023/10/writing-object-shape-friendly-code-in-ruby)
 * [2023-10-03, 22:15:06](https://lobste.rs/s/dygpod/tldr_on_ruby_s_new_tldr_testing_framework) - [The TLDR on Ruby's new TLDR testing framework](https://blog.testdouble.com/posts/2023-10-03-introducing-the-tldr-ruby-test-framework/)
 * [2023-10-03, 21:37:05](https://lobste.rs/s/vnmaij/lessons_from_debugging) - [Lessons From Debugging](https://matt-rickard.com/lessons-from-debugging)
