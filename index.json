@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-04, 21:22:02",
+      "https://lobste.rs/s/td4deo/store_ssh_keys_inside_tpm_ssh_tpm_agent"
+    ],
+    [
+      "Store ssh keys inside the TPM: ssh-tpm-agent",
+      "https://linderud.dev/blog/store-ssh-keys-inside-the-tpm-ssh-tpm-agent/"
+    ]
+  ],
+  [
+    [
       "2023-10-04, 21:14:13",
       "https://lobste.rs/s/sir5qn/vectorvisor_easily_run_many_copies"
     ],
@@ -167,16 +177,6 @@
     [
       "The inability to count correctly",
       "http://blog.cr.yp.to/20231003-countcorrectly.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 13:28:58",
-      "https://lobste.rs/s/glemv1/improving_efficiency_your_regular"
-    ],
-    [
-      "Improving the efficiency of your regular expressions (2020)",
-      "https://abseil.io/fast/21"
     ]
   ],
   [
