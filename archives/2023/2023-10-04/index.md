@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 17:25:26](https://lobste.rs/s/bqnp9m/interactive_intro_crdts) - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
 * [2023-10-04, 17:15:50](https://lobste.rs/s/9ubxjf/smooth_vector_graphics_qt_quick) - [Smooth Vector Graphics in Qt Quick](https://www.qt.io/blog/smooth-vector-graphics-in-qt-quick)
 * [2023-10-04, 17:08:48](https://lobste.rs/s/mlhvmj/web_assemble) - [Web Assemble](https://dominickm.com/web-assemble/)
 * [2023-10-04, 17:02:43](https://lobste.rs/s/wavdfn/why_you_shouldn_t_use_lesser_gpl_for_your) - [Why you shouldn't use the Lesser GPL for your next library](https://www.gnu.org/licenses/why-not-lgpl.html)
