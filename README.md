@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-04, 21:22:02](https://lobste.rs/s/td4deo/store_ssh_keys_inside_tpm_ssh_tpm_agent) - [Store ssh keys inside the TPM: ssh-tpm-agent](https://linderud.dev/blog/store-ssh-keys-inside-the-tpm-ssh-tpm-agent/)
 * [2023-10-04, 21:14:13](https://lobste.rs/s/sir5qn/vectorvisor_easily_run_many_copies) - [VectorVisor: easily run many copies of a single-threaded WebAssembly program in parallel on GPUs](https://github.com/SamGinzburg/VectorVisor)
 * [2023-10-04, 21:10:24](https://lobste.rs/s/0emeiy/programming_language_ideas_work_don_t) - [Programming Language Ideas That Work And Don't Work (2022)](https://www.youtube.com/watch?v=y7KWGv_t-MU)
 * [2023-10-04, 20:54:32](https://lobste.rs/s/z6lpqg/strong_static_typing_hill_i_m_willing_die) - [Strong static typing, a hill I'm willing to die on](https://www.svix.com/blog/strong-typing-hill-to-die-on/)
@@ -17,7 +18,6 @@
 * [2023-10-04, 14:52:21](https://lobste.rs/s/u9xlgv/using_farcaster_protocol_for_carmack) - [Using Farcaster protocol for Carmack-style .plan daily notes](https://charlieharrington.com/farcaster-fling/)
 * [2023-10-04, 13:47:19](https://lobste.rs/s/kuodvu/compile_time_sql_validation_with_sqlx) - [Compile-time SQL Validation with SQLx in Rust](https://www.shuttle.rs/blog/2023/10/04/sql-in-rust)
 * [2023-10-04, 13:36:19](https://lobste.rs/s/o1zdzf/inability_count_correctly) - [The inability to count correctly](http://blog.cr.yp.to/20231003-countcorrectly.html)
-* [2023-10-04, 13:28:58](https://lobste.rs/s/glemv1/improving_efficiency_your_regular) - [Improving the efficiency of your regular expressions (2020)](https://abseil.io/fast/21)
 * [2023-10-04, 12:47:06](https://lobste.rs/s/d9gjpf/ambient_multiplayer_game_engine) - [Ambient, a multiplayer game engine & platform using Rust, WASM, WebGPU](https://ambient.run/blog/platform)
 * [2023-10-04, 10:35:26](https://lobste.rs/s/7x680k/leporello_js) - [Leporello.js](https://leporello.tech/)
 * [2023-10-03, 22:15:06](https://lobste.rs/s/dygpod/tldr_on_ruby_s_new_tldr_testing_framework) - [The TLDR on Ruby's new TLDR testing framework](https://blog.testdouble.com/posts/2023-10-03-introducing-the-tldr-ruby-test-framework/)

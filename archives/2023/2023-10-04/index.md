@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 21:22:02](https://lobste.rs/s/td4deo/store_ssh_keys_inside_tpm_ssh_tpm_agent) - [Store ssh keys inside the TPM: ssh-tpm-agent](https://linderud.dev/blog/store-ssh-keys-inside-the-tpm-ssh-tpm-agent/)
 * [2023-10-04, 21:14:13](https://lobste.rs/s/sir5qn/vectorvisor_easily_run_many_copies) - [VectorVisor: easily run many copies of a single-threaded WebAssembly program in parallel on GPUs](https://github.com/SamGinzburg/VectorVisor)
 * [2023-10-04, 21:10:24](https://lobste.rs/s/0emeiy/programming_language_ideas_work_don_t) - [Programming Language Ideas That Work And Don't Work (2022)](https://www.youtube.com/watch?v=y7KWGv_t-MU)
 * [2023-10-04, 20:54:32](https://lobste.rs/s/z6lpqg/strong_static_typing_hill_i_m_willing_die) - [Strong static typing, a hill I'm willing to die on](https://www.svix.com/blog/strong-typing-hill-to-die-on/)
