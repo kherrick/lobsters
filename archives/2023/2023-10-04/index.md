@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 20:10:52](https://lobste.rs/s/kcdkse/is_software_engineering_real) - [Is Software Engineering Real Engineering?](https://www.hillelwayne.com/talks/crossover-project/)
 * [2023-10-04, 19:46:39](https://lobste.rs/s/5t8cmj/custom_github_badges_defined_by_users) - [Custom GitHub Badges Defined By Users](https://github.com/my-badges/my-badges)
 * [2023-10-04, 19:07:17](https://lobste.rs/s/9y7pz3/using_intl_segmenter_api) - [Using the Intl segmenter API](https://polypane.app/blog/using-the-intl-segmenter-api/)
 * [2023-10-04, 19:03:38](https://lobste.rs/s/mo5vmr/ghc_plugin_for_opentelemetry_build) - [A GHC plugin for OpenTelemetry build metrics](https://www.haskellforall.com/2023/10/a-ghc-plugin-for-opentelemetry-build.html)
