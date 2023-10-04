@@ -1,11 +1,21 @@
 [
   [
     [
-      "2023-10-04, 16:44:29",
-      "https://lobste.rs/s/pcbjzj/open_sourcing_ferrocene_ferrous_systems"
+      "2023-10-04, 17:02:43",
+      "https://lobste.rs/s/wavdfn/why_you_shouldn_t_use_lesser_gpl_for_your"
     ],
     [
-      "Open Sourcing Ferrocene  - Ferrous Systems",
+      "Why you shouldn't use the Lesser GPL for your next library",
+      "https://www.gnu.org/licenses/why-not-lgpl.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-04, 16:44:29",
+      "https://lobste.rs/s/pcbjzj/open_sourcing_ferrocene"
+    ],
+    [
+      "Open Sourcing Ferrocene",
       "https://ferrous-systems.com/blog/ferrocene-open-source/"
     ]
   ],
@@ -207,16 +217,6 @@
     [
       "Exploiting the iPhone 4",
       "https://axleos.com/exploiting-the-iphone-4-part-1-gaining-entry/"
-    ]
-  ],
-  [
-    [
-      "2023-10-03, 04:47:33",
-      "https://lobste.rs/s/xygji1/windows_nt_3_1_on_dec_alpha_axp"
-    ],
-    [
-      "Windows NT 3.1 on DEC Alpha AXP",
-      "https://virtuallyfun.com/2023/10/02/windows-nt-3-1-on-dec-alpha-axp/"
     ]
   ],
   [
