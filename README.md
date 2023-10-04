@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-04, 12:47:06](https://lobste.rs/s/d9gjpf/ambient_multiplayer_game_engine) - [Ambient, a multiplayer game engine & platform using Rust, WASM, WebGPU](https://ambient.run/blog/platform)
 * [2023-10-04, 10:45:04](https://lobste.rs/s/vnkbia/how_setup_duration_based_profiling) - [How to setup duration based profiling in Sentry](https://neilkakkar.com/sentry-duration-span-sampling.html)
 * [2023-10-04, 10:35:26](https://lobste.rs/s/7x680k/leporello_js) - [Leporello.js](https://leporello.tech/)
 * [2023-10-04, 04:51:11](https://lobste.rs/s/7p5qeg/lectures_on_applied_category_theory_n) - [Lectures on Applied Category Theory | The n-Category Café](https://golem.ph.utexas.edu/category/2023/09/lectures_on_applied_category_t.html)
@@ -8,7 +9,6 @@
 * [2023-10-03, 22:15:06](https://lobste.rs/s/dygpod/tldr_on_ruby_s_new_tldr_testing_framework) - [The TLDR on Ruby's new TLDR testing framework](https://blog.testdouble.com/posts/2023-10-03-introducing-the-tldr-ruby-test-framework/)
 * [2023-10-03, 21:37:05](https://lobste.rs/s/vnmaij/lessons_from_debugging) - [Lessons From Debugging](https://matt-rickard.com/lessons-from-debugging)
 * [2023-10-03, 21:24:59](https://lobste.rs/s/jgezh0/shift_happens) - [Shift Happens](https://shifthappens.backerkit.com/hosted_preorders)
-* [2023-10-03, 20:16:37](https://lobste.rs/s/thggmf/announcing_typescript_5_3_beta) - [Announcing TypeScript 5.3 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-3-beta/)
 * [2023-10-03, 19:40:52](https://lobste.rs/s/0p1rra/conventional_comments) - [Conventional Comments](https://conventionalcomments.org/)
 * [2023-10-03, 19:00:56](https://lobste.rs/s/i8rm6l/looney_tunables_local_privilege) - [Looney Tunables: Local Privilege Escalation in the glibc's ld.so (CVE-2023-4911)](https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt)
 * [2023-10-03, 17:53:16](https://lobste.rs/s/bfh4nj/python_3_12_what_didn_t_make_headlines) - [python 3.12: what didn't make the headlines](https://www.bitecode.dev/p/python-312-what-didnt-make-the-headlines)
