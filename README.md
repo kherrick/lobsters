@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-10-04, 16:44:29](https://lobste.rs/s/pcbjzj/open_sourcing_ferrocene_ferrous_systems) - [Open Sourcing Ferrocene  - Ferrous Systems](https://ferrous-systems.com/blog/ferrocene-open-source/)
+* [2023-10-04, 17:02:43](https://lobste.rs/s/wavdfn/why_you_shouldn_t_use_lesser_gpl_for_your) - [Why you shouldn't use the Lesser GPL for your next library](https://www.gnu.org/licenses/why-not-lgpl.html)
+* [2023-10-04, 16:44:29](https://lobste.rs/s/pcbjzj/open_sourcing_ferrocene) - [Open Sourcing Ferrocene](https://ferrous-systems.com/blog/ferrocene-open-source/)
 * [2023-10-04, 15:51:48](https://lobste.rs/s/8p1myd/advantages_queues_on_logs) - [The advantages of queues on logs](https://jack-vanlightly.com/blog/2023/10/2/the-advantages-of-queues-on-logs)
 * [2023-10-04, 14:52:21](https://lobste.rs/s/u9xlgv/using_farcaster_protocol_for_carmack) - [Using Farcaster protocol for Carmack-style .plan daily notes](https://charlieharrington.com/farcaster-fling/)
 * [2023-10-04, 13:47:19](https://lobste.rs/s/kuodvu/compile_time_sql_validation_with_sqlx) - [Compile-time SQL Validation with SQLx in Rust](https://www.shuttle.rs/blog/2023/10/04/sql-in-rust)
@@ -21,7 +22,6 @@
 * [2023-10-03, 14:39:06](https://lobste.rs/s/7rvttt/gitshed_idea_for_both_familiar_low_tech) - [GitShed: an idea for both a familiar and \"low-tech\" source forge](http://len.falken.directory/my-inner-conflict-with-github-and-what-i-plan-to-do-about-it.txt)
 * [2023-10-03, 12:56:48](https://lobste.rs/s/gtakkq/programming_language) - [Programming, language](https://www.sicpers.info/2023/10/programming-language/)
 * [2023-10-03, 08:20:39](https://lobste.rs/s/gp6okk/exploiting_iphone_4) - [Exploiting the iPhone 4](https://axleos.com/exploiting-the-iphone-4-part-1-gaining-entry/)
-* [2023-10-03, 04:47:33](https://lobste.rs/s/xygji1/windows_nt_3_1_on_dec_alpha_axp) - [Windows NT 3.1 on DEC Alpha AXP](https://virtuallyfun.com/2023/10/02/windows-nt-3-1-on-dec-alpha-axp/)
 * [2023-10-02, 20:54:23](https://lobste.rs/s/9backq/my_views_on_neohaskell) - [My views on NeoHaskell](https://www.haskellforall.com/2023/10/my-views-on-neohaskell.html)
 * [2023-10-02, 17:27:31](https://lobste.rs/s/572efc/300_production_problem) - [The 300% Production Problem](https://leebriggs.co.uk/blog/2023/09/28/300_percent_problem)
 * [2023-10-02, 14:00:46](https://lobste.rs/s/pznwxq/python_3_12_0_released) - [Python 3.12.0 released](https://www.python.org/downloads/release/python-3120/)
