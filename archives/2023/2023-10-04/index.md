@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 22:57:15](https://lobste.rs/s/bj5ztk/forward_backward_reasoning_proof) - [Forward and Backward Reasoning in Proof Assistants](https://concerningquality.com/proof-assistants-direction/)
 * [2023-10-04, 21:52:40](https://lobste.rs/s/dy1fd7/terminal_escapes_engineering) - [The Terminal Escapes: Engineering unexpected execution from command line interfaces](https://www.gresearch.com/blog/article/g-research-the-terminal-escapes/)
 * [2023-10-04, 21:22:02](https://lobste.rs/s/td4deo/store_ssh_keys_inside_tpm_ssh_tpm_agent) - [Store ssh keys inside the TPM: ssh-tpm-agent](https://linderud.dev/blog/store-ssh-keys-inside-the-tpm-ssh-tpm-agent/)
 * [2023-10-04, 21:14:13](https://lobste.rs/s/sir5qn/vectorvisor_easily_run_many_copies) - [VectorVisor: easily run many copies of a single-threaded WebAssembly program in parallel on GPUs](https://github.com/SamGinzburg/VectorVisor)
