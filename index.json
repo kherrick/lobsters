@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-10-03, 20:16:37",
+      "https://lobste.rs/s/thggmf/announcing_typescript_5_3_beta"
+    ],
+    [
+      "Announcing TypeScript 5.3 Beta",
+      "https://devblogs.microsoft.com/typescript/announcing-typescript-5-3-beta/"
+    ]
+  ],
+  [
+    [
       "2023-10-03, 19:40:52",
       "https://lobste.rs/s/0p1rra/conventional_comments"
     ],
@@ -167,16 +177,6 @@
     [
       "Windows NT 3.1 on DEC Alpha AXP",
       "https://virtuallyfun.com/2023/10/02/windows-nt-3-1-on-dec-alpha-axp/"
-    ]
-  ],
-  [
-    [
-      "2023-10-03, 01:04:16",
-      "https://lobste.rs/s/ghamle/defining_memory_safety_problem"
-    ],
-    [
-      "Defining the memory safety problem",
-      "https://alexgaynor.net/2023/oct/02/defining-the-memory-safety-problem/"
     ]
   ],
   [
