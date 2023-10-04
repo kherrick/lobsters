@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-04, 10:35:26](https://lobste.rs/s/7x680k/leporello_js) - [Leporello.js](https://leporello.tech/)
 * [2023-10-04, 04:51:11](https://lobste.rs/s/7p5qeg/lectures_on_applied_category_theory_n) - [Lectures on Applied Category Theory | The n-Category Café](https://golem.ph.utexas.edu/category/2023/09/lectures_on_applied_category_t.html)
 * [2023-10-04, 01:07:35](https://lobste.rs/s/9jb7jj/archimage_install_software_from_arch) - [ArchImage: Install software from the Arch User Repository on any distribution](https://github.com/ivan-hc/ArchImage)
 * [2023-10-03, 22:20:18](https://lobste.rs/s/yzbon7/writing_object_shape_friendly_code_ruby) - [Writing Object Shape friendly code in Ruby](https://island94.org/2023/10/writing-object-shape-friendly-code-in-ruby)
@@ -13,7 +14,6 @@
 * [2023-10-03, 16:49:07](https://lobste.rs/s/zgbwcd/picat_is_my_favorite_new_toolbox_language) - [Picat is my favorite new toolbox language](https://buttondown.email/hillelwayne/archive/picat-is-my-favorite-new-toolbox-language/)
 * [2023-10-03, 16:02:13](https://lobste.rs/s/p1ijfm/why_we_re_no_longer_using_core_typed_2016) - [Why we're no longer using Core.typed (2016)](https://web.archive.org/web/20160304022108/https://blog.circleci.com/why-were-no-longer-using-core-typed/)
 * [2023-10-03, 14:39:06](https://lobste.rs/s/7rvttt/gitshed_idea_for_both_familiar_low_tech) - [GitShed: an idea for both a familiar and \"low-tech\" source forge](http://len.falken.directory/my-inner-conflict-with-github-and-what-i-plan-to-do-about-it.txt)
-* [2023-10-03, 14:13:43](https://lobste.rs/s/bsjux8/2017_how_they_did_it_analysis_emission) - [(2017) How They Did It: An Analysis of Emission Defeat Devices in Modern Automobiles](https://www.ieee-security.org/TC/SP2017/papers/101.pdf)
 * [2023-10-03, 13:54:19](https://lobste.rs/s/cthn7c/windows_arm64ec_abi_notes) - [Windows Arm64EC ABI Notes](https://www.corsix.org/content/windows-arm64ec-notes)
 * [2023-10-03, 12:56:48](https://lobste.rs/s/gtakkq/programming_language) - [Programming, language](https://www.sicpers.info/2023/10/programming-language/)
 * [2023-10-03, 11:02:32](https://lobste.rs/s/dwc62h/plan_for_influxdb_3_0_open_source) - [The Plan for InfluxDB 3.0 Open Source](https://www.influxdata.com/blog/the-plan-for-influxdb-3-0-open-source/)
