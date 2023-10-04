@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 15:51:48](https://lobste.rs/s/8p1myd/advantages_queues_on_logs) - [The advantages of queues on logs](https://jack-vanlightly.com/blog/2023/10/2/the-advantages-of-queues-on-logs)
 * [2023-10-04, 14:52:21](https://lobste.rs/s/u9xlgv/using_farcaster_protocol_for_carmack) - [Using Farcaster protocol for Carmack-style .plan daily notes](https://charlieharrington.com/farcaster-fling/)
 * [2023-10-04, 13:47:19](https://lobste.rs/s/kuodvu/compile_time_sql_validation_with_sqlx) - [Compile-time SQL Validation with SQLx in Rust](https://www.shuttle.rs/blog/2023/10/04/sql-in-rust)
 * [2023-10-04, 13:36:19](https://lobste.rs/s/o1zdzf/inability_count_correctly) - [The inability to count correctly](http://blog.cr.yp.to/20231003-countcorrectly.html)
