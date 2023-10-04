@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-04, 19:07:17",
+      "https://lobste.rs/s/9y7pz3/using_intl_segmenter_api"
+    ],
+    [
+      "Using the Intl segmenter API",
+      "https://polypane.app/blog/using-the-intl-segmenter-api/"
+    ]
+  ],
+  [
+    [
+      "2023-10-04, 19:03:38",
+      "https://lobste.rs/s/mo5vmr/ghc_plugin_for_opentelemetry_build"
+    ],
+    [
+      "A GHC plugin for OpenTelemetry build metrics",
+      "https://www.haskellforall.com/2023/10/a-ghc-plugin-for-opentelemetry-build.html"
+    ]
+  ],
+  [
+    [
       "2023-10-04, 18:01:39",
       "https://lobste.rs/s/j4g5x0/pancake_verified_systems_programming"
     ],
@@ -227,26 +247,6 @@
     [
       "GitShed: an idea for both a familiar and \"low-tech\" source forge",
       "http://len.falken.directory/my-inner-conflict-with-github-and-what-i-plan-to-do-about-it.txt"
-    ]
-  ],
-  [
-    [
-      "2023-10-03, 12:56:48",
-      "https://lobste.rs/s/gtakkq/programming_language"
-    ],
-    [
-      "Programming, language",
-      "https://www.sicpers.info/2023/10/programming-language/"
-    ]
-  ],
-  [
-    [
-      "2023-10-02, 14:00:46",
-      "https://lobste.rs/s/pznwxq/python_3_12_0_released"
-    ],
-    [
-      "Python 3.12.0 released",
-      "https://www.python.org/downloads/release/python-3120/"
     ]
   ]
 ]
