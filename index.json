@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-04, 13:36:19",
+      "https://lobste.rs/s/o1zdzf/inability_count_correctly"
+    ],
+    [
+      "The inability to count correctly",
+      "http://blog.cr.yp.to/20231003-countcorrectly.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-04, 13:34:22",
+      "https://lobste.rs/s/qebazl/why_developers_should_stop_using_iso_8601"
+    ],
+    [
+      "Why Developers Should Stop Using ISO 8601 for Date-Time",
+      "https://robinpokorny.medium.com/why-developers-should-stop-using-iso-8601-for-date-time-e6ee5fc8ad87"
+    ]
+  ],
+  [
+    [
       "2023-10-04, 13:28:58",
       "https://lobste.rs/s/glemv1/improving_efficiency_your_regular"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-10-03, 11:02:32",
-      "https://lobste.rs/s/dwc62h/plan_for_influxdb_3_0_open_source"
-    ],
-    [
-      "The Plan for InfluxDB 3.0 Open Source",
-      "https://www.influxdata.com/blog/the-plan-for-influxdb-3-0-open-source/"
-    ]
-  ],
-  [
-    [
       "2023-10-03, 08:20:39",
       "https://lobste.rs/s/gp6okk/exploiting_iphone_4"
     ],
@@ -197,16 +207,6 @@
     [
       "Windows NT 3.1 on DEC Alpha AXP",
       "https://virtuallyfun.com/2023/10/02/windows-nt-3-1-on-dec-alpha-axp/"
-    ]
-  ],
-  [
-    [
-      "2023-10-02, 21:54:57",
-      "https://lobste.rs/s/vogqos/grapheme_clusters_terminal_emulators"
-    ],
-    [
-      "Grapheme Clusters and Terminal Emulators",
-      "https://mitchellh.com/writing/grapheme-clusters-in-terminals"
     ]
   ],
   [
