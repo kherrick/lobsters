@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-10-04, 20:51:36",
-      "https://lobste.rs/s/smpvwe/freebsd_unix_wallpapers"
-    ],
-    [
-      "FreeBSD UNIX Wallpapers",
-      "https://vermaden.wordpress.com/2023/10/04/freebsd-unix-wallpapers/"
-    ]
-  ],
-  [
-    [
       "2023-10-04, 20:29:58",
       "https://lobste.rs/s/v5pcyj/diorama_engine"
     ],
@@ -227,6 +217,16 @@
     [
       "Conventional Comments",
       "https://conventionalcomments.org/"
+    ]
+  ],
+  [
+    [
+      "2023-10-03, 19:00:56",
+      "https://lobste.rs/s/i8rm6l/looney_tunables_local_privilege"
+    ],
+    [
+      "Looney Tunables: Local Privilege Escalation in the glibc's ld.so (CVE-2023-4911)",
+      "https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt"
     ]
   ],
   [
