@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-04, 01:07:35](https://lobste.rs/s/9jb7jj/archimage_install_software_from_arch) - [ArchImage: Install software from the Arch User Repository on any distribution](https://github.com/ivan-hc/ArchImage)
 * [2023-10-03, 22:20:18](https://lobste.rs/s/yzbon7/writing_object_shape_friendly_code_ruby) - [Writing Object Shape friendly code in Ruby](https://island94.org/2023/10/writing-object-shape-friendly-code-in-ruby)
 * [2023-10-03, 22:15:06](https://lobste.rs/s/dygpod/tldr_on_ruby_s_new_tldr_testing_framework) - [The TLDR on Ruby's new TLDR testing framework](https://blog.testdouble.com/posts/2023-10-03-introducing-the-tldr-ruby-test-framework/)
 * [2023-10-03, 21:37:05](https://lobste.rs/s/vnmaij/lessons_from_debugging) - [Lessons From Debugging](https://matt-rickard.com/lessons-from-debugging)
@@ -16,7 +17,6 @@
 * [2023-10-03, 12:56:48](https://lobste.rs/s/gtakkq/programming_language) - [Programming, language](https://www.sicpers.info/2023/10/programming-language/)
 * [2023-10-03, 11:02:32](https://lobste.rs/s/dwc62h/plan_for_influxdb_3_0_open_source) - [The Plan for InfluxDB 3.0 Open Source](https://www.influxdata.com/blog/the-plan-for-influxdb-3-0-open-source/)
 * [2023-10-03, 08:20:39](https://lobste.rs/s/gp6okk/exploiting_iphone_4) - [Exploiting the iPhone 4](https://axleos.com/exploiting-the-iphone-4-part-1-gaining-entry/)
-* [2023-10-03, 06:48:37](https://lobste.rs/s/rrcoyr/beginner_s_guide_sequence_analytics_sql) - [A Beginner's Guide to Sequence Analytics in SQL](https://www.motifanalytics.com/blog/a-beginners-guide-to-sequence-analytics-in-sql)
 * [2023-10-03, 04:47:33](https://lobste.rs/s/xygji1/windows_nt_3_1_on_dec_alpha_axp) - [Windows NT 3.1 on DEC Alpha AXP](https://virtuallyfun.com/2023/10/02/windows-nt-3-1-on-dec-alpha-axp/)
 * [2023-10-02, 21:54:57](https://lobste.rs/s/vogqos/grapheme_clusters_terminal_emulators) - [Grapheme Clusters and Terminal Emulators](https://mitchellh.com/writing/grapheme-clusters-in-terminals)
 * [2023-10-02, 20:54:23](https://lobste.rs/s/9backq/my_views_on_neohaskell) - [My views on NeoHaskell](https://www.haskellforall.com/2023/10/my-views-on-neohaskell.html)
