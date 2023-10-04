@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-04, 20:29:58](https://lobste.rs/s/v5pcyj/diorama_engine) - [The Diorama Engine](https://dioragame.com/devlog/?log=3)
 * [2023-10-04, 20:10:52](https://lobste.rs/s/kcdkse/is_software_engineering_real) - [Is Software Engineering Real Engineering?](https://www.hillelwayne.com/talks/crossover-project/)
 * [2023-10-04, 19:46:39](https://lobste.rs/s/5t8cmj/custom_github_badges_defined_by_users) - [Custom GitHub Badges Defined By Users](https://github.com/my-badges/my-badges)
 * [2023-10-04, 19:07:17](https://lobste.rs/s/9y7pz3/using_intl_segmenter_api) - [Using the Intl segmenter API](https://polypane.app/blog/using-the-intl-segmenter-api/)
@@ -19,7 +20,6 @@
 * [2023-10-04, 04:51:11](https://lobste.rs/s/7p5qeg/lectures_on_applied_category_theory) - [Lectures on Applied Category Theory](https://golem.ph.utexas.edu/category/2023/09/lectures_on_applied_category_t.html)
 * [2023-10-03, 22:20:18](https://lobste.rs/s/yzbon7/writing_object_shape_friendly_code_ruby) - [Writing Object Shape friendly code in Ruby](https://island94.org/2023/10/writing-object-shape-friendly-code-in-ruby)
 * [2023-10-03, 22:15:06](https://lobste.rs/s/dygpod/tldr_on_ruby_s_new_tldr_testing_framework) - [The TLDR on Ruby's new TLDR testing framework](https://blog.testdouble.com/posts/2023-10-03-introducing-the-tldr-ruby-test-framework/)
-* [2023-10-03, 21:37:05](https://lobste.rs/s/vnmaij/lessons_from_debugging) - [Lessons From Debugging](https://matt-rickard.com/lessons-from-debugging)
 * [2023-10-03, 19:40:52](https://lobste.rs/s/0p1rra/conventional_comments) - [Conventional Comments](https://conventionalcomments.org/)
 * [2023-10-03, 19:00:56](https://lobste.rs/s/i8rm6l/looney_tunables_local_privilege) - [Looney Tunables: Local Privilege Escalation in the glibc's ld.so (CVE-2023-4911)](https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt)
 * [2023-10-03, 17:53:16](https://lobste.rs/s/bfh4nj/python_3_12_what_didn_t_make_headlines) - [python 3.12: what didn't make the headlines](https://www.bitecode.dev/p/python-312-what-didnt-make-the-headlines)

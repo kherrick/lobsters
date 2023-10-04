@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 20:29:58](https://lobste.rs/s/v5pcyj/diorama_engine) - [The Diorama Engine](https://dioragame.com/devlog/?log=3)
 * [2023-10-04, 20:10:52](https://lobste.rs/s/kcdkse/is_software_engineering_real) - [Is Software Engineering Real Engineering?](https://www.hillelwayne.com/talks/crossover-project/)
 * [2023-10-04, 19:46:39](https://lobste.rs/s/5t8cmj/custom_github_badges_defined_by_users) - [Custom GitHub Badges Defined By Users](https://github.com/my-badges/my-badges)
 * [2023-10-04, 19:07:17](https://lobste.rs/s/9y7pz3/using_intl_segmenter_api) - [Using the Intl segmenter API](https://polypane.app/blog/using-the-intl-segmenter-api/)
