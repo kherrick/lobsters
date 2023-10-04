@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-04](index.md)
 
+* [2023-10-04, 13:28:58](https://lobste.rs/s/glemv1/improving_efficiency_your_regular) - [Improving the efficiency of your regular expressions (2020)](https://abseil.io/fast/21)
 * [2023-10-04, 12:47:06](https://lobste.rs/s/d9gjpf/ambient_multiplayer_game_engine) - [Ambient, a multiplayer game engine & platform using Rust, WASM, WebGPU](https://ambient.run/blog/platform)
 * [2023-10-04, 10:45:04](https://lobste.rs/s/vnkbia/how_setup_duration_based_profiling) - [How to setup duration based profiling in Sentry](https://neilkakkar.com/sentry-duration-span-sampling.html)
 * [2023-10-04, 10:35:26](https://lobste.rs/s/7x680k/leporello_js) - [Leporello.js](https://leporello.tech/)

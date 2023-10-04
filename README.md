@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-04, 13:28:58](https://lobste.rs/s/glemv1/improving_efficiency_your_regular) - [Improving the efficiency of your regular expressions (2020)](https://abseil.io/fast/21)
 * [2023-10-04, 12:47:06](https://lobste.rs/s/d9gjpf/ambient_multiplayer_game_engine) - [Ambient, a multiplayer game engine & platform using Rust, WASM, WebGPU](https://ambient.run/blog/platform)
 * [2023-10-04, 10:45:04](https://lobste.rs/s/vnkbia/how_setup_duration_based_profiling) - [How to setup duration based profiling in Sentry](https://neilkakkar.com/sentry-duration-span-sampling.html)
 * [2023-10-04, 10:35:26](https://lobste.rs/s/7x680k/leporello_js) - [Leporello.js](https://leporello.tech/)
@@ -15,7 +16,6 @@
 * [2023-10-03, 16:49:07](https://lobste.rs/s/zgbwcd/picat_is_my_favorite_new_toolbox_language) - [Picat is my favorite new toolbox language](https://buttondown.email/hillelwayne/archive/picat-is-my-favorite-new-toolbox-language/)
 * [2023-10-03, 16:02:13](https://lobste.rs/s/p1ijfm/why_we_re_no_longer_using_core_typed_2016) - [Why we're no longer using Core.typed (2016)](https://web.archive.org/web/20160304022108/https://blog.circleci.com/why-were-no-longer-using-core-typed/)
 * [2023-10-03, 14:39:06](https://lobste.rs/s/7rvttt/gitshed_idea_for_both_familiar_low_tech) - [GitShed: an idea for both a familiar and \"low-tech\" source forge](http://len.falken.directory/my-inner-conflict-with-github-and-what-i-plan-to-do-about-it.txt)
-* [2023-10-03, 13:54:19](https://lobste.rs/s/cthn7c/windows_arm64ec_abi_notes) - [Windows Arm64EC ABI Notes](https://www.corsix.org/content/windows-arm64ec-notes)
 * [2023-10-03, 12:56:48](https://lobste.rs/s/gtakkq/programming_language) - [Programming, language](https://www.sicpers.info/2023/10/programming-language/)
 * [2023-10-03, 11:02:32](https://lobste.rs/s/dwc62h/plan_for_influxdb_3_0_open_source) - [The Plan for InfluxDB 3.0 Open Source](https://www.influxdata.com/blog/the-plan-for-influxdb-3-0-open-source/)
 * [2023-10-03, 08:20:39](https://lobste.rs/s/gp6okk/exploiting_iphone_4) - [Exploiting the iPhone 4](https://axleos.com/exploiting-the-iphone-4-part-1-gaining-entry/)
