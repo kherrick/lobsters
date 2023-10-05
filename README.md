@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-05, 20:12:28](https://lobste.rs/s/okp5jk/why_http_3_is_eating_world) - [Why HTTP/3 is eating the world](https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/)
 * [2023-10-05, 19:47:37](https://lobste.rs/s/ecmsdo/python_type_hints_pyastgrep_case_study) - [Python Type Hints: pyastgrep case study](https://lukeplant.me.uk/blog/posts/python-type-hints-pyastgrep-case-study/)
 * [2023-10-05, 19:41:35](https://lobste.rs/s/m4uejv/cloud_costs_every_programmer_should_know) - [Cloud Costs Every Programmer Should Know](https://www.vantage.sh/blog/cloud-costs-every-programmer-should-know)
-* [2023-10-05, 19:21:41](https://lobste.rs/s/no8wp8/call_for_participation_racketcon_2023) - [Call for Participation: RacketCon 2023](https://racket.discourse.group/t/call-for-participation-racketcon-2023/2351)
 * [2023-10-05, 19:00:14](https://lobste.rs/s/b3wj18/severity_high_security_problem_be) - [Severity HIGH security problem to be announced with curl 8.4.0 on Oct 11](https://github.com/curl/curl/discussions/12026)
 * [2023-10-05, 18:45:05](https://lobste.rs/s/f37hri/ascii_protocol_buffers_as_config_files) - [ASCII protocol buffers as config files](https://rachelbythebay.com/w/2023/10/05/config/)
 * [2023-10-05, 16:41:47](https://lobste.rs/s/mtj0vn/understanding_generative_ai_part_one) - [Understanding Generative AI: Part One - Tokenizer](https://scorpil.com/post/understanding-generative-ai-part-one-tokenizer/)
