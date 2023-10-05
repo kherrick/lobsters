@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-05](index.md)
 
+* [2023-10-05, 19:00:14](https://lobste.rs/s/b3wj18/severity_high_security_problem_be) - [Severity HIGH security problem to be announced with curl 8.4.0 on Oct 11](https://github.com/curl/curl/discussions/12026)
 * [2023-10-05, 18:45:05](https://lobste.rs/s/f37hri/ascii_protocol_buffers_as_config_files) - [ASCII protocol buffers as config files](https://rachelbythebay.com/w/2023/10/05/config/)
 * [2023-10-05, 18:38:51](https://lobste.rs/s/r3xmsl/qualcomm_s_hexagon_dsp_now_npu) - [Qualcomm’s Hexagon DSP, and now, NPU](https://chipsandcheese.com/2023/10/04/qualcomms-hexagon-dsp-and-now-npu/)
 * [2023-10-05, 16:41:47](https://lobste.rs/s/mtj0vn/understanding_generative_ai_part_one) - [Understanding Generative AI: Part One - Tokenizer](https://scorpil.com/post/understanding-generative-ai-part-one-tokenizer/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-05, 19:00:14](https://lobste.rs/s/b3wj18/severity_high_security_problem_be) - [Severity HIGH security problem to be announced with curl 8.4.0 on Oct 11](https://github.com/curl/curl/discussions/12026)
 * [2023-10-05, 18:45:05](https://lobste.rs/s/f37hri/ascii_protocol_buffers_as_config_files) - [ASCII protocol buffers as config files](https://rachelbythebay.com/w/2023/10/05/config/)
 * [2023-10-05, 18:38:51](https://lobste.rs/s/r3xmsl/qualcomm_s_hexagon_dsp_now_npu) - [Qualcomm’s Hexagon DSP, and now, NPU](https://chipsandcheese.com/2023/10/04/qualcomms-hexagon-dsp-and-now-npu/)
 * [2023-10-05, 16:41:47](https://lobste.rs/s/mtj0vn/understanding_generative_ai_part_one) - [Understanding Generative AI: Part One - Tokenizer](https://scorpil.com/post/understanding-generative-ai-part-one-tokenizer/)
@@ -19,7 +20,6 @@
 * [2023-10-04, 21:22:02](https://lobste.rs/s/td4deo/store_ssh_keys_inside_tpm_ssh_tpm_agent) - [Store ssh keys inside the TPM: ssh-tpm-agent](https://linderud.dev/blog/store-ssh-keys-inside-the-tpm-ssh-tpm-agent/)
 * [2023-10-04, 20:54:32](https://lobste.rs/s/z6lpqg/strong_static_typing_hill_i_m_willing_die) - [Strong static typing, a hill I'm willing to die on](https://www.svix.com/blog/strong-typing-hill-to-die-on/)
 * [2023-10-04, 20:10:52](https://lobste.rs/s/kcdkse/is_software_engineering_real) - [Is Software Engineering Real Engineering?](https://www.hillelwayne.com/talks/crossover-project/)
-* [2023-10-04, 19:03:38](https://lobste.rs/s/mo5vmr/ghc_plugin_for_opentelemetry_build) - [A GHC plugin for OpenTelemetry build metrics](https://www.haskellforall.com/2023/10/a-ghc-plugin-for-opentelemetry-build.html)
 * [2023-10-04, 18:01:39](https://lobste.rs/s/j4g5x0/pancake_verified_systems_programming) - [Pancake: Verified Systems Programming Made Sweeter](https://trustworthy.systems/publications/papers/Pohjola_STWSNUMSMNH_23.pdf)
 * [2023-10-04, 17:25:26](https://lobste.rs/s/bqnp9m/interactive_intro_crdts) - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
 * [2023-10-04, 16:44:29](https://lobste.rs/s/pcbjzj/open_sourcing_ferrocene) - [Open Sourcing Ferrocene](https://ferrous-systems.com/blog/ferrocene-open-source/)
