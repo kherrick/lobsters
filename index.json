@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-10-05, 08:24:36",
+      "https://lobste.rs/s/5ii17q/response_mckinsey_s_developer"
+    ],
+    [
+      "Response to McKinsey's Developer Productivity paper",
+      "https://dannorth.net/mckinsey-review/"
+    ]
+  ],
+  [
+    [
       "2023-10-05, 07:47:38",
       "https://lobste.rs/s/qmm1yp/litejs_full_stack_web_framework_tiny"
     ],
@@ -207,16 +217,6 @@
     [
       "Using Farcaster protocol for Carmack-style .plan daily notes",
       "https://charlieharrington.com/farcaster-fling/"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 13:47:19",
-      "https://lobste.rs/s/kuodvu/compile_time_sql_validation_with_sqlx"
-    ],
-    [
-      "Compile-time SQL Validation with SQLx in Rust",
-      "https://www.shuttle.rs/blog/2023/10/04/sql-in-rust"
     ]
   ],
   [
