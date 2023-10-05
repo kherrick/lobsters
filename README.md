@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-05, 13:49:48](https://lobste.rs/s/nzmvso/was_async_fn_mistake) - [Was async fn a mistake?](https://seanmonstar.com/post/66832922686/was-async-fn-a-mistake)
 * [2023-10-05, 13:17:25](https://lobste.rs/s/72eejy/profiling_python_ruby_using_ebpf) - [Profiling Python and Ruby using eBPF](https://www.polarsignals.com/blog/posts/2023/10/04/profiling-python-and-ruby-with-ebpf)
 * [2023-10-05, 12:04:29](https://lobste.rs/s/ig1jev/llms_are_interpretable) - [LLMs are Interpretable](https://timkellogg.me/blog/2023/10/01/interpretability)
 * [2023-10-05, 09:04:30](https://lobste.rs/s/eye6qk/safety_vs_performance_case_study_c_c_rust) - [Safety vs Performance. A case study of C, C++ and Rust sort implementations](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/sort_safety/text.md)
@@ -24,7 +25,6 @@
 * [2023-10-04, 14:52:21](https://lobste.rs/s/u9xlgv/using_farcaster_protocol_for_carmack) - [Using Farcaster protocol for Carmack-style .plan daily notes](https://charlieharrington.com/farcaster-fling/)
 * [2023-10-04, 13:47:19](https://lobste.rs/s/kuodvu/compile_time_sql_validation_with_sqlx) - [Compile-time SQL Validation with SQLx in Rust](https://www.shuttle.rs/blog/2023/10/04/sql-in-rust)
 * [2023-10-04, 13:36:19](https://lobste.rs/s/o1zdzf/inability_count_correctly) - [The inability to count correctly](http://blog.cr.yp.to/20231003-countcorrectly.html)
-* [2023-10-03, 17:53:16](https://lobste.rs/s/bfh4nj/python_3_12_what_didn_t_make_headlines) - [python 3.12: what didn't make the headlines](https://www.bitecode.dev/p/python-312-what-didnt-make-the-headlines)
 
 ## [Archives](archives/index.md)
 
