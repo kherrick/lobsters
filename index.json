@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-05, 19:00:14",
+      "https://lobste.rs/s/b3wj18/severity_high_security_problem_be"
+    ],
+    [
+      "Severity HIGH security problem to be announced with curl 8.4.0 on Oct 11",
+      "https://github.com/curl/curl/discussions/12026"
+    ]
+  ],
+  [
+    [
       "2023-10-05, 18:45:05",
       "https://lobste.rs/s/f37hri/ascii_protocol_buffers_as_config_files"
     ],
@@ -187,16 +197,6 @@
     [
       "Is Software Engineering Real Engineering?",
       "https://www.hillelwayne.com/talks/crossover-project/"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 19:03:38",
-      "https://lobste.rs/s/mo5vmr/ghc_plugin_for_opentelemetry_build"
-    ],
-    [
-      "A GHC plugin for OpenTelemetry build metrics",
-      "https://www.haskellforall.com/2023/10/a-ghc-plugin-for-opentelemetry-build.html"
     ]
   ],
   [
