@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-05](index.md)
 
+* [2023-10-05, 21:23:09](https://lobste.rs/s/0pl3hi/python_3_12_0_from_supply_chain_security) - [Python 3.12.0 from a supply chain security perspective](https://sethmlarson.dev/security-developer-in-residence-weekly-report-13)
 * [2023-10-05, 20:52:49](https://lobste.rs/s/t7hp4l/rust_1_73_0) - [Rust 1.73.0](https://blog.rust-lang.org/2023/10/05/Rust-1.73.0.html)
 * [2023-10-05, 20:39:41](https://lobste.rs/s/kz3tlq/proposal_for_encoding_json_v2) - [Proposal for encoding/json/v2](https://github.com/golang/go/discussions/63397)
 * [2023-10-05, 20:12:28](https://lobste.rs/s/okp5jk/why_http_3_is_eating_world) - [Why HTTP/3 is eating the world](https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/)

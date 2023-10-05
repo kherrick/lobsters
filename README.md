@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-05, 21:23:09](https://lobste.rs/s/0pl3hi/python_3_12_0_from_supply_chain_security) - [Python 3.12.0 from a supply chain security perspective](https://sethmlarson.dev/security-developer-in-residence-weekly-report-13)
 * [2023-10-05, 20:52:49](https://lobste.rs/s/t7hp4l/rust_1_73_0) - [Rust 1.73.0](https://blog.rust-lang.org/2023/10/05/Rust-1.73.0.html)
-* [2023-10-05, 20:39:41](https://lobste.rs/s/kz3tlq/proposal_for_encoding_json_v2) - [Proposal for encoding/json/v2](https://github.com/golang/go/discussions/63397)
 * [2023-10-05, 19:47:37](https://lobste.rs/s/ecmsdo/python_type_hints_pyastgrep_case_study) - [Python Type Hints: pyastgrep case study](https://lukeplant.me.uk/blog/posts/python-type-hints-pyastgrep-case-study/)
 * [2023-10-05, 19:41:35](https://lobste.rs/s/m4uejv/cloud_costs_every_programmer_should_know) - [Cloud Costs Every Programmer Should Know](https://www.vantage.sh/blog/cloud-costs-every-programmer-should-know)
 * [2023-10-05, 19:00:14](https://lobste.rs/s/b3wj18/severity_high_security_problem_be) - [Severity HIGH security problem to be announced with curl 8.4.0 on Oct 11](https://github.com/curl/curl/discussions/12026)
