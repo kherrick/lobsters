@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-05, 15:26:35](https://lobste.rs/s/sa1b5n/writing_greylisting_filter_1000_lines_c) - [writing a greylisting filter in ~1000 lines of C](https://research.exoticsilicon.com/articles/mail_filters)
 * [2023-10-05, 14:49:58](https://lobste.rs/s/for9oa/haschor_functional_choreographic) - [HasChor: Functional Choreographic Programming for All (Functional Pearl)](https://dl.acm.org/doi/pdf/10.1145/3607849)
 * [2023-10-05, 14:22:12](https://lobste.rs/s/iynrwm/simple_testing_can_prevent_most_critical) - [Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures (2014)](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf)
 * [2023-10-05, 13:49:48](https://lobste.rs/s/nzmvso/was_async_fn_mistake) - [Was async fn a mistake?](https://seanmonstar.com/post/66832922686/was-async-fn-a-mistake)
@@ -18,7 +19,6 @@
 * [2023-10-04, 20:51:36](https://lobste.rs/s/smpvwe/freebsd_unix_wallpapers) - [FreeBSD UNIX Wallpapers](https://vermaden.wordpress.com/2023/10/04/freebsd-unix-wallpapers/)
 * [2023-10-04, 20:29:58](https://lobste.rs/s/v5pcyj/diorama_engine) - [The Diorama Engine](https://dioragame.com/devlog/?log=3)
 * [2023-10-04, 20:10:52](https://lobste.rs/s/kcdkse/is_software_engineering_real) - [Is Software Engineering Real Engineering?](https://www.hillelwayne.com/talks/crossover-project/)
-* [2023-10-04, 19:46:39](https://lobste.rs/s/5t8cmj/custom_github_badges_defined_by_users) - [Custom GitHub Badges Defined By Users](https://github.com/my-badges/my-badges)
 * [2023-10-04, 19:03:38](https://lobste.rs/s/mo5vmr/ghc_plugin_for_opentelemetry_build) - [A GHC plugin for OpenTelemetry build metrics](https://www.haskellforall.com/2023/10/a-ghc-plugin-for-opentelemetry-build.html)
 * [2023-10-04, 18:01:39](https://lobste.rs/s/j4g5x0/pancake_verified_systems_programming) - [Pancake: Verified Systems Programming Made Sweeter](https://trustworthy.systems/publications/papers/Pohjola_STWSNUMSMNH_23.pdf)
 * [2023-10-04, 17:25:26](https://lobste.rs/s/bqnp9m/interactive_intro_crdts) - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
