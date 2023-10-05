@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-05, 14:22:12](https://lobste.rs/s/iynrwm/simple_testing_can_prevent_most_critical) - [Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures (2014)](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf)
 * [2023-10-05, 13:49:48](https://lobste.rs/s/nzmvso/was_async_fn_mistake) - [Was async fn a mistake?](https://seanmonstar.com/post/66832922686/was-async-fn-a-mistake)
 * [2023-10-05, 13:17:25](https://lobste.rs/s/72eejy/profiling_python_ruby_using_ebpf) - [Profiling Python and Ruby using eBPF](https://www.polarsignals.com/blog/posts/2023/10/04/profiling-python-and-ruby-with-ebpf)
 * [2023-10-05, 12:04:29](https://lobste.rs/s/ig1jev/llms_are_interpretable) - [LLMs are Interpretable](https://timkellogg.me/blog/2023/10/01/interpretability)
 * [2023-10-05, 09:04:30](https://lobste.rs/s/eye6qk/safety_vs_performance_case_study_c_c_rust) - [Safety vs Performance. A case study of C, C++ and Rust sort implementations](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/sort_safety/text.md)
-* [2023-10-05, 08:24:36](https://lobste.rs/s/5ii17q/response_mckinsey_s_developer) - [Response to McKinsey's Developer Productivity paper](https://dannorth.net/mckinsey-review/)
 * [2023-10-05, 07:47:38](https://lobste.rs/s/qmm1yp/litejs_full_stack_web_framework_tiny) - [litejs: Full-stack web framework in a tiny package](https://github.com/litejs/litejs)
 * [2023-10-05, 07:06:57](https://lobste.rs/s/vokylu/understanding_python_variables) - [Understanding Python Variables: Namespaces and Variable Scope](https://muhammadraza.me/2023/Python-Namespace/)
 * [2023-10-05, 04:47:35](https://lobste.rs/s/c09zuq/pkgx_run_anything) - [pkgx: Run Anything](https://pkgx.sh)
