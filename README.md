@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-05, 04:47:35](https://lobste.rs/s/c09zuq/pkgx_run_anything) - [pkgx: Run Anything](https://pkgx.sh)
 * [2023-10-05, 03:33:46](https://lobste.rs/s/2gmgod/locating_trans_healthcare_with) - [Locating Trans Healthcare with MyChoiceHRT: an interview with Alena, pt. 1](https://blog.cyberia.club/bread-z/locating-trans-healthcare-with-mychoicehrt-an-interview-with-alena-pt)
 * [2023-10-05, 01:20:35](https://lobste.rs/s/etnchk/divan_fast_simple_benchmarking_for_rust) - [Divan: Fast and Simple Benchmarking for Rust](https://nikolaivazquez.com/blog/divan/)
 * [2023-10-04, 22:57:15](https://lobste.rs/s/bj5ztk/forward_backward_reasoning_proof) - [Forward and Backward Reasoning in Proof Assistants](https://concerningquality.com/proof-assistants-direction/)
@@ -21,7 +22,6 @@
 * [2023-10-04, 13:47:19](https://lobste.rs/s/kuodvu/compile_time_sql_validation_with_sqlx) - [Compile-time SQL Validation with SQLx in Rust](https://www.shuttle.rs/blog/2023/10/04/sql-in-rust)
 * [2023-10-04, 13:36:19](https://lobste.rs/s/o1zdzf/inability_count_correctly) - [The inability to count correctly](http://blog.cr.yp.to/20231003-countcorrectly.html)
 * [2023-10-04, 12:47:06](https://lobste.rs/s/d9gjpf/ambient_multiplayer_game_engine) - [Ambient, a multiplayer game engine & platform using Rust, WASM, WebGPU](https://ambient.run/blog/platform)
-* [2023-10-03, 22:15:06](https://lobste.rs/s/dygpod/tldr_on_ruby_s_new_tldr_testing_framework) - [The TLDR on Ruby's new TLDR testing framework](https://blog.testdouble.com/posts/2023-10-03-introducing-the-tldr-ruby-test-framework/)
 * [2023-10-03, 19:40:52](https://lobste.rs/s/0p1rra/conventional_comments) - [Conventional Comments](https://conventionalcomments.org/)
 * [2023-10-03, 17:53:16](https://lobste.rs/s/bfh4nj/python_3_12_what_didn_t_make_headlines) - [python 3.12: what didn't make the headlines](https://www.bitecode.dev/p/python-312-what-didnt-make-the-headlines)
 * [2023-10-03, 16:49:07](https://lobste.rs/s/zgbwcd/picat_is_my_favorite_new_toolbox_language) - [Picat is my favorite new toolbox language](https://buttondown.email/hillelwayne/archive/picat-is-my-favorite-new-toolbox-language/)
