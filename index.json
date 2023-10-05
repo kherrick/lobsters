@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-10-05, 08:24:36",
+      "https://lobste.rs/s/5ii17q/response_mckinsey_s_developer"
+    ],
+    [
+      "Response to McKinsey's Developer Productivity paper",
+      "https://dannorth.net/mckinsey-review/"
+    ]
+  ],
+  [
+    [
       "2023-10-05, 07:47:38",
       "https://lobste.rs/s/qmm1yp/litejs_full_stack_web_framework_tiny"
     ],
@@ -87,16 +97,6 @@
     [
       "Store ssh keys inside the TPM: ssh-tpm-agent",
       "https://linderud.dev/blog/store-ssh-keys-inside-the-tpm-ssh-tpm-agent/"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 21:14:13",
-      "https://lobste.rs/s/sir5qn/vectorvisor_easily_run_many_copies"
-    ],
-    [
-      "VectorVisor: easily run many copies of a single-threaded WebAssembly program in parallel on GPUs",
-      "https://github.com/SamGinzburg/VectorVisor"
     ]
   ],
   [
