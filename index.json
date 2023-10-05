@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-10-05, 20:39:41",
+      "https://lobste.rs/s/kz3tlq/proposal_for_encoding_json_v2"
+    ],
+    [
+      "Proposal for encoding/json/v2",
+      "https://github.com/golang/go/discussions/63397"
+    ]
+  ],
+  [
+    [
       "2023-10-05, 19:47:37",
       "https://lobste.rs/s/ecmsdo/python_type_hints_pyastgrep_case_study"
     ],
@@ -207,16 +217,6 @@
     [
       "Is Software Engineering Real Engineering?",
       "https://www.hillelwayne.com/talks/crossover-project/"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 17:25:26",
-      "https://lobste.rs/s/bqnp9m/interactive_intro_crdts"
-    ],
-    [
-      "An Interactive Intro to CRDTs",
-      "https://jakelazaroff.com/words/an-interactive-intro-to-crdts/"
     ]
   ],
   [
