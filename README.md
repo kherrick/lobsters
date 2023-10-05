@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-05, 13:17:25](https://lobste.rs/s/72eejy/profiling_python_ruby_using_ebpf) - [Profiling Python and Ruby using eBPF](https://www.polarsignals.com/blog/posts/2023/10/04/profiling-python-and-ruby-with-ebpf)
 * [2023-10-05, 12:04:29](https://lobste.rs/s/ig1jev/llms_are_interpretable) - [LLMs are Interpretable](https://timkellogg.me/blog/2023/10/01/interpretability)
 * [2023-10-05, 09:04:30](https://lobste.rs/s/eye6qk/safety_vs_performance_case_study_c_c_rust) - [Safety vs Performance. A case study of C, C++ and Rust sort implementations](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/sort_safety/text.md)
-* [2023-10-05, 08:24:36](https://lobste.rs/s/5ii17q/response_mckinsey_s_developer) - [Response to McKinsey's Developer Productivity paper](https://dannorth.net/mckinsey-review/)
 * [2023-10-05, 07:47:38](https://lobste.rs/s/qmm1yp/litejs_full_stack_web_framework_tiny) - [litejs: Full-stack web framework in a tiny package](https://github.com/litejs/litejs)
 * [2023-10-05, 07:06:57](https://lobste.rs/s/vokylu/understanding_python_variables) - [Understanding Python Variables: Namespaces and Variable Scope](https://muhammadraza.me/2023/Python-Namespace/)
 * [2023-10-05, 04:47:35](https://lobste.rs/s/c09zuq/pkgx_run_anything) - [pkgx: Run Anything](https://pkgx.sh)
@@ -22,8 +22,8 @@
 * [2023-10-04, 17:02:43](https://lobste.rs/s/wavdfn/why_you_shouldn_t_use_lesser_gpl_for_your) - [Why you shouldn't use the Lesser GPL for your next library (1999)](https://www.gnu.org/licenses/why-not-lgpl.html)
 * [2023-10-04, 16:44:29](https://lobste.rs/s/pcbjzj/open_sourcing_ferrocene) - [Open Sourcing Ferrocene](https://ferrous-systems.com/blog/ferrocene-open-source/)
 * [2023-10-04, 14:52:21](https://lobste.rs/s/u9xlgv/using_farcaster_protocol_for_carmack) - [Using Farcaster protocol for Carmack-style .plan daily notes](https://charlieharrington.com/farcaster-fling/)
+* [2023-10-04, 13:47:19](https://lobste.rs/s/kuodvu/compile_time_sql_validation_with_sqlx) - [Compile-time SQL Validation with SQLx in Rust](https://www.shuttle.rs/blog/2023/10/04/sql-in-rust)
 * [2023-10-04, 13:36:19](https://lobste.rs/s/o1zdzf/inability_count_correctly) - [The inability to count correctly](http://blog.cr.yp.to/20231003-countcorrectly.html)
-* [2023-10-03, 19:40:52](https://lobste.rs/s/0p1rra/conventional_comments) - [Conventional Comments](https://conventionalcomments.org/)
 * [2023-10-03, 17:53:16](https://lobste.rs/s/bfh4nj/python_3_12_what_didn_t_make_headlines) - [python 3.12: what didn't make the headlines](https://www.bitecode.dev/p/python-312-what-didnt-make-the-headlines)
 
 ## [Archives](archives/index.md)
