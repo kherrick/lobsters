@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-10-04, 21:52:40",
+      "https://lobste.rs/s/dy1fd7/terminal_escapes_engineering"
+    ],
+    [
+      "The Terminal Escapes: Engineering unexpected execution from command line interfaces",
+      "https://www.gresearch.com/blog/article/g-research-the-terminal-escapes/"
+    ]
+  ],
+  [
+    [
       "2023-10-04, 21:22:02",
       "https://lobste.rs/s/td4deo/store_ssh_keys_inside_tpm_ssh_tpm_agent"
     ],
@@ -197,16 +207,6 @@
     [
       "Is Software Engineering Real Engineering?",
       "https://www.hillelwayne.com/talks/crossover-project/"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 18:01:39",
-      "https://lobste.rs/s/j4g5x0/pancake_verified_systems_programming"
-    ],
-    [
-      "Pancake: Verified Systems Programming Made Sweeter",
-      "https://trustworthy.systems/publications/papers/Pohjola_STWSNUMSMNH_23.pdf"
     ]
   ],
   [
