@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-05, 09:04:30](https://lobste.rs/s/eye6qk/safety_vs_performance_case_study_c_c_rust) - [Safety vs Performance. A case study of C, C++ and Rust sort implementations](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/sort_safety/text.md)
 * [2023-10-05, 07:47:38](https://lobste.rs/s/qmm1yp/litejs_full_stack_web_framework_tiny) - [litejs: Full-stack web framework in a tiny package](https://github.com/litejs/litejs)
 * [2023-10-05, 07:06:57](https://lobste.rs/s/vokylu/understanding_python_variables) - [Understanding Python Variables: Namespaces and Variable Scope](https://muhammadraza.me/2023/Python-Namespace/)
 * [2023-10-05, 04:47:35](https://lobste.rs/s/c09zuq/pkgx_run_anything) - [pkgx: Run Anything](https://pkgx.sh)
@@ -9,7 +10,6 @@
 * [2023-10-04, 21:52:40](https://lobste.rs/s/dy1fd7/terminal_escapes_engineering) - [The Terminal Escapes: Engineering unexpected execution from command line interfaces](https://www.gresearch.com/blog/article/g-research-the-terminal-escapes/)
 * [2023-10-04, 21:22:02](https://lobste.rs/s/td4deo/store_ssh_keys_inside_tpm_ssh_tpm_agent) - [Store ssh keys inside the TPM: ssh-tpm-agent](https://linderud.dev/blog/store-ssh-keys-inside-the-tpm-ssh-tpm-agent/)
 * [2023-10-04, 21:14:13](https://lobste.rs/s/sir5qn/vectorvisor_easily_run_many_copies) - [VectorVisor: easily run many copies of a single-threaded WebAssembly program in parallel on GPUs](https://github.com/SamGinzburg/VectorVisor)
-* [2023-10-04, 21:10:24](https://lobste.rs/s/0emeiy/programming_language_ideas_work_don_t) - [Programming Language Ideas That Work And Don't Work (2022)](https://www.youtube.com/watch?v=y7KWGv_t-MU)
 * [2023-10-04, 20:54:32](https://lobste.rs/s/z6lpqg/strong_static_typing_hill_i_m_willing_die) - [Strong static typing, a hill I'm willing to die on](https://www.svix.com/blog/strong-typing-hill-to-die-on/)
 * [2023-10-04, 20:51:36](https://lobste.rs/s/smpvwe/freebsd_unix_wallpapers) - [FreeBSD UNIX Wallpapers](https://vermaden.wordpress.com/2023/10/04/freebsd-unix-wallpapers/)
 * [2023-10-04, 20:29:58](https://lobste.rs/s/v5pcyj/diorama_engine) - [The Diorama Engine](https://dioragame.com/devlog/?log=3)
