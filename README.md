@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-05, 15:53:07](https://lobste.rs/s/9rd3k5/oculink_as_egpu_cheap_pcie_connectivity) - [OCuLink as an eGPU and cheap PCIe connectivity solution for laptops and mobile devices](https://rkblog.dev/posts/pc-hardware/gpd-win-max2/oculink-as-egpu-solution/)
 * [2023-10-05, 15:26:35](https://lobste.rs/s/sa1b5n/writing_greylisting_filter_1000_lines_c) - [writing a greylisting filter in ~1000 lines of C](https://research.exoticsilicon.com/articles/mail_filters)
 * [2023-10-05, 14:49:58](https://lobste.rs/s/for9oa/haschor_functional_choreographic) - [HasChor: Functional Choreographic Programming for All (Functional Pearl)](https://dl.acm.org/doi/pdf/10.1145/3607849)
-* [2023-10-05, 14:22:12](https://lobste.rs/s/iynrwm/simple_testing_can_prevent_most_critical) - [Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures (2014)](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf)
 * [2023-10-05, 13:49:48](https://lobste.rs/s/nzmvso/was_async_fn_mistake) - [Was async fn a mistake?](https://seanmonstar.com/post/66832922686/was-async-fn-a-mistake)
 * [2023-10-05, 13:17:25](https://lobste.rs/s/72eejy/profiling_python_ruby_using_ebpf) - [Profiling Python and Ruby using eBPF](https://www.polarsignals.com/blog/posts/2023/10/04/profiling-python-and-ruby-with-ebpf)
 * [2023-10-05, 12:04:29](https://lobste.rs/s/ig1jev/llms_are_interpretable) - [LLMs are Interpretable](https://timkellogg.me/blog/2023/10/01/interpretability)
