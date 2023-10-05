@@ -31,12 +31,12 @@
   ],
   [
     [
-      "2023-10-05, 15:26:35",
-      "https://lobste.rs/s/sa1b5n/writing_greylisting_filter_1000_lines_c"
+      "2023-10-05, 14:22:12",
+      "https://lobste.rs/s/iynrwm/simple_testing_can_prevent_most_critical"
     ],
     [
-      "writing a greylisting filter in ~1000 lines of C",
-      "https://research.exoticsilicon.com/articles/mail_filters"
+      "Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures (2014)",
+      "https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf"
     ]
   ],
   [
