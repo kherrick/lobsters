@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-05](index.md)
 
+* [2023-10-05, 20:52:49](https://lobste.rs/s/t7hp4l/rust_1_73_0) - [Rust 1.73.0](https://blog.rust-lang.org/2023/10/05/Rust-1.73.0.html)
 * [2023-10-05, 20:39:41](https://lobste.rs/s/kz3tlq/proposal_for_encoding_json_v2) - [Proposal for encoding/json/v2](https://github.com/golang/go/discussions/63397)
 * [2023-10-05, 20:12:28](https://lobste.rs/s/okp5jk/why_http_3_is_eating_world) - [Why HTTP/3 is eating the world](https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/)
 * [2023-10-05, 19:47:37](https://lobste.rs/s/ecmsdo/python_type_hints_pyastgrep_case_study) - [Python Type Hints: pyastgrep case study](https://lukeplant.me.uk/blog/posts/python-type-hints-pyastgrep-case-study/)
