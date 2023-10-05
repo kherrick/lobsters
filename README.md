@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-05, 18:45:05](https://lobste.rs/s/f37hri/ascii_protocol_buffers_as_config_files) - [ASCII protocol buffers as config files](https://rachelbythebay.com/w/2023/10/05/config/)
+* [2023-10-05, 18:38:51](https://lobste.rs/s/r3xmsl/qualcomm_s_hexagon_dsp_now_npu) - [Qualcomm’s Hexagon DSP, and now, NPU](https://chipsandcheese.com/2023/10/04/qualcomms-hexagon-dsp-and-now-npu/)
 * [2023-10-05, 16:41:47](https://lobste.rs/s/mtj0vn/understanding_generative_ai_part_one) - [Understanding Generative AI: Part One - Tokenizer](https://scorpil.com/post/understanding-generative-ai-part-one-tokenizer/)
 * [2023-10-05, 16:29:38](https://lobste.rs/s/xmlg2b/dick_smith_s_wizzard_ry_8_bit) - [Dick Smith’s Wizzard-ry 8 (Bit)](https://www.leadedsolder.com/2023/10/03/creativision-clone-v1.html)
 * [2023-10-05, 15:53:07](https://lobste.rs/s/9rd3k5/oculink_as_egpu_cheap_pcie_connectivity) - [OCuLink as an eGPU and cheap PCIe connectivity solution for laptops and mobile devices](https://rkblog.dev/posts/pc-hardware/gpd-win-max2/oculink-as-egpu-solution/)
@@ -16,8 +18,6 @@
 * [2023-10-04, 21:52:40](https://lobste.rs/s/dy1fd7/terminal_escapes_engineering) - [The Terminal Escapes: Engineering unexpected execution from command line interfaces](https://www.gresearch.com/blog/article/g-research-the-terminal-escapes/)
 * [2023-10-04, 21:22:02](https://lobste.rs/s/td4deo/store_ssh_keys_inside_tpm_ssh_tpm_agent) - [Store ssh keys inside the TPM: ssh-tpm-agent](https://linderud.dev/blog/store-ssh-keys-inside-the-tpm-ssh-tpm-agent/)
 * [2023-10-04, 20:54:32](https://lobste.rs/s/z6lpqg/strong_static_typing_hill_i_m_willing_die) - [Strong static typing, a hill I'm willing to die on](https://www.svix.com/blog/strong-typing-hill-to-die-on/)
-* [2023-10-04, 20:51:36](https://lobste.rs/s/smpvwe/freebsd_unix_wallpapers) - [FreeBSD UNIX Wallpapers](https://vermaden.wordpress.com/2023/10/04/freebsd-unix-wallpapers/)
-* [2023-10-04, 20:29:58](https://lobste.rs/s/v5pcyj/diorama_engine) - [The Diorama Engine](https://dioragame.com/devlog/?log=3)
 * [2023-10-04, 20:10:52](https://lobste.rs/s/kcdkse/is_software_engineering_real) - [Is Software Engineering Real Engineering?](https://www.hillelwayne.com/talks/crossover-project/)
 * [2023-10-04, 19:03:38](https://lobste.rs/s/mo5vmr/ghc_plugin_for_opentelemetry_build) - [A GHC plugin for OpenTelemetry build metrics](https://www.haskellforall.com/2023/10/a-ghc-plugin-for-opentelemetry-build.html)
 * [2023-10-04, 18:01:39](https://lobste.rs/s/j4g5x0/pancake_verified_systems_programming) - [Pancake: Verified Systems Programming Made Sweeter](https://trustworthy.systems/publications/papers/Pohjola_STWSNUMSMNH_23.pdf)
