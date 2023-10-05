@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-05, 07:47:38",
+      "https://lobste.rs/s/qmm1yp/litejs_full_stack_web_framework_tiny"
+    ],
+    [
+      "litejs: Full-stack web framework in a tiny package",
+      "https://github.com/litejs/litejs"
+    ]
+  ],
+  [
+    [
       "2023-10-05, 07:06:57",
       "https://lobste.rs/s/vokylu/understanding_python_variables"
     ],
@@ -237,16 +247,6 @@
     [
       "python 3.12: what didn't make the headlines",
       "https://www.bitecode.dev/p/python-312-what-didnt-make-the-headlines"
-    ]
-  ],
-  [
-    [
-      "2023-10-03, 16:49:07",
-      "https://lobste.rs/s/zgbwcd/picat_is_my_favorite_new_toolbox_language"
-    ],
-    [
-      "Picat is my favorite new toolbox language",
-      "https://buttondown.email/hillelwayne/archive/picat-is-my-favorite-new-toolbox-language/"
     ]
   ]
 ]
