@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-05, 12:04:29](https://lobste.rs/s/ig1jev/llms_are_interpretable) - [LLMs are Interpretable](https://timkellogg.me/blog/2023/10/01/interpretability)
 * [2023-10-05, 09:04:30](https://lobste.rs/s/eye6qk/safety_vs_performance_case_study_c_c_rust) - [Safety vs Performance. A case study of C, C++ and Rust sort implementations](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/sort_safety/text.md)
-* [2023-10-05, 08:24:36](https://lobste.rs/s/5ii17q/response_mckinsey_s_developer) - [Response to McKinsey's Developer Productivity paper](https://dannorth.net/mckinsey-review/)
 * [2023-10-05, 07:47:38](https://lobste.rs/s/qmm1yp/litejs_full_stack_web_framework_tiny) - [litejs: Full-stack web framework in a tiny package](https://github.com/litejs/litejs)
 * [2023-10-05, 07:06:57](https://lobste.rs/s/vokylu/understanding_python_variables) - [Understanding Python Variables: Namespaces and Variable Scope](https://muhammadraza.me/2023/Python-Namespace/)
 * [2023-10-05, 04:47:35](https://lobste.rs/s/c09zuq/pkgx_run_anything) - [pkgx: Run Anything](https://pkgx.sh)
