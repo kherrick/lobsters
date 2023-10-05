@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-05, 16:41:47",
+      "https://lobste.rs/s/mtj0vn/understanding_generative_ai_part_one"
+    ],
+    [
+      "Understanding Generative AI: Part One - Tokenizer",
+      "https://scorpil.com/post/understanding-generative-ai-part-one-tokenizer/"
+    ]
+  ],
+  [
+    [
       "2023-10-05, 16:29:38",
       "https://lobste.rs/s/xmlg2b/dick_smith_s_wizzard_ry_8_bit"
     ],
@@ -27,16 +37,6 @@
     [
       "writing a greylisting filter in ~1000 lines of C",
       "https://research.exoticsilicon.com/articles/mail_filters"
-    ]
-  ],
-  [
-    [
-      "2023-10-05, 14:49:58",
-      "https://lobste.rs/s/for9oa/haschor_functional_choreographic"
-    ],
-    [
-      "HasChor: Functional Choreographic Programming for All (Functional Pearl)",
-      "https://dl.acm.org/doi/pdf/10.1145/3607849"
     ]
   ],
   [
