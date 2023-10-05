@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-05, 19:41:35",
+      "https://lobste.rs/s/m4uejv/cloud_costs_every_programmer_should_know"
+    ],
+    [
+      "Cloud Costs Every Programmer Should Know",
+      "https://www.vantage.sh/blog/cloud-costs-every-programmer-should-know"
+    ]
+  ],
+  [
+    [
       "2023-10-05, 19:21:41",
       "https://lobste.rs/s/no8wp8/call_for_participation_racketcon_2023"
     ],
@@ -167,16 +177,6 @@
     [
       "Forward and Backward Reasoning in Proof Assistants",
       "https://concerningquality.com/proof-assistants-direction/"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 21:52:40",
-      "https://lobste.rs/s/dy1fd7/terminal_escapes_engineering"
-    ],
-    [
-      "The Terminal Escapes: Engineering unexpected execution from command line interfaces",
-      "https://www.gresearch.com/blog/article/g-research-the-terminal-escapes/"
     ]
   ],
   [
