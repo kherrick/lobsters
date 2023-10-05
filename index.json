@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-10-05, 00:10:35",
-      "https://lobste.rs/s/9rl6dz/review_nist_light_weight_cryptography"
+      "2023-10-05, 01:20:35",
+      "https://lobste.rs/s/etnchk/divan_fast_simple_benchmarking_for_rust"
     ],
     [
-      "Review of the NIST Light-weight Cryptography Finalists",
-      "https://arxiv.org/pdf/2303.14785.pdf"
+      "Divan: Fast and Simple Benchmarking for Rust",
+      "https://nikolaivazquez.com/blog/divan/"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "VectorVisor: easily run many copies of a single-threaded WebAssembly program in parallel on GPUs",
       "https://github.com/SamGinzburg/VectorVisor"
+    ]
+  ],
+  [
+    [
+      "2023-10-04, 21:10:24",
+      "https://lobste.rs/s/0emeiy/programming_language_ideas_work_don_t"
+    ],
+    [
+      "Programming Language Ideas That Work And Don't Work (2022)",
+      "https://www.youtube.com/watch?v=y7KWGv_t-MU"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Ambient, a multiplayer game engine & platform using Rust, WASM, WebGPU",
       "https://ambient.run/blog/platform"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 10:35:26",
-      "https://lobste.rs/s/7x680k/leporello_js"
-    ],
-    [
-      "Leporello.js",
-      "https://leporello.tech/"
     ]
   ],
   [
