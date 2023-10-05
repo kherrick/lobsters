@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-05](index.md)
 
+* [2023-10-05, 16:29:38](https://lobste.rs/s/xmlg2b/dick_smith_s_wizzard_ry_8_bit) - [Dick Smith’s Wizzard-ry 8 (Bit)](https://www.leadedsolder.com/2023/10/03/creativision-clone-v1.html)
 * [2023-10-05, 15:53:07](https://lobste.rs/s/9rd3k5/oculink_as_egpu_cheap_pcie_connectivity) - [OCuLink as an eGPU and cheap PCIe connectivity solution for laptops and mobile devices](https://rkblog.dev/posts/pc-hardware/gpd-win-max2/oculink-as-egpu-solution/)
 * [2023-10-05, 15:26:35](https://lobste.rs/s/sa1b5n/writing_greylisting_filter_1000_lines_c) - [writing a greylisting filter in ~1000 lines of C](https://research.exoticsilicon.com/articles/mail_filters)
 * [2023-10-05, 14:49:58](https://lobste.rs/s/for9oa/haschor_functional_choreographic) - [HasChor: Functional Choreographic Programming for All (Functional Pearl)](https://dl.acm.org/doi/pdf/10.1145/3607849)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-05, 16:29:38](https://lobste.rs/s/xmlg2b/dick_smith_s_wizzard_ry_8_bit) - [Dick Smith’s Wizzard-ry 8 (Bit)](https://www.leadedsolder.com/2023/10/03/creativision-clone-v1.html)
 * [2023-10-05, 15:53:07](https://lobste.rs/s/9rd3k5/oculink_as_egpu_cheap_pcie_connectivity) - [OCuLink as an eGPU and cheap PCIe connectivity solution for laptops and mobile devices](https://rkblog.dev/posts/pc-hardware/gpd-win-max2/oculink-as-egpu-solution/)
 * [2023-10-05, 15:26:35](https://lobste.rs/s/sa1b5n/writing_greylisting_filter_1000_lines_c) - [writing a greylisting filter in ~1000 lines of C](https://research.exoticsilicon.com/articles/mail_filters)
 * [2023-10-05, 14:49:58](https://lobste.rs/s/for9oa/haschor_functional_choreographic) - [HasChor: Functional Choreographic Programming for All (Functional Pearl)](https://dl.acm.org/doi/pdf/10.1145/3607849)
@@ -7,7 +8,6 @@
 * [2023-10-05, 13:17:25](https://lobste.rs/s/72eejy/profiling_python_ruby_using_ebpf) - [Profiling Python and Ruby using eBPF](https://www.polarsignals.com/blog/posts/2023/10/04/profiling-python-and-ruby-with-ebpf)
 * [2023-10-05, 12:04:29](https://lobste.rs/s/ig1jev/llms_are_interpretable) - [LLMs are Interpretable](https://timkellogg.me/blog/2023/10/01/interpretability)
 * [2023-10-05, 09:04:30](https://lobste.rs/s/eye6qk/safety_vs_performance_case_study_c_c_rust) - [Safety vs Performance. A case study of C, C++ and Rust sort implementations](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/sort_safety/text.md)
-* [2023-10-05, 07:47:38](https://lobste.rs/s/qmm1yp/litejs_full_stack_web_framework_tiny) - [litejs: Full-stack web framework in a tiny package](https://github.com/litejs/litejs)
 * [2023-10-05, 07:06:57](https://lobste.rs/s/vokylu/understanding_python_variables) - [Understanding Python Variables: Namespaces and Variable Scope](https://muhammadraza.me/2023/Python-Namespace/)
 * [2023-10-05, 04:47:35](https://lobste.rs/s/c09zuq/pkgx_run_anything) - [pkgx: Run Anything](https://pkgx.sh)
 * [2023-10-05, 03:33:46](https://lobste.rs/s/2gmgod/locating_trans_healthcare_with) - [Locating Trans Healthcare with MyChoiceHRT: an interview with Alena, pt. 1](https://blog.cyberia.club/bread-z/locating-trans-healthcare-with-mychoicehrt-an-interview-with-alena-pt)
