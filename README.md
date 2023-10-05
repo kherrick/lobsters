@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-05, 23:49:45](https://lobste.rs/s/defln7/2023_linux_world_cup_provisional_ranking) - [2023 Linux World Cup Provisional Ranking](https://sadservers.com/ranking_lwc)
 * [2023-10-05, 22:35:58](https://lobste.rs/s/qjysb6/economics_programming_languages) - [The Economics of Programming Languages](https://www.youtube.com/watch?v=XZ3w_jec1v8)
 * [2023-10-05, 21:52:40](https://lobste.rs/s/tkjpaf/announcing_8_192_nist_elliptic_curves) - [Announcing the $8,192 NIST Elliptic Curves Seeds Bounty](https://words.filippo.io/dispatches/seeds-bounty/)
 * [2023-10-05, 20:52:49](https://lobste.rs/s/t7hp4l/rust_1_73_0) - [Rust 1.73.0](https://blog.rust-lang.org/2023/10/05/Rust-1.73.0.html)
@@ -8,7 +9,6 @@
 * [2023-10-05, 19:41:35](https://lobste.rs/s/m4uejv/cloud_costs_every_programmer_should_know) - [Cloud Costs Every Programmer Should Know](https://www.vantage.sh/blog/cloud-costs-every-programmer-should-know)
 * [2023-10-05, 19:00:14](https://lobste.rs/s/b3wj18/severity_high_security_problem_be) - [Severity HIGH security problem to be announced with curl 8.4.0 on Oct 11](https://github.com/curl/curl/discussions/12026)
 * [2023-10-05, 18:45:05](https://lobste.rs/s/f37hri/ascii_protocol_buffers_as_config_files) - [ASCII protocol buffers as config files](https://rachelbythebay.com/w/2023/10/05/config/)
-* [2023-10-05, 16:41:47](https://lobste.rs/s/mtj0vn/understanding_generative_ai_part_one) - [Understanding Generative AI: Part One - Tokenizer](https://scorpil.com/post/understanding-generative-ai-part-one-tokenizer/)
 * [2023-10-05, 16:29:38](https://lobste.rs/s/xmlg2b/dick_smith_s_wizzard_ry_8_bit) - [Dick Smith’s Wizzard-ry 8 (Bit)](https://www.leadedsolder.com/2023/10/03/creativision-clone-v1.html)
 * [2023-10-05, 15:53:07](https://lobste.rs/s/9rd3k5/oculink_as_egpu_cheap_pcie_connectivity) - [OCuLink as an eGPU and cheap PCIe connectivity solution for laptops and mobile devices](https://rkblog.dev/posts/pc-hardware/gpd-win-max2/oculink-as-egpu-solution/)
 * [2023-10-05, 14:22:12](https://lobste.rs/s/iynrwm/simple_testing_can_prevent_most_critical) - [Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures (2014)](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf)

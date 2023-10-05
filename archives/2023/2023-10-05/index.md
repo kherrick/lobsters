@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-05](index.md)
 
+* [2023-10-05, 23:49:45](https://lobste.rs/s/defln7/2023_linux_world_cup_provisional_ranking) - [2023 Linux World Cup Provisional Ranking](https://sadservers.com/ranking_lwc)
 * [2023-10-05, 22:35:58](https://lobste.rs/s/qjysb6/economics_programming_languages) - [The Economics of Programming Languages](https://www.youtube.com/watch?v=XZ3w_jec1v8)
 * [2023-10-05, 21:52:40](https://lobste.rs/s/tkjpaf/announcing_8_192_nist_elliptic_curves) - [Announcing the $8,192 NIST Elliptic Curves Seeds Bounty](https://words.filippo.io/dispatches/seeds-bounty/)
 * [2023-10-05, 21:23:09](https://lobste.rs/s/0pl3hi/python_3_12_0_from_supply_chain_security) - [Python 3.12.0 from a supply chain security perspective](https://sethmlarson.dev/security-developer-in-residence-weekly-report-13)
