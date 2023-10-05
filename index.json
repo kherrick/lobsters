@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-05, 07:06:57",
+      "https://lobste.rs/s/vokylu/understanding_python_variables"
+    ],
+    [
+      "Understanding Python Variables: Namespaces and Variable Scope",
+      "https://muhammadraza.me/2023/Python-Namespace/"
+    ]
+  ],
+  [
+    [
       "2023-10-05, 04:47:35",
       "https://lobste.rs/s/c09zuq/pkgx_run_anything"
     ],
@@ -67,6 +77,16 @@
     [
       "VectorVisor: easily run many copies of a single-threaded WebAssembly program in parallel on GPUs",
       "https://github.com/SamGinzburg/VectorVisor"
+    ]
+  ],
+  [
+    [
+      "2023-10-04, 21:10:24",
+      "https://lobste.rs/s/0emeiy/programming_language_ideas_work_don_t"
+    ],
+    [
+      "Programming Language Ideas That Work And Don't Work (2022)",
+      "https://www.youtube.com/watch?v=y7KWGv_t-MU"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-10-04, 15:51:48",
-      "https://lobste.rs/s/8p1myd/advantages_queues_on_logs"
-    ],
-    [
-      "The advantages of queues on logs",
-      "https://jack-vanlightly.com/blog/2023/10/2/the-advantages-of-queues-on-logs"
-    ]
-  ],
-  [
-    [
       "2023-10-04, 14:52:21",
       "https://lobste.rs/s/u9xlgv/using_farcaster_protocol_for_carmack"
     ],
@@ -207,16 +217,6 @@
     [
       "The inability to count correctly",
       "http://blog.cr.yp.to/20231003-countcorrectly.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 12:47:06",
-      "https://lobste.rs/s/d9gjpf/ambient_multiplayer_game_engine"
-    ],
-    [
-      "Ambient, a multiplayer game engine & platform using Rust, WASM, WebGPU",
-      "https://ambient.run/blog/platform"
     ]
   ],
   [
