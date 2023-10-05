@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-05, 14:49:58",
+      "https://lobste.rs/s/for9oa/haschor_functional_choreographic"
+    ],
+    [
+      "HasChor: Functional Choreographic Programming for All (Functional Pearl)",
+      "https://dl.acm.org/doi/pdf/10.1145/3607849"
+    ]
+  ],
+  [
+    [
       "2023-10-05, 14:22:12",
       "https://lobste.rs/s/iynrwm/simple_testing_can_prevent_most_critical"
     ],
@@ -207,16 +217,6 @@
     [
       "An Interactive Intro to CRDTs",
       "https://jakelazaroff.com/words/an-interactive-intro-to-crdts/"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 17:02:43",
-      "https://lobste.rs/s/wavdfn/why_you_shouldn_t_use_lesser_gpl_for_your"
-    ],
-    [
-      "Why you shouldn't use the Lesser GPL for your next library (1999)",
-      "https://www.gnu.org/licenses/why-not-lgpl.html"
     ]
   ],
   [
