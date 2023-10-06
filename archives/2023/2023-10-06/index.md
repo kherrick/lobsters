@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-06](index.md)
 
+* [2023-10-06, 16:01:01](https://lobste.rs/s/aejnbw/why_git_is_hard) - [Why Git is hard](https://roadrunnertwice.dreamwidth.org/596185.html)
 * [2023-10-06, 14:46:03](https://lobste.rs/s/6gycoi/making_hard_things_easy) - [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
 * [2023-10-06, 14:39:53](https://lobste.rs/s/wimbwn/thread_per_core_rust_async_runtimes) - [Thread-per-core in Rust async runtimes](https://without.boats/blog/thread-per-core/)
 * [2023-10-06, 13:48:10](https://lobste.rs/s/7l6kmb/event_logger_rails_rails_gem_weaving) - [event_logger_rails: Rails gem weaving the fabric of logged events into tapestries for analytic reverie](https://github.com/dickdavis/event_logger_rails)

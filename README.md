@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-06, 16:01:01](https://lobste.rs/s/aejnbw/why_git_is_hard) - [Why Git is hard](https://roadrunnertwice.dreamwidth.org/596185.html)
 * [2023-10-06, 14:46:03](https://lobste.rs/s/6gycoi/making_hard_things_easy) - [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
 * [2023-10-06, 13:48:10](https://lobste.rs/s/7l6kmb/event_logger_rails_rails_gem_weaving) - [event_logger_rails: Rails gem weaving the fabric of logged events into tapestries for analytic reverie](https://github.com/dickdavis/event_logger_rails)
 * [2023-10-06, 13:15:28](https://lobste.rs/s/mjscbx/virtual_networking_101_bridging_gap) - [Virtual networking 101: Bridging the gap to understanding TAP](https://blog.cloudflare.com/virtual-networking-101-understanding-tap/)
@@ -23,7 +24,6 @@
 * [2023-10-05, 13:17:25](https://lobste.rs/s/72eejy/profiling_python_ruby_using_ebpf) - [Profiling Python and Ruby using eBPF](https://www.polarsignals.com/blog/posts/2023/10/04/profiling-python-and-ruby-with-ebpf)
 * [2023-10-05, 04:47:35](https://lobste.rs/s/c09zuq/pkgx_run_anything) - [pkgx: Run Anything](https://pkgx.sh)
 * [2023-10-05, 03:33:46](https://lobste.rs/s/2gmgod/locating_trans_healthcare_with) - [Locating Trans Healthcare with MyChoiceHRT: an interview with Alena, pt. 1](https://blog.cyberia.club/bread-z/locating-trans-healthcare-with-mychoicehrt-an-interview-with-alena-pt)
-* [2023-10-04, 21:22:02](https://lobste.rs/s/td4deo/store_ssh_keys_inside_tpm_ssh_tpm_agent) - [Store ssh keys inside the TPM: ssh-tpm-agent](https://linderud.dev/blog/store-ssh-keys-inside-the-tpm-ssh-tpm-agent/)
 * [2023-10-04, 16:44:29](https://lobste.rs/s/pcbjzj/open_sourcing_ferrocene) - [Open Sourcing Ferrocene](https://ferrous-systems.com/blog/ferrocene-open-source/)
 
 ## [Archives](archives/index.md)
