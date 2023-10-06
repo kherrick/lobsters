@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-10-05, 20:12:28",
+      "https://lobste.rs/s/okp5jk/why_http_3_is_eating_world"
+    ],
+    [
+      "Why HTTP/3 is eating the world",
+      "https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/"
+    ]
+  ],
+  [
+    [
       "2023-10-05, 19:47:37",
       "https://lobste.rs/s/ecmsdo/python_type_hints_pyastgrep_case_study"
     ],
@@ -107,16 +117,6 @@
     [
       "OCuLink as an eGPU and cheap PCIe connectivity solution for laptops and mobile devices",
       "https://rkblog.dev/posts/pc-hardware/gpd-win-max2/oculink-as-egpu-solution/"
-    ]
-  ],
-  [
-    [
-      "2023-10-05, 15:26:35",
-      "https://lobste.rs/s/sa1b5n/writing_greylisting_filter_1000_lines_c"
-    ],
-    [
-      "writing a greylisting filter in ~1000 lines of C",
-      "https://research.exoticsilicon.com/articles/mail_filters"
     ]
   ],
   [
