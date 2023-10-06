@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-10-05, 23:49:45",
+      "https://lobste.rs/s/defln7/2023_linux_world_cup_provisional_ranking"
+    ],
+    [
+      "2023 Linux World Cup Provisional Ranking",
+      "https://sadservers.com/ranking_lwc"
+    ]
+  ],
+  [
+    [
       "2023-10-05, 22:35:58",
       "https://lobste.rs/s/qjysb6/economics_programming_languages"
     ],
@@ -177,16 +187,6 @@
     [
       "Safety vs Performance. A case study of C, C++ and Rust sort implementations",
       "https://github.com/Voultapher/sort-research-rs/blob/main/writeup/sort_safety/text.md"
-    ]
-  ],
-  [
-    [
-      "2023-10-05, 07:06:57",
-      "https://lobste.rs/s/vokylu/understanding_python_variables"
-    ],
-    [
-      "Understanding Python Variables: Namespaces and Variable Scope",
-      "https://muhammadraza.me/2023/Python-Namespace/"
     ]
   ],
   [
