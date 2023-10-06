@@ -4,7 +4,7 @@
 * [2023-10-06, 19:34:03](https://lobste.rs/s/yhgpea/fully_documented_annotated_source_code) - [Fully documented and annotated source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
 * [2023-10-06, 18:19:30](https://lobste.rs/s/5benrr/testing_distributed_systems_for) - [Testing Distributed Systems for Linearizability (2017)](https://anishathalye.com/testing-distributed-systems-for-linearizability/)
 * [2023-10-06, 17:25:36](https://lobste.rs/s/rj4wpk/meltdown_us_meltdown_3a_remaining) - [Meltdown-US / Meltdown 3a Remaining Leakage](https://marc.info/?l=oss-security&m=169658685531730&w=2)
-* [2023-10-06, 16:39:25](https://lobste.rs/s/3sel2n/polycam_gaussian_splatting) - [Polycam | Gaussian Splatting](https://poly.cam/gaussian-splatting)
+* [2023-10-06, 16:39:25](https://lobste.rs/s/3sel2n/gaussian_splatting) - [Gaussian Splatting](https://poly.cam/gaussian-splatting)
 * [2023-10-06, 16:01:01](https://lobste.rs/s/aejnbw/why_git_is_hard) - [Why Git is hard](https://roadrunnertwice.dreamwidth.org/596185.html)
 * [2023-10-06, 14:46:03](https://lobste.rs/s/6gycoi/making_hard_things_easy) - [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
 * [2023-10-06, 13:48:10](https://lobste.rs/s/7l6kmb/event_logger_rails_rails_gem_weaving) - [event_logger_rails: Rails gem weaving the fabric of logged events into tapestries for analytic reverie](https://github.com/dickdavis/event_logger_rails)
