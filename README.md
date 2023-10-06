@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-10-05, 23:49:45](https://lobste.rs/s/defln7/2023_linux_world_cup_provisional_ranking) - [2023 Linux World Cup Provisional Ranking](https://sadservers.com/ranking_lwc)
 * [2023-10-05, 22:35:58](https://lobste.rs/s/qjysb6/economics_programming_languages) - [The Economics of Programming Languages](https://www.youtube.com/watch?v=XZ3w_jec1v8)
 * [2023-10-05, 21:52:40](https://lobste.rs/s/tkjpaf/announcing_8_192_nist_elliptic_curves) - [Announcing the $8,192 NIST Elliptic Curves Seeds Bounty](https://words.filippo.io/dispatches/seeds-bounty/)
 * [2023-10-05, 20:52:49](https://lobste.rs/s/t7hp4l/rust_1_73_0) - [Rust 1.73.0](https://blog.rust-lang.org/2023/10/05/Rust-1.73.0.html)
 * [2023-10-05, 20:39:41](https://lobste.rs/s/kz3tlq/proposal_for_encoding_json_v2) - [Proposal for encoding/json/v2](https://github.com/golang/go/discussions/63397)
+* [2023-10-05, 20:12:28](https://lobste.rs/s/okp5jk/why_http_3_is_eating_world) - [Why HTTP/3 is eating the world](https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/)
 * [2023-10-05, 19:47:37](https://lobste.rs/s/ecmsdo/python_type_hints_pyastgrep_case_study) - [Python Type Hints: pyastgrep case study](https://lukeplant.me.uk/blog/posts/python-type-hints-pyastgrep-case-study/)
 * [2023-10-05, 19:41:35](https://lobste.rs/s/m4uejv/cloud_costs_every_programmer_should_know) - [Cloud Costs Every Programmer Should Know](https://www.vantage.sh/blog/cloud-costs-every-programmer-should-know)
 * [2023-10-05, 19:00:14](https://lobste.rs/s/b3wj18/severity_high_security_problem_be) - [Severity HIGH security problem to be announced with curl 8.4.0 on Oct 11](https://github.com/curl/curl/discussions/12026)
