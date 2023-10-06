@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-06, 18:19:30",
+      "https://lobste.rs/s/5benrr/testing_distributed_systems_for"
+    ],
+    [
+      "Testing Distributed Systems for Linearizability (2017)",
+      "https://anishathalye.com/testing-distributed-systems-for-linearizability/"
+    ]
+  ],
+  [
+    [
       "2023-10-06, 17:25:36",
       "https://lobste.rs/s/rj4wpk/meltdown_us_meltdown_3a_remaining"
     ],
@@ -197,16 +207,6 @@
     [
       "ASCII protocol buffers as config files",
       "https://rachelbythebay.com/w/2023/10/05/config/"
-    ]
-  ],
-  [
-    [
-      "2023-10-05, 16:29:38",
-      "https://lobste.rs/s/xmlg2b/dick_smith_s_wizzard_ry_8_bit"
-    ],
-    [
-      "Dick Smith’s Wizzard-ry 8 (Bit)",
-      "https://www.leadedsolder.com/2023/10/03/creativision-clone-v1.html"
     ]
   ],
   [
