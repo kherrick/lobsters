@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-06, 06:18:09](https://lobste.rs/s/edejnw/macos_dirtynib_vulnerability) - [MacOS \"DirtyNIB\" Vulnerability](https://blog.xpnsec.com/dirtynib/)
+* [2023-10-06, 06:17:10](https://lobste.rs/s/mfo49v/what_is_git_directory) - [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
 * [2023-10-05, 22:35:58](https://lobste.rs/s/qjysb6/economics_programming_languages) - [The Economics of Programming Languages](https://www.youtube.com/watch?v=XZ3w_jec1v8)
 * [2023-10-05, 21:52:40](https://lobste.rs/s/tkjpaf/announcing_8_192_nist_elliptic_curves) - [Announcing the $8,192 NIST Elliptic Curves Seeds Bounty](https://words.filippo.io/dispatches/seeds-bounty/)
 * [2023-10-05, 20:52:49](https://lobste.rs/s/t7hp4l/rust_1_73_0) - [Rust 1.73.0](https://blog.rust-lang.org/2023/10/05/Rust-1.73.0.html)
@@ -9,7 +11,6 @@
 * [2023-10-05, 19:41:35](https://lobste.rs/s/m4uejv/cloud_costs_every_programmer_should_know) - [Cloud Costs Every Programmer Should Know](https://www.vantage.sh/blog/cloud-costs-every-programmer-should-know)
 * [2023-10-05, 19:00:14](https://lobste.rs/s/b3wj18/severity_high_security_problem_be) - [Severity HIGH security problem to be announced with curl 8.4.0 on Oct 11](https://github.com/curl/curl/discussions/12026)
 * [2023-10-05, 18:45:05](https://lobste.rs/s/f37hri/ascii_protocol_buffers_as_config_files) - [ASCII protocol buffers as config files](https://rachelbythebay.com/w/2023/10/05/config/)
-* [2023-10-05, 16:41:47](https://lobste.rs/s/mtj0vn/understanding_generative_ai_part_one) - [Understanding Generative AI: Part One - Tokenizer](https://scorpil.com/post/understanding-generative-ai-part-one-tokenizer/)
 * [2023-10-05, 16:29:38](https://lobste.rs/s/xmlg2b/dick_smith_s_wizzard_ry_8_bit) - [Dick Smith’s Wizzard-ry 8 (Bit)](https://www.leadedsolder.com/2023/10/03/creativision-clone-v1.html)
 * [2023-10-05, 15:53:07](https://lobste.rs/s/9rd3k5/oculink_as_egpu_cheap_pcie_connectivity) - [OCuLink as an eGPU and cheap PCIe connectivity solution for laptops and mobile devices](https://rkblog.dev/posts/pc-hardware/gpd-win-max2/oculink-as-egpu-solution/)
 * [2023-10-05, 15:26:35](https://lobste.rs/s/sa1b5n/writing_greylisting_filter_1000_lines_c) - [writing a greylisting filter in ~1000 lines of C](https://research.exoticsilicon.com/articles/mail_filters)
@@ -24,7 +25,6 @@
 * [2023-10-04, 21:22:02](https://lobste.rs/s/td4deo/store_ssh_keys_inside_tpm_ssh_tpm_agent) - [Store ssh keys inside the TPM: ssh-tpm-agent](https://linderud.dev/blog/store-ssh-keys-inside-the-tpm-ssh-tpm-agent/)
 * [2023-10-04, 20:54:32](https://lobste.rs/s/z6lpqg/strong_static_typing_hill_i_m_willing_die) - [Strong static typing, a hill I'm willing to die on](https://www.svix.com/blog/strong-typing-hill-to-die-on/)
 * [2023-10-04, 16:44:29](https://lobste.rs/s/pcbjzj/open_sourcing_ferrocene) - [Open Sourcing Ferrocene](https://ferrous-systems.com/blog/ferrocene-open-source/)
-* [2023-10-04, 13:36:19](https://lobste.rs/s/o1zdzf/inability_count_correctly) - [The inability to count correctly](http://blog.cr.yp.to/20231003-countcorrectly.html)
 
 ## [Archives](archives/index.md)
 
