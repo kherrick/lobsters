@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-06, 13:48:10](https://lobste.rs/s/7l6kmb/event_logger_rails_rails_gem_weaving) - [event_logger_rails: Rails gem weaving the fabric of logged events into tapestries for analytic reverie](https://github.com/dickdavis/event_logger_rails)
 * [2023-10-06, 13:15:28](https://lobste.rs/s/mjscbx/virtual_networking_101_bridging_gap) - [Virtual networking 101: Bridging the gap to understanding TAP](https://blog.cloudflare.com/virtual-networking-101-understanding-tap/)
 * [2023-10-06, 12:08:59](https://lobste.rs/s/9uo0yd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/9uo0yd/what_are_you_doing_this_weekend)
 * [2023-10-06, 11:10:50](https://lobste.rs/s/4baxc1/go_database_driver_overhead_on_insert) - [Go database driver overhead on insert-heavy workloads](https://notes.eatonphil.com/2023-10-05-go-database-sql-overhead-on-insert-heavy-workloads.html)
@@ -22,7 +23,6 @@
 * [2023-10-05, 09:04:30](https://lobste.rs/s/eye6qk/safety_vs_performance_case_study_c_c_rust) - [Safety vs Performance. A case study of C, C++ and Rust sort implementations](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/sort_safety/text.md)
 * [2023-10-05, 04:47:35](https://lobste.rs/s/c09zuq/pkgx_run_anything) - [pkgx: Run Anything](https://pkgx.sh)
 * [2023-10-05, 03:33:46](https://lobste.rs/s/2gmgod/locating_trans_healthcare_with) - [Locating Trans Healthcare with MyChoiceHRT: an interview with Alena, pt. 1](https://blog.cyberia.club/bread-z/locating-trans-healthcare-with-mychoicehrt-an-interview-with-alena-pt)
-* [2023-10-05, 01:20:35](https://lobste.rs/s/etnchk/divan_fast_simple_benchmarking_for_rust) - [Divan: Fast and Simple Benchmarking for Rust](https://nikolaivazquez.com/blog/divan/)
 * [2023-10-04, 21:22:02](https://lobste.rs/s/td4deo/store_ssh_keys_inside_tpm_ssh_tpm_agent) - [Store ssh keys inside the TPM: ssh-tpm-agent](https://linderud.dev/blog/store-ssh-keys-inside-the-tpm-ssh-tpm-agent/)
 * [2023-10-04, 16:44:29](https://lobste.rs/s/pcbjzj/open_sourcing_ferrocene) - [Open Sourcing Ferrocene](https://ferrous-systems.com/blog/ferrocene-open-source/)
 
