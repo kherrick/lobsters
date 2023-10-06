@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-06](index.md)
 
+* [2023-10-06, 20:30:25](https://lobste.rs/s/gvpdjx/so_we_shipped_ai_product_did_it_work) - [So We Shipped an AI Product. Did it Work?](https://www.honeycomb.io/blog/we-shipped-ai-product)
 * [2023-10-06, 19:34:03](https://lobste.rs/s/yhgpea/fully_documented_annotated_source_code) - [Fully documented and annotated source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
 * [2023-10-06, 18:19:30](https://lobste.rs/s/5benrr/testing_distributed_systems_for) - [Testing Distributed Systems for Linearizability (2017)](https://anishathalye.com/testing-distributed-systems-for-linearizability/)
 * [2023-10-06, 17:25:36](https://lobste.rs/s/rj4wpk/meltdown_us_meltdown_3a_remaining) - [Meltdown-US / Meltdown 3a Remaining Leakage](https://marc.info/?l=oss-security&m=169658685531730&w=2)
