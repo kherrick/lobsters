@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-06, 19:34:03](https://lobste.rs/s/yhgpea/fully_documented_annotated_source_code) - [Fully documented and annotated source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
 * [2023-10-06, 18:19:30](https://lobste.rs/s/5benrr/testing_distributed_systems_for) - [Testing Distributed Systems for Linearizability (2017)](https://anishathalye.com/testing-distributed-systems-for-linearizability/)
 * [2023-10-06, 17:25:36](https://lobste.rs/s/rj4wpk/meltdown_us_meltdown_3a_remaining) - [Meltdown-US / Meltdown 3a Remaining Leakage](https://marc.info/?l=oss-security&m=169658685531730&w=2)
 * [2023-10-06, 16:39:25](https://lobste.rs/s/3sel2n/polycam_gaussian_splatting) - [Polycam | Gaussian Splatting](https://poly.cam/gaussian-splatting)
@@ -23,7 +24,6 @@
 * [2023-10-05, 18:45:05](https://lobste.rs/s/f37hri/ascii_protocol_buffers_as_config_files) - [ASCII protocol buffers as config files](https://rachelbythebay.com/w/2023/10/05/config/)
 * [2023-10-05, 13:49:48](https://lobste.rs/s/nzmvso/was_async_fn_mistake) - [Was async fn a mistake?](https://seanmonstar.com/post/66832922686/was-async-fn-a-mistake)
 * [2023-10-05, 13:17:25](https://lobste.rs/s/72eejy/profiling_python_ruby_using_ebpf) - [Profiling Python and Ruby using eBPF](https://www.polarsignals.com/blog/posts/2023/10/04/profiling-python-and-ruby-with-ebpf)
-* [2023-10-05, 03:33:46](https://lobste.rs/s/2gmgod/locating_trans_healthcare_with) - [Locating Trans Healthcare with MyChoiceHRT: an interview with Alena, pt. 1](https://blog.cyberia.club/bread-z/locating-trans-healthcare-with-mychoicehrt-an-interview-with-alena-pt)
 * [2023-10-04, 16:44:29](https://lobste.rs/s/pcbjzj/open_sourcing_ferrocene) - [Open Sourcing Ferrocene](https://ferrous-systems.com/blog/ferrocene-open-source/)
 
 ## [Archives](archives/index.md)
