@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-06, 17:25:36](https://lobste.rs/s/rj4wpk/meltdown_us_meltdown_3a_remaining) - [Meltdown-US / Meltdown 3a Remaining Leakage](https://marc.info/?l=oss-security&m=169658685531730&w=2)
 * [2023-10-06, 16:39:25](https://lobste.rs/s/3sel2n/polycam_gaussian_splatting) - [Polycam | Gaussian Splatting](https://poly.cam/gaussian-splatting)
 * [2023-10-06, 16:01:01](https://lobste.rs/s/aejnbw/why_git_is_hard) - [Why Git is hard](https://roadrunnertwice.dreamwidth.org/596185.html)
 * [2023-10-06, 14:46:03](https://lobste.rs/s/6gycoi/making_hard_things_easy) - [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
@@ -20,7 +21,6 @@
 * [2023-10-05, 19:00:14](https://lobste.rs/s/b3wj18/severity_high_security_problem_be) - [Severity HIGH security problem to be announced with curl 8.4.0 on Oct 11](https://github.com/curl/curl/discussions/12026)
 * [2023-10-05, 18:45:05](https://lobste.rs/s/f37hri/ascii_protocol_buffers_as_config_files) - [ASCII protocol buffers as config files](https://rachelbythebay.com/w/2023/10/05/config/)
 * [2023-10-05, 16:29:38](https://lobste.rs/s/xmlg2b/dick_smith_s_wizzard_ry_8_bit) - [Dick Smith’s Wizzard-ry 8 (Bit)](https://www.leadedsolder.com/2023/10/03/creativision-clone-v1.html)
-* [2023-10-05, 15:26:35](https://lobste.rs/s/sa1b5n/writing_greylisting_filter_1000_lines_c) - [writing a greylisting filter in ~1000 lines of C](https://research.exoticsilicon.com/articles/mail_filters)
 * [2023-10-05, 13:49:48](https://lobste.rs/s/nzmvso/was_async_fn_mistake) - [Was async fn a mistake?](https://seanmonstar.com/post/66832922686/was-async-fn-a-mistake)
 * [2023-10-05, 13:17:25](https://lobste.rs/s/72eejy/profiling_python_ruby_using_ebpf) - [Profiling Python and Ruby using eBPF](https://www.polarsignals.com/blog/posts/2023/10/04/profiling-python-and-ruby-with-ebpf)
 * [2023-10-05, 03:33:46](https://lobste.rs/s/2gmgod/locating_trans_healthcare_with) - [Locating Trans Healthcare with MyChoiceHRT: an interview with Alena, pt. 1](https://blog.cyberia.club/bread-z/locating-trans-healthcare-with-mychoicehrt-an-interview-with-alena-pt)
