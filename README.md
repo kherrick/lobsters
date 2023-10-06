@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-06, 16:39:25](https://lobste.rs/s/3sel2n/polycam_gaussian_splatting) - [Polycam | Gaussian Splatting](https://poly.cam/gaussian-splatting)
 * [2023-10-06, 16:01:01](https://lobste.rs/s/aejnbw/why_git_is_hard) - [Why Git is hard](https://roadrunnertwice.dreamwidth.org/596185.html)
 * [2023-10-06, 14:46:03](https://lobste.rs/s/6gycoi/making_hard_things_easy) - [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
 * [2023-10-06, 13:48:10](https://lobste.rs/s/7l6kmb/event_logger_rails_rails_gem_weaving) - [event_logger_rails: Rails gem weaving the fabric of logged events into tapestries for analytic reverie](https://github.com/dickdavis/event_logger_rails)
@@ -22,7 +23,6 @@
 * [2023-10-05, 15:26:35](https://lobste.rs/s/sa1b5n/writing_greylisting_filter_1000_lines_c) - [writing a greylisting filter in ~1000 lines of C](https://research.exoticsilicon.com/articles/mail_filters)
 * [2023-10-05, 13:49:48](https://lobste.rs/s/nzmvso/was_async_fn_mistake) - [Was async fn a mistake?](https://seanmonstar.com/post/66832922686/was-async-fn-a-mistake)
 * [2023-10-05, 13:17:25](https://lobste.rs/s/72eejy/profiling_python_ruby_using_ebpf) - [Profiling Python and Ruby using eBPF](https://www.polarsignals.com/blog/posts/2023/10/04/profiling-python-and-ruby-with-ebpf)
-* [2023-10-05, 04:47:35](https://lobste.rs/s/c09zuq/pkgx_run_anything) - [pkgx: Run Anything](https://pkgx.sh)
 * [2023-10-05, 03:33:46](https://lobste.rs/s/2gmgod/locating_trans_healthcare_with) - [Locating Trans Healthcare with MyChoiceHRT: an interview with Alena, pt. 1](https://blog.cyberia.club/bread-z/locating-trans-healthcare-with-mychoicehrt-an-interview-with-alena-pt)
 * [2023-10-04, 16:44:29](https://lobste.rs/s/pcbjzj/open_sourcing_ferrocene) - [Open Sourcing Ferrocene](https://ferrous-systems.com/blog/ferrocene-open-source/)
 
