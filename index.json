@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-07, 01:47:11",
+      "https://lobste.rs/s/wrvsfc/fine_grained_language_composition_2016"
+    ],
+    [
+      "Fine-grained Language Composition (2016)",
+      "https://tratt.net/laurie/blog/2016/fine_grained_language_composition.html#14462460"
+    ]
+  ],
+  [
+    [
       "2023-10-07, 00:07:42",
       "https://lobste.rs/s/yawckp/bus_sniffing_ibm_5150"
     ],
@@ -237,16 +247,6 @@
     [
       "Profiling Python and Ruby using eBPF",
       "https://www.polarsignals.com/blog/posts/2023/10/04/profiling-python-and-ruby-with-ebpf"
-    ]
-  ],
-  [
-    [
-      "2023-10-04, 16:44:29",
-      "https://lobste.rs/s/pcbjzj/open_sourcing_ferrocene"
-    ],
-    [
-      "Open Sourcing Ferrocene",
-      "https://ferrous-systems.com/blog/ferrocene-open-source/"
     ]
   ]
 ]
