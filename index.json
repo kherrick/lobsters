@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-07, 15:51:40",
+      "https://lobste.rs/s/bigvil/true_basic_by_kemeny_kurtz"
+    ],
+    [
+      "True BASIC by Kemeny and Kurtz",
+      "https://www.truebasic.com/"
+    ]
+  ],
+  [
+    [
       "2023-10-07, 13:48:57",
       "https://lobste.rs/s/kgr1nq/api_best_practices_foundations_robust"
     ],
@@ -217,16 +227,6 @@
     [
       "Announcing the $8,192 NIST Elliptic Curves Seeds Bounty",
       "https://words.filippo.io/dispatches/seeds-bounty/"
-    ]
-  ],
-  [
-    [
-      "2023-10-05, 20:52:49",
-      "https://lobste.rs/s/t7hp4l/rust_1_73_0"
-    ],
-    [
-      "Rust 1.73.0",
-      "https://blog.rust-lang.org/2023/10/05/Rust-1.73.0.html"
     ]
   ],
   [
