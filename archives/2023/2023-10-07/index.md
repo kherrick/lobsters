@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-07](index.md)
 
+* [2023-10-07, 20:26:08](https://lobste.rs/s/ookvex/alternative_frontend_for_haskell) - [An alternative frontend for Haskell?](https://gilmi.me/blog/post/2023/10/05/haskell-alternative-frontend)
 * [2023-10-07, 19:57:01](https://lobste.rs/s/pt1csz/analyzing_ooms_intellij_with_bazel) - [Analyzing OOMs in IntelliJ with Bazel](https://medium.com/snowflake/analyzing-ooms-in-intellij-with-bazel-bc96818ac5a9)
 * [2023-10-07, 18:55:22](https://lobste.rs/s/spfmmd/more_mature_take_on_stateless_terraform) - [A more mature take on stateless Terraform](https://www.bejarano.io/terraform-stateless-critique/)
 * [2023-10-07, 17:47:32](https://lobste.rs/s/yfxqq3/planktoscope_open_affordable) - [PlanktoScope: Open and Affordable Quantitative Imaging Platform](https://github.com/PlanktoScope/PlanktoScope)

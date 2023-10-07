@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-07, 20:26:08](https://lobste.rs/s/ookvex/alternative_frontend_for_haskell) - [An alternative frontend for Haskell?](https://gilmi.me/blog/post/2023/10/05/haskell-alternative-frontend)
 * [2023-10-07, 19:57:01](https://lobste.rs/s/pt1csz/analyzing_ooms_intellij_with_bazel) - [Analyzing OOMs in IntelliJ with Bazel](https://medium.com/snowflake/analyzing-ooms-in-intellij-with-bazel-bc96818ac5a9)
 * [2023-10-07, 18:55:22](https://lobste.rs/s/spfmmd/more_mature_take_on_stateless_terraform) - [A more mature take on stateless Terraform](https://www.bejarano.io/terraform-stateless-critique/)
 * [2023-10-07, 17:47:32](https://lobste.rs/s/yfxqq3/planktoscope_open_affordable) - [PlanktoScope: Open and Affordable Quantitative Imaging Platform](https://github.com/PlanktoScope/PlanktoScope)
@@ -16,7 +17,6 @@
 * [2023-10-07, 02:59:59](https://lobste.rs/s/bcdt4c/why_kafka_is_new_data_lake) - [Why Kafka Is the New Data Lake?](https://medium.com/@RisingWave_Engineering/why-kafka-is-the-new-data-lake-dd6c1b6048e)
 * [2023-10-07, 01:47:11](https://lobste.rs/s/wrvsfc/fine_grained_language_composition_2016) - [Fine-grained Language Composition (2016)](https://tratt.net/laurie/blog/2016/fine_grained_language_composition.html#14462460)
 * [2023-10-06, 19:34:03](https://lobste.rs/s/yhgpea/fully_documented_annotated_source_code) - [Fully documented and annotated source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
-* [2023-10-06, 18:19:30](https://lobste.rs/s/5benrr/testing_distributed_systems_for) - [Testing Distributed Systems for Linearizability (2017)](https://anishathalye.com/testing-distributed-systems-for-linearizability/)
 * [2023-10-06, 16:01:01](https://lobste.rs/s/aejnbw/why_git_is_hard) - [Why Git is hard](https://roadrunnertwice.dreamwidth.org/596185.html)
 * [2023-10-06, 14:46:03](https://lobste.rs/s/6gycoi/making_hard_things_easy) - [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
 * [2023-10-06, 13:15:28](https://lobste.rs/s/mjscbx/virtual_networking_101_bridging_gap) - [Virtual networking 101: Bridging the gap to understanding TAP](https://blog.cloudflare.com/virtual-networking-101-understanding-tap/)
