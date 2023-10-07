@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-07, 06:13:10",
+      "https://lobste.rs/s/endmpv/polonius_update_inside_rust_blog"
+    ],
+    [
+      "Polonius update | Inside Rust Blog",
+      "https://blog.rust-lang.org/inside-rust/2023/10/06/polonius-update.html"
+    ]
+  ],
+  [
+    [
       "2023-10-07, 05:54:11",
       "https://lobste.rs/s/cko0ur/web_server_hello_world_benchmark_go_vs"
     ],
@@ -197,16 +207,6 @@
     [
       "Rust 1.73.0",
       "https://blog.rust-lang.org/2023/10/05/Rust-1.73.0.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-05, 20:39:41",
-      "https://lobste.rs/s/kz3tlq/proposal_for_encoding_json_v2"
-    ],
-    [
-      "Proposal for encoding/json/v2",
-      "https://github.com/golang/go/discussions/63397"
     ]
   ],
   [
