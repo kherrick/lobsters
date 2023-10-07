@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-07, 17:12:14](https://lobste.rs/s/a6hweg/using_awk_r_parse_25tb) - [Using AWK and R to parse 25tb](https://livefreeordichotomize.com/posts/2019-06-04-using-awk-and-r-to-parse-25tb/index.html)
 * [2023-10-07, 16:40:29](https://lobste.rs/s/ozaiyz/breakelse_when_compiler_developers_get) - [breakelse: When Compiler Developers Get Bored](https://neat-lang.github.io/breakelse.html)
 * [2023-10-07, 16:23:43](https://lobste.rs/s/2oapwq/zilog_s_forgotten_operating_system_z80) - [Zilog’s Forgotten Operating System: Z80-RIO](https://hackaday.com/2023/10/06/zilogs-forgotten-operating-system-z80-rio/)
 * [2023-10-07, 15:51:40](https://lobste.rs/s/bigvil/true_basic_by_kemeny_kurtz) - [True BASIC by Kemeny and Kurtz](https://www.truebasic.com/)
@@ -17,7 +18,6 @@
 * [2023-10-06, 17:25:36](https://lobste.rs/s/rj4wpk/meltdown_us_meltdown_3a_remaining) - [Meltdown-US / Meltdown 3a Remaining Leakage](https://marc.info/?l=oss-security&m=169658685531730&w=2)
 * [2023-10-06, 16:01:01](https://lobste.rs/s/aejnbw/why_git_is_hard) - [Why Git is hard](https://roadrunnertwice.dreamwidth.org/596185.html)
 * [2023-10-06, 14:46:03](https://lobste.rs/s/6gycoi/making_hard_things_easy) - [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
-* [2023-10-06, 13:48:10](https://lobste.rs/s/7l6kmb/event_logger_rails_rails_gem_weaving) - [event_logger_rails: Rails gem weaving the fabric of logged events into tapestries for analytic reverie](https://github.com/dickdavis/event_logger_rails)
 * [2023-10-06, 13:15:28](https://lobste.rs/s/mjscbx/virtual_networking_101_bridging_gap) - [Virtual networking 101: Bridging the gap to understanding TAP](https://blog.cloudflare.com/virtual-networking-101-understanding-tap/)
 * [2023-10-06, 12:08:59](https://lobste.rs/s/9uo0yd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/9uo0yd/what_are_you_doing_this_weekend)
 * [2023-10-06, 11:10:50](https://lobste.rs/s/4baxc1/go_database_driver_overhead_on_insert) - [Go database driver overhead on insert-heavy workloads](https://notes.eatonphil.com/2023-10-05-go-database-sql-overhead-on-insert-heavy-workloads.html)
