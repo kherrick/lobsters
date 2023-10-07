@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-07, 19:57:01",
+      "https://lobste.rs/s/pt1csz/analyzing_ooms_intellij_with_bazel"
+    ],
+    [
+      "Analyzing OOMs in IntelliJ with Bazel",
+      "https://medium.com/snowflake/analyzing-ooms-in-intellij-with-bazel-bc96818ac5a9"
+    ]
+  ],
+  [
+    [
       "2023-10-07, 18:55:22",
       "https://lobste.rs/s/spfmmd/more_mature_take_on_stateless_terraform"
     ],
@@ -137,16 +147,6 @@
     [
       "Fine-grained Language Composition (2016)",
       "https://tratt.net/laurie/blog/2016/fine_grained_language_composition.html#14462460"
-    ]
-  ],
-  [
-    [
-      "2023-10-07, 00:07:42",
-      "https://lobste.rs/s/yawckp/bus_sniffing_ibm_5150"
-    ],
-    [
-      "Bus Sniffing the IBM 5150",
-      "https://martypc.blogspot.com/2023/10/bus-sniffing-ibm-5150.html"
     ]
   ],
   [
