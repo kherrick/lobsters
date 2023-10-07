@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-10-07](index.md)
 
+* [2023-10-07, 01:47:11](https://lobste.rs/s/wrvsfc/fine_grained_language_composition_2016) - [Fine-grained Language Composition (2016)](https://tratt.net/laurie/blog/2016/fine_grained_language_composition.html#14462460)
 * [2023-10-07, 00:07:42](https://lobste.rs/s/yawckp/bus_sniffing_ibm_5150) - [Bus Sniffing the IBM 5150](https://martypc.blogspot.com/2023/10/bus-sniffing-ibm-5150.html)
