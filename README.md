@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-07, 16:40:29](https://lobste.rs/s/ozaiyz/breakelse_when_compiler_developers_get) - [breakelse: When Compiler Developers Get Bored](https://neat-lang.github.io/breakelse.html)
 * [2023-10-07, 16:23:43](https://lobste.rs/s/2oapwq/zilog_s_forgotten_operating_system_z80) - [Zilog’s Forgotten Operating System: Z80-RIO](https://hackaday.com/2023/10/06/zilogs-forgotten-operating-system-z80-rio/)
 * [2023-10-07, 15:51:40](https://lobste.rs/s/bigvil/true_basic_by_kemeny_kurtz) - [True BASIC by Kemeny and Kurtz](https://www.truebasic.com/)
 * [2023-10-07, 13:48:57](https://lobste.rs/s/kgr1nq/api_best_practices_foundations_robust) - [API Best Practices: Foundations of Robust and Efficient APIs](https://medium.com/@atakanserbes/api-best-practices-d27876b1a1bd)
@@ -23,7 +24,6 @@
 * [2023-10-06, 06:18:09](https://lobste.rs/s/edejnw/macos_dirtynib_vulnerability) - [MacOS \"DirtyNIB\" Vulnerability](https://blog.xpnsec.com/dirtynib/)
 * [2023-10-06, 06:17:10](https://lobste.rs/s/mfo49v/what_is_git_directory) - [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
 * [2023-10-05, 22:35:58](https://lobste.rs/s/qjysb6/economics_programming_languages) - [The Economics of Programming Languages](https://www.youtube.com/watch?v=XZ3w_jec1v8)
-* [2023-10-05, 21:52:40](https://lobste.rs/s/tkjpaf/announcing_8_192_nist_elliptic_curves) - [Announcing the $8,192 NIST Elliptic Curves Seeds Bounty](https://words.filippo.io/dispatches/seeds-bounty/)
 * [2023-10-05, 18:45:05](https://lobste.rs/s/f37hri/ascii_protocol_buffers_as_config_files) - [ASCII protocol buffers as config files](https://rachelbythebay.com/w/2023/10/05/config/)
 
 ## [Archives](archives/index.md)
