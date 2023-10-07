@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-07, 17:47:32](https://lobste.rs/s/yfxqq3/planktoscope_open_affordable) - [PlanktoScope: Open and Affordable Quantitative Imaging Platform](https://github.com/PlanktoScope/PlanktoScope)
 * [2023-10-07, 17:12:14](https://lobste.rs/s/a6hweg/using_awk_r_parse_25tb) - [Using AWK and R to parse 25tb](https://livefreeordichotomize.com/posts/2019-06-04-using-awk-and-r-to-parse-25tb/index.html)
 * [2023-10-07, 16:40:29](https://lobste.rs/s/ozaiyz/breakelse_when_compiler_developers_get) - [breakelse: When Compiler Developers Get Bored](https://neat-lang.github.io/breakelse.html)
 * [2023-10-07, 16:23:43](https://lobste.rs/s/2oapwq/zilog_s_forgotten_operating_system_z80) - [Zilog’s Forgotten Operating System: Z80-RIO](https://hackaday.com/2023/10/06/zilogs-forgotten-operating-system-z80-rio/)
@@ -23,7 +24,6 @@
 * [2023-10-06, 11:10:50](https://lobste.rs/s/4baxc1/go_database_driver_overhead_on_insert) - [Go database driver overhead on insert-heavy workloads](https://notes.eatonphil.com/2023-10-05-go-database-sql-overhead-on-insert-heavy-workloads.html)
 * [2023-10-06, 06:18:09](https://lobste.rs/s/edejnw/macos_dirtynib_vulnerability) - [MacOS \"DirtyNIB\" Vulnerability](https://blog.xpnsec.com/dirtynib/)
 * [2023-10-06, 06:17:10](https://lobste.rs/s/mfo49v/what_is_git_directory) - [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
-* [2023-10-05, 22:35:58](https://lobste.rs/s/qjysb6/economics_programming_languages) - [The Economics of Programming Languages](https://www.youtube.com/watch?v=XZ3w_jec1v8)
 * [2023-10-05, 18:45:05](https://lobste.rs/s/f37hri/ascii_protocol_buffers_as_config_files) - [ASCII protocol buffers as config files](https://rachelbythebay.com/w/2023/10/05/config/)
 
 ## [Archives](archives/index.md)

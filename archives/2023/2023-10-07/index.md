@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-07](index.md)
 
+* [2023-10-07, 17:47:32](https://lobste.rs/s/yfxqq3/planktoscope_open_affordable) - [PlanktoScope: Open and Affordable Quantitative Imaging Platform](https://github.com/PlanktoScope/PlanktoScope)
 * [2023-10-07, 17:12:14](https://lobste.rs/s/a6hweg/using_awk_r_parse_25tb) - [Using AWK and R to parse 25tb](https://livefreeordichotomize.com/posts/2019-06-04-using-awk-and-r-to-parse-25tb/index.html)
 * [2023-10-07, 16:40:29](https://lobste.rs/s/ozaiyz/breakelse_when_compiler_developers_get) - [breakelse: When Compiler Developers Get Bored](https://neat-lang.github.io/breakelse.html)
 * [2023-10-07, 16:23:43](https://lobste.rs/s/2oapwq/zilog_s_forgotten_operating_system_z80) - [Zilog’s Forgotten Operating System: Z80-RIO](https://hackaday.com/2023/10/06/zilogs-forgotten-operating-system-z80-rio/)
