@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-07, 00:07:42",
+      "https://lobste.rs/s/yawckp/bus_sniffing_ibm_5150"
+    ],
+    [
+      "Bus Sniffing the IBM 5150",
+      "https://martypc.blogspot.com/2023/10/bus-sniffing-ibm-5150.html"
+    ]
+  ],
+  [
+    [
       "2023-10-06, 20:38:47",
       "https://lobste.rs/s/spvdcd/openstack_2023_2_bobcat_for_ubuntu_22_04"
     ],
@@ -177,16 +187,6 @@
     [
       "Why HTTP/3 is eating the world",
       "https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/"
-    ]
-  ],
-  [
-    [
-      "2023-10-05, 19:47:37",
-      "https://lobste.rs/s/ecmsdo/python_type_hints_pyastgrep_case_study"
-    ],
-    [
-      "Python Type Hints: pyastgrep case study",
-      "https://lukeplant.me.uk/blog/posts/python-type-hints-pyastgrep-case-study/"
     ]
   ],
   [
