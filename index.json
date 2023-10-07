@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2023-10-07, 00:07:42",
+      "https://lobste.rs/s/yawckp/bus_sniffing_ibm_5150"
+    ],
+    [
+      "Bus Sniffing the IBM 5150",
+      "https://martypc.blogspot.com/2023/10/bus-sniffing-ibm-5150.html"
+    ]
+  ],
+  [
+    [
       "2023-10-06, 19:34:03",
       "https://lobste.rs/s/yhgpea/fully_documented_annotated_source_code"
     ],
@@ -157,16 +167,6 @@
     [
       "Testing Distributed Systems for Linearizability (2017)",
       "https://anishathalye.com/testing-distributed-systems-for-linearizability/"
-    ]
-  ],
-  [
-    [
-      "2023-10-06, 17:25:36",
-      "https://lobste.rs/s/rj4wpk/meltdown_us_meltdown_3a_remaining"
-    ],
-    [
-      "Meltdown-US / Meltdown 3a Remaining Leakage",
-      "https://marc.info/?l=oss-security&m=169658685531730&w=2"
     ]
   ],
   [
