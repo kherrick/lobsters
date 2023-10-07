@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-07](index.md)
 
+* [2023-10-07, 08:51:23](https://lobste.rs/s/n8jzub/deno_1_37_deno_queues) - [Deno 1.37 and Deno Queues](https://buttondown.email/denonews/archive/deno-october-update-deno-137-and-deno-queues/)
 * [2023-10-07, 06:13:10](https://lobste.rs/s/endmpv/polonius_update_inside_rust_blog) - [Polonius update | Inside Rust Blog](https://blog.rust-lang.org/inside-rust/2023/10/06/polonius-update.html)
 * [2023-10-07, 06:13:10](https://lobste.rs/s/endmpv/polonius_update) - [Polonius update](https://blog.rust-lang.org/inside-rust/2023/10/06/polonius-update.html)
 * [2023-10-07, 05:54:11](https://lobste.rs/s/cko0ur/web_server_hello_world_benchmark_go_vs) - [Web server ‘hello world’ benchmark : Go vs Node.js vs Nim vs Bun](https://lemire.me/blog/2023/10/07/web-server-hello-world-benchmark-go-vs-node-js-vs-nim-vs-bun/)
