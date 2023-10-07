@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-07, 13:48:57](https://lobste.rs/s/kgr1nq/api_best_practices_foundations_robust) - [API Best Practices: Foundations of Robust and Efficient APIs](https://medium.com/@atakanserbes/api-best-practices-d27876b1a1bd)
 * [2023-10-07, 10:45:52](https://lobste.rs/s/99edru/pg_bm25_elastic_quality_full_text_search) - [pg_bm25: Elastic-Quality Full Text Search Inside Postgres](https://docs.paradedb.com/blog/introducing_bm25)
 * [2023-10-07, 08:51:23](https://lobste.rs/s/n8jzub/deno_1_37_deno_queues) - [Deno 1.37 and Deno Queues](https://buttondown.email/denonews/archive/deno-october-update-deno-137-and-deno-queues/)
 * [2023-10-07, 06:13:10](https://lobste.rs/s/endmpv/polonius_update) - [Polonius update](https://blog.rust-lang.org/inside-rust/2023/10/06/polonius-update.html)
@@ -23,7 +24,6 @@
 * [2023-10-05, 21:52:40](https://lobste.rs/s/tkjpaf/announcing_8_192_nist_elliptic_curves) - [Announcing the $8,192 NIST Elliptic Curves Seeds Bounty](https://words.filippo.io/dispatches/seeds-bounty/)
 * [2023-10-05, 20:52:49](https://lobste.rs/s/t7hp4l/rust_1_73_0) - [Rust 1.73.0](https://blog.rust-lang.org/2023/10/05/Rust-1.73.0.html)
 * [2023-10-05, 19:41:35](https://lobste.rs/s/m4uejv/cloud_costs_every_programmer_should_know) - [Cloud Costs Every Programmer Should Know](https://www.vantage.sh/blog/cloud-costs-every-programmer-should-know)
-* [2023-10-05, 19:00:14](https://lobste.rs/s/b3wj18/severity_high_security_problem_be) - [Severity HIGH security problem to be announced with curl 8.4.0 on Oct 11](https://github.com/curl/curl/discussions/12026)
 * [2023-10-05, 18:45:05](https://lobste.rs/s/f37hri/ascii_protocol_buffers_as_config_files) - [ASCII protocol buffers as config files](https://rachelbythebay.com/w/2023/10/05/config/)
 
 ## [Archives](archives/index.md)
