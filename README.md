@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-07, 21:05:12](https://lobste.rs/s/pjsk0h/reticulum_network_cryptography_based) - [Reticulum Network: A cryptography-based networking stack for building local and wide-area networks](http://reticulum.network/)
 * [2023-10-07, 20:26:08](https://lobste.rs/s/ookvex/alternative_frontend_for_haskell) - [An alternative frontend for Haskell?](https://gilmi.me/blog/post/2023/10/05/haskell-alternative-frontend)
 * [2023-10-07, 19:57:01](https://lobste.rs/s/pt1csz/analyzing_ooms_intellij_with_bazel) - [Analyzing OOMs in IntelliJ with Bazel](https://medium.com/snowflake/analyzing-ooms-in-intellij-with-bazel-bc96818ac5a9)
 * [2023-10-07, 18:55:22](https://lobste.rs/s/spfmmd/more_mature_take_on_stateless_terraform) - [A more mature take on stateless Terraform](https://www.bejarano.io/terraform-stateless-critique/)
@@ -24,7 +25,6 @@
 * [2023-10-06, 11:10:50](https://lobste.rs/s/4baxc1/go_database_driver_overhead_on_insert) - [Go database driver overhead on insert-heavy workloads](https://notes.eatonphil.com/2023-10-05-go-database-sql-overhead-on-insert-heavy-workloads.html)
 * [2023-10-06, 06:18:09](https://lobste.rs/s/edejnw/macos_dirtynib_vulnerability) - [MacOS \"DirtyNIB\" Vulnerability](https://blog.xpnsec.com/dirtynib/)
 * [2023-10-06, 06:17:10](https://lobste.rs/s/mfo49v/what_is_git_directory) - [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
-* [2023-10-05, 18:45:05](https://lobste.rs/s/f37hri/ascii_protocol_buffers_as_config_files) - [ASCII protocol buffers as config files](https://rachelbythebay.com/w/2023/10/05/config/)
 
 ## [Archives](archives/index.md)
 

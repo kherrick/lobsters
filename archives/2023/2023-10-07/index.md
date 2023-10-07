@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-07](index.md)
 
+* [2023-10-07, 21:05:12](https://lobste.rs/s/pjsk0h/reticulum_network_cryptography_based) - [Reticulum Network: A cryptography-based networking stack for building local and wide-area networks](http://reticulum.network/)
 * [2023-10-07, 20:26:08](https://lobste.rs/s/ookvex/alternative_frontend_for_haskell) - [An alternative frontend for Haskell?](https://gilmi.me/blog/post/2023/10/05/haskell-alternative-frontend)
 * [2023-10-07, 19:57:01](https://lobste.rs/s/pt1csz/analyzing_ooms_intellij_with_bazel) - [Analyzing OOMs in IntelliJ with Bazel](https://medium.com/snowflake/analyzing-ooms-in-intellij-with-bazel-bc96818ac5a9)
 * [2023-10-07, 18:55:22](https://lobste.rs/s/spfmmd/more_mature_take_on_stateless_terraform) - [A more mature take on stateless Terraform](https://www.bejarano.io/terraform-stateless-critique/)
