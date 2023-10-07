@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-07, 18:55:22](https://lobste.rs/s/spfmmd/more_mature_take_on_stateless_terraform) - [A more mature take on stateless Terraform](https://www.bejarano.io/terraform-stateless-critique/)
 * [2023-10-07, 17:47:32](https://lobste.rs/s/yfxqq3/planktoscope_open_affordable) - [PlanktoScope: Open and Affordable Quantitative Imaging Platform](https://github.com/PlanktoScope/PlanktoScope)
 * [2023-10-07, 17:12:14](https://lobste.rs/s/a6hweg/using_awk_r_parse_25tb) - [Using AWK and R to parse 25tb](https://livefreeordichotomize.com/posts/2019-06-04-using-awk-and-r-to-parse-25tb/index.html)
 * [2023-10-07, 16:40:29](https://lobste.rs/s/ozaiyz/breakelse_when_compiler_developers_get) - [breakelse: When Compiler Developers Get Bored](https://neat-lang.github.io/breakelse.html)
@@ -13,7 +14,6 @@
 * [2023-10-07, 03:41:11](https://lobste.rs/s/4wiwig/shell_tip_print_json_with_printf) - [shell tip: print json with printf](https://j3s.sh/thought/shell-tip-print-json-with-printf.html)
 * [2023-10-07, 02:59:59](https://lobste.rs/s/bcdt4c/why_kafka_is_new_data_lake) - [Why Kafka Is the New Data Lake?](https://medium.com/@RisingWave_Engineering/why-kafka-is-the-new-data-lake-dd6c1b6048e)
 * [2023-10-07, 01:47:11](https://lobste.rs/s/wrvsfc/fine_grained_language_composition_2016) - [Fine-grained Language Composition (2016)](https://tratt.net/laurie/blog/2016/fine_grained_language_composition.html#14462460)
-* [2023-10-07, 00:07:42](https://lobste.rs/s/yawckp/bus_sniffing_ibm_5150) - [Bus Sniffing the IBM 5150](https://martypc.blogspot.com/2023/10/bus-sniffing-ibm-5150.html)
 * [2023-10-06, 19:34:03](https://lobste.rs/s/yhgpea/fully_documented_annotated_source_code) - [Fully documented and annotated source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
 * [2023-10-06, 18:19:30](https://lobste.rs/s/5benrr/testing_distributed_systems_for) - [Testing Distributed Systems for Linearizability (2017)](https://anishathalye.com/testing-distributed-systems-for-linearizability/)
 * [2023-10-06, 17:25:36](https://lobste.rs/s/rj4wpk/meltdown_us_meltdown_3a_remaining) - [Meltdown-US / Meltdown 3a Remaining Leakage](https://marc.info/?l=oss-security&m=169658685531730&w=2)

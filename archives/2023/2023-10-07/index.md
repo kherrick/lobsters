@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-07](index.md)
 
+* [2023-10-07, 18:55:22](https://lobste.rs/s/spfmmd/more_mature_take_on_stateless_terraform) - [A more mature take on stateless Terraform](https://www.bejarano.io/terraform-stateless-critique/)
 * [2023-10-07, 17:47:32](https://lobste.rs/s/yfxqq3/planktoscope_open_affordable) - [PlanktoScope: Open and Affordable Quantitative Imaging Platform](https://github.com/PlanktoScope/PlanktoScope)
 * [2023-10-07, 17:12:14](https://lobste.rs/s/a6hweg/using_awk_r_parse_25tb) - [Using AWK and R to parse 25tb](https://livefreeordichotomize.com/posts/2019-06-04-using-awk-and-r-to-parse-25tb/index.html)
 * [2023-10-07, 16:40:29](https://lobste.rs/s/ozaiyz/breakelse_when_compiler_developers_get) - [breakelse: When Compiler Developers Get Bored](https://neat-lang.github.io/breakelse.html)
