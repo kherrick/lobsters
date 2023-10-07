@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-07, 02:59:59",
+      "https://lobste.rs/s/bcdt4c/why_kafka_is_new_data_lake"
+    ],
+    [
+      "Why Kafka Is the New Data Lake?",
+      "https://medium.com/@RisingWave_Engineering/why-kafka-is-the-new-data-lake-dd6c1b6048e"
+    ]
+  ],
+  [
+    [
       "2023-10-07, 01:47:11",
       "https://lobste.rs/s/wrvsfc/fine_grained_language_composition_2016"
     ],
@@ -237,16 +247,6 @@
     [
       "Was async fn a mistake?",
       "https://seanmonstar.com/post/66832922686/was-async-fn-a-mistake"
-    ]
-  ],
-  [
-    [
-      "2023-10-05, 13:17:25",
-      "https://lobste.rs/s/72eejy/profiling_python_ruby_using_ebpf"
-    ],
-    [
-      "Profiling Python and Ruby using eBPF",
-      "https://www.polarsignals.com/blog/posts/2023/10/04/profiling-python-and-ruby-with-ebpf"
     ]
   ]
 ]
