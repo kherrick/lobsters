@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-07](index.md)
 
+* [2023-10-07, 15:51:40](https://lobste.rs/s/bigvil/true_basic_by_kemeny_kurtz) - [True BASIC by Kemeny and Kurtz](https://www.truebasic.com/)
 * [2023-10-07, 13:48:57](https://lobste.rs/s/kgr1nq/api_best_practices_foundations_robust) - [API Best Practices: Foundations of Robust and Efficient APIs](https://medium.com/@atakanserbes/api-best-practices-d27876b1a1bd)
 * [2023-10-07, 10:45:52](https://lobste.rs/s/99edru/pg_bm25_elastic_quality_full_text_search) - [pg_bm25: Elastic-Quality Full Text Search Inside Postgres](https://docs.paradedb.com/blog/introducing_bm25)
 * [2023-10-07, 08:51:23](https://lobste.rs/s/n8jzub/deno_1_37_deno_queues) - [Deno 1.37 and Deno Queues](https://buttondown.email/denonews/archive/deno-october-update-deno-137-and-deno-queues/)
