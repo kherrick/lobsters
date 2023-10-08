@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-07](index.md)
 
+* [2023-10-07, 23:57:29](https://lobste.rs/s/banchz/using_microvms_for_gaming_on_fedora_asahi) - [Using microVMs for Gaming on Fedora Asahi](https://sinrega.org/2023-10-06-using-microvms-for-gaming-on-fedora-asahi/)
 * [2023-10-07, 23:36:10](https://lobste.rs/s/zzpm3c/reverse_engineering_mechanical_bendix) - [Reverse-engineering the mechanical Bendix Central Air Data Computer](http://www.righto.com/2023/10/bendix-cadc-reverse-engineering.html)
 * [2023-10-07, 21:05:12](https://lobste.rs/s/pjsk0h/reticulum_network_cryptography_based) - [Reticulum Network: A cryptography-based networking stack for building local and wide-area networks](http://reticulum.network/)
 * [2023-10-07, 20:26:08](https://lobste.rs/s/ookvex/alternative_frontend_for_haskell) - [An alternative frontend for Haskell?](https://gilmi.me/blog/post/2023/10/05/haskell-alternative-frontend)

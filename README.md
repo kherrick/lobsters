@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-07, 23:57:29](https://lobste.rs/s/banchz/using_microvms_for_gaming_on_fedora_asahi) - [Using microVMs for Gaming on Fedora Asahi](https://sinrega.org/2023-10-06-using-microvms-for-gaming-on-fedora-asahi/)
 * [2023-10-07, 23:36:10](https://lobste.rs/s/zzpm3c/reverse_engineering_mechanical_bendix) - [Reverse-engineering the mechanical Bendix Central Air Data Computer](http://www.righto.com/2023/10/bendix-cadc-reverse-engineering.html)
 * [2023-10-07, 21:05:12](https://lobste.rs/s/pjsk0h/reticulum_network_cryptography_based) - [Reticulum Network: A cryptography-based networking stack for building local and wide-area networks](http://reticulum.network/)
 * [2023-10-07, 20:26:08](https://lobste.rs/s/ookvex/alternative_frontend_for_haskell) - [An alternative frontend for Haskell?](https://gilmi.me/blog/post/2023/10/05/haskell-alternative-frontend)
@@ -23,7 +24,6 @@
 * [2023-10-06, 13:15:28](https://lobste.rs/s/mjscbx/virtual_networking_101_bridging_gap) - [Virtual networking 101: Bridging the gap to understanding TAP](https://blog.cloudflare.com/virtual-networking-101-understanding-tap/)
 * [2023-10-06, 12:08:59](https://lobste.rs/s/9uo0yd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/9uo0yd/what_are_you_doing_this_weekend)
 * [2023-10-06, 11:10:50](https://lobste.rs/s/4baxc1/go_database_driver_overhead_on_insert) - [Go database driver overhead on insert-heavy workloads](https://notes.eatonphil.com/2023-10-05-go-database-sql-overhead-on-insert-heavy-workloads.html)
-* [2023-10-06, 06:18:09](https://lobste.rs/s/edejnw/macos_dirtynib_vulnerability) - [MacOS \"DirtyNIB\" Vulnerability](https://blog.xpnsec.com/dirtynib/)
 * [2023-10-06, 06:17:10](https://lobste.rs/s/mfo49v/what_is_git_directory) - [What is in that .git directory?](https://blog.meain.io/2023/what-is-in-dot-git/)
 
 ## [Archives](archives/index.md)
