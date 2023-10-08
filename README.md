@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-08, 13:16:52](https://lobste.rs/s/hzha37/implicit_data_markup) - [Implicit data markup](https://rsaarelm.github.io/implicit-data-markup/)
 * [2023-10-08, 11:52:35](https://lobste.rs/s/pjwg0g/fury_blazing_fast_multi_language) - [Fury - A blazing fast multi-language serialization framework powered by jit and zero-copy](https://www.furyio.org/blog/fury_blazing_fast_multiple_language_serialization_framework)
 * [2023-10-08, 08:36:34](https://lobste.rs/s/bwognw/decomposing_language_models_into) - [Decomposing Language Models Into Understandable Components](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components)
 * [2023-10-08, 01:07:05](https://lobste.rs/s/hqujy3/fixing_billion_dollar_mistake_client) - [Fixing the Billion Dollar Mistake: Client Controlled Nullability (in GraphQL)](https://youtu.be/k5Qec3OvKjU)
@@ -18,7 +19,6 @@
 * [2023-10-07, 10:45:52](https://lobste.rs/s/99edru/pg_bm25_elastic_quality_full_text_search) - [pg_bm25: Elastic-Quality Full Text Search Inside Postgres](https://docs.paradedb.com/blog/introducing_bm25)
 * [2023-10-07, 08:51:23](https://lobste.rs/s/n8jzub/deno_1_37_deno_queues) - [Deno 1.37 and Deno Queues](https://buttondown.email/denonews/archive/deno-october-update-deno-137-and-deno-queues/)
 * [2023-10-07, 06:13:10](https://lobste.rs/s/endmpv/polonius_update) - [Polonius update](https://blog.rust-lang.org/inside-rust/2023/10/06/polonius-update.html)
-* [2023-10-07, 05:54:11](https://lobste.rs/s/cko0ur/web_server_hello_world_benchmark_go_vs) - [Web server ‘hello world’ benchmark : Go vs Node.js vs Nim vs Bun](https://lemire.me/blog/2023/10/07/web-server-hello-world-benchmark-go-vs-node-js-vs-nim-vs-bun/)
 * [2023-10-07, 03:41:11](https://lobste.rs/s/4wiwig/shell_tip_print_json_with_printf) - [shell tip: print json with printf](https://j3s.sh/thought/shell-tip-print-json-with-printf.html)
 * [2023-10-07, 02:59:59](https://lobste.rs/s/bcdt4c/why_kafka_is_new_data_lake) - [Why Kafka Is the New Data Lake?](https://medium.com/@RisingWave_Engineering/why-kafka-is-the-new-data-lake-dd6c1b6048e)
 * [2023-10-06, 19:34:03](https://lobste.rs/s/yhgpea/fully_documented_annotated_source_code) - [Fully documented and annotated source code for Elite on the NES](https://github.com/markmoxon/nes-elite-beebasm)
