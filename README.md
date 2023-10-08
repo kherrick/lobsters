@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-08, 17:34:54](https://lobste.rs/s/n9khr2/django_things_you_want_with_htmx) - [Django things you want with HTMX](https://www.bitecode.dev/p/django-things-you-want-with-htmx)
 * [2023-10-08, 13:57:32](https://lobste.rs/s/ecaknx/zig_interfaces) - [Zig Interfaces](https://www.openmymind.net/Zig-Interfaces/)
 * [2023-10-08, 13:48:23](https://lobste.rs/s/nlomez/new_static_constexpr_std_integral) - [The new static constexpr std::integral_constant idiom](https://www.foonathan.net/2023/08/static-constexpr-integral_constant/)
 * [2023-10-08, 13:47:46](https://lobste.rs/s/rncoml/have_i_been_squatted_check_if_your_domain) - [Have I Been Squatted? – Check if your domain has been typosquatted](https://www.haveibeensquatted.com/)
@@ -18,7 +19,6 @@
 * [2023-10-07, 16:40:29](https://lobste.rs/s/ozaiyz/breakelse_when_compiler_developers_get) - [breakelse: When Compiler Developers Get Bored](https://neat-lang.github.io/breakelse.html)
 * [2023-10-07, 16:23:43](https://lobste.rs/s/2oapwq/zilog_s_forgotten_operating_system_z80) - [Zilog’s Forgotten Operating System: Z80-RIO](https://hackaday.com/2023/10/06/zilogs-forgotten-operating-system-z80-rio/)
 * [2023-10-07, 15:51:40](https://lobste.rs/s/bigvil/true_basic_by_kemeny_kurtz) - [True BASIC by Kemeny and Kurtz](https://www.truebasic.com/)
-* [2023-10-07, 13:48:57](https://lobste.rs/s/kgr1nq/api_best_practices_foundations_robust) - [API Best Practices: Foundations of Robust and Efficient APIs](https://medium.com/@atakanserbes/api-best-practices-d27876b1a1bd)
 * [2023-10-07, 10:45:52](https://lobste.rs/s/99edru/pg_bm25_elastic_quality_full_text_search) - [pg_bm25: Elastic-Quality Full Text Search Inside Postgres](https://docs.paradedb.com/blog/introducing_bm25)
 * [2023-10-07, 08:51:23](https://lobste.rs/s/n8jzub/deno_1_37_deno_queues) - [Deno 1.37 and Deno Queues](https://buttondown.email/denonews/archive/deno-october-update-deno-137-and-deno-queues/)
 * [2023-10-07, 06:13:10](https://lobste.rs/s/endmpv/polonius_update) - [Polonius update](https://blog.rust-lang.org/inside-rust/2023/10/06/polonius-update.html)
