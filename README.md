@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-08, 20:33:53](https://lobste.rs/s/14jjvn/hacking_success_code_6_habits_every) - [Hacking the Success Code: 6 Habits Every Penetration Tester Must Have](https://michaelblackbeard.dev/hacking-the-success-code-6-habits-every-penetration-tester-must-have/)
 * [2023-10-08, 20:22:54](https://lobste.rs/s/zeh1z9/hidden_performance_cost_nodejs_graphql) - [The Hidden Performance Cost of NodeJS and GraphQL](https://www.softwareatscale.dev/p/the-hidden-performance-cost-of-nodejs)
 * [2023-10-08, 19:48:59](https://lobste.rs/s/bsofxd/why_ruby_on_rails_is_still_good_choice_2022) - [Why Ruby on Rails Is Still A Good Choice In 2022? | Reintech](https://reintech.io/blog/ruby-good-choice-2022)
 * [2023-10-08, 17:50:11](https://lobste.rs/s/cuhasu/mmpa_monthly_overview_1_september) - [MMPA Monthly Overview #1 (September)](https://blog.mmpa.info/posts/overview-sep-23/)
@@ -11,7 +12,6 @@
 * [2023-10-08, 13:16:52](https://lobste.rs/s/hzha37/implicit_data_markup) - [Implicit data markup](https://rsaarelm.github.io/implicit-data-markup/)
 * [2023-10-08, 11:52:35](https://lobste.rs/s/pjwg0g/fury_blazing_fast_multi_language) - [Fury - A blazing fast multi-language serialization framework powered by jit and zero-copy](https://www.furyio.org/blog/fury_blazing_fast_multiple_language_serialization_framework)
 * [2023-10-08, 08:36:34](https://lobste.rs/s/bwognw/decomposing_language_models_into) - [Decomposing Language Models Into Understandable Components](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components)
-* [2023-10-08, 01:07:05](https://lobste.rs/s/hqujy3/fixing_billion_dollar_mistake_client) - [Fixing the Billion Dollar Mistake: Client Controlled Nullability (in GraphQL)](https://youtu.be/k5Qec3OvKjU)
 * [2023-10-07, 23:57:29](https://lobste.rs/s/banchz/using_microvms_for_gaming_on_fedora_asahi) - [Using microVMs for Gaming on Fedora Asahi](https://sinrega.org/2023-10-06-using-microvms-for-gaming-on-fedora-asahi/)
 * [2023-10-07, 23:36:10](https://lobste.rs/s/zzpm3c/reverse_engineering_mechanical_bendix) - [Reverse-engineering the mechanical Bendix Central Air Data Computer](http://www.righto.com/2023/10/bendix-cadc-reverse-engineering.html)
 * [2023-10-07, 21:05:12](https://lobste.rs/s/pjsk0h/reticulum_network_cryptography_based) - [Reticulum Network: A cryptography-based networking stack for building local and wide-area networks](http://reticulum.network/)
