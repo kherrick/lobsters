@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-08, 11:52:35",
+      "https://lobste.rs/s/pjwg0g/fury_blazing_fast_multi_language"
+    ],
+    [
+      "Fury - A blazing fast multi-language serialization framework powered by jit and zero-copy",
+      "https://www.furyio.org/blog/fury_blazing_fast_multiple_language_serialization_framework"
+    ]
+  ],
+  [
+    [
       "2023-10-08, 08:36:34",
       "https://lobste.rs/s/bwognw/decomposing_language_models_into"
     ],
@@ -227,16 +237,6 @@
     [
       "Making Hard Things Easy",
       "https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/"
-    ]
-  ],
-  [
-    [
-      "2023-10-06, 13:15:28",
-      "https://lobste.rs/s/mjscbx/virtual_networking_101_bridging_gap"
-    ],
-    [
-      "Virtual networking 101: Bridging the gap to understanding TAP",
-      "https://blog.cloudflare.com/virtual-networking-101-understanding-tap/"
     ]
   ],
   [
