@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-08, 20:22:54](https://lobste.rs/s/zeh1z9/hidden_performance_cost_nodejs_graphql) - [The Hidden Performance Cost of NodeJS and GraphQL](https://www.softwareatscale.dev/p/the-hidden-performance-cost-of-nodejs)
 * [2023-10-08, 19:48:59](https://lobste.rs/s/bsofxd/why_ruby_on_rails_is_still_good_choice_2022) - [Why Ruby on Rails Is Still A Good Choice In 2022? | Reintech](https://reintech.io/blog/ruby-good-choice-2022)
 * [2023-10-08, 17:50:11](https://lobste.rs/s/cuhasu/mmpa_monthly_overview_1_september) - [MMPA Monthly Overview #1 (September)](https://blog.mmpa.info/posts/overview-sep-23/)
 * [2023-10-08, 17:34:54](https://lobste.rs/s/n9khr2/django_things_you_want_with_htmx) - [Django things you want with HTMX](https://www.bitecode.dev/p/django-things-you-want-with-htmx)
@@ -20,7 +21,6 @@
 * [2023-10-07, 17:12:14](https://lobste.rs/s/a6hweg/using_awk_r_parse_25tb_2019) - [Using AWK and R to parse 25tb (2019)](https://livefreeordichotomize.com/posts/2019-06-04-using-awk-and-r-to-parse-25tb/index.html)
 * [2023-10-07, 16:40:29](https://lobste.rs/s/ozaiyz/breakelse_when_compiler_developers_get) - [breakelse: When Compiler Developers Get Bored](https://neat-lang.github.io/breakelse.html)
 * [2023-10-07, 16:23:43](https://lobste.rs/s/2oapwq/zilog_s_forgotten_operating_system_z80) - [Zilog’s Forgotten Operating System: Z80-RIO](https://hackaday.com/2023/10/06/zilogs-forgotten-operating-system-z80-rio/)
-* [2023-10-07, 15:51:40](https://lobste.rs/s/bigvil/true_basic_by_kemeny_kurtz) - [True BASIC by Kemeny and Kurtz](https://www.truebasic.com/)
 * [2023-10-07, 10:45:52](https://lobste.rs/s/99edru/pg_bm25_elastic_quality_full_text_search) - [pg_bm25: Elastic-Quality Full Text Search Inside Postgres](https://docs.paradedb.com/blog/introducing_bm25)
 * [2023-10-07, 06:13:10](https://lobste.rs/s/endmpv/polonius_update) - [Polonius update](https://blog.rust-lang.org/inside-rust/2023/10/06/polonius-update.html)
 * [2023-10-07, 03:41:11](https://lobste.rs/s/4wiwig/shell_tip_print_json_with_printf) - [shell tip: print json with printf](https://j3s.sh/thought/shell-tip-print-json-with-printf.html)
