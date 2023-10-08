@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-08, 17:50:11](https://lobste.rs/s/cuhasu/mmpa_monthly_overview_1_september) - [MMPA Monthly Overview #1 (September)](https://blog.mmpa.info/posts/overview-sep-23/)
 * [2023-10-08, 17:34:54](https://lobste.rs/s/n9khr2/django_things_you_want_with_htmx) - [Django things you want with HTMX](https://www.bitecode.dev/p/django-things-you-want-with-htmx)
 * [2023-10-08, 13:57:32](https://lobste.rs/s/ecaknx/zig_interfaces) - [Zig Interfaces](https://www.openmymind.net/Zig-Interfaces/)
 * [2023-10-08, 13:48:23](https://lobste.rs/s/nlomez/new_static_constexpr_std_integral) - [The new static constexpr std::integral_constant idiom](https://www.foonathan.net/2023/08/static-constexpr-integral_constant/)
@@ -24,7 +25,6 @@
 * [2023-10-07, 06:13:10](https://lobste.rs/s/endmpv/polonius_update) - [Polonius update](https://blog.rust-lang.org/inside-rust/2023/10/06/polonius-update.html)
 * [2023-10-07, 03:41:11](https://lobste.rs/s/4wiwig/shell_tip_print_json_with_printf) - [shell tip: print json with printf](https://j3s.sh/thought/shell-tip-print-json-with-printf.html)
 * [2023-10-06, 16:01:01](https://lobste.rs/s/aejnbw/why_git_is_hard) - [Why Git is hard](https://roadrunnertwice.dreamwidth.org/596185.html)
-* [2023-10-06, 14:46:03](https://lobste.rs/s/6gycoi/making_hard_things_easy) - [Making Hard Things Easy](https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/)
 
 ## [Archives](archives/index.md)
 
