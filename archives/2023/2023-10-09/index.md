@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-09](index.md)
 
+* [2023-10-09, 14:41:57](https://lobste.rs/s/7k0lql/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/7k0lql/what_are_you_doing_this_week)
 * [2023-10-09, 14:08:09](https://lobste.rs/s/ziexde/crafting_self_evident_code_with_d) - [Crafting Self-Evident Code with D](https://dlang.org/blog/2023/10/02/crafting-self-evident-code-with-d/)
 * [2023-10-09, 13:58:48](https://lobste.rs/s/nalmxy/incus_0_1_independent_fork_canonical_s_lxd) - [Incus 0.1 (independent fork of Canonical's LXD) has been released](https://discuss.linuxcontainers.org/t/incus-0-1-has-been-released/18036)
 * [2023-10-09, 13:46:24](https://lobste.rs/s/4vpiue/nixos_flakes_book) - [NixOS & Flakes Book](https://nixos-and-flakes.thiscute.world)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-09, 14:41:57](https://lobste.rs/s/7k0lql/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/7k0lql/what_are_you_doing_this_week)
 * [2023-10-09, 14:08:09](https://lobste.rs/s/ziexde/crafting_self_evident_code_with_d) - [Crafting Self-Evident Code with D](https://dlang.org/blog/2023/10/02/crafting-self-evident-code-with-d/)
 * [2023-10-09, 13:58:48](https://lobste.rs/s/nalmxy/incus_0_1_independent_fork_canonical_s_lxd) - [Incus 0.1 (independent fork of Canonical's LXD) has been released](https://discuss.linuxcontainers.org/t/incus-0-1-has-been-released/18036)
 * [2023-10-09, 13:46:24](https://lobste.rs/s/4vpiue/nixos_flakes_book) - [NixOS & Flakes Book](https://nixos-and-flakes.thiscute.world)
@@ -24,7 +25,6 @@
 * [2023-10-08, 11:52:35](https://lobste.rs/s/pjwg0g/fury_blazing_fast_multi_language) - [Fury - A blazing fast multi-language serialization framework powered by jit and zero-copy](https://www.furyio.org/blog/fury_blazing_fast_multiple_language_serialization_framework)
 * [2023-10-07, 20:26:08](https://lobste.rs/s/ookvex/alternative_frontend_for_haskell) - [An alternative frontend for Haskell?](https://gilmi.me/blog/post/2023/10/05/haskell-alternative-frontend)
 * [2023-10-07, 18:55:22](https://lobste.rs/s/spfmmd/more_mature_take_on_stateless_terraform) - [A more mature take on stateless Terraform](https://www.bejarano.io/terraform-stateless-critique/)
-* [2023-10-07, 16:40:29](https://lobste.rs/s/ozaiyz/breakelse_when_compiler_developers_get) - [breakelse: When Compiler Developers Get Bored](https://neat-lang.github.io/breakelse.html)
 
 ## [Archives](archives/index.md)
 
