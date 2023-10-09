@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-09](index.md)
 
+* [2023-10-09, 06:59:16](https://lobste.rs/s/pjfvql/speeding_up_javascript_ecosystem_barrel) - [Speeding up the JavaScript ecosystem - The barrel file debacle](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/)
+* [2023-10-09, 06:59:11](https://lobste.rs/s/1jqetc/what_can_macos_sonoma_find_my_images) - [What can macOS Sonoma find in my images?](https://eclecticlight.co/2023/10/09/what-can-macos-sonoma-find-in-my-images/)
 * [2023-10-09, 04:38:01](https://lobste.rs/s/mwmuw6/forty_years_programming) - [Forty years of programming](https://fabiensanglard.net/40/index.html)
 * [2023-10-09, 01:05:32](https://lobste.rs/s/o8d0ez/why_is_debian_way_it_is) - [Why is Debian the way it is?](https://blog.liw.fi/posts/2023/debian-reasons/)
 * [2023-10-09, 00:52:10](https://lobste.rs/s/o5wcea/my_personal_c_coding_style_as_late_2023) - [My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08/)
