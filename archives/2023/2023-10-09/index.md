@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-10-09](index.md)
 
+* [2023-10-09, 19:56:55](https://lobste.rs/s/jhjlxw/when_zfs_was_young) - [When zfs was young](https://ptribble.blogspot.com/2023/10/when-zfs-was-young.html)
 * [2023-10-09, 19:33:36](https://lobste.rs/s/zdjds9/text_showdown_gap_buffers_vs_ropes) - [Text showdown: Gap Buffers vs Ropes](https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/)
 * [2023-10-09, 19:17:15](https://lobste.rs/s/xwmczz/vim_s_useful_lists) - [Vim's useful lists](https://codeinthehole.com/tips/vim-lists/)
 * [2023-10-09, 19:11:41](https://lobste.rs/s/lzoc4k/you_probably_shouldn_t_use_lookup_table) - [You (Probably) Shouldn't use a Lookup Table](https://specbranch.com/posts/lookup-tables/)
 * [2023-10-09, 18:49:01](https://lobste.rs/s/yxpcz0/design_principles_elixir_type_system) - [The Design Principles of the Elixir Type System](https://arxiv.org/pdf/2306.06391.pdf)
 * [2023-10-09, 18:48:41](https://lobste.rs/s/ovrjdm/van_den_oever_is_really_source_code_for) - [Van den Oever: Is that really the source code for this software?](https://lwn.net/Articles/555730/)
+* [2023-10-09, 18:48:41](https://lobste.rs/s/ovrjdm/is_really_source_code_for_this_software) - [Is that really the source code for this software?](https://lwn.net/Articles/555730/)
 * [2023-10-09, 18:09:44](https://lobste.rs/s/cj87fw/control_flow_integrity_v8) - [Control-flow Integrity in V8](https://v8.dev/blog/control-flow-integrity)
 * [2023-10-09, 18:04:23](https://lobste.rs/s/gnlhzt/coordinated_disclosure_1_click_rce_on) - [Coordinated Disclosure: 1-Click RCE on GNOME (CVE-2023-43641)](https://github.blog/2023-10-09-coordinated-disclosure-1-click-rce-on-gnome-cve-2023-43641/)
 * [2023-10-09, 17:17:33](https://lobste.rs/s/lhvvrx/classic_rock_mario_kart_why_we_can_t_agree) - [Classic rock, Mario Kart, and why we can't agree on Tailwind](https://joshcollinsworth.com/blog/tailwind-is-smart-steering)
