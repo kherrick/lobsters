@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-09, 07:19:39](https://lobste.rs/s/7mqjhc/openbsd_7_3_on_thinkpad_x270_for_scholarly) - [OpenBSD 7.3 on ThinkPad X270 for Scholarly Work](https://www.coreystephan.com/openbsd-thinkpad/)
+* [2023-10-09, 07:18:45](https://lobste.rs/s/q7qjrq/install_freebsd_13_2_on_hetzner_server) - [Install FreeBSD 13.2 on Hetzner Server](https://gist.github.com/ctsrc/9a72bc9a0229496aab5e4d3745af0bb9)
 * [2023-10-09, 06:59:16](https://lobste.rs/s/pjfvql/speeding_up_javascript_ecosystem_barrel) - [Speeding up the JavaScript ecosystem - The barrel file debacle](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-7/)
 * [2023-10-09, 06:59:11](https://lobste.rs/s/1jqetc/what_can_macos_sonoma_find_my_images) - [What can macOS Sonoma find in my images?](https://eclecticlight.co/2023/10/09/what-can-macos-sonoma-find-in-my-images/)
 * [2023-10-09, 04:38:01](https://lobste.rs/s/mwmuw6/forty_years_programming) - [Forty years of programming](https://fabiensanglard.net/40/index.html)
@@ -21,9 +23,7 @@
 * [2023-10-07, 21:05:12](https://lobste.rs/s/pjsk0h/reticulum_network_cryptography_based) - [Reticulum Network: A cryptography-based networking stack for building local and wide-area networks](http://reticulum.network/)
 * [2023-10-07, 20:26:08](https://lobste.rs/s/ookvex/alternative_frontend_for_haskell) - [An alternative frontend for Haskell?](https://gilmi.me/blog/post/2023/10/05/haskell-alternative-frontend)
 * [2023-10-07, 18:55:22](https://lobste.rs/s/spfmmd/more_mature_take_on_stateless_terraform) - [A more mature take on stateless Terraform](https://www.bejarano.io/terraform-stateless-critique/)
-* [2023-10-07, 17:12:14](https://lobste.rs/s/a6hweg/using_awk_r_parse_25tb_2019) - [Using AWK and R to parse 25tb (2019)](https://livefreeordichotomize.com/posts/2019-06-04-using-awk-and-r-to-parse-25tb/index.html)
 * [2023-10-07, 16:40:29](https://lobste.rs/s/ozaiyz/breakelse_when_compiler_developers_get) - [breakelse: When Compiler Developers Get Bored](https://neat-lang.github.io/breakelse.html)
-* [2023-10-07, 06:13:10](https://lobste.rs/s/endmpv/polonius_update) - [Polonius update](https://blog.rust-lang.org/inside-rust/2023/10/06/polonius-update.html)
 * [2023-10-07, 03:41:11](https://lobste.rs/s/4wiwig/shell_tip_print_json_with_printf) - [shell tip: print json with printf](https://j3s.sh/thought/shell-tip-print-json-with-printf.html)
 
 ## [Archives](archives/index.md)
