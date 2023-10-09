@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-09](index.md)
 
+* [2023-10-09, 18:09:44](https://lobste.rs/s/cj87fw/control_flow_integrity_v8) - [Control-flow Integrity in V8](https://v8.dev/blog/control-flow-integrity)
+* [2023-10-09, 18:04:23](https://lobste.rs/s/gnlhzt/coordinated_disclosure_1_click_rce_on) - [Coordinated Disclosure: 1-Click RCE on GNOME (CVE-2023-43641)](https://github.blog/2023-10-09-coordinated-disclosure-1-click-rce-on-gnome-cve-2023-43641/)
 * [2023-10-09, 17:17:33](https://lobste.rs/s/lhvvrx/classic_rock_mario_kart_why_we_can_t_agree) - [Classic rock, Mario Kart, and why we can't agree on Tailwind](https://joshcollinsworth.com/blog/tailwind-is-smart-steering)
 * [2023-10-09, 17:14:39](https://lobste.rs/s/dnubad/zimaboard_closest_thing_my_dream_home) - [Zimaboard: the closest thing to my dream home server setup](https://ounapuu.ee/posts/2023/10/09/zimaboard/)
 * [2023-10-09, 15:28:35](https://lobste.rs/s/cdvpel/organizing_system_configs_with_nixos) - [Organizing system configs with NixOS](https://johns.codes/blog/organizing-system-configs-with-nixos)
