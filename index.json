@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-09, 09:29:58",
+      "https://lobste.rs/s/hst619/newline_guide_bash_scripting_2021"
+    ],
+    [
+      "The newline Guide to Bash Scripting (2021)",
+      "https://www.newline.co/courses/newline-guide-to-bash-scripting"
+    ]
+  ],
+  [
+    [
       "2023-10-09, 08:40:30",
       "https://lobste.rs/s/eej664/flappy_dird_flappy_bird_implemented"
     ],
@@ -187,16 +197,6 @@
     [
       "Fury - A blazing fast multi-language serialization framework powered by jit and zero-copy",
       "https://www.furyio.org/blog/fury_blazing_fast_multiple_language_serialization_framework"
-    ]
-  ],
-  [
-    [
-      "2023-10-08, 08:36:34",
-      "https://lobste.rs/s/bwognw/decomposing_language_models_into"
-    ],
-    [
-      "Decomposing Language Models Into Understandable Components",
-      "https://www.anthropic.com/index/decomposing-language-models-into-understandable-components"
     ]
   ],
   [
