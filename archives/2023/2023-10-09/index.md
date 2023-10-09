@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-09](index.md)
 
+* [2023-10-09, 17:17:33](https://lobste.rs/s/lhvvrx/classic_rock_mario_kart_why_we_can_t_agree) - [Classic rock, Mario Kart, and why we can't agree on Tailwind](https://joshcollinsworth.com/blog/tailwind-is-smart-steering)
+* [2023-10-09, 17:14:39](https://lobste.rs/s/dnubad/zimaboard_closest_thing_my_dream_home) - [Zimaboard: the closest thing to my dream home server setup](https://ounapuu.ee/posts/2023/10/09/zimaboard/)
 * [2023-10-09, 15:28:35](https://lobste.rs/s/cdvpel/organizing_system_configs_with_nixos) - [Organizing system configs with NixOS](https://johns.codes/blog/organizing-system-configs-with-nixos)
 * [2023-10-09, 14:41:57](https://lobste.rs/s/7k0lql/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/7k0lql/what_are_you_doing_this_week)
 * [2023-10-09, 14:08:09](https://lobste.rs/s/ziexde/crafting_self_evident_code_with_d) - [Crafting Self-Evident Code with D](https://dlang.org/blog/2023/10/02/crafting-self-evident-code-with-d/)

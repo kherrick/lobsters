@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-09, 17:17:33](https://lobste.rs/s/lhvvrx/classic_rock_mario_kart_why_we_can_t_agree) - [Classic rock, Mario Kart, and why we can't agree on Tailwind](https://joshcollinsworth.com/blog/tailwind-is-smart-steering)
+* [2023-10-09, 17:14:39](https://lobste.rs/s/dnubad/zimaboard_closest_thing_my_dream_home) - [Zimaboard: the closest thing to my dream home server setup](https://ounapuu.ee/posts/2023/10/09/zimaboard/)
 * [2023-10-09, 15:28:35](https://lobste.rs/s/cdvpel/organizing_system_configs_with_nixos) - [Organizing system configs with NixOS](https://johns.codes/blog/organizing-system-configs-with-nixos)
 * [2023-10-09, 14:41:57](https://lobste.rs/s/7k0lql/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/7k0lql/what_are_you_doing_this_week)
 * [2023-10-09, 14:08:09](https://lobste.rs/s/ziexde/crafting_self_evident_code_with_d) - [Crafting Self-Evident Code with D](https://dlang.org/blog/2023/10/02/crafting-self-evident-code-with-d/)
@@ -23,8 +25,6 @@
 * [2023-10-08, 13:47:46](https://lobste.rs/s/rncoml/have_i_been_squatted_check_if_your_domain) - [Have I Been Squatted? – Check if your domain has been typosquatted](https://www.haveibeensquatted.com/)
 * [2023-10-08, 13:34:45](https://lobste.rs/s/cm3eja/things_i_just_don_t_like_about_git) - [things i just don't like about git](https://cohost.org/tef/post/3009746-things-i-just-don-t)
 * [2023-10-08, 13:16:52](https://lobste.rs/s/hzha37/implicit_data_markup) - [Implicit data markup](https://rsaarelm.github.io/implicit-data-markup/)
-* [2023-10-08, 11:52:35](https://lobste.rs/s/pjwg0g/fury_blazing_fast_multi_language) - [Fury - A blazing fast multi-language serialization framework powered by jit and zero-copy](https://www.furyio.org/blog/fury_blazing_fast_multiple_language_serialization_framework)
-* [2023-10-07, 18:55:22](https://lobste.rs/s/spfmmd/more_mature_take_on_stateless_terraform) - [A more mature take on stateless Terraform](https://www.bejarano.io/terraform-stateless-critique/)
 
 ## [Archives](archives/index.md)
 
