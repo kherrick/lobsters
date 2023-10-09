@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-10-09, 01:05:32",
+      "https://lobste.rs/s/o8d0ez/why_is_debian_way_it_is"
+    ],
+    [
+      "Why is Debian the way it is?",
+      "https://blog.liw.fi/posts/2023/debian-reasons/"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 00:52:10",
+      "https://lobste.rs/s/o5wcea/my_personal_c_coding_style_as_late_2023"
+    ],
+    [
+      "My personal C coding style as of late 2023",
+      "https://nullprogram.com/blog/2023/10/08/"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 00:46:40",
+      "https://lobste.rs/s/qxdy3t/what_is_invariant"
+    ],
+    [
+      "What is an Invariant?",
+      "https://matklad.github.io/2023/10/06/what-is-an-invariant.html"
+    ]
+  ],
+  [
+    [
       "2023-10-08, 20:33:53",
       "https://lobste.rs/s/14jjvn/hacking_success_code_6_habits_every"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2023-10-07, 23:36:10",
-      "https://lobste.rs/s/zzpm3c/reverse_engineering_mechanical_bendix"
-    ],
-    [
-      "Reverse-engineering the mechanical Bendix Central Air Data Computer",
-      "http://www.righto.com/2023/10/bendix-cadc-reverse-engineering.html"
-    ]
-  ],
-  [
-    [
       "2023-10-07, 21:05:12",
       "https://lobste.rs/s/pjsk0h/reticulum_network_cryptography_based"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-10-07, 16:23:43",
-      "https://lobste.rs/s/2oapwq/zilog_s_forgotten_operating_system_z80"
-    ],
-    [
-      "Zilog’s Forgotten Operating System: Z80-RIO",
-      "https://hackaday.com/2023/10/06/zilogs-forgotten-operating-system-z80-rio/"
-    ]
-  ],
-  [
-    [
       "2023-10-07, 10:45:52",
       "https://lobste.rs/s/99edru/pg_bm25_elastic_quality_full_text_search"
     ],
@@ -237,16 +247,6 @@
     [
       "shell tip: print json with printf",
       "https://j3s.sh/thought/shell-tip-print-json-with-printf.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-06, 16:01:01",
-      "https://lobste.rs/s/aejnbw/why_git_is_hard"
-    ],
-    [
-      "Why Git is hard",
-      "https://roadrunnertwice.dreamwidth.org/596185.html"
     ]
   ]
 ]
