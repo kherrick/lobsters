@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-09, 12:22:54](https://lobste.rs/s/nzu0jw/modeling_crdts_alloy_importance) - [modeling CRDTs in Alloy - the importance of idempotence](https://bytes.zone/posts/modeling-crdts-in-alloy-introduction-and-the-importance-of-idempotence/)
 * [2023-10-09, 11:22:05](https://lobste.rs/s/mt9n0s/mir_based_jit_prototype_for_ruby) - [An MIR-based JIT prototype for Ruby](https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby)
 * [2023-10-09, 08:40:30](https://lobste.rs/s/eej664/flappy_dird_flappy_bird_implemented) - [Flappy Dird: Flappy Bird implemented in MacOS Finder](https://eieio.games/nonsense/game-11-flappy-bird-finder/)
 * [2023-10-09, 07:19:39](https://lobste.rs/s/7mqjhc/openbsd_7_3_on_thinkpad_x270_for_scholarly) - [OpenBSD 7.3 on ThinkPad X270 for Scholarly Work](https://www.coreystephan.com/openbsd-thinkpad/)
@@ -24,7 +25,6 @@
 * [2023-10-07, 20:26:08](https://lobste.rs/s/ookvex/alternative_frontend_for_haskell) - [An alternative frontend for Haskell?](https://gilmi.me/blog/post/2023/10/05/haskell-alternative-frontend)
 * [2023-10-07, 18:55:22](https://lobste.rs/s/spfmmd/more_mature_take_on_stateless_terraform) - [A more mature take on stateless Terraform](https://www.bejarano.io/terraform-stateless-critique/)
 * [2023-10-07, 16:40:29](https://lobste.rs/s/ozaiyz/breakelse_when_compiler_developers_get) - [breakelse: When Compiler Developers Get Bored](https://neat-lang.github.io/breakelse.html)
-* [2023-10-07, 03:41:11](https://lobste.rs/s/4wiwig/shell_tip_print_json_with_printf) - [shell tip: print json with printf](https://j3s.sh/thought/shell-tip-print-json-with-printf.html)
 
 ## [Archives](archives/index.md)
 
