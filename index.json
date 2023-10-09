@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2023-10-09, 18:09:44",
+      "https://lobste.rs/s/cj87fw/control_flow_integrity_v8"
+    ],
+    [
+      "Control-flow Integrity in V8",
+      "https://v8.dev/blog/control-flow-integrity"
+    ]
+  ],
+  [
+    [
       "2023-10-09, 18:04:23",
       "https://lobste.rs/s/gnlhzt/coordinated_disclosure_1_click_rce_on"
     ],
@@ -217,16 +227,6 @@
     [
       "My personal C coding style as of late 2023",
       "https://nullprogram.com/blog/2023/10/08/"
-    ]
-  ],
-  [
-    [
-      "2023-10-08, 20:22:54",
-      "https://lobste.rs/s/zeh1z9/hidden_performance_cost_nodejs_graphql"
-    ],
-    [
-      "The Hidden Performance Cost of NodeJS and GraphQL",
-      "https://www.softwareatscale.dev/p/the-hidden-performance-cost-of-nodejs"
     ]
   ],
   [
