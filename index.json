@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-09, 15:28:35",
+      "https://lobste.rs/s/cdvpel/organizing_system_configs_with_nixos"
+    ],
+    [
+      "Organizing system configs with NixOS",
+      "https://johns.codes/blog/organizing-system-configs-with-nixos"
+    ]
+  ],
+  [
+    [
       "2023-10-09, 14:41:57",
       "https://lobste.rs/s/7k0lql/what_are_you_doing_this_week"
     ],
@@ -227,16 +237,6 @@
     [
       "Fury - A blazing fast multi-language serialization framework powered by jit and zero-copy",
       "https://www.furyio.org/blog/fury_blazing_fast_multiple_language_serialization_framework"
-    ]
-  ],
-  [
-    [
-      "2023-10-07, 20:26:08",
-      "https://lobste.rs/s/ookvex/alternative_frontend_for_haskell"
-    ],
-    [
-      "An alternative frontend for Haskell?",
-      "https://gilmi.me/blog/post/2023/10/05/haskell-alternative-frontend"
     ]
   ],
   [
