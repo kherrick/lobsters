@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-09](index.md)
 
+* [2023-10-09, 11:22:05](https://lobste.rs/s/mt9n0s/mir_based_jit_prototype_for_ruby) - [An MIR-based JIT prototype for Ruby](https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby)
 * [2023-10-09, 09:29:58](https://lobste.rs/s/hst619/newline_guide_bash_scripting_2021) - [The newline Guide to Bash Scripting (2021)](https://www.newline.co/courses/newline-guide-to-bash-scripting)
 * [2023-10-09, 08:40:30](https://lobste.rs/s/eej664/flappy_dird_flappy_bird_implemented) - [Flappy Dird: Flappy Bird implemented in MacOS Finder](https://eieio.games/nonsense/game-11-flappy-bird-finder/)
 * [2023-10-09, 07:19:39](https://lobste.rs/s/7mqjhc/openbsd_7_3_on_thinkpad_x270_for_scholarly) - [OpenBSD 7.3 on ThinkPad X270 for Scholarly Work](https://www.coreystephan.com/openbsd-thinkpad/)
