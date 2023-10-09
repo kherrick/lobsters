@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-09](index.md)
 
+* [2023-10-09, 21:05:06](https://lobste.rs/s/sgoq0z/student_asked_how_i_keep_us_innovative_i) - [A student asked how I keep us innovative. I don't](https://ntietz.com/blog/forefront-of-innovation/)
 * [2023-10-09, 19:56:55](https://lobste.rs/s/jhjlxw/when_zfs_was_young) - [When zfs was young](https://ptribble.blogspot.com/2023/10/when-zfs-was-young.html)
 * [2023-10-09, 19:33:36](https://lobste.rs/s/zdjds9/text_showdown_gap_buffers_vs_ropes) - [Text showdown: Gap Buffers vs Ropes](https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/)
 * [2023-10-09, 19:17:15](https://lobste.rs/s/xwmczz/vim_s_useful_lists) - [Vim's useful lists](https://codeinthehole.com/tips/vim-lists/)
