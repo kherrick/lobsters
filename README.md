@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-09, 04:38:01](https://lobste.rs/s/mwmuw6/forty_years_programming) - [Forty years of programming](https://fabiensanglard.net/40/index.html)
 * [2023-10-09, 01:05:32](https://lobste.rs/s/o8d0ez/why_is_debian_way_it_is) - [Why is Debian the way it is?](https://blog.liw.fi/posts/2023/debian-reasons/)
 * [2023-10-09, 00:52:10](https://lobste.rs/s/o5wcea/my_personal_c_coding_style_as_late_2023) - [My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08/)
 * [2023-10-09, 00:46:40](https://lobste.rs/s/qxdy3t/what_is_invariant) - [What is an Invariant?](https://matklad.github.io/2023/10/06/what-is-an-invariant.html)
@@ -15,7 +16,6 @@
 * [2023-10-08, 11:52:35](https://lobste.rs/s/pjwg0g/fury_blazing_fast_multi_language) - [Fury - A blazing fast multi-language serialization framework powered by jit and zero-copy](https://www.furyio.org/blog/fury_blazing_fast_multiple_language_serialization_framework)
 * [2023-10-08, 08:36:34](https://lobste.rs/s/bwognw/decomposing_language_models_into) - [Decomposing Language Models Into Understandable Components](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components)
 * [2023-10-07, 23:57:29](https://lobste.rs/s/banchz/using_microvms_for_gaming_on_fedora_asahi) - [Using microVMs for Gaming on Fedora Asahi](https://sinrega.org/2023-10-06-using-microvms-for-gaming-on-fedora-asahi/)
-* [2023-10-07, 23:36:10](https://lobste.rs/s/zzpm3c/reverse_engineering_mechanical_bendix) - [Reverse-engineering the mechanical Bendix Central Air Data Computer](http://www.righto.com/2023/10/bendix-cadc-reverse-engineering.html)
 * [2023-10-07, 21:05:12](https://lobste.rs/s/pjsk0h/reticulum_network_cryptography_based) - [Reticulum Network: A cryptography-based networking stack for building local and wide-area networks](http://reticulum.network/)
 * [2023-10-07, 20:26:08](https://lobste.rs/s/ookvex/alternative_frontend_for_haskell) - [An alternative frontend for Haskell?](https://gilmi.me/blog/post/2023/10/05/haskell-alternative-frontend)
 * [2023-10-07, 19:57:01](https://lobste.rs/s/pt1csz/analyzing_ooms_intellij_with_bazel) - [Analyzing OOMs in IntelliJ with Bazel](https://medium.com/snowflake/analyzing-ooms-in-intellij-with-bazel-bc96818ac5a9)
