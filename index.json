@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-09, 21:59:40",
+      "https://lobste.rs/s/scllqn/ecc_ram_on_amd_ryzen_7000_desktop_cpus"
+    ],
+    [
+      "ECC RAM on AMD Ryzen 7000 desktop CPUs",
+      "https://sunshowers.io/posts/am5-ryzen-7000-ecc-ram/"
+    ]
+  ],
+  [
+    [
       "2023-10-09, 21:05:06",
       "https://lobste.rs/s/sgoq0z/student_asked_how_i_keep_us_innovative_i"
     ],
@@ -57,16 +67,6 @@
     [
       "Is that really the source code for this software?",
       "https://lwn.net/Articles/555730/"
-    ]
-  ],
-  [
-    [
-      "2023-10-09, 18:09:44",
-      "https://lobste.rs/s/cj87fw/control_flow_integrity_v8"
-    ],
-    [
-      "Control-flow Integrity in V8",
-      "https://v8.dev/blog/control-flow-integrity"
     ]
   ],
   [
