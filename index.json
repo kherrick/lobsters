@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-09, 18:49:01",
+      "https://lobste.rs/s/yxpcz0/design_principles_elixir_type_system"
+    ],
+    [
+      "The Design Principles of the Elixir Type System",
+      "https://arxiv.org/pdf/2306.06391.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 18:48:41",
+      "https://lobste.rs/s/ovrjdm/van_den_oever_is_really_source_code_for"
+    ],
+    [
+      "Van den Oever: Is that really the source code for this software?",
+      "https://lwn.net/Articles/555730/"
+    ]
+  ],
+  [
+    [
       "2023-10-09, 18:09:44",
       "https://lobste.rs/s/cj87fw/control_flow_integrity_v8"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-10-09, 00:46:40",
-      "https://lobste.rs/s/qxdy3t/what_is_invariant"
-    ],
-    [
-      "What is an Invariant?",
-      "https://matklad.github.io/2023/10/06/what-is-an-invariant.html"
-    ]
-  ],
-  [
-    [
       "2023-10-08, 20:22:54",
       "https://lobste.rs/s/zeh1z9/hidden_performance_cost_nodejs_graphql"
     ],
@@ -217,16 +227,6 @@
     [
       "Django things you want with HTMX",
       "https://www.bitecode.dev/p/django-things-you-want-with-htmx"
-    ]
-  ],
-  [
-    [
-      "2023-10-08, 13:57:32",
-      "https://lobste.rs/s/ecaknx/zig_interfaces"
-    ],
-    [
-      "Zig Interfaces",
-      "https://www.openmymind.net/Zig-Interfaces/"
     ]
   ],
   [
