@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-09, 12:22:54",
+      "https://lobste.rs/s/nzu0jw/modeling_crdts_alloy_importance"
+    ],
+    [
+      "modeling CRDTs in Alloy - the importance of idempotence",
+      "https://bytes.zone/posts/modeling-crdts-in-alloy-introduction-and-the-importance-of-idempotence/"
+    ]
+  ],
+  [
+    [
       "2023-10-09, 11:22:05",
       "https://lobste.rs/s/mt9n0s/mir_based_jit_prototype_for_ruby"
     ],
@@ -237,16 +247,6 @@
     [
       "breakelse: When Compiler Developers Get Bored",
       "https://neat-lang.github.io/breakelse.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-07, 03:41:11",
-      "https://lobste.rs/s/4wiwig/shell_tip_print_json_with_printf"
-    ],
-    [
-      "shell tip: print json with printf",
-      "https://j3s.sh/thought/shell-tip-print-json-with-printf.html"
     ]
   ]
 ]
