@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-09, 19:17:15](https://lobste.rs/s/xwmczz/vim_s_useful_lists) - [Vim's useful lists](https://codeinthehole.com/tips/vim-lists/)
+* [2023-10-09, 19:11:41](https://lobste.rs/s/lzoc4k/you_probably_shouldn_t_use_lookup_table) - [You (Probably) Shouldn't use a Lookup Table](https://specbranch.com/posts/lookup-tables/)
 * [2023-10-09, 18:49:01](https://lobste.rs/s/yxpcz0/design_principles_elixir_type_system) - [The Design Principles of the Elixir Type System](https://arxiv.org/pdf/2306.06391.pdf)
 * [2023-10-09, 18:48:41](https://lobste.rs/s/ovrjdm/van_den_oever_is_really_source_code_for) - [Van den Oever: Is that really the source code for this software?](https://lwn.net/Articles/555730/)
 * [2023-10-09, 18:09:44](https://lobste.rs/s/cj87fw/control_flow_integrity_v8) - [Control-flow Integrity in V8](https://v8.dev/blog/control-flow-integrity)
@@ -8,7 +10,6 @@
 * [2023-10-09, 17:14:39](https://lobste.rs/s/dnubad/zimaboard_closest_thing_my_dream_home) - [Zimaboard: the closest thing to my dream home server setup](https://ounapuu.ee/posts/2023/10/09/zimaboard/)
 * [2023-10-09, 15:28:35](https://lobste.rs/s/cdvpel/organizing_system_configs_with_nixos) - [Organizing system configs with NixOS](https://johns.codes/blog/organizing-system-configs-with-nixos)
 * [2023-10-09, 14:41:57](https://lobste.rs/s/7k0lql/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/7k0lql/what_are_you_doing_this_week)
-* [2023-10-09, 14:08:09](https://lobste.rs/s/ziexde/crafting_self_evident_code_with_d) - [Crafting Self-Evident Code with D](https://dlang.org/blog/2023/10/02/crafting-self-evident-code-with-d/)
 * [2023-10-09, 13:58:48](https://lobste.rs/s/nalmxy/incus_0_1_independent_fork_canonical_s_lxd) - [Incus 0.1 (independent fork of Canonical's LXD) has been released](https://discuss.linuxcontainers.org/t/incus-0-1-has-been-released/18036)
 * [2023-10-09, 13:46:24](https://lobste.rs/s/4vpiue/nixos_flakes_book) - [NixOS & Flakes Book](https://nixos-and-flakes.thiscute.world)
 * [2023-10-09, 12:22:54](https://lobste.rs/s/nzu0jw/modeling_crdts_alloy_importance) - [modeling CRDTs in Alloy - the importance of idempotence](https://bytes.zone/posts/modeling-crdts-in-alloy-introduction-and-the-importance-of-idempotence/)
@@ -22,7 +23,6 @@
 * [2023-10-09, 01:05:32](https://lobste.rs/s/o8d0ez/why_is_debian_way_it_is) - [Why is Debian the way it is?](https://blog.liw.fi/posts/2023/debian-reasons/)
 * [2023-10-09, 00:52:10](https://lobste.rs/s/o5wcea/my_personal_c_coding_style_as_late_2023) - [My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08/)
 * [2023-10-08, 20:22:54](https://lobste.rs/s/zeh1z9/hidden_performance_cost_nodejs_graphql) - [The Hidden Performance Cost of NodeJS and GraphQL](https://www.softwareatscale.dev/p/the-hidden-performance-cost-of-nodejs)
-* [2023-10-08, 17:34:54](https://lobste.rs/s/n9khr2/django_things_you_want_with_htmx) - [Django things you want with HTMX](https://www.bitecode.dev/p/django-things-you-want-with-htmx)
 * [2023-10-08, 13:47:46](https://lobste.rs/s/rncoml/have_i_been_squatted_check_if_your_domain) - [Have I Been Squatted? – Check if your domain has been typosquatted](https://www.haveibeensquatted.com/)
 * [2023-10-08, 13:34:45](https://lobste.rs/s/cm3eja/things_i_just_don_t_like_about_git) - [things i just don't like about git](https://cohost.org/tef/post/3009746-things-i-just-don-t)
 
