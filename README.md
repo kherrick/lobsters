@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-09, 09:29:58](https://lobste.rs/s/hst619/newline_guide_bash_scripting_2021) - [The newline Guide to Bash Scripting (2021)](https://www.newline.co/courses/newline-guide-to-bash-scripting)
 * [2023-10-09, 08:40:30](https://lobste.rs/s/eej664/flappy_dird_flappy_bird_implemented) - [Flappy Dird: Flappy Bird implemented in MacOS Finder](https://eieio.games/nonsense/game-11-flappy-bird-finder/)
 * [2023-10-09, 07:19:39](https://lobste.rs/s/7mqjhc/openbsd_7_3_on_thinkpad_x270_for_scholarly) - [OpenBSD 7.3 on ThinkPad X270 for Scholarly Work](https://www.coreystephan.com/openbsd-thinkpad/)
 * [2023-10-09, 07:18:45](https://lobste.rs/s/q7qjrq/install_freebsd_13_2_on_hetzner_server) - [Install FreeBSD 13.2 on Hetzner Server](https://gist.github.com/ctsrc/9a72bc9a0229496aab5e4d3745af0bb9)
@@ -19,7 +20,6 @@
 * [2023-10-08, 13:34:45](https://lobste.rs/s/cm3eja/things_i_just_don_t_like_about_git) - [things i just don't like about git](https://cohost.org/tef/post/3009746-things-i-just-don-t)
 * [2023-10-08, 13:16:52](https://lobste.rs/s/hzha37/implicit_data_markup) - [Implicit data markup](https://rsaarelm.github.io/implicit-data-markup/)
 * [2023-10-08, 11:52:35](https://lobste.rs/s/pjwg0g/fury_blazing_fast_multi_language) - [Fury - A blazing fast multi-language serialization framework powered by jit and zero-copy](https://www.furyio.org/blog/fury_blazing_fast_multiple_language_serialization_framework)
-* [2023-10-08, 08:36:34](https://lobste.rs/s/bwognw/decomposing_language_models_into) - [Decomposing Language Models Into Understandable Components](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components)
 * [2023-10-07, 23:57:29](https://lobste.rs/s/banchz/using_microvms_for_gaming_on_fedora_asahi) - [Using microVMs for Gaming on Fedora Asahi](https://sinrega.org/2023-10-06-using-microvms-for-gaming-on-fedora-asahi/)
 * [2023-10-07, 20:26:08](https://lobste.rs/s/ookvex/alternative_frontend_for_haskell) - [An alternative frontend for Haskell?](https://gilmi.me/blog/post/2023/10/05/haskell-alternative-frontend)
 * [2023-10-07, 18:55:22](https://lobste.rs/s/spfmmd/more_mature_take_on_stateless_terraform) - [A more mature take on stateless Terraform](https://www.bejarano.io/terraform-stateless-critique/)
