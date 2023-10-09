@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-09, 13:46:24](https://lobste.rs/s/4vpiue/nixos_flakes_book) - [NixOS & Flakes Book](https://nixos-and-flakes.thiscute.world)
 * [2023-10-09, 12:22:54](https://lobste.rs/s/nzu0jw/modeling_crdts_alloy_importance) - [modeling CRDTs in Alloy - the importance of idempotence](https://bytes.zone/posts/modeling-crdts-in-alloy-introduction-and-the-importance-of-idempotence/)
 * [2023-10-09, 11:22:05](https://lobste.rs/s/mt9n0s/mir_based_jit_prototype_for_ruby) - [An MIR-based JIT prototype for Ruby](https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby)
 * [2023-10-09, 08:40:30](https://lobste.rs/s/eej664/flappy_dird_flappy_bird_implemented) - [Flappy Dird: Flappy Bird implemented in MacOS Finder](https://eieio.games/nonsense/game-11-flappy-bird-finder/)
@@ -16,7 +17,6 @@
 * [2023-10-08, 17:50:11](https://lobste.rs/s/cuhasu/mmpa_monthly_overview_1_september) - [MMPA Monthly Overview #1 (September)](https://blog.mmpa.info/posts/overview-sep-23/)
 * [2023-10-08, 17:34:54](https://lobste.rs/s/n9khr2/django_things_you_want_with_htmx) - [Django things you want with HTMX](https://www.bitecode.dev/p/django-things-you-want-with-htmx)
 * [2023-10-08, 13:57:32](https://lobste.rs/s/ecaknx/zig_interfaces) - [Zig Interfaces](https://www.openmymind.net/Zig-Interfaces/)
-* [2023-10-08, 13:48:23](https://lobste.rs/s/nlomez/new_static_constexpr_std_integral) - [The new static constexpr std::integral_constant idiom](https://www.foonathan.net/2023/08/static-constexpr-integral_constant/)
 * [2023-10-08, 13:47:46](https://lobste.rs/s/rncoml/have_i_been_squatted_check_if_your_domain) - [Have I Been Squatted? – Check if your domain has been typosquatted](https://www.haveibeensquatted.com/)
 * [2023-10-08, 13:34:45](https://lobste.rs/s/cm3eja/things_i_just_don_t_like_about_git) - [things i just don't like about git](https://cohost.org/tef/post/3009746-things-i-just-don-t)
 * [2023-10-08, 13:16:52](https://lobste.rs/s/hzha37/implicit_data_markup) - [Implicit data markup](https://rsaarelm.github.io/implicit-data-markup/)

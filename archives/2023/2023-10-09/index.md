@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-09](index.md)
 
+* [2023-10-09, 13:46:24](https://lobste.rs/s/4vpiue/nixos_flakes_book) - [NixOS & Flakes Book](https://nixos-and-flakes.thiscute.world)
 * [2023-10-09, 12:22:54](https://lobste.rs/s/nzu0jw/modeling_crdts_alloy_importance) - [modeling CRDTs in Alloy - the importance of idempotence](https://bytes.zone/posts/modeling-crdts-in-alloy-introduction-and-the-importance-of-idempotence/)
 * [2023-10-09, 11:22:05](https://lobste.rs/s/mt9n0s/mir_based_jit_prototype_for_ruby) - [An MIR-based JIT prototype for Ruby](https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby)
 * [2023-10-09, 09:29:58](https://lobste.rs/s/hst619/newline_guide_bash_scripting_2021) - [The newline Guide to Bash Scripting (2021)](https://www.newline.co/courses/newline-guide-to-bash-scripting)
