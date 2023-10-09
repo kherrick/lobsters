@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2023-10-09, 18:09:44",
+      "https://lobste.rs/s/cj87fw/control_flow_integrity_v8"
+    ],
+    [
+      "Control-flow Integrity in V8",
+      "https://v8.dev/blog/control-flow-integrity"
+    ]
+  ],
+  [
+    [
       "2023-10-09, 18:04:23",
       "https://lobste.rs/s/gnlhzt/coordinated_disclosure_1_click_rce_on"
     ],
@@ -177,16 +187,6 @@
     [
       "OpenBSD 7.3 on ThinkPad X270 for Scholarly Work",
       "https://www.coreystephan.com/openbsd-thinkpad/"
-    ]
-  ],
-  [
-    [
-      "2023-10-09, 07:18:45",
-      "https://lobste.rs/s/q7qjrq/install_freebsd_13_2_on_hetzner_server"
-    ],
-    [
-      "Install FreeBSD 13.2 on Hetzner Server",
-      "https://gist.github.com/ctsrc/9a72bc9a0229496aab5e4d3745af0bb9"
     ]
   ],
   [
