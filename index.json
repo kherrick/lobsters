@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-09, 14:08:09",
+      "https://lobste.rs/s/ziexde/crafting_self_evident_code_with_d"
+    ],
+    [
+      "Crafting Self-Evident Code with D",
+      "https://dlang.org/blog/2023/10/02/crafting-self-evident-code-with-d/"
+    ]
+  ],
+  [
+    [
       "2023-10-09, 13:58:48",
       "https://lobste.rs/s/nalmxy/incus_0_1_independent_fork_canonical_s_lxd"
     ],
@@ -207,16 +217,6 @@
     [
       "Fury - A blazing fast multi-language serialization framework powered by jit and zero-copy",
       "https://www.furyio.org/blog/fury_blazing_fast_multiple_language_serialization_framework"
-    ]
-  ],
-  [
-    [
-      "2023-10-07, 23:57:29",
-      "https://lobste.rs/s/banchz/using_microvms_for_gaming_on_fedora_asahi"
-    ],
-    [
-      "Using microVMs for Gaming on Fedora Asahi",
-      "https://sinrega.org/2023-10-06-using-microvms-for-gaming-on-fedora-asahi/"
     ]
   ],
   [
