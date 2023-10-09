@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-09, 07:19:39",
+      "https://lobste.rs/s/7mqjhc/openbsd_7_3_on_thinkpad_x270_for_scholarly"
+    ],
+    [
+      "OpenBSD 7.3 on ThinkPad X270 for Scholarly Work",
+      "https://www.coreystephan.com/openbsd-thinkpad/"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 07:18:45",
+      "https://lobste.rs/s/q7qjrq/install_freebsd_13_2_on_hetzner_server"
+    ],
+    [
+      "Install FreeBSD 13.2 on Hetzner Server",
+      "https://gist.github.com/ctsrc/9a72bc9a0229496aab5e4d3745af0bb9"
+    ]
+  ],
+  [
+    [
       "2023-10-09, 06:59:16",
       "https://lobste.rs/s/pjfvql/speeding_up_javascript_ecosystem_barrel"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2023-10-07, 17:12:14",
-      "https://lobste.rs/s/a6hweg/using_awk_r_parse_25tb_2019"
-    ],
-    [
-      "Using AWK and R to parse 25tb (2019)",
-      "https://livefreeordichotomize.com/posts/2019-06-04-using-awk-and-r-to-parse-25tb/index.html"
-    ]
-  ],
-  [
-    [
       "2023-10-07, 16:40:29",
       "https://lobste.rs/s/ozaiyz/breakelse_when_compiler_developers_get"
     ],
     [
       "breakelse: When Compiler Developers Get Bored",
       "https://neat-lang.github.io/breakelse.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-07, 06:13:10",
-      "https://lobste.rs/s/endmpv/polonius_update"
-    ],
-    [
-      "Polonius update",
-      "https://blog.rust-lang.org/inside-rust/2023/10/06/polonius-update.html"
     ]
   ],
   [
