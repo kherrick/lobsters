@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-09](index.md)
 
+* [2023-10-09, 18:49:01](https://lobste.rs/s/yxpcz0/design_principles_elixir_type_system) - [The Design Principles of the Elixir Type System](https://arxiv.org/pdf/2306.06391.pdf)
+* [2023-10-09, 18:48:41](https://lobste.rs/s/ovrjdm/van_den_oever_is_really_source_code_for) - [Van den Oever: Is that really the source code for this software?](https://lwn.net/Articles/555730/)
 * [2023-10-09, 18:09:44](https://lobste.rs/s/cj87fw/control_flow_integrity_v8) - [Control-flow Integrity in V8](https://v8.dev/blog/control-flow-integrity)
 * [2023-10-09, 18:04:23](https://lobste.rs/s/gnlhzt/coordinated_disclosure_1_click_rce_on) - [Coordinated Disclosure: 1-Click RCE on GNOME (CVE-2023-43641)](https://github.blog/2023-10-09-coordinated-disclosure-1-click-rce-on-gnome-cve-2023-43641/)
 * [2023-10-09, 17:17:33](https://lobste.rs/s/lhvvrx/classic_rock_mario_kart_why_we_can_t_agree) - [Classic rock, Mario Kart, and why we can't agree on Tailwind](https://joshcollinsworth.com/blog/tailwind-is-smart-steering)
