@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-09](index.md)
 
+* [2023-10-09, 19:33:36](https://lobste.rs/s/zdjds9/text_showdown_gap_buffers_vs_ropes) - [Text showdown: Gap Buffers vs Ropes](https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/)
 * [2023-10-09, 19:17:15](https://lobste.rs/s/xwmczz/vim_s_useful_lists) - [Vim's useful lists](https://codeinthehole.com/tips/vim-lists/)
 * [2023-10-09, 19:11:41](https://lobste.rs/s/lzoc4k/you_probably_shouldn_t_use_lookup_table) - [You (Probably) Shouldn't use a Lookup Table](https://specbranch.com/posts/lookup-tables/)
 * [2023-10-09, 18:49:01](https://lobste.rs/s/yxpcz0/design_principles_elixir_type_system) - [The Design Principles of the Elixir Type System](https://arxiv.org/pdf/2306.06391.pdf)
