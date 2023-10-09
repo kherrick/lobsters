@@ -6,6 +6,7 @@
 * [2023-10-09, 19:17:15](https://lobste.rs/s/xwmczz/vim_s_useful_lists) - [Vim's useful lists](https://codeinthehole.com/tips/vim-lists/)
 * [2023-10-09, 19:11:41](https://lobste.rs/s/lzoc4k/you_probably_shouldn_t_use_lookup_table) - [You (Probably) Shouldn't use a Lookup Table](https://specbranch.com/posts/lookup-tables/)
 * [2023-10-09, 18:48:41](https://lobste.rs/s/ovrjdm/is_really_source_code_for_this_software) - [Is that really the source code for this software?](https://lwn.net/Articles/555730/)
+* [2023-10-09, 18:09:44](https://lobste.rs/s/cj87fw/control_flow_integrity_v8) - [Control-flow Integrity in V8](https://v8.dev/blog/control-flow-integrity)
 * [2023-10-09, 18:04:23](https://lobste.rs/s/gnlhzt/coordinated_disclosure_1_click_rce_on) - [Coordinated Disclosure: 1-Click RCE on GNOME (CVE-2023-43641)](https://github.blog/2023-10-09-coordinated-disclosure-1-click-rce-on-gnome-cve-2023-43641/)
 * [2023-10-09, 17:17:33](https://lobste.rs/s/lhvvrx/classic_rock_mario_kart_why_we_can_t_agree) - [Classic rock, Mario Kart, and why we can't agree on Tailwind](https://joshcollinsworth.com/blog/tailwind-is-smart-steering)
 * [2023-10-09, 17:14:39](https://lobste.rs/s/dnubad/zimaboard_closest_thing_my_dream_home) - [Zimaboard: the closest thing to my dream home server setup](https://ounapuu.ee/posts/2023/10/09/zimaboard/)
@@ -22,7 +23,6 @@
 * [2023-10-09, 04:38:01](https://lobste.rs/s/mwmuw6/forty_years_programming) - [Forty years of programming](https://fabiensanglard.net/40/index.html)
 * [2023-10-09, 01:05:32](https://lobste.rs/s/o8d0ez/why_is_debian_way_it_is) - [Why is Debian the way it is?](https://blog.liw.fi/posts/2023/debian-reasons/)
 * [2023-10-09, 00:52:10](https://lobste.rs/s/o5wcea/my_personal_c_coding_style_as_late_2023) - [My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08/)
-* [2023-10-08, 20:22:54](https://lobste.rs/s/zeh1z9/hidden_performance_cost_nodejs_graphql) - [The Hidden Performance Cost of NodeJS and GraphQL](https://www.softwareatscale.dev/p/the-hidden-performance-cost-of-nodejs)
 * [2023-10-08, 13:47:46](https://lobste.rs/s/rncoml/have_i_been_squatted_check_if_your_domain) - [Have I Been Squatted? – Check if your domain has been typosquatted](https://www.haveibeensquatted.com/)
 * [2023-10-08, 13:34:45](https://lobste.rs/s/cm3eja/things_i_just_don_t_like_about_git) - [things i just don't like about git](https://cohost.org/tef/post/3009746-things-i-just-don-t)
 
