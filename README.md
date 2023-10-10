@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-10-10, 15:17:42](https://lobste.rs/s/diqxdl/fediscope_fediverse_post_aggregator) - [fediscope - Fediverse post aggregator](https://abuseofnotation.github.io/fediscope/)
+* [2023-10-10, 14:57:27](https://lobste.rs/s/sql9r9/building_collaborative_pixel_art_editor) - [Building a Collaborative Pixel Art Editor with CRDTs](https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/)
 * [2023-10-10, 14:26:29](https://lobste.rs/s/zamd4e/bare_metal_rust_android) - [Bare-metal Rust in Android](https://security.googleblog.com/2023/10/bare-metal-rust-in-android.html)
 * [2023-10-10, 14:11:27](https://lobste.rs/s/zr7ktu/path_glory_post_mortem_js13k_2023_winner) - [Path to Glory: Post-Mortem (JS13K 2023 Winner)](https://remvst.medium.com/path-to-glory-post-mortem-js13k-2023-be74a5272621)
 * [2023-10-10, 14:02:46](https://lobste.rs/s/0qdjt5/from_larvita_godot) - [From Larvita to Godot](https://gist.github.com/reduz/9b9d1278848237fd9a9a8b6cc77c8270)
@@ -24,7 +25,6 @@
 * [2023-10-09, 17:14:39](https://lobste.rs/s/dnubad/zimaboard_closest_thing_my_dream_home) - [Zimaboard: the closest thing to my dream home server setup](https://ounapuu.ee/posts/2023/10/09/zimaboard/)
 * [2023-10-09, 15:28:35](https://lobste.rs/s/cdvpel/organizing_system_configs_with_nixos) - [Organizing system configs with NixOS](https://johns.codes/blog/organizing-system-configs-with-nixos)
 * [2023-10-09, 13:58:48](https://lobste.rs/s/nalmxy/incus_0_1_independent_fork_canonical_s_lxd) - [Incus 0.1 (independent fork of Canonical's LXD) has been released](https://discuss.linuxcontainers.org/t/incus-0-1-has-been-released/18036)
-* [2023-10-09, 01:05:32](https://lobste.rs/s/o8d0ez/why_is_debian_way_it_is) - [Why is Debian the way it is?](https://blog.liw.fi/posts/2023/debian-reasons/)
 
 ## [Archives](archives/index.md)
 
