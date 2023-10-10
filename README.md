@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-10, 05:47:26](https://lobste.rs/s/taxmtj/plan_for_multicast_support_noise_based) - [A Plan for Multicast Support in Noise-based Protocols](https://soatok.blog/2023/10/10/a-plan-for-multicast-support-in-noise-based-protocols/)
 * [2023-10-10, 03:18:38](https://lobste.rs/s/zlvaia/attempt_at_visualizing_go_gc) - [An attempt at visualizing the Go GC](https://www.aadhav.me/posts/visualizing-the-go-gc/)
 * [2023-10-09, 21:59:40](https://lobste.rs/s/scllqn/ecc_ram_on_amd_ryzen_7000_desktop_cpus) - [ECC RAM on AMD Ryzen 7000 desktop CPUs](https://sunshowers.io/posts/am5-ryzen-7000-ecc-ram/)
 * [2023-10-09, 21:05:06](https://lobste.rs/s/sgoq0z/student_asked_how_i_keep_us_innovative_i) - [A student asked how I keep us innovative. I don't](https://ntietz.com/blog/forefront-of-innovation/)
@@ -14,7 +15,6 @@
 * [2023-10-09, 15:28:35](https://lobste.rs/s/cdvpel/organizing_system_configs_with_nixos) - [Organizing system configs with NixOS](https://johns.codes/blog/organizing-system-configs-with-nixos)
 * [2023-10-09, 14:41:57](https://lobste.rs/s/7k0lql/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/7k0lql/what_are_you_doing_this_week)
 * [2023-10-09, 13:58:48](https://lobste.rs/s/nalmxy/incus_0_1_independent_fork_canonical_s_lxd) - [Incus 0.1 (independent fork of Canonical's LXD) has been released](https://discuss.linuxcontainers.org/t/incus-0-1-has-been-released/18036)
-* [2023-10-09, 13:46:24](https://lobste.rs/s/4vpiue/nixos_flakes_book) - [NixOS & Flakes Book](https://nixos-and-flakes.thiscute.world)
 * [2023-10-09, 12:22:54](https://lobste.rs/s/nzu0jw/modeling_crdts_alloy_importance) - [modeling CRDTs in Alloy - the importance of idempotence](https://bytes.zone/posts/modeling-crdts-in-alloy-introduction-and-the-importance-of-idempotence/)
 * [2023-10-09, 11:22:05](https://lobste.rs/s/mt9n0s/mir_based_jit_prototype_for_ruby) - [An MIR-based JIT prototype for Ruby](https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby)
 * [2023-10-09, 08:40:30](https://lobste.rs/s/eej664/flappy_dird_flappy_bird_implemented) - [Flappy Dird: Flappy Bird implemented in MacOS Finder](https://eieio.games/nonsense/game-11-flappy-bird-finder/)
