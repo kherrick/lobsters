@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-10-10, 13:18:11",
+      "https://lobste.rs/s/bl96c4/nixos_router_nixos_router_framework"
+    ],
+    [
+      "nixos-router: A NixOS router framework",
+      "https://github.com/chayleaf/nixos-router"
+    ]
+  ],
+  [
+    [
+      "2023-10-10, 13:01:17",
+      "https://lobste.rs/s/bn5k7d/binary_trees_hash_array_mapped_tries_step"
+    ],
+    [
+      "Binary Trees To Hash Array Mapped Tries, Step by Step",
+      "https://vaibhavsagar.com/blog/2023/10/07/binary-trees-to-hamts/"
+    ]
+  ],
+  [
+    [
+      "2023-10-10, 13:00:07",
+      "https://lobste.rs/s/bd53ai/introducing_pulumi_esc_easy_secure"
+    ],
+    [
+      "Introducing Pulumi ESC: Easy and Secure Environments, Secrets and Configuration",
+      "https://www.pulumi.com/blog/environments-secrets-configurations-management/"
+    ]
+  ],
+  [
+    [
       "2023-10-10, 12:23:38",
       "https://lobste.rs/s/a6yevd/http_2_rapid_reset_deconstructing_record"
     ],
@@ -37,16 +67,6 @@
     [
       "Python wins the 2023 NEC C&C Prize",
       "https://www.nec.com/en/press/202310/global_20231010_01.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-10, 07:15:06",
-      "https://lobste.rs/s/kfbdzy/graphics_programming_weekly"
-    ],
-    [
-      "Graphics Programming Weekly",
-      "https://www.jendrikillner.com/article_database/"
     ]
   ],
   [
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2023-10-09, 11:22:05",
-      "https://lobste.rs/s/mt9n0s/mir_based_jit_prototype_for_ruby"
-    ],
-    [
-      "An MIR-based JIT prototype for Ruby",
-      "https://developers.redhat.com/articles/2023/10/09/mir-based-jit-prototype-ruby"
-    ]
-  ],
-  [
-    [
       "2023-10-09, 08:40:30",
       "https://lobste.rs/s/eej664/flappy_dird_flappy_bird_implemented"
     ],
     [
       "Flappy Dird: Flappy Bird implemented in MacOS Finder",
       "https://eieio.games/nonsense/game-11-flappy-bird-finder/"
-    ]
-  ],
-  [
-    [
-      "2023-10-09, 04:38:01",
-      "https://lobste.rs/s/mwmuw6/forty_years_programming"
-    ],
-    [
-      "Forty years of programming",
-      "https://fabiensanglard.net/40/index.html"
     ]
   ],
   [
