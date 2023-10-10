@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-10-10, 14:57:27",
+      "https://lobste.rs/s/sql9r9/building_collaborative_pixel_art_editor"
+    ],
+    [
+      "Building a Collaborative Pixel Art Editor with CRDTs",
+      "https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/"
+    ]
+  ],
+  [
+    [
       "2023-10-10, 14:26:29",
       "https://lobste.rs/s/zamd4e/bare_metal_rust_android"
     ],
@@ -237,16 +247,6 @@
     [
       "Incus 0.1 (independent fork of Canonical's LXD) has been released",
       "https://discuss.linuxcontainers.org/t/incus-0-1-has-been-released/18036"
-    ]
-  ],
-  [
-    [
-      "2023-10-09, 01:05:32",
-      "https://lobste.rs/s/o8d0ez/why_is_debian_way_it_is"
-    ],
-    [
-      "Why is Debian the way it is?",
-      "https://blog.liw.fi/posts/2023/debian-reasons/"
     ]
   ]
 ]
