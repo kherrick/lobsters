@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-10](index.md)
 
+* [2023-10-10, 13:18:11](https://lobste.rs/s/bl96c4/nixos_router_nixos_router_framework) - [nixos-router: A NixOS router framework](https://github.com/chayleaf/nixos-router)
+* [2023-10-10, 13:01:17](https://lobste.rs/s/bn5k7d/binary_trees_hash_array_mapped_tries_step) - [Binary Trees To Hash Array Mapped Tries, Step by Step](https://vaibhavsagar.com/blog/2023/10/07/binary-trees-to-hamts/)
+* [2023-10-10, 13:00:07](https://lobste.rs/s/bd53ai/introducing_pulumi_esc_easy_secure) - [Introducing Pulumi ESC: Easy and Secure Environments, Secrets and Configuration](https://www.pulumi.com/blog/environments-secrets-configurations-management/)
 * [2023-10-10, 12:23:38](https://lobste.rs/s/a6yevd/http_2_rapid_reset_deconstructing_record) - [HTTP/2 Rapid Reset: deconstructing the record-breaking attack](https://blog.cloudflare.com/technical-breakdown-http2-rapid-reset-ddos-attack/)
 * [2023-10-10, 10:29:42](https://lobste.rs/s/z1u51a/bhyve_cpu_allocation_test_for_256_core) - [bhyve CPU Allocation Test for 256 core machine](https://weblog.antranigv.am/posts/2023/10/bhyve-cpu-allocation-256/)
 * [2023-10-10, 09:26:41](https://lobste.rs/s/atkjcc/nightcap_run_windows_screensavers_under) - [nightcap: Run Windows screensavers under xscreensaver, using copious quantities of wine](https://github.com/abrasive/nightcap)
