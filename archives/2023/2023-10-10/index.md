@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-10](index.md)
 
+* [2023-10-10, 14:57:27](https://lobste.rs/s/sql9r9/building_collaborative_pixel_art_editor) - [Building a Collaborative Pixel Art Editor with CRDTs](https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/)
 * [2023-10-10, 14:26:29](https://lobste.rs/s/zamd4e/bare_metal_rust_android) - [Bare-metal Rust in Android](https://security.googleblog.com/2023/10/bare-metal-rust-in-android.html)
 * [2023-10-10, 14:20:56](https://lobste.rs/s/tozhk3/polar_signals_cloud_is_generally) - [Polar Signals Cloud is Generally Available](https://www.polarsignals.com/blog/posts/2023/10/10/polarsignals-cloud-ga)
 * [2023-10-10, 14:19:05](https://lobste.rs/s/shgbmq/qcon_sf_2023_how_netflix_really_uses_java) - [QCon SF 2023: How Netflix Really Uses Java by Paul Bakker](https://www.infoq.com/news/2023/10/java-at-netflix-bakker/)
