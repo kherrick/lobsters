@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-10, 22:35:01",
+      "https://lobste.rs/s/o9xt06/emacs_i_m_turncoat"
+    ],
+    [
+      "[Emacs] I'm a turncoat",
+      "https://strangeloop.blog/posts/emacs-im-a-turncoat/"
+    ]
+  ],
+  [
+    [
       "2023-10-10, 21:09:16",
       "https://lobste.rs/s/utu4bx/my_e_reader_setup"
     ],
@@ -127,16 +137,6 @@
     [
       "nixos-router: A NixOS router framework",
       "https://github.com/chayleaf/nixos-router"
-    ]
-  ],
-  [
-    [
-      "2023-10-10, 13:01:17",
-      "https://lobste.rs/s/bn5k7d/binary_trees_hash_array_mapped_tries_step"
-    ],
-    [
-      "Binary Trees To Hash Array Mapped Tries, Step by Step",
-      "https://vaibhavsagar.com/blog/2023/10/07/binary-trees-to-hamts/"
     ]
   ],
   [
