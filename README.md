@@ -8,7 +8,6 @@
 * [2023-10-10, 13:48:04](https://lobste.rs/s/jmuflw/fraud_was_code) - [The fraud was in the code](https://newsletter.mollywhite.net/p/the-fraud-was-in-the-code)
 * [2023-10-10, 13:18:11](https://lobste.rs/s/bl96c4/nixos_router_nixos_router_framework) - [nixos-router: A NixOS router framework](https://github.com/chayleaf/nixos-router)
 * [2023-10-10, 13:01:17](https://lobste.rs/s/bn5k7d/binary_trees_hash_array_mapped_tries_step) - [Binary Trees To Hash Array Mapped Tries, Step by Step](https://vaibhavsagar.com/blog/2023/10/07/binary-trees-to-hamts/)
-* [2023-10-10, 13:00:07](https://lobste.rs/s/bd53ai/introducing_pulumi_esc_easy_secure) - [Introducing Pulumi ESC: Easy and Secure Environments, Secrets and Configuration](https://www.pulumi.com/blog/environments-secrets-configurations-management/)
 * [2023-10-10, 12:23:38](https://lobste.rs/s/a6yevd/http_2_rapid_reset_deconstructing_record) - [HTTP/2 Rapid Reset: deconstructing the record-breaking attack](https://blog.cloudflare.com/technical-breakdown-http2-rapid-reset-ddos-attack/)
 * [2023-10-10, 10:29:42](https://lobste.rs/s/z1u51a/bhyve_cpu_allocation_test_for_256_core) - [bhyve CPU Allocation Test for 256 core machine](https://weblog.antranigv.am/posts/2023/10/bhyve-cpu-allocation-256/)
 * [2023-10-10, 09:26:41](https://lobste.rs/s/atkjcc/nightcap_run_windows_screensavers_under) - [nightcap: Run Windows screensavers under xscreensaver, using copious quantities of wine](https://github.com/abrasive/nightcap)
@@ -25,6 +24,7 @@
 * [2023-10-09, 17:14:39](https://lobste.rs/s/dnubad/zimaboard_closest_thing_my_dream_home) - [Zimaboard: the closest thing to my dream home server setup](https://ounapuu.ee/posts/2023/10/09/zimaboard/)
 * [2023-10-09, 15:28:35](https://lobste.rs/s/cdvpel/organizing_system_configs_with_nixos) - [Organizing system configs with NixOS](https://johns.codes/blog/organizing-system-configs-with-nixos)
 * [2023-10-09, 13:58:48](https://lobste.rs/s/nalmxy/incus_0_1_independent_fork_canonical_s_lxd) - [Incus 0.1 (independent fork of Canonical's LXD) has been released](https://discuss.linuxcontainers.org/t/incus-0-1-has-been-released/18036)
+* [2023-10-09, 01:05:32](https://lobste.rs/s/o8d0ez/why_is_debian_way_it_is) - [Why is Debian the way it is?](https://blog.liw.fi/posts/2023/debian-reasons/)
 
 ## [Archives](archives/index.md)
 
