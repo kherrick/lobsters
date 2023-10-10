@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-10, 18:13:50",
+      "https://lobste.rs/s/v5ferx/scheme_browser_hoot_tale"
+    ],
+    [
+      "Scheme in the browser: A Hoot of a tale",
+      "https://spritely.institute/news/scheme-wireworld-in-browser.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-10, 18:05:25",
+      "https://lobste.rs/s/10uihm/making_peace_with_simpson_s_paradox_2019"
+    ],
+    [
+      "Making peace with Simpson's Paradox (2019)",
+      "https://robertheaton.com/2019/02/24/making-peace-with-simpsons-paradox/"
+    ]
+  ],
+  [
+    [
       "2023-10-10, 15:17:42",
       "https://lobste.rs/s/diqxdl/fediscope_fediverse_post_aggregator"
     ],
@@ -227,26 +247,6 @@
     [
       "Organizing system configs with NixOS",
       "https://johns.codes/blog/organizing-system-configs-with-nixos"
-    ]
-  ],
-  [
-    [
-      "2023-10-09, 13:58:48",
-      "https://lobste.rs/s/nalmxy/incus_0_1_independent_fork_canonical_s_lxd"
-    ],
-    [
-      "Incus 0.1 (independent fork of Canonical's LXD) has been released",
-      "https://discuss.linuxcontainers.org/t/incus-0-1-has-been-released/18036"
-    ]
-  ],
-  [
-    [
-      "2023-10-09, 01:05:32",
-      "https://lobste.rs/s/o8d0ez/why_is_debian_way_it_is"
-    ],
-    [
-      "Why is Debian the way it is?",
-      "https://blog.liw.fi/posts/2023/debian-reasons/"
     ]
   ]
 ]
