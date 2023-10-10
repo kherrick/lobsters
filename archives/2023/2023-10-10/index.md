@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-10](index.md)
 
+* [2023-10-10, 13:48:04](https://lobste.rs/s/jmuflw/fraud_was_code) - [The fraud was in the code](https://newsletter.mollywhite.net/p/the-fraud-was-in-the-code)
 * [2023-10-10, 13:18:11](https://lobste.rs/s/bl96c4/nixos_router_nixos_router_framework) - [nixos-router: A NixOS router framework](https://github.com/chayleaf/nixos-router)
 * [2023-10-10, 13:01:17](https://lobste.rs/s/bn5k7d/binary_trees_hash_array_mapped_tries_step) - [Binary Trees To Hash Array Mapped Tries, Step by Step](https://vaibhavsagar.com/blog/2023/10/07/binary-trees-to-hamts/)
 * [2023-10-10, 13:00:07](https://lobste.rs/s/bd53ai/introducing_pulumi_esc_easy_secure) - [Introducing Pulumi ESC: Easy and Secure Environments, Secrets and Configuration](https://www.pulumi.com/blog/environments-secrets-configurations-management/)

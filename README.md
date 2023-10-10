@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-10, 13:48:04](https://lobste.rs/s/jmuflw/fraud_was_code) - [The fraud was in the code](https://newsletter.mollywhite.net/p/the-fraud-was-in-the-code)
 * [2023-10-10, 13:18:11](https://lobste.rs/s/bl96c4/nixos_router_nixos_router_framework) - [nixos-router: A NixOS router framework](https://github.com/chayleaf/nixos-router)
 * [2023-10-10, 13:01:17](https://lobste.rs/s/bn5k7d/binary_trees_hash_array_mapped_tries_step) - [Binary Trees To Hash Array Mapped Tries, Step by Step](https://vaibhavsagar.com/blog/2023/10/07/binary-trees-to-hamts/)
 * [2023-10-10, 13:00:07](https://lobste.rs/s/bd53ai/introducing_pulumi_esc_easy_secure) - [Introducing Pulumi ESC: Easy and Secure Environments, Secrets and Configuration](https://www.pulumi.com/blog/environments-secrets-configurations-management/)
@@ -19,7 +20,6 @@
 * [2023-10-09, 17:17:33](https://lobste.rs/s/lhvvrx/classic_rock_mario_kart_why_we_can_t_agree) - [Classic rock, Mario Kart, and why we can't agree on Tailwind](https://joshcollinsworth.com/blog/tailwind-is-smart-steering)
 * [2023-10-09, 17:14:39](https://lobste.rs/s/dnubad/zimaboard_closest_thing_my_dream_home) - [Zimaboard: the closest thing to my dream home server setup](https://ounapuu.ee/posts/2023/10/09/zimaboard/)
 * [2023-10-09, 15:28:35](https://lobste.rs/s/cdvpel/organizing_system_configs_with_nixos) - [Organizing system configs with NixOS](https://johns.codes/blog/organizing-system-configs-with-nixos)
-* [2023-10-09, 14:41:57](https://lobste.rs/s/7k0lql/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/7k0lql/what_are_you_doing_this_week)
 * [2023-10-09, 13:58:48](https://lobste.rs/s/nalmxy/incus_0_1_independent_fork_canonical_s_lxd) - [Incus 0.1 (independent fork of Canonical's LXD) has been released](https://discuss.linuxcontainers.org/t/incus-0-1-has-been-released/18036)
 * [2023-10-09, 12:22:54](https://lobste.rs/s/nzu0jw/modeling_crdts_alloy_importance) - [modeling CRDTs in Alloy - the importance of idempotence](https://bytes.zone/posts/modeling-crdts-in-alloy-introduction-and-the-importance-of-idempotence/)
 * [2023-10-09, 08:40:30](https://lobste.rs/s/eej664/flappy_dird_flappy_bird_implemented) - [Flappy Dird: Flappy Bird implemented in MacOS Finder](https://eieio.games/nonsense/game-11-flappy-bird-finder/)
