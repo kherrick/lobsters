@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-10-10](index.md)
 
+* [2023-10-10, 14:26:29](https://lobste.rs/s/zamd4e/bare_metal_rust_android) - [Bare-metal Rust in Android](https://security.googleblog.com/2023/10/bare-metal-rust-in-android.html)
+* [2023-10-10, 14:20:56](https://lobste.rs/s/tozhk3/polar_signals_cloud_is_generally) - [Polar Signals Cloud is Generally Available](https://www.polarsignals.com/blog/posts/2023/10/10/polarsignals-cloud-ga)
+* [2023-10-10, 14:19:05](https://lobste.rs/s/shgbmq/qcon_sf_2023_how_netflix_really_uses_java) - [QCon SF 2023: How Netflix Really Uses Java by Paul Bakker](https://www.infoq.com/news/2023/10/java-at-netflix-bakker/)
+* [2023-10-10, 14:11:27](https://lobste.rs/s/zr7ktu/path_glory_post_mortem_js13k_2023_winner) - [Path to Glory: Post-Mortem (JS13K 2023 Winner)](https://remvst.medium.com/path-to-glory-post-mortem-js13k-2023-be74a5272621)
 * [2023-10-10, 14:02:46](https://lobste.rs/s/0qdjt5/from_larvita_godot) - [From Larvita to Godot](https://gist.github.com/reduz/9b9d1278848237fd9a9a8b6cc77c8270)
 * [2023-10-10, 13:48:04](https://lobste.rs/s/jmuflw/fraud_was_code) - [The fraud was in the code](https://newsletter.mollywhite.net/p/the-fraud-was-in-the-code)
 * [2023-10-10, 13:18:11](https://lobste.rs/s/bl96c4/nixos_router_nixos_router_framework) - [nixos-router: A NixOS router framework](https://github.com/chayleaf/nixos-router)
