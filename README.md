@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-10, 07:15:06](https://lobste.rs/s/kfbdzy/graphics_programming_weekly) - [Graphics Programming Weekly](https://www.jendrikillner.com/article_database/)
 * [2023-10-10, 05:47:26](https://lobste.rs/s/taxmtj/plan_for_multicast_support_noise_based) - [A Plan for Multicast Support in Noise-based Protocols](https://soatok.blog/2023/10/10/a-plan-for-multicast-support-in-noise-based-protocols/)
 * [2023-10-10, 03:18:38](https://lobste.rs/s/zlvaia/attempt_at_visualizing_go_gc) - [An attempt at visualizing the Go GC](https://www.aadhav.me/posts/visualizing-the-go-gc/)
 * [2023-10-09, 21:59:40](https://lobste.rs/s/scllqn/ecc_ram_on_amd_ryzen_7000_desktop_cpus) - [ECC RAM on AMD Ryzen 7000 desktop CPUs](https://sunshowers.io/posts/am5-ryzen-7000-ecc-ram/)
@@ -24,7 +25,6 @@
 * [2023-10-09, 01:05:32](https://lobste.rs/s/o8d0ez/why_is_debian_way_it_is) - [Why is Debian the way it is?](https://blog.liw.fi/posts/2023/debian-reasons/)
 * [2023-10-09, 00:52:10](https://lobste.rs/s/o5wcea/my_personal_c_coding_style_as_late_2023) - [My personal C coding style as of late 2023](https://nullprogram.com/blog/2023/10/08/)
 * [2023-10-08, 13:47:46](https://lobste.rs/s/rncoml/have_i_been_squatted_check_if_your_domain) - [Have I Been Squatted? – Check if your domain has been typosquatted](https://www.haveibeensquatted.com/)
-* [2023-10-08, 13:34:45](https://lobste.rs/s/cm3eja/things_i_just_don_t_like_about_git) - [things i just don't like about git](https://cohost.org/tef/post/3009746-things-i-just-don-t)
 
 ## [Archives](archives/index.md)
 
