@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2023-10-09, 18:09:44",
-      "https://lobste.rs/s/cj87fw/control_flow_integrity_v8"
-    ],
-    [
-      "Control-flow Integrity in V8",
-      "https://v8.dev/blog/control-flow-integrity"
-    ]
-  ],
-  [
-    [
       "2023-10-09, 18:04:23",
       "https://lobste.rs/s/gnlhzt/coordinated_disclosure_1_click_rce_on"
     ],
@@ -207,6 +197,16 @@
     [
       "Flappy Dird: Flappy Bird implemented in MacOS Finder",
       "https://eieio.games/nonsense/game-11-flappy-bird-finder/"
+    ]
+  ],
+  [
+    [
+      "2023-10-09, 07:19:39",
+      "https://lobste.rs/s/7mqjhc/openbsd_7_3_on_thinkpad_x270_for_scholarly"
+    ],
+    [
+      "OpenBSD 7.3 on ThinkPad X270 for Scholarly Work",
+      "https://www.coreystephan.com/openbsd-thinkpad/"
     ]
   ],
   [
