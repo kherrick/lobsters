@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-10, 18:33:06](https://lobste.rs/s/dztssx/stable_look_at_rotations) - [Stable look-at rotations](https://marc-b-reynolds.github.io/math/2023/06/15/LookAt.html)
 * [2023-10-10, 18:30:17](https://lobste.rs/s/fgumce/why_programming_languages_matter_by) - [\"Why Programming Languages Matter\" by Andrew Black](https://www.youtube.com/watch?v=JqYCt9rTG8g)
-* [2023-10-10, 18:24:10](https://lobste.rs/s/xx465w/simulation_islands) - [Simulation Islands](https://box2d.org/posts/2023/10/simulation-islands/)
 * [2023-10-10, 18:13:50](https://lobste.rs/s/v5ferx/scheme_browser_hoot_tale) - [Scheme in the browser: A Hoot of a tale](https://spritely.institute/news/scheme-wireworld-in-browser.html)
 * [2023-10-10, 18:05:25](https://lobste.rs/s/10uihm/making_peace_with_simpson_s_paradox_2019) - [Making peace with Simpson's Paradox (2019)](https://robertheaton.com/2019/02/24/making-peace-with-simpsons-paradox/)
 * [2023-10-10, 15:17:42](https://lobste.rs/s/diqxdl/fediscope_fediverse_post_aggregator) - [fediscope - Fediverse post aggregator](https://abuseofnotation.github.io/fediscope/)
