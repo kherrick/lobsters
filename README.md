@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-10-10, 18:52:47](https://lobste.rs/s/u8bazx/qt_6_6_released) - [Qt 6.6 Released](https://www.qt.io/blog/qt-6.6-released)
+* [2023-10-10, 19:44:37](https://lobste.rs/s/a3jvm3/is_guix_full_source_bootstrap_lie) - [Is Guix full-source bootstrap a lie?](https://simon.tournier.info/posts/2023-10-01-bootstrapping.html)
 * [2023-10-10, 18:30:17](https://lobste.rs/s/fgumce/why_programming_languages_matter_by) - [\"Why Programming Languages Matter\" by Andrew Black](https://www.youtube.com/watch?v=JqYCt9rTG8g)
 * [2023-10-10, 18:13:50](https://lobste.rs/s/v5ferx/scheme_browser_hoot_tale) - [Scheme in the browser: A Hoot of a tale](https://spritely.institute/news/scheme-wireworld-in-browser.html)
 * [2023-10-10, 18:05:25](https://lobste.rs/s/10uihm/making_peace_with_simpson_s_paradox_2019) - [Making peace with Simpson's Paradox (2019)](https://robertheaton.com/2019/02/24/making-peace-with-simpsons-paradox/)
