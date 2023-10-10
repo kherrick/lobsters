@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-10](index.md)
 
+* [2023-10-10, 14:02:46](https://lobste.rs/s/0qdjt5/from_larvita_godot) - [From Larvita to Godot](https://gist.github.com/reduz/9b9d1278848237fd9a9a8b6cc77c8270)
 * [2023-10-10, 13:48:04](https://lobste.rs/s/jmuflw/fraud_was_code) - [The fraud was in the code](https://newsletter.mollywhite.net/p/the-fraud-was-in-the-code)
 * [2023-10-10, 13:18:11](https://lobste.rs/s/bl96c4/nixos_router_nixos_router_framework) - [nixos-router: A NixOS router framework](https://github.com/chayleaf/nixos-router)
 * [2023-10-10, 13:01:17](https://lobste.rs/s/bn5k7d/binary_trees_hash_array_mapped_tries_step) - [Binary Trees To Hash Array Mapped Tries, Step by Step](https://vaibhavsagar.com/blog/2023/10/07/binary-trees-to-hamts/)
