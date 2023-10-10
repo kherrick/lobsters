@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-10](index.md)
 
+* [2023-10-10, 10:29:42](https://lobste.rs/s/z1u51a/bhyve_cpu_allocation_test_for_256_core) - [bhyve CPU Allocation Test for 256 core machine](https://weblog.antranigv.am/posts/2023/10/bhyve-cpu-allocation-256/)
 * [2023-10-10, 09:26:41](https://lobste.rs/s/atkjcc/nightcap_run_windows_screensavers_under) - [nightcap: Run Windows screensavers under xscreensaver, using copious quantities of wine](https://github.com/abrasive/nightcap)
 * [2023-10-10, 07:24:11](https://lobste.rs/s/biynfj/python_wins_2023_nec_c_c_prize) - [Python wins the 2023 NEC C&C Prize](https://www.nec.com/en/press/202310/global_20231010_01.html)
 * [2023-10-10, 07:15:06](https://lobste.rs/s/kfbdzy/graphics_programming_weekly) - [Graphics Programming Weekly](https://www.jendrikillner.com/article_database/)
