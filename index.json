@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-10, 03:18:38",
+      "https://lobste.rs/s/zlvaia/attempt_at_visualizing_go_gc"
+    ],
+    [
+      "An attempt at visualizing the Go GC",
+      "https://www.aadhav.me/posts/visualizing-the-go-gc/"
+    ]
+  ],
+  [
+    [
       "2023-10-09, 21:59:40",
       "https://lobste.rs/s/scllqn/ecc_ram_on_amd_ryzen_7000_desktop_cpus"
     ],
@@ -57,16 +67,6 @@
     [
       "You (Probably) Shouldn't use a Lookup Table",
       "https://specbranch.com/posts/lookup-tables/"
-    ]
-  ],
-  [
-    [
-      "2023-10-09, 18:48:41",
-      "https://lobste.rs/s/ovrjdm/is_really_source_code_for_this_software"
-    ],
-    [
-      "Is that really the source code for this software?",
-      "https://lwn.net/Articles/555730/"
     ]
   ],
   [
