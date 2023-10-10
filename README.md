@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-10, 15:17:42](https://lobste.rs/s/diqxdl/fediscope_fediverse_post_aggregator) - [fediscope - Fediverse post aggregator](https://abuseofnotation.github.io/fediscope/)
 * [2023-10-10, 14:57:27](https://lobste.rs/s/sql9r9/building_collaborative_pixel_art_editor) - [Building a Collaborative Pixel Art Editor with CRDTs](https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/)
 * [2023-10-10, 14:26:29](https://lobste.rs/s/zamd4e/bare_metal_rust_android) - [Bare-metal Rust in Android](https://security.googleblog.com/2023/10/bare-metal-rust-in-android.html)
-* [2023-10-10, 14:20:56](https://lobste.rs/s/tozhk3/polar_signals_cloud_is_generally) - [Polar Signals Cloud is Generally Available](https://www.polarsignals.com/blog/posts/2023/10/10/polarsignals-cloud-ga)
-* [2023-10-10, 14:19:05](https://lobste.rs/s/shgbmq/qcon_sf_2023_how_netflix_really_uses_java) - [QCon SF 2023: How Netflix Really Uses Java by Paul Bakker](https://www.infoq.com/news/2023/10/java-at-netflix-bakker/)
+* [2023-10-10, 14:02:46](https://lobste.rs/s/0qdjt5/from_larvita_godot) - [From Larvita to Godot](https://gist.github.com/reduz/9b9d1278848237fd9a9a8b6cc77c8270)
 * [2023-10-10, 13:48:04](https://lobste.rs/s/jmuflw/fraud_was_code) - [The fraud was in the code](https://newsletter.mollywhite.net/p/the-fraud-was-in-the-code)
 * [2023-10-10, 13:18:11](https://lobste.rs/s/bl96c4/nixos_router_nixos_router_framework) - [nixos-router: A NixOS router framework](https://github.com/chayleaf/nixos-router)
 * [2023-10-10, 13:01:17](https://lobste.rs/s/bn5k7d/binary_trees_hash_array_mapped_tries_step) - [Binary Trees To Hash Array Mapped Tries, Step by Step](https://vaibhavsagar.com/blog/2023/10/07/binary-trees-to-hamts/)
