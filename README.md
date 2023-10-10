@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-10, 19:44:37](https://lobste.rs/s/a3jvm3/is_guix_full_source_bootstrap_lie) - [Is Guix full-source bootstrap a lie?](https://simon.tournier.info/posts/2023-10-01-bootstrapping.html)
 * [2023-10-10, 18:30:17](https://lobste.rs/s/fgumce/why_programming_languages_matter_by) - [\"Why Programming Languages Matter\" by Andrew Black](https://www.youtube.com/watch?v=JqYCt9rTG8g)
 * [2023-10-10, 18:24:10](https://lobste.rs/s/xx465w/simulation_islands) - [Simulation Islands](https://box2d.org/posts/2023/10/simulation-islands/)
 * [2023-10-10, 18:13:50](https://lobste.rs/s/v5ferx/scheme_browser_hoot_tale) - [Scheme in the browser: A Hoot of a tale](https://spritely.institute/news/scheme-wireworld-in-browser.html)
@@ -24,7 +25,6 @@
 * [2023-10-09, 19:11:41](https://lobste.rs/s/lzoc4k/you_probably_shouldn_t_use_lookup_table) - [You (Probably) Shouldn't use a Lookup Table](https://specbranch.com/posts/lookup-tables/)
 * [2023-10-09, 18:04:23](https://lobste.rs/s/gnlhzt/coordinated_disclosure_1_click_rce_on) - [Coordinated Disclosure: 1-Click RCE on GNOME (CVE-2023-43641)](https://github.blog/2023-10-09-coordinated-disclosure-1-click-rce-on-gnome-cve-2023-43641/)
 * [2023-10-09, 17:14:39](https://lobste.rs/s/dnubad/zimaboard_closest_thing_my_dream_home) - [Zimaboard: the closest thing to my dream home server setup](https://ounapuu.ee/posts/2023/10/09/zimaboard/)
-* [2023-10-09, 15:28:35](https://lobste.rs/s/cdvpel/organizing_system_configs_with_nixos) - [Organizing system configs with NixOS](https://johns.codes/blog/organizing-system-configs-with-nixos)
 
 ## [Archives](archives/index.md)
 
