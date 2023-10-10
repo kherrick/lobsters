@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-10, 22:35:01](https://lobste.rs/s/o9xt06/emacs_i_m_turncoat) - [[Emacs] I'm a turncoat](https://strangeloop.blog/posts/emacs-im-a-turncoat/)
 * [2023-10-10, 21:09:16](https://lobste.rs/s/utu4bx/my_e_reader_setup) - [My E-Reader Setup](https://blog.videah.net/my-e-reader-setup/)
 * [2023-10-10, 20:42:40](https://lobste.rs/s/qaq6e1/concatenative_programming_stack_based) - [Concatenative programming and stack-based languages](https://www.youtube.com/watch?v=umSuLpjFUf8)
 * [2023-10-10, 20:41:12](https://lobste.rs/s/yoovfp/graphical_janet_repl_spirit_self) - [Graphical Janet REPL in Spirit of Self](https://www.1a-insec.net/blog/20-janet-graphical-repl/)
@@ -13,7 +14,6 @@
 * [2023-10-10, 14:02:46](https://lobste.rs/s/0qdjt5/from_larvita_godot) - [From Larvita to Godot](https://gist.github.com/reduz/9b9d1278848237fd9a9a8b6cc77c8270)
 * [2023-10-10, 13:48:04](https://lobste.rs/s/jmuflw/fraud_was_code) - [The fraud was in the code](https://newsletter.mollywhite.net/p/the-fraud-was-in-the-code)
 * [2023-10-10, 13:18:11](https://lobste.rs/s/bl96c4/nixos_router_nixos_router_framework) - [nixos-router: A NixOS router framework](https://github.com/chayleaf/nixos-router)
-* [2023-10-10, 13:01:17](https://lobste.rs/s/bn5k7d/binary_trees_hash_array_mapped_tries_step) - [Binary Trees To Hash Array Mapped Tries, Step by Step](https://vaibhavsagar.com/blog/2023/10/07/binary-trees-to-hamts/)
 * [2023-10-10, 12:23:38](https://lobste.rs/s/a6yevd/http_2_rapid_reset_deconstructing_record) - [HTTP/2 Rapid Reset: deconstructing the record-breaking attack](https://blog.cloudflare.com/technical-breakdown-http2-rapid-reset-ddos-attack/)
 * [2023-10-10, 10:29:42](https://lobste.rs/s/z1u51a/bhyve_cpu_allocation_test_for_256_core) - [bhyve CPU Allocation Test for 256 core machine](https://weblog.antranigv.am/posts/2023/10/bhyve-cpu-allocation-256/)
 * [2023-10-10, 09:26:41](https://lobste.rs/s/atkjcc/nightcap_run_windows_screensavers_under) - [nightcap: Run Windows screensavers under xscreensaver, using copious quantities of wine](https://github.com/abrasive/nightcap)
