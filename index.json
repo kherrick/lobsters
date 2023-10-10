@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-10, 19:44:37",
+      "https://lobste.rs/s/a3jvm3/is_guix_full_source_bootstrap_lie"
+    ],
+    [
+      "Is Guix full-source bootstrap a lie?",
+      "https://simon.tournier.info/posts/2023-10-01-bootstrapping.html"
+    ]
+  ],
+  [
+    [
       "2023-10-10, 18:30:17",
       "https://lobste.rs/s/fgumce/why_programming_languages_matter_by"
     ],
@@ -237,16 +247,6 @@
     [
       "Zimaboard: the closest thing to my dream home server setup",
       "https://ounapuu.ee/posts/2023/10/09/zimaboard/"
-    ]
-  ],
-  [
-    [
-      "2023-10-09, 15:28:35",
-      "https://lobste.rs/s/cdvpel/organizing_system_configs_with_nixos"
-    ],
-    [
-      "Organizing system configs with NixOS",
-      "https://johns.codes/blog/organizing-system-configs-with-nixos"
     ]
   ]
 ]
