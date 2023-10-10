@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-10, 20:42:40](https://lobste.rs/s/qaq6e1/concatenative_programming_stack_based) - [Concatenative programming and stack-based languages](https://www.youtube.com/watch?v=umSuLpjFUf8)
 * [2023-10-10, 20:41:12](https://lobste.rs/s/yoovfp/graphical_janet_repl_spirit_self) - [Graphical Janet REPL in Spirit of Self](https://www.1a-insec.net/blog/20-janet-graphical-repl/)
 * [2023-10-10, 18:30:17](https://lobste.rs/s/fgumce/why_programming_languages_matter_by) - [\"Why Programming Languages Matter\" by Andrew Black](https://www.youtube.com/watch?v=JqYCt9rTG8g)
 * [2023-10-10, 18:24:10](https://lobste.rs/s/xx465w/simulation_islands) - [Simulation Islands](https://box2d.org/posts/2023/10/simulation-islands/)
@@ -23,7 +24,6 @@
 * [2023-10-09, 19:56:55](https://lobste.rs/s/jhjlxw/when_zfs_was_young) - [When zfs was young](https://ptribble.blogspot.com/2023/10/when-zfs-was-young.html)
 * [2023-10-09, 19:33:36](https://lobste.rs/s/zdjds9/text_showdown_gap_buffers_vs_ropes) - [Text showdown: Gap Buffers vs Ropes](https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/)
 * [2023-10-09, 19:11:41](https://lobste.rs/s/lzoc4k/you_probably_shouldn_t_use_lookup_table) - [You (Probably) Shouldn't use a Lookup Table](https://specbranch.com/posts/lookup-tables/)
-* [2023-10-09, 18:04:23](https://lobste.rs/s/gnlhzt/coordinated_disclosure_1_click_rce_on) - [Coordinated Disclosure: 1-Click RCE on GNOME (CVE-2023-43641)](https://github.blog/2023-10-09-coordinated-disclosure-1-click-rce-on-gnome-cve-2023-43641/)
 * [2023-10-09, 17:14:39](https://lobste.rs/s/dnubad/zimaboard_closest_thing_my_dream_home) - [Zimaboard: the closest thing to my dream home server setup](https://ounapuu.ee/posts/2023/10/09/zimaboard/)
 
 ## [Archives](archives/index.md)
