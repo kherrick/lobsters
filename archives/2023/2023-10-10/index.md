@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-10-10](index.md)
+
+* [2023-10-10, 03:18:38](https://lobste.rs/s/zlvaia/attempt_at_visualizing_go_gc) - [An attempt at visualizing the Go GC](https://www.aadhav.me/posts/visualizing-the-go-gc/)
