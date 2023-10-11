@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-11, 20:44:01](https://lobste.rs/s/dilm39/brief_introduction_activitypub_future) - [A Brief Introduction of ActivityPub: The Future of Social Networks](https://hackernoon.com/a-brief-introduction-of-activitypub-the-future-of-social-networks)
 * [2023-10-11, 19:26:15](https://lobste.rs/s/oxjkbc/bye_bye_bios_tool_for_when_you_need_warn) - [Bye Bye BIOS: a tool for when you need to warn users the VM image is EFI only](https://www.berrange.com/posts/2023/10/06/bye-bye-bios-a-tool-for-when-you-need-to-warn-users-the-vm-image-is-efi-only/)
 * [2023-10-11, 18:05:11](https://lobste.rs/s/ux16ta/geometry_algebra_back_again) - [Geometry to Algebra and Back Again](https://jackrusher.com/pwl-2023/)
 * [2023-10-11, 17:43:26](https://lobste.rs/s/zi7jri/squid_caching_proxy_security_audit_55) - [Squid Caching Proxy Security Audit: 55 vulnerabilities and 35 0days](https://megamansec.github.io/Squid-Security-Audit/)
@@ -24,7 +25,6 @@
 * [2023-10-10, 18:13:50](https://lobste.rs/s/v5ferx/scheme_browser_hoot_tale) - [Scheme in the browser: A Hoot of a tale](https://spritely.institute/news/scheme-wireworld-in-browser.html)
 * [2023-10-10, 18:05:25](https://lobste.rs/s/10uihm/making_peace_with_simpson_s_paradox_2019) - [Making peace with Simpson's Paradox (2019)](https://robertheaton.com/2019/02/24/making-peace-with-simpsons-paradox/)
 * [2023-10-10, 13:48:04](https://lobste.rs/s/jmuflw/fraud_was_code) - [The fraud was in the code](https://newsletter.mollywhite.net/p/the-fraud-was-in-the-code)
-* [2023-10-10, 09:26:41](https://lobste.rs/s/atkjcc/nightcap_run_windows_screensavers_under) - [nightcap: Run Windows screensavers under xscreensaver, using copious quantities of wine](https://github.com/abrasive/nightcap)
 
 ## [Archives](archives/index.md)
 
