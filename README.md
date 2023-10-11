@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-11, 23:02:27](https://lobste.rs/s/ghblzm/engage_wider_audience_with_activitypub) - [Engage a Wider Audience With ActivityPub on WordPress.com](https://wordpress.com/blog/2023/10/11/activitypub/)
 * [2023-10-11, 21:57:36](https://lobste.rs/s/8i2ymk/macos_containers_initiative) - [macOS Containers Initiative](https://macoscontainers.org/)
 * [2023-10-11, 21:43:02](https://lobste.rs/s/du0vye/unix_structured_concurrency) - [UNIX Structured Concurrency](https://matklad.github.io/2023/10/11/unix-structured-concurrency.html)
 * [2023-10-11, 20:44:01](https://lobste.rs/s/dilm39/brief_introduction_activitypub_future) - [A Brief Introduction of ActivityPub: The Future of Social Networks](https://hackernoon.com/a-brief-introduction-of-activitypub-the-future-of-social-networks)
@@ -21,7 +22,6 @@
 * [2023-10-11, 03:58:23](https://lobste.rs/s/n61ndb/on_organizing_bookmarks) - [On Organizing Bookmarks](https://joshleeb.com/posts/organizing-bookmarks.html)
 * [2023-10-11, 00:16:32](https://lobste.rs/s/zoopkh/happy_5th_birthday_serenityos) - [Happy 5th birthday, SerenityOS](https://serenityos.org/happy/5th/)
 * [2023-10-10, 21:09:16](https://lobste.rs/s/utu4bx/my_e_reader_setup) - [My E-Reader Setup](https://blog.videah.net/my-e-reader-setup/)
-* [2023-10-10, 20:41:12](https://lobste.rs/s/yoovfp/graphical_janet_repl_spirit_self) - [Graphical Janet REPL in Spirit of Self](https://www.1a-insec.net/blog/20-janet-graphical-repl/)
 * [2023-10-10, 18:13:50](https://lobste.rs/s/v5ferx/scheme_browser_hoot_tale) - [Scheme in the browser: A Hoot of a tale](https://spritely.institute/news/scheme-wireworld-in-browser.html)
 * [2023-10-10, 18:05:25](https://lobste.rs/s/10uihm/making_peace_with_simpson_s_paradox_2019) - [Making peace with Simpson's Paradox (2019)](https://robertheaton.com/2019/02/24/making-peace-with-simpsons-paradox/)
 * [2023-10-10, 13:48:04](https://lobste.rs/s/jmuflw/fraud_was_code) - [The fraud was in the code](https://newsletter.mollywhite.net/p/the-fraud-was-in-the-code)
