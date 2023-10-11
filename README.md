@@ -22,9 +22,9 @@
 * [2023-10-10, 03:18:38](https://lobste.rs/s/zlvaia/attempt_at_visualizing_go_gc) - [An attempt at visualizing the Go GC](https://www.aadhav.me/posts/visualizing-the-go-gc/)
 * [2023-10-09, 21:59:40](https://lobste.rs/s/scllqn/ecc_ram_on_amd_ryzen_7000_desktop_cpus) - [ECC RAM on AMD Ryzen 7000 desktop CPUs](https://sunshowers.io/posts/am5-ryzen-7000-ecc-ram/)
 * [2023-10-09, 21:05:06](https://lobste.rs/s/sgoq0z/student_asked_how_i_keep_us_innovative_i) - [A student asked how I keep us innovative. I don't](https://ntietz.com/blog/forefront-of-innovation/)
-* [2023-10-09, 19:56:55](https://lobste.rs/s/jhjlxw/when_zfs_was_young) - [When zfs was young](https://ptribble.blogspot.com/2023/10/when-zfs-was-young.html)
 * [2023-10-09, 19:33:36](https://lobste.rs/s/zdjds9/text_showdown_gap_buffers_vs_ropes) - [Text showdown: Gap Buffers vs Ropes](https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/)
 * [2023-10-09, 19:11:41](https://lobste.rs/s/lzoc4k/you_probably_shouldn_t_use_lookup_table) - [You (Probably) Shouldn't use a Lookup Table](https://specbranch.com/posts/lookup-tables/)
+* [2023-10-09, 17:14:39](https://lobste.rs/s/dnubad/zimaboard_closest_thing_my_dream_home) - [Zimaboard: the closest thing to my dream home server setup](https://ounapuu.ee/posts/2023/10/09/zimaboard/)
 
 ## [Archives](archives/index.md)
 
