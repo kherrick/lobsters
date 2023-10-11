@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-10-11, 18:05:11](https://lobste.rs/s/ux16ta/geometry_algebra_back_again) - [Geometry to Algebra and Back Again](https://jackrusher.com/pwl-2023/)
+* [2023-10-11, 17:43:26](https://lobste.rs/s/zi7jri/squid_caching_proxy_security_audit_55) - [Squid Caching Proxy Security Audit: 55 vulnerabilities and 35 0days](https://megamansec.github.io/Squid-Security-Audit/)
 * [2023-10-11, 17:04:17](https://lobste.rs/s/iagxzc/freeradius_v4_alpha1_released) - [FreeRADIUS v4 alpha1 released](https://freeradius.org/4.0/alpha.html)
 * [2023-10-11, 17:01:52](https://lobste.rs/s/eonfrp/bookworm_new_version_raspberry_pi_os) - [Bookworm — the new version of Raspberry Pi OS](https://www.raspberrypi.com/news/bookworm-the-new-version-of-raspberry-pi-os/)
 * [2023-10-11, 16:44:12](https://lobste.rs/s/u6niws/gnome_merge_requests_opened_would_drop_x) - [GNOME Merge Requests Opened That Would Drop X.Org Session Support](https://www.phoronix.com/news/GNOME-MR-Drop-X11-Session)
@@ -11,7 +12,6 @@
 * [2023-10-11, 14:59:41](https://lobste.rs/s/yinqtw/ectype_bringing_type_safety_more_vanilla) - [Ectype - bringing type safety (and more!) to vanilla JavaScript](https://gitlab.com/dejawu/ectype)
 * [2023-10-11, 13:29:09](https://lobste.rs/s/np90nj/bad_emacs_defaults) - [Bad Emacs defaults](https://idiomdrottning.org/bad-emacs-defaults)
 * [2023-10-11, 11:43:38](https://lobste.rs/s/orp6c0/intuition_for_cryptography) - [Intuition for Cryptography](https://azeemba.com/posts/intuition-for-cryptography.html)
-* [2023-10-11, 09:15:34](https://lobste.rs/s/odgq9i/fix_linux_browser_installer_8_on_freebsd) - [Fix linux-browser-installer(8) on FreeBSD](https://vermaden.wordpress.com/2023/10/11/fix-linux-browser-installer8-on-freebsd/)
 * [2023-10-11, 08:12:35](https://lobste.rs/s/ksdjlk/what_s_new_for_risc_v_llvm_17) - [What's new for RISC-V in LLVM 17](https://muxup.com/2023q4/whats-new-for-risc-v-in-llvm-17)
 * [2023-10-11, 06:09:23](https://lobste.rs/s/6ke7ny/introduction_web_sustainability) - [Introduction to web sustainability](https://developer.mozilla.org/en-US/blog/introduction-to-web-sustainability/)
 * [2023-10-11, 06:03:51](https://lobste.rs/s/jobjyn/cve_2023_38545_curl_socks5_heap_buffer) - [CVE-2023-38545 curl SOCKS5 heap buffer overflow](https://curl.se/docs/CVE-2023-38545.html)
