@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-11, 20:44:01",
+      "https://lobste.rs/s/dilm39/brief_introduction_activitypub_future"
+    ],
+    [
+      "A Brief Introduction of ActivityPub: The Future of Social Networks",
+      "https://hackernoon.com/a-brief-introduction-of-activitypub-the-future-of-social-networks"
+    ]
+  ],
+  [
+    [
       "2023-10-11, 19:26:15",
       "https://lobste.rs/s/oxjkbc/bye_bye_bios_tool_for_when_you_need_warn"
     ],
@@ -237,16 +247,6 @@
     [
       "The fraud was in the code",
       "https://newsletter.mollywhite.net/p/the-fraud-was-in-the-code"
-    ]
-  ],
-  [
-    [
-      "2023-10-10, 09:26:41",
-      "https://lobste.rs/s/atkjcc/nightcap_run_windows_screensavers_under"
-    ],
-    [
-      "nightcap: Run Windows screensavers under xscreensaver, using copious quantities of wine",
-      "https://github.com/abrasive/nightcap"
     ]
   ]
 ]
