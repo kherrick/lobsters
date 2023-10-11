@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-11](index.md)
 
+* [2023-10-11, 19:26:15](https://lobste.rs/s/oxjkbc/bye_bye_bios_tool_for_when_you_need_warn) - [Bye Bye BIOS: a tool for when you need to warn users the VM image is EFI only](https://www.berrange.com/posts/2023/10/06/bye-bye-bios-a-tool-for-when-you-need-to-warn-users-the-vm-image-is-efi-only/)
 * [2023-10-11, 18:05:11](https://lobste.rs/s/ux16ta/geometry_algebra_back_again) - [Geometry to Algebra and Back Again](https://jackrusher.com/pwl-2023/)
 * [2023-10-11, 17:43:26](https://lobste.rs/s/zi7jri/squid_caching_proxy_security_audit_55) - [Squid Caching Proxy Security Audit: 55 vulnerabilities and 35 0days](https://megamansec.github.io/Squid-Security-Audit/)
 * [2023-10-11, 17:04:17](https://lobste.rs/s/iagxzc/freeradius_v4_alpha1_released) - [FreeRADIUS v4 alpha1 released](https://freeradius.org/4.0/alpha.html)
