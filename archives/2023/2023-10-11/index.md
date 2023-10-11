@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-11](index.md)
 
+* [2023-10-11, 18:05:11](https://lobste.rs/s/ux16ta/geometry_algebra_back_again) - [Geometry to Algebra and Back Again](https://jackrusher.com/pwl-2023/)
 * [2023-10-11, 17:04:17](https://lobste.rs/s/iagxzc/freeradius_v4_alpha1_released) - [FreeRADIUS v4 alpha1 released](https://freeradius.org/4.0/alpha.html)
 * [2023-10-11, 17:01:52](https://lobste.rs/s/eonfrp/bookworm_new_version_raspberry_pi_os) - [Bookworm — the new version of Raspberry Pi OS](https://www.raspberrypi.com/news/bookworm-the-new-version-of-raspberry-pi-os/)
 * [2023-10-11, 16:44:12](https://lobste.rs/s/u6niws/gnome_merge_requests_opened_would_drop_x) - [GNOME Merge Requests Opened That Would Drop X.Org Session Support](https://www.phoronix.com/news/GNOME-MR-Drop-X11-Session)
