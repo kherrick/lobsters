@@ -24,7 +24,7 @@
 * [2023-10-10, 18:13:50](https://lobste.rs/s/v5ferx/scheme_browser_hoot_tale) - [Scheme in the browser: A Hoot of a tale](https://spritely.institute/news/scheme-wireworld-in-browser.html)
 * [2023-10-10, 18:05:25](https://lobste.rs/s/10uihm/making_peace_with_simpson_s_paradox_2019) - [Making peace with Simpson's Paradox (2019)](https://robertheaton.com/2019/02/24/making-peace-with-simpsons-paradox/)
 * [2023-10-10, 13:48:04](https://lobste.rs/s/jmuflw/fraud_was_code) - [The fraud was in the code](https://newsletter.mollywhite.net/p/the-fraud-was-in-the-code)
-* [2023-10-10, 12:23:38](https://lobste.rs/s/a6yevd/http_2_rapid_reset_deconstructing_record) - [HTTP/2 Rapid Reset: deconstructing the record-breaking attack](https://blog.cloudflare.com/technical-breakdown-http2-rapid-reset-ddos-attack/)
+* [2023-10-10, 09:26:41](https://lobste.rs/s/atkjcc/nightcap_run_windows_screensavers_under) - [nightcap: Run Windows screensavers under xscreensaver, using copious quantities of wine](https://github.com/abrasive/nightcap)
 
 ## [Archives](archives/index.md)
 
