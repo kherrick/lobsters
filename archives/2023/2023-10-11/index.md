@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-11](index.md)
 
+* [2023-10-11, 16:44:12](https://lobste.rs/s/u6niws/gnome_merge_requests_opened_would_drop_x) - [GNOME Merge Requests Opened That Would Drop X.Org Session Support](https://www.phoronix.com/news/GNOME-MR-Drop-X11-Session)
 * [2023-10-11, 16:30:01](https://lobste.rs/s/fbzcib/unit_testing_shell_scripts_tools_with) - [Unit-testing shell scripts and tools with shtk](https://jmmv.dev/2023/10/unit-testing-with-shtk.html)
 * [2023-10-11, 16:14:27](https://lobste.rs/s/za7w0a/turning_actors_inside_out) - [Turning actors inside-out](https://etorreborre.blog/turning-actors-inside-out)
 * [2023-10-11, 16:12:05](https://lobste.rs/s/drquhd/blast_radius_certificate_constraints) - [Blast Radius & Certificate Constraints](https://blog.anchor.dev/blast-radius-certificate-constraints-6aa8081c66f7)
