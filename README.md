@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-10-11, 21:37:30](https://lobste.rs/s/hl8vb1/restricted_unprivileged_user) - [Restricted unprivileged user namespaces are coming to Ubuntu 23.10](https://ubuntu.com/blog/ubuntu-23-10-restricted-unprivileged-user-namespaces)
+* [2023-10-11, 21:43:02](https://lobste.rs/s/du0vye/unix_structured_concurrency) - [UNIX Structured Concurrency](https://matklad.github.io/2023/10/11/unix-structured-concurrency.html)
 * [2023-10-11, 20:44:01](https://lobste.rs/s/dilm39/brief_introduction_activitypub_future) - [A Brief Introduction of ActivityPub: The Future of Social Networks](https://hackernoon.com/a-brief-introduction-of-activitypub-the-future-of-social-networks)
 * [2023-10-11, 19:26:15](https://lobste.rs/s/oxjkbc/bye_bye_bios_tool_for_when_you_need_warn) - [Bye Bye BIOS: a tool for when you need to warn users the VM image is EFI only](https://www.berrange.com/posts/2023/10/06/bye-bye-bios-a-tool-for-when-you-need-to-warn-users-the-vm-image-is-efi-only/)
 * [2023-10-11, 18:05:11](https://lobste.rs/s/ux16ta/geometry_algebra_back_again) - [Geometry to Algebra and Back Again](https://jackrusher.com/pwl-2023/)
