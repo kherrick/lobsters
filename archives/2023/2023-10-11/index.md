@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-11](index.md)
 
+* [2023-10-11, 13:29:09](https://lobste.rs/s/np90nj/bad_emacs_defaults) - [Bad Emacs defaults](https://idiomdrottning.org/bad-emacs-defaults)
 * [2023-10-11, 11:43:38](https://lobste.rs/s/orp6c0/intuition_for_cryptography) - [Intuition for Cryptography](https://azeemba.com/posts/intuition-for-cryptography.html)
 * [2023-10-11, 11:22:06](https://lobste.rs/s/evqnkv/how_i_made_heap_overflow_curl) - [How I made a heap overflow in curl](https://daniel.haxx.se/blog/2023/10/11/how-i-made-a-heap-overflow-in-curl/)
 * [2023-10-11, 11:20:57](https://lobste.rs/s/nfp7gd/build_framework_you_need) - [Build the Framework You Need](https://www.gregnavis.com/articles/build-the-framework-you-need.html)
