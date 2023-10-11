@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-11, 09:15:34",
+      "https://lobste.rs/s/odgq9i/fix_linux_browser_installer_8_on_freebsd"
+    ],
+    [
+      "Fix linux-browser-installer(8) on FreeBSD",
+      "https://vermaden.wordpress.com/2023/10/11/fix-linux-browser-installer8-on-freebsd/"
+    ]
+  ],
+  [
+    [
       "2023-10-11, 08:12:35",
       "https://lobste.rs/s/ksdjlk/what_s_new_for_risc_v_llvm_17"
     ],
@@ -237,16 +247,6 @@
     [
       "A student asked how I keep us innovative. I don't",
       "https://ntietz.com/blog/forefront-of-innovation/"
-    ]
-  ],
-  [
-    [
-      "2023-10-09, 19:33:36",
-      "https://lobste.rs/s/zdjds9/text_showdown_gap_buffers_vs_ropes"
-    ],
-    [
-      "Text showdown: Gap Buffers vs Ropes",
-      "https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/"
     ]
   ]
 ]
