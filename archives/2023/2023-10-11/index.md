@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-11](index.md)
 
+* [2023-10-11, 15:39:55](https://lobste.rs/s/yusc5a/16_things_you_believe_about_software) - [16 things you believe about software](https://blog.testdouble.com/posts/2023-10-10-16-things-you-believe-about-software/)
 * [2023-10-11, 14:59:41](https://lobste.rs/s/yinqtw/ectype_bringing_type_safety_more_vanilla) - [Ectype - bringing type safety (and more!) to vanilla JavaScript](https://gitlab.com/dejawu/ectype)
 * [2023-10-11, 13:29:09](https://lobste.rs/s/np90nj/bad_emacs_defaults) - [Bad Emacs defaults](https://idiomdrottning.org/bad-emacs-defaults)
 * [2023-10-11, 11:43:38](https://lobste.rs/s/orp6c0/intuition_for_cryptography) - [Intuition for Cryptography](https://azeemba.com/posts/intuition-for-cryptography.html)

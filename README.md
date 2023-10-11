@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-11, 15:39:55](https://lobste.rs/s/yusc5a/16_things_you_believe_about_software) - [16 things you believe about software](https://blog.testdouble.com/posts/2023-10-10-16-things-you-believe-about-software/)
 * [2023-10-11, 14:59:41](https://lobste.rs/s/yinqtw/ectype_bringing_type_safety_more_vanilla) - [Ectype - bringing type safety (and more!) to vanilla JavaScript](https://gitlab.com/dejawu/ectype)
 * [2023-10-11, 13:29:09](https://lobste.rs/s/np90nj/bad_emacs_defaults) - [Bad Emacs defaults](https://idiomdrottning.org/bad-emacs-defaults)
 * [2023-10-11, 11:43:38](https://lobste.rs/s/orp6c0/intuition_for_cryptography) - [Intuition for Cryptography](https://azeemba.com/posts/intuition-for-cryptography.html)
@@ -13,7 +14,6 @@
 * [2023-10-10, 21:09:16](https://lobste.rs/s/utu4bx/my_e_reader_setup) - [My E-Reader Setup](https://blog.videah.net/my-e-reader-setup/)
 * [2023-10-10, 20:42:40](https://lobste.rs/s/qaq6e1/concatenative_programming_stack_based) - [Concatenative programming and stack-based languages](https://www.youtube.com/watch?v=umSuLpjFUf8)
 * [2023-10-10, 20:41:12](https://lobste.rs/s/yoovfp/graphical_janet_repl_spirit_self) - [Graphical Janet REPL in Spirit of Self](https://www.1a-insec.net/blog/20-janet-graphical-repl/)
-* [2023-10-10, 18:24:10](https://lobste.rs/s/xx465w/simulation_islands) - [Simulation Islands](https://box2d.org/posts/2023/10/simulation-islands/)
 * [2023-10-10, 18:13:50](https://lobste.rs/s/v5ferx/scheme_browser_hoot_tale) - [Scheme in the browser: A Hoot of a tale](https://spritely.institute/news/scheme-wireworld-in-browser.html)
 * [2023-10-10, 18:05:25](https://lobste.rs/s/10uihm/making_peace_with_simpson_s_paradox_2019) - [Making peace with Simpson's Paradox (2019)](https://robertheaton.com/2019/02/24/making-peace-with-simpsons-paradox/)
 * [2023-10-10, 15:17:42](https://lobste.rs/s/diqxdl/fediscope_fediverse_post_aggregator) - [fediscope - Fediverse post aggregator](https://abuseofnotation.github.io/fediscope/)
