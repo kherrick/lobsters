@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-10-11, 17:43:26",
+      "https://lobste.rs/s/zi7jri/squid_caching_proxy_security_audit_55"
+    ],
+    [
+      "Squid Caching Proxy Security Audit: 55 vulnerabilities and 35 0days",
+      "https://megamansec.github.io/Squid-Security-Audit/"
+    ]
+  ],
+  [
+    [
       "2023-10-11, 17:04:17",
       "https://lobste.rs/s/iagxzc/freeradius_v4_alpha1_released"
     ],
@@ -107,16 +117,6 @@
     [
       "Intuition for Cryptography",
       "https://azeemba.com/posts/intuition-for-cryptography.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-11, 09:15:34",
-      "https://lobste.rs/s/odgq9i/fix_linux_browser_installer_8_on_freebsd"
-    ],
-    [
-      "Fix linux-browser-installer(8) on FreeBSD",
-      "https://vermaden.wordpress.com/2023/10/11/fix-linux-browser-installer8-on-freebsd/"
     ]
   ],
   [
