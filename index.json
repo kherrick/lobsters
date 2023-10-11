@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2023-10-10, 19:44:37",
+      "https://lobste.rs/s/a3jvm3/is_guix_full_source_bootstrap_lie"
+    ],
+    [
+      "Is Guix full-source bootstrap a lie?",
+      "https://simon.tournier.info/posts/2023-10-01-bootstrapping.html"
+    ]
+  ],
+  [
+    [
       "2023-10-10, 18:24:10",
       "https://lobste.rs/s/xx465w/simulation_islands"
     ],
@@ -237,16 +247,6 @@
     [
       "Text showdown: Gap Buffers vs Ropes",
       "https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/"
-    ]
-  ],
-  [
-    [
-      "2023-10-09, 19:11:41",
-      "https://lobste.rs/s/lzoc4k/you_probably_shouldn_t_use_lookup_table"
-    ],
-    [
-      "You (Probably) Shouldn't use a Lookup Table",
-      "https://specbranch.com/posts/lookup-tables/"
     ]
   ]
 ]
