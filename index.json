@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-11, 03:58:23",
+      "https://lobste.rs/s/n61ndb/on_organizing_bookmarks"
+    ],
+    [
+      "On Organizing Bookmarks",
+      "https://joshleeb.com/posts/organizing-bookmarks.html"
+    ]
+  ],
+  [
+    [
       "2023-10-11, 03:21:55",
       "https://lobste.rs/s/p8xd2k/accept_interfaces_return_struct_go_2018"
     ],
@@ -237,16 +247,6 @@
     [
       "You (Probably) Shouldn't use a Lookup Table",
       "https://specbranch.com/posts/lookup-tables/"
-    ]
-  ],
-  [
-    [
-      "2023-10-09, 17:14:39",
-      "https://lobste.rs/s/dnubad/zimaboard_closest_thing_my_dream_home"
-    ],
-    [
-      "Zimaboard: the closest thing to my dream home server setup",
-      "https://ounapuu.ee/posts/2023/10/09/zimaboard/"
     ]
   ]
 ]
