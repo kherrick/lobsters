@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-10-11, 11:22:06",
-      "https://lobste.rs/s/evqnkv/how_i_made_heap_overflow_curl"
-    ],
-    [
-      "How I made a heap overflow in curl",
-      "https://daniel.haxx.se/blog/2023/10/11/how-i-made-a-heap-overflow-in-curl/"
-    ]
-  ],
-  [
-    [
       "2023-10-11, 11:20:57",
       "https://lobste.rs/s/nfp7gd/build_framework_you_need"
     ],
@@ -92,10 +82,10 @@
   [
     [
       "2023-10-10, 22:35:01",
-      "https://lobste.rs/s/o9xt06/emacs_i_m_turncoat"
+      "https://lobste.rs/s/o9xt06/i_m_turncoat"
     ],
     [
-      "[Emacs] I'm a turncoat",
+      "I'm a turncoat",
       "https://strangeloop.blog/posts/emacs-im-a-turncoat/"
     ]
   ],
@@ -167,6 +157,16 @@
     [
       "fediscope - Fediverse post aggregator",
       "https://abuseofnotation.github.io/fediscope/"
+    ]
+  ],
+  [
+    [
+      "2023-10-10, 14:57:27",
+      "https://lobste.rs/s/sql9r9/building_collaborative_pixel_art_editor"
+    ],
+    [
+      "Building a Collaborative Pixel Art Editor with CRDTs",
+      "https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/"
     ]
   ],
   [
