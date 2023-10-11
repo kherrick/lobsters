@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2023-10-10, 14:57:27",
+      "https://lobste.rs/s/sql9r9/building_collaborative_pixel_art_editor"
+    ],
+    [
+      "Building a Collaborative Pixel Art Editor with CRDTs",
+      "https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/"
+    ]
+  ],
+  [
+    [
       "2023-10-10, 14:26:29",
       "https://lobste.rs/s/zamd4e/bare_metal_rust_android"
     ],
@@ -187,16 +197,6 @@
     [
       "The fraud was in the code",
       "https://newsletter.mollywhite.net/p/the-fraud-was-in-the-code"
-    ]
-  ],
-  [
-    [
-      "2023-10-10, 13:18:11",
-      "https://lobste.rs/s/bl96c4/nixos_router_nixos_router_framework"
-    ],
-    [
-      "nixos-router: A NixOS router framework",
-      "https://github.com/chayleaf/nixos-router"
     ]
   ],
   [
