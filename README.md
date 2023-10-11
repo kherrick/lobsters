@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-11, 21:37:30](https://lobste.rs/s/hl8vb1/restricted_unprivileged_user) - [Restricted unprivileged user namespaces are coming to Ubuntu 23.10](https://ubuntu.com/blog/ubuntu-23-10-restricted-unprivileged-user-namespaces)
 * [2023-10-11, 20:44:01](https://lobste.rs/s/dilm39/brief_introduction_activitypub_future) - [A Brief Introduction of ActivityPub: The Future of Social Networks](https://hackernoon.com/a-brief-introduction-of-activitypub-the-future-of-social-networks)
 * [2023-10-11, 19:26:15](https://lobste.rs/s/oxjkbc/bye_bye_bios_tool_for_when_you_need_warn) - [Bye Bye BIOS: a tool for when you need to warn users the VM image is EFI only](https://www.berrange.com/posts/2023/10/06/bye-bye-bios-a-tool-for-when-you-need-to-warn-users-the-vm-image-is-efi-only/)
 * [2023-10-11, 18:05:11](https://lobste.rs/s/ux16ta/geometry_algebra_back_again) - [Geometry to Algebra and Back Again](https://jackrusher.com/pwl-2023/)
@@ -15,7 +16,6 @@
 * [2023-10-11, 13:29:09](https://lobste.rs/s/np90nj/bad_emacs_defaults) - [Bad Emacs defaults](https://idiomdrottning.org/bad-emacs-defaults)
 * [2023-10-11, 11:43:38](https://lobste.rs/s/orp6c0/intuition_for_cryptography) - [Intuition for Cryptography](https://azeemba.com/posts/intuition-for-cryptography.html)
 * [2023-10-11, 08:12:35](https://lobste.rs/s/ksdjlk/what_s_new_for_risc_v_llvm_17) - [What's new for RISC-V in LLVM 17](https://muxup.com/2023q4/whats-new-for-risc-v-in-llvm-17)
-* [2023-10-11, 06:09:23](https://lobste.rs/s/6ke7ny/introduction_web_sustainability) - [Introduction to web sustainability](https://developer.mozilla.org/en-US/blog/introduction-to-web-sustainability/)
 * [2023-10-11, 06:03:51](https://lobste.rs/s/jobjyn/cve_2023_38545_curl_socks5_heap_buffer) - [CVE-2023-38545 curl SOCKS5 heap buffer overflow](https://curl.se/docs/CVE-2023-38545.html)
 * [2023-10-11, 03:58:23](https://lobste.rs/s/n61ndb/on_organizing_bookmarks) - [On Organizing Bookmarks](https://joshleeb.com/posts/organizing-bookmarks.html)
 * [2023-10-11, 00:16:32](https://lobste.rs/s/zoopkh/happy_5th_birthday_serenityos) - [Happy 5th birthday, SerenityOS](https://serenityos.org/happy/5th/)
