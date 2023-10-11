@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-11, 08:12:35](https://lobste.rs/s/ksdjlk/what_s_new_for_risc_v_llvm_17) - [What's new for RISC-V in LLVM 17](https://muxup.com/2023q4/whats-new-for-risc-v-in-llvm-17)
 * [2023-10-11, 06:09:23](https://lobste.rs/s/6ke7ny/introduction_web_sustainability) - [Introduction to web sustainability](https://developer.mozilla.org/en-US/blog/introduction-to-web-sustainability/)
 * [2023-10-11, 06:03:51](https://lobste.rs/s/jobjyn/cve_2023_38545_curl_socks5_heap_buffer) - [CVE-2023-38545 curl SOCKS5 heap buffer overflow](https://curl.se/docs/CVE-2023-38545.html)
 * [2023-10-11, 03:58:23](https://lobste.rs/s/n61ndb/on_organizing_bookmarks) - [On Organizing Bookmarks](https://joshleeb.com/posts/organizing-bookmarks.html)
@@ -8,7 +9,6 @@
 * [2023-10-10, 21:09:16](https://lobste.rs/s/utu4bx/my_e_reader_setup) - [My E-Reader Setup](https://blog.videah.net/my-e-reader-setup/)
 * [2023-10-10, 20:42:40](https://lobste.rs/s/qaq6e1/concatenative_programming_stack_based) - [Concatenative programming and stack-based languages](https://www.youtube.com/watch?v=umSuLpjFUf8)
 * [2023-10-10, 20:41:12](https://lobste.rs/s/yoovfp/graphical_janet_repl_spirit_self) - [Graphical Janet REPL in Spirit of Self](https://www.1a-insec.net/blog/20-janet-graphical-repl/)
-* [2023-10-10, 19:44:37](https://lobste.rs/s/a3jvm3/is_guix_full_source_bootstrap_lie) - [Is Guix full-source bootstrap a lie?](https://simon.tournier.info/posts/2023-10-01-bootstrapping.html)
 * [2023-10-10, 18:24:10](https://lobste.rs/s/xx465w/simulation_islands) - [Simulation Islands](https://box2d.org/posts/2023/10/simulation-islands/)
 * [2023-10-10, 18:13:50](https://lobste.rs/s/v5ferx/scheme_browser_hoot_tale) - [Scheme in the browser: A Hoot of a tale](https://spritely.institute/news/scheme-wireworld-in-browser.html)
 * [2023-10-10, 18:05:25](https://lobste.rs/s/10uihm/making_peace_with_simpson_s_paradox_2019) - [Making peace with Simpson's Paradox (2019)](https://robertheaton.com/2019/02/24/making-peace-with-simpsons-paradox/)
