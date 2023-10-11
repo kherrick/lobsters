@@ -8,6 +8,7 @@
 * [2023-10-10, 21:09:16](https://lobste.rs/s/utu4bx/my_e_reader_setup) - [My E-Reader Setup](https://blog.videah.net/my-e-reader-setup/)
 * [2023-10-10, 20:42:40](https://lobste.rs/s/qaq6e1/concatenative_programming_stack_based) - [Concatenative programming and stack-based languages](https://www.youtube.com/watch?v=umSuLpjFUf8)
 * [2023-10-10, 20:41:12](https://lobste.rs/s/yoovfp/graphical_janet_repl_spirit_self) - [Graphical Janet REPL in Spirit of Self](https://www.1a-insec.net/blog/20-janet-graphical-repl/)
+* [2023-10-10, 19:44:37](https://lobste.rs/s/a3jvm3/is_guix_full_source_bootstrap_lie) - [Is Guix full-source bootstrap a lie?](https://simon.tournier.info/posts/2023-10-01-bootstrapping.html)
 * [2023-10-10, 18:24:10](https://lobste.rs/s/xx465w/simulation_islands) - [Simulation Islands](https://box2d.org/posts/2023/10/simulation-islands/)
 * [2023-10-10, 18:13:50](https://lobste.rs/s/v5ferx/scheme_browser_hoot_tale) - [Scheme in the browser: A Hoot of a tale](https://spritely.institute/news/scheme-wireworld-in-browser.html)
 * [2023-10-10, 18:05:25](https://lobste.rs/s/10uihm/making_peace_with_simpson_s_paradox_2019) - [Making peace with Simpson's Paradox (2019)](https://robertheaton.com/2019/02/24/making-peace-with-simpsons-paradox/)
@@ -24,7 +25,6 @@
 * [2023-10-09, 21:59:40](https://lobste.rs/s/scllqn/ecc_ram_on_amd_ryzen_7000_desktop_cpus) - [ECC RAM on AMD Ryzen 7000 desktop CPUs](https://sunshowers.io/posts/am5-ryzen-7000-ecc-ram/)
 * [2023-10-09, 21:05:06](https://lobste.rs/s/sgoq0z/student_asked_how_i_keep_us_innovative_i) - [A student asked how I keep us innovative. I don't](https://ntietz.com/blog/forefront-of-innovation/)
 * [2023-10-09, 19:33:36](https://lobste.rs/s/zdjds9/text_showdown_gap_buffers_vs_ropes) - [Text showdown: Gap Buffers vs Ropes](https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/)
-* [2023-10-09, 19:11:41](https://lobste.rs/s/lzoc4k/you_probably_shouldn_t_use_lookup_table) - [You (Probably) Shouldn't use a Lookup Table](https://specbranch.com/posts/lookup-tables/)
 
 ## [Archives](archives/index.md)
 
