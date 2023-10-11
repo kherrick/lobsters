@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-11](index.md)
 
+* [2023-10-11, 21:57:36](https://lobste.rs/s/8i2ymk/macos_containers_initiative) - [macOS Containers Initiative](https://macoscontainers.org/)
 * [2023-10-11, 21:43:02](https://lobste.rs/s/du0vye/unix_structured_concurrency) - [UNIX Structured Concurrency](https://matklad.github.io/2023/10/11/unix-structured-concurrency.html)
 * [2023-10-11, 21:37:30](https://lobste.rs/s/hl8vb1/restricted_unprivileged_user) - [Restricted unprivileged user namespaces are coming to Ubuntu 23.10](https://ubuntu.com/blog/ubuntu-23-10-restricted-unprivileged-user-namespaces)
 * [2023-10-11, 20:44:01](https://lobste.rs/s/dilm39/brief_introduction_activitypub_future) - [A Brief Introduction of ActivityPub: The Future of Social Networks](https://hackernoon.com/a-brief-introduction-of-activitypub-the-future-of-social-networks)
