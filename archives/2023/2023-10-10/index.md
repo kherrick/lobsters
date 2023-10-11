@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-10](index.md)
 
+* [2023-10-10, 22:35:01](https://lobste.rs/s/o9xt06/i_m_turncoat) - [I'm a turncoat](https://strangeloop.blog/posts/emacs-im-a-turncoat/)
 * [2023-10-10, 22:35:01](https://lobste.rs/s/o9xt06/emacs_i_m_turncoat) - [[Emacs] I'm a turncoat](https://strangeloop.blog/posts/emacs-im-a-turncoat/)
 * [2023-10-10, 21:09:16](https://lobste.rs/s/utu4bx/my_e_reader_setup) - [My E-Reader Setup](https://blog.videah.net/my-e-reader-setup/)
 * [2023-10-10, 20:42:40](https://lobste.rs/s/qaq6e1/concatenative_programming_stack_based) - [Concatenative programming and stack-based languages](https://www.youtube.com/watch?v=umSuLpjFUf8)
