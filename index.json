@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2023-10-10, 19:44:37",
+      "https://lobste.rs/s/a3jvm3/is_guix_full_source_bootstrap_lie"
+    ],
+    [
+      "Is Guix full-source bootstrap a lie?",
+      "https://simon.tournier.info/posts/2023-10-01-bootstrapping.html"
+    ]
+  ],
+  [
+    [
       "2023-10-10, 18:24:10",
       "https://lobste.rs/s/xx465w/simulation_islands"
     ],
@@ -197,16 +207,6 @@
     [
       "HTTP/2 Rapid Reset: deconstructing the record-breaking attack",
       "https://blog.cloudflare.com/technical-breakdown-http2-rapid-reset-ddos-attack/"
-    ]
-  ],
-  [
-    [
-      "2023-10-10, 10:29:42",
-      "https://lobste.rs/s/z1u51a/bhyve_cpu_allocation_test_for_256_core"
-    ],
-    [
-      "bhyve CPU Allocation Test for 256 core machine",
-      "https://weblog.antranigv.am/posts/2023/10/bhyve-cpu-allocation-256/"
     ]
   ],
   [
