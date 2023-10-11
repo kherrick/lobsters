@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-11, 16:30:01",
+      "https://lobste.rs/s/fbzcib/unit_testing_shell_scripts_tools_with"
+    ],
+    [
+      "Unit-testing shell scripts and tools with shtk",
+      "https://jmmv.dev/2023/10/unit-testing-with-shtk.html"
+    ]
+  ],
+  [
+    [
       "2023-10-11, 16:14:27",
       "https://lobste.rs/s/za7w0a/turning_actors_inside_out"
     ],
@@ -227,16 +237,6 @@
     [
       "nightcap: Run Windows screensavers under xscreensaver, using copious quantities of wine",
       "https://github.com/abrasive/nightcap"
-    ]
-  ],
-  [
-    [
-      "2023-10-09, 21:59:40",
-      "https://lobste.rs/s/scllqn/ecc_ram_on_amd_ryzen_7000_desktop_cpus"
-    ],
-    [
-      "ECC RAM on AMD Ryzen 7000 desktop CPUs",
-      "https://sunshowers.io/posts/am5-ryzen-7000-ecc-ram/"
     ]
   ],
   [
