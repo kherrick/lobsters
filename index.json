@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-11, 14:59:41",
+      "https://lobste.rs/s/yinqtw/ectype_bringing_type_safety_more_vanilla"
+    ],
+    [
+      "Ectype - bringing type safety (and more!) to vanilla JavaScript",
+      "https://gitlab.com/dejawu/ectype"
+    ]
+  ],
+  [
+    [
       "2023-10-11, 13:29:09",
       "https://lobste.rs/s/np90nj/bad_emacs_defaults"
     ],
@@ -17,16 +27,6 @@
     [
       "Intuition for Cryptography",
       "https://azeemba.com/posts/intuition-for-cryptography.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-11, 11:20:57",
-      "https://lobste.rs/s/nfp7gd/build_framework_you_need"
-    ],
-    [
-      "Build the Framework You Need",
-      "https://www.gregnavis.com/articles/build-the-framework-you-need.html"
     ]
   ],
   [
