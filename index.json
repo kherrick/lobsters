@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-11, 13:29:09",
+      "https://lobste.rs/s/np90nj/bad_emacs_defaults"
+    ],
+    [
+      "Bad Emacs defaults",
+      "https://idiomdrottning.org/bad-emacs-defaults"
+    ]
+  ],
+  [
+    [
       "2023-10-11, 11:43:38",
       "https://lobste.rs/s/orp6c0/intuition_for_cryptography"
     ],
@@ -157,16 +167,6 @@
     [
       "fediscope - Fediverse post aggregator",
       "https://abuseofnotation.github.io/fediscope/"
-    ]
-  ],
-  [
-    [
-      "2023-10-10, 14:57:27",
-      "https://lobste.rs/s/sql9r9/building_collaborative_pixel_art_editor"
-    ],
-    [
-      "Building a Collaborative Pixel Art Editor with CRDTs",
-      "https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/"
     ]
   ],
   [
