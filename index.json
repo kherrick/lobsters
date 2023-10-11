@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-10-11, 21:43:02",
+      "https://lobste.rs/s/du0vye/unix_structured_concurrency"
+    ],
+    [
+      "UNIX Structured Concurrency",
+      "https://matklad.github.io/2023/10/11/unix-structured-concurrency.html"
+    ]
+  ],
+  [
+    [
       "2023-10-11, 20:44:01",
       "https://lobste.rs/s/dilm39/brief_introduction_activitypub_future"
     ],
@@ -37,16 +47,6 @@
     [
       "Geometry to Algebra and Back Again",
       "https://jackrusher.com/pwl-2023/"
-    ]
-  ],
-  [
-    [
-      "2023-10-11, 17:43:26",
-      "https://lobste.rs/s/zi7jri/squid_caching_proxy_security_audit_55"
-    ],
-    [
-      "Squid Caching Proxy Security Audit: 55 vulnerabilities and 35 0days",
-      "https://megamansec.github.io/Squid-Security-Audit/"
     ]
   ],
   [
