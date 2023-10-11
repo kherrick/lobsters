@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-10-11, 17:04:17](https://lobste.rs/s/iagxzc/freeradius_v4_alpha1_released) - [FreeRADIUS v4 alpha1 released](https://freeradius.org/4.0/alpha.html)
+* [2023-10-11, 17:01:52](https://lobste.rs/s/eonfrp/bookworm_new_version_raspberry_pi_os) - [Bookworm — the new version of Raspberry Pi OS](https://www.raspberrypi.com/news/bookworm-the-new-version-of-raspberry-pi-os/)
 * [2023-10-11, 16:44:12](https://lobste.rs/s/u6niws/gnome_merge_requests_opened_would_drop_x) - [GNOME Merge Requests Opened That Would Drop X.Org Session Support](https://www.phoronix.com/news/GNOME-MR-Drop-X11-Session)
 * [2023-10-11, 16:30:01](https://lobste.rs/s/fbzcib/unit_testing_shell_scripts_tools_with) - [Unit-testing shell scripts and tools with shtk](https://jmmv.dev/2023/10/unit-testing-with-shtk.html)
 * [2023-10-11, 16:14:27](https://lobste.rs/s/za7w0a/turning_actors_inside_out) - [Turning actors inside-out](https://etorreborre.blog/turning-actors-inside-out)
@@ -16,7 +17,6 @@
 * [2023-10-11, 06:03:51](https://lobste.rs/s/jobjyn/cve_2023_38545_curl_socks5_heap_buffer) - [CVE-2023-38545 curl SOCKS5 heap buffer overflow](https://curl.se/docs/CVE-2023-38545.html)
 * [2023-10-11, 03:58:23](https://lobste.rs/s/n61ndb/on_organizing_bookmarks) - [On Organizing Bookmarks](https://joshleeb.com/posts/organizing-bookmarks.html)
 * [2023-10-11, 00:16:32](https://lobste.rs/s/zoopkh/happy_5th_birthday_serenityos) - [Happy 5th birthday, SerenityOS](https://serenityos.org/happy/5th/)
-* [2023-10-10, 22:35:01](https://lobste.rs/s/o9xt06/i_m_turncoat) - [I'm a turncoat](https://strangeloop.blog/posts/emacs-im-a-turncoat/)
 * [2023-10-10, 21:09:16](https://lobste.rs/s/utu4bx/my_e_reader_setup) - [My E-Reader Setup](https://blog.videah.net/my-e-reader-setup/)
 * [2023-10-10, 20:42:40](https://lobste.rs/s/qaq6e1/concatenative_programming_stack_based) - [Concatenative programming and stack-based languages](https://www.youtube.com/watch?v=umSuLpjFUf8)
 * [2023-10-10, 20:41:12](https://lobste.rs/s/yoovfp/graphical_janet_repl_spirit_self) - [Graphical Janet REPL in Spirit of Self](https://www.1a-insec.net/blog/20-janet-graphical-repl/)
