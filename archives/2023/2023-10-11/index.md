@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-10-11](index.md)
 
+* [2023-10-11, 16:14:27](https://lobste.rs/s/za7w0a/turning_actors_inside_out) - [Turning actors inside-out](https://etorreborre.blog/turning-actors-inside-out)
+* [2023-10-11, 16:12:05](https://lobste.rs/s/drquhd/blast_radius_certificate_constraints) - [Blast Radius & Certificate Constraints](https://blog.anchor.dev/blast-radius-certificate-constraints-6aa8081c66f7)
+* [2023-10-11, 16:11:05](https://lobste.rs/s/bpio3p/minimizing_s3_api_costs_with_distributed) - [Minimizing S3 API costs with distributed mmap](https://www.warpstream.com/blog/minimizing-s3-api-costs-with-distributed-mmap)
 * [2023-10-11, 15:39:55](https://lobste.rs/s/yusc5a/16_things_you_believe_about_software) - [16 things you believe about software](https://blog.testdouble.com/posts/2023-10-10-16-things-you-believe-about-software/)
 * [2023-10-11, 14:59:41](https://lobste.rs/s/yinqtw/ectype_bringing_type_safety_more_vanilla) - [Ectype - bringing type safety (and more!) to vanilla JavaScript](https://gitlab.com/dejawu/ectype)
 * [2023-10-11, 13:29:09](https://lobste.rs/s/np90nj/bad_emacs_defaults) - [Bad Emacs defaults](https://idiomdrottning.org/bad-emacs-defaults)
