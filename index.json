@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-10-11, 17:01:52",
-      "https://lobste.rs/s/eonfrp/bookworm_new_version_raspberry_pi_os"
-    ],
-    [
-      "Bookworm — the new version of Raspberry Pi OS",
-      "https://www.raspberrypi.com/news/bookworm-the-new-version-of-raspberry-pi-os/"
-    ]
-  ],
-  [
-    [
       "2023-10-11, 16:44:12",
       "https://lobste.rs/s/u6niws/gnome_merge_requests_opened_would_drop_x"
     ],
@@ -37,6 +27,16 @@
     [
       "Unit-testing shell scripts and tools with shtk",
       "https://jmmv.dev/2023/10/unit-testing-with-shtk.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-11, 16:14:27",
+      "https://lobste.rs/s/za7w0a/turning_actors_inside_out"
+    ],
+    [
+      "Turning actors inside-out",
+      "https://etorreborre.blog/turning-actors-inside-out"
     ]
   ],
   [
