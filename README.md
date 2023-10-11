@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-11, 06:09:23](https://lobste.rs/s/6ke7ny/introduction_web_sustainability) - [Introduction to web sustainability](https://developer.mozilla.org/en-US/blog/introduction-to-web-sustainability/)
+* [2023-10-11, 06:03:51](https://lobste.rs/s/jobjyn/cve_2023_38545_curl_socks5_heap_buffer) - [CVE-2023-38545 curl SOCKS5 heap buffer overflow](https://curl.se/docs/CVE-2023-38545.html)
 * [2023-10-11, 03:58:23](https://lobste.rs/s/n61ndb/on_organizing_bookmarks) - [On Organizing Bookmarks](https://joshleeb.com/posts/organizing-bookmarks.html)
-* [2023-10-11, 03:21:55](https://lobste.rs/s/p8xd2k/accept_interfaces_return_struct_go_2018) - [Accept Interfaces Return Struct in Go [2018]](https://mycodesmells.com/post/accept-interfaces-return-struct-in-go)
 * [2023-10-11, 00:16:32](https://lobste.rs/s/zoopkh/happy_5th_birthday_serenityos) - [Happy 5th birthday, SerenityOS](https://serenityos.org/happy/5th/)
 * [2023-10-10, 22:35:01](https://lobste.rs/s/o9xt06/emacs_i_m_turncoat) - [[Emacs] I'm a turncoat](https://strangeloop.blog/posts/emacs-im-a-turncoat/)
 * [2023-10-10, 21:09:16](https://lobste.rs/s/utu4bx/my_e_reader_setup) - [My E-Reader Setup](https://blog.videah.net/my-e-reader-setup/)
@@ -20,7 +21,6 @@
 * [2023-10-10, 10:29:42](https://lobste.rs/s/z1u51a/bhyve_cpu_allocation_test_for_256_core) - [bhyve CPU Allocation Test for 256 core machine](https://weblog.antranigv.am/posts/2023/10/bhyve-cpu-allocation-256/)
 * [2023-10-10, 09:26:41](https://lobste.rs/s/atkjcc/nightcap_run_windows_screensavers_under) - [nightcap: Run Windows screensavers under xscreensaver, using copious quantities of wine](https://github.com/abrasive/nightcap)
 * [2023-10-10, 05:47:26](https://lobste.rs/s/taxmtj/plan_for_multicast_support_noise_based) - [A Plan for Multicast Support in Noise-based Protocols](https://soatok.blog/2023/10/10/a-plan-for-multicast-support-in-noise-based-protocols/)
-* [2023-10-10, 03:18:38](https://lobste.rs/s/zlvaia/attempt_at_visualizing_go_gc) - [An attempt at visualizing the Go GC](https://www.aadhav.me/posts/visualizing-the-go-gc/)
 * [2023-10-09, 21:59:40](https://lobste.rs/s/scllqn/ecc_ram_on_amd_ryzen_7000_desktop_cpus) - [ECC RAM on AMD Ryzen 7000 desktop CPUs](https://sunshowers.io/posts/am5-ryzen-7000-ecc-ram/)
 * [2023-10-09, 21:05:06](https://lobste.rs/s/sgoq0z/student_asked_how_i_keep_us_innovative_i) - [A student asked how I keep us innovative. I don't](https://ntietz.com/blog/forefront-of-innovation/)
 * [2023-10-09, 19:33:36](https://lobste.rs/s/zdjds9/text_showdown_gap_buffers_vs_ropes) - [Text showdown: Gap Buffers vs Ropes](https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/)
