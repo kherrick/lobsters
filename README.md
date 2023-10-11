@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-11, 11:22:06](https://lobste.rs/s/evqnkv/how_i_made_heap_overflow_curl) - [How I made a heap overflow in curl](https://daniel.haxx.se/blog/2023/10/11/how-i-made-a-heap-overflow-in-curl/)
+* [2023-10-11, 11:20:57](https://lobste.rs/s/nfp7gd/build_framework_you_need) - [Build the Framework You Need](https://www.gregnavis.com/articles/build-the-framework-you-need.html)
 * [2023-10-11, 09:15:34](https://lobste.rs/s/odgq9i/fix_linux_browser_installer_8_on_freebsd) - [Fix linux-browser-installer(8) on FreeBSD](https://vermaden.wordpress.com/2023/10/11/fix-linux-browser-installer8-on-freebsd/)
 * [2023-10-11, 08:12:35](https://lobste.rs/s/ksdjlk/what_s_new_for_risc_v_llvm_17) - [What's new for RISC-V in LLVM 17](https://muxup.com/2023q4/whats-new-for-risc-v-in-llvm-17)
 * [2023-10-11, 06:09:23](https://lobste.rs/s/6ke7ny/introduction_web_sustainability) - [Introduction to web sustainability](https://developer.mozilla.org/en-US/blog/introduction-to-web-sustainability/)
@@ -10,8 +12,6 @@
 * [2023-10-10, 21:09:16](https://lobste.rs/s/utu4bx/my_e_reader_setup) - [My E-Reader Setup](https://blog.videah.net/my-e-reader-setup/)
 * [2023-10-10, 20:42:40](https://lobste.rs/s/qaq6e1/concatenative_programming_stack_based) - [Concatenative programming and stack-based languages](https://www.youtube.com/watch?v=umSuLpjFUf8)
 * [2023-10-10, 20:41:12](https://lobste.rs/s/yoovfp/graphical_janet_repl_spirit_self) - [Graphical Janet REPL in Spirit of Self](https://www.1a-insec.net/blog/20-janet-graphical-repl/)
-* [2023-10-10, 19:44:37](https://lobste.rs/s/a3jvm3/is_guix_full_source_bootstrap_lie) - [Is Guix full-source bootstrap a lie?](https://simon.tournier.info/posts/2023-10-01-bootstrapping.html)
-* [2023-10-10, 18:24:10](https://lobste.rs/s/xx465w/simulation_islands) - [Simulation Islands](https://box2d.org/posts/2023/10/simulation-islands/)
 * [2023-10-10, 18:13:50](https://lobste.rs/s/v5ferx/scheme_browser_hoot_tale) - [Scheme in the browser: A Hoot of a tale](https://spritely.institute/news/scheme-wireworld-in-browser.html)
 * [2023-10-10, 18:05:25](https://lobste.rs/s/10uihm/making_peace_with_simpson_s_paradox_2019) - [Making peace with Simpson's Paradox (2019)](https://robertheaton.com/2019/02/24/making-peace-with-simpsons-paradox/)
 * [2023-10-10, 15:17:42](https://lobste.rs/s/diqxdl/fediscope_fediverse_post_aggregator) - [fediscope - Fediverse post aggregator](https://abuseofnotation.github.io/fediscope/)
