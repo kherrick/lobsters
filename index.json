@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-10-11, 21:37:30",
-      "https://lobste.rs/s/hl8vb1/restricted_unprivileged_user"
+      "2023-10-11, 21:43:02",
+      "https://lobste.rs/s/du0vye/unix_structured_concurrency"
     ],
     [
-      "Restricted unprivileged user namespaces are coming to Ubuntu 23.10",
-      "https://ubuntu.com/blog/ubuntu-23-10-restricted-unprivileged-user-namespaces"
+      "UNIX Structured Concurrency",
+      "https://matklad.github.io/2023/10/11/unix-structured-concurrency.html"
     ]
   ],
   [
