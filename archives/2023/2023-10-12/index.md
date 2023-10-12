@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-12](index.md)
 
+* [2023-10-12, 12:52:23](https://lobste.rs/s/55pcfz/on_importance_naming_programming) - [On Importance of Naming in Programming](https://wasp-lang.dev/blog/2023/10/12/on-importance-of-naming-in-programming)
+* [2023-10-12, 12:42:05](https://lobste.rs/s/fubpta/learn_use_email_with_git) - [Learn to use email with git](https://git-send-email.io/)
 * [2023-10-12, 12:42:05](https://lobste.rs/s/fubpta/how_git_was_originally_meant_be_used) - [How Git was originally meant to be used](https://git-send-email.io/)
 * [2023-10-12, 11:42:21](https://lobste.rs/s/tdityv/baseutils_includes_name_section_every) - [BaseUtils – includes the NAME section of every tool/utility in FreeBSD base](https://wiki.freebsd.org/BaseUtils)
 * [2023-10-12, 04:12:01](https://lobste.rs/s/peyn5x/snmalloc_message_passing_based) - [snmalloc: Message passing based allocator](https://github.com/microsoft/snmalloc)

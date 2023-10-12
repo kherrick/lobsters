@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-10-12, 12:42:05](https://lobste.rs/s/fubpta/how_git_was_originally_meant_be_used) - [How Git was originally meant to be used](https://git-send-email.io/)
+* [2023-10-12, 12:52:23](https://lobste.rs/s/55pcfz/on_importance_naming_programming) - [On Importance of Naming in Programming](https://wasp-lang.dev/blog/2023/10/12/on-importance-of-naming-in-programming)
+* [2023-10-12, 12:42:05](https://lobste.rs/s/fubpta/learn_use_email_with_git) - [Learn to use email with git](https://git-send-email.io/)
 * [2023-10-12, 11:42:21](https://lobste.rs/s/tdityv/baseutils_includes_name_section_every) - [BaseUtils – includes the NAME section of every tool/utility in FreeBSD base](https://wiki.freebsd.org/BaseUtils)
 * [2023-10-12, 04:12:01](https://lobste.rs/s/peyn5x/snmalloc_message_passing_based) - [snmalloc: Message passing based allocator](https://github.com/microsoft/snmalloc)
 * [2023-10-12, 03:27:35](https://lobste.rs/s/dpzvwl/how_compare_signed_unsigned_integers_c_20) - [How to compare signed and unsigned integers in C++20?](https://www.sandordargo.com/blog/2023/10/11/cpp20-intcmp-utilities)
@@ -24,7 +25,6 @@
 * [2023-10-11, 03:58:23](https://lobste.rs/s/n61ndb/on_organizing_bookmarks) - [On Organizing Bookmarks](https://joshleeb.com/posts/organizing-bookmarks.html)
 * [2023-10-11, 00:16:32](https://lobste.rs/s/zoopkh/happy_5th_birthday_serenityos) - [Happy 5th birthday, SerenityOS](https://serenityos.org/happy/5th/)
 * [2023-10-10, 21:09:16](https://lobste.rs/s/utu4bx/my_e_reader_setup) - [My E-Reader Setup](https://blog.videah.net/my-e-reader-setup/)
-* [2023-10-10, 18:13:50](https://lobste.rs/s/v5ferx/scheme_browser_hoot_tale) - [Scheme in the browser: A Hoot of a tale](https://spritely.institute/news/scheme-wireworld-in-browser.html)
 
 ## [Archives](archives/index.md)
 
