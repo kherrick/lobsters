@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-12, 21:13:03",
+      "https://lobste.rs/s/xcwspp/optimizing_row_storage_8_byte_chunks"
+    ],
+    [
+      "Optimizing row storage in 8-byte chunks",
+      "https://brandur.org/fragments/postgres-row-optimization"
+    ]
+  ],
+  [
+    [
       "2023-10-12, 20:29:57",
       "https://lobste.rs/s/kskbef/open_props_sub_atomic_styles"
     ],
@@ -227,16 +237,6 @@
     [
       "Bad Emacs defaults",
       "https://idiomdrottning.org/bad-emacs-defaults"
-    ]
-  ],
-  [
-    [
-      "2023-10-11, 06:03:51",
-      "https://lobste.rs/s/jobjyn/cve_2023_38545_curl_socks5_heap_buffer"
-    ],
-    [
-      "CVE-2023-38545 curl SOCKS5 heap buffer overflow",
-      "https://curl.se/docs/CVE-2023-38545.html"
     ]
   ],
   [
