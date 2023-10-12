@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-12, 17:54:53",
+      "https://lobste.rs/s/r7ugmq/psa_qpointer_has_terrible_name"
+    ],
+    [
+      "PSA: QPointer has a terrible name",
+      "https://www.kdab.com/psa-qpointer-has-a-terrible-name/"
+    ]
+  ],
+  [
+    [
       "2023-10-12, 17:50:21",
       "https://lobste.rs/s/vqoftd/first_word_discovered_unopened"
     ],
@@ -157,16 +167,6 @@
     [
       "Bye Bye BIOS: a tool for when you need to warn users the VM image is EFI only",
       "https://www.berrange.com/posts/2023/10/06/bye-bye-bios-a-tool-for-when-you-need-to-warn-users-the-vm-image-is-efi-only/"
-    ]
-  ],
-  [
-    [
-      "2023-10-11, 17:04:17",
-      "https://lobste.rs/s/iagxzc/freeradius_v4_alpha1_released"
-    ],
-    [
-      "FreeRADIUS v4 alpha1 released",
-      "https://freeradius.org/4.0/alpha.html"
     ]
   ],
   [
