@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-12, 23:40:39",
+      "https://lobste.rs/s/pndgdr/deploying_go_with_apache_using_fastcgi"
+    ],
+    [
+      "Deploying Go with Apache? (using FastCGI)",
+      "https://piperswe.me/2023/deploy-go-with-fastcgi/"
+    ]
+  ],
+  [
+    [
       "2023-10-12, 22:44:37",
       "https://lobste.rs/s/qiqdxs/crouton_c_20_coroutine_runtime_cross"
     ],
@@ -237,16 +247,6 @@
     [
       "Bad Emacs defaults",
       "https://idiomdrottning.org/bad-emacs-defaults"
-    ]
-  ],
-  [
-    [
-      "2023-10-10, 21:09:16",
-      "https://lobste.rs/s/utu4bx/my_e_reader_setup"
-    ],
-    [
-      "My E-Reader Setup",
-      "https://blog.videah.net/my-e-reader-setup/"
     ]
   ]
 ]
