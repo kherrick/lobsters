@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-12, 11:42:21](https://lobste.rs/s/tdityv/baseutils_includes_name_section_every) - [BaseUtils – includes the NAME section of every tool/utility in FreeBSD base](https://wiki.freebsd.org/BaseUtils)
 * [2023-10-12, 04:12:01](https://lobste.rs/s/peyn5x/snmalloc_message_passing_based) - [snmalloc: Message passing based allocator](https://github.com/microsoft/snmalloc)
 * [2023-10-12, 03:27:35](https://lobste.rs/s/dpzvwl/how_compare_signed_unsigned_integers_c_20) - [How to compare signed and unsigned integers in C++20?](https://www.sandordargo.com/blog/2023/10/11/cpp20-intcmp-utilities)
 * [2023-10-12, 01:54:47](https://lobste.rs/s/damwkw/why_i_don_t_like_http_as_frontend_backend) - [Why I don't like HTTP as a frontend to backend transport mechanism (2014)](https://utcc.utoronto.ca/~cks/space/blog/web/WhyNotHTTPAsTransport)
@@ -16,7 +17,6 @@
 * [2023-10-11, 16:14:27](https://lobste.rs/s/za7w0a/turning_actors_inside_out) - [Turning actors inside-out](https://etorreborre.blog/turning-actors-inside-out)
 * [2023-10-11, 16:11:05](https://lobste.rs/s/bpio3p/minimizing_s3_api_costs_with_distributed) - [Minimizing S3 API costs with distributed mmap](https://www.warpstream.com/blog/minimizing-s3-api-costs-with-distributed-mmap)
 * [2023-10-11, 15:39:55](https://lobste.rs/s/yusc5a/16_things_you_believe_about_software) - [16 things you believe about software](https://blog.testdouble.com/posts/2023-10-10-16-things-you-believe-about-software/)
-* [2023-10-11, 14:59:41](https://lobste.rs/s/yinqtw/ectype_bringing_type_safety_more_vanilla) - [Ectype - bringing type safety (and more!) to vanilla JavaScript](https://gitlab.com/dejawu/ectype)
 * [2023-10-11, 13:29:09](https://lobste.rs/s/np90nj/bad_emacs_defaults) - [Bad Emacs defaults](https://idiomdrottning.org/bad-emacs-defaults)
 * [2023-10-11, 11:43:38](https://lobste.rs/s/orp6c0/intuition_for_cryptography) - [Intuition for Cryptography](https://azeemba.com/posts/intuition-for-cryptography.html)
 * [2023-10-11, 06:03:51](https://lobste.rs/s/jobjyn/cve_2023_38545_curl_socks5_heap_buffer) - [CVE-2023-38545 curl SOCKS5 heap buffer overflow](https://curl.se/docs/CVE-2023-38545.html)
