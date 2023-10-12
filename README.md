@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-12, 23:46:21](https://lobste.rs/s/8tarcu/one_game_by_one_man_on_six_platforms) - [One Game, By One Man, On Six Platforms](https://ruoyusun.com/2023/10/12/one-game-six-platforms.html)
 * [2023-10-12, 23:40:39](https://lobste.rs/s/pndgdr/deploying_go_with_apache_using_fastcgi) - [Deploying Go with Apache? (using FastCGI)](https://piperswe.me/2023/deploy-go-with-fastcgi/)
 * [2023-10-12, 22:44:37](https://lobste.rs/s/qiqdxs/crouton_c_20_coroutine_runtime_cross) - [crouton: C++20 coroutine runtime and cross-platform I/O library](https://github.com/couchbaselabs/crouton)
 * [2023-10-12, 21:13:03](https://lobste.rs/s/xcwspp/optimizing_row_storage_8_byte_chunks) - [Optimizing row storage in 8-byte chunks](https://brandur.org/fragments/postgres-row-optimization)
@@ -24,7 +25,6 @@
 * [2023-10-11, 17:01:52](https://lobste.rs/s/eonfrp/bookworm_new_version_raspberry_pi_os) - [Bookworm — the new version of Raspberry Pi OS](https://www.raspberrypi.com/news/bookworm-the-new-version-of-raspberry-pi-os/)
 * [2023-10-11, 16:44:12](https://lobste.rs/s/u6niws/gnome_merge_requests_opened_would_drop_x) - [GNOME Merge Requests Opened That Would Drop X.Org Session Support](https://www.phoronix.com/news/GNOME-MR-Drop-X11-Session)
 * [2023-10-11, 16:11:05](https://lobste.rs/s/bpio3p/minimizing_s3_api_costs_with_distributed) - [Minimizing S3 API costs with distributed mmap](https://www.warpstream.com/blog/minimizing-s3-api-costs-with-distributed-mmap)
-* [2023-10-11, 13:29:09](https://lobste.rs/s/np90nj/bad_emacs_defaults) - [Bad Emacs defaults](https://idiomdrottning.org/bad-emacs-defaults)
 
 ## [Archives](archives/index.md)
 
