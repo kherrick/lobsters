@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-12, 04:12:01",
+      "https://lobste.rs/s/peyn5x/snmalloc_message_passing_based"
+    ],
+    [
+      "snmalloc: Message passing based allocator",
+      "https://github.com/microsoft/snmalloc"
+    ]
+  ],
+  [
+    [
       "2023-10-12, 03:27:35",
       "https://lobste.rs/s/dpzvwl/how_compare_signed_unsigned_integers_c_20"
     ],
@@ -77,16 +87,6 @@
     [
       "Bye Bye BIOS: a tool for when you need to warn users the VM image is EFI only",
       "https://www.berrange.com/posts/2023/10/06/bye-bye-bios-a-tool-for-when-you-need-to-warn-users-the-vm-image-is-efi-only/"
-    ]
-  ],
-  [
-    [
-      "2023-10-11, 18:05:11",
-      "https://lobste.rs/s/ux16ta/geometry_algebra_back_again"
-    ],
-    [
-      "Geometry to Algebra and Back Again",
-      "https://jackrusher.com/pwl-2023/"
     ]
   ],
   [
