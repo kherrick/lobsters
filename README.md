@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-12, 19:56:15](https://lobste.rs/s/fauwpt/okay_fine_i_m_using_static_site_generator) - [Okay, fine, I'm using a static site generator now](https://xeiaso.net/blog/xesite-v4/)
 * [2023-10-12, 19:46:10](https://lobste.rs/s/qpmtit/qbindiff_modular_diffing_toolkit) - [QBinDiff: A modular diffing toolkit](https://blog.quarkslab.com/qbindiff-a-modular-diffing-toolkit.html)
 * [2023-10-12, 17:54:53](https://lobste.rs/s/r7ugmq/psa_qpointer_has_terrible_name) - [PSA: QPointer has a terrible name](https://www.kdab.com/psa-qpointer-has-a-terrible-name/)
 * [2023-10-12, 17:50:21](https://lobste.rs/s/vqoftd/first_word_discovered_unopened) - [First word discovered in unopened Herculaneum scroll by 21yo computer science student](https://scrollprize.org/firstletters)
@@ -17,7 +18,6 @@
 * [2023-10-11, 23:02:27](https://lobste.rs/s/ghblzm/engage_wider_audience_with_activitypub) - [Engage a Wider Audience With ActivityPub on WordPress.com](https://wordpress.com/blog/2023/10/11/activitypub/)
 * [2023-10-11, 21:57:36](https://lobste.rs/s/8i2ymk/macos_containers_initiative) - [macOS Containers Initiative](https://macoscontainers.org/)
 * [2023-10-11, 20:44:01](https://lobste.rs/s/dilm39/brief_introduction_activitypub_future) - [A Brief Introduction of ActivityPub: The Future of Social Networks](https://hackernoon.com/a-brief-introduction-of-activitypub-the-future-of-social-networks)
-* [2023-10-11, 19:26:15](https://lobste.rs/s/oxjkbc/bye_bye_bios_tool_for_when_you_need_warn) - [Bye Bye BIOS: a tool for when you need to warn users the VM image is EFI only](https://www.berrange.com/posts/2023/10/06/bye-bye-bios-a-tool-for-when-you-need-to-warn-users-the-vm-image-is-efi-only/)
 * [2023-10-11, 17:01:52](https://lobste.rs/s/eonfrp/bookworm_new_version_raspberry_pi_os) - [Bookworm — the new version of Raspberry Pi OS](https://www.raspberrypi.com/news/bookworm-the-new-version-of-raspberry-pi-os/)
 * [2023-10-11, 16:44:12](https://lobste.rs/s/u6niws/gnome_merge_requests_opened_would_drop_x) - [GNOME Merge Requests Opened That Would Drop X.Org Session Support](https://www.phoronix.com/news/GNOME-MR-Drop-X11-Session)
 * [2023-10-11, 16:30:01](https://lobste.rs/s/fbzcib/unit_testing_shell_scripts_tools_with) - [Unit-testing shell scripts and tools with shtk](https://jmmv.dev/2023/10/unit-testing-with-shtk.html)

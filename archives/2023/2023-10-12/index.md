@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-12](index.md)
 
+* [2023-10-12, 19:56:15](https://lobste.rs/s/fauwpt/okay_fine_i_m_using_static_site_generator) - [Okay, fine, I'm using a static site generator now](https://xeiaso.net/blog/xesite-v4/)
 * [2023-10-12, 19:46:10](https://lobste.rs/s/qpmtit/qbindiff_modular_diffing_toolkit) - [QBinDiff: A modular diffing toolkit](https://blog.quarkslab.com/qbindiff-a-modular-diffing-toolkit.html)
 * [2023-10-12, 17:54:53](https://lobste.rs/s/r7ugmq/psa_qpointer_has_terrible_name) - [PSA: QPointer has a terrible name](https://www.kdab.com/psa-qpointer-has-a-terrible-name/)
 * [2023-10-12, 17:50:21](https://lobste.rs/s/vqoftd/first_word_discovered_unopened) - [First word discovered in unopened Herculaneum scroll by 21yo computer science student](https://scrollprize.org/firstletters)
