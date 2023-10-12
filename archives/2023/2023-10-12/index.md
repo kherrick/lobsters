@@ -10,6 +10,7 @@
 * [2023-10-12, 12:42:05](https://lobste.rs/s/fubpta/learn_use_email_with_git) - [Learn to use email with git](https://git-send-email.io/)
 * [2023-10-12, 12:42:05](https://lobste.rs/s/fubpta/how_git_was_originally_meant_be_used) - [How Git was originally meant to be used](https://git-send-email.io/)
 * [2023-10-12, 11:42:21](https://lobste.rs/s/tdityv/baseutils_includes_name_section_every) - [BaseUtils – includes the NAME section of every tool/utility in FreeBSD base](https://wiki.freebsd.org/BaseUtils)
+* [2023-10-12, 08:41:33](https://lobste.rs/s/tnwk8r/haproxy_is_not_affected_by_http_2_rapid) - [HAProxy is not affected by the HTTP/2 Rapid Reset Attack (CVE-2023-44487)](https://www.haproxy.com/blog/haproxy-is-not-affected-by-the-http-2-rapid-reset-attack-cve-2023-44487)
 * [2023-10-12, 04:12:01](https://lobste.rs/s/peyn5x/snmalloc_message_passing_based) - [snmalloc: Message passing based allocator](https://github.com/microsoft/snmalloc)
 * [2023-10-12, 03:27:35](https://lobste.rs/s/dpzvwl/how_compare_signed_unsigned_integers_c_20) - [How to compare signed and unsigned integers in C++20?](https://www.sandordargo.com/blog/2023/10/11/cpp20-intcmp-utilities)
 * [2023-10-12, 01:54:47](https://lobste.rs/s/damwkw/why_i_don_t_like_http_as_frontend_backend) - [Why I don't like HTTP as a frontend to backend transport mechanism (2014)](https://utcc.utoronto.ca/~cks/space/blog/web/WhyNotHTTPAsTransport)
