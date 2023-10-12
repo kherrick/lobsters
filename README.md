@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-12, 21:13:03](https://lobste.rs/s/xcwspp/optimizing_row_storage_8_byte_chunks) - [Optimizing row storage in 8-byte chunks](https://brandur.org/fragments/postgres-row-optimization)
 * [2023-10-12, 20:29:57](https://lobste.rs/s/kskbef/open_props_sub_atomic_styles) - [Open Props: sub-atomic styles](https://open-props.style)
 * [2023-10-12, 19:56:15](https://lobste.rs/s/fauwpt/okay_fine_i_m_using_static_site_generator) - [Okay, fine, I'm using a static site generator now](https://xeiaso.net/blog/xesite-v4/)
 * [2023-10-12, 19:46:10](https://lobste.rs/s/qpmtit/qbindiff_modular_diffing_toolkit) - [QBinDiff: A modular diffing toolkit](https://blog.quarkslab.com/qbindiff-a-modular-diffing-toolkit.html)
@@ -23,7 +24,6 @@
 * [2023-10-11, 16:30:01](https://lobste.rs/s/fbzcib/unit_testing_shell_scripts_tools_with) - [Unit-testing shell scripts and tools with shtk](https://jmmv.dev/2023/10/unit-testing-with-shtk.html)
 * [2023-10-11, 16:11:05](https://lobste.rs/s/bpio3p/minimizing_s3_api_costs_with_distributed) - [Minimizing S3 API costs with distributed mmap](https://www.warpstream.com/blog/minimizing-s3-api-costs-with-distributed-mmap)
 * [2023-10-11, 13:29:09](https://lobste.rs/s/np90nj/bad_emacs_defaults) - [Bad Emacs defaults](https://idiomdrottning.org/bad-emacs-defaults)
-* [2023-10-11, 06:03:51](https://lobste.rs/s/jobjyn/cve_2023_38545_curl_socks5_heap_buffer) - [CVE-2023-38545 curl SOCKS5 heap buffer overflow](https://curl.se/docs/CVE-2023-38545.html)
 * [2023-10-10, 21:09:16](https://lobste.rs/s/utu4bx/my_e_reader_setup) - [My E-Reader Setup](https://blog.videah.net/my-e-reader-setup/)
 
 ## [Archives](archives/index.md)
