@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-12, 00:48:32](https://lobste.rs/s/jlynwo/thcon_config_driven_theme_controller) - [thcon, a config-driven theme controller](https://thcon.app)
 * [2023-10-12, 00:17:47](https://lobste.rs/s/fyhzzt/avx10_128_is_silly_idea_should_be) - [AVX10/128 is a silly idea and should be completely removed from the specification](https://chipsandcheese.com/2023/10/11/avx10-128-is-a-silly-idea-and-should-be-completely-removed-from-the-specification/)
 * [2023-10-11, 23:02:27](https://lobste.rs/s/ghblzm/engage_wider_audience_with_activitypub) - [Engage a Wider Audience With ActivityPub on WordPress.com](https://wordpress.com/blog/2023/10/11/activitypub/)
 * [2023-10-11, 21:57:36](https://lobste.rs/s/8i2ymk/macos_containers_initiative) - [macOS Containers Initiative](https://macoscontainers.org/)
@@ -17,7 +18,6 @@
 * [2023-10-11, 14:59:41](https://lobste.rs/s/yinqtw/ectype_bringing_type_safety_more_vanilla) - [Ectype - bringing type safety (and more!) to vanilla JavaScript](https://gitlab.com/dejawu/ectype)
 * [2023-10-11, 13:29:09](https://lobste.rs/s/np90nj/bad_emacs_defaults) - [Bad Emacs defaults](https://idiomdrottning.org/bad-emacs-defaults)
 * [2023-10-11, 11:43:38](https://lobste.rs/s/orp6c0/intuition_for_cryptography) - [Intuition for Cryptography](https://azeemba.com/posts/intuition-for-cryptography.html)
-* [2023-10-11, 08:12:35](https://lobste.rs/s/ksdjlk/what_s_new_for_risc_v_llvm_17) - [What's new for RISC-V in LLVM 17](https://muxup.com/2023q4/whats-new-for-risc-v-in-llvm-17)
 * [2023-10-11, 06:03:51](https://lobste.rs/s/jobjyn/cve_2023_38545_curl_socks5_heap_buffer) - [CVE-2023-38545 curl SOCKS5 heap buffer overflow](https://curl.se/docs/CVE-2023-38545.html)
 * [2023-10-11, 03:58:23](https://lobste.rs/s/n61ndb/on_organizing_bookmarks) - [On Organizing Bookmarks](https://joshleeb.com/posts/organizing-bookmarks.html)
 * [2023-10-11, 00:16:32](https://lobste.rs/s/zoopkh/happy_5th_birthday_serenityos) - [Happy 5th birthday, SerenityOS](https://serenityos.org/happy/5th/)
