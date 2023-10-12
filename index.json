@@ -1,11 +1,21 @@
 [
   [
     [
-      "2023-10-12, 12:42:05",
-      "https://lobste.rs/s/fubpta/how_git_was_originally_meant_be_used"
+      "2023-10-12, 12:52:23",
+      "https://lobste.rs/s/55pcfz/on_importance_naming_programming"
     ],
     [
-      "How Git was originally meant to be used",
+      "On Importance of Naming in Programming",
+      "https://wasp-lang.dev/blog/2023/10/12/on-importance-of-naming-in-programming"
+    ]
+  ],
+  [
+    [
+      "2023-10-12, 12:42:05",
+      "https://lobste.rs/s/fubpta/learn_use_email_with_git"
+    ],
+    [
+      "Learn to use email with git",
       "https://git-send-email.io/"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "My E-Reader Setup",
       "https://blog.videah.net/my-e-reader-setup/"
-    ]
-  ],
-  [
-    [
-      "2023-10-10, 18:13:50",
-      "https://lobste.rs/s/v5ferx/scheme_browser_hoot_tale"
-    ],
-    [
-      "Scheme in the browser: A Hoot of a tale",
-      "https://spritely.institute/news/scheme-wireworld-in-browser.html"
     ]
   ]
 ]
