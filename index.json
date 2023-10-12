@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-12, 17:21:52",
+      "https://lobste.rs/s/soz0c1/how_download_install_linux"
+    ],
+    [
+      "How to download and install Linux",
+      "https://learn.microsoft.com/en-us/linux/install"
+    ]
+  ],
+  [
+    [
       "2023-10-12, 16:17:29",
       "https://lobste.rs/s/mhtyyj/can_t_be_f_cked_underrated_cause_tech_debt"
     ],
@@ -177,16 +187,6 @@
     [
       "Unit-testing shell scripts and tools with shtk",
       "https://jmmv.dev/2023/10/unit-testing-with-shtk.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-11, 16:14:27",
-      "https://lobste.rs/s/za7w0a/turning_actors_inside_out"
-    ],
-    [
-      "Turning actors inside-out",
-      "https://etorreborre.blog/turning-actors-inside-out"
     ]
   ],
   [
