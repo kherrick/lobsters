@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-12](index.md)
 
+* [2023-10-12, 22:44:37](https://lobste.rs/s/qiqdxs/crouton_c_20_coroutine_runtime_cross) - [crouton: C++20 coroutine runtime and cross-platform I/O library](https://github.com/couchbaselabs/crouton)
 * [2023-10-12, 21:13:03](https://lobste.rs/s/xcwspp/optimizing_row_storage_8_byte_chunks) - [Optimizing row storage in 8-byte chunks](https://brandur.org/fragments/postgres-row-optimization)
 * [2023-10-12, 20:29:57](https://lobste.rs/s/kskbef/open_props_sub_atomic_styles) - [Open Props: sub-atomic styles](https://open-props.style)
 * [2023-10-12, 19:56:15](https://lobste.rs/s/fauwpt/okay_fine_i_m_using_static_site_generator) - [Okay, fine, I'm using a static site generator now](https://xeiaso.net/blog/xesite-v4/)
