@@ -41,12 +41,12 @@
   ],
   [
     [
-      "2023-10-12, 11:42:21",
-      "https://lobste.rs/s/tdityv/baseutils_includes_name_section_every"
+      "2023-10-12, 08:41:33",
+      "https://lobste.rs/s/tnwk8r/haproxy_is_not_affected_by_http_2_rapid"
     ],
     [
-      "BaseUtils – includes the NAME section of every tool/utility in FreeBSD base",
-      "https://wiki.freebsd.org/BaseUtils"
+      "HAProxy is not affected by the HTTP/2 Rapid Reset Attack (CVE-2023-44487)",
+      "https://www.haproxy.com/blog/haproxy-is-not-affected-by-the-http-2-rapid-reset-attack-cve-2023-44487"
     ]
   ],
   [
