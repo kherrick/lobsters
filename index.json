@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-12, 19:46:10",
+      "https://lobste.rs/s/qpmtit/qbindiff_modular_diffing_toolkit"
+    ],
+    [
+      "QBinDiff: A modular diffing toolkit",
+      "https://blog.quarkslab.com/qbindiff-a-modular-diffing-toolkit.html"
+    ]
+  ],
+  [
+    [
       "2023-10-12, 17:54:53",
       "https://lobste.rs/s/r7ugmq/psa_qpointer_has_terrible_name"
     ],
@@ -217,16 +227,6 @@
     [
       "Bad Emacs defaults",
       "https://idiomdrottning.org/bad-emacs-defaults"
-    ]
-  ],
-  [
-    [
-      "2023-10-11, 11:43:38",
-      "https://lobste.rs/s/orp6c0/intuition_for_cryptography"
-    ],
-    [
-      "Intuition for Cryptography",
-      "https://azeemba.com/posts/intuition-for-cryptography.html"
     ]
   ],
   [
