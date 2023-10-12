@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-12](index.md)
 
+* [2023-10-12, 14:40:41](https://lobste.rs/s/ezk72g/what_i_wish_i_knew_when_i_got_my_asn) - [What I wish I knew when I got my ASN](https://quantum5.ca/2023/10/10/what-i-wish-i-knew-when-i-got-my-asn/)
 * [2023-10-12, 14:12:15](https://lobste.rs/s/rz8thl/using_prolog_as_ast) - [Using Prolog as the AST](https://marcellerusu.com/using_prolog_as_the_ast.html)
 * [2023-10-12, 12:52:23](https://lobste.rs/s/55pcfz/on_importance_naming_programming) - [On Importance of Naming in Programming](https://wasp-lang.dev/blog/2023/10/12/on-importance-of-naming-in-programming)
 * [2023-10-12, 12:42:05](https://lobste.rs/s/fubpta/learn_use_email_with_git) - [Learn to use email with git](https://git-send-email.io/)
