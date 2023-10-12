@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-12, 00:17:47",
+      "https://lobste.rs/s/fyhzzt/avx10_128_is_silly_idea_should_be"
+    ],
+    [
+      "AVX10/128 is a silly idea and should be completely removed from the specification",
+      "https://chipsandcheese.com/2023/10/11/avx10-128-is-a-silly-idea-and-should-be-completely-removed-from-the-specification/"
+    ]
+  ],
+  [
+    [
       "2023-10-11, 23:02:27",
       "https://lobste.rs/s/ghblzm/engage_wider_audience_with_activitypub"
     ],
@@ -17,16 +27,6 @@
     [
       "macOS Containers Initiative",
       "https://macoscontainers.org/"
-    ]
-  ],
-  [
-    [
-      "2023-10-11, 21:43:02",
-      "https://lobste.rs/s/du0vye/unix_structured_concurrency"
-    ],
-    [
-      "UNIX Structured Concurrency",
-      "https://matklad.github.io/2023/10/11/unix-structured-concurrency.html"
     ]
   ],
   [
