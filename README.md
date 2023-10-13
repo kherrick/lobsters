@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-13, 12:09:04](https://lobste.rs/s/4vtbrt/building_custom_date_formatter_for_swift) - [Building a custom date formatter for Swift](https://codakuma.com/swift-custom-date-format/)
 * [2023-10-13, 11:50:37](https://lobste.rs/s/ybirlx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ybirlx/what_are_you_doing_this_weekend)
 * [2023-10-13, 11:25:55](https://lobste.rs/s/2faala/canonical_releases_ubuntu_23_10_mantic) - [Canonical releases Ubuntu 23.10 Mantic Minotaur](https://canonical.com/blog/canonical-releases-ubuntu-23-10-mantic-minotaur)
 * [2023-10-13, 09:53:26](https://lobste.rs/s/lfbi7z/organizing_multiple_git_identities) - [Organizing multiple Git identities](https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities)
@@ -9,7 +10,6 @@
 * [2023-10-13, 02:06:09](https://lobste.rs/s/zhba7x/tla_made_simple_with_chatgpt) - [TLA+ Made Simple with ChatGPT](https://zfhuang99.github.io/tla+/pluscal/chatgpt/2023/09/24/TLA-made-simple-with-chatgpt.html)
 * [2023-10-13, 01:31:47](https://lobste.rs/s/fepbwy/strange_intelligence_strange) - [Strange Intelligence, Strange Philosophy](http://schwitzsplinters.blogspot.com/2023/10/strange-intelligence-strange-philosophy.html)
 * [2023-10-13, 00:36:40](https://lobste.rs/s/urvuy6/lsp_could_have_been_better) - [LSP could have been better](https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html)
-* [2023-10-13, 00:14:57](https://lobste.rs/s/4qtefb/aqua_declarative_cli_version_manager) - [aqua: Declarative CLI Version Manager](https://aquaproj.github.io/)
 * [2023-10-12, 23:46:21](https://lobste.rs/s/8tarcu/one_game_by_one_man_on_six_platforms) - [One Game, By One Man, On Six Platforms](https://ruoyusun.com/2023/10/12/one-game-six-platforms.html)
 * [2023-10-12, 23:40:39](https://lobste.rs/s/pndgdr/deploying_go_with_apache_using_fastcgi) - [Deploying Go with Apache? (using FastCGI)](https://piperswe.me/2023/deploy-go-with-fastcgi/)
 * [2023-10-12, 22:44:37](https://lobste.rs/s/qiqdxs/crouton_c_20_coroutine_runtime_cross) - [crouton: C++20 coroutine runtime and cross-platform I/O library](https://github.com/couchbaselabs/crouton)
