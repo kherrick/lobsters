@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
+* [2023-10-13, 18:46:52](https://lobste.rs/s/ihfbuv/microsoft_consumes_activision_plea) - [Microsoft consumes Activision; and a plea](https://blog.zarfhome.com/2023/10/microsoft-consumes-activision)
 * [2023-10-13, 18:40:08](https://lobste.rs/s/jcpuxw/weiler_atherton_polygon_clipping) - [The Weiler-Atherton polygon clipping algorithm](https://liorsinai.github.io/mathematics/2023/09/30/polygon-clipping.html)
 * [2023-10-13, 18:32:43](https://lobste.rs/s/qfkubw/hpy_0_9_0_fourth_public_release) - [hpy 0.9.0: Fourth public release](https://hpyproject.org/blog/posts/2023/10/hpy-0.9.0-fourth-public-release/)
 * [2023-10-13, 17:37:52](https://lobste.rs/s/l4em19/cursorless_spoken_language_for_editing) - [\"Cursorless: A spoken language for editing code\" by Pokey Rule (Strange Loop 2023)](https://www.youtube.com/watch?v=NcUJnmBqHTY)
