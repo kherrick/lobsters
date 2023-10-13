@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-13, 02:06:09",
+      "https://lobste.rs/s/zhba7x/tla_made_simple_with_chatgpt"
+    ],
+    [
+      "TLA+ Made Simple with ChatGPT",
+      "https://zfhuang99.github.io/tla+/pluscal/chatgpt/2023/09/24/TLA-made-simple-with-chatgpt.html"
+    ]
+  ],
+  [
+    [
       "2023-10-13, 01:31:47",
       "https://lobste.rs/s/fepbwy/strange_intelligence_strange"
     ],
@@ -67,16 +77,6 @@
     [
       "Optimizing row storage in 8-byte chunks",
       "https://brandur.org/fragments/postgres-row-optimization"
-    ]
-  ],
-  [
-    [
-      "2023-10-12, 20:29:57",
-      "https://lobste.rs/s/kskbef/open_props_sub_atomic_styles"
-    ],
-    [
-      "Open Props: sub-atomic styles",
-      "https://open-props.style"
     ]
   ],
   [
