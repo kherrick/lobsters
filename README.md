@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-13, 06:13:32](https://lobste.rs/s/tlsidg/making_rust_supply_chain_attacks_harder) - [Making Rust supply chain attacks harder with Cackle](https://davidlattimore.github.io/making-supply-chain-attacks-harder.html)
 * [2023-10-13, 03:51:49](https://lobste.rs/s/kw4nt6/porting_from_mfc_wxwidgets) - [Porting from MFC to wxWidgets](https://gist.github.com/LegalizeAdulthood/4ada76ae95f11fffab04dc7f81a20646#porting-from-mfc-to-wxwidgets)
 * [2023-10-13, 02:44:00](https://lobste.rs/s/aojohz/gerbil_v0_18_released) - [Gerbil v0.18 Released](https://github.com/mighty-gerbils/gerbil/releases/tag/v0.18)
 * [2023-10-13, 02:06:09](https://lobste.rs/s/zhba7x/tla_made_simple_with_chatgpt) - [TLA+ Made Simple with ChatGPT](https://zfhuang99.github.io/tla+/pluscal/chatgpt/2023/09/24/TLA-made-simple-with-chatgpt.html)
@@ -23,7 +24,6 @@
 * [2023-10-12, 04:12:01](https://lobste.rs/s/peyn5x/snmalloc_message_passing_based) - [snmalloc: Message passing based allocator](https://github.com/microsoft/snmalloc)
 * [2023-10-12, 01:54:47](https://lobste.rs/s/damwkw/why_i_don_t_like_http_as_frontend_backend) - [Why I don't like HTTP as a frontend to backend transport mechanism (2014)](https://utcc.utoronto.ca/~cks/space/blog/web/WhyNotHTTPAsTransport)
 * [2023-10-11, 23:02:27](https://lobste.rs/s/ghblzm/engage_wider_audience_with_activitypub) - [Engage a Wider Audience With ActivityPub on WordPress.com](https://wordpress.com/blog/2023/10/11/activitypub/)
-* [2023-10-11, 17:01:52](https://lobste.rs/s/eonfrp/bookworm_new_version_raspberry_pi_os) - [Bookworm — the new version of Raspberry Pi OS](https://www.raspberrypi.com/news/bookworm-the-new-version-of-raspberry-pi-os/)
 * [2023-10-11, 16:44:12](https://lobste.rs/s/u6niws/gnome_merge_requests_opened_would_drop_x) - [GNOME Merge Requests Opened That Would Drop X.Org Session Support](https://www.phoronix.com/news/GNOME-MR-Drop-X11-Session)
 
 ## [Archives](archives/index.md)
