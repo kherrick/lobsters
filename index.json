@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-13, 09:53:26",
+      "https://lobste.rs/s/lfbi7z/organizing_multiple_git_identities"
+    ],
+    [
+      "Organizing multiple Git identities",
+      "https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities"
+    ]
+  ],
+  [
+    [
       "2023-10-13, 06:13:32",
       "https://lobste.rs/s/tlsidg/making_rust_supply_chain_attacks_harder"
     ],
@@ -197,16 +207,6 @@
     [
       "Learn to use email with git",
       "https://git-send-email.io/"
-    ]
-  ],
-  [
-    [
-      "2023-10-12, 08:41:33",
-      "https://lobste.rs/s/tnwk8r/haproxy_is_not_affected_by_http_2_rapid"
-    ],
-    [
-      "HAProxy is not affected by the HTTP/2 Rapid Reset Attack (CVE-2023-44487)",
-      "https://www.haproxy.com/blog/haproxy-is-not-affected-by-the-http-2-rapid-reset-attack-cve-2023-44487"
     ]
   ],
   [
