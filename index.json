@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2023-10-13, 02:06:09",
+      "https://lobste.rs/s/zhba7x/tla_made_simple_with_chatgpt"
+    ],
+    [
+      "TLA+ Made Simple with ChatGPT",
+      "https://zfhuang99.github.io/tla+/pluscal/chatgpt/2023/09/24/TLA-made-simple-with-chatgpt.html"
+    ]
+  ],
+  [
+    [
       "2023-10-13, 00:36:40",
       "https://lobste.rs/s/urvuy6/lsp_could_have_been_better"
     ],
@@ -147,16 +157,6 @@
     [
       "crouton: C++20 coroutine runtime and cross-platform I/O library",
       "https://github.com/couchbaselabs/crouton"
-    ]
-  ],
-  [
-    [
-      "2023-10-12, 21:13:03",
-      "https://lobste.rs/s/xcwspp/optimizing_row_storage_8_byte_chunks"
-    ],
-    [
-      "Optimizing row storage in 8-byte chunks",
-      "https://brandur.org/fragments/postgres-row-optimization"
     ]
   ],
   [
