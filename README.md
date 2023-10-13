@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-13, 01:31:47](https://lobste.rs/s/fepbwy/strange_intelligence_strange) - [Strange Intelligence, Strange Philosophy](http://schwitzsplinters.blogspot.com/2023/10/strange-intelligence-strange-philosophy.html)
+* [2023-10-13, 00:36:40](https://lobste.rs/s/urvuy6/lsp_could_have_been_better) - [LSP could have been better](https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html)
 * [2023-10-13, 00:14:57](https://lobste.rs/s/4qtefb/aqua_declarative_cli_version_manager) - [aqua: Declarative CLI Version Manager](https://aquaproj.github.io/)
 * [2023-10-12, 23:46:21](https://lobste.rs/s/8tarcu/one_game_by_one_man_on_six_platforms) - [One Game, By One Man, On Six Platforms](https://ruoyusun.com/2023/10/12/one-game-six-platforms.html)
 * [2023-10-12, 23:40:39](https://lobste.rs/s/pndgdr/deploying_go_with_apache_using_fastcgi) - [Deploying Go with Apache? (using FastCGI)](https://piperswe.me/2023/deploy-go-with-fastcgi/)
@@ -20,8 +22,6 @@
 * [2023-10-12, 03:27:35](https://lobste.rs/s/dpzvwl/how_compare_signed_unsigned_integers_c_20) - [How to compare signed and unsigned integers in C++20?](https://www.sandordargo.com/blog/2023/10/11/cpp20-intcmp-utilities)
 * [2023-10-12, 01:54:47](https://lobste.rs/s/damwkw/why_i_don_t_like_http_as_frontend_backend) - [Why I don't like HTTP as a frontend to backend transport mechanism (2014)](https://utcc.utoronto.ca/~cks/space/blog/web/WhyNotHTTPAsTransport)
 * [2023-10-11, 23:02:27](https://lobste.rs/s/ghblzm/engage_wider_audience_with_activitypub) - [Engage a Wider Audience With ActivityPub on WordPress.com](https://wordpress.com/blog/2023/10/11/activitypub/)
-* [2023-10-11, 21:57:36](https://lobste.rs/s/8i2ymk/macos_containers_initiative) - [macOS Containers Initiative](https://macoscontainers.org/)
-* [2023-10-11, 20:44:01](https://lobste.rs/s/dilm39/brief_introduction_activitypub_future) - [A Brief Introduction of ActivityPub: The Future of Social Networks](https://hackernoon.com/a-brief-introduction-of-activitypub-the-future-of-social-networks)
 * [2023-10-11, 17:01:52](https://lobste.rs/s/eonfrp/bookworm_new_version_raspberry_pi_os) - [Bookworm — the new version of Raspberry Pi OS](https://www.raspberrypi.com/news/bookworm-the-new-version-of-raspberry-pi-os/)
 * [2023-10-11, 16:44:12](https://lobste.rs/s/u6niws/gnome_merge_requests_opened_would_drop_x) - [GNOME Merge Requests Opened That Would Drop X.Org Session Support](https://www.phoronix.com/news/GNOME-MR-Drop-X11-Session)
 * [2023-10-11, 16:11:05](https://lobste.rs/s/bpio3p/minimizing_s3_api_costs_with_distributed) - [Minimizing S3 API costs with distributed mmap](https://www.warpstream.com/blog/minimizing-s3-api-costs-with-distributed-mmap)
