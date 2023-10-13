@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-13, 02:44:00](https://lobste.rs/s/aojohz/gerbil_v0_18_released) - [Gerbil v0.18 Released](https://github.com/mighty-gerbils/gerbil/releases/tag/v0.18)
 * [2023-10-13, 02:06:09](https://lobste.rs/s/zhba7x/tla_made_simple_with_chatgpt) - [TLA+ Made Simple with ChatGPT](https://zfhuang99.github.io/tla+/pluscal/chatgpt/2023/09/24/TLA-made-simple-with-chatgpt.html)
 * [2023-10-13, 01:31:47](https://lobste.rs/s/fepbwy/strange_intelligence_strange) - [Strange Intelligence, Strange Philosophy](http://schwitzsplinters.blogspot.com/2023/10/strange-intelligence-strange-philosophy.html)
 * [2023-10-13, 00:36:40](https://lobste.rs/s/urvuy6/lsp_could_have_been_better) - [LSP could have been better](https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html)
@@ -19,7 +20,6 @@
 * [2023-10-12, 12:42:05](https://lobste.rs/s/fubpta/learn_use_email_with_git) - [Learn to use email with git](https://git-send-email.io/)
 * [2023-10-12, 08:41:33](https://lobste.rs/s/tnwk8r/haproxy_is_not_affected_by_http_2_rapid) - [HAProxy is not affected by the HTTP/2 Rapid Reset Attack (CVE-2023-44487)](https://www.haproxy.com/blog/haproxy-is-not-affected-by-the-http-2-rapid-reset-attack-cve-2023-44487)
 * [2023-10-12, 04:12:01](https://lobste.rs/s/peyn5x/snmalloc_message_passing_based) - [snmalloc: Message passing based allocator](https://github.com/microsoft/snmalloc)
-* [2023-10-12, 03:27:35](https://lobste.rs/s/dpzvwl/how_compare_signed_unsigned_integers_c_20) - [How to compare signed and unsigned integers in C++20?](https://www.sandordargo.com/blog/2023/10/11/cpp20-intcmp-utilities)
 * [2023-10-12, 01:54:47](https://lobste.rs/s/damwkw/why_i_don_t_like_http_as_frontend_backend) - [Why I don't like HTTP as a frontend to backend transport mechanism (2014)](https://utcc.utoronto.ca/~cks/space/blog/web/WhyNotHTTPAsTransport)
 * [2023-10-11, 23:02:27](https://lobste.rs/s/ghblzm/engage_wider_audience_with_activitypub) - [Engage a Wider Audience With ActivityPub on WordPress.com](https://wordpress.com/blog/2023/10/11/activitypub/)
 * [2023-10-11, 17:01:52](https://lobste.rs/s/eonfrp/bookworm_new_version_raspberry_pi_os) - [Bookworm — the new version of Raspberry Pi OS](https://www.raspberrypi.com/news/bookworm-the-new-version-of-raspberry-pi-os/)
