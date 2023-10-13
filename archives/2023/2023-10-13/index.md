@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
+* [2023-10-13, 15:36:37](https://lobste.rs/s/5sivma/mansion_filled_with_hidden_worlds_when) - [A Mansion Filled With Hidden Worlds: When the Internet Was Young](https://undark.org/2018/07/20/wilo-evans-broad-band/)
 * [2023-10-13, 15:25:13](https://lobste.rs/s/fhyvyr/scrollbars_are_becoming_problem) - [Scrollbars are becoming a problem](https://artemis.sh/2023/10/12/scrollbars.html)
 * [2023-10-13, 14:07:53](https://lobste.rs/s/dillky/why_software_ends_up_complex) - [Why software ends up complex](https://alexgaynor.net/2020/nov/30/why-software-ends-up-complex/)
 * [2023-10-13, 14:07:28](https://lobste.rs/s/f42oyk/browser_browser_detection_go_golang) - [browser: Browser detection in Go (golang)](https://github.com/dineshgowda24/browser)
