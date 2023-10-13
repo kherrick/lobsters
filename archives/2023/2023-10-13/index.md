@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
+* [2023-10-13, 15:48:58](https://lobste.rs/s/k6a8bs/how_we_optimized_package_imports_next_js) - [How we optimized package imports in Next.js](https://vercel.com/blog/how-we-optimized-package-imports-in-next-js)
 * [2023-10-13, 15:36:37](https://lobste.rs/s/5sivma/mansion_filled_with_hidden_worlds_when) - [A Mansion Filled With Hidden Worlds: When the Internet Was Young](https://undark.org/2018/07/20/wilo-evans-broad-band/)
 * [2023-10-13, 15:25:13](https://lobste.rs/s/fhyvyr/scrollbars_are_becoming_problem) - [Scrollbars are becoming a problem](https://artemis.sh/2023/10/12/scrollbars.html)
 * [2023-10-13, 14:07:53](https://lobste.rs/s/dillky/why_software_ends_up_complex) - [Why software ends up complex](https://alexgaynor.net/2020/nov/30/why-software-ends-up-complex/)
