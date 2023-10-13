@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-13, 18:40:08](https://lobste.rs/s/jcpuxw/weiler_atherton_polygon_clipping) - [The Weiler-Atherton polygon clipping algorithm](https://liorsinai.github.io/mathematics/2023/09/30/polygon-clipping.html)
 * [2023-10-13, 18:32:43](https://lobste.rs/s/qfkubw/hpy_0_9_0_fourth_public_release) - [hpy 0.9.0: Fourth public release](https://hpyproject.org/blog/posts/2023/10/hpy-0.9.0-fourth-public-release/)
 * [2023-10-13, 17:37:52](https://lobste.rs/s/l4em19/cursorless_spoken_language_for_editing) - [\"Cursorless: A spoken language for editing code\" by Pokey Rule (Strange Loop 2023)](https://www.youtube.com/watch?v=NcUJnmBqHTY)
 * [2023-10-13, 17:25:37](https://lobste.rs/s/epgjik/alloy_c_models) - [Alloy to C# models](https://github.com/nanunintan/Alloy2Cs)
 * [2023-10-13, 16:53:27](https://lobste.rs/s/urakto/conical_slicing_different_angle_3d) - [Conical Slicing: A different angle of 3D printing](https://www.cnckitchen.com/blog/conical-slicing-a-different-angle-of-3d-printing)
 * [2023-10-13, 15:48:58](https://lobste.rs/s/k6a8bs/how_we_optimized_package_imports_next_js) - [How we optimized package imports in Next.js](https://vercel.com/blog/how-we-optimized-package-imports-in-next-js)
-* [2023-10-13, 15:36:37](https://lobste.rs/s/5sivma/mansion_filled_with_hidden_worlds_when) - [A Mansion Filled With Hidden Worlds: When the Internet Was Young](https://undark.org/2018/07/20/wilo-evans-broad-band/)
 * [2023-10-13, 15:25:13](https://lobste.rs/s/fhyvyr/scrollbars_are_becoming_problem) - [Scrollbars are becoming a problem](https://artemis.sh/2023/10/12/scrollbars.html)
 * [2023-10-13, 14:07:53](https://lobste.rs/s/dillky/why_software_ends_up_complex_2020) - [Why software ends up complex (2020)](https://alexgaynor.net/2020/nov/30/why-software-ends-up-complex/)
 * [2023-10-13, 14:07:28](https://lobste.rs/s/f42oyk/browser_browser_detection_go_golang) - [browser: Browser detection in Go (golang)](https://github.com/dineshgowda24/browser)
