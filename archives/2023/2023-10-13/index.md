@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
+* [2023-10-13, 03:51:49](https://lobste.rs/s/kw4nt6/porting_from_mfc_wxwidgets) - [Porting from MFC to wxWidgets](https://gist.github.com/LegalizeAdulthood/4ada76ae95f11fffab04dc7f81a20646#porting-from-mfc-to-wxwidgets)
 * [2023-10-13, 02:44:00](https://lobste.rs/s/aojohz/gerbil_v0_18_released) - [Gerbil v0.18 Released](https://github.com/mighty-gerbils/gerbil/releases/tag/v0.18)
 * [2023-10-13, 02:06:09](https://lobste.rs/s/zhba7x/tla_made_simple_with_chatgpt) - [TLA+ Made Simple with ChatGPT](https://zfhuang99.github.io/tla+/pluscal/chatgpt/2023/09/24/TLA-made-simple-with-chatgpt.html)
 * [2023-10-13, 01:31:47](https://lobste.rs/s/fepbwy/strange_intelligence_strange) - [Strange Intelligence, Strange Philosophy](http://schwitzsplinters.blogspot.com/2023/10/strange-intelligence-strange-philosophy.html)
