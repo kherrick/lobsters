@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-13, 17:25:37](https://lobste.rs/s/epgjik/alloy_c_models) - [Alloy to C# models](https://github.com/nanunintan/Alloy2Cs)
 * [2023-10-13, 16:53:27](https://lobste.rs/s/urakto/conical_slicing_different_angle_3d) - [Conical Slicing: A different angle of 3D printing](https://www.cnckitchen.com/blog/conical-slicing-a-different-angle-of-3d-printing)
 * [2023-10-13, 15:48:58](https://lobste.rs/s/k6a8bs/how_we_optimized_package_imports_next_js) - [How we optimized package imports in Next.js](https://vercel.com/blog/how-we-optimized-package-imports-in-next-js)
 * [2023-10-13, 15:36:37](https://lobste.rs/s/5sivma/mansion_filled_with_hidden_worlds_when) - [A Mansion Filled With Hidden Worlds: When the Internet Was Young](https://undark.org/2018/07/20/wilo-evans-broad-band/)
@@ -16,7 +17,6 @@
 * [2023-10-13, 00:14:57](https://lobste.rs/s/4qtefb/aqua_declarative_cli_version_manager) - [aqua: Declarative CLI Version Manager](https://aquaproj.github.io/)
 * [2023-10-12, 23:46:21](https://lobste.rs/s/8tarcu/one_game_by_one_man_on_six_platforms) - [One Game, By One Man, On Six Platforms](https://ruoyusun.com/2023/10/12/one-game-six-platforms.html)
 * [2023-10-12, 23:40:39](https://lobste.rs/s/pndgdr/deploying_go_with_apache_using_fastcgi) - [Deploying Go with Apache? (using FastCGI)](https://piperswe.me/2023/deploy-go-with-fastcgi/)
-* [2023-10-12, 22:44:37](https://lobste.rs/s/qiqdxs/crouton_c_20_coroutine_runtime_cross) - [crouton: C++20 coroutine runtime and cross-platform I/O library](https://github.com/couchbaselabs/crouton)
 * [2023-10-12, 19:56:15](https://lobste.rs/s/fauwpt/okay_fine_i_m_using_static_site_generator) - [Okay, fine, I'm using a static site generator now](https://xeiaso.net/blog/xesite-v4/)
 * [2023-10-12, 17:50:21](https://lobste.rs/s/vqoftd/first_word_discovered_unopened) - [First word discovered in unopened Herculaneum scroll by 21yo computer science student](https://scrollprize.org/firstletters)
 * [2023-10-12, 17:21:52](https://lobste.rs/s/soz0c1/how_download_install_linux) - [How to download and install Linux](https://learn.microsoft.com/en-us/linux/install)
