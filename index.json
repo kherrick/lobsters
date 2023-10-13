@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-13, 02:44:00",
+      "https://lobste.rs/s/aojohz/gerbil_v0_18_released"
+    ],
+    [
+      "Gerbil v0.18 Released",
+      "https://github.com/mighty-gerbils/gerbil/releases/tag/v0.18"
+    ]
+  ],
+  [
+    [
       "2023-10-13, 02:06:09",
       "https://lobste.rs/s/zhba7x/tla_made_simple_with_chatgpt"
     ],
@@ -187,16 +197,6 @@
     [
       "snmalloc: Message passing based allocator",
       "https://github.com/microsoft/snmalloc"
-    ]
-  ],
-  [
-    [
-      "2023-10-12, 03:27:35",
-      "https://lobste.rs/s/dpzvwl/how_compare_signed_unsigned_integers_c_20"
-    ],
-    [
-      "How to compare signed and unsigned integers in C++20?",
-      "https://www.sandordargo.com/blog/2023/10/11/cpp20-intcmp-utilities"
     ]
   ],
   [
