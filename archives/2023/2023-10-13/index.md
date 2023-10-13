@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
+* [2023-10-13, 13:45:17](https://lobste.rs/s/knaxru/zero_alloc_pathfinding_go) - [Zero alloc pathfinding in Go](https://quasilyte.dev/blog/post/pathfinding/)
 * [2023-10-13, 12:09:04](https://lobste.rs/s/4vtbrt/building_custom_date_formatter_for_swift) - [Building a custom date formatter for Swift](https://codakuma.com/swift-custom-date-format/)
 * [2023-10-13, 11:50:37](https://lobste.rs/s/ybirlx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ybirlx/what_are_you_doing_this_weekend)
 * [2023-10-13, 11:25:55](https://lobste.rs/s/2faala/canonical_releases_ubuntu_23_10_mantic) - [Canonical releases Ubuntu 23.10 Mantic Minotaur](https://canonical.com/blog/canonical-releases-ubuntu-23-10-mantic-minotaur)
