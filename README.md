@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-13, 17:37:52](https://lobste.rs/s/l4em19/cursorless_spoken_language_for_editing) - [\"Cursorless: A spoken language for editing code\" by Pokey Rule (Strange Loop 2023)](https://www.youtube.com/watch?v=NcUJnmBqHTY)
 * [2023-10-13, 17:25:37](https://lobste.rs/s/epgjik/alloy_c_models) - [Alloy to C# models](https://github.com/nanunintan/Alloy2Cs)
 * [2023-10-13, 16:53:27](https://lobste.rs/s/urakto/conical_slicing_different_angle_3d) - [Conical Slicing: A different angle of 3D printing](https://www.cnckitchen.com/blog/conical-slicing-a-different-angle-of-3d-printing)
 * [2023-10-13, 15:48:58](https://lobste.rs/s/k6a8bs/how_we_optimized_package_imports_next_js) - [How we optimized package imports in Next.js](https://vercel.com/blog/how-we-optimized-package-imports-in-next-js)
@@ -23,7 +24,6 @@
 * [2023-10-12, 16:17:29](https://lobste.rs/s/mhtyyj/can_t_be_f_cked_underrated_cause_tech_debt) - [Can't Be F*cked: Underrated Cause of Tech Debt](https://jesseduffield.com/Can%27t-Be-Fcked/)
 * [2023-10-12, 14:40:41](https://lobste.rs/s/ezk72g/what_i_wish_i_knew_when_i_got_my_asn) - [What I wish I knew when I got my ASN](https://quantum5.ca/2023/10/10/what-i-wish-i-knew-when-i-got-my-asn/)
 * [2023-10-12, 14:12:15](https://lobste.rs/s/rz8thl/using_prolog_as_ast) - [Using Prolog as the AST](https://marcellerusu.com/using_prolog_as_the_ast.html)
-* [2023-10-12, 12:52:23](https://lobste.rs/s/55pcfz/on_importance_naming_programming) - [On Importance of Naming in Programming](https://wasp-lang.dev/blog/2023/10/12/on-importance-of-naming-in-programming)
 * [2023-10-12, 12:42:05](https://lobste.rs/s/fubpta/learn_use_email_with_git) - [Learn to use email with git](https://git-send-email.io/)
 
 ## [Archives](archives/index.md)
