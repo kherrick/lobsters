@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
+* [2023-10-13, 20:41:12](https://lobste.rs/s/raa0cr/openzfs_2_2_0_released) - [OpenZFS 2.2.0 released](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.0)
 * [2023-10-13, 19:07:57](https://lobste.rs/s/qwlpxu/machine_mirage_silicon_whisper_faraz) - [Machine Mirage in a Silicon Whisper — Faraz Vahedi](https://kfv.io/blog/hello-world)
 * [2023-10-13, 19:07:57](https://lobste.rs/s/qwlpxu/machine_mirage_silicon_whisper) - [Machine Mirage in a Silicon Whisper](https://kfv.io/blog/hello-world)
 * [2023-10-13, 18:46:52](https://lobste.rs/s/ihfbuv/microsoft_consumes_activision_plea) - [Microsoft consumes Activision; and a plea](https://blog.zarfhome.com/2023/10/microsoft-consumes-activision)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-13, 20:41:12](https://lobste.rs/s/raa0cr/openzfs_2_2_0_released) - [OpenZFS 2.2.0 released](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.0)
 * [2023-10-13, 19:07:57](https://lobste.rs/s/qwlpxu/machine_mirage_silicon_whisper) - [Machine Mirage in a Silicon Whisper](https://kfv.io/blog/hello-world)
 * [2023-10-13, 18:40:08](https://lobste.rs/s/jcpuxw/weiler_atherton_polygon_clipping) - [The Weiler-Atherton polygon clipping algorithm](https://liorsinai.github.io/mathematics/2023/09/30/polygon-clipping.html)
 * [2023-10-13, 18:32:43](https://lobste.rs/s/qfkubw/hpy_0_9_0_fourth_public_release) - [hpy 0.9.0: Fourth public release](https://hpyproject.org/blog/posts/2023/10/hpy-0.9.0-fourth-public-release/)
@@ -16,7 +17,6 @@
 * [2023-10-13, 06:13:32](https://lobste.rs/s/tlsidg/making_rust_supply_chain_attacks_harder) - [Making Rust supply chain attacks harder with Cackle](https://davidlattimore.github.io/making-supply-chain-attacks-harder.html)
 * [2023-10-13, 02:44:00](https://lobste.rs/s/aojohz/gerbil_v0_18_released) - [Gerbil v0.18 Released](https://github.com/mighty-gerbils/gerbil/releases/tag/v0.18)
 * [2023-10-13, 00:36:40](https://lobste.rs/s/urvuy6/lsp_could_have_been_better) - [LSP could have been better](https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html)
-* [2023-10-12, 23:46:21](https://lobste.rs/s/8tarcu/one_game_by_one_man_on_six_platforms) - [One Game, By One Man, On Six Platforms](https://ruoyusun.com/2023/10/12/one-game-six-platforms.html)
 * [2023-10-12, 23:40:39](https://lobste.rs/s/pndgdr/deploying_go_with_apache_using_fastcgi) - [Deploying Go with Apache? (using FastCGI)](https://piperswe.me/2023/deploy-go-with-fastcgi/)
 * [2023-10-12, 19:56:15](https://lobste.rs/s/fauwpt/okay_fine_i_m_using_static_site_generator) - [Okay, fine, I'm using a static site generator now](https://xeiaso.net/blog/xesite-v4/)
 * [2023-10-12, 17:50:21](https://lobste.rs/s/vqoftd/first_word_discovered_unopened) - [First word discovered in unopened Herculaneum scroll by 21yo computer science student](https://scrollprize.org/firstletters)
