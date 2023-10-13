@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
+* [2023-10-13, 11:25:55](https://lobste.rs/s/2faala/canonical_releases_ubuntu_23_10_mantic) - [Canonical releases Ubuntu 23.10 Mantic Minotaur](https://canonical.com/blog/canonical-releases-ubuntu-23-10-mantic-minotaur)
 * [2023-10-13, 09:53:26](https://lobste.rs/s/lfbi7z/organizing_multiple_git_identities) - [Organizing multiple Git identities](https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities)
 * [2023-10-13, 06:13:32](https://lobste.rs/s/tlsidg/making_rust_supply_chain_attacks_harder) - [Making Rust supply chain attacks harder with Cackle](https://davidlattimore.github.io/making-supply-chain-attacks-harder.html)
 * [2023-10-13, 03:51:49](https://lobste.rs/s/kw4nt6/porting_from_mfc_wxwidgets) - [Porting from MFC to wxWidgets](https://gist.github.com/LegalizeAdulthood/4ada76ae95f11fffab04dc7f81a20646#porting-from-mfc-to-wxwidgets)
