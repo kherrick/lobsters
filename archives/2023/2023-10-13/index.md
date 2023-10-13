@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-10-13](index.md)
+
+* [2023-10-13, 00:14:57](https://lobste.rs/s/4qtefb/aqua_declarative_cli_version_manager) - [aqua: Declarative CLI Version Manager](https://aquaproj.github.io/)

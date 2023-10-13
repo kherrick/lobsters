@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-13, 00:14:57](https://lobste.rs/s/4qtefb/aqua_declarative_cli_version_manager) - [aqua: Declarative CLI Version Manager](https://aquaproj.github.io/)
 * [2023-10-12, 23:46:21](https://lobste.rs/s/8tarcu/one_game_by_one_man_on_six_platforms) - [One Game, By One Man, On Six Platforms](https://ruoyusun.com/2023/10/12/one-game-six-platforms.html)
 * [2023-10-12, 23:40:39](https://lobste.rs/s/pndgdr/deploying_go_with_apache_using_fastcgi) - [Deploying Go with Apache? (using FastCGI)](https://piperswe.me/2023/deploy-go-with-fastcgi/)
 * [2023-10-12, 22:44:37](https://lobste.rs/s/qiqdxs/crouton_c_20_coroutine_runtime_cross) - [crouton: C++20 coroutine runtime and cross-platform I/O library](https://github.com/couchbaselabs/crouton)
 * [2023-10-12, 21:13:03](https://lobste.rs/s/xcwspp/optimizing_row_storage_8_byte_chunks) - [Optimizing row storage in 8-byte chunks](https://brandur.org/fragments/postgres-row-optimization)
 * [2023-10-12, 20:29:57](https://lobste.rs/s/kskbef/open_props_sub_atomic_styles) - [Open Props: sub-atomic styles](https://open-props.style)
 * [2023-10-12, 19:56:15](https://lobste.rs/s/fauwpt/okay_fine_i_m_using_static_site_generator) - [Okay, fine, I'm using a static site generator now](https://xeiaso.net/blog/xesite-v4/)
-* [2023-10-12, 19:46:10](https://lobste.rs/s/qpmtit/qbindiff_modular_diffing_toolkit) - [QBinDiff: A modular diffing toolkit](https://blog.quarkslab.com/qbindiff-a-modular-diffing-toolkit.html)
 * [2023-10-12, 17:54:53](https://lobste.rs/s/r7ugmq/psa_qpointer_has_terrible_name) - [PSA: QPointer has a terrible name](https://www.kdab.com/psa-qpointer-has-a-terrible-name/)
 * [2023-10-12, 17:50:21](https://lobste.rs/s/vqoftd/first_word_discovered_unopened) - [First word discovered in unopened Herculaneum scroll by 21yo computer science student](https://scrollprize.org/firstletters)
 * [2023-10-12, 17:21:52](https://lobste.rs/s/soz0c1/how_download_install_linux) - [How to download and install Linux](https://learn.microsoft.com/en-us/linux/install)
