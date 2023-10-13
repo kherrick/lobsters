@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-13](index.md)
 
+* [2023-10-13, 14:07:53](https://lobste.rs/s/dillky/why_software_ends_up_complex) - [Why software ends up complex](https://alexgaynor.net/2020/nov/30/why-software-ends-up-complex/)
+* [2023-10-13, 14:07:28](https://lobste.rs/s/f42oyk/browser_browser_detection_go_golang) - [browser: Browser detection in Go (golang)](https://github.com/dineshgowda24/browser)
 * [2023-10-13, 13:45:17](https://lobste.rs/s/knaxru/zero_alloc_pathfinding_go) - [Zero alloc pathfinding in Go](https://quasilyte.dev/blog/post/pathfinding/)
 * [2023-10-13, 12:09:04](https://lobste.rs/s/4vtbrt/building_custom_date_formatter_for_swift) - [Building a custom date formatter for Swift](https://codakuma.com/swift-custom-date-format/)
 * [2023-10-13, 11:50:37](https://lobste.rs/s/ybirlx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ybirlx/what_are_you_doing_this_weekend)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-13, 14:07:53](https://lobste.rs/s/dillky/why_software_ends_up_complex) - [Why software ends up complex](https://alexgaynor.net/2020/nov/30/why-software-ends-up-complex/)
+* [2023-10-13, 14:07:28](https://lobste.rs/s/f42oyk/browser_browser_detection_go_golang) - [browser: Browser detection in Go (golang)](https://github.com/dineshgowda24/browser)
 * [2023-10-13, 13:45:17](https://lobste.rs/s/knaxru/zero_alloc_pathfinding_go) - [Zero alloc pathfinding in Go](https://quasilyte.dev/blog/post/pathfinding/)
 * [2023-10-13, 12:09:04](https://lobste.rs/s/4vtbrt/building_custom_date_formatter_for_swift) - [Building a custom date formatter for Swift](https://codakuma.com/swift-custom-date-format/)
 * [2023-10-13, 11:50:37](https://lobste.rs/s/ybirlx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ybirlx/what_are_you_doing_this_weekend)
@@ -8,7 +10,6 @@
 * [2023-10-13, 06:13:32](https://lobste.rs/s/tlsidg/making_rust_supply_chain_attacks_harder) - [Making Rust supply chain attacks harder with Cackle](https://davidlattimore.github.io/making-supply-chain-attacks-harder.html)
 * [2023-10-13, 03:51:49](https://lobste.rs/s/kw4nt6/porting_from_mfc_wxwidgets) - [Porting from MFC to wxWidgets](https://gist.github.com/LegalizeAdulthood/4ada76ae95f11fffab04dc7f81a20646#porting-from-mfc-to-wxwidgets)
 * [2023-10-13, 02:44:00](https://lobste.rs/s/aojohz/gerbil_v0_18_released) - [Gerbil v0.18 Released](https://github.com/mighty-gerbils/gerbil/releases/tag/v0.18)
-* [2023-10-13, 02:06:09](https://lobste.rs/s/zhba7x/tla_made_simple_with_chatgpt) - [TLA+ Made Simple with ChatGPT](https://zfhuang99.github.io/tla+/pluscal/chatgpt/2023/09/24/TLA-made-simple-with-chatgpt.html)
 * [2023-10-13, 00:36:40](https://lobste.rs/s/urvuy6/lsp_could_have_been_better) - [LSP could have been better](https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html)
 * [2023-10-13, 00:14:57](https://lobste.rs/s/4qtefb/aqua_declarative_cli_version_manager) - [aqua: Declarative CLI Version Manager](https://aquaproj.github.io/)
 * [2023-10-12, 23:46:21](https://lobste.rs/s/8tarcu/one_game_by_one_man_on_six_platforms) - [One Game, By One Man, On Six Platforms](https://ruoyusun.com/2023/10/12/one-game-six-platforms.html)
@@ -24,7 +25,6 @@
 * [2023-10-12, 12:52:23](https://lobste.rs/s/55pcfz/on_importance_naming_programming) - [On Importance of Naming in Programming](https://wasp-lang.dev/blog/2023/10/12/on-importance-of-naming-in-programming)
 * [2023-10-12, 12:42:05](https://lobste.rs/s/fubpta/learn_use_email_with_git) - [Learn to use email with git](https://git-send-email.io/)
 * [2023-10-12, 04:12:01](https://lobste.rs/s/peyn5x/snmalloc_message_passing_based) - [snmalloc: Message passing based allocator](https://github.com/microsoft/snmalloc)
-* [2023-10-11, 23:02:27](https://lobste.rs/s/ghblzm/engage_wider_audience_with_activitypub) - [Engage a Wider Audience With ActivityPub on WordPress.com](https://wordpress.com/blog/2023/10/11/activitypub/)
 
 ## [Archives](archives/index.md)
 
