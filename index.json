@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-13, 17:25:37",
+      "https://lobste.rs/s/epgjik/alloy_c_models"
+    ],
+    [
+      "Alloy to C# models",
+      "https://github.com/nanunintan/Alloy2Cs"
+    ]
+  ],
+  [
+    [
       "2023-10-13, 16:53:27",
       "https://lobste.rs/s/urakto/conical_slicing_different_angle_3d"
     ],
@@ -157,16 +167,6 @@
     [
       "Deploying Go with Apache? (using FastCGI)",
       "https://piperswe.me/2023/deploy-go-with-fastcgi/"
-    ]
-  ],
-  [
-    [
-      "2023-10-12, 22:44:37",
-      "https://lobste.rs/s/qiqdxs/crouton_c_20_coroutine_runtime_cross"
-    ],
-    [
-      "crouton: C++20 coroutine runtime and cross-platform I/O library",
-      "https://github.com/couchbaselabs/crouton"
     ]
   ],
   [
