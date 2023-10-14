@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-14, 20:27:54](https://lobste.rs/s/em4aic/examining_silicon_dies_intel_386) - [Examining the silicon dies of the Intel 386 processor](http://www.righto.com/2023/10/intel-386-die-versions.html)
 * [2023-10-14, 20:21:47](https://lobste.rs/s/waeii9/chris_s_wiki_blog_unix) - [Chris's Wiki :: blog/unix/OpenBSDPfStatesAndDoS](https://utcc.utoronto.ca/~cks/space/blog/unix/OpenBSDPfStatesAndDoS)
 * [2023-10-14, 20:06:41](https://lobste.rs/s/isphha/add_ons_for_firefox_android_everything) - [Add-ons for Firefox Android - Everything You Need to Know](https://www.linkedin.com/events/7116079104348545025/comments/)
 * [2023-10-14, 19:14:33](https://lobste.rs/s/fuorft/compile_times_code_graphs) - [Compile Times and Code Graphs](https://blog.danhhz.com/compile-times-and-code-graphs)
@@ -14,7 +15,6 @@
 * [2023-10-14, 03:44:10](https://lobste.rs/s/jdnmkv/multi_modal_prompt_injection_image) - [Multi-modal prompt injection image attacks against GPT-4V](https://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/)
 * [2023-10-13, 23:26:29](https://lobste.rs/s/jy7cud/apple_video_decoder_notes_week_1_3) - [Apple Video Decoder Notes, Week 1-3](https://eiln.net/avd-notes.html)
 * [2023-10-13, 20:41:12](https://lobste.rs/s/raa0cr/openzfs_2_2_0_released) - [OpenZFS 2.2.0 released](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.0)
-* [2023-10-13, 19:07:57](https://lobste.rs/s/qwlpxu/machine_mirage_silicon_whisper) - [Machine Mirage in a Silicon Whisper](https://kfv.io/blog/hello-world)
 * [2023-10-13, 18:32:43](https://lobste.rs/s/qfkubw/hpy_0_9_0_fourth_public_release) - [hpy 0.9.0: Fourth public release](https://hpyproject.org/blog/posts/2023/10/hpy-0.9.0-fourth-public-release/)
 * [2023-10-13, 17:37:52](https://lobste.rs/s/l4em19/cursorless_spoken_language_for_editing) - [Cursorless: A spoken language for editing code](https://www.youtube.com/watch?v=NcUJnmBqHTY)
 * [2023-10-13, 16:53:27](https://lobste.rs/s/urakto/conical_slicing_different_angle_3d) - [Conical Slicing: A different angle of 3D printing](https://www.cnckitchen.com/blog/conical-slicing-a-different-angle-of-3d-printing)

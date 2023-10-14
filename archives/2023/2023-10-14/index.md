@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-14](index.md)
 
+* [2023-10-14, 20:27:54](https://lobste.rs/s/em4aic/examining_silicon_dies_intel_386) - [Examining the silicon dies of the Intel 386 processor](http://www.righto.com/2023/10/intel-386-die-versions.html)
 * [2023-10-14, 20:21:47](https://lobste.rs/s/waeii9/chris_s_wiki_blog_unix) - [Chris's Wiki :: blog/unix/OpenBSDPfStatesAndDoS](https://utcc.utoronto.ca/~cks/space/blog/unix/OpenBSDPfStatesAndDoS)
 * [2023-10-14, 20:06:41](https://lobste.rs/s/isphha/add_ons_for_firefox_android_everything) - [Add-ons for Firefox Android - Everything You Need to Know](https://www.linkedin.com/events/7116079104348545025/comments/)
 * [2023-10-14, 19:14:33](https://lobste.rs/s/fuorft/compile_times_code_graphs) - [Compile Times and Code Graphs](https://blog.danhhz.com/compile-times-and-code-graphs)
