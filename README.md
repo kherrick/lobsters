@@ -7,7 +7,6 @@
 * [2023-10-14, 03:44:10](https://lobste.rs/s/jdnmkv/multi_modal_prompt_injection_image) - [Multi-modal prompt injection image attacks against GPT-4V](https://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/)
 * [2023-10-13, 23:26:29](https://lobste.rs/s/jy7cud/apple_video_decoder_notes_week_1_3) - [Apple Video Decoder Notes, Week 1-3](https://eiln.net/avd-notes.html)
 * [2023-10-13, 20:41:12](https://lobste.rs/s/raa0cr/openzfs_2_2_0_released) - [OpenZFS 2.2.0 released](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.0)
-* [2023-10-13, 19:07:57](https://lobste.rs/s/qwlpxu/machine_mirage_silicon_whisper) - [Machine Mirage in a Silicon Whisper](https://kfv.io/blog/hello-world)
 * [2023-10-13, 18:40:08](https://lobste.rs/s/jcpuxw/weiler_atherton_polygon_clipping) - [The Weiler-Atherton polygon clipping algorithm](https://liorsinai.github.io/mathematics/2023/09/30/polygon-clipping.html)
 * [2023-10-13, 18:32:43](https://lobste.rs/s/qfkubw/hpy_0_9_0_fourth_public_release) - [hpy 0.9.0: Fourth public release](https://hpyproject.org/blog/posts/2023/10/hpy-0.9.0-fourth-public-release/)
 * [2023-10-13, 17:37:52](https://lobste.rs/s/l4em19/cursorless_spoken_language_for_editing) - [Cursorless: A spoken language for editing code](https://www.youtube.com/watch?v=NcUJnmBqHTY)
@@ -24,6 +23,7 @@
 * [2023-10-13, 00:36:40](https://lobste.rs/s/urvuy6/lsp_could_have_been_better) - [LSP could have been better](https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html)
 * [2023-10-12, 19:56:15](https://lobste.rs/s/fauwpt/okay_fine_i_m_using_static_site_generator) - [Okay, fine, I'm using a static site generator now](https://xeiaso.net/blog/xesite-v4/)
 * [2023-10-12, 17:21:52](https://lobste.rs/s/soz0c1/how_download_install_linux) - [How to download and install Linux](https://learn.microsoft.com/en-us/linux/install)
+* [2023-10-12, 16:17:29](https://lobste.rs/s/mhtyyj/can_t_be_f_cked_underrated_cause_tech_debt) - [Can't Be F*cked: Underrated Cause of Tech Debt](https://jesseduffield.com/Can%27t-Be-Fcked/)
 * [2023-10-12, 14:12:15](https://lobste.rs/s/rz8thl/using_prolog_as_ast) - [Using Prolog as the AST](https://marcellerusu.com/using_prolog_as_the_ast.html)
 
 ## [Archives](archives/index.md)
