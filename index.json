@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-14, 10:12:33",
+      "https://lobste.rs/s/fdaarz/how_does_kernel_memory_allocation_work"
+    ],
+    [
+      "How does KERNEL memory allocation work?",
+      "https://www.youtube.com/watch?v=NC_qkXznvkg"
+    ]
+  ],
+  [
+    [
       "2023-10-14, 07:54:03",
       "https://lobste.rs/s/pvgvnu/analysis_wild_ios_safari_webcontent_gpu"
     ],
@@ -187,16 +197,6 @@
     [
       "Making Rust supply chain attacks harder with Cackle",
       "https://davidlattimore.github.io/making-supply-chain-attacks-harder.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-13, 02:44:00",
-      "https://lobste.rs/s/aojohz/gerbil_v0_18_released"
-    ],
-    [
-      "Gerbil v0.18 Released",
-      "https://github.com/mighty-gerbils/gerbil/releases/tag/v0.18"
     ]
   ],
   [
