@@ -12,10 +12,10 @@
   [
     [
       "2023-10-14, 20:21:47",
-      "https://lobste.rs/s/waeii9/chris_s_wiki_blog_unix"
+      "https://lobste.rs/s/waeii9/openbsd_pf_based_firewalls_suffer"
     ],
     [
-      "Chris's Wiki :: blog/unix/OpenBSDPfStatesAndDoS",
+      "OpenBSD PF-based firewalls suffer differently from denial of service attacks",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/OpenBSDPfStatesAndDoS"
     ]
   ],
