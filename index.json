@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-14, 07:27:21",
+      "https://lobste.rs/s/imwv7j/constexpr_std_string_update"
+    ],
+    [
+      "constexpr std::string update",
+      "https://quuxplusone.github.io/blog/2023/10/13/constexpr-string-round-2/"
+    ]
+  ],
+  [
+    [
       "2023-10-14, 03:44:10",
       "https://lobste.rs/s/jdnmkv/multi_modal_prompt_injection_image"
     ],
@@ -237,16 +247,6 @@
     [
       "Using Prolog as the AST",
       "https://marcellerusu.com/using_prolog_as_the_ast.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-12, 12:42:05",
-      "https://lobste.rs/s/fubpta/learn_use_email_with_git"
-    ],
-    [
-      "Learn to use email with git",
-      "https://git-send-email.io/"
     ]
   ]
 ]
