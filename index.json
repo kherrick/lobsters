@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-14, 20:27:54",
+      "https://lobste.rs/s/em4aic/examining_silicon_dies_intel_386"
+    ],
+    [
+      "Examining the silicon dies of the Intel 386 processor",
+      "http://www.righto.com/2023/10/intel-386-die-versions.html"
+    ]
+  ],
+  [
+    [
       "2023-10-14, 20:21:47",
       "https://lobste.rs/s/waeii9/chris_s_wiki_blog_unix"
     ],
@@ -137,16 +147,6 @@
     [
       "OpenZFS 2.2.0 released",
       "https://github.com/openzfs/zfs/releases/tag/zfs-2.2.0"
-    ]
-  ],
-  [
-    [
-      "2023-10-13, 19:07:57",
-      "https://lobste.rs/s/qwlpxu/machine_mirage_silicon_whisper"
-    ],
-    [
-      "Machine Mirage in a Silicon Whisper",
-      "https://kfv.io/blog/hello-world"
     ]
   ],
   [
