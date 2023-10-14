@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-14](index.md)
 
+* [2023-10-14, 18:18:34](https://lobste.rs/s/c6x9ds/bird_eye_view_visualization_llm) - [Bird-eye view visualization of LLM activations](https://grgv.xyz/blog/llama/)
 * [2023-10-14, 15:39:00](https://lobste.rs/s/385e2w/learn_wayland_by_writing_gui_from_scratch) - [Learn Wayland by writing a GUI from scratch](https://gaultier.github.io/blog/wayland_from_scratch.html)
 * [2023-10-14, 15:35:49](https://lobste.rs/s/vteerb/cordoku_multiplayer_sudoku) - [Cordoku - multiplayer sudoku](https://cordoku.vercel.app)
 * [2023-10-14, 15:35:18](https://lobste.rs/s/xmpjvk/freebsd_14_0_rc1_now_available) - [FreeBSD 14.0-RC1 Now Available](https://lists.freebsd.org/archives/freebsd-stable/2023-October/001547.html)

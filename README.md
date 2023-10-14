@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-14, 18:18:34](https://lobste.rs/s/c6x9ds/bird_eye_view_visualization_llm) - [Bird-eye view visualization of LLM activations](https://grgv.xyz/blog/llama/)
 * [2023-10-14, 15:39:00](https://lobste.rs/s/385e2w/learn_wayland_by_writing_gui_from_scratch) - [Learn Wayland by writing a GUI from scratch](https://gaultier.github.io/blog/wayland_from_scratch.html)
 * [2023-10-14, 15:35:49](https://lobste.rs/s/vteerb/cordoku_multiplayer_sudoku) - [Cordoku - multiplayer sudoku](https://cordoku.vercel.app)
 * [2023-10-14, 15:35:18](https://lobste.rs/s/xmpjvk/freebsd_14_0_rc1_now_available) - [FreeBSD 14.0-RC1 Now Available](https://lists.freebsd.org/archives/freebsd-stable/2023-October/001547.html)
@@ -11,7 +12,6 @@
 * [2023-10-13, 23:26:29](https://lobste.rs/s/jy7cud/apple_video_decoder_notes_week_1_3) - [Apple Video Decoder Notes, Week 1-3](https://eiln.net/avd-notes.html)
 * [2023-10-13, 20:41:12](https://lobste.rs/s/raa0cr/openzfs_2_2_0_released) - [OpenZFS 2.2.0 released](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.0)
 * [2023-10-13, 19:07:57](https://lobste.rs/s/qwlpxu/machine_mirage_silicon_whisper) - [Machine Mirage in a Silicon Whisper](https://kfv.io/blog/hello-world)
-* [2023-10-13, 18:40:08](https://lobste.rs/s/jcpuxw/weiler_atherton_polygon_clipping) - [The Weiler-Atherton polygon clipping algorithm](https://liorsinai.github.io/mathematics/2023/09/30/polygon-clipping.html)
 * [2023-10-13, 18:32:43](https://lobste.rs/s/qfkubw/hpy_0_9_0_fourth_public_release) - [hpy 0.9.0: Fourth public release](https://hpyproject.org/blog/posts/2023/10/hpy-0.9.0-fourth-public-release/)
 * [2023-10-13, 17:37:52](https://lobste.rs/s/l4em19/cursorless_spoken_language_for_editing) - [Cursorless: A spoken language for editing code](https://www.youtube.com/watch?v=NcUJnmBqHTY)
 * [2023-10-13, 16:53:27](https://lobste.rs/s/urakto/conical_slicing_different_angle_3d) - [Conical Slicing: A different angle of 3D printing](https://www.cnckitchen.com/blog/conical-slicing-a-different-angle-of-3d-printing)
