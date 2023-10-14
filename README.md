@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-14, 19:14:33](https://lobste.rs/s/fuorft/compile_times_code_graphs) - [Compile Times and Code Graphs](https://blog.danhhz.com/compile-times-and-code-graphs)
 * [2023-10-14, 18:18:34](https://lobste.rs/s/c6x9ds/bird_eye_view_visualization_llm) - [Bird-eye view visualization of LLM activations](https://grgv.xyz/blog/llama/)
 * [2023-10-14, 15:39:00](https://lobste.rs/s/385e2w/learn_wayland_by_writing_gui_from_scratch) - [Learn Wayland by writing a GUI from scratch](https://gaultier.github.io/blog/wayland_from_scratch.html)
 * [2023-10-14, 15:35:49](https://lobste.rs/s/vteerb/cordoku_multiplayer_sudoku) - [Cordoku - multiplayer sudoku](https://cordoku.vercel.app)
@@ -24,7 +25,6 @@
 * [2023-10-13, 00:36:40](https://lobste.rs/s/urvuy6/lsp_could_have_been_better) - [LSP could have been better](https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html)
 * [2023-10-12, 19:56:15](https://lobste.rs/s/fauwpt/okay_fine_i_m_using_static_site_generator) - [Okay, fine, I'm using a static site generator now](https://xeiaso.net/blog/xesite-v4/)
 * [2023-10-12, 17:21:52](https://lobste.rs/s/soz0c1/how_download_install_linux) - [How to download and install Linux](https://learn.microsoft.com/en-us/linux/install)
-* [2023-10-12, 14:12:15](https://lobste.rs/s/rz8thl/using_prolog_as_ast) - [Using Prolog as the AST](https://marcellerusu.com/using_prolog_as_the_ast.html)
 
 ## [Archives](archives/index.md)
 

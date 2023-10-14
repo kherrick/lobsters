@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-14](index.md)
 
+* [2023-10-14, 19:14:33](https://lobste.rs/s/fuorft/compile_times_code_graphs) - [Compile Times and Code Graphs](https://blog.danhhz.com/compile-times-and-code-graphs)
 * [2023-10-14, 18:18:34](https://lobste.rs/s/c6x9ds/bird_eye_view_visualization_llm) - [Bird-eye view visualization of LLM activations](https://grgv.xyz/blog/llama/)
 * [2023-10-14, 15:39:00](https://lobste.rs/s/385e2w/learn_wayland_by_writing_gui_from_scratch) - [Learn Wayland by writing a GUI from scratch](https://gaultier.github.io/blog/wayland_from_scratch.html)
 * [2023-10-14, 15:35:49](https://lobste.rs/s/vteerb/cordoku_multiplayer_sudoku) - [Cordoku - multiplayer sudoku](https://cordoku.vercel.app)
