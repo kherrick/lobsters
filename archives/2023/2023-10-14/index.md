@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-14](index.md)
 
+* [2023-10-14, 20:59:29](https://lobste.rs/s/rmhnw9/we_were_wrong_about_gpls) - [We Were Wrong About the GPLs](https://writing.kemitchell.com/2023/10/13/Wrong-About-GPLs)
 * [2023-10-14, 20:27:54](https://lobste.rs/s/em4aic/examining_silicon_dies_intel_386) - [Examining the silicon dies of the Intel 386 processor](http://www.righto.com/2023/10/intel-386-die-versions.html)
 * [2023-10-14, 20:21:47](https://lobste.rs/s/waeii9/openbsd_pf_based_firewalls_suffer) - [OpenBSD PF-based firewalls suffer differently from denial of service attacks](https://utcc.utoronto.ca/~cks/space/blog/unix/OpenBSDPfStatesAndDoS)
 * [2023-10-14, 20:21:47](https://lobste.rs/s/waeii9/chris_s_wiki_blog_unix) - [Chris's Wiki :: blog/unix/OpenBSDPfStatesAndDoS](https://utcc.utoronto.ca/~cks/space/blog/unix/OpenBSDPfStatesAndDoS)
