@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-14, 10:27:25](https://lobste.rs/s/6lornw/knotifications_on_android_13) - [KNotifications on Android 13](https://www.volkerkrause.eu/2023/10/14/kde-knotification-android-13.html)
 * [2023-10-14, 10:12:33](https://lobste.rs/s/fdaarz/how_does_kernel_memory_allocation_work) - [How does KERNEL memory allocation work?](https://www.youtube.com/watch?v=NC_qkXznvkg)
 * [2023-10-14, 07:54:03](https://lobste.rs/s/pvgvnu/analysis_wild_ios_safari_webcontent_gpu) - [An analysis of an in-the-wild iOS Safari WebContent to GPU Process exploit](https://googleprojectzero.blogspot.com/2023/10/an-analysis-of-an-in-the-wild-ios-safari-sandbox-escape.html?m=1)
 * [2023-10-14, 07:27:21](https://lobste.rs/s/imwv7j/constexpr_std_string_update) - [constexpr std::string update](https://quuxplusone.github.io/blog/2023/10/13/constexpr-string-round-2/)
@@ -23,7 +24,6 @@
 * [2023-10-13, 00:36:40](https://lobste.rs/s/urvuy6/lsp_could_have_been_better) - [LSP could have been better](https://matklad.github.io/2023/10/12/lsp-could-have-been-better.html)
 * [2023-10-12, 19:56:15](https://lobste.rs/s/fauwpt/okay_fine_i_m_using_static_site_generator) - [Okay, fine, I'm using a static site generator now](https://xeiaso.net/blog/xesite-v4/)
 * [2023-10-12, 17:21:52](https://lobste.rs/s/soz0c1/how_download_install_linux) - [How to download and install Linux](https://learn.microsoft.com/en-us/linux/install)
-* [2023-10-12, 16:17:29](https://lobste.rs/s/mhtyyj/can_t_be_f_cked_underrated_cause_tech_debt) - [Can't Be F*cked: Underrated Cause of Tech Debt](https://jesseduffield.com/Can%27t-Be-Fcked/)
 * [2023-10-12, 14:12:15](https://lobste.rs/s/rz8thl/using_prolog_as_ast) - [Using Prolog as the AST](https://marcellerusu.com/using_prolog_as_the_ast.html)
 
 ## [Archives](archives/index.md)
