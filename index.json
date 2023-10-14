@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-14, 07:54:03",
+      "https://lobste.rs/s/pvgvnu/analysis_wild_ios_safari_webcontent_gpu"
+    ],
+    [
+      "An analysis of an in-the-wild iOS Safari WebContent to GPU Process exploit",
+      "https://googleprojectzero.blogspot.com/2023/10/an-analysis-of-an-in-the-wild-ios-safari-sandbox-escape.html?m=1"
+    ]
+  ],
+  [
+    [
       "2023-10-14, 07:27:21",
       "https://lobste.rs/s/imwv7j/constexpr_std_string_update"
     ],
@@ -207,16 +217,6 @@
     [
       "Okay, fine, I'm using a static site generator now",
       "https://xeiaso.net/blog/xesite-v4/"
-    ]
-  ],
-  [
-    [
-      "2023-10-12, 17:50:21",
-      "https://lobste.rs/s/vqoftd/first_word_discovered_unopened"
-    ],
-    [
-      "First word discovered in unopened Herculaneum scroll by 21yo computer science student",
-      "https://scrollprize.org/firstletters"
     ]
   ],
   [
