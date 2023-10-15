@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-15, 21:34:19](https://lobste.rs/s/6gvzbe/introducing_possum_open_source_retail) - [Introducing POSSUM, An Open Source Retail Peripheral Platform for All](https://tech.target.com/blog/introducing-POSSUM)
 * [2023-10-15, 18:22:55](https://lobste.rs/s/30lj3m/background_job_queues_priorities_may_be) - [Background job queues and priorities may be the wrong path](https://alexis.bernard.io/blog/2023-10-15-background-job-queues-and-priorities-may-be-the-wrong-path.html)
 * [2023-10-15, 17:30:01](https://lobste.rs/s/6fjkeh/why_async_rust) - [Why async Rust?](https://without.boats/blog/why-async-rust/)
 * [2023-10-15, 16:55:41](https://lobste.rs/s/usoabz/trying_out_c_20_s_modules_with_clang_make) - [Trying out C++20's modules with Clang and Make](https://0x1.pt/2023/10/15/trying-out-c++20s-modules-with-clang-and-make/)
@@ -22,7 +23,6 @@
 * [2023-10-14, 07:27:21](https://lobste.rs/s/imwv7j/constexpr_std_string_update) - [constexpr std::string update](https://quuxplusone.github.io/blog/2023/10/13/constexpr-string-round-2/)
 * [2023-10-14, 03:44:10](https://lobste.rs/s/jdnmkv/multi_modal_prompt_injection_image) - [Multi-modal prompt injection image attacks against GPT-4V](https://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/)
 * [2023-10-13, 20:41:12](https://lobste.rs/s/raa0cr/openzfs_2_2_0_released) - [OpenZFS 2.2.0 released](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.0)
-* [2023-10-13, 17:37:52](https://lobste.rs/s/l4em19/cursorless_spoken_language_for_editing) - [Cursorless: A spoken language for editing code](https://www.youtube.com/watch?v=NcUJnmBqHTY)
 * [2023-10-13, 15:25:13](https://lobste.rs/s/fhyvyr/scrollbars_are_becoming_problem) - [Scrollbars are becoming a problem](https://artemis.sh/2023/10/12/scrollbars.html)
 * [2023-10-13, 09:53:26](https://lobste.rs/s/lfbi7z/organizing_multiple_git_identities) - [Organizing multiple Git identities](https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities)
 
