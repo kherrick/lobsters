@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-15](index.md)
 
+* [2023-10-15, 16:55:41](https://lobste.rs/s/usoabz/trying_out_c_20_s_modules_with_clang_make) - [Trying out C++20's modules with Clang and Make](https://0x1.pt/2023/10/15/trying-out-c++20s-modules-with-clang-and-make/)
 * [2023-10-15, 15:09:45](https://lobste.rs/s/a7hvcs/qnx_demo_disk_extending_possibilities) - [QNX DEMO disk:  Extending possibilities and adding undocumented features](http://qnx.puslapiai.lt/qnxdemo/qnx_demo_disk.htm)
 * [2023-10-15, 15:00:16](https://lobste.rs/s/dhyhkr/distribution_release_window_maker_live_0) - [Distribution Release: Window Maker Live 0.96](https://distrowatch.com/index-mobile.php?newsid=11963)
 * [2023-10-15, 14:57:58](https://lobste.rs/s/ouefrk/eurorust_2023_reflections_what_s) - [EuroRust 2023 Reflections: What's a Conference For?](https://lucumr.pocoo.org/2023/10/14/eurorust-whats-a-conference/)

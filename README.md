@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-15, 16:55:41](https://lobste.rs/s/usoabz/trying_out_c_20_s_modules_with_clang_make) - [Trying out C++20's modules with Clang and Make](https://0x1.pt/2023/10/15/trying-out-c++20s-modules-with-clang-and-make/)
 * [2023-10-15, 15:09:45](https://lobste.rs/s/a7hvcs/qnx_demo_disk_extending_possibilities) - [QNX DEMO disk:  Extending possibilities and adding undocumented features](http://qnx.puslapiai.lt/qnxdemo/qnx_demo_disk.htm)
 * [2023-10-15, 15:00:16](https://lobste.rs/s/dhyhkr/distribution_release_window_maker_live_0) - [Distribution Release: Window Maker Live 0.96](https://distrowatch.com/index-mobile.php?newsid=11963)
 * [2023-10-15, 14:57:58](https://lobste.rs/s/ouefrk/eurorust_2023_reflections_what_s) - [EuroRust 2023 Reflections: What's a Conference For?](https://lucumr.pocoo.org/2023/10/14/eurorust-whats-a-conference/)
@@ -18,7 +19,6 @@
 * [2023-10-14, 07:54:03](https://lobste.rs/s/pvgvnu/analysis_wild_ios_safari_webcontent_gpu) - [An analysis of an in-the-wild iOS Safari WebContent to GPU Process exploit](https://googleprojectzero.blogspot.com/2023/10/an-analysis-of-an-in-the-wild-ios-safari-sandbox-escape.html?m=1)
 * [2023-10-14, 07:27:21](https://lobste.rs/s/imwv7j/constexpr_std_string_update) - [constexpr std::string update](https://quuxplusone.github.io/blog/2023/10/13/constexpr-string-round-2/)
 * [2023-10-14, 03:44:10](https://lobste.rs/s/jdnmkv/multi_modal_prompt_injection_image) - [Multi-modal prompt injection image attacks against GPT-4V](https://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/)
-* [2023-10-13, 23:26:29](https://lobste.rs/s/jy7cud/apple_video_decoder_notes_week_1_3) - [Apple Video Decoder Notes, Week 1-3](https://eiln.net/avd-notes.html)
 * [2023-10-13, 20:41:12](https://lobste.rs/s/raa0cr/openzfs_2_2_0_released) - [OpenZFS 2.2.0 released](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.0)
 * [2023-10-13, 17:37:52](https://lobste.rs/s/l4em19/cursorless_spoken_language_for_editing) - [Cursorless: A spoken language for editing code](https://www.youtube.com/watch?v=NcUJnmBqHTY)
 * [2023-10-13, 16:53:27](https://lobste.rs/s/urakto/conical_slicing_different_angle_3d) - [Conical Slicing: A different angle of 3D printing](https://www.cnckitchen.com/blog/conical-slicing-a-different-angle-of-3d-printing)
