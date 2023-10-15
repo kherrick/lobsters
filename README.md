@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-15, 10:39:11](https://lobste.rs/s/y4tzhq/testing_system_updates_using_libvirts) - [Testing system updates using libvirts checkpoint feature](https://abbbi.github.io/changes/)
+* [2023-10-15, 10:35:57](https://lobste.rs/s/mfnd5g/strategies_for_deploying_things_on_nixos) - [Strategies for deploying things on NixOS](https://asylum.madhouse-project.org/blog/2023/10/15/strategies-for-deploying-things-on-nixos/)
 * [2023-10-15, 09:40:52](https://lobste.rs/s/bvzyrd/two_stop_bits) - [Two Stop Bits](https://twostopbits.com/news)
 * [2023-10-15, 01:31:21](https://lobste.rs/s/hzse9f/teaching_apple_cyberdog_1_0_new_tricks) - [Teaching Apple Cyberdog 1.0 new tricks (featuring OpenDoc)](https://oldvcr.blogspot.com/2023/10/teaching-apple-cyberdog-10-new-tricks.html)
 * [2023-10-14, 20:59:29](https://lobste.rs/s/rmhnw9/we_were_wrong_about_gpls) - [We Were Wrong About the GPLs](https://writing.kemitchell.com/2023/10/13/Wrong-About-GPLs)
@@ -16,13 +18,11 @@
 * [2023-10-14, 03:44:10](https://lobste.rs/s/jdnmkv/multi_modal_prompt_injection_image) - [Multi-modal prompt injection image attacks against GPT-4V](https://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/)
 * [2023-10-13, 23:26:29](https://lobste.rs/s/jy7cud/apple_video_decoder_notes_week_1_3) - [Apple Video Decoder Notes, Week 1-3](https://eiln.net/avd-notes.html)
 * [2023-10-13, 20:41:12](https://lobste.rs/s/raa0cr/openzfs_2_2_0_released) - [OpenZFS 2.2.0 released](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.0)
-* [2023-10-13, 18:32:43](https://lobste.rs/s/qfkubw/hpy_0_9_0_fourth_public_release) - [hpy 0.9.0: Fourth public release](https://hpyproject.org/blog/posts/2023/10/hpy-0.9.0-fourth-public-release/)
 * [2023-10-13, 17:37:52](https://lobste.rs/s/l4em19/cursorless_spoken_language_for_editing) - [Cursorless: A spoken language for editing code](https://www.youtube.com/watch?v=NcUJnmBqHTY)
 * [2023-10-13, 16:53:27](https://lobste.rs/s/urakto/conical_slicing_different_angle_3d) - [Conical Slicing: A different angle of 3D printing](https://www.cnckitchen.com/blog/conical-slicing-a-different-angle-of-3d-printing)
 * [2023-10-13, 15:25:13](https://lobste.rs/s/fhyvyr/scrollbars_are_becoming_problem) - [Scrollbars are becoming a problem](https://artemis.sh/2023/10/12/scrollbars.html)
 * [2023-10-13, 14:07:53](https://lobste.rs/s/dillky/why_software_ends_up_complex_2020) - [Why software ends up complex (2020)](https://alexgaynor.net/2020/nov/30/why-software-ends-up-complex/)
 * [2023-10-13, 13:45:17](https://lobste.rs/s/knaxru/zero_alloc_pathfinding_go) - [Zero alloc pathfinding in Go](https://quasilyte.dev/blog/post/pathfinding/)
-* [2023-10-13, 11:50:37](https://lobste.rs/s/ybirlx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ybirlx/what_are_you_doing_this_weekend)
 * [2023-10-13, 09:53:26](https://lobste.rs/s/lfbi7z/organizing_multiple_git_identities) - [Organizing multiple Git identities](https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities)
 * [2023-10-12, 19:56:15](https://lobste.rs/s/fauwpt/okay_fine_i_m_using_static_site_generator) - [Okay, fine, I'm using a static site generator now](https://xeiaso.net/blog/xesite-v4/)
 
