@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-10-15, 15:09:45",
+      "https://lobste.rs/s/a7hvcs/qnx_demo_disk_extending_possibilities"
+    ],
+    [
+      "QNX DEMO disk:  Extending possibilities and adding undocumented features",
+      "http://qnx.puslapiai.lt/qnxdemo/qnx_demo_disk.htm"
+    ]
+  ],
+  [
+    [
+      "2023-10-15, 15:00:16",
+      "https://lobste.rs/s/dhyhkr/distribution_release_window_maker_live_0"
+    ],
+    [
+      "Distribution Release: Window Maker Live 0.96",
+      "https://distrowatch.com/index-mobile.php?newsid=11963"
+    ]
+  ],
+  [
+    [
+      "2023-10-15, 14:57:58",
+      "https://lobste.rs/s/ouefrk/eurorust_2023_reflections_what_s"
+    ],
+    [
+      "EuroRust 2023 Reflections: What's a Conference For?",
+      "https://lucumr.pocoo.org/2023/10/14/eurorust-whats-a-conference/"
+    ]
+  ],
+  [
+    [
       "2023-10-15, 10:39:11",
       "https://lobste.rs/s/y4tzhq/testing_system_updates_using_libvirts"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2023-10-14, 10:12:33",
-      "https://lobste.rs/s/fdaarz/how_does_kernel_memory_allocation_work"
-    ],
-    [
-      "How does KERNEL memory allocation work?",
-      "https://www.youtube.com/watch?v=NC_qkXznvkg"
-    ]
-  ],
-  [
-    [
       "2023-10-14, 07:54:03",
       "https://lobste.rs/s/pvgvnu/analysis_wild_ios_safari_webcontent_gpu"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-10-13, 14:07:53",
-      "https://lobste.rs/s/dillky/why_software_ends_up_complex_2020"
-    ],
-    [
-      "Why software ends up complex (2020)",
-      "https://alexgaynor.net/2020/nov/30/why-software-ends-up-complex/"
-    ]
-  ],
-  [
-    [
       "2023-10-13, 13:45:17",
       "https://lobste.rs/s/knaxru/zero_alloc_pathfinding_go"
     ],
@@ -237,16 +247,6 @@
     [
       "Organizing multiple Git identities",
       "https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities"
-    ]
-  ],
-  [
-    [
-      "2023-10-12, 19:56:15",
-      "https://lobste.rs/s/fauwpt/okay_fine_i_m_using_static_site_generator"
-    ],
-    [
-      "Okay, fine, I'm using a static site generator now",
-      "https://xeiaso.net/blog/xesite-v4/"
     ]
   ]
 ]
