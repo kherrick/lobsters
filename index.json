@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-15, 10:39:11",
+      "https://lobste.rs/s/y4tzhq/testing_system_updates_using_libvirts"
+    ],
+    [
+      "Testing system updates using libvirts checkpoint feature",
+      "https://abbbi.github.io/changes/"
+    ]
+  ],
+  [
+    [
+      "2023-10-15, 10:35:57",
+      "https://lobste.rs/s/mfnd5g/strategies_for_deploying_things_on_nixos"
+    ],
+    [
+      "Strategies for deploying things on NixOS",
+      "https://asylum.madhouse-project.org/blog/2023/10/15/strategies-for-deploying-things-on-nixos/"
+    ]
+  ],
+  [
+    [
       "2023-10-15, 09:40:52",
       "https://lobste.rs/s/bvzyrd/two_stop_bits"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-10-13, 18:32:43",
-      "https://lobste.rs/s/qfkubw/hpy_0_9_0_fourth_public_release"
-    ],
-    [
-      "hpy 0.9.0: Fourth public release",
-      "https://hpyproject.org/blog/posts/2023/10/hpy-0.9.0-fourth-public-release/"
-    ]
-  ],
-  [
-    [
       "2023-10-13, 17:37:52",
       "https://lobste.rs/s/l4em19/cursorless_spoken_language_for_editing"
     ],
@@ -217,16 +227,6 @@
     [
       "Zero alloc pathfinding in Go",
       "https://quasilyte.dev/blog/post/pathfinding/"
-    ]
-  ],
-  [
-    [
-      "2023-10-13, 11:50:37",
-      "https://lobste.rs/s/ybirlx/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/ybirlx/what_are_you_doing_this_weekend"
     ]
   ],
   [
