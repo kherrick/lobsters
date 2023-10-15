@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-15, 15:09:45](https://lobste.rs/s/a7hvcs/qnx_demo_disk_extending_possibilities) - [QNX DEMO disk:  Extending possibilities and adding undocumented features](http://qnx.puslapiai.lt/qnxdemo/qnx_demo_disk.htm)
+* [2023-10-15, 15:00:16](https://lobste.rs/s/dhyhkr/distribution_release_window_maker_live_0) - [Distribution Release: Window Maker Live 0.96](https://distrowatch.com/index-mobile.php?newsid=11963)
+* [2023-10-15, 14:57:58](https://lobste.rs/s/ouefrk/eurorust_2023_reflections_what_s) - [EuroRust 2023 Reflections: What's a Conference For?](https://lucumr.pocoo.org/2023/10/14/eurorust-whats-a-conference/)
 * [2023-10-15, 10:39:11](https://lobste.rs/s/y4tzhq/testing_system_updates_using_libvirts) - [Testing system updates using libvirts checkpoint feature](https://abbbi.github.io/changes/)
 * [2023-10-15, 10:35:57](https://lobste.rs/s/mfnd5g/strategies_for_deploying_things_on_nixos) - [Strategies for deploying things on NixOS](https://asylum.madhouse-project.org/blog/2023/10/15/strategies-for-deploying-things-on-nixos/)
 * [2023-10-15, 09:40:52](https://lobste.rs/s/bvzyrd/two_stop_bits) - [Two Stop Bits](https://twostopbits.com/news)
@@ -12,7 +15,6 @@
 * [2023-10-14, 15:39:00](https://lobste.rs/s/385e2w/learn_wayland_by_writing_gui_from_scratch) - [Learn Wayland by writing a GUI from scratch](https://gaultier.github.io/blog/wayland_from_scratch.html)
 * [2023-10-14, 15:35:49](https://lobste.rs/s/vteerb/cordoku_multiplayer_sudoku) - [Cordoku - multiplayer sudoku](https://cordoku.vercel.app)
 * [2023-10-14, 15:35:18](https://lobste.rs/s/xmpjvk/freebsd_14_0_rc1_now_available) - [FreeBSD 14.0-RC1 Now Available](https://lists.freebsd.org/archives/freebsd-stable/2023-October/001547.html)
-* [2023-10-14, 10:12:33](https://lobste.rs/s/fdaarz/how_does_kernel_memory_allocation_work) - [How does KERNEL memory allocation work?](https://www.youtube.com/watch?v=NC_qkXznvkg)
 * [2023-10-14, 07:54:03](https://lobste.rs/s/pvgvnu/analysis_wild_ios_safari_webcontent_gpu) - [An analysis of an in-the-wild iOS Safari WebContent to GPU Process exploit](https://googleprojectzero.blogspot.com/2023/10/an-analysis-of-an-in-the-wild-ios-safari-sandbox-escape.html?m=1)
 * [2023-10-14, 07:27:21](https://lobste.rs/s/imwv7j/constexpr_std_string_update) - [constexpr std::string update](https://quuxplusone.github.io/blog/2023/10/13/constexpr-string-round-2/)
 * [2023-10-14, 03:44:10](https://lobste.rs/s/jdnmkv/multi_modal_prompt_injection_image) - [Multi-modal prompt injection image attacks against GPT-4V](https://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/)
@@ -21,10 +23,8 @@
 * [2023-10-13, 17:37:52](https://lobste.rs/s/l4em19/cursorless_spoken_language_for_editing) - [Cursorless: A spoken language for editing code](https://www.youtube.com/watch?v=NcUJnmBqHTY)
 * [2023-10-13, 16:53:27](https://lobste.rs/s/urakto/conical_slicing_different_angle_3d) - [Conical Slicing: A different angle of 3D printing](https://www.cnckitchen.com/blog/conical-slicing-a-different-angle-of-3d-printing)
 * [2023-10-13, 15:25:13](https://lobste.rs/s/fhyvyr/scrollbars_are_becoming_problem) - [Scrollbars are becoming a problem](https://artemis.sh/2023/10/12/scrollbars.html)
-* [2023-10-13, 14:07:53](https://lobste.rs/s/dillky/why_software_ends_up_complex_2020) - [Why software ends up complex (2020)](https://alexgaynor.net/2020/nov/30/why-software-ends-up-complex/)
 * [2023-10-13, 13:45:17](https://lobste.rs/s/knaxru/zero_alloc_pathfinding_go) - [Zero alloc pathfinding in Go](https://quasilyte.dev/blog/post/pathfinding/)
 * [2023-10-13, 09:53:26](https://lobste.rs/s/lfbi7z/organizing_multiple_git_identities) - [Organizing multiple Git identities](https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities)
-* [2023-10-12, 19:56:15](https://lobste.rs/s/fauwpt/okay_fine_i_m_using_static_site_generator) - [Okay, fine, I'm using a static site generator now](https://xeiaso.net/blog/xesite-v4/)
 
 ## [Archives](archives/index.md)
 
