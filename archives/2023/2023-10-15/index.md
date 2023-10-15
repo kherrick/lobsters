@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-15](index.md)
 
+* [2023-10-15, 23:48:52](https://lobste.rs/s/ofcoyr/real_time_presence_platform) - [Real Time Presence Platform](https://systemdesign.one/real-time-presence-platform-system-design/)
 * [2023-10-15, 21:34:19](https://lobste.rs/s/6gvzbe/introducing_possum_open_source_retail) - [Introducing POSSUM, An Open Source Retail Peripheral Platform for All](https://tech.target.com/blog/introducing-POSSUM)
 * [2023-10-15, 18:22:55](https://lobste.rs/s/30lj3m/background_job_queues_priorities_may_be) - [Background job queues and priorities may be the wrong path](https://alexis.bernard.io/blog/2023-10-15-background-job-queues-and-priorities-may-be-the-wrong-path.html)
 * [2023-10-15, 17:30:01](https://lobste.rs/s/6fjkeh/why_async_rust) - [Why async Rust?](https://without.boats/blog/why-async-rust/)
