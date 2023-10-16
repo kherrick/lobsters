@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-16, 15:38:25](https://lobste.rs/s/f3pc46/pgbouncer_1_21_0_one_with_prepared) - [PgBouncer 1.21.0  -  \"The one with prepared statements\"](https://github.com/pgbouncer/pgbouncer/releases/tag/pgbouncer_1_21_0)
 * [2023-10-16, 15:08:57](https://lobste.rs/s/7co7g0/outer_loop_vectorization_simt_approach) - [Outer Loop Vectorization: A SIMT Approach](https://gitlab.com/samsartor/wasm2simt/-/blob/master/docs/paper/paper.pdf)
 * [2023-10-16, 14:06:47](https://lobste.rs/s/m0u8ej/api_design_principle_reading_property) - [API design principle: Reading a property or adding an event handler should not alter observable behavior](https://devblogs.microsoft.com/oldnewthing/20231016-00/?p=108895)
 * [2023-10-16, 13:52:03](https://lobste.rs/s/asr640/uniseg_unicode_text_segmentation_word) - [uniseg: Unicode Text Segmentation, Word Wrapping, and String Width Calculation in Go](https://github.com/rivo/uniseg)
@@ -20,7 +21,6 @@
 * [2023-10-15, 15:09:45](https://lobste.rs/s/a7hvcs/qnx_demo_disk_extending_possibilities) - [QNX DEMO disk:  Extending possibilities and adding undocumented features](http://qnx.puslapiai.lt/qnxdemo/qnx_demo_disk.htm)
 * [2023-10-15, 15:00:16](https://lobste.rs/s/dhyhkr/distribution_release_window_maker_live_0) - [Distribution Release: Window Maker Live 0.96](https://distrowatch.com/index-mobile.php?newsid=11963)
 * [2023-10-15, 14:57:58](https://lobste.rs/s/ouefrk/eurorust_2023_reflections_what_s) - [EuroRust 2023 Reflections: What's a Conference For?](https://lucumr.pocoo.org/2023/10/14/eurorust-whats-a-conference/)
-* [2023-10-15, 10:39:11](https://lobste.rs/s/y4tzhq/testing_system_updates_using_libvirts) - [Testing system updates using libvirts checkpoint feature](https://abbbi.github.io/changes/)
 * [2023-10-15, 10:35:57](https://lobste.rs/s/mfnd5g/strategies_for_deploying_things_on_nixos) - [Strategies for deploying things on NixOS](https://asylum.madhouse-project.org/blog/2023/10/15/strategies-for-deploying-things-on-nixos/)
 * [2023-10-15, 09:40:52](https://lobste.rs/s/bvzyrd/two_stop_bits) - [Two Stop Bits](https://twostopbits.com/news)
 * [2023-10-15, 01:31:21](https://lobste.rs/s/hzse9f/teaching_apple_cyberdog_1_0_new_tricks) - [Teaching Apple Cyberdog 1.0 new tricks (featuring OpenDoc)](https://oldvcr.blogspot.com/2023/10/teaching-apple-cyberdog-10-new-tricks.html)
