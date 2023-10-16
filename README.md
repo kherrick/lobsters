@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-16, 04:06:45](https://lobste.rs/s/ig7n6b/expressive_text_image_generation_with) - [Expressive Text-to-Image Generation with Rich Text](https://rich-text-to-image.github.io/)
+* [2023-10-16, 04:00:47](https://lobste.rs/s/enfimf/sum_types_postgres) - [Sum Types in Postgres](https://yrashk.com/blog/2023/04/09/sum-types-in-postgres/)
 * [2023-10-15, 23:48:52](https://lobste.rs/s/ofcoyr/real_time_presence_platform) - [Real Time Presence Platform](https://systemdesign.one/real-time-presence-platform-system-design/)
 * [2023-10-15, 21:34:19](https://lobste.rs/s/6gvzbe/introducing_possum_open_source_retail) - [Introducing POSSUM, An Open Source Retail Peripheral Platform for All](https://tech.target.com/blog/introducing-POSSUM)
 * [2023-10-15, 18:22:55](https://lobste.rs/s/30lj3m/background_job_queues_priorities_may_be) - [Background job queues and priorities may be the wrong path](https://alexis.bernard.io/blog/2023-10-15-background-job-queues-and-priorities-may-be-the-wrong-path.html)
@@ -20,10 +22,8 @@
 * [2023-10-14, 15:39:00](https://lobste.rs/s/385e2w/learn_wayland_by_writing_gui_from_scratch) - [Learn Wayland by writing a GUI from scratch](https://gaultier.github.io/blog/wayland_from_scratch.html)
 * [2023-10-14, 15:35:49](https://lobste.rs/s/vteerb/cordoku_multiplayer_sudoku) - [Cordoku - multiplayer sudoku](https://cordoku.vercel.app)
 * [2023-10-14, 15:35:18](https://lobste.rs/s/xmpjvk/freebsd_14_0_rc1_now_available) - [FreeBSD 14.0-RC1 Now Available](https://lists.freebsd.org/archives/freebsd-stable/2023-October/001547.html)
-* [2023-10-14, 07:27:21](https://lobste.rs/s/imwv7j/constexpr_std_string_update) - [constexpr std::string update](https://quuxplusone.github.io/blog/2023/10/13/constexpr-string-round-2/)
 * [2023-10-14, 03:44:10](https://lobste.rs/s/jdnmkv/multi_modal_prompt_injection_image) - [Multi-modal prompt injection image attacks against GPT-4V](https://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/)
 * [2023-10-13, 20:41:12](https://lobste.rs/s/raa0cr/openzfs_2_2_0_released) - [OpenZFS 2.2.0 released](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.0)
-* [2023-10-13, 15:25:13](https://lobste.rs/s/fhyvyr/scrollbars_are_becoming_problem) - [Scrollbars are becoming a problem](https://artemis.sh/2023/10/12/scrollbars.html)
 * [2023-10-13, 09:53:26](https://lobste.rs/s/lfbi7z/organizing_multiple_git_identities) - [Organizing multiple Git identities](https://garrit.xyz/posts/2023-10-13-organizing-multiple-git-identities)
 
 ## [Archives](archives/index.md)
