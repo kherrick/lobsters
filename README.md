@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-16, 12:58:47](https://lobste.rs/s/hkvrey/running_kubernetes_cluster_with_openbsd) - [Running Kubernetes Cluster with OpenBSD VMM](http://www.h-i-r.net/2023/02/running-kubernetes-cluster-with-openbsd.html)
+* [2023-10-16, 12:58:17](https://lobste.rs/s/hc0jvk/using_ansible_manage_freebsd_hosts) - [Using Ansible to Manage FreeBSD Hosts](https://www.youtube.com/watch?v=c-_H_yAlITQ)
 * [2023-10-16, 11:26:17](https://lobste.rs/s/ghahxn/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ghahxn/what_are_you_doing_this_week)
 * [2023-10-16, 11:24:21](https://lobste.rs/s/tsyeqw/state_ruby_http_clients_why_you_should_use) - [The state of ruby HTTP clients, or why you should use httpx](https://honeyryderchuck.gitlab.io/2023/10/15/state-of-ruby-http-clients-use-httpx.html)
 * [2023-10-16, 09:38:16](https://lobste.rs/s/lejpvm/douglas_crockford_keynote_from_here) - [Douglas Crockford to Keynote 'From Here to Lambda and Back Again' at RacketCon](https://lobste.rs/s/lejpvm/douglas_crockford_keynote_from_here)
@@ -23,8 +25,6 @@
 * [2023-10-14, 19:14:33](https://lobste.rs/s/fuorft/compile_times_code_graphs) - [Compile Times and Code Graphs](https://blog.danhhz.com/compile-times-and-code-graphs)
 * [2023-10-14, 18:18:34](https://lobste.rs/s/c6x9ds/bird_eye_view_visualization_llm) - [Bird-eye view visualization of LLM activations](https://grgv.xyz/blog/llama/)
 * [2023-10-14, 15:39:00](https://lobste.rs/s/385e2w/learn_wayland_by_writing_gui_from_scratch) - [Learn Wayland by writing a GUI from scratch](https://gaultier.github.io/blog/wayland_from_scratch.html)
-* [2023-10-14, 15:35:18](https://lobste.rs/s/xmpjvk/freebsd_14_0_rc1_now_available) - [FreeBSD 14.0-RC1 Now Available](https://lists.freebsd.org/archives/freebsd-stable/2023-October/001547.html)
-* [2023-10-14, 03:44:10](https://lobste.rs/s/jdnmkv/multi_modal_prompt_injection_image) - [Multi-modal prompt injection image attacks against GPT-4V](https://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/)
 
 ## [Archives](archives/index.md)
 
