@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-16, 12:58:47",
+      "https://lobste.rs/s/hkvrey/running_kubernetes_cluster_with_openbsd"
+    ],
+    [
+      "Running Kubernetes Cluster with OpenBSD VMM",
+      "http://www.h-i-r.net/2023/02/running-kubernetes-cluster-with-openbsd.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-16, 12:58:17",
+      "https://lobste.rs/s/hc0jvk/using_ansible_manage_freebsd_hosts"
+    ],
+    [
+      "Using Ansible to Manage FreeBSD Hosts",
+      "https://www.youtube.com/watch?v=c-_H_yAlITQ"
+    ]
+  ],
+  [
+    [
       "2023-10-16, 11:26:17",
       "https://lobste.rs/s/ghahxn/what_are_you_doing_this_week"
     ],
@@ -227,26 +247,6 @@
     [
       "Learn Wayland by writing a GUI from scratch",
       "https://gaultier.github.io/blog/wayland_from_scratch.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-14, 15:35:18",
-      "https://lobste.rs/s/xmpjvk/freebsd_14_0_rc1_now_available"
-    ],
-    [
-      "FreeBSD 14.0-RC1 Now Available",
-      "https://lists.freebsd.org/archives/freebsd-stable/2023-October/001547.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-14, 03:44:10",
-      "https://lobste.rs/s/jdnmkv/multi_modal_prompt_injection_image"
-    ],
-    [
-      "Multi-modal prompt injection image attacks against GPT-4V",
-      "https://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/"
     ]
   ]
 ]
