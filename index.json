@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-16, 04:06:45",
+      "https://lobste.rs/s/ig7n6b/expressive_text_image_generation_with"
+    ],
+    [
+      "Expressive Text-to-Image Generation with Rich Text",
+      "https://rich-text-to-image.github.io/"
+    ]
+  ],
+  [
+    [
+      "2023-10-16, 04:00:47",
+      "https://lobste.rs/s/enfimf/sum_types_postgres"
+    ],
+    [
+      "Sum Types in Postgres",
+      "https://yrashk.com/blog/2023/04/09/sum-types-in-postgres/"
+    ]
+  ],
+  [
+    [
       "2023-10-15, 23:48:52",
       "https://lobste.rs/s/ofcoyr/real_time_presence_platform"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-10-14, 07:27:21",
-      "https://lobste.rs/s/imwv7j/constexpr_std_string_update"
-    ],
-    [
-      "constexpr std::string update",
-      "https://quuxplusone.github.io/blog/2023/10/13/constexpr-string-round-2/"
-    ]
-  ],
-  [
-    [
       "2023-10-14, 03:44:10",
       "https://lobste.rs/s/jdnmkv/multi_modal_prompt_injection_image"
     ],
@@ -227,16 +237,6 @@
     [
       "OpenZFS 2.2.0 released",
       "https://github.com/openzfs/zfs/releases/tag/zfs-2.2.0"
-    ]
-  ],
-  [
-    [
-      "2023-10-13, 15:25:13",
-      "https://lobste.rs/s/fhyvyr/scrollbars_are_becoming_problem"
-    ],
-    [
-      "Scrollbars are becoming a problem",
-      "https://artemis.sh/2023/10/12/scrollbars.html"
     ]
   ],
   [
