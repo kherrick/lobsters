@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
+* [2023-10-16, 14:06:47](https://lobste.rs/s/m0u8ej/api_design_principle_reading_property) - [API design principle: Reading a property or adding an event handler should not alter observable behavior](https://devblogs.microsoft.com/oldnewthing/20231016-00/?p=108895)
 * [2023-10-16, 13:52:03](https://lobste.rs/s/asr640/uniseg_unicode_text_segmentation_word) - [uniseg: Unicode Text Segmentation, Word Wrapping, and String Width Calculation in Go](https://github.com/rivo/uniseg)
 * [2023-10-16, 13:42:30](https://lobste.rs/s/m4mzyx/better_http_server_routing_go_1_22) - [Better HTTP server routing in Go 1.22](https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/)
 * [2023-10-16, 13:19:24](https://lobste.rs/s/nxyygh/openbsd_7_4_released_oct_16_2023) - [OpenBSD 7.4 released -- Oct 16, 2023](https://marc.info/?l=openbsd-announce&m=169746103423179&w=2)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-16, 14:06:47](https://lobste.rs/s/m0u8ej/api_design_principle_reading_property) - [API design principle: Reading a property or adding an event handler should not alter observable behavior](https://devblogs.microsoft.com/oldnewthing/20231016-00/?p=108895)
 * [2023-10-16, 13:52:03](https://lobste.rs/s/asr640/uniseg_unicode_text_segmentation_word) - [uniseg: Unicode Text Segmentation, Word Wrapping, and String Width Calculation in Go](https://github.com/rivo/uniseg)
 * [2023-10-16, 13:42:30](https://lobste.rs/s/m4mzyx/better_http_server_routing_go_1_22) - [Better HTTP server routing in Go 1.22](https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/)
 * [2023-10-16, 13:19:24](https://lobste.rs/s/nxyygh/openbsd_7_4_released_oct_16_2023) - [OpenBSD 7.4 released -- Oct 16, 2023](https://marc.info/?l=openbsd-announce&m=169746103423179&w=2)
@@ -13,7 +14,6 @@
 * [2023-10-16, 04:06:45](https://lobste.rs/s/ig7n6b/expressive_text_image_generation_with) - [Expressive Text-to-Image Generation with Rich Text](https://rich-text-to-image.github.io/)
 * [2023-10-16, 04:00:47](https://lobste.rs/s/enfimf/sum_types_postgres) - [Sum Types in Postgres](https://yrashk.com/blog/2023/04/09/sum-types-in-postgres/)
 * [2023-10-15, 23:48:52](https://lobste.rs/s/ofcoyr/real_time_presence_platform) - [Real Time Presence Platform](https://systemdesign.one/real-time-presence-platform-system-design/)
-* [2023-10-15, 21:34:19](https://lobste.rs/s/6gvzbe/introducing_possum_open_source_retail) - [Introducing POSSUM, An Open Source Retail Peripheral Platform for All](https://tech.target.com/blog/introducing-POSSUM)
 * [2023-10-15, 18:22:55](https://lobste.rs/s/30lj3m/background_job_queues_priorities_may_be) - [Background job queues and priorities may be the wrong path](https://alexis.bernard.io/blog/2023-10-15-background-job-queues-and-priorities-may-be-the-wrong-path.html)
 * [2023-10-15, 17:30:01](https://lobste.rs/s/6fjkeh/why_async_rust) - [Why async Rust?](https://without.boats/blog/why-async-rust/)
 * [2023-10-15, 16:55:41](https://lobste.rs/s/usoabz/trying_out_c_20_s_modules_with_clang_make) - [Trying out C++20's modules with Clang and Make](https://0x1.pt/2023/10/15/trying-out-c++20s-modules-with-clang-and-make/)
