@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
+* [2023-10-16, 18:42:09](https://lobste.rs/s/2gucvh/websockets_shaping_real_time) - [WebSockets: Shaping Real-time Communication](https://medium.com/@atakanserbes/websockets-shaping-real-time-communication-a216f79f9ef4)
 * [2023-10-16, 16:52:31](https://lobste.rs/s/cwp7j0/advanced_fuzzing_unmasks_elusive) - [Advanced fuzzing unmasks elusive vulnerabilities](https://www.srlabs.de/blog-post/advanced-fuzzing-unmasks-elusive-vulnerabilities)
 * [2023-10-16, 16:44:28](https://lobste.rs/s/q4shkq/guile_hoot_v0_1_0_released) - [Guile Hoot v0.1.0 released](https://spritely.institute/news/guile-hoot-v010-released.html)
 * [2023-10-16, 16:10:09](https://lobste.rs/s/asadf6/benchmarking_postgres_replication) - [Benchmarking Postgres Replication: PeerDB vs Airbyte](https://blog.peerdb.io/benchmarking-postgres-replication-peerdb-vs-airbyte)
