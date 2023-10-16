@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-16, 23:27:19",
+      "https://lobste.rs/s/kfdrwh/object_oriented_pre_compiler_1983"
+    ],
+    [
+      "The object oriented pre-compiler (1983)",
+      "https://dl.acm.org/doi/pdf/10.1145/948093.948095"
+    ]
+  ],
+  [
+    [
       "2023-10-16, 22:21:32",
       "https://lobste.rs/s/xzgz0f/patcher_part_8_summary"
     ],
@@ -157,16 +167,6 @@
     [
       "Running Kubernetes Cluster with OpenBSD VMM",
       "http://www.h-i-r.net/2023/02/running-kubernetes-cluster-with-openbsd.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-16, 12:58:17",
-      "https://lobste.rs/s/hc0jvk/using_ansible_manage_freebsd_hosts"
-    ],
-    [
-      "Using Ansible to Manage FreeBSD Hosts",
-      "https://www.youtube.com/watch?v=c-_H_yAlITQ"
     ]
   ],
   [
