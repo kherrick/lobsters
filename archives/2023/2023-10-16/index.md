@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
+* [2023-10-16, 23:27:19](https://lobste.rs/s/kfdrwh/object_oriented_pre_compiler_1983) - [The object oriented pre-compiler (1983)](https://dl.acm.org/doi/pdf/10.1145/948093.948095)
 * [2023-10-16, 22:21:32](https://lobste.rs/s/xzgz0f/patcher_part_8_summary) - [Patcher Part 8 : Summary](http://cbloomrants.blogspot.com/2023/10/patcher-part-8-summary.html)
 * [2023-10-16, 21:59:21](https://lobste.rs/s/aax70v/measuring_smartphone_slow_mo) - [Measuring smartphone slow-mo](https://www.thregr.org/wavexx/rnd/20231015-measuring_smartphone_slowmo/)
 * [2023-10-16, 21:44:40](https://lobste.rs/s/mdicrw/turbo_morph_drive) - [Turbo Morph Drive](https://evilmartians.com/chronicles/the-future-of-full-stack-rails-turbo-morph-drive)
