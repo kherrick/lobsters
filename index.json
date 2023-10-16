@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2023-10-14, 07:54:03",
-      "https://lobste.rs/s/pvgvnu/analysis_wild_ios_safari_webcontent_gpu"
-    ],
-    [
-      "An analysis of an in-the-wild iOS Safari WebContent to GPU Process exploit",
-      "https://googleprojectzero.blogspot.com/2023/10/an-analysis-of-an-in-the-wild-ios-safari-sandbox-escape.html?m=1"
-    ]
-  ],
-  [
-    [
       "2023-10-14, 07:27:21",
       "https://lobste.rs/s/imwv7j/constexpr_std_string_update"
     ],
@@ -237,6 +227,16 @@
     [
       "OpenZFS 2.2.0 released",
       "https://github.com/openzfs/zfs/releases/tag/zfs-2.2.0"
+    ]
+  ],
+  [
+    [
+      "2023-10-13, 15:25:13",
+      "https://lobste.rs/s/fhyvyr/scrollbars_are_becoming_problem"
+    ],
+    [
+      "Scrollbars are becoming a problem",
+      "https://artemis.sh/2023/10/12/scrollbars.html"
     ]
   ],
   [
