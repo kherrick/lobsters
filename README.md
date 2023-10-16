@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-10-16, 11:26:17](https://lobste.rs/s/ghahxn/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ghahxn/what_are_you_doing_this_weekend)
+* [2023-10-16, 11:26:17](https://lobste.rs/s/ghahxn/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ghahxn/what_are_you_doing_this_week)
 * [2023-10-16, 11:24:21](https://lobste.rs/s/tsyeqw/state_ruby_http_clients_why_you_should_use) - [The state of ruby HTTP clients, or why you should use httpx](https://honeyryderchuck.gitlab.io/2023/10/15/state-of-ruby-http-clients-use-httpx.html)
 * [2023-10-16, 09:38:16](https://lobste.rs/s/lejpvm/douglas_crockford_keynote_from_here) - [Douglas Crockford to Keynote 'From Here to Lambda and Back Again' at RacketCon](https://lobste.rs/s/lejpvm/douglas_crockford_keynote_from_here)
 * [2023-10-16, 09:01:52](https://lobste.rs/s/sclzsr/wrapping_meshes_with_geodesic_walks) - [Wrapping Meshes With Geodesic Walks](https://cprimozic.net/blog/wrapping-meshes-with-geodesic-walks/)
