@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-16, 21:59:21](https://lobste.rs/s/aax70v/measuring_smartphone_slow_mo) - [Measuring smartphone slow-mo](https://www.thregr.org/wavexx/rnd/20231015-measuring_smartphone_slowmo/)
 * [2023-10-16, 21:44:40](https://lobste.rs/s/mdicrw/turbo_morph_drive) - [Turbo Morph Drive](https://evilmartians.com/chronicles/the-future-of-full-stack-rails-turbo-morph-drive)
 * [2023-10-16, 21:42:53](https://lobste.rs/s/3mwpfh/estimates_are_about_time_so_let_s_cut_chase) - [Estimates are about time, so let's cut to the chase](https://ntietz.com/blog/estimate-in-time/)
 * [2023-10-16, 18:42:09](https://lobste.rs/s/2gucvh/websockets_shaping_real_time) - [WebSockets: Shaping Real-time Communication](https://medium.com/@atakanserbes/websockets-shaping-real-time-communication-a216f79f9ef4)
@@ -20,7 +21,6 @@
 * [2023-10-16, 09:01:52](https://lobste.rs/s/sclzsr/wrapping_meshes_with_geodesic_walks) - [Wrapping Meshes With Geodesic Walks](https://cprimozic.net/blog/wrapping-meshes-with-geodesic-walks/)
 * [2023-10-16, 05:58:13](https://lobste.rs/s/8mvcpf/yes_you_can_use_lightguns_on_lcds) - [Yes, You Can Use Lightguns on LCDs-- Sometimes](https://nicole.express/2023/bang-bang-youre-dead.html)
 * [2023-10-16, 04:00:47](https://lobste.rs/s/enfimf/sum_types_postgres) - [Sum Types in Postgres](https://yrashk.com/blog/2023/04/09/sum-types-in-postgres/)
-* [2023-10-15, 23:48:52](https://lobste.rs/s/ofcoyr/real_time_presence_platform) - [Real Time Presence Platform](https://systemdesign.one/real-time-presence-platform-system-design/)
 * [2023-10-15, 18:22:55](https://lobste.rs/s/30lj3m/background_job_queues_priorities_may_be) - [Background job queues and priorities may be the wrong path](https://alexis.bernard.io/blog/2023-10-15-background-job-queues-and-priorities-may-be-the-wrong-path.html)
 * [2023-10-15, 17:30:01](https://lobste.rs/s/6fjkeh/why_async_rust) - [Why async Rust?](https://without.boats/blog/why-async-rust/)
 * [2023-10-15, 15:09:45](https://lobste.rs/s/a7hvcs/qnx_demo_disk_extending_possibilities) - [QNX DEMO disk:  Extending possibilities and adding undocumented features](http://qnx.puslapiai.lt/qnxdemo/qnx_demo_disk.htm)

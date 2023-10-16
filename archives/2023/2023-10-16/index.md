@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
+* [2023-10-16, 21:59:21](https://lobste.rs/s/aax70v/measuring_smartphone_slow_mo) - [Measuring smartphone slow-mo](https://www.thregr.org/wavexx/rnd/20231015-measuring_smartphone_slowmo/)
 * [2023-10-16, 21:44:40](https://lobste.rs/s/mdicrw/turbo_morph_drive) - [Turbo Morph Drive](https://evilmartians.com/chronicles/the-future-of-full-stack-rails-turbo-morph-drive)
 * [2023-10-16, 21:42:53](https://lobste.rs/s/3mwpfh/estimates_are_about_time_so_let_s_cut_chase) - [Estimates are about time, so let's cut to the chase](https://ntietz.com/blog/estimate-in-time/)
 * [2023-10-16, 18:42:09](https://lobste.rs/s/2gucvh/websockets_shaping_real_time) - [WebSockets: Shaping Real-time Communication](https://medium.com/@atakanserbes/websockets-shaping-real-time-communication-a216f79f9ef4)
