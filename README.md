@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-16, 15:08:57](https://lobste.rs/s/7co7g0/outer_loop_vectorization_simt_approach) - [Outer Loop Vectorization: A SIMT Approach](https://gitlab.com/samsartor/wasm2simt/-/blob/master/docs/paper/paper.pdf)
 * [2023-10-16, 14:06:47](https://lobste.rs/s/m0u8ej/api_design_principle_reading_property) - [API design principle: Reading a property or adding an event handler should not alter observable behavior](https://devblogs.microsoft.com/oldnewthing/20231016-00/?p=108895)
 * [2023-10-16, 13:52:03](https://lobste.rs/s/asr640/uniseg_unicode_text_segmentation_word) - [uniseg: Unicode Text Segmentation, Word Wrapping, and String Width Calculation in Go](https://github.com/rivo/uniseg)
 * [2023-10-16, 13:42:30](https://lobste.rs/s/m4mzyx/better_http_server_routing_go_1_22) - [Better HTTP server routing in Go 1.22](https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/)
@@ -8,7 +9,6 @@
 * [2023-10-16, 12:58:17](https://lobste.rs/s/hc0jvk/using_ansible_manage_freebsd_hosts) - [Using Ansible to Manage FreeBSD Hosts](https://www.youtube.com/watch?v=c-_H_yAlITQ)
 * [2023-10-16, 11:26:17](https://lobste.rs/s/ghahxn/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ghahxn/what_are_you_doing_this_week)
 * [2023-10-16, 11:24:21](https://lobste.rs/s/tsyeqw/state_ruby_http_clients_why_you_should_use) - [The state of ruby HTTP clients, or why you should use httpx](https://honeyryderchuck.gitlab.io/2023/10/15/state-of-ruby-http-clients-use-httpx.html)
-* [2023-10-16, 09:38:16](https://lobste.rs/s/lejpvm/douglas_crockford_keynote_from_here) - [Douglas Crockford to Keynote 'From Here to Lambda and Back Again' at RacketCon](https://lobste.rs/s/lejpvm/douglas_crockford_keynote_from_here)
 * [2023-10-16, 09:01:52](https://lobste.rs/s/sclzsr/wrapping_meshes_with_geodesic_walks) - [Wrapping Meshes With Geodesic Walks](https://cprimozic.net/blog/wrapping-meshes-with-geodesic-walks/)
 * [2023-10-16, 05:58:13](https://lobste.rs/s/8mvcpf/yes_you_can_use_lightguns_on_lcds) - [Yes, You Can Use Lightguns on LCDs-- Sometimes](https://nicole.express/2023/bang-bang-youre-dead.html)
 * [2023-10-16, 04:06:45](https://lobste.rs/s/ig7n6b/expressive_text_image_generation_with) - [Expressive Text-to-Image Generation with Rich Text](https://rich-text-to-image.github.io/)
