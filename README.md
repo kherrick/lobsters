@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-16, 11:26:17](https://lobste.rs/s/ghahxn/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ghahxn/what_are_you_doing_this_weekend)
+* [2023-10-16, 11:24:21](https://lobste.rs/s/tsyeqw/state_ruby_http_clients_why_you_should_use) - [The state of ruby HTTP clients, or why you should use httpx](https://honeyryderchuck.gitlab.io/2023/10/15/state-of-ruby-http-clients-use-httpx.html)
 * [2023-10-16, 09:38:16](https://lobste.rs/s/lejpvm/douglas_crockford_keynote_from_here) - [Douglas Crockford to Keynote 'From Here to Lambda and Back Again' at RacketCon](https://lobste.rs/s/lejpvm/douglas_crockford_keynote_from_here)
 * [2023-10-16, 09:01:52](https://lobste.rs/s/sclzsr/wrapping_meshes_with_geodesic_walks) - [Wrapping Meshes With Geodesic Walks](https://cprimozic.net/blog/wrapping-meshes-with-geodesic-walks/)
 * [2023-10-16, 05:58:13](https://lobste.rs/s/8mvcpf/yes_you_can_use_lightguns_on_lcds) - [Yes, You Can Use Lightguns on LCDs-- Sometimes](https://nicole.express/2023/bang-bang-youre-dead.html)
@@ -18,8 +20,6 @@
 * [2023-10-15, 09:40:52](https://lobste.rs/s/bvzyrd/two_stop_bits) - [Two Stop Bits](https://twostopbits.com/news)
 * [2023-10-15, 01:31:21](https://lobste.rs/s/hzse9f/teaching_apple_cyberdog_1_0_new_tricks) - [Teaching Apple Cyberdog 1.0 new tricks (featuring OpenDoc)](https://oldvcr.blogspot.com/2023/10/teaching-apple-cyberdog-10-new-tricks.html)
 * [2023-10-14, 20:59:29](https://lobste.rs/s/rmhnw9/we_were_wrong_about_gpls) - [We Were Wrong About the GPLs](https://writing.kemitchell.com/2023/10/13/Wrong-About-GPLs)
-* [2023-10-14, 20:27:54](https://lobste.rs/s/em4aic/examining_silicon_dies_intel_386) - [Examining the silicon dies of the Intel 386 processor](http://www.righto.com/2023/10/intel-386-die-versions.html)
-* [2023-10-14, 20:21:47](https://lobste.rs/s/waeii9/openbsd_pf_based_firewalls_suffer) - [OpenBSD PF-based firewalls suffer differently from denial of service attacks](https://utcc.utoronto.ca/~cks/space/blog/unix/OpenBSDPfStatesAndDoS)
 * [2023-10-14, 19:14:33](https://lobste.rs/s/fuorft/compile_times_code_graphs) - [Compile Times and Code Graphs](https://blog.danhhz.com/compile-times-and-code-graphs)
 * [2023-10-14, 18:18:34](https://lobste.rs/s/c6x9ds/bird_eye_view_visualization_llm) - [Bird-eye view visualization of LLM activations](https://grgv.xyz/blog/llama/)
 * [2023-10-14, 15:39:00](https://lobste.rs/s/385e2w/learn_wayland_by_writing_gui_from_scratch) - [Learn Wayland by writing a GUI from scratch](https://gaultier.github.io/blog/wayland_from_scratch.html)
