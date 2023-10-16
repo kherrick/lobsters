@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-16, 13:19:24",
+      "https://lobste.rs/s/nxyygh/openbsd_7_4_released_oct_16_2023"
+    ],
+    [
+      "OpenBSD 7.4 released -- Oct 16, 2023",
+      "https://marc.info/?l=openbsd-announce&m=169746103423179&w=2"
+    ]
+  ],
+  [
+    [
       "2023-10-16, 12:58:47",
       "https://lobste.rs/s/hkvrey/running_kubernetes_cluster_with_openbsd"
     ],
@@ -227,16 +237,6 @@
     [
       "Compile Times and Code Graphs",
       "https://blog.danhhz.com/compile-times-and-code-graphs"
-    ]
-  ],
-  [
-    [
-      "2023-10-14, 18:18:34",
-      "https://lobste.rs/s/c6x9ds/bird_eye_view_visualization_llm"
-    ],
-    [
-      "Bird-eye view visualization of LLM activations",
-      "https://grgv.xyz/blog/llama/"
     ]
   ],
   [
