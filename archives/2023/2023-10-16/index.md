@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-16](index.md)
 
+* [2023-10-16, 16:10:09](https://lobste.rs/s/asadf6/benchmarking_postgres_replication) - [Benchmarking Postgres Replication: PeerDB vs Airbyte](https://blog.peerdb.io/benchmarking-postgres-replication-peerdb-vs-airbyte)
 * [2023-10-16, 15:48:18](https://lobste.rs/s/favot0/2023_image_based_linux_summit) - [The 2023 Image-Based Linux Summit](https://lwn.net/SubscriberLink/946526/a1c7bb28c62c9667/)
 * [2023-10-16, 15:38:25](https://lobste.rs/s/f3pc46/pgbouncer_1_21_0_one_with_prepared) - [PgBouncer 1.21.0  -  \"The one with prepared statements\"](https://github.com/pgbouncer/pgbouncer/releases/tag/pgbouncer_1_21_0)
 * [2023-10-16, 15:08:57](https://lobste.rs/s/7co7g0/outer_loop_vectorization_simt_approach) - [Outer Loop Vectorization: A SIMT Approach](https://gitlab.com/samsartor/wasm2simt/-/blob/master/docs/paper/paper.pdf)
