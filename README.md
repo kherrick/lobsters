@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-16, 13:42:30](https://lobste.rs/s/m4mzyx/better_http_server_routing_go_1_22) - [Better HTTP server routing in Go 1.22](https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/)
 * [2023-10-16, 13:19:24](https://lobste.rs/s/nxyygh/openbsd_7_4_released_oct_16_2023) - [OpenBSD 7.4 released -- Oct 16, 2023](https://marc.info/?l=openbsd-announce&m=169746103423179&w=2)
 * [2023-10-16, 12:58:47](https://lobste.rs/s/hkvrey/running_kubernetes_cluster_with_openbsd) - [Running Kubernetes Cluster with OpenBSD VMM](http://www.h-i-r.net/2023/02/running-kubernetes-cluster-with-openbsd.html)
 * [2023-10-16, 12:58:17](https://lobste.rs/s/hc0jvk/using_ansible_manage_freebsd_hosts) - [Using Ansible to Manage FreeBSD Hosts](https://www.youtube.com/watch?v=c-_H_yAlITQ)
@@ -23,7 +24,6 @@
 * [2023-10-15, 09:40:52](https://lobste.rs/s/bvzyrd/two_stop_bits) - [Two Stop Bits](https://twostopbits.com/news)
 * [2023-10-15, 01:31:21](https://lobste.rs/s/hzse9f/teaching_apple_cyberdog_1_0_new_tricks) - [Teaching Apple Cyberdog 1.0 new tricks (featuring OpenDoc)](https://oldvcr.blogspot.com/2023/10/teaching-apple-cyberdog-10-new-tricks.html)
 * [2023-10-14, 20:59:29](https://lobste.rs/s/rmhnw9/we_were_wrong_about_gpls) - [We Were Wrong About the GPLs](https://writing.kemitchell.com/2023/10/13/Wrong-About-GPLs)
-* [2023-10-14, 19:14:33](https://lobste.rs/s/fuorft/compile_times_code_graphs) - [Compile Times and Code Graphs](https://blog.danhhz.com/compile-times-and-code-graphs)
 * [2023-10-14, 15:39:00](https://lobste.rs/s/385e2w/learn_wayland_by_writing_gui_from_scratch) - [Learn Wayland by writing a GUI from scratch](https://gaultier.github.io/blog/wayland_from_scratch.html)
 
 ## [Archives](archives/index.md)
