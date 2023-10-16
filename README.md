@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-16, 15:48:18](https://lobste.rs/s/favot0/2023_image_based_linux_summit) - [The 2023 Image-Based Linux Summit](https://lwn.net/SubscriberLink/946526/a1c7bb28c62c9667/)
 * [2023-10-16, 15:38:25](https://lobste.rs/s/f3pc46/pgbouncer_1_21_0_one_with_prepared) - [PgBouncer 1.21.0  -  \"The one with prepared statements\"](https://github.com/pgbouncer/pgbouncer/releases/tag/pgbouncer_1_21_0)
 * [2023-10-16, 15:08:57](https://lobste.rs/s/7co7g0/outer_loop_vectorization_simt_approach) - [Outer Loop Vectorization: A SIMT Approach](https://gitlab.com/samsartor/wasm2simt/-/blob/master/docs/paper/paper.pdf)
 * [2023-10-16, 14:06:47](https://lobste.rs/s/m0u8ej/api_design_principle_reading_property) - [API design principle: Reading a property or adding an event handler should not alter observable behavior](https://devblogs.microsoft.com/oldnewthing/20231016-00/?p=108895)
@@ -19,7 +20,6 @@
 * [2023-10-15, 17:30:01](https://lobste.rs/s/6fjkeh/why_async_rust) - [Why async Rust?](https://without.boats/blog/why-async-rust/)
 * [2023-10-15, 16:55:41](https://lobste.rs/s/usoabz/trying_out_c_20_s_modules_with_clang_make) - [Trying out C++20's modules with Clang and Make](https://0x1.pt/2023/10/15/trying-out-c++20s-modules-with-clang-and-make/)
 * [2023-10-15, 15:09:45](https://lobste.rs/s/a7hvcs/qnx_demo_disk_extending_possibilities) - [QNX DEMO disk:  Extending possibilities and adding undocumented features](http://qnx.puslapiai.lt/qnxdemo/qnx_demo_disk.htm)
-* [2023-10-15, 15:00:16](https://lobste.rs/s/dhyhkr/distribution_release_window_maker_live_0) - [Distribution Release: Window Maker Live 0.96](https://distrowatch.com/index-mobile.php?newsid=11963)
 * [2023-10-15, 14:57:58](https://lobste.rs/s/ouefrk/eurorust_2023_reflections_what_s) - [EuroRust 2023 Reflections: What's a Conference For?](https://lucumr.pocoo.org/2023/10/14/eurorust-whats-a-conference/)
 * [2023-10-15, 10:35:57](https://lobste.rs/s/mfnd5g/strategies_for_deploying_things_on_nixos) - [Strategies for deploying things on NixOS](https://asylum.madhouse-project.org/blog/2023/10/15/strategies-for-deploying-things-on-nixos/)
 * [2023-10-15, 09:40:52](https://lobste.rs/s/bvzyrd/two_stop_bits) - [Two Stop Bits](https://twostopbits.com/news)
