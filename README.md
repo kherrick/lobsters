@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-17, 02:49:02](https://lobste.rs/s/yleuhp/patat_terminal_based_presentations) - [patat: Terminal-based presentations using Pandoc](https://github.com/jaspervdj/patat)
 * [2023-10-16, 23:27:19](https://lobste.rs/s/kfdrwh/object_oriented_pre_compiler_1983) - [The object oriented pre-compiler (1983)](https://dl.acm.org/doi/pdf/10.1145/948093.948095)
 * [2023-10-16, 22:21:32](https://lobste.rs/s/xzgz0f/patcher_part_8_summary) - [Patcher Part 8 : Summary](http://cbloomrants.blogspot.com/2023/10/patcher-part-8-summary.html)
 * [2023-10-16, 21:59:21](https://lobste.rs/s/aax70v/measuring_smartphone_slow_mo) - [Measuring smartphone slow-mo](https://www.thregr.org/wavexx/rnd/20231015-measuring_smartphone_slowmo/)
@@ -24,7 +25,6 @@
 * [2023-10-16, 04:00:47](https://lobste.rs/s/enfimf/sum_types_postgres) - [Sum Types in Postgres](https://yrashk.com/blog/2023/04/09/sum-types-in-postgres/)
 * [2023-10-15, 18:22:55](https://lobste.rs/s/30lj3m/background_job_queues_priorities_may_be) - [Background job queues and priorities may be the wrong path](https://alexis.bernard.io/blog/2023-10-15-background-job-queues-and-priorities-may-be-the-wrong-path.html)
 * [2023-10-15, 17:30:01](https://lobste.rs/s/6fjkeh/why_async_rust) - [Why async Rust?](https://without.boats/blog/why-async-rust/)
-* [2023-10-15, 10:35:57](https://lobste.rs/s/mfnd5g/strategies_for_deploying_things_on_nixos) - [Strategies for deploying things on NixOS](https://asylum.madhouse-project.org/blog/2023/10/15/strategies-for-deploying-things-on-nixos/)
 
 ## [Archives](archives/index.md)
 
