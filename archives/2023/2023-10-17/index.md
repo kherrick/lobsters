@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 13:18:10](https://lobste.rs/s/qgjisu/software_engineering_is_about_thinking) - [Software engineering is about thinking, not typing](https://jordankaye.dev/posts/thinking-not-typing/)
 * [2023-10-17, 12:38:23](https://lobste.rs/s/jlcndh/getaddrinfo_on_glibc_calls_getenv_oh_boy) - [getaddrinfo() on glibc calls getenv(), oh boy](https://rachelbythebay.com/w/2023/10/16/env/)
 * [2023-10-17, 12:11:25](https://lobste.rs/s/w1lkdy/how_could_security_control_introduce) - [How could a security control introduce a privacy issue?](https://security.stackexchange.com/questions/272629/how-could-a-security-control-introduce-a-privacy-issue)
 * [2023-10-17, 07:45:48](https://lobste.rs/s/h82ncs/fluid_simulation) - [Fluid Simulation](https://kyndinfo.notion.site/Fluid-Simulation-f0516d9d12e245a08ae5c7545ac822dd)

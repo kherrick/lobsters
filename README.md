@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-17, 13:18:10](https://lobste.rs/s/qgjisu/software_engineering_is_about_thinking) - [Software engineering is about thinking, not typing](https://jordankaye.dev/posts/thinking-not-typing/)
 * [2023-10-17, 12:38:23](https://lobste.rs/s/jlcndh/getaddrinfo_on_glibc_calls_getenv_oh_boy) - [getaddrinfo() on glibc calls getenv(), oh boy](https://rachelbythebay.com/w/2023/10/16/env/)
 * [2023-10-17, 12:11:25](https://lobste.rs/s/w1lkdy/how_could_security_control_introduce) - [How could a security control introduce a privacy issue?](https://security.stackexchange.com/questions/272629/how-could-a-security-control-introduce-a-privacy-issue)
 * [2023-10-17, 07:45:48](https://lobste.rs/s/h82ncs/fluid_simulation) - [Fluid Simulation](https://kyndinfo.notion.site/Fluid-Simulation-f0516d9d12e245a08ae5c7545ac822dd)
@@ -7,7 +8,6 @@
 * [2023-10-17, 02:49:02](https://lobste.rs/s/yleuhp/patat_terminal_based_presentations) - [patat: Terminal-based presentations using Pandoc](https://github.com/jaspervdj/patat)
 * [2023-10-16, 23:27:19](https://lobste.rs/s/kfdrwh/object_oriented_pre_compiler_1983) - [The object oriented pre-compiler (1983)](https://dl.acm.org/doi/pdf/10.1145/948093.948095)
 * [2023-10-16, 21:59:21](https://lobste.rs/s/aax70v/measuring_smartphone_slow_mo) - [Measuring smartphone slow-mo](https://www.thregr.org/wavexx/rnd/20231015-measuring_smartphone_slowmo/)
-* [2023-10-16, 21:44:40](https://lobste.rs/s/mdicrw/turbo_morph_drive) - [Turbo Morph Drive](https://evilmartians.com/chronicles/the-future-of-full-stack-rails-turbo-morph-drive)
 * [2023-10-16, 21:42:53](https://lobste.rs/s/3mwpfh/estimates_are_about_time_so_let_s_cut_chase) - [Estimates are about time, so let's cut to the chase](https://ntietz.com/blog/estimate-in-time/)
 * [2023-10-16, 18:42:09](https://lobste.rs/s/2gucvh/websockets_shaping_real_time) - [WebSockets: Shaping Real-time Communication](https://medium.com/@atakanserbes/websockets-shaping-real-time-communication-a216f79f9ef4)
 * [2023-10-16, 16:52:31](https://lobste.rs/s/cwp7j0/advanced_fuzzing_unmasks_elusive) - [Advanced fuzzing unmasks elusive vulnerabilities](https://www.srlabs.de/blog-post/advanced-fuzzing-unmasks-elusive-vulnerabilities)
