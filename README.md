@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-17, 20:34:41](https://lobste.rs/s/iltket/surfacing_request_errors_when_using_htmx) - [Surfacing request errors when using HTMX](https://xvello.net/blog/htmx-error-handling/)
 * [2023-10-17, 19:19:10](https://lobste.rs/s/expadj/better_rails_forms_with_superform) - [Better Rails Forms with Superform](https://fly.io/ruby-dispatch/better-rails-forms-with-superform/)
 * [2023-10-17, 19:18:44](https://lobste.rs/s/ict9gg/google_proposes_new_mseal_memory_sealing) - [Google Proposes New mseal() Memory Sealing Syscall For Linux - Phoronix](https://www.phoronix.com/news/Linux-mseal-Memory-Sealing)
 * [2023-10-17, 16:49:19](https://lobste.rs/s/c4ydj0/which_interpreters_are_faster_ast) - [Which Interpreters are Faster, AST or Bytecode?](https://stefan-marr.de/2023/10/ast-vs-bytecode-interpreters/)
@@ -23,7 +24,6 @@
 * [2023-10-16, 13:19:24](https://lobste.rs/s/nxyygh/openbsd_7_4_released_oct_16_2023) - [OpenBSD 7.4 released -- Oct 16, 2023](https://marc.info/?l=openbsd-announce&m=169746103423179&w=2)
 * [2023-10-16, 11:26:17](https://lobste.rs/s/ghahxn/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ghahxn/what_are_you_doing_this_week)
 * [2023-10-16, 11:24:21](https://lobste.rs/s/tsyeqw/state_ruby_http_clients_why_you_should_use) - [The state of ruby HTTP clients, or why you should use httpx](https://honeyryderchuck.gitlab.io/2023/10/15/state-of-ruby-http-clients-use-httpx.html)
-* [2023-10-16, 09:01:52](https://lobste.rs/s/sclzsr/wrapping_meshes_with_geodesic_walks) - [Wrapping Meshes With Geodesic Walks](https://cprimozic.net/blog/wrapping-meshes-with-geodesic-walks/)
 * [2023-10-15, 17:30:01](https://lobste.rs/s/6fjkeh/why_async_rust) - [Why async Rust?](https://without.boats/blog/why-async-rust/)
 
 ## [Archives](archives/index.md)
