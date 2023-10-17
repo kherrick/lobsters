@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-17, 13:41:37](https://lobste.rs/s/qw15dy/circulant_matrices_eigenvectors_fft) - [Circulant matrices, eigenvectors, and the FFT](https://www.johndcook.com/blog/2023/05/12/circulant-matrices/)
 * [2023-10-17, 13:18:10](https://lobste.rs/s/qgjisu/software_engineering_is_about_thinking) - [Software engineering is about thinking, not typing](https://jordankaye.dev/posts/thinking-not-typing/)
 * [2023-10-17, 12:38:23](https://lobste.rs/s/jlcndh/getaddrinfo_on_glibc_calls_getenv_oh_boy) - [getaddrinfo() on glibc calls getenv(), oh boy](https://rachelbythebay.com/w/2023/10/16/env/)
 * [2023-10-17, 12:11:25](https://lobste.rs/s/w1lkdy/how_could_security_control_introduce) - [How could a security control introduce a privacy issue?](https://security.stackexchange.com/questions/272629/how-could-a-security-control-introduce-a-privacy-issue)
@@ -16,7 +17,6 @@
 * [2023-10-16, 15:48:18](https://lobste.rs/s/favot0/2023_image_based_linux_summit) - [The 2023 Image-Based Linux Summit](https://lwn.net/SubscriberLink/946526/a1c7bb28c62c9667/)
 * [2023-10-16, 15:38:25](https://lobste.rs/s/f3pc46/pgbouncer_1_21_0_one_with_prepared) - [PgBouncer 1.21.0  -  \"The one with prepared statements\"](https://github.com/pgbouncer/pgbouncer/releases/tag/pgbouncer_1_21_0)
 * [2023-10-16, 14:06:47](https://lobste.rs/s/m0u8ej/api_design_principle_reading_property) - [API design principle: Reading a property or adding an event handler should not alter observable behavior](https://devblogs.microsoft.com/oldnewthing/20231016-00/?p=108895)
-* [2023-10-16, 13:52:03](https://lobste.rs/s/asr640/uniseg_unicode_text_segmentation_word) - [uniseg: Unicode Text Segmentation, Word Wrapping, and String Width Calculation in Go](https://github.com/rivo/uniseg)
 * [2023-10-16, 13:42:30](https://lobste.rs/s/m4mzyx/better_http_server_routing_go_1_22) - [Better HTTP server routing in Go 1.22](https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/)
 * [2023-10-16, 13:19:24](https://lobste.rs/s/nxyygh/openbsd_7_4_released_oct_16_2023) - [OpenBSD 7.4 released -- Oct 16, 2023](https://marc.info/?l=openbsd-announce&m=169746103423179&w=2)
 * [2023-10-16, 11:26:17](https://lobste.rs/s/ghahxn/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ghahxn/what_are_you_doing_this_week)
