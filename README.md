@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-17, 20:44:58](https://lobste.rs/s/74ffsk/use_cppcheck_find_bugs_improve_code) - [Use cppcheck to find bugs and improve code quality (not only for Kile)](https://gruenich.blogspot.com/2023/10/use-cppcheck-to-find-bugs-and-improve.html?m=1)
 * [2023-10-17, 20:41:30](https://lobste.rs/s/yw3m9u/higher_quality_random_floats) - [Higher quality random floats](https://www.corsix.org/content/higher-quality-random-floats)
 * [2023-10-17, 20:34:41](https://lobste.rs/s/iltket/surfacing_request_errors_when_using_htmx) - [Surfacing request errors when using HTMX](https://xvello.net/blog/htmx-error-handling/)
 * [2023-10-17, 19:19:10](https://lobste.rs/s/expadj/better_rails_forms_with_superform) - [Better Rails Forms with Superform](https://fly.io/ruby-dispatch/better-rails-forms-with-superform/)
@@ -18,7 +19,6 @@
 * [2023-10-16, 21:59:21](https://lobste.rs/s/aax70v/measuring_smartphone_slow_mo) - [Measuring smartphone slow-mo](https://www.thregr.org/wavexx/rnd/20231015-measuring_smartphone_slowmo/)
 * [2023-10-16, 21:42:53](https://lobste.rs/s/3mwpfh/estimates_are_about_time_so_let_s_cut_chase) - [Estimates are about time, so let's cut to the chase](https://ntietz.com/blog/estimate-in-time/)
 * [2023-10-16, 16:44:28](https://lobste.rs/s/q4shkq/guile_hoot_v0_1_0_released) - [Guile Hoot v0.1.0 released](https://spritely.institute/news/guile-hoot-v010-released.html)
-* [2023-10-16, 15:48:18](https://lobste.rs/s/favot0/2023_image_based_linux_summit) - [The 2023 Image-Based Linux Summit](https://lwn.net/SubscriberLink/946526/a1c7bb28c62c9667/)
 * [2023-10-16, 15:38:25](https://lobste.rs/s/f3pc46/pgbouncer_1_21_0_one_with_prepared) - [PgBouncer 1.21.0  -  \"The one with prepared statements\"](https://github.com/pgbouncer/pgbouncer/releases/tag/pgbouncer_1_21_0)
 * [2023-10-16, 14:06:47](https://lobste.rs/s/m0u8ej/api_design_principle_reading_property) - [API design principle: Reading a property or adding an event handler should not alter observable behavior](https://devblogs.microsoft.com/oldnewthing/20231016-00/?p=108895)
 * [2023-10-16, 13:42:30](https://lobste.rs/s/m4mzyx/better_http_server_routing_go_1_22) - [Better HTTP server routing in Go 1.22](https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/)
