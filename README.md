@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-17, 19:19:10](https://lobste.rs/s/expadj/better_rails_forms_with_superform) - [Better Rails Forms with Superform](https://fly.io/ruby-dispatch/better-rails-forms-with-superform/)
+* [2023-10-17, 19:18:44](https://lobste.rs/s/ict9gg/google_proposes_new_mseal_memory_sealing) - [Google Proposes New mseal() Memory Sealing Syscall For Linux - Phoronix](https://www.phoronix.com/news/Linux-mseal-Memory-Sealing)
 * [2023-10-17, 16:49:19](https://lobste.rs/s/c4ydj0/which_interpreters_are_faster_ast) - [Which Interpreters are Faster, AST or Bytecode?](https://stefan-marr.de/2023/10/ast-vs-bytecode-interpreters/)
 * [2023-10-17, 15:46:56](https://lobste.rs/s/zblzci/c_mario_cube_humor) - [The C / Mario cube [humor]](https://computerfairi.es/@quirk/111075724750894983)
 * [2023-10-17, 14:24:09](https://lobste.rs/s/64eywc/when_concurrency_matters_behaviour) - [When Concurrency Matters: Behaviour-Oriented Concurrency](https://dl.acm.org/doi/pdf/10.1145/3622852)
@@ -14,7 +16,6 @@
 * [2023-10-16, 21:59:21](https://lobste.rs/s/aax70v/measuring_smartphone_slow_mo) - [Measuring smartphone slow-mo](https://www.thregr.org/wavexx/rnd/20231015-measuring_smartphone_slowmo/)
 * [2023-10-16, 21:42:53](https://lobste.rs/s/3mwpfh/estimates_are_about_time_so_let_s_cut_chase) - [Estimates are about time, so let's cut to the chase](https://ntietz.com/blog/estimate-in-time/)
 * [2023-10-16, 16:44:28](https://lobste.rs/s/q4shkq/guile_hoot_v0_1_0_released) - [Guile Hoot v0.1.0 released](https://spritely.institute/news/guile-hoot-v010-released.html)
-* [2023-10-16, 16:10:09](https://lobste.rs/s/asadf6/benchmarking_postgres_replication) - [Benchmarking Postgres Replication: PeerDB vs Airbyte](https://blog.peerdb.io/benchmarking-postgres-replication-peerdb-vs-airbyte)
 * [2023-10-16, 15:48:18](https://lobste.rs/s/favot0/2023_image_based_linux_summit) - [The 2023 Image-Based Linux Summit](https://lwn.net/SubscriberLink/946526/a1c7bb28c62c9667/)
 * [2023-10-16, 15:38:25](https://lobste.rs/s/f3pc46/pgbouncer_1_21_0_one_with_prepared) - [PgBouncer 1.21.0  -  \"The one with prepared statements\"](https://github.com/pgbouncer/pgbouncer/releases/tag/pgbouncer_1_21_0)
 * [2023-10-16, 14:06:47](https://lobste.rs/s/m0u8ej/api_design_principle_reading_property) - [API design principle: Reading a property or adding an event handler should not alter observable behavior](https://devblogs.microsoft.com/oldnewthing/20231016-00/?p=108895)
@@ -23,7 +24,6 @@
 * [2023-10-16, 11:26:17](https://lobste.rs/s/ghahxn/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ghahxn/what_are_you_doing_this_week)
 * [2023-10-16, 11:24:21](https://lobste.rs/s/tsyeqw/state_ruby_http_clients_why_you_should_use) - [The state of ruby HTTP clients, or why you should use httpx](https://honeyryderchuck.gitlab.io/2023/10/15/state-of-ruby-http-clients-use-httpx.html)
 * [2023-10-16, 09:01:52](https://lobste.rs/s/sclzsr/wrapping_meshes_with_geodesic_walks) - [Wrapping Meshes With Geodesic Walks](https://cprimozic.net/blog/wrapping-meshes-with-geodesic-walks/)
-* [2023-10-16, 05:58:13](https://lobste.rs/s/8mvcpf/yes_you_can_use_lightguns_on_lcds) - [Yes, You Can Use Lightguns on LCDs-- Sometimes](https://nicole.express/2023/bang-bang-youre-dead.html)
 * [2023-10-15, 17:30:01](https://lobste.rs/s/6fjkeh/why_async_rust) - [Why async Rust?](https://without.boats/blog/why-async-rust/)
 
 ## [Archives](archives/index.md)
