@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-17, 12:11:25",
+      "https://lobste.rs/s/w1lkdy/how_could_security_control_introduce"
+    ],
+    [
+      "How could a security control introduce a privacy issue?",
+      "https://security.stackexchange.com/questions/272629/how-could-a-security-control-introduce-a-privacy-issue"
+    ]
+  ],
+  [
+    [
       "2023-10-17, 07:45:48",
       "https://lobste.rs/s/h82ncs/fluid_simulation"
     ],
@@ -137,16 +147,6 @@
     [
       "PgBouncer 1.21.0  -  \"The one with prepared statements\"",
       "https://github.com/pgbouncer/pgbouncer/releases/tag/pgbouncer_1_21_0"
-    ]
-  ],
-  [
-    [
-      "2023-10-16, 15:08:57",
-      "https://lobste.rs/s/7co7g0/outer_loop_vectorization_simt_approach"
-    ],
-    [
-      "Outer Loop Vectorization: A SIMT Approach",
-      "https://gitlab.com/samsartor/wasm2simt/-/blob/master/docs/paper/paper.pdf"
     ]
   ],
   [
