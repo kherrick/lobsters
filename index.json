@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-17, 13:18:10",
+      "https://lobste.rs/s/qgjisu/software_engineering_is_about_thinking"
+    ],
+    [
+      "Software engineering is about thinking, not typing",
+      "https://jordankaye.dev/posts/thinking-not-typing/"
+    ]
+  ],
+  [
+    [
       "2023-10-17, 12:38:23",
       "https://lobste.rs/s/jlcndh/getaddrinfo_on_glibc_calls_getenv_oh_boy"
     ],
@@ -67,16 +77,6 @@
     [
       "Measuring smartphone slow-mo",
       "https://www.thregr.org/wavexx/rnd/20231015-measuring_smartphone_slowmo/"
-    ]
-  ],
-  [
-    [
-      "2023-10-16, 21:44:40",
-      "https://lobste.rs/s/mdicrw/turbo_morph_drive"
-    ],
-    [
-      "Turbo Morph Drive",
-      "https://evilmartians.com/chronicles/the-future-of-full-stack-rails-turbo-morph-drive"
     ]
   ],
   [
