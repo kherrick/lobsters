@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-17, 20:41:30](https://lobste.rs/s/yw3m9u/higher_quality_random_floats) - [Higher quality random floats](https://www.corsix.org/content/higher-quality-random-floats)
 * [2023-10-17, 20:34:41](https://lobste.rs/s/iltket/surfacing_request_errors_when_using_htmx) - [Surfacing request errors when using HTMX](https://xvello.net/blog/htmx-error-handling/)
 * [2023-10-17, 19:19:10](https://lobste.rs/s/expadj/better_rails_forms_with_superform) - [Better Rails Forms with Superform](https://fly.io/ruby-dispatch/better-rails-forms-with-superform/)
 * [2023-10-17, 19:18:44](https://lobste.rs/s/ict9gg/google_proposes_new_mseal_memory_sealing) - [Google Proposes New mseal() Memory Sealing Syscall For Linux - Phoronix](https://www.phoronix.com/news/Linux-mseal-Memory-Sealing)
@@ -22,7 +23,6 @@
 * [2023-10-16, 14:06:47](https://lobste.rs/s/m0u8ej/api_design_principle_reading_property) - [API design principle: Reading a property or adding an event handler should not alter observable behavior](https://devblogs.microsoft.com/oldnewthing/20231016-00/?p=108895)
 * [2023-10-16, 13:42:30](https://lobste.rs/s/m4mzyx/better_http_server_routing_go_1_22) - [Better HTTP server routing in Go 1.22](https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/)
 * [2023-10-16, 13:19:24](https://lobste.rs/s/nxyygh/openbsd_7_4_released_oct_16_2023) - [OpenBSD 7.4 released -- Oct 16, 2023](https://marc.info/?l=openbsd-announce&m=169746103423179&w=2)
-* [2023-10-16, 11:26:17](https://lobste.rs/s/ghahxn/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ghahxn/what_are_you_doing_this_week)
 * [2023-10-16, 11:24:21](https://lobste.rs/s/tsyeqw/state_ruby_http_clients_why_you_should_use) - [The state of ruby HTTP clients, or why you should use httpx](https://honeyryderchuck.gitlab.io/2023/10/15/state-of-ruby-http-clients-use-httpx.html)
 * [2023-10-15, 17:30:01](https://lobste.rs/s/6fjkeh/why_async_rust) - [Why async Rust?](https://without.boats/blog/why-async-rust/)
 

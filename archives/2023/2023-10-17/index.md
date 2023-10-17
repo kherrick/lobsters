@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 20:41:30](https://lobste.rs/s/yw3m9u/higher_quality_random_floats) - [Higher quality random floats](https://www.corsix.org/content/higher-quality-random-floats)
 * [2023-10-17, 20:34:41](https://lobste.rs/s/iltket/surfacing_request_errors_when_using_htmx) - [Surfacing request errors when using HTMX](https://xvello.net/blog/htmx-error-handling/)
 * [2023-10-17, 19:19:10](https://lobste.rs/s/expadj/better_rails_forms_with_superform) - [Better Rails Forms with Superform](https://fly.io/ruby-dispatch/better-rails-forms-with-superform/)
 * [2023-10-17, 19:18:44](https://lobste.rs/s/ict9gg/google_proposes_new_mseal_memory_sealing) - [Google Proposes New mseal() Memory Sealing Syscall For Linux - Phoronix](https://www.phoronix.com/news/Linux-mseal-Memory-Sealing)
