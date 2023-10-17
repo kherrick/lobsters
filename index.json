@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-17, 13:41:37",
+      "https://lobste.rs/s/qw15dy/circulant_matrices_eigenvectors_fft"
+    ],
+    [
+      "Circulant matrices, eigenvectors, and the FFT",
+      "https://www.johndcook.com/blog/2023/05/12/circulant-matrices/"
+    ]
+  ],
+  [
+    [
       "2023-10-17, 13:18:10",
       "https://lobste.rs/s/qgjisu/software_engineering_is_about_thinking"
     ],
@@ -157,16 +167,6 @@
     [
       "API design principle: Reading a property or adding an event handler should not alter observable behavior",
       "https://devblogs.microsoft.com/oldnewthing/20231016-00/?p=108895"
-    ]
-  ],
-  [
-    [
-      "2023-10-16, 13:52:03",
-      "https://lobste.rs/s/asr640/uniseg_unicode_text_segmentation_word"
-    ],
-    [
-      "uniseg: Unicode Text Segmentation, Word Wrapping, and String Width Calculation in Go",
-      "https://github.com/rivo/uniseg"
     ]
   ],
   [
