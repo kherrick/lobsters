@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-17, 12:38:23",
+      "https://lobste.rs/s/jlcndh/getaddrinfo_on_glibc_calls_getenv_oh_boy"
+    ],
+    [
+      "getaddrinfo() on glibc calls getenv(), oh boy",
+      "https://rachelbythebay.com/w/2023/10/16/env/"
+    ]
+  ],
+  [
+    [
       "2023-10-17, 12:11:25",
       "https://lobste.rs/s/w1lkdy/how_could_security_control_introduce"
     ],
@@ -47,16 +57,6 @@
     [
       "The object oriented pre-compiler (1983)",
       "https://dl.acm.org/doi/pdf/10.1145/948093.948095"
-    ]
-  ],
-  [
-    [
-      "2023-10-16, 22:21:32",
-      "https://lobste.rs/s/xzgz0f/patcher_part_8_summary"
-    ],
-    [
-      "Patcher Part 8 : Summary",
-      "http://cbloomrants.blogspot.com/2023/10/patcher-part-8-summary.html"
     ]
   ],
   [
