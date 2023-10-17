@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-17, 14:24:09](https://lobste.rs/s/64eywc/when_concurrency_matters_behaviour) - [When Concurrency Matters: Behaviour-Oriented Concurrency](https://dl.acm.org/doi/pdf/10.1145/3622852)
 * [2023-10-17, 13:41:37](https://lobste.rs/s/qw15dy/circulant_matrices_eigenvectors_fft) - [Circulant matrices, eigenvectors, and the FFT](https://www.johndcook.com/blog/2023/05/12/circulant-matrices/)
 * [2023-10-17, 13:18:10](https://lobste.rs/s/qgjisu/software_engineering_is_about_thinking) - [Software engineering is about thinking, not typing](https://jordankaye.dev/posts/thinking-not-typing/)
 * [2023-10-17, 12:38:23](https://lobste.rs/s/jlcndh/getaddrinfo_on_glibc_calls_getenv_oh_boy) - [getaddrinfo() on glibc calls getenv(), oh boy](https://rachelbythebay.com/w/2023/10/16/env/)
@@ -23,7 +24,6 @@
 * [2023-10-16, 11:24:21](https://lobste.rs/s/tsyeqw/state_ruby_http_clients_why_you_should_use) - [The state of ruby HTTP clients, or why you should use httpx](https://honeyryderchuck.gitlab.io/2023/10/15/state-of-ruby-http-clients-use-httpx.html)
 * [2023-10-16, 09:01:52](https://lobste.rs/s/sclzsr/wrapping_meshes_with_geodesic_walks) - [Wrapping Meshes With Geodesic Walks](https://cprimozic.net/blog/wrapping-meshes-with-geodesic-walks/)
 * [2023-10-16, 05:58:13](https://lobste.rs/s/8mvcpf/yes_you_can_use_lightguns_on_lcds) - [Yes, You Can Use Lightguns on LCDs-- Sometimes](https://nicole.express/2023/bang-bang-youre-dead.html)
-* [2023-10-16, 04:00:47](https://lobste.rs/s/enfimf/sum_types_postgres) - [Sum Types in Postgres](https://yrashk.com/blog/2023/04/09/sum-types-in-postgres/)
 * [2023-10-15, 17:30:01](https://lobste.rs/s/6fjkeh/why_async_rust) - [Why async Rust?](https://without.boats/blog/why-async-rust/)
 
 ## [Archives](archives/index.md)

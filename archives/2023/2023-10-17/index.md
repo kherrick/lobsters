@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 14:24:09](https://lobste.rs/s/64eywc/when_concurrency_matters_behaviour) - [When Concurrency Matters: Behaviour-Oriented Concurrency](https://dl.acm.org/doi/pdf/10.1145/3622852)
 * [2023-10-17, 13:41:37](https://lobste.rs/s/qw15dy/circulant_matrices_eigenvectors_fft) - [Circulant matrices, eigenvectors, and the FFT](https://www.johndcook.com/blog/2023/05/12/circulant-matrices/)
 * [2023-10-17, 13:18:10](https://lobste.rs/s/qgjisu/software_engineering_is_about_thinking) - [Software engineering is about thinking, not typing](https://jordankaye.dev/posts/thinking-not-typing/)
 * [2023-10-17, 12:38:23](https://lobste.rs/s/jlcndh/getaddrinfo_on_glibc_calls_getenv_oh_boy) - [getaddrinfo() on glibc calls getenv(), oh boy](https://rachelbythebay.com/w/2023/10/16/env/)
