@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-17, 15:46:56](https://lobste.rs/s/zblzci/c_mario_cube_humor) - [The C / Mario cube [humor]](https://computerfairi.es/@quirk/111075724750894983)
 * [2023-10-17, 14:24:09](https://lobste.rs/s/64eywc/when_concurrency_matters_behaviour) - [When Concurrency Matters: Behaviour-Oriented Concurrency](https://dl.acm.org/doi/pdf/10.1145/3622852)
 * [2023-10-17, 13:41:37](https://lobste.rs/s/qw15dy/circulant_matrices_eigenvectors_fft) - [Circulant matrices, eigenvectors, and the FFT](https://www.johndcook.com/blog/2023/05/12/circulant-matrices/)
 * [2023-10-17, 13:18:10](https://lobste.rs/s/qgjisu/software_engineering_is_about_thinking) - [Software engineering is about thinking, not typing](https://jordankaye.dev/posts/thinking-not-typing/)
@@ -12,7 +13,6 @@
 * [2023-10-16, 21:59:21](https://lobste.rs/s/aax70v/measuring_smartphone_slow_mo) - [Measuring smartphone slow-mo](https://www.thregr.org/wavexx/rnd/20231015-measuring_smartphone_slowmo/)
 * [2023-10-16, 21:42:53](https://lobste.rs/s/3mwpfh/estimates_are_about_time_so_let_s_cut_chase) - [Estimates are about time, so let's cut to the chase](https://ntietz.com/blog/estimate-in-time/)
 * [2023-10-16, 18:42:09](https://lobste.rs/s/2gucvh/websockets_shaping_real_time) - [WebSockets: Shaping Real-time Communication](https://medium.com/@atakanserbes/websockets-shaping-real-time-communication-a216f79f9ef4)
-* [2023-10-16, 16:52:31](https://lobste.rs/s/cwp7j0/advanced_fuzzing_unmasks_elusive) - [Advanced fuzzing unmasks elusive vulnerabilities](https://www.srlabs.de/blog-post/advanced-fuzzing-unmasks-elusive-vulnerabilities)
 * [2023-10-16, 16:44:28](https://lobste.rs/s/q4shkq/guile_hoot_v0_1_0_released) - [Guile Hoot v0.1.0 released](https://spritely.institute/news/guile-hoot-v010-released.html)
 * [2023-10-16, 16:10:09](https://lobste.rs/s/asadf6/benchmarking_postgres_replication) - [Benchmarking Postgres Replication: PeerDB vs Airbyte](https://blog.peerdb.io/benchmarking-postgres-replication-peerdb-vs-airbyte)
 * [2023-10-16, 15:48:18](https://lobste.rs/s/favot0/2023_image_based_linux_summit) - [The 2023 Image-Based Linux Summit](https://lwn.net/SubscriberLink/946526/a1c7bb28c62c9667/)
