@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-10-17](index.md)
 
+* [2023-10-17, 03:34:44](https://lobste.rs/s/d1piz2/bb_3_3_is_hard) - [BB(3, 3) is Hard](https://www.sligocki.com/2023/10/16/bb-3-3-is-hard.html)
 * [2023-10-17, 02:49:02](https://lobste.rs/s/yleuhp/patat_terminal_based_presentations) - [patat: Terminal-based presentations using Pandoc](https://github.com/jaspervdj/patat)
