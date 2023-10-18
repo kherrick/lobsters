@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-18, 16:05:04",
+      "https://lobste.rs/s/oyqonl/browser_based_simulator_for_petoi_bittle"
+    ],
+    [
+      "Browser-based simulator for Petoi Bittle robot dog",
+      "https://grgv.xyz/blog/bittle/"
+    ]
+  ],
+  [
+    [
       "2023-10-18, 15:17:58",
       "https://lobste.rs/s/gl5v6g/sat_requires_exhaustive_search"
     ],
@@ -237,16 +247,6 @@
     [
       "patat: Terminal-based presentations using Pandoc",
       "https://github.com/jaspervdj/patat"
-    ]
-  ],
-  [
-    [
-      "2023-10-16, 16:44:28",
-      "https://lobste.rs/s/q4shkq/guile_hoot_v0_1_0_released"
-    ],
-    [
-      "Guile Hoot v0.1.0 released",
-      "https://spritely.institute/news/guile-hoot-v010-released.html"
     ]
   ]
 ]
