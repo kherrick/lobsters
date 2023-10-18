@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-18, 08:22:30](https://lobste.rs/s/oyhndj/price_managed_cloud_services) - [The price of managed cloud services](https://world.hey.com/dhh/the-price-of-managed-cloud-services-4f33d67e)
 * [2023-10-18, 06:05:57](https://lobste.rs/s/yeoznk/localization_failure_temperature_is) - [Localization Failure: Temperature is Hard](https://randomascii.wordpress.com/2023/10/17/localization-failure-temperature-is-hard/)
 * [2023-10-18, 03:45:40](https://lobste.rs/s/hpofva/maximizing_your_24_2006_imac_with_egpu) - [Maximizing your 24″ 2006 iMac with an eGPU, Yosemite, and a replacement screen](https://lowendmac.com/2023/maximizing-your-24-2006-imac-with-an-egpu-yosemite-and-a-replacement-screen/)
 * [2023-10-18, 03:22:47](https://lobste.rs/s/6igvvg/story_ai_graphics_at_jetbrains) - [The Story of AI Graphics at JetBrains](https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/)
@@ -19,7 +20,6 @@
 * [2023-10-17, 02:49:02](https://lobste.rs/s/yleuhp/patat_terminal_based_presentations) - [patat: Terminal-based presentations using Pandoc](https://github.com/jaspervdj/patat)
 * [2023-10-16, 23:27:19](https://lobste.rs/s/kfdrwh/object_oriented_pre_compiler_1983) - [The object oriented pre-compiler (1983)](https://dl.acm.org/doi/pdf/10.1145/948093.948095)
 * [2023-10-16, 21:59:21](https://lobste.rs/s/aax70v/measuring_smartphone_slow_mo) - [Measuring smartphone slow-mo](https://www.thregr.org/wavexx/rnd/20231015-measuring_smartphone_slowmo/)
-* [2023-10-16, 21:42:53](https://lobste.rs/s/3mwpfh/estimates_are_about_time_so_let_s_cut_chase) - [Estimates are about time, so let's cut to the chase](https://ntietz.com/blog/estimate-in-time/)
 * [2023-10-16, 16:44:28](https://lobste.rs/s/q4shkq/guile_hoot_v0_1_0_released) - [Guile Hoot v0.1.0 released](https://spritely.institute/news/guile-hoot-v010-released.html)
 * [2023-10-16, 15:38:25](https://lobste.rs/s/f3pc46/pgbouncer_1_21_0_one_with_prepared) - [PgBouncer 1.21.0  -  \"The one with prepared statements\"](https://github.com/pgbouncer/pgbouncer/releases/tag/pgbouncer_1_21_0)
 * [2023-10-16, 13:42:30](https://lobste.rs/s/m4mzyx/better_http_server_routing_go_1_22) - [Better HTTP server routing in Go 1.22](https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/)
