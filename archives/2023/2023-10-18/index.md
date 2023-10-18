@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
+* [2023-10-18, 16:05:04](https://lobste.rs/s/oyqonl/browser_based_simulator_for_petoi_bittle) - [Browser-based simulator for Petoi Bittle robot dog](https://grgv.xyz/blog/bittle/)
 * [2023-10-18, 15:17:58](https://lobste.rs/s/gl5v6g/sat_requires_exhaustive_search) - [SAT Requires Exhaustive Search](https://arxiv.org/abs/2302.09512)
 * [2023-10-18, 14:58:17](https://lobste.rs/s/u93vwb/some_concerns_with_openpubkey) - [Some concerns with OpenPubKey](https://blog.yossarian.net/2023/10/18/Some-concerns-with-OpenPubKey)
 * [2023-10-18, 14:57:04](https://lobste.rs/s/jolp3l/introducing_ruvy) - [Introducing Ruvy](https://shopify.engineering/introducing-ruvy)
