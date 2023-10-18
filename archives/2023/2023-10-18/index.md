@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
+* [2023-10-18, 17:30:23](https://lobste.rs/s/byxavv/bpf_tailcalls) - [BPF tailcalls](https://engineering.aviatrix.com/bpf-tailcalls-8ef4273747a5)
 * [2023-10-18, 17:05:16](https://lobste.rs/s/rvl9yh/verifying_selection_sort_introduction) - [Verifying Selection Sort: an Introduction to Program Verification in Dafny](https://dafny.org/blog/2023/10/11/insertion-sort/)
 * [2023-10-18, 17:03:35](https://lobste.rs/s/kpntlr/llemma_open_language_model_for) - [Llemma: An Open Language Model For Mathematics](https://blog.eleuther.ai/llemma/)
 * [2023-10-18, 16:05:04](https://lobste.rs/s/oyqonl/browser_based_simulator_for_petoi_bittle) - [Browser-based simulator for Petoi Bittle robot dog](https://grgv.xyz/blog/bittle/)
