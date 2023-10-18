@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
+* [2023-10-18, 13:43:33](https://lobste.rs/s/srthgr/road_hell_is_paved_with_good_intentions_c) - [The road to hell is paved with good intentions and C++ modules](https://nibblestew.blogspot.com/2023/10/the-road-to-hell-is-paved-with-good.html)
+* [2023-10-18, 13:40:12](https://lobste.rs/s/ggqwxt/chrome_support_for_passkeys_icloud) - [Chrome support for passkeys in iCloud Keychain](https://www.imperialviolet.org/2023/10/18/icloudkeychain.html)
 * [2023-10-18, 13:28:20](https://lobste.rs/s/yj8lht/racket_fork_chez_scheme_merging_with) - [Racket fork of Chez Scheme merging with mainline Chez](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)
 * [2023-10-18, 08:22:30](https://lobste.rs/s/oyhndj/price_managed_cloud_services) - [The price of managed cloud services](https://world.hey.com/dhh/the-price-of-managed-cloud-services-4f33d67e)
 * [2023-10-18, 06:05:57](https://lobste.rs/s/yeoznk/localization_failure_temperature_is) - [Localization Failure: Temperature is Hard](https://randomascii.wordpress.com/2023/10/17/localization-failure-temperature-is-hard/)

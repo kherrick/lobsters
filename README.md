@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-18, 13:43:33](https://lobste.rs/s/srthgr/road_hell_is_paved_with_good_intentions_c) - [The road to hell is paved with good intentions and C++ modules](https://nibblestew.blogspot.com/2023/10/the-road-to-hell-is-paved-with-good.html)
+* [2023-10-18, 13:40:12](https://lobste.rs/s/ggqwxt/chrome_support_for_passkeys_icloud) - [Chrome support for passkeys in iCloud Keychain](https://www.imperialviolet.org/2023/10/18/icloudkeychain.html)
 * [2023-10-18, 13:28:20](https://lobste.rs/s/yj8lht/racket_fork_chez_scheme_merging_with) - [Racket fork of Chez Scheme merging with mainline Chez](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)
 * [2023-10-18, 08:22:30](https://lobste.rs/s/oyhndj/price_managed_cloud_services) - [The price of managed cloud services](https://world.hey.com/dhh/the-price-of-managed-cloud-services-4f33d67e)
 * [2023-10-18, 06:05:57](https://lobste.rs/s/yeoznk/localization_failure_temperature_is) - [Localization Failure: Temperature is Hard](https://randomascii.wordpress.com/2023/10/17/localization-failure-temperature-is-hard/)
@@ -22,8 +24,6 @@
 * [2023-10-17, 02:49:02](https://lobste.rs/s/yleuhp/patat_terminal_based_presentations) - [patat: Terminal-based presentations using Pandoc](https://github.com/jaspervdj/patat)
 * [2023-10-16, 21:59:21](https://lobste.rs/s/aax70v/measuring_smartphone_slow_mo) - [Measuring smartphone slow-mo](https://www.thregr.org/wavexx/rnd/20231015-measuring_smartphone_slowmo/)
 * [2023-10-16, 16:44:28](https://lobste.rs/s/q4shkq/guile_hoot_v0_1_0_released) - [Guile Hoot v0.1.0 released](https://spritely.institute/news/guile-hoot-v010-released.html)
-* [2023-10-16, 13:42:30](https://lobste.rs/s/m4mzyx/better_http_server_routing_go_1_22) - [Better HTTP server routing in Go 1.22](https://eli.thegreenplace.net/2023/better-http-server-routing-in-go-122/)
-* [2023-10-16, 13:19:24](https://lobste.rs/s/nxyygh/openbsd_7_4_released_oct_16_2023) - [OpenBSD 7.4 released -- Oct 16, 2023](https://marc.info/?l=openbsd-announce&m=169746103423179&w=2)
 * [2023-10-16, 11:24:21](https://lobste.rs/s/tsyeqw/state_ruby_http_clients_why_you_should_use) - [The state of ruby HTTP clients, or why you should use httpx](https://honeyryderchuck.gitlab.io/2023/10/15/state-of-ruby-http-clients-use-httpx.html)
 
 ## [Archives](archives/index.md)
