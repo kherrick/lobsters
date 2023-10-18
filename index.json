@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-18, 14:58:17",
+      "https://lobste.rs/s/u93vwb/some_concerns_with_openpubkey"
+    ],
+    [
+      "Some concerns with OpenPubKey",
+      "https://blog.yossarian.net/2023/10/18/Some-concerns-with-OpenPubKey"
+    ]
+  ],
+  [
+    [
+      "2023-10-18, 14:57:04",
+      "https://lobste.rs/s/jolp3l/introducing_ruvy"
+    ],
+    [
+      "Introducing Ruvy",
+      "https://shopify.engineering/introducing-ruvy"
+    ]
+  ],
+  [
+    [
       "2023-10-18, 13:43:33",
       "https://lobste.rs/s/srthgr/road_hell_is_paved_with_good_intentions_c"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-10-17, 13:41:37",
-      "https://lobste.rs/s/qw15dy/circulant_matrices_eigenvectors_fft"
-    ],
-    [
-      "Circulant matrices, eigenvectors, and the FFT",
-      "https://www.johndcook.com/blog/2023/05/12/circulant-matrices/"
-    ]
-  ],
-  [
-    [
       "2023-10-17, 13:18:10",
       "https://lobste.rs/s/qgjisu/software_engineering_is_about_thinking"
     ],
@@ -217,16 +227,6 @@
     [
       "patat: Terminal-based presentations using Pandoc",
       "https://github.com/jaspervdj/patat"
-    ]
-  ],
-  [
-    [
-      "2023-10-16, 21:59:21",
-      "https://lobste.rs/s/aax70v/measuring_smartphone_slow_mo"
-    ],
-    [
-      "Measuring smartphone slow-mo",
-      "https://www.thregr.org/wavexx/rnd/20231015-measuring_smartphone_slowmo/"
     ]
   ],
   [
