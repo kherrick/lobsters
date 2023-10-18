@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-18, 17:30:23",
+      "https://lobste.rs/s/byxavv/bpf_tailcalls"
+    ],
+    [
+      "BPF tailcalls",
+      "https://engineering.aviatrix.com/bpf-tailcalls-8ef4273747a5"
+    ]
+  ],
+  [
+    [
       "2023-10-18, 17:05:16",
       "https://lobste.rs/s/rvl9yh/verifying_selection_sort_introduction"
     ],
@@ -167,16 +177,6 @@
     [
       "Surfacing request errors when using HTMX",
       "https://xvello.net/blog/htmx-error-handling/"
-    ]
-  ],
-  [
-    [
-      "2023-10-17, 19:19:10",
-      "https://lobste.rs/s/expadj/better_rails_forms_with_superform"
-    ],
-    [
-      "Better Rails Forms with Superform",
-      "https://fly.io/ruby-dispatch/better-rails-forms-with-superform/"
     ]
   ],
   [
