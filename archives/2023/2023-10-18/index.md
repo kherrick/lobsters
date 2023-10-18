@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-18](index.md)
 
+* [2023-10-18, 14:58:17](https://lobste.rs/s/u93vwb/some_concerns_with_openpubkey) - [Some concerns with OpenPubKey](https://blog.yossarian.net/2023/10/18/Some-concerns-with-OpenPubKey)
+* [2023-10-18, 14:57:04](https://lobste.rs/s/jolp3l/introducing_ruvy) - [Introducing Ruvy](https://shopify.engineering/introducing-ruvy)
 * [2023-10-18, 13:43:33](https://lobste.rs/s/srthgr/road_hell_is_paved_with_good_intentions_c) - [The road to hell is paved with good intentions and C++ modules](https://nibblestew.blogspot.com/2023/10/the-road-to-hell-is-paved-with-good.html)
 * [2023-10-18, 13:40:12](https://lobste.rs/s/ggqwxt/chrome_support_for_passkeys_icloud) - [Chrome support for passkeys in iCloud Keychain](https://www.imperialviolet.org/2023/10/18/icloudkeychain.html)
 * [2023-10-18, 13:28:20](https://lobste.rs/s/yj8lht/racket_fork_chez_scheme_merging_with) - [Racket fork of Chez Scheme merging with mainline Chez](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)

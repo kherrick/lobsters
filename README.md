@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-18, 14:58:17](https://lobste.rs/s/u93vwb/some_concerns_with_openpubkey) - [Some concerns with OpenPubKey](https://blog.yossarian.net/2023/10/18/Some-concerns-with-OpenPubKey)
+* [2023-10-18, 14:57:04](https://lobste.rs/s/jolp3l/introducing_ruvy) - [Introducing Ruvy](https://shopify.engineering/introducing-ruvy)
 * [2023-10-18, 13:43:33](https://lobste.rs/s/srthgr/road_hell_is_paved_with_good_intentions_c) - [The road to hell is paved with good intentions and C++ modules](https://nibblestew.blogspot.com/2023/10/the-road-to-hell-is-paved-with-good.html)
 * [2023-10-18, 13:40:12](https://lobste.rs/s/ggqwxt/chrome_support_for_passkeys_icloud) - [Chrome support for passkeys in iCloud Keychain](https://www.imperialviolet.org/2023/10/18/icloudkeychain.html)
 * [2023-10-18, 13:28:20](https://lobste.rs/s/yj8lht/racket_fork_chez_scheme_merging_with) - [Racket fork of Chez Scheme merging with mainline Chez](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)
@@ -16,13 +18,11 @@
 * [2023-10-17, 16:49:19](https://lobste.rs/s/c4ydj0/which_interpreters_are_faster_ast) - [Which Interpreters are Faster, AST or Bytecode?](https://stefan-marr.de/2023/10/ast-vs-bytecode-interpreters/)
 * [2023-10-17, 15:46:56](https://lobste.rs/s/zblzci/c_mario_cube_humor) - [The C / Mario cube [humor]](https://computerfairi.es/@quirk/111075724750894983)
 * [2023-10-17, 14:24:09](https://lobste.rs/s/64eywc/when_concurrency_matters_behaviour) - [When Concurrency Matters: Behaviour-Oriented Concurrency](https://dl.acm.org/doi/pdf/10.1145/3622852)
-* [2023-10-17, 13:41:37](https://lobste.rs/s/qw15dy/circulant_matrices_eigenvectors_fft) - [Circulant matrices, eigenvectors, and the FFT](https://www.johndcook.com/blog/2023/05/12/circulant-matrices/)
 * [2023-10-17, 13:18:10](https://lobste.rs/s/qgjisu/software_engineering_is_about_thinking) - [Software engineering is about thinking, not typing](https://jordankaye.dev/posts/thinking-not-typing/)
 * [2023-10-17, 12:38:23](https://lobste.rs/s/jlcndh/getaddrinfo_on_glibc_calls_getenv_oh_boy) - [getaddrinfo() on glibc calls getenv(), oh boy](https://rachelbythebay.com/w/2023/10/16/env/)
 * [2023-10-17, 07:45:48](https://lobste.rs/s/h82ncs/fluid_simulation) - [Fluid Simulation](https://kyndinfo.notion.site/Fluid-Simulation-f0516d9d12e245a08ae5c7545ac822dd)
 * [2023-10-17, 03:34:44](https://lobste.rs/s/d1piz2/bb_3_3_is_hard) - [BB(3, 3) is Hard](https://www.sligocki.com/2023/10/16/bb-3-3-is-hard.html)
 * [2023-10-17, 02:49:02](https://lobste.rs/s/yleuhp/patat_terminal_based_presentations) - [patat: Terminal-based presentations using Pandoc](https://github.com/jaspervdj/patat)
-* [2023-10-16, 21:59:21](https://lobste.rs/s/aax70v/measuring_smartphone_slow_mo) - [Measuring smartphone slow-mo](https://www.thregr.org/wavexx/rnd/20231015-measuring_smartphone_slowmo/)
 * [2023-10-16, 16:44:28](https://lobste.rs/s/q4shkq/guile_hoot_v0_1_0_released) - [Guile Hoot v0.1.0 released](https://spritely.institute/news/guile-hoot-v010-released.html)
 * [2023-10-16, 11:24:21](https://lobste.rs/s/tsyeqw/state_ruby_http_clients_why_you_should_use) - [The state of ruby HTTP clients, or why you should use httpx](https://honeyryderchuck.gitlab.io/2023/10/15/state-of-ruby-http-clients-use-httpx.html)
 
