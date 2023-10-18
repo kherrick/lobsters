@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-18, 15:17:58](https://lobste.rs/s/gl5v6g/sat_requires_exhaustive_search) - [SAT Requires Exhaustive Search](https://arxiv.org/abs/2302.09512)
 * [2023-10-18, 14:58:17](https://lobste.rs/s/u93vwb/some_concerns_with_openpubkey) - [Some concerns with OpenPubKey](https://blog.yossarian.net/2023/10/18/Some-concerns-with-OpenPubKey)
 * [2023-10-18, 14:57:04](https://lobste.rs/s/jolp3l/introducing_ruvy) - [Introducing Ruvy](https://shopify.engineering/introducing-ruvy)
 * [2023-10-18, 13:43:33](https://lobste.rs/s/srthgr/road_hell_is_paved_with_good_intentions_c) - [The road to hell is paved with good intentions and C++ modules](https://nibblestew.blogspot.com/2023/10/the-road-to-hell-is-paved-with-good.html)
@@ -24,7 +25,6 @@
 * [2023-10-17, 03:34:44](https://lobste.rs/s/d1piz2/bb_3_3_is_hard) - [BB(3, 3) is Hard](https://www.sligocki.com/2023/10/16/bb-3-3-is-hard.html)
 * [2023-10-17, 02:49:02](https://lobste.rs/s/yleuhp/patat_terminal_based_presentations) - [patat: Terminal-based presentations using Pandoc](https://github.com/jaspervdj/patat)
 * [2023-10-16, 16:44:28](https://lobste.rs/s/q4shkq/guile_hoot_v0_1_0_released) - [Guile Hoot v0.1.0 released](https://spritely.institute/news/guile-hoot-v010-released.html)
-* [2023-10-16, 11:24:21](https://lobste.rs/s/tsyeqw/state_ruby_http_clients_why_you_should_use) - [The state of ruby HTTP clients, or why you should use httpx](https://honeyryderchuck.gitlab.io/2023/10/15/state-of-ruby-http-clients-use-httpx.html)
 
 ## [Archives](archives/index.md)
 
