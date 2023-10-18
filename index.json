@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2023-10-17, 13:41:37",
+      "https://lobste.rs/s/qw15dy/circulant_matrices_eigenvectors_fft"
+    ],
+    [
+      "Circulant matrices, eigenvectors, and the FFT",
+      "https://www.johndcook.com/blog/2023/05/12/circulant-matrices/"
+    ]
+  ],
+  [
+    [
       "2023-10-17, 13:18:10",
       "https://lobste.rs/s/qgjisu/software_engineering_is_about_thinking"
     ],
@@ -207,16 +217,6 @@
     [
       "Guile Hoot v0.1.0 released",
       "https://spritely.institute/news/guile-hoot-v010-released.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-16, 15:38:25",
-      "https://lobste.rs/s/f3pc46/pgbouncer_1_21_0_one_with_prepared"
-    ],
-    [
-      "PgBouncer 1.21.0  -  \"The one with prepared statements\"",
-      "https://github.com/pgbouncer/pgbouncer/releases/tag/pgbouncer_1_21_0"
     ]
   ],
   [
