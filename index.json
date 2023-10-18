@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-18, 13:28:20",
+      "https://lobste.rs/s/yj8lht/racket_fork_chez_scheme_merging_with"
+    ],
+    [
+      "Racket fork of Chez Scheme merging with mainline Chez",
+      "https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU"
+    ]
+  ],
+  [
+    [
       "2023-10-18, 08:22:30",
       "https://lobste.rs/s/oyhndj/price_managed_cloud_services"
     ],
@@ -187,16 +197,6 @@
     [
       "patat: Terminal-based presentations using Pandoc",
       "https://github.com/jaspervdj/patat"
-    ]
-  ],
-  [
-    [
-      "2023-10-16, 23:27:19",
-      "https://lobste.rs/s/kfdrwh/object_oriented_pre_compiler_1983"
-    ],
-    [
-      "The object oriented pre-compiler (1983)",
-      "https://dl.acm.org/doi/pdf/10.1145/948093.948095"
     ]
   ],
   [
