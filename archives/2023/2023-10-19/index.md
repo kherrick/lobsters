@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 10:14:27](https://lobste.rs/s/igt4ez/10_year_anniversary_healthcare_gov) - [The 10 Year Anniversary of the HealthCare.gov Rescue](https://www.pauladamsmith.com/blog/2023/10/the-10-year-anniversary-of-the-healthcare.gov-rescue.html)
 * [2023-10-19, 09:52:19](https://lobste.rs/s/xfew6z/google_hosted_malvertising_leads_fake) - [Google-hosted malvertising leads to fake Keepass site that looks genuine](https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine/)
 * [2023-10-19, 09:20:46](https://lobste.rs/s/r401mk/rama_demo_gallery_collection_short_self) - [Rama Demo Gallery: Collection of short, self-contained, thoroughly commented demos](https://github.com/redplanetlabs/rama-demo-gallery)
 * [2023-10-19, 09:00:50](https://lobste.rs/s/28vqht/what_every_developer_should_know_about) - [What Every Developer Should Know About GPU Computing](https://codeconfessions.substack.com/p/gpu-computing)
