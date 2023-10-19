@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 18:18:10](https://lobste.rs/s/wdqpcw/just_paying_figma_15_month_because) - [Just paying Figma $15/month because nothing else fucking works](https://fasterthanli.me/articles/just-paying-figma-15-dollars)
 * [2023-10-19, 16:46:02](https://lobste.rs/s/pexfuh/we_have_talk_about_flask) - [We Have To Talk About Flask](https://blog.miguelgrinberg.com/post/we-have-to-talk-about-flask)
 * [2023-10-19, 16:38:45](https://lobste.rs/s/3c51ia/implementing_gpu_s_programming_model_on) - [Implementing a GPU's Programming Model on a CPU](http://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
 * [2023-10-19, 14:48:16](https://lobste.rs/s/quptjd/origins_idle_scan_antirez) - [The origins of the Idle Scan - <antirez>](http://antirez.com/news/139)

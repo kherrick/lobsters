@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-19, 18:18:10](https://lobste.rs/s/wdqpcw/just_paying_figma_15_month_because) - [Just paying Figma $15/month because nothing else fucking works](https://fasterthanli.me/articles/just-paying-figma-15-dollars)
 * [2023-10-19, 16:46:02](https://lobste.rs/s/pexfuh/we_have_talk_about_flask) - [We Have To Talk About Flask](https://blog.miguelgrinberg.com/post/we-have-to-talk-about-flask)
 * [2023-10-19, 16:38:45](https://lobste.rs/s/3c51ia/implementing_gpu_s_programming_model_on) - [Implementing a GPU's Programming Model on a CPU](http://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
 * [2023-10-19, 14:48:16](https://lobste.rs/s/quptjd/origins_idle_scan) - [The origins of the Idle Scan](http://antirez.com/news/139)
@@ -16,7 +17,6 @@
 * [2023-10-19, 01:25:36](https://lobste.rs/s/c90ird/write_more_useless_software) - [Write more \"useless\" software](https://ntietz.com/blog/write-more-useless-software/)
 * [2023-10-18, 17:30:23](https://lobste.rs/s/byxavv/bpf_tailcalls) - [BPF tailcalls](https://engineering.aviatrix.com/bpf-tailcalls-8ef4273747a5)
 * [2023-10-18, 17:03:35](https://lobste.rs/s/kpntlr/llemma_open_language_model_for) - [Llemma: An Open Language Model For Mathematics](https://blog.eleuther.ai/llemma/)
-* [2023-10-18, 16:05:04](https://lobste.rs/s/oyqonl/browser_based_simulator_for_petoi_bittle) - [Browser-based simulator for Petoi Bittle robot dog](https://grgv.xyz/blog/bittle/)
 * [2023-10-18, 14:58:17](https://lobste.rs/s/u93vwb/some_concerns_with_openpubkey) - [Some concerns with OpenPubKey](https://blog.yossarian.net/2023/10/18/Some-concerns-with-OpenPubKey)
 * [2023-10-18, 14:57:04](https://lobste.rs/s/jolp3l/introducing_ruvy) - [Introducing Ruvy](https://shopify.engineering/introducing-ruvy)
 * [2023-10-18, 13:43:33](https://lobste.rs/s/srthgr/road_hell_is_paved_with_good_intentions_c) - [The road to hell is paved with good intentions and C++ modules](https://nibblestew.blogspot.com/2023/10/the-road-to-hell-is-paved-with-good.html)
