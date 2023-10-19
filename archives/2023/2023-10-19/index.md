@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 19:46:46](https://lobste.rs/s/yic12j/using_temporal_scale_data) - [Using Temporal to Scale Data Synchronization at PeerDB](https://blog.peerdb.io/using-temporal-to-scale-data-synchronization-at-peerdb)
 * [2023-10-19, 19:34:14](https://lobste.rs/s/yirhoo/conversing_with_vulnerabilities_ai) - [Conversing with Vulnerabilities: AI-Assisted CVE Search](https://scorpil.com/post/conversing-with-vulnerabilities-ai-cve-search/)
 * [2023-10-19, 19:30:41](https://lobste.rs/s/pl5eku/what_we_talk_about_when_we_talk_about) - [What we talk about when we talk about monads: a framework for understanding programming concepts](https://arxiv.org/ftp/arxiv/papers/1803/1803.10195.pdf)
 * [2023-10-19, 19:23:24](https://lobste.rs/s/ewpzjp/banging_errors_go) - [banging errors in go](https://flak.tedunangst.com/post/bango)
