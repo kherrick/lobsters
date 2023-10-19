@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-19, 19:34:14](https://lobste.rs/s/yirhoo/conversing_with_vulnerabilities_ai) - [Conversing with Vulnerabilities: AI-Assisted CVE Search](https://scorpil.com/post/conversing-with-vulnerabilities-ai-cve-search/)
 * [2023-10-19, 19:30:41](https://lobste.rs/s/pl5eku/what_we_talk_about_when_we_talk_about) - [What we talk about when we talk about monads: a framework for understanding programming concepts](https://arxiv.org/ftp/arxiv/papers/1803/1803.10195.pdf)
 * [2023-10-19, 19:23:24](https://lobste.rs/s/ewpzjp/banging_errors_go) - [banging errors in go](https://flak.tedunangst.com/post/bango)
 * [2023-10-19, 18:18:10](https://lobste.rs/s/wdqpcw/just_paying_figma_15_month_because) - [Just paying Figma $15/month because nothing else fucking works](https://fasterthanli.me/articles/just-paying-figma-15-dollars)
@@ -24,7 +25,6 @@
 * [2023-10-18, 13:43:33](https://lobste.rs/s/srthgr/road_hell_is_paved_with_good_intentions_c) - [The road to hell is paved with good intentions and C++ modules](https://nibblestew.blogspot.com/2023/10/the-road-to-hell-is-paved-with-good.html)
 * [2023-10-18, 13:28:20](https://lobste.rs/s/yj8lht/racket_fork_chez_scheme_merging_with) - [Racket fork of Chez Scheme merging with mainline Chez](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)
 * [2023-10-18, 08:22:30](https://lobste.rs/s/oyhndj/price_managed_cloud_services) - [The price of managed cloud services](https://world.hey.com/dhh/the-price-of-managed-cloud-services-4f33d67e)
-* [2023-10-17, 20:34:41](https://lobste.rs/s/iltket/surfacing_request_errors_when_using_htmx) - [Surfacing request errors when using HTMX](https://xvello.net/blog/htmx-error-handling/)
 
 ## [Archives](archives/index.md)
 
