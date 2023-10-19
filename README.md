@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-19, 07:16:55](https://lobste.rs/s/bppb0i/cfr_extremely_minimal_drawing_language) - [CFR[]: An extremely minimal drawing language consisting of only 5 simple commands: C, F, R, [, and ]](https://susam.net/cfr.html)
 * [2023-10-19, 04:57:02](https://lobste.rs/s/gyr6i1/kona_can_decoding) - [Kona CAN Decoding](https://www.projectgus.com/2023/10/kona-can-decoding/)
 * [2023-10-19, 04:55:27](https://lobste.rs/s/jwavju/for_processing_strings_streams_c_can_be) - [For processing strings, streams in C++ can be slow](https://lemire.me/blog/2023/10/19/for-processing-strings-streams-in-c-can-be-slow/)
 * [2023-10-19, 01:25:36](https://lobste.rs/s/c90ird/write_more_useless_software) - [Write more \"useless\" software](https://ntietz.com/blog/write-more-useless-software/)
@@ -17,7 +18,6 @@
 * [2023-10-18, 06:05:57](https://lobste.rs/s/yeoznk/localization_failure_temperature_is) - [Localization Failure: Temperature is Hard](https://randomascii.wordpress.com/2023/10/17/localization-failure-temperature-is-hard/)
 * [2023-10-18, 03:45:40](https://lobste.rs/s/hpofva/maximizing_your_24_2006_imac_with_egpu) - [Maximizing your 24″ 2006 iMac with an eGPU, Yosemite, and a replacement screen](https://lowendmac.com/2023/maximizing-your-24-2006-imac-with-an-egpu-yosemite-and-a-replacement-screen/)
 * [2023-10-18, 03:22:47](https://lobste.rs/s/6igvvg/story_ai_graphics_at_jetbrains) - [The Story of AI Graphics at JetBrains](https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/)
-* [2023-10-18, 02:39:43](https://lobste.rs/s/cxx6ti/content_credentials) - [Content Credentials](https://contentcredentials.org/)
 * [2023-10-17, 20:41:30](https://lobste.rs/s/yw3m9u/higher_quality_random_floats) - [Higher quality random floats](https://www.corsix.org/content/higher-quality-random-floats)
 * [2023-10-17, 20:34:41](https://lobste.rs/s/iltket/surfacing_request_errors_when_using_htmx) - [Surfacing request errors when using HTMX](https://xvello.net/blog/htmx-error-handling/)
 * [2023-10-17, 19:18:44](https://lobste.rs/s/ict9gg/google_proposes_new_mseal_memory_sealing) - [Google Proposes New mseal() Memory Sealing Syscall For Linux](https://www.phoronix.com/news/Linux-mseal-Memory-Sealing)
