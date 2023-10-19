@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-19, 14:48:16](https://lobste.rs/s/quptjd/origins_idle_scan_antirez) - [The origins of the Idle Scan - <antirez>](http://antirez.com/news/139)
 * [2023-10-19, 11:57:12](https://lobste.rs/s/6ck6of/beyond_mastodon_bluesky_toward_protocol) - [Beyond Mastodon and Bluesky: Toward a Protocol-Agnostic Federation](https://kyefox.com/2023/10/19/beyond-mastodon-and-bluesky-toward-a-protocol-agnostic-federation/)
 * [2023-10-19, 11:05:28](https://lobste.rs/s/i1rxgb/requiem_for_stringref) - [requiem for a stringref](https://wingolog.org/archives/2023/10/19/requiem-for-a-stringref)
 * [2023-10-19, 10:14:27](https://lobste.rs/s/igt4ez/10_year_anniversary_healthcare_gov) - [The 10 Year Anniversary of the HealthCare.gov Rescue](https://www.pauladamsmith.com/blog/2023/10/the-10-year-anniversary-of-the-healthcare.gov-rescue.html)
@@ -15,7 +16,6 @@
 * [2023-10-18, 17:05:16](https://lobste.rs/s/rvl9yh/verifying_selection_sort_introduction) - [Verifying Selection Sort: an Introduction to Program Verification in Dafny](https://dafny.org/blog/2023/10/11/insertion-sort/)
 * [2023-10-18, 17:03:35](https://lobste.rs/s/kpntlr/llemma_open_language_model_for) - [Llemma: An Open Language Model For Mathematics](https://blog.eleuther.ai/llemma/)
 * [2023-10-18, 16:05:04](https://lobste.rs/s/oyqonl/browser_based_simulator_for_petoi_bittle) - [Browser-based simulator for Petoi Bittle robot dog](https://grgv.xyz/blog/bittle/)
-* [2023-10-18, 15:17:58](https://lobste.rs/s/gl5v6g/sat_requires_exhaustive_search) - [SAT Requires Exhaustive Search](https://arxiv.org/abs/2302.09512)
 * [2023-10-18, 14:58:17](https://lobste.rs/s/u93vwb/some_concerns_with_openpubkey) - [Some concerns with OpenPubKey](https://blog.yossarian.net/2023/10/18/Some-concerns-with-OpenPubKey)
 * [2023-10-18, 14:57:04](https://lobste.rs/s/jolp3l/introducing_ruvy) - [Introducing Ruvy](https://shopify.engineering/introducing-ruvy)
 * [2023-10-18, 13:43:33](https://lobste.rs/s/srthgr/road_hell_is_paved_with_good_intentions_c) - [The road to hell is paved with good intentions and C++ modules](https://nibblestew.blogspot.com/2023/10/the-road-to-hell-is-paved-with-good.html)

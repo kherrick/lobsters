@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 14:48:16](https://lobste.rs/s/quptjd/origins_idle_scan_antirez) - [The origins of the Idle Scan - <antirez>](http://antirez.com/news/139)
 * [2023-10-19, 12:35:14](https://lobste.rs/s/bsipmp/seizure_warning_bad_apple_played_through) - [[Seizure Warning] Bad Apple, but Played Through AI-generated Paintings](https://youtu.be/E58aMjthQCM)
 * [2023-10-19, 11:57:12](https://lobste.rs/s/6ck6of/beyond_mastodon_bluesky_toward_protocol) - [Beyond Mastodon and Bluesky: Toward a Protocol-Agnostic Federation](https://kyefox.com/2023/10/19/beyond-mastodon-and-bluesky-toward-a-protocol-agnostic-federation/)
 * [2023-10-19, 11:05:28](https://lobste.rs/s/i1rxgb/requiem_for_stringref) - [requiem for a stringref](https://wingolog.org/archives/2023/10/19/requiem-for-a-stringref)
