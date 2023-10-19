@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 19:30:41](https://lobste.rs/s/pl5eku/what_we_talk_about_when_we_talk_about) - [What we talk about when we talk about monads: a framework for understanding programming concepts](https://arxiv.org/ftp/arxiv/papers/1803/1803.10195.pdf)
+* [2023-10-19, 19:23:24](https://lobste.rs/s/ewpzjp/banging_errors_go) - [banging errors in go](https://flak.tedunangst.com/post/bango)
 * [2023-10-19, 18:18:10](https://lobste.rs/s/wdqpcw/just_paying_figma_15_month_because) - [Just paying Figma $15/month because nothing else fucking works](https://fasterthanli.me/articles/just-paying-figma-15-dollars)
 * [2023-10-19, 16:46:02](https://lobste.rs/s/pexfuh/we_have_talk_about_flask) - [We Have To Talk About Flask](https://blog.miguelgrinberg.com/post/we-have-to-talk-about-flask)
 * [2023-10-19, 16:38:45](https://lobste.rs/s/3c51ia/implementing_gpu_s_programming_model_on) - [Implementing a GPU's Programming Model on a CPU](http://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
