@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-19, 08:45:49](https://lobste.rs/s/5tpbxl/state_webassembly_2023) - [The State of WebAssembly 2023](https://blog.scottlogic.com/2023/10/18/the-state-of-webassembly-2023.html)
 * [2023-10-19, 08:02:01](https://lobste.rs/s/kcmszq/i_m_banned_for_life_from_advertising_on) - [I'm banned for life from advertising on Meta. Because I teach Python](https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/)
 * [2023-10-19, 07:16:55](https://lobste.rs/s/bppb0i/cfr_extremely_minimal_drawing_language) - [CFR[]: An extremely minimal drawing language consisting of only 5 simple commands: C, F, R, [, and ]](https://susam.net/cfr.html)
 * [2023-10-19, 04:57:02](https://lobste.rs/s/gyr6i1/kona_can_decoding) - [Kona CAN Decoding](https://www.projectgus.com/2023/10/kona-can-decoding/)
@@ -18,7 +19,6 @@
 * [2023-10-18, 08:22:30](https://lobste.rs/s/oyhndj/price_managed_cloud_services) - [The price of managed cloud services](https://world.hey.com/dhh/the-price-of-managed-cloud-services-4f33d67e)
 * [2023-10-18, 03:45:40](https://lobste.rs/s/hpofva/maximizing_your_24_2006_imac_with_egpu) - [Maximizing your 24″ 2006 iMac with an eGPU, Yosemite, and a replacement screen](https://lowendmac.com/2023/maximizing-your-24-2006-imac-with-an-egpu-yosemite-and-a-replacement-screen/)
 * [2023-10-18, 03:22:47](https://lobste.rs/s/6igvvg/story_ai_graphics_at_jetbrains) - [The Story of AI Graphics at JetBrains](https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/)
-* [2023-10-17, 20:41:30](https://lobste.rs/s/yw3m9u/higher_quality_random_floats) - [Higher quality random floats](https://www.corsix.org/content/higher-quality-random-floats)
 * [2023-10-17, 20:34:41](https://lobste.rs/s/iltket/surfacing_request_errors_when_using_htmx) - [Surfacing request errors when using HTMX](https://xvello.net/blog/htmx-error-handling/)
 * [2023-10-17, 19:18:44](https://lobste.rs/s/ict9gg/google_proposes_new_mseal_memory_sealing) - [Google Proposes New mseal() Memory Sealing Syscall For Linux](https://www.phoronix.com/news/Linux-mseal-Memory-Sealing)
 * [2023-10-17, 16:49:19](https://lobste.rs/s/c4ydj0/which_interpreters_are_faster_ast) - [Which Interpreters are Faster, AST or Bytecode?](https://stefan-marr.de/2023/10/ast-vs-bytecode-interpreters/)
