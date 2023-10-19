@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-19, 19:30:41",
+      "https://lobste.rs/s/pl5eku/what_we_talk_about_when_we_talk_about"
+    ],
+    [
+      "What we talk about when we talk about monads: a framework for understanding programming concepts",
+      "https://arxiv.org/ftp/arxiv/papers/1803/1803.10195.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-10-19, 19:23:24",
+      "https://lobste.rs/s/ewpzjp/banging_errors_go"
+    ],
+    [
+      "banging errors in go",
+      "https://flak.tedunangst.com/post/bango"
+    ]
+  ],
+  [
+    [
       "2023-10-19, 18:18:10",
       "https://lobste.rs/s/wdqpcw/just_paying_figma_15_month_because"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-10-18, 13:40:12",
-      "https://lobste.rs/s/ggqwxt/chrome_support_for_passkeys_icloud"
-    ],
-    [
-      "Chrome support for passkeys in iCloud Keychain",
-      "https://www.imperialviolet.org/2023/10/18/icloudkeychain.html"
-    ]
-  ],
-  [
-    [
       "2023-10-18, 13:28:20",
       "https://lobste.rs/s/yj8lht/racket_fork_chez_scheme_merging_with"
     ],
@@ -237,16 +247,6 @@
     [
       "Surfacing request errors when using HTMX",
       "https://xvello.net/blog/htmx-error-handling/"
-    ]
-  ],
-  [
-    [
-      "2023-10-17, 13:18:10",
-      "https://lobste.rs/s/qgjisu/software_engineering_is_about_thinking"
-    ],
-    [
-      "Software engineering is about thinking, not typing",
-      "https://jordankaye.dev/posts/thinking-not-typing/"
     ]
   ]
 ]
