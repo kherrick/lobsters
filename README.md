@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-19, 09:00:50](https://lobste.rs/s/28vqht/what_every_developer_should_know_about) - [What Every Developer Should Know About GPU Computing](https://codeconfessions.substack.com/p/gpu-computing)
 * [2023-10-19, 08:45:49](https://lobste.rs/s/5tpbxl/state_webassembly_2023) - [The State of WebAssembly 2023](https://blog.scottlogic.com/2023/10/18/the-state-of-webassembly-2023.html)
 * [2023-10-19, 08:02:01](https://lobste.rs/s/kcmszq/i_m_banned_for_life_from_advertising_on) - [I'm banned for life from advertising on Meta. Because I teach Python](https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/)
 * [2023-10-19, 07:16:55](https://lobste.rs/s/bppb0i/cfr_extremely_minimal_drawing_language) - [CFR[]: An extremely minimal drawing language consisting of only 5 simple commands: C, F, R, [, and ]](https://susam.net/cfr.html)
@@ -21,7 +22,6 @@
 * [2023-10-18, 03:22:47](https://lobste.rs/s/6igvvg/story_ai_graphics_at_jetbrains) - [The Story of AI Graphics at JetBrains](https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/)
 * [2023-10-17, 20:34:41](https://lobste.rs/s/iltket/surfacing_request_errors_when_using_htmx) - [Surfacing request errors when using HTMX](https://xvello.net/blog/htmx-error-handling/)
 * [2023-10-17, 19:18:44](https://lobste.rs/s/ict9gg/google_proposes_new_mseal_memory_sealing) - [Google Proposes New mseal() Memory Sealing Syscall For Linux](https://www.phoronix.com/news/Linux-mseal-Memory-Sealing)
-* [2023-10-17, 16:49:19](https://lobste.rs/s/c4ydj0/which_interpreters_are_faster_ast) - [Which Interpreters are Faster, AST or Bytecode?](https://stefan-marr.de/2023/10/ast-vs-bytecode-interpreters/)
 * [2023-10-17, 14:24:09](https://lobste.rs/s/64eywc/when_concurrency_matters_behaviour) - [When Concurrency Matters: Behaviour-Oriented Concurrency](https://dl.acm.org/doi/pdf/10.1145/3622852)
 * [2023-10-17, 13:18:10](https://lobste.rs/s/qgjisu/software_engineering_is_about_thinking) - [Software engineering is about thinking, not typing](https://jordankaye.dev/posts/thinking-not-typing/)
 * [2023-10-17, 12:38:23](https://lobste.rs/s/jlcndh/getaddrinfo_on_glibc_calls_getenv_oh_boy) - [getaddrinfo() on glibc calls getenv(), oh boy](https://rachelbythebay.com/w/2023/10/16/env/)
