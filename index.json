@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-19, 20:11:25",
+      "https://lobste.rs/s/oljudb/cpm65_cp_m_for_6502"
+    ],
+    [
+      "cpm65: CP/M for the 6502",
+      "https://github.com/davidgiven/cpm65"
+    ]
+  ],
+  [
+    [
       "2023-10-19, 19:46:46",
       "https://lobste.rs/s/yic12j/using_temporal_scale_data"
     ],
@@ -117,16 +127,6 @@
     [
       "Google-hosted malvertising leads to fake Keepass site that looks genuine",
       "https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine/"
-    ]
-  ],
-  [
-    [
-      "2023-10-19, 09:20:46",
-      "https://lobste.rs/s/r401mk/rama_demo_gallery_collection_short_self"
-    ],
-    [
-      "Rama Demo Gallery: Collection of short, self-contained, thoroughly commented demos",
-      "https://github.com/redplanetlabs/rama-demo-gallery"
     ]
   ],
   [
