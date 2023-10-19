@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 22:56:24](https://lobste.rs/s/dig9b5/gnome_foundation_hires_professional) - [GNOME Foundation hires 'Professional Shaman' as new Executive Director](https://lunduke.locals.com/post/4740497/gnome-foundation-hires-professional-shaman-as-new-executive-director)
 * [2023-10-19, 20:11:25](https://lobste.rs/s/oljudb/cpm65_cp_m_for_6502) - [cpm65: CP/M for the 6502](https://github.com/davidgiven/cpm65)
 * [2023-10-19, 19:46:46](https://lobste.rs/s/yic12j/using_temporal_scale_data) - [Using Temporal to Scale Data Synchronization at PeerDB](https://blog.peerdb.io/using-temporal-to-scale-data-synchronization-at-peerdb)
 * [2023-10-19, 19:34:14](https://lobste.rs/s/yirhoo/conversing_with_vulnerabilities_ai) - [Conversing with Vulnerabilities: AI-Assisted CVE Search](https://scorpil.com/post/conversing-with-vulnerabilities-ai-cve-search/)
