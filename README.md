@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-19, 16:46:02](https://lobste.rs/s/pexfuh/we_have_talk_about_flask) - [We Have To Talk About Flask](https://blog.miguelgrinberg.com/post/we-have-to-talk-about-flask)
 * [2023-10-19, 16:38:45](https://lobste.rs/s/3c51ia/implementing_gpu_s_programming_model_on) - [Implementing a GPU's Programming Model on a CPU](http://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
 * [2023-10-19, 14:48:16](https://lobste.rs/s/quptjd/origins_idle_scan) - [The origins of the Idle Scan](http://antirez.com/news/139)
 * [2023-10-19, 11:57:12](https://lobste.rs/s/6ck6of/beyond_mastodon_bluesky_toward_protocol) - [Beyond Mastodon and Bluesky: Toward a Protocol-Agnostic Federation](https://kyefox.com/2023/10/19/beyond-mastodon-and-bluesky-toward-a-protocol-agnostic-federation/)
@@ -14,7 +15,6 @@
 * [2023-10-19, 04:55:27](https://lobste.rs/s/jwavju/for_processing_strings_streams_c_can_be) - [For processing strings, streams in C++ can be slow](https://lemire.me/blog/2023/10/19/for-processing-strings-streams-in-c-can-be-slow/)
 * [2023-10-19, 01:25:36](https://lobste.rs/s/c90ird/write_more_useless_software) - [Write more \"useless\" software](https://ntietz.com/blog/write-more-useless-software/)
 * [2023-10-18, 17:30:23](https://lobste.rs/s/byxavv/bpf_tailcalls) - [BPF tailcalls](https://engineering.aviatrix.com/bpf-tailcalls-8ef4273747a5)
-* [2023-10-18, 17:05:16](https://lobste.rs/s/rvl9yh/verifying_selection_sort_introduction) - [Verifying Selection Sort: an Introduction to Program Verification in Dafny](https://dafny.org/blog/2023/10/11/insertion-sort/)
 * [2023-10-18, 17:03:35](https://lobste.rs/s/kpntlr/llemma_open_language_model_for) - [Llemma: An Open Language Model For Mathematics](https://blog.eleuther.ai/llemma/)
 * [2023-10-18, 16:05:04](https://lobste.rs/s/oyqonl/browser_based_simulator_for_petoi_bittle) - [Browser-based simulator for Petoi Bittle robot dog](https://grgv.xyz/blog/bittle/)
 * [2023-10-18, 14:58:17](https://lobste.rs/s/u93vwb/some_concerns_with_openpubkey) - [Some concerns with OpenPubKey](https://blog.yossarian.net/2023/10/18/Some-concerns-with-OpenPubKey)
