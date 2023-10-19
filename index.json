@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-19, 19:46:46",
+      "https://lobste.rs/s/yic12j/using_temporal_scale_data"
+    ],
+    [
+      "Using Temporal to Scale Data Synchronization at PeerDB",
+      "https://blog.peerdb.io/using-temporal-to-scale-data-synchronization-at-peerdb"
+    ]
+  ],
+  [
+    [
       "2023-10-19, 19:34:14",
       "https://lobste.rs/s/yirhoo/conversing_with_vulnerabilities_ai"
     ],
@@ -187,16 +197,6 @@
     [
       "BPF tailcalls",
       "https://engineering.aviatrix.com/bpf-tailcalls-8ef4273747a5"
-    ]
-  ],
-  [
-    [
-      "2023-10-18, 17:03:35",
-      "https://lobste.rs/s/kpntlr/llemma_open_language_model_for"
-    ],
-    [
-      "Llemma: An Open Language Model For Mathematics",
-      "https://blog.eleuther.ai/llemma/"
     ]
   ],
   [
