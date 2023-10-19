@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-10-19, 22:56:24](https://lobste.rs/s/dig9b5/gnome_foundation_hires_professional) - [GNOME Foundation hires 'Professional Shaman' as new Executive Director](https://lunduke.locals.com/post/4740497/gnome-foundation-hires-professional-shaman-as-new-executive-director)
 * [2023-10-19, 20:11:25](https://lobste.rs/s/oljudb/cpm65_cp_m_for_6502) - [cpm65: CP/M for the 6502](https://github.com/davidgiven/cpm65)
 * [2023-10-19, 19:46:46](https://lobste.rs/s/yic12j/using_temporal_scale_data) - [Using Temporal to Scale Data Synchronization at PeerDB](https://blog.peerdb.io/using-temporal-to-scale-data-synchronization-at-peerdb)
 * [2023-10-19, 19:34:14](https://lobste.rs/s/yirhoo/conversing_with_vulnerabilities_ai) - [Conversing with Vulnerabilities: AI-Assisted CVE Search](https://scorpil.com/post/conversing-with-vulnerabilities-ai-cve-search/)
@@ -21,6 +20,7 @@
 * [2023-10-19, 04:55:27](https://lobste.rs/s/jwavju/for_processing_strings_streams_c_can_be) - [For processing strings, streams in C++ can be slow](https://lemire.me/blog/2023/10/19/for-processing-strings-streams-in-c-can-be-slow/)
 * [2023-10-19, 01:25:36](https://lobste.rs/s/c90ird/write_more_useless_software) - [Write more \"useless\" software](https://ntietz.com/blog/write-more-useless-software/)
 * [2023-10-18, 17:30:23](https://lobste.rs/s/byxavv/bpf_tailcalls) - [BPF tailcalls](https://engineering.aviatrix.com/bpf-tailcalls-8ef4273747a5)
+* [2023-10-18, 14:58:17](https://lobste.rs/s/u93vwb/some_concerns_with_openpubkey) - [Some concerns with OpenPubKey](https://blog.yossarian.net/2023/10/18/Some-concerns-with-OpenPubKey)
 * [2023-10-18, 14:57:04](https://lobste.rs/s/jolp3l/introducing_ruvy) - [Introducing Ruvy](https://shopify.engineering/introducing-ruvy)
 * [2023-10-18, 13:43:33](https://lobste.rs/s/srthgr/road_hell_is_paved_with_good_intentions_c) - [The road to hell is paved with good intentions and C++ modules](https://nibblestew.blogspot.com/2023/10/the-road-to-hell-is-paved-with-good.html)
 * [2023-10-18, 13:28:20](https://lobste.rs/s/yj8lht/racket_fork_chez_scheme_merging_with) - [Racket fork of Chez Scheme merging with mainline Chez](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)
