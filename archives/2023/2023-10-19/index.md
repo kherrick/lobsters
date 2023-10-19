@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-19](index.md)
 
+* [2023-10-19, 16:38:45](https://lobste.rs/s/3c51ia/implementing_gpu_s_programming_model_on) - [Implementing a GPU's Programming Model on a CPU](http://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
 * [2023-10-19, 14:48:16](https://lobste.rs/s/quptjd/origins_idle_scan_antirez) - [The origins of the Idle Scan - <antirez>](http://antirez.com/news/139)
 * [2023-10-19, 14:48:16](https://lobste.rs/s/quptjd/origins_idle_scan) - [The origins of the Idle Scan](http://antirez.com/news/139)
 * [2023-10-19, 12:35:14](https://lobste.rs/s/bsipmp/seizure_warning_bad_apple_played_through) - [[Seizure Warning] Bad Apple, but Played Through AI-generated Paintings](https://youtu.be/E58aMjthQCM)

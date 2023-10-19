@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-19, 16:38:45](https://lobste.rs/s/3c51ia/implementing_gpu_s_programming_model_on) - [Implementing a GPU's Programming Model on a CPU](http://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
 * [2023-10-19, 14:48:16](https://lobste.rs/s/quptjd/origins_idle_scan) - [The origins of the Idle Scan](http://antirez.com/news/139)
 * [2023-10-19, 11:57:12](https://lobste.rs/s/6ck6of/beyond_mastodon_bluesky_toward_protocol) - [Beyond Mastodon and Bluesky: Toward a Protocol-Agnostic Federation](https://kyefox.com/2023/10/19/beyond-mastodon-and-bluesky-toward-a-protocol-agnostic-federation/)
 * [2023-10-19, 11:05:28](https://lobste.rs/s/i1rxgb/requiem_for_stringref) - [requiem for a stringref](https://wingolog.org/archives/2023/10/19/requiem-for-a-stringref)
@@ -22,7 +23,6 @@
 * [2023-10-18, 13:40:12](https://lobste.rs/s/ggqwxt/chrome_support_for_passkeys_icloud) - [Chrome support for passkeys in iCloud Keychain](https://www.imperialviolet.org/2023/10/18/icloudkeychain.html)
 * [2023-10-18, 13:28:20](https://lobste.rs/s/yj8lht/racket_fork_chez_scheme_merging_with) - [Racket fork of Chez Scheme merging with mainline Chez](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)
 * [2023-10-18, 08:22:30](https://lobste.rs/s/oyhndj/price_managed_cloud_services) - [The price of managed cloud services](https://world.hey.com/dhh/the-price-of-managed-cloud-services-4f33d67e)
-* [2023-10-18, 03:22:47](https://lobste.rs/s/6igvvg/story_ai_graphics_at_jetbrains) - [The Story of AI Graphics at JetBrains](https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/)
 * [2023-10-17, 20:34:41](https://lobste.rs/s/iltket/surfacing_request_errors_when_using_htmx) - [Surfacing request errors when using HTMX](https://xvello.net/blog/htmx-error-handling/)
 * [2023-10-17, 13:18:10](https://lobste.rs/s/qgjisu/software_engineering_is_about_thinking) - [Software engineering is about thinking, not typing](https://jordankaye.dev/posts/thinking-not-typing/)
 
