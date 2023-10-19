@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-19, 09:20:46](https://lobste.rs/s/r401mk/rama_demo_gallery_collection_short_self) - [Rama Demo Gallery: Collection of short, self-contained, thoroughly commented demos](https://github.com/redplanetlabs/rama-demo-gallery)
 * [2023-10-19, 09:00:50](https://lobste.rs/s/28vqht/what_every_developer_should_know_about) - [What Every Developer Should Know About GPU Computing](https://codeconfessions.substack.com/p/gpu-computing)
 * [2023-10-19, 08:45:49](https://lobste.rs/s/5tpbxl/state_webassembly_2023) - [The State of WebAssembly 2023](https://blog.scottlogic.com/2023/10/18/the-state-of-webassembly-2023.html)
 * [2023-10-19, 08:02:01](https://lobste.rs/s/kcmszq/i_m_banned_for_life_from_advertising_on) - [I'm banned for life from advertising on Meta. Because I teach Python](https://lerner.co.il/2023/10/19/im-banned-for-life-from-advertising-on-meta-because-i-teach-python/)
@@ -18,7 +19,6 @@
 * [2023-10-18, 13:40:12](https://lobste.rs/s/ggqwxt/chrome_support_for_passkeys_icloud) - [Chrome support for passkeys in iCloud Keychain](https://www.imperialviolet.org/2023/10/18/icloudkeychain.html)
 * [2023-10-18, 13:28:20](https://lobste.rs/s/yj8lht/racket_fork_chez_scheme_merging_with) - [Racket fork of Chez Scheme merging with mainline Chez](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)
 * [2023-10-18, 08:22:30](https://lobste.rs/s/oyhndj/price_managed_cloud_services) - [The price of managed cloud services](https://world.hey.com/dhh/the-price-of-managed-cloud-services-4f33d67e)
-* [2023-10-18, 03:45:40](https://lobste.rs/s/hpofva/maximizing_your_24_2006_imac_with_egpu) - [Maximizing your 24″ 2006 iMac with an eGPU, Yosemite, and a replacement screen](https://lowendmac.com/2023/maximizing-your-24-2006-imac-with-an-egpu-yosemite-and-a-replacement-screen/)
 * [2023-10-18, 03:22:47](https://lobste.rs/s/6igvvg/story_ai_graphics_at_jetbrains) - [The Story of AI Graphics at JetBrains](https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/)
 * [2023-10-17, 20:34:41](https://lobste.rs/s/iltket/surfacing_request_errors_when_using_htmx) - [Surfacing request errors when using HTMX](https://xvello.net/blog/htmx-error-handling/)
 * [2023-10-17, 19:18:44](https://lobste.rs/s/ict9gg/google_proposes_new_mseal_memory_sealing) - [Google Proposes New mseal() Memory Sealing Syscall For Linux](https://www.phoronix.com/news/Linux-mseal-Memory-Sealing)
