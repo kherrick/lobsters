@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-19, 04:57:02](https://lobste.rs/s/gyr6i1/kona_can_decoding) - [Kona CAN Decoding](https://www.projectgus.com/2023/10/kona-can-decoding/)
+* [2023-10-19, 04:55:27](https://lobste.rs/s/jwavju/for_processing_strings_streams_c_can_be) - [For processing strings, streams in C++ can be slow](https://lemire.me/blog/2023/10/19/for-processing-strings-streams-in-c-can-be-slow/)
 * [2023-10-19, 01:25:36](https://lobste.rs/s/c90ird/write_more_useless_software) - [Write more \"useless\" software](https://ntietz.com/blog/write-more-useless-software/)
 * [2023-10-18, 17:30:23](https://lobste.rs/s/byxavv/bpf_tailcalls) - [BPF tailcalls](https://engineering.aviatrix.com/bpf-tailcalls-8ef4273747a5)
 * [2023-10-18, 17:05:16](https://lobste.rs/s/rvl9yh/verifying_selection_sort_introduction) - [Verifying Selection Sort: an Introduction to Program Verification in Dafny](https://dafny.org/blog/2023/10/11/insertion-sort/)
@@ -16,7 +18,6 @@
 * [2023-10-18, 03:45:40](https://lobste.rs/s/hpofva/maximizing_your_24_2006_imac_with_egpu) - [Maximizing your 24″ 2006 iMac with an eGPU, Yosemite, and a replacement screen](https://lowendmac.com/2023/maximizing-your-24-2006-imac-with-an-egpu-yosemite-and-a-replacement-screen/)
 * [2023-10-18, 03:22:47](https://lobste.rs/s/6igvvg/story_ai_graphics_at_jetbrains) - [The Story of AI Graphics at JetBrains](https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/)
 * [2023-10-18, 02:39:43](https://lobste.rs/s/cxx6ti/content_credentials) - [Content Credentials](https://contentcredentials.org/)
-* [2023-10-17, 20:44:58](https://lobste.rs/s/74ffsk/use_cppcheck_find_bugs_improve_code) - [Use cppcheck to find bugs and improve code quality (not only for Kile)](https://gruenich.blogspot.com/2023/10/use-cppcheck-to-find-bugs-and-improve.html?m=1)
 * [2023-10-17, 20:41:30](https://lobste.rs/s/yw3m9u/higher_quality_random_floats) - [Higher quality random floats](https://www.corsix.org/content/higher-quality-random-floats)
 * [2023-10-17, 20:34:41](https://lobste.rs/s/iltket/surfacing_request_errors_when_using_htmx) - [Surfacing request errors when using HTMX](https://xvello.net/blog/htmx-error-handling/)
 * [2023-10-17, 19:18:44](https://lobste.rs/s/ict9gg/google_proposes_new_mseal_memory_sealing) - [Google Proposes New mseal() Memory Sealing Syscall For Linux](https://www.phoronix.com/news/Linux-mseal-Memory-Sealing)
@@ -24,7 +25,6 @@
 * [2023-10-17, 14:24:09](https://lobste.rs/s/64eywc/when_concurrency_matters_behaviour) - [When Concurrency Matters: Behaviour-Oriented Concurrency](https://dl.acm.org/doi/pdf/10.1145/3622852)
 * [2023-10-17, 13:18:10](https://lobste.rs/s/qgjisu/software_engineering_is_about_thinking) - [Software engineering is about thinking, not typing](https://jordankaye.dev/posts/thinking-not-typing/)
 * [2023-10-17, 12:38:23](https://lobste.rs/s/jlcndh/getaddrinfo_on_glibc_calls_getenv_oh_boy) - [getaddrinfo() on glibc calls getenv(), oh boy](https://rachelbythebay.com/w/2023/10/16/env/)
-* [2023-10-17, 02:49:02](https://lobste.rs/s/yleuhp/patat_terminal_based_presentations) - [patat: Terminal-based presentations using Pandoc](https://github.com/jaspervdj/patat)
 
 ## [Archives](archives/index.md)
 
