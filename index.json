@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-19, 07:16:55",
+      "https://lobste.rs/s/bppb0i/cfr_extremely_minimal_drawing_language"
+    ],
+    [
+      "CFR[]: An extremely minimal drawing language consisting of only 5 simple commands: C, F, R, [, and ]",
+      "https://susam.net/cfr.html"
+    ]
+  ],
+  [
+    [
       "2023-10-19, 04:57:02",
       "https://lobste.rs/s/gyr6i1/kona_can_decoding"
     ],
@@ -167,16 +177,6 @@
     [
       "The Story of AI Graphics at JetBrains",
       "https://blog.jetbrains.com/blog/2023/10/16/ai-graphics-at-jetbrains-story/"
-    ]
-  ],
-  [
-    [
-      "2023-10-18, 02:39:43",
-      "https://lobste.rs/s/cxx6ti/content_credentials"
-    ],
-    [
-      "Content Credentials",
-      "https://contentcredentials.org/"
     ]
   ],
   [
