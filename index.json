@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-20, 14:55:52",
+      "https://lobste.rs/s/zh3dek/indexing_column_large_postgres_table"
+    ],
+    [
+      "Indexing a column of a large postgres table",
+      "https://lobste.rs/s/zh3dek/indexing_column_large_postgres_table"
+    ]
+  ],
+  [
+    [
       "2023-10-20, 14:33:12",
       "https://lobste.rs/s/xzlptv/speeding_up_cython_with_simd"
     ],
@@ -87,16 +97,6 @@
     [
       "Does Go Have Subtyping?",
       "https://journal.stuffwithstuff.com/2023/10/19/does-go-have-subtyping/"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 01:08:47",
-      "https://lobste.rs/s/iksig7/interleaved_gradient_noise_glsl"
-    ],
-    [
-      "Interleaved Gradient Noise GLSL function used in Call of Duty Advanced Warfare",
-      "https://github.com/FrostKiwi/treasurechest#glsl-radial-background"
     ]
   ],
   [
