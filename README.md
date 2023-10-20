@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-20, 22:44:52](https://lobste.rs/s/kzjv8k/don_t_use_distinct_as_join_fixer) - [Don't use DISTINCT as a \"join-fixer\"](https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/dont-use-distinct-as-a-join-fixer/)
 * [2023-10-20, 22:42:45](https://lobste.rs/s/juupfk/zig_is_now_also_windows_resource_compiler) - [Zig is now also a Windows resource compiler](https://www.ryanliptak.com/blog/zig-is-a-windows-resource-compiler/)
 * [2023-10-20, 21:51:31](https://lobste.rs/s/lho3ao/analyzing_data_180_000x_faster_with_rust) - [Analyzing Data 180,000x Faster with Rust](https://willcrichton.net/notes/k-corrset/)
 * [2023-10-20, 20:31:48](https://lobste.rs/s/yo0lhm/mitigating_hetzner_linode_xmpp_ru_mitm) - [Mitigating the Hetzner/Linode XMPP.ru MitM interception incident](https://www.devever.net/~hl/xmpp-incident)
@@ -23,7 +24,6 @@
 * [2023-10-19, 23:50:34](https://lobste.rs/s/rimkv3/io_uring_basics_writing_file_disk) - [io_uring basics: Writing a file to disk](https://notes.eatonphil.com/2023-10-19-write-file-to-disk-with-io_uring.html)
 * [2023-10-19, 19:23:24](https://lobste.rs/s/ewpzjp/banging_errors_go) - [banging errors in go](https://flak.tedunangst.com/post/bango)
 * [2023-10-19, 16:46:02](https://lobste.rs/s/pexfuh/we_have_talk_about_flask) - [We Have To Talk About Flask](https://blog.miguelgrinberg.com/post/we-have-to-talk-about-flask)
-* [2023-10-19, 10:14:27](https://lobste.rs/s/igt4ez/10_year_anniversary_healthcare_gov) - [The 10 Year Anniversary of the HealthCare.gov Rescue](https://www.pauladamsmith.com/blog/2023/10/the-10-year-anniversary-of-the-healthcare.gov-rescue.html)
 * [2023-10-19, 07:16:55](https://lobste.rs/s/bppb0i/cfr_extremely_minimal_drawing_language) - [CFR[]: An extremely minimal drawing language consisting of only 5 simple commands: C, F, R, [, and ]](https://susam.net/cfr.html)
 
 ## [Archives](archives/index.md)
