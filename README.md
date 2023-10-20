@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-20, 14:55:52](https://lobste.rs/s/zh3dek/indexing_column_large_postgres_table) - [Indexing a column of a large postgres table](https://lobste.rs/s/zh3dek/indexing_column_large_postgres_table)
 * [2023-10-20, 14:33:12](https://lobste.rs/s/xzlptv/speeding_up_cython_with_simd) - [Speeding up Cython with SIMD](https://pythonspeed.com/articles/faster-cython-simd/)
 * [2023-10-20, 14:24:48](https://lobste.rs/s/tpbjqe/kyoto_statement_on_end_end_encryption) - [Kyoto Statement on End-To-End Encryption](https://www.globalencryption.org/2023/10/kyoto-statement-on-end-to-end-encryption/)
 * [2023-10-20, 13:04:25](https://lobste.rs/s/qvyf5k/can_we_make_idiot_proof_infrastructure) - [Can We Make Idiot-Proof Infrastructure pt1?](https://matduggan.com/idiot-proof-infrastructure/)
@@ -9,7 +10,6 @@
 * [2023-10-20, 06:43:23](https://lobste.rs/s/ztdrzq/less_is_more_empirical_study_on) - [Less is More? An Empirical Study on Configuration Issues in Python PyPI Ecosystem](https://arxiv.org/abs/2310.12598)
 * [2023-10-20, 04:24:02](https://lobste.rs/s/fu4liz/apple_s_use_swift_swiftui_ios_17) - [Apple’s use of Swift and SwiftUI in iOS 17](https://blog.timac.org/2023/1019-state-of-swift-and-swiftui-ios17/)
 * [2023-10-20, 03:51:18](https://lobste.rs/s/we7dxu/does_go_have_subtyping) - [Does Go Have Subtyping?](https://journal.stuffwithstuff.com/2023/10/19/does-go-have-subtyping/)
-* [2023-10-20, 01:08:47](https://lobste.rs/s/iksig7/interleaved_gradient_noise_glsl) - [Interleaved Gradient Noise GLSL function used in Call of Duty Advanced Warfare](https://github.com/FrostKiwi/treasurechest#glsl-radial-background)
 * [2023-10-19, 23:50:34](https://lobste.rs/s/rimkv3/io_uring_basics_writing_file_disk) - [io_uring basics: Writing a file to disk](https://notes.eatonphil.com/2023-10-19-write-file-to-disk-with-io_uring.html)
 * [2023-10-19, 20:11:25](https://lobste.rs/s/oljudb/cpm65_cp_m_for_6502) - [cpm65: CP/M for the 6502](https://github.com/davidgiven/cpm65)
 * [2023-10-19, 19:34:14](https://lobste.rs/s/yirhoo/conversing_with_vulnerabilities_ai) - [Conversing with Vulnerabilities: AI-Assisted CVE Search](https://scorpil.com/post/conversing-with-vulnerabilities-ai-cve-search/)
