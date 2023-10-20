@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-20, 20:12:51",
+      "https://lobste.rs/s/gsluwh/bullets_vaguely_silvery_hue"
+    ],
+    [
+      "Bullets of vaguely silvery hue",
+      "https://www.b-list.org/weblog/2023/oct/20/silver/"
+    ]
+  ],
+  [
+    [
+      "2023-10-20, 20:05:08",
+      "https://lobste.rs/s/xuxudj/free_book_with_tips_for_better_pull"
+    ],
+    [
+      "Free book with tips for better Pull Requests and Code Review",
+      "https://github.com/scastiel/book-pr"
+    ]
+  ],
+  [
+    [
       "2023-10-20, 19:49:30",
       "https://lobste.rs/s/yiotbv/some_miscellaneous_git_facts"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-10-19, 18:18:10",
-      "https://lobste.rs/s/wdqpcw/just_paying_figma_15_month_because"
-    ],
-    [
-      "Just paying Figma $15/month because nothing else fucking works",
-      "https://fasterthanli.me/articles/just-paying-figma-15-dollars"
-    ]
-  ],
-  [
-    [
       "2023-10-19, 16:46:02",
       "https://lobste.rs/s/pexfuh/we_have_talk_about_flask"
     ],
@@ -237,16 +247,6 @@
     [
       "CFR[]: An extremely minimal drawing language consisting of only 5 simple commands: C, F, R, [, and ]",
       "https://susam.net/cfr.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-19, 01:25:36",
-      "https://lobste.rs/s/c90ird/write_more_useless_software"
-    ],
-    [
-      "Write more \"useless\" software",
-      "https://ntietz.com/blog/write-more-useless-software/"
     ]
   ]
 ]
