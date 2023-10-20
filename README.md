@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-20, 08:11:27](https://lobste.rs/s/j98vdl/announce_seppo_social_v0_3_invite) - [Announce Seppo.Social v0.3 and invite thoughts from Marcus Rohrmoser on 2023-10-20 (public-swicg@w3.org from October 2023)](https://lists.w3.org/Archives/Public/public-swicg/2023Oct/0079.html)
 * [2023-10-20, 07:44:57](https://lobste.rs/s/3wbr9z/gamedev_lisp_part_1_ecs_metalinguistic) - [Gamedev in Lisp. Part 1: ECS and Metalinguistic Abstraction](https://awkravchuk.itch.io/cl-fast-ecs/devlog/622054/gamedev-in-lisp-part-1-ecs-and-metalinguistic-abstraction)
 * [2023-10-20, 06:43:23](https://lobste.rs/s/ztdrzq/less_is_more_empirical_study_on) - [Less is More? An Empirical Study on Configuration Issues in Python PyPI Ecosystem](https://arxiv.org/abs/2310.12598)
 * [2023-10-20, 04:24:02](https://lobste.rs/s/fu4liz/apple_s_use_swift_swiftui_ios_17) - [Apple’s use of Swift and SwiftUI in iOS 17](https://blog.timac.org/2023/1019-state-of-swift-and-swiftui-ios17/)
@@ -21,7 +22,6 @@
 * [2023-10-19, 09:00:50](https://lobste.rs/s/28vqht/what_every_developer_should_know_about) - [What Every Developer Should Know About GPU Computing](https://codeconfessions.substack.com/p/gpu-computing)
 * [2023-10-19, 08:45:49](https://lobste.rs/s/5tpbxl/state_webassembly_2023) - [The State of WebAssembly 2023](https://blog.scottlogic.com/2023/10/18/the-state-of-webassembly-2023.html)
 * [2023-10-19, 07:16:55](https://lobste.rs/s/bppb0i/cfr_extremely_minimal_drawing_language) - [CFR[]: An extremely minimal drawing language consisting of only 5 simple commands: C, F, R, [, and ]](https://susam.net/cfr.html)
-* [2023-10-19, 04:57:02](https://lobste.rs/s/gyr6i1/kona_can_decoding) - [Kona CAN Decoding](https://www.projectgus.com/2023/10/kona-can-decoding/)
 * [2023-10-19, 04:55:27](https://lobste.rs/s/jwavju/for_processing_strings_streams_c_can_be) - [For processing strings, streams in C++ can be slow](https://lemire.me/blog/2023/10/19/for-processing-strings-streams-in-c-can-be-slow/)
 * [2023-10-19, 01:25:36](https://lobste.rs/s/c90ird/write_more_useless_software) - [Write more \"useless\" software](https://ntietz.com/blog/write-more-useless-software/)
 * [2023-10-18, 13:28:20](https://lobste.rs/s/yj8lht/racket_fork_chez_scheme_merging_with) - [Racket fork of Chez Scheme merging with mainline Chez](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)
