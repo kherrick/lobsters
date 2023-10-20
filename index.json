@@ -12,10 +12,10 @@
   [
     [
       "2023-10-20, 20:31:48",
-      "https://lobste.rs/s/yo0lhm/how_mitigate_hetzner_linode_xmpp_ru_mitm"
+      "https://lobste.rs/s/yo0lhm/mitigating_hetzner_linode_xmpp_ru_mitm"
     ],
     [
-      "How to mitigate the Hetzner/Linode XMPP.ru MitM interception incident",
+      "Mitigating the Hetzner/Linode XMPP.ru MitM interception incident",
       "https://www.devever.net/~hl/xmpp-incident"
     ]
   ],
