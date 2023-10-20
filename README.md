@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-20, 20:12:51](https://lobste.rs/s/gsluwh/bullets_vaguely_silvery_hue) - [Bullets of vaguely silvery hue](https://www.b-list.org/weblog/2023/oct/20/silver/)
+* [2023-10-20, 20:05:08](https://lobste.rs/s/xuxudj/free_book_with_tips_for_better_pull) - [Free book with tips for better Pull Requests and Code Review](https://github.com/scastiel/book-pr)
 * [2023-10-20, 19:49:30](https://lobste.rs/s/yiotbv/some_miscellaneous_git_facts) - [Some miscellaneous git facts](https://jvns.ca/blog/2023/10/20/some-miscellaneous-git-facts/)
 * [2023-10-20, 19:22:39](https://lobste.rs/s/jcduae/flask_its_ecosystem_backwards) - [Flask, its ecosystem, and backwards compatibility](https://pgjones.dev/blog/flask-ecosystem-compatibility-2023/)
 * [2023-10-20, 19:11:29](https://lobste.rs/s/6kbrca/via_solving_100_gb_problem) - [Via: Solving the 100 GB Problem](https://www.youtube.com/watch?v=e5wAn-4e5hQ)
@@ -18,13 +20,11 @@
 * [2023-10-20, 03:51:18](https://lobste.rs/s/we7dxu/does_go_have_subtyping) - [Does Go Have Subtyping?](https://journal.stuffwithstuff.com/2023/10/19/does-go-have-subtyping/)
 * [2023-10-19, 23:50:34](https://lobste.rs/s/rimkv3/io_uring_basics_writing_file_disk) - [io_uring basics: Writing a file to disk](https://notes.eatonphil.com/2023-10-19-write-file-to-disk-with-io_uring.html)
 * [2023-10-19, 19:23:24](https://lobste.rs/s/ewpzjp/banging_errors_go) - [banging errors in go](https://flak.tedunangst.com/post/bango)
-* [2023-10-19, 18:18:10](https://lobste.rs/s/wdqpcw/just_paying_figma_15_month_because) - [Just paying Figma $15/month because nothing else fucking works](https://fasterthanli.me/articles/just-paying-figma-15-dollars)
 * [2023-10-19, 16:46:02](https://lobste.rs/s/pexfuh/we_have_talk_about_flask) - [We Have To Talk About Flask](https://blog.miguelgrinberg.com/post/we-have-to-talk-about-flask)
 * [2023-10-19, 11:05:28](https://lobste.rs/s/i1rxgb/requiem_for_stringref) - [requiem for a stringref](https://wingolog.org/archives/2023/10/19/requiem-for-a-stringref)
 * [2023-10-19, 10:14:27](https://lobste.rs/s/igt4ez/10_year_anniversary_healthcare_gov) - [The 10 Year Anniversary of the HealthCare.gov Rescue](https://www.pauladamsmith.com/blog/2023/10/the-10-year-anniversary-of-the-healthcare.gov-rescue.html)
 * [2023-10-19, 09:52:19](https://lobste.rs/s/xfew6z/google_hosted_malvertising_leads_fake) - [Google-hosted malvertising leads to fake Keepass site that looks genuine](https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine/)
 * [2023-10-19, 07:16:55](https://lobste.rs/s/bppb0i/cfr_extremely_minimal_drawing_language) - [CFR[]: An extremely minimal drawing language consisting of only 5 simple commands: C, F, R, [, and ]](https://susam.net/cfr.html)
-* [2023-10-19, 01:25:36](https://lobste.rs/s/c90ird/write_more_useless_software) - [Write more \"useless\" software](https://ntietz.com/blog/write-more-useless-software/)
 
 ## [Archives](archives/index.md)
 

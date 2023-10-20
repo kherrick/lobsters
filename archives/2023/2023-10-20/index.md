@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
+* [2023-10-20, 20:12:51](https://lobste.rs/s/gsluwh/bullets_vaguely_silvery_hue) - [Bullets of vaguely silvery hue](https://www.b-list.org/weblog/2023/oct/20/silver/)
+* [2023-10-20, 20:05:08](https://lobste.rs/s/xuxudj/free_book_with_tips_for_better_pull) - [Free book with tips for better Pull Requests and Code Review](https://github.com/scastiel/book-pr)
 * [2023-10-20, 19:49:30](https://lobste.rs/s/yiotbv/some_miscellaneous_git_facts) - [Some miscellaneous git facts](https://jvns.ca/blog/2023/10/20/some-miscellaneous-git-facts/)
 * [2023-10-20, 19:22:39](https://lobste.rs/s/jcduae/flask_its_ecosystem_backwards) - [Flask, its ecosystem, and backwards compatibility](https://pgjones.dev/blog/flask-ecosystem-compatibility-2023/)
 * [2023-10-20, 19:11:29](https://lobste.rs/s/6kbrca/via_solving_100_gb_problem) - [Via: Solving the 100 GB Problem](https://www.youtube.com/watch?v=e5wAn-4e5hQ)
