@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
+* [2023-10-20, 10:03:49](https://lobste.rs/s/govkge/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/govkge/what_are_you_doing_this_weekend)
 * [2023-10-20, 08:11:27](https://lobste.rs/s/j98vdl/announce_seppo_social_v0_3_invite) - [Announce Seppo.Social v0.3 and invite thoughts from Marcus Rohrmoser on 2023-10-20 (public-swicg@w3.org from October 2023)](https://lists.w3.org/Archives/Public/public-swicg/2023Oct/0079.html)
 * [2023-10-20, 07:44:57](https://lobste.rs/s/3wbr9z/gamedev_lisp_part_1_ecs_metalinguistic) - [Gamedev in Lisp. Part 1: ECS and Metalinguistic Abstraction](https://awkravchuk.itch.io/cl-fast-ecs/devlog/622054/gamedev-in-lisp-part-1-ecs-and-metalinguistic-abstraction)
 * [2023-10-20, 06:43:23](https://lobste.rs/s/ztdrzq/less_is_more_empirical_study_on) - [Less is More? An Empirical Study on Configuration Issues in Python PyPI Ecosystem](https://arxiv.org/abs/2310.12598)

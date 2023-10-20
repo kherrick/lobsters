@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-20, 10:03:49](https://lobste.rs/s/govkge/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/govkge/what_are_you_doing_this_weekend)
 * [2023-10-20, 08:11:27](https://lobste.rs/s/j98vdl/announce_seppo_social_v0_3_invite) - [Announce Seppo.Social v0.3 and invite thoughts from Marcus Rohrmoser on 2023-10-20 (public-swicg@w3.org from October 2023)](https://lists.w3.org/Archives/Public/public-swicg/2023Oct/0079.html)
 * [2023-10-20, 07:44:57](https://lobste.rs/s/3wbr9z/gamedev_lisp_part_1_ecs_metalinguistic) - [Gamedev in Lisp. Part 1: ECS and Metalinguistic Abstraction](https://awkravchuk.itch.io/cl-fast-ecs/devlog/622054/gamedev-in-lisp-part-1-ecs-and-metalinguistic-abstraction)
 * [2023-10-20, 06:43:23](https://lobste.rs/s/ztdrzq/less_is_more_empirical_study_on) - [Less is More? An Empirical Study on Configuration Issues in Python PyPI Ecosystem](https://arxiv.org/abs/2310.12598)
@@ -13,7 +14,6 @@
 * [2023-10-19, 19:23:24](https://lobste.rs/s/ewpzjp/banging_errors_go) - [banging errors in go](https://flak.tedunangst.com/post/bango)
 * [2023-10-19, 18:18:10](https://lobste.rs/s/wdqpcw/just_paying_figma_15_month_because) - [Just paying Figma $15/month because nothing else fucking works](https://fasterthanli.me/articles/just-paying-figma-15-dollars)
 * [2023-10-19, 16:46:02](https://lobste.rs/s/pexfuh/we_have_talk_about_flask) - [We Have To Talk About Flask](https://blog.miguelgrinberg.com/post/we-have-to-talk-about-flask)
-* [2023-10-19, 16:38:45](https://lobste.rs/s/3c51ia/implementing_gpu_s_programming_model_on) - [Implementing a GPU's Programming Model on a CPU](http://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
 * [2023-10-19, 14:48:16](https://lobste.rs/s/quptjd/origins_idle_scan) - [The origins of the Idle Scan](http://antirez.com/news/139)
 * [2023-10-19, 11:57:12](https://lobste.rs/s/6ck6of/beyond_mastodon_bluesky_toward_protocol) - [Beyond Mastodon and Bluesky: Toward a Protocol-Agnostic Federation](https://kyefox.com/2023/10/19/beyond-mastodon-and-bluesky-toward-a-protocol-agnostic-federation/)
 * [2023-10-19, 11:05:28](https://lobste.rs/s/i1rxgb/requiem_for_stringref) - [requiem for a stringref](https://wingolog.org/archives/2023/10/19/requiem-for-a-stringref)
