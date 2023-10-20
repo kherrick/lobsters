@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
+* [2023-10-20, 22:42:45](https://lobste.rs/s/juupfk/zig_is_now_also_windows_resource_compiler) - [Zig is now also a Windows resource compiler](https://www.ryanliptak.com/blog/zig-is-a-windows-resource-compiler/)
 * [2023-10-20, 21:51:31](https://lobste.rs/s/lho3ao/analyzing_data_180_000x_faster_with_rust) - [Analyzing Data 180,000x Faster with Rust](https://willcrichton.net/notes/k-corrset/)
 * [2023-10-20, 20:31:48](https://lobste.rs/s/yo0lhm/mitigating_hetzner_linode_xmpp_ru_mitm) - [Mitigating the Hetzner/Linode XMPP.ru MitM interception incident](https://www.devever.net/~hl/xmpp-incident)
 * [2023-10-20, 20:31:48](https://lobste.rs/s/yo0lhm/how_mitigate_hetzner_linode_xmpp_ru_mitm) - [How to mitigate the Hetzner/Linode XMPP.ru MitM interception incident](https://www.devever.net/~hl/xmpp-incident)

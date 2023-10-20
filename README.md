@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-20, 22:42:45](https://lobste.rs/s/juupfk/zig_is_now_also_windows_resource_compiler) - [Zig is now also a Windows resource compiler](https://www.ryanliptak.com/blog/zig-is-a-windows-resource-compiler/)
 * [2023-10-20, 21:51:31](https://lobste.rs/s/lho3ao/analyzing_data_180_000x_faster_with_rust) - [Analyzing Data 180,000x Faster with Rust](https://willcrichton.net/notes/k-corrset/)
 * [2023-10-20, 20:31:48](https://lobste.rs/s/yo0lhm/mitigating_hetzner_linode_xmpp_ru_mitm) - [Mitigating the Hetzner/Linode XMPP.ru MitM interception incident](https://www.devever.net/~hl/xmpp-incident)
 * [2023-10-20, 20:17:40](https://lobste.rs/s/1zikcq/openbsd_s_built_memory_leak_detection) - [OpenBSD's built-in memory leak detection](https://www.drijf.net/malloc/)
@@ -23,7 +24,6 @@
 * [2023-10-19, 19:23:24](https://lobste.rs/s/ewpzjp/banging_errors_go) - [banging errors in go](https://flak.tedunangst.com/post/bango)
 * [2023-10-19, 16:46:02](https://lobste.rs/s/pexfuh/we_have_talk_about_flask) - [We Have To Talk About Flask](https://blog.miguelgrinberg.com/post/we-have-to-talk-about-flask)
 * [2023-10-19, 10:14:27](https://lobste.rs/s/igt4ez/10_year_anniversary_healthcare_gov) - [The 10 Year Anniversary of the HealthCare.gov Rescue](https://www.pauladamsmith.com/blog/2023/10/the-10-year-anniversary-of-the-healthcare.gov-rescue.html)
-* [2023-10-19, 09:52:19](https://lobste.rs/s/xfew6z/google_hosted_malvertising_leads_fake) - [Google-hosted malvertising leads to fake Keepass site that looks genuine](https://arstechnica.com/security/2023/10/google-hosted-malvertising-leads-to-fake-keepass-site-that-looks-genuine/)
 * [2023-10-19, 07:16:55](https://lobste.rs/s/bppb0i/cfr_extremely_minimal_drawing_language) - [CFR[]: An extremely minimal drawing language consisting of only 5 simple commands: C, F, R, [, and ]](https://susam.net/cfr.html)
 
 ## [Archives](archives/index.md)
