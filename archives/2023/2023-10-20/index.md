@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
+* [2023-10-20, 14:24:48](https://lobste.rs/s/tpbjqe/kyoto_statement_on_end_end_encryption) - [Kyoto Statement on End-To-End Encryption](https://www.globalencryption.org/2023/10/kyoto-statement-on-end-to-end-encryption/)
 * [2023-10-20, 13:04:25](https://lobste.rs/s/qvyf5k/can_we_make_idiot_proof_infrastructure) - [Can We Make Idiot-Proof Infrastructure pt1?](https://matduggan.com/idiot-proof-infrastructure/)
 * [2023-10-20, 10:03:49](https://lobste.rs/s/govkge/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/govkge/what_are_you_doing_this_weekend)
 * [2023-10-20, 08:11:27](https://lobste.rs/s/j98vdl/announce_seppo_social_v0_3_invite) - [Announce Seppo.Social v0.3 and invite thoughts from Marcus Rohrmoser on 2023-10-20 (public-swicg@w3.org from October 2023)](https://lists.w3.org/Archives/Public/public-swicg/2023Oct/0079.html)
