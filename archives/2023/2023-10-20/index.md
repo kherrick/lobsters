@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
+* [2023-10-20, 14:33:12](https://lobste.rs/s/xzlptv/speeding_up_cython_with_simd) - [Speeding up Cython with SIMD](https://pythonspeed.com/articles/faster-cython-simd/)
 * [2023-10-20, 14:24:48](https://lobste.rs/s/tpbjqe/kyoto_statement_on_end_end_encryption) - [Kyoto Statement on End-To-End Encryption](https://www.globalencryption.org/2023/10/kyoto-statement-on-end-to-end-encryption/)
 * [2023-10-20, 13:04:25](https://lobste.rs/s/qvyf5k/can_we_make_idiot_proof_infrastructure) - [Can We Make Idiot-Proof Infrastructure pt1?](https://matduggan.com/idiot-proof-infrastructure/)
 * [2023-10-20, 10:03:49](https://lobste.rs/s/govkge/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/govkge/what_are_you_doing_this_weekend)

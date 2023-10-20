@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-20, 14:33:12](https://lobste.rs/s/xzlptv/speeding_up_cython_with_simd) - [Speeding up Cython with SIMD](https://pythonspeed.com/articles/faster-cython-simd/)
 * [2023-10-20, 14:24:48](https://lobste.rs/s/tpbjqe/kyoto_statement_on_end_end_encryption) - [Kyoto Statement on End-To-End Encryption](https://www.globalencryption.org/2023/10/kyoto-statement-on-end-to-end-encryption/)
 * [2023-10-20, 13:04:25](https://lobste.rs/s/qvyf5k/can_we_make_idiot_proof_infrastructure) - [Can We Make Idiot-Proof Infrastructure pt1?](https://matduggan.com/idiot-proof-infrastructure/)
 * [2023-10-20, 10:03:49](https://lobste.rs/s/govkge/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/govkge/what_are_you_doing_this_weekend)
@@ -24,7 +25,6 @@
 * [2023-10-19, 09:00:50](https://lobste.rs/s/28vqht/what_every_developer_should_know_about) - [What Every Developer Should Know About GPU Computing](https://codeconfessions.substack.com/p/gpu-computing)
 * [2023-10-19, 07:16:55](https://lobste.rs/s/bppb0i/cfr_extremely_minimal_drawing_language) - [CFR[]: An extremely minimal drawing language consisting of only 5 simple commands: C, F, R, [, and ]](https://susam.net/cfr.html)
 * [2023-10-19, 01:25:36](https://lobste.rs/s/c90ird/write_more_useless_software) - [Write more \"useless\" software](https://ntietz.com/blog/write-more-useless-software/)
-* [2023-10-18, 13:28:20](https://lobste.rs/s/yj8lht/racket_fork_chez_scheme_merging_with) - [Racket fork of Chez Scheme merging with mainline Chez](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)
 
 ## [Archives](archives/index.md)
 
