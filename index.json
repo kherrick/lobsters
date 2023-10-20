@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-20, 01:08:47",
+      "https://lobste.rs/s/iksig7/interleaved_gradient_noise_glsl"
+    ],
+    [
+      "Interleaved Gradient Noise GLSL function used in Call of Duty Advanced Warfare",
+      "https://github.com/FrostKiwi/treasurechest#glsl-radial-background"
+    ]
+  ],
+  [
+    [
       "2023-10-19, 23:50:34",
       "https://lobste.rs/s/rimkv3/io_uring_basics_writing_file_disk"
     ],
@@ -197,16 +207,6 @@
     [
       "BPF tailcalls",
       "https://engineering.aviatrix.com/bpf-tailcalls-8ef4273747a5"
-    ]
-  ],
-  [
-    [
-      "2023-10-18, 14:58:17",
-      "https://lobste.rs/s/u93vwb/some_concerns_with_openpubkey"
-    ],
-    [
-      "Some concerns with OpenPubKey",
-      "https://blog.yossarian.net/2023/10/18/Some-concerns-with-OpenPubKey"
     ]
   ],
   [
