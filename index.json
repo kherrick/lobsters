@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-20, 14:33:12",
+      "https://lobste.rs/s/xzlptv/speeding_up_cython_with_simd"
+    ],
+    [
+      "Speeding up Cython with SIMD",
+      "https://pythonspeed.com/articles/faster-cython-simd/"
+    ]
+  ],
+  [
+    [
       "2023-10-20, 14:24:48",
       "https://lobste.rs/s/tpbjqe/kyoto_statement_on_end_end_encryption"
     ],
@@ -237,16 +247,6 @@
     [
       "Write more \"useless\" software",
       "https://ntietz.com/blog/write-more-useless-software/"
-    ]
-  ],
-  [
-    [
-      "2023-10-18, 13:28:20",
-      "https://lobste.rs/s/yj8lht/racket_fork_chez_scheme_merging_with"
-    ],
-    [
-      "Racket fork of Chez Scheme merging with mainline Chez",
-      "https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU"
     ]
   ]
 ]
