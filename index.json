@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2023-10-19, 19:30:41",
-      "https://lobste.rs/s/pl5eku/what_we_talk_about_when_we_talk_about"
-    ],
-    [
-      "What we talk about when we talk about monads: a framework for understanding programming concepts",
-      "https://arxiv.org/ftp/arxiv/papers/1803/1803.10195.pdf"
-    ]
-  ],
-  [
-    [
       "2023-10-19, 19:23:24",
       "https://lobste.rs/s/ewpzjp/banging_errors_go"
     ],
@@ -187,6 +177,16 @@
     [
       "We Have To Talk About Flask",
       "https://blog.miguelgrinberg.com/post/we-have-to-talk-about-flask"
+    ]
+  ],
+  [
+    [
+      "2023-10-19, 11:57:12",
+      "https://lobste.rs/s/6ck6of/beyond_mastodon_bluesky_toward_protocol"
+    ],
+    [
+      "Beyond Mastodon and Bluesky: Toward a Protocol-Agnostic Federation",
+      "https://kyefox.com/2023/10/19/beyond-mastodon-and-bluesky-toward-a-protocol-agnostic-federation/"
     ]
   ],
   [
