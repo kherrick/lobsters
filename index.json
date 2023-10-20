@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-20, 21:51:31",
+      "https://lobste.rs/s/lho3ao/analyzing_data_180_000x_faster_with_rust"
+    ],
+    [
+      "Analyzing Data 180,000x Faster with Rust",
+      "https://willcrichton.net/notes/k-corrset/"
+    ]
+  ],
+  [
+    [
       "2023-10-20, 20:31:48",
       "https://lobste.rs/s/yo0lhm/how_mitigate_hetzner_linode_xmpp_ru_mitm"
     ],
@@ -117,16 +127,6 @@
     [
       "Indexing a column of a large postgres table",
       "https://lobste.rs/s/zh3dek/indexing_column_large_postgres_table"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 14:33:12",
-      "https://lobste.rs/s/xzlptv/speeding_up_cython_with_simd"
-    ],
-    [
-      "Speeding up Cython with SIMD",
-      "https://pythonspeed.com/articles/faster-cython-simd/"
     ]
   ],
   [
