@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-20, 15:16:05",
+      "https://lobste.rs/s/txvugz/encrypted_traffic_interception_on"
+    ],
+    [
+      "Encrypted traffic interception on Hetzner and Linode targeting the largest Russian Jabber server",
+      "https://notes.valdikss.org.ru/jabber.ru-mitm/"
+    ]
+  ],
+  [
+    [
       "2023-10-20, 14:55:52",
       "https://lobste.rs/s/zh3dek/indexing_column_large_postgres_table"
     ],
@@ -67,16 +77,6 @@
     [
       "Gamedev in Lisp. Part 1: ECS and Metalinguistic Abstraction",
       "https://awkravchuk.itch.io/cl-fast-ecs/devlog/622054/gamedev-in-lisp-part-1-ecs-and-metalinguistic-abstraction"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 06:43:23",
-      "https://lobste.rs/s/ztdrzq/less_is_more_empirical_study_on"
-    ],
-    [
-      "Less is More? An Empirical Study on Configuration Issues in Python PyPI Ecosystem",
-      "https://arxiv.org/abs/2310.12598"
     ]
   ],
   [
