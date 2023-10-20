@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-20, 06:43:23](https://lobste.rs/s/ztdrzq/less_is_more_empirical_study_on) - [Less is More? An Empirical Study on Configuration Issues in Python PyPI Ecosystem](https://arxiv.org/abs/2310.12598)
 * [2023-10-20, 04:24:02](https://lobste.rs/s/fu4liz/apple_s_use_swift_swiftui_ios_17) - [Apple’s use of Swift and SwiftUI in iOS 17](https://blog.timac.org/2023/1019-state-of-swift-and-swiftui-ios17/)
 * [2023-10-20, 03:51:18](https://lobste.rs/s/we7dxu/does_go_have_subtyping) - [Does Go Have Subtyping?](https://journal.stuffwithstuff.com/2023/10/19/does-go-have-subtyping/)
 * [2023-10-20, 01:08:47](https://lobste.rs/s/iksig7/interleaved_gradient_noise_glsl) - [Interleaved Gradient Noise GLSL function used in Call of Duty Advanced Warfare](https://github.com/FrostKiwi/treasurechest#glsl-radial-background)
@@ -24,7 +25,6 @@
 * [2023-10-19, 01:25:36](https://lobste.rs/s/c90ird/write_more_useless_software) - [Write more \"useless\" software](https://ntietz.com/blog/write-more-useless-software/)
 * [2023-10-18, 13:43:33](https://lobste.rs/s/srthgr/road_hell_is_paved_with_good_intentions_c) - [The road to hell is paved with good intentions and C++ modules](https://nibblestew.blogspot.com/2023/10/the-road-to-hell-is-paved-with-good.html)
 * [2023-10-18, 13:28:20](https://lobste.rs/s/yj8lht/racket_fork_chez_scheme_merging_with) - [Racket fork of Chez Scheme merging with mainline Chez](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU)
-* [2023-10-18, 08:22:30](https://lobste.rs/s/oyhndj/price_managed_cloud_services) - [The price of managed cloud services](https://world.hey.com/dhh/the-price-of-managed-cloud-services-4f33d67e)
 
 ## [Archives](archives/index.md)
 
