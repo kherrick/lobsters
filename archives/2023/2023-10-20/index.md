@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-20](index.md)
 
+* [2023-10-20, 20:17:40](https://lobste.rs/s/1zikcq/openbsd_s_built_memory_leak_detection) - [OpenBSD's built-in memory leak detection](https://www.drijf.net/malloc/)
 * [2023-10-20, 20:12:51](https://lobste.rs/s/gsluwh/bullets_vaguely_silvery_hue) - [Bullets of vaguely silvery hue](https://www.b-list.org/weblog/2023/oct/20/silver/)
 * [2023-10-20, 20:05:08](https://lobste.rs/s/xuxudj/free_book_with_tips_for_better_pull) - [Free book with tips for better Pull Requests and Code Review](https://github.com/scastiel/book-pr)
 * [2023-10-20, 19:49:30](https://lobste.rs/s/yiotbv/some_miscellaneous_git_facts) - [Some miscellaneous git facts](https://jvns.ca/blog/2023/10/20/some-miscellaneous-git-facts/)
