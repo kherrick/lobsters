@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-20, 13:04:25",
+      "https://lobste.rs/s/qvyf5k/can_we_make_idiot_proof_infrastructure"
+    ],
+    [
+      "Can We Make Idiot-Proof Infrastructure pt1?",
+      "https://matduggan.com/idiot-proof-infrastructure/"
+    ]
+  ],
+  [
+    [
       "2023-10-20, 10:03:49",
       "https://lobste.rs/s/govkge/what_are_you_doing_this_weekend"
     ],
@@ -217,16 +227,6 @@
     [
       "CFR[]: An extremely minimal drawing language consisting of only 5 simple commands: C, F, R, [, and ]",
       "https://susam.net/cfr.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-19, 04:55:27",
-      "https://lobste.rs/s/jwavju/for_processing_strings_streams_c_can_be"
-    ],
-    [
-      "For processing strings, streams in C++ can be slow",
-      "https://lemire.me/blog/2023/10/19/for-processing-strings-streams-in-c-can-be-slow/"
     ]
   ],
   [
