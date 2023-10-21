@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-21, 17:38:24",
+      "https://lobste.rs/s/zis74a/31m_ansi_terminal_security_2023_finding"
+    ],
+    [
+      "\"[31m\"?! ANSI Terminal security in 2023 and finding 10 CVEs",
+      "https://dgl.cx/2023/09/ansi-terminal-security"
+    ]
+  ],
+  [
+    [
       "2023-10-21, 16:21:39",
       "https://lobste.rs/s/nezjbk/validrive"
     ],
@@ -147,16 +157,6 @@
     [
       "Flask, its ecosystem, and backwards compatibility",
       "https://pgjones.dev/blog/flask-ecosystem-compatibility-2023/"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 18:10:17",
-      "https://lobste.rs/s/gpqzxw/coroutine_durable_coroutines_for_go"
-    ],
-    [
-      "coroutine: Durable coroutines for Go",
-      "https://github.com/stealthrocket/coroutine"
     ]
   ],
   [
