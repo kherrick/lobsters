@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-21, 01:47:06",
+      "https://lobste.rs/s/sv1zyk/recover_lost_text_by_coredumping_firefox"
+    ],
+    [
+      "recover lost text by coredumping firefox",
+      "https://j3s.sh/thought/recover-lost-text-by-coredumping-firefox.html"
+    ]
+  ],
+  [
+    [
       "2023-10-20, 22:44:52",
       "https://lobste.rs/s/kzjv8k/don_t_use_distinct_as_join_fixer"
     ],
@@ -27,16 +37,6 @@
     [
       "Analyzing Data 180,000x Faster with Rust",
       "https://willcrichton.net/notes/k-corrset/"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 20:31:48",
-      "https://lobste.rs/s/yo0lhm/mitigating_hetzner_linode_xmpp_ru_mitm"
-    ],
-    [
-      "Mitigating the Hetzner/Linode XMPP.ru MitM interception incident",
-      "https://www.devever.net/~hl/xmpp-incident"
     ]
   ],
   [
