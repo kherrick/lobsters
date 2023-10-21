@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-21, 12:54:46",
+      "https://lobste.rs/s/4mlww9/refactoring_has_price_not_refactoring"
+    ],
+    [
+      "Refactoring has a price. Not refactoring has a cost. Either way, you pay",
+      "https://www.germanvelasco.com/blog/refactoring-is-a-habit"
+    ]
+  ],
+  [
+    [
       "2023-10-21, 08:53:02",
       "https://lobste.rs/s/gev49p/re_visiting_red_ribbon_linux_on_ps3"
     ],
@@ -227,16 +237,6 @@
     [
       "io_uring basics: Writing a file to disk",
       "https://notes.eatonphil.com/2023-10-19-write-file-to-disk-with-io_uring.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-19, 19:23:24",
-      "https://lobste.rs/s/ewpzjp/banging_errors_go"
-    ],
-    [
-      "banging errors in go",
-      "https://flak.tedunangst.com/post/bango"
     ]
   ],
   [
