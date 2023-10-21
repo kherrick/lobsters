@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-21, 22:45:36](https://lobste.rs/s/hbwscv/programmers_aren_t_productive_anymore) - [Programmers Aren't Productive Anymore (2019)](https://www.youtube.com/watch?v=bZ6pA--F3D4)
 * [2023-10-21, 22:00:32](https://lobste.rs/s/inn0rh/electromechanical_refreshable_braille) - [Electromechanical refreshable Braille module](https://hackaday.io/project/191181-electromechanical-refreshable-braille-module)
 * [2023-10-21, 20:12:22](https://lobste.rs/s/6wwazd/summonscript_manifest_manifold_models) - [SummonScript - Manifest manifold models with magical machinations](https://github.com/lf94/summonscript)
 * [2023-10-21, 17:38:24](https://lobste.rs/s/zis74a/31m_ansi_terminal_security_2023_finding) - [\"[31m\"?! ANSI Terminal security in 2023 and finding 10 CVEs](https://dgl.cx/2023/09/ansi-terminal-security)
@@ -18,7 +19,6 @@
 * [2023-10-20, 20:12:51](https://lobste.rs/s/gsluwh/bullets_vaguely_silvery_hue) - [Bullets of vaguely silvery hue](https://www.b-list.org/weblog/2023/oct/20/silver/)
 * [2023-10-20, 19:49:30](https://lobste.rs/s/yiotbv/some_miscellaneous_git_facts) - [Some miscellaneous git facts](https://jvns.ca/blog/2023/10/20/some-miscellaneous-git-facts/)
 * [2023-10-20, 19:22:39](https://lobste.rs/s/jcduae/flask_its_ecosystem_backwards) - [Flask, its ecosystem, and backwards compatibility](https://pgjones.dev/blog/flask-ecosystem-compatibility-2023/)
-* [2023-10-20, 16:30:51](https://lobste.rs/s/hwuwkf/rubylit_this_readme_is_program) - [RubyLit - This README is a program](http://ratfactor.com/repos/rubylit/)
 * [2023-10-20, 15:22:44](https://lobste.rs/s/hxpb4z/implementing_embed_for_c_c) - [Implementing #embed for C and C++](https://thephd.dev/implementing-embed-c-and-c++)
 * [2023-10-20, 15:16:05](https://lobste.rs/s/txvugz/encrypted_traffic_interception_on) - [Encrypted traffic interception on Hetzner and Linode targeting the largest Russian Jabber server](https://notes.valdikss.org.ru/jabber.ru-mitm/)
 * [2023-10-20, 14:24:48](https://lobste.rs/s/tpbjqe/kyoto_statement_on_end_end_encryption) - [Kyoto Statement on End-To-End Encryption](https://www.globalencryption.org/2023/10/kyoto-statement-on-end-to-end-encryption/)
