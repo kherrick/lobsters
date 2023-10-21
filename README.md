@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-21, 20:12:22](https://lobste.rs/s/6wwazd/summonscript_manifest_manifold_models) - [SummonScript - Manifest manifold models with magical machinations](https://github.com/lf94/summonscript)
 * [2023-10-21, 17:38:24](https://lobste.rs/s/zis74a/31m_ansi_terminal_security_2023_finding) - [\"[31m\"?! ANSI Terminal security in 2023 and finding 10 CVEs](https://dgl.cx/2023/09/ansi-terminal-security)
 * [2023-10-21, 16:21:39](https://lobste.rs/s/nezjbk/validrive) - [ValiDrive](https://www.grc.com/validrive.htm)
 * [2023-10-21, 16:04:55](https://lobste.rs/s/b8vnep/integrating_dynamic_binaries_macos_apps) - [Integrating dynamic binaries in macOS apps](https://notes.alinpanaitiu.com/Integrating-dynamic-binaries-in-macOS-apps)
@@ -22,7 +23,6 @@
 * [2023-10-20, 15:16:05](https://lobste.rs/s/txvugz/encrypted_traffic_interception_on) - [Encrypted traffic interception on Hetzner and Linode targeting the largest Russian Jabber server](https://notes.valdikss.org.ru/jabber.ru-mitm/)
 * [2023-10-20, 14:24:48](https://lobste.rs/s/tpbjqe/kyoto_statement_on_end_end_encryption) - [Kyoto Statement on End-To-End Encryption](https://www.globalencryption.org/2023/10/kyoto-statement-on-end-to-end-encryption/)
 * [2023-10-20, 13:04:25](https://lobste.rs/s/qvyf5k/can_we_make_idiot_proof_infrastructure) - [Can We Make Idiot-Proof Infrastructure pt1?](https://matduggan.com/idiot-proof-infrastructure/)
-* [2023-10-20, 10:03:49](https://lobste.rs/s/govkge/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/govkge/what_are_you_doing_this_weekend)
 * [2023-10-20, 08:11:27](https://lobste.rs/s/j98vdl/announce_seppo_social_v0_3_invite) - [Announce Seppo.Social v0.3 and invite thoughts](https://lists.w3.org/Archives/Public/public-swicg/2023Oct/0079.html)
 * [2023-10-20, 07:44:57](https://lobste.rs/s/3wbr9z/gamedev_lisp_part_1_ecs_metalinguistic) - [Gamedev in Lisp. Part 1: ECS and Metalinguistic Abstraction](https://awkravchuk.itch.io/cl-fast-ecs/devlog/622054/gamedev-in-lisp-part-1-ecs-and-metalinguistic-abstraction)
 
