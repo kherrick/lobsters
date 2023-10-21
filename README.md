@@ -15,6 +15,7 @@
 * [2023-10-20, 19:22:39](https://lobste.rs/s/jcduae/flask_its_ecosystem_backwards) - [Flask, its ecosystem, and backwards compatibility](https://pgjones.dev/blog/flask-ecosystem-compatibility-2023/)
 * [2023-10-20, 18:10:17](https://lobste.rs/s/gpqzxw/coroutine_durable_coroutines_for_go) - [coroutine: Durable coroutines for Go](https://github.com/stealthrocket/coroutine)
 * [2023-10-20, 16:30:51](https://lobste.rs/s/hwuwkf/rubylit_this_readme_is_program) - [RubyLit - This README is a program](http://ratfactor.com/repos/rubylit/)
+* [2023-10-20, 16:04:35](https://lobste.rs/s/jjvxyd/improve_readability_with_positive) - [Improve Readability With Positive Booleans](https://testing.googleblog.com/2023/10/improve-readability-with-positive.html)
 * [2023-10-20, 15:22:44](https://lobste.rs/s/hxpb4z/implementing_embed_for_c_c) - [Implementing #embed for C and C++](https://thephd.dev/implementing-embed-c-and-c++)
 * [2023-10-20, 15:16:05](https://lobste.rs/s/txvugz/encrypted_traffic_interception_on) - [Encrypted traffic interception on Hetzner and Linode targeting the largest Russian Jabber server](https://notes.valdikss.org.ru/jabber.ru-mitm/)
 * [2023-10-20, 14:55:52](https://lobste.rs/s/zh3dek/indexing_column_large_postgres_table) - [Indexing a column of a large postgres table](https://lobste.rs/s/zh3dek/indexing_column_large_postgres_table)
@@ -24,7 +25,6 @@
 * [2023-10-20, 08:11:27](https://lobste.rs/s/j98vdl/announce_seppo_social_v0_3_invite) - [Announce Seppo.Social v0.3 and invite thoughts](https://lists.w3.org/Archives/Public/public-swicg/2023Oct/0079.html)
 * [2023-10-20, 07:44:57](https://lobste.rs/s/3wbr9z/gamedev_lisp_part_1_ecs_metalinguistic) - [Gamedev in Lisp. Part 1: ECS and Metalinguistic Abstraction](https://awkravchuk.itch.io/cl-fast-ecs/devlog/622054/gamedev-in-lisp-part-1-ecs-and-metalinguistic-abstraction)
 * [2023-10-19, 23:50:34](https://lobste.rs/s/rimkv3/io_uring_basics_writing_file_disk) - [io_uring basics: Writing a file to disk](https://notes.eatonphil.com/2023-10-19-write-file-to-disk-with-io_uring.html)
-* [2023-10-19, 07:16:55](https://lobste.rs/s/bppb0i/cfr_extremely_minimal_drawing_language) - [CFR[]: An extremely minimal drawing language consisting of only 5 simple commands: C, F, R, [, and ]](https://susam.net/cfr.html)
 
 ## [Archives](archives/index.md)
 
