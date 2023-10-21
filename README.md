@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-21, 08:53:02](https://lobste.rs/s/gev49p/re_visiting_red_ribbon_linux_on_ps3) - [Re-visiting Red Ribbon Linux on the PS3](https://virtuallyfun.com/2023/10/20/re-visiting-red-ribbon-linux-on-the-ps3/)
 * [2023-10-21, 07:26:39](https://lobste.rs/s/numcth/kristall_small_internet_browser) - [Kristall Small Internet Browser](https://kristall.random-projects.net/)
 * [2023-10-21, 03:02:25](https://lobste.rs/s/tegfe8/next_raptor_openpower_systems_are_coming) - [The next Raptor OpenPOWER systems are coming, but they won't be Power10](https://www.talospace.com/2023/10/the-next-raptor-openpower-systems-are.html)
 * [2023-10-21, 02:28:34](https://lobste.rs/s/u3cu5z/how_build_user_level_cpu_profiler) - [How To Build a User-Level CPU Profiler](https://research.swtch.com/pprof)
@@ -9,7 +10,6 @@
 * [2023-10-20, 21:51:31](https://lobste.rs/s/lho3ao/analyzing_data_180_000x_faster_with_rust) - [Analyzing Data 180,000x Faster with Rust](https://willcrichton.net/notes/k-corrset/)
 * [2023-10-20, 20:17:40](https://lobste.rs/s/1zikcq/openbsd_s_built_memory_leak_detection) - [OpenBSD's built-in memory leak detection](https://www.drijf.net/malloc/)
 * [2023-10-20, 20:12:51](https://lobste.rs/s/gsluwh/bullets_vaguely_silvery_hue) - [Bullets of vaguely silvery hue](https://www.b-list.org/weblog/2023/oct/20/silver/)
-* [2023-10-20, 20:05:08](https://lobste.rs/s/xuxudj/free_book_with_tips_for_better_pull) - [Free book with tips for better Pull Requests and Code Review](https://github.com/scastiel/book-pr)
 * [2023-10-20, 19:49:30](https://lobste.rs/s/yiotbv/some_miscellaneous_git_facts) - [Some miscellaneous git facts](https://jvns.ca/blog/2023/10/20/some-miscellaneous-git-facts/)
 * [2023-10-20, 19:22:39](https://lobste.rs/s/jcduae/flask_its_ecosystem_backwards) - [Flask, its ecosystem, and backwards compatibility](https://pgjones.dev/blog/flask-ecosystem-compatibility-2023/)
 * [2023-10-20, 18:10:17](https://lobste.rs/s/gpqzxw/coroutine_durable_coroutines_for_go) - [coroutine: Durable coroutines for Go](https://github.com/stealthrocket/coroutine)
