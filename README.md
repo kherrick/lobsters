@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-21, 16:04:55](https://lobste.rs/s/b8vnep/integrating_dynamic_binaries_macos_apps) - [Integrating dynamic binaries in macOS apps](https://notes.alinpanaitiu.com/Integrating-dynamic-binaries-in-macOS-apps)
 * [2023-10-21, 15:52:33](https://lobste.rs/s/17wtni/we_have_used_too_many_levels_abstractions) - [We have used too many levels of abstractions and now the future looks bleak](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html)
 * [2023-10-21, 12:54:46](https://lobste.rs/s/4mlww9/refactoring_has_price_not_refactoring) - [Refactoring has a price. Not refactoring has a cost. Either way, you pay](https://www.germanvelasco.com/blog/refactoring-is-a-habit)
 * [2023-10-21, 08:53:02](https://lobste.rs/s/gev49p/re_visiting_red_ribbon_linux_on_ps3) - [Re-visiting Red Ribbon Linux on the PS3](https://virtuallyfun.com/2023/10/20/re-visiting-red-ribbon-linux-on-the-ps3/)
@@ -18,7 +19,6 @@
 * [2023-10-20, 16:30:51](https://lobste.rs/s/hwuwkf/rubylit_this_readme_is_program) - [RubyLit - This README is a program](http://ratfactor.com/repos/rubylit/)
 * [2023-10-20, 15:22:44](https://lobste.rs/s/hxpb4z/implementing_embed_for_c_c) - [Implementing #embed for C and C++](https://thephd.dev/implementing-embed-c-and-c++)
 * [2023-10-20, 15:16:05](https://lobste.rs/s/txvugz/encrypted_traffic_interception_on) - [Encrypted traffic interception on Hetzner and Linode targeting the largest Russian Jabber server](https://notes.valdikss.org.ru/jabber.ru-mitm/)
-* [2023-10-20, 14:55:52](https://lobste.rs/s/zh3dek/indexing_column_large_postgres_table) - [Indexing a column of a large postgres table](https://lobste.rs/s/zh3dek/indexing_column_large_postgres_table)
 * [2023-10-20, 14:24:48](https://lobste.rs/s/tpbjqe/kyoto_statement_on_end_end_encryption) - [Kyoto Statement on End-To-End Encryption](https://www.globalencryption.org/2023/10/kyoto-statement-on-end-to-end-encryption/)
 * [2023-10-20, 13:04:25](https://lobste.rs/s/qvyf5k/can_we_make_idiot_proof_infrastructure) - [Can We Make Idiot-Proof Infrastructure pt1?](https://matduggan.com/idiot-proof-infrastructure/)
 * [2023-10-20, 10:03:49](https://lobste.rs/s/govkge/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/govkge/what_are_you_doing_this_weekend)
