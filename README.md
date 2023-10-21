@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-21, 17:38:24](https://lobste.rs/s/zis74a/31m_ansi_terminal_security_2023_finding) - [\"[31m\"?! ANSI Terminal security in 2023 and finding 10 CVEs](https://dgl.cx/2023/09/ansi-terminal-security)
 * [2023-10-21, 16:21:39](https://lobste.rs/s/nezjbk/validrive) - [ValiDrive](https://www.grc.com/validrive.htm)
 * [2023-10-21, 16:04:55](https://lobste.rs/s/b8vnep/integrating_dynamic_binaries_macos_apps) - [Integrating dynamic binaries in macOS apps](https://notes.alinpanaitiu.com/Integrating-dynamic-binaries-in-macOS-apps)
 * [2023-10-21, 12:54:46](https://lobste.rs/s/4mlww9/refactoring_has_price_not_refactoring) - [Refactoring has a price. Not refactoring has a cost. Either way, you pay](https://www.germanvelasco.com/blog/refactoring-is-a-habit)
@@ -15,7 +16,6 @@
 * [2023-10-20, 20:12:51](https://lobste.rs/s/gsluwh/bullets_vaguely_silvery_hue) - [Bullets of vaguely silvery hue](https://www.b-list.org/weblog/2023/oct/20/silver/)
 * [2023-10-20, 19:49:30](https://lobste.rs/s/yiotbv/some_miscellaneous_git_facts) - [Some miscellaneous git facts](https://jvns.ca/blog/2023/10/20/some-miscellaneous-git-facts/)
 * [2023-10-20, 19:22:39](https://lobste.rs/s/jcduae/flask_its_ecosystem_backwards) - [Flask, its ecosystem, and backwards compatibility](https://pgjones.dev/blog/flask-ecosystem-compatibility-2023/)
-* [2023-10-20, 18:10:17](https://lobste.rs/s/gpqzxw/coroutine_durable_coroutines_for_go) - [coroutine: Durable coroutines for Go](https://github.com/stealthrocket/coroutine)
 * [2023-10-20, 16:30:51](https://lobste.rs/s/hwuwkf/rubylit_this_readme_is_program) - [RubyLit - This README is a program](http://ratfactor.com/repos/rubylit/)
 * [2023-10-20, 16:04:35](https://lobste.rs/s/jjvxyd/improve_readability_with_positive) - [Improve Readability With Positive Booleans](https://testing.googleblog.com/2023/10/improve-readability-with-positive.html)
 * [2023-10-20, 15:22:44](https://lobste.rs/s/hxpb4z/implementing_embed_for_c_c) - [Implementing #embed for C and C++](https://thephd.dev/implementing-embed-c-and-c++)
