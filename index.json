@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-21, 16:21:39",
+      "https://lobste.rs/s/nezjbk/validrive"
+    ],
+    [
+      "ValiDrive",
+      "https://www.grc.com/validrive.htm"
+    ]
+  ],
+  [
+    [
       "2023-10-21, 16:04:55",
       "https://lobste.rs/s/b8vnep/integrating_dynamic_binaries_macos_apps"
     ],
@@ -237,16 +247,6 @@
     [
       "Gamedev in Lisp. Part 1: ECS and Metalinguistic Abstraction",
       "https://awkravchuk.itch.io/cl-fast-ecs/devlog/622054/gamedev-in-lisp-part-1-ecs-and-metalinguistic-abstraction"
-    ]
-  ],
-  [
-    [
-      "2023-10-19, 23:50:34",
-      "https://lobste.rs/s/rimkv3/io_uring_basics_writing_file_disk"
-    ],
-    [
-      "io_uring basics: Writing a file to disk",
-      "https://notes.eatonphil.com/2023-10-19-write-file-to-disk-with-io_uring.html"
     ]
   ]
 ]
