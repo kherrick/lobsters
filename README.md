@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-21, 16:21:39](https://lobste.rs/s/nezjbk/validrive) - [ValiDrive](https://www.grc.com/validrive.htm)
 * [2023-10-21, 16:04:55](https://lobste.rs/s/b8vnep/integrating_dynamic_binaries_macos_apps) - [Integrating dynamic binaries in macOS apps](https://notes.alinpanaitiu.com/Integrating-dynamic-binaries-in-macOS-apps)
 * [2023-10-21, 15:52:33](https://lobste.rs/s/17wtni/we_have_used_too_many_levels_abstractions) - [We have used too many levels of abstractions and now the future looks bleak](https://unixsheikh.com/articles/we-have-used-too-many-levels-of-abstractions-and-now-the-future-looks-bleak.html)
 * [2023-10-21, 12:54:46](https://lobste.rs/s/4mlww9/refactoring_has_price_not_refactoring) - [Refactoring has a price. Not refactoring has a cost. Either way, you pay](https://www.germanvelasco.com/blog/refactoring-is-a-habit)
@@ -24,7 +25,6 @@
 * [2023-10-20, 10:03:49](https://lobste.rs/s/govkge/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/govkge/what_are_you_doing_this_weekend)
 * [2023-10-20, 08:11:27](https://lobste.rs/s/j98vdl/announce_seppo_social_v0_3_invite) - [Announce Seppo.Social v0.3 and invite thoughts](https://lists.w3.org/Archives/Public/public-swicg/2023Oct/0079.html)
 * [2023-10-20, 07:44:57](https://lobste.rs/s/3wbr9z/gamedev_lisp_part_1_ecs_metalinguistic) - [Gamedev in Lisp. Part 1: ECS and Metalinguistic Abstraction](https://awkravchuk.itch.io/cl-fast-ecs/devlog/622054/gamedev-in-lisp-part-1-ecs-and-metalinguistic-abstraction)
-* [2023-10-19, 23:50:34](https://lobste.rs/s/rimkv3/io_uring_basics_writing_file_disk) - [io_uring basics: Writing a file to disk](https://notes.eatonphil.com/2023-10-19-write-file-to-disk-with-io_uring.html)
 
 ## [Archives](archives/index.md)
 
