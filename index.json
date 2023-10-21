@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-21, 02:28:34",
+      "https://lobste.rs/s/u3cu5z/how_build_user_level_cpu_profiler"
+    ],
+    [
+      "How To Build a User-Level CPU Profiler",
+      "https://research.swtch.com/pprof"
+    ]
+  ],
+  [
+    [
       "2023-10-21, 01:47:06",
       "https://lobste.rs/s/sv1zyk/recover_lost_text_by_coredumping_firefox"
     ],
@@ -227,16 +237,6 @@
     [
       "banging errors in go",
       "https://flak.tedunangst.com/post/bango"
-    ]
-  ],
-  [
-    [
-      "2023-10-19, 16:46:02",
-      "https://lobste.rs/s/pexfuh/we_have_talk_about_flask"
-    ],
-    [
-      "We Have To Talk About Flask",
-      "https://blog.miguelgrinberg.com/post/we-have-to-talk-about-flask"
     ]
   ],
   [
