@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-21, 07:26:39](https://lobste.rs/s/numcth/kristall_small_internet_browser) - [Kristall Small Internet Browser](https://kristall.random-projects.net/)
 * [2023-10-21, 03:02:25](https://lobste.rs/s/tegfe8/next_raptor_openpower_systems_are_coming) - [The next Raptor OpenPOWER systems are coming, but they won't be Power10](https://www.talospace.com/2023/10/the-next-raptor-openpower-systems-are.html)
 * [2023-10-21, 02:28:34](https://lobste.rs/s/u3cu5z/how_build_user_level_cpu_profiler) - [How To Build a User-Level CPU Profiler](https://research.swtch.com/pprof)
 * [2023-10-21, 01:47:06](https://lobste.rs/s/sv1zyk/recover_lost_text_by_coredumping_firefox) - [recover lost text by coredumping firefox](https://j3s.sh/thought/recover-lost-text-by-coredumping-firefox.html)
@@ -13,7 +14,6 @@
 * [2023-10-20, 19:22:39](https://lobste.rs/s/jcduae/flask_its_ecosystem_backwards) - [Flask, its ecosystem, and backwards compatibility](https://pgjones.dev/blog/flask-ecosystem-compatibility-2023/)
 * [2023-10-20, 18:10:17](https://lobste.rs/s/gpqzxw/coroutine_durable_coroutines_for_go) - [coroutine: Durable coroutines for Go](https://github.com/stealthrocket/coroutine)
 * [2023-10-20, 16:30:51](https://lobste.rs/s/hwuwkf/rubylit_this_readme_is_program) - [RubyLit - This README is a program](http://ratfactor.com/repos/rubylit/)
-* [2023-10-20, 16:04:35](https://lobste.rs/s/jjvxyd/improve_readability_with_positive) - [Improve Readability With Positive Booleans](https://testing.googleblog.com/2023/10/improve-readability-with-positive.html)
 * [2023-10-20, 15:22:44](https://lobste.rs/s/hxpb4z/implementing_embed_for_c_c) - [Implementing #embed for C and C++](https://thephd.dev/implementing-embed-c-and-c++)
 * [2023-10-20, 15:16:05](https://lobste.rs/s/txvugz/encrypted_traffic_interception_on) - [Encrypted traffic interception on Hetzner and Linode targeting the largest Russian Jabber server](https://notes.valdikss.org.ru/jabber.ru-mitm/)
 * [2023-10-20, 14:55:52](https://lobste.rs/s/zh3dek/indexing_column_large_postgres_table) - [Indexing a column of a large postgres table](https://lobste.rs/s/zh3dek/indexing_column_large_postgres_table)
