@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2023-10-20, 16:04:35",
+      "https://lobste.rs/s/jjvxyd/improve_readability_with_positive"
+    ],
+    [
+      "Improve Readability With Positive Booleans",
+      "https://testing.googleblog.com/2023/10/improve-readability-with-positive.html"
+    ]
+  ],
+  [
+    [
       "2023-10-20, 15:22:44",
       "https://lobste.rs/s/hxpb4z/implementing_embed_for_c_c"
     ],
@@ -237,16 +247,6 @@
     [
       "io_uring basics: Writing a file to disk",
       "https://notes.eatonphil.com/2023-10-19-write-file-to-disk-with-io_uring.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-19, 07:16:55",
-      "https://lobste.rs/s/bppb0i/cfr_extremely_minimal_drawing_language"
-    ],
-    [
-      "CFR[]: An extremely minimal drawing language consisting of only 5 simple commands: C, F, R, [, and ]",
-      "https://susam.net/cfr.html"
     ]
   ]
 ]
