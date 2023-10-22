@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-22, 14:49:56",
+      "https://lobste.rs/s/p0q9hu/kip_932_queues_for_kafka_apache_kafka"
+    ],
+    [
+      "KIP-932: Queues for Kafka - Apache Kafka - Apache Software Foundation",
+      "https://cwiki.apache.org/confluence/display/KAFKA/KIP-932%3A+Queues+for+Kafka"
+    ]
+  ],
+  [
+    [
       "2023-10-22, 12:30:38",
       "https://lobste.rs/s/bdnluz/my_pain_points_with_emacs_code_search_how_i"
     ],
@@ -237,16 +247,6 @@
     [
       "Can We Make Idiot-Proof Infrastructure pt1?",
       "https://matduggan.com/idiot-proof-infrastructure/"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 08:11:27",
-      "https://lobste.rs/s/j98vdl/announce_seppo_social_v0_3_invite"
-    ],
-    [
-      "Announce Seppo.Social v0.3 and invite thoughts",
-      "https://lists.w3.org/Archives/Public/public-swicg/2023Oct/0079.html"
     ]
   ]
 ]
