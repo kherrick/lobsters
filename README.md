@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-22, 20:44:42](https://lobste.rs/s/cnzykr/exploiting_zenbleed_from_chrome) - [Exploiting Zenbleed from Chrome](https://vu.ls/blog/exploiting-zenbleed-from-chrome/)
 * [2023-10-22, 19:18:08](https://lobste.rs/s/1ovmyq/tale_dev_fd) - [A tale of /dev/fd](http://phala.isatty.net/~amber/hacks/devfd)
 * [2023-10-22, 17:31:53](https://lobste.rs/s/knyky9/calamares_arch_derivatives) - [Calamares & Arch (Derivatives)](https://euroquis.nl//calamares/2023/10/22/calamares.html)
 * [2023-10-22, 17:23:49](https://lobste.rs/s/uwgtkt/don_t_use_likely_unlikely_attributes) - [Don’t use the [[likely]] or [[unlikely]] attributes](https://blog.aaronballman.com/2020/08/dont-use-the-likely-or-unlikely-attributes/)
@@ -22,7 +23,6 @@
 * [2023-10-21, 01:47:06](https://lobste.rs/s/sv1zyk/recover_lost_text_by_coredumping_firefox) - [recover lost text by coredumping firefox](https://j3s.sh/thought/recover-lost-text-by-coredumping-firefox.html)
 * [2023-10-20, 22:44:52](https://lobste.rs/s/kzjv8k/don_t_use_distinct_as_join_fixer) - [Don't use DISTINCT as a \"join-fixer\"](https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/dont-use-distinct-as-a-join-fixer/)
 * [2023-10-20, 22:42:45](https://lobste.rs/s/juupfk/zig_is_now_also_windows_resource_compiler) - [Zig is now also a Windows resource compiler](https://www.ryanliptak.com/blog/zig-is-a-windows-resource-compiler/)
-* [2023-10-20, 21:51:31](https://lobste.rs/s/lho3ao/analyzing_data_180_000x_faster_with_rust) - [Analyzing Data 180,000x Faster with Rust](https://willcrichton.net/notes/k-corrset/)
 * [2023-10-20, 19:22:39](https://lobste.rs/s/jcduae/flask_its_ecosystem_backwards) - [Flask, its ecosystem, and backwards compatibility](https://pgjones.dev/blog/flask-ecosystem-compatibility-2023/)
 * [2023-10-20, 15:16:05](https://lobste.rs/s/txvugz/encrypted_traffic_interception_on) - [Encrypted traffic interception on Hetzner and Linode targeting the largest Russian Jabber server](https://notes.valdikss.org.ru/jabber.ru-mitm/)
 

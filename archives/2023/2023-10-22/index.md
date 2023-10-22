@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-22](index.md)
 
+* [2023-10-22, 20:44:42](https://lobste.rs/s/cnzykr/exploiting_zenbleed_from_chrome) - [Exploiting Zenbleed from Chrome](https://vu.ls/blog/exploiting-zenbleed-from-chrome/)
 * [2023-10-22, 19:18:08](https://lobste.rs/s/1ovmyq/tale_dev_fd) - [A tale of /dev/fd](http://phala.isatty.net/~amber/hacks/devfd)
 * [2023-10-22, 17:31:53](https://lobste.rs/s/knyky9/calamares_arch_derivatives) - [Calamares & Arch (Derivatives)](https://euroquis.nl//calamares/2023/10/22/calamares.html)
 * [2023-10-22, 17:23:49](https://lobste.rs/s/uwgtkt/don_t_use_likely_unlikely_attributes) - [Don’t use the [[likely]] or [[unlikely]] attributes](https://blog.aaronballman.com/2020/08/dont-use-the-likely-or-unlikely-attributes/)
