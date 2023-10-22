@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-22, 08:33:14",
+      "https://lobste.rs/s/yar379/yggdrasil_upcoming_v0_5_release"
+    ],
+    [
+      "Yggdrasil: Upcoming v0.5 Release",
+      "https://yggdrasil-network.github.io/2023/10/22/upcoming-v05-release.html"
+    ]
+  ],
+  [
+    [
       "2023-10-22, 05:23:40",
       "https://lobste.rs/s/neatyz/nvme_ssd_boot_with_raspberry_pi_5"
     ],
@@ -197,16 +207,6 @@
     [
       "Flask, its ecosystem, and backwards compatibility",
       "https://pgjones.dev/blog/flask-ecosystem-compatibility-2023/"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 15:22:44",
-      "https://lobste.rs/s/hxpb4z/implementing_embed_for_c_c"
-    ],
-    [
-      "Implementing #embed for C and C++",
-      "https://thephd.dev/implementing-embed-c-and-c++"
     ]
   ],
   [
