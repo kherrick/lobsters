@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-22, 16:10:55](https://lobste.rs/s/nqet3y/from_annals_preprocessor_hackery) - [From the Annals of Preprocessor Hackery](http://www.os2museum.com/wp/from-the-annals-of-preprocessor-hackery/)
 * [2023-10-22, 14:49:56](https://lobste.rs/s/p0q9hu/kip_932_queues_for_kafka_apache_kafka) - [KIP-932: Queues for Kafka - Apache Kafka - Apache Software Foundation](https://cwiki.apache.org/confluence/display/KAFKA/KIP-932%3A+Queues+for+Kafka)
 * [2023-10-22, 12:30:38](https://lobste.rs/s/bdnluz/my_pain_points_with_emacs_code_search_how_i) - [my pain points with Emacs code search and how I fixed them](https://sepi.me/emacs-ripgrep-workaround/)
 * [2023-10-22, 12:15:32](https://lobste.rs/s/syvdve/internet_throttling_woes) - [Internet Throttling Woes](https://gabrielsimmer.com/blog/internet-throttling-woes)
@@ -24,7 +25,6 @@
 * [2023-10-20, 19:22:39](https://lobste.rs/s/jcduae/flask_its_ecosystem_backwards) - [Flask, its ecosystem, and backwards compatibility](https://pgjones.dev/blog/flask-ecosystem-compatibility-2023/)
 * [2023-10-20, 15:16:05](https://lobste.rs/s/txvugz/encrypted_traffic_interception_on) - [Encrypted traffic interception on Hetzner and Linode targeting the largest Russian Jabber server](https://notes.valdikss.org.ru/jabber.ru-mitm/)
 * [2023-10-20, 14:24:48](https://lobste.rs/s/tpbjqe/kyoto_statement_on_end_end_encryption) - [Kyoto Statement on End-To-End Encryption](https://www.globalencryption.org/2023/10/kyoto-statement-on-end-to-end-encryption/)
-* [2023-10-20, 13:04:25](https://lobste.rs/s/qvyf5k/can_we_make_idiot_proof_infrastructure) - [Can We Make Idiot-Proof Infrastructure pt1?](https://matduggan.com/idiot-proof-infrastructure/)
 
 ## [Archives](archives/index.md)
 

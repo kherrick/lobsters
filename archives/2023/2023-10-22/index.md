@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-22](index.md)
 
+* [2023-10-22, 16:10:55](https://lobste.rs/s/nqet3y/from_annals_preprocessor_hackery) - [From the Annals of Preprocessor Hackery](http://www.os2museum.com/wp/from-the-annals-of-preprocessor-hackery/)
 * [2023-10-22, 14:49:56](https://lobste.rs/s/p0q9hu/kip_932_queues_for_kafka_apache_kafka) - [KIP-932: Queues for Kafka - Apache Kafka - Apache Software Foundation](https://cwiki.apache.org/confluence/display/KAFKA/KIP-932%3A+Queues+for+Kafka)
 * [2023-10-22, 12:30:38](https://lobste.rs/s/bdnluz/my_pain_points_with_emacs_code_search_how_i) - [my pain points with Emacs code search and how I fixed them](https://sepi.me/emacs-ripgrep-workaround/)
 * [2023-10-22, 12:15:32](https://lobste.rs/s/syvdve/internet_throttling_woes) - [Internet Throttling Woes](https://gabrielsimmer.com/blog/internet-throttling-woes)
