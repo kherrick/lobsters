@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-22, 16:10:55",
+      "https://lobste.rs/s/nqet3y/from_annals_preprocessor_hackery"
+    ],
+    [
+      "From the Annals of Preprocessor Hackery",
+      "http://www.os2museum.com/wp/from-the-annals-of-preprocessor-hackery/"
+    ]
+  ],
+  [
+    [
       "2023-10-22, 14:49:56",
       "https://lobste.rs/s/p0q9hu/kip_932_queues_for_kafka_apache_kafka"
     ],
@@ -237,16 +247,6 @@
     [
       "Kyoto Statement on End-To-End Encryption",
       "https://www.globalencryption.org/2023/10/kyoto-statement-on-end-to-end-encryption/"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 13:04:25",
-      "https://lobste.rs/s/qvyf5k/can_we_make_idiot_proof_infrastructure"
-    ],
-    [
-      "Can We Make Idiot-Proof Infrastructure pt1?",
-      "https://matduggan.com/idiot-proof-infrastructure/"
     ]
   ]
 ]
