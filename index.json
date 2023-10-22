@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-22, 12:30:38",
+      "https://lobste.rs/s/bdnluz/my_pain_points_with_emacs_code_search_how_i"
+    ],
+    [
+      "my pain points with Emacs code search and how I fixed them",
+      "https://sepi.me/emacs-ripgrep-workaround/"
+    ]
+  ],
+  [
+    [
+      "2023-10-22, 12:15:32",
+      "https://lobste.rs/s/syvdve/internet_throttling_woes"
+    ],
+    [
+      "Internet Throttling Woes",
+      "https://gabrielsimmer.com/blog/internet-throttling-woes"
+    ]
+  ],
+  [
+    [
       "2023-10-22, 08:33:14",
       "https://lobste.rs/s/yar379/yggdrasil_upcoming_v0_5_release"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2023-10-21, 02:28:34",
-      "https://lobste.rs/s/u3cu5z/how_build_user_level_cpu_profiler"
-    ],
-    [
-      "How To Build a User-Level CPU Profiler",
-      "https://research.swtch.com/pprof"
-    ]
-  ],
-  [
-    [
       "2023-10-21, 01:47:06",
       "https://lobste.rs/s/sv1zyk/recover_lost_text_by_coredumping_firefox"
     ],
@@ -167,16 +177,6 @@
     [
       "Analyzing Data 180,000x Faster with Rust",
       "https://willcrichton.net/notes/k-corrset/"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 20:17:40",
-      "https://lobste.rs/s/1zikcq/openbsd_s_built_memory_leak_detection"
-    ],
-    [
-      "OpenBSD's built-in memory leak detection",
-      "https://www.drijf.net/malloc/"
     ]
   ],
   [
