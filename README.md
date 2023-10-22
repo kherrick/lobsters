@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-22, 05:23:40](https://lobste.rs/s/neatyz/nvme_ssd_boot_with_raspberry_pi_5) - [NVMe SSD boot with the Raspberry Pi 5](https://www.jeffgeerling.com/blog/2023/nvme-ssd-boot-raspberry-pi-5)
 * [2023-10-21, 22:45:36](https://lobste.rs/s/hbwscv/programmers_aren_t_productive_anymore) - [Programmers Aren't Productive Anymore (2019)](https://www.youtube.com/watch?v=bZ6pA--F3D4)
 * [2023-10-21, 22:00:32](https://lobste.rs/s/inn0rh/electromechanical_refreshable_braille) - [Electromechanical refreshable Braille module](https://hackaday.io/project/191181-electromechanical-refreshable-braille-module)
 * [2023-10-21, 20:12:22](https://lobste.rs/s/6wwazd/summonscript_manifest_manifold_models) - [SummonScript - Manifest manifold models with magical machinations](https://github.com/lf94/summonscript)
@@ -24,7 +25,6 @@
 * [2023-10-20, 14:24:48](https://lobste.rs/s/tpbjqe/kyoto_statement_on_end_end_encryption) - [Kyoto Statement on End-To-End Encryption](https://www.globalencryption.org/2023/10/kyoto-statement-on-end-to-end-encryption/)
 * [2023-10-20, 13:04:25](https://lobste.rs/s/qvyf5k/can_we_make_idiot_proof_infrastructure) - [Can We Make Idiot-Proof Infrastructure pt1?](https://matduggan.com/idiot-proof-infrastructure/)
 * [2023-10-20, 08:11:27](https://lobste.rs/s/j98vdl/announce_seppo_social_v0_3_invite) - [Announce Seppo.Social v0.3 and invite thoughts](https://lists.w3.org/Archives/Public/public-swicg/2023Oct/0079.html)
-* [2023-10-20, 07:44:57](https://lobste.rs/s/3wbr9z/gamedev_lisp_part_1_ecs_metalinguistic) - [Gamedev in Lisp. Part 1: ECS and Metalinguistic Abstraction](https://awkravchuk.itch.io/cl-fast-ecs/devlog/622054/gamedev-in-lisp-part-1-ecs-and-metalinguistic-abstraction)
 
 ## [Archives](archives/index.md)
 

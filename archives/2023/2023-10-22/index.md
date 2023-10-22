@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-10-22](index.md)
+
+* [2023-10-22, 05:23:40](https://lobste.rs/s/neatyz/nvme_ssd_boot_with_raspberry_pi_5) - [NVMe SSD boot with the Raspberry Pi 5](https://www.jeffgeerling.com/blog/2023/nvme-ssd-boot-raspberry-pi-5)
