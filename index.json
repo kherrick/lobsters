@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-22, 17:23:49",
+      "https://lobste.rs/s/uwgtkt/don_t_use_likely_unlikely_attributes"
+    ],
+    [
+      "Don’t use the [[likely]] or [[unlikely]] attributes",
+      "https://blog.aaronballman.com/2020/08/dont-use-the-likely-or-unlikely-attributes/"
+    ]
+  ],
+  [
+    [
       "2023-10-22, 16:10:55",
       "https://lobste.rs/s/nqet3y/from_annals_preprocessor_hackery"
     ],
@@ -237,16 +247,6 @@
     [
       "Encrypted traffic interception on Hetzner and Linode targeting the largest Russian Jabber server",
       "https://notes.valdikss.org.ru/jabber.ru-mitm/"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 14:24:48",
-      "https://lobste.rs/s/tpbjqe/kyoto_statement_on_end_end_encryption"
-    ],
-    [
-      "Kyoto Statement on End-To-End Encryption",
-      "https://www.globalencryption.org/2023/10/kyoto-statement-on-end-to-end-encryption/"
     ]
   ]
 ]
