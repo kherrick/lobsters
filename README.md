@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-22, 08:33:14](https://lobste.rs/s/yar379/yggdrasil_upcoming_v0_5_release) - [Yggdrasil: Upcoming v0.5 Release](https://yggdrasil-network.github.io/2023/10/22/upcoming-v05-release.html)
 * [2023-10-22, 05:23:40](https://lobste.rs/s/neatyz/nvme_ssd_boot_with_raspberry_pi_5) - [NVMe SSD boot with the Raspberry Pi 5](https://www.jeffgeerling.com/blog/2023/nvme-ssd-boot-raspberry-pi-5)
 * [2023-10-21, 22:45:36](https://lobste.rs/s/hbwscv/programmers_aren_t_productive_anymore) - [Programmers Aren't Productive Anymore (2019)](https://www.youtube.com/watch?v=bZ6pA--F3D4)
 * [2023-10-21, 22:00:32](https://lobste.rs/s/inn0rh/electromechanical_refreshable_braille) - [Electromechanical refreshable Braille module](https://hackaday.io/project/191181-electromechanical-refreshable-braille-module)
@@ -20,7 +21,6 @@
 * [2023-10-20, 20:12:51](https://lobste.rs/s/gsluwh/bullets_vaguely_silvery_hue) - [Bullets of vaguely silvery hue](https://www.b-list.org/weblog/2023/oct/20/silver/)
 * [2023-10-20, 19:49:30](https://lobste.rs/s/yiotbv/some_miscellaneous_git_facts) - [Some miscellaneous git facts](https://jvns.ca/blog/2023/10/20/some-miscellaneous-git-facts/)
 * [2023-10-20, 19:22:39](https://lobste.rs/s/jcduae/flask_its_ecosystem_backwards) - [Flask, its ecosystem, and backwards compatibility](https://pgjones.dev/blog/flask-ecosystem-compatibility-2023/)
-* [2023-10-20, 15:22:44](https://lobste.rs/s/hxpb4z/implementing_embed_for_c_c) - [Implementing #embed for C and C++](https://thephd.dev/implementing-embed-c-and-c++)
 * [2023-10-20, 15:16:05](https://lobste.rs/s/txvugz/encrypted_traffic_interception_on) - [Encrypted traffic interception on Hetzner and Linode targeting the largest Russian Jabber server](https://notes.valdikss.org.ru/jabber.ru-mitm/)
 * [2023-10-20, 14:24:48](https://lobste.rs/s/tpbjqe/kyoto_statement_on_end_end_encryption) - [Kyoto Statement on End-To-End Encryption](https://www.globalencryption.org/2023/10/kyoto-statement-on-end-to-end-encryption/)
 * [2023-10-20, 13:04:25](https://lobste.rs/s/qvyf5k/can_we_make_idiot_proof_infrastructure) - [Can We Make Idiot-Proof Infrastructure pt1?](https://matduggan.com/idiot-proof-infrastructure/)
