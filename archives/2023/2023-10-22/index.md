@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-22](index.md)
 
+* [2023-10-22, 14:49:56](https://lobste.rs/s/p0q9hu/kip_932_queues_for_kafka_apache_kafka) - [KIP-932: Queues for Kafka - Apache Kafka - Apache Software Foundation](https://cwiki.apache.org/confluence/display/KAFKA/KIP-932%3A+Queues+for+Kafka)
 * [2023-10-22, 12:30:38](https://lobste.rs/s/bdnluz/my_pain_points_with_emacs_code_search_how_i) - [my pain points with Emacs code search and how I fixed them](https://sepi.me/emacs-ripgrep-workaround/)
 * [2023-10-22, 12:15:32](https://lobste.rs/s/syvdve/internet_throttling_woes) - [Internet Throttling Woes](https://gabrielsimmer.com/blog/internet-throttling-woes)
 * [2023-10-22, 08:33:14](https://lobste.rs/s/yar379/yggdrasil_upcoming_v0_5_release) - [Yggdrasil: Upcoming v0.5 Release](https://yggdrasil-network.github.io/2023/10/22/upcoming-v05-release.html)
