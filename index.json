@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-22, 05:23:40",
+      "https://lobste.rs/s/neatyz/nvme_ssd_boot_with_raspberry_pi_5"
+    ],
+    [
+      "NVMe SSD boot with the Raspberry Pi 5",
+      "https://www.jeffgeerling.com/blog/2023/nvme-ssd-boot-raspberry-pi-5"
+    ]
+  ],
+  [
+    [
       "2023-10-21, 22:45:36",
       "https://lobste.rs/s/hbwscv/programmers_aren_t_productive_anymore"
     ],
@@ -237,16 +247,6 @@
     [
       "Announce Seppo.Social v0.3 and invite thoughts",
       "https://lists.w3.org/Archives/Public/public-swicg/2023Oct/0079.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 07:44:57",
-      "https://lobste.rs/s/3wbr9z/gamedev_lisp_part_1_ecs_metalinguistic"
-    ],
-    [
-      "Gamedev in Lisp. Part 1: ECS and Metalinguistic Abstraction",
-      "https://awkravchuk.itch.io/cl-fast-ecs/devlog/622054/gamedev-in-lisp-part-1-ecs-and-metalinguistic-abstraction"
     ]
   ]
 ]
