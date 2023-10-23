@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-23, 16:49:14",
+      "https://lobste.rs/s/oxm5ce/i_made_chrome_extension_automatically"
+    ],
+    [
+      "I made a chrome extension to automatically catalog bookmarks using OpenAI API",
+      "https://chrome.google.com/webstore/detail/autolicious/jbmpomloomhbfflncpmcmfajbppfddjk"
+    ]
+  ],
+  [
+    [
       "2023-10-23, 16:01:17",
       "https://lobste.rs/s/zhbv0i/object_soup_is_made_indexes_rust"
     ],
@@ -237,16 +247,6 @@
     [
       "NVMe SSD boot with the Raspberry Pi 5",
       "https://www.jeffgeerling.com/blog/2023/nvme-ssd-boot-raspberry-pi-5"
-    ]
-  ],
-  [
-    [
-      "2023-10-21, 22:00:32",
-      "https://lobste.rs/s/inn0rh/electromechanical_refreshable_braille"
-    ],
-    [
-      "Electromechanical refreshable Braille module",
-      "https://hackaday.io/project/191181-electromechanical-refreshable-braille-module"
     ]
   ]
 ]
