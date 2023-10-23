@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-23, 10:53:12](https://lobste.rs/s/simh9a/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/simh9a/what_are_you_doing_this_week)
 * [2023-10-23, 09:27:40](https://lobste.rs/s/fe39h5/report_on_techgnostic_phenomena) - [A report on techgnostic phenomena](https://reincantamentox.substack.com/p/drop-7-a-report-on-techgnostic-phenomena)
 * [2023-10-23, 07:12:05](https://lobste.rs/s/mfttff/tailwind_vs_semantic_css) - [Tailwind vs. Semantic CSS](https://nuejs.org/blog/tailwind-vs-semantic-css/)
 * [2023-10-23, 04:30:05](https://lobste.rs/s/ad9wzg/my_dream_computer_is_finally_on_sale) - [My Dream Computer is Finally on Sale](https://www.youtube.com/watch?v=mPuP1L7vnr0)
@@ -23,7 +24,6 @@
 * [2023-10-21, 17:38:24](https://lobste.rs/s/zis74a/31m_ansi_terminal_security_2023_finding) - [\"[31m\"?! ANSI Terminal security in 2023 and finding 10 CVEs](https://dgl.cx/2023/09/ansi-terminal-security)
 * [2023-10-21, 16:21:39](https://lobste.rs/s/nezjbk/validrive) - [ValiDrive](https://www.grc.com/validrive.htm)
 * [2023-10-21, 16:04:55](https://lobste.rs/s/b8vnep/integrating_dynamic_binaries_macos_apps) - [Integrating dynamic binaries in macOS apps](https://notes.alinpanaitiu.com/Integrating-dynamic-binaries-in-macOS-apps)
-* [2023-10-21, 12:54:46](https://lobste.rs/s/4mlww9/refactoring_has_price_not_refactoring) - [Refactoring has a price. Not refactoring has a cost. Either way, you pay](https://www.germanvelasco.com/blog/refactoring-is-a-habit)
 * [2023-10-21, 01:47:06](https://lobste.rs/s/sv1zyk/recover_lost_text_by_coredumping_firefox) - [recover lost text by coredumping firefox](https://j3s.sh/thought/recover-lost-text-by-coredumping-firefox.html)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 10:53:12](https://lobste.rs/s/simh9a/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/simh9a/what_are_you_doing_this_week)
 * [2023-10-23, 09:27:40](https://lobste.rs/s/fe39h5/report_on_techgnostic_phenomena) - [A report on techgnostic phenomena](https://reincantamentox.substack.com/p/drop-7-a-report-on-techgnostic-phenomena)
 * [2023-10-23, 07:12:05](https://lobste.rs/s/mfttff/tailwind_vs_semantic_css) - [Tailwind vs. Semantic CSS](https://nuejs.org/blog/tailwind-vs-semantic-css/)
 * [2023-10-23, 04:30:05](https://lobste.rs/s/ad9wzg/my_dream_computer_is_finally_on_sale) - [My Dream Computer is Finally on Sale](https://www.youtube.com/watch?v=mPuP1L7vnr0)
