@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-23, 13:42:02](https://lobste.rs/s/in6d23/embeddings_what_they_are_why_they_matter) - [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/)
 * [2023-10-23, 11:50:09](https://lobste.rs/s/ufvsx9/std_embed_all_details) - [std::embed - All the Details](https://thephd.dev/embed-the-details)
 * [2023-10-23, 11:26:47](https://lobste.rs/s/wqky9h/build_farm_visualizations) - [Build farm visualizations](https://medium.com/snowflake/build-farm-visualizations-5a079477502d)
 * [2023-10-23, 11:03:45](https://lobste.rs/s/yujwzy/three_cs_concatenate_compress_cache) - [The Three Cs: Concatenate, Compress, Cache](https://csswizardry.com/2023/10/the-three-c-concatenate-compress-cache/)
@@ -21,7 +22,6 @@
 * [2023-10-22, 12:15:32](https://lobste.rs/s/syvdve/internet_throttling_woes) - [Internet Throttling Woes](https://gabrielsimmer.com/blog/internet-throttling-woes)
 * [2023-10-22, 08:33:14](https://lobste.rs/s/yar379/yggdrasil_upcoming_v0_5_release) - [Yggdrasil: Upcoming v0.5 Release](https://yggdrasil-network.github.io/2023/10/22/upcoming-v05-release.html)
 * [2023-10-22, 05:23:40](https://lobste.rs/s/neatyz/nvme_ssd_boot_with_raspberry_pi_5) - [NVMe SSD boot with the Raspberry Pi 5](https://www.jeffgeerling.com/blog/2023/nvme-ssd-boot-raspberry-pi-5)
-* [2023-10-21, 22:45:36](https://lobste.rs/s/hbwscv/programmers_aren_t_productive_anymore) - [Programmers Aren't Productive Anymore (2019)](https://www.youtube.com/watch?v=bZ6pA--F3D4)
 * [2023-10-21, 22:00:32](https://lobste.rs/s/inn0rh/electromechanical_refreshable_braille) - [Electromechanical refreshable Braille module](https://hackaday.io/project/191181-electromechanical-refreshable-braille-module)
 * [2023-10-21, 20:12:22](https://lobste.rs/s/6wwazd/summonscript_manifest_manifold_models) - [SummonScript - Manifest manifold models with magical machinations](https://github.com/lf94/summonscript)
 * [2023-10-21, 17:38:24](https://lobste.rs/s/zis74a/31m_ansi_terminal_security_2023_finding) - [\"[31m\"?! ANSI Terminal security in 2023 and finding 10 CVEs](https://dgl.cx/2023/09/ansi-terminal-security)

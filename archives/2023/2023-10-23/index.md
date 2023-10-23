@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 13:42:02](https://lobste.rs/s/in6d23/embeddings_what_they_are_why_they_matter) - [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/)
 * [2023-10-23, 12:24:41](https://lobste.rs/s/bxcrrd/ratatui_cook_up_terminal_interfaces) - [Ratatui: Cook up terminal interfaces using Rust (new version released!)](https://github.com/ratatui-org/ratatui/releases/tag/v0.24.0)
 * [2023-10-23, 11:50:09](https://lobste.rs/s/ufvsx9/std_embed_all_details) - [std::embed - All the Details](https://thephd.dev/embed-the-details)
 * [2023-10-23, 11:26:47](https://lobste.rs/s/wqky9h/build_farm_visualizations) - [Build farm visualizations](https://medium.com/snowflake/build-farm-visualizations-5a079477502d)
