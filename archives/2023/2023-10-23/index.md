@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 11:50:09](https://lobste.rs/s/ufvsx9/std_embed_all_details) - [std::embed - All the Details](https://thephd.dev/embed-the-details)
 * [2023-10-23, 11:26:47](https://lobste.rs/s/wqky9h/build_farm_visualizations) - [Build farm visualizations](https://medium.com/snowflake/build-farm-visualizations-5a079477502d)
 * [2023-10-23, 11:03:45](https://lobste.rs/s/yujwzy/three_cs_concatenate_compress_cache) - [The Three Cs: Concatenate, Compress, Cache](https://csswizardry.com/2023/10/the-three-c-concatenate-compress-cache/)
 * [2023-10-23, 10:53:12](https://lobste.rs/s/simh9a/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/simh9a/what_are_you_doing_this_week)
