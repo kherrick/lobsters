@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-23, 04:07:32](https://lobste.rs/s/suafzq/bit_stealing_made_legal_compilation_for) - [Bit-Stealing Made Legal: Compilation for Custom Memory Representations Of Algebraic Data Types](https://inria.hal.science/hal-04165615)
 * [2023-10-23, 02:47:35](https://lobste.rs/s/rjpld4/building_x86_linux_kernel_works_with_both) - [Building an x86 Linux kernel that works with both systemd-boot and kexec](https://iliana.fyi/blog/kexec-systemd-boot-kernel-image/)
 * [2023-10-23, 01:36:37](https://lobste.rs/s/ipvp0f/ydkts_fixing_typescript_s_type_safety) - [YDKTS: Fixing TypeScript's type-safety with Nominal types](https://www.10xtech.io/blogs/nominal-types)
 * [2023-10-23, 01:27:56](https://lobste.rs/s/c37v2l/simple_router) - [Simple Router](https://tonsky.me/blog/simple-router/)
@@ -23,7 +24,6 @@
 * [2023-10-21, 07:26:39](https://lobste.rs/s/numcth/kristall_small_internet_browser) - [Kristall Small Internet Browser](https://kristall.random-projects.net/)
 * [2023-10-21, 03:02:25](https://lobste.rs/s/tegfe8/next_raptor_openpower_systems_are_coming) - [The next Raptor OpenPOWER systems are coming, but they won't be Power10](https://www.talospace.com/2023/10/the-next-raptor-openpower-systems-are.html)
 * [2023-10-21, 01:47:06](https://lobste.rs/s/sv1zyk/recover_lost_text_by_coredumping_firefox) - [recover lost text by coredumping firefox](https://j3s.sh/thought/recover-lost-text-by-coredumping-firefox.html)
-* [2023-10-20, 22:42:45](https://lobste.rs/s/juupfk/zig_is_now_also_windows_resource_compiler) - [Zig is now also a Windows resource compiler](https://www.ryanliptak.com/blog/zig-is-a-windows-resource-compiler/)
 * [2023-10-20, 15:16:05](https://lobste.rs/s/txvugz/encrypted_traffic_interception_on) - [Encrypted traffic interception on Hetzner and Linode targeting the largest Russian Jabber server](https://notes.valdikss.org.ru/jabber.ru-mitm/)
 
 ## [Archives](archives/index.md)
