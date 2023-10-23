@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-23, 07:12:05](https://lobste.rs/s/mfttff/tailwind_vs_semantic_css) - [Tailwind vs. Semantic CSS](https://nuejs.org/blog/tailwind-vs-semantic-css/)
 * [2023-10-23, 04:30:05](https://lobste.rs/s/ad9wzg/my_dream_computer_is_finally_on_sale) - [My Dream Computer is Finally on Sale](https://www.youtube.com/watch?v=mPuP1L7vnr0)
 * [2023-10-23, 04:07:32](https://lobste.rs/s/suafzq/bit_stealing_made_legal_compilation_for) - [Bit-Stealing Made Legal: Compilation for Custom Memory Representations Of Algebraic Data Types](https://inria.hal.science/hal-04165615)
 * [2023-10-23, 02:47:35](https://lobste.rs/s/rjpld4/building_x86_linux_kernel_works_with_both) - [Building an x86 Linux kernel that works with both systemd-boot and kexec](https://iliana.fyi/blog/kexec-systemd-boot-kernel-image/)
@@ -22,7 +23,6 @@
 * [2023-10-21, 16:21:39](https://lobste.rs/s/nezjbk/validrive) - [ValiDrive](https://www.grc.com/validrive.htm)
 * [2023-10-21, 16:04:55](https://lobste.rs/s/b8vnep/integrating_dynamic_binaries_macos_apps) - [Integrating dynamic binaries in macOS apps](https://notes.alinpanaitiu.com/Integrating-dynamic-binaries-in-macOS-apps)
 * [2023-10-21, 12:54:46](https://lobste.rs/s/4mlww9/refactoring_has_price_not_refactoring) - [Refactoring has a price. Not refactoring has a cost. Either way, you pay](https://www.germanvelasco.com/blog/refactoring-is-a-habit)
-* [2023-10-21, 03:02:25](https://lobste.rs/s/tegfe8/next_raptor_openpower_systems_are_coming) - [The next Raptor OpenPOWER systems are coming, but they won't be Power10](https://www.talospace.com/2023/10/the-next-raptor-openpower-systems-are.html)
 * [2023-10-21, 01:47:06](https://lobste.rs/s/sv1zyk/recover_lost_text_by_coredumping_firefox) - [recover lost text by coredumping firefox](https://j3s.sh/thought/recover-lost-text-by-coredumping-firefox.html)
 * [2023-10-20, 15:16:05](https://lobste.rs/s/txvugz/encrypted_traffic_interception_on) - [Encrypted traffic interception on Hetzner and Linode targeting the largest Russian Jabber server](https://notes.valdikss.org.ru/jabber.ru-mitm/)
 
