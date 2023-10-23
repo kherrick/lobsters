@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 09:27:40](https://lobste.rs/s/fe39h5/report_on_techgnostic_phenomena) - [A report on techgnostic phenomena](https://reincantamentox.substack.com/p/drop-7-a-report-on-techgnostic-phenomena)
 * [2023-10-23, 07:12:05](https://lobste.rs/s/mfttff/tailwind_vs_semantic_css) - [Tailwind vs. Semantic CSS](https://nuejs.org/blog/tailwind-vs-semantic-css/)
 * [2023-10-23, 04:30:05](https://lobste.rs/s/ad9wzg/my_dream_computer_is_finally_on_sale) - [My Dream Computer is Finally on Sale](https://www.youtube.com/watch?v=mPuP1L7vnr0)
 * [2023-10-23, 04:07:32](https://lobste.rs/s/suafzq/bit_stealing_made_legal_compilation_for) - [Bit-Stealing Made Legal: Compilation for Custom Memory Representations Of Algebraic Data Types](https://inria.hal.science/hal-04165615)
