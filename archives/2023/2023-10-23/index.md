@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 20:39:27](https://lobste.rs/s/g5ocqn/cascade_cpu_fuzzing_via_intricate) - [Cascade: CPU Fuzzing via Intricate Program Generation](https://comsec.ethz.ch/research/hardware-design-security/cascade-cpu-fuzzing-via-intricate-program-generation/)
 * [2023-10-23, 20:34:32](https://lobste.rs/s/actitw/how_does_macos_manage_virtual_cores_on) - [How does macOS manage virtual cores on Apple silicon?](https://eclecticlight.co/2023/10/23/how-does-macos-manage-virtual-cores-on-apple-silicon/)
 * [2023-10-23, 19:12:00](https://lobste.rs/s/iq8lvb/effects_pitchfork_reforking_on_shopify_s) - [Effects of Pitchfork reforking on Shopify's Monolith](https://railsatscale.com/2023-10-23-pitchfork-impact-on-shopify-monolith/)
 * [2023-10-23, 18:32:01](https://lobste.rs/s/yrqmfo/xwayland_rootful_part1) - [Xwayland rootful - part1](https://ofourdan.blogspot.com/2023/10/xwayland-rootful-part1.html)
