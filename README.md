@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-23, 22:04:54](https://lobste.rs/s/epavce/windows_ce_s_final_day) - [Windows CE’s final day](https://www.hpcfactor.com/news/871/end-of-an-era-windows-ces-final-day)
 * [2023-10-23, 21:10:35](https://lobste.rs/s/qwx0le/tsmc_s_first_breakthrough_copper_low_k) - [TSMC's First Breakthrough: The Copper/Low-K Interconnect Transition](https://youtu.be/XHrQ-Pmvwao)
 * [2023-10-23, 20:39:27](https://lobste.rs/s/g5ocqn/cascade_cpu_fuzzing_via_intricate) - [Cascade: CPU Fuzzing via Intricate Program Generation](https://comsec.ethz.ch/research/hardware-design-security/cascade-cpu-fuzzing-via-intricate-program-generation/)
 * [2023-10-23, 20:34:32](https://lobste.rs/s/actitw/how_does_macos_manage_virtual_cores_on) - [How does macOS manage virtual cores on Apple silicon?](https://eclecticlight.co/2023/10/23/how-does-macos-manage-virtual-cores-on-apple-silicon/)
@@ -23,7 +24,6 @@
 * [2023-10-22, 19:18:08](https://lobste.rs/s/1ovmyq/tale_dev_fd) - [A tale of /dev/fd](http://phala.isatty.net/~amber/hacks/devfd)
 * [2023-10-22, 17:23:49](https://lobste.rs/s/uwgtkt/don_t_use_likely_unlikely_attributes) - [Don’t use the [[likely]] or [[unlikely]] attributes](https://blog.aaronballman.com/2020/08/dont-use-the-likely-or-unlikely-attributes/)
 * [2023-10-22, 12:30:38](https://lobste.rs/s/bdnluz/my_pain_points_with_emacs_code_search_how_i) - [my pain points with Emacs code search and how I fixed them](https://sepi.me/emacs-ripgrep-workaround/)
-* [2023-10-22, 12:15:32](https://lobste.rs/s/syvdve/internet_throttling_woes) - [Internet Throttling Woes](https://gabrielsimmer.com/blog/internet-throttling-woes)
 * [2023-10-22, 08:33:14](https://lobste.rs/s/yar379/yggdrasil_upcoming_v0_5_release) - [Yggdrasil: Upcoming v0.5 Release](https://yggdrasil-network.github.io/2023/10/22/upcoming-v05-release.html)
 
 ## [Archives](archives/index.md)
