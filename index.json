@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-23, 21:10:35",
+      "https://lobste.rs/s/qwx0le/tsmc_s_first_breakthrough_copper_low_k"
+    ],
+    [
+      "TSMC's First Breakthrough: The Copper/Low-K Interconnect Transition",
+      "https://youtu.be/XHrQ-Pmvwao"
+    ]
+  ],
+  [
+    [
       "2023-10-23, 20:39:27",
       "https://lobste.rs/s/g5ocqn/cascade_cpu_fuzzing_via_intricate"
     ],
@@ -187,16 +197,6 @@
     [
       "YDKTS: Fixing TypeScript's type-safety with Nominal types",
       "https://www.10xtech.io/blogs/nominal-types"
-    ]
-  ],
-  [
-    [
-      "2023-10-22, 20:44:42",
-      "https://lobste.rs/s/cnzykr/exploiting_zenbleed_from_chrome"
-    ],
-    [
-      "Exploiting Zenbleed from Chrome",
-      "https://vu.ls/blog/exploiting-zenbleed-from-chrome/"
     ]
   ],
   [
