@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-23, 02:47:35",
+      "https://lobste.rs/s/rjpld4/building_x86_linux_kernel_works_with_both"
+    ],
+    [
+      "Building an x86 Linux kernel that works with both systemd-boot and kexec",
+      "https://iliana.fyi/blog/kexec-systemd-boot-kernel-image/"
+    ]
+  ],
+  [
+    [
       "2023-10-23, 01:36:37",
       "https://lobste.rs/s/ipvp0f/ydkts_fixing_typescript_s_type_safety"
     ],
@@ -217,16 +227,6 @@
     [
       "recover lost text by coredumping firefox",
       "https://j3s.sh/thought/recover-lost-text-by-coredumping-firefox.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 22:44:52",
-      "https://lobste.rs/s/kzjv8k/don_t_use_distinct_as_join_fixer"
-    ],
-    [
-      "Don't use DISTINCT as a \"join-fixer\"",
-      "https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/dont-use-distinct-as-a-join-fixer/"
     ]
   ],
   [
