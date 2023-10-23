@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-23, 11:03:45](https://lobste.rs/s/yujwzy/three_cs_concatenate_compress_cache) - [The Three Cs: Concatenate, Compress, Cache](https://csswizardry.com/2023/10/the-three-c-concatenate-compress-cache/)
 * [2023-10-23, 10:53:12](https://lobste.rs/s/simh9a/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/simh9a/what_are_you_doing_this_week)
 * [2023-10-23, 09:27:40](https://lobste.rs/s/fe39h5/report_on_techgnostic_phenomena) - [A report on techgnostic phenomena](https://reincantamentox.substack.com/p/drop-7-a-report-on-techgnostic-phenomena)
 * [2023-10-23, 07:12:05](https://lobste.rs/s/mfttff/tailwind_vs_semantic_css) - [Tailwind vs. Semantic CSS](https://nuejs.org/blog/tailwind-vs-semantic-css/)
@@ -22,7 +23,6 @@
 * [2023-10-21, 22:00:32](https://lobste.rs/s/inn0rh/electromechanical_refreshable_braille) - [Electromechanical refreshable Braille module](https://hackaday.io/project/191181-electromechanical-refreshable-braille-module)
 * [2023-10-21, 20:12:22](https://lobste.rs/s/6wwazd/summonscript_manifest_manifold_models) - [SummonScript - Manifest manifold models with magical machinations](https://github.com/lf94/summonscript)
 * [2023-10-21, 17:38:24](https://lobste.rs/s/zis74a/31m_ansi_terminal_security_2023_finding) - [\"[31m\"?! ANSI Terminal security in 2023 and finding 10 CVEs](https://dgl.cx/2023/09/ansi-terminal-security)
-* [2023-10-21, 16:21:39](https://lobste.rs/s/nezjbk/validrive) - [ValiDrive](https://www.grc.com/validrive.htm)
 * [2023-10-21, 16:04:55](https://lobste.rs/s/b8vnep/integrating_dynamic_binaries_macos_apps) - [Integrating dynamic binaries in macOS apps](https://notes.alinpanaitiu.com/Integrating-dynamic-binaries-in-macOS-apps)
 * [2023-10-21, 01:47:06](https://lobste.rs/s/sv1zyk/recover_lost_text_by_coredumping_firefox) - [recover lost text by coredumping firefox](https://j3s.sh/thought/recover-lost-text-by-coredumping-firefox.html)
 
