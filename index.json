@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-23, 04:07:32",
+      "https://lobste.rs/s/suafzq/bit_stealing_made_legal_compilation_for"
+    ],
+    [
+      "Bit-Stealing Made Legal: Compilation for Custom Memory Representations Of Algebraic Data Types",
+      "https://inria.hal.science/hal-04165615"
+    ]
+  ],
+  [
+    [
       "2023-10-23, 02:47:35",
       "https://lobste.rs/s/rjpld4/building_x86_linux_kernel_works_with_both"
     ],
@@ -227,16 +237,6 @@
     [
       "recover lost text by coredumping firefox",
       "https://j3s.sh/thought/recover-lost-text-by-coredumping-firefox.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 22:42:45",
-      "https://lobste.rs/s/juupfk/zig_is_now_also_windows_resource_compiler"
-    ],
-    [
-      "Zig is now also a Windows resource compiler",
-      "https://www.ryanliptak.com/blog/zig-is-a-windows-resource-compiler/"
     ]
   ],
   [
