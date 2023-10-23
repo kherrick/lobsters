@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-23, 01:36:37](https://lobste.rs/s/ipvp0f/ydkts_fixing_typescript_s_type_safety) - [YDKTS: Fixing TypeScript's type-safety with Nominal types](https://www.10xtech.io/blogs/nominal-types)
+* [2023-10-23, 01:27:56](https://lobste.rs/s/c37v2l/simple_router) - [Simple Router](https://tonsky.me/blog/simple-router/)
 * [2023-10-22, 20:44:42](https://lobste.rs/s/cnzykr/exploiting_zenbleed_from_chrome) - [Exploiting Zenbleed from Chrome](https://vu.ls/blog/exploiting-zenbleed-from-chrome/)
 * [2023-10-22, 19:18:08](https://lobste.rs/s/1ovmyq/tale_dev_fd) - [A tale of /dev/fd](http://phala.isatty.net/~amber/hacks/devfd)
 * [2023-10-22, 17:31:53](https://lobste.rs/s/knyky9/calamares_arch_derivatives) - [Calamares & Arch (Derivatives)](https://euroquis.nl//calamares/2023/10/22/calamares.html)
@@ -17,13 +19,11 @@
 * [2023-10-21, 16:21:39](https://lobste.rs/s/nezjbk/validrive) - [ValiDrive](https://www.grc.com/validrive.htm)
 * [2023-10-21, 16:04:55](https://lobste.rs/s/b8vnep/integrating_dynamic_binaries_macos_apps) - [Integrating dynamic binaries in macOS apps](https://notes.alinpanaitiu.com/Integrating-dynamic-binaries-in-macOS-apps)
 * [2023-10-21, 12:54:46](https://lobste.rs/s/4mlww9/refactoring_has_price_not_refactoring) - [Refactoring has a price. Not refactoring has a cost. Either way, you pay](https://www.germanvelasco.com/blog/refactoring-is-a-habit)
-* [2023-10-21, 08:53:02](https://lobste.rs/s/gev49p/re_visiting_red_ribbon_linux_on_ps3) - [Re-visiting Red Ribbon Linux on the PS3](https://virtuallyfun.com/2023/10/20/re-visiting-red-ribbon-linux-on-the-ps3/)
 * [2023-10-21, 07:26:39](https://lobste.rs/s/numcth/kristall_small_internet_browser) - [Kristall Small Internet Browser](https://kristall.random-projects.net/)
 * [2023-10-21, 03:02:25](https://lobste.rs/s/tegfe8/next_raptor_openpower_systems_are_coming) - [The next Raptor OpenPOWER systems are coming, but they won't be Power10](https://www.talospace.com/2023/10/the-next-raptor-openpower-systems-are.html)
 * [2023-10-21, 01:47:06](https://lobste.rs/s/sv1zyk/recover_lost_text_by_coredumping_firefox) - [recover lost text by coredumping firefox](https://j3s.sh/thought/recover-lost-text-by-coredumping-firefox.html)
 * [2023-10-20, 22:44:52](https://lobste.rs/s/kzjv8k/don_t_use_distinct_as_join_fixer) - [Don't use DISTINCT as a \"join-fixer\"](https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/dont-use-distinct-as-a-join-fixer/)
 * [2023-10-20, 22:42:45](https://lobste.rs/s/juupfk/zig_is_now_also_windows_resource_compiler) - [Zig is now also a Windows resource compiler](https://www.ryanliptak.com/blog/zig-is-a-windows-resource-compiler/)
-* [2023-10-20, 19:22:39](https://lobste.rs/s/jcduae/flask_its_ecosystem_backwards) - [Flask, its ecosystem, and backwards compatibility](https://pgjones.dev/blog/flask-ecosystem-compatibility-2023/)
 * [2023-10-20, 15:16:05](https://lobste.rs/s/txvugz/encrypted_traffic_interception_on) - [Encrypted traffic interception on Hetzner and Linode targeting the largest Russian Jabber server](https://notes.valdikss.org.ru/jabber.ru-mitm/)
 
 ## [Archives](archives/index.md)
