@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-23, 13:51:09",
+      "https://lobste.rs/s/jkbn8g/control_data_conversions_excel_for"
+    ],
+    [
+      "Control data conversions in Excel for Windows and Mac",
+      "https://insider.microsoft365.com/en-us/blog/control-data-conversions-in-excel-for-windows-and-mac"
+    ]
+  ],
+  [
+    [
+      "2023-10-23, 13:50:04",
+      "https://lobste.rs/s/ostv72/shared_vcard_for_free_ish"
+    ],
+    [
+      "Shared vCard for free-ish",
+      "https://jjasghar.github.io/blog/2023/10/23/shared-vcard-for-free-ish/"
+    ]
+  ],
+  [
+    [
       "2023-10-23, 13:42:02",
       "https://lobste.rs/s/in6d23/embeddings_what_they_are_why_they_matter"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-10-22, 16:10:55",
-      "https://lobste.rs/s/nqet3y/from_annals_preprocessor_hackery"
-    ],
-    [
-      "From the Annals of Preprocessor Hackery",
-      "http://www.os2museum.com/wp/from-the-annals-of-preprocessor-hackery/"
-    ]
-  ],
-  [
-    [
       "2023-10-22, 14:49:56",
       "https://lobste.rs/s/p0q9hu/kip_932_queues_for_kafka_apache_kafka"
     ],
@@ -237,16 +247,6 @@
     [
       "SummonScript - Manifest manifold models with magical machinations",
       "https://github.com/lf94/summonscript"
-    ]
-  ],
-  [
-    [
-      "2023-10-21, 17:38:24",
-      "https://lobste.rs/s/zis74a/31m_ansi_terminal_security_2023_finding"
-    ],
-    [
-      "\"[31m\"?! ANSI Terminal security in 2023 and finding 10 CVEs",
-      "https://dgl.cx/2023/09/ansi-terminal-security"
     ]
   ]
 ]
