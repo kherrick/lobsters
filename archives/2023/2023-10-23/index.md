@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 14:02:21](https://lobste.rs/s/pzkbqz/yarn_4_0) - [Yarn 4.0](https://yarnpkg.com/blog/release/4.0)
 * [2023-10-23, 13:51:09](https://lobste.rs/s/jkbn8g/control_data_conversions_excel_for) - [Control data conversions in Excel for Windows and Mac](https://insider.microsoft365.com/en-us/blog/control-data-conversions-in-excel-for-windows-and-mac)
 * [2023-10-23, 13:50:04](https://lobste.rs/s/ostv72/shared_vcard_for_free_ish) - [Shared vCard for free-ish](https://jjasghar.github.io/blog/2023/10/23/shared-vcard-for-free-ish/)
 * [2023-10-23, 13:42:02](https://lobste.rs/s/in6d23/embeddings_what_they_are_why_they_matter) - [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/)
