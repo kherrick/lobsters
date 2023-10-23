@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 19:12:00](https://lobste.rs/s/iq8lvb/effects_pitchfork_reforking_on_shopify_s) - [Effects of Pitchfork reforking on Shopify's Monolith](https://railsatscale.com/2023-10-23-pitchfork-impact-on-shopify-monolith/)
 * [2023-10-23, 18:32:01](https://lobste.rs/s/yrqmfo/xwayland_rootful_part1) - [Xwayland rootful - part1](https://ofourdan.blogspot.com/2023/10/xwayland-rootful-part1.html)
 * [2023-10-23, 16:49:14](https://lobste.rs/s/oxm5ce/i_made_chrome_extension_automatically) - [I made a chrome extension to automatically catalog bookmarks using OpenAI API](https://chrome.google.com/webstore/detail/autolicious/jbmpomloomhbfflncpmcmfajbppfddjk)
 * [2023-10-23, 16:01:17](https://lobste.rs/s/zhbv0i/object_soup_is_made_indexes_rust) - [Object Soup is Made of Indexes (Rust)](https://jacko.io/object_soup.html)
