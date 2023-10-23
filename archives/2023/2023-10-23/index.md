@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-23](index.md)
 
+* [2023-10-23, 12:24:41](https://lobste.rs/s/bxcrrd/ratatui_cook_up_terminal_interfaces) - [Ratatui: Cook up terminal interfaces using Rust (new version released!)](https://github.com/ratatui-org/ratatui/releases/tag/v0.24.0)
 * [2023-10-23, 11:50:09](https://lobste.rs/s/ufvsx9/std_embed_all_details) - [std::embed - All the Details](https://thephd.dev/embed-the-details)
 * [2023-10-23, 11:26:47](https://lobste.rs/s/wqky9h/build_farm_visualizations) - [Build farm visualizations](https://medium.com/snowflake/build-farm-visualizations-5a079477502d)
 * [2023-10-23, 11:03:45](https://lobste.rs/s/yujwzy/three_cs_concatenate_compress_cache) - [The Three Cs: Concatenate, Compress, Cache](https://csswizardry.com/2023/10/the-three-c-concatenate-compress-cache/)
