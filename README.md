@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-23, 13:51:09](https://lobste.rs/s/jkbn8g/control_data_conversions_excel_for) - [Control data conversions in Excel for Windows and Mac](https://insider.microsoft365.com/en-us/blog/control-data-conversions-in-excel-for-windows-and-mac)
+* [2023-10-23, 13:50:04](https://lobste.rs/s/ostv72/shared_vcard_for_free_ish) - [Shared vCard for free-ish](https://jjasghar.github.io/blog/2023/10/23/shared-vcard-for-free-ish/)
 * [2023-10-23, 13:42:02](https://lobste.rs/s/in6d23/embeddings_what_they_are_why_they_matter) - [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/)
 * [2023-10-23, 11:50:09](https://lobste.rs/s/ufvsx9/std_embed_all_details) - [std::embed - All the Details](https://thephd.dev/embed-the-details)
 * [2023-10-23, 11:26:47](https://lobste.rs/s/wqky9h/build_farm_visualizations) - [Build farm visualizations](https://medium.com/snowflake/build-farm-visualizations-5a079477502d)
@@ -16,7 +18,6 @@
 * [2023-10-22, 19:18:08](https://lobste.rs/s/1ovmyq/tale_dev_fd) - [A tale of /dev/fd](http://phala.isatty.net/~amber/hacks/devfd)
 * [2023-10-22, 17:31:53](https://lobste.rs/s/knyky9/calamares_arch_derivatives) - [Calamares & Arch (Derivatives)](https://euroquis.nl//calamares/2023/10/22/calamares.html)
 * [2023-10-22, 17:23:49](https://lobste.rs/s/uwgtkt/don_t_use_likely_unlikely_attributes) - [Don’t use the [[likely]] or [[unlikely]] attributes](https://blog.aaronballman.com/2020/08/dont-use-the-likely-or-unlikely-attributes/)
-* [2023-10-22, 16:10:55](https://lobste.rs/s/nqet3y/from_annals_preprocessor_hackery) - [From the Annals of Preprocessor Hackery](http://www.os2museum.com/wp/from-the-annals-of-preprocessor-hackery/)
 * [2023-10-22, 14:49:56](https://lobste.rs/s/p0q9hu/kip_932_queues_for_kafka_apache_kafka) - [KIP-932: Queues for Kafka - Apache Kafka - Apache Software Foundation](https://cwiki.apache.org/confluence/display/KAFKA/KIP-932%3A+Queues+for+Kafka)
 * [2023-10-22, 12:30:38](https://lobste.rs/s/bdnluz/my_pain_points_with_emacs_code_search_how_i) - [my pain points with Emacs code search and how I fixed them](https://sepi.me/emacs-ripgrep-workaround/)
 * [2023-10-22, 12:15:32](https://lobste.rs/s/syvdve/internet_throttling_woes) - [Internet Throttling Woes](https://gabrielsimmer.com/blog/internet-throttling-woes)
@@ -24,7 +25,6 @@
 * [2023-10-22, 05:23:40](https://lobste.rs/s/neatyz/nvme_ssd_boot_with_raspberry_pi_5) - [NVMe SSD boot with the Raspberry Pi 5](https://www.jeffgeerling.com/blog/2023/nvme-ssd-boot-raspberry-pi-5)
 * [2023-10-21, 22:00:32](https://lobste.rs/s/inn0rh/electromechanical_refreshable_braille) - [Electromechanical refreshable Braille module](https://hackaday.io/project/191181-electromechanical-refreshable-braille-module)
 * [2023-10-21, 20:12:22](https://lobste.rs/s/6wwazd/summonscript_manifest_manifold_models) - [SummonScript - Manifest manifold models with magical machinations](https://github.com/lf94/summonscript)
-* [2023-10-21, 17:38:24](https://lobste.rs/s/zis74a/31m_ansi_terminal_security_2023_finding) - [\"[31m\"?! ANSI Terminal security in 2023 and finding 10 CVEs](https://dgl.cx/2023/09/ansi-terminal-security)
 
 ## [Archives](archives/index.md)
 
