@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-23, 01:36:37",
+      "https://lobste.rs/s/ipvp0f/ydkts_fixing_typescript_s_type_safety"
+    ],
+    [
+      "YDKTS: Fixing TypeScript's type-safety with Nominal types",
+      "https://www.10xtech.io/blogs/nominal-types"
+    ]
+  ],
+  [
+    [
+      "2023-10-23, 01:27:56",
+      "https://lobste.rs/s/c37v2l/simple_router"
+    ],
+    [
+      "Simple Router",
+      "https://tonsky.me/blog/simple-router/"
+    ]
+  ],
+  [
+    [
       "2023-10-22, 20:44:42",
       "https://lobste.rs/s/cnzykr/exploiting_zenbleed_from_chrome"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-10-21, 08:53:02",
-      "https://lobste.rs/s/gev49p/re_visiting_red_ribbon_linux_on_ps3"
-    ],
-    [
-      "Re-visiting Red Ribbon Linux on the PS3",
-      "https://virtuallyfun.com/2023/10/20/re-visiting-red-ribbon-linux-on-the-ps3/"
-    ]
-  ],
-  [
-    [
       "2023-10-21, 07:26:39",
       "https://lobste.rs/s/numcth/kristall_small_internet_browser"
     ],
@@ -227,16 +237,6 @@
     [
       "Zig is now also a Windows resource compiler",
       "https://www.ryanliptak.com/blog/zig-is-a-windows-resource-compiler/"
-    ]
-  ],
-  [
-    [
-      "2023-10-20, 19:22:39",
-      "https://lobste.rs/s/jcduae/flask_its_ecosystem_backwards"
-    ],
-    [
-      "Flask, its ecosystem, and backwards compatibility",
-      "https://pgjones.dev/blog/flask-ecosystem-compatibility-2023/"
     ]
   ],
   [
