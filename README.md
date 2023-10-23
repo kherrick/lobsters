@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-23, 20:34:32](https://lobste.rs/s/actitw/how_does_macos_manage_virtual_cores_on) - [How does macOS manage virtual cores on Apple silicon?](https://eclecticlight.co/2023/10/23/how-does-macos-manage-virtual-cores-on-apple-silicon/)
 * [2023-10-23, 19:12:00](https://lobste.rs/s/iq8lvb/effects_pitchfork_reforking_on_shopify_s) - [Effects of Pitchfork reforking on Shopify's Monolith](https://railsatscale.com/2023-10-23-pitchfork-impact-on-shopify-monolith/)
 * [2023-10-23, 18:32:01](https://lobste.rs/s/yrqmfo/xwayland_rootful_part1) - [Xwayland rootful - part1](https://ofourdan.blogspot.com/2023/10/xwayland-rootful-part1.html)
 * [2023-10-23, 16:49:14](https://lobste.rs/s/oxm5ce/i_made_chrome_extension_automatically) - [I made a chrome extension to automatically catalog bookmarks using OpenAI API](https://chrome.google.com/webstore/detail/autolicious/jbmpomloomhbfflncpmcmfajbppfddjk)
@@ -17,7 +18,6 @@
 * [2023-10-23, 04:07:32](https://lobste.rs/s/suafzq/bit_stealing_made_legal_compilation_for) - [Bit-Stealing Made Legal: Compilation for Custom Memory Representations Of Algebraic Data Types](https://inria.hal.science/hal-04165615)
 * [2023-10-23, 02:47:35](https://lobste.rs/s/rjpld4/building_x86_linux_kernel_works_with_both) - [Building an x86 Linux kernel that works with both systemd-boot and kexec](https://iliana.fyi/blog/kexec-systemd-boot-kernel-image/)
 * [2023-10-23, 01:36:37](https://lobste.rs/s/ipvp0f/ydkts_fixing_typescript_s_type_safety) - [YDKTS: Fixing TypeScript's type-safety with Nominal types](https://www.10xtech.io/blogs/nominal-types)
-* [2023-10-23, 01:27:56](https://lobste.rs/s/c37v2l/simple_router) - [Simple Router](https://tonsky.me/blog/simple-router/)
 * [2023-10-22, 20:44:42](https://lobste.rs/s/cnzykr/exploiting_zenbleed_from_chrome) - [Exploiting Zenbleed from Chrome](https://vu.ls/blog/exploiting-zenbleed-from-chrome/)
 * [2023-10-22, 19:18:08](https://lobste.rs/s/1ovmyq/tale_dev_fd) - [A tale of /dev/fd](http://phala.isatty.net/~amber/hacks/devfd)
 * [2023-10-22, 17:23:49](https://lobste.rs/s/uwgtkt/don_t_use_likely_unlikely_attributes) - [Don’t use the [[likely]] or [[unlikely]] attributes](https://blog.aaronballman.com/2020/08/dont-use-the-likely-or-unlikely-attributes/)
