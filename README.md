@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-23, 16:01:17](https://lobste.rs/s/zhbv0i/object_soup_is_made_indexes_rust) - [Object Soup is Made of Indexes (Rust)](https://jacko.io/object_soup.html)
 * [2023-10-23, 14:02:21](https://lobste.rs/s/pzkbqz/yarn_4_0) - [Yarn 4.0](https://yarnpkg.com/blog/release/4.0)
 * [2023-10-23, 13:51:09](https://lobste.rs/s/jkbn8g/control_data_conversions_excel_for) - [Control data conversions in Excel for Windows and Mac](https://insider.microsoft365.com/en-us/blog/control-data-conversions-in-excel-for-windows-and-mac)
 * [2023-10-23, 13:50:04](https://lobste.rs/s/ostv72/shared_vcard_for_free_ish) - [Shared vCard for free-ish](https://jjasghar.github.io/blog/2023/10/23/shared-vcard-for-free-ish/)
@@ -24,7 +25,6 @@
 * [2023-10-22, 08:33:14](https://lobste.rs/s/yar379/yggdrasil_upcoming_v0_5_release) - [Yggdrasil: Upcoming v0.5 Release](https://yggdrasil-network.github.io/2023/10/22/upcoming-v05-release.html)
 * [2023-10-22, 05:23:40](https://lobste.rs/s/neatyz/nvme_ssd_boot_with_raspberry_pi_5) - [NVMe SSD boot with the Raspberry Pi 5](https://www.jeffgeerling.com/blog/2023/nvme-ssd-boot-raspberry-pi-5)
 * [2023-10-21, 22:00:32](https://lobste.rs/s/inn0rh/electromechanical_refreshable_braille) - [Electromechanical refreshable Braille module](https://hackaday.io/project/191181-electromechanical-refreshable-braille-module)
-* [2023-10-21, 20:12:22](https://lobste.rs/s/6wwazd/summonscript_manifest_manifold_models) - [SummonScript - Manifest manifold models with magical machinations](https://github.com/lf94/summonscript)
 
 ## [Archives](archives/index.md)
 
