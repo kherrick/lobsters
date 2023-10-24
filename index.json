@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2023-10-23, 13:51:09",
-      "https://lobste.rs/s/jkbn8g/control_data_conversions_excel_for"
-    ],
-    [
-      "Control data conversions in Excel for Windows and Mac",
-      "https://insider.microsoft365.com/en-us/blog/control-data-conversions-in-excel-for-windows-and-mac"
-    ]
-  ],
-  [
-    [
       "2023-10-23, 13:50:04",
       "https://lobste.rs/s/ostv72/shared_vcard_for_free_ish"
     ],
@@ -157,6 +147,16 @@
     [
       "std::embed - All the Details",
       "https://thephd.dev/embed-the-details"
+    ]
+  ],
+  [
+    [
+      "2023-10-23, 11:26:47",
+      "https://lobste.rs/s/wqky9h/build_farm_visualizations"
+    ],
+    [
+      "Build farm visualizations",
+      "https://medium.com/snowflake/build-farm-visualizations-5a079477502d"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2023-10-23, 02:47:35",
+      "https://lobste.rs/s/rjpld4/building_x86_linux_kernel_works_with_both"
+    ],
+    [
+      "Building an x86 Linux kernel that works with both systemd-boot and kexec",
+      "https://iliana.fyi/blog/kexec-systemd-boot-kernel-image/"
+    ]
+  ],
+  [
+    [
       "2023-10-23, 01:36:37",
       "https://lobste.rs/s/ipvp0f/ydkts_fixing_typescript_s_type_safety"
     ],
@@ -237,16 +247,6 @@
     [
       "Don’t use the [[likely]] or [[unlikely]] attributes",
       "https://blog.aaronballman.com/2020/08/dont-use-the-likely-or-unlikely-attributes/"
-    ]
-  ],
-  [
-    [
-      "2023-10-22, 12:30:38",
-      "https://lobste.rs/s/bdnluz/my_pain_points_with_emacs_code_search_how_i"
-    ],
-    [
-      "my pain points with Emacs code search and how I fixed them",
-      "https://sepi.me/emacs-ripgrep-workaround/"
     ]
   ]
 ]
