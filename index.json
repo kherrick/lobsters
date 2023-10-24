@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-24, 18:45:55",
+      "https://lobste.rs/s/f3b6su/they_re_called_slices_because_they_have"
+    ],
+    [
+      "They're called Slices because they have Sharp Edges: Even More Go Pitfalls",
+      "https://www.dolthub.com/blog/2023-10-20-golang-pitfalls-3/"
+    ]
+  ],
+  [
+    [
       "2023-10-24, 18:44:24",
       "https://lobste.rs/s/spljcj/why_we_don_t_generate_elliptic_curves"
     ],
@@ -77,16 +87,6 @@
     [
       "Live 2D Compositional Programming",
       "https://michael.homer.nz/Publications/LIVE2022/article/"
-    ]
-  ],
-  [
-    [
-      "2023-10-24, 15:29:56",
-      "https://lobste.rs/s/u65ju5/cloud_design_patterns"
-    ],
-    [
-      "Cloud design patterns",
-      "https://learn.microsoft.com/en-us/azure/architecture/patterns/"
     ]
   ],
   [
