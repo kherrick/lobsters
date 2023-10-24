@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-24, 03:06:36",
+      "https://lobste.rs/s/hk0w2b/equality_dependent_types_typechecking"
+    ],
+    [
+      "Equality, Dependent Types, and Typechecking",
+      "https://kalyani-tt.github.io/build/html/dep-equality.html"
+    ]
+  ],
+  [
+    [
       "2023-10-24, 02:47:14",
       "https://lobste.rs/s/jerg92/windows_longhorn_cairo_more_dave_cutler"
     ],
@@ -137,16 +147,6 @@
     [
       "std::embed - All the Details",
       "https://thephd.dev/embed-the-details"
-    ]
-  ],
-  [
-    [
-      "2023-10-23, 11:26:47",
-      "https://lobste.rs/s/wqky9h/build_farm_visualizations"
-    ],
-    [
-      "Build farm visualizations",
-      "https://medium.com/snowflake/build-farm-visualizations-5a079477502d"
     ]
   ],
   [
