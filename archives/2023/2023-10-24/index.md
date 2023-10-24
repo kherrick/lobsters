@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
+* [2023-10-24, 16:56:14](https://lobste.rs/s/prahuv/unveiling_power_nixos_integration_test) - [Unveiling the Power of the NixOS Integration Test Driver (Part 1)](https://nixcademy.com/2023/10/24/nixos-integration-tests/)
 * [2023-10-24, 15:42:58](https://lobste.rs/s/gbgtq5/live_2d_compositional_programming) - [Live 2D Compositional Programming](https://michael.homer.nz/Publications/LIVE2022/article/)
 * [2023-10-24, 15:29:56](https://lobste.rs/s/u65ju5/cloud_design_patterns) - [Cloud design patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
 * [2023-10-24, 15:10:40](https://lobste.rs/s/gyar3m/writing_dynamic_array_c) - [Writing a Dynamic Array in C](https://blog.phundrak.com/writing-dynamic-vector-c/)
