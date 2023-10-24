@@ -7,7 +7,7 @@
 * [2023-10-23, 19:12:00](https://lobste.rs/s/iq8lvb/effects_pitchfork_reforking_on_shopify_s) - [Effects of Pitchfork reforking on Shopify's Monolith](https://railsatscale.com/2023-10-23-pitchfork-impact-on-shopify-monolith/)
 * [2023-10-23, 18:32:01](https://lobste.rs/s/yrqmfo/xwayland_rootful_part1) - [Xwayland rootful - part1](https://ofourdan.blogspot.com/2023/10/xwayland-rootful-part1.html)
 * [2023-10-23, 16:49:14](https://lobste.rs/s/oxm5ce/i_made_chrome_extension_automatically) - [I made a chrome extension to automatically catalog bookmarks using OpenAI API](https://chrome.google.com/webstore/detail/autolicious/jbmpomloomhbfflncpmcmfajbppfddjk)
-* [2023-10-23, 16:01:17](https://lobste.rs/s/zhbv0i/object_soup_is_made_indexes_rust) - [Object Soup is Made of Indexes (Rust)](https://jacko.io/object_soup.html)
+* [2023-10-23, 16:01:17](https://lobste.rs/s/zhbv0i/object_soup_is_made_indexes) - [Object Soup is Made of Indexes](https://jacko.io/object_soup.html)
 * [2023-10-23, 14:02:21](https://lobste.rs/s/pzkbqz/yarn_4_0) - [Yarn 4.0](https://yarnpkg.com/blog/release/4.0)
 * [2023-10-23, 13:51:09](https://lobste.rs/s/jkbn8g/control_data_conversions_excel_for) - [Control data conversions in Excel for Windows and Mac](https://insider.microsoft365.com/en-us/blog/control-data-conversions-in-excel-for-windows-and-mac)
 * [2023-10-23, 13:50:04](https://lobste.rs/s/ostv72/shared_vcard_for_free_ish) - [Shared vCard for free-ish](https://jjasghar.github.io/blog/2023/10/23/shared-vcard-for-free-ish/)
