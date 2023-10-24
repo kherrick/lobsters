@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-24, 15:10:40](https://lobste.rs/s/gyar3m/writing_dynamic_array_c) - [Writing a Dynamic Array in C](https://blog.phundrak.com/writing-dynamic-vector-c/)
 * [2023-10-24, 13:56:41](https://lobste.rs/s/tpe028/on_learning_compilers_creating) - [On Learning Compilers and Creating Programming Languages](https://www.craigstuntz.com/posts/2023-10-13-learning-compilers-and-programming-languages.html)
 * [2023-10-24, 13:42:06](https://lobste.rs/s/umdapz/unified_versus_split_diff) - [Unified Versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
 * [2023-10-24, 11:43:12](https://lobste.rs/s/mk7mh5/fully_automated_releases_for_rust) - [Fully Automated Releases for Rust Projects](https://blog.orhun.dev/automated-rust-releases/)
@@ -10,7 +11,6 @@
 * [2023-10-24, 03:06:36](https://lobste.rs/s/hk0w2b/equality_dependent_types_typechecking) - [Equality, Dependent Types, and Typechecking](https://kalyani-tt.github.io/build/html/dep-equality.html)
 * [2023-10-24, 02:47:14](https://lobste.rs/s/jerg92/windows_longhorn_cairo_more_dave_cutler) - [Windows Longhorn, Cairo, and More: Dave Cutler and the History of Windows](https://www.youtube.com/watch?v=xi1Lq79mLeE)
 * [2023-10-23, 22:04:54](https://lobste.rs/s/epavce/windows_ce_s_final_day) - [Windows CE’s final day](https://www.hpcfactor.com/news/871/end-of-an-era-windows-ces-final-day)
-* [2023-10-23, 21:10:35](https://lobste.rs/s/qwx0le/tsmc_s_first_breakthrough_copper_low_k) - [TSMC's First Breakthrough: The Copper/Low-K Interconnect Transition](https://youtu.be/XHrQ-Pmvwao)
 * [2023-10-23, 20:39:27](https://lobste.rs/s/g5ocqn/cascade_cpu_fuzzing_via_intricate) - [Cascade: CPU Fuzzing via Intricate Program Generation](https://comsec.ethz.ch/research/hardware-design-security/cascade-cpu-fuzzing-via-intricate-program-generation/)
 * [2023-10-23, 20:34:32](https://lobste.rs/s/actitw/how_does_macos_manage_virtual_cores_on) - [How does macOS manage virtual cores on Apple silicon?](https://eclecticlight.co/2023/10/23/how-does-macos-manage-virtual-cores-on-apple-silicon/)
 * [2023-10-23, 19:12:00](https://lobste.rs/s/iq8lvb/effects_pitchfork_reforking_on_shopify_s) - [Effects of Pitchfork reforking on Shopify's Monolith](https://railsatscale.com/2023-10-23-pitchfork-impact-on-shopify-monolith/)
