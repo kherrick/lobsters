@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-24, 04:40:46](https://lobste.rs/s/tmvaxu/okta_support_system_incident_1password) - [Okta Support System incident and 1Password](https://blog.1password.com/okta-incident/)
 * [2023-10-24, 03:06:36](https://lobste.rs/s/hk0w2b/equality_dependent_types_typechecking) - [Equality, Dependent Types, and Typechecking](https://kalyani-tt.github.io/build/html/dep-equality.html)
 * [2023-10-24, 02:47:14](https://lobste.rs/s/jerg92/windows_longhorn_cairo_more_dave_cutler) - [Windows Longhorn, Cairo, and More: Dave Cutler and the History of Windows](https://www.youtube.com/watch?v=xi1Lq79mLeE)
 * [2023-10-23, 22:04:54](https://lobste.rs/s/epavce/windows_ce_s_final_day) - [Windows CE’s final day](https://www.hpcfactor.com/news/871/end-of-an-era-windows-ces-final-day)
@@ -20,7 +21,6 @@
 * [2023-10-23, 07:12:05](https://lobste.rs/s/mfttff/tailwind_vs_semantic_css) - [Tailwind vs. Semantic CSS](https://nuejs.org/blog/tailwind-vs-semantic-css/)
 * [2023-10-23, 04:30:05](https://lobste.rs/s/ad9wzg/my_dream_computer_is_finally_on_sale) - [My Dream Computer is Finally on Sale](https://www.youtube.com/watch?v=mPuP1L7vnr0)
 * [2023-10-23, 04:07:32](https://lobste.rs/s/suafzq/bit_stealing_made_legal_compilation_for) - [Bit-Stealing Made Legal: Compilation for Custom Memory Representations Of Algebraic Data Types](https://inria.hal.science/hal-04165615)
-* [2023-10-23, 02:47:35](https://lobste.rs/s/rjpld4/building_x86_linux_kernel_works_with_both) - [Building an x86 Linux kernel that works with both systemd-boot and kexec](https://iliana.fyi/blog/kexec-systemd-boot-kernel-image/)
 * [2023-10-23, 01:36:37](https://lobste.rs/s/ipvp0f/ydkts_fixing_typescript_s_type_safety) - [YDKTS: Fixing TypeScript's type-safety with Nominal types](https://www.10xtech.io/blogs/nominal-types)
 * [2023-10-22, 19:18:08](https://lobste.rs/s/1ovmyq/tale_dev_fd) - [A tale of /dev/fd](http://phala.isatty.net/~amber/hacks/devfd)
 * [2023-10-22, 17:23:49](https://lobste.rs/s/uwgtkt/don_t_use_likely_unlikely_attributes) - [Don’t use the [[likely]] or [[unlikely]] attributes](https://blog.aaronballman.com/2020/08/dont-use-the-likely-or-unlikely-attributes/)
