@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2023-10-23, 11:26:47",
-      "https://lobste.rs/s/wqky9h/build_farm_visualizations"
-    ],
-    [
-      "Build farm visualizations",
-      "https://medium.com/snowflake/build-farm-visualizations-5a079477502d"
-    ]
-  ],
-  [
-    [
       "2023-10-23, 11:03:45",
       "https://lobste.rs/s/yujwzy/three_cs_concatenate_compress_cache"
     ],
@@ -217,6 +207,16 @@
     [
       "Bit-Stealing Made Legal: Compilation for Custom Memory Representations Of Algebraic Data Types",
       "https://inria.hal.science/hal-04165615"
+    ]
+  ],
+  [
+    [
+      "2023-10-23, 02:47:35",
+      "https://lobste.rs/s/rjpld4/building_x86_linux_kernel_works_with_both"
+    ],
+    [
+      "Building an x86 Linux kernel that works with both systemd-boot and kexec",
+      "https://iliana.fyi/blog/kexec-systemd-boot-kernel-image/"
     ]
   ],
   [
