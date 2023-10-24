@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
+* [2023-10-24, 13:42:06](https://lobste.rs/s/umdapz/unified_versus_split_diff) - [Unified Versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
 * [2023-10-24, 11:43:12](https://lobste.rs/s/mk7mh5/fully_automated_releases_for_rust) - [Fully Automated Releases for Rust Projects](https://blog.orhun.dev/automated-rust-releases/)
 * [2023-10-24, 08:51:57](https://lobste.rs/s/avyec3/introduction_probability_for_computing) - [Introduction to Probability for Computing](http://www.cs.cmu.edu/~harchol/Probability/book.html)
 * [2023-10-24, 08:48:40](https://lobste.rs/s/ta6kqz/under_hood_rosette) - [Under the hood of Rosette](https://rdivyanshu.github.io/rosette-internal.html)
