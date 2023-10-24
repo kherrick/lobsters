@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
+* [2023-10-24, 21:28:04](https://lobste.rs/s/nzepwd/feedi_personal_news_reader_mastodon) - [feedi - a personal news reader and Mastodon client](https://github.com/facundoolano/feedi)
 * [2023-10-24, 21:21:24](https://lobste.rs/s/7xvtut/wait_is_cloud_bad) - [Wait, is cloud bad?](https://newsletter.goodtechthings.com/p/wait-is-cloud-bad)
 * [2023-10-24, 20:07:36](https://lobste.rs/s/lkb3g6/osi_deprogrammer) - [The OSI Deprogrammer](https://docs.google.com/document/d/1iL0fYmMmariFoSvLd9U5nPVH1uFKC7bvVasUcYq78So/edit)
 * [2023-10-24, 19:04:45](https://lobste.rs/s/3gcrtl/serving_custom_vector_web_map_using) - [Serving a custom vector web map using PMTiles and maplibre-gl](https://til.simonwillison.net/gis/pmtiles)
