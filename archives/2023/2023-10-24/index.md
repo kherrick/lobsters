@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
+* [2023-10-24, 18:45:55](https://lobste.rs/s/f3b6su/they_re_called_slices_because_they_have) - [They're called Slices because they have Sharp Edges: Even More Go Pitfalls](https://www.dolthub.com/blog/2023-10-20-golang-pitfalls-3/)
 * [2023-10-24, 18:44:24](https://lobste.rs/s/spljcj/why_we_don_t_generate_elliptic_curves) - [Why We Don’t Generate Elliptic Curves Every Day](https://words.filippo.io/dispatches/parameters/)
 * [2023-10-24, 18:35:18](https://lobste.rs/s/5cjknd/we_just_gave_500_000_open_source) - [We Just Gave $500,000 to Open Source Maintainers](https://blog.sentry.io/we-just-gave-500-000-dollars-to-open-source-maintainers/)
 * [2023-10-24, 18:15:54](https://lobste.rs/s/qa8f8b/optimism_vs_pessimism_distributed) - [Optimism vs Pessimism in Distributed Systems - Marc's Blog](https://brooker.co.za/blog/2023/10/18/optimism.html)

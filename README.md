@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-24, 18:45:55](https://lobste.rs/s/f3b6su/they_re_called_slices_because_they_have) - [They're called Slices because they have Sharp Edges: Even More Go Pitfalls](https://www.dolthub.com/blog/2023-10-20-golang-pitfalls-3/)
 * [2023-10-24, 18:44:24](https://lobste.rs/s/spljcj/why_we_don_t_generate_elliptic_curves) - [Why We Don’t Generate Elliptic Curves Every Day](https://words.filippo.io/dispatches/parameters/)
 * [2023-10-24, 18:35:18](https://lobste.rs/s/5cjknd/we_just_gave_500_000_open_source) - [We Just Gave $500,000 to Open Source Maintainers](https://blog.sentry.io/we-just-gave-500-000-dollars-to-open-source-maintainers/)
 * [2023-10-24, 18:15:54](https://lobste.rs/s/qa8f8b/optimism_vs_pessimism_distributed) - [Optimism vs Pessimism in Distributed Systems - Marc's Blog](https://brooker.co.za/blog/2023/10/18/optimism.html)
@@ -8,7 +9,6 @@
 * [2023-10-24, 17:42:02](https://lobste.rs/s/4wffkj/unmasking_go_html_parser_bug_with) - [Unmasking a Go HTML Parser Bug with Differential Fuzzing](https://mionskowski.pl/posts/unmasking-go-html-parser-bug/)
 * [2023-10-24, 16:56:14](https://lobste.rs/s/prahuv/unveiling_power_nixos_integration_test) - [Unveiling the Power of the NixOS Integration Test Driver (Part 1)](https://nixcademy.com/2023/10/24/nixos-integration-tests/)
 * [2023-10-24, 15:42:58](https://lobste.rs/s/gbgtq5/live_2d_compositional_programming) - [Live 2D Compositional Programming](https://michael.homer.nz/Publications/LIVE2022/article/)
-* [2023-10-24, 15:29:56](https://lobste.rs/s/u65ju5/cloud_design_patterns) - [Cloud design patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
 * [2023-10-24, 15:10:40](https://lobste.rs/s/gyar3m/writing_dynamic_array_c) - [Writing a Dynamic Array in C](https://blog.phundrak.com/writing-dynamic-vector-c/)
 * [2023-10-24, 13:56:41](https://lobste.rs/s/tpe028/on_learning_compilers_creating) - [On Learning Compilers and Creating Programming Languages](https://www.craigstuntz.com/posts/2023-10-13-learning-compilers-and-programming-languages.html)
 * [2023-10-24, 13:42:06](https://lobste.rs/s/umdapz/unified_versus_split_diff) - [Unified Versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
