@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-24, 15:29:56",
+      "https://lobste.rs/s/u65ju5/cloud_design_patterns"
+    ],
+    [
+      "Cloud design patterns",
+      "https://learn.microsoft.com/en-us/azure/architecture/patterns/"
+    ]
+  ],
+  [
+    [
       "2023-10-24, 15:10:40",
       "https://lobste.rs/s/gyar3m/writing_dynamic_array_c"
     ],
@@ -207,16 +217,6 @@
     [
       "std::embed - All the Details",
       "https://thephd.dev/embed-the-details"
-    ]
-  ],
-  [
-    [
-      "2023-10-23, 11:03:45",
-      "https://lobste.rs/s/yujwzy/three_cs_concatenate_compress_cache"
-    ],
-    [
-      "The Three Cs: Concatenate, Compress, Cache",
-      "https://csswizardry.com/2023/10/the-three-c-concatenate-compress-cache/"
     ]
   ],
   [
