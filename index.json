@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-24, 17:42:02",
+      "https://lobste.rs/s/4wffkj/unmasking_go_html_parser_bug_with"
+    ],
+    [
+      "Unmasking a Go HTML Parser Bug with Differential Fuzzing",
+      "https://mionskowski.pl/posts/unmasking-go-html-parser-bug/"
+    ]
+  ],
+  [
+    [
       "2023-10-24, 16:56:14",
       "https://lobste.rs/s/prahuv/unveiling_power_nixos_integration_test"
     ],
@@ -237,16 +247,6 @@
     [
       "Tailwind vs. Semantic CSS",
       "https://nuejs.org/blog/tailwind-vs-semantic-css/"
-    ]
-  ],
-  [
-    [
-      "2023-10-23, 04:30:05",
-      "https://lobste.rs/s/ad9wzg/my_dream_computer_is_finally_on_sale"
-    ],
-    [
-      "My Dream Computer is Finally on Sale",
-      "https://www.youtube.com/watch?v=mPuP1L7vnr0"
     ]
   ]
 ]
