@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-24, 18:35:18](https://lobste.rs/s/5cjknd/we_just_gave_500_000_open_source) - [We Just Gave $500,000 to Open Source Maintainers](https://blog.sentry.io/we-just-gave-500-000-dollars-to-open-source-maintainers/)
 * [2023-10-24, 18:15:54](https://lobste.rs/s/qa8f8b/optimism_vs_pessimism_distributed) - [Optimism vs Pessimism in Distributed Systems - Marc's Blog](https://brooker.co.za/blog/2023/10/18/optimism.html)
 * [2023-10-24, 18:13:23](https://lobste.rs/s/lbqo28/case_curious_sql_query) - [The Case of a Curious SQL Query](https://buttondown.email/jaffray/archive/the-case-of-a-curious-sql-query/)
 * [2023-10-24, 18:04:41](https://lobste.rs/s/2m8ngb/type_erasure_rust) - [Type Erasure in Rust](https://belkadan.com/blog/2023/10/Type-Erasure-in-Rust/)
@@ -23,7 +24,6 @@
 * [2023-10-23, 18:32:01](https://lobste.rs/s/yrqmfo/xwayland_rootful_part1) - [Xwayland rootful - part1](https://ofourdan.blogspot.com/2023/10/xwayland-rootful-part1.html)
 * [2023-10-23, 16:01:17](https://lobste.rs/s/zhbv0i/object_soup_is_made_indexes) - [Object Soup is Made of Indexes](https://jacko.io/object_soup.html)
 * [2023-10-23, 13:42:02](https://lobste.rs/s/in6d23/embeddings_what_they_are_why_they_matter) - [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/)
-* [2023-10-23, 10:53:12](https://lobste.rs/s/simh9a/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/simh9a/what_are_you_doing_this_week)
 * [2023-10-23, 07:12:05](https://lobste.rs/s/mfttff/tailwind_vs_semantic_css) - [Tailwind vs. Semantic CSS](https://nuejs.org/blog/tailwind-vs-semantic-css/)
 
 ## [Archives](archives/index.md)
