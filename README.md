@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-24, 22:32:50](https://lobste.rs/s/i82idi/certwatch) - [CertWatch](https://blog.jmp.chat/b/certwatch)
 * [2023-10-24, 21:28:04](https://lobste.rs/s/nzepwd/feedi_personal_news_reader_mastodon) - [feedi - a personal news reader and Mastodon client](https://github.com/facundoolano/feedi)
 * [2023-10-24, 21:21:24](https://lobste.rs/s/7xvtut/wait_is_cloud_bad) - [Wait, is cloud bad?](https://newsletter.goodtechthings.com/p/wait-is-cloud-bad)
 * [2023-10-24, 20:07:36](https://lobste.rs/s/lkb3g6/osi_deprogrammer) - [The OSI Deprogrammer](https://docs.google.com/document/d/1iL0fYmMmariFoSvLd9U5nPVH1uFKC7bvVasUcYq78So/edit)
@@ -14,7 +15,6 @@
 * [2023-10-24, 13:56:41](https://lobste.rs/s/tpe028/on_learning_compilers_creating) - [On Learning Compilers and Creating Programming Languages](https://www.craigstuntz.com/posts/2023-10-13-learning-compilers-and-programming-languages.html)
 * [2023-10-24, 13:42:06](https://lobste.rs/s/umdapz/unified_versus_split_diff) - [Unified Versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
 * [2023-10-24, 11:43:12](https://lobste.rs/s/mk7mh5/fully_automated_releases_for_rust) - [Fully Automated Releases for Rust Projects](https://blog.orhun.dev/automated-rust-releases/)
-* [2023-10-24, 08:51:57](https://lobste.rs/s/avyec3/introduction_probability_for_computing) - [Introduction to Probability for Computing](http://www.cs.cmu.edu/~harchol/Probability/book.html)
 * [2023-10-24, 08:48:40](https://lobste.rs/s/ta6kqz/under_hood_rosette) - [Under the hood of Rosette](https://rdivyanshu.github.io/rosette-internal.html)
 * [2023-10-24, 05:56:58](https://lobste.rs/s/lad42y/netbsd_as_kubernetes_pod) - [NetBSD as a Kubernetes Pod](https://imil.net/blog/posts/2023/netbsd-as-a-k8s-pod/)
 * [2023-10-24, 04:40:46](https://lobste.rs/s/tmvaxu/okta_support_system_incident_1password) - [Okta Support System incident and 1Password](https://blog.1password.com/okta-incident/)
