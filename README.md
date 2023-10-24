@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-24, 18:44:24](https://lobste.rs/s/spljcj/why_we_don_t_generate_elliptic_curves) - [Why We Don’t Generate Elliptic Curves Every Day](https://words.filippo.io/dispatches/parameters/)
 * [2023-10-24, 18:35:18](https://lobste.rs/s/5cjknd/we_just_gave_500_000_open_source) - [We Just Gave $500,000 to Open Source Maintainers](https://blog.sentry.io/we-just-gave-500-000-dollars-to-open-source-maintainers/)
 * [2023-10-24, 18:15:54](https://lobste.rs/s/qa8f8b/optimism_vs_pessimism_distributed) - [Optimism vs Pessimism in Distributed Systems - Marc's Blog](https://brooker.co.za/blog/2023/10/18/optimism.html)
 * [2023-10-24, 18:13:23](https://lobste.rs/s/lbqo28/case_curious_sql_query) - [The Case of a Curious SQL Query](https://buttondown.email/jaffray/archive/the-case-of-a-curious-sql-query/)
@@ -19,7 +20,6 @@
 * [2023-10-24, 03:06:36](https://lobste.rs/s/hk0w2b/equality_dependent_types_typechecking) - [Equality, Dependent Types, and Typechecking](https://kalyani-tt.github.io/build/html/dep-equality.html)
 * [2023-10-24, 02:47:14](https://lobste.rs/s/jerg92/windows_longhorn_cairo_more_dave_cutler) - [Windows Longhorn, Cairo, and More: Dave Cutler and the History of Windows](https://www.youtube.com/watch?v=xi1Lq79mLeE)
 * [2023-10-23, 22:04:54](https://lobste.rs/s/epavce/windows_ce_s_final_day) - [Windows CE’s final day](https://www.hpcfactor.com/news/871/end-of-an-era-windows-ces-final-day)
-* [2023-10-23, 20:39:27](https://lobste.rs/s/g5ocqn/cascade_cpu_fuzzing_via_intricate) - [Cascade: CPU Fuzzing via Intricate Program Generation](https://comsec.ethz.ch/research/hardware-design-security/cascade-cpu-fuzzing-via-intricate-program-generation/)
 * [2023-10-23, 19:12:00](https://lobste.rs/s/iq8lvb/effects_pitchfork_reforking_on_shopify_s) - [Effects of Pitchfork reforking on Shopify's Monolith](https://railsatscale.com/2023-10-23-pitchfork-impact-on-shopify-monolith/)
 * [2023-10-23, 18:32:01](https://lobste.rs/s/yrqmfo/xwayland_rootful_part1) - [Xwayland rootful - part1](https://ofourdan.blogspot.com/2023/10/xwayland-rootful-part1.html)
 * [2023-10-23, 16:01:17](https://lobste.rs/s/zhbv0i/object_soup_is_made_indexes) - [Object Soup is Made of Indexes](https://jacko.io/object_soup.html)
