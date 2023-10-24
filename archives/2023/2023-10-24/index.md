@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
+* [2023-10-24, 18:04:41](https://lobste.rs/s/2m8ngb/type_erasure_rust) - [Type Erasure in Rust](https://belkadan.com/blog/2023/10/Type-Erasure-in-Rust/)
 * [2023-10-24, 17:42:02](https://lobste.rs/s/4wffkj/unmasking_go_html_parser_bug_with) - [Unmasking a Go HTML Parser Bug with Differential Fuzzing](https://mionskowski.pl/posts/unmasking-go-html-parser-bug/)
 * [2023-10-24, 16:56:14](https://lobste.rs/s/prahuv/unveiling_power_nixos_integration_test) - [Unveiling the Power of the NixOS Integration Test Driver (Part 1)](https://nixcademy.com/2023/10/24/nixos-integration-tests/)
 * [2023-10-24, 15:42:58](https://lobste.rs/s/gbgtq5/live_2d_compositional_programming) - [Live 2D Compositional Programming](https://michael.homer.nz/Publications/LIVE2022/article/)

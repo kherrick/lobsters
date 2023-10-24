@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-24, 18:04:41](https://lobste.rs/s/2m8ngb/type_erasure_rust) - [Type Erasure in Rust](https://belkadan.com/blog/2023/10/Type-Erasure-in-Rust/)
 * [2023-10-24, 17:42:02](https://lobste.rs/s/4wffkj/unmasking_go_html_parser_bug_with) - [Unmasking a Go HTML Parser Bug with Differential Fuzzing](https://mionskowski.pl/posts/unmasking-go-html-parser-bug/)
 * [2023-10-24, 16:56:14](https://lobste.rs/s/prahuv/unveiling_power_nixos_integration_test) - [Unveiling the Power of the NixOS Integration Test Driver (Part 1)](https://nixcademy.com/2023/10/24/nixos-integration-tests/)
 * [2023-10-24, 15:42:58](https://lobste.rs/s/gbgtq5/live_2d_compositional_programming) - [Live 2D Compositional Programming](https://michael.homer.nz/Publications/LIVE2022/article/)
@@ -18,7 +19,6 @@
 * [2023-10-23, 20:39:27](https://lobste.rs/s/g5ocqn/cascade_cpu_fuzzing_via_intricate) - [Cascade: CPU Fuzzing via Intricate Program Generation](https://comsec.ethz.ch/research/hardware-design-security/cascade-cpu-fuzzing-via-intricate-program-generation/)
 * [2023-10-23, 19:12:00](https://lobste.rs/s/iq8lvb/effects_pitchfork_reforking_on_shopify_s) - [Effects of Pitchfork reforking on Shopify's Monolith](https://railsatscale.com/2023-10-23-pitchfork-impact-on-shopify-monolith/)
 * [2023-10-23, 18:32:01](https://lobste.rs/s/yrqmfo/xwayland_rootful_part1) - [Xwayland rootful - part1](https://ofourdan.blogspot.com/2023/10/xwayland-rootful-part1.html)
-* [2023-10-23, 16:49:14](https://lobste.rs/s/oxm5ce/i_made_chrome_extension_automatically) - [I made a chrome extension to automatically catalog bookmarks using OpenAI API](https://chrome.google.com/webstore/detail/autolicious/jbmpomloomhbfflncpmcmfajbppfddjk)
 * [2023-10-23, 16:01:17](https://lobste.rs/s/zhbv0i/object_soup_is_made_indexes) - [Object Soup is Made of Indexes](https://jacko.io/object_soup.html)
 * [2023-10-23, 13:50:04](https://lobste.rs/s/ostv72/shared_vcard_for_free_ish) - [Shared vCard for free-ish](https://jjasghar.github.io/blog/2023/10/23/shared-vcard-for-free-ish/)
 * [2023-10-23, 13:42:02](https://lobste.rs/s/in6d23/embeddings_what_they_are_why_they_matter) - [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/)
