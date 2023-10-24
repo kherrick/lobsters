@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-10-24](index.md)
+
+* [2023-10-24, 02:47:14](https://lobste.rs/s/jerg92/windows_longhorn_cairo_more_dave_cutler) - [Windows Longhorn, Cairo, and More: Dave Cutler and the History of Windows](https://www.youtube.com/watch?v=xi1Lq79mLeE)
