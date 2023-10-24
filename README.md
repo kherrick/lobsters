@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-24, 18:15:54](https://lobste.rs/s/qa8f8b/optimism_vs_pessimism_distributed) - [Optimism vs Pessimism in Distributed Systems - Marc's Blog](https://brooker.co.za/blog/2023/10/18/optimism.html)
+* [2023-10-24, 18:13:23](https://lobste.rs/s/lbqo28/case_curious_sql_query) - [The Case of a Curious SQL Query](https://buttondown.email/jaffray/archive/the-case-of-a-curious-sql-query/)
 * [2023-10-24, 18:04:41](https://lobste.rs/s/2m8ngb/type_erasure_rust) - [Type Erasure in Rust](https://belkadan.com/blog/2023/10/Type-Erasure-in-Rust/)
 * [2023-10-24, 17:42:02](https://lobste.rs/s/4wffkj/unmasking_go_html_parser_bug_with) - [Unmasking a Go HTML Parser Bug with Differential Fuzzing](https://mionskowski.pl/posts/unmasking-go-html-parser-bug/)
 * [2023-10-24, 16:56:14](https://lobste.rs/s/prahuv/unveiling_power_nixos_integration_test) - [Unveiling the Power of the NixOS Integration Test Driver (Part 1)](https://nixcademy.com/2023/10/24/nixos-integration-tests/)
@@ -20,9 +22,7 @@
 * [2023-10-23, 19:12:00](https://lobste.rs/s/iq8lvb/effects_pitchfork_reforking_on_shopify_s) - [Effects of Pitchfork reforking on Shopify's Monolith](https://railsatscale.com/2023-10-23-pitchfork-impact-on-shopify-monolith/)
 * [2023-10-23, 18:32:01](https://lobste.rs/s/yrqmfo/xwayland_rootful_part1) - [Xwayland rootful - part1](https://ofourdan.blogspot.com/2023/10/xwayland-rootful-part1.html)
 * [2023-10-23, 16:01:17](https://lobste.rs/s/zhbv0i/object_soup_is_made_indexes) - [Object Soup is Made of Indexes](https://jacko.io/object_soup.html)
-* [2023-10-23, 13:50:04](https://lobste.rs/s/ostv72/shared_vcard_for_free_ish) - [Shared vCard for free-ish](https://jjasghar.github.io/blog/2023/10/23/shared-vcard-for-free-ish/)
 * [2023-10-23, 13:42:02](https://lobste.rs/s/in6d23/embeddings_what_they_are_why_they_matter) - [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/)
-* [2023-10-23, 11:50:09](https://lobste.rs/s/ufvsx9/std_embed_all_details) - [std::embed - All the Details](https://thephd.dev/embed-the-details)
 * [2023-10-23, 10:53:12](https://lobste.rs/s/simh9a/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/simh9a/what_are_you_doing_this_week)
 * [2023-10-23, 07:12:05](https://lobste.rs/s/mfttff/tailwind_vs_semantic_css) - [Tailwind vs. Semantic CSS](https://nuejs.org/blog/tailwind-vs-semantic-css/)
 

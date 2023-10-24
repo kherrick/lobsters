@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-24](index.md)
 
+* [2023-10-24, 18:15:54](https://lobste.rs/s/qa8f8b/optimism_vs_pessimism_distributed) - [Optimism vs Pessimism in Distributed Systems - Marc's Blog](https://brooker.co.za/blog/2023/10/18/optimism.html)
+* [2023-10-24, 18:13:23](https://lobste.rs/s/lbqo28/case_curious_sql_query) - [The Case of a Curious SQL Query](https://buttondown.email/jaffray/archive/the-case-of-a-curious-sql-query/)
 * [2023-10-24, 18:04:41](https://lobste.rs/s/2m8ngb/type_erasure_rust) - [Type Erasure in Rust](https://belkadan.com/blog/2023/10/Type-Erasure-in-Rust/)
 * [2023-10-24, 17:42:02](https://lobste.rs/s/4wffkj/unmasking_go_html_parser_bug_with) - [Unmasking a Go HTML Parser Bug with Differential Fuzzing](https://mionskowski.pl/posts/unmasking-go-html-parser-bug/)
 * [2023-10-24, 16:56:14](https://lobste.rs/s/prahuv/unveiling_power_nixos_integration_test) - [Unveiling the Power of the NixOS Integration Test Driver (Part 1)](https://nixcademy.com/2023/10/24/nixos-integration-tests/)
