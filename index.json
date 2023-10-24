@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-24, 08:51:57",
+      "https://lobste.rs/s/avyec3/introduction_probability_for_computing"
+    ],
+    [
+      "Introduction to Probability for Computing",
+      "http://www.cs.cmu.edu/~harchol/Probability/book.html"
+    ]
+  ],
+  [
+    [
+      "2023-10-24, 08:48:40",
+      "https://lobste.rs/s/ta6kqz/under_hood_rosette"
+    ],
+    [
+      "Under the hood of Rosette",
+      "https://rdivyanshu.github.io/rosette-internal.html"
+    ]
+  ],
+  [
+    [
       "2023-10-24, 05:56:58",
       "https://lobste.rs/s/lad42y/netbsd_as_kubernetes_pod"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2023-10-23, 02:47:35",
-      "https://lobste.rs/s/rjpld4/building_x86_linux_kernel_works_with_both"
-    ],
-    [
-      "Building an x86 Linux kernel that works with both systemd-boot and kexec",
-      "https://iliana.fyi/blog/kexec-systemd-boot-kernel-image/"
-    ]
-  ],
-  [
-    [
       "2023-10-23, 01:36:37",
       "https://lobste.rs/s/ipvp0f/ydkts_fixing_typescript_s_type_safety"
     ],
     [
       "YDKTS: Fixing TypeScript's type-safety with Nominal types",
       "https://www.10xtech.io/blogs/nominal-types"
-    ]
-  ],
-  [
-    [
-      "2023-10-22, 19:18:08",
-      "https://lobste.rs/s/1ovmyq/tale_dev_fd"
-    ],
-    [
-      "A tale of /dev/fd",
-      "http://phala.isatty.net/~amber/hacks/devfd"
     ]
   ],
   [
