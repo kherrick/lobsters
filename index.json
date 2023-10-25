@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-25, 01:30:07",
+      "https://lobste.rs/s/dotccs/textbook_explaining_why_osi_model_is"
+    ],
+    [
+      "A textbook explaining why the OSI Model is obsolete",
+      "https://infosec.exchange/@ErrataRob/111292579023859489"
+    ]
+  ],
+  [
+    [
+      "2023-10-25, 00:58:48",
+      "https://lobste.rs/s/vfqhyf/review_practical_ml_programming_with_sml"
+    ],
+    [
+      "Review of \"Practical ML Programming with SML#\"",
+      "https://pzel.name/2023/07/23/Practical-ML-with-sml-sharp-review-chapter-2.html"
+    ]
+  ],
+  [
+    [
       "2023-10-24, 22:32:50",
       "https://lobste.rs/s/i82idi/certwatch"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-10-24, 03:06:36",
-      "https://lobste.rs/s/hk0w2b/equality_dependent_types_typechecking"
-    ],
-    [
-      "Equality, Dependent Types, and Typechecking",
-      "https://kalyani-tt.github.io/build/html/dep-equality.html"
-    ]
-  ],
-  [
-    [
       "2023-10-24, 02:47:14",
       "https://lobste.rs/s/jerg92/windows_longhorn_cairo_more_dave_cutler"
     ],
@@ -207,16 +217,6 @@
     [
       "Windows CE’s final day",
       "https://www.hpcfactor.com/news/871/end-of-an-era-windows-ces-final-day"
-    ]
-  ],
-  [
-    [
-      "2023-10-23, 18:32:01",
-      "https://lobste.rs/s/yrqmfo/xwayland_rootful_part1"
-    ],
-    [
-      "Xwayland rootful - part1",
-      "https://ofourdan.blogspot.com/2023/10/xwayland-rootful-part1.html"
     ]
   ],
   [
