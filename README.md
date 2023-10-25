@@ -7,6 +7,7 @@
 * [2023-10-25, 13:12:12](https://lobste.rs/s/o7urqf/on_deck_chairs_http_2) - [On the deck-chairs of HTTP/2](https://varnish-cache.org/docs/trunk/phk/h2againagainagain.html)
 * [2023-10-25, 11:13:46](https://lobste.rs/s/atghoh/url_pattern_standard) - [The URL Pattern Standard](https://blog.whatwg.org/url-pattern-standard)
 * [2023-10-25, 10:22:40](https://lobste.rs/s/svuvap/on_linking_bookmarks) - [On Linking Bookmarks](https://joshleeb.com/posts/linking-bookmarks.html)
+* [2023-10-25, 09:04:46](https://lobste.rs/s/pcufso/how_rama_is_tested_primer_on_testing) - [How Rama is tested: a primer on testing distributed systems](https://blog.redplanetlabs.com/2023/10/24/how-rama-is-tested-a-primer-on-testing-distributed-systems/)
 * [2023-10-25, 04:54:11](https://lobste.rs/s/k9mapw/arch_linux_compat_on_freebsd) - [Arch Linux Compat on FreeBSD](https://github.com/mtrkss/arch-compat-tutorial/)
 * [2023-10-25, 02:58:58](https://lobste.rs/s/xs1mqq/update_openresty_vs_lua_5_4_benchmark) - [Update: OpenResty vs Lua 5.4: a benchmark](https://berwyn.hashnode.dev/update-openresty-vs-lua-54-a-benchmark)
 * [2023-10-25, 01:55:26](https://lobste.rs/s/zki9jw/performance_impact_memoization_idiom_on) - [Performance impact of the memoization idiom on modern Ruby](https://railsatscale.com/2023-10-24-memoization-pattern-and-object-shapes/)
@@ -24,7 +25,6 @@
 * [2023-10-24, 13:56:41](https://lobste.rs/s/tpe028/on_learning_compilers_creating) - [On Learning Compilers and Creating Programming Languages](https://www.craigstuntz.com/posts/2023-10-13-learning-compilers-and-programming-languages.html)
 * [2023-10-24, 13:42:06](https://lobste.rs/s/umdapz/unified_versus_split_diff) - [Unified Versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
 * [2023-10-24, 08:48:40](https://lobste.rs/s/ta6kqz/under_hood_rosette) - [Under the hood of Rosette](https://rdivyanshu.github.io/rosette-internal.html)
-* [2023-10-24, 04:40:46](https://lobste.rs/s/tmvaxu/okta_support_system_incident_1password) - [Okta Support System incident and 1Password](https://blog.1password.com/okta-incident/)
 
 ## [Archives](archives/index.md)
 
