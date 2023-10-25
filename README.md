@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-25, 22:36:00](https://lobste.rs/s/hpxj9o/was_rust_worth_it) - [Was Rust Worth It?](https://jsoverson.medium.com/was-rust-worth-it-f43d171fb1b3)
 * [2023-10-25, 19:52:56](https://lobste.rs/s/5w9ku1/helix_23_10_highlights) - [Helix 23.10 Highlights](https://helix-editor.com/news/release-23-10-highlights/)
 * [2023-10-25, 19:49:03](https://lobste.rs/s/lam1nk/porting_linux_pledge_go) - [porting linux pledge to go](https://flak.tedunangst.com/post/porting-linux-pledge-to-go)
 * [2023-10-25, 18:52:58](https://lobste.rs/s/4hvwum/ileakage) - [iLeakage](https://ileakage.com/)
@@ -22,7 +23,6 @@
 * [2023-10-24, 18:45:55](https://lobste.rs/s/f3b6su/they_re_called_slices_because_they_have) - [They're called Slices because they have Sharp Edges: Even More Go Pitfalls](https://www.dolthub.com/blog/2023-10-20-golang-pitfalls-3/)
 * [2023-10-24, 18:44:24](https://lobste.rs/s/spljcj/why_we_don_t_generate_elliptic_curves) - [Why We Don’t Generate Elliptic Curves Every Day](https://words.filippo.io/dispatches/parameters/)
 * [2023-10-24, 18:13:23](https://lobste.rs/s/lbqo28/case_curious_sql_query) - [The Case of a Curious SQL Query](https://buttondown.email/jaffray/archive/the-case-of-a-curious-sql-query/)
-* [2023-10-24, 16:56:14](https://lobste.rs/s/prahuv/unveiling_power_nixos_integration_test) - [Unveiling the Power of the NixOS Integration Test Driver (Part 1)](https://nixcademy.com/2023/10/24/nixos-integration-tests/)
 * [2023-10-24, 13:56:41](https://lobste.rs/s/tpe028/on_learning_compilers_creating) - [On Learning Compilers and Creating Programming Languages](https://www.craigstuntz.com/posts/2023-10-13-learning-compilers-and-programming-languages.html)
 * [2023-10-24, 13:42:06](https://lobste.rs/s/umdapz/unified_versus_split_diff) - [Unified Versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
 
