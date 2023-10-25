@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-25, 11:13:46",
+      "https://lobste.rs/s/atghoh/url_pattern_standard"
+    ],
+    [
+      "The URL Pattern Standard",
+      "https://blog.whatwg.org/url-pattern-standard"
+    ]
+  ],
+  [
+    [
       "2023-10-25, 10:22:40",
       "https://lobste.rs/s/svuvap/on_linking_bookmarks"
     ],
@@ -217,16 +227,6 @@
     [
       "Under the hood of Rosette",
       "https://rdivyanshu.github.io/rosette-internal.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-24, 05:56:58",
-      "https://lobste.rs/s/lad42y/netbsd_as_kubernetes_pod"
-    ],
-    [
-      "NetBSD as a Kubernetes Pod",
-      "https://imil.net/blog/posts/2023/netbsd-as-a-k8s-pod/"
     ]
   ],
   [
