@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
+* [2023-10-25, 18:42:52](https://lobste.rs/s/ilpdug/til_addlicense_tool_automate_license) - [TIL: addlicense, a tool to automate license headers](https://gluer.org/blog/2023/til-addlicense-a-tool-to-automate-license-headers/)
+* [2023-10-25, 18:39:02](https://lobste.rs/s/lvtxot/divwalker_bookmarklet) - [DivWalker (bookmarklet)](https://divwalker.arbitrarydata.co.uk/)
 * [2023-10-25, 18:16:50](https://lobste.rs/s/nxtu9u/universe_discourse_horizontal_vertical) - [The Universe of Discourse : Horizontal and vertical complexity](https://blog.plover.com/prog/vertical-complexity.html)
 * [2023-10-25, 18:05:04](https://lobste.rs/s/jok9tf/not_knowing_proc_file_system) - [Not knowing the /proc file system](https://admccartney.mur.at/programming/idkproc/)
 * [2023-10-25, 17:40:30](https://lobste.rs/s/vvmtx3/what_we_learned_from_migrating_our_web_app) - [What we learned from migrating our web app to SvelteKit](https://blog.datawrapper.de/migrating-our-web-app-to-sveltekit/)
