@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-25, 14:08:10",
+      "https://lobste.rs/s/xqw33g/announcing_flakestry_dev_new_registry"
+    ],
+    [
+      "Announcing flakestry.dev - new registry for flakes",
+      "https://discourse.nixos.org/t/announcing-flakestry-dev-new-registry-for-flakes/34583"
+    ]
+  ],
+  [
+    [
       "2023-10-25, 13:39:31",
       "https://lobste.rs/s/2cpm4u/what_s_new_node_js_21"
     ],
@@ -47,16 +57,6 @@
     [
       "On Linking Bookmarks",
       "https://joshleeb.com/posts/linking-bookmarks.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-25, 09:04:46",
-      "https://lobste.rs/s/pcufso/how_rama_is_tested_primer_on_testing"
-    ],
-    [
-      "How Rama is tested: a primer on testing distributed systems",
-      "https://blog.redplanetlabs.com/2023/10/24/how-rama-is-tested-a-primer-on-testing-distributed-systems/"
     ]
   ],
   [
