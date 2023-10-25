@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-25, 10:22:40",
+      "https://lobste.rs/s/svuvap/on_linking_bookmarks"
+    ],
+    [
+      "On Linking Bookmarks",
+      "https://joshleeb.com/posts/linking-bookmarks.html"
+    ]
+  ],
+  [
+    [
       "2023-10-25, 09:04:46",
       "https://lobste.rs/s/pcufso/how_rama_is_tested_primer_on_testing"
     ],
@@ -237,16 +247,6 @@
     [
       "Object Soup is Made of Indexes",
       "https://jacko.io/object_soup.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-23, 07:12:05",
-      "https://lobste.rs/s/mfttff/tailwind_vs_semantic_css"
-    ],
-    [
-      "Tailwind vs. Semantic CSS",
-      "https://nuejs.org/blog/tailwind-vs-semantic-css/"
     ]
   ]
 ]
