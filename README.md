@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-25, 19:52:56](https://lobste.rs/s/5w9ku1/helix_23_10_highlights) - [Helix 23.10 Highlights](https://helix-editor.com/news/release-23-10-highlights/)
 * [2023-10-25, 19:49:03](https://lobste.rs/s/lam1nk/porting_linux_pledge_go) - [porting linux pledge to go](https://flak.tedunangst.com/post/porting-linux-pledge-to-go)
-* [2023-10-25, 18:52:58](https://lobste.rs/s/4hvwum/ileakage) - [iLeakage](https://ileakage.com/)
 * [2023-10-25, 17:40:30](https://lobste.rs/s/vvmtx3/what_we_learned_from_migrating_our_web_app) - [What we learned from migrating our web app to SvelteKit](https://blog.datawrapper.de/migrating-our-web-app-to-sveltekit/)
 * [2023-10-25, 17:06:20](https://lobste.rs/s/ydtdya/nix_survival_mode_macos_upgrades_won_t) - [Nix Survival Mode: macOS upgrades won't break Nix anymore](https://determinate.systems/posts/nix-survival-mode-on-macos)
 * [2023-10-25, 16:18:01](https://lobste.rs/s/herfb0/my_2023_all_flash_zfs_nas_network_storage) - [My 2023 all-flash ZFS NAS (Network Storage) build](https://michael.stapelberg.ch/posts/2023-10-25-my-all-flash-zfs-network-storage-build/)
