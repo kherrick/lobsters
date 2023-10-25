@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-25, 10:22:40](https://lobste.rs/s/svuvap/on_linking_bookmarks) - [On Linking Bookmarks](https://joshleeb.com/posts/linking-bookmarks.html)
 * [2023-10-25, 09:04:46](https://lobste.rs/s/pcufso/how_rama_is_tested_primer_on_testing) - [How Rama is tested: a primer on testing distributed systems](https://blog.redplanetlabs.com/2023/10/24/how-rama-is-tested-a-primer-on-testing-distributed-systems/)
 * [2023-10-25, 06:19:28](https://lobste.rs/s/nugexk/anonymized_dump_your_postgres_data) - [Anonymized dump of your Postgres data](https://tembo.io/blog/anon-dump/)
 * [2023-10-25, 04:54:11](https://lobste.rs/s/k9mapw/arch_linux_compat_on_freebsd) - [Arch Linux Compat on FreeBSD](https://github.com/mtrkss/arch-compat-tutorial/)
@@ -24,7 +25,6 @@
 * [2023-10-24, 05:56:58](https://lobste.rs/s/lad42y/netbsd_as_kubernetes_pod) - [NetBSD as a Kubernetes Pod](https://imil.net/blog/posts/2023/netbsd-as-a-k8s-pod/)
 * [2023-10-24, 04:40:46](https://lobste.rs/s/tmvaxu/okta_support_system_incident_1password) - [Okta Support System incident and 1Password](https://blog.1password.com/okta-incident/)
 * [2023-10-23, 16:01:17](https://lobste.rs/s/zhbv0i/object_soup_is_made_indexes) - [Object Soup is Made of Indexes](https://jacko.io/object_soup.html)
-* [2023-10-23, 07:12:05](https://lobste.rs/s/mfttff/tailwind_vs_semantic_css) - [Tailwind vs. Semantic CSS](https://nuejs.org/blog/tailwind-vs-semantic-css/)
 
 ## [Archives](archives/index.md)
 
