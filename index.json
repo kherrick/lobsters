@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-25, 06:19:28",
+      "https://lobste.rs/s/nugexk/anonymized_dump_your_postgres_data"
+    ],
+    [
+      "Anonymized dump of your Postgres data",
+      "https://tembo.io/blog/anon-dump/"
+    ]
+  ],
+  [
+    [
       "2023-10-25, 04:54:11",
       "https://lobste.rs/s/k9mapw/arch_linux_compat_on_freebsd"
     ],
@@ -147,16 +157,6 @@
     [
       "Unveiling the Power of the NixOS Integration Test Driver (Part 1)",
       "https://nixcademy.com/2023/10/24/nixos-integration-tests/"
-    ]
-  ],
-  [
-    [
-      "2023-10-24, 15:42:58",
-      "https://lobste.rs/s/gbgtq5/live_2d_compositional_programming"
-    ],
-    [
-      "Live 2D Compositional Programming",
-      "https://michael.homer.nz/Publications/LIVE2022/article/"
     ]
   ],
   [
