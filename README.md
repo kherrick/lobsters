@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-25, 01:30:07](https://lobste.rs/s/dotccs/textbook_explaining_why_osi_model_is) - [A textbook explaining why the OSI Model is obsolete](https://infosec.exchange/@ErrataRob/111292579023859489)
+* [2023-10-25, 00:58:48](https://lobste.rs/s/vfqhyf/review_practical_ml_programming_with_sml) - [Review of \"Practical ML Programming with SML#\"](https://pzel.name/2023/07/23/Practical-ML-with-sml-sharp-review-chapter-2.html)
 * [2023-10-24, 22:32:50](https://lobste.rs/s/i82idi/certwatch) - [CertWatch](https://blog.jmp.chat/b/certwatch)
 * [2023-10-24, 21:28:04](https://lobste.rs/s/nzepwd/feedi_personal_news_reader_mastodon) - [feedi - a personal news reader and Mastodon client](https://github.com/facundoolano/feedi)
 * [2023-10-24, 21:21:24](https://lobste.rs/s/7xvtut/wait_is_cloud_bad) - [Wait, is cloud bad?](https://newsletter.goodtechthings.com/p/wait-is-cloud-bad)
@@ -18,10 +20,8 @@
 * [2023-10-24, 08:48:40](https://lobste.rs/s/ta6kqz/under_hood_rosette) - [Under the hood of Rosette](https://rdivyanshu.github.io/rosette-internal.html)
 * [2023-10-24, 05:56:58](https://lobste.rs/s/lad42y/netbsd_as_kubernetes_pod) - [NetBSD as a Kubernetes Pod](https://imil.net/blog/posts/2023/netbsd-as-a-k8s-pod/)
 * [2023-10-24, 04:40:46](https://lobste.rs/s/tmvaxu/okta_support_system_incident_1password) - [Okta Support System incident and 1Password](https://blog.1password.com/okta-incident/)
-* [2023-10-24, 03:06:36](https://lobste.rs/s/hk0w2b/equality_dependent_types_typechecking) - [Equality, Dependent Types, and Typechecking](https://kalyani-tt.github.io/build/html/dep-equality.html)
 * [2023-10-24, 02:47:14](https://lobste.rs/s/jerg92/windows_longhorn_cairo_more_dave_cutler) - [Windows Longhorn, Cairo, and More: Dave Cutler and the History of Windows](https://www.youtube.com/watch?v=xi1Lq79mLeE)
 * [2023-10-23, 22:04:54](https://lobste.rs/s/epavce/windows_ce_s_final_day) - [Windows CE’s final day](https://www.hpcfactor.com/news/871/end-of-an-era-windows-ces-final-day)
-* [2023-10-23, 18:32:01](https://lobste.rs/s/yrqmfo/xwayland_rootful_part1) - [Xwayland rootful - part1](https://ofourdan.blogspot.com/2023/10/xwayland-rootful-part1.html)
 * [2023-10-23, 16:01:17](https://lobste.rs/s/zhbv0i/object_soup_is_made_indexes) - [Object Soup is Made of Indexes](https://jacko.io/object_soup.html)
 * [2023-10-23, 13:42:02](https://lobste.rs/s/in6d23/embeddings_what_they_are_why_they_matter) - [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/)
 * [2023-10-23, 07:12:05](https://lobste.rs/s/mfttff/tailwind_vs_semantic_css) - [Tailwind vs. Semantic CSS](https://nuejs.org/blog/tailwind-vs-semantic-css/)
