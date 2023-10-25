@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
+* [2023-10-25, 14:36:37](https://lobste.rs/s/gccijr/how_make_almost_any_computer_modern_day) - [How to make almost any computer a modern-day PLATO terminal](https://arstechnica.com/?p=1962768)
 * [2023-10-25, 14:08:10](https://lobste.rs/s/xqw33g/announcing_flakestry_dev_new_registry) - [Announcing flakestry.dev - new registry for flakes](https://discourse.nixos.org/t/announcing-flakestry-dev-new-registry-for-flakes/34583)
 * [2023-10-25, 13:39:31](https://lobste.rs/s/2cpm4u/what_s_new_node_js_21) - [What's New in Node.js 21](https://blog.appsignal.com/2023/10/25/whats-new-in-nodejs-21.html)
 * [2023-10-25, 13:20:42](https://lobste.rs/s/mgrebh/advice_novice_programmer) - [Advice to a novice programmer](https://blog.plover.com/prog/katara-advice.html)
