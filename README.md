@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-25, 14:08:10](https://lobste.rs/s/xqw33g/announcing_flakestry_dev_new_registry) - [Announcing flakestry.dev - new registry for flakes](https://discourse.nixos.org/t/announcing-flakestry-dev-new-registry-for-flakes/34583)
 * [2023-10-25, 13:39:31](https://lobste.rs/s/2cpm4u/what_s_new_node_js_21) - [What's New in Node.js 21](https://blog.appsignal.com/2023/10/25/whats-new-in-nodejs-21.html)
 * [2023-10-25, 13:20:42](https://lobste.rs/s/mgrebh/advice_novice_programmer) - [Advice to a novice programmer](https://blog.plover.com/prog/katara-advice.html)
 * [2023-10-25, 13:12:12](https://lobste.rs/s/o7urqf/on_deck_chairs_http_2) - [On the deck-chairs of HTTP/2](https://varnish-cache.org/docs/trunk/phk/h2againagainagain.html)
 * [2023-10-25, 11:13:46](https://lobste.rs/s/atghoh/url_pattern_standard) - [The URL Pattern Standard](https://blog.whatwg.org/url-pattern-standard)
 * [2023-10-25, 10:22:40](https://lobste.rs/s/svuvap/on_linking_bookmarks) - [On Linking Bookmarks](https://joshleeb.com/posts/linking-bookmarks.html)
-* [2023-10-25, 09:04:46](https://lobste.rs/s/pcufso/how_rama_is_tested_primer_on_testing) - [How Rama is tested: a primer on testing distributed systems](https://blog.redplanetlabs.com/2023/10/24/how-rama-is-tested-a-primer-on-testing-distributed-systems/)
 * [2023-10-25, 06:19:28](https://lobste.rs/s/nugexk/anonymized_dump_your_postgres_data) - [Anonymized dump of your Postgres data](https://tembo.io/blog/anon-dump/)
 * [2023-10-25, 04:54:11](https://lobste.rs/s/k9mapw/arch_linux_compat_on_freebsd) - [Arch Linux Compat on FreeBSD](https://github.com/mtrkss/arch-compat-tutorial/)
 * [2023-10-25, 02:58:58](https://lobste.rs/s/xs1mqq/update_openresty_vs_lua_5_4_benchmark) - [Update: OpenResty vs Lua 5.4: a benchmark](https://berwyn.hashnode.dev/update-openresty-vs-lua-54-a-benchmark)
