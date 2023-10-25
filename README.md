@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-25, 06:19:28](https://lobste.rs/s/nugexk/anonymized_dump_your_postgres_data) - [Anonymized dump of your Postgres data](https://tembo.io/blog/anon-dump/)
 * [2023-10-25, 04:54:11](https://lobste.rs/s/k9mapw/arch_linux_compat_on_freebsd) - [Arch Linux Compat on FreeBSD](https://github.com/mtrkss/arch-compat-tutorial/)
 * [2023-10-25, 04:52:21](https://lobste.rs/s/i7z5em/migrating_zfs_pool_smaller_disk_on) - [Migrating ZFS Pool to Smaller Disk on FreeBSD](https://imil.net/blog/posts/2022/migrating-zpool-to-a-smaller-disk/)
 * [2023-10-25, 02:58:58](https://lobste.rs/s/xs1mqq/update_openresty_vs_lua_5_4_benchmark) - [Update: OpenResty vs Lua 5.4: a benchmark](https://berwyn.hashnode.dev/update-openresty-vs-lua-54-a-benchmark)
@@ -15,7 +16,6 @@
 * [2023-10-24, 18:13:23](https://lobste.rs/s/lbqo28/case_curious_sql_query) - [The Case of a Curious SQL Query](https://buttondown.email/jaffray/archive/the-case-of-a-curious-sql-query/)
 * [2023-10-24, 17:42:02](https://lobste.rs/s/4wffkj/unmasking_go_html_parser_bug_with) - [Unmasking a Go HTML Parser Bug with Differential Fuzzing](https://mionskowski.pl/posts/unmasking-go-html-parser-bug/)
 * [2023-10-24, 16:56:14](https://lobste.rs/s/prahuv/unveiling_power_nixos_integration_test) - [Unveiling the Power of the NixOS Integration Test Driver (Part 1)](https://nixcademy.com/2023/10/24/nixos-integration-tests/)
-* [2023-10-24, 15:42:58](https://lobste.rs/s/gbgtq5/live_2d_compositional_programming) - [Live 2D Compositional Programming](https://michael.homer.nz/Publications/LIVE2022/article/)
 * [2023-10-24, 15:10:40](https://lobste.rs/s/gyar3m/writing_dynamic_array_c) - [Writing a Dynamic Array in C](https://blog.phundrak.com/writing-dynamic-vector-c/)
 * [2023-10-24, 13:56:41](https://lobste.rs/s/tpe028/on_learning_compilers_creating) - [On Learning Compilers and Creating Programming Languages](https://www.craigstuntz.com/posts/2023-10-13-learning-compilers-and-programming-languages.html)
 * [2023-10-24, 13:42:06](https://lobste.rs/s/umdapz/unified_versus_split_diff) - [Unified Versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
