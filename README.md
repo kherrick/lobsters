@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-25, 18:52:58](https://lobste.rs/s/4hvwum/ileakage) - [iLeakage](https://ileakage.com/)
 * [2023-10-25, 18:42:52](https://lobste.rs/s/ilpdug/til_addlicense_tool_automate_license) - [TIL: addlicense, a tool to automate license headers](https://gluer.org/blog/2023/til-addlicense-a-tool-to-automate-license-headers/)
-* [2023-10-25, 18:39:02](https://lobste.rs/s/lvtxot/divwalker_bookmarklet) - [DivWalker (bookmarklet)](https://divwalker.arbitrarydata.co.uk/)
 * [2023-10-25, 17:40:30](https://lobste.rs/s/vvmtx3/what_we_learned_from_migrating_our_web_app) - [What we learned from migrating our web app to SvelteKit](https://blog.datawrapper.de/migrating-our-web-app-to-sveltekit/)
 * [2023-10-25, 17:06:20](https://lobste.rs/s/ydtdya/nix_survival_mode_macos_upgrades_won_t) - [Nix Survival Mode: macOS upgrades won't break Nix anymore](https://determinate.systems/posts/nix-survival-mode-on-macos)
 * [2023-10-25, 16:18:01](https://lobste.rs/s/herfb0/my_2023_all_flash_zfs_nas_network_storage) - [My 2023 all-flash ZFS NAS (Network Storage) build](https://michael.stapelberg.ch/posts/2023-10-25-my-all-flash-zfs-network-storage-build/)

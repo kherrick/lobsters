@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
+* [2023-10-25, 18:52:58](https://lobste.rs/s/4hvwum/ileakage) - [iLeakage](https://ileakage.com/)
 * [2023-10-25, 18:42:52](https://lobste.rs/s/ilpdug/til_addlicense_tool_automate_license) - [TIL: addlicense, a tool to automate license headers](https://gluer.org/blog/2023/til-addlicense-a-tool-to-automate-license-headers/)
 * [2023-10-25, 18:39:02](https://lobste.rs/s/lvtxot/divwalker_bookmarklet) - [DivWalker (bookmarklet)](https://divwalker.arbitrarydata.co.uk/)
 * [2023-10-25, 18:16:50](https://lobste.rs/s/nxtu9u/universe_discourse_horizontal_vertical) - [The Universe of Discourse : Horizontal and vertical complexity](https://blog.plover.com/prog/vertical-complexity.html)
