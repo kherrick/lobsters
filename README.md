@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-25, 13:20:42](https://lobste.rs/s/mgrebh/advice_novice_programmer) - [Advice to a novice programmer](https://blog.plover.com/prog/katara-advice.html)
 * [2023-10-25, 13:12:12](https://lobste.rs/s/o7urqf/on_deck_chairs_http_2) - [On the deck-chairs of HTTP/2](https://varnish-cache.org/docs/trunk/phk/h2againagainagain.html)
 * [2023-10-25, 11:13:46](https://lobste.rs/s/atghoh/url_pattern_standard) - [The URL Pattern Standard](https://blog.whatwg.org/url-pattern-standard)
 * [2023-10-25, 10:22:40](https://lobste.rs/s/svuvap/on_linking_bookmarks) - [On Linking Bookmarks](https://joshleeb.com/posts/linking-bookmarks.html)
@@ -21,7 +22,6 @@
 * [2023-10-24, 16:56:14](https://lobste.rs/s/prahuv/unveiling_power_nixos_integration_test) - [Unveiling the Power of the NixOS Integration Test Driver (Part 1)](https://nixcademy.com/2023/10/24/nixos-integration-tests/)
 * [2023-10-24, 13:56:41](https://lobste.rs/s/tpe028/on_learning_compilers_creating) - [On Learning Compilers and Creating Programming Languages](https://www.craigstuntz.com/posts/2023-10-13-learning-compilers-and-programming-languages.html)
 * [2023-10-24, 13:42:06](https://lobste.rs/s/umdapz/unified_versus_split_diff) - [Unified Versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
-* [2023-10-24, 11:43:12](https://lobste.rs/s/mk7mh5/fully_automated_releases_for_rust) - [Fully Automated Releases for Rust Projects](https://blog.orhun.dev/automated-rust-releases/)
 * [2023-10-24, 08:48:40](https://lobste.rs/s/ta6kqz/under_hood_rosette) - [Under the hood of Rosette](https://rdivyanshu.github.io/rosette-internal.html)
 * [2023-10-24, 04:40:46](https://lobste.rs/s/tmvaxu/okta_support_system_incident_1password) - [Okta Support System incident and 1Password](https://blog.1password.com/okta-incident/)
 * [2023-10-23, 16:01:17](https://lobste.rs/s/zhbv0i/object_soup_is_made_indexes) - [Object Soup is Made of Indexes](https://jacko.io/object_soup.html)

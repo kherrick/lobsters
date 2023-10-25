@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
+* [2023-10-25, 13:20:42](https://lobste.rs/s/mgrebh/advice_novice_programmer) - [Advice to a novice programmer](https://blog.plover.com/prog/katara-advice.html)
 * [2023-10-25, 13:12:12](https://lobste.rs/s/o7urqf/on_deck_chairs_http_2) - [On the deck-chairs of HTTP/2](https://varnish-cache.org/docs/trunk/phk/h2againagainagain.html)
 * [2023-10-25, 11:13:46](https://lobste.rs/s/atghoh/url_pattern_standard) - [The URL Pattern Standard](https://blog.whatwg.org/url-pattern-standard)
 * [2023-10-25, 10:22:40](https://lobste.rs/s/svuvap/on_linking_bookmarks) - [On Linking Bookmarks](https://joshleeb.com/posts/linking-bookmarks.html)
