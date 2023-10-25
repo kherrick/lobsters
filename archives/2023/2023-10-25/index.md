@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
+* [2023-10-25, 17:40:30](https://lobste.rs/s/vvmtx3/what_we_learned_from_migrating_our_web_app) - [What we learned from migrating our web app to SvelteKit](https://blog.datawrapper.de/migrating-our-web-app-to-sveltekit/)
 * [2023-10-25, 17:06:20](https://lobste.rs/s/ydtdya/nix_survival_mode_macos_upgrades_won_t) - [Nix Survival Mode: macOS upgrades won't break Nix anymore](https://determinate.systems/posts/nix-survival-mode-on-macos)
 * [2023-10-25, 17:02:33](https://lobste.rs/s/epatj6/cloudflare_workers_vs_aws_lambda_with_new) - [Cloudflare Workers vs AWS Lambda with New Pricing from Cloudflare](https://www.vantage.sh/blog/cloudflare-workers-vs-aws-lambda-cost)
 * [2023-10-25, 16:18:01](https://lobste.rs/s/herfb0/my_2023_all_flash_zfs_nas_network_storage) - [My 2023 all-flash ZFS NAS (Network Storage) build](https://michael.stapelberg.ch/posts/2023-10-25-my-all-flash-zfs-network-storage-build/)
