@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
+* [2023-10-25, 16:18:01](https://lobste.rs/s/herfb0/my_2023_all_flash_zfs_nas_network_storage) - [My 2023 all-flash ZFS NAS (Network Storage) build](https://michael.stapelberg.ch/posts/2023-10-25-my-all-flash-zfs-network-storage-build/)
+* [2023-10-25, 16:14:05](https://lobste.rs/s/drp7ua/on_craft) - [On Craft](https://www.drcathicks.com/post/on-craft)
 * [2023-10-25, 15:37:01](https://lobste.rs/s/ncaoe7/python_is_compiled_language) - [Python is a Compiled Language](https://eddieantonio.ca/blog/2023/10/25/python-is-a-compiled-language/)
 * [2023-10-25, 15:33:40](https://lobste.rs/s/khg7hj/secrets_management_on_your_cloud_aws_gcp) - [Secrets management on your cloud (AWS/GCP)](https://github.com/scalescape/dolores)
 * [2023-10-25, 14:36:37](https://lobste.rs/s/gccijr/how_make_almost_any_computer_modern_day) - [How to make almost any computer a modern-day PLATO terminal](https://arstechnica.com/?p=1962768)
