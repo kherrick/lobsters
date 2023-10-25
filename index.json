@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-25, 02:58:58",
+      "https://lobste.rs/s/xs1mqq/update_openresty_vs_lua_5_4_benchmark"
+    ],
+    [
+      "Update: OpenResty vs Lua 5.4: a benchmark",
+      "https://berwyn.hashnode.dev/update-openresty-vs-lua-54-a-benchmark"
+    ]
+  ],
+  [
+    [
       "2023-10-25, 01:55:26",
       "https://lobste.rs/s/zki9jw/performance_impact_memoization_idiom_on"
     ],
@@ -197,16 +207,6 @@
     [
       "Okta Support System incident and 1Password",
       "https://blog.1password.com/okta-incident/"
-    ]
-  ],
-  [
-    [
-      "2023-10-24, 02:47:14",
-      "https://lobste.rs/s/jerg92/windows_longhorn_cairo_more_dave_cutler"
-    ],
-    [
-      "Windows Longhorn, Cairo, and More: Dave Cutler and the History of Windows",
-      "https://www.youtube.com/watch?v=xi1Lq79mLeE"
     ]
   ],
   [
