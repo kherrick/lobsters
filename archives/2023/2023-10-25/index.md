@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
+* [2023-10-25, 19:49:03](https://lobste.rs/s/lam1nk/porting_linux_pledge_go) - [porting linux pledge to go](https://flak.tedunangst.com/post/porting-linux-pledge-to-go)
 * [2023-10-25, 18:52:58](https://lobste.rs/s/4hvwum/ileakage) - [iLeakage](https://ileakage.com/)
 * [2023-10-25, 18:42:52](https://lobste.rs/s/ilpdug/til_addlicense_tool_automate_license) - [TIL: addlicense, a tool to automate license headers](https://gluer.org/blog/2023/til-addlicense-a-tool-to-automate-license-headers/)
 * [2023-10-25, 18:39:02](https://lobste.rs/s/lvtxot/divwalker_bookmarklet) - [DivWalker (bookmarklet)](https://divwalker.arbitrarydata.co.uk/)
