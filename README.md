@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-25, 02:58:58](https://lobste.rs/s/xs1mqq/update_openresty_vs_lua_5_4_benchmark) - [Update: OpenResty vs Lua 5.4: a benchmark](https://berwyn.hashnode.dev/update-openresty-vs-lua-54-a-benchmark)
 * [2023-10-25, 01:55:26](https://lobste.rs/s/zki9jw/performance_impact_memoization_idiom_on) - [Performance impact of the memoization idiom on modern Ruby](https://railsatscale.com/2023-10-24-memoization-pattern-and-object-shapes/)
 * [2023-10-25, 00:58:48](https://lobste.rs/s/vfqhyf/review_practical_ml_programming_with_sml) - [Review of \"Practical ML Programming with SML#\"](https://pzel.name/2023/07/23/Practical-ML-with-sml-sharp-review-chapter-2.html)
 * [2023-10-24, 22:32:50](https://lobste.rs/s/i82idi/certwatch) - [CertWatch](https://blog.jmp.chat/b/certwatch)
@@ -20,7 +21,6 @@
 * [2023-10-24, 08:48:40](https://lobste.rs/s/ta6kqz/under_hood_rosette) - [Under the hood of Rosette](https://rdivyanshu.github.io/rosette-internal.html)
 * [2023-10-24, 05:56:58](https://lobste.rs/s/lad42y/netbsd_as_kubernetes_pod) - [NetBSD as a Kubernetes Pod](https://imil.net/blog/posts/2023/netbsd-as-a-k8s-pod/)
 * [2023-10-24, 04:40:46](https://lobste.rs/s/tmvaxu/okta_support_system_incident_1password) - [Okta Support System incident and 1Password](https://blog.1password.com/okta-incident/)
-* [2023-10-24, 02:47:14](https://lobste.rs/s/jerg92/windows_longhorn_cairo_more_dave_cutler) - [Windows Longhorn, Cairo, and More: Dave Cutler and the History of Windows](https://www.youtube.com/watch?v=xi1Lq79mLeE)
 * [2023-10-23, 22:04:54](https://lobste.rs/s/epavce/windows_ce_s_final_day) - [Windows CE’s final day](https://www.hpcfactor.com/news/871/end-of-an-era-windows-ces-final-day)
 * [2023-10-23, 16:01:17](https://lobste.rs/s/zhbv0i/object_soup_is_made_indexes) - [Object Soup is Made of Indexes](https://jacko.io/object_soup.html)
 * [2023-10-23, 13:42:02](https://lobste.rs/s/in6d23/embeddings_what_they_are_why_they_matter) - [Embeddings: What they are and why they matter](https://simonwillison.net/2023/Oct/23/embeddings/)
