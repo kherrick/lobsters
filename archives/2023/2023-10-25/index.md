@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-25](index.md)
 
+* [2023-10-25, 18:16:50](https://lobste.rs/s/nxtu9u/universe_discourse_horizontal_vertical) - [The Universe of Discourse : Horizontal and vertical complexity](https://blog.plover.com/prog/vertical-complexity.html)
+* [2023-10-25, 18:05:04](https://lobste.rs/s/jok9tf/not_knowing_proc_file_system) - [Not knowing the /proc file system](https://admccartney.mur.at/programming/idkproc/)
 * [2023-10-25, 17:40:30](https://lobste.rs/s/vvmtx3/what_we_learned_from_migrating_our_web_app) - [What we learned from migrating our web app to SvelteKit](https://blog.datawrapper.de/migrating-our-web-app-to-sveltekit/)
 * [2023-10-25, 17:06:20](https://lobste.rs/s/ydtdya/nix_survival_mode_macos_upgrades_won_t) - [Nix Survival Mode: macOS upgrades won't break Nix anymore](https://determinate.systems/posts/nix-survival-mode-on-macos)
 * [2023-10-25, 17:02:33](https://lobste.rs/s/epatj6/cloudflare_workers_vs_aws_lambda_with_new) - [Cloudflare Workers vs AWS Lambda with New Pricing from Cloudflare](https://www.vantage.sh/blog/cloudflare-workers-vs-aws-lambda-cost)
