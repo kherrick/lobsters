@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-25, 15:37:01](https://lobste.rs/s/ncaoe7/python_is_compiled_language) - [Python is a Compiled Language](https://eddieantonio.ca/blog/2023/10/25/python-is-a-compiled-language/)
+* [2023-10-25, 15:33:40](https://lobste.rs/s/khg7hj/secrets_management_on_your_cloud_aws_gcp) - [Secrets management on your cloud (AWS/GCP)](https://github.com/scalescape/dolores)
 * [2023-10-25, 14:36:37](https://lobste.rs/s/gccijr/how_make_almost_any_computer_modern_day) - [How to make almost any computer a modern-day PLATO terminal](https://arstechnica.com/?p=1962768)
 * [2023-10-25, 14:08:10](https://lobste.rs/s/xqw33g/announcing_flakestry_dev_new_registry) - [Announcing flakestry.dev - new registry for flakes](https://discourse.nixos.org/t/announcing-flakestry-dev-new-registry-for-flakes/34583)
 * [2023-10-25, 13:39:31](https://lobste.rs/s/2cpm4u/what_s_new_node_js_21) - [What's New in Node.js 21](https://blog.appsignal.com/2023/10/25/whats-new-in-nodejs-21.html)
@@ -8,7 +10,6 @@
 * [2023-10-25, 11:13:46](https://lobste.rs/s/atghoh/url_pattern_standard) - [The URL Pattern Standard](https://blog.whatwg.org/url-pattern-standard)
 * [2023-10-25, 10:22:40](https://lobste.rs/s/svuvap/on_linking_bookmarks) - [On Linking Bookmarks](https://joshleeb.com/posts/linking-bookmarks.html)
 * [2023-10-25, 09:04:46](https://lobste.rs/s/pcufso/how_rama_is_tested_primer_on_testing) - [How Rama is tested: a primer on testing distributed systems](https://blog.redplanetlabs.com/2023/10/24/how-rama-is-tested-a-primer-on-testing-distributed-systems/)
-* [2023-10-25, 04:54:11](https://lobste.rs/s/k9mapw/arch_linux_compat_on_freebsd) - [Arch Linux Compat on FreeBSD](https://github.com/mtrkss/arch-compat-tutorial/)
 * [2023-10-25, 02:58:58](https://lobste.rs/s/xs1mqq/update_openresty_vs_lua_5_4_benchmark) - [Update: OpenResty vs Lua 5.4: a benchmark](https://berwyn.hashnode.dev/update-openresty-vs-lua-54-a-benchmark)
 * [2023-10-25, 01:55:26](https://lobste.rs/s/zki9jw/performance_impact_memoization_idiom_on) - [Performance impact of the memoization idiom on modern Ruby](https://railsatscale.com/2023-10-24-memoization-pattern-and-object-shapes/)
 * [2023-10-25, 00:58:48](https://lobste.rs/s/vfqhyf/review_practical_ml_programming_with_sml) - [Review of \"Practical ML Programming with SML#\"](https://pzel.name/2023/07/23/Practical-ML-with-sml-sharp-review-chapter-2.html)
@@ -24,7 +25,6 @@
 * [2023-10-24, 16:56:14](https://lobste.rs/s/prahuv/unveiling_power_nixos_integration_test) - [Unveiling the Power of the NixOS Integration Test Driver (Part 1)](https://nixcademy.com/2023/10/24/nixos-integration-tests/)
 * [2023-10-24, 13:56:41](https://lobste.rs/s/tpe028/on_learning_compilers_creating) - [On Learning Compilers and Creating Programming Languages](https://www.craigstuntz.com/posts/2023-10-13-learning-compilers-and-programming-languages.html)
 * [2023-10-24, 13:42:06](https://lobste.rs/s/umdapz/unified_versus_split_diff) - [Unified Versus Split Diff](https://matklad.github.io/2023/10/23/unified-vs-split-diff.html)
-* [2023-10-24, 08:48:40](https://lobste.rs/s/ta6kqz/under_hood_rosette) - [Under the hood of Rosette](https://rdivyanshu.github.io/rosette-internal.html)
 
 ## [Archives](archives/index.md)
 
