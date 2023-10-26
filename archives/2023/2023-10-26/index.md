@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-26](index.md)
 
+* [2023-10-26, 20:04:18](https://lobste.rs/s/uvt9um/atuin_v17_secrets_filters_more) - [Atuin v17 - secrets filters and more](https://atuin.sh/blog/release-v17)
 * [2023-10-26, 19:10:07](https://lobste.rs/s/kxy5ai/uk_s_controversial_online_safety_bill) - [The UK’s controversial Online Safety Bill finally becomes law](https://www.theverge.com/2023/10/26/23922397/uk-online-safety-bill-law-passed-royal-assent-moderation-regulation)
 * [2023-10-26, 17:46:36](https://lobste.rs/s/czkxft/there_is_no_now) - [There is No Now](https://queue.acm.org/detail.cfm?id=2745385)
 * [2023-10-26, 17:36:07](https://lobste.rs/s/fprdzm/nvix_implementing_tvix_store_with_nats) - [Nvix: Implementing a Tvix store with NATS](https://bmcgee.ie/posts/2023/10/nvix-implementing-a-tvix-store-with-nats/)
