@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2023-10-25, 15:33:40",
-      "https://lobste.rs/s/khg7hj/secrets_management_on_your_cloud_aws_gcp"
-    ],
-    [
-      "Secrets management on your cloud (AWS/GCP)",
-      "https://github.com/scalescape/dolores"
-    ]
-  ],
-  [
-    [
       "2023-10-25, 14:36:37",
       "https://lobste.rs/s/gccijr/how_make_almost_any_computer_modern_day"
     ],
@@ -157,6 +147,16 @@
     [
       "Performance impact of the memoization idiom on modern Ruby",
       "https://railsatscale.com/2023-10-24-memoization-pattern-and-object-shapes/"
+    ]
+  ],
+  [
+    [
+      "2023-10-25, 00:58:48",
+      "https://lobste.rs/s/vfqhyf/review_practical_ml_programming_with_sml"
+    ],
+    [
+      "Review of \"Practical ML Programming with SML#\"",
+      "https://pzel.name/2023/07/23/Practical-ML-with-sml-sharp-review-chapter-2.html"
     ]
   ],
   [
