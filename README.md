@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-26, 10:21:47](https://lobste.rs/s/u4r9x9/django_micro_django) - [μDjango (micro Django)](https://www.paulox.net/2023/10/26/udjango_micro_django/)
 * [2023-10-26, 09:45:44](https://lobste.rs/s/pmreom/nile_serverless_postgres_for_modern_saas) - [Nile: Serverless Postgres for modern SaaS](https://www.thenile.dev/blog/introducing-nile)
 * [2023-10-26, 02:38:21](https://lobste.rs/s/bsazfc/running_reflections_on_trusting_trust) - [Running the “Reflections on Trusting Trust” Compiler](https://research.swtch.com/nih)
 * [2023-10-26, 01:46:42](https://lobste.rs/s/n1cokv/living_papers_language_toolkit_for) - [Living Papers: A Language Toolkit for Augmented Scholarly Communication](https://idl.cs.washington.edu/papers/living-papers/)
@@ -22,7 +23,6 @@
 * [2023-10-24, 21:21:24](https://lobste.rs/s/7xvtut/wait_is_cloud_bad) - [Wait, is cloud bad?](https://newsletter.goodtechthings.com/p/wait-is-cloud-bad)
 * [2023-10-24, 20:07:36](https://lobste.rs/s/lkb3g6/osi_deprogrammer) - [The OSI Deprogrammer](https://docs.google.com/document/d/1iL0fYmMmariFoSvLd9U5nPVH1uFKC7bvVasUcYq78So/edit)
 * [2023-10-24, 18:45:55](https://lobste.rs/s/f3b6su/they_re_called_slices_because_they_have) - [They're called Slices because they have Sharp Edges: Even More Go Pitfalls](https://www.dolthub.com/blog/2023-10-20-golang-pitfalls-3/)
-* [2023-10-24, 18:44:24](https://lobste.rs/s/spljcj/why_we_don_t_generate_elliptic_curves) - [Why We Don’t Generate Elliptic Curves Every Day](https://words.filippo.io/dispatches/parameters/)
 * [2023-10-24, 18:13:23](https://lobste.rs/s/lbqo28/case_curious_sql_query) - [The Case of a Curious SQL Query](https://buttondown.email/jaffray/archive/the-case-of-a-curious-sql-query/)
 * [2023-10-24, 13:56:41](https://lobste.rs/s/tpe028/on_learning_compilers_creating) - [On Learning Compilers and Creating Programming Languages](https://www.craigstuntz.com/posts/2023-10-13-learning-compilers-and-programming-languages.html)
 
