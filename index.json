@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-26, 19:10:07",
+      "https://lobste.rs/s/kxy5ai/uk_s_controversial_online_safety_bill"
+    ],
+    [
+      "The UK’s controversial Online Safety Bill finally becomes law",
+      "https://www.theverge.com/2023/10/26/23922397/uk-online-safety-bill-law-passed-royal-assent-moderation-regulation"
+    ]
+  ],
+  [
+    [
       "2023-10-26, 17:46:36",
       "https://lobste.rs/s/czkxft/there_is_no_now"
     ],
@@ -237,16 +247,6 @@
     [
       "On the deck-chairs of HTTP/2",
       "https://varnish-cache.org/docs/trunk/phk/h2againagainagain.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-25, 11:13:46",
-      "https://lobste.rs/s/atghoh/url_pattern_standard"
-    ],
-    [
-      "The URL Pattern Standard",
-      "https://blog.whatwg.org/url-pattern-standard"
     ]
   ]
 ]
