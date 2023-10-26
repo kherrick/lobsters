@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-26, 20:32:31](https://lobste.rs/s/ev9cam/things_i_like_about_gleam_s_syntax) - [Things I like about Gleam's Syntax](https://erikarow.land/notes/gleam-syntax)
 * [2023-10-26, 20:04:18](https://lobste.rs/s/uvt9um/atuin_v17_secrets_filters_more) - [Atuin v17 - secrets filters and more](https://atuin.sh/blog/release-v17)
 * [2023-10-26, 19:10:07](https://lobste.rs/s/kxy5ai/uk_s_controversial_online_safety_bill) - [The UK’s controversial Online Safety Bill finally becomes law](https://www.theverge.com/2023/10/26/23922397/uk-online-safety-bill-law-passed-royal-assent-moderation-regulation)
 * [2023-10-26, 17:46:36](https://lobste.rs/s/czkxft/there_is_no_now) - [There is No Now](https://queue.acm.org/detail.cfm?id=2745385)
@@ -14,7 +15,6 @@
 * [2023-10-26, 11:31:35](https://lobste.rs/s/4gjglx/presumed_technical_debt_how_recognise_it) - [Presumed technical debt: how to recognise it and avoid it](https://alediaferia.com/2023/10/26/presumed-technical-debt-how-to-recognise-it-and-avoid-it/)
 * [2023-10-26, 11:18:01](https://lobste.rs/s/hbr6zl/cloud_computer_oxide) - [The Cloud Computer / Oxide](https://oxide.computer/blog/the-cloud-computer)
 * [2023-10-26, 10:21:47](https://lobste.rs/s/u4r9x9/django_micro_django) - [μDjango (micro Django)](https://www.paulox.net/2023/10/26/udjango_micro_django/)
-* [2023-10-26, 09:45:44](https://lobste.rs/s/pmreom/nile_serverless_postgres_for_modern_saas) - [Nile: Serverless Postgres for modern SaaS](https://www.thenile.dev/blog/introducing-nile)
 * [2023-10-26, 02:38:21](https://lobste.rs/s/bsazfc/running_reflections_on_trusting_trust) - [Running the “Reflections on Trusting Trust” Compiler](https://research.swtch.com/nih)
 * [2023-10-25, 22:36:00](https://lobste.rs/s/hpxj9o/was_rust_worth_it_for_us) - [Was Rust Worth It For Us?](https://jsoverson.medium.com/was-rust-worth-it-f43d171fb1b3)
 * [2023-10-25, 19:52:56](https://lobste.rs/s/5w9ku1/helix_23_10_highlights) - [Helix 23.10 Highlights](https://helix-editor.com/news/release-23-10-highlights/)
