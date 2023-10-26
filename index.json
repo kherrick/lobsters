@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-26, 20:32:31",
+      "https://lobste.rs/s/ev9cam/things_i_like_about_gleam_s_syntax"
+    ],
+    [
+      "Things I like about Gleam's Syntax",
+      "https://erikarow.land/notes/gleam-syntax"
+    ]
+  ],
+  [
+    [
       "2023-10-26, 20:04:18",
       "https://lobste.rs/s/uvt9um/atuin_v17_secrets_filters_more"
     ],
@@ -137,16 +147,6 @@
     [
       "μDjango (micro Django)",
       "https://www.paulox.net/2023/10/26/udjango_micro_django/"
-    ]
-  ],
-  [
-    [
-      "2023-10-26, 09:45:44",
-      "https://lobste.rs/s/pmreom/nile_serverless_postgres_for_modern_saas"
-    ],
-    [
-      "Nile: Serverless Postgres for modern SaaS",
-      "https://www.thenile.dev/blog/introducing-nile"
     ]
   ],
   [
