@@ -6,7 +6,7 @@
 * [2023-10-26, 09:45:44](https://lobste.rs/s/pmreom/nile_serverless_postgres_for_modern_saas) - [Nile: Serverless Postgres for modern SaaS](https://www.thenile.dev/blog/introducing-nile)
 * [2023-10-26, 02:38:21](https://lobste.rs/s/bsazfc/running_reflections_on_trusting_trust) - [Running the “Reflections on Trusting Trust” Compiler](https://research.swtch.com/nih)
 * [2023-10-26, 01:46:42](https://lobste.rs/s/n1cokv/living_papers_language_toolkit_for) - [Living Papers: A Language Toolkit for Augmented Scholarly Communication](https://idl.cs.washington.edu/papers/living-papers/)
-* [2023-10-25, 22:36:00](https://lobste.rs/s/hpxj9o/was_rust_worth_it) - [Was Rust Worth It?](https://jsoverson.medium.com/was-rust-worth-it-f43d171fb1b3)
+* [2023-10-25, 22:36:00](https://lobste.rs/s/hpxj9o/was_rust_worth_it_for_us) - [Was Rust Worth It For Us?](https://jsoverson.medium.com/was-rust-worth-it-f43d171fb1b3)
 * [2023-10-25, 19:52:56](https://lobste.rs/s/5w9ku1/helix_23_10_highlights) - [Helix 23.10 Highlights](https://helix-editor.com/news/release-23-10-highlights/)
 * [2023-10-25, 19:49:03](https://lobste.rs/s/lam1nk/porting_linux_pledge_go) - [porting linux pledge to go](https://flak.tedunangst.com/post/porting-linux-pledge-to-go)
 * [2023-10-25, 18:52:58](https://lobste.rs/s/4hvwum/ileakage) - [iLeakage](https://ileakage.com/)
