@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-26, 10:21:47",
+      "https://lobste.rs/s/u4r9x9/django_micro_django"
+    ],
+    [
+      "μDjango (micro Django)",
+      "https://www.paulox.net/2023/10/26/udjango_micro_django/"
+    ]
+  ],
+  [
+    [
       "2023-10-26, 09:45:44",
       "https://lobste.rs/s/pmreom/nile_serverless_postgres_for_modern_saas"
     ],
@@ -217,16 +227,6 @@
     [
       "They're called Slices because they have Sharp Edges: Even More Go Pitfalls",
       "https://www.dolthub.com/blog/2023-10-20-golang-pitfalls-3/"
-    ]
-  ],
-  [
-    [
-      "2023-10-24, 18:44:24",
-      "https://lobste.rs/s/spljcj/why_we_don_t_generate_elliptic_curves"
-    ],
-    [
-      "Why We Don’t Generate Elliptic Curves Every Day",
-      "https://words.filippo.io/dispatches/parameters/"
     ]
   ],
   [
