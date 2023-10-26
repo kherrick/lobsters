@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-26, 13:50:28",
+      "https://lobste.rs/s/tccc6h/synchronization_constructs_go_standard"
+    ],
+    [
+      "Synchronization Constructs in the Go Standard Library",
+      "https://hjr265.me/blog/synchronization-constructs-in-go-standard-library/"
+    ]
+  ],
+  [
+    [
       "2023-10-26, 13:36:51",
       "https://lobste.rs/s/jwrjbu/building_asrock_n100_fanless_itx"
     ],
@@ -207,16 +217,6 @@
     [
       "CertWatch",
       "https://blog.jmp.chat/b/certwatch"
-    ]
-  ],
-  [
-    [
-      "2023-10-24, 21:28:04",
-      "https://lobste.rs/s/nzepwd/feedi_personal_news_reader_mastodon"
-    ],
-    [
-      "feedi - a personal news reader and Mastodon client",
-      "https://github.com/facundoolano/feedi"
     ]
   ],
   [
