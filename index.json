@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-26, 17:46:36",
+      "https://lobste.rs/s/czkxft/there_is_no_now"
+    ],
+    [
+      "There is No Now",
+      "https://queue.acm.org/detail.cfm?id=2745385"
+    ]
+  ],
+  [
+    [
       "2023-10-26, 17:36:07",
       "https://lobste.rs/s/fprdzm/nvix_implementing_tvix_store_with_nats"
     ],
@@ -147,16 +157,6 @@
     [
       "Helix 23.10 Highlights",
       "https://helix-editor.com/news/release-23-10-highlights/"
-    ]
-  ],
-  [
-    [
-      "2023-10-25, 19:49:03",
-      "https://lobste.rs/s/lam1nk/porting_linux_pledge_go"
-    ],
-    [
-      "porting linux pledge to go",
-      "https://flak.tedunangst.com/post/porting-linux-pledge-to-go"
     ]
   ],
   [
