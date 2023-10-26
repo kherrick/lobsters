@@ -18,7 +18,7 @@
 * [2023-10-26, 02:38:21](https://lobste.rs/s/bsazfc/running_reflections_on_trusting_trust) - [Running the “Reflections on Trusting Trust” Compiler](https://research.swtch.com/nih)
 * [2023-10-25, 22:36:00](https://lobste.rs/s/hpxj9o/was_rust_worth_it_for_us) - [Was Rust Worth It For Us?](https://jsoverson.medium.com/was-rust-worth-it-f43d171fb1b3)
 * [2023-10-25, 19:52:56](https://lobste.rs/s/5w9ku1/helix_23_10_highlights) - [Helix 23.10 Highlights](https://helix-editor.com/news/release-23-10-highlights/)
-* [2023-10-25, 18:52:58](https://lobste.rs/s/4hvwum/ileakage) - [iLeakage](https://ileakage.com/)
+* [2023-10-25, 18:52:58](https://lobste.rs/s/4hvwum/ileakage_browser_based_timerless) - [iLeakage: Browser-based Timerless Speculative Execution Attacks on Apple Devices](https://ileakage.com/)
 * [2023-10-25, 17:06:20](https://lobste.rs/s/ydtdya/nix_survival_mode_macos_upgrades_won_t) - [Nix Survival Mode: macOS upgrades won't break Nix anymore](https://determinate.systems/posts/nix-survival-mode-on-macos)
 * [2023-10-25, 16:18:01](https://lobste.rs/s/herfb0/my_2023_all_flash_zfs_nas_network_storage) - [My 2023 all-flash ZFS NAS (Network Storage) build](https://michael.stapelberg.ch/posts/2023-10-25-my-all-flash-zfs-network-storage-build/)
 * [2023-10-25, 16:14:05](https://lobste.rs/s/drp7ua/on_craft) - [On Craft](https://www.drcathicks.com/post/on-craft)
