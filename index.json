@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-10-26, 05:14:43",
-      "https://lobste.rs/s/rrr4fh/dirty_hooks"
-    ],
-    [
-      "Dirty hooks",
-      "http://blog.syncpup.com/posts/dirty-hooks.html"
-    ]
-  ],
-  [
-    [
       "2023-10-26, 02:38:21",
       "https://lobste.rs/s/bsazfc/running_reflections_on_trusting_trust"
     ],
@@ -167,6 +157,16 @@
     [
       "The URL Pattern Standard",
       "https://blog.whatwg.org/url-pattern-standard"
+    ]
+  ],
+  [
+    [
+      "2023-10-25, 01:55:26",
+      "https://lobste.rs/s/zki9jw/performance_impact_memoization_idiom_on"
+    ],
+    [
+      "Performance impact of the memoization idiom on modern Ruby",
+      "https://railsatscale.com/2023-10-24-memoization-pattern-and-object-shapes/"
     ]
   ],
   [
