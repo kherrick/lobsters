@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-26, 17:36:07](https://lobste.rs/s/fprdzm/nvix_implementing_tvix_store_with_nats) - [Nvix: Implementing a Tvix store with NATS](https://bmcgee.ie/posts/2023/10/nvix-implementing-a-tvix-store-with-nats/)
 * [2023-10-26, 17:23:51](https://lobste.rs/s/0hb9jp/university_chicago_researchers_seek) - [University of Chicago researchers seek to “poison” AI art generators with Nightshade](https://arstechnica.com/information-technology/2023/10/university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade/)
 * [2023-10-26, 16:50:41](https://lobste.rs/s/4uho6q/problem_with_general_purpose) - [The problem with general purpose programming languages](https://guitarvydas.github.io/2023/09/19/The-Problem-With-General-Purpose-Programming-Languages.html)
 * [2023-10-26, 14:54:19](https://lobste.rs/s/0ruefy/ruff_formatter_extremely_fast_black) - [The Ruff Formatter: An extremely fast, Black-compatible Python formatter](https://astral.sh/blog/the-ruff-formatter)
@@ -12,7 +13,6 @@
 * [2023-10-26, 10:21:47](https://lobste.rs/s/u4r9x9/django_micro_django) - [μDjango (micro Django)](https://www.paulox.net/2023/10/26/udjango_micro_django/)
 * [2023-10-26, 09:45:44](https://lobste.rs/s/pmreom/nile_serverless_postgres_for_modern_saas) - [Nile: Serverless Postgres for modern SaaS](https://www.thenile.dev/blog/introducing-nile)
 * [2023-10-26, 02:38:21](https://lobste.rs/s/bsazfc/running_reflections_on_trusting_trust) - [Running the “Reflections on Trusting Trust” Compiler](https://research.swtch.com/nih)
-* [2023-10-26, 01:46:42](https://lobste.rs/s/n1cokv/living_papers_language_toolkit_for) - [Living Papers: A Language Toolkit for Augmented Scholarly Communication](https://idl.cs.washington.edu/papers/living-papers/)
 * [2023-10-25, 22:36:00](https://lobste.rs/s/hpxj9o/was_rust_worth_it_for_us) - [Was Rust Worth It For Us?](https://jsoverson.medium.com/was-rust-worth-it-f43d171fb1b3)
 * [2023-10-25, 19:52:56](https://lobste.rs/s/5w9ku1/helix_23_10_highlights) - [Helix 23.10 Highlights](https://helix-editor.com/news/release-23-10-highlights/)
 * [2023-10-25, 19:49:03](https://lobste.rs/s/lam1nk/porting_linux_pledge_go) - [porting linux pledge to go](https://flak.tedunangst.com/post/porting-linux-pledge-to-go)
