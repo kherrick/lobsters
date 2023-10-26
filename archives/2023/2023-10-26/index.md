@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-26](index.md)
 
+* [2023-10-26, 23:15:39](https://lobste.rs/s/gv2sfa/maxjourney_pushing_discord_s_limits_with) - [Maxjourney: Pushing Discord’s Limits with a Million+ Online Users in a Single Server](https://discord.com/blog/maxjourney-pushing-discords-limits-with-a-million-plus-online-users-in-a-single-server)
 * [2023-10-26, 22:32:32](https://lobste.rs/s/fh0ru0/now_add_walrus_prompt_engineering_dall_e_3) - [Now add a walrus: Prompt engineering in DALL-E 3](https://simonwillison.net/2023/Oct/26/add-a-walrus/)
 * [2023-10-26, 20:32:31](https://lobste.rs/s/ev9cam/things_i_like_about_gleam_s_syntax) - [Things I like about Gleam's Syntax](https://erikarow.land/notes/gleam-syntax)
 * [2023-10-26, 20:04:18](https://lobste.rs/s/uvt9um/atuin_v17_secrets_filters_more) - [Atuin v17 - secrets filters and more](https://atuin.sh/blog/release-v17)
