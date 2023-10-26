@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-26, 13:36:51](https://lobste.rs/s/jwrjbu/building_asrock_n100_fanless_itx) - [Building ASRock N100 Fanless ITX Motherboard N100DC-ITX](https://www.youtube.com/watch?v=xbuXVVJARbA)
 * [2023-10-26, 13:17:50](https://lobste.rs/s/nlvynf/searching_for_justice_programming) - [Searching for Justice in Programming Language Design](https://www.washington.edu/doit/webinars/?webinar=wordplay)
 * [2023-10-26, 11:31:35](https://lobste.rs/s/4gjglx/presumed_technical_debt_how_recognise_it) - [Presumed technical debt: how to recognise it and avoid it](https://alediaferia.com/2023/10/26/presumed-technical-debt-how-to-recognise-it-and-avoid-it/)
 * [2023-10-26, 11:18:01](https://lobste.rs/s/hbr6zl/cloud_computer_oxide) - [The Cloud Computer / Oxide](https://oxide.computer/blog/the-cloud-computer)
@@ -11,7 +12,6 @@
 * [2023-10-25, 19:52:56](https://lobste.rs/s/5w9ku1/helix_23_10_highlights) - [Helix 23.10 Highlights](https://helix-editor.com/news/release-23-10-highlights/)
 * [2023-10-25, 19:49:03](https://lobste.rs/s/lam1nk/porting_linux_pledge_go) - [porting linux pledge to go](https://flak.tedunangst.com/post/porting-linux-pledge-to-go)
 * [2023-10-25, 18:52:58](https://lobste.rs/s/4hvwum/ileakage) - [iLeakage](https://ileakage.com/)
-* [2023-10-25, 17:40:30](https://lobste.rs/s/vvmtx3/what_we_learned_from_migrating_our_web_app) - [What we learned from migrating our web app to SvelteKit](https://blog.datawrapper.de/migrating-our-web-app-to-sveltekit/)
 * [2023-10-25, 17:06:20](https://lobste.rs/s/ydtdya/nix_survival_mode_macos_upgrades_won_t) - [Nix Survival Mode: macOS upgrades won't break Nix anymore](https://determinate.systems/posts/nix-survival-mode-on-macos)
 * [2023-10-25, 16:18:01](https://lobste.rs/s/herfb0/my_2023_all_flash_zfs_nas_network_storage) - [My 2023 all-flash ZFS NAS (Network Storage) build](https://michael.stapelberg.ch/posts/2023-10-25-my-all-flash-zfs-network-storage-build/)
 * [2023-10-25, 16:14:05](https://lobste.rs/s/drp7ua/on_craft) - [On Craft](https://www.drcathicks.com/post/on-craft)

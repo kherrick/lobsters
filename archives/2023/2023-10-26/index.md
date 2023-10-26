@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-26](index.md)
 
+* [2023-10-26, 13:36:51](https://lobste.rs/s/jwrjbu/building_asrock_n100_fanless_itx) - [Building ASRock N100 Fanless ITX Motherboard N100DC-ITX](https://www.youtube.com/watch?v=xbuXVVJARbA)
 * [2023-10-26, 13:17:50](https://lobste.rs/s/nlvynf/searching_for_justice_programming) - [Searching for Justice in Programming Language Design](https://www.washington.edu/doit/webinars/?webinar=wordplay)
 * [2023-10-26, 11:31:35](https://lobste.rs/s/4gjglx/presumed_technical_debt_how_recognise_it) - [Presumed technical debt: how to recognise it and avoid it](https://alediaferia.com/2023/10/26/presumed-technical-debt-how-to-recognise-it-and-avoid-it/)
 * [2023-10-26, 11:18:01](https://lobste.rs/s/hbr6zl/cloud_computer_oxide) - [The Cloud Computer / Oxide](https://oxide.computer/blog/the-cloud-computer)
