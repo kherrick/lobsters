@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-26, 11:18:01](https://lobste.rs/s/hbr6zl/cloud_computer_oxide) - [The Cloud Computer / Oxide](https://oxide.computer/blog/the-cloud-computer)
 * [2023-10-26, 10:21:47](https://lobste.rs/s/u4r9x9/django_micro_django) - [μDjango (micro Django)](https://www.paulox.net/2023/10/26/udjango_micro_django/)
 * [2023-10-26, 09:45:44](https://lobste.rs/s/pmreom/nile_serverless_postgres_for_modern_saas) - [Nile: Serverless Postgres for modern SaaS](https://www.thenile.dev/blog/introducing-nile)
 * [2023-10-26, 02:38:21](https://lobste.rs/s/bsazfc/running_reflections_on_trusting_trust) - [Running the “Reflections on Trusting Trust” Compiler](https://research.swtch.com/nih)
@@ -13,7 +14,6 @@
 * [2023-10-25, 16:18:01](https://lobste.rs/s/herfb0/my_2023_all_flash_zfs_nas_network_storage) - [My 2023 all-flash ZFS NAS (Network Storage) build](https://michael.stapelberg.ch/posts/2023-10-25-my-all-flash-zfs-network-storage-build/)
 * [2023-10-25, 16:14:05](https://lobste.rs/s/drp7ua/on_craft) - [On Craft](https://www.drcathicks.com/post/on-craft)
 * [2023-10-25, 15:37:01](https://lobste.rs/s/ncaoe7/python_is_compiled_language) - [Python is a Compiled Language](https://eddieantonio.ca/blog/2023/10/25/python-is-a-compiled-language/)
-* [2023-10-25, 14:36:37](https://lobste.rs/s/gccijr/how_make_almost_any_computer_modern_day) - [How to make almost any computer a modern-day PLATO terminal](https://arstechnica.com/?p=1962768)
 * [2023-10-25, 14:08:10](https://lobste.rs/s/xqw33g/announcing_flakestry_dev_new_registry) - [Announcing flakestry.dev - new registry for flakes](https://discourse.nixos.org/t/announcing-flakestry-dev-new-registry-for-flakes/34583)
 * [2023-10-25, 13:20:42](https://lobste.rs/s/mgrebh/advice_novice_programmer) - [Advice to a novice programmer](https://blog.plover.com/prog/katara-advice.html)
 * [2023-10-25, 13:12:12](https://lobste.rs/s/o7urqf/on_deck_chairs_http_2) - [On the deck-chairs of HTTP/2](https://varnish-cache.org/docs/trunk/phk/h2againagainagain.html)
