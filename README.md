@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-26, 01:46:42](https://lobste.rs/s/n1cokv/living_papers_language_toolkit_for) - [Living Papers: A Language Toolkit for Augmented Scholarly Communication](https://idl.cs.washington.edu/papers/living-papers/)
 * [2023-10-25, 22:36:00](https://lobste.rs/s/hpxj9o/was_rust_worth_it) - [Was Rust Worth It?](https://jsoverson.medium.com/was-rust-worth-it-f43d171fb1b3)
 * [2023-10-25, 19:52:56](https://lobste.rs/s/5w9ku1/helix_23_10_highlights) - [Helix 23.10 Highlights](https://helix-editor.com/news/release-23-10-highlights/)
 * [2023-10-25, 19:49:03](https://lobste.rs/s/lam1nk/porting_linux_pledge_go) - [porting linux pledge to go](https://flak.tedunangst.com/post/porting-linux-pledge-to-go)
@@ -15,7 +16,6 @@
 * [2023-10-25, 13:12:12](https://lobste.rs/s/o7urqf/on_deck_chairs_http_2) - [On the deck-chairs of HTTP/2](https://varnish-cache.org/docs/trunk/phk/h2againagainagain.html)
 * [2023-10-25, 11:13:46](https://lobste.rs/s/atghoh/url_pattern_standard) - [The URL Pattern Standard](https://blog.whatwg.org/url-pattern-standard)
 * [2023-10-25, 01:55:26](https://lobste.rs/s/zki9jw/performance_impact_memoization_idiom_on) - [Performance impact of the memoization idiom on modern Ruby](https://railsatscale.com/2023-10-24-memoization-pattern-and-object-shapes/)
-* [2023-10-25, 00:58:48](https://lobste.rs/s/vfqhyf/review_practical_ml_programming_with_sml) - [Review of \"Practical ML Programming with SML#\"](https://pzel.name/2023/07/23/Practical-ML-with-sml-sharp-review-chapter-2.html)
 * [2023-10-24, 22:32:50](https://lobste.rs/s/i82idi/certwatch) - [CertWatch](https://blog.jmp.chat/b/certwatch)
 * [2023-10-24, 21:28:04](https://lobste.rs/s/nzepwd/feedi_personal_news_reader_mastodon) - [feedi - a personal news reader and Mastodon client](https://github.com/facundoolano/feedi)
 * [2023-10-24, 21:21:24](https://lobste.rs/s/7xvtut/wait_is_cloud_bad) - [Wait, is cloud bad?](https://newsletter.goodtechthings.com/p/wait-is-cloud-bad)
