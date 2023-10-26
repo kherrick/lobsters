@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-26, 14:54:19](https://lobste.rs/s/0ruefy/ruff_formatter_extremely_fast_black) - [The Ruff Formatter: An extremely fast, Black-compatible Python formatter](https://astral.sh/blog/the-ruff-formatter)
+* [2023-10-26, 14:51:40](https://lobste.rs/s/e7srxh/pollen_css_variables_build_system) - [Pollen: The CSS variables build system](https://www.pollen.style)
 * [2023-10-26, 13:50:28](https://lobste.rs/s/tccc6h/synchronization_constructs_go_standard) - [Synchronization Constructs in the Go Standard Library](https://hjr265.me/blog/synchronization-constructs-in-go-standard-library/)
 * [2023-10-26, 13:36:51](https://lobste.rs/s/jwrjbu/building_asrock_n100_fanless_itx) - [Building ASRock N100 Fanless ITX Motherboard N100DC-ITX](https://www.youtube.com/watch?v=xbuXVVJARbA)
 * [2023-10-26, 13:17:50](https://lobste.rs/s/nlvynf/searching_for_justice_programming) - [Searching for Justice in Programming Language Design](https://www.washington.edu/doit/webinars/?webinar=wordplay)
@@ -21,8 +23,6 @@
 * [2023-10-25, 13:20:42](https://lobste.rs/s/mgrebh/advice_novice_programmer) - [Advice to a novice programmer](https://blog.plover.com/prog/katara-advice.html)
 * [2023-10-25, 13:12:12](https://lobste.rs/s/o7urqf/on_deck_chairs_http_2) - [On the deck-chairs of HTTP/2](https://varnish-cache.org/docs/trunk/phk/h2againagainagain.html)
 * [2023-10-25, 11:13:46](https://lobste.rs/s/atghoh/url_pattern_standard) - [The URL Pattern Standard](https://blog.whatwg.org/url-pattern-standard)
-* [2023-10-24, 22:32:50](https://lobste.rs/s/i82idi/certwatch) - [CertWatch](https://blog.jmp.chat/b/certwatch)
-* [2023-10-24, 21:28:04](https://lobste.rs/s/nzepwd/feedi_personal_news_reader_mastodon) - [feedi - a personal news reader and Mastodon client](https://github.com/facundoolano/feedi)
 * [2023-10-24, 21:21:24](https://lobste.rs/s/7xvtut/wait_is_cloud_bad) - [Wait, is cloud bad?](https://newsletter.goodtechthings.com/p/wait-is-cloud-bad)
 * [2023-10-24, 13:56:41](https://lobste.rs/s/tpe028/on_learning_compilers_creating) - [On Learning Compilers and Creating Programming Languages](https://www.craigstuntz.com/posts/2023-10-13-learning-compilers-and-programming-languages.html)
 

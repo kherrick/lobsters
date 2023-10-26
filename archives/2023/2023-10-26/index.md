@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-26](index.md)
 
+* [2023-10-26, 14:54:19](https://lobste.rs/s/0ruefy/ruff_formatter_extremely_fast_black) - [The Ruff Formatter: An extremely fast, Black-compatible Python formatter](https://astral.sh/blog/the-ruff-formatter)
+* [2023-10-26, 14:51:40](https://lobste.rs/s/e7srxh/pollen_css_variables_build_system) - [Pollen: The CSS variables build system](https://www.pollen.style)
 * [2023-10-26, 13:50:28](https://lobste.rs/s/tccc6h/synchronization_constructs_go_standard) - [Synchronization Constructs in the Go Standard Library](https://hjr265.me/blog/synchronization-constructs-in-go-standard-library/)
 * [2023-10-26, 13:36:51](https://lobste.rs/s/jwrjbu/building_asrock_n100_fanless_itx) - [Building ASRock N100 Fanless ITX Motherboard N100DC-ITX](https://www.youtube.com/watch?v=xbuXVVJARbA)
 * [2023-10-26, 13:17:50](https://lobste.rs/s/nlvynf/searching_for_justice_programming) - [Searching for Justice in Programming Language Design](https://www.washington.edu/doit/webinars/?webinar=wordplay)
