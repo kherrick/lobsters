@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-26](index.md)
 
+* [2023-10-26, 16:50:41](https://lobste.rs/s/4uho6q/problem_with_general_purpose) - [The problem with general purpose programming languages](https://guitarvydas.github.io/2023/09/19/The-Problem-With-General-Purpose-Programming-Languages.html)
 * [2023-10-26, 15:15:14](https://lobste.rs/s/dbdpie/prisma_accelerate_now_general) - [Prisma Accelerate now in General Availability](https://www.prisma.io/blog/accelerate-ga-release-I9cQM6bSf2g6)
 * [2023-10-26, 14:54:19](https://lobste.rs/s/0ruefy/ruff_formatter_extremely_fast_black) - [The Ruff Formatter: An extremely fast, Black-compatible Python formatter](https://astral.sh/blog/the-ruff-formatter)
 * [2023-10-26, 14:51:40](https://lobste.rs/s/e7srxh/pollen_css_variables_build_system) - [Pollen: The CSS variables build system](https://www.pollen.style)
