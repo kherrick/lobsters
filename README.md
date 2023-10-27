@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-27, 13:43:50](https://lobste.rs/s/e7pqdo/old_unix_programs_running_on_modern) - [Old Unix programs running on modern computers](https://github.com/rsc/unix)
 * [2023-10-27, 11:24:06](https://lobste.rs/s/ii5nit/delaying_deploys_fast_path_burnout) - [Delaying Deploys: The Fast Path to Burnout](https://www.openmymind.net/Fast-Path-To-Burnout-Not-Deploying/)
 * [2023-10-27, 10:29:22](https://lobste.rs/s/fhfb4u/waffle_workload_aware_query_sensitive) - [Waffle: A Workload-Aware and Query-Sensitive Framework for Disk-Based Spatial Indexing](https://dl.acm.org/doi/10.14778/3574245.3574253)
 * [2023-10-27, 10:01:13](https://lobste.rs/s/iziut9/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/iziut9/what_are_you_doing_this_weekend)
@@ -16,7 +17,6 @@
 * [2023-10-26, 20:04:18](https://lobste.rs/s/uvt9um/atuin_v17_secrets_filters_more) - [Atuin v17 - secrets filters and more](https://atuin.sh/blog/release-v17)
 * [2023-10-26, 19:10:07](https://lobste.rs/s/kxy5ai/uk_s_controversial_online_safety_bill) - [The UK’s controversial Online Safety Bill finally becomes law](https://www.theverge.com/2023/10/26/23922397/uk-online-safety-bill-law-passed-royal-assent-moderation-regulation)
 * [2023-10-26, 17:46:36](https://lobste.rs/s/czkxft/there_is_no_now) - [There is No Now](https://queue.acm.org/detail.cfm?id=2745385)
-* [2023-10-26, 17:36:07](https://lobste.rs/s/fprdzm/nvix_implementing_tvix_store_with_nats) - [Nvix: Implementing a Tvix store with NATS](https://bmcgee.ie/posts/2023/10/nvix-implementing-a-tvix-store-with-nats/)
 * [2023-10-26, 17:23:51](https://lobste.rs/s/0hb9jp/university_chicago_researchers_seek) - [University of Chicago researchers seek to “poison” AI art generators with Nightshade](https://arstechnica.com/information-technology/2023/10/university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade/)
 * [2023-10-26, 14:54:19](https://lobste.rs/s/0ruefy/ruff_formatter_extremely_fast_black) - [The Ruff Formatter: An extremely fast, Black-compatible Python formatter](https://astral.sh/blog/the-ruff-formatter)
 * [2023-10-26, 13:50:28](https://lobste.rs/s/tccc6h/synchronization_constructs_go_standard) - [Synchronization Constructs in the Go Standard Library](https://hjr265.me/blog/synchronization-constructs-in-go-standard-library/)
