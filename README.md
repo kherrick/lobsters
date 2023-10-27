@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-27, 19:26:31](https://lobste.rs/s/big57f/dj_notebook_repl_i_ve_always_wanted_for) - [dj-notebook: the REPL I've Always Wanted for Django](https://geoff.tuxpup.com/posts/dj-notebook-superpowers/)
 * [2023-10-27, 17:57:08](https://lobste.rs/s/ajcels/kubernetes_kernel_panics) - [Kubernetes and Kernel Panics](https://netflixtechblog.com/kubernetes-and-kernel-panics-ed620b9c6225)
 * [2023-10-27, 17:18:14](https://lobste.rs/s/tdsude/so_you_ve_been_publicly_accessibility) - [So you’ve been publicly accessibility-shamed](https://daverupert.com/2023/10/accessiblity-shamed/)
 * [2023-10-27, 16:09:31](https://lobste.rs/s/34emv6/removing_syscall_2_from_libc_kernel) - [Removing syscall(2) from libc and kernel](https://marc.info/?l=openbsd-tech&m=169841790407370&w=2)
@@ -12,7 +13,6 @@
 * [2023-10-27, 07:20:31](https://lobste.rs/s/iusham/dascript_high_performance_programming) - [daScript - The High Performance Programming Language](https://dascript.org/)
 * [2023-10-27, 06:45:37](https://lobste.rs/s/pjdlaf/raku_is_surprisingly_good_for_clis) - [Raku is surprisingly good for CLIs](https://buttondown.email/hillelwayne/archive/raku-is-surprisingly-good-for-clis/)
 * [2023-10-27, 06:16:44](https://lobste.rs/s/up1fiv/goodbye_node_js_buffer) - [Goodbye, Node.js Buffer](https://sindresorhus.com/blog/goodbye-nodejs-buffer)
-* [2023-10-27, 04:34:18](https://lobste.rs/s/6ju8ro/how_tell_stuff_computer) - [How To Tell Stuff To A Computer](http://www.lisperati.com/tellstuff/index.html)
 * [2023-10-27, 03:43:59](https://lobste.rs/s/7qh4sn/journey_into_shaders) - [A Journey Into Shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders)
 * [2023-10-26, 23:15:39](https://lobste.rs/s/gv2sfa/maxjourney_pushing_discord_s_limits_with) - [Maxjourney: Pushing Discord’s Limits with a Million+ Online Users in a Single Server](https://discord.com/blog/maxjourney-pushing-discords-limits-with-a-million-plus-online-users-in-a-single-server)
 * [2023-10-26, 22:32:32](https://lobste.rs/s/fh0ru0/now_add_walrus_prompt_engineering_dall_e_3) - [Now add a walrus: Prompt engineering in DALL-E 3](https://simonwillison.net/2023/Oct/26/add-a-walrus/)
