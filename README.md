@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-27, 03:43:59](https://lobste.rs/s/7qh4sn/journey_into_shaders) - [A Journey Into Shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders)
 * [2023-10-27, 00:51:00](https://lobste.rs/s/zufoxr/how_catch_wild_triangle) - [How to catch a wild triangle](https://securelist.com/operation-triangulation-catching-wild-triangle/110916/)
 * [2023-10-26, 23:15:39](https://lobste.rs/s/gv2sfa/maxjourney_pushing_discord_s_limits_with) - [Maxjourney: Pushing Discord’s Limits with a Million+ Online Users in a Single Server](https://discord.com/blog/maxjourney-pushing-discords-limits-with-a-million-plus-online-users-in-a-single-server)
 * [2023-10-26, 22:32:32](https://lobste.rs/s/fh0ru0/now_add_walrus_prompt_engineering_dall_e_3) - [Now add a walrus: Prompt engineering in DALL-E 3](https://simonwillison.net/2023/Oct/26/add-a-walrus/)
@@ -11,7 +12,6 @@
 * [2023-10-26, 17:23:51](https://lobste.rs/s/0hb9jp/university_chicago_researchers_seek) - [University of Chicago researchers seek to “poison” AI art generators with Nightshade](https://arstechnica.com/information-technology/2023/10/university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade/)
 * [2023-10-26, 16:50:41](https://lobste.rs/s/4uho6q/problem_with_general_purpose) - [The problem with general purpose programming languages](https://guitarvydas.github.io/2023/09/19/The-Problem-With-General-Purpose-Programming-Languages.html)
 * [2023-10-26, 14:54:19](https://lobste.rs/s/0ruefy/ruff_formatter_extremely_fast_black) - [The Ruff Formatter: An extremely fast, Black-compatible Python formatter](https://astral.sh/blog/the-ruff-formatter)
-* [2023-10-26, 14:51:40](https://lobste.rs/s/e7srxh/pollen_css_variables_build_system) - [Pollen: The CSS variables build system](https://www.pollen.style)
 * [2023-10-26, 13:50:28](https://lobste.rs/s/tccc6h/synchronization_constructs_go_standard) - [Synchronization Constructs in the Go Standard Library](https://hjr265.me/blog/synchronization-constructs-in-go-standard-library/)
 * [2023-10-26, 13:17:50](https://lobste.rs/s/nlvynf/searching_for_justice_programming) - [Searching for Justice in Programming Language Design](https://www.washington.edu/doit/webinars/?webinar=wordplay)
 * [2023-10-26, 11:31:35](https://lobste.rs/s/4gjglx/presumed_technical_debt_how_recognise_it) - [Presumed technical debt: how to recognise it and avoid it](https://alediaferia.com/2023/10/26/presumed-technical-debt-how-to-recognise-it-and-avoid-it/)
