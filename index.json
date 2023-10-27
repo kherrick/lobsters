@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-27, 13:43:50",
+      "https://lobste.rs/s/e7pqdo/old_unix_programs_running_on_modern"
+    ],
+    [
+      "Old Unix programs running on modern computers",
+      "https://github.com/rsc/unix"
+    ]
+  ],
+  [
+    [
       "2023-10-27, 11:24:06",
       "https://lobste.rs/s/ii5nit/delaying_deploys_fast_path_burnout"
     ],
@@ -157,16 +167,6 @@
     [
       "There is No Now",
       "https://queue.acm.org/detail.cfm?id=2745385"
-    ]
-  ],
-  [
-    [
-      "2023-10-26, 17:36:07",
-      "https://lobste.rs/s/fprdzm/nvix_implementing_tvix_store_with_nats"
-    ],
-    [
-      "Nvix: Implementing a Tvix store with NATS",
-      "https://bmcgee.ie/posts/2023/10/nvix-implementing-a-tvix-store-with-nats/"
     ]
   ],
   [
