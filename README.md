@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-27, 22:15:04](https://lobste.rs/s/f1cxnx/advancing_imessage_security_imessage) - [Advancing iMessage security: iMessage Contact Key Verification](https://security.apple.com/blog/imessage-contact-key-verification/)
 * [2023-10-27, 20:58:08](https://lobste.rs/s/jmlmbr/automating_dead_code_cleanup) - [Automating dead code cleanup](https://engineering.fb.com/2023/10/24/data-infrastructure/automating-dead-code-cleanup/)
 * [2023-10-27, 20:48:37](https://lobste.rs/s/tr8iak/everything_i_ve_learned_building_fastest) - [Everything I've learned building the fastest Arm desktop](https://www.jeffgeerling.com/blog/2023/everything-ive-learned-building-fastest-arm-desktop)
 * [2023-10-27, 20:26:59](https://lobste.rs/s/rcivpb/introducing_shadow_new_novel_browser) - [Introducing <shadow>, a new novel browser engine made almost entirely in JS](https://goose.icu/introducing-shadow/)
@@ -17,7 +18,6 @@
 * [2023-10-27, 06:45:37](https://lobste.rs/s/pjdlaf/raku_is_surprisingly_good_for_clis) - [Raku is surprisingly good for CLIs](https://buttondown.email/hillelwayne/archive/raku-is-surprisingly-good-for-clis/)
 * [2023-10-27, 06:16:44](https://lobste.rs/s/up1fiv/goodbye_node_js_buffer) - [Goodbye, Node.js Buffer](https://sindresorhus.com/blog/goodbye-nodejs-buffer)
 * [2023-10-27, 03:43:59](https://lobste.rs/s/7qh4sn/journey_into_shaders) - [A Journey Into Shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders)
-* [2023-10-26, 23:15:39](https://lobste.rs/s/gv2sfa/maxjourney_pushing_discord_s_limits_with) - [Maxjourney: Pushing Discord’s Limits with a Million+ Online Users in a Single Server](https://discord.com/blog/maxjourney-pushing-discords-limits-with-a-million-plus-online-users-in-a-single-server)
 * [2023-10-26, 22:32:32](https://lobste.rs/s/fh0ru0/now_add_walrus_prompt_engineering_dall_e_3) - [Now add a walrus: Prompt engineering in DALL-E 3](https://simonwillison.net/2023/Oct/26/add-a-walrus/)
 * [2023-10-26, 20:32:31](https://lobste.rs/s/ev9cam/things_i_like_about_gleam_s_syntax) - [Things I like about Gleam's Syntax](https://erikarow.land/notes/gleam-syntax)
 * [2023-10-26, 20:04:18](https://lobste.rs/s/uvt9um/atuin_v17_secrets_filters_more) - [Atuin v17 - secrets filters and more](https://atuin.sh/blog/release-v17)
