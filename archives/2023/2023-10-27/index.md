@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
+* [2023-10-27, 17:57:08](https://lobste.rs/s/ajcels/kubernetes_kernel_panics) - [Kubernetes and Kernel Panics](https://netflixtechblog.com/kubernetes-and-kernel-panics-ed620b9c6225)
 * [2023-10-27, 17:18:14](https://lobste.rs/s/tdsude/so_you_ve_been_publicly_accessibility) - [So you’ve been publicly accessibility-shamed](https://daverupert.com/2023/10/accessiblity-shamed/)
 * [2023-10-27, 16:09:31](https://lobste.rs/s/34emv6/removing_syscall_2_from_libc_kernel) - [Removing syscall(2) from libc and kernel](https://marc.info/?l=openbsd-tech&m=169841790407370&w=2)
 * [2023-10-27, 16:01:41](https://lobste.rs/s/tncmnp/tor_browser_ooni_security_audit_findings) - [Tor Browser & OONI Security Audit Findings](https://blog.torproject.org/security-audit-report-tor-browser-ooni/)
