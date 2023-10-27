@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
+* [2023-10-27, 22:38:10](https://lobste.rs/s/bjk1rf/nix_packaging) - [Nix packaging](https://nix-packaging.com/)
 * [2023-10-27, 22:15:04](https://lobste.rs/s/f1cxnx/advancing_imessage_security_imessage) - [Advancing iMessage security: iMessage Contact Key Verification](https://security.apple.com/blog/imessage-contact-key-verification/)
 * [2023-10-27, 20:58:08](https://lobste.rs/s/jmlmbr/automating_dead_code_cleanup) - [Automating dead code cleanup](https://engineering.fb.com/2023/10/24/data-infrastructure/automating-dead-code-cleanup/)
 * [2023-10-27, 20:48:37](https://lobste.rs/s/tr8iak/everything_i_ve_learned_building_fastest) - [Everything I've learned building the fastest Arm desktop](https://www.jeffgeerling.com/blog/2023/everything-ive-learned-building-fastest-arm-desktop)
