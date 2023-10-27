@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-27, 16:01:41](https://lobste.rs/s/tncmnp/tor_browser_ooni_security_audit_findings) - [Tor Browser & OONI Security Audit Findings](https://blog.torproject.org/security-audit-report-tor-browser-ooni/)
 * [2023-10-27, 13:43:50](https://lobste.rs/s/e7pqdo/old_unix_programs_running_on_modern) - [Old Unix programs running on modern computers](https://github.com/rsc/unix)
 * [2023-10-27, 11:24:06](https://lobste.rs/s/ii5nit/delaying_deploys_fast_path_burnout) - [Delaying Deploys: The Fast Path to Burnout](https://www.openmymind.net/Fast-Path-To-Burnout-Not-Deploying/)
 * [2023-10-27, 10:29:22](https://lobste.rs/s/fhfb4u/waffle_workload_aware_query_sensitive) - [Waffle: A Workload-Aware and Query-Sensitive Framework for Disk-Based Spatial Indexing](https://dl.acm.org/doi/10.14778/3574245.3574253)
@@ -24,7 +25,6 @@
 * [2023-10-26, 11:18:01](https://lobste.rs/s/hbr6zl/cloud_computer_oxide) - [The Cloud Computer / Oxide](https://oxide.computer/blog/the-cloud-computer)
 * [2023-10-26, 10:21:47](https://lobste.rs/s/u4r9x9/django_micro_django) - [μDjango (micro Django)](https://www.paulox.net/2023/10/26/udjango_micro_django/)
 * [2023-10-25, 22:36:00](https://lobste.rs/s/hpxj9o/was_rust_worth_it_for_us) - [Was Rust Worth It For Us?](https://jsoverson.medium.com/was-rust-worth-it-f43d171fb1b3)
-* [2023-10-25, 19:52:56](https://lobste.rs/s/5w9ku1/helix_23_10_highlights) - [Helix 23.10 Highlights](https://helix-editor.com/news/release-23-10-highlights/)
 
 ## [Archives](archives/index.md)
 
