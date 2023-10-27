@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-27, 10:01:13](https://lobste.rs/s/iziut9/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/iziut9/what_are_you_doing_this_weekend)
+* [2023-10-27, 09:58:43](https://lobste.rs/s/nhdpya/help_everyone_do_better_security) - [Help Everyone Do Better Security](https://matduggan.com/security-feels-pointless/)
 * [2023-10-27, 08:37:55](https://lobste.rs/s/a3ohwp/get_all_your_sources) - [Get all your sources](https://linus.schreibt.jetzt/posts/include-build-dependencies.html)
 * [2023-10-27, 07:20:31](https://lobste.rs/s/iusham/dascript_high_performance_programming) - [daScript - The High Performance Programming Language](https://dascript.org/)
 * [2023-10-27, 06:45:37](https://lobste.rs/s/pjdlaf/raku_is_surprisingly_good_for_clis) - [Raku is surprisingly good for CLIs](https://buttondown.email/hillelwayne/archive/raku-is-surprisingly-good-for-clis/)
@@ -14,10 +16,8 @@
 * [2023-10-26, 17:46:36](https://lobste.rs/s/czkxft/there_is_no_now) - [There is No Now](https://queue.acm.org/detail.cfm?id=2745385)
 * [2023-10-26, 17:36:07](https://lobste.rs/s/fprdzm/nvix_implementing_tvix_store_with_nats) - [Nvix: Implementing a Tvix store with NATS](https://bmcgee.ie/posts/2023/10/nvix-implementing-a-tvix-store-with-nats/)
 * [2023-10-26, 17:23:51](https://lobste.rs/s/0hb9jp/university_chicago_researchers_seek) - [University of Chicago researchers seek to “poison” AI art generators with Nightshade](https://arstechnica.com/information-technology/2023/10/university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade/)
-* [2023-10-26, 16:50:41](https://lobste.rs/s/4uho6q/problem_with_general_purpose) - [The problem with general purpose programming languages](https://guitarvydas.github.io/2023/09/19/The-Problem-With-General-Purpose-Programming-Languages.html)
 * [2023-10-26, 14:54:19](https://lobste.rs/s/0ruefy/ruff_formatter_extremely_fast_black) - [The Ruff Formatter: An extremely fast, Black-compatible Python formatter](https://astral.sh/blog/the-ruff-formatter)
 * [2023-10-26, 13:50:28](https://lobste.rs/s/tccc6h/synchronization_constructs_go_standard) - [Synchronization Constructs in the Go Standard Library](https://hjr265.me/blog/synchronization-constructs-in-go-standard-library/)
-* [2023-10-26, 13:17:50](https://lobste.rs/s/nlvynf/searching_for_justice_programming) - [Searching for Justice in Programming Language Design](https://www.washington.edu/doit/webinars/?webinar=wordplay)
 * [2023-10-26, 11:18:01](https://lobste.rs/s/hbr6zl/cloud_computer_oxide) - [The Cloud Computer / Oxide](https://oxide.computer/blog/the-cloud-computer)
 * [2023-10-26, 10:21:47](https://lobste.rs/s/u4r9x9/django_micro_django) - [μDjango (micro Django)](https://www.paulox.net/2023/10/26/udjango_micro_django/)
 * [2023-10-26, 02:38:21](https://lobste.rs/s/bsazfc/running_reflections_on_trusting_trust) - [Running the “Reflections on Trusting Trust” Compiler](https://research.swtch.com/nih)

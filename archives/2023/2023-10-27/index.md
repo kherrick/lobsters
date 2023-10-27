@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
+* [2023-10-27, 10:01:13](https://lobste.rs/s/iziut9/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/iziut9/what_are_you_doing_this_weekend)
+* [2023-10-27, 09:58:43](https://lobste.rs/s/nhdpya/help_everyone_do_better_security) - [Help Everyone Do Better Security](https://matduggan.com/security-feels-pointless/)
 * [2023-10-27, 08:37:55](https://lobste.rs/s/a3ohwp/get_all_your_sources) - [Get all your sources](https://linus.schreibt.jetzt/posts/include-build-dependencies.html)
 * [2023-10-27, 07:20:31](https://lobste.rs/s/iusham/dascript_high_performance_programming) - [daScript - The High Performance Programming Language](https://dascript.org/)
 * [2023-10-27, 06:45:37](https://lobste.rs/s/pjdlaf/raku_is_surprisingly_good_for_clis) - [Raku is surprisingly good for CLIs](https://buttondown.email/hillelwayne/archive/raku-is-surprisingly-good-for-clis/)
