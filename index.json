@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-27, 11:24:06",
+      "https://lobste.rs/s/ii5nit/delaying_deploys_fast_path_burnout"
+    ],
+    [
+      "Delaying Deploys: The Fast Path to Burnout",
+      "https://www.openmymind.net/Fast-Path-To-Burnout-Not-Deploying/"
+    ]
+  ],
+  [
+    [
       "2023-10-27, 10:29:22",
       "https://lobste.rs/s/fhfb4u/waffle_workload_aware_query_sensitive"
     ],
@@ -237,16 +247,6 @@
     [
       "Nix Survival Mode: macOS upgrades won't break Nix anymore",
       "https://determinate.systems/posts/nix-survival-mode-on-macos"
-    ]
-  ],
-  [
-    [
-      "2023-10-25, 16:18:01",
-      "https://lobste.rs/s/herfb0/my_2023_all_flash_zfs_nas_network_storage"
-    ],
-    [
-      "My 2023 all-flash ZFS NAS (Network Storage) build",
-      "https://michael.stapelberg.ch/posts/2023-10-25-my-all-flash-zfs-network-storage-build/"
     ]
   ]
 ]
