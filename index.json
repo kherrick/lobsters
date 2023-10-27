@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2023-10-27, 17:57:08",
+      "https://lobste.rs/s/ajcels/kubernetes_kernel_panics"
+    ],
+    [
+      "Kubernetes and Kernel Panics",
+      "https://netflixtechblog.com/kubernetes-and-kernel-panics-ed620b9c6225"
+    ]
+  ],
+  [
+    [
       "2023-10-27, 17:18:14",
       "https://lobste.rs/s/tdsude/so_you_ve_been_publicly_accessibility"
     ],
@@ -97,16 +107,6 @@
     [
       "Old Unix programs running on modern computers",
       "https://github.com/rsc/unix"
-    ]
-  ],
-  [
-    [
-      "2023-10-27, 11:24:06",
-      "https://lobste.rs/s/ii5nit/delaying_deploys_fast_path_burnout"
-    ],
-    [
-      "Delaying Deploys: The Fast Path to Burnout",
-      "https://www.openmymind.net/Fast-Path-To-Burnout-Not-Deploying/"
     ]
   ],
   [
