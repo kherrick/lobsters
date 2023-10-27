@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-27, 07:20:31",
+      "https://lobste.rs/s/iusham/dascript_high_performance_programming"
+    ],
+    [
+      "daScript - The High Performance Programming Language",
+      "https://dascript.org/"
+    ]
+  ],
+  [
+    [
       "2023-10-27, 06:45:37",
       "https://lobste.rs/s/pjdlaf/raku_is_surprisingly_good_for_clis"
     ],
@@ -237,16 +247,6 @@
     [
       "Python is a Compiled Language",
       "https://eddieantonio.ca/blog/2023/10/25/python-is-a-compiled-language/"
-    ]
-  ],
-  [
-    [
-      "2023-10-25, 13:20:42",
-      "https://lobste.rs/s/mgrebh/advice_novice_programmer"
-    ],
-    [
-      "Advice to a novice programmer",
-      "https://blog.plover.com/prog/katara-advice.html"
     ]
   ]
 ]
