@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-27, 06:16:44](https://lobste.rs/s/up1fiv/goodbye_node_js_buffer) - [Goodbye, Node.js Buffer](https://sindresorhus.com/blog/goodbye-nodejs-buffer)
 * [2023-10-27, 04:34:18](https://lobste.rs/s/6ju8ro/how_tell_stuff_computer) - [How To Tell Stuff To A Computer](http://www.lisperati.com/tellstuff/index.html)
 * [2023-10-27, 03:43:59](https://lobste.rs/s/7qh4sn/journey_into_shaders) - [A Journey Into Shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders)
 * [2023-10-27, 00:51:00](https://lobste.rs/s/zufoxr/how_catch_wild_triangle) - [How to catch a wild triangle](https://securelist.com/operation-triangulation-catching-wild-triangle/110916/)
@@ -15,7 +16,6 @@
 * [2023-10-26, 14:54:19](https://lobste.rs/s/0ruefy/ruff_formatter_extremely_fast_black) - [The Ruff Formatter: An extremely fast, Black-compatible Python formatter](https://astral.sh/blog/the-ruff-formatter)
 * [2023-10-26, 13:50:28](https://lobste.rs/s/tccc6h/synchronization_constructs_go_standard) - [Synchronization Constructs in the Go Standard Library](https://hjr265.me/blog/synchronization-constructs-in-go-standard-library/)
 * [2023-10-26, 13:17:50](https://lobste.rs/s/nlvynf/searching_for_justice_programming) - [Searching for Justice in Programming Language Design](https://www.washington.edu/doit/webinars/?webinar=wordplay)
-* [2023-10-26, 11:31:35](https://lobste.rs/s/4gjglx/presumed_technical_debt_how_recognise_it) - [Presumed technical debt: how to recognise it and avoid it](https://alediaferia.com/2023/10/26/presumed-technical-debt-how-to-recognise-it-and-avoid-it/)
 * [2023-10-26, 11:18:01](https://lobste.rs/s/hbr6zl/cloud_computer_oxide) - [The Cloud Computer / Oxide](https://oxide.computer/blog/the-cloud-computer)
 * [2023-10-26, 10:21:47](https://lobste.rs/s/u4r9x9/django_micro_django) - [μDjango (micro Django)](https://www.paulox.net/2023/10/26/udjango_micro_django/)
 * [2023-10-26, 02:38:21](https://lobste.rs/s/bsazfc/running_reflections_on_trusting_trust) - [Running the “Reflections on Trusting Trust” Compiler](https://research.swtch.com/nih)
