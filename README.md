@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-27, 10:29:22](https://lobste.rs/s/fhfb4u/waffle_workload_aware_query_sensitive) - [Waffle: A Workload-Aware and Query-Sensitive Framework for Disk-Based Spatial Indexing](https://dl.acm.org/doi/10.14778/3574245.3574253)
 * [2023-10-27, 10:01:13](https://lobste.rs/s/iziut9/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/iziut9/what_are_you_doing_this_weekend)
 * [2023-10-27, 09:58:43](https://lobste.rs/s/nhdpya/help_everyone_do_better_security) - [Help Everyone Do Better Security](https://matduggan.com/security-feels-pointless/)
 * [2023-10-27, 08:37:55](https://lobste.rs/s/a3ohwp/get_all_your_sources) - [Get all your sources](https://linus.schreibt.jetzt/posts/include-build-dependencies.html)
@@ -20,7 +21,6 @@
 * [2023-10-26, 13:50:28](https://lobste.rs/s/tccc6h/synchronization_constructs_go_standard) - [Synchronization Constructs in the Go Standard Library](https://hjr265.me/blog/synchronization-constructs-in-go-standard-library/)
 * [2023-10-26, 11:18:01](https://lobste.rs/s/hbr6zl/cloud_computer_oxide) - [The Cloud Computer / Oxide](https://oxide.computer/blog/the-cloud-computer)
 * [2023-10-26, 10:21:47](https://lobste.rs/s/u4r9x9/django_micro_django) - [μDjango (micro Django)](https://www.paulox.net/2023/10/26/udjango_micro_django/)
-* [2023-10-26, 02:38:21](https://lobste.rs/s/bsazfc/running_reflections_on_trusting_trust) - [Running the “Reflections on Trusting Trust” Compiler](https://research.swtch.com/nih)
 * [2023-10-25, 22:36:00](https://lobste.rs/s/hpxj9o/was_rust_worth_it_for_us) - [Was Rust Worth It For Us?](https://jsoverson.medium.com/was-rust-worth-it-f43d171fb1b3)
 * [2023-10-25, 19:52:56](https://lobste.rs/s/5w9ku1/helix_23_10_highlights) - [Helix 23.10 Highlights](https://helix-editor.com/news/release-23-10-highlights/)
 * [2023-10-25, 17:06:20](https://lobste.rs/s/ydtdya/nix_survival_mode_macos_upgrades_won_t) - [Nix Survival Mode: macOS upgrades won't break Nix anymore](https://determinate.systems/posts/nix-survival-mode-on-macos)
