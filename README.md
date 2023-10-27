@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-27, 11:24:06](https://lobste.rs/s/ii5nit/delaying_deploys_fast_path_burnout) - [Delaying Deploys: The Fast Path to Burnout](https://www.openmymind.net/Fast-Path-To-Burnout-Not-Deploying/)
 * [2023-10-27, 10:29:22](https://lobste.rs/s/fhfb4u/waffle_workload_aware_query_sensitive) - [Waffle: A Workload-Aware and Query-Sensitive Framework for Disk-Based Spatial Indexing](https://dl.acm.org/doi/10.14778/3574245.3574253)
 * [2023-10-27, 10:01:13](https://lobste.rs/s/iziut9/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/iziut9/what_are_you_doing_this_weekend)
 * [2023-10-27, 09:58:43](https://lobste.rs/s/nhdpya/help_everyone_do_better_security) - [Help Everyone Do Better Security](https://matduggan.com/security-feels-pointless/)
@@ -24,7 +25,6 @@
 * [2023-10-25, 22:36:00](https://lobste.rs/s/hpxj9o/was_rust_worth_it_for_us) - [Was Rust Worth It For Us?](https://jsoverson.medium.com/was-rust-worth-it-f43d171fb1b3)
 * [2023-10-25, 19:52:56](https://lobste.rs/s/5w9ku1/helix_23_10_highlights) - [Helix 23.10 Highlights](https://helix-editor.com/news/release-23-10-highlights/)
 * [2023-10-25, 17:06:20](https://lobste.rs/s/ydtdya/nix_survival_mode_macos_upgrades_won_t) - [Nix Survival Mode: macOS upgrades won't break Nix anymore](https://determinate.systems/posts/nix-survival-mode-on-macos)
-* [2023-10-25, 16:18:01](https://lobste.rs/s/herfb0/my_2023_all_flash_zfs_nas_network_storage) - [My 2023 all-flash ZFS NAS (Network Storage) build](https://michael.stapelberg.ch/posts/2023-10-25-my-all-flash-zfs-network-storage-build/)
 
 ## [Archives](archives/index.md)
 

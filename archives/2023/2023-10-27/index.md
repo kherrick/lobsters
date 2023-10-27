@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
+* [2023-10-27, 11:24:06](https://lobste.rs/s/ii5nit/delaying_deploys_fast_path_burnout) - [Delaying Deploys: The Fast Path to Burnout](https://www.openmymind.net/Fast-Path-To-Burnout-Not-Deploying/)
 * [2023-10-27, 10:29:22](https://lobste.rs/s/fhfb4u/waffle_workload_aware_query_sensitive) - [Waffle: A Workload-Aware and Query-Sensitive Framework for Disk-Based Spatial Indexing](https://dl.acm.org/doi/10.14778/3574245.3574253)
 * [2023-10-27, 10:01:13](https://lobste.rs/s/iziut9/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/iziut9/what_are_you_doing_this_weekend)
 * [2023-10-27, 09:58:43](https://lobste.rs/s/nhdpya/help_everyone_do_better_security) - [Help Everyone Do Better Security](https://matduggan.com/security-feels-pointless/)
