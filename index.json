@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-27, 20:58:08",
+      "https://lobste.rs/s/jmlmbr/automating_dead_code_cleanup"
+    ],
+    [
+      "Automating dead code cleanup",
+      "https://engineering.fb.com/2023/10/24/data-infrastructure/automating-dead-code-cleanup/"
+    ]
+  ],
+  [
+    [
       "2023-10-27, 20:48:37",
       "https://lobste.rs/s/tr8iak/everything_i_ve_learned_building_fastest"
     ],
@@ -87,16 +97,6 @@
     [
       "Old Unix programs running on modern computers",
       "https://github.com/rsc/unix"
-    ]
-  ],
-  [
-    [
-      "2023-10-27, 11:24:06",
-      "https://lobste.rs/s/ii5nit/delaying_deploys_fast_path_burnout"
-    ],
-    [
-      "Delaying Deploys: The Fast Path to Burnout",
-      "https://www.openmymind.net/Fast-Path-To-Burnout-Not-Deploying/"
     ]
   ],
   [
