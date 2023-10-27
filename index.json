@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-10-27, 22:38:10",
-      "https://lobste.rs/s/bjk1rf/nix_packaging"
-    ],
-    [
-      "Nix packaging",
-      "https://nix-packaging.com/"
-    ]
-  ],
-  [
-    [
       "2023-10-27, 22:15:04",
       "https://lobste.rs/s/f1cxnx/advancing_imessage_security_imessage"
     ],
@@ -167,6 +157,16 @@
     [
       "Raku is surprisingly good for CLIs",
       "https://buttondown.email/hillelwayne/archive/raku-is-surprisingly-good-for-clis/"
+    ]
+  ],
+  [
+    [
+      "2023-10-27, 06:16:44",
+      "https://lobste.rs/s/up1fiv/goodbye_node_js_buffer"
+    ],
+    [
+      "Goodbye, Node.js Buffer",
+      "https://sindresorhus.com/blog/goodbye-nodejs-buffer"
     ]
   ],
   [
