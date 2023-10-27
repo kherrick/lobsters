@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-27, 17:57:08",
+      "https://lobste.rs/s/ajcels/kubernetes_kernel_panics"
+    ],
+    [
+      "Kubernetes and Kernel Panics",
+      "https://netflixtechblog.com/kubernetes-and-kernel-panics-ed620b9c6225"
+    ]
+  ],
+  [
+    [
       "2023-10-27, 17:18:14",
       "https://lobste.rs/s/tdsude/so_you_ve_been_publicly_accessibility"
     ],
@@ -237,16 +247,6 @@
     [
       "μDjango (micro Django)",
       "https://www.paulox.net/2023/10/26/udjango_micro_django/"
-    ]
-  ],
-  [
-    [
-      "2023-10-25, 22:36:00",
-      "https://lobste.rs/s/hpxj9o/was_rust_worth_it_for_us"
-    ],
-    [
-      "Was Rust Worth It For Us?",
-      "https://jsoverson.medium.com/was-rust-worth-it-f43d171fb1b3"
     ]
   ]
 ]
