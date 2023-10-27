@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-27](index.md)
 
+* [2023-10-27, 20:26:59](https://lobste.rs/s/rcivpb/introducing_shadow_new_novel_browser) - [Introducing <shadow>, a new novel browser engine made almost entirely in JS](https://goose.icu/introducing-shadow/)
 * [2023-10-27, 19:58:53](https://lobste.rs/s/8nplmv/new_accessibility_architecture_for) - [A new accessibility architecture for modern free desktops](https://blogs.gnome.org/a11y/2023/10/27/a-new-accessibility-architecture-for-modern-free-desktops/)
 * [2023-10-27, 19:26:31](https://lobste.rs/s/big57f/dj_notebook_repl_i_ve_always_wanted_for) - [dj-notebook: the REPL I've Always Wanted for Django](https://geoff.tuxpup.com/posts/dj-notebook-superpowers/)
 * [2023-10-27, 17:57:08](https://lobste.rs/s/ajcels/kubernetes_kernel_panics) - [Kubernetes and Kernel Panics](https://netflixtechblog.com/kubernetes-and-kernel-panics-ed620b9c6225)

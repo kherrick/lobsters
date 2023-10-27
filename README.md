@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-27, 20:26:59](https://lobste.rs/s/rcivpb/introducing_shadow_new_novel_browser) - [Introducing <shadow>, a new novel browser engine made almost entirely in JS](https://goose.icu/introducing-shadow/)
 * [2023-10-27, 19:58:53](https://lobste.rs/s/8nplmv/new_accessibility_architecture_for) - [A new accessibility architecture for modern free desktops](https://blogs.gnome.org/a11y/2023/10/27/a-new-accessibility-architecture-for-modern-free-desktops/)
 * [2023-10-27, 19:26:31](https://lobste.rs/s/big57f/dj_notebook_repl_i_ve_always_wanted_for) - [dj-notebook: the REPL I've Always Wanted for Django](https://geoff.tuxpup.com/posts/dj-notebook-superpowers/)
 * [2023-10-27, 17:57:08](https://lobste.rs/s/ajcels/kubernetes_kernel_panics) - [Kubernetes and Kernel Panics](https://netflixtechblog.com/kubernetes-and-kernel-panics-ed620b9c6225)
@@ -22,7 +23,6 @@
 * [2023-10-26, 19:10:07](https://lobste.rs/s/kxy5ai/uk_s_controversial_online_safety_bill) - [The UK’s controversial Online Safety Bill finally becomes law](https://www.theverge.com/2023/10/26/23922397/uk-online-safety-bill-law-passed-royal-assent-moderation-regulation)
 * [2023-10-26, 17:46:36](https://lobste.rs/s/czkxft/there_is_no_now) - [There is No Now](https://queue.acm.org/detail.cfm?id=2745385)
 * [2023-10-26, 14:54:19](https://lobste.rs/s/0ruefy/ruff_formatter_extremely_fast_black) - [The Ruff Formatter: An extremely fast, Black-compatible Python formatter](https://astral.sh/blog/the-ruff-formatter)
-* [2023-10-26, 13:50:28](https://lobste.rs/s/tccc6h/synchronization_constructs_go_standard) - [Synchronization Constructs in the Go Standard Library](https://hjr265.me/blog/synchronization-constructs-in-go-standard-library/)
 * [2023-10-26, 11:18:01](https://lobste.rs/s/hbr6zl/cloud_computer_oxide) - [The Cloud Computer / Oxide](https://oxide.computer/blog/the-cloud-computer)
 * [2023-10-26, 10:21:47](https://lobste.rs/s/u4r9x9/django_micro_django) - [μDjango (micro Django)](https://www.paulox.net/2023/10/26/udjango_micro_django/)
 
