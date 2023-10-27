@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-27, 04:34:18](https://lobste.rs/s/6ju8ro/how_tell_stuff_computer) - [How To Tell Stuff To A Computer](http://www.lisperati.com/tellstuff/index.html)
 * [2023-10-27, 03:43:59](https://lobste.rs/s/7qh4sn/journey_into_shaders) - [A Journey Into Shaders](https://www.mayerowitz.io/blog/a-journey-into-shaders)
 * [2023-10-27, 00:51:00](https://lobste.rs/s/zufoxr/how_catch_wild_triangle) - [How to catch a wild triangle](https://securelist.com/operation-triangulation-catching-wild-triangle/110916/)
 * [2023-10-26, 23:15:39](https://lobste.rs/s/gv2sfa/maxjourney_pushing_discord_s_limits_with) - [Maxjourney: Pushing Discord’s Limits with a Million+ Online Users in a Single Server](https://discord.com/blog/maxjourney-pushing-discords-limits-with-a-million-plus-online-users-in-a-single-server)
@@ -22,7 +23,6 @@
 * [2023-10-25, 19:52:56](https://lobste.rs/s/5w9ku1/helix_23_10_highlights) - [Helix 23.10 Highlights](https://helix-editor.com/news/release-23-10-highlights/)
 * [2023-10-25, 17:06:20](https://lobste.rs/s/ydtdya/nix_survival_mode_macos_upgrades_won_t) - [Nix Survival Mode: macOS upgrades won't break Nix anymore](https://determinate.systems/posts/nix-survival-mode-on-macos)
 * [2023-10-25, 16:18:01](https://lobste.rs/s/herfb0/my_2023_all_flash_zfs_nas_network_storage) - [My 2023 all-flash ZFS NAS (Network Storage) build](https://michael.stapelberg.ch/posts/2023-10-25-my-all-flash-zfs-network-storage-build/)
-* [2023-10-25, 16:14:05](https://lobste.rs/s/drp7ua/on_craft) - [On Craft](https://www.drcathicks.com/post/on-craft)
 * [2023-10-25, 15:37:01](https://lobste.rs/s/ncaoe7/python_is_compiled_language) - [Python is a Compiled Language](https://eddieantonio.ca/blog/2023/10/25/python-is-a-compiled-language/)
 * [2023-10-25, 13:20:42](https://lobste.rs/s/mgrebh/advice_novice_programmer) - [Advice to a novice programmer](https://blog.plover.com/prog/katara-advice.html)
 
