@@ -18,13 +18,13 @@
 * [2023-10-26, 19:10:07](https://lobste.rs/s/kxy5ai/uk_s_controversial_online_safety_bill) - [The UK’s controversial Online Safety Bill finally becomes law](https://www.theverge.com/2023/10/26/23922397/uk-online-safety-bill-law-passed-royal-assent-moderation-regulation)
 * [2023-10-26, 17:46:36](https://lobste.rs/s/czkxft/there_is_no_now) - [There is No Now](https://queue.acm.org/detail.cfm?id=2745385)
 * [2023-10-26, 17:36:07](https://lobste.rs/s/fprdzm/nvix_implementing_tvix_store_with_nats) - [Nvix: Implementing a Tvix store with NATS](https://bmcgee.ie/posts/2023/10/nvix-implementing-a-tvix-store-with-nats/)
+* [2023-10-26, 17:23:51](https://lobste.rs/s/0hb9jp/university_chicago_researchers_seek) - [University of Chicago researchers seek to “poison” AI art generators with Nightshade](https://arstechnica.com/information-technology/2023/10/university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade/)
 * [2023-10-26, 14:54:19](https://lobste.rs/s/0ruefy/ruff_formatter_extremely_fast_black) - [The Ruff Formatter: An extremely fast, Black-compatible Python formatter](https://astral.sh/blog/the-ruff-formatter)
 * [2023-10-26, 13:50:28](https://lobste.rs/s/tccc6h/synchronization_constructs_go_standard) - [Synchronization Constructs in the Go Standard Library](https://hjr265.me/blog/synchronization-constructs-in-go-standard-library/)
 * [2023-10-26, 11:18:01](https://lobste.rs/s/hbr6zl/cloud_computer_oxide) - [The Cloud Computer / Oxide](https://oxide.computer/blog/the-cloud-computer)
 * [2023-10-26, 10:21:47](https://lobste.rs/s/u4r9x9/django_micro_django) - [μDjango (micro Django)](https://www.paulox.net/2023/10/26/udjango_micro_django/)
 * [2023-10-25, 22:36:00](https://lobste.rs/s/hpxj9o/was_rust_worth_it_for_us) - [Was Rust Worth It For Us?](https://jsoverson.medium.com/was-rust-worth-it-f43d171fb1b3)
 * [2023-10-25, 19:52:56](https://lobste.rs/s/5w9ku1/helix_23_10_highlights) - [Helix 23.10 Highlights](https://helix-editor.com/news/release-23-10-highlights/)
-* [2023-10-25, 17:06:20](https://lobste.rs/s/ydtdya/nix_survival_mode_macos_upgrades_won_t) - [Nix Survival Mode: macOS upgrades won't break Nix anymore](https://determinate.systems/posts/nix-survival-mode-on-macos)
 
 ## [Archives](archives/index.md)
 
