@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-27, 08:37:55",
+      "https://lobste.rs/s/a3ohwp/get_all_your_sources"
+    ],
+    [
+      "Get all your sources",
+      "https://linus.schreibt.jetzt/posts/include-build-dependencies.html"
+    ]
+  ],
+  [
+    [
       "2023-10-27, 07:20:31",
       "https://lobste.rs/s/iusham/dascript_high_performance_programming"
     ],
@@ -237,16 +247,6 @@
     [
       "My 2023 all-flash ZFS NAS (Network Storage) build",
       "https://michael.stapelberg.ch/posts/2023-10-25-my-all-flash-zfs-network-storage-build/"
-    ]
-  ],
-  [
-    [
-      "2023-10-25, 15:37:01",
-      "https://lobste.rs/s/ncaoe7/python_is_compiled_language"
-    ],
-    [
-      "Python is a Compiled Language",
-      "https://eddieantonio.ca/blog/2023/10/25/python-is-a-compiled-language/"
     ]
   ]
 ]
