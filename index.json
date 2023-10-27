@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2023-10-26, 17:23:51",
+      "https://lobste.rs/s/0hb9jp/university_chicago_researchers_seek"
+    ],
+    [
+      "University of Chicago researchers seek to “poison” AI art generators with Nightshade",
+      "https://arstechnica.com/information-technology/2023/10/university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade/"
+    ]
+  ],
+  [
+    [
       "2023-10-26, 14:54:19",
       "https://lobste.rs/s/0ruefy/ruff_formatter_extremely_fast_black"
     ],
@@ -237,16 +247,6 @@
     [
       "Helix 23.10 Highlights",
       "https://helix-editor.com/news/release-23-10-highlights/"
-    ]
-  ],
-  [
-    [
-      "2023-10-25, 17:06:20",
-      "https://lobste.rs/s/ydtdya/nix_survival_mode_macos_upgrades_won_t"
-    ],
-    [
-      "Nix Survival Mode: macOS upgrades won't break Nix anymore",
-      "https://determinate.systems/posts/nix-survival-mode-on-macos"
     ]
   ]
 ]
