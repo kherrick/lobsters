@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2023-10-27, 16:01:41",
+      "https://lobste.rs/s/tncmnp/tor_browser_ooni_security_audit_findings"
+    ],
+    [
+      "Tor Browser & OONI Security Audit Findings",
+      "https://blog.torproject.org/security-audit-report-tor-browser-ooni/"
+    ]
+  ],
+  [
+    [
       "2023-10-27, 13:43:50",
       "https://lobste.rs/s/e7pqdo/old_unix_programs_running_on_modern"
     ],
@@ -157,16 +167,6 @@
     [
       "Raku is surprisingly good for CLIs",
       "https://buttondown.email/hillelwayne/archive/raku-is-surprisingly-good-for-clis/"
-    ]
-  ],
-  [
-    [
-      "2023-10-27, 06:16:44",
-      "https://lobste.rs/s/up1fiv/goodbye_node_js_buffer"
-    ],
-    [
-      "Goodbye, Node.js Buffer",
-      "https://sindresorhus.com/blog/goodbye-nodejs-buffer"
     ]
   ],
   [
