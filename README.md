@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-28, 17:05:21](https://lobste.rs/s/elloe4/fixing_volume_on_my_bluetooth_earbuds) - [Fixing the Volume on my Bluetooth Earbuds](https://blog.ornx.net/post/bluetooth-volume-fix/)
 * [2023-10-28, 15:45:31](https://lobste.rs/s/s40uja/freebsd_jails_vs_docker_comparison) - [FreeBSD Jails vs. Docker Comparison](https://justanerds.site/freebsd-jails-vs-docker/)
 * [2023-10-28, 15:19:54](https://lobste.rs/s/yznju7/web_components_will_outlive_your) - [Web Components Will Outlive Your JavaScript Framework](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/)
 * [2023-10-28, 13:20:42](https://lobste.rs/s/bykt8i/exploiting_dns_response_parsing_on_wii_u) - [Exploiting DNS response parsing on the Wii U](https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html)
@@ -14,7 +15,6 @@
 * [2023-10-27, 20:26:59](https://lobste.rs/s/rcivpb/introducing_shadow_new_novel_browser) - [Introducing <shadow>, a new novel browser engine made almost entirely in JS](https://goose.icu/introducing-shadow/)
 * [2023-10-27, 19:58:53](https://lobste.rs/s/8nplmv/new_accessibility_architecture_for) - [A new accessibility architecture for modern free desktops](https://blogs.gnome.org/a11y/2023/10/27/a-new-accessibility-architecture-for-modern-free-desktops/)
 * [2023-10-27, 19:26:31](https://lobste.rs/s/big57f/dj_notebook_repl_i_ve_always_wanted_for) - [dj-notebook: the REPL I've Always Wanted for Django](https://geoff.tuxpup.com/posts/dj-notebook-superpowers/)
-* [2023-10-27, 17:57:08](https://lobste.rs/s/ajcels/kubernetes_kernel_panics) - [Kubernetes and Kernel Panics](https://netflixtechblog.com/kubernetes-and-kernel-panics-ed620b9c6225)
 * [2023-10-27, 17:18:14](https://lobste.rs/s/tdsude/so_you_ve_been_publicly_accessibility) - [So you’ve been publicly accessibility-shamed](https://daverupert.com/2023/10/accessiblity-shamed/)
 * [2023-10-27, 16:09:31](https://lobste.rs/s/34emv6/removing_syscall_2_from_libc_kernel) - [Removing syscall(2) from libc and kernel](https://marc.info/?l=openbsd-tech&m=169841790407370&w=2)
 * [2023-10-27, 13:43:50](https://lobste.rs/s/e7pqdo/old_unix_programs_running_on_modern) - [Old Unix programs running on modern computers](https://github.com/rsc/unix)
