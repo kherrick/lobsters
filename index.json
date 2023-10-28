@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-10-27, 06:16:44",
+      "https://lobste.rs/s/up1fiv/goodbye_node_js_buffer"
+    ],
+    [
+      "Goodbye, Node.js Buffer",
+      "https://sindresorhus.com/blog/goodbye-nodejs-buffer"
+    ]
+  ],
+  [
+    [
       "2023-10-27, 03:43:59",
       "https://lobste.rs/s/7qh4sn/journey_into_shaders"
     ],
@@ -237,16 +247,6 @@
     [
       "The Cloud Computer / Oxide",
       "https://oxide.computer/blog/the-cloud-computer"
-    ]
-  ],
-  [
-    [
-      "2023-10-26, 10:21:47",
-      "https://lobste.rs/s/u4r9x9/django_micro_django"
-    ],
-    [
-      "μDjango (micro Django)",
-      "https://www.paulox.net/2023/10/26/udjango_micro_django/"
     ]
   ]
 ]
