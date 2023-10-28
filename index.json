@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-28, 02:50:13",
+      "https://lobste.rs/s/ftpxug/welcome_offensive_ml_framework"
+    ],
+    [
+      "Welcome to the Offensive ML Framework",
+      "https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Framework"
+    ]
+  ],
+  [
+    [
       "2023-10-27, 23:19:44",
       "https://lobste.rs/s/aurieh/project_bluefin_linux"
     ],
@@ -97,16 +107,6 @@
     [
       "Removing syscall(2) from libc and kernel",
       "https://marc.info/?l=openbsd-tech&m=169841790407370&w=2"
-    ]
-  ],
-  [
-    [
-      "2023-10-27, 16:01:41",
-      "https://lobste.rs/s/tncmnp/tor_browser_ooni_security_audit_findings"
-    ],
-    [
-      "Tor Browser & OONI Security Audit Findings",
-      "https://blog.torproject.org/security-audit-report-tor-browser-ooni/"
     ]
   ],
   [
