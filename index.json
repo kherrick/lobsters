@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-10-27, 20:58:08",
-      "https://lobste.rs/s/jmlmbr/automating_dead_code_cleanup"
-    ],
-    [
-      "Automating dead code cleanup",
-      "https://engineering.fb.com/2023/10/24/data-infrastructure/automating-dead-code-cleanup/"
-    ]
-  ],
-  [
-    [
       "2023-10-27, 20:48:37",
       "https://lobste.rs/s/tr8iak/everything_i_ve_learned_building_fastest"
     ],
@@ -147,6 +137,16 @@
     [
       "dj-notebook: the REPL I've Always Wanted for Django",
       "https://geoff.tuxpup.com/posts/dj-notebook-superpowers/"
+    ]
+  ],
+  [
+    [
+      "2023-10-27, 17:57:08",
+      "https://lobste.rs/s/ajcels/kubernetes_kernel_panics"
+    ],
+    [
+      "Kubernetes and Kernel Panics",
+      "https://netflixtechblog.com/kubernetes-and-kernel-panics-ed620b9c6225"
     ]
   ],
   [
