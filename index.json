@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-28, 21:32:00",
+      "https://lobste.rs/s/p5rj1x/winterjs_js_service_workers_server"
+    ],
+    [
+      "WinterJS: JS Service Workers server written in Rust powered by SpiderMonkey",
+      "https://wasmer.io/posts/announcing-winterjs-service-workers"
+    ]
+  ],
+  [
+    [
       "2023-10-28, 17:05:21",
       "https://lobste.rs/s/elloe4/fixing_volume_on_my_bluetooth_earbuds"
     ],
@@ -97,16 +107,6 @@
     [
       "Advancing iMessage security: iMessage Contact Key Verification",
       "https://security.apple.com/blog/imessage-contact-key-verification/"
-    ]
-  ],
-  [
-    [
-      "2023-10-27, 20:58:08",
-      "https://lobste.rs/s/jmlmbr/automating_dead_code_cleanup"
-    ],
-    [
-      "Automating dead code cleanup",
-      "https://engineering.fb.com/2023/10/24/data-infrastructure/automating-dead-code-cleanup/"
     ]
   ],
   [
