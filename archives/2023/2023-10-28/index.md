@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-28](index.md)
 
+* [2023-10-28, 15:45:31](https://lobste.rs/s/s40uja/freebsd_jails_vs_docker_comparison) - [FreeBSD Jails vs. Docker Comparison](https://justanerds.site/freebsd-jails-vs-docker/)
 * [2023-10-28, 15:19:54](https://lobste.rs/s/yznju7/web_components_will_outlive_your) - [Web Components Will Outlive Your JavaScript Framework | jakelazaroff.com](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/)
 * [2023-10-28, 13:20:42](https://lobste.rs/s/bykt8i/exploiting_dns_response_parsing_on_wii_u) - [Exploiting DNS response parsing on the Wii U](https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html)
 * [2023-10-28, 09:41:39](https://lobste.rs/s/4geqrw/freebsd_foundation_2023_q3_status_update) - [FreeBSD Foundation 2023 Q3 Status Update](https://freebsdfoundation.org/blog/freebsd-foundation-q3-2023-status-update/)

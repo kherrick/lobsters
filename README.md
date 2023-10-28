@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-28, 15:45:31](https://lobste.rs/s/s40uja/freebsd_jails_vs_docker_comparison) - [FreeBSD Jails vs. Docker Comparison](https://justanerds.site/freebsd-jails-vs-docker/)
 * [2023-10-28, 15:19:54](https://lobste.rs/s/yznju7/web_components_will_outlive_your) - [Web Components Will Outlive Your JavaScript Framework](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/)
 * [2023-10-28, 13:20:42](https://lobste.rs/s/bykt8i/exploiting_dns_response_parsing_on_wii_u) - [Exploiting DNS response parsing on the Wii U](https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html)
 * [2023-10-28, 09:41:39](https://lobste.rs/s/4geqrw/freebsd_foundation_2023_q3_status_update) - [FreeBSD Foundation 2023 Q3 Status Update](https://freebsdfoundation.org/blog/freebsd-foundation-q3-2023-status-update/)
@@ -20,7 +21,6 @@
 * [2023-10-27, 10:01:13](https://lobste.rs/s/iziut9/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/iziut9/what_are_you_doing_this_weekend)
 * [2023-10-27, 09:58:43](https://lobste.rs/s/nhdpya/help_everyone_do_better_security) - [Help Everyone Do Better Security](https://matduggan.com/security-feels-pointless/)
 * [2023-10-27, 08:37:55](https://lobste.rs/s/a3ohwp/get_all_your_sources) - [Get all your sources](https://linus.schreibt.jetzt/posts/include-build-dependencies.html)
-* [2023-10-27, 07:20:31](https://lobste.rs/s/iusham/dascript_high_performance_programming) - [daScript - The High Performance Programming Language](https://dascript.org/)
 * [2023-10-27, 06:45:37](https://lobste.rs/s/pjdlaf/raku_is_surprisingly_good_for_clis) - [Raku is surprisingly good for CLIs](https://buttondown.email/hillelwayne/archive/raku-is-surprisingly-good-for-clis/)
 * [2023-10-26, 22:32:32](https://lobste.rs/s/fh0ru0/now_add_walrus_prompt_engineering_dall_e_3) - [Now add a walrus: Prompt engineering in DALL-E 3](https://simonwillison.net/2023/Oct/26/add-a-walrus/)
 * [2023-10-26, 20:32:31](https://lobste.rs/s/ev9cam/things_i_like_about_gleam_s_syntax) - [Things I like about Gleam's Syntax](https://erikarow.land/notes/gleam-syntax)
