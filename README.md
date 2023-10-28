@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-28, 13:20:42](https://lobste.rs/s/bykt8i/exploiting_dns_response_parsing_on_wii_u) - [Exploiting DNS response parsing on the Wii U](https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html)
 * [2023-10-28, 09:41:39](https://lobste.rs/s/4geqrw/freebsd_foundation_2023_q3_status_update) - [FreeBSD Foundation 2023 Q3 Status Update](https://freebsdfoundation.org/blog/freebsd-foundation-q3-2023-status-update/)
 * [2023-10-28, 07:53:34](https://lobste.rs/s/a8im6c/modular_using_mojo_with_python) - [Modular: Using Mojo with Python](https://www.modular.com/blog/using-mojo-with-python)
 * [2023-10-28, 04:33:12](https://lobste.rs/s/v5dzfj/infinite_half_life_deathmatch_stream) - [Infinite Half-Life: Deathmatch Stream](https://rqsall.com/posts/infinite-half-life-deathmatch-stream)
@@ -23,7 +24,6 @@
 * [2023-10-26, 22:32:32](https://lobste.rs/s/fh0ru0/now_add_walrus_prompt_engineering_dall_e_3) - [Now add a walrus: Prompt engineering in DALL-E 3](https://simonwillison.net/2023/Oct/26/add-a-walrus/)
 * [2023-10-26, 20:32:31](https://lobste.rs/s/ev9cam/things_i_like_about_gleam_s_syntax) - [Things I like about Gleam's Syntax](https://erikarow.land/notes/gleam-syntax)
 * [2023-10-26, 20:04:18](https://lobste.rs/s/uvt9um/atuin_v17_secrets_filters_more) - [Atuin v17 - secrets filters and more](https://atuin.sh/blog/release-v17)
-* [2023-10-26, 14:54:19](https://lobste.rs/s/0ruefy/ruff_formatter_extremely_fast_black) - [The Ruff Formatter: An extremely fast, Black-compatible Python formatter](https://astral.sh/blog/the-ruff-formatter)
 * [2023-10-26, 11:18:01](https://lobste.rs/s/hbr6zl/cloud_computer_oxide) - [The Cloud Computer / Oxide](https://oxide.computer/blog/the-cloud-computer)
 
 ## [Archives](archives/index.md)
