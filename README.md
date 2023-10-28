@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-10-28, 21:32:00](https://lobste.rs/s/p5rj1x/winterjs_js_service_workers_server) - [WinterJS: JS Service Workers server written in Rust powered by SpiderMonkey](https://wasmer.io/posts/announcing-winterjs-service-workers)
 * [2023-10-28, 17:05:21](https://lobste.rs/s/elloe4/fixing_volume_on_my_bluetooth_earbuds) - [Fixing the Volume on my Bluetooth Earbuds](https://blog.ornx.net/post/bluetooth-volume-fix/)
 * [2023-10-28, 15:45:31](https://lobste.rs/s/s40uja/freebsd_jails_vs_docker_comparison) - [FreeBSD Jails vs. Docker Comparison](https://justanerds.site/freebsd-jails-vs-docker/)
 * [2023-10-28, 15:19:54](https://lobste.rs/s/yznju7/web_components_will_outlive_your) - [Web Components Will Outlive Your JavaScript Framework](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/)
@@ -11,6 +10,7 @@
 * [2023-10-28, 02:50:13](https://lobste.rs/s/ftpxug/welcome_offensive_ml_framework) - [Welcome to the Offensive ML Framework](https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Framework)
 * [2023-10-27, 23:19:44](https://lobste.rs/s/aurieh/project_bluefin_linux) - [Project Bluefin Linux](https://projectbluefin.io/)
 * [2023-10-27, 22:15:04](https://lobste.rs/s/f1cxnx/advancing_imessage_security_imessage) - [Advancing iMessage security: iMessage Contact Key Verification](https://security.apple.com/blog/imessage-contact-key-verification/)
+* [2023-10-27, 20:58:08](https://lobste.rs/s/jmlmbr/automating_dead_code_cleanup) - [Automating dead code cleanup](https://engineering.fb.com/2023/10/24/data-infrastructure/automating-dead-code-cleanup/)
 * [2023-10-27, 20:48:37](https://lobste.rs/s/tr8iak/everything_i_ve_learned_building_fastest) - [Everything I've learned building the fastest Arm desktop](https://www.jeffgeerling.com/blog/2023/everything-ive-learned-building-fastest-arm-desktop)
 * [2023-10-27, 20:26:59](https://lobste.rs/s/rcivpb/introducing_shadow_new_novel_browser) - [Introducing <shadow>, a new novel browser engine made almost entirely in JS](https://goose.icu/introducing-shadow/)
 * [2023-10-27, 19:58:53](https://lobste.rs/s/8nplmv/new_accessibility_architecture_for) - [A new accessibility architecture for modern free desktops](https://blogs.gnome.org/a11y/2023/10/27/a-new-accessibility-architecture-for-modern-free-desktops/)
