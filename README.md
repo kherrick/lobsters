@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-28, 02:50:13](https://lobste.rs/s/ftpxug/welcome_offensive_ml_framework) - [Welcome to the Offensive ML Framework](https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Framework)
 * [2023-10-27, 23:19:44](https://lobste.rs/s/aurieh/project_bluefin_linux) - [Project Bluefin Linux](https://projectbluefin.io/)
 * [2023-10-27, 22:15:04](https://lobste.rs/s/f1cxnx/advancing_imessage_security_imessage) - [Advancing iMessage security: iMessage Contact Key Verification](https://security.apple.com/blog/imessage-contact-key-verification/)
 * [2023-10-27, 20:58:08](https://lobste.rs/s/jmlmbr/automating_dead_code_cleanup) - [Automating dead code cleanup](https://engineering.fb.com/2023/10/24/data-infrastructure/automating-dead-code-cleanup/)
@@ -10,7 +11,6 @@
 * [2023-10-27, 17:57:08](https://lobste.rs/s/ajcels/kubernetes_kernel_panics) - [Kubernetes and Kernel Panics](https://netflixtechblog.com/kubernetes-and-kernel-panics-ed620b9c6225)
 * [2023-10-27, 17:18:14](https://lobste.rs/s/tdsude/so_you_ve_been_publicly_accessibility) - [So you’ve been publicly accessibility-shamed](https://daverupert.com/2023/10/accessiblity-shamed/)
 * [2023-10-27, 16:09:31](https://lobste.rs/s/34emv6/removing_syscall_2_from_libc_kernel) - [Removing syscall(2) from libc and kernel](https://marc.info/?l=openbsd-tech&m=169841790407370&w=2)
-* [2023-10-27, 16:01:41](https://lobste.rs/s/tncmnp/tor_browser_ooni_security_audit_findings) - [Tor Browser & OONI Security Audit Findings](https://blog.torproject.org/security-audit-report-tor-browser-ooni/)
 * [2023-10-27, 13:43:50](https://lobste.rs/s/e7pqdo/old_unix_programs_running_on_modern) - [Old Unix programs running on modern computers](https://github.com/rsc/unix)
 * [2023-10-27, 10:01:13](https://lobste.rs/s/iziut9/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/iziut9/what_are_you_doing_this_weekend)
 * [2023-10-27, 09:58:43](https://lobste.rs/s/nhdpya/help_everyone_do_better_security) - [Help Everyone Do Better Security](https://matduggan.com/security-feels-pointless/)
