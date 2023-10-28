@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2023-10-27, 20:58:08",
+      "https://lobste.rs/s/jmlmbr/automating_dead_code_cleanup"
+    ],
+    [
+      "Automating dead code cleanup",
+      "https://engineering.fb.com/2023/10/24/data-infrastructure/automating-dead-code-cleanup/"
+    ]
+  ],
+  [
+    [
       "2023-10-27, 20:48:37",
       "https://lobste.rs/s/tr8iak/everything_i_ve_learned_building_fastest"
     ],
@@ -237,16 +247,6 @@
     [
       "Things I like about Gleam's Syntax",
       "https://erikarow.land/notes/gleam-syntax"
-    ]
-  ],
-  [
-    [
-      "2023-10-26, 11:18:01",
-      "https://lobste.rs/s/hbr6zl/cloud_computer_oxide"
-    ],
-    [
-      "The Cloud Computer / Oxide",
-      "https://oxide.computer/blog/the-cloud-computer"
     ]
   ]
 ]
