@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-29, 20:53:07](https://lobste.rs/s/xd9tq1/stateless_authentication_persistence) - [Stateless Authentication Persistence: Unpacking the Power of JWTs](https://medium.com/@atakanserbes/stateless-authentication-persistence-unpacking-the-power-of-jwts-e274f5e058b9?source=friends_link)
 * [2023-10-29, 19:59:14](https://lobste.rs/s/pnxdok/transform_matrices_are_great_you_should) - [Transform Matrices are Great and You Should Understand Them](https://probablydance.com/2023/10/29/transform-matrices-are-great-and-you-should-understand-them/)
 * [2023-10-29, 18:52:10](https://lobste.rs/s/jfmlrc/analyzing_data_170_000x_faster_with) - [Analyzing Data 170,000x Faster with Python](https://sidsite.com/posts/python-corrset-optimization/)
 * [2023-10-29, 18:21:14](https://lobste.rs/s/i7phtl/quicktake_100_for_apple_ii) - [Quicktake 100 for Apple II](https://www.colino.net/wordpress/en/quicktake-100-for-apple-ii/)
@@ -23,7 +24,6 @@
 * [2023-10-27, 19:58:53](https://lobste.rs/s/8nplmv/new_accessibility_architecture_for) - [A new accessibility architecture for modern free desktops](https://blogs.gnome.org/a11y/2023/10/27/a-new-accessibility-architecture-for-modern-free-desktops/)
 * [2023-10-27, 17:18:14](https://lobste.rs/s/tdsude/so_you_ve_been_publicly_accessibility) - [So you’ve been publicly accessibility-shamed](https://daverupert.com/2023/10/accessiblity-shamed/)
 * [2023-10-27, 16:09:31](https://lobste.rs/s/34emv6/removing_syscall_2_from_libc_kernel) - [Removing syscall(2) from libc and kernel](https://marc.info/?l=openbsd-tech&m=169841790407370&w=2)
-* [2023-10-27, 08:37:55](https://lobste.rs/s/a3ohwp/get_all_your_sources) - [Get all your sources](https://linus.schreibt.jetzt/posts/include-build-dependencies.html)
 * [2023-10-27, 06:45:37](https://lobste.rs/s/pjdlaf/raku_is_surprisingly_good_for_clis) - [Raku is surprisingly good for CLIs](https://buttondown.email/hillelwayne/archive/raku-is-surprisingly-good-for-clis/)
 
 ## [Archives](archives/index.md)
