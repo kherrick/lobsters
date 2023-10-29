@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2023-10-27, 20:58:08",
-      "https://lobste.rs/s/jmlmbr/automating_dead_code_cleanup"
-    ],
-    [
-      "Automating dead code cleanup",
-      "https://engineering.fb.com/2023/10/24/data-infrastructure/automating-dead-code-cleanup/"
-    ]
-  ],
-  [
-    [
       "2023-10-27, 20:48:37",
       "https://lobste.rs/s/tr8iak/everything_i_ve_learned_building_fastest"
     ],
@@ -217,6 +207,16 @@
     [
       "Removing syscall(2) from libc and kernel",
       "https://marc.info/?l=openbsd-tech&m=169841790407370&w=2"
+    ]
+  ],
+  [
+    [
+      "2023-10-27, 13:43:50",
+      "https://lobste.rs/s/e7pqdo/old_unix_programs_running_on_modern"
+    ],
+    [
+      "Old Unix programs running on modern computers",
+      "https://github.com/rsc/unix"
     ]
   ],
   [
