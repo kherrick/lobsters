@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-29, 23:15:47",
+      "https://lobste.rs/s/2rbbyj/nixos_reproducible_builds_minimal"
+    ],
+    [
+      "NixOS Reproducible Builds: minimal installation ISO successfully independently rebuilt",
+      "https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756"
+    ]
+  ],
+  [
+    [
       "2023-10-29, 22:57:39",
       "https://lobste.rs/s/kukpf1/is_cammy_consistent"
     ],
@@ -197,16 +207,6 @@
     [
       "Infinite Half-Life: Deathmatch Stream",
       "https://rqsall.com/posts/infinite-half-life-deathmatch-stream"
-    ]
-  ],
-  [
-    [
-      "2023-10-27, 22:15:04",
-      "https://lobste.rs/s/f1cxnx/advancing_imessage_security_imessage"
-    ],
-    [
-      "Advancing iMessage security: iMessage Contact Key Verification",
-      "https://security.apple.com/blog/imessage-contact-key-verification/"
     ]
   ],
   [
