@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-29, 16:17:25](https://lobste.rs/s/yf0qs8/what_is_reason_for_b_prefixes_git_diff) - [What is the reason for the /a /b prefixes of git diff?](https://stackoverflow.com/questions/6764953/what-is-the-reason-for-the-a-b-prefixes-of-git-diff)
 * [2023-10-29, 12:16:16](https://lobste.rs/s/dvszpg/calculus_made_easy_by_silvanus_p_thompson) - [Calculus Made Easy by Silvanus P. Thompson (1910)](https://calculusmadeeasy.org)
 * [2023-10-29, 08:44:22](https://lobste.rs/s/rldx6z/making_usb_ethernet_adapter_work) - [Making an USB Ethernet adapter work](https://blog.brixit.nl/making-a-usb-ethernet-adapter-work-sr9700/)
 * [2023-10-29, 06:45:59](https://lobste.rs/s/jucfw9/linear_algebra_done_right_open_access_4th) - [Linear Algebra Done Right, Open Access, 4th ed](https://link.springer.com/book/10.1007/978-3-031-41026-0)
@@ -11,7 +12,6 @@
 * [2023-10-28, 09:41:39](https://lobste.rs/s/4geqrw/freebsd_foundation_2023_q3_status_update) - [FreeBSD Foundation 2023 Q3 Status Update](https://freebsdfoundation.org/blog/freebsd-foundation-q3-2023-status-update/)
 * [2023-10-28, 07:53:34](https://lobste.rs/s/a8im6c/modular_using_mojo_with_python) - [Modular: Using Mojo with Python](https://www.modular.com/blog/using-mojo-with-python)
 * [2023-10-28, 04:33:12](https://lobste.rs/s/v5dzfj/infinite_half_life_deathmatch_stream) - [Infinite Half-Life: Deathmatch Stream](https://rqsall.com/posts/infinite-half-life-deathmatch-stream)
-* [2023-10-28, 02:50:13](https://lobste.rs/s/ftpxug/welcome_offensive_ml_framework) - [Welcome to the Offensive ML Framework](https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Framework)
 * [2023-10-27, 23:19:44](https://lobste.rs/s/aurieh/project_bluefin_linux) - [Project Bluefin Linux](https://projectbluefin.io/)
 * [2023-10-27, 22:15:04](https://lobste.rs/s/f1cxnx/advancing_imessage_security_imessage) - [Advancing iMessage security: iMessage Contact Key Verification](https://security.apple.com/blog/imessage-contact-key-verification/)
 * [2023-10-27, 20:58:08](https://lobste.rs/s/jmlmbr/automating_dead_code_cleanup) - [Automating dead code cleanup](https://engineering.fb.com/2023/10/24/data-infrastructure/automating-dead-code-cleanup/)

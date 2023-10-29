@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-29](index.md)
 
+* [2023-10-29, 16:17:25](https://lobste.rs/s/yf0qs8/what_is_reason_for_b_prefixes_git_diff) - [What is the reason for the /a /b prefixes of git diff?](https://stackoverflow.com/questions/6764953/what-is-the-reason-for-the-a-b-prefixes-of-git-diff)
 * [2023-10-29, 12:16:16](https://lobste.rs/s/dvszpg/calculus_made_easy_by_silvanus_p_thompson) - [Calculus Made Easy by Silvanus P. Thompson (1910)](https://calculusmadeeasy.org)
 * [2023-10-29, 08:44:22](https://lobste.rs/s/rldx6z/making_usb_ethernet_adapter_work) - [Making an USB Ethernet adapter work](https://blog.brixit.nl/making-a-usb-ethernet-adapter-work-sr9700/)
 * [2023-10-29, 06:45:59](https://lobste.rs/s/jucfw9/linear_algebra_done_right_open_access_4th) - [Linear Algebra Done Right, Open Access, 4th ed](https://link.springer.com/book/10.1007/978-3-031-41026-0)
