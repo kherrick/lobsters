@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-29, 21:36:28](https://lobste.rs/s/dvsyjw/linux_6_7_reworks_pe_header_generation) - [Linux 6.7 Reworks PE Header Generation To Reduce Attack Area](https://www.phoronix.com/news/Linux-6.7-x86-boot)
 * [2023-10-29, 20:53:07](https://lobste.rs/s/xd9tq1/stateless_authentication_persistence) - [Stateless Authentication Persistence: Unpacking the Power of JWTs](https://medium.com/@atakanserbes/stateless-authentication-persistence-unpacking-the-power-of-jwts-e274f5e058b9?source=friends_link)
 * [2023-10-29, 19:59:14](https://lobste.rs/s/pnxdok/transform_matrices_are_great_you_should) - [Transform Matrices are Great and You Should Understand Them](https://probablydance.com/2023/10/29/transform-matrices-are-great-and-you-should-understand-them/)
 * [2023-10-29, 18:52:10](https://lobste.rs/s/jfmlrc/analyzing_data_170_000x_faster_with) - [Analyzing Data 170,000x Faster with Python](https://sidsite.com/posts/python-corrset-optimization/)
@@ -17,7 +18,6 @@
 * [2023-10-28, 09:41:39](https://lobste.rs/s/4geqrw/freebsd_foundation_2023_q3_status_update) - [FreeBSD Foundation 2023 Q3 Status Update](https://freebsdfoundation.org/blog/freebsd-foundation-q3-2023-status-update/)
 * [2023-10-28, 07:53:34](https://lobste.rs/s/a8im6c/modular_using_mojo_with_python) - [Modular: Using Mojo with Python](https://www.modular.com/blog/using-mojo-with-python)
 * [2023-10-28, 04:33:12](https://lobste.rs/s/v5dzfj/infinite_half_life_deathmatch_stream) - [Infinite Half-Life: Deathmatch Stream](https://rqsall.com/posts/infinite-half-life-deathmatch-stream)
-* [2023-10-27, 23:19:44](https://lobste.rs/s/aurieh/project_bluefin_linux) - [Project Bluefin Linux](https://projectbluefin.io/)
 * [2023-10-27, 22:15:04](https://lobste.rs/s/f1cxnx/advancing_imessage_security_imessage) - [Advancing iMessage security: iMessage Contact Key Verification](https://security.apple.com/blog/imessage-contact-key-verification/)
 * [2023-10-27, 20:48:37](https://lobste.rs/s/tr8iak/everything_i_ve_learned_building_fastest) - [Everything I've learned building the fastest Arm desktop](https://www.jeffgeerling.com/blog/2023/everything-ive-learned-building-fastest-arm-desktop)
 * [2023-10-27, 20:26:59](https://lobste.rs/s/rcivpb/introducing_shadow_new_novel_browser) - [Introducing <shadow>, a new novel browser engine made almost entirely in JS](https://goose.icu/introducing-shadow/)
