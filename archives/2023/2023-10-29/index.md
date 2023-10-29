@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-29](index.md)
 
+* [2023-10-29, 18:21:14](https://lobste.rs/s/i7phtl/quicktake_100_for_apple_ii) - [Quicktake 100 for Apple II](https://www.colino.net/wordpress/en/quicktake-100-for-apple-ii/)
 * [2023-10-29, 17:23:15](https://lobste.rs/s/omsdu3/cppinecone_c_client_library_for_pinecone) - [cppinecone: A C++ client library for the PInecone vector database](https://github.com/jkaye2012/cppinecone)
 * [2023-10-29, 16:17:25](https://lobste.rs/s/yf0qs8/what_is_reason_for_b_prefixes_git_diff) - [What is the reason for the /a /b prefixes of git diff?](https://stackoverflow.com/questions/6764953/what-is-the-reason-for-the-a-b-prefixes-of-git-diff)
 * [2023-10-29, 12:16:16](https://lobste.rs/s/dvszpg/calculus_made_easy_by_silvanus_p_thompson) - [Calculus Made Easy by Silvanus P. Thompson (1910)](https://calculusmadeeasy.org)
