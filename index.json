@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-29, 22:16:11",
+      "https://lobste.rs/s/r2jawd/avoid_load_bearing_shell_scripts"
+    ],
+    [
+      "Avoid Load-bearing Shell Scripts",
+      "https://benjamincongdon.me/blog/2023/10/29/Avoid-Load-bearing-Shell-Scripts/"
+    ]
+  ],
+  [
+    [
+      "2023-10-29, 22:11:01",
+      "https://lobste.rs/s/d9inn1/all_gb_s_without_flops_nvidia_cmp_170hx"
+    ],
+    [
+      "All GB/s without FLOPS - Nvidia CMP 170HX Review, Performance Lockdown Workaround, Teardown, Watercooling, and Repair",
+      "https://niconiconi.neocities.org/tech-notes/nvidia-cmp-170hx-review/"
+    ]
+  ],
+  [
+    [
       "2023-10-29, 21:36:28",
       "https://lobste.rs/s/dvsyjw/linux_6_7_reworks_pe_header_generation"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-10-27, 20:48:37",
-      "https://lobste.rs/s/tr8iak/everything_i_ve_learned_building_fastest"
-    ],
-    [
-      "Everything I've learned building the fastest Arm desktop",
-      "https://www.jeffgeerling.com/blog/2023/everything-ive-learned-building-fastest-arm-desktop"
-    ]
-  ],
-  [
-    [
       "2023-10-27, 20:26:59",
       "https://lobste.rs/s/rcivpb/introducing_shadow_new_novel_browser"
     ],
@@ -237,16 +247,6 @@
     [
       "Removing syscall(2) from libc and kernel",
       "https://marc.info/?l=openbsd-tech&m=169841790407370&w=2"
-    ]
-  ],
-  [
-    [
-      "2023-10-27, 06:45:37",
-      "https://lobste.rs/s/pjdlaf/raku_is_surprisingly_good_for_clis"
-    ],
-    [
-      "Raku is surprisingly good for CLIs",
-      "https://buttondown.email/hillelwayne/archive/raku-is-surprisingly-good-for-clis/"
     ]
   ]
 ]
