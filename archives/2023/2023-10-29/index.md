@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-29](index.md)
 
+* [2023-10-29, 22:57:39](https://lobste.rs/s/kukpf1/is_cammy_consistent) - [Is Cammy consistent?](https://esolangs.org/wiki/Cammy/Consistency)
 * [2023-10-29, 22:16:11](https://lobste.rs/s/r2jawd/avoid_load_bearing_shell_scripts) - [Avoid Load-bearing Shell Scripts](https://benjamincongdon.me/blog/2023/10/29/Avoid-Load-bearing-Shell-Scripts/)
 * [2023-10-29, 22:11:01](https://lobste.rs/s/d9inn1/all_gb_s_without_flops_nvidia_cmp_170hx) - [All GB/s without FLOPS - Nvidia CMP 170HX Review, Performance Lockdown Workaround, Teardown, Watercooling, and Repair](https://niconiconi.neocities.org/tech-notes/nvidia-cmp-170hx-review/)
 * [2023-10-29, 21:36:28](https://lobste.rs/s/dvsyjw/linux_6_7_reworks_pe_header_generation) - [Linux 6.7 Reworks PE Header Generation To Reduce Attack Area](https://www.phoronix.com/news/Linux-6.7-x86-boot)

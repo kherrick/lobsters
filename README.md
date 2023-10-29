@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-29, 22:57:39](https://lobste.rs/s/kukpf1/is_cammy_consistent) - [Is Cammy consistent?](https://esolangs.org/wiki/Cammy/Consistency)
 * [2023-10-29, 22:16:11](https://lobste.rs/s/r2jawd/avoid_load_bearing_shell_scripts) - [Avoid Load-bearing Shell Scripts](https://benjamincongdon.me/blog/2023/10/29/Avoid-Load-bearing-Shell-Scripts/)
 * [2023-10-29, 22:11:01](https://lobste.rs/s/d9inn1/all_gb_s_without_flops_nvidia_cmp_170hx) - [All GB/s without FLOPS - Nvidia CMP 170HX Review, Performance Lockdown Workaround, Teardown, Watercooling, and Repair](https://niconiconi.neocities.org/tech-notes/nvidia-cmp-170hx-review/)
 * [2023-10-29, 21:36:28](https://lobste.rs/s/dvsyjw/linux_6_7_reworks_pe_header_generation) - [Linux 6.7 Reworks PE Header Generation To Reduce Attack Area](https://www.phoronix.com/news/Linux-6.7-x86-boot)
@@ -18,7 +19,6 @@
 * [2023-10-28, 15:19:54](https://lobste.rs/s/yznju7/web_components_will_outlive_your) - [Web Components Will Outlive Your JavaScript Framework](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/)
 * [2023-10-28, 13:20:42](https://lobste.rs/s/bykt8i/exploiting_dns_response_parsing_on_wii_u) - [Exploiting DNS response parsing on the Wii U](https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html)
 * [2023-10-28, 09:41:39](https://lobste.rs/s/4geqrw/freebsd_foundation_2023_q3_status_update) - [FreeBSD Foundation 2023 Q3 Status Update](https://freebsdfoundation.org/blog/freebsd-foundation-q3-2023-status-update/)
-* [2023-10-28, 07:53:34](https://lobste.rs/s/a8im6c/modular_using_mojo_with_python) - [Modular: Using Mojo with Python](https://www.modular.com/blog/using-mojo-with-python)
 * [2023-10-28, 04:33:12](https://lobste.rs/s/v5dzfj/infinite_half_life_deathmatch_stream) - [Infinite Half-Life: Deathmatch Stream](https://rqsall.com/posts/infinite-half-life-deathmatch-stream)
 * [2023-10-27, 22:15:04](https://lobste.rs/s/f1cxnx/advancing_imessage_security_imessage) - [Advancing iMessage security: iMessage Contact Key Verification](https://security.apple.com/blog/imessage-contact-key-verification/)
 * [2023-10-27, 20:26:59](https://lobste.rs/s/rcivpb/introducing_shadow_new_novel_browser) - [Introducing <shadow>, a new novel browser engine made almost entirely in JS](https://goose.icu/introducing-shadow/)
