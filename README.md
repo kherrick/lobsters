@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-29, 22:16:11](https://lobste.rs/s/r2jawd/avoid_load_bearing_shell_scripts) - [Avoid Load-bearing Shell Scripts](https://benjamincongdon.me/blog/2023/10/29/Avoid-Load-bearing-Shell-Scripts/)
+* [2023-10-29, 22:11:01](https://lobste.rs/s/d9inn1/all_gb_s_without_flops_nvidia_cmp_170hx) - [All GB/s without FLOPS - Nvidia CMP 170HX Review, Performance Lockdown Workaround, Teardown, Watercooling, and Repair](https://niconiconi.neocities.org/tech-notes/nvidia-cmp-170hx-review/)
 * [2023-10-29, 21:36:28](https://lobste.rs/s/dvsyjw/linux_6_7_reworks_pe_header_generation) - [Linux 6.7 Reworks PE Header Generation To Reduce Attack Area](https://www.phoronix.com/news/Linux-6.7-x86-boot)
 * [2023-10-29, 20:53:07](https://lobste.rs/s/xd9tq1/stateless_authentication_persistence) - [Stateless Authentication Persistence: Unpacking the Power of JWTs](https://medium.com/@atakanserbes/stateless-authentication-persistence-unpacking-the-power-of-jwts-e274f5e058b9?source=friends_link)
 * [2023-10-29, 19:59:14](https://lobste.rs/s/pnxdok/transform_matrices_are_great_you_should) - [Transform Matrices are Great and You Should Understand Them](https://probablydance.com/2023/10/29/transform-matrices-are-great-and-you-should-understand-them/)
@@ -19,12 +21,10 @@
 * [2023-10-28, 07:53:34](https://lobste.rs/s/a8im6c/modular_using_mojo_with_python) - [Modular: Using Mojo with Python](https://www.modular.com/blog/using-mojo-with-python)
 * [2023-10-28, 04:33:12](https://lobste.rs/s/v5dzfj/infinite_half_life_deathmatch_stream) - [Infinite Half-Life: Deathmatch Stream](https://rqsall.com/posts/infinite-half-life-deathmatch-stream)
 * [2023-10-27, 22:15:04](https://lobste.rs/s/f1cxnx/advancing_imessage_security_imessage) - [Advancing iMessage security: iMessage Contact Key Verification](https://security.apple.com/blog/imessage-contact-key-verification/)
-* [2023-10-27, 20:48:37](https://lobste.rs/s/tr8iak/everything_i_ve_learned_building_fastest) - [Everything I've learned building the fastest Arm desktop](https://www.jeffgeerling.com/blog/2023/everything-ive-learned-building-fastest-arm-desktop)
 * [2023-10-27, 20:26:59](https://lobste.rs/s/rcivpb/introducing_shadow_new_novel_browser) - [Introducing <shadow>, a new novel browser engine made almost entirely in JS](https://goose.icu/introducing-shadow/)
 * [2023-10-27, 19:58:53](https://lobste.rs/s/8nplmv/new_accessibility_architecture_for) - [A new accessibility architecture for modern free desktops](https://blogs.gnome.org/a11y/2023/10/27/a-new-accessibility-architecture-for-modern-free-desktops/)
 * [2023-10-27, 17:18:14](https://lobste.rs/s/tdsude/so_you_ve_been_publicly_accessibility) - [So you’ve been publicly accessibility-shamed](https://daverupert.com/2023/10/accessiblity-shamed/)
 * [2023-10-27, 16:09:31](https://lobste.rs/s/34emv6/removing_syscall_2_from_libc_kernel) - [Removing syscall(2) from libc and kernel](https://marc.info/?l=openbsd-tech&m=169841790407370&w=2)
-* [2023-10-27, 06:45:37](https://lobste.rs/s/pjdlaf/raku_is_surprisingly_good_for_clis) - [Raku is surprisingly good for CLIs](https://buttondown.email/hillelwayne/archive/raku-is-surprisingly-good-for-clis/)
 
 ## [Archives](archives/index.md)
 
