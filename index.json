@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-29, 20:53:07",
+      "https://lobste.rs/s/xd9tq1/stateless_authentication_persistence"
+    ],
+    [
+      "Stateless Authentication Persistence: Unpacking the Power of JWTs",
+      "https://medium.com/@atakanserbes/stateless-authentication-persistence-unpacking-the-power-of-jwts-e274f5e058b9?source=friends_link"
+    ]
+  ],
+  [
+    [
       "2023-10-29, 19:59:14",
       "https://lobste.rs/s/pnxdok/transform_matrices_are_great_you_should"
     ],
@@ -227,16 +237,6 @@
     [
       "Removing syscall(2) from libc and kernel",
       "https://marc.info/?l=openbsd-tech&m=169841790407370&w=2"
-    ]
-  ],
-  [
-    [
-      "2023-10-27, 08:37:55",
-      "https://lobste.rs/s/a3ohwp/get_all_your_sources"
-    ],
-    [
-      "Get all your sources",
-      "https://linus.schreibt.jetzt/posts/include-build-dependencies.html"
     ]
   ],
   [
