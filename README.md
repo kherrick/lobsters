@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-29, 19:59:14](https://lobste.rs/s/pnxdok/transform_matrices_are_great_you_should) - [Transform Matrices are Great and You Should Understand Them](https://probablydance.com/2023/10/29/transform-matrices-are-great-and-you-should-understand-them/)
 * [2023-10-29, 18:52:10](https://lobste.rs/s/jfmlrc/analyzing_data_170_000x_faster_with) - [Analyzing Data 170,000x Faster with Python](https://sidsite.com/posts/python-corrset-optimization/)
 * [2023-10-29, 18:21:14](https://lobste.rs/s/i7phtl/quicktake_100_for_apple_ii) - [Quicktake 100 for Apple II](https://www.colino.net/wordpress/en/quicktake-100-for-apple-ii/)
 * [2023-10-29, 17:23:15](https://lobste.rs/s/omsdu3/cppinecone_c_client_library_for_pinecone) - [cppinecone: A C++ client library for the PInecone vector database](https://github.com/jkaye2012/cppinecone)
@@ -20,7 +21,6 @@
 * [2023-10-27, 20:48:37](https://lobste.rs/s/tr8iak/everything_i_ve_learned_building_fastest) - [Everything I've learned building the fastest Arm desktop](https://www.jeffgeerling.com/blog/2023/everything-ive-learned-building-fastest-arm-desktop)
 * [2023-10-27, 20:26:59](https://lobste.rs/s/rcivpb/introducing_shadow_new_novel_browser) - [Introducing <shadow>, a new novel browser engine made almost entirely in JS](https://goose.icu/introducing-shadow/)
 * [2023-10-27, 19:58:53](https://lobste.rs/s/8nplmv/new_accessibility_architecture_for) - [A new accessibility architecture for modern free desktops](https://blogs.gnome.org/a11y/2023/10/27/a-new-accessibility-architecture-for-modern-free-desktops/)
-* [2023-10-27, 19:26:31](https://lobste.rs/s/big57f/dj_notebook_repl_i_ve_always_wanted_for) - [dj-notebook: the REPL I've Always Wanted for Django](https://geoff.tuxpup.com/posts/dj-notebook-superpowers/)
 * [2023-10-27, 17:18:14](https://lobste.rs/s/tdsude/so_you_ve_been_publicly_accessibility) - [So you’ve been publicly accessibility-shamed](https://daverupert.com/2023/10/accessiblity-shamed/)
 * [2023-10-27, 16:09:31](https://lobste.rs/s/34emv6/removing_syscall_2_from_libc_kernel) - [Removing syscall(2) from libc and kernel](https://marc.info/?l=openbsd-tech&m=169841790407370&w=2)
 * [2023-10-27, 08:37:55](https://lobste.rs/s/a3ohwp/get_all_your_sources) - [Get all your sources](https://linus.schreibt.jetzt/posts/include-build-dependencies.html)

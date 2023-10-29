@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-29](index.md)
 
+* [2023-10-29, 19:59:14](https://lobste.rs/s/pnxdok/transform_matrices_are_great_you_should) - [Transform Matrices are Great and You Should Understand Them](https://probablydance.com/2023/10/29/transform-matrices-are-great-and-you-should-understand-them/)
 * [2023-10-29, 18:52:10](https://lobste.rs/s/jfmlrc/analyzing_data_170_000x_faster_with) - [Analyzing Data 170,000x Faster with Python](https://sidsite.com/posts/python-corrset-optimization/)
 * [2023-10-29, 18:21:14](https://lobste.rs/s/i7phtl/quicktake_100_for_apple_ii) - [Quicktake 100 for Apple II](https://www.colino.net/wordpress/en/quicktake-100-for-apple-ii/)
 * [2023-10-29, 17:23:15](https://lobste.rs/s/omsdu3/cppinecone_c_client_library_for_pinecone) - [cppinecone: A C++ client library for the PInecone vector database](https://github.com/jkaye2012/cppinecone)
