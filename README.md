@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-30, 15:34:48](https://lobste.rs/s/iiqvmy/replacing_webrtc_media_over_quic) - [Replacing WebRTC - Media over QUIC](https://quic.video/blog/replacing-webrtc/)
 * [2023-10-30, 15:14:21](https://lobste.rs/s/fc9mat/bjarne_stroustrup_s_plan_for_bringing) - [Bjarne Stroustrup's Plan for Bringing Safety to C++](https://thenewstack.io/bjarne-stroustrups-plan-for-bringing-safety-to-c/)
 * [2023-10-30, 15:01:50](https://lobste.rs/s/q4ocea/resolving_year_long_clickhouse_lock) - [Resolving a year-long ClickHouse lock contention](https://www.tinybird.co/blog-posts/clickhouse-lock-contention)
 * [2023-10-30, 14:33:13](https://lobste.rs/s/g8xt4y/featurize_your_app) - [Featurize your app](https://enginuity.dev/posts/featurize-your-app/)
@@ -23,7 +24,6 @@
 * [2023-10-29, 12:16:16](https://lobste.rs/s/dvszpg/calculus_made_easy_by_silvanus_p_thompson) - [Calculus Made Easy by Silvanus P. Thompson (1910)](https://calculusmadeeasy.org)
 * [2023-10-29, 08:44:22](https://lobste.rs/s/rldx6z/making_usb_ethernet_adapter_work) - [Making an USB Ethernet adapter work](https://blog.brixit.nl/making-a-usb-ethernet-adapter-work-sr9700/)
 * [2023-10-29, 06:45:59](https://lobste.rs/s/jucfw9/linear_algebra_done_right_open_access_4th) - [Linear Algebra Done Right, Open Access, 4th ed](https://link.springer.com/book/10.1007/978-3-031-41026-0)
-* [2023-10-28, 17:05:21](https://lobste.rs/s/elloe4/fixing_volume_on_my_bluetooth_earbuds) - [Fixing the Volume on my Bluetooth Earbuds](https://blog.ornx.net/post/bluetooth-volume-fix/)
 * [2023-10-28, 15:19:54](https://lobste.rs/s/yznju7/web_components_will_outlive_your) - [Web Components Will Outlive Your JavaScript Framework](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/)
 
 ## [Archives](archives/index.md)

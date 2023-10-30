@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
+* [2023-10-30, 15:34:48](https://lobste.rs/s/iiqvmy/replacing_webrtc_media_over_quic) - [Replacing WebRTC - Media over QUIC](https://quic.video/blog/replacing-webrtc/)
 * [2023-10-30, 15:14:21](https://lobste.rs/s/fc9mat/bjarne_stroustrup_s_plan_for_bringing) - [Bjarne Stroustrup's Plan for Bringing Safety to C++](https://thenewstack.io/bjarne-stroustrups-plan-for-bringing-safety-to-c/)
 * [2023-10-30, 15:01:50](https://lobste.rs/s/q4ocea/resolving_year_long_clickhouse_lock) - [Resolving a year-long ClickHouse lock contention](https://www.tinybird.co/blog-posts/clickhouse-lock-contention)
 * [2023-10-30, 14:33:13](https://lobste.rs/s/g8xt4y/featurize_your_app) - [Featurize your app](https://enginuity.dev/posts/featurize-your-app/)
