@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-30, 18:08:47",
+      "https://lobste.rs/s/retfuv/databases_are_not_compilers"
+    ],
+    [
+      "Databases are not Compilers",
+      "https://buttondown.email/jaffray/archive/databases-are-not-compilers/"
+    ]
+  ],
+  [
+    [
+      "2023-10-30, 18:07:55",
+      "https://lobste.rs/s/7tlhdy/grading_on_curve_how_rust_can_facilitate"
+    ],
+    [
+      "Grading on a Curve: How Rust can Facilitate New Contributors while Decreasing Vulnerabilities",
+      "https://cypherpunks.ca/~iang/pubs/gradingcurve-secdev23.pdf"
+    ]
+  ],
+  [
+    [
       "2023-10-30, 17:56:56",
       "https://lobste.rs/s/25qdja/wireplumber_exploring_lua_scripts_with"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-10-30, 03:32:00",
-      "https://lobste.rs/s/huyvyf/introduction_hardware_restrictions_can"
-    ],
-    [
-      "Introduction to Hardware Restrictions: Can You Trust Your Phone?",
-      "https://trustinghardware.com/jekyll/update/2023/10/21/hardwaresrelationshiptocensorship.html"
-    ]
-  ],
-  [
-    [
       "2023-10-29, 23:15:47",
       "https://lobste.rs/s/2rbbyj/nixos_reproducible_builds_minimal"
     ],
@@ -197,16 +207,6 @@
     [
       "Stateless Authentication Persistence: Unpacking the Power of JWTs",
       "https://medium.com/@atakanserbes/stateless-authentication-persistence-unpacking-the-power-of-jwts-e274f5e058b9?source=friends_link"
-    ]
-  ],
-  [
-    [
-      "2023-10-29, 19:59:14",
-      "https://lobste.rs/s/pnxdok/transform_matrices_are_great_you_should"
-    ],
-    [
-      "Transform Matrices are Great and You Should Understand Them",
-      "https://probablydance.com/2023/10/29/transform-matrices-are-great-and-you-should-understand-them/"
     ]
   ],
   [
