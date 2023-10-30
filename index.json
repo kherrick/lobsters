@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-30, 17:00:02",
+      "https://lobste.rs/s/o5yi2w/i_accidentally_saved_half_million"
+    ],
+    [
+      "I accidentally saved half a million dollars",
+      "https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/"
+    ]
+  ],
+  [
+    [
       "2023-10-30, 15:43:19",
       "https://lobste.rs/s/iccwdr/elixir_phoenix_can_do_it_all"
     ],
@@ -237,16 +247,6 @@
     [
       "Linear Algebra Done Right, Open Access, 4th ed",
       "https://link.springer.com/book/10.1007/978-3-031-41026-0"
-    ]
-  ],
-  [
-    [
-      "2023-10-28, 15:19:54",
-      "https://lobste.rs/s/yznju7/web_components_will_outlive_your"
-    ],
-    [
-      "Web Components Will Outlive Your JavaScript Framework",
-      "https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/"
     ]
   ]
 ]
