@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
+* [2023-10-30, 17:34:10](https://lobste.rs/s/opw8ip/makepad_designing_modern_uis_with_rust) - [Makepad: Designing modern UIs with Rust - Rik Arends - RustNL 2023](https://youtu.be/rC4FCS-oMpg?si=QssNIop1sqZhTqLs)
 * [2023-10-30, 17:00:02](https://lobste.rs/s/o5yi2w/i_accidentally_saved_half_million) - [I accidentally saved half a million dollars](https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/)
 * [2023-10-30, 15:43:19](https://lobste.rs/s/iccwdr/elixir_phoenix_can_do_it_all) - [Elixir and Phoenix can do it all](https://fly.io/phoenix-files/elixir-and-phoenix-can-do-it-all/)
 * [2023-10-30, 15:34:48](https://lobste.rs/s/iiqvmy/replacing_webrtc_media_over_quic) - [Replacing WebRTC - Media over QUIC](https://quic.video/blog/replacing-webrtc/)
