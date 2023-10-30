@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-30, 14:33:13](https://lobste.rs/s/g8xt4y/featurize_your_app) - [Featurize your app](https://enginuity.dev/posts/featurize-your-app/)
 * [2023-10-30, 14:32:43](https://lobste.rs/s/o6hbdm/personal_history_compilation_speed_part) - [A Personal History of Compilation Speed, Part 2](https://prog21.dadgum.com/47.html)
 * [2023-10-30, 13:50:19](https://lobste.rs/s/yu8tzj/my_user_experience_porting_off_setup_py) - [My User Experience Porting Off setup.py](https://gregoryszorc.com/blog/2023/10/30/my-user-experience-porting-off-setup.py/)
 * [2023-10-30, 12:08:45](https://lobste.rs/s/5kjiw9/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/5kjiw9/what_are_you_doing_this_week)
@@ -22,7 +23,6 @@
 * [2023-10-29, 06:45:59](https://lobste.rs/s/jucfw9/linear_algebra_done_right_open_access_4th) - [Linear Algebra Done Right, Open Access, 4th ed](https://link.springer.com/book/10.1007/978-3-031-41026-0)
 * [2023-10-29, 02:03:18](https://lobste.rs/s/v9jhwe/what_kim_1_really_needs_is_lcd_screen) - [What the KIM-1 really needs is an LCD screen](https://oldvcr.blogspot.com/2023/10/what-kim-1-really-needs-is-lcd-screen.html)
 * [2023-10-28, 17:05:21](https://lobste.rs/s/elloe4/fixing_volume_on_my_bluetooth_earbuds) - [Fixing the Volume on my Bluetooth Earbuds](https://blog.ornx.net/post/bluetooth-volume-fix/)
-* [2023-10-28, 15:45:31](https://lobste.rs/s/s40uja/freebsd_jails_vs_docker_comparison) - [FreeBSD Jails vs. Docker Comparison](https://justanerds.site/freebsd-jails-vs-docker/)
 * [2023-10-28, 15:19:54](https://lobste.rs/s/yznju7/web_components_will_outlive_your) - [Web Components Will Outlive Your JavaScript Framework](https://jakelazaroff.com/words/web-components-will-outlive-your-javascript-framework/)
 * [2023-10-28, 13:20:42](https://lobste.rs/s/bykt8i/exploiting_dns_response_parsing_on_wii_u) - [Exploiting DNS response parsing on the Wii U](https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html)
 
