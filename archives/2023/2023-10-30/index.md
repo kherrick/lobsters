@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
+* [2023-10-30, 15:14:21](https://lobste.rs/s/fc9mat/bjarne_stroustrup_s_plan_for_bringing) - [Bjarne Stroustrup's Plan for Bringing Safety to C++](https://thenewstack.io/bjarne-stroustrups-plan-for-bringing-safety-to-c/)
+* [2023-10-30, 15:01:50](https://lobste.rs/s/q4ocea/resolving_year_long_clickhouse_lock) - [Resolving a year-long ClickHouse lock contention](https://www.tinybird.co/blog-posts/clickhouse-lock-contention)
 * [2023-10-30, 14:33:13](https://lobste.rs/s/g8xt4y/featurize_your_app) - [Featurize your app](https://enginuity.dev/posts/featurize-your-app/)
 * [2023-10-30, 14:32:43](https://lobste.rs/s/o6hbdm/personal_history_compilation_speed_part) - [A Personal History of Compilation Speed, Part 2](https://prog21.dadgum.com/47.html)
 * [2023-10-30, 13:50:19](https://lobste.rs/s/yu8tzj/my_user_experience_porting_off_setup_py) - [My User Experience Porting Off setup.py](https://gregoryszorc.com/blog/2023/10/30/my-user-experience-porting-off-setup.py/)
