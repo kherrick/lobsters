@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-30, 18:25:52](https://lobste.rs/s/bqlspd/swift_meet_winrt) - [Swift, meet WinRT](https://speakinginswift.substack.com/p/swift-meet-winrt)
 * [2023-10-30, 18:08:47](https://lobste.rs/s/retfuv/databases_are_not_compilers) - [Databases are not Compilers](https://buttondown.email/jaffray/archive/databases-are-not-compilers/)
 * [2023-10-30, 18:07:55](https://lobste.rs/s/7tlhdy/grading_on_curve_how_rust_can_facilitate) - [Grading on a Curve: How Rust can Facilitate New Contributors while Decreasing Vulnerabilities](https://cypherpunks.ca/~iang/pubs/gradingcurve-secdev23.pdf)
 * [2023-10-30, 17:56:56](https://lobste.rs/s/25qdja/wireplumber_exploring_lua_scripts_with) - [WirePlumber: Exploring Lua scripts with Event Dispatcher](https://www.collabora.com/news-and-blog/blog/2023/10/30/wireplumber-exploring-lua-scripts-with-event-dispatcher/)
@@ -16,7 +17,6 @@
 * [2023-10-30, 09:34:37](https://lobste.rs/s/earwy3/cheriot_complete_memory_safety_for) - [CHERIoT: Complete Memory Safety for Embedded Devices](https://cheriot.org/papers/2023-micro-cheriot-uarch.pdf)
 * [2023-10-30, 09:28:49](https://lobste.rs/s/pqbsi9/elixir_drops_simplifying_data) - [Elixir Drops: Simplifying Data Validation in Elixir](https://solnic.dev/introducing-elixir-drops)
 * [2023-10-29, 23:15:47](https://lobste.rs/s/2rbbyj/nixos_reproducible_builds_minimal) - [NixOS Reproducible Builds: minimal installation ISO successfully independently rebuilt](https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756)
-* [2023-10-29, 22:57:39](https://lobste.rs/s/kukpf1/is_cammy_consistent) - [Is Cammy consistent?](https://esolangs.org/wiki/Cammy/Consistency)
 * [2023-10-29, 22:16:11](https://lobste.rs/s/r2jawd/avoid_load_bearing_shell_scripts) - [Avoid Load-bearing Shell Scripts](https://benjamincongdon.me/blog/2023/10/29/Avoid-Load-bearing-Shell-Scripts/)
 * [2023-10-29, 22:11:01](https://lobste.rs/s/d9inn1/all_gb_s_without_flops_nvidia_cmp_170hx) - [All GB/s without FLOPS - Nvidia CMP 170HX Review, Performance Lockdown Workaround, Teardown, Watercooling, and Repair](https://niconiconi.neocities.org/tech-notes/nvidia-cmp-170hx-review/)
 * [2023-10-29, 21:36:28](https://lobste.rs/s/dvsyjw/linux_6_7_reworks_pe_header_generation) - [Linux 6.7 Reworks PE Header Generation To Reduce Attack Area](https://www.phoronix.com/news/Linux-6.7-x86-boot)
