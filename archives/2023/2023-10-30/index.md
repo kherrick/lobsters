@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
+* [2023-10-30, 18:08:47](https://lobste.rs/s/retfuv/databases_are_not_compilers) - [Databases are not Compilers](https://buttondown.email/jaffray/archive/databases-are-not-compilers/)
+* [2023-10-30, 18:07:55](https://lobste.rs/s/7tlhdy/grading_on_curve_how_rust_can_facilitate) - [Grading on a Curve: How Rust can Facilitate New Contributors while Decreasing Vulnerabilities](https://cypherpunks.ca/~iang/pubs/gradingcurve-secdev23.pdf)
 * [2023-10-30, 17:56:56](https://lobste.rs/s/25qdja/wireplumber_exploring_lua_scripts_with) - [WirePlumber: Exploring Lua scripts with Event Dispatcher](https://www.collabora.com/news-and-blog/blog/2023/10/30/wireplumber-exploring-lua-scripts-with-event-dispatcher/)
 * [2023-10-30, 17:34:10](https://lobste.rs/s/opw8ip/makepad_designing_modern_uis_with_rust) - [Makepad: Designing modern UIs with Rust - Rik Arends - RustNL 2023](https://youtu.be/rC4FCS-oMpg?si=QssNIop1sqZhTqLs)
 * [2023-10-30, 17:00:02](https://lobste.rs/s/o5yi2w/i_accidentally_saved_half_million) - [I accidentally saved half a million dollars](https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/)
