@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
+* [2023-10-30, 17:00:02](https://lobste.rs/s/o5yi2w/i_accidentally_saved_half_million) - [I accidentally saved half a million dollars](https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/)
 * [2023-10-30, 15:43:19](https://lobste.rs/s/iccwdr/elixir_phoenix_can_do_it_all) - [Elixir and Phoenix can do it all](https://fly.io/phoenix-files/elixir-and-phoenix-can-do-it-all/)
 * [2023-10-30, 15:34:48](https://lobste.rs/s/iiqvmy/replacing_webrtc_media_over_quic) - [Replacing WebRTC - Media over QUIC](https://quic.video/blog/replacing-webrtc/)
 * [2023-10-30, 15:14:21](https://lobste.rs/s/fc9mat/bjarne_stroustrup_s_plan_for_bringing) - [Bjarne Stroustrup's Plan for Bringing Safety to C++](https://thenewstack.io/bjarne-stroustrups-plan-for-bringing-safety-to-c/)
