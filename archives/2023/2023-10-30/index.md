@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
+* [2023-10-30, 19:20:32](https://lobste.rs/s/fatkxl/apple_event_for_october_30th_2023) - [Apple Event for October 30th, 2023](https://www.apple.com/apple-events/)
 * [2023-10-30, 19:10:34](https://lobste.rs/s/uersyg/most_ugly_trick_rust_language) - [The most ugly trick in Rust language](https://types.pl/@safinaskar/111325536022277867)
 * [2023-10-30, 18:25:52](https://lobste.rs/s/bqlspd/swift_meet_winrt) - [Swift, meet WinRT](https://speakinginswift.substack.com/p/swift-meet-winrt)
 * [2023-10-30, 18:08:47](https://lobste.rs/s/retfuv/databases_are_not_compilers) - [Databases are not Compilers](https://buttondown.email/jaffray/archive/databases-are-not-compilers/)
