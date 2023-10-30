@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-30, 19:10:34](https://lobste.rs/s/uersyg/most_ugly_trick_rust_language) - [The most ugly trick in Rust language](https://types.pl/@safinaskar/111325536022277867)
 * [2023-10-30, 18:25:52](https://lobste.rs/s/bqlspd/swift_meet_winrt) - [Swift, meet WinRT](https://speakinginswift.substack.com/p/swift-meet-winrt)
 * [2023-10-30, 18:08:47](https://lobste.rs/s/retfuv/databases_are_not_compilers) - [Databases are not Compilers](https://buttondown.email/jaffray/archive/databases-are-not-compilers/)
 * [2023-10-30, 18:07:55](https://lobste.rs/s/7tlhdy/grading_on_curve_how_rust_can_facilitate) - [Grading on a Curve: How Rust can Facilitate New Contributors while Decreasing Vulnerabilities](https://cypherpunks.ca/~iang/pubs/gradingcurve-secdev23.pdf)
@@ -19,7 +20,6 @@
 * [2023-10-29, 23:15:47](https://lobste.rs/s/2rbbyj/nixos_reproducible_builds_minimal) - [NixOS Reproducible Builds: minimal installation ISO successfully independently rebuilt](https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756)
 * [2023-10-29, 22:16:11](https://lobste.rs/s/r2jawd/avoid_load_bearing_shell_scripts) - [Avoid Load-bearing Shell Scripts](https://benjamincongdon.me/blog/2023/10/29/Avoid-Load-bearing-Shell-Scripts/)
 * [2023-10-29, 22:11:01](https://lobste.rs/s/d9inn1/all_gb_s_without_flops_nvidia_cmp_170hx) - [All GB/s without FLOPS - Nvidia CMP 170HX Review, Performance Lockdown Workaround, Teardown, Watercooling, and Repair](https://niconiconi.neocities.org/tech-notes/nvidia-cmp-170hx-review/)
-* [2023-10-29, 21:36:28](https://lobste.rs/s/dvsyjw/linux_6_7_reworks_pe_header_generation) - [Linux 6.7 Reworks PE Header Generation To Reduce Attack Area](https://www.phoronix.com/news/Linux-6.7-x86-boot)
 * [2023-10-29, 20:53:07](https://lobste.rs/s/xd9tq1/stateless_authentication_persistence) - [Stateless Authentication Persistence: Unpacking the Power of JWTs](https://medium.com/@atakanserbes/stateless-authentication-persistence-unpacking-the-power-of-jwts-e274f5e058b9?source=friends_link)
 * [2023-10-29, 18:52:10](https://lobste.rs/s/jfmlrc/analyzing_data_170_000x_faster_with) - [Analyzing Data 170,000x Faster with Python](https://sidsite.com/posts/python-corrset-optimization/)
 * [2023-10-29, 16:17:25](https://lobste.rs/s/yf0qs8/what_is_reason_for_b_prefixes_git_diff) - [What is the reason for the /a /b prefixes of git diff?](https://stackoverflow.com/questions/6764953/what-is-the-reason-for-the-a-b-prefixes-of-git-diff)
