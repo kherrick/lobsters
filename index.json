@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-30, 18:25:52",
+      "https://lobste.rs/s/bqlspd/swift_meet_winrt"
+    ],
+    [
+      "Swift, meet WinRT",
+      "https://speakinginswift.substack.com/p/swift-meet-winrt"
+    ]
+  ],
+  [
+    [
       "2023-10-30, 18:08:47",
       "https://lobste.rs/s/retfuv/databases_are_not_compilers"
     ],
@@ -157,16 +167,6 @@
     [
       "NixOS Reproducible Builds: minimal installation ISO successfully independently rebuilt",
       "https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756"
-    ]
-  ],
-  [
-    [
-      "2023-10-29, 22:57:39",
-      "https://lobste.rs/s/kukpf1/is_cammy_consistent"
-    ],
-    [
-      "Is Cammy consistent?",
-      "https://esolangs.org/wiki/Cammy/Consistency"
     ]
   ],
   [
