@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-30](index.md)
 
+* [2023-10-30, 22:34:16](https://lobste.rs/s/jd4ivm/through_ages_apple_cpu_architecture) - [Through the Ages: Apple CPU Architecture](https://jacobbartlett.substack.com/p/through-the-ages-apple-cpu-architecture)
 * [2023-10-30, 20:39:46](https://lobste.rs/s/i1hzwp/approximate_nearest_neighbor_oh_yeah) - [Approximate Nearest Neighbor Oh Yeah (Annoy)](https://zilliz.com/learn/approximate-nearest-neighbor-oh-yeah-ANNOY)
 * [2023-10-30, 20:18:30](https://lobste.rs/s/ubero5/how_beg_borrow_steal_your_way_cross) - [How to Beg/Borrow/Steal Your Way to a Cross Platform Bluetooth LE Library](https://nonpolynomial.com/2023/10/30/how-to-beg-borrow-steal-your-way-to-a-cross-platform-bluetooth-le-library/)
 * [2023-10-30, 19:20:32](https://lobste.rs/s/fatkxl/apple_event_for_october_30th_2023) - [Apple Event for October 30th, 2023](https://www.apple.com/apple-events/)
