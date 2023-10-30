@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-30, 17:56:56](https://lobste.rs/s/25qdja/wireplumber_exploring_lua_scripts_with) - [WirePlumber: Exploring Lua scripts with Event Dispatcher](https://www.collabora.com/news-and-blog/blog/2023/10/30/wireplumber-exploring-lua-scripts-with-event-dispatcher/)
 * [2023-10-30, 17:34:10](https://lobste.rs/s/opw8ip/makepad_designing_modern_uis_with_rust) - [Makepad: Designing modern UIs with Rust - Rik Arends - RustNL 2023](https://youtu.be/rC4FCS-oMpg?si=QssNIop1sqZhTqLs)
 * [2023-10-30, 17:00:02](https://lobste.rs/s/o5yi2w/i_accidentally_saved_half_million) - [I accidentally saved half a million dollars](https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/)
 * [2023-10-30, 15:43:19](https://lobste.rs/s/iccwdr/elixir_phoenix_can_do_it_all) - [Elixir and Phoenix can do it all](https://fly.io/phoenix-files/elixir-and-phoenix-can-do-it-all/)
@@ -21,7 +22,6 @@
 * [2023-10-29, 20:53:07](https://lobste.rs/s/xd9tq1/stateless_authentication_persistence) - [Stateless Authentication Persistence: Unpacking the Power of JWTs](https://medium.com/@atakanserbes/stateless-authentication-persistence-unpacking-the-power-of-jwts-e274f5e058b9?source=friends_link)
 * [2023-10-29, 19:59:14](https://lobste.rs/s/pnxdok/transform_matrices_are_great_you_should) - [Transform Matrices are Great and You Should Understand Them](https://probablydance.com/2023/10/29/transform-matrices-are-great-and-you-should-understand-them/)
 * [2023-10-29, 18:52:10](https://lobste.rs/s/jfmlrc/analyzing_data_170_000x_faster_with) - [Analyzing Data 170,000x Faster with Python](https://sidsite.com/posts/python-corrset-optimization/)
-* [2023-10-29, 18:21:14](https://lobste.rs/s/i7phtl/quicktake_100_for_apple_ii) - [Quicktake 100 for Apple II](https://www.colino.net/wordpress/en/quicktake-100-for-apple-ii/)
 * [2023-10-29, 16:17:25](https://lobste.rs/s/yf0qs8/what_is_reason_for_b_prefixes_git_diff) - [What is the reason for the /a /b prefixes of git diff?](https://stackoverflow.com/questions/6764953/what-is-the-reason-for-the-a-b-prefixes-of-git-diff)
 * [2023-10-29, 12:16:16](https://lobste.rs/s/dvszpg/calculus_made_easy_by_silvanus_p_thompson) - [Calculus Made Easy by Silvanus P. Thompson (1910)](https://calculusmadeeasy.org)
 * [2023-10-29, 08:44:22](https://lobste.rs/s/rldx6z/making_usb_ethernet_adapter_work) - [Making an USB Ethernet adapter work](https://blog.brixit.nl/making-a-usb-ethernet-adapter-work-sr9700/)
