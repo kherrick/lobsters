@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-31](index.md)
 
+* [2023-10-31, 17:13:22](https://lobste.rs/s/nkstky/youtube_s_anti_adblock_ublock_origin) - [Youtube’s Anti-adblock and uBlock Origin - And a Dinosaur](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin)
 * [2023-10-31, 16:44:06](https://lobste.rs/s/qg1sgi/progress_report_on_rustc_codegen) - [Progress report on rustc_codegen_cranelift (Oct 2023)](https://bjorn3.github.io/2023/10/31/progress-report-oct-2023.html)
 * [2023-10-31, 16:43:15](https://lobste.rs/s/uzijal/color_gradients_my_gradual_descent_into) - [Color gradients and my gradual descent into madness](https://typst.app/blog/2023/color-gradients)
 * [2023-10-31, 16:03:40](https://lobste.rs/s/ximx6t/real_time_change_data_capture_for) - [Real-time Change Data Capture for Postgres Partitioned Tables](https://blog.peerdb.io/real-time-change-data-capture-for-postgres-partitioned-tables)

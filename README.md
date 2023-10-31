@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-31, 17:13:22](https://lobste.rs/s/nkstky/youtube_s_anti_adblock_ublock_origin) - [Youtube’s Anti-adblock and uBlock Origin - And a Dinosaur](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin)
 * [2023-10-31, 16:44:06](https://lobste.rs/s/qg1sgi/progress_report_on_rustc_codegen) - [Progress report on rustc_codegen_cranelift (Oct 2023)](https://bjorn3.github.io/2023/10/31/progress-report-oct-2023.html)
 * [2023-10-31, 16:43:15](https://lobste.rs/s/uzijal/color_gradients_my_gradual_descent_into) - [Color gradients and my gradual descent into madness](https://typst.app/blog/2023/color-gradients)
 * [2023-10-31, 16:03:40](https://lobste.rs/s/ximx6t/real_time_change_data_capture_for) - [Real-time Change Data Capture for Postgres Partitioned Tables](https://blog.peerdb.io/real-time-change-data-capture-for-postgres-partitioned-tables)
@@ -9,7 +10,6 @@
 * [2023-10-31, 10:27:35](https://lobste.rs/s/drssqp/kiteticker_async_async_client_for_kite) - [kiteticker-async: Async client for the Kite Connect WebSocket API](https://github.com/kaychaks/kiteticker-async)
 * [2023-10-31, 03:43:47](https://lobste.rs/s/eb8gfy/executive_order_on_safe_secure) - [Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
 * [2023-10-30, 22:34:16](https://lobste.rs/s/jd4ivm/through_ages_apple_cpu_architecture) - [Through the Ages: Apple CPU Architecture](https://jacobbartlett.substack.com/p/through-the-ages-apple-cpu-architecture)
-* [2023-10-30, 20:39:46](https://lobste.rs/s/i1hzwp/approximate_nearest_neighbor_oh_yeah) - [Approximate Nearest Neighbor Oh Yeah (Annoy)](https://zilliz.com/learn/approximate-nearest-neighbor-oh-yeah-ANNOY)
 * [2023-10-30, 20:18:30](https://lobste.rs/s/ubero5/how_beg_borrow_steal_your_way_cross) - [How to Beg/Borrow/Steal Your Way to a Cross Platform Bluetooth LE Library](https://nonpolynomial.com/2023/10/30/how-to-beg-borrow-steal-your-way-to-a-cross-platform-bluetooth-le-library/)
 * [2023-10-30, 19:20:32](https://lobste.rs/s/fatkxl/apple_event_for_october_30th_2023) - [Apple Event for October 30th, 2023](https://www.apple.com/apple-events/)
 * [2023-10-30, 19:10:34](https://lobste.rs/s/uersyg/most_ugly_trick_rust_language) - [The most ugly trick in Rust language](https://types.pl/@safinaskar/111325536022277867)
