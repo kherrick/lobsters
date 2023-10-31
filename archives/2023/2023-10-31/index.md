@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-10-31](index.md)
 
+* [2023-10-31, 21:10:31](https://lobste.rs/s/x6fusz/down_right_firefox_got_faster_for_real) - [Down and to the Right: Firefox Got Faster for Real Users in 2023](https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/)
+* [2023-10-31, 21:07:43](https://lobste.rs/s/d7yuru/streamdal_open_source_tail_f_for_your_data) - [Streamdal: An Open-source tail -f for Your Data](https://github.com/streamdal/streamdal)
 * [2023-10-31, 20:33:46](https://lobste.rs/s/w35i2i/sequels_lights) - [Sequels And Lights](https://exple.tive.org/blarg/2023/10/31/sequels-and-lights/)
 * [2023-10-31, 20:32:26](https://lobste.rs/s/ssejw4/why_i_won_t_use_next_js) - [Why I Won't Use Next.js](https://www.epicweb.dev/why-i-wont-use-nextjs)
 * [2023-10-31, 18:29:03](https://lobste.rs/s/5xf09z/haskell_refactoring_step_through) - [Haskell Refactoring Step-Through](https://tech.freckle.com/2023/10/31/haskell-refactoring-step-through/)
