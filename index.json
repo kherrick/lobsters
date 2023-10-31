@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-10-31, 21:10:31",
+      "https://lobste.rs/s/x6fusz/down_right_firefox_got_faster_for_real"
+    ],
+    [
+      "Down and to the Right: Firefox Got Faster for Real Users in 2023",
+      "https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/"
+    ]
+  ],
+  [
+    [
+      "2023-10-31, 21:07:43",
+      "https://lobste.rs/s/d7yuru/streamdal_open_source_tail_f_for_your_data"
+    ],
+    [
+      "Streamdal: An Open-source tail -f for Your Data",
+      "https://github.com/streamdal/streamdal"
+    ]
+  ],
+  [
+    [
       "2023-10-31, 20:33:46",
       "https://lobste.rs/s/w35i2i/sequels_lights"
     ],
@@ -67,16 +87,6 @@
     [
       "Youtube’s Anti-adblock and uBlock Origin",
       "https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin"
-    ]
-  ],
-  [
-    [
-      "2023-10-31, 16:44:06",
-      "https://lobste.rs/s/qg1sgi/progress_report_on_rustc_codegen"
-    ],
-    [
-      "Progress report on rustc_codegen_cranelift (Oct 2023)",
-      "https://bjorn3.github.io/2023/10/31/progress-report-oct-2023.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "My User Experience Porting Off setup.py",
       "https://gregoryszorc.com/blog/2023/10/30/my-user-experience-porting-off-setup.py/"
-    ]
-  ],
-  [
-    [
-      "2023-10-30, 09:34:37",
-      "https://lobste.rs/s/earwy3/cheriot_complete_memory_safety_for"
-    ],
-    [
-      "CHERIoT: Complete Memory Safety for Embedded Devices",
-      "https://cheriot.org/papers/2023-micro-cheriot-uarch.pdf"
     ]
   ]
 ]
