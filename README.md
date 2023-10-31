@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-31, 06:54:38](https://lobste.rs/s/squwpb/research_unix_sixth_edition_wasm) - [Research Unix Sixth Edition (WASM)](https://research.swtch.com/v6/)
 * [2023-10-31, 03:43:47](https://lobste.rs/s/eb8gfy/executive_order_on_safe_secure) - [Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
 * [2023-10-30, 22:34:16](https://lobste.rs/s/jd4ivm/through_ages_apple_cpu_architecture) - [Through the Ages: Apple CPU Architecture](https://jacobbartlett.substack.com/p/through-the-ages-apple-cpu-architecture)
 * [2023-10-30, 20:39:46](https://lobste.rs/s/i1hzwp/approximate_nearest_neighbor_oh_yeah) - [Approximate Nearest Neighbor Oh Yeah (Annoy)](https://zilliz.com/learn/approximate-nearest-neighbor-oh-yeah-ANNOY)
@@ -24,7 +25,6 @@
 * [2023-10-29, 22:16:11](https://lobste.rs/s/r2jawd/avoid_load_bearing_shell_scripts) - [Avoid Load-bearing Shell Scripts](https://benjamincongdon.me/blog/2023/10/29/Avoid-Load-bearing-Shell-Scripts/)
 * [2023-10-29, 22:11:01](https://lobste.rs/s/d9inn1/all_gb_s_without_flops_nvidia_cmp_170hx) - [All GB/s without FLOPS - Nvidia CMP 170HX Review, Performance Lockdown Workaround, Teardown, Watercooling, and Repair](https://niconiconi.neocities.org/tech-notes/nvidia-cmp-170hx-review/)
 * [2023-10-29, 18:52:10](https://lobste.rs/s/jfmlrc/analyzing_data_170_000x_faster_with) - [Analyzing Data 170,000x Faster with Python](https://sidsite.com/posts/python-corrset-optimization/)
-* [2023-10-29, 08:44:22](https://lobste.rs/s/rldx6z/making_usb_ethernet_adapter_work) - [Making an USB Ethernet adapter work](https://blog.brixit.nl/making-a-usb-ethernet-adapter-work-sr9700/)
 
 ## [Archives](archives/index.md)
 
