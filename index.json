@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-31, 13:26:15",
+      "https://lobste.rs/s/6zsmyk/conway_game_life_lispe"
+    ],
+    [
+      "Conway Game of Life in LispE",
+      "https://github.com/naver/lispe/wiki/6.20-Conway-Game-of-Life-in-LispE"
+    ]
+  ],
+  [
+    [
       "2023-10-31, 12:01:36",
       "https://lobste.rs/s/7pydqu/bcachefs_merged_into_linux_6_7_kernel"
     ],
@@ -157,16 +167,6 @@
     [
       "Bjarne Stroustrup's Plan for Bringing Safety to C++",
       "https://thenewstack.io/bjarne-stroustrups-plan-for-bringing-safety-to-c/"
-    ]
-  ],
-  [
-    [
-      "2023-10-30, 14:33:13",
-      "https://lobste.rs/s/g8xt4y/featurize_your_app"
-    ],
-    [
-      "Featurize your app",
-      "https://enginuity.dev/posts/featurize-your-app/"
     ]
   ],
   [
