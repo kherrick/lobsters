@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-31, 16:03:40](https://lobste.rs/s/ximx6t/real_time_change_data_capture_for) - [Real-time Change Data Capture for Postgres Partitioned Tables](https://blog.peerdb.io/real-time-change-data-capture-for-postgres-partitioned-tables)
 * [2023-10-31, 13:26:15](https://lobste.rs/s/6zsmyk/conway_game_life_lispe) - [Conway Game of Life in LispE](https://github.com/naver/lispe/wiki/6.20-Conway-Game-of-Life-in-LispE)
 * [2023-10-31, 12:01:36](https://lobste.rs/s/7pydqu/bcachefs_merged_into_linux_6_7_kernel) - [Bcachefs Merged Into The Linux 6.7 Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=9e87705289667a6c5185c619ea32f3d39314eb1b)
 * [2023-10-31, 11:33:39](https://lobste.rs/s/zht3p3/makesure_v0_9_21_what_s_new) - [makesure v0.9.21 – what’s new?](https://maximullaris.com/revamp_define.html)
@@ -13,7 +14,6 @@
 * [2023-10-30, 18:25:52](https://lobste.rs/s/bqlspd/swift_meet_winrt) - [Swift, meet WinRT](https://speakinginswift.substack.com/p/swift-meet-winrt)
 * [2023-10-30, 18:08:47](https://lobste.rs/s/retfuv/databases_are_not_compilers) - [Databases are not Compilers](https://buttondown.email/jaffray/archive/databases-are-not-compilers/)
 * [2023-10-30, 18:07:55](https://lobste.rs/s/7tlhdy/grading_on_curve_how_rust_can_facilitate) - [Grading on a Curve: How Rust can Facilitate New Contributors while Decreasing Vulnerabilities](https://cypherpunks.ca/~iang/pubs/gradingcurve-secdev23.pdf)
-* [2023-10-30, 17:56:56](https://lobste.rs/s/25qdja/wireplumber_exploring_lua_scripts_with) - [WirePlumber: Exploring Lua scripts with Event Dispatcher](https://www.collabora.com/news-and-blog/blog/2023/10/30/wireplumber-exploring-lua-scripts-with-event-dispatcher/)
 * [2023-10-30, 15:43:19](https://lobste.rs/s/iccwdr/elixir_phoenix_can_do_it_all) - [Elixir and Phoenix can do it all](https://fly.io/phoenix-files/elixir-and-phoenix-can-do-it-all/)
 * [2023-10-30, 15:34:48](https://lobste.rs/s/iiqvmy/replacing_webrtc_media_over_quic) - [Replacing WebRTC - Media over QUIC](https://quic.video/blog/replacing-webrtc/)
 * [2023-10-30, 15:14:21](https://lobste.rs/s/fc9mat/bjarne_stroustrup_s_plan_for_bringing) - [Bjarne Stroustrup's Plan for Bringing Safety to C++](https://thenewstack.io/bjarne-stroustrups-plan-for-bringing-safety-to-c/)
