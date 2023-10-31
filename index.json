@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-31, 06:54:38",
+      "https://lobste.rs/s/squwpb/research_unix_sixth_edition_wasm"
+    ],
+    [
+      "Research Unix Sixth Edition (WASM)",
+      "https://research.swtch.com/v6/"
+    ]
+  ],
+  [
+    [
       "2023-10-31, 03:43:47",
       "https://lobste.rs/s/eb8gfy/executive_order_on_safe_secure"
     ],
@@ -237,16 +247,6 @@
     [
       "Analyzing Data 170,000x Faster with Python",
       "https://sidsite.com/posts/python-corrset-optimization/"
-    ]
-  ],
-  [
-    [
-      "2023-10-29, 08:44:22",
-      "https://lobste.rs/s/rldx6z/making_usb_ethernet_adapter_work"
-    ],
-    [
-      "Making an USB Ethernet adapter work",
-      "https://blog.brixit.nl/making-a-usb-ethernet-adapter-work-sr9700/"
     ]
   ]
 ]
