@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-31, 18:29:03](https://lobste.rs/s/5xf09z/haskell_refactoring_step_through) - [Haskell Refactoring Step-Through](https://tech.freckle.com/2023/10/31/haskell-refactoring-step-through/)
 * [2023-10-31, 18:28:29](https://lobste.rs/s/tujt2o/do_not_use_requirements_txt) - [Do not use requirements.txt](https://quanttype.net/posts/2023-10-31-do-not-use-requirements.txt.html)
 * [2023-10-31, 18:25:31](https://lobste.rs/s/x8ilxm/reverse_engineering_ethernet_backoff_on) - [Reverse-engineering Ethernet backoff on the Intel 82586 network chip's die](http://www.righto.com/2023/10/reverse-engineering-ethernet-backoff-on.html)
 * [2023-10-31, 17:48:53](https://lobste.rs/s/55gcgy/attempting_use_bcachefs_unsuccessfully) - [Attempting to use bcachefs (unsuccessfully)](https://kevincox.ca/2023/06/10/bcachefs-attempt/)
@@ -24,7 +25,6 @@
 * [2023-10-30, 13:50:19](https://lobste.rs/s/yu8tzj/my_user_experience_porting_off_setup_py) - [My User Experience Porting Off setup.py](https://gregoryszorc.com/blog/2023/10/30/my-user-experience-porting-off-setup.py/)
 * [2023-10-30, 12:08:45](https://lobste.rs/s/5kjiw9/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/5kjiw9/what_are_you_doing_this_week)
 * [2023-10-30, 09:34:37](https://lobste.rs/s/earwy3/cheriot_complete_memory_safety_for) - [CHERIoT: Complete Memory Safety for Embedded Devices](https://cheriot.org/papers/2023-micro-cheriot-uarch.pdf)
-* [2023-10-29, 18:52:10](https://lobste.rs/s/jfmlrc/analyzing_data_170_000x_faster_with) - [Analyzing Data 170,000x Faster with Python](https://sidsite.com/posts/python-corrset-optimization/)
 
 ## [Archives](archives/index.md)
 
