@@ -9,6 +9,7 @@
 * [2023-10-31, 18:25:31](https://lobste.rs/s/x8ilxm/reverse_engineering_ethernet_backoff_on) - [Reverse-engineering Ethernet backoff on the Intel 82586 network chip's die](http://www.righto.com/2023/10/reverse-engineering-ethernet-backoff-on.html)
 * [2023-10-31, 17:48:53](https://lobste.rs/s/55gcgy/attempting_use_bcachefs_unsuccessfully) - [Attempting to use bcachefs (unsuccessfully)](https://kevincox.ca/2023/06/10/bcachefs-attempt/)
 * [2023-10-31, 17:13:22](https://lobste.rs/s/nkstky/youtube_s_anti_adblock_ublock_origin) - [Youtube’s Anti-adblock and uBlock Origin](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin)
+* [2023-10-31, 16:44:06](https://lobste.rs/s/qg1sgi/progress_report_on_rustc_codegen) - [Progress report on rustc_codegen_cranelift (Oct 2023)](https://bjorn3.github.io/2023/10/31/progress-report-oct-2023.html)
 * [2023-10-31, 16:43:15](https://lobste.rs/s/uzijal/color_gradients_my_gradual_descent_into) - [Color gradients and my gradual descent into madness](https://typst.app/blog/2023/color-gradients)
 * [2023-10-31, 16:03:40](https://lobste.rs/s/ximx6t/real_time_change_data_capture_for) - [Real-time Change Data Capture for Postgres Partitioned Tables](https://blog.peerdb.io/real-time-change-data-capture-for-postgres-partitioned-tables)
 * [2023-10-31, 13:26:15](https://lobste.rs/s/6zsmyk/conway_game_life_lispe) - [Conway Game of Life in LispE](https://github.com/naver/lispe/wiki/6.20-Conway-Game-of-Life-in-LispE)
@@ -22,7 +23,6 @@
 * [2023-10-30, 19:10:34](https://lobste.rs/s/uersyg/most_ugly_trick_rust_language) - [The most ugly trick in Rust language](https://types.pl/@safinaskar/111325536022277867)
 * [2023-10-30, 18:08:47](https://lobste.rs/s/retfuv/databases_are_not_compilers) - [Databases are not Compilers](https://buttondown.email/jaffray/archive/databases-are-not-compilers/)
 * [2023-10-30, 15:43:19](https://lobste.rs/s/iccwdr/elixir_phoenix_can_do_it_all) - [Elixir and Phoenix can do it all](https://fly.io/phoenix-files/elixir-and-phoenix-can-do-it-all/)
-* [2023-10-30, 15:34:48](https://lobste.rs/s/iiqvmy/replacing_webrtc_media_over_quic) - [Replacing WebRTC - Media over QUIC](https://quic.video/blog/replacing-webrtc/)
 * [2023-10-30, 15:14:21](https://lobste.rs/s/fc9mat/bjarne_stroustrup_s_plan_for_bringing) - [Bjarne Stroustrup's Plan for Bringing Safety to C++](https://thenewstack.io/bjarne-stroustrups-plan-for-bringing-safety-to-c/)
 * [2023-10-30, 13:50:19](https://lobste.rs/s/yu8tzj/my_user_experience_porting_off_setup_py) - [My User Experience Porting Off setup.py](https://gregoryszorc.com/blog/2023/10/30/my-user-experience-porting-off-setup.py/)
 
