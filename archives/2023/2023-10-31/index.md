@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-31](index.md)
 
+* [2023-10-31, 13:26:15](https://lobste.rs/s/6zsmyk/conway_game_life_lispe) - [Conway Game of Life in LispE](https://github.com/naver/lispe/wiki/6.20-Conway-Game-of-Life-in-LispE)
 * [2023-10-31, 12:01:36](https://lobste.rs/s/7pydqu/bcachefs_merged_into_linux_6_7_kernel) - [Bcachefs Merged Into The Linux 6.7 Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=9e87705289667a6c5185c619ea32f3d39314eb1b)
 * [2023-10-31, 11:33:39](https://lobste.rs/s/zht3p3/makesure_v0_9_21_what_s_new) - [makesure v0.9.21 – what’s new?](https://maximullaris.com/revamp_define.html)
 * [2023-10-31, 10:27:35](https://lobste.rs/s/drssqp/kiteticker_async_async_client_for_kite) - [kiteticker-async: Async client for the Kite Connect WebSocket API](https://github.com/kaychaks/kiteticker-async)

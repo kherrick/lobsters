@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-31, 13:26:15](https://lobste.rs/s/6zsmyk/conway_game_life_lispe) - [Conway Game of Life in LispE](https://github.com/naver/lispe/wiki/6.20-Conway-Game-of-Life-in-LispE)
 * [2023-10-31, 12:01:36](https://lobste.rs/s/7pydqu/bcachefs_merged_into_linux_6_7_kernel) - [Bcachefs Merged Into The Linux 6.7 Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=9e87705289667a6c5185c619ea32f3d39314eb1b)
 * [2023-10-31, 11:33:39](https://lobste.rs/s/zht3p3/makesure_v0_9_21_what_s_new) - [makesure v0.9.21 – what’s new?](https://maximullaris.com/revamp_define.html)
 * [2023-10-31, 10:27:35](https://lobste.rs/s/drssqp/kiteticker_async_async_client_for_kite) - [kiteticker-async: Async client for the Kite Connect WebSocket API](https://github.com/kaychaks/kiteticker-async)
@@ -16,7 +17,6 @@
 * [2023-10-30, 15:43:19](https://lobste.rs/s/iccwdr/elixir_phoenix_can_do_it_all) - [Elixir and Phoenix can do it all](https://fly.io/phoenix-files/elixir-and-phoenix-can-do-it-all/)
 * [2023-10-30, 15:34:48](https://lobste.rs/s/iiqvmy/replacing_webrtc_media_over_quic) - [Replacing WebRTC - Media over QUIC](https://quic.video/blog/replacing-webrtc/)
 * [2023-10-30, 15:14:21](https://lobste.rs/s/fc9mat/bjarne_stroustrup_s_plan_for_bringing) - [Bjarne Stroustrup's Plan for Bringing Safety to C++](https://thenewstack.io/bjarne-stroustrups-plan-for-bringing-safety-to-c/)
-* [2023-10-30, 14:33:13](https://lobste.rs/s/g8xt4y/featurize_your_app) - [Featurize your app](https://enginuity.dev/posts/featurize-your-app/)
 * [2023-10-30, 14:32:43](https://lobste.rs/s/o6hbdm/personal_history_compilation_speed_part) - [A Personal History of Compilation Speed, Part 2](https://prog21.dadgum.com/47.html)
 * [2023-10-30, 13:50:19](https://lobste.rs/s/yu8tzj/my_user_experience_porting_off_setup_py) - [My User Experience Porting Off setup.py](https://gregoryszorc.com/blog/2023/10/30/my-user-experience-porting-off-setup.py/)
 * [2023-10-30, 12:08:45](https://lobste.rs/s/5kjiw9/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/5kjiw9/what_are_you_doing_this_week)
