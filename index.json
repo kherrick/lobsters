@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2023-10-31, 16:44:06",
+      "https://lobste.rs/s/qg1sgi/progress_report_on_rustc_codegen"
+    ],
+    [
+      "Progress report on rustc_codegen_cranelift (Oct 2023)",
+      "https://bjorn3.github.io/2023/10/31/progress-report-oct-2023.html"
+    ]
+  ],
+  [
+    [
       "2023-10-31, 16:43:15",
       "https://lobste.rs/s/uzijal/color_gradients_my_gradual_descent_into"
     ],
@@ -217,16 +227,6 @@
     [
       "Elixir and Phoenix can do it all",
       "https://fly.io/phoenix-files/elixir-and-phoenix-can-do-it-all/"
-    ]
-  ],
-  [
-    [
-      "2023-10-30, 15:34:48",
-      "https://lobste.rs/s/iiqvmy/replacing_webrtc_media_over_quic"
-    ],
-    [
-      "Replacing WebRTC - Media over QUIC",
-      "https://quic.video/blog/replacing-webrtc/"
     ]
   ],
   [
