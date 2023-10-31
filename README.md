@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-31, 16:43:15](https://lobste.rs/s/uzijal/color_gradients_my_gradual_descent_into) - [Color gradients and my gradual descent into madness](https://typst.app/blog/2023/color-gradients)
 * [2023-10-31, 16:03:40](https://lobste.rs/s/ximx6t/real_time_change_data_capture_for) - [Real-time Change Data Capture for Postgres Partitioned Tables](https://blog.peerdb.io/real-time-change-data-capture-for-postgres-partitioned-tables)
 * [2023-10-31, 13:26:15](https://lobste.rs/s/6zsmyk/conway_game_life_lispe) - [Conway Game of Life in LispE](https://github.com/naver/lispe/wiki/6.20-Conway-Game-of-Life-in-LispE)
 * [2023-10-31, 12:01:36](https://lobste.rs/s/7pydqu/bcachefs_merged_into_linux_6_7_kernel) - [Bcachefs Merged Into The Linux 6.7 Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=9e87705289667a6c5185c619ea32f3d39314eb1b)
@@ -21,7 +22,6 @@
 * [2023-10-30, 13:50:19](https://lobste.rs/s/yu8tzj/my_user_experience_porting_off_setup_py) - [My User Experience Porting Off setup.py](https://gregoryszorc.com/blog/2023/10/30/my-user-experience-porting-off-setup.py/)
 * [2023-10-30, 12:08:45](https://lobste.rs/s/5kjiw9/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/5kjiw9/what_are_you_doing_this_week)
 * [2023-10-30, 09:34:37](https://lobste.rs/s/earwy3/cheriot_complete_memory_safety_for) - [CHERIoT: Complete Memory Safety for Embedded Devices](https://cheriot.org/papers/2023-micro-cheriot-uarch.pdf)
-* [2023-10-30, 09:28:49](https://lobste.rs/s/pqbsi9/elixir_drops_simplifying_data) - [Elixir Drops: Simplifying Data Validation in Elixir](https://solnic.dev/introducing-elixir-drops)
 * [2023-10-29, 23:15:47](https://lobste.rs/s/2rbbyj/nixos_reproducible_builds_minimal) - [NixOS Reproducible Builds: minimal installation ISO successfully independently rebuilt](https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756)
 * [2023-10-29, 22:16:11](https://lobste.rs/s/r2jawd/avoid_load_bearing_shell_scripts) - [Avoid Load-bearing Shell Scripts](https://benjamincongdon.me/blog/2023/10/29/Avoid-Load-bearing-Shell-Scripts/)
 * [2023-10-29, 18:52:10](https://lobste.rs/s/jfmlrc/analyzing_data_170_000x_faster_with) - [Analyzing Data 170,000x Faster with Python](https://sidsite.com/posts/python-corrset-optimization/)
