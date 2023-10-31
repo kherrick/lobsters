@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-10-31](index.md)
 
+* [2023-10-31, 21:25:56](https://lobste.rs/s/8razdb/streamdal_open_source_tail_f_for_your_data) - [Streamdal – an open-source tail -f for your data](https://streamdal.com/manifesto/)
 * [2023-10-31, 21:10:31](https://lobste.rs/s/x6fusz/down_right_firefox_got_faster_for_real) - [Down and to the Right: Firefox Got Faster for Real Users in 2023](https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/)
 * [2023-10-31, 21:07:43](https://lobste.rs/s/d7yuru/streamdal_open_source_tail_f_for_your_data) - [Streamdal: An Open-source tail -f for Your Data](https://github.com/streamdal/streamdal)
 * [2023-10-31, 20:33:46](https://lobste.rs/s/w35i2i/sequels_lights) - [Sequels And Lights](https://exple.tive.org/blarg/2023/10/31/sequels-and-lights/)
