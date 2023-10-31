@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-10-31, 20:33:46](https://lobste.rs/s/w35i2i/sequels_lights) - [Sequels And Lights](https://exple.tive.org/blarg/2023/10/31/sequels-and-lights/)
 * [2023-10-31, 20:32:26](https://lobste.rs/s/ssejw4/why_i_won_t_use_next_js) - [Why I Won't Use Next.js](https://www.epicweb.dev/why-i-wont-use-nextjs)
 * [2023-10-31, 18:29:03](https://lobste.rs/s/5xf09z/haskell_refactoring_step_through) - [Haskell Refactoring Step-Through](https://tech.freckle.com/2023/10/31/haskell-refactoring-step-through/)
 * [2023-10-31, 18:28:29](https://lobste.rs/s/tujt2o/do_not_use_requirements_txt) - [Do not use requirements.txt](https://quanttype.net/posts/2023-10-31-do-not-use-requirements.txt.html)
@@ -18,7 +19,6 @@
 * [2023-10-30, 20:18:30](https://lobste.rs/s/ubero5/how_beg_borrow_steal_your_way_cross) - [How to Beg/Borrow/Steal Your Way to a Cross Platform Bluetooth LE Library](https://nonpolynomial.com/2023/10/30/how-to-beg-borrow-steal-your-way-to-a-cross-platform-bluetooth-le-library/)
 * [2023-10-30, 19:20:32](https://lobste.rs/s/fatkxl/apple_event_for_october_30th_2023) - [Apple Event for October 30th, 2023](https://www.apple.com/apple-events/)
 * [2023-10-30, 19:10:34](https://lobste.rs/s/uersyg/most_ugly_trick_rust_language) - [The most ugly trick in Rust language](https://types.pl/@safinaskar/111325536022277867)
-* [2023-10-30, 18:25:52](https://lobste.rs/s/bqlspd/swift_meet_winrt) - [Swift, meet WinRT](https://speakinginswift.substack.com/p/swift-meet-winrt)
 * [2023-10-30, 18:08:47](https://lobste.rs/s/retfuv/databases_are_not_compilers) - [Databases are not Compilers](https://buttondown.email/jaffray/archive/databases-are-not-compilers/)
 * [2023-10-30, 15:43:19](https://lobste.rs/s/iccwdr/elixir_phoenix_can_do_it_all) - [Elixir and Phoenix can do it all](https://fly.io/phoenix-files/elixir-and-phoenix-can-do-it-all/)
 * [2023-10-30, 15:34:48](https://lobste.rs/s/iiqvmy/replacing_webrtc_media_over_quic) - [Replacing WebRTC - Media over QUIC](https://quic.video/blog/replacing-webrtc/)
