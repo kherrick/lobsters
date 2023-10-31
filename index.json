@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-10-31, 16:44:06",
+      "https://lobste.rs/s/qg1sgi/progress_report_on_rustc_codegen"
+    ],
+    [
+      "Progress report on rustc_codegen_cranelift (Oct 2023)",
+      "https://bjorn3.github.io/2023/10/31/progress-report-oct-2023.html"
+    ]
+  ],
+  [
+    [
       "2023-10-31, 16:43:15",
       "https://lobste.rs/s/uzijal/color_gradients_my_gradual_descent_into"
     ],
@@ -167,16 +177,6 @@
     [
       "Bjarne Stroustrup's Plan for Bringing Safety to C++",
       "https://thenewstack.io/bjarne-stroustrups-plan-for-bringing-safety-to-c/"
-    ]
-  ],
-  [
-    [
-      "2023-10-30, 14:33:13",
-      "https://lobste.rs/s/g8xt4y/featurize_your_app"
-    ],
-    [
-      "Featurize your app",
-      "https://enginuity.dev/posts/featurize-your-app/"
     ]
   ],
   [
