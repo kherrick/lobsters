@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 16:21:35](https://lobste.rs/s/96ai9n/getting_risc_v_again_milk_v_s_mars_cm) - [Getting RISC-V (again): Milk-V's Mars CM](https://www.jeffgeerling.com/blog/2023/getting-risc-v-again-milk-vs-mars-cm)
 * [2023-11-01, 15:42:28](https://lobste.rs/s/gnv9ho/tracking_sqlite_database_changes_git) - [Tracking SQLite Database Changes in Git](https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git)
 * [2023-11-01, 15:37:05](https://lobste.rs/s/dv3ive/clowns_left_me_jokers_right_2008) - [Clowns to the Left of me, Jokers to the Right (2008)](https://personal.cis.strath.ac.uk/conor.mcbride/Dissect.pdf)
 * [2023-11-01, 15:22:07](https://lobste.rs/s/xf5a9v/modern_pascal_is_still_race) - [Modern Pascal is Still in the Race](https://blog.synopse.info/?post/2022/11/26/Modern-Pascal-is-Still-in-the-Race)
