@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-01, 15:37:05](https://lobste.rs/s/dv3ive/clowns_left_me_jokers_right_2008) - [Clowns to the Left of me, Jokers to the Right (2008)](https://personal.cis.strath.ac.uk/conor.mcbride/Dissect.pdf)
 * [2023-11-01, 15:22:07](https://lobste.rs/s/xf5a9v/modern_pascal_is_still_race) - [Modern Pascal is Still in the Race](https://blog.synopse.info/?post/2022/11/26/Modern-Pascal-is-Still-in-the-Race)
 * [2023-11-01, 15:18:02](https://lobste.rs/s/sup5nf/kotlin_multiplatform_is_stable) - [Kotlin Multiplatform Is Stable and Production-Ready](https://blog.jetbrains.com/kotlin/2023/11/kotlin-multiplatform-stable/)
 * [2023-11-01, 14:59:45](https://lobste.rs/s/dqzyl2/control_flow_for_datalog) - [Control flow for Datalog](https://www.mbid.me/posts/control-flow-for-datalog/)
@@ -12,7 +13,6 @@
 * [2023-11-01, 07:57:45](https://lobste.rs/s/jpwktu/how_bear_does_analytics_with_css) - [How Bear does analytics with CSS](https://herman.bearblog.dev/how-bear-does-analytics-with-css/)
 * [2023-11-01, 06:35:43](https://lobste.rs/s/tywrrf/why_acpi) - [Why ACPI?](https://mjg59.dreamwidth.org/68350.html)
 * [2023-11-01, 05:25:52](https://lobste.rs/s/fgk0kc/noncopyable_generics) - [Noncopyable Generics](https://github.com/kavon/swift-evolution/blob/9b3f0789ba9624f0539434e503bbcc25a7f8ff8b/proposals/NNNN-noncopyable-generics.md)
-* [2023-11-01, 04:57:06](https://lobste.rs/s/alhsh6/raspberry_pi_os_upgrading_cross_grading) - [Raspberry PI OS: upgrading and cross-grading](https://k1024.org/posts/2023/2023-10-31-raspberry-pi-upgrade-crossgrade/)
 * [2023-11-01, 04:56:04](https://lobste.rs/s/zy1fbd/time_i_wrote_malware_got_caught) - [That time I wrote malware and got caught](https://ntietz.com/blog/that-time-i-wrote-malware/)
 * [2023-11-01, 03:52:26](https://lobste.rs/s/bsaivq/typed_dataspace_actors) - [Typed Dataspace Actors](https://youtu.be/4KXbY1T2neY)
 * [2023-10-31, 21:10:31](https://lobste.rs/s/x6fusz/down_right_firefox_got_faster_for_real) - [Down and to the Right: Firefox Got Faster for Real Users in 2023](https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/)
