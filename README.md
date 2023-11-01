@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-01, 15:42:28](https://lobste.rs/s/gnv9ho/tracking_sqlite_database_changes_git) - [Tracking SQLite Database Changes in Git](https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git)
 * [2023-11-01, 15:37:05](https://lobste.rs/s/dv3ive/clowns_left_me_jokers_right_2008) - [Clowns to the Left of me, Jokers to the Right (2008)](https://personal.cis.strath.ac.uk/conor.mcbride/Dissect.pdf)
 * [2023-11-01, 15:22:07](https://lobste.rs/s/xf5a9v/modern_pascal_is_still_race) - [Modern Pascal is Still in the Race](https://blog.synopse.info/?post/2022/11/26/Modern-Pascal-is-Still-in-the-Race)
 * [2023-11-01, 15:18:02](https://lobste.rs/s/sup5nf/kotlin_multiplatform_is_stable) - [Kotlin Multiplatform Is Stable and Production-Ready](https://blog.jetbrains.com/kotlin/2023/11/kotlin-multiplatform-stable/)
@@ -23,7 +24,6 @@
 * [2023-10-31, 17:13:22](https://lobste.rs/s/nkstky/youtube_s_anti_adblock_ublock_origin) - [Youtube’s Anti-adblock and uBlock Origin](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin)
 * [2023-10-31, 16:44:06](https://lobste.rs/s/qg1sgi/progress_report_on_rustc_codegen) - [Progress report on rustc_codegen_cranelift (Oct 2023)](https://bjorn3.github.io/2023/10/31/progress-report-oct-2023.html)
 * [2023-10-31, 16:43:15](https://lobste.rs/s/uzijal/color_gradients_my_gradual_descent_into) - [Color gradients and my gradual descent into madness](https://typst.app/blog/2023/color-gradients)
-* [2023-10-31, 13:26:15](https://lobste.rs/s/6zsmyk/conway_game_life_lispe) - [Conway Game of Life in LispE](https://github.com/naver/lispe/wiki/6.20-Conway-Game-of-Life-in-LispE)
 * [2023-10-31, 12:01:36](https://lobste.rs/s/7pydqu/bcachefs_merged_into_linux_6_7_kernel) - [Bcachefs Merged Into The Linux 6.7 Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=9e87705289667a6c5185c619ea32f3d39314eb1b)
 
 ## [Archives](archives/index.md)
