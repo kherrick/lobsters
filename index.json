@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-11-01, 18:52:21",
+      "https://lobste.rs/s/swhsrg/traits_js_robust_object_composition_high"
+    ],
+    [
+      "traits.js: Robust Object Composition and High-integrity Objects for ECMAScript 5 (2011)",
+      "https://traitsjs.github.io/traits.js-website/files/traitsJS_PLASTIC2011_final.pdf"
+    ]
+  ],
+  [
+    [
       "2023-11-01, 18:02:40",
       "https://lobste.rs/s/s5rdvi/dagorengine_used_for_warthunder_is_now"
     ],
     [
       "DagorEngine used for Warthunder is now open source",
       "https://github.com/GaijinEntertainment/DagorEngine"
-    ]
-  ],
-  [
-    [
-      "2023-11-01, 17:59:09",
-      "https://lobste.rs/s/tczboi/modern_c_how_about_contemporary_c"
-    ],
-    [
-      "Modern C++? How about Contemporary C++?",
-      "https://www.elbeno.com/blog/?p=1734"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "Cosmopolitan Third Edition",
       "https://justine.lol/cosmo3/"
+    ]
+  ],
+  [
+    [
+      "2023-11-01, 16:21:35",
+      "https://lobste.rs/s/96ai9n/getting_risc_v_again_milk_v_s_mars_cm"
+    ],
+    [
+      "Getting RISC-V (again): Milk-V's Mars CM",
+      "https://www.jeffgeerling.com/blog/2023/getting-risc-v-again-milk-vs-mars-cm"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Why ACPI?",
       "https://mjg59.dreamwidth.org/68350.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-01, 05:25:52",
-      "https://lobste.rs/s/fgk0kc/noncopyable_generics"
-    ],
-    [
-      "Noncopyable Generics",
-      "https://github.com/kavon/swift-evolution/blob/9b3f0789ba9624f0539434e503bbcc25a7f8ff8b/proposals/NNNN-noncopyable-generics.md"
     ]
   ],
   [
