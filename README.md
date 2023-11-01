@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-01, 21:16:50](https://lobste.rs/s/jnrciw/all_control) - [All Control](https://connolly.tech/posts/2023_10_28-all-control/)
 * [2023-11-01, 21:11:06](https://lobste.rs/s/cp6pp7/why_do_peephole_optimizations_work) - [Why Do Peephole Optimizations Work?](https://blog.regehr.org/archives/2485)
 * [2023-11-01, 20:40:11](https://lobste.rs/s/czlmyn/how_how_not_design_rest_apis) - [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs)
 * [2023-11-01, 20:36:08](https://lobste.rs/s/yibsgg/everybody_think_they_know_first_normal) - [Everybody think they know first normal form, but nobody does](https://www.dbdebunk.com/2023/10/everybody-think-they-know-first-normal.html)
@@ -20,7 +21,6 @@
 * [2023-11-01, 06:35:43](https://lobste.rs/s/tywrrf/why_acpi) - [Why ACPI?](https://mjg59.dreamwidth.org/68350.html)
 * [2023-11-01, 04:56:04](https://lobste.rs/s/zy1fbd/time_i_wrote_malware_got_caught) - [That time I wrote malware and got caught](https://ntietz.com/blog/that-time-i-wrote-malware/)
 * [2023-10-31, 21:10:31](https://lobste.rs/s/x6fusz/down_right_firefox_got_faster_for_real) - [Down and to the Right: Firefox Got Faster for Real Users in 2023](https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/)
-* [2023-10-31, 20:32:26](https://lobste.rs/s/ssejw4/why_i_won_t_use_next_js) - [Why I Won't Use Next.js](https://www.epicweb.dev/why-i-wont-use-nextjs)
 * [2023-10-31, 18:28:29](https://lobste.rs/s/tujt2o/do_not_use_requirements_txt) - [Do not use requirements.txt](https://quanttype.net/posts/2023-10-31-do-not-use-requirements.txt.html)
 * [2023-10-31, 17:48:53](https://lobste.rs/s/55gcgy/attempting_use_bcachefs_unsuccessfully) - [Attempting to use bcachefs (unsuccessfully)](https://kevincox.ca/2023/06/10/bcachefs-attempt/)
 * [2023-10-31, 17:13:22](https://lobste.rs/s/nkstky/youtube_s_anti_adblock_ublock_origin) - [Youtube’s Anti-adblock and uBlock Origin](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin)
