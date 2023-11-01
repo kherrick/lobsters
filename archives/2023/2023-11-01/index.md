@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 12:47:37](https://lobste.rs/s/ntia7t/why_checked_exceptions_failed) - [Why Checked Exceptions Failed](https://borretti.me/article/why-checked-exceptions-failed)
 * [2023-11-01, 12:22:01](https://lobste.rs/s/zsrc32/hunting_spooky_ethernet_driver_bug) - [Hunting a spooky ethernet driver bug](https://www.mattkeeter.com/blog/2023-10-31-dma/)
 * [2023-11-01, 11:19:59](https://lobste.rs/s/qwnpzw/interrupts_is_threads) - [Interrupts is threads](https://onevariable.com/blog/interrupts-is-threads/)
 * [2023-11-01, 07:59:37](https://lobste.rs/s/ruj6wu/direct3d_12_support_qt_6_6) - [Direct3D 12 Support in Qt 6.6](https://www.qt.io/blog/direct3d-12-support-in-qt-6.6)
