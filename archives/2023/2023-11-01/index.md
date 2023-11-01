@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 20:40:11](https://lobste.rs/s/czlmyn/how_how_not_design_rest_apis) - [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs)
+* [2023-11-01, 20:36:08](https://lobste.rs/s/yibsgg/everybody_think_they_know_first_normal) - [Everybody think they know first normal form, but nobody does](https://www.dbdebunk.com/2023/10/everybody-think-they-know-first-normal.html)
 * [2023-11-01, 19:37:41](https://lobste.rs/s/ythds6/headless_component_pattern_for) - [Headless Component: a pattern for composing React UIs](https://martinfowler.com/articles/headless-component.html)
 * [2023-11-01, 18:58:03](https://lobste.rs/s/mo4epa/wrangling_monotonic_systems_tla) - [Wrangling monotonic systems in TLA+](https://ahelwer.ca/post/2023-11-01-tla-finite-monotonic/)
 * [2023-11-01, 18:52:21](https://lobste.rs/s/swhsrg/traits_js_robust_object_composition_high) - [traits.js: Robust Object Composition and High-integrity Objects for ECMAScript 5 (2011)](https://traitsjs.github.io/traits.js-website/files/traitsJS_PLASTIC2011_final.pdf)

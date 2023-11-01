@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-11-01, 19:37:41](https://lobste.rs/s/ythds6/headless_component_pattern_for) - [Headless Component: a pattern for composing React UIs](https://martinfowler.com/articles/headless-component.html)
+* [2023-11-01, 20:40:11](https://lobste.rs/s/czlmyn/how_how_not_design_rest_apis) - [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs)
+* [2023-11-01, 20:36:08](https://lobste.rs/s/yibsgg/everybody_think_they_know_first_normal) - [Everybody think they know first normal form, but nobody does](https://www.dbdebunk.com/2023/10/everybody-think-they-know-first-normal.html)
 * [2023-11-01, 18:58:03](https://lobste.rs/s/mo4epa/wrangling_monotonic_systems_tla) - [Wrangling monotonic systems in TLA+](https://ahelwer.ca/post/2023-11-01-tla-finite-monotonic/)
 * [2023-11-01, 17:53:48](https://lobste.rs/s/ojpgjn/what_do_we_mean_by_foundations) - [What do we mean by \"the foundations of mathematics\"?](https://lawrencecpaulson.github.io/2023/11/01/Foundations.html)
 * [2023-11-01, 17:44:01](https://lobste.rs/s/ralgvw/cosmopolitan_third_edition) - [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
@@ -12,7 +13,6 @@
 * [2023-11-01, 14:59:45](https://lobste.rs/s/dqzyl2/control_flow_for_datalog) - [Control flow for Datalog](https://www.mbid.me/posts/control-flow-for-datalog/)
 * [2023-11-01, 14:46:27](https://lobste.rs/s/wgxenj/polishing_syntax_for_stability_gleam_v0) - [Polishing syntax for stability – Gleam v0.32 released](https://gleam.run/news/v0.32-polishing-syntax-for-stability/)
 * [2023-11-01, 14:22:04](https://lobste.rs/s/coah5x/c_23_removing_garbage_collection_support) - [C++23: Removing garbage collection support](https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection)
-* [2023-11-01, 14:21:05](https://lobste.rs/s/apmdud/your_irregular_status_update) - [Your irregular status update: upstreaming, growing the team, and a funding situation update | Kent Overstreet](https://www.patreon.com/posts/your-irregular-89670830)
 * [2023-11-01, 12:47:37](https://lobste.rs/s/ntia7t/why_checked_exceptions_failed) - [Why Checked Exceptions Failed](https://borretti.me/article/why-checked-exceptions-failed)
 * [2023-11-01, 12:22:01](https://lobste.rs/s/zsrc32/hunting_spooky_ethernet_driver_bug) - [Hunting a spooky ethernet driver bug](https://www.mattkeeter.com/blog/2023-10-31-dma/)
 * [2023-11-01, 11:19:59](https://lobste.rs/s/qwnpzw/interrupts_is_threads) - [Interrupts is threads](https://onevariable.com/blog/interrupts-is-threads/)
