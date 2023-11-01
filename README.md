@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-01, 14:59:45](https://lobste.rs/s/dqzyl2/control_flow_for_datalog) - [Control flow for Datalog](https://www.mbid.me/posts/control-flow-for-datalog/)
 * [2023-11-01, 14:46:27](https://lobste.rs/s/wgxenj/polishing_syntax_for_stability_gleam_v0) - [Polishing syntax for stability – Gleam v0.32 released](https://gleam.run/news/v0.32-polishing-syntax-for-stability/)
 * [2023-11-01, 14:22:04](https://lobste.rs/s/coah5x/c_23_removing_garbage_collection_support) - [C++23: Removing garbage collection support](https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection)
 * [2023-11-01, 14:21:05](https://lobste.rs/s/apmdud/your_irregular_status_update) - [Your irregular status update: upstreaming, growing the team, and a funding situation update | Kent Overstreet](https://www.patreon.com/posts/your-irregular-89670830)
@@ -12,7 +13,6 @@
 * [2023-11-01, 05:25:52](https://lobste.rs/s/fgk0kc/noncopyable_generics) - [Noncopyable Generics](https://github.com/kavon/swift-evolution/blob/9b3f0789ba9624f0539434e503bbcc25a7f8ff8b/proposals/NNNN-noncopyable-generics.md)
 * [2023-11-01, 04:57:06](https://lobste.rs/s/alhsh6/raspberry_pi_os_upgrading_cross_grading) - [Raspberry PI OS: upgrading and cross-grading](https://k1024.org/posts/2023/2023-10-31-raspberry-pi-upgrade-crossgrade/)
 * [2023-11-01, 04:56:04](https://lobste.rs/s/zy1fbd/time_i_wrote_malware_got_caught) - [That time I wrote malware and got caught](https://ntietz.com/blog/that-time-i-wrote-malware/)
-* [2023-11-01, 03:52:26](https://lobste.rs/s/bsaivq/typed_dataspace_actors) - [Typed Dataspace Actors](https://youtu.be/4KXbY1T2neY)
 * [2023-10-31, 21:10:31](https://lobste.rs/s/x6fusz/down_right_firefox_got_faster_for_real) - [Down and to the Right: Firefox Got Faster for Real Users in 2023](https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/)
 * [2023-10-31, 20:33:46](https://lobste.rs/s/w35i2i/sequels_lights) - [Sequels And Lights](https://exple.tive.org/blarg/2023/10/31/sequels-and-lights/)
 * [2023-10-31, 20:32:26](https://lobste.rs/s/ssejw4/why_i_won_t_use_next_js) - [Why I Won't Use Next.js](https://www.epicweb.dev/why-i-wont-use-nextjs)
