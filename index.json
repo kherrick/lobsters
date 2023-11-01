@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-01, 04:57:06",
+      "https://lobste.rs/s/alhsh6/raspberry_pi_os_upgrading_cross_grading"
+    ],
+    [
+      "Raspberry PI OS: upgrading and cross-grading",
+      "https://k1024.org/posts/2023/2023-10-31-raspberry-pi-upgrade-crossgrade/"
+    ]
+  ],
+  [
+    [
+      "2023-11-01, 04:56:04",
+      "https://lobste.rs/s/zy1fbd/time_i_wrote_malware_got_caught"
+    ],
+    [
+      "That time I wrote malware and got caught",
+      "https://ntietz.com/blog/that-time-i-wrote-malware/"
+    ]
+  ],
+  [
+    [
       "2023-11-01, 03:52:26",
       "https://lobste.rs/s/bsaivq/typed_dataspace_actors"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-10-31, 10:27:35",
-      "https://lobste.rs/s/drssqp/kiteticker_async_async_client_for_kite"
-    ],
-    [
-      "kiteticker-async: Async client for the Kite Connect WebSocket API",
-      "https://github.com/kaychaks/kiteticker-async"
-    ]
-  ],
-  [
-    [
       "2023-10-30, 22:34:16",
       "https://lobste.rs/s/jd4ivm/through_ages_apple_cpu_architecture"
     ],
@@ -217,16 +227,6 @@
     [
       "Databases are not Compilers",
       "https://buttondown.email/jaffray/archive/databases-are-not-compilers/"
-    ]
-  ],
-  [
-    [
-      "2023-10-30, 15:43:19",
-      "https://lobste.rs/s/iccwdr/elixir_phoenix_can_do_it_all"
-    ],
-    [
-      "Elixir and Phoenix can do it all",
-      "https://fly.io/phoenix-files/elixir-and-phoenix-can-do-it-all/"
     ]
   ],
   [
