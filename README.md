@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-01, 18:02:40](https://lobste.rs/s/s5rdvi/dagorengine_used_for_warthunder_is_now) - [DagorEngine used for Warthunder is now open source](https://github.com/GaijinEntertainment/DagorEngine)
+* [2023-11-01, 17:59:09](https://lobste.rs/s/tczboi/modern_c_how_about_contemporary_c) - [Modern C++? How about Contemporary C++?](https://www.elbeno.com/blog/?p=1734)
+* [2023-11-01, 17:53:48](https://lobste.rs/s/ojpgjn/what_do_we_mean_by_foundations) - [What do we mean by \"the foundations of mathematics\"?](https://lawrencecpaulson.github.io/2023/11/01/Foundations.html)
 * [2023-11-01, 17:44:01](https://lobste.rs/s/ralgvw/cosmopolitan_third_edition) - [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
 * [2023-11-01, 16:21:35](https://lobste.rs/s/96ai9n/getting_risc_v_again_milk_v_s_mars_cm) - [Getting RISC-V (again): Milk-V's Mars CM](https://www.jeffgeerling.com/blog/2023/getting-risc-v-again-milk-vs-mars-cm)
 * [2023-11-01, 15:42:28](https://lobste.rs/s/gnv9ho/tracking_sqlite_database_changes_git) - [Tracking SQLite Database Changes in Git](https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git)
@@ -12,7 +15,6 @@
 * [2023-11-01, 12:47:37](https://lobste.rs/s/ntia7t/why_checked_exceptions_failed) - [Why Checked Exceptions Failed](https://borretti.me/article/why-checked-exceptions-failed)
 * [2023-11-01, 12:22:01](https://lobste.rs/s/zsrc32/hunting_spooky_ethernet_driver_bug) - [Hunting a spooky ethernet driver bug](https://www.mattkeeter.com/blog/2023-10-31-dma/)
 * [2023-11-01, 11:19:59](https://lobste.rs/s/qwnpzw/interrupts_is_threads) - [Interrupts is threads](https://onevariable.com/blog/interrupts-is-threads/)
-* [2023-11-01, 07:59:37](https://lobste.rs/s/ruj6wu/direct3d_12_support_qt_6_6) - [Direct3D 12 Support in Qt 6.6](https://www.qt.io/blog/direct3d-12-support-in-qt-6.6)
 * [2023-11-01, 07:57:45](https://lobste.rs/s/jpwktu/how_bear_does_analytics_with_css) - [How Bear does analytics with CSS](https://herman.bearblog.dev/how-bear-does-analytics-with-css/)
 * [2023-11-01, 06:35:43](https://lobste.rs/s/tywrrf/why_acpi) - [Why ACPI?](https://mjg59.dreamwidth.org/68350.html)
 * [2023-11-01, 05:25:52](https://lobste.rs/s/fgk0kc/noncopyable_generics) - [Noncopyable Generics](https://github.com/kavon/swift-evolution/blob/9b3f0789ba9624f0539434e503bbcc25a7f8ff8b/proposals/NNNN-noncopyable-generics.md)
@@ -22,8 +24,6 @@
 * [2023-10-31, 18:28:29](https://lobste.rs/s/tujt2o/do_not_use_requirements_txt) - [Do not use requirements.txt](https://quanttype.net/posts/2023-10-31-do-not-use-requirements.txt.html)
 * [2023-10-31, 17:48:53](https://lobste.rs/s/55gcgy/attempting_use_bcachefs_unsuccessfully) - [Attempting to use bcachefs (unsuccessfully)](https://kevincox.ca/2023/06/10/bcachefs-attempt/)
 * [2023-10-31, 17:13:22](https://lobste.rs/s/nkstky/youtube_s_anti_adblock_ublock_origin) - [Youtube’s Anti-adblock and uBlock Origin](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin)
-* [2023-10-31, 16:44:06](https://lobste.rs/s/qg1sgi/progress_report_on_rustc_codegen) - [Progress report on rustc_codegen_cranelift (Oct 2023)](https://bjorn3.github.io/2023/10/31/progress-report-oct-2023.html)
-* [2023-10-31, 16:43:15](https://lobste.rs/s/uzijal/color_gradients_my_gradual_descent_into) - [Color gradients and my gradual descent into madness](https://typst.app/blog/2023/color-gradients)
 * [2023-10-31, 12:01:36](https://lobste.rs/s/7pydqu/bcachefs_merged_into_linux_6_7_kernel) - [Bcachefs Merged Into The Linux 6.7 Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=9e87705289667a6c5185c619ea32f3d39314eb1b)
 
 ## [Archives](archives/index.md)

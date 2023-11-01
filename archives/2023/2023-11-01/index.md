@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 18:02:40](https://lobste.rs/s/s5rdvi/dagorengine_used_for_warthunder_is_now) - [DagorEngine used for Warthunder is now open source](https://github.com/GaijinEntertainment/DagorEngine)
+* [2023-11-01, 17:59:09](https://lobste.rs/s/tczboi/modern_c_how_about_contemporary_c) - [Modern C++? How about Contemporary C++?](https://www.elbeno.com/blog/?p=1734)
+* [2023-11-01, 17:53:48](https://lobste.rs/s/ojpgjn/what_do_we_mean_by_foundations) - [What do we mean by \"the foundations of mathematics\"?](https://lawrencecpaulson.github.io/2023/11/01/Foundations.html)
 * [2023-11-01, 17:44:01](https://lobste.rs/s/ralgvw/cosmopolitan_third_edition) - [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
 * [2023-11-01, 16:21:35](https://lobste.rs/s/96ai9n/getting_risc_v_again_milk_v_s_mars_cm) - [Getting RISC-V (again): Milk-V's Mars CM](https://www.jeffgeerling.com/blog/2023/getting-risc-v-again-milk-vs-mars-cm)
 * [2023-11-01, 15:42:28](https://lobste.rs/s/gnv9ho/tracking_sqlite_database_changes_git) - [Tracking SQLite Database Changes in Git](https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git)
