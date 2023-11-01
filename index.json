@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-01, 11:19:59",
+      "https://lobste.rs/s/qwnpzw/interrupts_is_threads"
+    ],
+    [
+      "Interrupts is threads",
+      "https://onevariable.com/blog/interrupts-is-threads/"
+    ]
+  ],
+  [
+    [
       "2023-11-01, 07:59:37",
       "https://lobste.rs/s/ruj6wu/direct3d_12_support_qt_6_6"
     ],
@@ -197,16 +207,6 @@
     [
       "Bcachefs Merged Into The Linux 6.7 Kernel",
       "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=9e87705289667a6c5185c619ea32f3d39314eb1b"
-    ]
-  ],
-  [
-    [
-      "2023-10-31, 11:33:39",
-      "https://lobste.rs/s/zht3p3/makesure_v0_9_21_what_s_new"
-    ],
-    [
-      "makesure v0.9.21 – what’s new?",
-      "https://maximullaris.com/revamp_define.html"
     ]
   ],
   [
