@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-01, 19:37:41](https://lobste.rs/s/ythds6/headless_component_pattern_for) - [Headless Component: a pattern for composing React UIs](https://martinfowler.com/articles/headless-component.html)
 * [2023-11-01, 18:58:03](https://lobste.rs/s/mo4epa/wrangling_monotonic_systems_tla) - [Wrangling monotonic systems in TLA+](https://ahelwer.ca/post/2023-11-01-tla-finite-monotonic/)
-* [2023-11-01, 18:52:21](https://lobste.rs/s/swhsrg/traits_js_robust_object_composition_high) - [traits.js: Robust Object Composition and High-integrity Objects for ECMAScript 5 (2011)](https://traitsjs.github.io/traits.js-website/files/traitsJS_PLASTIC2011_final.pdf)
 * [2023-11-01, 17:53:48](https://lobste.rs/s/ojpgjn/what_do_we_mean_by_foundations) - [What do we mean by \"the foundations of mathematics\"?](https://lawrencecpaulson.github.io/2023/11/01/Foundations.html)
 * [2023-11-01, 17:44:01](https://lobste.rs/s/ralgvw/cosmopolitan_third_edition) - [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
 * [2023-11-01, 16:21:35](https://lobste.rs/s/96ai9n/getting_risc_v_again_milk_v_s_mars_cm) - [Getting RISC-V (again): Milk-V's Mars CM](https://www.jeffgeerling.com/blog/2023/getting-risc-v-again-milk-vs-mars-cm)
