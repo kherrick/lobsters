@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-01, 05:25:52",
+      "https://lobste.rs/s/fgk0kc/noncopyable_generics"
+    ],
+    [
+      "Noncopyable Generics",
+      "https://github.com/kavon/swift-evolution/blob/9b3f0789ba9624f0539434e503bbcc25a7f8ff8b/proposals/NNNN-noncopyable-generics.md"
+    ]
+  ],
+  [
+    [
       "2023-11-01, 04:57:06",
       "https://lobste.rs/s/alhsh6/raspberry_pi_os_upgrading_cross_grading"
     ],
@@ -227,16 +237,6 @@
     [
       "Databases are not Compilers",
       "https://buttondown.email/jaffray/archive/databases-are-not-compilers/"
-    ]
-  ],
-  [
-    [
-      "2023-10-30, 15:14:21",
-      "https://lobste.rs/s/fc9mat/bjarne_stroustrup_s_plan_for_bringing"
-    ],
-    [
-      "Bjarne Stroustrup's Plan for Bringing Safety to C++",
-      "https://thenewstack.io/bjarne-stroustrups-plan-for-bringing-safety-to-c/"
     ]
   ],
   [
