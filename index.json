@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-11-01, 19:37:41",
-      "https://lobste.rs/s/ythds6/headless_component_pattern_for"
+      "2023-11-01, 20:40:11",
+      "https://lobste.rs/s/czlmyn/how_how_not_design_rest_apis"
     ],
     [
-      "Headless Component: a pattern for composing React UIs",
-      "https://martinfowler.com/articles/headless-component.html"
+      "How to (and how not to) design REST APIs",
+      "https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs"
+    ]
+  ],
+  [
+    [
+      "2023-11-01, 20:36:08",
+      "https://lobste.rs/s/yibsgg/everybody_think_they_know_first_normal"
+    ],
+    [
+      "Everybody think they know first normal form, but nobody does",
+      "https://www.dbdebunk.com/2023/10/everybody-think-they-know-first-normal.html"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "C++23: Removing garbage collection support",
       "https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection"
-    ]
-  ],
-  [
-    [
-      "2023-11-01, 14:21:05",
-      "https://lobste.rs/s/apmdud/your_irregular_status_update"
-    ],
-    [
-      "Your irregular status update: upstreaming, growing the team, and a funding situation update | Kent Overstreet",
-      "https://www.patreon.com/posts/your-irregular-89670830"
     ]
   ],
   [
