@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-11-01, 16:21:35",
-      "https://lobste.rs/s/96ai9n/getting_risc_v_again_milk_v_s_mars_cm"
-    ],
-    [
-      "Getting RISC-V (again): Milk-V's Mars CM",
-      "https://www.jeffgeerling.com/blog/2023/getting-risc-v-again-milk-vs-mars-cm"
-    ]
-  ],
-  [
-    [
       "2023-11-01, 15:42:28",
       "https://lobste.rs/s/gnv9ho/tracking_sqlite_database_changes_git"
     ],
@@ -117,6 +107,16 @@
     [
       "C++23: Removing garbage collection support",
       "https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection"
+    ]
+  ],
+  [
+    [
+      "2023-11-01, 14:21:05",
+      "https://lobste.rs/s/apmdud/your_irregular_status_update"
+    ],
+    [
+      "Your irregular status update: upstreaming, growing the team, and a funding situation update | Kent Overstreet",
+      "https://www.patreon.com/posts/your-irregular-89670830"
     ]
   ],
   [
