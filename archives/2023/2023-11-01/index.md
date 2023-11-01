@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 14:46:27](https://lobste.rs/s/wgxenj/polishing_syntax_for_stability_gleam_v0) - [Polishing syntax for stability – Gleam v0.32 released](https://gleam.run/news/v0.32-polishing-syntax-for-stability/)
 * [2023-11-01, 14:22:04](https://lobste.rs/s/coah5x/c_23_removing_garbage_collection_support) - [C++23: Removing garbage collection support](https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection)
 * [2023-11-01, 14:21:05](https://lobste.rs/s/apmdud/your_irregular_status_update) - [Your irregular status update: upstreaming, growing the team, and a funding situation update | Kent Overstreet](https://www.patreon.com/posts/your-irregular-89670830)
 * [2023-11-01, 12:47:37](https://lobste.rs/s/ntia7t/why_checked_exceptions_failed) - [Why Checked Exceptions Failed](https://borretti.me/article/why-checked-exceptions-failed)
