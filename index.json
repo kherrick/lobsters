@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-11-01, 18:02:40",
+      "https://lobste.rs/s/s5rdvi/dagorengine_used_for_warthunder_is_now"
+    ],
+    [
+      "DagorEngine used for Warthunder is now open source",
+      "https://github.com/GaijinEntertainment/DagorEngine"
+    ]
+  ],
+  [
+    [
+      "2023-11-01, 17:59:09",
+      "https://lobste.rs/s/tczboi/modern_c_how_about_contemporary_c"
+    ],
+    [
+      "Modern C++? How about Contemporary C++?",
+      "https://www.elbeno.com/blog/?p=1734"
+    ]
+  ],
+  [
+    [
+      "2023-11-01, 17:53:48",
+      "https://lobste.rs/s/ojpgjn/what_do_we_mean_by_foundations"
+    ],
+    [
+      "What do we mean by \"the foundations of mathematics\"?",
+      "https://lawrencecpaulson.github.io/2023/11/01/Foundations.html"
+    ]
+  ],
+  [
+    [
       "2023-11-01, 17:44:01",
       "https://lobste.rs/s/ralgvw/cosmopolitan_third_edition"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2023-11-01, 07:59:37",
-      "https://lobste.rs/s/ruj6wu/direct3d_12_support_qt_6_6"
-    ],
-    [
-      "Direct3D 12 Support in Qt 6.6",
-      "https://www.qt.io/blog/direct3d-12-support-in-qt-6.6"
-    ]
-  ],
-  [
-    [
       "2023-11-01, 07:57:45",
       "https://lobste.rs/s/jpwktu/how_bear_does_analytics_with_css"
     ],
@@ -217,26 +237,6 @@
     [
       "Youtube’s Anti-adblock and uBlock Origin",
       "https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin"
-    ]
-  ],
-  [
-    [
-      "2023-10-31, 16:44:06",
-      "https://lobste.rs/s/qg1sgi/progress_report_on_rustc_codegen"
-    ],
-    [
-      "Progress report on rustc_codegen_cranelift (Oct 2023)",
-      "https://bjorn3.github.io/2023/10/31/progress-report-oct-2023.html"
-    ]
-  ],
-  [
-    [
-      "2023-10-31, 16:43:15",
-      "https://lobste.rs/s/uzijal/color_gradients_my_gradual_descent_into"
-    ],
-    [
-      "Color gradients and my gradual descent into madness",
-      "https://typst.app/blog/2023/color-gradients"
     ]
   ],
   [
