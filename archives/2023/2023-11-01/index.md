@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 14:22:04](https://lobste.rs/s/coah5x/c_23_removing_garbage_collection_support) - [C++23: Removing garbage collection support](https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection)
+* [2023-11-01, 14:21:05](https://lobste.rs/s/apmdud/your_irregular_status_update) - [Your irregular status update: upstreaming, growing the team, and a funding situation update | Kent Overstreet](https://www.patreon.com/posts/your-irregular-89670830)
 * [2023-11-01, 12:47:37](https://lobste.rs/s/ntia7t/why_checked_exceptions_failed) - [Why Checked Exceptions Failed](https://borretti.me/article/why-checked-exceptions-failed)
 * [2023-11-01, 12:22:01](https://lobste.rs/s/zsrc32/hunting_spooky_ethernet_driver_bug) - [Hunting a spooky ethernet driver bug](https://www.mattkeeter.com/blog/2023-10-31-dma/)
 * [2023-11-01, 11:19:59](https://lobste.rs/s/qwnpzw/interrupts_is_threads) - [Interrupts is threads](https://onevariable.com/blog/interrupts-is-threads/)

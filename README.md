@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-01, 14:22:04](https://lobste.rs/s/coah5x/c_23_removing_garbage_collection_support) - [C++23: Removing garbage collection support](https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection)
+* [2023-11-01, 14:21:05](https://lobste.rs/s/apmdud/your_irregular_status_update) - [Your irregular status update: upstreaming, growing the team, and a funding situation update | Kent Overstreet](https://www.patreon.com/posts/your-irregular-89670830)
 * [2023-11-01, 12:47:37](https://lobste.rs/s/ntia7t/why_checked_exceptions_failed) - [Why Checked Exceptions Failed](https://borretti.me/article/why-checked-exceptions-failed)
 * [2023-11-01, 12:22:01](https://lobste.rs/s/zsrc32/hunting_spooky_ethernet_driver_bug) - [Hunting a spooky ethernet driver bug](https://www.mattkeeter.com/blog/2023-10-31-dma/)
 * [2023-11-01, 11:19:59](https://lobste.rs/s/qwnpzw/interrupts_is_threads) - [Interrupts is threads](https://onevariable.com/blog/interrupts-is-threads/)
@@ -13,7 +15,6 @@
 * [2023-10-31, 21:10:31](https://lobste.rs/s/x6fusz/down_right_firefox_got_faster_for_real) - [Down and to the Right: Firefox Got Faster for Real Users in 2023](https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/)
 * [2023-10-31, 20:33:46](https://lobste.rs/s/w35i2i/sequels_lights) - [Sequels And Lights](https://exple.tive.org/blarg/2023/10/31/sequels-and-lights/)
 * [2023-10-31, 20:32:26](https://lobste.rs/s/ssejw4/why_i_won_t_use_next_js) - [Why I Won't Use Next.js](https://www.epicweb.dev/why-i-wont-use-nextjs)
-* [2023-10-31, 18:29:03](https://lobste.rs/s/5xf09z/haskell_refactoring_step_through) - [Haskell Refactoring Step-Through](https://tech.freckle.com/2023/10/31/haskell-refactoring-step-through/)
 * [2023-10-31, 18:28:29](https://lobste.rs/s/tujt2o/do_not_use_requirements_txt) - [Do not use requirements.txt](https://quanttype.net/posts/2023-10-31-do-not-use-requirements.txt.html)
 * [2023-10-31, 18:25:31](https://lobste.rs/s/x8ilxm/reverse_engineering_ethernet_backoff_on) - [Reverse-engineering Ethernet backoff on the Intel 82586 network chip's die](http://www.righto.com/2023/10/reverse-engineering-ethernet-backoff-on.html)
 * [2023-10-31, 17:48:53](https://lobste.rs/s/55gcgy/attempting_use_bcachefs_unsuccessfully) - [Attempting to use bcachefs (unsuccessfully)](https://kevincox.ca/2023/06/10/bcachefs-attempt/)
@@ -23,7 +24,6 @@
 * [2023-10-31, 13:26:15](https://lobste.rs/s/6zsmyk/conway_game_life_lispe) - [Conway Game of Life in LispE](https://github.com/naver/lispe/wiki/6.20-Conway-Game-of-Life-in-LispE)
 * [2023-10-31, 12:01:36](https://lobste.rs/s/7pydqu/bcachefs_merged_into_linux_6_7_kernel) - [Bcachefs Merged Into The Linux 6.7 Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=9e87705289667a6c5185c619ea32f3d39314eb1b)
 * [2023-10-30, 20:18:30](https://lobste.rs/s/ubero5/how_beg_borrow_steal_your_way_cross) - [How to Beg/Borrow/Steal Your Way to a Cross Platform Bluetooth LE Library](https://nonpolynomial.com/2023/10/30/how-to-beg-borrow-steal-your-way-to-a-cross-platform-bluetooth-le-library/)
-* [2023-10-30, 19:10:34](https://lobste.rs/s/uersyg/most_ugly_trick_rust_language) - [The most ugly trick in Rust language](https://types.pl/@safinaskar/111325536022277867)
 * [2023-10-30, 13:50:19](https://lobste.rs/s/yu8tzj/my_user_experience_porting_off_setup_py) - [My User Experience Porting Off setup.py](https://gregoryszorc.com/blog/2023/10/30/my-user-experience-porting-off-setup.py/)
 
 ## [Archives](archives/index.md)
