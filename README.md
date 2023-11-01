@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-01, 17:44:01](https://lobste.rs/s/ralgvw/cosmopolitan_third_edition) - [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
 * [2023-11-01, 16:21:35](https://lobste.rs/s/96ai9n/getting_risc_v_again_milk_v_s_mars_cm) - [Getting RISC-V (again): Milk-V's Mars CM](https://www.jeffgeerling.com/blog/2023/getting-risc-v-again-milk-vs-mars-cm)
 * [2023-11-01, 15:42:28](https://lobste.rs/s/gnv9ho/tracking_sqlite_database_changes_git) - [Tracking SQLite Database Changes in Git](https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git)
 * [2023-11-01, 15:37:05](https://lobste.rs/s/dv3ive/clowns_left_me_jokers_right_2008) - [Clowns to the Left of me, Jokers to the Right (2008)](https://personal.cis.strath.ac.uk/conor.mcbride/Dissect.pdf)
@@ -19,7 +20,6 @@
 * [2023-10-31, 21:10:31](https://lobste.rs/s/x6fusz/down_right_firefox_got_faster_for_real) - [Down and to the Right: Firefox Got Faster for Real Users in 2023](https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/)
 * [2023-10-31, 20:32:26](https://lobste.rs/s/ssejw4/why_i_won_t_use_next_js) - [Why I Won't Use Next.js](https://www.epicweb.dev/why-i-wont-use-nextjs)
 * [2023-10-31, 18:28:29](https://lobste.rs/s/tujt2o/do_not_use_requirements_txt) - [Do not use requirements.txt](https://quanttype.net/posts/2023-10-31-do-not-use-requirements.txt.html)
-* [2023-10-31, 18:25:31](https://lobste.rs/s/x8ilxm/reverse_engineering_ethernet_backoff_on) - [Reverse-engineering Ethernet backoff on the Intel 82586 network chip's die](http://www.righto.com/2023/10/reverse-engineering-ethernet-backoff-on.html)
 * [2023-10-31, 17:48:53](https://lobste.rs/s/55gcgy/attempting_use_bcachefs_unsuccessfully) - [Attempting to use bcachefs (unsuccessfully)](https://kevincox.ca/2023/06/10/bcachefs-attempt/)
 * [2023-10-31, 17:13:22](https://lobste.rs/s/nkstky/youtube_s_anti_adblock_ublock_origin) - [Youtube’s Anti-adblock and uBlock Origin](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin)
 * [2023-10-31, 16:44:06](https://lobste.rs/s/qg1sgi/progress_report_on_rustc_codegen) - [Progress report on rustc_codegen_cranelift (Oct 2023)](https://bjorn3.github.io/2023/10/31/progress-report-oct-2023.html)
