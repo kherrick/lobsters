@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-01](index.md)
 
+* [2023-11-01, 23:29:10](https://lobste.rs/s/bu3bx0/can_collatz_conjecture_be_proven_not) - [Can the Collatz conjecture be proven, or not?](https://www.hansdieterhiep.nl/is-collatz-conjecture-now-proven/)
 * [2023-11-01, 21:16:50](https://lobste.rs/s/jnrciw/all_control) - [All Control](https://connolly.tech/posts/2023_10_28-all-control/)
 * [2023-11-01, 21:11:06](https://lobste.rs/s/cp6pp7/why_do_peephole_optimizations_work) - [Why Do Peephole Optimizations Work?](https://blog.regehr.org/archives/2485)
 * [2023-11-01, 20:40:11](https://lobste.rs/s/czlmyn/how_how_not_design_rest_apis) - [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs)

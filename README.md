@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-01, 23:29:10](https://lobste.rs/s/bu3bx0/can_collatz_conjecture_be_proven_not) - [Can the Collatz conjecture be proven, or not?](https://www.hansdieterhiep.nl/is-collatz-conjecture-now-proven/)
 * [2023-11-01, 21:16:50](https://lobste.rs/s/jnrciw/all_control) - [All Control](https://connolly.tech/posts/2023_10_28-all-control/)
 * [2023-11-01, 21:11:06](https://lobste.rs/s/cp6pp7/why_do_peephole_optimizations_work) - [Why Do Peephole Optimizations Work?](https://blog.regehr.org/archives/2485)
 * [2023-11-01, 20:40:11](https://lobste.rs/s/czlmyn/how_how_not_design_rest_apis) - [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs)
 * [2023-11-01, 18:58:03](https://lobste.rs/s/mo4epa/wrangling_monotonic_systems_tla) - [Wrangling monotonic systems in TLA+](https://ahelwer.ca/post/2023-11-01-tla-finite-monotonic/)
-* [2023-11-01, 17:59:09](https://lobste.rs/s/tczboi/modern_c_how_about_contemporary_c) - [Modern C++? How about Contemporary C++?](https://www.elbeno.com/blog/?p=1734)
 * [2023-11-01, 17:53:48](https://lobste.rs/s/ojpgjn/what_do_we_mean_by_foundations) - [What do we mean by \"the foundations of mathematics\"?](https://lawrencecpaulson.github.io/2023/11/01/Foundations.html)
 * [2023-11-01, 17:44:01](https://lobste.rs/s/ralgvw/cosmopolitan_third_edition) - [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
 * [2023-11-01, 16:21:35](https://lobste.rs/s/96ai9n/getting_risc_v_again_milk_v_s_mars_cm) - [Getting RISC-V (again): Milk-V's Mars CM](https://www.jeffgeerling.com/blog/2023/getting-risc-v-again-milk-vs-mars-cm)
