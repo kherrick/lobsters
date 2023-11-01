@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-01, 15:22:07",
+      "https://lobste.rs/s/xf5a9v/modern_pascal_is_still_race"
+    ],
+    [
+      "Modern Pascal is Still in the Race",
+      "https://blog.synopse.info/?post/2022/11/26/Modern-Pascal-is-Still-in-the-Race"
+    ]
+  ],
+  [
+    [
       "2023-11-01, 15:18:02",
       "https://lobste.rs/s/sup5nf/kotlin_multiplatform_is_stable"
     ],
@@ -37,16 +47,6 @@
     [
       "C++23: Removing garbage collection support",
       "https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection"
-    ]
-  ],
-  [
-    [
-      "2023-11-01, 14:21:05",
-      "https://lobste.rs/s/apmdud/your_irregular_status_update"
-    ],
-    [
-      "Your irregular status update: upstreaming, growing the team, and a funding situation update | Kent Overstreet",
-      "https://www.patreon.com/posts/your-irregular-89670830"
     ]
   ],
   [
@@ -137,6 +137,16 @@
     [
       "That time I wrote malware and got caught",
       "https://ntietz.com/blog/that-time-i-wrote-malware/"
+    ]
+  ],
+  [
+    [
+      "2023-11-01, 03:52:26",
+      "https://lobste.rs/s/bsaivq/typed_dataspace_actors"
+    ],
+    [
+      "Typed Dataspace Actors",
+      "https://youtu.be/4KXbY1T2neY"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Bcachefs Merged Into The Linux 6.7 Kernel",
       "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=9e87705289667a6c5185c619ea32f3d39314eb1b"
-    ]
-  ],
-  [
-    [
-      "2023-10-30, 20:18:30",
-      "https://lobste.rs/s/ubero5/how_beg_borrow_steal_your_way_cross"
-    ],
-    [
-      "How to Beg/Borrow/Steal Your Way to a Cross Platform Bluetooth LE Library",
-      "https://nonpolynomial.com/2023/10/30/how-to-beg-borrow-steal-your-way-to-a-cross-platform-bluetooth-le-library/"
     ]
   ]
 ]
