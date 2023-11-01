@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-01, 21:11:06](https://lobste.rs/s/cp6pp7/why_do_peephole_optimizations_work) - [Why Do Peephole Optimizations Work?](https://blog.regehr.org/archives/2485)
 * [2023-11-01, 20:40:11](https://lobste.rs/s/czlmyn/how_how_not_design_rest_apis) - [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs)
 * [2023-11-01, 20:36:08](https://lobste.rs/s/yibsgg/everybody_think_they_know_first_normal) - [Everybody think they know first normal form, but nobody does](https://www.dbdebunk.com/2023/10/everybody-think-they-know-first-normal.html)
 * [2023-11-01, 18:58:03](https://lobste.rs/s/mo4epa/wrangling_monotonic_systems_tla) - [Wrangling monotonic systems in TLA+](https://ahelwer.ca/post/2023-11-01-tla-finite-monotonic/)
 * [2023-11-01, 17:53:48](https://lobste.rs/s/ojpgjn/what_do_we_mean_by_foundations) - [What do we mean by \"the foundations of mathematics\"?](https://lawrencecpaulson.github.io/2023/11/01/Foundations.html)
 * [2023-11-01, 17:44:01](https://lobste.rs/s/ralgvw/cosmopolitan_third_edition) - [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
-* [2023-11-01, 16:21:35](https://lobste.rs/s/96ai9n/getting_risc_v_again_milk_v_s_mars_cm) - [Getting RISC-V (again): Milk-V's Mars CM](https://www.jeffgeerling.com/blog/2023/getting-risc-v-again-milk-vs-mars-cm)
 * [2023-11-01, 15:42:28](https://lobste.rs/s/gnv9ho/tracking_sqlite_database_changes_git) - [Tracking SQLite Database Changes in Git](https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git)
 * [2023-11-01, 15:37:05](https://lobste.rs/s/dv3ive/clowns_left_me_jokers_right_2008) - [Clowns to the Left of me, Jokers to the Right (2008)](https://personal.cis.strath.ac.uk/conor.mcbride/Dissect.pdf)
 * [2023-11-01, 15:22:07](https://lobste.rs/s/xf5a9v/modern_pascal_is_still_race) - [Modern Pascal is Still in the Race](https://blog.synopse.info/?post/2022/11/26/Modern-Pascal-is-Still-in-the-Race)
