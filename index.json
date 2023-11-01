@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-01, 14:59:45",
+      "https://lobste.rs/s/dqzyl2/control_flow_for_datalog"
+    ],
+    [
+      "Control flow for Datalog",
+      "https://www.mbid.me/posts/control-flow-for-datalog/"
+    ]
+  ],
+  [
+    [
       "2023-11-01, 14:46:27",
       "https://lobste.rs/s/wgxenj/polishing_syntax_for_stability_gleam_v0"
     ],
@@ -117,16 +127,6 @@
     [
       "That time I wrote malware and got caught",
       "https://ntietz.com/blog/that-time-i-wrote-malware/"
-    ]
-  ],
-  [
-    [
-      "2023-11-01, 03:52:26",
-      "https://lobste.rs/s/bsaivq/typed_dataspace_actors"
-    ],
-    [
-      "Typed Dataspace Actors",
-      "https://youtu.be/4KXbY1T2neY"
     ]
   ],
   [
