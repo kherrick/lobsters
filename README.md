@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-01, 06:35:43](https://lobste.rs/s/tywrrf/why_acpi) - [Why ACPI?](https://mjg59.dreamwidth.org/68350.html)
 * [2023-11-01, 05:25:52](https://lobste.rs/s/fgk0kc/noncopyable_generics) - [Noncopyable Generics](https://github.com/kavon/swift-evolution/blob/9b3f0789ba9624f0539434e503bbcc25a7f8ff8b/proposals/NNNN-noncopyable-generics.md)
 * [2023-11-01, 04:57:06](https://lobste.rs/s/alhsh6/raspberry_pi_os_upgrading_cross_grading) - [Raspberry PI OS: upgrading and cross-grading](https://k1024.org/posts/2023/2023-10-31-raspberry-pi-upgrade-crossgrade/)
 * [2023-11-01, 04:56:04](https://lobste.rs/s/zy1fbd/time_i_wrote_malware_got_caught) - [That time I wrote malware and got caught](https://ntietz.com/blog/that-time-i-wrote-malware/)
@@ -23,7 +24,6 @@
 * [2023-10-30, 19:20:32](https://lobste.rs/s/fatkxl/apple_event_for_october_30th_2023) - [Apple Event for October 30th, 2023](https://www.apple.com/apple-events/)
 * [2023-10-30, 19:10:34](https://lobste.rs/s/uersyg/most_ugly_trick_rust_language) - [The most ugly trick in Rust language](https://types.pl/@safinaskar/111325536022277867)
 * [2023-10-30, 18:08:47](https://lobste.rs/s/retfuv/databases_are_not_compilers) - [Databases are not Compilers](https://buttondown.email/jaffray/archive/databases-are-not-compilers/)
-* [2023-10-30, 15:43:19](https://lobste.rs/s/iccwdr/elixir_phoenix_can_do_it_all) - [Elixir and Phoenix can do it all](https://fly.io/phoenix-files/elixir-and-phoenix-can-do-it-all/)
 * [2023-10-30, 13:50:19](https://lobste.rs/s/yu8tzj/my_user_experience_porting_off_setup_py) - [My User Experience Porting Off setup.py](https://gregoryszorc.com/blog/2023/10/30/my-user-experience-porting-off-setup.py/)
 
 ## [Archives](archives/index.md)
