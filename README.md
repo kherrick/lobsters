@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-01, 03:52:26](https://lobste.rs/s/bsaivq/typed_dataspace_actors) - [Typed Dataspace Actors](https://youtu.be/4KXbY1T2neY)
 * [2023-10-31, 21:10:31](https://lobste.rs/s/x6fusz/down_right_firefox_got_faster_for_real) - [Down and to the Right: Firefox Got Faster for Real Users in 2023](https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/)
 * [2023-10-31, 21:07:43](https://lobste.rs/s/d7yuru/streamdal_open_source_tail_f_for_your_data) - [Streamdal: An Open-source tail -f for Your Data](https://github.com/streamdal/streamdal)
 * [2023-10-31, 20:33:46](https://lobste.rs/s/w35i2i/sequels_lights) - [Sequels And Lights](https://exple.tive.org/blarg/2023/10/31/sequels-and-lights/)
@@ -16,7 +17,6 @@
 * [2023-10-31, 12:01:36](https://lobste.rs/s/7pydqu/bcachefs_merged_into_linux_6_7_kernel) - [Bcachefs Merged Into The Linux 6.7 Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=9e87705289667a6c5185c619ea32f3d39314eb1b)
 * [2023-10-31, 11:33:39](https://lobste.rs/s/zht3p3/makesure_v0_9_21_what_s_new) - [makesure v0.9.21 – what’s new?](https://maximullaris.com/revamp_define.html)
 * [2023-10-31, 10:27:35](https://lobste.rs/s/drssqp/kiteticker_async_async_client_for_kite) - [kiteticker-async: Async client for the Kite Connect WebSocket API](https://github.com/kaychaks/kiteticker-async)
-* [2023-10-31, 03:43:47](https://lobste.rs/s/eb8gfy/executive_order_on_safe_secure) - [Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
 * [2023-10-30, 22:34:16](https://lobste.rs/s/jd4ivm/through_ages_apple_cpu_architecture) - [Through the Ages: Apple CPU Architecture](https://jacobbartlett.substack.com/p/through-the-ages-apple-cpu-architecture)
 * [2023-10-30, 20:18:30](https://lobste.rs/s/ubero5/how_beg_borrow_steal_your_way_cross) - [How to Beg/Borrow/Steal Your Way to a Cross Platform Bluetooth LE Library](https://nonpolynomial.com/2023/10/30/how-to-beg-borrow-steal-your-way-to-a-cross-platform-bluetooth-le-library/)
 * [2023-10-30, 19:20:32](https://lobste.rs/s/fatkxl/apple_event_for_october_30th_2023) - [Apple Event for October 30th, 2023](https://www.apple.com/apple-events/)
