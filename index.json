@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-02, 12:22:25",
+      "https://lobste.rs/s/w5pg9q/who_invented_file_extensions_file_names"
+    ],
+    [
+      "Who invented file extensions in file names?",
+      "https://retrocomputing.stackexchange.com/q/27926/28593"
+    ]
+  ],
+  [
+    [
+      "2023-11-02, 12:17:22",
+      "https://lobste.rs/s/7e8cp7/garn_typescript_based_nix_frontend"
+    ],
+    [
+      "garn: a TypeScript-based Nix frontend",
+      "https://garnix.io/blog/announcing-garn"
+    ]
+  ],
+  [
+    [
       "2023-11-02, 11:55:39",
       "https://lobste.rs/s/jh76wu/platform_takes_pain_inside_story_spotify"
     ],
@@ -27,16 +47,6 @@
     [
       "Secret EU law threatens Internet security",
       "https://last-chance-for-eidas.org/"
-    ]
-  ],
-  [
-    [
-      "2023-11-02, 07:18:57",
-      "https://lobste.rs/s/tyqvku/entropy_decoding_oodle_data_x86_64_6"
-    ],
-    [
-      "Entropy decoding in Oodle Data: x86-64 6-stream Huffman decoders",
-      "https://fgiesen.wordpress.com/2023/10/29/entropy-decoding-in-oodle-data-x86-64-6-stream-huffman-decoders/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Modern Pascal is Still in the Race",
       "https://blog.synopse.info/?post/2022/11/26/Modern-Pascal-is-Still-in-the-Race"
-    ]
-  ],
-  [
-    [
-      "2023-11-01, 15:18:02",
-      "https://lobste.rs/s/sup5nf/kotlin_multiplatform_is_stable"
-    ],
-    [
-      "Kotlin Multiplatform Is Stable and Production-Ready",
-      "https://blog.jetbrains.com/kotlin/2023/11/kotlin-multiplatform-stable/"
     ]
   ],
   [
