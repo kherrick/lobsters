@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-02](index.md)
 
+* [2023-11-02, 10:10:05](https://lobste.rs/s/rbst9x/panic_50_small_prank_programs_for_kids) - [PANIC: 50 small prank programs for kids and adults](https://punkx.org/panic)
 * [2023-11-02, 08:47:05](https://lobste.rs/s/xacdsk/secret_eu_law_threatens_internet) - [Secret EU law threatens Internet security](https://last-chance-for-eidas.org/)
 * [2023-11-02, 07:18:57](https://lobste.rs/s/tyqvku/entropy_decoding_oodle_data_x86_64_6) - [Entropy decoding in Oodle Data: x86-64 6-stream Huffman decoders](https://fgiesen.wordpress.com/2023/10/29/entropy-decoding-in-oodle-data-x86-64-6-stream-huffman-decoders/)
 * [2023-11-02, 05:47:16](https://lobste.rs/s/fmbpjd/people_do_change_what_particular_version) - [People do change what a particular version is of a Go module](https://utcc.utoronto.ca/~cks/space/blog/programming/GoPeopleRedoModuleVersions)

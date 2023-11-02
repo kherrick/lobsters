@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-02, 10:10:05](https://lobste.rs/s/rbst9x/panic_50_small_prank_programs_for_kids) - [PANIC: 50 small prank programs for kids and adults](https://punkx.org/panic)
 * [2023-11-02, 08:47:05](https://lobste.rs/s/xacdsk/secret_eu_law_threatens_internet) - [Secret EU law threatens Internet security](https://last-chance-for-eidas.org/)
 * [2023-11-02, 07:18:57](https://lobste.rs/s/tyqvku/entropy_decoding_oodle_data_x86_64_6) - [Entropy decoding in Oodle Data: x86-64 6-stream Huffman decoders](https://fgiesen.wordpress.com/2023/10/29/entropy-decoding-in-oodle-data-x86-64-6-stream-huffman-decoders/)
 * [2023-11-02, 05:47:16](https://lobste.rs/s/fmbpjd/people_do_change_what_particular_version) - [People do change what a particular version is of a Go module](https://utcc.utoronto.ca/~cks/space/blog/programming/GoPeopleRedoModuleVersions)
@@ -23,7 +24,6 @@
 * [2023-11-01, 07:57:45](https://lobste.rs/s/jpwktu/how_bear_does_analytics_with_css) - [How Bear does analytics with CSS](https://herman.bearblog.dev/how-bear-does-analytics-with-css/)
 * [2023-11-01, 06:35:43](https://lobste.rs/s/tywrrf/why_acpi) - [Why ACPI?](https://mjg59.dreamwidth.org/68350.html)
 * [2023-11-01, 04:56:04](https://lobste.rs/s/zy1fbd/time_i_wrote_malware_got_caught) - [That time I wrote malware and got caught](https://ntietz.com/blog/that-time-i-wrote-malware/)
-* [2023-10-31, 21:10:31](https://lobste.rs/s/x6fusz/down_right_firefox_got_faster_for_real) - [Down and to the Right: Firefox Got Faster for Real Users in 2023](https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/)
 * [2023-10-31, 17:13:22](https://lobste.rs/s/nkstky/youtube_s_anti_adblock_ublock_origin) - [Youtube’s Anti-adblock and uBlock Origin](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin)
 
 ## [Archives](archives/index.md)
