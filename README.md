@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-02, 03:06:00](https://lobste.rs/s/yhhcss/official_release_cvss_v4_0) - [Official release of CVSS v4.0](https://infosec.exchange/@firstdotorg/111336457504674343)
 * [2023-11-02, 02:43:05](https://lobste.rs/s/gkio69/heart_spritely_distributed_objects) - [The Heart of Spritely: Distributed Objects and Capability Security](https://spritely.institute/static/papers/spritely-core.html)
 * [2023-11-02, 02:41:38](https://lobste.rs/s/uqymnh/program_structure_tree_computing) - [The Program Structure Tree:  Computing Control Regions in Linear Time](https://iss.oden.utexas.edu/Publications/Papers/PLDI1994.pdf)
 * [2023-11-02, 02:09:54](https://lobste.rs/s/fjhpwp/my_useful_shell_functions) - [My Useful Shell Functions](https://muhammadraza.me/2023/shell-functions/)
@@ -22,7 +23,6 @@
 * [2023-11-01, 06:35:43](https://lobste.rs/s/tywrrf/why_acpi) - [Why ACPI?](https://mjg59.dreamwidth.org/68350.html)
 * [2023-11-01, 04:56:04](https://lobste.rs/s/zy1fbd/time_i_wrote_malware_got_caught) - [That time I wrote malware and got caught](https://ntietz.com/blog/that-time-i-wrote-malware/)
 * [2023-10-31, 21:10:31](https://lobste.rs/s/x6fusz/down_right_firefox_got_faster_for_real) - [Down and to the Right: Firefox Got Faster for Real Users in 2023](https://hacks.mozilla.org/2023/10/down-and-to-the-right-firefox-got-faster-for-real-users-in-2023/)
-* [2023-10-31, 18:28:29](https://lobste.rs/s/tujt2o/do_not_use_requirements_txt) - [Do not use requirements.txt](https://quanttype.net/posts/2023-10-31-do-not-use-requirements.txt.html)
 * [2023-10-31, 17:13:22](https://lobste.rs/s/nkstky/youtube_s_anti_adblock_ublock_origin) - [Youtube’s Anti-adblock and uBlock Origin](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin)
 * [2023-10-31, 12:01:36](https://lobste.rs/s/7pydqu/bcachefs_merged_into_linux_6_7_kernel) - [Bcachefs Merged Into The Linux 6.7 Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=9e87705289667a6c5185c619ea32f3d39314eb1b)
 
