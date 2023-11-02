@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-02, 14:33:58",
+      "https://lobste.rs/s/h9bbhz/nota_message_format"
+    ],
+    [
+      "Nota Message Format",
+      "https://www.crockford.com/nota.html"
+    ]
+  ],
+  [
+    [
       "2023-11-02, 14:20:09",
       "https://lobste.rs/s/st3mbl/confusing_git_terminology"
     ],
@@ -67,16 +77,6 @@
     [
       "Secret EU law threatens Internet security",
       "https://last-chance-for-eidas.org/"
-    ]
-  ],
-  [
-    [
-      "2023-11-02, 07:18:57",
-      "https://lobste.rs/s/tyqvku/entropy_decoding_oodle_data_x86_64_6"
-    ],
-    [
-      "Entropy decoding in Oodle Data: x86-64 6-stream Huffman decoders",
-      "https://fgiesen.wordpress.com/2023/10/29/entropy-decoding-in-oodle-data-x86-64-6-stream-huffman-decoders/"
     ]
   ],
   [
