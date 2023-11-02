@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-02](index.md)
 
+* [2023-11-02, 18:49:16](https://lobste.rs/s/lrneqv/arch_remove_itanium_ia_64_architecture) - [arch: Remove Itanium (IA-64) architecture](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=cf8e8658100d4eae80ce9b21f7a81cb024dd5057)
 * [2023-11-02, 18:21:32](https://lobste.rs/s/vnefdo/machine_learning_guis_at_scale) - [Machine learning of GUIs at scale](https://austinhenley.com/blog/machinelearningguis.html)
 * [2023-11-02, 16:57:07](https://lobste.rs/s/qyzhq4/c_with_nix_2023_part_1_developer_shells) - [C++ with Nix in 2023, Part 1: Developer Shells](https://nixcademy.com/2023/10/31/cpp-with-nix-in-2023-part-1-shell/)
 * [2023-11-02, 16:22:00](https://lobste.rs/s/jqzm76/november_2023_freebsd_vendor_summit) - [November 2023 FreeBSD Vendor Summit](https://freebsdfoundation.org/news-and-events/event-calendar/november-2023-freebsd-vendor-summit/)
