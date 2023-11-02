@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-02](index.md)
 
+* [2023-11-02, 12:56:38](https://lobste.rs/s/0wy0hs/blinded_by_light_dom) - [Blinded By the Light DOM](https://meyerweb.com/eric/thoughts/2023/11/01/blinded-by-the-light-dom/)
 * [2023-11-02, 12:22:25](https://lobste.rs/s/w5pg9q/who_invented_file_extensions_file_names) - [Who invented file extensions in file names?](https://retrocomputing.stackexchange.com/q/27926/28593)
 * [2023-11-02, 12:17:22](https://lobste.rs/s/7e8cp7/garn_typescript_based_nix_frontend) - [garn: a TypeScript-based Nix frontend](https://garnix.io/blog/announcing-garn)
 * [2023-11-02, 11:55:39](https://lobste.rs/s/jh76wu/platform_takes_pain_inside_story_spotify) - [Platform Takes The Pain - The Inside Story of Spotify's Engineering Growth](https://corecursive.com/platform-takes-the-pain/)
