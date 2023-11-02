@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-11-02, 16:57:07",
+      "https://lobste.rs/s/qyzhq4/c_with_nix_2023_part_1_developer_shells"
+    ],
+    [
+      "C++ with Nix in 2023, Part 1: Developer Shells",
+      "https://nixcademy.com/2023/10/31/cpp-with-nix-in-2023-part-1-shell/"
+    ]
+  ],
+  [
+    [
       "2023-11-02, 16:22:00",
       "https://lobste.rs/s/jqzm76/november_2023_freebsd_vendor_summit"
     ],
@@ -197,16 +207,6 @@
     [
       "How to (and how not to) design REST APIs",
       "https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs"
-    ]
-  ],
-  [
-    [
-      "2023-11-01, 18:58:03",
-      "https://lobste.rs/s/mo4epa/wrangling_monotonic_systems_tla"
-    ],
-    [
-      "Wrangling monotonic systems in TLA+",
-      "https://ahelwer.ca/post/2023-11-01-tla-finite-monotonic/"
     ]
   ],
   [
