@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-02, 02:43:05",
+      "https://lobste.rs/s/gkio69/heart_spritely_distributed_objects"
+    ],
+    [
+      "The Heart of Spritely: Distributed Objects and Capability Security",
+      "https://spritely.institute/static/papers/spritely-core.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-02, 02:41:38",
+      "https://lobste.rs/s/uqymnh/program_structure_tree_computing"
+    ],
+    [
+      "The Program Structure Tree:  Computing Control Regions in Linear Time",
+      "https://iss.oden.utexas.edu/Publications/Papers/PLDI1994.pdf"
+    ]
+  ],
+  [
+    [
       "2023-11-02, 02:09:54",
       "https://lobste.rs/s/fjhpwp/my_useful_shell_functions"
     ],
@@ -31,26 +51,6 @@
   ],
   [
     [
-      "2023-11-01, 21:16:50",
-      "https://lobste.rs/s/jnrciw/all_control"
-    ],
-    [
-      "All Control",
-      "https://connolly.tech/posts/2023_10_28-all-control/"
-    ]
-  ],
-  [
-    [
-      "2023-11-01, 21:11:06",
-      "https://lobste.rs/s/cp6pp7/why_do_peephole_optimizations_work"
-    ],
-    [
-      "Why Do Peephole Optimizations Work?",
-      "https://blog.regehr.org/archives/2485"
-    ]
-  ],
-  [
-    [
       "2023-11-01, 20:40:11",
       "https://lobste.rs/s/czlmyn/how_how_not_design_rest_apis"
     ],
@@ -67,6 +67,16 @@
     [
       "Wrangling monotonic systems in TLA+",
       "https://ahelwer.ca/post/2023-11-01-tla-finite-monotonic/"
+    ]
+  ],
+  [
+    [
+      "2023-11-01, 17:59:09",
+      "https://lobste.rs/s/tczboi/modern_c_how_about_contemporary_c"
+    ],
+    [
+      "Modern C++? How about Contemporary C++?",
+      "https://www.elbeno.com/blog/?p=1734"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Why Checked Exceptions Failed",
       "https://borretti.me/article/why-checked-exceptions-failed"
-    ]
-  ],
-  [
-    [
-      "2023-11-01, 12:22:01",
-      "https://lobste.rs/s/zsrc32/hunting_spooky_ethernet_driver_bug"
-    ],
-    [
-      "Hunting a spooky ethernet driver bug",
-      "https://www.mattkeeter.com/blog/2023-10-31-dma/"
     ]
   ],
   [
