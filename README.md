@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-02, 00:28:12](https://lobste.rs/s/0i0hhy/writing_storage_engine_for_postgres) - [Writing a storage engine for Postgres: an in-memory Table Access Method](https://notes.eatonphil.com/2023-11-01-postgres-table-access-methods.html)
 * [2023-11-01, 23:29:10](https://lobste.rs/s/bu3bx0/can_collatz_conjecture_be_proven_not) - [Can the Collatz conjecture be proven, or not?](https://www.hansdieterhiep.nl/is-collatz-conjecture-now-proven/)
 * [2023-11-01, 21:16:50](https://lobste.rs/s/jnrciw/all_control) - [All Control](https://connolly.tech/posts/2023_10_28-all-control/)
 * [2023-11-01, 21:11:06](https://lobste.rs/s/cp6pp7/why_do_peephole_optimizations_work) - [Why Do Peephole Optimizations Work?](https://blog.regehr.org/archives/2485)
@@ -9,7 +10,6 @@
 * [2023-11-01, 17:44:01](https://lobste.rs/s/ralgvw/cosmopolitan_third_edition) - [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
 * [2023-11-01, 16:21:35](https://lobste.rs/s/96ai9n/getting_risc_v_again_milk_v_s_mars_cm) - [Getting RISC-V (again): Milk-V's Mars CM](https://www.jeffgeerling.com/blog/2023/getting-risc-v-again-milk-vs-mars-cm)
 * [2023-11-01, 15:42:28](https://lobste.rs/s/gnv9ho/tracking_sqlite_database_changes_git) - [Tracking SQLite Database Changes in Git](https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git)
-* [2023-11-01, 15:37:05](https://lobste.rs/s/dv3ive/clowns_left_me_jokers_right_2008) - [Clowns to the Left of me, Jokers to the Right (2008)](https://personal.cis.strath.ac.uk/conor.mcbride/Dissect.pdf)
 * [2023-11-01, 15:22:07](https://lobste.rs/s/xf5a9v/modern_pascal_is_still_race) - [Modern Pascal is Still in the Race](https://blog.synopse.info/?post/2022/11/26/Modern-Pascal-is-Still-in-the-Race)
 * [2023-11-01, 15:18:02](https://lobste.rs/s/sup5nf/kotlin_multiplatform_is_stable) - [Kotlin Multiplatform Is Stable and Production-Ready](https://blog.jetbrains.com/kotlin/2023/11/kotlin-multiplatform-stable/)
 * [2023-11-01, 14:59:45](https://lobste.rs/s/dqzyl2/control_flow_for_datalog) - [Control flow for Datalog](https://www.mbid.me/posts/control-flow-for-datalog/)
