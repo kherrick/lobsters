@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-02, 16:22:00",
+      "https://lobste.rs/s/jqzm76/november_2023_freebsd_vendor_summit"
+    ],
+    [
+      "November 2023 FreeBSD Vendor Summit",
+      "https://freebsdfoundation.org/news-and-events/event-calendar/november-2023-freebsd-vendor-summit/"
+    ]
+  ],
+  [
+    [
+      "2023-11-02, 16:21:31",
+      "https://lobste.rs/s/qcohfn/observation_on_programming_pedagogy"
+    ],
+    [
+      "An Observation on Programming Pedagogy",
+      "https://v5.chriskrycho.com/journal/an-observation-on-programming-pedagogy/"
+    ]
+  ],
+  [
+    [
       "2023-11-02, 14:40:55",
       "https://lobste.rs/s/r8vitn/misty_programing_language_from_creator"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-11-01, 14:22:04",
-      "https://lobste.rs/s/coah5x/c_23_removing_garbage_collection_support"
-    ],
-    [
-      "C++23: Removing garbage collection support",
-      "https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection"
-    ]
-  ],
-  [
-    [
       "2023-11-01, 12:47:37",
       "https://lobste.rs/s/ntia7t/why_checked_exceptions_failed"
     ],
@@ -237,16 +247,6 @@
     [
       "That time I wrote malware and got caught",
       "https://ntietz.com/blog/that-time-i-wrote-malware/"
-    ]
-  ],
-  [
-    [
-      "2023-10-31, 17:13:22",
-      "https://lobste.rs/s/nkstky/youtube_s_anti_adblock_ublock_origin"
-    ],
-    [
-      "Youtube’s Anti-adblock and uBlock Origin",
-      "https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin"
     ]
   ]
 ]
