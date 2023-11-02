@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-11-02, 11:55:39",
-      "https://lobste.rs/s/jh76wu/platform_takes_pain_inside_story_spotify"
-    ],
-    [
-      "Platform Takes The Pain - The Inside Story of Spotify's Engineering Growth",
-      "https://corecursive.com/platform-takes-the-pain/"
-    ]
-  ],
-  [
-    [
       "2023-11-02, 10:10:05",
       "https://lobste.rs/s/rbst9x/panic_50_small_prank_programs_for_kids"
     ],
@@ -217,6 +207,16 @@
     [
       "Polishing syntax for stability – Gleam v0.32 released",
       "https://gleam.run/news/v0.32-polishing-syntax-for-stability/"
+    ]
+  ],
+  [
+    [
+      "2023-11-01, 14:22:04",
+      "https://lobste.rs/s/coah5x/c_23_removing_garbage_collection_support"
+    ],
+    [
+      "C++23: Removing garbage collection support",
+      "https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection"
     ]
   ],
   [
