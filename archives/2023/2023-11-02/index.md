@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-02](index.md)
 
+* [2023-11-02, 16:57:07](https://lobste.rs/s/qyzhq4/c_with_nix_2023_part_1_developer_shells) - [C++ with Nix in 2023, Part 1: Developer Shells](https://nixcademy.com/2023/10/31/cpp-with-nix-in-2023-part-1-shell/)
 * [2023-11-02, 16:22:00](https://lobste.rs/s/jqzm76/november_2023_freebsd_vendor_summit) - [November 2023 FreeBSD Vendor Summit](https://freebsdfoundation.org/news-and-events/event-calendar/november-2023-freebsd-vendor-summit/)
 * [2023-11-02, 16:21:31](https://lobste.rs/s/qcohfn/observation_on_programming_pedagogy) - [An Observation on Programming Pedagogy](https://v5.chriskrycho.com/journal/an-observation-on-programming-pedagogy/)
 * [2023-11-02, 14:40:55](https://lobste.rs/s/r8vitn/misty_programing_language_from_creator) - [Misty: Programing language from the creator of JSON](https://www.crockford.com/misty/)
