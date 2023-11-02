@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-02, 14:40:55](https://lobste.rs/s/r8vitn/misty_programing_language_from_creator) - [Misty: Programing language from the creator of JSON](https://www.crockford.com/misty/)
 * [2023-11-02, 14:33:58](https://lobste.rs/s/h9bbhz/nota_message_format) - [Nota Message Format](https://www.crockford.com/nota.html)
 * [2023-11-02, 14:20:09](https://lobste.rs/s/st3mbl/confusing_git_terminology) - [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/)
 * [2023-11-02, 12:56:38](https://lobste.rs/s/0wy0hs/blinded_by_light_dom) - [Blinded By the Light DOM](https://meyerweb.com/eric/thoughts/2023/11/01/blinded-by-the-light-dom/)
@@ -22,7 +23,6 @@
 * [2023-11-01, 15:22:07](https://lobste.rs/s/xf5a9v/modern_pascal_is_still_race) - [Modern Pascal is Still in the Race](https://blog.synopse.info/?post/2022/11/26/Modern-Pascal-is-Still-in-the-Race)
 * [2023-11-01, 14:46:27](https://lobste.rs/s/wgxenj/polishing_syntax_for_stability_gleam_v0) - [Polishing syntax for stability – Gleam v0.32 released](https://gleam.run/news/v0.32-polishing-syntax-for-stability/)
 * [2023-11-01, 12:47:37](https://lobste.rs/s/ntia7t/why_checked_exceptions_failed) - [Why Checked Exceptions Failed](https://borretti.me/article/why-checked-exceptions-failed)
-* [2023-11-01, 07:57:45](https://lobste.rs/s/jpwktu/how_bear_does_analytics_with_css) - [How Bear does analytics with CSS](https://herman.bearblog.dev/how-bear-does-analytics-with-css/)
 * [2023-11-01, 04:56:04](https://lobste.rs/s/zy1fbd/time_i_wrote_malware_got_caught) - [That time I wrote malware and got caught](https://ntietz.com/blog/that-time-i-wrote-malware/)
 * [2023-10-31, 17:13:22](https://lobste.rs/s/nkstky/youtube_s_anti_adblock_ublock_origin) - [Youtube’s Anti-adblock and uBlock Origin](https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin)
 
