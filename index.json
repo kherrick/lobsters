@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-02, 14:20:09",
+      "https://lobste.rs/s/st3mbl/confusing_git_terminology"
+    ],
+    [
+      "Confusing git terminology",
+      "https://jvns.ca/blog/2023/11/01/confusing-git-terminology/"
+    ]
+  ],
+  [
+    [
       "2023-11-02, 12:56:38",
       "https://lobste.rs/s/0wy0hs/blinded_by_light_dom"
     ],
@@ -57,6 +67,16 @@
     [
       "Secret EU law threatens Internet security",
       "https://last-chance-for-eidas.org/"
+    ]
+  ],
+  [
+    [
+      "2023-11-02, 07:18:57",
+      "https://lobste.rs/s/tyqvku/entropy_decoding_oodle_data_x86_64_6"
+    ],
+    [
+      "Entropy decoding in Oodle Data: x86-64 6-stream Huffman decoders",
+      "https://fgiesen.wordpress.com/2023/10/29/entropy-decoding-in-oodle-data-x86-64-6-stream-huffman-decoders/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-11-01, 14:22:04",
-      "https://lobste.rs/s/coah5x/c_23_removing_garbage_collection_support"
-    ],
-    [
-      "C++23: Removing garbage collection support",
-      "https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection"
-    ]
-  ],
-  [
-    [
       "2023-11-01, 12:47:37",
       "https://lobste.rs/s/ntia7t/why_checked_exceptions_failed"
     ],
@@ -217,16 +227,6 @@
     [
       "How Bear does analytics with CSS",
       "https://herman.bearblog.dev/how-bear-does-analytics-with-css/"
-    ]
-  ],
-  [
-    [
-      "2023-11-01, 06:35:43",
-      "https://lobste.rs/s/tywrrf/why_acpi"
-    ],
-    [
-      "Why ACPI?",
-      "https://mjg59.dreamwidth.org/68350.html"
     ]
   ],
   [
