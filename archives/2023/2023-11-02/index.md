@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-02](index.md)
 
+* [2023-11-02, 14:33:58](https://lobste.rs/s/h9bbhz/nota_message_format) - [Nota Message Format](https://www.crockford.com/nota.html)
 * [2023-11-02, 14:20:09](https://lobste.rs/s/st3mbl/confusing_git_terminology) - [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/)
 * [2023-11-02, 12:56:38](https://lobste.rs/s/0wy0hs/blinded_by_light_dom) - [Blinded By the Light DOM](https://meyerweb.com/eric/thoughts/2023/11/01/blinded-by-the-light-dom/)
 * [2023-11-02, 12:22:25](https://lobste.rs/s/w5pg9q/who_invented_file_extensions_file_names) - [Who invented file extensions in file names?](https://retrocomputing.stackexchange.com/q/27926/28593)

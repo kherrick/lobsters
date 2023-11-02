@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-02, 14:33:58](https://lobste.rs/s/h9bbhz/nota_message_format) - [Nota Message Format](https://www.crockford.com/nota.html)
 * [2023-11-02, 14:20:09](https://lobste.rs/s/st3mbl/confusing_git_terminology) - [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/)
 * [2023-11-02, 12:56:38](https://lobste.rs/s/0wy0hs/blinded_by_light_dom) - [Blinded By the Light DOM](https://meyerweb.com/eric/thoughts/2023/11/01/blinded-by-the-light-dom/)
 * [2023-11-02, 12:22:25](https://lobste.rs/s/w5pg9q/who_invented_file_extensions_file_names) - [Who invented file extensions in file names?](https://retrocomputing.stackexchange.com/q/27926/28593)
@@ -7,7 +8,6 @@
 * [2023-11-02, 11:55:39](https://lobste.rs/s/jh76wu/platform_takes_pain_inside_story_spotify) - [Platform Takes The Pain - The Inside Story of Spotify's Engineering Growth](https://corecursive.com/platform-takes-the-pain/)
 * [2023-11-02, 10:10:05](https://lobste.rs/s/rbst9x/panic_50_small_prank_programs_for_kids) - [PANIC: 50 small prank programs for kids and adults](https://punkx.org/panic)
 * [2023-11-02, 08:47:05](https://lobste.rs/s/xacdsk/secret_eu_law_threatens_internet) - [Secret EU law threatens Internet security](https://last-chance-for-eidas.org/)
-* [2023-11-02, 07:18:57](https://lobste.rs/s/tyqvku/entropy_decoding_oodle_data_x86_64_6) - [Entropy decoding in Oodle Data: x86-64 6-stream Huffman decoders](https://fgiesen.wordpress.com/2023/10/29/entropy-decoding-in-oodle-data-x86-64-6-stream-huffman-decoders/)
 * [2023-11-02, 05:47:16](https://lobste.rs/s/fmbpjd/people_do_change_what_particular_version) - [People do change what a particular version is of a Go module](https://utcc.utoronto.ca/~cks/space/blog/programming/GoPeopleRedoModuleVersions)
 * [2023-11-02, 02:43:05](https://lobste.rs/s/gkio69/heart_spritely_distributed_objects) - [The Heart of Spritely: Distributed Objects and Capability Security](https://spritely.institute/static/papers/spritely-core.html)
 * [2023-11-02, 02:09:54](https://lobste.rs/s/fjhpwp/my_useful_shell_functions) - [My Useful Shell Functions](https://muhammadraza.me/2023/shell-functions/)
