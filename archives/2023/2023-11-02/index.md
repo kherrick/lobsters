@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-02](index.md)
 
+* [2023-11-02, 19:37:38](https://lobste.rs/s/7xzqo1/benchmarking_machine_learning) - [Benchmarking machine learning frameworks](https://www.collabora.com/news-and-blog/news-and-events/benchmarking-machine-learning-frameworks.html)
 * [2023-11-02, 18:55:51](https://lobste.rs/s/sk7ubq/finch_open_source_tool_for_local) - [Finch: An open source tool for local container development](https://runfinch.com/)
 * [2023-11-02, 18:49:16](https://lobste.rs/s/lrneqv/arch_remove_itanium_ia_64_architecture) - [arch: Remove Itanium (IA-64) architecture](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=cf8e8658100d4eae80ce9b21f7a81cb024dd5057)
 * [2023-11-02, 18:21:32](https://lobste.rs/s/vnefdo/machine_learning_guis_at_scale) - [Machine learning of GUIs at scale](https://austinhenley.com/blog/machinelearningguis.html)

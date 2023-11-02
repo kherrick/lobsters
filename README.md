@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-02, 19:37:38](https://lobste.rs/s/7xzqo1/benchmarking_machine_learning) - [Benchmarking machine learning frameworks](https://www.collabora.com/news-and-blog/news-and-events/benchmarking-machine-learning-frameworks.html)
 * [2023-11-02, 18:55:51](https://lobste.rs/s/sk7ubq/finch_open_source_tool_for_local) - [Finch: An open source tool for local container development](https://runfinch.com/)
 * [2023-11-02, 18:49:16](https://lobste.rs/s/lrneqv/arch_remove_itanium_ia_64_architecture) - [arch: Remove Itanium (IA-64) architecture](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=cf8e8658100d4eae80ce9b21f7a81cb024dd5057)
 * [2023-11-02, 18:21:32](https://lobste.rs/s/vnefdo/machine_learning_guis_at_scale) - [Machine learning of GUIs at scale](https://austinhenley.com/blog/machinelearningguis.html)
-* [2023-11-02, 16:57:07](https://lobste.rs/s/qyzhq4/c_with_nix_2023_part_1_developer_shells) - [C++ with Nix in 2023, Part 1: Developer Shells](https://nixcademy.com/2023/10/31/cpp-with-nix-in-2023-part-1-shell/)
 * [2023-11-02, 16:22:00](https://lobste.rs/s/jqzm76/november_2023_freebsd_vendor_summit) - [November 2023 FreeBSD Vendor Summit](https://freebsdfoundation.org/news-and-events/event-calendar/november-2023-freebsd-vendor-summit/)
 * [2023-11-02, 16:21:31](https://lobste.rs/s/qcohfn/observation_on_programming_pedagogy) - [An Observation on Programming Pedagogy](https://v5.chriskrycho.com/journal/an-observation-on-programming-pedagogy/)
 * [2023-11-02, 14:40:55](https://lobste.rs/s/r8vitn/misty_programing_language_from_creator) - [Misty: Programing language from the creator of JSON](https://www.crockford.com/misty/)
