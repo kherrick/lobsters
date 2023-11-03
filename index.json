@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-03, 07:11:24",
+      "https://lobste.rs/s/sn2rmx/fieldparentptr"
+    ],
+    [
+      "@fieldParentPtr",
+      "https://registerspill.thorstenball.com/p/zig-zaggin"
+    ]
+  ],
+  [
+    [
       "2023-11-03, 05:50:37",
       "https://lobste.rs/s/au9oc1/std_vector_example_explaination"
     ],
@@ -227,16 +237,6 @@
     [
       "Tracking SQLite Database Changes in Git",
       "https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git"
-    ]
-  ],
-  [
-    [
-      "2023-11-01, 14:46:27",
-      "https://lobste.rs/s/wgxenj/polishing_syntax_for_stability_gleam_v0"
-    ],
-    [
-      "Polishing syntax for stability – Gleam v0.32 released",
-      "https://gleam.run/news/v0.32-polishing-syntax-for-stability/"
     ]
   ],
   [
