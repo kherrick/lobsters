@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-03, 10:37:20](https://lobste.rs/s/wbpbnp/what_is_query_optimizer_for) - [What is a Query Optimizer for?](https://justinjaffray.com/what-is-a-query-optimizer-for/)
 * [2023-11-03, 09:10:34](https://lobste.rs/s/5hf7qf/why_you_should_write_your_own_static_site) - [Why You Should Write Your Own Static Site Generator](https://arne.me/articles/write-your-own-ssg)
 * [2023-11-03, 09:07:52](https://lobste.rs/s/0hbzos/rsc_regexp_translations_simple_c_program) - [rsc-regexp: Translations of a simple C program to Rust](https://github.com/BurntSushi/rsc-regexp)
 * [2023-11-03, 07:11:24](https://lobste.rs/s/sn2rmx/fieldparentptr) - [@fieldParentPtr](https://registerspill.thorstenball.com/p/zig-zaggin)
@@ -21,7 +22,6 @@
 * [2023-11-02, 08:47:05](https://lobste.rs/s/xacdsk/secret_eu_law_threatens_internet) - [Secret EU law threatens Internet security](https://last-chance-for-eidas.org/)
 * [2023-11-02, 02:43:05](https://lobste.rs/s/gkio69/heart_spritely_distributed_objects) - [The Heart of Spritely: Distributed Objects and Capability Security](https://spritely.institute/static/papers/spritely-core.html)
 * [2023-11-02, 02:09:54](https://lobste.rs/s/fjhpwp/my_useful_shell_functions) - [My Useful Shell Functions](https://muhammadraza.me/2023/shell-functions/)
-* [2023-11-01, 23:29:10](https://lobste.rs/s/bu3bx0/can_collatz_conjecture_be_proven_not) - [Can the Collatz conjecture be proven, or not?](https://www.hansdieterhiep.nl/is-collatz-conjecture-now-proven/)
 * [2023-11-01, 20:40:11](https://lobste.rs/s/czlmyn/how_how_not_design_rest_apis) - [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs)
 * [2023-11-01, 17:44:01](https://lobste.rs/s/ralgvw/cosmopolitan_third_edition) - [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
 * [2023-11-01, 15:42:28](https://lobste.rs/s/gnv9ho/tracking_sqlite_database_changes_git) - [Tracking SQLite Database Changes in Git](https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git)
