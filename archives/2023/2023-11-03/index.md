@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
+* [2023-11-03, 22:32:39](https://lobste.rs/s/nl814z/edison_bulb_night_mode) - [Edison bulb night mode](https://www.petemillspaugh.com/edison-bulb)
 * [2023-11-03, 21:23:01](https://lobste.rs/s/prfpjq/preserving_comments_when_parsing) - [Preserving comments when parsing and formatting code](https://jayconrod.com/posts/129/preserving-comments-when-parsing-and-formatting-code)
 * [2023-11-03, 20:37:35](https://lobste.rs/s/kpo3pi/ai_entity_resolution_bridging_records) - [AI Entity Resolution: Bridging Records Across Human Languages](https://terminusdb.com/blog/ai-entity-resolution/)
 * [2023-11-03, 19:07:11](https://lobste.rs/s/gd7uum/destructing_trees_safely_cheaply) - [Destructing trees safely and cheaply](https://ismailmaj.github.io/destructing-trees-safely-and-cheaply)
