@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-03, 13:34:06](https://lobste.rs/s/g5cyhm/scanner_driven_parser_development_2019) - [Scanner-Driven Parser Development (2019)](https://depth-first.com/articles/2019/01/22/scanner-driven-parser-development/)
 * [2023-11-03, 12:18:54](https://lobste.rs/s/1ne7ov/useless_ruby_sugar_pattern_matching) - [“Useless Ruby sugar”: Pattern matching](https://zverok.space/blog/2023-10-20-syntax-sugar2-pattern-matching.html)
 * [2023-11-03, 12:17:48](https://lobste.rs/s/yhvzwi/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/yhvzwi/what_are_you_doing_this_weekend)
 * [2023-11-03, 12:15:52](https://lobste.rs/s/ywee4w/avoiding_fallback_distributed_systems) - [Avoiding fallback in distributed systems (2020)](https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/)
@@ -16,7 +17,6 @@
 * [2023-11-02, 16:57:07](https://lobste.rs/s/qyzhq4/c_with_nix_2023_part_1_developer_shells) - [C++ with Nix in 2023, Part 1: Developer Shells](https://nixcademy.com/2023/10/31/cpp-with-nix-in-2023-part-1-shell/)
 * [2023-11-02, 16:21:31](https://lobste.rs/s/qcohfn/observation_on_programming_pedagogy) - [An Observation on Programming Pedagogy](https://v5.chriskrycho.com/journal/an-observation-on-programming-pedagogy/)
 * [2023-11-02, 14:40:55](https://lobste.rs/s/r8vitn/misty_programing_language_from_creator) - [Misty: Programing language from the creator of JSON](https://www.crockford.com/misty/)
-* [2023-11-02, 14:33:58](https://lobste.rs/s/h9bbhz/nota_message_format) - [Nota Message Format](https://www.crockford.com/nota.html)
 * [2023-11-02, 14:20:09](https://lobste.rs/s/st3mbl/confusing_git_terminology) - [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/)
 * [2023-11-02, 12:56:38](https://lobste.rs/s/0wy0hs/blinded_by_light_dom) - [Blinded By the Light DOM](https://meyerweb.com/eric/thoughts/2023/11/01/blinded-by-the-light-dom/)
 * [2023-11-02, 12:17:22](https://lobste.rs/s/7e8cp7/garn_typescript_based_nix_frontend) - [garn: a TypeScript-based Nix frontend](https://garnix.io/blog/announcing-garn)
