@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
+* [2023-11-03, 21:23:01](https://lobste.rs/s/prfpjq/preserving_comments_when_parsing) - [Preserving comments when parsing and formatting code](https://jayconrod.com/posts/129/preserving-comments-when-parsing-and-formatting-code)
 * [2023-11-03, 20:37:35](https://lobste.rs/s/kpo3pi/ai_entity_resolution_bridging_records) - [AI Entity Resolution: Bridging Records Across Human Languages](https://terminusdb.com/blog/ai-entity-resolution/)
 * [2023-11-03, 19:07:11](https://lobste.rs/s/gd7uum/destructing_trees_safely_cheaply) - [Destructing trees safely and cheaply](https://ismailmaj.github.io/destructing-trees-safely-and-cheaply)
 * [2023-11-03, 17:34:03](https://lobste.rs/s/qz0is9/visionos_friday_tinting_glassy_ornament) - [visionOS Friday: Tinting a Glassy Ornament](https://www.david-smith.org/blog/2023/11/03/design-notes-45/)

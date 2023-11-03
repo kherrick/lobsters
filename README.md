@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-03, 21:23:01](https://lobste.rs/s/prfpjq/preserving_comments_when_parsing) - [Preserving comments when parsing and formatting code](https://jayconrod.com/posts/129/preserving-comments-when-parsing-and-formatting-code)
 * [2023-11-03, 20:37:35](https://lobste.rs/s/kpo3pi/ai_entity_resolution_bridging_records) - [AI Entity Resolution: Bridging Records Across Human Languages](https://terminusdb.com/blog/ai-entity-resolution/)
 * [2023-11-03, 19:07:11](https://lobste.rs/s/gd7uum/destructing_trees_safely_cheaply) - [Destructing trees safely and cheaply](https://ismailmaj.github.io/destructing-trees-safely-and-cheaply)
 * [2023-11-03, 17:34:03](https://lobste.rs/s/qz0is9/visionos_friday_tinting_glassy_ornament) - [visionOS Friday: Tinting a Glassy Ornament](https://www.david-smith.org/blog/2023/11/03/design-notes-45/)
 * [2023-11-03, 17:08:15](https://lobste.rs/s/dpahjz/sudo_rs_first_security_audit) - [sudo-rs' first security audit](https://ferrous-systems.com/blog/sudo-rs-audit/)
 * [2023-11-03, 16:51:36](https://lobste.rs/s/nmqyon/when_is_erlang_process_shell) - [When is an Erlang process a shell?](https://erikarow.land/notes/erlang-process-shell)
-* [2023-11-03, 16:21:59](https://lobste.rs/s/2rfzen/trying_out_benchmarking_bcachefs_on) - [Trying Out & Benchmarking Bcachefs On Linux 6.7](https://www.phoronix.com/review/bcachefs-linux-67)
 * [2023-11-03, 13:34:59](https://lobste.rs/s/swhpmt/ungrammar_go_resilient_parsing) - [Ungrammar in Go and resilient parsing](https://eli.thegreenplace.net/2023/ungrammar-in-go-and-resilient-parsing/)
 * [2023-11-03, 13:34:06](https://lobste.rs/s/g5cyhm/scanner_driven_parser_development_2019) - [Scanner-Driven Parser Development (2019)](https://depth-first.com/articles/2019/01/22/scanner-driven-parser-development/)
 * [2023-11-03, 12:18:54](https://lobste.rs/s/1ne7ov/useless_ruby_sugar_pattern_matching) - [“Useless Ruby sugar”: Pattern matching](https://zverok.space/blog/2023-10-20-syntax-sugar2-pattern-matching.html)
