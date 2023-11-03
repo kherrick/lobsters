@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
+* [2023-11-03, 19:07:11](https://lobste.rs/s/gd7uum/destructing_trees_safely_cheaply) - [Destructing trees safely and cheaply](https://ismailmaj.github.io/destructing-trees-safely-and-cheaply)
 * [2023-11-03, 17:34:03](https://lobste.rs/s/qz0is9/visionos_friday_tinting_glassy_ornament) - [visionOS Friday: Tinting a Glassy Ornament](https://www.david-smith.org/blog/2023/11/03/design-notes-45/)
 * [2023-11-03, 17:08:15](https://lobste.rs/s/dpahjz/sudo_rs_first_security_audit) - [sudo-rs' first security audit](https://ferrous-systems.com/blog/sudo-rs-audit/)
 * [2023-11-03, 16:51:36](https://lobste.rs/s/nmqyon/when_is_erlang_process_shell) - [When is an Erlang process a shell?](https://erikarow.land/notes/erlang-process-shell)
