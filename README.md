@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-03, 11:49:44](https://lobste.rs/s/quwkzq/great_nickel_configurations_from_little) - [Great Nickel configurations from little merges grow](https://tweag.io/blog/2023-11-02-nickel-merge-system/)
 * [2023-11-03, 11:06:07](https://lobste.rs/s/6nzgzo/totally_remdom_how_browsers_zoom_text) - [Totally remdom, or How browsers zoom text](https://matuzo.at/blog/2023/how-browsers-zoom-text)
 * [2023-11-03, 10:37:20](https://lobste.rs/s/wbpbnp/what_is_query_optimizer_for) - [What is a Query Optimizer for?](https://justinjaffray.com/what-is-a-query-optimizer-for/)
 * [2023-11-03, 09:10:34](https://lobste.rs/s/5hf7qf/why_you_should_write_your_own_static_site) - [Why You Should Write Your Own Static Site Generator](https://arne.me/articles/write-your-own-ssg)
@@ -7,7 +8,6 @@
 * [2023-11-03, 07:11:24](https://lobste.rs/s/sn2rmx/fieldparentptr) - [@fieldParentPtr](https://registerspill.thorstenball.com/p/zig-zaggin)
 * [2023-11-03, 05:50:37](https://lobste.rs/s/au9oc1/std_vector_example_explaination) - [A std::vector Example and Explaination](https://www.logikalsolutions.com/wordpress/information-technology/a-stdvector-example-and-explaination/)
 * [2023-11-02, 23:06:13](https://lobste.rs/s/leor0x/where_dry_applies) - [Where DRY Applies](https://v5.chriskrycho.com/journal/where-dry-applies/)
-* [2023-11-02, 18:55:51](https://lobste.rs/s/sk7ubq/finch_open_source_tool_for_local) - [Finch: An open source tool for local container development](https://runfinch.com/)
 * [2023-11-02, 18:49:16](https://lobste.rs/s/lrneqv/arch_remove_itanium_ia_64_architecture) - [arch: Remove Itanium (IA-64) architecture](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=cf8e8658100d4eae80ce9b21f7a81cb024dd5057)
 * [2023-11-02, 18:21:32](https://lobste.rs/s/vnefdo/machine_learning_guis_at_scale) - [Machine learning of GUIs at scale](https://austinhenley.com/blog/machinelearningguis.html)
 * [2023-11-02, 16:57:07](https://lobste.rs/s/qyzhq4/c_with_nix_2023_part_1_developer_shells) - [C++ with Nix in 2023, Part 1: Developer Shells](https://nixcademy.com/2023/10/31/cpp-with-nix-in-2023-part-1-shell/)
