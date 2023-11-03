@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-03, 07:11:24](https://lobste.rs/s/sn2rmx/fieldparentptr) - [@fieldParentPtr](https://registerspill.thorstenball.com/p/zig-zaggin)
 * [2023-11-03, 05:50:37](https://lobste.rs/s/au9oc1/std_vector_example_explaination) - [A std::vector Example and Explaination](https://www.logikalsolutions.com/wordpress/information-technology/a-stdvector-example-and-explaination/)
 * [2023-11-02, 23:06:13](https://lobste.rs/s/leor0x/where_dry_applies) - [Where DRY Applies](https://v5.chriskrycho.com/journal/where-dry-applies/)
 * [2023-11-02, 19:37:38](https://lobste.rs/s/7xzqo1/benchmarking_machine_learning) - [Benchmarking machine learning frameworks](https://www.collabora.com/news-and-blog/news-and-events/benchmarking-machine-learning-frameworks.html)
@@ -23,7 +24,6 @@
 * [2023-11-01, 20:40:11](https://lobste.rs/s/czlmyn/how_how_not_design_rest_apis) - [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs)
 * [2023-11-01, 17:44:01](https://lobste.rs/s/ralgvw/cosmopolitan_third_edition) - [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
 * [2023-11-01, 15:42:28](https://lobste.rs/s/gnv9ho/tracking_sqlite_database_changes_git) - [Tracking SQLite Database Changes in Git](https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git)
-* [2023-11-01, 14:46:27](https://lobste.rs/s/wgxenj/polishing_syntax_for_stability_gleam_v0) - [Polishing syntax for stability – Gleam v0.32 released](https://gleam.run/news/v0.32-polishing-syntax-for-stability/)
 * [2023-11-01, 12:47:37](https://lobste.rs/s/ntia7t/why_checked_exceptions_failed) - [Why Checked Exceptions Failed](https://borretti.me/article/why-checked-exceptions-failed)
 
 ## [Archives](archives/index.md)
