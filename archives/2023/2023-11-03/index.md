@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
+* [2023-11-03, 16:51:36](https://lobste.rs/s/nmqyon/when_is_erlang_process_shell) - [When is an Erlang process a shell?](https://erikarow.land/notes/erlang-process-shell)
 * [2023-11-03, 16:21:59](https://lobste.rs/s/2rfzen/trying_out_benchmarking_bcachefs_on) - [Trying Out & Benchmarking Bcachefs On Linux 6.7](https://www.phoronix.com/review/bcachefs-linux-67)
 * [2023-11-03, 14:53:25](https://lobste.rs/s/pxdydn/does_not_exist) - [π Does Not Exist](https://www.charlespetzold.com/blog/2019/03/Pi-Does-Not-Exist.html)
 * [2023-11-03, 13:47:10](https://lobste.rs/s/xmyzqn/curate_content_better_make_it_greener) - [Curate content better and make it greener in Wagtail 5.2](https://wagtail.org/blog/curate-content-better-and-make-it-greener-in-wagtail-52/)
