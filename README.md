@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-03, 16:21:59](https://lobste.rs/s/2rfzen/trying_out_benchmarking_bcachefs_on) - [Trying Out & Benchmarking Bcachefs On Linux 6.7](https://www.phoronix.com/review/bcachefs-linux-67)
 * [2023-11-03, 13:34:59](https://lobste.rs/s/swhpmt/ungrammar_go_resilient_parsing) - [Ungrammar in Go and resilient parsing](https://eli.thegreenplace.net/2023/ungrammar-in-go-and-resilient-parsing/)
 * [2023-11-03, 13:34:06](https://lobste.rs/s/g5cyhm/scanner_driven_parser_development_2019) - [Scanner-Driven Parser Development (2019)](https://depth-first.com/articles/2019/01/22/scanner-driven-parser-development/)
 * [2023-11-03, 12:18:54](https://lobste.rs/s/1ne7ov/useless_ruby_sugar_pattern_matching) - [“Useless Ruby sugar”: Pattern matching](https://zverok.space/blog/2023-10-20-syntax-sugar2-pattern-matching.html)
@@ -19,7 +20,6 @@
 * [2023-11-02, 16:21:31](https://lobste.rs/s/qcohfn/observation_on_programming_pedagogy) - [An Observation on Programming Pedagogy](https://v5.chriskrycho.com/journal/an-observation-on-programming-pedagogy/)
 * [2023-11-02, 14:40:55](https://lobste.rs/s/r8vitn/misty_programing_language_from_creator) - [Misty: Programing language from the creator of JSON](https://www.crockford.com/misty/)
 * [2023-11-02, 14:20:09](https://lobste.rs/s/st3mbl/confusing_git_terminology) - [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/)
-* [2023-11-02, 12:56:38](https://lobste.rs/s/0wy0hs/blinded_by_light_dom) - [Blinded By the Light DOM](https://meyerweb.com/eric/thoughts/2023/11/01/blinded-by-the-light-dom/)
 * [2023-11-02, 12:17:22](https://lobste.rs/s/7e8cp7/garn_typescript_based_nix_frontend) - [garn: a TypeScript-based Nix frontend](https://garnix.io/blog/announcing-garn)
 * [2023-11-02, 10:10:05](https://lobste.rs/s/rbst9x/panic_50_small_prank_programs_for_kids) - [PANIC: 50 small prank programs for kids and adults](https://punkx.org/panic)
 * [2023-11-02, 08:47:05](https://lobste.rs/s/xacdsk/secret_eu_law_threatens_internet) - [Secret EU law threatens Internet security](https://last-chance-for-eidas.org/)
