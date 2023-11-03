@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
+* [2023-11-03, 23:28:35](https://lobste.rs/s/bsboea/look_back_less) - [Look back less](https://world.hey.com/jason/look-back-less-848e9db0)
 * [2023-11-03, 22:32:39](https://lobste.rs/s/nl814z/edison_bulb_night_mode) - [Edison bulb night mode](https://www.petemillspaugh.com/edison-bulb)
 * [2023-11-03, 21:23:01](https://lobste.rs/s/prfpjq/preserving_comments_when_parsing) - [Preserving comments when parsing and formatting code](https://jayconrod.com/posts/129/preserving-comments-when-parsing-and-formatting-code)
 * [2023-11-03, 20:37:35](https://lobste.rs/s/kpo3pi/ai_entity_resolution_bridging_records) - [AI Entity Resolution: Bridging Records Across Human Languages](https://terminusdb.com/blog/ai-entity-resolution/)

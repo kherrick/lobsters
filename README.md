@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-03, 23:28:35](https://lobste.rs/s/bsboea/look_back_less) - [Look back less](https://world.hey.com/jason/look-back-less-848e9db0)
 * [2023-11-03, 22:32:39](https://lobste.rs/s/nl814z/edison_bulb_night_mode) - [Edison bulb night mode](https://www.petemillspaugh.com/edison-bulb)
 * [2023-11-03, 21:23:01](https://lobste.rs/s/prfpjq/preserving_comments_when_parsing) - [Preserving comments when parsing and formatting code](https://jayconrod.com/posts/129/preserving-comments-when-parsing-and-formatting-code)
 * [2023-11-03, 20:37:35](https://lobste.rs/s/kpo3pi/ai_entity_resolution_bridging_records) - [AI Entity Resolution: Bridging Records Across Human Languages](https://terminusdb.com/blog/ai-entity-resolution/)
@@ -21,7 +22,6 @@
 * [2023-11-03, 05:50:37](https://lobste.rs/s/au9oc1/std_vector_example_explaination) - [A std::vector Example and Explaination](https://www.logikalsolutions.com/wordpress/information-technology/a-stdvector-example-and-explaination/)
 * [2023-11-02, 18:49:16](https://lobste.rs/s/lrneqv/arch_remove_itanium_ia_64_architecture) - [arch: Remove Itanium (IA-64) architecture](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=cf8e8658100d4eae80ce9b21f7a81cb024dd5057)
 * [2023-11-02, 16:21:31](https://lobste.rs/s/qcohfn/observation_on_programming_pedagogy) - [An Observation on Programming Pedagogy](https://v5.chriskrycho.com/journal/an-observation-on-programming-pedagogy/)
-* [2023-11-02, 14:40:55](https://lobste.rs/s/r8vitn/misty_programing_language_from_creator) - [Misty: Programing language from the creator of JSON](https://www.crockford.com/misty/)
 * [2023-11-02, 14:20:09](https://lobste.rs/s/st3mbl/confusing_git_terminology) - [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/)
 * [2023-11-02, 12:17:22](https://lobste.rs/s/7e8cp7/garn_typescript_based_nix_frontend) - [garn: a TypeScript-based Nix frontend](https://garnix.io/blog/announcing-garn)
 * [2023-11-02, 08:47:05](https://lobste.rs/s/xacdsk/secret_eu_law_threatens_internet) - [Secret EU law threatens Internet security](https://last-chance-for-eidas.org/)
