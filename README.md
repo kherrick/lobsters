@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-11-03, 14:53:25](https://lobste.rs/s/pxdydn/does_not_exist) - [π Does Not Exist](https://www.charlespetzold.com/blog/2019/03/Pi-Does-Not-Exist.html)
 * [2023-11-03, 13:34:59](https://lobste.rs/s/swhpmt/ungrammar_go_resilient_parsing) - [Ungrammar in Go and resilient parsing](https://eli.thegreenplace.net/2023/ungrammar-in-go-and-resilient-parsing/)
 * [2023-11-03, 13:34:06](https://lobste.rs/s/g5cyhm/scanner_driven_parser_development_2019) - [Scanner-Driven Parser Development (2019)](https://depth-first.com/articles/2019/01/22/scanner-driven-parser-development/)
 * [2023-11-03, 12:18:54](https://lobste.rs/s/1ne7ov/useless_ruby_sugar_pattern_matching) - [“Useless Ruby sugar”: Pattern matching](https://zverok.space/blog/2023-10-20-syntax-sugar2-pattern-matching.html)
@@ -15,6 +14,7 @@
 * [2023-11-03, 05:50:37](https://lobste.rs/s/au9oc1/std_vector_example_explaination) - [A std::vector Example and Explaination](https://www.logikalsolutions.com/wordpress/information-technology/a-stdvector-example-and-explaination/)
 * [2023-11-02, 23:06:13](https://lobste.rs/s/leor0x/where_dry_applies) - [Where DRY Applies](https://v5.chriskrycho.com/journal/where-dry-applies/)
 * [2023-11-02, 18:49:16](https://lobste.rs/s/lrneqv/arch_remove_itanium_ia_64_architecture) - [arch: Remove Itanium (IA-64) architecture](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=cf8e8658100d4eae80ce9b21f7a81cb024dd5057)
+* [2023-11-02, 18:21:32](https://lobste.rs/s/vnefdo/machine_learning_guis_at_scale) - [Machine learning of GUIs at scale](https://austinhenley.com/blog/machinelearningguis.html)
 * [2023-11-02, 16:57:07](https://lobste.rs/s/qyzhq4/c_with_nix_2023_part_1_developer_shells) - [C++ with Nix in 2023, Part 1: Developer Shells](https://nixcademy.com/2023/10/31/cpp-with-nix-in-2023-part-1-shell/)
 * [2023-11-02, 16:21:31](https://lobste.rs/s/qcohfn/observation_on_programming_pedagogy) - [An Observation on Programming Pedagogy](https://v5.chriskrycho.com/journal/an-observation-on-programming-pedagogy/)
 * [2023-11-02, 14:40:55](https://lobste.rs/s/r8vitn/misty_programing_language_from_creator) - [Misty: Programing language from the creator of JSON](https://www.crockford.com/misty/)
