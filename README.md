@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-03, 12:18:54](https://lobste.rs/s/1ne7ov/useless_ruby_sugar_pattern_matching) - [“Useless Ruby sugar”: Pattern matching](https://zverok.space/blog/2023-10-20-syntax-sugar2-pattern-matching.html)
+* [2023-11-03, 12:17:48](https://lobste.rs/s/yhvzwi/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/yhvzwi/what_are_you_doing_this_weekend)
+* [2023-11-03, 12:15:52](https://lobste.rs/s/ywee4w/avoiding_fallback_distributed_systems) - [Avoiding fallback in distributed systems (2020)](https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/)
 * [2023-11-03, 11:49:44](https://lobste.rs/s/quwkzq/great_nickel_configurations_from_little) - [Great Nickel configurations from little merges grow](https://tweag.io/blog/2023-11-02-nickel-merge-system/)
 * [2023-11-03, 11:06:07](https://lobste.rs/s/6nzgzo/totally_remdom_how_browsers_zoom_text) - [Totally remdom, or How browsers zoom text](https://matuzo.at/blog/2023/how-browsers-zoom-text)
 * [2023-11-03, 10:37:20](https://lobste.rs/s/wbpbnp/what_is_query_optimizer_for) - [What is a Query Optimizer for?](https://justinjaffray.com/what-is-a-query-optimizer-for/)
@@ -16,13 +19,10 @@
 * [2023-11-02, 14:33:58](https://lobste.rs/s/h9bbhz/nota_message_format) - [Nota Message Format](https://www.crockford.com/nota.html)
 * [2023-11-02, 14:20:09](https://lobste.rs/s/st3mbl/confusing_git_terminology) - [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/)
 * [2023-11-02, 12:56:38](https://lobste.rs/s/0wy0hs/blinded_by_light_dom) - [Blinded By the Light DOM](https://meyerweb.com/eric/thoughts/2023/11/01/blinded-by-the-light-dom/)
-* [2023-11-02, 12:22:25](https://lobste.rs/s/w5pg9q/who_invented_file_extensions_file_names) - [Who invented file extensions in file names?](https://retrocomputing.stackexchange.com/q/27926/28593)
 * [2023-11-02, 12:17:22](https://lobste.rs/s/7e8cp7/garn_typescript_based_nix_frontend) - [garn: a TypeScript-based Nix frontend](https://garnix.io/blog/announcing-garn)
 * [2023-11-02, 10:10:05](https://lobste.rs/s/rbst9x/panic_50_small_prank_programs_for_kids) - [PANIC: 50 small prank programs for kids and adults](https://punkx.org/panic)
 * [2023-11-02, 08:47:05](https://lobste.rs/s/xacdsk/secret_eu_law_threatens_internet) - [Secret EU law threatens Internet security](https://last-chance-for-eidas.org/)
-* [2023-11-02, 02:43:05](https://lobste.rs/s/gkio69/heart_spritely_distributed_objects) - [The Heart of Spritely: Distributed Objects and Capability Security](https://spritely.institute/static/papers/spritely-core.html)
 * [2023-11-02, 02:09:54](https://lobste.rs/s/fjhpwp/my_useful_shell_functions) - [My Useful Shell Functions](https://muhammadraza.me/2023/shell-functions/)
-* [2023-11-01, 20:40:11](https://lobste.rs/s/czlmyn/how_how_not_design_rest_apis) - [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs)
 * [2023-11-01, 17:44:01](https://lobste.rs/s/ralgvw/cosmopolitan_third_edition) - [Cosmopolitan Third Edition](https://justine.lol/cosmo3/)
 * [2023-11-01, 15:42:28](https://lobste.rs/s/gnv9ho/tracking_sqlite_database_changes_git) - [Tracking SQLite Database Changes in Git](https://garrit.xyz/posts/2023-11-01-tracking-sqlite-database-changes-in-git)
 

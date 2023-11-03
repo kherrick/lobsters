@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
+* [2023-11-03, 12:18:54](https://lobste.rs/s/1ne7ov/useless_ruby_sugar_pattern_matching) - [“Useless Ruby sugar”: Pattern matching](https://zverok.space/blog/2023-10-20-syntax-sugar2-pattern-matching.html)
+* [2023-11-03, 12:17:48](https://lobste.rs/s/yhvzwi/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/yhvzwi/what_are_you_doing_this_weekend)
+* [2023-11-03, 12:15:52](https://lobste.rs/s/ywee4w/avoiding_fallback_distributed_systems) - [Avoiding fallback in distributed systems (2020)](https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/)
 * [2023-11-03, 11:49:44](https://lobste.rs/s/quwkzq/great_nickel_configurations_from_little) - [Great Nickel configurations from little merges grow](https://tweag.io/blog/2023-11-02-nickel-merge-system/)
 * [2023-11-03, 11:06:07](https://lobste.rs/s/6nzgzo/totally_remdom_how_browsers_zoom_text) - [Totally remdom, or How browsers zoom text](https://matuzo.at/blog/2023/how-browsers-zoom-text)
 * [2023-11-03, 10:37:20](https://lobste.rs/s/wbpbnp/what_is_query_optimizer_for) - [What is a Query Optimizer for?](https://justinjaffray.com/what-is-a-query-optimizer-for/)
