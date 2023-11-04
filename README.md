@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-04, 16:03:11](https://lobste.rs/s/mwqbbe/rocket_s_4th_v0_5_release_candidate) - [Rocket's 4th v0.5 Release Candidate](https://rocket.rs/v0.5-rc/news/2023-11-01-version-0.5-rc.4/)
 * [2023-11-04, 15:54:45](https://lobste.rs/s/myriem/my_new_cppcon_talk_is_on_youtube) - [My new CppCon talk is on YouTube: “Cooperative C++ Evolution – Toward a TypeScript for C++”](https://herbsutter.com/2023/10/09/my-new-cppcon-talk-is-on-youtube-cooperative-c-evolution-toward-a-typescript-for-c/)
 * [2023-11-04, 15:48:15](https://lobste.rs/s/mogsn6/on_road_kde_plasma_6_vol_4) - [On the Road to KDE Plasma 6, Vol. 4](https://blog.broulik.de/2023/11/on-the-road-to-plasma-6-vol-4/)
 * [2023-11-04, 15:35:47](https://lobste.rs/s/348lsw/othello_is_solved) - [Othello is Solved](https://arxiv.org/abs/2310.19387)
@@ -24,7 +25,6 @@
 * [2023-11-03, 10:37:20](https://lobste.rs/s/wbpbnp/what_is_query_optimizer_for) - [What is a Query Optimizer for?](https://justinjaffray.com/what-is-a-query-optimizer-for/)
 * [2023-11-03, 09:10:34](https://lobste.rs/s/5hf7qf/why_you_should_write_your_own_static_site) - [Why You Should Write Your Own Static Site Generator](https://arne.me/articles/write-your-own-ssg)
 * [2023-11-03, 09:07:52](https://lobste.rs/s/0hbzos/rsc_regexp_translations_simple_c_program) - [rsc-regexp: Translations of a simple C program to Rust](https://github.com/BurntSushi/rsc-regexp)
-* [2023-11-03, 07:11:24](https://lobste.rs/s/sn2rmx/fieldparentptr) - [@fieldParentPtr](https://registerspill.thorstenball.com/p/zig-zaggin)
 
 ## [Archives](archives/index.md)
 
