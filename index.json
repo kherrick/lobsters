@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2023-11-04, 05:58:41",
+      "https://lobste.rs/s/won3bu/ox64_bl808_risc_v_sbc_booting_linux_maybe"
+    ],
+    [
+      "Ox64 BL808 RISC-V SBC: Booting Linux and (maybe) Apache NuttX RTOS",
+      "https://lupyuen.github.io/articles/ox64"
+    ]
+  ],
+  [
+    [
       "2023-11-04, 01:31:17",
       "https://lobste.rs/s/xmlr6b/day_with_zig"
     ],
@@ -207,16 +217,6 @@
     [
       "“Useless Ruby sugar”: Pattern matching",
       "https://zverok.space/blog/2023-10-20-syntax-sugar2-pattern-matching.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-03, 12:15:52",
-      "https://lobste.rs/s/ywee4w/avoiding_fallback_distributed_systems"
-    ],
-    [
-      "Avoiding fallback in distributed systems (2020)",
-      "https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/"
     ]
   ],
   [
