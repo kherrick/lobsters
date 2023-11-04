@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-04, 15:54:45](https://lobste.rs/s/myriem/my_new_cppcon_talk_is_on_youtube) - [My new CppCon talk is on YouTube: “Cooperative C++ Evolution – Toward a TypeScript for C++”](https://herbsutter.com/2023/10/09/my-new-cppcon-talk-is-on-youtube-cooperative-c-evolution-toward-a-typescript-for-c/)
 * [2023-11-04, 15:48:15](https://lobste.rs/s/mogsn6/on_road_kde_plasma_6_vol_4) - [On the Road to KDE Plasma 6, Vol. 4](https://blog.broulik.de/2023/11/on-the-road-to-plasma-6-vol-4/)
 * [2023-11-04, 15:35:47](https://lobste.rs/s/348lsw/othello_is_solved) - [Othello is Solved](https://arxiv.org/abs/2310.19387)
 * [2023-11-04, 13:38:09](https://lobste.rs/s/nqzcfd/post_mortem_on_cloudflare_control_plane) - [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/)
@@ -14,7 +15,6 @@
 * [2023-11-04, 01:31:17](https://lobste.rs/s/xmlr6b/day_with_zig) - [A day with Zig](https://www.pierrebeaucamp.com/a-day-with-zig/)
 * [2023-11-03, 23:57:44](https://lobste.rs/s/z6wjg8/upgrading_my_chumby_8_kernel_part_7) - [Upgrading my Chumby 8 kernel part 7: touchscreen](https://www.downtowndougbrown.com/2023/11/upgrading-my-chumby-8-kernel-part-7-touchscreen/)
 * [2023-11-03, 21:23:01](https://lobste.rs/s/prfpjq/preserving_comments_when_parsing) - [Preserving comments when parsing and formatting code](https://jayconrod.com/posts/129/preserving-comments-when-parsing-and-formatting-code)
-* [2023-11-03, 19:07:11](https://lobste.rs/s/gd7uum/destructing_trees_safely_cheaply) - [Destructing trees safely and cheaply](https://ismailmaj.github.io/destructing-trees-safely-and-cheaply)
 * [2023-11-03, 17:08:15](https://lobste.rs/s/dpahjz/sudo_rs_first_security_audit) - [sudo-rs' first security audit](https://ferrous-systems.com/blog/sudo-rs-audit/)
 * [2023-11-03, 13:34:59](https://lobste.rs/s/swhpmt/ungrammar_go_resilient_parsing) - [Ungrammar in Go and resilient parsing](https://eli.thegreenplace.net/2023/ungrammar-in-go-and-resilient-parsing/)
 * [2023-11-03, 12:18:54](https://lobste.rs/s/1ne7ov/useless_ruby_sugar_pattern_matching) - [“Useless Ruby sugar”: Pattern matching](https://zverok.space/blog/2023-10-20-syntax-sugar2-pattern-matching.html)
