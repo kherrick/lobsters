@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-04, 16:03:11",
+      "https://lobste.rs/s/mwqbbe/rocket_s_4th_v0_5_release_candidate"
+    ],
+    [
+      "Rocket's 4th v0.5 Release Candidate",
+      "https://rocket.rs/v0.5-rc/news/2023-11-01-version-0.5-rc.4/"
+    ]
+  ],
+  [
+    [
       "2023-11-04, 15:54:45",
       "https://lobste.rs/s/myriem/my_new_cppcon_talk_is_on_youtube"
     ],
@@ -237,16 +247,6 @@
     [
       "rsc-regexp: Translations of a simple C program to Rust",
       "https://github.com/BurntSushi/rsc-regexp"
-    ]
-  ],
-  [
-    [
-      "2023-11-03, 07:11:24",
-      "https://lobste.rs/s/sn2rmx/fieldparentptr"
-    ],
-    [
-      "@fieldParentPtr",
-      "https://registerspill.thorstenball.com/p/zig-zaggin"
     ]
   ]
 ]
