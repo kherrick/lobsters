@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-03](index.md)
 
+* [2023-11-03, 23:57:44](https://lobste.rs/s/z6wjg8/upgrading_my_chumby_8_kernel_part_7) - [Upgrading my Chumby 8 kernel part 7: touchscreen](https://www.downtowndougbrown.com/2023/11/upgrading-my-chumby-8-kernel-part-7-touchscreen/)
 * [2023-11-03, 23:28:35](https://lobste.rs/s/bsboea/look_back_less) - [Look back less](https://world.hey.com/jason/look-back-less-848e9db0)
 * [2023-11-03, 22:32:39](https://lobste.rs/s/nl814z/edison_bulb_night_mode) - [Edison bulb night mode](https://www.petemillspaugh.com/edison-bulb)
 * [2023-11-03, 21:23:01](https://lobste.rs/s/prfpjq/preserving_comments_when_parsing) - [Preserving comments when parsing and formatting code](https://jayconrod.com/posts/129/preserving-comments-when-parsing-and-formatting-code)
