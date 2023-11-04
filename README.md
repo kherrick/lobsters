@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-04, 12:50:40](https://lobste.rs/s/anfyy8/carapace_bin_multi_shell_multi_command) - [carapace-bin: multi-shell multi-command argument completer](https://github.com/rsteube/carapace-bin)
 * [2023-11-04, 11:07:38](https://lobste.rs/s/7bwb1d/git_visual_reference_2011) - [Git Visual Reference (2011)](https://www.lurklurk.org/gitpix/gitpix.html)
 * [2023-11-04, 10:59:51](https://lobste.rs/s/pb0u52/getting_up_another_processes_memory) - [Getting up in another processes memory](https://www.youtube.com/watch?v=0ihChIaN8d0)
 * [2023-11-04, 09:32:44](https://lobste.rs/s/wie2he/my_wishlist_for_nixos_security_2024) - [My wishlist for NixOS security in 2024+](https://delroth.net/posts/nixos-security-wishlist/)
@@ -9,7 +10,6 @@
 * [2023-11-04, 01:31:17](https://lobste.rs/s/xmlr6b/day_with_zig) - [A day with Zig](https://www.pierrebeaucamp.com/a-day-with-zig/)
 * [2023-11-03, 23:57:44](https://lobste.rs/s/z6wjg8/upgrading_my_chumby_8_kernel_part_7) - [Upgrading my Chumby 8 kernel part 7: touchscreen](https://www.downtowndougbrown.com/2023/11/upgrading-my-chumby-8-kernel-part-7-touchscreen/)
 * [2023-11-03, 21:23:01](https://lobste.rs/s/prfpjq/preserving_comments_when_parsing) - [Preserving comments when parsing and formatting code](https://jayconrod.com/posts/129/preserving-comments-when-parsing-and-formatting-code)
-* [2023-11-03, 20:37:35](https://lobste.rs/s/kpo3pi/ai_entity_resolution_bridging_records) - [AI Entity Resolution: Bridging Records Across Human Languages](https://terminusdb.com/blog/ai-entity-resolution/)
 * [2023-11-03, 19:07:11](https://lobste.rs/s/gd7uum/destructing_trees_safely_cheaply) - [Destructing trees safely and cheaply](https://ismailmaj.github.io/destructing-trees-safely-and-cheaply)
 * [2023-11-03, 17:34:03](https://lobste.rs/s/qz0is9/visionos_friday_tinting_glassy_ornament) - [visionOS Friday: Tinting a Glassy Ornament](https://www.david-smith.org/blog/2023/11/03/design-notes-45/)
 * [2023-11-03, 17:08:15](https://lobste.rs/s/dpahjz/sudo_rs_first_security_audit) - [sudo-rs' first security audit](https://ferrous-systems.com/blog/sudo-rs-audit/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-04](index.md)
 
+* [2023-11-04, 12:50:40](https://lobste.rs/s/anfyy8/carapace_bin_multi_shell_multi_command) - [carapace-bin: multi-shell multi-command argument completer](https://github.com/rsteube/carapace-bin)
 * [2023-11-04, 11:07:38](https://lobste.rs/s/7bwb1d/git_visual_reference_2011) - [Git Visual Reference (2011)](https://www.lurklurk.org/gitpix/gitpix.html)
 * [2023-11-04, 10:59:51](https://lobste.rs/s/pb0u52/getting_up_another_processes_memory) - [Getting up in another processes memory](https://www.youtube.com/watch?v=0ihChIaN8d0)
 * [2023-11-04, 09:32:44](https://lobste.rs/s/wie2he/my_wishlist_for_nixos_security_2024) - [My wishlist for NixOS security in 2024+](https://delroth.net/posts/nixos-security-wishlist/)
