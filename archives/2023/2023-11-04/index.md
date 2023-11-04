@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-04](index.md)
 
+* [2023-11-04, 13:38:09](https://lobste.rs/s/nqzcfd/post_mortem_on_cloudflare_control_plane) - [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/)
+* [2023-11-04, 13:34:50](https://lobste.rs/s/djyjad/hyphens_minus_dashes_debian_man_pages) - [Hyphens, minus, and dashes in Debian man pages](https://lwn.net/Articles/947941/)
 * [2023-11-04, 12:50:40](https://lobste.rs/s/anfyy8/carapace_bin_multi_shell_multi_command) - [carapace-bin: multi-shell multi-command argument completer](https://github.com/rsteube/carapace-bin)
 * [2023-11-04, 11:07:38](https://lobste.rs/s/7bwb1d/git_visual_reference_2011) - [Git Visual Reference (2011)](https://www.lurklurk.org/gitpix/gitpix.html)
 * [2023-11-04, 10:59:51](https://lobste.rs/s/pb0u52/getting_up_another_processes_memory) - [Getting up in another processes memory](https://www.youtube.com/watch?v=0ihChIaN8d0)
