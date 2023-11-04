@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-04, 12:50:40",
+      "https://lobste.rs/s/anfyy8/carapace_bin_multi_shell_multi_command"
+    ],
+    [
+      "carapace-bin: multi-shell multi-command argument completer",
+      "https://github.com/rsteube/carapace-bin"
+    ]
+  ],
+  [
+    [
       "2023-11-04, 11:07:38",
       "https://lobste.rs/s/7bwb1d/git_visual_reference_2011"
     ],
@@ -87,16 +97,6 @@
     [
       "Preserving comments when parsing and formatting code",
       "https://jayconrod.com/posts/129/preserving-comments-when-parsing-and-formatting-code"
-    ]
-  ],
-  [
-    [
-      "2023-11-03, 20:37:35",
-      "https://lobste.rs/s/kpo3pi/ai_entity_resolution_bridging_records"
-    ],
-    [
-      "AI Entity Resolution: Bridging Records Across Human Languages",
-      "https://terminusdb.com/blog/ai-entity-resolution/"
     ]
   ],
   [
