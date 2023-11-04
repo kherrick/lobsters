@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-04, 10:59:51](https://lobste.rs/s/pb0u52/getting_up_another_processes_memory) - [Getting up in another processes memory](https://www.youtube.com/watch?v=0ihChIaN8d0)
 * [2023-11-04, 09:32:44](https://lobste.rs/s/wie2he/my_wishlist_for_nixos_security_2024) - [My wishlist for NixOS security in 2024+](https://delroth.net/posts/nixos-security-wishlist/)
 * [2023-11-04, 06:25:22](https://lobste.rs/s/kfqwrj/oral_history_federico_faggin) - [Oral History of Federico Faggin](http://archive.computerhistory.org/resources/text/Oral_History/Faggin_Federico/Faggin_Federico_1_2_3.oral_history.2004.102658025.pdf)
 * [2023-11-04, 06:02:47](https://lobste.rs/s/bjcugr/reacting_compile_time_type_properties_c) - [Reacting to compile-time type properties in C++17](https://codekobold.io/cpp-17-detect-data-member.html)
@@ -24,7 +25,6 @@
 * [2023-11-02, 18:49:16](https://lobste.rs/s/lrneqv/arch_remove_itanium_ia_64_architecture) - [arch: Remove Itanium (IA-64) architecture](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=cf8e8658100d4eae80ce9b21f7a81cb024dd5057)
 * [2023-11-02, 14:20:09](https://lobste.rs/s/st3mbl/confusing_git_terminology) - [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/)
 * [2023-11-02, 12:17:22](https://lobste.rs/s/7e8cp7/garn_typescript_based_nix_frontend) - [garn: a TypeScript-based Nix frontend](https://garnix.io/blog/announcing-garn)
-* [2023-11-02, 08:47:05](https://lobste.rs/s/xacdsk/secret_eu_law_threatens_internet) - [Secret EU law threatens Internet security](https://last-chance-for-eidas.org/)
 
 ## [Archives](archives/index.md)
 

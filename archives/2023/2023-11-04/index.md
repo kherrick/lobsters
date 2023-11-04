@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-04](index.md)
 
+* [2023-11-04, 10:59:51](https://lobste.rs/s/pb0u52/getting_up_another_processes_memory) - [Getting up in another processes memory](https://www.youtube.com/watch?v=0ihChIaN8d0)
 * [2023-11-04, 09:32:44](https://lobste.rs/s/wie2he/my_wishlist_for_nixos_security_2024) - [My wishlist for NixOS security in 2024+](https://delroth.net/posts/nixos-security-wishlist/)
 * [2023-11-04, 06:25:22](https://lobste.rs/s/kfqwrj/oral_history_federico_faggin) - [Oral History of Federico Faggin](http://archive.computerhistory.org/resources/text/Oral_History/Faggin_Federico/Faggin_Federico_1_2_3.oral_history.2004.102658025.pdf)
 * [2023-11-04, 06:02:47](https://lobste.rs/s/bjcugr/reacting_compile_time_type_properties_c) - [Reacting to compile-time type properties in C++17](https://codekobold.io/cpp-17-detect-data-member.html)
