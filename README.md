@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-04, 15:35:47](https://lobste.rs/s/348lsw/othello_is_solved) - [Othello is Solved](https://arxiv.org/abs/2310.19387)
 * [2023-11-04, 13:38:09](https://lobste.rs/s/nqzcfd/post_mortem_on_cloudflare_control_plane) - [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/)
 * [2023-11-04, 13:34:50](https://lobste.rs/s/djyjad/hyphens_minus_dashes_debian_man_pages) - [Hyphens, minus, and dashes in Debian man pages](https://lwn.net/Articles/947941/)
 * [2023-11-04, 12:50:40](https://lobste.rs/s/anfyy8/carapace_bin_multi_shell_multi_command) - [carapace-bin: multi-shell multi-command argument completer](https://github.com/rsteube/carapace-bin)
@@ -24,7 +25,6 @@
 * [2023-11-03, 09:07:52](https://lobste.rs/s/0hbzos/rsc_regexp_translations_simple_c_program) - [rsc-regexp: Translations of a simple C program to Rust](https://github.com/BurntSushi/rsc-regexp)
 * [2023-11-03, 07:11:24](https://lobste.rs/s/sn2rmx/fieldparentptr) - [@fieldParentPtr](https://registerspill.thorstenball.com/p/zig-zaggin)
 * [2023-11-02, 14:20:09](https://lobste.rs/s/st3mbl/confusing_git_terminology) - [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/)
-* [2023-11-02, 12:17:22](https://lobste.rs/s/7e8cp7/garn_typescript_based_nix_frontend) - [garn: a TypeScript-based Nix frontend](https://garnix.io/blog/announcing-garn)
 
 ## [Archives](archives/index.md)
 
