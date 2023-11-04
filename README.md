@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-04, 19:33:13](https://lobste.rs/s/vmrnyd/git_notes_git_s_coolest_most_unloved) - [Git Notes: git's coolest, most unloved­ feature - Tyler Cipriani (2022)](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
 * [2023-11-04, 16:50:36](https://lobste.rs/s/yj3wqg/towards_modern_development_cloud) - [Towards Modern Development of Cloud Applications](https://sigops.org/s/conferences/hotos/2023/papers/ghemawat.pdf)
 * [2023-11-04, 16:03:11](https://lobste.rs/s/mwqbbe/rocket_s_4th_v0_5_release_candidate) - [Rocket's 4th v0.5 Release Candidate](https://rocket.rs/v0.5-rc/news/2023-11-01-version-0.5-rc.4/)
 * [2023-11-04, 15:54:45](https://lobste.rs/s/myriem/cooperative_c_evolution_toward) - [Cooperative C++ Evolution – Toward a TypeScript for C++](https://herbsutter.com/2023/10/09/my-new-cppcon-talk-is-on-youtube-cooperative-c-evolution-toward-a-typescript-for-c/)
@@ -17,7 +18,6 @@
 * [2023-11-04, 01:31:17](https://lobste.rs/s/xmlr6b/day_with_zig) - [A day with Zig](https://www.pierrebeaucamp.com/a-day-with-zig/)
 * [2023-11-03, 23:57:44](https://lobste.rs/s/z6wjg8/upgrading_my_chumby_8_kernel_part_7) - [Upgrading my Chumby 8 kernel part 7: touchscreen](https://www.downtowndougbrown.com/2023/11/upgrading-my-chumby-8-kernel-part-7-touchscreen/)
 * [2023-11-03, 21:23:01](https://lobste.rs/s/prfpjq/preserving_comments_when_parsing) - [Preserving comments when parsing and formatting code](https://jayconrod.com/posts/129/preserving-comments-when-parsing-and-formatting-code)
-* [2023-11-03, 19:07:11](https://lobste.rs/s/gd7uum/destructing_trees_safely_cheaply) - [Destructing trees safely and cheaply](https://ismailmaj.github.io/destructing-trees-safely-and-cheaply)
 * [2023-11-03, 17:08:15](https://lobste.rs/s/dpahjz/sudo_rs_first_security_audit) - [sudo-rs' first security audit](https://ferrous-systems.com/blog/sudo-rs-audit/)
 * [2023-11-03, 12:18:54](https://lobste.rs/s/1ne7ov/useless_ruby_sugar_pattern_matching) - [“Useless Ruby sugar”: Pattern matching](https://zverok.space/blog/2023-10-20-syntax-sugar2-pattern-matching.html)
 * [2023-11-03, 12:15:52](https://lobste.rs/s/ywee4w/avoiding_fallback_distributed_systems) - [Avoiding fallback in distributed systems (2020)](https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/)
