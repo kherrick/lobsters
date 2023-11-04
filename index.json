@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-04, 06:25:22",
+      "https://lobste.rs/s/kfqwrj/oral_history_federico_faggin"
+    ],
+    [
+      "Oral History of Federico Faggin",
+      "http://archive.computerhistory.org/resources/text/Oral_History/Faggin_Federico/Faggin_Federico_1_2_3.oral_history.2004.102658025.pdf"
+    ]
+  ],
+  [
+    [
       "2023-11-04, 06:02:47",
       "https://lobste.rs/s/bjcugr/reacting_compile_time_type_properties_c"
     ],
@@ -107,16 +117,6 @@
     [
       "Ungrammar in Go and resilient parsing",
       "https://eli.thegreenplace.net/2023/ungrammar-in-go-and-resilient-parsing/"
-    ]
-  ],
-  [
-    [
-      "2023-11-03, 13:34:06",
-      "https://lobste.rs/s/g5cyhm/scanner_driven_parser_development_2019"
-    ],
-    [
-      "Scanner-Driven Parser Development (2019)",
-      "https://depth-first.com/articles/2019/01/22/scanner-driven-parser-development/"
     ]
   ],
   [
