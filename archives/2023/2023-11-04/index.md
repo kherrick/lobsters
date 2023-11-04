@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-11-04](index.md)
+
+* [2023-11-04, 01:31:17](https://lobste.rs/s/xmlr6b/day_with_zig) - [A day with Zig](https://www.pierrebeaucamp.com/a-day-with-zig/)
