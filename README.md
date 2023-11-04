@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-04, 09:32:44](https://lobste.rs/s/wie2he/my_wishlist_for_nixos_security_2024) - [My wishlist for NixOS security in 2024+](https://delroth.net/posts/nixos-security-wishlist/)
 * [2023-11-04, 06:25:22](https://lobste.rs/s/kfqwrj/oral_history_federico_faggin) - [Oral History of Federico Faggin](http://archive.computerhistory.org/resources/text/Oral_History/Faggin_Federico/Faggin_Federico_1_2_3.oral_history.2004.102658025.pdf)
 * [2023-11-04, 06:02:47](https://lobste.rs/s/bjcugr/reacting_compile_time_type_properties_c) - [Reacting to compile-time type properties in C++17](https://codekobold.io/cpp-17-detect-data-member.html)
 * [2023-11-04, 05:58:41](https://lobste.rs/s/won3bu/ox64_bl808_risc_v_sbc_booting_linux_maybe) - [Ox64 BL808 RISC-V SBC: Booting Linux and (maybe) Apache NuttX RTOS](https://lupyuen.github.io/articles/ox64)
@@ -10,7 +11,6 @@
 * [2023-11-03, 19:07:11](https://lobste.rs/s/gd7uum/destructing_trees_safely_cheaply) - [Destructing trees safely and cheaply](https://ismailmaj.github.io/destructing-trees-safely-and-cheaply)
 * [2023-11-03, 17:34:03](https://lobste.rs/s/qz0is9/visionos_friday_tinting_glassy_ornament) - [visionOS Friday: Tinting a Glassy Ornament](https://www.david-smith.org/blog/2023/11/03/design-notes-45/)
 * [2023-11-03, 17:08:15](https://lobste.rs/s/dpahjz/sudo_rs_first_security_audit) - [sudo-rs' first security audit](https://ferrous-systems.com/blog/sudo-rs-audit/)
-* [2023-11-03, 16:51:36](https://lobste.rs/s/nmqyon/when_is_erlang_process_shell) - [When is an Erlang process a shell?](https://erikarow.land/notes/erlang-process-shell)
 * [2023-11-03, 13:34:59](https://lobste.rs/s/swhpmt/ungrammar_go_resilient_parsing) - [Ungrammar in Go and resilient parsing](https://eli.thegreenplace.net/2023/ungrammar-in-go-and-resilient-parsing/)
 * [2023-11-03, 12:18:54](https://lobste.rs/s/1ne7ov/useless_ruby_sugar_pattern_matching) - [“Useless Ruby sugar”: Pattern matching](https://zverok.space/blog/2023-10-20-syntax-sugar2-pattern-matching.html)
 * [2023-11-03, 12:17:48](https://lobste.rs/s/yhvzwi/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/yhvzwi/what_are_you_doing_this_weekend)
