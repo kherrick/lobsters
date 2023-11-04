@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-04, 21:32:35",
+      "https://lobste.rs/s/wtk2rk/types_comparison_rust_zig"
+    ],
+    [
+      "Types comparison: Rust -> Zig",
+      "https://len.falken.directory/types-rust-zig.html"
+    ]
+  ],
+  [
+    [
       "2023-11-04, 21:14:40",
       "https://lobste.rs/s/zgxiph/how_do_typescript_conversion"
     ],
@@ -147,16 +157,6 @@
     [
       "Reacting to compile-time type properties in C++17",
       "https://codekobold.io/cpp-17-detect-data-member.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-04, 05:58:41",
-      "https://lobste.rs/s/won3bu/ox64_bl808_risc_v_sbc_booting_linux_maybe"
-    ],
-    [
-      "Ox64 BL808 RISC-V SBC: Booting Linux and (maybe) Apache NuttX RTOS",
-      "https://lupyuen.github.io/articles/ox64"
     ]
   ],
   [
