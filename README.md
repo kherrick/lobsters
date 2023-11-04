@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-11-03, 23:57:44](https://lobste.rs/s/z6wjg8/upgrading_my_chumby_8_kernel_part_7) - [Upgrading my Chumby 8 kernel part 7: touchscreen](https://www.downtowndougbrown.com/2023/11/upgrading-my-chumby-8-kernel-part-7-touchscreen/)
-* [2023-11-03, 23:28:35](https://lobste.rs/s/bsboea/look_back_less) - [Look back less](https://world.hey.com/jason/look-back-less-848e9db0)
 * [2023-11-03, 22:32:39](https://lobste.rs/s/nl814z/edison_bulb_night_mode) - [Edison bulb night mode](https://www.petemillspaugh.com/edison-bulb)
 * [2023-11-03, 21:23:01](https://lobste.rs/s/prfpjq/preserving_comments_when_parsing) - [Preserving comments when parsing and formatting code](https://jayconrod.com/posts/129/preserving-comments-when-parsing-and-formatting-code)
 * [2023-11-03, 20:37:35](https://lobste.rs/s/kpo3pi/ai_entity_resolution_bridging_records) - [AI Entity Resolution: Bridging Records Across Human Languages](https://terminusdb.com/blog/ai-entity-resolution/)
@@ -20,6 +19,7 @@
 * [2023-11-03, 09:10:34](https://lobste.rs/s/5hf7qf/why_you_should_write_your_own_static_site) - [Why You Should Write Your Own Static Site Generator](https://arne.me/articles/write-your-own-ssg)
 * [2023-11-03, 09:07:52](https://lobste.rs/s/0hbzos/rsc_regexp_translations_simple_c_program) - [rsc-regexp: Translations of a simple C program to Rust](https://github.com/BurntSushi/rsc-regexp)
 * [2023-11-03, 07:11:24](https://lobste.rs/s/sn2rmx/fieldparentptr) - [@fieldParentPtr](https://registerspill.thorstenball.com/p/zig-zaggin)
+* [2023-11-03, 05:50:37](https://lobste.rs/s/au9oc1/std_vector_example_explaination) - [A std::vector Example and Explaination](https://www.logikalsolutions.com/wordpress/information-technology/a-stdvector-example-and-explaination/)
 * [2023-11-02, 18:49:16](https://lobste.rs/s/lrneqv/arch_remove_itanium_ia_64_architecture) - [arch: Remove Itanium (IA-64) architecture](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=cf8e8658100d4eae80ce9b21f7a81cb024dd5057)
 * [2023-11-02, 16:21:31](https://lobste.rs/s/qcohfn/observation_on_programming_pedagogy) - [An Observation on Programming Pedagogy](https://v5.chriskrycho.com/journal/an-observation-on-programming-pedagogy/)
 * [2023-11-02, 14:20:09](https://lobste.rs/s/st3mbl/confusing_git_terminology) - [Confusing git terminology](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/)
