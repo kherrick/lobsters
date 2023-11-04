@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-04, 15:54:45",
+      "https://lobste.rs/s/myriem/my_new_cppcon_talk_is_on_youtube"
+    ],
+    [
+      "My new CppCon talk is on YouTube: “Cooperative C++ Evolution – Toward a TypeScript for C++”",
+      "https://herbsutter.com/2023/10/09/my-new-cppcon-talk-is-on-youtube-cooperative-c-evolution-toward-a-typescript-for-c/"
+    ]
+  ],
+  [
+    [
       "2023-11-04, 15:48:15",
       "https://lobste.rs/s/mogsn6/on_road_kde_plasma_6_vol_4"
     ],
@@ -137,16 +147,6 @@
     [
       "Preserving comments when parsing and formatting code",
       "https://jayconrod.com/posts/129/preserving-comments-when-parsing-and-formatting-code"
-    ]
-  ],
-  [
-    [
-      "2023-11-03, 19:07:11",
-      "https://lobste.rs/s/gd7uum/destructing_trees_safely_cheaply"
-    ],
-    [
-      "Destructing trees safely and cheaply",
-      "https://ismailmaj.github.io/destructing-trees-safely-and-cheaply"
     ]
   ],
   [
