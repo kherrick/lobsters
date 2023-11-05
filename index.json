@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-05, 15:14:06",
+      "https://lobste.rs/s/w703gg/building_high_performance_json_parser"
+    ],
+    [
+      "Building a high performance JSON parser",
+      "https://dave.cheney.net/paste/gophercon-sg-2023.html"
+    ]
+  ],
+  [
+    [
       "2023-11-05, 14:43:02",
       "https://lobste.rs/s/zd6nyd/love_letter_react_native_2021"
     ],
@@ -177,16 +187,6 @@
     [
       "carapace-bin: multi-shell multi-command argument completer",
       "https://github.com/rsteube/carapace-bin"
-    ]
-  ],
-  [
-    [
-      "2023-11-04, 10:59:51",
-      "https://lobste.rs/s/pb0u52/getting_up_another_processes_memory"
-    ],
-    [
-      "Getting up in another processes memory",
-      "https://www.youtube.com/watch?v=0ihChIaN8d0"
     ]
   ],
   [
