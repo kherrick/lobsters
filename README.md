@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-05, 05:42:53](https://lobste.rs/s/qnb7xt/ninja_is_enough_build_system) - [Ninja is enough build system](https://bernsteinbear.com//blog/ninja-is-enough/)
 * [2023-11-05, 01:51:16](https://lobste.rs/s/hrzihm/inet) - [iNet](https://inet.run/)
 * [2023-11-04, 21:32:35](https://lobste.rs/s/wtk2rk/types_comparison_rust_zig) - [Types comparison: Rust -> Zig](https://len.falken.directory/types-rust-zig.html)
 * [2023-11-04, 21:14:40](https://lobste.rs/s/zgxiph/how_do_typescript_conversion) - [How to Do a TypeScript Conversion](https://v5.chriskrycho.com/journal/how-to-do-a-typescript-conversion/)
@@ -22,7 +23,6 @@
 * [2023-11-03, 21:23:01](https://lobste.rs/s/prfpjq/preserving_comments_when_parsing) - [Preserving comments when parsing and formatting code](https://jayconrod.com/posts/129/preserving-comments-when-parsing-and-formatting-code)
 * [2023-11-03, 17:08:15](https://lobste.rs/s/dpahjz/sudo_rs_first_security_audit) - [sudo-rs' first security audit](https://ferrous-systems.com/blog/sudo-rs-audit/)
 * [2023-11-03, 12:18:54](https://lobste.rs/s/1ne7ov/useless_ruby_sugar_pattern_matching) - [“Useless Ruby sugar”: Pattern matching](https://zverok.space/blog/2023-10-20-syntax-sugar2-pattern-matching.html)
-* [2023-11-03, 11:49:44](https://lobste.rs/s/quwkzq/great_nickel_configurations_from_little) - [Great Nickel configurations from little merges grow](https://tweag.io/blog/2023-11-02-nickel-merge-system/)
 * [2023-11-03, 09:10:34](https://lobste.rs/s/5hf7qf/why_you_should_write_your_own_static_site) - [Why You Should Write Your Own Static Site Generator](https://arne.me/articles/write-your-own-ssg)
 * [2023-11-03, 09:07:52](https://lobste.rs/s/0hbzos/rsc_regexp_translations_simple_c_program) - [rsc-regexp: Translations of a simple C program to Rust](https://github.com/BurntSushi/rsc-regexp)
 
