@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-05](index.md)
 
+* [2023-11-05, 17:28:20](https://lobste.rs/s/ujuiqw/see_history_method_with_git_log_l) - [See the History of a Method with git log -L](https://calebhearth.com/l/git-method-history)
+* [2023-11-05, 17:27:00](https://lobste.rs/s/jxlxum/undo_assets_clobber_what_you_do_assets) - [Undo in assets:clobber What You Do in assets:precompile](https://calebhearth.com/l/assets-precompile-clobber)
 * [2023-11-05, 16:18:03](https://lobste.rs/s/43v27y/dotree_small_interactive_command_runner) - [dotree: A small, interactive command runner](https://github.com/KnorrFG/dotree)
 * [2023-11-05, 15:14:06](https://lobste.rs/s/w703gg/building_high_performance_json_parser) - [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
 * [2023-11-05, 14:43:02](https://lobste.rs/s/zd6nyd/love_letter_react_native_2021) - [A Love Letter to React Native (2021)](https://stopa.io/post/287)

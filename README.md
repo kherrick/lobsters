@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-05, 17:28:20](https://lobste.rs/s/ujuiqw/see_history_method_with_git_log_l) - [See the History of a Method with git log -L](https://calebhearth.com/l/git-method-history)
+* [2023-11-05, 17:27:00](https://lobste.rs/s/jxlxum/undo_assets_clobber_what_you_do_assets) - [Undo in assets:clobber What You Do in assets:precompile](https://calebhearth.com/l/assets-precompile-clobber)
 * [2023-11-05, 16:18:03](https://lobste.rs/s/43v27y/dotree_small_interactive_command_runner) - [dotree: A small, interactive command runner](https://github.com/KnorrFG/dotree)
 * [2023-11-05, 15:14:06](https://lobste.rs/s/w703gg/building_high_performance_json_parser) - [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
 * [2023-11-05, 14:43:02](https://lobste.rs/s/zd6nyd/love_letter_react_native_2021) - [A Love Letter to React Native (2021)](https://stopa.io/post/287)
@@ -23,8 +25,6 @@
 * [2023-11-04, 09:32:44](https://lobste.rs/s/wie2he/my_wishlist_for_nixos_security_2024) - [My wishlist for NixOS security in 2024+](https://delroth.net/posts/nixos-security-wishlist/)
 * [2023-11-04, 06:02:47](https://lobste.rs/s/bjcugr/reacting_compile_time_type_properties_c) - [Reacting to compile-time type properties in C++17](https://codekobold.io/cpp-17-detect-data-member.html)
 * [2023-11-04, 01:31:17](https://lobste.rs/s/xmlr6b/day_with_zig) - [A day with Zig](https://www.pierrebeaucamp.com/a-day-with-zig/)
-* [2023-11-03, 17:08:15](https://lobste.rs/s/dpahjz/sudo_rs_first_security_audit) - [sudo-rs' first security audit](https://ferrous-systems.com/blog/sudo-rs-audit/)
-* [2023-11-03, 09:10:34](https://lobste.rs/s/5hf7qf/why_you_should_write_your_own_static_site) - [Why You Should Write Your Own Static Site Generator](https://arne.me/articles/write-your-own-ssg)
 
 ## [Archives](archives/index.md)
 
