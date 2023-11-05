@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-05, 17:28:20",
+      "https://lobste.rs/s/ujuiqw/see_history_method_with_git_log_l"
+    ],
+    [
+      "See the History of a Method with git log -L",
+      "https://calebhearth.com/l/git-method-history"
+    ]
+  ],
+  [
+    [
+      "2023-11-05, 17:27:00",
+      "https://lobste.rs/s/jxlxum/undo_assets_clobber_what_you_do_assets"
+    ],
+    [
+      "Undo in assets:clobber What You Do in assets:precompile",
+      "https://calebhearth.com/l/assets-precompile-clobber"
+    ]
+  ],
+  [
+    [
       "2023-11-05, 16:18:03",
       "https://lobste.rs/s/43v27y/dotree_small_interactive_command_runner"
     ],
@@ -227,26 +247,6 @@
     [
       "A day with Zig",
       "https://www.pierrebeaucamp.com/a-day-with-zig/"
-    ]
-  ],
-  [
-    [
-      "2023-11-03, 17:08:15",
-      "https://lobste.rs/s/dpahjz/sudo_rs_first_security_audit"
-    ],
-    [
-      "sudo-rs' first security audit",
-      "https://ferrous-systems.com/blog/sudo-rs-audit/"
-    ]
-  ],
-  [
-    [
-      "2023-11-03, 09:10:34",
-      "https://lobste.rs/s/5hf7qf/why_you_should_write_your_own_static_site"
-    ],
-    [
-      "Why You Should Write Your Own Static Site Generator",
-      "https://arne.me/articles/write-your-own-ssg"
     ]
   ]
 ]
