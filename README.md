@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-05, 20:50:31](https://lobste.rs/s/ljwsvm/tests_are_bad_for_developers_under_time) - [Tests Are Bad For Developers Under Time Pressure](https://www.amazingcto.com/tests-are-bad-for-developers/)
 * [2023-11-05, 19:06:25](https://lobste.rs/s/hmjeuh/osi_internet_wasn_t) - [OSI: The internet that wasn't](https://spectrum.ieee.org/osi-the-internet-that-wasnt)
 * [2023-11-05, 18:39:00](https://lobste.rs/s/jmztxq/why_cities_skylines_2_performs_poorly) - [Why Cities: Skylines 2 performs poorly](https://blog.paavo.me/cities-skylines-2-performance/)
 * [2023-11-05, 17:51:39](https://lobste.rs/s/7vyysj/wordplay_accessible_language_inclusive) - [Wordplay: an accessible, language-inclusive programming language for all](https://medium.com/bits-and-behavior/wordplay-accessible-language-inclusive-interactive-typography-e4b9027eaf10)
@@ -24,7 +25,6 @@
 * [2023-11-04, 13:34:50](https://lobste.rs/s/djyjad/hyphens_minus_dashes_debian_man_pages) - [Hyphens, minus, and dashes in Debian man pages](https://lwn.net/Articles/947941/)
 * [2023-11-04, 09:32:44](https://lobste.rs/s/wie2he/my_wishlist_for_nixos_security_2024) - [My wishlist for NixOS security in 2024+](https://delroth.net/posts/nixos-security-wishlist/)
 * [2023-11-04, 06:02:47](https://lobste.rs/s/bjcugr/reacting_compile_time_type_properties_c) - [Reacting to compile-time type properties in C++17](https://codekobold.io/cpp-17-detect-data-member.html)
-* [2023-11-04, 01:31:17](https://lobste.rs/s/xmlr6b/day_with_zig) - [A day with Zig](https://www.pierrebeaucamp.com/a-day-with-zig/)
 
 ## [Archives](archives/index.md)
 

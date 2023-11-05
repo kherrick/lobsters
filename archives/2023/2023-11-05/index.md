@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-05](index.md)
 
+* [2023-11-05, 20:50:31](https://lobste.rs/s/ljwsvm/tests_are_bad_for_developers_under_time) - [Tests Are Bad For Developers Under Time Pressure](https://www.amazingcto.com/tests-are-bad-for-developers/)
 * [2023-11-05, 19:06:25](https://lobste.rs/s/hmjeuh/osi_internet_wasn_t) - [OSI: The internet that wasn't](https://spectrum.ieee.org/osi-the-internet-that-wasnt)
 * [2023-11-05, 18:39:00](https://lobste.rs/s/jmztxq/why_cities_skylines_2_performs_poorly) - [Why Cities: Skylines 2 performs poorly](https://blog.paavo.me/cities-skylines-2-performance/)
 * [2023-11-05, 17:51:39](https://lobste.rs/s/7vyysj/wordplay_accessible_language_inclusive) - [Wordplay: an accessible, language-inclusive programming language for all](https://medium.com/bits-and-behavior/wordplay-accessible-language-inclusive-interactive-typography-e4b9027eaf10)
