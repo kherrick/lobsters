@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-11-04, 16:03:11",
+      "https://lobste.rs/s/mwqbbe/rocket_s_4th_v0_5_release_candidate"
+    ],
+    [
+      "Rocket's 4th v0.5 Release Candidate",
+      "https://rocket.rs/v0.5-rc/news/2023-11-01-version-0.5-rc.4/"
+    ]
+  ],
+  [
+    [
       "2023-11-04, 15:48:15",
       "https://lobste.rs/s/mogsn6/on_road_kde_plasma_6_vol_4"
     ],
@@ -207,16 +217,6 @@
     [
       "Hyphens, minus, and dashes in Debian man pages",
       "https://lwn.net/Articles/947941/"
-    ]
-  ],
-  [
-    [
-      "2023-11-04, 12:50:40",
-      "https://lobste.rs/s/anfyy8/carapace_bin_multi_shell_multi_command"
-    ],
-    [
-      "carapace-bin: multi-shell multi-command argument completer",
-      "https://github.com/rsteube/carapace-bin"
     ]
   ],
   [
