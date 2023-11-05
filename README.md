@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-05, 17:40:18](https://lobste.rs/s/o9kyok/i_like_gentoo_s_package_deprecation) - [i like gentoo’s package deprecation process](https://artemis.sh/2023/11/05/gentoo-mask-process.html)
 * [2023-11-05, 17:28:20](https://lobste.rs/s/ujuiqw/see_history_method_with_git_log_l) - [See the History of a Method with git log -L](https://calebhearth.com/l/git-method-history)
 * [2023-11-05, 17:27:00](https://lobste.rs/s/jxlxum/undo_assets_clobber_what_you_do_assets) - [Undo in assets:clobber What You Do in assets:precompile](https://calebhearth.com/l/assets-precompile-clobber)
 * [2023-11-05, 16:18:03](https://lobste.rs/s/43v27y/dotree_small_interactive_command_runner) - [dotree: A small, interactive command runner](https://github.com/KnorrFG/dotree)
@@ -14,7 +15,6 @@
 * [2023-11-04, 21:32:35](https://lobste.rs/s/wtk2rk/types_comparison_rust_zig) - [Types comparison: Rust -> Zig](https://len.falken.directory/types-rust-zig.html)
 * [2023-11-04, 21:14:40](https://lobste.rs/s/zgxiph/how_do_typescript_conversion) - [How to Do a TypeScript Conversion](https://v5.chriskrycho.com/journal/how-to-do-a-typescript-conversion/)
 * [2023-11-04, 19:33:13](https://lobste.rs/s/vmrnyd/git_notes_git_s_coolest_most_unloved) - [Git Notes: git's coolest, most unloved­ feature (2022)](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
-* [2023-11-04, 16:50:36](https://lobste.rs/s/yj3wqg/towards_modern_development_cloud) - [Towards Modern Development of Cloud Applications](https://sigops.org/s/conferences/hotos/2023/papers/ghemawat.pdf)
 * [2023-11-04, 16:03:11](https://lobste.rs/s/mwqbbe/rocket_s_4th_v0_5_release_candidate) - [Rocket's 4th v0.5 Release Candidate](https://rocket.rs/v0.5-rc/news/2023-11-01-version-0.5-rc.4/)
 * [2023-11-04, 15:54:45](https://lobste.rs/s/myriem/cooperative_c_evolution_toward) - [Cooperative C++ Evolution – Toward a TypeScript for C++](https://herbsutter.com/2023/10/09/my-new-cppcon-talk-is-on-youtube-cooperative-c-evolution-toward-a-typescript-for-c/)
 * [2023-11-04, 15:48:15](https://lobste.rs/s/mogsn6/on_road_kde_plasma_6_vol_4) - [On the Road to KDE Plasma 6, Vol. 4](https://blog.broulik.de/2023/11/on-the-road-to-plasma-6-vol-4/)
