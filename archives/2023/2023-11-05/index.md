@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-05](index.md)
 
+* [2023-11-05, 16:18:03](https://lobste.rs/s/43v27y/dotree_small_interactive_command_runner) - [dotree: A small, interactive command runner](https://github.com/KnorrFG/dotree)
 * [2023-11-05, 15:14:06](https://lobste.rs/s/w703gg/building_high_performance_json_parser) - [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
 * [2023-11-05, 14:43:02](https://lobste.rs/s/zd6nyd/love_letter_react_native_2021) - [A Love Letter to React Native (2021)](https://stopa.io/post/287)
 * [2023-11-05, 14:20:14](https://lobste.rs/s/6mt9uu/bubble_sort_pure_css) - [Bubble Sort...in PURE CSS](https://dev.to/grahamthedev/bubble-sortin-pure-css-no-js-3bb1)
