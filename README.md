@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-05, 14:43:02](https://lobste.rs/s/zd6nyd/love_letter_react_native_2021) - [A Love Letter to React Native (2021)](https://stopa.io/post/287)
 * [2023-11-05, 14:20:14](https://lobste.rs/s/6mt9uu/bubble_sort_pure_css) - [Bubble Sort...in PURE CSS](https://dev.to/grahamthedev/bubble-sortin-pure-css-no-js-3bb1)
 * [2023-11-05, 14:08:00](https://lobste.rs/s/ekx1si/banning_e2ee_is_stupid_do_you_think) - [banning-e2ee-is-stupid: Do you think banning end-to-end encryption is plausible?  Think again](https://github.com/davidchisnall/banning-e2ee-is-stupid)
 * [2023-11-05, 11:08:51](https://lobste.rs/s/cssxth/what_s_your_go_source_for_vanilla_js) - [What's your go-to source for vanilla JS components for use with HTMX?](https://lobste.rs/s/cssxth/what_s_your_go_source_for_vanilla_js)
@@ -17,7 +18,6 @@
 * [2023-11-04, 13:38:09](https://lobste.rs/s/nqzcfd/post_mortem_on_cloudflare_control_plane) - [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/)
 * [2023-11-04, 13:34:50](https://lobste.rs/s/djyjad/hyphens_minus_dashes_debian_man_pages) - [Hyphens, minus, and dashes in Debian man pages](https://lwn.net/Articles/947941/)
 * [2023-11-04, 12:50:40](https://lobste.rs/s/anfyy8/carapace_bin_multi_shell_multi_command) - [carapace-bin: multi-shell multi-command argument completer](https://github.com/rsteube/carapace-bin)
-* [2023-11-04, 11:07:38](https://lobste.rs/s/7bwb1d/git_visual_reference_2011) - [Git Visual Reference (2011)](https://www.lurklurk.org/gitpix/gitpix.html)
 * [2023-11-04, 10:59:51](https://lobste.rs/s/pb0u52/getting_up_another_processes_memory) - [Getting up in another processes memory](https://www.youtube.com/watch?v=0ihChIaN8d0)
 * [2023-11-04, 09:32:44](https://lobste.rs/s/wie2he/my_wishlist_for_nixos_security_2024) - [My wishlist for NixOS security in 2024+](https://delroth.net/posts/nixos-security-wishlist/)
 * [2023-11-04, 06:02:47](https://lobste.rs/s/bjcugr/reacting_compile_time_type_properties_c) - [Reacting to compile-time type properties in C++17](https://codekobold.io/cpp-17-detect-data-member.html)
