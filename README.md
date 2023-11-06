@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-06, 11:50:44](https://lobste.rs/s/zzvykw/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zzvykw/what_are_you_doing_this_week)
 * [2023-11-06, 11:38:14](https://lobste.rs/s/hxcttk/entity_resolution_with_ai_dblp_acm) - [Entity Resolution with AI: DBLP and ACM publication benchmark](https://terminusdb.com/blog/entity-resolution-with-ai-dblp-and-acm-publication-benchmark/)
 * [2023-11-06, 09:55:04](https://lobste.rs/s/lut2im/shoelace_framework_agnostic_web) - [Shoelace: framework agnostic web components](https://shoelace.style/ )
 * [2023-11-06, 09:46:58](https://lobste.rs/s/tzrykl/makefile_tutorial_by_example) - [Makefile Tutorial by Example](https://makefiletutorial.com/)
@@ -14,7 +15,6 @@
 * [2023-11-05, 20:50:31](https://lobste.rs/s/ljwsvm/tests_are_bad_for_developers_under_time) - [Tests Are Bad For Developers Under Time Pressure](https://www.amazingcto.com/tests-are-bad-for-developers/)
 * [2023-11-05, 19:06:25](https://lobste.rs/s/hmjeuh/osi_internet_wasn_t) - [OSI: The internet that wasn't](https://spectrum.ieee.org/osi-the-internet-that-wasnt)
 * [2023-11-05, 18:39:00](https://lobste.rs/s/jmztxq/why_cities_skylines_2_performs_poorly) - [Why Cities: Skylines 2 performs poorly](https://blog.paavo.me/cities-skylines-2-performance/)
-* [2023-11-05, 17:51:39](https://lobste.rs/s/7vyysj/wordplay_accessible_language_inclusive) - [Wordplay: an accessible, language-inclusive programming language for all](https://medium.com/bits-and-behavior/wordplay-accessible-language-inclusive-interactive-typography-e4b9027eaf10)
 * [2023-11-05, 17:40:18](https://lobste.rs/s/o9kyok/i_like_gentoo_s_package_deprecation) - [i like gentoo’s package deprecation process](https://artemis.sh/2023/11/05/gentoo-mask-process.html)
 * [2023-11-05, 17:28:20](https://lobste.rs/s/ujuiqw/see_history_method_with_git_log_l) - [See the History of a Method with git log -L](https://calebhearth.com/l/git-method-history)
 * [2023-11-05, 17:27:00](https://lobste.rs/s/jxlxum/undo_assets_clobber_what_you_do_assets) - [Undo in assets:clobber What You Do in assets:precompile](https://calebhearth.com/l/assets-precompile-clobber)
