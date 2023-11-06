@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-06, 18:06:16](https://lobste.rs/s/vzdgu8/what_s_up_python_ios_support_ruff_gets) - [What's up Python? iOS support, ruff gets black, flask 3.0](https://www.bitecode.dev/p/whats-up-python-ios-support-ruff)
 * [2023-11-06, 17:50:45](https://lobste.rs/s/miikoq/git_rebase_what_can_go_wrong) - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
 * [2023-11-06, 15:25:49](https://lobste.rs/s/zvv5tc/adding_build_provenance_homebrew) - [Adding build provenance to Homebrew](https://blog.trailofbits.com/2023/11/06/adding-build-provenance-to-homebrew/)
 * [2023-11-06, 14:44:34](https://lobste.rs/s/lnwbak/future_synapse_dendrite) - [The future of Synapse and Dendrite](https://matrix.org/blog/2023/11/06/future-of-synapse-dendrite/)
@@ -17,7 +18,6 @@
 * [2023-11-06, 02:44:49](https://lobste.rs/s/p5tuau/milliforth_forth_422_bytes_smallest_real) - [milliForth: A FORTH in 422 bytes — the smallest real programming language ever as of yet](https://github.com/fuzzballcat/milliForth)
 * [2023-11-06, 02:40:09](https://lobste.rs/s/yq32hn/exploring_macintosh_rom) - [Exploring the Macintosh ROM](https://macgui.com/news/article.php?t=493)
 * [2023-11-05, 20:50:31](https://lobste.rs/s/ljwsvm/tests_are_bad_for_developers_under_time) - [Tests Are Bad For Developers Under Time Pressure](https://www.amazingcto.com/tests-are-bad-for-developers/)
-* [2023-11-05, 19:06:25](https://lobste.rs/s/hmjeuh/osi_internet_wasn_t) - [OSI: The internet that wasn't](https://spectrum.ieee.org/osi-the-internet-that-wasnt)
 * [2023-11-05, 18:39:00](https://lobste.rs/s/jmztxq/why_cities_skylines_2_performs_poorly) - [Why Cities: Skylines 2 performs poorly](https://blog.paavo.me/cities-skylines-2-performance/)
 * [2023-11-05, 17:40:18](https://lobste.rs/s/o9kyok/i_like_gentoo_s_package_deprecation) - [i like gentoo’s package deprecation process](https://artemis.sh/2023/11/05/gentoo-mask-process.html)
 * [2023-11-05, 17:28:20](https://lobste.rs/s/ujuiqw/see_history_method_with_git_log_l) - [See the History of a Method with git log -L](https://calebhearth.com/l/git-method-history)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 18:06:16](https://lobste.rs/s/vzdgu8/what_s_up_python_ios_support_ruff_gets) - [What's up Python? iOS support, ruff gets black, flask 3.0](https://www.bitecode.dev/p/whats-up-python-ios-support-ruff)
 * [2023-11-06, 17:50:45](https://lobste.rs/s/miikoq/git_rebase_what_can_go_wrong) - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
 * [2023-11-06, 15:25:49](https://lobste.rs/s/zvv5tc/adding_build_provenance_homebrew) - [Adding build provenance to Homebrew](https://blog.trailofbits.com/2023/11/06/adding-build-provenance-to-homebrew/)
 * [2023-11-06, 14:44:34](https://lobste.rs/s/lnwbak/future_synapse_dendrite) - [The future of Synapse and Dendrite](https://matrix.org/blog/2023/11/06/future-of-synapse-dendrite/)
