@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-06, 13:07:11",
+      "https://lobste.rs/s/h4e9bm/passive_ssh_key_compromise_via_lattices"
+    ],
+    [
+      "Passive SSH Key Compromise via Lattices",
+      "https://eprint.iacr.org/2023/1711.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-11-06, 12:54:25",
+      "https://lobste.rs/s/msmjtt/programming_distributed_systems"
+    ],
+    [
+      "Programming Distributed Systems",
+      "https://www.youtube.com/watch?v=Mc3tTRkjCvE"
+    ]
+  ],
+  [
+    [
       "2023-11-06, 11:50:44",
       "https://lobste.rs/s/zzvykw/what_are_you_doing_this_week"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2023-11-06, 00:42:54",
-      "https://lobste.rs/s/qiuzwj/let_s_get_creative"
-    ],
-    [
-      "Let's Get Creative",
-      "https://www.bryanbraun.com/lets-get-creative/"
-    ]
-  ],
-  [
-    [
       "2023-11-05, 20:50:31",
       "https://lobste.rs/s/ljwsvm/tests_are_bad_for_developers_under_time"
     ],
@@ -167,16 +177,6 @@
     [
       "See the History of a Method with git log -L",
       "https://calebhearth.com/l/git-method-history"
-    ]
-  ],
-  [
-    [
-      "2023-11-05, 17:27:00",
-      "https://lobste.rs/s/jxlxum/undo_assets_clobber_what_you_do_assets"
-    ],
-    [
-      "Undo in assets:clobber What You Do in assets:precompile",
-      "https://calebhearth.com/l/assets-precompile-clobber"
     ]
   ],
   [
