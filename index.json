@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-06, 04:24:56",
+      "https://lobste.rs/s/jiy2cs/f_for_performance_critical_code_2022"
+    ],
+    [
+      "F# for Performance-Critical Code (2022)",
+      "https://www.youtube.com/watch?v=NZ5Lwzrdoe8"
+    ]
+  ],
+  [
+    [
+      "2023-11-06, 04:21:03",
+      "https://lobste.rs/s/caewtw/inclusive_community_activists_are"
+    ],
+    [
+      "Inclusive community activists are harming FOSS",
+      "https://blog.vaxry.net/articles/2023-inclusiveActivists"
+    ]
+  ],
+  [
+    [
       "2023-11-06, 03:34:07",
       "https://lobste.rs/s/egyykl/racket_branch_chez_scheme_merging_with"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-11-05, 01:51:16",
-      "https://lobste.rs/s/hrzihm/inet"
-    ],
-    [
-      "iNet",
-      "https://inet.run/"
-    ]
-  ],
-  [
-    [
       "2023-11-04, 21:32:35",
       "https://lobste.rs/s/wtk2rk/types_comparison_rust_zig"
     ],
@@ -217,16 +227,6 @@
     [
       "Othello is Solved",
       "https://arxiv.org/abs/2310.19387"
-    ]
-  ],
-  [
-    [
-      "2023-11-04, 13:38:09",
-      "https://lobste.rs/s/nqzcfd/post_mortem_on_cloudflare_control_plane"
-    ],
-    [
-      "Post Mortem on Cloudflare Control Plane and Analytics Outage",
-      "https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/"
     ]
   ],
   [
