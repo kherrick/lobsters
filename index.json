@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2023-11-04, 15:48:15",
-      "https://lobste.rs/s/mogsn6/on_road_kde_plasma_6_vol_4"
-    ],
-    [
-      "On the Road to KDE Plasma 6, Vol. 4",
-      "https://blog.broulik.de/2023/11/on-the-road-to-plasma-6-vol-4/"
-    ]
-  ],
-  [
-    [
       "2023-11-04, 15:35:47",
       "https://lobste.rs/s/348lsw/othello_is_solved"
     ],
@@ -247,6 +237,16 @@
     [
       "My wishlist for NixOS security in 2024+",
       "https://delroth.net/posts/nixos-security-wishlist/"
+    ]
+  ],
+  [
+    [
+      "2023-11-04, 06:02:47",
+      "https://lobste.rs/s/bjcugr/reacting_compile_time_type_properties_c"
+    ],
+    [
+      "Reacting to compile-time type properties in C++17",
+      "https://codekobold.io/cpp-17-detect-data-member.html"
     ]
   ]
 ]
