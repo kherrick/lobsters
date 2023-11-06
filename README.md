@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-06, 19:32:47](https://lobste.rs/s/zftmun/whisper_v3_robust_speech_recognition_via) - [whisper v3: Robust Speech Recognition via Large-Scale Weak Supervision](https://github.com/openai/whisper)
 * [2023-11-06, 19:01:50](https://lobste.rs/s/7zwdeg/what_exactly_was_point_x_var_xval) - [What exactly was the point of [ “x$var” = “xval” ]?](https://www.vidarholen.net/contents/blog/?p=1035)
 * [2023-11-06, 18:06:16](https://lobste.rs/s/vzdgu8/what_s_up_python_ios_support_ruff_gets) - [What's up Python? iOS support, ruff gets black, flask 3.0](https://www.bitecode.dev/p/whats-up-python-ios-support-ruff)
 * [2023-11-06, 17:50:45](https://lobste.rs/s/miikoq/git_rebase_what_can_go_wrong) - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
@@ -24,7 +25,6 @@
 * [2023-11-05, 17:28:20](https://lobste.rs/s/ujuiqw/see_history_method_with_git_log_l) - [See the History of a Method with git log -L](https://calebhearth.com/l/git-method-history)
 * [2023-11-05, 16:18:03](https://lobste.rs/s/43v27y/dotree_small_interactive_command_runner) - [dotree: A small, interactive command runner](https://github.com/KnorrFG/dotree)
 * [2023-11-05, 14:08:00](https://lobste.rs/s/ekx1si/banning_e2ee_is_stupid_do_you_think) - [banning-e2ee-is-stupid: Do you think banning end-to-end encryption is plausible?  Think again](https://github.com/davidchisnall/banning-e2ee-is-stupid)
-* [2023-11-05, 11:08:51](https://lobste.rs/s/cssxth/what_s_your_go_source_for_vanilla_js) - [What's your go-to source for vanilla JS components for use with HTMX?](https://lobste.rs/s/cssxth/what_s_your_go_source_for_vanilla_js)
 
 ## [Archives](archives/index.md)
 
