@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-06, 05:55:02",
+      "https://lobste.rs/s/wmtw9u/intel_80386_revolutionary_cpu"
+    ],
+    [
+      "Intel 80386, a revolutionary CPU",
+      "https://www.xtof.info/intel80386.html"
+    ]
+  ],
+  [
+    [
       "2023-11-06, 04:24:56",
       "https://lobste.rs/s/jiy2cs/f_for_performance_critical_code_2022"
     ],
@@ -217,16 +227,6 @@
     [
       "Othello is Solved",
       "https://arxiv.org/abs/2310.19387"
-    ]
-  ],
-  [
-    [
-      "2023-11-04, 13:38:09",
-      "https://lobste.rs/s/nqzcfd/post_mortem_on_cloudflare_control_plane"
-    ],
-    [
-      "Post Mortem on Cloudflare Control Plane and Analytics Outage",
-      "https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/"
     ]
   ],
   [
