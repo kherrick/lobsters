@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-06, 14:44:34](https://lobste.rs/s/lnwbak/future_synapse_dendrite) - [The future of Synapse and Dendrite](https://matrix.org/blog/2023/11/06/future-of-synapse-dendrite/)
 * [2023-11-06, 13:45:30](https://lobste.rs/s/vkni0q/linear_algebra_trick_for_computing) - [A Linear Algebra Trick for Computing Fibonacci Numbers Fast](https://codeconfessions.substack.com/p/a-linear-algebra-trick-for-fibonacci-numbers)
 * [2023-11-06, 13:07:11](https://lobste.rs/s/h4e9bm/passive_ssh_key_compromise_via_lattices) - [Passive SSH Key Compromise via Lattices](https://eprint.iacr.org/2023/1711.pdf)
 * [2023-11-06, 12:54:25](https://lobste.rs/s/msmjtt/programming_distributed_systems) - [Programming Distributed Systems](https://www.youtube.com/watch?v=Mc3tTRkjCvE)
@@ -11,7 +12,6 @@
 * [2023-11-06, 07:27:05](https://lobste.rs/s/a74r48/building_ubuntu_images_nix) - [Building Ubuntu images in Nix](https://linus.schreibt.jetzt/posts/ubuntu-images.html)
 * [2023-11-06, 05:55:02](https://lobste.rs/s/wmtw9u/intel_80386_revolutionary_cpu) - [Intel 80386, a revolutionary CPU](https://www.xtof.info/intel80386.html)
 * [2023-11-06, 04:24:56](https://lobste.rs/s/jiy2cs/f_for_performance_critical_code_2022) - [F# for Performance-Critical Code (2022)](https://www.youtube.com/watch?v=NZ5Lwzrdoe8)
-* [2023-11-06, 03:34:07](https://lobste.rs/s/egyykl/racket_branch_chez_scheme_merging_with) - [Racket branch of Chez Scheme merging with mainline Chez Scheme](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU?pli=1)
 * [2023-11-06, 02:44:49](https://lobste.rs/s/p5tuau/milliforth_forth_422_bytes_smallest_real) - [milliForth: A FORTH in 422 bytes — the smallest real programming language ever as of yet](https://github.com/fuzzballcat/milliForth)
 * [2023-11-06, 02:40:09](https://lobste.rs/s/yq32hn/exploring_macintosh_rom) - [Exploring the Macintosh ROM](https://macgui.com/news/article.php?t=493)
 * [2023-11-05, 20:50:31](https://lobste.rs/s/ljwsvm/tests_are_bad_for_developers_under_time) - [Tests Are Bad For Developers Under Time Pressure](https://www.amazingcto.com/tests-are-bad-for-developers/)
