@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-06, 11:38:14](https://lobste.rs/s/hxcttk/entity_resolution_with_ai_dblp_acm) - [Entity Resolution with AI: DBLP and ACM publication benchmark](https://terminusdb.com/blog/entity-resolution-with-ai-dblp-and-acm-publication-benchmark/)
 * [2023-11-06, 09:55:04](https://lobste.rs/s/lut2im/shoelace_framework_agnostic_web) - [Shoelace: framework agnostic web components](https://shoelace.style/ )
 * [2023-11-06, 09:46:58](https://lobste.rs/s/tzrykl/makefile_tutorial_by_example) - [Makefile Tutorial by Example](https://makefiletutorial.com/)
 * [2023-11-06, 08:22:58](https://lobste.rs/s/6udrap/firefox_development_is_moving_from) - [Firefox Development Is Moving From Mercurial To Git](https://groups.google.com/a/mozilla.org/g/firefox-dev/c/QnfydsDj48o/m/8WadV0_dBQAJ?pli=1)
@@ -23,7 +24,6 @@
 * [2023-11-05, 11:08:51](https://lobste.rs/s/cssxth/what_s_your_go_source_for_vanilla_js) - [What's your go-to source for vanilla JS components for use with HTMX?](https://lobste.rs/s/cssxth/what_s_your_go_source_for_vanilla_js)
 * [2023-11-05, 08:16:40](https://lobste.rs/s/bdcsyt/swift_godot_fixing_multi_million_dollar) - [Swift Godot: Fixing the Multi-million dollar mistake](https://streaming.media.ccc.de/godotcon2023/relive/57866)
 * [2023-11-05, 05:42:53](https://lobste.rs/s/qnb7xt/ninja_is_enough_build_system) - [Ninja is enough build system](https://bernsteinbear.com//blog/ninja-is-enough/)
-* [2023-11-04, 21:32:35](https://lobste.rs/s/wtk2rk/types_comparison_rust_zig) - [Types comparison: Rust -> Zig](https://len.falken.directory/types-rust-zig.html)
 * [2023-11-04, 19:33:13](https://lobste.rs/s/vmrnyd/git_notes_git_s_coolest_most_unloved) - [Git Notes: git's coolest, most unloved­ feature (2022)](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
 
 ## [Archives](archives/index.md)

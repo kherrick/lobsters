@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 11:38:14](https://lobste.rs/s/hxcttk/entity_resolution_with_ai_dblp_acm) - [Entity Resolution with AI: DBLP and ACM publication benchmark](https://terminusdb.com/blog/entity-resolution-with-ai-dblp-and-acm-publication-benchmark/)
 * [2023-11-06, 09:55:04](https://lobste.rs/s/lut2im/shoelace_framework_agnostic_web) - [Shoelace: framework agnostic web components](https://shoelace.style/ )
 * [2023-11-06, 09:46:58](https://lobste.rs/s/tzrykl/makefile_tutorial_by_example) - [Makefile Tutorial by Example](https://makefiletutorial.com/)
 * [2023-11-06, 08:37:57](https://lobste.rs/s/oa6ezj/everything_wrong_with_tech_2023_no) - [Everything wrong with tech in 2023 (in no particular order)](https://joanwestenberg.com/blog/everything-wrong-with-tech-in-2023-in-no-particular-order)
