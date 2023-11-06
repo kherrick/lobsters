@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-11-06, 20:08:04",
+      "https://lobste.rs/s/wplr93/tumble_forth"
+    ],
+    [
+      "Tumble Forth",
+      "http://tumbleforth.hardcoded.net/"
+    ]
+  ],
+  [
+    [
+      "2023-11-06, 20:01:37",
+      "https://lobste.rs/s/dshwrc/new_models_developer_products_announced"
+    ],
+    [
+      "New models and developer products announced at DevDay",
+      "https://openai.com/blog/new-models-and-developer-products-announced-at-devday"
+    ]
+  ],
+  [
+    [
+      "2023-11-06, 19:55:38",
+      "https://lobste.rs/s/wy2jgl/goguma_irc_client_for_mobile_devices"
+    ],
+    [
+      "goguma: An IRC client for mobile devices",
+      "https://sr.ht/~emersion/goguma/"
+    ]
+  ],
+  [
+    [
       "2023-11-06, 19:32:47",
       "https://lobste.rs/s/zftmun/whisper_v3_robust_speech_recognition_via"
     ],
@@ -81,32 +111,12 @@
   ],
   [
     [
-      "2023-11-06, 12:54:25",
-      "https://lobste.rs/s/msmjtt/programming_distributed_systems"
-    ],
-    [
-      "Programming Distributed Systems",
-      "https://www.youtube.com/watch?v=Mc3tTRkjCvE"
-    ]
-  ],
-  [
-    [
       "2023-11-06, 11:50:44",
       "https://lobste.rs/s/zzvykw/what_are_you_doing_this_week"
     ],
     [
       "What are you doing this week?",
       "https://lobste.rs/s/zzvykw/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 11:38:14",
-      "https://lobste.rs/s/hxcttk/entity_resolution_with_ai_dblp_acm"
-    ],
-    [
-      "Entity Resolution with AI: DBLP and ACM publication benchmark",
-      "https://terminusdb.com/blog/entity-resolution-with-ai-dblp-and-acm-publication-benchmark/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "milliForth: A FORTH in 422 bytes — the smallest real programming language ever as of yet",
       "https://github.com/fuzzballcat/milliForth"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 02:40:09",
-      "https://lobste.rs/s/yq32hn/exploring_macintosh_rom"
-    ],
-    [
-      "Exploring the Macintosh ROM",
-      "https://macgui.com/news/article.php?t=493"
     ]
   ],
   [
