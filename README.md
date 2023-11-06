@@ -18,13 +18,13 @@
 * [2023-11-06, 02:44:49](https://lobste.rs/s/p5tuau/milliforth_forth_422_bytes_smallest_real) - [milliForth: A FORTH in 422 bytes — the smallest real programming language ever as of yet](https://github.com/fuzzballcat/milliForth)
 * [2023-11-06, 02:40:09](https://lobste.rs/s/yq32hn/exploring_macintosh_rom) - [Exploring the Macintosh ROM](https://macgui.com/news/article.php?t=493)
 * [2023-11-05, 20:50:31](https://lobste.rs/s/ljwsvm/tests_are_bad_for_developers_under_time) - [Tests Are Bad For Developers Under Time Pressure](https://www.amazingcto.com/tests-are-bad-for-developers/)
+* [2023-11-05, 19:06:25](https://lobste.rs/s/hmjeuh/osi_internet_wasn_t) - [OSI: The internet that wasn't](https://spectrum.ieee.org/osi-the-internet-that-wasnt)
 * [2023-11-05, 18:39:00](https://lobste.rs/s/jmztxq/why_cities_skylines_2_performs_poorly) - [Why Cities: Skylines 2 performs poorly](https://blog.paavo.me/cities-skylines-2-performance/)
 * [2023-11-05, 17:40:18](https://lobste.rs/s/o9kyok/i_like_gentoo_s_package_deprecation) - [i like gentoo’s package deprecation process](https://artemis.sh/2023/11/05/gentoo-mask-process.html)
 * [2023-11-05, 17:28:20](https://lobste.rs/s/ujuiqw/see_history_method_with_git_log_l) - [See the History of a Method with git log -L](https://calebhearth.com/l/git-method-history)
 * [2023-11-05, 16:18:03](https://lobste.rs/s/43v27y/dotree_small_interactive_command_runner) - [dotree: A small, interactive command runner](https://github.com/KnorrFG/dotree)
 * [2023-11-05, 14:08:00](https://lobste.rs/s/ekx1si/banning_e2ee_is_stupid_do_you_think) - [banning-e2ee-is-stupid: Do you think banning end-to-end encryption is plausible?  Think again](https://github.com/davidchisnall/banning-e2ee-is-stupid)
 * [2023-11-05, 11:08:51](https://lobste.rs/s/cssxth/what_s_your_go_source_for_vanilla_js) - [What's your go-to source for vanilla JS components for use with HTMX?](https://lobste.rs/s/cssxth/what_s_your_go_source_for_vanilla_js)
-* [2023-11-05, 05:42:53](https://lobste.rs/s/qnb7xt/ninja_is_enough_build_system) - [Ninja is enough build system](https://bernsteinbear.com//blog/ninja-is-enough/)
 
 ## [Archives](archives/index.md)
 
