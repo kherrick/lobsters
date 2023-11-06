@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 17:50:45](https://lobste.rs/s/miikoq/git_rebase_what_can_go_wrong) - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
 * [2023-11-06, 15:25:49](https://lobste.rs/s/zvv5tc/adding_build_provenance_homebrew) - [Adding build provenance to Homebrew](https://blog.trailofbits.com/2023/11/06/adding-build-provenance-to-homebrew/)
 * [2023-11-06, 14:44:34](https://lobste.rs/s/lnwbak/future_synapse_dendrite) - [The future of Synapse and Dendrite](https://matrix.org/blog/2023/11/06/future-of-synapse-dendrite/)
 * [2023-11-06, 13:45:30](https://lobste.rs/s/vkni0q/linear_algebra_trick_for_computing) - [A Linear Algebra Trick for Computing Fibonacci Numbers Fast](https://codeconfessions.substack.com/p/a-linear-algebra-trick-for-fibonacci-numbers)
