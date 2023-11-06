@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-06, 14:44:34",
+      "https://lobste.rs/s/lnwbak/future_synapse_dendrite"
+    ],
+    [
+      "The future of Synapse and Dendrite",
+      "https://matrix.org/blog/2023/11/06/future-of-synapse-dendrite/"
+    ]
+  ],
+  [
+    [
       "2023-11-06, 13:45:30",
       "https://lobste.rs/s/vkni0q/linear_algebra_trick_for_computing"
     ],
@@ -107,16 +117,6 @@
     [
       "F# for Performance-Critical Code (2022)",
       "https://www.youtube.com/watch?v=NZ5Lwzrdoe8"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 03:34:07",
-      "https://lobste.rs/s/egyykl/racket_branch_chez_scheme_merging_with"
-    ],
-    [
-      "Racket branch of Chez Scheme merging with mainline Chez Scheme",
-      "https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU?pli=1"
     ]
   ],
   [
