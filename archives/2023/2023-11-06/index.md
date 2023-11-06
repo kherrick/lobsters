@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 08:22:58](https://lobste.rs/s/6udrap/firefox_development_is_moving_from) - [Firefox Development Is Moving From Mercurial To Git](https://groups.google.com/a/mozilla.org/g/firefox-dev/c/QnfydsDj48o/m/8WadV0_dBQAJ?pli=1)
 * [2023-11-06, 07:27:05](https://lobste.rs/s/a74r48/building_ubuntu_images_nix) - [Building Ubuntu images in Nix](https://linus.schreibt.jetzt/posts/ubuntu-images.html)
 * [2023-11-06, 05:55:02](https://lobste.rs/s/wmtw9u/intel_80386_revolutionary_cpu) - [Intel 80386, a revolutionary CPU](https://www.xtof.info/intel80386.html)
 * [2023-11-06, 04:24:56](https://lobste.rs/s/jiy2cs/f_for_performance_critical_code_2022) - [F# for Performance-Critical Code (2022)](https://www.youtube.com/watch?v=NZ5Lwzrdoe8)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-06, 08:22:58](https://lobste.rs/s/6udrap/firefox_development_is_moving_from) - [Firefox Development Is Moving From Mercurial To Git](https://groups.google.com/a/mozilla.org/g/firefox-dev/c/QnfydsDj48o/m/8WadV0_dBQAJ?pli=1)
 * [2023-11-06, 07:27:05](https://lobste.rs/s/a74r48/building_ubuntu_images_nix) - [Building Ubuntu images in Nix](https://linus.schreibt.jetzt/posts/ubuntu-images.html)
 * [2023-11-06, 05:55:02](https://lobste.rs/s/wmtw9u/intel_80386_revolutionary_cpu) - [Intel 80386, a revolutionary CPU](https://www.xtof.info/intel80386.html)
 * [2023-11-06, 04:24:56](https://lobste.rs/s/jiy2cs/f_for_performance_critical_code_2022) - [F# for Performance-Critical Code (2022)](https://www.youtube.com/watch?v=NZ5Lwzrdoe8)
@@ -24,7 +25,6 @@
 * [2023-11-04, 19:33:13](https://lobste.rs/s/vmrnyd/git_notes_git_s_coolest_most_unloved) - [Git Notes: git's coolest, most unloved­ feature (2022)](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
 * [2023-11-04, 15:35:47](https://lobste.rs/s/348lsw/othello_is_solved) - [Othello is Solved](https://arxiv.org/abs/2310.19387)
 * [2023-11-04, 13:34:50](https://lobste.rs/s/djyjad/hyphens_minus_dashes_debian_man_pages) - [Hyphens, minus, and dashes in Debian man pages](https://lwn.net/Articles/947941/)
-* [2023-11-04, 09:32:44](https://lobste.rs/s/wie2he/my_wishlist_for_nixos_security_2024) - [My wishlist for NixOS security in 2024+](https://delroth.net/posts/nixos-security-wishlist/)
 
 ## [Archives](archives/index.md)
 
