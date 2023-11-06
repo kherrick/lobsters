@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-06, 15:25:49",
+      "https://lobste.rs/s/zvv5tc/adding_build_provenance_homebrew"
+    ],
+    [
+      "Adding build provenance to Homebrew",
+      "https://blog.trailofbits.com/2023/11/06/adding-build-provenance-to-homebrew/"
+    ]
+  ],
+  [
+    [
       "2023-11-06, 14:44:34",
       "https://lobste.rs/s/lnwbak/future_synapse_dendrite"
     ],
@@ -197,16 +207,6 @@
     [
       "dotree: A small, interactive command runner",
       "https://github.com/KnorrFG/dotree"
-    ]
-  ],
-  [
-    [
-      "2023-11-05, 15:14:06",
-      "https://lobste.rs/s/w703gg/building_high_performance_json_parser"
-    ],
-    [
-      "Building a high performance JSON parser",
-      "https://dave.cheney.net/paste/gophercon-sg-2023.html"
     ]
   ],
   [
