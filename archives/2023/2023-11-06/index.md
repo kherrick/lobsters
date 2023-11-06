@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 09:46:58](https://lobste.rs/s/tzrykl/makefile_tutorial_by_example) - [Makefile Tutorial by Example](https://makefiletutorial.com/)
 * [2023-11-06, 08:37:57](https://lobste.rs/s/oa6ezj/everything_wrong_with_tech_2023_no) - [Everything wrong with tech in 2023 (in no particular order)](https://joanwestenberg.com/blog/everything-wrong-with-tech-in-2023-in-no-particular-order)
 * [2023-11-06, 08:22:58](https://lobste.rs/s/6udrap/firefox_development_is_moving_from) - [Firefox Development Is Moving From Mercurial To Git](https://groups.google.com/a/mozilla.org/g/firefox-dev/c/QnfydsDj48o/m/8WadV0_dBQAJ?pli=1)
 * [2023-11-06, 07:27:05](https://lobste.rs/s/a74r48/building_ubuntu_images_nix) - [Building Ubuntu images in Nix](https://linus.schreibt.jetzt/posts/ubuntu-images.html)
