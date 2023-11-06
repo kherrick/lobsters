@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 21:31:50](https://lobste.rs/s/6ia4e3/first_handset_with_mte_on_market) - [First handset with MTE on the market](https://googleprojectzero.blogspot.com/2023/11/first-handset-with-mte-on-market.html)
 * [2023-11-06, 20:08:04](https://lobste.rs/s/wplr93/tumble_forth) - [Tumble Forth](http://tumbleforth.hardcoded.net/)
 * [2023-11-06, 20:01:37](https://lobste.rs/s/dshwrc/new_models_developer_products_announced) - [New models and developer products announced at DevDay](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)
 * [2023-11-06, 19:55:38](https://lobste.rs/s/wy2jgl/goguma_irc_client_for_mobile_devices) - [goguma: An IRC client for mobile devices](https://sr.ht/~emersion/goguma/)
