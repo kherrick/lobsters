@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 13:45:30](https://lobste.rs/s/vkni0q/linear_algebra_trick_for_computing) - [A Linear Algebra Trick for Computing Fibonacci Numbers Fast](https://codeconfessions.substack.com/p/a-linear-algebra-trick-for-fibonacci-numbers)
 * [2023-11-06, 13:07:11](https://lobste.rs/s/h4e9bm/passive_ssh_key_compromise_via_lattices) - [Passive SSH Key Compromise via Lattices](https://eprint.iacr.org/2023/1711.pdf)
 * [2023-11-06, 12:54:25](https://lobste.rs/s/msmjtt/programming_distributed_systems) - [Programming Distributed Systems](https://www.youtube.com/watch?v=Mc3tTRkjCvE)
 * [2023-11-06, 11:50:44](https://lobste.rs/s/zzvykw/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zzvykw/what_are_you_doing_this_week)

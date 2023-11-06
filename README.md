@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-06, 13:45:30](https://lobste.rs/s/vkni0q/linear_algebra_trick_for_computing) - [A Linear Algebra Trick for Computing Fibonacci Numbers Fast](https://codeconfessions.substack.com/p/a-linear-algebra-trick-for-fibonacci-numbers)
 * [2023-11-06, 13:07:11](https://lobste.rs/s/h4e9bm/passive_ssh_key_compromise_via_lattices) - [Passive SSH Key Compromise via Lattices](https://eprint.iacr.org/2023/1711.pdf)
 * [2023-11-06, 12:54:25](https://lobste.rs/s/msmjtt/programming_distributed_systems) - [Programming Distributed Systems](https://www.youtube.com/watch?v=Mc3tTRkjCvE)
 * [2023-11-06, 11:50:44](https://lobste.rs/s/zzvykw/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zzvykw/what_are_you_doing_this_week)
@@ -22,7 +23,6 @@
 * [2023-11-05, 15:14:06](https://lobste.rs/s/w703gg/building_high_performance_json_parser) - [Building a high performance JSON parser](https://dave.cheney.net/paste/gophercon-sg-2023.html)
 * [2023-11-05, 14:08:00](https://lobste.rs/s/ekx1si/banning_e2ee_is_stupid_do_you_think) - [banning-e2ee-is-stupid: Do you think banning end-to-end encryption is plausible?  Think again](https://github.com/davidchisnall/banning-e2ee-is-stupid)
 * [2023-11-05, 11:08:51](https://lobste.rs/s/cssxth/what_s_your_go_source_for_vanilla_js) - [What's your go-to source for vanilla JS components for use with HTMX?](https://lobste.rs/s/cssxth/what_s_your_go_source_for_vanilla_js)
-* [2023-11-05, 08:16:40](https://lobste.rs/s/bdcsyt/swift_godot_fixing_multi_million_dollar) - [Swift Godot: Fixing the Multi-million dollar mistake](https://streaming.media.ccc.de/godotcon2023/relive/57866)
 * [2023-11-05, 05:42:53](https://lobste.rs/s/qnb7xt/ninja_is_enough_build_system) - [Ninja is enough build system](https://bernsteinbear.com//blog/ninja-is-enough/)
 * [2023-11-04, 19:33:13](https://lobste.rs/s/vmrnyd/git_notes_git_s_coolest_most_unloved) - [Git Notes: git's coolest, most unloved­ feature (2022)](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
 
