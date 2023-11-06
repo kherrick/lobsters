@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 04:24:56](https://lobste.rs/s/jiy2cs/f_for_performance_critical_code_2022) - [F# for Performance-Critical Code (2022)](https://www.youtube.com/watch?v=NZ5Lwzrdoe8)
+* [2023-11-06, 04:21:03](https://lobste.rs/s/caewtw/inclusive_community_activists_are) - [Inclusive community activists are harming FOSS](https://blog.vaxry.net/articles/2023-inclusiveActivists)
 * [2023-11-06, 03:34:07](https://lobste.rs/s/egyykl/racket_branch_chez_scheme_merging_with) - [Racket branch of Chez Scheme merging with mainline Chez Scheme](https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU?pli=1)
 * [2023-11-06, 02:44:49](https://lobste.rs/s/p5tuau/milliforth_forth_422_bytes_smallest_real) - [milliForth: A FORTH in 422 bytes — the smallest real programming language ever as of yet](https://github.com/fuzzballcat/milliForth)
 * [2023-11-06, 02:40:09](https://lobste.rs/s/yq32hn/exploring_macintosh_rom) - [Exploring the Macintosh ROM](https://macgui.com/news/article.php?t=493)
