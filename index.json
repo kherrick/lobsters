@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-06, 03:34:07",
+      "https://lobste.rs/s/egyykl/racket_branch_chez_scheme_merging_with"
+    ],
+    [
+      "Racket branch of Chez Scheme merging with mainline Chez Scheme",
+      "https://groups.google.com/g/chez-scheme/c/D7g6mIcYLNU?pli=1"
+    ]
+  ],
+  [
+    [
       "2023-11-06, 02:44:49",
       "https://lobste.rs/s/p5tuau/milliforth_forth_422_bytes_smallest_real"
     ],
@@ -237,16 +247,6 @@
     [
       "My wishlist for NixOS security in 2024+",
       "https://delroth.net/posts/nixos-security-wishlist/"
-    ]
-  ],
-  [
-    [
-      "2023-11-04, 06:02:47",
-      "https://lobste.rs/s/bjcugr/reacting_compile_time_type_properties_c"
-    ],
-    [
-      "Reacting to compile-time type properties in C++17",
-      "https://codekobold.io/cpp-17-detect-data-member.html"
     ]
   ]
 ]
