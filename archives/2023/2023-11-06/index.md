@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-06](index.md)
 
+* [2023-11-06, 13:07:11](https://lobste.rs/s/h4e9bm/passive_ssh_key_compromise_via_lattices) - [Passive SSH Key Compromise via Lattices](https://eprint.iacr.org/2023/1711.pdf)
+* [2023-11-06, 12:54:25](https://lobste.rs/s/msmjtt/programming_distributed_systems) - [Programming Distributed Systems](https://www.youtube.com/watch?v=Mc3tTRkjCvE)
 * [2023-11-06, 11:50:44](https://lobste.rs/s/zzvykw/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zzvykw/what_are_you_doing_this_week)
 * [2023-11-06, 11:38:14](https://lobste.rs/s/hxcttk/entity_resolution_with_ai_dblp_acm) - [Entity Resolution with AI: DBLP and ACM publication benchmark](https://terminusdb.com/blog/entity-resolution-with-ai-dblp-and-acm-publication-benchmark/)
 * [2023-11-06, 09:55:04](https://lobste.rs/s/lut2im/shoelace_framework_agnostic_web) - [Shoelace: framework agnostic web components](https://shoelace.style/ )
