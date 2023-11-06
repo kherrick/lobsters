@@ -20,11 +20,11 @@
 * [2023-11-04, 21:32:35](https://lobste.rs/s/wtk2rk/types_comparison_rust_zig) - [Types comparison: Rust -> Zig](https://len.falken.directory/types-rust-zig.html)
 * [2023-11-04, 21:14:40](https://lobste.rs/s/zgxiph/how_do_typescript_conversion) - [How to Do a TypeScript Conversion](https://v5.chriskrycho.com/journal/how-to-do-a-typescript-conversion/)
 * [2023-11-04, 19:33:13](https://lobste.rs/s/vmrnyd/git_notes_git_s_coolest_most_unloved) - [Git Notes: git's coolest, most unloved­ feature (2022)](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
-* [2023-11-04, 15:48:15](https://lobste.rs/s/mogsn6/on_road_kde_plasma_6_vol_4) - [On the Road to KDE Plasma 6, Vol. 4](https://blog.broulik.de/2023/11/on-the-road-to-plasma-6-vol-4/)
 * [2023-11-04, 15:35:47](https://lobste.rs/s/348lsw/othello_is_solved) - [Othello is Solved](https://arxiv.org/abs/2310.19387)
 * [2023-11-04, 13:38:09](https://lobste.rs/s/nqzcfd/post_mortem_on_cloudflare_control_plane) - [Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/)
 * [2023-11-04, 13:34:50](https://lobste.rs/s/djyjad/hyphens_minus_dashes_debian_man_pages) - [Hyphens, minus, and dashes in Debian man pages](https://lwn.net/Articles/947941/)
 * [2023-11-04, 09:32:44](https://lobste.rs/s/wie2he/my_wishlist_for_nixos_security_2024) - [My wishlist for NixOS security in 2024+](https://delroth.net/posts/nixos-security-wishlist/)
+* [2023-11-04, 06:02:47](https://lobste.rs/s/bjcugr/reacting_compile_time_type_properties_c) - [Reacting to compile-time type properties in C++17](https://codekobold.io/cpp-17-detect-data-member.html)
 
 ## [Archives](archives/index.md)
 
