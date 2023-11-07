@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 16:10:02](https://lobste.rs/s/tbchou/four_year_plan_for_async_rust) - [A four year plan for async Rust](https://without.boats/blog/a-four-year-plan/)
 * [2023-11-07, 15:20:50](https://lobste.rs/s/itwqcp/sorry_computer_you_re_not_teapot) - [Sorry Computer, You're Not a Teapot](https://thehistoryoftheweb.com/im-a-teapot/)
 * [2023-11-07, 14:15:31](https://lobste.rs/s/cy9zc1/bad_old_days_we_had_punch_cards_how_did) - [In the bad old days we had punch cards. How did people deal with that?](https://blog.computationalcomplexity.org/2023/11/in-bad-old-days-we-had-punchcards-how.html)
 * [2023-11-07, 14:13:46](https://lobste.rs/s/qf2g56/download_fedora_silverblue_39) - [Download Fedora Silverblue 39](https://fedoraproject.org/silverblue/download)
