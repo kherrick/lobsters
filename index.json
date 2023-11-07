@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-07, 16:10:02",
+      "https://lobste.rs/s/tbchou/four_year_plan_for_async_rust"
+    ],
+    [
+      "A four year plan for async Rust",
+      "https://without.boats/blog/a-four-year-plan/"
+    ]
+  ],
+  [
+    [
       "2023-11-07, 15:20:50",
       "https://lobste.rs/s/itwqcp/sorry_computer_you_re_not_teapot"
     ],
@@ -227,16 +237,6 @@
     [
       "Building Ubuntu images in Nix",
       "https://linus.schreibt.jetzt/posts/ubuntu-images.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-05, 18:39:00",
-      "https://lobste.rs/s/jmztxq/why_cities_skylines_2_performs_poorly"
-    ],
-    [
-      "Why Cities: Skylines 2 performs poorly",
-      "https://blog.paavo.me/cities-skylines-2-performance/"
     ]
   ],
   [
