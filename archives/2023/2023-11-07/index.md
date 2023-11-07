@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 11:54:42](https://lobste.rs/s/lcdveh/announcing_sqlc_gen_go) - [Announcing sqlc-gen-go](https://sqlc.dev/posts/2023/11/06/publishing-sqlc-gen-go/)
 * [2023-11-07, 06:41:57](https://lobste.rs/s/8tlqiq/digging_into_evm_object_format_eof) - [Digging into the EVM Object Format (EOF)](https://whileydave.com/2023/10/19/digging-into-the-evm-object-format-eof/)
 * [2023-11-07, 00:29:00](https://lobste.rs/s/pa1fug/backtraces_with_strace) - [Backtraces with strace](https://shane.ai/posts/backtraces-with-strace/)
 * [2023-11-07, 00:02:51](https://lobste.rs/s/tjp0lm/still_no_love_for_wpa3_on_raspberry_pi_5) - [Still no love for WPA3 on the Raspberry Pi 5](https://rachelbythebay.com/w/2023/11/06/wpa3/)

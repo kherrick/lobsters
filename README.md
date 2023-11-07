@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-07, 11:54:42](https://lobste.rs/s/lcdveh/announcing_sqlc_gen_go) - [Announcing sqlc-gen-go](https://sqlc.dev/posts/2023/11/06/publishing-sqlc-gen-go/)
 * [2023-11-07, 06:41:57](https://lobste.rs/s/8tlqiq/digging_into_evm_object_format_eof) - [Digging into the EVM Object Format (EOF)](https://whileydave.com/2023/10/19/digging-into-the-evm-object-format-eof/)
 * [2023-11-07, 00:29:00](https://lobste.rs/s/pa1fug/backtraces_with_strace) - [Backtraces with strace](https://shane.ai/posts/backtraces-with-strace/)
 * [2023-11-07, 00:02:51](https://lobste.rs/s/tjp0lm/still_no_love_for_wpa3_on_raspberry_pi_5) - [Still no love for WPA3 on the Raspberry Pi 5](https://rachelbythebay.com/w/2023/11/06/wpa3/)
@@ -15,7 +16,6 @@
 * [2023-11-06, 15:25:49](https://lobste.rs/s/zvv5tc/adding_build_provenance_homebrew) - [Adding build provenance to Homebrew](https://blog.trailofbits.com/2023/11/06/adding-build-provenance-to-homebrew/)
 * [2023-11-06, 14:44:34](https://lobste.rs/s/lnwbak/future_synapse_dendrite) - [The future of Synapse and Dendrite](https://matrix.org/blog/2023/11/06/future-of-synapse-dendrite/)
 * [2023-11-06, 13:45:30](https://lobste.rs/s/vkni0q/linear_algebra_trick_for_computing) - [A Linear Algebra Trick for Computing Fibonacci Numbers Fast](https://codeconfessions.substack.com/p/a-linear-algebra-trick-for-fibonacci-numbers)
-* [2023-11-06, 13:07:11](https://lobste.rs/s/h4e9bm/passive_ssh_key_compromise_via_lattices) - [Passive SSH Key Compromise via Lattices](https://eprint.iacr.org/2023/1711.pdf)
 * [2023-11-06, 11:50:44](https://lobste.rs/s/zzvykw/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zzvykw/what_are_you_doing_this_week)
 * [2023-11-06, 09:55:04](https://lobste.rs/s/lut2im/shoelace_framework_agnostic_web) - [Shoelace: framework agnostic web components](https://shoelace.style/ )
 * [2023-11-06, 09:46:58](https://lobste.rs/s/tzrykl/makefile_tutorial_by_example) - [Makefile Tutorial by Example](https://makefiletutorial.com/)
