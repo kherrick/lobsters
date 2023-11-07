@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 12:34:08](https://lobste.rs/s/jrk2zt/creating_executable_paper_is_journey) - [Creating an executable paper is a journey through Open Science](https://www.nature.com/articles/s42005-020-00403-4)
+* [2023-11-07, 12:31:26](https://lobste.rs/s/lfzgmj/join_global_encryption_coalition) - [Join the Global Encryption Coalition](https://www.globalencryption.org/join/)
 * [2023-11-07, 11:54:42](https://lobste.rs/s/lcdveh/announcing_sqlc_gen_go) - [Announcing sqlc-gen-go](https://sqlc.dev/posts/2023/11/06/publishing-sqlc-gen-go/)
 * [2023-11-07, 06:41:57](https://lobste.rs/s/8tlqiq/digging_into_evm_object_format_eof) - [Digging into the EVM Object Format (EOF)](https://whileydave.com/2023/10/19/digging-into-the-evm-object-format-eof/)
 * [2023-11-07, 00:29:00](https://lobste.rs/s/pa1fug/backtraces_with_strace) - [Backtraces with strace](https://shane.ai/posts/backtraces-with-strace/)
