@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 19:29:26](https://lobste.rs/s/crgckt/database_generated_columns_django) - [Database generated columns ⁽¹⁾: Django & SQLite](https://www.paulox.net/2023/11/07/database-generated-columns-part-1-django-and-sqlite/)
 * [2023-11-07, 18:47:08](https://lobste.rs/s/yszech/rainbow_wifi_enabled_nes_mapper) - [Rainbow: wifi-enabled NES mapper](https://github.com/BrokeStudio/rainbow-net/blob/master/NES/rainbow-nes-mapper.md)
 * [2023-11-07, 17:44:24](https://lobste.rs/s/pjgmjv/fedora_linux_39) - [Fedora Linux 39](https://fedoramagazine.org/announcing-fedora-linux-39/)
 * [2023-11-07, 16:39:16](https://lobste.rs/s/wj7wpp/optimizing_go_tests_for_readability) - [Optimizing Go Tests for Readability](https://www.kpassa.me/posts/scenarios/)
