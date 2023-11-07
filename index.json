@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-07, 23:54:12",
+      "https://lobste.rs/s/jg9pvu/article_45_will_roll_back_web_security_by"
+    ],
+    [
+      "Article 45 Will Roll Back Web Security by 12 Years",
+      "https://www.eff.org/deeplinks/2023/11/article-45-will-roll-back-web-security-12-years"
+    ]
+  ],
+  [
+    [
+      "2023-11-07, 23:50:31",
+      "https://lobste.rs/s/c1smbg/go_containers_linux_scheduler"
+    ],
+    [
+      "Go, Containers, and the Linux Scheduler",
+      "https://www.riverphillips.dev/blog/go-cfs/"
+    ]
+  ],
+  [
+    [
       "2023-11-07, 23:19:20",
       "https://lobste.rs/s/vagbnt/freebsd_journal_2023_09_10_issue"
     ],
@@ -27,16 +47,6 @@
     [
       "What If We Don't Pop the Stack? The Return of 2nd-Class Values",
       "https://www.cs.purdue.edu/homes/rompf/papers/xhebraj-ecoop22.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-11-07, 21:45:10",
-      "https://lobste.rs/s/bnp9ce/enough_polynomials_linear_algebra"
-    ],
-    [
-      "Enough Polynomials and Linear Algebra to Implement Kyber",
-      "https://words.filippo.io/dispatches/kyber-math/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "The future of Synapse and Dendrite",
       "https://matrix.org/blog/2023/11/06/future-of-synapse-dendrite/"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 13:45:30",
-      "https://lobste.rs/s/vkni0q/linear_algebra_trick_for_computing"
-    ],
-    [
-      "A Linear Algebra Trick for Computing Fibonacci Numbers Fast",
-      "https://codeconfessions.substack.com/p/a-linear-algebra-trick-for-fibonacci-numbers"
     ]
   ],
   [
