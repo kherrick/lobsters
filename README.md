@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-07, 06:41:57](https://lobste.rs/s/8tlqiq/digging_into_evm_object_format_eof) - [Digging into the EVM Object Format (EOF)](https://whileydave.com/2023/10/19/digging-into-the-evm-object-format-eof/)
 * [2023-11-07, 00:29:00](https://lobste.rs/s/pa1fug/backtraces_with_strace) - [Backtraces with strace](https://shane.ai/posts/backtraces-with-strace/)
 * [2023-11-06, 22:39:13](https://lobste.rs/s/xjgr0o/fixing_other_go_loop_bug) - [fixing the other go loop bug](https://flak.tedunangst.com/post/fixing-the-other-go-loop-bug)
 * [2023-11-06, 22:32:49](https://lobste.rs/s/fc3tsw/general_wine_proton_developer_open) - [General Wine/Proton Developer (Open-Source Programmer)](https://www.codeweavers.com/about/jobs#job-dev)
@@ -23,7 +24,6 @@
 * [2023-11-06, 05:55:02](https://lobste.rs/s/wmtw9u/intel_80386_revolutionary_cpu) - [Intel 80386, a revolutionary CPU](https://www.xtof.info/intel80386.html)
 * [2023-11-06, 02:44:49](https://lobste.rs/s/p5tuau/milliforth_forth_422_bytes_smallest_real) - [milliForth: A FORTH in 422 bytes — the smallest real programming language ever as of yet](https://github.com/fuzzballcat/milliForth)
 * [2023-11-05, 18:39:00](https://lobste.rs/s/jmztxq/why_cities_skylines_2_performs_poorly) - [Why Cities: Skylines 2 performs poorly](https://blog.paavo.me/cities-skylines-2-performance/)
-* [2023-11-05, 17:28:20](https://lobste.rs/s/ujuiqw/see_history_method_with_git_log_l) - [See the History of a Method with git log -L](https://calebhearth.com/l/git-method-history)
 * [2023-11-05, 14:08:00](https://lobste.rs/s/ekx1si/banning_e2ee_is_stupid_do_you_think) - [banning-e2ee-is-stupid: Do you think banning end-to-end encryption is plausible?  Think again](https://github.com/davidchisnall/banning-e2ee-is-stupid)
 
 ## [Archives](archives/index.md)
