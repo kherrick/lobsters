@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 12:37:47](https://lobste.rs/s/otgffj/reducing_raspberry_pi_5_s_power) - [Reducing Raspberry Pi 5's power consumption by 140x](https://www.jeffgeerling.com/blog/2023/reducing-raspberry-pi-5s-power-consumption-140x)
 * [2023-11-07, 12:34:08](https://lobste.rs/s/jrk2zt/creating_executable_paper_is_journey) - [Creating an executable paper is a journey through Open Science](https://www.nature.com/articles/s42005-020-00403-4)
 * [2023-11-07, 12:31:26](https://lobste.rs/s/lfzgmj/join_global_encryption_coalition) - [Join the Global Encryption Coalition](https://www.globalencryption.org/join/)
 * [2023-11-07, 11:54:42](https://lobste.rs/s/lcdveh/announcing_sqlc_gen_go) - [Announcing sqlc-gen-go](https://sqlc.dev/posts/2023/11/06/publishing-sqlc-gen-go/)

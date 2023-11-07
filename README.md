@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-07, 12:37:47](https://lobste.rs/s/otgffj/reducing_raspberry_pi_5_s_power) - [Reducing Raspberry Pi 5's power consumption by 140x](https://www.jeffgeerling.com/blog/2023/reducing-raspberry-pi-5s-power-consumption-140x)
 * [2023-11-07, 12:34:08](https://lobste.rs/s/jrk2zt/creating_executable_paper_is_journey) - [Creating an executable paper is a journey through Open Science](https://www.nature.com/articles/s42005-020-00403-4)
 * [2023-11-07, 12:31:26](https://lobste.rs/s/lfzgmj/join_global_encryption_coalition) - [Join the Global Encryption Coalition](https://www.globalencryption.org/join/)
 * [2023-11-07, 11:54:42](https://lobste.rs/s/lcdveh/announcing_sqlc_gen_go) - [Announcing sqlc-gen-go](https://sqlc.dev/posts/2023/11/06/publishing-sqlc-gen-go/)
@@ -9,7 +10,6 @@
 * [2023-11-06, 22:39:13](https://lobste.rs/s/xjgr0o/fixing_other_go_loop_bug) - [fixing the other go loop bug](https://flak.tedunangst.com/post/fixing-the-other-go-loop-bug)
 * [2023-11-06, 22:32:49](https://lobste.rs/s/fc3tsw/general_wine_proton_developer_open) - [General Wine/Proton Developer (Open-Source Programmer)](https://www.codeweavers.com/about/jobs#job-dev)
 * [2023-11-06, 20:08:04](https://lobste.rs/s/wplr93/tumble_forth) - [Tumble Forth](http://tumbleforth.hardcoded.net/)
-* [2023-11-06, 20:01:37](https://lobste.rs/s/dshwrc/new_models_developer_products_announced) - [New models and developer products announced at DevDay](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)
 * [2023-11-06, 19:55:38](https://lobste.rs/s/wy2jgl/goguma_irc_client_for_mobile_devices) - [goguma: An IRC client for mobile devices](https://sr.ht/~emersion/goguma/)
 * [2023-11-06, 19:01:50](https://lobste.rs/s/7zwdeg/what_exactly_was_point_x_var_xval) - [What exactly was the point of [ “x$var” = “xval” ]?](https://www.vidarholen.net/contents/blog/?p=1035)
 * [2023-11-06, 18:06:16](https://lobste.rs/s/vzdgu8/what_s_up_python_ios_support_ruff_gets) - [What's up Python? iOS support, ruff gets black, flask 3.0](https://www.bitecode.dev/p/whats-up-python-ios-support-ruff)
