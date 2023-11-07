@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-07, 18:47:08",
+      "https://lobste.rs/s/yszech/rainbow_wifi_enabled_nes_mapper"
+    ],
+    [
+      "Rainbow: wifi-enabled NES mapper",
+      "https://github.com/BrokeStudio/rainbow-net/blob/master/NES/rainbow-nes-mapper.md"
+    ]
+  ],
+  [
+    [
       "2023-11-07, 17:44:24",
       "https://lobste.rs/s/pjgmjv/fedora_linux_39"
     ],
@@ -237,16 +247,6 @@
     [
       "Building Ubuntu images in Nix",
       "https://linus.schreibt.jetzt/posts/ubuntu-images.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-05, 14:08:00",
-      "https://lobste.rs/s/ekx1si/banning_e2ee_is_stupid_do_you_think"
-    ],
-    [
-      "banning-e2ee-is-stupid: Do you think banning end-to-end encryption is plausible?  Think again",
-      "https://github.com/davidchisnall/banning-e2ee-is-stupid"
     ]
   ]
 ]
