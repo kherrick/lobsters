@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 14:15:31](https://lobste.rs/s/cy9zc1/bad_old_days_we_had_punch_cards_how_did) - [In the bad old days we had punch cards. How did people deal with that?](https://blog.computationalcomplexity.org/2023/11/in-bad-old-days-we-had-punchcards-how.html)
+* [2023-11-07, 14:13:46](https://lobste.rs/s/qf2g56/download_fedora_silverblue_39) - [Download Fedora Silverblue 39](https://fedoraproject.org/silverblue/download)
 * [2023-11-07, 14:04:01](https://lobste.rs/s/d8wjuw/critical_vulnerability_atlassian) - [Critical vulnerability in Atlassian Confluence server is under “mass exploitation”](https://arstechnica.com/security/2023/11/critical-vulnerability-in-atlassian-confluence-server-is-under-mass-exploitation/)
 * [2023-11-07, 12:37:47](https://lobste.rs/s/otgffj/reducing_raspberry_pi_5_s_power) - [Reducing Raspberry Pi 5's power consumption by 140x](https://www.jeffgeerling.com/blog/2023/reducing-raspberry-pi-5s-power-consumption-140x)
 * [2023-11-07, 12:34:08](https://lobste.rs/s/jrk2zt/creating_executable_paper_is_journey) - [Creating an executable paper is a journey through Open Science](https://www.nature.com/articles/s42005-020-00403-4)

@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-11-07, 14:04:01](https://lobste.rs/s/d8wjuw/critical_vulnerability_atlassian) - [Critical vulnerability in Atlassian Confluence server is under “mass exploitation”](https://arstechnica.com/security/2023/11/critical-vulnerability-in-atlassian-confluence-server-is-under-mass-exploitation/)
+* [2023-11-07, 14:15:31](https://lobste.rs/s/cy9zc1/bad_old_days_we_had_punch_cards_how_did) - [In the bad old days we had punch cards. How did people deal with that?](https://blog.computationalcomplexity.org/2023/11/in-bad-old-days-we-had-punchcards-how.html)
+* [2023-11-07, 14:13:46](https://lobste.rs/s/qf2g56/download_fedora_silverblue_39) - [Download Fedora Silverblue 39](https://fedoraproject.org/silverblue/download)
 * [2023-11-07, 12:37:47](https://lobste.rs/s/otgffj/reducing_raspberry_pi_5_s_power) - [Reducing Raspberry Pi 5's power consumption by 140x](https://www.jeffgeerling.com/blog/2023/reducing-raspberry-pi-5s-power-consumption-140x)
 * [2023-11-07, 12:34:08](https://lobste.rs/s/jrk2zt/creating_executable_paper_is_journey) - [Creating an executable paper is a journey through Open Science](https://www.nature.com/articles/s42005-020-00403-4)
 * [2023-11-07, 12:31:26](https://lobste.rs/s/lfzgmj/join_global_encryption_coalition) - [Join the Global Encryption Coalition](https://www.globalencryption.org/join/)
@@ -18,7 +19,6 @@
 * [2023-11-06, 14:44:34](https://lobste.rs/s/lnwbak/future_synapse_dendrite) - [The future of Synapse and Dendrite](https://matrix.org/blog/2023/11/06/future-of-synapse-dendrite/)
 * [2023-11-06, 13:45:30](https://lobste.rs/s/vkni0q/linear_algebra_trick_for_computing) - [A Linear Algebra Trick for Computing Fibonacci Numbers Fast](https://codeconfessions.substack.com/p/a-linear-algebra-trick-for-fibonacci-numbers)
 * [2023-11-06, 11:50:44](https://lobste.rs/s/zzvykw/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zzvykw/what_are_you_doing_this_week)
-* [2023-11-06, 09:55:04](https://lobste.rs/s/lut2im/shoelace_framework_agnostic_web) - [Shoelace: framework agnostic web components](https://shoelace.style/ )
 * [2023-11-06, 09:46:58](https://lobste.rs/s/tzrykl/makefile_tutorial_by_example) - [Makefile Tutorial by Example](https://makefiletutorial.com/)
 * [2023-11-06, 08:22:58](https://lobste.rs/s/6udrap/firefox_development_is_moving_from) - [Firefox Development Is Moving From Mercurial To Git](https://groups.google.com/a/mozilla.org/g/firefox-dev/c/QnfydsDj48o/m/8WadV0_dBQAJ?pli=1)
 * [2023-11-06, 07:27:05](https://lobste.rs/s/a74r48/building_ubuntu_images_nix) - [Building Ubuntu images in Nix](https://linus.schreibt.jetzt/posts/ubuntu-images.html)
