@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-07, 21:45:10](https://lobste.rs/s/bnp9ce/enough_polynomials_linear_algebra) - [Enough Polynomials and Linear Algebra to Implement Kyber](https://words.filippo.io/dispatches/kyber-math/)
 * [2023-11-07, 20:19:10](https://lobste.rs/s/8ktols/better_explanation_liskov_substitution) - [A better explanation of the Liskov Substitution Principle](https://www.hillelwayne.com/post/lsp/)
 * [2023-11-07, 20:10:37](https://lobste.rs/s/yoszux/anchor_tags) - [Anchor Tags](https://www.marginalia.nu/log/93_atags/)
 * [2023-11-07, 19:29:26](https://lobste.rs/s/crgckt/database_generated_columns_django) - [Database generated columns ⁽¹⁾: Django & SQLite](https://www.paulox.net/2023/11/07/database-generated-columns-part-1-django-and-sqlite/)
@@ -20,7 +21,6 @@
 * [2023-11-06, 20:08:04](https://lobste.rs/s/wplr93/tumble_forth) - [Tumble Forth](http://tumbleforth.hardcoded.net/)
 * [2023-11-06, 19:55:38](https://lobste.rs/s/wy2jgl/goguma_irc_client_for_mobile_devices) - [goguma: An IRC client for mobile devices](https://sr.ht/~emersion/goguma/)
 * [2023-11-06, 19:01:50](https://lobste.rs/s/7zwdeg/what_exactly_was_point_x_var_xval) - [What exactly was the point of [ “x$var” = “xval” ]?](https://www.vidarholen.net/contents/blog/?p=1035)
-* [2023-11-06, 18:06:16](https://lobste.rs/s/vzdgu8/what_s_up_python_ios_support_ruff_gets) - [What's up Python? iOS support, ruff gets black, flask 3.0](https://www.bitecode.dev/p/whats-up-python-ios-support-ruff)
 * [2023-11-06, 17:50:45](https://lobste.rs/s/miikoq/git_rebase_what_can_go_wrong) - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
 * [2023-11-06, 14:44:34](https://lobste.rs/s/lnwbak/future_synapse_dendrite) - [The future of Synapse and Dendrite](https://matrix.org/blog/2023/11/06/future-of-synapse-dendrite/)
 * [2023-11-06, 13:45:30](https://lobste.rs/s/vkni0q/linear_algebra_trick_for_computing) - [A Linear Algebra Trick for Computing Fibonacci Numbers Fast](https://codeconfessions.substack.com/p/a-linear-algebra-trick-for-fibonacci-numbers)

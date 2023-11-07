@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 21:45:10](https://lobste.rs/s/bnp9ce/enough_polynomials_linear_algebra) - [Enough Polynomials and Linear Algebra to Implement Kyber](https://words.filippo.io/dispatches/kyber-math/)
 * [2023-11-07, 20:19:10](https://lobste.rs/s/8ktols/better_explanation_liskov_substitution) - [A better explanation of the Liskov Substitution Principle](https://www.hillelwayne.com/post/lsp/)
 * [2023-11-07, 20:10:37](https://lobste.rs/s/yoszux/anchor_tags) - [Anchor Tags](https://www.marginalia.nu/log/93_atags/)
 * [2023-11-07, 19:29:26](https://lobste.rs/s/crgckt/database_generated_columns_django) - [Database generated columns ⁽¹⁾: Django & SQLite](https://www.paulox.net/2023/11/07/database-generated-columns-part-1-django-and-sqlite/)
