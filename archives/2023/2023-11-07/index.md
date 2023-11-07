@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-07](index.md)
 
+* [2023-11-07, 23:19:20](https://lobste.rs/s/vagbnt/freebsd_journal_2023_09_10_issue) - [FreeBSD Journal 2023/09-10 Issue](https://cdn.coverstand.com/33057/807028/3b61c60795dacfdb6e435dff66136b18a780d1fe.pdf)
+* [2023-11-07, 23:14:38](https://lobste.rs/s/eodvin/how_database_tricks_sped_up_rust_linting) - [How Database Tricks Sped up Rust Linting Over 2000x](https://www.youtube.com/watch?v=Fqo8r4bInsk)
+* [2023-11-07, 23:10:01](https://lobste.rs/s/rbyntg/what_if_we_don_t_pop_stack_return_2nd_class) - [What If We Don't Pop the Stack? The Return of 2nd-Class Values](https://www.cs.purdue.edu/homes/rompf/papers/xhebraj-ecoop22.pdf)
 * [2023-11-07, 21:45:10](https://lobste.rs/s/bnp9ce/enough_polynomials_linear_algebra) - [Enough Polynomials and Linear Algebra to Implement Kyber](https://words.filippo.io/dispatches/kyber-math/)
 * [2023-11-07, 20:19:10](https://lobste.rs/s/8ktols/better_explanation_liskov_substitution) - [A better explanation of the Liskov Substitution Principle](https://www.hillelwayne.com/post/lsp/)
 * [2023-11-07, 20:10:37](https://lobste.rs/s/yoszux/anchor_tags) - [Anchor Tags](https://www.marginalia.nu/log/93_atags/)
