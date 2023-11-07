@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-11-07, 14:04:01",
+      "https://lobste.rs/s/d8wjuw/critical_vulnerability_atlassian"
+    ],
+    [
+      "Critical vulnerability in Atlassian Confluence server is under “mass exploitation”",
+      "https://arstechnica.com/security/2023/11/critical-vulnerability-in-atlassian-confluence-server-is-under-mass-exploitation/"
+    ]
+  ],
+  [
+    [
       "2023-11-07, 12:37:47",
       "https://lobste.rs/s/otgffj/reducing_raspberry_pi_5_s_power"
     ],
@@ -217,16 +227,6 @@
     [
       "Building Ubuntu images in Nix",
       "https://linus.schreibt.jetzt/posts/ubuntu-images.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 02:44:49",
-      "https://lobste.rs/s/p5tuau/milliforth_forth_422_bytes_smallest_real"
-    ],
-    [
-      "milliForth: A FORTH in 422 bytes — the smallest real programming language ever as of yet",
-      "https://github.com/fuzzballcat/milliForth"
     ]
   ],
   [
