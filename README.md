@@ -8,7 +8,6 @@
 * [2023-11-06, 20:08:04](https://lobste.rs/s/wplr93/tumble_forth) - [Tumble Forth](http://tumbleforth.hardcoded.net/)
 * [2023-11-06, 20:01:37](https://lobste.rs/s/dshwrc/new_models_developer_products_announced) - [New models and developer products announced at DevDay](https://openai.com/blog/new-models-and-developer-products-announced-at-devday)
 * [2023-11-06, 19:55:38](https://lobste.rs/s/wy2jgl/goguma_irc_client_for_mobile_devices) - [goguma: An IRC client for mobile devices](https://sr.ht/~emersion/goguma/)
-* [2023-11-06, 19:32:47](https://lobste.rs/s/zftmun/whisper_v3_robust_speech_recognition_via) - [whisper v3: Robust Speech Recognition via Large-Scale Weak Supervision](https://github.com/openai/whisper)
 * [2023-11-06, 19:01:50](https://lobste.rs/s/7zwdeg/what_exactly_was_point_x_var_xval) - [What exactly was the point of [ “x$var” = “xval” ]?](https://www.vidarholen.net/contents/blog/?p=1035)
 * [2023-11-06, 18:06:16](https://lobste.rs/s/vzdgu8/what_s_up_python_ios_support_ruff_gets) - [What's up Python? iOS support, ruff gets black, flask 3.0](https://www.bitecode.dev/p/whats-up-python-ios-support-ruff)
 * [2023-11-06, 17:50:45](https://lobste.rs/s/miikoq/git_rebase_what_can_go_wrong) - [git rebase: what can go wrong?](https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/)
@@ -24,6 +23,7 @@
 * [2023-11-06, 05:55:02](https://lobste.rs/s/wmtw9u/intel_80386_revolutionary_cpu) - [Intel 80386, a revolutionary CPU](https://www.xtof.info/intel80386.html)
 * [2023-11-06, 02:44:49](https://lobste.rs/s/p5tuau/milliforth_forth_422_bytes_smallest_real) - [milliForth: A FORTH in 422 bytes — the smallest real programming language ever as of yet](https://github.com/fuzzballcat/milliForth)
 * [2023-11-05, 18:39:00](https://lobste.rs/s/jmztxq/why_cities_skylines_2_performs_poorly) - [Why Cities: Skylines 2 performs poorly](https://blog.paavo.me/cities-skylines-2-performance/)
+* [2023-11-05, 17:28:20](https://lobste.rs/s/ujuiqw/see_history_method_with_git_log_l) - [See the History of a Method with git log -L](https://calebhearth.com/l/git-method-history)
 * [2023-11-05, 14:08:00](https://lobste.rs/s/ekx1si/banning_e2ee_is_stupid_do_you_think) - [banning-e2ee-is-stupid: Do you think banning end-to-end encryption is plausible?  Think again](https://github.com/davidchisnall/banning-e2ee-is-stupid)
 
 ## [Archives](archives/index.md)
