@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-08, 17:14:03",
+      "https://lobste.rs/s/x8eyr6/what_is_origin_default_256_color_vga"
+    ],
+    [
+      "What is the origin of the default 256-color VGA palette?",
+      "https://retrocomputing.stackexchange.com/questions/27994/what-is-the-origin-of-the-default-256-color-vga-palette"
+    ]
+  ],
+  [
+    [
       "2023-11-08, 16:19:21",
       "https://lobste.rs/s/mxwit7/link_time_optimisation_lto"
     ],
@@ -57,16 +67,6 @@
     [
       "Search across a half million git repos",
       "https://grep.app"
-    ]
-  ],
-  [
-    [
-      "2023-11-08, 13:42:26",
-      "https://lobste.rs/s/ifoyxj/don_t_trust_your_profiler"
-    ],
-    [
-      "Don't Trust Your Profiler",
-      "https://stefan-marr.de/downloads/mplr23-burchell-et-al-dont-trust-your-profiler.pdf"
     ]
   ],
   [
