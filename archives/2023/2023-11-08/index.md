@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
+* [2023-11-08, 05:39:33](https://lobste.rs/s/swphqj/generating_arrays_at_compile_time_c_with) - [Generating arrays at compile-time in C++ with lambdas](https://lemire.me/blog/2023/11/07/generating-arrays-at-compile-time-in-c-with-lambdas/)
 * [2023-11-08, 04:48:19](https://lobste.rs/s/tf9lso/how_antimatter_spacecraft_will_work) - [how antimatter spacecraft will work](https://www.youtube.com/watch?v=--eOl7NNcEs)
 * [2023-11-08, 03:02:04](https://lobste.rs/s/xv1vih/dark_universe_spacecraft_reveals_first) - ['Dark universe’ spacecraft reveals first colour images of the cosmos](https://thenextweb.com/news/esa-euclid-space-mission-releases-first-colour-images)
 * [2023-11-08, 02:09:23](https://lobste.rs/s/hhvbvu/inshellisense_ide_style_command_line) - [inshellisense: IDE style command line auto complete](https://github.com/microsoft/inshellisense)
