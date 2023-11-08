@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-08, 12:40:34",
+      "https://lobste.rs/s/12t1by/find_replace_code_at_ast_level_with"
+    ],
+    [
+      "Find and Replace Code at AST-level with Semgrep",
+      "https://www.1a-insec.net/blog/21-semgrep-search-ast/"
+    ]
+  ],
+  [
+    [
       "2023-11-08, 10:59:16",
       "https://lobste.rs/s/docl56/surprising_facts_about_new_css_selectors"
     ],
@@ -207,16 +217,6 @@
     [
       "Reducing Raspberry Pi 5's power consumption by 140x",
       "https://www.jeffgeerling.com/blog/2023/reducing-raspberry-pi-5s-power-consumption-140x"
-    ]
-  ],
-  [
-    [
-      "2023-11-07, 00:29:00",
-      "https://lobste.rs/s/pa1fug/backtraces_with_strace"
-    ],
-    [
-      "Backtraces with strace",
-      "https://shane.ai/posts/backtraces-with-strace/"
     ]
   ],
   [
