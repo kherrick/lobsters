@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-08, 13:58:23](https://lobste.rs/s/zbngh3/search_across_half_million_git_repos) - [Search across a half million git repos](https://grep.app)
 * [2023-11-08, 13:42:26](https://lobste.rs/s/ifoyxj/don_t_trust_your_profiler) - [Don't Trust Your Profiler](https://stefan-marr.de/downloads/mplr23-burchell-et-al-dont-trust-your-profiler.pdf)
 * [2023-11-08, 13:38:25](https://lobste.rs/s/jpnas8/review_zsa_voyager_ergonomic_keyboard) - [Review: ZSA Voyager Ergonomic Keyboard](https://danieldk.eu/Posts/2023-11-07-ZSA-Voyager)
 * [2023-11-08, 12:53:42](https://lobste.rs/s/cksldq/hare_aims_become_100_year_programming) - [Hare aims to become a 100-year programming language](https://harelang.org/blog/2023-11-08-100-year-language/)
@@ -24,7 +25,6 @@
 * [2023-11-07, 14:15:31](https://lobste.rs/s/cy9zc1/bad_old_days_we_had_punch_cards_how_did) - [In the bad old days we had punch cards. How did people deal with that?](https://blog.computationalcomplexity.org/2023/11/in-bad-old-days-we-had-punchcards-how.html)
 * [2023-11-07, 12:37:47](https://lobste.rs/s/otgffj/reducing_raspberry_pi_5_s_power) - [Reducing Raspberry Pi 5's power consumption by 140x](https://www.jeffgeerling.com/blog/2023/reducing-raspberry-pi-5s-power-consumption-140x)
 * [2023-11-06, 22:39:13](https://lobste.rs/s/xjgr0o/fixing_other_go_loop_bug) - [fixing the other go loop bug](https://flak.tedunangst.com/post/fixing-the-other-go-loop-bug)
-* [2023-11-06, 19:01:50](https://lobste.rs/s/7zwdeg/what_exactly_was_point_x_var_xval) - [What exactly was the point of [ “x$var” = “xval” ]?](https://www.vidarholen.net/contents/blog/?p=1035)
 
 ## [Archives](archives/index.md)
 
