@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-08, 09:51:08](https://lobste.rs/s/5hjzj1/simplex_chat_notifications_with) - [Simplex chat notifications with Syndicated Actors](https://spam.works/users/emery/simplex_notifications.gmi)
 * [2023-11-08, 08:07:29](https://lobste.rs/s/v2nlk0/fistful_automata) - [A Fistful of Automata](https://iagoleal.com/posts/automata-monads/)
 * [2023-11-08, 07:45:26](https://lobste.rs/s/p5sxde/command_not_found_com) - [command-not-found.com](https://command-not-found.com/)
 * [2023-11-08, 06:24:23](https://lobste.rs/s/donfyq/columnar_kernels_go) - [Columnar kernels in go?](https://www.scattered-thoughts.net/writing/columnar-kernels-in-go/)
 * [2023-11-08, 06:20:44](https://lobste.rs/s/psseoc/sorting_strings_go_fast_slow) - [Sorting strings in Go, fast and slow](https://aead.dev/news/sort-strings/)
 * [2023-11-08, 06:17:23](https://lobste.rs/s/7up733/curves_l_systems) - [Curves and L-systems](https://apieceofthepi.substack.com/p/curves-and-l-systems)
 * [2023-11-08, 05:43:54](https://lobste.rs/s/ddtoey/what_qwac) - [What the QWAC?](https://scotthelme.co.uk/what-the-qwac/)
-* [2023-11-08, 02:09:23](https://lobste.rs/s/hhvbvu/inshellisense_ide_style_command_line) - [inshellisense: IDE style command line auto complete](https://github.com/microsoft/inshellisense)
 * [2023-11-08, 00:07:23](https://lobste.rs/s/3uypmw/reactos_late_2023_news) - [ReactOS Late 2023 news](https://reactos.org/blogs/newsletter-103/)
 * [2023-11-07, 23:54:12](https://lobste.rs/s/jg9pvu/article_45_will_roll_back_web_security_by) - [Article 45 Will Roll Back Web Security by 12 Years](https://www.eff.org/deeplinks/2023/11/article-45-will-roll-back-web-security-12-years)
 * [2023-11-07, 23:50:31](https://lobste.rs/s/c1smbg/go_containers_linux_scheduler) - [Go, Containers, and the Linux Scheduler](https://www.riverphillips.dev/blog/go-cfs/)
