@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
+* [2023-11-08, 17:14:03](https://lobste.rs/s/x8eyr6/what_is_origin_default_256_color_vga) - [What is the origin of the default 256-color VGA palette?](https://retrocomputing.stackexchange.com/questions/27994/what-is-the-origin-of-the-default-256-color-vga-palette)
 * [2023-11-08, 16:19:21](https://lobste.rs/s/mxwit7/link_time_optimisation_lto) - [Link-time optimisation (LTO)](https://convolv.es/guides/lto/)
 * [2023-11-08, 16:19:19](https://lobste.rs/s/0sjl92/how_updating_your_yocto_layers_can_go) - [How updating your Yocto layers can go wrong](https://mind.be/updating-yocto-layers/)
 * [2023-11-08, 15:19:01](https://lobste.rs/s/yctw7m/calculating_smooth_clock_hands) - [Calculating a Smooth Clock Hands Animation](http://david-smith.org/blog/2023/11/06/design-notes-46/)
