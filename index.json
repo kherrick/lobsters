@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-08, 08:07:29",
+      "https://lobste.rs/s/v2nlk0/fistful_automata"
+    ],
+    [
+      "A Fistful of Automata",
+      "https://iagoleal.com/posts/automata-monads/"
+    ]
+  ],
+  [
+    [
       "2023-11-08, 07:45:26",
       "https://lobste.rs/s/p5sxde/command_not_found_com"
     ],
@@ -47,16 +57,6 @@
     [
       "What the QWAC?",
       "https://scotthelme.co.uk/what-the-qwac/"
-    ]
-  ],
-  [
-    [
-      "2023-11-08, 05:39:33",
-      "https://lobste.rs/s/swphqj/generating_arrays_at_compile_time_c_with"
-    ],
-    [
-      "Generating arrays at compile-time in C++ with lambdas",
-      "https://lemire.me/blog/2023/11/07/generating-arrays-at-compile-time-in-c-with-lambdas/"
     ]
   ],
   [
