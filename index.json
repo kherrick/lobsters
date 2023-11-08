@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-08, 22:06:48",
+      "https://lobste.rs/s/mwhqdd/what_s_with_ml_software_pickles"
+    ],
+    [
+      "What's with ML software and pickles?",
+      "https://blog.nelhage.com/post/pickles-and-ml/?ref=buttondown"
+    ]
+  ],
+  [
+    [
       "2023-11-08, 21:42:50",
       "https://lobste.rs/s/vstmis/catapult_sdk_risc_v_development"
     ],
@@ -237,16 +247,6 @@
     [
       "A four year plan for async Rust",
       "https://without.boats/blog/a-four-year-plan/"
-    ]
-  ],
-  [
-    [
-      "2023-11-07, 15:20:50",
-      "https://lobste.rs/s/itwqcp/sorry_computer_you_re_not_teapot"
-    ],
-    [
-      "Sorry Computer, You're Not a Teapot",
-      "https://thehistoryoftheweb.com/im-a-teapot/"
     ]
   ]
 ]
