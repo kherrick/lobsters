@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-08, 07:45:26](https://lobste.rs/s/p5sxde/command_not_found_com) - [command-not-found.com](https://command-not-found.com/)
 * [2023-11-08, 06:24:23](https://lobste.rs/s/donfyq/columnar_kernels_go) - [Columnar kernels in go?](https://www.scattered-thoughts.net/writing/columnar-kernels-in-go/)
 * [2023-11-08, 06:20:44](https://lobste.rs/s/psseoc/sorting_strings_go_fast_slow) - [Sorting strings in Go, fast and slow](https://aead.dev/news/sort-strings/)
 * [2023-11-08, 06:17:23](https://lobste.rs/s/7up733/curves_l_systems) - [Curves and L-systems](https://apieceofthepi.substack.com/p/curves-and-l-systems)
@@ -11,7 +12,6 @@
 * [2023-11-07, 23:50:31](https://lobste.rs/s/c1smbg/go_containers_linux_scheduler) - [Go, Containers, and the Linux Scheduler](https://www.riverphillips.dev/blog/go-cfs/)
 * [2023-11-07, 23:14:38](https://lobste.rs/s/eodvin/how_database_tricks_sped_up_rust_linting) - [How Database Tricks Sped up Rust Linting Over 2000x](https://www.youtube.com/watch?v=Fqo8r4bInsk)
 * [2023-11-07, 23:10:01](https://lobste.rs/s/rbyntg/what_if_we_don_t_pop_stack_return_2nd_class) - [What If We Don't Pop the Stack? The Return of 2nd-Class Values](https://www.cs.purdue.edu/homes/rompf/papers/xhebraj-ecoop22.pdf)
-* [2023-11-07, 21:45:10](https://lobste.rs/s/bnp9ce/enough_polynomials_linear_algebra) - [Enough Polynomials and Linear Algebra to Implement Kyber](https://words.filippo.io/dispatches/kyber-math/)
 * [2023-11-07, 20:19:10](https://lobste.rs/s/8ktols/better_explanation_liskov_substitution) - [A better explanation of the Liskov Substitution Principle](https://www.hillelwayne.com/post/lsp/)
 * [2023-11-07, 19:29:26](https://lobste.rs/s/crgckt/database_generated_columns_django) - [Database generated columns ⁽¹⁾: Django & SQLite](https://www.paulox.net/2023/11/07/database-generated-columns-part-1-django-and-sqlite/)
 * [2023-11-07, 18:47:08](https://lobste.rs/s/yszech/rainbow_wifi_enabled_nes_mapper) - [Rainbow: wifi-enabled NES mapper](https://github.com/BrokeStudio/rainbow-net/blob/master/NES/rainbow-nes-mapper.md)
