@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-08, 19:31:08",
+      "https://lobste.rs/s/uk3tqj/messing_with_proxmox"
+    ],
+    [
+      "Messing with Proxmox",
+      "https://gabrielsimmer.com/blog/messing-with-proxmox"
+    ]
+  ],
+  [
+    [
+      "2023-11-08, 19:29:58",
+      "https://lobste.rs/s/mfgfcx/preventing_problems_caused_by_generated"
+    ],
+    [
+      "Preventing problems caused by generated files",
+      "https://blog.verygoodsoftwarenotvirus.ru/posts/generated-files/"
+    ]
+  ],
+  [
+    [
       "2023-11-08, 19:11:48",
       "https://lobste.rs/s/a19f7r/extern_templates_reduce_binary_size"
     ],
@@ -37,16 +57,6 @@
     [
       "What we learned from installing Nix one million times",
       "https://determinate.systems/posts/lessons-from-1-million-nix-installs"
-    ]
-  ],
-  [
-    [
-      "2023-11-08, 17:14:03",
-      "https://lobste.rs/s/x8eyr6/what_is_origin_default_256_color_vga"
-    ],
-    [
-      "What is the origin of the default 256-color VGA palette?",
-      "https://retrocomputing.stackexchange.com/questions/27994/what-is-the-origin-of-the-default-256-color-vga-palette"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Simplex chat notifications with Syndicated Actors",
       "https://spam.works/users/emery/simplex_notifications.gmi"
-    ]
-  ],
-  [
-    [
-      "2023-11-08, 08:07:29",
-      "https://lobste.rs/s/v2nlk0/fistful_automata"
-    ],
-    [
-      "A Fistful of Automata",
-      "https://iagoleal.com/posts/automata-monads/"
     ]
   ],
   [
