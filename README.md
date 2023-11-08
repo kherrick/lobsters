@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-08, 04:48:19](https://lobste.rs/s/tf9lso/how_antimatter_spacecraft_will_work) - [how antimatter spacecraft will work](https://www.youtube.com/watch?v=--eOl7NNcEs)
 * [2023-11-08, 03:02:04](https://lobste.rs/s/xv1vih/dark_universe_spacecraft_reveals_first) - ['Dark universe’ spacecraft reveals first colour images of the cosmos](https://thenextweb.com/news/esa-euclid-space-mission-releases-first-colour-images)
 * [2023-11-08, 02:09:23](https://lobste.rs/s/hhvbvu/inshellisense_ide_style_command_line) - [inshellisense: IDE style command line auto complete](https://github.com/microsoft/inshellisense)
 * [2023-11-08, 00:07:23](https://lobste.rs/s/3uypmw/reactos_late_2023_news) - [ReactOS Late 2023 news](https://reactos.org/blogs/newsletter-103/)
@@ -24,7 +25,6 @@
 * [2023-11-06, 22:39:13](https://lobste.rs/s/xjgr0o/fixing_other_go_loop_bug) - [fixing the other go loop bug](https://flak.tedunangst.com/post/fixing-the-other-go-loop-bug)
 * [2023-11-06, 19:55:38](https://lobste.rs/s/wy2jgl/goguma_irc_client_for_mobile_devices) - [goguma: An IRC client for mobile devices](https://sr.ht/~emersion/goguma/)
 * [2023-11-06, 19:01:50](https://lobste.rs/s/7zwdeg/what_exactly_was_point_x_var_xval) - [What exactly was the point of [ “x$var” = “xval” ]?](https://www.vidarholen.net/contents/blog/?p=1035)
-* [2023-11-06, 14:44:34](https://lobste.rs/s/lnwbak/future_synapse_dendrite) - [The future of Synapse and Dendrite](https://matrix.org/blog/2023/11/06/future-of-synapse-dendrite/)
 
 ## [Archives](archives/index.md)
 
