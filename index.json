@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-08, 03:02:04",
+      "https://lobste.rs/s/xv1vih/dark_universe_spacecraft_reveals_first"
+    ],
+    [
+      "'Dark universe’ spacecraft reveals first colour images of the cosmos",
+      "https://thenextweb.com/news/esa-euclid-space-mission-releases-first-colour-images"
+    ]
+  ],
+  [
+    [
       "2023-11-08, 02:09:23",
       "https://lobste.rs/s/hhvbvu/inshellisense_ide_style_command_line"
     ],
@@ -187,16 +197,6 @@
     [
       "Announcing sqlc-gen-go",
       "https://sqlc.dev/posts/2023/11/06/publishing-sqlc-gen-go/"
-    ]
-  ],
-  [
-    [
-      "2023-11-07, 06:41:57",
-      "https://lobste.rs/s/8tlqiq/digging_into_evm_object_format_eof"
-    ],
-    [
-      "Digging into the EVM Object Format (EOF)",
-      "https://whileydave.com/2023/10/19/digging-into-the-evm-object-format-eof/"
     ]
   ],
   [
