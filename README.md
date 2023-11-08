@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-08, 14:24:37](https://lobste.rs/s/fyvn6j/scheme_wasm_tail_call_situation) - [Scheme WASM Tail Call Situation](https://gist.github.com/rain-1/20329ae349a866b29aa1a37eb8a4a88c)
 * [2023-11-08, 14:17:40](https://lobste.rs/s/z7rc9e/demystifying_function_parameters_go) - [Demystifying function parameters in Go](https://www.alexedwards.net/blog/demystifying-function-parameters-in-go)
 * [2023-11-08, 13:58:23](https://lobste.rs/s/zbngh3/search_across_half_million_git_repos) - [Search across a half million git repos](https://grep.app)
 * [2023-11-08, 13:42:26](https://lobste.rs/s/ifoyxj/don_t_trust_your_profiler) - [Don't Trust Your Profiler](https://stefan-marr.de/downloads/mplr23-burchell-et-al-dont-trust-your-profiler.pdf)
@@ -23,7 +24,6 @@
 * [2023-11-07, 17:44:24](https://lobste.rs/s/pjgmjv/fedora_linux_39) - [Fedora Linux 39](https://fedoramagazine.org/announcing-fedora-linux-39/)
 * [2023-11-07, 16:10:02](https://lobste.rs/s/tbchou/four_year_plan_for_async_rust) - [A four year plan for async Rust](https://without.boats/blog/a-four-year-plan/)
 * [2023-11-07, 15:20:50](https://lobste.rs/s/itwqcp/sorry_computer_you_re_not_teapot) - [Sorry Computer, You're Not a Teapot](https://thehistoryoftheweb.com/im-a-teapot/)
-* [2023-11-07, 14:15:31](https://lobste.rs/s/cy9zc1/bad_old_days_we_had_punch_cards_how_did) - [In the bad old days we had punch cards. How did people deal with that?](https://blog.computationalcomplexity.org/2023/11/in-bad-old-days-we-had-punchcards-how.html)
 * [2023-11-07, 12:37:47](https://lobste.rs/s/otgffj/reducing_raspberry_pi_5_s_standby_power) - [Reducing Raspberry Pi 5's standby power consumption by 140x](https://www.jeffgeerling.com/blog/2023/reducing-raspberry-pi-5s-power-consumption-140x)
 
 ## [Archives](archives/index.md)
