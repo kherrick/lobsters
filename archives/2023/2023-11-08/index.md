@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
+* [2023-11-08, 08:07:29](https://lobste.rs/s/v2nlk0/fistful_automata) - [A Fistful of Automata](https://iagoleal.com/posts/automata-monads/)
 * [2023-11-08, 07:45:26](https://lobste.rs/s/p5sxde/command_not_found_com) - [command-not-found.com](https://command-not-found.com/)
 * [2023-11-08, 06:24:23](https://lobste.rs/s/donfyq/columnar_kernels_go) - [Columnar kernels in go?](https://www.scattered-thoughts.net/writing/columnar-kernels-in-go/)
 * [2023-11-08, 06:20:44](https://lobste.rs/s/psseoc/sorting_strings_go_fast_slow) - [Sorting strings in Go, fast and slow](https://aead.dev/news/sort-strings/)
