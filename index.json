@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-08, 15:19:01",
+      "https://lobste.rs/s/yctw7m/calculating_smooth_clock_hands"
+    ],
+    [
+      "Calculating a Smooth Clock Hands Animation",
+      "http://david-smith.org/blog/2023/11/06/design-notes-46/"
+    ]
+  ],
+  [
+    [
       "2023-11-08, 14:24:37",
       "https://lobste.rs/s/fyvn6j/scheme_wasm_tail_call_situation"
     ],
@@ -201,26 +211,6 @@
   ],
   [
     [
-      "2023-11-07, 18:47:08",
-      "https://lobste.rs/s/yszech/rainbow_wifi_enabled_nes_mapper"
-    ],
-    [
-      "Rainbow: wifi-enabled NES mapper",
-      "https://github.com/BrokeStudio/rainbow-net/blob/master/NES/rainbow-nes-mapper.md"
-    ]
-  ],
-  [
-    [
-      "2023-11-07, 17:44:24",
-      "https://lobste.rs/s/pjgmjv/fedora_linux_39"
-    ],
-    [
-      "Fedora Linux 39",
-      "https://fedoramagazine.org/announcing-fedora-linux-39/"
-    ]
-  ],
-  [
-    [
       "2023-11-07, 16:10:02",
       "https://lobste.rs/s/tbchou/four_year_plan_for_async_rust"
     ],
@@ -237,6 +227,16 @@
     [
       "Sorry Computer, You're Not a Teapot",
       "https://thehistoryoftheweb.com/im-a-teapot/"
+    ]
+  ],
+  [
+    [
+      "2023-11-07, 14:15:31",
+      "https://lobste.rs/s/cy9zc1/bad_old_days_we_had_punch_cards_how_did"
+    ],
+    [
+      "In the bad old days we had punch cards. How did people deal with that?",
+      "https://blog.computationalcomplexity.org/2023/11/in-bad-old-days-we-had-punchcards-how.html"
     ]
   ],
   [
