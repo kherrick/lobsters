@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-11-08, 00:32:44](https://lobste.rs/s/ugkswg/chaos_engineering_who_s_blame_for_bug_mess) - [Chaos Engineering - Who's to Blame for the Bug Mess?](https://greptime.com/blogs/2023-11-06-chaos-engineering)
 * [2023-11-08, 00:07:23](https://lobste.rs/s/3uypmw/reactos_late_2023_news) - [ReactOS Late 2023 news](https://reactos.org/blogs/newsletter-103/)
 * [2023-11-07, 23:54:12](https://lobste.rs/s/jg9pvu/article_45_will_roll_back_web_security_by) - [Article 45 Will Roll Back Web Security by 12 Years](https://www.eff.org/deeplinks/2023/11/article-45-will-roll-back-web-security-12-years)
 * [2023-11-07, 23:50:31](https://lobste.rs/s/c1smbg/go_containers_linux_scheduler) - [Go, Containers, and the Linux Scheduler](https://www.riverphillips.dev/blog/go-cfs/)
@@ -8,6 +7,7 @@
 * [2023-11-07, 23:10:01](https://lobste.rs/s/rbyntg/what_if_we_don_t_pop_stack_return_2nd_class) - [What If We Don't Pop the Stack? The Return of 2nd-Class Values](https://www.cs.purdue.edu/homes/rompf/papers/xhebraj-ecoop22.pdf)
 * [2023-11-07, 21:45:10](https://lobste.rs/s/bnp9ce/enough_polynomials_linear_algebra) - [Enough Polynomials and Linear Algebra to Implement Kyber](https://words.filippo.io/dispatches/kyber-math/)
 * [2023-11-07, 20:19:10](https://lobste.rs/s/8ktols/better_explanation_liskov_substitution) - [A better explanation of the Liskov Substitution Principle](https://www.hillelwayne.com/post/lsp/)
+* [2023-11-07, 20:10:37](https://lobste.rs/s/yoszux/anchor_tags) - [Anchor Tags](https://www.marginalia.nu/log/93_atags/)
 * [2023-11-07, 19:29:26](https://lobste.rs/s/crgckt/database_generated_columns_django) - [Database generated columns ⁽¹⁾: Django & SQLite](https://www.paulox.net/2023/11/07/database-generated-columns-part-1-django-and-sqlite/)
 * [2023-11-07, 18:47:08](https://lobste.rs/s/yszech/rainbow_wifi_enabled_nes_mapper) - [Rainbow: wifi-enabled NES mapper](https://github.com/BrokeStudio/rainbow-net/blob/master/NES/rainbow-nes-mapper.md)
 * [2023-11-07, 17:44:24](https://lobste.rs/s/pjgmjv/fedora_linux_39) - [Fedora Linux 39](https://fedoramagazine.org/announcing-fedora-linux-39/)
