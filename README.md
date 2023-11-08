@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-08, 06:24:23](https://lobste.rs/s/donfyq/columnar_kernels_go) - [Columnar kernels in go?](https://www.scattered-thoughts.net/writing/columnar-kernels-in-go/)
 * [2023-11-08, 06:20:44](https://lobste.rs/s/psseoc/sorting_strings_go_fast_slow) - [Sorting strings in Go, fast and slow](https://aead.dev/news/sort-strings/)
 * [2023-11-08, 06:17:23](https://lobste.rs/s/7up733/curves_l_systems) - [Curves and L-systems](https://apieceofthepi.substack.com/p/curves-and-l-systems)
 * [2023-11-08, 05:43:54](https://lobste.rs/s/ddtoey/what_qwac) - [What the QWAC?](https://scotthelme.co.uk/what-the-qwac/)
 * [2023-11-08, 05:39:33](https://lobste.rs/s/swphqj/generating_arrays_at_compile_time_c_with) - [Generating arrays at compile-time in C++ with lambdas](https://lemire.me/blog/2023/11/07/generating-arrays-at-compile-time-in-c-with-lambdas/)
-* [2023-11-08, 04:48:19](https://lobste.rs/s/tf9lso/how_antimatter_spacecraft_will_work) - [how antimatter spacecraft will work](https://www.youtube.com/watch?v=--eOl7NNcEs)
 * [2023-11-08, 03:02:04](https://lobste.rs/s/xv1vih/dark_universe_spacecraft_reveals_first) - ['Dark universe’ spacecraft reveals first colour images of the cosmos](https://thenextweb.com/news/esa-euclid-space-mission-releases-first-colour-images)
 * [2023-11-08, 02:09:23](https://lobste.rs/s/hhvbvu/inshellisense_ide_style_command_line) - [inshellisense: IDE style command line auto complete](https://github.com/microsoft/inshellisense)
 * [2023-11-08, 00:07:23](https://lobste.rs/s/3uypmw/reactos_late_2023_news) - [ReactOS Late 2023 news](https://reactos.org/blogs/newsletter-103/)

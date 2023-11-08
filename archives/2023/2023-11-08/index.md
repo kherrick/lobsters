@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
+* [2023-11-08, 06:24:23](https://lobste.rs/s/donfyq/columnar_kernels_go) - [Columnar kernels in go?](https://www.scattered-thoughts.net/writing/columnar-kernels-in-go/)
 * [2023-11-08, 06:20:44](https://lobste.rs/s/psseoc/sorting_strings_go_fast_slow) - [Sorting strings in Go, fast and slow](https://aead.dev/news/sort-strings/)
 * [2023-11-08, 06:17:23](https://lobste.rs/s/7up733/curves_l_systems) - [Curves and L-systems](https://apieceofthepi.substack.com/p/curves-and-l-systems)
 * [2023-11-08, 05:43:54](https://lobste.rs/s/ddtoey/what_qwac) - [What the QWAC?](https://scotthelme.co.uk/what-the-qwac/)
