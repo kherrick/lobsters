@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-08, 06:20:44](https://lobste.rs/s/psseoc/sorting_strings_go_fast_slow) - [Sorting strings in Go, fast and slow](https://aead.dev/news/sort-strings/)
+* [2023-11-08, 06:17:23](https://lobste.rs/s/7up733/curves_l_systems) - [Curves and L-systems](https://apieceofthepi.substack.com/p/curves-and-l-systems)
 * [2023-11-08, 05:43:54](https://lobste.rs/s/ddtoey/what_qwac) - [What the QWAC?](https://scotthelme.co.uk/what-the-qwac/)
 * [2023-11-08, 05:39:33](https://lobste.rs/s/swphqj/generating_arrays_at_compile_time_c_with) - [Generating arrays at compile-time in C++ with lambdas](https://lemire.me/blog/2023/11/07/generating-arrays-at-compile-time-in-c-with-lambdas/)
 * [2023-11-08, 04:48:19](https://lobste.rs/s/tf9lso/how_antimatter_spacecraft_will_work) - [how antimatter spacecraft will work](https://www.youtube.com/watch?v=--eOl7NNcEs)
@@ -10,7 +12,6 @@
 * [2023-11-07, 23:50:31](https://lobste.rs/s/c1smbg/go_containers_linux_scheduler) - [Go, Containers, and the Linux Scheduler](https://www.riverphillips.dev/blog/go-cfs/)
 * [2023-11-07, 23:14:38](https://lobste.rs/s/eodvin/how_database_tricks_sped_up_rust_linting) - [How Database Tricks Sped up Rust Linting Over 2000x](https://www.youtube.com/watch?v=Fqo8r4bInsk)
 * [2023-11-07, 23:10:01](https://lobste.rs/s/rbyntg/what_if_we_don_t_pop_stack_return_2nd_class) - [What If We Don't Pop the Stack? The Return of 2nd-Class Values](https://www.cs.purdue.edu/homes/rompf/papers/xhebraj-ecoop22.pdf)
-* [2023-11-07, 21:45:10](https://lobste.rs/s/bnp9ce/enough_polynomials_linear_algebra) - [Enough Polynomials and Linear Algebra to Implement Kyber](https://words.filippo.io/dispatches/kyber-math/)
 * [2023-11-07, 20:19:10](https://lobste.rs/s/8ktols/better_explanation_liskov_substitution) - [A better explanation of the Liskov Substitution Principle](https://www.hillelwayne.com/post/lsp/)
 * [2023-11-07, 19:29:26](https://lobste.rs/s/crgckt/database_generated_columns_django) - [Database generated columns ⁽¹⁾: Django & SQLite](https://www.paulox.net/2023/11/07/database-generated-columns-part-1-django-and-sqlite/)
 * [2023-11-07, 18:47:08](https://lobste.rs/s/yszech/rainbow_wifi_enabled_nes_mapper) - [Rainbow: wifi-enabled NES mapper](https://github.com/BrokeStudio/rainbow-net/blob/master/NES/rainbow-nes-mapper.md)
@@ -18,7 +19,6 @@
 * [2023-11-07, 16:10:02](https://lobste.rs/s/tbchou/four_year_plan_for_async_rust) - [A four year plan for async Rust](https://without.boats/blog/a-four-year-plan/)
 * [2023-11-07, 15:20:50](https://lobste.rs/s/itwqcp/sorry_computer_you_re_not_teapot) - [Sorry Computer, You're Not a Teapot](https://thehistoryoftheweb.com/im-a-teapot/)
 * [2023-11-07, 14:15:31](https://lobste.rs/s/cy9zc1/bad_old_days_we_had_punch_cards_how_did) - [In the bad old days we had punch cards. How did people deal with that?](https://blog.computationalcomplexity.org/2023/11/in-bad-old-days-we-had-punchcards-how.html)
-* [2023-11-07, 14:13:46](https://lobste.rs/s/qf2g56/download_fedora_silverblue_39) - [Download Fedora Silverblue 39](https://fedoraproject.org/silverblue/download)
 * [2023-11-07, 14:04:01](https://lobste.rs/s/d8wjuw/critical_vulnerability_atlassian) - [Critical vulnerability in Atlassian Confluence server is under “mass exploitation”](https://arstechnica.com/security/2023/11/critical-vulnerability-in-atlassian-confluence-server-is-under-mass-exploitation/)
 * [2023-11-07, 12:37:47](https://lobste.rs/s/otgffj/reducing_raspberry_pi_5_s_power) - [Reducing Raspberry Pi 5's power consumption by 140x](https://www.jeffgeerling.com/blog/2023/reducing-raspberry-pi-5s-power-consumption-140x)
 * [2023-11-07, 00:29:00](https://lobste.rs/s/pa1fug/backtraces_with_strace) - [Backtraces with strace](https://shane.ai/posts/backtraces-with-strace/)
