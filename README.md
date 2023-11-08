@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-08, 03:02:04](https://lobste.rs/s/xv1vih/dark_universe_spacecraft_reveals_first) - ['Dark universe’ spacecraft reveals first colour images of the cosmos](https://thenextweb.com/news/esa-euclid-space-mission-releases-first-colour-images)
 * [2023-11-08, 02:09:23](https://lobste.rs/s/hhvbvu/inshellisense_ide_style_command_line) - [inshellisense: IDE style command line auto complete](https://github.com/microsoft/inshellisense)
 * [2023-11-08, 00:07:23](https://lobste.rs/s/3uypmw/reactos_late_2023_news) - [ReactOS Late 2023 news](https://reactos.org/blogs/newsletter-103/)
 * [2023-11-07, 23:54:12](https://lobste.rs/s/jg9pvu/article_45_will_roll_back_web_security_by) - [Article 45 Will Roll Back Web Security by 12 Years](https://www.eff.org/deeplinks/2023/11/article-45-will-roll-back-web-security-12-years)
@@ -19,7 +20,6 @@
 * [2023-11-07, 14:04:01](https://lobste.rs/s/d8wjuw/critical_vulnerability_atlassian) - [Critical vulnerability in Atlassian Confluence server is under “mass exploitation”](https://arstechnica.com/security/2023/11/critical-vulnerability-in-atlassian-confluence-server-is-under-mass-exploitation/)
 * [2023-11-07, 12:37:47](https://lobste.rs/s/otgffj/reducing_raspberry_pi_5_s_power) - [Reducing Raspberry Pi 5's power consumption by 140x](https://www.jeffgeerling.com/blog/2023/reducing-raspberry-pi-5s-power-consumption-140x)
 * [2023-11-07, 11:54:42](https://lobste.rs/s/lcdveh/announcing_sqlc_gen_go) - [Announcing sqlc-gen-go](https://sqlc.dev/posts/2023/11/06/publishing-sqlc-gen-go/)
-* [2023-11-07, 06:41:57](https://lobste.rs/s/8tlqiq/digging_into_evm_object_format_eof) - [Digging into the EVM Object Format (EOF)](https://whileydave.com/2023/10/19/digging-into-the-evm-object-format-eof/)
 * [2023-11-07, 00:29:00](https://lobste.rs/s/pa1fug/backtraces_with_strace) - [Backtraces with strace](https://shane.ai/posts/backtraces-with-strace/)
 * [2023-11-06, 22:39:13](https://lobste.rs/s/xjgr0o/fixing_other_go_loop_bug) - [fixing the other go loop bug](https://flak.tedunangst.com/post/fixing-the-other-go-loop-bug)
 * [2023-11-06, 19:55:38](https://lobste.rs/s/wy2jgl/goguma_irc_client_for_mobile_devices) - [goguma: An IRC client for mobile devices](https://sr.ht/~emersion/goguma/)
