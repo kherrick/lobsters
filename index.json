@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-08, 00:32:44",
+      "https://lobste.rs/s/ugkswg/chaos_engineering_who_s_blame_for_bug_mess"
+    ],
+    [
+      "Chaos Engineering - Who's to Blame for the Bug Mess?",
+      "https://greptime.com/blogs/2023-11-06-chaos-engineering"
+    ]
+  ],
+  [
+    [
+      "2023-11-08, 00:07:23",
+      "https://lobste.rs/s/3uypmw/reactos_late_2023_news"
+    ],
+    [
+      "ReactOS Late 2023 news",
+      "https://reactos.org/blogs/newsletter-103/"
+    ]
+  ],
+  [
+    [
       "2023-11-07, 23:54:12",
       "https://lobste.rs/s/jg9pvu/article_45_will_roll_back_web_security_by"
     ],
@@ -21,16 +41,6 @@
   ],
   [
     [
-      "2023-11-07, 23:19:20",
-      "https://lobste.rs/s/vagbnt/freebsd_journal_2023_09_10_issue"
-    ],
-    [
-      "FreeBSD Journal 2023/09-10 Issue",
-      "https://cdn.coverstand.com/33057/807028/3b61c60795dacfdb6e435dff66136b18a780d1fe.pdf"
-    ]
-  ],
-  [
-    [
       "2023-11-07, 23:14:38",
       "https://lobste.rs/s/eodvin/how_database_tricks_sped_up_rust_linting"
     ],
@@ -47,6 +57,16 @@
     [
       "What If We Don't Pop the Stack? The Return of 2nd-Class Values",
       "https://www.cs.purdue.edu/homes/rompf/papers/xhebraj-ecoop22.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-11-07, 21:45:10",
+      "https://lobste.rs/s/bnp9ce/enough_polynomials_linear_algebra"
+    ],
+    [
+      "Enough Polynomials and Linear Algebra to Implement Kyber",
+      "https://words.filippo.io/dispatches/kyber-math/"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2023-11-06, 17:50:45",
-      "https://lobste.rs/s/miikoq/git_rebase_what_can_go_wrong"
-    ],
-    [
-      "git rebase: what can go wrong?",
-      "https://jvns.ca/blog/2023/11/06/rebasing-what-can-go-wrong-/"
-    ]
-  ],
-  [
-    [
       "2023-11-06, 14:44:34",
       "https://lobste.rs/s/lnwbak/future_synapse_dendrite"
     ],
     [
       "The future of Synapse and Dendrite",
       "https://matrix.org/blog/2023/11/06/future-of-synapse-dendrite/"
-    ]
-  ],
-  [
-    [
-      "2023-11-06, 08:22:58",
-      "https://lobste.rs/s/6udrap/firefox_development_is_moving_from"
-    ],
-    [
-      "Firefox Development Is Moving From Mercurial To Git",
-      "https://groups.google.com/a/mozilla.org/g/firefox-dev/c/QnfydsDj48o/m/8WadV0_dBQAJ?pli=1"
     ]
   ]
 ]
