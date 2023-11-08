@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
+* [2023-11-08, 10:59:16](https://lobste.rs/s/docl56/surprising_facts_about_new_css_selectors) - [Surprising Facts About New CSS Selectors](https://cloudfour.com/thinks/surprising-facts-about-new-css-selectors/)
+* [2023-11-08, 10:54:09](https://lobste.rs/s/krmdls/don_t_disable_buttons) - [Don't disable buttons](https://gomakethings.com/dont-disable-buttons/)
 * [2023-11-08, 09:51:08](https://lobste.rs/s/5hjzj1/simplex_chat_notifications_with) - [Simplex chat notifications with Syndicated Actors](https://spam.works/users/emery/simplex_notifications.gmi)
 * [2023-11-08, 08:07:29](https://lobste.rs/s/v2nlk0/fistful_automata) - [A Fistful of Automata](https://iagoleal.com/posts/automata-monads/)
 * [2023-11-08, 07:45:26](https://lobste.rs/s/p5sxde/command_not_found_com) - [command-not-found.com](https://command-not-found.com/)

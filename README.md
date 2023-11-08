@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-08, 10:59:16](https://lobste.rs/s/docl56/surprising_facts_about_new_css_selectors) - [Surprising Facts About New CSS Selectors](https://cloudfour.com/thinks/surprising-facts-about-new-css-selectors/)
+* [2023-11-08, 10:54:09](https://lobste.rs/s/krmdls/don_t_disable_buttons) - [Don't disable buttons](https://gomakethings.com/dont-disable-buttons/)
 * [2023-11-08, 09:51:08](https://lobste.rs/s/5hjzj1/simplex_chat_notifications_with) - [Simplex chat notifications with Syndicated Actors](https://spam.works/users/emery/simplex_notifications.gmi)
 * [2023-11-08, 08:07:29](https://lobste.rs/s/v2nlk0/fistful_automata) - [A Fistful of Automata](https://iagoleal.com/posts/automata-monads/)
 * [2023-11-08, 07:45:26](https://lobste.rs/s/p5sxde/command_not_found_com) - [command-not-found.com](https://command-not-found.com/)
-* [2023-11-08, 06:24:23](https://lobste.rs/s/donfyq/columnar_kernels_go) - [Columnar kernels in go?](https://www.scattered-thoughts.net/writing/columnar-kernels-in-go/)
-* [2023-11-08, 06:20:44](https://lobste.rs/s/psseoc/sorting_strings_go_fast_slow) - [Sorting strings in Go, fast and slow](https://aead.dev/news/sort-strings/)
 * [2023-11-08, 05:43:54](https://lobste.rs/s/ddtoey/what_qwac) - [What the QWAC?](https://scotthelme.co.uk/what-the-qwac/)
 * [2023-11-08, 02:09:23](https://lobste.rs/s/hhvbvu/inshellisense_ide_style_command_line) - [inshellisense: IDE style command line auto complete](https://github.com/microsoft/inshellisense)
 * [2023-11-08, 00:07:23](https://lobste.rs/s/3uypmw/reactos_late_2023_news) - [ReactOS Late 2023 news](https://reactos.org/blogs/newsletter-103/)
