@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-08, 17:35:17",
+      "https://lobste.rs/s/c6ymgj/what_we_learned_from_installing_nix_one"
+    ],
+    [
+      "What we learned from installing Nix one million times",
+      "https://determinate.systems/posts/lessons-from-1-million-nix-installs"
+    ]
+  ],
+  [
+    [
       "2023-11-08, 17:14:03",
       "https://lobste.rs/s/x8eyr6/what_is_origin_default_256_color_vga"
     ],
@@ -27,16 +37,6 @@
     [
       "How updating your Yocto layers can go wrong",
       "https://mind.be/updating-yocto-layers/"
-    ]
-  ],
-  [
-    [
-      "2023-11-08, 15:19:01",
-      "https://lobste.rs/s/yctw7m/calculating_smooth_clock_hands"
-    ],
-    [
-      "Calculating a Smooth Clock Hands Animation",
-      "http://david-smith.org/blog/2023/11/06/design-notes-46/"
     ]
   ],
   [
