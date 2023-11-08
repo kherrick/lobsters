@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
+* [2023-11-08, 15:19:01](https://lobste.rs/s/yctw7m/calculating_smooth_clock_hands) - [Calculating a Smooth Clock Hands Animation](http://david-smith.org/blog/2023/11/06/design-notes-46/)
 * [2023-11-08, 14:24:37](https://lobste.rs/s/fyvn6j/scheme_wasm_tail_call_situation) - [Scheme WASM Tail Call Situation](https://gist.github.com/rain-1/20329ae349a866b29aa1a37eb8a4a88c)
 * [2023-11-08, 14:17:40](https://lobste.rs/s/z7rc9e/demystifying_function_parameters_go) - [Demystifying function parameters in Go](https://www.alexedwards.net/blog/demystifying-function-parameters-in-go)
 * [2023-11-08, 13:58:23](https://lobste.rs/s/zbngh3/search_across_half_million_git_repos) - [Search across a half million git repos](https://grep.app)
