@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-11-08, 22:06:48](https://lobste.rs/s/mwhqdd/what_s_with_ml_software_pickles) - [What's with ML software and pickles?](https://blog.nelhage.com/post/pickles-and-ml/?ref=buttondown)
-* [2023-11-08, 21:42:50](https://lobste.rs/s/vstmis/catapult_sdk_risc_v_development) - [Catapult SDK: RISC-V Development Environment](https://developer.imaginationtech.com/catapult-sdk/)
 * [2023-11-08, 20:17:59](https://lobste.rs/s/hh7wuy/why_scipy_builds_for_python_3_12_on_windows) - [Why SciPy builds for Python 3.12 on Windows are a minor miracle](https://labs.quansight.org/blog/building-scipy-with-flang)
 * [2023-11-08, 19:50:05](https://lobste.rs/s/mu1b61/what_process_created_this_x11_window) - [\"What process created this X11 window?\"](https://unix.stackexchange.com/questions/5478/what-process-created-this-x11-window/84981#84981)
 * [2023-11-08, 19:29:58](https://lobste.rs/s/mfgfcx/preventing_problems_caused_by_generated) - [Preventing problems caused by generated files](https://blog.verygoodsoftwarenotvirus.ru/posts/generated-files/)
@@ -11,6 +10,7 @@
 * [2023-11-08, 17:35:17](https://lobste.rs/s/c6ymgj/what_we_learned_from_installing_nix_one) - [What we learned from installing Nix one million times](https://determinate.systems/posts/lessons-from-1-million-nix-installs)
 * [2023-11-08, 17:14:03](https://lobste.rs/s/x8eyr6/what_is_origin_default_256_color_vga) - [What is the origin of the default 256-color VGA palette?](https://retrocomputing.stackexchange.com/questions/27994/what-is-the-origin-of-the-default-256-color-vga-palette)
 * [2023-11-08, 16:19:21](https://lobste.rs/s/mxwit7/link_time_optimisation_lto) - [Link-time optimisation (LTO)](https://convolv.es/guides/lto/)
+* [2023-11-08, 15:19:01](https://lobste.rs/s/yctw7m/calculating_smooth_clock_hands) - [Calculating a Smooth Clock Hands Animation](http://david-smith.org/blog/2023/11/06/design-notes-46/)
 * [2023-11-08, 14:24:37](https://lobste.rs/s/fyvn6j/scheme_wasm_tail_call_situation) - [Scheme WASM Tail Call Situation](https://gist.github.com/rain-1/20329ae349a866b29aa1a37eb8a4a88c)
 * [2023-11-08, 14:17:40](https://lobste.rs/s/z7rc9e/demystifying_function_parameters_go) - [Demystifying function parameters in Go](https://www.alexedwards.net/blog/demystifying-function-parameters-in-go)
 * [2023-11-08, 13:58:23](https://lobste.rs/s/zbngh3/search_across_half_million_git_repos) - [Search across a half million git repos](https://grep.app)
