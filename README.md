@@ -2,11 +2,11 @@
 
 * [2023-11-08, 22:06:48](https://lobste.rs/s/mwhqdd/what_s_with_ml_software_pickles) - [What's with ML software and pickles?](https://blog.nelhage.com/post/pickles-and-ml/?ref=buttondown)
 * [2023-11-08, 21:42:50](https://lobste.rs/s/vstmis/catapult_sdk_risc_v_development) - [Catapult SDK: RISC-V Development Environment](https://developer.imaginationtech.com/catapult-sdk/)
-* [2023-11-08, 21:40:12](https://lobste.rs/s/5rgmez/systemc) - [SystemC](https://systemc.org/overview/systemc/)
 * [2023-11-08, 20:17:59](https://lobste.rs/s/hh7wuy/why_scipy_builds_for_python_3_12_on_windows) - [Why SciPy builds for Python 3.12 on Windows are a minor miracle](https://labs.quansight.org/blog/building-scipy-with-flang)
 * [2023-11-08, 19:50:05](https://lobste.rs/s/mu1b61/what_process_created_this_x11_window) - [\"What process created this X11 window?\"](https://unix.stackexchange.com/questions/5478/what-process-created-this-x11-window/84981#84981)
 * [2023-11-08, 19:29:58](https://lobste.rs/s/mfgfcx/preventing_problems_caused_by_generated) - [Preventing problems caused by generated files](https://blog.verygoodsoftwarenotvirus.ru/posts/generated-files/)
 * [2023-11-08, 19:11:48](https://lobste.rs/s/a19f7r/extern_templates_reduce_binary_size) - [Extern templates to reduce binary size](https://www.sandordargo.com/blog/2023/11/08/extern-templates)
+* [2023-11-08, 18:53:13](https://lobste.rs/s/wi2evf/automerge_repo_batteries_included) - [Automerge-Repo: A \"batteries-included\" toolkit for building local-first applications](https://automerge.org/blog/2023/11/06/automerge-repo/)
 * [2023-11-08, 17:50:51](https://lobste.rs/s/aajbod/wasmfx_effect_handlers_for_webassembly) - [WasmFX: Effect Handlers for WebAssembly](https://wasmfx.dev/)
 * [2023-11-08, 17:35:17](https://lobste.rs/s/c6ymgj/what_we_learned_from_installing_nix_one) - [What we learned from installing Nix one million times](https://determinate.systems/posts/lessons-from-1-million-nix-installs)
 * [2023-11-08, 17:14:03](https://lobste.rs/s/x8eyr6/what_is_origin_default_256_color_vga) - [What is the origin of the default 256-color VGA palette?](https://retrocomputing.stackexchange.com/questions/27994/what-is-the-origin-of-the-default-256-color-vga-palette)
