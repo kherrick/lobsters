@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-11-08, 21:42:50",
-      "https://lobste.rs/s/vstmis/catapult_sdk_risc_v_development"
-    ],
-    [
-      "Catapult SDK: RISC-V Development Environment",
-      "https://developer.imaginationtech.com/catapult-sdk/"
-    ]
-  ],
-  [
-    [
       "2023-11-08, 20:17:59",
       "https://lobste.rs/s/hh7wuy/why_scipy_builds_for_python_3_12_on_windows"
     ],
@@ -107,6 +97,16 @@
     [
       "Link-time optimisation (LTO)",
       "https://convolv.es/guides/lto/"
+    ]
+  ],
+  [
+    [
+      "2023-11-08, 15:19:01",
+      "https://lobste.rs/s/yctw7m/calculating_smooth_clock_hands"
+    ],
+    [
+      "Calculating a Smooth Clock Hands Animation",
+      "http://david-smith.org/blog/2023/11/06/design-notes-46/"
     ]
   ],
   [
