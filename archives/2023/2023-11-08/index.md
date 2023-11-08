@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
+* [2023-11-08, 22:06:48](https://lobste.rs/s/mwhqdd/what_s_with_ml_software_pickles) - [What's with ML software and pickles?](https://blog.nelhage.com/post/pickles-and-ml/?ref=buttondown)
 * [2023-11-08, 21:42:50](https://lobste.rs/s/vstmis/catapult_sdk_risc_v_development) - [Catapult SDK: RISC-V Development Environment](https://developer.imaginationtech.com/catapult-sdk/)
 * [2023-11-08, 21:40:12](https://lobste.rs/s/5rgmez/systemc) - [SystemC](https://systemc.org/overview/systemc/)
 * [2023-11-08, 20:17:59](https://lobste.rs/s/hh7wuy/why_scipy_builds_for_python_3_12_on_windows) - [Why SciPy builds for Python 3.12 on Windows are a minor miracle](https://labs.quansight.org/blog/building-scipy-with-flang)

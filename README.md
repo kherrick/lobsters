@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-08, 22:06:48](https://lobste.rs/s/mwhqdd/what_s_with_ml_software_pickles) - [What's with ML software and pickles?](https://blog.nelhage.com/post/pickles-and-ml/?ref=buttondown)
 * [2023-11-08, 21:42:50](https://lobste.rs/s/vstmis/catapult_sdk_risc_v_development) - [Catapult SDK: RISC-V Development Environment](https://developer.imaginationtech.com/catapult-sdk/)
 * [2023-11-08, 21:40:12](https://lobste.rs/s/5rgmez/systemc) - [SystemC](https://systemc.org/overview/systemc/)
 * [2023-11-08, 20:17:59](https://lobste.rs/s/hh7wuy/why_scipy_builds_for_python_3_12_on_windows) - [Why SciPy builds for Python 3.12 on Windows are a minor miracle](https://labs.quansight.org/blog/building-scipy-with-flang)
@@ -24,7 +25,6 @@
 * [2023-11-07, 23:10:01](https://lobste.rs/s/rbyntg/what_if_we_don_t_pop_stack_return_2nd_class) - [What If We Don't Pop the Stack? The Return of 2nd-Class Values](https://www.cs.purdue.edu/homes/rompf/papers/xhebraj-ecoop22.pdf)
 * [2023-11-07, 20:19:10](https://lobste.rs/s/8ktols/better_explanation_liskov_substitution) - [A better explanation of the Liskov Substitution Principle](https://www.hillelwayne.com/post/lsp/)
 * [2023-11-07, 16:10:02](https://lobste.rs/s/tbchou/four_year_plan_for_async_rust) - [A four year plan for async Rust](https://without.boats/blog/a-four-year-plan/)
-* [2023-11-07, 15:20:50](https://lobste.rs/s/itwqcp/sorry_computer_you_re_not_teapot) - [Sorry Computer, You're Not a Teapot](https://thehistoryoftheweb.com/im-a-teapot/)
 
 ## [Archives](archives/index.md)
 
