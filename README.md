@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-08, 21:42:50](https://lobste.rs/s/vstmis/catapult_sdk_risc_v_development) - [Catapult SDK: RISC-V Development Environment](https://developer.imaginationtech.com/catapult-sdk/)
+* [2023-11-08, 21:40:12](https://lobste.rs/s/5rgmez/systemc) - [SystemC](https://systemc.org/overview/systemc/)
 * [2023-11-08, 20:17:59](https://lobste.rs/s/hh7wuy/why_scipy_builds_for_python_3_12_on_windows) - [Why SciPy builds for Python 3.12 on Windows are a minor miracle](https://labs.quansight.org/blog/building-scipy-with-flang)
 * [2023-11-08, 19:50:05](https://lobste.rs/s/mu1b61/what_process_created_this_x11_window) - [\"What process created this X11 window?\"](https://unix.stackexchange.com/questions/5478/what-process-created-this-x11-window/84981#84981)
 * [2023-11-08, 19:29:58](https://lobste.rs/s/mfgfcx/preventing_problems_caused_by_generated) - [Preventing problems caused by generated files](https://blog.verygoodsoftwarenotvirus.ru/posts/generated-files/)
@@ -17,10 +19,8 @@
 * [2023-11-08, 10:54:09](https://lobste.rs/s/krmdls/don_t_disable_buttons) - [Don't disable buttons](https://gomakethings.com/dont-disable-buttons/)
 * [2023-11-08, 09:51:08](https://lobste.rs/s/5hjzj1/simplex_chat_notifications_with) - [Simplex chat notifications with Syndicated Actors](https://spam.works/users/emery/simplex_notifications.gmi)
 * [2023-11-08, 07:45:26](https://lobste.rs/s/p5sxde/command_not_found_com) - [command-not-found.com](https://command-not-found.com/)
-* [2023-11-08, 05:43:54](https://lobste.rs/s/ddtoey/what_qwac) - [What the QWAC?](https://scotthelme.co.uk/what-the-qwac/)
 * [2023-11-08, 00:07:23](https://lobste.rs/s/3uypmw/reactos_late_2023_news) - [ReactOS Late 2023 news](https://reactos.org/blogs/newsletter-103/)
 * [2023-11-07, 23:54:12](https://lobste.rs/s/jg9pvu/article_45_will_roll_back_web_security_by) - [Article 45 Will Roll Back Web Security by 12 Years](https://www.eff.org/deeplinks/2023/11/article-45-will-roll-back-web-security-12-years)
-* [2023-11-07, 23:50:31](https://lobste.rs/s/c1smbg/go_containers_linux_scheduler) - [Go, Containers, and the Linux Scheduler](https://www.riverphillips.dev/blog/go-cfs/)
 * [2023-11-07, 23:10:01](https://lobste.rs/s/rbyntg/what_if_we_don_t_pop_stack_return_2nd_class) - [What If We Don't Pop the Stack? The Return of 2nd-Class Values](https://www.cs.purdue.edu/homes/rompf/papers/xhebraj-ecoop22.pdf)
 * [2023-11-07, 20:19:10](https://lobste.rs/s/8ktols/better_explanation_liskov_substitution) - [A better explanation of the Liskov Substitution Principle](https://www.hillelwayne.com/post/lsp/)
 * [2023-11-07, 16:10:02](https://lobste.rs/s/tbchou/four_year_plan_for_async_rust) - [A four year plan for async Rust](https://without.boats/blog/a-four-year-plan/)
