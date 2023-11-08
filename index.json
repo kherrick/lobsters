@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-08, 06:20:44",
+      "https://lobste.rs/s/psseoc/sorting_strings_go_fast_slow"
+    ],
+    [
+      "Sorting strings in Go, fast and slow",
+      "https://aead.dev/news/sort-strings/"
+    ]
+  ],
+  [
+    [
+      "2023-11-08, 06:17:23",
+      "https://lobste.rs/s/7up733/curves_l_systems"
+    ],
+    [
+      "Curves and L-systems",
+      "https://apieceofthepi.substack.com/p/curves-and-l-systems"
+    ]
+  ],
+  [
+    [
       "2023-11-08, 05:43:54",
       "https://lobste.rs/s/ddtoey/what_qwac"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2023-11-07, 21:45:10",
-      "https://lobste.rs/s/bnp9ce/enough_polynomials_linear_algebra"
-    ],
-    [
-      "Enough Polynomials and Linear Algebra to Implement Kyber",
-      "https://words.filippo.io/dispatches/kyber-math/"
-    ]
-  ],
-  [
-    [
       "2023-11-07, 20:19:10",
       "https://lobste.rs/s/8ktols/better_explanation_liskov_substitution"
     ],
@@ -177,16 +187,6 @@
     [
       "In the bad old days we had punch cards. How did people deal with that?",
       "https://blog.computationalcomplexity.org/2023/11/in-bad-old-days-we-had-punchcards-how.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-07, 14:13:46",
-      "https://lobste.rs/s/qf2g56/download_fedora_silverblue_39"
-    ],
-    [
-      "Download Fedora Silverblue 39",
-      "https://fedoraproject.org/silverblue/download"
     ]
   ],
   [
