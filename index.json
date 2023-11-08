@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-08, 05:39:33",
+      "https://lobste.rs/s/swphqj/generating_arrays_at_compile_time_c_with"
+    ],
+    [
+      "Generating arrays at compile-time in C++ with lambdas",
+      "https://lemire.me/blog/2023/11/07/generating-arrays-at-compile-time-in-c-with-lambdas/"
+    ]
+  ],
+  [
+    [
       "2023-11-08, 04:48:19",
       "https://lobste.rs/s/tf9lso/how_antimatter_spacecraft_will_work"
     ],
@@ -197,16 +207,6 @@
     [
       "Reducing Raspberry Pi 5's power consumption by 140x",
       "https://www.jeffgeerling.com/blog/2023/reducing-raspberry-pi-5s-power-consumption-140x"
-    ]
-  ],
-  [
-    [
-      "2023-11-07, 11:54:42",
-      "https://lobste.rs/s/lcdveh/announcing_sqlc_gen_go"
-    ],
-    [
-      "Announcing sqlc-gen-go",
-      "https://sqlc.dev/posts/2023/11/06/publishing-sqlc-gen-go/"
     ]
   ],
   [
