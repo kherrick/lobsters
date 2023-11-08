@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-08, 19:11:48",
+      "https://lobste.rs/s/a19f7r/extern_templates_reduce_binary_size"
+    ],
+    [
+      "Extern templates to reduce binary size",
+      "https://www.sandordargo.com/blog/2023/11/08/extern-templates"
+    ]
+  ],
+  [
+    [
       "2023-11-08, 18:53:13",
       "https://lobste.rs/s/wi2evf/automerge_repo_batteries_included"
     ],
@@ -197,16 +207,6 @@
     [
       "Go, Containers, and the Linux Scheduler",
       "https://www.riverphillips.dev/blog/go-cfs/"
-    ]
-  ],
-  [
-    [
-      "2023-11-07, 23:14:38",
-      "https://lobste.rs/s/eodvin/how_database_tricks_sped_up_rust_linting"
-    ],
-    [
-      "How Database Tricks Sped up Rust Linting Over 2000x",
-      "https://www.youtube.com/watch?v=Fqo8r4bInsk"
     ]
   ],
   [
