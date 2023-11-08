@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
+* [2023-11-08, 14:17:40](https://lobste.rs/s/z7rc9e/demystifying_function_parameters_go) - [Demystifying function parameters in Go](https://www.alexedwards.net/blog/demystifying-function-parameters-in-go)
 * [2023-11-08, 13:58:23](https://lobste.rs/s/zbngh3/search_across_half_million_git_repos) - [Search across a half million git repos](https://grep.app)
 * [2023-11-08, 13:42:26](https://lobste.rs/s/ifoyxj/don_t_trust_your_profiler) - [Don't Trust Your Profiler](https://stefan-marr.de/downloads/mplr23-burchell-et-al-dont-trust-your-profiler.pdf)
 * [2023-11-08, 13:38:25](https://lobste.rs/s/jpnas8/review_zsa_voyager_ergonomic_keyboard) - [Review: ZSA Voyager Ergonomic Keyboard](https://danieldk.eu/Posts/2023-11-07-ZSA-Voyager)
