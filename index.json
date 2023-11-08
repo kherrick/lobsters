@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-11-08, 19:31:08",
-      "https://lobste.rs/s/uk3tqj/messing_with_proxmox"
-    ],
-    [
-      "Messing with Proxmox",
-      "https://gabrielsimmer.com/blog/messing-with-proxmox"
-    ]
-  ],
-  [
-    [
       "2023-11-08, 19:29:58",
       "https://lobste.rs/s/mfgfcx/preventing_problems_caused_by_generated"
     ],
@@ -47,6 +37,16 @@
     [
       "Extern templates to reduce binary size",
       "https://www.sandordargo.com/blog/2023/11/08/extern-templates"
+    ]
+  ],
+  [
+    [
+      "2023-11-08, 17:50:51",
+      "https://lobste.rs/s/aajbod/wasmfx_effect_handlers_for_webassembly"
+    ],
+    [
+      "WasmFX: Effect Handlers for WebAssembly",
+      "https://wasmfx.dev/"
     ]
   ],
   [
