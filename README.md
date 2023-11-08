@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-08, 20:17:59](https://lobste.rs/s/hh7wuy/why_scipy_builds_for_python_3_12_on_windows) - [Why SciPy builds for Python 3.12 on Windows are a minor miracle](https://labs.quansight.org/blog/building-scipy-with-flang)
 * [2023-11-08, 19:50:05](https://lobste.rs/s/mu1b61/what_process_created_this_x11_window) - [\"What process created this X11 window?\"](https://unix.stackexchange.com/questions/5478/what-process-created-this-x11-window/84981#84981)
 * [2023-11-08, 19:31:08](https://lobste.rs/s/uk3tqj/messing_with_proxmox) - [Messing with Proxmox](https://gabrielsimmer.com/blog/messing-with-proxmox)
 * [2023-11-08, 19:29:58](https://lobste.rs/s/mfgfcx/preventing_problems_caused_by_generated) - [Preventing problems caused by generated files](https://blog.verygoodsoftwarenotvirus.ru/posts/generated-files/)
 * [2023-11-08, 19:11:48](https://lobste.rs/s/a19f7r/extern_templates_reduce_binary_size) - [Extern templates to reduce binary size](https://www.sandordargo.com/blog/2023/11/08/extern-templates)
-* [2023-11-08, 18:53:13](https://lobste.rs/s/wi2evf/automerge_repo_batteries_included) - [Automerge-Repo: A \"batteries-included\" toolkit for building local-first applications](https://automerge.org/blog/2023/11/06/automerge-repo/)
 * [2023-11-08, 17:35:17](https://lobste.rs/s/c6ymgj/what_we_learned_from_installing_nix_one) - [What we learned from installing Nix one million times](https://determinate.systems/posts/lessons-from-1-million-nix-installs)
 * [2023-11-08, 16:19:21](https://lobste.rs/s/mxwit7/link_time_optimisation_lto) - [Link-time optimisation (LTO)](https://convolv.es/guides/lto/)
 * [2023-11-08, 14:24:37](https://lobste.rs/s/fyvn6j/scheme_wasm_tail_call_situation) - [Scheme WASM Tail Call Situation](https://gist.github.com/rain-1/20329ae349a866b29aa1a37eb8a4a88c)
