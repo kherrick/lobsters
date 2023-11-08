@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-11-08, 21:40:12",
-      "https://lobste.rs/s/5rgmez/systemc"
-    ],
-    [
-      "SystemC",
-      "https://systemc.org/overview/systemc/"
-    ]
-  ],
-  [
-    [
       "2023-11-08, 20:17:59",
       "https://lobste.rs/s/hh7wuy/why_scipy_builds_for_python_3_12_on_windows"
     ],
@@ -67,6 +57,16 @@
     [
       "Extern templates to reduce binary size",
       "https://www.sandordargo.com/blog/2023/11/08/extern-templates"
+    ]
+  ],
+  [
+    [
+      "2023-11-08, 18:53:13",
+      "https://lobste.rs/s/wi2evf/automerge_repo_batteries_included"
+    ],
+    [
+      "Automerge-Repo: A \"batteries-included\" toolkit for building local-first applications",
+      "https://automerge.org/blog/2023/11/06/automerge-repo/"
     ]
   ],
   [
