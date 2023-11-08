@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-08, 17:50:51](https://lobste.rs/s/aajbod/wasmfx_effect_handlers_for_webassembly) - [WasmFX: Effect Handlers for WebAssembly](https://wasmfx.dev/)
 * [2023-11-08, 17:35:17](https://lobste.rs/s/c6ymgj/what_we_learned_from_installing_nix_one) - [What we learned from installing Nix one million times](https://determinate.systems/posts/lessons-from-1-million-nix-installs)
 * [2023-11-08, 17:14:03](https://lobste.rs/s/x8eyr6/what_is_origin_default_256_color_vga) - [What is the origin of the default 256-color VGA palette?](https://retrocomputing.stackexchange.com/questions/27994/what-is-the-origin-of-the-default-256-color-vga-palette)
 * [2023-11-08, 16:19:21](https://lobste.rs/s/mxwit7/link_time_optimisation_lto) - [Link-time optimisation (LTO)](https://convolv.es/guides/lto/)
@@ -24,7 +25,6 @@
 * [2023-11-07, 20:19:10](https://lobste.rs/s/8ktols/better_explanation_liskov_substitution) - [A better explanation of the Liskov Substitution Principle](https://www.hillelwayne.com/post/lsp/)
 * [2023-11-07, 16:10:02](https://lobste.rs/s/tbchou/four_year_plan_for_async_rust) - [A four year plan for async Rust](https://without.boats/blog/a-four-year-plan/)
 * [2023-11-07, 15:20:50](https://lobste.rs/s/itwqcp/sorry_computer_you_re_not_teapot) - [Sorry Computer, You're Not a Teapot](https://thehistoryoftheweb.com/im-a-teapot/)
-* [2023-11-07, 12:37:47](https://lobste.rs/s/otgffj/reducing_raspberry_pi_5_s_standby_power) - [Reducing Raspberry Pi 5's standby power consumption by 140x](https://www.jeffgeerling.com/blog/2023/reducing-raspberry-pi-5s-power-consumption-140x)
 
 ## [Archives](archives/index.md)
 
