@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
+* [2023-11-08, 12:40:34](https://lobste.rs/s/12t1by/find_replace_code_at_ast_level_with) - [Find and Replace Code at AST-level with Semgrep](https://www.1a-insec.net/blog/21-semgrep-search-ast/)
 * [2023-11-08, 10:59:16](https://lobste.rs/s/docl56/surprising_facts_about_new_css_selectors) - [Surprising Facts About New CSS Selectors](https://cloudfour.com/thinks/surprising-facts-about-new-css-selectors/)
 * [2023-11-08, 10:54:09](https://lobste.rs/s/krmdls/don_t_disable_buttons) - [Don't disable buttons](https://gomakethings.com/dont-disable-buttons/)
 * [2023-11-08, 09:51:08](https://lobste.rs/s/5hjzj1/simplex_chat_notifications_with) - [Simplex chat notifications with Syndicated Actors](https://spam.works/users/emery/simplex_notifications.gmi)
