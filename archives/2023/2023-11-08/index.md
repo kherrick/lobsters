@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-08](index.md)
 
+* [2023-11-08, 19:31:08](https://lobste.rs/s/uk3tqj/messing_with_proxmox) - [Messing with Proxmox](https://gabrielsimmer.com/blog/messing-with-proxmox)
+* [2023-11-08, 19:29:58](https://lobste.rs/s/mfgfcx/preventing_problems_caused_by_generated) - [Preventing problems caused by generated files](https://blog.verygoodsoftwarenotvirus.ru/posts/generated-files/)
 * [2023-11-08, 19:11:48](https://lobste.rs/s/a19f7r/extern_templates_reduce_binary_size) - [Extern templates to reduce binary size](https://www.sandordargo.com/blog/2023/11/08/extern-templates)
 * [2023-11-08, 18:53:13](https://lobste.rs/s/wi2evf/automerge_repo_batteries_included) - [Automerge-Repo: A \"batteries-included\" toolkit for building local-first applications](https://automerge.org/blog/2023/11/06/automerge-repo/)
 * [2023-11-08, 17:50:51](https://lobste.rs/s/aajbod/wasmfx_effect_handlers_for_webassembly) - [WasmFX: Effect Handlers for WebAssembly](https://wasmfx.dev/)
