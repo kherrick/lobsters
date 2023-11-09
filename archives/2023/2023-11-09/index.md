@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
+* [2023-11-09, 02:20:24](https://lobste.rs/s/izmkkh/what_s_new_fedora_workstation_39) - [What's new in Fedora Workstation 39](https://fedoramagazine.org/whats-new-fedora-workstation-39/)
 * [2023-11-09, 01:19:36](https://lobste.rs/s/5hbwxr/library_statistical_techniques) - [Library of Statistical Techniques](https://lost-stats.github.io/)

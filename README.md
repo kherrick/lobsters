@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-11-09, 01:19:36](https://lobste.rs/s/5hbwxr/library_statistical_techniques) - [Library of Statistical Techniques](https://lost-stats.github.io/)
+* [2023-11-09, 02:20:24](https://lobste.rs/s/izmkkh/what_s_new_fedora_workstation_39) - [What's new in Fedora Workstation 39](https://fedoramagazine.org/whats-new-fedora-workstation-39/)
 * [2023-11-08, 22:06:48](https://lobste.rs/s/mwhqdd/what_s_with_ml_software_pickles) - [What's with ML software and pickles?](https://blog.nelhage.com/post/pickles-and-ml/?ref=buttondown)
 * [2023-11-08, 21:40:12](https://lobste.rs/s/5rgmez/systemc) - [SystemC](https://systemc.org/overview/systemc/)
 * [2023-11-08, 20:17:59](https://lobste.rs/s/hh7wuy/why_scipy_builds_for_python_3_12_on_windows) - [Why SciPy builds for Python 3.12 on Windows are a minor miracle](https://labs.quansight.org/blog/building-scipy-with-flang)
