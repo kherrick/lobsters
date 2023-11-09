@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-09, 16:44:33",
+      "https://lobste.rs/s/gp9scd/faster_compilation_with_parallel_front"
+    ],
+    [
+      "Faster compilation with the parallel front-end in nightly",
+      "https://blog.rust-lang.org/2023/11/09/parallel-rustc.html"
+    ]
+  ],
+  [
+    [
       "2023-11-09, 16:12:56",
       "https://lobste.rs/s/jenx7n/speed_up_program_for_50_years_old"
     ],
@@ -237,16 +247,6 @@
     [
       "Don't disable buttons",
       "https://gomakethings.com/dont-disable-buttons/"
-    ]
-  ],
-  [
-    [
-      "2023-11-07, 23:54:12",
-      "https://lobste.rs/s/jg9pvu/article_45_will_roll_back_web_security_by"
-    ],
-    [
-      "Article 45 Will Roll Back Web Security by 12 Years",
-      "https://www.eff.org/deeplinks/2023/11/article-45-will-roll-back-web-security-12-years"
     ]
   ]
 ]
