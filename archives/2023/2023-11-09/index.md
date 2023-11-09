@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
+* [2023-11-09, 19:28:08](https://lobste.rs/s/higefg/going_up_color_bit_depth) - [Going up in color bit depth](https://30fps.net/pages/bit-depths/)
 * [2023-11-09, 18:07:26](https://lobste.rs/s/7qvcur/qt_for_mcus_2_6_released) - [Qt for MCUs 2.6 released](https://www.qt.io/blog/qt-for-mcus-2.6-released)
 * [2023-11-09, 16:58:26](https://lobste.rs/s/b0ry5p/reverse_engineering_intel_386_processor) - [Reverse engineering the Intel 386 processor's register cell](http://www.righto.com/2023/11/reverse-engineering-intel-386.html)
 * [2023-11-09, 16:44:33](https://lobste.rs/s/gp9scd/faster_compilation_with_parallel_front) - [Faster compilation with the parallel front-end in nightly](https://blog.rust-lang.org/2023/11/09/parallel-rustc.html)
