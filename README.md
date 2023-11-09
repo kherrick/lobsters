@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-09, 08:00:54](https://lobste.rs/s/9okhpr/variadic_generics_again) - [Variadic generics, again](https://poignardazur.github.io/2023/11/08/time-for-variadic-generics/)
 * [2023-11-09, 06:53:18](https://lobste.rs/s/tvm2ev/tracking_current_active_process_windows) - [Tracking the current active process in Windows with Rust](https://hellocode.co/blog/post/tracking-active-process-windows-rust/)
 * [2023-11-09, 03:59:08](https://lobste.rs/s/udzimz/early_computer_art_by_barbara_nessim) - [Early computer art by Barbara Nessim](https://blog.gingerbeardman.com/2023/11/09/early-computer-art-by-barbara-nessim/)
 * [2023-11-09, 02:29:16](https://lobste.rs/s/icirwz/interesting_bugs_caught_by_eslint_s_no) - [Interesting Bugs Caught by ESLint’s no-constant-binary-expression](https://jordaneldredge.com/blog/interesting-bugs-caught-by-eslints-no-constant-binary-expression/)
 * [2023-11-09, 02:20:24](https://lobste.rs/s/izmkkh/what_s_new_fedora_workstation_39) - [What's new in Fedora Workstation 39](https://fedoramagazine.org/whats-new-fedora-workstation-39/)
 * [2023-11-08, 22:06:48](https://lobste.rs/s/mwhqdd/what_s_with_ml_software_pickles) - [What's with ML software and pickles?](https://blog.nelhage.com/post/pickles-and-ml/?ref=buttondown)
-* [2023-11-08, 21:40:12](https://lobste.rs/s/5rgmez/systemc) - [SystemC](https://systemc.org/overview/systemc/)
 * [2023-11-08, 20:17:59](https://lobste.rs/s/hh7wuy/why_scipy_builds_for_python_3_12_on_windows) - [Why SciPy builds for Python 3.12 on Windows are a minor miracle](https://labs.quansight.org/blog/building-scipy-with-flang)
 * [2023-11-08, 19:50:05](https://lobste.rs/s/mu1b61/what_process_created_this_x11_window) - [\"What process created this X11 window?\"](https://unix.stackexchange.com/questions/5478/what-process-created-this-x11-window/84981#84981)
 * [2023-11-08, 19:29:58](https://lobste.rs/s/mfgfcx/preventing_problems_caused_by_generated) - [Preventing problems caused by generated files](https://blog.verygoodsoftwarenotvirus.ru/posts/generated-files/)
