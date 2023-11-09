@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
+* [2023-11-09, 12:35:23](https://lobste.rs/s/roqgoz/zfs_raidz_expansion_merged) - [ZFS: Raidz expansion merged](https://github.com/openzfs/zfs/pull/15022)
 * [2023-11-09, 11:23:40](https://lobste.rs/s/yzvany/django_maybe_disable_postgresql_s_jit) - [Django: Maybe disable PostgreSQL’s JIT to speed up many-joined queries](https://adamj.eu/tech/2023/11/09/django-disable-postgresql-jit/)
 * [2023-11-09, 09:14:56](https://lobste.rs/s/tiuh38/rocksdb_java_api_performance) - [RocksDB Java API Performance Improvements](https://rocksdb.org/blog/2023/11/06/java-jni-benchmarks.html)
 * [2023-11-09, 08:00:54](https://lobste.rs/s/9okhpr/variadic_generics_again) - [Variadic generics, again](https://poignardazur.github.io/2023/11/08/time-for-variadic-generics/)

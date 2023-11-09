@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-09, 12:35:23](https://lobste.rs/s/roqgoz/zfs_raidz_expansion_merged) - [ZFS: Raidz expansion merged](https://github.com/openzfs/zfs/pull/15022)
 * [2023-11-09, 11:23:40](https://lobste.rs/s/yzvany/django_maybe_disable_postgresql_s_jit) - [Django: Maybe disable PostgreSQL’s JIT to speed up many-joined queries](https://adamj.eu/tech/2023/11/09/django-disable-postgresql-jit/)
 * [2023-11-09, 09:14:56](https://lobste.rs/s/tiuh38/rocksdb_java_api_performance) - [RocksDB Java API Performance Improvements](https://rocksdb.org/blog/2023/11/06/java-jni-benchmarks.html)
 * [2023-11-09, 08:00:54](https://lobste.rs/s/9okhpr/variadic_generics_again) - [Variadic generics, again](https://poignardazur.github.io/2023/11/08/time-for-variadic-generics/)
@@ -22,7 +23,6 @@
 * [2023-11-08, 12:53:42](https://lobste.rs/s/cksldq/hare_aims_become_100_year_programming) - [Hare aims to become a 100-year programming language](https://harelang.org/blog/2023-11-08-100-year-language/)
 * [2023-11-08, 12:40:34](https://lobste.rs/s/12t1by/find_replace_code_at_ast_level_with) - [Find and Replace Code at AST-level with Semgrep](https://www.1a-insec.net/blog/21-semgrep-search-ast/)
 * [2023-11-08, 10:54:09](https://lobste.rs/s/krmdls/don_t_disable_buttons) - [Don't disable buttons](https://gomakethings.com/dont-disable-buttons/)
-* [2023-11-08, 07:45:26](https://lobste.rs/s/p5sxde/command_not_found_com) - [command-not-found.com](https://command-not-found.com/)
 * [2023-11-07, 23:54:12](https://lobste.rs/s/jg9pvu/article_45_will_roll_back_web_security_by) - [Article 45 Will Roll Back Web Security by 12 Years](https://www.eff.org/deeplinks/2023/11/article-45-will-roll-back-web-security-12-years)
 * [2023-11-07, 20:19:10](https://lobste.rs/s/8ktols/better_explanation_liskov_substitution) - [A better explanation of the Liskov Substitution Principle](https://www.hillelwayne.com/post/lsp/)
 
