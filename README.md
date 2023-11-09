@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-09, 21:15:34](https://lobste.rs/s/wxmavm/python_errors_as_values_comparing_useful) - [Python errors as values: Comparing useful patterns from Go and Rust](https://www.inngest.com/blog/python-errors-as-values)
 * [2023-11-09, 20:55:29](https://lobste.rs/s/2pbzs5/delphi_c_builder_12_athens_released) - [Delphi and C++ Builder 12 Athens released](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-12-athens/)
 * [2023-11-09, 20:30:28](https://lobste.rs/s/dosvgw/from_capabilities_regions_enabling) - [From Capabilities to Regions: Enabling Efficient Compilation of Lexical Effect Handlers](https://dl.acm.org/doi/10.1145/3622831)
 * [2023-11-09, 19:28:08](https://lobste.rs/s/higefg/going_up_color_bit_depth) - [Going up in color bit depth](https://30fps.net/pages/bit-depths/)
@@ -16,7 +17,6 @@
 * [2023-11-09, 02:29:16](https://lobste.rs/s/icirwz/interesting_bugs_caught_by_eslint_s_no) - [Interesting Bugs Caught by ESLint’s no-constant-binary-expression](https://jordaneldredge.com/blog/interesting-bugs-caught-by-eslints-no-constant-binary-expression/)
 * [2023-11-09, 02:20:24](https://lobste.rs/s/izmkkh/what_s_new_fedora_workstation_39) - [What's new in Fedora Workstation 39](https://fedoramagazine.org/whats-new-fedora-workstation-39/)
 * [2023-11-08, 20:17:59](https://lobste.rs/s/hh7wuy/why_scipy_builds_for_python_3_12_on_windows) - [Why SciPy builds for Python 3.12 on Windows are a minor miracle](https://labs.quansight.org/blog/building-scipy-with-flang)
-* [2023-11-08, 19:50:05](https://lobste.rs/s/mu1b61/what_process_created_this_x11_window) - [\"What process created this X11 window?\"](https://unix.stackexchange.com/questions/5478/what-process-created-this-x11-window/84981#84981)
 * [2023-11-08, 19:29:58](https://lobste.rs/s/mfgfcx/preventing_problems_caused_by_generated) - [Preventing problems caused by generated files](https://blog.verygoodsoftwarenotvirus.ru/posts/generated-files/)
 * [2023-11-08, 17:35:17](https://lobste.rs/s/c6ymgj/what_we_learned_from_installing_nix_one) - [What we learned from installing Nix one million times](https://determinate.systems/posts/lessons-from-1-million-nix-installs)
 * [2023-11-08, 17:14:03](https://lobste.rs/s/x8eyr6/what_is_origin_default_256_color_vga) - [What is the origin of the default 256-color VGA palette?](https://retrocomputing.stackexchange.com/questions/27994/what-is-the-origin-of-the-default-256-color-vga-palette)
