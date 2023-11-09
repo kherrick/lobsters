@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-11-08, 21:40:12",
+      "https://lobste.rs/s/5rgmez/systemc"
+    ],
+    [
+      "SystemC",
+      "https://systemc.org/overview/systemc/"
+    ]
+  ],
+  [
+    [
       "2023-11-08, 20:17:59",
       "https://lobste.rs/s/hh7wuy/why_scipy_builds_for_python_3_12_on_windows"
     ],
@@ -97,16 +107,6 @@
     [
       "Link-time optimisation (LTO)",
       "https://convolv.es/guides/lto/"
-    ]
-  ],
-  [
-    [
-      "2023-11-08, 15:19:01",
-      "https://lobste.rs/s/yctw7m/calculating_smooth_clock_hands"
-    ],
-    [
-      "Calculating a Smooth Clock Hands Animation",
-      "http://david-smith.org/blog/2023/11/06/design-notes-46/"
     ]
   ],
   [
