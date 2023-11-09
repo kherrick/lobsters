@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2023-11-08, 22:06:48",
+      "https://lobste.rs/s/mwhqdd/what_s_with_ml_software_pickles"
+    ],
+    [
+      "What's with ML software and pickles?",
+      "https://blog.nelhage.com/post/pickles-and-ml/?ref=buttondown"
+    ]
+  ],
+  [
+    [
       "2023-11-08, 20:17:59",
       "https://lobste.rs/s/hh7wuy/why_scipy_builds_for_python_3_12_on_windows"
     ],
@@ -157,16 +167,6 @@
     [
       "Preventing problems caused by generated files",
       "https://blog.verygoodsoftwarenotvirus.ru/posts/generated-files/"
-    ]
-  ],
-  [
-    [
-      "2023-11-08, 17:50:51",
-      "https://lobste.rs/s/aajbod/wasmfx_effect_handlers_for_webassembly"
-    ],
-    [
-      "WasmFX: Effect Handlers for WebAssembly",
-      "https://wasmfx.dev/"
     ]
   ],
   [
