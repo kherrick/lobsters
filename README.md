@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-09, 21:46:46](https://lobste.rs/s/s4mdxb/github_next_realtime_github) - [GitHub Next | Realtime GitHub](https://githubnext.com/projects/rtgh/)
 * [2023-11-09, 21:44:04](https://lobste.rs/s/xyeqmu/monaspace) - [Monaspace](https://monaspace.githubnext.com/)
 * [2023-11-09, 21:15:34](https://lobste.rs/s/wxmavm/python_errors_as_values_comparing_useful) - [Python errors as values: Comparing useful patterns from Go and Rust](https://www.inngest.com/blog/python-errors-as-values)
 * [2023-11-09, 20:55:29](https://lobste.rs/s/2pbzs5/delphi_c_builder_12_athens_released) - [Delphi and C++ Builder 12 Athens released](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-12-athens/)
 * [2023-11-09, 20:30:28](https://lobste.rs/s/dosvgw/from_capabilities_regions_enabling) - [From Capabilities to Regions: Enabling Efficient Compilation of Lexical Effect Handlers](https://dl.acm.org/doi/10.1145/3622831)
 * [2023-11-09, 19:28:08](https://lobste.rs/s/higefg/going_up_color_bit_depth) - [Going up in color bit depth](https://30fps.net/pages/bit-depths/)
-* [2023-11-09, 18:07:26](https://lobste.rs/s/7qvcur/qt_for_mcus_2_6_released) - [Qt for MCUs 2.6 released](https://www.qt.io/blog/qt-for-mcus-2.6-released)
 * [2023-11-09, 16:58:26](https://lobste.rs/s/b0ry5p/reverse_engineering_intel_386_processor) - [Reverse engineering the Intel 386 processor's register cell](http://www.righto.com/2023/11/reverse-engineering-intel-386.html)
 * [2023-11-09, 16:44:33](https://lobste.rs/s/gp9scd/faster_compilation_with_parallel_front) - [Faster compilation with the parallel front-end in nightly](https://blog.rust-lang.org/2023/11/09/parallel-rustc.html)
 * [2023-11-09, 16:12:56](https://lobste.rs/s/jenx7n/speed_up_program_for_50_years_old) - [Speed up a program for the 50 years old processor by 180000%](https://mark.engineer/2023/11/speed-up-a-program-for-50-years-old-processor-by-180000/)
