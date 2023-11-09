@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
+* [2023-11-09, 20:55:29](https://lobste.rs/s/2pbzs5/delphi_c_builder_12_athens_released) - [Delphi and C++ Builder 12 Athens released](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-12-athens/)
 * [2023-11-09, 20:30:28](https://lobste.rs/s/dosvgw/from_capabilities_regions_enabling) - [From Capabilities to Regions: Enabling Efficient Compilation of Lexical Effect Handlers](https://dl.acm.org/doi/10.1145/3622831)
 * [2023-11-09, 19:28:08](https://lobste.rs/s/higefg/going_up_color_bit_depth) - [Going up in color bit depth](https://30fps.net/pages/bit-depths/)
 * [2023-11-09, 18:07:26](https://lobste.rs/s/7qvcur/qt_for_mcus_2_6_released) - [Qt for MCUs 2.6 released](https://www.qt.io/blog/qt-for-mcus-2.6-released)
