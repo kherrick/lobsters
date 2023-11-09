@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-09, 18:07:26](https://lobste.rs/s/7qvcur/qt_for_mcus_2_6_released) - [Qt for MCUs 2.6 released](https://www.qt.io/blog/qt-for-mcus-2.6-released)
 * [2023-11-09, 16:58:26](https://lobste.rs/s/b0ry5p/reverse_engineering_intel_386_processor) - [Reverse engineering the Intel 386 processor's register cell](http://www.righto.com/2023/11/reverse-engineering-intel-386.html)
 * [2023-11-09, 16:44:33](https://lobste.rs/s/gp9scd/faster_compilation_with_parallel_front) - [Faster compilation with the parallel front-end in nightly](https://blog.rust-lang.org/2023/11/09/parallel-rustc.html)
 * [2023-11-09, 16:12:56](https://lobste.rs/s/jenx7n/speed_up_program_for_50_years_old) - [Speed up a program for the 50 years old processor by 180000%](https://mark.engineer/2023/11/speed-up-a-program-for-50-years-old-processor-by-180000/)
@@ -20,7 +21,6 @@
 * [2023-11-08, 17:14:03](https://lobste.rs/s/x8eyr6/what_is_origin_default_256_color_vga) - [What is the origin of the default 256-color VGA palette?](https://retrocomputing.stackexchange.com/questions/27994/what-is-the-origin-of-the-default-256-color-vga-palette)
 * [2023-11-08, 16:19:21](https://lobste.rs/s/mxwit7/link_time_optimisation_lto) - [Link-time optimisation (LTO)](https://convolv.es/guides/lto/)
 * [2023-11-08, 14:24:37](https://lobste.rs/s/fyvn6j/scheme_wasm_tail_call_situation) - [Scheme WASM Tail Call Situation](https://gist.github.com/rain-1/20329ae349a866b29aa1a37eb8a4a88c)
-* [2023-11-08, 13:58:23](https://lobste.rs/s/zbngh3/search_across_half_million_git_repos) - [Search across a half million git repos](https://grep.app)
 * [2023-11-08, 13:38:25](https://lobste.rs/s/jpnas8/review_zsa_voyager_ergonomic_keyboard) - [Review: ZSA Voyager Ergonomic Keyboard](https://danieldk.eu/Posts/2023-11-07-ZSA-Voyager)
 * [2023-11-08, 12:53:42](https://lobste.rs/s/cksldq/hare_aims_become_100_year_programming) - [Hare aims to become a 100-year programming language](https://harelang.org/blog/2023-11-08-100-year-language/)
 * [2023-11-08, 12:40:34](https://lobste.rs/s/12t1by/find_replace_code_at_ast_level_with) - [Find and Replace Code at AST-level with Semgrep](https://www.1a-insec.net/blog/21-semgrep-search-ast/)
