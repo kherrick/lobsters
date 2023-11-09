@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-09, 16:58:26](https://lobste.rs/s/b0ry5p/reverse_engineering_intel_386_processor) - [Reverse engineering the Intel 386 processor's register cell](http://www.righto.com/2023/11/reverse-engineering-intel-386.html)
 * [2023-11-09, 16:44:33](https://lobste.rs/s/gp9scd/faster_compilation_with_parallel_front) - [Faster compilation with the parallel front-end in nightly](https://blog.rust-lang.org/2023/11/09/parallel-rustc.html)
 * [2023-11-09, 16:12:56](https://lobste.rs/s/jenx7n/speed_up_program_for_50_years_old) - [Speed up a program for the 50 years old processor by 180000%](https://mark.engineer/2023/11/speed-up-a-program-for-50-years-old-processor-by-180000/)
 * [2023-11-09, 12:35:23](https://lobste.rs/s/roqgoz/zfs_raidz_expansion_merged) - [ZFS: Raidz expansion merged](https://github.com/openzfs/zfs/pull/15022)
@@ -14,7 +15,6 @@
 * [2023-11-08, 20:17:59](https://lobste.rs/s/hh7wuy/why_scipy_builds_for_python_3_12_on_windows) - [Why SciPy builds for Python 3.12 on Windows are a minor miracle](https://labs.quansight.org/blog/building-scipy-with-flang)
 * [2023-11-08, 19:50:05](https://lobste.rs/s/mu1b61/what_process_created_this_x11_window) - [\"What process created this X11 window?\"](https://unix.stackexchange.com/questions/5478/what-process-created-this-x11-window/84981#84981)
 * [2023-11-08, 19:29:58](https://lobste.rs/s/mfgfcx/preventing_problems_caused_by_generated) - [Preventing problems caused by generated files](https://blog.verygoodsoftwarenotvirus.ru/posts/generated-files/)
-* [2023-11-08, 18:53:13](https://lobste.rs/s/wi2evf/automerge_repo_batteries_included) - [Automerge-Repo: A \"batteries-included\" toolkit for building local-first applications](https://automerge.org/blog/2023/11/06/automerge-repo/)
 * [2023-11-08, 17:50:51](https://lobste.rs/s/aajbod/wasmfx_effect_handlers_for_webassembly) - [WasmFX: Effect Handlers for WebAssembly](https://wasmfx.dev/)
 * [2023-11-08, 17:35:17](https://lobste.rs/s/c6ymgj/what_we_learned_from_installing_nix_one) - [What we learned from installing Nix one million times](https://determinate.systems/posts/lessons-from-1-million-nix-installs)
 * [2023-11-08, 17:14:03](https://lobste.rs/s/x8eyr6/what_is_origin_default_256_color_vga) - [What is the origin of the default 256-color VGA palette?](https://retrocomputing.stackexchange.com/questions/27994/what-is-the-origin-of-the-default-256-color-vga-palette)
