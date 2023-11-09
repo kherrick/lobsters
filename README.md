@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-09, 20:30:28](https://lobste.rs/s/dosvgw/from_capabilities_regions_enabling) - [From Capabilities to Regions: Enabling Efficient Compilation of Lexical Effect Handlers](https://dl.acm.org/doi/10.1145/3622831)
 * [2023-11-09, 19:28:08](https://lobste.rs/s/higefg/going_up_color_bit_depth) - [Going up in color bit depth](https://30fps.net/pages/bit-depths/)
 * [2023-11-09, 18:07:26](https://lobste.rs/s/7qvcur/qt_for_mcus_2_6_released) - [Qt for MCUs 2.6 released](https://www.qt.io/blog/qt-for-mcus-2.6-released)
 * [2023-11-09, 16:58:26](https://lobste.rs/s/b0ry5p/reverse_engineering_intel_386_processor) - [Reverse engineering the Intel 386 processor's register cell](http://www.righto.com/2023/11/reverse-engineering-intel-386.html)
@@ -23,7 +24,6 @@
 * [2023-11-08, 14:24:37](https://lobste.rs/s/fyvn6j/scheme_wasm_tail_call_situation) - [Scheme WASM Tail Call Situation](https://gist.github.com/rain-1/20329ae349a866b29aa1a37eb8a4a88c)
 * [2023-11-08, 13:38:25](https://lobste.rs/s/jpnas8/review_zsa_voyager_ergonomic_keyboard) - [Review: ZSA Voyager Ergonomic Keyboard](https://danieldk.eu/Posts/2023-11-07-ZSA-Voyager)
 * [2023-11-08, 12:53:42](https://lobste.rs/s/cksldq/hare_aims_become_100_year_programming) - [Hare aims to become a 100-year programming language](https://harelang.org/blog/2023-11-08-100-year-language/)
-* [2023-11-08, 12:40:34](https://lobste.rs/s/12t1by/find_replace_code_at_ast_level_with) - [Find and Replace Code at AST-level with Semgrep](https://www.1a-insec.net/blog/21-semgrep-search-ast/)
 * [2023-11-08, 10:54:09](https://lobste.rs/s/krmdls/don_t_disable_buttons) - [Don't disable buttons](https://gomakethings.com/dont-disable-buttons/)
 
 ## [Archives](archives/index.md)
