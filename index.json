@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-09, 12:35:23",
+      "https://lobste.rs/s/roqgoz/zfs_raidz_expansion_merged"
+    ],
+    [
+      "ZFS: Raidz expansion merged",
+      "https://github.com/openzfs/zfs/pull/15022"
+    ]
+  ],
+  [
+    [
       "2023-11-09, 11:23:40",
       "https://lobste.rs/s/yzvany/django_maybe_disable_postgresql_s_jit"
     ],
@@ -217,16 +227,6 @@
     [
       "Don't disable buttons",
       "https://gomakethings.com/dont-disable-buttons/"
-    ]
-  ],
-  [
-    [
-      "2023-11-08, 07:45:26",
-      "https://lobste.rs/s/p5sxde/command_not_found_com"
-    ],
-    [
-      "command-not-found.com",
-      "https://command-not-found.com/"
     ]
   ],
   [
