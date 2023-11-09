@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2023-11-08, 19:11:48",
+      "https://lobste.rs/s/a19f7r/extern_templates_reduce_binary_size"
+    ],
+    [
+      "Extern templates to reduce binary size",
+      "https://www.sandordargo.com/blog/2023/11/08/extern-templates"
+    ]
+  ],
+  [
+    [
       "2023-11-08, 18:53:13",
       "https://lobste.rs/s/wi2evf/automerge_repo_batteries_included"
     ],
@@ -187,16 +197,6 @@
     [
       "Find and Replace Code at AST-level with Semgrep",
       "https://www.1a-insec.net/blog/21-semgrep-search-ast/"
-    ]
-  ],
-  [
-    [
-      "2023-11-08, 10:59:16",
-      "https://lobste.rs/s/docl56/surprising_facts_about_new_css_selectors"
-    ],
-    [
-      "Surprising Facts About New CSS Selectors",
-      "https://cloudfour.com/thinks/surprising-facts-about-new-css-selectors/"
     ]
   ],
   [
