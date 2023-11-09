@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
+* [2023-11-09, 09:14:56](https://lobste.rs/s/tiuh38/rocksdb_java_api_performance) - [RocksDB Java API Performance Improvements](https://rocksdb.org/blog/2023/11/06/java-jni-benchmarks.html)
 * [2023-11-09, 08:00:54](https://lobste.rs/s/9okhpr/variadic_generics_again) - [Variadic generics, again](https://poignardazur.github.io/2023/11/08/time-for-variadic-generics/)
 * [2023-11-09, 06:53:18](https://lobste.rs/s/tvm2ev/tracking_current_active_process_windows) - [Tracking the current active process in Windows with Rust](https://hellocode.co/blog/post/tracking-active-process-windows-rust/)
 * [2023-11-09, 03:59:08](https://lobste.rs/s/udzimz/early_computer_art_by_barbara_nessim) - [Early computer art by Barbara Nessim](https://blog.gingerbeardman.com/2023/11/09/early-computer-art-by-barbara-nessim/)

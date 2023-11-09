@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-09, 09:14:56](https://lobste.rs/s/tiuh38/rocksdb_java_api_performance) - [RocksDB Java API Performance Improvements](https://rocksdb.org/blog/2023/11/06/java-jni-benchmarks.html)
 * [2023-11-09, 08:00:54](https://lobste.rs/s/9okhpr/variadic_generics_again) - [Variadic generics, again](https://poignardazur.github.io/2023/11/08/time-for-variadic-generics/)
 * [2023-11-09, 06:53:18](https://lobste.rs/s/tvm2ev/tracking_current_active_process_windows) - [Tracking the current active process in Windows with Rust](https://hellocode.co/blog/post/tracking-active-process-windows-rust/)
 * [2023-11-09, 03:59:08](https://lobste.rs/s/udzimz/early_computer_art_by_barbara_nessim) - [Early computer art by Barbara Nessim](https://blog.gingerbeardman.com/2023/11/09/early-computer-art-by-barbara-nessim/)
@@ -16,7 +17,6 @@
 * [2023-11-08, 17:14:03](https://lobste.rs/s/x8eyr6/what_is_origin_default_256_color_vga) - [What is the origin of the default 256-color VGA palette?](https://retrocomputing.stackexchange.com/questions/27994/what-is-the-origin-of-the-default-256-color-vga-palette)
 * [2023-11-08, 16:19:21](https://lobste.rs/s/mxwit7/link_time_optimisation_lto) - [Link-time optimisation (LTO)](https://convolv.es/guides/lto/)
 * [2023-11-08, 14:24:37](https://lobste.rs/s/fyvn6j/scheme_wasm_tail_call_situation) - [Scheme WASM Tail Call Situation](https://gist.github.com/rain-1/20329ae349a866b29aa1a37eb8a4a88c)
-* [2023-11-08, 14:17:40](https://lobste.rs/s/z7rc9e/demystifying_function_parameters_go) - [Demystifying function parameters in Go](https://www.alexedwards.net/blog/demystifying-function-parameters-in-go)
 * [2023-11-08, 13:58:23](https://lobste.rs/s/zbngh3/search_across_half_million_git_repos) - [Search across a half million git repos](https://grep.app)
 * [2023-11-08, 13:38:25](https://lobste.rs/s/jpnas8/review_zsa_voyager_ergonomic_keyboard) - [Review: ZSA Voyager Ergonomic Keyboard](https://danieldk.eu/Posts/2023-11-07-ZSA-Voyager)
 * [2023-11-08, 12:53:42](https://lobste.rs/s/cksldq/hare_aims_become_100_year_programming) - [Hare aims to become a 100-year programming language](https://harelang.org/blog/2023-11-08-100-year-language/)
