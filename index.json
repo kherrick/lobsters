@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-09, 11:23:40",
+      "https://lobste.rs/s/yzvany/django_maybe_disable_postgresql_s_jit"
+    ],
+    [
+      "Django: Maybe disable PostgreSQL’s JIT to speed up many-joined queries",
+      "https://adamj.eu/tech/2023/11/09/django-disable-postgresql-jit/"
+    ]
+  ],
+  [
+    [
       "2023-11-09, 09:14:56",
       "https://lobste.rs/s/tiuh38/rocksdb_java_api_performance"
     ],
@@ -97,16 +107,6 @@
     [
       "Preventing problems caused by generated files",
       "https://blog.verygoodsoftwarenotvirus.ru/posts/generated-files/"
-    ]
-  ],
-  [
-    [
-      "2023-11-08, 19:11:48",
-      "https://lobste.rs/s/a19f7r/extern_templates_reduce_binary_size"
-    ],
-    [
-      "Extern templates to reduce binary size",
-      "https://www.sandordargo.com/blog/2023/11/08/extern-templates"
     ]
   ],
   [
