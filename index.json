@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-10, 08:36:08",
+      "https://lobste.rs/s/qh8qof/on_actionable_actually_useful_logs"
+    ],
+    [
+      "On actionable and actually useful logs",
+      "https://lanre.wtf/blog/2023/01/12/on-actionable-and-actually-useful-logs"
+    ]
+  ],
+  [
+    [
       "2023-11-10, 07:09:14",
       "https://lobste.rs/s/qlnw7i/web_navigation_demystified_what_happens"
     ],
@@ -157,16 +167,6 @@
     [
       "Django: Maybe disable PostgreSQL’s JIT to speed up many-joined queries",
       "https://adamj.eu/tech/2023/11/09/django-disable-postgresql-jit/"
-    ]
-  ],
-  [
-    [
-      "2023-11-09, 09:14:56",
-      "https://lobste.rs/s/tiuh38/rocksdb_java_api_performance"
-    ],
-    [
-      "RocksDB Java API Performance Improvements",
-      "https://rocksdb.org/blog/2023/11/06/java-jni-benchmarks.html"
     ]
   ],
   [
