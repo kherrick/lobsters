@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-10, 11:31:37](https://lobste.rs/s/ecg9xc/pyonji_easy_use_tool_send_e_mail_patches) - [pyonji: An easy-to-use tool to send e-mail patches](https://sr.ht/~emersion/pyonji/)
 * [2023-11-10, 11:08:43](https://lobste.rs/s/qxft9n/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qxft9n/what_are_you_doing_this_weekend)
 * [2023-11-10, 08:36:08](https://lobste.rs/s/qh8qof/on_actionable_actually_useful_logs) - [On actionable and actually useful logs](https://lanre.wtf/blog/2023/01/12/on-actionable-and-actually-useful-logs)
 * [2023-11-10, 07:09:14](https://lobste.rs/s/qlnw7i/web_navigation_demystified_what_happens) - [Web Navigation Demystified: What Happens When You Enter a URL into a Browser](https://medium.com/@atakanserbes/web-navigation-demystified-what-happens-when-you-enter-a-url-into-a-browser-39d8f2043b19?source=friends_link)
@@ -21,7 +22,6 @@
 * [2023-11-09, 06:53:18](https://lobste.rs/s/tvm2ev/tracking_current_active_process_windows) - [Tracking the current active process in Windows with Rust](https://hellocode.co/blog/post/tracking-active-process-windows-rust/)
 * [2023-11-09, 03:59:08](https://lobste.rs/s/udzimz/early_computer_art_by_barbara_nessim) - [Early computer art by Barbara Nessim](https://blog.gingerbeardman.com/2023/11/09/early-computer-art-by-barbara-nessim/)
 * [2023-11-09, 02:29:16](https://lobste.rs/s/icirwz/interesting_bugs_caught_by_eslint_s_no) - [Interesting Bugs Caught by ESLint’s no-constant-binary-expression](https://jordaneldredge.com/blog/interesting-bugs-caught-by-eslints-no-constant-binary-expression/)
-* [2023-11-08, 17:35:17](https://lobste.rs/s/c6ymgj/what_we_learned_from_installing_nix_one) - [What we learned from installing Nix one million times](https://determinate.systems/posts/lessons-from-1-million-nix-installs)
 * [2023-11-08, 16:19:21](https://lobste.rs/s/mxwit7/link_time_optimisation_lto) - [Link-time optimisation (LTO)](https://convolv.es/guides/lto/)
 * [2023-11-08, 13:38:25](https://lobste.rs/s/jpnas8/review_zsa_voyager_ergonomic_keyboard) - [Review: ZSA Voyager Ergonomic Keyboard](https://danieldk.eu/Posts/2023-11-07-ZSA-Voyager)
 * [2023-11-08, 12:53:42](https://lobste.rs/s/cksldq/hare_aims_become_100_year_programming) - [Hare aims to become a 100-year programming language](https://harelang.org/blog/2023-11-08-100-year-language/)

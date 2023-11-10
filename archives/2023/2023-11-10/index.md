@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
+* [2023-11-10, 11:31:37](https://lobste.rs/s/ecg9xc/pyonji_easy_use_tool_send_e_mail_patches) - [pyonji: An easy-to-use tool to send e-mail patches](https://sr.ht/~emersion/pyonji/)
 * [2023-11-10, 11:08:43](https://lobste.rs/s/qxft9n/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qxft9n/what_are_you_doing_this_weekend)
 * [2023-11-10, 08:36:08](https://lobste.rs/s/qh8qof/on_actionable_actually_useful_logs) - [On actionable and actually useful logs](https://lanre.wtf/blog/2023/01/12/on-actionable-and-actually-useful-logs)
 * [2023-11-10, 07:09:14](https://lobste.rs/s/qlnw7i/web_navigation_demystified_what_happens) - [Web Navigation Demystified: What Happens When You Enter a URL into a Browser](https://medium.com/@atakanserbes/web-navigation-demystified-what-happens-when-you-enter-a-url-into-a-browser-39d8f2043b19?source=friends_link)
