@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-10, 15:11:44](https://lobste.rs/s/skmlti/implementing_mario_s_stack_blur_15_times_c) - [Implementing Mario's Stack Blur 15 times in C++ (with tests and benchmarks) ·](https://melatonin.dev/blog/implementing-marios-stack-blur-15-times-in-cpp/)
+* [2023-11-10, 15:10:53](https://lobste.rs/s/xujbsw/freebsd_14_release) - [FreeBSD 14-RELEASE](https://lists.freebsd.org/archives/dev-commits-src-all/2023-November/033349.html)
 * [2023-11-10, 14:30:22](https://lobste.rs/s/qaizef/understanding_linux_cp_command) - [Understanding Linux cp Command and Implementing in Python](https://muhammadraza.me/2023/linux-cp/)
 * [2023-11-10, 14:21:44](https://lobste.rs/s/lgirb9/we_used_build_steel_mills_near_cheap_power) - [We used to build steel mills near cheap power. Now that's where we build datacenters](https://danluu.com/datacenter-power/)
 * [2023-11-10, 13:37:36](https://lobste.rs/s/7wbwab/useless_ruby_sugar_keyword_argument_hash) - [“Useless Ruby sugar”: Keyword argument and hash values omission](https://zverok.space/blog/2023-11-10-syntax-sugar3-hash-values-omission.html)
@@ -22,9 +24,7 @@
 * [2023-11-09, 16:44:33](https://lobste.rs/s/gp9scd/faster_compilation_with_parallel_front) - [Faster compilation with the parallel front-end in nightly](https://blog.rust-lang.org/2023/11/09/parallel-rustc.html)
 * [2023-11-09, 16:12:56](https://lobste.rs/s/jenx7n/speed_up_program_for_50_years_old) - [Speed up a program for the 50 years old processor by 180000%](https://mark.engineer/2023/11/speed-up-a-program-for-50-years-old-processor-by-180000/)
 * [2023-11-09, 12:35:23](https://lobste.rs/s/roqgoz/zfs_raidz_expansion_merged) - [ZFS: Raidz expansion merged](https://github.com/openzfs/zfs/pull/15022)
-* [2023-11-09, 11:23:40](https://lobste.rs/s/yzvany/django_maybe_disable_postgresql_s_jit) - [Django: Maybe disable PostgreSQL’s JIT to speed up many-joined queries](https://adamj.eu/tech/2023/11/09/django-disable-postgresql-jit/)
 * [2023-11-09, 02:29:16](https://lobste.rs/s/icirwz/interesting_bugs_caught_by_eslint_s_no) - [Interesting Bugs Caught by ESLint’s no-constant-binary-expression](https://jordaneldredge.com/blog/interesting-bugs-caught-by-eslints-no-constant-binary-expression/)
-* [2023-11-08, 13:38:25](https://lobste.rs/s/jpnas8/review_zsa_voyager_ergonomic_keyboard) - [Review: ZSA Voyager Ergonomic Keyboard](https://danieldk.eu/Posts/2023-11-07-ZSA-Voyager)
 
 ## [Archives](archives/index.md)
 
