@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
+* [2023-11-10, 08:36:08](https://lobste.rs/s/qh8qof/on_actionable_actually_useful_logs) - [On actionable and actually useful logs](https://lanre.wtf/blog/2023/01/12/on-actionable-and-actually-useful-logs)
 * [2023-11-10, 07:09:14](https://lobste.rs/s/qlnw7i/web_navigation_demystified_what_happens) - [Web Navigation Demystified: What Happens When You Enter a URL into a Browser](https://medium.com/@atakanserbes/web-navigation-demystified-what-happens-when-you-enter-a-url-into-a-browser-39d8f2043b19?source=friends_link)
 * [2023-11-10, 04:50:22](https://lobste.rs/s/mgagcv/oosys_object_oriented_operating_system) - [OOSys: An Object-Oriented Operating System](http://tigcc.ticalc.org/private/oosys/OOSys_1_02.html)
 * [2023-11-10, 03:53:39](https://lobste.rs/s/wyjy5z/cursorless_is_alien_magic_from_future_xe) - [Cursorless is alien magic from the future - Xe Iaso](https://xeiaso.net//notes/cursorless-alien-magic/)
