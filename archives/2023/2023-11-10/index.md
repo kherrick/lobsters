@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
+* [2023-11-10, 21:01:02](https://lobste.rs/s/vitkfd/google_cloud_demonstrates_world_s) - [Google Cloud demonstrates the world’s largest distributed training job for large language models](https://cloud.google.com/blog/products/compute/the-worlds-largest-distributed-llm-training-job-on-tpu-v5e)
 * [2023-11-10, 19:36:48](https://lobste.rs/s/gmvv5v/tinkerer_s_sunset_dive_into_mark_2010) - [Tinkerer’s Sunset [dive into mark] (2010)](https://web.archive.org/web/20100201013128/http://diveintomark.org/archives/2010/01/29/tinkerers-sunset)
 * [2023-11-10, 19:13:43](https://lobste.rs/s/dezuac/marimo_next_generation_python_notebook) - [Marimo: next-generation Python notebook](https://marimo.io/)
 * [2023-11-10, 17:25:34](https://lobste.rs/s/qjr0sy/retrieval_augmented_generation_go_eli) - [Retrieval Augmented Generation in Go - Eli Bendersky's website](https://eli.thegreenplace.net/2023/retrieval-augmented-generation-in-go/)
