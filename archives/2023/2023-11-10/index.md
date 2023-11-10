@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
+* [2023-11-10, 22:20:51](https://lobste.rs/s/uisr73/fx_31_0_0_release) - [Fx 31.0.0 release](https://github.com/antonmedv/fx/releases/tag/31.0.0)
 * [2023-11-10, 21:01:02](https://lobste.rs/s/vitkfd/google_cloud_demonstrates_world_s) - [Google Cloud demonstrates the world’s largest distributed training job for large language models](https://cloud.google.com/blog/products/compute/the-worlds-largest-distributed-llm-training-job-on-tpu-v5e)
 * [2023-11-10, 19:36:48](https://lobste.rs/s/gmvv5v/tinkerer_s_sunset_dive_into_mark_2010) - [Tinkerer’s Sunset [dive into mark] (2010)](https://web.archive.org/web/20100201013128/http://diveintomark.org/archives/2010/01/29/tinkerers-sunset)
 * [2023-11-10, 19:13:43](https://lobste.rs/s/dezuac/marimo_next_generation_python_notebook) - [Marimo: next-generation Python notebook](https://marimo.io/)
