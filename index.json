@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-10, 04:50:22",
+      "https://lobste.rs/s/mgagcv/oosys_object_oriented_operating_system"
+    ],
+    [
+      "OOSys: An Object-Oriented Operating System",
+      "http://tigcc.ticalc.org/private/oosys/OOSys_1_02.html"
+    ]
+  ],
+  [
+    [
       "2023-11-10, 03:53:39",
       "https://lobste.rs/s/wyjy5z/cursorless_is_alien_magic_from_future_xe"
     ],
@@ -197,16 +207,6 @@
     [
       "What's new in Fedora Workstation 39",
       "https://fedoramagazine.org/whats-new-fedora-workstation-39/"
-    ]
-  ],
-  [
-    [
-      "2023-11-08, 19:29:58",
-      "https://lobste.rs/s/mfgfcx/preventing_problems_caused_by_generated"
-    ],
-    [
-      "Preventing problems caused by generated files",
-      "https://blog.verygoodsoftwarenotvirus.ru/posts/generated-files/"
     ]
   ],
   [
