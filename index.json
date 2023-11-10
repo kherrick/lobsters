@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-10, 12:26:40",
+      "https://lobste.rs/s/qlcvyd/discipline_programmer_s_productivity"
+    ],
+    [
+      "A discipline of programmer's productivity (Part I)",
+      "https://write.as/0nwd0x9el74nfmh2.md"
+    ]
+  ],
+  [
+    [
       "2023-11-10, 11:47:40",
       "https://lobste.rs/s/omppwk/write_your_own_terminal"
     ],
@@ -141,22 +151,22 @@
   ],
   [
     [
-      "2023-11-09, 20:30:28",
-      "https://lobste.rs/s/dosvgw/from_capabilities_regions_enabling"
-    ],
-    [
-      "From Capabilities to Regions: Enabling Efficient Compilation of Lexical Effect Handlers",
-      "https://dl.acm.org/doi/10.1145/3622831"
-    ]
-  ],
-  [
-    [
       "2023-11-09, 19:28:08",
       "https://lobste.rs/s/higefg/going_up_color_bit_depth"
     ],
     [
       "Going up in color bit depth",
       "https://30fps.net/pages/bit-depths/"
+    ]
+  ],
+  [
+    [
+      "2023-11-09, 16:58:26",
+      "https://lobste.rs/s/b0ry5p/reverse_engineering_intel_386_processor"
+    ],
+    [
+      "Reverse engineering the Intel 386 processor's register cell",
+      "http://www.righto.com/2023/11/reverse-engineering-intel-386.html"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Django: Maybe disable PostgreSQL’s JIT to speed up many-joined queries",
       "https://adamj.eu/tech/2023/11/09/django-disable-postgresql-jit/"
-    ]
-  ],
-  [
-    [
-      "2023-11-09, 06:53:18",
-      "https://lobste.rs/s/tvm2ev/tracking_current_active_process_windows"
-    ],
-    [
-      "Tracking the current active process in Windows with Rust",
-      "https://hellocode.co/blog/post/tracking-active-process-windows-rust/"
     ]
   ],
   [
