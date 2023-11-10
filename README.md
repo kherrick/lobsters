@@ -14,6 +14,7 @@
 * [2023-11-10, 11:31:37](https://lobste.rs/s/ecg9xc/pyonji_easy_use_tool_send_e_mail_patches) - [pyonji: An easy-to-use tool to send e-mail patches](https://sr.ht/~emersion/pyonji/)
 * [2023-11-10, 11:08:43](https://lobste.rs/s/qxft9n/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qxft9n/what_are_you_doing_this_weekend)
 * [2023-11-10, 08:36:08](https://lobste.rs/s/qh8qof/on_actionable_actually_useful_logs) - [On actionable and actually useful logs](https://lanre.wtf/blog/2023/01/12/on-actionable-and-actually-useful-logs)
+* [2023-11-10, 07:09:14](https://lobste.rs/s/qlnw7i/web_navigation_demystified_what_happens) - [Web Navigation Demystified: What Happens When You Enter a URL into a Browser](https://medium.com/@atakanserbes/web-navigation-demystified-what-happens-when-you-enter-a-url-into-a-browser-39d8f2043b19?source=friends_link)
 * [2023-11-10, 04:50:22](https://lobste.rs/s/mgagcv/oosys_object_oriented_operating_system) - [OOSys: An Object-Oriented Operating System](http://tigcc.ticalc.org/private/oosys/OOSys_1_02.html)
 * [2023-11-10, 03:53:39](https://lobste.rs/s/wyjy5z/cursorless_is_alien_magic_from_future) - [Cursorless is alien magic from the future](https://xeiaso.net//notes/cursorless-alien-magic/)
 * [2023-11-10, 02:31:34](https://lobste.rs/s/znsdyt/c_pitfall_shared_future) - [C++ Pitfall : shared_future](https://sheep.horse/2023/11/c++_pitfall_-_shared_future.html)
@@ -23,7 +24,6 @@
 * [2023-11-09, 21:15:34](https://lobste.rs/s/wxmavm/python_errors_as_values_comparing_useful) - [Python errors as values: Comparing useful patterns from Go and Rust](https://www.inngest.com/blog/python-errors-as-values)
 * [2023-11-09, 19:28:08](https://lobste.rs/s/higefg/going_up_color_bit_depth) - [Going up in color bit depth](https://30fps.net/pages/bit-depths/)
 * [2023-11-09, 16:44:33](https://lobste.rs/s/gp9scd/faster_compilation_with_parallel_front) - [Faster compilation with the parallel front-end in nightly](https://blog.rust-lang.org/2023/11/09/parallel-rustc.html)
-* [2023-11-09, 16:12:56](https://lobste.rs/s/jenx7n/speed_up_program_for_50_years_old) - [Speed up a program for the 50 years old processor by 180000%](https://mark.engineer/2023/11/speed-up-a-program-for-50-years-old-processor-by-180000/)
 * [2023-11-09, 12:35:23](https://lobste.rs/s/roqgoz/zfs_raidz_expansion_merged) - [ZFS: Raidz expansion merged](https://github.com/openzfs/zfs/pull/15022)
 
 ## [Archives](archives/index.md)
