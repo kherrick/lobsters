@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-10, 22:31:44",
+      "https://lobste.rs/s/l1roef/fourteen_years_go"
+    ],
+    [
+      "Fourteen Years of Go",
+      "https://go.dev/blog/14years"
+    ]
+  ],
+  [
+    [
+      "2023-11-10, 22:28:57",
+      "https://lobste.rs/s/ivefzn/eurollvm_dev_mtg_llvm_mos_6502_backend"
+    ],
+    [
+      "EuroLLVM Dev Mtg “LLVM-MOS 6502 Backend: Having a Blast in the Past” (2022)",
+      "https://www.youtube.com/watch?v=2lW3WHPtmKo"
+    ]
+  ],
+  [
+    [
       "2023-11-10, 22:20:51",
       "https://lobste.rs/s/uisr73/fx_31_0_0_release"
     ],
@@ -47,16 +67,6 @@
     [
       "Retrieval Augmented Generation in Go",
       "https://eli.thegreenplace.net/2023/retrieval-augmented-generation-in-go/"
-    ]
-  ],
-  [
-    [
-      "2023-11-10, 15:11:44",
-      "https://lobste.rs/s/skmlti/implementing_mario_s_stack_blur_15_times_c"
-    ],
-    [
-      "Implementing Mario's Stack Blur 15 times in C++ (with tests and benchmarks) ·",
-      "https://melatonin.dev/blog/implementing-marios-stack-blur-15-times-in-cpp/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "On actionable and actually useful logs",
       "https://lanre.wtf/blog/2023/01/12/on-actionable-and-actually-useful-logs"
-    ]
-  ],
-  [
-    [
-      "2023-11-10, 07:09:14",
-      "https://lobste.rs/s/qlnw7i/web_navigation_demystified_what_happens"
-    ],
-    [
-      "Web Navigation Demystified: What Happens When You Enter a URL into a Browser",
-      "https://medium.com/@atakanserbes/web-navigation-demystified-what-happens-when-you-enter-a-url-into-a-browser-39d8f2043b19?source=friends_link"
     ]
   ],
   [
