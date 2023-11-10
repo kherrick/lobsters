@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-10, 03:53:39](https://lobste.rs/s/wyjy5z/cursorless_is_alien_magic_from_future_xe) - [Cursorless is alien magic from the future - Xe Iaso](https://xeiaso.net//notes/cursorless-alien-magic/)
 * [2023-11-10, 02:31:34](https://lobste.rs/s/znsdyt/c_pitfall_shared_future) - [C++ Pitfall : shared_future](https://sheep.horse/2023/11/c++_pitfall_-_shared_future.html)
 * [2023-11-10, 00:05:43](https://lobste.rs/s/zffdtw/typing_fast_is_about_latency_not) - [Typing Fast Is About Latency, Not Throughput](https://two-wrongs.com/typing-fast-is-about-latency-not-throughput)
 * [2023-11-09, 21:46:46](https://lobste.rs/s/s4mdxb/github_next_realtime_github) - [GitHub Next | Realtime GitHub](https://githubnext.com/projects/rtgh/)
@@ -24,7 +25,6 @@
 * [2023-11-08, 16:19:21](https://lobste.rs/s/mxwit7/link_time_optimisation_lto) - [Link-time optimisation (LTO)](https://convolv.es/guides/lto/)
 * [2023-11-08, 13:38:25](https://lobste.rs/s/jpnas8/review_zsa_voyager_ergonomic_keyboard) - [Review: ZSA Voyager Ergonomic Keyboard](https://danieldk.eu/Posts/2023-11-07-ZSA-Voyager)
 * [2023-11-08, 12:53:42](https://lobste.rs/s/cksldq/hare_aims_become_100_year_programming) - [Hare aims to become a 100-year programming language](https://harelang.org/blog/2023-11-08-100-year-language/)
-* [2023-11-08, 10:54:09](https://lobste.rs/s/krmdls/don_t_disable_buttons) - [Don't disable buttons](https://gomakethings.com/dont-disable-buttons/)
 
 ## [Archives](archives/index.md)
 
