@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-10, 12:59:54](https://lobste.rs/s/rrmjoi/slint_1_3_released_with_revamped_native) - [Slint 1.3 Released with Revamped Native Styles and JavaScript API](https://slint.dev/blog/slint-1.3-released)
 * [2023-11-10, 12:26:40](https://lobste.rs/s/qlcvyd/discipline_programmer_s_productivity) - [A discipline of programmer's productivity (Part I)](https://write.as/0nwd0x9el74nfmh2.md)
 * [2023-11-10, 11:47:40](https://lobste.rs/s/omppwk/write_your_own_terminal) - [write your own terminal](https://flak.tedunangst.com/post/write-your-own-terminal)
 * [2023-11-10, 11:44:54](https://lobste.rs/s/t6yfvv/from_vector_spaces_periodic_functions) - [From Vector Spaces to Periodic Functions](https://susam.net/blog/from-vector-spaces-to-periodic-functions.html)
@@ -16,7 +17,6 @@
 * [2023-11-09, 21:15:34](https://lobste.rs/s/wxmavm/python_errors_as_values_comparing_useful) - [Python errors as values: Comparing useful patterns from Go and Rust](https://www.inngest.com/blog/python-errors-as-values)
 * [2023-11-09, 20:55:29](https://lobste.rs/s/2pbzs5/delphi_c_builder_12_athens_released) - [Delphi and C++ Builder 12 Athens released](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-12-athens/)
 * [2023-11-09, 19:28:08](https://lobste.rs/s/higefg/going_up_color_bit_depth) - [Going up in color bit depth](https://30fps.net/pages/bit-depths/)
-* [2023-11-09, 16:58:26](https://lobste.rs/s/b0ry5p/reverse_engineering_intel_386_processor) - [Reverse engineering the Intel 386 processor's register cell](http://www.righto.com/2023/11/reverse-engineering-intel-386.html)
 * [2023-11-09, 16:44:33](https://lobste.rs/s/gp9scd/faster_compilation_with_parallel_front) - [Faster compilation with the parallel front-end in nightly](https://blog.rust-lang.org/2023/11/09/parallel-rustc.html)
 * [2023-11-09, 16:12:56](https://lobste.rs/s/jenx7n/speed_up_program_for_50_years_old) - [Speed up a program for the 50 years old processor by 180000%](https://mark.engineer/2023/11/speed-up-a-program-for-50-years-old-processor-by-180000/)
 * [2023-11-09, 12:35:23](https://lobste.rs/s/roqgoz/zfs_raidz_expansion_merged) - [ZFS: Raidz expansion merged](https://github.com/openzfs/zfs/pull/15022)
