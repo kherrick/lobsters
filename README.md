@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-10, 17:25:34](https://lobste.rs/s/qjr0sy/retrieval_augmented_generation_go_eli) - [Retrieval Augmented Generation in Go - Eli Bendersky's website](https://eli.thegreenplace.net/2023/retrieval-augmented-generation-in-go/)
 * [2023-11-10, 15:11:44](https://lobste.rs/s/skmlti/implementing_mario_s_stack_blur_15_times_c) - [Implementing Mario's Stack Blur 15 times in C++ (with tests and benchmarks) ·](https://melatonin.dev/blog/implementing-marios-stack-blur-15-times-in-cpp/)
 * [2023-11-10, 15:10:53](https://lobste.rs/s/xujbsw/freebsd_14_release) - [FreeBSD 14-RELEASE](https://lists.freebsd.org/archives/dev-commits-src-all/2023-November/033349.html)
 * [2023-11-10, 14:30:22](https://lobste.rs/s/qaizef/understanding_linux_cp_command) - [Understanding Linux cp Command and Implementing in Python](https://muhammadraza.me/2023/linux-cp/)
@@ -19,7 +20,6 @@
 * [2023-11-09, 21:46:46](https://lobste.rs/s/s4mdxb/realtime_github) - [Realtime GitHub](https://githubnext.com/projects/rtgh/)
 * [2023-11-09, 21:44:04](https://lobste.rs/s/xyeqmu/monaspace) - [Monaspace](https://monaspace.githubnext.com/)
 * [2023-11-09, 21:15:34](https://lobste.rs/s/wxmavm/python_errors_as_values_comparing_useful) - [Python errors as values: Comparing useful patterns from Go and Rust](https://www.inngest.com/blog/python-errors-as-values)
-* [2023-11-09, 20:55:29](https://lobste.rs/s/2pbzs5/delphi_c_builder_12_athens_released) - [Delphi and C++ Builder 12 Athens released](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-12-athens/)
 * [2023-11-09, 19:28:08](https://lobste.rs/s/higefg/going_up_color_bit_depth) - [Going up in color bit depth](https://30fps.net/pages/bit-depths/)
 * [2023-11-09, 16:44:33](https://lobste.rs/s/gp9scd/faster_compilation_with_parallel_front) - [Faster compilation with the parallel front-end in nightly](https://blog.rust-lang.org/2023/11/09/parallel-rustc.html)
 * [2023-11-09, 16:12:56](https://lobste.rs/s/jenx7n/speed_up_program_for_50_years_old) - [Speed up a program for the 50 years old processor by 180000%](https://mark.engineer/2023/11/speed-up-a-program-for-50-years-old-processor-by-180000/)

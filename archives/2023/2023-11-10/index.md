@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
+* [2023-11-10, 17:25:34](https://lobste.rs/s/qjr0sy/retrieval_augmented_generation_go_eli) - [Retrieval Augmented Generation in Go - Eli Bendersky's website](https://eli.thegreenplace.net/2023/retrieval-augmented-generation-in-go/)
 * [2023-11-10, 15:11:44](https://lobste.rs/s/skmlti/implementing_mario_s_stack_blur_15_times_c) - [Implementing Mario's Stack Blur 15 times in C++ (with tests and benchmarks) ·](https://melatonin.dev/blog/implementing-marios-stack-blur-15-times-in-cpp/)
 * [2023-11-10, 15:10:53](https://lobste.rs/s/xujbsw/freebsd_14_release) - [FreeBSD 14-RELEASE](https://lists.freebsd.org/archives/dev-commits-src-all/2023-November/033349.html)
 * [2023-11-10, 14:30:22](https://lobste.rs/s/qaizef/understanding_linux_cp_command) - [Understanding Linux cp Command and Implementing in Python](https://muhammadraza.me/2023/linux-cp/)
