@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-10, 19:13:43",
+      "https://lobste.rs/s/dezuac/marimo_next_generation_python_notebook"
+    ],
+    [
+      "Marimo: next-generation Python notebook",
+      "https://marimo.io/"
+    ]
+  ],
+  [
+    [
       "2023-11-10, 17:25:34",
       "https://lobste.rs/s/qjr0sy/retrieval_augmented_generation_go"
     ],
@@ -237,16 +247,6 @@
     [
       "ZFS: Raidz expansion merged",
       "https://github.com/openzfs/zfs/pull/15022"
-    ]
-  ],
-  [
-    [
-      "2023-11-09, 02:29:16",
-      "https://lobste.rs/s/icirwz/interesting_bugs_caught_by_eslint_s_no"
-    ],
-    [
-      "Interesting Bugs Caught by ESLint’s no-constant-binary-expression",
-      "https://jordaneldredge.com/blog/interesting-bugs-caught-by-eslints-no-constant-binary-expression/"
     ]
   ]
 ]
