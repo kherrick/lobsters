@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
+* [2023-11-10, 11:47:40](https://lobste.rs/s/omppwk/write_your_own_terminal) - [write your own terminal](https://flak.tedunangst.com/post/write-your-own-terminal)
+* [2023-11-10, 11:44:54](https://lobste.rs/s/t6yfvv/from_vector_spaces_periodic_functions) - [From Vector Spaces to Periodic Functions](https://susam.net/blog/from-vector-spaces-to-periodic-functions.html)
 * [2023-11-10, 11:31:37](https://lobste.rs/s/ecg9xc/pyonji_easy_use_tool_send_e_mail_patches) - [pyonji: An easy-to-use tool to send e-mail patches](https://sr.ht/~emersion/pyonji/)
 * [2023-11-10, 11:08:43](https://lobste.rs/s/qxft9n/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qxft9n/what_are_you_doing_this_weekend)
 * [2023-11-10, 08:36:08](https://lobste.rs/s/qh8qof/on_actionable_actually_useful_logs) - [On actionable and actually useful logs](https://lanre.wtf/blog/2023/01/12/on-actionable-and-actually-useful-logs)
