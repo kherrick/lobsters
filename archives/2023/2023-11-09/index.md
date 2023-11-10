@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-09](index.md)
 
+* [2023-11-09, 21:46:46](https://lobste.rs/s/s4mdxb/realtime_github) - [Realtime GitHub](https://githubnext.com/projects/rtgh/)
 * [2023-11-09, 21:46:46](https://lobste.rs/s/s4mdxb/github_next_realtime_github) - [GitHub Next | Realtime GitHub](https://githubnext.com/projects/rtgh/)
 * [2023-11-09, 21:44:04](https://lobste.rs/s/xyeqmu/monaspace) - [Monaspace](https://monaspace.githubnext.com/)
 * [2023-11-09, 21:15:34](https://lobste.rs/s/wxmavm/python_errors_as_values_comparing_useful) - [Python errors as values: Comparing useful patterns from Go and Rust](https://www.inngest.com/blog/python-errors-as-values)

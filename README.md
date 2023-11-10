@@ -6,7 +6,7 @@
 * [2023-11-10, 03:53:39](https://lobste.rs/s/wyjy5z/cursorless_is_alien_magic_from_future) - [Cursorless is alien magic from the future](https://xeiaso.net//notes/cursorless-alien-magic/)
 * [2023-11-10, 02:31:34](https://lobste.rs/s/znsdyt/c_pitfall_shared_future) - [C++ Pitfall : shared_future](https://sheep.horse/2023/11/c++_pitfall_-_shared_future.html)
 * [2023-11-10, 00:05:43](https://lobste.rs/s/zffdtw/typing_fast_is_about_latency_not) - [Typing Fast Is About Latency, Not Throughput](https://two-wrongs.com/typing-fast-is-about-latency-not-throughput)
-* [2023-11-09, 21:46:46](https://lobste.rs/s/s4mdxb/github_next_realtime_github) - [GitHub Next | Realtime GitHub](https://githubnext.com/projects/rtgh/)
+* [2023-11-09, 21:46:46](https://lobste.rs/s/s4mdxb/realtime_github) - [Realtime GitHub](https://githubnext.com/projects/rtgh/)
 * [2023-11-09, 21:44:04](https://lobste.rs/s/xyeqmu/monaspace) - [Monaspace](https://monaspace.githubnext.com/)
 * [2023-11-09, 21:15:34](https://lobste.rs/s/wxmavm/python_errors_as_values_comparing_useful) - [Python errors as values: Comparing useful patterns from Go and Rust](https://www.inngest.com/blog/python-errors-as-values)
 * [2023-11-09, 20:55:29](https://lobste.rs/s/2pbzs5/delphi_c_builder_12_athens_released) - [Delphi and C++ Builder 12 Athens released](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-12-athens/)
