@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-10, 00:05:43](https://lobste.rs/s/zffdtw/typing_fast_is_about_latency_not) - [Typing Fast Is About Latency, Not Throughput](https://two-wrongs.com/typing-fast-is-about-latency-not-throughput)
 * [2023-11-09, 21:46:46](https://lobste.rs/s/s4mdxb/github_next_realtime_github) - [GitHub Next | Realtime GitHub](https://githubnext.com/projects/rtgh/)
 * [2023-11-09, 21:44:04](https://lobste.rs/s/xyeqmu/monaspace) - [Monaspace](https://monaspace.githubnext.com/)
 * [2023-11-09, 21:15:34](https://lobste.rs/s/wxmavm/python_errors_as_values_comparing_useful) - [Python errors as values: Comparing useful patterns from Go and Rust](https://www.inngest.com/blog/python-errors-as-values)
@@ -17,7 +18,6 @@
 * [2023-11-09, 03:59:08](https://lobste.rs/s/udzimz/early_computer_art_by_barbara_nessim) - [Early computer art by Barbara Nessim](https://blog.gingerbeardman.com/2023/11/09/early-computer-art-by-barbara-nessim/)
 * [2023-11-09, 02:29:16](https://lobste.rs/s/icirwz/interesting_bugs_caught_by_eslint_s_no) - [Interesting Bugs Caught by ESLint’s no-constant-binary-expression](https://jordaneldredge.com/blog/interesting-bugs-caught-by-eslints-no-constant-binary-expression/)
 * [2023-11-09, 02:20:24](https://lobste.rs/s/izmkkh/what_s_new_fedora_workstation_39) - [What's new in Fedora Workstation 39](https://fedoramagazine.org/whats-new-fedora-workstation-39/)
-* [2023-11-08, 20:17:59](https://lobste.rs/s/hh7wuy/why_scipy_builds_for_python_3_12_on_windows) - [Why SciPy builds for Python 3.12 on Windows are a minor miracle](https://labs.quansight.org/blog/building-scipy-with-flang)
 * [2023-11-08, 19:29:58](https://lobste.rs/s/mfgfcx/preventing_problems_caused_by_generated) - [Preventing problems caused by generated files](https://blog.verygoodsoftwarenotvirus.ru/posts/generated-files/)
 * [2023-11-08, 17:35:17](https://lobste.rs/s/c6ymgj/what_we_learned_from_installing_nix_one) - [What we learned from installing Nix one million times](https://determinate.systems/posts/lessons-from-1-million-nix-installs)
 * [2023-11-08, 17:14:03](https://lobste.rs/s/x8eyr6/what_is_origin_default_256_color_vga) - [What is the origin of the default 256-color VGA palette?](https://retrocomputing.stackexchange.com/questions/27994/what-is-the-origin-of-the-default-256-color-vga-palette)
