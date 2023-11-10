@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-10, 11:47:40",
+      "https://lobste.rs/s/omppwk/write_your_own_terminal"
+    ],
+    [
+      "write your own terminal",
+      "https://flak.tedunangst.com/post/write-your-own-terminal"
+    ]
+  ],
+  [
+    [
+      "2023-11-10, 11:44:54",
+      "https://lobste.rs/s/t6yfvv/from_vector_spaces_periodic_functions"
+    ],
+    [
+      "From Vector Spaces to Periodic Functions",
+      "https://susam.net/blog/from-vector-spaces-to-periodic-functions.html"
+    ]
+  ],
+  [
+    [
       "2023-11-10, 11:31:37",
       "https://lobste.rs/s/ecg9xc/pyonji_easy_use_tool_send_e_mail_patches"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-11-09, 16:58:26",
-      "https://lobste.rs/s/b0ry5p/reverse_engineering_intel_386_processor"
-    ],
-    [
-      "Reverse engineering the Intel 386 processor's register cell",
-      "http://www.righto.com/2023/11/reverse-engineering-intel-386.html"
-    ]
-  ],
-  [
-    [
       "2023-11-09, 16:44:33",
       "https://lobste.rs/s/gp9scd/faster_compilation_with_parallel_front"
     ],
@@ -197,16 +207,6 @@
     [
       "Tracking the current active process in Windows with Rust",
       "https://hellocode.co/blog/post/tracking-active-process-windows-rust/"
-    ]
-  ],
-  [
-    [
-      "2023-11-09, 03:59:08",
-      "https://lobste.rs/s/udzimz/early_computer_art_by_barbara_nessim"
-    ],
-    [
-      "Early computer art by Barbara Nessim",
-      "https://blog.gingerbeardman.com/2023/11/09/early-computer-art-by-barbara-nessim/"
     ]
   ],
   [
