@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
+* [2023-11-10, 12:26:40](https://lobste.rs/s/qlcvyd/discipline_programmer_s_productivity) - [A discipline of programmer's productivity (Part I)](https://write.as/0nwd0x9el74nfmh2.md)
 * [2023-11-10, 11:47:40](https://lobste.rs/s/omppwk/write_your_own_terminal) - [write your own terminal](https://flak.tedunangst.com/post/write-your-own-terminal)
 * [2023-11-10, 11:44:54](https://lobste.rs/s/t6yfvv/from_vector_spaces_periodic_functions) - [From Vector Spaces to Periodic Functions](https://susam.net/blog/from-vector-spaces-to-periodic-functions.html)
 * [2023-11-10, 11:31:37](https://lobste.rs/s/ecg9xc/pyonji_easy_use_tool_send_e_mail_patches) - [pyonji: An easy-to-use tool to send e-mail patches](https://sr.ht/~emersion/pyonji/)
