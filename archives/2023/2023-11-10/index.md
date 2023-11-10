@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
+* [2023-11-10, 19:13:43](https://lobste.rs/s/dezuac/marimo_next_generation_python_notebook) - [Marimo: next-generation Python notebook](https://marimo.io/)
 * [2023-11-10, 17:25:34](https://lobste.rs/s/qjr0sy/retrieval_augmented_generation_go_eli) - [Retrieval Augmented Generation in Go - Eli Bendersky's website](https://eli.thegreenplace.net/2023/retrieval-augmented-generation-in-go/)
 * [2023-11-10, 17:25:34](https://lobste.rs/s/qjr0sy/retrieval_augmented_generation_go) - [Retrieval Augmented Generation in Go](https://eli.thegreenplace.net/2023/retrieval-augmented-generation-in-go/)
 * [2023-11-10, 15:11:44](https://lobste.rs/s/skmlti/implementing_mario_s_stack_blur_15_times_c) - [Implementing Mario's Stack Blur 15 times in C++ (with tests and benchmarks) ·](https://melatonin.dev/blog/implementing-marios-stack-blur-15-times-in-cpp/)
