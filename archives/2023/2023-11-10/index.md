@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-10](index.md)
 
+* [2023-11-10, 22:31:44](https://lobste.rs/s/l1roef/fourteen_years_go) - [Fourteen Years of Go](https://go.dev/blog/14years)
+* [2023-11-10, 22:28:57](https://lobste.rs/s/ivefzn/eurollvm_dev_mtg_llvm_mos_6502_backend) - [EuroLLVM Dev Mtg “LLVM-MOS 6502 Backend: Having a Blast in the Past” (2022)](https://www.youtube.com/watch?v=2lW3WHPtmKo)
 * [2023-11-10, 22:20:51](https://lobste.rs/s/uisr73/fx_31_0_0_release) - [Fx 31.0.0 release](https://github.com/antonmedv/fx/releases/tag/31.0.0)
 * [2023-11-10, 21:01:02](https://lobste.rs/s/vitkfd/google_cloud_demonstrates_world_s) - [Google Cloud demonstrates the world’s largest distributed training job for large language models](https://cloud.google.com/blog/products/compute/the-worlds-largest-distributed-llm-training-job-on-tpu-v5e)
 * [2023-11-10, 19:36:48](https://lobste.rs/s/gmvv5v/tinkerer_s_sunset_dive_into_mark_2010) - [Tinkerer’s Sunset [dive into mark] (2010)](https://web.archive.org/web/20100201013128/http://diveintomark.org/archives/2010/01/29/tinkerers-sunset)
