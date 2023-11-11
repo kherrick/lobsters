@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-11](index.md)
 
+* [2023-11-11, 13:40:06](https://lobste.rs/s/1yhp8o/browser_debugging_tricks) - [Browser Debugging Tricks](https://alan.norbauer.com/articles/browser-debugging-tricks)
 * [2023-11-11, 10:48:15](https://lobste.rs/s/yne5kz/ntfs_really_isn_t_bad_robert_collins_lca) - [\"NTFS really isn't that bad\" - Robert Collins (LCA 2020)](https://www.youtube.com/watch?v=qbKGw8MQ0i8)
 * [2023-11-11, 10:26:21](https://lobste.rs/s/kpi1dq/tryquiet_our_mission) - [TryQuiet: Our Mission](https://github.com/TryQuiet/quiet#our-mission)
 * [2023-11-11, 09:50:15](https://lobste.rs/s/jtmqx8/my_django_active_developers_sprints) - [My Django active developers Sprints proposal](https://www.paulox.net/2022/10/26/my-django-active-developers-sprints-proposal/)
