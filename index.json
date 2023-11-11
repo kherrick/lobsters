@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2023-11-10, 22:28:57",
-      "https://lobste.rs/s/ivefzn/eurollvm_dev_mtg_llvm_mos_6502_backend"
-    ],
-    [
-      "EuroLLVM Dev Mtg “LLVM-MOS 6502 Backend: Having a Blast in the Past” (2022)",
-      "https://www.youtube.com/watch?v=2lW3WHPtmKo"
-    ]
-  ],
-  [
-    [
       "2023-11-10, 22:20:51",
       "https://lobste.rs/s/uisr73/fx_31_0_0_release"
     ],
@@ -127,6 +117,16 @@
     [
       "Marimo: next-generation Python notebook",
       "https://marimo.io/"
+    ]
+  ],
+  [
+    [
+      "2023-11-10, 17:25:34",
+      "https://lobste.rs/s/qjr0sy/retrieval_augmented_generation_go"
+    ],
+    [
+      "Retrieval Augmented Generation in Go",
+      "https://eli.thegreenplace.net/2023/retrieval-augmented-generation-in-go/"
     ]
   ],
   [
