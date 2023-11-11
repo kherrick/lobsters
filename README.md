@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-11-11, 10:48:15](https://lobste.rs/s/yne5kz/ntfs_really_isn_t_bad_robert_collins_lca) - [\"NTFS really isn't that bad\" - Robert Collins (LCA 2020)](https://www.youtube.com/watch?v=qbKGw8MQ0i8)
-* [2023-11-11, 10:26:21](https://lobste.rs/s/kpi1dq/tryquiet_our_mission) - [TryQuiet: Our Mission](https://github.com/TryQuiet/quiet#our-mission)
 * [2023-11-11, 09:50:15](https://lobste.rs/s/jtmqx8/my_django_active_developers_sprints) - [My Django active developers Sprints proposal](https://www.paulox.net/2022/10/26/my-django-active-developers-sprints-proposal/)
 * [2023-11-11, 07:31:56](https://lobste.rs/s/p8uztq/rfc_9420_messaging_layer_security) - [RFC 9420 – A Messaging Layer Security Overview](https://www.thestack.technology/rfc9420-ietf-mls-standard/)
 * [2023-11-11, 05:28:59](https://lobste.rs/s/k8m2tb/kye_for_c64_2022) - [Kye for C64 (2022)](https://cobbpg.itch.io/kye-c64)
@@ -12,6 +11,7 @@
 * [2023-11-10, 19:36:48](https://lobste.rs/s/gmvv5v/tinkerer_s_sunset_dive_into_mark_2010) - [Tinkerer’s Sunset [dive into mark] (2010)](https://web.archive.org/web/20100201013128/http://diveintomark.org/archives/2010/01/29/tinkerers-sunset)
 * [2023-11-10, 19:13:43](https://lobste.rs/s/dezuac/marimo_next_generation_python_notebook) - [Marimo: next-generation Python notebook](https://marimo.io/)
 * [2023-11-10, 17:25:34](https://lobste.rs/s/qjr0sy/retrieval_augmented_generation_go) - [Retrieval Augmented Generation in Go](https://eli.thegreenplace.net/2023/retrieval-augmented-generation-in-go/)
+* [2023-11-10, 14:30:22](https://lobste.rs/s/qaizef/understanding_linux_cp_command) - [Understanding Linux cp Command and Implementing in Python](https://muhammadraza.me/2023/linux-cp/)
 * [2023-11-10, 14:21:44](https://lobste.rs/s/lgirb9/we_used_build_steel_mills_near_cheap_power) - [We used to build steel mills near cheap power. Now that's where we build datacenters](https://danluu.com/datacenter-power/)
 * [2023-11-10, 13:37:36](https://lobste.rs/s/7wbwab/useless_ruby_sugar_keyword_argument_hash) - [“Useless Ruby sugar”: Keyword argument and hash values omission](https://zverok.space/blog/2023-11-10-syntax-sugar3-hash-values-omission.html)
 * [2023-11-10, 12:59:54](https://lobste.rs/s/rrmjoi/slint_1_3_released_with_revamped_native) - [Slint 1.3 Released with Revamped Native Styles and JavaScript API](https://slint.dev/blog/slint-1.3-released)
