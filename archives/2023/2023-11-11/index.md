@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-11](index.md)
 
+* [2023-11-11, 22:46:46](https://lobste.rs/s/zsvbl0/new_sokol_gfx_webgpu_backend) - [The new sokol-gfx WebGPU backend](https://floooh.github.io/2023/10/16/sokol-webgpu.html)
 * [2023-11-11, 21:35:31](https://lobste.rs/s/kdesnh/cyber_hunt_technical_adventure_for_unix) - [Cyber hunt - A technical adventure for Unix enthusiasts](https://cyb.farm)
 * [2023-11-11, 20:41:27](https://lobste.rs/s/g6iutj/spitbol_360_implementation_snobol4_for) - [SPITBOL 360: an implementation of SNOBOL4 for IBM 360 compatible computers](https://github.com/spitbol/360)
 * [2023-11-11, 19:22:09](https://lobste.rs/s/kpcdzf/luajit_internals_intro) - [LuaJIT Internals: Intro](https://0xbigshaq.github.io/2022/08/22/lua-jit-intro/)

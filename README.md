@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-11, 22:46:46](https://lobste.rs/s/zsvbl0/new_sokol_gfx_webgpu_backend) - [The new sokol-gfx WebGPU backend](https://floooh.github.io/2023/10/16/sokol-webgpu.html)
 * [2023-11-11, 21:35:31](https://lobste.rs/s/kdesnh/cyber_hunt_technical_adventure_for_unix) - [Cyber hunt - A technical adventure for Unix enthusiasts](https://cyb.farm)
 * [2023-11-11, 20:41:27](https://lobste.rs/s/g6iutj/spitbol_360_implementation_snobol4_for) - [SPITBOL 360: an implementation of SNOBOL4 for IBM 360 compatible computers](https://github.com/spitbol/360)
 * [2023-11-11, 19:22:09](https://lobste.rs/s/kpcdzf/luajit_internals_intro) - [LuaJIT Internals: Intro](https://0xbigshaq.github.io/2022/08/22/lua-jit-intro/)
@@ -10,7 +11,6 @@
 * [2023-11-11, 09:50:15](https://lobste.rs/s/jtmqx8/my_django_active_developers_sprints) - [My Django active developers Sprints proposal](https://www.paulox.net/2022/10/26/my-django-active-developers-sprints-proposal/)
 * [2023-11-11, 07:31:56](https://lobste.rs/s/p8uztq/rfc_9420_messaging_layer_security) - [RFC 9420 – A Messaging Layer Security Overview](https://www.thestack.technology/rfc9420-ietf-mls-standard/)
 * [2023-11-11, 05:28:59](https://lobste.rs/s/k8m2tb/kye_for_c64_2022) - [Kye for C64 (2022)](https://cobbpg.itch.io/kye-c64)
-* [2023-11-11, 00:25:50](https://lobste.rs/s/y7i1it/speeding_up_tailwind_css) - [Speeding up Tailwind CSS](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-8/)
 * [2023-11-10, 22:46:22](https://lobste.rs/s/898wqa/nix_my_workflow) - [Nix: my workflow](https://bmcgee.ie/posts/2023/11/nix-my-workflow/)
 * [2023-11-10, 22:31:44](https://lobste.rs/s/l1roef/fourteen_years_go) - [Fourteen Years of Go](https://go.dev/blog/14years)
 * [2023-11-10, 22:20:51](https://lobste.rs/s/uisr73/fx_31_0_0_release) - [Fx 31.0.0 release](https://github.com/antonmedv/fx/releases/tag/31.0.0)
