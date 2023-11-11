@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-11, 21:35:31](https://lobste.rs/s/kdesnh/cyber_hunt_technical_adventure_for_unix) - [Cyber hunt - A technical adventure for Unix enthusiasts](https://cyb.farm)
 * [2023-11-11, 20:41:27](https://lobste.rs/s/g6iutj/spitbol_360_implementation_snobol4_for) - [SPITBOL 360: an implementation of SNOBOL4 for IBM 360 compatible computers](https://github.com/spitbol/360)
 * [2023-11-11, 19:22:09](https://lobste.rs/s/kpcdzf/luajit_internals_intro) - [LuaJIT Internals: Intro](https://0xbigshaq.github.io/2022/08/22/lua-jit-intro/)
 * [2023-11-11, 18:17:46](https://lobste.rs/s/mqhxkp/using_markov_chain_generate_readable) - [Using a Markov chain to generate readable nonsense with 20 lines of Python](https://benhoyt.com/writings/markov-chain/)
@@ -24,7 +25,6 @@
 * [2023-11-09, 21:46:46](https://lobste.rs/s/s4mdxb/realtime_github) - [Realtime GitHub](https://githubnext.com/projects/rtgh/)
 * [2023-11-09, 21:44:04](https://lobste.rs/s/xyeqmu/monaspace) - [Monaspace](https://monaspace.githubnext.com/)
 * [2023-11-09, 19:28:08](https://lobste.rs/s/higefg/going_up_color_bit_depth) - [Going up in color bit depth](https://30fps.net/pages/bit-depths/)
-* [2023-11-09, 16:44:33](https://lobste.rs/s/gp9scd/faster_compilation_with_parallel_front) - [Faster compilation with the parallel front-end in nightly](https://blog.rust-lang.org/2023/11/09/parallel-rustc.html)
 
 ## [Archives](archives/index.md)
 
