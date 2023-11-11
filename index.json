@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-11, 21:35:31",
+      "https://lobste.rs/s/kdesnh/cyber_hunt_technical_adventure_for_unix"
+    ],
+    [
+      "Cyber hunt - A technical adventure for Unix enthusiasts",
+      "https://cyb.farm"
+    ]
+  ],
+  [
+    [
       "2023-11-11, 20:41:27",
       "https://lobste.rs/s/g6iutj/spitbol_360_implementation_snobol4_for"
     ],
@@ -237,16 +247,6 @@
     [
       "Going up in color bit depth",
       "https://30fps.net/pages/bit-depths/"
-    ]
-  ],
-  [
-    [
-      "2023-11-09, 16:44:33",
-      "https://lobste.rs/s/gp9scd/faster_compilation_with_parallel_front"
-    ],
-    [
-      "Faster compilation with the parallel front-end in nightly",
-      "https://blog.rust-lang.org/2023/11/09/parallel-rustc.html"
     ]
   ]
 ]
