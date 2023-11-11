@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-11, 23:36:50",
+      "https://lobste.rs/s/tc1tqh/experiment_with_texture_healing"
+    ],
+    [
+      "experiment with texture healing (monospace kerning)",
+      "https://flak.tedunangst.com/post/experiment-with-texture-healing-monospace-kerning"
+    ]
+  ],
+  [
+    [
       "2023-11-11, 22:46:46",
       "https://lobste.rs/s/zsvbl0/new_sokol_gfx_webgpu_backend"
     ],
@@ -237,16 +247,6 @@
     [
       "Monaspace",
       "https://monaspace.githubnext.com/"
-    ]
-  ],
-  [
-    [
-      "2023-11-09, 19:28:08",
-      "https://lobste.rs/s/higefg/going_up_color_bit_depth"
-    ],
-    [
-      "Going up in color bit depth",
-      "https://30fps.net/pages/bit-depths/"
     ]
   ]
 ]
