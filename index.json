@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2023-11-10, 14:30:22",
+      "https://lobste.rs/s/qaizef/understanding_linux_cp_command"
+    ],
+    [
+      "Understanding Linux cp Command and Implementing in Python",
+      "https://muhammadraza.me/2023/linux-cp/"
+    ]
+  ],
+  [
+    [
       "2023-11-10, 14:21:44",
       "https://lobste.rs/s/lgirb9/we_used_build_steel_mills_near_cheap_power"
     ],
@@ -217,16 +227,6 @@
     [
       "Monaspace",
       "https://monaspace.githubnext.com/"
-    ]
-  ],
-  [
-    [
-      "2023-11-09, 21:15:34",
-      "https://lobste.rs/s/wxmavm/python_errors_as_values_comparing_useful"
-    ],
-    [
-      "Python errors as values: Comparing useful patterns from Go and Rust",
-      "https://www.inngest.com/blog/python-errors-as-values"
     ]
   ],
   [
