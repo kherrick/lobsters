@@ -10,6 +10,7 @@
 * [2023-11-10, 19:36:48](https://lobste.rs/s/gmvv5v/tinkerer_s_sunset_dive_into_mark_2010) - [Tinkerer’s Sunset [dive into mark] (2010)](https://web.archive.org/web/20100201013128/http://diveintomark.org/archives/2010/01/29/tinkerers-sunset)
 * [2023-11-10, 19:13:43](https://lobste.rs/s/dezuac/marimo_next_generation_python_notebook) - [Marimo: next-generation Python notebook](https://marimo.io/)
 * [2023-11-10, 17:25:34](https://lobste.rs/s/qjr0sy/retrieval_augmented_generation_go) - [Retrieval Augmented Generation in Go](https://eli.thegreenplace.net/2023/retrieval-augmented-generation-in-go/)
+* [2023-11-10, 14:30:22](https://lobste.rs/s/qaizef/understanding_linux_cp_command) - [Understanding Linux cp Command and Implementing in Python](https://muhammadraza.me/2023/linux-cp/)
 * [2023-11-10, 14:21:44](https://lobste.rs/s/lgirb9/we_used_build_steel_mills_near_cheap_power) - [We used to build steel mills near cheap power. Now that's where we build datacenters](https://danluu.com/datacenter-power/)
 * [2023-11-10, 13:37:36](https://lobste.rs/s/7wbwab/useless_ruby_sugar_keyword_argument_hash) - [“Useless Ruby sugar”: Keyword argument and hash values omission](https://zverok.space/blog/2023-11-10-syntax-sugar3-hash-values-omission.html)
 * [2023-11-10, 12:59:54](https://lobste.rs/s/rrmjoi/slint_1_3_released_with_revamped_native) - [Slint 1.3 Released with Revamped Native Styles and JavaScript API](https://slint.dev/blog/slint-1.3-released)
@@ -22,7 +23,6 @@
 * [2023-11-10, 00:05:43](https://lobste.rs/s/zffdtw/typing_fast_is_about_latency_not) - [Typing Fast Is About Latency, Not Throughput](https://two-wrongs.com/typing-fast-is-about-latency-not-throughput)
 * [2023-11-09, 21:46:46](https://lobste.rs/s/s4mdxb/realtime_github) - [Realtime GitHub](https://githubnext.com/projects/rtgh/)
 * [2023-11-09, 21:44:04](https://lobste.rs/s/xyeqmu/monaspace) - [Monaspace](https://monaspace.githubnext.com/)
-* [2023-11-09, 21:15:34](https://lobste.rs/s/wxmavm/python_errors_as_values_comparing_useful) - [Python errors as values: Comparing useful patterns from Go and Rust](https://www.inngest.com/blog/python-errors-as-values)
 * [2023-11-09, 19:28:08](https://lobste.rs/s/higefg/going_up_color_bit_depth) - [Going up in color bit depth](https://30fps.net/pages/bit-depths/)
 * [2023-11-09, 16:44:33](https://lobste.rs/s/gp9scd/faster_compilation_with_parallel_front) - [Faster compilation with the parallel front-end in nightly](https://blog.rust-lang.org/2023/11/09/parallel-rustc.html)
 
