@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-11, 18:17:46",
+      "https://lobste.rs/s/mqhxkp/using_markov_chain_generate_readable"
+    ],
+    [
+      "Using a Markov chain to generate readable nonsense with 20 lines of Python",
+      "https://benhoyt.com/writings/markov-chain/"
+    ]
+  ],
+  [
+    [
       "2023-11-11, 17:36:50",
       "https://lobste.rs/s/tfuufl/quick_look_at_destination_driven_code"
     ],
@@ -197,16 +207,6 @@
     [
       "Cursorless is alien magic from the future",
       "https://xeiaso.net//notes/cursorless-alien-magic/"
-    ]
-  ],
-  [
-    [
-      "2023-11-10, 00:05:43",
-      "https://lobste.rs/s/zffdtw/typing_fast_is_about_latency_not"
-    ],
-    [
-      "Typing Fast Is About Latency, Not Throughput",
-      "https://two-wrongs.com/typing-fast-is-about-latency-not-throughput"
     ]
   ],
   [
