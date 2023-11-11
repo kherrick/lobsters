@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-11, 07:31:56](https://lobste.rs/s/p8uztq/rfc_9420_messaging_layer_security) - [RFC 9420 – A Messaging Layer Security Overview](https://www.thestack.technology/rfc9420-ietf-mls-standard/)
 * [2023-11-11, 05:28:59](https://lobste.rs/s/k8m2tb/kye_for_c64_2022) - [Kye for C64 (2022)](https://cobbpg.itch.io/kye-c64)
 * [2023-11-11, 00:25:50](https://lobste.rs/s/y7i1it/speeding_up_tailwind_css) - [Speeding up Tailwind CSS](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-8/)
 * [2023-11-10, 22:46:22](https://lobste.rs/s/898wqa/nix_my_workflow) - [Nix: my workflow](https://bmcgee.ie/posts/2023/11/nix-my-workflow/)
@@ -16,7 +17,6 @@
 * [2023-11-10, 11:44:54](https://lobste.rs/s/t6yfvv/from_vector_spaces_periodic_functions) - [From Vector Spaces to Periodic Functions](https://susam.net/blog/from-vector-spaces-to-periodic-functions.html)
 * [2023-11-10, 11:31:37](https://lobste.rs/s/ecg9xc/pyonji_easy_use_tool_send_e_mail_patches) - [pyonji: An easy-to-use tool to send e-mail patches](https://sr.ht/~emersion/pyonji/)
 * [2023-11-10, 11:08:43](https://lobste.rs/s/qxft9n/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qxft9n/what_are_you_doing_this_weekend)
-* [2023-11-10, 07:09:14](https://lobste.rs/s/qlnw7i/web_navigation_demystified_what_happens) - [Web Navigation Demystified: What Happens When You Enter a URL into a Browser](https://medium.com/@atakanserbes/web-navigation-demystified-what-happens-when-you-enter-a-url-into-a-browser-39d8f2043b19?source=friends_link)
 * [2023-11-10, 03:53:39](https://lobste.rs/s/wyjy5z/cursorless_is_alien_magic_from_future) - [Cursorless is alien magic from the future](https://xeiaso.net//notes/cursorless-alien-magic/)
 * [2023-11-10, 02:31:34](https://lobste.rs/s/znsdyt/c_pitfall_shared_future) - [C++ Pitfall : shared_future](https://sheep.horse/2023/11/c++_pitfall_-_shared_future.html)
 * [2023-11-10, 00:05:43](https://lobste.rs/s/zffdtw/typing_fast_is_about_latency_not) - [Typing Fast Is About Latency, Not Throughput](https://two-wrongs.com/typing-fast-is-about-latency-not-throughput)
