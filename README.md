@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-11-11, 13:40:06](https://lobste.rs/s/1yhp8o/browser_debugging_tricks) - [Browser Debugging Tricks](https://alan.norbauer.com/articles/browser-debugging-tricks)
-* [2023-11-11, 10:48:15](https://lobste.rs/s/yne5kz/ntfs_really_isn_t_bad_robert_collins_lca) - [\"NTFS really isn't that bad\" - Robert Collins (LCA 2020)](https://www.youtube.com/watch?v=qbKGw8MQ0i8)
+* [2023-11-11, 10:48:15](https://lobste.rs/s/yne5kz/ntfs_really_isn_t_bad_2020) - [NTFS really isn't that bad (2020)](https://www.youtube.com/watch?v=qbKGw8MQ0i8)
 * [2023-11-11, 10:26:21](https://lobste.rs/s/kpi1dq/tryquiet_our_mission) - [TryQuiet: Our Mission](https://github.com/TryQuiet/quiet#our-mission)
 * [2023-11-11, 09:50:15](https://lobste.rs/s/jtmqx8/my_django_active_developers_sprints) - [My Django active developers Sprints proposal](https://www.paulox.net/2022/10/26/my-django-active-developers-sprints-proposal/)
 * [2023-11-11, 07:31:56](https://lobste.rs/s/p8uztq/rfc_9420_messaging_layer_security) - [RFC 9420 – A Messaging Layer Security Overview](https://www.thestack.technology/rfc9420-ietf-mls-standard/)
@@ -11,7 +11,7 @@
 * [2023-11-10, 22:31:44](https://lobste.rs/s/l1roef/fourteen_years_go) - [Fourteen Years of Go](https://go.dev/blog/14years)
 * [2023-11-10, 22:28:57](https://lobste.rs/s/ivefzn/eurollvm_dev_mtg_llvm_mos_6502_backend) - [EuroLLVM Dev Mtg “LLVM-MOS 6502 Backend: Having a Blast in the Past” (2022)](https://www.youtube.com/watch?v=2lW3WHPtmKo)
 * [2023-11-10, 22:20:51](https://lobste.rs/s/uisr73/fx_31_0_0_release) - [Fx 31.0.0 release](https://github.com/antonmedv/fx/releases/tag/31.0.0)
-* [2023-11-10, 19:36:48](https://lobste.rs/s/gmvv5v/tinkerer_s_sunset_dive_into_mark_2010) - [Tinkerer’s Sunset [dive into mark] (2010)](https://web.archive.org/web/20100201013128/http://diveintomark.org/archives/2010/01/29/tinkerers-sunset)
+* [2023-11-10, 19:36:48](https://lobste.rs/s/gmvv5v/tinkerer_s_sunset_2010) - [Tinkerer’s Sunset (2010)](https://web.archive.org/web/20100201013128/http://diveintomark.org/archives/2010/01/29/tinkerers-sunset)
 * [2023-11-10, 19:13:43](https://lobste.rs/s/dezuac/marimo_next_generation_python_notebook) - [Marimo: next-generation Python notebook](https://marimo.io/)
 * [2023-11-10, 14:21:44](https://lobste.rs/s/lgirb9/we_used_build_steel_mills_near_cheap_power) - [We used to build steel mills near cheap power. Now that's where we build datacenters (2015)](https://danluu.com/datacenter-power/)
 * [2023-11-10, 13:37:36](https://lobste.rs/s/7wbwab/useless_ruby_sugar_keyword_argument_hash) - [“Useless Ruby sugar”: Keyword argument and hash values omission](https://zverok.space/blog/2023-11-10-syntax-sugar3-hash-values-omission.html)
