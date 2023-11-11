@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-11-10, 21:01:02",
-      "https://lobste.rs/s/vitkfd/google_cloud_demonstrates_world_s"
-    ],
-    [
-      "Google Cloud demonstrates the world’s largest distributed training job for large language models",
-      "https://cloud.google.com/blog/products/compute/the-worlds-largest-distributed-llm-training-job-on-tpu-v5e"
-    ]
-  ],
-  [
-    [
       "2023-11-10, 19:36:48",
       "https://lobste.rs/s/gmvv5v/tinkerer_s_sunset_dive_into_mark_2010"
     ],
@@ -137,6 +127,16 @@
     [
       "From Vector Spaces to Periodic Functions",
       "https://susam.net/blog/from-vector-spaces-to-periodic-functions.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-10, 11:31:37",
+      "https://lobste.rs/s/ecg9xc/pyonji_easy_use_tool_send_e_mail_patches"
+    ],
+    [
+      "pyonji: An easy-to-use tool to send e-mail patches",
+      "https://sr.ht/~emersion/pyonji/"
     ]
   ],
   [
