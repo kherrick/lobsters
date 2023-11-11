@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-11, 19:22:09](https://lobste.rs/s/kpcdzf/luajit_internals_intro) - [LuaJIT Internals: Intro](https://0xbigshaq.github.io/2022/08/22/lua-jit-intro/)
 * [2023-11-11, 18:17:46](https://lobste.rs/s/mqhxkp/using_markov_chain_generate_readable) - [Using a Markov chain to generate readable nonsense with 20 lines of Python](https://benhoyt.com/writings/markov-chain/)
 * [2023-11-11, 17:36:50](https://lobste.rs/s/tfuufl/quick_look_at_destination_driven_code) - [A quick look at destination-driven code generation](https://bernsteinbear.com/blog/ddcg/)
 * [2023-11-11, 13:40:06](https://lobste.rs/s/1yhp8o/browser_debugging_tricks) - [Browser Debugging Tricks](https://alan.norbauer.com/articles/browser-debugging-tricks)
@@ -12,7 +13,6 @@
 * [2023-11-10, 22:46:22](https://lobste.rs/s/898wqa/nix_my_workflow) - [Nix: my workflow](https://bmcgee.ie/posts/2023/11/nix-my-workflow/)
 * [2023-11-10, 22:31:44](https://lobste.rs/s/l1roef/fourteen_years_go) - [Fourteen Years of Go](https://go.dev/blog/14years)
 * [2023-11-10, 22:20:51](https://lobste.rs/s/uisr73/fx_31_0_0_release) - [Fx 31.0.0 release](https://github.com/antonmedv/fx/releases/tag/31.0.0)
-* [2023-11-10, 19:36:48](https://lobste.rs/s/gmvv5v/tinkerer_s_sunset_2010) - [Tinkerer’s Sunset (2010)](https://web.archive.org/web/20100201013128/http://diveintomark.org/archives/2010/01/29/tinkerers-sunset)
 * [2023-11-10, 19:13:43](https://lobste.rs/s/dezuac/marimo_next_generation_python_notebook) - [Marimo: next-generation Python notebook](https://marimo.io/)
 * [2023-11-10, 14:21:44](https://lobste.rs/s/lgirb9/we_used_build_steel_mills_near_cheap_power) - [We used to build steel mills near cheap power. Now that's where we build datacenters (2015)](https://danluu.com/datacenter-power/)
 * [2023-11-10, 13:37:36](https://lobste.rs/s/7wbwab/useless_ruby_sugar_keyword_argument_hash) - [“Useless Ruby sugar”: Keyword argument and hash values omission](https://zverok.space/blog/2023-11-10-syntax-sugar3-hash-values-omission.html)
