@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-11, 10:48:15",
+      "https://lobste.rs/s/yne5kz/ntfs_really_isn_t_bad_robert_collins_lca"
+    ],
+    [
+      "\"NTFS really isn't that bad\" - Robert Collins (LCA 2020)",
+      "https://www.youtube.com/watch?v=qbKGw8MQ0i8"
+    ]
+  ],
+  [
+    [
       "2023-11-11, 10:26:21",
       "https://lobste.rs/s/kpi1dq/tryquiet_our_mission"
     ],
@@ -107,16 +117,6 @@
     [
       "Retrieval Augmented Generation in Go",
       "https://eli.thegreenplace.net/2023/retrieval-augmented-generation-in-go/"
-    ]
-  ],
-  [
-    [
-      "2023-11-10, 14:30:22",
-      "https://lobste.rs/s/qaizef/understanding_linux_cp_command"
-    ],
-    [
-      "Understanding Linux cp Command and Implementing in Python",
-      "https://muhammadraza.me/2023/linux-cp/"
     ]
   ],
   [
