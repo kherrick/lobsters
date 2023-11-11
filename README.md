@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-11, 18:17:46](https://lobste.rs/s/mqhxkp/using_markov_chain_generate_readable) - [Using a Markov chain to generate readable nonsense with 20 lines of Python](https://benhoyt.com/writings/markov-chain/)
 * [2023-11-11, 17:36:50](https://lobste.rs/s/tfuufl/quick_look_at_destination_driven_code) - [A quick look at destination-driven code generation](https://bernsteinbear.com/blog/ddcg/)
 * [2023-11-11, 13:40:06](https://lobste.rs/s/1yhp8o/browser_debugging_tricks) - [Browser Debugging Tricks](https://alan.norbauer.com/articles/browser-debugging-tricks)
 * [2023-11-11, 10:48:15](https://lobste.rs/s/yne5kz/ntfs_really_isn_t_bad_2020) - [NTFS really isn't that bad (2020)](https://www.youtube.com/watch?v=qbKGw8MQ0i8)
@@ -20,7 +21,6 @@
 * [2023-11-10, 11:44:54](https://lobste.rs/s/t6yfvv/from_vector_spaces_periodic_functions) - [From Vector Spaces to Periodic Functions](https://susam.net/blog/from-vector-spaces-to-periodic-functions.html)
 * [2023-11-10, 11:08:43](https://lobste.rs/s/qxft9n/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qxft9n/what_are_you_doing_this_weekend)
 * [2023-11-10, 03:53:39](https://lobste.rs/s/wyjy5z/cursorless_is_alien_magic_from_future) - [Cursorless is alien magic from the future](https://xeiaso.net//notes/cursorless-alien-magic/)
-* [2023-11-10, 00:05:43](https://lobste.rs/s/zffdtw/typing_fast_is_about_latency_not) - [Typing Fast Is About Latency, Not Throughput](https://two-wrongs.com/typing-fast-is-about-latency-not-throughput)
 * [2023-11-09, 21:46:46](https://lobste.rs/s/s4mdxb/realtime_github) - [Realtime GitHub](https://githubnext.com/projects/rtgh/)
 * [2023-11-09, 21:44:04](https://lobste.rs/s/xyeqmu/monaspace) - [Monaspace](https://monaspace.githubnext.com/)
 * [2023-11-09, 19:28:08](https://lobste.rs/s/higefg/going_up_color_bit_depth) - [Going up in color bit depth](https://30fps.net/pages/bit-depths/)

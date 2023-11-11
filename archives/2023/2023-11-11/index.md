@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-11](index.md)
 
+* [2023-11-11, 18:17:46](https://lobste.rs/s/mqhxkp/using_markov_chain_generate_readable) - [Using a Markov chain to generate readable nonsense with 20 lines of Python](https://benhoyt.com/writings/markov-chain/)
 * [2023-11-11, 17:36:50](https://lobste.rs/s/tfuufl/quick_look_at_destination_driven_code) - [A quick look at destination-driven code generation](https://bernsteinbear.com/blog/ddcg/)
 * [2023-11-11, 13:40:06](https://lobste.rs/s/1yhp8o/browser_debugging_tricks) - [Browser Debugging Tricks](https://alan.norbauer.com/articles/browser-debugging-tricks)
 * [2023-11-11, 10:48:15](https://lobste.rs/s/yne5kz/ntfs_really_isn_t_bad_robert_collins_lca) - [\"NTFS really isn't that bad\" - Robert Collins (LCA 2020)](https://www.youtube.com/watch?v=qbKGw8MQ0i8)
