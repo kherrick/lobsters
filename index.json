@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-11, 20:41:27",
+      "https://lobste.rs/s/g6iutj/spitbol_360_implementation_snobol4_for"
+    ],
+    [
+      "SPITBOL 360: an implementation of SNOBOL4 for IBM 360 compatible computers",
+      "https://github.com/spitbol/360"
+    ]
+  ],
+  [
+    [
       "2023-11-11, 19:22:09",
       "https://lobste.rs/s/kpcdzf/luajit_internals_intro"
     ],
@@ -47,16 +57,6 @@
     [
       "NTFS really isn't that bad (2020)",
       "https://www.youtube.com/watch?v=qbKGw8MQ0i8"
-    ]
-  ],
-  [
-    [
-      "2023-11-11, 10:26:21",
-      "https://lobste.rs/s/kpi1dq/tryquiet_our_mission"
-    ],
-    [
-      "TryQuiet: Our Mission",
-      "https://github.com/TryQuiet/quiet#our-mission"
     ]
   ],
   [
