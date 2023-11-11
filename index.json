@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-11, 05:28:59",
+      "https://lobste.rs/s/k8m2tb/kye_for_c64_2022"
+    ],
+    [
+      "Kye for C64 (2022)",
+      "https://cobbpg.itch.io/kye-c64"
+    ]
+  ],
+  [
+    [
       "2023-11-11, 00:25:50",
       "https://lobste.rs/s/y7i1it/speeding_up_tailwind_css"
     ],
@@ -237,16 +247,6 @@
     [
       "Faster compilation with the parallel front-end in nightly",
       "https://blog.rust-lang.org/2023/11/09/parallel-rustc.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-09, 12:35:23",
-      "https://lobste.rs/s/roqgoz/zfs_raidz_expansion_merged"
-    ],
-    [
-      "ZFS: Raidz expansion merged",
-      "https://github.com/openzfs/zfs/pull/15022"
     ]
   ]
 ]
