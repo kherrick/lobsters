@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-11-11](index.md)
+
+* [2023-11-11, 00:25:50](https://lobste.rs/s/y7i1it/speeding_up_tailwind_css) - [Speeding up Tailwind CSS](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-8/)
