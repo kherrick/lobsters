@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-12, 15:19:38",
+      "https://lobste.rs/s/fxd9ti/pep_733_evaluation_python_s_public_c_api"
+    ],
+    [
+      "PEP 733 – An Evaluation of Python’s Public C API",
+      "https://peps.python.org/pep-0733/"
+    ]
+  ],
+  [
+    [
       "2023-11-12, 14:57:42",
       "https://lobste.rs/s/1eaqaf/little_taste_htmx_part_5_5"
     ],
@@ -207,16 +217,6 @@
     [
       "NTFS really isn't that bad (2020)",
       "https://www.youtube.com/watch?v=qbKGw8MQ0i8"
-    ]
-  ],
-  [
-    [
-      "2023-11-11, 07:31:56",
-      "https://lobste.rs/s/p8uztq/rfc_9420_messaging_layer_security"
-    ],
-    [
-      "RFC 9420 – A Messaging Layer Security Overview",
-      "https://www.thestack.technology/rfc9420-ietf-mls-standard/"
     ]
   ],
   [
