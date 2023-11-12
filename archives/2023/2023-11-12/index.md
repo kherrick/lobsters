@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
+* [2023-11-12, 17:48:33](https://lobste.rs/s/avl83j/html_first) - [HTML First](https://html-first.com/)
 * [2023-11-12, 17:13:07](https://lobste.rs/s/cnkv04/how_much_make_calculator_help_you_reach) - [How Much to Make – a calculator to help you reach your financial goals](https://www.howmuchtomake.org/)
 * [2023-11-12, 17:01:43](https://lobste.rs/s/htxvdl/effective_rust) - [Effective Rust](https://effective-rust.com/cover.html)
 * [2023-11-12, 16:39:22](https://lobste.rs/s/axwcz4/speaker_support_asahi_linux) - [Speaker support in Asahi Linux](https://github.com/AsahiLinux/docs/wiki/SW:Speakers)
