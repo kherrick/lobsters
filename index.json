@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2023-11-11, 23:36:50",
-      "https://lobste.rs/s/tc1tqh/experiment_with_texture_healing"
-    ],
-    [
-      "experiment with texture healing (monospace kerning)",
-      "https://flak.tedunangst.com/post/experiment-with-texture-healing-monospace-kerning"
-    ]
-  ],
-  [
-    [
       "2023-11-11, 22:46:46",
       "https://lobste.rs/s/zsvbl0/new_sokol_gfx_webgpu_backend"
     ],
@@ -227,6 +217,16 @@
     [
       "NTFS really isn't that bad (2020)",
       "https://www.youtube.com/watch?v=qbKGw8MQ0i8"
+    ]
+  ],
+  [
+    [
+      "2023-11-11, 07:31:56",
+      "https://lobste.rs/s/p8uztq/rfc_9420_messaging_layer_security"
+    ],
+    [
+      "RFC 9420 – A Messaging Layer Security Overview",
+      "https://www.thestack.technology/rfc9420-ietf-mls-standard/"
     ]
   ],
   [
