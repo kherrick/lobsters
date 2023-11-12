@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-12, 21:53:23",
+      "https://lobste.rs/s/v1yooo/proposal_html_element_for_spoilers"
+    ],
+    [
+      "Proposal: an HTML element for spoilers",
+      "https://seirdy.one/posts/2023/11/12/spoiler-element/"
+    ]
+  ],
+  [
+    [
       "2023-11-12, 20:45:09",
       "https://lobste.rs/s/ptvlc1/geodesk_for_python_analyze_visualize"
     ],
@@ -217,16 +227,6 @@
     [
       "Cyber hunt - A technical adventure for Unix enthusiasts",
       "https://cyb.farm"
-    ]
-  ],
-  [
-    [
-      "2023-11-11, 19:22:09",
-      "https://lobste.rs/s/kpcdzf/luajit_internals_intro"
-    ],
-    [
-      "LuaJIT Internals: Intro",
-      "https://0xbigshaq.github.io/2022/08/22/lua-jit-intro/"
     ]
   ],
   [
