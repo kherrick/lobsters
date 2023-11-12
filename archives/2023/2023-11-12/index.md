@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
+* [2023-11-12, 21:53:23](https://lobste.rs/s/v1yooo/proposal_html_element_for_spoilers) - [Proposal: an HTML element for spoilers](https://seirdy.one/posts/2023/11/12/spoiler-element/)
 * [2023-11-12, 20:45:09](https://lobste.rs/s/ptvlc1/geodesk_for_python_analyze_visualize) - [GeoDesk for Python: Analyze & Visualize OpenStreetMap Data](https://community.openstreetmap.org/t/geodesk-for-python-analyze-visualize-openstreetmap-data/105503)
 * [2023-11-12, 20:38:20](https://lobste.rs/s/deqkjk/superbol_studio_oss_cobol_lsp_vscode) - [superbol-studio-oss: Cobol LSP, VSCode extension & Emacs mode](https://github.com/OCamlPro/superbol-studio-oss)
 * [2023-11-12, 20:19:11](https://lobste.rs/s/rbnnt9/stop_deploying_web_application) - [Stop deploying web application firewalls](https://www.macchaffee.com/blog/2023/wafs/)
