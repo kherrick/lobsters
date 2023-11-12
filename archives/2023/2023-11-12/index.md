@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
 * [2023-11-12, 15:42:09](https://lobste.rs/s/qfrtcf/phoronix_acknowledges_its_bcachefs) - [Phoronix acknowledges its bcachefs benchmark fiasco: they didn't disable debug option](https://www.phoronix.com/news/Bcachefs-Updated-Linux-6.7)
+* [2023-11-12, 15:42:09](https://lobste.rs/s/qfrtcf/bcachefs_lands_big_scalability) - [Bcachefs Lands Big Scalability Improvement, Disables Debug Option By Default](https://www.phoronix.com/news/Bcachefs-Updated-Linux-6.7)
 * [2023-11-12, 15:19:38](https://lobste.rs/s/fxd9ti/pep_733_evaluation_python_s_public_c_api) - [PEP 733 – An Evaluation of Python’s Public C API](https://peps.python.org/pep-0733/)
 * [2023-11-12, 14:57:42](https://lobste.rs/s/1eaqaf/little_taste_htmx_part_5_5) - [A little taste of HTMX (part 5/5)](https://www.bitecode.dev/p/a-little-taste-of-htmx-part-55)
 * [2023-11-12, 13:05:29](https://lobste.rs/s/sjqh3w/trip_report_autumn_iso_c_standards) - [Trip report: Autumn ISO C++ standards meeting (Kona, HI, USA)](https://herbsutter.com/2023/11/11/trip-report-autumn-iso-c-standards-meeting-kona-hi-usa/)
