@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-12, 16:39:22](https://lobste.rs/s/axwcz4/speaker_support_asahi_linux) - [Speaker support in Asahi Linux](https://github.com/AsahiLinux/docs/wiki/SW:Speakers)
 * [2023-11-12, 16:36:33](https://lobste.rs/s/fjezfj/ubuntu_core_linux_developer_preview_is) - [Ubuntu Core Linux Developer Preview is ready for testing](https://www.zdnet.com/article/ubuntu-core-desktop-a-new-take-on-the-ubuntu-linux-desktop/)
 * [2023-11-12, 15:42:09](https://lobste.rs/s/qfrtcf/bcachefs_lands_big_scalability) - [Bcachefs Lands Big Scalability Improvement, Disables Debug Option By Default](https://www.phoronix.com/news/Bcachefs-Updated-Linux-6.7)
 * [2023-11-12, 15:19:38](https://lobste.rs/s/fxd9ti/pep_733_evaluation_python_s_public_c_api) - [PEP 733 – An Evaluation of Python’s Public C API](https://peps.python.org/pep-0733/)
@@ -24,7 +25,6 @@
 * [2023-11-11, 13:40:06](https://lobste.rs/s/1yhp8o/browser_debugging_tricks) - [Browser Debugging Tricks](https://alan.norbauer.com/articles/browser-debugging-tricks)
 * [2023-11-11, 10:48:15](https://lobste.rs/s/yne5kz/ntfs_really_isn_t_bad_2020) - [NTFS really isn't that bad (2020)](https://www.youtube.com/watch?v=qbKGw8MQ0i8)
 * [2023-11-10, 22:46:22](https://lobste.rs/s/898wqa/nix_my_workflow) - [Nix: my workflow](https://bmcgee.ie/posts/2023/11/nix-my-workflow/)
-* [2023-11-10, 22:31:44](https://lobste.rs/s/l1roef/fourteen_years_go) - [Fourteen Years of Go](https://go.dev/blog/14years)
 
 ## [Archives](archives/index.md)
 
