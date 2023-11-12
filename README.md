@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-12, 20:38:20](https://lobste.rs/s/deqkjk/superbol_studio_oss_cobol_lsp_vscode) - [superbol-studio-oss: Cobol LSP, VSCode extension & Emacs mode](https://github.com/OCamlPro/superbol-studio-oss)
 * [2023-11-12, 20:19:11](https://lobste.rs/s/rbnnt9/stop_deploying_web_application) - [Stop deploying web application firewalls](https://www.macchaffee.com/blog/2023/wafs/)
 * [2023-11-12, 19:53:25](https://lobste.rs/s/9fkzz4/history_os_2) - [The History of OS/2](https://www.abortretry.fail/p/the-history-of-os2)
 * [2023-11-12, 19:05:23](https://lobste.rs/s/9wclxt/using_mastodon_as_rss_feed_reader) - [Using Mastodon as a RSS Feed Reader](https://www.bentasker.co.uk/posts/blog/general/using-mastodon-to-improve-my-rss-feed-consumption.html)
@@ -20,7 +21,6 @@
 * [2023-11-12, 07:06:56](https://lobste.rs/s/5hpbnb/apple_network_server_s_all_too_secret) - [The Apple Network Server's all-too-secret weapon (featuring PPC Toolbox)](https://oldvcr.blogspot.com/2023/11/the-apple-network-servers-all-too.html)
 * [2023-11-12, 05:52:31](https://lobste.rs/s/hhfiyd/overview_nix_practice) - [An overview of Nix in practice](https://www.slice.zone/blog/nix-in-practice)
 * [2023-11-12, 05:14:38](https://lobste.rs/s/pknhrr/go_modules_domain_expiry_problem) - [Go modules and the domain expiry problem](https://utcc.utoronto.ca/~cks/space/blog/programming/GoModulesAndDomainExpiry)
-* [2023-11-12, 01:05:52](https://lobste.rs/s/suxcxu/risc_v_board_directors_decision) - [RISC-V Board of Directors decision regarding RVA profiles and the Compressed extension](https://lists.riscv.org/g/tech-profiles/topic/rvi_bod_decision_regarding/102522954)
 * [2023-11-11, 21:35:31](https://lobste.rs/s/kdesnh/cyber_hunt_technical_adventure_for_unix) - [Cyber hunt - A technical adventure for Unix enthusiasts](https://cyb.farm)
 * [2023-11-11, 19:22:09](https://lobste.rs/s/kpcdzf/luajit_internals_intro) - [LuaJIT Internals: Intro](https://0xbigshaq.github.io/2022/08/22/lua-jit-intro/)
 * [2023-11-11, 18:17:46](https://lobste.rs/s/mqhxkp/using_markov_chain_generate_readable) - [Using a Markov chain to generate readable nonsense with 20 lines of Python](https://benhoyt.com/writings/markov-chain/)
