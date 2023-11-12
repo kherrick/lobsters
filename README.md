@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-12, 02:31:06](https://lobste.rs/s/bykt4i/level_up_your_python) - [Level Up Your Python](https://henryiii.github.io/level-up-your-python/notebooks/0%20Intro.html)
 * [2023-11-12, 01:05:52](https://lobste.rs/s/suxcxu/risc_v_board_directors_decision) - [RISC-V Board of Directors decision regarding RVA profiles and the Compressed extension](https://lists.riscv.org/g/tech-profiles/topic/rvi_bod_decision_regarding/102522954)
 * [2023-11-11, 23:36:50](https://lobste.rs/s/tc1tqh/experiment_with_texture_healing) - [experiment with texture healing (monospace kerning)](https://flak.tedunangst.com/post/experiment-with-texture-healing-monospace-kerning)
 * [2023-11-11, 22:46:46](https://lobste.rs/s/zsvbl0/new_sokol_gfx_webgpu_backend) - [The new sokol-gfx WebGPU backend](https://floooh.github.io/2023/10/16/sokol-webgpu.html)
@@ -23,7 +24,6 @@
 * [2023-11-10, 11:47:40](https://lobste.rs/s/omppwk/write_your_own_terminal) - [write your own terminal](https://flak.tedunangst.com/post/write-your-own-terminal)
 * [2023-11-10, 11:44:54](https://lobste.rs/s/t6yfvv/from_vector_spaces_periodic_functions) - [From Vector Spaces to Periodic Functions](https://susam.net/blog/from-vector-spaces-to-periodic-functions.html)
 * [2023-11-10, 03:53:39](https://lobste.rs/s/wyjy5z/cursorless_is_alien_magic_from_future) - [Cursorless is alien magic from the future](https://xeiaso.net//notes/cursorless-alien-magic/)
-* [2023-11-09, 21:46:46](https://lobste.rs/s/s4mdxb/realtime_github) - [Realtime GitHub](https://githubnext.com/projects/rtgh/)
 * [2023-11-09, 21:44:04](https://lobste.rs/s/xyeqmu/monaspace) - [Monaspace](https://monaspace.githubnext.com/)
 
 ## [Archives](archives/index.md)
