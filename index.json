@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-12, 10:53:41",
+      "https://lobste.rs/s/rvszng/using_ninja_build_system_generate_this"
+    ],
+    [
+      "Using the Ninja build system to generate this site",
+      "https://lu.sagebl.eu/notes/site-generator-ninja/"
+    ]
+  ],
+  [
+    [
       "2023-11-12, 09:12:08",
       "https://lobste.rs/s/wlan3i/github_actions_are_problem"
     ],
@@ -217,16 +227,6 @@
     [
       "Marimo: next-generation Python notebook",
       "https://marimo.io/"
-    ]
-  ],
-  [
-    [
-      "2023-11-10, 14:21:44",
-      "https://lobste.rs/s/lgirb9/we_used_build_steel_mills_near_cheap_power"
-    ],
-    [
-      "We used to build steel mills near cheap power. Now that's where we build datacenters (2015)",
-      "https://danluu.com/datacenter-power/"
     ]
   ],
   [
