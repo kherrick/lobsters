@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-12, 20:38:20",
+      "https://lobste.rs/s/deqkjk/superbol_studio_oss_cobol_lsp_vscode"
+    ],
+    [
+      "superbol-studio-oss: Cobol LSP, VSCode extension & Emacs mode",
+      "https://github.com/OCamlPro/superbol-studio-oss"
+    ]
+  ],
+  [
+    [
       "2023-11-12, 20:19:11",
       "https://lobste.rs/s/rbnnt9/stop_deploying_web_application"
     ],
@@ -197,16 +207,6 @@
     [
       "Go modules and the domain expiry problem",
       "https://utcc.utoronto.ca/~cks/space/blog/programming/GoModulesAndDomainExpiry"
-    ]
-  ],
-  [
-    [
-      "2023-11-12, 01:05:52",
-      "https://lobste.rs/s/suxcxu/risc_v_board_directors_decision"
-    ],
-    [
-      "RISC-V Board of Directors decision regarding RVA profiles and the Compressed extension",
-      "https://lists.riscv.org/g/tech-profiles/topic/rvi_bod_decision_regarding/102522954"
     ]
   ],
   [
