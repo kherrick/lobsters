@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
+* [2023-11-12, 17:01:43](https://lobste.rs/s/htxvdl/effective_rust) - [Effective Rust](https://effective-rust.com/cover.html)
 * [2023-11-12, 16:39:22](https://lobste.rs/s/axwcz4/speaker_support_asahi_linux) - [Speaker support in Asahi Linux](https://github.com/AsahiLinux/docs/wiki/SW:Speakers)
 * [2023-11-12, 16:36:33](https://lobste.rs/s/fjezfj/ubuntu_core_linux_developer_preview_is) - [Ubuntu Core Linux Developer Preview is ready for testing](https://www.zdnet.com/article/ubuntu-core-desktop-a-new-take-on-the-ubuntu-linux-desktop/)
 * [2023-11-12, 15:42:09](https://lobste.rs/s/qfrtcf/phoronix_acknowledges_its_bcachefs) - [Phoronix acknowledges its bcachefs benchmark fiasco: they didn't disable debug option](https://www.phoronix.com/news/Bcachefs-Updated-Linux-6.7)
