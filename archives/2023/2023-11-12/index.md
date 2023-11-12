@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
+* [2023-11-12, 13:05:29](https://lobste.rs/s/sjqh3w/trip_report_autumn_iso_c_standards) - [Trip report: Autumn ISO C++ standards meeting (Kona, HI, USA)](https://herbsutter.com/2023/11/11/trip-report-autumn-iso-c-standards-meeting-kona-hi-usa/)
 * [2023-11-12, 11:40:19](https://lobste.rs/s/eat48g/archive_your_old_projects) - [Archive Your Old Projects](https://arne.me/articles/archive-your-old-projects)
 * [2023-11-12, 11:33:00](https://lobste.rs/s/tqneyx/announcing_netbsd_10_0_rc1) - [Announcing NetBSD 10.0 RC1](https://netbsd.org/releases/formal-10/NetBSD-10.0.html)
 * [2023-11-12, 10:53:41](https://lobste.rs/s/rvszng/using_ninja_build_system_generate_this) - [Using the Ninja build system to generate this site](https://lu.sagebl.eu/notes/site-generator-ninja/)

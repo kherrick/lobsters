@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-12, 13:05:29](https://lobste.rs/s/sjqh3w/trip_report_autumn_iso_c_standards) - [Trip report: Autumn ISO C++ standards meeting (Kona, HI, USA)](https://herbsutter.com/2023/11/11/trip-report-autumn-iso-c-standards-meeting-kona-hi-usa/)
 * [2023-11-12, 11:40:19](https://lobste.rs/s/eat48g/archive_your_old_projects) - [Archive Your Old Projects](https://arne.me/articles/archive-your-old-projects)
 * [2023-11-12, 11:33:00](https://lobste.rs/s/tqneyx/announcing_netbsd_10_0_rc1) - [Announcing NetBSD 10.0 RC1](https://netbsd.org/releases/formal-10/NetBSD-10.0.html)
 * [2023-11-12, 10:53:41](https://lobste.rs/s/rvszng/using_ninja_build_system_generate_this) - [Using the Ninja build system to generate this site](https://lu.sagebl.eu/notes/site-generator-ninja/)
@@ -23,7 +24,6 @@
 * [2023-11-11, 05:28:59](https://lobste.rs/s/k8m2tb/kye_for_c64_2022) - [Kye for C64 (2022)](https://cobbpg.itch.io/kye-c64)
 * [2023-11-10, 22:46:22](https://lobste.rs/s/898wqa/nix_my_workflow) - [Nix: my workflow](https://bmcgee.ie/posts/2023/11/nix-my-workflow/)
 * [2023-11-10, 22:31:44](https://lobste.rs/s/l1roef/fourteen_years_go) - [Fourteen Years of Go](https://go.dev/blog/14years)
-* [2023-11-10, 22:20:51](https://lobste.rs/s/uisr73/fx_31_0_0_release) - [Fx 31.0.0 release](https://github.com/antonmedv/fx/releases/tag/31.0.0)
 * [2023-11-10, 19:13:43](https://lobste.rs/s/dezuac/marimo_next_generation_python_notebook) - [Marimo: next-generation Python notebook](https://marimo.io/)
 
 ## [Archives](archives/index.md)
