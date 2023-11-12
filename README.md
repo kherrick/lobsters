@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-12, 17:13:07](https://lobste.rs/s/cnkv04/how_much_make_calculator_help_you_reach) - [How Much to Make – a calculator to help you reach your financial goals](https://www.howmuchtomake.org/)
 * [2023-11-12, 17:01:43](https://lobste.rs/s/htxvdl/effective_rust) - [Effective Rust](https://effective-rust.com/cover.html)
 * [2023-11-12, 16:39:22](https://lobste.rs/s/axwcz4/speaker_support_asahi_linux) - [Speaker support in Asahi Linux](https://github.com/AsahiLinux/docs/wiki/SW:Speakers)
 * [2023-11-12, 16:36:33](https://lobste.rs/s/fjezfj/ubuntu_core_linux_developer_preview_is) - [Ubuntu Core Linux Developer Preview is ready for testing](https://www.zdnet.com/article/ubuntu-core-desktop-a-new-take-on-the-ubuntu-linux-desktop/)
@@ -19,7 +20,6 @@
 * [2023-11-12, 01:05:52](https://lobste.rs/s/suxcxu/risc_v_board_directors_decision) - [RISC-V Board of Directors decision regarding RVA profiles and the Compressed extension](https://lists.riscv.org/g/tech-profiles/topic/rvi_bod_decision_regarding/102522954)
 * [2023-11-11, 22:46:46](https://lobste.rs/s/zsvbl0/new_sokol_gfx_webgpu_backend) - [The new sokol-gfx WebGPU backend](https://floooh.github.io/2023/10/16/sokol-webgpu.html)
 * [2023-11-11, 21:35:31](https://lobste.rs/s/kdesnh/cyber_hunt_technical_adventure_for_unix) - [Cyber hunt - A technical adventure for Unix enthusiasts](https://cyb.farm)
-* [2023-11-11, 20:41:27](https://lobste.rs/s/g6iutj/spitbol_360_implementation_snobol4_for) - [SPITBOL 360: an implementation of SNOBOL4 for IBM 360 compatible computers](https://github.com/spitbol/360)
 * [2023-11-11, 19:22:09](https://lobste.rs/s/kpcdzf/luajit_internals_intro) - [LuaJIT Internals: Intro](https://0xbigshaq.github.io/2022/08/22/lua-jit-intro/)
 * [2023-11-11, 18:17:46](https://lobste.rs/s/mqhxkp/using_markov_chain_generate_readable) - [Using a Markov chain to generate readable nonsense with 20 lines of Python](https://benhoyt.com/writings/markov-chain/)
 * [2023-11-11, 17:36:50](https://lobste.rs/s/tfuufl/quick_look_at_destination_driven_code) - [A quick look at destination-driven code generation](https://bernsteinbear.com/blog/ddcg/)
