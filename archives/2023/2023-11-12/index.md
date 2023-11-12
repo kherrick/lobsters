@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
+* [2023-11-12, 20:19:11](https://lobste.rs/s/rbnnt9/stop_deploying_web_application) - [Stop deploying web application firewalls](https://www.macchaffee.com/blog/2023/wafs/)
 * [2023-11-12, 19:53:25](https://lobste.rs/s/9fkzz4/history_os_2) - [The History of OS/2](https://www.abortretry.fail/p/the-history-of-os2)
 * [2023-11-12, 19:05:23](https://lobste.rs/s/9wclxt/using_mastodon_as_rss_feed_reader) - [Using Mastodon as a RSS Feed Reader](https://www.bentasker.co.uk/posts/blog/general/using-mastodon-to-improve-my-rss-feed-consumption.html)
 * [2023-11-12, 18:29:11](https://lobste.rs/s/m8uoz7/binkybox_improved_keyboard_shortcuts) - [BinkyBox: Improved keyboard shortcuts for virtual desktops on Windows](https://github.com/nadimkobeissi/binkybox)

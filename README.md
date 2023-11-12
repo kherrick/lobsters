@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-12, 20:19:11](https://lobste.rs/s/rbnnt9/stop_deploying_web_application) - [Stop deploying web application firewalls](https://www.macchaffee.com/blog/2023/wafs/)
 * [2023-11-12, 19:53:25](https://lobste.rs/s/9fkzz4/history_os_2) - [The History of OS/2](https://www.abortretry.fail/p/the-history-of-os2)
 * [2023-11-12, 19:05:23](https://lobste.rs/s/9wclxt/using_mastodon_as_rss_feed_reader) - [Using Mastodon as a RSS Feed Reader](https://www.bentasker.co.uk/posts/blog/general/using-mastodon-to-improve-my-rss-feed-consumption.html)
 * [2023-11-12, 18:29:11](https://lobste.rs/s/m8uoz7/binkybox_improved_keyboard_shortcuts) - [BinkyBox: Improved keyboard shortcuts for virtual desktops on Windows](https://github.com/nadimkobeissi/binkybox)
@@ -24,7 +25,6 @@
 * [2023-11-11, 19:22:09](https://lobste.rs/s/kpcdzf/luajit_internals_intro) - [LuaJIT Internals: Intro](https://0xbigshaq.github.io/2022/08/22/lua-jit-intro/)
 * [2023-11-11, 18:17:46](https://lobste.rs/s/mqhxkp/using_markov_chain_generate_readable) - [Using a Markov chain to generate readable nonsense with 20 lines of Python](https://benhoyt.com/writings/markov-chain/)
 * [2023-11-11, 17:36:50](https://lobste.rs/s/tfuufl/quick_look_at_destination_driven_code) - [A quick look at destination-driven code generation](https://bernsteinbear.com/blog/ddcg/)
-* [2023-11-11, 10:48:15](https://lobste.rs/s/yne5kz/ntfs_really_isn_t_bad_2020) - [NTFS really isn't that bad (2020)](https://www.youtube.com/watch?v=qbKGw8MQ0i8)
 
 ## [Archives](archives/index.md)
 
