@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
+* [2023-11-12, 10:53:41](https://lobste.rs/s/rvszng/using_ninja_build_system_generate_this) - [Using the Ninja build system to generate this site](https://lu.sagebl.eu/notes/site-generator-ninja/)
 * [2023-11-12, 09:12:08](https://lobste.rs/s/wlan3i/github_actions_are_problem) - [GitHub Actions are a Problem](https://felix-knorr.net/posts/2023-11-11-github-actions.html)
 * [2023-11-12, 09:12:08](https://lobste.rs/s/wlan3i/felix_blog_github_actions_are_problem) - [Felix' Blog - GitHub Actions are a Problem](https://felix-knorr.net/posts/2023-11-11-github-actions.html)
 * [2023-11-12, 08:42:41](https://lobste.rs/s/wrksua/data_oriented_blogging) - [Data Oriented Blogging](https://matklad.github.io/2023/11/07/dta-oriented-blogging.html)
