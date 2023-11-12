@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-12, 15:42:09](https://lobste.rs/s/qfrtcf/phoronix_acknowledges_its_bcachefs) - [Phoronix acknowledges its bcachefs benchmark fiasco: they didn't disable debug option](https://www.phoronix.com/news/Bcachefs-Updated-Linux-6.7)
 * [2023-11-12, 15:19:38](https://lobste.rs/s/fxd9ti/pep_733_evaluation_python_s_public_c_api) - [PEP 733 – An Evaluation of Python’s Public C API](https://peps.python.org/pep-0733/)
 * [2023-11-12, 14:57:42](https://lobste.rs/s/1eaqaf/little_taste_htmx_part_5_5) - [A little taste of HTMX (part 5/5)](https://www.bitecode.dev/p/a-little-taste-of-htmx-part-55)
 * [2023-11-12, 13:05:29](https://lobste.rs/s/sjqh3w/trip_report_autumn_iso_c_standards) - [Trip report: Autumn ISO C++ standards meeting (Kona, HI, USA)](https://herbsutter.com/2023/11/11/trip-report-autumn-iso-c-standards-meeting-kona-hi-usa/)
@@ -22,7 +23,6 @@
 * [2023-11-11, 17:36:50](https://lobste.rs/s/tfuufl/quick_look_at_destination_driven_code) - [A quick look at destination-driven code generation](https://bernsteinbear.com/blog/ddcg/)
 * [2023-11-11, 13:40:06](https://lobste.rs/s/1yhp8o/browser_debugging_tricks) - [Browser Debugging Tricks](https://alan.norbauer.com/articles/browser-debugging-tricks)
 * [2023-11-11, 10:48:15](https://lobste.rs/s/yne5kz/ntfs_really_isn_t_bad_2020) - [NTFS really isn't that bad (2020)](https://www.youtube.com/watch?v=qbKGw8MQ0i8)
-* [2023-11-11, 07:31:56](https://lobste.rs/s/p8uztq/rfc_9420_messaging_layer_security) - [RFC 9420 – A Messaging Layer Security Overview](https://www.thestack.technology/rfc9420-ietf-mls-standard/)
 * [2023-11-10, 22:46:22](https://lobste.rs/s/898wqa/nix_my_workflow) - [Nix: my workflow](https://bmcgee.ie/posts/2023/11/nix-my-workflow/)
 * [2023-11-10, 22:31:44](https://lobste.rs/s/l1roef/fourteen_years_go) - [Fourteen Years of Go](https://go.dev/blog/14years)
 
