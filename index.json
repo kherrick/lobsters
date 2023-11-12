@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2023-11-11, 07:31:56",
+      "https://lobste.rs/s/p8uztq/rfc_9420_messaging_layer_security"
+    ],
+    [
+      "RFC 9420 – A Messaging Layer Security Overview",
+      "https://www.thestack.technology/rfc9420-ietf-mls-standard/"
+    ]
+  ],
+  [
+    [
       "2023-11-10, 22:46:22",
       "https://lobste.rs/s/898wqa/nix_my_workflow"
     ],
@@ -237,16 +247,6 @@
     [
       "Fourteen Years of Go",
       "https://go.dev/blog/14years"
-    ]
-  ],
-  [
-    [
-      "2023-11-10, 19:13:43",
-      "https://lobste.rs/s/dezuac/marimo_next_generation_python_notebook"
-    ],
-    [
-      "Marimo: next-generation Python notebook",
-      "https://marimo.io/"
     ]
   ]
 ]
