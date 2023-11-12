@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-12, 18:29:11](https://lobste.rs/s/m8uoz7/binkybox_improved_keyboard_shortcuts) - [BinkyBox: Improved keyboard shortcuts for virtual desktops on Windows](https://github.com/nadimkobeissi/binkybox)
 * [2023-11-12, 17:48:33](https://lobste.rs/s/avl83j/html_first) - [HTML First](https://html-first.com/)
 * [2023-11-12, 17:01:43](https://lobste.rs/s/htxvdl/effective_rust) - [Effective Rust](https://effective-rust.com/cover.html)
 * [2023-11-12, 16:39:22](https://lobste.rs/s/axwcz4/speaker_support_asahi_linux) - [Speaker support in Asahi Linux](https://github.com/AsahiLinux/docs/wiki/SW:Speakers)
@@ -24,7 +25,6 @@
 * [2023-11-11, 18:17:46](https://lobste.rs/s/mqhxkp/using_markov_chain_generate_readable) - [Using a Markov chain to generate readable nonsense with 20 lines of Python](https://benhoyt.com/writings/markov-chain/)
 * [2023-11-11, 17:36:50](https://lobste.rs/s/tfuufl/quick_look_at_destination_driven_code) - [A quick look at destination-driven code generation](https://bernsteinbear.com/blog/ddcg/)
 * [2023-11-11, 10:48:15](https://lobste.rs/s/yne5kz/ntfs_really_isn_t_bad_2020) - [NTFS really isn't that bad (2020)](https://www.youtube.com/watch?v=qbKGw8MQ0i8)
-* [2023-11-10, 22:46:22](https://lobste.rs/s/898wqa/nix_my_workflow) - [Nix: my workflow](https://bmcgee.ie/posts/2023/11/nix-my-workflow/)
 
 ## [Archives](archives/index.md)
 
