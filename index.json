@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-12, 16:39:22",
+      "https://lobste.rs/s/axwcz4/speaker_support_asahi_linux"
+    ],
+    [
+      "Speaker support in Asahi Linux",
+      "https://github.com/AsahiLinux/docs/wiki/SW:Speakers"
+    ]
+  ],
+  [
+    [
       "2023-11-12, 16:36:33",
       "https://lobste.rs/s/fjezfj/ubuntu_core_linux_developer_preview_is"
     ],
@@ -237,16 +247,6 @@
     [
       "Nix: my workflow",
       "https://bmcgee.ie/posts/2023/11/nix-my-workflow/"
-    ]
-  ],
-  [
-    [
-      "2023-11-10, 22:31:44",
-      "https://lobste.rs/s/l1roef/fourteen_years_go"
-    ],
-    [
-      "Fourteen Years of Go",
-      "https://go.dev/blog/14years"
     ]
   ]
 ]
