@@ -2,10 +2,10 @@
   [
     [
       "2023-11-12, 15:42:09",
-      "https://lobste.rs/s/qfrtcf/phoronix_acknowledges_its_bcachefs"
+      "https://lobste.rs/s/qfrtcf/bcachefs_lands_big_scalability"
     ],
     [
-      "Phoronix acknowledges its bcachefs benchmark fiasco: they didn't disable debug option",
+      "Bcachefs Lands Big Scalability Improvement, Disables Debug Option By Default",
       "https://www.phoronix.com/news/Bcachefs-Updated-Linux-6.7"
     ]
   ],
