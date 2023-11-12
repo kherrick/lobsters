@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-12, 08:42:41](https://lobste.rs/s/wrksua/data_oriented_blogging) - [Data Oriented Blogging](https://matklad.github.io/2023/11/07/dta-oriented-blogging.html)
 * [2023-11-12, 07:06:56](https://lobste.rs/s/5hpbnb/apple_network_server_s_all_too_secret) - [The Apple Network Server's all-too-secret weapon (featuring PPC Toolbox)](https://oldvcr.blogspot.com/2023/11/the-apple-network-servers-all-too.html)
 * [2023-11-12, 05:52:31](https://lobste.rs/s/hhfiyd/overview_nix_practice) - [An overview of Nix in practice](https://www.slice.zone/blog/nix-in-practice)
 * [2023-11-12, 05:14:38](https://lobste.rs/s/pknhrr/go_modules_domain_expiry_problem) - [Go modules and the domain expiry problem](https://utcc.utoronto.ca/~cks/space/blog/programming/GoModulesAndDomainExpiry)
@@ -22,7 +23,6 @@
 * [2023-11-10, 22:20:51](https://lobste.rs/s/uisr73/fx_31_0_0_release) - [Fx 31.0.0 release](https://github.com/antonmedv/fx/releases/tag/31.0.0)
 * [2023-11-10, 19:13:43](https://lobste.rs/s/dezuac/marimo_next_generation_python_notebook) - [Marimo: next-generation Python notebook](https://marimo.io/)
 * [2023-11-10, 14:21:44](https://lobste.rs/s/lgirb9/we_used_build_steel_mills_near_cheap_power) - [We used to build steel mills near cheap power. Now that's where we build datacenters (2015)](https://danluu.com/datacenter-power/)
-* [2023-11-10, 13:37:36](https://lobste.rs/s/7wbwab/useless_ruby_sugar_keyword_argument_hash) - [“Useless Ruby sugar”: Keyword argument and hash values omission](https://zverok.space/blog/2023-11-10-syntax-sugar3-hash-values-omission.html)
 * [2023-11-10, 03:53:39](https://lobste.rs/s/wyjy5z/cursorless_is_alien_magic_from_future) - [Cursorless is alien magic from the future](https://xeiaso.net//notes/cursorless-alien-magic/)
 * [2023-11-09, 21:44:04](https://lobste.rs/s/xyeqmu/monaspace) - [Monaspace](https://monaspace.githubnext.com/)
 

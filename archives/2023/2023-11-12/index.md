@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-12](index.md)
 
+* [2023-11-12, 08:42:41](https://lobste.rs/s/wrksua/data_oriented_blogging) - [Data Oriented Blogging](https://matklad.github.io/2023/11/07/dta-oriented-blogging.html)
 * [2023-11-12, 07:06:56](https://lobste.rs/s/5hpbnb/apple_network_server_s_all_too_secret) - [The Apple Network Server's all-too-secret weapon (featuring PPC Toolbox)](https://oldvcr.blogspot.com/2023/11/the-apple-network-servers-all-too.html)
 * [2023-11-12, 05:52:31](https://lobste.rs/s/hhfiyd/overview_nix_practice) - [An overview of Nix in practice](https://www.slice.zone/blog/nix-in-practice)
 * [2023-11-12, 05:14:38](https://lobste.rs/s/pknhrr/go_modules_domain_expiry_problem) - [Go modules and the domain expiry problem](https://utcc.utoronto.ca/~cks/space/blog/programming/GoModulesAndDomainExpiry)
