@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-12, 20:45:09](https://lobste.rs/s/ptvlc1/geodesk_for_python_analyze_visualize) - [GeoDesk for Python: Analyze & Visualize OpenStreetMap Data](https://community.openstreetmap.org/t/geodesk-for-python-analyze-visualize-openstreetmap-data/105503)
 * [2023-11-12, 20:38:20](https://lobste.rs/s/deqkjk/superbol_studio_oss_cobol_lsp_vscode) - [superbol-studio-oss: Cobol LSP, VSCode extension & Emacs mode](https://github.com/OCamlPro/superbol-studio-oss)
 * [2023-11-12, 20:19:11](https://lobste.rs/s/rbnnt9/stop_deploying_web_application) - [Stop deploying web application firewalls](https://www.macchaffee.com/blog/2023/wafs/)
 * [2023-11-12, 19:53:25](https://lobste.rs/s/9fkzz4/history_os_2) - [The History of OS/2](https://www.abortretry.fail/p/the-history-of-os2)
@@ -8,7 +9,6 @@
 * [2023-11-12, 17:48:33](https://lobste.rs/s/avl83j/html_first) - [HTML First](https://html-first.com/)
 * [2023-11-12, 17:01:43](https://lobste.rs/s/htxvdl/effective_rust) - [Effective Rust](https://effective-rust.com/cover.html)
 * [2023-11-12, 16:39:22](https://lobste.rs/s/axwcz4/speaker_support_asahi_linux) - [Speaker support in Asahi Linux](https://github.com/AsahiLinux/docs/wiki/SW:Speakers)
-* [2023-11-12, 16:36:33](https://lobste.rs/s/fjezfj/ubuntu_core_linux_developer_preview_is) - [Ubuntu Core Linux Developer Preview is ready for testing](https://www.zdnet.com/article/ubuntu-core-desktop-a-new-take-on-the-ubuntu-linux-desktop/)
 * [2023-11-12, 15:42:09](https://lobste.rs/s/qfrtcf/bcachefs_lands_big_scalability) - [Bcachefs Lands Big Scalability Improvement, Disables Debug Option By Default](https://www.phoronix.com/news/Bcachefs-Updated-Linux-6.7)
 * [2023-11-12, 15:19:38](https://lobste.rs/s/fxd9ti/pep_733_evaluation_python_s_public_c_api) - [PEP 733 – An Evaluation of Python’s Public C API](https://peps.python.org/pep-0733/)
 * [2023-11-12, 14:57:42](https://lobste.rs/s/1eaqaf/little_taste_htmx_part_5_5) - [A little taste of HTMX (part 5/5)](https://www.bitecode.dev/p/a-little-taste-of-htmx-part-55)
