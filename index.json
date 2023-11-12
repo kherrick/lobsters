@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-12, 16:36:33",
+      "https://lobste.rs/s/fjezfj/ubuntu_core_linux_developer_preview_is"
+    ],
+    [
+      "Ubuntu Core Linux Developer Preview is ready for testing",
+      "https://www.zdnet.com/article/ubuntu-core-desktop-a-new-take-on-the-ubuntu-linux-desktop/"
+    ]
+  ],
+  [
+    [
       "2023-11-12, 15:42:09",
       "https://lobste.rs/s/qfrtcf/bcachefs_lands_big_scalability"
     ],
@@ -217,16 +227,6 @@
     [
       "NTFS really isn't that bad (2020)",
       "https://www.youtube.com/watch?v=qbKGw8MQ0i8"
-    ]
-  ],
-  [
-    [
-      "2023-11-11, 07:31:56",
-      "https://lobste.rs/s/p8uztq/rfc_9420_messaging_layer_security"
-    ],
-    [
-      "RFC 9420 – A Messaging Layer Security Overview",
-      "https://www.thestack.technology/rfc9420-ietf-mls-standard/"
     ]
   ],
   [
