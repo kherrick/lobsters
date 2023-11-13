@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-13, 17:59:11",
+      "https://lobste.rs/s/9nldxe/level_up_stable_diffusion_with_ip_adapter"
+    ],
+    [
+      "Level Up Stable Diffusion with IP-Adapter",
+      "https://blog.finegrain.ai/posts/supercharge-stable-diffusion-ip-adapter/"
+    ]
+  ],
+  [
+    [
+      "2023-11-13, 17:57:10",
+      "https://lobste.rs/s/2bhgda/improving_dead_code_elimination"
+    ],
+    [
+      "Improving the dead code elimination algorithm in js_of_ocaml",
+      "https://www.micahcantor.com/blog/js-of-ocaml-dead-code/"
+    ]
+  ],
+  [
+    [
       "2023-11-13, 15:45:33",
       "https://lobste.rs/s/odk5kl/you_should_track_your_finances_toml"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-11-12, 15:42:09",
-      "https://lobste.rs/s/qfrtcf/bcachefs_lands_big_scalability"
-    ],
-    [
-      "Bcachefs Lands Big Scalability Improvement, Disables Debug Option By Default",
-      "https://www.phoronix.com/news/Bcachefs-Updated-Linux-6.7"
-    ]
-  ],
-  [
-    [
       "2023-11-12, 11:40:19",
       "https://lobste.rs/s/eat48g/archive_your_old_projects"
     ],
@@ -237,16 +247,6 @@
     [
       "GitHub Actions are a Problem",
       "https://felix-knorr.net/posts/2023-11-11-github-actions.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-12, 05:52:31",
-      "https://lobste.rs/s/hhfiyd/overview_nix_practice"
-    ],
-    [
-      "An overview of Nix in practice",
-      "https://www.slice.zone/blog/nix-in-practice"
     ]
   ]
 ]
