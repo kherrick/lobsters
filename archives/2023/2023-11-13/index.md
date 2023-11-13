@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
+* [2023-11-13, 14:41:26](https://lobste.rs/s/6mkbtw/introducing_yet_another_rust_resource) - [Introducing Yet Another Rust Resource](https://ntietz.com/blog/introducing-yet-another-rust-resource-or-yarr/)
 * [2023-11-13, 13:11:34](https://lobste.rs/s/hw6cqf/cathode_retro_collection_shaders) - [Cathode-Retro: A collection of shaders to emulate the display of an NTSC signal through a CRT TV](https://github.com/DeadlyRedCube/Cathode-Retro)
 * [2023-11-13, 12:59:51](https://lobste.rs/s/21lsnm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/21lsnm/what_are_you_doing_this_week)
 * [2023-11-13, 12:52:51](https://lobste.rs/s/daw1oa/reasons_prefer_blake3_over_sha256) - [Reasons to prefer blake3 over sha256](https://peergos.org/posts/blake3)

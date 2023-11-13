@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-13, 14:41:26](https://lobste.rs/s/6mkbtw/introducing_yet_another_rust_resource) - [Introducing Yet Another Rust Resource](https://ntietz.com/blog/introducing-yet-another-rust-resource-or-yarr/)
 * [2023-11-13, 13:11:34](https://lobste.rs/s/hw6cqf/cathode_retro_collection_shaders) - [Cathode-Retro: A collection of shaders to emulate the display of an NTSC signal through a CRT TV](https://github.com/DeadlyRedCube/Cathode-Retro)
 * [2023-11-13, 12:59:51](https://lobste.rs/s/21lsnm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/21lsnm/what_are_you_doing_this_week)
 * [2023-11-13, 12:52:51](https://lobste.rs/s/daw1oa/reasons_prefer_blake3_over_sha256) - [Reasons to prefer blake3 over sha256](https://peergos.org/posts/blake3)
@@ -11,7 +12,6 @@
 * [2023-11-13, 02:00:04](https://lobste.rs/s/ypjr5l/how_kernel_developer_made_my_styluses) - [How a kernel developer made my styluses work again on newer kernels](https://www.davidrevoy.com/article1002/how-a-kernel-developer-made-my-styluses-work-again)
 * [2023-11-13, 01:49:11](https://lobste.rs/s/pxwzet/linux_like_original_unix) - [Linux like original Unix](https://www.youtube.com/watch?v=S0pXQVMC770)
 * [2023-11-12, 21:53:23](https://lobste.rs/s/v1yooo/proposal_html_element_for_spoilers) - [Proposal: an HTML element for spoilers](https://seirdy.one/posts/2023/11/12/spoiler-element/)
-* [2023-11-12, 20:38:20](https://lobste.rs/s/deqkjk/superbol_studio_oss_cobol_lsp_vscode) - [superbol-studio-oss: Cobol LSP, VSCode extension & Emacs mode](https://github.com/OCamlPro/superbol-studio-oss)
 * [2023-11-12, 20:19:11](https://lobste.rs/s/rbnnt9/stop_deploying_web_application) - [Stop deploying web application firewalls](https://www.macchaffee.com/blog/2023/wafs/)
 * [2023-11-12, 19:05:23](https://lobste.rs/s/9wclxt/using_mastodon_as_rss_feed_reader) - [Using Mastodon as a RSS Feed Reader](https://www.bentasker.co.uk/posts/blog/general/using-mastodon-to-improve-my-rss-feed-consumption.html)
 * [2023-11-12, 18:29:11](https://lobste.rs/s/m8uoz7/binkybox_improved_keyboard_shortcuts) - [BinkyBox: Improved keyboard shortcuts for virtual desktops on Windows](https://github.com/nadimkobeissi/binkybox)
