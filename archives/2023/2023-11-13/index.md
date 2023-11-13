@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
+* [2023-11-13, 20:13:06](https://lobste.rs/s/ctximj/one_shot_triple_kill_pwning_all_three) - [One shot, Triple kill: Pwning all three Google kernelCTF instances with a single 1-day Linux vulnerability](https://kaist-hacking.github.io/pubs/2023/kim:kernel-ctf-slides.pdf)
+* [2023-11-13, 20:10:47](https://lobste.rs/s/6r8oej/openbsd_formal_driver_verification_with) - [OpenBSD formal driver verification with SeL4](https://arxiv.org/abs/2311.03585)
 * [2023-11-13, 18:40:14](https://lobste.rs/s/qbwmqk/cloud_is_just_my_basement_s_computers) - [The Cloud Is Just My Basement's Computers](https://aeracode.org/2023/11/13/cloud-servers-basement/)
 * [2023-11-13, 17:59:11](https://lobste.rs/s/9nldxe/level_up_stable_diffusion_with_ip_adapter) - [Level Up Stable Diffusion with IP-Adapter](https://blog.finegrain.ai/posts/supercharge-stable-diffusion-ip-adapter/)
 * [2023-11-13, 17:57:10](https://lobste.rs/s/2bhgda/improving_dead_code_elimination) - [Improving the dead code elimination algorithm in js_of_ocaml](https://www.micahcantor.com/blog/js-of-ocaml-dead-code/)
