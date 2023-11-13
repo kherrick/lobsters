@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-13, 20:46:11](https://lobste.rs/s/sgl3lp/programming_is_forgetting_toward_new) - [Programming is Forgetting: Toward a New Hacker Ethic](http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/)
 * [2023-11-13, 20:13:06](https://lobste.rs/s/ctximj/one_shot_triple_kill_pwning_all_three) - [One shot, Triple kill: Pwning all three Google kernelCTF instances with a single 1-day Linux vulnerability](https://kaist-hacking.github.io/pubs/2023/kim:kernel-ctf-slides.pdf)
 * [2023-11-13, 20:10:47](https://lobste.rs/s/6r8oej/openbsd_formal_driver_verification_with) - [OpenBSD formal driver verification with SeL4](https://arxiv.org/abs/2311.03585)
 * [2023-11-13, 18:40:14](https://lobste.rs/s/qbwmqk/cloud_is_just_my_basement_s_computers) - [The Cloud Is Just My Basement's Computers](https://aeracode.org/2023/11/13/cloud-servers-basement/)
@@ -23,7 +24,6 @@
 * [2023-11-12, 17:01:43](https://lobste.rs/s/htxvdl/effective_rust) - [Effective Rust](https://effective-rust.com/cover.html)
 * [2023-11-12, 16:39:22](https://lobste.rs/s/axwcz4/speaker_support_asahi_linux) - [Speaker support in Asahi Linux](https://github.com/AsahiLinux/docs/wiki/SW:Speakers)
 * [2023-11-12, 11:40:19](https://lobste.rs/s/eat48g/archive_your_old_projects) - [Archive Your Old Projects](https://arne.me/articles/archive-your-old-projects)
-* [2023-11-12, 10:53:41](https://lobste.rs/s/rvszng/using_ninja_build_system_generate_this) - [Using the Ninja build system to generate this site](https://lu.sagebl.eu/notes/site-generator-ninja/)
 * [2023-11-12, 09:12:08](https://lobste.rs/s/wlan3i/github_actions_are_problem) - [GitHub Actions are a Problem](https://felix-knorr.net/posts/2023-11-11-github-actions.html)
 
 ## [Archives](archives/index.md)
