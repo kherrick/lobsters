@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-13, 04:14:42](https://lobste.rs/s/3anish/url_explained_fundamentals) - [URL explained - The Fundamentals](https://ittavern.com/url-explained-the-fundamentals/)
 * [2023-11-13, 02:00:04](https://lobste.rs/s/ypjr5l/how_kernel_developer_made_my_styluses) - [How a kernel developer made my styluses work again on newer kernels](https://www.davidrevoy.com/article1002/how-a-kernel-developer-made-my-styluses-work-again)
 * [2023-11-13, 01:55:11](https://lobste.rs/s/j9s7tp/learn_postscript_by_doing_2005) - [Learn PostScript by Doing (2005)](https://staff.science.uva.nl/a.j.p.heck/Courses/Mastercourse2005/tutorial.pdf)
 * [2023-11-13, 01:49:11](https://lobste.rs/s/pxwzet/linux_like_original_unix) - [Linux like original Unix](https://www.youtube.com/watch?v=S0pXQVMC770)
 * [2023-11-12, 21:53:23](https://lobste.rs/s/v1yooo/proposal_html_element_for_spoilers) - [Proposal: an HTML element for spoilers](https://seirdy.one/posts/2023/11/12/spoiler-element/)
-* [2023-11-12, 20:45:09](https://lobste.rs/s/ptvlc1/geodesk_for_python_analyze_visualize) - [GeoDesk for Python: Analyze & Visualize OpenStreetMap Data](https://community.openstreetmap.org/t/geodesk-for-python-analyze-visualize-openstreetmap-data/105503)
 * [2023-11-12, 20:38:20](https://lobste.rs/s/deqkjk/superbol_studio_oss_cobol_lsp_vscode) - [superbol-studio-oss: Cobol LSP, VSCode extension & Emacs mode](https://github.com/OCamlPro/superbol-studio-oss)
 * [2023-11-12, 20:19:11](https://lobste.rs/s/rbnnt9/stop_deploying_web_application) - [Stop deploying web application firewalls](https://www.macchaffee.com/blog/2023/wafs/)
 * [2023-11-12, 19:05:23](https://lobste.rs/s/9wclxt/using_mastodon_as_rss_feed_reader) - [Using Mastodon as a RSS Feed Reader](https://www.bentasker.co.uk/posts/blog/general/using-mastodon-to-improve-my-rss-feed-consumption.html)
