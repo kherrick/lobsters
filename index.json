@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-13, 20:13:06",
+      "https://lobste.rs/s/ctximj/one_shot_triple_kill_pwning_all_three"
+    ],
+    [
+      "One shot, Triple kill: Pwning all three Google kernelCTF instances with a single 1-day Linux vulnerability",
+      "https://kaist-hacking.github.io/pubs/2023/kim:kernel-ctf-slides.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-11-13, 20:10:47",
+      "https://lobste.rs/s/6r8oej/openbsd_formal_driver_verification_with"
+    ],
+    [
+      "OpenBSD formal driver verification with SeL4",
+      "https://arxiv.org/abs/2311.03585"
+    ]
+  ],
+  [
+    [
       "2023-11-13, 18:40:14",
       "https://lobste.rs/s/qbwmqk/cloud_is_just_my_basement_s_computers"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2023-11-13, 09:00:25",
-      "https://lobste.rs/s/4xyhbd/otelbin_web_based_tool_facilitate"
-    ],
-    [
-      "otelbin: Web-based tool to facilitate OpenTelemetry collector configuration editing and verification",
-      "https://github.com/dash0hq/otelbin"
-    ]
-  ],
-  [
-    [
       "2023-11-13, 08:20:19",
       "https://lobste.rs/s/mmqppw/what_i_learned_from_luajit_by_vyacheslav"
     ],
@@ -177,16 +187,6 @@
     [
       "Stop deploying web application firewalls",
       "https://www.macchaffee.com/blog/2023/wafs/"
-    ]
-  ],
-  [
-    [
-      "2023-11-12, 18:29:11",
-      "https://lobste.rs/s/m8uoz7/binkybox_improved_keyboard_shortcuts"
-    ],
-    [
-      "BinkyBox: Improved keyboard shortcuts for virtual desktops on Windows",
-      "https://github.com/nadimkobeissi/binkybox"
     ]
   ],
   [
