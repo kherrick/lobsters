@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-13, 15:13:48](https://lobste.rs/s/bouvid/kangarootwelve_fast_hashing_based_on) - [KangarooTwelve: fast hashing based on Keccak-p (2018)](https://keccak.team/kangarootwelve.html)
 * [2023-11-13, 15:01:33](https://lobste.rs/s/wb35ez/blake3_is_extremely_fast_parallel) - [BLAKE3 Is an Extremely Fast, Parallel Cryptographic Hash (2020)](https://www.infoq.com/news/2020/01/blake3-fast-crypto-hash/)
 * [2023-11-13, 14:53:42](https://lobste.rs/s/xfi0uf/solving_sudoku_with_sby_formal) - [Solving a Sudoku with SBY and Formal Verification](https://blog.yosyshq.com/p/solving-sudoku-with-sby/)
 * [2023-11-13, 14:41:26](https://lobste.rs/s/6mkbtw/introducing_yet_another_rust_resource) - [Introducing Yet Another Rust Resource](https://ntietz.com/blog/introducing-yet-another-rust-resource-or-yarr/)
@@ -23,7 +24,6 @@
 * [2023-11-12, 11:40:19](https://lobste.rs/s/eat48g/archive_your_old_projects) - [Archive Your Old Projects](https://arne.me/articles/archive-your-old-projects)
 * [2023-11-12, 10:53:41](https://lobste.rs/s/rvszng/using_ninja_build_system_generate_this) - [Using the Ninja build system to generate this site](https://lu.sagebl.eu/notes/site-generator-ninja/)
 * [2023-11-12, 09:12:08](https://lobste.rs/s/wlan3i/github_actions_are_problem) - [GitHub Actions are a Problem](https://felix-knorr.net/posts/2023-11-11-github-actions.html)
-* [2023-11-12, 07:06:56](https://lobste.rs/s/5hpbnb/apple_network_server_s_all_too_secret) - [The Apple Network Server's all-too-secret weapon (featuring PPC Toolbox)](https://oldvcr.blogspot.com/2023/11/the-apple-network-servers-all-too.html)
 * [2023-11-12, 05:52:31](https://lobste.rs/s/hhfiyd/overview_nix_practice) - [An overview of Nix in practice](https://www.slice.zone/blog/nix-in-practice)
 
 ## [Archives](archives/index.md)
