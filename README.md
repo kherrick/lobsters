@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-13, 09:00:25](https://lobste.rs/s/4xyhbd/otelbin_web_based_tool_facilitate) - [otelbin: Web-based tool to facilitate OpenTelemetry collector configuration editing and verification](https://github.com/dash0hq/otelbin)
 * [2023-11-13, 08:20:19](https://lobste.rs/s/mmqppw/what_i_learned_from_luajit_by_vyacheslav) - [What I learned from LuaJIT by Vyacheslav Egorov](https://www.youtube.com/watch?v=nsyDjqPE8To)
 * [2023-11-13, 07:52:30](https://lobste.rs/s/n6vtps/debian_on_mellanox_sn2700_32x100g) - [Debian on Mellanox SN2700 (32x100G)](https://ipng.ch/s/articles/2023/11/11/mellanox-sn2700.html)
 * [2023-11-13, 07:50:45](https://lobste.rs/s/xkvlqm/don_t_waste_money_on_math_coprocessor_they) - [Don’t waste money on a math coprocessor they said](https://virtuallyfun.com/2023/11/12/dont-waste-money-on-a-math-coprocessor-they-said/)
@@ -8,7 +9,6 @@
 * [2023-11-13, 01:55:11](https://lobste.rs/s/j9s7tp/learn_postscript_by_doing_2005) - [Learn PostScript by Doing (2005)](https://staff.science.uva.nl/a.j.p.heck/Courses/Mastercourse2005/tutorial.pdf)
 * [2023-11-13, 01:49:11](https://lobste.rs/s/pxwzet/linux_like_original_unix) - [Linux like original Unix](https://www.youtube.com/watch?v=S0pXQVMC770)
 * [2023-11-12, 21:53:23](https://lobste.rs/s/v1yooo/proposal_html_element_for_spoilers) - [Proposal: an HTML element for spoilers](https://seirdy.one/posts/2023/11/12/spoiler-element/)
-* [2023-11-12, 20:45:09](https://lobste.rs/s/ptvlc1/geodesk_for_python_analyze_visualize) - [GeoDesk for Python: Analyze & Visualize OpenStreetMap Data](https://community.openstreetmap.org/t/geodesk-for-python-analyze-visualize-openstreetmap-data/105503)
 * [2023-11-12, 20:38:20](https://lobste.rs/s/deqkjk/superbol_studio_oss_cobol_lsp_vscode) - [superbol-studio-oss: Cobol LSP, VSCode extension & Emacs mode](https://github.com/OCamlPro/superbol-studio-oss)
 * [2023-11-12, 20:19:11](https://lobste.rs/s/rbnnt9/stop_deploying_web_application) - [Stop deploying web application firewalls](https://www.macchaffee.com/blog/2023/wafs/)
 * [2023-11-12, 19:05:23](https://lobste.rs/s/9wclxt/using_mastodon_as_rss_feed_reader) - [Using Mastodon as a RSS Feed Reader](https://www.bentasker.co.uk/posts/blog/general/using-mastodon-to-improve-my-rss-feed-consumption.html)
