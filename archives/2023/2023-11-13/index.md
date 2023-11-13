@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
+* [2023-11-13, 08:20:19](https://lobste.rs/s/mmqppw/what_i_learned_from_luajit_by_vyacheslav) - [What I learned from LuaJIT by Vyacheslav Egorov](https://www.youtube.com/watch?v=nsyDjqPE8To)
 * [2023-11-13, 07:52:30](https://lobste.rs/s/n6vtps/debian_on_mellanox_sn2700_32x100g) - [Debian on Mellanox SN2700 (32x100G)](https://ipng.ch/s/articles/2023/11/11/mellanox-sn2700.html)
 * [2023-11-13, 07:50:45](https://lobste.rs/s/xkvlqm/don_t_waste_money_on_math_coprocessor_they) - [Don’t waste money on a math coprocessor they said](https://virtuallyfun.com/2023/11/12/dont-waste-money-on-a-math-coprocessor-they-said/)
 * [2023-11-13, 04:14:42](https://lobste.rs/s/3anish/url_explained_fundamentals) - [URL explained - The Fundamentals](https://ittavern.com/url-explained-the-fundamentals/)

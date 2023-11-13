@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-13, 08:20:19](https://lobste.rs/s/mmqppw/what_i_learned_from_luajit_by_vyacheslav) - [What I learned from LuaJIT by Vyacheslav Egorov](https://www.youtube.com/watch?v=nsyDjqPE8To)
 * [2023-11-13, 07:52:30](https://lobste.rs/s/n6vtps/debian_on_mellanox_sn2700_32x100g) - [Debian on Mellanox SN2700 (32x100G)](https://ipng.ch/s/articles/2023/11/11/mellanox-sn2700.html)
 * [2023-11-13, 07:50:45](https://lobste.rs/s/xkvlqm/don_t_waste_money_on_math_coprocessor_they) - [Don’t waste money on a math coprocessor they said](https://virtuallyfun.com/2023/11/12/dont-waste-money-on-a-math-coprocessor-they-said/)
 * [2023-11-13, 04:14:42](https://lobste.rs/s/3anish/url_explained_fundamentals) - [URL explained - The Fundamentals](https://ittavern.com/url-explained-the-fundamentals/)
@@ -16,7 +17,6 @@
 * [2023-11-12, 17:01:43](https://lobste.rs/s/htxvdl/effective_rust) - [Effective Rust](https://effective-rust.com/cover.html)
 * [2023-11-12, 16:39:22](https://lobste.rs/s/axwcz4/speaker_support_asahi_linux) - [Speaker support in Asahi Linux](https://github.com/AsahiLinux/docs/wiki/SW:Speakers)
 * [2023-11-12, 15:42:09](https://lobste.rs/s/qfrtcf/bcachefs_lands_big_scalability) - [Bcachefs Lands Big Scalability Improvement, Disables Debug Option By Default](https://www.phoronix.com/news/Bcachefs-Updated-Linux-6.7)
-* [2023-11-12, 15:19:38](https://lobste.rs/s/fxd9ti/pep_733_evaluation_python_s_public_c_api) - [PEP 733 – An Evaluation of Python’s Public C API](https://peps.python.org/pep-0733/)
 * [2023-11-12, 14:57:42](https://lobste.rs/s/1eaqaf/little_taste_htmx_part_5_5) - [A little taste of HTMX (part 5/5)](https://www.bitecode.dev/p/a-little-taste-of-htmx-part-55)
 * [2023-11-12, 13:05:29](https://lobste.rs/s/sjqh3w/trip_report_autumn_iso_c_standards) - [Trip report: Autumn ISO C++ standards meeting (Kona, HI, USA)](https://herbsutter.com/2023/11/11/trip-report-autumn-iso-c-standards-meeting-kona-hi-usa/)
 * [2023-11-12, 11:40:19](https://lobste.rs/s/eat48g/archive_your_old_projects) - [Archive Your Old Projects](https://arne.me/articles/archive-your-old-projects)
