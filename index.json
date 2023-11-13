@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-11-12, 20:45:09",
+      "https://lobste.rs/s/ptvlc1/geodesk_for_python_analyze_visualize"
+    ],
+    [
+      "GeoDesk for Python: Analyze & Visualize OpenStreetMap Data",
+      "https://community.openstreetmap.org/t/geodesk-for-python-analyze-visualize-openstreetmap-data/105503"
+    ]
+  ],
+  [
+    [
       "2023-11-12, 20:38:20",
       "https://lobste.rs/s/deqkjk/superbol_studio_oss_cobol_lsp_vscode"
     ],
@@ -227,16 +237,6 @@
     [
       "Go modules and the domain expiry problem",
       "https://utcc.utoronto.ca/~cks/space/blog/programming/GoModulesAndDomainExpiry"
-    ]
-  ],
-  [
-    [
-      "2023-11-11, 18:17:46",
-      "https://lobste.rs/s/mqhxkp/using_markov_chain_generate_readable"
-    ],
-    [
-      "Using a Markov chain to generate readable nonsense with 20 lines of Python",
-      "https://benhoyt.com/writings/markov-chain/"
     ]
   ],
   [
