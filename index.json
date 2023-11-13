@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-13, 18:40:14",
+      "https://lobste.rs/s/qbwmqk/cloud_is_just_my_basement_s_computers"
+    ],
+    [
+      "The Cloud Is Just My Basement's Computers",
+      "https://aeracode.org/2023/11/13/cloud-servers-basement/"
+    ]
+  ],
+  [
+    [
       "2023-11-13, 17:59:11",
       "https://lobste.rs/s/9nldxe/level_up_stable_diffusion_with_ip_adapter"
     ],
@@ -47,16 +57,6 @@
     [
       "BLAKE3 Is an Extremely Fast, Parallel Cryptographic Hash (2020)",
       "https://www.infoq.com/news/2020/01/blake3-fast-crypto-hash/"
-    ]
-  ],
-  [
-    [
-      "2023-11-13, 14:53:42",
-      "https://lobste.rs/s/xfi0uf/solving_sudoku_with_sby_formal"
-    ],
-    [
-      "Solving a Sudoku with SBY and Formal Verification",
-      "https://blog.yosyshq.com/p/solving-sudoku-with-sby/"
     ]
   ],
   [
