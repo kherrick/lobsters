@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-13, 15:45:33](https://lobste.rs/s/odk5kl/you_should_track_your_finances_toml) - [You should track your finances in TOML](https://kmaasrud.com/blog/track-finances-in-toml.html)
 * [2023-11-13, 15:13:48](https://lobste.rs/s/bouvid/kangarootwelve_fast_hashing_based_on) - [KangarooTwelve: fast hashing based on Keccak-p (2018)](https://keccak.team/kangarootwelve.html)
 * [2023-11-13, 15:01:33](https://lobste.rs/s/wb35ez/blake3_is_extremely_fast_parallel) - [BLAKE3 Is an Extremely Fast, Parallel Cryptographic Hash (2020)](https://www.infoq.com/news/2020/01/blake3-fast-crypto-hash/)
 * [2023-11-13, 14:53:42](https://lobste.rs/s/xfi0uf/solving_sudoku_with_sby_formal) - [Solving a Sudoku with SBY and Formal Verification](https://blog.yosyshq.com/p/solving-sudoku-with-sby/)
@@ -15,7 +16,6 @@
 * [2023-11-13, 02:00:04](https://lobste.rs/s/ypjr5l/how_kernel_developer_made_my_styluses) - [How a kernel developer made my styluses work again on newer kernels](https://www.davidrevoy.com/article1002/how-a-kernel-developer-made-my-styluses-work-again)
 * [2023-11-12, 21:53:23](https://lobste.rs/s/v1yooo/proposal_html_element_for_spoilers) - [Proposal: an HTML element for spoilers](https://seirdy.one/posts/2023/11/12/spoiler-element/)
 * [2023-11-12, 20:19:11](https://lobste.rs/s/rbnnt9/stop_deploying_web_application) - [Stop deploying web application firewalls](https://www.macchaffee.com/blog/2023/wafs/)
-* [2023-11-12, 19:05:23](https://lobste.rs/s/9wclxt/using_mastodon_as_rss_feed_reader) - [Using Mastodon as a RSS Feed Reader](https://www.bentasker.co.uk/posts/blog/general/using-mastodon-to-improve-my-rss-feed-consumption.html)
 * [2023-11-12, 18:29:11](https://lobste.rs/s/m8uoz7/binkybox_improved_keyboard_shortcuts) - [BinkyBox: Improved keyboard shortcuts for virtual desktops on Windows](https://github.com/nadimkobeissi/binkybox)
 * [2023-11-12, 17:48:33](https://lobste.rs/s/avl83j/html_first) - [HTML First](https://html-first.com/)
 * [2023-11-12, 17:01:43](https://lobste.rs/s/htxvdl/effective_rust) - [Effective Rust](https://effective-rust.com/cover.html)
