@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
+* [2023-11-13, 18:40:14](https://lobste.rs/s/qbwmqk/cloud_is_just_my_basement_s_computers) - [The Cloud Is Just My Basement's Computers](https://aeracode.org/2023/11/13/cloud-servers-basement/)
 * [2023-11-13, 17:59:11](https://lobste.rs/s/9nldxe/level_up_stable_diffusion_with_ip_adapter) - [Level Up Stable Diffusion with IP-Adapter](https://blog.finegrain.ai/posts/supercharge-stable-diffusion-ip-adapter/)
 * [2023-11-13, 17:57:10](https://lobste.rs/s/2bhgda/improving_dead_code_elimination) - [Improving the dead code elimination algorithm in js_of_ocaml](https://www.micahcantor.com/blog/js-of-ocaml-dead-code/)
 * [2023-11-13, 15:45:33](https://lobste.rs/s/odk5kl/you_should_track_your_finances_toml) - [You should track your finances in TOML](https://kmaasrud.com/blog/track-finances-in-toml.html)
