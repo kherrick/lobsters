@@ -5,6 +5,7 @@
 * [2023-11-13, 01:55:11](https://lobste.rs/s/j9s7tp/learn_postscript_by_doing_2005) - [Learn PostScript by Doing (2005)](https://staff.science.uva.nl/a.j.p.heck/Courses/Mastercourse2005/tutorial.pdf)
 * [2023-11-13, 01:49:11](https://lobste.rs/s/pxwzet/linux_like_original_unix) - [Linux like original Unix](https://www.youtube.com/watch?v=S0pXQVMC770)
 * [2023-11-12, 21:53:23](https://lobste.rs/s/v1yooo/proposal_html_element_for_spoilers) - [Proposal: an HTML element for spoilers](https://seirdy.one/posts/2023/11/12/spoiler-element/)
+* [2023-11-12, 20:45:09](https://lobste.rs/s/ptvlc1/geodesk_for_python_analyze_visualize) - [GeoDesk for Python: Analyze & Visualize OpenStreetMap Data](https://community.openstreetmap.org/t/geodesk-for-python-analyze-visualize-openstreetmap-data/105503)
 * [2023-11-12, 20:38:20](https://lobste.rs/s/deqkjk/superbol_studio_oss_cobol_lsp_vscode) - [superbol-studio-oss: Cobol LSP, VSCode extension & Emacs mode](https://github.com/OCamlPro/superbol-studio-oss)
 * [2023-11-12, 20:19:11](https://lobste.rs/s/rbnnt9/stop_deploying_web_application) - [Stop deploying web application firewalls](https://www.macchaffee.com/blog/2023/wafs/)
 * [2023-11-12, 19:05:23](https://lobste.rs/s/9wclxt/using_mastodon_as_rss_feed_reader) - [Using Mastodon as a RSS Feed Reader](https://www.bentasker.co.uk/posts/blog/general/using-mastodon-to-improve-my-rss-feed-consumption.html)
@@ -23,7 +24,6 @@
 * [2023-11-12, 07:06:56](https://lobste.rs/s/5hpbnb/apple_network_server_s_all_too_secret) - [The Apple Network Server's all-too-secret weapon (featuring PPC Toolbox)](https://oldvcr.blogspot.com/2023/11/the-apple-network-servers-all-too.html)
 * [2023-11-12, 05:52:31](https://lobste.rs/s/hhfiyd/overview_nix_practice) - [An overview of Nix in practice](https://www.slice.zone/blog/nix-in-practice)
 * [2023-11-12, 05:14:38](https://lobste.rs/s/pknhrr/go_modules_domain_expiry_problem) - [Go modules and the domain expiry problem](https://utcc.utoronto.ca/~cks/space/blog/programming/GoModulesAndDomainExpiry)
-* [2023-11-11, 18:17:46](https://lobste.rs/s/mqhxkp/using_markov_chain_generate_readable) - [Using a Markov chain to generate readable nonsense with 20 lines of Python](https://benhoyt.com/writings/markov-chain/)
 * [2023-11-11, 17:36:50](https://lobste.rs/s/tfuufl/quick_look_at_destination_driven_code) - [A quick look at destination-driven code generation](https://bernsteinbear.com/blog/ddcg/)
 
 ## [Archives](archives/index.md)
