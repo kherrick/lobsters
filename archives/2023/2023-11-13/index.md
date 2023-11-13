@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-13](index.md)
 
+* [2023-11-13, 17:59:11](https://lobste.rs/s/9nldxe/level_up_stable_diffusion_with_ip_adapter) - [Level Up Stable Diffusion with IP-Adapter](https://blog.finegrain.ai/posts/supercharge-stable-diffusion-ip-adapter/)
+* [2023-11-13, 17:57:10](https://lobste.rs/s/2bhgda/improving_dead_code_elimination) - [Improving the dead code elimination algorithm in js_of_ocaml](https://www.micahcantor.com/blog/js-of-ocaml-dead-code/)
 * [2023-11-13, 15:45:33](https://lobste.rs/s/odk5kl/you_should_track_your_finances_toml) - [You should track your finances in TOML](https://kmaasrud.com/blog/track-finances-in-toml.html)
 * [2023-11-13, 15:13:48](https://lobste.rs/s/bouvid/kangarootwelve_fast_hashing_based_on) - [KangarooTwelve: fast hashing based on Keccak-p (2018)](https://keccak.team/kangarootwelve.html)
 * [2023-11-13, 15:01:33](https://lobste.rs/s/wb35ez/blake3_is_extremely_fast_parallel) - [BLAKE3 Is an Extremely Fast, Parallel Cryptographic Hash (2020)](https://www.infoq.com/news/2020/01/blake3-fast-crypto-hash/)
