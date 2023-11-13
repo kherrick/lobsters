@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-13, 20:46:11",
+      "https://lobste.rs/s/sgl3lp/programming_is_forgetting_toward_new"
+    ],
+    [
+      "Programming is Forgetting: Toward a New Hacker Ethic",
+      "http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/"
+    ]
+  ],
+  [
+    [
       "2023-11-13, 20:13:06",
       "https://lobste.rs/s/ctximj/one_shot_triple_kill_pwning_all_three"
     ],
@@ -227,16 +237,6 @@
     [
       "Archive Your Old Projects",
       "https://arne.me/articles/archive-your-old-projects"
-    ]
-  ],
-  [
-    [
-      "2023-11-12, 10:53:41",
-      "https://lobste.rs/s/rvszng/using_ninja_build_system_generate_this"
-    ],
-    [
-      "Using the Ninja build system to generate this site",
-      "https://lu.sagebl.eu/notes/site-generator-ninja/"
     ]
   ],
   [
