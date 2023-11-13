@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-13, 12:59:51](https://lobste.rs/s/21lsnm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/21lsnm/what_are_you_doing_this_week)
+* [2023-11-13, 12:52:51](https://lobste.rs/s/daw1oa/reasons_prefer_blake3_over_sha256) - [Reasons to prefer blake3 over sha256](https://peergos.org/posts/blake3)
 * [2023-11-13, 09:00:25](https://lobste.rs/s/4xyhbd/otelbin_web_based_tool_facilitate) - [otelbin: Web-based tool to facilitate OpenTelemetry collector configuration editing and verification](https://github.com/dash0hq/otelbin)
 * [2023-11-13, 08:20:19](https://lobste.rs/s/mmqppw/what_i_learned_from_luajit_by_vyacheslav) - [What I learned from LuaJIT by Vyacheslav Egorov](https://www.youtube.com/watch?v=nsyDjqPE8To)
 * [2023-11-13, 07:52:30](https://lobste.rs/s/n6vtps/debian_on_mellanox_sn2700_32x100g) - [Debian on Mellanox SN2700 (32x100G)](https://ipng.ch/s/articles/2023/11/11/mellanox-sn2700.html)
@@ -18,9 +20,7 @@
 * [2023-11-12, 16:39:22](https://lobste.rs/s/axwcz4/speaker_support_asahi_linux) - [Speaker support in Asahi Linux](https://github.com/AsahiLinux/docs/wiki/SW:Speakers)
 * [2023-11-12, 15:42:09](https://lobste.rs/s/qfrtcf/bcachefs_lands_big_scalability) - [Bcachefs Lands Big Scalability Improvement, Disables Debug Option By Default](https://www.phoronix.com/news/Bcachefs-Updated-Linux-6.7)
 * [2023-11-12, 14:57:42](https://lobste.rs/s/1eaqaf/little_taste_htmx_part_5_5) - [A little taste of HTMX (part 5/5)](https://www.bitecode.dev/p/a-little-taste-of-htmx-part-55)
-* [2023-11-12, 13:05:29](https://lobste.rs/s/sjqh3w/trip_report_autumn_iso_c_standards) - [Trip report: Autumn ISO C++ standards meeting (Kona, HI, USA)](https://herbsutter.com/2023/11/11/trip-report-autumn-iso-c-standards-meeting-kona-hi-usa/)
 * [2023-11-12, 11:40:19](https://lobste.rs/s/eat48g/archive_your_old_projects) - [Archive Your Old Projects](https://arne.me/articles/archive-your-old-projects)
-* [2023-11-12, 11:33:00](https://lobste.rs/s/tqneyx/announcing_netbsd_10_0_rc1) - [Announcing NetBSD 10.0 RC1](https://netbsd.org/releases/formal-10/NetBSD-10.0.html)
 * [2023-11-12, 10:53:41](https://lobste.rs/s/rvszng/using_ninja_build_system_generate_this) - [Using the Ninja build system to generate this site](https://lu.sagebl.eu/notes/site-generator-ninja/)
 * [2023-11-12, 09:12:08](https://lobste.rs/s/wlan3i/github_actions_are_problem) - [GitHub Actions are a Problem](https://felix-knorr.net/posts/2023-11-11-github-actions.html)
 * [2023-11-12, 07:06:56](https://lobste.rs/s/5hpbnb/apple_network_server_s_all_too_secret) - [The Apple Network Server's all-too-secret weapon (featuring PPC Toolbox)](https://oldvcr.blogspot.com/2023/11/the-apple-network-servers-all-too.html)
