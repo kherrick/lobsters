@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 17:31:31](https://lobste.rs/s/syn0qc/my_favorite_gleam_feature) - [My Favorite Gleam Feature](https://erikarow.land/notes/gleam-favorite-feature)
 * [2023-11-14, 16:33:16](https://lobste.rs/s/lxl6w6/announcing_net_8) - [Announcing .NET 8](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8/)
 * [2023-11-14, 15:51:19](https://lobste.rs/s/gr1ky8/replacing_hls_dash_media_over_quic) - [Replacing HLS/DASH - Media over QUIC](https://quic.video/blog/replacing-hls-dash/)
 * [2023-11-14, 15:00:03](https://lobste.rs/s/afnnq9/pypi_has_completed_its_first_security) - [PyPI has completed its first security audit - The Python Package Index](https://blog.pypi.org/posts/2023-11-14-1-pypi-completes-first-security-audit/)
