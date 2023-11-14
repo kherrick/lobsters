@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-14, 15:00:03",
+      "https://lobste.rs/s/afnnq9/pypi_has_completed_its_first_security"
+    ],
+    [
+      "PyPI has completed its first security audit - The Python Package Index",
+      "https://blog.pypi.org/posts/2023-11-14-1-pypi-completes-first-security-audit/"
+    ]
+  ],
+  [
+    [
       "2023-11-14, 13:59:00",
       "https://lobste.rs/s/wyeffq/decade_developing_programming_language"
     ],
@@ -137,16 +147,6 @@
     [
       "Programming is Forgetting: Toward a New Hacker Ethic",
       "http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/"
-    ]
-  ],
-  [
-    [
-      "2023-11-13, 20:10:47",
-      "https://lobste.rs/s/6r8oej/openbsd_formal_driver_verification_with"
-    ],
-    [
-      "OpenBSD formal driver verification with SeL4",
-      "https://arxiv.org/abs/2311.03585"
     ]
   ],
   [
