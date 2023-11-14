@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 15:00:03](https://lobste.rs/s/afnnq9/pypi_has_completed_its_first_security) - [PyPI has completed its first security audit - The Python Package Index](https://blog.pypi.org/posts/2023-11-14-1-pypi-completes-first-security-audit/)
 * [2023-11-14, 13:59:00](https://lobste.rs/s/wyeffq/decade_developing_programming_language) - [A decade of developing a programming language](https://yorickpeterse.com/articles/a-decade-of-developing-a-programming-language/)
 * [2023-11-14, 13:56:52](https://lobste.rs/s/mr1azy/using_jsx_on_server_as_template_engine) - [Using JSX on the server as a template engine](https://evertpot.com/jsx-template/)
 * [2023-11-14, 10:24:21](https://lobste.rs/s/trv4iu/rust_without_crates_io) - [Rust without crates.io](https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html)

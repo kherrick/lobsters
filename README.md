@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-14, 15:00:03](https://lobste.rs/s/afnnq9/pypi_has_completed_its_first_security) - [PyPI has completed its first security audit - The Python Package Index](https://blog.pypi.org/posts/2023-11-14-1-pypi-completes-first-security-audit/)
 * [2023-11-14, 13:59:00](https://lobste.rs/s/wyeffq/decade_developing_programming_language) - [A decade of developing a programming language](https://yorickpeterse.com/articles/a-decade-of-developing-a-programming-language/)
 * [2023-11-14, 13:56:52](https://lobste.rs/s/mr1azy/using_jsx_on_server_as_template_engine) - [Using JSX on the server as a template engine](https://evertpot.com/jsx-template/)
 * [2023-11-14, 10:24:21](https://lobste.rs/s/trv4iu/rust_without_crates_io) - [Rust without crates.io](https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html)
@@ -14,7 +15,6 @@
 * [2023-11-14, 00:51:24](https://lobste.rs/s/5y6lvq/interface_kai_krause_s_software) - [The Interface of Kai Krause's Software](https://mprove.de/script/99/kai/)
 * [2023-11-14, 00:44:06](https://lobste.rs/s/9m2yl2/first_cryptographic_keys_protecting_ssh) - [In a first, cryptographic keys protecting SSH connections stolen in new attack](https://arstechnica.com/security/2023/11/hackers-can-steal-ssh-cryptographic-keys-in-new-cutting-edge-attack/)
 * [2023-11-13, 20:46:11](https://lobste.rs/s/sgl3lp/programming_is_forgetting_toward_new) - [Programming is Forgetting: Toward a New Hacker Ethic](http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/)
-* [2023-11-13, 20:10:47](https://lobste.rs/s/6r8oej/openbsd_formal_driver_verification_with) - [OpenBSD formal driver verification with SeL4](https://arxiv.org/abs/2311.03585)
 * [2023-11-13, 18:40:14](https://lobste.rs/s/qbwmqk/cloud_is_just_my_basement_s_computers) - [The Cloud Is Just My Basement's Computers](https://aeracode.org/2023/11/13/cloud-servers-basement/)
 * [2023-11-13, 17:57:10](https://lobste.rs/s/2bhgda/improving_dead_code_elimination) - [Improving the dead code elimination algorithm in js_of_ocaml](https://www.micahcantor.com/blog/js-of-ocaml-dead-code/)
 * [2023-11-13, 15:45:33](https://lobste.rs/s/odk5kl/you_should_track_your_finances_toml) - [You should track your finances in TOML](https://kmaasrud.com/blog/track-finances-in-toml.html)
