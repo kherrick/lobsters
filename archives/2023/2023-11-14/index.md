@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 19:19:51](https://lobste.rs/s/o10lnw/querying_every_file_every_release_on) - [Querying every file in every release on the Python Package Index](https://sethmlarson.dev/security-developer-in-residence-weekly-report-18)
 * [2023-11-14, 18:50:35](https://lobste.rs/s/8wgqyr/reptar) - [Reptar](https://lock.cmpxchg8b.com/reptar.html)
 * [2023-11-14, 18:44:58](https://lobste.rs/s/p3gbwp/beginners_should_use_django_not_flask) - [Beginners should use Django, not Flask](https://www.bitecode.dev/p/beginners-should-use-django-not-flask)
 * [2023-11-14, 18:29:19](https://lobste.rs/s/b49uji/gitea_1_21_is_released) - [Gitea 1.21 is released](https://blog.gitea.com/release-of-1.21.0/)
