@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-14, 06:54:46](https://lobste.rs/s/ksz9x8/remote_access_mac_file_system_from_ios) - [Remote Access Mac File System from iOS/iPad](https://cosmicqbit.dev/remote-access-mac-file-system/)
 * [2023-11-14, 06:42:04](https://lobste.rs/s/yyhgyo/beyond_typescript_differences_between) - [Beyond TypeScript: Differences Between Typed Languages](https://tech.ahrefs.com/beyond-typescript-differences-between-typed-languages-f3e14253)
 * [2023-11-14, 06:05:04](https://lobste.rs/s/h2dszz/yes_ubuntu_is_withholding_security) - [Yes, Ubuntu Is Withholding Security Patches for Some Software](https://www.flu0r1ne.net/logs/ubuntu_withholding_universe_security_patches)
 * [2023-11-14, 05:52:12](https://lobste.rs/s/z5ogrr/use_https_resource_records) - [Use of HTTPS Resource Records](https://www.netmeister.org/blog/https-rrs.html)
@@ -23,7 +24,6 @@
 * [2023-11-13, 04:14:42](https://lobste.rs/s/3anish/url_explained_fundamentals) - [URL explained - The Fundamentals](https://ittavern.com/url-explained-the-fundamentals/)
 * [2023-11-12, 21:53:23](https://lobste.rs/s/v1yooo/proposal_html_element_for_spoilers) - [Proposal: an HTML element for spoilers](https://seirdy.one/posts/2023/11/12/spoiler-element/)
 * [2023-11-12, 20:19:11](https://lobste.rs/s/rbnnt9/stop_deploying_web_application) - [Stop deploying web application firewalls](https://www.macchaffee.com/blog/2023/wafs/)
-* [2023-11-12, 17:48:33](https://lobste.rs/s/avl83j/html_first) - [HTML First](https://html-first.com/)
 * [2023-11-12, 09:12:08](https://lobste.rs/s/wlan3i/github_actions_are_problem) - [GitHub Actions are a Problem](https://felix-knorr.net/posts/2023-11-11-github-actions.html)
 
 ## [Archives](archives/index.md)
