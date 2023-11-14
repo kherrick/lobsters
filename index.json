@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-14, 06:42:04",
+      "https://lobste.rs/s/yyhgyo/beyond_typescript_differences_between"
+    ],
+    [
+      "Beyond TypeScript: Differences Between Typed Languages",
+      "https://tech.ahrefs.com/beyond-typescript-differences-between-typed-languages-f3e14253"
+    ]
+  ],
+  [
+    [
       "2023-11-14, 06:05:04",
       "https://lobste.rs/s/h2dszz/yes_ubuntu_is_withholding_security"
     ],
@@ -177,16 +187,6 @@
     [
       "Reasons to prefer blake3 over sha256",
       "https://peergos.org/posts/blake3"
-    ]
-  ],
-  [
-    [
-      "2023-11-13, 08:20:19",
-      "https://lobste.rs/s/mmqppw/what_i_learned_from_luajit_by_vyacheslav"
-    ],
-    [
-      "What I learned from LuaJIT by Vyacheslav Egorov",
-      "https://www.youtube.com/watch?v=nsyDjqPE8To"
     ]
   ],
   [
