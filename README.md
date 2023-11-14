@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-14, 18:50:35](https://lobste.rs/s/8wgqyr/reptar) - [Reptar](https://lock.cmpxchg8b.com/reptar.html)
+* [2023-11-14, 18:44:58](https://lobste.rs/s/p3gbwp/beginners_should_use_django_not_flask) - [Beginners should use Django, not Flask](https://www.bitecode.dev/p/beginners-should-use-django-not-flask)
 * [2023-11-14, 18:29:19](https://lobste.rs/s/b49uji/gitea_1_21_is_released) - [Gitea 1.21 is released](https://blog.gitea.com/release-of-1.21.0/)
 * [2023-11-14, 18:20:20](https://lobste.rs/s/ndhtwi/scryer_prolog_meetup_2023_notes) - [Scryer Prolog Meetup 2023 Notes](https://blog.adrianistan.eu/scryer-prolog-meetup-2023-notes)
 * [2023-11-14, 18:09:46](https://lobste.rs/s/znskwx/yjit_is_most_memory_efficient_ruby_jit) - [YJIT Is the Most Memory-Efficient Ruby JIT](https://railsatscale.com/2023-11-07-yjit-is-the-most-memory-efficient-ruby-jit/)
@@ -18,12 +20,10 @@
 * [2023-11-14, 05:13:12](https://lobste.rs/s/ojkljq/building_occupancy_sensor_with_esp32) - [Building an occupancy sensor with an ESP32 and a serverless DB](https://matthew.science/posts/occupancy/)
 * [2023-11-14, 04:53:44](https://lobste.rs/s/2ctxxg/understanding_3d_gaussian_splats_by) - [Understanding 3D Gaussian Splats by writing a software renderer](https://www.thomasantony.com/posts/gaussian-splatting-renderer/)
 * [2023-11-14, 00:51:24](https://lobste.rs/s/5y6lvq/interface_kai_krause_s_software) - [The Interface of Kai Krause's Software](https://mprove.de/script/99/kai/)
-* [2023-11-14, 00:44:06](https://lobste.rs/s/9m2yl2/first_cryptographic_keys_protecting_ssh) - [In a first, cryptographic keys protecting SSH connections stolen in new attack](https://arstechnica.com/security/2023/11/hackers-can-steal-ssh-cryptographic-keys-in-new-cutting-edge-attack/)
 * [2023-11-13, 20:46:11](https://lobste.rs/s/sgl3lp/programming_is_forgetting_toward_new) - [Programming is Forgetting: Toward a New Hacker Ethic](http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/)
 * [2023-11-13, 18:40:14](https://lobste.rs/s/qbwmqk/cloud_is_just_my_basement_s_computers) - [The Cloud Is Just My Basement's Computers](https://aeracode.org/2023/11/13/cloud-servers-basement/)
 * [2023-11-13, 15:45:33](https://lobste.rs/s/odk5kl/you_should_track_your_finances_toml) - [You should track your finances in TOML](https://kmaasrud.com/blog/track-finances-in-toml.html)
 * [2023-11-13, 12:52:51](https://lobste.rs/s/daw1oa/reasons_prefer_blake3_over_sha256) - [Reasons to prefer blake3 over sha256](https://peergos.org/posts/blake3)
-* [2023-11-12, 21:53:23](https://lobste.rs/s/v1yooo/proposal_html_element_for_spoilers) - [Proposal: an HTML element for spoilers](https://seirdy.one/posts/2023/11/12/spoiler-element/)
 * [2023-11-12, 20:19:11](https://lobste.rs/s/rbnnt9/stop_deploying_web_application) - [Stop deploying web application firewalls](https://www.macchaffee.com/blog/2023/wafs/)
 
 ## [Archives](archives/index.md)

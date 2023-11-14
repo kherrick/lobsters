@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 18:50:35](https://lobste.rs/s/8wgqyr/reptar) - [Reptar](https://lock.cmpxchg8b.com/reptar.html)
+* [2023-11-14, 18:44:58](https://lobste.rs/s/p3gbwp/beginners_should_use_django_not_flask) - [Beginners should use Django, not Flask](https://www.bitecode.dev/p/beginners-should-use-django-not-flask)
 * [2023-11-14, 18:29:19](https://lobste.rs/s/b49uji/gitea_1_21_is_released) - [Gitea 1.21 is released](https://blog.gitea.com/release-of-1.21.0/)
 * [2023-11-14, 18:20:20](https://lobste.rs/s/ndhtwi/scryer_prolog_meetup_2023_notes) - [Scryer Prolog Meetup 2023 Notes](https://blog.adrianistan.eu/scryer-prolog-meetup-2023-notes)
 * [2023-11-14, 18:09:46](https://lobste.rs/s/znskwx/yjit_is_most_memory_efficient_ruby_jit) - [YJIT Is the Most Memory-Efficient Ruby JIT](https://railsatscale.com/2023-11-07-yjit-is-the-most-memory-efficient-ruby-jit/)
