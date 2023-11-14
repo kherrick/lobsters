@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-14, 13:59:00](https://lobste.rs/s/wyeffq/decade_developing_programming_language) - [A decade of developing a programming language](https://yorickpeterse.com/articles/a-decade-of-developing-a-programming-language/)
+* [2023-11-14, 13:56:52](https://lobste.rs/s/mr1azy/using_jsx_on_server_as_template_engine) - [Using JSX on the server as a template engine](https://evertpot.com/jsx-template/)
 * [2023-11-14, 10:24:21](https://lobste.rs/s/trv4iu/rust_without_crates_io) - [Rust without crates.io](https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html)
 * [2023-11-14, 10:09:34](https://lobste.rs/s/upiyhx/four_kinds_optimisation) - [Four Kinds of Optimisation](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)
 * [2023-11-14, 09:09:24](https://lobste.rs/s/2qepkn/cheri_picking_leveraging_capability) - [CHERI-picking: Leveraging capability hardware for prefetching](https://dl.acm.org/doi/pdf/10.1145/3623759.3624553)
@@ -16,8 +18,6 @@
 * [2023-11-13, 18:40:14](https://lobste.rs/s/qbwmqk/cloud_is_just_my_basement_s_computers) - [The Cloud Is Just My Basement's Computers](https://aeracode.org/2023/11/13/cloud-servers-basement/)
 * [2023-11-13, 17:57:10](https://lobste.rs/s/2bhgda/improving_dead_code_elimination) - [Improving the dead code elimination algorithm in js_of_ocaml](https://www.micahcantor.com/blog/js-of-ocaml-dead-code/)
 * [2023-11-13, 15:45:33](https://lobste.rs/s/odk5kl/you_should_track_your_finances_toml) - [You should track your finances in TOML](https://kmaasrud.com/blog/track-finances-in-toml.html)
-* [2023-11-13, 15:01:33](https://lobste.rs/s/wb35ez/blake3_is_extremely_fast_parallel) - [BLAKE3 Is an Extremely Fast, Parallel Cryptographic Hash (2020)](https://www.infoq.com/news/2020/01/blake3-fast-crypto-hash/)
-* [2023-11-13, 14:41:26](https://lobste.rs/s/6mkbtw/introducing_yet_another_rust_resource) - [Introducing Yet Another Rust Resource](https://ntietz.com/blog/introducing-yet-another-rust-resource-or-yarr/)
 * [2023-11-13, 13:11:34](https://lobste.rs/s/hw6cqf/cathode_retro_collection_shaders) - [Cathode-Retro: A collection of shaders to emulate the display of an NTSC signal through a CRT TV](https://github.com/DeadlyRedCube/Cathode-Retro)
 * [2023-11-13, 12:59:51](https://lobste.rs/s/21lsnm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/21lsnm/what_are_you_doing_this_week)
 * [2023-11-13, 12:52:51](https://lobste.rs/s/daw1oa/reasons_prefer_blake3_over_sha256) - [Reasons to prefer blake3 over sha256](https://peergos.org/posts/blake3)
