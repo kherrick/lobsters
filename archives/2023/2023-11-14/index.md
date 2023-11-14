@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 09:09:24](https://lobste.rs/s/2qepkn/cheri_picking_leveraging_capability) - [CHERI-picking: Leveraging capability hardware for prefetching](https://dl.acm.org/doi/pdf/10.1145/3623759.3624553)
 * [2023-11-14, 06:54:46](https://lobste.rs/s/ksz9x8/remote_access_mac_file_system_from_ios) - [Remote Access Mac File System from iOS/iPad](https://cosmicqbit.dev/remote-access-mac-file-system/)
 * [2023-11-14, 06:42:04](https://lobste.rs/s/yyhgyo/beyond_typescript_differences_between) - [Beyond TypeScript: Differences Between Typed Languages](https://tech.ahrefs.com/beyond-typescript-differences-between-typed-languages-f3e14253)
 * [2023-11-14, 06:05:04](https://lobste.rs/s/h2dszz/yes_ubuntu_is_withholding_security) - [Yes, Ubuntu Is Withholding Security Patches for Some Software](https://www.flu0r1ne.net/logs/ubuntu_withholding_universe_security_patches)
