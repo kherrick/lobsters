@@ -2,9 +2,9 @@
 
 * [2023-11-14, 21:57:46](https://lobste.rs/s/gtgbd6/curl_on_100_operating_systems) - [curl on 100 operating systems](https://daniel.haxx.se/blog/2023/11/14/curl-on-100-operating-systems/)
 * [2023-11-14, 21:56:46](https://lobste.rs/s/gmotvn/daily_driving_freebsd) - [Daily Driving FreeBSD](https://www.lilysthings.org/blog/daily-driving-freebsd/)
+* [2023-11-14, 21:55:54](https://lobste.rs/s/edxfnz/some_notes_on_nix_flakes) - [Some notes on nix flakes](https://jvns.ca/blog/2023/11/11/notes-on-nix-flakes/)
 * [2023-11-14, 21:36:17](https://lobste.rs/s/lcjezk/byte_string_library_for_rust) - [A byte string library for Rust](https://blog.burntsushi.net/bstr/)
 * [2023-11-14, 21:18:01](https://lobste.rs/s/slx8us/who_watches_watchmen_integrating_elixir) - [Who Watches Watchmen? - Integrating Elixir applications with systemd - Part 2](https://hauleth.dev/post/who-watches-watchmen-ii/)
-* [2023-11-14, 20:21:59](https://lobste.rs/s/wavjdc/webgbcam) - [webgbcam](https://maple.pet/webgbcam/)
 * [2023-11-14, 19:55:15](https://lobste.rs/s/foo1n7/we_need_bring_back_webrings) - [We Need to Bring Back Webrings](https://arne.me/articles/we-need-to-bring-back-webrings)
 * [2023-11-14, 19:50:20](https://lobste.rs/s/ngiofk/when_should_you_choose_c_as_your_starting) - [When should you choose C++ as your starting language?](https://steelph0enix.github.io/posts/choosing-first-language/)
 * [2023-11-14, 18:50:35](https://lobste.rs/s/8wgqyr/reptar) - [Reptar](https://lock.cmpxchg8b.com/reptar.html)

@@ -6,6 +6,7 @@
 
 * [2023-11-14, 21:57:46](https://lobste.rs/s/gtgbd6/curl_on_100_operating_systems) - [curl on 100 operating systems](https://daniel.haxx.se/blog/2023/11/14/curl-on-100-operating-systems/)
 * [2023-11-14, 21:56:46](https://lobste.rs/s/gmotvn/daily_driving_freebsd) - [Daily Driving FreeBSD](https://www.lilysthings.org/blog/daily-driving-freebsd/)
+* [2023-11-14, 21:55:54](https://lobste.rs/s/edxfnz/some_notes_on_nix_flakes) - [Some notes on nix flakes](https://jvns.ca/blog/2023/11/11/notes-on-nix-flakes/)
 * [2023-11-14, 21:36:17](https://lobste.rs/s/lcjezk/byte_string_library_for_rust) - [A byte string library for Rust](https://blog.burntsushi.net/bstr/)
 * [2023-11-14, 21:18:01](https://lobste.rs/s/slx8us/who_watches_watchmen_integrating_elixir) - [Who Watches Watchmen? - Integrating Elixir applications with systemd - Part 2](https://hauleth.dev/post/who-watches-watchmen-ii/)
 * [2023-11-14, 20:21:59](https://lobste.rs/s/wavjdc/webgbcam) - [webgbcam](https://maple.pet/webgbcam/)
