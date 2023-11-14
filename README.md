@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-14, 04:53:44](https://lobste.rs/s/2ctxxg/understanding_3d_gaussian_splats_by) - [Understanding 3D Gaussian Splats by writing a software renderer](https://www.thomasantony.com/posts/gaussian-splatting-renderer/)
 * [2023-11-14, 00:51:24](https://lobste.rs/s/5y6lvq/interface_kai_krause_s_software) - [The Interface of Kai Krause's Software](https://mprove.de/script/99/kai/)
 * [2023-11-14, 00:44:06](https://lobste.rs/s/9m2yl2/first_cryptographic_keys_protecting_ssh) - [In a first, cryptographic keys protecting SSH connections stolen in new attack](https://arstechnica.com/security/2023/11/hackers-can-steal-ssh-cryptographic-keys-in-new-cutting-edge-attack/)
 * [2023-11-13, 20:46:11](https://lobste.rs/s/sgl3lp/programming_is_forgetting_toward_new) - [Programming is Forgetting: Toward a New Hacker Ethic](http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/)
@@ -10,7 +11,6 @@
 * [2023-11-13, 15:45:33](https://lobste.rs/s/odk5kl/you_should_track_your_finances_toml) - [You should track your finances in TOML](https://kmaasrud.com/blog/track-finances-in-toml.html)
 * [2023-11-13, 15:13:48](https://lobste.rs/s/bouvid/kangarootwelve_fast_hashing_based_on) - [KangarooTwelve: fast hashing based on Keccak-p (2018)](https://keccak.team/kangarootwelve.html)
 * [2023-11-13, 15:01:33](https://lobste.rs/s/wb35ez/blake3_is_extremely_fast_parallel) - [BLAKE3 Is an Extremely Fast, Parallel Cryptographic Hash (2020)](https://www.infoq.com/news/2020/01/blake3-fast-crypto-hash/)
-* [2023-11-13, 14:53:42](https://lobste.rs/s/xfi0uf/solving_sudoku_with_sby_formal) - [Solving a Sudoku with SBY and Formal Verification](https://blog.yosyshq.com/p/solving-sudoku-with-sby/)
 * [2023-11-13, 14:41:26](https://lobste.rs/s/6mkbtw/introducing_yet_another_rust_resource) - [Introducing Yet Another Rust Resource](https://ntietz.com/blog/introducing-yet-another-rust-resource-or-yarr/)
 * [2023-11-13, 13:11:34](https://lobste.rs/s/hw6cqf/cathode_retro_collection_shaders) - [Cathode-Retro: A collection of shaders to emulate the display of an NTSC signal through a CRT TV](https://github.com/DeadlyRedCube/Cathode-Retro)
 * [2023-11-13, 12:59:51](https://lobste.rs/s/21lsnm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/21lsnm/what_are_you_doing_this_week)
