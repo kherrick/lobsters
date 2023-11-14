@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 10:24:21](https://lobste.rs/s/trv4iu/rust_without_crates_io) - [Rust without crates.io](https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html)
+* [2023-11-14, 10:09:34](https://lobste.rs/s/upiyhx/four_kinds_optimisation) - [Four Kinds of Optimisation](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)
 * [2023-11-14, 09:09:24](https://lobste.rs/s/2qepkn/cheri_picking_leveraging_capability) - [CHERI-picking: Leveraging capability hardware for prefetching](https://dl.acm.org/doi/pdf/10.1145/3623759.3624553)
 * [2023-11-14, 06:54:46](https://lobste.rs/s/ksz9x8/remote_access_mac_file_system_from_ios) - [Remote Access Mac File System from iOS/iPad](https://cosmicqbit.dev/remote-access-mac-file-system/)
 * [2023-11-14, 06:42:04](https://lobste.rs/s/yyhgyo/beyond_typescript_differences_between) - [Beyond TypeScript: Differences Between Typed Languages](https://tech.ahrefs.com/beyond-typescript-differences-between-typed-languages-f3e14253)
