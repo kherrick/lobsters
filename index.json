@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-14, 21:57:46",
+      "https://lobste.rs/s/gtgbd6/curl_on_100_operating_systems"
+    ],
+    [
+      "curl on 100 operating systems",
+      "https://daniel.haxx.se/blog/2023/11/14/curl-on-100-operating-systems/"
+    ]
+  ],
+  [
+    [
+      "2023-11-14, 21:56:46",
+      "https://lobste.rs/s/gmotvn/daily_driving_freebsd"
+    ],
+    [
+      "Daily Driving FreeBSD",
+      "https://www.lilysthings.org/blog/daily-driving-freebsd/"
+    ]
+  ],
+  [
+    [
       "2023-11-14, 21:36:17",
       "https://lobste.rs/s/lcjezk/byte_string_library_for_rust"
     ],
@@ -227,26 +247,6 @@
     [
       "The Interface of Kai Krause's Software",
       "https://mprove.de/script/99/kai/"
-    ]
-  ],
-  [
-    [
-      "2023-11-13, 18:40:14",
-      "https://lobste.rs/s/qbwmqk/cloud_is_just_my_basement_s_computers"
-    ],
-    [
-      "The Cloud Is Just My Basement's Computers",
-      "https://aeracode.org/2023/11/13/cloud-servers-basement/"
-    ]
-  ],
-  [
-    [
-      "2023-11-12, 20:19:11",
-      "https://lobste.rs/s/rbnnt9/stop_deploying_web_application"
-    ],
-    [
-      "Stop deploying web application firewalls",
-      "https://www.macchaffee.com/blog/2023/wafs/"
     ]
   ]
 ]
