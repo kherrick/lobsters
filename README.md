@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-14, 06:42:04](https://lobste.rs/s/yyhgyo/beyond_typescript_differences_between) - [Beyond TypeScript: Differences Between Typed Languages](https://tech.ahrefs.com/beyond-typescript-differences-between-typed-languages-f3e14253)
 * [2023-11-14, 06:05:04](https://lobste.rs/s/h2dszz/yes_ubuntu_is_withholding_security) - [Yes, Ubuntu Is Withholding Security Patches for Some Software](https://www.flu0r1ne.net/logs/ubuntu_withholding_universe_security_patches)
 * [2023-11-14, 05:52:12](https://lobste.rs/s/z5ogrr/use_https_resource_records) - [Use of HTTPS Resource Records](https://www.netmeister.org/blog/https-rrs.html)
 * [2023-11-14, 05:13:12](https://lobste.rs/s/ojkljq/building_occupancy_sensor_with_esp32) - [Building an occupancy sensor with an ESP32 and a serverless DB](https://matthew.science/posts/occupancy/)
@@ -18,7 +19,6 @@
 * [2023-11-13, 13:11:34](https://lobste.rs/s/hw6cqf/cathode_retro_collection_shaders) - [Cathode-Retro: A collection of shaders to emulate the display of an NTSC signal through a CRT TV](https://github.com/DeadlyRedCube/Cathode-Retro)
 * [2023-11-13, 12:59:51](https://lobste.rs/s/21lsnm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/21lsnm/what_are_you_doing_this_week)
 * [2023-11-13, 12:52:51](https://lobste.rs/s/daw1oa/reasons_prefer_blake3_over_sha256) - [Reasons to prefer blake3 over sha256](https://peergos.org/posts/blake3)
-* [2023-11-13, 08:20:19](https://lobste.rs/s/mmqppw/what_i_learned_from_luajit_by_vyacheslav) - [What I learned from LuaJIT by Vyacheslav Egorov](https://www.youtube.com/watch?v=nsyDjqPE8To)
 * [2023-11-13, 07:52:30](https://lobste.rs/s/n6vtps/debian_on_mellanox_sn2700_32x100g) - [Debian on Mellanox SN2700 (32x100G)](https://ipng.ch/s/articles/2023/11/11/mellanox-sn2700.html)
 * [2023-11-13, 04:14:42](https://lobste.rs/s/3anish/url_explained_fundamentals) - [URL explained - The Fundamentals](https://ittavern.com/url-explained-the-fundamentals/)
 * [2023-11-12, 21:53:23](https://lobste.rs/s/v1yooo/proposal_html_element_for_spoilers) - [Proposal: an HTML element for spoilers](https://seirdy.one/posts/2023/11/12/spoiler-element/)
