@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-14, 05:52:12](https://lobste.rs/s/z5ogrr/use_https_resource_records) - [Use of HTTPS Resource Records](https://www.netmeister.org/blog/https-rrs.html)
 * [2023-11-14, 05:13:12](https://lobste.rs/s/ojkljq/building_occupancy_sensor_with_esp32) - [Building an occupancy sensor with an ESP32 and a serverless DB](https://matthew.science/posts/occupancy/)
 * [2023-11-14, 04:53:44](https://lobste.rs/s/2ctxxg/understanding_3d_gaussian_splats_by) - [Understanding 3D Gaussian Splats by writing a software renderer](https://www.thomasantony.com/posts/gaussian-splatting-renderer/)
 * [2023-11-14, 00:51:24](https://lobste.rs/s/5y6lvq/interface_kai_krause_s_software) - [The Interface of Kai Krause's Software](https://mprove.de/script/99/kai/)
@@ -23,7 +24,6 @@
 * [2023-11-12, 21:53:23](https://lobste.rs/s/v1yooo/proposal_html_element_for_spoilers) - [Proposal: an HTML element for spoilers](https://seirdy.one/posts/2023/11/12/spoiler-element/)
 * [2023-11-12, 20:19:11](https://lobste.rs/s/rbnnt9/stop_deploying_web_application) - [Stop deploying web application firewalls](https://www.macchaffee.com/blog/2023/wafs/)
 * [2023-11-12, 17:48:33](https://lobste.rs/s/avl83j/html_first) - [HTML First](https://html-first.com/)
-* [2023-11-12, 11:40:19](https://lobste.rs/s/eat48g/archive_your_old_projects) - [Archive Your Old Projects](https://arne.me/articles/archive-your-old-projects)
 * [2023-11-12, 09:12:08](https://lobste.rs/s/wlan3i/github_actions_are_problem) - [GitHub Actions are a Problem](https://felix-knorr.net/posts/2023-11-11-github-actions.html)
 
 ## [Archives](archives/index.md)
