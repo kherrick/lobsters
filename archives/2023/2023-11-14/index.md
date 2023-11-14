@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 18:20:20](https://lobste.rs/s/ndhtwi/scryer_prolog_meetup_2023_notes) - [Scryer Prolog Meetup 2023 Notes](https://blog.adrianistan.eu/scryer-prolog-meetup-2023-notes)
 * [2023-11-14, 18:09:46](https://lobste.rs/s/znskwx/yjit_is_most_memory_efficient_ruby_jit) - [YJIT Is the Most Memory-Efficient Ruby JIT](https://railsatscale.com/2023-11-07-yjit-is-the-most-memory-efficient-ruby-jit/)
 * [2023-11-14, 17:50:18](https://lobste.rs/s/6hxmah/rational_programming_language) - [The Rational Programming Language](https://github.com/cel7t/Rational)
 * [2023-11-14, 17:31:31](https://lobste.rs/s/syn0qc/my_favorite_gleam_feature) - [My Favorite Gleam Feature](https://erikarow.land/notes/gleam-favorite-feature)

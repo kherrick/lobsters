@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-14, 18:20:20](https://lobste.rs/s/ndhtwi/scryer_prolog_meetup_2023_notes) - [Scryer Prolog Meetup 2023 Notes](https://blog.adrianistan.eu/scryer-prolog-meetup-2023-notes)
 * [2023-11-14, 18:09:46](https://lobste.rs/s/znskwx/yjit_is_most_memory_efficient_ruby_jit) - [YJIT Is the Most Memory-Efficient Ruby JIT](https://railsatscale.com/2023-11-07-yjit-is-the-most-memory-efficient-ruby-jit/)
 * [2023-11-14, 17:50:18](https://lobste.rs/s/6hxmah/rational_programming_language) - [The Rational Programming Language](https://github.com/cel7t/Rational)
 * [2023-11-14, 17:31:31](https://lobste.rs/s/syn0qc/my_favorite_gleam_feature) - [My Favorite Gleam Feature](https://erikarow.land/notes/gleam-favorite-feature)
@@ -22,7 +23,6 @@
 * [2023-11-13, 18:40:14](https://lobste.rs/s/qbwmqk/cloud_is_just_my_basement_s_computers) - [The Cloud Is Just My Basement's Computers](https://aeracode.org/2023/11/13/cloud-servers-basement/)
 * [2023-11-13, 15:45:33](https://lobste.rs/s/odk5kl/you_should_track_your_finances_toml) - [You should track your finances in TOML](https://kmaasrud.com/blog/track-finances-in-toml.html)
 * [2023-11-13, 12:52:51](https://lobste.rs/s/daw1oa/reasons_prefer_blake3_over_sha256) - [Reasons to prefer blake3 over sha256](https://peergos.org/posts/blake3)
-* [2023-11-13, 07:52:30](https://lobste.rs/s/n6vtps/debian_on_mellanox_sn2700_32x100g) - [Debian on Mellanox SN2700 (32x100G)](https://ipng.ch/s/articles/2023/11/11/mellanox-sn2700.html)
 * [2023-11-12, 21:53:23](https://lobste.rs/s/v1yooo/proposal_html_element_for_spoilers) - [Proposal: an HTML element for spoilers](https://seirdy.one/posts/2023/11/12/spoiler-element/)
 * [2023-11-12, 20:19:11](https://lobste.rs/s/rbnnt9/stop_deploying_web_application) - [Stop deploying web application firewalls](https://www.macchaffee.com/blog/2023/wafs/)
 
