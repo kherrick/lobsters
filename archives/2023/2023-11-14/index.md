@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 18:09:46](https://lobste.rs/s/znskwx/yjit_is_most_memory_efficient_ruby_jit) - [YJIT Is the Most Memory-Efficient Ruby JIT](https://railsatscale.com/2023-11-07-yjit-is-the-most-memory-efficient-ruby-jit/)
+* [2023-11-14, 17:50:18](https://lobste.rs/s/6hxmah/rational_programming_language) - [The Rational Programming Language](https://github.com/cel7t/Rational)
 * [2023-11-14, 17:31:31](https://lobste.rs/s/syn0qc/my_favorite_gleam_feature) - [My Favorite Gleam Feature](https://erikarow.land/notes/gleam-favorite-feature)
 * [2023-11-14, 16:33:16](https://lobste.rs/s/lxl6w6/announcing_net_8) - [Announcing .NET 8](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8/)
 * [2023-11-14, 15:51:19](https://lobste.rs/s/gr1ky8/replacing_hls_dash_media_over_quic) - [Replacing HLS/DASH - Media over QUIC](https://quic.video/blog/replacing-hls-dash/)
