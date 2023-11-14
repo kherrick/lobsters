@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-14, 06:05:04",
+      "https://lobste.rs/s/h2dszz/yes_ubuntu_is_withholding_security"
+    ],
+    [
+      "Yes, Ubuntu Is Withholding Security Patches for Some Software",
+      "https://www.flu0r1ne.net/logs/ubuntu_withholding_universe_security_patches"
+    ]
+  ],
+  [
+    [
       "2023-11-14, 05:52:12",
       "https://lobste.rs/s/z5ogrr/use_https_resource_records"
     ],
@@ -197,16 +207,6 @@
     [
       "URL explained - The Fundamentals",
       "https://ittavern.com/url-explained-the-fundamentals/"
-    ]
-  ],
-  [
-    [
-      "2023-11-13, 02:00:04",
-      "https://lobste.rs/s/ypjr5l/how_kernel_developer_made_my_styluses"
-    ],
-    [
-      "How a kernel developer made my styluses work again on newer kernels",
-      "https://www.davidrevoy.com/article1002/how-a-kernel-developer-made-my-styluses-work-again"
     ]
   ],
   [
