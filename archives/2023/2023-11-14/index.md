@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-14](index.md)
 
+* [2023-11-14, 20:21:59](https://lobste.rs/s/wavjdc/webgbcam) - [webgbcam](https://maple.pet/webgbcam/)
 * [2023-11-14, 19:55:15](https://lobste.rs/s/foo1n7/we_need_bring_back_webrings) - [We Need to Bring Back Webrings](https://arne.me/articles/we-need-to-bring-back-webrings)
 * [2023-11-14, 19:50:20](https://lobste.rs/s/ngiofk/when_should_you_choose_c_as_your_starting) - [When should you choose C++ as your starting language?](https://steelph0enix.github.io/posts/choosing-first-language/)
 * [2023-11-14, 19:19:51](https://lobste.rs/s/o10lnw/querying_every_file_every_release_on) - [Querying every file in every release on the Python Package Index](https://sethmlarson.dev/security-developer-in-residence-weekly-report-18)
