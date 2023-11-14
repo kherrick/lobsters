@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-14, 19:55:15](https://lobste.rs/s/foo1n7/we_need_bring_back_webrings) - [We Need to Bring Back Webrings](https://arne.me/articles/we-need-to-bring-back-webrings)
 * [2023-11-14, 19:50:20](https://lobste.rs/s/ngiofk/when_should_you_choose_c_as_your_starting) - [When should you choose C++ as your starting language?](https://steelph0enix.github.io/posts/choosing-first-language/)
 * [2023-11-14, 19:19:51](https://lobste.rs/s/o10lnw/querying_every_file_every_release_on) - [Querying every file in every release on the Python Package Index](https://sethmlarson.dev/security-developer-in-residence-weekly-report-18)
 * [2023-11-14, 18:50:35](https://lobste.rs/s/8wgqyr/reptar) - [Reptar](https://lock.cmpxchg8b.com/reptar.html)
@@ -19,7 +20,6 @@
 * [2023-11-14, 09:09:24](https://lobste.rs/s/2qepkn/cheri_picking_leveraging_capability) - [CHERI-picking: Leveraging capability hardware for prefetching](https://dl.acm.org/doi/pdf/10.1145/3623759.3624553)
 * [2023-11-14, 06:05:04](https://lobste.rs/s/h2dszz/yes_ubuntu_is_withholding_security) - [Yes, Ubuntu Is Withholding Security Patches for Some Software](https://www.flu0r1ne.net/logs/ubuntu_withholding_universe_security_patches)
 * [2023-11-14, 05:52:12](https://lobste.rs/s/z5ogrr/use_https_resource_records) - [Use of HTTPS Resource Records](https://www.netmeister.org/blog/https-rrs.html)
-* [2023-11-14, 05:13:12](https://lobste.rs/s/ojkljq/building_occupancy_sensor_with_esp32) - [Building an occupancy sensor with an ESP32 and a serverless DB](https://matthew.science/posts/occupancy/)
 * [2023-11-14, 00:51:24](https://lobste.rs/s/5y6lvq/interface_kai_krause_s_software) - [The Interface of Kai Krause's Software](https://mprove.de/script/99/kai/)
 * [2023-11-13, 18:40:14](https://lobste.rs/s/qbwmqk/cloud_is_just_my_basement_s_computers) - [The Cloud Is Just My Basement's Computers](https://aeracode.org/2023/11/13/cloud-servers-basement/)
 * [2023-11-13, 15:45:33](https://lobste.rs/s/odk5kl/you_should_track_your_finances_toml) - [You should track your finances in TOML](https://kmaasrud.com/blog/track-finances-in-toml.html)
