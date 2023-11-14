@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-14, 18:29:19](https://lobste.rs/s/b49uji/gitea_1_21_is_released) - [Gitea 1.21 is released](https://blog.gitea.com/release-of-1.21.0/)
 * [2023-11-14, 18:20:20](https://lobste.rs/s/ndhtwi/scryer_prolog_meetup_2023_notes) - [Scryer Prolog Meetup 2023 Notes](https://blog.adrianistan.eu/scryer-prolog-meetup-2023-notes)
 * [2023-11-14, 18:09:46](https://lobste.rs/s/znskwx/yjit_is_most_memory_efficient_ruby_jit) - [YJIT Is the Most Memory-Efficient Ruby JIT](https://railsatscale.com/2023-11-07-yjit-is-the-most-memory-efficient-ruby-jit/)
 * [2023-11-14, 17:50:18](https://lobste.rs/s/6hxmah/rational_programming_language) - [The Rational Programming Language](https://github.com/cel7t/Rational)
@@ -12,7 +13,6 @@
 * [2023-11-14, 10:24:21](https://lobste.rs/s/trv4iu/rust_without_crates_io) - [Rust without crates.io](https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html)
 * [2023-11-14, 10:09:34](https://lobste.rs/s/upiyhx/four_kinds_optimisation) - [Four Kinds of Optimisation](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)
 * [2023-11-14, 09:09:24](https://lobste.rs/s/2qepkn/cheri_picking_leveraging_capability) - [CHERI-picking: Leveraging capability hardware for prefetching](https://dl.acm.org/doi/pdf/10.1145/3623759.3624553)
-* [2023-11-14, 06:42:04](https://lobste.rs/s/yyhgyo/beyond_typescript_differences_between) - [Beyond TypeScript: Differences Between Typed Languages](https://tech.ahrefs.com/beyond-typescript-differences-between-typed-languages-f3e14253)
 * [2023-11-14, 06:05:04](https://lobste.rs/s/h2dszz/yes_ubuntu_is_withholding_security) - [Yes, Ubuntu Is Withholding Security Patches for Some Software](https://www.flu0r1ne.net/logs/ubuntu_withholding_universe_security_patches)
 * [2023-11-14, 05:52:12](https://lobste.rs/s/z5ogrr/use_https_resource_records) - [Use of HTTPS Resource Records](https://www.netmeister.org/blog/https-rrs.html)
 * [2023-11-14, 05:13:12](https://lobste.rs/s/ojkljq/building_occupancy_sensor_with_esp32) - [Building an occupancy sensor with an ESP32 and a serverless DB](https://matthew.science/posts/occupancy/)
