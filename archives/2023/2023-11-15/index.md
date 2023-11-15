@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-15](index.md)
 
+* [2023-11-15, 08:32:04](https://lobste.rs/s/qqzrwb/quest_for_tacit_combinators_arrays) - [The Quest for Tacit; Combinators, Arrays, and Beyond](https://www.youtube.com/watch?v=w3G3jvtZwkg)
 * [2023-11-15, 07:34:37](https://lobste.rs/s/sjlz0h/13_days_before_first_eidas_vote_still_no) - [13 days before the first eIDAS vote, still no public text](https://last-chance-for-eidas.org/update-151123)
 * [2023-11-15, 07:19:19](https://lobste.rs/s/grcmz4/escaping_edge_sandbox_bug_speaks_for) - [Escaping the Edge sandbox: A bug that speaks for itself](https://microsoftedge.github.io/edgevr/posts/Escaping-the-sandbox-A-bug-that-speaks-for-itself/)
 * [2023-11-15, 06:31:03](https://lobste.rs/s/cxjkgy/useful_functions_for_shader_live_coding) - [Useful Functions for Shader Live Coding](https://suricrasia.online/blog/shader-functions/)

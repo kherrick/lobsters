@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-11-15, 07:19:19](https://lobste.rs/s/grcmz4/escaping_edge_sandbox_bug_speaks_for) - [Escaping the Edge sandbox: A bug that speaks for itself](https://microsoftedge.github.io/edgevr/posts/Escaping-the-sandbox-A-bug-that-speaks-for-itself/)
+* [2023-11-15, 08:32:04](https://lobste.rs/s/qqzrwb/quest_for_tacit_combinators_arrays) - [The Quest for Tacit; Combinators, Arrays, and Beyond](https://www.youtube.com/watch?v=w3G3jvtZwkg)
 * [2023-11-15, 05:59:34](https://lobste.rs/s/bu8jcf/stack_buffer_overflow_attack_211bsd_on) - [Stack buffer overflow attack: 211BSD on the PDP-11](http://obsolescenceguaranteed.blogspot.com/2023/11/stack-buffer-overflow-attack-211bsd-on.html?m=1)
+* [2023-11-15, 05:20:58](https://lobste.rs/s/xcu97l/haiku_activity_contract_report_october) - [Haiku Activity & Contract Report, October 2023](https://www.haiku-os.org/blog/waddlesplash/2023-11-14_haiku_activity_contract_report_october_2023/)
 * [2023-11-15, 03:54:16](https://lobste.rs/s/loac9n/national_movie_generation_month) - [National Movie Generation Month](https://namogenmo.github.io/)
 * [2023-11-15, 01:45:24](https://lobste.rs/s/alk7m1/empirical_comparison_riscv_aarch64) - [An Empirical Comparison of the RISCV and AArch64 Instruction Sets](https://dl.acm.org/doi/pdf/10.1145/3624062.3624233)
 * [2023-11-14, 23:33:10](https://lobste.rs/s/mjlt0h/announcing_f_8) - [Announcing F# 8](https://devblogs.microsoft.com/dotnet/announcing-fsharp-8/)
@@ -21,7 +22,6 @@
 * [2023-11-14, 15:51:19](https://lobste.rs/s/gr1ky8/replacing_hls_dash_media_over_quic) - [Replacing HLS/DASH - Media over QUIC](https://quic.video/blog/replacing-hls-dash/)
 * [2023-11-14, 15:00:03](https://lobste.rs/s/afnnq9/pypi_has_completed_its_first_security) - [PyPI has completed its first security audit](https://blog.pypi.org/posts/2023-11-14-1-pypi-completes-first-security-audit/)
 * [2023-11-14, 13:59:00](https://lobste.rs/s/wyeffq/decade_developing_programming_language) - [A decade of developing a programming language](https://yorickpeterse.com/articles/a-decade-of-developing-a-programming-language/)
-* [2023-11-14, 13:56:52](https://lobste.rs/s/mr1azy/using_jsx_on_server_as_template_engine) - [Using JSX on the server as a template engine](https://evertpot.com/jsx-template/)
 * [2023-11-14, 10:24:21](https://lobste.rs/s/trv4iu/rust_without_crates_io) - [Rust without crates.io](https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html)
 * [2023-11-14, 10:09:34](https://lobste.rs/s/upiyhx/four_kinds_optimisation) - [Four Kinds of Optimisation](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)
 * [2023-11-14, 06:05:04](https://lobste.rs/s/h2dszz/yes_ubuntu_is_withholding_security) - [Yes, Ubuntu Is Withholding Security Patches for Some Software](https://www.flu0r1ne.net/logs/ubuntu_withholding_universe_security_patches)
