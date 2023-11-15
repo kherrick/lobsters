@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-11-15, 08:32:04",
-      "https://lobste.rs/s/qqzrwb/quest_for_tacit_combinators_arrays"
+      "2023-11-15, 08:43:00",
+      "https://lobste.rs/s/binril/nix_users_you_can_fearlessly_start_using"
     ],
     [
-      "The Quest for Tacit; Combinators, Arrays, and Beyond",
-      "https://www.youtube.com/watch?v=w3G3jvtZwkg"
+      "Nix users, you can fearlessly start using Rust scripts already",
+      "https://dpc.pw/posts/nix-users-you-can-start-using-rust-scripts-already/"
+    ]
+  ],
+  [
+    [
+      "2023-11-15, 08:42:13",
+      "https://lobste.rs/s/bzcqjr/why_did_linux_choose_rust_not_c"
+    ],
+    [
+      "Why did Linux choose Rust but not C++?",
+      "https://lobste.rs/s/bzcqjr/why_did_linux_choose_rust_not_c"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Announcing .NET 8",
       "https://devblogs.microsoft.com/dotnet/announcing-dotnet-8/"
-    ]
-  ],
-  [
-    [
-      "2023-11-14, 15:51:19",
-      "https://lobste.rs/s/gr1ky8/replacing_hls_dash_media_over_quic"
-    ],
-    [
-      "Replacing HLS/DASH - Media over QUIC",
-      "https://quic.video/blog/replacing-hls-dash/"
     ]
   ],
   [
