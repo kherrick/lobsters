@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-11-15, 09:45:01](https://lobste.rs/s/njzpyq/i_accidentally_scheme) - [i accidentally a scheme](https://wingolog.org/archives/2023/11/13/i-accidentally-a-scheme)
-* [2023-11-15, 09:21:03](https://lobste.rs/s/7wzwpi/vertigo) - [vertigo](https://flak.tedunangst.com/post/vertigo)
+* [2023-11-15, 09:37:31](https://lobste.rs/s/fqbbv4/hacking_google_bard_from_prompt) - [Hacking Google Bard - From Prompt Injection to Data Exfiltration ·](https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/)
 * [2023-11-15, 08:43:00](https://lobste.rs/s/binril/nix_users_you_can_fearlessly_start_using) - [Nix users, you can fearlessly start using Rust scripts already](https://dpc.pw/posts/nix-users-you-can-start-using-rust-scripts-already/)
 * [2023-11-15, 08:42:13](https://lobste.rs/s/bzcqjr/why_did_linux_choose_rust_not_c) - [Why did Linux choose Rust but not C++?](https://lobste.rs/s/bzcqjr/why_did_linux_choose_rust_not_c)
 * [2023-11-15, 05:59:34](https://lobste.rs/s/bu8jcf/stack_buffer_overflow_attack_211bsd_on) - [Stack buffer overflow attack: 211BSD on the PDP-11](http://obsolescenceguaranteed.blogspot.com/2023/11/stack-buffer-overflow-attack-211bsd-on.html?m=1)
