@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-15, 05:59:34",
+      "https://lobste.rs/s/bu8jcf/stack_buffer_overflow_attack_211bsd_on"
+    ],
+    [
+      "Stack buffer overflow attack: 211BSD on the PDP-11",
+      "http://obsolescenceguaranteed.blogspot.com/2023/11/stack-buffer-overflow-attack-211bsd-on.html?m=1"
+    ]
+  ],
+  [
+    [
       "2023-11-15, 05:20:58",
       "https://lobste.rs/s/xcu97l/haiku_activity_contract_report_october"
     ],
@@ -237,16 +247,6 @@
     [
       "Yes, Ubuntu Is Withholding Security Patches for Some Software",
       "https://www.flu0r1ne.net/logs/ubuntu_withholding_universe_security_patches"
-    ]
-  ],
-  [
-    [
-      "2023-11-14, 00:51:24",
-      "https://lobste.rs/s/5y6lvq/interface_kai_krause_s_software"
-    ],
-    [
-      "The Interface of Kai Krause's Software",
-      "https://mprove.de/script/99/kai/"
     ]
   ]
 ]
