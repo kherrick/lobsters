@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-15](index.md)
 
+* [2023-11-15, 15:25:13](https://lobste.rs/s/sdo6zb/gulf_between_design_engineering) - [The Gulf Between Design and Engineering](https://designsystems.international/ideas/the-gulf-between-design-and-engineering/)
 * [2023-11-15, 14:32:42](https://lobste.rs/s/9t6rpt/svelte_flow_library_for_rendering) - [Svelte Flow – a library for rendering interactive node-based UIs](https://www.xyflow.com/blog/svelte-flow-launch)
 * [2023-11-15, 09:45:01](https://lobste.rs/s/njzpyq/i_accidentally_scheme) - [i accidentally a scheme](https://wingolog.org/archives/2023/11/13/i-accidentally-a-scheme)
 * [2023-11-15, 09:37:31](https://lobste.rs/s/fqbbv4/hacking_google_bard_from_prompt) - [Hacking Google Bard - From Prompt Injection to Data Exfiltration ·](https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/)
