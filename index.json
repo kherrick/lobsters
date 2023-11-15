@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-15, 18:15:30",
+      "https://lobste.rs/s/gal9wq/with_systems_approach_chips_microsoft"
+    ],
+    [
+      "With a systems approach to chips, Microsoft aims to tailor everything ‘from silicon to service’ to m",
+      "https://news.microsoft.com/source/features/ai/in-house-chips-silicon-to-service-to-meet-ai-demand/"
+    ]
+  ],
+  [
+    [
       "2023-11-15, 16:34:57",
       "https://lobste.rs/s/dng5xk/exploring_gpts_chatgpt_trench_coat"
     ],
@@ -137,16 +147,6 @@
     [
       "Some notes on nix flakes",
       "https://jvns.ca/blog/2023/11/11/notes-on-nix-flakes/"
-    ]
-  ],
-  [
-    [
-      "2023-11-14, 21:18:01",
-      "https://lobste.rs/s/slx8us/who_watches_watchmen_integrating_elixir"
-    ],
-    [
-      "Who Watches Watchmen? - Integrating Elixir applications with systemd - Part 2",
-      "https://hauleth.dev/post/who-watches-watchmen-ii/"
     ]
   ],
   [
