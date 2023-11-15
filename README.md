@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-11-15, 06:31:03](https://lobste.rs/s/cxjkgy/useful_functions_for_shader_live_coding) - [Useful Functions for Shader Live Coding](https://suricrasia.online/blog/shader-functions/)
+* [2023-11-15, 07:19:19](https://lobste.rs/s/grcmz4/escaping_edge_sandbox_bug_speaks_for) - [Escaping the Edge sandbox: A bug that speaks for itself](https://microsoftedge.github.io/edgevr/posts/Escaping-the-sandbox-A-bug-that-speaks-for-itself/)
 * [2023-11-15, 05:59:34](https://lobste.rs/s/bu8jcf/stack_buffer_overflow_attack_211bsd_on) - [Stack buffer overflow attack: 211BSD on the PDP-11](http://obsolescenceguaranteed.blogspot.com/2023/11/stack-buffer-overflow-attack-211bsd-on.html?m=1)
 * [2023-11-15, 03:54:16](https://lobste.rs/s/loac9n/national_movie_generation_month) - [National Movie Generation Month](https://namogenmo.github.io/)
 * [2023-11-15, 01:45:24](https://lobste.rs/s/alk7m1/empirical_comparison_riscv_aarch64) - [An Empirical Comparison of the RISCV and AArch64 Instruction Sets](https://dl.acm.org/doi/pdf/10.1145/3624062.3624233)
