@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-15, 15:41:05](https://lobste.rs/s/fvjrva/minimize_global_process) - [Minimize global process](https://jordankaye.dev/posts/minimize-global-process/)
 * [2023-11-15, 15:25:13](https://lobste.rs/s/sdo6zb/gulf_between_design_engineering) - [The Gulf Between Design and Engineering](https://designsystems.international/ideas/the-gulf-between-design-and-engineering/)
 * [2023-11-15, 14:32:42](https://lobste.rs/s/9t6rpt/svelte_flow_library_for_rendering) - [Svelte Flow – a library for rendering interactive node-based UIs](https://www.xyflow.com/blog/svelte-flow-launch)
 * [2023-11-15, 09:45:01](https://lobste.rs/s/njzpyq/i_accidentally_scheme) - [i accidentally a scheme](https://wingolog.org/archives/2023/11/13/i-accidentally-a-scheme)
@@ -17,7 +18,6 @@
 * [2023-11-14, 19:55:15](https://lobste.rs/s/foo1n7/we_need_bring_back_webrings) - [We Need to Bring Back Webrings](https://arne.me/articles/we-need-to-bring-back-webrings)
 * [2023-11-14, 18:50:35](https://lobste.rs/s/8wgqyr/reptar) - [Reptar](https://lock.cmpxchg8b.com/reptar.html)
 * [2023-11-14, 18:44:58](https://lobste.rs/s/p3gbwp/beginners_should_use_django_not_flask) - [Beginners should use Django, not Flask](https://www.bitecode.dev/p/beginners-should-use-django-not-flask)
-* [2023-11-14, 18:20:20](https://lobste.rs/s/ndhtwi/scryer_prolog_meetup_2023_notes) - [Scryer Prolog Meetup 2023 Notes](https://blog.adrianistan.eu/scryer-prolog-meetup-2023-notes)
 * [2023-11-14, 18:09:46](https://lobste.rs/s/znskwx/yjit_is_most_memory_efficient_ruby_jit) - [YJIT Is the Most Memory-Efficient Ruby JIT](https://railsatscale.com/2023-11-07-yjit-is-the-most-memory-efficient-ruby-jit/)
 * [2023-11-14, 17:31:31](https://lobste.rs/s/syn0qc/my_favorite_gleam_feature) - [My Favorite Gleam Feature](https://erikarow.land/notes/gleam-favorite-feature)
 * [2023-11-14, 16:33:16](https://lobste.rs/s/lxl6w6/announcing_net_8) - [Announcing .NET 8](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8/)
