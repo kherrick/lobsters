@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-15, 05:20:58](https://lobste.rs/s/xcu97l/haiku_activity_contract_report_october) - [Haiku Activity & Contract Report, October 2023](https://www.haiku-os.org/blog/waddlesplash/2023-11-14_haiku_activity_contract_report_october_2023/)
 * [2023-11-15, 03:54:16](https://lobste.rs/s/loac9n/national_movie_generation_month) - [National Movie Generation Month](https://namogenmo.github.io/)
 * [2023-11-15, 01:45:24](https://lobste.rs/s/alk7m1/empirical_comparison_riscv_aarch64) - [An Empirical Comparison of the RISCV and AArch64 Instruction Sets](https://dl.acm.org/doi/pdf/10.1145/3624062.3624233)
 * [2023-11-14, 23:33:10](https://lobste.rs/s/mjlt0h/announcing_f_8) - [Announcing F# 8](https://devblogs.microsoft.com/dotnet/announcing-fsharp-8/)
@@ -14,7 +15,6 @@
 * [2023-11-14, 18:29:19](https://lobste.rs/s/b49uji/gitea_1_21_is_released) - [Gitea 1.21 is released](https://blog.gitea.com/release-of-1.21.0/)
 * [2023-11-14, 18:20:20](https://lobste.rs/s/ndhtwi/scryer_prolog_meetup_2023_notes) - [Scryer Prolog Meetup 2023 Notes](https://blog.adrianistan.eu/scryer-prolog-meetup-2023-notes)
 * [2023-11-14, 18:09:46](https://lobste.rs/s/znskwx/yjit_is_most_memory_efficient_ruby_jit) - [YJIT Is the Most Memory-Efficient Ruby JIT](https://railsatscale.com/2023-11-07-yjit-is-the-most-memory-efficient-ruby-jit/)
-* [2023-11-14, 17:50:18](https://lobste.rs/s/6hxmah/rational_programming_language) - [The Rational Programming Language](https://github.com/cel7t/Rational)
 * [2023-11-14, 17:31:31](https://lobste.rs/s/syn0qc/my_favorite_gleam_feature) - [My Favorite Gleam Feature](https://erikarow.land/notes/gleam-favorite-feature)
 * [2023-11-14, 16:33:16](https://lobste.rs/s/lxl6w6/announcing_net_8) - [Announcing .NET 8](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8/)
 * [2023-11-14, 15:51:19](https://lobste.rs/s/gr1ky8/replacing_hls_dash_media_over_quic) - [Replacing HLS/DASH - Media over QUIC](https://quic.video/blog/replacing-hls-dash/)
