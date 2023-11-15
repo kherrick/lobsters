@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-15, 23:15:23",
+      "https://lobste.rs/s/ezoe4h/push_ifs_up_fors_down"
+    ],
+    [
+      "Push Ifs Up And Fors Down",
+      "https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html"
+    ]
+  ],
+  [
+    [
       "2023-11-15, 21:18:08",
       "https://lobste.rs/s/iolaxa/our_vision_for_rust_specification"
     ],
@@ -147,16 +157,6 @@
     [
       "Announcing F# 8",
       "https://devblogs.microsoft.com/dotnet/announcing-fsharp-8/"
-    ]
-  ],
-  [
-    [
-      "2023-11-14, 21:57:46",
-      "https://lobste.rs/s/gtgbd6/curl_on_100_operating_systems"
-    ],
-    [
-      "curl on 100 operating systems",
-      "https://daniel.haxx.se/blog/2023/11/14/curl-on-100-operating-systems/"
     ]
   ],
   [
