@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-15, 03:54:16](https://lobste.rs/s/loac9n/national_movie_generation_month) - [National Movie Generation Month](https://namogenmo.github.io/)
 * [2023-11-15, 01:45:24](https://lobste.rs/s/alk7m1/empirical_comparison_riscv_aarch64) - [An Empirical Comparison of the RISCV and AArch64 Instruction Sets](https://dl.acm.org/doi/pdf/10.1145/3624062.3624233)
 * [2023-11-14, 23:33:10](https://lobste.rs/s/mjlt0h/announcing_f_8) - [Announcing F# 8](https://devblogs.microsoft.com/dotnet/announcing-fsharp-8/)
 * [2023-11-14, 21:57:46](https://lobste.rs/s/gtgbd6/curl_on_100_operating_systems) - [curl on 100 operating systems](https://daniel.haxx.se/blog/2023/11/14/curl-on-100-operating-systems/)
@@ -22,7 +23,6 @@
 * [2023-11-14, 13:56:52](https://lobste.rs/s/mr1azy/using_jsx_on_server_as_template_engine) - [Using JSX on the server as a template engine](https://evertpot.com/jsx-template/)
 * [2023-11-14, 10:24:21](https://lobste.rs/s/trv4iu/rust_without_crates_io) - [Rust without crates.io](https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html)
 * [2023-11-14, 10:09:34](https://lobste.rs/s/upiyhx/four_kinds_optimisation) - [Four Kinds of Optimisation](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)
-* [2023-11-14, 09:09:24](https://lobste.rs/s/2qepkn/cheri_picking_leveraging_capability) - [CHERI-picking: Leveraging capability hardware for prefetching](https://dl.acm.org/doi/pdf/10.1145/3623759.3624553)
 * [2023-11-14, 06:05:04](https://lobste.rs/s/h2dszz/yes_ubuntu_is_withholding_security) - [Yes, Ubuntu Is Withholding Security Patches for Some Software](https://www.flu0r1ne.net/logs/ubuntu_withholding_universe_security_patches)
 * [2023-11-14, 00:51:24](https://lobste.rs/s/5y6lvq/interface_kai_krause_s_software) - [The Interface of Kai Krause's Software](https://mprove.de/script/99/kai/)
 
