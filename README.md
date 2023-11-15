@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-15, 23:15:23](https://lobste.rs/s/ezoe4h/push_ifs_up_fors_down) - [Push Ifs Up And Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 * [2023-11-15, 21:18:08](https://lobste.rs/s/iolaxa/our_vision_for_rust_specification) - [Our Vision for the Rust Specification](https://blog.rust-lang.org/inside-rust/2023/11/15/spec-vision.html)
 * [2023-11-15, 18:53:25](https://lobste.rs/s/do28vj/we_don_t_do_dst_at_this_company) - [We don’t do DST at this company](https://blog.backslasher.net/no-dst.html)
 * [2023-11-15, 18:51:22](https://lobste.rs/s/7ichee/theory_compositional_tool_assisted) - [A Theory of Compositional Tool-Assisted Speedrunning](https://gist.github.com/MostAwesomeDude/b42f266ac168e01a08f9c71fabe13432)
@@ -15,7 +16,6 @@
 * [2023-11-15, 08:43:00](https://lobste.rs/s/binril/nix_users_you_can_fearlessly_start_using) - [Nix users, you can fearlessly start using Rust scripts already](https://dpc.pw/posts/nix-users-you-can-start-using-rust-scripts-already/)
 * [2023-11-15, 08:42:13](https://lobste.rs/s/bzcqjr/why_did_linux_choose_rust_not_c) - [Why did Linux choose Rust but not C++?](https://lobste.rs/s/bzcqjr/why_did_linux_choose_rust_not_c)
 * [2023-11-14, 23:33:10](https://lobste.rs/s/mjlt0h/announcing_f_8) - [Announcing F# 8](https://devblogs.microsoft.com/dotnet/announcing-fsharp-8/)
-* [2023-11-14, 21:57:46](https://lobste.rs/s/gtgbd6/curl_on_100_operating_systems) - [curl on 100 operating systems](https://daniel.haxx.se/blog/2023/11/14/curl-on-100-operating-systems/)
 * [2023-11-14, 21:56:46](https://lobste.rs/s/gmotvn/daily_driving_freebsd) - [Daily Driving FreeBSD](https://www.lilysthings.org/blog/daily-driving-freebsd/)
 * [2023-11-14, 21:55:54](https://lobste.rs/s/edxfnz/some_notes_on_nix_flakes) - [Some notes on nix flakes](https://jvns.ca/blog/2023/11/11/notes-on-nix-flakes/)
 * [2023-11-14, 19:55:15](https://lobste.rs/s/foo1n7/we_need_bring_back_webrings) - [We Need to Bring Back Webrings](https://arne.me/articles/we-need-to-bring-back-webrings)
