@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-11-15, 08:42:13",
-      "https://lobste.rs/s/bzcqjr/why_did_linux_choose_rust_not_c"
-    ],
-    [
-      "Why did Linux choose Rust but not C++?",
-      "https://lobste.rs/s/bzcqjr/why_did_linux_choose_rust_not_c"
-    ]
-  ],
-  [
-    [
       "2023-11-15, 05:59:34",
       "https://lobste.rs/s/bu8jcf/stack_buffer_overflow_attack_211bsd_on"
     ],
@@ -217,6 +207,16 @@
     [
       "A decade of developing a programming language",
       "https://yorickpeterse.com/articles/a-decade-of-developing-a-programming-language/"
+    ]
+  ],
+  [
+    [
+      "2023-11-14, 13:56:52",
+      "https://lobste.rs/s/mr1azy/using_jsx_on_server_as_template_engine"
+    ],
+    [
+      "Using JSX on the server as a template engine",
+      "https://evertpot.com/jsx-template/"
     ]
   ],
   [
