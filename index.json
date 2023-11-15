@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-14, 23:33:10",
+      "https://lobste.rs/s/mjlt0h/announcing_f_8"
+    ],
+    [
+      "Announcing F# 8",
+      "https://devblogs.microsoft.com/dotnet/announcing-fsharp-8/"
+    ]
+  ],
+  [
+    [
       "2023-11-14, 21:57:46",
       "https://lobste.rs/s/gtgbd6/curl_on_100_operating_systems"
     ],
@@ -32,10 +42,10 @@
   [
     [
       "2023-11-14, 21:36:17",
-      "https://lobste.rs/s/lcjezk/byte_string_library_for_rust"
+      "https://lobste.rs/s/lcjezk/byte_string_library_for_rust_2022"
     ],
     [
-      "A byte string library for Rust",
+      "A byte string library for Rust (2022)",
       "https://blog.burntsushi.net/bstr/"
     ]
   ],
@@ -227,16 +237,6 @@
     [
       "Yes, Ubuntu Is Withholding Security Patches for Some Software",
       "https://www.flu0r1ne.net/logs/ubuntu_withholding_universe_security_patches"
-    ]
-  ],
-  [
-    [
-      "2023-11-14, 05:52:12",
-      "https://lobste.rs/s/z5ogrr/use_https_resource_records"
-    ],
-    [
-      "Use of HTTPS Resource Records",
-      "https://www.netmeister.org/blog/https-rrs.html"
     ]
   ],
   [
