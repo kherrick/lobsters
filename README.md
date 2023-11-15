@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-15, 21:18:08](https://lobste.rs/s/iolaxa/our_vision_for_rust_specification) - [Our Vision for the Rust Specification](https://blog.rust-lang.org/inside-rust/2023/11/15/spec-vision.html)
 * [2023-11-15, 18:53:25](https://lobste.rs/s/do28vj/we_don_t_do_dst_at_this_company) - [We don’t do DST at this company](https://blog.backslasher.net/no-dst.html)
 * [2023-11-15, 18:51:22](https://lobste.rs/s/7ichee/theory_compositional_tool_assisted) - [A Theory of Compositional Tool-Assisted Speedrunning](https://gist.github.com/MostAwesomeDude/b42f266ac168e01a08f9c71fabe13432)
 * [2023-11-15, 18:47:21](https://lobste.rs/s/ugefta/signals_vs_servers) - [Signals vs. Servers](https://blog.adamchalmers.com/signals-vs-servers/)
@@ -9,7 +10,6 @@
 * [2023-11-15, 16:20:01](https://lobste.rs/s/rzyjfe/cachewarp) - [CacheWarp](https://cachewarpattack.com/)
 * [2023-11-15, 15:41:05](https://lobste.rs/s/fvjrva/minimize_global_process) - [Minimize global process](https://jordankaye.dev/posts/minimize-global-process/)
 * [2023-11-15, 15:25:13](https://lobste.rs/s/sdo6zb/gulf_between_design_engineering) - [The Gulf Between Design and Engineering](https://designsystems.international/ideas/the-gulf-between-design-and-engineering/)
-* [2023-11-15, 14:32:42](https://lobste.rs/s/9t6rpt/svelte_flow_library_for_rendering) - [Svelte Flow – a library for rendering interactive node-based UIs](https://www.xyflow.com/blog/svelte-flow-launch)
 * [2023-11-15, 09:45:01](https://lobste.rs/s/njzpyq/i_accidentally_scheme) - [i accidentally a scheme](https://wingolog.org/archives/2023/11/13/i-accidentally-a-scheme)
 * [2023-11-15, 09:21:03](https://lobste.rs/s/7wzwpi/vertigo) - [vertigo](https://flak.tedunangst.com/post/vertigo)
 * [2023-11-15, 08:43:00](https://lobste.rs/s/binril/nix_users_you_can_fearlessly_start_using) - [Nix users, you can fearlessly start using Rust scripts already](https://dpc.pw/posts/nix-users-you-can-start-using-rust-scripts-already/)
