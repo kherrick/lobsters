@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-15, 19:44:43](https://lobste.rs/s/cxttlt/neon_serverless_postgresql_asds_chapter) - [Neon - Serverless PostgreSQL - ASDS Chapter 3](https://jack-vanlightly.com/analyses/2023/11/15/neon-serverless-postgresql-asds-chapter-3)
 * [2023-11-15, 18:53:25](https://lobste.rs/s/do28vj/we_don_t_do_dst_at_this_company) - [We don’t do DST at this company](https://blog.backslasher.net/no-dst.html)
 * [2023-11-15, 18:51:22](https://lobste.rs/s/7ichee/theory_compositional_tool_assisted) - [A Theory of Compositional Tool-Assisted Speedrunning](https://gist.github.com/MostAwesomeDude/b42f266ac168e01a08f9c71fabe13432)
 * [2023-11-15, 18:15:30](https://lobste.rs/s/gal9wq/with_systems_approach_chips_microsoft) - [With a systems approach to chips, Microsoft aims to tailor everything ‘from silicon to service’ to m](https://news.microsoft.com/source/features/ai/in-house-chips-silicon-to-service-to-meet-ai-demand/)
@@ -17,7 +18,6 @@
 * [2023-11-14, 21:56:46](https://lobste.rs/s/gmotvn/daily_driving_freebsd) - [Daily Driving FreeBSD](https://www.lilysthings.org/blog/daily-driving-freebsd/)
 * [2023-11-14, 21:55:54](https://lobste.rs/s/edxfnz/some_notes_on_nix_flakes) - [Some notes on nix flakes](https://jvns.ca/blog/2023/11/11/notes-on-nix-flakes/)
 * [2023-11-14, 19:55:15](https://lobste.rs/s/foo1n7/we_need_bring_back_webrings) - [We Need to Bring Back Webrings](https://arne.me/articles/we-need-to-bring-back-webrings)
-* [2023-11-14, 18:50:35](https://lobste.rs/s/8wgqyr/reptar) - [Reptar](https://lock.cmpxchg8b.com/reptar.html)
 * [2023-11-14, 18:44:58](https://lobste.rs/s/p3gbwp/beginners_should_use_django_not_flask) - [Beginners should use Django, not Flask](https://www.bitecode.dev/p/beginners-should-use-django-not-flask)
 * [2023-11-14, 17:31:31](https://lobste.rs/s/syn0qc/my_favorite_gleam_feature) - [My Favorite Gleam Feature](https://erikarow.land/notes/gleam-favorite-feature)
 * [2023-11-14, 16:33:16](https://lobste.rs/s/lxl6w6/announcing_net_8) - [Announcing .NET 8](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8/)

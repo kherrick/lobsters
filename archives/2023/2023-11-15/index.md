@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-15](index.md)
 
+* [2023-11-15, 19:44:43](https://lobste.rs/s/cxttlt/neon_serverless_postgresql_asds_chapter) - [Neon - Serverless PostgreSQL - ASDS Chapter 3](https://jack-vanlightly.com/analyses/2023/11/15/neon-serverless-postgresql-asds-chapter-3)
 * [2023-11-15, 18:53:25](https://lobste.rs/s/do28vj/we_don_t_do_dst_at_this_company) - [We don’t do DST at this company](https://blog.backslasher.net/no-dst.html)
 * [2023-11-15, 18:51:22](https://lobste.rs/s/7ichee/theory_compositional_tool_assisted) - [A Theory of Compositional Tool-Assisted Speedrunning](https://gist.github.com/MostAwesomeDude/b42f266ac168e01a08f9c71fabe13432)
 * [2023-11-15, 18:15:30](https://lobste.rs/s/gal9wq/with_systems_approach_chips_microsoft) - [With a systems approach to chips, Microsoft aims to tailor everything ‘from silicon to service’ to m](https://news.microsoft.com/source/features/ai/in-house-chips-silicon-to-service-to-meet-ai-demand/)
