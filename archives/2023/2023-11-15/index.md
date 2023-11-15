@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-15](index.md)
 
+* [2023-11-15, 16:34:57](https://lobste.rs/s/dng5xk/exploring_gpts_chatgpt_trench_coat) - [Exploring GPTs: ChatGPT in a trench coat?](https://simonwillison.net/2023/Nov/15/gpts/)
 * [2023-11-15, 16:20:01](https://lobste.rs/s/rzyjfe/cachewarp) - [CacheWarp](https://cachewarpattack.com/)
 * [2023-11-15, 15:41:05](https://lobste.rs/s/fvjrva/minimize_global_process) - [Minimize global process](https://jordankaye.dev/posts/minimize-global-process/)
 * [2023-11-15, 15:25:13](https://lobste.rs/s/sdo6zb/gulf_between_design_engineering) - [The Gulf Between Design and Engineering](https://designsystems.international/ideas/the-gulf-between-design-and-engineering/)

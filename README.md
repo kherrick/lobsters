@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-15, 16:34:57](https://lobste.rs/s/dng5xk/exploring_gpts_chatgpt_trench_coat) - [Exploring GPTs: ChatGPT in a trench coat?](https://simonwillison.net/2023/Nov/15/gpts/)
 * [2023-11-15, 16:20:01](https://lobste.rs/s/rzyjfe/cachewarp) - [CacheWarp](https://cachewarpattack.com/)
 * [2023-11-15, 15:41:05](https://lobste.rs/s/fvjrva/minimize_global_process) - [Minimize global process](https://jordankaye.dev/posts/minimize-global-process/)
 * [2023-11-15, 15:25:13](https://lobste.rs/s/sdo6zb/gulf_between_design_engineering) - [The Gulf Between Design and Engineering](https://designsystems.international/ideas/the-gulf-between-design-and-engineering/)
@@ -7,7 +8,6 @@
 * [2023-11-15, 09:21:03](https://lobste.rs/s/7wzwpi/vertigo) - [vertigo](https://flak.tedunangst.com/post/vertigo)
 * [2023-11-15, 08:43:00](https://lobste.rs/s/binril/nix_users_you_can_fearlessly_start_using) - [Nix users, you can fearlessly start using Rust scripts already](https://dpc.pw/posts/nix-users-you-can-start-using-rust-scripts-already/)
 * [2023-11-15, 08:42:13](https://lobste.rs/s/bzcqjr/why_did_linux_choose_rust_not_c) - [Why did Linux choose Rust but not C++?](https://lobste.rs/s/bzcqjr/why_did_linux_choose_rust_not_c)
-* [2023-11-15, 05:59:34](https://lobste.rs/s/bu8jcf/stack_buffer_overflow_attack_211bsd_on) - [Stack buffer overflow attack: 211BSD on the PDP-11](http://obsolescenceguaranteed.blogspot.com/2023/11/stack-buffer-overflow-attack-211bsd-on.html?m=1)
 * [2023-11-15, 05:20:58](https://lobste.rs/s/xcu97l/haiku_activity_contract_report_october) - [Haiku Activity & Contract Report, October 2023](https://www.haiku-os.org/blog/waddlesplash/2023-11-14_haiku_activity_contract_report_october_2023/)
 * [2023-11-15, 03:54:16](https://lobste.rs/s/loac9n/national_movie_generation_month) - [National Movie Generation Month](https://namogenmo.github.io/)
 * [2023-11-14, 23:33:10](https://lobste.rs/s/mjlt0h/announcing_f_8) - [Announcing F# 8](https://devblogs.microsoft.com/dotnet/announcing-fsharp-8/)
