@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-15, 09:21:03](https://lobste.rs/s/7wzwpi/vertigo) - [vertigo](https://flak.tedunangst.com/post/vertigo)
 * [2023-11-15, 08:43:00](https://lobste.rs/s/binril/nix_users_you_can_fearlessly_start_using) - [Nix users, you can fearlessly start using Rust scripts already](https://dpc.pw/posts/nix-users-you-can-start-using-rust-scripts-already/)
 * [2023-11-15, 05:59:34](https://lobste.rs/s/bu8jcf/stack_buffer_overflow_attack_211bsd_on) - [Stack buffer overflow attack: 211BSD on the PDP-11](http://obsolescenceguaranteed.blogspot.com/2023/11/stack-buffer-overflow-attack-211bsd-on.html?m=1)
 * [2023-11-15, 05:20:58](https://lobste.rs/s/xcu97l/haiku_activity_contract_report_october) - [Haiku Activity & Contract Report, October 2023](https://www.haiku-os.org/blog/waddlesplash/2023-11-14_haiku_activity_contract_report_october_2023/)
@@ -14,7 +15,6 @@
 * [2023-11-14, 19:50:20](https://lobste.rs/s/ngiofk/when_should_you_choose_c_as_your_starting) - [When should you choose C++ as your starting language?](https://steelph0enix.github.io/posts/choosing-first-language/)
 * [2023-11-14, 18:50:35](https://lobste.rs/s/8wgqyr/reptar) - [Reptar](https://lock.cmpxchg8b.com/reptar.html)
 * [2023-11-14, 18:44:58](https://lobste.rs/s/p3gbwp/beginners_should_use_django_not_flask) - [Beginners should use Django, not Flask](https://www.bitecode.dev/p/beginners-should-use-django-not-flask)
-* [2023-11-14, 18:29:19](https://lobste.rs/s/b49uji/gitea_1_21_is_released) - [Gitea 1.21 is released](https://blog.gitea.com/release-of-1.21.0/)
 * [2023-11-14, 18:20:20](https://lobste.rs/s/ndhtwi/scryer_prolog_meetup_2023_notes) - [Scryer Prolog Meetup 2023 Notes](https://blog.adrianistan.eu/scryer-prolog-meetup-2023-notes)
 * [2023-11-14, 18:09:46](https://lobste.rs/s/znskwx/yjit_is_most_memory_efficient_ruby_jit) - [YJIT Is the Most Memory-Efficient Ruby JIT](https://railsatscale.com/2023-11-07-yjit-is-the-most-memory-efficient-ruby-jit/)
 * [2023-11-14, 17:31:31](https://lobste.rs/s/syn0qc/my_favorite_gleam_feature) - [My Favorite Gleam Feature](https://erikarow.land/notes/gleam-favorite-feature)

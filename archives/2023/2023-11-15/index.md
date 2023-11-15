@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-15](index.md)
 
+* [2023-11-15, 09:21:03](https://lobste.rs/s/7wzwpi/vertigo) - [vertigo](https://flak.tedunangst.com/post/vertigo)
 * [2023-11-15, 08:43:00](https://lobste.rs/s/binril/nix_users_you_can_fearlessly_start_using) - [Nix users, you can fearlessly start using Rust scripts already](https://dpc.pw/posts/nix-users-you-can-start-using-rust-scripts-already/)
 * [2023-11-15, 08:42:13](https://lobste.rs/s/bzcqjr/why_did_linux_choose_rust_not_c) - [Why did Linux choose Rust but not C++?](https://lobste.rs/s/bzcqjr/why_did_linux_choose_rust_not_c)
 * [2023-11-15, 08:32:04](https://lobste.rs/s/qqzrwb/quest_for_tacit_combinators_arrays) - [The Quest for Tacit; Combinators, Arrays, and Beyond](https://www.youtube.com/watch?v=w3G3jvtZwkg)
