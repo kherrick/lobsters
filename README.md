@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-15, 01:45:24](https://lobste.rs/s/alk7m1/empirical_comparison_riscv_aarch64) - [An Empirical Comparison of the RISCV and AArch64 Instruction Sets](https://dl.acm.org/doi/pdf/10.1145/3624062.3624233)
 * [2023-11-14, 23:33:10](https://lobste.rs/s/mjlt0h/announcing_f_8) - [Announcing F# 8](https://devblogs.microsoft.com/dotnet/announcing-fsharp-8/)
 * [2023-11-14, 21:57:46](https://lobste.rs/s/gtgbd6/curl_on_100_operating_systems) - [curl on 100 operating systems](https://daniel.haxx.se/blog/2023/11/14/curl-on-100-operating-systems/)
 * [2023-11-14, 21:56:46](https://lobste.rs/s/gmotvn/daily_driving_freebsd) - [Daily Driving FreeBSD](https://www.lilysthings.org/blog/daily-driving-freebsd/)
 * [2023-11-14, 21:55:54](https://lobste.rs/s/edxfnz/some_notes_on_nix_flakes) - [Some notes on nix flakes](https://jvns.ca/blog/2023/11/11/notes-on-nix-flakes/)
-* [2023-11-14, 21:36:17](https://lobste.rs/s/lcjezk/byte_string_library_for_rust_2022) - [A byte string library for Rust (2022)](https://blog.burntsushi.net/bstr/)
 * [2023-11-14, 21:18:01](https://lobste.rs/s/slx8us/who_watches_watchmen_integrating_elixir) - [Who Watches Watchmen? - Integrating Elixir applications with systemd - Part 2](https://hauleth.dev/post/who-watches-watchmen-ii/)
 * [2023-11-14, 19:55:15](https://lobste.rs/s/foo1n7/we_need_bring_back_webrings) - [We Need to Bring Back Webrings](https://arne.me/articles/we-need-to-bring-back-webrings)
 * [2023-11-14, 19:50:20](https://lobste.rs/s/ngiofk/when_should_you_choose_c_as_your_starting) - [When should you choose C++ as your starting language?](https://steelph0enix.github.io/posts/choosing-first-language/)
