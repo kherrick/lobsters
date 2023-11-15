@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-11-15, 07:19:19",
-      "https://lobste.rs/s/grcmz4/escaping_edge_sandbox_bug_speaks_for"
+      "2023-11-15, 08:32:04",
+      "https://lobste.rs/s/qqzrwb/quest_for_tacit_combinators_arrays"
     ],
     [
-      "Escaping the Edge sandbox: A bug that speaks for itself",
-      "https://microsoftedge.github.io/edgevr/posts/Escaping-the-sandbox-A-bug-that-speaks-for-itself/"
+      "The Quest for Tacit; Combinators, Arrays, and Beyond",
+      "https://www.youtube.com/watch?v=w3G3jvtZwkg"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Stack buffer overflow attack: 211BSD on the PDP-11",
       "http://obsolescenceguaranteed.blogspot.com/2023/11/stack-buffer-overflow-attack-211bsd-on.html?m=1"
+    ]
+  ],
+  [
+    [
+      "2023-11-15, 05:20:58",
+      "https://lobste.rs/s/xcu97l/haiku_activity_contract_report_october"
+    ],
+    [
+      "Haiku Activity & Contract Report, October 2023",
+      "https://www.haiku-os.org/blog/waddlesplash/2023-11-14_haiku_activity_contract_report_october_2023/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "A decade of developing a programming language",
       "https://yorickpeterse.com/articles/a-decade-of-developing-a-programming-language/"
-    ]
-  ],
-  [
-    [
-      "2023-11-14, 13:56:52",
-      "https://lobste.rs/s/mr1azy/using_jsx_on_server_as_template_engine"
-    ],
-    [
-      "Using JSX on the server as a template engine",
-      "https://evertpot.com/jsx-template/"
     ]
   ],
   [
