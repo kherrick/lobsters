@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-16, 15:38:07](https://lobste.rs/s/nopact/size_for_every_stream_expert_s_guide) - [A Size for Every Stream: The Expert's Guide to Sizing Kafka Streams](https://www.responsive.dev/blog/a-size-for-every-stream)
+* [2023-11-16, 15:35:31](https://lobste.rs/s/wupxrg/postgres_15_logical_decoding_row_filters) - [Postgres 15: Logical Decoding Row Filters With Debezium (2022)](https://www.decodable.co/blog/postgres-15-logical-decoding-row-filters-with-debezium)
 * [2023-11-16, 15:28:36](https://lobste.rs/s/n99qw2/try_cheriot_platform_on_arty_a7_100t_fpga) - [Try the CHERIoT platform on the Arty A7 100T FPGA](https://cheriot.org/fpga/try/2023/11/16/cheriot-on-the-arty-a7.html)
 * [2023-11-16, 14:17:01](https://lobste.rs/s/ruxos2/announcing_rust_1_74_0) - [Announcing Rust 1.74.0](https://blog.rust-lang.org/2023/11/16/Rust-1.74.0.html)
 * [2023-11-16, 12:09:27](https://lobste.rs/s/mllrju/generating_random_factored_numbers) - [Generating Random Factored Numbers, Easily (2002)](https://inst.eecs.berkeley.edu/~cs276/fa20/notes/Kalai_generating_factored.pdf)
@@ -20,11 +22,9 @@
 * [2023-11-15, 17:42:15](https://lobste.rs/s/8kahuf/let_s_reinvent_wheel) - [Let’s reinvent the wheel](https://vasilis.nl/nerd/lets-reinvent-the-wheel/)
 * [2023-11-15, 16:34:57](https://lobste.rs/s/dng5xk/exploring_gpts_chatgpt_trench_coat) - [Exploring GPTs: ChatGPT in a trench coat?](https://simonwillison.net/2023/Nov/15/gpts/)
 * [2023-11-15, 09:45:01](https://lobste.rs/s/njzpyq/i_accidentally_scheme) - [i accidentally a scheme](https://wingolog.org/archives/2023/11/13/i-accidentally-a-scheme)
-* [2023-11-15, 09:21:03](https://lobste.rs/s/7wzwpi/vertigo) - [vertigo](https://flak.tedunangst.com/post/vertigo)
 * [2023-11-15, 08:43:00](https://lobste.rs/s/binril/nix_users_you_can_fearlessly_start_using) - [Nix users, you can fearlessly start using Rust scripts already](https://dpc.pw/posts/nix-users-you-can-start-using-rust-scripts-already/)
 * [2023-11-15, 08:42:13](https://lobste.rs/s/bzcqjr/why_did_linux_choose_rust_not_c) - [Why did Linux choose Rust but not C++?](https://lobste.rs/s/bzcqjr/why_did_linux_choose_rust_not_c)
 * [2023-11-14, 19:55:15](https://lobste.rs/s/foo1n7/we_need_bring_back_webrings) - [We Need to Bring Back Webrings](https://arne.me/articles/we-need-to-bring-back-webrings)
-* [2023-11-14, 18:44:58](https://lobste.rs/s/p3gbwp/beginners_should_use_django_not_flask) - [Beginners should use Django, not Flask](https://www.bitecode.dev/p/beginners-should-use-django-not-flask)
 
 ## [Archives](archives/index.md)
 
