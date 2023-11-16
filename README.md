@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-16, 17:32:16](https://lobste.rs/s/7prhfk/nilaway_practical_nil_panic_detection) - [NilAway: Practical Nil Panic Detection for Go](https://www.uber.com/blog/nilaway-practical-nil-panic-detection-for-go/)
 * [2023-11-16, 17:03:35](https://lobste.rs/s/wkj6go/std_source_location_is_broken) - [std::source_location is Broken](https://www.elbeno.com/blog/?p=1738)
 * [2023-11-16, 16:36:38](https://lobste.rs/s/vtvoyk/crdts_for_truly_concurrent_file_systems) - [CRDTs for truly concurrent file systems](https://lip6.fr/Marc.Shapiro/papers/CRDT-filesystem-HotStorage-2021.pdf)
 * [2023-11-16, 16:32:32](https://lobste.rs/s/0opm7c/navigating_around_your_shell) - [Navigating around in your shell](https://blog.meain.io/2023/navigating-around-in-shell/)
@@ -20,7 +21,6 @@
 * [2023-11-15, 23:15:23](https://lobste.rs/s/ezoe4h/push_ifs_up_fors_down) - [Push Ifs Up And Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 * [2023-11-15, 21:18:08](https://lobste.rs/s/iolaxa/our_vision_for_rust_specification) - [Our Vision for the Rust Specification](https://blog.rust-lang.org/inside-rust/2023/11/15/spec-vision.html)
 * [2023-11-15, 18:53:25](https://lobste.rs/s/do28vj/we_don_t_do_dst_at_this_company) - [We don’t do DST at this company](https://blog.backslasher.net/no-dst.html)
-* [2023-11-15, 18:51:22](https://lobste.rs/s/7ichee/theory_compositional_tool_assisted) - [A Theory of Compositional Tool-Assisted Speedrunning](https://gist.github.com/MostAwesomeDude/b42f266ac168e01a08f9c71fabe13432)
 * [2023-11-15, 09:45:01](https://lobste.rs/s/njzpyq/i_accidentally_scheme) - [i accidentally a scheme](https://wingolog.org/archives/2023/11/13/i-accidentally-a-scheme)
 * [2023-11-15, 08:43:00](https://lobste.rs/s/binril/nix_users_you_can_fearlessly_start_using) - [Nix users, you can fearlessly start using Rust scripts already](https://dpc.pw/posts/nix-users-you-can-start-using-rust-scripts-already/)
 * [2023-11-15, 08:42:13](https://lobste.rs/s/bzcqjr/why_did_linux_choose_rust_not_c) - [Why did Linux choose Rust but not C++?](https://lobste.rs/s/bzcqjr/why_did_linux_choose_rust_not_c)
