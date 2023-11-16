@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-16, 11:10:51",
+      "https://lobste.rs/s/ibyngy/c_with_nix_2023_part_2_package_generation"
+    ],
+    [
+      "C++ with Nix in 2023, Part 2: Package Generation and Cross-Compilation",
+      "https://nixcademy.com/2023/11/16/cpp-with-nix-in-2023-part-2-package/"
+    ]
+  ],
+  [
+    [
       "2023-11-16, 09:32:29",
       "https://lobste.rs/s/s70ssi/push_save_linux_on_itanium"
     ],
@@ -117,16 +127,6 @@
     [
       "Signals vs. Servers",
       "https://blog.adamchalmers.com/signals-vs-servers/"
-    ]
-  ],
-  [
-    [
-      "2023-11-15, 18:15:30",
-      "https://lobste.rs/s/gal9wq/with_systems_approach_chips_microsoft"
-    ],
-    [
-      "With a systems approach to chips, Microsoft aims to tailor everything ‘from silicon to service’ to m",
-      "https://news.microsoft.com/source/features/ai/in-house-chips-silicon-to-service-to-meet-ai-demand/"
     ]
   ],
   [
