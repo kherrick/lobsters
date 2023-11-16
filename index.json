@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-16, 08:10:12",
+      "https://lobste.rs/s/qxai5l/nothing_phone_says_it_will_hack_into"
+    ],
+    [
+      "Nothing Phone says it will hack into iMessage, bring blue bubbles to Android",
+      "https://arstechnica.com/gadgets/2023/11/nothing-phone-says-it-will-hack-into-imessage-bring-blue-bubbles-to-android/"
+    ]
+  ],
+  [
+    [
+      "2023-11-16, 07:58:33",
+      "https://lobste.rs/s/blmitg/very_subtle_bug"
+    ],
+    [
+      "A Very Subtle Bug",
+      "https://blog.nelhage.com/2010/02/a-very-subtle-bug/"
+    ]
+  ],
+  [
+    [
       "2023-11-16, 06:47:59",
       "https://lobste.rs/s/uacfh2/hyper_v1"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-11-15, 15:41:05",
-      "https://lobste.rs/s/fvjrva/minimize_global_process"
-    ],
-    [
-      "Minimize global process",
-      "https://jordankaye.dev/posts/minimize-global-process/"
-    ]
-  ],
-  [
-    [
       "2023-11-15, 15:25:13",
       "https://lobste.rs/s/sdo6zb/gulf_between_design_engineering"
     ],
@@ -237,16 +247,6 @@
     [
       "Beginners should use Django, not Flask",
       "https://www.bitecode.dev/p/beginners-should-use-django-not-flask"
-    ]
-  ],
-  [
-    [
-      "2023-11-14, 10:24:21",
-      "https://lobste.rs/s/trv4iu/rust_without_crates_io"
-    ],
-    [
-      "Rust without crates.io",
-      "https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html"
     ]
   ]
 ]
