@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-16, 06:47:59",
+      "https://lobste.rs/s/uacfh2/hyper_v1"
+    ],
+    [
+      "hyper v1",
+      "https://seanmonstar.com/blog/hyper-v1/"
+    ]
+  ],
+  [
+    [
       "2023-11-16, 05:14:00",
       "https://lobste.rs/s/iaj7xp/lessons_from_metafont_2018"
     ],
@@ -237,16 +247,6 @@
     [
       "Rust without crates.io",
       "https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-14, 10:09:34",
-      "https://lobste.rs/s/upiyhx/four_kinds_optimisation"
-    ],
-    [
-      "Four Kinds of Optimisation",
-      "https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html"
     ]
   ]
 ]
