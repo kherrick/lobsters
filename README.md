@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-16, 16:36:38](https://lobste.rs/s/vtvoyk/crdts_for_truly_concurrent_file_systems) - [CRDTs for truly concurrent file systems](https://lip6.fr/Marc.Shapiro/papers/CRDT-filesystem-HotStorage-2021.pdf)
+* [2023-11-16, 16:32:32](https://lobste.rs/s/0opm7c/navigating_around_your_shell) - [Navigating around in your shell](https://blog.meain.io/2023/navigating-around-in-shell/)
 * [2023-11-16, 15:38:07](https://lobste.rs/s/nopact/size_for_every_stream_expert_s_guide) - [A Size for Every Stream: The Expert's Guide to Sizing Kafka Streams](https://www.responsive.dev/blog/a-size-for-every-stream)
 * [2023-11-16, 15:35:31](https://lobste.rs/s/wupxrg/postgres_15_logical_decoding_row_filters) - [Postgres 15: Logical Decoding Row Filters With Debezium (2022)](https://www.decodable.co/blog/postgres-15-logical-decoding-row-filters-with-debezium)
 * [2023-11-16, 15:28:36](https://lobste.rs/s/n99qw2/try_cheriot_platform_on_arty_a7_100t_fpga) - [Try the CHERIoT platform on the Arty A7 100T FPGA](https://cheriot.org/fpga/try/2023/11/16/cheriot-on-the-arty-a7.html)
@@ -19,8 +21,6 @@
 * [2023-11-15, 18:53:25](https://lobste.rs/s/do28vj/we_don_t_do_dst_at_this_company) - [We don’t do DST at this company](https://blog.backslasher.net/no-dst.html)
 * [2023-11-15, 18:51:22](https://lobste.rs/s/7ichee/theory_compositional_tool_assisted) - [A Theory of Compositional Tool-Assisted Speedrunning](https://gist.github.com/MostAwesomeDude/b42f266ac168e01a08f9c71fabe13432)
 * [2023-11-15, 18:47:21](https://lobste.rs/s/ugefta/signals_vs_servers) - [Signals vs. Servers](https://blog.adamchalmers.com/signals-vs-servers/)
-* [2023-11-15, 17:42:15](https://lobste.rs/s/8kahuf/let_s_reinvent_wheel) - [Let’s reinvent the wheel](https://vasilis.nl/nerd/lets-reinvent-the-wheel/)
-* [2023-11-15, 16:34:57](https://lobste.rs/s/dng5xk/exploring_gpts_chatgpt_trench_coat) - [Exploring GPTs: ChatGPT in a trench coat?](https://simonwillison.net/2023/Nov/15/gpts/)
 * [2023-11-15, 09:45:01](https://lobste.rs/s/njzpyq/i_accidentally_scheme) - [i accidentally a scheme](https://wingolog.org/archives/2023/11/13/i-accidentally-a-scheme)
 * [2023-11-15, 08:43:00](https://lobste.rs/s/binril/nix_users_you_can_fearlessly_start_using) - [Nix users, you can fearlessly start using Rust scripts already](https://dpc.pw/posts/nix-users-you-can-start-using-rust-scripts-already/)
 * [2023-11-15, 08:42:13](https://lobste.rs/s/bzcqjr/why_did_linux_choose_rust_not_c) - [Why did Linux choose Rust but not C++?](https://lobste.rs/s/bzcqjr/why_did_linux_choose_rust_not_c)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-16](index.md)
 
+* [2023-11-16, 16:36:38](https://lobste.rs/s/vtvoyk/crdts_for_truly_concurrent_file_systems) - [CRDTs for truly concurrent file systems](https://lip6.fr/Marc.Shapiro/papers/CRDT-filesystem-HotStorage-2021.pdf)
+* [2023-11-16, 16:32:32](https://lobste.rs/s/0opm7c/navigating_around_your_shell) - [Navigating around in your shell](https://blog.meain.io/2023/navigating-around-in-shell/)
 * [2023-11-16, 15:38:07](https://lobste.rs/s/nopact/size_for_every_stream_expert_s_guide) - [A Size for Every Stream: The Expert's Guide to Sizing Kafka Streams](https://www.responsive.dev/blog/a-size-for-every-stream)
 * [2023-11-16, 15:35:31](https://lobste.rs/s/wupxrg/postgres_15_logical_decoding_row_filters) - [Postgres 15: Logical Decoding Row Filters With Debezium (2022)](https://www.decodable.co/blog/postgres-15-logical-decoding-row-filters-with-debezium)
 * [2023-11-16, 15:28:36](https://lobste.rs/s/n99qw2/try_cheriot_platform_on_arty_a7_100t_fpga) - [Try the CHERIoT platform on the Arty A7 100T FPGA](https://cheriot.org/fpga/try/2023/11/16/cheriot-on-the-arty-a7.html)
