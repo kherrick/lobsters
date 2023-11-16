@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-16, 14:17:01](https://lobste.rs/s/ruxos2/announcing_rust_1_74_0) - [Announcing Rust 1.74.0](https://blog.rust-lang.org/2023/11/16/Rust-1.74.0.html)
 * [2023-11-16, 12:09:27](https://lobste.rs/s/mllrju/generating_random_factored_numbers) - [Generating Random Factored Numbers, Easily (2002)](https://inst.eecs.berkeley.edu/~cs276/fa20/notes/Kalai_generating_factored.pdf)
 * [2023-11-16, 12:02:33](https://lobste.rs/s/vc7goy/decline_usability_revisited) - [The Decline of Usability: Revisited](https://datagubbe.se/usab2/)
 * [2023-11-16, 11:36:15](https://lobste.rs/s/exhcza/migrating_from_bors_ng_github_merge) - [Migrating from Bors-NG to Github Merge Queues](https://theunixzoo.co.uk/blog/2023-11-16-migrating-to-gh-merge-queues.html)
@@ -22,7 +23,6 @@
 * [2023-11-15, 09:21:03](https://lobste.rs/s/7wzwpi/vertigo) - [vertigo](https://flak.tedunangst.com/post/vertigo)
 * [2023-11-15, 08:43:00](https://lobste.rs/s/binril/nix_users_you_can_fearlessly_start_using) - [Nix users, you can fearlessly start using Rust scripts already](https://dpc.pw/posts/nix-users-you-can-start-using-rust-scripts-already/)
 * [2023-11-15, 08:42:13](https://lobste.rs/s/bzcqjr/why_did_linux_choose_rust_not_c) - [Why did Linux choose Rust but not C++?](https://lobste.rs/s/bzcqjr/why_did_linux_choose_rust_not_c)
-* [2023-11-14, 23:33:10](https://lobste.rs/s/mjlt0h/announcing_f_8) - [Announcing F# 8](https://devblogs.microsoft.com/dotnet/announcing-fsharp-8/)
 * [2023-11-14, 19:55:15](https://lobste.rs/s/foo1n7/we_need_bring_back_webrings) - [We Need to Bring Back Webrings](https://arne.me/articles/we-need-to-bring-back-webrings)
 * [2023-11-14, 18:44:58](https://lobste.rs/s/p3gbwp/beginners_should_use_django_not_flask) - [Beginners should use Django, not Flask](https://www.bitecode.dev/p/beginners-should-use-django-not-flask)
 

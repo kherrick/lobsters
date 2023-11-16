@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-16](index.md)
 
+* [2023-11-16, 14:17:01](https://lobste.rs/s/ruxos2/announcing_rust_1_74_0) - [Announcing Rust 1.74.0](https://blog.rust-lang.org/2023/11/16/Rust-1.74.0.html)
 * [2023-11-16, 12:09:27](https://lobste.rs/s/mllrju/generating_random_factored_numbers) - [Generating Random Factored Numbers, Easily (2002)](https://inst.eecs.berkeley.edu/~cs276/fa20/notes/Kalai_generating_factored.pdf)
 * [2023-11-16, 12:02:33](https://lobste.rs/s/vc7goy/decline_usability_revisited) - [The Decline of Usability: Revisited](https://datagubbe.se/usab2/)
 * [2023-11-16, 11:36:15](https://lobste.rs/s/exhcza/migrating_from_bors_ng_github_merge) - [Migrating from Bors-NG to Github Merge Queues](https://theunixzoo.co.uk/blog/2023-11-16-migrating-to-gh-merge-queues.html)
