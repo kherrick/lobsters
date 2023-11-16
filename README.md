@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-16, 11:10:51](https://lobste.rs/s/ibyngy/c_with_nix_2023_part_2_package_generation) - [C++ with Nix in 2023, Part 2: Package Generation and Cross-Compilation](https://nixcademy.com/2023/11/16/cpp-with-nix-in-2023-part-2-package/)
 * [2023-11-16, 09:32:29](https://lobste.rs/s/s70ssi/push_save_linux_on_itanium) - [The push to save Linux on Itanium](https://lwn.net/SubscriberLink/950466/0999d63fdf270781/)
 * [2023-11-16, 07:58:33](https://lobste.rs/s/blmitg/very_subtle_bug) - [A Very Subtle Bug](https://blog.nelhage.com/2010/02/a-very-subtle-bug/)
 * [2023-11-16, 06:47:59](https://lobste.rs/s/uacfh2/hyper_v1) - [hyper v1](https://seanmonstar.com/blog/hyper-v1/)
@@ -12,7 +13,6 @@
 * [2023-11-15, 18:53:25](https://lobste.rs/s/do28vj/we_don_t_do_dst_at_this_company) - [We don’t do DST at this company](https://blog.backslasher.net/no-dst.html)
 * [2023-11-15, 18:51:22](https://lobste.rs/s/7ichee/theory_compositional_tool_assisted) - [A Theory of Compositional Tool-Assisted Speedrunning](https://gist.github.com/MostAwesomeDude/b42f266ac168e01a08f9c71fabe13432)
 * [2023-11-15, 18:47:21](https://lobste.rs/s/ugefta/signals_vs_servers) - [Signals vs. Servers](https://blog.adamchalmers.com/signals-vs-servers/)
-* [2023-11-15, 18:15:30](https://lobste.rs/s/gal9wq/with_systems_approach_chips_microsoft) - [With a systems approach to chips, Microsoft aims to tailor everything ‘from silicon to service’ to m](https://news.microsoft.com/source/features/ai/in-house-chips-silicon-to-service-to-meet-ai-demand/)
 * [2023-11-15, 17:42:15](https://lobste.rs/s/8kahuf/let_s_reinvent_wheel) - [Let’s reinvent the wheel](https://vasilis.nl/nerd/lets-reinvent-the-wheel/)
 * [2023-11-15, 16:34:57](https://lobste.rs/s/dng5xk/exploring_gpts_chatgpt_trench_coat) - [Exploring GPTs: ChatGPT in a trench coat?](https://simonwillison.net/2023/Nov/15/gpts/)
 * [2023-11-15, 16:20:01](https://lobste.rs/s/rzyjfe/cachewarp) - [CacheWarp](https://cachewarpattack.com/)
