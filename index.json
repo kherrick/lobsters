@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-16, 04:10:17",
+      "https://lobste.rs/s/rfjs1m/c_most_important_complexities"
+    ],
+    [
+      "C++: The most important complexities",
+      "https://www.sandordargo.com/blog/2023/11/15/most-important-complexities"
+    ]
+  ],
+  [
+    [
       "2023-11-15, 23:15:23",
       "https://lobste.rs/s/ezoe4h/push_ifs_up_fors_down"
     ],
@@ -197,16 +207,6 @@
     [
       "Beginners should use Django, not Flask",
       "https://www.bitecode.dev/p/beginners-should-use-django-not-flask"
-    ]
-  ],
-  [
-    [
-      "2023-11-14, 16:33:16",
-      "https://lobste.rs/s/lxl6w6/announcing_net_8"
-    ],
-    [
-      "Announcing .NET 8",
-      "https://devblogs.microsoft.com/dotnet/announcing-dotnet-8/"
     ]
   ],
   [
