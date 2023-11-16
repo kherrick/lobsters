@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-16, 23:39:08](https://lobste.rs/s/w024om/c_23_characters) - [C++23 Characters](https://euroquis.nl//blabla/2023/11/16/cpp.html)
 * [2023-11-16, 22:29:17](https://lobste.rs/s/s9gqhw/whiff_whiffle) - [A Whiff of Whiffle](https://wingolog.org/archives/2023/11/16/a-whiff-of-whiffle)
 * [2023-11-16, 22:17:32](https://lobste.rs/s/gwa5sj/we_are_drowning_google_s_magnanimity) - [We are drowning in Google's magnanimity](https://www.kpassa.me/posts/google/)
 * [2023-11-16, 21:07:50](https://lobste.rs/s/8gd2x4/introducing_ocapn_interoperable) - [Introducing OCapN, interoperable capabilities over the network](https://spritely.institute/news/introducing-ocapn-interoperable-capabilities-over-the-network.html)
@@ -20,7 +21,6 @@
 * [2023-11-16, 06:47:59](https://lobste.rs/s/uacfh2/hyper_v1) - [hyper v1](https://seanmonstar.com/blog/hyper-v1/)
 * [2023-11-16, 05:14:00](https://lobste.rs/s/iaj7xp/lessons_from_metafont_2018) - [Lessons from METAFONT (2018)](https://www.yld.io/blog/lessons-from-metafont/)
 * [2023-11-16, 05:06:07](https://lobste.rs/s/xom4im/edge_emulation_pokemon_mini) - [Edge of Emulation: Pokemon Mini](https://shonumi.github.io/articles/art25.html)
-* [2023-11-16, 04:10:17](https://lobste.rs/s/rfjs1m/c_most_important_complexities) - [C++: The most important complexities](https://www.sandordargo.com/blog/2023/11/15/most-important-complexities)
 * [2023-11-15, 23:15:23](https://lobste.rs/s/ezoe4h/push_ifs_up_fors_down) - [Push Ifs Up And Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 * [2023-11-15, 21:18:08](https://lobste.rs/s/iolaxa/our_vision_for_rust_specification) - [Our Vision for the Rust Specification](https://blog.rust-lang.org/inside-rust/2023/11/15/spec-vision.html)
 * [2023-11-15, 18:53:25](https://lobste.rs/s/do28vj/we_don_t_do_dst_at_this_company) - [We don’t do DST at this company](https://blog.backslasher.net/no-dst.html)
