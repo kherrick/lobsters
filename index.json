@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-16, 17:03:35",
+      "https://lobste.rs/s/wkj6go/std_source_location_is_broken"
+    ],
+    [
+      "std::source_location is Broken",
+      "https://www.elbeno.com/blog/?p=1738"
+    ]
+  ],
+  [
+    [
       "2023-11-16, 16:36:38",
       "https://lobste.rs/s/vtvoyk/crdts_for_truly_concurrent_file_systems"
     ],
@@ -197,16 +207,6 @@
     [
       "A Theory of Compositional Tool-Assisted Speedrunning",
       "https://gist.github.com/MostAwesomeDude/b42f266ac168e01a08f9c71fabe13432"
-    ]
-  ],
-  [
-    [
-      "2023-11-15, 18:47:21",
-      "https://lobste.rs/s/ugefta/signals_vs_servers"
-    ],
-    [
-      "Signals vs. Servers",
-      "https://blog.adamchalmers.com/signals-vs-servers/"
     ]
   ],
   [
