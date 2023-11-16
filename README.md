@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-16, 06:47:59](https://lobste.rs/s/uacfh2/hyper_v1) - [hyper v1](https://seanmonstar.com/blog/hyper-v1/)
 * [2023-11-16, 05:14:00](https://lobste.rs/s/iaj7xp/lessons_from_metafont_2018) - [Lessons from METAFONT (2018)](https://www.yld.io/blog/lessons-from-metafont/)
 * [2023-11-16, 05:06:07](https://lobste.rs/s/xom4im/edge_emulation_pokemon_mini) - [Edge of Emulation: Pokemon Mini](https://shonumi.github.io/articles/art25.html)
 * [2023-11-16, 04:49:03](https://lobste.rs/s/qcsntm/fast_symbolic_computation_for_robotics) - [Fast Symbolic Computation for Robotics](https://symforce.org)
@@ -24,7 +25,6 @@
 * [2023-11-14, 19:55:15](https://lobste.rs/s/foo1n7/we_need_bring_back_webrings) - [We Need to Bring Back Webrings](https://arne.me/articles/we-need-to-bring-back-webrings)
 * [2023-11-14, 18:44:58](https://lobste.rs/s/p3gbwp/beginners_should_use_django_not_flask) - [Beginners should use Django, not Flask](https://www.bitecode.dev/p/beginners-should-use-django-not-flask)
 * [2023-11-14, 10:24:21](https://lobste.rs/s/trv4iu/rust_without_crates_io) - [Rust without crates.io](https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html)
-* [2023-11-14, 10:09:34](https://lobste.rs/s/upiyhx/four_kinds_optimisation) - [Four Kinds of Optimisation](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)
 
 ## [Archives](archives/index.md)
 
