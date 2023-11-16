@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-16, 22:29:17](https://lobste.rs/s/s9gqhw/whiff_whiffle) - [A Whiff of Whiffle](https://wingolog.org/archives/2023/11/16/a-whiff-of-whiffle)
 * [2023-11-16, 22:17:32](https://lobste.rs/s/gwa5sj/we_are_drowning_google_s_magnanimity) - [We are drowning in Google's magnanimity](https://www.kpassa.me/posts/google/)
 * [2023-11-16, 21:07:50](https://lobste.rs/s/8gd2x4/introducing_ocapn_interoperable) - [Introducing OCapN, interoperable capabilities over the network](https://spritely.institute/news/introducing-ocapn-interoperable-capabilities-over-the-network.html)
 * [2023-11-16, 20:35:29](https://lobste.rs/s/jigif3/european_telecom_body_open_source_radio) - [European Telecom Body to Open-Source Radio Encryption System](https://www.inforisktoday.com/european-telecom-body-to-open-source-radio-encryption-system-a-23599)
@@ -11,7 +12,6 @@
 * [2023-11-16, 16:32:32](https://lobste.rs/s/0opm7c/navigating_around_your_shell) - [Navigating around in your shell](https://blog.meain.io/2023/navigating-around-in-shell/)
 * [2023-11-16, 15:28:36](https://lobste.rs/s/n99qw2/try_cheriot_platform_on_arty_a7_100t_fpga) - [Try the CHERIoT platform on the Arty A7 100T FPGA](https://cheriot.org/fpga/try/2023/11/16/cheriot-on-the-arty-a7.html)
 * [2023-11-16, 14:17:01](https://lobste.rs/s/ruxos2/announcing_rust_1_74_0) - [Announcing Rust 1.74.0](https://blog.rust-lang.org/2023/11/16/Rust-1.74.0.html)
-* [2023-11-16, 12:09:27](https://lobste.rs/s/mllrju/generating_random_factored_numbers) - [Generating Random Factored Numbers, Easily (2002)](https://inst.eecs.berkeley.edu/~cs276/fa20/notes/Kalai_generating_factored.pdf)
 * [2023-11-16, 12:02:33](https://lobste.rs/s/vc7goy/decline_usability_revisited) - [The Decline of Usability: Revisited](https://datagubbe.se/usab2/)
 * [2023-11-16, 11:36:15](https://lobste.rs/s/exhcza/migrating_from_bors_ng_github_merge) - [Migrating from Bors-NG to Github Merge Queues](https://theunixzoo.co.uk/blog/2023-11-16-migrating-to-gh-merge-queues.html)
 * [2023-11-16, 09:32:29](https://lobste.rs/s/s70ssi/push_save_linux_on_itanium) - [The push to save Linux on Itanium](https://lwn.net/SubscriberLink/950466/0999d63fdf270781/)
