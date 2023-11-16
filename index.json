@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-16, 12:09:27",
+      "https://lobste.rs/s/mllrju/generating_random_factored_numbers"
+    ],
+    [
+      "Generating Random Factored Numbers, Easily (2002)",
+      "https://inst.eecs.berkeley.edu/~cs276/fa20/notes/Kalai_generating_factored.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-11-16, 12:02:33",
+      "https://lobste.rs/s/vc7goy/decline_usability_revisited"
+    ],
+    [
+      "The Decline of Usability: Revisited",
+      "https://datagubbe.se/usab2/"
+    ]
+  ],
+  [
+    [
       "2023-11-16, 11:36:15",
       "https://lobste.rs/s/exhcza/migrating_from_bors_ng_github_merge"
     ],
@@ -67,16 +87,6 @@
     [
       "Edge of Emulation: Pokemon Mini",
       "https://shonumi.github.io/articles/art25.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-16, 04:49:03",
-      "https://lobste.rs/s/qcsntm/fast_symbolic_computation_for_robotics"
-    ],
-    [
-      "Fast Symbolic Computation for Robotics",
-      "https://symforce.org"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "CacheWarp",
       "https://cachewarpattack.com/"
-    ]
-  ],
-  [
-    [
-      "2023-11-15, 15:25:13",
-      "https://lobste.rs/s/sdo6zb/gulf_between_design_engineering"
-    ],
-    [
-      "The Gulf Between Design and Engineering",
-      "https://designsystems.international/ideas/the-gulf-between-design-and-engineering/"
     ]
   ],
   [
