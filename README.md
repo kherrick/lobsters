@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-16, 22:17:32](https://lobste.rs/s/gwa5sj/we_are_drowning_google_s_magnanimity) - [We are drowning in Google's magnanimity](https://www.kpassa.me/posts/google/)
 * [2023-11-16, 21:07:50](https://lobste.rs/s/8gd2x4/introducing_ocapn_interoperable) - [Introducing OCapN, interoperable capabilities over the network](https://spritely.institute/news/introducing-ocapn-interoperable-capabilities-over-the-network.html)
 * [2023-11-16, 20:35:29](https://lobste.rs/s/jigif3/european_telecom_body_open_source_radio) - [European Telecom Body to Open-Source Radio Encryption System](https://www.inforisktoday.com/european-telecom-body-to-open-source-radio-encryption-system-a-23599)
 * [2023-11-16, 20:08:17](https://lobste.rs/s/mkyrvt/amazon_time_sync_service_now_supports) - [Amazon Time Sync Service now supports microsecond-accurate time](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-time-sync-service-microsecond-accurate-time/)
@@ -24,7 +25,6 @@
 * [2023-11-15, 18:53:25](https://lobste.rs/s/do28vj/we_don_t_do_dst_at_this_company) - [We don’t do DST at this company](https://blog.backslasher.net/no-dst.html)
 * [2023-11-15, 08:43:00](https://lobste.rs/s/binril/nix_users_you_can_fearlessly_start_using) - [Nix users, you can fearlessly start using Rust scripts already](https://dpc.pw/posts/nix-users-you-can-start-using-rust-scripts-already/)
 * [2023-11-15, 08:42:13](https://lobste.rs/s/bzcqjr/why_did_linux_choose_rust_not_c) - [Why did Linux choose Rust but not C++?](https://lobste.rs/s/bzcqjr/why_did_linux_choose_rust_not_c)
-* [2023-11-14, 19:55:15](https://lobste.rs/s/foo1n7/we_need_bring_back_webrings) - [We Need to Bring Back Webrings](https://arne.me/articles/we-need-to-bring-back-webrings)
 
 ## [Archives](archives/index.md)
 
