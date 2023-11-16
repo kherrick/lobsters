@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-16](index.md)
 
+* [2023-11-16, 17:34:27](https://lobste.rs/s/qcblui/feature_flags_oci) - [Feature Flags and OCI](https://www.flipt.io/blog/features-flags-and-oci)
 * [2023-11-16, 17:32:16](https://lobste.rs/s/7prhfk/nilaway_practical_nil_panic_detection) - [NilAway: Practical Nil Panic Detection for Go](https://www.uber.com/blog/nilaway-practical-nil-panic-detection-for-go/)
 * [2023-11-16, 17:03:35](https://lobste.rs/s/wkj6go/std_source_location_is_broken) - [std::source_location is Broken](https://www.elbeno.com/blog/?p=1738)
 * [2023-11-16, 16:36:38](https://lobste.rs/s/vtvoyk/crdts_for_truly_concurrent_file_systems) - [CRDTs for truly concurrent file systems](https://lip6.fr/Marc.Shapiro/papers/CRDT-filesystem-HotStorage-2021.pdf)
