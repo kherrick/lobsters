@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-11-16, 04:49:03](https://lobste.rs/s/qcsntm/fast_symbolic_computation_for_robotics) - [Fast symbolic computation for robotics](https://symforce.org)
+* [2023-11-16, 05:06:07](https://lobste.rs/s/xom4im/edge_emulation_pokemon_mini) - [Edge of Emulation: Pokemon Mini](https://shonumi.github.io/articles/art25.html)
+* [2023-11-16, 04:49:03](https://lobste.rs/s/qcsntm/fast_symbolic_computation_for_robotics) - [Fast Symbolic Computation for Robotics](https://symforce.org)
 * [2023-11-16, 04:10:17](https://lobste.rs/s/rfjs1m/c_most_important_complexities) - [C++: The most important complexities](https://www.sandordargo.com/blog/2023/11/15/most-important-complexities)
 * [2023-11-15, 23:15:23](https://lobste.rs/s/ezoe4h/push_ifs_up_fors_down) - [Push Ifs Up And Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 * [2023-11-15, 21:18:08](https://lobste.rs/s/iolaxa/our_vision_for_rust_specification) - [Our Vision for the Rust Specification](https://blog.rust-lang.org/inside-rust/2023/11/15/spec-vision.html)
@@ -24,7 +25,6 @@
 * [2023-11-14, 18:44:58](https://lobste.rs/s/p3gbwp/beginners_should_use_django_not_flask) - [Beginners should use Django, not Flask](https://www.bitecode.dev/p/beginners-should-use-django-not-flask)
 * [2023-11-14, 10:24:21](https://lobste.rs/s/trv4iu/rust_without_crates_io) - [Rust without crates.io](https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html)
 * [2023-11-14, 10:09:34](https://lobste.rs/s/upiyhx/four_kinds_optimisation) - [Four Kinds of Optimisation](https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html)
-* [2023-11-14, 06:05:04](https://lobste.rs/s/h2dszz/yes_ubuntu_is_withholding_security) - [Yes, Ubuntu Is Withholding Security Patches for Some Software](https://www.flu0r1ne.net/logs/ubuntu_withholding_universe_security_patches)
 
 ## [Archives](archives/index.md)
 
