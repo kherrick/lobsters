@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-16, 05:14:00](https://lobste.rs/s/iaj7xp/lessons_from_metafont_2018) - [Lessons from METAFONT (2018)](https://www.yld.io/blog/lessons-from-metafont/)
 * [2023-11-16, 05:06:07](https://lobste.rs/s/xom4im/edge_emulation_pokemon_mini) - [Edge of Emulation: Pokemon Mini](https://shonumi.github.io/articles/art25.html)
 * [2023-11-16, 04:49:03](https://lobste.rs/s/qcsntm/fast_symbolic_computation_for_robotics) - [Fast Symbolic Computation for Robotics](https://symforce.org)
 * [2023-11-16, 04:10:17](https://lobste.rs/s/rfjs1m/c_most_important_complexities) - [C++: The most important complexities](https://www.sandordargo.com/blog/2023/11/15/most-important-complexities)
@@ -13,7 +14,6 @@
 * [2023-11-15, 16:20:01](https://lobste.rs/s/rzyjfe/cachewarp) - [CacheWarp](https://cachewarpattack.com/)
 * [2023-11-15, 15:41:05](https://lobste.rs/s/fvjrva/minimize_global_process) - [Minimize global process](https://jordankaye.dev/posts/minimize-global-process/)
 * [2023-11-15, 15:25:13](https://lobste.rs/s/sdo6zb/gulf_between_design_engineering) - [The Gulf Between Design and Engineering](https://designsystems.international/ideas/the-gulf-between-design-and-engineering/)
-* [2023-11-15, 14:32:42](https://lobste.rs/s/9t6rpt/svelte_flow_library_for_rendering) - [Svelte Flow – a library for rendering interactive node-based UIs](https://www.xyflow.com/blog/svelte-flow-launch)
 * [2023-11-15, 09:45:01](https://lobste.rs/s/njzpyq/i_accidentally_scheme) - [i accidentally a scheme](https://wingolog.org/archives/2023/11/13/i-accidentally-a-scheme)
 * [2023-11-15, 09:21:03](https://lobste.rs/s/7wzwpi/vertigo) - [vertigo](https://flak.tedunangst.com/post/vertigo)
 * [2023-11-15, 08:43:00](https://lobste.rs/s/binril/nix_users_you_can_fearlessly_start_using) - [Nix users, you can fearlessly start using Rust scripts already](https://dpc.pw/posts/nix-users-you-can-start-using-rust-scripts-already/)
