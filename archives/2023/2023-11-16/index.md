@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-16](index.md)
 
+* [2023-11-16, 20:08:17](https://lobste.rs/s/mkyrvt/amazon_time_sync_service_now_supports) - [Amazon Time Sync Service now supports microsecond-accurate time](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-time-sync-service-microsecond-accurate-time/)
 * [2023-11-16, 18:41:35](https://lobste.rs/s/2dgl60/upgrade_your_development_environments) - [Upgrade your Development Environments with Devbox](https://alan.norbauer.com/articles/devbox-intro)
 * [2023-11-16, 18:00:31](https://lobste.rs/s/jputtx/porting_stunt_car_racer_apple_ii) - [Porting Stunt Car Racer to the Apple II](https://cobbpg.github.io/articles/stunt-car-racer-apple2-port.html)
 * [2023-11-16, 17:34:27](https://lobste.rs/s/qcblui/feature_flags_oci) - [Feature Flags and OCI](https://www.flipt.io/blog/features-flags-and-oci)
