@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-11-16, 05:06:07",
+      "https://lobste.rs/s/xom4im/edge_emulation_pokemon_mini"
+    ],
+    [
+      "Edge of Emulation: Pokemon Mini",
+      "https://shonumi.github.io/articles/art25.html"
+    ]
+  ],
+  [
+    [
       "2023-11-16, 04:49:03",
       "https://lobste.rs/s/qcsntm/fast_symbolic_computation_for_robotics"
     ],
     [
-      "Fast symbolic computation for robotics",
+      "Fast Symbolic Computation for Robotics",
       "https://symforce.org"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "Four Kinds of Optimisation",
       "https://tratt.net/laurie/blog/2023/four_kinds_of_optimisation.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-14, 06:05:04",
-      "https://lobste.rs/s/h2dszz/yes_ubuntu_is_withholding_security"
-    ],
-    [
-      "Yes, Ubuntu Is Withholding Security Patches for Some Software",
-      "https://www.flu0r1ne.net/logs/ubuntu_withholding_universe_security_patches"
     ]
   ]
 ]
