@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-11-16, 08:10:12",
-      "https://lobste.rs/s/qxai5l/nothing_phone_says_it_will_hack_into"
-    ],
-    [
-      "Nothing Phone says it will hack into iMessage, bring blue bubbles to Android",
-      "https://arstechnica.com/gadgets/2023/11/nothing-phone-says-it-will-hack-into-imessage-bring-blue-bubbles-to-android/"
-    ]
-  ],
-  [
-    [
       "2023-11-16, 07:58:33",
       "https://lobste.rs/s/blmitg/very_subtle_bug"
     ],
@@ -87,6 +77,16 @@
     [
       "Our Vision for the Rust Specification",
       "https://blog.rust-lang.org/inside-rust/2023/11/15/spec-vision.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-15, 19:44:43",
+      "https://lobste.rs/s/cxttlt/neon_serverless_postgresql_asds_chapter"
+    ],
+    [
+      "Neon - Serverless PostgreSQL - ASDS Chapter 3",
+      "https://jack-vanlightly.com/analyses/2023/11/15/neon-serverless-postgresql-asds-chapter-3"
     ]
   ],
   [
