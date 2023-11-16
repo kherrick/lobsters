@@ -10,6 +10,7 @@
 * [2023-11-16, 11:10:51](https://lobste.rs/s/ibyngy/c_with_nix_2023_part_2_package_generation) - [C++ with Nix in 2023, Part 2: Package Generation and Cross-Compilation](https://nixcademy.com/2023/11/16/cpp-with-nix-in-2023-part-2-package/)
 * [2023-11-16, 09:32:29](https://lobste.rs/s/s70ssi/push_save_linux_on_itanium) - [The push to save Linux on Itanium](https://lwn.net/SubscriberLink/950466/0999d63fdf270781/)
 * [2023-11-16, 08:10:12](https://lobste.rs/s/qxai5l/nothing_phone_says_it_will_hack_into) - [Nothing Phone says it will hack into iMessage, bring blue bubbles to Android](https://arstechnica.com/gadgets/2023/11/nothing-phone-says-it-will-hack-into-imessage-bring-blue-bubbles-to-android/)
+* [2023-11-16, 07:58:33](https://lobste.rs/s/blmitg/very_subtle_bug_2010) - [A Very Subtle Bug (2010)](https://blog.nelhage.com/2010/02/a-very-subtle-bug/)
 * [2023-11-16, 07:58:33](https://lobste.rs/s/blmitg/very_subtle_bug) - [A Very Subtle Bug](https://blog.nelhage.com/2010/02/a-very-subtle-bug/)
 * [2023-11-16, 06:47:59](https://lobste.rs/s/uacfh2/hyper_v1) - [hyper v1](https://seanmonstar.com/blog/hyper-v1/)
 * [2023-11-16, 05:14:00](https://lobste.rs/s/iaj7xp/lessons_from_metafont_2018) - [Lessons from METAFONT (2018)](https://www.yld.io/blog/lessons-from-metafont/)
