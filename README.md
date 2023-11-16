@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-16, 11:36:15](https://lobste.rs/s/exhcza/migrating_from_bors_ng_github_merge) - [Migrating from Bors-NG to Github Merge Queues](https://theunixzoo.co.uk/blog/2023-11-16-migrating-to-gh-merge-queues.html)
 * [2023-11-16, 11:10:51](https://lobste.rs/s/ibyngy/c_with_nix_2023_part_2_package_generation) - [C++ with Nix in 2023, Part 2: Package Generation and Cross-Compilation](https://nixcademy.com/2023/11/16/cpp-with-nix-in-2023-part-2-package/)
 * [2023-11-16, 09:32:29](https://lobste.rs/s/s70ssi/push_save_linux_on_itanium) - [The push to save Linux on Itanium](https://lwn.net/SubscriberLink/950466/0999d63fdf270781/)
 * [2023-11-16, 07:58:33](https://lobste.rs/s/blmitg/very_subtle_bug) - [A Very Subtle Bug](https://blog.nelhage.com/2010/02/a-very-subtle-bug/)
@@ -22,7 +23,6 @@
 * [2023-11-15, 08:43:00](https://lobste.rs/s/binril/nix_users_you_can_fearlessly_start_using) - [Nix users, you can fearlessly start using Rust scripts already](https://dpc.pw/posts/nix-users-you-can-start-using-rust-scripts-already/)
 * [2023-11-15, 08:42:13](https://lobste.rs/s/bzcqjr/why_did_linux_choose_rust_not_c) - [Why did Linux choose Rust but not C++?](https://lobste.rs/s/bzcqjr/why_did_linux_choose_rust_not_c)
 * [2023-11-14, 23:33:10](https://lobste.rs/s/mjlt0h/announcing_f_8) - [Announcing F# 8](https://devblogs.microsoft.com/dotnet/announcing-fsharp-8/)
-* [2023-11-14, 21:55:54](https://lobste.rs/s/edxfnz/some_notes_on_nix_flakes) - [Some notes on nix flakes](https://jvns.ca/blog/2023/11/11/notes-on-nix-flakes/)
 * [2023-11-14, 19:55:15](https://lobste.rs/s/foo1n7/we_need_bring_back_webrings) - [We Need to Bring Back Webrings](https://arne.me/articles/we-need-to-bring-back-webrings)
 * [2023-11-14, 18:44:58](https://lobste.rs/s/p3gbwp/beginners_should_use_django_not_flask) - [Beginners should use Django, not Flask](https://www.bitecode.dev/p/beginners-should-use-django-not-flask)
 
