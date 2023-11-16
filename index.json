@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-16, 11:36:15",
+      "https://lobste.rs/s/exhcza/migrating_from_bors_ng_github_merge"
+    ],
+    [
+      "Migrating from Bors-NG to Github Merge Queues",
+      "https://theunixzoo.co.uk/blog/2023-11-16-migrating-to-gh-merge-queues.html"
+    ]
+  ],
+  [
+    [
       "2023-11-16, 11:10:51",
       "https://lobste.rs/s/ibyngy/c_with_nix_2023_part_2_package_generation"
     ],
@@ -217,16 +227,6 @@
     [
       "Announcing F# 8",
       "https://devblogs.microsoft.com/dotnet/announcing-fsharp-8/"
-    ]
-  ],
-  [
-    [
-      "2023-11-14, 21:55:54",
-      "https://lobste.rs/s/edxfnz/some_notes_on_nix_flakes"
-    ],
-    [
-      "Some notes on nix flakes",
-      "https://jvns.ca/blog/2023/11/11/notes-on-nix-flakes/"
     ]
   ],
   [
