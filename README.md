@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-16, 09:32:29](https://lobste.rs/s/s70ssi/push_save_linux_on_itanium) - [The push to save Linux on Itanium](https://lwn.net/SubscriberLink/950466/0999d63fdf270781/)
 * [2023-11-16, 07:58:33](https://lobste.rs/s/blmitg/very_subtle_bug) - [A Very Subtle Bug](https://blog.nelhage.com/2010/02/a-very-subtle-bug/)
 * [2023-11-16, 06:47:59](https://lobste.rs/s/uacfh2/hyper_v1) - [hyper v1](https://seanmonstar.com/blog/hyper-v1/)
 * [2023-11-16, 05:14:00](https://lobste.rs/s/iaj7xp/lessons_from_metafont_2018) - [Lessons from METAFONT (2018)](https://www.yld.io/blog/lessons-from-metafont/)
@@ -8,7 +9,6 @@
 * [2023-11-16, 04:10:17](https://lobste.rs/s/rfjs1m/c_most_important_complexities) - [C++: The most important complexities](https://www.sandordargo.com/blog/2023/11/15/most-important-complexities)
 * [2023-11-15, 23:15:23](https://lobste.rs/s/ezoe4h/push_ifs_up_fors_down) - [Push Ifs Up And Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 * [2023-11-15, 21:18:08](https://lobste.rs/s/iolaxa/our_vision_for_rust_specification) - [Our Vision for the Rust Specification](https://blog.rust-lang.org/inside-rust/2023/11/15/spec-vision.html)
-* [2023-11-15, 19:44:43](https://lobste.rs/s/cxttlt/neon_serverless_postgresql_asds_chapter) - [Neon - Serverless PostgreSQL - ASDS Chapter 3](https://jack-vanlightly.com/analyses/2023/11/15/neon-serverless-postgresql-asds-chapter-3)
 * [2023-11-15, 18:53:25](https://lobste.rs/s/do28vj/we_don_t_do_dst_at_this_company) - [We don’t do DST at this company](https://blog.backslasher.net/no-dst.html)
 * [2023-11-15, 18:51:22](https://lobste.rs/s/7ichee/theory_compositional_tool_assisted) - [A Theory of Compositional Tool-Assisted Speedrunning](https://gist.github.com/MostAwesomeDude/b42f266ac168e01a08f9c71fabe13432)
 * [2023-11-15, 18:47:21](https://lobste.rs/s/ugefta/signals_vs_servers) - [Signals vs. Servers](https://blog.adamchalmers.com/signals-vs-servers/)
