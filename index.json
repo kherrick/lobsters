@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-16, 15:28:36",
+      "https://lobste.rs/s/n99qw2/try_cheriot_platform_on_arty_a7_100t_fpga"
+    ],
+    [
+      "Try the CHERIoT platform on the Arty A7 100T FPGA",
+      "https://cheriot.org/fpga/try/2023/11/16/cheriot-on-the-arty-a7.html"
+    ]
+  ],
+  [
+    [
       "2023-11-16, 14:17:01",
       "https://lobste.rs/s/ruxos2/announcing_rust_1_74_0"
     ],
@@ -177,16 +187,6 @@
     [
       "Exploring GPTs: ChatGPT in a trench coat?",
       "https://simonwillison.net/2023/Nov/15/gpts/"
-    ]
-  ],
-  [
-    [
-      "2023-11-15, 16:20:01",
-      "https://lobste.rs/s/rzyjfe/cachewarp"
-    ],
-    [
-      "CacheWarp",
-      "https://cachewarpattack.com/"
     ]
   ],
   [
