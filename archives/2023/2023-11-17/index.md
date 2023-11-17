@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
+* [2023-11-17, 11:13:22](https://lobste.rs/s/71oriv/deep_space_network_now) - [Deep Space Network: Now](https://eyes.nasa.gov/dsn/dsn.html)
 * [2023-11-17, 10:16:24](https://lobste.rs/s/nl4gcg/zig_s_std_json_parsed_t) - [Zig's std.json.Parsed(T)](https://www.openmymind.net/Zigs-std-json-Parsed/)
 * [2023-11-17, 09:32:31](https://lobste.rs/s/9a5tim/language_machinery_who_will_attend) - [Language Machinery: Who will attend to the machines’ writing?](https://hedgehogreview.com/issues/markets-and-the-good/articles/language-machinery)
 * [2023-11-17, 09:24:55](https://lobste.rs/s/9pxrd1/organist_stay_sane_managing_your) - [Organist: stay sane managing your development environments](https://www.tweag.io/blog/2023-11-16-announcing-organist/)
