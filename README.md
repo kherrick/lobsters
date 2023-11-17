@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-11-17, 13:19:21](https://lobste.rs/s/b1ojk9/changing_guarantees_given_by_python_s) - [The Changing “Guarantees” Given by Python's Global Interpreter Lock](https://stefan-marr.de/2023/11/python-global-interpreter-lock/)
+* [2023-11-17, 14:11:51](https://lobste.rs/s/k3sc6u/nim_community_survey_2023) - [Nim Community Survey 2023](https://nim-lang.org/blog/2023/11/17/community-survey-2023.html)
 * [2023-11-17, 12:56:41](https://lobste.rs/s/prwdje/ttl_sh_anonymous_ephemeral_free_docker) - [ttl.sh | An anonymous & ephemeral (and free) Docker image registry](https://ttl.sh/)
 * [2023-11-17, 12:35:58](https://lobste.rs/s/s15oog/great_graveyard_cloud) - [The Great Graveyard in the Cloud](https://blog.oddball.tech/how-code-dies/)
 * [2023-11-17, 12:05:46](https://lobste.rs/s/z7ucnu/tiny_llms) - [Tiny LLMs](https://tinyllms.vercel.app/dashboard)
