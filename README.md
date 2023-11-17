@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-17, 17:03:08](https://lobste.rs/s/tql2sf/ai_exploits_repo_multiple) - [AI-Exploits: Repo of multiple unauthenticated RCEs in AI tools](https://github.com/protectai/ai-exploits)
 * [2023-11-17, 15:53:08](https://lobste.rs/s/vdbzqo/30_bits_advice_for_30_years) - [30 Bits of Advice for 30 Years](https://arne.me/articles/30-bits-of-advice-for-30-years)
 * [2023-11-17, 15:45:24](https://lobste.rs/s/bcccpc/introducing_graphics_offload_gtk) - [Introducing graphics offload in GTK](https://blog.gtk.org/2023/11/15/introducing-graphics-offload/)
 * [2023-11-17, 15:22:26](https://lobste.rs/s/idi1wt/open_source_vs_ux) - [Open source vs UX](https://lobste.rs/s/idi1wt/open_source_vs_ux)
@@ -13,7 +14,6 @@
 * [2023-11-17, 08:37:25](https://lobste.rs/s/rbwg3p/decoding_james_webb_space_telescope_2021) - [Decoding James Webb Space Telescope (2021)](https://destevez.net/2021/12/decoding-james-webb-space-telescope/)
 * [2023-11-17, 08:15:51](https://lobste.rs/s/kw1ecl/derangements_number_e) - [Derangements and the number e](https://apieceofthepi.substack.com/p/derangements-and-the-number-e)
 * [2023-11-17, 05:21:04](https://lobste.rs/s/zb7xgb/stable_fiddusion) - [Stable Fiddusion](https://acko.net/blog/stable-fiddusion/)
-* [2023-11-17, 02:02:33](https://lobste.rs/s/hpmb0j/increasing_quic_udp_throughput_over) - [Increasing QUIC and UDP throughput over Tailscale](https://tailscale.com/blog/quic-udp-throughput/)
 * [2023-11-17, 00:35:00](https://lobste.rs/s/1d2neg/neat_github_actions_patterns_for_github) - [Neat GitHub Actions patterns for GitHub Merge Queues](https://boinkor.net/2023/11/neat-github-actions-patterns-for-github-merge-queues/)
 * [2023-11-16, 22:29:17](https://lobste.rs/s/s9gqhw/whiff_whiffle) - [A Whiff of Whiffle](https://wingolog.org/archives/2023/11/16/a-whiff-of-whiffle)
 * [2023-11-16, 21:07:50](https://lobste.rs/s/8gd2x4/introducing_ocapn_interoperable) - [Introducing OCapN, interoperable capabilities over the network](https://spritely.institute/news/introducing-ocapn-interoperable-capabilities-over-the-network.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
+* [2023-11-17, 17:03:08](https://lobste.rs/s/tql2sf/ai_exploits_repo_multiple) - [AI-Exploits: Repo of multiple unauthenticated RCEs in AI tools](https://github.com/protectai/ai-exploits)
 * [2023-11-17, 15:53:08](https://lobste.rs/s/vdbzqo/30_bits_advice_for_30_years) - [30 Bits of Advice for 30 Years](https://arne.me/articles/30-bits-of-advice-for-30-years)
 * [2023-11-17, 15:45:24](https://lobste.rs/s/bcccpc/introducing_graphics_offload_gtk) - [Introducing graphics offload in GTK](https://blog.gtk.org/2023/11/15/introducing-graphics-offload/)
 * [2023-11-17, 15:22:26](https://lobste.rs/s/idi1wt/open_source_vs_ux) - [Open source vs UX](https://lobste.rs/s/idi1wt/open_source_vs_ux)
