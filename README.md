@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-17, 02:02:33](https://lobste.rs/s/hpmb0j/increasing_quic_udp_throughput_over) - [Increasing QUIC and UDP throughput over Tailscale](https://tailscale.com/blog/quic-udp-throughput/)
 * [2023-11-17, 00:35:00](https://lobste.rs/s/1d2neg/neat_github_actions_patterns_for_github) - [Neat GitHub Actions patterns for GitHub Merge Queues](https://boinkor.net/2023/11/neat-github-actions-patterns-for-github-merge-queues/)
 * [2023-11-16, 23:39:08](https://lobste.rs/s/w024om/c_23_characters) - [C++23 Characters](https://euroquis.nl//blabla/2023/11/16/cpp.html)
 * [2023-11-16, 22:29:17](https://lobste.rs/s/s9gqhw/whiff_whiffle) - [A Whiff of Whiffle](https://wingolog.org/archives/2023/11/16/a-whiff-of-whiffle)
@@ -21,7 +22,6 @@
 * [2023-11-16, 07:58:33](https://lobste.rs/s/blmitg/very_subtle_bug_2010) - [A Very Subtle Bug (2010)](https://blog.nelhage.com/2010/02/a-very-subtle-bug/)
 * [2023-11-16, 06:47:59](https://lobste.rs/s/uacfh2/hyper_v1) - [hyper v1](https://seanmonstar.com/blog/hyper-v1/)
 * [2023-11-16, 05:14:00](https://lobste.rs/s/iaj7xp/lessons_from_metafont_2018) - [Lessons from METAFONT (2018)](https://www.yld.io/blog/lessons-from-metafont/)
-* [2023-11-16, 05:06:07](https://lobste.rs/s/xom4im/edge_emulation_pokemon_mini) - [Edge of Emulation: Pokemon Mini](https://shonumi.github.io/articles/art25.html)
 * [2023-11-15, 23:15:23](https://lobste.rs/s/ezoe4h/push_ifs_up_fors_down) - [Push Ifs Up And Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 * [2023-11-15, 21:18:08](https://lobste.rs/s/iolaxa/our_vision_for_rust_specification) - [Our Vision for the Rust Specification](https://blog.rust-lang.org/inside-rust/2023/11/15/spec-vision.html)
 * [2023-11-15, 18:53:25](https://lobste.rs/s/do28vj/we_don_t_do_dst_at_this_company) - [We don’t do DST at this company](https://blog.backslasher.net/no-dst.html)
