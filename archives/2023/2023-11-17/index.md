@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
+* [2023-11-17, 12:35:58](https://lobste.rs/s/s15oog/great_graveyard_cloud) - [The Great Graveyard in the Cloud](https://blog.oddball.tech/how-code-dies/)
+* [2023-11-17, 12:34:11](https://lobste.rs/s/gfbcz3/oops_we_automated_bullshit) - [Oops! We Automated Bullshit](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit)
 * [2023-11-17, 12:05:46](https://lobste.rs/s/z7ucnu/tiny_llms) - [Tiny LLMs](https://tinyllms.vercel.app/dashboard)
 * [2023-11-17, 11:56:12](https://lobste.rs/s/obhmft/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/obhmft/what_are_you_doing_this_weekend)
 * [2023-11-17, 11:13:22](https://lobste.rs/s/71oriv/deep_space_network_now) - [Deep Space Network: Now](https://eyes.nasa.gov/dsn/dsn.html)

@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-17, 12:35:58](https://lobste.rs/s/s15oog/great_graveyard_cloud) - [The Great Graveyard in the Cloud](https://blog.oddball.tech/how-code-dies/)
+* [2023-11-17, 12:34:11](https://lobste.rs/s/gfbcz3/oops_we_automated_bullshit) - [Oops! We Automated Bullshit](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit)
 * [2023-11-17, 12:05:46](https://lobste.rs/s/z7ucnu/tiny_llms) - [Tiny LLMs](https://tinyllms.vercel.app/dashboard)
 * [2023-11-17, 11:56:12](https://lobste.rs/s/obhmft/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/obhmft/what_are_you_doing_this_weekend)
-* [2023-11-17, 11:13:22](https://lobste.rs/s/71oriv/deep_space_network_now) - [Deep Space Network: Now](https://eyes.nasa.gov/dsn/dsn.html)
 * [2023-11-17, 10:16:24](https://lobste.rs/s/nl4gcg/zig_s_std_json_parsed_t) - [Zig's std.json.Parsed(T)](https://www.openmymind.net/Zigs-std-json-Parsed/)
 * [2023-11-17, 09:32:31](https://lobste.rs/s/9a5tim/language_machinery_who_will_attend) - [Language Machinery: Who will attend to the machines’ writing?](https://hedgehogreview.com/issues/markets-and-the-good/articles/language-machinery)
 * [2023-11-17, 09:24:55](https://lobste.rs/s/9pxrd1/organist_stay_sane_managing_your) - [Organist: stay sane managing your development environments](https://www.tweag.io/blog/2023-11-16-announcing-organist/)
@@ -20,7 +21,6 @@
 * [2023-11-16, 15:28:36](https://lobste.rs/s/n99qw2/try_cheriot_platform_on_arty_a7_100t_fpga) - [Try the CHERIoT platform on the Arty A7 100T FPGA](https://cheriot.org/fpga/try/2023/11/16/cheriot-on-the-arty-a7.html)
 * [2023-11-16, 14:17:01](https://lobste.rs/s/ruxos2/announcing_rust_1_74_0) - [Announcing Rust 1.74.0](https://blog.rust-lang.org/2023/11/16/Rust-1.74.0.html)
 * [2023-11-16, 12:02:33](https://lobste.rs/s/vc7goy/decline_usability_revisited) - [The Decline of Usability: Revisited](https://datagubbe.se/usab2/)
-* [2023-11-16, 11:36:15](https://lobste.rs/s/exhcza/migrating_from_bors_ng_github_merge) - [Migrating from Bors-NG to Github Merge Queues](https://theunixzoo.co.uk/blog/2023-11-16-migrating-to-gh-merge-queues.html)
 * [2023-11-16, 09:32:29](https://lobste.rs/s/s70ssi/push_save_linux_on_itanium) - [The push to save Linux on Itanium](https://lwn.net/SubscriberLink/950466/0999d63fdf270781/)
 * [2023-11-16, 07:58:33](https://lobste.rs/s/blmitg/very_subtle_bug_2010) - [A Very Subtle Bug (2010)](https://blog.nelhage.com/2010/02/a-very-subtle-bug/)
 * [2023-11-16, 06:47:59](https://lobste.rs/s/uacfh2/hyper_v1) - [hyper v1](https://seanmonstar.com/blog/hyper-v1/)
