@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-17, 12:05:46",
+      "https://lobste.rs/s/z7ucnu/tiny_llms"
+    ],
+    [
+      "Tiny LLMs",
+      "https://tinyllms.vercel.app/dashboard"
+    ]
+  ],
+  [
+    [
+      "2023-11-17, 11:56:12",
+      "https://lobste.rs/s/obhmft/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/obhmft/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
       "2023-11-17, 11:13:22",
       "https://lobste.rs/s/71oriv/deep_space_network_now"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-11-16, 17:03:35",
-      "https://lobste.rs/s/wkj6go/std_source_location_is_broken"
-    ],
-    [
-      "std::source_location is Broken",
-      "https://www.elbeno.com/blog/?p=1738"
-    ]
-  ],
-  [
-    [
       "2023-11-16, 16:32:32",
       "https://lobste.rs/s/0opm7c/navigating_around_your_shell"
     ],
@@ -227,16 +237,6 @@
     [
       "hyper v1",
       "https://seanmonstar.com/blog/hyper-v1/"
-    ]
-  ],
-  [
-    [
-      "2023-11-16, 05:14:00",
-      "https://lobste.rs/s/iaj7xp/lessons_from_metafont_2018"
-    ],
-    [
-      "Lessons from METAFONT (2018)",
-      "https://www.yld.io/blog/lessons-from-metafont/"
     ]
   ],
   [
