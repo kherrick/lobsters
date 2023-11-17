@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-17, 14:23:13](https://lobste.rs/s/i3uyq7/language_perception_empathy_ukrainian_s) - [Language, perception, and empathy: Ukrainian's gaze (Notes to the talk rejected by RubyConf)](https://zverok.space/blog/2023-11-17-not-a-rubyconf.html)
 * [2023-11-17, 14:11:51](https://lobste.rs/s/k3sc6u/nim_community_survey_2023) - [Nim Community Survey 2023](https://nim-lang.org/blog/2023/11/17/community-survey-2023.html)
 * [2023-11-17, 12:56:41](https://lobste.rs/s/prwdje/ttl_sh_anonymous_ephemeral_free_docker) - [ttl.sh | An anonymous & ephemeral (and free) Docker image registry](https://ttl.sh/)
 * [2023-11-17, 12:35:58](https://lobste.rs/s/s15oog/great_graveyard_cloud) - [The Great Graveyard in the Cloud](https://blog.oddball.tech/how-code-dies/)
 * [2023-11-17, 12:05:46](https://lobste.rs/s/z7ucnu/tiny_llms) - [Tiny LLMs](https://tinyllms.vercel.app/dashboard)
 * [2023-11-17, 11:56:12](https://lobste.rs/s/obhmft/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/obhmft/what_are_you_doing_this_weekend)
 * [2023-11-17, 10:16:24](https://lobste.rs/s/nl4gcg/zig_s_std_json_parsed_t) - [Zig's std.json.Parsed(T)](https://www.openmymind.net/Zigs-std-json-Parsed/)
-* [2023-11-17, 09:32:31](https://lobste.rs/s/9a5tim/language_machinery_who_will_attend) - [Language Machinery: Who will attend to the machines’ writing?](https://hedgehogreview.com/issues/markets-and-the-good/articles/language-machinery)
 * [2023-11-17, 09:24:55](https://lobste.rs/s/9pxrd1/organist_stay_sane_managing_your) - [Organist: stay sane managing your development environments](https://www.tweag.io/blog/2023-11-16-announcing-organist/)
 * [2023-11-17, 08:37:25](https://lobste.rs/s/rbwg3p/decoding_james_webb_space_telescope_2021) - [Decoding James Webb Space Telescope (2021)](https://destevez.net/2021/12/decoding-james-webb-space-telescope/)
 * [2023-11-17, 08:15:51](https://lobste.rs/s/kw1ecl/derangements_number_e) - [Derangements and the number e](https://apieceofthepi.substack.com/p/derangements-and-the-number-e)

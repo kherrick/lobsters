@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
+* [2023-11-17, 14:23:13](https://lobste.rs/s/i3uyq7/language_perception_empathy_ukrainian_s) - [Language, perception, and empathy: Ukrainian's gaze (Notes to the talk rejected by RubyConf)](https://zverok.space/blog/2023-11-17-not-a-rubyconf.html)
 * [2023-11-17, 14:11:51](https://lobste.rs/s/k3sc6u/nim_community_survey_2023) - [Nim Community Survey 2023](https://nim-lang.org/blog/2023/11/17/community-survey-2023.html)
 * [2023-11-17, 13:19:21](https://lobste.rs/s/b1ojk9/changing_guarantees_given_by_python_s) - [The Changing “Guarantees” Given by Python's Global Interpreter Lock](https://stefan-marr.de/2023/11/python-global-interpreter-lock/)
 * [2023-11-17, 12:56:41](https://lobste.rs/s/prwdje/ttl_sh_anonymous_ephemeral_free_docker) - [ttl.sh | An anonymous & ephemeral (and free) Docker image registry](https://ttl.sh/)
