@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
+* [2023-11-17, 13:19:21](https://lobste.rs/s/b1ojk9/changing_guarantees_given_by_python_s) - [The Changing “Guarantees” Given by Python's Global Interpreter Lock](https://stefan-marr.de/2023/11/python-global-interpreter-lock/)
 * [2023-11-17, 12:56:41](https://lobste.rs/s/prwdje/ttl_sh_anonymous_ephemeral_free_docker) - [ttl.sh | An anonymous & ephemeral (and free) Docker image registry](https://ttl.sh/)
 * [2023-11-17, 12:35:58](https://lobste.rs/s/s15oog/great_graveyard_cloud) - [The Great Graveyard in the Cloud](https://blog.oddball.tech/how-code-dies/)
 * [2023-11-17, 12:34:11](https://lobste.rs/s/gfbcz3/oops_we_automated_bullshit) - [Oops! We Automated Bullshit](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit)

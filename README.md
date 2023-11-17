@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-17, 13:19:21](https://lobste.rs/s/b1ojk9/changing_guarantees_given_by_python_s) - [The Changing “Guarantees” Given by Python's Global Interpreter Lock](https://stefan-marr.de/2023/11/python-global-interpreter-lock/)
 * [2023-11-17, 12:56:41](https://lobste.rs/s/prwdje/ttl_sh_anonymous_ephemeral_free_docker) - [ttl.sh | An anonymous & ephemeral (and free) Docker image registry](https://ttl.sh/)
 * [2023-11-17, 12:35:58](https://lobste.rs/s/s15oog/great_graveyard_cloud) - [The Great Graveyard in the Cloud](https://blog.oddball.tech/how-code-dies/)
-* [2023-11-17, 12:34:11](https://lobste.rs/s/gfbcz3/oops_we_automated_bullshit) - [Oops! We Automated Bullshit](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit)
 * [2023-11-17, 12:05:46](https://lobste.rs/s/z7ucnu/tiny_llms) - [Tiny LLMs](https://tinyllms.vercel.app/dashboard)
 * [2023-11-17, 11:56:12](https://lobste.rs/s/obhmft/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/obhmft/what_are_you_doing_this_weekend)
 * [2023-11-17, 10:16:24](https://lobste.rs/s/nl4gcg/zig_s_std_json_parsed_t) - [Zig's std.json.Parsed(T)](https://www.openmymind.net/Zigs-std-json-Parsed/)
