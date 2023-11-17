@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-17, 00:35:00](https://lobste.rs/s/1d2neg/neat_github_actions_patterns_for_github) - [Neat GitHub Actions patterns for GitHub Merge Queues](https://boinkor.net/2023/11/neat-github-actions-patterns-for-github-merge-queues/)
 * [2023-11-16, 23:39:08](https://lobste.rs/s/w024om/c_23_characters) - [C++23 Characters](https://euroquis.nl//blabla/2023/11/16/cpp.html)
 * [2023-11-16, 22:29:17](https://lobste.rs/s/s9gqhw/whiff_whiffle) - [A Whiff of Whiffle](https://wingolog.org/archives/2023/11/16/a-whiff-of-whiffle)
 * [2023-11-16, 22:17:32](https://lobste.rs/s/gwa5sj/we_are_drowning_google_s_magnanimity) - [We are drowning in Google's magnanimity](https://www.kpassa.me/posts/google/)
@@ -24,7 +25,6 @@
 * [2023-11-15, 23:15:23](https://lobste.rs/s/ezoe4h/push_ifs_up_fors_down) - [Push Ifs Up And Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 * [2023-11-15, 21:18:08](https://lobste.rs/s/iolaxa/our_vision_for_rust_specification) - [Our Vision for the Rust Specification](https://blog.rust-lang.org/inside-rust/2023/11/15/spec-vision.html)
 * [2023-11-15, 18:53:25](https://lobste.rs/s/do28vj/we_don_t_do_dst_at_this_company) - [We don’t do DST at this company](https://blog.backslasher.net/no-dst.html)
-* [2023-11-15, 08:43:00](https://lobste.rs/s/binril/nix_users_you_can_fearlessly_start_using) - [Nix users, you can fearlessly start using Rust scripts already](https://dpc.pw/posts/nix-users-you-can-start-using-rust-scripts-already/)
 
 ## [Archives](archives/index.md)
 
