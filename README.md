@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-17, 23:13:44](https://lobste.rs/s/txbhdi/introducing_functional_source_license) - [Introducing the Functional Source License: Freedom without Free-riding](https://blog.sentry.io/introducing-the-functional-source-license-freedom-without-free-riding/)
 * [2023-11-17, 21:24:12](https://lobste.rs/s/u825ix/half_life_25th_anniversary_documentary) - [Half-Life: 25th Anniversary Documentary](https://www.youtube.com/watch?v=TbZ3HzvFEto)
 * [2023-11-17, 21:05:17](https://lobste.rs/s/srkf5u/security_vulnerabilities_appsanywhere) - [Security Vulnerabilities in AppsAnywhere](https://gaelan.me/appsanywhere-bug)
 * [2023-11-17, 21:02:52](https://lobste.rs/s/3tqlxo/valuable_freebsd_14_0_release_updates) - [Valuable FreeBSD 14.0-RELEASE Updates](https://vermaden.wordpress.com/2023/11/17/valuable-freebsd-14-0-release-updates/)
@@ -24,7 +25,6 @@
 * [2023-11-16, 18:41:35](https://lobste.rs/s/2dgl60/upgrade_your_development_environments) - [Upgrade your Development Environments with Devbox](https://alan.norbauer.com/articles/devbox-intro)
 * [2023-11-16, 16:32:32](https://lobste.rs/s/0opm7c/navigating_around_your_shell) - [Navigating around in your shell](https://blog.meain.io/2023/navigating-around-in-shell/)
 * [2023-11-16, 14:17:01](https://lobste.rs/s/ruxos2/announcing_rust_1_74_0) - [Announcing Rust 1.74.0](https://blog.rust-lang.org/2023/11/16/Rust-1.74.0.html)
-* [2023-11-16, 12:02:33](https://lobste.rs/s/vc7goy/decline_usability_revisited) - [The Decline of Usability: Revisited](https://datagubbe.se/usab2/)
 
 ## [Archives](archives/index.md)
 

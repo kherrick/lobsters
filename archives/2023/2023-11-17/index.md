@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
+* [2023-11-17, 23:13:44](https://lobste.rs/s/txbhdi/introducing_functional_source_license) - [Introducing the Functional Source License: Freedom without Free-riding](https://blog.sentry.io/introducing-the-functional-source-license-freedom-without-free-riding/)
 * [2023-11-17, 21:39:55](https://lobste.rs/s/ddd1mw/openai_s_board_fires_sam_altman) - [OpenAI's board fires Sam Altman](https://openai.com/blog/openai-announces-leadership-transition)
 * [2023-11-17, 21:24:12](https://lobste.rs/s/u825ix/half_life_25th_anniversary_documentary) - [Half-Life: 25th Anniversary Documentary](https://www.youtube.com/watch?v=TbZ3HzvFEto)
 * [2023-11-17, 21:05:17](https://lobste.rs/s/srkf5u/security_vulnerabilities_appsanywhere) - [Security Vulnerabilities in AppsAnywhere](https://gaelan.me/appsanywhere-bug)
