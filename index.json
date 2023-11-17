@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-17, 19:23:28",
+      "https://lobste.rs/s/jez3ny/revolution_devours_its_children"
+    ],
+    [
+      "A Revolution Devours Its Children",
+      "https://blog.koehntopp.info/2023/11/11/a-revolution-devours-its-children.html"
+    ]
+  ],
+  [
+    [
       "2023-11-17, 18:03:15",
       "https://lobste.rs/s/dnazns/contextual_clis"
     ],
@@ -157,16 +167,6 @@
     [
       "Stable Fiddusion",
       "https://acko.net/blog/stable-fiddusion/"
-    ]
-  ],
-  [
-    [
-      "2023-11-17, 02:02:33",
-      "https://lobste.rs/s/hpmb0j/increasing_quic_udp_throughput_over"
-    ],
-    [
-      "Increasing QUIC and UDP throughput over Tailscale",
-      "https://tailscale.com/blog/quic-udp-throughput/"
     ]
   ],
   [
