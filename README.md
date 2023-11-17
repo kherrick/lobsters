@@ -5,6 +5,7 @@
 * [2023-11-17, 21:02:52](https://lobste.rs/s/3tqlxo/valuable_freebsd_14_0_release_updates) - [Valuable FreeBSD 14.0-RELEASE Updates](https://vermaden.wordpress.com/2023/11/17/valuable-freebsd-14-0-release-updates/)
 * [2023-11-17, 19:58:42](https://lobste.rs/s/exjlpw/how_i_improved_my_rust_compile_times_by_75) - [How I Improved My Rust Compile Times by 75%](https://benw.is/posts/how-i-improved-my-rust-compile-times-by-seventy-five-percent)
 * [2023-11-17, 19:29:53](https://lobste.rs/s/2ekwvd/process_compose_scheduler_orchestrator) - [Process Compose: a scheduler/orchestrator to manage non-containerized applications](https://github.com/F1bonacc1/process-compose)
+* [2023-11-17, 19:23:28](https://lobste.rs/s/jez3ny/revolution_devours_its_children) - [A Revolution Devours Its Children](https://blog.koehntopp.info/2023/11/11/a-revolution-devours-its-children.html)
 * [2023-11-17, 18:03:15](https://lobste.rs/s/dnazns/contextual_clis) - [Contextual CLIs](https://garnix.io/blog/contextual-cli)
 * [2023-11-17, 17:03:08](https://lobste.rs/s/tql2sf/ai_exploits_repo_multiple) - [AI-Exploits: Repo of multiple unauthenticated RCEs in AI tools](https://github.com/protectai/ai-exploits)
 * [2023-11-17, 15:53:08](https://lobste.rs/s/vdbzqo/30_bits_advice_for_30_years) - [30 Bits of Advice for 30 Years](https://arne.me/articles/30-bits-of-advice-for-30-years)
@@ -24,7 +25,6 @@
 * [2023-11-16, 17:32:16](https://lobste.rs/s/7prhfk/nilaway_practical_nil_panic_detection) - [NilAway: Practical Nil Panic Detection for Go](https://www.uber.com/blog/nilaway-practical-nil-panic-detection-for-go/)
 * [2023-11-16, 16:32:32](https://lobste.rs/s/0opm7c/navigating_around_your_shell) - [Navigating around in your shell](https://blog.meain.io/2023/navigating-around-in-shell/)
 * [2023-11-16, 14:17:01](https://lobste.rs/s/ruxos2/announcing_rust_1_74_0) - [Announcing Rust 1.74.0](https://blog.rust-lang.org/2023/11/16/Rust-1.74.0.html)
-* [2023-11-16, 12:02:33](https://lobste.rs/s/vc7goy/decline_usability_revisited) - [The Decline of Usability: Revisited](https://datagubbe.se/usab2/)
 
 ## [Archives](archives/index.md)
 
