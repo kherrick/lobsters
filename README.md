@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-17, 05:21:04](https://lobste.rs/s/zb7xgb/stable_fiddusion) - [Stable Fiddusion](https://acko.net/blog/stable-fiddusion/)
 * [2023-11-17, 04:53:42](https://lobste.rs/s/2b9squ/c_seasoning_2013) - [C++ Seasoning (2013)](https://www.youtube.com/watch?v=W2tWOdzgXHA)
 * [2023-11-17, 02:02:33](https://lobste.rs/s/hpmb0j/increasing_quic_udp_throughput_over) - [Increasing QUIC and UDP throughput over Tailscale](https://tailscale.com/blog/quic-udp-throughput/)
 * [2023-11-17, 00:35:00](https://lobste.rs/s/1d2neg/neat_github_actions_patterns_for_github) - [Neat GitHub Actions patterns for GitHub Merge Queues](https://boinkor.net/2023/11/neat-github-actions-patterns-for-github-merge-queues/)
@@ -10,7 +11,6 @@
 * [2023-11-16, 20:35:29](https://lobste.rs/s/jigif3/european_telecom_body_open_source_radio) - [European Telecom Body to Open-Source Radio Encryption System](https://www.inforisktoday.com/european-telecom-body-to-open-source-radio-encryption-system-a-23599)
 * [2023-11-16, 20:08:17](https://lobste.rs/s/mkyrvt/amazon_time_sync_service_now_supports) - [Amazon Time Sync Service now supports microsecond-accurate time](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-time-sync-service-microsecond-accurate-time/)
 * [2023-11-16, 18:41:35](https://lobste.rs/s/2dgl60/upgrade_your_development_environments) - [Upgrade your Development Environments with Devbox](https://alan.norbauer.com/articles/devbox-intro)
-* [2023-11-16, 18:00:31](https://lobste.rs/s/jputtx/porting_stunt_car_racer_apple_ii) - [Porting Stunt Car Racer to the Apple II](https://cobbpg.github.io/articles/stunt-car-racer-apple2-port.html)
 * [2023-11-16, 17:32:16](https://lobste.rs/s/7prhfk/nilaway_practical_nil_panic_detection) - [NilAway: Practical Nil Panic Detection for Go](https://www.uber.com/blog/nilaway-practical-nil-panic-detection-for-go/)
 * [2023-11-16, 17:03:35](https://lobste.rs/s/wkj6go/std_source_location_is_broken) - [std::source_location is Broken](https://www.elbeno.com/blog/?p=1738)
 * [2023-11-16, 16:36:38](https://lobste.rs/s/vtvoyk/crdts_for_truly_concurrent_file_systems) - [CRDTs for truly concurrent file systems](https://lip6.fr/Marc.Shapiro/papers/CRDT-filesystem-HotStorage-2021.pdf)
