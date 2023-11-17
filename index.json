@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-17, 08:37:25",
+      "https://lobste.rs/s/rbwg3p/decoding_james_webb_space_telescope_2021"
+    ],
+    [
+      "Decoding James Webb Space Telescope (2021)",
+      "https://destevez.net/2021/12/decoding-james-webb-space-telescope/"
+    ]
+  ],
+  [
+    [
       "2023-11-17, 08:15:51",
       "https://lobste.rs/s/kw1ecl/derangements_number_e"
     ],
@@ -127,16 +137,6 @@
     [
       "std::source_location is Broken",
       "https://www.elbeno.com/blog/?p=1738"
-    ]
-  ],
-  [
-    [
-      "2023-11-16, 16:36:38",
-      "https://lobste.rs/s/vtvoyk/crdts_for_truly_concurrent_file_systems"
-    ],
-    [
-      "CRDTs for truly concurrent file systems",
-      "https://lip6.fr/Marc.Shapiro/papers/CRDT-filesystem-HotStorage-2021.pdf"
     ]
   ],
   [
