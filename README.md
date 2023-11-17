@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-17, 09:32:31](https://lobste.rs/s/9a5tim/language_machinery_who_will_attend) - [Language Machinery: Who will attend to the machines’ writing?](https://hedgehogreview.com/issues/markets-and-the-good/articles/language-machinery)
 * [2023-11-17, 09:24:55](https://lobste.rs/s/9pxrd1/organist_stay_sane_managing_your) - [Organist: stay sane managing your development environments](https://www.tweag.io/blog/2023-11-16-announcing-organist/)
 * [2023-11-17, 08:37:25](https://lobste.rs/s/rbwg3p/decoding_james_webb_space_telescope_2021) - [Decoding James Webb Space Telescope (2021)](https://destevez.net/2021/12/decoding-james-webb-space-telescope/)
 * [2023-11-17, 08:15:51](https://lobste.rs/s/kw1ecl/derangements_number_e) - [Derangements and the number e](https://apieceofthepi.substack.com/p/derangements-and-the-number-e)
 * [2023-11-17, 05:21:04](https://lobste.rs/s/zb7xgb/stable_fiddusion) - [Stable Fiddusion](https://acko.net/blog/stable-fiddusion/)
 * [2023-11-17, 02:02:33](https://lobste.rs/s/hpmb0j/increasing_quic_udp_throughput_over) - [Increasing QUIC and UDP throughput over Tailscale](https://tailscale.com/blog/quic-udp-throughput/)
 * [2023-11-17, 00:35:00](https://lobste.rs/s/1d2neg/neat_github_actions_patterns_for_github) - [Neat GitHub Actions patterns for GitHub Merge Queues](https://boinkor.net/2023/11/neat-github-actions-patterns-for-github-merge-queues/)
-* [2023-11-16, 23:39:08](https://lobste.rs/s/w024om/c_23_characters) - [C++23 Characters](https://euroquis.nl//blabla/2023/11/16/cpp.html)
 * [2023-11-16, 22:29:17](https://lobste.rs/s/s9gqhw/whiff_whiffle) - [A Whiff of Whiffle](https://wingolog.org/archives/2023/11/16/a-whiff-of-whiffle)
 * [2023-11-16, 22:17:32](https://lobste.rs/s/gwa5sj/we_are_drowning_google_s_magnanimity) - [We are drowning in Google's magnanimity](https://www.kpassa.me/posts/google/)
 * [2023-11-16, 21:07:50](https://lobste.rs/s/8gd2x4/introducing_ocapn_interoperable) - [Introducing OCapN, interoperable capabilities over the network](https://spritely.institute/news/introducing-ocapn-interoperable-capabilities-over-the-network.html)
