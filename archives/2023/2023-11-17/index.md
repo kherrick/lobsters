@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-17](index.md)
 
+* [2023-11-17, 21:05:17](https://lobste.rs/s/srkf5u/security_vulnerabilities_appsanywhere) - [Security Vulnerabilities in AppsAnywhere](https://gaelan.me/appsanywhere-bug)
+* [2023-11-17, 21:02:52](https://lobste.rs/s/3tqlxo/valuable_freebsd_14_0_release_updates) - [Valuable FreeBSD 14.0-RELEASE Updates](https://vermaden.wordpress.com/2023/11/17/valuable-freebsd-14-0-release-updates/)
 * [2023-11-17, 19:58:42](https://lobste.rs/s/exjlpw/how_i_improved_my_rust_compile_times_by_75) - [How I Improved My Rust Compile Times by 75%](https://benw.is/posts/how-i-improved-my-rust-compile-times-by-seventy-five-percent)
 * [2023-11-17, 19:29:53](https://lobste.rs/s/2ekwvd/process_compose_scheduler_orchestrator) - [Process Compose: a scheduler/orchestrator to manage non-containerized applications](https://github.com/F1bonacc1/process-compose)
 * [2023-11-17, 19:23:28](https://lobste.rs/s/jez3ny/revolution_devours_its_children) - [A Revolution Devours Its Children](https://blog.koehntopp.info/2023/11/11/a-revolution-devours-its-children.html)
