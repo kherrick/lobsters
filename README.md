@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-17, 15:22:26](https://lobste.rs/s/idi1wt/open_source_vs_ux) - [Open source vs UX](https://lobste.rs/s/idi1wt/open_source_vs_ux)
 * [2023-11-17, 14:23:13](https://lobste.rs/s/i3uyq7/language_perception_empathy_ukrainian_s) - [Language, perception, and empathy: Ukrainian's gaze (Notes to the talk rejected by RubyConf)](https://zverok.space/blog/2023-11-17-not-a-rubyconf.html)
 * [2023-11-17, 14:11:51](https://lobste.rs/s/k3sc6u/nim_community_survey_2023) - [Nim Community Survey 2023](https://nim-lang.org/blog/2023/11/17/community-survey-2023.html)
 * [2023-11-17, 12:56:41](https://lobste.rs/s/prwdje/ttl_sh_anonymous_ephemeral_free_docker) - [ttl.sh | An anonymous & ephemeral (and free) Docker image registry](https://ttl.sh/)
@@ -22,7 +23,6 @@
 * [2023-11-16, 15:28:36](https://lobste.rs/s/n99qw2/try_cheriot_platform_on_arty_a7_100t_fpga) - [Try the CHERIoT platform on the Arty A7 100T FPGA](https://cheriot.org/fpga/try/2023/11/16/cheriot-on-the-arty-a7.html)
 * [2023-11-16, 14:17:01](https://lobste.rs/s/ruxos2/announcing_rust_1_74_0) - [Announcing Rust 1.74.0](https://blog.rust-lang.org/2023/11/16/Rust-1.74.0.html)
 * [2023-11-16, 12:02:33](https://lobste.rs/s/vc7goy/decline_usability_revisited) - [The Decline of Usability: Revisited](https://datagubbe.se/usab2/)
-* [2023-11-16, 09:32:29](https://lobste.rs/s/s70ssi/push_save_linux_on_itanium) - [The push to save Linux on Itanium](https://lwn.net/SubscriberLink/950466/0999d63fdf270781/)
 * [2023-11-16, 07:58:33](https://lobste.rs/s/blmitg/very_subtle_bug_2010) - [A Very Subtle Bug (2010)](https://blog.nelhage.com/2010/02/a-very-subtle-bug/)
 * [2023-11-16, 06:47:59](https://lobste.rs/s/uacfh2/hyper_v1) - [hyper v1](https://seanmonstar.com/blog/hyper-v1/)
 
