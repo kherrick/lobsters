@@ -22,9 +22,9 @@
 * [2023-11-17, 08:37:25](https://lobste.rs/s/rbwg3p/decoding_james_webb_space_telescope_2021) - [Decoding James Webb Space Telescope (2021)](https://destevez.net/2021/12/decoding-james-webb-space-telescope/)
 * [2023-11-17, 08:15:51](https://lobste.rs/s/kw1ecl/derangements_number_e) - [Derangements and the number e](https://apieceofthepi.substack.com/p/derangements-and-the-number-e)
 * [2023-11-16, 18:41:35](https://lobste.rs/s/2dgl60/upgrade_your_development_environments) - [Upgrade your Development Environments with Devbox](https://alan.norbauer.com/articles/devbox-intro)
-* [2023-11-16, 17:32:16](https://lobste.rs/s/7prhfk/nilaway_practical_nil_panic_detection) - [NilAway: Practical Nil Panic Detection for Go](https://www.uber.com/blog/nilaway-practical-nil-panic-detection-for-go/)
 * [2023-11-16, 16:32:32](https://lobste.rs/s/0opm7c/navigating_around_your_shell) - [Navigating around in your shell](https://blog.meain.io/2023/navigating-around-in-shell/)
 * [2023-11-16, 14:17:01](https://lobste.rs/s/ruxos2/announcing_rust_1_74_0) - [Announcing Rust 1.74.0](https://blog.rust-lang.org/2023/11/16/Rust-1.74.0.html)
+* [2023-11-16, 12:02:33](https://lobste.rs/s/vc7goy/decline_usability_revisited) - [The Decline of Usability: Revisited](https://datagubbe.se/usab2/)
 
 ## [Archives](archives/index.md)
 
