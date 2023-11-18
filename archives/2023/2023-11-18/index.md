@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-18](index.md)
 
+* [2023-11-18, 10:58:35](https://lobste.rs/s/fdykb2/wasm_spectec_engineering_formal) - [Wasm SpecTec: Engineering a Formal Language Standard](https://arxiv.org/abs/2311.07223)
 * [2023-11-18, 09:29:06](https://lobste.rs/s/6i6hkz/inherent_fragility_seccomp_2017) - [The inherent fragility of seccomp() (2017)](https://lwn.net/Articles/738694/)
 * [2023-11-18, 08:33:01](https://lobste.rs/s/zlvmm7/building_better_foundation_for_rocket_s) - [Building a Better Foundation for Rocket's Future](https://rocket.rs/v0.5/news/2023-11-17-rwf2-prelaunch/)
 * [2023-11-18, 03:33:17](https://lobste.rs/s/zhaz9j/i_hacked_magic_mouse) - [I hacked the Magic Mouse](https://uplab.pro/2023/11/i-hacked-the-magic-mouse/)
