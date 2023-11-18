@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-18, 02:14:25](https://lobste.rs/s/fyoszz/egison_s_pattern_matching_via_logic) - [Egison's Pattern-matching via Logic Programming](http://blog.vmchale.com/article/curry-egison)
 * [2023-11-17, 23:13:44](https://lobste.rs/s/txbhdi/introducing_functional_source_license) - [Introducing the Functional Source License: Freedom without Free-riding](https://blog.sentry.io/introducing-the-functional-source-license-freedom-without-free-riding/)
 * [2023-11-17, 21:24:12](https://lobste.rs/s/u825ix/half_life_25th_anniversary_documentary) - [Half-Life: 25th Anniversary Documentary](https://www.youtube.com/watch?v=TbZ3HzvFEto)
 * [2023-11-17, 21:05:17](https://lobste.rs/s/srkf5u/security_vulnerabilities_appsanywhere) - [Security Vulnerabilities in AppsAnywhere](https://gaelan.me/appsanywhere-bug)
@@ -16,7 +17,6 @@
 * [2023-11-17, 13:19:21](https://lobste.rs/s/b1ojk9/changing_guarantees_given_by_python_s) - [The Changing “Guarantees” Given by Python's Global Interpreter Lock](https://stefan-marr.de/2023/11/python-global-interpreter-lock/)
 * [2023-11-17, 12:56:41](https://lobste.rs/s/prwdje/ttl_sh_anonymous_ephemeral_free_docker) - [ttl.sh | An anonymous & ephemeral (and free) Docker image registry](https://ttl.sh/)
 * [2023-11-17, 12:34:11](https://lobste.rs/s/gfbcz3/oops_we_automated_bullshit) - [Oops! We Automated Bullshit](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit)
-* [2023-11-17, 12:05:46](https://lobste.rs/s/z7ucnu/tiny_llms) - [Tiny LLMs](https://tinyllms.vercel.app/dashboard)
 * [2023-11-17, 11:56:12](https://lobste.rs/s/obhmft/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/obhmft/what_are_you_doing_this_weekend)
 * [2023-11-17, 10:16:24](https://lobste.rs/s/nl4gcg/zig_s_std_json_parsed_t) - [Zig's std.json.Parsed(T)](https://www.openmymind.net/Zigs-std-json-Parsed/)
 * [2023-11-17, 09:24:55](https://lobste.rs/s/9pxrd1/organist_stay_sane_managing_your) - [Organist: stay sane managing your development environments](https://www.tweag.io/blog/2023-11-16-announcing-organist/)
