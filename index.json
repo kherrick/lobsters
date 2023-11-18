@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-18, 11:28:33",
+      "https://lobste.rs/s/enqbjc/rocket_v0_5_stable_async_sentinels"
+    ],
+    [
+      "Rocket v0.5: Stable, Async, Sentinels, Streams, SSE, Forms, WebSockets",
+      "https://rocket.rs/v0.5/news/2023-11-17-version-0.5/"
+    ]
+  ],
+  [
+    [
       "2023-11-18, 10:58:35",
       "https://lobste.rs/s/fdykb2/wasm_spectec_engineering_formal"
     ],
@@ -167,16 +177,6 @@
     [
       "Language, perception, and empathy: Ukrainian's gaze (Notes to the talk rejected by RubyConf)",
       "https://zverok.space/blog/2023-11-17-not-a-rubyconf.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-17, 13:19:21",
-      "https://lobste.rs/s/b1ojk9/changing_guarantees_given_by_python_s"
-    ],
-    [
-      "The Changing “Guarantees” Given by Python's Global Interpreter Lock",
-      "https://stefan-marr.de/2023/11/python-global-interpreter-lock/"
     ]
   ],
   [
