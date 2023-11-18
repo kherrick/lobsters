@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-18, 08:33:01](https://lobste.rs/s/zlvmm7/building_better_foundation_for_rocket_s) - [Building a Better Foundation for Rocket's Future](https://rocket.rs/v0.5/news/2023-11-17-rwf2-prelaunch/)
 * [2023-11-18, 03:33:17](https://lobste.rs/s/zhaz9j/i_hacked_magic_mouse) - [I hacked the Magic Mouse](https://uplab.pro/2023/11/i-hacked-the-magic-mouse/)
 * [2023-11-18, 03:01:30](https://lobste.rs/s/tdr3fg/gwp_asan_sampling_based_detection_memory) - [GWP-ASan: Sampling-Based Detection of Memory-Safety Bugs in Production](https://arxiv.org/pdf/2311.09394.pdf)
 * [2023-11-18, 02:14:25](https://lobste.rs/s/fyoszz/egison_s_pattern_matching_via_logic) - [Egison's Pattern-matching via Logic Programming](http://blog.vmchale.com/article/curry-egison)
@@ -9,7 +10,6 @@
 * [2023-11-17, 21:02:52](https://lobste.rs/s/3tqlxo/valuable_freebsd_14_0_release_updates) - [Valuable FreeBSD 14.0-RELEASE Updates](https://vermaden.wordpress.com/2023/11/17/valuable-freebsd-14-0-release-updates/)
 * [2023-11-17, 19:58:42](https://lobste.rs/s/exjlpw/how_i_improved_my_rust_compile_times_by_75) - [How I Improved My Rust Compile Times by 75%](https://benw.is/posts/how-i-improved-my-rust-compile-times-by-seventy-five-percent)
 * [2023-11-17, 19:29:53](https://lobste.rs/s/2ekwvd/process_compose_scheduler_orchestrator) - [Process Compose: a scheduler/orchestrator to manage non-containerized applications](https://github.com/F1bonacc1/process-compose)
-* [2023-11-17, 19:23:28](https://lobste.rs/s/jez3ny/revolution_devours_its_children) - [A Revolution Devours Its Children](https://blog.koehntopp.info/2023/11/11/a-revolution-devours-its-children.html)
 * [2023-11-17, 18:03:15](https://lobste.rs/s/dnazns/contextual_clis) - [Contextual CLIs](https://garnix.io/blog/contextual-cli)
 * [2023-11-17, 17:03:08](https://lobste.rs/s/tql2sf/ai_exploits_repo_multiple) - [AI-Exploits: Repo of multiple unauthenticated RCEs in AI tools](https://github.com/protectai/ai-exploits)
 * [2023-11-17, 15:53:08](https://lobste.rs/s/vdbzqo/30_bits_advice_for_30_years) - [30 Bits of Advice for 30 Years](https://arne.me/articles/30-bits-of-advice-for-30-years)
