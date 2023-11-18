@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-18, 09:29:06](https://lobste.rs/s/6i6hkz/inherent_fragility_seccomp_2017) - [The inherent fragility of seccomp() (2017)](https://lwn.net/Articles/738694/)
 * [2023-11-18, 08:33:01](https://lobste.rs/s/zlvmm7/building_better_foundation_for_rocket_s) - [Building a Better Foundation for Rocket's Future](https://rocket.rs/v0.5/news/2023-11-17-rwf2-prelaunch/)
 * [2023-11-18, 03:33:17](https://lobste.rs/s/zhaz9j/i_hacked_magic_mouse) - [I hacked the Magic Mouse](https://uplab.pro/2023/11/i-hacked-the-magic-mouse/)
 * [2023-11-18, 03:01:30](https://lobste.rs/s/tdr3fg/gwp_asan_sampling_based_detection_memory) - [GWP-ASan: Sampling-Based Detection of Memory-Safety Bugs in Production](https://arxiv.org/pdf/2311.09394.pdf)
@@ -24,7 +25,6 @@
 * [2023-11-17, 09:24:55](https://lobste.rs/s/9pxrd1/organist_stay_sane_managing_your) - [Organist: stay sane managing your development environments](https://www.tweag.io/blog/2023-11-16-announcing-organist/)
 * [2023-11-17, 08:15:51](https://lobste.rs/s/kw1ecl/derangements_number_e) - [Derangements and the number e](https://apieceofthepi.substack.com/p/derangements-and-the-number-e)
 * [2023-11-16, 16:32:32](https://lobste.rs/s/0opm7c/navigating_around_your_shell) - [Navigating around in your shell](https://blog.meain.io/2023/navigating-around-in-shell/)
-* [2023-11-16, 14:17:01](https://lobste.rs/s/ruxos2/announcing_rust_1_74_0) - [Announcing Rust 1.74.0](https://blog.rust-lang.org/2023/11/16/Rust-1.74.0.html)
 
 ## [Archives](archives/index.md)
 
