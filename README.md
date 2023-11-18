@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-18, 11:28:33](https://lobste.rs/s/enqbjc/rocket_v0_5_stable_async_sentinels) - [Rocket v0.5: Stable, Async, Sentinels, Streams, SSE, Forms, WebSockets](https://rocket.rs/v0.5/news/2023-11-17-version-0.5/)
 * [2023-11-18, 10:58:35](https://lobste.rs/s/fdykb2/wasm_spectec_engineering_formal) - [Wasm SpecTec: Engineering a Formal Language Standard](https://arxiv.org/abs/2311.07223)
 * [2023-11-18, 09:29:06](https://lobste.rs/s/6i6hkz/inherent_fragility_seccomp_2017) - [The inherent fragility of seccomp() (2017)](https://lwn.net/Articles/738694/)
 * [2023-11-18, 08:33:01](https://lobste.rs/s/zlvmm7/building_better_foundation_for_rocket_s) - [Building a Better Foundation for Rocket's Future](https://rocket.rs/v0.5/news/2023-11-17-rwf2-prelaunch/)
@@ -17,7 +18,6 @@
 * [2023-11-17, 15:45:24](https://lobste.rs/s/bcccpc/introducing_graphics_offload_gtk) - [Introducing graphics offload in GTK](https://blog.gtk.org/2023/11/15/introducing-graphics-offload/)
 * [2023-11-17, 15:22:26](https://lobste.rs/s/idi1wt/open_source_vs_ux) - [Open source vs UX](https://lobste.rs/s/idi1wt/open_source_vs_ux)
 * [2023-11-17, 14:23:13](https://lobste.rs/s/i3uyq7/language_perception_empathy_ukrainian_s) - [Language, perception, and empathy: Ukrainian's gaze (Notes to the talk rejected by RubyConf)](https://zverok.space/blog/2023-11-17-not-a-rubyconf.html)
-* [2023-11-17, 13:19:21](https://lobste.rs/s/b1ojk9/changing_guarantees_given_by_python_s) - [The Changing “Guarantees” Given by Python's Global Interpreter Lock](https://stefan-marr.de/2023/11/python-global-interpreter-lock/)
 * [2023-11-17, 12:56:41](https://lobste.rs/s/prwdje/ttl_sh_anonymous_ephemeral_free_docker) - [ttl.sh | An anonymous & ephemeral (and free) Docker image registry](https://ttl.sh/)
 * [2023-11-17, 12:34:11](https://lobste.rs/s/gfbcz3/oops_we_automated_bullshit) - [Oops! We Automated Bullshit](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit)
 * [2023-11-17, 11:56:12](https://lobste.rs/s/obhmft/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/obhmft/what_are_you_doing_this_weekend)
