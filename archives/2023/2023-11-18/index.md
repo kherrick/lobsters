@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-18](index.md)
 
+* [2023-11-18, 20:36:59](https://lobste.rs/s/xjyq8r/it_s_time_for_change_datetime_utcnow_is_now) - [It's Time For A Change: datetime.utcnow() Is Now Deprecated](https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated)
 * [2023-11-18, 16:50:31](https://lobste.rs/s/4ewu23/kudzu_pigweed_team_s_electronic_badge_for) - [Kudzu, the Pigweed team's electronic badge for Maker Faire 2023](https://pigweed.dev/docs/blog/01-kudzu.html)
 * [2023-11-18, 14:54:06](https://lobste.rs/s/zh49df/checking_semver_presence_doc_hidden) - [Checking semver in the presence of doc(hidden) items](https://predr.ag/blog/checking-semver-for-doc-hidden-items/)
 * [2023-11-18, 14:12:08](https://lobste.rs/s/snmrat/adding_more_ethernet_ports_mnt_reform) - [Adding more ethernet ports to an MNT Reform](https://zeromips.org/posts/2023-11-17-reform2/)
