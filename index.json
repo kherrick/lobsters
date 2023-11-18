@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-18, 02:14:25",
+      "https://lobste.rs/s/fyoszz/egison_s_pattern_matching_via_logic"
+    ],
+    [
+      "Egison's Pattern-matching via Logic Programming",
+      "http://blog.vmchale.com/article/curry-egison"
+    ]
+  ],
+  [
+    [
       "2023-11-17, 23:13:44",
       "https://lobste.rs/s/txbhdi/introducing_functional_source_license"
     ],
@@ -157,16 +167,6 @@
     [
       "Oops! We Automated Bullshit",
       "https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit"
-    ]
-  ],
-  [
-    [
-      "2023-11-17, 12:05:46",
-      "https://lobste.rs/s/z7ucnu/tiny_llms"
-    ],
-    [
-      "Tiny LLMs",
-      "https://tinyllms.vercel.app/dashboard"
     ]
   ],
   [
