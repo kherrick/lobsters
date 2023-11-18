@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-18, 03:01:30](https://lobste.rs/s/tdr3fg/gwp_asan_sampling_based_detection_memory) - [GWP-ASan: Sampling-Based Detection of Memory-Safety Bugs in Production](https://arxiv.org/pdf/2311.09394.pdf)
 * [2023-11-18, 02:14:25](https://lobste.rs/s/fyoszz/egison_s_pattern_matching_via_logic) - [Egison's Pattern-matching via Logic Programming](http://blog.vmchale.com/article/curry-egison)
 * [2023-11-17, 23:13:44](https://lobste.rs/s/txbhdi/introducing_functional_source_license) - [Introducing the Functional Source License: Freedom without Free-riding](https://blog.sentry.io/introducing-the-functional-source-license-freedom-without-free-riding/)
 * [2023-11-17, 21:24:12](https://lobste.rs/s/u825ix/half_life_25th_anniversary_documentary) - [Half-Life: 25th Anniversary Documentary](https://www.youtube.com/watch?v=TbZ3HzvFEto)
@@ -22,7 +23,6 @@
 * [2023-11-17, 09:24:55](https://lobste.rs/s/9pxrd1/organist_stay_sane_managing_your) - [Organist: stay sane managing your development environments](https://www.tweag.io/blog/2023-11-16-announcing-organist/)
 * [2023-11-17, 08:37:25](https://lobste.rs/s/rbwg3p/decoding_james_webb_space_telescope_2021) - [Decoding James Webb Space Telescope (2021)](https://destevez.net/2021/12/decoding-james-webb-space-telescope/)
 * [2023-11-17, 08:15:51](https://lobste.rs/s/kw1ecl/derangements_number_e) - [Derangements and the number e](https://apieceofthepi.substack.com/p/derangements-and-the-number-e)
-* [2023-11-16, 18:41:35](https://lobste.rs/s/2dgl60/upgrade_your_development_environments) - [Upgrade your Development Environments with Devbox](https://alan.norbauer.com/articles/devbox-intro)
 * [2023-11-16, 16:32:32](https://lobste.rs/s/0opm7c/navigating_around_your_shell) - [Navigating around in your shell](https://blog.meain.io/2023/navigating-around-in-shell/)
 * [2023-11-16, 14:17:01](https://lobste.rs/s/ruxos2/announcing_rust_1_74_0) - [Announcing Rust 1.74.0](https://blog.rust-lang.org/2023/11/16/Rust-1.74.0.html)
 
