@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-18](index.md)
 
+* [2023-11-18, 14:54:06](https://lobste.rs/s/zh49df/checking_semver_presence_doc_hidden) - [Checking semver in the presence of doc(hidden) items](https://predr.ag/blog/checking-semver-for-doc-hidden-items/)
 * [2023-11-18, 14:12:08](https://lobste.rs/s/snmrat/adding_more_ethernet_ports_mnt_reform) - [Adding more ethernet ports to an MNT Reform](https://zeromips.org/posts/2023-11-17-reform2/)
 * [2023-11-18, 11:28:33](https://lobste.rs/s/enqbjc/rocket_v0_5_stable_async_sentinels) - [Rocket v0.5: Stable, Async, Sentinels, Streams, SSE, Forms, WebSockets](https://rocket.rs/v0.5/news/2023-11-17-version-0.5/)
 * [2023-11-18, 10:58:35](https://lobste.rs/s/fdykb2/wasm_spectec_engineering_formal) - [Wasm SpecTec: Engineering a Formal Language Standard](https://arxiv.org/abs/2311.07223)
