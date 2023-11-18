@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-18, 08:33:01",
+      "https://lobste.rs/s/zlvmm7/building_better_foundation_for_rocket_s"
+    ],
+    [
+      "Building a Better Foundation for Rocket's Future",
+      "https://rocket.rs/v0.5/news/2023-11-17-rwf2-prelaunch/"
+    ]
+  ],
+  [
+    [
       "2023-11-18, 03:33:17",
       "https://lobste.rs/s/zhaz9j/i_hacked_magic_mouse"
     ],
@@ -87,16 +97,6 @@
     [
       "Process Compose: a scheduler/orchestrator to manage non-containerized applications",
       "https://github.com/F1bonacc1/process-compose"
-    ]
-  ],
-  [
-    [
-      "2023-11-17, 19:23:28",
-      "https://lobste.rs/s/jez3ny/revolution_devours_its_children"
-    ],
-    [
-      "A Revolution Devours Its Children",
-      "https://blog.koehntopp.info/2023/11/11/a-revolution-devours-its-children.html"
     ]
   ],
   [
