@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-19, 11:40:05](https://lobste.rs/s/l0qo6s/comparing_humans_gpt_4_gpt_4v_on) - [Comparing Humans, GPT-4, and GPT-4V On Abstraction and Reasoning Tasks](https://arxiv.org/abs/2311.09247)
 * [2023-11-19, 11:11:02](https://lobste.rs/s/clfulh/big_tdd_misunderstanding_2022) - [The Big TDD Misunderstanding (2022)](https://linkedrecords.com/the-big-tdd-misunderstanding-8e22c2f1fc21)
 * [2023-11-19, 11:10:28](https://lobste.rs/s/wm2jre/safety_features_hare_programming) - [Safety features of the Hare programming language (2022)](https://harelang.org/blog/2022-06-21-safety-features/)
 * [2023-11-19, 10:14:41](https://lobste.rs/s/0bgrev/simple_ray_tracer_written_meson_build) - [A simple ray tracer written in the meson.build language](https://github.com/annacrombie/meson-raytracer)
@@ -14,7 +15,6 @@
 * [2023-11-18, 09:29:06](https://lobste.rs/s/6i6hkz/inherent_fragility_seccomp_2017) - [The inherent fragility of seccomp() (2017)](https://lwn.net/Articles/738694/)
 * [2023-11-18, 08:33:01](https://lobste.rs/s/zlvmm7/building_better_foundation_for_rocket_s) - [Building a Better Foundation for Rocket's Future](https://rocket.rs/v0.5/news/2023-11-17-rwf2-prelaunch/)
 * [2023-11-18, 03:33:17](https://lobste.rs/s/zhaz9j/i_hacked_magic_mouse) - [I hacked the Magic Mouse](https://uplab.pro/2023/11/i-hacked-the-magic-mouse/)
-* [2023-11-18, 02:14:25](https://lobste.rs/s/fyoszz/egison_s_pattern_matching_via_logic) - [Egison's Pattern-matching via Logic Programming](http://blog.vmchale.com/article/curry-egison)
 * [2023-11-17, 23:13:44](https://lobste.rs/s/txbhdi/introducing_functional_source_license) - [Introducing the Functional Source License: Freedom without Free-riding](https://blog.sentry.io/introducing-the-functional-source-license-freedom-without-free-riding/)
 * [2023-11-17, 21:24:12](https://lobste.rs/s/u825ix/half_life_25th_anniversary_documentary) - [Half-Life: 25th Anniversary Documentary](https://www.youtube.com/watch?v=TbZ3HzvFEto)
 * [2023-11-17, 21:05:17](https://lobste.rs/s/srkf5u/security_vulnerabilities_appsanywhere) - [Security Vulnerabilities in AppsAnywhere](https://gaelan.me/appsanywhere-bug)
