@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-19, 20:34:02",
+      "https://lobste.rs/s/rjtqaw/exploring_postgres_query_plan"
+    ],
+    [
+      "Exploring a Postgres query plan",
+      "https://notes.eatonphil.com/2023-11-19-exploring-a-postgres-query-plan.html"
+    ]
+  ],
+  [
+    [
       "2023-11-19, 18:23:44",
       "https://lobste.rs/s/rx8dn0/domicles_novel_logic_puzzle_using"
     ],
@@ -237,16 +247,6 @@
     [
       "Contextual CLIs",
       "https://garnix.io/blog/contextual-cli"
-    ]
-  ],
-  [
-    [
-      "2023-11-17, 15:45:24",
-      "https://lobste.rs/s/bcccpc/introducing_graphics_offload_gtk"
-    ],
-    [
-      "Introducing graphics offload in GTK",
-      "https://blog.gtk.org/2023/11/15/introducing-graphics-offload/"
     ]
   ]
 ]
