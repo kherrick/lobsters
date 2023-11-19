@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-19, 22:33:43",
+      "https://lobste.rs/s/zt78jk/all_circuits_are_busy_now_1990_at_t_long"
+    ],
+    [
+      "All Circuits are Busy Now: The 1990 AT&T Long Distance Network Collapse",
+      "http://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse"
+    ]
+  ],
+  [
+    [
+      "2023-11-19, 22:27:57",
+      "https://lobste.rs/s/7mfluf/why_i_tend_not_use_content_negotiation"
+    ],
+    [
+      "Why I Tend Not To Use Content Negotiation",
+      "https://htmx.org/essays/why-tend-not-to-use-content-negotiation/"
+    ]
+  ],
+  [
+    [
       "2023-11-19, 20:34:02",
       "https://lobste.rs/s/rjtqaw/exploring_postgres_query_plan"
     ],
@@ -227,26 +247,6 @@
     [
       "Half-Life: 25th Anniversary Documentary",
       "https://www.youtube.com/watch?v=TbZ3HzvFEto"
-    ]
-  ],
-  [
-    [
-      "2023-11-17, 21:05:17",
-      "https://lobste.rs/s/srkf5u/security_vulnerabilities_appsanywhere"
-    ],
-    [
-      "Security Vulnerabilities in AppsAnywhere",
-      "https://gaelan.me/appsanywhere-bug"
-    ]
-  ],
-  [
-    [
-      "2023-11-17, 18:03:15",
-      "https://lobste.rs/s/dnazns/contextual_clis"
-    ],
-    [
-      "Contextual CLIs",
-      "https://garnix.io/blog/contextual-cli"
     ]
   ]
 ]
