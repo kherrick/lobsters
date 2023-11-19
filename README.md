@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-19, 22:33:43](https://lobste.rs/s/zt78jk/all_circuits_are_busy_now_1990_at_t_long) - [All Circuits are Busy Now: The 1990 AT&T Long Distance Network Collapse](http://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse)
+* [2023-11-19, 22:27:57](https://lobste.rs/s/7mfluf/why_i_tend_not_use_content_negotiation) - [Why I Tend Not To Use Content Negotiation](https://htmx.org/essays/why-tend-not-to-use-content-negotiation/)
 * [2023-11-19, 20:34:02](https://lobste.rs/s/rjtqaw/exploring_postgres_query_plan) - [Exploring a Postgres query plan](https://notes.eatonphil.com/2023-11-19-exploring-a-postgres-query-plan.html)
 * [2023-11-19, 18:23:44](https://lobste.rs/s/rx8dn0/domicles_novel_logic_puzzle_using) - [Domicles: a novel logic puzzle using Dominoe tiles](https://emiruz.com/post/2023-11-13-domicles/)
 * [2023-11-19, 16:28:30](https://lobste.rs/s/6sbkpi/function_interposition_rust_with) - [Function interposition in Rust with upgrayedd](https://blog.yossarian.net/2023/11/19/Function-interposition-in-Rust-with-upgrayedd)
@@ -23,8 +25,6 @@
 * [2023-11-18, 03:33:17](https://lobste.rs/s/zhaz9j/i_hacked_magic_mouse) - [I hacked the Magic Mouse](https://uplab.pro/2023/11/i-hacked-the-magic-mouse/)
 * [2023-11-17, 23:13:44](https://lobste.rs/s/txbhdi/introducing_functional_source_license) - [Introducing the Functional Source License: Freedom without Free-riding](https://blog.sentry.io/introducing-the-functional-source-license-freedom-without-free-riding/)
 * [2023-11-17, 21:24:12](https://lobste.rs/s/u825ix/half_life_25th_anniversary_documentary) - [Half-Life: 25th Anniversary Documentary](https://www.youtube.com/watch?v=TbZ3HzvFEto)
-* [2023-11-17, 21:05:17](https://lobste.rs/s/srkf5u/security_vulnerabilities_appsanywhere) - [Security Vulnerabilities in AppsAnywhere](https://gaelan.me/appsanywhere-bug)
-* [2023-11-17, 18:03:15](https://lobste.rs/s/dnazns/contextual_clis) - [Contextual CLIs](https://garnix.io/blog/contextual-cli)
 
 ## [Archives](archives/index.md)
 
