@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-19](index.md)
 
+* [2023-11-19, 16:28:30](https://lobste.rs/s/6sbkpi/function_interposition_rust_with) - [Function interposition in Rust with upgrayedd](https://blog.yossarian.net/2023/11/19/Function-interposition-in-Rust-with-upgrayedd)
+* [2023-11-19, 16:20:51](https://lobste.rs/s/mcug3p/how_one_line_code_caused_60_million_loss) - [How one line of code caused a $60 million loss](https://engineercodex.substack.com/p/how-one-line-of-code-caused-a-60)
 * [2023-11-19, 15:29:00](https://lobste.rs/s/npfnxs/big_small_release_inkscape_1_3_1_is_out) - [Big, small release – Inkscape 1.3.1 is out! | Inkscape](https://inkscape.org/news/2023/11/18/big-small-release-inkscape-131-is-out/)
 * [2023-11-19, 15:23:31](https://lobste.rs/s/c3nk7h/victor_mono_programming_font) - [Victor Mono - A programming font](https://rubjo.github.io/victor-mono/)
 * [2023-11-19, 13:30:20](https://lobste.rs/s/1mwwxw/mach_zehnder_interferometer) - [Mach–Zehnder interferometer](https://en.wikipedia.org/wiki/Mach%E2%80%93Zehnder_interferometer)
