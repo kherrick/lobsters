@@ -5,7 +5,6 @@
 * [2023-11-19, 20:34:02](https://lobste.rs/s/rjtqaw/exploring_postgres_query_plan) - [Exploring a Postgres query plan](https://notes.eatonphil.com/2023-11-19-exploring-a-postgres-query-plan.html)
 * [2023-11-19, 18:23:44](https://lobste.rs/s/rx8dn0/domicles_novel_logic_puzzle_using) - [Domicles: a novel logic puzzle using Dominoe tiles](https://emiruz.com/post/2023-11-13-domicles/)
 * [2023-11-19, 16:28:30](https://lobste.rs/s/6sbkpi/function_interposition_rust_with) - [Function interposition in Rust with upgrayedd](https://blog.yossarian.net/2023/11/19/Function-interposition-in-Rust-with-upgrayedd)
-* [2023-11-19, 16:20:51](https://lobste.rs/s/mcug3p/how_one_line_code_caused_60_million_loss) - [How one line of code caused a $60 million loss](https://engineercodex.substack.com/p/how-one-line-of-code-caused-a-60)
 * [2023-11-19, 15:23:31](https://lobste.rs/s/c3nk7h/victor_mono_programming_font) - [Victor Mono - A programming font](https://rubjo.github.io/victor-mono/)
 * [2023-11-19, 13:25:58](https://lobste.rs/s/naidix/put_some_clos_your_ecs) - [Put some CLOS in your ECS](https://edoput.it/2023/11/19/data-oriented-clos.html)
 * [2023-11-19, 11:52:14](https://lobste.rs/s/bqdxhk/building_digital_vigil_for_those_we_ve) - [Building a digital vigil for those we've lost](https://ntietz.com/blog/digital-vigil-for-tdor/)
@@ -25,6 +24,7 @@
 * [2023-11-18, 03:33:17](https://lobste.rs/s/zhaz9j/i_hacked_magic_mouse) - [I hacked the Magic Mouse](https://uplab.pro/2023/11/i-hacked-the-magic-mouse/)
 * [2023-11-17, 23:13:44](https://lobste.rs/s/txbhdi/introducing_functional_source_license) - [Introducing the Functional Source License: Freedom without Free-riding](https://blog.sentry.io/introducing-the-functional-source-license-freedom-without-free-riding/)
 * [2023-11-17, 21:24:12](https://lobste.rs/s/u825ix/half_life_25th_anniversary_documentary) - [Half-Life: 25th Anniversary Documentary](https://www.youtube.com/watch?v=TbZ3HzvFEto)
+* [2023-11-17, 18:03:15](https://lobste.rs/s/dnazns/contextual_clis) - [Contextual CLIs](https://garnix.io/blog/contextual-cli)
 
 ## [Archives](archives/index.md)
 
