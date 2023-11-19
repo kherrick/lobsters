@@ -22,8 +22,8 @@
 * [2023-11-17, 21:05:17](https://lobste.rs/s/srkf5u/security_vulnerabilities_appsanywhere) - [Security Vulnerabilities in AppsAnywhere](https://gaelan.me/appsanywhere-bug)
 * [2023-11-17, 19:29:53](https://lobste.rs/s/2ekwvd/process_compose_scheduler_orchestrator) - [Process Compose: a scheduler/orchestrator to manage non-containerized applications](https://github.com/F1bonacc1/process-compose)
 * [2023-11-17, 18:03:15](https://lobste.rs/s/dnazns/contextual_clis) - [Contextual CLIs](https://garnix.io/blog/contextual-cli)
-* [2023-11-17, 15:53:08](https://lobste.rs/s/vdbzqo/30_bits_advice_for_30_years) - [30 Bits of Advice for 30 Years](https://arne.me/articles/30-bits-of-advice-for-30-years)
 * [2023-11-17, 15:45:24](https://lobste.rs/s/bcccpc/introducing_graphics_offload_gtk) - [Introducing graphics offload in GTK](https://blog.gtk.org/2023/11/15/introducing-graphics-offload/)
+* [2023-11-17, 14:23:13](https://lobste.rs/s/i3uyq7/language_perception_empathy_ukrainian_s) - [Language, perception, and empathy: Ukrainian's gaze (Notes to the talk rejected by RubyConf)](https://zverok.space/blog/2023-11-17-not-a-rubyconf.html)
 * [2023-11-17, 12:34:11](https://lobste.rs/s/gfbcz3/oops_we_automated_bullshit) - [Oops! We Automated Bullshit](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit)
 
 ## [Archives](archives/index.md)
