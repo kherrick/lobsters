@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-19, 13:25:58](https://lobste.rs/s/naidix/put_some_clos_your_ecs) - [Put some CLOS in your ECS](https://edoput.it/2023/11/19/data-oriented-clos.html)
 * [2023-11-19, 11:52:14](https://lobste.rs/s/bqdxhk/building_digital_vigil_for_those_we_ve) - [Building a digital vigil for those we've lost](https://ntietz.com/blog/digital-vigil-for-tdor/)
 * [2023-11-19, 11:40:05](https://lobste.rs/s/l0qo6s/comparing_humans_gpt_4_gpt_4v_on) - [Comparing Humans, GPT-4, and GPT-4V On Abstraction and Reasoning Tasks](https://arxiv.org/abs/2311.09247)
 * [2023-11-19, 11:11:02](https://lobste.rs/s/clfulh/big_tdd_misunderstanding_2022) - [The Big TDD Misunderstanding (2022)](https://linkedrecords.com/the-big-tdd-misunderstanding-8e22c2f1fc21)
@@ -23,7 +24,6 @@
 * [2023-11-17, 18:03:15](https://lobste.rs/s/dnazns/contextual_clis) - [Contextual CLIs](https://garnix.io/blog/contextual-cli)
 * [2023-11-17, 15:53:08](https://lobste.rs/s/vdbzqo/30_bits_advice_for_30_years) - [30 Bits of Advice for 30 Years](https://arne.me/articles/30-bits-of-advice-for-30-years)
 * [2023-11-17, 15:45:24](https://lobste.rs/s/bcccpc/introducing_graphics_offload_gtk) - [Introducing graphics offload in GTK](https://blog.gtk.org/2023/11/15/introducing-graphics-offload/)
-* [2023-11-17, 14:23:13](https://lobste.rs/s/i3uyq7/language_perception_empathy_ukrainian_s) - [Language, perception, and empathy: Ukrainian's gaze (Notes to the talk rejected by RubyConf)](https://zverok.space/blog/2023-11-17-not-a-rubyconf.html)
 * [2023-11-17, 12:34:11](https://lobste.rs/s/gfbcz3/oops_we_automated_bullshit) - [Oops! We Automated Bullshit](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit)
 
 ## [Archives](archives/index.md)
