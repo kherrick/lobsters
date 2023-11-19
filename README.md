@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-19, 20:34:02](https://lobste.rs/s/rjtqaw/exploring_postgres_query_plan) - [Exploring a Postgres query plan](https://notes.eatonphil.com/2023-11-19-exploring-a-postgres-query-plan.html)
 * [2023-11-19, 18:23:44](https://lobste.rs/s/rx8dn0/domicles_novel_logic_puzzle_using) - [Domicles: a novel logic puzzle using Dominoe tiles](https://emiruz.com/post/2023-11-13-domicles/)
 * [2023-11-19, 16:28:30](https://lobste.rs/s/6sbkpi/function_interposition_rust_with) - [Function interposition in Rust with upgrayedd](https://blog.yossarian.net/2023/11/19/Function-interposition-in-Rust-with-upgrayedd)
 * [2023-11-19, 16:20:51](https://lobste.rs/s/mcug3p/how_one_line_code_caused_60_million_loss) - [How one line of code caused a $60 million loss](https://engineercodex.substack.com/p/how-one-line-of-code-caused-a-60)
@@ -24,7 +25,6 @@
 * [2023-11-17, 21:24:12](https://lobste.rs/s/u825ix/half_life_25th_anniversary_documentary) - [Half-Life: 25th Anniversary Documentary](https://www.youtube.com/watch?v=TbZ3HzvFEto)
 * [2023-11-17, 21:05:17](https://lobste.rs/s/srkf5u/security_vulnerabilities_appsanywhere) - [Security Vulnerabilities in AppsAnywhere](https://gaelan.me/appsanywhere-bug)
 * [2023-11-17, 18:03:15](https://lobste.rs/s/dnazns/contextual_clis) - [Contextual CLIs](https://garnix.io/blog/contextual-cli)
-* [2023-11-17, 15:45:24](https://lobste.rs/s/bcccpc/introducing_graphics_offload_gtk) - [Introducing graphics offload in GTK](https://blog.gtk.org/2023/11/15/introducing-graphics-offload/)
 
 ## [Archives](archives/index.md)
 
