@@ -2,7 +2,6 @@
 
 * [2023-11-19, 16:28:30](https://lobste.rs/s/6sbkpi/function_interposition_rust_with) - [Function interposition in Rust with upgrayedd](https://blog.yossarian.net/2023/11/19/Function-interposition-in-Rust-with-upgrayedd)
 * [2023-11-19, 16:20:51](https://lobste.rs/s/mcug3p/how_one_line_code_caused_60_million_loss) - [How one line of code caused a $60 million loss](https://engineercodex.substack.com/p/how-one-line-of-code-caused-a-60)
-* [2023-11-19, 15:29:00](https://lobste.rs/s/npfnxs/big_small_release_inkscape_1_3_1_is_out) - [Big, small release – Inkscape 1.3.1 is out! | Inkscape](https://inkscape.org/news/2023/11/18/big-small-release-inkscape-131-is-out/)
 * [2023-11-19, 15:23:31](https://lobste.rs/s/c3nk7h/victor_mono_programming_font) - [Victor Mono - A programming font](https://rubjo.github.io/victor-mono/)
 * [2023-11-19, 13:25:58](https://lobste.rs/s/naidix/put_some_clos_your_ecs) - [Put some CLOS in your ECS](https://edoput.it/2023/11/19/data-oriented-clos.html)
 * [2023-11-19, 11:52:14](https://lobste.rs/s/bqdxhk/building_digital_vigil_for_those_we_ve) - [Building a digital vigil for those we've lost](https://ntietz.com/blog/digital-vigil-for-tdor/)
@@ -25,6 +24,7 @@
 * [2023-11-17, 21:05:17](https://lobste.rs/s/srkf5u/security_vulnerabilities_appsanywhere) - [Security Vulnerabilities in AppsAnywhere](https://gaelan.me/appsanywhere-bug)
 * [2023-11-17, 18:03:15](https://lobste.rs/s/dnazns/contextual_clis) - [Contextual CLIs](https://garnix.io/blog/contextual-cli)
 * [2023-11-17, 15:45:24](https://lobste.rs/s/bcccpc/introducing_graphics_offload_gtk) - [Introducing graphics offload in GTK](https://blog.gtk.org/2023/11/15/introducing-graphics-offload/)
+* [2023-11-17, 12:34:11](https://lobste.rs/s/gfbcz3/oops_we_automated_bullshit) - [Oops! We Automated Bullshit](https://www.cst.cam.ac.uk/blog/afb21/oops-we-automated-bullshit)
 
 ## [Archives](archives/index.md)
 
