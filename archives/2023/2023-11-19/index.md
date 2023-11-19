@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-19](index.md)
 
+* [2023-11-19, 18:23:44](https://lobste.rs/s/rx8dn0/domicles_novel_logic_puzzle_using) - [Domicles: a novel logic puzzle using Dominoe tiles](https://emiruz.com/post/2023-11-13-domicles/)
 * [2023-11-19, 16:28:30](https://lobste.rs/s/6sbkpi/function_interposition_rust_with) - [Function interposition in Rust with upgrayedd](https://blog.yossarian.net/2023/11/19/Function-interposition-in-Rust-with-upgrayedd)
 * [2023-11-19, 16:20:51](https://lobste.rs/s/mcug3p/how_one_line_code_caused_60_million_loss) - [How one line of code caused a $60 million loss](https://engineercodex.substack.com/p/how-one-line-of-code-caused-a-60)
 * [2023-11-19, 15:29:00](https://lobste.rs/s/npfnxs/big_small_release_inkscape_1_3_1_is_out) - [Big, small release – Inkscape 1.3.1 is out! | Inkscape](https://inkscape.org/news/2023/11/18/big-small-release-inkscape-131-is-out/)
