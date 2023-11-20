@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-20, 08:46:30](https://lobste.rs/s/swa7yd/graphcast_ai_model_for_faster_more) - [GraphCast: AI model for faster and more accurate global weather forecasting](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)
 * [2023-11-20, 07:58:55](https://lobste.rs/s/nweiqu/hacking_adhd_strategies_for_modern) - [Hacking ADHD - Strategies for the Modern Developer](https://www.ledger.com/blog/hacking-adhd-strategies-for-the-modern-developer)
 * [2023-11-20, 05:49:07](https://lobste.rs/s/y9vjer/italic_text_alacritty_tmux_neovim) - [Italic text in Alacritty, tmux, and Neovim](https://michenriksen.com/posts/italic-text-in-alacritty-tmux-neovim/)
 * [2023-11-19, 23:43:14](https://lobste.rs/s/yav1ky/those_who_have_maintained_forks_oss_at) - [Those who have maintained forks of OSS at work, what was your experience like?](https://lobste.rs/s/yav1ky/those_who_have_maintained_forks_oss_at)
@@ -23,7 +24,6 @@
 * [2023-11-18, 14:12:08](https://lobste.rs/s/snmrat/adding_more_ethernet_ports_mnt_reform) - [Adding more ethernet ports to an MNT Reform](https://zeromips.org/posts/2023-11-17-reform2/)
 * [2023-11-18, 11:28:33](https://lobste.rs/s/enqbjc/rocket_v0_5_stable_async_sentinels) - [Rocket v0.5: Stable, Async, Sentinels, Streams, SSE, Forms, WebSockets](https://rocket.rs/v0.5/news/2023-11-17-version-0.5/)
 * [2023-11-18, 03:33:17](https://lobste.rs/s/zhaz9j/i_hacked_magic_mouse) - [I hacked the Magic Mouse](https://uplab.pro/2023/11/i-hacked-the-magic-mouse/)
-* [2023-11-17, 23:13:44](https://lobste.rs/s/txbhdi/introducing_functional_source_license) - [Introducing the Functional Source License: Freedom without Free-riding](https://blog.sentry.io/introducing-the-functional-source-license-freedom-without-free-riding/)
 * [2023-11-17, 21:24:12](https://lobste.rs/s/u825ix/half_life_25th_anniversary_documentary) - [Half-Life: 25th Anniversary Documentary](https://www.youtube.com/watch?v=TbZ3HzvFEto)
 
 ## [Archives](archives/index.md)
