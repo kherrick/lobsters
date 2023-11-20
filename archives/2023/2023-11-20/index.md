@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 21:10:13](https://lobste.rs/s/lsefl9/tokenizing_arithmetic_expressions) - [Tokenizing Arithmetic expressions - calculator p.1](https://xnacly.me/posts/2023/calculator-lexer/)
 * [2023-11-20, 19:28:23](https://lobste.rs/s/l4bkk9/making_e_paper_picture_frame) - [Making an E-Paper Picture Frame](https://wolfgang-ziegler.com/blog/ink-display)
 * [2023-11-20, 17:25:03](https://lobste.rs/s/iqbelv/unlocking_idempotency_with_retroactive) - [Unlocking Idempotency with Retroactive Tombstones](https://www.warpstream.com/blog/unlocking-idempotency-with-retroactive-tombstones)
 * [2023-11-20, 16:04:54](https://lobste.rs/s/igtwwg/troubleshooting_performance_cloud_run) - [Troubleshooting performance of a Cloud Run Go app](https://cloud.google.com/blog/products/serverless/troubleshooting-performance-of-a-cloud-run-go-app)
