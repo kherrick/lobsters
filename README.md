@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-20, 05:49:07](https://lobste.rs/s/y9vjer/italic_text_alacritty_tmux_neovim) - [Italic text in Alacritty, tmux, and Neovim](https://michenriksen.com/posts/italic-text-in-alacritty-tmux-neovim/)
 * [2023-11-19, 23:43:14](https://lobste.rs/s/yav1ky/those_who_have_maintained_forks_oss_at) - [Those who have maintained forks of OSS at work, what was your experience like?](https://lobste.rs/s/yav1ky/those_who_have_maintained_forks_oss_at)
 * [2023-11-19, 22:33:43](https://lobste.rs/s/zt78jk/all_circuits_are_busy_now_1990_at_t_long) - [All Circuits are Busy Now: The 1990 AT&T Long Distance Network Collapse](http://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse)
 * [2023-11-19, 22:27:57](https://lobste.rs/s/7mfluf/why_i_tend_not_use_content_negotiation) - [Why I Tend Not To Use Content Negotiation](https://htmx.org/essays/why-tend-not-to-use-content-negotiation/)
@@ -20,7 +21,6 @@
 * [2023-11-18, 14:54:06](https://lobste.rs/s/zh49df/checking_semver_presence_doc_hidden) - [Checking semver in the presence of doc(hidden) items](https://predr.ag/blog/checking-semver-for-doc-hidden-items/)
 * [2023-11-18, 14:12:08](https://lobste.rs/s/snmrat/adding_more_ethernet_ports_mnt_reform) - [Adding more ethernet ports to an MNT Reform](https://zeromips.org/posts/2023-11-17-reform2/)
 * [2023-11-18, 11:28:33](https://lobste.rs/s/enqbjc/rocket_v0_5_stable_async_sentinels) - [Rocket v0.5: Stable, Async, Sentinels, Streams, SSE, Forms, WebSockets](https://rocket.rs/v0.5/news/2023-11-17-version-0.5/)
-* [2023-11-18, 10:58:35](https://lobste.rs/s/fdykb2/wasm_spectec_engineering_formal) - [Wasm SpecTec: Engineering a Formal Language Standard](https://arxiv.org/abs/2311.07223)
 * [2023-11-18, 08:33:01](https://lobste.rs/s/zlvmm7/building_better_foundation_for_rocket_s) - [Building a Better Foundation for Rocket's Future](https://rocket.rs/v0.5/news/2023-11-17-rwf2-prelaunch/)
 * [2023-11-18, 03:33:17](https://lobste.rs/s/zhaz9j/i_hacked_magic_mouse) - [I hacked the Magic Mouse](https://uplab.pro/2023/11/i-hacked-the-magic-mouse/)
 * [2023-11-17, 23:13:44](https://lobste.rs/s/txbhdi/introducing_functional_source_license) - [Introducing the Functional Source License: Freedom without Free-riding](https://blog.sentry.io/introducing-the-functional-source-license-freedom-without-free-riding/)
