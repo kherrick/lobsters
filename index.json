@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-20, 05:49:07",
+      "https://lobste.rs/s/y9vjer/italic_text_alacritty_tmux_neovim"
+    ],
+    [
+      "Italic text in Alacritty, tmux, and Neovim",
+      "https://michenriksen.com/posts/italic-text-in-alacritty-tmux-neovim/"
+    ]
+  ],
+  [
+    [
       "2023-11-19, 23:43:14",
       "https://lobste.rs/s/yav1ky/those_who_have_maintained_forks_oss_at"
     ],
@@ -197,16 +207,6 @@
     [
       "Rocket v0.5: Stable, Async, Sentinels, Streams, SSE, Forms, WebSockets",
       "https://rocket.rs/v0.5/news/2023-11-17-version-0.5/"
-    ]
-  ],
-  [
-    [
-      "2023-11-18, 10:58:35",
-      "https://lobste.rs/s/fdykb2/wasm_spectec_engineering_formal"
-    ],
-    [
-      "Wasm SpecTec: Engineering a Formal Language Standard",
-      "https://arxiv.org/abs/2311.07223"
     ]
   ],
   [
