@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-20, 21:54:30](https://lobste.rs/s/vddrjb/freebsd_14_0_release_now_available) - [FreeBSD 14.0-RELEASE Now Available](https://lists.freebsd.org/archives/freebsd-announce/2023-November/000101.html)
 * [2023-11-20, 21:20:48](https://lobste.rs/s/mhjkj6/announcement_freebsd_14_0_release) - [Announcement of FreeBSD 14.0-RELEASE](https://freebsd.org/releases/14.0R/announce/)
 * [2023-11-20, 21:14:17](https://lobste.rs/s/ktdhkq/simple_suggestions_using_popcount) - [Simple suggestions using popcount](http://0x80.pl/notesen/2023-11-20-popcount-suggestions.html)
 * [2023-11-20, 21:10:13](https://lobste.rs/s/lsefl9/tokenizing_arithmetic_expressions) - [Tokenizing Arithmetic expressions - calculator p.1](https://xnacly.me/posts/2023/calculator-lexer/)
@@ -22,7 +23,6 @@
 * [2023-11-19, 20:34:02](https://lobste.rs/s/rjtqaw/exploring_postgres_query_plan) - [Exploring a Postgres query plan](https://notes.eatonphil.com/2023-11-19-exploring-a-postgres-query-plan.html)
 * [2023-11-19, 16:28:30](https://lobste.rs/s/6sbkpi/function_interposition_rust_with) - [Function interposition in Rust with upgrayedd](https://blog.yossarian.net/2023/11/19/Function-interposition-in-Rust-with-upgrayedd)
 * [2023-11-19, 15:23:31](https://lobste.rs/s/c3nk7h/victor_mono_programming_font) - [Victor Mono - A programming font](https://rubjo.github.io/victor-mono/)
-* [2023-11-19, 13:25:58](https://lobste.rs/s/naidix/put_some_clos_your_ecs) - [Put some CLOS in your ECS](https://edoput.it/2023/11/19/data-oriented-clos.html)
 * [2023-11-19, 11:52:14](https://lobste.rs/s/bqdxhk/building_digital_vigil_for_those_we_ve) - [Building a digital vigil for those we've lost](https://ntietz.com/blog/digital-vigil-for-tdor/)
 * [2023-11-19, 11:11:02](https://lobste.rs/s/clfulh/big_tdd_misunderstanding_2022) - [The Big TDD Misunderstanding (2022)](https://linkedrecords.com/the-big-tdd-misunderstanding-8e22c2f1fc21)
 

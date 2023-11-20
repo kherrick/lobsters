@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 21:54:30](https://lobste.rs/s/vddrjb/freebsd_14_0_release_now_available) - [FreeBSD 14.0-RELEASE Now Available](https://lists.freebsd.org/archives/freebsd-announce/2023-November/000101.html)
 * [2023-11-20, 21:20:48](https://lobste.rs/s/mhjkj6/announcement_freebsd_14_0_release) - [Announcement of FreeBSD 14.0-RELEASE](https://freebsd.org/releases/14.0R/announce/)
 * [2023-11-20, 21:14:17](https://lobste.rs/s/ktdhkq/simple_suggestions_using_popcount) - [Simple suggestions using popcount](http://0x80.pl/notesen/2023-11-20-popcount-suggestions.html)
 * [2023-11-20, 21:10:13](https://lobste.rs/s/lsefl9/tokenizing_arithmetic_expressions) - [Tokenizing Arithmetic expressions - calculator p.1](https://xnacly.me/posts/2023/calculator-lexer/)
