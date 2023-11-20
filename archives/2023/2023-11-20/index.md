@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 12:17:48](https://lobste.rs/s/2padth/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/2padth/what_are_you_doing_this_week)
 * [2023-11-20, 11:19:34](https://lobste.rs/s/lskhwr/roc_programming_language) - [The Roc Programming Language](https://roc-lang.org)
 * [2023-11-20, 10:14:45](https://lobste.rs/s/yw4w6j/close_encounter_with_false_sharing) - [A close encounter with false sharing](https://morestina.net/blog/1976/a-close-encounter-with-false-sharing)
 * [2023-11-20, 10:00:49](https://lobste.rs/s/0vntay/buildnodemodules_experiment_improving) - [buildNodeModules: An experiment in improving node packaging for nix](https://github.com/adisbladis/buildNodeModules)
