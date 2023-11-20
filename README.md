@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-20, 21:20:48](https://lobste.rs/s/mhjkj6/announcement_freebsd_14_0_release) - [Announcement of FreeBSD 14.0-RELEASE](https://freebsd.org/releases/14.0R/announce/)
+* [2023-11-20, 21:14:17](https://lobste.rs/s/ktdhkq/simple_suggestions_using_popcount) - [Simple suggestions using popcount](http://0x80.pl/notesen/2023-11-20-popcount-suggestions.html)
 * [2023-11-20, 21:10:13](https://lobste.rs/s/lsefl9/tokenizing_arithmetic_expressions) - [Tokenizing Arithmetic expressions - calculator p.1](https://xnacly.me/posts/2023/calculator-lexer/)
 * [2023-11-20, 19:28:23](https://lobste.rs/s/l4bkk9/making_e_paper_picture_frame) - [Making an E-Paper Picture Frame](https://wolfgang-ziegler.com/blog/ink-display)
 * [2023-11-20, 17:25:03](https://lobste.rs/s/iqbelv/unlocking_idempotency_with_retroactive) - [Unlocking Idempotency with Retroactive Tombstones](https://www.warpstream.com/blog/unlocking-idempotency-with-retroactive-tombstones)
@@ -23,8 +25,6 @@
 * [2023-11-19, 13:25:58](https://lobste.rs/s/naidix/put_some_clos_your_ecs) - [Put some CLOS in your ECS](https://edoput.it/2023/11/19/data-oriented-clos.html)
 * [2023-11-19, 11:52:14](https://lobste.rs/s/bqdxhk/building_digital_vigil_for_those_we_ve) - [Building a digital vigil for those we've lost](https://ntietz.com/blog/digital-vigil-for-tdor/)
 * [2023-11-19, 11:11:02](https://lobste.rs/s/clfulh/big_tdd_misunderstanding_2022) - [The Big TDD Misunderstanding (2022)](https://linkedrecords.com/the-big-tdd-misunderstanding-8e22c2f1fc21)
-* [2023-11-19, 10:14:41](https://lobste.rs/s/0bgrev/simple_ray_tracer_written_meson_build) - [A simple ray tracer written in the meson.build language](https://github.com/annacrombie/meson-raytracer)
-* [2023-11-19, 02:00:24](https://lobste.rs/s/opvfah/typehere_cc) - [typehere.cc](https://typehere.cc/)
 
 ## [Archives](archives/index.md)
 

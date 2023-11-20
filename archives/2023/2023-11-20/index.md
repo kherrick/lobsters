@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-20](index.md)
 
+* [2023-11-20, 21:20:48](https://lobste.rs/s/mhjkj6/announcement_freebsd_14_0_release) - [Announcement of FreeBSD 14.0-RELEASE](https://freebsd.org/releases/14.0R/announce/)
+* [2023-11-20, 21:14:17](https://lobste.rs/s/ktdhkq/simple_suggestions_using_popcount) - [Simple suggestions using popcount](http://0x80.pl/notesen/2023-11-20-popcount-suggestions.html)
 * [2023-11-20, 21:10:13](https://lobste.rs/s/lsefl9/tokenizing_arithmetic_expressions) - [Tokenizing Arithmetic expressions - calculator p.1](https://xnacly.me/posts/2023/calculator-lexer/)
 * [2023-11-20, 19:28:23](https://lobste.rs/s/l4bkk9/making_e_paper_picture_frame) - [Making an E-Paper Picture Frame](https://wolfgang-ziegler.com/blog/ink-display)
 * [2023-11-20, 17:25:03](https://lobste.rs/s/iqbelv/unlocking_idempotency_with_retroactive) - [Unlocking Idempotency with Retroactive Tombstones](https://www.warpstream.com/blog/unlocking-idempotency-with-retroactive-tombstones)
