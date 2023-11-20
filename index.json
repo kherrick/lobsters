@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2023-11-20, 07:58:55",
-      "https://lobste.rs/s/nweiqu/hacking_adhd_strategies_for_modern"
-    ],
-    [
-      "Hacking ADHD - Strategies for the Modern Developer",
-      "https://www.ledger.com/blog/hacking-adhd-strategies-for-the-modern-developer"
-    ]
-  ],
-  [
-    [
       "2023-11-20, 05:49:07",
       "https://lobste.rs/s/y9vjer/italic_text_alacritty_tmux_neovim"
     ],
@@ -247,6 +237,16 @@
     [
       "It's Time For A Change: datetime.utcnow() Is Now Deprecated",
       "https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated"
+    ]
+  ],
+  [
+    [
+      "2023-11-18, 14:54:06",
+      "https://lobste.rs/s/zh49df/checking_semver_presence_doc_hidden"
+    ],
+    [
+      "Checking semver in the presence of doc(hidden) items",
+      "https://predr.ag/blog/checking-semver-for-doc-hidden-items/"
     ]
   ]
 ]
