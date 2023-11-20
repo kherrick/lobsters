@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-20, 11:19:34](https://lobste.rs/s/lskhwr/roc_programming_language) - [The Roc Programming Language](https://roc-lang.org)
 * [2023-11-20, 10:14:45](https://lobste.rs/s/yw4w6j/close_encounter_with_false_sharing) - [A close encounter with false sharing](https://morestina.net/blog/1976/a-close-encounter-with-false-sharing)
 * [2023-11-20, 10:00:49](https://lobste.rs/s/0vntay/buildnodemodules_experiment_improving) - [buildNodeModules: An experiment in improving node packaging for nix](https://github.com/adisbladis/buildNodeModules)
 * [2023-11-20, 08:46:30](https://lobste.rs/s/swa7yd/graphcast_ai_model_for_faster_more) - [GraphCast: AI model for faster and more accurate global weather forecasting](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)
@@ -22,7 +23,6 @@
 * [2023-11-19, 02:00:24](https://lobste.rs/s/opvfah/typehere_cc) - [typehere.cc](https://typehere.cc/)
 * [2023-11-18, 20:36:59](https://lobste.rs/s/xjyq8r/it_s_time_for_change_datetime_utcnow_is_now) - [It's Time For A Change: datetime.utcnow() Is Now Deprecated](https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated)
 * [2023-11-18, 14:54:06](https://lobste.rs/s/zh49df/checking_semver_presence_doc_hidden) - [Checking semver in the presence of doc(hidden) items](https://predr.ag/blog/checking-semver-for-doc-hidden-items/)
-* [2023-11-18, 14:12:08](https://lobste.rs/s/snmrat/adding_more_ethernet_ports_mnt_reform) - [Adding more ethernet ports to an MNT Reform](https://zeromips.org/posts/2023-11-17-reform2/)
 * [2023-11-18, 11:28:33](https://lobste.rs/s/enqbjc/rocket_v0_5_stable_async_sentinels) - [Rocket v0.5: Stable, Async, Sentinels, Streams, SSE, Forms, WebSockets](https://rocket.rs/v0.5/news/2023-11-17-version-0.5/)
 * [2023-11-17, 21:24:12](https://lobste.rs/s/u825ix/half_life_25th_anniversary_documentary) - [Half-Life: 25th Anniversary Documentary](https://www.youtube.com/watch?v=TbZ3HzvFEto)
 
