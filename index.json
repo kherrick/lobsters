@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-20, 19:28:23",
+      "https://lobste.rs/s/l4bkk9/making_e_paper_picture_frame"
+    ],
+    [
+      "Making an E-Paper Picture Frame",
+      "https://wolfgang-ziegler.com/blog/ink-display"
+    ]
+  ],
+  [
+    [
       "2023-11-20, 17:25:03",
       "https://lobste.rs/s/iqbelv/unlocking_idempotency_with_retroactive"
     ],
@@ -237,16 +247,6 @@
     [
       "typehere.cc",
       "https://typehere.cc/"
-    ]
-  ],
-  [
-    [
-      "2023-11-18, 20:36:59",
-      "https://lobste.rs/s/xjyq8r/it_s_time_for_change_datetime_utcnow_is_now"
-    ],
-    [
-      "It's Time For A Change: datetime.utcnow() Is Now Deprecated",
-      "https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated"
     ]
   ]
 ]
