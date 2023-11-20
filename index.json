@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-20, 11:19:34",
+      "https://lobste.rs/s/lskhwr/roc_programming_language"
+    ],
+    [
+      "The Roc Programming Language",
+      "https://roc-lang.org"
+    ]
+  ],
+  [
+    [
       "2023-11-20, 10:14:45",
       "https://lobste.rs/s/yw4w6j/close_encounter_with_false_sharing"
     ],
@@ -217,16 +227,6 @@
     [
       "Checking semver in the presence of doc(hidden) items",
       "https://predr.ag/blog/checking-semver-for-doc-hidden-items/"
-    ]
-  ],
-  [
-    [
-      "2023-11-18, 14:12:08",
-      "https://lobste.rs/s/snmrat/adding_more_ethernet_ports_mnt_reform"
-    ],
-    [
-      "Adding more ethernet ports to an MNT Reform",
-      "https://zeromips.org/posts/2023-11-17-reform2/"
     ]
   ],
   [
