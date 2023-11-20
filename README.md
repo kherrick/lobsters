@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-20, 16:04:54](https://lobste.rs/s/igtwwg/troubleshooting_performance_cloud_run) - [Troubleshooting performance of a Cloud Run Go app](https://cloud.google.com/blog/products/serverless/troubleshooting-performance-of-a-cloud-run-go-app)
+* [2023-11-20, 15:54:08](https://lobste.rs/s/gju6ox/river_fast_robust_job_queue_for_go) - [River: a Fast, Robust Job Queue for Go + Postgres](https://brandur.org/river)
 * [2023-11-20, 15:11:17](https://lobste.rs/s/ntajec/nand_error_correction_code_linux_kernel) - [NAND Error-correction Code — The Linux Kernel  documentation (2008)](https://docs.kernel.org/driver-api/mtd/nand_ecc.html)
 * [2023-11-20, 14:10:04](https://lobste.rs/s/ns3pme/one_liners_python_edition) - [One Liners Python Edition](https://muhammadraza.me/2023/python-oneliners/)
 * [2023-11-20, 13:17:02](https://lobste.rs/s/6fklb9/dos_4gw_protected_mode) - [DOS/4GW and Protected Mode](https://pikuma.com/blog/what-is-dos4gw-protected-mode)
@@ -13,7 +15,6 @@
 * [2023-11-19, 22:33:43](https://lobste.rs/s/zt78jk/all_circuits_are_busy_now_1990_at_t_long) - [All Circuits are Busy Now: The 1990 AT&T Long Distance Network Collapse](http://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse)
 * [2023-11-19, 22:27:57](https://lobste.rs/s/7mfluf/why_i_tend_not_use_content_negotiation) - [Why I Tend Not To Use Content Negotiation](https://htmx.org/essays/why-tend-not-to-use-content-negotiation/)
 * [2023-11-19, 20:34:02](https://lobste.rs/s/rjtqaw/exploring_postgres_query_plan) - [Exploring a Postgres query plan](https://notes.eatonphil.com/2023-11-19-exploring-a-postgres-query-plan.html)
-* [2023-11-19, 18:23:44](https://lobste.rs/s/rx8dn0/domicles_novel_logic_puzzle_using) - [Domicles: a novel logic puzzle using Dominoe tiles](https://emiruz.com/post/2023-11-13-domicles/)
 * [2023-11-19, 16:28:30](https://lobste.rs/s/6sbkpi/function_interposition_rust_with) - [Function interposition in Rust with upgrayedd](https://blog.yossarian.net/2023/11/19/Function-interposition-in-Rust-with-upgrayedd)
 * [2023-11-19, 15:23:31](https://lobste.rs/s/c3nk7h/victor_mono_programming_font) - [Victor Mono - A programming font](https://rubjo.github.io/victor-mono/)
 * [2023-11-19, 13:25:58](https://lobste.rs/s/naidix/put_some_clos_your_ecs) - [Put some CLOS in your ECS](https://edoput.it/2023/11/19/data-oriented-clos.html)
@@ -24,7 +25,6 @@
 * [2023-11-19, 02:44:06](https://lobste.rs/s/w78tgy/om_programming_language) - [The Om Programming Language](http://www.om-language.org/)
 * [2023-11-19, 02:00:24](https://lobste.rs/s/opvfah/typehere_cc) - [typehere.cc](https://typehere.cc/)
 * [2023-11-18, 20:36:59](https://lobste.rs/s/xjyq8r/it_s_time_for_change_datetime_utcnow_is_now) - [It's Time For A Change: datetime.utcnow() Is Now Deprecated](https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated)
-* [2023-11-18, 14:54:06](https://lobste.rs/s/zh49df/checking_semver_presence_doc_hidden) - [Checking semver in the presence of doc(hidden) items](https://predr.ag/blog/checking-semver-for-doc-hidden-items/)
 
 ## [Archives](archives/index.md)
 
