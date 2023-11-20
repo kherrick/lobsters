@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-20, 13:17:02](https://lobste.rs/s/6fklb9/dos_4gw_protected_mode) - [DOS/4GW and Protected Mode](https://pikuma.com/blog/what-is-dos4gw-protected-mode)
 * [2023-11-20, 12:17:48](https://lobste.rs/s/2padth/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/2padth/what_are_you_doing_this_week)
 * [2023-11-20, 11:19:34](https://lobste.rs/s/lskhwr/roc_programming_language) - [The Roc Programming Language](https://roc-lang.org)
 * [2023-11-20, 10:14:45](https://lobste.rs/s/yw4w6j/close_encounter_with_false_sharing) - [A close encounter with false sharing](https://morestina.net/blog/1976/a-close-encounter-with-false-sharing)
@@ -24,7 +25,6 @@
 * [2023-11-19, 02:00:24](https://lobste.rs/s/opvfah/typehere_cc) - [typehere.cc](https://typehere.cc/)
 * [2023-11-18, 20:36:59](https://lobste.rs/s/xjyq8r/it_s_time_for_change_datetime_utcnow_is_now) - [It's Time For A Change: datetime.utcnow() Is Now Deprecated](https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated)
 * [2023-11-18, 14:54:06](https://lobste.rs/s/zh49df/checking_semver_presence_doc_hidden) - [Checking semver in the presence of doc(hidden) items](https://predr.ag/blog/checking-semver-for-doc-hidden-items/)
-* [2023-11-17, 21:24:12](https://lobste.rs/s/u825ix/half_life_25th_anniversary_documentary) - [Half-Life: 25th Anniversary Documentary](https://www.youtube.com/watch?v=TbZ3HzvFEto)
 
 ## [Archives](archives/index.md)
 
