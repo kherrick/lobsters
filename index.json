@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-20, 15:11:17",
+      "https://lobste.rs/s/ntajec/nand_error_correction_code_linux_kernel"
+    ],
+    [
+      "NAND Error-correction Code — The Linux Kernel  documentation (2008)",
+      "https://docs.kernel.org/driver-api/mtd/nand_ecc.html"
+    ]
+  ],
+  [
+    [
       "2023-11-20, 14:10:04",
       "https://lobste.rs/s/ns3pme/one_liners_python_edition"
     ],
@@ -237,16 +247,6 @@
     [
       "It's Time For A Change: datetime.utcnow() Is Now Deprecated",
       "https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated"
-    ]
-  ],
-  [
-    [
-      "2023-11-18, 14:54:06",
-      "https://lobste.rs/s/zh49df/checking_semver_presence_doc_hidden"
-    ],
-    [
-      "Checking semver in the presence of doc(hidden) items",
-      "https://predr.ag/blog/checking-semver-for-doc-hidden-items/"
     ]
   ]
 ]
