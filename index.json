@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-20, 17:25:03",
+      "https://lobste.rs/s/iqbelv/unlocking_idempotency_with_retroactive"
+    ],
+    [
+      "Unlocking Idempotency with Retroactive Tombstones",
+      "https://www.warpstream.com/blog/unlocking-idempotency-with-retroactive-tombstones"
+    ]
+  ],
+  [
+    [
       "2023-11-20, 16:04:54",
       "https://lobste.rs/s/igtwwg/troubleshooting_performance_cloud_run"
     ],
@@ -217,16 +227,6 @@
     [
       "A simple ray tracer written in the meson.build language",
       "https://github.com/annacrombie/meson-raytracer"
-    ]
-  ],
-  [
-    [
-      "2023-11-19, 02:44:06",
-      "https://lobste.rs/s/w78tgy/om_programming_language"
-    ],
-    [
-      "The Om Programming Language",
-      "http://www.om-language.org/"
     ]
   ],
   [
