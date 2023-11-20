@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-20, 19:28:23](https://lobste.rs/s/l4bkk9/making_e_paper_picture_frame) - [Making an E-Paper Picture Frame](https://wolfgang-ziegler.com/blog/ink-display)
 * [2023-11-20, 17:25:03](https://lobste.rs/s/iqbelv/unlocking_idempotency_with_retroactive) - [Unlocking Idempotency with Retroactive Tombstones](https://www.warpstream.com/blog/unlocking-idempotency-with-retroactive-tombstones)
 * [2023-11-20, 16:04:54](https://lobste.rs/s/igtwwg/troubleshooting_performance_cloud_run) - [Troubleshooting performance of a Cloud Run Go app](https://cloud.google.com/blog/products/serverless/troubleshooting-performance-of-a-cloud-run-go-app)
 * [2023-11-20, 15:54:08](https://lobste.rs/s/gju6ox/river_fast_robust_job_queue_for_go) - [River: a Fast, Robust Job Queue for Go + Postgres](https://brandur.org/river)
@@ -24,7 +25,6 @@
 * [2023-11-19, 11:10:28](https://lobste.rs/s/wm2jre/safety_features_hare_programming) - [Safety features of the Hare programming language (2022)](https://harelang.org/blog/2022-06-21-safety-features/)
 * [2023-11-19, 10:14:41](https://lobste.rs/s/0bgrev/simple_ray_tracer_written_meson_build) - [A simple ray tracer written in the meson.build language](https://github.com/annacrombie/meson-raytracer)
 * [2023-11-19, 02:00:24](https://lobste.rs/s/opvfah/typehere_cc) - [typehere.cc](https://typehere.cc/)
-* [2023-11-18, 20:36:59](https://lobste.rs/s/xjyq8r/it_s_time_for_change_datetime_utcnow_is_now) - [It's Time For A Change: datetime.utcnow() Is Now Deprecated](https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated)
 
 ## [Archives](archives/index.md)
 
