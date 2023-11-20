@@ -8,7 +8,6 @@
 * [2023-11-20, 10:14:45](https://lobste.rs/s/yw4w6j/close_encounter_with_false_sharing) - [A close encounter with false sharing](https://morestina.net/blog/1976/a-close-encounter-with-false-sharing)
 * [2023-11-20, 10:00:49](https://lobste.rs/s/0vntay/buildnodemodules_experiment_improving) - [buildNodeModules: An experiment in improving node packaging for nix](https://github.com/adisbladis/buildNodeModules)
 * [2023-11-20, 08:46:30](https://lobste.rs/s/swa7yd/graphcast_ai_model_for_faster_more) - [GraphCast: AI model for faster and more accurate global weather forecasting](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)
-* [2023-11-20, 07:58:55](https://lobste.rs/s/nweiqu/hacking_adhd_strategies_for_modern) - [Hacking ADHD - Strategies for the Modern Developer](https://www.ledger.com/blog/hacking-adhd-strategies-for-the-modern-developer)
 * [2023-11-20, 05:49:07](https://lobste.rs/s/y9vjer/italic_text_alacritty_tmux_neovim) - [Italic text in Alacritty, tmux, and Neovim](https://michenriksen.com/posts/italic-text-in-alacritty-tmux-neovim/)
 * [2023-11-19, 23:43:14](https://lobste.rs/s/yav1ky/those_who_have_maintained_forks_oss_at) - [Those who have maintained forks of OSS at work, what was your experience like?](https://lobste.rs/s/yav1ky/those_who_have_maintained_forks_oss_at)
 * [2023-11-19, 22:33:43](https://lobste.rs/s/zt78jk/all_circuits_are_busy_now_1990_at_t_long) - [All Circuits are Busy Now: The 1990 AT&T Long Distance Network Collapse](http://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse)
@@ -25,6 +24,7 @@
 * [2023-11-19, 02:44:06](https://lobste.rs/s/w78tgy/om_programming_language) - [The Om Programming Language](http://www.om-language.org/)
 * [2023-11-19, 02:00:24](https://lobste.rs/s/opvfah/typehere_cc) - [typehere.cc](https://typehere.cc/)
 * [2023-11-18, 20:36:59](https://lobste.rs/s/xjyq8r/it_s_time_for_change_datetime_utcnow_is_now) - [It's Time For A Change: datetime.utcnow() Is Now Deprecated](https://blog.miguelgrinberg.com/post/it-s-time-for-a-change-datetime-utcnow-is-now-deprecated)
+* [2023-11-18, 14:54:06](https://lobste.rs/s/zh49df/checking_semver_presence_doc_hidden) - [Checking semver in the presence of doc(hidden) items](https://predr.ag/blog/checking-semver-for-doc-hidden-items/)
 
 ## [Archives](archives/index.md)
 
