@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-11-21, 18:17:42",
+      "https://lobste.rs/s/pg0vlk/embark_dynamic_documents_for_making"
+    ],
+    [
+      "Embark: Dynamic documents for making plans",
+      "https://www.inkandswitch.com/embark/"
+    ]
+  ],
+  [
+    [
+      "2023-11-21, 18:04:59",
+      "https://lobste.rs/s/ecqm15/fuzzing_duperemove"
+    ],
+    [
+      "fuzzing duperemove",
+      "https://trofi.github.io/posts/305-fuzzing-duperemove.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-21, 18:02:45",
+      "https://lobste.rs/s/6avbuj/spreadsheets_small_software"
+    ],
+    [
+      "Spreadsheets and Small Software",
+      "https://blog.nilenso.com/blog/2023/11/10/spreadsheets-and-small-software/"
+    ]
+  ],
+  [
+    [
       "2023-11-21, 17:49:57",
       "https://lobste.rs/s/ispaqp/stage_text_adventure_game_engine"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2023-11-21, 02:49:36",
-      "https://lobste.rs/s/dlvazf/75_software_engineers_faced_retaliation"
-    ],
-    [
-      "75% of Software Engineers Faced Retaliation Last Time They Reported Wrongdoing",
-      "https://www.engprax.com/post/75-of-software-engineers-faced-retaliation-last-time-they-report-wrongdoing"
-    ]
-  ],
-  [
-    [
       "2023-11-20, 23:48:27",
       "https://lobste.rs/s/em7pnh/object_success_now_available"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2023-11-20, 13:17:02",
-      "https://lobste.rs/s/6fklb9/dos_4gw_protected_mode"
-    ],
-    [
-      "DOS/4GW and Protected Mode",
-      "https://pikuma.com/blog/what-is-dos4gw-protected-mode"
-    ]
-  ],
-  [
-    [
       "2023-11-20, 11:19:34",
       "https://lobste.rs/s/lskhwr/roc_programming_language"
     ],
     [
       "The Roc Programming Language",
       "https://roc-lang.org"
-    ]
-  ],
-  [
-    [
-      "2023-11-19, 23:43:14",
-      "https://lobste.rs/s/yav1ky/those_who_have_maintained_forks_oss_at"
-    ],
-    [
-      "Those who have maintained forks of OSS at work, what was your experience like?",
-      "https://lobste.rs/s/yav1ky/those_who_have_maintained_forks_oss_at"
     ]
   ]
 ]
