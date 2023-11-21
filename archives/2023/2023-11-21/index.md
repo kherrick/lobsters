@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 18:17:42](https://lobste.rs/s/pg0vlk/embark_dynamic_documents_for_making) - [Embark: Dynamic documents for making plans](https://www.inkandswitch.com/embark/)
+* [2023-11-21, 18:04:59](https://lobste.rs/s/ecqm15/fuzzing_duperemove) - [fuzzing duperemove](https://trofi.github.io/posts/305-fuzzing-duperemove.html)
+* [2023-11-21, 18:02:45](https://lobste.rs/s/6avbuj/spreadsheets_small_software) - [Spreadsheets and Small Software](https://blog.nilenso.com/blog/2023/11/10/spreadsheets-and-small-software/)
 * [2023-11-21, 17:49:57](https://lobste.rs/s/ispaqp/stage_text_adventure_game_engine) - [Stage: Text Adventure Game Engine](https://hellomouse.net/stage/)
 * [2023-11-21, 17:05:14](https://lobste.rs/s/hdxdox/attribution_armored_code) - [Attribution armored code](https://joeyh.name/blog/entry/attribution_armored_code/)
 * [2023-11-21, 15:51:43](https://lobste.rs/s/k8knw4/two_kinds_threads_pools_why_you_need_both) - [Two kinds of threads pools, and why you need both](https://pythonspeed.com/articles/two-thread-pools/)

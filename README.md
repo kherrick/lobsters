@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-21, 18:17:42](https://lobste.rs/s/pg0vlk/embark_dynamic_documents_for_making) - [Embark: Dynamic documents for making plans](https://www.inkandswitch.com/embark/)
+* [2023-11-21, 18:04:59](https://lobste.rs/s/ecqm15/fuzzing_duperemove) - [fuzzing duperemove](https://trofi.github.io/posts/305-fuzzing-duperemove.html)
+* [2023-11-21, 18:02:45](https://lobste.rs/s/6avbuj/spreadsheets_small_software) - [Spreadsheets and Small Software](https://blog.nilenso.com/blog/2023/11/10/spreadsheets-and-small-software/)
 * [2023-11-21, 17:49:57](https://lobste.rs/s/ispaqp/stage_text_adventure_game_engine) - [Stage: Text Adventure Game Engine](https://hellomouse.net/stage/)
 * [2023-11-21, 17:05:14](https://lobste.rs/s/hdxdox/attribution_armored_code) - [Attribution armored code](https://joeyh.name/blog/entry/attribution_armored_code/)
 * [2023-11-21, 15:51:43](https://lobste.rs/s/k8knw4/two_kinds_threads_pools_why_you_need_both) - [Two kinds of threads pools, and why you need both](https://pythonspeed.com/articles/two-thread-pools/)
@@ -15,16 +18,13 @@
 * [2023-11-21, 05:27:54](https://lobste.rs/s/hotum2/rubber_duck_debugging_thank_you_for) - [Rubber duck debugging: \"Thank you for holding my duck\"](https://naml.us/post/thank-you-for-holding-my-duck/)
 * [2023-11-21, 05:09:55](https://lobste.rs/s/iy6ehg/what_s_zig_got_c_rust_go_don_t_have) - [What's Zig got that C, Rust and Go don't have?](https://www.youtube.com/watch?v=5_oqWE9otaE)
 * [2023-11-21, 04:06:45](https://lobste.rs/s/xpg31r/i_won_t_use_semver_patch_versions_anymore) - [I won't use SemVer patch versions anymore (2016)](https://staltz.com/i-wont-use-semver-patch-versions-anymore.html)
-* [2023-11-21, 02:49:36](https://lobste.rs/s/dlvazf/75_software_engineers_faced_retaliation) - [75% of Software Engineers Faced Retaliation Last Time They Reported Wrongdoing](https://www.engprax.com/post/75-of-software-engineers-faced-retaliation-last-time-they-report-wrongdoing)
 * [2023-11-20, 23:48:27](https://lobste.rs/s/em7pnh/object_success_now_available) - [\"Object Success\" now available](https://bertrandmeyer.com/2023/03/24/object-success-now-available/)
 * [2023-11-20, 21:20:48](https://lobste.rs/s/mhjkj6/announcement_freebsd_14_0_release) - [Announcement of FreeBSD 14.0-RELEASE](https://freebsd.org/releases/14.0R/announce/)
 * [2023-11-20, 21:14:17](https://lobste.rs/s/ktdhkq/simple_suggestions_using_popcount) - [Simple suggestions using popcount](http://0x80.pl/notesen/2023-11-20-popcount-suggestions.html)
 * [2023-11-20, 19:28:23](https://lobste.rs/s/l4bkk9/making_e_paper_picture_frame) - [Making an E-Paper Picture Frame](https://wolfgang-ziegler.com/blog/ink-display)
 * [2023-11-20, 15:54:08](https://lobste.rs/s/gju6ox/river_fast_robust_job_queue_for_go) - [River: a Fast, Robust Job Queue for Go + Postgres](https://brandur.org/river)
 * [2023-11-20, 14:10:04](https://lobste.rs/s/ns3pme/one_liners_python_edition) - [One Liners Python Edition](https://muhammadraza.me/2023/python-oneliners/)
-* [2023-11-20, 13:17:02](https://lobste.rs/s/6fklb9/dos_4gw_protected_mode) - [DOS/4GW and Protected Mode](https://pikuma.com/blog/what-is-dos4gw-protected-mode)
 * [2023-11-20, 11:19:34](https://lobste.rs/s/lskhwr/roc_programming_language) - [The Roc Programming Language](https://roc-lang.org)
-* [2023-11-19, 23:43:14](https://lobste.rs/s/yav1ky/those_who_have_maintained_forks_oss_at) - [Those who have maintained forks of OSS at work, what was your experience like?](https://lobste.rs/s/yav1ky/those_who_have_maintained_forks_oss_at)
 
 ## [Archives](archives/index.md)
 
