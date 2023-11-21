@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-21, 20:42:23](https://lobste.rs/s/xdj6iy/explicit_resource_management_exploring) - [Explicit Resource Management: Exploring JavaScript's and TypeScript's new feature](https://iliazeus.github.io/articles/js-explicit-resource-management-en/)
 * [2023-11-21, 19:59:18](https://lobste.rs/s/qhqui9/red_programming_language) - [Red Programming Language](https://www.red-lang.org)
 * [2023-11-21, 19:37:11](https://lobste.rs/s/nn77pv/fitting_forth_512_bytes_2021) - [Fitting a Forth in 512 bytes (2021)](https://compilercrim.es/bootstrap/miniforth/)
 * [2023-11-21, 18:21:12](https://lobste.rs/s/aad8kf/url_parser_performance) - [URL parser performance](https://daniel.haxx.se/blog/2023/11/21/url-parser-performance/)
 * [2023-11-21, 18:17:42](https://lobste.rs/s/pg0vlk/embark_dynamic_documents_for_making) - [Embark: Dynamic documents for making plans](https://www.inkandswitch.com/embark/)
 * [2023-11-21, 18:04:59](https://lobste.rs/s/ecqm15/fuzzing_duperemove) - [fuzzing duperemove](https://trofi.github.io/posts/305-fuzzing-duperemove.html)
 * [2023-11-21, 18:02:45](https://lobste.rs/s/6avbuj/spreadsheets_small_software) - [Spreadsheets and Small Software](https://blog.nilenso.com/blog/2023/11/10/spreadsheets-and-small-software/)
-* [2023-11-21, 17:49:57](https://lobste.rs/s/ispaqp/stage_text_adventure_game_engine) - [Stage: Text Adventure Game Engine](https://hellomouse.net/stage/)
 * [2023-11-21, 17:05:14](https://lobste.rs/s/hdxdox/attribution_armored_code) - [Attribution armored code](https://joeyh.name/blog/entry/attribution_armored_code/)
 * [2023-11-21, 15:51:43](https://lobste.rs/s/k8knw4/two_kinds_threads_pools_why_you_need_both) - [Two kinds of threads pools, and why you need both](https://pythonspeed.com/articles/two-thread-pools/)
 * [2023-11-21, 14:15:30](https://lobste.rs/s/otm1xz/linearizability_versus) - [Linearizability versus Serializability (2014)](http://www.bailis.org/blog/linearizability-versus-serializability/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 20:42:23](https://lobste.rs/s/xdj6iy/explicit_resource_management_exploring) - [Explicit Resource Management: Exploring JavaScript's and TypeScript's new feature](https://iliazeus.github.io/articles/js-explicit-resource-management-en/)
 * [2023-11-21, 19:59:18](https://lobste.rs/s/qhqui9/red_programming_language) - [Red Programming Language](https://www.red-lang.org)
 * [2023-11-21, 19:37:11](https://lobste.rs/s/nn77pv/fitting_forth_512_bytes_2021) - [Fitting a Forth in 512 bytes (2021)](https://compilercrim.es/bootstrap/miniforth/)
 * [2023-11-21, 18:21:12](https://lobste.rs/s/aad8kf/url_parser_performance) - [URL parser performance](https://daniel.haxx.se/blog/2023/11/21/url-parser-performance/)
