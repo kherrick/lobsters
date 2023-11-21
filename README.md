@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-21, 11:31:59](https://lobste.rs/s/jtk6jv/various_things_metapost) - [Various things in MetaPost](https://habr.com/en/articles/454376/)
 * [2023-11-21, 11:16:36](https://lobste.rs/s/kzvu82/rfc_9505_survey_worldwide_censorship) - [RFC 9505: A Survey of Worldwide Censorship Techniques](https://www.rfc-editor.org/info/rfc9505)
 * [2023-11-21, 09:34:18](https://lobste.rs/s/vrwyhz/interactive_common_lisp_development) - [Interactive Common Lisp development](https://www.n16f.net/blog/interactive-common-lisp-development/)
 * [2023-11-21, 08:30:26](https://lobste.rs/s/et3ivs/zig_may_pass_everything_by_reference) - [Zig May Pass Everything By Reference](https://www.1a-insec.net/blog/25-zig-reference-semantics/)
@@ -20,7 +21,6 @@
 * [2023-11-20, 15:54:08](https://lobste.rs/s/gju6ox/river_fast_robust_job_queue_for_go) - [River: a Fast, Robust Job Queue for Go + Postgres](https://brandur.org/river)
 * [2023-11-20, 14:10:04](https://lobste.rs/s/ns3pme/one_liners_python_edition) - [One Liners Python Edition](https://muhammadraza.me/2023/python-oneliners/)
 * [2023-11-20, 13:17:02](https://lobste.rs/s/6fklb9/dos_4gw_protected_mode) - [DOS/4GW and Protected Mode](https://pikuma.com/blog/what-is-dos4gw-protected-mode)
-* [2023-11-20, 12:17:48](https://lobste.rs/s/2padth/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/2padth/what_are_you_doing_this_week)
 * [2023-11-20, 11:19:34](https://lobste.rs/s/lskhwr/roc_programming_language) - [The Roc Programming Language](https://roc-lang.org)
 * [2023-11-20, 10:14:45](https://lobste.rs/s/yw4w6j/close_encounter_with_false_sharing) - [A close encounter with false sharing](https://morestina.net/blog/1976/a-close-encounter-with-false-sharing)
 * [2023-11-19, 23:43:14](https://lobste.rs/s/yav1ky/those_who_have_maintained_forks_oss_at) - [Those who have maintained forks of OSS at work, what was your experience like?](https://lobste.rs/s/yav1ky/those_who_have_maintained_forks_oss_at)
