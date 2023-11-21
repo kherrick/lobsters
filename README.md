@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-21, 14:15:30](https://lobste.rs/s/otm1xz/linearizability_versus) - [Linearizability versus Serializability (2014)](http://www.bailis.org/blog/linearizability-versus-serializability/)
 * [2023-11-21, 13:07:14](https://lobste.rs/s/pfigpn/neighborhood_infinity_three) - [A Neighborhood of Infinity: The Three Projections of Doctor Futamura](http://blog.sigfpe.com/2009/05/three-projections-of-doctor-futamura.html)
 * [2023-11-21, 11:31:59](https://lobste.rs/s/jtk6jv/various_things_metapost) - [Various things in MetaPost](https://habr.com/en/articles/454376/)
-* [2023-11-21, 11:16:36](https://lobste.rs/s/kzvu82/rfc_9505_survey_worldwide_censorship) - [RFC 9505: A Survey of Worldwide Censorship Techniques](https://www.rfc-editor.org/info/rfc9505)
 * [2023-11-21, 09:34:18](https://lobste.rs/s/vrwyhz/interactive_common_lisp_development) - [Interactive Common Lisp development](https://www.n16f.net/blog/interactive-common-lisp-development/)
 * [2023-11-21, 08:30:26](https://lobste.rs/s/et3ivs/zig_may_pass_everything_by_reference) - [Zig May Pass Everything By Reference](https://www.1a-insec.net/blog/25-zig-reference-semantics/)
 * [2023-11-21, 08:13:12](https://lobste.rs/s/dmabyw/julia_as_unifying_end_end_workflow) - [Julia as a unifying end-to-end workflow language on the Frontier exascale system (Sep. 2023)](https://arxiv.org/abs/2309.10292)
