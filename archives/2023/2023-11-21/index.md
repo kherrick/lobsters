@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 08:00:23](https://lobste.rs/s/0hga6k/rfc_9498_gnu_name_system) - [RFC 9498: The GNU Name System](https://lists.gnu.org/archive/html/info-gnunet/2023-11/msg00000.html)
 * [2023-11-21, 07:32:05](https://lobste.rs/s/kpubdy/tmp_0ut_magazine_003) - [tmp.0ut magazine #003](https://tmpout.sh/3/)
 * [2023-11-21, 07:28:53](https://lobste.rs/s/4xj8py/hacking_canon_imageclass_mf742cdw) - [Hacking the Canon imageCLASS MF742Cdw/MF743Cdw (again)](https://haxx.in/posts/hacking-canon-imageclass/)
 * [2023-11-21, 05:27:54](https://lobste.rs/s/hotum2/rubber_duck_debugging_thank_you_for) - [Rubber duck debugging: \"Thank you for holding my duck\"](https://naml.us/post/thank-you-for-holding-my-duck/)
