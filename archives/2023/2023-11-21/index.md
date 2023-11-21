@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 15:51:43](https://lobste.rs/s/k8knw4/two_kinds_threads_pools_why_you_need_both) - [Two kinds of threads pools, and why you need both](https://pythonspeed.com/articles/two-thread-pools/)
 * [2023-11-21, 14:15:30](https://lobste.rs/s/otm1xz/linearizability_versus) - [Linearizability versus Serializability (2014)](http://www.bailis.org/blog/linearizability-versus-serializability/)
 * [2023-11-21, 13:07:14](https://lobste.rs/s/pfigpn/neighborhood_infinity_three) - [A Neighborhood of Infinity: The Three Projections of Doctor Futamura](http://blog.sigfpe.com/2009/05/three-projections-of-doctor-futamura.html)
 * [2023-11-21, 11:31:59](https://lobste.rs/s/jtk6jv/various_things_metapost) - [Various things in MetaPost](https://habr.com/en/articles/454376/)
