@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-21, 08:13:12](https://lobste.rs/s/dmabyw/julia_as_unifying_end_end_workflow) - [Julia as a unifying end-to-end workflow language on the Frontier exascale system (Sep. 2023)](https://arxiv.org/abs/2309.10292)
 * [2023-11-21, 08:00:23](https://lobste.rs/s/0hga6k/rfc_9498_gnu_name_system) - [RFC 9498: The GNU Name System](https://lists.gnu.org/archive/html/info-gnunet/2023-11/msg00000.html)
 * [2023-11-21, 07:32:05](https://lobste.rs/s/kpubdy/tmp_0ut_magazine_003) - [tmp.0ut magazine #003](https://tmpout.sh/3/)
 * [2023-11-21, 07:28:53](https://lobste.rs/s/4xj8py/hacking_canon_imageclass_mf742cdw) - [Hacking the Canon imageCLASS MF742Cdw/MF743Cdw (again)](https://haxx.in/posts/hacking-canon-imageclass/)
@@ -20,7 +21,6 @@
 * [2023-11-20, 12:17:48](https://lobste.rs/s/2padth/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/2padth/what_are_you_doing_this_week)
 * [2023-11-20, 11:19:34](https://lobste.rs/s/lskhwr/roc_programming_language) - [The Roc Programming Language](https://roc-lang.org)
 * [2023-11-20, 10:14:45](https://lobste.rs/s/yw4w6j/close_encounter_with_false_sharing) - [A close encounter with false sharing](https://morestina.net/blog/1976/a-close-encounter-with-false-sharing)
-* [2023-11-20, 05:49:07](https://lobste.rs/s/y9vjer/italic_text_alacritty_tmux_neovim) - [Italic text in Alacritty, tmux, and Neovim](https://michenriksen.com/posts/italic-text-in-alacritty-tmux-neovim/)
 * [2023-11-19, 23:43:14](https://lobste.rs/s/yav1ky/those_who_have_maintained_forks_oss_at) - [Those who have maintained forks of OSS at work, what was your experience like?](https://lobste.rs/s/yav1ky/those_who_have_maintained_forks_oss_at)
 * [2023-11-19, 22:27:57](https://lobste.rs/s/7mfluf/why_i_tend_not_use_content_negotiation) - [Why I Tend Not To Use Content Negotiation](https://htmx.org/essays/why-tend-not-to-use-content-negotiation/)
 * [2023-11-19, 15:23:31](https://lobste.rs/s/c3nk7h/victor_mono_programming_font) - [Victor Mono - A programming font](https://rubjo.github.io/victor-mono/)
