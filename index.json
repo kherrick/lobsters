@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-21, 15:51:43",
+      "https://lobste.rs/s/k8knw4/two_kinds_threads_pools_why_you_need_both"
+    ],
+    [
+      "Two kinds of threads pools, and why you need both",
+      "https://pythonspeed.com/articles/two-thread-pools/"
+    ]
+  ],
+  [
+    [
       "2023-11-21, 14:15:30",
       "https://lobste.rs/s/otm1xz/linearizability_versus"
     ],
@@ -217,16 +227,6 @@
     [
       "The Roc Programming Language",
       "https://roc-lang.org"
-    ]
-  ],
-  [
-    [
-      "2023-11-20, 10:14:45",
-      "https://lobste.rs/s/yw4w6j/close_encounter_with_false_sharing"
-    ],
-    [
-      "A close encounter with false sharing",
-      "https://morestina.net/blog/1976/a-close-encounter-with-false-sharing"
     ]
   ],
   [
