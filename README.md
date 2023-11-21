@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-21, 23:54:47](https://lobste.rs/s/y36kie/for_want_dollar) - [For want of a dollar](https://surfingcomplexity.blog/2023/09/30/for-want-of-a-dollar/)
 * [2023-11-21, 23:38:30](https://lobste.rs/s/tz51it/how_i_kind_killed_mercurial_at_mozilla) - [How I (kind of) killed Mercurial at Mozilla](https://glandium.org/blog/?p=4346)
 * [2023-11-21, 22:52:41](https://lobste.rs/s/kijwqe/c_guidelines) - [C++ Guidelines](https://euroquis.nl//blabla/2023/11/21/guidelines.html)
 * [2023-11-21, 22:51:21](https://lobste.rs/s/n4wslr/adaptive_shells_for_efficient_neural) - [Adaptive Shells for Efficient Neural Radiance Field Rendering](https://research.nvidia.com/labs/toronto-ai/adaptive-shells/?ref=aiartweekly)
@@ -8,7 +9,6 @@
 * [2023-11-21, 19:59:18](https://lobste.rs/s/qhqui9/red_programming_language) - [Red Programming Language](https://www.red-lang.org)
 * [2023-11-21, 19:37:11](https://lobste.rs/s/nn77pv/fitting_forth_512_bytes_2021) - [Fitting a Forth in 512 bytes (2021)](https://compilercrim.es/bootstrap/miniforth/)
 * [2023-11-21, 18:21:12](https://lobste.rs/s/aad8kf/url_parser_performance) - [URL parser performance](https://daniel.haxx.se/blog/2023/11/21/url-parser-performance/)
-* [2023-11-21, 18:17:42](https://lobste.rs/s/pg0vlk/embark_dynamic_documents_for_making) - [Embark: Dynamic documents for making plans](https://www.inkandswitch.com/embark/)
 * [2023-11-21, 18:04:59](https://lobste.rs/s/ecqm15/fuzzing_duperemove) - [fuzzing duperemove](https://trofi.github.io/posts/305-fuzzing-duperemove.html)
 * [2023-11-21, 18:02:45](https://lobste.rs/s/6avbuj/spreadsheets_small_software) - [Spreadsheets and Small Software](https://blog.nilenso.com/blog/2023/11/10/spreadsheets-and-small-software/)
 * [2023-11-21, 17:49:57](https://lobste.rs/s/ispaqp/stage_text_adventure_game_engine) - [Stage: Text Adventure Game Engine](https://hellomouse.net/stage/)

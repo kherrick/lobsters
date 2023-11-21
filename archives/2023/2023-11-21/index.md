@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 23:54:47](https://lobste.rs/s/y36kie/for_want_dollar) - [For want of a dollar](https://surfingcomplexity.blog/2023/09/30/for-want-of-a-dollar/)
 * [2023-11-21, 23:38:30](https://lobste.rs/s/tz51it/how_i_kind_killed_mercurial_at_mozilla) - [How I (kind of) killed Mercurial at Mozilla](https://glandium.org/blog/?p=4346)
 * [2023-11-21, 22:52:41](https://lobste.rs/s/kijwqe/c_guidelines) - [C++ Guidelines](https://euroquis.nl//blabla/2023/11/21/guidelines.html)
 * [2023-11-21, 22:51:21](https://lobste.rs/s/n4wslr/adaptive_shells_for_efficient_neural) - [Adaptive Shells for Efficient Neural Radiance Field Rendering](https://research.nvidia.com/labs/toronto-ai/adaptive-shells/?ref=aiartweekly)
