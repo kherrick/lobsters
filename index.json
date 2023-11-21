@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-21, 11:16:36",
+      "https://lobste.rs/s/kzvu82/rfc_9505_survey_worldwide_censorship"
+    ],
+    [
+      "RFC 9505: A Survey of Worldwide Censorship Techniques",
+      "https://www.rfc-editor.org/info/rfc9505"
+    ]
+  ],
+  [
+    [
       "2023-11-21, 09:34:18",
       "https://lobste.rs/s/vrwyhz/interactive_common_lisp_development"
     ],
@@ -77,16 +87,6 @@
     [
       "What's Zig got that C, Rust and Go don't have?",
       "https://www.youtube.com/watch?v=5_oqWE9otaE"
-    ]
-  ],
-  [
-    [
-      "2023-11-21, 04:28:55",
-      "https://lobste.rs/s/exnhxq/sdns_high_performance_recursive_dns"
-    ],
-    [
-      "SDNS: high-performance, recursive DNS resolver server with DNSSEC support",
-      "https://sdns.dev/"
     ]
   ],
   [
