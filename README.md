@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-21, 05:27:54](https://lobste.rs/s/hotum2/rubber_duck_debugging_thank_you_for) - [Rubber duck debugging: \"Thank you for holding my duck\"](https://naml.us/post/thank-you-for-holding-my-duck/)
 * [2023-11-21, 05:09:55](https://lobste.rs/s/iy6ehg/what_s_zig_got_c_rust_go_don_t_have) - [What's Zig got that C, Rust and Go don't have?](https://www.youtube.com/watch?v=5_oqWE9otaE)
 * [2023-11-21, 04:28:55](https://lobste.rs/s/exnhxq/sdns_high_performance_recursive_dns) - [SDNS: high-performance, recursive DNS resolver server with DNSSEC support](https://sdns.dev/)
 * [2023-11-21, 04:06:45](https://lobste.rs/s/xpg31r/i_won_t_use_semver_patch_versions_anymore) - [I won't use SemVer patch versions anymore (2016)](https://staltz.com/i-wont-use-semver-patch-versions-anymore.html)
@@ -20,7 +21,6 @@
 * [2023-11-20, 10:00:49](https://lobste.rs/s/0vntay/buildnodemodules_experiment_improving) - [buildNodeModules: An experiment in improving node packaging for nix](https://github.com/adisbladis/buildNodeModules)
 * [2023-11-20, 05:49:07](https://lobste.rs/s/y9vjer/italic_text_alacritty_tmux_neovim) - [Italic text in Alacritty, tmux, and Neovim](https://michenriksen.com/posts/italic-text-in-alacritty-tmux-neovim/)
 * [2023-11-19, 23:43:14](https://lobste.rs/s/yav1ky/those_who_have_maintained_forks_oss_at) - [Those who have maintained forks of OSS at work, what was your experience like?](https://lobste.rs/s/yav1ky/those_who_have_maintained_forks_oss_at)
-* [2023-11-19, 22:33:43](https://lobste.rs/s/zt78jk/all_circuits_are_busy_now_1990_at_t_long) - [All Circuits are Busy Now: The 1990 AT&T Long Distance Network Collapse](http://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse)
 * [2023-11-19, 22:27:57](https://lobste.rs/s/7mfluf/why_i_tend_not_use_content_negotiation) - [Why I Tend Not To Use Content Negotiation](https://htmx.org/essays/why-tend-not-to-use-content-negotiation/)
 * [2023-11-19, 20:34:02](https://lobste.rs/s/rjtqaw/exploring_postgres_query_plan) - [Exploring a Postgres query plan](https://notes.eatonphil.com/2023-11-19-exploring-a-postgres-query-plan.html)
 * [2023-11-19, 15:23:31](https://lobste.rs/s/c3nk7h/victor_mono_programming_font) - [Victor Mono - A programming font](https://rubjo.github.io/victor-mono/)
