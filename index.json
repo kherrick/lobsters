@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-21, 05:09:55",
+      "https://lobste.rs/s/iy6ehg/what_s_zig_got_c_rust_go_don_t_have_with_loris"
+    ],
+    [
+      "What's Zig got that C, Rust and Go don't have? (with Loris Cro)",
+      "https://www.youtube.com/watch?v=5_oqWE9otaE"
+    ]
+  ],
+  [
+    [
       "2023-11-21, 04:28:55",
       "https://lobste.rs/s/exnhxq/sdns_high_performance_recursive_dns"
     ],
@@ -167,16 +177,6 @@
     [
       "buildNodeModules: An experiment in improving node packaging for nix",
       "https://github.com/adisbladis/buildNodeModules"
-    ]
-  ],
-  [
-    [
-      "2023-11-20, 08:46:30",
-      "https://lobste.rs/s/swa7yd/graphcast_ai_model_for_faster_more"
-    ],
-    [
-      "GraphCast: AI model for faster and more accurate global weather forecasting",
-      "https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/"
     ]
   ],
   [
