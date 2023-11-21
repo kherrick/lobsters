@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-21, 17:49:57](https://lobste.rs/s/ispaqp/stage_text_adventure_game_engine) - [Stage: Text Adventure Game Engine](https://hellomouse.net/stage/)
 * [2023-11-21, 17:05:14](https://lobste.rs/s/hdxdox/attribution_armored_code) - [Attribution armored code](https://joeyh.name/blog/entry/attribution_armored_code/)
 * [2023-11-21, 15:51:43](https://lobste.rs/s/k8knw4/two_kinds_threads_pools_why_you_need_both) - [Two kinds of threads pools, and why you need both](https://pythonspeed.com/articles/two-thread-pools/)
 * [2023-11-21, 14:15:30](https://lobste.rs/s/otm1xz/linearizability_versus) - [Linearizability versus Serializability (2014)](http://www.bailis.org/blog/linearizability-versus-serializability/)
@@ -13,7 +14,6 @@
 * [2023-11-21, 07:28:53](https://lobste.rs/s/4xj8py/hacking_canon_imageclass_mf742cdw) - [Hacking the Canon imageCLASS MF742Cdw/MF743Cdw (again)](https://haxx.in/posts/hacking-canon-imageclass/)
 * [2023-11-21, 05:27:54](https://lobste.rs/s/hotum2/rubber_duck_debugging_thank_you_for) - [Rubber duck debugging: \"Thank you for holding my duck\"](https://naml.us/post/thank-you-for-holding-my-duck/)
 * [2023-11-21, 05:09:55](https://lobste.rs/s/iy6ehg/what_s_zig_got_c_rust_go_don_t_have) - [What's Zig got that C, Rust and Go don't have?](https://www.youtube.com/watch?v=5_oqWE9otaE)
-* [2023-11-21, 04:28:55](https://lobste.rs/s/exnhxq/sdns_high_performance_recursive_dns) - [SDNS: high-performance, recursive DNS resolver server with DNSSEC support](https://sdns.dev/)
 * [2023-11-21, 04:06:45](https://lobste.rs/s/xpg31r/i_won_t_use_semver_patch_versions_anymore) - [I won't use SemVer patch versions anymore (2016)](https://staltz.com/i-wont-use-semver-patch-versions-anymore.html)
 * [2023-11-21, 02:49:36](https://lobste.rs/s/dlvazf/75_software_engineers_faced_retaliation) - [75% of Software Engineers Faced Retaliation Last Time They Reported Wrongdoing](https://www.engprax.com/post/75-of-software-engineers-faced-retaliation-last-time-they-report-wrongdoing)
 * [2023-11-20, 23:48:27](https://lobste.rs/s/em7pnh/object_success_now_available) - [\"Object Success\" now available](https://bertrandmeyer.com/2023/03/24/object-success-now-available/)

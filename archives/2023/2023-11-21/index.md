@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 17:49:57](https://lobste.rs/s/ispaqp/stage_text_adventure_game_engine) - [Stage: Text Adventure Game Engine](https://hellomouse.net/stage/)
 * [2023-11-21, 17:05:14](https://lobste.rs/s/hdxdox/attribution_armored_code) - [Attribution armored code](https://joeyh.name/blog/entry/attribution_armored_code/)
 * [2023-11-21, 15:51:43](https://lobste.rs/s/k8knw4/two_kinds_threads_pools_why_you_need_both) - [Two kinds of threads pools, and why you need both](https://pythonspeed.com/articles/two-thread-pools/)
 * [2023-11-21, 14:15:30](https://lobste.rs/s/otm1xz/linearizability_versus) - [Linearizability versus Serializability (2014)](http://www.bailis.org/blog/linearizability-versus-serializability/)
