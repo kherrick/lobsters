@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-21, 02:49:36](https://lobste.rs/s/dlvazf/75_software_engineers_faced_retaliation) - [75% of Software Engineers Faced Retaliation Last Time They Reported Wrongdoing](https://www.engprax.com/post/75-of-software-engineers-faced-retaliation-last-time-they-report-wrongdoing)
 * [2023-11-20, 23:48:27](https://lobste.rs/s/em7pnh/object_success_now_available) - [\"Object Success\" now available](https://bertrandmeyer.com/2023/03/24/object-success-now-available/)
 * [2023-11-20, 21:20:48](https://lobste.rs/s/mhjkj6/announcement_freebsd_14_0_release) - [Announcement of FreeBSD 14.0-RELEASE](https://freebsd.org/releases/14.0R/announce/)
 * [2023-11-20, 21:14:17](https://lobste.rs/s/ktdhkq/simple_suggestions_using_popcount) - [Simple suggestions using popcount](http://0x80.pl/notesen/2023-11-20-popcount-suggestions.html)
@@ -15,7 +16,6 @@
 * [2023-11-20, 11:19:34](https://lobste.rs/s/lskhwr/roc_programming_language) - [The Roc Programming Language](https://roc-lang.org)
 * [2023-11-20, 10:14:45](https://lobste.rs/s/yw4w6j/close_encounter_with_false_sharing) - [A close encounter with false sharing](https://morestina.net/blog/1976/a-close-encounter-with-false-sharing)
 * [2023-11-20, 10:00:49](https://lobste.rs/s/0vntay/buildnodemodules_experiment_improving) - [buildNodeModules: An experiment in improving node packaging for nix](https://github.com/adisbladis/buildNodeModules)
-* [2023-11-20, 08:46:30](https://lobste.rs/s/swa7yd/graphcast_ai_model_for_faster_more) - [GraphCast: AI model for faster and more accurate global weather forecasting](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)
 * [2023-11-20, 05:49:07](https://lobste.rs/s/y9vjer/italic_text_alacritty_tmux_neovim) - [Italic text in Alacritty, tmux, and Neovim](https://michenriksen.com/posts/italic-text-in-alacritty-tmux-neovim/)
 * [2023-11-19, 23:43:14](https://lobste.rs/s/yav1ky/those_who_have_maintained_forks_oss_at) - [Those who have maintained forks of OSS at work, what was your experience like?](https://lobste.rs/s/yav1ky/those_who_have_maintained_forks_oss_at)
 * [2023-11-19, 22:33:43](https://lobste.rs/s/zt78jk/all_circuits_are_busy_now_1990_at_t_long) - [All Circuits are Busy Now: The 1990 AT&T Long Distance Network Collapse](http://users.csc.calpoly.edu/~jdalbey/SWE/Papers/att_collapse)
