@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-21, 07:32:05",
+      "https://lobste.rs/s/kpubdy/tmp_0ut_magazine_003"
+    ],
+    [
+      "tmp.0ut magazine #003",
+      "https://tmpout.sh/3/"
+    ]
+  ],
+  [
+    [
+      "2023-11-21, 07:28:53",
+      "https://lobste.rs/s/4xj8py/hacking_canon_imageclass_mf742cdw"
+    ],
+    [
+      "Hacking the Canon imageCLASS MF742Cdw/MF743Cdw (again)",
+      "https://haxx.in/posts/hacking-canon-imageclass/"
+    ]
+  ],
+  [
+    [
       "2023-11-21, 05:27:54",
       "https://lobste.rs/s/hotum2/rubber_duck_debugging_thank_you_for"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2023-11-20, 16:04:54",
-      "https://lobste.rs/s/igtwwg/troubleshooting_performance_cloud_run"
-    ],
-    [
-      "Troubleshooting performance of a Cloud Run Go app",
-      "https://cloud.google.com/blog/products/serverless/troubleshooting-performance-of-a-cloud-run-go-app"
-    ]
-  ],
-  [
-    [
       "2023-11-20, 15:54:08",
       "https://lobste.rs/s/gju6ox/river_fast_robust_job_queue_for_go"
     ],
@@ -217,16 +227,6 @@
     [
       "Why I Tend Not To Use Content Negotiation",
       "https://htmx.org/essays/why-tend-not-to-use-content-negotiation/"
-    ]
-  ],
-  [
-    [
-      "2023-11-19, 20:34:02",
-      "https://lobste.rs/s/rjtqaw/exploring_postgres_query_plan"
-    ],
-    [
-      "Exploring a Postgres query plan",
-      "https://notes.eatonphil.com/2023-11-19-exploring-a-postgres-query-plan.html"
     ]
   ],
   [
