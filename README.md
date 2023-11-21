@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-21, 22:51:21](https://lobste.rs/s/n4wslr/adaptive_shells_for_efficient_neural) - [Adaptive Shells for Efficient Neural Radiance Field Rendering](https://research.nvidia.com/labs/toronto-ai/adaptive-shells/?ref=aiartweekly)
 * [2023-11-21, 22:32:37](https://lobste.rs/s/cjb9rd/mess_with_dns) - [mess with dns](https://messwithdns.net/)
 * [2023-11-21, 20:42:23](https://lobste.rs/s/xdj6iy/explicit_resource_management_exploring) - [Explicit Resource Management: Exploring JavaScript's and TypeScript's new feature](https://iliazeus.github.io/articles/js-explicit-resource-management-en/)
 * [2023-11-21, 19:59:18](https://lobste.rs/s/qhqui9/red_programming_language) - [Red Programming Language](https://www.red-lang.org)
@@ -22,7 +23,6 @@
 * [2023-11-21, 04:06:45](https://lobste.rs/s/xpg31r/i_won_t_use_semver_patch_versions_anymore) - [I won't use SemVer patch versions anymore (2016)](https://staltz.com/i-wont-use-semver-patch-versions-anymore.html)
 * [2023-11-20, 21:20:48](https://lobste.rs/s/mhjkj6/announcement_freebsd_14_0_release) - [Announcement of FreeBSD 14.0-RELEASE](https://freebsd.org/releases/14.0R/announce/)
 * [2023-11-20, 19:28:23](https://lobste.rs/s/l4bkk9/making_e_paper_picture_frame) - [Making an E-Paper Picture Frame](https://wolfgang-ziegler.com/blog/ink-display)
-* [2023-11-20, 15:54:08](https://lobste.rs/s/gju6ox/river_fast_robust_job_queue_for_go) - [River: a Fast, Robust Job Queue for Go + Postgres](https://brandur.org/river)
 * [2023-11-20, 14:10:04](https://lobste.rs/s/ns3pme/one_liners_python_edition) - [One Liners Python Edition](https://muhammadraza.me/2023/python-oneliners/)
 * [2023-11-20, 11:19:34](https://lobste.rs/s/lskhwr/roc_programming_language) - [The Roc Programming Language](https://roc-lang.org)
 
