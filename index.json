@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2023-11-21, 04:28:55",
+      "https://lobste.rs/s/exnhxq/sdns_high_performance_recursive_dns"
+    ],
+    [
+      "SDNS: high-performance, recursive DNS resolver server with DNSSEC support",
+      "https://sdns.dev/"
+    ]
+  ],
+  [
+    [
       "2023-11-21, 04:06:45",
       "https://lobste.rs/s/xpg31r/i_won_t_use_semver_patch_versions_anymore"
     ],
@@ -167,16 +177,6 @@
     [
       "Making an E-Paper Picture Frame",
       "https://wolfgang-ziegler.com/blog/ink-display"
-    ]
-  ],
-  [
-    [
-      "2023-11-20, 17:25:03",
-      "https://lobste.rs/s/iqbelv/unlocking_idempotency_with_retroactive"
-    ],
-    [
-      "Unlocking Idempotency with Retroactive Tombstones",
-      "https://www.warpstream.com/blog/unlocking-idempotency-with-retroactive-tombstones"
     ]
   ],
   [
