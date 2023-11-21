@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-21, 22:51:21",
+      "https://lobste.rs/s/n4wslr/adaptive_shells_for_efficient_neural"
+    ],
+    [
+      "Adaptive Shells for Efficient Neural Radiance Field Rendering",
+      "https://research.nvidia.com/labs/toronto-ai/adaptive-shells/?ref=aiartweekly"
+    ]
+  ],
+  [
+    [
       "2023-11-21, 22:32:37",
       "https://lobste.rs/s/cjb9rd/mess_with_dns"
     ],
@@ -217,16 +227,6 @@
     [
       "Making an E-Paper Picture Frame",
       "https://wolfgang-ziegler.com/blog/ink-display"
-    ]
-  ],
-  [
-    [
-      "2023-11-20, 15:54:08",
-      "https://lobste.rs/s/gju6ox/river_fast_robust_job_queue_for_go"
-    ],
-    [
-      "River: a Fast, Robust Job Queue for Go + Postgres",
-      "https://brandur.org/river"
     ]
   ],
   [
