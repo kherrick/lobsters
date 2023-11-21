@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-21](index.md)
 
+* [2023-11-21, 19:37:11](https://lobste.rs/s/nn77pv/fitting_forth_512_bytes_2021) - [Fitting a Forth in 512 bytes (2021)](https://compilercrim.es/bootstrap/miniforth/)
 * [2023-11-21, 18:21:12](https://lobste.rs/s/aad8kf/url_parser_performance) - [URL parser performance](https://daniel.haxx.se/blog/2023/11/21/url-parser-performance/)
 * [2023-11-21, 18:17:42](https://lobste.rs/s/pg0vlk/embark_dynamic_documents_for_making) - [Embark: Dynamic documents for making plans](https://www.inkandswitch.com/embark/)
 * [2023-11-21, 18:04:59](https://lobste.rs/s/ecqm15/fuzzing_duperemove) - [fuzzing duperemove](https://trofi.github.io/posts/305-fuzzing-duperemove.html)

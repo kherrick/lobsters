@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-21, 19:37:11](https://lobste.rs/s/nn77pv/fitting_forth_512_bytes_2021) - [Fitting a Forth in 512 bytes (2021)](https://compilercrim.es/bootstrap/miniforth/)
 * [2023-11-21, 18:21:12](https://lobste.rs/s/aad8kf/url_parser_performance) - [URL parser performance](https://daniel.haxx.se/blog/2023/11/21/url-parser-performance/)
 * [2023-11-21, 18:17:42](https://lobste.rs/s/pg0vlk/embark_dynamic_documents_for_making) - [Embark: Dynamic documents for making plans](https://www.inkandswitch.com/embark/)
 * [2023-11-21, 18:04:59](https://lobste.rs/s/ecqm15/fuzzing_duperemove) - [fuzzing duperemove](https://trofi.github.io/posts/305-fuzzing-duperemove.html)
@@ -20,7 +21,6 @@
 * [2023-11-21, 04:06:45](https://lobste.rs/s/xpg31r/i_won_t_use_semver_patch_versions_anymore) - [I won't use SemVer patch versions anymore (2016)](https://staltz.com/i-wont-use-semver-patch-versions-anymore.html)
 * [2023-11-20, 23:48:27](https://lobste.rs/s/em7pnh/object_success_now_available) - [\"Object Success\" now available](https://bertrandmeyer.com/2023/03/24/object-success-now-available/)
 * [2023-11-20, 21:20:48](https://lobste.rs/s/mhjkj6/announcement_freebsd_14_0_release) - [Announcement of FreeBSD 14.0-RELEASE](https://freebsd.org/releases/14.0R/announce/)
-* [2023-11-20, 21:14:17](https://lobste.rs/s/ktdhkq/simple_suggestions_using_popcount) - [Simple suggestions using popcount](http://0x80.pl/notesen/2023-11-20-popcount-suggestions.html)
 * [2023-11-20, 19:28:23](https://lobste.rs/s/l4bkk9/making_e_paper_picture_frame) - [Making an E-Paper Picture Frame](https://wolfgang-ziegler.com/blog/ink-display)
 * [2023-11-20, 15:54:08](https://lobste.rs/s/gju6ox/river_fast_robust_job_queue_for_go) - [River: a Fast, Robust Job Queue for Go + Postgres](https://brandur.org/river)
 * [2023-11-20, 14:10:04](https://lobste.rs/s/ns3pme/one_liners_python_edition) - [One Liners Python Edition](https://muhammadraza.me/2023/python-oneliners/)
