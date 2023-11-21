@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-21, 04:28:55",
+      "https://lobste.rs/s/exnhxq/sdns_high_performance_recursive_dns"
+    ],
+    [
+      "SDNS: high-performance, recursive DNS resolver server with DNSSEC support",
+      "https://sdns.dev/"
+    ]
+  ],
+  [
+    [
       "2023-11-21, 04:06:45",
       "https://lobste.rs/s/xpg31r/i_won_t_use_semver_patch_versions_anymore"
     ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2023-11-20, 15:11:17",
-      "https://lobste.rs/s/ntajec/nand_error_correction_code_linux_kernel"
-    ],
-    [
-      "NAND Error-correction Code — The Linux Kernel  documentation (2008)",
-      "https://docs.kernel.org/driver-api/mtd/nand_ecc.html"
-    ]
-  ],
-  [
-    [
       "2023-11-20, 14:10:04",
       "https://lobste.rs/s/ns3pme/one_liners_python_edition"
     ],
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-11-20, 08:46:30",
+      "https://lobste.rs/s/swa7yd/graphcast_ai_model_for_faster_more"
+    ],
+    [
+      "GraphCast: AI model for faster and more accurate global weather forecasting",
+      "https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/"
+    ]
+  ],
+  [
+    [
       "2023-11-20, 05:49:07",
       "https://lobste.rs/s/y9vjer/italic_text_alacritty_tmux_neovim"
     ],
@@ -217,16 +227,6 @@
     [
       "Exploring a Postgres query plan",
       "https://notes.eatonphil.com/2023-11-19-exploring-a-postgres-query-plan.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-19, 16:28:30",
-      "https://lobste.rs/s/6sbkpi/function_interposition_rust_with"
-    ],
-    [
-      "Function interposition in Rust with upgrayedd",
-      "https://blog.yossarian.net/2023/11/19/Function-interposition-in-Rust-with-upgrayedd"
     ]
   ],
   [
