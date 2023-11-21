@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-21, 18:21:12](https://lobste.rs/s/aad8kf/url_parser_performance) - [URL parser performance](https://daniel.haxx.se/blog/2023/11/21/url-parser-performance/)
 * [2023-11-21, 18:17:42](https://lobste.rs/s/pg0vlk/embark_dynamic_documents_for_making) - [Embark: Dynamic documents for making plans](https://www.inkandswitch.com/embark/)
 * [2023-11-21, 18:04:59](https://lobste.rs/s/ecqm15/fuzzing_duperemove) - [fuzzing duperemove](https://trofi.github.io/posts/305-fuzzing-duperemove.html)
 * [2023-11-21, 18:02:45](https://lobste.rs/s/6avbuj/spreadsheets_small_software) - [Spreadsheets and Small Software](https://blog.nilenso.com/blog/2023/11/10/spreadsheets-and-small-software/)
@@ -14,7 +15,6 @@
 * [2023-11-21, 08:13:12](https://lobste.rs/s/dmabyw/julia_as_unifying_end_end_workflow) - [Julia as a unifying end-to-end workflow language on the Frontier exascale system (Sep. 2023)](https://arxiv.org/abs/2309.10292)
 * [2023-11-21, 08:00:23](https://lobste.rs/s/0hga6k/rfc_9498_gnu_name_system) - [RFC 9498: The GNU Name System](https://lists.gnu.org/archive/html/info-gnunet/2023-11/msg00000.html)
 * [2023-11-21, 07:32:05](https://lobste.rs/s/kpubdy/tmp_0ut_magazine_003) - [tmp.0ut magazine #003](https://tmpout.sh/3/)
-* [2023-11-21, 07:28:53](https://lobste.rs/s/4xj8py/hacking_canon_imageclass_mf742cdw) - [Hacking the Canon imageCLASS MF742Cdw/MF743Cdw (again)](https://haxx.in/posts/hacking-canon-imageclass/)
 * [2023-11-21, 05:27:54](https://lobste.rs/s/hotum2/rubber_duck_debugging_thank_you_for) - [Rubber duck debugging: \"Thank you for holding my duck\"](https://naml.us/post/thank-you-for-holding-my-duck/)
 * [2023-11-21, 05:09:55](https://lobste.rs/s/iy6ehg/what_s_zig_got_c_rust_go_don_t_have) - [What's Zig got that C, Rust and Go don't have?](https://www.youtube.com/watch?v=5_oqWE9otaE)
 * [2023-11-21, 04:06:45](https://lobste.rs/s/xpg31r/i_won_t_use_semver_patch_versions_anymore) - [I won't use SemVer patch versions anymore (2016)](https://staltz.com/i-wont-use-semver-patch-versions-anymore.html)
