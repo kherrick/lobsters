@@ -2,6 +2,7 @@
 
 * [2023-11-22, 08:15:02](https://lobste.rs/s/caybyd/litterbox_analysis_scratch_projects) - [Litterbox - Analysis of Scratch projects](https://scratch.fim.uni-passau.de/litterbox/about.php)
 * [2023-11-22, 06:09:29](https://lobste.rs/s/vwy3pg/zork_for_pdp_11_rt_11_recreated) - [Zork for the PDP-11 / RT-11 recreated](https://virtuallyfun.com/2023/11/21/zork-for-the-pdp-11-rt-11-recreated/)
+* [2023-11-22, 04:28:43](https://lobste.rs/s/tkliwp/adding_new_teller_queuing_theory_example) - [Adding a new teller | queuing theory example (2008)](https://www.johndcook.com/blog/2008/10/21/what-happens-when-you-add-a-new-teller/)
 * [2023-11-22, 02:35:04](https://lobste.rs/s/c3dugv/anastasis) - [Anastasis](https://www.gnu.org/software/anastasis)
 * [2023-11-22, 01:32:37](https://lobste.rs/s/qdrfmz/windows_95_team_bought_1_every_retail_pc) - [The Windows 95 team bought 1 of every retail PC program they could get](https://www.youtube.com/watch?v=6m_Im7J9Iaw)
 * [2023-11-22, 01:27:52](https://lobste.rs/s/vgdlqf/exponentially_faster_language) - [Exponentially Faster Language Modelling](https://arxiv.org/abs/2311.10770)
@@ -14,7 +15,6 @@
 * [2023-11-21, 19:37:11](https://lobste.rs/s/nn77pv/fitting_forth_512_bytes_2021) - [Fitting a Forth in 512 bytes (2021)](https://compilercrim.es/bootstrap/miniforth/)
 * [2023-11-21, 18:21:12](https://lobste.rs/s/aad8kf/url_parser_performance) - [URL parser performance](https://daniel.haxx.se/blog/2023/11/21/url-parser-performance/)
 * [2023-11-21, 18:02:45](https://lobste.rs/s/6avbuj/spreadsheets_small_software) - [Spreadsheets and Small Software](https://blog.nilenso.com/blog/2023/11/10/spreadsheets-and-small-software/)
-* [2023-11-21, 17:49:57](https://lobste.rs/s/ispaqp/stage_text_adventure_game_engine) - [Stage: Text Adventure Game Engine](https://hellomouse.net/stage/)
 * [2023-11-21, 17:05:14](https://lobste.rs/s/hdxdox/attribution_armored_code) - [Attribution armored code](https://joeyh.name/blog/entry/attribution_armored_code/)
 * [2023-11-21, 15:51:43](https://lobste.rs/s/k8knw4/two_kinds_threads_pools_why_you_need_both) - [Two kinds of threads pools, and why you need both](https://pythonspeed.com/articles/two-thread-pools/)
 * [2023-11-21, 13:07:14](https://lobste.rs/s/pfigpn/neighborhood_infinity_three) - [A Neighborhood of Infinity: The Three Projections of Doctor Futamura](http://blog.sigfpe.com/2009/05/three-projections-of-doctor-futamura.html)
