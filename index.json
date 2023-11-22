@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-22, 16:47:51",
+      "https://lobste.rs/s/kfy17h/interactive_guide_css_grid"
+    ],
+    [
+      "An Interactive Guide to CSS Grid",
+      "https://www.joshwcomeau.com/css/interactive-guide-to-grid/"
+    ]
+  ],
+  [
+    [
       "2023-11-22, 16:36:16",
       "https://lobste.rs/s/yp9ulv/did_you_know_import_maps_can_be_rendered"
     ],
@@ -107,16 +117,6 @@
     [
       "mess with dns",
       "https://messwithdns.net/"
-    ]
-  ],
-  [
-    [
-      "2023-11-21, 20:42:23",
-      "https://lobste.rs/s/xdj6iy/explicit_resource_management_exploring"
-    ],
-    [
-      "Explicit Resource Management: Exploring JavaScript's and TypeScript's new feature",
-      "https://iliazeus.github.io/articles/js-explicit-resource-management-en/"
     ]
   ],
   [
