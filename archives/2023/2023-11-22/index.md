@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-22](index.md)
 
+* [2023-11-22, 04:28:43](https://lobste.rs/s/tkliwp/adding_new_teller_queuing_theory_example) - [Adding a new teller | queuing theory example (2008)](https://www.johndcook.com/blog/2008/10/21/what-happens-when-you-add-a-new-teller/)
 * [2023-11-22, 02:35:04](https://lobste.rs/s/c3dugv/anastasis) - [Anastasis](https://www.gnu.org/software/anastasis)
 * [2023-11-22, 01:32:37](https://lobste.rs/s/qdrfmz/windows_95_team_bought_1_every_retail_pc) - [The Windows 95 team bought 1 of every retail PC program they could get](https://www.youtube.com/watch?v=6m_Im7J9Iaw)
 * [2023-11-22, 01:32:37](https://lobste.rs/s/qdrfmz/raymond_chen_on_time_windows_95_team) - [Raymond Chen on the time the Windows 95 team bought 1 of every retail PC program they could get](https://www.youtube.com/watch?v=6m_Im7J9Iaw)
