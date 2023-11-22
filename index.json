@@ -1,22 +1,32 @@
 [
   [
     [
+      "2023-11-22, 01:32:37",
+      "https://lobste.rs/s/qdrfmz/raymond_chen_on_time_windows_95_team"
+    ],
+    [
+      "Raymond Chen on the time the Windows 95 team bought 1 of every retail PC program they could get",
+      "https://www.youtube.com/watch?v=6m_Im7J9Iaw"
+    ]
+  ],
+  [
+    [
+      "2023-11-22, 01:27:52",
+      "https://lobste.rs/s/vgdlqf/exponentially_faster_language"
+    ],
+    [
+      "Exponentially Faster Language Modelling",
+      "https://arxiv.org/abs/2311.10770"
+    ]
+  ],
+  [
+    [
       "2023-11-22, 01:04:18",
       "https://lobste.rs/s/njml3j/yoyozo_how_i_made_playdate_game_39kb"
     ],
     [
       "YOYOZO (or, how I made a Playdate game in 39KB)",
       "https://blog.gingerbeardman.com/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/"
-    ]
-  ],
-  [
-    [
-      "2023-11-21, 23:54:47",
-      "https://lobste.rs/s/y36kie/for_want_dollar"
-    ],
-    [
-      "For want of a dollar",
-      "https://surfingcomplexity.blog/2023/09/30/for-want-of-a-dollar/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Announcement of FreeBSD 14.0-RELEASE",
       "https://freebsd.org/releases/14.0R/announce/"
-    ]
-  ],
-  [
-    [
-      "2023-11-20, 14:10:04",
-      "https://lobste.rs/s/ns3pme/one_liners_python_edition"
-    ],
-    [
-      "One Liners Python Edition",
-      "https://muhammadraza.me/2023/python-oneliners/"
     ]
   ],
   [
