@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-22, 01:32:37](https://lobste.rs/s/qdrfmz/raymond_chen_on_time_windows_95_team) - [Raymond Chen on the time the Windows 95 team bought 1 of every retail PC program they could get](https://www.youtube.com/watch?v=6m_Im7J9Iaw)
+* [2023-11-22, 01:27:52](https://lobste.rs/s/vgdlqf/exponentially_faster_language) - [Exponentially Faster Language Modelling](https://arxiv.org/abs/2311.10770)
 * [2023-11-22, 01:04:18](https://lobste.rs/s/njml3j/yoyozo_how_i_made_playdate_game_39kb) - [YOYOZO (or, how I made a Playdate game in 39KB)](https://blog.gingerbeardman.com/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/)
-* [2023-11-21, 23:54:47](https://lobste.rs/s/y36kie/for_want_dollar) - [For want of a dollar](https://surfingcomplexity.blog/2023/09/30/for-want-of-a-dollar/)
 * [2023-11-21, 23:38:30](https://lobste.rs/s/tz51it/how_i_kind_killed_mercurial_at_mozilla) - [How I (kind of) killed Mercurial at Mozilla](https://glandium.org/blog/?p=4346)
 * [2023-11-21, 22:52:41](https://lobste.rs/s/kijwqe/c_guidelines) - [C++ Guidelines](https://euroquis.nl//blabla/2023/11/21/guidelines.html)
 * [2023-11-21, 22:32:37](https://lobste.rs/s/cjb9rd/mess_with_dns) - [mess with dns](https://messwithdns.net/)
@@ -23,7 +24,6 @@
 * [2023-11-21, 05:09:55](https://lobste.rs/s/iy6ehg/what_s_zig_got_c_rust_go_don_t_have) - [What's Zig got that C, Rust and Go don't have?](https://www.youtube.com/watch?v=5_oqWE9otaE)
 * [2023-11-21, 04:06:45](https://lobste.rs/s/xpg31r/i_won_t_use_semver_patch_versions_anymore) - [I won't use SemVer patch versions anymore (2016)](https://staltz.com/i-wont-use-semver-patch-versions-anymore.html)
 * [2023-11-20, 21:20:48](https://lobste.rs/s/mhjkj6/announcement_freebsd_14_0_release) - [Announcement of FreeBSD 14.0-RELEASE](https://freebsd.org/releases/14.0R/announce/)
-* [2023-11-20, 14:10:04](https://lobste.rs/s/ns3pme/one_liners_python_edition) - [One Liners Python Edition](https://muhammadraza.me/2023/python-oneliners/)
 * [2023-11-20, 11:19:34](https://lobste.rs/s/lskhwr/roc_programming_language) - [The Roc Programming Language](https://roc-lang.org)
 
 ## [Archives](archives/index.md)
