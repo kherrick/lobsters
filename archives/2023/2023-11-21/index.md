@@ -26,6 +26,7 @@
 * [2023-11-21, 09:34:18](https://lobste.rs/s/vrwyhz/interactive_common_lisp_development) - [Interactive Common Lisp development](https://www.n16f.net/blog/interactive-common-lisp-development/)
 * [2023-11-21, 08:47:54](https://lobste.rs/s/dh3kjl/rfc_9498_gnu_name_system) - [RFC 9498: The GNU Name System](https://www.rfc-editor.org/rfc/rfc9498.html)
 * [2023-11-21, 08:30:26](https://lobste.rs/s/et3ivs/zig_may_pass_everything_by_reference) - [Zig May Pass Everything By Reference](https://www.1a-insec.net/blog/25-zig-reference-semantics/)
+* [2023-11-21, 08:30:26](https://lobste.rs/s/et3ivs/zig_may_pass_anything_by_reference) - [Zig May Pass Anything By Reference](https://www.1a-insec.net/blog/25-zig-reference-semantics/)
 * [2023-11-21, 08:13:12](https://lobste.rs/s/dmabyw/julia_as_unifying_end_end_workflow) - [Julia as a unifying end-to-end workflow language on the Frontier exascale system (Sep. 2023)](https://arxiv.org/abs/2309.10292)
 * [2023-11-21, 08:00:23](https://lobste.rs/s/0hga6k/rfc_9498_gnu_name_system) - [RFC 9498: The GNU Name System](https://lists.gnu.org/archive/html/info-gnunet/2023-11/msg00000.html)
 * [2023-11-21, 07:32:05](https://lobste.rs/s/kpubdy/tmp_0ut_magazine_003) - [tmp.0ut magazine #003](https://tmpout.sh/3/)

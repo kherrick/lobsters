@@ -19,7 +19,7 @@
 * [2023-11-21, 15:51:43](https://lobste.rs/s/k8knw4/two_kinds_threads_pools_why_you_need_both) - [Two kinds of threads pools, and why you need both](https://pythonspeed.com/articles/two-thread-pools/)
 * [2023-11-21, 13:07:14](https://lobste.rs/s/pfigpn/neighborhood_infinity_three) - [A Neighborhood of Infinity: The Three Projections of Doctor Futamura](http://blog.sigfpe.com/2009/05/three-projections-of-doctor-futamura.html)
 * [2023-11-21, 11:31:59](https://lobste.rs/s/jtk6jv/various_things_metapost) - [Various things in MetaPost](https://habr.com/en/articles/454376/)
-* [2023-11-21, 08:30:26](https://lobste.rs/s/et3ivs/zig_may_pass_everything_by_reference) - [Zig May Pass Everything By Reference](https://www.1a-insec.net/blog/25-zig-reference-semantics/)
+* [2023-11-21, 08:30:26](https://lobste.rs/s/et3ivs/zig_may_pass_anything_by_reference) - [Zig May Pass Anything By Reference](https://www.1a-insec.net/blog/25-zig-reference-semantics/)
 * [2023-11-21, 08:00:23](https://lobste.rs/s/0hga6k/rfc_9498_gnu_name_system) - [RFC 9498: The GNU Name System](https://lists.gnu.org/archive/html/info-gnunet/2023-11/msg00000.html)
 * [2023-11-21, 07:32:05](https://lobste.rs/s/kpubdy/tmp_0ut_magazine_003) - [tmp.0ut magazine #003](https://tmpout.sh/3/)
 * [2023-11-21, 05:27:54](https://lobste.rs/s/hotum2/rubber_duck_debugging_thank_you_for) - [Rubber duck debugging: \"Thank you for holding my duck\"](https://naml.us/post/thank-you-for-holding-my-duck/)
