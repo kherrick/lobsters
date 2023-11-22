@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-22](index.md)
 
+* [2023-11-22, 20:40:44](https://lobste.rs/s/rw8mwg/retries_interactive_study_common_retry) - [Retries – An interactive study of common retry methods](https://encore.dev/blog/retries)
+* [2023-11-22, 20:39:47](https://lobste.rs/s/mcdzsi/email_obfuscation_what_still_works_2023) - [Email obfuscation: What still works in 2023?](https://spencermortensen.com/articles/email-obfuscation/)
 * [2023-11-22, 19:25:32](https://lobste.rs/s/oolcuy/who_s_watching_watchdog) - [Who's watching the watchdog?](https://frantic.im/whos-watching-the-watchdog)
 * [2023-11-22, 16:47:51](https://lobste.rs/s/kfy17h/interactive_guide_css_grid) - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
 * [2023-11-22, 16:36:16](https://lobste.rs/s/yp9ulv/did_you_know_import_maps_can_be_rendered) - [Did you know that import maps can be rendered client-side?](https://www.baldurbjarnason.com/2023/dynamic-import-map/)
