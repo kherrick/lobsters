@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-22, 02:35:04",
+      "https://lobste.rs/s/c3dugv/anastasis"
+    ],
+    [
+      "Anastasis",
+      "https://www.gnu.org/software/anastasis"
+    ]
+  ],
+  [
+    [
       "2023-11-22, 01:32:37",
       "https://lobste.rs/s/qdrfmz/windows_95_team_bought_1_every_retail_pc"
     ],
@@ -97,16 +107,6 @@
     [
       "URL parser performance",
       "https://daniel.haxx.se/blog/2023/11/21/url-parser-performance/"
-    ]
-  ],
-  [
-    [
-      "2023-11-21, 18:04:59",
-      "https://lobste.rs/s/ecqm15/fuzzing_duperemove"
-    ],
-    [
-      "fuzzing duperemove",
-      "https://trofi.github.io/posts/305-fuzzing-duperemove.html"
     ]
   ],
   [
