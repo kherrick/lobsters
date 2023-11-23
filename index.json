@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-23, 15:58:06",
+      "https://lobste.rs/s/t2hcp6/qt_creator_12_released"
+    ],
+    [
+      "Qt Creator 12 released",
+      "https://www.qt.io/blog/qt-creator-12-released"
+    ]
+  ],
+  [
+    [
+      "2023-11-23, 15:55:37",
+      "https://lobste.rs/s/xpc1sj/openssl_3_2_released"
+    ],
+    [
+      "OpenSSL 3.2 released",
+      "https://www.openssl.org/news/openssl-3.2-notes.html"
+    ]
+  ],
+  [
+    [
       "2023-11-23, 15:39:05",
       "https://lobste.rs/s/jsgmis/separating_debug_symbols_from"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-11-21, 22:32:37",
-      "https://lobste.rs/s/cjb9rd/mess_with_dns"
-    ],
-    [
-      "mess with dns",
-      "https://messwithdns.net/"
-    ]
-  ],
-  [
-    [
       "2023-11-21, 19:59:18",
       "https://lobste.rs/s/qhqui9/red_programming_language"
     ],
@@ -227,16 +237,6 @@
     [
       "URL parser performance",
       "https://daniel.haxx.se/blog/2023/11/21/url-parser-performance/"
-    ]
-  ],
-  [
-    [
-      "2023-11-21, 15:51:43",
-      "https://lobste.rs/s/k8knw4/two_kinds_threads_pools_why_you_need_both"
-    ],
-    [
-      "Two kinds of threads pools, and why you need both",
-      "https://pythonspeed.com/articles/two-thread-pools/"
     ]
   ],
   [
