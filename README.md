@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-23, 05:32:56](https://lobste.rs/s/irexg6/bug_bounties_tips_from_triager) - [Bug Bounties Tips from the Triager](https://mike-sheward.medium.com/bug-bounties-tips-from-the-triager-7cb092efd22a)
 * [2023-11-23, 04:22:21](https://lobste.rs/s/ctifwl/how_how_not_design_rest_apis) - [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-(and-how-not-to)-design-REST-APIs)
 * [2023-11-23, 02:06:03](https://lobste.rs/s/oxncnr/all_infocom_interpreter_code) - [All that Infocom interpreter code](https://blog.zarfhome.com/2023/11/infocom-interpreters)
 * [2023-11-23, 01:20:06](https://lobste.rs/s/w0uqrh/there_are_no_strings_on_me) - [There are no strings on me](https://www.scattered-thoughts.net/writing/there-are-no-strings-on-me/)
@@ -16,7 +17,6 @@
 * [2023-11-22, 01:27:52](https://lobste.rs/s/vgdlqf/exponentially_faster_language) - [Exponentially Faster Language Modelling](https://arxiv.org/abs/2311.10770)
 * [2023-11-22, 01:04:18](https://lobste.rs/s/njml3j/yoyozo_how_i_made_playdate_game_39kb) - [YOYOZO (or, how I made a Playdate game in 39KB)](https://blog.gingerbeardman.com/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/)
 * [2023-11-21, 23:38:30](https://lobste.rs/s/tz51it/how_i_kind_killed_mercurial_at_mozilla) - [How I (kind of) killed Mercurial at Mozilla](https://glandium.org/blog/?p=4346)
-* [2023-11-21, 22:52:41](https://lobste.rs/s/kijwqe/c_guidelines) - [C++ Guidelines](https://euroquis.nl//blabla/2023/11/21/guidelines.html)
 * [2023-11-21, 22:32:37](https://lobste.rs/s/cjb9rd/mess_with_dns) - [mess with dns](https://messwithdns.net/)
 * [2023-11-21, 19:59:18](https://lobste.rs/s/qhqui9/red_programming_language) - [Red Programming Language](https://www.red-lang.org)
 * [2023-11-21, 18:21:12](https://lobste.rs/s/aad8kf/url_parser_performance) - [URL parser performance](https://daniel.haxx.se/blog/2023/11/21/url-parser-performance/)
