@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-22](index.md)
 
+* [2023-11-22, 23:51:08](https://lobste.rs/s/cstu5p/highlights_from_git_2_43) - [Highlights from Git 2.43](https://github.blog/2023-11-20-highlights-from-git-2-43/)
 * [2023-11-22, 20:40:44](https://lobste.rs/s/rw8mwg/retries_interactive_study_common_retry) - [Retries – An interactive study of common retry methods](https://encore.dev/blog/retries)
 * [2023-11-22, 20:39:47](https://lobste.rs/s/mcdzsi/email_obfuscation_what_still_works_2023) - [Email obfuscation: What still works in 2023?](https://spencermortensen.com/articles/email-obfuscation/)
 * [2023-11-22, 19:25:32](https://lobste.rs/s/oolcuy/who_s_watching_watchdog) - [Who's watching the watchdog?](https://frantic.im/whos-watching-the-watchdog)
