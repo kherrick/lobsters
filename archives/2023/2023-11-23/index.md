@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-23](index.md)
 
+* [2023-11-23, 16:52:54](https://lobste.rs/s/yas0oc/setenv_is_not_thread_safe_c_doesn_t_want_fix) - [Setenv is not Thread Safe and C Doesn't Want to Fix It](https://www.evanjones.ca/setenv-is-not-thread-safe.html)
 * [2023-11-23, 16:38:28](https://lobste.rs/s/c9il1d/there_s_such_thing_as_using_too_many_ifs) - [There's Such a Thing As Using Too Many Ifs (2019)](https://dreith.com/blog/theres-such-a-thing-as-using-too-many-ifs/)
 * [2023-11-23, 15:58:06](https://lobste.rs/s/t2hcp6/qt_creator_12_released) - [Qt Creator 12 released](https://www.qt.io/blog/qt-creator-12-released)
 * [2023-11-23, 15:55:37](https://lobste.rs/s/xpc1sj/openssl_3_2_released) - [OpenSSL 3.2 released](https://www.openssl.org/news/openssl-3.2-notes.html)
