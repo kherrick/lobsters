@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-23, 06:58:17",
+      "https://lobste.rs/s/kb17d5/herbie_find_fix_floating_point_accuracy"
+    ],
+    [
+      "Herbie: Find and fix floating-point accuracy problems",
+      "https://herbie.uwplse.org/"
+    ]
+  ],
+  [
+    [
       "2023-11-23, 05:32:56",
       "https://lobste.rs/s/irexg6/bug_bounties_tips_from_triager"
     ],
@@ -137,16 +147,6 @@
     [
       "The Windows 95 team bought 1 of every retail PC program they could get",
       "https://www.youtube.com/watch?v=6m_Im7J9Iaw"
-    ]
-  ],
-  [
-    [
-      "2023-11-22, 01:27:52",
-      "https://lobste.rs/s/vgdlqf/exponentially_faster_language"
-    ],
-    [
-      "Exponentially Faster Language Modelling",
-      "https://arxiv.org/abs/2311.10770"
     ]
   ],
   [
