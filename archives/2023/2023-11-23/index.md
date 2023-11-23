@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-23](index.md)
 
+* [2023-11-23, 06:58:17](https://lobste.rs/s/kb17d5/herbie_find_fix_floating_point_accuracy) - [Herbie: Find and fix floating-point accuracy problems](https://herbie.uwplse.org/)
 * [2023-11-23, 05:32:56](https://lobste.rs/s/irexg6/bug_bounties_tips_from_triager) - [Bug Bounties Tips from the Triager](https://mike-sheward.medium.com/bug-bounties-tips-from-the-triager-7cb092efd22a)
 * [2023-11-23, 04:22:21](https://lobste.rs/s/ctifwl/how_how_not_design_rest_apis) - [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-(and-how-not-to)-design-REST-APIs)
 * [2023-11-23, 02:06:03](https://lobste.rs/s/oxncnr/all_infocom_interpreter_code) - [All that Infocom interpreter code](https://blog.zarfhome.com/2023/11/infocom-interpreters)
