@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-23, 02:06:03](https://lobste.rs/s/oxncnr/all_infocom_interpreter_code) - [All that Infocom interpreter code](https://blog.zarfhome.com/2023/11/infocom-interpreters)
 * [2023-11-23, 01:20:06](https://lobste.rs/s/w0uqrh/there_are_no_strings_on_me) - [There are no strings on me](https://www.scattered-thoughts.net/writing/there-are-no-strings-on-me/)
 * [2023-11-22, 23:51:08](https://lobste.rs/s/cstu5p/highlights_from_git_2_43) - [Highlights from Git 2.43](https://github.blog/2023-11-20-highlights-from-git-2-43/)
 * [2023-11-22, 20:40:44](https://lobste.rs/s/rw8mwg/retries_interactive_study_common_retry) - [Retries – An interactive study of common retry methods](https://encore.dev/blog/retries)
@@ -23,7 +24,6 @@
 * [2023-11-21, 15:51:43](https://lobste.rs/s/k8knw4/two_kinds_threads_pools_why_you_need_both) - [Two kinds of threads pools, and why you need both](https://pythonspeed.com/articles/two-thread-pools/)
 * [2023-11-21, 08:30:26](https://lobste.rs/s/et3ivs/zig_may_pass_anything_by_reference) - [Zig May Pass Anything By Reference](https://www.1a-insec.net/blog/25-zig-reference-semantics/)
 * [2023-11-21, 08:00:23](https://lobste.rs/s/0hga6k/rfc_9498_gnu_name_system) - [RFC 9498: The GNU Name System](https://lists.gnu.org/archive/html/info-gnunet/2023-11/msg00000.html)
-* [2023-11-21, 05:09:55](https://lobste.rs/s/iy6ehg/what_s_zig_got_c_rust_go_don_t_have) - [What's Zig got that C, Rust and Go don't have?](https://www.youtube.com/watch?v=5_oqWE9otaE)
 * [2023-11-20, 11:19:34](https://lobste.rs/s/lskhwr/roc_programming_language) - [The Roc Programming Language](https://roc-lang.org)
 
 ## [Archives](archives/index.md)
