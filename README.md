@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-23, 12:57:54](https://lobste.rs/s/8doqmk/meow5_concatenative_assembly) - [Meow5 Concatenative Assembly: The Conclusion](http://ratfactor.com/meow5/done)
 * [2023-11-23, 10:18:42](https://lobste.rs/s/o3rclw/hashed_hierarchical_timing_wheels_data) - [Hashed and Hierarchical Timing Wheels: Data Structures for the Efficient Implementation of a Timer Facility](https://blog.acolyer.org/2015/11/23/hashed-and-hierarchical-timing-wheels/)
 * [2023-11-23, 10:07:55](https://lobste.rs/s/wd4d0f/creating_macos_app_with_haskell_swift) - [Creating a macOS app with Haskell and Swift](https://alt-romes.github.io/posts/2023-11-10-creating-a-macos-app-with-haskell-and-swift.html)
 * [2023-11-23, 06:58:17](https://lobste.rs/s/kb17d5/herbie_find_fix_floating_point_accuracy) - [Herbie: Find and fix floating-point accuracy problems](https://herbie.uwplse.org/)
@@ -14,7 +15,6 @@
 * [2023-11-22, 16:47:51](https://lobste.rs/s/kfy17h/interactive_guide_css_grid) - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
 * [2023-11-22, 16:36:16](https://lobste.rs/s/yp9ulv/did_you_know_import_maps_can_be_rendered) - [Did you know that import maps can be rendered client-side?](https://www.baldurbjarnason.com/2023/dynamic-import-map/)
 * [2023-11-22, 16:12:24](https://lobste.rs/s/wshnlx/new_features_fortran_2023) - [New features in Fortran 2023](https://fortran.bcs.org/2022/AGM22_Reid.pdf)
-* [2023-11-22, 08:15:02](https://lobste.rs/s/caybyd/litterbox_analysis_scratch_projects) - [Litterbox - Analysis of Scratch projects](https://scratch.fim.uni-passau.de/litterbox/about.php)
 * [2023-11-22, 06:09:29](https://lobste.rs/s/vwy3pg/zork_for_pdp_11_rt_11_recreated) - [Zork for the PDP-11 / RT-11 recreated](https://virtuallyfun.com/2023/11/21/zork-for-the-pdp-11-rt-11-recreated/)
 * [2023-11-22, 01:32:37](https://lobste.rs/s/qdrfmz/windows_95_team_bought_1_every_retail_pc) - [The Windows 95 team bought 1 of every retail PC program they could get](https://www.youtube.com/watch?v=6m_Im7J9Iaw)
 * [2023-11-22, 01:04:18](https://lobste.rs/s/njml3j/yoyozo_how_i_made_playdate_game_39kb) - [YOYOZO (or, how I made a Playdate game in 39KB)](https://blog.gingerbeardman.com/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/)
