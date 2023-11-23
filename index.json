@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-23, 05:32:56",
+      "https://lobste.rs/s/irexg6/bug_bounties_tips_from_triager"
+    ],
+    [
+      "Bug Bounties Tips from the Triager",
+      "https://mike-sheward.medium.com/bug-bounties-tips-from-the-triager-7cb092efd22a"
+    ]
+  ],
+  [
+    [
       "2023-11-23, 04:22:21",
       "https://lobste.rs/s/ctifwl/how_how_not_design_rest_apis"
     ],
@@ -157,16 +167,6 @@
     [
       "How I (kind of) killed Mercurial at Mozilla",
       "https://glandium.org/blog/?p=4346"
-    ]
-  ],
-  [
-    [
-      "2023-11-21, 22:52:41",
-      "https://lobste.rs/s/kijwqe/c_guidelines"
-    ],
-    [
-      "C++ Guidelines",
-      "https://euroquis.nl//blabla/2023/11/21/guidelines.html"
     ]
   ],
   [
