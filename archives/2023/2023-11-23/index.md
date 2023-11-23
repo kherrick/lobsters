@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-23](index.md)
 
+* [2023-11-23, 10:07:55](https://lobste.rs/s/wd4d0f/creating_macos_app_with_haskell_swift) - [Creating a macOS app with Haskell and Swift](https://alt-romes.github.io/posts/2023-11-10-creating-a-macos-app-with-haskell-and-swift.html)
 * [2023-11-23, 06:58:17](https://lobste.rs/s/kb17d5/herbie_find_fix_floating_point_accuracy) - [Herbie: Find and fix floating-point accuracy problems](https://herbie.uwplse.org/)
 * [2023-11-23, 05:32:56](https://lobste.rs/s/irexg6/bug_bounties_tips_from_triager) - [Bug Bounties Tips from the Triager](https://mike-sheward.medium.com/bug-bounties-tips-from-the-triager-7cb092efd22a)
 * [2023-11-23, 04:22:21](https://lobste.rs/s/ctifwl/how_how_not_design_rest_apis) - [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-(and-how-not-to)-design-REST-APIs)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-23, 10:07:55](https://lobste.rs/s/wd4d0f/creating_macos_app_with_haskell_swift) - [Creating a macOS app with Haskell and Swift](https://alt-romes.github.io/posts/2023-11-10-creating-a-macos-app-with-haskell-and-swift.html)
 * [2023-11-23, 06:58:17](https://lobste.rs/s/kb17d5/herbie_find_fix_floating_point_accuracy) - [Herbie: Find and fix floating-point accuracy problems](https://herbie.uwplse.org/)
 * [2023-11-23, 05:32:56](https://lobste.rs/s/irexg6/bug_bounties_tips_from_triager) - [Bug Bounties Tips from the Triager](https://mike-sheward.medium.com/bug-bounties-tips-from-the-triager-7cb092efd22a)
 * [2023-11-23, 04:22:21](https://lobste.rs/s/ctifwl/how_how_not_design_rest_apis) - [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-(and-how-not-to)-design-REST-APIs)
@@ -17,7 +18,6 @@
 * [2023-11-22, 01:32:37](https://lobste.rs/s/qdrfmz/windows_95_team_bought_1_every_retail_pc) - [The Windows 95 team bought 1 of every retail PC program they could get](https://www.youtube.com/watch?v=6m_Im7J9Iaw)
 * [2023-11-22, 01:04:18](https://lobste.rs/s/njml3j/yoyozo_how_i_made_playdate_game_39kb) - [YOYOZO (or, how I made a Playdate game in 39KB)](https://blog.gingerbeardman.com/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/)
 * [2023-11-21, 23:38:30](https://lobste.rs/s/tz51it/how_i_kind_killed_mercurial_at_mozilla) - [How I (kind of) killed Mercurial at Mozilla](https://glandium.org/blog/?p=4346)
-* [2023-11-21, 22:52:41](https://lobste.rs/s/kijwqe/c_guidelines) - [C++ Guidelines](https://euroquis.nl//blabla/2023/11/21/guidelines.html)
 * [2023-11-21, 22:32:37](https://lobste.rs/s/cjb9rd/mess_with_dns) - [mess with dns](https://messwithdns.net/)
 * [2023-11-21, 19:59:18](https://lobste.rs/s/qhqui9/red_programming_language) - [Red Programming Language](https://www.red-lang.org)
 * [2023-11-21, 18:21:12](https://lobste.rs/s/aad8kf/url_parser_performance) - [URL parser performance](https://daniel.haxx.se/blog/2023/11/21/url-parser-performance/)
