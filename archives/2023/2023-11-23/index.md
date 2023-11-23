@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-23](index.md)
 
+* [2023-11-23, 13:01:01](https://lobste.rs/s/endspx/software_you_are_thankful_for) - [Software you are thankful for](https://lobste.rs/s/endspx/software_you_are_thankful_for)
 * [2023-11-23, 12:57:54](https://lobste.rs/s/8doqmk/meow5_concatenative_assembly) - [Meow5 Concatenative Assembly: The Conclusion](http://ratfactor.com/meow5/done)
 * [2023-11-23, 10:18:42](https://lobste.rs/s/o3rclw/hashed_hierarchical_timing_wheels_data) - [Hashed and Hierarchical Timing Wheels: Data Structures for the Efficient Implementation of a Timer Facility](https://blog.acolyer.org/2015/11/23/hashed-and-hierarchical-timing-wheels/)
 * [2023-11-23, 10:07:55](https://lobste.rs/s/wd4d0f/creating_macos_app_with_haskell_swift) - [Creating a macOS app with Haskell and Swift](https://alt-romes.github.io/posts/2023-11-10-creating-a-macos-app-with-haskell-and-swift.html)
