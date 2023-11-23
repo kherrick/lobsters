@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-23](index.md)
 
+* [2023-11-23, 20:30:57](https://lobste.rs/s/ujraql/keylock_macos_utility_lock_keyboard_for) - [keylock: macOS utility to lock the keyboard for easy cleaning](https://github.com/kfv/keylock)
 * [2023-11-23, 20:05:48](https://lobste.rs/s/2cqnvp/life_bug_report) - [Life of a Bug Report](https://www.1a-insec.net/blog/26-life-of-a-bug-report/)
 * [2023-11-23, 19:38:55](https://lobste.rs/s/uupw2i/bluetooth_stack_modifications_improve) - [Bluetooth stack modifications to improve audio quality on headphones without AAC, aptX, or LDAC codecs](https://habr.com/en/articles/456476/)
 * [2023-11-23, 17:38:01](https://lobste.rs/s/3csdvb/git_branches_intuition_reality) - [git branches: intuition & reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)
