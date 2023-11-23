@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-23, 23:37:34](https://lobste.rs/s/xbkako/take_different_approach_building_c) - [Take a different approach to building C++ projects](https://rachelbythebay.com/bb/)
 * [2023-11-23, 21:24:55](https://lobste.rs/s/ogfcnz/lua_carousel_create_little_programs_on) - [Lua Carousel: create little programs on desktop or mobile devices](https://akkartik.itch.io/carousel)
 * [2023-11-23, 20:30:57](https://lobste.rs/s/ujraql/keylock_macos_utility_lock_keyboard_for) - [keylock: macOS utility to lock the keyboard for easy cleaning](https://github.com/kfv/keylock)
 * [2023-11-23, 20:05:48](https://lobste.rs/s/2cqnvp/life_bug_report) - [Life of a Bug Report](https://www.1a-insec.net/blog/26-life-of-a-bug-report/)
@@ -24,7 +25,6 @@
 * [2023-11-22, 20:40:44](https://lobste.rs/s/rw8mwg/retries_interactive_study_common_retry) - [Retries – An interactive study of common retry methods](https://encore.dev/blog/retries)
 * [2023-11-22, 20:39:47](https://lobste.rs/s/mcdzsi/email_obfuscation_what_still_works_2023) - [Email obfuscation: What still works in 2023?](https://spencermortensen.com/articles/email-obfuscation/)
 * [2023-11-22, 16:47:51](https://lobste.rs/s/kfy17h/interactive_guide_css_grid) - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
-* [2023-11-22, 16:12:24](https://lobste.rs/s/wshnlx/new_features_fortran_2023) - [New features in Fortran 2023](https://fortran.bcs.org/2022/AGM22_Reid.pdf)
 
 ## [Archives](archives/index.md)
 
