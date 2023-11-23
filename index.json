@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-23, 20:05:48",
+      "https://lobste.rs/s/2cqnvp/life_bug_report"
+    ],
+    [
+      "Life of a Bug Report",
+      "https://www.1a-insec.net/blog/26-life-of-a-bug-report/"
+    ]
+  ],
+  [
+    [
       "2023-11-23, 19:38:55",
       "https://lobste.rs/s/uupw2i/bluetooth_stack_modifications_improve"
     ],
@@ -237,16 +247,6 @@
     [
       "New features in Fortran 2023",
       "https://fortran.bcs.org/2022/AGM22_Reid.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-11-21, 23:38:30",
-      "https://lobste.rs/s/tz51it/how_i_kind_killed_mercurial_at_mozilla"
-    ],
-    [
-      "How I (kind of) killed Mercurial at Mozilla",
-      "https://glandium.org/blog/?p=4346"
     ]
   ]
 ]
