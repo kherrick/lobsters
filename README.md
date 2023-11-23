@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-23, 15:39:05](https://lobste.rs/s/jsgmis/separating_debug_symbols_from) - [Separating debug symbols from executables](https://www.tweag.io/blog/2023-11-23-debug-fission/)
 * [2023-11-23, 15:30:51](https://lobste.rs/s/9jpfg2/basic_interpreter_hidden_esp32_silicon) - [BASIC Interpreter Hidden In ESP32 Silicon](https://hackaday.com/2016/10/27/basic-interpreter-hidden-in-esp32-silicon/)
 * [2023-11-23, 14:13:47](https://lobste.rs/s/8k9ren/dafny_verification_aware_programming) - [Dafny - a verification-aware programming language](https://dafny.org/)
 * [2023-11-23, 13:01:01](https://lobste.rs/s/endspx/software_you_are_thankful_for) - [Software you are thankful for](https://lobste.rs/s/endspx/software_you_are_thankful_for)
@@ -22,7 +23,6 @@
 * [2023-11-21, 22:32:37](https://lobste.rs/s/cjb9rd/mess_with_dns) - [mess with dns](https://messwithdns.net/)
 * [2023-11-21, 19:59:18](https://lobste.rs/s/qhqui9/red_programming_language) - [Red Programming Language](https://www.red-lang.org)
 * [2023-11-21, 18:21:12](https://lobste.rs/s/aad8kf/url_parser_performance) - [URL parser performance](https://daniel.haxx.se/blog/2023/11/21/url-parser-performance/)
-* [2023-11-21, 18:02:45](https://lobste.rs/s/6avbuj/spreadsheets_small_software) - [Spreadsheets and Small Software](https://blog.nilenso.com/blog/2023/11/10/spreadsheets-and-small-software/)
 * [2023-11-21, 15:51:43](https://lobste.rs/s/k8knw4/two_kinds_threads_pools_why_you_need_both) - [Two kinds of threads pools, and why you need both](https://pythonspeed.com/articles/two-thread-pools/)
 * [2023-11-21, 08:30:26](https://lobste.rs/s/et3ivs/zig_may_pass_anything_by_reference) - [Zig May Pass Anything By Reference](https://www.1a-insec.net/blog/25-zig-reference-semantics/)
 
