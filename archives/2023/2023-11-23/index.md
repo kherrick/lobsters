@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-23](index.md)
 
+* [2023-11-23, 15:58:06](https://lobste.rs/s/t2hcp6/qt_creator_12_released) - [Qt Creator 12 released](https://www.qt.io/blog/qt-creator-12-released)
+* [2023-11-23, 15:55:37](https://lobste.rs/s/xpc1sj/openssl_3_2_released) - [OpenSSL 3.2 released](https://www.openssl.org/news/openssl-3.2-notes.html)
 * [2023-11-23, 15:39:05](https://lobste.rs/s/jsgmis/separating_debug_symbols_from) - [Separating debug symbols from executables](https://www.tweag.io/blog/2023-11-23-debug-fission/)
 * [2023-11-23, 15:30:51](https://lobste.rs/s/9jpfg2/basic_interpreter_hidden_esp32_silicon) - [BASIC Interpreter Hidden In ESP32 Silicon](https://hackaday.com/2016/10/27/basic-interpreter-hidden-in-esp32-silicon/)
 * [2023-11-23, 14:13:47](https://lobste.rs/s/8k9ren/dafny_verification_aware_programming) - [Dafny - a verification-aware programming language](https://dafny.org/)
