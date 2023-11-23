@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-23, 14:13:47](https://lobste.rs/s/8k9ren/dafny_verification_aware_programming) - [Dafny - a verification-aware programming language](https://dafny.org/)
 * [2023-11-23, 13:01:01](https://lobste.rs/s/endspx/software_you_are_thankful_for) - [Software you are thankful for](https://lobste.rs/s/endspx/software_you_are_thankful_for)
 * [2023-11-23, 12:57:54](https://lobste.rs/s/8doqmk/meow5_concatenative_assembly) - [Meow5 Concatenative Assembly: The Conclusion](http://ratfactor.com/meow5/done)
 * [2023-11-23, 10:18:42](https://lobste.rs/s/o3rclw/hashed_hierarchical_timing_wheels_data) - [Hashed and Hierarchical Timing Wheels: Data Structures for the Efficient Implementation of a Timer Facility](https://blog.acolyer.org/2015/11/23/hashed-and-hierarchical-timing-wheels/)
@@ -16,7 +17,6 @@
 * [2023-11-22, 16:47:51](https://lobste.rs/s/kfy17h/interactive_guide_css_grid) - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
 * [2023-11-22, 16:12:24](https://lobste.rs/s/wshnlx/new_features_fortran_2023) - [New features in Fortran 2023](https://fortran.bcs.org/2022/AGM22_Reid.pdf)
 * [2023-11-22, 06:09:29](https://lobste.rs/s/vwy3pg/zork_for_pdp_11_rt_11_recreated) - [Zork for the PDP-11 / RT-11 recreated](https://virtuallyfun.com/2023/11/21/zork-for-the-pdp-11-rt-11-recreated/)
-* [2023-11-22, 01:32:37](https://lobste.rs/s/qdrfmz/windows_95_team_bought_1_every_retail_pc) - [The Windows 95 team bought 1 of every retail PC program they could get](https://www.youtube.com/watch?v=6m_Im7J9Iaw)
 * [2023-11-22, 01:04:18](https://lobste.rs/s/njml3j/yoyozo_how_i_made_playdate_game_39kb) - [YOYOZO (or, how I made a Playdate game in 39KB)](https://blog.gingerbeardman.com/2023/11/21/yoyozo-how-i-made-a-playdate-game-in-39kb/)
 * [2023-11-21, 23:38:30](https://lobste.rs/s/tz51it/how_i_kind_killed_mercurial_at_mozilla) - [How I (kind of) killed Mercurial at Mozilla](https://glandium.org/blog/?p=4346)
 * [2023-11-21, 22:32:37](https://lobste.rs/s/cjb9rd/mess_with_dns) - [mess with dns](https://messwithdns.net/)

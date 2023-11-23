@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-23](index.md)
 
+* [2023-11-23, 14:13:47](https://lobste.rs/s/8k9ren/dafny_verification_aware_programming) - [Dafny - a verification-aware programming language](https://dafny.org/)
 * [2023-11-23, 13:01:01](https://lobste.rs/s/endspx/software_you_are_thankful_for) - [Software you are thankful for](https://lobste.rs/s/endspx/software_you_are_thankful_for)
 * [2023-11-23, 12:57:54](https://lobste.rs/s/8doqmk/meow5_concatenative_assembly) - [Meow5 Concatenative Assembly: The Conclusion](http://ratfactor.com/meow5/done)
 * [2023-11-23, 10:18:42](https://lobste.rs/s/o3rclw/hashed_hierarchical_timing_wheels_data) - [Hashed and Hierarchical Timing Wheels: Data Structures for the Efficient Implementation of a Timer Facility](https://blog.acolyer.org/2015/11/23/hashed-and-hierarchical-timing-wheels/)
