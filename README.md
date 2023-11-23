@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-23, 20:05:48](https://lobste.rs/s/2cqnvp/life_bug_report) - [Life of a Bug Report](https://www.1a-insec.net/blog/26-life-of-a-bug-report/)
 * [2023-11-23, 19:38:55](https://lobste.rs/s/uupw2i/bluetooth_stack_modifications_improve) - [Bluetooth stack modifications to improve audio quality on headphones without AAC, aptX, or LDAC codecs](https://habr.com/en/articles/456476/)
 * [2023-11-23, 17:38:01](https://lobste.rs/s/3csdvb/git_branches_intuition_reality) - [git branches: intuition & reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)
 * [2023-11-23, 16:52:54](https://lobste.rs/s/yas0oc/setenv_is_not_thread_safe_c_doesn_t_want_fix) - [Setenv is not Thread Safe and C Doesn't Want to Fix It](https://www.evanjones.ca/setenv-is-not-thread-safe.html)
@@ -24,7 +25,6 @@
 * [2023-11-22, 19:25:32](https://lobste.rs/s/oolcuy/who_s_watching_watchdog) - [Who's watching the watchdog?](https://frantic.im/whos-watching-the-watchdog)
 * [2023-11-22, 16:47:51](https://lobste.rs/s/kfy17h/interactive_guide_css_grid) - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
 * [2023-11-22, 16:12:24](https://lobste.rs/s/wshnlx/new_features_fortran_2023) - [New features in Fortran 2023](https://fortran.bcs.org/2022/AGM22_Reid.pdf)
-* [2023-11-21, 23:38:30](https://lobste.rs/s/tz51it/how_i_kind_killed_mercurial_at_mozilla) - [How I (kind of) killed Mercurial at Mozilla](https://glandium.org/blog/?p=4346)
 
 ## [Archives](archives/index.md)
 
