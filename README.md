@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-23, 04:22:21](https://lobste.rs/s/ctifwl/how_how_not_design_rest_apis) - [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-(and-how-not-to)-design-REST-APIs)
 * [2023-11-23, 02:06:03](https://lobste.rs/s/oxncnr/all_infocom_interpreter_code) - [All that Infocom interpreter code](https://blog.zarfhome.com/2023/11/infocom-interpreters)
 * [2023-11-23, 01:20:06](https://lobste.rs/s/w0uqrh/there_are_no_strings_on_me) - [There are no strings on me](https://www.scattered-thoughts.net/writing/there-are-no-strings-on-me/)
 * [2023-11-22, 23:51:08](https://lobste.rs/s/cstu5p/highlights_from_git_2_43) - [Highlights from Git 2.43](https://github.blog/2023-11-20-highlights-from-git-2-43/)
@@ -24,7 +25,6 @@
 * [2023-11-21, 15:51:43](https://lobste.rs/s/k8knw4/two_kinds_threads_pools_why_you_need_both) - [Two kinds of threads pools, and why you need both](https://pythonspeed.com/articles/two-thread-pools/)
 * [2023-11-21, 08:30:26](https://lobste.rs/s/et3ivs/zig_may_pass_anything_by_reference) - [Zig May Pass Anything By Reference](https://www.1a-insec.net/blog/25-zig-reference-semantics/)
 * [2023-11-21, 08:00:23](https://lobste.rs/s/0hga6k/rfc_9498_gnu_name_system) - [RFC 9498: The GNU Name System](https://lists.gnu.org/archive/html/info-gnunet/2023-11/msg00000.html)
-* [2023-11-20, 11:19:34](https://lobste.rs/s/lskhwr/roc_programming_language) - [The Roc Programming Language](https://roc-lang.org)
 
 ## [Archives](archives/index.md)
 
