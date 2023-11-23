@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-23](index.md)
 
+* [2023-11-23, 19:38:55](https://lobste.rs/s/uupw2i/bluetooth_stack_modifications_improve) - [Bluetooth stack modifications to improve audio quality on headphones without AAC, aptX, or LDAC codecs](https://habr.com/en/articles/456476/)
 * [2023-11-23, 17:38:01](https://lobste.rs/s/3csdvb/git_branches_intuition_reality) - [git branches: intuition & reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)
 * [2023-11-23, 16:52:54](https://lobste.rs/s/yas0oc/setenv_is_not_thread_safe_c_doesn_t_want_fix) - [Setenv is not Thread Safe and C Doesn't Want to Fix It](https://www.evanjones.ca/setenv-is-not-thread-safe.html)
 * [2023-11-23, 16:38:28](https://lobste.rs/s/c9il1d/there_s_such_thing_as_using_too_many_ifs) - [There's Such a Thing As Using Too Many Ifs (2019)](https://dreith.com/blog/theres-such-a-thing-as-using-too-many-ifs/)

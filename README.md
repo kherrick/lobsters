@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-23, 19:38:55](https://lobste.rs/s/uupw2i/bluetooth_stack_modifications_improve) - [Bluetooth stack modifications to improve audio quality on headphones without AAC, aptX, or LDAC codecs](https://habr.com/en/articles/456476/)
 * [2023-11-23, 17:38:01](https://lobste.rs/s/3csdvb/git_branches_intuition_reality) - [git branches: intuition & reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)
 * [2023-11-23, 16:52:54](https://lobste.rs/s/yas0oc/setenv_is_not_thread_safe_c_doesn_t_want_fix) - [Setenv is not Thread Safe and C Doesn't Want to Fix It](https://www.evanjones.ca/setenv-is-not-thread-safe.html)
 * [2023-11-23, 16:38:28](https://lobste.rs/s/c9il1d/there_s_such_thing_as_using_too_many_ifs) - [There's Such a Thing As Using Too Many Ifs (2019)](https://dreith.com/blog/theres-such-a-thing-as-using-too-many-ifs/)
@@ -24,7 +25,6 @@
 * [2023-11-22, 16:47:51](https://lobste.rs/s/kfy17h/interactive_guide_css_grid) - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
 * [2023-11-22, 16:12:24](https://lobste.rs/s/wshnlx/new_features_fortran_2023) - [New features in Fortran 2023](https://fortran.bcs.org/2022/AGM22_Reid.pdf)
 * [2023-11-21, 23:38:30](https://lobste.rs/s/tz51it/how_i_kind_killed_mercurial_at_mozilla) - [How I (kind of) killed Mercurial at Mozilla](https://glandium.org/blog/?p=4346)
-* [2023-11-21, 08:30:26](https://lobste.rs/s/et3ivs/zig_may_pass_anything_by_reference) - [Zig May Pass Anything By Reference](https://www.1a-insec.net/blog/25-zig-reference-semantics/)
 
 ## [Archives](archives/index.md)
 
