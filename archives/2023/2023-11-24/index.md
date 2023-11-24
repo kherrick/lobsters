@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 08:39:57](https://lobste.rs/s/bx45ly/flaketools_simpler_less_bug_prone_flake) - [FlakeTools: A simpler and less bug-prone flake-utils alternative](https://github.com/RGBCube/FlakeTools)
 * [2023-11-24, 08:09:09](https://lobste.rs/s/3so8nv/forgiveness_as_engineer) - [Forgiveness as an engineer](https://dev.to/karelvandenbussche/forgiveness-as-an-engineer-4lbg)
 * [2023-11-24, 06:22:13](https://lobste.rs/s/spgnw8/deck_month_decker_jam_december) - [Deck-Month: A Decker Jam in December](https://itch.io/jam/deck-month)
 * [2023-11-24, 04:13:32](https://lobste.rs/s/vj3dht/how_parse_time_date_go) - [How to parse a time or date in Go](https://www.willem.dev/articles/how-to-parse-time-date/)
