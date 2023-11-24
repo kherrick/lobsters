@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-24, 06:22:13](https://lobste.rs/s/spgnw8/deck_month_decker_jam_december) - [Deck-Month: A Decker Jam in December](https://itch.io/jam/deck-month)
 * [2023-11-24, 04:13:32](https://lobste.rs/s/vj3dht/how_parse_time_date_go) - [How to parse a time or date in Go](https://www.willem.dev/articles/how-to-parse-time-date/)
 * [2023-11-24, 03:03:33](https://lobste.rs/s/by2i60/technique_wall_off_interface_go) - [A technique to wall off an interface in Go](https://brandur.org/atoms#gozejms)
 * [2023-11-24, 01:59:31](https://lobste.rs/s/wz8ydj/aitertools_well_tested_utility) - [aitertools: Well-tested utility functions dealing with async iterables](https://github.com/dahlia/aitertools)
@@ -21,7 +22,6 @@
 * [2023-11-23, 10:07:55](https://lobste.rs/s/wd4d0f/creating_macos_app_with_haskell_swift) - [Creating a macOS app with Haskell and Swift](https://alt-romes.github.io/posts/2023-11-10-creating-a-macos-app-with-haskell-and-swift.html)
 * [2023-11-23, 06:58:17](https://lobste.rs/s/kb17d5/herbie_find_fix_floating_point_accuracy) - [Herbie: Find and fix floating-point accuracy problems](https://herbie.uwplse.org/)
 * [2023-11-23, 04:22:21](https://lobste.rs/s/ctifwl/how_how_not_design_rest_apis) - [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-(and-how-not-to)-design-REST-APIs)
-* [2023-11-23, 02:06:03](https://lobste.rs/s/oxncnr/all_infocom_interpreter_code) - [All that Infocom interpreter code](https://blog.zarfhome.com/2023/11/infocom-interpreters)
 * [2023-11-23, 01:20:06](https://lobste.rs/s/w0uqrh/there_are_no_strings_on_me) - [There are no strings on me](https://www.scattered-thoughts.net/writing/there-are-no-strings-on-me/)
 * [2023-11-22, 20:40:44](https://lobste.rs/s/rw8mwg/retries_interactive_study_common_retry) - [Retries – An interactive study of common retry methods](https://encore.dev/blog/retries)
 * [2023-11-22, 20:39:47](https://lobste.rs/s/mcdzsi/email_obfuscation_what_still_works_2023) - [Email obfuscation: What still works in 2023?](https://spencermortensen.com/articles/email-obfuscation/)
