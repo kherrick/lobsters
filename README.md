@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-24, 17:42:18](https://lobste.rs/s/iap7qb/etcd_concurrency_stm) - [Etcd and concurrency STM](https://george.macro.re/posts/etcd-and-concurrency-stm)
 * [2023-11-24, 16:42:22](https://lobste.rs/s/yepcsr/change_data_capture_breaks) - [\"Change Data Capture Breaks Encapsulation\". Does it, though?](https://www.decodable.co/blog/change-data-capture-breaks-encapsulation-does-it-though)
 * [2023-11-24, 16:41:41](https://lobste.rs/s/x1bk5j/how_apple_s_pro_display_xdr_takes) - [How Apple's Pro Display XDR takes Thunderbolt 3 to its limit](https://fabiensanglard.net/xdr/index.html)
 * [2023-11-24, 16:00:39](https://lobste.rs/s/acn2wc/fastify_vite_titans_combined) - [@fastify/vite: Titans Combined](https://fastify-vite.dev/)
@@ -11,7 +12,6 @@
 * [2023-11-24, 12:30:56](https://lobste.rs/s/c0wdlc/cpython_object_system_internals) - [CPython Object System Internals: Understanding the Role of PyObject](https://codeconfessions.substack.com/p/cpython-object-system-internals-understanding)
 * [2023-11-24, 11:46:59](https://lobste.rs/s/vzwiie/making_games_go_for_absolute_beginners) - [Making Games in Go for Absolute Beginners](https://threedots.tech/post/making-games-in-go/)
 * [2023-11-24, 11:36:50](https://lobste.rs/s/6d3gob/tdd_outcomes) - [TDD Outcomes](https://tidyfirst.substack.com/p/tdd-outcomes)
-* [2023-11-24, 10:53:25](https://lobste.rs/s/g1timl/bpf_programmable_network_device) - [The BPF-programmable network device](https://lwn.net/Articles/949960/)
 * [2023-11-24, 09:57:28](https://lobste.rs/s/zvkboq/php_php_8_3_0_release_announcement) - [PHP: PHP 8.3.0 Release Announcement](https://www.php.net/releases/8.3/en.php)
 * [2023-11-24, 08:39:57](https://lobste.rs/s/bx45ly/flaketools_simpler_less_bug_prone_flake) - [FlakeTools: A simpler and less bug-prone flake-utils alternative](https://github.com/RGBCube/FlakeTools)
 * [2023-11-24, 08:09:09](https://lobste.rs/s/3so8nv/forgiveness_as_engineer) - [Forgiveness as an engineer](https://dev.to/karelvandenbussche/forgiveness-as-an-engineer-4lbg)

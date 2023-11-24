@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 17:42:18](https://lobste.rs/s/iap7qb/etcd_concurrency_stm) - [Etcd and concurrency STM](https://george.macro.re/posts/etcd-and-concurrency-stm)
 * [2023-11-24, 16:42:22](https://lobste.rs/s/yepcsr/change_data_capture_breaks) - [\"Change Data Capture Breaks Encapsulation\". Does it, though?](https://www.decodable.co/blog/change-data-capture-breaks-encapsulation-does-it-though)
 * [2023-11-24, 16:41:41](https://lobste.rs/s/x1bk5j/how_apple_s_pro_display_xdr_takes) - [How Apple's Pro Display XDR takes Thunderbolt 3 to its limit](https://fabiensanglard.net/xdr/index.html)
 * [2023-11-24, 16:00:39](https://lobste.rs/s/acn2wc/fastify_vite_titans_combined) - [@fastify/vite: Titans Combined](https://fastify-vite.dev/)
