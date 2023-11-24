@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 19:46:27](https://lobste.rs/s/iyzqho/release_garn_version_v0_0_16) - [Release: garn version v0.0.16](https://garnix.io/blog/garn-v0_0_16)
 * [2023-11-24, 18:49:07](https://lobste.rs/s/9zx75r/database_generated_columns_django) - [Database generated columns⁽²⁾: Django & PostgreSQL](https://www.paulox.net/2023/11/24/database-generated-columns-part-2-django-and-postgresql/)
 * [2023-11-24, 18:25:31](https://lobste.rs/s/i3muyt/apple_video_decoder_notes_2_4k_stream) - [Apple Video Decoder Notes 2: To 4K Stream](https://eiln.net/avd-notes2.html)
 * [2023-11-24, 18:18:21](https://lobste.rs/s/avzcfh/intelligence_is_not_enough_bryan) - [Intelligence is not Enough | Bryan Cantrill | Monktoberfest 2023](https://www.youtube.com/watch?v=bQfJi7rjuEk)
