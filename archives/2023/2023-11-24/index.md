@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 16:00:39](https://lobste.rs/s/acn2wc/fastify_vite_titans_combined) - [@fastify/vite: Titans Combined](https://fastify-vite.dev/)
 * [2023-11-24, 14:52:36](https://lobste.rs/s/kqkn0b/write_package_definitions_breeze) - [Write package definitions in a breeze](https://guix.gnu.org/en/blog/2023/write-package-definitions-in-a-breeze/)
 * [2023-11-24, 14:47:29](https://lobste.rs/s/x5vwou/positive_only_hacker_news_rss_feed) - [A Positive-only Hacker News RSS Feed](https://github.com/garritfra/positive_hackernews)
 * [2023-11-24, 14:44:06](https://lobste.rs/s/lesbvh/honeypots_for_intrusion_detection) - [Honeypots for Intrusion Detection](https://tracebit.com/blog/2023/11/honeypots-for-intrusion-detection/)
