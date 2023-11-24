@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-24, 00:51:20](https://lobste.rs/s/ambsr4/fullcontrol_unconstrained_gcode_design) - [FullControl: unconstrained gcode design for 3D printers](https://github.com/FullControlXYZ/fullcontrol)
 * [2023-11-23, 23:37:34](https://lobste.rs/s/xbkako/take_different_approach_building_c) - [Take a different approach to building C++ projects](https://rachelbythebay.com/bb/)
 * [2023-11-23, 21:24:55](https://lobste.rs/s/ogfcnz/lua_carousel_create_little_programs_on) - [Lua Carousel: create little programs on desktop or mobile devices](https://akkartik.itch.io/carousel)
 * [2023-11-23, 20:30:57](https://lobste.rs/s/ujraql/keylock_macos_utility_lock_keyboard_for) - [keylock: macOS utility to lock the keyboard for easy cleaning](https://github.com/kfv/keylock)
@@ -8,7 +9,6 @@
 * [2023-11-23, 17:38:01](https://lobste.rs/s/3csdvb/git_branches_intuition_reality) - [git branches: intuition & reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)
 * [2023-11-23, 16:52:54](https://lobste.rs/s/yas0oc/setenv_is_not_thread_safe_c_doesn_t_want_fix) - [Setenv is not Thread Safe and C Doesn't Want to Fix It](https://www.evanjones.ca/setenv-is-not-thread-safe.html)
 * [2023-11-23, 16:38:28](https://lobste.rs/s/c9il1d/there_s_such_thing_as_using_too_many_ifs) - [There's Such a Thing As Using Too Many Ifs (2019)](https://dreith.com/blog/theres-such-a-thing-as-using-too-many-ifs/)
-* [2023-11-23, 15:58:06](https://lobste.rs/s/t2hcp6/qt_creator_12_released) - [Qt Creator 12 released](https://www.qt.io/blog/qt-creator-12-released)
 * [2023-11-23, 15:55:37](https://lobste.rs/s/xpc1sj/openssl_3_2_released) - [OpenSSL 3.2 released](https://www.openssl.org/news/openssl-3.2-notes.html)
 * [2023-11-23, 15:39:05](https://lobste.rs/s/jsgmis/separating_debug_symbols_from) - [Separating debug symbols from executables](https://www.tweag.io/blog/2023-11-23-debug-fission/)
 * [2023-11-23, 15:30:51](https://lobste.rs/s/9jpfg2/basic_interpreter_hidden_esp32_silicon) - [BASIC Interpreter Hidden In ESP32 Silicon](https://hackaday.com/2016/10/27/basic-interpreter-hidden-in-esp32-silicon/)
