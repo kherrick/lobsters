@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 11:36:50](https://lobste.rs/s/6d3gob/tdd_outcomes) - [TDD Outcomes](https://tidyfirst.substack.com/p/tdd-outcomes)
 * [2023-11-24, 11:28:37](https://lobste.rs/s/olwyto/my_first_pcb_2019) - [My First PCB! (2019)](https://lindzey.github.io/blog/2019/02/09/my-first-pcb/)
 * [2023-11-24, 10:53:25](https://lobste.rs/s/g1timl/bpf_programmable_network_device) - [The BPF-programmable network device](https://lwn.net/Articles/949960/)
 * [2023-11-24, 09:57:28](https://lobste.rs/s/zvkboq/php_php_8_3_0_release_announcement) - [PHP: PHP 8.3.0 Release Announcement](https://www.php.net/releases/8.3/en.php)
