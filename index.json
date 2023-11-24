@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-24, 01:59:31",
+      "https://lobste.rs/s/wz8ydj/aitertools_well_tested_utility"
+    ],
+    [
+      "aitertools: Well-tested utility functions dealing with async iterables",
+      "https://github.com/dahlia/aitertools"
+    ]
+  ],
+  [
+    [
       "2023-11-24, 00:51:20",
       "https://lobste.rs/s/ambsr4/fullcontrol_unconstrained_gcode_design"
     ],
@@ -37,16 +47,6 @@
     [
       "keylock: macOS utility to lock the keyboard for easy cleaning",
       "https://github.com/kfv/keylock"
-    ]
-  ],
-  [
-    [
-      "2023-11-23, 20:05:48",
-      "https://lobste.rs/s/2cqnvp/life_bug_report"
-    ],
-    [
-      "Life of a Bug Report",
-      "https://www.1a-insec.net/blog/26-life-of-a-bug-report/"
     ]
   ],
   [
