@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-24, 17:42:18",
+      "https://lobste.rs/s/iap7qb/etcd_concurrency_stm"
+    ],
+    [
+      "Etcd and concurrency STM",
+      "https://george.macro.re/posts/etcd-and-concurrency-stm"
+    ]
+  ],
+  [
+    [
       "2023-11-24, 16:42:22",
       "https://lobste.rs/s/yepcsr/change_data_capture_breaks"
     ],
@@ -107,16 +117,6 @@
     [
       "TDD Outcomes",
       "https://tidyfirst.substack.com/p/tdd-outcomes"
-    ]
-  ],
-  [
-    [
-      "2023-11-24, 10:53:25",
-      "https://lobste.rs/s/g1timl/bpf_programmable_network_device"
-    ],
-    [
-      "The BPF-programmable network device",
-      "https://lwn.net/Articles/949960/"
     ]
   ],
   [
