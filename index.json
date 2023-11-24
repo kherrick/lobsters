@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-24, 17:51:23",
+      "https://lobste.rs/s/zowxca/on_harmful_overuse_std_move"
+    ],
+    [
+      "On harmful overuse of std::move",
+      "https://devblogs.microsoft.com/oldnewthing/20231124-00/?p=109059"
+    ]
+  ],
+  [
+    [
+      "2023-11-24, 17:51:02",
+      "https://lobste.rs/s/aysyan/dockerfile_arg_footgun"
+    ],
+    [
+      "Dockerfile ARG footgun",
+      "https://jmtd.net/log/dockerfile_arg_footgun/"
+    ]
+  ],
+  [
+    [
       "2023-11-24, 17:42:18",
       "https://lobste.rs/s/iap7qb/etcd_concurrency_stm"
     ],
@@ -37,16 +57,6 @@
     [
       "@fastify/vite: Titans Combined",
       "https://fastify-vite.dev/"
-    ]
-  ],
-  [
-    [
-      "2023-11-24, 14:52:36",
-      "https://lobste.rs/s/kqkn0b/write_package_definitions_breeze"
-    ],
-    [
-      "Write package definitions in a breeze",
-      "https://guix.gnu.org/en/blog/2023/write-package-definitions-in-a-breeze/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Software you are thankful for",
       "https://lobste.rs/s/endspx/software_you_are_thankful_for"
-    ]
-  ],
-  [
-    [
-      "2023-11-22, 20:40:44",
-      "https://lobste.rs/s/rw8mwg/retries_interactive_study_common_retry"
-    ],
-    [
-      "Retries – An interactive study of common retry methods",
-      "https://encore.dev/blog/retries"
     ]
   ]
 ]
