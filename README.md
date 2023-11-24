@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-24, 18:25:31](https://lobste.rs/s/i3muyt/apple_video_decoder_notes_2_4k_stream) - [Apple Video Decoder Notes 2: To 4K Stream](https://eiln.net/avd-notes2.html)
 * [2023-11-24, 18:18:21](https://lobste.rs/s/avzcfh/intelligence_is_not_enough_bryan) - [Intelligence is not Enough | Bryan Cantrill | Monktoberfest 2023](https://www.youtube.com/watch?v=bQfJi7rjuEk)
 * [2023-11-24, 17:51:23](https://lobste.rs/s/zowxca/on_harmful_overuse_std_move) - [On harmful overuse of std::move](https://devblogs.microsoft.com/oldnewthing/20231124-00/?p=109059)
 * [2023-11-24, 17:51:02](https://lobste.rs/s/aysyan/dockerfile_arg_footgun) - [Dockerfile ARG footgun](https://jmtd.net/log/dockerfile_arg_footgun/)
@@ -18,7 +19,6 @@
 * [2023-11-24, 08:39:57](https://lobste.rs/s/bx45ly/flaketools_simpler_less_bug_prone_flake) - [FlakeTools: A simpler and less bug-prone flake-utils alternative](https://github.com/RGBCube/FlakeTools)
 * [2023-11-24, 08:09:09](https://lobste.rs/s/3so8nv/forgiveness_as_engineer) - [Forgiveness as an engineer](https://dev.to/karelvandenbussche/forgiveness-as-an-engineer-4lbg)
 * [2023-11-24, 06:22:13](https://lobste.rs/s/spgnw8/deck_month_decker_jam_december) - [Deck-Month: A Decker Jam in December](https://itch.io/jam/deck-month)
-* [2023-11-24, 03:03:33](https://lobste.rs/s/by2i60/technique_wall_off_interface_go) - [A technique to wall off an interface in Go](https://brandur.org/atoms#gozejms)
 * [2023-11-23, 21:24:55](https://lobste.rs/s/ogfcnz/lua_carousel_create_little_programs_on) - [Lua Carousel: create little programs on desktop or mobile devices](https://akkartik.itch.io/carousel)
 * [2023-11-23, 20:30:57](https://lobste.rs/s/ujraql/keylock_macos_utility_lock_keyboard_for) - [keylock: macOS utility to lock the keyboard for easy cleaning](https://github.com/kfv/keylock)
 * [2023-11-23, 17:38:01](https://lobste.rs/s/3csdvb/git_branches_intuition_reality) - [git branches: intuition & reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)

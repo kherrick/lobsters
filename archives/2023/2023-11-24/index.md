@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 18:25:31](https://lobste.rs/s/i3muyt/apple_video_decoder_notes_2_4k_stream) - [Apple Video Decoder Notes 2: To 4K Stream](https://eiln.net/avd-notes2.html)
 * [2023-11-24, 18:18:21](https://lobste.rs/s/avzcfh/intelligence_is_not_enough_bryan) - [Intelligence is not Enough | Bryan Cantrill | Monktoberfest 2023](https://www.youtube.com/watch?v=bQfJi7rjuEk)
 * [2023-11-24, 17:51:23](https://lobste.rs/s/zowxca/on_harmful_overuse_std_move) - [On harmful overuse of std::move](https://devblogs.microsoft.com/oldnewthing/20231124-00/?p=109059)
 * [2023-11-24, 17:51:02](https://lobste.rs/s/aysyan/dockerfile_arg_footgun) - [Dockerfile ARG footgun](https://jmtd.net/log/dockerfile_arg_footgun/)
