@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-24, 09:57:28",
+      "https://lobste.rs/s/zvkboq/php_php_8_3_0_release_announcement"
+    ],
+    [
+      "PHP: PHP 8.3.0 Release Announcement",
+      "https://www.php.net/releases/8.3/en.php"
+    ]
+  ],
+  [
+    [
       "2023-11-24, 08:39:57",
       "https://lobste.rs/s/bx45ly/flaketools_simpler_less_bug_prone_flake"
     ],
@@ -197,16 +207,6 @@
     [
       "Creating a macOS app with Haskell and Swift",
       "https://alt-romes.github.io/posts/2023-11-10-creating-a-macos-app-with-haskell-and-swift.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-23, 06:58:17",
-      "https://lobste.rs/s/kb17d5/herbie_find_fix_floating_point_accuracy"
-    ],
-    [
-      "Herbie: Find and fix floating-point accuracy problems",
-      "https://herbie.uwplse.org/"
     ]
   ],
   [
