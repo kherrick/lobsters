@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-24, 10:53:25",
+      "https://lobste.rs/s/g1timl/bpf_programmable_network_device"
+    ],
+    [
+      "The BPF-programmable network device",
+      "https://lwn.net/Articles/949960/"
+    ]
+  ],
+  [
+    [
       "2023-11-24, 09:57:28",
       "https://lobste.rs/s/zvkboq/php_php_8_3_0_release_announcement"
     ],
@@ -137,16 +147,6 @@
     [
       "There's Such a Thing As Using Too Many Ifs (2019)",
       "https://dreith.com/blog/theres-such-a-thing-as-using-too-many-ifs/"
-    ]
-  ],
-  [
-    [
-      "2023-11-23, 15:55:37",
-      "https://lobste.rs/s/xpc1sj/openssl_3_2_released"
-    ],
-    [
-      "OpenSSL 3.2 released",
-      "https://www.openssl.org/news/openssl-3.2-notes.html"
     ]
   ],
   [
