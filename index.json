@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2023-11-24, 00:51:20",
-      "https://lobste.rs/s/ambsr4/fullcontrol_unconstrained_gcode_design"
-    ],
-    [
-      "FullControl: unconstrained gcode design for 3D printers",
-      "https://github.com/FullControlXYZ/fullcontrol"
-    ]
-  ],
-  [
-    [
       "2023-11-23, 23:37:34",
       "https://lobste.rs/s/xbkako/take_different_approach_building_c"
     ],
@@ -147,6 +137,16 @@
     [
       "There's Such a Thing As Using Too Many Ifs (2019)",
       "https://dreith.com/blog/theres-such-a-thing-as-using-too-many-ifs/"
+    ]
+  ],
+  [
+    [
+      "2023-11-23, 15:55:37",
+      "https://lobste.rs/s/xpc1sj/openssl_3_2_released"
+    ],
+    [
+      "OpenSSL 3.2 released",
+      "https://www.openssl.org/news/openssl-3.2-notes.html"
     ]
   ],
   [
