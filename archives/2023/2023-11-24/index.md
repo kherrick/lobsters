@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 14:47:29](https://lobste.rs/s/x5vwou/positive_only_hacker_news_rss_feed) - [A Positive-only Hacker News RSS Feed](https://github.com/garritfra/positive_hackernews)
+* [2023-11-24, 14:44:06](https://lobste.rs/s/lesbvh/honeypots_for_intrusion_detection) - [Honeypots for Intrusion Detection](https://tracebit.com/blog/2023/11/honeypots-for-intrusion-detection/)
 * [2023-11-24, 14:31:30](https://lobste.rs/s/j5okxb/useless_ruby_sugar_argument_forwarding) - [“Useless Ruby sugar”: Argument forwarding](https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html)
 * [2023-11-24, 14:28:37](https://lobste.rs/s/gpt9kk/quapl_quantum_computing_library_apl) - [quAPL – A Quantum Computing Library in APL](https://www.youtube.com/watch?v=GtAlrhhCd5A)
 * [2023-11-24, 14:01:13](https://lobste.rs/s/so857a/adapting_wozmon_for_breadboard_6502) - [Adapting WozMon for the breadboard 6502](https://www.youtube.com/watch?v=7M8LvMtdcgY)
