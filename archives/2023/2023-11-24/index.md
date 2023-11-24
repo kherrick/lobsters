@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 09:57:28](https://lobste.rs/s/zvkboq/php_php_8_3_0_release_announcement) - [PHP: PHP 8.3.0 Release Announcement](https://www.php.net/releases/8.3/en.php)
 * [2023-11-24, 08:39:57](https://lobste.rs/s/bx45ly/flaketools_simpler_less_bug_prone_flake) - [FlakeTools: A simpler and less bug-prone flake-utils alternative](https://github.com/RGBCube/FlakeTools)
 * [2023-11-24, 08:09:09](https://lobste.rs/s/3so8nv/forgiveness_as_engineer) - [Forgiveness as an engineer](https://dev.to/karelvandenbussche/forgiveness-as-an-engineer-4lbg)
 * [2023-11-24, 06:22:13](https://lobste.rs/s/spgnw8/deck_month_decker_jam_december) - [Deck-Month: A Decker Jam in December](https://itch.io/jam/deck-month)
