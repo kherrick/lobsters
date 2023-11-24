@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-24, 12:30:56",
+      "https://lobste.rs/s/c0wdlc/cpython_object_system_internals"
+    ],
+    [
+      "CPython Object System Internals: Understanding the Role of PyObject",
+      "https://codeconfessions.substack.com/p/cpython-object-system-internals-understanding"
+    ]
+  ],
+  [
+    [
       "2023-11-24, 11:46:59",
       "https://lobste.rs/s/vzwiie/making_games_go_for_absolute_beginners"
     ],
@@ -77,16 +87,6 @@
     [
       "Deck-Month: A Decker Jam in December",
       "https://itch.io/jam/deck-month"
-    ]
-  ],
-  [
-    [
-      "2023-11-24, 04:13:32",
-      "https://lobste.rs/s/vj3dht/how_parse_time_date_go"
-    ],
-    [
-      "How to parse a time or date in Go",
-      "https://www.willem.dev/articles/how-to-parse-time-date/"
     ]
   ],
   [
