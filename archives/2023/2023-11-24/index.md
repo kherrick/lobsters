@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 14:31:30](https://lobste.rs/s/j5okxb/useless_ruby_sugar_argument_forwarding) - [“Useless Ruby sugar”: Argument forwarding](https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html)
+* [2023-11-24, 14:28:37](https://lobste.rs/s/gpt9kk/quapl_quantum_computing_library_apl) - [quAPL – A Quantum Computing Library in APL](https://www.youtube.com/watch?v=GtAlrhhCd5A)
 * [2023-11-24, 14:01:13](https://lobste.rs/s/so857a/adapting_wozmon_for_breadboard_6502) - [Adapting WozMon for the breadboard 6502](https://www.youtube.com/watch?v=7M8LvMtdcgY)
 * [2023-11-24, 12:30:56](https://lobste.rs/s/c0wdlc/cpython_object_system_internals) - [CPython Object System Internals: Understanding the Role of PyObject](https://codeconfessions.substack.com/p/cpython-object-system-internals-understanding)
 * [2023-11-24, 11:46:59](https://lobste.rs/s/vzwiie/making_games_go_for_absolute_beginners) - [Making Games in Go for Absolute Beginners](https://threedots.tech/post/making-games-in-go/)
