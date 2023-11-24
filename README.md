@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-24, 11:46:59](https://lobste.rs/s/vzwiie/making_games_go_for_absolute_beginners) - [Making Games in Go for Absolute Beginners](https://threedots.tech/post/making-games-in-go/)
 * [2023-11-24, 11:36:50](https://lobste.rs/s/6d3gob/tdd_outcomes) - [TDD Outcomes](https://tidyfirst.substack.com/p/tdd-outcomes)
 * [2023-11-24, 11:28:37](https://lobste.rs/s/olwyto/my_first_pcb_2019) - [My First PCB! (2019)](https://lindzey.github.io/blog/2019/02/09/my-first-pcb/)
 * [2023-11-24, 10:53:25](https://lobste.rs/s/g1timl/bpf_programmable_network_device) - [The BPF-programmable network device](https://lwn.net/Articles/949960/)
@@ -10,7 +11,6 @@
 * [2023-11-24, 04:13:32](https://lobste.rs/s/vj3dht/how_parse_time_date_go) - [How to parse a time or date in Go](https://www.willem.dev/articles/how-to-parse-time-date/)
 * [2023-11-24, 03:03:33](https://lobste.rs/s/by2i60/technique_wall_off_interface_go) - [A technique to wall off an interface in Go](https://brandur.org/atoms#gozejms)
 * [2023-11-24, 01:59:31](https://lobste.rs/s/wz8ydj/aitertools_well_tested_utility) - [aitertools: Well-tested utility functions dealing with async iterables](https://github.com/dahlia/aitertools)
-* [2023-11-24, 00:51:20](https://lobste.rs/s/ambsr4/fullcontrol_unconstrained_gcode_design) - [FullControl: unconstrained gcode design for 3D printers](https://github.com/FullControlXYZ/fullcontrol)
 * [2023-11-23, 23:37:34](https://lobste.rs/s/xbkako/take_different_approach_building_c) - [Take a different approach to building C++ projects](https://rachelbythebay.com/bb/)
 * [2023-11-23, 21:24:55](https://lobste.rs/s/ogfcnz/lua_carousel_create_little_programs_on) - [Lua Carousel: create little programs on desktop or mobile devices](https://akkartik.itch.io/carousel)
 * [2023-11-23, 20:30:57](https://lobste.rs/s/ujraql/keylock_macos_utility_lock_keyboard_for) - [keylock: macOS utility to lock the keyboard for easy cleaning](https://github.com/kfv/keylock)
