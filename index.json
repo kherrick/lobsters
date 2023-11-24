@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-24, 00:51:20",
+      "https://lobste.rs/s/ambsr4/fullcontrol_unconstrained_gcode_design"
+    ],
+    [
+      "FullControl: unconstrained gcode design for 3D printers",
+      "https://github.com/FullControlXYZ/fullcontrol"
+    ]
+  ],
+  [
+    [
       "2023-11-23, 23:37:34",
       "https://lobste.rs/s/xbkako/take_different_approach_building_c"
     ],
@@ -77,16 +87,6 @@
     [
       "There's Such a Thing As Using Too Many Ifs (2019)",
       "https://dreith.com/blog/theres-such-a-thing-as-using-too-many-ifs/"
-    ]
-  ],
-  [
-    [
-      "2023-11-23, 15:58:06",
-      "https://lobste.rs/s/t2hcp6/qt_creator_12_released"
-    ],
-    [
-      "Qt Creator 12 released",
-      "https://www.qt.io/blog/qt-creator-12-released"
     ]
   ],
   [
