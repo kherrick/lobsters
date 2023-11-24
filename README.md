@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-24, 10:53:25](https://lobste.rs/s/g1timl/bpf_programmable_network_device) - [The BPF-programmable network device](https://lwn.net/Articles/949960/)
 * [2023-11-24, 09:57:28](https://lobste.rs/s/zvkboq/php_php_8_3_0_release_announcement) - [PHP: PHP 8.3.0 Release Announcement](https://www.php.net/releases/8.3/en.php)
 * [2023-11-24, 08:39:57](https://lobste.rs/s/bx45ly/flaketools_simpler_less_bug_prone_flake) - [FlakeTools: A simpler and less bug-prone flake-utils alternative](https://github.com/RGBCube/FlakeTools)
 * [2023-11-24, 08:09:09](https://lobste.rs/s/3so8nv/forgiveness_as_engineer) - [Forgiveness as an engineer](https://dev.to/karelvandenbussche/forgiveness-as-an-engineer-4lbg)
@@ -14,7 +15,6 @@
 * [2023-11-23, 17:38:01](https://lobste.rs/s/3csdvb/git_branches_intuition_reality) - [git branches: intuition & reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)
 * [2023-11-23, 16:52:54](https://lobste.rs/s/yas0oc/setenv_is_not_thread_safe_c_doesn_t_want_fix) - [Setenv is not Thread Safe and C Doesn't Want to Fix It](https://www.evanjones.ca/setenv-is-not-thread-safe.html)
 * [2023-11-23, 16:38:28](https://lobste.rs/s/c9il1d/there_s_such_thing_as_using_too_many_ifs) - [There's Such a Thing As Using Too Many Ifs (2019)](https://dreith.com/blog/theres-such-a-thing-as-using-too-many-ifs/)
-* [2023-11-23, 15:55:37](https://lobste.rs/s/xpc1sj/openssl_3_2_released) - [OpenSSL 3.2 released](https://www.openssl.org/news/openssl-3.2-notes.html)
 * [2023-11-23, 15:39:05](https://lobste.rs/s/jsgmis/separating_debug_symbols_from) - [Separating debug symbols from executables](https://www.tweag.io/blog/2023-11-23-debug-fission/)
 * [2023-11-23, 15:30:51](https://lobste.rs/s/9jpfg2/basic_interpreter_hidden_esp32_silicon) - [BASIC Interpreter Hidden In ESP32 Silicon](https://hackaday.com/2016/10/27/basic-interpreter-hidden-in-esp32-silicon/)
 * [2023-11-23, 14:13:47](https://lobste.rs/s/8k9ren/dafny_verification_aware_programming) - [Dafny - a verification-aware programming language](https://dafny.org/)
