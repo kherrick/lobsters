@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-24, 17:51:23](https://lobste.rs/s/zowxca/on_harmful_overuse_std_move) - [On harmful overuse of std::move](https://devblogs.microsoft.com/oldnewthing/20231124-00/?p=109059)
+* [2023-11-24, 17:51:02](https://lobste.rs/s/aysyan/dockerfile_arg_footgun) - [Dockerfile ARG footgun](https://jmtd.net/log/dockerfile_arg_footgun/)
 * [2023-11-24, 17:42:18](https://lobste.rs/s/iap7qb/etcd_concurrency_stm) - [Etcd and concurrency STM](https://george.macro.re/posts/etcd-and-concurrency-stm)
 * [2023-11-24, 16:42:22](https://lobste.rs/s/yepcsr/change_data_capture_breaks) - [\"Change Data Capture Breaks Encapsulation\". Does it, though?](https://www.decodable.co/blog/change-data-capture-breaks-encapsulation-does-it-though)
 * [2023-11-24, 16:41:41](https://lobste.rs/s/x1bk5j/how_apple_s_pro_display_xdr_takes) - [How Apple's Pro Display XDR takes Thunderbolt 3 to its limit](https://fabiensanglard.net/xdr/index.html)
 * [2023-11-24, 16:00:39](https://lobste.rs/s/acn2wc/fastify_vite_titans_combined) - [@fastify/vite: Titans Combined](https://fastify-vite.dev/)
-* [2023-11-24, 14:52:36](https://lobste.rs/s/kqkn0b/write_package_definitions_breeze) - [Write package definitions in a breeze](https://guix.gnu.org/en/blog/2023/write-package-definitions-in-a-breeze/)
 * [2023-11-24, 14:47:29](https://lobste.rs/s/x5vwou/positive_only_hacker_news_rss_feed) - [A Positive-only Hacker News RSS Feed](https://github.com/garritfra/positive_hackernews)
 * [2023-11-24, 14:44:06](https://lobste.rs/s/lesbvh/honeypots_for_intrusion_detection) - [Honeypots for Intrusion Detection](https://tracebit.com/blog/2023/11/honeypots-for-intrusion-detection/)
 * [2023-11-24, 14:31:30](https://lobste.rs/s/j5okxb/useless_ruby_sugar_argument_forwarding) - [“Useless Ruby sugar”: Argument forwarding](https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html)
@@ -24,7 +25,6 @@
 * [2023-11-23, 16:38:28](https://lobste.rs/s/c9il1d/there_s_such_thing_as_using_too_many_ifs) - [There's Such a Thing As Using Too Many Ifs (2019)](https://dreith.com/blog/theres-such-a-thing-as-using-too-many-ifs/)
 * [2023-11-23, 15:39:05](https://lobste.rs/s/jsgmis/separating_debug_symbols_from) - [Separating debug symbols from executables](https://www.tweag.io/blog/2023-11-23-debug-fission/)
 * [2023-11-23, 13:01:01](https://lobste.rs/s/endspx/software_you_are_thankful_for) - [Software you are thankful for](https://lobste.rs/s/endspx/software_you_are_thankful_for)
-* [2023-11-22, 20:40:44](https://lobste.rs/s/rw8mwg/retries_interactive_study_common_retry) - [Retries – An interactive study of common retry methods](https://encore.dev/blog/retries)
 
 ## [Archives](archives/index.md)
 

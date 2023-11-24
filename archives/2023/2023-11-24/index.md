@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 17:51:23](https://lobste.rs/s/zowxca/on_harmful_overuse_std_move) - [On harmful overuse of std::move](https://devblogs.microsoft.com/oldnewthing/20231124-00/?p=109059)
+* [2023-11-24, 17:51:02](https://lobste.rs/s/aysyan/dockerfile_arg_footgun) - [Dockerfile ARG footgun](https://jmtd.net/log/dockerfile_arg_footgun/)
 * [2023-11-24, 17:42:18](https://lobste.rs/s/iap7qb/etcd_concurrency_stm) - [Etcd and concurrency STM](https://george.macro.re/posts/etcd-and-concurrency-stm)
 * [2023-11-24, 16:42:22](https://lobste.rs/s/yepcsr/change_data_capture_breaks) - [\"Change Data Capture Breaks Encapsulation\". Does it, though?](https://www.decodable.co/blog/change-data-capture-breaks-encapsulation-does-it-though)
 * [2023-11-24, 16:41:41](https://lobste.rs/s/x1bk5j/how_apple_s_pro_display_xdr_takes) - [How Apple's Pro Display XDR takes Thunderbolt 3 to its limit](https://fabiensanglard.net/xdr/index.html)
