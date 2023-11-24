@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-24, 03:03:33",
+      "https://lobste.rs/s/by2i60/technique_wall_off_interface_go"
+    ],
+    [
+      "A technique to wall off an interface in Go",
+      "https://brandur.org/atoms#gozejms"
+    ]
+  ],
+  [
+    [
       "2023-11-24, 01:59:31",
       "https://lobste.rs/s/wz8ydj/aitertools_well_tested_utility"
     ],
@@ -237,16 +247,6 @@
     [
       "Email obfuscation: What still works in 2023?",
       "https://spencermortensen.com/articles/email-obfuscation/"
-    ]
-  ],
-  [
-    [
-      "2023-11-22, 16:47:51",
-      "https://lobste.rs/s/kfy17h/interactive_guide_css_grid"
-    ],
-    [
-      "An Interactive Guide to CSS Grid",
-      "https://www.joshwcomeau.com/css/interactive-guide-to-grid/"
     ]
   ]
 ]
