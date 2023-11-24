@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-24, 22:36:52",
+      "https://lobste.rs/s/uoasj5/zero_downtime_live_migration_stateful"
+    ],
+    [
+      "Zero-Downtime Live Migration of Stateful VMs on Kubernetes",
+      "https://www.youtube.com/watch?v=HrtX0JrjekE"
+    ]
+  ],
+  [
+    [
       "2023-11-24, 21:30:53",
       "https://lobste.rs/s/oig2tj/defense_against_dark_art_rebalancing"
     ],
@@ -27,16 +37,6 @@
     [
       "Database generated columns⁽²⁾: Django & PostgreSQL",
       "https://www.paulox.net/2023/11/24/database-generated-columns-part-2-django-and-postgresql/"
-    ]
-  ],
-  [
-    [
-      "2023-11-24, 18:25:31",
-      "https://lobste.rs/s/i3muyt/apple_video_decoder_notes_2_4k_stream"
-    ],
-    [
-      "Apple Video Decoder Notes 2: To 4K Stream",
-      "https://eiln.net/avd-notes2.html"
     ]
   ],
   [
