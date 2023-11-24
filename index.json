@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-11-24, 14:47:29",
+      "https://lobste.rs/s/x5vwou/positive_only_hacker_news_rss_feed"
+    ],
+    [
+      "A Positive-only Hacker News RSS Feed",
+      "https://github.com/garritfra/positive_hackernews"
+    ]
+  ],
+  [
+    [
       "2023-11-24, 14:44:06",
       "https://lobste.rs/s/lesbvh/honeypots_for_intrusion_detection"
     ],
@@ -217,16 +227,6 @@
     [
       "Separating debug symbols from executables",
       "https://www.tweag.io/blog/2023-11-23-debug-fission/"
-    ]
-  ],
-  [
-    [
-      "2023-11-23, 15:30:51",
-      "https://lobste.rs/s/9jpfg2/basic_interpreter_hidden_esp32_silicon"
-    ],
-    [
-      "BASIC Interpreter Hidden In ESP32 Silicon",
-      "https://hackaday.com/2016/10/27/basic-interpreter-hidden-in-esp32-silicon/"
     ]
   ],
   [
