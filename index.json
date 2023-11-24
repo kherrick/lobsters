@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-24, 14:31:30",
+      "https://lobste.rs/s/j5okxb/useless_ruby_sugar_argument_forwarding"
+    ],
+    [
+      "“Useless Ruby sugar”: Argument forwarding",
+      "https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-24, 14:28:37",
+      "https://lobste.rs/s/gpt9kk/quapl_quantum_computing_library_apl"
+    ],
+    [
+      "quAPL – A Quantum Computing Library in APL",
+      "https://www.youtube.com/watch?v=GtAlrhhCd5A"
+    ]
+  ],
+  [
+    [
       "2023-11-24, 14:01:13",
       "https://lobste.rs/s/so857a/adapting_wozmon_for_breadboard_6502"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2023-11-23, 23:37:34",
-      "https://lobste.rs/s/xbkako/take_different_approach_building_c"
-    ],
-    [
-      "Take a different approach to building C++ projects",
-      "https://rachelbythebay.com/bb/"
-    ]
-  ],
-  [
-    [
       "2023-11-23, 21:24:55",
       "https://lobste.rs/s/ogfcnz/lua_carousel_create_little_programs_on"
     ],
@@ -147,16 +157,6 @@
     [
       "keylock: macOS utility to lock the keyboard for easy cleaning",
       "https://github.com/kfv/keylock"
-    ]
-  ],
-  [
-    [
-      "2023-11-23, 19:38:55",
-      "https://lobste.rs/s/uupw2i/bluetooth_stack_modifications_improve"
-    ],
-    [
-      "Bluetooth stack modifications to improve audio quality on headphones without AAC, aptX, or LDAC codecs",
-      "https://habr.com/en/articles/456476/"
     ]
   ],
   [
