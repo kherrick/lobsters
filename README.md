@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-24, 14:01:13](https://lobste.rs/s/so857a/adapting_wozmon_for_breadboard_6502) - [Adapting WozMon for the breadboard 6502](https://www.youtube.com/watch?v=7M8LvMtdcgY)
 * [2023-11-24, 12:30:56](https://lobste.rs/s/c0wdlc/cpython_object_system_internals) - [CPython Object System Internals: Understanding the Role of PyObject](https://codeconfessions.substack.com/p/cpython-object-system-internals-understanding)
 * [2023-11-24, 11:46:59](https://lobste.rs/s/vzwiie/making_games_go_for_absolute_beginners) - [Making Games in Go for Absolute Beginners](https://threedots.tech/post/making-games-in-go/)
 * [2023-11-24, 11:36:50](https://lobste.rs/s/6d3gob/tdd_outcomes) - [TDD Outcomes](https://tidyfirst.substack.com/p/tdd-outcomes)
@@ -23,7 +24,6 @@
 * [2023-11-23, 13:01:01](https://lobste.rs/s/endspx/software_you_are_thankful_for) - [Software you are thankful for](https://lobste.rs/s/endspx/software_you_are_thankful_for)
 * [2023-11-23, 10:07:55](https://lobste.rs/s/wd4d0f/creating_macos_app_with_haskell_swift) - [Creating a macOS app with Haskell and Swift](https://alt-romes.github.io/posts/2023-11-10-creating-a-macos-app-with-haskell-and-swift.html)
 * [2023-11-23, 04:22:21](https://lobste.rs/s/ctifwl/how_how_not_design_rest_apis) - [How to (and how not to) design REST APIs](https://github.com/stickfigure/blog/wiki/How-to-(and-how-not-to)-design-REST-APIs)
-* [2023-11-23, 01:20:06](https://lobste.rs/s/w0uqrh/there_are_no_strings_on_me) - [There are no strings on me](https://www.scattered-thoughts.net/writing/there-are-no-strings-on-me/)
 * [2023-11-22, 20:40:44](https://lobste.rs/s/rw8mwg/retries_interactive_study_common_retry) - [Retries – An interactive study of common retry methods](https://encore.dev/blog/retries)
 
 ## [Archives](archives/index.md)

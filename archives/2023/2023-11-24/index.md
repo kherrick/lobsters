@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 14:01:13](https://lobste.rs/s/so857a/adapting_wozmon_for_breadboard_6502) - [Adapting WozMon for the breadboard 6502](https://www.youtube.com/watch?v=7M8LvMtdcgY)
 * [2023-11-24, 12:30:56](https://lobste.rs/s/c0wdlc/cpython_object_system_internals) - [CPython Object System Internals: Understanding the Role of PyObject](https://codeconfessions.substack.com/p/cpython-object-system-internals-understanding)
 * [2023-11-24, 11:46:59](https://lobste.rs/s/vzwiie/making_games_go_for_absolute_beginners) - [Making Games in Go for Absolute Beginners](https://threedots.tech/post/making-games-in-go/)
 * [2023-11-24, 11:36:50](https://lobste.rs/s/6d3gob/tdd_outcomes) - [TDD Outcomes](https://tidyfirst.substack.com/p/tdd-outcomes)
