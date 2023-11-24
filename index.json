@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-24, 16:42:22",
+      "https://lobste.rs/s/yepcsr/change_data_capture_breaks"
+    ],
+    [
+      "\"Change Data Capture Breaks Encapsulation\". Does it, though?",
+      "https://www.decodable.co/blog/change-data-capture-breaks-encapsulation-does-it-though"
+    ]
+  ],
+  [
+    [
+      "2023-11-24, 16:41:41",
+      "https://lobste.rs/s/x1bk5j/how_apple_s_pro_display_xdr_takes"
+    ],
+    [
+      "How Apple's Pro Display XDR takes Thunderbolt 3 to its limit",
+      "https://fabiensanglard.net/xdr/index.html"
+    ]
+  ],
+  [
+    [
       "2023-11-24, 16:00:39",
       "https://lobste.rs/s/acn2wc/fastify_vite_titans_combined"
     ],
@@ -37,16 +57,6 @@
     [
       "“Useless Ruby sugar”: Argument forwarding",
       "https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-24, 14:28:37",
-      "https://lobste.rs/s/gpt9kk/quapl_quantum_computing_library_apl"
-    ],
-    [
-      "quAPL – A Quantum Computing Library in APL",
-      "https://www.youtube.com/watch?v=GtAlrhhCd5A"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Software you are thankful for",
       "https://lobste.rs/s/endspx/software_you_are_thankful_for"
-    ]
-  ],
-  [
-    [
-      "2023-11-23, 04:22:21",
-      "https://lobste.rs/s/ctifwl/how_how_not_design_rest_apis"
-    ],
-    [
-      "How to (and how not to) design REST APIs",
-      "https://github.com/stickfigure/blog/wiki/How-to-(and-how-not-to)-design-REST-APIs"
     ]
   ],
   [
