@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-24](index.md)
 
+* [2023-11-24, 18:18:21](https://lobste.rs/s/avzcfh/intelligence_is_not_enough_bryan) - [Intelligence is not Enough | Bryan Cantrill | Monktoberfest 2023](https://www.youtube.com/watch?v=bQfJi7rjuEk)
 * [2023-11-24, 17:51:23](https://lobste.rs/s/zowxca/on_harmful_overuse_std_move) - [On harmful overuse of std::move](https://devblogs.microsoft.com/oldnewthing/20231124-00/?p=109059)
 * [2023-11-24, 17:51:02](https://lobste.rs/s/aysyan/dockerfile_arg_footgun) - [Dockerfile ARG footgun](https://jmtd.net/log/dockerfile_arg_footgun/)
 * [2023-11-24, 17:42:18](https://lobste.rs/s/iap7qb/etcd_concurrency_stm) - [Etcd and concurrency STM](https://george.macro.re/posts/etcd-and-concurrency-stm)
