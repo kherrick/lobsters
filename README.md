@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-24, 01:59:31](https://lobste.rs/s/wz8ydj/aitertools_well_tested_utility) - [aitertools: Well-tested utility functions dealing with async iterables](https://github.com/dahlia/aitertools)
 * [2023-11-24, 00:51:20](https://lobste.rs/s/ambsr4/fullcontrol_unconstrained_gcode_design) - [FullControl: unconstrained gcode design for 3D printers](https://github.com/FullControlXYZ/fullcontrol)
 * [2023-11-23, 23:37:34](https://lobste.rs/s/xbkako/take_different_approach_building_c) - [Take a different approach to building C++ projects](https://rachelbythebay.com/bb/)
 * [2023-11-23, 21:24:55](https://lobste.rs/s/ogfcnz/lua_carousel_create_little_programs_on) - [Lua Carousel: create little programs on desktop or mobile devices](https://akkartik.itch.io/carousel)
 * [2023-11-23, 20:30:57](https://lobste.rs/s/ujraql/keylock_macos_utility_lock_keyboard_for) - [keylock: macOS utility to lock the keyboard for easy cleaning](https://github.com/kfv/keylock)
-* [2023-11-23, 20:05:48](https://lobste.rs/s/2cqnvp/life_bug_report) - [Life of a Bug Report](https://www.1a-insec.net/blog/26-life-of-a-bug-report/)
 * [2023-11-23, 19:38:55](https://lobste.rs/s/uupw2i/bluetooth_stack_modifications_improve) - [Bluetooth stack modifications to improve audio quality on headphones without AAC, aptX, or LDAC codecs](https://habr.com/en/articles/456476/)
 * [2023-11-23, 17:38:01](https://lobste.rs/s/3csdvb/git_branches_intuition_reality) - [git branches: intuition & reality](https://jvns.ca/blog/2023/11/23/branches-intuition-reality/)
 * [2023-11-23, 16:52:54](https://lobste.rs/s/yas0oc/setenv_is_not_thread_safe_c_doesn_t_want_fix) - [Setenv is not Thread Safe and C Doesn't Want to Fix It](https://www.evanjones.ca/setenv-is-not-thread-safe.html)
