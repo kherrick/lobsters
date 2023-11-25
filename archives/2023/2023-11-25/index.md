@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-25](index.md)
 
+* [2023-11-25, 20:35:42](https://lobste.rs/s/sdpoow/phd_thesis_cascading_style_sheets_2005) - [PhD Thesis: Cascading Style Sheets (2005)](https://www.wiumlie.no/2006/phd/)
 * [2023-11-25, 19:46:07](https://lobste.rs/s/yu41n5/native_emacs_macos_ux_integrations_via) - [Native Emacs/macOS UX integrations via Swift modules](https://xenodium.com/native-emacsmacos-ux-integrations-via-swift-modules/)
 * [2023-11-25, 19:04:06](https://lobste.rs/s/w9mojb/freezing_style) - [Freezing in Style](https://blog.broulik.de/2023/11/freezing-in-style/)
 * [2023-11-25, 18:44:17](https://lobste.rs/s/alixhy/why_lowercase_letters_save_data_endtimes) - [why lowercase letters save data | endtimes.dev](https://endtimes.dev/why-lowercase-letters-save-data/)
