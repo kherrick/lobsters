@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-25, 18:13:00](https://lobste.rs/s/smnu99/raymond_chen_interview) - [The Raymond Chen Interview](https://youtu.be/HDicLHBvQQM)
 * [2023-11-25, 16:35:56](https://lobste.rs/s/g71orx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/g71orx/what_are_you_doing_this_weekend)
 * [2023-11-25, 15:04:28](https://lobste.rs/s/prhqd6/hiding_theory_practice) - [Hiding Theory in Practice](https://ferd.ca/hiding-theory-in-practice.html)
 * [2023-11-25, 13:49:33](https://lobste.rs/s/rocljo/full_source_bootstrap_building_from) - [The Full-Source Bootstrap: Building from source all the way down](https://guix.gnu.org/de/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
@@ -23,7 +24,6 @@
 * [2023-11-24, 11:36:50](https://lobste.rs/s/6d3gob/tdd_outcomes) - [TDD Outcomes](https://tidyfirst.substack.com/p/tdd-outcomes)
 * [2023-11-24, 09:57:28](https://lobste.rs/s/zvkboq/php_8_3_0_release_announcement) - [PHP 8.3.0 Release Announcement](https://www.php.net/releases/8.3/en.php)
 * [2023-11-24, 08:39:57](https://lobste.rs/s/bx45ly/flaketools_simpler_less_bug_prone_flake) - [FlakeTools: A simpler and less bug-prone flake-utils alternative](https://github.com/RGBCube/FlakeTools)
-* [2023-11-23, 21:24:55](https://lobste.rs/s/ogfcnz/lua_carousel_create_little_programs_on) - [Lua Carousel: create little programs on desktop or mobile devices](https://akkartik.itch.io/carousel)
 * [2023-11-23, 13:01:01](https://lobste.rs/s/endspx/software_you_are_thankful_for) - [Software you are thankful for](https://lobste.rs/s/endspx/software_you_are_thankful_for)
 
 ## [Archives](archives/index.md)
