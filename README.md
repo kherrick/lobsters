@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-25, 22:17:50](https://lobste.rs/s/aizdbe/another_way_botch_security_analysis) - [Another way to botch the security analysis of Kyber-512](https://blog.cr.yp.to/20231125-kyber.html)
 * [2023-11-25, 21:51:46](https://lobste.rs/s/ln6mcs/no_three_line) - [No three in a line](https://apieceofthepi.substack.com/p/no-three-in-a-line)
 * [2023-11-25, 20:35:42](https://lobste.rs/s/sdpoow/phd_thesis_cascading_style_sheets_2005) - [PhD Thesis: Cascading Style Sheets (2005)](https://www.wiumlie.no/2006/phd/)
 * [2023-11-25, 19:46:07](https://lobste.rs/s/yu41n5/native_emacs_macos_ux_integrations_via) - [Native Emacs/macOS UX integrations via Swift modules](https://xenodium.com/native-emacsmacos-ux-integrations-via-swift-modules/)
@@ -24,7 +25,6 @@
 * [2023-11-24, 16:41:41](https://lobste.rs/s/x1bk5j/how_apple_s_pro_display_xdr_takes) - [How Apple's Pro Display XDR takes Thunderbolt 3 to its limit](https://fabiensanglard.net/xdr/index.html)
 * [2023-11-24, 14:47:29](https://lobste.rs/s/x5vwou/positive_only_hacker_news_rss_feed) - [A Positive-only Hacker News RSS Feed](https://github.com/garritfra/positive_hackernews)
 * [2023-11-24, 14:31:30](https://lobste.rs/s/j5okxb/useless_ruby_sugar_argument_forwarding) - [“Useless Ruby sugar”: Argument forwarding](https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html)
-* [2023-11-24, 09:57:28](https://lobste.rs/s/zvkboq/php_8_3_0_release_announcement) - [PHP 8.3.0 Release Announcement](https://www.php.net/releases/8.3/en.php)
 
 ## [Archives](archives/index.md)
 
