@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-25, 07:44:22",
+      "https://lobste.rs/s/zwur6z/secure_dns_dot_doh_is_not_enough"
+    ],
+    [
+      "Secure DNS (DoT & DoH) is not enough",
+      "https://lu.sagebl.eu/notes/secure-dns-dot-doh-is-not-enough/"
+    ]
+  ],
+  [
+    [
       "2023-11-25, 05:48:43",
       "https://lobste.rs/s/502ycr/reducing_kernel_maintainer_burnout"
     ],
@@ -127,16 +137,6 @@
     [
       "A Positive-only Hacker News RSS Feed",
       "https://github.com/garritfra/positive_hackernews"
-    ]
-  ],
-  [
-    [
-      "2023-11-24, 14:44:06",
-      "https://lobste.rs/s/lesbvh/honeypots_for_intrusion_detection"
-    ],
-    [
-      "Honeypots for Intrusion Detection",
-      "https://tracebit.com/blog/2023/11/honeypots-for-intrusion-detection/"
     ]
   ],
   [
