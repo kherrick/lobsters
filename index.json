@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-25, 19:46:07",
+      "https://lobste.rs/s/yu41n5/native_emacs_macos_ux_integrations_via"
+    ],
+    [
+      "Native Emacs/macOS UX integrations via Swift modules",
+      "https://xenodium.com/native-emacsmacos-ux-integrations-via-swift-modules/"
+    ]
+  ],
+  [
+    [
       "2023-11-25, 19:04:06",
       "https://lobste.rs/s/w9mojb/freezing_style"
     ],
@@ -217,16 +227,6 @@
     [
       "“Useless Ruby sugar”: Argument forwarding",
       "https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-24, 12:30:56",
-      "https://lobste.rs/s/c0wdlc/cpython_object_system_internals"
-    ],
-    [
-      "CPython Object System Internals: Understanding the Role of PyObject",
-      "https://codeconfessions.substack.com/p/cpython-object-system-internals-understanding"
     ]
   ],
   [
