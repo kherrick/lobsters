@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2023-11-24, 14:28:37",
+      "https://lobste.rs/s/gpt9kk/quapl_quantum_computing_library_apl"
+    ],
+    [
+      "quAPL – A Quantum Computing Library in APL",
+      "https://www.youtube.com/watch?v=GtAlrhhCd5A"
+    ]
+  ],
+  [
+    [
       "2023-11-24, 12:30:56",
       "https://lobste.rs/s/c0wdlc/cpython_object_system_internals"
     ],
@@ -217,16 +227,6 @@
     [
       "keylock: macOS utility to lock the keyboard for easy cleaning",
       "https://github.com/kfv/keylock"
-    ]
-  ],
-  [
-    [
-      "2023-11-23, 16:52:54",
-      "https://lobste.rs/s/yas0oc/setenv_is_not_thread_safe_c_doesn_t_want_fix"
-    ],
-    [
-      "Setenv is not Thread Safe and C Doesn't Want to Fix It",
-      "https://www.evanjones.ca/setenv-is-not-thread-safe.html"
     ]
   ],
   [
