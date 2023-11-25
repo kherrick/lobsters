@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-25, 18:13:00",
+      "https://lobste.rs/s/smnu99/raymond_chen_interview"
+    ],
+    [
+      "The Raymond Chen Interview",
+      "https://youtu.be/HDicLHBvQQM"
+    ]
+  ],
+  [
+    [
       "2023-11-25, 16:35:56",
       "https://lobste.rs/s/g71orx/what_are_you_doing_this_weekend"
     ],
@@ -227,16 +237,6 @@
     [
       "FlakeTools: A simpler and less bug-prone flake-utils alternative",
       "https://github.com/RGBCube/FlakeTools"
-    ]
-  ],
-  [
-    [
-      "2023-11-23, 21:24:55",
-      "https://lobste.rs/s/ogfcnz/lua_carousel_create_little_programs_on"
-    ],
-    [
-      "Lua Carousel: create little programs on desktop or mobile devices",
-      "https://akkartik.itch.io/carousel"
     ]
   ],
   [
