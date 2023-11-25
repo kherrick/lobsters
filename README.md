@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-25, 21:51:46](https://lobste.rs/s/ln6mcs/no_three_line) - [No three in a line](https://apieceofthepi.substack.com/p/no-three-in-a-line)
 * [2023-11-25, 20:35:42](https://lobste.rs/s/sdpoow/phd_thesis_cascading_style_sheets_2005) - [PhD Thesis: Cascading Style Sheets (2005)](https://www.wiumlie.no/2006/phd/)
 * [2023-11-25, 19:46:07](https://lobste.rs/s/yu41n5/native_emacs_macos_ux_integrations_via) - [Native Emacs/macOS UX integrations via Swift modules](https://xenodium.com/native-emacsmacos-ux-integrations-via-swift-modules/)
 * [2023-11-25, 19:04:06](https://lobste.rs/s/w9mojb/freezing_style) - [Freezing in Style](https://blog.broulik.de/2023/11/freezing-in-style/)
@@ -24,7 +25,6 @@
 * [2023-11-24, 14:47:29](https://lobste.rs/s/x5vwou/positive_only_hacker_news_rss_feed) - [A Positive-only Hacker News RSS Feed](https://github.com/garritfra/positive_hackernews)
 * [2023-11-24, 14:31:30](https://lobste.rs/s/j5okxb/useless_ruby_sugar_argument_forwarding) - [“Useless Ruby sugar”: Argument forwarding](https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html)
 * [2023-11-24, 09:57:28](https://lobste.rs/s/zvkboq/php_8_3_0_release_announcement) - [PHP 8.3.0 Release Announcement](https://www.php.net/releases/8.3/en.php)
-* [2023-11-23, 13:01:01](https://lobste.rs/s/endspx/software_you_are_thankful_for) - [Software you are thankful for](https://lobste.rs/s/endspx/software_you_are_thankful_for)
 
 ## [Archives](archives/index.md)
 
