@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-11-25](index.md)
+
+* [2023-11-25, 01:04:04](https://lobste.rs/s/q8c34m/paper_you_want_my_password_dead_patient) - [Paper: You Want My Password or a Dead Patient?](https://cohost.org/mononcqc/post/3647311-paper-you-want-my-p)

@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-25, 01:04:04](https://lobste.rs/s/q8c34m/paper_you_want_my_password_dead_patient) - [Paper: You Want My Password or a Dead Patient?](https://cohost.org/mononcqc/post/3647311-paper-you-want-my-p)
 * [2023-11-24, 22:36:52](https://lobste.rs/s/uoasj5/zero_downtime_live_migration_stateful) - [Zero-Downtime Live Migration of Stateful VMs on Kubernetes](https://www.youtube.com/watch?v=HrtX0JrjekE)
 * [2023-11-24, 21:30:53](https://lobste.rs/s/oig2tj/defense_against_dark_art_rebalancing) - [Defense Against the Dark Art of Rebalancing in Kafka Streams](https://www.responsive.dev/blog/guide-to-kafka-streams-rebalancing)
-* [2023-11-24, 19:46:27](https://lobste.rs/s/iyzqho/release_garn_version_v0_0_16) - [Release: garn version v0.0.16](https://garnix.io/blog/garn-v0_0_16)
 * [2023-11-24, 18:49:07](https://lobste.rs/s/9zx75r/database_generated_columns_django) - [Database generated columns⁽²⁾: Django & PostgreSQL](https://www.paulox.net/2023/11/24/database-generated-columns-part-2-django-and-postgresql/)
 * [2023-11-24, 18:18:21](https://lobste.rs/s/avzcfh/intelligence_is_not_enough) - [Intelligence is not Enough](https://www.youtube.com/watch?v=bQfJi7rjuEk)
 * [2023-11-24, 17:51:23](https://lobste.rs/s/zowxca/on_harmful_overuse_std_move) - [On harmful overuse of std::move](https://devblogs.microsoft.com/oldnewthing/20231124-00/?p=109059)
