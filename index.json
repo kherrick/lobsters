@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-25, 13:49:33",
+      "https://lobste.rs/s/rocljo/full_source_bootstrap_building_from"
+    ],
+    [
+      "The Full-Source Bootstrap: Building from source all the way down",
+      "https://guix.gnu.org/de/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/"
+    ]
+  ],
+  [
+    [
       "2023-11-25, 13:19:48",
       "https://lobste.rs/s/ca5oqz/offices_betting_on_serendipity_water"
     ],
@@ -227,16 +237,6 @@
     [
       "Lua Carousel: create little programs on desktop or mobile devices",
       "https://akkartik.itch.io/carousel"
-    ]
-  ],
-  [
-    [
-      "2023-11-23, 15:39:05",
-      "https://lobste.rs/s/jsgmis/separating_debug_symbols_from"
-    ],
-    [
-      "Separating debug symbols from executables",
-      "https://www.tweag.io/blog/2023-11-23-debug-fission/"
     ]
   ],
   [
