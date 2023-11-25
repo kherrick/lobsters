@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-25, 13:19:48](https://lobste.rs/s/ca5oqz/offices_betting_on_serendipity_water) - [Offices, Betting on Serendipity, and Water Coolers](https://ewencp.org/blog/offices-betting-on-serendipity-and-water-coolers/)
 * [2023-11-25, 11:36:16](https://lobste.rs/s/ewo2ot/announcing_offpunk_2_0) - [Announcing Offpunk 2.0](https://ploum.net/2023-11-25-offpunk2.html)
 * [2023-11-25, 07:44:22](https://lobste.rs/s/zwur6z/secure_dns_dot_doh_is_not_enough) - [Secure DNS (DoT & DoH) is not enough](https://lu.sagebl.eu/notes/secure-dns-dot-doh-is-not-enough/)
 * [2023-11-25, 05:48:43](https://lobste.rs/s/502ycr/reducing_kernel_maintainer_burnout) - [Reducing kernel-maintainer burnout](https://lwn.net/SubscriberLink/952034/922c90d8097bd209/)
@@ -13,7 +14,6 @@
 * [2023-11-24, 17:51:02](https://lobste.rs/s/aysyan/dockerfile_arg_footgun) - [Dockerfile ARG footgun](https://jmtd.net/log/dockerfile_arg_footgun/)
 * [2023-11-24, 16:42:22](https://lobste.rs/s/yepcsr/change_data_capture_breaks) - [\"Change Data Capture Breaks Encapsulation\". Does it, though?](https://www.decodable.co/blog/change-data-capture-breaks-encapsulation-does-it-though)
 * [2023-11-24, 16:41:41](https://lobste.rs/s/x1bk5j/how_apple_s_pro_display_xdr_takes) - [How Apple's Pro Display XDR takes Thunderbolt 3 to its limit](https://fabiensanglard.net/xdr/index.html)
-* [2023-11-24, 16:00:39](https://lobste.rs/s/acn2wc/fastify_vite_titans_combined) - [@fastify/vite: Titans Combined](https://fastify-vite.dev/)
 * [2023-11-24, 14:47:29](https://lobste.rs/s/x5vwou/positive_only_hacker_news_rss_feed) - [A Positive-only Hacker News RSS Feed](https://github.com/garritfra/positive_hackernews)
 * [2023-11-24, 14:31:30](https://lobste.rs/s/j5okxb/useless_ruby_sugar_argument_forwarding) - [“Useless Ruby sugar”: Argument forwarding](https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html)
 * [2023-11-24, 12:30:56](https://lobste.rs/s/c0wdlc/cpython_object_system_internals) - [CPython Object System Internals: Understanding the Role of PyObject](https://codeconfessions.substack.com/p/cpython-object-system-internals-understanding)
