@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-25, 13:49:33](https://lobste.rs/s/rocljo/full_source_bootstrap_building_from) - [The Full-Source Bootstrap: Building from source all the way down](https://guix.gnu.org/de/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
 * [2023-11-25, 13:19:48](https://lobste.rs/s/ca5oqz/offices_betting_on_serendipity_water) - [Offices, Betting on Serendipity, and Water Coolers](https://ewencp.org/blog/offices-betting-on-serendipity-and-water-coolers/)
 * [2023-11-25, 11:36:16](https://lobste.rs/s/ewo2ot/announcing_offpunk_2_0) - [Announcing Offpunk 2.0](https://ploum.net/2023-11-25-offpunk2.html)
 * [2023-11-25, 07:44:22](https://lobste.rs/s/zwur6z/secure_dns_dot_doh_is_not_enough) - [Secure DNS (DoT & DoH) is not enough](https://lu.sagebl.eu/notes/secure-dns-dot-doh-is-not-enough/)
@@ -23,7 +24,6 @@
 * [2023-11-24, 08:39:57](https://lobste.rs/s/bx45ly/flaketools_simpler_less_bug_prone_flake) - [FlakeTools: A simpler and less bug-prone flake-utils alternative](https://github.com/RGBCube/FlakeTools)
 * [2023-11-24, 08:09:09](https://lobste.rs/s/3so8nv/forgiveness_as_engineer) - [Forgiveness as an engineer](https://dev.to/karelvandenbussche/forgiveness-as-an-engineer-4lbg)
 * [2023-11-23, 21:24:55](https://lobste.rs/s/ogfcnz/lua_carousel_create_little_programs_on) - [Lua Carousel: create little programs on desktop or mobile devices](https://akkartik.itch.io/carousel)
-* [2023-11-23, 15:39:05](https://lobste.rs/s/jsgmis/separating_debug_symbols_from) - [Separating debug symbols from executables](https://www.tweag.io/blog/2023-11-23-debug-fission/)
 * [2023-11-23, 13:01:01](https://lobste.rs/s/endspx/software_you_are_thankful_for) - [Software you are thankful for](https://lobste.rs/s/endspx/software_you_are_thankful_for)
 
 ## [Archives](archives/index.md)

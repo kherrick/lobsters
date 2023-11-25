@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-25](index.md)
 
+* [2023-11-25, 13:49:33](https://lobste.rs/s/rocljo/full_source_bootstrap_building_from) - [The Full-Source Bootstrap: Building from source all the way down](https://guix.gnu.org/de/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
 * [2023-11-25, 13:19:48](https://lobste.rs/s/ca5oqz/offices_betting_on_serendipity_water) - [Offices, Betting on Serendipity, and Water Coolers](https://ewencp.org/blog/offices-betting-on-serendipity-and-water-coolers/)
 * [2023-11-25, 11:36:16](https://lobste.rs/s/ewo2ot/announcing_offpunk_2_0) - [Announcing Offpunk 2.0](https://ploum.net/2023-11-25-offpunk2.html)
 * [2023-11-25, 07:44:22](https://lobste.rs/s/zwur6z/secure_dns_dot_doh_is_not_enough) - [Secure DNS (DoT & DoH) is not enough](https://lu.sagebl.eu/notes/secure-dns-dot-doh-is-not-enough/)
