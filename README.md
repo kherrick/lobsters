@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-25, 18:44:17](https://lobste.rs/s/alixhy/why_lowercase_letters_save_data_endtimes) - [why lowercase letters save data | endtimes.dev](https://endtimes.dev/why-lowercase-letters-save-data/)
 * [2023-11-25, 18:35:17](https://lobste.rs/s/erdn2p/eleventh_circle_hell_setting_up_rpi) - [The eleventh circle of hell: setting up an RPi camera module](https://www.biodigitaljazz.net/blog/picam.html)
 * [2023-11-25, 18:13:00](https://lobste.rs/s/smnu99/raymond_chen_interview) - [The Raymond Chen Interview](https://youtu.be/HDicLHBvQQM)
 * [2023-11-25, 16:35:56](https://lobste.rs/s/g71orx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/g71orx/what_are_you_doing_this_weekend)
@@ -23,7 +24,6 @@
 * [2023-11-24, 14:31:30](https://lobste.rs/s/j5okxb/useless_ruby_sugar_argument_forwarding) - [“Useless Ruby sugar”: Argument forwarding](https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html)
 * [2023-11-24, 12:30:56](https://lobste.rs/s/c0wdlc/cpython_object_system_internals) - [CPython Object System Internals: Understanding the Role of PyObject](https://codeconfessions.substack.com/p/cpython-object-system-internals-understanding)
 * [2023-11-24, 09:57:28](https://lobste.rs/s/zvkboq/php_8_3_0_release_announcement) - [PHP 8.3.0 Release Announcement](https://www.php.net/releases/8.3/en.php)
-* [2023-11-24, 08:39:57](https://lobste.rs/s/bx45ly/flaketools_simpler_less_bug_prone_flake) - [FlakeTools: A simpler and less bug-prone flake-utils alternative](https://github.com/RGBCube/FlakeTools)
 * [2023-11-23, 13:01:01](https://lobste.rs/s/endspx/software_you_are_thankful_for) - [Software you are thankful for](https://lobste.rs/s/endspx/software_you_are_thankful_for)
 
 ## [Archives](archives/index.md)
