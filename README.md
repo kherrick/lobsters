@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-25, 23:03:42](https://lobste.rs/s/xnmpm7/doug_lenat_s_source_code_for_am_possibly) - [Doug Lenat's source code for AM and possibly EURISKO w/Traveller found in public archives](https://white-flame.com/am-eurisko.html)
 * [2023-11-25, 22:17:50](https://lobste.rs/s/aizdbe/another_way_botch_security_analysis) - [Another way to botch the security analysis of Kyber-512](https://blog.cr.yp.to/20231125-kyber.html)
 * [2023-11-25, 21:51:46](https://lobste.rs/s/ln6mcs/no_three_line) - [No three in a line](https://apieceofthepi.substack.com/p/no-three-in-a-line)
 * [2023-11-25, 20:35:42](https://lobste.rs/s/sdpoow/phd_thesis_cascading_style_sheets_2005) - [PhD Thesis: Cascading Style Sheets (2005)](https://www.wiumlie.no/2006/phd/)
@@ -22,7 +23,6 @@
 * [2023-11-24, 17:51:23](https://lobste.rs/s/zowxca/on_harmful_overuse_std_move) - [On harmful overuse of std::move](https://devblogs.microsoft.com/oldnewthing/20231124-00/?p=109059)
 * [2023-11-24, 17:51:02](https://lobste.rs/s/aysyan/dockerfile_arg_footgun) - [Dockerfile ARG footgun](https://jmtd.net/log/dockerfile_arg_footgun/)
 * [2023-11-24, 16:42:22](https://lobste.rs/s/yepcsr/change_data_capture_breaks) - [\"Change Data Capture Breaks Encapsulation\". Does it, though?](https://www.decodable.co/blog/change-data-capture-breaks-encapsulation-does-it-though)
-* [2023-11-24, 16:41:41](https://lobste.rs/s/x1bk5j/how_apple_s_pro_display_xdr_takes) - [How Apple's Pro Display XDR takes Thunderbolt 3 to its limit](https://fabiensanglard.net/xdr/index.html)
 * [2023-11-24, 14:47:29](https://lobste.rs/s/x5vwou/positive_only_hacker_news_rss_feed) - [A Positive-only Hacker News RSS Feed](https://github.com/garritfra/positive_hackernews)
 * [2023-11-24, 14:31:30](https://lobste.rs/s/j5okxb/useless_ruby_sugar_argument_forwarding) - [“Useless Ruby sugar”: Argument forwarding](https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html)
 
