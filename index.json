@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-25, 03:48:23",
+      "https://lobste.rs/s/zxlyzc/contrarian_view_on_composition_over"
+    ],
+    [
+      "Contrarian view on composition over inheritance",
+      "https://coady.github.io/posts/composition-vs-inheritance.html"
+    ]
+  ],
+  [
+    [
       "2023-11-25, 03:30:32",
       "https://lobste.rs/s/t8hbl3/demystifying_gameboy_sm83_s_daa"
     ],
@@ -27,16 +37,6 @@
     [
       "Paper: You Want My Password or a Dead Patient?",
       "https://cohost.org/mononcqc/post/3647311-paper-you-want-my-p"
-    ]
-  ],
-  [
-    [
-      "2023-11-24, 22:36:52",
-      "https://lobste.rs/s/uoasj5/zero_downtime_live_migration_stateful"
-    ],
-    [
-      "Zero-Downtime Live Migration of Stateful VMs on Kubernetes",
-      "https://www.youtube.com/watch?v=HrtX0JrjekE"
     ]
   ],
   [
