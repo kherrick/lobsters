@@ -42,10 +42,10 @@
   [
     [
       "2023-11-25, 18:13:00",
-      "https://lobste.rs/s/smnu99/raymond_chen_interview"
+      "https://lobste.rs/s/smnu99/windows_at_1_000_frames_per_second"
     ],
     [
-      "The Raymond Chen Interview",
+      "Windows at 1,000 Frames Per Second",
       "https://youtu.be/HDicLHBvQQM"
     ]
   ],
@@ -77,16 +77,6 @@
     [
       "The Full-Source Bootstrap: Building from source all the way down",
       "https://guix.gnu.org/de/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/"
-    ]
-  ],
-  [
-    [
-      "2023-11-25, 13:19:48",
-      "https://lobste.rs/s/ca5oqz/offices_betting_on_serendipity_water"
-    ],
-    [
-      "Offices, Betting on Serendipity, and Water Coolers",
-      "https://ewencp.org/blog/offices-betting-on-serendipity-and-water-coolers/"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "“Useless Ruby sugar”: Argument forwarding",
       "https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-24, 12:30:56",
+      "https://lobste.rs/s/c0wdlc/cpython_object_system_internals"
+    ],
+    [
+      "CPython Object System Internals: Understanding the Role of PyObject",
+      "https://codeconfessions.substack.com/p/cpython-object-system-internals-understanding"
     ]
   ],
   [
