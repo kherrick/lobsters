@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-25, 22:17:50",
+      "https://lobste.rs/s/aizdbe/another_way_botch_security_analysis"
+    ],
+    [
+      "Another way to botch the security analysis of Kyber-512",
+      "https://blog.cr.yp.to/20231125-kyber.html"
+    ]
+  ],
+  [
+    [
       "2023-11-25, 21:51:46",
       "https://lobste.rs/s/ln6mcs/no_three_line"
     ],
@@ -237,16 +247,6 @@
     [
       "“Useless Ruby sugar”: Argument forwarding",
       "https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-24, 09:57:28",
-      "https://lobste.rs/s/zvkboq/php_8_3_0_release_announcement"
-    ],
-    [
-      "PHP 8.3.0 Release Announcement",
-      "https://www.php.net/releases/8.3/en.php"
     ]
   ]
 ]
