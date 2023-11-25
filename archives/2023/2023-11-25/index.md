@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-25](index.md)
 
+* [2023-11-25, 19:04:06](https://lobste.rs/s/w9mojb/freezing_style) - [Freezing in Style](https://blog.broulik.de/2023/11/freezing-in-style/)
 * [2023-11-25, 18:44:17](https://lobste.rs/s/alixhy/why_lowercase_letters_save_data_endtimes) - [why lowercase letters save data | endtimes.dev](https://endtimes.dev/why-lowercase-letters-save-data/)
 * [2023-11-25, 18:35:17](https://lobste.rs/s/erdn2p/eleventh_circle_hell_setting_up_rpi) - [The eleventh circle of hell: setting up an RPi camera module](https://www.biodigitaljazz.net/blog/picam.html)
 * [2023-11-25, 18:13:00](https://lobste.rs/s/smnu99/raymond_chen_interview) - [The Raymond Chen Interview](https://youtu.be/HDicLHBvQQM)

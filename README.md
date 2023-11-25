@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-25, 19:04:06](https://lobste.rs/s/w9mojb/freezing_style) - [Freezing in Style](https://blog.broulik.de/2023/11/freezing-in-style/)
 * [2023-11-25, 18:44:17](https://lobste.rs/s/alixhy/why_lowercase_letters_save_data_endtimes) - [why lowercase letters save data | endtimes.dev](https://endtimes.dev/why-lowercase-letters-save-data/)
 * [2023-11-25, 18:35:17](https://lobste.rs/s/erdn2p/eleventh_circle_hell_setting_up_rpi) - [The eleventh circle of hell: setting up an RPi camera module](https://www.biodigitaljazz.net/blog/picam.html)
 * [2023-11-25, 18:13:00](https://lobste.rs/s/smnu99/raymond_chen_interview) - [The Raymond Chen Interview](https://youtu.be/HDicLHBvQQM)
@@ -15,7 +16,6 @@
 * [2023-11-25, 03:30:10](https://lobste.rs/s/lsf7lk/tinytls_tls_cryptography_library_c_c) - [TinyTls TLS cryptography library in C/C++](https://github.com/Anthony-Mai/TinyTls)
 * [2023-11-25, 01:04:04](https://lobste.rs/s/q8c34m/paper_you_want_my_password_dead_patient) - [Paper: You Want My Password or a Dead Patient?](https://cohost.org/mononcqc/post/3647311-paper-you-want-my-p)
 * [2023-11-24, 18:49:07](https://lobste.rs/s/9zx75r/database_generated_columns_django) - [Database generated columns⁽²⁾: Django & PostgreSQL](https://www.paulox.net/2023/11/24/database-generated-columns-part-2-django-and-postgresql/)
-* [2023-11-24, 18:18:21](https://lobste.rs/s/avzcfh/intelligence_is_not_enough) - [Intelligence is not Enough](https://www.youtube.com/watch?v=bQfJi7rjuEk)
 * [2023-11-24, 17:51:23](https://lobste.rs/s/zowxca/on_harmful_overuse_std_move) - [On harmful overuse of std::move](https://devblogs.microsoft.com/oldnewthing/20231124-00/?p=109059)
 * [2023-11-24, 17:51:02](https://lobste.rs/s/aysyan/dockerfile_arg_footgun) - [Dockerfile ARG footgun](https://jmtd.net/log/dockerfile_arg_footgun/)
 * [2023-11-24, 16:42:22](https://lobste.rs/s/yepcsr/change_data_capture_breaks) - [\"Change Data Capture Breaks Encapsulation\". Does it, though?](https://www.decodable.co/blog/change-data-capture-breaks-encapsulation-does-it-though)
