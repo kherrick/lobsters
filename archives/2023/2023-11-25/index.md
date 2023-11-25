@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-25](index.md)
 
+* [2023-11-25, 16:35:56](https://lobste.rs/s/g71orx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/g71orx/what_are_you_doing_this_weekend)
 * [2023-11-25, 15:04:28](https://lobste.rs/s/prhqd6/hiding_theory_practice) - [Hiding Theory in Practice](https://ferd.ca/hiding-theory-in-practice.html)
 * [2023-11-25, 13:49:33](https://lobste.rs/s/rocljo/full_source_bootstrap_building_from) - [The Full-Source Bootstrap: Building from source all the way down](https://guix.gnu.org/de/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
 * [2023-11-25, 13:19:48](https://lobste.rs/s/ca5oqz/offices_betting_on_serendipity_water) - [Offices, Betting on Serendipity, and Water Coolers](https://ewencp.org/blog/offices-betting-on-serendipity-and-water-coolers/)

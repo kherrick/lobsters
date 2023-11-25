@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-25, 16:35:56](https://lobste.rs/s/g71orx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/g71orx/what_are_you_doing_this_weekend)
 * [2023-11-25, 15:04:28](https://lobste.rs/s/prhqd6/hiding_theory_practice) - [Hiding Theory in Practice](https://ferd.ca/hiding-theory-in-practice.html)
 * [2023-11-25, 13:49:33](https://lobste.rs/s/rocljo/full_source_bootstrap_building_from) - [The Full-Source Bootstrap: Building from source all the way down](https://guix.gnu.org/de/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
 * [2023-11-25, 13:19:48](https://lobste.rs/s/ca5oqz/offices_betting_on_serendipity_water) - [Offices, Betting on Serendipity, and Water Coolers](https://ewencp.org/blog/offices-betting-on-serendipity-and-water-coolers/)
@@ -19,7 +20,6 @@
 * [2023-11-24, 14:47:29](https://lobste.rs/s/x5vwou/positive_only_hacker_news_rss_feed) - [A Positive-only Hacker News RSS Feed](https://github.com/garritfra/positive_hackernews)
 * [2023-11-24, 14:31:30](https://lobste.rs/s/j5okxb/useless_ruby_sugar_argument_forwarding) - [“Useless Ruby sugar”: Argument forwarding](https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html)
 * [2023-11-24, 12:30:56](https://lobste.rs/s/c0wdlc/cpython_object_system_internals) - [CPython Object System Internals: Understanding the Role of PyObject](https://codeconfessions.substack.com/p/cpython-object-system-internals-understanding)
-* [2023-11-24, 11:46:59](https://lobste.rs/s/vzwiie/making_games_go_for_absolute_beginners) - [Making Games in Go for Absolute Beginners](https://threedots.tech/post/making-games-in-go/)
 * [2023-11-24, 11:36:50](https://lobste.rs/s/6d3gob/tdd_outcomes) - [TDD Outcomes](https://tidyfirst.substack.com/p/tdd-outcomes)
 * [2023-11-24, 09:57:28](https://lobste.rs/s/zvkboq/php_8_3_0_release_announcement) - [PHP 8.3.0 Release Announcement](https://www.php.net/releases/8.3/en.php)
 * [2023-11-24, 08:39:57](https://lobste.rs/s/bx45ly/flaketools_simpler_less_bug_prone_flake) - [FlakeTools: A simpler and less bug-prone flake-utils alternative](https://github.com/RGBCube/FlakeTools)
