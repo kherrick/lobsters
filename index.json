@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-25, 18:35:17",
+      "https://lobste.rs/s/erdn2p/eleventh_circle_hell_setting_up_rpi"
+    ],
+    [
+      "The eleventh circle of hell: setting up an RPi camera module",
+      "https://www.biodigitaljazz.net/blog/picam.html"
+    ]
+  ],
+  [
+    [
       "2023-11-25, 18:13:00",
       "https://lobste.rs/s/smnu99/raymond_chen_interview"
     ],
@@ -207,16 +217,6 @@
     [
       "CPython Object System Internals: Understanding the Role of PyObject",
       "https://codeconfessions.substack.com/p/cpython-object-system-internals-understanding"
-    ]
-  ],
-  [
-    [
-      "2023-11-24, 11:36:50",
-      "https://lobste.rs/s/6d3gob/tdd_outcomes"
-    ],
-    [
-      "TDD Outcomes",
-      "https://tidyfirst.substack.com/p/tdd-outcomes"
     ]
   ],
   [
