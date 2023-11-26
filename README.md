@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-26, 19:42:53](https://lobste.rs/s/mfjmuh/china_s_new_ish_sw26010_pro_supercomputer) - [China’s New(ish) SW26010-Pro Supercomputer at SC23](https://chipsandcheese.com/2023/11/20/chinas-newish-sw26010-pro-supercomputer-at-sc23/)
 * [2023-11-26, 18:37:19](https://lobste.rs/s/ipw8hv/how_apple_s_developers_reflashed_mac_roms) - [How Apple’s developers reflashed Mac ROMs in the ’90s](https://www.downtowndougbrown.com/2023/11/how-apples-developers-reflashed-mac-roms-in-the-90s/)
 * [2023-11-26, 17:54:44](https://lobste.rs/s/qlvcpm/interceptors_are_functions_too) - [Interceptors Are Functions Too](https://gist.github.com/quad/13e9f8b6e88dec1729e30b270ebf22df)
 * [2023-11-26, 17:48:16](https://lobste.rs/s/njbnyk/hacking_my_filter_coffee_machine) - [Hacking my filter coffee machine](https://diziet.dreamwidth.org/17079.html)
@@ -23,7 +24,6 @@
 * [2023-11-25, 13:49:33](https://lobste.rs/s/rocljo/full_source_bootstrap_building_from) - [The Full-Source Bootstrap: Building from source all the way down](https://guix.gnu.org/de/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
 * [2023-11-25, 11:36:16](https://lobste.rs/s/ewo2ot/announcing_offpunk_2_0) - [Announcing Offpunk 2.0](https://ploum.net/2023-11-25-offpunk2.html)
 * [2023-11-25, 05:48:43](https://lobste.rs/s/502ycr/reducing_kernel_maintainer_burnout) - [Reducing kernel-maintainer burnout](https://lwn.net/SubscriberLink/952034/922c90d8097bd209/)
-* [2023-11-25, 03:30:32](https://lobste.rs/s/t8hbl3/demystifying_gameboy_sm83_s_daa) - [Demystifying the GameBoy/SM83's DAA Instruction](https://blog.ollien.com/posts/gb-daa/)
 * [2023-11-25, 01:04:04](https://lobste.rs/s/q8c34m/paper_you_want_my_password_dead_patient) - [Paper: You Want My Password or a Dead Patient? (2015)](https://cohost.org/mononcqc/post/3647311-paper-you-want-my-p)
 
 ## [Archives](archives/index.md)
