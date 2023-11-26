@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-26](index.md)
 
+* [2023-11-26, 22:03:33](https://lobste.rs/s/hamnoj/minilogger_miniformat_miniostream) - [MiniLogger, MiniFormat, MiniOStream: lightweight C++ logging/formatting](https://github.com/snej/crouton/blob/main/docs/Mini.md)
 * [2023-11-26, 21:21:08](https://lobste.rs/s/rmig5d/building_netbsd_ramdisk_kernel) - [Building a NetBSD ramdisk kernel](https://bentsukun.ch/posts/ramdisk-kernel/)
 * [2023-11-26, 20:52:53](https://lobste.rs/s/5417dx/storing_data_pointers) - [Storing data in pointers](https://muxup.com/2023q4/storing-data-in-pointers)
 * [2023-11-26, 20:29:56](https://lobste.rs/s/0q7bgy/escaping_template_pattern_hellscape) - [Escaping the template pattern hellscape in Python](https://rednafi.com/python/escape_template_pattern/)
