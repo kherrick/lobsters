@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-26, 22:03:33",
+      "https://lobste.rs/s/hamnoj/minilogger_miniformat_miniostream"
+    ],
+    [
+      "MiniLogger, MiniFormat, MiniOStream: lightweight C++ logging/formatting",
+      "https://github.com/snej/crouton/blob/main/docs/Mini.md"
+    ]
+  ],
+  [
+    [
       "2023-11-26, 21:21:08",
       "https://lobste.rs/s/rmig5d/building_netbsd_ramdisk_kernel"
     ],
@@ -177,16 +187,6 @@
     [
       "Another way to botch the security analysis of Kyber-512",
       "https://blog.cr.yp.to/20231125-kyber.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-25, 20:35:42",
-      "https://lobste.rs/s/sdpoow/phd_thesis_cascading_style_sheets_2005"
-    ],
-    [
-      "PhD Thesis: Cascading Style Sheets (2005)",
-      "https://www.wiumlie.no/2006/phd/"
     ]
   ],
   [
