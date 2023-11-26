@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-26, 13:23:43](https://lobste.rs/s/zotbzl/making_font) - [making a font](https://kokorobot.ca/site/making_a_font.html)
+* [2023-11-26, 13:16:42](https://lobste.rs/s/rnr6oe/then_came_javascript) - [And Then Came JavaScript](https://www.cs.uni.edu/~wallingf/blog/archives/monthly/2023-11.html#e2023-11-24T12_17_41.htm)
 * [2023-11-26, 10:47:45](https://lobste.rs/s/frbh3v/many_explanations_join_are_wrong_people) - [Many explanations of JOIN are wrong, and people get confused](https://minimalmodeling.substack.com/p/many-explanations-of-join-are-wrong)
 * [2023-11-26, 07:00:04](https://lobste.rs/s/kfr5xm/risc_v_ox64_bl808_sbc_nuttx_apps_initial) - [RISC-V Ox64 BL808 SBC: NuttX Apps and Initial RAM Disk](https://lupyuen.github.io/articles/app)
 * [2023-11-26, 03:50:24](https://lobste.rs/s/yiruvr/vivaldi_summer_presto) - [Vivaldi Summer Presto](https://linusakesson.net/music/vivaldi-summer-presto/index.php)
@@ -22,9 +24,7 @@
 * [2023-11-25, 03:48:23](https://lobste.rs/s/zxlyzc/contrarian_view_on_composition_over) - [Contrarian view on composition over inheritance](https://coady.github.io/posts/composition-vs-inheritance.html)
 * [2023-11-25, 03:30:32](https://lobste.rs/s/t8hbl3/demystifying_gameboy_sm83_s_daa) - [Demystifying the GameBoy/SM83's DAA Instruction](https://blog.ollien.com/posts/gb-daa/)
 * [2023-11-25, 01:04:04](https://lobste.rs/s/q8c34m/paper_you_want_my_password_dead_patient) - [Paper: You Want My Password or a Dead Patient? (2015)](https://cohost.org/mononcqc/post/3647311-paper-you-want-my-p)
-* [2023-11-24, 17:51:23](https://lobste.rs/s/zowxca/on_harmful_overuse_std_move) - [On harmful overuse of std::move](https://devblogs.microsoft.com/oldnewthing/20231124-00/?p=109059)
 * [2023-11-24, 17:51:02](https://lobste.rs/s/aysyan/dockerfile_arg_footgun) - [Dockerfile ARG footgun](https://jmtd.net/log/dockerfile_arg_footgun/)
-* [2023-11-24, 16:42:22](https://lobste.rs/s/yepcsr/change_data_capture_breaks) - [\"Change Data Capture Breaks Encapsulation\". Does it, though?](https://www.decodable.co/blog/change-data-capture-breaks-encapsulation-does-it-though)
 
 ## [Archives](archives/index.md)
 

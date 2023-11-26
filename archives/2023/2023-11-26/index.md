@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-26](index.md)
 
+* [2023-11-26, 13:23:43](https://lobste.rs/s/zotbzl/making_font) - [making a font](https://kokorobot.ca/site/making_a_font.html)
+* [2023-11-26, 13:16:42](https://lobste.rs/s/rnr6oe/then_came_javascript) - [And Then Came JavaScript](https://www.cs.uni.edu/~wallingf/blog/archives/monthly/2023-11.html#e2023-11-24T12_17_41.htm)
 * [2023-11-26, 10:47:45](https://lobste.rs/s/frbh3v/many_explanations_join_are_wrong_people) - [Many explanations of JOIN are wrong, and people get confused](https://minimalmodeling.substack.com/p/many-explanations-of-join-are-wrong)
 * [2023-11-26, 07:00:04](https://lobste.rs/s/kfr5xm/risc_v_ox64_bl808_sbc_nuttx_apps_initial) - [RISC-V Ox64 BL808 SBC: NuttX Apps and Initial RAM Disk](https://lupyuen.github.io/articles/app)
 * [2023-11-26, 03:50:24](https://lobste.rs/s/yiruvr/vivaldi_summer_presto) - [Vivaldi Summer Presto](https://linusakesson.net/music/vivaldi-summer-presto/index.php)
