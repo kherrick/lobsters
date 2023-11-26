@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-26, 03:50:24](https://lobste.rs/s/yiruvr/vivaldi_summer_presto) - [Vivaldi Summer Presto](https://linusakesson.net/music/vivaldi-summer-presto/index.php)
 * [2023-11-26, 03:02:51](https://lobste.rs/s/xgav7a/using_ai_parse_election_results) - [Using AI to Parse Election Results](https://thescoop.org/archives/2023/11/25/using-ai-to-parse-election-results/index.html)
 * [2023-11-26, 02:10:48](https://lobste.rs/s/uigtfn/curse_docker) - [the curse of docker](https://computer.rip/2023-11-25-the-curse-of-docker.html)
 * [2023-11-25, 23:03:42](https://lobste.rs/s/xnmpm7/doug_lenat_s_source_code_for_am_possibly) - [Doug Lenat's source code for AM and possibly EURISKO w/Traveller found in public archives](https://white-flame.com/am-eurisko.html)
@@ -19,7 +20,6 @@
 * [2023-11-25, 05:48:43](https://lobste.rs/s/502ycr/reducing_kernel_maintainer_burnout) - [Reducing kernel-maintainer burnout](https://lwn.net/SubscriberLink/952034/922c90d8097bd209/)
 * [2023-11-25, 03:48:23](https://lobste.rs/s/zxlyzc/contrarian_view_on_composition_over) - [Contrarian view on composition over inheritance](https://coady.github.io/posts/composition-vs-inheritance.html)
 * [2023-11-25, 03:30:32](https://lobste.rs/s/t8hbl3/demystifying_gameboy_sm83_s_daa) - [Demystifying the GameBoy/SM83's DAA Instruction](https://blog.ollien.com/posts/gb-daa/)
-* [2023-11-25, 03:30:10](https://lobste.rs/s/lsf7lk/tinytls_tls_cryptography_library_c_c) - [TinyTls TLS cryptography library in C/C++](https://github.com/Anthony-Mai/TinyTls)
 * [2023-11-25, 01:04:04](https://lobste.rs/s/q8c34m/paper_you_want_my_password_dead_patient) - [Paper: You Want My Password or a Dead Patient?](https://cohost.org/mononcqc/post/3647311-paper-you-want-my-p)
 * [2023-11-24, 17:51:23](https://lobste.rs/s/zowxca/on_harmful_overuse_std_move) - [On harmful overuse of std::move](https://devblogs.microsoft.com/oldnewthing/20231124-00/?p=109059)
 * [2023-11-24, 17:51:02](https://lobste.rs/s/aysyan/dockerfile_arg_footgun) - [Dockerfile ARG footgun](https://jmtd.net/log/dockerfile_arg_footgun/)
