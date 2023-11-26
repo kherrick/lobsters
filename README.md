@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-26, 20:04:33](https://lobste.rs/s/7nmfq1/leadership_myth_replicated_databases) - [The Leadership Myth in Replicated Databases](https://maheshba.bitbucket.io/blog/2023/05/06/Leadership.html)
+* [2023-11-26, 19:57:45](https://lobste.rs/s/95yias/dependencies_belong_version_control) - [Dependencies Belong in Version Control](https://www.forrestthewoods.com/blog/dependencies-belong-in-version-control/)
 * [2023-11-26, 19:42:53](https://lobste.rs/s/mfjmuh/china_s_new_ish_sw26010_pro_supercomputer) - [China’s New(ish) SW26010-Pro Supercomputer at SC23](https://chipsandcheese.com/2023/11/20/chinas-newish-sw26010-pro-supercomputer-at-sc23/)
 * [2023-11-26, 18:37:19](https://lobste.rs/s/ipw8hv/how_apple_s_developers_reflashed_mac_roms) - [How Apple’s developers reflashed Mac ROMs in the ’90s](https://www.downtowndougbrown.com/2023/11/how-apples-developers-reflashed-mac-roms-in-the-90s/)
 * [2023-11-26, 17:54:44](https://lobste.rs/s/qlvcpm/interceptors_are_functions_too) - [Interceptors Are Functions Too](https://gist.github.com/quad/13e9f8b6e88dec1729e30b270ebf22df)
@@ -19,8 +21,6 @@
 * [2023-11-25, 18:44:17](https://lobste.rs/s/alixhy/why_lowercase_letters_save_data) - [why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
 * [2023-11-25, 18:35:17](https://lobste.rs/s/erdn2p/eleventh_circle_hell_setting_up_rpi) - [The eleventh circle of hell: setting up an RPi camera module](https://www.biodigitaljazz.net/blog/picam.html)
 * [2023-11-25, 18:13:00](https://lobste.rs/s/smnu99/windows_at_1_000_frames_per_second) - [Windows at 1,000 Frames Per Second](https://youtu.be/HDicLHBvQQM)
-* [2023-11-25, 16:35:56](https://lobste.rs/s/g71orx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/g71orx/what_are_you_doing_this_weekend)
-* [2023-11-25, 15:04:28](https://lobste.rs/s/prhqd6/hiding_theory_practice) - [Hiding Theory in Practice](https://ferd.ca/hiding-theory-in-practice.html)
 * [2023-11-25, 13:49:33](https://lobste.rs/s/rocljo/full_source_bootstrap_building_from) - [The Full-Source Bootstrap: Building from source all the way down](https://guix.gnu.org/de/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
 * [2023-11-25, 11:36:16](https://lobste.rs/s/ewo2ot/announcing_offpunk_2_0) - [Announcing Offpunk 2.0](https://ploum.net/2023-11-25-offpunk2.html)
 * [2023-11-25, 05:48:43](https://lobste.rs/s/502ycr/reducing_kernel_maintainer_burnout) - [Reducing kernel-maintainer burnout](https://lwn.net/SubscriberLink/952034/922c90d8097bd209/)

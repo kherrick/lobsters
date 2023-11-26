@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-26](index.md)
 
+* [2023-11-26, 20:04:33](https://lobste.rs/s/7nmfq1/leadership_myth_replicated_databases) - [The Leadership Myth in Replicated Databases](https://maheshba.bitbucket.io/blog/2023/05/06/Leadership.html)
+* [2023-11-26, 19:57:45](https://lobste.rs/s/95yias/dependencies_belong_version_control) - [Dependencies Belong in Version Control](https://www.forrestthewoods.com/blog/dependencies-belong-in-version-control/)
 * [2023-11-26, 19:42:53](https://lobste.rs/s/mfjmuh/china_s_new_ish_sw26010_pro_supercomputer) - [China’s New(ish) SW26010-Pro Supercomputer at SC23](https://chipsandcheese.com/2023/11/20/chinas-newish-sw26010-pro-supercomputer-at-sc23/)
 * [2023-11-26, 18:37:19](https://lobste.rs/s/ipw8hv/how_apple_s_developers_reflashed_mac_roms) - [How Apple’s developers reflashed Mac ROMs in the ’90s](https://www.downtowndougbrown.com/2023/11/how-apples-developers-reflashed-mac-roms-in-the-90s/)
 * [2023-11-26, 17:54:44](https://lobste.rs/s/qlvcpm/interceptors_are_functions_too) - [Interceptors Are Functions Too](https://gist.github.com/quad/13e9f8b6e88dec1729e30b270ebf22df)
