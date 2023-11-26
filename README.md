@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-26, 10:47:45](https://lobste.rs/s/frbh3v/many_explanations_join_are_wrong_people) - [Many explanations of JOIN are wrong, and people get confused](https://minimalmodeling.substack.com/p/many-explanations-of-join-are-wrong)
 * [2023-11-26, 07:00:04](https://lobste.rs/s/kfr5xm/risc_v_ox64_bl808_sbc_nuttx_apps_initial) - [RISC-V Ox64 BL808 SBC: NuttX Apps and Initial RAM Disk](https://lupyuen.github.io/articles/app)
 * [2023-11-26, 03:50:24](https://lobste.rs/s/yiruvr/vivaldi_summer_presto) - [Vivaldi Summer Presto](https://linusakesson.net/music/vivaldi-summer-presto/index.php)
 * [2023-11-26, 03:02:51](https://lobste.rs/s/xgav7a/using_ai_parse_election_results) - [Using AI to Parse Election Results](https://thescoop.org/archives/2023/11/25/using-ai-to-parse-election-results/index.html)
@@ -24,7 +25,6 @@
 * [2023-11-24, 17:51:23](https://lobste.rs/s/zowxca/on_harmful_overuse_std_move) - [On harmful overuse of std::move](https://devblogs.microsoft.com/oldnewthing/20231124-00/?p=109059)
 * [2023-11-24, 17:51:02](https://lobste.rs/s/aysyan/dockerfile_arg_footgun) - [Dockerfile ARG footgun](https://jmtd.net/log/dockerfile_arg_footgun/)
 * [2023-11-24, 16:42:22](https://lobste.rs/s/yepcsr/change_data_capture_breaks) - [\"Change Data Capture Breaks Encapsulation\". Does it, though?](https://www.decodable.co/blog/change-data-capture-breaks-encapsulation-does-it-though)
-* [2023-11-24, 14:31:30](https://lobste.rs/s/j5okxb/useless_ruby_sugar_argument_forwarding) - [“Useless Ruby sugar”: Argument forwarding](https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html)
 
 ## [Archives](archives/index.md)
 
