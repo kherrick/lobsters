@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-26, 16:48:07",
+      "https://lobste.rs/s/ywg6aw/themenix_theme_your_nixos_configuration"
+    ],
+    [
+      "ThemeNix: Theme your NixOS configuration consistently",
+      "https://github.com/RGBCube/ThemeNix"
+    ]
+  ],
+  [
+    [
       "2023-11-26, 14:39:37",
       "https://lobste.rs/s/hae3tf/write_guix_package_definitions_breeze"
     ],
@@ -237,16 +247,6 @@
     [
       "Paper: You Want My Password or a Dead Patient? (2015)",
       "https://cohost.org/mononcqc/post/3647311-paper-you-want-my-p"
-    ]
-  ],
-  [
-    [
-      "2023-11-24, 17:51:02",
-      "https://lobste.rs/s/aysyan/dockerfile_arg_footgun"
-    ],
-    [
-      "Dockerfile ARG footgun",
-      "https://jmtd.net/log/dockerfile_arg_footgun/"
     ]
   ]
 ]
