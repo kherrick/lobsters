@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-26, 02:10:48](https://lobste.rs/s/uigtfn/curse_docker) - [the curse of docker](https://computer.rip/2023-11-25-the-curse-of-docker.html)
 * [2023-11-25, 23:03:42](https://lobste.rs/s/xnmpm7/doug_lenat_s_source_code_for_am_possibly) - [Doug Lenat's source code for AM and possibly EURISKO w/Traveller found in public archives](https://white-flame.com/am-eurisko.html)
 * [2023-11-25, 22:17:50](https://lobste.rs/s/aizdbe/another_way_botch_security_analysis) - [Another way to botch the security analysis of Kyber-512](https://blog.cr.yp.to/20231125-kyber.html)
 * [2023-11-25, 21:51:46](https://lobste.rs/s/ln6mcs/no_three_line) - [No three in a line](https://apieceofthepi.substack.com/p/no-three-in-a-line)
@@ -19,7 +20,6 @@
 * [2023-11-25, 03:30:32](https://lobste.rs/s/t8hbl3/demystifying_gameboy_sm83_s_daa) - [Demystifying the GameBoy/SM83's DAA Instruction](https://blog.ollien.com/posts/gb-daa/)
 * [2023-11-25, 03:30:10](https://lobste.rs/s/lsf7lk/tinytls_tls_cryptography_library_c_c) - [TinyTls TLS cryptography library in C/C++](https://github.com/Anthony-Mai/TinyTls)
 * [2023-11-25, 01:04:04](https://lobste.rs/s/q8c34m/paper_you_want_my_password_dead_patient) - [Paper: You Want My Password or a Dead Patient?](https://cohost.org/mononcqc/post/3647311-paper-you-want-my-p)
-* [2023-11-24, 18:49:07](https://lobste.rs/s/9zx75r/database_generated_columns_django) - [Database generated columns⁽²⁾: Django & PostgreSQL](https://www.paulox.net/2023/11/24/database-generated-columns-part-2-django-and-postgresql/)
 * [2023-11-24, 17:51:23](https://lobste.rs/s/zowxca/on_harmful_overuse_std_move) - [On harmful overuse of std::move](https://devblogs.microsoft.com/oldnewthing/20231124-00/?p=109059)
 * [2023-11-24, 17:51:02](https://lobste.rs/s/aysyan/dockerfile_arg_footgun) - [Dockerfile ARG footgun](https://jmtd.net/log/dockerfile_arg_footgun/)
 * [2023-11-24, 16:42:22](https://lobste.rs/s/yepcsr/change_data_capture_breaks) - [\"Change Data Capture Breaks Encapsulation\". Does it, though?](https://www.decodable.co/blog/change-data-capture-breaks-encapsulation-does-it-though)
