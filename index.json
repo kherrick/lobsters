@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-26, 14:39:37",
+      "https://lobste.rs/s/hae3tf/write_guix_package_definitions_breeze"
+    ],
+    [
+      "Write guix package definitions in a breeze",
+      "https://guix.gnu.org/blog/2023/write-package-definitions-in-a-breeze/"
+    ]
+  ],
+  [
+    [
       "2023-11-26, 13:23:43",
       "https://lobste.rs/s/zotbzl/making_font"
     ],
@@ -237,16 +247,6 @@
     [
       "Dockerfile ARG footgun",
       "https://jmtd.net/log/dockerfile_arg_footgun/"
-    ]
-  ],
-  [
-    [
-      "2023-11-24, 16:42:22",
-      "https://lobste.rs/s/yepcsr/change_data_capture_breaks"
-    ],
-    [
-      "\"Change Data Capture Breaks Encapsulation\". Does it, though?",
-      "https://www.decodable.co/blog/change-data-capture-breaks-encapsulation-does-it-though"
     ]
   ]
 ]
