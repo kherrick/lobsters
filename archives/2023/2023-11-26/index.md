@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-26](index.md)
 
+* [2023-11-26, 16:48:07](https://lobste.rs/s/ywg6aw/themenix_theme_your_nixos_configuration) - [ThemeNix: Theme your NixOS configuration consistently](https://github.com/RGBCube/ThemeNix)
 * [2023-11-26, 14:39:37](https://lobste.rs/s/hae3tf/write_guix_package_definitions_breeze) - [Write guix package definitions in a breeze](https://guix.gnu.org/blog/2023/write-package-definitions-in-a-breeze/)
 * [2023-11-26, 13:23:43](https://lobste.rs/s/zotbzl/making_font) - [making a font](https://kokorobot.ca/site/making_a_font.html)
 * [2023-11-26, 13:16:42](https://lobste.rs/s/rnr6oe/then_came_javascript) - [And Then Came JavaScript](https://www.cs.uni.edu/~wallingf/blog/archives/monthly/2023-11.html#e2023-11-24T12_17_41.htm)

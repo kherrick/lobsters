@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-26, 16:48:07](https://lobste.rs/s/ywg6aw/themenix_theme_your_nixos_configuration) - [ThemeNix: Theme your NixOS configuration consistently](https://github.com/RGBCube/ThemeNix)
 * [2023-11-26, 14:39:37](https://lobste.rs/s/hae3tf/write_guix_package_definitions_breeze) - [Write guix package definitions in a breeze](https://guix.gnu.org/blog/2023/write-package-definitions-in-a-breeze/)
 * [2023-11-26, 13:23:43](https://lobste.rs/s/zotbzl/making_font) - [making a font](https://kokorobot.ca/site/making_a_font.html)
 * [2023-11-26, 13:16:42](https://lobste.rs/s/rnr6oe/then_came_javascript) - [And Then Came JavaScript](https://www.cs.uni.edu/~wallingf/blog/archives/monthly/2023-11.html#e2023-11-24T12_17_41.htm)
@@ -24,7 +25,6 @@
 * [2023-11-25, 05:48:43](https://lobste.rs/s/502ycr/reducing_kernel_maintainer_burnout) - [Reducing kernel-maintainer burnout](https://lwn.net/SubscriberLink/952034/922c90d8097bd209/)
 * [2023-11-25, 03:30:32](https://lobste.rs/s/t8hbl3/demystifying_gameboy_sm83_s_daa) - [Demystifying the GameBoy/SM83's DAA Instruction](https://blog.ollien.com/posts/gb-daa/)
 * [2023-11-25, 01:04:04](https://lobste.rs/s/q8c34m/paper_you_want_my_password_dead_patient) - [Paper: You Want My Password or a Dead Patient? (2015)](https://cohost.org/mononcqc/post/3647311-paper-you-want-my-p)
-* [2023-11-24, 17:51:02](https://lobste.rs/s/aysyan/dockerfile_arg_footgun) - [Dockerfile ARG footgun](https://jmtd.net/log/dockerfile_arg_footgun/)
 
 ## [Archives](archives/index.md)
 
