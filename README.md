@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-26, 20:29:56](https://lobste.rs/s/0q7bgy/escaping_template_pattern_hellscape) - [Escaping the template pattern hellscape in Python](https://rednafi.com/python/escape_template_pattern/)
 * [2023-11-26, 20:04:33](https://lobste.rs/s/7nmfq1/leadership_myth_replicated_databases) - [The Leadership Myth in Replicated Databases](https://maheshba.bitbucket.io/blog/2023/05/06/Leadership.html)
 * [2023-11-26, 19:57:45](https://lobste.rs/s/95yias/dependencies_belong_version_control) - [Dependencies Belong in Version Control](https://www.forrestthewoods.com/blog/dependencies-belong-in-version-control/)
 * [2023-11-26, 19:42:53](https://lobste.rs/s/mfjmuh/china_s_new_ish_sw26010_pro_supercomputer) - [China’s New(ish) SW26010-Pro Supercomputer at SC23](https://chipsandcheese.com/2023/11/20/chinas-newish-sw26010-pro-supercomputer-at-sc23/)
@@ -23,7 +24,6 @@
 * [2023-11-25, 18:13:00](https://lobste.rs/s/smnu99/windows_at_1_000_frames_per_second) - [Windows at 1,000 Frames Per Second](https://youtu.be/HDicLHBvQQM)
 * [2023-11-25, 13:49:33](https://lobste.rs/s/rocljo/full_source_bootstrap_building_from) - [The Full-Source Bootstrap: Building from source all the way down](https://guix.gnu.org/de/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
 * [2023-11-25, 11:36:16](https://lobste.rs/s/ewo2ot/announcing_offpunk_2_0) - [Announcing Offpunk 2.0](https://ploum.net/2023-11-25-offpunk2.html)
-* [2023-11-25, 05:48:43](https://lobste.rs/s/502ycr/reducing_kernel_maintainer_burnout) - [Reducing kernel-maintainer burnout](https://lwn.net/SubscriberLink/952034/922c90d8097bd209/)
 * [2023-11-25, 01:04:04](https://lobste.rs/s/q8c34m/paper_you_want_my_password_dead_patient) - [Paper: You Want My Password or a Dead Patient? (2015)](https://cohost.org/mononcqc/post/3647311-paper-you-want-my-p)
 
 ## [Archives](archives/index.md)
