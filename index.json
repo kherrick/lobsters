@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-26, 10:47:45",
+      "https://lobste.rs/s/frbh3v/many_explanations_join_are_wrong_people"
+    ],
+    [
+      "Many explanations of JOIN are wrong, and people get confused",
+      "https://minimalmodeling.substack.com/p/many-explanations-of-join-are-wrong"
+    ]
+  ],
+  [
+    [
       "2023-11-26, 07:00:04",
       "https://lobste.rs/s/kfr5xm/risc_v_ox64_bl808_sbc_nuttx_apps_initial"
     ],
@@ -237,16 +247,6 @@
     [
       "\"Change Data Capture Breaks Encapsulation\". Does it, though?",
       "https://www.decodable.co/blog/change-data-capture-breaks-encapsulation-does-it-though"
-    ]
-  ],
-  [
-    [
-      "2023-11-24, 14:31:30",
-      "https://lobste.rs/s/j5okxb/useless_ruby_sugar_argument_forwarding"
-    ],
-    [
-      "“Useless Ruby sugar”: Argument forwarding",
-      "https://zverok.space/blog/2023-11-24-syntax-sugar4-argument-forwarding.html"
     ]
   ]
 ]
