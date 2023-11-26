@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-26, 07:00:04](https://lobste.rs/s/kfr5xm/risc_v_ox64_bl808_sbc_nuttx_apps_initial) - [RISC-V Ox64 BL808 SBC: NuttX Apps and Initial RAM Disk](https://lupyuen.github.io/articles/app)
 * [2023-11-26, 03:50:24](https://lobste.rs/s/yiruvr/vivaldi_summer_presto) - [Vivaldi Summer Presto](https://linusakesson.net/music/vivaldi-summer-presto/index.php)
 * [2023-11-26, 03:02:51](https://lobste.rs/s/xgav7a/using_ai_parse_election_results) - [Using AI to Parse Election Results](https://thescoop.org/archives/2023/11/25/using-ai-to-parse-election-results/index.html)
 * [2023-11-26, 02:10:48](https://lobste.rs/s/uigtfn/curse_docker) - [the curse of docker](https://computer.rip/2023-11-25-the-curse-of-docker.html)
@@ -16,7 +17,6 @@
 * [2023-11-25, 15:04:28](https://lobste.rs/s/prhqd6/hiding_theory_practice) - [Hiding Theory in Practice](https://ferd.ca/hiding-theory-in-practice.html)
 * [2023-11-25, 13:49:33](https://lobste.rs/s/rocljo/full_source_bootstrap_building_from) - [The Full-Source Bootstrap: Building from source all the way down](https://guix.gnu.org/de/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
 * [2023-11-25, 11:36:16](https://lobste.rs/s/ewo2ot/announcing_offpunk_2_0) - [Announcing Offpunk 2.0](https://ploum.net/2023-11-25-offpunk2.html)
-* [2023-11-25, 07:44:22](https://lobste.rs/s/zwur6z/secure_dns_dot_doh_is_not_enough) - [Secure DNS (DoT & DoH) is not enough](https://lu.sagebl.eu/notes/secure-dns-dot-doh-is-not-enough/)
 * [2023-11-25, 05:48:43](https://lobste.rs/s/502ycr/reducing_kernel_maintainer_burnout) - [Reducing kernel-maintainer burnout](https://lwn.net/SubscriberLink/952034/922c90d8097bd209/)
 * [2023-11-25, 03:48:23](https://lobste.rs/s/zxlyzc/contrarian_view_on_composition_over) - [Contrarian view on composition over inheritance](https://coady.github.io/posts/composition-vs-inheritance.html)
 * [2023-11-25, 03:30:32](https://lobste.rs/s/t8hbl3/demystifying_gameboy_sm83_s_daa) - [Demystifying the GameBoy/SM83's DAA Instruction](https://blog.ollien.com/posts/gb-daa/)
