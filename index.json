@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-26, 13:23:43",
+      "https://lobste.rs/s/zotbzl/making_font"
+    ],
+    [
+      "making a font",
+      "https://kokorobot.ca/site/making_a_font.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-26, 13:16:42",
+      "https://lobste.rs/s/rnr6oe/then_came_javascript"
+    ],
+    [
+      "And Then Came JavaScript",
+      "https://www.cs.uni.edu/~wallingf/blog/archives/monthly/2023-11.html#e2023-11-24T12_17_41.htm"
+    ]
+  ],
+  [
+    [
       "2023-11-26, 10:47:45",
       "https://lobste.rs/s/frbh3v/many_explanations_join_are_wrong_people"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2023-11-24, 17:51:23",
-      "https://lobste.rs/s/zowxca/on_harmful_overuse_std_move"
-    ],
-    [
-      "On harmful overuse of std::move",
-      "https://devblogs.microsoft.com/oldnewthing/20231124-00/?p=109059"
-    ]
-  ],
-  [
-    [
       "2023-11-24, 17:51:02",
       "https://lobste.rs/s/aysyan/dockerfile_arg_footgun"
     ],
     [
       "Dockerfile ARG footgun",
       "https://jmtd.net/log/dockerfile_arg_footgun/"
-    ]
-  ],
-  [
-    [
-      "2023-11-24, 16:42:22",
-      "https://lobste.rs/s/yepcsr/change_data_capture_breaks"
-    ],
-    [
-      "\"Change Data Capture Breaks Encapsulation\". Does it, though?",
-      "https://www.decodable.co/blog/change-data-capture-breaks-encapsulation-does-it-though"
     ]
   ]
 ]
