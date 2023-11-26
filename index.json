@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-26, 17:54:44",
+      "https://lobste.rs/s/qlvcpm/interceptors_are_functions_too"
+    ],
+    [
+      "Interceptors Are Functions Too",
+      "https://gist.github.com/quad/13e9f8b6e88dec1729e30b270ebf22df"
+    ]
+  ],
+  [
+    [
       "2023-11-26, 17:48:16",
       "https://lobste.rs/s/njbnyk/hacking_my_filter_coffee_machine"
     ],
@@ -137,16 +147,6 @@
     [
       "Native Emacs/macOS UX integrations via Swift modules",
       "https://xenodium.com/native-emacsmacos-ux-integrations-via-swift-modules/"
-    ]
-  ],
-  [
-    [
-      "2023-11-25, 19:04:06",
-      "https://lobste.rs/s/w9mojb/freezing_style"
-    ],
-    [
-      "Freezing in Style",
-      "https://blog.broulik.de/2023/11/freezing-in-style/"
     ]
   ],
   [
