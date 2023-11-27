@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 23:38:20](https://lobste.rs/s/hem4gk/log_structured_merge_tree) - [Log-Structured Merge Tree](https://medium.com/@tomfran/log-structured-merge-tree-a79241c959e3)
 * [2023-11-27, 23:18:52](https://lobste.rs/s/sgheiw/it_s_about_time) - [It's About Time](https://brooker.co.za/blog/2023/11/27/about-time.html)
 * [2023-11-27, 22:27:59](https://lobste.rs/s/miraea/robot_dad) - [Robot Dad](https://blog.untrod.com/2023/11/robot-dad.html)
 * [2023-11-27, 21:32:22](https://lobste.rs/s/ddyltb/god_help_us_let_s_try_understand_paper_on_ai) - [God Help Us, Let's Try To Understand The Paper On AI Monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)

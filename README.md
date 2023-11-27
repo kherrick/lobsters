@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-27, 23:38:20](https://lobste.rs/s/hem4gk/log_structured_merge_tree) - [Log-Structured Merge Tree](https://medium.com/@tomfran/log-structured-merge-tree-a79241c959e3)
 * [2023-11-27, 23:18:52](https://lobste.rs/s/sgheiw/it_s_about_time) - [It's About Time](https://brooker.co.za/blog/2023/11/27/about-time.html)
 * [2023-11-27, 22:27:59](https://lobste.rs/s/miraea/robot_dad) - [Robot Dad](https://blog.untrod.com/2023/11/robot-dad.html)
 * [2023-11-27, 21:32:22](https://lobste.rs/s/ddyltb/god_help_us_let_s_try_understand_paper_on_ai) - [God Help Us, Let's Try To Understand The Paper On AI Monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)
@@ -16,7 +17,6 @@
 * [2023-11-27, 13:01:41](https://lobste.rs/s/9ufhvp/freebsd_14_0_delivering_great) - [FreeBSD 14.0 Delivering Great Performance Uplift](https://www.phoronix.com/review/freebsd-14-epyc)
 * [2023-11-27, 12:10:36](https://lobste.rs/s/d6pydd/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/d6pydd/what_are_you_doing_this_week)
 * [2023-11-27, 10:53:57](https://lobste.rs/s/fk4myd/migrating_from_vm_hierarchical_jails) - [Migrating from VM to Hierarchical Jails in FreeBSD](https://it-notes.dragas.net/2023/11/27/migrating-from-vm-to-hierarchical-jails-freebsd/)
-* [2023-11-27, 06:54:24](https://lobste.rs/s/xw1qcm/data_driven_development_is_lie) - [Data-Driven Development is a Lie](https://grishaev.me/en/ddd-lie)
 * [2023-11-27, 06:43:26](https://lobste.rs/s/kxoeop/css_utility_classes_from_blasphemy_hype) - [CSS Utility classes: from blasphemy to hype](https://adropincalm.com/blog/css-utility-classes-from-blasphemy-to-hype/)
 * [2023-11-27, 05:50:25](https://lobste.rs/s/fq1nyo/darktable_crashing_into_wall_slow_motion) - [Darktable: crashing into the wall in slow-motion](https://ansel.photos/en/news/darktable-dans-le-mur-au-ralenti/)
 * [2023-11-27, 03:49:09](https://lobste.rs/s/k4qpn6/ethernet_is_still_going_strong_after_50) - [Ethernet is Still Going Strong After 50 Years](https://spectrum.ieee.org/ethernet-ieee-milestone)
