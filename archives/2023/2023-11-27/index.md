@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 10:53:57](https://lobste.rs/s/fk4myd/migrating_from_vm_hierarchical_jails) - [Migrating from VM to Hierarchical Jails in FreeBSD](https://it-notes.dragas.net/2023/11/27/migrating-from-vm-to-hierarchical-jails-freebsd/)
 * [2023-11-27, 10:35:14](https://lobste.rs/s/3mgonr/exploring_gameboy_memory_bank) - [Exploring the Gameboy Memory Bank Controller (2020)](https://b13rg.github.io/Gameboy-MBC-Analysis/#the-mbc)
 * [2023-11-27, 10:02:46](https://lobste.rs/s/5calpc/data_anonymization_with_postgresql) - [Data Anonymization with PostgreSQL and SQLAlchemy](https://blog.mergify.com/data-anonymization-with-postgresql-and-sqlalchemy/)
 * [2023-11-27, 09:15:45](https://lobste.rs/s/lgwwmz/gomium_350_points_2019) - [Gomium - 350 points (2019)](https://github.com/netanel01/ctf-writeups/blob/master/googlectf/2019/pwn_gomium/README.md)
