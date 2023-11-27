@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-11-27, 13:35:47](https://lobste.rs/s/geajlz/is_mastodon_fediverse_good_enough_yet) - [Is Mastodon and the Fediverse good enough yet?](http://www.jaruzel.com/blog/is-mastodon-and-the-fediverse-good-enough-yet)
 * [2023-11-27, 13:04:19](https://lobste.rs/s/m9ewdr/where_is_opencv_5) - [Where Is OpenCV 5?](https://opencv.org/blog/where-is-opencv-5/)
 * [2023-11-27, 13:01:41](https://lobste.rs/s/9ufhvp/freebsd_14_0_delivering_great) - [FreeBSD 14.0 Delivering Great Performance Uplift](https://www.phoronix.com/review/freebsd-14-epyc)
 * [2023-11-27, 12:10:36](https://lobste.rs/s/d6pydd/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/d6pydd/what_are_you_doing_this_week)
 * [2023-11-27, 10:53:57](https://lobste.rs/s/fk4myd/migrating_from_vm_hierarchical_jails) - [Migrating from VM to Hierarchical Jails in FreeBSD](https://it-notes.dragas.net/2023/11/27/migrating-from-vm-to-hierarchical-jails-freebsd/)
 * [2023-11-27, 10:35:14](https://lobste.rs/s/3mgonr/exploring_gameboy_memory_bank) - [Exploring the Gameboy Memory Bank Controller (2020)](https://b13rg.github.io/Gameboy-MBC-Analysis/#the-mbc)
 * [2023-11-27, 10:02:46](https://lobste.rs/s/5calpc/data_anonymization_with_postgresql) - [Data Anonymization with PostgreSQL and SQLAlchemy](https://blog.mergify.com/data-anonymization-with-postgresql-and-sqlalchemy/)
+* [2023-11-27, 09:15:45](https://lobste.rs/s/lgwwmz/gomium_350_points_2019) - [Gomium - 350 points (2019)](https://github.com/netanel01/ctf-writeups/blob/master/googlectf/2019/pwn_gomium/README.md)
 * [2023-11-27, 06:54:24](https://lobste.rs/s/xw1qcm/data_driven_development_is_lie) - [Data-Driven Development is a Lie](https://grishaev.me/en/ddd-lie)
 * [2023-11-27, 06:43:26](https://lobste.rs/s/kxoeop/css_utility_classes_from_blasphemy_hype) - [CSS Utility classes: from blasphemy to hype](https://adropincalm.com/blog/css-utility-classes-from-blasphemy-to-hype/)
 * [2023-11-27, 05:50:25](https://lobste.rs/s/fq1nyo/darktable_crashing_into_wall_slow_motion) - [Darktable: crashing into the wall in slow-motion](https://ansel.photos/en/news/darktable-dans-le-mur-au-ralenti/)
