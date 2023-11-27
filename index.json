@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-27, 23:53:29",
+      "https://lobste.rs/s/kzq0fk/ray_marching_fog_with_blue_noise"
+    ],
+    [
+      "Ray Marching Fog With Blue Noise",
+      "https://blog.demofox.org/2020/05/10/ray-marching-fog-with-blue-noise/"
+    ]
+  ],
+  [
+    [
+      "2023-11-27, 23:50:43",
+      "https://lobste.rs/s/hly89h/microsoft_contributes_azure_rtos"
+    ],
+    [
+      "Microsoft Contributes Azure RTOS to Eclipse Foundation",
+      "https://techcommunity.microsoft.com/t5/internet-of-things-blog/microsoft-contributes-azure-rtos-to-open-source/ba-p/3986318"
+    ]
+  ],
+  [
+    [
       "2023-11-27, 23:38:20",
       "https://lobste.rs/s/hem4gk/log_structured_merge_tree"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-11-27, 05:50:25",
-      "https://lobste.rs/s/fq1nyo/darktable_crashing_into_wall_slow_motion"
-    ],
-    [
-      "Darktable: crashing into the wall in slow-motion",
-      "https://ansel.photos/en/news/darktable-dans-le-mur-au-ralenti/"
-    ]
-  ],
-  [
-    [
       "2023-11-27, 03:49:09",
       "https://lobste.rs/s/k4qpn6/ethernet_is_still_going_strong_after_50"
     ],
@@ -227,16 +237,6 @@
     [
       "Dependencies Belong in Version Control",
       "https://www.forrestthewoods.com/blog/dependencies-belong-in-version-control/"
-    ]
-  ],
-  [
-    [
-      "2023-11-26, 16:48:07",
-      "https://lobste.rs/s/ywg6aw/themenix_theme_your_nixos_configuration"
-    ],
-    [
-      "ThemeNix: Theme your NixOS configuration consistently",
-      "https://github.com/RGBCube/ThemeNix"
     ]
   ],
   [
