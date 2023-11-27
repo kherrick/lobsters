@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-27, 09:15:45](https://lobste.rs/s/lgwwmz/gomium_350_points_2019) - [Gomium - 350 points (2019)](https://github.com/netanel01/ctf-writeups/blob/master/googlectf/2019/pwn_gomium/README.md)
 * [2023-11-27, 06:54:24](https://lobste.rs/s/xw1qcm/data_driven_development_is_lie) - [Data-Driven Development is a Lie](https://grishaev.me/en/ddd-lie)
 * [2023-11-27, 06:43:26](https://lobste.rs/s/kxoeop/css_utility_classes_from_blasphemy_hype) - [CSS Utility classes: from blasphemy to hype](https://adropincalm.com/blog/css-utility-classes-from-blasphemy-to-hype/)
 * [2023-11-27, 05:50:25](https://lobste.rs/s/fq1nyo/darktable_crashing_into_wall_slow_motion) - [Darktable: crashing into the wall in slow-motion](https://ansel.photos/en/news/darktable-dans-le-mur-au-ralenti/)
@@ -24,7 +25,6 @@
 * [2023-11-25, 19:46:07](https://lobste.rs/s/yu41n5/native_emacs_macos_ux_integrations_via) - [Native Emacs/macOS UX integrations via Swift modules](https://xenodium.com/native-emacsmacos-ux-integrations-via-swift-modules/)
 * [2023-11-25, 18:44:17](https://lobste.rs/s/alixhy/why_lowercase_letters_save_data) - [why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
 * [2023-11-25, 11:36:16](https://lobste.rs/s/ewo2ot/announcing_offpunk_2_0) - [Announcing Offpunk 2.0](https://ploum.net/2023-11-25-offpunk2.html)
-* [2023-11-25, 01:04:04](https://lobste.rs/s/q8c34m/paper_you_want_my_password_dead_patient) - [Paper: You Want My Password or a Dead Patient? (2015)](https://cohost.org/mononcqc/post/3647311-paper-you-want-my-p)
 
 ## [Archives](archives/index.md)
 
