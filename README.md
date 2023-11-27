@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-27, 21:32:22](https://lobste.rs/s/ddyltb/god_help_us_let_s_try_understand_paper_on_ai) - [God Help Us, Let's Try To Understand The Paper On AI Monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)
 * [2023-11-27, 21:04:39](https://lobste.rs/s/8v3scb/friends_don_t_let_friends_make_certain) - [Friends don't let friends make certain types of data visualization](https://github.com/cxli233/FriendsDontLetFriends)
 * [2023-11-27, 20:38:17](https://lobste.rs/s/jphjl8/least_effort_self_destructing_email) - [Least effort self-destructing email addresses with Fastmail](https://mikejsavage.co.uk/fastmail-min-effort-tempomail/)
 * [2023-11-27, 19:36:07](https://lobste.rs/s/zyngxb/simplifying_expressions_bottom_up) - [Simplifying Expressions Bottom-Up](https://buttondown.email/jaffray/archive/simplifying-expressions-bottom-up/)
@@ -13,7 +14,6 @@
 * [2023-11-27, 13:01:41](https://lobste.rs/s/9ufhvp/freebsd_14_0_delivering_great) - [FreeBSD 14.0 Delivering Great Performance Uplift](https://www.phoronix.com/review/freebsd-14-epyc)
 * [2023-11-27, 12:10:36](https://lobste.rs/s/d6pydd/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/d6pydd/what_are_you_doing_this_week)
 * [2023-11-27, 10:53:57](https://lobste.rs/s/fk4myd/migrating_from_vm_hierarchical_jails) - [Migrating from VM to Hierarchical Jails in FreeBSD](https://it-notes.dragas.net/2023/11/27/migrating-from-vm-to-hierarchical-jails-freebsd/)
-* [2023-11-27, 10:35:14](https://lobste.rs/s/3mgonr/exploring_gameboy_memory_bank) - [Exploring the Gameboy Memory Bank Controller (2020)](https://b13rg.github.io/Gameboy-MBC-Analysis/#the-mbc)
 * [2023-11-27, 06:54:24](https://lobste.rs/s/xw1qcm/data_driven_development_is_lie) - [Data-Driven Development is a Lie](https://grishaev.me/en/ddd-lie)
 * [2023-11-27, 06:43:26](https://lobste.rs/s/kxoeop/css_utility_classes_from_blasphemy_hype) - [CSS Utility classes: from blasphemy to hype](https://adropincalm.com/blog/css-utility-classes-from-blasphemy-to-hype/)
 * [2023-11-27, 05:50:25](https://lobste.rs/s/fq1nyo/darktable_crashing_into_wall_slow_motion) - [Darktable: crashing into the wall in slow-motion](https://ansel.photos/en/news/darktable-dans-le-mur-au-ralenti/)
