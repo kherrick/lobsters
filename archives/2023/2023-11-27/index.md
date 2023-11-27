@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 10:02:46](https://lobste.rs/s/5calpc/data_anonymization_with_postgresql) - [Data Anonymization with PostgreSQL and SQLAlchemy](https://blog.mergify.com/data-anonymization-with-postgresql-and-sqlalchemy/)
 * [2023-11-27, 09:15:45](https://lobste.rs/s/lgwwmz/gomium_350_points_2019) - [Gomium - 350 points (2019)](https://github.com/netanel01/ctf-writeups/blob/master/googlectf/2019/pwn_gomium/README.md)
 * [2023-11-27, 06:54:24](https://lobste.rs/s/xw1qcm/data_driven_development_is_lie) - [Data-Driven Development is a Lie](https://grishaev.me/en/ddd-lie)
 * [2023-11-27, 06:43:26](https://lobste.rs/s/kxoeop/css_utility_classes_from_blasphemy_hype) - [CSS Utility classes: from blasphemy to hype](https://adropincalm.com/blog/css-utility-classes-from-blasphemy-to-hype/)
