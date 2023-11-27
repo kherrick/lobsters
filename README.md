@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-27, 00:47:05](https://lobste.rs/s/hnlghh/what_punch_cards_teach_us_about_ai_risk) - [What punch cards teach us about AI risk](https://bcantrill.dtrace.org/2023/11/26/what-punch-cards-teach-us-about-ai-risk/)
 * [2023-11-26, 22:03:33](https://lobste.rs/s/hamnoj/minilogger_miniformat_miniostream) - [MiniLogger, MiniFormat, MiniOStream: lightweight C++ logging/formatting](https://github.com/snej/crouton/blob/main/docs/Mini.md)
 * [2023-11-26, 21:21:08](https://lobste.rs/s/rmig5d/building_netbsd_ramdisk_kernel) - [Building a NetBSD ramdisk kernel](https://bentsukun.ch/posts/ramdisk-kernel/)
 * [2023-11-26, 20:52:53](https://lobste.rs/s/5417dx/storing_data_pointers) - [Storing data in pointers](https://muxup.com/2023q4/storing-data-in-pointers)
@@ -17,7 +18,6 @@
 * [2023-11-26, 10:47:45](https://lobste.rs/s/frbh3v/many_explanations_join_are_wrong_people) - [Many explanations of JOIN are wrong, and people get confused](https://minimalmodeling.substack.com/p/many-explanations-of-join-are-wrong)
 * [2023-11-26, 07:00:04](https://lobste.rs/s/kfr5xm/risc_v_ox64_bl808_sbc_nuttx_apps_initial) - [RISC-V Ox64 BL808 SBC: NuttX Apps and Initial RAM Disk](https://lupyuen.github.io/articles/app)
 * [2023-11-26, 02:10:48](https://lobste.rs/s/uigtfn/curse_docker) - [the curse of docker](https://computer.rip/2023-11-25-the-curse-of-docker.html)
-* [2023-11-25, 23:03:42](https://lobste.rs/s/xnmpm7/doug_lenat_s_source_code_for_am_possibly) - [Doug Lenat's source code for AM and possibly EURISKO w/Traveller found in public archives](https://white-flame.com/am-eurisko.html)
 * [2023-11-25, 22:17:50](https://lobste.rs/s/aizdbe/another_way_botch_security_analysis) - [Another way to botch the security analysis of Kyber-512](https://blog.cr.yp.to/20231125-kyber.html)
 * [2023-11-25, 19:46:07](https://lobste.rs/s/yu41n5/native_emacs_macos_ux_integrations_via) - [Native Emacs/macOS UX integrations via Swift modules](https://xenodium.com/native-emacsmacos-ux-integrations-via-swift-modules/)
 * [2023-11-25, 18:44:17](https://lobste.rs/s/alixhy/why_lowercase_letters_save_data) - [why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
