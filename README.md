@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-27, 17:28:03](https://lobste.rs/s/alcjsb/python_is_easy_go_is_simple_simple_easy) - [Python is Easy. Go is Simple. Simple != Easy](https://preslav.me/2023/11/27/python-is-easy-golang-is-simple-simple-is-not-easy/)
 * [2023-11-27, 16:59:50](https://lobste.rs/s/1vm0mu/ready_for_embedded_pipewire_1_0_released) - [Ready for embedded: PipeWire 1.0 released](https://www.collabora.com/news-and-blog/news-and-events/ready-for-embedded-pipewire-1-0-released.html)
 * [2023-11-27, 16:57:41](https://lobste.rs/s/vzm2wx/friendship_ended_with_obsidian_latex_now) - [Friendship Ended with Obsidian/LaTeX, Now Typst is My Best Friend](https://ersei.net/en/blog/typst)
 * [2023-11-27, 15:40:47](https://lobste.rs/s/abowoi/modeling_crdts_alloy_counters) - [modeling CRDTs in Alloy - counters](https://bytes.zone/posts/modeling-crdts-in-alloy-counters/)
-* [2023-11-27, 13:04:19](https://lobste.rs/s/m9ewdr/where_is_opencv_5) - [Where Is OpenCV 5?](https://opencv.org/blog/where-is-opencv-5/)
 * [2023-11-27, 13:01:41](https://lobste.rs/s/9ufhvp/freebsd_14_0_delivering_great) - [FreeBSD 14.0 Delivering Great Performance Uplift](https://www.phoronix.com/review/freebsd-14-epyc)
 * [2023-11-27, 12:10:36](https://lobste.rs/s/d6pydd/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/d6pydd/what_are_you_doing_this_week)
 * [2023-11-27, 10:53:57](https://lobste.rs/s/fk4myd/migrating_from_vm_hierarchical_jails) - [Migrating from VM to Hierarchical Jails in FreeBSD](https://it-notes.dragas.net/2023/11/27/migrating-from-vm-to-hierarchical-jails-freebsd/)
