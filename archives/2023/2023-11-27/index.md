@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 16:59:50](https://lobste.rs/s/1vm0mu/ready_for_embedded_pipewire_1_0_released) - [Ready for embedded: PipeWire 1.0 released](https://www.collabora.com/news-and-blog/news-and-events/ready-for-embedded-pipewire-1-0-released.html)
+* [2023-11-27, 16:57:41](https://lobste.rs/s/vzm2wx/friendship_ended_with_obsidian_latex_now) - [Friendship Ended with Obsidian/LaTeX, Now Typst is My Best Friend](https://ersei.net/en/blog/typst)
 * [2023-11-27, 15:40:47](https://lobste.rs/s/abowoi/modeling_crdts_alloy_counters) - [modeling CRDTs in Alloy - counters](https://bytes.zone/posts/modeling-crdts-in-alloy-counters/)
 * [2023-11-27, 13:35:47](https://lobste.rs/s/geajlz/is_mastodon_fediverse_good_enough_yet) - [Is Mastodon and the Fediverse good enough yet?](http://www.jaruzel.com/blog/is-mastodon-and-the-fediverse-good-enough-yet)
 * [2023-11-27, 13:04:19](https://lobste.rs/s/m9ewdr/where_is_opencv_5) - [Where Is OpenCV 5?](https://opencv.org/blog/where-is-opencv-5/)
