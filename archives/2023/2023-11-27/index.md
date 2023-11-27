@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 18:45:13](https://lobste.rs/s/pfuon7/prettier_20k_bounty_rewrite_rust_was) - [Prettier $20k bounty to rewrite in Rust was claimed](https://prettier.io/blog/2023/11/27/20k-bounty-was-claimed)
 * [2023-11-27, 18:13:39](https://lobste.rs/s/7s6bxq/dependency_rejection) - [Dependency rejection](https://amontalenti.com/2023/11/25/dependency-rejection)
 * [2023-11-27, 17:28:03](https://lobste.rs/s/alcjsb/python_is_easy_go_is_simple_simple_easy) - [Python is Easy. Go is Simple. Simple != Easy](https://preslav.me/2023/11/27/python-is-easy-golang-is-simple-simple-is-not-easy/)
 * [2023-11-27, 16:59:50](https://lobste.rs/s/1vm0mu/ready_for_embedded_pipewire_1_0_released) - [Ready for embedded: PipeWire 1.0 released](https://www.collabora.com/news-and-blog/news-and-events/ready-for-embedded-pipewire-1-0-released.html)

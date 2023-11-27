@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-27, 18:45:13](https://lobste.rs/s/pfuon7/prettier_20k_bounty_rewrite_rust_was) - [Prettier $20k bounty to rewrite in Rust was claimed](https://prettier.io/blog/2023/11/27/20k-bounty-was-claimed)
 * [2023-11-27, 18:13:39](https://lobste.rs/s/7s6bxq/dependency_rejection) - [Dependency rejection](https://amontalenti.com/2023/11/25/dependency-rejection)
 * [2023-11-27, 17:28:03](https://lobste.rs/s/alcjsb/python_is_easy_go_is_simple_simple_easy) - [Python is Easy. Go is Simple. Simple != Easy](https://preslav.me/2023/11/27/python-is-easy-golang-is-simple-simple-is-not-easy/)
 * [2023-11-27, 16:59:50](https://lobste.rs/s/1vm0mu/ready_for_embedded_pipewire_1_0_released) - [Ready for embedded: PipeWire 1.0 released](https://www.collabora.com/news-and-blog/news-and-events/ready-for-embedded-pipewire-1-0-released.html)
@@ -10,7 +11,6 @@
 * [2023-11-27, 10:53:57](https://lobste.rs/s/fk4myd/migrating_from_vm_hierarchical_jails) - [Migrating from VM to Hierarchical Jails in FreeBSD](https://it-notes.dragas.net/2023/11/27/migrating-from-vm-to-hierarchical-jails-freebsd/)
 * [2023-11-27, 10:35:14](https://lobste.rs/s/3mgonr/exploring_gameboy_memory_bank) - [Exploring the Gameboy Memory Bank Controller (2020)](https://b13rg.github.io/Gameboy-MBC-Analysis/#the-mbc)
 * [2023-11-27, 10:02:46](https://lobste.rs/s/5calpc/data_anonymization_with_postgresql) - [Data Anonymization with PostgreSQL and SQLAlchemy](https://blog.mergify.com/data-anonymization-with-postgresql-and-sqlalchemy/)
-* [2023-11-27, 09:15:45](https://lobste.rs/s/lgwwmz/gomium_350_points_2019) - [Gomium - 350 points (2019)](https://github.com/netanel01/ctf-writeups/blob/master/googlectf/2019/pwn_gomium/README.md)
 * [2023-11-27, 06:54:24](https://lobste.rs/s/xw1qcm/data_driven_development_is_lie) - [Data-Driven Development is a Lie](https://grishaev.me/en/ddd-lie)
 * [2023-11-27, 06:43:26](https://lobste.rs/s/kxoeop/css_utility_classes_from_blasphemy_hype) - [CSS Utility classes: from blasphemy to hype](https://adropincalm.com/blog/css-utility-classes-from-blasphemy-to-hype/)
 * [2023-11-27, 05:50:25](https://lobste.rs/s/fq1nyo/darktable_crashing_into_wall_slow_motion) - [Darktable: crashing into the wall in slow-motion](https://ansel.photos/en/news/darktable-dans-le-mur-au-ralenti/)
