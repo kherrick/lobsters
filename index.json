@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-27, 17:28:03",
+      "https://lobste.rs/s/alcjsb/python_is_easy_go_is_simple_simple_easy"
+    ],
+    [
+      "Python is Easy. Go is Simple. Simple != Easy",
+      "https://preslav.me/2023/11/27/python-is-easy-golang-is-simple-simple-is-not-easy/"
+    ]
+  ],
+  [
+    [
       "2023-11-27, 16:59:50",
       "https://lobste.rs/s/1vm0mu/ready_for_embedded_pipewire_1_0_released"
     ],
@@ -27,16 +37,6 @@
     [
       "modeling CRDTs in Alloy - counters",
       "https://bytes.zone/posts/modeling-crdts-in-alloy-counters/"
-    ]
-  ],
-  [
-    [
-      "2023-11-27, 13:04:19",
-      "https://lobste.rs/s/m9ewdr/where_is_opencv_5"
-    ],
-    [
-      "Where Is OpenCV 5?",
-      "https://opencv.org/blog/where-is-opencv-5/"
     ]
   ],
   [
