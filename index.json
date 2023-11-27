@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-27, 23:38:20",
+      "https://lobste.rs/s/hem4gk/log_structured_merge_tree"
+    ],
+    [
+      "Log-Structured Merge Tree",
+      "https://medium.com/@tomfran/log-structured-merge-tree-a79241c959e3"
+    ]
+  ],
+  [
+    [
       "2023-11-27, 23:18:52",
       "https://lobste.rs/s/sgheiw/it_s_about_time"
     ],
@@ -157,16 +167,6 @@
     [
       "Migrating from VM to Hierarchical Jails in FreeBSD",
       "https://it-notes.dragas.net/2023/11/27/migrating-from-vm-to-hierarchical-jails-freebsd/"
-    ]
-  ],
-  [
-    [
-      "2023-11-27, 06:54:24",
-      "https://lobste.rs/s/xw1qcm/data_driven_development_is_lie"
-    ],
-    [
-      "Data-Driven Development is a Lie",
-      "https://grishaev.me/en/ddd-lie"
     ]
   ],
   [
