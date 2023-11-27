@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-27, 03:49:09](https://lobste.rs/s/k4qpn6/ethernet_is_still_going_strong_after_50) - [Ethernet is Still Going Strong After 50 Years](https://spectrum.ieee.org/ethernet-ieee-milestone)
 * [2023-11-27, 00:47:05](https://lobste.rs/s/hnlghh/what_punch_cards_teach_us_about_ai_risk) - [What punch cards teach us about AI risk](https://bcantrill.dtrace.org/2023/11/26/what-punch-cards-teach-us-about-ai-risk/)
 * [2023-11-26, 22:03:33](https://lobste.rs/s/hamnoj/minilogger_miniformat_miniostream) - [MiniLogger, MiniFormat, MiniOStream: lightweight C++ logging/formatting](https://github.com/snej/crouton/blob/main/docs/Mini.md)
 * [2023-11-26, 21:21:08](https://lobste.rs/s/rmig5d/building_netbsd_ramdisk_kernel) - [Building a NetBSD ramdisk kernel](https://bentsukun.ch/posts/ramdisk-kernel/)
@@ -22,7 +23,6 @@
 * [2023-11-25, 19:46:07](https://lobste.rs/s/yu41n5/native_emacs_macos_ux_integrations_via) - [Native Emacs/macOS UX integrations via Swift modules](https://xenodium.com/native-emacsmacos-ux-integrations-via-swift-modules/)
 * [2023-11-25, 18:44:17](https://lobste.rs/s/alixhy/why_lowercase_letters_save_data) - [why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
 * [2023-11-25, 18:35:17](https://lobste.rs/s/erdn2p/eleventh_circle_hell_setting_up_rpi) - [The eleventh circle of hell: setting up an RPi camera module](https://www.biodigitaljazz.net/blog/picam.html)
-* [2023-11-25, 13:49:33](https://lobste.rs/s/rocljo/full_source_bootstrap_building_from) - [The Full-Source Bootstrap: Building from source all the way down](https://guix.gnu.org/de/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/)
 * [2023-11-25, 11:36:16](https://lobste.rs/s/ewo2ot/announcing_offpunk_2_0) - [Announcing Offpunk 2.0](https://ploum.net/2023-11-25-offpunk2.html)
 * [2023-11-25, 01:04:04](https://lobste.rs/s/q8c34m/paper_you_want_my_password_dead_patient) - [Paper: You Want My Password or a Dead Patient? (2015)](https://cohost.org/mononcqc/post/3647311-paper-you-want-my-p)
 
