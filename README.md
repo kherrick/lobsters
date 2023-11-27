@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-27, 19:36:07](https://lobste.rs/s/zyngxb/simplifying_expressions_bottom_up) - [Simplifying Expressions Bottom-Up](https://buttondown.email/jaffray/archive/simplifying-expressions-bottom-up/)
 * [2023-11-27, 18:45:13](https://lobste.rs/s/pfuon7/prettier_20k_bounty_rewrite_rust_was) - [Prettier $20k bounty to rewrite in Rust was claimed](https://prettier.io/blog/2023/11/27/20k-bounty-was-claimed)
 * [2023-11-27, 18:13:39](https://lobste.rs/s/7s6bxq/dependency_rejection) - [Dependency rejection](https://amontalenti.com/2023/11/25/dependency-rejection)
 * [2023-11-27, 17:28:03](https://lobste.rs/s/alcjsb/python_is_easy_go_is_simple_simple_easy) - [Python is Easy. Go is Simple. Simple != Easy](https://preslav.me/2023/11/27/python-is-easy-golang-is-simple-simple-is-not-easy/)
@@ -17,7 +18,6 @@
 * [2023-11-27, 03:49:09](https://lobste.rs/s/k4qpn6/ethernet_is_still_going_strong_after_50) - [Ethernet is Still Going Strong After 50 Years](https://spectrum.ieee.org/ethernet-ieee-milestone)
 * [2023-11-26, 22:03:33](https://lobste.rs/s/hamnoj/minilogger_miniformat_miniostream) - [MiniLogger, MiniFormat, MiniOStream: lightweight C++ logging/formatting](https://github.com/snej/crouton/blob/main/docs/Mini.md)
 * [2023-11-26, 20:52:53](https://lobste.rs/s/5417dx/storing_data_pointers) - [Storing data in pointers](https://muxup.com/2023q4/storing-data-in-pointers)
-* [2023-11-26, 20:29:56](https://lobste.rs/s/0q7bgy/escaping_template_pattern_hellscape) - [Escaping the template pattern hellscape in Python](https://rednafi.com/python/escape_template_pattern/)
 * [2023-11-26, 19:57:45](https://lobste.rs/s/95yias/dependencies_belong_version_control) - [Dependencies Belong in Version Control](https://www.forrestthewoods.com/blog/dependencies-belong-in-version-control/)
 * [2023-11-26, 18:37:19](https://lobste.rs/s/ipw8hv/how_apple_s_developers_reflashed_mac_roms) - [How Apple’s developers reflashed Mac ROMs in the ’90s](https://www.downtowndougbrown.com/2023/11/how-apples-developers-reflashed-mac-roms-in-the-90s/)
 * [2023-11-26, 17:54:44](https://lobste.rs/s/qlvcpm/interceptors_are_functions_too) - [Interceptors Are Functions Too](https://gist.github.com/quad/13e9f8b6e88dec1729e30b270ebf22df)
