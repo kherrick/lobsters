@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-27, 05:50:25",
+      "https://lobste.rs/s/fq1nyo/darktable_crashing_into_wall_slow_motion"
+    ],
+    [
+      "Darktable: crashing into the wall in slow-motion",
+      "https://ansel.photos/en/news/darktable-dans-le-mur-au-ralenti/"
+    ]
+  ],
+  [
+    [
       "2023-11-27, 03:49:09",
       "https://lobste.rs/s/k4qpn6/ethernet_is_still_going_strong_after_50"
     ],
@@ -167,16 +177,6 @@
     [
       "Many explanations of JOIN are wrong, and people get confused",
       "https://minimalmodeling.substack.com/p/many-explanations-of-join-are-wrong"
-    ]
-  ],
-  [
-    [
-      "2023-11-26, 07:00:04",
-      "https://lobste.rs/s/kfr5xm/risc_v_ox64_bl808_sbc_nuttx_apps_initial"
-    ],
-    [
-      "RISC-V Ox64 BL808 SBC: NuttX Apps and Initial RAM Disk",
-      "https://lupyuen.github.io/articles/app"
     ]
   ],
   [
