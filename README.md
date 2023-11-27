@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-27, 13:04:19](https://lobste.rs/s/m9ewdr/where_is_opencv_5) - [Where Is OpenCV 5?](https://opencv.org/blog/where-is-opencv-5/)
+* [2023-11-27, 13:01:41](https://lobste.rs/s/9ufhvp/freebsd_14_0_delivering_great) - [FreeBSD 14.0 Delivering Great Performance Uplift](https://www.phoronix.com/review/freebsd-14-epyc)
 * [2023-11-27, 12:10:36](https://lobste.rs/s/d6pydd/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/d6pydd/what_are_you_doing_this_week)
 * [2023-11-27, 10:53:57](https://lobste.rs/s/fk4myd/migrating_from_vm_hierarchical_jails) - [Migrating from VM to Hierarchical Jails in FreeBSD](https://it-notes.dragas.net/2023/11/27/migrating-from-vm-to-hierarchical-jails-freebsd/)
 * [2023-11-27, 10:35:14](https://lobste.rs/s/3mgonr/exploring_gameboy_memory_bank) - [Exploring the Gameboy Memory Bank Controller (2020)](https://b13rg.github.io/Gameboy-MBC-Analysis/#the-mbc)
@@ -11,10 +13,8 @@
 * [2023-11-27, 03:49:09](https://lobste.rs/s/k4qpn6/ethernet_is_still_going_strong_after_50) - [Ethernet is Still Going Strong After 50 Years](https://spectrum.ieee.org/ethernet-ieee-milestone)
 * [2023-11-27, 00:47:05](https://lobste.rs/s/hnlghh/what_punch_cards_teach_us_about_ai_risk) - [What punch cards teach us about AI risk](https://bcantrill.dtrace.org/2023/11/26/what-punch-cards-teach-us-about-ai-risk/)
 * [2023-11-26, 22:03:33](https://lobste.rs/s/hamnoj/minilogger_miniformat_miniostream) - [MiniLogger, MiniFormat, MiniOStream: lightweight C++ logging/formatting](https://github.com/snej/crouton/blob/main/docs/Mini.md)
-* [2023-11-26, 21:21:08](https://lobste.rs/s/rmig5d/building_netbsd_ramdisk_kernel) - [Building a NetBSD ramdisk kernel](https://bentsukun.ch/posts/ramdisk-kernel/)
 * [2023-11-26, 20:52:53](https://lobste.rs/s/5417dx/storing_data_pointers) - [Storing data in pointers](https://muxup.com/2023q4/storing-data-in-pointers)
 * [2023-11-26, 20:29:56](https://lobste.rs/s/0q7bgy/escaping_template_pattern_hellscape) - [Escaping the template pattern hellscape in Python](https://rednafi.com/python/escape_template_pattern/)
-* [2023-11-26, 20:04:33](https://lobste.rs/s/7nmfq1/leadership_myth_replicated_databases) - [The Leadership Myth in Replicated Databases](https://maheshba.bitbucket.io/blog/2023/05/06/Leadership.html)
 * [2023-11-26, 19:57:45](https://lobste.rs/s/95yias/dependencies_belong_version_control) - [Dependencies Belong in Version Control](https://www.forrestthewoods.com/blog/dependencies-belong-in-version-control/)
 * [2023-11-26, 18:37:19](https://lobste.rs/s/ipw8hv/how_apple_s_developers_reflashed_mac_roms) - [How Apple’s developers reflashed Mac ROMs in the ’90s](https://www.downtowndougbrown.com/2023/11/how-apples-developers-reflashed-mac-roms-in-the-90s/)
 * [2023-11-26, 17:54:44](https://lobste.rs/s/qlvcpm/interceptors_are_functions_too) - [Interceptors Are Functions Too](https://gist.github.com/quad/13e9f8b6e88dec1729e30b270ebf22df)
