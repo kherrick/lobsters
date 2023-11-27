@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 20:38:17](https://lobste.rs/s/jphjl8/least_effort_self_destructing_email) - [Least effort self-destructing email addresses with Fastmail](https://mikejsavage.co.uk/fastmail-min-effort-tempomail/)
 * [2023-11-27, 19:36:07](https://lobste.rs/s/zyngxb/simplifying_expressions_bottom_up) - [Simplifying Expressions Bottom-Up](https://buttondown.email/jaffray/archive/simplifying-expressions-bottom-up/)
 * [2023-11-27, 18:45:13](https://lobste.rs/s/pfuon7/prettier_20k_bounty_rewrite_rust_was) - [Prettier $20k bounty to rewrite in Rust was claimed](https://prettier.io/blog/2023/11/27/20k-bounty-was-claimed)
 * [2023-11-27, 18:13:39](https://lobste.rs/s/7s6bxq/dependency_rejection) - [Dependency rejection](https://amontalenti.com/2023/11/25/dependency-rejection)
