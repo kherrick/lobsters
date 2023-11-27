@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-27](index.md)
 
+* [2023-11-27, 22:27:59](https://lobste.rs/s/miraea/robot_dad) - [Robot Dad](https://blog.untrod.com/2023/11/robot-dad.html)
 * [2023-11-27, 21:32:22](https://lobste.rs/s/ddyltb/god_help_us_let_s_try_understand_paper_on_ai) - [God Help Us, Let's Try To Understand The Paper On AI Monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)
 * [2023-11-27, 21:04:39](https://lobste.rs/s/8v3scb/friends_don_t_let_friends_make_certain) - [Friends don't let friends make certain types of data visualization](https://github.com/cxli233/FriendsDontLetFriends)
 * [2023-11-27, 20:38:17](https://lobste.rs/s/jphjl8/least_effort_self_destructing_email) - [Least effort self-destructing email addresses with Fastmail](https://mikejsavage.co.uk/fastmail-min-effort-tempomail/)

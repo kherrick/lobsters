@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-27, 22:27:59](https://lobste.rs/s/miraea/robot_dad) - [Robot Dad](https://blog.untrod.com/2023/11/robot-dad.html)
 * [2023-11-27, 21:32:22](https://lobste.rs/s/ddyltb/god_help_us_let_s_try_understand_paper_on_ai) - [God Help Us, Let's Try To Understand The Paper On AI Monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)
 * [2023-11-27, 21:04:39](https://lobste.rs/s/8v3scb/friends_don_t_let_friends_make_certain) - [Friends don't let friends make certain types of data visualization](https://github.com/cxli233/FriendsDontLetFriends)
 * [2023-11-27, 20:38:17](https://lobste.rs/s/jphjl8/least_effort_self_destructing_email) - [Least effort self-destructing email addresses with Fastmail](https://mikejsavage.co.uk/fastmail-min-effort-tempomail/)
@@ -24,7 +25,6 @@
 * [2023-11-26, 17:54:44](https://lobste.rs/s/qlvcpm/interceptors_are_functions_too) - [Interceptors Are Functions Too](https://gist.github.com/quad/13e9f8b6e88dec1729e30b270ebf22df)
 * [2023-11-26, 16:48:07](https://lobste.rs/s/ywg6aw/themenix_theme_your_nixos_configuration) - [ThemeNix: Theme your NixOS configuration consistently](https://github.com/RGBCube/ThemeNix)
 * [2023-11-26, 10:47:45](https://lobste.rs/s/frbh3v/many_explanations_join_are_wrong_people) - [Many explanations of JOIN are wrong, and people get confused](https://minimalmodeling.substack.com/p/many-explanations-of-join-are-wrong)
-* [2023-11-26, 02:10:48](https://lobste.rs/s/uigtfn/curse_docker) - [the curse of docker](https://computer.rip/2023-11-25-the-curse-of-docker.html)
 
 ## [Archives](archives/index.md)
 
