@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-27, 12:10:36",
+      "https://lobste.rs/s/d6pydd/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/d6pydd/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
       "2023-11-27, 10:53:57",
       "https://lobste.rs/s/fk4myd/migrating_from_vm_hierarchical_jails"
     ],
@@ -237,16 +247,6 @@
     [
       "the curse of docker",
       "https://computer.rip/2023-11-25-the-curse-of-docker.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-25, 19:46:07",
-      "https://lobste.rs/s/yu41n5/native_emacs_macos_ux_integrations_via"
-    ],
-    [
-      "Native Emacs/macOS UX integrations via Swift modules",
-      "https://xenodium.com/native-emacsmacos-ux-integrations-via-swift-modules/"
     ]
   ]
 ]
