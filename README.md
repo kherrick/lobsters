@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-28, 20:24:19](https://lobste.rs/s/lbgs5u/transistor_first_reported_as_little) - [Transistor first reported as “Little Brain Cell”](https://www.biodigitaljazz.net/blog/littlebraincell.html)
 * [2023-11-28, 19:01:46](https://lobste.rs/s/mqpftj/birth_death_search_engine_optimization) - [The birth & death of search engine optimization](https://xeiaso.net/blog/birth-death-seo/)
 * [2023-11-28, 18:01:59](https://lobste.rs/s/hbogeg/go_fact_zero_sized_field_at_rear_struct_has) - [Go Fact: Zero-sized Field at the Rear of a Struct Has Non-zero Size](https://i.hsfzxjy.site/zst-at-the-rear-of-go-struct/)
 * [2023-11-28, 17:47:58](https://lobste.rs/s/5fhjyq/poll_next) - [poll_next](https://without.boats/blog/poll-next/)
@@ -22,7 +23,6 @@
 * [2023-11-27, 19:36:07](https://lobste.rs/s/zyngxb/simplifying_expressions_bottom_up) - [Simplifying Expressions Bottom-Up](https://buttondown.email/jaffray/archive/simplifying-expressions-bottom-up/)
 * [2023-11-27, 18:45:13](https://lobste.rs/s/pfuon7/prettier_20k_bounty_rewrite_rust_was) - [Prettier $20k bounty to rewrite in Rust was claimed](https://prettier.io/blog/2023/11/27/20k-bounty-was-claimed)
 * [2023-11-27, 18:13:39](https://lobste.rs/s/7s6bxq/dependency_rejection) - [Dependency rejection](https://amontalenti.com/2023/11/25/dependency-rejection)
-* [2023-11-27, 17:28:03](https://lobste.rs/s/alcjsb/python_is_easy_go_is_simple_simple_easy) - [Python is Easy. Go is Simple. Simple != Easy](https://preslav.me/2023/11/27/python-is-easy-golang-is-simple-simple-is-not-easy/)
 * [2023-11-27, 16:59:50](https://lobste.rs/s/1vm0mu/ready_for_embedded_pipewire_1_0_released) - [Ready for embedded: PipeWire 1.0 released](https://www.collabora.com/news-and-blog/news-and-events/ready-for-embedded-pipewire-1-0-released.html)
 * [2023-11-27, 16:57:41](https://lobste.rs/s/vzm2wx/friendship_ended_with_obsidian_latex_now) - [Friendship Ended with Obsidian/LaTeX, Now Typst is My Best Friend](https://ersei.net/en/blog/typst)
 
