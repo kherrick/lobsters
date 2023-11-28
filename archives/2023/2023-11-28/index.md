@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 16:53:03](https://lobste.rs/s/tbxi9y/is_anyone_here_familiar_with_devhunt) - [Is anyone here familiar with DevHunt?](https://lobste.rs/s/tbxi9y/is_anyone_here_familiar_with_devhunt)
+* [2023-11-28, 16:52:28](https://lobste.rs/s/capn8b/how_fast_is_aws_cloudtrail_investigating) - [How fast is AWS CloudTrail? Investigating CloudTrail delays using Athena](https://tracebit.com/blog/2023/11/how-fast-is-cloudtrail-today-investigating-cloudtrail-delays-using-athena/)
 * [2023-11-28, 15:46:24](https://lobste.rs/s/1pyaik/bubble_sort_archaeological_algorithmic) - [Bubble Sort: An Archaeological Algorithmic Analysis (2003)](https://users.cs.duke.edu/~ola/papers/bubble.pdf)
 * [2023-11-28, 15:35:18](https://lobste.rs/s/ewo3df/windows_nt_peeking_into_cradle) - [Windows NT: Peeking into the cradle](https://blogsystem5.substack.com/p/windows-nt-peeking-into-the-cradle)
 * [2023-11-28, 15:21:47](https://lobste.rs/s/r2spu6/announcing_general_availability_aws_sdk) - [Announcing general availability of the AWS SDK for Rust](https://aws.amazon.com/blogs/developer/announcing-general-availability-of-the-aws-sdk-for-rust/)

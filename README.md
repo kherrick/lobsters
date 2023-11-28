@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-28, 16:53:03](https://lobste.rs/s/tbxi9y/is_anyone_here_familiar_with_devhunt) - [Is anyone here familiar with DevHunt?](https://lobste.rs/s/tbxi9y/is_anyone_here_familiar_with_devhunt)
+* [2023-11-28, 16:52:28](https://lobste.rs/s/capn8b/how_fast_is_aws_cloudtrail_investigating) - [How fast is AWS CloudTrail? Investigating CloudTrail delays using Athena](https://tracebit.com/blog/2023/11/how-fast-is-cloudtrail-today-investigating-cloudtrail-delays-using-athena/)
 * [2023-11-28, 15:46:24](https://lobste.rs/s/1pyaik/bubble_sort_archaeological_algorithmic) - [Bubble Sort: An Archaeological Algorithmic Analysis (2003)](https://users.cs.duke.edu/~ola/papers/bubble.pdf)
 * [2023-11-28, 15:35:18](https://lobste.rs/s/ewo3df/windows_nt_peeking_into_cradle) - [Windows NT: Peeking into the cradle](https://blogsystem5.substack.com/p/windows-nt-peeking-into-the-cradle)
 * [2023-11-28, 15:21:47](https://lobste.rs/s/r2spu6/announcing_general_availability_aws_sdk) - [Announcing general availability of the AWS SDK for Rust](https://aws.amazon.com/blogs/developer/announcing-general-availability-of-the-aws-sdk-for-rust/)
@@ -7,7 +9,6 @@
 * [2023-11-28, 13:41:05](https://lobste.rs/s/efq0wj/rustlantis_semantic_fuzzing_rust) - [Rustlantis: Semantic fuzzing of the Rust compiler and interpreter](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-pls/plf-dam/documents/StudentProjects/MasterTheses/2023-Andy-Thesis.pdf)
 * [2023-11-28, 12:44:46](https://lobste.rs/s/re877h/red_hat_enterprise_linux_10_plans_for) - [Red Hat Enterprise Linux 10 plans for Wayland and Xorg server](https://www.redhat.com/en/blog/rhel-10-plans-wayland-and-xorg-server)
 * [2023-11-28, 12:25:55](https://lobste.rs/s/phyo1a/pesky_little_scripts) - [Pesky little scripts](https://rednafi.com/misc/pesky_little_scripts/)
-* [2023-11-28, 11:37:33](https://lobste.rs/s/hzawye/jami_release_eleutheria_for_more) - [Jami release: Eleutheria, for more enjoyable private, and secure communication](https://jami.net/eleutheria/)
 * [2023-11-28, 09:04:20](https://lobste.rs/s/tlv58d/qmail_example_dealing_with_unavoidable) - [A Qmail example of dealing with unavoidable race conditions](https://blog.plover.com/prog/erlang-race-condition-2.html)
 * [2023-11-28, 04:37:24](https://lobste.rs/s/njfvjb/rustdesk_with_tailscale_on_arch_linux) - [RustDesk with Tailscale on Arch Linux](https://nocoffei.com/?p=81)
 * [2023-11-28, 00:33:30](https://lobste.rs/s/kvnmwv/curious_about_tools_fellow_developers) - [Curious about the tools fellow developers use to interact with PostgreSQL](https://lobste.rs/s/kvnmwv/curious_about_tools_fellow_developers)
@@ -24,7 +25,6 @@
 * [2023-11-27, 16:59:50](https://lobste.rs/s/1vm0mu/ready_for_embedded_pipewire_1_0_released) - [Ready for embedded: PipeWire 1.0 released](https://www.collabora.com/news-and-blog/news-and-events/ready-for-embedded-pipewire-1-0-released.html)
 * [2023-11-27, 16:57:41](https://lobste.rs/s/vzm2wx/friendship_ended_with_obsidian_latex_now) - [Friendship Ended with Obsidian/LaTeX, Now Typst is My Best Friend](https://ersei.net/en/blog/typst)
 * [2023-11-27, 15:40:47](https://lobste.rs/s/abowoi/modeling_crdts_alloy_counters) - [modeling CRDTs in Alloy - counters](https://bytes.zone/posts/modeling-crdts-in-alloy-counters/)
-* [2023-11-27, 13:01:41](https://lobste.rs/s/9ufhvp/freebsd_14_0_delivering_great) - [FreeBSD 14.0 Delivering Great Performance Uplift](https://www.phoronix.com/review/freebsd-14-epyc)
 
 ## [Archives](archives/index.md)
 
