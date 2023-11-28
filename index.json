@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-28, 00:33:30",
+      "https://lobste.rs/s/kvnmwv/curious_about_tools_fellow_developers"
+    ],
+    [
+      "Curious about the tools fellow developers use to interact with PostgreSQL",
+      "https://lobste.rs/s/kvnmwv/curious_about_tools_fellow_developers"
+    ]
+  ],
+  [
+    [
+      "2023-11-28, 00:25:44",
+      "https://lobste.rs/s/pa7frq/use_reactions_presenter_overlay_other"
+    ],
+    [
+      "Use Reactions, Presenter Overlay, and other effects when videoconferencing on Mac",
+      "https://support.apple.com/en-us/105117"
+    ]
+  ],
+  [
+    [
       "2023-11-27, 23:53:29",
       "https://lobste.rs/s/kzq0fk/ray_marching_fog_with_blue_noise"
     ],
@@ -27,16 +47,6 @@
     [
       "Log-Structured Merge Tree",
       "https://medium.com/@tomfran/log-structured-merge-tree-a79241c959e3"
-    ]
-  ],
-  [
-    [
-      "2023-11-27, 23:18:52",
-      "https://lobste.rs/s/sgheiw/it_s_about_time"
-    ],
-    [
-      "It's About Time",
-      "https://brooker.co.za/blog/2023/11/27/about-time.html"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Ethernet is Still Going Strong After 50 Years",
       "https://spectrum.ieee.org/ethernet-ieee-milestone"
-    ]
-  ],
-  [
-    [
-      "2023-11-26, 22:03:33",
-      "https://lobste.rs/s/hamnoj/minilogger_miniformat_miniostream"
-    ],
-    [
-      "MiniLogger, MiniFormat, MiniOStream: lightweight C++ logging/formatting",
-      "https://github.com/snej/crouton/blob/main/docs/Mini.md"
     ]
   ],
   [
