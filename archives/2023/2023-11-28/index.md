@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 18:01:59](https://lobste.rs/s/hbogeg/go_fact_zero_sized_field_at_rear_struct_has) - [Go Fact: Zero-sized Field at the Rear of a Struct Has Non-zero Size](https://i.hsfzxjy.site/zst-at-the-rear-of-go-struct/)
 * [2023-11-28, 17:47:58](https://lobste.rs/s/5fhjyq/poll_next) - [poll_next](https://without.boats/blog/poll-next/)
 * [2023-11-28, 17:46:42](https://lobste.rs/s/yyaiux/vectors_symbols) - [Vectors & Symbols](https://inconvergent.net/2023/vectors-and-symbols/)
 * [2023-11-28, 16:53:03](https://lobste.rs/s/tbxi9y/is_anyone_here_familiar_with_devhunt) - [Is anyone here familiar with DevHunt?](https://lobste.rs/s/tbxi9y/is_anyone_here_familiar_with_devhunt)
