@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 22:17:56](https://lobste.rs/s/e6lu2e/analyzing_monoprice_blackbird_hdcp_2_2_1_4) - [Analyzing the Monoprice Blackbird HDCP 2.2 to 1.4 Down Converter](https://tomverbeure.github.io/2023/11/26/Monoprice-Blackbird-4K-Pro-HDCP-Converter.html)
 * [2023-11-28, 21:24:31](https://lobste.rs/s/5tutzn/what_s_up_python_new_args_syntax) - [What's up Python? New args syntax, subinterpreters FastAPI and cuda pandas…](https://www.bitecode.dev/p/whats-up-python-new-args-syntax-subinterpreters)
 * [2023-11-28, 20:41:28](https://lobste.rs/s/18tnex/sysaidmin_gpt_powered_sysadmin) - [sysaidmin: A GPT-powered sysadmin](https://github.com/skorokithakis/sysaidmin/)
 * [2023-11-28, 20:24:19](https://lobste.rs/s/lbgs5u/transistor_first_reported_as_little) - [Transistor first reported as “Little Brain Cell”](https://www.biodigitaljazz.net/blog/littlebraincell.html)
