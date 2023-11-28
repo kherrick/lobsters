@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 11:37:33](https://lobste.rs/s/hzawye/jami_release_eleutheria_for_more) - [Jami release: Eleutheria, for more enjoyable private, and secure communication](https://jami.net/eleutheria/)
 * [2023-11-28, 09:14:17](https://lobste.rs/s/ban8he/how_we_built_edge_optimized_postgres) - [How we built an edge-optimized Postgres connector using Rust](https://grafbase.com/blog/how-we-built-an-edge-optimized-postgres-connector)
 * [2023-11-28, 09:04:20](https://lobste.rs/s/tlv58d/qmail_example_dealing_with_unavoidable) - [A Qmail example of dealing with unavoidable race conditions](https://blog.plover.com/prog/erlang-race-condition-2.html)
 * [2023-11-28, 08:19:39](https://lobste.rs/s/xrysq3/designing_simd_algorithm_from_scratch) - [Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64/)
