@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-28, 08:19:39](https://lobste.rs/s/xrysq3/designing_simd_algorithm_from_scratch) - [Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64/)
 * [2023-11-28, 04:37:24](https://lobste.rs/s/njfvjb/rustdesk_with_tailscale_on_arch_linux) - [RustDesk with Tailscale on Arch Linux](https://nocoffei.com/?p=81)
 * [2023-11-28, 00:33:30](https://lobste.rs/s/kvnmwv/curious_about_tools_fellow_developers) - [Curious about the tools fellow developers use to interact with PostgreSQL](https://lobste.rs/s/kvnmwv/curious_about_tools_fellow_developers)
 * [2023-11-27, 23:53:29](https://lobste.rs/s/kzq0fk/ray_marching_fog_with_blue_noise) - [Ray Marching Fog With Blue Noise](https://blog.demofox.org/2020/05/10/ray-marching-fog-with-blue-noise/)
@@ -24,7 +25,6 @@
 * [2023-11-27, 06:43:26](https://lobste.rs/s/kxoeop/css_utility_classes_from_blasphemy_hype) - [CSS Utility classes: from blasphemy to hype](https://adropincalm.com/blog/css-utility-classes-from-blasphemy-to-hype/)
 * [2023-11-27, 03:49:09](https://lobste.rs/s/k4qpn6/ethernet_is_still_going_strong_after_50) - [Ethernet is Still Going Strong After 50 Years](https://spectrum.ieee.org/ethernet-ieee-milestone)
 * [2023-11-26, 20:52:53](https://lobste.rs/s/5417dx/storing_data_pointers) - [Storing data in pointers](https://muxup.com/2023q4/storing-data-in-pointers)
-* [2023-11-26, 10:47:45](https://lobste.rs/s/frbh3v/many_explanations_join_are_wrong_people) - [Many explanations of JOIN are wrong, and people get confused](https://minimalmodeling.substack.com/p/many-explanations-of-join-are-wrong)
 
 ## [Archives](archives/index.md)
 
