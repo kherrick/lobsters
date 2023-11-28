@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-11-28, 08:19:39",
-      "https://lobste.rs/s/xrysq3/designing_simd_algorithm_from_scratch"
-    ],
-    [
-      "Designing a SIMD Algorithm from Scratch",
-      "https://mcyoung.xyz/2023/11/27/simd-base64/"
-    ]
-  ],
-  [
-    [
       "2023-11-28, 04:37:24",
       "https://lobste.rs/s/njfvjb/rustdesk_with_tailscale_on_arch_linux"
     ],
@@ -227,6 +217,16 @@
     [
       "What are you doing this week?",
       "https://lobste.rs/s/d6pydd/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
+      "2023-11-27, 10:53:57",
+      "https://lobste.rs/s/fk4myd/migrating_from_vm_hierarchical_jails"
+    ],
+    [
+      "Migrating from VM to Hierarchical Jails in FreeBSD",
+      "https://it-notes.dragas.net/2023/11/27/migrating-from-vm-to-hierarchical-jails-freebsd/"
     ]
   ],
   [
