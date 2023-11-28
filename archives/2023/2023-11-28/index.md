@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 14:45:50](https://lobste.rs/s/4yazrx/rfc_1288_finger_user_information) - [RFC 1288: The Finger User Information Protocol, §3 Security (1991)](https://datatracker.ietf.org/doc/html/rfc1288#section-3)
 * [2023-11-28, 13:52:33](https://lobste.rs/s/3yltn4/source_filtering_with_file_sets) - [Source filtering with file sets](https://www.tweag.io/blog/2023-11-28-file-sets/)
 * [2023-11-28, 13:41:05](https://lobste.rs/s/efq0wj/rustlantis_semantic_fuzzing_rust) - [Rustlantis: Semantic fuzzing of the Rust compiler and interpreter](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-pls/plf-dam/documents/StudentProjects/MasterTheses/2023-Andy-Thesis.pdf)
 * [2023-11-28, 12:44:46](https://lobste.rs/s/re877h/red_hat_enterprise_linux_10_plans_for) - [Red Hat Enterprise Linux 10 plans for Wayland and Xorg server](https://www.redhat.com/en/blog/rhel-10-plans-wayland-and-xorg-server)

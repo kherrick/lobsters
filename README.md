@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-28, 14:45:50](https://lobste.rs/s/4yazrx/rfc_1288_finger_user_information) - [RFC 1288: The Finger User Information Protocol, §3 Security (1991)](https://datatracker.ietf.org/doc/html/rfc1288#section-3)
 * [2023-11-28, 13:52:33](https://lobste.rs/s/3yltn4/source_filtering_with_file_sets) - [Source filtering with file sets](https://www.tweag.io/blog/2023-11-28-file-sets/)
 * [2023-11-28, 13:41:05](https://lobste.rs/s/efq0wj/rustlantis_semantic_fuzzing_rust) - [Rustlantis: Semantic fuzzing of the Rust compiler and interpreter](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-pls/plf-dam/documents/StudentProjects/MasterTheses/2023-Andy-Thesis.pdf)
 * [2023-11-28, 12:44:46](https://lobste.rs/s/re877h/red_hat_enterprise_linux_10_plans_for) - [Red Hat Enterprise Linux 10 plans for Wayland and Xorg server](https://www.redhat.com/en/blog/rhel-10-plans-wayland-and-xorg-server)
 * [2023-11-28, 12:25:55](https://lobste.rs/s/phyo1a/pesky_little_scripts) - [Pesky little scripts](https://rednafi.com/misc/pesky_little_scripts/)
-* [2023-11-28, 12:04:36](https://lobste.rs/s/55ecqn/api_stability_making_assumptions) - [API stability and making assumptions](https://utcc.utoronto.ca/~cks/space/blog/programming/GoAPIStabilityAndAssumptions)
 * [2023-11-28, 11:37:33](https://lobste.rs/s/hzawye/jami_release_eleutheria_for_more) - [Jami release: Eleutheria, for more enjoyable private, and secure communication](https://jami.net/eleutheria/)
 * [2023-11-28, 09:14:17](https://lobste.rs/s/ban8he/how_we_built_edge_optimized_postgres) - [How we built an edge-optimized Postgres connector using Rust](https://grafbase.com/blog/how-we-built-an-edge-optimized-postgres-connector)
 * [2023-11-28, 09:04:20](https://lobste.rs/s/tlv58d/qmail_example_dealing_with_unavoidable) - [A Qmail example of dealing with unavoidable race conditions](https://blog.plover.com/prog/erlang-race-condition-2.html)
