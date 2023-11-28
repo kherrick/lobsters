@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-28, 21:24:31](https://lobste.rs/s/5tutzn/what_s_up_python_new_args_syntax) - [What's up Python? New args syntax, subinterpreters FastAPI and cuda pandas…](https://www.bitecode.dev/p/whats-up-python-new-args-syntax-subinterpreters)
 * [2023-11-28, 20:41:28](https://lobste.rs/s/18tnex/sysaidmin_gpt_powered_sysadmin) - [sysaidmin: A GPT-powered sysadmin](https://github.com/skorokithakis/sysaidmin/)
 * [2023-11-28, 20:24:19](https://lobste.rs/s/lbgs5u/transistor_first_reported_as_little) - [Transistor first reported as “Little Brain Cell”](https://www.biodigitaljazz.net/blog/littlebraincell.html)
 * [2023-11-28, 19:01:46](https://lobste.rs/s/mqpftj/birth_death_search_engine_optimization) - [The birth & death of search engine optimization](https://xeiaso.net/blog/birth-death-seo/)
@@ -19,7 +20,6 @@
 * [2023-11-27, 23:50:43](https://lobste.rs/s/hly89h/microsoft_contributes_azure_rtos) - [Microsoft Contributes Azure RTOS to Eclipse Foundation](https://techcommunity.microsoft.com/t5/internet-of-things-blog/microsoft-contributes-azure-rtos-to-open-source/ba-p/3986318)
 * [2023-11-27, 21:32:22](https://lobste.rs/s/ddyltb/god_help_us_let_s_try_understand_paper_on_ai) - [God Help Us, Let's Try To Understand The Paper On AI Monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)
 * [2023-11-27, 21:04:39](https://lobste.rs/s/8v3scb/friends_don_t_let_friends_make_certain) - [Friends don't let friends make certain types of data visualization](https://github.com/cxli233/FriendsDontLetFriends)
-* [2023-11-27, 20:38:17](https://lobste.rs/s/jphjl8/least_effort_self_destructing_email) - [Least effort self-destructing email addresses with Fastmail](https://mikejsavage.co.uk/fastmail-min-effort-tempomail/)
 * [2023-11-27, 19:36:07](https://lobste.rs/s/zyngxb/simplifying_expressions_bottom_up) - [Simplifying Expressions Bottom-Up](https://buttondown.email/jaffray/archive/simplifying-expressions-bottom-up/)
 * [2023-11-27, 18:45:13](https://lobste.rs/s/pfuon7/prettier_20k_bounty_rewrite_rust_was) - [Prettier $20k bounty to rewrite in Rust was claimed](https://prettier.io/blog/2023/11/27/20k-bounty-was-claimed)
 * [2023-11-27, 18:13:39](https://lobste.rs/s/7s6bxq/dependency_rejection) - [Dependency rejection](https://amontalenti.com/2023/11/25/dependency-rejection)
