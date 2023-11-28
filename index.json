@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-28, 09:14:17",
+      "https://lobste.rs/s/ban8he/how_we_built_edge_optimized_postgres"
+    ],
+    [
+      "How we built an edge-optimized Postgres connector using Rust",
+      "https://grafbase.com/blog/how-we-built-an-edge-optimized-postgres-connector"
+    ]
+  ],
+  [
+    [
+      "2023-11-28, 09:04:20",
+      "https://lobste.rs/s/tlv58d/qmail_example_dealing_with_unavoidable"
+    ],
+    [
+      "A Qmail example of dealing with unavoidable race conditions",
+      "https://blog.plover.com/prog/erlang-race-condition-2.html"
+    ]
+  ],
+  [
+    [
       "2023-11-28, 08:19:39",
       "https://lobste.rs/s/xrysq3/designing_simd_algorithm_from_scratch"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2023-11-27, 10:53:57",
-      "https://lobste.rs/s/fk4myd/migrating_from_vm_hierarchical_jails"
-    ],
-    [
-      "Migrating from VM to Hierarchical Jails in FreeBSD",
-      "https://it-notes.dragas.net/2023/11/27/migrating-from-vm-to-hierarchical-jails-freebsd/"
-    ]
-  ],
-  [
-    [
       "2023-11-27, 06:43:26",
       "https://lobste.rs/s/kxoeop/css_utility_classes_from_blasphemy_hype"
     ],
     [
       "CSS Utility classes: from blasphemy to hype",
       "https://adropincalm.com/blog/css-utility-classes-from-blasphemy-to-hype/"
-    ]
-  ],
-  [
-    [
-      "2023-11-27, 03:49:09",
-      "https://lobste.rs/s/k4qpn6/ethernet_is_still_going_strong_after_50"
-    ],
-    [
-      "Ethernet is Still Going Strong After 50 Years",
-      "https://spectrum.ieee.org/ethernet-ieee-milestone"
     ]
   ],
   [
