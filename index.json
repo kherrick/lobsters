@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-28, 15:35:18",
+      "https://lobste.rs/s/ewo3df/windows_nt_peeking_into_cradle"
+    ],
+    [
+      "Windows NT: Peeking into the cradle",
+      "https://blogsystem5.substack.com/p/windows-nt-peeking-into-the-cradle"
+    ]
+  ],
+  [
+    [
       "2023-11-28, 15:21:47",
       "https://lobste.rs/s/r2spu6/announcing_general_availability_aws_sdk"
     ],
@@ -27,16 +37,6 @@
     [
       "Source filtering with file sets",
       "https://www.tweag.io/blog/2023-11-28-file-sets/"
-    ]
-  ],
-  [
-    [
-      "2023-11-28, 13:41:05",
-      "https://lobste.rs/s/efq0wj/rustlantis_semantic_fuzzing_rust"
-    ],
-    [
-      "Rustlantis: Semantic fuzzing of the Rust compiler and interpreter",
-      "https://ethz.ch/content/dam/ethz/special-interest/infk/inst-pls/plf-dam/documents/StudentProjects/MasterTheses/2023-Andy-Thesis.pdf"
     ]
   ],
   [
