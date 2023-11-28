@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 12:25:55](https://lobste.rs/s/phyo1a/pesky_little_scripts) - [Pesky little scripts](https://rednafi.com/misc/pesky_little_scripts/)
 * [2023-11-28, 12:04:36](https://lobste.rs/s/55ecqn/api_stability_making_assumptions) - [API stability and making assumptions](https://utcc.utoronto.ca/~cks/space/blog/programming/GoAPIStabilityAndAssumptions)
 * [2023-11-28, 11:37:33](https://lobste.rs/s/hzawye/jami_release_eleutheria_for_more) - [Jami release: Eleutheria, for more enjoyable private, and secure communication](https://jami.net/eleutheria/)
 * [2023-11-28, 09:14:17](https://lobste.rs/s/ban8he/how_we_built_edge_optimized_postgres) - [How we built an edge-optimized Postgres connector using Rust](https://grafbase.com/blog/how-we-built-an-edge-optimized-postgres-connector)

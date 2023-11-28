@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-28, 12:25:55](https://lobste.rs/s/phyo1a/pesky_little_scripts) - [Pesky little scripts](https://rednafi.com/misc/pesky_little_scripts/)
 * [2023-11-28, 12:04:36](https://lobste.rs/s/55ecqn/api_stability_making_assumptions) - [API stability and making assumptions](https://utcc.utoronto.ca/~cks/space/blog/programming/GoAPIStabilityAndAssumptions)
 * [2023-11-28, 11:37:33](https://lobste.rs/s/hzawye/jami_release_eleutheria_for_more) - [Jami release: Eleutheria, for more enjoyable private, and secure communication](https://jami.net/eleutheria/)
 * [2023-11-28, 09:14:17](https://lobste.rs/s/ban8he/how_we_built_edge_optimized_postgres) - [How we built an edge-optimized Postgres connector using Rust](https://grafbase.com/blog/how-we-built-an-edge-optimized-postgres-connector)
@@ -8,7 +9,6 @@
 * [2023-11-28, 00:33:30](https://lobste.rs/s/kvnmwv/curious_about_tools_fellow_developers) - [Curious about the tools fellow developers use to interact with PostgreSQL](https://lobste.rs/s/kvnmwv/curious_about_tools_fellow_developers)
 * [2023-11-27, 23:53:29](https://lobste.rs/s/kzq0fk/ray_marching_fog_with_blue_noise) - [Ray Marching Fog With Blue Noise](https://blog.demofox.org/2020/05/10/ray-marching-fog-with-blue-noise/)
 * [2023-11-27, 23:50:43](https://lobste.rs/s/hly89h/microsoft_contributes_azure_rtos) - [Microsoft Contributes Azure RTOS to Eclipse Foundation](https://techcommunity.microsoft.com/t5/internet-of-things-blog/microsoft-contributes-azure-rtos-to-open-source/ba-p/3986318)
-* [2023-11-27, 23:38:20](https://lobste.rs/s/hem4gk/log_structured_merge_tree) - [Log-Structured Merge Tree](https://medium.com/@tomfran/log-structured-merge-tree-a79241c959e3)
 * [2023-11-27, 23:18:52](https://lobste.rs/s/sgheiw/it_s_about_time) - [It's About Time](https://brooker.co.za/blog/2023/11/27/about-time.html)
 * [2023-11-27, 22:27:59](https://lobste.rs/s/miraea/robot_dad) - [Robot Dad](https://blog.untrod.com/2023/11/robot-dad.html)
 * [2023-11-27, 21:32:22](https://lobste.rs/s/ddyltb/god_help_us_let_s_try_understand_paper_on_ai) - [God Help Us, Let's Try To Understand The Paper On AI Monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)
