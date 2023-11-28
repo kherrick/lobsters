@@ -2,7 +2,6 @@
 
 * [2023-11-28, 09:14:17](https://lobste.rs/s/ban8he/how_we_built_edge_optimized_postgres) - [How we built an edge-optimized Postgres connector using Rust](https://grafbase.com/blog/how-we-built-an-edge-optimized-postgres-connector)
 * [2023-11-28, 09:04:20](https://lobste.rs/s/tlv58d/qmail_example_dealing_with_unavoidable) - [A Qmail example of dealing with unavoidable race conditions](https://blog.plover.com/prog/erlang-race-condition-2.html)
-* [2023-11-28, 08:19:39](https://lobste.rs/s/xrysq3/designing_simd_algorithm_from_scratch) - [Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64/)
 * [2023-11-28, 04:37:24](https://lobste.rs/s/njfvjb/rustdesk_with_tailscale_on_arch_linux) - [RustDesk with Tailscale on Arch Linux](https://nocoffei.com/?p=81)
 * [2023-11-28, 00:33:30](https://lobste.rs/s/kvnmwv/curious_about_tools_fellow_developers) - [Curious about the tools fellow developers use to interact with PostgreSQL](https://lobste.rs/s/kvnmwv/curious_about_tools_fellow_developers)
 * [2023-11-27, 23:53:29](https://lobste.rs/s/kzq0fk/ray_marching_fog_with_blue_noise) - [Ray Marching Fog With Blue Noise](https://blog.demofox.org/2020/05/10/ray-marching-fog-with-blue-noise/)
@@ -23,6 +22,7 @@
 * [2023-11-27, 13:04:19](https://lobste.rs/s/m9ewdr/where_is_opencv_5) - [Where Is OpenCV 5?](https://opencv.org/blog/where-is-opencv-5/)
 * [2023-11-27, 13:01:41](https://lobste.rs/s/9ufhvp/freebsd_14_0_delivering_great) - [FreeBSD 14.0 Delivering Great Performance Uplift](https://www.phoronix.com/review/freebsd-14-epyc)
 * [2023-11-27, 12:10:36](https://lobste.rs/s/d6pydd/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/d6pydd/what_are_you_doing_this_week)
+* [2023-11-27, 10:53:57](https://lobste.rs/s/fk4myd/migrating_from_vm_hierarchical_jails) - [Migrating from VM to Hierarchical Jails in FreeBSD](https://it-notes.dragas.net/2023/11/27/migrating-from-vm-to-hierarchical-jails-freebsd/)
 * [2023-11-27, 06:43:26](https://lobste.rs/s/kxoeop/css_utility_classes_from_blasphemy_hype) - [CSS Utility classes: from blasphemy to hype](https://adropincalm.com/blog/css-utility-classes-from-blasphemy-to-hype/)
 * [2023-11-26, 20:52:53](https://lobste.rs/s/5417dx/storing_data_pointers) - [Storing data in pointers](https://muxup.com/2023q4/storing-data-in-pointers)
 
