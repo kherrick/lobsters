@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-11-27, 23:50:43",
+      "https://lobste.rs/s/hly89h/microsoft_contributes_azure_rtos"
+    ],
+    [
+      "Microsoft Contributes Azure RTOS to Eclipse Foundation",
+      "https://techcommunity.microsoft.com/t5/internet-of-things-blog/microsoft-contributes-azure-rtos-to-open-source/ba-p/3986318"
+    ]
+  ],
+  [
+    [
       "2023-11-27, 23:38:20",
       "https://lobste.rs/s/hem4gk/log_structured_merge_tree"
     ],
@@ -227,16 +237,6 @@
     [
       "Storing data in pointers",
       "https://muxup.com/2023q4/storing-data-in-pointers"
-    ]
-  ],
-  [
-    [
-      "2023-11-26, 19:57:45",
-      "https://lobste.rs/s/95yias/dependencies_belong_version_control"
-    ],
-    [
-      "Dependencies Belong in Version Control",
-      "https://www.forrestthewoods.com/blog/dependencies-belong-in-version-control/"
     ]
   ],
   [
