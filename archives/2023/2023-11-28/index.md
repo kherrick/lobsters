@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-11-28](index.md)
 
+* [2023-11-28, 17:47:58](https://lobste.rs/s/5fhjyq/poll_next) - [poll_next](https://without.boats/blog/poll-next/)
+* [2023-11-28, 17:46:42](https://lobste.rs/s/yyaiux/vectors_symbols) - [Vectors & Symbols](https://inconvergent.net/2023/vectors-and-symbols/)
 * [2023-11-28, 16:53:03](https://lobste.rs/s/tbxi9y/is_anyone_here_familiar_with_devhunt) - [Is anyone here familiar with DevHunt?](https://lobste.rs/s/tbxi9y/is_anyone_here_familiar_with_devhunt)
 * [2023-11-28, 16:52:28](https://lobste.rs/s/capn8b/how_fast_is_aws_cloudtrail_investigating) - [How fast is AWS CloudTrail? Investigating CloudTrail delays using Athena](https://tracebit.com/blog/2023/11/how-fast-is-cloudtrail-today-investigating-cloudtrail-delays-using-athena/)
 * [2023-11-28, 15:46:24](https://lobste.rs/s/1pyaik/bubble_sort_archaeological_algorithmic) - [Bubble Sort: An Archaeological Algorithmic Analysis (2003)](https://users.cs.duke.edu/~ola/papers/bubble.pdf)
