@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-29, 21:57:12](https://lobste.rs/s/al2gox/infinite_mac) - [Infinite Mac](https://infinitemac.org/)
 * [2023-11-29, 21:35:04](https://lobste.rs/s/xcgvgk/compiler_error_messages_considered) - [Compiler Error Messages Considered Unhelpful: Text-Based Programming Error Message Research (2019)](https://www.brettbecker.com/wp-content/uploads/2019/12/becker2019compiler.pdf)
 * [2023-11-29, 20:35:41](https://lobste.rs/s/8cdhtt/errtrace_alternative_stack_traces_for) - [errtrace: An alternative to stack traces for your Go errors](https://github.com/bracesdev/errtrace)
-* [2023-11-29, 20:33:54](https://lobste.rs/s/m5notg/turbo_8_8_minutes) - [Turbo 8 in 8 minutes](https://fly.io/ruby-dispatch/turbo-8-in-8-minutes/)
 * [2023-11-29, 20:16:38](https://lobste.rs/s/orgjzy/10_weird_html_hacks_shaped_internet) - [10 Weird HTML Hacks That Shaped The Internet](https://tedium.co/2023/11/24/weird-html-hacks-history/)
 * [2023-11-29, 19:31:59](https://lobste.rs/s/j9bivl/llamafile_distribute_run_llms_with) - [llamafile: Distribute and run LLMs with a single file](https://github.com/mozilla-Ocho/llamafile)
 * [2023-11-29, 18:14:51](https://lobste.rs/s/xqzl1v/kon_bal_s_puzzle_page_quicktime_quandary) - [KON & BAL's Puzzle Page: QuickTime Quandary [1996?]](http://preserve.mactech.com/articles/develop/issue_27/puzzle.html)
