@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 16:23:14](https://lobste.rs/s/yqj3ae/my_500m_mars_rover_mistake_failure_story) - [My $500M Mars Rover Mistake: A Failure Story](https://www.chrislewicki.com/articles/failurestory)
 * [2023-11-29, 16:15:01](https://lobste.rs/s/sppsfx/touch_pwn_part_i) - [A Touch of Pwn - Part I](https://blackwinghq.com/blog/posts/a-touch-of-pwn-part-i/)
 * [2023-11-29, 15:35:50](https://lobste.rs/s/ntn2yq/jaq_jq_clone_focussed_on_correctness) - [jaq: A jq clone focussed on correctness, speed, and simplicity](https://github.com/01mf02/jaq)
 * [2023-11-29, 15:14:44](https://lobste.rs/s/xawt3e/reexamining_fizzbuzz_step_by_step) - [Reexamining FizzBuzz Step by Step – and allowing for more varied rules](https://pragtob.wordpress.com/2023/11/28/reexamining-fizzbuzz-step-by-step-and-allowing-for-more-varied-rules/)

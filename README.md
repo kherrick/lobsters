@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-29, 16:23:14](https://lobste.rs/s/yqj3ae/my_500m_mars_rover_mistake_failure_story) - [My $500M Mars Rover Mistake: A Failure Story](https://www.chrislewicki.com/articles/failurestory)
 * [2023-11-29, 16:15:01](https://lobste.rs/s/sppsfx/touch_pwn_part_i) - [A Touch of Pwn - Part I](https://blackwinghq.com/blog/posts/a-touch-of-pwn-part-i/)
 * [2023-11-29, 15:35:50](https://lobste.rs/s/ntn2yq/jaq_jq_clone_focussed_on_correctness) - [jaq: A jq clone focussed on correctness, speed, and simplicity](https://github.com/01mf02/jaq)
 * [2023-11-29, 15:14:44](https://lobste.rs/s/xawt3e/reexamining_fizzbuzz_step_by_step) - [Reexamining FizzBuzz Step by Step – and allowing for more varied rules](https://pragtob.wordpress.com/2023/11/28/reexamining-fizzbuzz-step-by-step-and-allowing-for-more-varied-rules/)
@@ -23,7 +24,6 @@
 * [2023-11-28, 15:21:47](https://lobste.rs/s/r2spu6/announcing_general_availability_aws_sdk) - [Announcing general availability of the AWS SDK for Rust](https://aws.amazon.com/blogs/developer/announcing-general-availability-of-the-aws-sdk-for-rust/)
 * [2023-11-28, 13:52:33](https://lobste.rs/s/3yltn4/source_filtering_with_file_sets) - [Source filtering with file sets](https://www.tweag.io/blog/2023-11-28-file-sets/)
 * [2023-11-28, 12:25:55](https://lobste.rs/s/phyo1a/pesky_little_scripts) - [Pesky little scripts](https://rednafi.com/misc/pesky_little_scripts/)
-* [2023-11-28, 09:04:20](https://lobste.rs/s/tlv58d/qmail_example_dealing_with_unavoidable) - [A Qmail example of dealing with unavoidable race conditions](https://blog.plover.com/prog/erlang-race-condition-2.html)
 * [2023-11-27, 16:57:41](https://lobste.rs/s/vzm2wx/friendship_ended_with_obsidian_latex_now) - [Friendship Ended with Obsidian/LaTeX, Now Typst is My Best Friend](https://ersei.net/en/blog/typst)
 
 ## [Archives](archives/index.md)
