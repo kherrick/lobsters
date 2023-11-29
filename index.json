@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-29, 17:39:15",
+      "https://lobste.rs/s/gmzkjj/deep_dive_into_sending_with_librdkafka"
+    ],
+    [
+      "A Deep Dive Into Sending With librdkafka",
+      "https://www.confluent.io/blog/how-to-send-messages-with-librdkafka/"
+    ]
+  ],
+  [
+    [
       "2023-11-29, 16:23:14",
       "https://lobste.rs/s/yqj3ae/my_500m_mars_rover_mistake_failure_story"
     ],
@@ -187,16 +197,6 @@
     [
       "poll_next",
       "https://without.boats/blog/poll-next/"
-    ]
-  ],
-  [
-    [
-      "2023-11-28, 16:52:28",
-      "https://lobste.rs/s/capn8b/how_fast_is_aws_cloudtrail_investigating"
-    ],
-    [
-      "How fast is AWS CloudTrail? Investigating CloudTrail delays using Athena",
-      "https://tracebit.com/blog/2023/11/how-fast-is-cloudtrail-today-investigating-cloudtrail-delays-using-athena/"
     ]
   ],
   [
