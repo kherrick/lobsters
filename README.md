@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-29, 15:35:50](https://lobste.rs/s/ntn2yq/jaq_jq_clone_focussed_on_correctness) - [jaq: A jq clone focussed on correctness, speed, and simplicity](https://github.com/01mf02/jaq)
 * [2023-11-29, 15:14:44](https://lobste.rs/s/xawt3e/reexamining_fizzbuzz_step_by_step) - [Reexamining FizzBuzz Step by Step – and allowing for more varied rules](https://pragtob.wordpress.com/2023/11/28/reexamining-fizzbuzz-step-by-step-and-allowing-for-more-varied-rules/)
 * [2023-11-29, 14:21:31](https://lobste.rs/s/bx9ss7/diminishing_half_life_knowledge) - [The diminishing half-life of knowledge](https://rednafi.com/misc/diminishing_half_life_of_knowledge/)
 * [2023-11-29, 13:50:51](https://lobste.rs/s/i23rvs/edge_case_poisoning_2020) - [Edge Case Poisoning (2020)](https://buttondown.email/hillelwayne/archive/edge-case-poisoning/)
@@ -17,7 +18,6 @@
 * [2023-11-28, 19:01:46](https://lobste.rs/s/mqpftj/birth_death_search_engine_optimization) - [The birth & death of search engine optimization](https://xeiaso.net/blog/birth-death-seo/)
 * [2023-11-28, 17:47:58](https://lobste.rs/s/5fhjyq/poll_next) - [poll_next](https://without.boats/blog/poll-next/)
 * [2023-11-28, 16:52:28](https://lobste.rs/s/capn8b/how_fast_is_aws_cloudtrail_investigating) - [How fast is AWS CloudTrail? Investigating CloudTrail delays using Athena](https://tracebit.com/blog/2023/11/how-fast-is-cloudtrail-today-investigating-cloudtrail-delays-using-athena/)
-* [2023-11-28, 15:46:24](https://lobste.rs/s/1pyaik/bubble_sort_archaeological_algorithmic) - [Bubble Sort: An Archaeological Algorithmic Analysis (2003)](https://users.cs.duke.edu/~ola/papers/bubble.pdf)
 * [2023-11-28, 15:35:18](https://lobste.rs/s/ewo3df/windows_nt_peeking_into_cradle) - [Windows NT: Peeking into the cradle](https://blogsystem5.substack.com/p/windows-nt-peeking-into-the-cradle)
 * [2023-11-28, 15:21:47](https://lobste.rs/s/r2spu6/announcing_general_availability_aws_sdk) - [Announcing general availability of the AWS SDK for Rust](https://aws.amazon.com/blogs/developer/announcing-general-availability-of-the-aws-sdk-for-rust/)
 * [2023-11-28, 13:52:33](https://lobste.rs/s/3yltn4/source_filtering_with_file_sets) - [Source filtering with file sets](https://www.tweag.io/blog/2023-11-28-file-sets/)
