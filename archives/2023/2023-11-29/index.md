@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 20:16:38](https://lobste.rs/s/orgjzy/10_weird_html_hacks_shaped_internet) - [10 Weird HTML Hacks That Shaped The Internet](https://tedium.co/2023/11/24/weird-html-hacks-history/)
 * [2023-11-29, 19:31:59](https://lobste.rs/s/j9bivl/llamafile_distribute_run_llms_with) - [llamafile: Distribute and run LLMs with a single file](https://github.com/mozilla-Ocho/llamafile)
 * [2023-11-29, 18:14:51](https://lobste.rs/s/xqzl1v/kon_bal_s_puzzle_page_quicktime_quandary) - [KON & BAL's Puzzle Page: QuickTime Quandary [1996?]](http://preserve.mactech.com/articles/develop/issue_27/puzzle.html)
 * [2023-11-29, 17:39:15](https://lobste.rs/s/gmzkjj/deep_dive_into_sending_with_librdkafka) - [A Deep Dive Into Sending With librdkafka](https://www.confluent.io/blog/how-to-send-messages-with-librdkafka/)
