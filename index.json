@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-29, 16:15:01",
+      "https://lobste.rs/s/sppsfx/touch_pwn_part_i"
+    ],
+    [
+      "A Touch of Pwn - Part I",
+      "https://blackwinghq.com/blog/posts/a-touch-of-pwn-part-i/"
+    ]
+  ],
+  [
+    [
       "2023-11-29, 15:35:50",
       "https://lobste.rs/s/ntn2yq/jaq_jq_clone_focussed_on_correctness"
     ],
@@ -227,16 +237,6 @@
     [
       "A Qmail example of dealing with unavoidable race conditions",
       "https://blog.plover.com/prog/erlang-race-condition-2.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-28, 04:37:24",
-      "https://lobste.rs/s/njfvjb/rustdesk_with_tailscale_on_arch_linux"
-    ],
-    [
-      "RustDesk with Tailscale on Arch Linux",
-      "https://nocoffei.com/?p=81"
     ]
   ],
   [
