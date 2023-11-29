@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-29, 10:01:58](https://lobste.rs/s/0fzgdf/evaluating_m3_pro_cpu_cores_general) - [Evaluating M3 Pro CPU cores: General performance](https://eclecticlight.co/2023/11/27/evaluating-m3-pro-cpu-cores-1-general-performance/)
 * [2023-11-29, 05:48:55](https://lobste.rs/s/gqmdqb/sethernet_modern_low_cost_10_100_ethernet) - [SEthernet: Modern, low-cost 10/100 Ethernet for the Macintosh SE and SE/30](https://github.com/rhalkyard/SEthernet)
 * [2023-11-29, 01:17:49](https://lobste.rs/s/wnxfix/accidental_fud_around_setup_py) - [Accidental FUD around setup.py](https://fosstodon.org/@brettcannon/111490796110675846)
 * [2023-11-29, 01:04:26](https://lobste.rs/s/yarieg/blender_cyberattack_november_2023) - [Blender Cyberattack November 2023](https://www.blender.org/news/cyberattack-november-2023/)
@@ -8,7 +9,6 @@
 * [2023-11-28, 20:41:28](https://lobste.rs/s/18tnex/sysaidmin_gpt_powered_sysadmin) - [sysaidmin: A GPT-powered sysadmin](https://github.com/skorokithakis/sysaidmin/)
 * [2023-11-28, 20:24:19](https://lobste.rs/s/lbgs5u/transistor_first_reported_as_little) - [Transistor first reported as “Little Brain Cell”](https://www.biodigitaljazz.net/blog/littlebraincell.html)
 * [2023-11-28, 19:01:46](https://lobste.rs/s/mqpftj/birth_death_search_engine_optimization) - [The birth & death of search engine optimization](https://xeiaso.net/blog/birth-death-seo/)
-* [2023-11-28, 18:01:59](https://lobste.rs/s/hbogeg/go_fact_zero_sized_field_at_rear_struct_has) - [Go Fact: Zero-sized Field at the Rear of a Struct Has Non-zero Size](https://i.hsfzxjy.site/zst-at-the-rear-of-go-struct/)
 * [2023-11-28, 17:47:58](https://lobste.rs/s/5fhjyq/poll_next) - [poll_next](https://without.boats/blog/poll-next/)
 * [2023-11-28, 16:52:28](https://lobste.rs/s/capn8b/how_fast_is_aws_cloudtrail_investigating) - [How fast is AWS CloudTrail? Investigating CloudTrail delays using Athena](https://tracebit.com/blog/2023/11/how-fast-is-cloudtrail-today-investigating-cloudtrail-delays-using-athena/)
 * [2023-11-28, 15:46:24](https://lobste.rs/s/1pyaik/bubble_sort_archaeological_algorithmic) - [Bubble Sort: An Archaeological Algorithmic Analysis (2003)](https://users.cs.duke.edu/~ola/papers/bubble.pdf)
