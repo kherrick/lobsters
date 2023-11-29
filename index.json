@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-29, 11:54:43",
+      "https://lobste.rs/s/qong8l/rest_peace_optane_speculative_branches"
+    ],
+    [
+      "Rest in Peace, Optane - Speculative Branches",
+      "https://specbranch.com/posts/rip-optane/"
+    ]
+  ],
+  [
+    [
       "2023-11-29, 11:01:09",
       "https://lobste.rs/s/agemff/using_answer_set_programming_solve"
     ],
@@ -41,12 +51,12 @@
   ],
   [
     [
-      "2023-11-29, 01:17:49",
-      "https://lobste.rs/s/wnxfix/accidental_fud_around_setup_py"
+      "2023-11-29, 01:04:26",
+      "https://lobste.rs/s/yarieg/blender_cyberattack_november_2023"
     ],
     [
-      "Accidental FUD around setup.py",
-      "https://fosstodon.org/@brettcannon/111490796110675846"
+      "Blender Cyberattack November 2023",
+      "https://www.blender.org/news/cyberattack-november-2023/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Prettier $20k bounty to rewrite in Rust was claimed",
       "https://prettier.io/blog/2023/11/27/20k-bounty-was-claimed"
-    ]
-  ],
-  [
-    [
-      "2023-11-27, 18:13:39",
-      "https://lobste.rs/s/7s6bxq/dependency_rejection"
-    ],
-    [
-      "Dependency rejection",
-      "https://amontalenti.com/2023/11/25/dependency-rejection"
     ]
   ],
   [
