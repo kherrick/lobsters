@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-29, 20:33:54",
+      "https://lobste.rs/s/m5notg/turbo_8_8_minutes"
+    ],
+    [
+      "Turbo 8 in 8 minutes",
+      "https://fly.io/ruby-dispatch/turbo-8-in-8-minutes/"
+    ]
+  ],
+  [
+    [
       "2023-11-29, 20:16:38",
       "https://lobste.rs/s/orgjzy/10_weird_html_hacks_shaped_internet"
     ],
@@ -217,16 +227,6 @@
     [
       "Windows NT: Peeking into the cradle",
       "https://blogsystem5.substack.com/p/windows-nt-peeking-into-the-cradle"
-    ]
-  ],
-  [
-    [
-      "2023-11-28, 15:21:47",
-      "https://lobste.rs/s/r2spu6/announcing_general_availability_aws_sdk"
-    ],
-    [
-      "Announcing general availability of the AWS SDK for Rust",
-      "https://aws.amazon.com/blogs/developer/announcing-general-availability-of-the-aws-sdk-for-rust/"
     ]
   ],
   [
