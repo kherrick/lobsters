@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-29, 05:48:55](https://lobste.rs/s/gqmdqb/sethernet_modern_low_cost_10_100_ethernet) - [SEthernet: Modern, low-cost 10/100 Ethernet for the Macintosh SE and SE/30](https://github.com/rhalkyard/SEthernet)
 * [2023-11-29, 01:17:49](https://lobste.rs/s/wnxfix/accidental_fud_around_setup_py) - [Accidental FUD around setup.py](https://fosstodon.org/@brettcannon/111490796110675846)
 * [2023-11-29, 01:04:26](https://lobste.rs/s/yarieg/blender_cyberattack_november_2023) - [Blender Cyberattack November 2023](https://www.blender.org/news/cyberattack-november-2023/)
 * [2023-11-28, 22:17:56](https://lobste.rs/s/e6lu2e/analyzing_monoprice_blackbird_hdcp_2_2_1_4) - [Analyzing the Monoprice Blackbird HDCP 2.2 to 1.4 Down Converter](https://tomverbeure.github.io/2023/11/26/Monoprice-Blackbird-4K-Pro-HDCP-Converter.html)
@@ -20,7 +21,6 @@
 * [2023-11-28, 04:37:24](https://lobste.rs/s/njfvjb/rustdesk_with_tailscale_on_arch_linux) - [RustDesk with Tailscale on Arch Linux](https://nocoffei.com/?p=81)
 * [2023-11-28, 00:33:30](https://lobste.rs/s/kvnmwv/curious_about_tools_fellow_developers) - [Curious about the tools fellow developers use to interact with PostgreSQL](https://lobste.rs/s/kvnmwv/curious_about_tools_fellow_developers)
 * [2023-11-27, 21:32:22](https://lobste.rs/s/ddyltb/god_help_us_let_s_try_understand_paper_on_ai) - [God Help Us, Let's Try To Understand The Paper On AI Monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)
-* [2023-11-27, 21:04:39](https://lobste.rs/s/8v3scb/friends_don_t_let_friends_make_certain) - [Friends don't let friends make certain types of data visualization](https://github.com/cxli233/FriendsDontLetFriends)
 * [2023-11-27, 18:45:13](https://lobste.rs/s/pfuon7/prettier_20k_bounty_rewrite_rust_was) - [Prettier $20k bounty to rewrite in Rust was claimed](https://prettier.io/blog/2023/11/27/20k-bounty-was-claimed)
 * [2023-11-27, 18:13:39](https://lobste.rs/s/7s6bxq/dependency_rejection) - [Dependency rejection](https://amontalenti.com/2023/11/25/dependency-rejection)
 * [2023-11-27, 16:59:50](https://lobste.rs/s/1vm0mu/ready_for_embedded_pipewire_1_0_released) - [Ready for embedded: PipeWire 1.0 released](https://www.collabora.com/news-and-blog/news-and-events/ready-for-embedded-pipewire-1-0-released.html)
