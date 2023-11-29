@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 18:14:51](https://lobste.rs/s/xqzl1v/kon_bal_s_puzzle_page_quicktime_quandary) - [KON & BAL's Puzzle Page: QuickTime Quandary [1996?]](http://preserve.mactech.com/articles/develop/issue_27/puzzle.html)
 * [2023-11-29, 17:39:15](https://lobste.rs/s/gmzkjj/deep_dive_into_sending_with_librdkafka) - [A Deep Dive Into Sending With librdkafka](https://www.confluent.io/blog/how-to-send-messages-with-librdkafka/)
 * [2023-11-29, 16:23:14](https://lobste.rs/s/yqj3ae/my_500m_mars_rover_mistake_failure_story) - [My $500M Mars Rover Mistake: A Failure Story](https://www.chrislewicki.com/articles/failurestory)
 * [2023-11-29, 16:15:01](https://lobste.rs/s/sppsfx/touch_pwn_part_i) - [A Touch of Pwn - Part I](https://blackwinghq.com/blog/posts/a-touch-of-pwn-part-i/)

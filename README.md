@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-29, 18:14:51](https://lobste.rs/s/xqzl1v/kon_bal_s_puzzle_page_quicktime_quandary) - [KON & BAL's Puzzle Page: QuickTime Quandary [1996?]](http://preserve.mactech.com/articles/develop/issue_27/puzzle.html)
 * [2023-11-29, 17:39:15](https://lobste.rs/s/gmzkjj/deep_dive_into_sending_with_librdkafka) - [A Deep Dive Into Sending With librdkafka](https://www.confluent.io/blog/how-to-send-messages-with-librdkafka/)
 * [2023-11-29, 16:23:14](https://lobste.rs/s/yqj3ae/my_500m_mars_rover_mistake_failure_story) - [My $500M Mars Rover Mistake: A Failure Story](https://www.chrislewicki.com/articles/failurestory)
 * [2023-11-29, 16:15:01](https://lobste.rs/s/sppsfx/touch_pwn_part_i) - [A Touch of Pwn - Part I](https://blackwinghq.com/blog/posts/a-touch-of-pwn-part-i/)
@@ -16,7 +17,6 @@
 * [2023-11-29, 01:04:26](https://lobste.rs/s/yarieg/blender_cyberattack_november_2023) - [Blender Cyberattack November 2023](https://www.blender.org/news/cyberattack-november-2023/)
 * [2023-11-28, 22:17:56](https://lobste.rs/s/e6lu2e/analyzing_monoprice_blackbird_hdcp_2_2_1_4) - [Analyzing the Monoprice Blackbird HDCP 2.2 to 1.4 Down Converter](https://tomverbeure.github.io/2023/11/26/Monoprice-Blackbird-4K-Pro-HDCP-Converter.html)
 * [2023-11-28, 21:24:31](https://lobste.rs/s/5tutzn/what_s_up_python_new_args_syntax) - [What's up Python? New args syntax, subinterpreters FastAPI and cuda pandas…](https://www.bitecode.dev/p/whats-up-python-new-args-syntax-subinterpreters)
-* [2023-11-28, 20:41:28](https://lobste.rs/s/18tnex/sysaidmin_gpt_powered_sysadmin) - [sysaidmin: A GPT-powered sysadmin](https://github.com/skorokithakis/sysaidmin/)
 * [2023-11-28, 20:24:19](https://lobste.rs/s/lbgs5u/transistor_first_reported_as_little) - [Transistor first reported as “Little Brain Cell”](https://www.biodigitaljazz.net/blog/littlebraincell.html)
 * [2023-11-28, 19:01:46](https://lobste.rs/s/mqpftj/birth_death_search_engine_optimization) - [The birth & death of search engine optimization](https://xeiaso.net/blog/birth-death-seo/)
 * [2023-11-28, 17:47:58](https://lobste.rs/s/5fhjyq/poll_next) - [poll_next](https://without.boats/blog/poll-next/)
