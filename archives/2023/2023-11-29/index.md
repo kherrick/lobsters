@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 11:54:43](https://lobste.rs/s/qong8l/rest_peace_optane_speculative_branches) - [Rest in Peace, Optane - Speculative Branches](https://specbranch.com/posts/rip-optane/)
 * [2023-11-29, 11:01:09](https://lobste.rs/s/agemff/using_answer_set_programming_solve) - [Using Answer Set Programming to solve puzzle Haunted](https://rdivyanshu.github.io/haunted.html)
 * [2023-11-29, 10:49:27](https://lobste.rs/s/ae2sck/open_source_email_pioneer_roundcube) - [Open source email pioneer Roundcube joins the Nextcloud family](https://nextcloud.com/blog/open-source-email-pioneer-roundcube-comes-aboard-nextcloud/)
 * [2023-11-29, 10:01:58](https://lobste.rs/s/0fzgdf/evaluating_m3_pro_cpu_cores_general) - [Evaluating M3 Pro CPU cores: General performance](https://eclecticlight.co/2023/11/27/evaluating-m3-pro-cpu-cores-1-general-performance/)
