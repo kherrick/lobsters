@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-11-29, 06:36:51](https://lobste.rs/s/hzm65o/real_vs_fake_trends) - [Real vs. Fake Trends](https://garrit.xyz/posts/2023-11-29-real-vs.-fake-trends)
 * [2023-11-29, 05:48:55](https://lobste.rs/s/gqmdqb/sethernet_modern_low_cost_10_100_ethernet) - [SEthernet: Modern, low-cost 10/100 Ethernet for the Macintosh SE and SE/30](https://github.com/rhalkyard/SEthernet)
 * [2023-11-29, 01:17:49](https://lobste.rs/s/wnxfix/accidental_fud_around_setup_py) - [Accidental FUD around setup.py](https://fosstodon.org/@brettcannon/111490796110675846)
 * [2023-11-29, 01:04:26](https://lobste.rs/s/yarieg/blender_cyberattack_november_2023) - [Blender Cyberattack November 2023](https://www.blender.org/news/cyberattack-november-2023/)
@@ -24,6 +23,7 @@
 * [2023-11-27, 21:32:22](https://lobste.rs/s/ddyltb/god_help_us_let_s_try_understand_paper_on_ai) - [God Help Us, Let's Try To Understand The Paper On AI Monosemanticity](https://www.astralcodexten.com/p/god-help-us-lets-try-to-understand)
 * [2023-11-27, 18:45:13](https://lobste.rs/s/pfuon7/prettier_20k_bounty_rewrite_rust_was) - [Prettier $20k bounty to rewrite in Rust was claimed](https://prettier.io/blog/2023/11/27/20k-bounty-was-claimed)
 * [2023-11-27, 18:13:39](https://lobste.rs/s/7s6bxq/dependency_rejection) - [Dependency rejection](https://amontalenti.com/2023/11/25/dependency-rejection)
+* [2023-11-27, 16:59:50](https://lobste.rs/s/1vm0mu/ready_for_embedded_pipewire_1_0_released) - [Ready for embedded: PipeWire 1.0 released](https://www.collabora.com/news-and-blog/news-and-events/ready-for-embedded-pipewire-1-0-released.html)
 * [2023-11-27, 16:57:41](https://lobste.rs/s/vzm2wx/friendship_ended_with_obsidian_latex_now) - [Friendship Ended with Obsidian/LaTeX, Now Typst is My Best Friend](https://ersei.net/en/blog/typst)
 
 ## [Archives](archives/index.md)
