@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-29, 19:31:59](https://lobste.rs/s/j9bivl/llamafile_distribute_run_llms_with) - [llamafile: Distribute and run LLMs with a single file](https://github.com/mozilla-Ocho/llamafile)
 * [2023-11-29, 18:14:51](https://lobste.rs/s/xqzl1v/kon_bal_s_puzzle_page_quicktime_quandary) - [KON & BAL's Puzzle Page: QuickTime Quandary [1996?]](http://preserve.mactech.com/articles/develop/issue_27/puzzle.html)
 * [2023-11-29, 17:39:15](https://lobste.rs/s/gmzkjj/deep_dive_into_sending_with_librdkafka) - [A Deep Dive Into Sending With librdkafka](https://www.confluent.io/blog/how-to-send-messages-with-librdkafka/)
 * [2023-11-29, 16:23:14](https://lobste.rs/s/yqj3ae/my_500m_mars_rover_mistake_failure_story) - [My $500M Mars Rover Mistake: A Failure Story](https://www.chrislewicki.com/articles/failurestory)
@@ -24,7 +25,6 @@
 * [2023-11-28, 15:21:47](https://lobste.rs/s/r2spu6/announcing_general_availability_aws_sdk) - [Announcing general availability of the AWS SDK for Rust](https://aws.amazon.com/blogs/developer/announcing-general-availability-of-the-aws-sdk-for-rust/)
 * [2023-11-28, 13:52:33](https://lobste.rs/s/3yltn4/source_filtering_with_file_sets) - [Source filtering with file sets](https://www.tweag.io/blog/2023-11-28-file-sets/)
 * [2023-11-28, 12:25:55](https://lobste.rs/s/phyo1a/pesky_little_scripts) - [Pesky little scripts](https://rednafi.com/misc/pesky_little_scripts/)
-* [2023-11-27, 16:57:41](https://lobste.rs/s/vzm2wx/friendship_ended_with_obsidian_latex_now) - [Friendship Ended with Obsidian/LaTeX, Now Typst is My Best Friend](https://ersei.net/en/blog/typst)
 
 ## [Archives](archives/index.md)
 
