@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 23:21:09](https://lobste.rs/s/bqxzru/building_your_own_bookmark_launcher) - [Building your own bookmark launcher](https://xenodium.com/building-your-own-bookmark-launcher)
 * [2023-11-29, 21:57:12](https://lobste.rs/s/al2gox/infinite_mac) - [Infinite Mac](https://infinitemac.org/)
 * [2023-11-29, 21:35:04](https://lobste.rs/s/xcgvgk/compiler_error_messages_considered) - [Compiler Error Messages Considered Unhelpful: Text-Based Programming Error Message Research (2019)](https://www.brettbecker.com/wp-content/uploads/2019/12/becker2019compiler.pdf)
 * [2023-11-29, 20:35:41](https://lobste.rs/s/8cdhtt/errtrace_alternative_stack_traces_for) - [errtrace: An alternative to stack traces for your Go errors](https://github.com/bracesdev/errtrace)
