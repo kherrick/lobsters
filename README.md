@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-29, 15:14:44](https://lobste.rs/s/xawt3e/reexamining_fizzbuzz_step_by_step) - [Reexamining FizzBuzz Step by Step – and allowing for more varied rules](https://pragtob.wordpress.com/2023/11/28/reexamining-fizzbuzz-step-by-step-and-allowing-for-more-varied-rules/)
 * [2023-11-29, 14:21:31](https://lobste.rs/s/bx9ss7/diminishing_half_life_knowledge) - [The diminishing half-life of knowledge](https://rednafi.com/misc/diminishing_half_life_of_knowledge/)
 * [2023-11-29, 13:50:51](https://lobste.rs/s/i23rvs/edge_case_poisoning_2020) - [Edge Case Poisoning (2020)](https://buttondown.email/hillelwayne/archive/edge-case-poisoning/)
 * [2023-11-29, 12:48:48](https://lobste.rs/s/hjxd80/rust_std_fs_slower_than_python_no_it_s) - [Rust std fs slower than Python!? No, it's hardware](https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/)
@@ -20,7 +21,6 @@
 * [2023-11-28, 15:35:18](https://lobste.rs/s/ewo3df/windows_nt_peeking_into_cradle) - [Windows NT: Peeking into the cradle](https://blogsystem5.substack.com/p/windows-nt-peeking-into-the-cradle)
 * [2023-11-28, 15:21:47](https://lobste.rs/s/r2spu6/announcing_general_availability_aws_sdk) - [Announcing general availability of the AWS SDK for Rust](https://aws.amazon.com/blogs/developer/announcing-general-availability-of-the-aws-sdk-for-rust/)
 * [2023-11-28, 13:52:33](https://lobste.rs/s/3yltn4/source_filtering_with_file_sets) - [Source filtering with file sets](https://www.tweag.io/blog/2023-11-28-file-sets/)
-* [2023-11-28, 12:44:46](https://lobste.rs/s/re877h/red_hat_enterprise_linux_10_plans_for) - [Red Hat Enterprise Linux 10 plans for Wayland and Xorg server](https://www.redhat.com/en/blog/rhel-10-plans-wayland-and-xorg-server)
 * [2023-11-28, 12:25:55](https://lobste.rs/s/phyo1a/pesky_little_scripts) - [Pesky little scripts](https://rednafi.com/misc/pesky_little_scripts/)
 * [2023-11-28, 09:04:20](https://lobste.rs/s/tlv58d/qmail_example_dealing_with_unavoidable) - [A Qmail example of dealing with unavoidable race conditions](https://blog.plover.com/prog/erlang-race-condition-2.html)
 * [2023-11-28, 04:37:24](https://lobste.rs/s/njfvjb/rustdesk_with_tailscale_on_arch_linux) - [RustDesk with Tailscale on Arch Linux](https://nocoffei.com/?p=81)
