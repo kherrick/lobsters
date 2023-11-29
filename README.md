@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-29, 20:35:41](https://lobste.rs/s/8cdhtt/errtrace_alternative_stack_traces_for) - [errtrace: An alternative to stack traces for your Go errors](https://github.com/bracesdev/errtrace)
 * [2023-11-29, 20:33:54](https://lobste.rs/s/m5notg/turbo_8_8_minutes) - [Turbo 8 in 8 minutes](https://fly.io/ruby-dispatch/turbo-8-in-8-minutes/)
 * [2023-11-29, 20:16:38](https://lobste.rs/s/orgjzy/10_weird_html_hacks_shaped_internet) - [10 Weird HTML Hacks That Shaped The Internet](https://tedium.co/2023/11/24/weird-html-hacks-history/)
 * [2023-11-29, 19:31:59](https://lobste.rs/s/j9bivl/llamafile_distribute_run_llms_with) - [llamafile: Distribute and run LLMs with a single file](https://github.com/mozilla-Ocho/llamafile)
@@ -12,7 +13,7 @@
 * [2023-11-29, 14:21:31](https://lobste.rs/s/bx9ss7/diminishing_half_life_knowledge) - [The diminishing half-life of knowledge](https://rednafi.com/misc/diminishing_half_life_of_knowledge/)
 * [2023-11-29, 13:50:51](https://lobste.rs/s/i23rvs/edge_case_poisoning_2020) - [Edge Case Poisoning (2020)](https://buttondown.email/hillelwayne/archive/edge-case-poisoning/)
 * [2023-11-29, 12:48:48](https://lobste.rs/s/hjxd80/rust_std_fs_slower_than_python_no_it_s) - [Rust std fs slower than Python!? No, it's hardware](https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/)
-* [2023-11-29, 11:54:43](https://lobste.rs/s/qong8l/rest_peace_optane_speculative_branches) - [Rest in Peace, Optane - Speculative Branches (2022)](https://specbranch.com/posts/rip-optane/)
+* [2023-11-29, 11:54:43](https://lobste.rs/s/qong8l/rest_peace_optane_2022) - [Rest in Peace, Optane (2022)](https://specbranch.com/posts/rip-optane/)
 * [2023-11-29, 11:01:09](https://lobste.rs/s/agemff/using_answer_set_programming_solve) - [Using Answer Set Programming to solve puzzle Haunted](https://rdivyanshu.github.io/haunted.html)
 * [2023-11-29, 10:49:27](https://lobste.rs/s/ae2sck/open_source_email_pioneer_roundcube) - [Open source email pioneer Roundcube joins the Nextcloud family](https://nextcloud.com/blog/open-source-email-pioneer-roundcube-comes-aboard-nextcloud/)
 * [2023-11-29, 10:01:58](https://lobste.rs/s/0fzgdf/evaluating_m3_pro_cpu_cores_general) - [Evaluating M3 Pro CPU cores: General performance](https://eclecticlight.co/2023/11/27/evaluating-m3-pro-cpu-cores-1-general-performance/)
@@ -23,7 +24,6 @@
 * [2023-11-28, 19:01:46](https://lobste.rs/s/mqpftj/birth_death_search_engine_optimization) - [The birth & death of search engine optimization](https://xeiaso.net/blog/birth-death-seo/)
 * [2023-11-28, 17:47:58](https://lobste.rs/s/5fhjyq/poll_next) - [poll_next](https://without.boats/blog/poll-next/)
 * [2023-11-28, 15:35:18](https://lobste.rs/s/ewo3df/windows_nt_peeking_into_cradle) - [Windows NT: Peeking into the cradle](https://blogsystem5.substack.com/p/windows-nt-peeking-into-the-cradle)
-* [2023-11-28, 13:52:33](https://lobste.rs/s/3yltn4/source_filtering_with_file_sets) - [Source filtering with file sets](https://www.tweag.io/blog/2023-11-28-file-sets/)
 * [2023-11-28, 12:25:55](https://lobste.rs/s/phyo1a/pesky_little_scripts) - [Pesky little scripts](https://rednafi.com/misc/pesky_little_scripts/)
 
 ## [Archives](archives/index.md)
