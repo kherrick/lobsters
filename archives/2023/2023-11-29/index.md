@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-29](index.md)
 
+* [2023-11-29, 13:50:51](https://lobste.rs/s/i23rvs/edge_case_poisoning_2020) - [Edge Case Poisoning (2020)](https://buttondown.email/hillelwayne/archive/edge-case-poisoning/)
 * [2023-11-29, 12:48:48](https://lobste.rs/s/hjxd80/rust_std_fs_slower_than_python_no_it_s) - [Rust std fs slower than Python!? No, it's hardware](https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/)
 * [2023-11-29, 11:54:43](https://lobste.rs/s/qong8l/rest_peace_optane_speculative_branches) - [Rest in Peace, Optane - Speculative Branches](https://specbranch.com/posts/rip-optane/)
 * [2023-11-29, 11:01:09](https://lobste.rs/s/agemff/using_answer_set_programming_solve) - [Using Answer Set Programming to solve puzzle Haunted](https://rdivyanshu.github.io/haunted.html)
