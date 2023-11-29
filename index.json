@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-29, 21:57:12",
+      "https://lobste.rs/s/al2gox/infinite_mac"
+    ],
+    [
+      "Infinite Mac",
+      "https://infinitemac.org/"
+    ]
+  ],
+  [
+    [
       "2023-11-29, 21:35:04",
       "https://lobste.rs/s/xcgvgk/compiler_error_messages_considered"
     ],
@@ -17,16 +27,6 @@
     [
       "errtrace: An alternative to stack traces for your Go errors",
       "https://github.com/bracesdev/errtrace"
-    ]
-  ],
-  [
-    [
-      "2023-11-29, 20:33:54",
-      "https://lobste.rs/s/m5notg/turbo_8_8_minutes"
-    ],
-    [
-      "Turbo 8 in 8 minutes",
-      "https://fly.io/ruby-dispatch/turbo-8-in-8-minutes/"
     ]
   ],
   [
