@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-29, 13:50:51",
+      "https://lobste.rs/s/i23rvs/edge_case_poisoning_2020"
+    ],
+    [
+      "Edge Case Poisoning (2020)",
+      "https://buttondown.email/hillelwayne/archive/edge-case-poisoning/"
+    ]
+  ],
+  [
+    [
       "2023-11-29, 12:48:48",
       "https://lobste.rs/s/hjxd80/rust_std_fs_slower_than_python_no_it_s"
     ],
@@ -15,7 +25,7 @@
       "https://lobste.rs/s/qong8l/rest_peace_optane_speculative_branches"
     ],
     [
-      "Rest in Peace, Optane - Speculative Branches",
+      "Rest in Peace, Optane - Speculative Branches (2022)",
       "https://specbranch.com/posts/rip-optane/"
     ]
   ],
@@ -227,16 +237,6 @@
     [
       "RustDesk with Tailscale on Arch Linux",
       "https://nocoffei.com/?p=81"
-    ]
-  ],
-  [
-    [
-      "2023-11-27, 18:45:13",
-      "https://lobste.rs/s/pfuon7/prettier_20k_bounty_rewrite_rust_was"
-    ],
-    [
-      "Prettier $20k bounty to rewrite in Rust was claimed",
-      "https://prettier.io/blog/2023/11/27/20k-bounty-was-claimed"
     ]
   ],
   [
