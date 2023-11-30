@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-30](index.md)
 
+* [2023-11-30, 22:10:54](https://lobste.rs/s/mybp8o/code_is_run_more_than_read) - [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
 * [2023-11-30, 21:44:37](https://lobste.rs/s/bupkvi/pelican_4_9_classless_simple_theme_with) - [Pelican 4.9: classless Simple theme with semantic HTML](https://www.paulox.net/2023/11/30/pelican-4.9-classless-simple-theme/)
 * [2023-11-30, 20:50:23](https://lobste.rs/s/rhyxzz/bfcoq_brainfuck_compiler_coq) - [bfcoq: Brainfuck compiler in Coq](https://github.com/thaliaarchi/bfcoq)
 * [2023-11-30, 19:44:13](https://lobste.rs/s/bhcdqn/how_pgroll_works_under_hood) - [How pgroll works under the hood](https://xata.io/blog/pgroll-internals)

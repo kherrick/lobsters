@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-30, 22:10:54](https://lobste.rs/s/mybp8o/code_is_run_more_than_read) - [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
 * [2023-11-30, 21:44:37](https://lobste.rs/s/bupkvi/pelican_4_9_classless_simple_theme_with) - [Pelican 4.9: classless Simple theme with semantic HTML](https://www.paulox.net/2023/11/30/pelican-4.9-classless-simple-theme/)
 * [2023-11-30, 20:50:23](https://lobste.rs/s/rhyxzz/bfcoq_brainfuck_compiler_coq) - [bfcoq: Brainfuck compiler in Coq](https://github.com/thaliaarchi/bfcoq)
 * [2023-11-30, 19:14:23](https://lobste.rs/s/demyzs/building_interactive_web_pages_with) - [Building interactive web pages with Guile Hoot](https://spritely.institute/news/building-interactive-web-pages-with-guile-hoot.html)
@@ -23,7 +24,6 @@
 * [2023-11-29, 20:16:38](https://lobste.rs/s/orgjzy/10_weird_html_hacks_shaped_internet) - [10 Weird HTML Hacks That Shaped The Internet](https://tedium.co/2023/11/24/weird-html-hacks-history/)
 * [2023-11-29, 16:23:14](https://lobste.rs/s/yqj3ae/my_500m_mars_rover_mistake_failure_story) - [My $500M Mars Rover Mistake: A Failure Story](https://www.chrislewicki.com/articles/failurestory)
 * [2023-11-29, 15:35:50](https://lobste.rs/s/ntn2yq/jaq_jq_clone_focussed_on_correctness) - [jaq: A jq clone focussed on correctness, speed, and simplicity](https://github.com/01mf02/jaq)
-* [2023-11-29, 14:21:31](https://lobste.rs/s/bx9ss7/diminishing_half_life_knowledge) - [The diminishing half-life of knowledge](https://rednafi.com/misc/diminishing_half_life_of_knowledge/)
 * [2023-11-29, 12:48:48](https://lobste.rs/s/hjxd80/rust_std_fs_slower_than_python_no_it_s) - [Rust std fs slower than Python!? No, it's hardware](https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/)
 
 ## [Archives](archives/index.md)
