@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-30, 17:28:56](https://lobste.rs/s/qu8euu/inside_intel_386_processor_die_clock) - [Inside the Intel 386 processor die: the clock circuit](http://www.righto.com/2023/11/intel-386-clock-circuit.html)
 * [2023-11-30, 16:08:33](https://lobste.rs/s/biltpm/libcluster_postgres_postgres_strategy) - [libcluster_postgres: Postgres strategy for libcluster](https://github.com/supabase/libcluster_postgres)
 * [2023-11-30, 15:35:42](https://lobste.rs/s/3vbpqo/game_trees_0_94_released) - [Game of Trees 0.94 released](https://www.gameoftrees.org/releases/CHANGES)
 * [2023-11-30, 15:31:15](https://lobste.rs/s/peiqb2/unleashing_pypi_support_pixi_package) - [Unleashing PyPI support in the pixi package manager](https://prefix.dev/blog/pypi_support_in_pixi)
@@ -19,7 +20,6 @@
 * [2023-11-29, 21:57:12](https://lobste.rs/s/al2gox/infinite_mac) - [Infinite Mac](https://infinitemac.org/)
 * [2023-11-29, 20:35:41](https://lobste.rs/s/8cdhtt/errtrace_alternative_stack_traces_for) - [errtrace: An alternative to stack traces for your Go errors](https://github.com/bracesdev/errtrace)
 * [2023-11-29, 20:16:38](https://lobste.rs/s/orgjzy/10_weird_html_hacks_shaped_internet) - [10 Weird HTML Hacks That Shaped The Internet](https://tedium.co/2023/11/24/weird-html-hacks-history/)
-* [2023-11-29, 18:14:51](https://lobste.rs/s/xqzl1v/kon_bal_s_puzzle_page_quicktime_quandary) - [KON & BAL's Puzzle Page: QuickTime Quandary [1996?]](http://preserve.mactech.com/articles/develop/issue_27/puzzle.html)
 * [2023-11-29, 16:23:14](https://lobste.rs/s/yqj3ae/my_500m_mars_rover_mistake_failure_story) - [My $500M Mars Rover Mistake: A Failure Story](https://www.chrislewicki.com/articles/failurestory)
 * [2023-11-29, 15:35:50](https://lobste.rs/s/ntn2yq/jaq_jq_clone_focussed_on_correctness) - [jaq: A jq clone focussed on correctness, speed, and simplicity](https://github.com/01mf02/jaq)
 * [2023-11-29, 14:21:31](https://lobste.rs/s/bx9ss7/diminishing_half_life_knowledge) - [The diminishing half-life of knowledge](https://rednafi.com/misc/diminishing_half_life_of_knowledge/)
