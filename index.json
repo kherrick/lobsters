@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-30, 02:55:06",
+      "https://lobste.rs/s/q26ap9/nixos_nixpkgs_23_11"
+    ],
+    [
+      "NixOS/nixpkgs 23.11",
+      "https://github.com/NixOS/nixpkgs/tree/23.11"
+    ]
+  ],
+  [
+    [
       "2023-11-30, 02:51:25",
       "https://lobste.rs/s/piyykx/browsing_eastern_side_personal_web"
     ],
@@ -27,16 +37,6 @@
     [
       "On the same platform directly opposite?",
       "https://stuebinm.eu/posts/am-selben-bahnsteig-gegen%C3%BCber.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-30, 00:00:11",
-      "https://lobste.rs/s/eoltwv/scalable_extraction_training_data_from"
-    ],
-    [
-      "Scalable Extraction of Training Data from (Production) Language Models",
-      "https://arxiv.org/abs/2311.17035"
     ]
   ],
   [
