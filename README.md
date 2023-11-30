@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-30, 16:08:33](https://lobste.rs/s/biltpm/libcluster_postgres_postgres_strategy) - [libcluster_postgres: Postgres strategy for libcluster](https://github.com/supabase/libcluster_postgres)
 * [2023-11-30, 15:35:42](https://lobste.rs/s/3vbpqo/game_trees_0_94_released) - [Game of Trees 0.94 released](https://www.gameoftrees.org/releases/CHANGES)
 * [2023-11-30, 15:31:15](https://lobste.rs/s/peiqb2/unleashing_pypi_support_pixi_package) - [Unleashing PyPI support in the pixi package manager](https://prefix.dev/blog/pypi_support_in_pixi)
 * [2023-11-30, 15:29:18](https://lobste.rs/s/crtnqb/using_polars_pandas_world) - [Using Polars in a Pandas world](https://pythonspeed.com/articles/polars-pandas-interopability/)
@@ -24,7 +25,6 @@
 * [2023-11-29, 14:21:31](https://lobste.rs/s/bx9ss7/diminishing_half_life_knowledge) - [The diminishing half-life of knowledge](https://rednafi.com/misc/diminishing_half_life_of_knowledge/)
 * [2023-11-29, 13:50:51](https://lobste.rs/s/i23rvs/edge_case_poisoning_2020) - [Edge Case Poisoning (2020)](https://buttondown.email/hillelwayne/archive/edge-case-poisoning/)
 * [2023-11-29, 12:48:48](https://lobste.rs/s/hjxd80/rust_std_fs_slower_than_python_no_it_s) - [Rust std fs slower than Python!? No, it's hardware](https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/)
-* [2023-11-28, 19:01:46](https://lobste.rs/s/mqpftj/birth_death_search_engine_optimization) - [The birth & death of search engine optimization](https://xeiaso.net/blog/birth-death-seo/)
 
 ## [Archives](archives/index.md)
 
