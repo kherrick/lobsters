@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-11-30, 19:20:45](https://lobste.rs/s/omuvx4/guile_hoot_v0_2_0_released) - [Guile Hoot v0.2.0 released](https://spritely.institute/news/guile-hoot-v020-released.html)
+* [2023-11-30, 19:44:13](https://lobste.rs/s/bhcdqn/how_pgroll_works_under_hood) - [How pgroll works under the hood](https://xata.io/blog/pgroll-internals)
 * [2023-11-30, 19:14:23](https://lobste.rs/s/demyzs/building_interactive_web_pages_with) - [Building interactive web pages with Guile Hoot](https://spritely.institute/news/building-interactive-web-pages-with-guile-hoot.html)
 * [2023-11-30, 18:20:18](https://lobste.rs/s/wryzqe/another_look_at_bcachefs_performance_on) - [Another Look At The Bcachefs Performance on Linux 6.7](https://www.phoronix.com/review/bcachefs-benchmarks-linux67)
 * [2023-11-30, 18:08:03](https://lobste.rs/s/9ksmfu/integer_overflow_arithmetic_safety_c) - [Integer overflow and arithmetic safety in C++](https://orodu.net/2023/11/29/overflow.html)
