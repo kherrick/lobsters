@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-30](index.md)
 
+* [2023-11-30, 06:14:04](https://lobste.rs/s/4xxkbs/linear_matching_javascript_regular) - [Linear Matching of JavaScript Regular Expressions](https://arxiv.org/abs/2311.17620)
 * [2023-11-30, 04:31:22](https://lobste.rs/s/p6oek6/gdlog_gpu_accelerated_deductive_engine) - [GDlog: A GPU-Accelerated Deductive Engine](https://arxiv.org/pdf/2311.02206.pdf)
 * [2023-11-30, 02:55:06](https://lobste.rs/s/q26ap9/nixos_nixpkgs_23_11) - [NixOS/nixpkgs 23.11](https://github.com/NixOS/nixpkgs/tree/23.11)
 * [2023-11-30, 02:51:25](https://lobste.rs/s/piyykx/browsing_eastern_side_personal_web) - [Browsing the Eastern Side of the Personal Web](https://www.bikobatanari.art/posts/2023/east-west-website-culture)
