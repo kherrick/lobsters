@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-11-30, 00:08:06",
+      "https://lobste.rs/s/fooexk/on_same_platform_directly_opposite"
+    ],
+    [
+      "On the same platform directly opposite?",
+      "https://stuebinm.eu/posts/am-selben-bahnsteig-gegen%C3%BCber.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-30, 00:00:11",
+      "https://lobste.rs/s/eoltwv/scalable_extraction_training_data_from"
+    ],
+    [
+      "Scalable Extraction of Training Data from (Production) Language Models",
+      "https://arxiv.org/abs/2311.17035"
+    ]
+  ],
+  [
+    [
       "2023-11-29, 23:28:17",
       "https://lobste.rs/s/fywoys/introducing_llamafile"
     ],
@@ -61,32 +81,12 @@
   ],
   [
     [
-      "2023-11-29, 19:31:59",
-      "https://lobste.rs/s/j9bivl/llamafile_distribute_run_llms_with"
-    ],
-    [
-      "llamafile: Distribute and run LLMs with a single file",
-      "https://github.com/mozilla-Ocho/llamafile"
-    ]
-  ],
-  [
-    [
       "2023-11-29, 18:14:51",
       "https://lobste.rs/s/xqzl1v/kon_bal_s_puzzle_page_quicktime_quandary"
     ],
     [
       "KON & BAL's Puzzle Page: QuickTime Quandary [1996?]",
       "http://preserve.mactech.com/articles/develop/issue_27/puzzle.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-29, 17:39:15",
-      "https://lobste.rs/s/gmzkjj/deep_dive_into_sending_with_librdkafka"
-    ],
-    [
-      "A Deep Dive Into Sending With librdkafka",
-      "https://www.confluent.io/blog/how-to-send-messages-with-librdkafka/"
     ]
   ],
   [
