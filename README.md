@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-30, 15:35:42](https://lobste.rs/s/3vbpqo/game_trees_0_94_released) - [Game of Trees 0.94 released](https://www.gameoftrees.org/releases/CHANGES)
+* [2023-11-30, 15:31:15](https://lobste.rs/s/peiqb2/unleashing_pypi_support_pixi_package) - [Unleashing PyPI support in the pixi package manager](https://prefix.dev/blog/pypi_support_in_pixi)
+* [2023-11-30, 15:29:18](https://lobste.rs/s/crtnqb/using_polars_pandas_world) - [Using Polars in a Pandas world](https://pythonspeed.com/articles/polars-pandas-interopability/)
 * [2023-11-30, 15:24:46](https://lobste.rs/s/66kj5p/three_problems_pinning) - [Three problems of pinning](https://without.boats/blog/three-problems-of-pinning/)
 * [2023-11-30, 14:52:51](https://lobste.rs/s/jcfsqj/open_source_supply_chain_security_at) - [Open Source Supply Chain Security at Google](https://research.swtch.com/acmscored)
 * [2023-11-30, 13:15:26](https://lobste.rs/s/vwuegy/why_you_can_t_divide_by_zero) - [Why you can't divide by zero](https://garrit.xyz/posts/2023-11-30-why-you-can't-divide-by-zero)
@@ -10,7 +13,6 @@
 * [2023-11-30, 02:55:06](https://lobste.rs/s/q26ap9/nixos_nixpkgs_23_11) - [NixOS/nixpkgs 23.11](https://github.com/NixOS/nixpkgs/tree/23.11)
 * [2023-11-30, 02:51:25](https://lobste.rs/s/piyykx/browsing_eastern_side_personal_web) - [Browsing the Eastern Side of the Personal Web](https://www.bikobatanari.art/posts/2023/east-west-website-culture)
 * [2023-11-30, 02:06:56](https://lobste.rs/s/3nqxpa/nonblocking_cycle_detection_iterator) - [Nonblocking cycle detection and iterator invalidation](https://outerproduct.net/trivial/2023-11-29_nonblocking-cycles.html)
-* [2023-11-30, 00:08:06](https://lobste.rs/s/fooexk/on_same_platform_directly_opposite) - [On the same platform directly opposite?](https://stuebinm.eu/posts/am-selben-bahnsteig-gegen%C3%BCber.html)
 * [2023-11-29, 23:28:17](https://lobste.rs/s/fywoys/introducing_llamafile) - [Introducing llamafile](https://hacks.mozilla.org/2023/11/introducing-llamafile/)
 * [2023-11-29, 23:21:09](https://lobste.rs/s/bqxzru/building_your_own_bookmark_launcher) - [Building your own bookmark launcher](https://xenodium.com/building-your-own-bookmark-launcher)
 * [2023-11-29, 21:57:12](https://lobste.rs/s/al2gox/infinite_mac) - [Infinite Mac](https://infinitemac.org/)
@@ -22,8 +24,6 @@
 * [2023-11-29, 14:21:31](https://lobste.rs/s/bx9ss7/diminishing_half_life_knowledge) - [The diminishing half-life of knowledge](https://rednafi.com/misc/diminishing_half_life_of_knowledge/)
 * [2023-11-29, 13:50:51](https://lobste.rs/s/i23rvs/edge_case_poisoning_2020) - [Edge Case Poisoning (2020)](https://buttondown.email/hillelwayne/archive/edge-case-poisoning/)
 * [2023-11-29, 12:48:48](https://lobste.rs/s/hjxd80/rust_std_fs_slower_than_python_no_it_s) - [Rust std fs slower than Python!? No, it's hardware](https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/)
-* [2023-11-29, 11:54:43](https://lobste.rs/s/qong8l/rest_peace_optane_2022) - [Rest in Peace, Optane (2022)](https://specbranch.com/posts/rip-optane/)
-* [2023-11-29, 11:01:09](https://lobste.rs/s/agemff/using_answer_set_programming_solve) - [Using Answer Set Programming to solve puzzle Haunted](https://rdivyanshu.github.io/haunted.html)
 * [2023-11-28, 19:01:46](https://lobste.rs/s/mqpftj/birth_death_search_engine_optimization) - [The birth & death of search engine optimization](https://xeiaso.net/blog/birth-death-seo/)
 
 ## [Archives](archives/index.md)

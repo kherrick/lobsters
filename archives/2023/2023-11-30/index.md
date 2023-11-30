@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-11-30](index.md)
 
+* [2023-11-30, 15:35:42](https://lobste.rs/s/3vbpqo/game_trees_0_94_released) - [Game of Trees 0.94 released](https://www.gameoftrees.org/releases/CHANGES)
+* [2023-11-30, 15:31:15](https://lobste.rs/s/peiqb2/unleashing_pypi_support_pixi_package) - [Unleashing PyPI support in the pixi package manager](https://prefix.dev/blog/pypi_support_in_pixi)
+* [2023-11-30, 15:29:18](https://lobste.rs/s/crtnqb/using_polars_pandas_world) - [Using Polars in a Pandas world](https://pythonspeed.com/articles/polars-pandas-interopability/)
 * [2023-11-30, 15:24:46](https://lobste.rs/s/66kj5p/three_problems_pinning) - [Three problems of pinning](https://without.boats/blog/three-problems-of-pinning/)
 * [2023-11-30, 14:52:51](https://lobste.rs/s/jcfsqj/research_rsc_open_source_supply_chain) - [research!rsc: Open Source Supply Chain Security at Google](https://research.swtch.com/acmscored)
 * [2023-11-30, 14:52:51](https://lobste.rs/s/jcfsqj/open_source_supply_chain_security_at) - [Open Source Supply Chain Security at Google](https://research.swtch.com/acmscored)
