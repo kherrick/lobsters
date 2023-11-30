@@ -1,8 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-11-30, 14:52:51](https://lobste.rs/s/jcfsqj/research_rsc_open_source_supply_chain) - [research!rsc: Open Source Supply Chain Security at Google](https://research.swtch.com/acmscored)
+* [2023-11-30, 14:52:51](https://lobste.rs/s/jcfsqj/open_source_supply_chain_security_at) - [Open Source Supply Chain Security at Google](https://research.swtch.com/acmscored)
 * [2023-11-30, 13:15:26](https://lobste.rs/s/vwuegy/why_you_can_t_divide_by_zero) - [Why you can't divide by zero](https://garrit.xyz/posts/2023-11-30-why-you-can't-divide-by-zero)
-* [2023-11-30, 11:42:30](https://lobste.rs/s/by8lbj/open_source_supply_chain_security_at) - [Open Source Supply Chain Security at Google](https://www.youtube.com/watch?v=6H-V-0oQvCA)
 * [2023-11-30, 11:13:57](https://lobste.rs/s/8t0ed7/ode_neo_grotesque_web) - [An ode to the neo-grotesque web](https://rednafi.com/zephyr/an_ode_to_the_neo_grotesque_web/)
 * [2023-11-30, 08:24:31](https://lobste.rs/s/pdaqro/xcurl_cut_down_fork_libcurl_for_microsoft) - [xCurl, a cut-down fork of libcurl for the Microsoft Game Development Kit](https://daniel.haxx.se/blog/2023/11/30/xcurl/)
 * [2023-11-30, 06:47:48](https://lobste.rs/s/wgrcj3/myth_smart_pointers) - [The Myth of Smart Pointers](https://www.logikalsolutions.com/wordpress/information-technology/smart-pointers/)
@@ -24,6 +23,7 @@
 * [2023-11-29, 12:48:48](https://lobste.rs/s/hjxd80/rust_std_fs_slower_than_python_no_it_s) - [Rust std fs slower than Python!? No, it's hardware](https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/)
 * [2023-11-29, 11:54:43](https://lobste.rs/s/qong8l/rest_peace_optane_2022) - [Rest in Peace, Optane (2022)](https://specbranch.com/posts/rip-optane/)
 * [2023-11-29, 11:01:09](https://lobste.rs/s/agemff/using_answer_set_programming_solve) - [Using Answer Set Programming to solve puzzle Haunted](https://rdivyanshu.github.io/haunted.html)
+* [2023-11-28, 22:17:56](https://lobste.rs/s/e6lu2e/analyzing_monoprice_blackbird_hdcp_2_2_1_4) - [Analyzing the Monoprice Blackbird HDCP 2.2 to 1.4 Down Converter](https://tomverbeure.github.io/2023/11/26/Monoprice-Blackbird-4K-Pro-HDCP-Converter.html)
 * [2023-11-28, 19:01:46](https://lobste.rs/s/mqpftj/birth_death_search_engine_optimization) - [The birth & death of search engine optimization](https://xeiaso.net/blog/birth-death-seo/)
 
 ## [Archives](archives/index.md)

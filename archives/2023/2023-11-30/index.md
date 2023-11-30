@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-11-30](index.md)
 
 * [2023-11-30, 14:52:51](https://lobste.rs/s/jcfsqj/research_rsc_open_source_supply_chain) - [research!rsc: Open Source Supply Chain Security at Google](https://research.swtch.com/acmscored)
+* [2023-11-30, 14:52:51](https://lobste.rs/s/jcfsqj/open_source_supply_chain_security_at) - [Open Source Supply Chain Security at Google](https://research.swtch.com/acmscored)
 * [2023-11-30, 13:15:26](https://lobste.rs/s/vwuegy/why_you_can_t_divide_by_zero) - [Why you can't divide by zero](https://garrit.xyz/posts/2023-11-30-why-you-can't-divide-by-zero)
 * [2023-11-30, 11:42:30](https://lobste.rs/s/by8lbj/open_source_supply_chain_security_at) - [Open Source Supply Chain Security at Google](https://www.youtube.com/watch?v=6H-V-0oQvCA)
 * [2023-11-30, 11:13:57](https://lobste.rs/s/8t0ed7/ode_neo_grotesque_web) - [An ode to the neo-grotesque web](https://rednafi.com/zephyr/an_ode_to_the_neo_grotesque_web/)
