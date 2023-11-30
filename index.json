@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-11-30, 08:24:31",
+      "https://lobste.rs/s/pdaqro/xcurl_cut_down_fork_libcurl_for_microsoft"
+    ],
+    [
+      "xCurl, a cut-down fork of libcurl for the Microsoft Game Development Kit",
+      "https://daniel.haxx.se/blog/2023/11/30/xcurl/"
+    ]
+  ],
+  [
+    [
       "2023-11-30, 06:47:48",
       "https://lobste.rs/s/wgrcj3/myth_smart_pointers"
     ],
@@ -197,16 +207,6 @@
     [
       "Using Answer Set Programming to solve puzzle Haunted",
       "https://rdivyanshu.github.io/haunted.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-29, 10:49:27",
-      "https://lobste.rs/s/ae2sck/open_source_email_pioneer_roundcube"
-    ],
-    [
-      "Open source email pioneer Roundcube joins the Nextcloud family",
-      "https://nextcloud.com/blog/open-source-email-pioneer-roundcube-comes-aboard-nextcloud/"
     ]
   ],
   [
