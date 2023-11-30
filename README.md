@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-30, 04:31:22](https://lobste.rs/s/p6oek6/gdlog_gpu_accelerated_deductive_engine) - [GDlog: A GPU-Accelerated Deductive Engine](https://arxiv.org/pdf/2311.02206.pdf)
 * [2023-11-30, 02:55:06](https://lobste.rs/s/q26ap9/nixos_nixpkgs_23_11) - [NixOS/nixpkgs 23.11](https://github.com/NixOS/nixpkgs/tree/23.11)
 * [2023-11-30, 02:51:25](https://lobste.rs/s/piyykx/browsing_eastern_side_personal_web) - [Browsing the Eastern Side of the Personal Web](https://www.bikobatanari.art/posts/2023/east-west-website-culture)
 * [2023-11-30, 02:06:56](https://lobste.rs/s/3nqxpa/nonblocking_cycle_detection_iterator) - [Nonblocking cycle detection and iterator invalidation](https://outerproduct.net/trivial/2023-11-29_nonblocking-cycles.html)
@@ -18,7 +19,6 @@
 * [2023-11-29, 11:54:43](https://lobste.rs/s/qong8l/rest_peace_optane_2022) - [Rest in Peace, Optane (2022)](https://specbranch.com/posts/rip-optane/)
 * [2023-11-29, 11:01:09](https://lobste.rs/s/agemff/using_answer_set_programming_solve) - [Using Answer Set Programming to solve puzzle Haunted](https://rdivyanshu.github.io/haunted.html)
 * [2023-11-29, 10:49:27](https://lobste.rs/s/ae2sck/open_source_email_pioneer_roundcube) - [Open source email pioneer Roundcube joins the Nextcloud family](https://nextcloud.com/blog/open-source-email-pioneer-roundcube-comes-aboard-nextcloud/)
-* [2023-11-29, 10:01:58](https://lobste.rs/s/0fzgdf/evaluating_m3_pro_cpu_cores_general) - [Evaluating M3 Pro CPU cores: General performance](https://eclecticlight.co/2023/11/27/evaluating-m3-pro-cpu-cores-1-general-performance/)
 * [2023-11-29, 05:48:55](https://lobste.rs/s/gqmdqb/sethernet_modern_low_cost_10_100_ethernet) - [SEthernet: Modern, low-cost 10/100 Ethernet for the Macintosh SE and SE/30](https://github.com/rhalkyard/SEthernet)
 * [2023-11-28, 22:17:56](https://lobste.rs/s/e6lu2e/analyzing_monoprice_blackbird_hdcp_2_2_1_4) - [Analyzing the Monoprice Blackbird HDCP 2.2 to 1.4 Down Converter](https://tomverbeure.github.io/2023/11/26/Monoprice-Blackbird-4K-Pro-HDCP-Converter.html)
 * [2023-11-28, 21:24:31](https://lobste.rs/s/5tutzn/what_s_up_python_new_args_syntax) - [What's up Python? New args syntax, subinterpreters FastAPI and cuda pandas…](https://www.bitecode.dev/p/whats-up-python-new-args-syntax-subinterpreters)
