@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-30, 18:20:18](https://lobste.rs/s/wryzqe/another_look_at_bcachefs_performance_on) - [Another Look At The Bcachefs Performance on Linux 6.7](https://www.phoronix.com/review/bcachefs-benchmarks-linux67)
 * [2023-11-30, 18:08:03](https://lobste.rs/s/9ksmfu/integer_overflow_arithmetic_safety_c) - [Integer overflow and arithmetic safety in C++](https://orodu.net/2023/11/29/overflow.html)
 * [2023-11-30, 17:51:45](https://lobste.rs/s/xqzeys/after_8_years_nethsm_is_available) - [After 8 Years: NetHSM is Available! Formally verified open source HSM](https://www.nitrokey.com/news/2023/after-8-years-development-nethsm-10-available-first-open-source-hardware-security-module)
 * [2023-11-30, 17:28:56](https://lobste.rs/s/qu8euu/inside_intel_386_processor_die_clock) - [Inside the Intel 386 processor die: the clock circuit](http://www.righto.com/2023/11/intel-386-clock-circuit.html)
 * [2023-11-30, 16:08:33](https://lobste.rs/s/biltpm/libcluster_postgres_postgres_strategy) - [libcluster_postgres: Postgres strategy for libcluster](https://github.com/supabase/libcluster_postgres)
 * [2023-11-30, 15:35:42](https://lobste.rs/s/3vbpqo/game_trees_0_94_released) - [Game of Trees 0.94 released](https://www.gameoftrees.org/releases/CHANGES)
-* [2023-11-30, 15:31:15](https://lobste.rs/s/peiqb2/unleashing_pypi_support_pixi_package) - [Unleashing PyPI support in the pixi package manager](https://prefix.dev/blog/pypi_support_in_pixi)
 * [2023-11-30, 15:29:18](https://lobste.rs/s/crtnqb/using_polars_pandas_world) - [Using Polars in a Pandas world](https://pythonspeed.com/articles/polars-pandas-interopability/)
 * [2023-11-30, 15:24:46](https://lobste.rs/s/66kj5p/three_problems_pinning) - [Three problems of pinning](https://without.boats/blog/three-problems-of-pinning/)
 * [2023-11-30, 14:52:51](https://lobste.rs/s/jcfsqj/open_source_supply_chain_security_at) - [Open Source Supply Chain Security at Google](https://research.swtch.com/acmscored)
