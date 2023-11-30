@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-30, 19:20:45](https://lobste.rs/s/omuvx4/guile_hoot_v0_2_0_released) - [Guile Hoot v0.2.0 released](https://spritely.institute/news/guile-hoot-v020-released.html)
 * [2023-11-30, 19:14:23](https://lobste.rs/s/demyzs/building_interactive_web_pages_with) - [Building interactive web pages with Guile Hoot](https://spritely.institute/news/building-interactive-web-pages-with-guile-hoot.html)
 * [2023-11-30, 19:11:36](https://lobste.rs/s/9qnis8/aesop_white_box_best_first_proof_search) - [Aesop: White-Box Best-First Proof Search for Lean](https://dl.acm.org/doi/pdf/10.1145/3573105.3575671)
 * [2023-11-30, 18:20:18](https://lobste.rs/s/wryzqe/another_look_at_bcachefs_performance_on) - [Another Look At The Bcachefs Performance on Linux 6.7](https://www.phoronix.com/review/bcachefs-benchmarks-linux67)
@@ -19,7 +20,6 @@
 * [2023-11-30, 02:51:25](https://lobste.rs/s/piyykx/browsing_eastern_side_personal_web) - [Browsing the Eastern Side of the Personal Web](https://www.bikobatanari.art/posts/2023/east-west-website-culture)
 * [2023-11-29, 23:28:17](https://lobste.rs/s/fywoys/introducing_llamafile) - [Introducing llamafile](https://hacks.mozilla.org/2023/11/introducing-llamafile/)
 * [2023-11-29, 21:57:12](https://lobste.rs/s/al2gox/infinite_mac) - [Infinite Mac](https://infinitemac.org/)
-* [2023-11-29, 20:35:41](https://lobste.rs/s/8cdhtt/errtrace_alternative_stack_traces_for) - [errtrace: An alternative to stack traces for your Go errors](https://github.com/bracesdev/errtrace)
 * [2023-11-29, 20:16:38](https://lobste.rs/s/orgjzy/10_weird_html_hacks_shaped_internet) - [10 Weird HTML Hacks That Shaped The Internet](https://tedium.co/2023/11/24/weird-html-hacks-history/)
 * [2023-11-29, 16:23:14](https://lobste.rs/s/yqj3ae/my_500m_mars_rover_mistake_failure_story) - [My $500M Mars Rover Mistake: A Failure Story](https://www.chrislewicki.com/articles/failurestory)
 * [2023-11-29, 15:35:50](https://lobste.rs/s/ntn2yq/jaq_jq_clone_focussed_on_correctness) - [jaq: A jq clone focussed on correctness, speed, and simplicity](https://github.com/01mf02/jaq)
