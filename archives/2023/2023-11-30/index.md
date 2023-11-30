@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-30](index.md)
 
+* [2023-11-30, 18:08:03](https://lobste.rs/s/9ksmfu/integer_overflow_arithmetic_safety_c) - [Integer overflow and arithmetic safety in C++](https://orodu.net/2023/11/29/overflow.html)
 * [2023-11-30, 17:51:45](https://lobste.rs/s/xqzeys/after_8_years_nethsm_is_available) - [After 8 Years: NetHSM is Available! Formally verified open source HSM](https://www.nitrokey.com/news/2023/after-8-years-development-nethsm-10-available-first-open-source-hardware-security-module)
 * [2023-11-30, 17:28:56](https://lobste.rs/s/qu8euu/inside_intel_386_processor_die_clock) - [Inside the Intel 386 processor die: the clock circuit](http://www.righto.com/2023/11/intel-386-clock-circuit.html)
 * [2023-11-30, 16:08:33](https://lobste.rs/s/biltpm/libcluster_postgres_postgres_strategy) - [libcluster_postgres: Postgres strategy for libcluster](https://github.com/supabase/libcluster_postgres)

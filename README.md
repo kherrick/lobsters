@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-30, 18:08:03](https://lobste.rs/s/9ksmfu/integer_overflow_arithmetic_safety_c) - [Integer overflow and arithmetic safety in C++](https://orodu.net/2023/11/29/overflow.html)
 * [2023-11-30, 17:51:45](https://lobste.rs/s/xqzeys/after_8_years_nethsm_is_available) - [After 8 Years: NetHSM is Available! Formally verified open source HSM](https://www.nitrokey.com/news/2023/after-8-years-development-nethsm-10-available-first-open-source-hardware-security-module)
 * [2023-11-30, 17:28:56](https://lobste.rs/s/qu8euu/inside_intel_386_processor_die_clock) - [Inside the Intel 386 processor die: the clock circuit](http://www.righto.com/2023/11/intel-386-clock-circuit.html)
 * [2023-11-30, 16:08:33](https://lobste.rs/s/biltpm/libcluster_postgres_postgres_strategy) - [libcluster_postgres: Postgres strategy for libcluster](https://github.com/supabase/libcluster_postgres)
@@ -16,7 +17,6 @@
 * [2023-11-30, 02:55:06](https://lobste.rs/s/q26ap9/nixos_nixpkgs_23_11) - [NixOS/nixpkgs 23.11](https://github.com/NixOS/nixpkgs/tree/23.11)
 * [2023-11-30, 02:51:25](https://lobste.rs/s/piyykx/browsing_eastern_side_personal_web) - [Browsing the Eastern Side of the Personal Web](https://www.bikobatanari.art/posts/2023/east-west-website-culture)
 * [2023-11-29, 23:28:17](https://lobste.rs/s/fywoys/introducing_llamafile) - [Introducing llamafile](https://hacks.mozilla.org/2023/11/introducing-llamafile/)
-* [2023-11-29, 23:21:09](https://lobste.rs/s/bqxzru/building_your_own_bookmark_launcher) - [Building your own bookmark launcher](https://xenodium.com/building-your-own-bookmark-launcher)
 * [2023-11-29, 21:57:12](https://lobste.rs/s/al2gox/infinite_mac) - [Infinite Mac](https://infinitemac.org/)
 * [2023-11-29, 20:35:41](https://lobste.rs/s/8cdhtt/errtrace_alternative_stack_traces_for) - [errtrace: An alternative to stack traces for your Go errors](https://github.com/bracesdev/errtrace)
 * [2023-11-29, 20:16:38](https://lobste.rs/s/orgjzy/10_weird_html_hacks_shaped_internet) - [10 Weird HTML Hacks That Shaped The Internet](https://tedium.co/2023/11/24/weird-html-hacks-history/)
