@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-11-30, 08:24:31](https://lobste.rs/s/pdaqro/xcurl_cut_down_fork_libcurl_for_microsoft) - [xCurl, a cut-down fork of libcurl for the Microsoft Game Development Kit](https://daniel.haxx.se/blog/2023/11/30/xcurl/)
 * [2023-11-30, 06:47:48](https://lobste.rs/s/wgrcj3/myth_smart_pointers) - [The Myth of Smart Pointers](https://www.logikalsolutions.com/wordpress/information-technology/smart-pointers/)
 * [2023-11-30, 06:14:04](https://lobste.rs/s/4xxkbs/linear_matching_javascript_regular) - [Linear Matching of JavaScript Regular Expressions](https://arxiv.org/abs/2311.17620)
 * [2023-11-30, 04:31:22](https://lobste.rs/s/p6oek6/gdlog_gpu_accelerated_deductive_engine) - [GDlog: A GPU-Accelerated Deductive Engine](https://arxiv.org/pdf/2311.02206.pdf)
@@ -20,7 +21,6 @@
 * [2023-11-29, 12:48:48](https://lobste.rs/s/hjxd80/rust_std_fs_slower_than_python_no_it_s) - [Rust std fs slower than Python!? No, it's hardware](https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/)
 * [2023-11-29, 11:54:43](https://lobste.rs/s/qong8l/rest_peace_optane_2022) - [Rest in Peace, Optane (2022)](https://specbranch.com/posts/rip-optane/)
 * [2023-11-29, 11:01:09](https://lobste.rs/s/agemff/using_answer_set_programming_solve) - [Using Answer Set Programming to solve puzzle Haunted](https://rdivyanshu.github.io/haunted.html)
-* [2023-11-29, 10:49:27](https://lobste.rs/s/ae2sck/open_source_email_pioneer_roundcube) - [Open source email pioneer Roundcube joins the Nextcloud family](https://nextcloud.com/blog/open-source-email-pioneer-roundcube-comes-aboard-nextcloud/)
 * [2023-11-28, 22:17:56](https://lobste.rs/s/e6lu2e/analyzing_monoprice_blackbird_hdcp_2_2_1_4) - [Analyzing the Monoprice Blackbird HDCP 2.2 to 1.4 Down Converter](https://tomverbeure.github.io/2023/11/26/Monoprice-Blackbird-4K-Pro-HDCP-Converter.html)
 * [2023-11-28, 21:24:31](https://lobste.rs/s/5tutzn/what_s_up_python_new_args_syntax) - [What's up Python? New args syntax, subinterpreters FastAPI and cuda pandas…](https://www.bitecode.dev/p/whats-up-python-new-args-syntax-subinterpreters)
 * [2023-11-28, 19:01:46](https://lobste.rs/s/mqpftj/birth_death_search_engine_optimization) - [The birth & death of search engine optimization](https://xeiaso.net/blog/birth-death-seo/)
