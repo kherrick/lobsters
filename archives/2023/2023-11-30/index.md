@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-11-30](index.md)
 
+* [2023-11-30, 21:44:37](https://lobste.rs/s/bupkvi/pelican_4_9_classless_simple_theme_with) - [Pelican 4.9: classless Simple theme with semantic HTML](https://www.paulox.net/2023/11/30/pelican-4.9-classless-simple-theme/)
 * [2023-11-30, 20:50:23](https://lobste.rs/s/rhyxzz/bfcoq_brainfuck_compiler_coq) - [bfcoq: Brainfuck compiler in Coq](https://github.com/thaliaarchi/bfcoq)
 * [2023-11-30, 19:44:13](https://lobste.rs/s/bhcdqn/how_pgroll_works_under_hood) - [How pgroll works under the hood](https://xata.io/blog/pgroll-internals)
 * [2023-11-30, 19:20:45](https://lobste.rs/s/omuvx4/guile_hoot_v0_2_0_released) - [Guile Hoot v0.2.0 released](https://spritely.institute/news/guile-hoot-v020-released.html)
