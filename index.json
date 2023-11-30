@@ -2,10 +2,10 @@
   [
     [
       "2023-11-30, 14:52:51",
-      "https://lobste.rs/s/jcfsqj/research_rsc_open_source_supply_chain"
+      "https://lobste.rs/s/jcfsqj/open_source_supply_chain_security_at"
     ],
     [
-      "research!rsc: Open Source Supply Chain Security at Google",
+      "Open Source Supply Chain Security at Google",
       "https://research.swtch.com/acmscored"
     ]
   ],
@@ -17,16 +17,6 @@
     [
       "Why you can't divide by zero",
       "https://garrit.xyz/posts/2023-11-30-why-you-can't-divide-by-zero"
-    ]
-  ],
-  [
-    [
-      "2023-11-30, 11:42:30",
-      "https://lobste.rs/s/by8lbj/open_source_supply_chain_security_at"
-    ],
-    [
-      "Open Source Supply Chain Security at Google",
-      "https://www.youtube.com/watch?v=6H-V-0oQvCA"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Using Answer Set Programming to solve puzzle Haunted",
       "https://rdivyanshu.github.io/haunted.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-28, 22:17:56",
+      "https://lobste.rs/s/e6lu2e/analyzing_monoprice_blackbird_hdcp_2_2_1_4"
+    ],
+    [
+      "Analyzing the Monoprice Blackbird HDCP 2.2 to 1.4 Down Converter",
+      "https://tomverbeure.github.io/2023/11/26/Monoprice-Blackbird-4K-Pro-HDCP-Converter.html"
     ]
   ],
   [
