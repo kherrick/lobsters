@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-01, 02:52:08](https://lobste.rs/s/oxgdva/first_bits_haiku_compatibility_layer) - [First bits of a Haiku compatibility layer](https://mail-index.netbsd.org/netbsd-users/2023/11/27/msg030366.html)
 * [2023-12-01, 00:55:09](https://lobste.rs/s/img2jx/weirdest_bug_i_ve_seen_yet) - [The Weirdest Bug I’ve Seen Yet](https://engineering.gusto.com/the-weirdest-bug-ive-seen-yet/)
 * [2023-12-01, 00:39:51](https://lobste.rs/s/zzdtkb/my_1fa_is_probably_better_than_your_mfa) - [My 1FA is Probably Better than Your MFA](https://clearops.substack.com/p/my-1fa-is-probably-better-than-your)
 * [2023-11-30, 22:45:06](https://lobste.rs/s/bpjhzm/computed_properties_for_haskell_records) - [Computed Properties for Haskell Records](https://alt-romes.github.io/posts/2023-11-30-computed-properties-for-haskell-records.html)
@@ -11,7 +12,6 @@
 * [2023-11-30, 18:20:18](https://lobste.rs/s/wryzqe/another_look_at_bcachefs_performance_on) - [Another Look At The Bcachefs Performance on Linux 6.7](https://www.phoronix.com/review/bcachefs-benchmarks-linux67)
 * [2023-11-30, 17:51:45](https://lobste.rs/s/xqzeys/after_8_years_nethsm_is_available) - [After 8 Years: NetHSM is Available! Formally verified open source HSM](https://www.nitrokey.com/news/2023/after-8-years-development-nethsm-10-available-first-open-source-hardware-security-module)
 * [2023-11-30, 17:28:56](https://lobste.rs/s/qu8euu/inside_intel_386_processor_die_clock) - [Inside the Intel 386 processor die: the clock circuit](http://www.righto.com/2023/11/intel-386-clock-circuit.html)
-* [2023-11-30, 16:08:33](https://lobste.rs/s/biltpm/libcluster_postgres_postgres_strategy) - [libcluster_postgres: Postgres strategy for libcluster](https://github.com/supabase/libcluster_postgres)
 * [2023-11-30, 15:29:18](https://lobste.rs/s/crtnqb/using_polars_pandas_world) - [Using Polars in a Pandas world](https://pythonspeed.com/articles/polars-pandas-interopability/)
 * [2023-11-30, 15:24:46](https://lobste.rs/s/66kj5p/three_problems_pinning) - [Three problems of pinning](https://without.boats/blog/three-problems-of-pinning/)
 * [2023-11-30, 14:52:51](https://lobste.rs/s/jcfsqj/open_source_supply_chain_security_at) - [Open Source Supply Chain Security at Google](https://research.swtch.com/acmscored)
