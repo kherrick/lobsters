@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-01, 00:55:09",
+      "https://lobste.rs/s/img2jx/weirdest_bug_i_ve_seen_yet"
+    ],
+    [
+      "The Weirdest Bug I’ve Seen Yet",
+      "https://engineering.gusto.com/the-weirdest-bug-ive-seen-yet/"
+    ]
+  ],
+  [
+    [
       "2023-12-01, 00:39:51",
       "https://lobste.rs/s/zzdtkb/my_1fa_is_probably_better_than_your_mfa"
     ],
@@ -41,12 +51,12 @@
   ],
   [
     [
-      "2023-11-30, 20:50:23",
-      "https://lobste.rs/s/rhyxzz/bfcoq_brainfuck_compiler_coq"
+      "2023-11-30, 19:20:45",
+      "https://lobste.rs/s/omuvx4/guile_hoot_v0_2_0_released"
     ],
     [
-      "bfcoq: Brainfuck compiler in Coq",
-      "https://github.com/thaliaarchi/bfcoq"
+      "Guile Hoot v0.2.0 released",
+      "https://spritely.institute/news/guile-hoot-v020-released.html"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "xCurl, a cut-down fork of libcurl for the Microsoft Game Development Kit",
       "https://daniel.haxx.se/blog/2023/11/30/xcurl/"
-    ]
-  ],
-  [
-    [
-      "2023-11-30, 06:47:48",
-      "https://lobste.rs/s/wgrcj3/myth_smart_pointers"
-    ],
-    [
-      "The Myth of Smart Pointers",
-      "https://www.logikalsolutions.com/wordpress/information-technology/smart-pointers/"
     ]
   ],
   [
