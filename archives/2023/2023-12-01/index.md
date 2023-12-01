@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-12-01](index.md)
 
+* [2023-12-01, 14:14:37](https://lobste.rs/s/6pcjm3/apache_maven_build_cache_extension) - [Apache Maven Build Cache Extension](https://maven.apache.org/extensions/maven-build-cache-extension/)
+* [2023-12-01, 14:13:03](https://lobste.rs/s/hben3h/arroy_approximate_nearest_neighbors) - [arroy: Approximate Nearest Neighbors in Rust, based on LMDB and optimized for memory usage](https://github.com/meilisearch/arroy)
+* [2023-12-01, 14:10:29](https://lobste.rs/s/nfoya5/useless_ruby_sugar_endless_one_line) - [“Useless Ruby sugar”: Endless (one-line) methods](https://zverok.space/blog/2023-12-01-syntax-sugar5-endless-methods.html)
+* [2023-12-01, 13:58:22](https://lobste.rs/s/53euzx/untyped_python_python_was) - [Untyped Python: The Python That Was](https://lucumr.pocoo.org/2023/12/1/the-python-that-was/)
 * [2023-12-01, 12:29:42](https://lobste.rs/s/4i1l9y/qemu_advent_calendar_2023) - [QEMU Advent Calendar 2023](https://qemu-advent-calendar.org/2023/)
 * [2023-12-01, 12:05:15](https://lobste.rs/s/7avior/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/7avior/what_are_you_doing_this_weekend)
 * [2023-12-01, 11:15:05](https://lobste.rs/s/wmfyob/release_garn_version_v0_0_17_v0_0_18) - [Release: garn version v0.0.17 and v0.0.18](https://garnix.io/blog/garn-v0_0_18)
