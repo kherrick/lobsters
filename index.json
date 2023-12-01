@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-11-30, 23:12:01",
-      "https://lobste.rs/s/g39hme/how_think_computationally_about_ai"
+      "2023-12-01, 00:39:51",
+      "https://lobste.rs/s/zzdtkb/my_1fa_is_probably_better_than_your_mfa"
     ],
     [
-      "How to Think Computationally About AI, the Universe, and Everything",
-      "https://www.ted.com/talks/stephen_wolfram_how_to_think_computationally_about_ai_the_universe_and_everything"
+      "My 1FA is Probably Better than Your MFA",
+      "https://clearops.substack.com/p/my-1fa-is-probably-better-than-your"
     ]
   ],
   [
@@ -57,6 +57,16 @@
     [
       "Building interactive web pages with Guile Hoot",
       "https://spritely.institute/news/building-interactive-web-pages-with-guile-hoot.html"
+    ]
+  ],
+  [
+    [
+      "2023-11-30, 19:11:36",
+      "https://lobste.rs/s/9qnis8/aesop_white_box_best_first_proof_search"
+    ],
+    [
+      "Aesop: White-Box Best-First Proof Search for Lean",
+      "https://dl.acm.org/doi/pdf/10.1145/3573105.3575671"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "NixOS/nixpkgs 23.11",
       "https://github.com/NixOS/nixpkgs/tree/23.11"
-    ]
-  ],
-  [
-    [
-      "2023-11-30, 02:51:25",
-      "https://lobste.rs/s/piyykx/browsing_eastern_side_personal_web"
-    ],
-    [
-      "Browsing the Eastern Side of the Personal Web",
-      "https://www.bikobatanari.art/posts/2023/east-west-website-culture"
     ]
   ],
   [
