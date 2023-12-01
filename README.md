@@ -1,8 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-01, 04:30:36](https://lobste.rs/s/zbu3ko/accelerating_generative_ai_with_pytorch) - [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
 * [2023-12-01, 02:52:08](https://lobste.rs/s/oxgdva/first_bits_haiku_compatibility_layer) - [First bits of a Haiku compatibility layer](https://mail-index.netbsd.org/netbsd-users/2023/11/27/msg030366.html)
 * [2023-12-01, 00:55:09](https://lobste.rs/s/img2jx/weirdest_bug_i_ve_seen_yet) - [The Weirdest Bug I’ve Seen Yet](https://engineering.gusto.com/the-weirdest-bug-ive-seen-yet/)
 * [2023-12-01, 00:39:51](https://lobste.rs/s/zzdtkb/my_1fa_is_probably_better_than_your_mfa) - [My 1FA is Probably Better than Your MFA](https://clearops.substack.com/p/my-1fa-is-probably-better-than-your)
+* [2023-12-01, 00:13:31](https://lobste.rs/s/trbciw/response_decade_developing_programming) - [A response to 'A decade of developing a programming language'](https://www.ncameron.org/blog/a-response-to-a-decade-of-developing-a-programming-language/)
 * [2023-11-30, 22:45:06](https://lobste.rs/s/bpjhzm/computed_properties_for_haskell_records) - [Computed Properties for Haskell Records](https://alt-romes.github.io/posts/2023-11-30-computed-properties-for-haskell-records.html)
 * [2023-11-30, 22:10:54](https://lobste.rs/s/mybp8o/code_is_run_more_than_read) - [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
 * [2023-11-30, 21:44:37](https://lobste.rs/s/bupkvi/pelican_4_9_classless_simple_theme_with) - [Pelican 4.9: classless Simple theme with semantic HTML](https://www.paulox.net/2023/11/30/pelican-4.9-classless-simple-theme/)
@@ -11,7 +13,6 @@
 * [2023-11-30, 19:11:36](https://lobste.rs/s/9qnis8/aesop_white_box_best_first_proof_search) - [Aesop: White-Box Best-First Proof Search for Lean](https://dl.acm.org/doi/pdf/10.1145/3573105.3575671)
 * [2023-11-30, 18:20:18](https://lobste.rs/s/wryzqe/another_look_at_bcachefs_performance_on) - [Another Look At The Bcachefs Performance on Linux 6.7](https://www.phoronix.com/review/bcachefs-benchmarks-linux67)
 * [2023-11-30, 17:51:45](https://lobste.rs/s/xqzeys/after_8_years_nethsm_is_available) - [After 8 Years: NetHSM is Available! Formally verified open source HSM](https://www.nitrokey.com/news/2023/after-8-years-development-nethsm-10-available-first-open-source-hardware-security-module)
-* [2023-11-30, 17:28:56](https://lobste.rs/s/qu8euu/inside_intel_386_processor_die_clock) - [Inside the Intel 386 processor die: the clock circuit](http://www.righto.com/2023/11/intel-386-clock-circuit.html)
 * [2023-11-30, 16:08:33](https://lobste.rs/s/biltpm/libcluster_postgres_postgres_strategy) - [libcluster_postgres: Postgres strategy for libcluster](https://github.com/supabase/libcluster_postgres)
 * [2023-11-30, 15:29:18](https://lobste.rs/s/crtnqb/using_polars_pandas_world) - [Using Polars in a Pandas world](https://pythonspeed.com/articles/polars-pandas-interopability/)
 * [2023-11-30, 15:24:46](https://lobste.rs/s/66kj5p/three_problems_pinning) - [Three problems of pinning](https://without.boats/blog/three-problems-of-pinning/)
@@ -23,7 +24,6 @@
 * [2023-11-29, 23:28:17](https://lobste.rs/s/fywoys/introducing_llamafile) - [Introducing llamafile](https://hacks.mozilla.org/2023/11/introducing-llamafile/)
 * [2023-11-29, 21:57:12](https://lobste.rs/s/al2gox/infinite_mac) - [Infinite Mac](https://infinitemac.org/)
 * [2023-11-29, 16:23:14](https://lobste.rs/s/yqj3ae/my_500m_mars_rover_mistake_failure_story) - [My $500M Mars Rover Mistake: A Failure Story](https://www.chrislewicki.com/articles/failurestory)
-* [2023-11-29, 15:35:50](https://lobste.rs/s/ntn2yq/jaq_jq_clone_focussed_on_correctness) - [jaq: A jq clone focussed on correctness, speed, and simplicity](https://github.com/01mf02/jaq)
 * [2023-11-29, 12:48:48](https://lobste.rs/s/hjxd80/rust_std_fs_slower_than_python_no_it_s) - [Rust std fs slower than Python!? No, it's hardware](https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/)
 
 ## [Archives](archives/index.md)
