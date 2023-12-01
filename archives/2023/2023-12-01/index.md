@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-01](index.md)
 
+* [2023-12-01, 17:38:35](https://lobste.rs/s/zapiyc/you_probably_don_t_need_datetime) - [You (probably) don't need DateTime](https://scorpil.com/post/you-dont-need-datetime/)
 * [2023-12-01, 17:06:14](https://lobste.rs/s/2uyvlc/autonomous_accessibility_testing) - [Autonomous Accessibility Testing in Squidler](https://squidler.io/blog/posts/2023-12-01-introducing-accessibility-testing-in-squidler)
 * [2023-12-01, 16:57:23](https://lobste.rs/s/kpbemv/re_discovering_office_software) - [Re-discovering Office Software: LibreOffice](https://lobste.rs/s/kpbemv/re_discovering_office_software)
 * [2023-12-01, 16:54:55](https://lobste.rs/s/aywvcs/advent_svelte) - [Advent of Svelte](https://advent.sveltesociety.dev/)
