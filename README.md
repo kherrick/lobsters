@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-01, 15:54:08](https://lobste.rs/s/ltidpd/should_you_split_file) - [Should you split that file?](https://www.pathsensitive.com/2023/12/should-you-split-that-file.html)
 * [2023-12-01, 14:14:37](https://lobste.rs/s/6pcjm3/apache_maven_build_cache_extension) - [Apache Maven Build Cache Extension](https://maven.apache.org/extensions/maven-build-cache-extension/)
 * [2023-12-01, 14:13:03](https://lobste.rs/s/hben3h/arroy_approximate_nearest_neighbors) - [arroy: Approximate Nearest Neighbors in Rust, based on LMDB and optimized for memory usage](https://github.com/meilisearch/arroy)
 * [2023-12-01, 14:10:29](https://lobste.rs/s/nfoya5/useless_ruby_sugar_endless_one_line) - [“Useless Ruby sugar”: Endless (one-line) methods](https://zverok.space/blog/2023-12-01-syntax-sugar5-endless-methods.html)
@@ -21,7 +22,6 @@
 * [2023-11-30, 18:20:18](https://lobste.rs/s/wryzqe/another_look_at_bcachefs_performance_on) - [Another Look At The Bcachefs Performance on Linux 6.7](https://www.phoronix.com/review/bcachefs-benchmarks-linux67)
 * [2023-11-30, 17:51:45](https://lobste.rs/s/xqzeys/after_8_years_nethsm_is_available) - [After 8 Years: NetHSM is Available! Formally verified open source HSM](https://www.nitrokey.com/news/2023/after-8-years-development-nethsm-10-available-first-open-source-hardware-security-module)
 * [2023-11-30, 15:24:46](https://lobste.rs/s/66kj5p/three_problems_pinning) - [Three problems of pinning](https://without.boats/blog/three-problems-of-pinning/)
-* [2023-11-30, 14:52:51](https://lobste.rs/s/jcfsqj/open_source_supply_chain_security_at) - [Open Source Supply Chain Security at Google](https://research.swtch.com/acmscored)
 * [2023-11-30, 13:15:26](https://lobste.rs/s/vwuegy/why_you_can_t_divide_by_zero) - [Why you can't divide by zero](https://garrit.xyz/posts/2023-11-30-why-you-can't-divide-by-zero)
 * [2023-11-30, 11:13:57](https://lobste.rs/s/8t0ed7/ode_neo_grotesque_web) - [An ode to the neo-grotesque web](https://rednafi.com/zephyr/an_ode_to_the_neo_grotesque_web/)
 * [2023-11-30, 02:55:06](https://lobste.rs/s/q26ap9/nixos_nixpkgs_23_11) - [NixOS/nixpkgs 23.11](https://github.com/NixOS/nixpkgs/tree/23.11)

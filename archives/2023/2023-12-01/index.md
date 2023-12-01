@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-01](index.md)
 
+* [2023-12-01, 15:54:08](https://lobste.rs/s/ltidpd/should_you_split_file) - [Should you split that file?](https://www.pathsensitive.com/2023/12/should-you-split-that-file.html)
 * [2023-12-01, 14:14:37](https://lobste.rs/s/6pcjm3/apache_maven_build_cache_extension) - [Apache Maven Build Cache Extension](https://maven.apache.org/extensions/maven-build-cache-extension/)
 * [2023-12-01, 14:13:03](https://lobste.rs/s/hben3h/arroy_approximate_nearest_neighbors) - [arroy: Approximate Nearest Neighbors in Rust, based on LMDB and optimized for memory usage](https://github.com/meilisearch/arroy)
 * [2023-12-01, 14:10:29](https://lobste.rs/s/nfoya5/useless_ruby_sugar_endless_one_line) - [“Useless Ruby sugar”: Endless (one-line) methods](https://zverok.space/blog/2023-12-01-syntax-sugar5-endless-methods.html)
