@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-12-01, 16:57:23](https://lobste.rs/s/kpbemv/re_discovering_office_software) - [Re-discovering Office Software: LibreOffice](https://lobste.rs/s/kpbemv/re_discovering_office_software)
+* [2023-12-01, 17:06:14](https://lobste.rs/s/2uyvlc/autonomous_accessibility_testing) - [Autonomous Accessibility Testing in Squidler](https://squidler.io/blog/posts/2023-12-01-introducing-accessibility-testing-in-squidler)
 * [2023-12-01, 16:54:55](https://lobste.rs/s/aywvcs/advent_svelte) - [Advent of Svelte](https://advent.sveltesociety.dev/)
 * [2023-12-01, 15:54:08](https://lobste.rs/s/ltidpd/should_you_split_file) - [Should you split that file?](https://www.pathsensitive.com/2023/12/should-you-split-that-file.html)
 * [2023-12-01, 14:14:37](https://lobste.rs/s/6pcjm3/apache_maven_build_cache_extension) - [Apache Maven Build Cache Extension](https://maven.apache.org/extensions/maven-build-cache-extension/)
