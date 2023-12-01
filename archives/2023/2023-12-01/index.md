@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-01](index.md)
 
+* [2023-12-01, 12:29:42](https://lobste.rs/s/4i1l9y/qemu_advent_calendar_2023) - [QEMU Advent Calendar 2023](https://qemu-advent-calendar.org/2023/)
 * [2023-12-01, 12:05:15](https://lobste.rs/s/7avior/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/7avior/what_are_you_doing_this_weekend)
 * [2023-12-01, 11:15:05](https://lobste.rs/s/wmfyob/release_garn_version_v0_0_17_v0_0_18) - [Release: garn version v0.0.17 and v0.0.18](https://garnix.io/blog/garn-v0_0_18)
 * [2023-12-01, 07:22:39](https://lobste.rs/s/suk9dd/multifaceted_linguistic_echo_chambers) - [Multifaceted: the linguistic echo chambers of LLMs](https://blog.j11y.io/2023-11-22_multifaceted/)
