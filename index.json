@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-01, 19:55:54",
+      "https://lobste.rs/s/3ehljg/dune3d_3d_cad_application"
+    ],
+    [
+      "dune3d: 3D CAD application",
+      "https://github.com/dune3d/dune3d"
+    ]
+  ],
+  [
+    [
       "2023-12-01, 19:29:38",
       "https://lobste.rs/s/axq3hi/my_long_quest_revive_90s_windows_gaming"
     ],
@@ -237,16 +247,6 @@
     [
       "An ode to the neo-grotesque web",
       "https://rednafi.com/zephyr/an_ode_to_the_neo_grotesque_web/"
-    ]
-  ],
-  [
-    [
-      "2023-11-30, 02:55:06",
-      "https://lobste.rs/s/q26ap9/nixos_nixpkgs_23_11"
-    ],
-    [
-      "NixOS/nixpkgs 23.11",
-      "https://github.com/NixOS/nixpkgs/tree/23.11"
     ]
   ]
 ]
