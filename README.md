@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-01, 19:55:54](https://lobste.rs/s/3ehljg/dune3d_3d_cad_application) - [dune3d: 3D CAD application](https://github.com/dune3d/dune3d)
 * [2023-12-01, 19:29:38](https://lobste.rs/s/axq3hi/my_long_quest_revive_90s_windows_gaming) - [My long quest to revive a ’90s Windows gaming cult classic](https://arstechnica.com/gaming/2023/11/my-long-quest-to-revive-a-90s-windows-gaming-cult-classic/)
 * [2023-12-01, 17:38:35](https://lobste.rs/s/zapiyc/you_probably_don_t_need_datetime) - [You (probably) don't need DateTime](https://scorpil.com/post/you-dont-need-datetime/)
 * [2023-12-01, 17:06:14](https://lobste.rs/s/2uyvlc/autonomous_accessibility_testing) - [Autonomous Accessibility Testing in Squidler](https://squidler.io/blog/posts/2023-12-01-introducing-accessibility-testing-in-squidler)
@@ -24,7 +25,6 @@
 * [2023-11-30, 15:24:46](https://lobste.rs/s/66kj5p/three_problems_pinning) - [Three problems of pinning](https://without.boats/blog/three-problems-of-pinning/)
 * [2023-11-30, 13:15:26](https://lobste.rs/s/vwuegy/why_you_can_t_divide_by_zero) - [Why you can't divide by zero](https://garrit.xyz/posts/2023-11-30-why-you-can't-divide-by-zero)
 * [2023-11-30, 11:13:57](https://lobste.rs/s/8t0ed7/ode_neo_grotesque_web) - [An ode to the neo-grotesque web](https://rednafi.com/zephyr/an_ode_to_the_neo_grotesque_web/)
-* [2023-11-30, 02:55:06](https://lobste.rs/s/q26ap9/nixos_nixpkgs_23_11) - [NixOS/nixpkgs 23.11](https://github.com/NixOS/nixpkgs/tree/23.11)
 
 ## [Archives](archives/index.md)
 

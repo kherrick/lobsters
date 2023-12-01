@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-01](index.md)
 
+* [2023-12-01, 19:55:54](https://lobste.rs/s/3ehljg/dune3d_3d_cad_application) - [dune3d: 3D CAD application](https://github.com/dune3d/dune3d)
 * [2023-12-01, 19:29:38](https://lobste.rs/s/axq3hi/my_long_quest_revive_90s_windows_gaming) - [My long quest to revive a ’90s Windows gaming cult classic](https://arstechnica.com/gaming/2023/11/my-long-quest-to-revive-a-90s-windows-gaming-cult-classic/)
 * [2023-12-01, 17:38:35](https://lobste.rs/s/zapiyc/you_probably_don_t_need_datetime) - [You (probably) don't need DateTime](https://scorpil.com/post/you-dont-need-datetime/)
 * [2023-12-01, 17:06:14](https://lobste.rs/s/2uyvlc/autonomous_accessibility_testing) - [Autonomous Accessibility Testing in Squidler](https://squidler.io/blog/posts/2023-12-01-introducing-accessibility-testing-in-squidler)
