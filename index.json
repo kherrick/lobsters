@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-01, 17:38:35",
+      "https://lobste.rs/s/zapiyc/you_probably_don_t_need_datetime"
+    ],
+    [
+      "You (probably) don't need DateTime",
+      "https://scorpil.com/post/you-dont-need-datetime/"
+    ]
+  ],
+  [
+    [
       "2023-12-01, 17:06:14",
       "https://lobste.rs/s/2uyvlc/autonomous_accessibility_testing"
     ],
@@ -71,6 +81,16 @@
   ],
   [
     [
+      "2023-12-01, 12:29:42",
+      "https://lobste.rs/s/4i1l9y/qemu_advent_calendar_2023"
+    ],
+    [
+      "QEMU Advent Calendar 2023",
+      "https://qemu-advent-calendar.org/2023/"
+    ]
+  ],
+  [
+    [
       "2023-12-01, 12:05:15",
       "https://lobste.rs/s/7avior/what_are_you_doing_this_weekend"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-12-01, 00:39:51",
-      "https://lobste.rs/s/zzdtkb/my_1fa_is_probably_better_than_your_mfa"
-    ],
-    [
-      "My 1FA is Probably Better than Your MFA",
-      "https://clearops.substack.com/p/my-1fa-is-probably-better-than-your"
-    ]
-  ],
-  [
-    [
       "2023-12-01, 00:13:31",
       "https://lobste.rs/s/trbciw/response_decade_developing_programming"
     ],
@@ -187,16 +197,6 @@
     [
       "Building interactive web pages with Guile Hoot",
       "https://spritely.institute/news/building-interactive-web-pages-with-guile-hoot.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-30, 18:20:18",
-      "https://lobste.rs/s/wryzqe/another_look_at_bcachefs_performance_on"
-    ],
-    [
-      "Another Look At The Bcachefs Performance on Linux 6.7",
-      "https://www.phoronix.com/review/bcachefs-benchmarks-linux67"
     ]
   ],
   [
