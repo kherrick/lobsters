@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-01, 19:29:38](https://lobste.rs/s/axq3hi/my_long_quest_revive_90s_windows_gaming) - [My long quest to revive a ’90s Windows gaming cult classic](https://arstechnica.com/gaming/2023/11/my-long-quest-to-revive-a-90s-windows-gaming-cult-classic/)
 * [2023-12-01, 17:38:35](https://lobste.rs/s/zapiyc/you_probably_don_t_need_datetime) - [You (probably) don't need DateTime](https://scorpil.com/post/you-dont-need-datetime/)
 * [2023-12-01, 17:06:14](https://lobste.rs/s/2uyvlc/autonomous_accessibility_testing) - [Autonomous Accessibility Testing in Squidler](https://squidler.io/blog/posts/2023-12-01-introducing-accessibility-testing-in-squidler)
 * [2023-12-01, 16:54:55](https://lobste.rs/s/aywvcs/advent_svelte) - [Advent of Svelte](https://advent.sveltesociety.dev/)
@@ -19,7 +20,6 @@
 * [2023-11-30, 22:10:54](https://lobste.rs/s/mybp8o/code_is_run_more_than_read) - [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
 * [2023-11-30, 21:44:37](https://lobste.rs/s/bupkvi/pelican_4_9_classless_simple_theme_with) - [Pelican 4.9: classless Simple theme with semantic HTML](https://www.paulox.net/2023/11/30/pelican-4.9-classless-simple-theme/)
 * [2023-11-30, 19:14:23](https://lobste.rs/s/demyzs/building_interactive_web_pages_with) - [Building interactive web pages with Guile Hoot](https://spritely.institute/news/building-interactive-web-pages-with-guile-hoot.html)
-* [2023-11-30, 18:20:18](https://lobste.rs/s/wryzqe/another_look_at_bcachefs_performance_on) - [Another Look At The Bcachefs Performance on Linux 6.7](https://www.phoronix.com/review/bcachefs-benchmarks-linux67)
 * [2023-11-30, 17:51:45](https://lobste.rs/s/xqzeys/after_8_years_nethsm_is_available) - [After 8 Years: NetHSM is Available! Formally verified open source HSM](https://www.nitrokey.com/news/2023/after-8-years-development-nethsm-10-available-first-open-source-hardware-security-module)
 * [2023-11-30, 15:24:46](https://lobste.rs/s/66kj5p/three_problems_pinning) - [Three problems of pinning](https://without.boats/blog/three-problems-of-pinning/)
 * [2023-11-30, 13:15:26](https://lobste.rs/s/vwuegy/why_you_can_t_divide_by_zero) - [Why you can't divide by zero](https://garrit.xyz/posts/2023-11-30-why-you-can't-divide-by-zero)
