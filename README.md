@@ -2,6 +2,7 @@
 
 * [2023-12-01, 05:46:11](https://lobste.rs/s/hnsufs/advent_code_2023) - [Advent of Code 2023](https://adventofcode.com/2023)
 * [2023-12-01, 04:30:36](https://lobste.rs/s/zbu3ko/accelerating_generative_ai_with_pytorch) - [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
+* [2023-12-01, 02:52:08](https://lobste.rs/s/oxgdva/first_bits_haiku_compatibility_layer) - [First bits of a Haiku compatibility layer](https://mail-index.netbsd.org/netbsd-users/2023/11/27/msg030366.html)
 * [2023-12-01, 00:55:09](https://lobste.rs/s/img2jx/weirdest_bug_i_ve_seen_yet) - [The Weirdest Bug I’ve Seen Yet](https://engineering.gusto.com/the-weirdest-bug-ive-seen-yet/)
 * [2023-12-01, 00:39:51](https://lobste.rs/s/zzdtkb/my_1fa_is_probably_better_than_your_mfa) - [My 1FA is Probably Better than Your MFA](https://clearops.substack.com/p/my-1fa-is-probably-better-than-your)
 * [2023-12-01, 00:13:31](https://lobste.rs/s/trbciw/response_decade_developing_programming) - [A response to 'A decade of developing a programming language'](https://www.ncameron.org/blog/a-response-to-a-decade-of-developing-a-programming-language/)
@@ -21,7 +22,6 @@
 * [2023-11-30, 11:13:57](https://lobste.rs/s/8t0ed7/ode_neo_grotesque_web) - [An ode to the neo-grotesque web](https://rednafi.com/zephyr/an_ode_to_the_neo_grotesque_web/)
 * [2023-11-30, 08:24:31](https://lobste.rs/s/pdaqro/xcurl_cut_down_fork_libcurl_for_microsoft) - [xCurl, a cut-down fork of libcurl for the Microsoft Game Development Kit](https://daniel.haxx.se/blog/2023/11/30/xcurl/)
 * [2023-11-30, 02:55:06](https://lobste.rs/s/q26ap9/nixos_nixpkgs_23_11) - [NixOS/nixpkgs 23.11](https://github.com/NixOS/nixpkgs/tree/23.11)
-* [2023-11-29, 23:28:17](https://lobste.rs/s/fywoys/introducing_llamafile) - [Introducing llamafile](https://hacks.mozilla.org/2023/11/introducing-llamafile/)
 * [2023-11-29, 21:57:12](https://lobste.rs/s/al2gox/infinite_mac) - [Infinite Mac](https://infinitemac.org/)
 * [2023-11-29, 16:23:14](https://lobste.rs/s/yqj3ae/my_500m_mars_rover_mistake_failure_story) - [My $500M Mars Rover Mistake: A Failure Story](https://www.chrislewicki.com/articles/failurestory)
 * [2023-11-29, 12:48:48](https://lobste.rs/s/hjxd80/rust_std_fs_slower_than_python_no_it_s) - [Rust std fs slower than Python!? No, it's hardware](https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/)
