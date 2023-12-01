@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-01](index.md)
 
+* [2023-12-01, 22:10:50](https://lobste.rs/s/sqzv6p/clang_now_makes_binaries_original_pi_b_can) - [clang now makes binaries an original Pi B+ can't run](https://rachelbythebay.com/w/2023/11/30/armv6/)
 * [2023-12-01, 19:55:54](https://lobste.rs/s/3ehljg/dune3d_3d_cad_application) - [dune3d: 3D CAD application](https://github.com/dune3d/dune3d)
 * [2023-12-01, 19:29:38](https://lobste.rs/s/axq3hi/my_long_quest_revive_90s_windows_gaming) - [My long quest to revive a ’90s Windows gaming cult classic](https://arstechnica.com/gaming/2023/11/my-long-quest-to-revive-a-90s-windows-gaming-cult-classic/)
 * [2023-12-01, 17:38:35](https://lobste.rs/s/zapiyc/you_probably_don_t_need_datetime) - [You (probably) don't need DateTime](https://scorpil.com/post/you-dont-need-datetime/)

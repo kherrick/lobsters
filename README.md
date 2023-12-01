@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-01, 22:10:50](https://lobste.rs/s/sqzv6p/clang_now_makes_binaries_original_pi_b_can) - [clang now makes binaries an original Pi B+ can't run](https://rachelbythebay.com/w/2023/11/30/armv6/)
 * [2023-12-01, 19:55:54](https://lobste.rs/s/3ehljg/dune3d_3d_cad_application) - [dune3d: 3D CAD application](https://github.com/dune3d/dune3d)
 * [2023-12-01, 19:29:38](https://lobste.rs/s/axq3hi/my_long_quest_revive_90s_windows_gaming) - [My long quest to revive a ’90s Windows gaming cult classic](https://arstechnica.com/gaming/2023/11/my-long-quest-to-revive-a-90s-windows-gaming-cult-classic/)
 * [2023-12-01, 17:38:35](https://lobste.rs/s/zapiyc/you_probably_don_t_need_datetime) - [You (probably) don't need DateTime](https://scorpil.com/post/you-dont-need-datetime/)
@@ -11,7 +12,6 @@
 * [2023-12-01, 13:58:22](https://lobste.rs/s/53euzx/untyped_python_python_was) - [Untyped Python: The Python That Was](https://lucumr.pocoo.org/2023/12/1/the-python-that-was/)
 * [2023-12-01, 12:29:42](https://lobste.rs/s/4i1l9y/qemu_advent_calendar_2023) - [QEMU Advent Calendar 2023](https://qemu-advent-calendar.org/2023/)
 * [2023-12-01, 12:05:15](https://lobste.rs/s/7avior/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/7avior/what_are_you_doing_this_weekend)
-* [2023-12-01, 11:15:05](https://lobste.rs/s/wmfyob/release_garn_version_v0_0_17_v0_0_18) - [Release: garn version v0.0.17 and v0.0.18](https://garnix.io/blog/garn-v0_0_18)
 * [2023-12-01, 07:22:39](https://lobste.rs/s/suk9dd/multifaceted_linguistic_echo_chambers) - [Multifaceted: the linguistic echo chambers of LLMs](https://blog.j11y.io/2023-11-22_multifaceted/)
 * [2023-12-01, 05:46:11](https://lobste.rs/s/hnsufs/advent_code_2023) - [Advent of Code 2023](https://adventofcode.com/2023)
 * [2023-12-01, 02:52:08](https://lobste.rs/s/oxgdva/first_bits_haiku_compatibility_layer) - [First bits of a Haiku compatibility layer](https://mail-index.netbsd.org/netbsd-users/2023/11/27/msg030366.html)
