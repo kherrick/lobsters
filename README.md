@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-01, 11:15:05](https://lobste.rs/s/wmfyob/release_garn_version_v0_0_17_v0_0_18) - [Release: garn version v0.0.17 and v0.0.18](https://garnix.io/blog/garn-v0_0_18)
 * [2023-12-01, 07:22:39](https://lobste.rs/s/suk9dd/multifaceted_linguistic_echo_chambers) - [Multifaceted: the linguistic echo chambers of LLMs](https://blog.j11y.io/2023-11-22_multifaceted/)
 * [2023-12-01, 05:46:11](https://lobste.rs/s/hnsufs/advent_code_2023) - [Advent of Code 2023](https://adventofcode.com/2023)
 * [2023-12-01, 04:30:36](https://lobste.rs/s/zbu3ko/accelerating_generative_ai_with_pytorch) - [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
@@ -23,7 +24,6 @@
 * [2023-11-30, 11:13:57](https://lobste.rs/s/8t0ed7/ode_neo_grotesque_web) - [An ode to the neo-grotesque web](https://rednafi.com/zephyr/an_ode_to_the_neo_grotesque_web/)
 * [2023-11-30, 08:24:31](https://lobste.rs/s/pdaqro/xcurl_cut_down_fork_libcurl_for_microsoft) - [xCurl, a cut-down fork of libcurl for the Microsoft Game Development Kit](https://daniel.haxx.se/blog/2023/11/30/xcurl/)
 * [2023-11-30, 02:55:06](https://lobste.rs/s/q26ap9/nixos_nixpkgs_23_11) - [NixOS/nixpkgs 23.11](https://github.com/NixOS/nixpkgs/tree/23.11)
-* [2023-11-29, 16:23:14](https://lobste.rs/s/yqj3ae/my_500m_mars_rover_mistake_failure_story) - [My $500M Mars Rover Mistake: A Failure Story](https://www.chrislewicki.com/articles/failurestory)
 * [2023-11-29, 12:48:48](https://lobste.rs/s/hjxd80/rust_std_fs_slower_than_python_no_it_s) - [Rust std fs slower than Python!? No, it's hardware](https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/)
 
 ## [Archives](archives/index.md)

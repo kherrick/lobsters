@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-01](index.md)
 
+* [2023-12-01, 11:15:05](https://lobste.rs/s/wmfyob/release_garn_version_v0_0_17_v0_0_18) - [Release: garn version v0.0.17 and v0.0.18](https://garnix.io/blog/garn-v0_0_18)
 * [2023-12-01, 07:22:39](https://lobste.rs/s/suk9dd/multifaceted_linguistic_echo_chambers) - [Multifaceted: the linguistic echo chambers of LLMs](https://blog.j11y.io/2023-11-22_multifaceted/)
 * [2023-12-01, 05:46:11](https://lobste.rs/s/hnsufs/advent_code_2023) - [Advent of Code 2023](https://adventofcode.com/2023)
 * [2023-12-01, 04:30:36](https://lobste.rs/s/zbu3ko/accelerating_generative_ai_with_pytorch) - [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
