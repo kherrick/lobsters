@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-02, 15:31:38](https://lobste.rs/s/tffv7n/documentation_unit_tests) - [Documentation unit tests](https://simonwillison.net/2018/Jul/28/documentation-unit-tests/)
 * [2023-12-02, 14:55:01](https://lobste.rs/s/u9gldw/you_don_t_need_javascript_for) - [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
 * [2023-12-02, 13:50:17](https://lobste.rs/s/x7uye5/nerd_snipe_small_integer_parsing) - [Nerd Snipe: Small Integer Parsing](https://blog.loadzero.com/blog/parse-int-nerdsnipe/)
 * [2023-12-02, 13:31:40](https://lobste.rs/s/1l0iu7/designing_distributed_sql_engine) - [Designing a Distributed SQL Engine: Challenges and Decisions](https://en.oceanbase.com/blog/2596985600)
@@ -20,7 +21,6 @@
 * [2023-12-01, 19:55:54](https://lobste.rs/s/3ehljg/dune3d_3d_cad_application) - [dune3d: 3D CAD application](https://github.com/dune3d/dune3d)
 * [2023-12-01, 17:38:35](https://lobste.rs/s/zapiyc/you_probably_don_t_need_datetime) - [You (probably) don't need DateTime](https://scorpil.com/post/you-dont-need-datetime/)
 * [2023-12-01, 15:54:08](https://lobste.rs/s/ltidpd/should_you_split_file) - [Should you split that file?](https://www.pathsensitive.com/2023/12/should-you-split-that-file.html)
-* [2023-12-01, 14:13:03](https://lobste.rs/s/hben3h/arroy_approximate_nearest_neighbors) - [arroy: Approximate Nearest Neighbors in Rust, based on LMDB and optimized for memory usage](https://github.com/meilisearch/arroy)
 * [2023-12-01, 14:10:29](https://lobste.rs/s/nfoya5/useless_ruby_sugar_endless_one_line) - [“Useless Ruby sugar”: Endless (one-line) methods](https://zverok.space/blog/2023-12-01-syntax-sugar5-endless-methods.html)
 * [2023-12-01, 13:58:22](https://lobste.rs/s/53euzx/untyped_python_python_was) - [Untyped Python: The Python That Was](https://lucumr.pocoo.org/2023/12/1/the-python-that-was/)
 * [2023-12-01, 05:46:11](https://lobste.rs/s/hnsufs/advent_code_2023) - [Advent of Code 2023](https://adventofcode.com/2023)
