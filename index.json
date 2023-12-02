@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-02, 15:31:38",
+      "https://lobste.rs/s/tffv7n/documentation_unit_tests"
+    ],
+    [
+      "Documentation unit tests",
+      "https://simonwillison.net/2018/Jul/28/documentation-unit-tests/"
+    ]
+  ],
+  [
+    [
       "2023-12-02, 14:55:01",
       "https://lobste.rs/s/u9gldw/you_don_t_need_javascript_for"
     ],
@@ -197,16 +207,6 @@
     [
       "Should you split that file?",
       "https://www.pathsensitive.com/2023/12/should-you-split-that-file.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-01, 14:13:03",
-      "https://lobste.rs/s/hben3h/arroy_approximate_nearest_neighbors"
-    ],
-    [
-      "arroy: Approximate Nearest Neighbors in Rust, based on LMDB and optimized for memory usage",
-      "https://github.com/meilisearch/arroy"
     ]
   ],
   [
