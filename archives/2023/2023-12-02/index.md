@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 09:11:39](https://lobste.rs/s/e9q09f/tal_is_programming_language_for_uxn) - [Tal is the programming language for the Uxn virtual machine](https://wiki.xxiivv.com/site/uxntal.html)
+* [2023-12-02, 08:59:42](https://lobste.rs/s/ane49g/zklocus_authenticated_private) - [zkLocus: Authenticated Private Geolocation Off & On-Blockchain](https://illya.sh/blog/posts/zklocus-authenticated-geolocation-blockchain-zk/)
 * [2023-12-02, 07:41:22](https://lobste.rs/s/mdgggm/ruby_on_apple_ii) - [Ruby on the Apple II](https://www.youtube.com/watch?v=Qn6TCXJmITM)
 * [2023-12-02, 07:13:13](https://lobste.rs/s/prfqpw/review_dive_into_mikrotik_s_weird) - [Review: A Dive into Mikrotik's Weird SmartNIC (CCR2004-1G-2XS-PCIe)](https://alyx.sh/posts/mikrotiks-weird-smartnic/)
 * [2023-12-02, 06:54:29](https://lobste.rs/s/1ytdx2/unix_v6_shell_how_control_flow_worked_it) - [The Unix V6 shell and how control flow worked in it](https://utcc.utoronto.ca/~cks/space/blog/unix/V6ShellControlFlow)
