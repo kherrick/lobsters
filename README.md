@@ -19,10 +19,10 @@
 * [2023-12-01, 14:13:03](https://lobste.rs/s/hben3h/arroy_approximate_nearest_neighbors) - [arroy: Approximate Nearest Neighbors in Rust, based on LMDB and optimized for memory usage](https://github.com/meilisearch/arroy)
 * [2023-12-01, 14:10:29](https://lobste.rs/s/nfoya5/useless_ruby_sugar_endless_one_line) - [“Useless Ruby sugar”: Endless (one-line) methods](https://zverok.space/blog/2023-12-01-syntax-sugar5-endless-methods.html)
 * [2023-12-01, 13:58:22](https://lobste.rs/s/53euzx/untyped_python_python_was) - [Untyped Python: The Python That Was](https://lucumr.pocoo.org/2023/12/1/the-python-that-was/)
+* [2023-12-01, 12:29:42](https://lobste.rs/s/4i1l9y/qemu_advent_calendar_2023) - [QEMU Advent Calendar 2023](https://qemu-advent-calendar.org/2023/)
 * [2023-12-01, 12:05:15](https://lobste.rs/s/7avior/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/7avior/what_are_you_doing_this_weekend)
 * [2023-12-01, 07:22:39](https://lobste.rs/s/suk9dd/multifaceted_linguistic_echo_chambers) - [Multifaceted: the linguistic echo chambers of LLMs](https://blog.j11y.io/2023-11-22_multifaceted/)
 * [2023-12-01, 05:46:11](https://lobste.rs/s/hnsufs/advent_code_2023) - [Advent of Code 2023](https://adventofcode.com/2023)
-* [2023-12-01, 00:13:31](https://lobste.rs/s/trbciw/response_decade_developing_programming) - [A response to 'A decade of developing a programming language'](https://www.ncameron.org/blog/a-response-to-a-decade-of-developing-a-programming-language/)
 * [2023-11-30, 22:10:54](https://lobste.rs/s/mybp8o/code_is_run_more_than_read) - [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
 * [2023-11-30, 13:15:26](https://lobste.rs/s/vwuegy/why_you_can_t_divide_by_zero) - [Why you can't divide by zero](https://garrit.xyz/posts/2023-11-30-why-you-can't-divide-by-zero)
 
