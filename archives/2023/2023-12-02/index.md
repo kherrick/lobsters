@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 13:31:40](https://lobste.rs/s/1l0iu7/designing_distributed_sql_engine) - [Designing a Distributed SQL Engine: Challenges and Decisions](https://en.oceanbase.com/blog/2596985600)
 * [2023-12-02, 12:47:16](https://lobste.rs/s/vjpuxr/dotfile_stewardship_for_indolent) - [Dotfile stewardship for the indolent](https://rednafi.com/misc/dotfile_stewardship_for_the_indolent/)
 * [2023-12-02, 12:25:31](https://lobste.rs/s/lolxer/double_it_like_dekker_remarkable) - [Double it Like Dekker: A Remarkable Technique to Double Floating Point Precision](https://www.youtube.com/watch?v=6OuqnaHHUG8)
 * [2023-12-02, 12:01:30](https://lobste.rs/s/7ah6p5/binding_source_code_files_together_like) - [Binding Source Code Files Together Like A Book](https://www.1a-insec.net/blog/17-bind-source-code-together/)

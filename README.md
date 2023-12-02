@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-02, 13:31:40](https://lobste.rs/s/1l0iu7/designing_distributed_sql_engine) - [Designing a Distributed SQL Engine: Challenges and Decisions](https://en.oceanbase.com/blog/2596985600)
 * [2023-12-02, 12:47:16](https://lobste.rs/s/vjpuxr/dotfile_stewardship_for_indolent) - [Dotfile stewardship for the indolent](https://rednafi.com/misc/dotfile_stewardship_for_the_indolent/)
 * [2023-12-02, 12:25:31](https://lobste.rs/s/lolxer/double_it_like_dekker_remarkable) - [Double it Like Dekker: A Remarkable Technique to Double Floating Point Precision](https://www.youtube.com/watch?v=6OuqnaHHUG8)
 * [2023-12-02, 12:01:30](https://lobste.rs/s/7ah6p5/binding_source_code_files_together_like) - [Binding Source Code Files Together Like A Book](https://www.1a-insec.net/blog/17-bind-source-code-together/)
@@ -13,7 +14,6 @@
 * [2023-12-02, 07:13:13](https://lobste.rs/s/prfqpw/review_dive_into_mikrotik_s_weird) - [Review: A Dive into Mikrotik's Weird SmartNIC (CCR2004-1G-2XS-PCIe)](https://alyx.sh/posts/mikrotiks-weird-smartnic/)
 * [2023-12-02, 06:54:29](https://lobste.rs/s/1ytdx2/unix_v6_shell_how_control_flow_worked_it) - [The Unix V6 shell and how control flow worked in it](https://utcc.utoronto.ca/~cks/space/blog/unix/V6ShellControlFlow)
 * [2023-12-02, 04:20:41](https://lobste.rs/s/h4egaz/oils_winter_status_update) - [Oils Winter Status Update](https://www.oilshell.org/blog/2023/11/status-update.html)
-* [2023-12-02, 02:33:04](https://lobste.rs/s/cxmcil/stop_building_databases) - [Stop building databases](https://sqlsync.dev/posts/stop-building-databases/)
 * [2023-12-02, 00:16:06](https://lobste.rs/s/rnhzgk/datasette_enrichments_new_plugin) - [Datasette Enrichments: a new plugin framework for augmenting your data](https://simonwillison.net/2023/Dec/1/datasette-enrichments/)
 * [2023-12-01, 22:10:50](https://lobste.rs/s/sqzv6p/clang_now_makes_binaries_original_pi_b_can) - [clang now makes binaries an original Pi B+ can't run](https://rachelbythebay.com/w/2023/11/30/armv6/)
 * [2023-12-01, 19:55:54](https://lobste.rs/s/3ehljg/dune3d_3d_cad_application) - [dune3d: 3D CAD application](https://github.com/dune3d/dune3d)
