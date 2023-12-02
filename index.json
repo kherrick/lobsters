@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2023-12-02, 11:59:42",
-      "https://lobste.rs/s/holkgj/not_everything_is_google_s_fault_just_many"
-    ],
-    [
-      "Not Everything Is Google’s Fault (Just Many Things)",
-      "https://blog.railway.app/p/gcp-incidents"
-    ]
-  ],
-  [
-    [
       "2023-12-02, 11:20:36",
       "https://lobste.rs/s/mnohco/monocypher_4_clean_break"
     ],
@@ -207,6 +197,16 @@
     [
       "Should you split that file?",
       "https://www.pathsensitive.com/2023/12/should-you-split-that-file.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-01, 14:13:03",
+      "https://lobste.rs/s/hben3h/arroy_approximate_nearest_neighbors"
+    ],
+    [
+      "arroy: Approximate Nearest Neighbors in Rust, based on LMDB and optimized for memory usage",
+      "https://github.com/meilisearch/arroy"
     ]
   ],
   [
