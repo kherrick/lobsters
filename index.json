@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-02, 02:33:04",
+      "https://lobste.rs/s/cxmcil/stop_building_databases"
+    ],
+    [
+      "Stop building databases",
+      "https://sqlsync.dev/posts/stop-building-databases/"
+    ]
+  ],
+  [
+    [
       "2023-12-02, 00:37:02",
       "https://lobste.rs/s/lke9az/fixing_canvas"
     ],
@@ -157,16 +167,6 @@
     [
       "First bits of a Haiku compatibility layer",
       "https://mail-index.netbsd.org/netbsd-users/2023/11/27/msg030366.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-01, 00:55:09",
-      "https://lobste.rs/s/img2jx/weirdest_bug_i_ve_seen_yet"
-    ],
-    [
-      "The Weirdest Bug I’ve Seen Yet",
-      "https://engineering.gusto.com/the-weirdest-bug-ive-seen-yet/"
     ]
   ],
   [
