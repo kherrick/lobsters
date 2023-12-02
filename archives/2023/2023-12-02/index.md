@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 19:50:17](https://lobste.rs/s/v2whob/let_s_learn_how_modern_javascript) - [Let’s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 * [2023-12-02, 18:09:57](https://lobste.rs/s/jkzox5/running_graylog_on_windows) - [Running Graylog on Windows](https://virtuallyfun.com/2023/12/02/running-graylog-on-windows/)
 * [2023-12-02, 17:26:20](https://lobste.rs/s/oypgig/all_i_want_is_know_what_s_different_re) - [All I want is to know what's different [re: validating metrics]](https://benn.substack.com/p/all-i-want-is-to-know-whats-different)
 * [2023-12-02, 15:31:38](https://lobste.rs/s/tffv7n/documentation_unit_tests) - [Documentation unit tests](https://simonwillison.net/2018/Jul/28/documentation-unit-tests/)
