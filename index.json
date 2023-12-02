@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-02, 05:49:38",
+      "https://lobste.rs/s/awf9r3/html_design_principles"
+    ],
+    [
+      "HTML Design Principles",
+      "https://www.w3.org/TR/html-design-principles/"
+    ]
+  ],
+  [
+    [
       "2023-12-02, 04:20:41",
       "https://lobste.rs/s/h4egaz/oils_winter_status_update"
     ],
@@ -217,16 +227,6 @@
     [
       "Building interactive web pages with Guile Hoot",
       "https://spritely.institute/news/building-interactive-web-pages-with-guile-hoot.html"
-    ]
-  ],
-  [
-    [
-      "2023-11-30, 17:51:45",
-      "https://lobste.rs/s/xqzeys/after_8_years_nethsm_is_available"
-    ],
-    [
-      "After 8 Years: NetHSM is Available! Formally verified open source HSM",
-      "https://www.nitrokey.com/news/2023/after-8-years-development-nethsm-10-available-first-open-source-hardware-security-module"
     ]
   ],
   [
