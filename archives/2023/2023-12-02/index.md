@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 07:41:22](https://lobste.rs/s/mdgggm/ruby_on_apple_ii) - [Ruby on the Apple II](https://www.youtube.com/watch?v=Qn6TCXJmITM)
 * [2023-12-02, 07:13:13](https://lobste.rs/s/prfqpw/review_dive_into_mikrotik_s_weird) - [Review: A Dive into Mikrotik's Weird SmartNIC (CCR2004-1G-2XS-PCIe)](https://alyx.sh/posts/mikrotiks-weird-smartnic/)
 * [2023-12-02, 06:54:29](https://lobste.rs/s/1ytdx2/unix_v6_shell_how_control_flow_worked_it) - [The Unix V6 shell and how control flow worked in it](https://utcc.utoronto.ca/~cks/space/blog/unix/V6ShellControlFlow)
 * [2023-12-02, 05:49:38](https://lobste.rs/s/awf9r3/html_design_principles) - [HTML Design Principles](https://www.w3.org/TR/html-design-principles/)
