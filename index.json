@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-02, 20:16:59",
+      "https://lobste.rs/s/wdmeji/graphite_keyboard_layout"
+    ],
+    [
+      "Graphite keyboard layout",
+      "https://github.com/rdavison/graphite-layout"
+    ]
+  ],
+  [
+    [
       "2023-12-02, 19:50:17",
       "https://lobste.rs/s/v2whob/let_s_learn_how_modern_javascript"
     ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2023-12-02, 13:31:40",
-      "https://lobste.rs/s/1l0iu7/designing_distributed_sql_engine"
-    ],
-    [
-      "Designing a Distributed SQL Engine: Challenges and Decisions",
-      "https://en.oceanbase.com/blog/2596985600"
-    ]
-  ],
-  [
-    [
       "2023-12-02, 12:25:31",
       "https://lobste.rs/s/lolxer/double_it_like_dekker_remarkable"
     ],
@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2023-12-02, 10:21:22",
+      "https://lobste.rs/s/6gom51/implementing_lock_free_snowflake_id"
+    ],
+    [
+      "Implementing a Lock-Free Snowflake ID Generator",
+      "https://lu.sagebl.eu/notes/implementing-lock-free-snowflake-id-generator/"
+    ]
+  ],
+  [
+    [
       "2023-12-02, 09:58:55",
       "https://lobste.rs/s/2bayti/unveiling_power_nixos_integration_test"
     ],
@@ -137,6 +147,16 @@
     [
       "Tal is the programming language for the Uxn virtual machine",
       "https://wiki.xxiivv.com/site/uxntal.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-02, 07:13:13",
+      "https://lobste.rs/s/prfqpw/review_dive_into_mikrotik_s_weird"
+    ],
+    [
+      "Review: A Dive into Mikrotik's Weird SmartNIC (CCR2004-1G-2XS-PCIe)",
+      "https://alyx.sh/posts/mikrotiks-weird-smartnic/"
     ]
   ],
   [
@@ -207,26 +227,6 @@
     [
       "Should you split that file?",
       "https://www.pathsensitive.com/2023/12/should-you-split-that-file.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-01, 14:10:29",
-      "https://lobste.rs/s/nfoya5/useless_ruby_sugar_endless_one_line"
-    ],
-    [
-      "“Useless Ruby sugar”: Endless (one-line) methods",
-      "https://zverok.space/blog/2023-12-01-syntax-sugar5-endless-methods.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-01, 13:58:22",
-      "https://lobste.rs/s/53euzx/untyped_python_python_was"
-    ],
-    [
-      "Untyped Python: The Python That Was",
-      "https://lucumr.pocoo.org/2023/12/1/the-python-that-was/"
     ]
   ],
   [
