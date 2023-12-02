@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 14:55:01](https://lobste.rs/s/u9gldw/you_don_t_need_javascript_for) - [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
 * [2023-12-02, 13:50:17](https://lobste.rs/s/x7uye5/nerd_snipe_small_integer_parsing) - [Nerd Snipe: Small Integer Parsing](https://blog.loadzero.com/blog/parse-int-nerdsnipe/)
 * [2023-12-02, 13:31:40](https://lobste.rs/s/1l0iu7/designing_distributed_sql_engine) - [Designing a Distributed SQL Engine: Challenges and Decisions](https://en.oceanbase.com/blog/2596985600)
 * [2023-12-02, 12:47:16](https://lobste.rs/s/vjpuxr/dotfile_stewardship_for_indolent) - [Dotfile stewardship for the indolent](https://rednafi.com/misc/dotfile_stewardship_for_the_indolent/)
