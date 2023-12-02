@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-02, 21:29:37",
+      "https://lobste.rs/s/wvd8hg/efficient_nix_derivations_with_file_sets"
+    ],
+    [
+      "Efficient Nix Derivations with File Sets",
+      "https://johns.codes/blog/efficient-nix-derivations-with-file-sets"
+    ]
+  ],
+  [
+    [
       "2023-12-02, 20:16:59",
       "https://lobste.rs/s/wdmeji/graphite_keyboard_layout"
     ],
@@ -197,16 +207,6 @@
     [
       "clang now makes binaries an original Pi B+ can't run",
       "https://rachelbythebay.com/w/2023/11/30/armv6/"
-    ]
-  ],
-  [
-    [
-      "2023-12-01, 19:55:54",
-      "https://lobste.rs/s/3ehljg/dune3d_3d_cad_application"
-    ],
-    [
-      "dune3d: 3D CAD application",
-      "https://github.com/dune3d/dune3d"
     ]
   ],
   [
