@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-02, 06:54:29](https://lobste.rs/s/1ytdx2/unix_v6_shell_how_control_flow_worked_it) - [The Unix V6 shell and how control flow worked in it](https://utcc.utoronto.ca/~cks/space/blog/unix/V6ShellControlFlow)
 * [2023-12-02, 05:49:38](https://lobste.rs/s/awf9r3/html_design_principles) - [HTML Design Principles](https://www.w3.org/TR/html-design-principles/)
 * [2023-12-02, 04:20:41](https://lobste.rs/s/h4egaz/oils_winter_status_update) - [Oils Winter Status Update](https://www.oilshell.org/blog/2023/11/status-update.html)
 * [2023-12-02, 02:33:04](https://lobste.rs/s/cxmcil/stop_building_databases) - [Stop building databases](https://sqlsync.dev/posts/stop-building-databases/)
@@ -24,7 +25,6 @@
 * [2023-11-30, 22:10:54](https://lobste.rs/s/mybp8o/code_is_run_more_than_read) - [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
 * [2023-11-30, 19:14:23](https://lobste.rs/s/demyzs/building_interactive_web_pages_with) - [Building interactive web pages with Guile Hoot](https://spritely.institute/news/building-interactive-web-pages-with-guile-hoot.html)
 * [2023-11-30, 13:15:26](https://lobste.rs/s/vwuegy/why_you_can_t_divide_by_zero) - [Why you can't divide by zero](https://garrit.xyz/posts/2023-11-30-why-you-can't-divide-by-zero)
-* [2023-11-30, 11:13:57](https://lobste.rs/s/8t0ed7/ode_neo_grotesque_web) - [An ode to the neo-grotesque web](https://rednafi.com/zephyr/an_ode_to_the_neo_grotesque_web/)
 
 ## [Archives](archives/index.md)
 
