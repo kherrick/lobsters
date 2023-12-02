@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-02, 07:13:13](https://lobste.rs/s/prfqpw/review_dive_into_mikrotik_s_weird) - [Review: A Dive into Mikrotik's Weird SmartNIC (CCR2004-1G-2XS-PCIe)](https://alyx.sh/posts/mikrotiks-weird-smartnic/)
 * [2023-12-02, 06:54:29](https://lobste.rs/s/1ytdx2/unix_v6_shell_how_control_flow_worked_it) - [The Unix V6 shell and how control flow worked in it](https://utcc.utoronto.ca/~cks/space/blog/unix/V6ShellControlFlow)
 * [2023-12-02, 05:49:38](https://lobste.rs/s/awf9r3/html_design_principles) - [HTML Design Principles](https://www.w3.org/TR/html-design-principles/)
 * [2023-12-02, 04:20:41](https://lobste.rs/s/h4egaz/oils_winter_status_update) - [Oils Winter Status Update](https://www.oilshell.org/blog/2023/11/status-update.html)
@@ -21,7 +22,6 @@
 * [2023-12-01, 05:46:11](https://lobste.rs/s/hnsufs/advent_code_2023) - [Advent of Code 2023](https://adventofcode.com/2023)
 * [2023-12-01, 02:52:08](https://lobste.rs/s/oxgdva/first_bits_haiku_compatibility_layer) - [First bits of a Haiku compatibility layer](https://mail-index.netbsd.org/netbsd-users/2023/11/27/msg030366.html)
 * [2023-12-01, 00:13:31](https://lobste.rs/s/trbciw/response_decade_developing_programming) - [A response to 'A decade of developing a programming language'](https://www.ncameron.org/blog/a-response-to-a-decade-of-developing-a-programming-language/)
-* [2023-11-30, 22:45:06](https://lobste.rs/s/bpjhzm/computed_properties_for_haskell_records) - [Computed Properties for Haskell Records](https://alt-romes.github.io/posts/2023-11-30-computed-properties-for-haskell-records.html)
 * [2023-11-30, 22:10:54](https://lobste.rs/s/mybp8o/code_is_run_more_than_read) - [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
 * [2023-11-30, 19:14:23](https://lobste.rs/s/demyzs/building_interactive_web_pages_with) - [Building interactive web pages with Guile Hoot](https://spritely.institute/news/building-interactive-web-pages-with-guile-hoot.html)
 * [2023-11-30, 13:15:26](https://lobste.rs/s/vwuegy/why_you_can_t_divide_by_zero) - [Why you can't divide by zero](https://garrit.xyz/posts/2023-11-30-why-you-can't-divide-by-zero)
