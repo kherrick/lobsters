@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 11:20:36](https://lobste.rs/s/mnohco/monocypher_4_clean_break) - [Monocypher 4: The Clean Break](https://loup-vaillant.fr/articles/monocypher-4)
+* [2023-12-02, 11:18:58](https://lobste.rs/s/h8tont/porting_hare_openbsd) - [Porting Hare to OpenBSD](https://harelang.org/blog/2023-12-01-porting-hare-to-openbsd/)
 * [2023-12-02, 10:50:44](https://lobste.rs/s/07u3nq/reaction_replacement_fail2ban) - [reaction, in replacement of fail2ban](https://blog.ppom.me/en-reaction/)
 * [2023-12-02, 10:21:22](https://lobste.rs/s/6gom51/implementing_lock_free_snowflake_id) - [Implementing a Lock-Free Snowflake ID Generator](https://lu.sagebl.eu/notes/implementing-lock-free-snowflake-id-generator/)
 * [2023-12-02, 09:58:55](https://lobste.rs/s/2bayti/unveiling_power_nixos_integration_test) - [Unveiling the Power of the NixOS Integration Test Driver (Part 2)](https://nixcademy.com/2023/12/01/nixos-integration-tests-part-2/)
