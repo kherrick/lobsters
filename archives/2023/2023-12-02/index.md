@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 21:29:37](https://lobste.rs/s/wvd8hg/efficient_nix_derivations_with_file_sets) - [Efficient Nix Derivations with File Sets](https://johns.codes/blog/efficient-nix-derivations-with-file-sets)
 * [2023-12-02, 20:16:59](https://lobste.rs/s/wdmeji/graphite_keyboard_layout) - [Graphite keyboard layout](https://github.com/rdavison/graphite-layout)
 * [2023-12-02, 19:50:17](https://lobste.rs/s/v2whob/let_s_learn_how_modern_javascript) - [Let’s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 * [2023-12-02, 18:09:57](https://lobste.rs/s/jkzox5/running_graylog_on_windows) - [Running Graylog on Windows](https://virtuallyfun.com/2023/12/02/running-graylog-on-windows/)
