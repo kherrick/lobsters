@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-02, 17:26:20",
+      "https://lobste.rs/s/oypgig/all_i_want_is_know_what_s_different_re"
+    ],
+    [
+      "All I want is to know what's different [re: validating metrics]",
+      "https://benn.substack.com/p/all-i-want-is-to-know-whats-different"
+    ]
+  ],
+  [
+    [
       "2023-12-02, 15:31:38",
       "https://lobste.rs/s/tffv7n/documentation_unit_tests"
     ],
@@ -197,16 +207,6 @@
     [
       "Should you split that file?",
       "https://www.pathsensitive.com/2023/12/should-you-split-that-file.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-01, 14:13:03",
-      "https://lobste.rs/s/hben3h/arroy_approximate_nearest_neighbors"
-    ],
-    [
-      "arroy: Approximate Nearest Neighbors in Rust, based on LMDB and optimized for memory usage",
-      "https://github.com/meilisearch/arroy"
     ]
   ],
   [
