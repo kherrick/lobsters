@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 10:50:44](https://lobste.rs/s/07u3nq/reaction_replacement_fail2ban) - [reaction, in replacement of fail2ban](https://blog.ppom.me/en-reaction/)
 * [2023-12-02, 10:21:22](https://lobste.rs/s/6gom51/implementing_lock_free_snowflake_id) - [Implementing a Lock-Free Snowflake ID Generator](https://lu.sagebl.eu/notes/implementing-lock-free-snowflake-id-generator/)
 * [2023-12-02, 09:58:55](https://lobste.rs/s/2bayti/unveiling_power_nixos_integration_test) - [Unveiling the Power of the NixOS Integration Test Driver (Part 2)](https://nixcademy.com/2023/12/01/nixos-integration-tests-part-2/)
 * [2023-12-02, 09:11:39](https://lobste.rs/s/e9q09f/tal_is_programming_language_for_uxn) - [Tal is the programming language for the Uxn virtual machine](https://wiki.xxiivv.com/site/uxntal.html)

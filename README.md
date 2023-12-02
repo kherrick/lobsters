@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-02, 10:50:44](https://lobste.rs/s/07u3nq/reaction_replacement_fail2ban) - [reaction, in replacement of fail2ban](https://blog.ppom.me/en-reaction/)
 * [2023-12-02, 10:21:22](https://lobste.rs/s/6gom51/implementing_lock_free_snowflake_id) - [Implementing a Lock-Free Snowflake ID Generator](https://lu.sagebl.eu/notes/implementing-lock-free-snowflake-id-generator/)
 * [2023-12-02, 09:58:55](https://lobste.rs/s/2bayti/unveiling_power_nixos_integration_test) - [Unveiling the Power of the NixOS Integration Test Driver (Part 2)](https://nixcademy.com/2023/12/01/nixos-integration-tests-part-2/)
 * [2023-12-02, 09:11:39](https://lobste.rs/s/e9q09f/tal_is_programming_language_for_uxn) - [Tal is the programming language for the Uxn virtual machine](https://wiki.xxiivv.com/site/uxntal.html)
@@ -24,7 +25,6 @@
 * [2023-12-01, 07:22:39](https://lobste.rs/s/suk9dd/multifaceted_linguistic_echo_chambers) - [Multifaceted: the linguistic echo chambers of LLMs](https://blog.j11y.io/2023-11-22_multifaceted/)
 * [2023-12-01, 05:46:11](https://lobste.rs/s/hnsufs/advent_code_2023) - [Advent of Code 2023](https://adventofcode.com/2023)
 * [2023-11-30, 22:10:54](https://lobste.rs/s/mybp8o/code_is_run_more_than_read) - [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
-* [2023-11-30, 13:15:26](https://lobste.rs/s/vwuegy/why_you_can_t_divide_by_zero) - [Why you can't divide by zero](https://garrit.xyz/posts/2023-11-30-why-you-can't-divide-by-zero)
 
 ## [Archives](archives/index.md)
 
