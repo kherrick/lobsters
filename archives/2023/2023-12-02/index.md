@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 09:58:55](https://lobste.rs/s/2bayti/unveiling_power_nixos_integration_test) - [Unveiling the Power of the NixOS Integration Test Driver (Part 2)](https://nixcademy.com/2023/12/01/nixos-integration-tests-part-2/)
 * [2023-12-02, 09:11:39](https://lobste.rs/s/e9q09f/tal_is_programming_language_for_uxn) - [Tal is the programming language for the Uxn virtual machine](https://wiki.xxiivv.com/site/uxntal.html)
 * [2023-12-02, 08:59:42](https://lobste.rs/s/ane49g/zklocus_authenticated_private) - [zkLocus: Authenticated Private Geolocation Off & On-Blockchain](https://illya.sh/blog/posts/zklocus-authenticated-geolocation-blockchain-zk/)
 * [2023-12-02, 07:41:22](https://lobste.rs/s/mdgggm/ruby_on_apple_ii) - [Ruby on the Apple II](https://www.youtube.com/watch?v=Qn6TCXJmITM)
