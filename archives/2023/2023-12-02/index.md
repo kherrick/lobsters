@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 12:25:31](https://lobste.rs/s/lolxer/double_it_like_dekker_remarkable) - [Double it Like Dekker: A Remarkable Technique to Double Floating Point Precision](https://www.youtube.com/watch?v=6OuqnaHHUG8)
+* [2023-12-02, 12:01:30](https://lobste.rs/s/7ah6p5/binding_source_code_files_together_like) - [Binding Source Code Files Together Like A Book](https://www.1a-insec.net/blog/17-bind-source-code-together/)
+* [2023-12-02, 11:59:42](https://lobste.rs/s/holkgj/not_everything_is_google_s_fault_just_many) - [Not Everything Is Google’s Fault (Just Many Things)](https://blog.railway.app/p/gcp-incidents)
 * [2023-12-02, 11:20:36](https://lobste.rs/s/mnohco/monocypher_4_clean_break) - [Monocypher 4: The Clean Break](https://loup-vaillant.fr/articles/monocypher-4)
 * [2023-12-02, 11:18:58](https://lobste.rs/s/h8tont/porting_hare_openbsd) - [Porting Hare to OpenBSD](https://harelang.org/blog/2023-12-01-porting-hare-to-openbsd/)
 * [2023-12-02, 10:50:44](https://lobste.rs/s/07u3nq/reaction_replacement_fail2ban) - [reaction, in replacement of fail2ban](https://blog.ppom.me/en-reaction/)
