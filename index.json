@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-02, 22:04:49",
+      "https://lobste.rs/s/nsa5b0/original_congruence_closure_paper"
+    ],
+    [
+      "Original Congruence Closure Paper in Python with Egglog",
+      "https://egglog-python.readthedocs.io/latest/explanation/2023_12_02_congruence_closure.html"
+    ]
+  ],
+  [
+    [
       "2023-12-02, 21:29:37",
       "https://lobste.rs/s/wvd8hg/efficient_nix_derivations_with_file_sets"
     ],
@@ -157,16 +167,6 @@
     [
       "Tal is the programming language for the Uxn virtual machine",
       "https://wiki.xxiivv.com/site/uxntal.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-02, 07:13:13",
-      "https://lobste.rs/s/prfqpw/review_dive_into_mikrotik_s_weird"
-    ],
-    [
-      "Review: A Dive into Mikrotik's Weird SmartNIC (CCR2004-1G-2XS-PCIe)",
-      "https://alyx.sh/posts/mikrotiks-weird-smartnic/"
     ]
   ],
   [
