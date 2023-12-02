@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 23:53:04](https://lobste.rs/s/o6doy1/why_are_golang_heaps_so_complicated) - [Why Are Golang Heaps So Complicated](https://www.dolthub.com/blog/2023-12-01-why-are-go-heaps-confusing)
+* [2023-12-02, 23:52:31](https://lobste.rs/s/nogwtn/nix_snapshotter_native_understanding) - [Nix-snapshotter: Native understanding of Nix packages for containerd](https://discourse.nixos.org/t/nix-snapshotter-native-understanding-of-nix-packages-for-containerd/32696)
 * [2023-12-02, 23:06:43](https://lobste.rs/s/2y27wp/eddsa_ed25519_ed25519_ietf_ed25519ph) - [EdDSA, Ed25519, Ed25519-IETF, Ed25519ph, Ed25519ctx, HashEdDSA, PureEdDSA, WTF?](https://cryptologie.net/article/497/eddsa-ed25519-ed25519-ietf-ed25519ph-ed25519ctx-hasheddsa-pureeddsa-wtf/)
 * [2023-12-02, 22:04:49](https://lobste.rs/s/nsa5b0/original_congruence_closure_paper) - [Original Congruence Closure Paper in Python with Egglog](https://egglog-python.readthedocs.io/latest/explanation/2023_12_02_congruence_closure.html)
 * [2023-12-02, 21:29:37](https://lobste.rs/s/wvd8hg/efficient_nix_derivations_with_file_sets) - [Efficient Nix Derivations with File Sets](https://johns.codes/blog/efficient-nix-derivations-with-file-sets)
