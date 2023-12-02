@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-02](index.md)
 
+* [2023-12-02, 05:49:38](https://lobste.rs/s/awf9r3/html_design_principles) - [HTML Design Principles](https://www.w3.org/TR/html-design-principles/)
 * [2023-12-02, 04:20:41](https://lobste.rs/s/h4egaz/oils_winter_status_update) - [Oils Winter Status Update](https://www.oilshell.org/blog/2023/11/status-update.html)
 * [2023-12-02, 02:33:04](https://lobste.rs/s/cxmcil/stop_building_databases) - [Stop building databases](https://sqlsync.dev/posts/stop-building-databases/)
 * [2023-12-02, 00:37:02](https://lobste.rs/s/lke9az/fixing_canvas) - [Fixing Canvas](http://basalgangster.macgui.com/RetroMacComputing/The_Long_View/Entries/2010/4/10_Fixing_Canvas.html)

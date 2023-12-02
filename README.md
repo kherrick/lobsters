@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-02, 05:49:38](https://lobste.rs/s/awf9r3/html_design_principles) - [HTML Design Principles](https://www.w3.org/TR/html-design-principles/)
 * [2023-12-02, 04:20:41](https://lobste.rs/s/h4egaz/oils_winter_status_update) - [Oils Winter Status Update](https://www.oilshell.org/blog/2023/11/status-update.html)
 * [2023-12-02, 02:33:04](https://lobste.rs/s/cxmcil/stop_building_databases) - [Stop building databases](https://sqlsync.dev/posts/stop-building-databases/)
 * [2023-12-02, 00:37:02](https://lobste.rs/s/lke9az/fixing_canvas) - [Fixing Canvas](http://basalgangster.macgui.com/RetroMacComputing/The_Long_View/Entries/2010/4/10_Fixing_Canvas.html)
@@ -22,7 +23,6 @@
 * [2023-11-30, 22:45:06](https://lobste.rs/s/bpjhzm/computed_properties_for_haskell_records) - [Computed Properties for Haskell Records](https://alt-romes.github.io/posts/2023-11-30-computed-properties-for-haskell-records.html)
 * [2023-11-30, 22:10:54](https://lobste.rs/s/mybp8o/code_is_run_more_than_read) - [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
 * [2023-11-30, 19:14:23](https://lobste.rs/s/demyzs/building_interactive_web_pages_with) - [Building interactive web pages with Guile Hoot](https://spritely.institute/news/building-interactive-web-pages-with-guile-hoot.html)
-* [2023-11-30, 17:51:45](https://lobste.rs/s/xqzeys/after_8_years_nethsm_is_available) - [After 8 Years: NetHSM is Available! Formally verified open source HSM](https://www.nitrokey.com/news/2023/after-8-years-development-nethsm-10-available-first-open-source-hardware-security-module)
 * [2023-11-30, 13:15:26](https://lobste.rs/s/vwuegy/why_you_can_t_divide_by_zero) - [Why you can't divide by zero](https://garrit.xyz/posts/2023-11-30-why-you-can't-divide-by-zero)
 * [2023-11-30, 11:13:57](https://lobste.rs/s/8t0ed7/ode_neo_grotesque_web) - [An ode to the neo-grotesque web](https://rednafi.com/zephyr/an_ode_to_the_neo_grotesque_web/)
 
