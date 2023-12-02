@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2023-12-02, 12:25:31",
+      "https://lobste.rs/s/lolxer/double_it_like_dekker_remarkable"
+    ],
+    [
+      "Double it Like Dekker: A Remarkable Technique to Double Floating Point Precision",
+      "https://www.youtube.com/watch?v=6OuqnaHHUG8"
+    ]
+  ],
+  [
+    [
       "2023-12-02, 12:01:30",
       "https://lobste.rs/s/7ah6p5/binding_source_code_files_together_like"
     ],
@@ -97,16 +107,6 @@
     [
       "reaction, in replacement of fail2ban",
       "https://blog.ppom.me/en-reaction/"
-    ]
-  ],
-  [
-    [
-      "2023-12-02, 10:21:22",
-      "https://lobste.rs/s/6gom51/implementing_lock_free_snowflake_id"
-    ],
-    [
-      "Implementing a Lock-Free Snowflake ID Generator",
-      "https://lu.sagebl.eu/notes/implementing-lock-free-snowflake-id-generator/"
     ]
   ],
   [
