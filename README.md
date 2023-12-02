@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-02, 02:33:04](https://lobste.rs/s/cxmcil/stop_building_databases) - [Stop building databases](https://sqlsync.dev/posts/stop-building-databases/)
 * [2023-12-02, 00:37:02](https://lobste.rs/s/lke9az/fixing_canvas) - [Fixing Canvas](http://basalgangster.macgui.com/RetroMacComputing/The_Long_View/Entries/2010/4/10_Fixing_Canvas.html)
 * [2023-12-02, 00:16:06](https://lobste.rs/s/rnhzgk/datasette_enrichments_new_plugin) - [Datasette Enrichments: a new plugin framework for augmenting your data](https://simonwillison.net/2023/Dec/1/datasette-enrichments/)
 * [2023-12-01, 22:10:50](https://lobste.rs/s/sqzv6p/clang_now_makes_binaries_original_pi_b_can) - [clang now makes binaries an original Pi B+ can't run](https://rachelbythebay.com/w/2023/11/30/armv6/)
@@ -16,7 +17,6 @@
 * [2023-12-01, 07:22:39](https://lobste.rs/s/suk9dd/multifaceted_linguistic_echo_chambers) - [Multifaceted: the linguistic echo chambers of LLMs](https://blog.j11y.io/2023-11-22_multifaceted/)
 * [2023-12-01, 05:46:11](https://lobste.rs/s/hnsufs/advent_code_2023) - [Advent of Code 2023](https://adventofcode.com/2023)
 * [2023-12-01, 02:52:08](https://lobste.rs/s/oxgdva/first_bits_haiku_compatibility_layer) - [First bits of a Haiku compatibility layer](https://mail-index.netbsd.org/netbsd-users/2023/11/27/msg030366.html)
-* [2023-12-01, 00:55:09](https://lobste.rs/s/img2jx/weirdest_bug_i_ve_seen_yet) - [The Weirdest Bug I’ve Seen Yet](https://engineering.gusto.com/the-weirdest-bug-ive-seen-yet/)
 * [2023-12-01, 00:13:31](https://lobste.rs/s/trbciw/response_decade_developing_programming) - [A response to 'A decade of developing a programming language'](https://www.ncameron.org/blog/a-response-to-a-decade-of-developing-a-programming-language/)
 * [2023-11-30, 22:45:06](https://lobste.rs/s/bpjhzm/computed_properties_for_haskell_records) - [Computed Properties for Haskell Records](https://alt-romes.github.io/posts/2023-11-30-computed-properties-for-haskell-records.html)
 * [2023-11-30, 22:10:54](https://lobste.rs/s/mybp8o/code_is_run_more_than_read) - [Code is run more than read](https://olano.dev/2023-11-30-code-is-run-more-than-read/)
