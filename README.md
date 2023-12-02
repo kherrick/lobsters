@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-02, 18:09:57](https://lobste.rs/s/jkzox5/running_graylog_on_windows) - [Running Graylog on Windows](https://virtuallyfun.com/2023/12/02/running-graylog-on-windows/)
 * [2023-12-02, 17:26:20](https://lobste.rs/s/oypgig/all_i_want_is_know_what_s_different_re) - [All I want is to know what's different [re: validating metrics]](https://benn.substack.com/p/all-i-want-is-to-know-whats-different)
 * [2023-12-02, 15:31:38](https://lobste.rs/s/tffv7n/documentation_unit_tests) - [Documentation unit tests](https://simonwillison.net/2018/Jul/28/documentation-unit-tests/)
 * [2023-12-02, 14:55:01](https://lobste.rs/s/u9gldw/you_don_t_need_javascript_for) - [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
 * [2023-12-02, 13:50:17](https://lobste.rs/s/x7uye5/nerd_snipe_small_integer_parsing) - [Nerd Snipe: Small Integer Parsing](https://blog.loadzero.com/blog/parse-int-nerdsnipe/)
 * [2023-12-02, 13:31:40](https://lobste.rs/s/1l0iu7/designing_distributed_sql_engine) - [Designing a Distributed SQL Engine: Challenges and Decisions](https://en.oceanbase.com/blog/2596985600)
 * [2023-12-02, 12:47:16](https://lobste.rs/s/vjpuxr/dotfile_stewardship_for_indolent) - [Dotfile stewardship for the indolent](https://rednafi.com/misc/dotfile_stewardship_for_the_indolent/)
-* [2023-12-02, 12:25:31](https://lobste.rs/s/lolxer/double_it_like_dekker_remarkable) - [Double it Like Dekker: A Remarkable Technique to Double Floating Point Precision](https://www.youtube.com/watch?v=6OuqnaHHUG8)
 * [2023-12-02, 12:01:30](https://lobste.rs/s/7ah6p5/binding_source_code_files_together_like) - [Binding Source Code Files Together Like A Book](https://www.1a-insec.net/blog/17-bind-source-code-together/)
 * [2023-12-02, 11:20:36](https://lobste.rs/s/mnohco/monocypher_4_clean_break) - [Monocypher 4: The Clean Break](https://loup-vaillant.fr/articles/monocypher-4)
 * [2023-12-02, 11:18:58](https://lobste.rs/s/h8tont/porting_hare_openbsd) - [Porting Hare to OpenBSD](https://harelang.org/blog/2023-12-01-porting-hare-to-openbsd/)
