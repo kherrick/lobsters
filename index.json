@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-12-02, 08:59:42",
-      "https://lobste.rs/s/ane49g/zklocus_authenticated_private"
-    ],
-    [
-      "zkLocus: Authenticated Private Geolocation Off & On-Blockchain",
-      "https://illya.sh/blog/posts/zklocus-authenticated-geolocation-blockchain-zk/"
-    ]
-  ],
-  [
-    [
       "2023-12-02, 07:13:13",
       "https://lobste.rs/s/prfqpw/review_dive_into_mikrotik_s_weird"
     ],
@@ -137,6 +127,16 @@
     [
       "Oils Winter Status Update",
       "https://www.oilshell.org/blog/2023/11/status-update.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-02, 02:33:04",
+      "https://lobste.rs/s/cxmcil/stop_building_databases"
+    ],
+    [
+      "Stop building databases",
+      "https://sqlsync.dev/posts/stop-building-databases/"
     ]
   ],
   [
