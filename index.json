@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-12-02, 23:53:04",
-      "https://lobste.rs/s/o6doy1/why_are_golang_heaps_so_complicated"
-    ],
-    [
-      "Why Are Golang Heaps So Complicated",
-      "https://www.dolthub.com/blog/2023-12-01-why-are-go-heaps-confusing"
-    ]
-  ],
-  [
-    [
       "2023-12-02, 23:52:31",
       "https://lobste.rs/s/nogwtn/nix_snapshotter_native_understanding"
     ],
@@ -227,6 +217,16 @@
     [
       "The Unix V6 shell and how control flow worked in it",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/V6ShellControlFlow"
+    ]
+  ],
+  [
+    [
+      "2023-12-02, 04:20:41",
+      "https://lobste.rs/s/h4egaz/oils_winter_status_update"
+    ],
+    [
+      "Oils Winter Status Update",
+      "https://www.oilshell.org/blog/2023/11/status-update.html"
     ]
   ],
   [
