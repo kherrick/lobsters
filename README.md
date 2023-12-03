@@ -3,7 +3,7 @@
 * [2023-12-03, 22:00:15](https://lobste.rs/s/qn3lai/build_stupid_tools) - [Build Stupid Tools](https://blog.stulta.dev/posts/stupid_tools/)
 * [2023-12-03, 21:03:01](https://lobste.rs/s/t54jmo/intro_large_language_models_1hr_talk) - [Intro to Large Language Models [1hr Talk]](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 * [2023-12-03, 20:55:46](https://lobste.rs/s/fk4ljo/guide_home_row_mods) - [A guide to home row mods](https://precondition.github.io/home-row-mods)
-* [2023-12-03, 18:17:59](https://lobste.rs/s/krpteh/inkscape_1_3_2_solves_data_loss_bug) - [Inkscape 1.3.2 solves data loss bug in previous release | Inkscape](https://inkscape.org/news/2023/12/01/Inkscape-1-3-2-solves-data-loss-bug/)
+* [2023-12-03, 18:17:59](https://lobste.rs/s/krpteh/inkscape_1_3_2_solves_data_loss_bug) - [Inkscape 1.3.2 solves data loss bug in previous release](https://inkscape.org/news/2023/12/01/Inkscape-1-3-2-solves-data-loss-bug/)
 * [2023-12-03, 17:53:35](https://lobste.rs/s/5vs9tv/lobsters_hacker_news) - [Lobsters | Hacker News](https://news.ycombinator.com/item?id=38508282)
 * [2023-12-03, 17:21:09](https://lobste.rs/s/kmcuf4/announcing_first_nixcon_north_america) - [Announcing - First NixCon North America](https://discourse.nixos.org/t/announcing-first-nixcon-north-america/35874?u=zmitchell)
 * [2023-12-03, 16:50:53](https://lobste.rs/s/4jsvlj/sharing_my_experience_giving_tech_talk_at) - [Sharing my experience giving a tech talk at a conference \"Getting Started w Blazor\" this weekend](https://danschnau.com/blog/blazor_midevfest_2023)
