@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-03, 23:44:12",
+      "https://lobste.rs/s/3gvncq/pov_candle"
+    ],
+    [
+      "POV Candle",
+      "https://mitxela.com/projects/candle"
+    ]
+  ],
+  [
+    [
+      "2023-12-03, 23:36:14",
+      "https://lobste.rs/s/xqqp3r/serving_vector_database_from_github"
+    ],
+    [
+      "Serving a vector database from GitHub Pages",
+      "https://jasonjmcghee.github.io/portable-hnsw/"
+    ]
+  ],
+  [
+    [
       "2023-12-03, 22:00:15",
       "https://lobste.rs/s/qn3lai/build_stupid_tools"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-12-02, 22:04:49",
-      "https://lobste.rs/s/nsa5b0/original_congruence_closure_paper"
-    ],
-    [
-      "Original Congruence Closure Paper in Python with Egglog",
-      "https://egglog-python.readthedocs.io/latest/explanation/2023_12_02_congruence_closure.html"
-    ]
-  ],
-  [
-    [
       "2023-12-02, 21:29:37",
       "https://lobste.rs/s/wvd8hg/efficient_nix_derivations_with_file_sets"
     ],
@@ -227,16 +237,6 @@
     [
       "reaction, in replacement of fail2ban",
       "https://blog.ppom.me/en-reaction/"
-    ]
-  ],
-  [
-    [
-      "2023-12-02, 09:58:55",
-      "https://lobste.rs/s/2bayti/unveiling_power_nixos_integration_test"
-    ],
-    [
-      "Unveiling the Power of the NixOS Integration Test Driver (Part 2)",
-      "https://nixcademy.com/2023/12/01/nixos-integration-tests-part-2/"
     ]
   ],
   [
