@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-03, 07:19:22](https://lobste.rs/s/jvtqxx/random_swiftui_complaint_123) - [Random SwiftUI Complaint #123](https://andadinosaur.com/random-swiftui-complaint-123)
 * [2023-12-03, 00:31:51](https://lobste.rs/s/g4oasc/optimizing_go_string_operations_with) - [Optimizing Go string operations with practical examples](https://medium.com/@ozoniuss/optimizing-go-string-operations-with-practical-examples-83df39b776fb)
 * [2023-12-02, 23:53:04](https://lobste.rs/s/o6doy1/why_are_golang_heaps_so_complicated) - [Why Are Golang Heaps So Complicated](https://www.dolthub.com/blog/2023-12-01-why-are-go-heaps-confusing)
 * [2023-12-02, 23:52:31](https://lobste.rs/s/nogwtn/nix_snapshotter_native_understanding) - [Nix-snapshotter: Native understanding of Nix packages for containerd](https://discourse.nixos.org/t/nix-snapshotter-native-understanding-of-nix-packages-for-containerd/32696)
@@ -11,7 +12,6 @@
 * [2023-12-02, 15:31:38](https://lobste.rs/s/tffv7n/documentation_unit_tests) - [Documentation unit tests](https://simonwillison.net/2018/Jul/28/documentation-unit-tests/)
 * [2023-12-02, 14:55:01](https://lobste.rs/s/u9gldw/you_don_t_need_javascript_for) - [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
 * [2023-12-02, 13:50:17](https://lobste.rs/s/x7uye5/nerd_snipe_small_integer_parsing) - [Nerd Snipe: Small Integer Parsing](https://blog.loadzero.com/blog/parse-int-nerdsnipe/)
-* [2023-12-02, 13:31:40](https://lobste.rs/s/1l0iu7/designing_distributed_sql_engine) - [Designing a Distributed SQL Engine: Challenges and Decisions](https://en.oceanbase.com/blog/2596985600)
 * [2023-12-02, 12:47:16](https://lobste.rs/s/vjpuxr/dotfile_stewardship_for_indolent) - [Dotfile stewardship for the indolent](https://rednafi.com/misc/dotfile_stewardship_for_the_indolent/)
 * [2023-12-02, 12:25:31](https://lobste.rs/s/lolxer/double_it_like_dekker_remarkable) - [Double it Like Dekker: A Remarkable Technique to Double Floating Point Precision](https://www.youtube.com/watch?v=6OuqnaHHUG8)
 * [2023-12-02, 12:01:30](https://lobste.rs/s/7ah6p5/binding_source_code_files_together_like) - [Binding Source Code Files Together Like A Book](https://www.1a-insec.net/blog/17-bind-source-code-together/)
