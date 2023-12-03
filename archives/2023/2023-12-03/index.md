@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-03](index.md)
 
+* [2023-12-03, 23:51:37](https://lobste.rs/s/zfuotw/retspill_igniting_user_controlled_data) - [RetSpill: Igniting User-Controlled Data to Burn Away Linux Kernel Protections](https://kylebot.net/papers/retspill.pdf)
+* [2023-12-03, 23:49:45](https://lobste.rs/s/drmnef/toolchain_security_features_status) - [Toolchain security features status update](https://outflux.net/slides/2023/lpc/features.pdf)
 * [2023-12-03, 23:44:12](https://lobste.rs/s/3gvncq/pov_candle) - [POV Candle](https://mitxela.com/projects/candle)
 * [2023-12-03, 23:36:14](https://lobste.rs/s/xqqp3r/serving_vector_database_from_github) - [Serving a vector database from GitHub Pages](https://jasonjmcghee.github.io/portable-hnsw/)
 * [2023-12-03, 22:00:15](https://lobste.rs/s/qn3lai/build_stupid_tools) - [Build Stupid Tools](https://blog.stulta.dev/posts/stupid_tools/)
