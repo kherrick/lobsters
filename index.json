@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-03, 23:51:37",
+      "https://lobste.rs/s/zfuotw/retspill_igniting_user_controlled_data"
+    ],
+    [
+      "RetSpill: Igniting User-Controlled Data to Burn Away Linux Kernel Protections",
+      "https://kylebot.net/papers/retspill.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-12-03, 23:49:45",
+      "https://lobste.rs/s/drmnef/toolchain_security_features_status"
+    ],
+    [
+      "Toolchain security features status update",
+      "https://outflux.net/slides/2023/lpc/features.pdf"
+    ]
+  ],
+  [
+    [
       "2023-12-03, 23:44:12",
       "https://lobste.rs/s/3gvncq/pov_candle"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-12-02, 20:16:59",
-      "https://lobste.rs/s/wdmeji/graphite_keyboard_layout"
-    ],
-    [
-      "Graphite keyboard layout",
-      "https://github.com/rdavison/graphite-layout"
-    ]
-  ],
-  [
-    [
       "2023-12-02, 19:50:17",
       "https://lobste.rs/s/v2whob/let_s_learn_how_modern_javascript"
     ],
@@ -207,16 +217,6 @@
     [
       "Nerd Snipe: Small Integer Parsing",
       "https://blog.loadzero.com/blog/parse-int-nerdsnipe/"
-    ]
-  ],
-  [
-    [
-      "2023-12-02, 11:20:36",
-      "https://lobste.rs/s/mnohco/monocypher_4_clean_break"
-    ],
-    [
-      "Monocypher 4: The Clean Break",
-      "https://loup-vaillant.fr/articles/monocypher-4"
     ]
   ],
   [
