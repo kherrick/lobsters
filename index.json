@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-03, 20:55:46",
+      "https://lobste.rs/s/fk4ljo/guide_home_row_mods"
+    ],
+    [
+      "A guide to home row mods",
+      "https://precondition.github.io/home-row-mods"
+    ]
+  ],
+  [
+    [
       "2023-12-03, 18:17:59",
       "https://lobste.rs/s/krpteh/inkscape_1_3_2_solves_data_loss_bug"
     ],
@@ -237,16 +247,6 @@
     [
       "Tal is the programming language for the Uxn virtual machine",
       "https://wiki.xxiivv.com/site/uxntal.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-01, 22:10:50",
-      "https://lobste.rs/s/sqzv6p/clang_now_makes_binaries_original_pi_b_can"
-    ],
-    [
-      "clang now makes binaries an original Pi B+ can't run",
-      "https://rachelbythebay.com/w/2023/11/30/armv6/"
     ]
   ]
 ]
