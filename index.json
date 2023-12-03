@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-03, 22:00:15",
+      "https://lobste.rs/s/qn3lai/build_stupid_tools"
+    ],
+    [
+      "Build Stupid Tools",
+      "https://blog.stulta.dev/posts/stupid_tools/"
+    ]
+  ],
+  [
+    [
       "2023-12-03, 21:25:53",
       "https://lobste.rs/s/dgokul/plagiarism_you_tube"
     ],
@@ -157,16 +167,6 @@
     [
       "Efficient Nix Derivations with File Sets",
       "https://johns.codes/blog/efficient-nix-derivations-with-file-sets"
-    ]
-  ],
-  [
-    [
-      "2023-12-02, 20:16:59",
-      "https://lobste.rs/s/wdmeji/graphite_keyboard_layout"
-    ],
-    [
-      "Graphite keyboard layout",
-      "https://github.com/rdavison/graphite-layout"
     ]
   ],
   [
