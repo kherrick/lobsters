@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-03, 21:03:01](https://lobste.rs/s/t54jmo/intro_large_language_models_1hr_talk) - [Intro to Large Language Models [1hr Talk]](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 * [2023-12-03, 20:55:46](https://lobste.rs/s/fk4ljo/guide_home_row_mods) - [A guide to home row mods](https://precondition.github.io/home-row-mods)
 * [2023-12-03, 18:17:59](https://lobste.rs/s/krpteh/inkscape_1_3_2_solves_data_loss_bug) - [Inkscape 1.3.2 solves data loss bug in previous release | Inkscape](https://inkscape.org/news/2023/12/01/Inkscape-1-3-2-solves-data-loss-bug/)
 * [2023-12-03, 17:53:35](https://lobste.rs/s/5vs9tv/lobsters_hacker_news) - [Lobsters | Hacker News](https://news.ycombinator.com/item?id=38508282)
@@ -11,7 +12,6 @@
 * [2023-12-03, 11:58:23](https://lobste.rs/s/pankrv/endianness_why_i_don_t_like_htons_3_friends) - [Endianness, and why I don't like htons(3) and friends](https://www.thecodedmessage.com/posts/endianness/)
 * [2023-12-03, 08:46:13](https://lobste.rs/s/8yzsjn/struct_initialization) - [Struct initialization](https://www.sandordargo.com/blog/2023/11/22/struct-initialization)
 * [2023-12-03, 07:19:22](https://lobste.rs/s/jvtqxx/random_swiftui_complaint_123) - [Random SwiftUI Complaint #123](https://andadinosaur.com/random-swiftui-complaint-123)
-* [2023-12-03, 00:31:51](https://lobste.rs/s/g4oasc/optimizing_go_string_operations_with) - [Optimizing Go string operations with practical examples](https://medium.com/@ozoniuss/optimizing-go-string-operations-with-practical-examples-83df39b776fb)
 * [2023-12-02, 23:52:31](https://lobste.rs/s/nogwtn/nix_snapshotter_native_understanding) - [Nix-snapshotter: Native understanding of Nix packages for containerd](https://discourse.nixos.org/t/nix-snapshotter-native-understanding-of-nix-packages-for-containerd/32696)
 * [2023-12-02, 23:06:43](https://lobste.rs/s/2y27wp/eddsa_ed25519_ed25519_ietf_ed25519ph) - [EdDSA, Ed25519, Ed25519-IETF, Ed25519ph, Ed25519ctx, HashEdDSA, PureEdDSA, WTF?](https://cryptologie.net/article/497/eddsa-ed25519-ed25519-ietf-ed25519ph-ed25519ctx-hasheddsa-pureeddsa-wtf/)
 * [2023-12-02, 22:04:49](https://lobste.rs/s/nsa5b0/original_congruence_closure_paper) - [Original Congruence Closure Paper in Python with Egglog](https://egglog-python.readthedocs.io/latest/explanation/2023_12_02_congruence_closure.html)
