@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-03, 15:56:07",
+      "https://lobste.rs/s/an3mkg/wigwam_is_small_mighty_project_reduces"
+    ],
+    [
+      "A wigwam is a small-but-mighty project that reduces public reliance on battleships",
+      "https://github.com/surprisetalk/wigwams"
+    ]
+  ],
+  [
+    [
       "2023-12-03, 14:12:06",
       "https://lobste.rs/s/cjzhi2/slsa_security_levels"
     ],
@@ -227,16 +237,6 @@
     [
       "Tal is the programming language for the Uxn virtual machine",
       "https://wiki.xxiivv.com/site/uxntal.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-02, 06:54:29",
-      "https://lobste.rs/s/1ytdx2/unix_v6_shell_how_control_flow_worked_it"
-    ],
-    [
-      "The Unix V6 shell and how control flow worked in it",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/V6ShellControlFlow"
     ]
   ],
   [
