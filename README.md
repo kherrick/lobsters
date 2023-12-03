@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-03, 08:46:13](https://lobste.rs/s/8yzsjn/struct_initialization) - [Struct initialization](https://www.sandordargo.com/blog/2023/11/22/struct-initialization)
 * [2023-12-03, 07:19:22](https://lobste.rs/s/jvtqxx/random_swiftui_complaint_123) - [Random SwiftUI Complaint #123](https://andadinosaur.com/random-swiftui-complaint-123)
 * [2023-12-03, 00:31:51](https://lobste.rs/s/g4oasc/optimizing_go_string_operations_with) - [Optimizing Go string operations with practical examples](https://medium.com/@ozoniuss/optimizing-go-string-operations-with-practical-examples-83df39b776fb)
 * [2023-12-02, 23:53:04](https://lobste.rs/s/o6doy1/why_are_golang_heaps_so_complicated) - [Why Are Golang Heaps So Complicated](https://www.dolthub.com/blog/2023-12-01-why-are-go-heaps-confusing)
@@ -22,7 +23,6 @@
 * [2023-12-02, 09:58:55](https://lobste.rs/s/2bayti/unveiling_power_nixos_integration_test) - [Unveiling the Power of the NixOS Integration Test Driver (Part 2)](https://nixcademy.com/2023/12/01/nixos-integration-tests-part-2/)
 * [2023-12-02, 09:11:39](https://lobste.rs/s/e9q09f/tal_is_programming_language_for_uxn) - [Tal is the programming language for the Uxn virtual machine](https://wiki.xxiivv.com/site/uxntal.html)
 * [2023-12-02, 06:54:29](https://lobste.rs/s/1ytdx2/unix_v6_shell_how_control_flow_worked_it) - [The Unix V6 shell and how control flow worked in it](https://utcc.utoronto.ca/~cks/space/blog/unix/V6ShellControlFlow)
-* [2023-12-02, 04:20:41](https://lobste.rs/s/h4egaz/oils_winter_status_update) - [Oils Winter Status Update](https://www.oilshell.org/blog/2023/11/status-update.html)
 * [2023-12-01, 22:10:50](https://lobste.rs/s/sqzv6p/clang_now_makes_binaries_original_pi_b_can) - [clang now makes binaries an original Pi B+ can't run](https://rachelbythebay.com/w/2023/11/30/armv6/)
 * [2023-12-01, 05:46:11](https://lobste.rs/s/hnsufs/advent_code_2023) - [Advent of Code 2023](https://adventofcode.com/2023)
 
