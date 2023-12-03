@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-03, 11:58:23](https://lobste.rs/s/pankrv/endianness_why_i_don_t_like_htons_3_friends) - [Endianness, and why I don't like htons(3) and friends](https://www.thecodedmessage.com/posts/endianness/)
 * [2023-12-03, 08:46:13](https://lobste.rs/s/8yzsjn/struct_initialization) - [Struct initialization](https://www.sandordargo.com/blog/2023/11/22/struct-initialization)
 * [2023-12-03, 07:19:22](https://lobste.rs/s/jvtqxx/random_swiftui_complaint_123) - [Random SwiftUI Complaint #123](https://andadinosaur.com/random-swiftui-complaint-123)
 * [2023-12-03, 00:31:51](https://lobste.rs/s/g4oasc/optimizing_go_string_operations_with) - [Optimizing Go string operations with practical examples](https://medium.com/@ozoniuss/optimizing-go-string-operations-with-practical-examples-83df39b776fb)
@@ -13,7 +14,6 @@
 * [2023-12-02, 14:55:01](https://lobste.rs/s/u9gldw/you_don_t_need_javascript_for) - [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
 * [2023-12-02, 13:50:17](https://lobste.rs/s/x7uye5/nerd_snipe_small_integer_parsing) - [Nerd Snipe: Small Integer Parsing](https://blog.loadzero.com/blog/parse-int-nerdsnipe/)
 * [2023-12-02, 12:47:16](https://lobste.rs/s/vjpuxr/dotfile_stewardship_for_indolent) - [Dotfile stewardship for the indolent](https://rednafi.com/misc/dotfile_stewardship_for_the_indolent/)
-* [2023-12-02, 12:25:31](https://lobste.rs/s/lolxer/double_it_like_dekker_remarkable) - [Double it Like Dekker: A Remarkable Technique to Double Floating Point Precision](https://www.youtube.com/watch?v=6OuqnaHHUG8)
 * [2023-12-02, 12:01:30](https://lobste.rs/s/7ah6p5/binding_source_code_files_together_like) - [Binding Source Code Files Together Like A Book](https://www.1a-insec.net/blog/17-bind-source-code-together/)
 * [2023-12-02, 11:20:36](https://lobste.rs/s/mnohco/monocypher_4_clean_break) - [Monocypher 4: The Clean Break](https://loup-vaillant.fr/articles/monocypher-4)
 * [2023-12-02, 11:18:58](https://lobste.rs/s/h8tont/porting_hare_openbsd) - [Porting Hare to OpenBSD](https://harelang.org/blog/2023-12-01-porting-hare-to-openbsd/)
