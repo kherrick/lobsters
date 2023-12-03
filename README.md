@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-03, 20:55:46](https://lobste.rs/s/fk4ljo/guide_home_row_mods) - [A guide to home row mods](https://precondition.github.io/home-row-mods)
 * [2023-12-03, 18:17:59](https://lobste.rs/s/krpteh/inkscape_1_3_2_solves_data_loss_bug) - [Inkscape 1.3.2 solves data loss bug in previous release | Inkscape](https://inkscape.org/news/2023/12/01/Inkscape-1-3-2-solves-data-loss-bug/)
 * [2023-12-03, 17:53:35](https://lobste.rs/s/5vs9tv/lobsters_hacker_news) - [Lobsters | Hacker News](https://news.ycombinator.com/item?id=38508282)
 * [2023-12-03, 17:21:09](https://lobste.rs/s/kmcuf4/announcing_first_nixcon_north_america) - [Announcing - First NixCon North America](https://discourse.nixos.org/t/announcing-first-nixcon-north-america/35874?u=zmitchell)
@@ -24,7 +25,6 @@
 * [2023-12-02, 10:50:44](https://lobste.rs/s/07u3nq/reaction_replacement_fail2ban) - [reaction, in replacement of fail2ban](https://blog.ppom.me/en-reaction/)
 * [2023-12-02, 09:58:55](https://lobste.rs/s/2bayti/unveiling_power_nixos_integration_test) - [Unveiling the Power of the NixOS Integration Test Driver (Part 2)](https://nixcademy.com/2023/12/01/nixos-integration-tests-part-2/)
 * [2023-12-02, 09:11:39](https://lobste.rs/s/e9q09f/tal_is_programming_language_for_uxn) - [Tal is the programming language for the Uxn virtual machine](https://wiki.xxiivv.com/site/uxntal.html)
-* [2023-12-01, 22:10:50](https://lobste.rs/s/sqzv6p/clang_now_makes_binaries_original_pi_b_can) - [clang now makes binaries an original Pi B+ can't run](https://rachelbythebay.com/w/2023/11/30/armv6/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-03](index.md)
 
+* [2023-12-03, 20:55:46](https://lobste.rs/s/fk4ljo/guide_home_row_mods) - [A guide to home row mods](https://precondition.github.io/home-row-mods)
 * [2023-12-03, 18:17:59](https://lobste.rs/s/krpteh/inkscape_1_3_2_solves_data_loss_bug) - [Inkscape 1.3.2 solves data loss bug in previous release | Inkscape](https://inkscape.org/news/2023/12/01/Inkscape-1-3-2-solves-data-loss-bug/)
 * [2023-12-03, 17:53:35](https://lobste.rs/s/5vs9tv/lobsters_hacker_news) - [Lobsters | Hacker News](https://news.ycombinator.com/item?id=38508282)
 * [2023-12-03, 17:21:09](https://lobste.rs/s/kmcuf4/announcing_first_nixcon_north_america) - [Announcing - First NixCon North America](https://discourse.nixos.org/t/announcing-first-nixcon-north-america/35874?u=zmitchell)
