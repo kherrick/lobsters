@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-12-03, 22:00:15](https://lobste.rs/s/qn3lai/build_stupid_tools) - [Build Stupid Tools](https://blog.stulta.dev/posts/stupid_tools/)
-* [2023-12-03, 21:25:53](https://lobste.rs/s/dgokul/plagiarism_you_tube) - [Plagiarism and You(Tube)](https://youtu.be/yDp3cB5fHXQ)
 * [2023-12-03, 21:03:01](https://lobste.rs/s/t54jmo/intro_large_language_models_1hr_talk) - [Intro to Large Language Models [1hr Talk]](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 * [2023-12-03, 20:55:46](https://lobste.rs/s/fk4ljo/guide_home_row_mods) - [A guide to home row mods](https://precondition.github.io/home-row-mods)
 * [2023-12-03, 18:17:59](https://lobste.rs/s/krpteh/inkscape_1_3_2_solves_data_loss_bug) - [Inkscape 1.3.2 solves data loss bug in previous release | Inkscape](https://inkscape.org/news/2023/12/01/Inkscape-1-3-2-solves-data-loss-bug/)
@@ -17,6 +16,7 @@
 * [2023-12-02, 23:52:31](https://lobste.rs/s/nogwtn/nix_snapshotter_native_understanding) - [Nix-snapshotter: Native understanding of Nix packages for containerd](https://discourse.nixos.org/t/nix-snapshotter-native-understanding-of-nix-packages-for-containerd/32696)
 * [2023-12-02, 22:04:49](https://lobste.rs/s/nsa5b0/original_congruence_closure_paper) - [Original Congruence Closure Paper in Python with Egglog](https://egglog-python.readthedocs.io/latest/explanation/2023_12_02_congruence_closure.html)
 * [2023-12-02, 21:29:37](https://lobste.rs/s/wvd8hg/efficient_nix_derivations_with_file_sets) - [Efficient Nix Derivations with File Sets](https://johns.codes/blog/efficient-nix-derivations-with-file-sets)
+* [2023-12-02, 20:16:59](https://lobste.rs/s/wdmeji/graphite_keyboard_layout) - [Graphite keyboard layout](https://github.com/rdavison/graphite-layout)
 * [2023-12-02, 19:50:17](https://lobste.rs/s/v2whob/let_s_learn_how_modern_javascript) - [Let’s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 * [2023-12-02, 14:55:01](https://lobste.rs/s/u9gldw/you_don_t_need_javascript_for) - [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
 * [2023-12-02, 13:50:17](https://lobste.rs/s/x7uye5/nerd_snipe_small_integer_parsing) - [Nerd Snipe: Small Integer Parsing](https://blog.loadzero.com/blog/parse-int-nerdsnipe/)
