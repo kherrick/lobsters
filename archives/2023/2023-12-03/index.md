@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-03](index.md)
 
+* [2023-12-03, 23:44:12](https://lobste.rs/s/3gvncq/pov_candle) - [POV Candle](https://mitxela.com/projects/candle)
+* [2023-12-03, 23:36:14](https://lobste.rs/s/xqqp3r/serving_vector_database_from_github) - [Serving a vector database from GitHub Pages](https://jasonjmcghee.github.io/portable-hnsw/)
 * [2023-12-03, 22:00:15](https://lobste.rs/s/qn3lai/build_stupid_tools) - [Build Stupid Tools](https://blog.stulta.dev/posts/stupid_tools/)
 * [2023-12-03, 21:25:53](https://lobste.rs/s/dgokul/plagiarism_you_tube) - [Plagiarism and You(Tube)](https://youtu.be/yDp3cB5fHXQ)
 * [2023-12-03, 21:03:01](https://lobste.rs/s/t54jmo/intro_large_language_models_1hr_talk) - [Intro to Large Language Models [1hr Talk]](https://www.youtube.com/watch?v=zjkBMFhNj_g)
