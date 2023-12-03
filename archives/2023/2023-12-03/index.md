@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-03](index.md)
 
+* [2023-12-03, 16:50:53](https://lobste.rs/s/4jsvlj/sharing_my_experience_giving_tech_talk_at) - [Sharing my experience giving a tech talk at a conference \"Getting Started w Blazor\" this weekend](https://danschnau.com/blog/blazor_midevfest_2023)
 * [2023-12-03, 15:56:07](https://lobste.rs/s/an3mkg/wigwam_is_small_mighty_project_reduces) - [A wigwam is a small-but-mighty project that reduces public reliance on battleships](https://github.com/surprisetalk/wigwams)
 * [2023-12-03, 14:12:06](https://lobste.rs/s/cjzhi2/slsa_security_levels) - [SLSA Security Levels](https://slsa.dev/spec/v1.0/levels)
 * [2023-12-03, 14:09:48](https://lobste.rs/s/4emmdl/sh_relative_shell_script_includes_with) - [sh: Relative shell script includes with realpath on FreeBSD](https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/)
