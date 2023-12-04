@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
+* [2023-12-04, 06:36:12](https://lobste.rs/s/ngjt5r/nobuild_header_only_library_for_writing) - [nobuild: Header only library for writing build recipes in C](https://github.com/tsoding/nobuild)
 * [2023-12-04, 06:16:47](https://lobste.rs/s/bg9w5g/expr_moved_expr_lang_expr) - [Expr moved to expr-lang/expr](https://github.com/expr-lang/expr)
 * [2023-12-04, 05:04:53](https://lobste.rs/s/9h3bpi/s_far_out_man) - [That's FAR-out, Man](https://blog.dfsec.com/ios/2023/11/19/thats-far-out-man/)
 * [2023-12-04, 01:40:14](https://lobste.rs/s/ozojfe/arc_self_tuning_low_overhead_replacement) - [ARC: A SELF-TUNING, LOW OVERHEAD REPLACEMENT CACHE](https://www.usenix.org/legacy/events/fast03/tech/full_papers/megiddo/megiddo.pdf)
