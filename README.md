@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-04, 08:48:56](https://lobste.rs/s/33lvyo/inercia_2023) - [Inércia 2023](https://celso.io/posts/2023/12/03/inercia-2023/)
 * [2023-12-04, 06:36:12](https://lobste.rs/s/ngjt5r/nobuild_header_only_library_for_writing) - [nobuild: Header only library for writing build recipes in C](https://github.com/tsoding/nobuild)
 * [2023-12-04, 05:04:53](https://lobste.rs/s/9h3bpi/s_far_out_man) - [That's FAR-out, Man](https://blog.dfsec.com/ios/2023/11/19/thats-far-out-man/)
 * [2023-12-04, 01:40:14](https://lobste.rs/s/ozojfe/arc_self_tuning_low_overhead_replacement) - [ARC: A SELF-TUNING, LOW OVERHEAD REPLACEMENT CACHE](https://www.usenix.org/legacy/events/fast03/tech/full_papers/megiddo/megiddo.pdf)
@@ -24,7 +25,6 @@
 * [2023-12-02, 21:29:37](https://lobste.rs/s/wvd8hg/efficient_nix_derivations_with_file_sets) - [Efficient Nix Derivations with File Sets](https://johns.codes/blog/efficient-nix-derivations-with-file-sets)
 * [2023-12-02, 19:50:17](https://lobste.rs/s/v2whob/let_s_learn_how_modern_javascript) - [Let’s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 * [2023-12-02, 14:55:01](https://lobste.rs/s/u9gldw/you_don_t_need_javascript_for) - [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
-* [2023-12-02, 10:50:44](https://lobste.rs/s/07u3nq/reaction_replacement_fail2ban) - [reaction, in replacement of fail2ban](https://blog.ppom.me/en-reaction/)
 
 ## [Archives](archives/index.md)
 
