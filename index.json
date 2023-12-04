@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-04, 06:36:12",
+      "https://lobste.rs/s/ngjt5r/nobuild_header_only_library_for_writing"
+    ],
+    [
+      "nobuild: Header only library for writing build recipes in C",
+      "https://github.com/tsoding/nobuild"
+    ]
+  ],
+  [
+    [
       "2023-12-04, 06:16:47",
       "https://lobste.rs/s/bg9w5g/expr_moved_expr_lang_expr"
     ],
@@ -227,16 +237,6 @@
     [
       "You don't need JavaScript for that",
       "https://www.htmhell.dev/adventcalendar/2023/2/"
-    ]
-  ],
-  [
-    [
-      "2023-12-02, 13:50:17",
-      "https://lobste.rs/s/x7uye5/nerd_snipe_small_integer_parsing"
-    ],
-    [
-      "Nerd Snipe: Small Integer Parsing",
-      "https://blog.loadzero.com/blog/parse-int-nerdsnipe/"
     ]
   ],
   [
