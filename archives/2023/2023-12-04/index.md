@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
+* [2023-12-04, 22:30:58](https://lobste.rs/s/ddaeht/onyx_programming_language) - [The Onyx Programming Language](https://onyxlang.io/)
+* [2023-12-04, 21:56:51](https://lobste.rs/s/n2izf0/spooky_performance_regression_aws_ebs) - [A Spooky Performance Regression in AWS EBS Volumes](https://www.dolthub.com/blog/2023-11-22-spooky-performance-regression-aws-ebs/)
 * [2023-12-04, 20:25:21](https://lobste.rs/s/ufbis8/when_would_you_ever_want_bubblesort) - [When would you ever want bubblesort?](https://buttondown.email/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
 * [2023-12-04, 18:40:27](https://lobste.rs/s/qdvnrn/fast_small_robust_pick_three_introducing) - [Fast, small, robust: pick three. Introducing a novel branchless partition implementation](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/lomcyc_partition/text.md)
 * [2023-12-04, 18:01:12](https://lobste.rs/s/avfwcc/how_duck_type_psychology_static_typing) - [How to duck type? - the psychology of static typing in Ruby (2004)](https://blade.ruby-lang.org/ruby-talk/100511)
