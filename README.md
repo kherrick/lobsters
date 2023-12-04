@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-04, 05:04:53](https://lobste.rs/s/9h3bpi/s_far_out_man) - [That's FAR-out, Man](https://blog.dfsec.com/ios/2023/11/19/thats-far-out-man/)
 * [2023-12-04, 01:40:14](https://lobste.rs/s/ozojfe/arc_self_tuning_low_overhead_replacement) - [ARC: A SELF-TUNING, LOW OVERHEAD REPLACEMENT CACHE](https://www.usenix.org/legacy/events/fast03/tech/full_papers/megiddo/megiddo.pdf)
 * [2023-12-04, 00:36:41](https://lobste.rs/s/tly80m/advent_code_visualization_2023) - [Advent of Code Visualization 2023](https://www.geoffreylitt.com/aoc2023/)
 * [2023-12-03, 23:51:37](https://lobste.rs/s/zfuotw/retspill_igniting_user_controlled_data) - [RetSpill: Igniting User-Controlled Data to Burn Away Linux Kernel Protections](https://kylebot.net/papers/retspill.pdf)
@@ -23,7 +24,6 @@
 * [2023-12-02, 19:50:17](https://lobste.rs/s/v2whob/let_s_learn_how_modern_javascript) - [Let’s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 * [2023-12-02, 14:55:01](https://lobste.rs/s/u9gldw/you_don_t_need_javascript_for) - [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
 * [2023-12-02, 13:50:17](https://lobste.rs/s/x7uye5/nerd_snipe_small_integer_parsing) - [Nerd Snipe: Small Integer Parsing](https://blog.loadzero.com/blog/parse-int-nerdsnipe/)
-* [2023-12-02, 11:18:58](https://lobste.rs/s/h8tont/porting_hare_openbsd) - [Porting Hare to OpenBSD](https://harelang.org/blog/2023-12-01-porting-hare-to-openbsd/)
 * [2023-12-02, 10:50:44](https://lobste.rs/s/07u3nq/reaction_replacement_fail2ban) - [reaction, in replacement of fail2ban](https://blog.ppom.me/en-reaction/)
 
 ## [Archives](archives/index.md)
