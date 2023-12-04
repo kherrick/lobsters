@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-04, 11:24:46](https://lobste.rs/s/djmzw1/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/djmzw1/what_are_you_doing_this_week)
 * [2023-12-04, 09:33:45](https://lobste.rs/s/lrqbmb/old_blog_matt_henderson_beautiful_math) - [Old blog of Matt Henderson, beautiful math animations](https://blog.matthen.com/)
 * [2023-12-04, 08:48:56](https://lobste.rs/s/33lvyo/inercia_2023) - [Inércia 2023](https://celso.io/posts/2023/12/03/inercia-2023/)
 * [2023-12-04, 06:36:12](https://lobste.rs/s/ngjt5r/nobuild_header_only_library_for_writing) - [nobuild: Header only library for writing build recipes in C](https://github.com/tsoding/nobuild)
@@ -21,7 +22,6 @@
 * [2023-12-03, 14:09:48](https://lobste.rs/s/4emmdl/sh_relative_shell_script_includes_with) - [sh: Relative shell script includes with realpath on FreeBSD](https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/)
 * [2023-12-03, 11:58:23](https://lobste.rs/s/pankrv/endianness_why_i_don_t_like_htons_3_friends) - [Endianness, and why I don't like htons(3) and friends](https://www.thecodedmessage.com/posts/endianness/)
 * [2023-12-03, 08:46:13](https://lobste.rs/s/8yzsjn/struct_initialization) - [Struct initialization](https://www.sandordargo.com/blog/2023/11/22/struct-initialization)
-* [2023-12-03, 07:19:22](https://lobste.rs/s/jvtqxx/random_swiftui_complaint_123) - [Random SwiftUI Complaint #123](https://andadinosaur.com/random-swiftui-complaint-123)
 * [2023-12-02, 21:29:37](https://lobste.rs/s/wvd8hg/efficient_nix_derivations_with_file_sets) - [Efficient Nix Derivations with File Sets](https://johns.codes/blog/efficient-nix-derivations-with-file-sets)
 * [2023-12-02, 19:50:17](https://lobste.rs/s/v2whob/let_s_learn_how_modern_javascript) - [Let’s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 * [2023-12-02, 14:55:01](https://lobste.rs/s/u9gldw/you_don_t_need_javascript_for) - [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
