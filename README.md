@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-04, 15:33:07](https://lobste.rs/s/vca8xp/topics_computer_graphics) - [Topics in computer graphics](https://mrl.cs.nyu.edu/~perlin/graphics/)
+* [2023-12-04, 15:30:33](https://lobste.rs/s/ikh4f6/security_kernel_based_on_lambda_calculus) - [A Security Kernel Based on the Lambda Calculus](http://mumble.net/~jar/pubs/secureos/secureos.html)
 * [2023-12-04, 15:20:50](https://lobste.rs/s/mpthmm/how_often_should_we_sharpen_our_tools) - [How Often Should We Sharpen Our Tools?](https://tratt.net/laurie/blog/2023/how_often_should_we_sharpen_our_tools.html)
 * [2023-12-04, 14:47:52](https://lobste.rs/s/oxywix/when_static_types_make_your_code_shorter) - [When static types make your code shorter](https://evanhahn.com/when-static-types-make-your-code-shorter/)
 * [2023-12-04, 13:58:23](https://lobste.rs/s/5nzyaq/django_5_0_released) - [Django 5.0 released](https://www.djangoproject.com/weblog/2023/dec/04/django-50-released/)
@@ -18,10 +20,8 @@
 * [2023-12-03, 23:44:12](https://lobste.rs/s/3gvncq/pov_candle) - [POV Candle](https://mitxela.com/projects/candle)
 * [2023-12-03, 23:36:14](https://lobste.rs/s/xqqp3r/serving_vector_database_from_github) - [Serving a vector database from GitHub Pages](https://jasonjmcghee.github.io/portable-hnsw/)
 * [2023-12-03, 22:00:15](https://lobste.rs/s/qn3lai/build_stupid_tools) - [Build Stupid Tools](https://blog.stulta.dev/posts/stupid_tools/)
-* [2023-12-03, 20:55:46](https://lobste.rs/s/fk4ljo/guide_home_row_mods) - [A guide to home row mods](https://precondition.github.io/home-row-mods)
 * [2023-12-03, 18:17:59](https://lobste.rs/s/krpteh/inkscape_1_3_2_solves_data_loss_bug) - [Inkscape 1.3.2 solves data loss bug in previous release](https://inkscape.org/news/2023/12/01/Inkscape-1-3-2-solves-data-loss-bug/)
 * [2023-12-03, 17:53:35](https://lobste.rs/s/5vs9tv/lobsters_hacker_news) - [Lobsters | Hacker News](https://news.ycombinator.com/item?id=38508282)
-* [2023-12-03, 17:21:09](https://lobste.rs/s/kmcuf4/announcing_first_nixcon_north_america) - [Announcing - First NixCon North America](https://discourse.nixos.org/t/announcing-first-nixcon-north-america/35874?u=zmitchell)
 * [2023-12-03, 15:56:07](https://lobste.rs/s/an3mkg/wigwam_is_small_mighty_project_reduces) - [A wigwam is a small-but-mighty project that reduces public reliance on battleships](https://github.com/surprisetalk/wigwams)
 * [2023-12-03, 14:09:48](https://lobste.rs/s/4emmdl/sh_relative_shell_script_includes_with) - [sh: Relative shell script includes with realpath on FreeBSD](https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/)
 * [2023-12-03, 11:58:23](https://lobste.rs/s/pankrv/endianness_why_i_don_t_like_htons_3_friends) - [Endianness, and why I don't like htons(3) and friends](https://www.thecodedmessage.com/posts/endianness/)

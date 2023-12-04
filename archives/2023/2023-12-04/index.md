@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
+* [2023-12-04, 15:33:07](https://lobste.rs/s/vca8xp/topics_computer_graphics) - [Topics in computer graphics](https://mrl.cs.nyu.edu/~perlin/graphics/)
+* [2023-12-04, 15:30:33](https://lobste.rs/s/ikh4f6/security_kernel_based_on_lambda_calculus) - [A Security Kernel Based on the Lambda Calculus](http://mumble.net/~jar/pubs/secureos/secureos.html)
 * [2023-12-04, 15:20:50](https://lobste.rs/s/mpthmm/how_often_should_we_sharpen_our_tools) - [How Often Should We Sharpen Our Tools?](https://tratt.net/laurie/blog/2023/how_often_should_we_sharpen_our_tools.html)
 * [2023-12-04, 14:47:52](https://lobste.rs/s/oxywix/when_static_types_make_your_code_shorter) - [When static types make your code shorter](https://evanhahn.com/when-static-types-make-your-code-shorter/)
 * [2023-12-04, 13:58:23](https://lobste.rs/s/5nzyaq/django_5_0_released) - [Django 5.0 released](https://www.djangoproject.com/weblog/2023/dec/04/django-50-released/)
