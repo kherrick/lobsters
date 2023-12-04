@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
+* [2023-12-04, 09:33:45](https://lobste.rs/s/lrqbmb/old_blog_matt_henderson_beautiful_math) - [Old blog of Matt Henderson, beautiful math animations](https://blog.matthen.com/)
 * [2023-12-04, 08:48:56](https://lobste.rs/s/33lvyo/inercia_2023) - [Inércia 2023](https://celso.io/posts/2023/12/03/inercia-2023/)
 * [2023-12-04, 06:36:12](https://lobste.rs/s/ngjt5r/nobuild_header_only_library_for_writing) - [nobuild: Header only library for writing build recipes in C](https://github.com/tsoding/nobuild)
 * [2023-12-04, 06:16:47](https://lobste.rs/s/bg9w5g/expr_moved_expr_lang_expr) - [Expr moved to expr-lang/expr](https://github.com/expr-lang/expr)

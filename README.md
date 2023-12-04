@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-04, 09:33:45](https://lobste.rs/s/lrqbmb/old_blog_matt_henderson_beautiful_math) - [Old blog of Matt Henderson, beautiful math animations](https://blog.matthen.com/)
 * [2023-12-04, 08:48:56](https://lobste.rs/s/33lvyo/inercia_2023) - [Inércia 2023](https://celso.io/posts/2023/12/03/inercia-2023/)
 * [2023-12-04, 06:36:12](https://lobste.rs/s/ngjt5r/nobuild_header_only_library_for_writing) - [nobuild: Header only library for writing build recipes in C](https://github.com/tsoding/nobuild)
 * [2023-12-04, 05:04:53](https://lobste.rs/s/9h3bpi/s_far_out_man) - [That's FAR-out, Man](https://blog.dfsec.com/ios/2023/11/19/thats-far-out-man/)
@@ -15,7 +16,6 @@
 * [2023-12-03, 18:17:59](https://lobste.rs/s/krpteh/inkscape_1_3_2_solves_data_loss_bug) - [Inkscape 1.3.2 solves data loss bug in previous release](https://inkscape.org/news/2023/12/01/Inkscape-1-3-2-solves-data-loss-bug/)
 * [2023-12-03, 17:53:35](https://lobste.rs/s/5vs9tv/lobsters_hacker_news) - [Lobsters | Hacker News](https://news.ycombinator.com/item?id=38508282)
 * [2023-12-03, 17:21:09](https://lobste.rs/s/kmcuf4/announcing_first_nixcon_north_america) - [Announcing - First NixCon North America](https://discourse.nixos.org/t/announcing-first-nixcon-north-america/35874?u=zmitchell)
-* [2023-12-03, 16:50:53](https://lobste.rs/s/4jsvlj/sharing_my_experience_giving_tech_talk_at) - [Sharing my experience giving a tech talk at a conference \"Getting Started w Blazor\" this weekend](https://danschnau.com/blog/blazor_midevfest_2023)
 * [2023-12-03, 15:56:07](https://lobste.rs/s/an3mkg/wigwam_is_small_mighty_project_reduces) - [A wigwam is a small-but-mighty project that reduces public reliance on battleships](https://github.com/surprisetalk/wigwams)
 * [2023-12-03, 14:12:06](https://lobste.rs/s/cjzhi2/slsa_security_levels) - [SLSA Security Levels](https://slsa.dev/spec/v1.0/levels)
 * [2023-12-03, 14:09:48](https://lobste.rs/s/4emmdl/sh_relative_shell_script_includes_with) - [sh: Relative shell script includes with realpath on FreeBSD](https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/)
