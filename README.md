@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-04, 16:28:47](https://lobste.rs/s/khlyxc/o11y_toolkit) - [O11y toolkit](https://o11y.tools/)
 * [2023-12-04, 15:58:20](https://lobste.rs/s/ycuhxy/wayland_isn_t_going_save_linux_desktop) - [Wayland Isn't Going to Save The Linux Desktop (2022)](https://dudemanguy.github.io/blog/posts/2022-06-10-wayland-xorg/wayland-xorg.html)
 * [2023-12-04, 15:39:25](https://lobste.rs/s/authic/what_is_static_chain_pointer_context) - [What is a static chain pointer in the context of calling convention ABI?](https://devblogs.microsoft.com/oldnewthing/20231204-00/?p=109095)
 * [2023-12-04, 15:33:07](https://lobste.rs/s/vca8xp/topics_computer_graphics) - [Topics in computer graphics](https://mrl.cs.nyu.edu/~perlin/graphics/)
@@ -18,7 +19,6 @@
 * [2023-12-04, 08:48:56](https://lobste.rs/s/33lvyo/inercia_2023) - [Inércia 2023](https://celso.io/posts/2023/12/03/inercia-2023/)
 * [2023-12-04, 06:36:12](https://lobste.rs/s/ngjt5r/nobuild_header_only_library_for_writing) - [nobuild: Header only library for writing build recipes in C](https://github.com/tsoding/nobuild)
 * [2023-12-04, 01:40:14](https://lobste.rs/s/ozojfe/arc_self_tuning_low_overhead_replacement) - [ARC: A Self-Tuning, Low Overhead Replacement Cache](https://www.usenix.org/legacy/events/fast03/tech/full_papers/megiddo/megiddo.pdf)
-* [2023-12-04, 00:36:41](https://lobste.rs/s/tly80m/advent_code_visualization_2023) - [Advent of Code Visualization 2023](https://www.geoffreylitt.com/aoc2023/)
 * [2023-12-03, 23:44:12](https://lobste.rs/s/3gvncq/pov_candle) - [POV Candle](https://mitxela.com/projects/candle)
 * [2023-12-03, 23:36:14](https://lobste.rs/s/xqqp3r/serving_vector_database_from_github) - [Serving a vector database from GitHub Pages](https://jasonjmcghee.github.io/portable-hnsw/)
 * [2023-12-03, 22:00:15](https://lobste.rs/s/qn3lai/build_stupid_tools) - [Build Stupid Tools](https://blog.stulta.dev/posts/stupid_tools/)
