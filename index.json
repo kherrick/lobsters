@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-04, 16:28:47",
+      "https://lobste.rs/s/khlyxc/o11y_toolkit"
+    ],
+    [
+      "O11y toolkit",
+      "https://o11y.tools/"
+    ]
+  ],
+  [
+    [
       "2023-12-04, 15:58:20",
       "https://lobste.rs/s/ycuhxy/wayland_isn_t_going_save_linux_desktop"
     ],
@@ -177,16 +187,6 @@
     [
       "ARC: A Self-Tuning, Low Overhead Replacement Cache",
       "https://www.usenix.org/legacy/events/fast03/tech/full_papers/megiddo/megiddo.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-12-04, 00:36:41",
-      "https://lobste.rs/s/tly80m/advent_code_visualization_2023"
-    ],
-    [
-      "Advent of Code Visualization 2023",
-      "https://www.geoffreylitt.com/aoc2023/"
     ]
   ],
   [
