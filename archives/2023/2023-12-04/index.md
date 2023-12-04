@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
+* [2023-12-04, 18:40:27](https://lobste.rs/s/qdvnrn/fast_small_robust_pick_three_introducing) - [Fast, small, robust: pick three. Introducing a novel branchless partition implementation](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/lomcyc_partition/text.md)
 * [2023-12-04, 16:28:47](https://lobste.rs/s/khlyxc/o11y_toolkit) - [O11y toolkit](https://o11y.tools/)
 * [2023-12-04, 15:58:20](https://lobste.rs/s/ycuhxy/wayland_isn_t_going_save_linux_desktop) - [Wayland Isn't Going to Save The Linux Desktop](https://dudemanguy.github.io/blog/posts/2022-06-10-wayland-xorg/wayland-xorg.html)
 * [2023-12-04, 15:39:25](https://lobste.rs/s/authic/what_is_static_chain_pointer_context) - [What is a static chain pointer in the context of calling convention ABI?](https://devblogs.microsoft.com/oldnewthing/20231204-00/?p=109095)

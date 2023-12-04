@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-04, 18:40:27](https://lobste.rs/s/qdvnrn/fast_small_robust_pick_three_introducing) - [Fast, small, robust: pick three. Introducing a novel branchless partition implementation](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/lomcyc_partition/text.md)
 * [2023-12-04, 16:28:47](https://lobste.rs/s/khlyxc/o11y_toolkit) - [O11y toolkit](https://o11y.tools/)
 * [2023-12-04, 15:58:20](https://lobste.rs/s/ycuhxy/wayland_isn_t_going_save_linux_desktop) - [Wayland Isn't Going to Save The Linux Desktop (2022)](https://dudemanguy.github.io/blog/posts/2022-06-10-wayland-xorg/wayland-xorg.html)
 * [2023-12-04, 15:39:25](https://lobste.rs/s/authic/what_is_static_chain_pointer_context) - [What is a static chain pointer in the context of calling convention ABI?](https://devblogs.microsoft.com/oldnewthing/20231204-00/?p=109095)
@@ -20,7 +21,6 @@
 * [2023-12-04, 06:36:12](https://lobste.rs/s/ngjt5r/nobuild_header_only_library_for_writing) - [nobuild: Header only library for writing build recipes in C](https://github.com/tsoding/nobuild)
 * [2023-12-04, 01:40:14](https://lobste.rs/s/ozojfe/arc_self_tuning_low_overhead_replacement) - [ARC: A Self-Tuning, Low Overhead Replacement Cache](https://www.usenix.org/legacy/events/fast03/tech/full_papers/megiddo/megiddo.pdf)
 * [2023-12-03, 23:44:12](https://lobste.rs/s/3gvncq/pov_candle) - [POV Candle](https://mitxela.com/projects/candle)
-* [2023-12-03, 23:36:14](https://lobste.rs/s/xqqp3r/serving_vector_database_from_github) - [Serving a vector database from GitHub Pages](https://jasonjmcghee.github.io/portable-hnsw/)
 * [2023-12-03, 22:00:15](https://lobste.rs/s/qn3lai/build_stupid_tools) - [Build Stupid Tools](https://blog.stulta.dev/posts/stupid_tools/)
 * [2023-12-03, 17:53:35](https://lobste.rs/s/5vs9tv/lobsters_hacker_news) - [Lobsters | Hacker News](https://news.ycombinator.com/item?id=38508282)
 * [2023-12-03, 15:56:07](https://lobste.rs/s/an3mkg/wigwam_is_small_mighty_project_reduces) - [A wigwam is a small-but-mighty project that reduces public reliance on battleships](https://github.com/surprisetalk/wigwams)
