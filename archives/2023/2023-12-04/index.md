@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
+* [2023-12-04, 16:28:47](https://lobste.rs/s/khlyxc/o11y_toolkit) - [O11y toolkit](https://o11y.tools/)
 * [2023-12-04, 15:58:20](https://lobste.rs/s/ycuhxy/wayland_isn_t_going_save_linux_desktop) - [Wayland Isn't Going to Save The Linux Desktop](https://dudemanguy.github.io/blog/posts/2022-06-10-wayland-xorg/wayland-xorg.html)
 * [2023-12-04, 15:39:25](https://lobste.rs/s/authic/what_is_static_chain_pointer_context) - [What is a static chain pointer in the context of calling convention ABI?](https://devblogs.microsoft.com/oldnewthing/20231204-00/?p=109095)
 * [2023-12-04, 15:33:07](https://lobste.rs/s/vca8xp/topics_computer_graphics) - [Topics in computer graphics](https://mrl.cs.nyu.edu/~perlin/graphics/)
