@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-12-04, 13:19:49",
+      "https://lobste.rs/s/fggblt/few_words_about_blameless_culture"
+    ],
+    [
+      "A few words about Blameless culture",
+      "https://www.gybe.ca/a-few-words-about-blameless-culture/"
+    ]
+  ],
+  [
+    [
+      "2023-12-04, 13:18:58",
+      "https://lobste.rs/s/cagchy/proposal_add_further_characters_from"
+    ],
+    [
+      "Proposal to add further characters from legacy computers and teletext to Unicode",
+      "https://www.unicode.org/L2/L2021/21235-terminals-supplement.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-12-04, 13:17:51",
+      "https://lobste.rs/s/2gfmlg/from_486_vue_js_evan_you_s_full_time_gamble"
+    ],
+    [
+      "From 486 to Vue.js: Evan You's Full-Time Gamble on Open Source",
+      "https://corecursive.com/vue-with-evan-you/"
+    ]
+  ],
+  [
+    [
       "2023-12-04, 12:59:12",
       "https://lobste.rs/s/wjitaf/why_kubernetes_needs_lts"
     ],
@@ -101,26 +131,6 @@
   ],
   [
     [
-      "2023-12-03, 23:51:37",
-      "https://lobste.rs/s/zfuotw/retspill_igniting_user_controlled_data"
-    ],
-    [
-      "RetSpill: Igniting User-Controlled Data to Burn Away Linux Kernel Protections",
-      "https://kylebot.net/papers/retspill.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-12-03, 23:49:45",
-      "https://lobste.rs/s/drmnef/toolchain_security_features_status"
-    ],
-    [
-      "Toolchain security features status update",
-      "https://outflux.net/slides/2023/lpc/features.pdf"
-    ]
-  ],
-  [
-    [
       "2023-12-03, 23:44:12",
       "https://lobste.rs/s/3gvncq/pov_candle"
     ],
@@ -147,16 +157,6 @@
     [
       "Build Stupid Tools",
       "https://blog.stulta.dev/posts/stupid_tools/"
-    ]
-  ],
-  [
-    [
-      "2023-12-03, 21:03:01",
-      "https://lobste.rs/s/t54jmo/intro_large_language_models_1hr_talk"
-    ],
-    [
-      "Intro to Large Language Models [1hr Talk]",
-      "https://www.youtube.com/watch?v=zjkBMFhNj_g"
     ]
   ],
   [
