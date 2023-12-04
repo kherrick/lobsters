@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-04, 13:58:23](https://lobste.rs/s/5nzyaq/django_5_0_released) - [Django 5.0 released](https://www.djangoproject.com/weblog/2023/dec/04/django-50-released/)
 * [2023-12-04, 13:19:49](https://lobste.rs/s/fggblt/few_words_about_blameless_culture) - [A few words about Blameless culture](https://www.gybe.ca/a-few-words-about-blameless-culture/)
 * [2023-12-04, 13:18:58](https://lobste.rs/s/cagchy/proposal_add_further_characters_from) - [Proposal to add further characters from legacy computers and teletext to Unicode](https://www.unicode.org/L2/L2021/21235-terminals-supplement.pdf)
 * [2023-12-04, 13:17:51](https://lobste.rs/s/2gfmlg/from_486_vue_js_evan_you_s_full_time_gamble) - [From 486 to Vue.js: Evan You's Full-Time Gamble on Open Source](https://corecursive.com/vue-with-evan-you/)
@@ -10,7 +11,6 @@
 * [2023-12-04, 09:33:45](https://lobste.rs/s/lrqbmb/old_blog_matt_henderson_beautiful_math) - [Old blog of Matt Henderson, beautiful math animations](https://blog.matthen.com/)
 * [2023-12-04, 08:48:56](https://lobste.rs/s/33lvyo/inercia_2023) - [Inércia 2023](https://celso.io/posts/2023/12/03/inercia-2023/)
 * [2023-12-04, 06:36:12](https://lobste.rs/s/ngjt5r/nobuild_header_only_library_for_writing) - [nobuild: Header only library for writing build recipes in C](https://github.com/tsoding/nobuild)
-* [2023-12-04, 05:04:53](https://lobste.rs/s/9h3bpi/s_far_out_man) - [That's FAR-out, Man](https://blog.dfsec.com/ios/2023/11/19/thats-far-out-man/)
 * [2023-12-04, 01:40:14](https://lobste.rs/s/ozojfe/arc_self_tuning_low_overhead_replacement) - [ARC: A Self-Tuning, Low Overhead Replacement Cache](https://www.usenix.org/legacy/events/fast03/tech/full_papers/megiddo/megiddo.pdf)
 * [2023-12-04, 00:36:41](https://lobste.rs/s/tly80m/advent_code_visualization_2023) - [Advent of Code Visualization 2023](https://www.geoffreylitt.com/aoc2023/)
 * [2023-12-03, 23:44:12](https://lobste.rs/s/3gvncq/pov_candle) - [POV Candle](https://mitxela.com/projects/candle)

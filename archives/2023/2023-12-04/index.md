@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
+* [2023-12-04, 13:58:23](https://lobste.rs/s/5nzyaq/django_5_0_released) - [Django 5.0 released](https://www.djangoproject.com/weblog/2023/dec/04/django-50-released/)
 * [2023-12-04, 13:19:49](https://lobste.rs/s/fggblt/few_words_about_blameless_culture) - [A few words about Blameless culture](https://www.gybe.ca/a-few-words-about-blameless-culture/)
 * [2023-12-04, 13:18:58](https://lobste.rs/s/cagchy/proposal_add_further_characters_from) - [Proposal to add further characters from legacy computers and teletext to Unicode](https://www.unicode.org/L2/L2021/21235-terminals-supplement.pdf)
 * [2023-12-04, 13:17:51](https://lobste.rs/s/2gfmlg/from_486_vue_js_evan_you_s_full_time_gamble) - [From 486 to Vue.js: Evan You's Full-Time Gamble on Open Source](https://corecursive.com/vue-with-evan-you/)
