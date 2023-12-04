@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-04, 14:47:52",
+      "https://lobste.rs/s/oxywix/when_static_types_make_your_code_shorter"
+    ],
+    [
+      "When static types make your code shorter",
+      "https://evanhahn.com/when-static-types-make-your-code-shorter/"
+    ]
+  ],
+  [
+    [
       "2023-12-04, 13:58:23",
       "https://lobste.rs/s/5nzyaq/django_5_0_released"
     ],
@@ -207,16 +217,6 @@
     [
       "A wigwam is a small-but-mighty project that reduces public reliance on battleships",
       "https://github.com/surprisetalk/wigwams"
-    ]
-  ],
-  [
-    [
-      "2023-12-03, 14:12:06",
-      "https://lobste.rs/s/cjzhi2/slsa_security_levels"
-    ],
-    [
-      "SLSA Security Levels",
-      "https://slsa.dev/spec/v1.0/levels"
     ]
   ],
   [
