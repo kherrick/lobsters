@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-04, 15:39:25",
+      "https://lobste.rs/s/authic/what_is_static_chain_pointer_context"
+    ],
+    [
+      "What is a static chain pointer in the context of calling convention ABI?",
+      "https://devblogs.microsoft.com/oldnewthing/20231204-00/?p=109095"
+    ]
+  ],
+  [
+    [
       "2023-12-04, 15:33:07",
       "https://lobste.rs/s/vca8xp/topics_computer_graphics"
     ],
@@ -237,16 +247,6 @@
     [
       "sh: Relative shell script includes with realpath on FreeBSD",
       "https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/"
-    ]
-  ],
-  [
-    [
-      "2023-12-03, 11:58:23",
-      "https://lobste.rs/s/pankrv/endianness_why_i_don_t_like_htons_3_friends"
-    ],
-    [
-      "Endianness, and why I don't like htons(3) and friends",
-      "https://www.thecodedmessage.com/posts/endianness/"
     ]
   ]
 ]
