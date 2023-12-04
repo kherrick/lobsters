@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
+* [2023-12-04, 12:59:12](https://lobste.rs/s/wjitaf/why_kubernetes_needs_lts) - [Why Kubernetes needs an LTS](https://matduggan.com/why-kubernetes-needs-an-lts/)
+* [2023-12-04, 12:54:43](https://lobste.rs/s/yg2crz/profiling_rust_programs_easy_way) - [Profiling Rust programs the easy way](https://ntietz.com/blog/profiling-rust-programs-the-easy-way/)
 * [2023-12-04, 11:46:03](https://lobste.rs/s/umpz76/recursive_zksnarks_practical_deep_dive) - [Recursive ZkSNARKs: A Practical Deep Dive Without Maths](https://illya.sh/blog/posts/zk-snarks-recursive-proof-private-intput-visibility/)
 * [2023-12-04, 11:24:46](https://lobste.rs/s/djmzw1/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/djmzw1/what_are_you_doing_this_week)
 * [2023-12-04, 09:33:45](https://lobste.rs/s/lrqbmb/old_blog_matt_henderson_beautiful_math) - [Old blog of Matt Henderson, beautiful math animations](https://blog.matthen.com/)

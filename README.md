@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-04, 12:59:12](https://lobste.rs/s/wjitaf/why_kubernetes_needs_lts) - [Why Kubernetes needs an LTS](https://matduggan.com/why-kubernetes-needs-an-lts/)
+* [2023-12-04, 12:54:43](https://lobste.rs/s/yg2crz/profiling_rust_programs_easy_way) - [Profiling Rust programs the easy way](https://ntietz.com/blog/profiling-rust-programs-the-easy-way/)
 * [2023-12-04, 11:46:03](https://lobste.rs/s/umpz76/recursive_zksnarks_practical_deep_dive) - [Recursive ZkSNARKs: A Practical Deep Dive Without Maths](https://illya.sh/blog/posts/zk-snarks-recursive-proof-private-intput-visibility/)
 * [2023-12-04, 11:24:46](https://lobste.rs/s/djmzw1/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/djmzw1/what_are_you_doing_this_week)
 * [2023-12-04, 09:33:45](https://lobste.rs/s/lrqbmb/old_blog_matt_henderson_beautiful_math) - [Old blog of Matt Henderson, beautiful math animations](https://blog.matthen.com/)
@@ -22,8 +24,6 @@
 * [2023-12-03, 14:12:06](https://lobste.rs/s/cjzhi2/slsa_security_levels) - [SLSA Security Levels](https://slsa.dev/spec/v1.0/levels)
 * [2023-12-03, 14:09:48](https://lobste.rs/s/4emmdl/sh_relative_shell_script_includes_with) - [sh: Relative shell script includes with realpath on FreeBSD](https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/)
 * [2023-12-03, 11:58:23](https://lobste.rs/s/pankrv/endianness_why_i_don_t_like_htons_3_friends) - [Endianness, and why I don't like htons(3) and friends](https://www.thecodedmessage.com/posts/endianness/)
-* [2023-12-03, 08:46:13](https://lobste.rs/s/8yzsjn/struct_initialization) - [Struct initialization](https://www.sandordargo.com/blog/2023/11/22/struct-initialization)
-* [2023-12-02, 21:29:37](https://lobste.rs/s/wvd8hg/efficient_nix_derivations_with_file_sets) - [Efficient Nix Derivations with File Sets](https://johns.codes/blog/efficient-nix-derivations-with-file-sets)
 * [2023-12-02, 14:55:01](https://lobste.rs/s/u9gldw/you_don_t_need_javascript_for) - [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
 
 ## [Archives](archives/index.md)
