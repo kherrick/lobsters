@@ -4,7 +4,7 @@
 * [2023-12-04, 08:48:56](https://lobste.rs/s/33lvyo/inercia_2023) - [Inércia 2023](https://celso.io/posts/2023/12/03/inercia-2023/)
 * [2023-12-04, 06:36:12](https://lobste.rs/s/ngjt5r/nobuild_header_only_library_for_writing) - [nobuild: Header only library for writing build recipes in C](https://github.com/tsoding/nobuild)
 * [2023-12-04, 05:04:53](https://lobste.rs/s/9h3bpi/s_far_out_man) - [That's FAR-out, Man](https://blog.dfsec.com/ios/2023/11/19/thats-far-out-man/)
-* [2023-12-04, 01:40:14](https://lobste.rs/s/ozojfe/arc_self_tuning_low_overhead_replacement) - [ARC: A SELF-TUNING, LOW OVERHEAD REPLACEMENT CACHE](https://www.usenix.org/legacy/events/fast03/tech/full_papers/megiddo/megiddo.pdf)
+* [2023-12-04, 01:40:14](https://lobste.rs/s/ozojfe/arc_self_tuning_low_overhead_replacement) - [ARC: A Self-Tuning, Low Overhead Replacement Cache](https://www.usenix.org/legacy/events/fast03/tech/full_papers/megiddo/megiddo.pdf)
 * [2023-12-04, 00:36:41](https://lobste.rs/s/tly80m/advent_code_visualization_2023) - [Advent of Code Visualization 2023](https://www.geoffreylitt.com/aoc2023/)
 * [2023-12-03, 23:51:37](https://lobste.rs/s/zfuotw/retspill_igniting_user_controlled_data) - [RetSpill: Igniting User-Controlled Data to Burn Away Linux Kernel Protections](https://kylebot.net/papers/retspill.pdf)
 * [2023-12-03, 23:49:45](https://lobste.rs/s/drmnef/toolchain_security_features_status) - [Toolchain security features status update](https://outflux.net/slides/2023/lpc/features.pdf)
