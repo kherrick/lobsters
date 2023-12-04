@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-04, 15:20:50",
+      "https://lobste.rs/s/mpthmm/how_often_should_we_sharpen_our_tools"
+    ],
+    [
+      "How Often Should We Sharpen Our Tools?",
+      "https://tratt.net/laurie/blog/2023/how_often_should_we_sharpen_our_tools.html"
+    ]
+  ],
+  [
+    [
       "2023-12-04, 14:47:52",
       "https://lobste.rs/s/oxywix/when_static_types_make_your_code_shorter"
     ],
@@ -237,16 +247,6 @@
     [
       "Endianness, and why I don't like htons(3) and friends",
       "https://www.thecodedmessage.com/posts/endianness/"
-    ]
-  ],
-  [
-    [
-      "2023-12-02, 14:55:01",
-      "https://lobste.rs/s/u9gldw/you_don_t_need_javascript_for"
-    ],
-    [
-      "You don't need JavaScript for that",
-      "https://www.htmhell.dev/adventcalendar/2023/2/"
     ]
   ]
 ]
