@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-12-05, 03:06:06](https://lobste.rs/s/hcfkxz/smartifying_my_hi_fi_system) - [\"Smartifying\" my Hi-Fi system](https://blog.rgsilva.com/smartifying-my-hi-fi-system/)
+* [2023-12-05, 00:16:52](https://lobste.rs/s/i6wzug/html_programming_language) - [The HTML Programming Language](https://html-lang.org/)
 * [2023-12-04, 23:58:01](https://lobste.rs/s/n0vcuk/tutorial_on_principal_component) - [A Tutorial on Principal Component Analysis (2014)](https://arxiv.org/abs/1404.1100)
 * [2023-12-04, 22:30:58](https://lobste.rs/s/ddaeht/onyx_programming_language) - [The Onyx Programming Language](https://onyxlang.io/)
-* [2023-12-04, 21:56:51](https://lobste.rs/s/n2izf0/spooky_performance_regression_aws_ebs) - [A Spooky Performance Regression in AWS EBS Volumes](https://www.dolthub.com/blog/2023-11-22-spooky-performance-regression-aws-ebs/)
 * [2023-12-04, 20:25:21](https://lobste.rs/s/ufbis8/when_would_you_ever_want_bubblesort) - [When would you ever want bubblesort?](https://buttondown.email/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
 * [2023-12-04, 18:01:12](https://lobste.rs/s/avfwcc/how_duck_type_psychology_static_typing) - [How to duck type? - the psychology of static typing in Ruby (2004)](https://blade.ruby-lang.org/ruby-talk/100511)
 * [2023-12-04, 17:22:56](https://lobste.rs/s/nc5m1c/back_basics_5_html_attributes_for) - [Back to Basics: 5 HTML attributes for improved accessibility and user experience](https://www.htmhell.dev/adventcalendar/2023/4/)
