@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-05, 18:33:29",
+      "https://lobste.rs/s/vankts/leaky_address_masking_exploiting"
+    ],
+    [
+      "Leaky Address Masking: Exploiting Unmasked Spectre Gadgets with Noncanonical Address Translation",
+      "https://download.vusec.net/papers/slam_sp24.pdf"
+    ]
+  ],
+  [
+    [
       "2023-12-05, 18:15:13",
       "https://lobste.rs/s/i7k7zv/nix_super"
     ],
@@ -157,16 +167,6 @@
     [
       "When would you ever want bubblesort?",
       "https://buttondown.email/hillelwayne/archive/when-would-you-ever-want-bubblesort/"
-    ]
-  ],
-  [
-    [
-      "2023-12-04, 17:22:56",
-      "https://lobste.rs/s/nc5m1c/back_basics_5_html_attributes_for"
-    ],
-    [
-      "Back to Basics: 5 HTML attributes for improved accessibility and user experience",
-      "https://www.htmhell.dev/adventcalendar/2023/4/"
     ]
   ],
   [
