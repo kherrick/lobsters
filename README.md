@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-05, 08:08:34](https://lobste.rs/s/0vssr2/ehtml) - [EHTML](https://e-html.org/html/documentation.html)
 * [2023-12-05, 07:42:46](https://lobste.rs/s/utqzqu/halfnarp_scheduling_helper_app_for_37c3) - [Halfnarp scheduling helper app for 37C3](https://halfnarp.events.ccc.de/)
 * [2023-12-05, 03:06:06](https://lobste.rs/s/hcfkxz/smartifying_my_hi_fi_system) - [\"Smartifying\" my Hi-Fi system](https://blog.rgsilva.com/smartifying-my-hi-fi-system/)
 * [2023-12-05, 00:16:52](https://lobste.rs/s/i6wzug/html_programming_language) - [The HTML Programming Language](https://html-lang.org/)
@@ -24,7 +25,6 @@
 * [2023-12-04, 11:24:46](https://lobste.rs/s/djmzw1/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/djmzw1/what_are_you_doing_this_week)
 * [2023-12-04, 06:36:12](https://lobste.rs/s/ngjt5r/nobuild_header_only_library_for_writing) - [nobuild: Header only library for writing build recipes in C](https://github.com/tsoding/nobuild)
 * [2023-12-03, 22:00:15](https://lobste.rs/s/qn3lai/build_stupid_tools) - [Build Stupid Tools](https://blog.stulta.dev/posts/stupid_tools/)
-* [2023-12-03, 14:09:48](https://lobste.rs/s/4emmdl/sh_relative_shell_script_includes_with) - [sh: Relative shell script includes with realpath on FreeBSD](https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/)
 
 ## [Archives](archives/index.md)
 
