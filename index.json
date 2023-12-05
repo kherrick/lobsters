@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-12-05, 09:36:21",
-      "https://lobste.rs/s/cxfmh7/box_breathe"
-    ],
-    [
-      "Box Breathe",
-      "https://boxbreathe.cc/"
-    ]
-  ],
-  [
-    [
       "2023-12-05, 08:26:24",
       "https://lobste.rs/s/hmfadm/mounting_git_commits_as_folders_with_nfs"
     ],
@@ -227,6 +217,16 @@
     [
       "Profiling Rust programs the easy way",
       "https://ntietz.com/blog/profiling-rust-programs-the-easy-way/"
+    ]
+  ],
+  [
+    [
+      "2023-12-04, 11:46:03",
+      "https://lobste.rs/s/umpz76/recursive_zksnarks_practical_deep_dive"
+    ],
+    [
+      "Recursive ZkSNARKs: A Practical Deep Dive Without Maths",
+      "https://illya.sh/blog/posts/zk-snarks-recursive-proof-private-intput-visibility/"
     ]
   ],
   [
