@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-05, 09:36:21](https://lobste.rs/s/cxfmh7/box_breathe) - [Box Breathe](https://boxbreathe.cc/)
 * [2023-12-05, 08:26:24](https://lobste.rs/s/hmfadm/mounting_git_commits_as_folders_with_nfs) - [Mounting git commits as folders with NFS](https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/)
 * [2023-12-05, 08:08:34](https://lobste.rs/s/0vssr2/ehtml) - [EHTML](https://e-html.org/html/documentation.html)
 * [2023-12-05, 07:42:46](https://lobste.rs/s/utqzqu/halfnarp_scheduling_helper_app_for_37c3) - [Halfnarp scheduling helper app for 37C3](https://halfnarp.events.ccc.de/)
@@ -12,7 +13,6 @@
 * [2023-12-04, 17:22:56](https://lobste.rs/s/nc5m1c/back_basics_5_html_attributes_for) - [Back to Basics: 5 HTML attributes for improved accessibility and user experience](https://www.htmhell.dev/adventcalendar/2023/4/)
 * [2023-12-04, 17:05:48](https://lobste.rs/s/qbj84x/easy_sounding_problem_yields_numbers_too) - [An Easy-Sounding Problem Yields Numbers Too Big for Our Universe](https://www.quantamagazine.org/an-easy-sounding-problem-yields-numbers-too-big-for-our-universe-20231204/)
 * [2023-12-04, 15:58:20](https://lobste.rs/s/ycuhxy/wayland_isn_t_going_save_linux_desktop) - [Wayland Isn't Going to Save The Linux Desktop (2022)](https://dudemanguy.github.io/blog/posts/2022-06-10-wayland-xorg/wayland-xorg.html)
-* [2023-12-04, 15:33:07](https://lobste.rs/s/vca8xp/topics_computer_graphics) - [Topics in computer graphics](https://mrl.cs.nyu.edu/~perlin/graphics/)
 * [2023-12-04, 15:30:33](https://lobste.rs/s/ikh4f6/security_kernel_based_on_lambda_calculus) - [A Security Kernel Based on the Lambda Calculus](http://mumble.net/~jar/pubs/secureos/secureos.html)
 * [2023-12-04, 15:20:50](https://lobste.rs/s/mpthmm/how_often_should_we_sharpen_our_tools) - [How Often Should We Sharpen Our Tools?](https://tratt.net/laurie/blog/2023/how_often_should_we_sharpen_our_tools.html)
 * [2023-12-04, 14:47:52](https://lobste.rs/s/oxywix/when_static_types_make_your_code_shorter) - [When static types make your code shorter](https://evanhahn.com/when-static-types-make-your-code-shorter/)
