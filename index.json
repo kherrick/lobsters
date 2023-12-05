@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-05, 15:01:28",
+      "https://lobste.rs/s/4cywvk/behind_scenes_rust_string_formatting"
+    ],
+    [
+      "Behind the Scenes of Rust String Formatting: format_args!()",
+      "https://blog.m-ou.se/format-args/"
+    ]
+  ],
+  [
+    [
+      "2023-12-05, 14:54:50",
+      "https://lobste.rs/s/6ulmq0/go_testing_by_example"
+    ],
+    [
+      "Go Testing By Example",
+      "http://research.swtch.com/testing"
+    ]
+  ],
+  [
+    [
       "2023-12-05, 14:31:17",
       "https://lobste.rs/s/lnvpbf/curious_case_aggregation_query"
     ],
@@ -107,16 +127,6 @@
     [
       "When would you ever want bubblesort?",
       "https://buttondown.email/hillelwayne/archive/when-would-you-ever-want-bubblesort/"
-    ]
-  ],
-  [
-    [
-      "2023-12-04, 18:01:12",
-      "https://lobste.rs/s/avfwcc/how_duck_type_psychology_static_typing"
-    ],
-    [
-      "How to duck type? - the psychology of static typing in Ruby (2004)",
-      "https://blade.ruby-lang.org/ruby-talk/100511"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Profiling Rust programs the easy way",
       "https://ntietz.com/blog/profiling-rust-programs-the-easy-way/"
-    ]
-  ],
-  [
-    [
-      "2023-12-03, 22:00:15",
-      "https://lobste.rs/s/qn3lai/build_stupid_tools"
-    ],
-    [
-      "Build Stupid Tools",
-      "https://blog.stulta.dev/posts/stupid_tools/"
     ]
   ]
 ]
