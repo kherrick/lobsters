@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-05, 15:24:34](https://lobste.rs/s/8igrxm/train_firmware_reverse_engineering) - [Train firmware reverse engineering discovers bogus lock up code](https://social.hackerspace.pl/@q3k/111528162462505087)
 * [2023-12-05, 15:01:28](https://lobste.rs/s/4cywvk/behind_scenes_rust_string_formatting) - [Behind the Scenes of Rust String Formatting: format_args!()](https://blog.m-ou.se/format-args/)
 * [2023-12-05, 14:54:50](https://lobste.rs/s/6ulmq0/go_testing_by_example) - [Go Testing By Example](http://research.swtch.com/testing)
 * [2023-12-05, 14:31:17](https://lobste.rs/s/lnvpbf/curious_case_aggregation_query) - [The Curious Case of the Aggregation Query](https://modern-sql.com/blog/2023-12/curious-case-aggregation-query)
@@ -24,7 +25,6 @@
 * [2023-12-04, 13:18:58](https://lobste.rs/s/cagchy/proposal_add_further_characters_from) - [Proposal to add further characters from legacy computers and teletext to Unicode](https://www.unicode.org/L2/L2021/21235-terminals-supplement.pdf)
 * [2023-12-04, 13:17:51](https://lobste.rs/s/2gfmlg/from_486_vue_js_evan_you_s_full_time_gamble) - [From 486 to Vue.js: Evan You's Full-Time Gamble on Open Source](https://corecursive.com/vue-with-evan-you/)
 * [2023-12-04, 12:59:12](https://lobste.rs/s/wjitaf/why_kubernetes_needs_lts) - [Why Kubernetes needs an LTS](https://matduggan.com/why-kubernetes-needs-an-lts/)
-* [2023-12-04, 12:54:43](https://lobste.rs/s/yg2crz/profiling_rust_programs_easy_way) - [Profiling Rust programs the easy way](https://ntietz.com/blog/profiling-rust-programs-the-easy-way/)
 
 ## [Archives](archives/index.md)
 

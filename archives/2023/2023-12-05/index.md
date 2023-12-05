@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
+* [2023-12-05, 15:24:34](https://lobste.rs/s/8igrxm/train_firmware_reverse_engineering) - [Train firmware reverse engineering discovers bogus lock up code](https://social.hackerspace.pl/@q3k/111528162462505087)
 * [2023-12-05, 15:01:28](https://lobste.rs/s/4cywvk/behind_scenes_rust_string_formatting) - [Behind the Scenes of Rust String Formatting: format_args!()](https://blog.m-ou.se/format-args/)
 * [2023-12-05, 14:54:50](https://lobste.rs/s/6ulmq0/go_testing_by_example) - [Go Testing By Example](http://research.swtch.com/testing)
 * [2023-12-05, 14:31:17](https://lobste.rs/s/lnvpbf/curious_case_aggregation_query) - [The Curious Case of the Aggregation Query](https://modern-sql.com/blog/2023-12/curious-case-aggregation-query)
