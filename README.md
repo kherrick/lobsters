@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-05, 08:26:24](https://lobste.rs/s/hmfadm/mounting_git_commits_as_folders_with_nfs) - [Mounting git commits as folders with NFS](https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/)
 * [2023-12-05, 08:08:34](https://lobste.rs/s/0vssr2/ehtml) - [EHTML](https://e-html.org/html/documentation.html)
 * [2023-12-05, 07:42:46](https://lobste.rs/s/utqzqu/halfnarp_scheduling_helper_app_for_37c3) - [Halfnarp scheduling helper app for 37C3](https://halfnarp.events.ccc.de/)
 * [2023-12-05, 03:06:06](https://lobste.rs/s/hcfkxz/smartifying_my_hi_fi_system) - [\"Smartifying\" my Hi-Fi system](https://blog.rgsilva.com/smartifying-my-hi-fi-system/)
@@ -23,7 +24,6 @@
 * [2023-12-04, 12:54:43](https://lobste.rs/s/yg2crz/profiling_rust_programs_easy_way) - [Profiling Rust programs the easy way](https://ntietz.com/blog/profiling-rust-programs-the-easy-way/)
 * [2023-12-04, 11:46:03](https://lobste.rs/s/umpz76/recursive_zksnarks_practical_deep_dive) - [Recursive ZkSNARKs: A Practical Deep Dive Without Maths](https://illya.sh/blog/posts/zk-snarks-recursive-proof-private-intput-visibility/)
 * [2023-12-04, 11:24:46](https://lobste.rs/s/djmzw1/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/djmzw1/what_are_you_doing_this_week)
-* [2023-12-04, 06:36:12](https://lobste.rs/s/ngjt5r/nobuild_header_only_library_for_writing) - [nobuild: Header only library for writing build recipes in C](https://github.com/tsoding/nobuild)
 * [2023-12-03, 22:00:15](https://lobste.rs/s/qn3lai/build_stupid_tools) - [Build Stupid Tools](https://blog.stulta.dev/posts/stupid_tools/)
 
 ## [Archives](archives/index.md)
