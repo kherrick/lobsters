@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-05, 19:57:47](https://lobste.rs/s/yw9nqy/gdb_14_1_released_lwn_net) - [GDB 14.1 released [LWN.net]](https://lwn.net/Articles/953732/)
 * [2023-12-05, 19:48:26](https://lobste.rs/s/juo9gy/imessage_explained) - [iMessage, explained](https://jjtech.dev/reverse-engineering/imessage-explained/)
 * [2023-12-05, 19:23:34](https://lobste.rs/s/dm4v5j/data_leak_loss_some_free_tier_databases) - [Data leak and loss in some free tier databases](https://blog.turso.tech/incident-2023-12-04-data-leak-and-loss-in-some-free-tier-databases-7cba5bc7)
 * [2023-12-05, 18:33:29](https://lobste.rs/s/vankts/leaky_address_masking_exploiting) - [Leaky Address Masking: Exploiting Unmasked Spectre Gadgets with Noncanonical Address Translation](https://download.vusec.net/papers/slam_sp24.pdf)
@@ -22,7 +23,6 @@
 * [2023-12-04, 15:20:50](https://lobste.rs/s/mpthmm/how_often_should_we_sharpen_our_tools) - [How Often Should We Sharpen Our Tools?](https://tratt.net/laurie/blog/2023/how_often_should_we_sharpen_our_tools.html)
 * [2023-12-04, 14:47:52](https://lobste.rs/s/oxywix/when_static_types_make_your_code_shorter) - [When static types make your code shorter](https://evanhahn.com/when-static-types-make-your-code-shorter/)
 * [2023-12-04, 13:19:49](https://lobste.rs/s/fggblt/few_words_about_blameless_culture) - [A few words about Blameless culture](https://www.gybe.ca/a-few-words-about-blameless-culture/)
-* [2023-12-04, 13:18:58](https://lobste.rs/s/cagchy/proposal_add_further_characters_from) - [Proposal to add further characters from legacy computers and teletext to Unicode](https://www.unicode.org/L2/L2021/21235-terminals-supplement.pdf)
 * [2023-12-04, 13:17:51](https://lobste.rs/s/2gfmlg/from_486_vue_js_evan_you_s_full_time_gamble) - [From 486 to Vue.js: Evan You's Full-Time Gamble on Open Source](https://corecursive.com/vue-with-evan-you/)
 * [2023-12-04, 12:59:12](https://lobste.rs/s/wjitaf/why_kubernetes_needs_lts) - [Why Kubernetes needs an LTS](https://matduggan.com/why-kubernetes-needs-an-lts/)
 
