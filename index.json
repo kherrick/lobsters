@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-12-05, 18:33:29",
+      "https://lobste.rs/s/vankts/leaky_address_masking_exploiting"
+    ],
+    [
+      "Leaky Address Masking: Exploiting Unmasked Spectre Gadgets with Noncanonical Address Translation",
+      "https://download.vusec.net/papers/slam_sp24.pdf"
+    ]
+  ],
+  [
+    [
       "2023-12-05, 18:15:13",
       "https://lobste.rs/s/i7k7zv/nix_super"
     ],
@@ -217,16 +227,6 @@
     [
       "A few words about Blameless culture",
       "https://www.gybe.ca/a-few-words-about-blameless-culture/"
-    ]
-  ],
-  [
-    [
-      "2023-12-04, 13:18:58",
-      "https://lobste.rs/s/cagchy/proposal_add_further_characters_from"
-    ],
-    [
-      "Proposal to add further characters from legacy computers and teletext to Unicode",
-      "https://www.unicode.org/L2/L2021/21235-terminals-supplement.pdf"
     ]
   ],
   [
