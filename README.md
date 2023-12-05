@@ -1,9 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-05, 00:16:52](https://lobste.rs/s/i6wzug/html_programming_language) - [The HTML Programming Language](https://html-lang.org/)
 * [2023-12-04, 22:30:58](https://lobste.rs/s/ddaeht/onyx_programming_language) - [The Onyx Programming Language](https://onyxlang.io/)
 * [2023-12-04, 21:56:51](https://lobste.rs/s/n2izf0/spooky_performance_regression_aws_ebs) - [A Spooky Performance Regression in AWS EBS Volumes](https://www.dolthub.com/blog/2023-11-22-spooky-performance-regression-aws-ebs/)
 * [2023-12-04, 20:25:21](https://lobste.rs/s/ufbis8/when_would_you_ever_want_bubblesort) - [When would you ever want bubblesort?](https://buttondown.email/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
 * [2023-12-04, 18:01:12](https://lobste.rs/s/avfwcc/how_duck_type_psychology_static_typing) - [How to duck type? - the psychology of static typing in Ruby (2004)](https://blade.ruby-lang.org/ruby-talk/100511)
+* [2023-12-04, 17:22:56](https://lobste.rs/s/nc5m1c/back_basics_5_html_attributes_for) - [Back to Basics: 5 HTML attributes for improved accessibility and user experience](https://www.htmhell.dev/adventcalendar/2023/4/)
 * [2023-12-04, 17:05:48](https://lobste.rs/s/qbj84x/easy_sounding_problem_yields_numbers_too) - [An Easy-Sounding Problem Yields Numbers Too Big for Our Universe](https://www.quantamagazine.org/an-easy-sounding-problem-yields-numbers-too-big-for-our-universe-20231204/)
 * [2023-12-04, 15:58:20](https://lobste.rs/s/ycuhxy/wayland_isn_t_going_save_linux_desktop) - [Wayland Isn't Going to Save The Linux Desktop (2022)](https://dudemanguy.github.io/blog/posts/2022-06-10-wayland-xorg/wayland-xorg.html)
 * [2023-12-04, 15:33:07](https://lobste.rs/s/vca8xp/topics_computer_graphics) - [Topics in computer graphics](https://mrl.cs.nyu.edu/~perlin/graphics/)
@@ -21,9 +23,7 @@
 * [2023-12-04, 09:33:45](https://lobste.rs/s/lrqbmb/old_blog_matt_henderson_beautiful_math) - [Old blog of Matt Henderson, beautiful math animations](https://blog.matthen.com/)
 * [2023-12-04, 06:36:12](https://lobste.rs/s/ngjt5r/nobuild_header_only_library_for_writing) - [nobuild: Header only library for writing build recipes in C](https://github.com/tsoding/nobuild)
 * [2023-12-04, 01:40:14](https://lobste.rs/s/ozojfe/arc_self_tuning_low_overhead_replacement) - [ARC: A Self-Tuning, Low Overhead Replacement Cache](https://www.usenix.org/legacy/events/fast03/tech/full_papers/megiddo/megiddo.pdf)
-* [2023-12-03, 23:44:12](https://lobste.rs/s/3gvncq/pov_candle) - [POV Candle](https://mitxela.com/projects/candle)
 * [2023-12-03, 22:00:15](https://lobste.rs/s/qn3lai/build_stupid_tools) - [Build Stupid Tools](https://blog.stulta.dev/posts/stupid_tools/)
-* [2023-12-03, 15:56:07](https://lobste.rs/s/an3mkg/wigwam_is_small_mighty_project_reduces) - [A wigwam is a small-but-mighty project that reduces public reliance on battleships](https://github.com/surprisetalk/wigwams)
 * [2023-12-03, 14:09:48](https://lobste.rs/s/4emmdl/sh_relative_shell_script_includes_with) - [sh: Relative shell script includes with realpath on FreeBSD](https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/)
 
 ## [Archives](archives/index.md)
