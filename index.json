@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-05, 03:06:06",
+      "https://lobste.rs/s/hcfkxz/smartifying_my_hi_fi_system"
+    ],
+    [
+      "\"Smartifying\" my Hi-Fi system",
+      "https://blog.rgsilva.com/smartifying-my-hi-fi-system/"
+    ]
+  ],
+  [
+    [
       "2023-12-04, 23:58:01",
       "https://lobste.rs/s/n0vcuk/tutorial_on_principal_component"
     ],
@@ -217,16 +227,6 @@
     [
       "nobuild: Header only library for writing build recipes in C",
       "https://github.com/tsoding/nobuild"
-    ]
-  ],
-  [
-    [
-      "2023-12-04, 01:40:14",
-      "https://lobste.rs/s/ozojfe/arc_self_tuning_low_overhead_replacement"
-    ],
-    [
-      "ARC: A Self-Tuning, Low Overhead Replacement Cache",
-      "https://www.usenix.org/legacy/events/fast03/tech/full_papers/megiddo/megiddo.pdf"
     ]
   ],
   [
