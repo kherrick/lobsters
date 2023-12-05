@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-05, 12:21:11",
+      "https://lobste.rs/s/esm6w7/return_webassembly_for_java_geek"
+    ],
+    [
+      "A Return to WebAssembly for the Java Geek",
+      "https://www.javaadvent.com/2023/12/a-return-to-webassembly-for-the-java-geek.html"
+    ]
+  ],
+  [
+    [
       "2023-12-05, 09:36:21",
       "https://lobste.rs/s/cxfmh7/box_breathe"
     ],
@@ -217,16 +227,6 @@
     [
       "Profiling Rust programs the easy way",
       "https://ntietz.com/blog/profiling-rust-programs-the-easy-way/"
-    ]
-  ],
-  [
-    [
-      "2023-12-04, 11:46:03",
-      "https://lobste.rs/s/umpz76/recursive_zksnarks_practical_deep_dive"
-    ],
-    [
-      "Recursive ZkSNARKs: A Practical Deep Dive Without Maths",
-      "https://illya.sh/blog/posts/zk-snarks-recursive-proof-private-intput-visibility/"
     ]
   ],
   [
