@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-05, 14:19:06](https://lobste.rs/s/ub9aij/ia_get_is_rust_app_developed_mostly_using) - [ia-get is a Rust app developed (mostly) using \"Chatty Jeeps\"](https://github.com/wimpysworld/ia-get)
 * [2023-12-05, 13:58:04](https://lobste.rs/s/g1ucp9/leafpipe_turning_lots_lots_audio_visual) - [Leafpipe: turning lots and lots of audio/visual into pretty stimuli](https://half-shot.uk/blog/leafpipe/)
 * [2023-12-05, 12:21:11](https://lobste.rs/s/esm6w7/return_webassembly_for_java_geek) - [A Return to WebAssembly for the Java Geek](https://www.javaadvent.com/2023/12/a-return-to-webassembly-for-the-java-geek.html)
 * [2023-12-05, 08:26:24](https://lobste.rs/s/hmfadm/mounting_git_commits_as_folders_with_nfs) - [Mounting git commits as folders with NFS](https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/)
@@ -7,7 +8,6 @@
 * [2023-12-05, 07:42:46](https://lobste.rs/s/utqzqu/halfnarp_scheduling_helper_app_for_37c3) - [Halfnarp scheduling helper app for 37C3](https://halfnarp.events.ccc.de/)
 * [2023-12-05, 03:06:06](https://lobste.rs/s/hcfkxz/smartifying_my_hi_fi_system) - [\"Smartifying\" my Hi-Fi system](https://blog.rgsilva.com/smartifying-my-hi-fi-system/)
 * [2023-12-05, 00:16:52](https://lobste.rs/s/i6wzug/html_programming_language) - [The HTML Programming Language](https://html-lang.org/)
-* [2023-12-04, 23:58:01](https://lobste.rs/s/n0vcuk/tutorial_on_principal_component) - [A Tutorial on Principal Component Analysis (2014)](https://arxiv.org/abs/1404.1100)
 * [2023-12-04, 22:30:58](https://lobste.rs/s/ddaeht/onyx_programming_language) - [The Onyx Programming Language](https://onyxlang.io/)
 * [2023-12-04, 20:25:21](https://lobste.rs/s/ufbis8/when_would_you_ever_want_bubblesort) - [When would you ever want bubblesort?](https://buttondown.email/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
 * [2023-12-04, 18:01:12](https://lobste.rs/s/avfwcc/how_duck_type_psychology_static_typing) - [How to duck type? - the psychology of static typing in Ruby (2004)](https://blade.ruby-lang.org/ruby-talk/100511)
