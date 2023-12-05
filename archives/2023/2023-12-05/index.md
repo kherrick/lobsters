@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
+* [2023-12-05, 18:15:13](https://lobste.rs/s/i7k7zv/nix_super) - [Nix Super](https://github.com/privatevoid-net/nix-super)
+* [2023-12-05, 18:07:44](https://lobste.rs/s/rskckb/eink_display_for_octopus_s_agile_energy) - [eInk Display for Octopus's Agile Energy Tariff](https://shkspr.mobi/blog/2023/12/eink-display-for-octopuss-agile-energy-tariff/)
 * [2023-12-05, 17:21:32](https://lobste.rs/s/r8pwwc/rubber_chickens_purple_boxes_2014) - [Rubber chickens and purple boxes (2014)](https://web.archive.org/web/20230327143056/https://talkingmoose.net/2014/05/11/rubber-chickens-and-purple-boxes/)
 * [2023-12-05, 17:18:27](https://lobste.rs/s/bqaoas/pypush_cross_platform_imessage_poc) - [pypush: Cross-platform iMessage POC](https://github.com/JJTech0130/pypush)
 * [2023-12-05, 15:24:34](https://lobste.rs/s/8igrxm/train_firmware_reverse_engineering) - [Train firmware reverse engineering discovers bogus lock up code](https://social.hackerspace.pl/@q3k/111528162462505087)
