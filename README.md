@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-05, 15:01:28](https://lobste.rs/s/4cywvk/behind_scenes_rust_string_formatting) - [Behind the Scenes of Rust String Formatting: format_args!()](https://blog.m-ou.se/format-args/)
+* [2023-12-05, 14:54:50](https://lobste.rs/s/6ulmq0/go_testing_by_example) - [Go Testing By Example](http://research.swtch.com/testing)
 * [2023-12-05, 14:31:17](https://lobste.rs/s/lnvpbf/curious_case_aggregation_query) - [The Curious Case of the Aggregation Query](https://modern-sql.com/blog/2023-12/curious-case-aggregation-query)
 * [2023-12-05, 14:19:06](https://lobste.rs/s/ub9aij/ia_get_is_rust_app_developed_mostly_using) - [ia-get is a Rust app developed (mostly) using \"Chatty Jeeps\"](https://github.com/wimpysworld/ia-get)
 * [2023-12-05, 13:58:04](https://lobste.rs/s/g1ucp9/leafpipe_turning_lots_lots_audio_visual) - [Leafpipe: turning lots and lots of audio/visual into pretty stimuli](https://half-shot.uk/blog/leafpipe/)
@@ -11,7 +13,6 @@
 * [2023-12-05, 00:16:52](https://lobste.rs/s/i6wzug/html_programming_language) - [The HTML Programming Language](https://html-lang.org/)
 * [2023-12-04, 22:30:58](https://lobste.rs/s/ddaeht/onyx_programming_language) - [The Onyx Programming Language](https://onyxlang.io/)
 * [2023-12-04, 20:25:21](https://lobste.rs/s/ufbis8/when_would_you_ever_want_bubblesort) - [When would you ever want bubblesort?](https://buttondown.email/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
-* [2023-12-04, 18:01:12](https://lobste.rs/s/avfwcc/how_duck_type_psychology_static_typing) - [How to duck type? - the psychology of static typing in Ruby (2004)](https://blade.ruby-lang.org/ruby-talk/100511)
 * [2023-12-04, 17:22:56](https://lobste.rs/s/nc5m1c/back_basics_5_html_attributes_for) - [Back to Basics: 5 HTML attributes for improved accessibility and user experience](https://www.htmhell.dev/adventcalendar/2023/4/)
 * [2023-12-04, 17:05:48](https://lobste.rs/s/qbj84x/easy_sounding_problem_yields_numbers_too) - [An Easy-Sounding Problem Yields Numbers Too Big for Our Universe](https://www.quantamagazine.org/an-easy-sounding-problem-yields-numbers-too-big-for-our-universe-20231204/)
 * [2023-12-04, 15:58:20](https://lobste.rs/s/ycuhxy/wayland_isn_t_going_save_linux_desktop) - [Wayland Isn't Going to Save The Linux Desktop (2022)](https://dudemanguy.github.io/blog/posts/2022-06-10-wayland-xorg/wayland-xorg.html)
@@ -24,7 +25,6 @@
 * [2023-12-04, 13:17:51](https://lobste.rs/s/2gfmlg/from_486_vue_js_evan_you_s_full_time_gamble) - [From 486 to Vue.js: Evan You's Full-Time Gamble on Open Source](https://corecursive.com/vue-with-evan-you/)
 * [2023-12-04, 12:59:12](https://lobste.rs/s/wjitaf/why_kubernetes_needs_lts) - [Why Kubernetes needs an LTS](https://matduggan.com/why-kubernetes-needs-an-lts/)
 * [2023-12-04, 12:54:43](https://lobste.rs/s/yg2crz/profiling_rust_programs_easy_way) - [Profiling Rust programs the easy way](https://ntietz.com/blog/profiling-rust-programs-the-easy-way/)
-* [2023-12-03, 22:00:15](https://lobste.rs/s/qn3lai/build_stupid_tools) - [Build Stupid Tools](https://blog.stulta.dev/posts/stupid_tools/)
 
 ## [Archives](archives/index.md)
 
