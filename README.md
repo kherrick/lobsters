@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-05, 18:33:29](https://lobste.rs/s/vankts/leaky_address_masking_exploiting) - [Leaky Address Masking: Exploiting Unmasked Spectre Gadgets with Noncanonical Address Translation](https://download.vusec.net/papers/slam_sp24.pdf)
 * [2023-12-05, 18:15:13](https://lobste.rs/s/i7k7zv/nix_super) - [Nix Super](https://github.com/privatevoid-net/nix-super)
 * [2023-12-05, 18:07:44](https://lobste.rs/s/rskckb/eink_display_for_octopus_s_agile_energy) - [eInk Display for Octopus's Agile Energy Tariff](https://shkspr.mobi/blog/2023/12/eink-display-for-octopuss-agile-energy-tariff/)
 * [2023-12-05, 17:21:32](https://lobste.rs/s/r8pwwc/rubber_chickens_purple_boxes_2014) - [Rubber chickens and purple boxes (2014)](https://web.archive.org/web/20230327143056/https://talkingmoose.net/2014/05/11/rubber-chickens-and-purple-boxes/)
@@ -16,7 +17,6 @@
 * [2023-12-05, 03:06:06](https://lobste.rs/s/hcfkxz/smartifying_my_hi_fi_system) - [\"Smartifying\" my Hi-Fi system](https://blog.rgsilva.com/smartifying-my-hi-fi-system/)
 * [2023-12-04, 22:30:58](https://lobste.rs/s/ddaeht/onyx_programming_language) - [The Onyx Programming Language](https://onyxlang.io/)
 * [2023-12-04, 20:25:21](https://lobste.rs/s/ufbis8/when_would_you_ever_want_bubblesort) - [When would you ever want bubblesort?](https://buttondown.email/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
-* [2023-12-04, 17:22:56](https://lobste.rs/s/nc5m1c/back_basics_5_html_attributes_for) - [Back to Basics: 5 HTML attributes for improved accessibility and user experience](https://www.htmhell.dev/adventcalendar/2023/4/)
 * [2023-12-04, 15:58:20](https://lobste.rs/s/ycuhxy/wayland_isn_t_going_save_linux_desktop) - [Wayland Isn't Going to Save The Linux Desktop (2022)](https://dudemanguy.github.io/blog/posts/2022-06-10-wayland-xorg/wayland-xorg.html)
 * [2023-12-04, 15:20:50](https://lobste.rs/s/mpthmm/how_often_should_we_sharpen_our_tools) - [How Often Should We Sharpen Our Tools?](https://tratt.net/laurie/blog/2023/how_often_should_we_sharpen_our_tools.html)
 * [2023-12-04, 14:47:52](https://lobste.rs/s/oxywix/when_static_types_make_your_code_shorter) - [When static types make your code shorter](https://evanhahn.com/when-static-types-make-your-code-shorter/)
