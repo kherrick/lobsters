@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-12-05, 12:21:11](https://lobste.rs/s/esm6w7/return_webassembly_for_java_geek) - [A Return to WebAssembly for the Java Geek](https://www.javaadvent.com/2023/12/a-return-to-webassembly-for-the-java-geek.html)
-* [2023-12-05, 09:36:21](https://lobste.rs/s/cxfmh7/box_breathe) - [Box Breathe](https://boxbreathe.cc/)
 * [2023-12-05, 08:26:24](https://lobste.rs/s/hmfadm/mounting_git_commits_as_folders_with_nfs) - [Mounting git commits as folders with NFS](https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/)
 * [2023-12-05, 08:08:34](https://lobste.rs/s/0vssr2/ehtml) - [EHTML](https://e-html.org/html/documentation.html)
 * [2023-12-05, 07:42:46](https://lobste.rs/s/utqzqu/halfnarp_scheduling_helper_app_for_37c3) - [Halfnarp scheduling helper app for 37C3](https://halfnarp.events.ccc.de/)
@@ -23,6 +22,7 @@
 * [2023-12-04, 13:17:51](https://lobste.rs/s/2gfmlg/from_486_vue_js_evan_you_s_full_time_gamble) - [From 486 to Vue.js: Evan You's Full-Time Gamble on Open Source](https://corecursive.com/vue-with-evan-you/)
 * [2023-12-04, 12:59:12](https://lobste.rs/s/wjitaf/why_kubernetes_needs_lts) - [Why Kubernetes needs an LTS](https://matduggan.com/why-kubernetes-needs-an-lts/)
 * [2023-12-04, 12:54:43](https://lobste.rs/s/yg2crz/profiling_rust_programs_easy_way) - [Profiling Rust programs the easy way](https://ntietz.com/blog/profiling-rust-programs-the-easy-way/)
+* [2023-12-04, 11:46:03](https://lobste.rs/s/umpz76/recursive_zksnarks_practical_deep_dive) - [Recursive ZkSNARKs: A Practical Deep Dive Without Maths](https://illya.sh/blog/posts/zk-snarks-recursive-proof-private-intput-visibility/)
 * [2023-12-04, 11:24:46](https://lobste.rs/s/djmzw1/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/djmzw1/what_are_you_doing_this_week)
 * [2023-12-03, 22:00:15](https://lobste.rs/s/qn3lai/build_stupid_tools) - [Build Stupid Tools](https://blog.stulta.dev/posts/stupid_tools/)
 
