@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-05, 03:06:06](https://lobste.rs/s/hcfkxz/smartifying_my_hi_fi_system) - [\"Smartifying\" my Hi-Fi system](https://blog.rgsilva.com/smartifying-my-hi-fi-system/)
 * [2023-12-04, 23:58:01](https://lobste.rs/s/n0vcuk/tutorial_on_principal_component) - [A Tutorial on Principal Component Analysis (2014)](https://arxiv.org/abs/1404.1100)
 * [2023-12-04, 22:30:58](https://lobste.rs/s/ddaeht/onyx_programming_language) - [The Onyx Programming Language](https://onyxlang.io/)
 * [2023-12-04, 21:56:51](https://lobste.rs/s/n2izf0/spooky_performance_regression_aws_ebs) - [A Spooky Performance Regression in AWS EBS Volumes](https://www.dolthub.com/blog/2023-11-22-spooky-performance-regression-aws-ebs/)
@@ -22,7 +23,6 @@
 * [2023-12-04, 11:24:46](https://lobste.rs/s/djmzw1/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/djmzw1/what_are_you_doing_this_week)
 * [2023-12-04, 09:33:45](https://lobste.rs/s/lrqbmb/old_blog_matt_henderson_beautiful_math) - [Old blog of Matt Henderson, beautiful math animations](https://blog.matthen.com/)
 * [2023-12-04, 06:36:12](https://lobste.rs/s/ngjt5r/nobuild_header_only_library_for_writing) - [nobuild: Header only library for writing build recipes in C](https://github.com/tsoding/nobuild)
-* [2023-12-04, 01:40:14](https://lobste.rs/s/ozojfe/arc_self_tuning_low_overhead_replacement) - [ARC: A Self-Tuning, Low Overhead Replacement Cache](https://www.usenix.org/legacy/events/fast03/tech/full_papers/megiddo/megiddo.pdf)
 * [2023-12-03, 22:00:15](https://lobste.rs/s/qn3lai/build_stupid_tools) - [Build Stupid Tools](https://blog.stulta.dev/posts/stupid_tools/)
 * [2023-12-03, 14:09:48](https://lobste.rs/s/4emmdl/sh_relative_shell_script_includes_with) - [sh: Relative shell script includes with realpath on FreeBSD](https://patmaddox.com/doc/trunk/www/2023-12-sh-relative-shell-script-includes-with-realpath-on-freebsd/)
 
