@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
+* [2023-12-05, 22:37:10](https://lobste.rs/s/oxl5ud/loco_one_person_framework_for_rust_for) - [Loco: the one-person framework for Rust for side-projects and startups](https://loco.rs/)
 * [2023-12-05, 19:57:47](https://lobste.rs/s/yw9nqy/gdb_14_1_released_lwn_net) - [GDB 14.1 released [LWN.net]](https://lwn.net/Articles/953732/)
 * [2023-12-05, 19:57:47](https://lobste.rs/s/yw9nqy/gdb_14_1_released) - [GDB 14.1 released](https://lwn.net/Articles/953732/)
 * [2023-12-05, 19:48:26](https://lobste.rs/s/juo9gy/imessage_explained) - [iMessage, explained](https://jjtech.dev/reverse-engineering/imessage-explained/)
