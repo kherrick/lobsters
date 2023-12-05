@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
+* [2023-12-05, 19:23:34](https://lobste.rs/s/dm4v5j/data_leak_loss_some_free_tier_databases) - [Data leak and loss in some free tier databases](https://blog.turso.tech/incident-2023-12-04-data-leak-and-loss-in-some-free-tier-databases-7cba5bc7)
 * [2023-12-05, 18:33:29](https://lobste.rs/s/vankts/leaky_address_masking_exploiting) - [Leaky Address Masking: Exploiting Unmasked Spectre Gadgets with Noncanonical Address Translation](https://download.vusec.net/papers/slam_sp24.pdf)
 * [2023-12-05, 18:15:13](https://lobste.rs/s/i7k7zv/nix_super) - [Nix Super](https://github.com/privatevoid-net/nix-super)
 * [2023-12-05, 18:07:44](https://lobste.rs/s/rskckb/eink_display_for_octopus_s_agile_energy) - [eInk Display for Octopus's Agile Energy Tariff](https://shkspr.mobi/blog/2023/12/eink-display-for-octopuss-agile-energy-tariff/)
