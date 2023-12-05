@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-05, 14:31:17",
+      "https://lobste.rs/s/lnvpbf/curious_case_aggregation_query"
+    ],
+    [
+      "The Curious Case of the Aggregation Query",
+      "https://modern-sql.com/blog/2023-12/curious-case-aggregation-query"
+    ]
+  ],
+  [
+    [
       "2023-12-05, 14:19:06",
       "https://lobste.rs/s/ub9aij/ia_get_is_rust_app_developed_mostly_using"
     ],
@@ -227,16 +237,6 @@
     [
       "Profiling Rust programs the easy way",
       "https://ntietz.com/blog/profiling-rust-programs-the-easy-way/"
-    ]
-  ],
-  [
-    [
-      "2023-12-04, 11:24:46",
-      "https://lobste.rs/s/djmzw1/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/djmzw1/what_are_you_doing_this_week"
     ]
   ],
   [
