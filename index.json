@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-05, 13:58:04",
+      "https://lobste.rs/s/g1ucp9/leafpipe_turning_lots_lots_audio_visual"
+    ],
+    [
+      "Leafpipe: turning lots and lots of audio/visual into pretty stimuli",
+      "https://half-shot.uk/blog/leafpipe/"
+    ]
+  ],
+  [
+    [
       "2023-12-05, 12:21:11",
       "https://lobste.rs/s/esm6w7/return_webassembly_for_java_geek"
     ],
@@ -217,16 +227,6 @@
     [
       "Profiling Rust programs the easy way",
       "https://ntietz.com/blog/profiling-rust-programs-the-easy-way/"
-    ]
-  ],
-  [
-    [
-      "2023-12-04, 11:46:03",
-      "https://lobste.rs/s/umpz76/recursive_zksnarks_practical_deep_dive"
-    ],
-    [
-      "Recursive ZkSNARKs: A Practical Deep Dive Without Maths",
-      "https://illya.sh/blog/posts/zk-snarks-recursive-proof-private-intput-visibility/"
     ]
   ],
   [
