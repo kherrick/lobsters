@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-04](index.md)
 
+* [2023-12-04, 23:58:01](https://lobste.rs/s/n0vcuk/tutorial_on_principal_component) - [A Tutorial on Principal Component Analysis (2014)](https://arxiv.org/abs/1404.1100)
 * [2023-12-04, 22:30:58](https://lobste.rs/s/ddaeht/onyx_programming_language) - [The Onyx Programming Language](https://onyxlang.io/)
 * [2023-12-04, 21:56:51](https://lobste.rs/s/n2izf0/spooky_performance_regression_aws_ebs) - [A Spooky Performance Regression in AWS EBS Volumes](https://www.dolthub.com/blog/2023-11-22-spooky-performance-regression-aws-ebs/)
 * [2023-12-04, 20:25:21](https://lobste.rs/s/ufbis8/when_would_you_ever_want_bubblesort) - [When would you ever want bubblesort?](https://buttondown.email/hillelwayne/archive/when-would-you-ever-want-bubblesort/)
