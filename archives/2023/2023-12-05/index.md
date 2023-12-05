@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-05](index.md)
 
+* [2023-12-05, 14:31:17](https://lobste.rs/s/lnvpbf/curious_case_aggregation_query) - [The Curious Case of the Aggregation Query](https://modern-sql.com/blog/2023-12/curious-case-aggregation-query)
 * [2023-12-05, 14:19:06](https://lobste.rs/s/ub9aij/ia_get_is_rust_app_developed_mostly_using) - [ia-get is a Rust app developed (mostly) using \"Chatty Jeeps\"](https://github.com/wimpysworld/ia-get)
 * [2023-12-05, 13:58:04](https://lobste.rs/s/g1ucp9/leafpipe_turning_lots_lots_audio_visual) - [Leafpipe: turning lots and lots of audio/visual into pretty stimuli](https://half-shot.uk/blog/leafpipe/)
 * [2023-12-05, 12:21:11](https://lobste.rs/s/esm6w7/return_webassembly_for_java_geek) - [A Return to WebAssembly for the Java Geek](https://www.javaadvent.com/2023/12/a-return-to-webassembly-for-the-java-geek.html)
