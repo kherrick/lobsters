@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-06, 11:03:07",
+      "https://lobste.rs/s/vdxity/interactive_code_examples_for_fun_profit"
+    ],
+    [
+      "Interactive code examples for fun and profit",
+      "https://antonz.org/code-examples/"
+    ]
+  ],
+  [
+    [
+      "2023-12-06, 10:58:52",
+      "https://lobste.rs/s/0xpxg2/add_support_for_gen_fn_rust_nightly"
+    ],
+    [
+      "Add support for `gen fn` in Rust nightly",
+      "https://github.com/rust-lang/rust/pull/118457"
+    ]
+  ],
+  [
+    [
       "2023-12-06, 10:54:59",
       "https://lobste.rs/s/bnlfyb/simplicity_is_better_than_complexity"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-12-05, 19:23:34",
-      "https://lobste.rs/s/dm4v5j/data_leak_loss_some_free_tier_databases"
-    ],
-    [
-      "Data leak and loss in some free tier databases",
-      "https://blog.turso.tech/incident-2023-12-04-data-leak-and-loss-in-some-free-tier-databases-7cba5bc7"
-    ]
-  ],
-  [
-    [
       "2023-12-05, 18:15:13",
       "https://lobste.rs/s/i7k7zv/nix_super"
     ],
@@ -237,16 +247,6 @@
     [
       "Mounting git commits as folders with NFS",
       "https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/"
-    ]
-  ],
-  [
-    [
-      "2023-12-04, 14:47:52",
-      "https://lobste.rs/s/oxywix/when_static_types_make_your_code_shorter"
-    ],
-    [
-      "When static types make your code shorter",
-      "https://evanhahn.com/when-static-types-make-your-code-shorter/"
     ]
   ]
 ]
