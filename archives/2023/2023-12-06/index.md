@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 16:23:30](https://lobste.rs/s/e1sdqj/system_observability_metrics_sampling) - [System Observability: Metrics, Sampling, and Tracing](https://two-wrongs.com/system-observability-metrics-sampling-tracing)
+* [2023-12-06, 16:13:04](https://lobste.rs/s/o0w3gw/firefox_on_brink) - [Firefox on the brink?](https://www.brycewray.com/posts/2023/11/firefox-brink/)
 * [2023-12-06, 15:22:53](https://lobste.rs/s/bv6ci6/sqlite_forum_jsonb_has_landed) - [SQLite Forum: JSONB has landed](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
 * [2023-12-06, 15:08:49](https://lobste.rs/s/vcv3gs/introducing_gemini_our_largest_most) - [Introducing Gemini: our largest and most capable AI model](https://blog.google/technology/ai/google-gemini-ai)
 * [2023-12-06, 15:08:02](https://lobste.rs/s/hohvan/defense_systems_fail) - [In Defense of Systems that Fail](https://pencil.toast.cafe/bunker-labs/in-defense-of-systems-that-fail)
