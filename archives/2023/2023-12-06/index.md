@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 13:01:24](https://lobste.rs/s/tnr83g/moral_codes_chapter_10_craft_coding) - [Moral Codes Chapter 10: The craft of coding](https://moralcodes.pubpub.org/pub/chapter-9/release/2)
 * [2023-12-06, 11:03:07](https://lobste.rs/s/vdxity/interactive_code_examples_for_fun_profit) - [Interactive code examples for fun and profit](https://antonz.org/code-examples/)
 * [2023-12-06, 10:58:52](https://lobste.rs/s/0xpxg2/add_support_for_gen_fn_rust_nightly) - [Add support for `gen fn` in Rust nightly](https://github.com/rust-lang/rust/pull/118457)
 * [2023-12-06, 10:54:59](https://lobste.rs/s/bnlfyb/simplicity_is_better_than_complexity) - [Simplicity is better than complexity](https://commandcenter.blogspot.com/2023/12/simplicity.html)
