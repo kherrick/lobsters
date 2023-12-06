@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 15:22:53](https://lobste.rs/s/bv6ci6/sqlite_forum_jsonb_has_landed) - [SQLite Forum: JSONB has landed](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
 * [2023-12-06, 15:08:49](https://lobste.rs/s/vcv3gs/introducing_gemini_our_largest_most) - [Introducing Gemini: our largest and most capable AI model](https://blog.google/technology/ai/google-gemini-ai)
 * [2023-12-06, 15:08:02](https://lobste.rs/s/hohvan/defense_systems_fail) - [In Defense of Systems that Fail](https://pencil.toast.cafe/bunker-labs/in-defense-of-systems-that-fail)
 * [2023-12-06, 14:59:05](https://lobste.rs/s/iq0uwa/fleece_super_fast_compact_json) - [fleece: A super-fast, compact, JSON-equivalent binary data format](https://github.com/couchbase/fleece)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-06, 15:22:53](https://lobste.rs/s/bv6ci6/sqlite_forum_jsonb_has_landed) - [SQLite Forum: JSONB has landed](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
 * [2023-12-06, 15:08:49](https://lobste.rs/s/vcv3gs/introducing_gemini_our_largest_most) - [Introducing Gemini: our largest and most capable AI model](https://blog.google/technology/ai/google-gemini-ai)
 * [2023-12-06, 15:08:02](https://lobste.rs/s/hohvan/defense_systems_fail) - [In Defense of Systems that Fail](https://pencil.toast.cafe/bunker-labs/in-defense-of-systems-that-fail)
 * [2023-12-06, 14:59:05](https://lobste.rs/s/iq0uwa/fleece_super_fast_compact_json) - [fleece: A super-fast, compact, JSON-equivalent binary data format](https://github.com/couchbase/fleece)
@@ -23,7 +24,6 @@
 * [2023-12-05, 18:15:13](https://lobste.rs/s/i7k7zv/nix_super) - [Nix Super](https://github.com/privatevoid-net/nix-super)
 * [2023-12-05, 17:18:27](https://lobste.rs/s/bqaoas/pypush_cross_platform_imessage_poc) - [pypush: Cross-platform iMessage POC](https://github.com/JJTech0130/pypush)
 * [2023-12-05, 15:24:34](https://lobste.rs/s/8igrxm/train_firmware_reverse_engineering) - [Train firmware reverse engineering discovers bogus lock up code](https://social.hackerspace.pl/@q3k/111528162462505087)
-* [2023-12-05, 15:01:28](https://lobste.rs/s/4cywvk/behind_scenes_rust_string_formatting) - [Behind the Scenes of Rust String Formatting: format_args!()](https://blog.m-ou.se/format-args/)
 * [2023-12-05, 14:54:50](https://lobste.rs/s/6ulmq0/go_testing_by_example) - [Go Testing By Example](http://research.swtch.com/testing)
 
 ## [Archives](archives/index.md)
