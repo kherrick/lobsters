@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-06, 10:54:59",
+      "https://lobste.rs/s/bnlfyb/simplicity_is_better_than_complexity"
+    ],
+    [
+      "Simplicity is better than complexity",
+      "https://commandcenter.blogspot.com/2023/12/simplicity.html"
+    ]
+  ],
+  [
+    [
       "2023-12-06, 10:06:40",
       "https://lobste.rs/s/cj1iuy/catching_up_with_cosmopolitan_ecosystem"
     ],
@@ -127,16 +137,6 @@
     [
       "Loco: the one-person framework for Rust for side-projects and startups",
       "https://loco.rs/"
-    ]
-  ],
-  [
-    [
-      "2023-12-05, 19:57:47",
-      "https://lobste.rs/s/yw9nqy/gdb_14_1_released"
-    ],
-    [
-      "GDB 14.1 released",
-      "https://lwn.net/Articles/953732/"
     ]
   ],
   [
