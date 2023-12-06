@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 06:47:24](https://lobste.rs/s/1hi5pl/rqlite_8_0_distributed_sqlite_large) - [rqlite 8.0 - distributed SQLite: Large Dataset Support and Core Feature Upgrades](https://www.philipotoole.com/rqlite-8-0-large-dataset-support-and-core-feature-upgrades/)
 * [2023-12-06, 05:22:54](https://lobste.rs/s/m2ej5k/simply_scala_2022) - [Simply Scala (2022)](https://www.youtube.com/watch?v=-qf8yteuxPs)
 * [2023-12-06, 03:29:50](https://lobste.rs/s/lydbxm/gerbil_v0_18_1_nimzolarsen_released) - [Gerbil v0.18.1 NimzoLarsen released](https://github.com/mighty-gerbils/gerbil/discussions/1079)
 * [2023-12-06, 03:14:10](https://lobste.rs/s/oi4gwq/first_decide_how_decide_one_weird_trick) - [First decide how to decide: “one weird trick” for easier decisions](https://jacobian.org/2023/dec/5/how-to-decide/)
