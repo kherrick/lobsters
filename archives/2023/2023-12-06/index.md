@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 20:41:57](https://lobste.rs/s/izmh3r/testing_data_assumptions_with) - [Testing Data Assumptions with PostgreSQL](https://dabure.com/blog/testing-data-assumptions-with-postgresql)
 * [2023-12-06, 17:53:31](https://lobste.rs/s/hzk1jm/reverse_engineering_barrel_shifter) - [Reverse engineering the barrel shifter circuit on the Intel 386 processor die](http://www.righto.com/2023/12/386-barrel-shifter.html)
 * [2023-12-06, 17:18:06](https://lobste.rs/s/gbxo6e/ghostty_devlog_005) - [Ghostty Devlog 005](https://mitchellh.com/writing/ghostty-devlog-005)
 * [2023-12-06, 16:23:30](https://lobste.rs/s/e1sdqj/system_observability_metrics_sampling) - [System Observability: Metrics, Sampling, and Tracing](https://two-wrongs.com/system-observability-metrics-sampling-tracing)
