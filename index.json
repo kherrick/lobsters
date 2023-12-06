@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-12-06, 15:08:49",
+      "https://lobste.rs/s/vcv3gs/introducing_gemini_our_largest_most"
+    ],
+    [
+      "Introducing Gemini: our largest and most capable AI model",
+      "https://blog.google/technology/ai/google-gemini-ai"
+    ]
+  ],
+  [
+    [
+      "2023-12-06, 15:08:02",
+      "https://lobste.rs/s/hohvan/defense_systems_fail"
+    ],
+    [
+      "In Defense of Systems that Fail",
+      "https://pencil.toast.cafe/bunker-labs/in-defense-of-systems-that-fail"
+    ]
+  ],
+  [
+    [
+      "2023-12-06, 14:59:05",
+      "https://lobste.rs/s/iq0uwa/fleece_super_fast_compact_json"
+    ],
+    [
+      "fleece: A super-fast, compact, JSON-equivalent binary data format",
+      "https://github.com/couchbase/fleece"
+    ]
+  ],
+  [
+    [
       "2023-12-06, 14:46:44",
       "https://lobste.rs/s/gsk8re/rethinking_serverless_with_flame"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2023-12-06, 01:26:41",
-      "https://lobste.rs/s/bkezzv/keenwrite_3_5_1_captions_cross_references"
-    ],
-    [
-      "KeenWrite 3.5.1 - Captions and cross-references",
-      "https://gitlab.com/DaveJarvis/KeenWrite/-/releases/3.5.1"
-    ]
-  ],
-  [
-    [
       "2023-12-06, 00:44:14",
       "https://lobste.rs/s/xmtlur/how_beeper_mini_works"
     ],
@@ -227,26 +247,6 @@
     [
       "Go Testing By Example",
       "http://research.swtch.com/testing"
-    ]
-  ],
-  [
-    [
-      "2023-12-05, 14:19:06",
-      "https://lobste.rs/s/ub9aij/ia_get_is_rust_app_developed_mostly_using"
-    ],
-    [
-      "ia-get is a Rust app developed (mostly) using \"Chatty Jeeps\"",
-      "https://github.com/wimpysworld/ia-get"
-    ]
-  ],
-  [
-    [
-      "2023-12-05, 08:26:24",
-      "https://lobste.rs/s/hmfadm/mounting_git_commits_as_folders_with_nfs"
-    ],
-    [
-      "Mounting git commits as folders with NFS",
-      "https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/"
     ]
   ]
 ]
