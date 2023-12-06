@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-06, 17:18:06](https://lobste.rs/s/gbxo6e/ghostty_devlog_005) - [Ghostty Devlog 005](https://mitchellh.com/writing/ghostty-devlog-005)
 * [2023-12-06, 16:23:30](https://lobste.rs/s/e1sdqj/system_observability_metrics_sampling) - [System Observability: Metrics, Sampling, and Tracing](https://two-wrongs.com/system-observability-metrics-sampling-tracing)
 * [2023-12-06, 16:13:04](https://lobste.rs/s/o0w3gw/firefox_on_brink) - [Firefox on the brink?](https://www.brycewray.com/posts/2023/11/firefox-brink/)
 * [2023-12-06, 15:22:53](https://lobste.rs/s/bv6ci6/sqlite_forum_jsonb_has_landed) - [SQLite Forum: JSONB has landed](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
@@ -9,7 +10,6 @@
 * [2023-12-06, 14:46:44](https://lobste.rs/s/gsk8re/rethinking_serverless_with_flame) - [Rethinking Serverless with FLAME](https://fly.io/blog/rethinking-serverless-with-flame/)
 * [2023-12-06, 13:32:39](https://lobste.rs/s/9lezx3/why_is_jepsen_written_clojure) - [Why is Jepsen Written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
 * [2023-12-06, 13:24:02](https://lobste.rs/s/sda7hr/your_github_pull_request_workflow_is) - [Your GitHub pull request workflow is slowing everyone down](https://graphite.dev/blog/your-github-pr-workflow-is-slow)
-* [2023-12-06, 11:03:07](https://lobste.rs/s/vdxity/interactive_code_examples_for_fun_profit) - [Interactive code examples for fun and profit](https://antonz.org/code-examples/)
 * [2023-12-06, 10:58:52](https://lobste.rs/s/0xpxg2/add_support_for_gen_fn_rust_nightly) - [Add support for `gen fn` in Rust nightly](https://github.com/rust-lang/rust/pull/118457)
 * [2023-12-06, 10:54:59](https://lobste.rs/s/bnlfyb/simplicity_is_better_than_complexity) - [Simplicity is better than complexity](https://commandcenter.blogspot.com/2023/12/simplicity.html)
 * [2023-12-06, 10:06:40](https://lobste.rs/s/cj1iuy/catching_up_with_cosmopolitan_ecosystem) - [Catching up with the Cosmopolitan ecosystem](https://til.simonwillison.net/cosmopolitan/ecosystem)

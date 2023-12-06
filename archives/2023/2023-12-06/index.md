@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 17:18:06](https://lobste.rs/s/gbxo6e/ghostty_devlog_005) - [Ghostty Devlog 005](https://mitchellh.com/writing/ghostty-devlog-005)
 * [2023-12-06, 16:23:30](https://lobste.rs/s/e1sdqj/system_observability_metrics_sampling) - [System Observability: Metrics, Sampling, and Tracing](https://two-wrongs.com/system-observability-metrics-sampling-tracing)
 * [2023-12-06, 16:13:04](https://lobste.rs/s/o0w3gw/firefox_on_brink) - [Firefox on the brink?](https://www.brycewray.com/posts/2023/11/firefox-brink/)
 * [2023-12-06, 15:22:53](https://lobste.rs/s/bv6ci6/sqlite_forum_jsonb_has_landed) - [SQLite Forum: JSONB has landed](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
