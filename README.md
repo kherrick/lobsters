@@ -2,6 +2,7 @@
 
 * [2023-12-06, 21:55:04](https://lobste.rs/s/tzxrbv/unveiling_secrets_esp32_creating_open) - [Unveiling secrets of the ESP32: creating an open-source MAC Layer](https://zeus.ugent.be/blog/23-24/open-source-esp32-wifi-mac/)
 * [2023-12-06, 21:33:04](https://lobste.rs/s/kwkuuf/meta_ii_digital_vellum_digital) - [META II: Digital Vellum in the Digital Scriptorium](https://dl.acm.org/doi/pdf/10.1145/2716276.2724586)
+* [2023-12-06, 21:20:30](https://lobste.rs/s/0prq9y/winglang_new_cloud_oriented_programming) - [Winglang - New Cloud-Oriented Programming Language](https://github.com/winglang/wing)
 * [2023-12-06, 20:41:57](https://lobste.rs/s/izmh3r/testing_data_assumptions_with) - [Testing Data Assumptions with PostgreSQL](https://dabure.com/blog/testing-data-assumptions-with-postgresql)
 * [2023-12-06, 17:18:06](https://lobste.rs/s/gbxo6e/ghostty_devlog_005) - [Ghostty Devlog 005](https://mitchellh.com/writing/ghostty-devlog-005)
 * [2023-12-06, 16:23:30](https://lobste.rs/s/e1sdqj/system_observability_metrics_sampling) - [System Observability: Metrics, Sampling, and Tracing](https://two-wrongs.com/system-observability-metrics-sampling-tracing)
@@ -16,7 +17,6 @@
 * [2023-12-06, 10:58:52](https://lobste.rs/s/0xpxg2/add_support_for_gen_fn_rust_nightly) - [Add support for `gen fn` in Rust nightly](https://github.com/rust-lang/rust/pull/118457)
 * [2023-12-06, 10:54:59](https://lobste.rs/s/bnlfyb/simplicity_is_better_than_complexity) - [Simplicity is better than complexity](https://commandcenter.blogspot.com/2023/12/simplicity.html)
 * [2023-12-06, 10:06:40](https://lobste.rs/s/cj1iuy/catching_up_with_cosmopolitan_ecosystem) - [Catching up with the Cosmopolitan ecosystem](https://til.simonwillison.net/cosmopolitan/ecosystem)
-* [2023-12-06, 09:42:10](https://lobste.rs/s/sjswho/mlx_mlx_array_framework_for_apple_silicon) - [mlx: MLX: An array framework for Apple silicon](https://github.com/ml-explore/mlx)
 * [2023-12-06, 09:24:09](https://lobste.rs/s/zrliwx/curl_8_5_0) - [curl 8.5.0](https://daniel.haxx.se/blog/2023/12/06/curl-8-5-0/)
 * [2023-12-06, 06:47:24](https://lobste.rs/s/1hi5pl/rqlite_8_0_distributed_sqlite_large) - [rqlite 8.0 - distributed SQLite: Large Dataset Support and Core Feature Upgrades](https://www.philipotoole.com/rqlite-8-0-large-dataset-support-and-core-feature-upgrades/)
 * [2023-12-06, 03:29:50](https://lobste.rs/s/lydbxm/gerbil_v0_18_1_nimzolarsen_released) - [Gerbil v0.18.1 NimzoLarsen released](https://github.com/mighty-gerbils/gerbil/discussions/1079)
