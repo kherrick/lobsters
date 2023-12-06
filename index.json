@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-06, 16:23:30",
+      "https://lobste.rs/s/e1sdqj/system_observability_metrics_sampling"
+    ],
+    [
+      "System Observability: Metrics, Sampling, and Tracing",
+      "https://two-wrongs.com/system-observability-metrics-sampling-tracing"
+    ]
+  ],
+  [
+    [
+      "2023-12-06, 16:13:04",
+      "https://lobste.rs/s/o0w3gw/firefox_on_brink"
+    ],
+    [
+      "Firefox on the brink?",
+      "https://www.brycewray.com/posts/2023/11/firefox-brink/"
+    ]
+  ],
+  [
+    [
       "2023-12-06, 15:22:53",
       "https://lobste.rs/s/bv6ci6/sqlite_forum_jsonb_has_landed"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2023-12-06, 09:42:10",
-      "https://lobste.rs/s/sjswho/mlx_mlx_array_framework_for_apple_silicon"
-    ],
-    [
-      "mlx: MLX: An array framework for Apple silicon",
-      "https://github.com/ml-explore/mlx"
-    ]
-  ],
-  [
-    [
       "2023-12-06, 09:24:09",
       "https://lobste.rs/s/zrliwx/curl_8_5_0"
     ],
@@ -157,16 +167,6 @@
     [
       "Gerbil v0.18.1 NimzoLarsen released",
       "https://github.com/mighty-gerbils/gerbil/discussions/1079"
-    ]
-  ],
-  [
-    [
-      "2023-12-06, 03:14:10",
-      "https://lobste.rs/s/oi4gwq/first_decide_how_decide_one_weird_trick"
-    ],
-    [
-      "First decide how to decide: “one weird trick” for easier decisions",
-      "https://jacobian.org/2023/dec/5/how-to-decide/"
     ]
   ],
   [
