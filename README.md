@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-06, 14:46:44](https://lobste.rs/s/gsk8re/rethinking_serverless_with_flame) - [Rethinking Serverless with FLAME](https://fly.io/blog/rethinking-serverless-with-flame/)
 * [2023-12-06, 13:32:39](https://lobste.rs/s/9lezx3/why_is_jepsen_written_clojure) - [Why is Jepsen Written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
 * [2023-12-06, 13:24:02](https://lobste.rs/s/sda7hr/your_github_pull_request_workflow_is) - [Your GitHub pull request workflow is slowing everyone down](https://graphite.dev/blog/your-github-pr-workflow-is-slow)
 * [2023-12-06, 13:01:24](https://lobste.rs/s/tnr83g/moral_codes_chapter_10_craft_coding) - [Moral Codes Chapter 10: The craft of coding](https://moralcodes.pubpub.org/pub/chapter-9/release/2)
@@ -18,7 +19,6 @@
 * [2023-12-05, 22:58:12](https://lobste.rs/s/8992zd/all_my_favorite_tracing_tools_ebpf_qemu) - [All my favorite tracing tools: eBPF, QEMU, Perfetto, new ones I built and more](https://thume.ca/2023/12/02/tracing-methods/)
 * [2023-12-05, 22:37:10](https://lobste.rs/s/oxl5ud/loco_one_person_framework_for_rust_for) - [Loco: the one-person framework for Rust for side-projects and startups](https://loco.rs/)
 * [2023-12-05, 18:15:13](https://lobste.rs/s/i7k7zv/nix_super) - [Nix Super](https://github.com/privatevoid-net/nix-super)
-* [2023-12-05, 18:07:44](https://lobste.rs/s/rskckb/eink_display_for_octopus_s_agile_energy) - [eInk Display for Octopus's Agile Energy Tariff](https://shkspr.mobi/blog/2023/12/eink-display-for-octopuss-agile-energy-tariff/)
 * [2023-12-05, 17:18:27](https://lobste.rs/s/bqaoas/pypush_cross_platform_imessage_poc) - [pypush: Cross-platform iMessage POC](https://github.com/JJTech0130/pypush)
 * [2023-12-05, 15:24:34](https://lobste.rs/s/8igrxm/train_firmware_reverse_engineering) - [Train firmware reverse engineering discovers bogus lock up code](https://social.hackerspace.pl/@q3k/111528162462505087)
 * [2023-12-05, 15:01:28](https://lobste.rs/s/4cywvk/behind_scenes_rust_string_formatting) - [Behind the Scenes of Rust String Formatting: format_args!()](https://blog.m-ou.se/format-args/)
