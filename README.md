@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-12-06, 17:53:31](https://lobste.rs/s/hzk1jm/reverse_engineering_barrel_shifter) - [Reverse engineering the barrel shifter circuit on the Intel 386 processor die](http://www.righto.com/2023/12/386-barrel-shifter.html)
 * [2023-12-06, 17:18:06](https://lobste.rs/s/gbxo6e/ghostty_devlog_005) - [Ghostty Devlog 005](https://mitchellh.com/writing/ghostty-devlog-005)
 * [2023-12-06, 16:23:30](https://lobste.rs/s/e1sdqj/system_observability_metrics_sampling) - [System Observability: Metrics, Sampling, and Tracing](https://two-wrongs.com/system-observability-metrics-sampling-tracing)
 * [2023-12-06, 16:13:04](https://lobste.rs/s/o0w3gw/firefox_on_brink) - [Firefox on the brink?](https://www.brycewray.com/posts/2023/11/firefox-brink/)
@@ -11,6 +10,7 @@
 * [2023-12-06, 14:46:44](https://lobste.rs/s/gsk8re/rethinking_serverless_with_flame) - [Rethinking Serverless with FLAME](https://fly.io/blog/rethinking-serverless-with-flame/)
 * [2023-12-06, 13:32:39](https://lobste.rs/s/9lezx3/why_is_jepsen_written_clojure) - [Why is Jepsen Written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
 * [2023-12-06, 13:24:02](https://lobste.rs/s/sda7hr/your_github_pull_request_workflow_is) - [Your GitHub pull request workflow is slowing everyone down](https://graphite.dev/blog/your-github-pr-workflow-is-slow)
+* [2023-12-06, 13:01:24](https://lobste.rs/s/tnr83g/moral_codes_chapter_10_craft_coding) - [Moral Codes Chapter 10: The craft of coding](https://moralcodes.pubpub.org/pub/chapter-9/release/2)
 * [2023-12-06, 10:58:52](https://lobste.rs/s/0xpxg2/add_support_for_gen_fn_rust_nightly) - [Add support for `gen fn` in Rust nightly](https://github.com/rust-lang/rust/pull/118457)
 * [2023-12-06, 10:54:59](https://lobste.rs/s/bnlfyb/simplicity_is_better_than_complexity) - [Simplicity is better than complexity](https://commandcenter.blogspot.com/2023/12/simplicity.html)
 * [2023-12-06, 10:06:40](https://lobste.rs/s/cj1iuy/catching_up_with_cosmopolitan_ecosystem) - [Catching up with the Cosmopolitan ecosystem](https://til.simonwillison.net/cosmopolitan/ecosystem)
