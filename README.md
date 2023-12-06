@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-06, 13:32:39](https://lobste.rs/s/9lezx3/why_is_jepsen_written_clojure) - [Why is Jepsen Written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
 * [2023-12-06, 13:24:02](https://lobste.rs/s/sda7hr/your_github_pull_request_workflow_is) - [Your GitHub pull request workflow is slowing everyone down](https://graphite.dev/blog/your-github-pr-workflow-is-slow)
 * [2023-12-06, 13:01:24](https://lobste.rs/s/tnr83g/moral_codes_chapter_10_craft_coding) - [Moral Codes Chapter 10: The craft of coding](https://moralcodes.pubpub.org/pub/chapter-9/release/2)
 * [2023-12-06, 11:03:07](https://lobste.rs/s/vdxity/interactive_code_examples_for_fun_profit) - [Interactive code examples for fun and profit](https://antonz.org/code-examples/)
@@ -23,7 +24,6 @@
 * [2023-12-05, 15:01:28](https://lobste.rs/s/4cywvk/behind_scenes_rust_string_formatting) - [Behind the Scenes of Rust String Formatting: format_args!()](https://blog.m-ou.se/format-args/)
 * [2023-12-05, 14:54:50](https://lobste.rs/s/6ulmq0/go_testing_by_example) - [Go Testing By Example](http://research.swtch.com/testing)
 * [2023-12-05, 14:19:06](https://lobste.rs/s/ub9aij/ia_get_is_rust_app_developed_mostly_using) - [ia-get is a Rust app developed (mostly) using \"Chatty Jeeps\"](https://github.com/wimpysworld/ia-get)
-* [2023-12-05, 12:21:11](https://lobste.rs/s/esm6w7/return_webassembly_for_java_geek) - [A Return to WebAssembly for the Java Geek](https://www.javaadvent.com/2023/12/a-return-to-webassembly-for-the-java-geek.html)
 * [2023-12-05, 08:26:24](https://lobste.rs/s/hmfadm/mounting_git_commits_as_folders_with_nfs) - [Mounting git commits as folders with NFS](https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/)
 
 ## [Archives](archives/index.md)
