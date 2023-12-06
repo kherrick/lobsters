@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-06, 03:14:10",
+      "https://lobste.rs/s/oi4gwq/first_decide_how_decide_one_weird_trick"
+    ],
+    [
+      "First decide how to decide: “one weird trick” for easier decisions",
+      "https://jacobian.org/2023/dec/5/how-to-decide/"
+    ]
+  ],
+  [
+    [
       "2023-12-06, 01:40:46",
       "https://lobste.rs/s/opbhcx/risc_v_composable_extensions_for_mx"
     ],
@@ -187,16 +197,6 @@
     [
       "Mounting git commits as folders with NFS",
       "https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/"
-    ]
-  ],
-  [
-    [
-      "2023-12-05, 03:06:06",
-      "https://lobste.rs/s/hcfkxz/smartifying_my_hi_fi_system"
-    ],
-    [
-      "\"Smartifying\" my Hi-Fi system",
-      "https://blog.rgsilva.com/smartifying-my-hi-fi-system/"
     ]
   ],
   [
