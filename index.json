@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-12-06, 01:40:46",
+      "https://lobste.rs/s/opbhcx/risc_v_composable_extensions_for_mx"
+    ],
+    [
+      "RISC-V Composable Extensions for MX Microscaling Data Formats for AI Tensors: Part One: Introduction to MX Data",
+      "https://fpga.org/2023/11/27/risc-v-composable-extensions-for-microscaling-data-formats-for-ai-tensors/"
+    ]
+  ],
+  [
+    [
+      "2023-12-06, 01:26:41",
+      "https://lobste.rs/s/bkezzv/keenwrite_3_5_1_captions_cross_references"
+    ],
+    [
+      "KeenWrite 3.5.1 - Captions and cross-references",
+      "https://gitlab.com/DaveJarvis/KeenWrite/-/releases/3.5.1"
+    ]
+  ],
+  [
+    [
+      "2023-12-06, 00:44:14",
+      "https://lobste.rs/s/xmtlur/how_beeper_mini_works"
+    ],
+    [
+      "How Beeper Mini Works",
+      "https://blog.beeper.com/p/how-beeper-mini-works"
+    ]
+  ],
+  [
+    [
       "2023-12-05, 23:30:10",
       "https://lobste.rs/s/1ec3n0/against_do_notation"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2023-12-05, 08:08:34",
-      "https://lobste.rs/s/0vssr2/ehtml"
-    ],
-    [
-      "EHTML",
-      "https://e-html.org/html/documentation.html"
-    ]
-  ],
-  [
-    [
       "2023-12-05, 03:06:06",
       "https://lobste.rs/s/hcfkxz/smartifying_my_hi_fi_system"
     ],
@@ -227,26 +247,6 @@
     [
       "A few words about Blameless culture",
       "https://www.gybe.ca/a-few-words-about-blameless-culture/"
-    ]
-  ],
-  [
-    [
-      "2023-12-04, 13:17:51",
-      "https://lobste.rs/s/2gfmlg/from_486_vue_js_evan_you_s_full_time_gamble"
-    ],
-    [
-      "From 486 to Vue.js: Evan You's Full-Time Gamble on Open Source",
-      "https://corecursive.com/vue-with-evan-you/"
-    ]
-  ],
-  [
-    [
-      "2023-12-04, 12:59:12",
-      "https://lobste.rs/s/wjitaf/why_kubernetes_needs_lts"
-    ],
-    [
-      "Why Kubernetes needs an LTS",
-      "https://matduggan.com/why-kubernetes-needs-an-lts/"
     ]
   ]
 ]
