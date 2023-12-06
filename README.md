@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-06, 11:03:07](https://lobste.rs/s/vdxity/interactive_code_examples_for_fun_profit) - [Interactive code examples for fun and profit](https://antonz.org/code-examples/)
+* [2023-12-06, 10:58:52](https://lobste.rs/s/0xpxg2/add_support_for_gen_fn_rust_nightly) - [Add support for `gen fn` in Rust nightly](https://github.com/rust-lang/rust/pull/118457)
 * [2023-12-06, 10:54:59](https://lobste.rs/s/bnlfyb/simplicity_is_better_than_complexity) - [Simplicity is better than complexity](https://commandcenter.blogspot.com/2023/12/simplicity.html)
 * [2023-12-06, 10:06:40](https://lobste.rs/s/cj1iuy/catching_up_with_cosmopolitan_ecosystem) - [Catching up with the Cosmopolitan ecosystem](https://til.simonwillison.net/cosmopolitan/ecosystem)
 * [2023-12-06, 09:42:10](https://lobste.rs/s/sjswho/mlx_mlx_array_framework_for_apple_silicon) - [mlx: MLX: An array framework for Apple silicon](https://github.com/ml-explore/mlx)
@@ -14,7 +16,6 @@
 * [2023-12-05, 23:30:10](https://lobste.rs/s/1ec3n0/against_do_notation) - [Against do notation](https://pithlessly.github.io/donotation.html)
 * [2023-12-05, 22:58:12](https://lobste.rs/s/8992zd/all_my_favorite_tracing_tools_ebpf_qemu) - [All my favorite tracing tools: eBPF, QEMU, Perfetto, new ones I built and more](https://thume.ca/2023/12/02/tracing-methods/)
 * [2023-12-05, 22:37:10](https://lobste.rs/s/oxl5ud/loco_one_person_framework_for_rust_for) - [Loco: the one-person framework for Rust for side-projects and startups](https://loco.rs/)
-* [2023-12-05, 19:23:34](https://lobste.rs/s/dm4v5j/data_leak_loss_some_free_tier_databases) - [Data leak and loss in some free tier databases](https://blog.turso.tech/incident-2023-12-04-data-leak-and-loss-in-some-free-tier-databases-7cba5bc7)
 * [2023-12-05, 18:15:13](https://lobste.rs/s/i7k7zv/nix_super) - [Nix Super](https://github.com/privatevoid-net/nix-super)
 * [2023-12-05, 18:07:44](https://lobste.rs/s/rskckb/eink_display_for_octopus_s_agile_energy) - [eInk Display for Octopus's Agile Energy Tariff](https://shkspr.mobi/blog/2023/12/eink-display-for-octopuss-agile-energy-tariff/)
 * [2023-12-05, 17:18:27](https://lobste.rs/s/bqaoas/pypush_cross_platform_imessage_poc) - [pypush: Cross-platform iMessage POC](https://github.com/JJTech0130/pypush)
@@ -24,7 +25,6 @@
 * [2023-12-05, 14:19:06](https://lobste.rs/s/ub9aij/ia_get_is_rust_app_developed_mostly_using) - [ia-get is a Rust app developed (mostly) using \"Chatty Jeeps\"](https://github.com/wimpysworld/ia-get)
 * [2023-12-05, 12:21:11](https://lobste.rs/s/esm6w7/return_webassembly_for_java_geek) - [A Return to WebAssembly for the Java Geek](https://www.javaadvent.com/2023/12/a-return-to-webassembly-for-the-java-geek.html)
 * [2023-12-05, 08:26:24](https://lobste.rs/s/hmfadm/mounting_git_commits_as_folders_with_nfs) - [Mounting git commits as folders with NFS](https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/)
-* [2023-12-04, 14:47:52](https://lobste.rs/s/oxywix/when_static_types_make_your_code_shorter) - [When static types make your code shorter](https://evanhahn.com/when-static-types-make-your-code-shorter/)
 
 ## [Archives](archives/index.md)
 
