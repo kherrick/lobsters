@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-06, 09:24:09](https://lobste.rs/s/zrliwx/curl_8_5_0) - [curl 8.5.0](https://daniel.haxx.se/blog/2023/12/06/curl-8-5-0/)
 * [2023-12-06, 09:21:01](https://lobste.rs/s/d5xwoq/branchless_lomuto_partitioning) - [Branchless Lomuto Partitioning](https://orlp.net/blog/branchless-lomuto-partitioning/)
 * [2023-12-06, 06:47:24](https://lobste.rs/s/1hi5pl/rqlite_8_0_distributed_sqlite_large) - [rqlite 8.0 - distributed SQLite: Large Dataset Support and Core Feature Upgrades](https://www.philipotoole.com/rqlite-8-0-large-dataset-support-and-core-feature-upgrades/)
 * [2023-12-06, 05:22:54](https://lobste.rs/s/m2ej5k/simply_scala_2022) - [Simply Scala (2022)](https://www.youtube.com/watch?v=-qf8yteuxPs)
@@ -24,7 +25,6 @@
 * [2023-12-05, 08:26:24](https://lobste.rs/s/hmfadm/mounting_git_commits_as_folders_with_nfs) - [Mounting git commits as folders with NFS](https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/)
 * [2023-12-04, 15:20:50](https://lobste.rs/s/mpthmm/how_often_should_we_sharpen_our_tools) - [How Often Should We Sharpen Our Tools?](https://tratt.net/laurie/blog/2023/how_often_should_we_sharpen_our_tools.html)
 * [2023-12-04, 14:47:52](https://lobste.rs/s/oxywix/when_static_types_make_your_code_shorter) - [When static types make your code shorter](https://evanhahn.com/when-static-types-make-your-code-shorter/)
-* [2023-12-04, 13:19:49](https://lobste.rs/s/fggblt/few_words_about_blameless_culture) - [A few words about Blameless culture](https://www.gybe.ca/a-few-words-about-blameless-culture/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 09:24:09](https://lobste.rs/s/zrliwx/curl_8_5_0) - [curl 8.5.0](https://daniel.haxx.se/blog/2023/12/06/curl-8-5-0/)
 * [2023-12-06, 09:21:01](https://lobste.rs/s/d5xwoq/branchless_lomuto_partitioning) - [Branchless Lomuto Partitioning](https://orlp.net/blog/branchless-lomuto-partitioning/)
 * [2023-12-06, 06:47:24](https://lobste.rs/s/1hi5pl/rqlite_8_0_distributed_sqlite_large) - [rqlite 8.0 - distributed SQLite: Large Dataset Support and Core Feature Upgrades](https://www.philipotoole.com/rqlite-8-0-large-dataset-support-and-core-feature-upgrades/)
 * [2023-12-06, 05:22:54](https://lobste.rs/s/m2ej5k/simply_scala_2022) - [Simply Scala (2022)](https://www.youtube.com/watch?v=-qf8yteuxPs)
