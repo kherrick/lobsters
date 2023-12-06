@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-06, 09:24:09",
+      "https://lobste.rs/s/zrliwx/curl_8_5_0"
+    ],
+    [
+      "curl 8.5.0",
+      "https://daniel.haxx.se/blog/2023/12/06/curl-8-5-0/"
+    ]
+  ],
+  [
+    [
       "2023-12-06, 09:21:01",
       "https://lobste.rs/s/d5xwoq/branchless_lomuto_partitioning"
     ],
@@ -237,16 +247,6 @@
     [
       "When static types make your code shorter",
       "https://evanhahn.com/when-static-types-make-your-code-shorter/"
-    ]
-  ],
-  [
-    [
-      "2023-12-04, 13:19:49",
-      "https://lobste.rs/s/fggblt/few_words_about_blameless_culture"
-    ],
-    [
-      "A few words about Blameless culture",
-      "https://www.gybe.ca/a-few-words-about-blameless-culture/"
     ]
   ]
 ]
