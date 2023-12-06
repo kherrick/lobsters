@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 10:54:59](https://lobste.rs/s/bnlfyb/simplicity_is_better_than_complexity) - [Simplicity is better than complexity](https://commandcenter.blogspot.com/2023/12/simplicity.html)
 * [2023-12-06, 10:06:40](https://lobste.rs/s/cj1iuy/catching_up_with_cosmopolitan_ecosystem) - [Catching up with the Cosmopolitan ecosystem](https://til.simonwillison.net/cosmopolitan/ecosystem)
 * [2023-12-06, 09:42:10](https://lobste.rs/s/sjswho/mlx_mlx_array_framework_for_apple_silicon) - [mlx: MLX: An array framework for Apple silicon](https://github.com/ml-explore/mlx)
 * [2023-12-06, 09:24:09](https://lobste.rs/s/zrliwx/curl_8_5_0) - [curl 8.5.0](https://daniel.haxx.se/blog/2023/12/06/curl-8-5-0/)

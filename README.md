@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-06, 10:54:59](https://lobste.rs/s/bnlfyb/simplicity_is_better_than_complexity) - [Simplicity is better than complexity](https://commandcenter.blogspot.com/2023/12/simplicity.html)
 * [2023-12-06, 10:06:40](https://lobste.rs/s/cj1iuy/catching_up_with_cosmopolitan_ecosystem) - [Catching up with the Cosmopolitan ecosystem](https://til.simonwillison.net/cosmopolitan/ecosystem)
 * [2023-12-06, 09:42:10](https://lobste.rs/s/sjswho/mlx_mlx_array_framework_for_apple_silicon) - [mlx: MLX: An array framework for Apple silicon](https://github.com/ml-explore/mlx)
 * [2023-12-06, 09:24:09](https://lobste.rs/s/zrliwx/curl_8_5_0) - [curl 8.5.0](https://daniel.haxx.se/blog/2023/12/06/curl-8-5-0/)
@@ -13,7 +14,6 @@
 * [2023-12-05, 23:30:10](https://lobste.rs/s/1ec3n0/against_do_notation) - [Against do notation](https://pithlessly.github.io/donotation.html)
 * [2023-12-05, 22:58:12](https://lobste.rs/s/8992zd/all_my_favorite_tracing_tools_ebpf_qemu) - [All my favorite tracing tools: eBPF, QEMU, Perfetto, new ones I built and more](https://thume.ca/2023/12/02/tracing-methods/)
 * [2023-12-05, 22:37:10](https://lobste.rs/s/oxl5ud/loco_one_person_framework_for_rust_for) - [Loco: the one-person framework for Rust for side-projects and startups](https://loco.rs/)
-* [2023-12-05, 19:57:47](https://lobste.rs/s/yw9nqy/gdb_14_1_released) - [GDB 14.1 released](https://lwn.net/Articles/953732/)
 * [2023-12-05, 19:23:34](https://lobste.rs/s/dm4v5j/data_leak_loss_some_free_tier_databases) - [Data leak and loss in some free tier databases](https://blog.turso.tech/incident-2023-12-04-data-leak-and-loss-in-some-free-tier-databases-7cba5bc7)
 * [2023-12-05, 18:15:13](https://lobste.rs/s/i7k7zv/nix_super) - [Nix Super](https://github.com/privatevoid-net/nix-super)
 * [2023-12-05, 18:07:44](https://lobste.rs/s/rskckb/eink_display_for_octopus_s_agile_energy) - [eInk Display for Octopus's Agile Energy Tariff](https://shkspr.mobi/blog/2023/12/eink-display-for-octopuss-agile-energy-tariff/)
