@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-12-06, 17:53:31",
-      "https://lobste.rs/s/hzk1jm/reverse_engineering_barrel_shifter"
-    ],
-    [
-      "Reverse engineering the barrel shifter circuit on the Intel 386 processor die",
-      "http://www.righto.com/2023/12/386-barrel-shifter.html"
-    ]
-  ],
-  [
-    [
       "2023-12-06, 17:18:06",
       "https://lobste.rs/s/gbxo6e/ghostty_devlog_005"
     ],
@@ -107,6 +97,16 @@
     [
       "Your GitHub pull request workflow is slowing everyone down",
       "https://graphite.dev/blog/your-github-pr-workflow-is-slow"
+    ]
+  ],
+  [
+    [
+      "2023-12-06, 13:01:24",
+      "https://lobste.rs/s/tnr83g/moral_codes_chapter_10_craft_coding"
+    ],
+    [
+      "Moral Codes Chapter 10: The craft of coding",
+      "https://moralcodes.pubpub.org/pub/chapter-9/release/2"
     ]
   ],
   [
