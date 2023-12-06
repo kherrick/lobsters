@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 15:08:49](https://lobste.rs/s/vcv3gs/introducing_gemini_our_largest_most) - [Introducing Gemini: our largest and most capable AI model](https://blog.google/technology/ai/google-gemini-ai)
+* [2023-12-06, 15:08:02](https://lobste.rs/s/hohvan/defense_systems_fail) - [In Defense of Systems that Fail](https://pencil.toast.cafe/bunker-labs/in-defense-of-systems-that-fail)
+* [2023-12-06, 14:59:05](https://lobste.rs/s/iq0uwa/fleece_super_fast_compact_json) - [fleece: A super-fast, compact, JSON-equivalent binary data format](https://github.com/couchbase/fleece)
 * [2023-12-06, 14:46:44](https://lobste.rs/s/gsk8re/rethinking_serverless_with_flame) - [Rethinking Serverless with FLAME](https://fly.io/blog/rethinking-serverless-with-flame/)
 * [2023-12-06, 13:32:39](https://lobste.rs/s/9lezx3/why_is_jepsen_written_clojure) - [Why is Jepsen Written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
 * [2023-12-06, 13:24:02](https://lobste.rs/s/sda7hr/your_github_pull_request_workflow_is) - [Your GitHub pull request workflow is slowing everyone down](https://graphite.dev/blog/your-github-pr-workflow-is-slow)
