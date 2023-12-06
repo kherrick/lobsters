@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 21:33:04](https://lobste.rs/s/kwkuuf/meta_ii_digital_vellum_digital) - [META II: Digital Vellum in the Digital Scriptorium](https://dl.acm.org/doi/pdf/10.1145/2716276.2724586)
 * [2023-12-06, 21:20:30](https://lobste.rs/s/0prq9y/winglang_new_cloud_oriented_programming) - [Winglang - New Cloud-Oriented Programming Language](https://github.com/winglang/wing)
 * [2023-12-06, 21:12:13](https://lobste.rs/s/bccm58/postgresql_temporal_tables_extension_pl) - [Postgresql temporal_tables extension in PL/pgSQL](https://github.com/nearform/temporal_tables)
 * [2023-12-06, 20:41:57](https://lobste.rs/s/izmh3r/testing_data_assumptions_with) - [Testing Data Assumptions with PostgreSQL](https://dabure.com/blog/testing-data-assumptions-with-postgresql)
