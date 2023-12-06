@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-06, 05:22:54](https://lobste.rs/s/m2ej5k/simply_scala_2022) - [Simply Scala (2022)](https://www.youtube.com/watch?v=-qf8yteuxPs)
 * [2023-12-06, 03:29:50](https://lobste.rs/s/lydbxm/gerbil_v0_18_1_nimzolarsen_released) - [Gerbil v0.18.1 NimzoLarsen released](https://github.com/mighty-gerbils/gerbil/discussions/1079)
 * [2023-12-06, 03:14:10](https://lobste.rs/s/oi4gwq/first_decide_how_decide_one_weird_trick) - [First decide how to decide: “one weird trick” for easier decisions](https://jacobian.org/2023/dec/5/how-to-decide/)
 * [2023-12-06, 01:40:46](https://lobste.rs/s/opbhcx/risc_v_composable_extensions_for_mx) - [RISC-V Composable Extensions for MX Microscaling Data Formats for AI Tensors: Part One: Introduction to MX Data](https://fpga.org/2023/11/27/risc-v-composable-extensions-for-microscaling-data-formats-for-ai-tensors/)
@@ -10,7 +11,6 @@
 * [2023-12-05, 22:37:10](https://lobste.rs/s/oxl5ud/loco_one_person_framework_for_rust_for) - [Loco: the one-person framework for Rust for side-projects and startups](https://loco.rs/)
 * [2023-12-05, 19:57:47](https://lobste.rs/s/yw9nqy/gdb_14_1_released) - [GDB 14.1 released](https://lwn.net/Articles/953732/)
 * [2023-12-05, 19:23:34](https://lobste.rs/s/dm4v5j/data_leak_loss_some_free_tier_databases) - [Data leak and loss in some free tier databases](https://blog.turso.tech/incident-2023-12-04-data-leak-and-loss-in-some-free-tier-databases-7cba5bc7)
-* [2023-12-05, 18:33:29](https://lobste.rs/s/vankts/leaky_address_masking_exploiting) - [Leaky Address Masking: Exploiting Unmasked Spectre Gadgets with Noncanonical Address Translation](https://download.vusec.net/papers/slam_sp24.pdf)
 * [2023-12-05, 18:15:13](https://lobste.rs/s/i7k7zv/nix_super) - [Nix Super](https://github.com/privatevoid-net/nix-super)
 * [2023-12-05, 18:07:44](https://lobste.rs/s/rskckb/eink_display_for_octopus_s_agile_energy) - [eInk Display for Octopus's Agile Energy Tariff](https://shkspr.mobi/blog/2023/12/eink-display-for-octopuss-agile-energy-tariff/)
 * [2023-12-05, 17:18:27](https://lobste.rs/s/bqaoas/pypush_cross_platform_imessage_poc) - [pypush: Cross-platform iMessage POC](https://github.com/JJTech0130/pypush)
