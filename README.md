@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-07, 13:02:25](https://lobste.rs/s/rgprs3/generate_terraform_code_from_your) - [Generate Terraform code from your existing cloud infrastructure](https://github.com/cycloidio/terracognita)
+* [2023-12-07, 12:56:13](https://lobste.rs/s/zl1uer/apple_google_confirm_governments_spy_on) - [Apple and Google confirm governments spy on users through push notifications](https://www.androidauthority.com/apple-google-push-notification-surveillance-3392252/)
 * [2023-12-07, 12:29:16](https://lobste.rs/s/wrd9ff/last_5_years_v8_s_garbage_collector) - [The last 5 years of V8's garbage collector — wingolog](https://wingolog.org/archives/2023/12/07/the-last-5-years-of-v8s-garbage-collector)
 * [2023-12-07, 12:01:30](https://lobste.rs/s/obzwir/lich_simple_general_human_sympathetic) - [lich: Simple, general, human-sympathetic binary data format](https://github.com/rentzsch/lich)
 * [2023-12-07, 11:47:43](https://lobste.rs/s/f4agi6/safer_not_later) - [Safer, Not Later](https://blog.glyph.im/2023/12/safer-not-later.html)
@@ -11,7 +13,6 @@
 * [2023-12-06, 21:55:04](https://lobste.rs/s/tzxrbv/unveiling_secrets_esp32_creating_open) - [Unveiling secrets of the ESP32: creating an open-source MAC Layer](https://zeus.ugent.be/blog/23-24/open-source-esp32-wifi-mac/)
 * [2023-12-06, 21:20:30](https://lobste.rs/s/0prq9y/winglang_new_cloud_oriented_programming) - [Winglang - New Cloud-Oriented Programming Language](https://github.com/winglang/wing)
 * [2023-12-06, 17:18:06](https://lobste.rs/s/gbxo6e/ghostty_devlog_005) - [Ghostty Devlog 005](https://mitchellh.com/writing/ghostty-devlog-005)
-* [2023-12-06, 16:23:30](https://lobste.rs/s/e1sdqj/system_observability_metrics_sampling) - [System Observability: Metrics, Sampling, and Tracing](https://two-wrongs.com/system-observability-metrics-sampling-tracing)
 * [2023-12-06, 16:13:04](https://lobste.rs/s/o0w3gw/firefox_on_brink) - [Firefox on the brink?](https://www.brycewray.com/posts/2023/11/firefox-brink/)
 * [2023-12-06, 15:22:53](https://lobste.rs/s/bv6ci6/sqlite_forum_jsonb_has_landed) - [SQLite Forum: JSONB has landed](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
 * [2023-12-06, 15:08:49](https://lobste.rs/s/vcv3gs/introducing_gemini_our_largest_most) - [Introducing Gemini: our largest and most capable AI model](https://blog.google/technology/ai/google-gemini-ai)
@@ -22,7 +23,6 @@
 * [2023-12-06, 10:58:52](https://lobste.rs/s/0xpxg2/add_support_for_gen_fn_rust_nightly) - [Add support for `gen fn` in Rust nightly](https://github.com/rust-lang/rust/pull/118457)
 * [2023-12-06, 10:54:59](https://lobste.rs/s/bnlfyb/simplicity_is_better_than_complexity) - [Simplicity is better than complexity](https://commandcenter.blogspot.com/2023/12/simplicity.html)
 * [2023-12-06, 06:47:24](https://lobste.rs/s/1hi5pl/rqlite_8_0_distributed_sqlite_large) - [rqlite 8.0 - distributed SQLite: Large Dataset Support and Core Feature Upgrades](https://www.philipotoole.com/rqlite-8-0-large-dataset-support-and-core-feature-upgrades/)
-* [2023-12-05, 23:30:10](https://lobste.rs/s/1ec3n0/against_do_notation) - [Against do notation](https://pithlessly.github.io/donotation.html)
 * [2023-12-05, 22:58:12](https://lobste.rs/s/8992zd/all_my_favorite_tracing_tools_ebpf_qemu) - [All my favorite tracing tools: eBPF, QEMU, Perfetto, new ones I built and more](https://thume.ca/2023/12/02/tracing-methods/)
 * [2023-12-05, 15:24:34](https://lobste.rs/s/8igrxm/train_firmware_reverse_engineering) - [Train firmware reverse engineering discovers bogus lock up code](https://social.hackerspace.pl/@q3k/111528162462505087)
 
