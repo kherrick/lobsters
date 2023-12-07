@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-07, 22:05:28](https://lobste.rs/s/x2eiq3/new_systemd_update_will_bring_windows) - [New systemd update will bring Windows’ infamous Blue Screen of Death to Linux](https://arstechnica.com/gadgets/2023/12/linux-distros-are-about-to-get-a-killer-windows-feature-the-blue-screen-of-death/)
 * [2023-12-07, 21:22:33](https://lobste.rs/s/a8iuly/webassembly_garbage_collection_wasmgc) - [WebAssembly Garbage Collection (WasmGC) now enabled by default in Chrome](https://developer.chrome.com/blog/wasmgc/)
 * [2023-12-07, 19:34:46](https://lobste.rs/s/e8b5ub/performance_analysis_intel_s_x86_simd) - [A performance analysis of Intel's x86-simd-sort](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/intel_avx512/text.md)
 * [2023-12-07, 18:45:10](https://lobste.rs/s/6rzfmp/hanukkah_data_2023_5784) - [Hanukkah of Data 2023/5784](https://hanukkah.bluebird.sh/5784/)
@@ -7,7 +8,6 @@
 * [2023-12-07, 16:11:32](https://lobste.rs/s/dkehlv/just_about_every_windows_linux_device) - [Just about every Windows and Linux device vulnerable to new LogoFAIL firmware attack](https://arstechnica.com/security/2023/12/just-about-every-windows-and-linux-device-vulnerable-to-new-logofail-firmware-attack/)
 * [2023-12-07, 15:58:45](https://lobste.rs/s/kvamzg/cpython_dynamic_dispatch_internals_what) - [CPython Dynamic Dispatch Internals: What Happens When You do a + b?](https://codeconfessions.substack.com/p/cpython-dynamic-dispatch-internals)
 * [2023-12-07, 15:06:59](https://lobste.rs/s/iagi1x/labyrinth_encrypted_message_storage) - [The Labyrinth Encrypted Message Storage Protocol](https://engineering.fb.com/wp-content/uploads/2023/12/TheLabyrinthEncryptedMessageStorageProtocol_12-6-2023.pdf)
-* [2023-12-07, 15:00:56](https://lobste.rs/s/maxyzv/s3_express_speculations) - [S3 Express speculations](https://quickwit.io/blog/s3-express-speculations)
 * [2023-12-07, 13:41:33](https://lobste.rs/s/uvmp4j/good_hash_table_primes) - [good hash table primes](https://www.planetmath.org/goodhashtableprimes)
 * [2023-12-07, 13:38:08](https://lobste.rs/s/humtky/pipewire_1_0_interview_with_pipewire) - [PipeWire 1.0 - An interview with PipeWire creator Wim Taymans](https://fedoramagazine.org/pipewire-1-0-an-interview-with-pipewire-creator-wim-taymans/)
 * [2023-12-07, 13:34:07](https://lobste.rs/s/gdyjlm/shunting_yard_algorithm_2011) - [The Shunting-Yard Algorithm (2011)](https://www.reedbeta.com/blog/the-shunting-yard-algorithm/)
