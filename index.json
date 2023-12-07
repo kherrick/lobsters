@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2023-12-07, 13:34:07",
+      "https://lobste.rs/s/gdyjlm/shunting_yard_algorithm_2011"
+    ],
+    [
+      "The Shunting-Yard Algorithm (2011)",
+      "https://www.reedbeta.com/blog/the-shunting-yard-algorithm/"
+    ]
+  ],
+  [
+    [
       "2023-12-07, 13:29:06",
       "https://lobste.rs/s/ytj5ju/improving_programming_language"
     ],
@@ -237,16 +247,6 @@
     [
       "Why is Jepsen Written in Clojure?",
       "https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure"
-    ]
-  ],
-  [
-    [
-      "2023-12-05, 15:24:34",
-      "https://lobste.rs/s/8igrxm/train_firmware_reverse_engineering"
-    ],
-    [
-      "Train firmware reverse engineering discovers bogus lock up code",
-      "https://social.hackerspace.pl/@q3k/111528162462505087"
     ]
   ]
 ]
