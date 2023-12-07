@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-07](index.md)
 
+* [2023-12-07, 12:29:16](https://lobste.rs/s/wrd9ff/last_5_years_v8_s_garbage_collector) - [The last 5 years of V8's garbage collector — wingolog](https://wingolog.org/archives/2023/12/07/the-last-5-years-of-v8s-garbage-collector)
 * [2023-12-07, 12:01:30](https://lobste.rs/s/obzwir/lich_simple_general_human_sympathetic) - [lich: Simple, general, human-sympathetic binary data format](https://github.com/rentzsch/lich)
 * [2023-12-07, 11:47:43](https://lobste.rs/s/f4agi6/safer_not_later) - [Safer, Not Later](https://blog.glyph.im/2023/12/safer-not-later.html)
 * [2023-12-07, 11:11:35](https://lobste.rs/s/rcokgj/critique_on_critique_on_openpgp_updates) - [A Critique on “A Critique on the OpenPGP Updates”](https://blog.pgpkeys.eu/critique-critique.html)
