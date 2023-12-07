@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-06](index.md)
 
+* [2023-12-06, 22:30:04](https://lobste.rs/s/350yqw/donald_knuth_s_annual_xmas_tree_lecture) - [Donald Knuth’s Annual Xmas Tree Lecture 2023 - Livestream](https://learn.stanford.edu/DonKnuthXmas-2023-Registration.html)
 * [2023-12-06, 21:55:04](https://lobste.rs/s/tzxrbv/unveiling_secrets_esp32_creating_open) - [Unveiling secrets of the ESP32: creating an open-source MAC Layer](https://zeus.ugent.be/blog/23-24/open-source-esp32-wifi-mac/)
 * [2023-12-06, 21:33:04](https://lobste.rs/s/kwkuuf/meta_ii_digital_vellum_digital) - [META II: Digital Vellum in the Digital Scriptorium](https://dl.acm.org/doi/pdf/10.1145/2716276.2724586)
 * [2023-12-06, 21:20:30](https://lobste.rs/s/0prq9y/winglang_new_cloud_oriented_programming) - [Winglang - New Cloud-Oriented Programming Language](https://github.com/winglang/wing)
