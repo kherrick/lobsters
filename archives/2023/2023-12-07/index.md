@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-07](index.md)
 
+* [2023-12-07, 15:00:56](https://lobste.rs/s/maxyzv/s3_express_speculations) - [S3 Express speculations](https://quickwit.io/blog/s3-express-speculations)
 * [2023-12-07, 13:41:33](https://lobste.rs/s/uvmp4j/good_hash_table_primes) - [good hash table primes](https://www.planetmath.org/goodhashtableprimes)
 * [2023-12-07, 13:38:08](https://lobste.rs/s/humtky/pipewire_1_0_interview_with_pipewire) - [PipeWire 1.0 - An interview with PipeWire creator Wim Taymans](https://fedoramagazine.org/pipewire-1-0-an-interview-with-pipewire-creator-wim-taymans/)
 * [2023-12-07, 13:34:07](https://lobste.rs/s/gdyjlm/shunting_yard_algorithm_2011) - [The Shunting-Yard Algorithm (2011)](https://www.reedbeta.com/blog/the-shunting-yard-algorithm/)
