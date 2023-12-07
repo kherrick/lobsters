@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-07, 16:11:32](https://lobste.rs/s/dkehlv/just_about_every_windows_linux_device) - [Just about every Windows and Linux device vulnerable to new LogoFAIL firmware attack](https://arstechnica.com/security/2023/12/just-about-every-windows-and-linux-device-vulnerable-to-new-logofail-firmware-attack/)
 * [2023-12-07, 15:58:45](https://lobste.rs/s/kvamzg/cpython_dynamic_dispatch_internals_what) - [CPython Dynamic Dispatch Internals: What Happens When You do a + b?](https://codeconfessions.substack.com/p/cpython-dynamic-dispatch-internals)
 * [2023-12-07, 15:06:59](https://lobste.rs/s/iagi1x/labyrinth_encrypted_message_storage) - [The Labyrinth Encrypted Message Storage Protocol](https://engineering.fb.com/wp-content/uploads/2023/12/TheLabyrinthEncryptedMessageStorageProtocol_12-6-2023.pdf)
 * [2023-12-07, 15:00:56](https://lobste.rs/s/maxyzv/s3_express_speculations) - [S3 Express speculations](https://quickwit.io/blog/s3-express-speculations)
 * [2023-12-07, 13:41:33](https://lobste.rs/s/uvmp4j/good_hash_table_primes) - [good hash table primes](https://www.planetmath.org/goodhashtableprimes)
 * [2023-12-07, 13:38:08](https://lobste.rs/s/humtky/pipewire_1_0_interview_with_pipewire) - [PipeWire 1.0 - An interview with PipeWire creator Wim Taymans](https://fedoramagazine.org/pipewire-1-0-an-interview-with-pipewire-creator-wim-taymans/)
-* [2023-12-07, 13:34:07](https://lobste.rs/s/gdyjlm/shunting_yard_algorithm_2011) - [The Shunting-Yard Algorithm (2011)](https://www.reedbeta.com/blog/the-shunting-yard-algorithm/)
 * [2023-12-07, 13:29:06](https://lobste.rs/s/ytj5ju/improving_programming_language) - [Improving programming language performance](https://xnacly.me/posts/2023/language-performance/)
 * [2023-12-07, 12:56:13](https://lobste.rs/s/zl1uer/apple_google_confirm_governments_spy_on) - [Apple and Google confirm governments spy on users through push notifications](https://www.androidauthority.com/apple-google-push-notification-surveillance-3392252/)
 * [2023-12-07, 12:29:16](https://lobste.rs/s/wrd9ff/last_5_years_v8_s_garbage_collector) - [The last 5 years of V8's garbage collector](https://wingolog.org/archives/2023/12/07/the-last-5-years-of-v8s-garbage-collector)
