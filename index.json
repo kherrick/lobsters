@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-12-07, 17:31:54",
-      "https://lobste.rs/s/di1uxj/choose_your_own_ip_on_tailscale"
-    ],
-    [
-      "Choose your own IP on Tailscale",
-      "https://tailscale.com/blog/choose-your-ip/"
-    ]
-  ],
-  [
-    [
       "2023-12-07, 16:11:32",
       "https://lobste.rs/s/dkehlv/just_about_every_windows_linux_device"
     ],
@@ -177,6 +167,16 @@
     [
       "A schism in the OpenPGP world",
       "https://lwn.net/SubscriberLink/953797/7222cd75661fb888/"
+    ]
+  ],
+  [
+    [
+      "2023-12-07, 07:18:17",
+      "https://lobste.rs/s/ifsiqh/generating_page_summaries_with"
+    ],
+    [
+      "Generating page summaries with HuggingFace summarization models",
+      "https://technicalwriting.tools/posts/huggingface-summarization-models/"
     ]
   ],
   [
