@@ -2,7 +2,6 @@
 
 * [2023-12-07, 18:45:10](https://lobste.rs/s/6rzfmp/hanukkah_data_2023_5784) - [Hanukkah of Data 2023/5784](https://hanukkah.bluebird.sh/5784/)
 * [2023-12-07, 18:10:31](https://lobste.rs/s/6eizz1/wizardry_frontier) - [The Wizardry Frontier ](https://v5.chriskrycho.com/journal/wizardry-frontier/)
-* [2023-12-07, 17:31:54](https://lobste.rs/s/di1uxj/choose_your_own_ip_on_tailscale) - [Choose your own IP on Tailscale](https://tailscale.com/blog/choose-your-ip/)
 * [2023-12-07, 16:11:32](https://lobste.rs/s/dkehlv/just_about_every_windows_linux_device) - [Just about every Windows and Linux device vulnerable to new LogoFAIL firmware attack](https://arstechnica.com/security/2023/12/just-about-every-windows-and-linux-device-vulnerable-to-new-logofail-firmware-attack/)
 * [2023-12-07, 15:58:45](https://lobste.rs/s/kvamzg/cpython_dynamic_dispatch_internals_what) - [CPython Dynamic Dispatch Internals: What Happens When You do a + b?](https://codeconfessions.substack.com/p/cpython-dynamic-dispatch-internals)
 * [2023-12-07, 15:06:59](https://lobste.rs/s/iagi1x/labyrinth_encrypted_message_storage) - [The Labyrinth Encrypted Message Storage Protocol](https://engineering.fb.com/wp-content/uploads/2023/12/TheLabyrinthEncryptedMessageStorageProtocol_12-6-2023.pdf)
@@ -18,6 +17,7 @@
 * [2023-12-07, 10:27:01](https://lobste.rs/s/zz9au3/nix_ld_run_unpatched_dynamic_binaries_on) - [nix-ld: Run unpatched dynamic binaries on NixOS](https://github.com/Mic92/nix-ld)
 * [2023-12-07, 10:21:54](https://lobste.rs/s/doqtje/syncthing_untrusted_device_encryption) - [Syncthing - Untrusted Device Encryption](https://docs.syncthing.net/specs/untrusted.html)
 * [2023-12-07, 08:52:59](https://lobste.rs/s/d0nf5j/schism_openpgp_world) - [A schism in the OpenPGP world](https://lwn.net/SubscriberLink/953797/7222cd75661fb888/)
+* [2023-12-07, 07:18:17](https://lobste.rs/s/ifsiqh/generating_page_summaries_with) - [Generating page summaries with HuggingFace summarization models](https://technicalwriting.tools/posts/huggingface-summarization-models/)
 * [2023-12-07, 06:40:53](https://lobste.rs/s/gyupk4/case_for_memory_safe_roadmaps) - [The Case for Memory Safe Roadmaps](https://media.defense.gov/2023/Dec/06/2003352724/-1/-1/0/THE-CASE-FOR-MEMORY-SAFE-ROADMAPS-TLP-CLEAR.PDF)
 * [2023-12-06, 21:55:04](https://lobste.rs/s/tzxrbv/unveiling_secrets_esp32_creating_open) - [Unveiling secrets of the ESP32: creating an open-source MAC Layer](https://zeus.ugent.be/blog/23-24/open-source-esp32-wifi-mac/)
 * [2023-12-06, 17:18:06](https://lobste.rs/s/gbxo6e/ghostty_devlog_005) - [Ghostty Devlog 005](https://mitchellh.com/writing/ghostty-devlog-005)
