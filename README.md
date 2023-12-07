@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-07, 06:40:53](https://lobste.rs/s/gyupk4/case_for_memory_safe_roadmaps) - [The Case for Memory Safe Roadmaps](https://media.defense.gov/2023/Dec/06/2003352724/-1/-1/0/THE-CASE-FOR-MEMORY-SAFE-ROADMAPS-TLP-CLEAR.PDF)
 * [2023-12-06, 22:30:04](https://lobste.rs/s/350yqw/donald_knuth_s_annual_xmas_tree_lecture) - [Donald Knuth’s Annual Xmas Tree Lecture 2023 - Livestream](https://learn.stanford.edu/DonKnuthXmas-2023-Registration.html)
 * [2023-12-06, 21:55:04](https://lobste.rs/s/tzxrbv/unveiling_secrets_esp32_creating_open) - [Unveiling secrets of the ESP32: creating an open-source MAC Layer](https://zeus.ugent.be/blog/23-24/open-source-esp32-wifi-mac/)
 * [2023-12-06, 21:33:04](https://lobste.rs/s/kwkuuf/meta_ii_digital_vellum_digital) - [META II: Digital Vellum in the Digital Scriptorium](https://dl.acm.org/doi/pdf/10.1145/2716276.2724586)
 * [2023-12-06, 21:20:30](https://lobste.rs/s/0prq9y/winglang_new_cloud_oriented_programming) - [Winglang - New Cloud-Oriented Programming Language](https://github.com/winglang/wing)
-* [2023-12-06, 21:12:13](https://lobste.rs/s/bccm58/postgresql_temporal_tables_extension_pl) - [Postgresql temporal_tables extension in PL/pgSQL](https://github.com/nearform/temporal_tables)
 * [2023-12-06, 20:41:57](https://lobste.rs/s/izmh3r/testing_data_assumptions_with) - [Testing Data Assumptions with PostgreSQL](https://dabure.com/blog/testing-data-assumptions-with-postgresql)
 * [2023-12-06, 17:18:06](https://lobste.rs/s/gbxo6e/ghostty_devlog_005) - [Ghostty Devlog 005](https://mitchellh.com/writing/ghostty-devlog-005)
 * [2023-12-06, 16:23:30](https://lobste.rs/s/e1sdqj/system_observability_metrics_sampling) - [System Observability: Metrics, Sampling, and Tracing](https://two-wrongs.com/system-observability-metrics-sampling-tracing)
