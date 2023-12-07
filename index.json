@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-07, 13:29:06",
+      "https://lobste.rs/s/ytj5ju/improving_programming_language"
+    ],
+    [
+      "Improving programming language performance",
+      "https://xnacly.me/posts/2023/language-performance/"
+    ]
+  ],
+  [
+    [
       "2023-12-07, 13:02:25",
       "https://lobste.rs/s/rgprs3/generate_terraform_code_from_your"
     ],
@@ -197,16 +207,6 @@
     [
       "Your GitHub pull request workflow is slowing everyone down",
       "https://graphite.dev/blog/your-github-pr-workflow-is-slow"
-    ]
-  ],
-  [
-    [
-      "2023-12-06, 10:58:52",
-      "https://lobste.rs/s/0xpxg2/add_support_for_gen_fn_rust_nightly"
-    ],
-    [
-      "Add support for `gen fn` in Rust nightly",
-      "https://github.com/rust-lang/rust/pull/118457"
     ]
   ],
   [
