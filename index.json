@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-07, 16:11:32",
+      "https://lobste.rs/s/dkehlv/just_about_every_windows_linux_device"
+    ],
+    [
+      "Just about every Windows and Linux device vulnerable to new LogoFAIL firmware attack",
+      "https://arstechnica.com/security/2023/12/just-about-every-windows-and-linux-device-vulnerable-to-new-logofail-firmware-attack/"
+    ]
+  ],
+  [
+    [
       "2023-12-07, 15:58:45",
       "https://lobste.rs/s/kvamzg/cpython_dynamic_dispatch_internals_what"
     ],
@@ -47,16 +57,6 @@
     [
       "PipeWire 1.0 - An interview with PipeWire creator Wim Taymans",
       "https://fedoramagazine.org/pipewire-1-0-an-interview-with-pipewire-creator-wim-taymans/"
-    ]
-  ],
-  [
-    [
-      "2023-12-07, 13:34:07",
-      "https://lobste.rs/s/gdyjlm/shunting_yard_algorithm_2011"
-    ],
-    [
-      "The Shunting-Yard Algorithm (2011)",
-      "https://www.reedbeta.com/blog/the-shunting-yard-algorithm/"
     ]
   ],
   [
