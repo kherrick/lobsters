@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-07](index.md)
 
+* [2023-12-07, 15:58:45](https://lobste.rs/s/kvamzg/cpython_dynamic_dispatch_internals_what) - [CPython Dynamic Dispatch Internals: What Happens When You do a + b?](https://codeconfessions.substack.com/p/cpython-dynamic-dispatch-internals)
 * [2023-12-07, 15:06:59](https://lobste.rs/s/iagi1x/labyrinth_encrypted_message_storage) - [The Labyrinth Encrypted Message Storage Protocol](https://engineering.fb.com/wp-content/uploads/2023/12/TheLabyrinthEncryptedMessageStorageProtocol_12-6-2023.pdf)
 * [2023-12-07, 15:00:56](https://lobste.rs/s/maxyzv/s3_express_speculations) - [S3 Express speculations](https://quickwit.io/blog/s3-express-speculations)
 * [2023-12-07, 13:41:33](https://lobste.rs/s/uvmp4j/good_hash_table_primes) - [good hash table primes](https://www.planetmath.org/goodhashtableprimes)
