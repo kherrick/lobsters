@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-07, 08:52:59](https://lobste.rs/s/d0nf5j/schism_openpgp_world) - [A schism in the OpenPGP world](https://lwn.net/SubscriberLink/953797/7222cd75661fb888/)
 * [2023-12-07, 07:18:17](https://lobste.rs/s/ifsiqh/generating_page_summaries_with) - [Generating page summaries with HuggingFace summarization models](https://technicalwriting.tools/posts/huggingface-summarization-models/)
 * [2023-12-07, 06:40:53](https://lobste.rs/s/gyupk4/case_for_memory_safe_roadmaps) - [The Case for Memory Safe Roadmaps](https://media.defense.gov/2023/Dec/06/2003352724/-1/-1/0/THE-CASE-FOR-MEMORY-SAFE-ROADMAPS-TLP-CLEAR.PDF)
 * [2023-12-07, 00:54:56](https://lobste.rs/s/stjhle/sample_chapter_from_learn_enough_python) - [Sample chapter from Learn Enough Python to Be Dangerous, with an introduction to testing](https://www.informit.com/articles/article.aspx?p=3178912)
@@ -23,7 +24,6 @@
 * [2023-12-06, 03:29:50](https://lobste.rs/s/lydbxm/gerbil_v0_18_1_nimzolarsen_released) - [Gerbil v0.18.1 NimzoLarsen released](https://github.com/mighty-gerbils/gerbil/discussions/1079)
 * [2023-12-05, 23:30:10](https://lobste.rs/s/1ec3n0/against_do_notation) - [Against do notation](https://pithlessly.github.io/donotation.html)
 * [2023-12-05, 22:58:12](https://lobste.rs/s/8992zd/all_my_favorite_tracing_tools_ebpf_qemu) - [All my favorite tracing tools: eBPF, QEMU, Perfetto, new ones I built and more](https://thume.ca/2023/12/02/tracing-methods/)
-* [2023-12-05, 17:18:27](https://lobste.rs/s/bqaoas/pypush_cross_platform_imessage_poc) - [pypush: Cross-platform iMessage POC](https://github.com/JJTech0130/pypush)
 * [2023-12-05, 15:24:34](https://lobste.rs/s/8igrxm/train_firmware_reverse_engineering) - [Train firmware reverse engineering discovers bogus lock up code](https://social.hackerspace.pl/@q3k/111528162462505087)
 
 ## [Archives](archives/index.md)
