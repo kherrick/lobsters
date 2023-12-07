@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-07](index.md)
 
+* [2023-12-07, 21:22:33](https://lobste.rs/s/a8iuly/webassembly_garbage_collection_wasmgc) - [WebAssembly Garbage Collection (WasmGC) now enabled by default in Chrome](https://developer.chrome.com/blog/wasmgc/)
 * [2023-12-07, 19:34:46](https://lobste.rs/s/e8b5ub/performance_analysis_intel_s_x86_simd) - [A performance analysis of Intel's x86-simd-sort](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/intel_avx512/text.md)
 * [2023-12-07, 18:45:10](https://lobste.rs/s/6rzfmp/hanukkah_data_2023_5784) - [Hanukkah of Data 2023/5784](https://hanukkah.bluebird.sh/5784/)
 * [2023-12-07, 18:10:31](https://lobste.rs/s/6eizz1/wizardry_frontier) - [The Wizardry Frontier ](https://v5.chriskrycho.com/journal/wizardry-frontier/)
