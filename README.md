@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-07, 13:29:06](https://lobste.rs/s/ytj5ju/improving_programming_language) - [Improving programming language performance](https://xnacly.me/posts/2023/language-performance/)
 * [2023-12-07, 13:02:25](https://lobste.rs/s/rgprs3/generate_terraform_code_from_your) - [Generate Terraform code from your existing cloud infrastructure](https://github.com/cycloidio/terracognita)
 * [2023-12-07, 12:56:13](https://lobste.rs/s/zl1uer/apple_google_confirm_governments_spy_on) - [Apple and Google confirm governments spy on users through push notifications](https://www.androidauthority.com/apple-google-push-notification-surveillance-3392252/)
 * [2023-12-07, 12:29:16](https://lobste.rs/s/wrd9ff/last_5_years_v8_s_garbage_collector) - [The last 5 years of V8's garbage collector — wingolog](https://wingolog.org/archives/2023/12/07/the-last-5-years-of-v8s-garbage-collector)
@@ -20,7 +21,6 @@
 * [2023-12-06, 14:46:44](https://lobste.rs/s/gsk8re/rethinking_serverless_with_flame) - [Rethinking Serverless with FLAME](https://fly.io/blog/rethinking-serverless-with-flame/)
 * [2023-12-06, 13:32:39](https://lobste.rs/s/9lezx3/why_is_jepsen_written_clojure) - [Why is Jepsen Written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
 * [2023-12-06, 13:24:02](https://lobste.rs/s/sda7hr/your_github_pull_request_workflow_is) - [Your GitHub pull request workflow is slowing everyone down](https://graphite.dev/blog/your-github-pr-workflow-is-slow)
-* [2023-12-06, 10:58:52](https://lobste.rs/s/0xpxg2/add_support_for_gen_fn_rust_nightly) - [Add support for `gen fn` in Rust nightly](https://github.com/rust-lang/rust/pull/118457)
 * [2023-12-06, 10:54:59](https://lobste.rs/s/bnlfyb/simplicity_is_better_than_complexity) - [Simplicity is better than complexity](https://commandcenter.blogspot.com/2023/12/simplicity.html)
 * [2023-12-06, 06:47:24](https://lobste.rs/s/1hi5pl/rqlite_8_0_distributed_sqlite_large) - [rqlite 8.0 - distributed SQLite: Large Dataset Support and Core Feature Upgrades](https://www.philipotoole.com/rqlite-8-0-large-dataset-support-and-core-feature-upgrades/)
 * [2023-12-05, 22:58:12](https://lobste.rs/s/8992zd/all_my_favorite_tracing_tools_ebpf_qemu) - [All my favorite tracing tools: eBPF, QEMU, Perfetto, new ones I built and more](https://thume.ca/2023/12/02/tracing-methods/)

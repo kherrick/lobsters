@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-07](index.md)
 
+* [2023-12-07, 13:29:06](https://lobste.rs/s/ytj5ju/improving_programming_language) - [Improving programming language performance](https://xnacly.me/posts/2023/language-performance/)
 * [2023-12-07, 13:02:25](https://lobste.rs/s/rgprs3/generate_terraform_code_from_your) - [Generate Terraform code from your existing cloud infrastructure](https://github.com/cycloidio/terracognita)
 * [2023-12-07, 12:56:13](https://lobste.rs/s/zl1uer/apple_google_confirm_governments_spy_on) - [Apple and Google confirm governments spy on users through push notifications](https://www.androidauthority.com/apple-google-push-notification-surveillance-3392252/)
 * [2023-12-07, 12:29:16](https://lobste.rs/s/wrd9ff/last_5_years_v8_s_garbage_collector) - [The last 5 years of V8's garbage collector — wingolog](https://wingolog.org/archives/2023/12/07/the-last-5-years-of-v8s-garbage-collector)
