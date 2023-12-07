@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-07, 18:45:10](https://lobste.rs/s/6rzfmp/hanukkah_data_2023_5784) - [Hanukkah of Data 2023/5784](https://hanukkah.bluebird.sh/5784/)
 * [2023-12-07, 18:10:31](https://lobste.rs/s/6eizz1/wizardry_frontier) - [The Wizardry Frontier ](https://v5.chriskrycho.com/journal/wizardry-frontier/)
 * [2023-12-07, 17:31:54](https://lobste.rs/s/di1uxj/choose_your_own_ip_on_tailscale) - [Choose your own IP on Tailscale](https://tailscale.com/blog/choose-your-ip/)
 * [2023-12-07, 16:11:32](https://lobste.rs/s/dkehlv/just_about_every_windows_linux_device) - [Just about every Windows and Linux device vulnerable to new LogoFAIL firmware attack](https://arstechnica.com/security/2023/12/just-about-every-windows-and-linux-device-vulnerable-to-new-logofail-firmware-attack/)
@@ -22,7 +23,6 @@
 * [2023-12-06, 17:18:06](https://lobste.rs/s/gbxo6e/ghostty_devlog_005) - [Ghostty Devlog 005](https://mitchellh.com/writing/ghostty-devlog-005)
 * [2023-12-06, 16:13:04](https://lobste.rs/s/o0w3gw/firefox_on_brink) - [Firefox on the brink?](https://www.brycewray.com/posts/2023/11/firefox-brink/)
 * [2023-12-06, 15:22:53](https://lobste.rs/s/bv6ci6/sqlite_forum_jsonb_has_landed) - [SQLite Forum: JSONB has landed](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97)
-* [2023-12-06, 14:59:05](https://lobste.rs/s/iq0uwa/fleece_super_fast_compact_json) - [fleece: A super-fast, compact, JSON-equivalent binary data format](https://github.com/couchbase/fleece)
 * [2023-12-06, 14:46:44](https://lobste.rs/s/gsk8re/rethinking_serverless_with_flame) - [Rethinking Serverless with FLAME](https://fly.io/blog/rethinking-serverless-with-flame/)
 * [2023-12-06, 13:32:39](https://lobste.rs/s/9lezx3/why_is_jepsen_written_clojure) - [Why is Jepsen Written in Clojure?](https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure)
 
