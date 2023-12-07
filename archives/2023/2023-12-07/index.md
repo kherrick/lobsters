@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-07](index.md)
 
+* [2023-12-07, 11:11:35](https://lobste.rs/s/rcokgj/critique_on_critique_on_openpgp_updates) - [A Critique on “A Critique on the OpenPGP Updates”](https://blog.pgpkeys.eu/critique-critique.html)
 * [2023-12-07, 10:27:01](https://lobste.rs/s/zz9au3/nix_ld_run_unpatched_dynamic_binaries_on) - [nix-ld: Run unpatched dynamic binaries on NixOS](https://github.com/Mic92/nix-ld)
 * [2023-12-07, 10:21:54](https://lobste.rs/s/doqtje/syncthing_untrusted_device_encryption) - [Syncthing - Untrusted Device Encryption](https://docs.syncthing.net/specs/untrusted.html)
 * [2023-12-07, 08:52:59](https://lobste.rs/s/d0nf5j/schism_openpgp_world) - [A schism in the OpenPGP world](https://lwn.net/SubscriberLink/953797/7222cd75661fb888/)

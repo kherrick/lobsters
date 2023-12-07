@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-07, 11:11:35](https://lobste.rs/s/rcokgj/critique_on_critique_on_openpgp_updates) - [A Critique on “A Critique on the OpenPGP Updates”](https://blog.pgpkeys.eu/critique-critique.html)
 * [2023-12-07, 10:27:01](https://lobste.rs/s/zz9au3/nix_ld_run_unpatched_dynamic_binaries_on) - [nix-ld: Run unpatched dynamic binaries on NixOS](https://github.com/Mic92/nix-ld)
 * [2023-12-07, 10:21:54](https://lobste.rs/s/doqtje/syncthing_untrusted_device_encryption) - [Syncthing - Untrusted Device Encryption](https://docs.syncthing.net/specs/untrusted.html)
 * [2023-12-07, 08:52:59](https://lobste.rs/s/d0nf5j/schism_openpgp_world) - [A schism in the OpenPGP world](https://lwn.net/SubscriberLink/953797/7222cd75661fb888/)
@@ -21,7 +22,6 @@
 * [2023-12-06, 10:54:59](https://lobste.rs/s/bnlfyb/simplicity_is_better_than_complexity) - [Simplicity is better than complexity](https://commandcenter.blogspot.com/2023/12/simplicity.html)
 * [2023-12-06, 10:06:40](https://lobste.rs/s/cj1iuy/catching_up_with_cosmopolitan_ecosystem) - [Catching up with the Cosmopolitan ecosystem](https://til.simonwillison.net/cosmopolitan/ecosystem)
 * [2023-12-06, 06:47:24](https://lobste.rs/s/1hi5pl/rqlite_8_0_distributed_sqlite_large) - [rqlite 8.0 - distributed SQLite: Large Dataset Support and Core Feature Upgrades](https://www.philipotoole.com/rqlite-8-0-large-dataset-support-and-core-feature-upgrades/)
-* [2023-12-06, 03:29:50](https://lobste.rs/s/lydbxm/gerbil_v0_18_1_nimzolarsen_released) - [Gerbil v0.18.1 NimzoLarsen released](https://github.com/mighty-gerbils/gerbil/discussions/1079)
 * [2023-12-05, 23:30:10](https://lobste.rs/s/1ec3n0/against_do_notation) - [Against do notation](https://pithlessly.github.io/donotation.html)
 * [2023-12-05, 22:58:12](https://lobste.rs/s/8992zd/all_my_favorite_tracing_tools_ebpf_qemu) - [All my favorite tracing tools: eBPF, QEMU, Perfetto, new ones I built and more](https://thume.ca/2023/12/02/tracing-methods/)
 * [2023-12-05, 15:24:34](https://lobste.rs/s/8igrxm/train_firmware_reverse_engineering) - [Train firmware reverse engineering discovers bogus lock up code](https://social.hackerspace.pl/@q3k/111528162462505087)
