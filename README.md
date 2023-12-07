@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-12-07, 01:04:29](https://lobste.rs/s/mtxwtm/gemini_ai_google_deepmind) - [Gemini AI - Google DeepMind](https://deepmind.google/technologies/gemini/#introduction)
+* [2023-12-07, 00:54:56](https://lobste.rs/s/stjhle/sample_chapter_from_learn_enough_python) - [Sample chapter from Learn Enough Python to Be Dangerous, with an introduction to testing](https://www.informit.com/articles/article.aspx?p=3178912)
 * [2023-12-06, 22:30:04](https://lobste.rs/s/350yqw/donald_knuth_s_annual_xmas_tree_lecture) - [Donald Knuth’s Annual Xmas Tree Lecture 2023 - Livestream](https://learn.stanford.edu/DonKnuthXmas-2023-Registration.html)
 * [2023-12-06, 21:55:04](https://lobste.rs/s/tzxrbv/unveiling_secrets_esp32_creating_open) - [Unveiling secrets of the ESP32: creating an open-source MAC Layer](https://zeus.ugent.be/blog/23-24/open-source-esp32-wifi-mac/)
 * [2023-12-06, 21:33:04](https://lobste.rs/s/kwkuuf/meta_ii_digital_vellum_digital) - [META II: Digital Vellum in the Digital Scriptorium](https://dl.acm.org/doi/pdf/10.1145/2716276.2724586)
