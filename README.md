@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-08, 04:28:52](https://lobste.rs/s/gos64v/fake_chips_i_got_stung) - [Fake chips, I got stung](https://linuxjedi.co.uk/2023/12/01/fake-chips-i-got-stung/)
+* [2023-12-08, 04:26:49](https://lobste.rs/s/wl0cbw/mixing_c_rust_for_fun_profit) - [Mixing C++ and Rust for Fun and Profit](https://www.kdab.com/mixing-c-and-rust-for-fun-and-profit-part-1/)
 * [2023-12-08, 01:12:44](https://lobste.rs/s/wpnbi9/systemd_255_released) - [systemd 255 released](https://www.phoronix.com/news/systemd-255)
 * [2023-12-07, 21:22:33](https://lobste.rs/s/a8iuly/webassembly_garbage_collection_wasmgc) - [WebAssembly Garbage Collection (WasmGC) now enabled by default in Chrome](https://developer.chrome.com/blog/wasmgc/)
-* [2023-12-07, 19:34:46](https://lobste.rs/s/e8b5ub/performance_analysis_intel_s_x86_simd) - [A performance analysis of Intel's x86-simd-sort](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/intel_avx512/text.md)
 * [2023-12-07, 18:45:10](https://lobste.rs/s/6rzfmp/hanukkah_data_2023_5784) - [Hanukkah of Data 2023/5784](https://hanukkah.bluebird.sh/5784/)
 * [2023-12-07, 18:10:31](https://lobste.rs/s/6eizz1/wizardry_frontier) - [The Wizardry Frontier ](https://v5.chriskrycho.com/journal/wizardry-frontier/)
 * [2023-12-07, 16:11:32](https://lobste.rs/s/dkehlv/just_about_every_windows_linux_device) - [Just about every Windows and Linux device vulnerable to new LogoFAIL firmware attack](https://arstechnica.com/security/2023/12/just-about-every-windows-and-linux-device-vulnerable-to-new-logofail-firmware-attack/)
@@ -19,7 +20,6 @@
 * [2023-12-07, 10:27:01](https://lobste.rs/s/zz9au3/nix_ld_run_unpatched_dynamic_binaries_on) - [nix-ld: Run unpatched dynamic binaries on NixOS](https://github.com/Mic92/nix-ld)
 * [2023-12-07, 10:21:54](https://lobste.rs/s/doqtje/syncthing_untrusted_device_encryption) - [Syncthing - Untrusted Device Encryption](https://docs.syncthing.net/specs/untrusted.html)
 * [2023-12-07, 08:52:59](https://lobste.rs/s/d0nf5j/schism_openpgp_world) - [A schism in the OpenPGP world](https://lwn.net/SubscriberLink/953797/7222cd75661fb888/)
-* [2023-12-07, 07:18:17](https://lobste.rs/s/ifsiqh/generating_page_summaries_with) - [Generating page summaries with HuggingFace summarization models](https://technicalwriting.tools/posts/huggingface-summarization-models/)
 * [2023-12-07, 06:40:53](https://lobste.rs/s/gyupk4/case_for_memory_safe_roadmaps) - [The Case for Memory Safe Roadmaps](https://media.defense.gov/2023/Dec/06/2003352724/-1/-1/0/THE-CASE-FOR-MEMORY-SAFE-ROADMAPS-TLP-CLEAR.PDF)
 * [2023-12-06, 21:55:04](https://lobste.rs/s/tzxrbv/unveiling_secrets_esp32_creating_open) - [Unveiling secrets of the ESP32: creating an open-source MAC Layer](https://zeus.ugent.be/blog/23-24/open-source-esp32-wifi-mac/)
 * [2023-12-06, 16:13:04](https://lobste.rs/s/o0w3gw/firefox_on_brink) - [Firefox on the brink?](https://www.brycewray.com/posts/2023/11/firefox-brink/)
