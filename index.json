@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-08, 12:27:19",
+      "https://lobste.rs/s/9mr0pn/postgres_language_server_implementing"
+    ],
+    [
+      "Postgres Language Server: implementing the Parser",
+      "https://supabase.com/blog/postgres-language-server-implementing-parser"
+    ]
+  ],
+  [
+    [
       "2023-12-08, 12:13:36",
       "https://lobste.rs/s/vixzsx/arch_linux_bugtracker_migration_gitlab"
     ],
@@ -237,16 +247,6 @@
     [
       "The Case for Memory Safe Roadmaps",
       "https://media.defense.gov/2023/Dec/06/2003352724/-1/-1/0/THE-CASE-FOR-MEMORY-SAFE-ROADMAPS-TLP-CLEAR.PDF"
-    ]
-  ],
-  [
-    [
-      "2023-12-06, 16:13:04",
-      "https://lobste.rs/s/o0w3gw/firefox_on_brink"
-    ],
-    [
-      "Firefox on the brink?",
-      "https://www.brycewray.com/posts/2023/11/firefox-brink/"
     ]
   ]
 ]
