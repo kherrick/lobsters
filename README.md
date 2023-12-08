@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-08, 19:20:30](https://lobste.rs/s/prdhzt/await_tree_panacea_for_observability) - [Await-Tree: A Panacea for Observability in Async Rust](https://risingwave.com/blog/await-tree-a-panacea-for-observability-in-async-rust/)
 * [2023-12-08, 17:38:54](https://lobste.rs/s/2qgdqw/patching_around_c_crash_with_little_bit) - [Patching around a C++ crash with a little bit of Lua](http://rachelbythebay.com/w/2023/12/07/header/)
 * [2023-12-08, 17:36:07](https://lobste.rs/s/jmcsmu/maglev_v8_s_fastest_optimizing_jit) - [Maglev - V8’s Fastest Optimizing JIT](https://v8.dev/blog/maglev)
 * [2023-12-08, 16:53:04](https://lobste.rs/s/wo33yn/advent_code_c_template_metaprogramming) - [Advent of Code in C++ Template Metaprogramming](https://blog.nelhage.com/post/advent-of-templates/)
@@ -21,7 +22,6 @@
 * [2023-12-07, 13:29:06](https://lobste.rs/s/ytj5ju/improving_programming_language) - [Improving programming language performance](https://xnacly.me/posts/2023/language-performance/)
 * [2023-12-07, 12:56:13](https://lobste.rs/s/zl1uer/apple_google_confirm_governments_spy_on) - [Apple and Google confirm governments spy on users through push notifications](https://www.androidauthority.com/apple-google-push-notification-surveillance-3392252/)
 * [2023-12-07, 12:29:16](https://lobste.rs/s/wrd9ff/last_5_years_v8_s_garbage_collector) - [The last 5 years of V8's garbage collector](https://wingolog.org/archives/2023/12/07/the-last-5-years-of-v8s-garbage-collector)
-* [2023-12-07, 12:01:30](https://lobste.rs/s/obzwir/lich_simple_general_human_sympathetic) - [lich: Simple, general, human-sympathetic binary data format](https://github.com/rentzsch/lich)
 * [2023-12-07, 11:47:43](https://lobste.rs/s/f4agi6/safer_not_later) - [Safer, Not Later](https://blog.glyph.im/2023/12/safer-not-later.html)
 * [2023-12-07, 10:21:54](https://lobste.rs/s/doqtje/syncthing_untrusted_device_encryption) - [Syncthing - Untrusted Device Encryption](https://docs.syncthing.net/specs/untrusted.html)
 * [2023-12-07, 08:52:59](https://lobste.rs/s/d0nf5j/schism_openpgp_world) - [A schism in the OpenPGP world](https://lwn.net/SubscriberLink/953797/7222cd75661fb888/)
