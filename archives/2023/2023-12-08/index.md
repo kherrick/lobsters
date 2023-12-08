@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-08](index.md)
 
+* [2023-12-08, 12:13:36](https://lobste.rs/s/vixzsx/arch_linux_bugtracker_migration_gitlab) - [Arch Linux bugtracker migration to GitLab completed](https://archlinux.org/news/bugtracker-migration-to-gitlab-completed/)
+* [2023-12-08, 12:13:15](https://lobste.rs/s/ohe5xm/how_first_gen_ipod_was_reverse_engineered) - [How the first gen ipod was reverse engineered to run Rockbox](https://mastodon.social/@bagder/111538350617290554)
 * [2023-12-08, 11:14:28](https://lobste.rs/s/uln47a/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/uln47a/what_are_you_doing_this_weekend)
 * [2023-12-08, 11:07:05](https://lobste.rs/s/xnjexs/phoenix_liveview_action) - [Phoenix LiveView in Action](https://scorpil.com/post/phoenix-live-view-in-action/)
 * [2023-12-08, 07:19:58](https://lobste.rs/s/zermin/neovimconf_live_2023) - [NeoVimConf.live 2023](https://neovimconf.live/)
