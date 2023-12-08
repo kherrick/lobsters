@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-08, 21:28:50](https://lobste.rs/s/s68ube/alpine_linux_3_19_0_released) - [Alpine Linux 3.19.0 released](https://www.alpinelinux.org/posts/Alpine-3.19.0-released.html)
 * [2023-12-08, 21:08:21](https://lobste.rs/s/kf8ltj/research_rsc_go_changes) - [research!rsc: Go Changes](https://research.swtch.com/gochanges)
 * [2023-12-08, 19:56:22](https://lobste.rs/s/jxrct0/transparency_logs_verifiable_transport) - [Transparency Logs: A Verifiable Transport Layer](https://transparency.dev/articles/logs-a-verifiable-transport-layer/)
 * [2023-12-08, 19:20:30](https://lobste.rs/s/prdhzt/await_tree_panacea_for_observability) - [Await-Tree: A Panacea for Observability in Async Rust](https://risingwave.com/blog/await-tree-a-panacea-for-observability-in-async-rust/)
@@ -22,7 +23,6 @@
 * [2023-12-07, 13:29:06](https://lobste.rs/s/ytj5ju/improving_programming_language) - [Improving programming language performance](https://xnacly.me/posts/2023/language-performance/)
 * [2023-12-07, 12:56:13](https://lobste.rs/s/zl1uer/apple_google_confirm_governments_spy_on) - [Apple and Google confirm governments spy on users through push notifications](https://www.androidauthority.com/apple-google-push-notification-surveillance-3392252/)
 * [2023-12-07, 12:29:16](https://lobste.rs/s/wrd9ff/last_5_years_v8_s_garbage_collector) - [The last 5 years of V8's garbage collector](https://wingolog.org/archives/2023/12/07/the-last-5-years-of-v8s-garbage-collector)
-* [2023-12-07, 11:47:43](https://lobste.rs/s/f4agi6/safer_not_later) - [Safer, Not Later](https://blog.glyph.im/2023/12/safer-not-later.html)
 * [2023-12-07, 10:21:54](https://lobste.rs/s/doqtje/syncthing_untrusted_device_encryption) - [Syncthing - Untrusted Device Encryption](https://docs.syncthing.net/specs/untrusted.html)
 * [2023-12-07, 08:52:59](https://lobste.rs/s/d0nf5j/schism_openpgp_world) - [A schism in the OpenPGP world](https://lwn.net/SubscriberLink/953797/7222cd75661fb888/)
 
