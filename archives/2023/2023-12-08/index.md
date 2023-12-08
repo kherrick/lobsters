@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-08](index.md)
 
+* [2023-12-08, 11:07:05](https://lobste.rs/s/xnjexs/phoenix_liveview_action) - [Phoenix LiveView in Action](https://scorpil.com/post/phoenix-live-view-in-action/)
 * [2023-12-08, 07:19:58](https://lobste.rs/s/zermin/neovimconf_live_2023) - [NeoVimConf.live 2023](https://neovimconf.live/)
 * [2023-12-08, 04:30:53](https://lobste.rs/s/yqwasc/upgrading_github_com_mysql_8_0) - [Upgrading GitHub.com to MySQL 8.0](https://github.blog/2023-12-07-upgrading-github-com-to-mysql-8-0/)
 * [2023-12-08, 04:28:52](https://lobste.rs/s/gos64v/fake_chips_i_got_stung) - [Fake chips, I got stung](https://linuxjedi.co.uk/2023/12/01/fake-chips-i-got-stung/)
