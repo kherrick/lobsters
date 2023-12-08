@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-08](index.md)
 
+* [2023-12-08, 16:53:04](https://lobste.rs/s/wo33yn/advent_code_c_template_metaprogramming) - [Advent of Code in C++ Template Metaprogramming](https://blog.nelhage.com/post/advent-of-templates/)
 * [2023-12-08, 16:06:46](https://lobste.rs/s/ukh5id/uhttp_pythonic_web_development) - [uHTTP: Pythonic web development](https://github.com/0x67757300/uHTTP)
 * [2023-12-08, 16:03:56](https://lobste.rs/s/4pw9kf/spotify_inspired_elevating_meilisearch) - [Spotify-Inspired: Elevating Meilisearch with Hybrid Search and Rust](https://blog.kerollmops.com/spotify-inspired-elevating-meilisearch-with-hybrid-search-and-rust)
 * [2023-12-08, 15:34:13](https://lobste.rs/s/ke0xqh/trippy_network_diagnostic_tool) - [trippy: network diagnostic tool](https://trippy.cli.rs/)
