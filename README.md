@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-08, 17:36:07](https://lobste.rs/s/jmcsmu/maglev_v8_s_fastest_optimizing_jit) - [Maglev - V8’s Fastest Optimizing JIT](https://v8.dev/blog/maglev)
 * [2023-12-08, 16:53:04](https://lobste.rs/s/wo33yn/advent_code_c_template_metaprogramming) - [Advent of Code in C++ Template Metaprogramming](https://blog.nelhage.com/post/advent-of-templates/)
 * [2023-12-08, 16:03:56](https://lobste.rs/s/4pw9kf/spotify_inspired_elevating_meilisearch) - [Spotify-Inspired: Elevating Meilisearch with Hybrid Search and Rust](https://blog.kerollmops.com/spotify-inspired-elevating-meilisearch-with-hybrid-search-and-rust)
 * [2023-12-08, 15:34:13](https://lobste.rs/s/ke0xqh/trippy_network_diagnostic_tool) - [trippy: network diagnostic tool](https://trippy.cli.rs/)
@@ -22,7 +23,6 @@
 * [2023-12-07, 12:29:16](https://lobste.rs/s/wrd9ff/last_5_years_v8_s_garbage_collector) - [The last 5 years of V8's garbage collector](https://wingolog.org/archives/2023/12/07/the-last-5-years-of-v8s-garbage-collector)
 * [2023-12-07, 12:01:30](https://lobste.rs/s/obzwir/lich_simple_general_human_sympathetic) - [lich: Simple, general, human-sympathetic binary data format](https://github.com/rentzsch/lich)
 * [2023-12-07, 11:47:43](https://lobste.rs/s/f4agi6/safer_not_later) - [Safer, Not Later](https://blog.glyph.im/2023/12/safer-not-later.html)
-* [2023-12-07, 10:27:01](https://lobste.rs/s/zz9au3/nix_ld_run_unpatched_dynamic_binaries_on) - [nix-ld: Run unpatched dynamic binaries on NixOS](https://github.com/Mic92/nix-ld)
 * [2023-12-07, 10:21:54](https://lobste.rs/s/doqtje/syncthing_untrusted_device_encryption) - [Syncthing - Untrusted Device Encryption](https://docs.syncthing.net/specs/untrusted.html)
 * [2023-12-07, 08:52:59](https://lobste.rs/s/d0nf5j/schism_openpgp_world) - [A schism in the OpenPGP world](https://lwn.net/SubscriberLink/953797/7222cd75661fb888/)
 
