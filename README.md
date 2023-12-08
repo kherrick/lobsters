@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-08, 21:08:21](https://lobste.rs/s/kf8ltj/research_rsc_go_changes) - [research!rsc: Go Changes](https://research.swtch.com/gochanges)
 * [2023-12-08, 19:56:22](https://lobste.rs/s/jxrct0/transparency_logs_verifiable_transport) - [Transparency Logs: A Verifiable Transport Layer](https://transparency.dev/articles/logs-a-verifiable-transport-layer/)
 * [2023-12-08, 19:20:30](https://lobste.rs/s/prdhzt/await_tree_panacea_for_observability) - [Await-Tree: A Panacea for Observability in Async Rust](https://risingwave.com/blog/await-tree-a-panacea-for-observability-in-async-rust/)
 * [2023-12-08, 17:38:54](https://lobste.rs/s/2qgdqw/patching_around_c_crash_with_little_bit) - [Patching around a C++ crash with a little bit of Lua](http://rachelbythebay.com/w/2023/12/07/header/)
@@ -16,7 +17,6 @@
 * [2023-12-08, 04:28:52](https://lobste.rs/s/gos64v/fake_chips_i_got_stung) - [Fake chips, I got stung](https://linuxjedi.co.uk/2023/12/01/fake-chips-i-got-stung/)
 * [2023-12-08, 01:12:44](https://lobste.rs/s/wpnbi9/systemd_255_released) - [systemd 255 released](https://www.phoronix.com/news/systemd-255)
 * [2023-12-07, 21:22:33](https://lobste.rs/s/a8iuly/webassembly_garbage_collection_wasmgc) - [WebAssembly Garbage Collection (WasmGC) now enabled by default in Chrome](https://developer.chrome.com/blog/wasmgc/)
-* [2023-12-07, 18:45:10](https://lobste.rs/s/6rzfmp/hanukkah_data_2023_5784) - [Hanukkah of Data 2023/5784](https://hanukkah.bluebird.sh/5784/)
 * [2023-12-07, 18:10:31](https://lobste.rs/s/6eizz1/wizardry_frontier) - [The Wizardry Frontier ](https://v5.chriskrycho.com/journal/wizardry-frontier/)
 * [2023-12-07, 16:11:32](https://lobste.rs/s/dkehlv/just_about_every_windows_linux_device) - [Just about every Windows and Linux device vulnerable to new LogoFAIL firmware attack](https://arstechnica.com/security/2023/12/just-about-every-windows-and-linux-device-vulnerable-to-new-logofail-firmware-attack/)
 * [2023-12-07, 13:29:06](https://lobste.rs/s/ytj5ju/improving_programming_language) - [Improving programming language performance](https://xnacly.me/posts/2023/language-performance/)
