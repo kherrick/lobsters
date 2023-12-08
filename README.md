@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-08, 17:38:54](https://lobste.rs/s/2qgdqw/patching_around_c_crash_with_little_bit) - [Patching around a C++ crash with a little bit of Lua](http://rachelbythebay.com/w/2023/12/07/header/)
 * [2023-12-08, 17:36:07](https://lobste.rs/s/jmcsmu/maglev_v8_s_fastest_optimizing_jit) - [Maglev - V8’s Fastest Optimizing JIT](https://v8.dev/blog/maglev)
 * [2023-12-08, 16:53:04](https://lobste.rs/s/wo33yn/advent_code_c_template_metaprogramming) - [Advent of Code in C++ Template Metaprogramming](https://blog.nelhage.com/post/advent-of-templates/)
 * [2023-12-08, 16:03:56](https://lobste.rs/s/4pw9kf/spotify_inspired_elevating_meilisearch) - [Spotify-Inspired: Elevating Meilisearch with Hybrid Search and Rust](https://blog.kerollmops.com/spotify-inspired-elevating-meilisearch-with-hybrid-search-and-rust)
@@ -11,7 +12,6 @@
 * [2023-12-08, 11:07:05](https://lobste.rs/s/xnjexs/phoenix_liveview_action) - [Phoenix LiveView in Action](https://scorpil.com/post/phoenix-live-view-in-action/)
 * [2023-12-08, 04:30:53](https://lobste.rs/s/yqwasc/upgrading_github_com_mysql_8_0) - [Upgrading GitHub.com to MySQL 8.0](https://github.blog/2023-12-07-upgrading-github-com-to-mysql-8-0/)
 * [2023-12-08, 04:28:52](https://lobste.rs/s/gos64v/fake_chips_i_got_stung) - [Fake chips, I got stung](https://linuxjedi.co.uk/2023/12/01/fake-chips-i-got-stung/)
-* [2023-12-08, 04:26:49](https://lobste.rs/s/wl0cbw/mixing_c_rust_for_fun_profit) - [Mixing C++ and Rust for Fun and Profit](https://www.kdab.com/mixing-c-and-rust-for-fun-and-profit-part-1/)
 * [2023-12-08, 01:12:44](https://lobste.rs/s/wpnbi9/systemd_255_released) - [systemd 255 released](https://www.phoronix.com/news/systemd-255)
 * [2023-12-07, 21:22:33](https://lobste.rs/s/a8iuly/webassembly_garbage_collection_wasmgc) - [WebAssembly Garbage Collection (WasmGC) now enabled by default in Chrome](https://developer.chrome.com/blog/wasmgc/)
 * [2023-12-07, 18:45:10](https://lobste.rs/s/6rzfmp/hanukkah_data_2023_5784) - [Hanukkah of Data 2023/5784](https://hanukkah.bluebird.sh/5784/)
