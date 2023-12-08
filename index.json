@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2023-12-07, 21:22:33",
+      "https://lobste.rs/s/a8iuly/webassembly_garbage_collection_wasmgc"
+    ],
+    [
+      "WebAssembly Garbage Collection (WasmGC) now enabled by default in Chrome",
+      "https://developer.chrome.com/blog/wasmgc/"
+    ]
+  ],
+  [
+    [
       "2023-12-07, 18:10:31",
       "https://lobste.rs/s/6eizz1/wizardry_frontier"
     ],
@@ -197,16 +207,6 @@
     [
       "Just about every Windows and Linux device vulnerable to new LogoFAIL firmware attack",
       "https://arstechnica.com/security/2023/12/just-about-every-windows-and-linux-device-vulnerable-to-new-logofail-firmware-attack/"
-    ]
-  ],
-  [
-    [
-      "2023-12-07, 13:29:06",
-      "https://lobste.rs/s/ytj5ju/improving_programming_language"
-    ],
-    [
-      "Improving programming language performance",
-      "https://xnacly.me/posts/2023/language-performance/"
     ]
   ],
   [
