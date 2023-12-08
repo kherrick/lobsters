@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-08, 12:27:19](https://lobste.rs/s/9mr0pn/postgres_language_server_implementing) - [Postgres Language Server: implementing the Parser](https://supabase.com/blog/postgres-language-server-implementing-parser)
 * [2023-12-08, 12:13:36](https://lobste.rs/s/vixzsx/arch_linux_bugtracker_migration_gitlab) - [Arch Linux bugtracker migration to GitLab completed](https://archlinux.org/news/bugtracker-migration-to-gitlab-completed/)
 * [2023-12-08, 12:13:15](https://lobste.rs/s/ohe5xm/how_first_gen_ipod_was_reverse_engineered) - [How the first gen ipod was reverse engineered to run Rockbox](https://mastodon.social/@bagder/111538350617290554)
 * [2023-12-08, 11:14:28](https://lobste.rs/s/uln47a/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/uln47a/what_are_you_doing_this_weekend)
@@ -24,7 +25,6 @@
 * [2023-12-07, 10:21:54](https://lobste.rs/s/doqtje/syncthing_untrusted_device_encryption) - [Syncthing - Untrusted Device Encryption](https://docs.syncthing.net/specs/untrusted.html)
 * [2023-12-07, 08:52:59](https://lobste.rs/s/d0nf5j/schism_openpgp_world) - [A schism in the OpenPGP world](https://lwn.net/SubscriberLink/953797/7222cd75661fb888/)
 * [2023-12-07, 06:40:53](https://lobste.rs/s/gyupk4/case_for_memory_safe_roadmaps) - [The Case for Memory Safe Roadmaps](https://media.defense.gov/2023/Dec/06/2003352724/-1/-1/0/THE-CASE-FOR-MEMORY-SAFE-ROADMAPS-TLP-CLEAR.PDF)
-* [2023-12-06, 16:13:04](https://lobste.rs/s/o0w3gw/firefox_on_brink) - [Firefox on the brink?](https://www.brycewray.com/posts/2023/11/firefox-brink/)
 
 ## [Archives](archives/index.md)
 
