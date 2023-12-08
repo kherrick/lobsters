@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-08, 12:13:36",
+      "https://lobste.rs/s/vixzsx/arch_linux_bugtracker_migration_gitlab"
+    ],
+    [
+      "Arch Linux bugtracker migration to GitLab completed",
+      "https://archlinux.org/news/bugtracker-migration-to-gitlab-completed/"
+    ]
+  ],
+  [
+    [
+      "2023-12-08, 12:13:15",
+      "https://lobste.rs/s/ohe5xm/how_first_gen_ipod_was_reverse_engineered"
+    ],
+    [
+      "How the first gen ipod was reverse engineered to run Rockbox",
+      "https://mastodon.social/@bagder/111538350617290554"
+    ]
+  ],
+  [
+    [
       "2023-12-08, 11:14:28",
       "https://lobste.rs/s/uln47a/what_are_you_doing_this_weekend"
     ],
@@ -17,16 +37,6 @@
     [
       "Phoenix LiveView in Action",
       "https://scorpil.com/post/phoenix-live-view-in-action/"
-    ]
-  ],
-  [
-    [
-      "2023-12-08, 07:19:58",
-      "https://lobste.rs/s/zermin/neovimconf_live_2023"
-    ],
-    [
-      "NeoVimConf.live 2023",
-      "https://neovimconf.live/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "The Case for Memory Safe Roadmaps",
       "https://media.defense.gov/2023/Dec/06/2003352724/-1/-1/0/THE-CASE-FOR-MEMORY-SAFE-ROADMAPS-TLP-CLEAR.PDF"
-    ]
-  ],
-  [
-    [
-      "2023-12-06, 21:55:04",
-      "https://lobste.rs/s/tzxrbv/unveiling_secrets_esp32_creating_open"
-    ],
-    [
-      "Unveiling secrets of the ESP32: creating an open-source MAC Layer",
-      "https://zeus.ugent.be/blog/23-24/open-source-esp32-wifi-mac/"
     ]
   ],
   [
