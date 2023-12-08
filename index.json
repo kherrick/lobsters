@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-08, 17:36:07",
+      "https://lobste.rs/s/jmcsmu/maglev_v8_s_fastest_optimizing_jit"
+    ],
+    [
+      "Maglev - V8’s Fastest Optimizing JIT",
+      "https://v8.dev/blog/maglev"
+    ]
+  ],
+  [
+    [
       "2023-12-08, 16:53:04",
       "https://lobste.rs/s/wo33yn/advent_code_c_template_metaprogramming"
     ],
@@ -217,16 +227,6 @@
     [
       "Safer, Not Later",
       "https://blog.glyph.im/2023/12/safer-not-later.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-07, 10:27:01",
-      "https://lobste.rs/s/zz9au3/nix_ld_run_unpatched_dynamic_binaries_on"
-    ],
-    [
-      "nix-ld: Run unpatched dynamic binaries on NixOS",
-      "https://github.com/Mic92/nix-ld"
     ]
   ],
   [
