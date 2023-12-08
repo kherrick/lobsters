@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-08, 19:56:22",
+      "https://lobste.rs/s/jxrct0/transparency_logs_verifiable_transport"
+    ],
+    [
+      "Transparency Logs: A Verifiable Transport Layer",
+      "https://transparency.dev/articles/logs-a-verifiable-transport-layer/"
+    ]
+  ],
+  [
+    [
       "2023-12-08, 19:20:30",
       "https://lobste.rs/s/prdhzt/await_tree_panacea_for_observability"
     ],
@@ -177,16 +187,6 @@
     [
       "Just about every Windows and Linux device vulnerable to new LogoFAIL firmware attack",
       "https://arstechnica.com/security/2023/12/just-about-every-windows-and-linux-device-vulnerable-to-new-logofail-firmware-attack/"
-    ]
-  ],
-  [
-    [
-      "2023-12-07, 13:41:33",
-      "https://lobste.rs/s/uvmp4j/good_hash_table_primes"
-    ],
-    [
-      "good hash table primes",
-      "https://www.planetmath.org/goodhashtableprimes"
     ]
   ],
   [
