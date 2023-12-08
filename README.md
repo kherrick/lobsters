@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-08, 16:06:46](https://lobste.rs/s/ukh5id/uhttp_pythonic_web_development) - [uHTTP: Pythonic web development](https://github.com/0x67757300/uHTTP)
+* [2023-12-08, 16:03:56](https://lobste.rs/s/4pw9kf/spotify_inspired_elevating_meilisearch) - [Spotify-Inspired: Elevating Meilisearch with Hybrid Search and Rust](https://blog.kerollmops.com/spotify-inspired-elevating-meilisearch-with-hybrid-search-and-rust)
 * [2023-12-08, 15:34:13](https://lobste.rs/s/ke0xqh/trippy_network_diagnostic_tool) - [trippy: network diagnostic tool](https://trippy.cli.rs/)
 * [2023-12-08, 12:27:19](https://lobste.rs/s/9mr0pn/postgres_language_server_implementing) - [Postgres Language Server: implementing the Parser](https://supabase.com/blog/postgres-language-server-implementing-parser)
 * [2023-12-08, 12:13:36](https://lobste.rs/s/vixzsx/arch_linux_bugtracker_migration_gitlab) - [Arch Linux bugtracker migration to GitLab completed](https://archlinux.org/news/bugtracker-migration-to-gitlab-completed/)
@@ -13,7 +15,6 @@
 * [2023-12-07, 18:45:10](https://lobste.rs/s/6rzfmp/hanukkah_data_2023_5784) - [Hanukkah of Data 2023/5784](https://hanukkah.bluebird.sh/5784/)
 * [2023-12-07, 18:10:31](https://lobste.rs/s/6eizz1/wizardry_frontier) - [The Wizardry Frontier ](https://v5.chriskrycho.com/journal/wizardry-frontier/)
 * [2023-12-07, 16:11:32](https://lobste.rs/s/dkehlv/just_about_every_windows_linux_device) - [Just about every Windows and Linux device vulnerable to new LogoFAIL firmware attack](https://arstechnica.com/security/2023/12/just-about-every-windows-and-linux-device-vulnerable-to-new-logofail-firmware-attack/)
-* [2023-12-07, 15:58:45](https://lobste.rs/s/kvamzg/cpython_dynamic_dispatch_internals_what) - [CPython Dynamic Dispatch Internals: What Happens When You do a + b?](https://codeconfessions.substack.com/p/cpython-dynamic-dispatch-internals)
 * [2023-12-07, 13:41:33](https://lobste.rs/s/uvmp4j/good_hash_table_primes) - [good hash table primes](https://www.planetmath.org/goodhashtableprimes)
 * [2023-12-07, 13:34:07](https://lobste.rs/s/gdyjlm/shunting_yard_algorithm_2011) - [The Shunting-Yard Algorithm (2011)](https://www.reedbeta.com/blog/the-shunting-yard-algorithm/)
 * [2023-12-07, 13:29:06](https://lobste.rs/s/ytj5ju/improving_programming_language) - [Improving programming language performance](https://xnacly.me/posts/2023/language-performance/)
@@ -24,7 +25,6 @@
 * [2023-12-07, 10:27:01](https://lobste.rs/s/zz9au3/nix_ld_run_unpatched_dynamic_binaries_on) - [nix-ld: Run unpatched dynamic binaries on NixOS](https://github.com/Mic92/nix-ld)
 * [2023-12-07, 10:21:54](https://lobste.rs/s/doqtje/syncthing_untrusted_device_encryption) - [Syncthing - Untrusted Device Encryption](https://docs.syncthing.net/specs/untrusted.html)
 * [2023-12-07, 08:52:59](https://lobste.rs/s/d0nf5j/schism_openpgp_world) - [A schism in the OpenPGP world](https://lwn.net/SubscriberLink/953797/7222cd75661fb888/)
-* [2023-12-07, 06:40:53](https://lobste.rs/s/gyupk4/case_for_memory_safe_roadmaps) - [The Case for Memory Safe Roadmaps](https://media.defense.gov/2023/Dec/06/2003352724/-1/-1/0/THE-CASE-FOR-MEMORY-SAFE-ROADMAPS-TLP-CLEAR.PDF)
 
 ## [Archives](archives/index.md)
 
