@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-08, 23:18:27](https://lobste.rs/s/j23p0w/starting_forth) - [Starting FORTH](https://www.forth.com/starting-forth/)
 * [2023-12-08, 21:47:21](https://lobste.rs/s/2liapf/llvm_cfi_cross_language_llvm_cfi_support) - [LLVM CFI and Cross-Language LLVM CFI Support for Rust](https://bughunters.google.com/blog/4805571163848704/llvm-cfi-and-cross-language-llvm-cfi-support-for-rust)
 * [2023-12-08, 21:28:50](https://lobste.rs/s/s68ube/alpine_linux_3_19_0_released) - [Alpine Linux 3.19.0 released](https://www.alpinelinux.org/posts/Alpine-3.19.0-released.html)
 * [2023-12-08, 21:08:21](https://lobste.rs/s/kf8ltj/research_rsc_go_changes) - [research!rsc: Go Changes](https://research.swtch.com/gochanges)
@@ -24,7 +25,6 @@
 * [2023-12-07, 12:56:13](https://lobste.rs/s/zl1uer/apple_google_confirm_governments_spy_on) - [Apple and Google confirm governments spy on users through push notifications](https://www.androidauthority.com/apple-google-push-notification-surveillance-3392252/)
 * [2023-12-07, 12:29:16](https://lobste.rs/s/wrd9ff/last_5_years_v8_s_garbage_collector) - [The last 5 years of V8's garbage collector](https://wingolog.org/archives/2023/12/07/the-last-5-years-of-v8s-garbage-collector)
 * [2023-12-07, 10:21:54](https://lobste.rs/s/doqtje/syncthing_untrusted_device_encryption) - [Syncthing - Untrusted Device Encryption](https://docs.syncthing.net/specs/untrusted.html)
-* [2023-12-07, 08:52:59](https://lobste.rs/s/d0nf5j/schism_openpgp_world) - [A schism in the OpenPGP world](https://lwn.net/SubscriberLink/953797/7222cd75661fb888/)
 
 ## [Archives](archives/index.md)
 
