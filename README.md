@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-12-07, 22:05:28](https://lobste.rs/s/x2eiq3/new_systemd_update_will_bring_windows) - [New systemd update will bring Windows’ infamous Blue Screen of Death to Linux](https://arstechnica.com/gadgets/2023/12/linux-distros-are-about-to-get-a-killer-windows-feature-the-blue-screen-of-death/)
+* [2023-12-08, 01:12:44](https://lobste.rs/s/wpnbi9/systemd_255_released) - [systemd 255 released](https://www.phoronix.com/news/systemd-255)
 * [2023-12-07, 21:22:33](https://lobste.rs/s/a8iuly/webassembly_garbage_collection_wasmgc) - [WebAssembly Garbage Collection (WasmGC) now enabled by default in Chrome](https://developer.chrome.com/blog/wasmgc/)
 * [2023-12-07, 19:34:46](https://lobste.rs/s/e8b5ub/performance_analysis_intel_s_x86_simd) - [A performance analysis of Intel's x86-simd-sort](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/intel_avx512/text.md)
 * [2023-12-07, 18:45:10](https://lobste.rs/s/6rzfmp/hanukkah_data_2023_5784) - [Hanukkah of Data 2023/5784](https://hanukkah.bluebird.sh/5784/)
