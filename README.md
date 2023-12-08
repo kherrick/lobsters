@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-08, 04:30:53](https://lobste.rs/s/yqwasc/upgrading_github_com_mysql_8_0) - [Upgrading GitHub.com to MySQL 8.0](https://github.blog/2023-12-07-upgrading-github-com-to-mysql-8-0/)
 * [2023-12-08, 04:28:52](https://lobste.rs/s/gos64v/fake_chips_i_got_stung) - [Fake chips, I got stung](https://linuxjedi.co.uk/2023/12/01/fake-chips-i-got-stung/)
 * [2023-12-08, 04:26:49](https://lobste.rs/s/wl0cbw/mixing_c_rust_for_fun_profit) - [Mixing C++ and Rust for Fun and Profit](https://www.kdab.com/mixing-c-and-rust-for-fun-and-profit-part-1/)
 * [2023-12-08, 01:12:44](https://lobste.rs/s/wpnbi9/systemd_255_released) - [systemd 255 released](https://www.phoronix.com/news/systemd-255)
@@ -8,7 +9,6 @@
 * [2023-12-07, 18:10:31](https://lobste.rs/s/6eizz1/wizardry_frontier) - [The Wizardry Frontier ](https://v5.chriskrycho.com/journal/wizardry-frontier/)
 * [2023-12-07, 16:11:32](https://lobste.rs/s/dkehlv/just_about_every_windows_linux_device) - [Just about every Windows and Linux device vulnerable to new LogoFAIL firmware attack](https://arstechnica.com/security/2023/12/just-about-every-windows-and-linux-device-vulnerable-to-new-logofail-firmware-attack/)
 * [2023-12-07, 15:58:45](https://lobste.rs/s/kvamzg/cpython_dynamic_dispatch_internals_what) - [CPython Dynamic Dispatch Internals: What Happens When You do a + b?](https://codeconfessions.substack.com/p/cpython-dynamic-dispatch-internals)
-* [2023-12-07, 15:06:59](https://lobste.rs/s/iagi1x/labyrinth_encrypted_message_storage) - [The Labyrinth Encrypted Message Storage Protocol](https://engineering.fb.com/wp-content/uploads/2023/12/TheLabyrinthEncryptedMessageStorageProtocol_12-6-2023.pdf)
 * [2023-12-07, 13:41:33](https://lobste.rs/s/uvmp4j/good_hash_table_primes) - [good hash table primes](https://www.planetmath.org/goodhashtableprimes)
 * [2023-12-07, 13:38:08](https://lobste.rs/s/humtky/pipewire_1_0_interview_with_pipewire) - [PipeWire 1.0 - An interview with PipeWire creator Wim Taymans](https://fedoramagazine.org/pipewire-1-0-an-interview-with-pipewire-creator-wim-taymans/)
 * [2023-12-07, 13:34:07](https://lobste.rs/s/gdyjlm/shunting_yard_algorithm_2011) - [The Shunting-Yard Algorithm (2011)](https://www.reedbeta.com/blog/the-shunting-yard-algorithm/)
