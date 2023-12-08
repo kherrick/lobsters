@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-08](index.md)
 
+* [2023-12-08, 21:47:21](https://lobste.rs/s/2liapf/llvm_cfi_cross_language_llvm_cfi_support) - [LLVM CFI and Cross-Language LLVM CFI Support for Rust](https://bughunters.google.com/blog/4805571163848704/llvm-cfi-and-cross-language-llvm-cfi-support-for-rust)
 * [2023-12-08, 21:28:50](https://lobste.rs/s/s68ube/alpine_linux_3_19_0_released) - [Alpine Linux 3.19.0 released](https://www.alpinelinux.org/posts/Alpine-3.19.0-released.html)
 * [2023-12-08, 21:08:21](https://lobste.rs/s/kf8ltj/research_rsc_go_changes) - [research!rsc: Go Changes](https://research.swtch.com/gochanges)
 * [2023-12-08, 19:56:22](https://lobste.rs/s/jxrct0/transparency_logs_verifiable_transport) - [Transparency Logs: A Verifiable Transport Layer](https://transparency.dev/articles/logs-a-verifiable-transport-layer/)
