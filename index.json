@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-08, 21:28:50",
+      "https://lobste.rs/s/s68ube/alpine_linux_3_19_0_released"
+    ],
+    [
+      "Alpine Linux 3.19.0 released",
+      "https://www.alpinelinux.org/posts/Alpine-3.19.0-released.html"
+    ]
+  ],
+  [
+    [
       "2023-12-08, 21:08:21",
       "https://lobste.rs/s/kf8ltj/research_rsc_go_changes"
     ],
@@ -217,16 +227,6 @@
     [
       "The last 5 years of V8's garbage collector",
       "https://wingolog.org/archives/2023/12/07/the-last-5-years-of-v8s-garbage-collector"
-    ]
-  ],
-  [
-    [
-      "2023-12-07, 11:47:43",
-      "https://lobste.rs/s/f4agi6/safer_not_later"
-    ],
-    [
-      "Safer, Not Later",
-      "https://blog.glyph.im/2023/12/safer-not-later.html"
     ]
   ],
   [
