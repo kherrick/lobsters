@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-08](index.md)
 
+* [2023-12-08, 19:56:22](https://lobste.rs/s/jxrct0/transparency_logs_verifiable_transport) - [Transparency Logs: A Verifiable Transport Layer](https://transparency.dev/articles/logs-a-verifiable-transport-layer/)
 * [2023-12-08, 19:20:30](https://lobste.rs/s/prdhzt/await_tree_panacea_for_observability) - [Await-Tree: A Panacea for Observability in Async Rust](https://risingwave.com/blog/await-tree-a-panacea-for-observability-in-async-rust/)
 * [2023-12-08, 17:38:54](https://lobste.rs/s/2qgdqw/patching_around_c_crash_with_little_bit) - [Patching around a C++ crash with a little bit of Lua](http://rachelbythebay.com/w/2023/12/07/header/)
 * [2023-12-08, 17:36:07](https://lobste.rs/s/jmcsmu/maglev_v8_s_fastest_optimizing_jit) - [Maglev - V8’s Fastest Optimizing JIT](https://v8.dev/blog/maglev)
