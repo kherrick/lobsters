@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-09, 04:43:58",
+      "https://lobste.rs/s/kyzqtp/just_pocket_change_examining_cost_nickel"
+    ],
+    [
+      "Just Pocket Change? Examining The Cost Of “Nickel and Dime” Exploit Mitigations",
+      "https://github.com/connormcgarr/Presentations/blob/master/McGarr-SUMMIT-HackFest-2023-Deck-FINAL.pdf"
+    ]
+  ],
+  [
+    [
       "2023-12-09, 00:46:04",
       "https://lobste.rs/s/yoific/pinning_all_system_calls"
     ],
@@ -77,16 +87,6 @@
     [
       "Go Changes",
       "https://research.swtch.com/gochanges"
-    ]
-  ],
-  [
-    [
-      "2023-12-08, 19:56:22",
-      "https://lobste.rs/s/jxrct0/transparency_logs_verifiable_transport"
-    ],
-    [
-      "Transparency Logs: A Verifiable Transport Layer",
-      "https://transparency.dev/articles/logs-a-verifiable-transport-layer/"
     ]
   ],
   [
