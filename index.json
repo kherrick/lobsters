@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-09, 23:30:23",
+      "https://lobste.rs/s/twugyc/sign_with_github_go_eli_bendersky_s"
+    ],
+    [
+      "Sign in with GitHub in Go - Eli Bendersky's website",
+      "https://eli.thegreenplace.net/2023/sign-in-with-github-in-go/"
+    ]
+  ],
+  [
+    [
       "2023-12-09, 21:43:06",
       "https://lobste.rs/s/svgc7j/dynamic_music_sound_techniques_for_video"
     ],
@@ -77,16 +87,6 @@
     [
       "NeurIPS 2023 Posters",
       "https://neurips2023.vizhub.ai/"
-    ]
-  ],
-  [
-    [
-      "2023-12-09, 17:09:28",
-      "https://lobste.rs/s/nahuz5/phantom_exploiting_decoder_detectable"
-    ],
-    [
-      "Phantom: Exploiting Decoder-detectable Mispredictions",
-      "https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614275"
     ]
   ],
   [
