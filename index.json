@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-09, 17:54:37",
+      "https://lobste.rs/s/1beg4g/neurips_2023_posters"
+    ],
+    [
+      "NeurIPS 2023 Posters",
+      "https://neurips2023.vizhub.ai/"
+    ]
+  ],
+  [
+    [
       "2023-12-09, 17:09:28",
       "https://lobste.rs/s/nahuz5/phantom_exploiting_decoder_detectable"
     ],
@@ -127,16 +137,6 @@
     [
       "Alpine Linux 3.19.0 released",
       "https://www.alpinelinux.org/posts/Alpine-3.19.0-released.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-08, 21:08:21",
-      "https://lobste.rs/s/kf8ltj/go_changes"
-    ],
-    [
-      "Go Changes",
-      "https://research.swtch.com/gochanges"
     ]
   ],
   [
