@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-09, 17:09:28",
+      "https://lobste.rs/s/nahuz5/phantom_exploiting_decoder_detectable"
+    ],
+    [
+      "Phantom: Exploiting Decoder-detectable Mispredictions",
+      "https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614275"
+    ]
+  ],
+  [
+    [
       "2023-12-09, 16:33:10",
       "https://lobste.rs/s/eypyxa/clockhands_rename_free_instruction_set"
     ],
@@ -127,16 +137,6 @@
     [
       "Alpine Linux 3.19.0 released",
       "https://www.alpinelinux.org/posts/Alpine-3.19.0-released.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-08, 21:08:21",
-      "https://lobste.rs/s/kf8ltj/go_changes"
-    ],
-    [
-      "Go Changes",
-      "https://research.swtch.com/gochanges"
     ]
   ],
   [
