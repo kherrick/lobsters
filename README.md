@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-09, 23:30:23](https://lobste.rs/s/twugyc/sign_with_github_go_eli_bendersky_s) - [Sign in with GitHub in Go - Eli Bendersky's website](https://eli.thegreenplace.net/2023/sign-in-with-github-in-go/)
 * [2023-12-09, 21:43:06](https://lobste.rs/s/svgc7j/dynamic_music_sound_techniques_for_video) - [Dynamic music and sound techniques for video games](https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
 * [2023-12-09, 21:36:30](https://lobste.rs/s/rqcabm/data_corruption_linux_ext4) - [Data corruption in Linux ext4](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057843)
 * [2023-12-09, 20:46:56](https://lobste.rs/s/kvrnf8/porporo_new_pipe_oriented_os_play_with) - [porporo: a new pipe oriented OS to play with](https://git.sr.ht/~rabbits/porporo)
@@ -8,7 +9,6 @@
 * [2023-12-09, 18:10:20](https://lobste.rs/s/iqwdww/free_software_you_can_t_customise_is_not) - [Free Software that you can't customise is not truly Free Software](https://wuffs.org/blog/free-software-needs-to-be-customisable)
 * [2023-12-09, 18:03:39](https://lobste.rs/s/gmxitj/cpng_backwards_compatible_fork_png) - [CPNG, a backwards compatible fork of PNG](http://richg42.blogspot.com/2023/12/announcing-cpng-compatible-network.html)
 * [2023-12-09, 17:54:37](https://lobste.rs/s/1beg4g/neurips_2023_posters) - [NeurIPS 2023 Posters](https://neurips2023.vizhub.ai/)
-* [2023-12-09, 17:09:28](https://lobste.rs/s/nahuz5/phantom_exploiting_decoder_detectable) - [Phantom: Exploiting Decoder-detectable Mispredictions](https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614275)
 * [2023-12-09, 16:33:10](https://lobste.rs/s/eypyxa/clockhands_rename_free_instruction_set) - [Clockhands: Rename-free Instruction Set Architecture for Out-of-order Processors](https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614272)
 * [2023-12-09, 15:43:33](https://lobste.rs/s/rjdrm7/makesure_vs_just_command_runners_on) - [Makesure vs Just command runners on examples](https://maximullaris.com/makesure-vs-just.html)
 * [2023-12-09, 14:54:32](https://lobste.rs/s/vbsnup/filling_knowledge_gap_https_tls) - [Filling in the Knowledge Gap: HTTPS/TLS Certificates](https://blog.bityard.net/articles/2023/December/filling-in-the-gaps-httpstls-certificates.html)
