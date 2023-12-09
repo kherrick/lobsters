@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-09](index.md)
 
+* [2023-12-09, 15:43:33](https://lobste.rs/s/rjdrm7/makesure_vs_just_command_runners_on) - [Makesure vs Just command runners on examples](https://maximullaris.com/makesure-vs-just.html)
 * [2023-12-09, 14:54:32](https://lobste.rs/s/vbsnup/filling_knowledge_gap_https_tls) - [Filling in the Knowledge Gap: HTTPS/TLS Certificates](https://blog.bityard.net/articles/2023/December/filling-in-the-gaps-httpstls-certificates.html)
 * [2023-12-09, 12:21:40](https://lobste.rs/s/mythhu/bsd_on_windows_things_i_wish_i_knew_existed) - [BSD on Windows: Things I wish I knew existed](https://virtuallyfun.com/2023/12/08/bsd-on-windows-things-i-wish-i-knew-existed/)
 * [2023-12-09, 12:08:32](https://lobste.rs/s/oya1dk/klogg_really_fast_log_explorer_based_on) - [klogg: Really fast log explorer based on glogg project](https://github.com/variar/klogg)
