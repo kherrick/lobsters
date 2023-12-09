@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-09, 20:46:56](https://lobste.rs/s/kvrnf8/rabbits_porporo_new_pipe_oriented_os_play) - [~rabbits/porporo a new pipe oriented OS to play with](https://git.sr.ht/~rabbits/porporo)
 * [2023-12-09, 20:24:25](https://lobste.rs/s/yzqlwg/from_worst_terminal_merely_mediocre) - [from worst terminal to merely mediocre](https://flak.tedunangst.com/post/from-worst-terminal-to-merely-mediocre)
 * [2023-12-09, 18:58:58](https://lobste.rs/s/tnwldo/djgpp) - [DJGPP](https://www.delorie.com/djgpp/)
 * [2023-12-09, 18:10:20](https://lobste.rs/s/iqwdww/free_software_you_can_t_customise_is_not) - [Free Software that you can't customise is not truly Free Software](https://wuffs.org/blog/free-software-needs-to-be-customisable)
@@ -24,7 +25,6 @@
 * [2023-12-08, 12:27:19](https://lobste.rs/s/9mr0pn/postgres_language_server_implementing) - [Postgres Language Server: implementing the Parser](https://supabase.com/blog/postgres-language-server-implementing-parser)
 * [2023-12-08, 12:13:15](https://lobste.rs/s/ohe5xm/how_first_gen_ipod_was_reverse_engineered) - [How the first gen ipod was reverse engineered to run Rockbox](https://mastodon.social/@bagder/111538350617290554)
 * [2023-12-08, 11:14:28](https://lobste.rs/s/uln47a/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/uln47a/what_are_you_doing_this_weekend)
-* [2023-12-08, 04:30:53](https://lobste.rs/s/yqwasc/upgrading_github_com_mysql_8_0) - [Upgrading GitHub.com to MySQL 8.0](https://github.blog/2023-12-07-upgrading-github-com-to-mysql-8-0/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-09](index.md)
 
+* [2023-12-09, 20:46:56](https://lobste.rs/s/kvrnf8/rabbits_porporo_new_pipe_oriented_os_play) - [~rabbits/porporo a new pipe oriented OS to play with](https://git.sr.ht/~rabbits/porporo)
 * [2023-12-09, 20:24:25](https://lobste.rs/s/yzqlwg/from_worst_terminal_merely_mediocre) - [from worst terminal to merely mediocre](https://flak.tedunangst.com/post/from-worst-terminal-to-merely-mediocre)
 * [2023-12-09, 18:58:58](https://lobste.rs/s/tnwldo/djgpp) - [DJGPP](https://www.delorie.com/djgpp/)
 * [2023-12-09, 18:10:20](https://lobste.rs/s/iqwdww/free_software_you_can_t_customise_is_not) - [Free Software that you can't customise is not truly Free Software](https://wuffs.org/blog/free-software-needs-to-be-customisable)
