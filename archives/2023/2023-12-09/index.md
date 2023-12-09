@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-09](index.md)
 
+* [2023-12-09, 18:10:20](https://lobste.rs/s/iqwdww/free_software_you_can_t_customise_is_not) - [Free Software that you can't customise is not truly Free Software](https://wuffs.org/blog/free-software-needs-to-be-customisable)
+* [2023-12-09, 18:03:39](https://lobste.rs/s/gmxitj/cpng_backwards_compatible_fork_png) - [CPNG, a backwards compatible fork of PNG](http://richg42.blogspot.com/2023/12/announcing-cpng-compatible-network.html)
 * [2023-12-09, 17:54:37](https://lobste.rs/s/1beg4g/neurips_2023_posters) - [NeurIPS 2023 Posters](https://neurips2023.vizhub.ai/)
 * [2023-12-09, 17:09:28](https://lobste.rs/s/nahuz5/phantom_exploiting_decoder_detectable) - [Phantom: Exploiting Decoder-detectable Mispredictions](https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614275)
 * [2023-12-09, 16:33:10](https://lobste.rs/s/eypyxa/clockhands_rename_free_instruction_set) - [Clockhands: Rename-free Instruction Set Architecture for Out-of-order Processors](https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614272)

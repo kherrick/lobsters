@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-09, 18:10:20](https://lobste.rs/s/iqwdww/free_software_you_can_t_customise_is_not) - [Free Software that you can't customise is not truly Free Software](https://wuffs.org/blog/free-software-needs-to-be-customisable)
+* [2023-12-09, 18:03:39](https://lobste.rs/s/gmxitj/cpng_backwards_compatible_fork_png) - [CPNG, a backwards compatible fork of PNG](http://richg42.blogspot.com/2023/12/announcing-cpng-compatible-network.html)
 * [2023-12-09, 17:54:37](https://lobste.rs/s/1beg4g/neurips_2023_posters) - [NeurIPS 2023 Posters](https://neurips2023.vizhub.ai/)
 * [2023-12-09, 17:09:28](https://lobste.rs/s/nahuz5/phantom_exploiting_decoder_detectable) - [Phantom: Exploiting Decoder-detectable Mispredictions](https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614275)
 * [2023-12-09, 16:33:10](https://lobste.rs/s/eypyxa/clockhands_rename_free_instruction_set) - [Clockhands: Rename-free Instruction Set Architecture for Out-of-order Processors](https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614272)
@@ -20,10 +22,8 @@
 * [2023-12-08, 16:03:56](https://lobste.rs/s/4pw9kf/spotify_inspired_elevating_meilisearch) - [Spotify-Inspired: Elevating Meilisearch with Hybrid Search and Rust](https://blog.kerollmops.com/spotify-inspired-elevating-meilisearch-with-hybrid-search-and-rust)
 * [2023-12-08, 15:34:13](https://lobste.rs/s/ke0xqh/trippy_network_diagnostic_tool) - [trippy: network diagnostic tool](https://trippy.cli.rs/)
 * [2023-12-08, 12:27:19](https://lobste.rs/s/9mr0pn/postgres_language_server_implementing) - [Postgres Language Server: implementing the Parser](https://supabase.com/blog/postgres-language-server-implementing-parser)
-* [2023-12-08, 12:13:36](https://lobste.rs/s/vixzsx/arch_linux_bugtracker_migration_gitlab) - [Arch Linux bugtracker migration to GitLab completed](https://archlinux.org/news/bugtracker-migration-to-gitlab-completed/)
 * [2023-12-08, 12:13:15](https://lobste.rs/s/ohe5xm/how_first_gen_ipod_was_reverse_engineered) - [How the first gen ipod was reverse engineered to run Rockbox](https://mastodon.social/@bagder/111538350617290554)
 * [2023-12-08, 11:14:28](https://lobste.rs/s/uln47a/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/uln47a/what_are_you_doing_this_weekend)
-* [2023-12-08, 11:07:05](https://lobste.rs/s/xnjexs/phoenix_liveview_action) - [Phoenix LiveView in Action](https://scorpil.com/post/phoenix-live-view-in-action/)
 * [2023-12-08, 04:30:53](https://lobste.rs/s/yqwasc/upgrading_github_com_mysql_8_0) - [Upgrading GitHub.com to MySQL 8.0](https://github.blog/2023-12-07-upgrading-github-com-to-mysql-8-0/)
 
 ## [Archives](archives/index.md)
