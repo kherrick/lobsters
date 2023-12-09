@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-09, 12:21:40](https://lobste.rs/s/mythhu/bsd_on_windows_things_i_wish_i_knew_existed) - [BSD on Windows: Things I wish I knew existed](https://virtuallyfun.com/2023/12/08/bsd-on-windows-things-i-wish-i-knew-existed/)
+* [2023-12-09, 12:08:32](https://lobste.rs/s/oya1dk/klogg_really_fast_log_explorer_based_on) - [klogg: Really fast log explorer based on glogg project](https://github.com/variar/klogg)
 * [2023-12-09, 11:22:53](https://lobste.rs/s/5tlj8z/using_fido_keys) - [Using FIDO keys](https://777.tf/blog/2023/12/08/using-fido-keys/)
 * [2023-12-09, 04:43:58](https://lobste.rs/s/kyzqtp/just_pocket_change_examining_cost_nickel) - [Just Pocket Change? Examining The Cost Of “Nickel and Dime” Exploit Mitigations](https://github.com/connormcgarr/Presentations/blob/master/McGarr-SUMMIT-HackFest-2023-Deck-FINAL.pdf)
 * [2023-12-09, 00:46:04](https://lobste.rs/s/yoific/pinning_all_system_calls) - [pinning all system calls](https://marc.info/?l=openbsd-tech&m=170205367232026&w=2)
 * [2023-12-09, 00:10:01](https://lobste.rs/s/yg3qoi/coherent_operating_system) - [Coherent (operating system)](https://en.wikipedia.org/wiki/Coherent_(operating_system))
 * [2023-12-08, 23:55:33](https://lobste.rs/s/ef4miq/comfy_game_engine_0_3_rust_no_lifetimes) - [Comfy Game Engine 0.3 (Rust) - No Lifetimes, User Shaders, Text Rendering, 2.5D, LDTK](https://comfyengine.org/blog/release-v0-3/)
-* [2023-12-08, 23:23:00](https://lobste.rs/s/47pwoe/personal_freebsd_pkgbase_update_server) - [Personal FreeBSD PKGBASE Update Server](https://vermaden.wordpress.com/2023/12/09/personal-freebsd-pkgbase-update-server/)
 * [2023-12-08, 23:18:27](https://lobste.rs/s/j23p0w/starting_forth) - [Starting FORTH](https://www.forth.com/starting-forth/)
 * [2023-12-08, 21:47:21](https://lobste.rs/s/2liapf/llvm_cfi_cross_language_llvm_cfi_support) - [LLVM CFI and Cross-Language LLVM CFI Support for Rust](https://bughunters.google.com/blog/4805571163848704/llvm-cfi-and-cross-language-llvm-cfi-support-for-rust)
 * [2023-12-08, 21:28:50](https://lobste.rs/s/s68ube/alpine_linux_3_19_0_released) - [Alpine Linux 3.19.0 released](https://www.alpinelinux.org/posts/Alpine-3.19.0-released.html)
@@ -24,7 +25,6 @@
 * [2023-12-08, 04:28:52](https://lobste.rs/s/gos64v/fake_chips_i_got_stung) - [Fake chips, I got stung](https://linuxjedi.co.uk/2023/12/01/fake-chips-i-got-stung/)
 * [2023-12-08, 01:12:44](https://lobste.rs/s/wpnbi9/systemd_255_released) - [systemd 255 released](https://www.phoronix.com/news/systemd-255)
 * [2023-12-07, 18:10:31](https://lobste.rs/s/6eizz1/wizardry_frontier) - [The Wizardry Frontier ](https://v5.chriskrycho.com/journal/wizardry-frontier/)
-* [2023-12-07, 12:56:13](https://lobste.rs/s/zl1uer/apple_google_confirm_governments_spy_on) - [Apple and Google confirm governments spy on users through push notifications](https://www.androidauthority.com/apple-google-push-notification-surveillance-3392252/)
 
 ## [Archives](archives/index.md)
 
