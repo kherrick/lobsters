@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-09, 14:54:32](https://lobste.rs/s/vbsnup/filling_knowledge_gap_https_tls) - [Filling in the Knowledge Gap: HTTPS/TLS Certificates](https://blog.bityard.net/articles/2023/December/filling-in-the-gaps-httpstls-certificates.html)
 * [2023-12-09, 12:21:40](https://lobste.rs/s/mythhu/bsd_on_windows_things_i_wish_i_knew_existed) - [BSD on Windows: Things I wish I knew existed](https://virtuallyfun.com/2023/12/08/bsd-on-windows-things-i-wish-i-knew-existed/)
 * [2023-12-09, 12:08:32](https://lobste.rs/s/oya1dk/klogg_really_fast_log_explorer_based_on) - [klogg: Really fast log explorer based on glogg project](https://github.com/variar/klogg)
 * [2023-12-09, 11:22:53](https://lobste.rs/s/5tlj8z/using_fido_keys) - [Using FIDO keys](https://777.tf/blog/2023/12/08/using-fido-keys/)
@@ -22,7 +23,6 @@
 * [2023-12-08, 11:14:28](https://lobste.rs/s/uln47a/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/uln47a/what_are_you_doing_this_weekend)
 * [2023-12-08, 11:07:05](https://lobste.rs/s/xnjexs/phoenix_liveview_action) - [Phoenix LiveView in Action](https://scorpil.com/post/phoenix-live-view-in-action/)
 * [2023-12-08, 04:30:53](https://lobste.rs/s/yqwasc/upgrading_github_com_mysql_8_0) - [Upgrading GitHub.com to MySQL 8.0](https://github.blog/2023-12-07-upgrading-github-com-to-mysql-8-0/)
-* [2023-12-08, 04:28:52](https://lobste.rs/s/gos64v/fake_chips_i_got_stung) - [Fake chips, I got stung](https://linuxjedi.co.uk/2023/12/01/fake-chips-i-got-stung/)
 * [2023-12-08, 01:12:44](https://lobste.rs/s/wpnbi9/systemd_255_released) - [systemd 255 released](https://www.phoronix.com/news/systemd-255)
 * [2023-12-07, 18:10:31](https://lobste.rs/s/6eizz1/wizardry_frontier) - [The Wizardry Frontier ](https://v5.chriskrycho.com/journal/wizardry-frontier/)
 
