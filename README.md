@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-09, 20:24:25](https://lobste.rs/s/yzqlwg/from_worst_terminal_merely_mediocre) - [from worst terminal to merely mediocre](https://flak.tedunangst.com/post/from-worst-terminal-to-merely-mediocre)
 * [2023-12-09, 18:58:58](https://lobste.rs/s/tnwldo/djgpp) - [DJGPP](https://www.delorie.com/djgpp/)
 * [2023-12-09, 18:10:20](https://lobste.rs/s/iqwdww/free_software_you_can_t_customise_is_not) - [Free Software that you can't customise is not truly Free Software](https://wuffs.org/blog/free-software-needs-to-be-customisable)
 * [2023-12-09, 18:03:39](https://lobste.rs/s/gmxitj/cpng_backwards_compatible_fork_png) - [CPNG, a backwards compatible fork of PNG](http://richg42.blogspot.com/2023/12/announcing-cpng-compatible-network.html)
@@ -11,7 +12,6 @@
 * [2023-12-09, 12:21:40](https://lobste.rs/s/mythhu/bsd_on_windows_things_i_wish_i_knew_existed) - [BSD on Windows: Things I wish I knew existed](https://virtuallyfun.com/2023/12/08/bsd-on-windows-things-i-wish-i-knew-existed/)
 * [2023-12-09, 12:08:32](https://lobste.rs/s/oya1dk/klogg_really_fast_log_explorer_based_on) - [klogg: Really fast log explorer based on glogg project](https://github.com/variar/klogg)
 * [2023-12-09, 11:22:53](https://lobste.rs/s/5tlj8z/using_fido_keys) - [Using FIDO keys](https://777.tf/blog/2023/12/08/using-fido-keys/)
-* [2023-12-09, 04:43:58](https://lobste.rs/s/kyzqtp/just_pocket_change_examining_cost_nickel) - [Just Pocket Change? Examining The Cost Of “Nickel and Dime” Exploit Mitigations](https://github.com/connormcgarr/Presentations/blob/master/McGarr-SUMMIT-HackFest-2023-Deck-FINAL.pdf)
 * [2023-12-09, 00:46:04](https://lobste.rs/s/yoific/pinning_all_system_calls) - [pinning all system calls](https://marc.info/?l=openbsd-tech&m=170205367232026&w=2)
 * [2023-12-09, 00:10:01](https://lobste.rs/s/yg3qoi/coherent_operating_system) - [Coherent (operating system)](https://en.wikipedia.org/wiki/Coherent_(operating_system))
 * [2023-12-08, 23:55:33](https://lobste.rs/s/ef4miq/comfy_game_engine_0_3_rust_no_lifetimes) - [Comfy Game Engine 0.3 (Rust) - No Lifetimes, User Shaders, Text Rendering, 2.5D, LDTK](https://comfyengine.org/blog/release-v0-3/)
