@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-09, 12:21:40",
+      "https://lobste.rs/s/mythhu/bsd_on_windows_things_i_wish_i_knew_existed"
+    ],
+    [
+      "BSD on Windows: Things I wish I knew existed",
+      "https://virtuallyfun.com/2023/12/08/bsd-on-windows-things-i-wish-i-knew-existed/"
+    ]
+  ],
+  [
+    [
+      "2023-12-09, 12:08:32",
+      "https://lobste.rs/s/oya1dk/klogg_really_fast_log_explorer_based_on"
+    ],
+    [
+      "klogg: Really fast log explorer based on glogg project",
+      "https://github.com/variar/klogg"
+    ]
+  ],
+  [
+    [
       "2023-12-09, 11:22:53",
       "https://lobste.rs/s/5tlj8z/using_fido_keys"
     ],
@@ -47,16 +67,6 @@
     [
       "Comfy Game Engine 0.3 (Rust) - No Lifetimes, User Shaders, Text Rendering, 2.5D, LDTK",
       "https://comfyengine.org/blog/release-v0-3/"
-    ]
-  ],
-  [
-    [
-      "2023-12-08, 23:23:00",
-      "https://lobste.rs/s/47pwoe/personal_freebsd_pkgbase_update_server"
-    ],
-    [
-      "Personal FreeBSD PKGBASE Update Server",
-      "https://vermaden.wordpress.com/2023/12/09/personal-freebsd-pkgbase-update-server/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "The Wizardry Frontier ",
       "https://v5.chriskrycho.com/journal/wizardry-frontier/"
-    ]
-  ],
-  [
-    [
-      "2023-12-07, 12:56:13",
-      "https://lobste.rs/s/zl1uer/apple_google_confirm_governments_spy_on"
-    ],
-    [
-      "Apple and Google confirm governments spy on users through push notifications",
-      "https://www.androidauthority.com/apple-google-push-notification-surveillance-3392252/"
     ]
   ]
 ]
