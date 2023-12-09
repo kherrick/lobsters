@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-09, 17:09:28](https://lobste.rs/s/nahuz5/phantom_exploiting_decoder_detectable) - [Phantom: Exploiting Decoder-detectable Mispredictions](https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614275)
 * [2023-12-09, 16:33:10](https://lobste.rs/s/eypyxa/clockhands_rename_free_instruction_set) - [Clockhands: Rename-free Instruction Set Architecture for Out-of-order Processors](https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614272)
 * [2023-12-09, 15:43:33](https://lobste.rs/s/rjdrm7/makesure_vs_just_command_runners_on) - [Makesure vs Just command runners on examples](https://maximullaris.com/makesure-vs-just.html)
 * [2023-12-09, 14:54:32](https://lobste.rs/s/vbsnup/filling_knowledge_gap_https_tls) - [Filling in the Knowledge Gap: HTTPS/TLS Certificates](https://blog.bityard.net/articles/2023/December/filling-in-the-gaps-httpstls-certificates.html)
@@ -13,7 +14,6 @@
 * [2023-12-08, 23:18:27](https://lobste.rs/s/j23p0w/starting_forth) - [Starting FORTH](https://www.forth.com/starting-forth/)
 * [2023-12-08, 21:47:21](https://lobste.rs/s/2liapf/llvm_cfi_cross_language_llvm_cfi_support) - [LLVM CFI and Cross-Language LLVM CFI Support for Rust](https://bughunters.google.com/blog/4805571163848704/llvm-cfi-and-cross-language-llvm-cfi-support-for-rust)
 * [2023-12-08, 21:28:50](https://lobste.rs/s/s68ube/alpine_linux_3_19_0_released) - [Alpine Linux 3.19.0 released](https://www.alpinelinux.org/posts/Alpine-3.19.0-released.html)
-* [2023-12-08, 21:08:21](https://lobste.rs/s/kf8ltj/go_changes) - [Go Changes](https://research.swtch.com/gochanges)
 * [2023-12-08, 17:36:07](https://lobste.rs/s/jmcsmu/maglev_v8_s_fastest_optimizing_jit) - [Maglev - V8’s Fastest Optimizing JIT](https://v8.dev/blog/maglev)
 * [2023-12-08, 16:53:04](https://lobste.rs/s/wo33yn/advent_code_c_template_metaprogramming) - [Advent of Code in C++ Template Metaprogramming](https://blog.nelhage.com/post/advent-of-templates/)
 * [2023-12-08, 16:06:46](https://lobste.rs/s/ukh5id/uhttp_pythonic_web_development) - [uHTTP: Pythonic web development](https://github.com/0x67757300/uHTTP)

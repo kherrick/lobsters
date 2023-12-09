@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-09](index.md)
 
+* [2023-12-09, 17:09:28](https://lobste.rs/s/nahuz5/phantom_exploiting_decoder_detectable) - [Phantom: Exploiting Decoder-detectable Mispredictions](https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614275)
 * [2023-12-09, 16:33:10](https://lobste.rs/s/eypyxa/clockhands_rename_free_instruction_set) - [Clockhands: Rename-free Instruction Set Architecture for Out-of-order Processors](https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614272)
 * [2023-12-09, 15:43:33](https://lobste.rs/s/rjdrm7/makesure_vs_just_command_runners_on) - [Makesure vs Just command runners on examples](https://maximullaris.com/makesure-vs-just.html)
 * [2023-12-09, 14:54:32](https://lobste.rs/s/vbsnup/filling_knowledge_gap_https_tls) - [Filling in the Knowledge Gap: HTTPS/TLS Certificates](https://blog.bityard.net/articles/2023/December/filling-in-the-gaps-httpstls-certificates.html)
