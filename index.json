@@ -1,11 +1,21 @@
 [
   [
     [
-      "2023-12-09, 20:46:56",
-      "https://lobste.rs/s/kvrnf8/rabbits_porporo_new_pipe_oriented_os_play"
+      "2023-12-09, 21:36:30",
+      "https://lobste.rs/s/rqcabm/data_corruption_linux_ext4"
     ],
     [
-      "~rabbits/porporo a new pipe oriented OS to play with",
+      "Data corruption in Linux ext4",
+      "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057843"
+    ]
+  ],
+  [
+    [
+      "2023-12-09, 20:46:56",
+      "https://lobste.rs/s/kvrnf8/porporo_new_pipe_oriented_os_play_with"
+    ],
+    [
+      "porporo: a new pipe oriented OS to play with",
       "https://git.sr.ht/~rabbits/porporo"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "How the first gen ipod was reverse engineered to run Rockbox",
       "https://mastodon.social/@bagder/111538350617290554"
-    ]
-  ],
-  [
-    [
-      "2023-12-08, 11:14:28",
-      "https://lobste.rs/s/uln47a/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/uln47a/what_are_you_doing_this_weekend"
     ]
   ]
 ]
