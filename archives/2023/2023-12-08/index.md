@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-08](index.md)
 
+* [2023-12-08, 23:55:33](https://lobste.rs/s/ef4miq/comfy_game_engine_0_3_rust_no_lifetimes) - [Comfy Game Engine 0.3 (Rust) - No Lifetimes, User Shaders, Text Rendering, 2.5D, LDTK](https://comfyengine.org/blog/release-v0-3/)
 * [2023-12-08, 23:23:00](https://lobste.rs/s/47pwoe/personal_freebsd_pkgbase_update_server) - [Personal FreeBSD PKGBASE Update Server](https://vermaden.wordpress.com/2023/12/09/personal-freebsd-pkgbase-update-server/)
 * [2023-12-08, 23:18:27](https://lobste.rs/s/j23p0w/starting_forth) - [Starting FORTH](https://www.forth.com/starting-forth/)
 * [2023-12-08, 21:47:21](https://lobste.rs/s/2liapf/llvm_cfi_cross_language_llvm_cfi_support) - [LLVM CFI and Cross-Language LLVM CFI Support for Rust](https://bughunters.google.com/blog/4805571163848704/llvm-cfi-and-cross-language-llvm-cfi-support-for-rust)

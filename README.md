@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-08, 23:55:33](https://lobste.rs/s/ef4miq/comfy_game_engine_0_3_rust_no_lifetimes) - [Comfy Game Engine 0.3 (Rust) - No Lifetimes, User Shaders, Text Rendering, 2.5D, LDTK](https://comfyengine.org/blog/release-v0-3/)
 * [2023-12-08, 23:23:00](https://lobste.rs/s/47pwoe/personal_freebsd_pkgbase_update_server) - [Personal FreeBSD PKGBASE Update Server](https://vermaden.wordpress.com/2023/12/09/personal-freebsd-pkgbase-update-server/)
 * [2023-12-08, 23:18:27](https://lobste.rs/s/j23p0w/starting_forth) - [Starting FORTH](https://www.forth.com/starting-forth/)
 * [2023-12-08, 21:47:21](https://lobste.rs/s/2liapf/llvm_cfi_cross_language_llvm_cfi_support) - [LLVM CFI and Cross-Language LLVM CFI Support for Rust](https://bughunters.google.com/blog/4805571163848704/llvm-cfi-and-cross-language-llvm-cfi-support-for-rust)
@@ -24,7 +25,6 @@
 * [2023-12-07, 16:11:32](https://lobste.rs/s/dkehlv/just_about_every_windows_linux_device) - [Just about every Windows and Linux device vulnerable to new LogoFAIL firmware attack](https://arstechnica.com/security/2023/12/just-about-every-windows-and-linux-device-vulnerable-to-new-logofail-firmware-attack/)
 * [2023-12-07, 12:56:13](https://lobste.rs/s/zl1uer/apple_google_confirm_governments_spy_on) - [Apple and Google confirm governments spy on users through push notifications](https://www.androidauthority.com/apple-google-push-notification-surveillance-3392252/)
 * [2023-12-07, 12:29:16](https://lobste.rs/s/wrd9ff/last_5_years_v8_s_garbage_collector) - [The last 5 years of V8's garbage collector](https://wingolog.org/archives/2023/12/07/the-last-5-years-of-v8s-garbage-collector)
-* [2023-12-07, 10:21:54](https://lobste.rs/s/doqtje/syncthing_untrusted_device_encryption) - [Syncthing - Untrusted Device Encryption](https://docs.syncthing.net/specs/untrusted.html)
 
 ## [Archives](archives/index.md)
 
