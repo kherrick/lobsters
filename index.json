@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-09, 00:46:04",
+      "https://lobste.rs/s/yoific/pinning_all_system_calls"
+    ],
+    [
+      "pinning all system calls",
+      "https://marc.info/?l=openbsd-tech&m=170205367232026&w=2"
+    ]
+  ],
+  [
+    [
+      "2023-12-09, 00:10:01",
+      "https://lobste.rs/s/yg3qoi/coherent_operating_system"
+    ],
+    [
+      "Coherent (operating system)",
+      "https://en.wikipedia.org/wiki/Coherent_(operating_system)"
+    ]
+  ],
+  [
+    [
       "2023-12-08, 23:55:33",
       "https://lobste.rs/s/ef4miq/comfy_game_engine_0_3_rust_no_lifetimes"
     ],
@@ -27,16 +47,6 @@
     [
       "Starting FORTH",
       "https://www.forth.com/starting-forth/"
-    ]
-  ],
-  [
-    [
-      "2023-12-08, 21:47:21",
-      "https://lobste.rs/s/2liapf/llvm_cfi_cross_language_llvm_cfi_support"
-    ],
-    [
-      "LLVM CFI and Cross-Language LLVM CFI Support for Rust",
-      "https://bughunters.google.com/blog/4805571163848704/llvm-cfi-and-cross-language-llvm-cfi-support-for-rust"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Apple and Google confirm governments spy on users through push notifications",
       "https://www.androidauthority.com/apple-google-push-notification-surveillance-3392252/"
-    ]
-  ],
-  [
-    [
-      "2023-12-07, 12:29:16",
-      "https://lobste.rs/s/wrd9ff/last_5_years_v8_s_garbage_collector"
-    ],
-    [
-      "The last 5 years of V8's garbage collector",
-      "https://wingolog.org/archives/2023/12/07/the-last-5-years-of-v8s-garbage-collector"
     ]
   ]
 ]
