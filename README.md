@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-09, 07:47:00](https://lobste.rs/s/ycntve/european_institutions_strike_deal_on) - [European institutions strike a deal on the first rules for AI in the world](https://www.consilium.europa.eu/en/press/press-releases/2023/12/09/artificial-intelligence-act-council-and-parliament-strike-a-deal-on-the-first-worldwide-rules-for-ai/)
 * [2023-12-09, 04:43:58](https://lobste.rs/s/kyzqtp/just_pocket_change_examining_cost_nickel) - [Just Pocket Change? Examining The Cost Of “Nickel and Dime” Exploit Mitigations](https://github.com/connormcgarr/Presentations/blob/master/McGarr-SUMMIT-HackFest-2023-Deck-FINAL.pdf)
 * [2023-12-09, 00:46:04](https://lobste.rs/s/yoific/pinning_all_system_calls) - [pinning all system calls](https://marc.info/?l=openbsd-tech&m=170205367232026&w=2)
 * [2023-12-09, 00:10:01](https://lobste.rs/s/yg3qoi/coherent_operating_system) - [Coherent (operating system)](https://en.wikipedia.org/wiki/Coherent_(operating_system))
@@ -23,7 +24,6 @@
 * [2023-12-08, 04:28:52](https://lobste.rs/s/gos64v/fake_chips_i_got_stung) - [Fake chips, I got stung](https://linuxjedi.co.uk/2023/12/01/fake-chips-i-got-stung/)
 * [2023-12-08, 01:12:44](https://lobste.rs/s/wpnbi9/systemd_255_released) - [systemd 255 released](https://www.phoronix.com/news/systemd-255)
 * [2023-12-07, 18:10:31](https://lobste.rs/s/6eizz1/wizardry_frontier) - [The Wizardry Frontier ](https://v5.chriskrycho.com/journal/wizardry-frontier/)
-* [2023-12-07, 16:11:32](https://lobste.rs/s/dkehlv/just_about_every_windows_linux_device) - [Just about every Windows and Linux device vulnerable to new LogoFAIL firmware attack](https://arstechnica.com/security/2023/12/just-about-every-windows-and-linux-device-vulnerable-to-new-logofail-firmware-attack/)
 * [2023-12-07, 12:56:13](https://lobste.rs/s/zl1uer/apple_google_confirm_governments_spy_on) - [Apple and Google confirm governments spy on users through push notifications](https://www.androidauthority.com/apple-google-push-notification-surveillance-3392252/)
 
 ## [Archives](archives/index.md)
