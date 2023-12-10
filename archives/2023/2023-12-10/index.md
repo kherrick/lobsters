@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-10](index.md)
 
+* [2023-12-10, 20:31:55](https://lobste.rs/s/79zkum/bad_news_emacs) - [Bad NEWS, Emacs](https://eshelyaron.com/posts/2023-12-10-bad-news.html)
 * [2023-12-10, 17:19:28](https://lobste.rs/s/oqu4rq/pico_binary_clock) - [Pico Binary Clock](https://drfrancintosh.wordpress.com/pico-binary-clock/)
 * [2023-12-10, 14:39:29](https://lobste.rs/s/jofho9/case_study_on_vanilla_web_development) - [A case study on vanilla web development (2020)](https://github.com/morris/vanilla-todo)
 * [2023-12-10, 12:50:40](https://lobste.rs/s/gvjeve/sophia_lang_weekly_00) - [Sophia Lang Weekly - 00](https://xnacly.me/posts/2023/sophia-lang-weekly00/)
