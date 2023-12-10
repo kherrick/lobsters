@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-10, 14:39:29",
+      "https://lobste.rs/s/jofho9/case_study_on_vanilla_web_development"
+    ],
+    [
+      "A case study on vanilla web development (2020)",
+      "https://github.com/morris/vanilla-todo"
+    ]
+  ],
+  [
+    [
       "2023-12-10, 12:50:40",
       "https://lobste.rs/s/gvjeve/sophia_lang_weekly_00"
     ],
@@ -227,16 +237,6 @@
     [
       "Alpine Linux 3.19.0 released",
       "https://www.alpinelinux.org/posts/Alpine-3.19.0-released.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-08, 17:36:07",
-      "https://lobste.rs/s/jmcsmu/maglev_v8_s_fastest_optimizing_jit"
-    ],
-    [
-      "Maglev - V8’s Fastest Optimizing JIT",
-      "https://v8.dev/blog/maglev"
     ]
   ],
   [
