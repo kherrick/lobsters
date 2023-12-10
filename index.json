@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-10, 04:41:38",
+      "https://lobste.rs/s/tr9swd/visual_basic_for_applications_language"
+    ],
+    [
+      "Visual Basic for Applications Language Specification",
+      "https://msopenspecs.azureedge.net/files/MS-VBAL/%5bMS-VBAL%5d.pdf"
+    ]
+  ],
+  [
+    [
       "2023-12-10, 03:42:59",
       "https://lobste.rs/s/nx8lj6/mercat_language_with_full_recursive"
     ],
@@ -177,16 +187,6 @@
     [
       "pinning all system calls",
       "https://marc.info/?l=openbsd-tech&m=170205367232026&w=2"
-    ]
-  ],
-  [
-    [
-      "2023-12-09, 00:10:01",
-      "https://lobste.rs/s/yg3qoi/coherent_operating_system"
-    ],
-    [
-      "Coherent (operating system)",
-      "https://en.wikipedia.org/wiki/Coherent_(operating_system)"
     ]
   ],
   [
