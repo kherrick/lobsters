@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-10](index.md)
 
+* [2023-12-10, 08:19:01](https://lobste.rs/s/ywdx5g/raveforce_openai_gym_style_toolkit_for) - [RaveForce: An OpenAI Gym style toolkit for music generation experiments](https://github.com/chaosprint/RaveForce)
 * [2023-12-10, 04:41:38](https://lobste.rs/s/tr9swd/visual_basic_for_applications_language) - [Visual Basic for Applications Language Specification](https://msopenspecs.azureedge.net/files/MS-VBAL/%5bMS-VBAL%5d.pdf)
 * [2023-12-10, 03:42:59](https://lobste.rs/s/nx8lj6/mercat_language_with_full_recursive) - [Mercat: A language with a full recursive descent compiler written in Awk](https://lobste.rs/s/nx8lj6/mercat_language_with_full_recursive)
 * [2023-12-10, 02:06:07](https://lobste.rs/s/epvubb/run_macos_windows_more_via_single_nix) - [Run macOS, Windows and more via a single Nix command](https://github.com/MatthewCroughan/NixThePlanet)
