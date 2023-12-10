@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-10, 17:19:28](https://lobste.rs/s/oqu4rq/pico_binary_clock) - [Pico Binary Clock](https://drfrancintosh.wordpress.com/pico-binary-clock/)
 * [2023-12-10, 14:39:29](https://lobste.rs/s/jofho9/case_study_on_vanilla_web_development) - [A case study on vanilla web development (2020)](https://github.com/morris/vanilla-todo)
 * [2023-12-10, 12:50:40](https://lobste.rs/s/gvjeve/sophia_lang_weekly_00) - [Sophia Lang Weekly - 00](https://xnacly.me/posts/2023/sophia-lang-weekly00/)
 * [2023-12-10, 10:01:55](https://lobste.rs/s/vzvfob/fuzzy_finding_with_emacs_instead_fzf) - [Fuzzy Finding with Emacs Instead of fzf](https://www.masteringemacs.org/article/fuzzy-finding-emacs-instead-of-fzf)
@@ -19,7 +20,6 @@
 * [2023-12-09, 15:43:33](https://lobste.rs/s/rjdrm7/makesure_vs_just_command_runners_on) - [Makesure vs Just command runners on examples](https://maximullaris.com/makesure-vs-just.html)
 * [2023-12-09, 14:54:32](https://lobste.rs/s/vbsnup/filling_knowledge_gap_https_tls) - [Filling in the Knowledge Gap: HTTPS/TLS Certificates](https://blog.bityard.net/articles/2023/December/filling-in-the-gaps-httpstls-certificates.html)
 * [2023-12-09, 12:21:40](https://lobste.rs/s/mythhu/bsd_on_windows_things_i_wish_i_knew_existed) - [BSD on Windows: Things I wish I knew existed](https://virtuallyfun.com/2023/12/08/bsd-on-windows-things-i-wish-i-knew-existed/)
-* [2023-12-09, 12:08:32](https://lobste.rs/s/oya1dk/klogg_really_fast_log_explorer_based_on) - [klogg: Really fast log explorer based on glogg project](https://github.com/variar/klogg)
 * [2023-12-09, 11:22:53](https://lobste.rs/s/5tlj8z/using_fido_keys) - [Using FIDO keys](https://777.tf/blog/2023/12/08/using-fido-keys/)
 * [2023-12-09, 00:46:04](https://lobste.rs/s/yoific/pinning_all_system_calls) - [pinning all system calls](https://marc.info/?l=openbsd-tech&m=170205367232026&w=2)
 * [2023-12-08, 23:18:27](https://lobste.rs/s/j23p0w/starting_forth) - [Starting FORTH](https://www.forth.com/starting-forth/)
