@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-10, 14:39:29](https://lobste.rs/s/jofho9/case_study_on_vanilla_web_development) - [A case study on vanilla web development (2020)](https://github.com/morris/vanilla-todo)
 * [2023-12-10, 12:50:40](https://lobste.rs/s/gvjeve/sophia_lang_weekly_00) - [Sophia Lang Weekly - 00](https://xnacly.me/posts/2023/sophia-lang-weekly00/)
 * [2023-12-10, 10:01:55](https://lobste.rs/s/vzvfob/fuzzy_finding_with_emacs_instead_fzf) - [Fuzzy Finding with Emacs Instead of fzf](https://www.masteringemacs.org/article/fuzzy-finding-emacs-instead-of-fzf)
 * [2023-12-10, 08:19:01](https://lobste.rs/s/ywdx5g/raveforce_openai_gym_style_toolkit_for) - [RaveForce: An OpenAI Gym style toolkit for music generation experiments](https://github.com/chaosprint/RaveForce)
@@ -23,7 +24,6 @@
 * [2023-12-09, 00:46:04](https://lobste.rs/s/yoific/pinning_all_system_calls) - [pinning all system calls](https://marc.info/?l=openbsd-tech&m=170205367232026&w=2)
 * [2023-12-08, 23:18:27](https://lobste.rs/s/j23p0w/starting_forth) - [Starting FORTH](https://www.forth.com/starting-forth/)
 * [2023-12-08, 21:28:50](https://lobste.rs/s/s68ube/alpine_linux_3_19_0_released) - [Alpine Linux 3.19.0 released](https://www.alpinelinux.org/posts/Alpine-3.19.0-released.html)
-* [2023-12-08, 17:36:07](https://lobste.rs/s/jmcsmu/maglev_v8_s_fastest_optimizing_jit) - [Maglev - V8’s Fastest Optimizing JIT](https://v8.dev/blog/maglev)
 * [2023-12-08, 16:06:46](https://lobste.rs/s/ukh5id/uhttp_pythonic_web_development) - [uHTTP: Pythonic web development](https://github.com/0x67757300/uHTTP)
 
 ## [Archives](archives/index.md)

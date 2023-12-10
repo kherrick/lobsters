@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-10](index.md)
 
+* [2023-12-10, 14:39:29](https://lobste.rs/s/jofho9/case_study_on_vanilla_web_development) - [A case study on vanilla web development (2020)](https://github.com/morris/vanilla-todo)
 * [2023-12-10, 12:50:40](https://lobste.rs/s/gvjeve/sophia_lang_weekly_00) - [Sophia Lang Weekly - 00](https://xnacly.me/posts/2023/sophia-lang-weekly00/)
 * [2023-12-10, 10:01:55](https://lobste.rs/s/vzvfob/fuzzy_finding_with_emacs_instead_fzf) - [Fuzzy Finding with Emacs Instead of fzf](https://www.masteringemacs.org/article/fuzzy-finding-emacs-instead-of-fzf)
 * [2023-12-10, 09:22:59](https://lobste.rs/s/yxix63/how_sell_open_source_software) - [How to sell open-source software?](https://lobste.rs/s/yxix63/how_sell_open_source_software)
