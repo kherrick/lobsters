@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-10, 03:42:59](https://lobste.rs/s/nx8lj6/mercat_language_with_full_recursive) - [Mercat: A language with a full recursive descent compiler written in Awk](https://lobste.rs/s/nx8lj6/mercat_language_with_full_recursive)
 * [2023-12-10, 02:06:07](https://lobste.rs/s/epvubb/run_macos_windows_more_via_single_nix) - [Run macOS, Windows and more via a single Nix command](https://github.com/MatthewCroughan/NixThePlanet)
 * [2023-12-09, 23:30:23](https://lobste.rs/s/twugyc/sign_with_github_go) - [Sign in with GitHub in Go](https://eli.thegreenplace.net/2023/sign-in-with-github-in-go/)
 * [2023-12-09, 21:43:06](https://lobste.rs/s/svgc7j/dynamic_music_sound_techniques_for_video) - [Dynamic music and sound techniques for video games](https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
@@ -24,7 +25,6 @@
 * [2023-12-08, 17:36:07](https://lobste.rs/s/jmcsmu/maglev_v8_s_fastest_optimizing_jit) - [Maglev - V8’s Fastest Optimizing JIT](https://v8.dev/blog/maglev)
 * [2023-12-08, 16:06:46](https://lobste.rs/s/ukh5id/uhttp_pythonic_web_development) - [uHTTP: Pythonic web development](https://github.com/0x67757300/uHTTP)
 * [2023-12-08, 12:27:19](https://lobste.rs/s/9mr0pn/postgres_language_server_implementing) - [Postgres Language Server: implementing the Parser](https://supabase.com/blog/postgres-language-server-implementing-parser)
-* [2023-12-08, 12:13:15](https://lobste.rs/s/ohe5xm/how_first_gen_ipod_was_reverse_engineered) - [How the first gen ipod was reverse engineered to run Rockbox](https://mastodon.social/@bagder/111538350617290554)
 
 ## [Archives](archives/index.md)
 
