@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-10, 17:19:28",
+      "https://lobste.rs/s/oqu4rq/pico_binary_clock"
+    ],
+    [
+      "Pico Binary Clock",
+      "https://drfrancintosh.wordpress.com/pico-binary-clock/"
+    ]
+  ],
+  [
+    [
       "2023-12-10, 14:39:29",
       "https://lobste.rs/s/jofho9/case_study_on_vanilla_web_development"
     ],
@@ -187,16 +197,6 @@
     [
       "BSD on Windows: Things I wish I knew existed",
       "https://virtuallyfun.com/2023/12/08/bsd-on-windows-things-i-wish-i-knew-existed/"
-    ]
-  ],
-  [
-    [
-      "2023-12-09, 12:08:32",
-      "https://lobste.rs/s/oya1dk/klogg_really_fast_log_explorer_based_on"
-    ],
-    [
-      "klogg: Really fast log explorer based on glogg project",
-      "https://github.com/variar/klogg"
     ]
   ],
   [
