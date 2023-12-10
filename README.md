@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-10, 04:41:38](https://lobste.rs/s/tr9swd/visual_basic_for_applications_language) - [Visual Basic for Applications Language Specification](https://msopenspecs.azureedge.net/files/MS-VBAL/%5bMS-VBAL%5d.pdf)
 * [2023-12-10, 03:42:59](https://lobste.rs/s/nx8lj6/mercat_language_with_full_recursive) - [Mercat: A language with a full recursive descent compiler written in Awk](https://lobste.rs/s/nx8lj6/mercat_language_with_full_recursive)
 * [2023-12-10, 02:06:07](https://lobste.rs/s/epvubb/run_macos_windows_more_via_single_nix) - [Run macOS, Windows and more via a single Nix command](https://github.com/MatthewCroughan/NixThePlanet)
 * [2023-12-09, 23:30:23](https://lobste.rs/s/twugyc/sign_with_github_go) - [Sign in with GitHub in Go](https://eli.thegreenplace.net/2023/sign-in-with-github-in-go/)
@@ -18,7 +19,6 @@
 * [2023-12-09, 12:08:32](https://lobste.rs/s/oya1dk/klogg_really_fast_log_explorer_based_on) - [klogg: Really fast log explorer based on glogg project](https://github.com/variar/klogg)
 * [2023-12-09, 11:22:53](https://lobste.rs/s/5tlj8z/using_fido_keys) - [Using FIDO keys](https://777.tf/blog/2023/12/08/using-fido-keys/)
 * [2023-12-09, 00:46:04](https://lobste.rs/s/yoific/pinning_all_system_calls) - [pinning all system calls](https://marc.info/?l=openbsd-tech&m=170205367232026&w=2)
-* [2023-12-09, 00:10:01](https://lobste.rs/s/yg3qoi/coherent_operating_system) - [Coherent (operating system)](https://en.wikipedia.org/wiki/Coherent_(operating_system))
 * [2023-12-08, 23:55:33](https://lobste.rs/s/ef4miq/comfy_game_engine_0_3_rust_no_lifetimes) - [Comfy Game Engine 0.3 (Rust) - No Lifetimes, User Shaders, Text Rendering, 2.5D, LDTK](https://comfyengine.org/blog/release-v0-3/)
 * [2023-12-08, 23:18:27](https://lobste.rs/s/j23p0w/starting_forth) - [Starting FORTH](https://www.forth.com/starting-forth/)
 * [2023-12-08, 21:28:50](https://lobste.rs/s/s68ube/alpine_linux_3_19_0_released) - [Alpine Linux 3.19.0 released](https://www.alpinelinux.org/posts/Alpine-3.19.0-released.html)
