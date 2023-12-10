@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-12-10, 09:22:59",
-      "https://lobste.rs/s/yxix63/how_sell_open_source_software"
-    ],
-    [
-      "How to sell open-source software?",
-      "https://lobste.rs/s/yxix63/how_sell_open_source_software"
-    ]
-  ],
-  [
-    [
       "2023-12-10, 08:19:01",
       "https://lobste.rs/s/ywdx5g/raveforce_openai_gym_style_toolkit_for"
     ],
@@ -247,6 +237,16 @@
     [
       "uHTTP: Pythonic web development",
       "https://github.com/0x67757300/uHTTP"
+    ]
+  ],
+  [
+    [
+      "2023-12-08, 12:27:19",
+      "https://lobste.rs/s/9mr0pn/postgres_language_server_implementing"
+    ],
+    [
+      "Postgres Language Server: implementing the Parser",
+      "https://supabase.com/blog/postgres-language-server-implementing-parser"
     ]
   ]
 ]
