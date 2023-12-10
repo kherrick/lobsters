@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-10, 02:06:07",
+      "https://lobste.rs/s/epvubb/run_macos_windows_more_via_single_nix"
+    ],
+    [
+      "Run macOS, Windows and more via a single Nix command",
+      "https://github.com/MatthewCroughan/NixThePlanet"
+    ]
+  ],
+  [
+    [
       "2023-12-09, 23:30:23",
       "https://lobste.rs/s/twugyc/sign_with_github_go"
     ],
@@ -207,16 +217,6 @@
     [
       "Maglev - V8’s Fastest Optimizing JIT",
       "https://v8.dev/blog/maglev"
-    ]
-  ],
-  [
-    [
-      "2023-12-08, 16:53:04",
-      "https://lobste.rs/s/wo33yn/advent_code_c_template_metaprogramming"
-    ],
-    [
-      "Advent of Code in C++ Template Metaprogramming",
-      "https://blog.nelhage.com/post/advent-of-templates/"
     ]
   ],
   [
