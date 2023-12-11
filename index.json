@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-11, 13:45:07",
+      "https://lobste.rs/s/nwqrsz/cyber_v0_3_new_jit_compiler_embed_api_more"
+    ],
+    [
+      "Cyber v0.3: New JIT compiler, Embed API, and more",
+      "https://cyberscript.dev/0.3/index.html"
+    ]
+  ],
+  [
+    [
       "2023-12-11, 13:14:20",
       "https://lobste.rs/s/oiy3kj/fossil_git_alternative_with_batteries"
     ],
@@ -237,16 +247,6 @@
     [
       "Filling in the Knowledge Gap: HTTPS/TLS Certificates",
       "https://blog.bityard.net/articles/2023/December/filling-in-the-gaps-httpstls-certificates.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-09, 12:21:40",
-      "https://lobste.rs/s/mythhu/bsd_on_windows_things_i_wish_i_knew_existed"
-    ],
-    [
-      "BSD on Windows: Things I wish I knew existed",
-      "https://virtuallyfun.com/2023/12/08/bsd-on-windows-things-i-wish-i-knew-existed/"
     ]
   ]
 ]
