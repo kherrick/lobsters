@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-11](index.md)
 
+* [2023-12-11, 08:08:58](https://lobste.rs/s/qncslt/fixing_classical_cats_how_i_got_tricked_by) - [Fixing Classical Cats; or, How I Got Tricked by 28-year-old Defensive Programming](https://www.mistys-internet.website/blog/blog/2023/12/10/fixing-classical-cats-or/)
+* [2023-12-11, 07:58:13](https://lobste.rs/s/an9xnt/database_generated_columns_geodjango) - [Database generated columns⁽³⁾: GeoDjango & PostGIS](https://www.paulox.net/2023/12/11/database-generated-columns-part-3-geodjango-and-postgis/)
 * [2023-12-11, 06:55:39](https://lobste.rs/s/je5m6p/using_server_sent_events_simplify_real) - [Using Server Sent Events to Simplify Real-time Streaming at Scale](https://shopify.engineering/server-sent-events-data-streaming)
 * [2023-12-11, 05:47:48](https://lobste.rs/s/nvcauq/templ_language_for_writing_html_user) - [templ - A language for writing HTML user interfaces in Go](https://templ.guide)
 * [2023-12-11, 04:29:20](https://lobste.rs/s/sfrhm1/convolutional_network_demo_from_1989) - [Convolutional Network Demo from 1989](https://www.youtube.com/watch?v=FwFduRA_L6Q)
