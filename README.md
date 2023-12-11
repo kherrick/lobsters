@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-11, 14:29:55](https://lobste.rs/s/dqwcos/how_relational_algebra_powers_klaro) - [How Relational Algebra powers Klaro Cards](https://www.klaro.cards/blog/2023/12/08/111-how-relation-algebra-powers-klaro-cards)
 * [2023-12-11, 13:45:07](https://lobste.rs/s/nwqrsz/cyber_v0_3_new_jit_compiler_embed_api_more) - [Cyber v0.3: New JIT compiler, Embed API, and more](https://cyberscript.dev/0.3/index.html)
 * [2023-12-11, 13:14:20](https://lobste.rs/s/oiy3kj/fossil_git_alternative_with_batteries) - [Fossil: A Git alternative with batteries included](https://fossil-scm.org/)
 * [2023-12-11, 11:41:51](https://lobste.rs/s/abni7c/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/abni7c/what_are_you_doing_this_week)
@@ -8,7 +9,6 @@
 * [2023-12-11, 06:55:39](https://lobste.rs/s/je5m6p/using_server_sent_events_simplify_real) - [Using Server Sent Events to Simplify Real-time Streaming at Scale](https://shopify.engineering/server-sent-events-data-streaming)
 * [2023-12-11, 05:47:48](https://lobste.rs/s/nvcauq/templ_language_for_writing_html_user) - [templ - A language for writing HTML user interfaces in Go](https://templ.guide)
 * [2023-12-11, 04:29:20](https://lobste.rs/s/sfrhm1/convolutional_network_demo_from_1989) - [Convolutional Network Demo from 1989](https://www.youtube.com/watch?v=FwFduRA_L6Q)
-* [2023-12-11, 04:28:28](https://lobste.rs/s/utjunb/ext4_data_corruption_stable_kernels) - [Ext4 data corruption in stable kernels](https://lwn.net/Articles/954285)
 * [2023-12-11, 04:07:24](https://lobste.rs/s/yyt9ha/pull_request_review_still_files) - [Pull request review: still files](https://dxuuu.xyz/prr2.html)
 * [2023-12-11, 03:58:53](https://lobste.rs/s/rxd5di/adelie_linux_1_0_beta5_released) - [Adélie Linux 1.0-BETA5 Released](https://blog.adelielinux.org/2023/12/10/adelie-linux-1-0-beta5-released/)
 * [2023-12-11, 03:17:26](https://lobste.rs/s/9q7awe/non_send_futures_when) - [Non-Send Futures When?](https://matklad.github.io/2023/12/10/nsfw.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-11](index.md)
 
+* [2023-12-11, 14:29:55](https://lobste.rs/s/dqwcos/how_relational_algebra_powers_klaro) - [How Relational Algebra powers Klaro Cards](https://www.klaro.cards/blog/2023/12/08/111-how-relation-algebra-powers-klaro-cards)
 * [2023-12-11, 13:45:07](https://lobste.rs/s/nwqrsz/cyber_v0_3_new_jit_compiler_embed_api_more) - [Cyber v0.3: New JIT compiler, Embed API, and more](https://cyberscript.dev/0.3/index.html)
 * [2023-12-11, 13:14:20](https://lobste.rs/s/oiy3kj/fossil_git_alternative_with_batteries) - [Fossil: A Git alternative with batteries included](https://fossil-scm.org/)
 * [2023-12-11, 11:41:51](https://lobste.rs/s/abni7c/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/abni7c/what_are_you_doing_this_week)
