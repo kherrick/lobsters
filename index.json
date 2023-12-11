@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-11, 14:29:55",
+      "https://lobste.rs/s/dqwcos/how_relational_algebra_powers_klaro"
+    ],
+    [
+      "How Relational Algebra powers Klaro Cards",
+      "https://www.klaro.cards/blog/2023/12/08/111-how-relation-algebra-powers-klaro-cards"
+    ]
+  ],
+  [
+    [
       "2023-12-11, 13:45:07",
       "https://lobste.rs/s/nwqrsz/cyber_v0_3_new_jit_compiler_embed_api_more"
     ],
@@ -77,16 +87,6 @@
     [
       "Convolutional Network Demo from 1989",
       "https://www.youtube.com/watch?v=FwFduRA_L6Q"
-    ]
-  ],
-  [
-    [
-      "2023-12-11, 04:28:28",
-      "https://lobste.rs/s/utjunb/ext4_data_corruption_stable_kernels"
-    ],
-    [
-      "Ext4 data corruption in stable kernels",
-      "https://lwn.net/Articles/954285"
     ]
   ],
   [
