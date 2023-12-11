@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-11](index.md)
 
+* [2023-12-11, 18:43:47](https://lobste.rs/s/lrqcfs/linux_scheduler_decade_wasted_cores) - [The Linux Scheduler: A Decade of Wasted Cores](https://people.ece.ubc.ca/sasha/papers/eurosys16-final29.pdf)
 * [2023-12-11, 18:31:43](https://lobste.rs/s/1flvbs/advent_technical_writing_internal_dry) - [Advent of Technical Writing: Internal Dry Run](https://jamesg.blog/2023/12/11/technical-writing-dry-run/)
 * [2023-12-11, 18:25:23](https://lobste.rs/s/f01x5n/beeper_mini_is_back) - [Beeper Mini Is Back](https://blog.beeper.com/p/beeper-mini-is-back)
 * [2023-12-11, 15:23:47](https://lobste.rs/s/sd9kqb/install_nixos_with_flake_configuration) - [Install NixOS with Flake configuration on Git](https://nixos.asia/en/tutorial/nixos-install)
