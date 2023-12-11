@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-11, 18:25:23",
+      "https://lobste.rs/s/f01x5n/beeper_mini_is_back"
+    ],
+    [
+      "Beeper Mini Is Back",
+      "https://blog.beeper.com/p/beeper-mini-is-back"
+    ]
+  ],
+  [
+    [
       "2023-12-11, 15:23:47",
       "https://lobste.rs/s/sd9kqb/install_nixos_with_flake_configuration"
     ],
@@ -197,16 +207,6 @@
     [
       "Fuzzy Finding with Emacs Instead of fzf",
       "https://www.masteringemacs.org/article/fuzzy-finding-emacs-instead-of-fzf"
-    ]
-  ],
-  [
-    [
-      "2023-12-10, 03:42:59",
-      "https://lobste.rs/s/nx8lj6/mercat_language_with_full_recursive"
-    ],
-    [
-      "Mercat: A language with a full recursive descent compiler written in Awk",
-      "https://lobste.rs/s/nx8lj6/mercat_language_with_full_recursive"
     ]
   ],
   [
