@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-11, 11:41:51](https://lobste.rs/s/abni7c/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/abni7c/what_are_you_doing_this_week)
 * [2023-12-11, 08:08:58](https://lobste.rs/s/qncslt/fixing_classical_cats_how_i_got_tricked_by) - [Fixing Classical Cats; or, How I Got Tricked by 28-year-old Defensive Programming](https://www.mistys-internet.website/blog/blog/2023/12/10/fixing-classical-cats-or/)
 * [2023-12-11, 07:58:13](https://lobste.rs/s/an9xnt/database_generated_columns_geodjango) - [Database generated columns⁽³⁾: GeoDjango & PostGIS](https://www.paulox.net/2023/12/11/database-generated-columns-part-3-geodjango-and-postgis/)
 * [2023-12-11, 06:55:39](https://lobste.rs/s/je5m6p/using_server_sent_events_simplify_real) - [Using Server Sent Events to Simplify Real-time Streaming at Scale](https://shopify.engineering/server-sent-events-data-streaming)
@@ -22,7 +23,6 @@
 * [2023-12-09, 20:24:25](https://lobste.rs/s/yzqlwg/from_worst_terminal_merely_mediocre) - [from worst terminal to merely mediocre](https://flak.tedunangst.com/post/from-worst-terminal-to-merely-mediocre)
 * [2023-12-09, 18:58:58](https://lobste.rs/s/tnwldo/djgpp) - [DJGPP](https://www.delorie.com/djgpp/)
 * [2023-12-09, 18:10:20](https://lobste.rs/s/iqwdww/free_software_you_can_t_customise_is_not) - [Free Software that you can't customise is not truly Free Software](https://wuffs.org/blog/free-software-needs-to-be-customisable)
-* [2023-12-09, 15:43:33](https://lobste.rs/s/rjdrm7/makesure_vs_just_command_runners_on) - [Makesure vs Just command runners on examples](https://maximullaris.com/makesure-vs-just.html)
 * [2023-12-09, 14:54:32](https://lobste.rs/s/vbsnup/filling_knowledge_gap_https_tls) - [Filling in the Knowledge Gap: HTTPS/TLS Certificates](https://blog.bityard.net/articles/2023/December/filling-in-the-gaps-httpstls-certificates.html)
 * [2023-12-09, 12:21:40](https://lobste.rs/s/mythhu/bsd_on_windows_things_i_wish_i_knew_existed) - [BSD on Windows: Things I wish I knew existed](https://virtuallyfun.com/2023/12/08/bsd-on-windows-things-i-wish-i-knew-existed/)
 
