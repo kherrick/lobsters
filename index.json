@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-12-11, 18:25:23",
-      "https://lobste.rs/s/f01x5n/beeper_mini_is_back"
-    ],
-    [
-      "Beeper Mini Is Back",
-      "https://blog.beeper.com/p/beeper-mini-is-back"
-    ]
-  ],
-  [
-    [
       "2023-12-11, 15:23:47",
       "https://lobste.rs/s/sd9kqb/install_nixos_with_flake_configuration"
     ],
@@ -247,6 +237,16 @@
     [
       "porporo: a new pipe oriented OS to play with",
       "https://git.sr.ht/~rabbits/porporo"
+    ]
+  ],
+  [
+    [
+      "2023-12-09, 18:10:20",
+      "https://lobste.rs/s/iqwdww/free_software_you_can_t_customise_is_not"
+    ],
+    [
+      "Free Software that you can't customise is not truly Free Software",
+      "https://wuffs.org/blog/free-software-needs-to-be-customisable"
     ]
   ]
 ]
