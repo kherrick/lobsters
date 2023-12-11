@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-11, 20:26:14](https://lobste.rs/s/uwlbhh/doom_turned_thirty) - [DOOM Turned Thirty](https://brainbaking.com/post/2023/12/doom-turned-thirty/)
 * [2023-12-11, 19:51:59](https://lobste.rs/s/54rbco/new_kselftest_for_verifying_driver_probe) - [New kselftest for verifying driver probe of Devicetree-based platforms](https://www.collabora.com/news-and-blog/blog/2023/12/11/a-new-kselftest-for-verifying-driver-probe-of-devicetree-based-platforms/)
 * [2023-12-11, 18:43:47](https://lobste.rs/s/lrqcfs/linux_scheduler_decade_wasted_cores) - [The Linux Scheduler: A Decade of Wasted Cores](https://people.ece.ubc.ca/sasha/papers/eurosys16-final29.pdf)
 * [2023-12-11, 18:31:43](https://lobste.rs/s/1flvbs/advent_technical_writing_internal_dry) - [Advent of Technical Writing: Internal Dry Run](https://jamesg.blog/2023/12/11/technical-writing-dry-run/)
@@ -15,7 +16,6 @@
 * [2023-12-11, 05:47:48](https://lobste.rs/s/nvcauq/templ_language_for_writing_html_user) - [templ - A language for writing HTML user interfaces in Go](https://templ.guide)
 * [2023-12-11, 04:29:20](https://lobste.rs/s/sfrhm1/convolutional_network_demo_from_1989) - [Convolutional Network Demo from 1989](https://www.youtube.com/watch?v=FwFduRA_L6Q)
 * [2023-12-11, 04:07:24](https://lobste.rs/s/yyt9ha/pull_request_review_still_files) - [Pull request review: still files](https://dxuuu.xyz/prr2.html)
-* [2023-12-11, 03:58:59](https://lobste.rs/s/clyioz/could_lobst_er_derive_value_from_adding) - [Could Lobst.er derive value from adding a blog feature?](https://lobste.rs/s/clyioz/could_lobst_er_derive_value_from_adding)
 * [2023-12-11, 03:58:53](https://lobste.rs/s/rxd5di/adelie_linux_1_0_beta5_released) - [Adélie Linux 1.0-BETA5 Released](https://blog.adelielinux.org/2023/12/10/adelie-linux-1-0-beta5-released/)
 * [2023-12-11, 03:17:26](https://lobste.rs/s/9q7awe/non_send_futures_when) - [Non-Send Futures When?](https://matklad.github.io/2023/12/10/nsfw.html)
 * [2023-12-10, 20:31:55](https://lobste.rs/s/79zkum/bad_news_emacs) - [Bad NEWS, Emacs](https://eshelyaron.com/posts/2023-12-10-bad-news.html)
