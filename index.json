@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-11, 15:23:47",
+      "https://lobste.rs/s/sd9kqb/install_nixos_with_flake_configuration"
+    ],
+    [
+      "Install NixOS with Flake configuration on Git",
+      "https://nixos.asia/en/tutorial/nixos-install"
+    ]
+  ],
+  [
+    [
       "2023-12-11, 15:14:22",
       "https://lobste.rs/s/n9tccg/huh_tui_form_builder"
     ],
@@ -227,16 +237,6 @@
     [
       "porporo: a new pipe oriented OS to play with",
       "https://git.sr.ht/~rabbits/porporo"
-    ]
-  ],
-  [
-    [
-      "2023-12-09, 18:58:58",
-      "https://lobste.rs/s/tnwldo/djgpp"
-    ],
-    [
-      "DJGPP",
-      "https://www.delorie.com/djgpp/"
     ]
   ],
   [
