@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-11, 05:47:48",
+      "https://lobste.rs/s/nvcauq/templ_language_for_writing_html_user"
+    ],
+    [
+      "templ - A language for writing HTML user interfaces in Go",
+      "https://templ.guide"
+    ]
+  ],
+  [
+    [
       "2023-12-11, 04:29:20",
       "https://lobste.rs/s/sfrhm1/convolutional_network_demo_from_1989"
     ],
@@ -147,16 +157,6 @@
     [
       "Run macOS, Windows and more via a single Nix command",
       "https://github.com/MatthewCroughan/NixThePlanet"
-    ]
-  ],
-  [
-    [
-      "2023-12-09, 23:30:23",
-      "https://lobste.rs/s/twugyc/sign_with_github_go"
-    ],
-    [
-      "Sign in with GitHub in Go",
-      "https://eli.thegreenplace.net/2023/sign-in-with-github-in-go/"
     ]
   ],
   [
