@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-11](index.md)
 
+* [2023-12-11, 20:58:51](https://lobste.rs/s/iq3wbg/hidden_depths_input_element) - [The hidden depths of the input element](https://www.htmhell.dev/adventcalendar/2023/8/)
 * [2023-12-11, 20:26:14](https://lobste.rs/s/uwlbhh/doom_turned_thirty) - [DOOM Turned Thirty](https://brainbaking.com/post/2023/12/doom-turned-thirty/)
 * [2023-12-11, 19:51:59](https://lobste.rs/s/54rbco/new_kselftest_for_verifying_driver_probe) - [New kselftest for verifying driver probe of Devicetree-based platforms](https://www.collabora.com/news-and-blog/blog/2023/12/11/a-new-kselftest-for-verifying-driver-probe-of-devicetree-based-platforms/)
 * [2023-12-11, 18:43:47](https://lobste.rs/s/lrqcfs/linux_scheduler_decade_wasted_cores) - [The Linux Scheduler: A Decade of Wasted Cores](https://people.ece.ubc.ca/sasha/papers/eurosys16-final29.pdf)
