@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-11, 05:47:48](https://lobste.rs/s/nvcauq/templ_language_for_writing_html_user) - [templ - A language for writing HTML user interfaces in Go](https://templ.guide)
 * [2023-12-11, 04:29:20](https://lobste.rs/s/sfrhm1/convolutional_network_demo_from_1989) - [Convolutional Network Demo from 1989](https://www.youtube.com/watch?v=FwFduRA_L6Q)
 * [2023-12-11, 04:28:28](https://lobste.rs/s/utjunb/ext4_data_corruption_stable_kernels) - [Ext4 data corruption in stable kernels](https://lwn.net/Articles/954285)
 * [2023-12-11, 04:07:24](https://lobste.rs/s/yyt9ha/pull_request_review_still_files) - [Pull request review: still files](https://dxuuu.xyz/prr2.html)
@@ -15,7 +16,6 @@
 * [2023-12-10, 08:19:01](https://lobste.rs/s/ywdx5g/raveforce_openai_gym_style_toolkit_for) - [RaveForce: An OpenAI Gym style toolkit for music generation experiments](https://github.com/chaosprint/RaveForce)
 * [2023-12-10, 03:42:59](https://lobste.rs/s/nx8lj6/mercat_language_with_full_recursive) - [Mercat: A language with a full recursive descent compiler written in Awk](https://lobste.rs/s/nx8lj6/mercat_language_with_full_recursive)
 * [2023-12-10, 02:06:07](https://lobste.rs/s/epvubb/run_macos_windows_more_via_single_nix) - [Run macOS, Windows and more via a single Nix command](https://github.com/MatthewCroughan/NixThePlanet)
-* [2023-12-09, 23:30:23](https://lobste.rs/s/twugyc/sign_with_github_go) - [Sign in with GitHub in Go](https://eli.thegreenplace.net/2023/sign-in-with-github-in-go/)
 * [2023-12-09, 21:43:06](https://lobste.rs/s/svgc7j/dynamic_music_sound_techniques_for_video) - [Dynamic music and sound techniques for video games](https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
 * [2023-12-09, 21:36:30](https://lobste.rs/s/rqcabm/data_corruption_linux_ext4) - [Data corruption in Linux ext4](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057843)
 * [2023-12-09, 20:46:56](https://lobste.rs/s/kvrnf8/porporo_new_pipe_oriented_os_play_with) - [porporo: a new pipe oriented OS to play with](https://git.sr.ht/~rabbits/porporo)
