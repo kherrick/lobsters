@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2023-12-09, 23:30:23",
+      "https://lobste.rs/s/twugyc/sign_with_github_go"
+    ],
+    [
+      "Sign in with GitHub in Go",
+      "https://eli.thegreenplace.net/2023/sign-in-with-github-in-go/"
+    ]
+  ],
+  [
+    [
       "2023-12-09, 21:43:06",
       "https://lobste.rs/s/svgc7j/dynamic_music_sound_techniques_for_video"
     ],
@@ -207,16 +217,6 @@
     [
       "Free Software that you can't customise is not truly Free Software",
       "https://wuffs.org/blog/free-software-needs-to-be-customisable"
-    ]
-  ],
-  [
-    [
-      "2023-12-09, 16:33:10",
-      "https://lobste.rs/s/eypyxa/clockhands_rename_free_instruction_set"
-    ],
-    [
-      "Clockhands: Rename-free Instruction Set Architecture for Out-of-order Processors",
-      "https://dl.acm.org/doi/fullHtml/10.1145/3613424.3614272"
     ]
   ],
   [
