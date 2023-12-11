@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-11, 21:33:34](https://lobste.rs/s/hsspdo/cve_2023_28197_inputcontrol) - [CVE-2023-28197: inputcontrol](https://blog.joscomputing.space/blog/inputcontrol/)
 * [2023-12-11, 21:14:26](https://lobste.rs/s/iigag9/ubuntu_risc_v_64_guest_on_x86_64_kvm_host) - [Ubuntu RISC-V 64 Guest on an x86_64 KVM Host](https://blog.adamretter.org.uk/ubuntu-riscv64-guest-on-kvm/)
 * [2023-12-11, 20:58:51](https://lobste.rs/s/iq3wbg/hidden_depths_input_element) - [The hidden depths of the input element](https://www.htmhell.dev/adventcalendar/2023/8/)
 * [2023-12-11, 20:26:14](https://lobste.rs/s/uwlbhh/doom_turned_thirty) - [DOOM Turned Thirty](https://brainbaking.com/post/2023/12/doom-turned-thirty/)
@@ -24,7 +25,6 @@
 * [2023-12-10, 17:19:28](https://lobste.rs/s/oqu4rq/pico_binary_clock) - [Pico Binary Clock](https://drfrancintosh.wordpress.com/pico-binary-clock/)
 * [2023-12-10, 14:39:29](https://lobste.rs/s/jofho9/case_study_on_vanilla_web_development) - [A case study on vanilla web development (2020)](https://github.com/morris/vanilla-todo)
 * [2023-12-10, 12:50:40](https://lobste.rs/s/gvjeve/sophia_lang_weekly_00) - [Sophia Lang Weekly - 00](https://xnacly.me/posts/2023/sophia-lang-weekly00/)
-* [2023-12-09, 21:36:30](https://lobste.rs/s/rqcabm/data_corruption_linux_ext4) - [Data corruption in Linux ext4](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057843)
 
 ## [Archives](archives/index.md)
 
