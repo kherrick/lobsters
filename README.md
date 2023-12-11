@@ -10,6 +10,7 @@
 * [2023-12-11, 05:47:48](https://lobste.rs/s/nvcauq/templ_language_for_writing_html_user) - [templ - A language for writing HTML user interfaces in Go](https://templ.guide)
 * [2023-12-11, 04:29:20](https://lobste.rs/s/sfrhm1/convolutional_network_demo_from_1989) - [Convolutional Network Demo from 1989](https://www.youtube.com/watch?v=FwFduRA_L6Q)
 * [2023-12-11, 04:07:24](https://lobste.rs/s/yyt9ha/pull_request_review_still_files) - [Pull request review: still files](https://dxuuu.xyz/prr2.html)
+* [2023-12-11, 03:58:59](https://lobste.rs/s/clyioz/could_lobst_er_derive_value_from_adding) - [Could Lobst.er derive value from adding a blog feature?](https://lobste.rs/s/clyioz/could_lobst_er_derive_value_from_adding)
 * [2023-12-11, 03:58:53](https://lobste.rs/s/rxd5di/adelie_linux_1_0_beta5_released) - [Adélie Linux 1.0-BETA5 Released](https://blog.adelielinux.org/2023/12/10/adelie-linux-1-0-beta5-released/)
 * [2023-12-11, 03:17:26](https://lobste.rs/s/9q7awe/non_send_futures_when) - [Non-Send Futures When?](https://matklad.github.io/2023/12/10/nsfw.html)
 * [2023-12-10, 20:31:55](https://lobste.rs/s/79zkum/bad_news_emacs) - [Bad NEWS, Emacs](https://eshelyaron.com/posts/2023-12-10-bad-news.html)
@@ -24,7 +25,6 @@
 * [2023-12-09, 20:46:56](https://lobste.rs/s/kvrnf8/porporo_new_pipe_oriented_os_play_with) - [porporo: a new pipe oriented OS to play with](https://git.sr.ht/~rabbits/porporo)
 * [2023-12-09, 18:58:58](https://lobste.rs/s/tnwldo/djgpp) - [DJGPP](https://www.delorie.com/djgpp/)
 * [2023-12-09, 18:10:20](https://lobste.rs/s/iqwdww/free_software_you_can_t_customise_is_not) - [Free Software that you can't customise is not truly Free Software](https://wuffs.org/blog/free-software-needs-to-be-customisable)
-* [2023-12-09, 14:54:32](https://lobste.rs/s/vbsnup/filling_knowledge_gap_https_tls) - [Filling in the Knowledge Gap: HTTPS/TLS Certificates](https://blog.bityard.net/articles/2023/December/filling-in-the-gaps-httpstls-certificates.html)
 
 ## [Archives](archives/index.md)
 
