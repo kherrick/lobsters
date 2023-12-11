@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-11](index.md)
 
+* [2023-12-11, 06:55:39](https://lobste.rs/s/je5m6p/using_server_sent_events_simplify_real) - [Using Server Sent Events to Simplify Real-time Streaming at Scale](https://shopify.engineering/server-sent-events-data-streaming)
 * [2023-12-11, 05:47:48](https://lobste.rs/s/nvcauq/templ_language_for_writing_html_user) - [templ - A language for writing HTML user interfaces in Go](https://templ.guide)
 * [2023-12-11, 04:29:20](https://lobste.rs/s/sfrhm1/convolutional_network_demo_from_1989) - [Convolutional Network Demo from 1989](https://www.youtube.com/watch?v=FwFduRA_L6Q)
 * [2023-12-11, 04:28:28](https://lobste.rs/s/utjunb/ext4_data_corruption_stable_kernels) - [Ext4 data corruption in stable kernels](https://lwn.net/Articles/954285)
