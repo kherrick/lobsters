@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-11, 18:25:23](https://lobste.rs/s/f01x5n/beeper_mini_is_back) - [Beeper Mini Is Back](https://blog.beeper.com/p/beeper-mini-is-back)
 * [2023-12-11, 15:23:47](https://lobste.rs/s/sd9kqb/install_nixos_with_flake_configuration) - [Install NixOS with Flake configuration on Git](https://nixos.asia/en/tutorial/nixos-install)
 * [2023-12-11, 15:14:22](https://lobste.rs/s/n9tccg/huh_tui_form_builder) - [huh? A TUI form builder](https://github.com/charmbracelet/huh)
 * [2023-12-11, 14:29:55](https://lobste.rs/s/dqwcos/how_relational_algebra_powers_klaro) - [How Relational Algebra powers Klaro Cards](https://www.klaro.cards/blog/2023/12/08/111-how-relation-algebra-powers-klaro-cards)
@@ -20,7 +21,6 @@
 * [2023-12-10, 14:39:29](https://lobste.rs/s/jofho9/case_study_on_vanilla_web_development) - [A case study on vanilla web development (2020)](https://github.com/morris/vanilla-todo)
 * [2023-12-10, 12:50:40](https://lobste.rs/s/gvjeve/sophia_lang_weekly_00) - [Sophia Lang Weekly - 00](https://xnacly.me/posts/2023/sophia-lang-weekly00/)
 * [2023-12-10, 10:01:55](https://lobste.rs/s/vzvfob/fuzzy_finding_with_emacs_instead_fzf) - [Fuzzy Finding with Emacs Instead of fzf](https://www.masteringemacs.org/article/fuzzy-finding-emacs-instead-of-fzf)
-* [2023-12-10, 03:42:59](https://lobste.rs/s/nx8lj6/mercat_language_with_full_recursive) - [Mercat: A language with a full recursive descent compiler written in Awk](https://lobste.rs/s/nx8lj6/mercat_language_with_full_recursive)
 * [2023-12-10, 02:06:07](https://lobste.rs/s/epvubb/run_macos_windows_more_via_single_nix) - [Run macOS, Windows and more via a single Nix command](https://github.com/MatthewCroughan/NixThePlanet)
 * [2023-12-09, 21:36:30](https://lobste.rs/s/rqcabm/data_corruption_linux_ext4) - [Data corruption in Linux ext4](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057843)
 * [2023-12-09, 20:46:56](https://lobste.rs/s/kvrnf8/porporo_new_pipe_oriented_os_play_with) - [porporo: a new pipe oriented OS to play with](https://git.sr.ht/~rabbits/porporo)
