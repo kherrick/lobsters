@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-11, 03:17:26](https://lobste.rs/s/9q7awe/non_send_futures_when) - [Non-Send Futures When?](https://matklad.github.io/2023/12/10/nsfw.html)
 * [2023-12-10, 20:31:55](https://lobste.rs/s/79zkum/bad_news_emacs) - [Bad NEWS, Emacs](https://eshelyaron.com/posts/2023-12-10-bad-news.html)
 * [2023-12-10, 17:19:28](https://lobste.rs/s/oqu4rq/pico_binary_clock) - [Pico Binary Clock](https://drfrancintosh.wordpress.com/pico-binary-clock/)
 * [2023-12-10, 14:39:29](https://lobste.rs/s/jofho9/case_study_on_vanilla_web_development) - [A case study on vanilla web development (2020)](https://github.com/morris/vanilla-todo)
@@ -24,7 +25,6 @@
 * [2023-12-09, 11:22:53](https://lobste.rs/s/5tlj8z/using_fido_keys) - [Using FIDO keys](https://777.tf/blog/2023/12/08/using-fido-keys/)
 * [2023-12-09, 00:46:04](https://lobste.rs/s/yoific/pinning_all_system_calls) - [pinning all system calls](https://marc.info/?l=openbsd-tech&m=170205367232026&w=2)
 * [2023-12-08, 21:28:50](https://lobste.rs/s/s68ube/alpine_linux_3_19_0_released) - [Alpine Linux 3.19.0 released](https://www.alpinelinux.org/posts/Alpine-3.19.0-released.html)
-* [2023-12-08, 16:06:46](https://lobste.rs/s/ukh5id/uhttp_pythonic_web_development) - [uHTTP: Pythonic web development](https://github.com/0x67757300/uHTTP)
 
 ## [Archives](archives/index.md)
 

@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-12-11](index.md)
+
+* [2023-12-11, 03:17:26](https://lobste.rs/s/9q7awe/non_send_futures_when) - [Non-Send Futures When?](https://matklad.github.io/2023/12/10/nsfw.html)
