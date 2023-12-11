@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-11, 18:31:43](https://lobste.rs/s/1flvbs/advent_technical_writing_internal_dry) - [Advent of Technical Writing: Internal Dry Run](https://jamesg.blog/2023/12/11/technical-writing-dry-run/)
 * [2023-12-11, 18:25:23](https://lobste.rs/s/f01x5n/beeper_mini_is_back) - [Beeper Mini Is Back](https://blog.beeper.com/p/beeper-mini-is-back)
 * [2023-12-11, 15:23:47](https://lobste.rs/s/sd9kqb/install_nixos_with_flake_configuration) - [Install NixOS with Flake configuration on Git](https://nixos.asia/en/tutorial/nixos-install)
 * [2023-12-11, 15:14:22](https://lobste.rs/s/n9tccg/huh_tui_form_builder) - [huh? A TUI form builder](https://github.com/charmbracelet/huh)
@@ -21,7 +22,6 @@
 * [2023-12-10, 14:39:29](https://lobste.rs/s/jofho9/case_study_on_vanilla_web_development) - [A case study on vanilla web development (2020)](https://github.com/morris/vanilla-todo)
 * [2023-12-10, 12:50:40](https://lobste.rs/s/gvjeve/sophia_lang_weekly_00) - [Sophia Lang Weekly - 00](https://xnacly.me/posts/2023/sophia-lang-weekly00/)
 * [2023-12-10, 10:01:55](https://lobste.rs/s/vzvfob/fuzzy_finding_with_emacs_instead_fzf) - [Fuzzy Finding with Emacs Instead of fzf](https://www.masteringemacs.org/article/fuzzy-finding-emacs-instead-of-fzf)
-* [2023-12-10, 02:06:07](https://lobste.rs/s/epvubb/run_macos_windows_more_via_single_nix) - [Run macOS, Windows and more via a single Nix command](https://github.com/MatthewCroughan/NixThePlanet)
 * [2023-12-09, 21:36:30](https://lobste.rs/s/rqcabm/data_corruption_linux_ext4) - [Data corruption in Linux ext4](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057843)
 * [2023-12-09, 20:46:56](https://lobste.rs/s/kvrnf8/porporo_new_pipe_oriented_os_play_with) - [porporo: a new pipe oriented OS to play with](https://git.sr.ht/~rabbits/porporo)
 * [2023-12-09, 18:10:20](https://lobste.rs/s/iqwdww/free_software_you_can_t_customise_is_not) - [Free Software that you can't customise is not truly Free Software](https://wuffs.org/blog/free-software-needs-to-be-customisable)

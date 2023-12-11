@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-11](index.md)
 
+* [2023-12-11, 18:31:43](https://lobste.rs/s/1flvbs/advent_technical_writing_internal_dry) - [Advent of Technical Writing: Internal Dry Run](https://jamesg.blog/2023/12/11/technical-writing-dry-run/)
 * [2023-12-11, 18:25:23](https://lobste.rs/s/f01x5n/beeper_mini_is_back) - [Beeper Mini Is Back](https://blog.beeper.com/p/beeper-mini-is-back)
 * [2023-12-11, 15:23:47](https://lobste.rs/s/sd9kqb/install_nixos_with_flake_configuration) - [Install NixOS with Flake configuration on Git](https://nixos.asia/en/tutorial/nixos-install)
 * [2023-12-11, 15:14:22](https://lobste.rs/s/n9tccg/huh_tui_form_builder) - [huh? A TUI form builder](https://github.com/charmbracelet/huh)
