@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-11, 13:45:07](https://lobste.rs/s/nwqrsz/cyber_v0_3_new_jit_compiler_embed_api_more) - [Cyber v0.3: New JIT compiler, Embed API, and more](https://cyberscript.dev/0.3/index.html)
 * [2023-12-11, 13:14:20](https://lobste.rs/s/oiy3kj/fossil_git_alternative_with_batteries) - [Fossil: A Git alternative with batteries included](https://fossil-scm.org/)
 * [2023-12-11, 11:41:51](https://lobste.rs/s/abni7c/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/abni7c/what_are_you_doing_this_week)
 * [2023-12-11, 08:08:58](https://lobste.rs/s/qncslt/fixing_classical_cats_how_i_got_tricked_by) - [Fixing Classical Cats; or, How I Got Tricked by 28-year-old Defensive Programming](https://www.mistys-internet.website/blog/blog/2023/12/10/fixing-classical-cats-or/)
@@ -24,7 +25,6 @@
 * [2023-12-09, 18:58:58](https://lobste.rs/s/tnwldo/djgpp) - [DJGPP](https://www.delorie.com/djgpp/)
 * [2023-12-09, 18:10:20](https://lobste.rs/s/iqwdww/free_software_you_can_t_customise_is_not) - [Free Software that you can't customise is not truly Free Software](https://wuffs.org/blog/free-software-needs-to-be-customisable)
 * [2023-12-09, 14:54:32](https://lobste.rs/s/vbsnup/filling_knowledge_gap_https_tls) - [Filling in the Knowledge Gap: HTTPS/TLS Certificates](https://blog.bityard.net/articles/2023/December/filling-in-the-gaps-httpstls-certificates.html)
-* [2023-12-09, 12:21:40](https://lobste.rs/s/mythhu/bsd_on_windows_things_i_wish_i_knew_existed) - [BSD on Windows: Things I wish I knew existed](https://virtuallyfun.com/2023/12/08/bsd-on-windows-things-i-wish-i-knew-existed/)
 
 ## [Archives](archives/index.md)
 
