@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-11](index.md)
 
+* [2023-12-11, 19:51:59](https://lobste.rs/s/54rbco/new_kselftest_for_verifying_driver_probe) - [New kselftest for verifying driver probe of Devicetree-based platforms](https://www.collabora.com/news-and-blog/blog/2023/12/11/a-new-kselftest-for-verifying-driver-probe-of-devicetree-based-platforms/)
 * [2023-12-11, 18:43:47](https://lobste.rs/s/lrqcfs/linux_scheduler_decade_wasted_cores) - [The Linux Scheduler: A Decade of Wasted Cores](https://people.ece.ubc.ca/sasha/papers/eurosys16-final29.pdf)
 * [2023-12-11, 18:31:43](https://lobste.rs/s/1flvbs/advent_technical_writing_internal_dry) - [Advent of Technical Writing: Internal Dry Run](https://jamesg.blog/2023/12/11/technical-writing-dry-run/)
 * [2023-12-11, 18:25:23](https://lobste.rs/s/f01x5n/beeper_mini_is_back) - [Beeper Mini Is Back](https://blog.beeper.com/p/beeper-mini-is-back)
