@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-11, 21:49:46",
+      "https://lobste.rs/s/wd7coj/webkit_features_safari_17_2"
+    ],
+    [
+      "WebKit Features in Safari 17.2",
+      "https://webkit.org/blog/14787/webkit-features-in-safari-17-2/"
+    ]
+  ],
+  [
+    [
       "2023-12-11, 21:33:34",
       "https://lobste.rs/s/hsspdo/cve_2023_28197_inputcontrol"
     ],
@@ -137,16 +147,6 @@
     [
       "Fixing Classical Cats; or, How I Got Tricked by 28-year-old Defensive Programming",
       "https://www.mistys-internet.website/blog/blog/2023/12/10/fixing-classical-cats-or/"
-    ]
-  ],
-  [
-    [
-      "2023-12-11, 07:58:13",
-      "https://lobste.rs/s/an9xnt/database_generated_columns_geodjango"
-    ],
-    [
-      "Database generated columns⁽³⁾: GeoDjango & PostGIS",
-      "https://www.paulox.net/2023/12/11/database-generated-columns-part-3-geodjango-and-postgis/"
     ]
   ],
   [
