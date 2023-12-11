@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-11, 15:14:22](https://lobste.rs/s/n9tccg/huh_tui_form_builder) - [huh? A TUI form builder](https://github.com/charmbracelet/huh)
 * [2023-12-11, 14:29:55](https://lobste.rs/s/dqwcos/how_relational_algebra_powers_klaro) - [How Relational Algebra powers Klaro Cards](https://www.klaro.cards/blog/2023/12/08/111-how-relation-algebra-powers-klaro-cards)
 * [2023-12-11, 13:45:07](https://lobste.rs/s/nwqrsz/cyber_v0_3_new_jit_compiler_embed_api_more) - [Cyber v0.3: New JIT compiler, Embed API, and more](https://cyberscript.dev/0.3/index.html)
 * [2023-12-11, 13:14:20](https://lobste.rs/s/oiy3kj/fossil_git_alternative_with_batteries) - [Fossil: A Git alternative with batteries included](https://fossil-scm.org/)
@@ -20,7 +21,6 @@
 * [2023-12-10, 10:01:55](https://lobste.rs/s/vzvfob/fuzzy_finding_with_emacs_instead_fzf) - [Fuzzy Finding with Emacs Instead of fzf](https://www.masteringemacs.org/article/fuzzy-finding-emacs-instead-of-fzf)
 * [2023-12-10, 03:42:59](https://lobste.rs/s/nx8lj6/mercat_language_with_full_recursive) - [Mercat: A language with a full recursive descent compiler written in Awk](https://lobste.rs/s/nx8lj6/mercat_language_with_full_recursive)
 * [2023-12-10, 02:06:07](https://lobste.rs/s/epvubb/run_macos_windows_more_via_single_nix) - [Run macOS, Windows and more via a single Nix command](https://github.com/MatthewCroughan/NixThePlanet)
-* [2023-12-09, 21:43:06](https://lobste.rs/s/svgc7j/dynamic_music_sound_techniques_for_video) - [Dynamic music and sound techniques for video games](https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
 * [2023-12-09, 21:36:30](https://lobste.rs/s/rqcabm/data_corruption_linux_ext4) - [Data corruption in Linux ext4](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057843)
 * [2023-12-09, 20:46:56](https://lobste.rs/s/kvrnf8/porporo_new_pipe_oriented_os_play_with) - [porporo: a new pipe oriented OS to play with](https://git.sr.ht/~rabbits/porporo)
 * [2023-12-09, 18:58:58](https://lobste.rs/s/tnwldo/djgpp) - [DJGPP](https://www.delorie.com/djgpp/)
