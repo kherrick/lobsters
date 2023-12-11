@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-11](index.md)
 
+* [2023-12-11, 21:49:46](https://lobste.rs/s/wd7coj/webkit_features_safari_17_2) - [WebKit Features in Safari 17.2](https://webkit.org/blog/14787/webkit-features-in-safari-17-2/)
 * [2023-12-11, 21:33:34](https://lobste.rs/s/hsspdo/cve_2023_28197_inputcontrol) - [CVE-2023-28197: inputcontrol](https://blog.joscomputing.space/blog/inputcontrol/)
 * [2023-12-11, 21:14:26](https://lobste.rs/s/iigag9/ubuntu_risc_v_64_guest_on_x86_64_kvm_host) - [Ubuntu RISC-V 64 Guest on an x86_64 KVM Host](https://blog.adamretter.org.uk/ubuntu-riscv64-guest-on-kvm/)
 * [2023-12-11, 20:58:51](https://lobste.rs/s/iq3wbg/hidden_depths_input_element) - [The hidden depths of the input element](https://www.htmhell.dev/adventcalendar/2023/8/)
