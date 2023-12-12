@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-12, 02:32:06](https://lobste.rs/s/qlyzco/number_theory_explained_from_first) - [Number Theory Explained from First Principles](https://explained-from-first-principles.com/number-theory/)
 * [2023-12-12, 02:10:15](https://lobste.rs/s/uqv7wp/rfc_for_status_420_requester_impaired) - [RFC for Status 420: Requester Impaired](https://www.ietf.org/archive/id/draft-richardroda-420requesterimpaired-02.html)
 * [2023-12-12, 02:03:56](https://lobste.rs/s/wdfpcl/chain_reaction) - [A Chain Reaction](https://overreacted.io/a-chain-reaction/)
 * [2023-12-12, 00:54:44](https://lobste.rs/s/35agnv/behavior_belongs_html) - [Behavior Belongs in the HTML](https://unplannedobsolescence.com/blog/behavior-belongs-in-html/)
@@ -9,7 +10,6 @@
 * [2023-12-11, 21:14:26](https://lobste.rs/s/iigag9/ubuntu_risc_v_64_guest_on_x86_64_kvm_host) - [Ubuntu RISC-V 64 Guest on an x86_64 KVM Host](https://blog.adamretter.org.uk/ubuntu-riscv64-guest-on-kvm/)
 * [2023-12-11, 20:58:51](https://lobste.rs/s/iq3wbg/hidden_depths_input_element) - [The hidden depths of the input element](https://www.htmhell.dev/adventcalendar/2023/8/)
 * [2023-12-11, 20:26:14](https://lobste.rs/s/uwlbhh/doom_turned_thirty) - [DOOM Turned Thirty](https://brainbaking.com/post/2023/12/doom-turned-thirty/)
-* [2023-12-11, 19:51:59](https://lobste.rs/s/54rbco/new_kselftest_for_verifying_driver_probe) - [New kselftest for verifying driver probe of Devicetree-based platforms](https://www.collabora.com/news-and-blog/blog/2023/12/11/a-new-kselftest-for-verifying-driver-probe-of-devicetree-based-platforms/)
 * [2023-12-11, 18:43:47](https://lobste.rs/s/lrqcfs/linux_scheduler_decade_wasted_cores_2016) - [The Linux Scheduler: A Decade of Wasted Cores (2016)](https://people.ece.ubc.ca/sasha/papers/eurosys16-final29.pdf)
 * [2023-12-11, 18:31:43](https://lobste.rs/s/1flvbs/advent_technical_writing_internal_dry) - [Advent of Technical Writing: Internal Dry Run](https://jamesg.blog/2023/12/11/technical-writing-dry-run/)
 * [2023-12-11, 15:23:47](https://lobste.rs/s/sd9kqb/install_nixos_with_flake_configuration) - [Install NixOS with Flake configuration on Git](https://nixos.asia/en/tutorial/nixos-install)
