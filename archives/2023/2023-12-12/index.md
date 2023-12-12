@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-12](index.md)
 
+* [2023-12-12, 10:38:22](https://lobste.rs/s/thb6u6/announcing_nuekit_simple_next_js_astro) - [Announcing Nuekit: A simple Next.js and Astro alternative with unversal hot-reloading](https://nuejs.org/blog/nuekit-010/)
 * [2023-12-12, 07:14:54](https://lobste.rs/s/0tl60l/bf_sys_fantasy_computer_uses_brainfuck_as) - [BF-SYS: A fantasy computer that uses brainfuck as its instruction set](https://brainfuck.zptr.cc/)
 * [2023-12-12, 05:59:07](https://lobste.rs/s/ysyhy8/dear_manager_employee_with_imposter) - [Dear manager of the employee with Imposter Syndrome](https://jaywhy13.hashnode.dev/dear-manager-of-the-employee-with-imposter-syndrome)
 * [2023-12-12, 02:51:33](https://lobste.rs/s/c1szxj/introducing_firedbg_time_traveling) - [Introducing FireDBG, a time traveling visual debugger for Rust](https://firedbg.sea-ql.org/blog/2023-12-12-introducing-firedbg/)
