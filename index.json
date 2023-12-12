@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-12, 11:43:15",
+      "https://lobste.rs/s/qbc6rk/gccpreprocesshtml_preprocess_html_with"
+    ],
+    [
+      "GCCPreprocessHTML: Preprocess HTML with the GCC preprocessor",
+      "https://github.com/RGBCube/GCCPreprocessHTML"
+    ]
+  ],
+  [
+    [
       "2023-12-12, 10:38:22",
       "https://lobste.rs/s/thb6u6/announcing_nuekit_simple_next_js_astro"
     ],
@@ -237,16 +247,6 @@
     [
       "Non-Send Futures When?",
       "https://matklad.github.io/2023/12/10/nsfw.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-10, 14:39:29",
-      "https://lobste.rs/s/jofho9/case_study_on_vanilla_web_development"
-    ],
-    [
-      "A case study on vanilla web development (2020)",
-      "https://github.com/morris/vanilla-todo"
     ]
   ]
 ]
