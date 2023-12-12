@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-12](index.md)
 
+* [2023-12-12, 19:04:32](https://lobste.rs/s/oxnuqm/what_if_sql_statement_returned_database) - [What if an SQL Statement Returned a Database?](https://arxiv.org/abs/2312.00638)
+* [2023-12-12, 18:57:45](https://lobste.rs/s/oigrb8/building_web_game_c) - [Building a Web Game in C](https://anguscheng.com/post/2023-12-12-wasm-game-in-c-raylib/)
 * [2023-12-12, 18:21:48](https://lobste.rs/s/me3bmv/zero_downtime_postgres_upgrades) - [Zero downtime Postgres upgrades](https://knock.app/blog/zero-downtime-postgres-upgrades)
 * [2023-12-12, 18:09:13](https://lobste.rs/s/hnxpps/why_if_type_checking) - [Why if TYPE_CHECKING?](https://vickiboykis.com/2023/12/11/why-if-type_checking/)
 * [2023-12-12, 17:41:11](https://lobste.rs/s/ihukmo/my_top_7_perl_new_features) - [My Top 7 Perl New Features](https://perladvent.org/2023/2023-12-12.html)
