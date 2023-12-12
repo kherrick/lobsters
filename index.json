@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2023-12-12, 02:32:06",
-      "https://lobste.rs/s/qlyzco/number_theory_explained_from_first"
-    ],
-    [
-      "Number Theory Explained from First Principles",
-      "https://explained-from-first-principles.com/number-theory/"
-    ]
-  ],
-  [
-    [
       "2023-12-12, 02:10:15",
       "https://lobste.rs/s/uqv7wp/rfc_for_status_420_requester_impaired"
     ],
@@ -217,6 +207,16 @@
     [
       "The hidden depths of the input element",
       "https://www.htmhell.dev/adventcalendar/2023/8/"
+    ]
+  ],
+  [
+    [
+      "2023-12-11, 18:43:47",
+      "https://lobste.rs/s/lrqcfs/linux_scheduler_decade_wasted_cores_2016"
+    ],
+    [
+      "The Linux Scheduler: A Decade of Wasted Cores (2016)",
+      "https://people.ece.ubc.ca/sasha/papers/eurosys16-final29.pdf"
     ]
   ],
   [
