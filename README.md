@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-12, 12:39:05](https://lobste.rs/s/q1hiod/trying_chdb_embeddable_clickhouse) - [Trying chDB, an embeddable ClickHouse engine](https://antonz.org/trying-chdb/)
 * [2023-12-12, 11:43:15](https://lobste.rs/s/qbc6rk/gccpreprocesshtml_preprocess_html_with) - [GCCPreprocessHTML: Preprocess HTML with the GCC preprocessor](https://github.com/RGBCube/GCCPreprocessHTML)
 * [2023-12-12, 10:38:22](https://lobste.rs/s/thb6u6/announcing_nuekit_simple_next_js_astro) - [Announcing Nuekit: A simple Next.js and Astro alternative with unversal hot-reloading](https://nuejs.org/blog/nuekit-010/)
 * [2023-12-12, 07:14:54](https://lobste.rs/s/0tl60l/bf_sys_fantasy_computer_uses_brainfuck_as) - [BF-SYS: A fantasy computer that uses brainfuck as its instruction set](https://brainfuck.zptr.cc/)
@@ -23,7 +24,6 @@
 * [2023-12-11, 13:14:20](https://lobste.rs/s/oiy3kj/fossil_git_alternative_with_batteries) - [Fossil: A Git alternative with batteries included](https://fossil-scm.org/)
 * [2023-12-11, 11:41:51](https://lobste.rs/s/abni7c/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/abni7c/what_are_you_doing_this_week)
 * [2023-12-11, 04:07:24](https://lobste.rs/s/yyt9ha/pull_request_review_still_files) - [Pull request review: still files](https://dxuuu.xyz/prr2.html)
-* [2023-12-11, 03:58:53](https://lobste.rs/s/rxd5di/adelie_linux_1_0_beta5_released) - [Adélie Linux 1.0-BETA5 Released](https://blog.adelielinux.org/2023/12/10/adelie-linux-1-0-beta5-released/)
 * [2023-12-11, 03:17:26](https://lobste.rs/s/9q7awe/non_send_futures_when) - [Non-Send Futures When?](https://matklad.github.io/2023/12/10/nsfw.html)
 
 ## [Archives](archives/index.md)
