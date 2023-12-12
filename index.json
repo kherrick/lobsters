@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-12, 02:51:33",
+      "https://lobste.rs/s/c1szxj/introducing_firedbg_time_traveling"
+    ],
+    [
+      "Introducing FireDBG, a time traveling visual debugger for Rust",
+      "https://firedbg.sea-ql.org/blog/2023-12-12-introducing-firedbg/"
+    ]
+  ],
+  [
+    [
       "2023-12-12, 02:32:06",
       "https://lobste.rs/s/qlyzco/number_theory_explained_from_first"
     ],
@@ -197,16 +207,6 @@
     [
       "templ - A language for writing HTML user interfaces in Go",
       "https://templ.guide"
-    ]
-  ],
-  [
-    [
-      "2023-12-11, 04:29:20",
-      "https://lobste.rs/s/sfrhm1/convolutional_network_demo_from_1989"
-    ],
-    [
-      "Convolutional Network Demo from 1989",
-      "https://www.youtube.com/watch?v=FwFduRA_L6Q"
     ]
   ],
   [
