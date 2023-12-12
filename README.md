@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-12, 18:21:48](https://lobste.rs/s/me3bmv/zero_downtime_postgres_upgrades) - [Zero downtime Postgres upgrades](https://knock.app/blog/zero-downtime-postgres-upgrades)
 * [2023-12-12, 18:09:13](https://lobste.rs/s/hnxpps/why_if_type_checking) - [Why if TYPE_CHECKING?](https://vickiboykis.com/2023/12/11/why-if-type_checking/)
 * [2023-12-12, 17:41:11](https://lobste.rs/s/ihukmo/my_top_7_perl_new_features) - [My Top 7 Perl New Features](https://perladvent.org/2023/2023-12-12.html)
 * [2023-12-12, 15:51:50](https://lobste.rs/s/wihnvf/1500_archers_on_28_8_network_programming) - [1500 Archers on a 28.8: Network Programming in Age of Empires 2 (2001)](https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond)
@@ -7,7 +8,6 @@
 * [2023-12-12, 15:01:26](https://lobste.rs/s/ffvyfn/as_chatgpt_gets_lazy_people_test_winter) - [As ChatGPT gets “lazy,” people test “winter break hypothesis” as the cause](https://arstechnica.com/information-technology/2023/12/is-chatgpt-becoming-lazier-because-its-december-people-run-tests-to-find-out/)
 * [2023-12-12, 14:44:43](https://lobste.rs/s/sup3yz/webp_is_so_great_except_it_s_not_2021) - [WebP is so great… except it's not (2021)](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
 * [2023-12-12, 13:28:54](https://lobste.rs/s/b8jgsn/solving_looming_developer_liability) - [Solving the Looming Developer Liability Problem](https://blog.hansenpartnership.com/solving-the-looming-developer-liability-problem/)
-* [2023-12-12, 13:22:03](https://lobste.rs/s/atnqq9/dungeons_directories) - [Dungeons and Directories](https://wheybags.com/dungeons_and_directories/)
 * [2023-12-12, 13:19:14](https://lobste.rs/s/35p6xg/mysterious_second_parameter_x86_enter) - [The mysterious second parameter to the x86 ENTER instruction](https://devblogs.microsoft.com/oldnewthing/20231211-00/?p=109126)
 * [2023-12-12, 12:39:05](https://lobste.rs/s/q1hiod/trying_chdb_embeddable_clickhouse) - [Trying chDB, an embeddable ClickHouse engine](https://antonz.org/trying-chdb/)
 * [2023-12-12, 11:43:15](https://lobste.rs/s/qbc6rk/gccpreprocesshtml_preprocess_html_with) - [GCCPreprocessHTML: Preprocess HTML with the GCC preprocessor](https://github.com/RGBCube/GCCPreprocessHTML)
