@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-12, 20:22:10](https://lobste.rs/s/axeceu/i_formally_modeled_dreidel_for_no_good) - [I formally modeled Dreidel for no good reason](https://buttondown.email/hillelwayne/archive/i-formally-modeled-dreidel-for-no-good-reason/)
 * [2023-12-12, 19:44:53](https://lobste.rs/s/fu9ebt/reclaiming_web_with_personal_reader) - [Reclaiming the Web with a Personal Reader](https://olano.dev/2023-12-12-reclaiming-the-web-with-a-personal-reader/)
 * [2023-12-12, 19:04:32](https://lobste.rs/s/oxnuqm/what_if_sql_statement_returned_database) - [What if an SQL Statement Returned a Database?](https://arxiv.org/abs/2312.00638)
 * [2023-12-12, 18:57:45](https://lobste.rs/s/oigrb8/building_web_game_c) - [Building a Web Game in C](https://anguscheng.com/post/2023-12-12-wasm-game-in-c-raylib/)
@@ -17,7 +18,6 @@
 * [2023-12-12, 10:38:22](https://lobste.rs/s/thb6u6/announcing_nuekit_simple_next_js_astro) - [Announcing Nuekit: A simple Next.js and Astro alternative with unversal hot-reloading](https://nuejs.org/blog/nuekit-010/)
 * [2023-12-12, 02:51:33](https://lobste.rs/s/c1szxj/introducing_firedbg_time_traveling) - [Introducing FireDBG, a time traveling visual debugger for Rust](https://firedbg.sea-ql.org/blog/2023-12-12-introducing-firedbg/)
 * [2023-12-12, 02:10:15](https://lobste.rs/s/uqv7wp/rfc_for_status_420_requester_impaired) - [RFC for Status 420: Requester Impaired](https://www.ietf.org/archive/id/draft-richardroda-420requesterimpaired-02.html)
-* [2023-12-12, 00:54:44](https://lobste.rs/s/35agnv/behavior_belongs_html) - [Behavior Belongs in the HTML](https://unplannedobsolescence.com/blog/behavior-belongs-in-html/)
 * [2023-12-12, 00:46:49](https://lobste.rs/s/mro75n/trade_offs_between_different_crdts) - [Trade-offs between Different CRDTs](https://interjectedfuture.com/trade-offs-between-different-crdts/)
 * [2023-12-11, 21:49:46](https://lobste.rs/s/wd7coj/webkit_features_safari_17_2) - [WebKit Features in Safari 17.2](https://webkit.org/blog/14787/webkit-features-in-safari-17-2/)
 * [2023-12-11, 21:14:26](https://lobste.rs/s/iigag9/ubuntu_risc_v_64_guest_on_x86_64_kvm_host) - [Ubuntu RISC-V 64 Guest on an x86_64 KVM Host](https://blog.adamretter.org.uk/ubuntu-riscv64-guest-on-kvm/)
