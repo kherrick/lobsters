@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-12, 18:21:48",
+      "https://lobste.rs/s/me3bmv/zero_downtime_postgres_upgrades"
+    ],
+    [
+      "Zero downtime Postgres upgrades",
+      "https://knock.app/blog/zero-downtime-postgres-upgrades"
+    ]
+  ],
+  [
+    [
       "2023-12-12, 18:09:13",
       "https://lobste.rs/s/hnxpps/why_if_type_checking"
     ],
@@ -67,16 +77,6 @@
     [
       "Solving the Looming Developer Liability Problem",
       "https://blog.hansenpartnership.com/solving-the-looming-developer-liability-problem/"
-    ]
-  ],
-  [
-    [
-      "2023-12-12, 13:22:03",
-      "https://lobste.rs/s/atnqq9/dungeons_directories"
-    ],
-    [
-      "Dungeons and Directories",
-      "https://wheybags.com/dungeons_and_directories/"
     ]
   ],
   [
