@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-12, 07:14:54](https://lobste.rs/s/0tl60l/bf_sys_fantasy_computer_uses_brainfuck_as) - [BF-SYS: A fantasy computer that uses brainfuck as its instruction set](https://brainfuck.zptr.cc/)
 * [2023-12-12, 05:59:07](https://lobste.rs/s/ysyhy8/dear_manager_employee_with_imposter) - [Dear manager of the employee with Imposter Syndrome](https://jaywhy13.hashnode.dev/dear-manager-of-the-employee-with-imposter-syndrome)
 * [2023-12-12, 02:51:33](https://lobste.rs/s/c1szxj/introducing_firedbg_time_traveling) - [Introducing FireDBG, a time traveling visual debugger for Rust](https://firedbg.sea-ql.org/blog/2023-12-12-introducing-firedbg/)
 * [2023-12-12, 02:32:06](https://lobste.rs/s/qlyzco/number_theory_explained_from_first) - [Number Theory Explained from First Principles](https://explained-from-first-principles.com/number-theory/)
@@ -20,7 +21,6 @@
 * [2023-12-11, 13:14:20](https://lobste.rs/s/oiy3kj/fossil_git_alternative_with_batteries) - [Fossil: A Git alternative with batteries included](https://fossil-scm.org/)
 * [2023-12-11, 11:41:51](https://lobste.rs/s/abni7c/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/abni7c/what_are_you_doing_this_week)
 * [2023-12-11, 08:08:58](https://lobste.rs/s/qncslt/fixing_classical_cats_how_i_got_tricked_by) - [Fixing Classical Cats; or, How I Got Tricked by 28-year-old Defensive Programming](https://www.mistys-internet.website/blog/blog/2023/12/10/fixing-classical-cats-or/)
-* [2023-12-11, 05:47:48](https://lobste.rs/s/nvcauq/templ_language_for_writing_html_user) - [templ - A language for writing HTML user interfaces in Go](https://templ.guide)
 * [2023-12-11, 04:07:24](https://lobste.rs/s/yyt9ha/pull_request_review_still_files) - [Pull request review: still files](https://dxuuu.xyz/prr2.html)
 * [2023-12-11, 03:58:53](https://lobste.rs/s/rxd5di/adelie_linux_1_0_beta5_released) - [Adélie Linux 1.0-BETA5 Released](https://blog.adelielinux.org/2023/12/10/adelie-linux-1-0-beta5-released/)
 * [2023-12-11, 03:17:26](https://lobste.rs/s/9q7awe/non_send_futures_when) - [Non-Send Futures When?](https://matklad.github.io/2023/12/10/nsfw.html)
