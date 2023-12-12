@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-12, 13:28:54](https://lobste.rs/s/b8jgsn/solving_looming_developer_liability) - [Solving the Looming Developer Liability Problem](https://blog.hansenpartnership.com/solving-the-looming-developer-liability-problem/)
+* [2023-12-12, 13:22:03](https://lobste.rs/s/atnqq9/dungeons_directories) - [Dungeons and Directories](https://wheybags.com/dungeons_and_directories/)
 * [2023-12-12, 13:19:14](https://lobste.rs/s/35p6xg/mysterious_second_parameter_x86_enter) - [The mysterious second parameter to the x86 ENTER instruction](https://devblogs.microsoft.com/oldnewthing/20231211-00/?p=109126)
 * [2023-12-12, 12:39:05](https://lobste.rs/s/q1hiod/trying_chdb_embeddable_clickhouse) - [Trying chDB, an embeddable ClickHouse engine](https://antonz.org/trying-chdb/)
 * [2023-12-12, 11:43:15](https://lobste.rs/s/qbc6rk/gccpreprocesshtml_preprocess_html_with) - [GCCPreprocessHTML: Preprocess HTML with the GCC preprocessor](https://github.com/RGBCube/GCCPreprocessHTML)
@@ -22,9 +24,7 @@
 * [2023-12-11, 14:29:55](https://lobste.rs/s/dqwcos/how_relational_algebra_powers_klaro) - [How Relational Algebra powers Klaro Cards](https://www.klaro.cards/blog/2023/12/08/111-how-relation-algebra-powers-klaro-cards)
 * [2023-12-11, 13:45:07](https://lobste.rs/s/nwqrsz/cyber_v0_3_new_jit_compiler_embed_api_more) - [Cyber v0.3: New JIT compiler, Embed API, and more](https://cyberscript.dev/0.3/index.html)
 * [2023-12-11, 13:14:20](https://lobste.rs/s/oiy3kj/fossil_git_alternative_with_batteries) - [Fossil: A Git alternative with batteries included](https://fossil-scm.org/)
-* [2023-12-11, 11:41:51](https://lobste.rs/s/abni7c/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/abni7c/what_are_you_doing_this_week)
 * [2023-12-11, 04:07:24](https://lobste.rs/s/yyt9ha/pull_request_review_still_files) - [Pull request review: still files](https://dxuuu.xyz/prr2.html)
-* [2023-12-11, 03:17:26](https://lobste.rs/s/9q7awe/non_send_futures_when) - [Non-Send Futures When?](https://matklad.github.io/2023/12/10/nsfw.html)
 
 ## [Archives](archives/index.md)
 

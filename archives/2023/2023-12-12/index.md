@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-12](index.md)
 
+* [2023-12-12, 13:28:54](https://lobste.rs/s/b8jgsn/solving_looming_developer_liability) - [Solving the Looming Developer Liability Problem](https://blog.hansenpartnership.com/solving-the-looming-developer-liability-problem/)
+* [2023-12-12, 13:22:03](https://lobste.rs/s/atnqq9/dungeons_directories) - [Dungeons and Directories](https://wheybags.com/dungeons_and_directories/)
 * [2023-12-12, 13:19:14](https://lobste.rs/s/35p6xg/mysterious_second_parameter_x86_enter) - [The mysterious second parameter to the x86 ENTER instruction](https://devblogs.microsoft.com/oldnewthing/20231211-00/?p=109126)
 * [2023-12-12, 12:39:05](https://lobste.rs/s/q1hiod/trying_chdb_embeddable_clickhouse) - [Trying chDB, an embeddable ClickHouse engine](https://antonz.org/trying-chdb/)
 * [2023-12-12, 11:43:15](https://lobste.rs/s/qbc6rk/gccpreprocesshtml_preprocess_html_with) - [GCCPreprocessHTML: Preprocess HTML with the GCC preprocessor](https://github.com/RGBCube/GCCPreprocessHTML)
