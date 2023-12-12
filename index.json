@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-12, 22:17:17",
+      "https://lobste.rs/s/lnixir/openany_macos_app_file_launching"
+    ],
+    [
+      "OpenAny: macOS app and file launching springboard",
+      "https://github.com/CleanCocoa/OpenAny"
+    ]
+  ],
+  [
+    [
       "2023-12-12, 20:22:10",
       "https://lobste.rs/s/axeceu/i_formally_modeled_dreidel_for_no_good"
     ],
@@ -187,16 +197,6 @@
     [
       "Trade-offs between Different CRDTs",
       "https://interjectedfuture.com/trade-offs-between-different-crdts/"
-    ]
-  ],
-  [
-    [
-      "2023-12-11, 21:49:46",
-      "https://lobste.rs/s/wd7coj/webkit_features_safari_17_2"
-    ],
-    [
-      "WebKit Features in Safari 17.2",
-      "https://webkit.org/blog/14787/webkit-features-in-safari-17-2/"
     ]
   ],
   [
