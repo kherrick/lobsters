@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-12](index.md)
 
+* [2023-12-12, 18:09:13](https://lobste.rs/s/hnxpps/why_if_type_checking) - [Why if TYPE_CHECKING?](https://vickiboykis.com/2023/12/11/why-if-type_checking/)
 * [2023-12-12, 17:41:11](https://lobste.rs/s/ihukmo/my_top_7_perl_new_features) - [My Top 7 Perl New Features](https://perladvent.org/2023/2023-12-12.html)
 * [2023-12-12, 15:51:50](https://lobste.rs/s/wihnvf/1500_archers_on_28_8_network_programming) - [1500 Archers on a 28.8: Network Programming in Age of Empires 2 (2001)](https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond)
 * [2023-12-12, 15:47:39](https://lobste.rs/s/67brng/llms_make_programming_language_learning) - [LLMs make Programming Language Learning Curves Shallower](https://earthly.dev/blog/future-is-rusty/)
