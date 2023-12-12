@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-12](index.md)
 
+* [2023-12-12, 19:44:53](https://lobste.rs/s/fu9ebt/reclaiming_web_with_personal_reader) - [Reclaiming the Web with a Personal Reader](https://olano.dev/2023-12-12-reclaiming-the-web-with-a-personal-reader/)
 * [2023-12-12, 19:04:32](https://lobste.rs/s/oxnuqm/what_if_sql_statement_returned_database) - [What if an SQL Statement Returned a Database?](https://arxiv.org/abs/2312.00638)
 * [2023-12-12, 18:57:45](https://lobste.rs/s/oigrb8/building_web_game_c) - [Building a Web Game in C](https://anguscheng.com/post/2023-12-12-wasm-game-in-c-raylib/)
 * [2023-12-12, 18:21:48](https://lobste.rs/s/me3bmv/zero_downtime_postgres_upgrades) - [Zero downtime Postgres upgrades](https://knock.app/blog/zero-downtime-postgres-upgrades)
