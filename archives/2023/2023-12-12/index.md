@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-12](index.md)
 
+* [2023-12-12, 14:44:43](https://lobste.rs/s/sup3yz/webp_is_so_great_except_it_s_not_2021) - [WebP is so great… except it's not (2021)](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
 * [2023-12-12, 13:28:54](https://lobste.rs/s/b8jgsn/solving_looming_developer_liability) - [Solving the Looming Developer Liability Problem](https://blog.hansenpartnership.com/solving-the-looming-developer-liability-problem/)
 * [2023-12-12, 13:22:03](https://lobste.rs/s/atnqq9/dungeons_directories) - [Dungeons and Directories](https://wheybags.com/dungeons_and_directories/)
 * [2023-12-12, 13:19:14](https://lobste.rs/s/35p6xg/mysterious_second_parameter_x86_enter) - [The mysterious second parameter to the x86 ENTER instruction](https://devblogs.microsoft.com/oldnewthing/20231211-00/?p=109126)
