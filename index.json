@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-12, 19:04:32",
+      "https://lobste.rs/s/oxnuqm/what_if_sql_statement_returned_database"
+    ],
+    [
+      "What if an SQL Statement Returned a Database?",
+      "https://arxiv.org/abs/2312.00638"
+    ]
+  ],
+  [
+    [
+      "2023-12-12, 18:57:45",
+      "https://lobste.rs/s/oigrb8/building_web_game_c"
+    ],
+    [
+      "Building a Web Game in C",
+      "https://anguscheng.com/post/2023-12-12-wasm-game-in-c-raylib/"
+    ]
+  ],
+  [
+    [
       "2023-12-12, 18:21:48",
       "https://lobste.rs/s/me3bmv/zero_downtime_postgres_upgrades"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2023-12-11, 18:43:47",
-      "https://lobste.rs/s/lrqcfs/linux_scheduler_decade_wasted_cores_2016"
-    ],
-    [
-      "The Linux Scheduler: A Decade of Wasted Cores (2016)",
-      "https://people.ece.ubc.ca/sasha/papers/eurosys16-final29.pdf"
-    ]
-  ],
-  [
-    [
       "2023-12-11, 15:14:22",
       "https://lobste.rs/s/n9tccg/huh_tui_form_builder"
     ],
     [
       "huh? A TUI form builder",
       "https://github.com/charmbracelet/huh"
-    ]
-  ],
-  [
-    [
-      "2023-12-11, 14:29:55",
-      "https://lobste.rs/s/dqwcos/how_relational_algebra_powers_klaro"
-    ],
-    [
-      "How Relational Algebra powers Klaro Cards",
-      "https://www.klaro.cards/blog/2023/12/08/111-how-relation-algebra-powers-klaro-cards"
     ]
   ],
   [
