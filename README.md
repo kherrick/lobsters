@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-12, 17:41:11](https://lobste.rs/s/ihukmo/my_top_7_perl_new_features) - [My Top 7 Perl New Features](https://perladvent.org/2023/2023-12-12.html)
 * [2023-12-12, 15:51:50](https://lobste.rs/s/wihnvf/1500_archers_on_28_8_network_programming) - [1500 Archers on a 28.8: Network Programming in Age of Empires 2 (2001)](https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond)
 * [2023-12-12, 15:47:39](https://lobste.rs/s/67brng/llms_make_programming_language_learning) - [LLMs make Programming Language Learning Curves Shallower](https://earthly.dev/blog/future-is-rusty/)
 * [2023-12-12, 15:01:26](https://lobste.rs/s/ffvyfn/as_chatgpt_gets_lazy_people_test_winter) - [As ChatGPT gets “lazy,” people test “winter break hypothesis” as the cause](https://arstechnica.com/information-technology/2023/12/is-chatgpt-becoming-lazier-because-its-december-people-run-tests-to-find-out/)
@@ -10,7 +11,6 @@
 * [2023-12-12, 12:39:05](https://lobste.rs/s/q1hiod/trying_chdb_embeddable_clickhouse) - [Trying chDB, an embeddable ClickHouse engine](https://antonz.org/trying-chdb/)
 * [2023-12-12, 11:43:15](https://lobste.rs/s/qbc6rk/gccpreprocesshtml_preprocess_html_with) - [GCCPreprocessHTML: Preprocess HTML with the GCC preprocessor](https://github.com/RGBCube/GCCPreprocessHTML)
 * [2023-12-12, 10:38:22](https://lobste.rs/s/thb6u6/announcing_nuekit_simple_next_js_astro) - [Announcing Nuekit: A simple Next.js and Astro alternative with unversal hot-reloading](https://nuejs.org/blog/nuekit-010/)
-* [2023-12-12, 07:14:54](https://lobste.rs/s/0tl60l/bf_sys_fantasy_computer_uses_brainfuck_as) - [BF-SYS: A fantasy computer that uses brainfuck as its instruction set](https://brainfuck.zptr.cc/)
 * [2023-12-12, 02:51:33](https://lobste.rs/s/c1szxj/introducing_firedbg_time_traveling) - [Introducing FireDBG, a time traveling visual debugger for Rust](https://firedbg.sea-ql.org/blog/2023-12-12-introducing-firedbg/)
 * [2023-12-12, 02:32:06](https://lobste.rs/s/qlyzco/number_theory_explained_from_first) - [Number Theory Explained from First Principles](https://explained-from-first-principles.com/number-theory/)
 * [2023-12-12, 02:10:15](https://lobste.rs/s/uqv7wp/rfc_for_status_420_requester_impaired) - [RFC for Status 420: Requester Impaired](https://www.ietf.org/archive/id/draft-richardroda-420requesterimpaired-02.html)
