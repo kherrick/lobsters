@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-12, 13:19:14](https://lobste.rs/s/35p6xg/mysterious_second_parameter_x86_enter) - [The mysterious second parameter to the x86 ENTER instruction](https://devblogs.microsoft.com/oldnewthing/20231211-00/?p=109126)
 * [2023-12-12, 12:39:05](https://lobste.rs/s/q1hiod/trying_chdb_embeddable_clickhouse) - [Trying chDB, an embeddable ClickHouse engine](https://antonz.org/trying-chdb/)
 * [2023-12-12, 11:43:15](https://lobste.rs/s/qbc6rk/gccpreprocesshtml_preprocess_html_with) - [GCCPreprocessHTML: Preprocess HTML with the GCC preprocessor](https://github.com/RGBCube/GCCPreprocessHTML)
 * [2023-12-12, 10:38:22](https://lobste.rs/s/thb6u6/announcing_nuekit_simple_next_js_astro) - [Announcing Nuekit: A simple Next.js and Astro alternative with unversal hot-reloading](https://nuejs.org/blog/nuekit-010/)
@@ -11,7 +12,6 @@
 * [2023-12-12, 00:54:44](https://lobste.rs/s/35agnv/behavior_belongs_html) - [Behavior Belongs in the HTML](https://unplannedobsolescence.com/blog/behavior-belongs-in-html/)
 * [2023-12-12, 00:46:49](https://lobste.rs/s/mro75n/trade_offs_between_different_crdts) - [Trade-offs between Different CRDTs](https://interjectedfuture.com/trade-offs-between-different-crdts/)
 * [2023-12-11, 21:49:46](https://lobste.rs/s/wd7coj/webkit_features_safari_17_2) - [WebKit Features in Safari 17.2](https://webkit.org/blog/14787/webkit-features-in-safari-17-2/)
-* [2023-12-11, 21:33:34](https://lobste.rs/s/hsspdo/cve_2023_28197_inputcontrol) - [CVE-2023-28197: inputcontrol](https://blog.joscomputing.space/blog/inputcontrol/)
 * [2023-12-11, 21:14:26](https://lobste.rs/s/iigag9/ubuntu_risc_v_64_guest_on_x86_64_kvm_host) - [Ubuntu RISC-V 64 Guest on an x86_64 KVM Host](https://blog.adamretter.org.uk/ubuntu-riscv64-guest-on-kvm/)
 * [2023-12-11, 20:58:51](https://lobste.rs/s/iq3wbg/hidden_depths_input_element) - [The hidden depths of the input element](https://www.htmhell.dev/adventcalendar/2023/8/)
 * [2023-12-11, 20:26:14](https://lobste.rs/s/uwlbhh/doom_turned_thirty) - [DOOM Turned Thirty](https://brainbaking.com/post/2023/12/doom-turned-thirty/)
