@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-12, 11:43:15](https://lobste.rs/s/qbc6rk/gccpreprocesshtml_preprocess_html_with) - [GCCPreprocessHTML: Preprocess HTML with the GCC preprocessor](https://github.com/RGBCube/GCCPreprocessHTML)
 * [2023-12-12, 10:38:22](https://lobste.rs/s/thb6u6/announcing_nuekit_simple_next_js_astro) - [Announcing Nuekit: A simple Next.js and Astro alternative with unversal hot-reloading](https://nuejs.org/blog/nuekit-010/)
 * [2023-12-12, 07:14:54](https://lobste.rs/s/0tl60l/bf_sys_fantasy_computer_uses_brainfuck_as) - [BF-SYS: A fantasy computer that uses brainfuck as its instruction set](https://brainfuck.zptr.cc/)
 * [2023-12-12, 05:59:07](https://lobste.rs/s/ysyhy8/dear_manager_employee_with_imposter) - [Dear manager of the employee with Imposter Syndrome](https://jaywhy13.hashnode.dev/dear-manager-of-the-employee-with-imposter-syndrome)
@@ -24,7 +25,6 @@
 * [2023-12-11, 04:07:24](https://lobste.rs/s/yyt9ha/pull_request_review_still_files) - [Pull request review: still files](https://dxuuu.xyz/prr2.html)
 * [2023-12-11, 03:58:53](https://lobste.rs/s/rxd5di/adelie_linux_1_0_beta5_released) - [Adélie Linux 1.0-BETA5 Released](https://blog.adelielinux.org/2023/12/10/adelie-linux-1-0-beta5-released/)
 * [2023-12-11, 03:17:26](https://lobste.rs/s/9q7awe/non_send_futures_when) - [Non-Send Futures When?](https://matklad.github.io/2023/12/10/nsfw.html)
-* [2023-12-10, 14:39:29](https://lobste.rs/s/jofho9/case_study_on_vanilla_web_development) - [A case study on vanilla web development (2020)](https://github.com/morris/vanilla-todo)
 
 ## [Archives](archives/index.md)
 
