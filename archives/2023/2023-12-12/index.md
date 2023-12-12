@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2023-12-12](index.md)
 
+* [2023-12-12, 00:54:44](https://lobste.rs/s/35agnv/behavior_belongs_html) - [Behavior Belongs in the HTML](https://unplannedobsolescence.com/blog/behavior-belongs-in-html/)
 * [2023-12-12, 00:46:49](https://lobste.rs/s/mro75n/trade_offs_between_different_crdts) - [Trade-offs between Different CRDTs](https://interjectedfuture.com/trade-offs-between-different-crdts/)
