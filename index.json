@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-13, 18:36:21",
+      "https://lobste.rs/s/pjoft2/stop_hiding_sharp_knives_webassembly"
+    ],
+    [
+      "Stop Hiding The Sharp Knives: The WebAssembly Linux Interface",
+      "https://arxiv.org/abs/2312.03858"
+    ]
+  ],
+  [
+    [
+      "2023-12-13, 18:32:43",
+      "https://lobste.rs/s/lrl4bp/chatmail_replicable_fast_secure"
+    ],
+    [
+      "Chatmail - replicable, fast and secure chatting infrastructure for all",
+      "https://delta.chat/en/2023-12-13-chatmail"
+    ]
+  ],
+  [
+    [
       "2023-12-13, 18:27:37",
       "https://lobste.rs/s/ddngvw/comparison_self_meshing_vpns_mk16_de"
     ],
@@ -17,16 +37,6 @@
     [
       "Notes on OpenPGP",
       "https://openpgp.dev/"
-    ]
-  ],
-  [
-    [
-      "2023-12-13, 16:58:04",
-      "https://lobste.rs/s/twk5zj/supavisor_cloud_native_multi_tenant"
-    ],
-    [
-      "supavisor: A cloud-native, multi-tenant Postgres connection pooler",
-      "https://github.com/supabase/supavisor"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Hi, My Name Is Keyboard",
       "https://github.com/skysafe/reblog/tree/main/cve-2023-45866"
-    ]
-  ],
-  [
-    [
-      "2023-12-13, 02:42:12",
-      "https://lobste.rs/s/exklbz/finding_debugging_nushell_performance"
-    ],
-    [
-      "Finding And Debugging A Nushell Performance Issue",
-      "https://rtpg.co/2023/12/13/debugging-nu/"
     ]
   ],
   [
