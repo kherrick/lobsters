@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-13, 18:15:53](https://lobste.rs/s/hqesbo/notes_on_openpgp) - [Notes on OpenPGP](https://openpgp.dev/)
 * [2023-12-13, 16:58:04](https://lobste.rs/s/twk5zj/supavisor_cloud_native_multi_tenant) - [supavisor: A cloud-native, multi-tenant Postgres connection pooler](https://github.com/supabase/supavisor)
 * [2023-12-13, 16:51:14](https://lobste.rs/s/uvak1s/nesting_apis_readert_environments_with) - [Nesting APIs and ReaderT environments with Servant](https://nicolashery.com/nesting-reader-environments-servant/)
 * [2023-12-13, 16:23:08](https://lobste.rs/s/avrfxz/ubuntu_24_04_lts_will_enable_frame) - [Ubuntu 24.04 LTS will enable frame pointers by default](https://ubuntu.com/blog/ubuntu-performance-engineering-with-frame-pointers-by-default)
@@ -11,7 +12,6 @@
 * [2023-12-13, 13:47:37](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage) - [Lobste.rs domain renewal outage](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage)
 * [2023-12-13, 13:41:01](https://lobste.rs/s/q29msm/nixos_dns_manage_your_dns_zones_with_nixos) - [NixOS-DNS: Manage your dns zones with NixOS](https://github.com/Janik-Haag/nixos-dns/)
 * [2023-12-13, 11:04:32](https://lobste.rs/s/qnxhnh/making_it_harder_do_wrong) - [Making it harder to do wrong](https://daniel.haxx.se/blog/2023/12/13/making-it-harder-to-do-wrong/)
-* [2023-12-13, 09:12:33](https://lobste.rs/s/xtmgo9/introducing_memorycache_augmented) - [Introducing MemoryCache - Augmented Local AI](https://future.mozilla.org/blog/introducing-memorycache/)
 * [2023-12-13, 05:52:47](https://lobste.rs/s/65kosv/real_world_match_case) - [Real-world match/case](https://nedbatchelder.com/blog/202312/realworld_matchcase.html)
 * [2023-12-13, 04:59:29](https://lobste.rs/s/exax25/hi_my_name_is_keyboard) - [Hi, My Name Is Keyboard](https://github.com/skysafe/reblog/tree/main/cve-2023-45866)
 * [2023-12-13, 02:42:12](https://lobste.rs/s/exklbz/finding_debugging_nushell_performance) - [Finding And Debugging A Nushell Performance Issue](https://rtpg.co/2023/12/13/debugging-nu/)
