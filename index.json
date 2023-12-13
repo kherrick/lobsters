@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2023-12-13, 18:32:43",
+      "https://lobste.rs/s/lrl4bp/chatmail_replicable_fast_secure"
+    ],
+    [
+      "Chatmail - replicable, fast and secure chatting infrastructure for all",
+      "https://delta.chat/en/2023-12-13-chatmail"
+    ]
+  ],
+  [
+    [
       "2023-12-13, 18:27:37",
       "https://lobste.rs/s/ddngvw/comparison_self_meshing_vpns"
     ],
@@ -237,16 +247,6 @@
     [
       "Zero downtime Postgres upgrades",
       "https://knock.app/blog/zero-downtime-postgres-upgrades"
-    ]
-  ],
-  [
-    [
-      "2023-12-12, 14:44:43",
-      "https://lobste.rs/s/sup3yz/webp_is_so_great_except_it_s_not_2021"
-    ],
-    [
-      "WebP is so great… except it's not (2021)",
-      "https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/"
     ]
   ]
 ]
