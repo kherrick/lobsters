@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-13, 13:59:27](https://lobste.rs/s/8mdz42/debugging_failing_hotkey) - [Debugging A Failing Hotkey](https://tratt.net/laurie/blog/2023/debugging_a_failing_hotkey.html)
+* [2023-12-13, 13:55:03](https://lobste.rs/s/k53l1s/what_i_like_about_nix) - [What I Like About Nix](https://davi.sh/blog/2023/12/what-i-like-about-nix/)
 * [2023-12-13, 13:47:37](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage) - [Lobste.rs domain renewal outage](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage)
 * [2023-12-13, 13:42:19](https://lobste.rs/s/7qwq4g/openwrt_dewclaw_git_second_worst_way) - [openwrt - dewclaw.git - the second-worst way to configure openwrt, by some metric](https://git.eno.space/dewclaw.git/tree/openwrt)
 * [2023-12-13, 13:41:01](https://lobste.rs/s/q29msm/nixos_dns_manage_your_dns_zones_with_nixos) - [NixOS-DNS: Manage your dns zones with NixOS](https://github.com/Janik-Haag/nixos-dns/)
@@ -8,7 +10,6 @@
 * [2023-12-13, 05:52:47](https://lobste.rs/s/65kosv/real_world_match_case) - [Real-world match/case](https://nedbatchelder.com/blog/202312/realworld_matchcase.html)
 * [2023-12-13, 04:59:29](https://lobste.rs/s/exax25/hi_my_name_is_keyboard) - [Hi, My Name Is Keyboard](https://github.com/skysafe/reblog/tree/main/cve-2023-45866)
 * [2023-12-13, 02:42:12](https://lobste.rs/s/exklbz/finding_debugging_nushell_performance) - [Finding And Debugging A Nushell Performance Issue](https://rtpg.co/2023/12/13/debugging-nu/)
-* [2023-12-13, 01:44:13](https://lobste.rs/s/nhrm0j/what_is_debugger) - [What is a debugger?](https://gu.outerproduct.net/debug.html)
 * [2023-12-13, 00:33:04](https://lobste.rs/s/x9od8n/finding_unreachable_functions_with) - [Finding unreachable functions with deadcode](https://go.dev/blog/deadcode)
 * [2023-12-12, 22:17:17](https://lobste.rs/s/lnixir/openany_macos_app_file_launching) - [OpenAny: macOS app and file launching springboard](https://github.com/CleanCocoa/OpenAny)
 * [2023-12-12, 20:22:10](https://lobste.rs/s/axeceu/i_formally_modeled_dreidel_for_no_good) - [I formally modeled Dreidel for no good reason](https://buttondown.email/hillelwayne/archive/i-formally-modeled-dreidel-for-no-good-reason/)
@@ -24,7 +25,6 @@
 * [2023-12-12, 13:19:14](https://lobste.rs/s/35p6xg/mysterious_second_parameter_x86_enter) - [The mysterious second parameter to the x86 ENTER instruction](https://devblogs.microsoft.com/oldnewthing/20231211-00/?p=109126)
 * [2023-12-12, 12:39:05](https://lobste.rs/s/q1hiod/trying_chdb_embeddable_clickhouse) - [Trying chDB, an embeddable ClickHouse engine](https://antonz.org/trying-chdb/)
 * [2023-12-12, 11:43:15](https://lobste.rs/s/qbc6rk/gccpreprocesshtml_preprocess_html_with) - [GCCPreprocessHTML: Preprocess HTML with the GCC preprocessor](https://github.com/RGBCube/GCCPreprocessHTML)
-* [2023-12-12, 02:10:15](https://lobste.rs/s/uqv7wp/rfc_for_status_420_requester_impaired) - [RFC for Status 420: Requester Impaired](https://www.ietf.org/archive/id/draft-richardroda-420requesterimpaired-02.html)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
+* [2023-12-13, 13:59:27](https://lobste.rs/s/8mdz42/debugging_failing_hotkey) - [Debugging A Failing Hotkey](https://tratt.net/laurie/blog/2023/debugging_a_failing_hotkey.html)
+* [2023-12-13, 13:55:03](https://lobste.rs/s/k53l1s/what_i_like_about_nix) - [What I Like About Nix](https://davi.sh/blog/2023/12/what-i-like-about-nix/)
 * [2023-12-13, 13:47:37](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage) - [Lobste.rs domain renewal outage](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage)
 * [2023-12-13, 13:42:19](https://lobste.rs/s/7qwq4g/openwrt_dewclaw_git_second_worst_way) - [openwrt - dewclaw.git - the second-worst way to configure openwrt, by some metric](https://git.eno.space/dewclaw.git/tree/openwrt)
 * [2023-12-13, 13:41:01](https://lobste.rs/s/q29msm/nixos_dns_manage_your_dns_zones_with_nixos) - [NixOS-DNS: Manage your dns zones with NixOS](https://github.com/Janik-Haag/nixos-dns/)
