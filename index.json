@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-13, 16:58:04",
+      "https://lobste.rs/s/twk5zj/supavisor_cloud_native_multi_tenant"
+    ],
+    [
+      "supavisor: A cloud-native, multi-tenant Postgres connection pooler",
+      "https://github.com/supabase/supavisor"
+    ]
+  ],
+  [
+    [
       "2023-12-13, 16:51:14",
       "https://lobste.rs/s/uvak1s/nesting_apis_readert_environments_with"
     ],
@@ -77,16 +87,6 @@
     [
       "Lobste.rs domain renewal outage",
       "https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage"
-    ]
-  ],
-  [
-    [
-      "2023-12-13, 13:42:19",
-      "https://lobste.rs/s/7qwq4g/openwrt_dewclaw_git_second_worst_way"
-    ],
-    [
-      "openwrt - dewclaw.git - the second-worst way to configure openwrt, by some metric",
-      "https://git.eno.space/dewclaw.git/tree/openwrt"
     ]
   ],
   [
