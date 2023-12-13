@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-13, 19:45:32",
+      "https://lobste.rs/s/twxung/eevdf_cpu_scheduler_for_linux_lwn_net"
+    ],
+    [
+      "An EEVDF CPU scheduler for Linux [LWN.net]",
+      "https://lwn.net/Articles/925371/"
+    ]
+  ],
+  [
+    [
       "2023-12-13, 18:36:21",
       "https://lobste.rs/s/pjoft2/stop_hiding_sharp_knives_webassembly"
     ],
@@ -237,16 +247,6 @@
     [
       "WebP is so great… except it's not (2021)",
       "https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/"
-    ]
-  ],
-  [
-    [
-      "2023-12-12, 12:39:05",
-      "https://lobste.rs/s/q1hiod/trying_chdb_embeddable_clickhouse"
-    ],
-    [
-      "Trying chDB, an embeddable ClickHouse engine",
-      "https://antonz.org/trying-chdb/"
     ]
   ]
 ]
