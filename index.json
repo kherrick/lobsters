@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-13, 18:15:53",
+      "https://lobste.rs/s/hqesbo/notes_on_openpgp"
+    ],
+    [
+      "Notes on OpenPGP",
+      "https://openpgp.dev/"
+    ]
+  ],
+  [
+    [
       "2023-12-13, 16:58:04",
       "https://lobste.rs/s/twk5zj/supavisor_cloud_native_multi_tenant"
     ],
@@ -107,16 +117,6 @@
     [
       "Making it harder to do wrong",
       "https://daniel.haxx.se/blog/2023/12/13/making-it-harder-to-do-wrong/"
-    ]
-  ],
-  [
-    [
-      "2023-12-13, 09:12:33",
-      "https://lobste.rs/s/xtmgo9/introducing_memorycache_augmented"
-    ],
-    [
-      "Introducing MemoryCache - Augmented Local AI",
-      "https://future.mozilla.org/blog/introducing-memorycache/"
     ]
   ],
   [
