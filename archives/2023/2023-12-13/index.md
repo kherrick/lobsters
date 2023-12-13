@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
+* [2023-12-13, 19:45:32](https://lobste.rs/s/twxung/eevdf_cpu_scheduler_for_linux_lwn_net) - [An EEVDF CPU scheduler for Linux [LWN.net]](https://lwn.net/Articles/925371/)
 * [2023-12-13, 18:36:21](https://lobste.rs/s/pjoft2/stop_hiding_sharp_knives_webassembly) - [Stop Hiding The Sharp Knives: The WebAssembly Linux Interface](https://arxiv.org/abs/2312.03858)
 * [2023-12-13, 18:32:43](https://lobste.rs/s/lrl4bp/chatmail_replicable_fast_secure) - [Chatmail - replicable, fast and secure chatting infrastructure for all](https://delta.chat/en/2023-12-13-chatmail)
 * [2023-12-13, 18:27:37](https://lobste.rs/s/ddngvw/comparison_self_meshing_vpns_mk16_de) - [Comparison of self-meshing VPNs | mk16.de](https://mk16.de/blog/comparison-of-self-meshing-vpns/)
