@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-13, 19:58:00](https://lobste.rs/s/h9khgh/kernel_vs_user_level_networking_don_t) - [Kernel vs. User-Level Networking: Don't Throw Out the Stack with the Interrupts](https://dl.acm.org/doi/10.1145/3626780)
 * [2023-12-13, 19:45:32](https://lobste.rs/s/twxung/eevdf_cpu_scheduler_for_linux_lwn_net) - [An EEVDF CPU scheduler for Linux [LWN.net]](https://lwn.net/Articles/925371/)
 * [2023-12-13, 18:36:21](https://lobste.rs/s/pjoft2/stop_hiding_sharp_knives_webassembly) - [Stop Hiding The Sharp Knives: The WebAssembly Linux Interface](https://arxiv.org/abs/2312.03858)
 * [2023-12-13, 18:32:43](https://lobste.rs/s/lrl4bp/chatmail_replicable_fast_secure) - [Chatmail - replicable, fast and secure chatting infrastructure for all](https://delta.chat/en/2023-12-13-chatmail)
@@ -21,7 +22,6 @@
 * [2023-12-12, 20:22:10](https://lobste.rs/s/axeceu/i_formally_modeled_dreidel_for_no_good) - [I formally modeled Dreidel for no good reason](https://buttondown.email/hillelwayne/archive/i-formally-modeled-dreidel-for-no-good-reason/)
 * [2023-12-12, 19:44:53](https://lobste.rs/s/fu9ebt/reclaiming_web_with_personal_reader) - [Reclaiming the Web with a Personal Reader](https://olano.dev/2023-12-12-reclaiming-the-web-with-a-personal-reader/)
 * [2023-12-12, 18:21:48](https://lobste.rs/s/me3bmv/zero_downtime_postgres_upgrades) - [Zero downtime Postgres upgrades](https://knock.app/blog/zero-downtime-postgres-upgrades)
-* [2023-12-12, 17:41:11](https://lobste.rs/s/ihukmo/my_top_7_perl_new_features) - [My Top 7 Perl New Features](https://perladvent.org/2023/2023-12-12.html)
 * [2023-12-12, 15:47:39](https://lobste.rs/s/67brng/llms_make_programming_language_learning) - [LLMs make Programming Language Learning Curves Shallower](https://earthly.dev/blog/future-is-rusty/)
 * [2023-12-12, 15:01:26](https://lobste.rs/s/ffvyfn/as_chatgpt_gets_lazy_people_test_winter) - [As ChatGPT gets “lazy,” people test “winter break hypothesis” as the cause](https://arstechnica.com/information-technology/2023/12/is-chatgpt-becoming-lazier-because-its-december-people-run-tests-to-find-out/)
 * [2023-12-12, 14:44:43](https://lobste.rs/s/sup3yz/webp_is_so_great_except_it_s_not_2021) - [WebP is so great… except it's not (2021)](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
