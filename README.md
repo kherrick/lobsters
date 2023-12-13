@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-13, 16:23:08](https://lobste.rs/s/avrfxz/ubuntu_24_04_lts_will_enable_frame) - [Ubuntu 24.04 LTS will enable frame pointers by default](https://ubuntu.com/blog/ubuntu-performance-engineering-with-frame-pointers-by-default)
 * [2023-12-13, 14:53:32](https://lobste.rs/s/9pa3lb/htmx_is_erlang) - [htmx is a erlang](https://matt.sh/htmx-is-a-erlang)
 * [2023-12-13, 14:53:07](https://lobste.rs/s/h6rqol/ensuring_json_response_format_openai) - [Ensuring JSON Response Format in OpenAI Assistant API](https://scorpil.com/post/ensuring-json-response-format-in-openai-assistant-api/)
 * [2023-12-13, 14:19:23](https://lobste.rs/s/1ryrt6/personalizing_emacs_doc_navigation) - [Personalizing Emacs Doc Navigation](http://yummymelon.com/devnull/personalizing-emacs-doc-navigation.html)
@@ -24,7 +25,6 @@
 * [2023-12-12, 15:01:26](https://lobste.rs/s/ffvyfn/as_chatgpt_gets_lazy_people_test_winter) - [As ChatGPT gets “lazy,” people test “winter break hypothesis” as the cause](https://arstechnica.com/information-technology/2023/12/is-chatgpt-becoming-lazier-because-its-december-people-run-tests-to-find-out/)
 * [2023-12-12, 14:44:43](https://lobste.rs/s/sup3yz/webp_is_so_great_except_it_s_not_2021) - [WebP is so great… except it's not (2021)](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
 * [2023-12-12, 12:39:05](https://lobste.rs/s/q1hiod/trying_chdb_embeddable_clickhouse) - [Trying chDB, an embeddable ClickHouse engine](https://antonz.org/trying-chdb/)
-* [2023-12-12, 11:43:15](https://lobste.rs/s/qbc6rk/gccpreprocesshtml_preprocess_html_with) - [GCCPreprocessHTML: Preprocess HTML with the GCC preprocessor](https://github.com/RGBCube/GCCPreprocessHTML)
 
 ## [Archives](archives/index.md)
 
