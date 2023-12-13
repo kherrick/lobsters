@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
+* [2023-12-13, 13:47:37](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage) - [Lobste.rs domain renewal outage](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage)
 * [2023-12-13, 13:42:19](https://lobste.rs/s/7qwq4g/openwrt_dewclaw_git_second_worst_way) - [openwrt - dewclaw.git - the second-worst way to configure openwrt, by some metric](https://git.eno.space/dewclaw.git/tree/openwrt)
 * [2023-12-13, 13:41:01](https://lobste.rs/s/q29msm/nixos_dns_manage_your_dns_zones_with_nixos) - [NixOS-DNS: Manage your dns zones with NixOS](https://github.com/Janik-Haag/nixos-dns/)
 * [2023-12-13, 11:04:32](https://lobste.rs/s/qnxhnh/making_it_harder_do_wrong) - [Making it harder to do wrong](https://daniel.haxx.se/blog/2023/12/13/making-it-harder-to-do-wrong/)
