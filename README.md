@@ -8,6 +8,7 @@
 * [2023-12-13, 20:16:58](https://lobste.rs/s/b3tw7u/zombiezen_com_go_sqlite_reaches_1_0) - [zombiezen.com/go/sqlite reaches 1.0](https://www.zombiezen.com/blog/2023/12/go-sqlite-1-0/)
 * [2023-12-13, 19:58:00](https://lobste.rs/s/h9khgh/kernel_vs_user_level_networking_don_t) - [Kernel vs. User-Level Networking: Don't Throw Out the Stack with the Interrupts](https://dl.acm.org/doi/10.1145/3626780)
 * [2023-12-13, 18:36:21](https://lobste.rs/s/pjoft2/stop_hiding_sharp_knives_webassembly) - [Stop Hiding The Sharp Knives: The WebAssembly Linux Interface](https://arxiv.org/abs/2312.03858)
+* [2023-12-13, 18:32:43](https://lobste.rs/s/lrl4bp/chatmail_replicable_fast_secure) - [Chatmail - replicable, fast and secure chatting infrastructure for all](https://delta.chat/en/2023-12-13-chatmail)
 * [2023-12-13, 18:27:37](https://lobste.rs/s/ddngvw/comparison_self_meshing_vpns) - [Comparison of self-meshing VPNs](https://mk16.de/blog/comparison-of-self-meshing-vpns/)
 * [2023-12-13, 16:51:14](https://lobste.rs/s/uvak1s/nesting_apis_readert_environments_with) - [Nesting APIs and ReaderT environments with Servant](https://nicolashery.com/nesting-reader-environments-servant/)
 * [2023-12-13, 16:23:08](https://lobste.rs/s/avrfxz/ubuntu_24_04_lts_will_enable_frame) - [Ubuntu 24.04 LTS will enable frame pointers by default](https://ubuntu.com/blog/ubuntu-performance-engineering-with-frame-pointers-by-default)
@@ -24,7 +25,6 @@
 * [2023-12-12, 20:22:10](https://lobste.rs/s/axeceu/i_formally_modeled_dreidel_for_no_good) - [I formally modeled Dreidel for no good reason](https://buttondown.email/hillelwayne/archive/i-formally-modeled-dreidel-for-no-good-reason/)
 * [2023-12-12, 19:44:53](https://lobste.rs/s/fu9ebt/reclaiming_web_with_personal_reader) - [Reclaiming the Web with a Personal Reader](https://olano.dev/2023-12-12-reclaiming-the-web-with-a-personal-reader/)
 * [2023-12-12, 18:21:48](https://lobste.rs/s/me3bmv/zero_downtime_postgres_upgrades) - [Zero downtime Postgres upgrades](https://knock.app/blog/zero-downtime-postgres-upgrades)
-* [2023-12-12, 14:44:43](https://lobste.rs/s/sup3yz/webp_is_so_great_except_it_s_not_2021) - [WebP is so great… except it's not (2021)](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
 
 ## [Archives](archives/index.md)
 
