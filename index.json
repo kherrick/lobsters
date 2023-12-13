@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-13, 04:59:29",
+      "https://lobste.rs/s/exax25/hi_my_name_is_keyboard"
+    ],
+    [
+      "Hi, My Name Is Keyboard",
+      "https://github.com/skysafe/reblog/tree/main/cve-2023-45866"
+    ]
+  ],
+  [
+    [
       "2023-12-13, 04:16:58",
       "https://lobste.rs/s/q1ku0g/refactoring_let_s_go_let_s_go_further_s_code"
     ],
@@ -47,16 +57,6 @@
     [
       "Stop nesting ternaries in JavaScript",
       "https://www.sonarsource.com/blog/stop-nesting-ternaries-javascript/"
-    ]
-  ],
-  [
-    [
-      "2023-12-13, 00:10:45",
-      "https://lobste.rs/s/cjipy9/libreboot_10_year_anniversary"
-    ],
-    [
-      "Libreboot 10-year anniversary",
-      "https://libreboot.org/news/10.html"
     ]
   ],
   [
