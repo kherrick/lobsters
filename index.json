@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-13, 21:52:08",
+      "https://lobste.rs/s/vdtxib/best_webassembly_runtime_may_be_no"
+    ],
+    [
+      "The best WebAssembly runtime may be no runtime at all",
+      "https://00f.net/2023/12/11/webassembly-compilation-to-c/"
+    ]
+  ],
+  [
+    [
       "2023-12-13, 21:15:42",
       "https://lobste.rs/s/gssm5l/rfc_bridging_gh_workflows_with_b4"
     ],
@@ -227,16 +237,6 @@
     [
       "Zero downtime Postgres upgrades",
       "https://knock.app/blog/zero-downtime-postgres-upgrades"
-    ]
-  ],
-  [
-    [
-      "2023-12-12, 15:01:26",
-      "https://lobste.rs/s/ffvyfn/as_chatgpt_gets_lazy_people_test_winter"
-    ],
-    [
-      "As ChatGPT gets “lazy,” people test “winter break hypothesis” as the cause",
-      "https://arstechnica.com/information-technology/2023/12/is-chatgpt-becoming-lazier-because-its-december-people-run-tests-to-find-out/"
     ]
   ],
   [
