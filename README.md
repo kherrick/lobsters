@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-13, 02:42:12](https://lobste.rs/s/exklbz/finding_debugging_nushell_performance) - [Finding And Debugging A Nushell Performance Issue](https://rtpg.co/2023/12/13/debugging-nu/)
 * [2023-12-13, 01:44:13](https://lobste.rs/s/nhrm0j/what_is_debugger) - [What is a debugger?](https://gu.outerproduct.net/debug.html)
 * [2023-12-13, 00:22:51](https://lobste.rs/s/nq41tw/stop_nesting_ternaries_javascript) - [Stop nesting ternaries in JavaScript](https://www.sonarsource.com/blog/stop-nesting-ternaries-javascript/)
 * [2023-12-12, 22:17:17](https://lobste.rs/s/lnixir/openany_macos_app_file_launching) - [OpenAny: macOS app and file launching springboard](https://github.com/CleanCocoa/OpenAny)
@@ -22,7 +23,6 @@
 * [2023-12-12, 02:51:33](https://lobste.rs/s/c1szxj/introducing_firedbg_time_traveling) - [Introducing FireDBG, a time traveling visual debugger for Rust](https://firedbg.sea-ql.org/blog/2023-12-12-introducing-firedbg/)
 * [2023-12-12, 02:10:15](https://lobste.rs/s/uqv7wp/rfc_for_status_420_requester_impaired) - [RFC for Status 420: Requester Impaired](https://www.ietf.org/archive/id/draft-richardroda-420requesterimpaired-02.html)
 * [2023-12-12, 00:46:49](https://lobste.rs/s/mro75n/trade_offs_between_different_crdts) - [Trade-offs between Different CRDTs](https://interjectedfuture.com/trade-offs-between-different-crdts/)
-* [2023-12-11, 21:14:26](https://lobste.rs/s/iigag9/ubuntu_risc_v_64_guest_on_x86_64_kvm_host) - [Ubuntu RISC-V 64 Guest on an x86_64 KVM Host](https://blog.adamretter.org.uk/ubuntu-riscv64-guest-on-kvm/)
 * [2023-12-11, 15:14:22](https://lobste.rs/s/n9tccg/huh_tui_form_builder) - [huh? A TUI form builder](https://github.com/charmbracelet/huh)
 * [2023-12-11, 13:14:20](https://lobste.rs/s/oiy3kj/fossil_git_alternative_with_batteries) - [Fossil: A Git alternative with batteries included](https://fossil-scm.org/)
 
