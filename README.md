@@ -2,12 +2,13 @@
 
 * [2023-12-13, 02:42:12](https://lobste.rs/s/exklbz/finding_debugging_nushell_performance) - [Finding And Debugging A Nushell Performance Issue](https://rtpg.co/2023/12/13/debugging-nu/)
 * [2023-12-13, 01:44:13](https://lobste.rs/s/nhrm0j/what_is_debugger) - [What is a debugger?](https://gu.outerproduct.net/debug.html)
+* [2023-12-13, 00:33:04](https://lobste.rs/s/x9od8n/finding_unreachable_functions_with) - [Finding unreachable functions with deadcode](https://go.dev/blog/deadcode)
 * [2023-12-13, 00:22:51](https://lobste.rs/s/nq41tw/stop_nesting_ternaries_javascript) - [Stop nesting ternaries in JavaScript](https://www.sonarsource.com/blog/stop-nesting-ternaries-javascript/)
+* [2023-12-13, 00:10:45](https://lobste.rs/s/cjipy9/libreboot_10_year_anniversary) - [Libreboot 10-year anniversary](https://libreboot.org/news/10.html)
 * [2023-12-12, 22:17:17](https://lobste.rs/s/lnixir/openany_macos_app_file_launching) - [OpenAny: macOS app and file launching springboard](https://github.com/CleanCocoa/OpenAny)
 * [2023-12-12, 20:22:10](https://lobste.rs/s/axeceu/i_formally_modeled_dreidel_for_no_good) - [I formally modeled Dreidel for no good reason](https://buttondown.email/hillelwayne/archive/i-formally-modeled-dreidel-for-no-good-reason/)
 * [2023-12-12, 19:44:53](https://lobste.rs/s/fu9ebt/reclaiming_web_with_personal_reader) - [Reclaiming the Web with a Personal Reader](https://olano.dev/2023-12-12-reclaiming-the-web-with-a-personal-reader/)
 * [2023-12-12, 19:04:32](https://lobste.rs/s/oxnuqm/what_if_sql_statement_returned_database) - [What if an SQL Statement Returned a Database?](https://arxiv.org/abs/2312.00638)
-* [2023-12-12, 18:57:45](https://lobste.rs/s/oigrb8/building_web_game_c) - [Building a Web Game in C](https://anguscheng.com/post/2023-12-12-wasm-game-in-c-raylib/)
 * [2023-12-12, 18:21:48](https://lobste.rs/s/me3bmv/zero_downtime_postgres_upgrades) - [Zero downtime Postgres upgrades](https://knock.app/blog/zero-downtime-postgres-upgrades)
 * [2023-12-12, 18:09:13](https://lobste.rs/s/hnxpps/why_if_type_checking) - [Why if TYPE_CHECKING?](https://vickiboykis.com/2023/12/11/why-if-type_checking/)
 * [2023-12-12, 17:41:11](https://lobste.rs/s/ihukmo/my_top_7_perl_new_features) - [My Top 7 Perl New Features](https://perladvent.org/2023/2023-12-12.html)
@@ -22,7 +23,6 @@
 * [2023-12-12, 10:38:22](https://lobste.rs/s/thb6u6/announcing_nuekit_simple_next_js_astro) - [Announcing Nuekit: A simple Next.js and Astro alternative with unversal hot-reloading](https://nuejs.org/blog/nuekit-010/)
 * [2023-12-12, 02:51:33](https://lobste.rs/s/c1szxj/introducing_firedbg_time_traveling) - [Introducing FireDBG, a time traveling visual debugger for Rust](https://firedbg.sea-ql.org/blog/2023-12-12-introducing-firedbg/)
 * [2023-12-12, 02:10:15](https://lobste.rs/s/uqv7wp/rfc_for_status_420_requester_impaired) - [RFC for Status 420: Requester Impaired](https://www.ietf.org/archive/id/draft-richardroda-420requesterimpaired-02.html)
-* [2023-12-12, 00:46:49](https://lobste.rs/s/mro75n/trade_offs_between_different_crdts) - [Trade-offs between Different CRDTs](https://interjectedfuture.com/trade-offs-between-different-crdts/)
 * [2023-12-11, 15:14:22](https://lobste.rs/s/n9tccg/huh_tui_form_builder) - [huh? A TUI form builder](https://github.com/charmbracelet/huh)
 * [2023-12-11, 13:14:20](https://lobste.rs/s/oiy3kj/fossil_git_alternative_with_batteries) - [Fossil: A Git alternative with batteries included](https://fossil-scm.org/)
 
