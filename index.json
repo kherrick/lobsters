@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-12-13, 00:22:51",
+      "https://lobste.rs/s/nq41tw/stop_nesting_ternaries_javascript"
+    ],
+    [
+      "Stop nesting ternaries in JavaScript",
+      "https://www.sonarsource.com/blog/stop-nesting-ternaries-javascript/"
+    ]
+  ],
+  [
+    [
       "2023-12-12, 22:17:17",
       "https://lobste.rs/s/lnixir/openany_macos_app_file_launching"
     ],
@@ -217,16 +227,6 @@
     [
       "Ubuntu RISC-V 64 Guest on an x86_64 KVM Host",
       "https://blog.adamretter.org.uk/ubuntu-riscv64-guest-on-kvm/"
-    ]
-  ],
-  [
-    [
-      "2023-12-11, 20:58:51",
-      "https://lobste.rs/s/iq3wbg/hidden_depths_input_element"
-    ],
-    [
-      "The hidden depths of the input element",
-      "https://www.htmhell.dev/adventcalendar/2023/8/"
     ]
   ],
   [
