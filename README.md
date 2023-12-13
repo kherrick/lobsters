@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-13, 22:23:23](https://lobste.rs/s/xwzrj0/measuring_size_cache_line_empirically) - [Measuring the size of the cache line empirically](https://lemire.me/blog/2023/12/12/measuring-the-size-of-the-cache-line-empirically/)
+* [2023-12-13, 22:18:33](https://lobste.rs/s/kd0ub1/cybersecurity_isn_t_special) - [Cybersecurity Isn't Special](https://kellyshortridge.com/blog/posts/cybersecurity-isnt-special/)
 * [2023-12-13, 21:52:08](https://lobste.rs/s/vdtxib/best_webassembly_runtime_may_be_no) - [The best WebAssembly runtime may be no runtime at all](https://00f.net/2023/12/11/webassembly-compilation-to-c/)
-* [2023-12-13, 21:15:42](https://lobste.rs/s/gssm5l/rfc_bridging_gh_workflows_with_b4) - [RFC: Bridging GH workflows with b4](https://lore.kernel.org/tools/20231213-fluffy-roaring-capuchin-8024ac@meerkat/T/#u)
 * [2023-12-13, 21:13:36](https://lobste.rs/s/31xgij/kubernetes_1_29_networking_security) - [Kubernetes 1.29 Networking and Security Enhancements](https://layer5.io/blog/kubernetes/kubernetes-129-highlights-features-and-deprecations)
 * [2023-12-13, 20:56:35](https://lobste.rs/s/9r9ozr/sudden_loss_domain) - [Sudden loss of domain](https://b.tuxes.uk/domain-loss.html)
 * [2023-12-13, 20:24:01](https://lobste.rs/s/lruzq5/benchmarks_for_golang_sqlite_drivers) - [Benchmarks for Golang SQLite Drivers](https://github.com/cvilsmeier/go-sqlite-bench)
@@ -9,7 +10,6 @@
 * [2023-12-13, 19:58:00](https://lobste.rs/s/h9khgh/kernel_vs_user_level_networking_don_t) - [Kernel vs. User-Level Networking: Don't Throw Out the Stack with the Interrupts](https://dl.acm.org/doi/10.1145/3626780)
 * [2023-12-13, 18:36:21](https://lobste.rs/s/pjoft2/stop_hiding_sharp_knives_webassembly) - [Stop Hiding The Sharp Knives: The WebAssembly Linux Interface](https://arxiv.org/abs/2312.03858)
 * [2023-12-13, 18:27:37](https://lobste.rs/s/ddngvw/comparison_self_meshing_vpns) - [Comparison of self-meshing VPNs](https://mk16.de/blog/comparison-of-self-meshing-vpns/)
-* [2023-12-13, 18:15:53](https://lobste.rs/s/hqesbo/notes_on_openpgp) - [Notes on OpenPGP](https://openpgp.dev/)
 * [2023-12-13, 16:51:14](https://lobste.rs/s/uvak1s/nesting_apis_readert_environments_with) - [Nesting APIs and ReaderT environments with Servant](https://nicolashery.com/nesting-reader-environments-servant/)
 * [2023-12-13, 16:23:08](https://lobste.rs/s/avrfxz/ubuntu_24_04_lts_will_enable_frame) - [Ubuntu 24.04 LTS will enable frame pointers by default](https://ubuntu.com/blog/ubuntu-performance-engineering-with-frame-pointers-by-default)
 * [2023-12-13, 14:53:32](https://lobste.rs/s/9pa3lb/htmx_is_erlang) - [htmx is a erlang](https://matt.sh/htmx-is-a-erlang)

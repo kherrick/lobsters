@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
+* [2023-12-13, 22:23:23](https://lobste.rs/s/xwzrj0/measuring_size_cache_line_empirically) - [Measuring the size of the cache line empirically](https://lemire.me/blog/2023/12/12/measuring-the-size-of-the-cache-line-empirically/)
+* [2023-12-13, 22:18:33](https://lobste.rs/s/kd0ub1/cybersecurity_isn_t_special) - [Cybersecurity Isn't Special](https://kellyshortridge.com/blog/posts/cybersecurity-isnt-special/)
 * [2023-12-13, 21:52:08](https://lobste.rs/s/vdtxib/best_webassembly_runtime_may_be_no) - [The best WebAssembly runtime may be no runtime at all](https://00f.net/2023/12/11/webassembly-compilation-to-c/)
 * [2023-12-13, 21:15:42](https://lobste.rs/s/gssm5l/rfc_bridging_gh_workflows_with_b4) - [RFC: Bridging GH workflows with b4](https://lore.kernel.org/tools/20231213-fluffy-roaring-capuchin-8024ac@meerkat/T/#u)
 * [2023-12-13, 21:13:36](https://lobste.rs/s/31xgij/kubernetes_1_29_networking_security) - [Kubernetes 1.29 Networking and Security Enhancements](https://layer5.io/blog/kubernetes/kubernetes-129-highlights-features-and-deprecations)
