@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-13, 20:24:01",
+      "https://lobste.rs/s/lruzq5/benchmarks_for_golang_sqlite_drivers"
+    ],
+    [
+      "Benchmarks for Golang SQLite Drivers",
+      "https://github.com/cvilsmeier/go-sqlite-bench"
+    ]
+  ],
+  [
+    [
       "2023-12-13, 20:16:58",
       "https://lobste.rs/s/b3tw7u/zombiezen_com_go_sqlite_reaches_1_0"
     ],
@@ -47,16 +57,6 @@
     [
       "Chatmail - replicable, fast and secure chatting infrastructure for all",
       "https://delta.chat/en/2023-12-13-chatmail"
-    ]
-  ],
-  [
-    [
-      "2023-12-13, 18:27:37",
-      "https://lobste.rs/s/ddngvw/comparison_self_meshing_vpns_mk16_de"
-    ],
-    [
-      "Comparison of self-meshing VPNs | mk16.de",
-      "https://mk16.de/blog/comparison-of-self-meshing-vpns/"
     ]
   ],
   [
