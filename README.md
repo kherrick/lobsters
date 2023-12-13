@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-13, 14:19:23](https://lobste.rs/s/1ryrt6/personalizing_emacs_doc_navigation) - [Personalizing Emacs Doc Navigation](http://yummymelon.com/devnull/personalizing-emacs-doc-navigation.html)
 * [2023-12-13, 13:59:27](https://lobste.rs/s/8mdz42/debugging_failing_hotkey) - [Debugging A Failing Hotkey](https://tratt.net/laurie/blog/2023/debugging_a_failing_hotkey.html)
 * [2023-12-13, 13:55:03](https://lobste.rs/s/k53l1s/what_i_like_about_nix) - [What I Like About Nix](https://davi.sh/blog/2023/12/what-i-like-about-nix/)
 * [2023-12-13, 13:47:37](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage) - [Lobste.rs domain renewal outage](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage)
@@ -22,7 +23,6 @@
 * [2023-12-12, 15:47:39](https://lobste.rs/s/67brng/llms_make_programming_language_learning) - [LLMs make Programming Language Learning Curves Shallower](https://earthly.dev/blog/future-is-rusty/)
 * [2023-12-12, 15:01:26](https://lobste.rs/s/ffvyfn/as_chatgpt_gets_lazy_people_test_winter) - [As ChatGPT gets “lazy,” people test “winter break hypothesis” as the cause](https://arstechnica.com/information-technology/2023/12/is-chatgpt-becoming-lazier-because-its-december-people-run-tests-to-find-out/)
 * [2023-12-12, 14:44:43](https://lobste.rs/s/sup3yz/webp_is_so_great_except_it_s_not_2021) - [WebP is so great… except it's not (2021)](https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/)
-* [2023-12-12, 13:19:14](https://lobste.rs/s/35p6xg/mysterious_second_parameter_x86_enter) - [The mysterious second parameter to the x86 ENTER instruction](https://devblogs.microsoft.com/oldnewthing/20231211-00/?p=109126)
 * [2023-12-12, 12:39:05](https://lobste.rs/s/q1hiod/trying_chdb_embeddable_clickhouse) - [Trying chDB, an embeddable ClickHouse engine](https://antonz.org/trying-chdb/)
 * [2023-12-12, 11:43:15](https://lobste.rs/s/qbc6rk/gccpreprocesshtml_preprocess_html_with) - [GCCPreprocessHTML: Preprocess HTML with the GCC preprocessor](https://github.com/RGBCube/GCCPreprocessHTML)
 
