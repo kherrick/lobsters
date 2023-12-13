@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-13, 23:24:05](https://lobste.rs/s/2ibkla/deeper_dive_kube_scheduler) - [A Deeper Dive of kube-scheduler](https://www.awelm.com/posts/kube-scheduler/)
 * [2023-12-13, 22:18:33](https://lobste.rs/s/kd0ub1/cybersecurity_isn_t_special) - [Cybersecurity Isn't Special](https://kellyshortridge.com/blog/posts/cybersecurity-isnt-special/)
 * [2023-12-13, 21:52:08](https://lobste.rs/s/vdtxib/best_webassembly_runtime_may_be_no) - [The best WebAssembly runtime may be no runtime at all](https://00f.net/2023/12/11/webassembly-compilation-to-c/)
 * [2023-12-13, 21:13:36](https://lobste.rs/s/31xgij/kubernetes_1_29_networking_security) - [Kubernetes 1.29 Networking and Security Enhancements](https://layer5.io/blog/kubernetes/kubernetes-129-highlights-features-and-deprecations)
@@ -18,7 +19,6 @@
 * [2023-12-13, 13:59:27](https://lobste.rs/s/8mdz42/debugging_failing_hotkey) - [Debugging A Failing Hotkey](https://tratt.net/laurie/blog/2023/debugging_a_failing_hotkey.html)
 * [2023-12-13, 13:55:03](https://lobste.rs/s/k53l1s/what_i_like_about_nix) - [What I Like About Nix](https://davi.sh/blog/2023/12/what-i-like-about-nix/)
 * [2023-12-13, 13:47:37](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage) - [Lobste.rs domain renewal outage](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage)
-* [2023-12-13, 13:42:19](https://lobste.rs/s/7qwq4g/openwrt_dewclaw_git_second_worst_way) - [openwrt - dewclaw.git - the second-worst way to configure openwrt, by some metric](https://git.eno.space/dewclaw.git/tree/openwrt)
 * [2023-12-13, 13:41:01](https://lobste.rs/s/q29msm/nixos_dns_manage_your_dns_zones_with_nixos) - [NixOS-DNS: Manage your dns zones with NixOS](https://github.com/Janik-Haag/nixos-dns/)
 * [2023-12-13, 11:04:32](https://lobste.rs/s/qnxhnh/making_it_harder_do_wrong) - [Making it harder to do wrong](https://daniel.haxx.se/blog/2023/12/13/making-it-harder-to-do-wrong/)
 * [2023-12-13, 04:59:29](https://lobste.rs/s/exax25/hi_my_name_is_keyboard) - [Hi, My Name Is Keyboard](https://github.com/skysafe/reblog/tree/main/cve-2023-45866)
