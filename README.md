@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-13, 11:04:32](https://lobste.rs/s/qnxhnh/making_it_harder_do_wrong) - [Making it harder to do wrong](https://daniel.haxx.se/blog/2023/12/13/making-it-harder-to-do-wrong/)
 * [2023-12-13, 09:12:33](https://lobste.rs/s/xtmgo9/introducing_memorycache_augmented) - [Introducing MemoryCache - Augmented Local AI](https://future.mozilla.org/blog/introducing-memorycache/)
 * [2023-12-13, 07:01:10](https://lobste.rs/s/3t1v8a/haiku_activity_contract_report_november) - [Haiku Activity & Contract Report, November 2023 (ft. VPN support)](https://www.haiku-os.org/blog/waddlesplash/2023-12-12_haiku_activity_contract_report_november_2023/)
 * [2023-12-13, 05:52:47](https://lobste.rs/s/65kosv/real_world_match_case) - [Real-world match/case](https://nedbatchelder.com/blog/202312/realworld_matchcase.html)
@@ -24,7 +25,6 @@
 * [2023-12-12, 12:39:05](https://lobste.rs/s/q1hiod/trying_chdb_embeddable_clickhouse) - [Trying chDB, an embeddable ClickHouse engine](https://antonz.org/trying-chdb/)
 * [2023-12-12, 11:43:15](https://lobste.rs/s/qbc6rk/gccpreprocesshtml_preprocess_html_with) - [GCCPreprocessHTML: Preprocess HTML with the GCC preprocessor](https://github.com/RGBCube/GCCPreprocessHTML)
 * [2023-12-12, 02:10:15](https://lobste.rs/s/uqv7wp/rfc_for_status_420_requester_impaired) - [RFC for Status 420: Requester Impaired](https://www.ietf.org/archive/id/draft-richardroda-420requesterimpaired-02.html)
-* [2023-12-11, 15:14:22](https://lobste.rs/s/n9tccg/huh_tui_form_builder) - [huh? A TUI form builder](https://github.com/charmbracelet/huh)
 
 ## [Archives](archives/index.md)
 
