@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
+* [2023-12-13, 21:15:42](https://lobste.rs/s/gssm5l/rfc_bridging_gh_workflows_with_b4) - [RFC: Bridging GH workflows with b4](https://lore.kernel.org/tools/20231213-fluffy-roaring-capuchin-8024ac@meerkat/T/#u)
+* [2023-12-13, 21:13:36](https://lobste.rs/s/31xgij/kubernetes_1_29_networking_security) - [Kubernetes 1.29 Networking and Security Enhancements](https://layer5.io/blog/kubernetes/kubernetes-129-highlights-features-and-deprecations)
 * [2023-12-13, 20:56:35](https://lobste.rs/s/9r9ozr/sudden_loss_domain) - [Sudden loss of domain](https://b.tuxes.uk/domain-loss.html)
 * [2023-12-13, 20:24:01](https://lobste.rs/s/lruzq5/benchmarks_for_golang_sqlite_drivers) - [Benchmarks for Golang SQLite Drivers](https://github.com/cvilsmeier/go-sqlite-bench)
 * [2023-12-13, 20:16:58](https://lobste.rs/s/b3tw7u/zombiezen_com_go_sqlite_reaches_1_0) - [zombiezen.com/go/sqlite reaches 1.0](https://www.zombiezen.com/blog/2023/12/go-sqlite-1-0/)
