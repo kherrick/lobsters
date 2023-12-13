@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
+* [2023-12-13, 18:36:21](https://lobste.rs/s/pjoft2/stop_hiding_sharp_knives_webassembly) - [Stop Hiding The Sharp Knives: The WebAssembly Linux Interface](https://arxiv.org/abs/2312.03858)
+* [2023-12-13, 18:32:43](https://lobste.rs/s/lrl4bp/chatmail_replicable_fast_secure) - [Chatmail - replicable, fast and secure chatting infrastructure for all](https://delta.chat/en/2023-12-13-chatmail)
 * [2023-12-13, 18:27:37](https://lobste.rs/s/ddngvw/comparison_self_meshing_vpns_mk16_de) - [Comparison of self-meshing VPNs | mk16.de](https://mk16.de/blog/comparison-of-self-meshing-vpns/)
 * [2023-12-13, 18:15:53](https://lobste.rs/s/hqesbo/notes_on_openpgp) - [Notes on OpenPGP](https://openpgp.dev/)
 * [2023-12-13, 16:58:04](https://lobste.rs/s/twk5zj/supavisor_cloud_native_multi_tenant) - [supavisor: A cloud-native, multi-tenant Postgres connection pooler](https://github.com/supabase/supavisor)

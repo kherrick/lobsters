@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-13, 18:36:21](https://lobste.rs/s/pjoft2/stop_hiding_sharp_knives_webassembly) - [Stop Hiding The Sharp Knives: The WebAssembly Linux Interface](https://arxiv.org/abs/2312.03858)
+* [2023-12-13, 18:32:43](https://lobste.rs/s/lrl4bp/chatmail_replicable_fast_secure) - [Chatmail - replicable, fast and secure chatting infrastructure for all](https://delta.chat/en/2023-12-13-chatmail)
 * [2023-12-13, 18:27:37](https://lobste.rs/s/ddngvw/comparison_self_meshing_vpns_mk16_de) - [Comparison of self-meshing VPNs | mk16.de](https://mk16.de/blog/comparison-of-self-meshing-vpns/)
 * [2023-12-13, 18:15:53](https://lobste.rs/s/hqesbo/notes_on_openpgp) - [Notes on OpenPGP](https://openpgp.dev/)
-* [2023-12-13, 16:58:04](https://lobste.rs/s/twk5zj/supavisor_cloud_native_multi_tenant) - [supavisor: A cloud-native, multi-tenant Postgres connection pooler](https://github.com/supabase/supavisor)
 * [2023-12-13, 16:51:14](https://lobste.rs/s/uvak1s/nesting_apis_readert_environments_with) - [Nesting APIs and ReaderT environments with Servant](https://nicolashery.com/nesting-reader-environments-servant/)
 * [2023-12-13, 16:23:08](https://lobste.rs/s/avrfxz/ubuntu_24_04_lts_will_enable_frame) - [Ubuntu 24.04 LTS will enable frame pointers by default](https://ubuntu.com/blog/ubuntu-performance-engineering-with-frame-pointers-by-default)
 * [2023-12-13, 14:53:32](https://lobste.rs/s/9pa3lb/htmx_is_erlang) - [htmx is a erlang](https://matt.sh/htmx-is-a-erlang)
@@ -16,7 +17,6 @@
 * [2023-12-13, 11:04:32](https://lobste.rs/s/qnxhnh/making_it_harder_do_wrong) - [Making it harder to do wrong](https://daniel.haxx.se/blog/2023/12/13/making-it-harder-to-do-wrong/)
 * [2023-12-13, 05:52:47](https://lobste.rs/s/65kosv/real_world_match_case) - [Real-world match/case](https://nedbatchelder.com/blog/202312/realworld_matchcase.html)
 * [2023-12-13, 04:59:29](https://lobste.rs/s/exax25/hi_my_name_is_keyboard) - [Hi, My Name Is Keyboard](https://github.com/skysafe/reblog/tree/main/cve-2023-45866)
-* [2023-12-13, 02:42:12](https://lobste.rs/s/exklbz/finding_debugging_nushell_performance) - [Finding And Debugging A Nushell Performance Issue](https://rtpg.co/2023/12/13/debugging-nu/)
 * [2023-12-12, 20:22:10](https://lobste.rs/s/axeceu/i_formally_modeled_dreidel_for_no_good) - [I formally modeled Dreidel for no good reason](https://buttondown.email/hillelwayne/archive/i-formally-modeled-dreidel-for-no-good-reason/)
 * [2023-12-12, 19:44:53](https://lobste.rs/s/fu9ebt/reclaiming_web_with_personal_reader) - [Reclaiming the Web with a Personal Reader](https://olano.dev/2023-12-12-reclaiming-the-web-with-a-personal-reader/)
 * [2023-12-12, 18:21:48](https://lobste.rs/s/me3bmv/zero_downtime_postgres_upgrades) - [Zero downtime Postgres upgrades](https://knock.app/blog/zero-downtime-postgres-upgrades)
