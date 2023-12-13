@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-13](index.md)
 
+* [2023-12-13, 09:12:33](https://lobste.rs/s/xtmgo9/introducing_memorycache_augmented) - [Introducing MemoryCache - Augmented Local AI](https://future.mozilla.org/blog/introducing-memorycache/)
 * [2023-12-13, 07:01:10](https://lobste.rs/s/3t1v8a/haiku_activity_contract_report_november) - [Haiku Activity & Contract Report, November 2023 (ft. VPN support)](https://www.haiku-os.org/blog/waddlesplash/2023-12-12_haiku_activity_contract_report_november_2023/)
 * [2023-12-13, 05:52:47](https://lobste.rs/s/65kosv/real_world_match_case) - [Real-world match/case](https://nedbatchelder.com/blog/202312/realworld_matchcase.html)
 * [2023-12-13, 04:59:29](https://lobste.rs/s/exax25/hi_my_name_is_keyboard) - [Hi, My Name Is Keyboard](https://github.com/skysafe/reblog/tree/main/cve-2023-45866)
