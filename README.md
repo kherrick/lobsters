@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-12-13, 00:22:51](https://lobste.rs/s/nq41tw/stop_nesting_ternaries_javascript) - [Stop nesting ternaries in JavaScript](https://www.sonarsource.com/blog/stop-nesting-ternaries-javascript/)
+* [2023-12-13, 01:44:13](https://lobste.rs/s/nhrm0j/what_is_debugger) - [What is a debugger?](https://gu.outerproduct.net/debug.html)
 * [2023-12-12, 22:17:17](https://lobste.rs/s/lnixir/openany_macos_app_file_launching) - [OpenAny: macOS app and file launching springboard](https://github.com/CleanCocoa/OpenAny)
 * [2023-12-12, 20:22:10](https://lobste.rs/s/axeceu/i_formally_modeled_dreidel_for_no_good) - [I formally modeled Dreidel for no good reason](https://buttondown.email/hillelwayne/archive/i-formally-modeled-dreidel-for-no-good-reason/)
 * [2023-12-12, 19:44:53](https://lobste.rs/s/fu9ebt/reclaiming_web_with_personal_reader) - [Reclaiming the Web with a Personal Reader](https://olano.dev/2023-12-12-reclaiming-the-web-with-a-personal-reader/)
