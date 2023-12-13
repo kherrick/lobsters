@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-13, 14:53:07](https://lobste.rs/s/h6rqol/ensuring_json_response_format_openai) - [Ensuring JSON Response Format in OpenAI Assistant API](https://scorpil.com/post/ensuring-json-response-format-in-openai-assistant-api/)
 * [2023-12-13, 14:19:23](https://lobste.rs/s/1ryrt6/personalizing_emacs_doc_navigation) - [Personalizing Emacs Doc Navigation](http://yummymelon.com/devnull/personalizing-emacs-doc-navigation.html)
 * [2023-12-13, 13:59:27](https://lobste.rs/s/8mdz42/debugging_failing_hotkey) - [Debugging A Failing Hotkey](https://tratt.net/laurie/blog/2023/debugging_a_failing_hotkey.html)
 * [2023-12-13, 13:55:03](https://lobste.rs/s/k53l1s/what_i_like_about_nix) - [What I Like About Nix](https://davi.sh/blog/2023/12/what-i-like-about-nix/)
@@ -12,7 +13,6 @@
 * [2023-12-13, 04:59:29](https://lobste.rs/s/exax25/hi_my_name_is_keyboard) - [Hi, My Name Is Keyboard](https://github.com/skysafe/reblog/tree/main/cve-2023-45866)
 * [2023-12-13, 02:42:12](https://lobste.rs/s/exklbz/finding_debugging_nushell_performance) - [Finding And Debugging A Nushell Performance Issue](https://rtpg.co/2023/12/13/debugging-nu/)
 * [2023-12-13, 00:33:04](https://lobste.rs/s/x9od8n/finding_unreachable_functions_with) - [Finding unreachable functions with deadcode](https://go.dev/blog/deadcode)
-* [2023-12-12, 22:17:17](https://lobste.rs/s/lnixir/openany_macos_app_file_launching) - [OpenAny: macOS app and file launching springboard](https://github.com/CleanCocoa/OpenAny)
 * [2023-12-12, 20:22:10](https://lobste.rs/s/axeceu/i_formally_modeled_dreidel_for_no_good) - [I formally modeled Dreidel for no good reason](https://buttondown.email/hillelwayne/archive/i-formally-modeled-dreidel-for-no-good-reason/)
 * [2023-12-12, 19:44:53](https://lobste.rs/s/fu9ebt/reclaiming_web_with_personal_reader) - [Reclaiming the Web with a Personal Reader](https://olano.dev/2023-12-12-reclaiming-the-web-with-a-personal-reader/)
 * [2023-12-12, 19:04:32](https://lobste.rs/s/oxnuqm/what_if_sql_statement_returned_database) - [What if an SQL Statement Returned a Database?](https://arxiv.org/abs/2312.00638)
