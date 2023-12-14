@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-14, 17:37:07](https://lobste.rs/s/qkc79d/ai_trust_crisis) - [The AI trust crisis](https://simonwillison.net/2023/Dec/14/ai-trust-crisis/)
 * [2023-12-14, 17:27:52](https://lobste.rs/s/pwxzmz/seroval_stringify_js_values) - [seroval: Stringify JS values](https://github.com/lxsmnsyc/seroval)
 * [2023-12-14, 16:57:11](https://lobste.rs/s/ujqrrj/spritely_veilid_exciting_projects) - [Spritely and Veilid: Exciting Projects Building the Peer-to-Peer Web](https://www.eff.org/deeplinks/2023/12/meet-spritely-and-veilid)
 * [2023-12-14, 16:50:44](https://lobste.rs/s/wmk3vd/maybe_haskell) - [Maybe Haskell](https://books.thoughtbot.com/assets/maybe-haskell.pdf)
@@ -21,7 +22,6 @@
 * [2023-12-13, 20:56:35](https://lobste.rs/s/9r9ozr/sudden_loss_domain) - [Sudden loss of domain](https://b.tuxes.uk/domain-loss.html)
 * [2023-12-13, 18:36:21](https://lobste.rs/s/pjoft2/stop_hiding_sharp_knives_webassembly) - [Stop Hiding The Sharp Knives: The WebAssembly Linux Interface](https://arxiv.org/abs/2312.03858)
 * [2023-12-13, 16:23:08](https://lobste.rs/s/avrfxz/ubuntu_24_04_lts_will_enable_frame) - [Ubuntu 24.04 LTS will enable frame pointers by default](https://ubuntu.com/blog/ubuntu-performance-engineering-with-frame-pointers-by-default)
-* [2023-12-13, 14:53:32](https://lobste.rs/s/9pa3lb/htmx_is_erlang) - [htmx is a erlang](https://matt.sh/htmx-is-a-erlang)
 * [2023-12-13, 13:55:03](https://lobste.rs/s/k53l1s/what_i_like_about_nix) - [What I Like About Nix](https://davi.sh/blog/2023/12/what-i-like-about-nix/)
 * [2023-12-13, 13:47:37](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage) - [Lobste.rs domain renewal outage](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage)
 * [2023-12-13, 11:04:32](https://lobste.rs/s/qnxhnh/making_it_harder_do_wrong) - [Making it harder to do wrong](https://daniel.haxx.se/blog/2023/12/13/making-it-harder-to-do-wrong/)
