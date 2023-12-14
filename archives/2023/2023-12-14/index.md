@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
+* [2023-12-14, 22:30:28](https://lobste.rs/s/sm5h5h/uniting_linux_random_number_devices) - [Uniting the Linux random-number devices](https://lwn.net/Articles/884875/)
 * [2023-12-14, 22:12:19](https://lobste.rs/s/6z5lbk/using_new_siri_voices_shortcuts) - [Using the new Siri voices in Shortcuts](https://ceph3.us/posts/siri-shortcuts/)
 * [2023-12-14, 21:25:24](https://lobste.rs/s/6fg45l/how_write_reusable_java_code) - [How to write reusable Java code](https://www.infoworld.com/article/3710250/how-to-write-reusable-java-code.html)
 * [2023-12-14, 20:34:46](https://lobste.rs/s/2kutsh/if_buying_isn_t_owning_piracy_isn_t) - [If buying isn’t owning, piracy isn’t stealing](https://pluralistic.net/2023/12/08/playstationed/)
