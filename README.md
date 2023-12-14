@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-12-14, 21:25:24](https://lobste.rs/s/6fg45l/how_write_reusable_java_code) - [How to write reusable Java code](https://www.infoworld.com/article/3710250/how-to-write-reusable-java-code.html)
-* [2023-12-14, 20:32:19](https://lobste.rs/s/qkmytg/netflix_data_engineering_summit_ndes) - [Netflix Data Engineering Summit (NDES) - 2023](https://www.youtube.com/playlist?list=PLSECvWLlUYeF06QK5FOOELvgKdap3cQf0)
 * [2023-12-14, 20:25:55](https://lobste.rs/s/j7msxs/our_first_netflix_data_engineering) - [Our First Netflix Data Engineering Summit](https://netflixtechblog.com/our-first-netflix-data-engineering-summit-f326b0589102)
 * [2023-12-14, 19:04:42](https://lobste.rs/s/d36xfp/what_s_going_on_with_language_rankings) - [What’s Going On With Language Rankings?](https://redmonk.com/rstephens/2023/12/14/language-rankings-update/)
 * [2023-12-14, 17:48:15](https://lobste.rs/s/yeqpzi/five_tips_on_postgres_logical_decoding) - [Five tips on Postgres logical decoding](https://blog.peerdb.io/five-tips-on-postgres-logical-decoding)
@@ -11,6 +10,7 @@
 * [2023-12-14, 13:26:03](https://lobste.rs/s/ekdlya/how_why_measure_dependency_freshness) - [How and Why to Measure Dependency Freshness in Your Ruby Application](https://www.fastruby.io/blog/ruby-dependency-freshness.html)
 * [2023-12-14, 11:57:25](https://lobste.rs/s/itfqlf/s3_compatible_cloud_storage_costs) - [S3-Compatible Cloud Storage Costs](https://transactional.blog/blog/2023-cloud-storage-costs)
 * [2023-12-14, 11:43:19](https://lobste.rs/s/ubpilv/donkey_kong_record_struggle) - [Donkey Kong: A Record of Struggle](https://shmuplations.com/donkeykong/)
+* [2023-12-14, 11:33:43](https://lobste.rs/s/sra1vy/modern_ios_navigation_patterns) - [Modern iOS Navigation Patterns](https://frankrausch.com/ios-navigation)
 * [2023-12-14, 10:16:49](https://lobste.rs/s/dio5kc/bash_one_liners_for_llms) - [Bash One-Liners for LLMs](https://justine.lol/oneliners/)
 * [2023-12-14, 09:54:03](https://lobste.rs/s/4cw8fz/should_you_add_screenshots) - [Should you add screenshots to documentation?](https://thisisimportant.net/posts/screenshots-in-documentation/)
 * [2023-12-14, 09:45:04](https://lobste.rs/s/mwicmp/systemd_217_will_introduce_its_new) - [Systemd 217 Will Introduce Its New \"Consoled\" User Console Daemon (2014)](https://www.phoronix.com/news/MTgwNzQ)
