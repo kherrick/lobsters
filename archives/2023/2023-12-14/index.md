@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
+* [2023-12-14, 09:45:28](https://lobste.rs/s/wcpu70/pay_no_attention_model_behind_curtain) - [Pay No Attention to the Model Behind the Curtain](https://link.springer.com/article/10.1007/s00024-022-03137-2)
+* [2023-12-14, 09:45:04](https://lobste.rs/s/mwicmp/systemd_217_will_introduce_its_new) - [Systemd 217 Will Introduce Its New \"Consoled\" User Console Daemon - Phoronix](https://www.phoronix.com/news/MTgwNzQ)
 * [2023-12-14, 08:25:30](https://lobste.rs/s/fmdvz1/postgres_wrappers_v0_2_query_pushdown) - [Postgres Wrappers v0.2: Query Pushdown & Remote Subqueries](https://supabase.com/blog/supabase-wrappers-v02)
 * [2023-12-14, 08:18:17](https://lobste.rs/s/myjscq/effect_cases_switch) - [Effect cases in switch](https://mail.openjdk.org/pipermail/amber-spec-experts/2023-December/003959.html)
 * [2023-12-14, 08:08:38](https://lobste.rs/s/mnleej/xorg_being_removed_what_does_this_mean) - [Xorg being removed. What does this mean?](https://who-t.blogspot.com/2023/12/xorg-being-removed-what-does-this-mean.html)
