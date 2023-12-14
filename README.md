@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-14, 16:50:44](https://lobste.rs/s/wmk3vd/maybe_haskell) - [Maybe Haskell](https://books.thoughtbot.com/assets/maybe-haskell.pdf)
 * [2023-12-14, 15:27:09](https://lobste.rs/s/hnzn0v/mojo_point_view_researcher_using_python) - [Mojo: the point of view of a researcher using Python](https://augierpi.gricad-pages.univ-grenoble-alpes.fr/mojo-the-point-of-view-of-a-researcher-using-python.html)
 * [2023-12-14, 15:26:15](https://lobste.rs/s/nfqbyh/who_do_you_use_for_hosting_your_personal) - [Who do you use for hosting your personal domain/mail?](https://lobste.rs/s/nfqbyh/who_do_you_use_for_hosting_your_personal)
-* [2023-12-14, 14:50:24](https://lobste.rs/s/ucb9gh/announcing_trusted_publishing_on) - [Announcing Trusted Publishing on RubyGems.org](https://blog.rubygems.org/2023/12/14/trusted-publishing.html)
 * [2023-12-14, 13:26:03](https://lobste.rs/s/ekdlya/how_why_measure_dependency_freshness) - [How and Why to Measure Dependency Freshness in Your Ruby Application](https://www.fastruby.io/blog/ruby-dependency-freshness.html)
 * [2023-12-14, 11:57:25](https://lobste.rs/s/itfqlf/s3_compatible_cloud_storage_costs) - [S3-Compatible Cloud Storage Costs](https://transactional.blog/blog/2023-cloud-storage-costs)
 * [2023-12-14, 11:43:19](https://lobste.rs/s/ubpilv/donkey_kong_record_struggle) - [Donkey Kong: A Record of Struggle](https://shmuplations.com/donkeykong/)
