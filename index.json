@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-14, 10:16:49",
+      "https://lobste.rs/s/dio5kc/bash_one_liners_for_llms"
+    ],
+    [
+      "Bash One-Liners for LLMs",
+      "https://justine.lol/oneliners/"
+    ]
+  ],
+  [
+    [
       "2023-12-14, 09:54:03",
       "https://lobste.rs/s/4cw8fz/should_you_add_screenshots"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2023-12-14, 09:45:04",
-      "https://lobste.rs/s/mwicmp/systemd_217_will_introduce_its_new"
+      "2023-12-14, 09:45:28",
+      "https://lobste.rs/s/wcpu70/pay_no_attention_model_behind_curtain"
     ],
     [
-      "Systemd 217 Will Introduce Its New \"Consoled\" User Console Daemon - Phoronix",
-      "https://www.phoronix.com/news/MTgwNzQ"
+      "Pay No Attention to the Model Behind the Curtain",
+      "https://link.springer.com/article/10.1007/s00024-022-03137-2"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "htmx is a erlang",
       "https://matt.sh/htmx-is-a-erlang"
-    ]
-  ],
-  [
-    [
-      "2023-12-13, 14:53:07",
-      "https://lobste.rs/s/h6rqol/ensuring_json_response_format_openai"
-    ],
-    [
-      "Ensuring JSON Response Format in OpenAI Assistant API",
-      "https://scorpil.com/post/ensuring-json-response-format-in-openai-assistant-api/"
     ]
   ],
   [
