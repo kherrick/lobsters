@@ -4,7 +4,7 @@
 * [2023-12-14, 12:53:56](https://lobste.rs/s/hdussk/go_is_amazing_for_zero_trust) - [Go is Amazing for Zero Trust](https://blog.openziti.io/go-is-amazing-for-zero-trust)
 * [2023-12-14, 11:57:25](https://lobste.rs/s/itfqlf/s3_compatible_cloud_storage_costs) - [S3-Compatible Cloud Storage Costs](https://transactional.blog/blog/2023-cloud-storage-costs)
 * [2023-12-14, 11:43:19](https://lobste.rs/s/ubpilv/donkey_kong_record_struggle) - [Donkey Kong: A Record of Struggle](https://shmuplations.com/donkeykong/)
-* [2023-12-14, 11:33:43](https://lobste.rs/s/sra1vy/modern_ios_navigation_patterns) - [Modern iOS Navigation Patterns ·](https://frankrausch.com/ios-navigation)
+* [2023-12-14, 11:33:43](https://lobste.rs/s/sra1vy/modern_ios_navigation_patterns) - [Modern iOS Navigation Patterns](https://frankrausch.com/ios-navigation)
 * [2023-12-14, 10:16:49](https://lobste.rs/s/dio5kc/bash_one_liners_for_llms) - [Bash One-Liners for LLMs](https://justine.lol/oneliners/)
 * [2023-12-14, 09:54:03](https://lobste.rs/s/4cw8fz/should_you_add_screenshots) - [Should you add screenshots to documentation?](https://thisisimportant.net/posts/screenshots-in-documentation/)
 * [2023-12-14, 09:45:04](https://lobste.rs/s/mwicmp/systemd_217_will_introduce_its_new) - [Systemd 217 Will Introduce Its New \"Consoled\" User Console Daemon (2014)](https://www.phoronix.com/news/MTgwNzQ)
