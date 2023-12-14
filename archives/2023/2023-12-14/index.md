@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
+* [2023-12-14, 17:27:52](https://lobste.rs/s/pwxzmz/seroval_stringify_js_values) - [seroval: Stringify JS values](https://github.com/lxsmnsyc/seroval)
 * [2023-12-14, 16:57:11](https://lobste.rs/s/ujqrrj/spritely_veilid_exciting_projects) - [Spritely and Veilid: Exciting Projects Building the Peer-to-Peer Web](https://www.eff.org/deeplinks/2023/12/meet-spritely-and-veilid)
 * [2023-12-14, 16:50:44](https://lobste.rs/s/wmk3vd/maybe_haskell) - [Maybe Haskell](https://books.thoughtbot.com/assets/maybe-haskell.pdf)
 * [2023-12-14, 15:27:09](https://lobste.rs/s/hnzn0v/mojo_point_view_researcher_using_python) - [Mojo: the point of view of a researcher using Python](https://augierpi.gricad-pages.univ-grenoble-alpes.fr/mojo-the-point-of-view-of-a-researcher-using-python.html)
