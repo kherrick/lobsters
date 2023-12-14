@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-12-13, 19:45:32",
-      "https://lobste.rs/s/twxung/eevdf_cpu_scheduler_for_linux_lwn_net"
-    ],
-    [
-      "An EEVDF CPU scheduler for Linux [LWN.net]",
-      "https://lwn.net/Articles/925371/"
-    ]
-  ],
-  [
-    [
       "2023-12-13, 18:36:21",
       "https://lobste.rs/s/pjoft2/stop_hiding_sharp_knives_webassembly"
     ],
@@ -177,6 +167,16 @@
     [
       "Ensuring JSON Response Format in OpenAI Assistant API",
       "https://scorpil.com/post/ensuring-json-response-format-in-openai-assistant-api/"
+    ]
+  ],
+  [
+    [
+      "2023-12-13, 14:19:23",
+      "https://lobste.rs/s/1ryrt6/personalizing_emacs_doc_navigation"
+    ],
+    [
+      "Personalizing Emacs Doc Navigation",
+      "http://yummymelon.com/devnull/personalizing-emacs-doc-navigation.html"
     ]
   ],
   [
