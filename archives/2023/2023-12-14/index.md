@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
+* [2023-12-14, 20:34:46](https://lobste.rs/s/2kutsh/if_buying_isn_t_owning_piracy_isn_t) - [If buying isn’t owning, piracy isn’t stealing](https://pluralistic.net/2023/12/08/playstationed/)
+* [2023-12-14, 20:32:19](https://lobste.rs/s/qkmytg/netflix_data_engineering_summit_ndes) - [Netflix Data Engineering Summit (NDES) - 2023](https://www.youtube.com/playlist?list=PLSECvWLlUYeF06QK5FOOELvgKdap3cQf0)
 * [2023-12-14, 20:25:55](https://lobste.rs/s/j7msxs/our_first_netflix_data_engineering) - [Our First Netflix Data Engineering Summit](https://netflixtechblog.com/our-first-netflix-data-engineering-summit-f326b0589102)
 * [2023-12-14, 19:04:42](https://lobste.rs/s/d36xfp/what_s_going_on_with_language_rankings) - [What’s Going On With Language Rankings?](https://redmonk.com/rstephens/2023/12/14/language-rankings-update/)
 * [2023-12-14, 17:48:15](https://lobste.rs/s/yeqpzi/five_tips_on_postgres_logical_decoding) - [Five tips on Postgres logical decoding](https://blog.peerdb.io/five-tips-on-postgres-logical-decoding)

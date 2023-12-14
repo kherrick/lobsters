@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-14, 20:34:46](https://lobste.rs/s/2kutsh/if_buying_isn_t_owning_piracy_isn_t) - [If buying isn’t owning, piracy isn’t stealing](https://pluralistic.net/2023/12/08/playstationed/)
+* [2023-12-14, 20:32:19](https://lobste.rs/s/qkmytg/netflix_data_engineering_summit_ndes) - [Netflix Data Engineering Summit (NDES) - 2023](https://www.youtube.com/playlist?list=PLSECvWLlUYeF06QK5FOOELvgKdap3cQf0)
 * [2023-12-14, 20:25:55](https://lobste.rs/s/j7msxs/our_first_netflix_data_engineering) - [Our First Netflix Data Engineering Summit](https://netflixtechblog.com/our-first-netflix-data-engineering-summit-f326b0589102)
-* [2023-12-14, 19:04:42](https://lobste.rs/s/d36xfp/what_s_going_on_with_language_rankings) - [What’s Going On With Language Rankings?](https://redmonk.com/rstephens/2023/12/14/language-rankings-update/)
 * [2023-12-14, 17:48:15](https://lobste.rs/s/yeqpzi/five_tips_on_postgres_logical_decoding) - [Five tips on Postgres logical decoding](https://blog.peerdb.io/five-tips-on-postgres-logical-decoding)
 * [2023-12-14, 16:57:11](https://lobste.rs/s/ujqrrj/spritely_veilid_exciting_projects) - [Spritely and Veilid: Exciting Projects Building the Peer-to-Peer Web](https://www.eff.org/deeplinks/2023/12/meet-spritely-and-veilid)
 * [2023-12-14, 16:50:44](https://lobste.rs/s/wmk3vd/maybe_haskell) - [Maybe Haskell](https://books.thoughtbot.com/assets/maybe-haskell.pdf)
-* [2023-12-14, 15:27:09](https://lobste.rs/s/hnzn0v/mojo_point_view_researcher_using_python) - [Mojo: the point of view of a researcher using Python](https://augierpi.gricad-pages.univ-grenoble-alpes.fr/mojo-the-point-of-view-of-a-researcher-using-python.html)
 * [2023-12-14, 15:26:15](https://lobste.rs/s/nfqbyh/who_do_you_use_for_hosting_your_personal) - [Who do you use for hosting your personal domain/mail?](https://lobste.rs/s/nfqbyh/who_do_you_use_for_hosting_your_personal)
 * [2023-12-14, 13:26:03](https://lobste.rs/s/ekdlya/how_why_measure_dependency_freshness) - [How and Why to Measure Dependency Freshness in Your Ruby Application](https://www.fastruby.io/blog/ruby-dependency-freshness.html)
 * [2023-12-14, 11:57:25](https://lobste.rs/s/itfqlf/s3_compatible_cloud_storage_costs) - [S3-Compatible Cloud Storage Costs](https://transactional.blog/blog/2023-cloud-storage-costs)
