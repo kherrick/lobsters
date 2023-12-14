@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-14, 14:50:24",
+      "https://lobste.rs/s/ucb9gh/announcing_trusted_publishing_on"
+    ],
+    [
+      "Announcing Trusted Publishing on RubyGems.org",
+      "https://blog.rubygems.org/2023/12/14/trusted-publishing.html"
+    ]
+  ],
+  [
+    [
       "2023-12-14, 13:26:03",
       "https://lobste.rs/s/ekdlya/how_why_measure_dependency_freshness"
     ],
@@ -77,16 +87,6 @@
     [
       "Systemd 217 Will Introduce Its New \"Consoled\" User Console Daemon (2014)",
       "https://www.phoronix.com/news/MTgwNzQ"
-    ]
-  ],
-  [
-    [
-      "2023-12-14, 08:25:30",
-      "https://lobste.rs/s/fmdvz1/postgres_wrappers_v0_2_query_pushdown"
-    ],
-    [
-      "Postgres Wrappers v0.2: Query Pushdown & Remote Subqueries",
-      "https://supabase.com/blog/supabase-wrappers-v02"
     ]
   ],
   [
