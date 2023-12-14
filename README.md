@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-14, 06:20:16](https://lobste.rs/s/ob1eh7/postgres_howtos) - [postgres-howtos](https://gitlab.com/postgres-ai/postgresql-consulting/postgres-howtos)
 * [2023-12-14, 03:37:09](https://lobste.rs/s/wie6wu/cspchan_pure_c89_implementation_go) - [CspChan: A pure C89 implementation of Go channels](https://github.com/rochus-keller/CspChan)
 * [2023-12-14, 01:46:54](https://lobste.rs/s/oy3kzt/read_through_original_worldwideweb) - [A read through the original WorldWideWeb proposal](https://andrewhuth.substack.com/p/a-read-through-the-original-worldwideweb)
 * [2023-12-13, 23:24:05](https://lobste.rs/s/2ibkla/deeper_dive_kube_scheduler) - [A Deeper Dive of kube-scheduler](https://www.awelm.com/posts/kube-scheduler/)
@@ -17,7 +18,6 @@
 * [2023-12-13, 16:23:08](https://lobste.rs/s/avrfxz/ubuntu_24_04_lts_will_enable_frame) - [Ubuntu 24.04 LTS will enable frame pointers by default](https://ubuntu.com/blog/ubuntu-performance-engineering-with-frame-pointers-by-default)
 * [2023-12-13, 14:53:32](https://lobste.rs/s/9pa3lb/htmx_is_erlang) - [htmx is a erlang](https://matt.sh/htmx-is-a-erlang)
 * [2023-12-13, 14:53:07](https://lobste.rs/s/h6rqol/ensuring_json_response_format_openai) - [Ensuring JSON Response Format in OpenAI Assistant API](https://scorpil.com/post/ensuring-json-response-format-in-openai-assistant-api/)
-* [2023-12-13, 14:19:23](https://lobste.rs/s/1ryrt6/personalizing_emacs_doc_navigation) - [Personalizing Emacs Doc Navigation](http://yummymelon.com/devnull/personalizing-emacs-doc-navigation.html)
 * [2023-12-13, 13:59:27](https://lobste.rs/s/8mdz42/debugging_failing_hotkey) - [Debugging A Failing Hotkey](https://tratt.net/laurie/blog/2023/debugging_a_failing_hotkey.html)
 * [2023-12-13, 13:55:03](https://lobste.rs/s/k53l1s/what_i_like_about_nix) - [What I Like About Nix](https://davi.sh/blog/2023/12/what-i-like-about-nix/)
 * [2023-12-13, 13:47:37](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage) - [Lobste.rs domain renewal outage](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage)
