@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-14, 17:27:52",
+      "https://lobste.rs/s/pwxzmz/seroval_stringify_js_values"
+    ],
+    [
+      "seroval: Stringify JS values",
+      "https://github.com/lxsmnsyc/seroval"
+    ]
+  ],
+  [
+    [
       "2023-12-14, 16:57:11",
       "https://lobste.rs/s/ujqrrj/spritely_veilid_exciting_projects"
     ],
@@ -177,16 +187,6 @@
     [
       "Sudden loss of domain",
       "https://b.tuxes.uk/domain-loss.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-13, 19:58:00",
-      "https://lobste.rs/s/h9khgh/kernel_vs_user_level_networking_don_t"
-    ],
-    [
-      "Kernel vs. User-Level Networking: Don't Throw Out the Stack with the Interrupts",
-      "https://dl.acm.org/doi/10.1145/3626780"
     ]
   ],
   [
