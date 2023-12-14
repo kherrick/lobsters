@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
+* [2023-12-14, 08:25:30](https://lobste.rs/s/fmdvz1/postgres_wrappers_v0_2_query_pushdown) - [Postgres Wrappers v0.2: Query Pushdown & Remote Subqueries](https://supabase.com/blog/supabase-wrappers-v02)
 * [2023-12-14, 08:08:38](https://lobste.rs/s/mnleej/xorg_being_removed_what_does_this_mean) - [Xorg being removed. What does this mean?](https://who-t.blogspot.com/2023/12/xorg-being-removed-what-does-this-mean.html)
 * [2023-12-14, 08:07:32](https://lobste.rs/s/jkcuhj/mariadb_operator_run_operate_mariadb) - [mariadb-operator: Run and operate MariaDB in a cloud native way (Kubernetes / OpenShift)](https://github.com/mariadb-operator/mariadb-operator)
 * [2023-12-14, 07:29:38](https://lobste.rs/s/sfl2tg/first_steps_programming_freebsd_reading) - [First steps in programming FreeBSD: Reading process information](https://patmaddox.com/doc/trunk/www/programming-freebsd-reading-process-information/)
