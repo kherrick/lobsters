@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
+* [2023-12-14, 15:27:09](https://lobste.rs/s/hnzn0v/mojo_point_view_researcher_using_python) - [Mojo: the point of view of a researcher using Python](https://augierpi.gricad-pages.univ-grenoble-alpes.fr/mojo-the-point-of-view-of-a-researcher-using-python.html)
+* [2023-12-14, 15:26:15](https://lobste.rs/s/nfqbyh/who_do_you_use_for_hosting_your_personal) - [Who do you use for hosting your personal domain/mail?](https://lobste.rs/s/nfqbyh/who_do_you_use_for_hosting_your_personal)
 * [2023-12-14, 14:50:24](https://lobste.rs/s/ucb9gh/announcing_trusted_publishing_on) - [Announcing Trusted Publishing on RubyGems.org](https://blog.rubygems.org/2023/12/14/trusted-publishing.html)
 * [2023-12-14, 13:26:03](https://lobste.rs/s/ekdlya/how_why_measure_dependency_freshness) - [How and Why to Measure Dependency Freshness in Your Ruby Application](https://www.fastruby.io/blog/ruby-dependency-freshness.html)
 * [2023-12-14, 12:53:56](https://lobste.rs/s/hdussk/go_is_amazing_for_zero_trust) - [Go is Amazing for Zero Trust](https://blog.openziti.io/go-is-amazing-for-zero-trust)
