@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-14, 11:57:25](https://lobste.rs/s/itfqlf/s3_compatible_cloud_storage_costs) - [S3-Compatible Cloud Storage Costs](https://transactional.blog/blog/2023-cloud-storage-costs)
 * [2023-12-14, 11:43:19](https://lobste.rs/s/ubpilv/donkey_kong_record_struggle) - [Donkey Kong: A Record of Struggle](https://shmuplations.com/donkeykong/)
 * [2023-12-14, 11:33:43](https://lobste.rs/s/sra1vy/modern_ios_navigation_patterns) - [Modern iOS Navigation Patterns ·](https://frankrausch.com/ios-navigation)
 * [2023-12-14, 10:16:49](https://lobste.rs/s/dio5kc/bash_one_liners_for_llms) - [Bash One-Liners for LLMs](https://justine.lol/oneliners/)
@@ -10,7 +11,6 @@
 * [2023-12-14, 08:08:38](https://lobste.rs/s/mnleej/xorg_being_removed_what_does_this_mean) - [Xorg being removed. What does this mean?](https://who-t.blogspot.com/2023/12/xorg-being-removed-what-does-this-mean.html)
 * [2023-12-14, 07:29:38](https://lobste.rs/s/sfl2tg/first_steps_programming_freebsd_reading) - [First steps in programming FreeBSD: Reading process information](https://patmaddox.com/doc/trunk/www/programming-freebsd-reading-process-information/)
 * [2023-12-14, 06:20:16](https://lobste.rs/s/ob1eh7/postgres_howtos) - [postgres-howtos](https://gitlab.com/postgres-ai/postgresql-consulting/postgres-howtos)
-* [2023-12-13, 23:24:05](https://lobste.rs/s/2ibkla/deeper_dive_kube_scheduler) - [A Deeper Dive of kube-scheduler](https://www.awelm.com/posts/kube-scheduler/)
 * [2023-12-13, 22:18:33](https://lobste.rs/s/kd0ub1/cybersecurity_isn_t_special) - [Cybersecurity Isn't Special](https://kellyshortridge.com/blog/posts/cybersecurity-isnt-special/)
 * [2023-12-13, 21:52:08](https://lobste.rs/s/vdtxib/best_webassembly_runtime_may_be_no) - [The best WebAssembly runtime may be no runtime at all](https://00f.net/2023/12/11/webassembly-compilation-to-c/)
 * [2023-12-13, 20:56:35](https://lobste.rs/s/9r9ozr/sudden_loss_domain) - [Sudden loss of domain](https://b.tuxes.uk/domain-loss.html)
