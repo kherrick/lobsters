@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-14, 07:29:38",
+      "https://lobste.rs/s/sfl2tg/first_steps_programming_freebsd_reading"
+    ],
+    [
+      "First steps in programming FreeBSD: Reading process information",
+      "https://patmaddox.com/doc/trunk/www/programming-freebsd-reading-process-information/"
+    ]
+  ],
+  [
+    [
       "2023-12-14, 07:28:44",
       "https://lobste.rs/s/s20vgn/hard_look_at_certificate_transparency"
     ],
@@ -227,16 +237,6 @@
     [
       "Making it harder to do wrong",
       "https://daniel.haxx.se/blog/2023/12/13/making-it-harder-to-do-wrong/"
-    ]
-  ],
-  [
-    [
-      "2023-12-13, 04:59:29",
-      "https://lobste.rs/s/exax25/hi_my_name_is_keyboard"
-    ],
-    [
-      "Hi, My Name Is Keyboard",
-      "https://github.com/skysafe/reblog/tree/main/cve-2023-45866"
     ]
   ],
   [
