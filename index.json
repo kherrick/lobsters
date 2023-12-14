@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-14, 08:08:38",
+      "https://lobste.rs/s/mnleej/xorg_being_removed_what_does_this_mean"
+    ],
+    [
+      "Xorg being removed. What does this mean?",
+      "https://who-t.blogspot.com/2023/12/xorg-being-removed-what-does-this-mean.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-14, 08:07:32",
+      "https://lobste.rs/s/jkcuhj/mariadb_operator_run_operate_mariadb"
+    ],
+    [
+      "mariadb-operator: Run and operate MariaDB in a cloud native way (Kubernetes / OpenShift)",
+      "https://github.com/mariadb-operator/mariadb-operator"
+    ]
+  ],
+  [
+    [
       "2023-12-14, 07:29:38",
       "https://lobste.rs/s/sfl2tg/first_steps_programming_freebsd_reading"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2023-12-13, 20:24:01",
-      "https://lobste.rs/s/lruzq5/benchmarks_for_golang_sqlite_drivers"
-    ],
-    [
-      "Benchmarks for Golang SQLite Drivers",
-      "https://github.com/cvilsmeier/go-sqlite-bench"
-    ]
-  ],
-  [
-    [
       "2023-12-13, 20:16:58",
       "https://lobste.rs/s/b3tw7u/zombiezen_com_go_sqlite_reaches_1_0"
     ],
@@ -147,16 +157,6 @@
     [
       "Comparison of self-meshing VPNs",
       "https://mk16.de/blog/comparison-of-self-meshing-vpns/"
-    ]
-  ],
-  [
-    [
-      "2023-12-13, 16:51:14",
-      "https://lobste.rs/s/uvak1s/nesting_apis_readert_environments_with"
-    ],
-    [
-      "Nesting APIs and ReaderT environments with Servant",
-      "https://nicolashery.com/nesting-reader-environments-servant/"
     ]
   ],
   [
