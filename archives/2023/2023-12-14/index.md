@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
+* [2023-12-14, 19:04:42](https://lobste.rs/s/d36xfp/what_s_going_on_with_language_rankings) - [What’s Going On With Language Rankings?](https://redmonk.com/rstephens/2023/12/14/language-rankings-update/)
 * [2023-12-14, 17:48:15](https://lobste.rs/s/yeqpzi/five_tips_on_postgres_logical_decoding) - [Five tips on Postgres logical decoding](https://blog.peerdb.io/five-tips-on-postgres-logical-decoding)
 * [2023-12-14, 17:37:07](https://lobste.rs/s/qkc79d/ai_trust_crisis) - [The AI trust crisis](https://simonwillison.net/2023/Dec/14/ai-trust-crisis/)
 * [2023-12-14, 17:27:52](https://lobste.rs/s/pwxzmz/seroval_stringify_js_values) - [seroval: Stringify JS values](https://github.com/lxsmnsyc/seroval)
