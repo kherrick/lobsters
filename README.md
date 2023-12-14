@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-14, 16:57:11](https://lobste.rs/s/ujqrrj/spritely_veilid_exciting_projects) - [Spritely and Veilid: Exciting Projects Building the Peer-to-Peer Web](https://www.eff.org/deeplinks/2023/12/meet-spritely-and-veilid)
 * [2023-12-14, 16:50:44](https://lobste.rs/s/wmk3vd/maybe_haskell) - [Maybe Haskell](https://books.thoughtbot.com/assets/maybe-haskell.pdf)
 * [2023-12-14, 15:27:09](https://lobste.rs/s/hnzn0v/mojo_point_view_researcher_using_python) - [Mojo: the point of view of a researcher using Python](https://augierpi.gricad-pages.univ-grenoble-alpes.fr/mojo-the-point-of-view-of-a-researcher-using-python.html)
 * [2023-12-14, 15:26:15](https://lobste.rs/s/nfqbyh/who_do_you_use_for_hosting_your_personal) - [Who do you use for hosting your personal domain/mail?](https://lobste.rs/s/nfqbyh/who_do_you_use_for_hosting_your_personal)
@@ -17,7 +18,6 @@
 * [2023-12-13, 22:18:33](https://lobste.rs/s/kd0ub1/cybersecurity_isn_t_special) - [Cybersecurity Isn't Special](https://kellyshortridge.com/blog/posts/cybersecurity-isnt-special/)
 * [2023-12-13, 21:52:08](https://lobste.rs/s/vdtxib/best_webassembly_runtime_may_be_no) - [The best WebAssembly runtime may be no runtime at all](https://00f.net/2023/12/11/webassembly-compilation-to-c/)
 * [2023-12-13, 20:56:35](https://lobste.rs/s/9r9ozr/sudden_loss_domain) - [Sudden loss of domain](https://b.tuxes.uk/domain-loss.html)
-* [2023-12-13, 20:16:58](https://lobste.rs/s/b3tw7u/zombiezen_com_go_sqlite_reaches_1_0) - [zombiezen.com/go/sqlite reaches 1.0](https://www.zombiezen.com/blog/2023/12/go-sqlite-1-0/)
 * [2023-12-13, 19:58:00](https://lobste.rs/s/h9khgh/kernel_vs_user_level_networking_don_t) - [Kernel vs. User-Level Networking: Don't Throw Out the Stack with the Interrupts](https://dl.acm.org/doi/10.1145/3626780)
 * [2023-12-13, 18:36:21](https://lobste.rs/s/pjoft2/stop_hiding_sharp_knives_webassembly) - [Stop Hiding The Sharp Knives: The WebAssembly Linux Interface](https://arxiv.org/abs/2312.03858)
 * [2023-12-13, 16:23:08](https://lobste.rs/s/avrfxz/ubuntu_24_04_lts_will_enable_frame) - [Ubuntu 24.04 LTS will enable frame pointers by default](https://ubuntu.com/blog/ubuntu-performance-engineering-with-frame-pointers-by-default)
