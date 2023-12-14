@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-14, 09:45:28",
+      "https://lobste.rs/s/wcpu70/pay_no_attention_model_behind_curtain"
+    ],
+    [
+      "Pay No Attention to the Model Behind the Curtain",
+      "https://link.springer.com/article/10.1007/s00024-022-03137-2"
+    ]
+  ],
+  [
+    [
+      "2023-12-14, 09:45:04",
+      "https://lobste.rs/s/mwicmp/systemd_217_will_introduce_its_new"
+    ],
+    [
+      "Systemd 217 Will Introduce Its New \"Consoled\" User Console Daemon - Phoronix",
+      "https://www.phoronix.com/news/MTgwNzQ"
+    ]
+  ],
+  [
+    [
       "2023-12-14, 08:25:30",
       "https://lobste.rs/s/fmdvz1/postgres_wrappers_v0_2_query_pushdown"
     ],
@@ -97,16 +117,6 @@
     [
       "The best WebAssembly runtime may be no runtime at all",
       "https://00f.net/2023/12/11/webassembly-compilation-to-c/"
-    ]
-  ],
-  [
-    [
-      "2023-12-13, 21:13:36",
-      "https://lobste.rs/s/31xgij/kubernetes_1_29_networking_security"
-    ],
-    [
-      "Kubernetes 1.29 Networking and Security Enhancements",
-      "https://layer5.io/blog/kubernetes/kubernetes-129-highlights-features-and-deprecations"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Lobste.rs domain renewal outage",
       "https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage"
-    ]
-  ],
-  [
-    [
-      "2023-12-13, 13:41:01",
-      "https://lobste.rs/s/q29msm/nixos_dns_manage_your_dns_zones_with_nixos"
-    ],
-    [
-      "NixOS-DNS: Manage your dns zones with NixOS",
-      "https://github.com/Janik-Haag/nixos-dns/"
     ]
   ],
   [
