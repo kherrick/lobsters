@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-14, 01:46:54](https://lobste.rs/s/oy3kzt/read_through_original_worldwideweb) - [A read through the original WorldWideWeb proposal](https://andrewhuth.substack.com/p/a-read-through-the-original-worldwideweb)
 * [2023-12-13, 23:24:05](https://lobste.rs/s/2ibkla/deeper_dive_kube_scheduler) - [A Deeper Dive of kube-scheduler](https://www.awelm.com/posts/kube-scheduler/)
 * [2023-12-13, 22:18:33](https://lobste.rs/s/kd0ub1/cybersecurity_isn_t_special) - [Cybersecurity Isn't Special](https://kellyshortridge.com/blog/posts/cybersecurity-isnt-special/)
 * [2023-12-13, 21:52:08](https://lobste.rs/s/vdtxib/best_webassembly_runtime_may_be_no) - [The best WebAssembly runtime may be no runtime at all](https://00f.net/2023/12/11/webassembly-compilation-to-c/)
@@ -24,7 +25,6 @@
 * [2023-12-13, 11:04:32](https://lobste.rs/s/qnxhnh/making_it_harder_do_wrong) - [Making it harder to do wrong](https://daniel.haxx.se/blog/2023/12/13/making-it-harder-to-do-wrong/)
 * [2023-12-13, 04:59:29](https://lobste.rs/s/exax25/hi_my_name_is_keyboard) - [Hi, My Name Is Keyboard](https://github.com/skysafe/reblog/tree/main/cve-2023-45866)
 * [2023-12-12, 19:44:53](https://lobste.rs/s/fu9ebt/reclaiming_web_with_personal_reader) - [Reclaiming the Web with a Personal Reader](https://olano.dev/2023-12-12-reclaiming-the-web-with-a-personal-reader/)
-* [2023-12-12, 18:21:48](https://lobste.rs/s/me3bmv/zero_downtime_postgres_upgrades) - [Zero downtime Postgres upgrades](https://knock.app/blog/zero-downtime-postgres-upgrades)
 
 ## [Archives](archives/index.md)
 
