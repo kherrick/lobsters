@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-14](index.md)
 
+* [2023-12-14, 21:25:24](https://lobste.rs/s/6fg45l/how_write_reusable_java_code) - [How to write reusable Java code](https://www.infoworld.com/article/3710250/how-to-write-reusable-java-code.html)
 * [2023-12-14, 20:34:46](https://lobste.rs/s/2kutsh/if_buying_isn_t_owning_piracy_isn_t) - [If buying isn’t owning, piracy isn’t stealing](https://pluralistic.net/2023/12/08/playstationed/)
 * [2023-12-14, 20:32:19](https://lobste.rs/s/qkmytg/netflix_data_engineering_summit_ndes) - [Netflix Data Engineering Summit (NDES) - 2023](https://www.youtube.com/playlist?list=PLSECvWLlUYeF06QK5FOOELvgKdap3cQf0)
 * [2023-12-14, 20:25:55](https://lobste.rs/s/j7msxs/our_first_netflix_data_engineering) - [Our First Netflix Data Engineering Summit](https://netflixtechblog.com/our-first-netflix-data-engineering-summit-f326b0589102)
