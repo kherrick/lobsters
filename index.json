@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-14, 01:46:54",
+      "https://lobste.rs/s/oy3kzt/read_through_original_worldwideweb"
+    ],
+    [
+      "A read through the original WorldWideWeb proposal",
+      "https://andrewhuth.substack.com/p/a-read-through-the-original-worldwideweb"
+    ]
+  ],
+  [
+    [
       "2023-12-13, 23:24:05",
       "https://lobste.rs/s/2ibkla/deeper_dive_kube_scheduler"
     ],
@@ -237,16 +247,6 @@
     [
       "Reclaiming the Web with a Personal Reader",
       "https://olano.dev/2023-12-12-reclaiming-the-web-with-a-personal-reader/"
-    ]
-  ],
-  [
-    [
-      "2023-12-12, 18:21:48",
-      "https://lobste.rs/s/me3bmv/zero_downtime_postgres_upgrades"
-    ],
-    [
-      "Zero downtime Postgres upgrades",
-      "https://knock.app/blog/zero-downtime-postgres-upgrades"
     ]
   ]
 ]
