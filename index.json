@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-12-14, 12:53:56",
-      "https://lobste.rs/s/hdussk/go_is_amazing_for_zero_trust"
-    ],
-    [
-      "Go is Amazing for Zero Trust",
-      "https://blog.openziti.io/go-is-amazing-for-zero-trust"
-    ]
-  ],
-  [
-    [
       "2023-12-14, 11:57:25",
       "https://lobste.rs/s/itfqlf/s3_compatible_cloud_storage_costs"
     ],
@@ -87,6 +77,16 @@
     [
       "Systemd 217 Will Introduce Its New \"Consoled\" User Console Daemon (2014)",
       "https://www.phoronix.com/news/MTgwNzQ"
+    ]
+  ],
+  [
+    [
+      "2023-12-14, 08:25:30",
+      "https://lobste.rs/s/fmdvz1/postgres_wrappers_v0_2_query_pushdown"
+    ],
+    [
+      "Postgres Wrappers v0.2: Query Pushdown & Remote Subqueries",
+      "https://supabase.com/blog/supabase-wrappers-v02"
     ]
   ],
   [
