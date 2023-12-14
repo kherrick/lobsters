@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-12-14, 08:25:30](https://lobste.rs/s/fmdvz1/postgres_wrappers_v0_2_query_pushdown) - [Postgres Wrappers v0.2: Query Pushdown & Remote Subqueries](https://supabase.com/blog/supabase-wrappers-v02)
+* [2023-12-14, 08:18:17](https://lobste.rs/s/myjscq/effect_cases_switch) - [Effect cases in switch](https://mail.openjdk.org/pipermail/amber-spec-experts/2023-December/003959.html)
 * [2023-12-14, 08:08:38](https://lobste.rs/s/mnleej/xorg_being_removed_what_does_this_mean) - [Xorg being removed. What does this mean?](https://who-t.blogspot.com/2023/12/xorg-being-removed-what-does-this-mean.html)
 * [2023-12-14, 07:29:38](https://lobste.rs/s/sfl2tg/first_steps_programming_freebsd_reading) - [First steps in programming FreeBSD: Reading process information](https://patmaddox.com/doc/trunk/www/programming-freebsd-reading-process-information/)
 * [2023-12-14, 07:28:44](https://lobste.rs/s/s20vgn/hard_look_at_certificate_transparency) - [A hard look at Certificate Transparency, Part I: Transparency Systems](https://educatedguesswork.org/posts/transparency-part-1/)
@@ -15,7 +16,6 @@
 * [2023-12-13, 19:58:00](https://lobste.rs/s/h9khgh/kernel_vs_user_level_networking_don_t) - [Kernel vs. User-Level Networking: Don't Throw Out the Stack with the Interrupts](https://dl.acm.org/doi/10.1145/3626780)
 * [2023-12-13, 18:36:21](https://lobste.rs/s/pjoft2/stop_hiding_sharp_knives_webassembly) - [Stop Hiding The Sharp Knives: The WebAssembly Linux Interface](https://arxiv.org/abs/2312.03858)
 * [2023-12-13, 18:32:43](https://lobste.rs/s/lrl4bp/chatmail_replicable_fast_secure) - [Chatmail - replicable, fast and secure chatting infrastructure for all](https://delta.chat/en/2023-12-13-chatmail)
-* [2023-12-13, 18:27:37](https://lobste.rs/s/ddngvw/comparison_self_meshing_vpns) - [Comparison of self-meshing VPNs](https://mk16.de/blog/comparison-of-self-meshing-vpns/)
 * [2023-12-13, 16:23:08](https://lobste.rs/s/avrfxz/ubuntu_24_04_lts_will_enable_frame) - [Ubuntu 24.04 LTS will enable frame pointers by default](https://ubuntu.com/blog/ubuntu-performance-engineering-with-frame-pointers-by-default)
 * [2023-12-13, 14:53:32](https://lobste.rs/s/9pa3lb/htmx_is_erlang) - [htmx is a erlang](https://matt.sh/htmx-is-a-erlang)
 * [2023-12-13, 14:53:07](https://lobste.rs/s/h6rqol/ensuring_json_response_format_openai) - [Ensuring JSON Response Format in OpenAI Assistant API](https://scorpil.com/post/ensuring-json-response-format-in-openai-assistant-api/)
