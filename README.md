@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-14, 12:53:56](https://lobste.rs/s/hdussk/go_is_amazing_for_zero_trust) - [Go is Amazing for Zero Trust](https://blog.openziti.io/go-is-amazing-for-zero-trust)
 * [2023-12-14, 11:57:25](https://lobste.rs/s/itfqlf/s3_compatible_cloud_storage_costs) - [S3-Compatible Cloud Storage Costs](https://transactional.blog/blog/2023-cloud-storage-costs)
 * [2023-12-14, 11:43:19](https://lobste.rs/s/ubpilv/donkey_kong_record_struggle) - [Donkey Kong: A Record of Struggle](https://shmuplations.com/donkeykong/)
 * [2023-12-14, 11:33:43](https://lobste.rs/s/sra1vy/modern_ios_navigation_patterns) - [Modern iOS Navigation Patterns ·](https://frankrausch.com/ios-navigation)
@@ -17,7 +18,6 @@
 * [2023-12-13, 20:16:58](https://lobste.rs/s/b3tw7u/zombiezen_com_go_sqlite_reaches_1_0) - [zombiezen.com/go/sqlite reaches 1.0](https://www.zombiezen.com/blog/2023/12/go-sqlite-1-0/)
 * [2023-12-13, 19:58:00](https://lobste.rs/s/h9khgh/kernel_vs_user_level_networking_don_t) - [Kernel vs. User-Level Networking: Don't Throw Out the Stack with the Interrupts](https://dl.acm.org/doi/10.1145/3626780)
 * [2023-12-13, 18:36:21](https://lobste.rs/s/pjoft2/stop_hiding_sharp_knives_webassembly) - [Stop Hiding The Sharp Knives: The WebAssembly Linux Interface](https://arxiv.org/abs/2312.03858)
-* [2023-12-13, 18:32:43](https://lobste.rs/s/lrl4bp/chatmail_replicable_fast_secure) - [Chatmail - replicable, fast and secure chatting infrastructure for all](https://delta.chat/en/2023-12-13-chatmail)
 * [2023-12-13, 16:23:08](https://lobste.rs/s/avrfxz/ubuntu_24_04_lts_will_enable_frame) - [Ubuntu 24.04 LTS will enable frame pointers by default](https://ubuntu.com/blog/ubuntu-performance-engineering-with-frame-pointers-by-default)
 * [2023-12-13, 14:53:32](https://lobste.rs/s/9pa3lb/htmx_is_erlang) - [htmx is a erlang](https://matt.sh/htmx-is-a-erlang)
 * [2023-12-13, 13:59:27](https://lobste.rs/s/8mdz42/debugging_failing_hotkey) - [Debugging A Failing Hotkey](https://tratt.net/laurie/blog/2023/debugging_a_failing_hotkey.html)
