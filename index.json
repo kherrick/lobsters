@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-14, 12:53:56",
+      "https://lobste.rs/s/hdussk/go_is_amazing_for_zero_trust"
+    ],
+    [
+      "Go is Amazing for Zero Trust",
+      "https://blog.openziti.io/go-is-amazing-for-zero-trust"
+    ]
+  ],
+  [
+    [
       "2023-12-14, 11:57:25",
       "https://lobste.rs/s/itfqlf/s3_compatible_cloud_storage_costs"
     ],
@@ -167,16 +177,6 @@
     [
       "Stop Hiding The Sharp Knives: The WebAssembly Linux Interface",
       "https://arxiv.org/abs/2312.03858"
-    ]
-  ],
-  [
-    [
-      "2023-12-13, 18:32:43",
-      "https://lobste.rs/s/lrl4bp/chatmail_replicable_fast_secure"
-    ],
-    [
-      "Chatmail - replicable, fast and secure chatting infrastructure for all",
-      "https://delta.chat/en/2023-12-13-chatmail"
     ]
   ],
   [
