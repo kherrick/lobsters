@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-15, 11:14:24",
+      "https://lobste.rs/s/m9laok/sql_polyglot"
+    ],
+    [
+      "SQL Polyglot",
+      "https://codapi.org/sql/"
+    ]
+  ],
+  [
+    [
       "2023-12-15, 10:56:18",
       "https://lobste.rs/s/ku4y9y/partially_emulating_ifdef_go_with_build"
     ],
@@ -227,16 +237,6 @@
     [
       "Ubuntu 24.04 LTS will enable frame pointers by default",
       "https://ubuntu.com/blog/ubuntu-performance-engineering-with-frame-pointers-by-default"
-    ]
-  ],
-  [
-    [
-      "2023-12-13, 13:55:03",
-      "https://lobste.rs/s/k53l1s/what_i_like_about_nix"
-    ],
-    [
-      "What I Like About Nix",
-      "https://davi.sh/blog/2023/12/what-i-like-about-nix/"
     ]
   ],
   [
