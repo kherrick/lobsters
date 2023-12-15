@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-15](index.md)
 
+* [2023-12-15, 21:36:19](https://lobste.rs/s/svptcn/ssh3_ssh_using_http_3_quic) - [SSH3: ssh using HTTP/3 and QUIC](https://github.com/francoismichel/ssh3)
 * [2023-12-15, 20:04:30](https://lobste.rs/s/y01hjp/crdts_turned_inside_out) - [CRDTs Turned Inside Out](https://interjectedfuture.com/crdts-turned-inside-out/)
 * [2023-12-15, 19:54:24](https://lobste.rs/s/hndu2b/pg_sparse_sparse_vector_similarity) - [pg_sparse: Sparse Vector Similarity Search Inside Postgres - ParadeDB](https://docs.paradedb.com/blog/introducing_sparse)
 * [2023-12-15, 19:04:52](https://lobste.rs/s/ebdzaz/chatgpt_created_text_adventure_for_me) - [ChatGPT created a text adventure for me](https://andrewhuth.substack.com/p/chatgpt-created-a-text-adventure)
