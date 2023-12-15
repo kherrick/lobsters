@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-15, 20:04:30",
+      "https://lobste.rs/s/y01hjp/crdts_turned_inside_out"
+    ],
+    [
+      "CRDTs Turned Inside Out",
+      "https://interjectedfuture.com/crdts-turned-inside-out/"
+    ]
+  ],
+  [
+    [
+      "2023-12-15, 19:54:24",
+      "https://lobste.rs/s/hndu2b/pg_sparse_sparse_vector_similarity"
+    ],
+    [
+      "pg_sparse: Sparse Vector Similarity Search Inside Postgres - ParadeDB",
+      "https://docs.paradedb.com/blog/introducing_sparse"
+    ]
+  ],
+  [
+    [
       "2023-12-15, 17:49:51",
       "https://lobste.rs/s/pwm73r/lessons_from_implementing_hurl"
     ],
@@ -197,26 +217,6 @@
     [
       "Google Groups ending support for Usenet",
       "https://support.google.com/groups/answer/11036538?hl=en"
-    ]
-  ],
-  [
-    [
-      "2023-12-14, 19:04:42",
-      "https://lobste.rs/s/d36xfp/what_s_going_on_with_language_rankings"
-    ],
-    [
-      "What’s Going On With Language Rankings?",
-      "https://redmonk.com/rstephens/2023/12/14/language-rankings-update/"
-    ]
-  ],
-  [
-    [
-      "2023-12-14, 16:57:11",
-      "https://lobste.rs/s/ujqrrj/spritely_veilid_exciting_projects"
-    ],
-    [
-      "Spritely and Veilid: Exciting Projects Building the Peer-to-Peer Web",
-      "https://www.eff.org/deeplinks/2023/12/meet-spritely-and-veilid"
     ]
   ],
   [
