@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-15](index.md)
 
+* [2023-12-15, 17:07:29](https://lobste.rs/s/0w0qce/beyond_ui_using_slint_with_c_libs) - [Beyond UI: Using Slint with C++ libs](https://slint.dev/blog/beyond-ui-using-slint-with-cpp)
 * [2023-12-15, 16:56:08](https://lobste.rs/s/x0kglb/showstoppers_desktop_linux_without_vts) - [Showstoppers in Desktop Linux Without VTs in 2022. (2022)](https://webcache.googleusercontent.com/search?q=cache%3Ahttps%3A%2F%2Fwww.reddit.com%2Fr%2Flinux%2Fcomments%2Fsycbn0%2Fshowstoppers_in_desktop_linux_without_vts_in_2022%2F&sca_esv=591244276&strip=0&vwsrc=0)
 * [2023-12-15, 16:25:05](https://lobste.rs/s/uezbog/interfaces_are_not_meant_for) - [Interfaces Are Not Meant for That](https://preslav.me/2023/12/15/golang-interfaces-are-not-meant-for-that/)
 * [2023-12-15, 16:16:35](https://lobste.rs/s/n2lhcb/nasa_library_formal_method_developments) - [NASA Library of Formal Method Developments](https://github.com/nasa/pvslib)
