@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-15, 16:16:35",
+      "https://lobste.rs/s/n2lhcb/nasa_library_formal_method_developments"
+    ],
+    [
+      "NASA Library of Formal Method Developments",
+      "https://github.com/nasa/pvslib"
+    ]
+  ],
+  [
+    [
       "2023-12-15, 15:25:08",
       "https://lobste.rs/s/60nczk/scheme_scheme_on_wasm_browser"
     ],
@@ -227,16 +237,6 @@
     [
       "Sudden loss of domain",
       "https://b.tuxes.uk/domain-loss.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-13, 16:23:08",
-      "https://lobste.rs/s/avrfxz/ubuntu_24_04_lts_will_enable_frame"
-    ],
-    [
-      "Ubuntu 24.04 LTS will enable frame pointers by default",
-      "https://ubuntu.com/blog/ubuntu-performance-engineering-with-frame-pointers-by-default"
     ]
   ],
   [
