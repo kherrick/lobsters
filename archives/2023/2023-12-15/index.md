@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-15](index.md)
 
+* [2023-12-15, 23:34:16](https://lobste.rs/s/li3bqn/counterexamples_type_systems) - [Counterexamples in Type Systems](https://counterexamples.org/intro.html)
 * [2023-12-15, 22:30:15](https://lobste.rs/s/32czmn/troubleshooting_intermittent_failure) - [Troubleshooting an Intermittent Failure in CI Tests on ARM64](https://konghq.com/blog/engineering/troubleshooting-an-intermittent-failure-on-arm64)
 * [2023-12-15, 22:18:02](https://lobste.rs/s/kkxabl/reverse_engineering_bluetooth_le_led) - [Reverse engineering Bluetooth LE LED light controllers, or How I Bricked My Christmas Lights](https://www.whizzy.org/2023-12-14-bricked-xmas/)
 * [2023-12-15, 21:42:57](https://lobste.rs/s/hnhlqu/database_fundamentals) - [Database Fundamentals](https://tontinton.com/posts/database-fundementals/)
