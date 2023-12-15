@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-15](index.md)
 
+* [2023-12-15, 21:42:57](https://lobste.rs/s/hnhlqu/database_fundamentals) - [Database Fundamentals](https://tontinton.com/posts/database-fundementals/)
 * [2023-12-15, 21:36:19](https://lobste.rs/s/svptcn/ssh3_ssh_using_http_3_quic) - [SSH3: ssh using HTTP/3 and QUIC](https://github.com/francoismichel/ssh3)
 * [2023-12-15, 20:04:30](https://lobste.rs/s/y01hjp/crdts_turned_inside_out) - [CRDTs Turned Inside Out](https://interjectedfuture.com/crdts-turned-inside-out/)
 * [2023-12-15, 19:54:24](https://lobste.rs/s/hndu2b/pg_sparse_sparse_vector_similarity) - [pg_sparse: Sparse Vector Similarity Search Inside Postgres - ParadeDB](https://docs.paradedb.com/blog/introducing_sparse)
