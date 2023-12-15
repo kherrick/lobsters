@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-15, 14:00:47](https://lobste.rs/s/hqewtz/how_we_designed_flipper_cloud_never_take) - [How we designed Flipper Cloud to never take your app down](https://blog.flippercloud.io/how-we-designed-flipper-cloud-to-never-take-your-app-down/)
 * [2023-12-15, 13:03:30](https://lobste.rs/s/c1xdze/building_personal_predictive_text) - [Building a personal predictive text engine](https://jamesg.blog/2023/12/15/auto-write/)
 * [2023-12-15, 11:59:12](https://lobste.rs/s/jcubb5/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/jcubb5/what_are_you_doing_this_weekend)
 * [2023-12-15, 11:14:24](https://lobste.rs/s/m9laok/sql_polyglot) - [SQL Polyglot](https://codapi.org/sql/)
@@ -19,7 +20,6 @@
 * [2023-12-14, 15:26:15](https://lobste.rs/s/nfqbyh/who_do_you_use_for_hosting_your_personal) - [Who do you use for hosting your personal domain/mail?](https://lobste.rs/s/nfqbyh/who_do_you_use_for_hosting_your_personal)
 * [2023-12-14, 11:57:25](https://lobste.rs/s/itfqlf/s3_compatible_cloud_storage_costs) - [S3-Compatible Cloud Storage Costs](https://transactional.blog/blog/2023-cloud-storage-costs)
 * [2023-12-14, 10:16:49](https://lobste.rs/s/dio5kc/bash_one_liners_for_llms) - [Bash One-Liners for LLMs](https://justine.lol/oneliners/)
-* [2023-12-14, 09:54:03](https://lobste.rs/s/4cw8fz/should_you_add_screenshots) - [Should you add screenshots to documentation?](https://thisisimportant.net/posts/screenshots-in-documentation/)
 * [2023-12-14, 08:08:38](https://lobste.rs/s/mnleej/xorg_being_removed_what_does_this_mean) - [Xorg being removed. What does this mean?](https://who-t.blogspot.com/2023/12/xorg-being-removed-what-does-this-mean.html)
 * [2023-12-14, 07:29:38](https://lobste.rs/s/sfl2tg/first_steps_programming_freebsd_reading) - [First steps in programming FreeBSD: Reading process information](https://patmaddox.com/doc/trunk/www/programming-freebsd-reading-process-information/)
 * [2023-12-13, 20:56:35](https://lobste.rs/s/9r9ozr/sudden_loss_domain) - [Sudden loss of domain](https://b.tuxes.uk/domain-loss.html)
