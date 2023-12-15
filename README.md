@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-15, 11:59:12](https://lobste.rs/s/jcubb5/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/jcubb5/what_are_you_doing_this_weekend)
 * [2023-12-15, 11:14:24](https://lobste.rs/s/m9laok/sql_polyglot) - [SQL Polyglot](https://codapi.org/sql/)
 * [2023-12-15, 10:56:18](https://lobste.rs/s/ku4y9y/partially_emulating_ifdef_go_with_build) - [Partially emulating #ifdef in Go with build tags and consts](https://utcc.utoronto.ca/~cks/space/blog/programming/GoPartialIfdefWithConsts)
 * [2023-12-15, 10:22:09](https://lobste.rs/s/v3hhm3/sophia_lang_weekly_01) - [Sophia Lang Weekly - 01](https://xnacly.me/posts/2023/sophia-lang-weekly01/)
@@ -21,7 +22,6 @@
 * [2023-12-14, 08:18:17](https://lobste.rs/s/myjscq/effect_cases_switch) - [Effect cases in switch](https://mail.openjdk.org/pipermail/amber-spec-experts/2023-December/003959.html)
 * [2023-12-14, 08:08:38](https://lobste.rs/s/mnleej/xorg_being_removed_what_does_this_mean) - [Xorg being removed. What does this mean?](https://who-t.blogspot.com/2023/12/xorg-being-removed-what-does-this-mean.html)
 * [2023-12-14, 07:29:38](https://lobste.rs/s/sfl2tg/first_steps_programming_freebsd_reading) - [First steps in programming FreeBSD: Reading process information](https://patmaddox.com/doc/trunk/www/programming-freebsd-reading-process-information/)
-* [2023-12-13, 22:18:33](https://lobste.rs/s/kd0ub1/cybersecurity_isn_t_special) - [Cybersecurity Isn't Special](https://kellyshortridge.com/blog/posts/cybersecurity-isnt-special/)
 * [2023-12-13, 20:56:35](https://lobste.rs/s/9r9ozr/sudden_loss_domain) - [Sudden loss of domain](https://b.tuxes.uk/domain-loss.html)
 * [2023-12-13, 16:23:08](https://lobste.rs/s/avrfxz/ubuntu_24_04_lts_will_enable_frame) - [Ubuntu 24.04 LTS will enable frame pointers by default](https://ubuntu.com/blog/ubuntu-performance-engineering-with-frame-pointers-by-default)
 * [2023-12-13, 13:47:37](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage) - [Lobste.rs domain renewal outage](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage)
