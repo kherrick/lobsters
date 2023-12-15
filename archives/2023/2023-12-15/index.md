@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-15](index.md)
 
+* [2023-12-15, 13:03:30](https://lobste.rs/s/c1xdze/building_personal_predictive_text) - [Building a personal predictive text engine](https://jamesg.blog/2023/12/15/auto-write/)
 * [2023-12-15, 11:59:12](https://lobste.rs/s/jcubb5/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/jcubb5/what_are_you_doing_this_weekend)
 * [2023-12-15, 11:14:24](https://lobste.rs/s/m9laok/sql_polyglot) - [SQL Polyglot](https://codapi.org/sql/)
 * [2023-12-15, 10:56:18](https://lobste.rs/s/ku4y9y/partially_emulating_ifdef_go_with_build) - [Partially emulating #ifdef in Go with build tags and consts](https://utcc.utoronto.ca/~cks/space/blog/programming/GoPartialIfdefWithConsts)
