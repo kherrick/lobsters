@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-15, 16:56:08](https://lobste.rs/s/x0kglb/showstoppers_desktop_linux_without_vts) - [Showstoppers in Desktop Linux Without VTs in 2022. (2022)](https://webcache.googleusercontent.com/search?q=cache%3Ahttps%3A%2F%2Fwww.reddit.com%2Fr%2Flinux%2Fcomments%2Fsycbn0%2Fshowstoppers_in_desktop_linux_without_vts_in_2022%2F&sca_esv=591244276&strip=0&vwsrc=0)
 * [2023-12-15, 16:25:05](https://lobste.rs/s/uezbog/interfaces_are_not_meant_for) - [Interfaces Are Not Meant for That](https://preslav.me/2023/12/15/golang-interfaces-are-not-meant-for-that/)
 * [2023-12-15, 16:16:35](https://lobste.rs/s/n2lhcb/nasa_library_formal_method_developments) - [NASA Library of Formal Method Developments](https://github.com/nasa/pvslib)
 * [2023-12-15, 15:25:08](https://lobste.rs/s/60nczk/scheme_scheme_on_wasm_browser) - [Scheme in Scheme on Wasm in the browser](https://spritely.institute/news/scheme-in-scheme-on-wasm-in-the-browser.html)
@@ -22,7 +23,6 @@
 * [2023-12-14, 16:50:44](https://lobste.rs/s/wmk3vd/maybe_haskell) - [Maybe Haskell](https://books.thoughtbot.com/assets/maybe-haskell.pdf)
 * [2023-12-14, 15:26:15](https://lobste.rs/s/nfqbyh/who_do_you_use_for_hosting_your_personal) - [Who do you use for hosting your personal domain/mail?](https://lobste.rs/s/nfqbyh/who_do_you_use_for_hosting_your_personal)
 * [2023-12-14, 11:57:25](https://lobste.rs/s/itfqlf/s3_compatible_cloud_storage_costs) - [S3-Compatible Cloud Storage Costs](https://transactional.blog/blog/2023-cloud-storage-costs)
-* [2023-12-14, 10:16:49](https://lobste.rs/s/dio5kc/bash_one_liners_for_llms) - [Bash One-Liners for LLMs](https://justine.lol/oneliners/)
 * [2023-12-13, 20:56:35](https://lobste.rs/s/9r9ozr/sudden_loss_domain) - [Sudden loss of domain](https://b.tuxes.uk/domain-loss.html)
 * [2023-12-13, 13:47:37](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage) - [Lobste.rs domain renewal outage](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage)
 
