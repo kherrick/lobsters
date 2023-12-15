@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-15](index.md)
 
+* [2023-12-15, 11:14:24](https://lobste.rs/s/m9laok/sql_polyglot) - [SQL Polyglot](https://codapi.org/sql/)
 * [2023-12-15, 10:56:18](https://lobste.rs/s/ku4y9y/partially_emulating_ifdef_go_with_build) - [Partially emulating #ifdef in Go with build tags and consts](https://utcc.utoronto.ca/~cks/space/blog/programming/GoPartialIfdefWithConsts)
 * [2023-12-15, 10:22:09](https://lobste.rs/s/v3hhm3/sophia_lang_weekly_01) - [Sophia Lang Weekly - 01](https://xnacly.me/posts/2023/sophia-lang-weekly01/)
 * [2023-12-15, 08:10:25](https://lobste.rs/s/b3d1ba/structure_fts5_index_sqlite) - [Structure of FTS5 Index in SQLite](https://darksi.de/13.sqlite-fts5-structure/)
