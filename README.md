@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-15, 10:22:09](https://lobste.rs/s/v3hhm3/sophia_lang_weekly_01) - [Sophia Lang Weekly - 01](https://xnacly.me/posts/2023/sophia-lang-weekly01/)
 * [2023-12-15, 08:10:25](https://lobste.rs/s/b3d1ba/structure_fts5_index_sqlite) - [Structure of FTS5 Index in SQLite](https://darksi.de/13.sqlite-fts5-structure/)
 * [2023-12-15, 04:28:00](https://lobste.rs/s/rthy7b/protobuf_is_almost_streamable) - [Protobuf Is Almost Streamable](https://belkadan.com/blog/2023/12/Protobuf-Is-Almost-Streamable/)
 * [2023-12-15, 02:33:19](https://lobste.rs/s/2ufzly/pipe_dreams_life_times_yahoo_pipes) - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
@@ -7,7 +8,6 @@
 * [2023-12-15, 00:48:55](https://lobste.rs/s/vrz0c8/google_groups_ending_support_for_usenet) - [Google Groups ending support for Usenet](https://support.google.com/groups/answer/11036538?hl=en)
 * [2023-12-14, 22:30:28](https://lobste.rs/s/sm5h5h/uniting_linux_random_number_devices_2022) - [Uniting the Linux random-number devices (2022)](https://lwn.net/Articles/884875/)
 * [2023-12-14, 22:12:19](https://lobste.rs/s/6z5lbk/using_new_siri_voices_shortcuts) - [Using the new Siri voices in Shortcuts](https://ceph3.us/posts/siri-shortcuts/)
-* [2023-12-14, 21:25:24](https://lobste.rs/s/6fg45l/how_write_reusable_java_code) - [How to write reusable Java code](https://www.infoworld.com/article/3710250/how-to-write-reusable-java-code.html)
 * [2023-12-14, 19:04:42](https://lobste.rs/s/d36xfp/what_s_going_on_with_language_rankings) - [What’s Going On With Language Rankings?](https://redmonk.com/rstephens/2023/12/14/language-rankings-update/)
 * [2023-12-14, 17:48:15](https://lobste.rs/s/yeqpzi/five_tips_on_postgres_logical_decoding) - [Five tips on Postgres logical decoding](https://blog.peerdb.io/five-tips-on-postgres-logical-decoding)
 * [2023-12-14, 17:37:07](https://lobste.rs/s/qkc79d/ai_trust_crisis) - [The AI trust crisis](https://simonwillison.net/2023/Dec/14/ai-trust-crisis/)
