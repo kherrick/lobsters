@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-15](index.md)
 
+* [2023-12-15, 20:04:30](https://lobste.rs/s/y01hjp/crdts_turned_inside_out) - [CRDTs Turned Inside Out](https://interjectedfuture.com/crdts-turned-inside-out/)
+* [2023-12-15, 19:54:24](https://lobste.rs/s/hndu2b/pg_sparse_sparse_vector_similarity) - [pg_sparse: Sparse Vector Similarity Search Inside Postgres - ParadeDB](https://docs.paradedb.com/blog/introducing_sparse)
 * [2023-12-15, 19:04:52](https://lobste.rs/s/ebdzaz/chatgpt_created_text_adventure_for_me) - [ChatGPT created a text adventure for me](https://andrewhuth.substack.com/p/chatgpt-created-a-text-adventure)
 * [2023-12-15, 17:49:51](https://lobste.rs/s/pwm73r/lessons_from_implementing_hurl) - [Lessons from implementing Hurl](https://ntietz.com/blog/lessons-from-implementing-hurl/)
 * [2023-12-15, 17:47:08](https://lobste.rs/s/utmy6u/why_aren_t_we_sieve_ing) - [Why Aren't We SIEVE-ing?](https://brooker.co.za/blog/2023/12/15/sieve.html)

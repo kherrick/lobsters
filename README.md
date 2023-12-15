@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-15, 20:04:30](https://lobste.rs/s/y01hjp/crdts_turned_inside_out) - [CRDTs Turned Inside Out](https://interjectedfuture.com/crdts-turned-inside-out/)
+* [2023-12-15, 19:54:24](https://lobste.rs/s/hndu2b/pg_sparse_sparse_vector_similarity) - [pg_sparse: Sparse Vector Similarity Search Inside Postgres - ParadeDB](https://docs.paradedb.com/blog/introducing_sparse)
 * [2023-12-15, 17:49:51](https://lobste.rs/s/pwm73r/lessons_from_implementing_hurl) - [Lessons from implementing Hurl](https://ntietz.com/blog/lessons-from-implementing-hurl/)
 * [2023-12-15, 17:47:08](https://lobste.rs/s/utmy6u/why_aren_t_we_sieve_ing) - [Why Aren't We SIEVE-ing?](https://brooker.co.za/blog/2023/12/15/sieve.html)
 * [2023-12-15, 17:07:29](https://lobste.rs/s/0w0qce/beyond_ui_using_slint_with_c_libs) - [Beyond UI: Using Slint with C++ libs](https://slint.dev/blog/beyond-ui-using-slint-with-cpp)
@@ -20,8 +22,6 @@
 * [2023-12-15, 02:33:19](https://lobste.rs/s/2ufzly/pipe_dreams_life_times_yahoo_pipes) - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
 * [2023-12-15, 01:42:46](https://lobste.rs/s/qfbqsj/has_anyone_found_robust_way_test) - [Has anyone found a robust way to test interactive CLI programs?](https://lobste.rs/s/qfbqsj/has_anyone_found_robust_way_test)
 * [2023-12-15, 00:48:55](https://lobste.rs/s/vrz0c8/google_groups_ending_support_for_usenet) - [Google Groups ending support for Usenet](https://support.google.com/groups/answer/11036538?hl=en)
-* [2023-12-14, 19:04:42](https://lobste.rs/s/d36xfp/what_s_going_on_with_language_rankings) - [What’s Going On With Language Rankings?](https://redmonk.com/rstephens/2023/12/14/language-rankings-update/)
-* [2023-12-14, 16:57:11](https://lobste.rs/s/ujqrrj/spritely_veilid_exciting_projects) - [Spritely and Veilid: Exciting Projects Building the Peer-to-Peer Web](https://www.eff.org/deeplinks/2023/12/meet-spritely-and-veilid)
 * [2023-12-14, 16:50:44](https://lobste.rs/s/wmk3vd/maybe_haskell) - [Maybe Haskell](https://books.thoughtbot.com/assets/maybe-haskell.pdf)
 * [2023-12-14, 15:26:15](https://lobste.rs/s/nfqbyh/who_do_you_use_for_hosting_your_personal) - [Who do you use for hosting your personal domain/mail?](https://lobste.rs/s/nfqbyh/who_do_you_use_for_hosting_your_personal)
 * [2023-12-13, 13:47:37](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage) - [Lobste.rs domain renewal outage](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage)
