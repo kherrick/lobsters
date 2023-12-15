@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-15, 21:42:57",
+      "https://lobste.rs/s/hnhlqu/database_fundamentals"
+    ],
+    [
+      "Database Fundamentals",
+      "https://tontinton.com/posts/database-fundementals/"
+    ]
+  ],
+  [
+    [
       "2023-12-15, 21:36:19",
       "https://lobste.rs/s/svptcn/ssh3_ssh_using_http_3_quic"
     ],
@@ -57,16 +67,6 @@
     [
       "Beyond UI: Using Slint with C++ libs",
       "https://slint.dev/blog/beyond-ui-using-slint-with-cpp"
-    ]
-  ],
-  [
-    [
-      "2023-12-15, 16:56:08",
-      "https://lobste.rs/s/x0kglb/showstoppers_desktop_linux_without_vts"
-    ],
-    [
-      "Showstoppers in Desktop Linux Without VTs in 2022 (2022)",
-      "https://old.reddit.com/r/linux/comments/sycbn0/showstoppers_in_desktop_linux_without_vts_in_2022/"
     ]
   ],
   [
