@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-15, 16:16:35](https://lobste.rs/s/n2lhcb/nasa_library_formal_method_developments) - [NASA Library of Formal Method Developments](https://github.com/nasa/pvslib)
 * [2023-12-15, 15:25:08](https://lobste.rs/s/60nczk/scheme_scheme_on_wasm_browser) - [Scheme in Scheme on Wasm in the browser](https://spritely.institute/news/scheme-in-scheme-on-wasm-in-the-browser.html)
 * [2023-12-15, 14:17:30](https://lobste.rs/s/zzuirh/curiously_recurring_lifetime_issue) - [A curiously recurring lifetime issue](https://blog.dureuill.net/articles/recurring-lifetime/)
 * [2023-12-15, 14:16:37](https://lobste.rs/s/zzkkab/using_zig_call_c_code_strings) - [Using Zig to Call C Code: Strings](https://mtlynch.io/notes/zig-strings-call-c-code/)
@@ -23,7 +24,6 @@
 * [2023-12-14, 11:57:25](https://lobste.rs/s/itfqlf/s3_compatible_cloud_storage_costs) - [S3-Compatible Cloud Storage Costs](https://transactional.blog/blog/2023-cloud-storage-costs)
 * [2023-12-14, 10:16:49](https://lobste.rs/s/dio5kc/bash_one_liners_for_llms) - [Bash One-Liners for LLMs](https://justine.lol/oneliners/)
 * [2023-12-13, 20:56:35](https://lobste.rs/s/9r9ozr/sudden_loss_domain) - [Sudden loss of domain](https://b.tuxes.uk/domain-loss.html)
-* [2023-12-13, 16:23:08](https://lobste.rs/s/avrfxz/ubuntu_24_04_lts_will_enable_frame) - [Ubuntu 24.04 LTS will enable frame pointers by default](https://ubuntu.com/blog/ubuntu-performance-engineering-with-frame-pointers-by-default)
 * [2023-12-13, 13:47:37](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage) - [Lobste.rs domain renewal outage](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage)
 
 ## [Archives](archives/index.md)
