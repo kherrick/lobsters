@@ -1,9 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-15, 01:42:46](https://lobste.rs/s/qfbqsj/has_anyone_found_robust_way_test) - [Has anyone found a robust way to test interactive CLI programs?](https://lobste.rs/s/qfbqsj/has_anyone_found_robust_way_test)
 * [2023-12-14, 22:30:28](https://lobste.rs/s/sm5h5h/uniting_linux_random_number_devices) - [Uniting the Linux random-number devices](https://lwn.net/Articles/884875/)
 * [2023-12-14, 22:12:19](https://lobste.rs/s/6z5lbk/using_new_siri_voices_shortcuts) - [Using the new Siri voices in Shortcuts](https://ceph3.us/posts/siri-shortcuts/)
 * [2023-12-14, 19:04:42](https://lobste.rs/s/d36xfp/what_s_going_on_with_language_rankings) - [What’s Going On With Language Rankings?](https://redmonk.com/rstephens/2023/12/14/language-rankings-update/)
 * [2023-12-14, 17:48:15](https://lobste.rs/s/yeqpzi/five_tips_on_postgres_logical_decoding) - [Five tips on Postgres logical decoding](https://blog.peerdb.io/five-tips-on-postgres-logical-decoding)
+* [2023-12-14, 17:37:07](https://lobste.rs/s/qkc79d/ai_trust_crisis) - [The AI trust crisis](https://simonwillison.net/2023/Dec/14/ai-trust-crisis/)
 * [2023-12-14, 16:57:11](https://lobste.rs/s/ujqrrj/spritely_veilid_exciting_projects) - [Spritely and Veilid: Exciting Projects Building the Peer-to-Peer Web](https://www.eff.org/deeplinks/2023/12/meet-spritely-and-veilid)
 * [2023-12-14, 16:50:44](https://lobste.rs/s/wmk3vd/maybe_haskell) - [Maybe Haskell](https://books.thoughtbot.com/assets/maybe-haskell.pdf)
 * [2023-12-14, 15:27:09](https://lobste.rs/s/hnzn0v/mojo_point_view_researcher_using_python) - [Mojo: the point of view of a researcher using Python](https://augierpi.gricad-pages.univ-grenoble-alpes.fr/mojo-the-point-of-view-of-a-researcher-using-python.html)
@@ -13,7 +15,6 @@
 * [2023-12-14, 11:33:43](https://lobste.rs/s/sra1vy/modern_ios_navigation_patterns) - [Modern iOS Navigation Patterns](https://frankrausch.com/ios-navigation)
 * [2023-12-14, 10:16:49](https://lobste.rs/s/dio5kc/bash_one_liners_for_llms) - [Bash One-Liners for LLMs](https://justine.lol/oneliners/)
 * [2023-12-14, 09:54:03](https://lobste.rs/s/4cw8fz/should_you_add_screenshots) - [Should you add screenshots to documentation?](https://thisisimportant.net/posts/screenshots-in-documentation/)
-* [2023-12-14, 09:45:04](https://lobste.rs/s/mwicmp/systemd_217_will_introduce_its_new) - [Systemd 217 Will Introduce Its New \"Consoled\" User Console Daemon (2014)](https://www.phoronix.com/news/MTgwNzQ)
 * [2023-12-14, 08:18:17](https://lobste.rs/s/myjscq/effect_cases_switch) - [Effect cases in switch](https://mail.openjdk.org/pipermail/amber-spec-experts/2023-December/003959.html)
 * [2023-12-14, 08:08:38](https://lobste.rs/s/mnleej/xorg_being_removed_what_does_this_mean) - [Xorg being removed. What does this mean?](https://who-t.blogspot.com/2023/12/xorg-being-removed-what-does-this-mean.html)
 * [2023-12-14, 07:29:38](https://lobste.rs/s/sfl2tg/first_steps_programming_freebsd_reading) - [First steps in programming FreeBSD: Reading process information](https://patmaddox.com/doc/trunk/www/programming-freebsd-reading-process-information/)
@@ -24,7 +25,6 @@
 * [2023-12-13, 16:23:08](https://lobste.rs/s/avrfxz/ubuntu_24_04_lts_will_enable_frame) - [Ubuntu 24.04 LTS will enable frame pointers by default](https://ubuntu.com/blog/ubuntu-performance-engineering-with-frame-pointers-by-default)
 * [2023-12-13, 13:55:03](https://lobste.rs/s/k53l1s/what_i_like_about_nix) - [What I Like About Nix](https://davi.sh/blog/2023/12/what-i-like-about-nix/)
 * [2023-12-13, 13:47:37](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage) - [Lobste.rs domain renewal outage](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage)
-* [2023-12-13, 11:04:32](https://lobste.rs/s/qnxhnh/making_it_harder_do_wrong) - [Making it harder to do wrong](https://daniel.haxx.se/blog/2023/12/13/making-it-harder-to-do-wrong/)
 
 ## [Archives](archives/index.md)
 
