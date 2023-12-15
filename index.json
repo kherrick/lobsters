@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-15, 10:56:18",
+      "https://lobste.rs/s/ku4y9y/partially_emulating_ifdef_go_with_build"
+    ],
+    [
+      "Partially emulating #ifdef in Go with build tags and consts",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/GoPartialIfdefWithConsts"
+    ]
+  ],
+  [
+    [
       "2023-12-15, 10:22:09",
       "https://lobste.rs/s/v3hhm3/sophia_lang_weekly_01"
     ],
@@ -87,16 +97,6 @@
     [
       "What’s Going On With Language Rankings?",
       "https://redmonk.com/rstephens/2023/12/14/language-rankings-update/"
-    ]
-  ],
-  [
-    [
-      "2023-12-14, 17:48:15",
-      "https://lobste.rs/s/yeqpzi/five_tips_on_postgres_logical_decoding"
-    ],
-    [
-      "Five tips on Postgres logical decoding",
-      "https://blog.peerdb.io/five-tips-on-postgres-logical-decoding"
     ]
   ],
   [
