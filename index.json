@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-12-15, 21:42:57",
-      "https://lobste.rs/s/hnhlqu/database_fundamentals"
+      "2023-12-15, 22:18:02",
+      "https://lobste.rs/s/kkxabl/reverse_engineering_bluetooth_le_led"
     ],
     [
-      "Database Fundamentals",
-      "https://tontinton.com/posts/database-fundementals/"
+      "Reverse engineering Bluetooth LE LED light controllers, or How I Bricked My Christmas Lights",
+      "https://www.whizzy.org/2023-12-14-bricked-xmas/"
     ]
   ],
   [
@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-12-15, 17:49:51",
-      "https://lobste.rs/s/pwm73r/lessons_from_implementing_hurl"
-    ],
-    [
-      "Lessons from implementing Hurl",
-      "https://ntietz.com/blog/lessons-from-implementing-hurl/"
-    ]
-  ],
-  [
-    [
       "2023-12-15, 17:47:08",
       "https://lobste.rs/s/utmy6u/why_aren_t_we_sieve_ing"
     ],
@@ -67,6 +57,16 @@
     [
       "Beyond UI: Using Slint with C++ libs",
       "https://slint.dev/blog/beyond-ui-using-slint-with-cpp"
+    ]
+  ],
+  [
+    [
+      "2023-12-15, 16:56:08",
+      "https://lobste.rs/s/x0kglb/showstoppers_desktop_linux_without_vts"
+    ],
+    [
+      "Showstoppers in Desktop Linux Without VTs in 2022 (2022)",
+      "https://old.reddit.com/r/linux/comments/sycbn0/showstoppers_in_desktop_linux_without_vts_in_2022/"
     ]
   ],
   [
