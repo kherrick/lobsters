@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-15](index.md)
 
+* [2023-12-15, 14:17:30](https://lobste.rs/s/zzuirh/curiously_recurring_lifetime_issue) - [A curiously recurring lifetime issue](https://blog.dureuill.net/articles/recurring-lifetime/)
+* [2023-12-15, 14:16:37](https://lobste.rs/s/zzkkab/using_zig_call_c_code_strings) - [Using Zig to Call C Code: Strings](https://mtlynch.io/notes/zig-strings-call-c-code/)
 * [2023-12-15, 14:00:47](https://lobste.rs/s/hqewtz/how_we_designed_flipper_cloud_never_take) - [How we designed Flipper Cloud to never take your app down](https://blog.flippercloud.io/how-we-designed-flipper-cloud-to-never-take-your-app-down/)
 * [2023-12-15, 13:03:30](https://lobste.rs/s/c1xdze/building_personal_predictive_text) - [Building a personal predictive text engine](https://jamesg.blog/2023/12/15/auto-write/)
 * [2023-12-15, 11:59:12](https://lobste.rs/s/jcubb5/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/jcubb5/what_are_you_doing_this_weekend)
