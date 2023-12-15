@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-12-14, 13:26:03",
-      "https://lobste.rs/s/ekdlya/how_why_measure_dependency_freshness"
-    ],
-    [
-      "How and Why to Measure Dependency Freshness in Your Ruby Application",
-      "https://www.fastruby.io/blog/ruby-dependency-freshness.html"
-    ]
-  ],
-  [
-    [
       "2023-12-14, 11:57:25",
       "https://lobste.rs/s/itfqlf/s3_compatible_cloud_storage_costs"
     ],
@@ -147,6 +137,16 @@
     [
       "Should you add screenshots to documentation?",
       "https://thisisimportant.net/posts/screenshots-in-documentation/"
+    ]
+  ],
+  [
+    [
+      "2023-12-14, 09:45:04",
+      "https://lobste.rs/s/mwicmp/systemd_217_will_introduce_its_new"
+    ],
+    [
+      "Systemd 217 Will Introduce Its New \"Consoled\" User Console Daemon (2014)",
+      "https://www.phoronix.com/news/MTgwNzQ"
     ]
   ],
   [
