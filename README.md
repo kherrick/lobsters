@@ -2,6 +2,7 @@
 
 * [2023-12-15, 02:33:19](https://lobste.rs/s/2ufzly/pipe_dreams_life_times_yahoo_pipes) - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
 * [2023-12-15, 01:42:46](https://lobste.rs/s/qfbqsj/has_anyone_found_robust_way_test) - [Has anyone found a robust way to test interactive CLI programs?](https://lobste.rs/s/qfbqsj/has_anyone_found_robust_way_test)
+* [2023-12-15, 00:48:55](https://lobste.rs/s/vrz0c8/google_groups_ending_support_for_usenet) - [Google Groups ending support for Usenet](https://support.google.com/groups/answer/11036538?hl=en)
 * [2023-12-14, 22:30:28](https://lobste.rs/s/sm5h5h/uniting_linux_random_number_devices_2022) - [Uniting the Linux random-number devices (2022)](https://lwn.net/Articles/884875/)
 * [2023-12-14, 22:12:19](https://lobste.rs/s/6z5lbk/using_new_siri_voices_shortcuts) - [Using the new Siri voices in Shortcuts](https://ceph3.us/posts/siri-shortcuts/)
 * [2023-12-14, 19:04:42](https://lobste.rs/s/d36xfp/what_s_going_on_with_language_rankings) - [What’s Going On With Language Rankings?](https://redmonk.com/rstephens/2023/12/14/language-rankings-update/)
@@ -15,7 +16,6 @@
 * [2023-12-14, 11:33:43](https://lobste.rs/s/sra1vy/modern_ios_navigation_patterns) - [Modern iOS Navigation Patterns](https://frankrausch.com/ios-navigation)
 * [2023-12-14, 10:16:49](https://lobste.rs/s/dio5kc/bash_one_liners_for_llms) - [Bash One-Liners for LLMs](https://justine.lol/oneliners/)
 * [2023-12-14, 09:54:03](https://lobste.rs/s/4cw8fz/should_you_add_screenshots) - [Should you add screenshots to documentation?](https://thisisimportant.net/posts/screenshots-in-documentation/)
-* [2023-12-14, 09:45:04](https://lobste.rs/s/mwicmp/systemd_217_will_introduce_its_new) - [Systemd 217 Will Introduce Its New \"Consoled\" User Console Daemon (2014)](https://www.phoronix.com/news/MTgwNzQ)
 * [2023-12-14, 08:18:17](https://lobste.rs/s/myjscq/effect_cases_switch) - [Effect cases in switch](https://mail.openjdk.org/pipermail/amber-spec-experts/2023-December/003959.html)
 * [2023-12-14, 08:08:38](https://lobste.rs/s/mnleej/xorg_being_removed_what_does_this_mean) - [Xorg being removed. What does this mean?](https://who-t.blogspot.com/2023/12/xorg-being-removed-what-does-this-mean.html)
 * [2023-12-14, 07:29:38](https://lobste.rs/s/sfl2tg/first_steps_programming_freebsd_reading) - [First steps in programming FreeBSD: Reading process information](https://patmaddox.com/doc/trunk/www/programming-freebsd-reading-process-information/)
