@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-15, 02:33:19](https://lobste.rs/s/2ufzly/pipe_dreams_life_times_yahoo_pipes) - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
 * [2023-12-15, 01:42:46](https://lobste.rs/s/qfbqsj/has_anyone_found_robust_way_test) - [Has anyone found a robust way to test interactive CLI programs?](https://lobste.rs/s/qfbqsj/has_anyone_found_robust_way_test)
 * [2023-12-14, 22:30:28](https://lobste.rs/s/sm5h5h/uniting_linux_random_number_devices) - [Uniting the Linux random-number devices](https://lwn.net/Articles/884875/)
 * [2023-12-14, 22:12:19](https://lobste.rs/s/6z5lbk/using_new_siri_voices_shortcuts) - [Using the new Siri voices in Shortcuts](https://ceph3.us/posts/siri-shortcuts/)
@@ -20,7 +21,6 @@
 * [2023-12-14, 07:29:38](https://lobste.rs/s/sfl2tg/first_steps_programming_freebsd_reading) - [First steps in programming FreeBSD: Reading process information](https://patmaddox.com/doc/trunk/www/programming-freebsd-reading-process-information/)
 * [2023-12-14, 06:20:16](https://lobste.rs/s/ob1eh7/postgres_howtos) - [postgres-howtos](https://gitlab.com/postgres-ai/postgresql-consulting/postgres-howtos)
 * [2023-12-13, 22:18:33](https://lobste.rs/s/kd0ub1/cybersecurity_isn_t_special) - [Cybersecurity Isn't Special](https://kellyshortridge.com/blog/posts/cybersecurity-isnt-special/)
-* [2023-12-13, 21:52:08](https://lobste.rs/s/vdtxib/best_webassembly_runtime_may_be_no) - [The best WebAssembly runtime may be no runtime at all](https://00f.net/2023/12/11/webassembly-compilation-to-c/)
 * [2023-12-13, 20:56:35](https://lobste.rs/s/9r9ozr/sudden_loss_domain) - [Sudden loss of domain](https://b.tuxes.uk/domain-loss.html)
 * [2023-12-13, 16:23:08](https://lobste.rs/s/avrfxz/ubuntu_24_04_lts_will_enable_frame) - [Ubuntu 24.04 LTS will enable frame pointers by default](https://ubuntu.com/blog/ubuntu-performance-engineering-with-frame-pointers-by-default)
 * [2023-12-13, 13:55:03](https://lobste.rs/s/k53l1s/what_i_like_about_nix) - [What I Like About Nix](https://davi.sh/blog/2023/12/what-i-like-about-nix/)
