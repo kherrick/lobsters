@@ -11,6 +11,7 @@
 * [2023-12-16, 07:37:40](https://lobste.rs/s/zvn2yu/elf_binaries_everything_before_main) - [ELF binaries and everything before main() starts](https://2023.eurobsdcon.org/slides/eurobsdcon2023-janne_johansson-ELF-binaries.pdf)
 * [2023-12-16, 06:50:16](https://lobste.rs/s/g1omrn/cli_for_streams_data_s3_buckets) - [CLI for streams of data in S3 buckets](https://s3m.stream/)
 * [2023-12-16, 00:46:54](https://lobste.rs/s/l37ruh/remove_private_c_api_functions) - [Remove private C API functions](https://vstinner.github.io/remove-c-api-funcs-313.html)
+* [2023-12-15, 23:34:16](https://lobste.rs/s/li3bqn/counterexamples_type_systems) - [Counterexamples in Type Systems](https://counterexamples.org/intro.html)
 * [2023-12-15, 22:18:02](https://lobste.rs/s/kkxabl/reverse_engineering_bluetooth_le_led) - [Reverse engineering Bluetooth LE LED light controllers, or How I Bricked My Christmas Lights](https://www.whizzy.org/2023-12-14-bricked-xmas/)
 * [2023-12-15, 21:42:57](https://lobste.rs/s/hnhlqu/database_fundamentals) - [Database Fundamentals](https://tontinton.com/posts/database-fundementals/)
 * [2023-12-15, 21:36:19](https://lobste.rs/s/svptcn/ssh3_ssh_using_http_3_quic) - [SSH3: ssh using HTTP/3 and QUIC](https://github.com/francoismichel/ssh3)
@@ -22,7 +23,6 @@
 * [2023-12-15, 14:16:37](https://lobste.rs/s/zzkkab/using_zig_call_c_code_strings) - [Using Zig to Call C Code: Strings](https://mtlynch.io/notes/zig-strings-call-c-code/)
 * [2023-12-15, 14:00:47](https://lobste.rs/s/hqewtz/how_we_designed_flipper_cloud_never_take) - [How we designed Flipper Cloud to never take your app down](https://blog.flippercloud.io/how-we-designed-flipper-cloud-to-never-take-your-app-down/)
 * [2023-12-15, 11:59:12](https://lobste.rs/s/jcubb5/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/jcubb5/what_are_you_doing_this_weekend)
-* [2023-12-15, 04:28:00](https://lobste.rs/s/rthy7b/protobuf_is_almost_streamable) - [Protobuf Is Almost Streamable](https://belkadan.com/blog/2023/12/Protobuf-Is-Almost-Streamable/)
 * [2023-12-15, 00:48:55](https://lobste.rs/s/vrz0c8/google_groups_ending_support_for_usenet) - [Google Groups ending support for Usenet](https://support.google.com/groups/answer/11036538?hl=en)
 * [2023-12-13, 13:47:37](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage) - [Lobste.rs domain renewal outage](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage)
 
