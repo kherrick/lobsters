@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-16](index.md)
 
+* [2023-12-16, 17:56:29](https://lobste.rs/s/fs8czt/bill_lamie_story_man_his_real_time) - [Bill Lamie: Story of a man and his real-time operating systems](https://www.embedded.com/bill-lamie-story-of-a-man-and-his-real-time-operating-systems/)
 * [2023-12-16, 17:46:29](https://lobste.rs/s/bq4yvr/kde_android_apps_porting_update_qt_6) - [KDE Android apps porting update (Qt 6)](https://www.volkerkrause.eu/2023/12/16/kf6-android-porting-status.html)
 * [2023-12-16, 17:45:10](https://lobste.rs/s/l3l3t5/two_interesting_xor_circuits_inside) - [Two interesting XOR circuits inside the Intel 386 processor](http://www.righto.com/2023/12/386-xor-circuits.html)
 * [2023-12-16, 15:26:06](https://lobste.rs/s/g3hxhf/how_do_you_write_good_tutorial_for_open) - [How do you write a good tutorial for an open source project?](https://lobste.rs/s/g3hxhf/how_do_you_write_good_tutorial_for_open)
