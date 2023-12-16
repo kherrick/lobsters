@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-16, 06:50:16",
+      "https://lobste.rs/s/g1omrn/cli_for_streams_data_s3_buckets"
+    ],
+    [
+      "CLI for streams of data in S3 buckets",
+      "https://s3m.stream/"
+    ]
+  ],
+  [
+    [
       "2023-12-16, 00:46:54",
       "https://lobste.rs/s/l37ruh/remove_private_c_api_functions"
     ],
@@ -57,16 +67,6 @@
     [
       "pg_sparse: Sparse Vector Similarity Search Inside Postgres - ParadeDB",
       "https://docs.paradedb.com/blog/introducing_sparse"
-    ]
-  ],
-  [
-    [
-      "2023-12-15, 17:49:51",
-      "https://lobste.rs/s/pwm73r/lessons_from_implementing_hurl"
-    ],
-    [
-      "Lessons from implementing Hurl",
-      "https://ntietz.com/blog/lessons-from-implementing-hurl/"
     ]
   ],
   [
