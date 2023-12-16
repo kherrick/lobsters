@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-16, 08:20:04",
+      "https://lobste.rs/s/87aheu/multithreading_memory_mapping_refining"
+    ],
+    [
+      "Multithreading and Memory-Mapping: Refining ANN Performance with Arroy in Rust",
+      "https://blog.kerollmops.com/multithreading-and-memory-mapping-refining-ann-performance-with-arroy-in-rust"
+    ]
+  ],
+  [
+    [
       "2023-12-16, 07:37:40",
       "https://lobste.rs/s/zvn2yu/elf_binaries_everything_before_main"
     ],
@@ -207,16 +217,6 @@
     [
       "Pipe Dreams: The life and times of Yahoo Pipes",
       "https://retool.com/pipes"
-    ]
-  ],
-  [
-    [
-      "2023-12-15, 01:42:46",
-      "https://lobste.rs/s/qfbqsj/has_anyone_found_robust_way_test"
-    ],
-    [
-      "Has anyone found a robust way to test interactive CLI programs?",
-      "https://lobste.rs/s/qfbqsj/has_anyone_found_robust_way_test"
     ]
   ],
   [
