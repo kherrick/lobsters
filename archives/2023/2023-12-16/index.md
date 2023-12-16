@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-16](index.md)
 
+* [2023-12-16, 14:50:24](https://lobste.rs/s/g1vb15/preparing_for_missions_difficult_places) - [Preparing for missions in difficult places](https://www.bitecode.dev/p/preparing-for-missions-in-difficult)
 * [2023-12-16, 14:14:37](https://lobste.rs/s/ofcq2t/new_plans_for_self_hosted_zulip_customers) - [New plans for self-hosted Zulip customers](https://blog.zulip.com/2023/12/15/new-plans-for-self-hosted-customers/)
 * [2023-12-16, 12:33:20](https://lobste.rs/s/xxsl2k/data_exfiltration_from_writer_com_with) - [Data exfiltration from Writer.com with indirect prompt injection](https://promptarmor.substack.com/p/data-exfiltration-from-writercom)
 * [2023-12-16, 08:20:04](https://lobste.rs/s/87aheu/multithreading_memory_mapping_refining) - [Multithreading and Memory-Mapping: Refining ANN Performance with Arroy in Rust](https://blog.kerollmops.com/multithreading-and-memory-mapping-refining-ann-performance-with-arroy-in-rust)

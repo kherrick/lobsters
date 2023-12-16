@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-16, 14:50:24](https://lobste.rs/s/g1vb15/preparing_for_missions_difficult_places) - [Preparing for missions in difficult places](https://www.bitecode.dev/p/preparing-for-missions-in-difficult)
 * [2023-12-16, 14:14:37](https://lobste.rs/s/ofcq2t/new_plans_for_self_hosted_zulip_customers) - [New plans for self-hosted Zulip customers](https://blog.zulip.com/2023/12/15/new-plans-for-self-hosted-customers/)
 * [2023-12-16, 12:33:20](https://lobste.rs/s/xxsl2k/data_exfiltration_from_writer_com_with) - [Data exfiltration from Writer.com with indirect prompt injection](https://promptarmor.substack.com/p/data-exfiltration-from-writercom)
 * [2023-12-16, 08:20:04](https://lobste.rs/s/87aheu/multithreading_memory_mapping_refining) - [Multithreading and Memory-Mapping: Refining ANN Performance with Arroy in Rust](https://blog.kerollmops.com/multithreading-and-memory-mapping-refining-ann-performance-with-arroy-in-rust)
@@ -20,7 +21,6 @@
 * [2023-12-15, 14:00:47](https://lobste.rs/s/hqewtz/how_we_designed_flipper_cloud_never_take) - [How we designed Flipper Cloud to never take your app down](https://blog.flippercloud.io/how-we-designed-flipper-cloud-to-never-take-your-app-down/)
 * [2023-12-15, 13:03:30](https://lobste.rs/s/c1xdze/building_personal_predictive_text) - [Building a personal predictive text engine](https://jamesg.blog/2023/12/15/auto-write/)
 * [2023-12-15, 11:59:12](https://lobste.rs/s/jcubb5/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/jcubb5/what_are_you_doing_this_weekend)
-* [2023-12-15, 11:14:24](https://lobste.rs/s/m9laok/sql_polyglot) - [SQL Polyglot](https://codapi.org/sql/)
 * [2023-12-15, 08:10:25](https://lobste.rs/s/b3d1ba/structure_fts5_index_sqlite) - [Structure of FTS5 Index in SQLite](https://darksi.de/13.sqlite-fts5-structure/)
 * [2023-12-15, 04:28:00](https://lobste.rs/s/rthy7b/protobuf_is_almost_streamable) - [Protobuf Is Almost Streamable](https://belkadan.com/blog/2023/12/Protobuf-Is-Almost-Streamable/)
 * [2023-12-15, 00:48:55](https://lobste.rs/s/vrz0c8/google_groups_ending_support_for_usenet) - [Google Groups ending support for Usenet](https://support.google.com/groups/answer/11036538?hl=en)
