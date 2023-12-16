@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-16, 14:14:37](https://lobste.rs/s/ofcq2t/new_plans_for_self_hosted_zulip_customers) - [New plans for self-hosted Zulip customers](https://blog.zulip.com/2023/12/15/new-plans-for-self-hosted-customers/)
 * [2023-12-16, 12:33:20](https://lobste.rs/s/xxsl2k/data_exfiltration_from_writer_com_with) - [Data exfiltration from Writer.com with indirect prompt injection](https://promptarmor.substack.com/p/data-exfiltration-from-writercom)
 * [2023-12-16, 08:20:04](https://lobste.rs/s/87aheu/multithreading_memory_mapping_refining) - [Multithreading and Memory-Mapping: Refining ANN Performance with Arroy in Rust](https://blog.kerollmops.com/multithreading-and-memory-mapping-refining-ann-performance-with-arroy-in-rust)
 * [2023-12-16, 07:37:40](https://lobste.rs/s/zvn2yu/elf_binaries_everything_before_main) - [ELF binaries and everything before main() starts](https://2023.eurobsdcon.org/slides/eurobsdcon2023-janne_johansson-ELF-binaries.pdf)
@@ -22,7 +23,6 @@
 * [2023-12-15, 11:14:24](https://lobste.rs/s/m9laok/sql_polyglot) - [SQL Polyglot](https://codapi.org/sql/)
 * [2023-12-15, 08:10:25](https://lobste.rs/s/b3d1ba/structure_fts5_index_sqlite) - [Structure of FTS5 Index in SQLite](https://darksi.de/13.sqlite-fts5-structure/)
 * [2023-12-15, 04:28:00](https://lobste.rs/s/rthy7b/protobuf_is_almost_streamable) - [Protobuf Is Almost Streamable](https://belkadan.com/blog/2023/12/Protobuf-Is-Almost-Streamable/)
-* [2023-12-15, 02:33:19](https://lobste.rs/s/2ufzly/pipe_dreams_life_times_yahoo_pipes) - [Pipe Dreams: The life and times of Yahoo Pipes](https://retool.com/pipes)
 * [2023-12-15, 00:48:55](https://lobste.rs/s/vrz0c8/google_groups_ending_support_for_usenet) - [Google Groups ending support for Usenet](https://support.google.com/groups/answer/11036538?hl=en)
 * [2023-12-13, 13:47:37](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage) - [Lobste.rs domain renewal outage](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage)
 
