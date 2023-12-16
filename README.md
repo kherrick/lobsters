@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-16, 17:46:29](https://lobste.rs/s/bq4yvr/kde_android_apps_porting_update_qt_6) - [KDE Android apps porting update (Qt 6)](https://www.volkerkrause.eu/2023/12/16/kf6-android-porting-status.html)
+* [2023-12-16, 17:45:10](https://lobste.rs/s/l3l3t5/two_interesting_xor_circuits_inside) - [Two interesting XOR circuits inside the Intel 386 processor](http://www.righto.com/2023/12/386-xor-circuits.html)
 * [2023-12-16, 15:26:06](https://lobste.rs/s/g3hxhf/how_do_you_write_good_tutorial_for_open) - [How do you write a good tutorial for an open source project?](https://lobste.rs/s/g3hxhf/how_do_you_write_good_tutorial_for_open)
 * [2023-12-16, 12:33:20](https://lobste.rs/s/xxsl2k/data_exfiltration_from_writer_com_with) - [Data exfiltration from Writer.com with indirect prompt injection](https://promptarmor.substack.com/p/data-exfiltration-from-writercom)
 * [2023-12-16, 08:20:04](https://lobste.rs/s/87aheu/multithreading_memory_mapping_refining) - [Multithreading and Memory-Mapping: Refining ANN Performance with Arroy in Rust](https://blog.kerollmops.com/multithreading-and-memory-mapping-refining-ann-performance-with-arroy-in-rust)
@@ -19,9 +21,7 @@
 * [2023-12-15, 14:17:30](https://lobste.rs/s/zzuirh/curiously_recurring_lifetime_issue) - [A curiously recurring lifetime issue](https://blog.dureuill.net/articles/recurring-lifetime/)
 * [2023-12-15, 14:16:37](https://lobste.rs/s/zzkkab/using_zig_call_c_code_strings) - [Using Zig to Call C Code: Strings](https://mtlynch.io/notes/zig-strings-call-c-code/)
 * [2023-12-15, 14:00:47](https://lobste.rs/s/hqewtz/how_we_designed_flipper_cloud_never_take) - [How we designed Flipper Cloud to never take your app down](https://blog.flippercloud.io/how-we-designed-flipper-cloud-to-never-take-your-app-down/)
-* [2023-12-15, 13:03:30](https://lobste.rs/s/c1xdze/building_personal_predictive_text) - [Building a personal predictive text engine](https://jamesg.blog/2023/12/15/auto-write/)
 * [2023-12-15, 11:59:12](https://lobste.rs/s/jcubb5/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/jcubb5/what_are_you_doing_this_weekend)
-* [2023-12-15, 11:14:24](https://lobste.rs/s/m9laok/sql_polyglot) - [SQL Polyglot](https://codapi.org/sql/)
 * [2023-12-15, 04:28:00](https://lobste.rs/s/rthy7b/protobuf_is_almost_streamable) - [Protobuf Is Almost Streamable](https://belkadan.com/blog/2023/12/Protobuf-Is-Almost-Streamable/)
 * [2023-12-15, 00:48:55](https://lobste.rs/s/vrz0c8/google_groups_ending_support_for_usenet) - [Google Groups ending support for Usenet](https://support.google.com/groups/answer/11036538?hl=en)
 * [2023-12-13, 13:47:37](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage) - [Lobste.rs domain renewal outage](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage)
