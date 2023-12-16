@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-16, 22:45:24](https://lobste.rs/s/rs0zgd/atree_stevan_apter_style_trees_c_17) - [atree: Stevan Apter-style trees in C++17](https://github.com/tlack/atree)
 * [2023-12-16, 19:10:13](https://lobste.rs/s/oedzoz/how_use_hdmi_monitor_usb_mouse_keyboard) - [How to use a HDMI monitor and USB mouse/keyboard in Promox VE on an Intel Alder Lake-N mini PC](https://www.cnx-software.com/2023/12/17/how-to-use-a-hdmi-monitor-usb-mouse-keyboard-in-promox-ve-on-an-intel-alder-lake-n-mini-pc/)
 * [2023-12-16, 19:01:35](https://lobste.rs/s/p8048r/international_workshop_on_plan_9_2024) - [International Workshop on Plan 9: 2024 Edition](https://iwp9.org/)
 * [2023-12-16, 17:56:29](https://lobste.rs/s/fs8czt/bill_lamie_story_man_his_real_time) - [Bill Lamie: Story of a man and his real-time operating systems (2010)](https://www.embedded.com/bill-lamie-story-of-a-man-and-his-real-time-operating-systems/)
@@ -11,7 +12,6 @@
 * [2023-12-16, 07:37:40](https://lobste.rs/s/zvn2yu/elf_binaries_everything_before_main) - [ELF binaries and everything before main() starts](https://2023.eurobsdcon.org/slides/eurobsdcon2023-janne_johansson-ELF-binaries.pdf)
 * [2023-12-16, 06:50:16](https://lobste.rs/s/g1omrn/cli_for_streams_data_s3_buckets) - [CLI for streams of data in S3 buckets](https://s3m.stream/)
 * [2023-12-16, 00:46:54](https://lobste.rs/s/l37ruh/remove_private_c_api_functions) - [Remove private C API functions](https://vstinner.github.io/remove-c-api-funcs-313.html)
-* [2023-12-15, 23:34:16](https://lobste.rs/s/li3bqn/counterexamples_type_systems) - [Counterexamples in Type Systems](https://counterexamples.org/intro.html)
 * [2023-12-15, 22:18:02](https://lobste.rs/s/kkxabl/reverse_engineering_bluetooth_le_led) - [Reverse engineering Bluetooth LE LED light controllers, or How I Bricked My Christmas Lights](https://www.whizzy.org/2023-12-14-bricked-xmas/)
 * [2023-12-15, 21:42:57](https://lobste.rs/s/hnhlqu/database_fundamentals) - [Database Fundamentals](https://tontinton.com/posts/database-fundementals/)
 * [2023-12-15, 21:36:19](https://lobste.rs/s/svptcn/ssh3_ssh_using_http_3_quic) - [SSH3: ssh using HTTP/3 and QUIC](https://github.com/francoismichel/ssh3)
