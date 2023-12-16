@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-16, 06:50:16](https://lobste.rs/s/g1omrn/cli_for_streams_data_s3_buckets) - [CLI for streams of data in S3 buckets](https://s3m.stream/)
 * [2023-12-16, 00:46:54](https://lobste.rs/s/l37ruh/remove_private_c_api_functions) - [Remove private C API functions](https://vstinner.github.io/remove-c-api-funcs-313.html)
 * [2023-12-15, 22:18:02](https://lobste.rs/s/kkxabl/reverse_engineering_bluetooth_le_led) - [Reverse engineering Bluetooth LE LED light controllers, or How I Bricked My Christmas Lights](https://www.whizzy.org/2023-12-14-bricked-xmas/)
 * [2023-12-15, 21:42:57](https://lobste.rs/s/hnhlqu/database_fundamentals) - [Database Fundamentals](https://tontinton.com/posts/database-fundementals/)
 * [2023-12-15, 21:36:19](https://lobste.rs/s/svptcn/ssh3_ssh_using_http_3_quic) - [SSH3: ssh using HTTP/3 and QUIC](https://github.com/francoismichel/ssh3)
 * [2023-12-15, 20:04:30](https://lobste.rs/s/y01hjp/crdts_turned_inside_out) - [CRDTs Turned Inside Out](https://interjectedfuture.com/crdts-turned-inside-out/)
 * [2023-12-15, 19:54:24](https://lobste.rs/s/hndu2b/pg_sparse_sparse_vector_similarity) - [pg_sparse: Sparse Vector Similarity Search Inside Postgres - ParadeDB](https://docs.paradedb.com/blog/introducing_sparse)
-* [2023-12-15, 17:49:51](https://lobste.rs/s/pwm73r/lessons_from_implementing_hurl) - [Lessons from implementing Hurl](https://ntietz.com/blog/lessons-from-implementing-hurl/)
 * [2023-12-15, 17:47:08](https://lobste.rs/s/utmy6u/why_aren_t_we_sieve_ing) - [Why Aren't We SIEVE-ing?](https://brooker.co.za/blog/2023/12/15/sieve.html)
 * [2023-12-15, 16:25:05](https://lobste.rs/s/uezbog/interfaces_are_not_meant_for) - [Interfaces Are Not Meant for That](https://preslav.me/2023/12/15/golang-interfaces-are-not-meant-for-that/)
 * [2023-12-15, 16:16:35](https://lobste.rs/s/n2lhcb/nasa_library_formal_method_developments) - [NASA Library of Formal Method Developments](https://github.com/nasa/pvslib)
