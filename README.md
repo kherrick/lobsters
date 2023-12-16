@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-16, 19:01:35](https://lobste.rs/s/p8048r/international_workshop_on_plan_9_2024) - [International Workshop on Plan 9: 2024 Edition](https://iwp9.org/)
 * [2023-12-16, 17:56:29](https://lobste.rs/s/fs8czt/bill_lamie_story_man_his_real_time) - [Bill Lamie: Story of a man and his real-time operating systems](https://www.embedded.com/bill-lamie-story-of-a-man-and-his-real-time-operating-systems/)
 * [2023-12-16, 17:46:29](https://lobste.rs/s/bq4yvr/kde_android_apps_porting_update_qt_6) - [KDE Android apps porting update (Qt 6)](https://www.volkerkrause.eu/2023/12/16/kf6-android-porting-status.html)
 * [2023-12-16, 17:45:10](https://lobste.rs/s/l3l3t5/two_interesting_xor_circuits_inside) - [Two interesting XOR circuits inside the Intel 386 processor](http://www.righto.com/2023/12/386-xor-circuits.html)
@@ -17,7 +18,6 @@
 * [2023-12-15, 17:47:08](https://lobste.rs/s/utmy6u/why_aren_t_we_sieve_ing) - [Why Aren't We SIEVE-ing?](https://brooker.co.za/blog/2023/12/15/sieve.html)
 * [2023-12-15, 16:25:05](https://lobste.rs/s/uezbog/interfaces_are_not_meant_for) - [Interfaces Are Not Meant for That](https://preslav.me/2023/12/15/golang-interfaces-are-not-meant-for-that/)
 * [2023-12-15, 16:16:35](https://lobste.rs/s/n2lhcb/nasa_library_formal_method_developments) - [NASA Library of Formal Method Developments](https://github.com/nasa/pvslib)
-* [2023-12-15, 15:25:08](https://lobste.rs/s/60nczk/scheme_scheme_on_wasm_browser) - [Scheme in Scheme on Wasm in the browser](https://spritely.institute/news/scheme-in-scheme-on-wasm-in-the-browser.html)
 * [2023-12-15, 14:17:30](https://lobste.rs/s/zzuirh/curiously_recurring_lifetime_issue) - [A curiously recurring lifetime issue](https://blog.dureuill.net/articles/recurring-lifetime/)
 * [2023-12-15, 14:16:37](https://lobste.rs/s/zzkkab/using_zig_call_c_code_strings) - [Using Zig to Call C Code: Strings](https://mtlynch.io/notes/zig-strings-call-c-code/)
 * [2023-12-15, 14:00:47](https://lobste.rs/s/hqewtz/how_we_designed_flipper_cloud_never_take) - [How we designed Flipper Cloud to never take your app down](https://blog.flippercloud.io/how-we-designed-flipper-cloud-to-never-take-your-app-down/)
