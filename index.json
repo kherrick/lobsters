@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-16, 17:56:29",
+      "https://lobste.rs/s/fs8czt/bill_lamie_story_man_his_real_time"
+    ],
+    [
+      "Bill Lamie: Story of a man and his real-time operating systems",
+      "https://www.embedded.com/bill-lamie-story-of-a-man-and-his-real-time-operating-systems/"
+    ]
+  ],
+  [
+    [
       "2023-12-16, 17:46:29",
       "https://lobste.rs/s/bq4yvr/kde_android_apps_porting_update_qt_6"
     ],
@@ -77,16 +87,6 @@
     [
       "Remove private C API functions",
       "https://vstinner.github.io/remove-c-api-funcs-313.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-15, 23:34:16",
-      "https://lobste.rs/s/li3bqn/counterexamples_type_systems"
-    ],
-    [
-      "Counterexamples in Type Systems",
-      "https://counterexamples.org/intro.html"
     ]
   ],
   [
