@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-12-15, 23:34:16",
-      "https://lobste.rs/s/li3bqn/counterexamples_type_systems"
+      "2023-12-16, 00:46:54",
+      "https://lobste.rs/s/l37ruh/remove_private_c_api_functions"
     ],
     [
-      "Counterexamples in Type Systems",
-      "https://counterexamples.org/intro.html"
+      "Remove private C API functions",
+      "https://vstinner.github.io/remove-c-api-funcs-313.html"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Reverse engineering Bluetooth LE LED light controllers, or How I Bricked My Christmas Lights",
       "https://www.whizzy.org/2023-12-14-bricked-xmas/"
+    ]
+  ],
+  [
+    [
+      "2023-12-15, 21:42:57",
+      "https://lobste.rs/s/hnhlqu/database_fundamentals"
+    ],
+    [
+      "Database Fundamentals",
+      "https://tontinton.com/posts/database-fundementals/"
     ]
   ],
   [
@@ -51,22 +61,22 @@
   ],
   [
     [
+      "2023-12-15, 17:49:51",
+      "https://lobste.rs/s/pwm73r/lessons_from_implementing_hurl"
+    ],
+    [
+      "Lessons from implementing Hurl",
+      "https://ntietz.com/blog/lessons-from-implementing-hurl/"
+    ]
+  ],
+  [
+    [
       "2023-12-15, 17:47:08",
       "https://lobste.rs/s/utmy6u/why_aren_t_we_sieve_ing"
     ],
     [
       "Why Aren't We SIEVE-ing?",
       "https://brooker.co.za/blog/2023/12/15/sieve.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-15, 17:07:29",
-      "https://lobste.rs/s/0w0qce/beyond_ui_using_slint_with_c_libs"
-    ],
-    [
-      "Beyond UI: Using Slint with C++ libs",
-      "https://slint.dev/blog/beyond-ui-using-slint-with-cpp"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "SQL Polyglot",
       "https://codapi.org/sql/"
-    ]
-  ],
-  [
-    [
-      "2023-12-15, 10:56:18",
-      "https://lobste.rs/s/ku4y9y/partially_emulating_ifdef_go_with_build"
-    ],
-    [
-      "Partially emulating #ifdef in Go with build tags and consts",
-      "https://utcc.utoronto.ca/~cks/space/blog/programming/GoPartialIfdefWithConsts"
     ]
   ],
   [
