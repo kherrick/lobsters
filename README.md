@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-17, 14:14:47](https://lobste.rs/s/1cjlna/rabbit_hole_unsafe_rust_bugs) - [The rabbit hole of unsafe Rust bugs](https://notgull.net/cautionary-unsafe-tale/)
 * [2023-12-17, 13:36:36](https://lobste.rs/s/j1scvx/evaluating_new_software_forges) - [Evaluating new software forges](https://notgull.net/finding-a-forge/)
 * [2023-12-17, 12:58:00](https://lobste.rs/s/ubrvww/banish_state_mutating_methods_from_data) - [Banish state-mutating methods from data classes](https://rednafi.com/python/dataclasses_and_methods/)
 * [2023-12-17, 11:37:41](https://lobste.rs/s/wntq5o/maybe_we_don_t_need_uuidv7_after_all) - [Maybe We Don’t Need UUIDv7 After All](https://lu.sagebl.eu/notes/maybe-we-dont-need-uuidv7/)
@@ -19,7 +20,6 @@
 * [2023-12-16, 08:20:04](https://lobste.rs/s/87aheu/multithreading_memory_mapping_refining) - [Multithreading and Memory-Mapping: Refining ANN Performance with Arroy in Rust](https://blog.kerollmops.com/multithreading-and-memory-mapping-refining-ann-performance-with-arroy-in-rust)
 * [2023-12-16, 07:37:40](https://lobste.rs/s/zvn2yu/elf_binaries_everything_before_main) - [ELF binaries and everything before main() starts](https://2023.eurobsdcon.org/slides/eurobsdcon2023-janne_johansson-ELF-binaries.pdf)
 * [2023-12-16, 06:50:16](https://lobste.rs/s/g1omrn/cli_for_streams_data_s3_buckets) - [CLI for streams of data in S3 buckets](https://s3m.stream/)
-* [2023-12-16, 00:46:54](https://lobste.rs/s/l37ruh/remove_private_c_api_functions) - [Remove private C API functions](https://vstinner.github.io/remove-c-api-funcs-313.html)
 * [2023-12-15, 21:36:19](https://lobste.rs/s/svptcn/ssh3_ssh_using_http_3_quic) - [SSH3: ssh using HTTP/3 and QUIC](https://github.com/francoismichel/ssh3)
 * [2023-12-15, 20:04:30](https://lobste.rs/s/y01hjp/crdts_turned_inside_out) - [CRDTs Turned Inside Out](https://interjectedfuture.com/crdts-turned-inside-out/)
 * [2023-12-15, 17:47:08](https://lobste.rs/s/utmy6u/why_aren_t_we_sieve_ing) - [Why Aren't We SIEVE-ing?](https://brooker.co.za/blog/2023/12/15/sieve.html)

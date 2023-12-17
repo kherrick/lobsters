@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-17](index.md)
 
+* [2023-12-17, 14:14:47](https://lobste.rs/s/1cjlna/rabbit_hole_unsafe_rust_bugs) - [The rabbit hole of unsafe Rust bugs](https://notgull.net/cautionary-unsafe-tale/)
 * [2023-12-17, 13:36:36](https://lobste.rs/s/j1scvx/evaluating_new_software_forges) - [Evaluating new software forges](https://notgull.net/finding-a-forge/)
 * [2023-12-17, 12:58:00](https://lobste.rs/s/ubrvww/banish_state_mutating_methods_from_data) - [Banish state-mutating methods from data classes](https://rednafi.com/python/dataclasses_and_methods/)
 * [2023-12-17, 11:37:41](https://lobste.rs/s/wntq5o/maybe_we_don_t_need_uuidv7_after_all) - [Maybe We Don’t Need UUIDv7 After All](https://lu.sagebl.eu/notes/maybe-we-dont-need-uuidv7/)
