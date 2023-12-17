@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-17, 13:36:36",
+      "https://lobste.rs/s/j1scvx/evaluating_new_software_forges"
+    ],
+    [
+      "Evaluating new software forges",
+      "https://notgull.net/finding-a-forge/"
+    ]
+  ],
+  [
+    [
       "2023-12-17, 12:58:00",
       "https://lobste.rs/s/ubrvww/banish_state_mutating_methods_from_data"
     ],
@@ -187,16 +197,6 @@
     [
       "Remove private C API functions",
       "https://vstinner.github.io/remove-c-api-funcs-313.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-15, 22:18:02",
-      "https://lobste.rs/s/kkxabl/reverse_engineering_bluetooth_le_led"
-    ],
-    [
-      "Reverse engineering Bluetooth LE LED light controllers, or How I Bricked My Christmas Lights",
-      "https://www.whizzy.org/2023-12-14-bricked-xmas/"
     ]
   ],
   [
