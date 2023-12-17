@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-17, 04:44:28](https://lobste.rs/s/soxpw1/experimenting_with_performances_gains) - [Experimenting with performances gains from Blazor WASM AOT Compilation](https://danschnau.com/blog/blazor_wasm_aot_compilation)
 * [2023-12-17, 02:46:56](https://lobste.rs/s/u9ke1y/my_raspberry_pi_learns_drive) - [My Raspberry Pi Learns to Drive](https://smist08.wordpress.com/2023/12/15/my-raspberry-pi-learns-to-drive/)
 * [2023-12-17, 01:21:10](https://lobste.rs/s/xzegon/macocaml_staging_composable_compilable) - [MacoCaml: Staging Composable and Compilable Macros](https://xnning.github.io/papers/icfp23.pdf)
 * [2023-12-16, 22:45:24](https://lobste.rs/s/rs0zgd/atree_stevan_apter_style_trees_c_17) - [atree: Stevan Apter-style trees in C++17](https://github.com/tlack/atree)
@@ -24,7 +25,6 @@
 * [2023-12-15, 14:17:30](https://lobste.rs/s/zzuirh/curiously_recurring_lifetime_issue) - [A curiously recurring lifetime issue](https://blog.dureuill.net/articles/recurring-lifetime/)
 * [2023-12-15, 14:16:37](https://lobste.rs/s/zzkkab/using_zig_call_c_code_strings) - [Using Zig to Call C Code: Strings](https://mtlynch.io/notes/zig-strings-call-c-code/)
 * [2023-12-15, 14:00:47](https://lobste.rs/s/hqewtz/how_we_designed_flipper_cloud_never_take) - [How we designed Flipper Cloud to never take your app down](https://blog.flippercloud.io/how-we-designed-flipper-cloud-to-never-take-your-app-down/)
-* [2023-12-13, 13:47:37](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage) - [Lobste.rs domain renewal outage](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage)
 
 ## [Archives](archives/index.md)
 
