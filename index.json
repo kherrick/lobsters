@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-17, 19:31:54",
+      "https://lobste.rs/s/5z9qnp/advent_technical_writing_outlines"
+    ],
+    [
+      "Advent of Technical Writing: Outlines",
+      "https://jamesg.blog/2023/12/17/technical-document-outlines/"
+    ]
+  ],
+  [
+    [
       "2023-12-17, 16:19:40",
       "https://lobste.rs/s/pobifs/balm_gilead_fast_string_construction_for"
     ],
@@ -207,16 +217,6 @@
     [
       "ELF binaries and everything before main() starts",
       "https://2023.eurobsdcon.org/slides/eurobsdcon2023-janne_johansson-ELF-binaries.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-12-16, 06:50:16",
-      "https://lobste.rs/s/g1omrn/cli_for_streams_data_s3_buckets"
-    ],
-    [
-      "CLI for streams of data in S3 buckets",
-      "https://s3m.stream/"
     ]
   ],
   [
