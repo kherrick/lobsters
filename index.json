@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-17, 11:37:41",
+      "https://lobste.rs/s/wntq5o/maybe_we_don_t_need_uuidv7_after_all"
+    ],
+    [
+      "Maybe We Don’t Need UUIDv7 After All",
+      "https://lu.sagebl.eu/notes/maybe-we-dont-need-uuidv7/"
+    ]
+  ],
+  [
+    [
       "2023-12-17, 10:09:47",
       "https://lobste.rs/s/nljusv/using_gmail_with_custom_domain"
     ],
@@ -217,16 +227,6 @@
     [
       "Why Aren't We SIEVE-ing?",
       "https://brooker.co.za/blog/2023/12/15/sieve.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-15, 16:25:05",
-      "https://lobste.rs/s/uezbog/interfaces_are_not_meant_for"
-    ],
-    [
-      "Interfaces Are Not Meant for That",
-      "https://preslav.me/2023/12/15/golang-interfaces-are-not-meant-for-that/"
     ]
   ],
   [
