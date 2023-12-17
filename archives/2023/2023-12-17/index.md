@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-17](index.md)
 
+* [2023-12-17, 18:17:53](https://lobste.rs/s/9qhnds/towards_ssh3_how_http_3_improves_secure) - [Towards SSH3: how HTTP/3 improves secure shells (PDF)](https://arxiv.org/pdf/2312.08396.pdf)
 * [2023-12-17, 16:19:40](https://lobste.rs/s/pobifs/balm_gilead_fast_string_construction_for) - [Balm in GILead: Fast string construction for CPython extensions](https://blog.vito.nyc/posts/gil-balm/)
 * [2023-12-17, 15:31:24](https://lobste.rs/s/xsd6hy/what_debug_level_logging_behind_build_tag) - [what: Debug-level logging behind a build tag](https://github.com/appliedgocode/what)
 * [2023-12-17, 14:14:47](https://lobste.rs/s/1cjlna/rabbit_hole_unsafe_rust_bugs) - [The rabbit hole of unsafe Rust bugs](https://notgull.net/cautionary-unsafe-tale/)
