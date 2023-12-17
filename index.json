@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-17, 08:26:16",
+      "https://lobste.rs/s/zoq3n6/substructural_type_system_resource"
+    ],
+    [
+      "Substructural type system § The resource interpretation",
+      "https://en.wikipedia.org/wiki/Substructural_type_system#The_resource_interpretation"
+    ]
+  ],
+  [
+    [
       "2023-12-17, 04:44:28",
       "https://lobste.rs/s/soxpw1/experimenting_with_performances_gains"
     ],
@@ -237,16 +247,6 @@
     [
       "Using Zig to Call C Code: Strings",
       "https://mtlynch.io/notes/zig-strings-call-c-code/"
-    ]
-  ],
-  [
-    [
-      "2023-12-15, 14:00:47",
-      "https://lobste.rs/s/hqewtz/how_we_designed_flipper_cloud_never_take"
-    ],
-    [
-      "How we designed Flipper Cloud to never take your app down",
-      "https://blog.flippercloud.io/how-we-designed-flipper-cloud-to-never-take-your-app-down/"
     ]
   ]
 ]
