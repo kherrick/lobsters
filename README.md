@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-17, 01:21:10](https://lobste.rs/s/xzegon/macocaml_staging_composable_compilable) - [MacoCaml: Staging Composable and Compilable Macros](https://xnning.github.io/papers/icfp23.pdf)
 * [2023-12-16, 22:45:24](https://lobste.rs/s/rs0zgd/atree_stevan_apter_style_trees_c_17) - [atree: Stevan Apter-style trees in C++17](https://github.com/tlack/atree)
 * [2023-12-16, 19:10:13](https://lobste.rs/s/oedzoz/how_use_hdmi_monitor_usb_mouse_keyboard) - [How to use a HDMI monitor and USB mouse/keyboard in Promox VE on an Intel Alder Lake-N mini PC](https://www.cnx-software.com/2023/12/17/how-to-use-a-hdmi-monitor-usb-mouse-keyboard-in-promox-ve-on-an-intel-alder-lake-n-mini-pc/)
 * [2023-12-16, 19:01:35](https://lobste.rs/s/p8048r/international_workshop_on_plan_9_2024) - [International Workshop on Plan 9: 2024 Edition](https://iwp9.org/)
@@ -23,7 +24,6 @@
 * [2023-12-15, 14:16:37](https://lobste.rs/s/zzkkab/using_zig_call_c_code_strings) - [Using Zig to Call C Code: Strings](https://mtlynch.io/notes/zig-strings-call-c-code/)
 * [2023-12-15, 14:00:47](https://lobste.rs/s/hqewtz/how_we_designed_flipper_cloud_never_take) - [How we designed Flipper Cloud to never take your app down](https://blog.flippercloud.io/how-we-designed-flipper-cloud-to-never-take-your-app-down/)
 * [2023-12-15, 11:59:12](https://lobste.rs/s/jcubb5/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/jcubb5/what_are_you_doing_this_weekend)
-* [2023-12-15, 00:48:55](https://lobste.rs/s/vrz0c8/google_groups_ending_support_for_usenet) - [Google Groups ending support for Usenet](https://support.google.com/groups/answer/11036538?hl=en)
 * [2023-12-13, 13:47:37](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage) - [Lobste.rs domain renewal outage](https://lobste.rs/s/plhit5/lobste_rs_domain_renewal_outage)
 
 ## [Archives](archives/index.md)
