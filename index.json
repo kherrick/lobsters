@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-17, 16:19:40",
+      "https://lobste.rs/s/pobifs/balm_gilead_fast_string_construction_for"
+    ],
+    [
+      "Balm in GILead: Fast string construction for CPython extensions",
+      "https://blog.vito.nyc/posts/gil-balm/"
+    ]
+  ],
+  [
+    [
       "2023-12-17, 15:31:24",
       "https://lobste.rs/s/xsd6hy/what_debug_level_logging_behind_build_tag"
     ],
@@ -217,16 +227,6 @@
     [
       "SSH3: ssh using HTTP/3 and QUIC",
       "https://github.com/francoismichel/ssh3"
-    ]
-  ],
-  [
-    [
-      "2023-12-15, 20:04:30",
-      "https://lobste.rs/s/y01hjp/crdts_turned_inside_out"
-    ],
-    [
-      "CRDTs Turned Inside Out",
-      "https://interjectedfuture.com/crdts-turned-inside-out/"
     ]
   ],
   [
