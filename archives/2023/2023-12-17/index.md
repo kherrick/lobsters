@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-17](index.md)
 
+* [2023-12-17, 23:50:20](https://lobste.rs/s/hjawvk/so_you_want_custom_allocator_support_your) - [So you want custom allocator support in your C library](https://nullprogram.com/blog/2023/12/17/)
 * [2023-12-17, 19:31:54](https://lobste.rs/s/5z9qnp/advent_technical_writing_outlines) - [Advent of Technical Writing: Outlines](https://jamesg.blog/2023/12/17/technical-document-outlines/)
 * [2023-12-17, 18:17:53](https://lobste.rs/s/9qhnds/towards_ssh3_how_http_3_improves_secure) - [Towards SSH3: how HTTP/3 improves secure shells (PDF)](https://arxiv.org/pdf/2312.08396.pdf)
 * [2023-12-17, 16:19:40](https://lobste.rs/s/pobifs/balm_gilead_fast_string_construction_for) - [Balm in GILead: Fast string construction for CPython extensions](https://blog.vito.nyc/posts/gil-balm/)
