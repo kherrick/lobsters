@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-17, 11:37:41](https://lobste.rs/s/wntq5o/maybe_we_don_t_need_uuidv7_after_all) - [Maybe We Don’t Need UUIDv7 After All](https://lu.sagebl.eu/notes/maybe-we-dont-need-uuidv7/)
 * [2023-12-17, 10:09:47](https://lobste.rs/s/nljusv/using_gmail_with_custom_domain) - [Using Gmail With A Custom Domain](https://sdubinsky.com/blog/20)
 * [2023-12-17, 08:26:16](https://lobste.rs/s/zoq3n6/substructural_type_system_resource) - [Substructural type system § The resource interpretation](https://en.wikipedia.org/wiki/Substructural_type_system#The_resource_interpretation)
 * [2023-12-17, 04:44:28](https://lobste.rs/s/soxpw1/experimenting_with_performances_gains) - [Experimenting with performances gains from Blazor WASM AOT Compilation](https://danschnau.com/blog/blazor_wasm_aot_compilation)
@@ -22,7 +23,6 @@
 * [2023-12-15, 21:36:19](https://lobste.rs/s/svptcn/ssh3_ssh_using_http_3_quic) - [SSH3: ssh using HTTP/3 and QUIC](https://github.com/francoismichel/ssh3)
 * [2023-12-15, 20:04:30](https://lobste.rs/s/y01hjp/crdts_turned_inside_out) - [CRDTs Turned Inside Out](https://interjectedfuture.com/crdts-turned-inside-out/)
 * [2023-12-15, 17:47:08](https://lobste.rs/s/utmy6u/why_aren_t_we_sieve_ing) - [Why Aren't We SIEVE-ing?](https://brooker.co.za/blog/2023/12/15/sieve.html)
-* [2023-12-15, 16:25:05](https://lobste.rs/s/uezbog/interfaces_are_not_meant_for) - [Interfaces Are Not Meant for That](https://preslav.me/2023/12/15/golang-interfaces-are-not-meant-for-that/)
 * [2023-12-15, 14:17:30](https://lobste.rs/s/zzuirh/curiously_recurring_lifetime_issue) - [A curiously recurring lifetime issue](https://blog.dureuill.net/articles/recurring-lifetime/)
 * [2023-12-15, 14:16:37](https://lobste.rs/s/zzkkab/using_zig_call_c_code_strings) - [Using Zig to Call C Code: Strings](https://mtlynch.io/notes/zig-strings-call-c-code/)
 
