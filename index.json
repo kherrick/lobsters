@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-18, 11:33:19",
+      "https://lobste.rs/s/xo1j4v/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/xo1j4v/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
       "2023-12-18, 09:34:55",
       "https://lobste.rs/s/wch81n/what_improve_my_open_source"
     ],
@@ -237,16 +247,6 @@
     [
       "Data exfiltration from Writer.com with indirect prompt injection",
       "https://promptarmor.substack.com/p/data-exfiltration-from-writercom"
-    ]
-  ],
-  [
-    [
-      "2023-12-15, 21:36:19",
-      "https://lobste.rs/s/svptcn/ssh3_ssh_using_http_3_quic"
-    ],
-    [
-      "SSH3: ssh using HTTP/3 and QUIC",
-      "https://github.com/francoismichel/ssh3"
     ]
   ]
 ]
