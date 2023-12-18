@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 23:34:43](https://lobste.rs/s/bzmyyw/saga_arc_algorithm_patent_2005) - [The Saga of the ARC Algorithm and Patent (2005)](https://archive.ph/20130205145832/http://www.varlena.com/GeneralBits/96.php)
 * [2023-12-18, 23:26:27](https://lobste.rs/s/obqo8y/deep_learning_neural_networks_overview) - [Deep Learning in Neural Networks: An Overview](https://arxiv.org/abs/1404.7828)
 * [2023-12-18, 23:21:44](https://lobste.rs/s/fxcbbv/gleam_v0_33_exhaustive_gleam) - [Gleam v0.33 – Exhaustive Gleam](https://gleam.run/news/v0.33-exhaustive-gleam/)
 * [2023-12-18, 23:10:00](https://lobste.rs/s/jdr1e4/tiny_code_christmas_2023) - [Tiny Code Christmas 2023](https://tcc.lovebyte.party/)
