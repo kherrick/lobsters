@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-18, 17:04:48",
+      "https://lobste.rs/s/dmljfp/with_great_humor_comes_great_developer"
+    ],
+    [
+      "With Great Humor Comes Great Developer Engagement",
+      "https://arxiv.org/pdf/2312.01680.pdf"
+    ]
+  ],
+  [
+    [
       "2023-12-18, 16:53:14",
       "https://lobste.rs/s/aiwcu0/cve_2023_6483_improper_missing_api"
     ],
@@ -237,16 +247,6 @@
     [
       "atree: Stevan Apter-style trees in C++17",
       "https://github.com/tlack/atree"
-    ]
-  ],
-  [
-    [
-      "2023-12-16, 15:26:06",
-      "https://lobste.rs/s/g3hxhf/how_do_you_write_good_tutorial_for_open"
-    ],
-    [
-      "How do you write a good tutorial for an open source project?",
-      "https://lobste.rs/s/g3hxhf/how_do_you_write_good_tutorial_for_open"
     ]
   ]
 ]
