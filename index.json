@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-18, 16:02:52",
+      "https://lobste.rs/s/ls1eql/how_many_cpu_cores_can_you_actually_use"
+    ],
+    [
+      "How many CPU cores can you actually use in parallel?",
+      "https://pythonspeed.com/articles/cpu-thread-pool-size/"
+    ]
+  ],
+  [
+    [
       "2023-12-18, 15:33:14",
       "https://lobste.rs/s/ghttjv/using_zig_unit_test_c_application"
     ],
@@ -227,16 +237,6 @@
     [
       "International Workshop on Plan 9: 2024 Edition",
       "https://iwp9.org/"
-    ]
-  ],
-  [
-    [
-      "2023-12-16, 17:56:29",
-      "https://lobste.rs/s/fs8czt/bill_lamie_story_man_his_real_time"
-    ],
-    [
-      "Bill Lamie: Story of a man and his real-time operating systems (2010)",
-      "https://www.embedded.com/bill-lamie-story-of-a-man-and-his-real-time-operating-systems/"
     ]
   ],
   [
