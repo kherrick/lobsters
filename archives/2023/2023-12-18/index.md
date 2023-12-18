@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 14:17:53](https://lobste.rs/s/mvqaqr/church_vs_curry_types) - [Church vs Curry Types](https://ericnormand.me/article/church-vs-curry-types)
 * [2023-12-18, 13:45:31](https://lobste.rs/s/a34pnx/paged_out_magazine_issue_3) - [Paged Out Magazine - Issue 3](https://pagedout.institute/download/PagedOut_003_beta1.pdf)
 * [2023-12-18, 11:33:19](https://lobste.rs/s/xo1j4v/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xo1j4v/what_are_you_doing_this_week)
 * [2023-12-18, 09:34:55](https://lobste.rs/s/wch81n/what_improve_my_open_source) - [What to improve in my open-source documentation?](https://expr-lang.org/)
