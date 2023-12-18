@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-18, 16:53:14](https://lobste.rs/s/aiwcu0/cve_2023_6483_improper_missing_api) - [CVE-2023-6483: Improper/missing API authentication in ADiTaaS v5.1](https://eaton-works.com/2023/12/18/aditaas-cve-2023-6483/)
 * [2023-12-18, 16:36:45](https://lobste.rs/s/u2fqnp/randomness_color) - [Randomness and color](https://www.johno.com/randomness-and-color)
 * [2023-12-18, 16:02:52](https://lobste.rs/s/ls1eql/how_many_cpu_cores_can_you_actually_use) - [How many CPU cores can you actually use in parallel?](https://pythonspeed.com/articles/cpu-thread-pool-size/)
 * [2023-12-18, 15:33:14](https://lobste.rs/s/ghttjv/using_zig_unit_test_c_application) - [Using Zig to Unit Test a C Application](https://mtlynch.io/notes/zig-unit-test-c/)
@@ -21,7 +22,6 @@
 * [2023-12-17, 12:58:00](https://lobste.rs/s/ubrvww/banish_state_mutating_methods_from_data) - [Banish state-mutating methods from data classes](https://rednafi.com/python/dataclasses_and_methods/)
 * [2023-12-17, 11:37:41](https://lobste.rs/s/wntq5o/maybe_we_don_t_need_uuidv7_after_all) - [Maybe We Don’t Need UUIDv7 After All](https://lu.sagebl.eu/notes/maybe-we-dont-need-uuidv7/)
 * [2023-12-17, 10:09:47](https://lobste.rs/s/nljusv/using_gmail_with_custom_domain) - [Using Gmail With A Custom Domain](https://sdubinsky.com/blog/20)
-* [2023-12-17, 08:26:16](https://lobste.rs/s/zoq3n6/substructural_type_system_resource) - [Substructural type system § The resource interpretation](https://en.wikipedia.org/wiki/Substructural_type_system#The_resource_interpretation)
 * [2023-12-17, 01:21:10](https://lobste.rs/s/xzegon/macocaml_staging_composable_compilable) - [MacoCaml: Staging Composable and Compilable Macros](https://xnning.github.io/papers/icfp23.pdf)
 * [2023-12-16, 22:45:24](https://lobste.rs/s/rs0zgd/atree_stevan_apter_style_trees_c_17) - [atree: Stevan Apter-style trees in C++17](https://github.com/tlack/atree)
 * [2023-12-16, 15:26:06](https://lobste.rs/s/g3hxhf/how_do_you_write_good_tutorial_for_open) - [How do you write a good tutorial for an open source project?](https://lobste.rs/s/g3hxhf/how_do_you_write_good_tutorial_for_open)
