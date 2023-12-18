@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-18, 19:39:00](https://lobste.rs/s/yexofk/terrapin_attack_on_ssh) - [Terrapin Attack on SSH](https://terrapin-attack.com/)
 * [2023-12-18, 19:26:44](https://lobste.rs/s/dk65ft/launching_2023_state_rust_survey) - [Launching the 2023 State of Rust Survey](https://blog.rust-lang.org/2023/12/18/survey-launch.html)
 * [2023-12-18, 19:02:03](https://lobste.rs/s/eui4cs/careful_what_data_you_send_how_tank_your) - [Careful what data you send or how to tank your performance with Task.async](https://pragtob.wordpress.com/2023/12/18/careful-what-data-you-send-or-how-to-tank-your-performance-with-task-async/)
 * [2023-12-18, 18:52:54](https://lobste.rs/s/ztwyng/many_options_for_running_mistral_models) - [Many options for running Mistral models in your terminal using LLM](https://simonwillison.net/2023/Dec/18/mistral/)
@@ -20,7 +21,6 @@
 * [2023-12-18, 00:48:34](https://lobste.rs/s/nu6wna/amd_s_cdna_3_compute_architecture) - [AMD’s CDNA 3 Compute Architecture](https://chipsandcheese.com/2023/12/17/amds-cdna-3-compute-architecture/)
 * [2023-12-17, 23:50:20](https://lobste.rs/s/hjawvk/so_you_want_custom_allocator_support_your) - [So you want custom allocator support in your C library](https://nullprogram.com/blog/2023/12/17/)
 * [2023-12-17, 19:31:54](https://lobste.rs/s/5z9qnp/advent_technical_writing_outlines) - [Advent of Technical Writing: Outlines](https://jamesg.blog/2023/12/17/technical-document-outlines/)
-* [2023-12-17, 16:19:40](https://lobste.rs/s/pobifs/balm_gilead_fast_string_construction_for) - [Balm in GILead: Fast string construction for CPython extensions](https://blog.vito.nyc/posts/gil-balm/)
 * [2023-12-17, 14:14:47](https://lobste.rs/s/1cjlna/rabbit_hole_unsafe_rust_bugs) - [The rabbit hole of unsafe Rust bugs](https://notgull.net/cautionary-unsafe-tale/)
 * [2023-12-17, 13:36:36](https://lobste.rs/s/j1scvx/evaluating_new_software_forges) - [Evaluating new software forges](https://notgull.net/finding-a-forge/)
 * [2023-12-17, 11:37:41](https://lobste.rs/s/wntq5o/maybe_we_don_t_need_uuidv7_after_all) - [Maybe We Don’t Need UUIDv7 After All](https://lu.sagebl.eu/notes/maybe-we-dont-need-uuidv7/)
