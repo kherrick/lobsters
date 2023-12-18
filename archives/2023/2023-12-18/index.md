@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 23:10:00](https://lobste.rs/s/jdr1e4/tiny_code_christmas_2023) - [Tiny Code Christmas 2023](https://tcc.lovebyte.party/)
+* [2023-12-18, 23:05:06](https://lobste.rs/s/ckspmv/systemd_sysusers_chimera_linux) - [systemd-sysusers and Chimera Linux](https://www.wezm.net/v2/posts/2023/systemd-sysusers-and-chimera-linux/)
+* [2023-12-18, 22:58:46](https://lobste.rs/s/hpr3ux/colliding_secure_hashes) - [Colliding Secure Hashes](https://www.da.vidbuchanan.co.uk/blog/colliding-secure-hashes.html)
 * [2023-12-18, 22:39:56](https://lobste.rs/s/xq8jtv/progress_toward_gcc_based_rust_compiler) - [Progress toward a GCC-based Rust compiler](https://lwn.net/SubscriberLink/954787/41470c731eda02a4/)
 * [2023-12-18, 22:37:39](https://lobste.rs/s/95poni/introducing_fly_kubernetes) - [Introducing Fly Kubernetes](https://fly.io/blog/fks/)
 * [2023-12-18, 21:20:49](https://lobste.rs/s/48jqno/good_ol_fashioned_ai) - [Good Ol' Fashioned AI](https://www.cs.swarthmore.edu/~eroberts/cs91/projects/ethics-of-ai/sec3_1.html)
