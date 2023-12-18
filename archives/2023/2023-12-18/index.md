@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 14:48:33](https://lobste.rs/s/3zpoar/update_on_hdr_color_management_kwin) - [An update on HDR and color management in KWin](https://zamundaaa.github.io/wayland/2023/12/18/update-on-hdr-and-colormanagement-in-plasma.html)
 * [2023-12-18, 14:42:10](https://lobste.rs/s/surixw/three_days_advent_code_hurl) - [Three days of Advent of Code in Hurl](https://ntietz.com/blog/three-days-of-advent-of-code-in-hurl/)
 * [2023-12-18, 14:17:53](https://lobste.rs/s/mvqaqr/church_vs_curry_types) - [Church vs Curry Types](https://ericnormand.me/article/church-vs-curry-types)
 * [2023-12-18, 13:45:31](https://lobste.rs/s/a34pnx/paged_out_magazine_issue_3) - [Paged Out Magazine - Issue 3](https://pagedout.institute/download/PagedOut_003_beta1.pdf)
