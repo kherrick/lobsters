@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-18, 19:02:03](https://lobste.rs/s/eui4cs/careful_what_data_you_send_how_tank_your) - [Careful what data you send or how to tank your performance with Task.async](https://pragtob.wordpress.com/2023/12/18/careful-what-data-you-send-or-how-to-tank-your-performance-with-task-async/)
 * [2023-12-18, 18:52:54](https://lobste.rs/s/ztwyng/many_options_for_running_mistral_models) - [Many options for running Mistral models in your terminal using LLM](https://simonwillison.net/2023/Dec/18/mistral/)
 * [2023-12-18, 17:34:31](https://lobste.rs/s/fhqc92/lichess_upgrades_scala_3_2022) - [Lichess Upgrades to Scala 3 (2022)](https://lichess.org/@/thibault/blog/lichess--scala-3/y1sbYzJX)
 * [2023-12-18, 17:04:48](https://lobste.rs/s/dmljfp/with_great_humor_comes_great_developer) - [With Great Humor Comes Great Developer Engagement](https://arxiv.org/pdf/2312.01680.pdf)
@@ -19,7 +20,6 @@
 * [2023-12-17, 23:50:20](https://lobste.rs/s/hjawvk/so_you_want_custom_allocator_support_your) - [So you want custom allocator support in your C library](https://nullprogram.com/blog/2023/12/17/)
 * [2023-12-17, 19:31:54](https://lobste.rs/s/5z9qnp/advent_technical_writing_outlines) - [Advent of Technical Writing: Outlines](https://jamesg.blog/2023/12/17/technical-document-outlines/)
 * [2023-12-17, 16:19:40](https://lobste.rs/s/pobifs/balm_gilead_fast_string_construction_for) - [Balm in GILead: Fast string construction for CPython extensions](https://blog.vito.nyc/posts/gil-balm/)
-* [2023-12-17, 15:31:24](https://lobste.rs/s/xsd6hy/what_debug_level_logging_behind_build_tag) - [what: Debug-level logging behind a build tag](https://github.com/appliedgocode/what)
 * [2023-12-17, 14:14:47](https://lobste.rs/s/1cjlna/rabbit_hole_unsafe_rust_bugs) - [The rabbit hole of unsafe Rust bugs](https://notgull.net/cautionary-unsafe-tale/)
 * [2023-12-17, 13:36:36](https://lobste.rs/s/j1scvx/evaluating_new_software_forges) - [Evaluating new software forges](https://notgull.net/finding-a-forge/)
 * [2023-12-17, 12:58:00](https://lobste.rs/s/ubrvww/banish_state_mutating_methods_from_data) - [Banish state-mutating methods from data classes](https://rednafi.com/python/dataclasses_and_methods/)
