@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-18, 15:33:14](https://lobste.rs/s/ghttjv/using_zig_unit_test_c_application) - [Using Zig to Unit Test a C Application](https://mtlynch.io/notes/zig-unit-test-c/)
 * [2023-12-18, 14:48:33](https://lobste.rs/s/3zpoar/update_on_hdr_color_management_kwin) - [An update on HDR and color management in KWin](https://zamundaaa.github.io/wayland/2023/12/18/update-on-hdr-and-colormanagement-in-plasma.html)
 * [2023-12-18, 14:42:10](https://lobste.rs/s/surixw/three_days_advent_code_hurl) - [Three days of Advent of Code in Hurl](https://ntietz.com/blog/three-days-of-advent-of-code-in-hurl/)
 * [2023-12-18, 14:17:53](https://lobste.rs/s/mvqaqr/church_vs_curry_types) - [Church vs Curry Types](https://ericnormand.me/article/church-vs-curry-types)
@@ -23,7 +24,6 @@
 * [2023-12-17, 01:21:10](https://lobste.rs/s/xzegon/macocaml_staging_composable_compilable) - [MacoCaml: Staging Composable and Compilable Macros](https://xnning.github.io/papers/icfp23.pdf)
 * [2023-12-16, 22:45:24](https://lobste.rs/s/rs0zgd/atree_stevan_apter_style_trees_c_17) - [atree: Stevan Apter-style trees in C++17](https://github.com/tlack/atree)
 * [2023-12-16, 19:01:35](https://lobste.rs/s/p8048r/international_workshop_on_plan_9_2024) - [International Workshop on Plan 9: 2024 Edition](https://iwp9.org/)
-* [2023-12-16, 17:56:29](https://lobste.rs/s/fs8czt/bill_lamie_story_man_his_real_time) - [Bill Lamie: Story of a man and his real-time operating systems (2010)](https://www.embedded.com/bill-lamie-story-of-a-man-and-his-real-time-operating-systems/)
 * [2023-12-16, 15:26:06](https://lobste.rs/s/g3hxhf/how_do_you_write_good_tutorial_for_open) - [How do you write a good tutorial for an open source project?](https://lobste.rs/s/g3hxhf/how_do_you_write_good_tutorial_for_open)
 
 ## [Archives](archives/index.md)
