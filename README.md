@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-18, 23:21:44](https://lobste.rs/s/fxcbbv/gleam_v0_33_exhaustive_gleam) - [Gleam v0.33 – Exhaustive Gleam](https://gleam.run/news/v0.33-exhaustive-gleam/)
 * [2023-12-18, 23:10:00](https://lobste.rs/s/jdr1e4/tiny_code_christmas_2023) - [Tiny Code Christmas 2023](https://tcc.lovebyte.party/)
 * [2023-12-18, 23:05:06](https://lobste.rs/s/ckspmv/systemd_sysusers_chimera_linux) - [systemd-sysusers and Chimera Linux](https://www.wezm.net/v2/posts/2023/systemd-sysusers-and-chimera-linux/)
 * [2023-12-18, 22:58:46](https://lobste.rs/s/hpr3ux/colliding_secure_hashes) - [Colliding Secure Hashes](https://www.da.vidbuchanan.co.uk/blog/colliding-secure-hashes.html)
@@ -22,7 +23,6 @@
 * [2023-12-18, 08:31:07](https://lobste.rs/s/pwgfjm/exploring_section_layout_linker_output) - [Exploring the section layout in linker output](https://maskray.me/blog/2023-12-17-exploring-the-section-layout-in-linker-output)
 * [2023-12-18, 05:50:59](https://lobste.rs/s/bz8fch/real_world_ocaml) - [Real World OCaml](https://dev.realworldocaml.org/index.html)
 * [2023-12-17, 23:50:20](https://lobste.rs/s/hjawvk/so_you_want_custom_allocator_support_your) - [So you want custom allocator support in your C library](https://nullprogram.com/blog/2023/12/17/)
-* [2023-12-17, 19:31:54](https://lobste.rs/s/5z9qnp/advent_technical_writing_outlines) - [Advent of Technical Writing: Outlines](https://jamesg.blog/2023/12/17/technical-document-outlines/)
 * [2023-12-17, 13:36:36](https://lobste.rs/s/j1scvx/evaluating_new_software_forges) - [Evaluating new software forges](https://notgull.net/finding-a-forge/)
 * [2023-12-17, 11:37:41](https://lobste.rs/s/wntq5o/maybe_we_don_t_need_uuidv7_after_all) - [Maybe We Don’t Need UUIDv7 After All](https://lu.sagebl.eu/notes/maybe-we-dont-need-uuidv7/)
 
