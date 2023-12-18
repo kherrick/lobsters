@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-18, 19:39:00",
+      "https://lobste.rs/s/yexofk/terrapin_attack_on_ssh"
+    ],
+    [
+      "Terrapin Attack on SSH",
+      "https://terrapin-attack.com/"
+    ]
+  ],
+  [
+    [
       "2023-12-18, 19:26:44",
       "https://lobste.rs/s/dk65ft/launching_2023_state_rust_survey"
     ],
@@ -197,16 +207,6 @@
     [
       "Advent of Technical Writing: Outlines",
       "https://jamesg.blog/2023/12/17/technical-document-outlines/"
-    ]
-  ],
-  [
-    [
-      "2023-12-17, 16:19:40",
-      "https://lobste.rs/s/pobifs/balm_gilead_fast_string_construction_for"
-    ],
-    [
-      "Balm in GILead: Fast string construction for CPython extensions",
-      "https://blog.vito.nyc/posts/gil-balm/"
     ]
   ],
   [
