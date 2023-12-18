@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-18, 16:36:45](https://lobste.rs/s/u2fqnp/randomness_color) - [Randomness and color](https://www.johno.com/randomness-and-color)
 * [2023-12-18, 16:02:52](https://lobste.rs/s/ls1eql/how_many_cpu_cores_can_you_actually_use) - [How many CPU cores can you actually use in parallel?](https://pythonspeed.com/articles/cpu-thread-pool-size/)
 * [2023-12-18, 15:33:14](https://lobste.rs/s/ghttjv/using_zig_unit_test_c_application) - [Using Zig to Unit Test a C Application](https://mtlynch.io/notes/zig-unit-test-c/)
 * [2023-12-18, 14:48:33](https://lobste.rs/s/3zpoar/update_on_hdr_color_management_kwin) - [An update on HDR and color management in KWin](https://zamundaaa.github.io/wayland/2023/12/18/update-on-hdr-and-colormanagement-in-plasma.html)
@@ -23,7 +24,6 @@
 * [2023-12-17, 08:26:16](https://lobste.rs/s/zoq3n6/substructural_type_system_resource) - [Substructural type system § The resource interpretation](https://en.wikipedia.org/wiki/Substructural_type_system#The_resource_interpretation)
 * [2023-12-17, 01:21:10](https://lobste.rs/s/xzegon/macocaml_staging_composable_compilable) - [MacoCaml: Staging Composable and Compilable Macros](https://xnning.github.io/papers/icfp23.pdf)
 * [2023-12-16, 22:45:24](https://lobste.rs/s/rs0zgd/atree_stevan_apter_style_trees_c_17) - [atree: Stevan Apter-style trees in C++17](https://github.com/tlack/atree)
-* [2023-12-16, 19:01:35](https://lobste.rs/s/p8048r/international_workshop_on_plan_9_2024) - [International Workshop on Plan 9: 2024 Edition](https://iwp9.org/)
 * [2023-12-16, 15:26:06](https://lobste.rs/s/g3hxhf/how_do_you_write_good_tutorial_for_open) - [How do you write a good tutorial for an open source project?](https://lobste.rs/s/g3hxhf/how_do_you_write_good_tutorial_for_open)
 
 ## [Archives](archives/index.md)
