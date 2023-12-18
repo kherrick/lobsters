@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-18, 23:21:44",
+      "https://lobste.rs/s/fxcbbv/gleam_v0_33_exhaustive_gleam"
+    ],
+    [
+      "Gleam v0.33 – Exhaustive Gleam",
+      "https://gleam.run/news/v0.33-exhaustive-gleam/"
+    ]
+  ],
+  [
+    [
       "2023-12-18, 23:10:00",
       "https://lobste.rs/s/jdr1e4/tiny_code_christmas_2023"
     ],
@@ -217,16 +227,6 @@
     [
       "So you want custom allocator support in your C library",
       "https://nullprogram.com/blog/2023/12/17/"
-    ]
-  ],
-  [
-    [
-      "2023-12-17, 19:31:54",
-      "https://lobste.rs/s/5z9qnp/advent_technical_writing_outlines"
-    ],
-    [
-      "Advent of Technical Writing: Outlines",
-      "https://jamesg.blog/2023/12/17/technical-document-outlines/"
     ]
   ],
   [
