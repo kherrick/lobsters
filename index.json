@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-18, 23:26:27",
+      "https://lobste.rs/s/obqo8y/deep_learning_neural_networks_overview"
+    ],
+    [
+      "Deep Learning in Neural Networks: An Overview",
+      "https://arxiv.org/abs/1404.7828"
+    ]
+  ],
+  [
+    [
       "2023-12-18, 23:21:44",
       "https://lobste.rs/s/fxcbbv/gleam_v0_33_exhaustive_gleam"
     ],
@@ -37,16 +47,6 @@
     [
       "Colliding Secure Hashes",
       "https://www.da.vidbuchanan.co.uk/blog/colliding-secure-hashes.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-18, 22:39:56",
-      "https://lobste.rs/s/xq8jtv/progress_toward_gcc_based_rust_compiler"
-    ],
-    [
-      "Progress toward a GCC-based Rust compiler",
-      "https://lwn.net/SubscriberLink/954787/41470c731eda02a4/"
     ]
   ],
   [
