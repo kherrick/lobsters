@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-18, 13:45:31](https://lobste.rs/s/a34pnx/paged_out_magazine_issue_3) - [Paged Out Magazine - Issue 3](https://pagedout.institute/download/PagedOut_003_beta1.pdf)
 * [2023-12-18, 11:33:19](https://lobste.rs/s/xo1j4v/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xo1j4v/what_are_you_doing_this_week)
 * [2023-12-18, 09:34:55](https://lobste.rs/s/wch81n/what_improve_my_open_source) - [What to improve in my open-source documentation?](https://expr-lang.org/)
 * [2023-12-18, 08:31:07](https://lobste.rs/s/pwgfjm/exploring_section_layout_linker_output) - [Exploring the section layout in linker output](https://maskray.me/blog/2023-12-17-exploring-the-section-layout-in-linker-output)
@@ -21,7 +22,6 @@
 * [2023-12-16, 22:45:24](https://lobste.rs/s/rs0zgd/atree_stevan_apter_style_trees_c_17) - [atree: Stevan Apter-style trees in C++17](https://github.com/tlack/atree)
 * [2023-12-16, 19:01:35](https://lobste.rs/s/p8048r/international_workshop_on_plan_9_2024) - [International Workshop on Plan 9: 2024 Edition](https://iwp9.org/)
 * [2023-12-16, 17:56:29](https://lobste.rs/s/fs8czt/bill_lamie_story_man_his_real_time) - [Bill Lamie: Story of a man and his real-time operating systems (2010)](https://www.embedded.com/bill-lamie-story-of-a-man-and-his-real-time-operating-systems/)
-* [2023-12-16, 17:46:29](https://lobste.rs/s/bq4yvr/kde_android_apps_porting_update_qt_6) - [KDE Android apps porting update (Qt 6)](https://www.volkerkrause.eu/2023/12/16/kf6-android-porting-status.html)
 * [2023-12-16, 17:45:10](https://lobste.rs/s/l3l3t5/two_interesting_xor_circuits_inside) - [Two interesting XOR circuits inside the Intel 386 processor](http://www.righto.com/2023/12/386-xor-circuits.html)
 * [2023-12-16, 15:26:06](https://lobste.rs/s/g3hxhf/how_do_you_write_good_tutorial_for_open) - [How do you write a good tutorial for an open source project?](https://lobste.rs/s/g3hxhf/how_do_you_write_good_tutorial_for_open)
 * [2023-12-16, 12:33:20](https://lobste.rs/s/xxsl2k/data_exfiltration_from_writer_com_with) - [Data exfiltration from Writer.com with indirect prompt injection](https://promptarmor.substack.com/p/data-exfiltration-from-writercom)
