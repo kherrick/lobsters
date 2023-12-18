@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-18, 22:39:56",
+      "https://lobste.rs/s/xq8jtv/progress_toward_gcc_based_rust_compiler"
+    ],
+    [
+      "Progress toward a GCC-based Rust compiler",
+      "https://lwn.net/SubscriberLink/954787/41470c731eda02a4/"
+    ]
+  ],
+  [
+    [
+      "2023-12-18, 22:37:39",
+      "https://lobste.rs/s/95poni/introducing_fly_kubernetes"
+    ],
+    [
+      "Introducing Fly Kubernetes",
+      "https://fly.io/blog/fks/"
+    ]
+  ],
+  [
+    [
       "2023-12-18, 21:20:49",
       "https://lobste.rs/s/48jqno/good_ol_fashioned_ai"
     ],
@@ -57,16 +77,6 @@
     [
       "Lichess Upgrades to Scala 3 (2022)",
       "https://lichess.org/@/thibault/blog/lichess--scala-3/y1sbYzJX"
-    ]
-  ],
-  [
-    [
-      "2023-12-18, 16:53:14",
-      "https://lobste.rs/s/aiwcu0/cve_2023_6483_improper_missing_api"
-    ],
-    [
-      "CVE-2023-6483: Improper/missing API authentication in ADiTaaS v5.1",
-      "https://eaton-works.com/2023/12/18/aditaas-cve-2023-6483/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Maybe We Don’t Need UUIDv7 After All",
       "https://lu.sagebl.eu/notes/maybe-we-dont-need-uuidv7/"
-    ]
-  ],
-  [
-    [
-      "2023-12-17, 10:09:47",
-      "https://lobste.rs/s/nljusv/using_gmail_with_custom_domain"
-    ],
-    [
-      "Using Gmail With A Custom Domain",
-      "https://sdubinsky.com/blog/20"
     ]
   ]
 ]
