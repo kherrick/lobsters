@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 18:52:54](https://lobste.rs/s/ztwyng/many_options_for_running_mistral_models) - [Many options for running Mistral models in your terminal using LLM](https://simonwillison.net/2023/Dec/18/mistral/)
 * [2023-12-18, 17:34:31](https://lobste.rs/s/fhqc92/lichess_upgrades_scala_3_2022) - [Lichess Upgrades to Scala 3 (2022)](https://lichess.org/@/thibault/blog/lichess--scala-3/y1sbYzJX)
 * [2023-12-18, 17:34:31](https://lobste.rs/s/fhqc92/lichess_upgrades_scala_3) - [Lichess Upgrades to Scala 3](https://lichess.org/@/thibault/blog/lichess--scala-3/y1sbYzJX)
 * [2023-12-18, 17:04:48](https://lobste.rs/s/dmljfp/with_great_humor_comes_great_developer) - [With Great Humor Comes Great Developer Engagement](https://arxiv.org/pdf/2312.01680.pdf)
