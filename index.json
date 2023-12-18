@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-18, 18:52:54",
+      "https://lobste.rs/s/ztwyng/many_options_for_running_mistral_models"
+    ],
+    [
+      "Many options for running Mistral models in your terminal using LLM",
+      "https://simonwillison.net/2023/Dec/18/mistral/"
+    ]
+  ],
+  [
+    [
       "2023-12-18, 17:34:31",
       "https://lobste.rs/s/fhqc92/lichess_upgrades_scala_3_2022"
     ],
@@ -237,16 +247,6 @@
     [
       "Using Gmail With A Custom Domain",
       "https://sdubinsky.com/blog/20"
-    ]
-  ],
-  [
-    [
-      "2023-12-16, 22:45:24",
-      "https://lobste.rs/s/rs0zgd/atree_stevan_apter_style_trees_c_17"
-    ],
-    [
-      "atree: Stevan Apter-style trees in C++17",
-      "https://github.com/tlack/atree"
     ]
   ]
 ]
