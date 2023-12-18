@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-18, 17:34:31",
+      "https://lobste.rs/s/fhqc92/lichess_upgrades_scala_3"
+    ],
+    [
+      "Lichess Upgrades to Scala 3",
+      "https://lichess.org/@/thibault/blog/lichess--scala-3/y1sbYzJX"
+    ]
+  ],
+  [
+    [
       "2023-12-18, 17:04:48",
       "https://lobste.rs/s/dmljfp/with_great_humor_comes_great_developer"
     ],
@@ -227,16 +237,6 @@
     [
       "Using Gmail With A Custom Domain",
       "https://sdubinsky.com/blog/20"
-    ]
-  ],
-  [
-    [
-      "2023-12-17, 01:21:10",
-      "https://lobste.rs/s/xzegon/macocaml_staging_composable_compilable"
-    ],
-    [
-      "MacoCaml: Staging Composable and Compilable Macros",
-      "https://xnning.github.io/papers/icfp23.pdf"
     ]
   ],
   [
