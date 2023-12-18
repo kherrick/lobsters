@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 22:39:56](https://lobste.rs/s/xq8jtv/progress_toward_gcc_based_rust_compiler) - [Progress toward a GCC-based Rust compiler](https://lwn.net/SubscriberLink/954787/41470c731eda02a4/)
+* [2023-12-18, 22:37:39](https://lobste.rs/s/95poni/introducing_fly_kubernetes) - [Introducing Fly Kubernetes](https://fly.io/blog/fks/)
 * [2023-12-18, 21:20:49](https://lobste.rs/s/48jqno/good_ol_fashioned_ai) - [Good Ol' Fashioned AI](https://www.cs.swarthmore.edu/~eroberts/cs91/projects/ethics-of-ai/sec3_1.html)
 * [2023-12-18, 19:39:00](https://lobste.rs/s/yexofk/terrapin_attack_on_ssh) - [Terrapin Attack on SSH](https://terrapin-attack.com/)
 * [2023-12-18, 19:26:44](https://lobste.rs/s/dk65ft/launching_2023_state_rust_survey) - [Launching the 2023 State of Rust Survey](https://blog.rust-lang.org/2023/12/18/survey-launch.html)

@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-18, 22:39:56](https://lobste.rs/s/xq8jtv/progress_toward_gcc_based_rust_compiler) - [Progress toward a GCC-based Rust compiler](https://lwn.net/SubscriberLink/954787/41470c731eda02a4/)
+* [2023-12-18, 22:37:39](https://lobste.rs/s/95poni/introducing_fly_kubernetes) - [Introducing Fly Kubernetes](https://fly.io/blog/fks/)
 * [2023-12-18, 21:20:49](https://lobste.rs/s/48jqno/good_ol_fashioned_ai) - [Good Ol' Fashioned AI](https://www.cs.swarthmore.edu/~eroberts/cs91/projects/ethics-of-ai/sec3_1.html)
 * [2023-12-18, 19:39:00](https://lobste.rs/s/yexofk/terrapin_attack_on_ssh) - [Terrapin Attack on SSH](https://terrapin-attack.com/)
 * [2023-12-18, 19:26:44](https://lobste.rs/s/dk65ft/launching_2023_state_rust_survey) - [Launching the 2023 State of Rust Survey](https://blog.rust-lang.org/2023/12/18/survey-launch.html)
 * [2023-12-18, 19:02:03](https://lobste.rs/s/eui4cs/careful_what_data_you_send_how_tank_your) - [Careful what data you send or how to tank your performance with Task.async](https://pragtob.wordpress.com/2023/12/18/careful-what-data-you-send-or-how-to-tank-your-performance-with-task-async/)
 * [2023-12-18, 18:52:54](https://lobste.rs/s/ztwyng/many_options_for_running_mistral_models) - [Many options for running Mistral models in your terminal using LLM](https://simonwillison.net/2023/Dec/18/mistral/)
 * [2023-12-18, 17:34:31](https://lobste.rs/s/fhqc92/lichess_upgrades_scala_3_2022) - [Lichess Upgrades to Scala 3 (2022)](https://lichess.org/@/thibault/blog/lichess--scala-3/y1sbYzJX)
-* [2023-12-18, 16:53:14](https://lobste.rs/s/aiwcu0/cve_2023_6483_improper_missing_api) - [CVE-2023-6483: Improper/missing API authentication in ADiTaaS v5.1](https://eaton-works.com/2023/12/18/aditaas-cve-2023-6483/)
 * [2023-12-18, 16:36:45](https://lobste.rs/s/u2fqnp/randomness_color) - [Randomness and color](https://www.johno.com/randomness-and-color)
 * [2023-12-18, 16:02:52](https://lobste.rs/s/ls1eql/how_many_cpu_cores_can_you_actually_use) - [How many CPU cores can you actually use in parallel?](https://pythonspeed.com/articles/cpu-thread-pool-size/)
 * [2023-12-18, 15:33:14](https://lobste.rs/s/ghttjv/using_zig_unit_test_c_application) - [Using Zig to Unit Test a C Application](https://mtlynch.io/notes/zig-unit-test-c/)
@@ -24,7 +25,6 @@
 * [2023-12-17, 14:14:47](https://lobste.rs/s/1cjlna/rabbit_hole_unsafe_rust_bugs) - [The rabbit hole of unsafe Rust bugs](https://notgull.net/cautionary-unsafe-tale/)
 * [2023-12-17, 13:36:36](https://lobste.rs/s/j1scvx/evaluating_new_software_forges) - [Evaluating new software forges](https://notgull.net/finding-a-forge/)
 * [2023-12-17, 11:37:41](https://lobste.rs/s/wntq5o/maybe_we_don_t_need_uuidv7_after_all) - [Maybe We Don’t Need UUIDv7 After All](https://lu.sagebl.eu/notes/maybe-we-dont-need-uuidv7/)
-* [2023-12-17, 10:09:47](https://lobste.rs/s/nljusv/using_gmail_with_custom_domain) - [Using Gmail With A Custom Domain](https://sdubinsky.com/blog/20)
 
 ## [Archives](archives/index.md)
 
