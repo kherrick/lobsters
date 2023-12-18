@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-18, 19:02:03",
+      "https://lobste.rs/s/eui4cs/careful_what_data_you_send_how_tank_your"
+    ],
+    [
+      "Careful what data you send or how to tank your performance with Task.async",
+      "https://pragtob.wordpress.com/2023/12/18/careful-what-data-you-send-or-how-to-tank-your-performance-with-task-async/"
+    ]
+  ],
+  [
+    [
       "2023-12-18, 18:52:54",
       "https://lobste.rs/s/ztwyng/many_options_for_running_mistral_models"
     ],
@@ -187,16 +197,6 @@
     [
       "Balm in GILead: Fast string construction for CPython extensions",
       "https://blog.vito.nyc/posts/gil-balm/"
-    ]
-  ],
-  [
-    [
-      "2023-12-17, 15:31:24",
-      "https://lobste.rs/s/xsd6hy/what_debug_level_logging_behind_build_tag"
-    ],
-    [
-      "what: Debug-level logging behind a build tag",
-      "https://github.com/appliedgocode/what"
     ]
   ],
   [
