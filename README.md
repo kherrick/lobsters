@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-18, 19:26:44](https://lobste.rs/s/dk65ft/launching_2023_state_rust_survey) - [Launching the 2023 State of Rust Survey](https://blog.rust-lang.org/2023/12/18/survey-launch.html)
 * [2023-12-18, 19:02:03](https://lobste.rs/s/eui4cs/careful_what_data_you_send_how_tank_your) - [Careful what data you send or how to tank your performance with Task.async](https://pragtob.wordpress.com/2023/12/18/careful-what-data-you-send-or-how-to-tank-your-performance-with-task-async/)
 * [2023-12-18, 18:52:54](https://lobste.rs/s/ztwyng/many_options_for_running_mistral_models) - [Many options for running Mistral models in your terminal using LLM](https://simonwillison.net/2023/Dec/18/mistral/)
 * [2023-12-18, 17:34:31](https://lobste.rs/s/fhqc92/lichess_upgrades_scala_3_2022) - [Lichess Upgrades to Scala 3 (2022)](https://lichess.org/@/thibault/blog/lichess--scala-3/y1sbYzJX)
@@ -22,7 +23,6 @@
 * [2023-12-17, 16:19:40](https://lobste.rs/s/pobifs/balm_gilead_fast_string_construction_for) - [Balm in GILead: Fast string construction for CPython extensions](https://blog.vito.nyc/posts/gil-balm/)
 * [2023-12-17, 14:14:47](https://lobste.rs/s/1cjlna/rabbit_hole_unsafe_rust_bugs) - [The rabbit hole of unsafe Rust bugs](https://notgull.net/cautionary-unsafe-tale/)
 * [2023-12-17, 13:36:36](https://lobste.rs/s/j1scvx/evaluating_new_software_forges) - [Evaluating new software forges](https://notgull.net/finding-a-forge/)
-* [2023-12-17, 12:58:00](https://lobste.rs/s/ubrvww/banish_state_mutating_methods_from_data) - [Banish state-mutating methods from data classes](https://rednafi.com/python/dataclasses_and_methods/)
 * [2023-12-17, 11:37:41](https://lobste.rs/s/wntq5o/maybe_we_don_t_need_uuidv7_after_all) - [Maybe We Don’t Need UUIDv7 After All](https://lu.sagebl.eu/notes/maybe-we-dont-need-uuidv7/)
 * [2023-12-17, 10:09:47](https://lobste.rs/s/nljusv/using_gmail_with_custom_domain) - [Using Gmail With A Custom Domain](https://sdubinsky.com/blog/20)
 

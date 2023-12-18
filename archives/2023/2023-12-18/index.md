@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-18](index.md)
 
+* [2023-12-18, 19:26:44](https://lobste.rs/s/dk65ft/launching_2023_state_rust_survey) - [Launching the 2023 State of Rust Survey](https://blog.rust-lang.org/2023/12/18/survey-launch.html)
 * [2023-12-18, 19:02:03](https://lobste.rs/s/eui4cs/careful_what_data_you_send_how_tank_your) - [Careful what data you send or how to tank your performance with Task.async](https://pragtob.wordpress.com/2023/12/18/careful-what-data-you-send-or-how-to-tank-your-performance-with-task-async/)
 * [2023-12-18, 18:52:54](https://lobste.rs/s/ztwyng/many_options_for_running_mistral_models) - [Many options for running Mistral models in your terminal using LLM](https://simonwillison.net/2023/Dec/18/mistral/)
 * [2023-12-18, 17:34:31](https://lobste.rs/s/fhqc92/lichess_upgrades_scala_3_2022) - [Lichess Upgrades to Scala 3 (2022)](https://lichess.org/@/thibault/blog/lichess--scala-3/y1sbYzJX)
