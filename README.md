@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-18, 17:34:31](https://lobste.rs/s/fhqc92/lichess_upgrades_scala_3) - [Lichess Upgrades to Scala 3](https://lichess.org/@/thibault/blog/lichess--scala-3/y1sbYzJX)
 * [2023-12-18, 17:04:48](https://lobste.rs/s/dmljfp/with_great_humor_comes_great_developer) - [With Great Humor Comes Great Developer Engagement](https://arxiv.org/pdf/2312.01680.pdf)
 * [2023-12-18, 16:53:14](https://lobste.rs/s/aiwcu0/cve_2023_6483_improper_missing_api) - [CVE-2023-6483: Improper/missing API authentication in ADiTaaS v5.1](https://eaton-works.com/2023/12/18/aditaas-cve-2023-6483/)
 * [2023-12-18, 16:36:45](https://lobste.rs/s/u2fqnp/randomness_color) - [Randomness and color](https://www.johno.com/randomness-and-color)
@@ -23,7 +24,6 @@
 * [2023-12-17, 12:58:00](https://lobste.rs/s/ubrvww/banish_state_mutating_methods_from_data) - [Banish state-mutating methods from data classes](https://rednafi.com/python/dataclasses_and_methods/)
 * [2023-12-17, 11:37:41](https://lobste.rs/s/wntq5o/maybe_we_don_t_need_uuidv7_after_all) - [Maybe We Don’t Need UUIDv7 After All](https://lu.sagebl.eu/notes/maybe-we-dont-need-uuidv7/)
 * [2023-12-17, 10:09:47](https://lobste.rs/s/nljusv/using_gmail_with_custom_domain) - [Using Gmail With A Custom Domain](https://sdubinsky.com/blog/20)
-* [2023-12-17, 01:21:10](https://lobste.rs/s/xzegon/macocaml_staging_composable_compilable) - [MacoCaml: Staging Composable and Compilable Macros](https://xnning.github.io/papers/icfp23.pdf)
 * [2023-12-16, 22:45:24](https://lobste.rs/s/rs0zgd/atree_stevan_apter_style_trees_c_17) - [atree: Stevan Apter-style trees in C++17](https://github.com/tlack/atree)
 
 ## [Archives](archives/index.md)
