@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-12-19, 18:46:05](https://lobste.rs/s/smu7s0/yaksha_release_v0_0_5_macos_support_c_style) - [Yaksha release v0.0.5 - MacOS support, c style for loop, string references, inlinec, make](https://github.com/YakshaLang/Yaksha/releases/tag/v0.0.5)
+* [2023-12-19, 18:09:34](https://lobste.rs/s/2hgtqp/technical_debt_is_not_real) - [Technical Debt is not real](https://www.foxhound.systems/blog/technical-debt-is-not-real/)
 * [2023-12-19, 17:31:39](https://lobste.rs/s/pkdfbp/mtcp_netdrive_for_dos) - [mTCP NetDrive for DOS](https://docs.google.com/document/d/18vtrVANm0JNLO9pmLqDJaMGWnQUobON9qM243b-bmdw/edit)
 * [2023-12-19, 16:26:31](https://lobste.rs/s/thpvkm/high_risk_ai_applications_eu_ai_act) - [High-Risk AI applications in the EU AI Act](https://www.linkedin.com/posts/rikvanbruggen_high-risk-ai-in-the-eu-ai-act-hopsworks-activity-7140665253909942274-zDge)
 * [2023-12-19, 16:20:04](https://lobste.rs/s/qif0ib/fedora_asahi_remix) - [Fedora Asahi Remix](https://asahilinux.org/fedora/)
@@ -24,7 +25,6 @@
 * [2023-12-18, 19:39:00](https://lobste.rs/s/yexofk/terrapin_attack_on_ssh) - [Terrapin Attack on SSH](https://terrapin-attack.com/)
 * [2023-12-18, 16:02:52](https://lobste.rs/s/ls1eql/how_many_cpu_cores_can_you_actually_use) - [How many CPU cores can you actually use in parallel?](https://pythonspeed.com/articles/cpu-thread-pool-size/)
 * [2023-12-18, 15:33:14](https://lobste.rs/s/ghttjv/using_zig_unit_test_c_application) - [Using Zig to Unit Test a C Application](https://mtlynch.io/notes/zig-unit-test-c/)
-* [2023-12-18, 14:17:53](https://lobste.rs/s/mvqaqr/church_vs_curry_types) - [Church vs Curry Types](https://ericnormand.me/article/church-vs-curry-types)
 
 ## [Archives](archives/index.md)
 
