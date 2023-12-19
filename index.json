@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-19, 14:18:51",
+      "https://lobste.rs/s/ow3jpq/jepsen_mysql_8_0_34"
+    ],
+    [
+      "Jepsen: MySQL 8.0.34",
+      "https://jepsen.io/analyses/mysql-8.0.34"
+    ]
+  ],
+  [
+    [
       "2023-12-19, 14:02:58",
       "https://lobste.rs/s/ra7vtk/day_i_started_believing_unit_tests"
     ],
@@ -147,16 +157,6 @@
     [
       "Gleam v0.33 – Exhaustive Gleam",
       "https://gleam.run/news/v0.33-exhaustive-gleam/"
-    ]
-  ],
-  [
-    [
-      "2023-12-18, 23:10:00",
-      "https://lobste.rs/s/jdr1e4/tiny_code_christmas_2023"
-    ],
-    [
-      "Tiny Code Christmas 2023",
-      "https://tcc.lovebyte.party/"
     ]
   ],
   [
