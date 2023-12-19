@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2023-12-19, 00:08:52",
+      "https://lobste.rs/s/9ck2nq/we_have_support_every_line_production"
+    ],
+    [
+      "We Have To Support Every Line of Production Code Forever",
+      "https://www.mironov.com/support-all/"
+    ]
+  ],
+  [
+    [
       "2023-12-18, 23:21:44",
       "https://lobste.rs/s/fxcbbv/gleam_v0_33_exhaustive_gleam"
     ],
@@ -187,16 +197,6 @@
     [
       "Using Zig to Unit Test a C Application",
       "https://mtlynch.io/notes/zig-unit-test-c/"
-    ]
-  ],
-  [
-    [
-      "2023-12-18, 14:48:33",
-      "https://lobste.rs/s/3zpoar/update_on_hdr_color_management_kwin"
-    ],
-    [
-      "An update on HDR and color management in KWin",
-      "https://zamundaaa.github.io/wayland/2023/12/18/update-on-hdr-and-colormanagement-in-plasma.html"
     ]
   ],
   [
