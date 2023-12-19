@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-19, 06:06:07](https://lobste.rs/s/wvjaxe/mapping_semantic_void_strange_goings_on) - [Mapping the semantic void: Strange goings-on in GPT embedding spaces](https://www.lesswrong.com/posts/c6uTNm5erRrmyJvvD/mapping-the-semantic-void-strange-goings-on-in-gpt-embedding)
 * [2023-12-19, 05:51:00](https://lobste.rs/s/zitcw6/qt_6_6_6_7_make_qml_faster_than_ever_new) - [Qt 6.6 and 6.7 Make QML Faster than Ever: A New Benchmark and Analysis](https://www.qt.io/blog/qt-6.6-and-6.7-make-qml-faster-than-ever-a-new-benchmark-and-analysis)
 * [2023-12-19, 05:08:33](https://lobste.rs/s/nw8cst/performance_engineering_profilers) - [Performance engineering, profilers, and seeing the invisible](https://blog.nelhage.com/post/profilers-seeing-the-invisible/)
 * [2023-12-19, 04:54:50](https://lobste.rs/s/4txizu/go_constant_variables_are_not_used_for) - [In Go, constant variables are not used for optimization](https://utcc.utoronto.ca/~cks/space/blog/programming/GoKeepsConstantVariables)
@@ -24,7 +25,6 @@
 * [2023-12-18, 09:34:55](https://lobste.rs/s/wch81n/what_improve_my_open_source) - [What to improve in my open-source documentation?](https://expr-lang.org/)
 * [2023-12-18, 08:31:07](https://lobste.rs/s/pwgfjm/exploring_section_layout_linker_output) - [Exploring the section layout in linker output](https://maskray.me/blog/2023-12-17-exploring-the-section-layout-in-linker-output)
 * [2023-12-18, 05:50:59](https://lobste.rs/s/bz8fch/real_world_ocaml) - [Real World OCaml](https://dev.realworldocaml.org/index.html)
-* [2023-12-17, 13:36:36](https://lobste.rs/s/j1scvx/evaluating_new_software_forges) - [Evaluating new software forges](https://notgull.net/finding-a-forge/)
 
 ## [Archives](archives/index.md)
 
