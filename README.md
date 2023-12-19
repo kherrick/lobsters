@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-12-19, 06:29:48](https://lobste.rs/s/wsfstx/c_should_be_c) - [C++ Should Be C++](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p3023r1.html)
-* [2023-12-19, 06:15:49](https://lobste.rs/s/1kzae3/rise_key_transparency_its_potential) - [The Rise of Key Transparency and Its Potential Future in Email Security](https://unmitigatedrisk.com/?p=749)
 * [2023-12-19, 06:06:07](https://lobste.rs/s/wvjaxe/mapping_semantic_void_strange_goings_on) - [Mapping the semantic void: Strange goings-on in GPT embedding spaces](https://www.lesswrong.com/posts/c6uTNm5erRrmyJvvD/mapping-the-semantic-void-strange-goings-on-in-gpt-embedding)
 * [2023-12-19, 05:08:33](https://lobste.rs/s/nw8cst/performance_engineering_profilers) - [Performance engineering, profilers, and seeing the invisible](https://blog.nelhage.com/post/profilers-seeing-the-invisible/)
 * [2023-12-19, 04:54:50](https://lobste.rs/s/4txizu/go_constant_variables_are_not_used_for) - [In Go, constant variables are not used for optimization](https://utcc.utoronto.ca/~cks/space/blog/programming/GoKeepsConstantVariables)
+* [2023-12-19, 04:00:50](https://lobste.rs/s/ke8s2l/looking_into_stadia_controller) - [Looking into the Stadia Controller Bluetooth Mode Website](https://garyodernichts.blogspot.com/2023/01/looking-into-stadia-controller.html)
+* [2023-12-19, 03:20:39](https://lobste.rs/s/w32p2a/teaching_program_verification_dafny_at) - [Teaching Program Verification in Dafny at Amazon](https://dafny.org/blog/2023/12/15/teaching-program-verification-in-dafny-at-amazon/)
 * [2023-12-19, 01:52:43](https://lobste.rs/s/au6p30/evolving_ux_design_reduced_cognitive) - [Evolving UX Design: Reduced Cognitive Load with an Anti-Dropdown Anti-Modal Form](https://gist.github.com/L8D/c27a4563f5d9e98b8220acb4bdae4cac)
 * [2023-12-19, 01:14:27](https://lobste.rs/s/rzejqo/smashing_stack_for_pain_misery) - [Smashing the stack for pain and misery](https://rachelbythebay.com/w/2023/12/18/boom/)
 * [2023-12-19, 00:18:24](https://lobste.rs/s/dfdkrw/world_before_git) - [The World Before Git](https://osshistory.org/p/the-world-before-git)
@@ -23,7 +24,6 @@
 * [2023-12-18, 14:42:10](https://lobste.rs/s/surixw/three_days_advent_code_hurl) - [Three days of Advent of Code in Hurl](https://ntietz.com/blog/three-days-of-advent-of-code-in-hurl/)
 * [2023-12-18, 14:17:53](https://lobste.rs/s/mvqaqr/church_vs_curry_types) - [Church vs Curry Types](https://ericnormand.me/article/church-vs-curry-types)
 * [2023-12-18, 13:45:31](https://lobste.rs/s/a34pnx/paged_out_magazine_issue_3) - [Paged Out Magazine - Issue 3](https://pagedout.institute/download/PagedOut_003_beta1.pdf)
-* [2023-12-18, 08:31:07](https://lobste.rs/s/pwgfjm/exploring_section_layout_linker_output) - [Exploring the section layout in linker output](https://maskray.me/blog/2023-12-17-exploring-the-section-layout-in-linker-output)
 * [2023-12-18, 05:50:59](https://lobste.rs/s/bz8fch/real_world_ocaml) - [Real World OCaml](https://dev.realworldocaml.org/index.html)
 
 ## [Archives](archives/index.md)
