@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-19, 09:36:51](https://lobste.rs/s/iauymo/trivial_auto_var_init_experiments) - [Trivial Auto Var Init Experiments](https://serge-sans-paille.github.io/pythran-stories/trivial-auto-var-init-experiments.html)
 * [2023-12-19, 06:29:48](https://lobste.rs/s/wsfstx/c_should_be_c) - [C++ Should Be C++](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p3023r1.html)
 * [2023-12-19, 06:06:07](https://lobste.rs/s/wvjaxe/mapping_semantic_void_strange_goings_on) - [Mapping the semantic void: Strange goings-on in GPT embedding spaces](https://www.lesswrong.com/posts/c6uTNm5erRrmyJvvD/mapping-the-semantic-void-strange-goings-on-in-gpt-embedding)
 * [2023-12-19, 05:08:33](https://lobste.rs/s/nw8cst/performance_engineering_profilers) - [Performance engineering, profilers, and seeing the invisible](https://blog.nelhage.com/post/profilers-seeing-the-invisible/)
@@ -9,7 +10,6 @@
 * [2023-12-19, 01:52:43](https://lobste.rs/s/au6p30/evolving_ux_design_reduced_cognitive) - [Evolving UX Design: Reduced Cognitive Load with an Anti-Dropdown Anti-Modal Form](https://gist.github.com/L8D/c27a4563f5d9e98b8220acb4bdae4cac)
 * [2023-12-19, 01:14:27](https://lobste.rs/s/rzejqo/smashing_stack_for_pain_misery) - [Smashing the stack for pain and misery](https://rachelbythebay.com/w/2023/12/18/boom/)
 * [2023-12-19, 00:18:24](https://lobste.rs/s/dfdkrw/world_before_git) - [The World Before Git](https://osshistory.org/p/the-world-before-git)
-* [2023-12-19, 00:08:52](https://lobste.rs/s/9ck2nq/we_have_support_every_line_production) - [We Have To Support Every Line of Production Code Forever](https://www.mironov.com/support-all/)
 * [2023-12-18, 23:21:44](https://lobste.rs/s/fxcbbv/gleam_v0_33_exhaustive_gleam) - [Gleam v0.33 – Exhaustive Gleam](https://gleam.run/news/v0.33-exhaustive-gleam/)
 * [2023-12-18, 23:10:00](https://lobste.rs/s/jdr1e4/tiny_code_christmas_2023) - [Tiny Code Christmas 2023](https://tcc.lovebyte.party/)
 * [2023-12-18, 22:58:46](https://lobste.rs/s/hpr3ux/colliding_secure_hashes) - [Colliding Secure Hashes](https://www.da.vidbuchanan.co.uk/blog/colliding-secure-hashes.html)
