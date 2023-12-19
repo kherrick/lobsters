@@ -2,6 +2,7 @@
 
 * [2023-12-19, 17:31:39](https://lobste.rs/s/pkdfbp/mtcp_netdrive_for_dos) - [mTCP NetDrive for DOS](https://docs.google.com/document/d/18vtrVANm0JNLO9pmLqDJaMGWnQUobON9qM243b-bmdw/edit)
 * [2023-12-19, 16:26:31](https://lobste.rs/s/thpvkm/high_risk_ai_applications_eu_ai_act) - [High-Risk AI applications in the EU AI Act](https://www.linkedin.com/posts/rikvanbruggen_high-risk-ai-in-the-eu-ai-act-hopsworks-activity-7140665253909942274-zDge)
+* [2023-12-19, 16:20:04](https://lobste.rs/s/qif0ib/fedora_asahi_remix) - [Fedora Asahi Remix](https://asahilinux.org/fedora/)
 * [2023-12-19, 16:18:53](https://lobste.rs/s/o9s9xw/bit_banging_3_5_floppy_drive) - [Bit Banging a 3.5\" Floppy Drive](https://floppy.cafe/)
 * [2023-12-19, 15:55:28](https://lobste.rs/s/o0ss7c/suggestions_for_lightweight_http_server) - [Suggestions for a lightweight HTTP server with CGI support?](https://lobste.rs/s/o0ss7c/suggestions_for_lightweight_http_server)
 * [2023-12-19, 15:10:52](https://lobste.rs/s/qa6759/better_mastodon_client) - [A Better Mastodon Client](https://timkellogg.me/blog/2023/12/19/fossil)
@@ -20,7 +21,6 @@
 * [2023-12-18, 22:58:46](https://lobste.rs/s/hpr3ux/colliding_secure_hashes) - [Colliding Secure Hashes](https://www.da.vidbuchanan.co.uk/blog/colliding-secure-hashes.html)
 * [2023-12-18, 22:37:39](https://lobste.rs/s/95poni/introducing_fly_kubernetes) - [Introducing Fly Kubernetes](https://fly.io/blog/fks/)
 * [2023-12-18, 19:39:00](https://lobste.rs/s/yexofk/terrapin_attack_on_ssh) - [Terrapin Attack on SSH](https://terrapin-attack.com/)
-* [2023-12-18, 19:26:44](https://lobste.rs/s/dk65ft/launching_2023_state_rust_survey) - [Launching the 2023 State of Rust Survey](https://blog.rust-lang.org/2023/12/18/survey-launch.html)
 * [2023-12-18, 17:34:31](https://lobste.rs/s/fhqc92/lichess_upgrades_scala_3_2022) - [Lichess Upgrades to Scala 3 (2022)](https://lichess.org/@/thibault/blog/lichess--scala-3/y1sbYzJX)
 * [2023-12-18, 16:02:52](https://lobste.rs/s/ls1eql/how_many_cpu_cores_can_you_actually_use) - [How many CPU cores can you actually use in parallel?](https://pythonspeed.com/articles/cpu-thread-pool-size/)
 * [2023-12-18, 15:33:14](https://lobste.rs/s/ghttjv/using_zig_unit_test_c_application) - [Using Zig to Unit Test a C Application](https://mtlynch.io/notes/zig-unit-test-c/)
