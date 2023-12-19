@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
+* [2023-12-19, 21:54:59](https://lobste.rs/s/obctjl/advent_technical_writing_holistic) - [Advent of Technical Writing: Holistic Documentation Reviews](https://jamesg.blog/2023/12/19/documentation-reviews/)
 * [2023-12-19, 20:39:12](https://lobste.rs/s/etrokx/how_make_web_analytics_valuable_for_rails) - [How to make web analytics valuable for Rails apps](https://blog.flippercloud.io/how-to-make-web-analytics-valuable-for-rails-apps/)
+* [2023-12-19, 20:39:08](https://lobste.rs/s/dh71ns/making_ssh_host_certificates_more_usable) - [Making SSH host certificates more usable](https://mjg59.dreamwidth.org/68721.html)
 * [2023-12-19, 18:46:05](https://lobste.rs/s/smu7s0/yaksha_release_v0_0_5_macos_support_c_style) - [Yaksha release v0.0.5 - MacOS support, c style for loop, string references, inlinec, make](https://github.com/YakshaLang/Yaksha/releases/tag/v0.0.5)
 * [2023-12-19, 18:09:34](https://lobste.rs/s/2hgtqp/technical_debt_is_not_real) - [Technical Debt is not real](https://www.foxhound.systems/blog/technical-debt-is-not-real/)
 * [2023-12-19, 17:31:39](https://lobste.rs/s/pkdfbp/mtcp_netdrive_for_dos) - [mTCP NetDrive for DOS](https://docs.google.com/document/d/18vtrVANm0JNLO9pmLqDJaMGWnQUobON9qM243b-bmdw/edit)
