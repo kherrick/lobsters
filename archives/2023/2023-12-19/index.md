@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
+* [2023-12-19, 10:24:44](https://lobste.rs/s/j8uxfz/basic_gerrit_walkthrough_for_github) - [Basic Gerrit Walkthrough — For GitHub Users](https://gerrit-review.googlesource.com/Documentation/intro-gerrit-walkthrough-github.html)
 * [2023-12-19, 10:10:34](https://lobste.rs/s/3frc5m/interactive_code_cells) - [Interactive code cells](https://antonz.org/code-cells/)
 * [2023-12-19, 09:36:51](https://lobste.rs/s/iauymo/trivial_auto_var_init_experiments) - [Trivial Auto Var Init Experiments](https://serge-sans-paille.github.io/pythran-stories/trivial-auto-var-init-experiments.html)
 * [2023-12-19, 06:29:48](https://lobste.rs/s/wsfstx/c_should_be_c) - [C++ Should Be C++](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p3023r1.html)
