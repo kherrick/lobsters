@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-12-19, 06:29:48](https://lobste.rs/s/wsfstx/c_should_be_c) - [C++ Should Be C++](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p3023r1.html)
-* [2023-12-19, 06:15:49](https://lobste.rs/s/1kzae3/rise_key_transparency_its_potential) - [The Rise of Key Transparency and Its Potential Future in Email Security | UNMITIGATED RISK](https://unmitigatedrisk.com/?p=749)
+* [2023-12-19, 06:15:49](https://lobste.rs/s/1kzae3/rise_key_transparency_its_potential) - [The Rise of Key Transparency and Its Potential Future in Email Security](https://unmitigatedrisk.com/?p=749)
 * [2023-12-19, 06:06:07](https://lobste.rs/s/wvjaxe/mapping_semantic_void_strange_goings_on) - [Mapping the semantic void: Strange goings-on in GPT embedding spaces](https://www.lesswrong.com/posts/c6uTNm5erRrmyJvvD/mapping-the-semantic-void-strange-goings-on-in-gpt-embedding)
 * [2023-12-19, 05:08:33](https://lobste.rs/s/nw8cst/performance_engineering_profilers) - [Performance engineering, profilers, and seeing the invisible](https://blog.nelhage.com/post/profilers-seeing-the-invisible/)
 * [2023-12-19, 01:52:43](https://lobste.rs/s/au6p30/evolving_ux_design_reduced_cognitive) - [Evolving UX Design: Reduced Cognitive Load with an Anti-Dropdown Anti-Modal Form](https://gist.github.com/L8D/c27a4563f5d9e98b8220acb4bdae4cac)
