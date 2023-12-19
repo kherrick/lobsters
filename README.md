@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-19, 16:20:04](https://lobste.rs/s/qif0ib/fedora_asahi_remix) - [Fedora Asahi Remix](https://asahilinux.org/fedora/)
+* [2023-12-19, 16:18:53](https://lobste.rs/s/o9s9xw/bit_banging_3_5_floppy_drive) - [Bit Banging a 3.5\" Floppy Drive](https://floppy.cafe/)
 * [2023-12-19, 15:55:28](https://lobste.rs/s/o0ss7c/suggestions_for_lightweight_http_server) - [Suggestions for a lightweight HTTP server with CGI support?](https://lobste.rs/s/o0ss7c/suggestions_for_lightweight_http_server)
 * [2023-12-19, 15:10:52](https://lobste.rs/s/qa6759/better_mastodon_client) - [A Better Mastodon Client](https://timkellogg.me/blog/2023/12/19/fossil)
 * [2023-12-19, 14:18:51](https://lobste.rs/s/ow3jpq/jepsen_mysql_8_0_34) - [Jepsen: MySQL 8.0.34](https://jepsen.io/analyses/mysql-8.0.34)
@@ -12,7 +14,6 @@
 * [2023-12-19, 06:06:07](https://lobste.rs/s/wvjaxe/mapping_semantic_void_strange_goings_on) - [Mapping the semantic void: Strange goings-on in GPT embedding spaces](https://www.lesswrong.com/posts/c6uTNm5erRrmyJvvD/mapping-the-semantic-void-strange-goings-on-in-gpt-embedding)
 * [2023-12-19, 05:08:33](https://lobste.rs/s/nw8cst/performance_engineering_profilers) - [Performance engineering, profilers, and seeing the invisible](https://blog.nelhage.com/post/profilers-seeing-the-invisible/)
 * [2023-12-19, 04:54:50](https://lobste.rs/s/4txizu/go_constant_variables_are_not_used_for) - [In Go, constant variables are not used for optimization](https://utcc.utoronto.ca/~cks/space/blog/programming/GoKeepsConstantVariables)
-* [2023-12-19, 04:00:50](https://lobste.rs/s/ke8s2l/looking_into_stadia_controller) - [Looking into the Stadia Controller Bluetooth Mode Website](https://garyodernichts.blogspot.com/2023/01/looking-into-stadia-controller.html)
 * [2023-12-19, 01:14:27](https://lobste.rs/s/rzejqo/smashing_stack_for_pain_misery) - [Smashing the stack for pain and misery](https://rachelbythebay.com/w/2023/12/18/boom/)
 * [2023-12-19, 00:18:24](https://lobste.rs/s/dfdkrw/world_before_git) - [The World Before Git](https://osshistory.org/p/the-world-before-git)
 * [2023-12-18, 23:21:44](https://lobste.rs/s/fxcbbv/gleam_v0_33_exhaustive_gleam) - [Gleam v0.33 – Exhaustive Gleam](https://gleam.run/news/v0.33-exhaustive-gleam/)
@@ -24,7 +25,6 @@
 * [2023-12-18, 16:02:52](https://lobste.rs/s/ls1eql/how_many_cpu_cores_can_you_actually_use) - [How many CPU cores can you actually use in parallel?](https://pythonspeed.com/articles/cpu-thread-pool-size/)
 * [2023-12-18, 15:33:14](https://lobste.rs/s/ghttjv/using_zig_unit_test_c_application) - [Using Zig to Unit Test a C Application](https://mtlynch.io/notes/zig-unit-test-c/)
 * [2023-12-18, 14:17:53](https://lobste.rs/s/mvqaqr/church_vs_curry_types) - [Church vs Curry Types](https://ericnormand.me/article/church-vs-curry-types)
-* [2023-12-18, 13:45:31](https://lobste.rs/s/a34pnx/paged_out_magazine_issue_3) - [Paged Out Magazine - Issue 3](https://pagedout.institute/download/PagedOut_003_beta1.pdf)
 
 ## [Archives](archives/index.md)
 

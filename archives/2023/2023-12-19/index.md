@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
+* [2023-12-19, 16:20:04](https://lobste.rs/s/qif0ib/fedora_asahi_remix) - [Fedora Asahi Remix](https://asahilinux.org/fedora/)
+* [2023-12-19, 16:18:53](https://lobste.rs/s/o9s9xw/bit_banging_3_5_floppy_drive) - [Bit Banging a 3.5\" Floppy Drive](https://floppy.cafe/)
 * [2023-12-19, 15:55:28](https://lobste.rs/s/o0ss7c/suggestions_for_lightweight_http_server) - [Suggestions for a lightweight HTTP server with CGI support?](https://lobste.rs/s/o0ss7c/suggestions_for_lightweight_http_server)
 * [2023-12-19, 15:52:11](https://lobste.rs/s/b4w9bp/logical_replication_from_postgres_16) - [Logical Replication From Postgres 16 Stand-By Servers](https://www.decodable.co/blog/logical-replication-from-postgres-16-stand-by-servers-part-1-of-2)
 * [2023-12-19, 15:10:52](https://lobste.rs/s/qa6759/better_mastodon_client) - [A Better Mastodon Client](https://timkellogg.me/blog/2023/12/19/fossil)
