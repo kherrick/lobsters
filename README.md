@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-19, 20:39:12](https://lobste.rs/s/etrokx/how_make_web_analytics_valuable_for_rails) - [How to make web analytics valuable for Rails apps](https://blog.flippercloud.io/how-to-make-web-analytics-valuable-for-rails-apps/)
 * [2023-12-19, 18:46:05](https://lobste.rs/s/smu7s0/yaksha_release_v0_0_5_macos_support_c_style) - [Yaksha release v0.0.5 - MacOS support, c style for loop, string references, inlinec, make](https://github.com/YakshaLang/Yaksha/releases/tag/v0.0.5)
 * [2023-12-19, 18:09:34](https://lobste.rs/s/2hgtqp/technical_debt_is_not_real) - [Technical Debt is not real](https://www.foxhound.systems/blog/technical-debt-is-not-real/)
 * [2023-12-19, 17:31:39](https://lobste.rs/s/pkdfbp/mtcp_netdrive_for_dos) - [mTCP NetDrive for DOS](https://docs.google.com/document/d/18vtrVANm0JNLO9pmLqDJaMGWnQUobON9qM243b-bmdw/edit)
@@ -17,7 +18,6 @@
 * [2023-12-19, 06:29:48](https://lobste.rs/s/wsfstx/c_should_be_c) - [C++ Should Be C++](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p3023r1.html)
 * [2023-12-19, 06:06:07](https://lobste.rs/s/wvjaxe/mapping_semantic_void_strange_goings_on) - [Mapping the semantic void: Strange goings-on in GPT embedding spaces](https://www.lesswrong.com/posts/c6uTNm5erRrmyJvvD/mapping-the-semantic-void-strange-goings-on-in-gpt-embedding)
 * [2023-12-19, 05:08:33](https://lobste.rs/s/nw8cst/performance_engineering_profilers) - [Performance engineering, profilers, and seeing the invisible](https://blog.nelhage.com/post/profilers-seeing-the-invisible/)
-* [2023-12-19, 04:54:50](https://lobste.rs/s/4txizu/go_constant_variables_are_not_used_for) - [In Go, constant variables are not used for optimization](https://utcc.utoronto.ca/~cks/space/blog/programming/GoKeepsConstantVariables)
 * [2023-12-19, 00:18:24](https://lobste.rs/s/dfdkrw/world_before_git) - [The World Before Git](https://osshistory.org/p/the-world-before-git)
 * [2023-12-18, 23:21:44](https://lobste.rs/s/fxcbbv/gleam_v0_33_exhaustive_gleam) - [Gleam v0.33 – Exhaustive Gleam](https://gleam.run/news/v0.33-exhaustive-gleam/)
 * [2023-12-18, 22:58:46](https://lobste.rs/s/hpr3ux/colliding_secure_hashes) - [Colliding Secure Hashes](https://www.da.vidbuchanan.co.uk/blog/colliding-secure-hashes.html)
