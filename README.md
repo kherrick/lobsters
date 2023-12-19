@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-12-19, 02:05:23](https://lobste.rs/s/kstjum/who_s_hiring) - [Who's hiring?](https://lobste.rs/s/kstjum/who_s_hiring)
 * [2023-12-19, 01:52:43](https://lobste.rs/s/au6p30/evolving_ux_design_reduced_cognitive) - [Evolving UX Design: Reduced Cognitive Load with an Anti-Dropdown Anti-Modal Form](https://gist.github.com/L8D/c27a4563f5d9e98b8220acb4bdae4cac)
 * [2023-12-19, 00:18:24](https://lobste.rs/s/dfdkrw/world_before_git) - [The World Before Git](https://osshistory.org/p/the-world-before-git)
 * [2023-12-19, 00:08:52](https://lobste.rs/s/9ck2nq/we_have_support_every_line_production) - [We Have To Support Every Line of Production Code Forever](https://www.mironov.com/support-all/)
@@ -20,6 +19,7 @@
 * [2023-12-18, 14:42:10](https://lobste.rs/s/surixw/three_days_advent_code_hurl) - [Three days of Advent of Code in Hurl](https://ntietz.com/blog/three-days-of-advent-of-code-in-hurl/)
 * [2023-12-18, 14:17:53](https://lobste.rs/s/mvqaqr/church_vs_curry_types) - [Church vs Curry Types](https://ericnormand.me/article/church-vs-curry-types)
 * [2023-12-18, 13:45:31](https://lobste.rs/s/a34pnx/paged_out_magazine_issue_3) - [Paged Out Magazine - Issue 3](https://pagedout.institute/download/PagedOut_003_beta1.pdf)
+* [2023-12-18, 11:33:19](https://lobste.rs/s/xo1j4v/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xo1j4v/what_are_you_doing_this_week)
 * [2023-12-18, 09:34:55](https://lobste.rs/s/wch81n/what_improve_my_open_source) - [What to improve in my open-source documentation?](https://expr-lang.org/)
 * [2023-12-18, 08:31:07](https://lobste.rs/s/pwgfjm/exploring_section_layout_linker_output) - [Exploring the section layout in linker output](https://maskray.me/blog/2023-12-17-exploring-the-section-layout-in-linker-output)
 * [2023-12-18, 05:50:59](https://lobste.rs/s/bz8fch/real_world_ocaml) - [Real World OCaml](https://dev.realworldocaml.org/index.html)
