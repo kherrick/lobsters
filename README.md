@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-19, 01:14:27](https://lobste.rs/s/rzejqo/smashing_stack_for_pain_misery) - [Smashing the stack for pain and misery](https://rachelbythebay.com/w/2023/12/18/boom/)
 * [2023-12-19, 00:18:24](https://lobste.rs/s/dfdkrw/world_before_git) - [The World Before Git](https://osshistory.org/p/the-world-before-git)
 * [2023-12-19, 00:08:52](https://lobste.rs/s/9ck2nq/we_have_support_every_line_production) - [We Have To Support Every Line of Production Code Forever](https://www.mironov.com/support-all/)
 * [2023-12-18, 23:21:44](https://lobste.rs/s/fxcbbv/gleam_v0_33_exhaustive_gleam) - [Gleam v0.33 – Exhaustive Gleam](https://gleam.run/news/v0.33-exhaustive-gleam/)
@@ -24,7 +25,6 @@
 * [2023-12-18, 05:50:59](https://lobste.rs/s/bz8fch/real_world_ocaml) - [Real World OCaml](https://dev.realworldocaml.org/index.html)
 * [2023-12-17, 23:50:20](https://lobste.rs/s/hjawvk/so_you_want_custom_allocator_support_your) - [So you want custom allocator support in your C library](https://nullprogram.com/blog/2023/12/17/)
 * [2023-12-17, 13:36:36](https://lobste.rs/s/j1scvx/evaluating_new_software_forges) - [Evaluating new software forges](https://notgull.net/finding-a-forge/)
-* [2023-12-17, 11:37:41](https://lobste.rs/s/wntq5o/maybe_we_don_t_need_uuidv7_after_all) - [Maybe We Don’t Need UUIDv7 After All](https://lu.sagebl.eu/notes/maybe-we-dont-need-uuidv7/)
 
 ## [Archives](archives/index.md)
 
