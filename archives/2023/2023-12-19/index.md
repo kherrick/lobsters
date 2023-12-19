@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
+* [2023-12-19, 05:51:00](https://lobste.rs/s/zitcw6/qt_6_6_6_7_make_qml_faster_than_ever_new) - [Qt 6.6 and 6.7 Make QML Faster than Ever: A New Benchmark and Analysis](https://www.qt.io/blog/qt-6.6-and-6.7-make-qml-faster-than-ever-a-new-benchmark-and-analysis)
 * [2023-12-19, 05:08:33](https://lobste.rs/s/nw8cst/performance_engineering_profilers) - [Performance engineering, profilers, and seeing the invisible](https://blog.nelhage.com/post/profilers-seeing-the-invisible/)
 * [2023-12-19, 04:54:50](https://lobste.rs/s/4txizu/go_constant_variables_are_not_used_for) - [In Go, constant variables are not used for optimization](https://utcc.utoronto.ca/~cks/space/blog/programming/GoKeepsConstantVariables)
 * [2023-12-19, 04:00:50](https://lobste.rs/s/ke8s2l/looking_into_stadia_controller) - [Looking into the Stadia Controller Bluetooth Mode Website](https://garyodernichts.blogspot.com/2023/01/looking-into-stadia-controller.html)
