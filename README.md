@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-19, 13:04:34](https://lobste.rs/s/io5rme/my_cat_water_fountain_comes_with_spicy_usb) - [My cat water fountain comes with a spicy USB power adapter](https://ounapuu.ee/posts/2023/12/19/spicy-usb-adapter/)
 * [2023-12-19, 12:57:30](https://lobste.rs/s/tst9zy/rfc_9518_what_can_internet_standards_do) - [RFC 9518 - What Can Internet Standards Do About Centralisation?](https://www.mnot.net/blog/2023/12/19/standards-and-centralization)
 * [2023-12-19, 11:39:13](https://lobste.rs/s/pn9v0r/quint_executable_specification) - [Quint: An executable specification language based on the temporal logic of actions (TLA)](https://github.com/informalsystems/quint)
 * [2023-12-19, 10:24:44](https://lobste.rs/s/j8uxfz/basic_gerrit_walkthrough_for_github) - [Basic Gerrit Walkthrough — For GitHub Users](https://gerrit-review.googlesource.com/Documentation/intro-gerrit-walkthrough-github.html)
@@ -7,7 +8,6 @@
 * [2023-12-19, 09:36:51](https://lobste.rs/s/iauymo/trivial_auto_var_init_experiments) - [Trivial Auto Var Init Experiments](https://serge-sans-paille.github.io/pythran-stories/trivial-auto-var-init-experiments.html)
 * [2023-12-19, 06:29:48](https://lobste.rs/s/wsfstx/c_should_be_c) - [C++ Should Be C++](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p3023r1.html)
 * [2023-12-19, 06:06:07](https://lobste.rs/s/wvjaxe/mapping_semantic_void_strange_goings_on) - [Mapping the semantic void: Strange goings-on in GPT embedding spaces](https://www.lesswrong.com/posts/c6uTNm5erRrmyJvvD/mapping-the-semantic-void-strange-goings-on-in-gpt-embedding)
-* [2023-12-19, 05:51:00](https://lobste.rs/s/zitcw6/qt_6_6_6_7_make_qml_faster_than_ever_new) - [Qt 6.6 and 6.7 Make QML Faster than Ever: A New Benchmark and Analysis](https://www.qt.io/blog/qt-6.6-and-6.7-make-qml-faster-than-ever-a-new-benchmark-and-analysis)
 * [2023-12-19, 05:08:33](https://lobste.rs/s/nw8cst/performance_engineering_profilers) - [Performance engineering, profilers, and seeing the invisible](https://blog.nelhage.com/post/profilers-seeing-the-invisible/)
 * [2023-12-19, 04:54:50](https://lobste.rs/s/4txizu/go_constant_variables_are_not_used_for) - [In Go, constant variables are not used for optimization](https://utcc.utoronto.ca/~cks/space/blog/programming/GoKeepsConstantVariables)
 * [2023-12-19, 04:00:50](https://lobste.rs/s/ke8s2l/looking_into_stadia_controller) - [Looking into the Stadia Controller Bluetooth Mode Website](https://garyodernichts.blogspot.com/2023/01/looking-into-stadia-controller.html)
