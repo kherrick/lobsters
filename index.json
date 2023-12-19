@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-12-19, 21:54:59",
+      "https://lobste.rs/s/obctjl/advent_technical_writing_holistic"
+    ],
+    [
+      "Advent of Technical Writing: Holistic Documentation Reviews",
+      "https://jamesg.blog/2023/12/19/documentation-reviews/"
+    ]
+  ],
+  [
+    [
       "2023-12-19, 20:39:12",
       "https://lobste.rs/s/etrokx/how_make_web_analytics_valuable_for_rails"
     ],
     [
       "How to make web analytics valuable for Rails apps",
       "https://blog.flippercloud.io/how-to-make-web-analytics-valuable-for-rails-apps/"
+    ]
+  ],
+  [
+    [
+      "2023-12-19, 20:39:08",
+      "https://lobste.rs/s/dh71ns/making_ssh_host_certificates_more_usable"
+    ],
+    [
+      "Making SSH host certificates more usable",
+      "https://mjg59.dreamwidth.org/68721.html"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-12-19, 05:08:33",
-      "https://lobste.rs/s/nw8cst/performance_engineering_profilers"
-    ],
-    [
-      "Performance engineering, profilers, and seeing the invisible",
-      "https://blog.nelhage.com/post/profilers-seeing-the-invisible/"
-    ]
-  ],
-  [
-    [
       "2023-12-19, 00:18:24",
       "https://lobste.rs/s/dfdkrw/world_before_git"
     ],
@@ -217,16 +227,6 @@
     [
       "Introducing Fly Kubernetes",
       "https://fly.io/blog/fks/"
-    ]
-  ],
-  [
-    [
-      "2023-12-18, 19:39:00",
-      "https://lobste.rs/s/yexofk/terrapin_attack_on_ssh"
-    ],
-    [
-      "Terrapin Attack on SSH",
-      "https://terrapin-attack.com/"
     ]
   ],
   [
