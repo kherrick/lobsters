@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-19, 04:00:50",
+      "https://lobste.rs/s/ke8s2l/looking_into_stadia_controller"
+    ],
+    [
+      "Looking into the Stadia Controller Bluetooth Mode Website",
+      "https://garyodernichts.blogspot.com/2023/01/looking-into-stadia-controller.html"
+    ]
+  ],
+  [
+    [
       "2023-12-19, 03:20:39",
       "https://lobste.rs/s/w32p2a/teaching_program_verification_dafny_at"
     ],
@@ -227,16 +237,6 @@
     [
       "Real World OCaml",
       "https://dev.realworldocaml.org/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-17, 23:50:20",
-      "https://lobste.rs/s/hjawvk/so_you_want_custom_allocator_support_your"
-    ],
-    [
-      "So you want custom allocator support in your C library",
-      "https://nullprogram.com/blog/2023/12/17/"
     ]
   ],
   [
