@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
+* [2023-12-19, 14:02:58](https://lobste.rs/s/ra7vtk/day_i_started_believing_unit_tests) - [The day I started believing in Unit Tests](https://mental-reverb.com/blog.php?id=42)
 * [2023-12-19, 13:04:34](https://lobste.rs/s/io5rme/my_cat_water_fountain_comes_with_spicy_usb) - [My cat water fountain comes with a spicy USB power adapter](https://ounapuu.ee/posts/2023/12/19/spicy-usb-adapter/)
 * [2023-12-19, 12:57:30](https://lobste.rs/s/tst9zy/rfc_9518_what_can_internet_standards_do) - [RFC 9518 - What Can Internet Standards Do About Centralisation?](https://www.mnot.net/blog/2023/12/19/standards-and-centralization)
 * [2023-12-19, 11:39:13](https://lobste.rs/s/pn9v0r/quint_executable_specification) - [Quint: An executable specification language based on the temporal logic of actions (TLA)](https://github.com/informalsystems/quint)

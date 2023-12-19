@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-19, 14:02:58](https://lobste.rs/s/ra7vtk/day_i_started_believing_unit_tests) - [The day I started believing in Unit Tests](https://mental-reverb.com/blog.php?id=42)
 * [2023-12-19, 13:04:34](https://lobste.rs/s/io5rme/my_cat_water_fountain_comes_with_spicy_usb) - [My cat water fountain comes with a spicy USB power adapter](https://ounapuu.ee/posts/2023/12/19/spicy-usb-adapter/)
 * [2023-12-19, 12:57:30](https://lobste.rs/s/tst9zy/rfc_9518_what_can_internet_standards_do) - [RFC 9518 - What Can Internet Standards Do About Centralisation?](https://www.mnot.net/blog/2023/12/19/standards-and-centralization)
 * [2023-12-19, 11:39:13](https://lobste.rs/s/pn9v0r/quint_executable_specification) - [Quint: An executable specification language based on the temporal logic of actions (TLA)](https://github.com/informalsystems/quint)
@@ -24,7 +25,6 @@
 * [2023-12-18, 15:33:14](https://lobste.rs/s/ghttjv/using_zig_unit_test_c_application) - [Using Zig to Unit Test a C Application](https://mtlynch.io/notes/zig-unit-test-c/)
 * [2023-12-18, 14:17:53](https://lobste.rs/s/mvqaqr/church_vs_curry_types) - [Church vs Curry Types](https://ericnormand.me/article/church-vs-curry-types)
 * [2023-12-18, 13:45:31](https://lobste.rs/s/a34pnx/paged_out_magazine_issue_3) - [Paged Out Magazine - Issue 3](https://pagedout.institute/download/PagedOut_003_beta1.pdf)
-* [2023-12-18, 05:50:59](https://lobste.rs/s/bz8fch/real_world_ocaml) - [Real World OCaml](https://dev.realworldocaml.org/index.html)
 
 ## [Archives](archives/index.md)
 
