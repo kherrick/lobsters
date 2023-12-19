@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-19, 04:00:50](https://lobste.rs/s/ke8s2l/looking_into_stadia_controller) - [Looking into the Stadia Controller Bluetooth Mode Website](https://garyodernichts.blogspot.com/2023/01/looking-into-stadia-controller.html)
 * [2023-12-19, 03:20:39](https://lobste.rs/s/w32p2a/teaching_program_verification_dafny_at) - [Teaching Program Verification in Dafny at Amazon](https://dafny.org/blog/2023/12/15/teaching-program-verification-in-dafny-at-amazon/)
 * [2023-12-19, 01:52:43](https://lobste.rs/s/au6p30/evolving_ux_design_reduced_cognitive) - [Evolving UX Design: Reduced Cognitive Load with an Anti-Dropdown Anti-Modal Form](https://gist.github.com/L8D/c27a4563f5d9e98b8220acb4bdae4cac)
 * [2023-12-19, 00:18:24](https://lobste.rs/s/dfdkrw/world_before_git) - [The World Before Git](https://osshistory.org/p/the-world-before-git)
@@ -23,7 +24,6 @@
 * [2023-12-18, 09:34:55](https://lobste.rs/s/wch81n/what_improve_my_open_source) - [What to improve in my open-source documentation?](https://expr-lang.org/)
 * [2023-12-18, 08:31:07](https://lobste.rs/s/pwgfjm/exploring_section_layout_linker_output) - [Exploring the section layout in linker output](https://maskray.me/blog/2023-12-17-exploring-the-section-layout-in-linker-output)
 * [2023-12-18, 05:50:59](https://lobste.rs/s/bz8fch/real_world_ocaml) - [Real World OCaml](https://dev.realworldocaml.org/index.html)
-* [2023-12-17, 23:50:20](https://lobste.rs/s/hjawvk/so_you_want_custom_allocator_support_your) - [So you want custom allocator support in your C library](https://nullprogram.com/blog/2023/12/17/)
 * [2023-12-17, 13:36:36](https://lobste.rs/s/j1scvx/evaluating_new_software_forges) - [Evaluating new software forges](https://notgull.net/finding-a-forge/)
 
 ## [Archives](archives/index.md)

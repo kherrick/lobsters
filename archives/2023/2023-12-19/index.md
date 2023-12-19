@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
+* [2023-12-19, 04:00:50](https://lobste.rs/s/ke8s2l/looking_into_stadia_controller) - [Looking into the Stadia Controller Bluetooth Mode Website](https://garyodernichts.blogspot.com/2023/01/looking-into-stadia-controller.html)
 * [2023-12-19, 03:20:39](https://lobste.rs/s/w32p2a/teaching_program_verification_dafny_at) - [Teaching Program Verification in Dafny at Amazon](https://dafny.org/blog/2023/12/15/teaching-program-verification-in-dafny-at-amazon/)
 * [2023-12-19, 02:05:23](https://lobste.rs/s/kstjum/who_s_hiring) - [Who's hiring?](https://lobste.rs/s/kstjum/who_s_hiring)
 * [2023-12-19, 01:52:43](https://lobste.rs/s/au6p30/evolving_ux_design_reduced_cognitive) - [Evolving UX Design: Reduced Cognitive Load with an Anti-Dropdown Anti-Modal Form](https://gist.github.com/L8D/c27a4563f5d9e98b8220acb4bdae4cac)
