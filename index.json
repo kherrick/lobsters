@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-12-20, 14:01:40",
+      "https://lobste.rs/s/fbrjze/pipeinstall_list_projects_use_shell_pipe"
+    ],
+    [
+      "pipeinstall: A list of projects that use a shell pipe and cURL or Wget to install themselves",
+      "https://kubikpixel.github.io/pipeinstall/"
+    ]
+  ],
+  [
+    [
       "2023-12-20, 13:52:26",
       "https://lobste.rs/s/tueddj/rails_when_changing_code_doesn_t_change"
     ],
@@ -97,16 +107,6 @@
     [
       "Making SSH host certificates more usable",
       "https://mjg59.dreamwidth.org/68721.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 20:10:49",
-      "https://lobste.rs/s/bcbe19/introducing_solid_queue"
-    ],
-    [
-      "Introducing Solid Queue",
-      "https://dev.37signals.com/introducing-solid-queue/"
     ]
   ],
   [
