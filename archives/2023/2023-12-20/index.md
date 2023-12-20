@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-20](index.md)
 
+* [2023-12-20, 20:16:57](https://lobste.rs/s/ea0qpo/steampipe_sqlite_virtual_tables) - [Steampipe SQLite, Virtual tables translated for common APIs](https://github.com/turbot/steampipe-sqlite)
 * [2023-12-20, 19:07:15](https://lobste.rs/s/zqgbj9/continuous_memory_profiling_for_rust) - [Continuous Memory Profiling for Rust](https://www.polarsignals.com/blog/posts/2023/12/20/rust-memory-profiling)
 * [2023-12-20, 18:29:46](https://lobste.rs/s/8ycome/transparent_chip_inside_vintage_hewlett) - [The transparent chip inside a vintage Hewlett-Packard floppy drive](http://www.righto.com/2023/12/HP-silicon-on-sapphire-phi-chip.html)
 * [2023-12-20, 18:12:31](https://lobste.rs/s/1vjbqr/making_my_own_bed_sensor) - [Making my own Bed Sensor](https://www.homeautomationguy.io/blog/making-my-own-bed-sensor)
