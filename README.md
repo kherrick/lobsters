@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-20, 05:06:48](https://lobste.rs/s/qrh57f/reverse_engineering_game_code_from) - [Reverse Engineering Game Code from the Neutral Zone](https://youtu.be/5HSjJU562e8)
 * [2023-12-20, 04:57:16](https://lobste.rs/s/jmozoq/medusa_simple_framework_for) - [Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads](https://github.com/FasterDecoding/Medusa)
 * [2023-12-20, 03:11:25](https://lobste.rs/s/wzpiwb/garbage_collection_with_zero_cost_at_non) - [Garbage collection with zero-cost at non-GC time](https://gist.github.com/AndrasKovacs/fc9e20b0976b7e236b5899fde8f5c95d)
 * [2023-12-19, 23:00:40](https://lobste.rs/s/irmdxl/ruby_3_3_s_yjit_faster_while_using_less) - [Ruby 3.3’s YJIT: Faster While Using Less Memory](https://railsatscale.com/2023-12-04-ruby-3-3-s-yjit-faster-while-using-less-memory/)
@@ -21,7 +22,6 @@
 * [2023-12-19, 10:24:44](https://lobste.rs/s/j8uxfz/basic_gerrit_walkthrough_for_github) - [Basic Gerrit Walkthrough — For GitHub Users](https://gerrit-review.googlesource.com/Documentation/intro-gerrit-walkthrough-github.html)
 * [2023-12-19, 10:10:34](https://lobste.rs/s/3frc5m/interactive_code_cells) - [Interactive code cells](https://antonz.org/code-cells/)
 * [2023-12-19, 06:29:48](https://lobste.rs/s/wsfstx/c_should_be_c) - [C++ Should Be C++](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p3023r1.html)
-* [2023-12-19, 06:06:07](https://lobste.rs/s/wvjaxe/mapping_semantic_void_strange_goings_on) - [Mapping the semantic void: Strange goings-on in GPT embedding spaces](https://www.lesswrong.com/posts/c6uTNm5erRrmyJvvD/mapping-the-semantic-void-strange-goings-on-in-gpt-embedding)
 * [2023-12-19, 00:18:24](https://lobste.rs/s/dfdkrw/world_before_git) - [The World Before Git](https://osshistory.org/p/the-world-before-git)
 * [2023-12-18, 23:21:44](https://lobste.rs/s/fxcbbv/gleam_v0_33_exhaustive_gleam) - [Gleam v0.33 – Exhaustive Gleam](https://gleam.run/news/v0.33-exhaustive-gleam/)
 * [2023-12-18, 22:58:46](https://lobste.rs/s/hpr3ux/colliding_secure_hashes) - [Colliding Secure Hashes](https://www.da.vidbuchanan.co.uk/blog/colliding-secure-hashes.html)
