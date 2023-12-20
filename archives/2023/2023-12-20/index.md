@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-20](index.md)
 
+* [2023-12-20, 18:29:46](https://lobste.rs/s/8ycome/transparent_chip_inside_vintage_hewlett) - [The transparent chip inside a vintage Hewlett-Packard floppy drive](http://www.righto.com/2023/12/HP-silicon-on-sapphire-phi-chip.html)
 * [2023-12-20, 18:12:31](https://lobste.rs/s/1vjbqr/making_my_own_bed_sensor) - [Making my own Bed Sensor](https://www.homeautomationguy.io/blog/making-my-own-bed-sensor)
 * [2023-12-20, 18:11:17](https://lobste.rs/s/g7pksj/advice_for_new_software_devs_who_ve_read) - [Advice for new software devs who've read all those other advice essays](https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
 * [2023-12-20, 18:09:11](https://lobste.rs/s/y4zinw/3_lisp_infinite_tower_meta_circular) - [3-lisp: an infinite tower of meta-circular interpreters (2022)](https://www.cofault.com/2022/08/3-lisp-infinite-tower-of-meta-circular.html)
