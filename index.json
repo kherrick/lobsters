@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-20, 04:57:16",
+      "https://lobste.rs/s/jmozoq/medusa_simple_framework_for"
+    ],
+    [
+      "Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads",
+      "https://github.com/FasterDecoding/Medusa"
+    ]
+  ],
+  [
+    [
       "2023-12-20, 03:11:25",
       "https://lobste.rs/s/wzpiwb/garbage_collection_with_zero_cost_at_non"
     ],
@@ -237,16 +247,6 @@
     [
       "Colliding Secure Hashes",
       "https://www.da.vidbuchanan.co.uk/blog/colliding-secure-hashes.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-18, 15:33:14",
-      "https://lobste.rs/s/ghttjv/using_zig_unit_test_c_application"
-    ],
-    [
-      "Using Zig to Unit Test a C Application",
-      "https://mtlynch.io/notes/zig-unit-test-c/"
     ]
   ]
 ]
