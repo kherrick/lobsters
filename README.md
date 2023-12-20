@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-20, 14:01:40](https://lobste.rs/s/fbrjze/pipeinstall_list_projects_use_shell_pipe) - [pipeinstall: A list of projects that use a shell pipe and cURL or Wget to install themselves](https://kubikpixel.github.io/pipeinstall/)
 * [2023-12-20, 13:52:26](https://lobste.rs/s/tueddj/rails_when_changing_code_doesn_t_change) - [Rails: When Changing Code Doesn't Change Behavior](https://thoughtbot.com/blog/rails-when-changing-code-doesnt-change-behavior)
 * [2023-12-20, 10:18:32](https://lobste.rs/s/nheozb/simulating_fluids_fire_smoke_real_time) - [Simulating Fluids, Fire, and Smoke in Real-Time](https://andrewkchan.dev/posts/fire.html)
 * [2023-12-20, 09:51:08](https://lobste.rs/s/icxuhq/linux_graphics_stack_nutshell_part_1_lwn) - [The Linux graphics stack in a nutshell, part 1 [LWN.net]](https://lwn.net/SubscriberLink/955376/b3fba3bbfabbc411/)
@@ -21,7 +22,6 @@
 * [2023-12-19, 13:04:34](https://lobste.rs/s/io5rme/my_cat_water_fountain_comes_with_spicy_usb) - [My cat water fountain comes with a spicy USB power adapter](https://ounapuu.ee/posts/2023/12/19/spicy-usb-adapter/)
 * [2023-12-19, 11:39:13](https://lobste.rs/s/pn9v0r/quint_executable_specification) - [Quint: An executable specification language based on the temporal logic of actions (TLA)](https://github.com/informalsystems/quint)
 * [2023-12-19, 10:24:44](https://lobste.rs/s/j8uxfz/basic_gerrit_walkthrough_for_github) - [Basic Gerrit Walkthrough — For GitHub Users](https://gerrit-review.googlesource.com/Documentation/intro-gerrit-walkthrough-github.html)
-* [2023-12-19, 10:10:34](https://lobste.rs/s/3frc5m/interactive_code_cells) - [Interactive code cells](https://antonz.org/code-cells/)
 * [2023-12-19, 06:29:48](https://lobste.rs/s/wsfstx/c_should_be_c) - [C++ Should Be C++](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p3023r1.html)
 * [2023-12-19, 00:18:24](https://lobste.rs/s/dfdkrw/world_before_git) - [The World Before Git](https://osshistory.org/p/the-world-before-git)
 * [2023-12-18, 23:21:44](https://lobste.rs/s/fxcbbv/gleam_v0_33_exhaustive_gleam) - [Gleam v0.33 – Exhaustive Gleam](https://gleam.run/news/v0.33-exhaustive-gleam/)
