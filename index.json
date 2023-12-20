@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-20, 15:15:43",
+      "https://lobste.rs/s/gjaxgc/nvk_holiday_update_what_we_ve_achieved"
+    ],
+    [
+      "NVK holiday update: What we've achieved, and where we're headed",
+      "https://www.collabora.com/news-and-blog/news-and-events/nvk-holiday-update.html"
+    ]
+  ],
+  [
+    [
       "2023-12-20, 14:25:24",
       "https://lobste.rs/s/km4at7/telemetry_ruby_part_1_metrics_storage"
     ],
@@ -237,16 +247,6 @@
     [
       "The World Before Git",
       "https://osshistory.org/p/the-world-before-git"
-    ]
-  ],
-  [
-    [
-      "2023-12-18, 23:21:44",
-      "https://lobste.rs/s/fxcbbv/gleam_v0_33_exhaustive_gleam"
-    ],
-    [
-      "Gleam v0.33 – Exhaustive Gleam",
-      "https://gleam.run/news/v0.33-exhaustive-gleam/"
     ]
   ]
 ]
