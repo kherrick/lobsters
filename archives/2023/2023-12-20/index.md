@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-20](index.md)
 
+* [2023-12-20, 17:23:04](https://lobste.rs/s/iaes7t/novelkeys_kailh_lego_big_switch_build) - [Novelkeys Kailh Lego Big Switch build howto](https://dotat.at/@/2023-12-20-big-switch.html)
+* [2023-12-20, 17:17:50](https://lobste.rs/s/95ievc/tsids_strike_perfect_balance_between) - [TSIDs strike the perfect balance between integers and UUIDs for most databases](https://www.foxhound.systems/blog/time-sorted-unique-identifiers/)
 * [2023-12-20, 15:55:28](https://lobste.rs/s/bp2vbh/interface_dispatch_c_java_c_go_rust) - [Interface Dispatch in C++, Java, C#, Go, and Rust](https://lukasatkinson.de/2018/interface-dispatch/)
 * [2023-12-20, 15:53:27](https://lobste.rs/s/7shcga/building_simple_metaobject_protocol) - [Building a Simple Metaobject Protocol](https://lukasatkinson.de/2015/mopping-it-up/)
 * [2023-12-20, 15:15:43](https://lobste.rs/s/gjaxgc/nvk_holiday_update_what_we_ve_achieved) - [NVK holiday update: What we've achieved, and where we're headed](https://www.collabora.com/news-and-blog/news-and-events/nvk-holiday-update.html)
