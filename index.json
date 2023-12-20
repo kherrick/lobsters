@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-19, 23:00:40",
+      "https://lobste.rs/s/irmdxl/ruby_3_3_s_yjit_faster_while_using_less"
+    ],
+    [
+      "Ruby 3.3’s YJIT: Faster While Using Less Memory",
+      "https://railsatscale.com/2023-12-04-ruby-3-3-s-yjit-faster-while-using-less-memory/"
+    ]
+  ],
+  [
+    [
       "2023-12-19, 21:54:59",
       "https://lobste.rs/s/obctjl/advent_technical_writing_holistic"
     ],
@@ -227,16 +237,6 @@
     [
       "Introducing Fly Kubernetes",
       "https://fly.io/blog/fks/"
-    ]
-  ],
-  [
-    [
-      "2023-12-18, 16:02:52",
-      "https://lobste.rs/s/ls1eql/how_many_cpu_cores_can_you_actually_use"
-    ],
-    [
-      "How many CPU cores can you actually use in parallel?",
-      "https://pythonspeed.com/articles/cpu-thread-pool-size/"
     ]
   ],
   [
