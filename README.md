@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-20, 17:43:20](https://lobste.rs/s/lp3ypi/designing_dope_distributed_systems_for) - [\"Designing Dope Distributed Systems for Outer Space with High-Fidelity Simulation\" by Toby Bell](https://www.youtube.com/watch?v=prM-0i58XBM)
 * [2023-12-20, 17:23:04](https://lobste.rs/s/iaes7t/novelkeys_kailh_lego_big_switch_build) - [Novelkeys Kailh Lego Big Switch build howto](https://dotat.at/@/2023-12-20-big-switch.html)
 * [2023-12-20, 17:17:50](https://lobste.rs/s/95ievc/tsids_strike_perfect_balance_between) - [TSIDs strike the perfect balance between integers and UUIDs for most databases](https://www.foxhound.systems/blog/time-sorted-unique-identifiers/)
 * [2023-12-20, 15:55:28](https://lobste.rs/s/bp2vbh/interface_dispatch_c_java_c_go_rust) - [Interface Dispatch in C++, Java, C#, Go, and Rust](https://lukasatkinson.de/2018/interface-dispatch/)
@@ -24,7 +25,6 @@
 * [2023-12-19, 13:04:34](https://lobste.rs/s/io5rme/my_cat_water_fountain_comes_with_spicy_usb) - [My cat water fountain comes with a spicy USB power adapter](https://ounapuu.ee/posts/2023/12/19/spicy-usb-adapter/)
 * [2023-12-19, 11:39:13](https://lobste.rs/s/pn9v0r/quint_executable_specification) - [Quint: An executable specification language based on the temporal logic of actions (TLA)](https://github.com/informalsystems/quint)
 * [2023-12-19, 06:29:48](https://lobste.rs/s/wsfstx/c_should_be_c) - [C++ Should Be C++](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p3023r1.html)
-* [2023-12-19, 00:18:24](https://lobste.rs/s/dfdkrw/world_before_git) - [The World Before Git](https://osshistory.org/p/the-world-before-git)
 
 ## [Archives](archives/index.md)
 
