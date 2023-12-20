@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-12-20, 18:12:31",
+      "https://lobste.rs/s/1vjbqr/making_my_own_bed_sensor"
+    ],
+    [
+      "Making my own Bed Sensor",
+      "https://www.homeautomationguy.io/blog/making-my-own-bed-sensor"
+    ]
+  ],
+  [
+    [
+      "2023-12-20, 18:11:17",
+      "https://lobste.rs/s/g7pksj/advice_for_new_software_devs_who_ve_read"
+    ],
+    [
+      "Advice for new software devs who've read all those other advice essays",
+      "https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/"
+    ]
+  ],
+  [
+    [
+      "2023-12-20, 18:09:11",
+      "https://lobste.rs/s/y4zinw/3_lisp_infinite_tower_meta_circular"
+    ],
+    [
+      "3-lisp: an infinite tower of meta-circular interpreters (2022)",
+      "https://www.cofault.com/2022/08/3-lisp-infinite-tower-of-meta-circular.html"
+    ]
+  ],
+  [
+    [
       "2023-12-20, 17:43:20",
       "https://lobste.rs/s/lp3ypi/designing_dope_distributed_systems_for"
     ],
@@ -37,16 +67,6 @@
     [
       "Interface Dispatch in C++, Java, C#, Go, and Rust",
       "https://lukasatkinson.de/2018/interface-dispatch/"
-    ]
-  ],
-  [
-    [
-      "2023-12-20, 15:53:27",
-      "https://lobste.rs/s/7shcga/building_simple_metaobject_protocol"
-    ],
-    [
-      "Building a Simple Metaobject Protocol",
-      "https://lukasatkinson.de/2015/mopping-it-up/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-12-19, 16:20:04",
-      "https://lobste.rs/s/qif0ib/fedora_asahi_remix"
-    ],
-    [
-      "Fedora Asahi Remix",
-      "https://asahilinux.org/fedora/"
-    ]
-  ],
-  [
-    [
       "2023-12-19, 16:18:53",
       "https://lobste.rs/s/o9s9xw/bit_banging_3_5_floppy_drive"
     ],
@@ -237,16 +247,6 @@
     [
       "Quint: An executable specification language based on the temporal logic of actions (TLA)",
       "https://github.com/informalsystems/quint"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 06:29:48",
-      "https://lobste.rs/s/wsfstx/c_should_be_c"
-    ],
-    [
-      "C++ Should Be C++",
-      "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p3023r1.html"
     ]
   ]
 ]
