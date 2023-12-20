@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-20](index.md)
 
+* [2023-12-20, 14:25:24](https://lobste.rs/s/km4at7/telemetry_ruby_part_1_metrics_storage) - [Telemetry in Ruby Part 1: Metrics and Storage](https://blog.flippercloud.io/telemetry-in-ruby-part-1-metrics-and-storage/)
 * [2023-12-20, 14:01:40](https://lobste.rs/s/fbrjze/pipeinstall_list_projects_use_shell_pipe) - [pipeinstall: A list of projects that use a shell pipe and cURL or Wget to install themselves](https://kubikpixel.github.io/pipeinstall/)
 * [2023-12-20, 13:52:26](https://lobste.rs/s/tueddj/rails_when_changing_code_doesn_t_change) - [Rails: When Changing Code Doesn't Change Behavior](https://thoughtbot.com/blog/rails-when-changing-code-doesnt-change-behavior)
 * [2023-12-20, 10:18:32](https://lobste.rs/s/nheozb/simulating_fluids_fire_smoke_real_time) - [Simulating Fluids, Fire, and Smoke in Real-Time](https://andrewkchan.dev/posts/fire.html)
