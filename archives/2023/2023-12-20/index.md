@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-20](index.md)
 
+* [2023-12-20, 15:55:28](https://lobste.rs/s/bp2vbh/interface_dispatch_c_java_c_go_rust) - [Interface Dispatch in C++, Java, C#, Go, and Rust](https://lukasatkinson.de/2018/interface-dispatch/)
+* [2023-12-20, 15:53:27](https://lobste.rs/s/7shcga/building_simple_metaobject_protocol) - [Building a Simple Metaobject Protocol](https://lukasatkinson.de/2015/mopping-it-up/)
 * [2023-12-20, 15:15:43](https://lobste.rs/s/gjaxgc/nvk_holiday_update_what_we_ve_achieved) - [NVK holiday update: What we've achieved, and where we're headed](https://www.collabora.com/news-and-blog/news-and-events/nvk-holiday-update.html)
 * [2023-12-20, 14:25:24](https://lobste.rs/s/km4at7/telemetry_ruby_part_1_metrics_storage) - [Telemetry in Ruby Part 1: Metrics and Storage](https://blog.flippercloud.io/telemetry-in-ruby-part-1-metrics-and-storage/)
 * [2023-12-20, 14:01:40](https://lobste.rs/s/fbrjze/pipeinstall_list_projects_use_shell_pipe) - [pipeinstall: A list of projects that use a shell pipe and cURL or Wget to install themselves](https://kubikpixel.github.io/pipeinstall/)
