@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-20, 07:04:00](https://lobste.rs/s/6niztr/sudo_without_setuid_binary_ssh_over_unix) - [sudo without a setuid binary or SSH over a UNIX socket](https://tim.siosm.fr/blog/2023/12/19/ssh-over-unix-socket/)
 * [2023-12-20, 05:24:58](https://lobste.rs/s/0qc6vp/arcan_0_6_3_i_pty_fool) - [Arcan 0.6.3 – I, pty: the fool](https://arcan-fe.com/2023/12/19/arcan-0-6-3-i-pty-the-fool/)
 * [2023-12-20, 05:06:48](https://lobste.rs/s/qrh57f/reverse_engineering_game_code_from) - [Reverse Engineering Game Code from the Neutral Zone](https://youtu.be/5HSjJU562e8)
-* [2023-12-20, 04:57:16](https://lobste.rs/s/jmozoq/medusa_simple_framework_for) - [Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads](https://github.com/FasterDecoding/Medusa)
 * [2023-12-19, 23:00:40](https://lobste.rs/s/irmdxl/ruby_3_3_s_yjit_faster_while_using_less) - [Ruby 3.3’s YJIT: Faster While Using Less Memory](https://railsatscale.com/2023-12-04-ruby-3-3-s-yjit-faster-while-using-less-memory/)
 * [2023-12-19, 21:54:59](https://lobste.rs/s/obctjl/advent_technical_writing_holistic) - [Advent of Technical Writing: Holistic Documentation Reviews](https://jamesg.blog/2023/12/19/documentation-reviews/)
 * [2023-12-19, 20:39:12](https://lobste.rs/s/etrokx/how_make_web_analytics_valuable_for_rails) - [How to make web analytics valuable for Rails apps](https://blog.flippercloud.io/how-to-make-web-analytics-valuable-for-rails-apps/)
