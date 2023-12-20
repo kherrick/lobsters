@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2023-12-20, 14:25:24](https://lobste.rs/s/km4at7/telemetry_ruby_part_1_metrics_storage) - [Telemetry in Ruby Part 1: Metrics and Storage](https://blog.flippercloud.io/telemetry-in-ruby-part-1-metrics-and-storage/)
+* [2023-12-20, 14:01:40](https://lobste.rs/s/fbrjze/pipeinstall_list_projects_use_shell_pipe) - [pipeinstall: A list of projects that use a shell pipe and cURL or Wget to install themselves](https://kubikpixel.github.io/pipeinstall/)
 * [2023-12-20, 13:52:26](https://lobste.rs/s/tueddj/rails_when_changing_code_doesn_t_change) - [Rails: When Changing Code Doesn't Change Behavior](https://thoughtbot.com/blog/rails-when-changing-code-doesnt-change-behavior)
 * [2023-12-20, 10:18:32](https://lobste.rs/s/nheozb/simulating_fluids_fire_smoke_real_time) - [Simulating Fluids, Fire, and Smoke in Real-Time](https://andrewkchan.dev/posts/fire.html)
 * [2023-12-20, 09:51:08](https://lobste.rs/s/icxuhq/linux_graphics_stack_nutshell_part_1_lwn) - [The Linux graphics stack in a nutshell, part 1 [LWN.net]](https://lwn.net/SubscriberLink/955376/b3fba3bbfabbc411/)
@@ -10,7 +11,6 @@
 * [2023-12-20, 05:24:58](https://lobste.rs/s/0qc6vp/arcan_0_6_3_i_pty_fool) - [Arcan 0.6.3 – I, pty: the fool](https://arcan-fe.com/2023/12/19/arcan-0-6-3-i-pty-the-fool/)
 * [2023-12-19, 23:00:40](https://lobste.rs/s/irmdxl/ruby_3_3_s_yjit_faster_while_using_less) - [Ruby 3.3’s YJIT: Faster While Using Less Memory](https://railsatscale.com/2023-12-04-ruby-3-3-s-yjit-faster-while-using-less-memory/)
 * [2023-12-19, 20:39:08](https://lobste.rs/s/dh71ns/making_ssh_host_certificates_more_usable) - [Making SSH host certificates more usable](https://mjg59.dreamwidth.org/68721.html)
-* [2023-12-19, 20:10:49](https://lobste.rs/s/bcbe19/introducing_solid_queue) - [Introducing Solid Queue](https://dev.37signals.com/introducing-solid-queue/)
 * [2023-12-19, 18:46:05](https://lobste.rs/s/smu7s0/yaksha_release_v0_0_5_macos_support_c_style) - [Yaksha release v0.0.5 - MacOS support, c style for loop, string references, inlinec, make](https://github.com/YakshaLang/Yaksha/releases/tag/v0.0.5)
 * [2023-12-19, 18:09:34](https://lobste.rs/s/2hgtqp/technical_debt_is_not_real) - [Technical Debt is not real](https://www.foxhound.systems/blog/technical-debt-is-not-real/)
 * [2023-12-19, 16:20:04](https://lobste.rs/s/qif0ib/fedora_asahi_remix) - [Fedora Asahi Remix](https://asahilinux.org/fedora/)
