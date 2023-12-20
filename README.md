@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-20, 19:07:15](https://lobste.rs/s/zqgbj9/continuous_memory_profiling_for_rust) - [Continuous Memory Profiling for Rust](https://www.polarsignals.com/blog/posts/2023/12/20/rust-memory-profiling)
 * [2023-12-20, 18:29:46](https://lobste.rs/s/8ycome/transparent_chip_inside_vintage_hewlett) - [The transparent chip inside a vintage Hewlett-Packard floppy drive](http://www.righto.com/2023/12/HP-silicon-on-sapphire-phi-chip.html)
 * [2023-12-20, 18:12:31](https://lobste.rs/s/1vjbqr/making_my_own_bed_sensor) - [Making my own Bed Sensor](https://www.homeautomationguy.io/blog/making-my-own-bed-sensor)
 * [2023-12-20, 18:11:17](https://lobste.rs/s/g7pksj/advice_for_new_software_devs_who_ve_read) - [Advice for new software devs who've read all those other advice essays](https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
 * [2023-12-20, 18:09:11](https://lobste.rs/s/y4zinw/3_lisp_infinite_tower_meta_circular) - [3-lisp: an infinite tower of meta-circular interpreters (2022)](https://www.cofault.com/2022/08/3-lisp-infinite-tower-of-meta-circular.html)
-* [2023-12-20, 17:43:20](https://lobste.rs/s/lp3ypi/designing_dope_distributed_systems_for) - [\"Designing Dope Distributed Systems for Outer Space with High-Fidelity Simulation\" by Toby Bell](https://www.youtube.com/watch?v=prM-0i58XBM)
 * [2023-12-20, 17:17:50](https://lobste.rs/s/95ievc/tsids_strike_perfect_balance_between) - [TSIDs strike the perfect balance between integers and UUIDs for most databases](https://www.foxhound.systems/blog/time-sorted-unique-identifiers/)
 * [2023-12-20, 15:55:28](https://lobste.rs/s/bp2vbh/interface_dispatch_c_java_c_go_rust) - [Interface Dispatch in C++, Java, C#, Go, and Rust](https://lukasatkinson.de/2018/interface-dispatch/)
 * [2023-12-20, 15:15:43](https://lobste.rs/s/gjaxgc/nvk_holiday_update_what_we_ve_achieved) - [NVK holiday update: What we've achieved, and where we're headed](https://www.collabora.com/news-and-blog/news-and-events/nvk-holiday-update.html)
