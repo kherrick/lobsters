@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-20, 13:52:26",
+      "https://lobste.rs/s/tueddj/rails_when_changing_code_doesn_t_change"
+    ],
+    [
+      "Rails: When Changing Code Doesn't Change Behavior",
+      "https://thoughtbot.com/blog/rails-when-changing-code-doesnt-change-behavior"
+    ]
+  ],
+  [
+    [
       "2023-12-20, 10:18:32",
       "https://lobste.rs/s/nheozb/simulating_fluids_fire_smoke_real_time"
     ],
@@ -237,16 +247,6 @@
     [
       "Gleam v0.33 – Exhaustive Gleam",
       "https://gleam.run/news/v0.33-exhaustive-gleam/"
-    ]
-  ],
-  [
-    [
-      "2023-12-18, 22:58:46",
-      "https://lobste.rs/s/hpr3ux/colliding_secure_hashes"
-    ],
-    [
-      "Colliding Secure Hashes",
-      "https://www.da.vidbuchanan.co.uk/blog/colliding-secure-hashes.html"
     ]
   ]
 ]
