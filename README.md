@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-19, 23:00:40](https://lobste.rs/s/irmdxl/ruby_3_3_s_yjit_faster_while_using_less) - [Ruby 3.3’s YJIT: Faster While Using Less Memory](https://railsatscale.com/2023-12-04-ruby-3-3-s-yjit-faster-while-using-less-memory/)
 * [2023-12-19, 21:54:59](https://lobste.rs/s/obctjl/advent_technical_writing_holistic) - [Advent of Technical Writing: Holistic Documentation Reviews](https://jamesg.blog/2023/12/19/documentation-reviews/)
 * [2023-12-19, 20:39:12](https://lobste.rs/s/etrokx/how_make_web_analytics_valuable_for_rails) - [How to make web analytics valuable for Rails apps](https://blog.flippercloud.io/how-to-make-web-analytics-valuable-for-rails-apps/)
 * [2023-12-19, 20:39:08](https://lobste.rs/s/dh71ns/making_ssh_host_certificates_more_usable) - [Making SSH host certificates more usable](https://mjg59.dreamwidth.org/68721.html)
@@ -23,7 +24,6 @@
 * [2023-12-18, 23:21:44](https://lobste.rs/s/fxcbbv/gleam_v0_33_exhaustive_gleam) - [Gleam v0.33 – Exhaustive Gleam](https://gleam.run/news/v0.33-exhaustive-gleam/)
 * [2023-12-18, 22:58:46](https://lobste.rs/s/hpr3ux/colliding_secure_hashes) - [Colliding Secure Hashes](https://www.da.vidbuchanan.co.uk/blog/colliding-secure-hashes.html)
 * [2023-12-18, 22:37:39](https://lobste.rs/s/95poni/introducing_fly_kubernetes) - [Introducing Fly Kubernetes](https://fly.io/blog/fks/)
-* [2023-12-18, 16:02:52](https://lobste.rs/s/ls1eql/how_many_cpu_cores_can_you_actually_use) - [How many CPU cores can you actually use in parallel?](https://pythonspeed.com/articles/cpu-thread-pool-size/)
 * [2023-12-18, 15:33:14](https://lobste.rs/s/ghttjv/using_zig_unit_test_c_application) - [Using Zig to Unit Test a C Application](https://mtlynch.io/notes/zig-unit-test-c/)
 
 ## [Archives](archives/index.md)

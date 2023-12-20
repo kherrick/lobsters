@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-19](index.md)
 
+* [2023-12-19, 23:00:40](https://lobste.rs/s/irmdxl/ruby_3_3_s_yjit_faster_while_using_less) - [Ruby 3.3’s YJIT: Faster While Using Less Memory](https://railsatscale.com/2023-12-04-ruby-3-3-s-yjit-faster-while-using-less-memory/)
 * [2023-12-19, 21:54:59](https://lobste.rs/s/obctjl/advent_technical_writing_holistic) - [Advent of Technical Writing: Holistic Documentation Reviews](https://jamesg.blog/2023/12/19/documentation-reviews/)
 * [2023-12-19, 20:39:12](https://lobste.rs/s/etrokx/how_make_web_analytics_valuable_for_rails) - [How to make web analytics valuable for Rails apps](https://blog.flippercloud.io/how-to-make-web-analytics-valuable-for-rails-apps/)
 * [2023-12-19, 20:39:08](https://lobste.rs/s/dh71ns/making_ssh_host_certificates_more_usable) - [Making SSH host certificates more usable](https://mjg59.dreamwidth.org/68721.html)
