@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-20, 04:57:16](https://lobste.rs/s/jmozoq/medusa_simple_framework_for) - [Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads](https://github.com/FasterDecoding/Medusa)
 * [2023-12-20, 03:11:25](https://lobste.rs/s/wzpiwb/garbage_collection_with_zero_cost_at_non) - [Garbage collection with zero-cost at non-GC time](https://gist.github.com/AndrasKovacs/fc9e20b0976b7e236b5899fde8f5c95d)
 * [2023-12-19, 23:00:40](https://lobste.rs/s/irmdxl/ruby_3_3_s_yjit_faster_while_using_less) - [Ruby 3.3’s YJIT: Faster While Using Less Memory](https://railsatscale.com/2023-12-04-ruby-3-3-s-yjit-faster-while-using-less-memory/)
 * [2023-12-19, 21:54:59](https://lobste.rs/s/obctjl/advent_technical_writing_holistic) - [Advent of Technical Writing: Holistic Documentation Reviews](https://jamesg.blog/2023/12/19/documentation-reviews/)
@@ -24,7 +25,6 @@
 * [2023-12-19, 00:18:24](https://lobste.rs/s/dfdkrw/world_before_git) - [The World Before Git](https://osshistory.org/p/the-world-before-git)
 * [2023-12-18, 23:21:44](https://lobste.rs/s/fxcbbv/gleam_v0_33_exhaustive_gleam) - [Gleam v0.33 – Exhaustive Gleam](https://gleam.run/news/v0.33-exhaustive-gleam/)
 * [2023-12-18, 22:58:46](https://lobste.rs/s/hpr3ux/colliding_secure_hashes) - [Colliding Secure Hashes](https://www.da.vidbuchanan.co.uk/blog/colliding-secure-hashes.html)
-* [2023-12-18, 15:33:14](https://lobste.rs/s/ghttjv/using_zig_unit_test_c_application) - [Using Zig to Unit Test a C Application](https://mtlynch.io/notes/zig-unit-test-c/)
 
 ## [Archives](archives/index.md)
 
