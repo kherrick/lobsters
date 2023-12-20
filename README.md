@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-20, 13:52:26](https://lobste.rs/s/tueddj/rails_when_changing_code_doesn_t_change) - [Rails: When Changing Code Doesn't Change Behavior](https://thoughtbot.com/blog/rails-when-changing-code-doesnt-change-behavior)
 * [2023-12-20, 10:18:32](https://lobste.rs/s/nheozb/simulating_fluids_fire_smoke_real_time) - [Simulating Fluids, Fire, and Smoke in Real-Time](https://andrewkchan.dev/posts/fire.html)
 * [2023-12-20, 09:51:08](https://lobste.rs/s/icxuhq/linux_graphics_stack_nutshell_part_1_lwn) - [The Linux graphics stack in a nutshell, part 1 [LWN.net]](https://lwn.net/SubscriberLink/955376/b3fba3bbfabbc411/)
 * [2023-12-20, 08:38:43](https://lobste.rs/s/atzkh9/therm_iterm2_fork_with_focus_on) - [Therm: An iTerm2 fork with focus on minimalism and better defaults](https://github.com/trufae/Therm)
@@ -24,7 +25,6 @@
 * [2023-12-19, 06:29:48](https://lobste.rs/s/wsfstx/c_should_be_c) - [C++ Should Be C++](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p3023r1.html)
 * [2023-12-19, 00:18:24](https://lobste.rs/s/dfdkrw/world_before_git) - [The World Before Git](https://osshistory.org/p/the-world-before-git)
 * [2023-12-18, 23:21:44](https://lobste.rs/s/fxcbbv/gleam_v0_33_exhaustive_gleam) - [Gleam v0.33 – Exhaustive Gleam](https://gleam.run/news/v0.33-exhaustive-gleam/)
-* [2023-12-18, 22:58:46](https://lobste.rs/s/hpr3ux/colliding_secure_hashes) - [Colliding Secure Hashes](https://www.da.vidbuchanan.co.uk/blog/colliding-secure-hashes.html)
 
 ## [Archives](archives/index.md)
 
