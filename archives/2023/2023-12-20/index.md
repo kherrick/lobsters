@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-20](index.md)
 
+* [2023-12-20, 09:51:08](https://lobste.rs/s/icxuhq/linux_graphics_stack_nutshell_part_1_lwn) - [The Linux graphics stack in a nutshell, part 1 [LWN.net]](https://lwn.net/SubscriberLink/955376/b3fba3bbfabbc411/)
 * [2023-12-20, 08:38:43](https://lobste.rs/s/atzkh9/therm_iterm2_fork_with_focus_on) - [Therm: An iTerm2 fork with focus on minimalism and better defaults](https://github.com/trufae/Therm)
 * [2023-12-20, 07:55:44](https://lobste.rs/s/3qckyy/focus_is_key_creating_product_value) - [Focus Is Key to Creating Product Value](https://dabure.com/blog/focus-is-key-to-creating-product-value)
 * [2023-12-20, 07:04:00](https://lobste.rs/s/6niztr/sudo_without_setuid_binary_ssh_over_unix) - [sudo without a setuid binary or SSH over a UNIX socket](https://tim.siosm.fr/blog/2023/12/19/ssh-over-unix-socket/)
