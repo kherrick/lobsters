@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-20](index.md)
 
+* [2023-12-20, 18:12:31](https://lobste.rs/s/1vjbqr/making_my_own_bed_sensor) - [Making my own Bed Sensor](https://www.homeautomationguy.io/blog/making-my-own-bed-sensor)
+* [2023-12-20, 18:11:17](https://lobste.rs/s/g7pksj/advice_for_new_software_devs_who_ve_read) - [Advice for new software devs who've read all those other advice essays](https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
+* [2023-12-20, 18:09:11](https://lobste.rs/s/y4zinw/3_lisp_infinite_tower_meta_circular) - [3-lisp: an infinite tower of meta-circular interpreters (2022)](https://www.cofault.com/2022/08/3-lisp-infinite-tower-of-meta-circular.html)
 * [2023-12-20, 17:43:20](https://lobste.rs/s/lp3ypi/designing_dope_distributed_systems_for) - [\"Designing Dope Distributed Systems for Outer Space with High-Fidelity Simulation\" by Toby Bell](https://www.youtube.com/watch?v=prM-0i58XBM)
 * [2023-12-20, 17:23:04](https://lobste.rs/s/iaes7t/novelkeys_kailh_lego_big_switch_build) - [Novelkeys Kailh Lego Big Switch build howto](https://dotat.at/@/2023-12-20-big-switch.html)
 * [2023-12-20, 17:17:50](https://lobste.rs/s/95ievc/tsids_strike_perfect_balance_between) - [TSIDs strike the perfect balance between integers and UUIDs for most databases](https://www.foxhound.systems/blog/time-sorted-unique-identifiers/)

@@ -1,10 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-20, 18:12:31](https://lobste.rs/s/1vjbqr/making_my_own_bed_sensor) - [Making my own Bed Sensor](https://www.homeautomationguy.io/blog/making-my-own-bed-sensor)
+* [2023-12-20, 18:11:17](https://lobste.rs/s/g7pksj/advice_for_new_software_devs_who_ve_read) - [Advice for new software devs who've read all those other advice essays](https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
+* [2023-12-20, 18:09:11](https://lobste.rs/s/y4zinw/3_lisp_infinite_tower_meta_circular) - [3-lisp: an infinite tower of meta-circular interpreters (2022)](https://www.cofault.com/2022/08/3-lisp-infinite-tower-of-meta-circular.html)
 * [2023-12-20, 17:43:20](https://lobste.rs/s/lp3ypi/designing_dope_distributed_systems_for) - [\"Designing Dope Distributed Systems for Outer Space with High-Fidelity Simulation\" by Toby Bell](https://www.youtube.com/watch?v=prM-0i58XBM)
 * [2023-12-20, 17:23:04](https://lobste.rs/s/iaes7t/novelkeys_kailh_lego_big_switch_build) - [Novelkeys Kailh Lego Big Switch build howto](https://dotat.at/@/2023-12-20-big-switch.html)
 * [2023-12-20, 17:17:50](https://lobste.rs/s/95ievc/tsids_strike_perfect_balance_between) - [TSIDs strike the perfect balance between integers and UUIDs for most databases](https://www.foxhound.systems/blog/time-sorted-unique-identifiers/)
 * [2023-12-20, 15:55:28](https://lobste.rs/s/bp2vbh/interface_dispatch_c_java_c_go_rust) - [Interface Dispatch in C++, Java, C#, Go, and Rust](https://lukasatkinson.de/2018/interface-dispatch/)
-* [2023-12-20, 15:53:27](https://lobste.rs/s/7shcga/building_simple_metaobject_protocol) - [Building a Simple Metaobject Protocol](https://lukasatkinson.de/2015/mopping-it-up/)
 * [2023-12-20, 15:15:43](https://lobste.rs/s/gjaxgc/nvk_holiday_update_what_we_ve_achieved) - [NVK holiday update: What we've achieved, and where we're headed](https://www.collabora.com/news-and-blog/news-and-events/nvk-holiday-update.html)
 * [2023-12-20, 14:25:24](https://lobste.rs/s/km4at7/telemetry_ruby_part_1_metrics_storage) - [Telemetry in Ruby Part 1: Metrics and Storage](https://blog.flippercloud.io/telemetry-in-ruby-part-1-metrics-and-storage/)
 * [2023-12-20, 14:01:40](https://lobste.rs/s/fbrjze/pipeinstall_list_projects_use_shell_pipe) - [pipeinstall: A list of projects that use a shell pipe and cURL or Wget to install themselves](https://kubikpixel.github.io/pipeinstall/)
@@ -16,7 +18,6 @@
 * [2023-12-20, 07:04:00](https://lobste.rs/s/6niztr/sudo_without_setuid_binary_ssh_over_unix) - [sudo without a setuid binary or SSH over a UNIX socket](https://tim.siosm.fr/blog/2023/12/19/ssh-over-unix-socket/)
 * [2023-12-20, 05:24:58](https://lobste.rs/s/0qc6vp/arcan_0_6_3_i_pty_fool) - [Arcan 0.6.3 – I, pty: the fool](https://arcan-fe.com/2023/12/19/arcan-0-6-3-i-pty-the-fool/)
 * [2023-12-19, 23:00:40](https://lobste.rs/s/irmdxl/ruby_3_3_s_yjit_faster_while_using_less) - [Ruby 3.3’s YJIT: Faster While Using Less Memory](https://railsatscale.com/2023-12-04-ruby-3-3-s-yjit-faster-while-using-less-memory/)
-* [2023-12-19, 16:20:04](https://lobste.rs/s/qif0ib/fedora_asahi_remix) - [Fedora Asahi Remix](https://asahilinux.org/fedora/)
 * [2023-12-19, 16:18:53](https://lobste.rs/s/o9s9xw/bit_banging_3_5_floppy_drive) - [Bit Banging a 3.5\" Floppy Drive](https://floppy.cafe/)
 * [2023-12-19, 15:55:28](https://lobste.rs/s/o0ss7c/suggestions_for_lightweight_http_server) - [Suggestions for a lightweight HTTP server with CGI support?](https://lobste.rs/s/o0ss7c/suggestions_for_lightweight_http_server)
 * [2023-12-19, 15:10:52](https://lobste.rs/s/qa6759/better_mastodon_client) - [A Better Mastodon Client](https://timkellogg.me/blog/2023/12/19/fossil)
@@ -24,7 +25,6 @@
 * [2023-12-19, 14:02:58](https://lobste.rs/s/ra7vtk/day_i_started_believing_unit_tests) - [The day I started believing in Unit Tests](https://mental-reverb.com/blog.php?id=42)
 * [2023-12-19, 13:04:34](https://lobste.rs/s/io5rme/my_cat_water_fountain_comes_with_spicy_usb) - [My cat water fountain comes with a spicy USB power adapter](https://ounapuu.ee/posts/2023/12/19/spicy-usb-adapter/)
 * [2023-12-19, 11:39:13](https://lobste.rs/s/pn9v0r/quint_executable_specification) - [Quint: An executable specification language based on the temporal logic of actions (TLA)](https://github.com/informalsystems/quint)
-* [2023-12-19, 06:29:48](https://lobste.rs/s/wsfstx/c_should_be_c) - [C++ Should Be C++](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p3023r1.html)
 
 ## [Archives](archives/index.md)
 
