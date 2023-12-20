@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-20, 20:16:57",
+      "https://lobste.rs/s/ea0qpo/steampipe_sqlite_virtual_tables"
+    ],
+    [
+      "Steampipe SQLite, Virtual tables translated for common APIs",
+      "https://github.com/turbot/steampipe-sqlite"
+    ]
+  ],
+  [
+    [
       "2023-12-20, 19:07:15",
       "https://lobste.rs/s/zqgbj9/continuous_memory_profiling_for_rust"
     ],
@@ -37,16 +47,6 @@
     [
       "Advice for new software devs who've read all those other advice essays",
       "https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/"
-    ]
-  ],
-  [
-    [
-      "2023-12-20, 18:09:11",
-      "https://lobste.rs/s/y4zinw/3_lisp_infinite_tower_meta_circular"
-    ],
-    [
-      "3-lisp: an infinite tower of meta-circular interpreters (2022)",
-      "https://www.cofault.com/2022/08/3-lisp-infinite-tower-of-meta-circular.html"
     ]
   ],
   [
