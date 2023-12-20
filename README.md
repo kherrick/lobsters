@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-20, 08:38:43](https://lobste.rs/s/atzkh9/therm_iterm2_fork_with_focus_on) - [Therm: An iTerm2 fork with focus on minimalism and better defaults](https://github.com/trufae/Therm)
 * [2023-12-20, 07:55:44](https://lobste.rs/s/3qckyy/focus_is_key_creating_product_value) - [Focus Is Key to Creating Product Value](https://dabure.com/blog/focus-is-key-to-creating-product-value)
 * [2023-12-20, 07:04:00](https://lobste.rs/s/6niztr/sudo_without_setuid_binary_ssh_over_unix) - [sudo without a setuid binary or SSH over a UNIX socket](https://tim.siosm.fr/blog/2023/12/19/ssh-over-unix-socket/)
 * [2023-12-20, 05:24:58](https://lobste.rs/s/0qc6vp/arcan_0_6_3_i_pty_fool) - [Arcan 0.6.3 – I, pty: the fool](https://arcan-fe.com/2023/12/19/arcan-0-6-3-i-pty-the-fool/)
@@ -10,7 +11,6 @@
 * [2023-12-19, 20:10:49](https://lobste.rs/s/bcbe19/introducing_solid_queue) - [Introducing Solid Queue](https://dev.37signals.com/introducing-solid-queue/)
 * [2023-12-19, 18:46:05](https://lobste.rs/s/smu7s0/yaksha_release_v0_0_5_macos_support_c_style) - [Yaksha release v0.0.5 - MacOS support, c style for loop, string references, inlinec, make](https://github.com/YakshaLang/Yaksha/releases/tag/v0.0.5)
 * [2023-12-19, 18:09:34](https://lobste.rs/s/2hgtqp/technical_debt_is_not_real) - [Technical Debt is not real](https://www.foxhound.systems/blog/technical-debt-is-not-real/)
-* [2023-12-19, 17:31:39](https://lobste.rs/s/pkdfbp/mtcp_netdrive_for_dos) - [mTCP NetDrive for DOS](https://docs.google.com/document/d/18vtrVANm0JNLO9pmLqDJaMGWnQUobON9qM243b-bmdw/edit)
 * [2023-12-19, 16:20:04](https://lobste.rs/s/qif0ib/fedora_asahi_remix) - [Fedora Asahi Remix](https://asahilinux.org/fedora/)
 * [2023-12-19, 16:18:53](https://lobste.rs/s/o9s9xw/bit_banging_3_5_floppy_drive) - [Bit Banging a 3.5\" Floppy Drive](https://floppy.cafe/)
 * [2023-12-19, 15:55:28](https://lobste.rs/s/o0ss7c/suggestions_for_lightweight_http_server) - [Suggestions for a lightweight HTTP server with CGI support?](https://lobste.rs/s/o0ss7c/suggestions_for_lightweight_http_server)
