@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-21, 09:13:23](https://lobste.rs/s/yyuv4a/why_grub_install_can_give_you_unknown) - [Why grub-install can give you an \"unknown filesystem\" error](https://utcc.utoronto.ca/~cks/space/blog/linux/GrubUnknownFilesystemWhy)
 * [2023-12-21, 07:20:33](https://lobste.rs/s/3227xj/praise_criticism_dialogue) - [Praise, Criticism, and Dialogue](http://rhaas.blogspot.com/2023/12/praise-criticism-and-dialogue.html)
 * [2023-12-21, 07:03:22](https://lobste.rs/s/fi8a0i/freebsd_desktop_corner_actions) - [FreeBSD Desktop - Corner Actions](https://vermaden.wordpress.com/2023/12/21/freebsd-desktop-part-28-configuration-corner-actions/#respond)
 * [2023-12-20, 20:16:57](https://lobste.rs/s/ea0qpo/steampipe_sqlite_virtual_tables) - [Steampipe SQLite, Virtual tables translated for common APIs](https://github.com/turbot/steampipe-sqlite)
 * [2023-12-20, 19:07:15](https://lobste.rs/s/zqgbj9/continuous_memory_profiling_for_rust) - [Continuous Memory Profiling for Rust](https://www.polarsignals.com/blog/posts/2023/12/20/rust-memory-profiling)
-* [2023-12-20, 18:29:46](https://lobste.rs/s/8ycome/transparent_chip_inside_vintage_hewlett) - [The transparent chip inside a vintage Hewlett-Packard floppy drive](http://www.righto.com/2023/12/HP-silicon-on-sapphire-phi-chip.html)
 * [2023-12-20, 18:12:31](https://lobste.rs/s/1vjbqr/making_my_own_bed_sensor) - [Making my own Bed Sensor](https://www.homeautomationguy.io/blog/making-my-own-bed-sensor)
 * [2023-12-20, 18:11:17](https://lobste.rs/s/g7pksj/advice_for_new_software_devs_who_ve_read) - [Advice for new software devs who've read all those other advice essays](https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
 * [2023-12-20, 18:09:11](https://lobste.rs/s/y4zinw/3_lisp_infinite_tower_meta_circular) - [3-lisp: an infinite tower of meta-circular interpreters (2022)](https://www.cofault.com/2022/08/3-lisp-infinite-tower-of-meta-circular.html)
