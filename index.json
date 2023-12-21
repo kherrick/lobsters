@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-21, 21:05:58",
+      "https://lobste.rs/s/og0rge/http_headers_note_for_synergizing_into"
+    ],
+    [
+      "HTTP Headers of Note for Synergizing into a Cohesive Security Stratagem",
+      "https://posts.summerti.me/http-headers-of-note-for-synergizing-into-a-cohesive-security-stratagem/"
+    ]
+  ],
+  [
+    [
+      "2023-12-21, 21:05:02",
+      "https://lobste.rs/s/wphydl/occupancy_explained"
+    ],
+    [
+      "Occupancy explained",
+      "https://gpuopen.com/learn/occupancy-explained/"
+    ]
+  ],
+  [
+    [
       "2023-12-21, 20:52:47",
       "https://lobste.rs/s/8vsebl/effortless_certificate_lifecycle"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-12-20, 19:07:15",
-      "https://lobste.rs/s/zqgbj9/continuous_memory_profiling_for_rust"
-    ],
-    [
-      "Continuous Memory Profiling for Rust",
-      "https://www.polarsignals.com/blog/posts/2023/12/20/rust-memory-profiling"
-    ]
-  ],
-  [
-    [
       "2023-12-20, 18:11:17",
       "https://lobste.rs/s/g7pksj/advice_for_new_software_devs_who_ve_read"
     ],
@@ -217,16 +227,6 @@
     [
       "TSIDs strike the perfect balance between integers and UUIDs for most databases",
       "https://www.foxhound.systems/blog/time-sorted-unique-identifiers/"
-    ]
-  ],
-  [
-    [
-      "2023-12-20, 13:52:26",
-      "https://lobste.rs/s/tueddj/rails_when_changing_code_doesn_t_change"
-    ],
-    [
-      "Rails: When Changing Code Doesn't Change Behavior",
-      "https://thoughtbot.com/blog/rails-when-changing-code-doesnt-change-behavior"
     ]
   ],
   [
