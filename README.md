@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-21, 14:30:26](https://lobste.rs/s/0gzemf/taking_language_server_protocol_one_step) - [Taking the Language Server Protocol one step further](https://garnix.io/blog/taking-lsp-one-step-further)
 * [2023-12-21, 14:19:03](https://lobste.rs/s/jr02g0/vulkan_video_decode_first_frames) - [Vulkan Video Decode: First Frames](https://poniesandlight.co.uk/reflect/island_video_decoder/)
 * [2023-12-21, 13:13:08](https://lobste.rs/s/qijf8p/my_reference_was_dropped_why_is_compiler) - [My reference was dropped, why is the compiler complaining about multiple borrows?](https://ntietz.com/blog/my-reference-was-dropped-why-is-the-compiler-complaining-about-multiple-borrows/)
 * [2023-12-21, 12:15:53](https://lobste.rs/s/ljhs4l/postmarketos_v23_12_release) - [postmarketOS v23.12 release](https://postmarketos.org/blog/2023/12/18/v23.12-release/)
@@ -24,7 +25,6 @@
 * [2023-12-20, 07:04:00](https://lobste.rs/s/6niztr/sudo_without_setuid_binary_ssh_over_unix) - [sudo without a setuid binary or SSH over a UNIX socket](https://tim.siosm.fr/blog/2023/12/19/ssh-over-unix-socket/)
 * [2023-12-20, 05:24:58](https://lobste.rs/s/0qc6vp/arcan_0_6_3_i_pty_fool) - [Arcan 0.6.3 – I, pty: the fool](https://arcan-fe.com/2023/12/19/arcan-0-6-3-i-pty-the-fool/)
 * [2023-12-19, 14:18:51](https://lobste.rs/s/ow3jpq/jepsen_mysql_8_0_34) - [Jepsen: MySQL 8.0.34](https://jepsen.io/analyses/mysql-8.0.34)
-* [2023-12-19, 14:02:58](https://lobste.rs/s/ra7vtk/day_i_started_believing_unit_tests) - [The day I started believing in Unit Tests](https://mental-reverb.com/blog.php?id=42)
 
 ## [Archives](archives/index.md)
 
