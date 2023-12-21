@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-21, 07:03:22](https://lobste.rs/s/fi8a0i/freebsd_desktop_corner_actions) - [FreeBSD Desktop - Corner Actions](https://vermaden.wordpress.com/2023/12/21/freebsd-desktop-part-28-configuration-corner-actions/#respond)
 * [2023-12-20, 20:16:57](https://lobste.rs/s/ea0qpo/steampipe_sqlite_virtual_tables) - [Steampipe SQLite, Virtual tables translated for common APIs](https://github.com/turbot/steampipe-sqlite)
 * [2023-12-20, 19:07:15](https://lobste.rs/s/zqgbj9/continuous_memory_profiling_for_rust) - [Continuous Memory Profiling for Rust](https://www.polarsignals.com/blog/posts/2023/12/20/rust-memory-profiling)
 * [2023-12-20, 18:29:46](https://lobste.rs/s/8ycome/transparent_chip_inside_vintage_hewlett) - [The transparent chip inside a vintage Hewlett-Packard floppy drive](http://www.righto.com/2023/12/HP-silicon-on-sapphire-phi-chip.html)
@@ -24,7 +25,6 @@
 * [2023-12-19, 14:18:51](https://lobste.rs/s/ow3jpq/jepsen_mysql_8_0_34) - [Jepsen: MySQL 8.0.34](https://jepsen.io/analyses/mysql-8.0.34)
 * [2023-12-19, 14:02:58](https://lobste.rs/s/ra7vtk/day_i_started_believing_unit_tests) - [The day I started believing in Unit Tests](https://mental-reverb.com/blog.php?id=42)
 * [2023-12-19, 13:04:34](https://lobste.rs/s/io5rme/my_cat_water_fountain_comes_with_spicy_usb) - [My cat water fountain comes with a spicy USB power adapter](https://ounapuu.ee/posts/2023/12/19/spicy-usb-adapter/)
-* [2023-12-19, 11:39:13](https://lobste.rs/s/pn9v0r/quint_executable_specification) - [Quint: An executable specification language based on the temporal logic of actions (TLA)](https://github.com/informalsystems/quint)
 
 ## [Archives](archives/index.md)
 
