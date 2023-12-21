@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-21, 13:13:08",
+      "https://lobste.rs/s/qijf8p/my_reference_was_dropped_why_is_compiler"
+    ],
+    [
+      "My reference was dropped, why is the compiler complaining about multiple borrows?",
+      "https://ntietz.com/blog/my-reference-was-dropped-why-is-the-compiler-complaining-about-multiple-borrows/"
+    ]
+  ],
+  [
+    [
       "2023-12-21, 12:15:53",
       "https://lobste.rs/s/ljhs4l/postmarketos_v23_12_release"
     ],
@@ -187,16 +197,6 @@
     [
       "The Linux graphics stack in a nutshell, part 1",
       "https://lwn.net/SubscriberLink/955376/b3fba3bbfabbc411/"
-    ]
-  ],
-  [
-    [
-      "2023-12-20, 08:38:43",
-      "https://lobste.rs/s/atzkh9/therm_iterm2_fork_with_focus_on"
-    ],
-    [
-      "Therm: An iTerm2 fork with focus on minimalism and better defaults",
-      "https://github.com/trufae/Therm"
     ]
   ],
   [
