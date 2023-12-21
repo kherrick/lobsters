@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2023-12-20, 10:18:32",
+      "https://lobste.rs/s/nheozb/simulating_fluids_fire_smoke_real_time"
+    ],
+    [
+      "Simulating Fluids, Fire, and Smoke in Real-Time",
+      "https://andrewkchan.dev/posts/fire.html"
+    ]
+  ],
+  [
+    [
       "2023-12-20, 09:51:08",
       "https://lobste.rs/s/icxuhq/linux_graphics_stack_nutshell_part_1"
     ],
@@ -197,16 +207,6 @@
     [
       "Arcan 0.6.3 – I, pty: the fool",
       "https://arcan-fe.com/2023/12/19/arcan-0-6-3-i-pty-the-fool/"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 23:00:40",
-      "https://lobste.rs/s/irmdxl/ruby_3_3_s_yjit_faster_while_using_less"
-    ],
-    [
-      "Ruby 3.3’s YJIT: Faster While Using Less Memory",
-      "https://railsatscale.com/2023-12-04-ruby-3-3-s-yjit-faster-while-using-less-memory/"
     ]
   ],
   [
