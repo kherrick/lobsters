@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
+* [2023-12-21, 18:28:19](https://lobste.rs/s/qkhtuc/systemd_boot_full_disk_encryption) - [Systemd-boot and Full Disk Encryption in Tumbleweed and MicroOS](https://news.opensuse.org/2023/12/20/systemd-fde/)
 * [2023-12-21, 17:25:48](https://lobste.rs/s/zmactz/dos_on_dope_last_mvc_web_framework_you_ll) - [DOS on Dope: The last MVC web framework you'll ever need (secretGeek.net)](https://secretgeek.net/dod_intro)
 * [2023-12-21, 17:22:50](https://lobste.rs/s/6btshe/2023_slint_review) - [2023: Slint in Review](https://slint.dev/blog/2023-in-review)
 * [2023-12-21, 16:59:38](https://lobste.rs/s/ue8ikj/if_you_could_use_only_ansi_c) - [If you could use only ANSI C](https://lobste.rs/s/ue8ikj/if_you_could_use_only_ansi_c)
