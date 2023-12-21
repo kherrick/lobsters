@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
+* [2023-12-21, 22:08:25](https://lobste.rs/s/v2nb56/holiday_protocols_secret_santa_with) - [Holiday protocols: secret santa with Quint - Formally specifying and model checking secret santa](https://github.com/informalsystems/quint/blob/main/tutorials/blogpost0-secretsanta/secret_santa.org)
+* [2023-12-21, 22:03:50](https://lobste.rs/s/ulmb7i/darktable_4_6_0_released) - [darktable 4.6.0 released](https://www.darktable.org/2023/12/darktable-4.6.0-released/)
 * [2023-12-21, 21:05:58](https://lobste.rs/s/og0rge/http_headers_note_for_synergizing_into) - [HTTP Headers of Note for Synergizing into a Cohesive Security Stratagem](https://posts.summerti.me/http-headers-of-note-for-synergizing-into-a-cohesive-security-stratagem/)
 * [2023-12-21, 21:05:02](https://lobste.rs/s/wphydl/occupancy_explained) - [Occupancy explained](https://gpuopen.com/learn/occupancy-explained/)
 * [2023-12-21, 20:52:47](https://lobste.rs/s/8vsebl/effortless_certificate_lifecycle) - [Effortless Certificate Lifecycle Management for S/MIME](http://unmitigatedrisk.com/?p=752)
