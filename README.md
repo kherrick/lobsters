@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-21, 19:07:30](https://lobste.rs/s/mx9p49/program_design_by_calculation) - [Program Design by Calculation](https://www4.di.uminho.pt/~jno/ps/pdbc.pdf)
 * [2023-12-21, 18:28:19](https://lobste.rs/s/qkhtuc/systemd_boot_full_disk_encryption) - [Systemd-boot and Full Disk Encryption in Tumbleweed and MicroOS](https://news.opensuse.org/2023/12/20/systemd-fde/)
 * [2023-12-21, 17:25:48](https://lobste.rs/s/zmactz/dos_on_dope_last_mvc_web_framework_you_ll) - [DOS on Dope: The last MVC web framework you'll ever need (secretGeek.net)](https://secretgeek.net/dod_intro)
 * [2023-12-21, 17:22:50](https://lobste.rs/s/6btshe/2023_slint_review) - [2023: Slint in Review](https://slint.dev/blog/2023-in-review)
@@ -18,7 +19,6 @@
 * [2023-12-21, 07:03:22](https://lobste.rs/s/fi8a0i/freebsd_desktop_corner_actions) - [FreeBSD Desktop - Corner Actions](https://vermaden.wordpress.com/2023/12/21/freebsd-desktop-part-28-configuration-corner-actions/#respond)
 * [2023-12-20, 20:16:57](https://lobste.rs/s/ea0qpo/steampipe_sqlite_virtual_tables) - [Steampipe SQLite, Virtual tables translated for common APIs](https://github.com/turbot/steampipe-sqlite)
 * [2023-12-20, 19:07:15](https://lobste.rs/s/zqgbj9/continuous_memory_profiling_for_rust) - [Continuous Memory Profiling for Rust](https://www.polarsignals.com/blog/posts/2023/12/20/rust-memory-profiling)
-* [2023-12-20, 18:12:31](https://lobste.rs/s/1vjbqr/making_my_own_bed_sensor) - [Making my own Bed Sensor](https://www.homeautomationguy.io/blog/making-my-own-bed-sensor)
 * [2023-12-20, 18:11:17](https://lobste.rs/s/g7pksj/advice_for_new_software_devs_who_ve_read) - [Advice for new software devs who've read all those other advice essays](https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
 * [2023-12-20, 17:17:50](https://lobste.rs/s/95ievc/tsids_strike_perfect_balance_between) - [TSIDs strike the perfect balance between integers and UUIDs for most databases](https://www.foxhound.systems/blog/time-sorted-unique-identifiers/)
 * [2023-12-20, 15:55:28](https://lobste.rs/s/bp2vbh/interface_dispatch_c_java_c_go_rust) - [Interface Dispatch in C++, Java, C#, Go, and Rust](https://lukasatkinson.de/2018/interface-dispatch/)
