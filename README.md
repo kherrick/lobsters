@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-21, 09:35:25](https://lobste.rs/s/vtk8wz/qubes_os_4_2_0_has_been_released) - [Qubes OS 4.2.0 has been released](https://www.qubes-os.org/news/2023/12/18/qubes-os-4-2-0-has-been-released/)
 * [2023-12-21, 09:13:23](https://lobste.rs/s/yyuv4a/why_grub_install_can_give_you_unknown) - [Why grub-install can give you an \"unknown filesystem\" error](https://utcc.utoronto.ca/~cks/space/blog/linux/GrubUnknownFilesystemWhy)
 * [2023-12-21, 07:20:33](https://lobste.rs/s/3227xj/praise_criticism_dialogue) - [Praise, Criticism, and Dialogue](http://rhaas.blogspot.com/2023/12/praise-criticism-and-dialogue.html)
 * [2023-12-21, 07:03:22](https://lobste.rs/s/fi8a0i/freebsd_desktop_corner_actions) - [FreeBSD Desktop - Corner Actions](https://vermaden.wordpress.com/2023/12/21/freebsd-desktop-part-28-configuration-corner-actions/#respond)
@@ -20,7 +21,6 @@
 * [2023-12-20, 07:04:00](https://lobste.rs/s/6niztr/sudo_without_setuid_binary_ssh_over_unix) - [sudo without a setuid binary or SSH over a UNIX socket](https://tim.siosm.fr/blog/2023/12/19/ssh-over-unix-socket/)
 * [2023-12-20, 05:24:58](https://lobste.rs/s/0qc6vp/arcan_0_6_3_i_pty_fool) - [Arcan 0.6.3 – I, pty: the fool](https://arcan-fe.com/2023/12/19/arcan-0-6-3-i-pty-the-fool/)
 * [2023-12-19, 23:00:40](https://lobste.rs/s/irmdxl/ruby_3_3_s_yjit_faster_while_using_less) - [Ruby 3.3’s YJIT: Faster While Using Less Memory](https://railsatscale.com/2023-12-04-ruby-3-3-s-yjit-faster-while-using-less-memory/)
-* [2023-12-19, 16:18:53](https://lobste.rs/s/o9s9xw/bit_banging_3_5_floppy_drive) - [Bit Banging a 3.5\" Floppy Drive](https://floppy.cafe/)
 * [2023-12-19, 15:10:52](https://lobste.rs/s/qa6759/better_mastodon_client) - [A Better Mastodon Client](https://timkellogg.me/blog/2023/12/19/fossil)
 * [2023-12-19, 14:18:51](https://lobste.rs/s/ow3jpq/jepsen_mysql_8_0_34) - [Jepsen: MySQL 8.0.34](https://jepsen.io/analyses/mysql-8.0.34)
 * [2023-12-19, 14:02:58](https://lobste.rs/s/ra7vtk/day_i_started_believing_unit_tests) - [The day I started believing in Unit Tests](https://mental-reverb.com/blog.php?id=42)
