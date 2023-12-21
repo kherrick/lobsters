@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-21, 16:59:38](https://lobste.rs/s/ue8ikj/if_you_could_use_only_ansi_c) - [If you could use only ANSI C](https://lobste.rs/s/ue8ikj/if_you_could_use_only_ansi_c)
 * [2023-12-21, 16:45:02](https://lobste.rs/s/imciot/container_monitoring_support_for_pulsar) - [Container Monitoring Support for Pulsar 0.7.0](https://medium.com/@exein/pulsar-0-7-0-advanced-security-with-container-monitoring-88959638bb22)
 * [2023-12-21, 15:19:38](https://lobste.rs/s/qceu0k/how_i_have_fun_with_rust) - [How I Have Fun With Rust](https://thoughtbot.com/blog/how-i-have-fun-with-rust)
 * [2023-12-21, 15:06:18](https://lobste.rs/s/k0f93e/announcing_async_fn_return_position_impl) - [Announcing `async fn` and return-position `impl Trait` in traits](https://blog.rust-lang.org/2023/12/21/async-fn-rpit-in-traits.html)
@@ -11,7 +12,6 @@
 * [2023-12-21, 11:27:09](https://lobste.rs/s/k3yc1f/ownership_you_can_count_on) - [Ownership you can count on](https://muxup.com/2023q4/ownership-you-can-count-on)
 * [2023-12-21, 11:18:40](https://lobste.rs/s/akit0v/fxyt_tiny_stack_based_postfix_canvas) - [FXYT: A tiny, stack-based, postfix canvas colouring language with 36 commands](https://susam.net/fxyt.html)
 * [2023-12-21, 09:35:25](https://lobste.rs/s/vtk8wz/qubes_os_4_2_0_has_been_released) - [Qubes OS 4.2.0 has been released](https://www.qubes-os.org/news/2023/12/18/qubes-os-4-2-0-has-been-released/)
-* [2023-12-21, 09:13:23](https://lobste.rs/s/yyuv4a/why_grub_install_can_give_you_unknown) - [Why grub-install can give you an \"unknown filesystem\" error](https://utcc.utoronto.ca/~cks/space/blog/linux/GrubUnknownFilesystemWhy)
 * [2023-12-21, 07:20:33](https://lobste.rs/s/3227xj/praise_criticism_dialogue) - [Praise, Criticism, and Dialogue](http://rhaas.blogspot.com/2023/12/praise-criticism-and-dialogue.html)
 * [2023-12-21, 07:03:22](https://lobste.rs/s/fi8a0i/freebsd_desktop_corner_actions) - [FreeBSD Desktop - Corner Actions](https://vermaden.wordpress.com/2023/12/21/freebsd-desktop-part-28-configuration-corner-actions/#respond)
 * [2023-12-20, 20:16:57](https://lobste.rs/s/ea0qpo/steampipe_sqlite_virtual_tables) - [Steampipe SQLite, Virtual tables translated for common APIs](https://github.com/turbot/steampipe-sqlite)

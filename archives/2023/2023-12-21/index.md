@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
+* [2023-12-21, 16:59:38](https://lobste.rs/s/ue8ikj/if_you_could_use_only_ansi_c) - [If you could use only ANSI C](https://lobste.rs/s/ue8ikj/if_you_could_use_only_ansi_c)
 * [2023-12-21, 16:45:02](https://lobste.rs/s/imciot/container_monitoring_support_for_pulsar) - [Container Monitoring Support for Pulsar 0.7.0](https://medium.com/@exein/pulsar-0-7-0-advanced-security-with-container-monitoring-88959638bb22)
 * [2023-12-21, 15:19:38](https://lobste.rs/s/qceu0k/how_i_have_fun_with_rust) - [How I Have Fun With Rust](https://thoughtbot.com/blog/how-i-have-fun-with-rust)
 * [2023-12-21, 15:06:18](https://lobste.rs/s/k0f93e/announcing_async_fn_return_position_impl) - [Announcing `async fn` and return-position `impl Trait` in traits](https://blog.rust-lang.org/2023/12/21/async-fn-rpit-in-traits.html)
