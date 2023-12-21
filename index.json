@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-21, 07:03:22",
+      "https://lobste.rs/s/fi8a0i/freebsd_desktop_corner_actions"
+    ],
+    [
+      "FreeBSD Desktop - Corner Actions",
+      "https://vermaden.wordpress.com/2023/12/21/freebsd-desktop-part-28-configuration-corner-actions/#respond"
+    ]
+  ],
+  [
+    [
       "2023-12-20, 20:16:57",
       "https://lobste.rs/s/ea0qpo/steampipe_sqlite_virtual_tables"
     ],
@@ -237,16 +247,6 @@
     [
       "My cat water fountain comes with a spicy USB power adapter",
       "https://ounapuu.ee/posts/2023/12/19/spicy-usb-adapter/"
-    ]
-  ],
-  [
-    [
-      "2023-12-19, 11:39:13",
-      "https://lobste.rs/s/pn9v0r/quint_executable_specification"
-    ],
-    [
-      "Quint: An executable specification language based on the temporal logic of actions (TLA)",
-      "https://github.com/informalsystems/quint"
     ]
   ]
 ]
