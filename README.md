@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-21, 20:52:47](https://lobste.rs/s/8vsebl/effortless_certificate_lifecycle) - [Effortless Certificate Lifecycle Management for S/MIME](http://unmitigatedrisk.com/?p=752)
 * [2023-12-21, 19:07:30](https://lobste.rs/s/mx9p49/program_design_by_calculation) - [Program Design by Calculation](https://www4.di.uminho.pt/~jno/ps/pdbc.pdf)
 * [2023-12-21, 18:28:19](https://lobste.rs/s/qkhtuc/systemd_boot_full_disk_encryption) - [Systemd-boot and Full Disk Encryption in Tumbleweed and MicroOS](https://news.opensuse.org/2023/12/20/systemd-fde/)
 * [2023-12-21, 17:25:48](https://lobste.rs/s/zmactz/dos_on_dope_last_mvc_web_framework_you_ll) - [DOS on Dope: The last MVC web framework you'll ever need](https://secretgeek.net/dod_intro)
@@ -21,7 +22,6 @@
 * [2023-12-20, 19:07:15](https://lobste.rs/s/zqgbj9/continuous_memory_profiling_for_rust) - [Continuous Memory Profiling for Rust](https://www.polarsignals.com/blog/posts/2023/12/20/rust-memory-profiling)
 * [2023-12-20, 18:11:17](https://lobste.rs/s/g7pksj/advice_for_new_software_devs_who_ve_read) - [Advice for new software devs who've read all those other advice essays](https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
 * [2023-12-20, 17:17:50](https://lobste.rs/s/95ievc/tsids_strike_perfect_balance_between) - [TSIDs strike the perfect balance between integers and UUIDs for most databases](https://www.foxhound.systems/blog/time-sorted-unique-identifiers/)
-* [2023-12-20, 15:55:28](https://lobste.rs/s/bp2vbh/interface_dispatch_c_java_c_go_rust) - [Interface Dispatch in C++, Java, C#, Go, and Rust](https://lukasatkinson.de/2018/interface-dispatch/)
 * [2023-12-20, 13:52:26](https://lobste.rs/s/tueddj/rails_when_changing_code_doesn_t_change) - [Rails: When Changing Code Doesn't Change Behavior](https://thoughtbot.com/blog/rails-when-changing-code-doesnt-change-behavior)
 * [2023-12-20, 07:55:44](https://lobste.rs/s/3qckyy/focus_is_key_creating_product_value) - [Focus Is Key to Creating Product Value](https://dabure.com/blog/focus-is-key-to-creating-product-value)
 * [2023-12-20, 05:24:58](https://lobste.rs/s/0qc6vp/arcan_0_6_3_i_pty_fool) - [Arcan 0.6.3 – I, pty: the fool](https://arcan-fe.com/2023/12/19/arcan-0-6-3-i-pty-the-fool/)
