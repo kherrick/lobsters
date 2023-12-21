@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
+* [2023-12-21, 21:05:58](https://lobste.rs/s/og0rge/http_headers_note_for_synergizing_into) - [HTTP Headers of Note for Synergizing into a Cohesive Security Stratagem](https://posts.summerti.me/http-headers-of-note-for-synergizing-into-a-cohesive-security-stratagem/)
+* [2023-12-21, 21:05:02](https://lobste.rs/s/wphydl/occupancy_explained) - [Occupancy explained](https://gpuopen.com/learn/occupancy-explained/)
 * [2023-12-21, 20:52:47](https://lobste.rs/s/8vsebl/effortless_certificate_lifecycle) - [Effortless Certificate Lifecycle Management for S/MIME](http://unmitigatedrisk.com/?p=752)
 * [2023-12-21, 19:07:30](https://lobste.rs/s/mx9p49/program_design_by_calculation) - [Program Design by Calculation](https://www4.di.uminho.pt/~jno/ps/pdbc.pdf)
 * [2023-12-21, 18:28:19](https://lobste.rs/s/qkhtuc/systemd_boot_full_disk_encryption) - [Systemd-boot and Full Disk Encryption in Tumbleweed and MicroOS](https://news.opensuse.org/2023/12/20/systemd-fde/)
