@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-21, 12:15:53](https://lobste.rs/s/ljhs4l/postmarketos_v23_12_release) - [postmarketOS v23.12 release](https://postmarketos.org/blog/2023/12/18/v23.12-release/)
 * [2023-12-21, 11:27:09](https://lobste.rs/s/k3yc1f/ownership_you_can_count_on) - [Ownership you can count on](https://muxup.com/2023q4/ownership-you-can-count-on)
 * [2023-12-21, 11:18:40](https://lobste.rs/s/akit0v/fxyt_tiny_stack_based_postfix_canvas) - [FXYT: A tiny, stack-based, postfix canvas colouring language with 36 commands](https://susam.net/fxyt.html)
 * [2023-12-21, 09:35:25](https://lobste.rs/s/vtk8wz/qubes_os_4_2_0_has_been_released) - [Qubes OS 4.2.0 has been released](https://www.qubes-os.org/news/2023/12/18/qubes-os-4-2-0-has-been-released/)
@@ -11,7 +12,6 @@
 * [2023-12-20, 18:12:31](https://lobste.rs/s/1vjbqr/making_my_own_bed_sensor) - [Making my own Bed Sensor](https://www.homeautomationguy.io/blog/making-my-own-bed-sensor)
 * [2023-12-20, 18:11:17](https://lobste.rs/s/g7pksj/advice_for_new_software_devs_who_ve_read) - [Advice for new software devs who've read all those other advice essays](https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
 * [2023-12-20, 18:09:11](https://lobste.rs/s/y4zinw/3_lisp_infinite_tower_meta_circular) - [3-lisp: an infinite tower of meta-circular interpreters (2022)](https://www.cofault.com/2022/08/3-lisp-infinite-tower-of-meta-circular.html)
-* [2023-12-20, 17:43:20](https://lobste.rs/s/lp3ypi/designing_dope_distributed_systems_for) - [Designing Dope Distributed Systems for Outer Space with High-Fidelity Simulation](https://www.youtube.com/watch?v=prM-0i58XBM)
 * [2023-12-20, 17:17:50](https://lobste.rs/s/95ievc/tsids_strike_perfect_balance_between) - [TSIDs strike the perfect balance between integers and UUIDs for most databases](https://www.foxhound.systems/blog/time-sorted-unique-identifiers/)
 * [2023-12-20, 15:55:28](https://lobste.rs/s/bp2vbh/interface_dispatch_c_java_c_go_rust) - [Interface Dispatch in C++, Java, C#, Go, and Rust](https://lukasatkinson.de/2018/interface-dispatch/)
 * [2023-12-20, 15:15:43](https://lobste.rs/s/gjaxgc/nvk_holiday_update_what_we_ve_achieved) - [NVK holiday update: What we've achieved, and where we're headed](https://www.collabora.com/news-and-blog/news-and-events/nvk-holiday-update.html)
