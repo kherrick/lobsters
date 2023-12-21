@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-21, 14:51:21](https://lobste.rs/s/ucvib8/do_we_need_rethink_what_free_software_is) - [Do we need to rethink what free software is? (2019)](https://mjg59.dreamwidth.org/52907.html)
 * [2023-12-21, 14:30:26](https://lobste.rs/s/0gzemf/taking_language_server_protocol_one_step) - [Taking the Language Server Protocol one step further](https://garnix.io/blog/taking-lsp-one-step-further)
 * [2023-12-21, 14:19:03](https://lobste.rs/s/jr02g0/vulkan_video_decode_first_frames) - [Vulkan Video Decode: First Frames](https://poniesandlight.co.uk/reflect/island_video_decoder/)
 * [2023-12-21, 13:13:08](https://lobste.rs/s/qijf8p/my_reference_was_dropped_why_is_compiler) - [My reference was dropped, why is the compiler complaining about multiple borrows?](https://ntietz.com/blog/my-reference-was-dropped-why-is-the-compiler-complaining-about-multiple-borrows/)
@@ -20,7 +21,6 @@
 * [2023-12-20, 15:15:43](https://lobste.rs/s/gjaxgc/nvk_holiday_update_what_we_ve_achieved) - [NVK holiday update: What we've achieved, and where we're headed](https://www.collabora.com/news-and-blog/news-and-events/nvk-holiday-update.html)
 * [2023-12-20, 14:01:40](https://lobste.rs/s/fbrjze/pipeinstall_list_projects_use_shell_pipe) - [pipeinstall: A list of projects that use a shell pipe and cURL or Wget to install themselves](https://kubikpixel.github.io/pipeinstall/)
 * [2023-12-20, 13:52:26](https://lobste.rs/s/tueddj/rails_when_changing_code_doesn_t_change) - [Rails: When Changing Code Doesn't Change Behavior](https://thoughtbot.com/blog/rails-when-changing-code-doesnt-change-behavior)
-* [2023-12-20, 09:51:08](https://lobste.rs/s/icxuhq/linux_graphics_stack_nutshell_part_1) - [The Linux graphics stack in a nutshell, part 1](https://lwn.net/SubscriberLink/955376/b3fba3bbfabbc411/)
 * [2023-12-20, 07:55:44](https://lobste.rs/s/3qckyy/focus_is_key_creating_product_value) - [Focus Is Key to Creating Product Value](https://dabure.com/blog/focus-is-key-to-creating-product-value)
 * [2023-12-20, 07:04:00](https://lobste.rs/s/6niztr/sudo_without_setuid_binary_ssh_over_unix) - [sudo without a setuid binary or SSH over a UNIX socket](https://tim.siosm.fr/blog/2023/12/19/ssh-over-unix-socket/)
 * [2023-12-20, 05:24:58](https://lobste.rs/s/0qc6vp/arcan_0_6_3_i_pty_fool) - [Arcan 0.6.3 – I, pty: the fool](https://arcan-fe.com/2023/12/19/arcan-0-6-3-i-pty-the-fool/)
