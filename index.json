@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-21, 16:45:02",
+      "https://lobste.rs/s/imciot/container_monitoring_support_for_pulsar"
+    ],
+    [
+      "Container Monitoring Support for Pulsar 0.7.0",
+      "https://medium.com/@exein/pulsar-0-7-0-advanced-security-with-container-monitoring-88959638bb22"
+    ]
+  ],
+  [
+    [
       "2023-12-21, 15:19:38",
       "https://lobste.rs/s/qceu0k/how_i_have_fun_with_rust"
     ],
@@ -167,16 +177,6 @@
     [
       "Advice for new software devs who've read all those other advice essays",
       "https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/"
-    ]
-  ],
-  [
-    [
-      "2023-12-20, 18:09:11",
-      "https://lobste.rs/s/y4zinw/3_lisp_infinite_tower_meta_circular"
-    ],
-    [
-      "3-lisp: an infinite tower of meta-circular interpreters (2022)",
-      "https://www.cofault.com/2022/08/3-lisp-infinite-tower-of-meta-circular.html"
     ]
   ],
   [
