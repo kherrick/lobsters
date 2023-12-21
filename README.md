@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-21, 11:27:09](https://lobste.rs/s/k3yc1f/ownership_you_can_count_on) - [Ownership you can count on](https://muxup.com/2023q4/ownership-you-can-count-on)
 * [2023-12-21, 11:18:40](https://lobste.rs/s/akit0v/fxyt_tiny_stack_based_postfix_canvas) - [FXYT: A tiny, stack-based, postfix canvas colouring language with 36 commands](https://susam.net/fxyt.html)
 * [2023-12-21, 09:35:25](https://lobste.rs/s/vtk8wz/qubes_os_4_2_0_has_been_released) - [Qubes OS 4.2.0 has been released](https://www.qubes-os.org/news/2023/12/18/qubes-os-4-2-0-has-been-released/)
 * [2023-12-21, 09:13:23](https://lobste.rs/s/yyuv4a/why_grub_install_can_give_you_unknown) - [Why grub-install can give you an \"unknown filesystem\" error](https://utcc.utoronto.ca/~cks/space/blog/linux/GrubUnknownFilesystemWhy)
@@ -16,7 +17,6 @@
 * [2023-12-20, 14:25:24](https://lobste.rs/s/km4at7/telemetry_ruby_part_1_metrics_storage) - [Telemetry in Ruby Part 1: Metrics and Storage](https://blog.flippercloud.io/telemetry-in-ruby-part-1-metrics-and-storage/)
 * [2023-12-20, 14:01:40](https://lobste.rs/s/fbrjze/pipeinstall_list_projects_use_shell_pipe) - [pipeinstall: A list of projects that use a shell pipe and cURL or Wget to install themselves](https://kubikpixel.github.io/pipeinstall/)
 * [2023-12-20, 13:52:26](https://lobste.rs/s/tueddj/rails_when_changing_code_doesn_t_change) - [Rails: When Changing Code Doesn't Change Behavior](https://thoughtbot.com/blog/rails-when-changing-code-doesnt-change-behavior)
-* [2023-12-20, 10:18:32](https://lobste.rs/s/nheozb/simulating_fluids_fire_smoke_real_time) - [Simulating Fluids, Fire, and Smoke in Real-Time](https://andrewkchan.dev/posts/fire.html)
 * [2023-12-20, 09:51:08](https://lobste.rs/s/icxuhq/linux_graphics_stack_nutshell_part_1) - [The Linux graphics stack in a nutshell, part 1](https://lwn.net/SubscriberLink/955376/b3fba3bbfabbc411/)
 * [2023-12-20, 08:38:43](https://lobste.rs/s/atzkh9/therm_iterm2_fork_with_focus_on) - [Therm: An iTerm2 fork with focus on minimalism and better defaults](https://github.com/trufae/Therm)
 * [2023-12-20, 07:55:44](https://lobste.rs/s/3qckyy/focus_is_key_creating_product_value) - [Focus Is Key to Creating Product Value](https://dabure.com/blog/focus-is-key-to-creating-product-value)
