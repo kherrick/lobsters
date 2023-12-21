@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-21, 15:06:18",
+      "https://lobste.rs/s/k0f93e/announcing_async_fn_return_position_impl"
+    ],
+    [
+      "Announcing `async fn` and return-position `impl Trait` in traits",
+      "https://blog.rust-lang.org/2023/12/21/async-fn-rpit-in-traits.html"
+    ]
+  ],
+  [
+    [
       "2023-12-21, 14:51:21",
       "https://lobste.rs/s/ucvib8/do_we_need_rethink_what_free_software_is"
     ],
@@ -187,16 +197,6 @@
     [
       "NVK holiday update: What we've achieved, and where we're headed",
       "https://www.collabora.com/news-and-blog/news-and-events/nvk-holiday-update.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-20, 14:01:40",
-      "https://lobste.rs/s/fbrjze/pipeinstall_list_projects_use_shell_pipe"
-    ],
-    [
-      "pipeinstall: A list of projects that use a shell pipe and cURL or Wget to install themselves",
-      "https://kubikpixel.github.io/pipeinstall/"
     ]
   ],
   [
