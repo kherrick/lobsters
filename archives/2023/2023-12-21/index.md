@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
+* [2023-12-21, 14:19:03](https://lobste.rs/s/jr02g0/vulkan_video_decode_first_frames) - [Vulkan Video Decode: First Frames](https://poniesandlight.co.uk/reflect/island_video_decoder/)
 * [2023-12-21, 13:13:08](https://lobste.rs/s/qijf8p/my_reference_was_dropped_why_is_compiler) - [My reference was dropped, why is the compiler complaining about multiple borrows?](https://ntietz.com/blog/my-reference-was-dropped-why-is-the-compiler-complaining-about-multiple-borrows/)
 * [2023-12-21, 12:15:53](https://lobste.rs/s/ljhs4l/postmarketos_v23_12_release) - [postmarketOS v23.12 release](https://postmarketos.org/blog/2023/12/18/v23.12-release/)
 * [2023-12-21, 11:27:09](https://lobste.rs/s/k3yc1f/ownership_you_can_count_on) - [Ownership you can count on](https://muxup.com/2023q4/ownership-you-can-count-on)

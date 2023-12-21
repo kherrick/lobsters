@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-21, 14:19:03](https://lobste.rs/s/jr02g0/vulkan_video_decode_first_frames) - [Vulkan Video Decode: First Frames](https://poniesandlight.co.uk/reflect/island_video_decoder/)
 * [2023-12-21, 13:13:08](https://lobste.rs/s/qijf8p/my_reference_was_dropped_why_is_compiler) - [My reference was dropped, why is the compiler complaining about multiple borrows?](https://ntietz.com/blog/my-reference-was-dropped-why-is-the-compiler-complaining-about-multiple-borrows/)
 * [2023-12-21, 12:15:53](https://lobste.rs/s/ljhs4l/postmarketos_v23_12_release) - [postmarketOS v23.12 release](https://postmarketos.org/blog/2023/12/18/v23.12-release/)
 * [2023-12-21, 11:27:09](https://lobste.rs/s/k3yc1f/ownership_you_can_count_on) - [Ownership you can count on](https://muxup.com/2023q4/ownership-you-can-count-on)
@@ -16,7 +17,6 @@
 * [2023-12-20, 17:17:50](https://lobste.rs/s/95ievc/tsids_strike_perfect_balance_between) - [TSIDs strike the perfect balance between integers and UUIDs for most databases](https://www.foxhound.systems/blog/time-sorted-unique-identifiers/)
 * [2023-12-20, 15:55:28](https://lobste.rs/s/bp2vbh/interface_dispatch_c_java_c_go_rust) - [Interface Dispatch in C++, Java, C#, Go, and Rust](https://lukasatkinson.de/2018/interface-dispatch/)
 * [2023-12-20, 15:15:43](https://lobste.rs/s/gjaxgc/nvk_holiday_update_what_we_ve_achieved) - [NVK holiday update: What we've achieved, and where we're headed](https://www.collabora.com/news-and-blog/news-and-events/nvk-holiday-update.html)
-* [2023-12-20, 14:25:24](https://lobste.rs/s/km4at7/telemetry_ruby_part_1_metrics_storage) - [Telemetry in Ruby Part 1: Metrics and Storage](https://blog.flippercloud.io/telemetry-in-ruby-part-1-metrics-and-storage/)
 * [2023-12-20, 14:01:40](https://lobste.rs/s/fbrjze/pipeinstall_list_projects_use_shell_pipe) - [pipeinstall: A list of projects that use a shell pipe and cURL or Wget to install themselves](https://kubikpixel.github.io/pipeinstall/)
 * [2023-12-20, 13:52:26](https://lobste.rs/s/tueddj/rails_when_changing_code_doesn_t_change) - [Rails: When Changing Code Doesn't Change Behavior](https://thoughtbot.com/blog/rails-when-changing-code-doesnt-change-behavior)
 * [2023-12-20, 09:51:08](https://lobste.rs/s/icxuhq/linux_graphics_stack_nutshell_part_1) - [The Linux graphics stack in a nutshell, part 1](https://lwn.net/SubscriberLink/955376/b3fba3bbfabbc411/)
