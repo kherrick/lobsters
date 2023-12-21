@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-21](index.md)
 
+* [2023-12-21, 15:19:38](https://lobste.rs/s/qceu0k/how_i_have_fun_with_rust) - [How I Have Fun With Rust](https://thoughtbot.com/blog/how-i-have-fun-with-rust)
 * [2023-12-21, 15:06:18](https://lobste.rs/s/k0f93e/announcing_async_fn_return_position_impl) - [Announcing `async fn` and return-position `impl Trait` in traits](https://blog.rust-lang.org/2023/12/21/async-fn-rpit-in-traits.html)
 * [2023-12-21, 14:51:21](https://lobste.rs/s/ucvib8/do_we_need_rethink_what_free_software_is) - [Do we need to rethink what free software is? (2019)](https://mjg59.dreamwidth.org/52907.html)
 * [2023-12-21, 14:30:26](https://lobste.rs/s/0gzemf/taking_language_server_protocol_one_step) - [Taking the Language Server Protocol one step further](https://garnix.io/blog/taking-lsp-one-step-further)
