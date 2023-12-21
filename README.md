@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-21, 17:25:48](https://lobste.rs/s/zmactz/dos_on_dope_last_mvc_web_framework_you_ll) - [DOS on Dope: The last MVC web framework you'll ever need (secretGeek.net)](https://secretgeek.net/dod_intro)
+* [2023-12-21, 17:22:50](https://lobste.rs/s/6btshe/2023_slint_review) - [2023: Slint in Review](https://slint.dev/blog/2023-in-review)
 * [2023-12-21, 16:59:38](https://lobste.rs/s/ue8ikj/if_you_could_use_only_ansi_c) - [If you could use only ANSI C](https://lobste.rs/s/ue8ikj/if_you_could_use_only_ansi_c)
 * [2023-12-21, 16:45:02](https://lobste.rs/s/imciot/container_monitoring_support_for_pulsar) - [Container Monitoring Support for Pulsar 0.7.0](https://medium.com/@exein/pulsar-0-7-0-advanced-security-with-container-monitoring-88959638bb22)
 * [2023-12-21, 15:19:38](https://lobste.rs/s/qceu0k/how_i_have_fun_with_rust) - [How I Have Fun With Rust](https://thoughtbot.com/blog/how-i-have-fun-with-rust)
@@ -22,9 +24,7 @@
 * [2023-12-20, 15:55:28](https://lobste.rs/s/bp2vbh/interface_dispatch_c_java_c_go_rust) - [Interface Dispatch in C++, Java, C#, Go, and Rust](https://lukasatkinson.de/2018/interface-dispatch/)
 * [2023-12-20, 13:52:26](https://lobste.rs/s/tueddj/rails_when_changing_code_doesn_t_change) - [Rails: When Changing Code Doesn't Change Behavior](https://thoughtbot.com/blog/rails-when-changing-code-doesnt-change-behavior)
 * [2023-12-20, 07:55:44](https://lobste.rs/s/3qckyy/focus_is_key_creating_product_value) - [Focus Is Key to Creating Product Value](https://dabure.com/blog/focus-is-key-to-creating-product-value)
-* [2023-12-20, 07:04:00](https://lobste.rs/s/6niztr/sudo_without_setuid_binary_ssh_over_unix) - [sudo without a setuid binary or SSH over a UNIX socket](https://tim.siosm.fr/blog/2023/12/19/ssh-over-unix-socket/)
 * [2023-12-20, 05:24:58](https://lobste.rs/s/0qc6vp/arcan_0_6_3_i_pty_fool) - [Arcan 0.6.3 – I, pty: the fool](https://arcan-fe.com/2023/12/19/arcan-0-6-3-i-pty-the-fool/)
-* [2023-12-19, 14:18:51](https://lobste.rs/s/ow3jpq/jepsen_mysql_8_0_34) - [Jepsen: MySQL 8.0.34](https://jepsen.io/analyses/mysql-8.0.34)
 
 ## [Archives](archives/index.md)
 
