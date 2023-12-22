@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-22](index.md)
 
+* [2023-12-22, 14:10:04](https://lobste.rs/s/biwqce/ai_tool_fix_typos_by_generating_diff_file) - [AI tool to fix typos by generating a diff file?](https://lobste.rs/s/biwqce/ai_tool_fix_typos_by_generating_diff_file)
+* [2023-12-22, 14:08:11](https://lobste.rs/s/fnxqjn/emacs_from_scratch_part_1_foundations) - [Emacs From Scratch, Part 1: Foundations](https://arne.me/articles/emacs-from-scratch-part-one-foundations)
 * [2023-12-22, 13:16:51](https://lobste.rs/s/50vsnh/my_happy_experience_with_graphql) - [My happy experience with Graphql subscriptions/websockets in the Scala ecosystem](https://valentin.willscher.de/posts/scala-praise)
 * [2023-12-22, 13:02:16](https://lobste.rs/s/r5ugyl/murder_at_end_world_are_you_vi_emacs) - [A Murder at the End of the World: Are you Vi or Emacs?](https://xenodium.com/are-you-vi-or-emacs)
 * [2023-12-22, 11:17:02](https://lobste.rs/s/ax9xhd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ax9xhd/what_are_you_doing_this_weekend)
