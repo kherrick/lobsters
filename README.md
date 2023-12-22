@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-22, 13:16:51](https://lobste.rs/s/50vsnh/my_happy_experience_with_graphql) - [My happy experience with Graphql subscriptions/websockets in the Scala ecosystem](https://valentin.willscher.de/posts/scala-praise)
 * [2023-12-22, 13:02:16](https://lobste.rs/s/r5ugyl/murder_at_end_world_are_you_vi_emacs) - [A Murder at the End of the World: Are you Vi or Emacs?](https://xenodium.com/are-you-vi-or-emacs)
 * [2023-12-22, 11:17:02](https://lobste.rs/s/ax9xhd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ax9xhd/what_are_you_doing_this_weekend)
 * [2023-12-22, 08:00:27](https://lobste.rs/s/skmk4g/running_traefik_less_braindead_way) - [Running traefik in a less braindead way](https://wejn.org/2023/11/running-traefik-in-a-less-braindead-way/)
@@ -12,7 +13,6 @@
 * [2023-12-21, 23:12:23](https://lobste.rs/s/e6tz0r/memory_safety_is_red_herring) - [Memory Safety is a Red Herring](https://steveklabnik.com/writing/memory-safety-is-a-red-herring)
 * [2023-12-21, 22:08:25](https://lobste.rs/s/v2nb56/holiday_protocols_secret_santa_with) - [Holiday protocols: secret santa with Quint - Formally specifying and model checking secret santa](https://github.com/informalsystems/quint/blob/main/tutorials/blogpost0-secretsanta/secret_santa.org)
 * [2023-12-21, 22:03:50](https://lobste.rs/s/ulmb7i/darktable_4_6_0_released) - [darktable 4.6.0 released](https://www.darktable.org/2023/12/darktable-4.6.0-released/)
-* [2023-12-21, 19:07:30](https://lobste.rs/s/mx9p49/program_design_by_calculation) - [Program Design by Calculation](https://www4.di.uminho.pt/~jno/ps/pdbc.pdf)
 * [2023-12-21, 17:25:48](https://lobste.rs/s/zmactz/dos_on_dope_last_mvc_web_framework_you_ll) - [DOS on Dope: The last MVC web framework you'll ever need](https://secretgeek.net/dod_intro)
 * [2023-12-21, 17:22:50](https://lobste.rs/s/6btshe/2023_slint_review) - [2023: Slint in Review](https://slint.dev/blog/2023-in-review)
 * [2023-12-21, 15:19:38](https://lobste.rs/s/qceu0k/how_i_have_fun_with_rust) - [How I Have Fun With Rust](https://thoughtbot.com/blog/how-i-have-fun-with-rust)
