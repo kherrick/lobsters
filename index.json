@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-22, 16:41:48",
+      "https://lobste.rs/s/sjkjva/improving_supply_chain_security_through"
+    ],
+    [
+      "Improving Supply Chain Security Through Artifact Signing",
+      "https://foundation.rust-lang.org/news/2023-12-21-improving-supply-chain-security/"
+    ]
+  ],
+  [
+    [
       "2023-12-22, 16:30:11",
       "https://lobste.rs/s/nyj3k7/real_time_change_data_capture_from"
     ],
@@ -237,16 +247,6 @@
     [
       "FXYT: A tiny, stack-based, postfix canvas colouring language with 36 commands",
       "https://susam.net/fxyt.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-21, 07:03:22",
-      "https://lobste.rs/s/fi8a0i/freebsd_desktop_corner_actions"
-    ],
-    [
-      "FreeBSD Desktop - Corner Actions",
-      "https://vermaden.wordpress.com/2023/12/21/freebsd-desktop-part-28-configuration-corner-actions/#respond"
     ]
   ]
 ]
