@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-22, 11:17:02](https://lobste.rs/s/ax9xhd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ax9xhd/what_are_you_doing_this_weekend)
 * [2023-12-22, 08:00:27](https://lobste.rs/s/skmk4g/running_traefik_less_braindead_way) - [Running traefik in a less braindead way](https://wejn.org/2023/11/running-traefik-in-a-less-braindead-way/)
 * [2023-12-22, 06:08:03](https://lobste.rs/s/han5ij/osh_interactive_shell_screencasts) - [OSH Interactive Shell Screencasts](https://www.oilshell.org/blog/2023/12/screencasts.html)
 * [2023-12-22, 06:02:47](https://lobste.rs/s/jdr0vo/actual_ssh_over_https) - [Actual SSH over HTTPS](https://trofi.github.io/posts/295-ssh-over-https.html)
@@ -10,7 +11,6 @@
 * [2023-12-21, 23:12:23](https://lobste.rs/s/e6tz0r/memory_safety_is_red_herring) - [Memory Safety is a Red Herring](https://steveklabnik.com/writing/memory-safety-is-a-red-herring)
 * [2023-12-21, 22:08:25](https://lobste.rs/s/v2nb56/holiday_protocols_secret_santa_with) - [Holiday protocols: secret santa with Quint - Formally specifying and model checking secret santa](https://github.com/informalsystems/quint/blob/main/tutorials/blogpost0-secretsanta/secret_santa.org)
 * [2023-12-21, 22:03:50](https://lobste.rs/s/ulmb7i/darktable_4_6_0_released) - [darktable 4.6.0 released](https://www.darktable.org/2023/12/darktable-4.6.0-released/)
-* [2023-12-21, 20:52:47](https://lobste.rs/s/8vsebl/effortless_certificate_lifecycle) - [Effortless Certificate Lifecycle Management for S/MIME](http://unmitigatedrisk.com/?p=752)
 * [2023-12-21, 19:07:30](https://lobste.rs/s/mx9p49/program_design_by_calculation) - [Program Design by Calculation](https://www4.di.uminho.pt/~jno/ps/pdbc.pdf)
 * [2023-12-21, 17:25:48](https://lobste.rs/s/zmactz/dos_on_dope_last_mvc_web_framework_you_ll) - [DOS on Dope: The last MVC web framework you'll ever need](https://secretgeek.net/dod_intro)
 * [2023-12-21, 17:22:50](https://lobste.rs/s/6btshe/2023_slint_review) - [2023: Slint in Review](https://slint.dev/blog/2023-in-review)
