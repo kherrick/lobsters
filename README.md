@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-22, 08:00:27](https://lobste.rs/s/skmk4g/running_traefik_less_braindead_way) - [Running traefik in a less braindead way](https://wejn.org/2023/11/running-traefik-in-a-less-braindead-way/)
 * [2023-12-22, 06:08:03](https://lobste.rs/s/han5ij/osh_interactive_shell_screencasts) - [OSH Interactive Shell Screencasts](https://www.oilshell.org/blog/2023/12/screencasts.html)
 * [2023-12-22, 06:02:47](https://lobste.rs/s/jdr0vo/actual_ssh_over_https) - [Actual SSH over HTTPS](https://trofi.github.io/posts/295-ssh-over-https.html)
 * [2023-12-22, 05:52:27](https://lobste.rs/s/hcixgh/are_you_smarter_than_llm) - [Are you smarter than an LLM?](https://d.erenrich.net/are-you-smarter-than-an-llm/index.html)
@@ -24,7 +25,6 @@
 * [2023-12-21, 11:18:40](https://lobste.rs/s/akit0v/fxyt_tiny_stack_based_postfix_canvas) - [FXYT: A tiny, stack-based, postfix canvas colouring language with 36 commands](https://susam.net/fxyt.html)
 * [2023-12-21, 07:03:22](https://lobste.rs/s/fi8a0i/freebsd_desktop_corner_actions) - [FreeBSD Desktop - Corner Actions](https://vermaden.wordpress.com/2023/12/21/freebsd-desktop-part-28-configuration-corner-actions/#respond)
 * [2023-12-20, 18:11:17](https://lobste.rs/s/g7pksj/advice_for_new_software_devs_who_ve_read) - [Advice for new software devs who've read all those other advice essays](https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
-* [2023-12-20, 05:24:58](https://lobste.rs/s/0qc6vp/arcan_0_6_3_i_pty_fool) - [Arcan 0.6.3 – I, pty: the fool](https://arcan-fe.com/2023/12/19/arcan-0-6-3-i-pty-the-fool/)
 
 ## [Archives](archives/index.md)
 
