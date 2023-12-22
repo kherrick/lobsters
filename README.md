@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-22, 15:38:49](https://lobste.rs/s/qzzuu8/first_bits_haiku_compatibility_layer_for) - [First bits of a Haiku compatibility layer for NetBSD](https://www.osnews.com/story/137961/first-bits-of-a-haiku-compatibility-layer-for-netbsd/)
 * [2023-12-22, 15:28:07](https://lobste.rs/s/hv9q5z/so_you_want_optimize_your_code_also) - [So You Want to Optimize Your Code? (also, a disordered, confusing and absolutely incomplete oral history of Firefox performance)](https://yoric.github.io/post/so-you-want-to-optimize-your-code/)
 * [2023-12-22, 14:56:17](https://lobste.rs/s/aar0zx/dark_side_inlining_monomorphization) - [The dark side of inlining and monomorphization](https://nickb.dev/blog/the-dark-side-of-inlining-and-monomorphization/)
 * [2023-12-22, 14:10:04](https://lobste.rs/s/biwqce/ai_tool_fix_typos_by_generating_diff_file) - [AI tool to fix typos by generating a diff file?](https://lobste.rs/s/biwqce/ai_tool_fix_typos_by_generating_diff_file)
@@ -21,7 +22,6 @@
 * [2023-12-21, 14:51:21](https://lobste.rs/s/ucvib8/do_we_need_rethink_what_free_software_is) - [Do we need to rethink what free software is? (2019)](https://mjg59.dreamwidth.org/52907.html)
 * [2023-12-21, 14:30:26](https://lobste.rs/s/0gzemf/taking_language_server_protocol_one_step) - [Taking the Language Server Protocol one step further](https://garnix.io/blog/taking-lsp-one-step-further)
 * [2023-12-21, 14:19:03](https://lobste.rs/s/jr02g0/vulkan_video_decode_first_frames) - [Vulkan Video Decode: First Frames](https://poniesandlight.co.uk/reflect/island_video_decoder/)
-* [2023-12-21, 12:15:53](https://lobste.rs/s/ljhs4l/postmarketos_v23_12_release) - [postmarketOS v23.12 release](https://postmarketos.org/blog/2023/12/18/v23.12-release/)
 * [2023-12-21, 11:27:09](https://lobste.rs/s/k3yc1f/ownership_you_can_count_on) - [Ownership you can count on](https://muxup.com/2023q4/ownership-you-can-count-on)
 * [2023-12-21, 11:18:40](https://lobste.rs/s/akit0v/fxyt_tiny_stack_based_postfix_canvas) - [FXYT: A tiny, stack-based, postfix canvas colouring language with 36 commands](https://susam.net/fxyt.html)
 * [2023-12-21, 07:03:22](https://lobste.rs/s/fi8a0i/freebsd_desktop_corner_actions) - [FreeBSD Desktop - Corner Actions](https://vermaden.wordpress.com/2023/12/21/freebsd-desktop-part-28-configuration-corner-actions/#respond)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-22](index.md)
 
+* [2023-12-22, 15:38:49](https://lobste.rs/s/qzzuu8/first_bits_haiku_compatibility_layer_for) - [First bits of a Haiku compatibility layer for NetBSD](https://www.osnews.com/story/137961/first-bits-of-a-haiku-compatibility-layer-for-netbsd/)
 * [2023-12-22, 15:28:07](https://lobste.rs/s/hv9q5z/so_you_want_optimize_your_code_also) - [So You Want to Optimize Your Code? (also, a disordered, confusing and absolutely incomplete oral history of Firefox performance)](https://yoric.github.io/post/so-you-want-to-optimize-your-code/)
 * [2023-12-22, 14:56:17](https://lobste.rs/s/aar0zx/dark_side_inlining_monomorphization) - [The dark side of inlining and monomorphization](https://nickb.dev/blog/the-dark-side-of-inlining-and-monomorphization/)
 * [2023-12-22, 14:10:04](https://lobste.rs/s/biwqce/ai_tool_fix_typos_by_generating_diff_file) - [AI tool to fix typos by generating a diff file?](https://lobste.rs/s/biwqce/ai_tool_fix_typos_by_generating_diff_file)
