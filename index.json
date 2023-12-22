@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-22, 18:51:00",
+      "https://lobste.rs/s/wltggb/elixir_v1_16_released"
+    ],
+    [
+      "Elixir v1.16 released",
+      "https://elixir-lang.org/blog/2023/12/22/elixir-v1-16-0-released/"
+    ]
+  ],
+  [
+    [
       "2023-12-22, 16:41:48",
       "https://lobste.rs/s/sjkjva/improving_supply_chain_security_through"
     ],
@@ -217,16 +227,6 @@
     [
       "Taking the Language Server Protocol one step further",
       "https://garnix.io/blog/taking-lsp-one-step-further"
-    ]
-  ],
-  [
-    [
-      "2023-12-21, 14:19:03",
-      "https://lobste.rs/s/jr02g0/vulkan_video_decode_first_frames"
-    ],
-    [
-      "Vulkan Video Decode: First Frames",
-      "https://poniesandlight.co.uk/reflect/island_video_decoder/"
     ]
   ],
   [
