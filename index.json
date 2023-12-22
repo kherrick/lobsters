@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-22, 15:28:07",
+      "https://lobste.rs/s/hv9q5z/so_you_want_optimize_your_code_also"
+    ],
+    [
+      "So You Want to Optimize Your Code? (also, a disordered, confusing and absolutely incomplete oral history of Firefox performance)",
+      "https://yoric.github.io/post/so-you-want-to-optimize-your-code/"
+    ]
+  ],
+  [
+    [
       "2023-12-22, 14:56:17",
       "https://lobste.rs/s/aar0zx/dark_side_inlining_monomorphization"
     ],
@@ -127,16 +137,6 @@
     [
       "Memory Safety is a Red Herring",
       "https://steveklabnik.com/writing/memory-safety-is-a-red-herring"
-    ]
-  ],
-  [
-    [
-      "2023-12-21, 22:08:25",
-      "https://lobste.rs/s/v2nb56/holiday_protocols_secret_santa_with"
-    ],
-    [
-      "Holiday protocols: secret santa with Quint - Formally specifying and model checking secret santa",
-      "https://github.com/informalsystems/quint/blob/main/tutorials/blogpost0-secretsanta/secret_santa.org"
     ]
   ],
   [
