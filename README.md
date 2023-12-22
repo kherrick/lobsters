@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-22, 16:41:48](https://lobste.rs/s/sjkjva/improving_supply_chain_security_through) - [Improving Supply Chain Security Through Artifact Signing](https://foundation.rust-lang.org/news/2023-12-21-improving-supply-chain-security/)
 * [2023-12-22, 16:30:11](https://lobste.rs/s/nyj3k7/real_time_change_data_capture_from) - [Real-time Change Data Capture from Postgres 16 Read Replicas](https://blog.peerdb.io/real-time-change-data-capture-from-postgres-16-read-replicas)
 * [2023-12-22, 15:38:49](https://lobste.rs/s/qzzuu8/first_bits_haiku_compatibility_layer_for) - [First bits of a Haiku compatibility layer for NetBSD](https://www.osnews.com/story/137961/first-bits-of-a-haiku-compatibility-layer-for-netbsd/)
 * [2023-12-22, 15:28:07](https://lobste.rs/s/hv9q5z/so_you_want_optimize_your_code_also) - [So You Want to Optimize Your Code? (also, a disordered, confusing and absolutely incomplete oral history of Firefox performance)](https://yoric.github.io/post/so-you-want-to-optimize-your-code/)
@@ -24,7 +25,6 @@
 * [2023-12-21, 14:19:03](https://lobste.rs/s/jr02g0/vulkan_video_decode_first_frames) - [Vulkan Video Decode: First Frames](https://poniesandlight.co.uk/reflect/island_video_decoder/)
 * [2023-12-21, 11:27:09](https://lobste.rs/s/k3yc1f/ownership_you_can_count_on) - [Ownership you can count on](https://muxup.com/2023q4/ownership-you-can-count-on)
 * [2023-12-21, 11:18:40](https://lobste.rs/s/akit0v/fxyt_tiny_stack_based_postfix_canvas) - [FXYT: A tiny, stack-based, postfix canvas colouring language with 36 commands](https://susam.net/fxyt.html)
-* [2023-12-21, 07:03:22](https://lobste.rs/s/fi8a0i/freebsd_desktop_corner_actions) - [FreeBSD Desktop - Corner Actions](https://vermaden.wordpress.com/2023/12/21/freebsd-desktop-part-28-configuration-corner-actions/#respond)
 
 ## [Archives](archives/index.md)
 
