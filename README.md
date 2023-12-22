@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-22, 14:56:17](https://lobste.rs/s/aar0zx/dark_side_inlining_monomorphization) - [The dark side of inlining and monomorphization](https://nickb.dev/blog/the-dark-side-of-inlining-and-monomorphization/)
 * [2023-12-22, 14:10:04](https://lobste.rs/s/biwqce/ai_tool_fix_typos_by_generating_diff_file) - [AI tool to fix typos by generating a diff file?](https://lobste.rs/s/biwqce/ai_tool_fix_typos_by_generating_diff_file)
 * [2023-12-22, 14:08:11](https://lobste.rs/s/fnxqjn/emacs_from_scratch_part_1_foundations) - [Emacs From Scratch, Part 1: Foundations](https://arne.me/articles/emacs-from-scratch-part-one-foundations)
 * [2023-12-22, 13:16:51](https://lobste.rs/s/50vsnh/my_happy_experience_with_graphql) - [My happy experience with Graphql subscriptions/websockets in the Scala ecosystem](https://valentin.willscher.de/posts/scala-praise)
@@ -24,7 +25,6 @@
 * [2023-12-21, 11:27:09](https://lobste.rs/s/k3yc1f/ownership_you_can_count_on) - [Ownership you can count on](https://muxup.com/2023q4/ownership-you-can-count-on)
 * [2023-12-21, 11:18:40](https://lobste.rs/s/akit0v/fxyt_tiny_stack_based_postfix_canvas) - [FXYT: A tiny, stack-based, postfix canvas colouring language with 36 commands](https://susam.net/fxyt.html)
 * [2023-12-21, 07:03:22](https://lobste.rs/s/fi8a0i/freebsd_desktop_corner_actions) - [FreeBSD Desktop - Corner Actions](https://vermaden.wordpress.com/2023/12/21/freebsd-desktop-part-28-configuration-corner-actions/#respond)
-* [2023-12-20, 18:11:17](https://lobste.rs/s/g7pksj/advice_for_new_software_devs_who_ve_read) - [Advice for new software devs who've read all those other advice essays](https://buttondown.email/hillelwayne/archive/advice-for-new-software-devs-whove-read-all-those/)
 
 ## [Archives](archives/index.md)
 
