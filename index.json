@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-22, 13:02:16",
+      "https://lobste.rs/s/r5ugyl/murder_at_end_world_are_you_vi_emacs"
+    ],
+    [
+      "A Murder at the End of the World: Are you Vi or Emacs?",
+      "https://xenodium.com/are-you-vi-or-emacs"
+    ]
+  ],
+  [
+    [
       "2023-12-22, 11:17:02",
       "https://lobste.rs/s/ax9xhd/what_are_you_doing_this_weekend"
     ],
@@ -187,16 +197,6 @@
     [
       "Vulkan Video Decode: First Frames",
       "https://poniesandlight.co.uk/reflect/island_video_decoder/"
-    ]
-  ],
-  [
-    [
-      "2023-12-21, 13:13:08",
-      "https://lobste.rs/s/qijf8p/my_reference_was_dropped_why_is_compiler"
-    ],
-    [
-      "My reference was dropped, why is the compiler complaining about multiple borrows?",
-      "https://ntietz.com/blog/my-reference-was-dropped-why-is-the-compiler-complaining-about-multiple-borrows/"
     ]
   ],
   [
