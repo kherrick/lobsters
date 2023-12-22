@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-22, 05:52:27](https://lobste.rs/s/hcixgh/are_you_smarter_than_llm) - [Are you smarter than an LLM?](https://d.erenrich.net/are-you-smarter-than-an-llm/index.html)
 * [2023-12-22, 05:32:27](https://lobste.rs/s/9j2dgt/email_xmpp_gateway) - [Email <=> XMPP gateway](https://nlnet.nl/project/EmailXMPPgateway/)
 * [2023-12-22, 04:09:27](https://lobste.rs/s/awutpf/what_we_need_instead_web_components) - [What We Need Instead of “Web Components”](https://blog.carlana.net/post/2023/web-component-alternative-futures/)
 * [2023-12-22, 03:58:57](https://lobste.rs/s/yzghjv/smtp_smuggling_spoofing_e_mails) - [SMTP Smuggling - Spoofing E-Mails Worldwide](https://sec-consult.com/blog/detail/smtp-smuggling-spoofing-e-mails-worldwide/)
 * [2023-12-21, 23:12:23](https://lobste.rs/s/e6tz0r/memory_safety_is_red_herring) - [Memory Safety is a Red Herring](https://steveklabnik.com/writing/memory-safety-is-a-red-herring)
 * [2023-12-21, 22:08:25](https://lobste.rs/s/v2nb56/holiday_protocols_secret_santa_with) - [Holiday protocols: secret santa with Quint - Formally specifying and model checking secret santa](https://github.com/informalsystems/quint/blob/main/tutorials/blogpost0-secretsanta/secret_santa.org)
 * [2023-12-21, 22:03:50](https://lobste.rs/s/ulmb7i/darktable_4_6_0_released) - [darktable 4.6.0 released](https://www.darktable.org/2023/12/darktable-4.6.0-released/)
-* [2023-12-21, 21:05:58](https://lobste.rs/s/og0rge/http_headers_note_for_synergizing_into) - [HTTP Headers of Note for Synergizing into a Cohesive Security Stratagem](https://posts.summerti.me/http-headers-of-note-for-synergizing-into-a-cohesive-security-stratagem/)
 * [2023-12-21, 19:07:30](https://lobste.rs/s/mx9p49/program_design_by_calculation) - [Program Design by Calculation](https://www4.di.uminho.pt/~jno/ps/pdbc.pdf)
 * [2023-12-21, 18:28:19](https://lobste.rs/s/qkhtuc/systemd_boot_full_disk_encryption) - [Systemd-boot and Full Disk Encryption in Tumbleweed and MicroOS](https://news.opensuse.org/2023/12/20/systemd-fde/)
 * [2023-12-21, 17:25:48](https://lobste.rs/s/zmactz/dos_on_dope_last_mvc_web_framework_you_ll) - [DOS on Dope: The last MVC web framework you'll ever need](https://secretgeek.net/dod_intro)
