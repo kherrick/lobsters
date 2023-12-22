@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-22, 06:08:03",
+      "https://lobste.rs/s/han5ij/osh_interactive_shell_screencasts"
+    ],
+    [
+      "OSH Interactive Shell Screencasts",
+      "https://www.oilshell.org/blog/2023/12/screencasts.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-22, 06:02:47",
+      "https://lobste.rs/s/jdr0vo/actual_ssh_over_https"
+    ],
+    [
+      "Actual SSH over HTTPS",
+      "https://trofi.github.io/posts/295-ssh-over-https.html"
+    ]
+  ],
+  [
+    [
       "2023-12-22, 05:52:27",
       "https://lobste.rs/s/hcixgh/are_you_smarter_than_llm"
     ],
@@ -77,16 +97,6 @@
     [
       "Program Design by Calculation",
       "https://www4.di.uminho.pt/~jno/ps/pdbc.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-12-21, 18:28:19",
-      "https://lobste.rs/s/qkhtuc/systemd_boot_full_disk_encryption"
-    ],
-    [
-      "Systemd-boot and Full Disk Encryption in Tumbleweed and MicroOS",
-      "https://news.opensuse.org/2023/12/20/systemd-fde/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "FXYT: A tiny, stack-based, postfix canvas colouring language with 36 commands",
       "https://susam.net/fxyt.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-21, 09:35:25",
-      "https://lobste.rs/s/vtk8wz/qubes_os_4_2_0_has_been_released"
-    ],
-    [
-      "Qubes OS 4.2.0 has been released",
-      "https://www.qubes-os.org/news/2023/12/18/qubes-os-4-2-0-has-been-released/"
     ]
   ],
   [
