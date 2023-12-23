@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-23, 20:06:18",
+      "https://lobste.rs/s/7fanxd/dear_diary"
+    ],
+    [
+      "Dear Diary",
+      "https://queue.acm.org/detail.cfm?id=3631181"
+    ]
+  ],
+  [
+    [
       "2023-12-23, 19:26:48",
       "https://lobste.rs/s/y6t9ky/qsv_csvs_sliced_diced_analyzed"
     ],
@@ -237,16 +247,6 @@
     [
       "Memory Safety is a Red Herring",
       "https://steveklabnik.com/writing/memory-safety-is-a-red-herring"
-    ]
-  ],
-  [
-    [
-      "2023-12-21, 15:19:38",
-      "https://lobste.rs/s/qceu0k/how_i_have_fun_with_rust"
-    ],
-    [
-      "How I Have Fun With Rust",
-      "https://thoughtbot.com/blog/how-i-have-fun-with-rust"
     ]
   ]
 ]
