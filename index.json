@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-23, 11:46:06",
+      "https://lobste.rs/s/bldffd/terminal_emulators_battle_royale"
+    ],
+    [
+      "Terminal Emulators Battle Royale – Unicode Edition",
+      "https://www.jeffquast.com/post/ucs-detect-test-results/"
+    ]
+  ],
+  [
+    [
       "2023-12-23, 07:44:28",
       "https://lobste.rs/s/muc9zd/diy_espresso"
     ],
@@ -97,16 +107,6 @@
     [
       "Improving Supply Chain Security Through Artifact Signing",
       "https://foundation.rust-lang.org/news/2023-12-21-improving-supply-chain-security/"
-    ]
-  ],
-  [
-    [
-      "2023-12-22, 16:30:11",
-      "https://lobste.rs/s/nyj3k7/real_time_change_data_capture_from"
-    ],
-    [
-      "Real-time Change Data Capture from Postgres 16 Read Replicas",
-      "https://blog.peerdb.io/real-time-change-data-capture-from-postgres-16-read-replicas"
     ]
   ],
   [
