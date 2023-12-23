@@ -10,6 +10,7 @@
 * [2023-12-22, 19:42:55](https://lobste.rs/s/u4fmvu/dependent_types_haskell_part_2) - [Dependent types in Haskell, Part 2](https://serokell.io/blog/ghc-dependent-types-in-haskell-2)
 * [2023-12-22, 18:51:00](https://lobste.rs/s/wltggb/elixir_v1_16_released) - [Elixir v1.16 released](https://elixir-lang.org/blog/2023/12/22/elixir-v1-16-0-released/)
 * [2023-12-22, 16:41:48](https://lobste.rs/s/sjkjva/improving_supply_chain_security_through) - [Improving Supply Chain Security Through Artifact Signing](https://foundation.rust-lang.org/news/2023-12-21-improving-supply-chain-security/)
+* [2023-12-22, 16:30:11](https://lobste.rs/s/nyj3k7/real_time_change_data_capture_from) - [Real-time Change Data Capture from Postgres 16 Read Replicas](https://blog.peerdb.io/real-time-change-data-capture-from-postgres-16-read-replicas)
 * [2023-12-22, 15:38:49](https://lobste.rs/s/qzzuu8/first_bits_haiku_compatibility_layer_for) - [First bits of a Haiku compatibility layer for NetBSD](https://www.osnews.com/story/137961/first-bits-of-a-haiku-compatibility-layer-for-netbsd/)
 * [2023-12-22, 15:28:07](https://lobste.rs/s/hv9q5z/so_you_want_optimize_your_code_also) - [So You Want to Optimize Your Code? (also, a disordered, confusing and absolutely incomplete oral history of Firefox performance)](https://yoric.github.io/post/so-you-want-to-optimize-your-code/)
 * [2023-12-22, 14:56:17](https://lobste.rs/s/aar0zx/dark_side_inlining_monomorphization) - [The dark side of inlining and monomorphization](https://nickb.dev/blog/the-dark-side-of-inlining-and-monomorphization/)
@@ -24,7 +25,6 @@
 * [2023-12-21, 23:12:23](https://lobste.rs/s/e6tz0r/memory_safety_is_red_herring) - [Memory Safety is a Red Herring](https://steveklabnik.com/writing/memory-safety-is-a-red-herring)
 * [2023-12-21, 22:03:50](https://lobste.rs/s/ulmb7i/darktable_4_6_0_released) - [darktable 4.6.0 released](https://www.darktable.org/2023/12/darktable-4.6.0-released/)
 * [2023-12-21, 15:19:38](https://lobste.rs/s/qceu0k/how_i_have_fun_with_rust) - [How I Have Fun With Rust](https://thoughtbot.com/blog/how-i-have-fun-with-rust)
-* [2023-12-21, 11:27:09](https://lobste.rs/s/k3yc1f/ownership_you_can_count_on) - [Ownership you can count on](https://muxup.com/2023q4/ownership-you-can-count-on)
 
 ## [Archives](archives/index.md)
 
