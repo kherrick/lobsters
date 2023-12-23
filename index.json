@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-23, 02:33:22",
+      "https://lobste.rs/s/c1jjek/12_languages_12_months"
+    ],
+    [
+      "12 Languages in 12 Months",
+      "https://xavd.id/blog/post/12-languages-in-12-months/"
+    ]
+  ],
+  [
+    [
       "2023-12-23, 02:03:09",
       "https://lobste.rs/s/pwv4kx/acer_aspire_1_arm_laptop_has_nearly"
     ],
@@ -217,16 +227,6 @@
     [
       "How I Have Fun With Rust",
       "https://thoughtbot.com/blog/how-i-have-fun-with-rust"
-    ]
-  ],
-  [
-    [
-      "2023-12-21, 15:06:18",
-      "https://lobste.rs/s/k0f93e/announcing_async_fn_return_position_impl"
-    ],
-    [
-      "Announcing `async fn` and return-position `impl Trait` in traits",
-      "https://blog.rust-lang.org/2023/12/21/async-fn-rpit-in-traits.html"
     ]
   ],
   [
