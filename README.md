@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-23, 21:45:17](https://lobste.rs/s/fdthds/copypasta) - [Copypasta](https://www.twoscomplement.org/podcast/copying_and_pasting.mp3)
 * [2023-12-23, 20:06:18](https://lobste.rs/s/7fanxd/dear_diary) - [Dear Diary](https://queue.acm.org/detail.cfm?id=3631181)
 * [2023-12-23, 19:26:48](https://lobste.rs/s/y6t9ky/qsv_csvs_sliced_diced_analyzed) - [qsv: CSVs sliced, diced & analyzed](https://github.com/jqnatividad/qsv)
 * [2023-12-23, 19:10:04](https://lobste.rs/s/v83csj/latest_xss_defense_trusted_types_built) - [Latest XSS Defense: Trusted Types and Built-in Sanitizer API](https://aszx87410.github.io/beyond-xss/en/ch2/trust-types/)
@@ -15,7 +16,6 @@
 * [2023-12-22, 19:44:23](https://lobste.rs/s/eopdwu/led_industrial_piercing) - [LED Industrial Piercing](https://mitxela.com/projects/scaffold)
 * [2023-12-22, 19:42:55](https://lobste.rs/s/u4fmvu/dependent_types_haskell_part_2) - [Dependent types in Haskell, Part 2](https://serokell.io/blog/ghc-dependent-types-in-haskell-2)
 * [2023-12-22, 18:51:00](https://lobste.rs/s/wltggb/elixir_v1_16_released) - [Elixir v1.16 released](https://elixir-lang.org/blog/2023/12/22/elixir-v1-16-0-released/)
-* [2023-12-22, 16:41:48](https://lobste.rs/s/sjkjva/improving_supply_chain_security_through) - [Improving Supply Chain Security Through Artifact Signing](https://foundation.rust-lang.org/news/2023-12-21-improving-supply-chain-security/)
 * [2023-12-22, 15:38:49](https://lobste.rs/s/qzzuu8/first_bits_haiku_compatibility_layer_for) - [First bits of a Haiku compatibility layer for NetBSD](https://www.osnews.com/story/137961/first-bits-of-a-haiku-compatibility-layer-for-netbsd/)
 * [2023-12-22, 15:28:07](https://lobste.rs/s/hv9q5z/so_you_want_optimize_your_code_also) - [So You Want to Optimize Your Code? (also, a disordered, confusing and absolutely incomplete oral history of Firefox performance)](https://yoric.github.io/post/so-you-want-to-optimize-your-code/)
 * [2023-12-22, 14:56:17](https://lobste.rs/s/aar0zx/dark_side_inlining_monomorphization) - [The dark side of inlining and monomorphization](https://nickb.dev/blog/the-dark-side-of-inlining-and-monomorphization/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-23](index.md)
 
+* [2023-12-23, 21:45:17](https://lobste.rs/s/fdthds/copypasta) - [Copypasta](https://www.twoscomplement.org/podcast/copying_and_pasting.mp3)
 * [2023-12-23, 20:06:18](https://lobste.rs/s/7fanxd/dear_diary) - [Dear Diary](https://queue.acm.org/detail.cfm?id=3631181)
 * [2023-12-23, 19:26:48](https://lobste.rs/s/y6t9ky/qsv_csvs_sliced_diced_analyzed) - [qsv: CSVs sliced, diced & analyzed](https://github.com/jqnatividad/qsv)
 * [2023-12-23, 19:10:04](https://lobste.rs/s/v83csj/latest_xss_defense_trusted_types_built) - [Latest XSS Defense: Trusted Types and Built-in Sanitizer API](https://aszx87410.github.io/beyond-xss/en/ch2/trust-types/)
