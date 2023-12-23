@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-23, 02:03:09](https://lobste.rs/s/pwv4kx/acer_aspire_1_arm_laptop_has_nearly) - [Acer Aspire 1 ARM Laptop Has Nearly Complete Upstream Linux Support](https://www.phoronix.com/news/Acer-Aspire-1-EC-Linux-Complete)
 * [2023-12-23, 01:09:26](https://lobste.rs/s/xoby7f/go_1_22_interactive_release_notes) - [Go 1.22: Interactive Release Notes](https://antonz.org/go-1-22/)
 * [2023-12-22, 20:30:51](https://lobste.rs/s/bgbg8t/dial_up_over_discord_call) - [Dial-up over a Discord Call](https://www.lilysthings.org/blog/discord-dialup/)
 * [2023-12-22, 19:44:23](https://lobste.rs/s/eopdwu/led_industrial_piercing) - [LED Industrial Piercing](https://mitxela.com/projects/scaffold)
@@ -15,7 +16,6 @@
 * [2023-12-22, 13:16:51](https://lobste.rs/s/50vsnh/my_happy_experience_with_graphql) - [My happy experience with Graphql subscriptions/websockets in the Scala ecosystem](https://valentin.willscher.de/posts/scala-praise)
 * [2023-12-22, 13:02:16](https://lobste.rs/s/r5ugyl/murder_at_end_world_are_you_vi_emacs) - [A Murder at the End of the World: Are you Vi or Emacs?](https://xenodium.com/are-you-vi-or-emacs)
 * [2023-12-22, 11:17:02](https://lobste.rs/s/ax9xhd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ax9xhd/what_are_you_doing_this_weekend)
-* [2023-12-22, 08:00:27](https://lobste.rs/s/skmk4g/running_traefik_less_braindead_way) - [Running traefik in a less braindead way](https://wejn.org/2023/11/running-traefik-in-a-less-braindead-way/)
 * [2023-12-22, 06:08:03](https://lobste.rs/s/han5ij/osh_interactive_shell_screencasts) - [OSH Interactive Shell Screencasts](https://www.oilshell.org/blog/2023/12/screencasts.html)
 * [2023-12-22, 06:02:47](https://lobste.rs/s/jdr0vo/ssh_over_https) - [SSH over HTTPS](https://trofi.github.io/posts/295-ssh-over-https.html)
 * [2023-12-22, 04:09:27](https://lobste.rs/s/awutpf/what_we_need_instead_web_components) - [What We Need Instead of “Web Components”](https://blog.carlana.net/post/2023/web-component-alternative-futures/)
