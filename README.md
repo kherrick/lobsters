@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-23, 01:09:26](https://lobste.rs/s/xoby7f/go_1_22_interactive_release_notes) - [Go 1.22: Interactive Release Notes](https://antonz.org/go-1-22/)
 * [2023-12-22, 20:30:51](https://lobste.rs/s/bgbg8t/dial_up_over_discord_call) - [Dial-up over a Discord Call](https://www.lilysthings.org/blog/discord-dialup/)
 * [2023-12-22, 19:44:23](https://lobste.rs/s/eopdwu/led_industrial_piercing) - [LED Industrial Piercing](https://mitxela.com/projects/scaffold)
 * [2023-12-22, 19:42:55](https://lobste.rs/s/u4fmvu/dependent_types_haskell_part_2) - [Dependent types in Haskell, Part 2](https://serokell.io/blog/ghc-dependent-types-in-haskell-2)
@@ -14,15 +15,14 @@
 * [2023-12-22, 13:16:51](https://lobste.rs/s/50vsnh/my_happy_experience_with_graphql) - [My happy experience with Graphql subscriptions/websockets in the Scala ecosystem](https://valentin.willscher.de/posts/scala-praise)
 * [2023-12-22, 13:02:16](https://lobste.rs/s/r5ugyl/murder_at_end_world_are_you_vi_emacs) - [A Murder at the End of the World: Are you Vi or Emacs?](https://xenodium.com/are-you-vi-or-emacs)
 * [2023-12-22, 11:17:02](https://lobste.rs/s/ax9xhd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ax9xhd/what_are_you_doing_this_weekend)
+* [2023-12-22, 08:00:27](https://lobste.rs/s/skmk4g/running_traefik_less_braindead_way) - [Running traefik in a less braindead way](https://wejn.org/2023/11/running-traefik-in-a-less-braindead-way/)
 * [2023-12-22, 06:08:03](https://lobste.rs/s/han5ij/osh_interactive_shell_screencasts) - [OSH Interactive Shell Screencasts](https://www.oilshell.org/blog/2023/12/screencasts.html)
 * [2023-12-22, 06:02:47](https://lobste.rs/s/jdr0vo/ssh_over_https) - [SSH over HTTPS](https://trofi.github.io/posts/295-ssh-over-https.html)
-* [2023-12-22, 05:32:27](https://lobste.rs/s/9j2dgt/email_xmpp_gateway) - [Email <=> XMPP gateway](https://nlnet.nl/project/EmailXMPPgateway/)
 * [2023-12-22, 04:09:27](https://lobste.rs/s/awutpf/what_we_need_instead_web_components) - [What We Need Instead of “Web Components”](https://blog.carlana.net/post/2023/web-component-alternative-futures/)
 * [2023-12-21, 23:12:23](https://lobste.rs/s/e6tz0r/memory_safety_is_red_herring) - [Memory Safety is a Red Herring](https://steveklabnik.com/writing/memory-safety-is-a-red-herring)
 * [2023-12-21, 22:03:50](https://lobste.rs/s/ulmb7i/darktable_4_6_0_released) - [darktable 4.6.0 released](https://www.darktable.org/2023/12/darktable-4.6.0-released/)
 * [2023-12-21, 15:19:38](https://lobste.rs/s/qceu0k/how_i_have_fun_with_rust) - [How I Have Fun With Rust](https://thoughtbot.com/blog/how-i-have-fun-with-rust)
 * [2023-12-21, 15:06:18](https://lobste.rs/s/k0f93e/announcing_async_fn_return_position_impl) - [Announcing `async fn` and return-position `impl Trait` in traits](https://blog.rust-lang.org/2023/12/21/async-fn-rpit-in-traits.html)
-* [2023-12-21, 14:51:21](https://lobste.rs/s/ucvib8/do_we_need_rethink_what_free_software_is) - [Do we need to rethink what free software is? (2019)](https://mjg59.dreamwidth.org/52907.html)
 * [2023-12-21, 11:27:09](https://lobste.rs/s/k3yc1f/ownership_you_can_count_on) - [Ownership you can count on](https://muxup.com/2023q4/ownership-you-can-count-on)
 * [2023-12-21, 11:18:40](https://lobste.rs/s/akit0v/fxyt_tiny_stack_based_postfix_canvas) - [FXYT: A tiny, stack-based, postfix canvas colouring language with 36 commands](https://susam.net/fxyt.html)
 
