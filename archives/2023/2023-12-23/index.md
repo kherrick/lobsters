@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-23](index.md)
 
+* [2023-12-23, 19:26:48](https://lobste.rs/s/y6t9ky/qsv_csvs_sliced_diced_analyzed) - [qsv: CSVs sliced, diced & analyzed](https://github.com/jqnatividad/qsv)
 * [2023-12-23, 19:10:04](https://lobste.rs/s/v83csj/latest_xss_defense_trusted_types_built) - [Latest XSS Defense: Trusted Types and Built-in Sanitizer API](https://aszx87410.github.io/beyond-xss/en/ch2/trust-types/)
 * [2023-12-23, 17:51:21](https://lobste.rs/s/4tjfia/github_actions_feels_bad) - [GitHub Actions Feels Bad](https://www.youtube.com/watch?v=9qljpi5jiMQ)
 * [2023-12-23, 16:04:22](https://lobste.rs/s/ubc78c/heynote_dedicated_scratchpad_for) - [Heynote - A dedicated scratchpad for developers](https://heynote.com/)

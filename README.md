@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-23, 19:26:48](https://lobste.rs/s/y6t9ky/qsv_csvs_sliced_diced_analyzed) - [qsv: CSVs sliced, diced & analyzed](https://github.com/jqnatividad/qsv)
 * [2023-12-23, 19:10:04](https://lobste.rs/s/v83csj/latest_xss_defense_trusted_types_built) - [Latest XSS Defense: Trusted Types and Built-in Sanitizer API](https://aszx87410.github.io/beyond-xss/en/ch2/trust-types/)
 * [2023-12-23, 17:51:21](https://lobste.rs/s/4tjfia/github_actions_feels_bad) - [GitHub Actions Feels Bad](https://www.youtube.com/watch?v=9qljpi5jiMQ)
 * [2023-12-23, 16:04:22](https://lobste.rs/s/ubc78c/heynote_dedicated_scratchpad_for) - [Heynote - A dedicated scratchpad for developers](https://heynote.com/)
@@ -20,7 +21,6 @@
 * [2023-12-22, 14:08:11](https://lobste.rs/s/fnxqjn/emacs_from_scratch_part_1_foundations) - [Emacs From Scratch, Part 1: Foundations](https://arne.me/articles/emacs-from-scratch-part-one-foundations)
 * [2023-12-22, 13:02:16](https://lobste.rs/s/r5ugyl/murder_at_end_world_are_you_vi_emacs) - [A Murder at the End of the World: Are you Vi or Emacs?](https://xenodium.com/are-you-vi-or-emacs)
 * [2023-12-22, 11:17:02](https://lobste.rs/s/ax9xhd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ax9xhd/what_are_you_doing_this_weekend)
-* [2023-12-22, 06:08:03](https://lobste.rs/s/han5ij/osh_interactive_shell_screencasts) - [OSH Interactive Shell Screencasts](https://www.oilshell.org/blog/2023/12/screencasts.html)
 * [2023-12-22, 06:02:47](https://lobste.rs/s/jdr0vo/ssh_over_https) - [SSH over HTTPS](https://trofi.github.io/posts/295-ssh-over-https.html)
 * [2023-12-22, 04:09:27](https://lobste.rs/s/awutpf/what_we_need_instead_web_components) - [What We Need Instead of “Web Components”](https://blog.carlana.net/post/2023/web-component-alternative-futures/)
 * [2023-12-21, 23:12:23](https://lobste.rs/s/e6tz0r/memory_safety_is_red_herring) - [Memory Safety is a Red Herring](https://steveklabnik.com/writing/memory-safety-is-a-red-herring)
