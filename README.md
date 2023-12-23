@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-23, 02:55:11](https://lobste.rs/s/uqy8bb/celebrating_first_nes_tetris_game_crash) - [Celebrating the first NES Tetris game crash](https://biggieblog.com/celebrating-the-first-nes-tetris-game-crash/)
 * [2023-12-23, 02:33:22](https://lobste.rs/s/c1jjek/12_languages_12_months) - [12 Languages in 12 Months](https://xavd.id/blog/post/12-languages-in-12-months/)
 * [2023-12-23, 02:03:09](https://lobste.rs/s/pwv4kx/acer_aspire_1_arm_laptop_has_nearly) - [Acer Aspire 1 ARM Laptop Has Nearly Complete Upstream Linux Support](https://www.phoronix.com/news/Acer-Aspire-1-EC-Linux-Complete)
 * [2023-12-23, 01:09:26](https://lobste.rs/s/xoby7f/go_1_22_interactive_release_notes) - [Go 1.22: Interactive Release Notes](https://antonz.org/go-1-22/)
@@ -8,7 +9,6 @@
 * [2023-12-22, 19:42:55](https://lobste.rs/s/u4fmvu/dependent_types_haskell_part_2) - [Dependent types in Haskell, Part 2](https://serokell.io/blog/ghc-dependent-types-in-haskell-2)
 * [2023-12-22, 18:51:00](https://lobste.rs/s/wltggb/elixir_v1_16_released) - [Elixir v1.16 released](https://elixir-lang.org/blog/2023/12/22/elixir-v1-16-0-released/)
 * [2023-12-22, 16:41:48](https://lobste.rs/s/sjkjva/improving_supply_chain_security_through) - [Improving Supply Chain Security Through Artifact Signing](https://foundation.rust-lang.org/news/2023-12-21-improving-supply-chain-security/)
-* [2023-12-22, 16:30:11](https://lobste.rs/s/nyj3k7/real_time_change_data_capture_from) - [Real-time Change Data Capture from Postgres 16 Read Replicas](https://blog.peerdb.io/real-time-change-data-capture-from-postgres-16-read-replicas)
 * [2023-12-22, 15:38:49](https://lobste.rs/s/qzzuu8/first_bits_haiku_compatibility_layer_for) - [First bits of a Haiku compatibility layer for NetBSD](https://www.osnews.com/story/137961/first-bits-of-a-haiku-compatibility-layer-for-netbsd/)
 * [2023-12-22, 15:28:07](https://lobste.rs/s/hv9q5z/so_you_want_optimize_your_code_also) - [So You Want to Optimize Your Code? (also, a disordered, confusing and absolutely incomplete oral history of Firefox performance)](https://yoric.github.io/post/so-you-want-to-optimize-your-code/)
 * [2023-12-22, 14:56:17](https://lobste.rs/s/aar0zx/dark_side_inlining_monomorphization) - [The dark side of inlining and monomorphization](https://nickb.dev/blog/the-dark-side-of-inlining-and-monomorphization/)
