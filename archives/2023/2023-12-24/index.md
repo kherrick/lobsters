@@ -1,0 +1,8 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-12-24](index.md)
+
+* [2023-12-24, 02:06:56](https://lobste.rs/s/adlbgi/unveiling_big_leap_ruby_3_3_s_irb) - [Unveiling the big leap in Ruby 3.3’s IRB](https://railsatscale.com/2023-12-19-irb-for-ruby-3-3/)
+* [2023-12-24, 02:01:55](https://lobste.rs/s/ssluph/on_chains_complex_systems) - [On chains and complex systems](https://surfingcomplexity.blog/2023/12/23/on-chains-and-complex-systems/)
