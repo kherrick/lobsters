@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-24, 18:59:05](https://lobste.rs/s/eqyilp/d2_declarative_diagramming) - [D2: Declarative Diagramming](https://d2lang.com)
 * [2023-12-24, 18:21:42](https://lobste.rs/s/lee9aa/happy_holidays_crustaceans) - [Happy Holidays, crustaceans](https://lobste.rs/s/lee9aa/happy_holidays_crustaceans)
 * [2023-12-24, 18:15:22](https://lobste.rs/s/qq1n4v/what_is_parser_mismatch_vulnerability) - [What is a parser mismatch vulnerability?](https://www.brainonfire.net/blog/2022/04/11/what-is-parser-mismatch/)
 * [2023-12-24, 17:29:11](https://lobste.rs/s/faarcc/you_don_t_need_analytics_on_your_blog) - [You don't need analytics on your blog](https://blog.yossarian.net/2023/12/24/You-dont-need-analytics-on-your-blog)
@@ -17,7 +18,6 @@
 * [2023-12-24, 02:06:56](https://lobste.rs/s/adlbgi/unveiling_big_leap_ruby_3_3_s_irb) - [Unveiling the big leap in Ruby 3.3’s IRB](https://railsatscale.com/2023-12-19-irb-for-ruby-3-3/)
 * [2023-12-24, 02:01:55](https://lobste.rs/s/ssluph/on_chains_complex_systems) - [On chains and complex systems](https://surfingcomplexity.blog/2023/12/23/on-chains-and-complex-systems/)
 * [2023-12-23, 20:06:18](https://lobste.rs/s/7fanxd/dear_diary) - [Dear Diary](https://queue.acm.org/detail.cfm?id=3631181)
-* [2023-12-23, 19:26:48](https://lobste.rs/s/y6t9ky/qsv_csvs_sliced_diced_analyzed) - [qsv: CSVs sliced, diced & analyzed](https://github.com/jqnatividad/qsv)
 * [2023-12-23, 17:51:21](https://lobste.rs/s/4tjfia/github_actions_feels_bad) - [GitHub Actions Feels Bad](https://www.youtube.com/watch?v=9qljpi5jiMQ)
 * [2023-12-23, 16:04:22](https://lobste.rs/s/ubc78c/heynote_dedicated_scratchpad_for) - [Heynote - A dedicated scratchpad for developers](https://heynote.com/)
 * [2023-12-23, 11:46:06](https://lobste.rs/s/bldffd/terminal_emulators_battle_royale) - [Terminal Emulators Battle Royale – Unicode Edition](https://www.jeffquast.com/post/ucs-detect-test-results/)

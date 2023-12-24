@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-24](index.md)
 
+* [2023-12-24, 18:59:05](https://lobste.rs/s/eqyilp/d2_declarative_diagramming) - [D2: Declarative Diagramming](https://d2lang.com)
 * [2023-12-24, 18:21:42](https://lobste.rs/s/lee9aa/happy_holidays_crustaceans) - [Happy Holidays, crustaceans](https://lobste.rs/s/lee9aa/happy_holidays_crustaceans)
 * [2023-12-24, 18:15:22](https://lobste.rs/s/qq1n4v/what_is_parser_mismatch_vulnerability) - [What is a parser mismatch vulnerability?](https://www.brainonfire.net/blog/2022/04/11/what-is-parser-mismatch/)
 * [2023-12-24, 17:29:11](https://lobste.rs/s/faarcc/you_don_t_need_analytics_on_your_blog) - [You don't need analytics on your blog](https://blog.yossarian.net/2023/12/24/You-dont-need-analytics-on-your-blog)
