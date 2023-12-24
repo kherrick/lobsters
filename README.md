@@ -17,6 +17,7 @@
 * [2023-12-23, 01:09:26](https://lobste.rs/s/xoby7f/go_1_22_interactive_release_notes) - [Go 1.22: Interactive Release Notes](https://antonz.org/go-1-22/)
 * [2023-12-22, 20:30:51](https://lobste.rs/s/bgbg8t/dial_up_over_discord_call) - [Dial-up over a Discord Call](https://www.lilysthings.org/blog/discord-dialup/)
 * [2023-12-22, 19:44:23](https://lobste.rs/s/eopdwu/led_industrial_piercing) - [LED Industrial Piercing](https://mitxela.com/projects/scaffold)
+* [2023-12-22, 19:42:55](https://lobste.rs/s/u4fmvu/dependent_types_haskell_part_2) - [Dependent types in Haskell, Part 2](https://serokell.io/blog/ghc-dependent-types-in-haskell-2)
 * [2023-12-22, 18:51:00](https://lobste.rs/s/wltggb/elixir_v1_16_released) - [Elixir v1.16 released](https://elixir-lang.org/blog/2023/12/22/elixir-v1-16-0-released/)
 * [2023-12-22, 15:28:07](https://lobste.rs/s/hv9q5z/so_you_want_optimize_your_code_also) - [So You Want to Optimize Your Code? (also, a disordered, confusing and absolutely incomplete oral history of Firefox performance)](https://yoric.github.io/post/so-you-want-to-optimize-your-code/)
 * [2023-12-22, 14:56:17](https://lobste.rs/s/aar0zx/dark_side_inlining_monomorphization) - [The dark side of inlining and monomorphization](https://nickb.dev/blog/the-dark-side-of-inlining-and-monomorphization/)
@@ -24,7 +25,6 @@
 * [2023-12-22, 13:02:16](https://lobste.rs/s/r5ugyl/murder_at_end_world_are_you_vi_emacs) - [A Murder at the End of the World: Are you Vi or Emacs?](https://xenodium.com/are-you-vi-or-emacs)
 * [2023-12-22, 06:02:47](https://lobste.rs/s/jdr0vo/ssh_over_https) - [SSH over HTTPS](https://trofi.github.io/posts/295-ssh-over-https.html)
 * [2023-12-22, 04:09:27](https://lobste.rs/s/awutpf/what_we_need_instead_web_components) - [What We Need Instead of “Web Components”](https://blog.carlana.net/post/2023/web-component-alternative-futures/)
-* [2023-12-21, 23:12:23](https://lobste.rs/s/e6tz0r/memory_safety_is_red_herring) - [Memory Safety is a Red Herring](https://steveklabnik.com/writing/memory-safety-is-a-red-herring)
 
 ## [Archives](archives/index.md)
 
