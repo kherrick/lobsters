@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-24, 17:29:11](https://lobste.rs/s/faarcc/you_don_t_need_analytics_on_your_blog) - [You don't need analytics on your blog](https://blog.yossarian.net/2023/12/24/You-dont-need-analytics-on-your-blog)
 * [2023-12-24, 17:22:39](https://lobste.rs/s/hoipxx/kernel_string_overcopying) - [Kernel string overcopying](https://dxuuu.xyz/string-overcopy.html)
 * [2023-12-24, 16:43:54](https://lobste.rs/s/7xmbah/reducing_code_size_using_outlining_2016) - [Reducing Code Size Using Outlining (2016)](https://www.youtube.com/watch?v=yorld-WSOeU)
 * [2023-12-24, 16:39:29](https://lobste.rs/s/jhkb6j/why_large_language_models_threaten) - [Why large language models threaten learning, teaching, and education](https://medium.com/bits-and-behavior/more-than-calculators-why-large-language-models-threaten-public-education-480dd5300939)
@@ -15,7 +16,6 @@
 * [2023-12-24, 02:01:55](https://lobste.rs/s/ssluph/on_chains_complex_systems) - [On chains and complex systems](https://surfingcomplexity.blog/2023/12/23/on-chains-and-complex-systems/)
 * [2023-12-23, 20:06:18](https://lobste.rs/s/7fanxd/dear_diary) - [Dear Diary](https://queue.acm.org/detail.cfm?id=3631181)
 * [2023-12-23, 19:26:48](https://lobste.rs/s/y6t9ky/qsv_csvs_sliced_diced_analyzed) - [qsv: CSVs sliced, diced & analyzed](https://github.com/jqnatividad/qsv)
-* [2023-12-23, 19:10:04](https://lobste.rs/s/v83csj/latest_xss_defense_trusted_types_built) - [Latest XSS Defense: Trusted Types and Built-in Sanitizer API](https://aszx87410.github.io/beyond-xss/en/ch2/trust-types/)
 * [2023-12-23, 17:51:21](https://lobste.rs/s/4tjfia/github_actions_feels_bad) - [GitHub Actions Feels Bad](https://www.youtube.com/watch?v=9qljpi5jiMQ)
 * [2023-12-23, 16:04:22](https://lobste.rs/s/ubc78c/heynote_dedicated_scratchpad_for) - [Heynote - A dedicated scratchpad for developers](https://heynote.com/)
 * [2023-12-23, 11:46:06](https://lobste.rs/s/bldffd/terminal_emulators_battle_royale) - [Terminal Emulators Battle Royale – Unicode Edition](https://www.jeffquast.com/post/ucs-detect-test-results/)
