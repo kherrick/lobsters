@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-24](index.md)
 
+* [2023-12-24, 16:39:29](https://lobste.rs/s/jhkb6j/why_large_language_models_threaten) - [Why large language models threaten learning, teaching, and education](https://medium.com/bits-and-behavior/more-than-calculators-why-large-language-models-threaten-public-education-480dd5300939)
 * [2023-12-24, 16:07:28](https://lobste.rs/s/xcz6nn/plasma_wayland_today) - [Plasma Wayland Today](https://pappp.net/?p=59645)
 * [2023-12-24, 15:27:39](https://lobste.rs/s/2sw716/debugging_dockerized_python_apps_vscode) - [Debugging dockerized Python apps in VSCode](https://rednafi.com/python/debug_dockerized_apps_in_vscode/)
 * [2023-12-24, 12:27:25](https://lobste.rs/s/nldfgd/kakoune_philosophy) - [The Kakoune Philosophy](https://phaazon.net/blog/kakoune-philosophy)
