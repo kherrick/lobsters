@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-12-22, 19:42:55",
+      "https://lobste.rs/s/u4fmvu/dependent_types_haskell_part_2"
+    ],
+    [
+      "Dependent types in Haskell, Part 2",
+      "https://serokell.io/blog/ghc-dependent-types-in-haskell-2"
+    ]
+  ],
+  [
+    [
       "2023-12-22, 18:51:00",
       "https://lobste.rs/s/wltggb/elixir_v1_16_released"
     ],
@@ -237,16 +247,6 @@
     [
       "What We Need Instead of “Web Components”",
       "https://blog.carlana.net/post/2023/web-component-alternative-futures/"
-    ]
-  ],
-  [
-    [
-      "2023-12-21, 23:12:23",
-      "https://lobste.rs/s/e6tz0r/memory_safety_is_red_herring"
-    ],
-    [
-      "Memory Safety is a Red Herring",
-      "https://steveklabnik.com/writing/memory-safety-is-a-red-herring"
     ]
   ]
 ]
