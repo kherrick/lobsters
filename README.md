@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-24, 12:27:25](https://lobste.rs/s/nldfgd/kakoune_philosophy) - [The Kakoune Philosophy](https://phaazon.net/blog/kakoune-philosophy)
 * [2023-12-24, 12:18:18](https://lobste.rs/s/bn96et/risc_y_business_raging_against_reduced) - [RISC-Y Business: Raging against the reduced machine](https://secret.club/2023/12/24/riscy-business.html)
 * [2023-12-24, 10:03:54](https://lobste.rs/s/ogdyzt/ci_dream) - [CI Dream](https://matklad.github.io/2023/12/24/ci-dream.html)
 * [2023-12-24, 08:48:38](https://lobste.rs/s/vhi7yd/whatever_happened_programming_2010) - [Whatever happened to programming? (2010)](https://reprog.wordpress.com/2010/03/03/whatever-happened-to-programming/)
@@ -17,7 +18,6 @@
 * [2023-12-23, 07:44:28](https://lobste.rs/s/muc9zd/diy_espresso) - [DIY Espresso](https://www.fourbardesign.com/2020/10/diy-espresso.html?m=1)
 * [2023-12-23, 02:55:11](https://lobste.rs/s/uqy8bb/celebrating_first_nes_tetris_game_crash) - [Celebrating the first NES Tetris game crash](https://biggieblog.com/celebrating-the-first-nes-tetris-game-crash/)
 * [2023-12-23, 02:33:22](https://lobste.rs/s/c1jjek/12_languages_12_months) - [12 Languages in 12 Months](https://xavd.id/blog/post/12-languages-in-12-months/)
-* [2023-12-23, 02:03:09](https://lobste.rs/s/pwv4kx/acer_aspire_1_arm_laptop_has_nearly) - [Acer Aspire 1 ARM Laptop Has Nearly Complete Upstream Linux Support](https://www.phoronix.com/news/Acer-Aspire-1-EC-Linux-Complete)
 * [2023-12-23, 01:09:26](https://lobste.rs/s/xoby7f/go_1_22_interactive_release_notes) - [Go 1.22: Interactive Release Notes](https://antonz.org/go-1-22/)
 * [2023-12-22, 20:30:51](https://lobste.rs/s/bgbg8t/dial_up_over_discord_call) - [Dial-up over a Discord Call](https://www.lilysthings.org/blog/discord-dialup/)
 * [2023-12-22, 19:44:23](https://lobste.rs/s/eopdwu/led_industrial_piercing) - [LED Industrial Piercing](https://mitxela.com/projects/scaffold)
