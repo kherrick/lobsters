@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-24, 08:15:30](https://lobste.rs/s/hdokyh/meilisearch_expands_search_power_with) - [Meilisearch Expands Search Power with Arroy's Filtered Disk ANN](https://blog.kerollmops.com/meilisearch-expands-search-power-with-arroy-s-filtered-disk-ann)
 * [2023-12-24, 03:23:36](https://lobste.rs/s/woqgjw/when_power_macintosh_ran_netware) - [When the Power Macintosh ran NetWare (featuring Wormhole and Cyberpunk)](https://oldvcr.blogspot.com/2023/12/when-power-macintosh-ran-netware.html)
 * [2023-12-24, 02:06:56](https://lobste.rs/s/adlbgi/unveiling_big_leap_ruby_3_3_s_irb) - [Unveiling the big leap in Ruby 3.3’s IRB](https://railsatscale.com/2023-12-19-irb-for-ruby-3-3/)
 * [2023-12-24, 02:01:55](https://lobste.rs/s/ssluph/on_chains_complex_systems) - [On chains and complex systems](https://surfingcomplexity.blog/2023/12/23/on-chains-and-complex-systems/)
@@ -17,7 +18,6 @@
 * [2023-12-23, 01:09:26](https://lobste.rs/s/xoby7f/go_1_22_interactive_release_notes) - [Go 1.22: Interactive Release Notes](https://antonz.org/go-1-22/)
 * [2023-12-22, 20:30:51](https://lobste.rs/s/bgbg8t/dial_up_over_discord_call) - [Dial-up over a Discord Call](https://www.lilysthings.org/blog/discord-dialup/)
 * [2023-12-22, 19:44:23](https://lobste.rs/s/eopdwu/led_industrial_piercing) - [LED Industrial Piercing](https://mitxela.com/projects/scaffold)
-* [2023-12-22, 19:42:55](https://lobste.rs/s/u4fmvu/dependent_types_haskell_part_2) - [Dependent types in Haskell, Part 2](https://serokell.io/blog/ghc-dependent-types-in-haskell-2)
 * [2023-12-22, 18:51:00](https://lobste.rs/s/wltggb/elixir_v1_16_released) - [Elixir v1.16 released](https://elixir-lang.org/blog/2023/12/22/elixir-v1-16-0-released/)
 * [2023-12-22, 15:28:07](https://lobste.rs/s/hv9q5z/so_you_want_optimize_your_code_also) - [So You Want to Optimize Your Code? (also, a disordered, confusing and absolutely incomplete oral history of Firefox performance)](https://yoric.github.io/post/so-you-want-to-optimize-your-code/)
 * [2023-12-22, 14:56:17](https://lobste.rs/s/aar0zx/dark_side_inlining_monomorphization) - [The dark side of inlining and monomorphization](https://nickb.dev/blog/the-dark-side-of-inlining-and-monomorphization/)
