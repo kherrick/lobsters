@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-24, 10:03:54](https://lobste.rs/s/ogdyzt/ci_dream) - [CI Dream](https://matklad.github.io/2023/12/24/ci-dream.html)
 * [2023-12-24, 08:48:38](https://lobste.rs/s/vhi7yd/whatever_happened_programming_2010) - [Whatever happened to programming? (2010)](https://reprog.wordpress.com/2010/03/03/whatever-happened-to-programming/)
 * [2023-12-24, 08:15:30](https://lobste.rs/s/hdokyh/meilisearch_expands_search_power_with) - [Meilisearch Expands Search Power with Arroy's Filtered Disk ANN](https://blog.kerollmops.com/meilisearch-expands-search-power-with-arroy-s-filtered-disk-ann)
 * [2023-12-24, 03:23:36](https://lobste.rs/s/woqgjw/when_power_macintosh_ran_netware) - [When the Power Macintosh ran NetWare (featuring Wormhole and Cyberpunk)](https://oldvcr.blogspot.com/2023/12/when-power-macintosh-ran-netware.html)
@@ -24,7 +25,6 @@
 * [2023-12-22, 14:56:17](https://lobste.rs/s/aar0zx/dark_side_inlining_monomorphization) - [The dark side of inlining and monomorphization](https://nickb.dev/blog/the-dark-side-of-inlining-and-monomorphization/)
 * [2023-12-22, 14:08:11](https://lobste.rs/s/fnxqjn/emacs_from_scratch_part_1_foundations) - [Emacs From Scratch, Part 1: Foundations](https://arne.me/articles/emacs-from-scratch-part-one-foundations)
 * [2023-12-22, 13:02:16](https://lobste.rs/s/r5ugyl/murder_at_end_world_are_you_vi_emacs) - [A Murder at the End of the World: Are you Vi or Emacs?](https://xenodium.com/are-you-vi-or-emacs)
-* [2023-12-22, 04:09:27](https://lobste.rs/s/awutpf/what_we_need_instead_web_components) - [What We Need Instead of “Web Components”](https://blog.carlana.net/post/2023/web-component-alternative-futures/)
 
 ## [Archives](archives/index.md)
 
