@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-24](index.md)
 
+* [2023-12-24, 12:18:18](https://lobste.rs/s/bn96et/risc_y_business_raging_against_reduced) - [RISC-Y Business: Raging against the reduced machine](https://secret.club/2023/12/24/riscy-business.html)
 * [2023-12-24, 10:03:54](https://lobste.rs/s/ogdyzt/ci_dream) - [CI Dream](https://matklad.github.io/2023/12/24/ci-dream.html)
 * [2023-12-24, 08:48:38](https://lobste.rs/s/vhi7yd/whatever_happened_programming_2010) - [Whatever happened to programming? (2010)](https://reprog.wordpress.com/2010/03/03/whatever-happened-to-programming/)
 * [2023-12-24, 08:15:30](https://lobste.rs/s/hdokyh/meilisearch_expands_search_power_with) - [Meilisearch Expands Search Power with Arroy's Filtered Disk ANN](https://blog.kerollmops.com/meilisearch-expands-search-power-with-arroy-s-filtered-disk-ann)
