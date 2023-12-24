@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-24, 22:44:29](https://lobste.rs/s/iyfgfd/software_engineering_s_greatest_hits) - [Software Engineering's Greatest Hits](https://third-bit.com/2021/07/17/software-engineerings-greatest-hits/)
 * [2023-12-24, 20:51:56](https://lobste.rs/s/sn4bmp/using_qt_for_mobile_2023) - [Using Qt for Mobile in 2023](https://camg.me/qt-mobile-2023/)
 * [2023-12-24, 20:28:41](https://lobste.rs/s/v36cza/code_it_yourself_first_person_shooter) - [Code-It-Yourself! First Person Shooter (Quick and Simple C++)](https://www.youtube.com/watch?v=xW8skO7MFYw)
 * [2023-12-24, 18:59:05](https://lobste.rs/s/eqyilp/d2_declarative_diagramming) - [D2: Declarative Diagramming](https://d2lang.com)
@@ -23,7 +24,6 @@
 * [2023-12-23, 16:04:22](https://lobste.rs/s/ubc78c/heynote_dedicated_scratchpad_for) - [Heynote - A dedicated scratchpad for developers](https://heynote.com/)
 * [2023-12-23, 11:46:06](https://lobste.rs/s/bldffd/terminal_emulators_battle_royale) - [Terminal Emulators Battle Royale – Unicode Edition](https://www.jeffquast.com/post/ucs-detect-test-results/)
 * [2023-12-23, 07:44:28](https://lobste.rs/s/muc9zd/diy_espresso) - [DIY Espresso](https://www.fourbardesign.com/2020/10/diy-espresso.html?m=1)
-* [2023-12-23, 01:09:26](https://lobste.rs/s/xoby7f/go_1_22_interactive_release_notes) - [Go 1.22: Interactive Release Notes](https://antonz.org/go-1-22/)
 * [2023-12-22, 20:30:51](https://lobste.rs/s/bgbg8t/dial_up_over_discord_call) - [Dial-up over a Discord Call](https://www.lilysthings.org/blog/discord-dialup/)
 
 ## [Archives](archives/index.md)
