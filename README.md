@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-12-25, 20:42:57](https://lobste.rs/s/34aiy8/science_questions_with_surprising) - [Science Questions with Surprising Answers](https://www.wtamu.edu/~cbaird/sq/faqs/)
 * [2023-12-25, 20:38:48](https://lobste.rs/s/nutl9e/nobuild_better_way_build_c) - [nobuild: Better Way to Build C](https://www.youtube.com/watch?v=mLUhSPD4F2k)
 * [2023-12-25, 20:20:59](https://lobste.rs/s/sgv1tr/ruby_3_3_changes) - [Ruby 3.3 changes](https://rubyreferences.github.io/rubychanges/3.3.html)
 * [2023-12-25, 19:45:12](https://lobste.rs/s/yiobhj/matrix_holiday_update_2023) - [The Matrix Holiday Update 2023](https://www2.matrix.org/blog/2023/12/25/the-matrix-holiday-update-2023/)
@@ -16,6 +15,7 @@
 * [2023-12-25, 07:43:53](https://lobste.rs/s/gathxr/sql_as_api) - [SQL as API](https://valentin.willscher.de/posts/sql-api/)
 * [2023-12-25, 07:08:21](https://lobste.rs/s/wdxubs/ruby_3_3_0_released) - [Ruby 3.3.0 Released](https://www.ruby-lang.org/en/news/2023/12/25/ruby-3-3-0-released/)
 * [2023-12-25, 05:32:29](https://lobste.rs/s/ocnwuf/c_20_naughty_nice_list_for_game_devs) - [The C++20 Naughty and Nice List for Game Devs](https://www.jeremyong.com/c++/2023/12/24/cpp20-gamedev-naughty-nice/)
+* [2023-12-25, 00:40:30](https://lobste.rs/s/dpba1z/x86_assembly_language_programming_with) - [x86 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/x86.html)
 * [2023-12-24, 22:44:29](https://lobste.rs/s/iyfgfd/software_engineering_s_greatest_hits) - [Software Engineering's Greatest Hits](https://third-bit.com/2021/07/17/software-engineerings-greatest-hits/)
 * [2023-12-24, 20:51:56](https://lobste.rs/s/sn4bmp/using_qt_for_mobile_2023) - [Using Qt for Mobile in 2023](https://camg.me/qt-mobile-2023/)
 * [2023-12-24, 18:59:05](https://lobste.rs/s/eqyilp/d2_declarative_diagramming) - [D2: Declarative Diagramming](https://d2lang.com)
