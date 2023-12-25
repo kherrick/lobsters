@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-25](index.md)
 
+* [2023-12-25, 20:42:57](https://lobste.rs/s/34aiy8/science_questions_with_surprising) - [Science Questions with Surprising Answers](https://www.wtamu.edu/~cbaird/sq/faqs/)
+* [2023-12-25, 20:38:48](https://lobste.rs/s/nutl9e/nobuild_better_way_build_c) - [nobuild: Better Way to Build C](https://www.youtube.com/watch?v=mLUhSPD4F2k)
 * [2023-12-25, 20:20:59](https://lobste.rs/s/sgv1tr/ruby_3_3_changes) - [Ruby 3.3 changes](https://rubyreferences.github.io/rubychanges/3.3.html)
 * [2023-12-25, 19:51:56](https://lobste.rs/s/5inlhw/smtp_smuggling) - [SMTP Smuggling](https://www.postfix.org/smtp-smuggling.html)
 * [2023-12-25, 19:45:12](https://lobste.rs/s/yiobhj/matrix_holiday_update_2023) - [The Matrix Holiday Update 2023](https://www2.matrix.org/blog/2023/12/25/the-matrix-holiday-update-2023/)
