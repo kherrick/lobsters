@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2023-12-25, 19:51:56](https://lobste.rs/s/5inlhw/smtp_smuggling) - [SMTP Smuggling](https://www.postfix.org/smtp-smuggling.html)
+* [2023-12-25, 20:20:59](https://lobste.rs/s/sgv1tr/ruby_3_3_changes) - [Ruby 3.3 changes](https://rubyreferences.github.io/rubychanges/3.3.html)
 * [2023-12-25, 19:45:12](https://lobste.rs/s/yiobhj/matrix_holiday_update_2023) - [The Matrix Holiday Update 2023](https://www2.matrix.org/blog/2023/12/25/the-matrix-holiday-update-2023/)
 * [2023-12-25, 19:32:29](https://lobste.rs/s/9lc79n/weaponizing_dhcp_dns_spoofing_hands_on) - [Weaponizing DHCP DNS Spoofing — A Hands-On Guide](https://www.akamai.com/blog/security-research/weaponizing-dhcp-dns-spoofing-hands-on-guide)
 * [2023-12-25, 18:00:36](https://lobste.rs/s/gmzarv/methods_on_ether_creating_your_own) - [Methods on the Ether: Or Creating Your Own Control Structures for Fun and Profit (2010)](https://journal.stuffwithstuff.com/2010/06/25/methods-on-the-ether-or-creating-your-own-control-structures-for-fun-and-profit/)
