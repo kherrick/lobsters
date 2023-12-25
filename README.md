@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-25, 17:25:48](https://lobste.rs/s/xujn5j/tkey_is_risc_v_computer_usb_c_case_can_run) - [TKey is a risc-V computer in a USB-C case, that can run small security applications](https://dev.tillitis.se/intro/)
 * [2023-12-25, 16:50:14](https://lobste.rs/s/aj4wbc/philips_hue_sync_box_teardown_failure) - [Philips Hue Sync Box Teardown and Failure Analysis](https://old.reddit.com/r/Hue/comments/18pa9h9/philips_hue_sync_box_teardown_and_failure/)
 * [2023-12-25, 16:17:09](https://lobste.rs/s/qimpll/carcinization_go_programs) - [The carcinization of Go programs](https://xeiaso.net//blog/carcinization-golang/)
 * [2023-12-25, 12:55:14](https://lobste.rs/s/zcdobz/non_interactive_ssh_password) - [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
@@ -20,7 +21,6 @@
 * [2023-12-24, 16:43:54](https://lobste.rs/s/7xmbah/reducing_code_size_using_outlining_2016) - [Reducing Code Size Using Outlining (2016)](https://www.youtube.com/watch?v=yorld-WSOeU)
 * [2023-12-24, 16:39:29](https://lobste.rs/s/jhkb6j/why_large_language_models_threaten) - [Why large language models threaten learning, teaching, and education](https://medium.com/bits-and-behavior/more-than-calculators-why-large-language-models-threaten-public-education-480dd5300939)
 * [2023-12-24, 16:07:28](https://lobste.rs/s/xcz6nn/plasma_wayland_today) - [Plasma Wayland Today](https://pappp.net/?p=59645)
-* [2023-12-24, 15:27:39](https://lobste.rs/s/2sw716/debugging_dockerized_python_apps_vscode) - [Debugging dockerized Python apps in VSCode](https://rednafi.com/python/debug_dockerized_apps_in_vscode/)
 * [2023-12-24, 12:27:25](https://lobste.rs/s/nldfgd/kakoune_philosophy) - [The Kakoune Philosophy](https://phaazon.net/blog/kakoune-philosophy)
 * [2023-12-24, 12:18:18](https://lobste.rs/s/bn96et/risc_y_business_raging_against_reduced) - [RISC-Y Business: Raging against the reduced machine](https://secret.club/2023/12/24/riscy-business.html)
 * [2023-12-24, 10:03:54](https://lobste.rs/s/ogdyzt/ci_dream) - [CI Dream](https://matklad.github.io/2023/12/24/ci-dream.html)
