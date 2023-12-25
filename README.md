@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-25, 18:00:36](https://lobste.rs/s/gmzarv/methods_on_ether_creating_your_own) - [Methods on the Ether: Or Creating Your Own Control Structures for Fun and Profit (2010)](https://journal.stuffwithstuff.com/2010/06/25/methods-on-the-ether-or-creating-your-own-control-structures-for-fun-and-profit/)
 * [2023-12-25, 17:25:48](https://lobste.rs/s/xujn5j/tkey_is_risc_v_computer_usb_c_case_can_run) - [TKey is a risc-V computer in a USB-C case, that can run small security applications](https://dev.tillitis.se/intro/)
 * [2023-12-25, 16:50:14](https://lobste.rs/s/aj4wbc/philips_hue_sync_box_teardown_failure) - [Philips Hue Sync Box Teardown and Failure Analysis](https://old.reddit.com/r/Hue/comments/18pa9h9/philips_hue_sync_box_teardown_and_failure/)
 * [2023-12-25, 16:17:09](https://lobste.rs/s/qimpll/carcinization_go_programs) - [The carcinization of Go programs](https://xeiaso.net//blog/carcinization-golang/)
@@ -24,7 +25,6 @@
 * [2023-12-24, 12:27:25](https://lobste.rs/s/nldfgd/kakoune_philosophy) - [The Kakoune Philosophy](https://phaazon.net/blog/kakoune-philosophy)
 * [2023-12-24, 12:18:18](https://lobste.rs/s/bn96et/risc_y_business_raging_against_reduced) - [RISC-Y Business: Raging against the reduced machine](https://secret.club/2023/12/24/riscy-business.html)
 * [2023-12-24, 10:03:54](https://lobste.rs/s/ogdyzt/ci_dream) - [CI Dream](https://matklad.github.io/2023/12/24/ci-dream.html)
-* [2023-12-23, 17:51:21](https://lobste.rs/s/4tjfia/github_actions_feels_bad) - [GitHub Actions Feels Bad](https://www.youtube.com/watch?v=9qljpi5jiMQ)
 
 ## [Archives](archives/index.md)
 
