@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-25, 12:15:44](https://lobste.rs/s/ah2uzj/activitypub_over_atproto) - [ActivityPub Over ATProto](https://berjon.com/ap-at)
 * [2023-12-25, 12:02:05](https://lobste.rs/s/s8jefb/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/s8jefb/what_are_you_doing_this_week)
 * [2023-12-25, 09:19:09](https://lobste.rs/s/il3vad/some_useful_bash_aliases) - [Some Useful Bash Aliases](https://chuck.is/alias/)
 * [2023-12-25, 07:43:53](https://lobste.rs/s/gathxr/sql_as_api) - [SQL as API](https://valentin.willscher.de/posts/sql-api/)
@@ -21,7 +22,6 @@
 * [2023-12-24, 12:27:25](https://lobste.rs/s/nldfgd/kakoune_philosophy) - [The Kakoune Philosophy](https://phaazon.net/blog/kakoune-philosophy)
 * [2023-12-24, 12:18:18](https://lobste.rs/s/bn96et/risc_y_business_raging_against_reduced) - [RISC-Y Business: Raging against the reduced machine](https://secret.club/2023/12/24/riscy-business.html)
 * [2023-12-24, 10:03:54](https://lobste.rs/s/ogdyzt/ci_dream) - [CI Dream](https://matklad.github.io/2023/12/24/ci-dream.html)
-* [2023-12-24, 08:48:38](https://lobste.rs/s/vhi7yd/whatever_happened_programming_2010) - [Whatever happened to programming? (2010)](https://reprog.wordpress.com/2010/03/03/whatever-happened-to-programming/)
 * [2023-12-24, 03:23:36](https://lobste.rs/s/woqgjw/when_power_macintosh_ran_netware) - [When the Power Macintosh ran NetWare (featuring Wormhole and Cyberpunk)](https://oldvcr.blogspot.com/2023/12/when-power-macintosh-ran-netware.html)
 * [2023-12-24, 02:06:56](https://lobste.rs/s/adlbgi/unveiling_big_leap_ruby_3_3_s_irb) - [Unveiling the big leap in Ruby 3.3’s IRB](https://railsatscale.com/2023-12-19-irb-for-ruby-3-3/)
 * [2023-12-23, 17:51:21](https://lobste.rs/s/4tjfia/github_actions_feels_bad) - [GitHub Actions Feels Bad](https://www.youtube.com/watch?v=9qljpi5jiMQ)
