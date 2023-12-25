@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-25](index.md)
 
+* [2023-12-25, 23:13:34](https://lobste.rs/s/biow47/emulating_ipod_touch_2g_using_qemu) - [Emulating an iPod Touch 2G using QEMU](https://devos50.github.io/blog/2023/ipod-touch-2g-qemu/)
 * [2023-12-25, 20:42:57](https://lobste.rs/s/34aiy8/science_questions_with_surprising) - [Science Questions with Surprising Answers](https://www.wtamu.edu/~cbaird/sq/faqs/)
 * [2023-12-25, 20:38:48](https://lobste.rs/s/nutl9e/nobuild_better_way_build_c) - [nobuild: Better Way to Build C](https://www.youtube.com/watch?v=mLUhSPD4F2k)
 * [2023-12-25, 20:20:59](https://lobste.rs/s/sgv1tr/ruby_3_3_changes) - [Ruby 3.3 changes](https://rubyreferences.github.io/rubychanges/3.3.html)
