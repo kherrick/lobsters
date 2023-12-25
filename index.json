@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-25, 19:51:56",
+      "https://lobste.rs/s/5inlhw/smtp_smuggling"
+    ],
+    [
+      "SMTP Smuggling",
+      "https://www.postfix.org/smtp-smuggling.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-25, 19:45:12",
+      "https://lobste.rs/s/yiobhj/matrix_holiday_update_2023"
+    ],
+    [
+      "The Matrix Holiday Update 2023",
+      "https://www2.matrix.org/blog/2023/12/25/the-matrix-holiday-update-2023/"
+    ]
+  ],
+  [
+    [
       "2023-12-25, 19:32:29",
       "https://lobste.rs/s/9lc79n/weaponizing_dhcp_dns_spoofing_hands_on"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-12-24, 18:15:22",
-      "https://lobste.rs/s/qq1n4v/what_is_parser_mismatch_vulnerability"
-    ],
-    [
-      "What is a parser mismatch vulnerability?",
-      "https://www.brainonfire.net/blog/2022/04/11/what-is-parser-mismatch/"
-    ]
-  ],
-  [
-    [
       "2023-12-24, 17:29:11",
       "https://lobste.rs/s/faarcc/you_don_t_need_analytics_on_your_blog"
     ],
@@ -207,16 +217,6 @@
     [
       "Why large language models threaten learning, teaching, and education",
       "https://medium.com/bits-and-behavior/more-than-calculators-why-large-language-models-threaten-public-education-480dd5300939"
-    ]
-  ],
-  [
-    [
-      "2023-12-24, 16:07:28",
-      "https://lobste.rs/s/xcz6nn/plasma_wayland_today"
-    ],
-    [
-      "Plasma Wayland Today",
-      "https://pappp.net/?p=59645"
     ]
   ],
   [
