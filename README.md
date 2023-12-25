@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-25, 09:19:09](https://lobste.rs/s/il3vad/some_useful_bash_aliases_chuck_carroll) - [Some Useful Bash Aliases | Chuck Carroll](https://chuck.is/alias/)
 * [2023-12-25, 07:43:53](https://lobste.rs/s/gathxr/sql_as_api) - [SQL as API](https://valentin.willscher.de/posts/sql-api/)
 * [2023-12-25, 07:08:21](https://lobste.rs/s/wdxubs/ruby_3_3_0_released) - [Ruby 3.3.0 Released](https://www.ruby-lang.org/en/news/2023/12/25/ruby-3-3-0-released/)
 * [2023-12-25, 05:32:29](https://lobste.rs/s/ocnwuf/c_20_naughty_nice_list_for_game_devs) - [The C++20 Naughty and Nice List for Game Devs](https://www.jeremyong.com/c++/2023/12/24/cpp20-gamedev-naughty-nice/)
@@ -23,7 +24,6 @@
 * [2023-12-24, 08:15:30](https://lobste.rs/s/hdokyh/meilisearch_expands_search_power_with) - [Meilisearch Expands Search Power with Arroy's Filtered Disk ANN](https://blog.kerollmops.com/meilisearch-expands-search-power-with-arroy-s-filtered-disk-ann)
 * [2023-12-24, 03:23:36](https://lobste.rs/s/woqgjw/when_power_macintosh_ran_netware) - [When the Power Macintosh ran NetWare (featuring Wormhole and Cyberpunk)](https://oldvcr.blogspot.com/2023/12/when-power-macintosh-ran-netware.html)
 * [2023-12-24, 02:06:56](https://lobste.rs/s/adlbgi/unveiling_big_leap_ruby_3_3_s_irb) - [Unveiling the big leap in Ruby 3.3’s IRB](https://railsatscale.com/2023-12-19-irb-for-ruby-3-3/)
-* [2023-12-23, 20:06:18](https://lobste.rs/s/7fanxd/dear_diary) - [Dear Diary](https://queue.acm.org/detail.cfm?id=3631181)
 * [2023-12-23, 17:51:21](https://lobste.rs/s/4tjfia/github_actions_feels_bad) - [GitHub Actions Feels Bad](https://www.youtube.com/watch?v=9qljpi5jiMQ)
 
 ## [Archives](archives/index.md)
