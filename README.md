@@ -23,8 +23,8 @@
 * [2023-12-24, 02:06:56](https://lobste.rs/s/adlbgi/unveiling_big_leap_ruby_3_3_s_irb) - [Unveiling the big leap in Ruby 3.3’s IRB](https://railsatscale.com/2023-12-19-irb-for-ruby-3-3/)
 * [2023-12-23, 20:06:18](https://lobste.rs/s/7fanxd/dear_diary) - [Dear Diary](https://queue.acm.org/detail.cfm?id=3631181)
 * [2023-12-23, 17:51:21](https://lobste.rs/s/4tjfia/github_actions_feels_bad) - [GitHub Actions Feels Bad](https://www.youtube.com/watch?v=9qljpi5jiMQ)
+* [2023-12-23, 16:04:22](https://lobste.rs/s/ubc78c/heynote_dedicated_scratchpad_for) - [Heynote - A dedicated scratchpad for developers](https://heynote.com/)
 * [2023-12-23, 07:44:28](https://lobste.rs/s/muc9zd/diy_espresso) - [DIY Espresso](https://www.fourbardesign.com/2020/10/diy-espresso.html?m=1)
-* [2023-12-22, 20:30:51](https://lobste.rs/s/bgbg8t/dial_up_over_discord_call) - [Dial-up over a Discord Call](https://www.lilysthings.org/blog/discord-dialup/)
 
 ## [Archives](archives/index.md)
 
