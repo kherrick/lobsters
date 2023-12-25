@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-25](index.md)
 
+* [2023-12-25, 12:02:05](https://lobste.rs/s/s8jefb/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/s8jefb/what_are_you_doing_this_week)
 * [2023-12-25, 09:19:09](https://lobste.rs/s/il3vad/some_useful_bash_aliases_chuck_carroll) - [Some Useful Bash Aliases | Chuck Carroll](https://chuck.is/alias/)
 * [2023-12-25, 09:19:09](https://lobste.rs/s/il3vad/some_useful_bash_aliases) - [Some Useful Bash Aliases](https://chuck.is/alias/)
 * [2023-12-25, 07:43:53](https://lobste.rs/s/gathxr/sql_as_api) - [SQL as API](https://valentin.willscher.de/posts/sql-api/)
