@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-25, 12:55:14](https://lobste.rs/s/zcdobz/non_interactive_ssh_password) - [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
 * [2023-12-25, 12:15:44](https://lobste.rs/s/ah2uzj/activitypub_over_atproto) - [ActivityPub Over ATProto](https://berjon.com/ap-at)
 * [2023-12-25, 12:02:05](https://lobste.rs/s/s8jefb/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/s8jefb/what_are_you_doing_this_week)
 * [2023-12-25, 09:19:09](https://lobste.rs/s/il3vad/some_useful_bash_aliases) - [Some Useful Bash Aliases](https://chuck.is/alias/)
@@ -9,7 +10,6 @@
 * [2023-12-25, 00:40:30](https://lobste.rs/s/dpba1z/x86_assembly_language_programming_with) - [x86 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/x86.html)
 * [2023-12-24, 22:44:29](https://lobste.rs/s/iyfgfd/software_engineering_s_greatest_hits) - [Software Engineering's Greatest Hits](https://third-bit.com/2021/07/17/software-engineerings-greatest-hits/)
 * [2023-12-24, 20:51:56](https://lobste.rs/s/sn4bmp/using_qt_for_mobile_2023) - [Using Qt for Mobile in 2023](https://camg.me/qt-mobile-2023/)
-* [2023-12-24, 20:28:41](https://lobste.rs/s/v36cza/code_it_yourself_first_person_shooter) - [Code-It-Yourself! First Person Shooter (Quick and Simple C++)](https://www.youtube.com/watch?v=xW8skO7MFYw)
 * [2023-12-24, 18:59:05](https://lobste.rs/s/eqyilp/d2_declarative_diagramming) - [D2: Declarative Diagramming](https://d2lang.com)
 * [2023-12-24, 18:21:42](https://lobste.rs/s/lee9aa/happy_holidays_crustaceans) - [Happy Holidays, crustaceans](https://lobste.rs/s/lee9aa/happy_holidays_crustaceans)
 * [2023-12-24, 18:15:22](https://lobste.rs/s/qq1n4v/what_is_parser_mismatch_vulnerability) - [What is a parser mismatch vulnerability?](https://www.brainonfire.net/blog/2022/04/11/what-is-parser-mismatch/)
