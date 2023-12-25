@@ -10,6 +10,7 @@
 * [2023-12-25, 00:40:30](https://lobste.rs/s/dpba1z/x86_assembly_language_programming_with) - [x86 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/x86.html)
 * [2023-12-24, 22:44:29](https://lobste.rs/s/iyfgfd/software_engineering_s_greatest_hits) - [Software Engineering's Greatest Hits](https://third-bit.com/2021/07/17/software-engineerings-greatest-hits/)
 * [2023-12-24, 20:51:56](https://lobste.rs/s/sn4bmp/using_qt_for_mobile_2023) - [Using Qt for Mobile in 2023](https://camg.me/qt-mobile-2023/)
+* [2023-12-24, 20:28:41](https://lobste.rs/s/v36cza/code_it_yourself_first_person_shooter) - [Code-It-Yourself! First Person Shooter (Quick and Simple C++)](https://www.youtube.com/watch?v=xW8skO7MFYw)
 * [2023-12-24, 18:59:05](https://lobste.rs/s/eqyilp/d2_declarative_diagramming) - [D2: Declarative Diagramming](https://d2lang.com)
 * [2023-12-24, 18:21:42](https://lobste.rs/s/lee9aa/happy_holidays_crustaceans) - [Happy Holidays, crustaceans](https://lobste.rs/s/lee9aa/happy_holidays_crustaceans)
 * [2023-12-24, 18:15:22](https://lobste.rs/s/qq1n4v/what_is_parser_mismatch_vulnerability) - [What is a parser mismatch vulnerability?](https://www.brainonfire.net/blog/2022/04/11/what-is-parser-mismatch/)
@@ -23,7 +24,6 @@
 * [2023-12-24, 12:18:18](https://lobste.rs/s/bn96et/risc_y_business_raging_against_reduced) - [RISC-Y Business: Raging against the reduced machine](https://secret.club/2023/12/24/riscy-business.html)
 * [2023-12-24, 10:03:54](https://lobste.rs/s/ogdyzt/ci_dream) - [CI Dream](https://matklad.github.io/2023/12/24/ci-dream.html)
 * [2023-12-24, 03:23:36](https://lobste.rs/s/woqgjw/when_power_macintosh_ran_netware) - [When the Power Macintosh ran NetWare (featuring Wormhole and Cyberpunk)](https://oldvcr.blogspot.com/2023/12/when-power-macintosh-ran-netware.html)
-* [2023-12-24, 02:06:56](https://lobste.rs/s/adlbgi/unveiling_big_leap_ruby_3_3_s_irb) - [Unveiling the big leap in Ruby 3.3’s IRB](https://railsatscale.com/2023-12-19-irb-for-ruby-3-3/)
 * [2023-12-23, 17:51:21](https://lobste.rs/s/4tjfia/github_actions_feels_bad) - [GitHub Actions Feels Bad](https://www.youtube.com/watch?v=9qljpi5jiMQ)
 
 ## [Archives](archives/index.md)
