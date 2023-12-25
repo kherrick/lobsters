@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-25, 19:32:29](https://lobste.rs/s/9lc79n/weaponizing_dhcp_dns_spoofing_hands_on) - [Weaponizing DHCP DNS Spoofing — A Hands-On Guide](https://www.akamai.com/blog/security-research/weaponizing-dhcp-dns-spoofing-hands-on-guide)
 * [2023-12-25, 18:00:36](https://lobste.rs/s/gmzarv/methods_on_ether_creating_your_own) - [Methods on the Ether: Or Creating Your Own Control Structures for Fun and Profit (2010)](https://journal.stuffwithstuff.com/2010/06/25/methods-on-the-ether-or-creating-your-own-control-structures-for-fun-and-profit/)
 * [2023-12-25, 17:25:48](https://lobste.rs/s/xujn5j/tkey_is_risc_v_computer_usb_c_case_can_run) - [TKey is a risc-V computer in a USB-C case, that can run small security applications](https://dev.tillitis.se/intro/)
 * [2023-12-25, 16:50:14](https://lobste.rs/s/aj4wbc/philips_hue_sync_box_teardown_failure) - [Philips Hue Sync Box Teardown and Failure Analysis](https://old.reddit.com/r/Hue/comments/18pa9h9/philips_hue_sync_box_teardown_and_failure/)
@@ -19,7 +20,6 @@
 * [2023-12-24, 18:15:22](https://lobste.rs/s/qq1n4v/what_is_parser_mismatch_vulnerability) - [What is a parser mismatch vulnerability?](https://www.brainonfire.net/blog/2022/04/11/what-is-parser-mismatch/)
 * [2023-12-24, 17:29:11](https://lobste.rs/s/faarcc/you_don_t_need_analytics_on_your_blog) - [You don't need analytics on your blog](https://blog.yossarian.net/2023/12/24/You-dont-need-analytics-on-your-blog)
 * [2023-12-24, 17:22:39](https://lobste.rs/s/hoipxx/kernel_string_overcopying) - [Kernel string overcopying](https://dxuuu.xyz/string-overcopy.html)
-* [2023-12-24, 16:43:54](https://lobste.rs/s/7xmbah/reducing_code_size_using_outlining_2016) - [Reducing Code Size Using Outlining (2016)](https://www.youtube.com/watch?v=yorld-WSOeU)
 * [2023-12-24, 16:39:29](https://lobste.rs/s/jhkb6j/why_large_language_models_threaten) - [Why large language models threaten learning, teaching, and education](https://medium.com/bits-and-behavior/more-than-calculators-why-large-language-models-threaten-public-education-480dd5300939)
 * [2023-12-24, 16:07:28](https://lobste.rs/s/xcz6nn/plasma_wayland_today) - [Plasma Wayland Today](https://pappp.net/?p=59645)
 * [2023-12-24, 12:27:25](https://lobste.rs/s/nldfgd/kakoune_philosophy) - [The Kakoune Philosophy](https://phaazon.net/blog/kakoune-philosophy)
