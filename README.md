@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-26, 15:58:29](https://lobste.rs/s/0kwqdc/microdot_yet_another_python_web) - [Microdot: Yet Another Python Web Framework](https://blog.miguelgrinberg.com/post/microdot-yet-another-python-web-framework)
 * [2023-12-26, 15:06:50](https://lobste.rs/s/ro7fw2/schedule_37th_chaos_communication) - [Schedule 37th Chaos Communication Congress](https://fahrplan.events.ccc.de/congress/2023/fahrplan/)
 * [2023-12-26, 14:31:35](https://lobste.rs/s/oghtj9/sophia_lang_weekly_02) - [Sophia Lang Weekly - 02](https://xnacly.me/posts/2023/sophia-lang-weekly02/)
 * [2023-12-26, 14:24:38](https://lobste.rs/s/fh7bde/embeddings_vectors_arithmetic) - [Embeddings, Vectors, and Arithmetic](https://montyanderson.net/writing/embeddings)
@@ -12,7 +13,6 @@
 * [2023-12-25, 23:13:34](https://lobste.rs/s/biow47/emulating_ipod_touch_2g_using_qemu) - [Emulating an iPod Touch 2G using QEMU](https://devos50.github.io/blog/2023/ipod-touch-2g-qemu/)
 * [2023-12-25, 20:38:48](https://lobste.rs/s/nutl9e/nobuild_better_way_build_c) - [nobuild: Better Way to Build C](https://www.youtube.com/watch?v=mLUhSPD4F2k)
 * [2023-12-25, 19:45:12](https://lobste.rs/s/yiobhj/matrix_holiday_update_2023) - [The Matrix Holiday Update 2023](https://www2.matrix.org/blog/2023/12/25/the-matrix-holiday-update-2023/)
-* [2023-12-25, 19:32:29](https://lobste.rs/s/9lc79n/weaponizing_dhcp_dns_spoofing_hands_on) - [Weaponizing DHCP DNS Spoofing — A Hands-On Guide](https://www.akamai.com/blog/security-research/weaponizing-dhcp-dns-spoofing-hands-on-guide)
 * [2023-12-25, 18:00:36](https://lobste.rs/s/gmzarv/methods_on_ether_creating_your_own) - [Methods on the Ether: Or Creating Your Own Control Structures for Fun and Profit (2010)](https://journal.stuffwithstuff.com/2010/06/25/methods-on-the-ether-or-creating-your-own-control-structures-for-fun-and-profit/)
 * [2023-12-25, 17:25:48](https://lobste.rs/s/xujn5j/tkey_is_risc_v_computer_usb_c_case_can_run) - [TKey is a risc-V computer in a USB-C case, that can run small security applications](https://dev.tillitis.se/intro/)
 * [2023-12-25, 16:17:09](https://lobste.rs/s/qimpll/carcinization_go_programs_2022) - [The carcinization of Go programs (2022)](https://xeiaso.net//blog/carcinization-golang/)

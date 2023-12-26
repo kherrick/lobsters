@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-26](index.md)
 
+* [2023-12-26, 15:58:29](https://lobste.rs/s/0kwqdc/microdot_yet_another_python_web) - [Microdot: Yet Another Python Web Framework](https://blog.miguelgrinberg.com/post/microdot-yet-another-python-web-framework)
 * [2023-12-26, 15:06:50](https://lobste.rs/s/ro7fw2/schedule_37th_chaos_communication) - [Schedule 37th Chaos Communication Congress](https://fahrplan.events.ccc.de/congress/2023/fahrplan/)
 * [2023-12-26, 14:31:35](https://lobste.rs/s/oghtj9/sophia_lang_weekly_02) - [Sophia Lang Weekly - 02](https://xnacly.me/posts/2023/sophia-lang-weekly02/)
 * [2023-12-26, 14:24:38](https://lobste.rs/s/fh7bde/embeddings_vectors_arithmetic) - [Embeddings, Vectors, and Arithmetic](https://montyanderson.net/writing/embeddings)
