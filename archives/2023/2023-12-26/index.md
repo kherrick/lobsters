@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-26](index.md)
 
+* [2023-12-26, 18:46:16](https://lobste.rs/s/fdnc6k/scraping_women_s_college_volleyball) - [Scraping Women’s College Volleyball Roster Data](https://thescoop.org/archives/2023/12/25/womens-volleyball-roster-data/index.html)
 * [2023-12-26, 17:57:53](https://lobste.rs/s/roleat/using_make_writing_less_makefile) - [Using Make – writing less Makefile](https://text.causal.agency/001-make.txt)
 * [2023-12-26, 17:34:39](https://lobste.rs/s/gzxmm1/smerf) - [SMERF](https://smerf-3d.github.io/)
 * [2023-12-26, 17:05:16](https://lobste.rs/s/fkzvij/state_garnet_2023) - [The State Of Garnet, 2023](https://wiki.alopex.li/TheStateOfGarnet2023)
