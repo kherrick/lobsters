@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-26, 11:09:25](https://lobste.rs/s/mzul7s/retrospective_my_personal_open_source) - [A Retrospective of My Personal Open Source Projects from 2023](https://susam.net/maze/code-2023.html)
 * [2023-12-26, 09:02:28](https://lobste.rs/s/w5duqw/data_corruption_bug_openzfs) - [A data corruption bug in OpenZFS?](https://despairlabs.com/blog/posts/2023-12-25-openzfs-data-corruption-bug/)
 * [2023-12-26, 03:25:49](https://lobste.rs/s/urnmru/challenging_projects_every_programmer) - [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html)
 * [2023-12-26, 01:30:28](https://lobste.rs/s/i0hbm6/upgrading_from_netbsd_5_1_10_rc1) - [Upgrading from NetBSD 5.1 to 10_RC1](https://www.idatum.net/upgrading-from-netbsd-51-to-10_rc1.html)
@@ -18,7 +19,6 @@
 * [2023-12-25, 07:43:53](https://lobste.rs/s/gathxr/sql_as_api) - [SQL as API](https://valentin.willscher.de/posts/sql-api/)
 * [2023-12-25, 07:08:21](https://lobste.rs/s/wdxubs/ruby_3_3_0_released) - [Ruby 3.3.0 Released](https://www.ruby-lang.org/en/news/2023/12/25/ruby-3-3-0-released/)
 * [2023-12-25, 05:32:29](https://lobste.rs/s/ocnwuf/c_20_naughty_nice_list_for_game_devs) - [The C++20 Naughty and Nice List for Game Devs](https://www.jeremyong.com/c++/2023/12/24/cpp20-gamedev-naughty-nice/)
-* [2023-12-24, 22:44:29](https://lobste.rs/s/iyfgfd/software_engineering_s_greatest_hits) - [Software Engineering's Greatest Hits](https://third-bit.com/2021/07/17/software-engineerings-greatest-hits/)
 * [2023-12-24, 20:51:56](https://lobste.rs/s/sn4bmp/using_qt_for_mobile_2023) - [Using Qt for Mobile in 2023](https://camg.me/qt-mobile-2023/)
 * [2023-12-24, 18:59:05](https://lobste.rs/s/eqyilp/d2_declarative_diagramming) - [D2: Declarative Diagramming](https://d2lang.com)
 * [2023-12-24, 18:21:42](https://lobste.rs/s/lee9aa/happy_holidays_crustaceans) - [Happy Holidays, crustaceans](https://lobste.rs/s/lee9aa/happy_holidays_crustaceans)
