@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-26, 19:15:48",
+      "https://lobste.rs/s/qxkfhl/how_how_not_fix_color_banding"
+    ],
+    [
+      "How to (and how not to) fix color banding",
+      "https://blog.frost.kiwi/GLSL-noise-and-radial-gradient/"
+    ]
+  ],
+  [
+    [
       "2023-12-26, 18:46:16",
       "https://lobste.rs/s/fdnc6k/scraping_women_s_college_volleyball"
     ],
@@ -147,16 +157,6 @@
     [
       "Emulating an iPod Touch 2G using QEMU",
       "https://devos50.github.io/blog/2023/ipod-touch-2g-qemu/"
-    ]
-  ],
-  [
-    [
-      "2023-12-25, 20:38:48",
-      "https://lobste.rs/s/nutl9e/nobuild_better_way_build_c"
-    ],
-    [
-      "nobuild: Better Way to Build C",
-      "https://www.youtube.com/watch?v=mLUhSPD4F2k"
     ]
   ],
   [
