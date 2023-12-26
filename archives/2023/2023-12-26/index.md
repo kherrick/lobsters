@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-26](index.md)
 
+* [2023-12-26, 22:17:37](https://lobste.rs/s/t4zg7d/ssh_proxycommand_unexpected_code) - [SSH ProxyCommand == unexpected code execution (CVE-2023-51385)](https://vin01.github.io/piptagole/ssh/security/openssh/libssh/remote-code-execution/2023/12/20/openssh-proxycommand-libssh-rce.html)
 * [2023-12-26, 21:49:11](https://lobste.rs/s/ckboyb/marble_adding_machine_2007) - [Marble adding machine (2007)](https://www.youtube.com/watch?v=GcDshWmhF4A)
 * [2023-12-26, 19:15:48](https://lobste.rs/s/qxkfhl/how_how_not_fix_color_banding) - [How to (and how not to) fix color banding](https://blog.frost.kiwi/GLSL-noise-and-radial-gradient/)
 * [2023-12-26, 18:46:16](https://lobste.rs/s/fdnc6k/scraping_women_s_college_volleyball) - [Scraping Women’s College Volleyball Roster Data](https://thescoop.org/archives/2023/12/25/womens-volleyball-roster-data/index.html)
