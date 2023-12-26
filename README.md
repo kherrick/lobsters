@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-26, 19:15:48](https://lobste.rs/s/qxkfhl/how_how_not_fix_color_banding) - [How to (and how not to) fix color banding](https://blog.frost.kiwi/GLSL-noise-and-radial-gradient/)
 * [2023-12-26, 18:46:16](https://lobste.rs/s/fdnc6k/scraping_women_s_college_volleyball) - [Scraping Women’s College Volleyball Roster Data](https://thescoop.org/archives/2023/12/25/womens-volleyball-roster-data/index.html)
 * [2023-12-26, 17:57:53](https://lobste.rs/s/roleat/using_make_writing_less_makefile) - [Using Make – writing less Makefile](https://text.causal.agency/001-make.txt)
 * [2023-12-26, 17:34:39](https://lobste.rs/s/gzxmm1/smerf) - [SMERF](https://smerf-3d.github.io/)
@@ -15,7 +16,6 @@
 * [2023-12-26, 01:30:28](https://lobste.rs/s/i0hbm6/upgrading_from_netbsd_5_1_10_rc1) - [Upgrading from NetBSD 5.1 to 10_RC1](https://www.idatum.net/upgrading-from-netbsd-51-to-10_rc1.html)
 * [2023-12-26, 00:48:10](https://lobste.rs/s/zeyn75/bootstrapping_forth_40_lines_lua_code) - [Bootstrapping a Forth in 40 lines of Lua code (2008)](http://angg.twu.net/miniforth-article.html)
 * [2023-12-25, 23:13:34](https://lobste.rs/s/biow47/emulating_ipod_touch_2g_using_qemu) - [Emulating an iPod Touch 2G using QEMU](https://devos50.github.io/blog/2023/ipod-touch-2g-qemu/)
-* [2023-12-25, 20:38:48](https://lobste.rs/s/nutl9e/nobuild_better_way_build_c) - [nobuild: Better Way to Build C](https://www.youtube.com/watch?v=mLUhSPD4F2k)
 * [2023-12-25, 19:45:12](https://lobste.rs/s/yiobhj/matrix_holiday_update_2023) - [The Matrix Holiday Update 2023](https://www2.matrix.org/blog/2023/12/25/the-matrix-holiday-update-2023/)
 * [2023-12-25, 18:00:36](https://lobste.rs/s/gmzarv/methods_on_ether_creating_your_own) - [Methods on the Ether: Or Creating Your Own Control Structures for Fun and Profit (2010)](https://journal.stuffwithstuff.com/2010/06/25/methods-on-the-ether-or-creating-your-own-control-structures-for-fun-and-profit/)
 * [2023-12-25, 17:25:48](https://lobste.rs/s/xujn5j/tkey_is_risc_v_computer_usb_c_case_can_run) - [TKey is a risc-V computer in a USB-C case, that can run small security applications](https://dev.tillitis.se/intro/)
