@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-26, 11:09:25",
+      "https://lobste.rs/s/mzul7s/retrospective_my_personal_open_source"
+    ],
+    [
+      "A Retrospective of My Personal Open Source Projects from 2023",
+      "https://susam.net/maze/code-2023.html"
+    ]
+  ],
+  [
+    [
       "2023-12-26, 09:02:28",
       "https://lobste.rs/s/w5duqw/data_corruption_bug_openzfs"
     ],
@@ -177,16 +187,6 @@
     [
       "The C++20 Naughty and Nice List for Game Devs",
       "https://www.jeremyong.com/c++/2023/12/24/cpp20-gamedev-naughty-nice/"
-    ]
-  ],
-  [
-    [
-      "2023-12-24, 22:44:29",
-      "https://lobste.rs/s/iyfgfd/software_engineering_s_greatest_hits"
-    ],
-    [
-      "Software Engineering's Greatest Hits",
-      "https://third-bit.com/2021/07/17/software-engineerings-greatest-hits/"
     ]
   ],
   [
