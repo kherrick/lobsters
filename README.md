@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-26, 17:05:16](https://lobste.rs/s/fkzvij/state_garnet_2023) - [The State Of Garnet, 2023](https://wiki.alopex.li/TheStateOfGarnet2023)
 * [2023-12-26, 15:58:29](https://lobste.rs/s/0kwqdc/microdot_yet_another_python_web) - [Microdot: Yet Another Python Web Framework](https://blog.miguelgrinberg.com/post/microdot-yet-another-python-web-framework)
 * [2023-12-26, 15:06:50](https://lobste.rs/s/ro7fw2/schedule_37th_chaos_communication) - [Schedule 37th Chaos Communication Congress](https://fahrplan.events.ccc.de/congress/2023/fahrplan/)
 * [2023-12-26, 14:31:35](https://lobste.rs/s/oghtj9/sophia_lang_weekly_02) - [Sophia Lang Weekly - 02](https://xnacly.me/posts/2023/sophia-lang-weekly02/)
@@ -16,7 +17,6 @@
 * [2023-12-25, 18:00:36](https://lobste.rs/s/gmzarv/methods_on_ether_creating_your_own) - [Methods on the Ether: Or Creating Your Own Control Structures for Fun and Profit (2010)](https://journal.stuffwithstuff.com/2010/06/25/methods-on-the-ether-or-creating-your-own-control-structures-for-fun-and-profit/)
 * [2023-12-25, 17:25:48](https://lobste.rs/s/xujn5j/tkey_is_risc_v_computer_usb_c_case_can_run) - [TKey is a risc-V computer in a USB-C case, that can run small security applications](https://dev.tillitis.se/intro/)
 * [2023-12-25, 16:17:09](https://lobste.rs/s/qimpll/carcinization_go_programs_2022) - [The carcinization of Go programs (2022)](https://xeiaso.net//blog/carcinization-golang/)
-* [2023-12-25, 12:55:14](https://lobste.rs/s/zcdobz/non_interactive_ssh_password) - [Non-interactive SSH password authentication](https://vincent.bernat.ch/en/blog/2023-sshpass-without-sshpass)
 * [2023-12-25, 12:15:44](https://lobste.rs/s/ah2uzj/activitypub_over_atproto) - [ActivityPub Over ATProto](https://berjon.com/ap-at)
 * [2023-12-25, 12:02:05](https://lobste.rs/s/s8jefb/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/s8jefb/what_are_you_doing_this_week)
 * [2023-12-25, 09:19:09](https://lobste.rs/s/il3vad/some_useful_bash_aliases) - [Some Useful Bash Aliases](https://chuck.is/alias/)
