@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-26, 22:17:37",
+      "https://lobste.rs/s/t4zg7d/ssh_proxycommand_unexpected_code"
+    ],
+    [
+      "SSH ProxyCommand == unexpected code execution (CVE-2023-51385)",
+      "https://vin01.github.io/piptagole/ssh/security/openssh/libssh/remote-code-execution/2023/12/20/openssh-proxycommand-libssh-rce.html"
+    ]
+  ],
+  [
+    [
       "2023-12-26, 21:49:11",
       "https://lobste.rs/s/ckboyb/marble_adding_machine_2007"
     ],
@@ -237,16 +247,6 @@
     [
       "Ruby 3.3.0 Released",
       "https://www.ruby-lang.org/en/news/2023/12/25/ruby-3-3-0-released/"
-    ]
-  ],
-  [
-    [
-      "2023-12-24, 17:29:11",
-      "https://lobste.rs/s/faarcc/you_don_t_need_analytics_on_your_blog"
-    ],
-    [
-      "You don't need analytics on your blog",
-      "https://blog.yossarian.net/2023/12/24/You-dont-need-analytics-on-your-blog"
     ]
   ]
 ]
