@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-26](index.md)
 
+* [2023-12-26, 14:31:35](https://lobste.rs/s/oghtj9/sophia_lang_weekly_02) - [Sophia Lang Weekly - 02](https://xnacly.me/posts/2023/sophia-lang-weekly02/)
+* [2023-12-26, 14:24:38](https://lobste.rs/s/fh7bde/embeddings_vectors_arithmetic) - [Embeddings, Vectors, and Arithmetic](https://montyanderson.net/writing/embeddings)
 * [2023-12-26, 11:37:29](https://lobste.rs/s/jcm2am/reminiscing_cgi_scripts) - [Reminiscing CGI scripts](https://rednafi.com/go/reminiscing_cgi_scripts/)
 * [2023-12-26, 11:09:25](https://lobste.rs/s/mzul7s/retrospective_my_personal_open_source) - [A Retrospective of My Personal Open Source Projects from 2023](https://susam.net/maze/code-2023.html)
 * [2023-12-26, 09:02:28](https://lobste.rs/s/w5duqw/data_corruption_bug_openzfs) - [A data corruption bug in OpenZFS?](https://despairlabs.com/blog/posts/2023-12-25-openzfs-data-corruption-bug/)
