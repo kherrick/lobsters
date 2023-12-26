@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-26, 22:26:41](https://lobste.rs/s/7t8zuc/rust_i_used_know_2022) - [The Rust I used to know (2022)](https://despairlabs.com/blog/posts/2022-08-20-the-rust-i-used-to-know/)
 * [2023-12-26, 22:17:37](https://lobste.rs/s/t4zg7d/ssh_proxycommand_unexpected_code) - [SSH ProxyCommand == unexpected code execution (CVE-2023-51385)](https://vin01.github.io/piptagole/ssh/security/openssh/libssh/remote-code-execution/2023/12/20/openssh-proxycommand-libssh-rce.html)
 * [2023-12-26, 21:49:11](https://lobste.rs/s/ckboyb/marble_adding_machine_2007) - [Marble adding machine (2007)](https://www.youtube.com/watch?v=GcDshWmhF4A)
 * [2023-12-26, 19:15:48](https://lobste.rs/s/qxkfhl/how_how_not_fix_color_banding) - [How to (and how not to) fix color banding](https://blog.frost.kiwi/GLSL-noise-and-radial-gradient/)
@@ -17,7 +18,6 @@
 * [2023-12-26, 03:25:49](https://lobste.rs/s/urnmru/challenging_projects_every_programmer) - [Challenging projects every programmer should try (2019)](https://austinhenley.com/blog/challengingprojects.html)
 * [2023-12-26, 01:30:28](https://lobste.rs/s/i0hbm6/upgrading_from_netbsd_5_1_10_rc1) - [Upgrading from NetBSD 5.1 to 10_RC1](https://www.idatum.net/upgrading-from-netbsd-51-to-10_rc1.html)
 * [2023-12-26, 00:48:10](https://lobste.rs/s/zeyn75/bootstrapping_forth_40_lines_lua_code) - [Bootstrapping a Forth in 40 lines of Lua code (2008)](http://angg.twu.net/miniforth-article.html)
-* [2023-12-25, 23:13:34](https://lobste.rs/s/biow47/emulating_ipod_touch_2g_using_qemu) - [Emulating an iPod Touch 2G using QEMU](https://devos50.github.io/blog/2023/ipod-touch-2g-qemu/)
 * [2023-12-25, 19:45:12](https://lobste.rs/s/yiobhj/matrix_holiday_update_2023) - [The Matrix Holiday Update 2023](https://www2.matrix.org/blog/2023/12/25/the-matrix-holiday-update-2023/)
 * [2023-12-25, 17:25:48](https://lobste.rs/s/xujn5j/tkey_is_risc_v_computer_usb_c_case_can_run) - [TKey is a risc-V computer in a USB-C case, that can run small security applications](https://dev.tillitis.se/intro/)
 * [2023-12-25, 16:17:09](https://lobste.rs/s/qimpll/carcinization_go_programs_2022) - [The carcinization of Go programs (2022)](https://xeiaso.net//blog/carcinization-golang/)
