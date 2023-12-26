@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-26](index.md)
 
+* [2023-12-26, 11:37:29](https://lobste.rs/s/jcm2am/reminiscing_cgi_scripts) - [Reminiscing CGI scripts](https://rednafi.com/go/reminiscing_cgi_scripts/)
 * [2023-12-26, 11:09:25](https://lobste.rs/s/mzul7s/retrospective_my_personal_open_source) - [A Retrospective of My Personal Open Source Projects from 2023](https://susam.net/maze/code-2023.html)
 * [2023-12-26, 09:02:28](https://lobste.rs/s/w5duqw/data_corruption_bug_openzfs) - [A data corruption bug in OpenZFS?](https://despairlabs.com/blog/posts/2023-12-25-openzfs-data-corruption-bug/)
 * [2023-12-26, 03:25:49](https://lobste.rs/s/urnmru/challenging_projects_every_programmer) - [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html)

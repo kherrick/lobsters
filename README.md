@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-26, 11:37:29](https://lobste.rs/s/jcm2am/reminiscing_cgi_scripts) - [Reminiscing CGI scripts](https://rednafi.com/go/reminiscing_cgi_scripts/)
 * [2023-12-26, 11:09:25](https://lobste.rs/s/mzul7s/retrospective_my_personal_open_source) - [A Retrospective of My Personal Open Source Projects from 2023](https://susam.net/maze/code-2023.html)
 * [2023-12-26, 09:02:28](https://lobste.rs/s/w5duqw/data_corruption_bug_openzfs) - [A data corruption bug in OpenZFS?](https://despairlabs.com/blog/posts/2023-12-25-openzfs-data-corruption-bug/)
 * [2023-12-26, 03:25:49](https://lobste.rs/s/urnmru/challenging_projects_every_programmer) - [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html)
@@ -23,7 +24,6 @@
 * [2023-12-24, 18:59:05](https://lobste.rs/s/eqyilp/d2_declarative_diagramming) - [D2: Declarative Diagramming](https://d2lang.com)
 * [2023-12-24, 18:21:42](https://lobste.rs/s/lee9aa/happy_holidays_crustaceans) - [Happy Holidays, crustaceans](https://lobste.rs/s/lee9aa/happy_holidays_crustaceans)
 * [2023-12-24, 17:29:11](https://lobste.rs/s/faarcc/you_don_t_need_analytics_on_your_blog) - [You don't need analytics on your blog](https://blog.yossarian.net/2023/12/24/You-dont-need-analytics-on-your-blog)
-* [2023-12-24, 17:22:39](https://lobste.rs/s/hoipxx/kernel_string_overcopying) - [Kernel string overcopying](https://dxuuu.xyz/string-overcopy.html)
 * [2023-12-24, 10:03:54](https://lobste.rs/s/ogdyzt/ci_dream) - [CI Dream](https://matklad.github.io/2023/12/24/ci-dream.html)
 
 ## [Archives](archives/index.md)
