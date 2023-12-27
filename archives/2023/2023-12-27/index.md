@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-27](index.md)
 
+* [2023-12-27, 22:45:30](https://lobste.rs/s/lyjcza/my_proof_concept_record_type) - [My proof-of-concept record type](https://snarky.ca/my-proof-of-concept-record-type/)
 * [2023-12-27, 21:34:33](https://lobste.rs/s/idm05i/operation_triangulation_last_hardware) - [Operation Triangulation: The last (hardware) mystery](https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/)
 * [2023-12-27, 20:40:31](https://lobste.rs/s/oaye8l/lobsters_meetup_37c3) - [Lobsters Meetup - 37C3](https://events.ccc.de/congress/2023/hub/de/event/lobsters-meetup/)
 * [2023-12-27, 19:07:58](https://lobste.rs/s/yx0cvj/john_toolmaker) - [John the Toolmaker](https://two-wrongs.com/john-the-toolmaker)

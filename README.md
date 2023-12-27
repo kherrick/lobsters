@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-27, 22:45:30](https://lobste.rs/s/lyjcza/my_proof_concept_record_type) - [My proof-of-concept record type](https://snarky.ca/my-proof-of-concept-record-type/)
 * [2023-12-27, 21:34:33](https://lobste.rs/s/idm05i/operation_triangulation_last_hardware) - [Operation Triangulation: The last (hardware) mystery](https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/)
 * [2023-12-27, 20:40:31](https://lobste.rs/s/oaye8l/lobsters_meetup_37c3) - [Lobsters Meetup - 37C3](https://events.ccc.de/congress/2023/hub/de/event/lobsters-meetup/)
 * [2023-12-27, 19:07:58](https://lobste.rs/s/yx0cvj/john_toolmaker) - [John the Toolmaker](https://two-wrongs.com/john-the-toolmaker)
@@ -18,7 +19,6 @@
 * [2023-12-26, 21:49:11](https://lobste.rs/s/ckboyb/marble_adding_machine_2007) - [Marble adding machine (2007)](https://www.youtube.com/watch?v=GcDshWmhF4A)
 * [2023-12-26, 19:15:48](https://lobste.rs/s/qxkfhl/how_how_not_fix_color_banding) - [How to (and how not to) fix color banding](https://blog.frost.kiwi/GLSL-noise-and-radial-gradient/)
 * [2023-12-26, 17:57:53](https://lobste.rs/s/roleat/using_make_writing_less_makefile) - [Using Make – writing less Makefile](https://text.causal.agency/001-make.txt)
-* [2023-12-26, 17:34:39](https://lobste.rs/s/gzxmm1/smerf) - [SMERF](https://smerf-3d.github.io/)
 * [2023-12-26, 17:05:16](https://lobste.rs/s/fkzvij/state_garnet_2023) - [The State Of Garnet, 2023](https://wiki.alopex.li/TheStateOfGarnet2023)
 * [2023-12-26, 15:06:50](https://lobste.rs/s/ro7fw2/schedule_37th_chaos_communication) - [Schedule 37th Chaos Communication Congress](https://fahrplan.events.ccc.de/congress/2023/fahrplan/)
 * [2023-12-26, 14:24:38](https://lobste.rs/s/fh7bde/embeddings_vectors_arithmetic) - [Embeddings, Vectors, and Arithmetic](https://montyanderson.net/writing/embeddings)
