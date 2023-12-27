@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-27, 16:55:15",
+      "https://lobste.rs/s/dx67kd/fontimize_subset_fonts_exactly_only_your"
+    ],
+    [
+      "Fontimize: Subset Fonts to Exactly and Only Your Website's Used Characters",
+      "https://daveon.design/introducing-fontimize-subset-fonts-to-exactly-and-only-your-websites-used-characters.html"
+    ]
+  ],
+  [
+    [
       "2023-12-27, 13:19:53",
       "https://lobste.rs/s/g88bdu/guide_on_neovim_s_lsp_client"
     ],
@@ -237,16 +247,6 @@
     [
       "TKey is a risc-V computer in a USB-C case, that can run small security applications",
       "https://dev.tillitis.se/intro/"
-    ]
-  ],
-  [
-    [
-      "2023-12-25, 16:17:09",
-      "https://lobste.rs/s/qimpll/carcinization_go_programs_2022"
-    ],
-    [
-      "The carcinization of Go programs (2022)",
-      "https://xeiaso.net//blog/carcinization-golang/"
     ]
   ]
 ]
