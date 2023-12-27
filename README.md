@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-27, 17:24:04](https://lobste.rs/s/f2gj0q/experimental_evaluation_assumption) - [An Experimental Evaluation of the Assumption of Independence in Multi-Version Programming](http://sunnyday.mit.edu/papers.html#ft)
+* [2023-12-27, 17:17:31](https://lobste.rs/s/diqysr/pluto_modern_lua_dialect) - [Pluto, a modern Lua dialect](https://pluto-lang.org/)
 * [2023-12-27, 16:55:15](https://lobste.rs/s/dx67kd/fontimize_subset_fonts_exactly_only_your) - [Fontimize: Subset Fonts to Exactly and Only Your Website's Used Characters](https://daveon.design/introducing-fontimize-subset-fonts-to-exactly-and-only-your-websites-used-characters.html)
 * [2023-12-27, 13:19:53](https://lobste.rs/s/g88bdu/guide_on_neovim_s_lsp_client) - [A guide on Neovim's LSP client](https://vonheikemen.github.io/devlog/tools/neovim-lsp-client-guide/)
 * [2023-12-27, 13:18:09](https://lobste.rs/s/blszfs/it_takes_two_contract) - [It Takes Two to Contract](https://tigerbeetle.com/blog/2023-12-27-it-takes-two-to-contract/)
@@ -12,7 +14,6 @@
 * [2023-12-26, 22:17:37](https://lobste.rs/s/t4zg7d/ssh_proxycommand_unexpected_code) - [SSH ProxyCommand == unexpected code execution (CVE-2023-51385)](https://vin01.github.io/piptagole/ssh/security/openssh/libssh/remote-code-execution/2023/12/20/openssh-proxycommand-libssh-rce.html)
 * [2023-12-26, 21:49:11](https://lobste.rs/s/ckboyb/marble_adding_machine_2007) - [Marble adding machine (2007)](https://www.youtube.com/watch?v=GcDshWmhF4A)
 * [2023-12-26, 19:15:48](https://lobste.rs/s/qxkfhl/how_how_not_fix_color_banding) - [How to (and how not to) fix color banding](https://blog.frost.kiwi/GLSL-noise-and-radial-gradient/)
-* [2023-12-26, 18:46:16](https://lobste.rs/s/fdnc6k/scraping_women_s_college_volleyball) - [Scraping Women’s College Volleyball Roster Data](https://thescoop.org/archives/2023/12/25/womens-volleyball-roster-data/index.html)
 * [2023-12-26, 17:57:53](https://lobste.rs/s/roleat/using_make_writing_less_makefile) - [Using Make – writing less Makefile](https://text.causal.agency/001-make.txt)
 * [2023-12-26, 17:34:39](https://lobste.rs/s/gzxmm1/smerf) - [SMERF](https://smerf-3d.github.io/)
 * [2023-12-26, 17:05:16](https://lobste.rs/s/fkzvij/state_garnet_2023) - [The State Of Garnet, 2023](https://wiki.alopex.li/TheStateOfGarnet2023)
@@ -23,7 +24,6 @@
 * [2023-12-26, 11:09:25](https://lobste.rs/s/mzul7s/retrospective_my_personal_open_source) - [A Retrospective of My Personal Open Source Projects from 2023](https://susam.net/maze/code-2023.html)
 * [2023-12-26, 09:02:28](https://lobste.rs/s/w5duqw/data_corruption_bug_openzfs) - [A data corruption bug in OpenZFS?](https://despairlabs.com/blog/posts/2023-12-25-openzfs-data-corruption-bug/)
 * [2023-12-26, 03:25:49](https://lobste.rs/s/urnmru/challenging_projects_every_programmer) - [Challenging projects every programmer should try (2019)](https://austinhenley.com/blog/challengingprojects.html)
-* [2023-12-25, 19:45:12](https://lobste.rs/s/yiobhj/matrix_holiday_update_2023) - [The Matrix Holiday Update 2023](https://www2.matrix.org/blog/2023/12/25/the-matrix-holiday-update-2023/)
 * [2023-12-25, 17:25:48](https://lobste.rs/s/xujn5j/tkey_is_risc_v_computer_usb_c_case_can_run) - [TKey is a risc-V computer in a USB-C case, that can run small security applications](https://dev.tillitis.se/intro/)
 
 ## [Archives](archives/index.md)

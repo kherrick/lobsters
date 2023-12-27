@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-27](index.md)
 
+* [2023-12-27, 17:24:04](https://lobste.rs/s/f2gj0q/experimental_evaluation_assumption) - [An Experimental Evaluation of the Assumption of Independence in Multi-Version Programming](http://sunnyday.mit.edu/papers.html#ft)
+* [2023-12-27, 17:17:31](https://lobste.rs/s/diqysr/pluto_modern_lua_dialect) - [Pluto, a modern Lua dialect](https://pluto-lang.org/)
 * [2023-12-27, 16:55:15](https://lobste.rs/s/dx67kd/fontimize_subset_fonts_exactly_only_your) - [Fontimize: Subset Fonts to Exactly and Only Your Website's Used Characters](https://daveon.design/introducing-fontimize-subset-fonts-to-exactly-and-only-your-websites-used-characters.html)
 * [2023-12-27, 13:19:53](https://lobste.rs/s/g88bdu/guide_on_neovim_s_lsp_client) - [A guide on Neovim's LSP client](https://vonheikemen.github.io/devlog/tools/neovim-lsp-client-guide/)
 * [2023-12-27, 13:18:09](https://lobste.rs/s/blszfs/it_takes_two_contract) - [It Takes Two to Contract](https://tigerbeetle.com/blog/2023-12-27-it-takes-two-to-contract/)
