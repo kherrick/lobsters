@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-27, 19:07:58",
+      "https://lobste.rs/s/yx0cvj/john_toolmaker"
+    ],
+    [
+      "John the Toolmaker",
+      "https://two-wrongs.com/john-the-toolmaker"
+    ]
+  ],
+  [
+    [
       "2023-12-27, 18:29:51",
       "https://lobste.rs/s/dbwciq/4_billion_if_statements"
     ],
@@ -97,16 +107,6 @@
     [
       "Remote Controlling an HP 1670G Logic Analyzer with a Linux PC X Server",
       "https://tomverbeure.github.io/2023/12/26/Controlling-an-HP-1670G-with-Your-Linux-PC-X-Server.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-27, 01:29:48",
-      "https://lobste.rs/s/mwzydo/lessons_from_debugging_tricky_direct"
-    ],
-    [
-      "Lessons from debugging a tricky direct memory leak",
-      "https://medium.com/pinterest-engineering/lessons-from-debugging-a-tricky-direct-memory-leak-f638c722d9f2"
     ]
   ],
   [
