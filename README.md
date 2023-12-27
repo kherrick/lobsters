@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-27, 21:34:33](https://lobste.rs/s/idm05i/operation_triangulation_last_hardware) - [Operation Triangulation: The last (hardware) mystery](https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/)
 * [2023-12-27, 20:40:31](https://lobste.rs/s/oaye8l/lobsters_meetup_37c3) - [Lobsters Meetup - 37C3](https://events.ccc.de/congress/2023/hub/de/event/lobsters-meetup/)
 * [2023-12-27, 19:07:58](https://lobste.rs/s/yx0cvj/john_toolmaker) - [John the Toolmaker](https://two-wrongs.com/john-the-toolmaker)
 * [2023-12-27, 18:29:51](https://lobste.rs/s/dbwciq/4_billion_if_statements) - [4 billion if statements](https://andreasjhkarlsson.github.io/jekyll/update/2023/12/27/4-billion-if-statements.html)
@@ -22,7 +23,6 @@
 * [2023-12-26, 15:06:50](https://lobste.rs/s/ro7fw2/schedule_37th_chaos_communication) - [Schedule 37th Chaos Communication Congress](https://fahrplan.events.ccc.de/congress/2023/fahrplan/)
 * [2023-12-26, 14:24:38](https://lobste.rs/s/fh7bde/embeddings_vectors_arithmetic) - [Embeddings, Vectors, and Arithmetic](https://montyanderson.net/writing/embeddings)
 * [2023-12-26, 11:37:29](https://lobste.rs/s/jcm2am/reminiscing_cgi_scripts) - [Reminiscing CGI scripts](https://rednafi.com/go/reminiscing_cgi_scripts/)
-* [2023-12-26, 11:09:25](https://lobste.rs/s/mzul7s/retrospective_my_personal_open_source) - [A Retrospective of My Personal Open Source Projects from 2023](https://susam.net/maze/code-2023.html)
 * [2023-12-26, 09:02:28](https://lobste.rs/s/w5duqw/data_corruption_bug_openzfs) - [A data corruption bug in OpenZFS?](https://despairlabs.com/blog/posts/2023-12-25-openzfs-data-corruption-bug/)
 * [2023-12-26, 03:25:49](https://lobste.rs/s/urnmru/challenging_projects_every_programmer) - [Challenging projects every programmer should try (2019)](https://austinhenley.com/blog/challengingprojects.html)
 
