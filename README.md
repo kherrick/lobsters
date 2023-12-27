@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-27, 10:27:48](https://lobste.rs/s/49bgws/why_programming_is_good_medium_for) - [Why Programming is a Good Medium for Expressing Poorly Understood & Sloppily-Formulated Ideas (1967)](https://web.media.mit.edu/~minsky/papers/Why%20programming%20is--.html)
 * [2023-12-27, 10:09:24](https://lobste.rs/s/z2aeot/37c3_live_streams) - [37c3 Live-Streams](https://streaming.media.ccc.de/37c3/)
 * [2023-12-27, 09:17:59](https://lobste.rs/s/ppyhyj/remote_controlling_hp_1670g_logic) - [Remote Controlling an HP 1670G Logic Analyzer with a Linux PC X Server](https://tomverbeure.github.io/2023/12/26/Controlling-an-HP-1670G-with-Your-Linux-PC-X-Server.html)
 * [2023-12-27, 01:29:48](https://lobste.rs/s/mwzydo/lessons_from_debugging_tricky_direct) - [Lessons from debugging a tricky direct memory leak](https://medium.com/pinterest-engineering/lessons-from-debugging-a-tricky-direct-memory-leak-f638c722d9f2)
@@ -23,7 +24,6 @@
 * [2023-12-25, 19:45:12](https://lobste.rs/s/yiobhj/matrix_holiday_update_2023) - [The Matrix Holiday Update 2023](https://www2.matrix.org/blog/2023/12/25/the-matrix-holiday-update-2023/)
 * [2023-12-25, 17:25:48](https://lobste.rs/s/xujn5j/tkey_is_risc_v_computer_usb_c_case_can_run) - [TKey is a risc-V computer in a USB-C case, that can run small security applications](https://dev.tillitis.se/intro/)
 * [2023-12-25, 16:17:09](https://lobste.rs/s/qimpll/carcinization_go_programs_2022) - [The carcinization of Go programs (2022)](https://xeiaso.net//blog/carcinization-golang/)
-* [2023-12-25, 07:43:53](https://lobste.rs/s/gathxr/sql_as_api) - [SQL as API](https://valentin.willscher.de/posts/sql-api/)
 * [2023-12-25, 07:08:21](https://lobste.rs/s/wdxubs/ruby_3_3_0_released) - [Ruby 3.3.0 Released](https://www.ruby-lang.org/en/news/2023/12/25/ruby-3-3-0-released/)
 
 ## [Archives](archives/index.md)
