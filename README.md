@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-27, 10:09:24](https://lobste.rs/s/z2aeot/37c3_live_streams) - [37c3 Live-Streams](https://streaming.media.ccc.de/37c3/)
 * [2023-12-27, 09:17:59](https://lobste.rs/s/ppyhyj/remote_controlling_hp_1670g_logic) - [Remote Controlling an HP 1670G Logic Analyzer with a Linux PC X Server](https://tomverbeure.github.io/2023/12/26/Controlling-an-HP-1670G-with-Your-Linux-PC-X-Server.html)
 * [2023-12-27, 01:29:48](https://lobste.rs/s/mwzydo/lessons_from_debugging_tricky_direct) - [Lessons from debugging a tricky direct memory leak](https://medium.com/pinterest-engineering/lessons-from-debugging-a-tricky-direct-memory-leak-f638c722d9f2)
 * [2023-12-26, 22:26:41](https://lobste.rs/s/7t8zuc/rust_i_used_know_2022) - [The Rust I used to know (2022)](https://despairlabs.com/blog/posts/2022-08-20-the-rust-i-used-to-know/)
@@ -12,7 +13,6 @@
 * [2023-12-26, 17:05:16](https://lobste.rs/s/fkzvij/state_garnet_2023) - [The State Of Garnet, 2023](https://wiki.alopex.li/TheStateOfGarnet2023)
 * [2023-12-26, 15:58:29](https://lobste.rs/s/0kwqdc/microdot_yet_another_python_web) - [Microdot: Yet Another Python Web Framework](https://blog.miguelgrinberg.com/post/microdot-yet-another-python-web-framework)
 * [2023-12-26, 15:06:50](https://lobste.rs/s/ro7fw2/schedule_37th_chaos_communication) - [Schedule 37th Chaos Communication Congress](https://fahrplan.events.ccc.de/congress/2023/fahrplan/)
-* [2023-12-26, 14:31:35](https://lobste.rs/s/oghtj9/sophia_lang_weekly_02) - [Sophia Lang Weekly - 02](https://xnacly.me/posts/2023/sophia-lang-weekly02/)
 * [2023-12-26, 14:24:38](https://lobste.rs/s/fh7bde/embeddings_vectors_arithmetic) - [Embeddings, Vectors, and Arithmetic](https://montyanderson.net/writing/embeddings)
 * [2023-12-26, 11:37:29](https://lobste.rs/s/jcm2am/reminiscing_cgi_scripts) - [Reminiscing CGI scripts](https://rednafi.com/go/reminiscing_cgi_scripts/)
 * [2023-12-26, 11:09:25](https://lobste.rs/s/mzul7s/retrospective_my_personal_open_source) - [A Retrospective of My Personal Open Source Projects from 2023](https://susam.net/maze/code-2023.html)
