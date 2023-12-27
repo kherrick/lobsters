@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-27, 19:07:58](https://lobste.rs/s/yx0cvj/john_toolmaker) - [John the Toolmaker](https://two-wrongs.com/john-the-toolmaker)
 * [2023-12-27, 18:29:51](https://lobste.rs/s/dbwciq/4_billion_if_statements) - [4 billion if statements](https://andreasjhkarlsson.github.io/jekyll/update/2023/12/27/4-billion-if-statements.html)
 * [2023-12-27, 17:24:04](https://lobste.rs/s/f2gj0q/experimental_evaluation_assumption) - [An Experimental Evaluation of the Assumption of Independence in Multi-Version Programming](http://sunnyday.mit.edu/papers.html#ft)
 * [2023-12-27, 17:17:31](https://lobste.rs/s/diqysr/pluto_modern_lua_dialect) - [Pluto, a modern Lua dialect](https://pluto-lang.org/)
@@ -10,7 +11,6 @@
 * [2023-12-27, 10:27:48](https://lobste.rs/s/49bgws/why_programming_is_good_medium_for) - [Why Programming is a Good Medium for Expressing Poorly Understood & Sloppily-Formulated Ideas (1967)](https://web.media.mit.edu/~minsky/papers/Why%20programming%20is--.html)
 * [2023-12-27, 10:09:24](https://lobste.rs/s/z2aeot/37c3_live_streams) - [37c3 Live-Streams](https://streaming.media.ccc.de/37c3/)
 * [2023-12-27, 09:17:59](https://lobste.rs/s/ppyhyj/remote_controlling_hp_1670g_logic) - [Remote Controlling an HP 1670G Logic Analyzer with a Linux PC X Server](https://tomverbeure.github.io/2023/12/26/Controlling-an-HP-1670G-with-Your-Linux-PC-X-Server.html)
-* [2023-12-27, 01:29:48](https://lobste.rs/s/mwzydo/lessons_from_debugging_tricky_direct) - [Lessons from debugging a tricky direct memory leak](https://medium.com/pinterest-engineering/lessons-from-debugging-a-tricky-direct-memory-leak-f638c722d9f2)
 * [2023-12-26, 22:26:41](https://lobste.rs/s/7t8zuc/rust_i_used_know_2022) - [The Rust I used to know (2022)](https://despairlabs.com/blog/posts/2022-08-20-the-rust-i-used-to-know/)
 * [2023-12-26, 22:17:37](https://lobste.rs/s/t4zg7d/ssh_proxycommand_unexpected_code) - [SSH ProxyCommand == unexpected code execution (CVE-2023-51385)](https://vin01.github.io/piptagole/ssh/security/openssh/libssh/remote-code-execution/2023/12/20/openssh-proxycommand-libssh-rce.html)
 * [2023-12-26, 21:49:11](https://lobste.rs/s/ckboyb/marble_adding_machine_2007) - [Marble adding machine (2007)](https://www.youtube.com/watch?v=GcDshWmhF4A)
