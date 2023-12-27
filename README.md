@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-27, 16:55:15](https://lobste.rs/s/dx67kd/fontimize_subset_fonts_exactly_only_your) - [Fontimize: Subset Fonts to Exactly and Only Your Website's Used Characters](https://daveon.design/introducing-fontimize-subset-fonts-to-exactly-and-only-your-websites-used-characters.html)
 * [2023-12-27, 13:19:53](https://lobste.rs/s/g88bdu/guide_on_neovim_s_lsp_client) - [A guide on Neovim's LSP client](https://vonheikemen.github.io/devlog/tools/neovim-lsp-client-guide/)
 * [2023-12-27, 13:18:09](https://lobste.rs/s/blszfs/it_takes_two_contract) - [It Takes Two to Contract](https://tigerbeetle.com/blog/2023-12-27-it-takes-two-to-contract/)
 * [2023-12-27, 13:15:40](https://lobste.rs/s/nrypq7/heart_language_server) - [The Heart of a Language Server](https://rust-analyzer.github.io/blog/2023/12/26/the-heart-of-a-language-server.html)
@@ -24,7 +25,6 @@
 * [2023-12-26, 03:25:49](https://lobste.rs/s/urnmru/challenging_projects_every_programmer) - [Challenging projects every programmer should try (2019)](https://austinhenley.com/blog/challengingprojects.html)
 * [2023-12-25, 19:45:12](https://lobste.rs/s/yiobhj/matrix_holiday_update_2023) - [The Matrix Holiday Update 2023](https://www2.matrix.org/blog/2023/12/25/the-matrix-holiday-update-2023/)
 * [2023-12-25, 17:25:48](https://lobste.rs/s/xujn5j/tkey_is_risc_v_computer_usb_c_case_can_run) - [TKey is a risc-V computer in a USB-C case, that can run small security applications](https://dev.tillitis.se/intro/)
-* [2023-12-25, 16:17:09](https://lobste.rs/s/qimpll/carcinization_go_programs_2022) - [The carcinization of Go programs (2022)](https://xeiaso.net//blog/carcinization-golang/)
 
 ## [Archives](archives/index.md)
 
