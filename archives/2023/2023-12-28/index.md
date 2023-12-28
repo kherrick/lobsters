@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-28](index.md)
 
+* [2023-12-28, 20:51:30](https://lobste.rs/s/lfr2ug/you_can_t_do_because_i_hate_you) - [“You can’t do that because I hate you.”](https://bvisness.me/you-cant/)
 * [2023-12-28, 19:59:23](https://lobste.rs/s/9h6agm/managing_state_with_vdom) - [Managing State with VDOM](https://tonsky.me/blog/humble-vdom/)
 * [2023-12-28, 19:50:26](https://lobste.rs/s/spcj21/safer_recursion_f) - [Safer recursion in F#](https://devblogs.microsoft.com/dotnet/safer-recursion-in-fsharp/)
 * [2023-12-28, 19:46:03](https://lobste.rs/s/2uio6s/self_healing_code_is_future_software) - [Self-healing code is the future of software development](https://stackoverflow.blog/2023/12/28/self-healing-code-is-the-future-of-software-development/)
