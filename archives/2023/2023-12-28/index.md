@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-28](index.md)
 
+* [2023-12-28, 17:15:53](https://lobste.rs/s/i8qnvf/repurposing_hugo_as_wiki) - [Repurposing Hugo as a wiki](https://justinmiller.io/posts/2023/12/27/hugo-as-wiki/)
 * [2023-12-28, 16:51:42](https://lobste.rs/s/to8yat/how_build_abstractions_rust) - [How to Build Abstractions in Rust Applications: The Missing Rung on the Rust Education Ladder](https://orodu.net/2023/12/27/rust-abstractions.html)
 * [2023-12-28, 15:44:15](https://lobste.rs/s/md9jcb/ides_we_had_30_years_ago_we_lost) - [The IDEs we had 30 years ago... and we lost](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
 * [2023-12-28, 15:03:43](https://lobste.rs/s/rqvkwq/terminal_smooth_scrolling) - [terminal smooth scrolling](https://flak.tedunangst.com/post/terminal-smooth-scrolling)
