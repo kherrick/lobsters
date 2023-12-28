@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-28, 19:50:26](https://lobste.rs/s/spcj21/safer_recursion_f) - [Safer recursion in F#](https://devblogs.microsoft.com/dotnet/safer-recursion-in-fsharp/)
+* [2023-12-28, 19:46:03](https://lobste.rs/s/2uio6s/self_healing_code_is_future_software) - [Self-healing code is the future of software development](https://stackoverflow.blog/2023/12/28/self-healing-code-is-the-future-of-software-development/)
 * [2023-12-28, 19:30:45](https://lobste.rs/s/9xs6x1/strike_3_files_record_number_piracy) - [‘Strike 3’ Files Record Number of Piracy Lawsuits in 2023](https://torrentfreak.com/strike-3-files-record-number-of-piracy-lawsuits-in-2023-231227/)
 * [2023-12-28, 19:24:25](https://lobste.rs/s/xotzim/emacs_from_scratch_part_two_projects) - [Emacs From Scratch Part Two: Projects and Keybindings](https://arne.me/articles/emacs-from-scratch-part-two)
 * [2023-12-28, 18:12:43](https://lobste.rs/s/msppls/tm_gmtoff_typesystem_mystery) - [tm_gmtoff: A Typesystem Mystery](https://gist.github.com/FeepingCreature/9d85ed1e716fe568e20e1074c117f7c8)
@@ -17,13 +19,11 @@
 * [2023-12-27, 20:40:31](https://lobste.rs/s/oaye8l/lobsters_meetup_37c3) - [Lobsters Meetup - 37C3](https://events.ccc.de/congress/2023/hub/de/event/lobsters-meetup/)
 * [2023-12-27, 19:07:58](https://lobste.rs/s/yx0cvj/john_toolmaker) - [John the Toolmaker](https://two-wrongs.com/john-the-toolmaker)
 * [2023-12-27, 18:29:51](https://lobste.rs/s/dbwciq/4_billion_if_statements) - [4 billion if statements](https://andreasjhkarlsson.github.io/jekyll/update/2023/12/27/4-billion-if-statements.html)
-* [2023-12-27, 17:24:04](https://lobste.rs/s/f2gj0q/experimental_evaluation_assumption) - [An Experimental Evaluation of the Assumption of Independence in Multi-Version Programming](http://sunnyday.mit.edu/papers.html#ft)
 * [2023-12-27, 17:17:31](https://lobste.rs/s/diqysr/pluto_modern_lua_dialect) - [Pluto, a modern Lua dialect](https://pluto-lang.org/)
 * [2023-12-27, 16:55:15](https://lobste.rs/s/dx67kd/fontimize_subset_fonts_exactly_only_your) - [Fontimize: Subset Fonts to Exactly and Only Your Website's Used Characters](https://daveon.design/introducing-fontimize-subset-fonts-to-exactly-and-only-your-websites-used-characters.html)
 * [2023-12-27, 13:19:53](https://lobste.rs/s/g88bdu/guide_on_neovim_s_lsp_client) - [A guide on Neovim's LSP client](https://vonheikemen.github.io/devlog/tools/neovim-lsp-client-guide/)
 * [2023-12-27, 13:18:09](https://lobste.rs/s/blszfs/it_takes_two_contract) - [It Takes Two to Contract](https://tigerbeetle.com/blog/2023-12-27-it-takes-two-to-contract/)
 * [2023-12-27, 13:15:40](https://lobste.rs/s/nrypq7/heart_language_server) - [The Heart of a Language Server](https://rust-analyzer.github.io/blog/2023/12/26/the-heart-of-a-language-server.html)
-* [2023-12-27, 10:09:24](https://lobste.rs/s/z2aeot/37c3_live_streams) - [37c3 Live-Streams](https://streaming.media.ccc.de/37c3/)
 * [2023-12-26, 19:15:48](https://lobste.rs/s/qxkfhl/how_how_not_fix_color_banding) - [How to (and how not to) fix color banding](https://blog.frost.kiwi/GLSL-noise-and-radial-gradient/)
 
 ## [Archives](archives/index.md)

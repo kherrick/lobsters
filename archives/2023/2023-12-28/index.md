@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-28](index.md)
 
+* [2023-12-28, 19:50:26](https://lobste.rs/s/spcj21/safer_recursion_f) - [Safer recursion in F#](https://devblogs.microsoft.com/dotnet/safer-recursion-in-fsharp/)
+* [2023-12-28, 19:46:03](https://lobste.rs/s/2uio6s/self_healing_code_is_future_software) - [Self-healing code is the future of software development](https://stackoverflow.blog/2023/12/28/self-healing-code-is-the-future-of-software-development/)
 * [2023-12-28, 19:30:45](https://lobste.rs/s/9xs6x1/strike_3_files_record_number_piracy) - [‘Strike 3’ Files Record Number of Piracy Lawsuits in 2023](https://torrentfreak.com/strike-3-files-record-number-of-piracy-lawsuits-in-2023-231227/)
 * [2023-12-28, 19:24:25](https://lobste.rs/s/xotzim/emacs_from_scratch_part_two_projects) - [Emacs From Scratch Part Two: Projects and Keybindings](https://arne.me/articles/emacs-from-scratch-part-two)
 * [2023-12-28, 18:12:43](https://lobste.rs/s/msppls/tm_gmtoff_typesystem_mystery) - [tm_gmtoff: A Typesystem Mystery](https://gist.github.com/FeepingCreature/9d85ed1e716fe568e20e1074c117f7c8)
