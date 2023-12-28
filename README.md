@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-28, 15:44:15](https://lobste.rs/s/md9jcb/ides_we_had_30_years_ago_we_lost) - [The IDEs we had 30 years ago... and we lost](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
 * [2023-12-28, 15:03:43](https://lobste.rs/s/rqvkwq/terminal_smooth_scrolling) - [terminal smooth scrolling](https://flak.tedunangst.com/post/terminal-smooth-scrolling)
 * [2023-12-28, 14:09:28](https://lobste.rs/s/uvryfm/identifying_slow_postgresql_queries) - [Identifying slow PostgreSQL queries](https://sophiabits.com/blog/identifying-slow-postgresql-queries)
 * [2023-12-28, 13:46:29](https://lobste.rs/s/hitos3/cold_blooded_software) - [Cold-blooded software](https://dubroy.com/blog/cold-blooded-software/)
@@ -22,7 +23,6 @@
 * [2023-12-26, 22:26:41](https://lobste.rs/s/7t8zuc/rust_i_used_know_2022) - [The Rust I used to know (2022)](https://despairlabs.com/blog/posts/2022-08-20-the-rust-i-used-to-know/)
 * [2023-12-26, 22:17:37](https://lobste.rs/s/t4zg7d/ssh_proxycommand_unexpected_code) - [SSH ProxyCommand == unexpected code execution (CVE-2023-51385)](https://vin01.github.io/piptagole/ssh/security/openssh/libssh/remote-code-execution/2023/12/20/openssh-proxycommand-libssh-rce.html)
 * [2023-12-26, 19:15:48](https://lobste.rs/s/qxkfhl/how_how_not_fix_color_banding) - [How to (and how not to) fix color banding](https://blog.frost.kiwi/GLSL-noise-and-radial-gradient/)
-* [2023-12-26, 17:57:53](https://lobste.rs/s/roleat/using_make_writing_less_makefile) - [Using Make – writing less Makefile](https://text.causal.agency/001-make.txt)
 * [2023-12-26, 17:05:16](https://lobste.rs/s/fkzvij/state_garnet_2023) - [The State Of Garnet, 2023](https://wiki.alopex.li/TheStateOfGarnet2023)
 * [2023-12-26, 11:37:29](https://lobste.rs/s/jcm2am/reminiscing_cgi_scripts) - [Reminiscing CGI scripts](https://rednafi.com/go/reminiscing_cgi_scripts/)
 
