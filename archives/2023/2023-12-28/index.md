@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-28](index.md)
 
+* [2023-12-28, 22:46:41](https://lobste.rs/s/0oen48/celllvm) - [CellLVM](https://belkadan.com/blog/2023/12/CellLVM/)
 * [2023-12-28, 22:40:18](https://lobste.rs/s/lceket/microhs_haskell_implemented_with) - [MicroHs: Haskell implemented with combinators](https://github.com/augustss/MicroHs#micro-haskell)
 * [2023-12-28, 22:14:12](https://lobste.rs/s/uhhg9l/unexpected_ways_memory_subsystem) - [Unexpected Ways Memory Subsystem Interacts with Branch Prediction](https://johnnysswlab.com/unexpected-ways-memory-subsystem-interacts-with-branch-prediction/)
 * [2023-12-28, 22:07:44](https://lobste.rs/s/vpzx9x/what_heck_is_homomorphic_mapped_type) - [What the heck is a homomorphic mapped type?](https://andreasimonecosta.dev/posts/what-the-heck-is-a-homomorphic-mapped-type/)

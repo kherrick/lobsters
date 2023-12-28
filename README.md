@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-28, 22:46:41](https://lobste.rs/s/0oen48/celllvm) - [CellLVM](https://belkadan.com/blog/2023/12/CellLVM/)
 * [2023-12-28, 22:40:18](https://lobste.rs/s/lceket/microhs_haskell_implemented_with) - [MicroHs: Haskell implemented with combinators](https://github.com/augustss/MicroHs#micro-haskell)
 * [2023-12-28, 22:14:12](https://lobste.rs/s/uhhg9l/unexpected_ways_memory_subsystem) - [Unexpected Ways Memory Subsystem Interacts with Branch Prediction](https://johnnysswlab.com/unexpected-ways-memory-subsystem-interacts-with-branch-prediction/)
 * [2023-12-28, 22:07:44](https://lobste.rs/s/vpzx9x/what_heck_is_homomorphic_mapped_type) - [What the heck is a homomorphic mapped type?](https://andreasimonecosta.dev/posts/what-the-heck-is-a-homomorphic-mapped-type/)
 * [2023-12-28, 21:49:20](https://lobste.rs/s/ykjqcs/making_ruby_changes_boring_advent) - [The making of Ruby Changes: A boring advent](https://zverok.space/blog/2023-12-28-advent-of-changelog-fin.html)
 * [2023-12-28, 21:16:16](https://lobste.rs/s/jygned/ntcpqb_tcp_ip_for_qbasic_2008) - [NTCPQB: TCP/IP for QBasic (2008)](http://rubbermallet.org/software/ntcpqb.html)
 * [2023-12-28, 20:51:30](https://lobste.rs/s/lfr2ug/you_can_t_do_because_i_hate_you) - [“You can’t do that because I hate you.”](https://bvisness.me/you-cant/)
-* [2023-12-28, 19:59:23](https://lobste.rs/s/9h6agm/managing_state_with_vdom) - [Managing State with VDOM](https://tonsky.me/blog/humble-vdom/)
 * [2023-12-28, 19:50:26](https://lobste.rs/s/spcj21/safer_recursion_f) - [Safer recursion in F#](https://devblogs.microsoft.com/dotnet/safer-recursion-in-fsharp/)
 * [2023-12-28, 19:46:03](https://lobste.rs/s/2uio6s/self_healing_code_is_future_software) - [Self-healing code is the future of software development](https://stackoverflow.blog/2023/12/28/self-healing-code-is-the-future-of-software-development/)
 * [2023-12-28, 19:24:25](https://lobste.rs/s/xotzim/emacs_from_scratch_part_two_projects) - [Emacs From Scratch Part Two: Projects and Keybindings](https://arne.me/articles/emacs-from-scratch-part-two)
