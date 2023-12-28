@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-28, 21:49:20](https://lobste.rs/s/ykjqcs/making_ruby_changes_boring_advent) - [The making of Ruby Changes: A boring advent](https://zverok.space/blog/2023-12-28-advent-of-changelog-fin.html)
 * [2023-12-28, 21:16:16](https://lobste.rs/s/jygned/ntcpqb_tcp_ip_for_qbasic_2008) - [NTCPQB: TCP/IP for QBasic (2008)](http://rubbermallet.org/software/ntcpqb.html)
 * [2023-12-28, 20:51:30](https://lobste.rs/s/lfr2ug/you_can_t_do_because_i_hate_you) - [“You can’t do that because I hate you.”](https://bvisness.me/you-cant/)
 * [2023-12-28, 19:59:23](https://lobste.rs/s/9h6agm/managing_state_with_vdom) - [Managing State with VDOM](https://tonsky.me/blog/humble-vdom/)
@@ -16,7 +17,6 @@
 * [2023-12-28, 04:20:52](https://lobste.rs/s/hwjv0f/beginner_s_companion_theorem_proving) - [A Beginner's Companion to Theorem Proving in Lean 4](https://emallson.net/blog/a-beginners-companion-to-theorem-proving-in-lean/)
 * [2023-12-28, 04:17:56](https://lobste.rs/s/9akszq/scan2email) - [Scan2email](https://nathangrigg.com/2023/12/scan2email/)
 * [2023-12-27, 23:21:46](https://lobste.rs/s/oubncm/i_made_jsx_for_lua_because_i_hate_static) - [I made JSX for Lua (because I hate static sites)](https://bvisness.me/luax/)
-* [2023-12-27, 22:45:30](https://lobste.rs/s/lyjcza/my_proof_concept_record_type) - [My proof-of-concept record type](https://snarky.ca/my-proof-of-concept-record-type/)
 * [2023-12-27, 21:34:33](https://lobste.rs/s/idm05i/operation_triangulation_last_hardware) - [Operation Triangulation: The last (hardware) mystery](https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/)
 * [2023-12-27, 20:40:31](https://lobste.rs/s/oaye8l/lobsters_meetup_37c3) - [Lobsters Meetup - 37C3](https://events.ccc.de/congress/2023/hub/de/event/lobsters-meetup/)
 * [2023-12-27, 19:07:58](https://lobste.rs/s/yx0cvj/john_toolmaker) - [John the Toolmaker](https://two-wrongs.com/john-the-toolmaker)
