@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-28, 22:40:18",
+      "https://lobste.rs/s/lceket/microhs_haskell_implemented_with"
+    ],
+    [
+      "MicroHs: Haskell implemented with combinators",
+      "https://github.com/augustss/MicroHs#micro-haskell"
+    ]
+  ],
+  [
+    [
       "2023-12-28, 22:14:12",
       "https://lobste.rs/s/uhhg9l/unexpected_ways_memory_subsystem"
     ],
@@ -227,16 +237,6 @@
     [
       "Fontimize: Subset Fonts to Exactly and Only Your Website's Used Characters",
       "https://daveon.design/introducing-fontimize-subset-fonts-to-exactly-and-only-your-websites-used-characters.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-27, 13:18:09",
-      "https://lobste.rs/s/blszfs/it_takes_two_contract"
-    ],
-    [
-      "It Takes Two to Contract",
-      "https://tigerbeetle.com/blog/2023-12-27-it-takes-two-to-contract/"
     ]
   ],
   [
