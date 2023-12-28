@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-28, 19:24:25](https://lobste.rs/s/xotzim/emacs_from_scratch_part_two_projects) - [Emacs From Scratch Part Two: Projects and Keybindings](https://arne.me/articles/emacs-from-scratch-part-two)
 * [2023-12-28, 18:12:43](https://lobste.rs/s/msppls/tm_gmtoff_typesystem_mystery) - [tm_gmtoff: A Typesystem Mystery](https://gist.github.com/FeepingCreature/9d85ed1e716fe568e20e1074c117f7c8)
 * [2023-12-28, 17:15:53](https://lobste.rs/s/i8qnvf/repurposing_hugo_as_wiki) - [Repurposing Hugo as a wiki](https://justinmiller.io/posts/2023/12/27/hugo-as-wiki/)
 * [2023-12-28, 16:51:42](https://lobste.rs/s/to8yat/how_build_abstractions_rust) - [How to Build Abstractions in Rust Applications: The Missing Rung on the Rust Education Ladder](https://orodu.net/2023/12/27/rust-abstractions.html)
@@ -23,7 +24,6 @@
 * [2023-12-27, 13:15:40](https://lobste.rs/s/nrypq7/heart_language_server) - [The Heart of a Language Server](https://rust-analyzer.github.io/blog/2023/12/26/the-heart-of-a-language-server.html)
 * [2023-12-27, 10:27:48](https://lobste.rs/s/49bgws/why_programming_is_good_medium_for) - [Why Programming is a Good Medium for Expressing Poorly Understood & Sloppily-Formulated Ideas (1967)](https://web.media.mit.edu/~minsky/papers/Why%20programming%20is--.html)
 * [2023-12-27, 10:09:24](https://lobste.rs/s/z2aeot/37c3_live_streams) - [37c3 Live-Streams](https://streaming.media.ccc.de/37c3/)
-* [2023-12-26, 22:26:41](https://lobste.rs/s/7t8zuc/rust_i_used_know_2022) - [The Rust I used to know (2022)](https://despairlabs.com/blog/posts/2022-08-20-the-rust-i-used-to-know/)
 * [2023-12-26, 19:15:48](https://lobste.rs/s/qxkfhl/how_how_not_fix_color_banding) - [How to (and how not to) fix color banding](https://blog.frost.kiwi/GLSL-noise-and-radial-gradient/)
 
 ## [Archives](archives/index.md)
