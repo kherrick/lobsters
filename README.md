@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-28, 16:51:42](https://lobste.rs/s/to8yat/how_build_abstractions_rust) - [How to Build Abstractions in Rust Applications: The Missing Rung on the Rust Education Ladder](https://orodu.net/2023/12/27/rust-abstractions.html)
 * [2023-12-28, 15:44:15](https://lobste.rs/s/md9jcb/ides_we_had_30_years_ago_we_lost) - [The IDEs we had 30 years ago... and we lost](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
 * [2023-12-28, 15:03:43](https://lobste.rs/s/rqvkwq/terminal_smooth_scrolling) - [terminal smooth scrolling](https://flak.tedunangst.com/post/terminal-smooth-scrolling)
 * [2023-12-28, 14:09:28](https://lobste.rs/s/uvryfm/identifying_slow_postgresql_queries) - [Identifying slow PostgreSQL queries](https://sophiabits.com/blog/identifying-slow-postgresql-queries)
@@ -21,7 +22,6 @@
 * [2023-12-27, 10:27:48](https://lobste.rs/s/49bgws/why_programming_is_good_medium_for) - [Why Programming is a Good Medium for Expressing Poorly Understood & Sloppily-Formulated Ideas (1967)](https://web.media.mit.edu/~minsky/papers/Why%20programming%20is--.html)
 * [2023-12-27, 10:09:24](https://lobste.rs/s/z2aeot/37c3_live_streams) - [37c3 Live-Streams](https://streaming.media.ccc.de/37c3/)
 * [2023-12-26, 22:26:41](https://lobste.rs/s/7t8zuc/rust_i_used_know_2022) - [The Rust I used to know (2022)](https://despairlabs.com/blog/posts/2022-08-20-the-rust-i-used-to-know/)
-* [2023-12-26, 22:17:37](https://lobste.rs/s/t4zg7d/ssh_proxycommand_unexpected_code) - [SSH ProxyCommand == unexpected code execution (CVE-2023-51385)](https://vin01.github.io/piptagole/ssh/security/openssh/libssh/remote-code-execution/2023/12/20/openssh-proxycommand-libssh-rce.html)
 * [2023-12-26, 19:15:48](https://lobste.rs/s/qxkfhl/how_how_not_fix_color_banding) - [How to (and how not to) fix color banding](https://blog.frost.kiwi/GLSL-noise-and-radial-gradient/)
 * [2023-12-26, 17:05:16](https://lobste.rs/s/fkzvij/state_garnet_2023) - [The State Of Garnet, 2023](https://wiki.alopex.li/TheStateOfGarnet2023)
 * [2023-12-26, 11:37:29](https://lobste.rs/s/jcm2am/reminiscing_cgi_scripts) - [Reminiscing CGI scripts](https://rednafi.com/go/reminiscing_cgi_scripts/)
