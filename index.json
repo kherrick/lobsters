@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-28, 19:50:26",
+      "https://lobste.rs/s/spcj21/safer_recursion_f"
+    ],
+    [
+      "Safer recursion in F#",
+      "https://devblogs.microsoft.com/dotnet/safer-recursion-in-fsharp/"
+    ]
+  ],
+  [
+    [
+      "2023-12-28, 19:46:03",
+      "https://lobste.rs/s/2uio6s/self_healing_code_is_future_software"
+    ],
+    [
+      "Self-healing code is the future of software development",
+      "https://stackoverflow.blog/2023/12/28/self-healing-code-is-the-future-of-software-development/"
+    ]
+  ],
+  [
+    [
       "2023-12-28, 19:30:45",
       "https://lobste.rs/s/9xs6x1/strike_3_files_record_number_piracy"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-12-27, 17:24:04",
-      "https://lobste.rs/s/f2gj0q/experimental_evaluation_assumption"
-    ],
-    [
-      "An Experimental Evaluation of the Assumption of Independence in Multi-Version Programming",
-      "http://sunnyday.mit.edu/papers.html#ft"
-    ]
-  ],
-  [
-    [
       "2023-12-27, 17:17:31",
       "https://lobste.rs/s/diqysr/pluto_modern_lua_dialect"
     ],
@@ -227,16 +237,6 @@
     [
       "The Heart of a Language Server",
       "https://rust-analyzer.github.io/blog/2023/12/26/the-heart-of-a-language-server.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-27, 10:09:24",
-      "https://lobste.rs/s/z2aeot/37c3_live_streams"
-    ],
-    [
-      "37c3 Live-Streams",
-      "https://streaming.media.ccc.de/37c3/"
     ]
   ],
   [
