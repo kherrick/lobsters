@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-28, 15:03:43](https://lobste.rs/s/rqvkwq/terminal_smooth_scrolling) - [terminal smooth scrolling](https://flak.tedunangst.com/post/terminal-smooth-scrolling)
 * [2023-12-28, 14:09:28](https://lobste.rs/s/uvryfm/identifying_slow_postgresql_queries) - [Identifying slow PostgreSQL queries](https://sophiabits.com/blog/identifying-slow-postgresql-queries)
 * [2023-12-28, 13:46:29](https://lobste.rs/s/hitos3/cold_blooded_software) - [Cold-blooded software](https://dubroy.com/blog/cold-blooded-software/)
 * [2023-12-28, 04:20:52](https://lobste.rs/s/hwjv0f/beginner_s_companion_theorem_proving) - [A Beginner's Companion to Theorem Proving in Lean 4](https://emallson.net/blog/a-beginners-companion-to-theorem-proving-in-lean/)
@@ -18,7 +19,6 @@
 * [2023-12-27, 13:15:40](https://lobste.rs/s/nrypq7/heart_language_server) - [The Heart of a Language Server](https://rust-analyzer.github.io/blog/2023/12/26/the-heart-of-a-language-server.html)
 * [2023-12-27, 10:27:48](https://lobste.rs/s/49bgws/why_programming_is_good_medium_for) - [Why Programming is a Good Medium for Expressing Poorly Understood & Sloppily-Formulated Ideas (1967)](https://web.media.mit.edu/~minsky/papers/Why%20programming%20is--.html)
 * [2023-12-27, 10:09:24](https://lobste.rs/s/z2aeot/37c3_live_streams) - [37c3 Live-Streams](https://streaming.media.ccc.de/37c3/)
-* [2023-12-27, 09:17:59](https://lobste.rs/s/ppyhyj/remote_controlling_hp_1670g_logic) - [Remote Controlling an HP 1670G Logic Analyzer with a Linux PC X Server](https://tomverbeure.github.io/2023/12/26/Controlling-an-HP-1670G-with-Your-Linux-PC-X-Server.html)
 * [2023-12-26, 22:26:41](https://lobste.rs/s/7t8zuc/rust_i_used_know_2022) - [The Rust I used to know (2022)](https://despairlabs.com/blog/posts/2022-08-20-the-rust-i-used-to-know/)
 * [2023-12-26, 22:17:37](https://lobste.rs/s/t4zg7d/ssh_proxycommand_unexpected_code) - [SSH ProxyCommand == unexpected code execution (CVE-2023-51385)](https://vin01.github.io/piptagole/ssh/security/openssh/libssh/remote-code-execution/2023/12/20/openssh-proxycommand-libssh-rce.html)
 * [2023-12-26, 19:15:48](https://lobste.rs/s/qxkfhl/how_how_not_fix_color_banding) - [How to (and how not to) fix color banding](https://blog.frost.kiwi/GLSL-noise-and-radial-gradient/)
