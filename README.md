@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-28, 13:46:29](https://lobste.rs/s/hitos3/cold_blooded_software) - [Cold-blooded software](https://dubroy.com/blog/cold-blooded-software/)
 * [2023-12-28, 04:20:52](https://lobste.rs/s/hwjv0f/beginner_s_companion_theorem_proving) - [A Beginner's Companion to Theorem Proving in Lean 4](https://emallson.net/blog/a-beginners-companion-to-theorem-proving-in-lean/)
 * [2023-12-28, 04:17:56](https://lobste.rs/s/9akszq/scan2email) - [Scan2email](https://nathangrigg.com/2023/12/scan2email/)
 * [2023-12-27, 23:21:46](https://lobste.rs/s/oubncm/i_made_jsx_for_lua_because_i_hate_static) - [I made JSX for Lua (because I hate static sites)](https://bvisness.me/luax/)
@@ -22,7 +23,6 @@
 * [2023-12-26, 19:15:48](https://lobste.rs/s/qxkfhl/how_how_not_fix_color_banding) - [How to (and how not to) fix color banding](https://blog.frost.kiwi/GLSL-noise-and-radial-gradient/)
 * [2023-12-26, 17:57:53](https://lobste.rs/s/roleat/using_make_writing_less_makefile) - [Using Make – writing less Makefile](https://text.causal.agency/001-make.txt)
 * [2023-12-26, 17:05:16](https://lobste.rs/s/fkzvij/state_garnet_2023) - [The State Of Garnet, 2023](https://wiki.alopex.li/TheStateOfGarnet2023)
-* [2023-12-26, 14:24:38](https://lobste.rs/s/fh7bde/embeddings_vectors_arithmetic) - [Embeddings, Vectors, and Arithmetic](https://montyanderson.net/writing/embeddings)
 * [2023-12-26, 11:37:29](https://lobste.rs/s/jcm2am/reminiscing_cgi_scripts) - [Reminiscing CGI scripts](https://rednafi.com/go/reminiscing_cgi_scripts/)
 * [2023-12-26, 09:02:28](https://lobste.rs/s/w5duqw/data_corruption_bug_openzfs) - [A data corruption bug in OpenZFS?](https://despairlabs.com/blog/posts/2023-12-25-openzfs-data-corruption-bug/)
 
