@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-28, 21:49:20",
+      "https://lobste.rs/s/ykjqcs/making_ruby_changes_boring_advent"
+    ],
+    [
+      "The making of Ruby Changes: A boring advent",
+      "https://zverok.space/blog/2023-12-28-advent-of-changelog-fin.html"
+    ]
+  ],
+  [
+    [
       "2023-12-28, 21:16:16",
       "https://lobste.rs/s/jygned/ntcpqb_tcp_ip_for_qbasic_2008"
     ],
@@ -157,16 +167,6 @@
     [
       "I made JSX for Lua (because I hate static sites)",
       "https://bvisness.me/luax/"
-    ]
-  ],
-  [
-    [
-      "2023-12-27, 22:45:30",
-      "https://lobste.rs/s/lyjcza/my_proof_concept_record_type"
-    ],
-    [
-      "My proof-of-concept record type",
-      "https://snarky.ca/my-proof-of-concept-record-type/"
     ]
   ],
   [
