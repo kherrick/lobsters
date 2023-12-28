@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-28, 21:16:16](https://lobste.rs/s/jygned/ntcpqb_tcp_ip_for_qbasic_2008) - [NTCPQB: TCP/IP for QBasic (2008)](http://rubbermallet.org/software/ntcpqb.html)
 * [2023-12-28, 20:51:30](https://lobste.rs/s/lfr2ug/you_can_t_do_because_i_hate_you) - [“You can’t do that because I hate you.”](https://bvisness.me/you-cant/)
 * [2023-12-28, 19:59:23](https://lobste.rs/s/9h6agm/managing_state_with_vdom) - [Managing State with VDOM](https://tonsky.me/blog/humble-vdom/)
 * [2023-12-28, 19:50:26](https://lobste.rs/s/spcj21/safer_recursion_f) - [Safer recursion in F#](https://devblogs.microsoft.com/dotnet/safer-recursion-in-fsharp/)
@@ -22,7 +23,6 @@
 * [2023-12-27, 18:29:51](https://lobste.rs/s/dbwciq/4_billion_if_statements) - [4 billion if statements](https://andreasjhkarlsson.github.io/jekyll/update/2023/12/27/4-billion-if-statements.html)
 * [2023-12-27, 17:17:31](https://lobste.rs/s/diqysr/pluto_modern_lua_dialect) - [Pluto, a modern Lua dialect](https://pluto-lang.org/)
 * [2023-12-27, 16:55:15](https://lobste.rs/s/dx67kd/fontimize_subset_fonts_exactly_only_your) - [Fontimize: Subset Fonts to Exactly and Only Your Website's Used Characters](https://daveon.design/introducing-fontimize-subset-fonts-to-exactly-and-only-your-websites-used-characters.html)
-* [2023-12-27, 13:19:53](https://lobste.rs/s/g88bdu/guide_on_neovim_s_lsp_client) - [A guide on Neovim's LSP client](https://vonheikemen.github.io/devlog/tools/neovim-lsp-client-guide/)
 * [2023-12-27, 13:18:09](https://lobste.rs/s/blszfs/it_takes_two_contract) - [It Takes Two to Contract](https://tigerbeetle.com/blog/2023-12-27-it-takes-two-to-contract/)
 * [2023-12-27, 13:15:40](https://lobste.rs/s/nrypq7/heart_language_server) - [The Heart of a Language Server](https://rust-analyzer.github.io/blog/2023/12/26/the-heart-of-a-language-server.html)
 

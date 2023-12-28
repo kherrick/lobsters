@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-28](index.md)
 
+* [2023-12-28, 21:16:16](https://lobste.rs/s/jygned/ntcpqb_tcp_ip_for_qbasic_2008) - [NTCPQB: TCP/IP for QBasic (2008)](http://rubbermallet.org/software/ntcpqb.html)
 * [2023-12-28, 20:51:30](https://lobste.rs/s/lfr2ug/you_can_t_do_because_i_hate_you) - [“You can’t do that because I hate you.”](https://bvisness.me/you-cant/)
 * [2023-12-28, 19:59:23](https://lobste.rs/s/9h6agm/managing_state_with_vdom) - [Managing State with VDOM](https://tonsky.me/blog/humble-vdom/)
 * [2023-12-28, 19:50:26](https://lobste.rs/s/spcj21/safer_recursion_f) - [Safer recursion in F#](https://devblogs.microsoft.com/dotnet/safer-recursion-in-fsharp/)
