@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-28, 14:09:28",
+      "https://lobste.rs/s/uvryfm/identifying_slow_postgresql_queries"
+    ],
+    [
+      "Identifying slow PostgreSQL queries",
+      "https://sophiabits.com/blog/identifying-slow-postgresql-queries"
+    ]
+  ],
+  [
+    [
       "2023-12-28, 13:46:29",
       "https://lobste.rs/s/hitos3/cold_blooded_software"
     ],
@@ -237,16 +247,6 @@
     [
       "Reminiscing CGI scripts",
       "https://rednafi.com/go/reminiscing_cgi_scripts/"
-    ]
-  ],
-  [
-    [
-      "2023-12-26, 09:02:28",
-      "https://lobste.rs/s/w5duqw/data_corruption_bug_openzfs"
-    ],
-    [
-      "A data corruption bug in OpenZFS?",
-      "https://despairlabs.com/blog/posts/2023-12-25-openzfs-data-corruption-bug/"
     ]
   ]
 ]
