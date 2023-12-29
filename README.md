@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-29, 12:54:13](https://lobste.rs/s/hky5ew/gentoo_goes_binary_gentoo_linux) - [Gentoo goes Binary! – Gentoo Linux](https://www.gentoo.org/news/2023/12/29/Gentoo-binary.html)
 * [2023-12-29, 12:35:13](https://lobste.rs/s/ef3fue/tdd_is_personal_practice) - [TDD is a personal practice](https://dev.to/thiht/tdd-is-a-personal-practice-3o76)
 * [2023-12-29, 11:27:09](https://lobste.rs/s/gm03jy/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/gm03jy/what_are_you_doing_this_weekend)
 * [2023-12-29, 09:45:57](https://lobste.rs/s/3b2rvm/advent_technical_writing_2023) - [Advent of Technical Writing 2023](https://jamesg.blog/category/advent-of-technical-writing/)
@@ -14,7 +15,6 @@
 * [2023-12-28, 22:07:44](https://lobste.rs/s/vpzx9x/what_heck_is_homomorphic_mapped_type) - [What the heck is a homomorphic mapped type?](https://andreasimonecosta.dev/posts/what-the-heck-is-a-homomorphic-mapped-type/)
 * [2023-12-28, 21:49:20](https://lobste.rs/s/ykjqcs/making_ruby_changes_boring_advent) - [The making of Ruby Changes: A boring advent](https://zverok.space/blog/2023-12-28-advent-of-changelog-fin.html)
 * [2023-12-28, 20:51:30](https://lobste.rs/s/lfr2ug/you_can_t_do_because_i_hate_you) - [“You can’t do that because I hate you.”](https://bvisness.me/you-cant/)
-* [2023-12-28, 19:50:26](https://lobste.rs/s/spcj21/safer_recursion_f) - [Safer recursion in F#](https://devblogs.microsoft.com/dotnet/safer-recursion-in-fsharp/)
 * [2023-12-28, 19:46:03](https://lobste.rs/s/2uio6s/self_healing_code_is_future_software) - [Self-healing code is the future of software development](https://stackoverflow.blog/2023/12/28/self-healing-code-is-the-future-of-software-development/)
 * [2023-12-28, 19:24:25](https://lobste.rs/s/xotzim/emacs_from_scratch_part_two_projects) - [Emacs From Scratch Part Two: Projects and Keybindings](https://arne.me/articles/emacs-from-scratch-part-two)
 * [2023-12-28, 18:12:43](https://lobste.rs/s/msppls/tm_gmtoff_typesystem_mystery) - [tm_gmtoff: A Typesystem Mystery](https://gist.github.com/FeepingCreature/9d85ed1e716fe568e20e1074c117f7c8)
