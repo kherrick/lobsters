@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
+* [2023-12-29, 22:52:31](https://lobste.rs/s/okzayk/pc_lube_tune) - [PC Lube and Tune](https://pclt.sites.yale.edu/)
 * [2023-12-29, 22:30:04](https://lobste.rs/s/7hlgf3/summer_1968_london_zagreb_starting_end) - [The Summer 1968 in London and Zagreb: Starting or End Point for Computer art? (2005)](http://www.computerkunst.org/Kluetsch_London_Zagreb.pdf)
 * [2023-12-29, 22:18:52](https://lobste.rs/s/pnigl9/developer_touts_benefits_diagonal_mode) - [Developer Touts the Benefits of 'Diagonal Mode' Linux Desktop](https://www.extremetech.com/computing/developer-touts-the-benefits-of-diagonal-mode-linux-desktop)
 * [2023-12-29, 20:10:55](https://lobste.rs/s/jygzsl/apple_home_key_reader_apple_home_key) - [apple-home-key-reader: Apple Home Key Reader Implementation](https://github.com/kormax/apple-home-key-reader)

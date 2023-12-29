@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-29, 22:52:31](https://lobste.rs/s/okzayk/pc_lube_tune) - [PC Lube and Tune](https://pclt.sites.yale.edu/)
 * [2023-12-29, 22:30:04](https://lobste.rs/s/7hlgf3/summer_1968_london_zagreb_starting_end) - [The Summer 1968 in London and Zagreb: Starting or End Point for Computer art? (2005)](http://www.computerkunst.org/Kluetsch_London_Zagreb.pdf)
 * [2023-12-29, 22:18:52](https://lobste.rs/s/pnigl9/developer_touts_benefits_diagonal_mode) - [Developer Touts the Benefits of 'Diagonal Mode' Linux Desktop](https://www.extremetech.com/computing/developer-touts-the-benefits-of-diagonal-mode-linux-desktop)
 * [2023-12-29, 20:10:55](https://lobste.rs/s/jygzsl/apple_home_key_reader_apple_home_key) - [apple-home-key-reader: Apple Home Key Reader Implementation](https://github.com/kormax/apple-home-key-reader)
@@ -12,7 +13,6 @@
 * [2023-12-29, 09:45:57](https://lobste.rs/s/3b2rvm/advent_technical_writing_2023) - [Advent of Technical Writing 2023](https://jamesg.blog/category/advent-of-technical-writing/)
 * [2023-12-29, 08:40:17](https://lobste.rs/s/s9evop/statement_about_eu_cyber_resilience_act) - [Statement about the EU Cyber Resilience Act](https://bits.debian.org/2023/12/debian-statement-cyber-resillience-act.md.html)
 * [2023-12-29, 08:14:01](https://lobste.rs/s/n5uosu/piece_table) - [The Piece Table](https://darrenburns.net/posts/piece-table/)
-* [2023-12-29, 01:00:25](https://lobste.rs/s/r7f1rk/micropython_v1_22_0) - [MicroPython v1.22.0](https://github.com/micropython/micropython/releases/tag/v1.22.0)
 * [2023-12-29, 00:55:24](https://lobste.rs/s/mxgpxb/beej_s_guide_network_programming) - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 * [2023-12-28, 22:46:41](https://lobste.rs/s/0oen48/celllvm) - [CellLVM](https://belkadan.com/blog/2023/12/CellLVM/)
 * [2023-12-28, 22:40:18](https://lobste.rs/s/lceket/microhs_haskell_implemented_with) - [MicroHs: Haskell implemented with combinators](https://github.com/augustss/MicroHs#micro-haskell)
