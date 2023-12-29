@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-29, 17:25:08](https://lobste.rs/s/ogefp2/few_fast_solutions_for_advent_code_2023) - [A few fast solutions for Advent of Code 2023](https://jordankaye.dev/posts/aoc-2023/)
 * [2023-12-29, 12:54:13](https://lobste.rs/s/hky5ew/gentoo_goes_binary) - [Gentoo goes Binary](https://www.gentoo.org/news/2023/12/29/Gentoo-binary.html)
 * [2023-12-29, 12:35:13](https://lobste.rs/s/ef3fue/tdd_is_personal_practice) - [TDD is a personal practice](https://dev.to/thiht/tdd-is-a-personal-practice-3o76)
 * [2023-12-29, 11:27:09](https://lobste.rs/s/gm03jy/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/gm03jy/what_are_you_doing_this_weekend)
@@ -24,7 +25,6 @@
 * [2023-12-28, 15:03:43](https://lobste.rs/s/rqvkwq/terminal_smooth_scrolling) - [terminal smooth scrolling](https://flak.tedunangst.com/post/terminal-smooth-scrolling)
 * [2023-12-28, 13:46:29](https://lobste.rs/s/hitos3/cold_blooded_software) - [Cold-blooded software](https://dubroy.com/blog/cold-blooded-software/)
 * [2023-12-27, 23:21:46](https://lobste.rs/s/oubncm/i_made_jsx_for_lua_because_i_hate_static) - [I made JSX for Lua (because I hate static sites)](https://bvisness.me/luax/)
-* [2023-12-27, 19:07:58](https://lobste.rs/s/yx0cvj/john_toolmaker) - [John the Toolmaker](https://two-wrongs.com/john-the-toolmaker)
 
 ## [Archives](archives/index.md)
 
