@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-29, 17:28:58",
+      "https://lobste.rs/s/owdcbf/why_are_apple_silicon_vms_so_different"
+    ],
+    [
+      "Why are Apple silicon VMs so different?",
+      "https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/"
+    ]
+  ],
+  [
+    [
       "2023-12-29, 17:25:08",
       "https://lobste.rs/s/ogefp2/few_fast_solutions_for_advent_code_2023"
     ],
@@ -77,16 +87,6 @@
     [
       "PGF/TikZ Manual - Complete Online Documentation",
       "https://tikz.dev/"
-    ]
-  ],
-  [
-    [
-      "2023-12-29, 04:43:49",
-      "https://lobste.rs/s/ofswtx/coverage_py_with_sys_monitoring"
-    ],
-    [
-      "Coverage.py with sys.monitoring",
-      "https://nedbatchelder.com/blog/202312/coveragepy_with_sysmonitoring.html"
     ]
   ],
   [
