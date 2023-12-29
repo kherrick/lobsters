@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-29, 08:40:17",
+      "https://lobste.rs/s/s9evop/statement_about_eu_cyber_resilience_act"
+    ],
+    [
+      "Statement about the EU Cyber Resilience Act",
+      "https://bits.debian.org/2023/12/debian-statement-cyber-resillience-act.md.html"
+    ]
+  ],
+  [
+    [
       "2023-12-29, 08:14:01",
       "https://lobste.rs/s/n5uosu/piece_table"
     ],
@@ -87,16 +97,6 @@
     [
       "MicroHs: Haskell implemented with combinators",
       "https://github.com/augustss/MicroHs#micro-haskell"
-    ]
-  ],
-  [
-    [
-      "2023-12-28, 22:14:12",
-      "https://lobste.rs/s/uhhg9l/unexpected_ways_memory_subsystem"
-    ],
-    [
-      "Unexpected Ways Memory Subsystem Interacts with Branch Prediction",
-      "https://johnnysswlab.com/unexpected-ways-memory-subsystem-interacts-with-branch-prediction/"
     ]
   ],
   [
