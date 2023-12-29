@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-12-28, 22:40:18",
+      "https://lobste.rs/s/lceket/microhs_haskell_implemented_with"
+    ],
+    [
+      "MicroHs: Haskell implemented with combinators",
+      "https://github.com/augustss/MicroHs#micro-haskell"
+    ]
+  ],
+  [
+    [
       "2023-12-28, 22:14:12",
       "https://lobste.rs/s/uhhg9l/unexpected_ways_memory_subsystem"
     ],
@@ -237,16 +247,6 @@
     [
       "Fontimize: Subset Fonts to Exactly and Only Your Website's Used Characters",
       "https://daveon.design/introducing-fontimize-subset-fonts-to-exactly-and-only-your-websites-used-characters.html"
-    ]
-  ],
-  [
-    [
-      "2023-12-27, 13:15:40",
-      "https://lobste.rs/s/nrypq7/heart_language_server"
-    ],
-    [
-      "The Heart of a Language Server",
-      "https://rust-analyzer.github.io/blog/2023/12/26/the-heart-of-a-language-server.html"
     ]
   ]
 ]
