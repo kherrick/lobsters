@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-29, 20:10:55",
+      "https://lobste.rs/s/jygzsl/apple_home_key_reader_apple_home_key"
+    ],
+    [
+      "apple-home-key-reader: Apple Home Key Reader Implementation",
+      "https://github.com/kormax/apple-home-key-reader"
+    ]
+  ],
+  [
+    [
+      "2023-12-29, 20:06:14",
+      "https://lobste.rs/s/kfu8jg/inheritance_ruby_pictures"
+    ],
+    [
+      "Inheritance in Ruby, in pictures",
+      "https://blog.jez.io/inheritance-in-ruby/"
+    ]
+  ],
+  [
+    [
       "2023-12-29, 17:28:58",
       "https://lobste.rs/s/owdcbf/why_are_apple_silicon_vms_so_different"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2023-12-29, 01:00:25",
-      "https://lobste.rs/s/r7f1rk/micropython_v1_22_0"
-    ],
-    [
-      "MicroPython v1.22.0",
-      "https://github.com/micropython/micropython/releases/tag/v1.22.0"
-    ]
-  ],
-  [
-    [
       "2023-12-29, 00:55:24",
       "https://lobste.rs/s/mxgpxb/beej_s_guide_network_programming"
     ],
@@ -127,16 +137,6 @@
     [
       "MicroHs: Haskell implemented with combinators",
       "https://github.com/augustss/MicroHs#micro-haskell"
-    ]
-  ],
-  [
-    [
-      "2023-12-28, 22:07:44",
-      "https://lobste.rs/s/vpzx9x/what_heck_is_homomorphic_mapped_type"
-    ],
-    [
-      "What the heck is a homomorphic mapped type?",
-      "https://andreasimonecosta.dev/posts/what-the-heck-is-a-homomorphic-mapped-type/"
     ]
   ],
   [
