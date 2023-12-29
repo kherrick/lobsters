@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
+* [2023-12-29, 22:18:52](https://lobste.rs/s/pnigl9/developer_touts_benefits_diagonal_mode) - [Developer Touts the Benefits of 'Diagonal Mode' Linux Desktop](https://www.extremetech.com/computing/developer-touts-the-benefits-of-diagonal-mode-linux-desktop)
 * [2023-12-29, 20:10:55](https://lobste.rs/s/jygzsl/apple_home_key_reader_apple_home_key) - [apple-home-key-reader: Apple Home Key Reader Implementation](https://github.com/kormax/apple-home-key-reader)
 * [2023-12-29, 20:06:14](https://lobste.rs/s/kfu8jg/inheritance_ruby_pictures) - [Inheritance in Ruby, in pictures](https://blog.jez.io/inheritance-in-ruby/)
 * [2023-12-29, 17:28:58](https://lobste.rs/s/owdcbf/why_are_apple_silicon_vms_so_different) - [Why are Apple silicon VMs so different?](https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-29, 22:18:52](https://lobste.rs/s/pnigl9/developer_touts_benefits_diagonal_mode) - [Developer Touts the Benefits of 'Diagonal Mode' Linux Desktop](https://www.extremetech.com/computing/developer-touts-the-benefits-of-diagonal-mode-linux-desktop)
 * [2023-12-29, 20:10:55](https://lobste.rs/s/jygzsl/apple_home_key_reader_apple_home_key) - [apple-home-key-reader: Apple Home Key Reader Implementation](https://github.com/kormax/apple-home-key-reader)
 * [2023-12-29, 20:06:14](https://lobste.rs/s/kfu8jg/inheritance_ruby_pictures) - [Inheritance in Ruby, in pictures](https://blog.jez.io/inheritance-in-ruby/)
 * [2023-12-29, 17:28:58](https://lobste.rs/s/owdcbf/why_are_apple_silicon_vms_so_different) - [Why are Apple silicon VMs so different?](https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/)
@@ -17,7 +18,6 @@
 * [2023-12-28, 22:40:18](https://lobste.rs/s/lceket/microhs_haskell_implemented_with) - [MicroHs: Haskell implemented with combinators](https://github.com/augustss/MicroHs#micro-haskell)
 * [2023-12-28, 21:49:20](https://lobste.rs/s/ykjqcs/making_ruby_changes_boring_advent) - [The making of Ruby Changes: A boring advent](https://zverok.space/blog/2023-12-28-advent-of-changelog-fin.html)
 * [2023-12-28, 20:51:30](https://lobste.rs/s/lfr2ug/you_can_t_do_because_i_hate_you) - [“You can’t do that because I hate you.”](https://bvisness.me/you-cant/)
-* [2023-12-28, 19:46:03](https://lobste.rs/s/2uio6s/self_healing_code_is_future_software) - [Self-healing code is the future of software development](https://stackoverflow.blog/2023/12/28/self-healing-code-is-the-future-of-software-development/)
 * [2023-12-28, 19:24:25](https://lobste.rs/s/xotzim/emacs_from_scratch_part_two_projects) - [Emacs From Scratch Part Two: Projects and Keybindings](https://arne.me/articles/emacs-from-scratch-part-two)
 * [2023-12-28, 18:12:43](https://lobste.rs/s/msppls/tm_gmtoff_typesystem_mystery) - [tm_gmtoff: A Typesystem Mystery](https://gist.github.com/FeepingCreature/9d85ed1e716fe568e20e1074c117f7c8)
 * [2023-12-28, 17:15:53](https://lobste.rs/s/i8qnvf/repurposing_hugo_as_wiki) - [Repurposing Hugo as a wiki](https://justinmiller.io/posts/2023/12/27/hugo-as-wiki/)
