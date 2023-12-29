@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-29, 02:41:55](https://lobste.rs/s/lbrjv2/comparing_swift_compiler_performance_on) - [Comparing Swift Compiler Performance on Type Inference Part I: Strings, Numbers, Arrays, Dictionaries and Constructables](https://lucasvandongen.dev/compiler_performance.php)
 * [2023-12-29, 01:00:25](https://lobste.rs/s/r7f1rk/micropython_v1_22_0) - [MicroPython v1.22.0](https://github.com/micropython/micropython/releases/tag/v1.22.0)
 * [2023-12-29, 00:55:24](https://lobste.rs/s/mxgpxb/beej_s_guide_network_programming) - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 * [2023-12-29, 00:54:33](https://lobste.rs/s/xlqayt/ode_deluxe_paint) - [An Ode to Deluxe Paint](https://www.datagubbe.se/dpaint/)
@@ -9,7 +10,6 @@
 * [2023-12-28, 22:07:44](https://lobste.rs/s/vpzx9x/what_heck_is_homomorphic_mapped_type) - [What the heck is a homomorphic mapped type?](https://andreasimonecosta.dev/posts/what-the-heck-is-a-homomorphic-mapped-type/)
 * [2023-12-28, 21:49:20](https://lobste.rs/s/ykjqcs/making_ruby_changes_boring_advent) - [The making of Ruby Changes: A boring advent](https://zverok.space/blog/2023-12-28-advent-of-changelog-fin.html)
 * [2023-12-28, 20:51:30](https://lobste.rs/s/lfr2ug/you_can_t_do_because_i_hate_you) - [“You can’t do that because I hate you.”](https://bvisness.me/you-cant/)
-* [2023-12-28, 19:59:23](https://lobste.rs/s/9h6agm/managing_state_with_vdom) - [Managing State with VDOM](https://tonsky.me/blog/humble-vdom/)
 * [2023-12-28, 19:50:26](https://lobste.rs/s/spcj21/safer_recursion_f) - [Safer recursion in F#](https://devblogs.microsoft.com/dotnet/safer-recursion-in-fsharp/)
 * [2023-12-28, 19:46:03](https://lobste.rs/s/2uio6s/self_healing_code_is_future_software) - [Self-healing code is the future of software development](https://stackoverflow.blog/2023/12/28/self-healing-code-is-the-future-of-software-development/)
 * [2023-12-28, 19:24:25](https://lobste.rs/s/xotzim/emacs_from_scratch_part_two_projects) - [Emacs From Scratch Part Two: Projects and Keybindings](https://arne.me/articles/emacs-from-scratch-part-two)
