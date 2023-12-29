@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-29, 05:23:19](https://lobste.rs/s/7vzo8l/pgf_tikz_manual_complete_online) - [PGF/TikZ Manual - Complete Online Documentation](https://tikz.dev/)
 * [2023-12-29, 04:43:49](https://lobste.rs/s/ofswtx/coverage_py_with_sys_monitoring) - [Coverage.py with sys.monitoring](https://nedbatchelder.com/blog/202312/coveragepy_with_sysmonitoring.html)
 * [2023-12-29, 03:22:48](https://lobste.rs/s/udioew/how_lisp_is_designing_nanotechnology) - [How Lisp is designing Nanotechnology (with Prof. Christian Schafmeister)](https://www.youtube.com/watch?v=fytGL8vzGeQ)
 * [2023-12-29, 02:41:55](https://lobste.rs/s/lbrjv2/comparing_swift_compiler_performance_on) - [Comparing Swift Compiler Performance on Type Inference Part I: Strings, Numbers, Arrays, Dictionaries and Constructables](https://lucasvandongen.dev/compiler_performance.php)
@@ -23,7 +24,6 @@
 * [2023-12-27, 23:21:46](https://lobste.rs/s/oubncm/i_made_jsx_for_lua_because_i_hate_static) - [I made JSX for Lua (because I hate static sites)](https://bvisness.me/luax/)
 * [2023-12-27, 20:40:31](https://lobste.rs/s/oaye8l/lobsters_meetup_37c3) - [Lobsters Meetup - 37C3](https://events.ccc.de/congress/2023/hub/de/event/lobsters-meetup/)
 * [2023-12-27, 19:07:58](https://lobste.rs/s/yx0cvj/john_toolmaker) - [John the Toolmaker](https://two-wrongs.com/john-the-toolmaker)
-* [2023-12-27, 18:29:51](https://lobste.rs/s/dbwciq/4_billion_if_statements) - [4 billion if statements](https://andreasjhkarlsson.github.io/jekyll/update/2023/12/27/4-billion-if-statements.html)
 * [2023-12-27, 16:55:15](https://lobste.rs/s/dx67kd/fontimize_subset_fonts_exactly_only_your) - [Fontimize: Subset Fonts to Exactly and Only Your Website's Used Characters](https://daveon.design/introducing-fontimize-subset-fonts-to-exactly-and-only-your-websites-used-characters.html)
 
 ## [Archives](archives/index.md)
