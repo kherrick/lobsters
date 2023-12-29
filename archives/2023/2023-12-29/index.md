@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
+* [2023-12-29, 20:10:55](https://lobste.rs/s/jygzsl/apple_home_key_reader_apple_home_key) - [apple-home-key-reader: Apple Home Key Reader Implementation](https://github.com/kormax/apple-home-key-reader)
+* [2023-12-29, 20:06:14](https://lobste.rs/s/kfu8jg/inheritance_ruby_pictures) - [Inheritance in Ruby, in pictures](https://blog.jez.io/inheritance-in-ruby/)
 * [2023-12-29, 17:28:58](https://lobste.rs/s/owdcbf/why_are_apple_silicon_vms_so_different) - [Why are Apple silicon VMs so different?](https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/)
 * [2023-12-29, 17:25:08](https://lobste.rs/s/ogefp2/few_fast_solutions_for_advent_code_2023) - [A few fast solutions for Advent of Code 2023](https://jordankaye.dev/posts/aoc-2023/)
 * [2023-12-29, 12:54:13](https://lobste.rs/s/hky5ew/gentoo_goes_binary_gentoo_linux) - [Gentoo goes Binary! – Gentoo Linux](https://www.gentoo.org/news/2023/12/29/Gentoo-binary.html)
