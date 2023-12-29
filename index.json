@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-29, 12:54:13",
+      "https://lobste.rs/s/hky5ew/gentoo_goes_binary_gentoo_linux"
+    ],
+    [
+      "Gentoo goes Binary! – Gentoo Linux",
+      "https://www.gentoo.org/news/2023/12/29/Gentoo-binary.html"
+    ]
+  ],
+  [
+    [
       "2023-12-29, 12:35:13",
       "https://lobste.rs/s/ef3fue/tdd_is_personal_practice"
     ],
@@ -137,16 +147,6 @@
     [
       "“You can’t do that because I hate you.”",
       "https://bvisness.me/you-cant/"
-    ]
-  ],
-  [
-    [
-      "2023-12-28, 19:50:26",
-      "https://lobste.rs/s/spcj21/safer_recursion_f"
-    ],
-    [
-      "Safer recursion in F#",
-      "https://devblogs.microsoft.com/dotnet/safer-recursion-in-fsharp/"
     ]
   ],
   [
