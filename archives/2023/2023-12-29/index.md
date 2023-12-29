@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
+* [2023-12-29, 12:35:13](https://lobste.rs/s/ef3fue/tdd_is_personal_practice) - [TDD is a personal practice](https://dev.to/thiht/tdd-is-a-personal-practice-3o76)
 * [2023-12-29, 11:27:09](https://lobste.rs/s/gm03jy/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/gm03jy/what_are_you_doing_this_weekend)
 * [2023-12-29, 09:45:57](https://lobste.rs/s/3b2rvm/advent_technical_writing_2023) - [Advent of Technical Writing 2023](https://jamesg.blog/category/advent-of-technical-writing/)
 * [2023-12-29, 08:40:17](https://lobste.rs/s/s9evop/statement_about_eu_cyber_resilience_act) - [Statement about the EU Cyber Resilience Act](https://bits.debian.org/2023/12/debian-statement-cyber-resillience-act.md.html)
