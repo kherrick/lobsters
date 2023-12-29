@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-29](index.md)
 
+* [2023-12-29, 08:40:17](https://lobste.rs/s/s9evop/statement_about_eu_cyber_resilience_act) - [Statement about the EU Cyber Resilience Act](https://bits.debian.org/2023/12/debian-statement-cyber-resillience-act.md.html)
 * [2023-12-29, 08:14:01](https://lobste.rs/s/n5uosu/piece_table) - [The Piece Table](https://darrenburns.net/posts/piece-table/)
 * [2023-12-29, 05:23:19](https://lobste.rs/s/7vzo8l/pgf_tikz_manual_complete_online) - [PGF/TikZ Manual - Complete Online Documentation](https://tikz.dev/)
 * [2023-12-29, 04:43:49](https://lobste.rs/s/ofswtx/coverage_py_with_sys_monitoring) - [Coverage.py with sys.monitoring](https://nedbatchelder.com/blog/202312/coveragepy_with_sysmonitoring.html)
