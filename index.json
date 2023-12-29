@@ -1,22 +1,42 @@
 [
   [
     [
+      "2023-12-29, 01:00:25",
+      "https://lobste.rs/s/r7f1rk/micropython_v1_22_0"
+    ],
+    [
+      "MicroPython v1.22.0",
+      "https://github.com/micropython/micropython/releases/tag/v1.22.0"
+    ]
+  ],
+  [
+    [
+      "2023-12-29, 00:55:24",
+      "https://lobste.rs/s/mxgpxb/beej_s_guide_network_programming"
+    ],
+    [
+      "Beej's Guide to Network Programming",
+      "https://beej.us/guide/bgnet/"
+    ]
+  ],
+  [
+    [
+      "2023-12-29, 00:54:33",
+      "https://lobste.rs/s/xlqayt/ode_deluxe_paint"
+    ],
+    [
+      "An Ode to Deluxe Paint",
+      "https://www.datagubbe.se/dpaint/"
+    ]
+  ],
+  [
+    [
       "2023-12-28, 22:46:41",
       "https://lobste.rs/s/0oen48/celllvm"
     ],
     [
       "CellLVM",
       "https://belkadan.com/blog/2023/12/CellLVM/"
-    ]
-  ],
-  [
-    [
-      "2023-12-28, 22:40:18",
-      "https://lobste.rs/s/lceket/microhs_haskell_implemented_with"
-    ],
-    [
-      "MicroHs: Haskell implemented with combinators",
-      "https://github.com/augustss/MicroHs#micro-haskell"
     ]
   ],
   [
@@ -51,22 +71,22 @@
   ],
   [
     [
-      "2023-12-28, 21:16:16",
-      "https://lobste.rs/s/jygned/ntcpqb_tcp_ip_for_qbasic_2008"
-    ],
-    [
-      "NTCPQB: TCP/IP for QBasic (2008)",
-      "http://rubbermallet.org/software/ntcpqb.html"
-    ]
-  ],
-  [
-    [
       "2023-12-28, 20:51:30",
       "https://lobste.rs/s/lfr2ug/you_can_t_do_because_i_hate_you"
     ],
     [
       "“You can’t do that because I hate you.”",
       "https://bvisness.me/you-cant/"
+    ]
+  ],
+  [
+    [
+      "2023-12-28, 19:59:23",
+      "https://lobste.rs/s/9h6agm/managing_state_with_vdom"
+    ],
+    [
+      "Managing State with VDOM",
+      "https://tonsky.me/blog/humble-vdom/"
     ]
   ],
   [
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2023-12-28, 04:17:56",
-      "https://lobste.rs/s/9akszq/scan2email"
-    ],
-    [
-      "Scan2email",
-      "https://nathangrigg.com/2023/12/scan2email/"
-    ]
-  ],
-  [
-    [
       "2023-12-27, 23:21:46",
       "https://lobste.rs/s/oubncm/i_made_jsx_for_lua_because_i_hate_static"
     ],
     [
       "I made JSX for Lua (because I hate static sites)",
       "https://bvisness.me/luax/"
-    ]
-  ],
-  [
-    [
-      "2023-12-27, 21:34:33",
-      "https://lobste.rs/s/idm05i/operation_triangulation_last_hardware"
-    ],
-    [
-      "Operation Triangulation: The last (hardware) mystery",
-      "https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/"
     ]
   ],
   [
