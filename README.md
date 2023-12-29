@@ -10,7 +10,7 @@
 * [2023-12-29, 09:45:57](https://lobste.rs/s/3b2rvm/advent_technical_writing_2023) - [Advent of Technical Writing 2023](https://jamesg.blog/category/advent-of-technical-writing/)
 * [2023-12-29, 08:40:17](https://lobste.rs/s/s9evop/statement_about_eu_cyber_resilience_act) - [Statement about the EU Cyber Resilience Act](https://bits.debian.org/2023/12/debian-statement-cyber-resillience-act.md.html)
 * [2023-12-29, 08:14:01](https://lobste.rs/s/n5uosu/piece_table) - [The Piece Table](https://darrenburns.net/posts/piece-table/)
-* [2023-12-29, 05:23:19](https://lobste.rs/s/7vzo8l/pgf_tikz_manual_complete_online) - [PGF/TikZ Manual - Complete Online Documentation](https://tikz.dev/)
+* [2023-12-29, 01:00:25](https://lobste.rs/s/r7f1rk/micropython_v1_22_0) - [MicroPython v1.22.0](https://github.com/micropython/micropython/releases/tag/v1.22.0)
 * [2023-12-29, 00:55:24](https://lobste.rs/s/mxgpxb/beej_s_guide_network_programming) - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 * [2023-12-28, 22:46:41](https://lobste.rs/s/0oen48/celllvm) - [CellLVM](https://belkadan.com/blog/2023/12/CellLVM/)
 * [2023-12-28, 22:40:18](https://lobste.rs/s/lceket/microhs_haskell_implemented_with) - [MicroHs: Haskell implemented with combinators](https://github.com/augustss/MicroHs#micro-haskell)
