@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-30, 21:49:46](https://lobste.rs/s/b9nucf/more_fun_with_apple_s_internal_tools) - [More fun with Apple’s internal tools: creating a PDS card](https://www.downtowndougbrown.com/2023/12/more-fun-with-apples-internal-tools-creating-a-pds-card/)
 * [2023-12-30, 20:19:04](https://lobste.rs/s/ubk7mo/diffdebugging) - [DiffDebugging](https://martinfowler.com/bliki/DiffDebugging.html)
 * [2023-12-30, 20:05:29](https://lobste.rs/s/achl3c/testdrivendevelopment) - [TestDrivenDevelopment](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
 * [2023-12-30, 20:03:47](https://lobste.rs/s/iivwag/web_cgi_programs_aren_t_particularly_slow) - [Web CGI programs aren't particularly slow these days](https://utcc.utoronto.ca/~cks/space/blog/web/CGINotSlow)
@@ -17,7 +18,6 @@
 * [2023-12-30, 09:37:34](https://lobste.rs/s/vmwlht/low_level_thinking_high_level_shading) - [Low-level thinking in high-level shading languages 2023](https://interplayoflight.wordpress.com/2023/12/29/low-level-thinking-in-high-level-shading-languages-2023/)
 * [2023-12-30, 07:53:38](https://lobste.rs/s/sjadvm/metcalf_s_law_is_wrong_2006) - [Metcalf's Law is Wrong [2006]](https://spectrum.ieee.org/metcalfes-law-is-wrong)
 * [2023-12-30, 07:28:22](https://lobste.rs/s/wvscxo/creating_openbsd_wireguard_vpn_gateway) - [Creating an OpenBSD Wireguard VPN Gateway](https://blog.lambda.cx/posts/openbsd-wireguard-vpn-gateway/)
-* [2023-12-30, 04:19:06](https://lobste.rs/s/qdhcbu/understanding_parquet_iceberg_data) - [Understanding Parquet, Iceberg and Data Lakehouses at Broad](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
 * [2023-12-30, 00:36:50](https://lobste.rs/s/or0zk8/how_x86_64_addresses_memory_2020) - [How x86_64 addresses memory (2020)](https://blog.yossarian.net/2020/06/13/How-x86_64-addresses-memory)
 * [2023-12-29, 22:18:52](https://lobste.rs/s/pnigl9/developer_touts_benefits_diagonal_mode) - [Developer Touts the Benefits of 'Diagonal Mode' Linux Desktop](https://www.extremetech.com/computing/developer-touts-the-benefits-of-diagonal-mode-linux-desktop)
 * [2023-12-29, 20:06:14](https://lobste.rs/s/kfu8jg/inheritance_ruby_pictures) - [Inheritance in Ruby, in pictures](https://blog.jez.io/inheritance-in-ruby/)
