@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-30](index.md)
 
+* [2023-12-30, 11:48:52](https://lobste.rs/s/qi7tel/semantic_versioning_is_terrible_mistake) - [Semantic Versioning is a terrible mistake](https://reprog.wordpress.com/2023/12/27/semantic-versioning-is-a-terrible-mistake/)
 * [2023-12-30, 11:37:11](https://lobste.rs/s/6iwbon/commit_signing_2023_is_kinda_wack) - [commit signing in 2023 is kinda wack](https://lobi.to/writes/wacksigning/)
 * [2023-12-30, 11:30:13](https://lobste.rs/s/zprkr6/breaking_drm_polish_trains) - [Breaking \"DRM\" in Polish trains](https://www.youtube.com/watch?v=XrlrbfGZo2k)
 * [2023-12-30, 09:37:34](https://lobste.rs/s/vmwlht/low_level_thinking_high_level_shading) - [Low-level thinking in high-level shading languages 2023](https://interplayoflight.wordpress.com/2023/12/29/low-level-thinking-in-high-level-shading-languages-2023/)

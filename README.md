@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-30, 11:48:52](https://lobste.rs/s/qi7tel/semantic_versioning_is_terrible_mistake) - [Semantic Versioning is a terrible mistake](https://reprog.wordpress.com/2023/12/27/semantic-versioning-is-a-terrible-mistake/)
 * [2023-12-30, 11:37:11](https://lobste.rs/s/6iwbon/commit_signing_2023_is_kinda_wack) - [commit signing in 2023 is kinda wack](https://lobi.to/writes/wacksigning/)
 * [2023-12-30, 11:30:13](https://lobste.rs/s/zprkr6/breaking_drm_polish_trains) - [Breaking \"DRM\" in Polish trains](https://www.youtube.com/watch?v=XrlrbfGZo2k)
 * [2023-12-30, 09:37:34](https://lobste.rs/s/vmwlht/low_level_thinking_high_level_shading) - [Low-level thinking in high-level shading languages 2023](https://interplayoflight.wordpress.com/2023/12/29/low-level-thinking-in-high-level-shading-languages-2023/)
@@ -21,7 +22,6 @@
 * [2023-12-29, 12:35:13](https://lobste.rs/s/ef3fue/tdd_is_personal_practice) - [TDD is a personal practice](https://dev.to/thiht/tdd-is-a-personal-practice-3o76)
 * [2023-12-29, 08:40:17](https://lobste.rs/s/s9evop/statement_about_eu_cyber_resilience_act) - [Statement about the EU Cyber Resilience Act](https://bits.debian.org/2023/12/debian-statement-cyber-resillience-act.md.html)
 * [2023-12-29, 00:55:24](https://lobste.rs/s/mxgpxb/beej_s_guide_network_programming) - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
-* [2023-12-28, 18:12:43](https://lobste.rs/s/msppls/tm_gmtoff_typesystem_mystery) - [tm_gmtoff: A Typesystem Mystery](https://gist.github.com/FeepingCreature/9d85ed1e716fe568e20e1074c117f7c8)
 * [2023-12-28, 15:44:15](https://lobste.rs/s/md9jcb/ides_we_had_30_years_ago_we_lost) - [The IDEs we had 30 years ago... and we lost](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
 * [2023-12-28, 15:03:43](https://lobste.rs/s/rqvkwq/terminal_smooth_scrolling) - [terminal smooth scrolling](https://flak.tedunangst.com/post/terminal-smooth-scrolling)
 * [2023-12-28, 13:46:29](https://lobste.rs/s/hitos3/cold_blooded_software) - [Cold-blooded software](https://dubroy.com/blog/cold-blooded-software/)
