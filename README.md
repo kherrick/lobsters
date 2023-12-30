@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-30, 00:36:50](https://lobste.rs/s/or0zk8/how_x86_64_addresses_memory_2020) - [How x86_64 addresses memory (2020)](https://blog.yossarian.net/2020/06/13/How-x86_64-addresses-memory)
 * [2023-12-29, 22:52:31](https://lobste.rs/s/okzayk/pc_lube_tune) - [PC Lube and Tune](https://pclt.sites.yale.edu/)
 * [2023-12-29, 22:30:04](https://lobste.rs/s/7hlgf3/summer_1968_london_zagreb_starting_end) - [The Summer 1968 in London and Zagreb: Starting or End Point for Computer art? (2005)](http://www.computerkunst.org/Kluetsch_London_Zagreb.pdf)
 * [2023-12-29, 22:18:52](https://lobste.rs/s/pnigl9/developer_touts_benefits_diagonal_mode) - [Developer Touts the Benefits of 'Diagonal Mode' Linux Desktop](https://www.extremetech.com/computing/developer-touts-the-benefits-of-diagonal-mode-linux-desktop)
@@ -16,7 +17,6 @@
 * [2023-12-29, 00:55:24](https://lobste.rs/s/mxgpxb/beej_s_guide_network_programming) - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 * [2023-12-28, 22:46:41](https://lobste.rs/s/0oen48/celllvm) - [CellLVM](https://belkadan.com/blog/2023/12/CellLVM/)
 * [2023-12-28, 22:40:18](https://lobste.rs/s/lceket/microhs_haskell_implemented_with) - [MicroHs: Haskell implemented with combinators](https://github.com/augustss/MicroHs#micro-haskell)
-* [2023-12-28, 21:49:20](https://lobste.rs/s/ykjqcs/making_ruby_changes_boring_advent) - [The making of Ruby Changes: A boring advent](https://zverok.space/blog/2023-12-28-advent-of-changelog-fin.html)
 * [2023-12-28, 20:51:30](https://lobste.rs/s/lfr2ug/you_can_t_do_because_i_hate_you) - [“You can’t do that because I hate you.”](https://bvisness.me/you-cant/)
 * [2023-12-28, 19:24:25](https://lobste.rs/s/xotzim/emacs_from_scratch_part_two_projects) - [Emacs From Scratch Part Two: Projects and Keybindings](https://arne.me/articles/emacs-from-scratch-part-two)
 * [2023-12-28, 18:12:43](https://lobste.rs/s/msppls/tm_gmtoff_typesystem_mystery) - [tm_gmtoff: A Typesystem Mystery](https://gist.github.com/FeepingCreature/9d85ed1e716fe568e20e1074c117f7c8)
