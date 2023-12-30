@@ -1,11 +1,21 @@
 [
   [
     [
-      "2023-12-30, 20:05:29",
-      "https://lobste.rs/s/achl3c/bliki_testdrivendevelopment"
+      "2023-12-30, 20:19:04",
+      "https://lobste.rs/s/ubk7mo/diffdebugging"
     ],
     [
-      "bliki: TestDrivenDevelopment",
+      "DiffDebugging",
+      "https://martinfowler.com/bliki/DiffDebugging.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-30, 20:05:29",
+      "https://lobste.rs/s/achl3c/testdrivendevelopment"
+    ],
+    [
+      "TestDrivenDevelopment",
       "https://martinfowler.com/bliki/TestDrivenDevelopment.html"
     ]
   ],
@@ -157,16 +167,6 @@
     [
       "Creating an OpenBSD Wireguard VPN Gateway",
       "https://blog.lambda.cx/posts/openbsd-wireguard-vpn-gateway/"
-    ]
-  ],
-  [
-    [
-      "2023-12-30, 04:19:06",
-      "https://lobste.rs/s/qdhcbu/understanding_parquet_iceberg_data"
-    ],
-    [
-      "Understanding Parquet, Iceberg and Data Lakehouses at Broad",
-      "https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/"
     ]
   ],
   [
