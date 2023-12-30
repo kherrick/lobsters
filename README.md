@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-30, 20:05:29](https://lobste.rs/s/achl3c/bliki_testdrivendevelopment) - [bliki: TestDrivenDevelopment](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
+* [2023-12-30, 20:03:47](https://lobste.rs/s/iivwag/web_cgi_programs_aren_t_particularly_slow) - [Web CGI programs aren't particularly slow these days](https://utcc.utoronto.ca/~cks/space/blog/web/CGINotSlow)
 * [2023-12-30, 18:28:43](https://lobste.rs/s/8vco0w/what_are_you_planning_learn_2024) - [What are you planning to learn in 2024?](https://lobste.rs/s/8vco0w/what_are_you_planning_learn_2024)
 * [2023-12-30, 17:50:21](https://lobste.rs/s/gecprl/shadow_dom_problem_encapsulation) - [Shadow DOM and the problem of encapsulation](https://nolanlawson.com/2023/12/30/shadow-dom-and-the-problem-of-encapsulation/)
 * [2023-12-30, 17:23:57](https://lobste.rs/s/8yr4r3/how_jit_compilers_are_implemented_fast) - [How JIT Compilers are Implemented and Fast: Pypy, LuaJIT, Graal and More](https://kipp.ly/jits-impls/)
@@ -18,10 +20,8 @@
 * [2023-12-30, 00:47:07](https://lobste.rs/s/elxuel/getting_started_with_fail2ban_on_linux) - [Getting started with Fail2Ban on Linux](https://ittavern.com/getting-started-with-fail2ban-on-linux/)
 * [2023-12-30, 00:36:50](https://lobste.rs/s/or0zk8/how_x86_64_addresses_memory_2020) - [How x86_64 addresses memory (2020)](https://blog.yossarian.net/2020/06/13/How-x86_64-addresses-memory)
 * [2023-12-29, 22:18:52](https://lobste.rs/s/pnigl9/developer_touts_benefits_diagonal_mode) - [Developer Touts the Benefits of 'Diagonal Mode' Linux Desktop](https://www.extremetech.com/computing/developer-touts-the-benefits-of-diagonal-mode-linux-desktop)
-* [2023-12-29, 20:10:55](https://lobste.rs/s/jygzsl/apple_home_key_reader_apple_home_key) - [apple-home-key-reader: Apple Home Key Reader Implementation](https://github.com/kormax/apple-home-key-reader)
 * [2023-12-29, 20:06:14](https://lobste.rs/s/kfu8jg/inheritance_ruby_pictures) - [Inheritance in Ruby, in pictures](https://blog.jez.io/inheritance-in-ruby/)
 * [2023-12-29, 17:28:58](https://lobste.rs/s/owdcbf/why_are_apple_silicon_vms_so_different) - [Why are Apple silicon VMs so different?](https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/)
-* [2023-12-29, 17:25:08](https://lobste.rs/s/ogefp2/few_fast_solutions_for_advent_code_2023) - [A few fast solutions for Advent of Code 2023](https://jordankaye.dev/posts/aoc-2023/)
 * [2023-12-29, 12:54:13](https://lobste.rs/s/hky5ew/gentoo_goes_binary) - [Gentoo goes Binary](https://www.gentoo.org/news/2023/12/29/Gentoo-binary.html)
 * [2023-12-29, 12:35:13](https://lobste.rs/s/ef3fue/tdd_is_personal_practice) - [TDD is a personal practice](https://dev.to/thiht/tdd-is-a-personal-practice-3o76)
 * [2023-12-29, 08:40:17](https://lobste.rs/s/s9evop/statement_about_eu_cyber_resilience_act) - [Statement about the EU Cyber Resilience Act](https://bits.debian.org/2023/12/debian-statement-cyber-resillience-act.md.html)

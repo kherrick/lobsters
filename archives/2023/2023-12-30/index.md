@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-30](index.md)
 
+* [2023-12-30, 20:05:29](https://lobste.rs/s/achl3c/bliki_testdrivendevelopment) - [bliki: TestDrivenDevelopment](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
+* [2023-12-30, 20:03:47](https://lobste.rs/s/iivwag/web_cgi_programs_aren_t_particularly_slow) - [Web CGI programs aren't particularly slow these days](https://utcc.utoronto.ca/~cks/space/blog/web/CGINotSlow)
 * [2023-12-30, 18:28:43](https://lobste.rs/s/8vco0w/what_are_you_planning_learn_2024) - [What are you planning to learn in 2024?](https://lobste.rs/s/8vco0w/what_are_you_planning_learn_2024)
 * [2023-12-30, 17:50:21](https://lobste.rs/s/gecprl/shadow_dom_problem_encapsulation) - [Shadow DOM and the problem of encapsulation](https://nolanlawson.com/2023/12/30/shadow-dom-and-the-problem-of-encapsulation/)
 * [2023-12-30, 17:23:57](https://lobste.rs/s/8yr4r3/how_jit_compilers_are_implemented_fast) - [How JIT Compilers are Implemented and Fast: Pypy, LuaJIT, Graal and More](https://kipp.ly/jits-impls/)
