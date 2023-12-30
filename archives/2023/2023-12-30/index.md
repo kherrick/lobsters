@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-30](index.md)
 
+* [2023-12-30, 18:28:43](https://lobste.rs/s/8vco0w/what_are_you_planning_learn_2024) - [What are you planning to learn in 2024?](https://lobste.rs/s/8vco0w/what_are_you_planning_learn_2024)
 * [2023-12-30, 17:50:21](https://lobste.rs/s/gecprl/shadow_dom_problem_encapsulation) - [Shadow DOM and the problem of encapsulation](https://nolanlawson.com/2023/12/30/shadow-dom-and-the-problem-of-encapsulation/)
 * [2023-12-30, 17:23:57](https://lobste.rs/s/8yr4r3/how_jit_compilers_are_implemented_fast) - [How JIT Compilers are Implemented and Fast: Pypy, LuaJIT, Graal and More](https://kipp.ly/jits-impls/)
 * [2023-12-30, 17:14:56](https://lobste.rs/s/wnd4sx/vroomai_generate_sounds_from_words) - [VroomAI: Generate sounds from words](https://github.com/vroomai/vst)
