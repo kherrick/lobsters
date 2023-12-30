@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-30, 22:05:10](https://lobste.rs/s/wjeffb/byline_vim_tailwind_css_editor) - [byline a vim tailwind CSS editor](https://lobste.rs/s/wjeffb/byline_vim_tailwind_css_editor)
 * [2023-12-30, 21:49:46](https://lobste.rs/s/b9nucf/more_fun_with_apple_s_internal_tools) - [More fun with Apple’s internal tools: creating a PDS card](https://www.downtowndougbrown.com/2023/12/more-fun-with-apples-internal-tools-creating-a-pds-card/)
 * [2023-12-30, 20:19:04](https://lobste.rs/s/ubk7mo/diffdebugging) - [DiffDebugging](https://martinfowler.com/bliki/DiffDebugging.html)
 * [2023-12-30, 20:05:29](https://lobste.rs/s/achl3c/testdrivendevelopment) - [TestDrivenDevelopment](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
@@ -24,7 +25,6 @@
 * [2023-12-29, 17:28:58](https://lobste.rs/s/owdcbf/why_are_apple_silicon_vms_so_different) - [Why are Apple silicon VMs so different?](https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/)
 * [2023-12-29, 12:54:13](https://lobste.rs/s/hky5ew/gentoo_goes_binary) - [Gentoo goes Binary](https://www.gentoo.org/news/2023/12/29/Gentoo-binary.html)
 * [2023-12-29, 12:35:13](https://lobste.rs/s/ef3fue/tdd_is_personal_practice) - [TDD is a personal practice](https://dev.to/thiht/tdd-is-a-personal-practice-3o76)
-* [2023-12-29, 08:40:17](https://lobste.rs/s/s9evop/statement_about_eu_cyber_resilience_act) - [Statement about the EU Cyber Resilience Act](https://bits.debian.org/2023/12/debian-statement-cyber-resillience-act.md.html)
 
 ## [Archives](archives/index.md)
 
