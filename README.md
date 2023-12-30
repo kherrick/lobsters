@@ -12,6 +12,7 @@
 * [2023-12-30, 07:53:38](https://lobste.rs/s/sjadvm/metcalf_s_law_is_wrong_2006) - [Metcalf's Law is Wrong [2006]](https://spectrum.ieee.org/metcalfes-law-is-wrong)
 * [2023-12-30, 07:28:22](https://lobste.rs/s/wvscxo/creating_openbsd_wireguard_vpn_gateway) - [Creating an OpenBSD Wireguard VPN Gateway](https://blog.lambda.cx/posts/openbsd-wireguard-vpn-gateway/)
 * [2023-12-30, 04:19:06](https://lobste.rs/s/qdhcbu/understanding_parquet_iceberg_data) - [Understanding Parquet, Iceberg and Data Lakehouses at Broad](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
+* [2023-12-30, 03:41:56](https://lobste.rs/s/vdvvrv/julia_1_10_highlights) - [Julia 1.10 Highlights](https://julialang.org/blog/2023/12/julia-1.10-highlights/)
 * [2023-12-30, 01:33:12](https://lobste.rs/s/utacza/annette_wagner_oral_history) - [Annette Wagner oral history](https://archive.computerhistory.org/resources/access/text/2022/12/102795829-05-01-acc.pdf)
 * [2023-12-30, 00:47:07](https://lobste.rs/s/elxuel/getting_started_with_fail2ban_on_linux) - [Getting started with Fail2Ban on Linux](https://ittavern.com/getting-started-with-fail2ban-on-linux/)
 * [2023-12-30, 00:46:28](https://lobste.rs/s/e2jzmb/moving_from_dynamodb_tiered_storage_with) - [Moving from DynamoDB to tiered storage with MySQL+S3](https://zendesk.engineering/moving-from-dynamodb-to-tiered-storage-with-mysql-s3-cb3dc9bf813a)
@@ -24,7 +25,6 @@
 * [2023-12-29, 12:54:13](https://lobste.rs/s/hky5ew/gentoo_goes_binary) - [Gentoo goes Binary](https://www.gentoo.org/news/2023/12/29/Gentoo-binary.html)
 * [2023-12-29, 12:35:13](https://lobste.rs/s/ef3fue/tdd_is_personal_practice) - [TDD is a personal practice](https://dev.to/thiht/tdd-is-a-personal-practice-3o76)
 * [2023-12-29, 08:40:17](https://lobste.rs/s/s9evop/statement_about_eu_cyber_resilience_act) - [Statement about the EU Cyber Resilience Act](https://bits.debian.org/2023/12/debian-statement-cyber-resillience-act.md.html)
-* [2023-12-29, 00:55:24](https://lobste.rs/s/mxgpxb/beej_s_guide_network_programming) - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 
 ## [Archives](archives/index.md)
 
