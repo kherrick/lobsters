@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-30, 07:53:38](https://lobste.rs/s/sjadvm/metcalf_s_law_is_wrong_2006) - [Metcalf's Law is Wrong [2006]](https://spectrum.ieee.org/metcalfes-law-is-wrong)
 * [2023-12-30, 07:28:22](https://lobste.rs/s/wvscxo/creating_openbsd_wireguard_vpn_gateway) - [Creating an OpenBSD Wireguard VPN Gateway](https://blog.lambda.cx/posts/openbsd-wireguard-vpn-gateway/)
 * [2023-12-30, 04:19:06](https://lobste.rs/s/qdhcbu/understanding_parquet_iceberg_data) - [Understanding Parquet, Iceberg and Data Lakehouses at Broad](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
 * [2023-12-30, 03:41:56](https://lobste.rs/s/vdvvrv/julia_1_10_highlights) - [Julia 1.10 Highlights](https://julialang.org/blog/2023/12/julia-1.10-highlights/)
@@ -21,7 +22,6 @@
 * [2023-12-29, 00:55:24](https://lobste.rs/s/mxgpxb/beej_s_guide_network_programming) - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 * [2023-12-28, 19:24:25](https://lobste.rs/s/xotzim/emacs_from_scratch_part_two_projects) - [Emacs From Scratch Part Two: Projects and Keybindings](https://arne.me/articles/emacs-from-scratch-part-two)
 * [2023-12-28, 18:12:43](https://lobste.rs/s/msppls/tm_gmtoff_typesystem_mystery) - [tm_gmtoff: A Typesystem Mystery](https://gist.github.com/FeepingCreature/9d85ed1e716fe568e20e1074c117f7c8)
-* [2023-12-28, 17:15:53](https://lobste.rs/s/i8qnvf/repurposing_hugo_as_wiki) - [Repurposing Hugo as a wiki](https://justinmiller.io/posts/2023/12/27/hugo-as-wiki/)
 * [2023-12-28, 15:44:15](https://lobste.rs/s/md9jcb/ides_we_had_30_years_ago_we_lost) - [The IDEs we had 30 years ago... and we lost](https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and)
 * [2023-12-28, 15:03:43](https://lobste.rs/s/rqvkwq/terminal_smooth_scrolling) - [terminal smooth scrolling](https://flak.tedunangst.com/post/terminal-smooth-scrolling)
 * [2023-12-28, 13:46:29](https://lobste.rs/s/hitos3/cold_blooded_software) - [Cold-blooded software](https://dubroy.com/blog/cold-blooded-software/)

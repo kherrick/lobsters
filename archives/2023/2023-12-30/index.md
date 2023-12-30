@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-30](index.md)
 
+* [2023-12-30, 07:53:38](https://lobste.rs/s/sjadvm/metcalf_s_law_is_wrong_2006) - [Metcalf's Law is Wrong [2006]](https://spectrum.ieee.org/metcalfes-law-is-wrong)
 * [2023-12-30, 07:28:22](https://lobste.rs/s/wvscxo/creating_openbsd_wireguard_vpn_gateway) - [Creating an OpenBSD Wireguard VPN Gateway](https://blog.lambda.cx/posts/openbsd-wireguard-vpn-gateway/)
 * [2023-12-30, 04:19:06](https://lobste.rs/s/qdhcbu/understanding_parquet_iceberg_data) - [Understanding Parquet, Iceberg and Data Lakehouses at Broad](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
 * [2023-12-30, 03:41:56](https://lobste.rs/s/vdvvrv/julia_1_10_highlights) - [Julia 1.10 Highlights](https://julialang.org/blog/2023/12/julia-1.10-highlights/)
