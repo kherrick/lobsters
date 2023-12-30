@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-30, 23:39:02](https://lobste.rs/s/enqehz/canon_tdd) - [Canon TDD](https://tidyfirst.substack.com/p/canon-tdd)
 * [2023-12-30, 22:44:45](https://lobste.rs/s/utauhe/jank_s_new_persistent_string_is_fast) - [jank's new persistent string is fast](https://jank-lang.org/blog/2023-12-30-fast-string/)
 * [2023-12-30, 22:05:10](https://lobste.rs/s/wjeffb/byline_vim_tailwind_css_editor) - [byline a vim tailwind CSS editor](https://lobste.rs/s/wjeffb/byline_vim_tailwind_css_editor)
 * [2023-12-30, 21:49:46](https://lobste.rs/s/b9nucf/more_fun_with_apple_s_internal_tools) - [More fun with Apple’s internal tools: creating a PDS card](https://www.downtowndougbrown.com/2023/12/more-fun-with-apples-internal-tools-creating-a-pds-card/)
@@ -14,7 +15,6 @@
 * [2023-12-30, 14:36:35](https://lobste.rs/s/d6n5le/why_android_developers_no_longer_need) - [Why Android developers no longer need Windows USB drivers](https://fabiensanglard.net/android_windows_driver/index.html)
 * [2023-12-30, 14:16:49](https://lobste.rs/s/0xsnfj/8_months_ocaml_after_8_years_haskell) - [8 months of OCaml after 8 years of Haskell in production](https://dev.to/chshersh/8-months-of-ocaml-after-8-years-of-haskell-in-production-h96)
 * [2023-12-30, 13:51:35](https://lobste.rs/s/steoev/switching_things_over_ikiwiki) - [Switching Things Over to ikiwiki](https://bt.ht/posts/Switching_Things_Over_to_ikiwiki/)
-* [2023-12-30, 12:16:30](https://lobste.rs/s/nztuaa/using_canonical_log_lines_for_online) - [Using Canonical Log Lines for Online Visibility (2016)](https://brandur.org/canonical-log-lines)
 * [2023-12-30, 11:37:11](https://lobste.rs/s/6iwbon/commit_signing_2023_is_kinda_wack) - [commit signing in 2023 is kinda wack](https://lobi.to/writes/wacksigning/)
 * [2023-12-30, 11:30:13](https://lobste.rs/s/zprkr6/breaking_drm_polish_trains) - [Breaking \"DRM\" in Polish trains](https://www.youtube.com/watch?v=XrlrbfGZo2k)
 * [2023-12-30, 09:37:34](https://lobste.rs/s/vmwlht/low_level_thinking_high_level_shading) - [Low-level thinking in high-level shading languages 2023](https://interplayoflight.wordpress.com/2023/12/29/low-level-thinking-in-high-level-shading-languages-2023/)
