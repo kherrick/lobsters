@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-30, 22:44:45",
+      "https://lobste.rs/s/utauhe/jank_s_new_persistent_string_is_fast"
+    ],
+    [
+      "jank's new persistent string is fast",
+      "https://jank-lang.org/blog/2023-12-30-fast-string/"
+    ]
+  ],
+  [
+    [
       "2023-12-30, 22:05:10",
       "https://lobste.rs/s/wjeffb/byline_vim_tailwind_css_editor"
     ],
@@ -217,16 +227,6 @@
     [
       "Inheritance in Ruby, in pictures",
       "https://blog.jez.io/inheritance-in-ruby/"
-    ]
-  ],
-  [
-    [
-      "2023-12-29, 17:28:58",
-      "https://lobste.rs/s/owdcbf/why_are_apple_silicon_vms_so_different"
-    ],
-    [
-      "Why are Apple silicon VMs so different?",
-      "https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/"
     ]
   ],
   [
