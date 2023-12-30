@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-30, 03:41:56",
+      "https://lobste.rs/s/vdvvrv/julia_1_10_highlights"
+    ],
+    [
+      "Julia 1.10 Highlights",
+      "https://julialang.org/blog/2023/12/julia-1.10-highlights/"
+    ]
+  ],
+  [
+    [
       "2023-12-30, 01:33:12",
       "https://lobste.rs/s/utacza/annette_wagner_oral_history"
     ],
@@ -167,16 +177,6 @@
     [
       "Beej's Guide to Network Programming",
       "https://beej.us/guide/bgnet/"
-    ]
-  ],
-  [
-    [
-      "2023-12-28, 22:40:18",
-      "https://lobste.rs/s/lceket/microhs_haskell_implemented_with"
-    ],
-    [
-      "MicroHs: Haskell implemented with combinators",
-      "https://github.com/augustss/MicroHs#micro-haskell"
     ]
   ],
   [
