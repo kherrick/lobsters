@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-30, 03:41:56](https://lobste.rs/s/vdvvrv/julia_1_10_highlights) - [Julia 1.10 Highlights](https://julialang.org/blog/2023/12/julia-1.10-highlights/)
 * [2023-12-30, 01:33:12](https://lobste.rs/s/utacza/annette_wagner_oral_history) - [Annette Wagner oral history](https://archive.computerhistory.org/resources/access/text/2022/12/102795829-05-01-acc.pdf)
 * [2023-12-30, 00:47:07](https://lobste.rs/s/elxuel/getting_started_with_fail2ban_on_linux) - [Getting started with Fail2Ban on Linux](https://ittavern.com/getting-started-with-fail2ban-on-linux/)
 * [2023-12-30, 00:46:28](https://lobste.rs/s/e2jzmb/moving_from_dynamodb_tiered_storage_with) - [Moving from DynamoDB to tiered storage with MySQL+S3](https://zendesk.engineering/moving-from-dynamodb-to-tiered-storage-with-mysql-s3-cb3dc9bf813a)
@@ -17,7 +18,6 @@
 * [2023-12-29, 08:40:17](https://lobste.rs/s/s9evop/statement_about_eu_cyber_resilience_act) - [Statement about the EU Cyber Resilience Act](https://bits.debian.org/2023/12/debian-statement-cyber-resillience-act.md.html)
 * [2023-12-29, 08:14:01](https://lobste.rs/s/n5uosu/piece_table) - [The Piece Table](https://darrenburns.net/posts/piece-table/)
 * [2023-12-29, 00:55:24](https://lobste.rs/s/mxgpxb/beej_s_guide_network_programming) - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
-* [2023-12-28, 22:40:18](https://lobste.rs/s/lceket/microhs_haskell_implemented_with) - [MicroHs: Haskell implemented with combinators](https://github.com/augustss/MicroHs#micro-haskell)
 * [2023-12-28, 19:24:25](https://lobste.rs/s/xotzim/emacs_from_scratch_part_two_projects) - [Emacs From Scratch Part Two: Projects and Keybindings](https://arne.me/articles/emacs-from-scratch-part-two)
 * [2023-12-28, 18:12:43](https://lobste.rs/s/msppls/tm_gmtoff_typesystem_mystery) - [tm_gmtoff: A Typesystem Mystery](https://gist.github.com/FeepingCreature/9d85ed1e716fe568e20e1074c117f7c8)
 * [2023-12-28, 17:15:53](https://lobste.rs/s/i8qnvf/repurposing_hugo_as_wiki) - [Repurposing Hugo as a wiki](https://justinmiller.io/posts/2023/12/27/hugo-as-wiki/)
