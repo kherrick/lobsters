@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-30](index.md)
 
+* [2023-12-30, 22:44:45](https://lobste.rs/s/utauhe/jank_s_new_persistent_string_is_fast) - [jank's new persistent string is fast](https://jank-lang.org/blog/2023-12-30-fast-string/)
 * [2023-12-30, 22:05:10](https://lobste.rs/s/wjeffb/byline_vim_tailwind_css_editor) - [byline a vim tailwind CSS editor](https://lobste.rs/s/wjeffb/byline_vim_tailwind_css_editor)
 * [2023-12-30, 21:49:46](https://lobste.rs/s/b9nucf/more_fun_with_apple_s_internal_tools) - [More fun with Apple’s internal tools: creating a PDS card](https://www.downtowndougbrown.com/2023/12/more-fun-with-apples-internal-tools-creating-a-pds-card/)
 * [2023-12-30, 20:19:04](https://lobste.rs/s/ubk7mo/diffdebugging) - [DiffDebugging](https://martinfowler.com/bliki/DiffDebugging.html)

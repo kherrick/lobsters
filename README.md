@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-30, 22:44:45](https://lobste.rs/s/utauhe/jank_s_new_persistent_string_is_fast) - [jank's new persistent string is fast](https://jank-lang.org/blog/2023-12-30-fast-string/)
 * [2023-12-30, 22:05:10](https://lobste.rs/s/wjeffb/byline_vim_tailwind_css_editor) - [byline a vim tailwind CSS editor](https://lobste.rs/s/wjeffb/byline_vim_tailwind_css_editor)
 * [2023-12-30, 21:49:46](https://lobste.rs/s/b9nucf/more_fun_with_apple_s_internal_tools) - [More fun with Apple’s internal tools: creating a PDS card](https://www.downtowndougbrown.com/2023/12/more-fun-with-apples-internal-tools-creating-a-pds-card/)
 * [2023-12-30, 20:19:04](https://lobste.rs/s/ubk7mo/diffdebugging) - [DiffDebugging](https://martinfowler.com/bliki/DiffDebugging.html)
@@ -22,7 +23,6 @@
 * [2023-12-30, 00:36:50](https://lobste.rs/s/or0zk8/how_x86_64_addresses_memory_2020) - [How x86_64 addresses memory (2020)](https://blog.yossarian.net/2020/06/13/How-x86_64-addresses-memory)
 * [2023-12-29, 22:18:52](https://lobste.rs/s/pnigl9/developer_touts_benefits_diagonal_mode) - [Developer Touts the Benefits of 'Diagonal Mode' Linux Desktop](https://www.extremetech.com/computing/developer-touts-the-benefits-of-diagonal-mode-linux-desktop)
 * [2023-12-29, 20:06:14](https://lobste.rs/s/kfu8jg/inheritance_ruby_pictures) - [Inheritance in Ruby, in pictures](https://blog.jez.io/inheritance-in-ruby/)
-* [2023-12-29, 17:28:58](https://lobste.rs/s/owdcbf/why_are_apple_silicon_vms_so_different) - [Why are Apple silicon VMs so different?](https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/)
 * [2023-12-29, 12:54:13](https://lobste.rs/s/hky5ew/gentoo_goes_binary) - [Gentoo goes Binary](https://www.gentoo.org/news/2023/12/29/Gentoo-binary.html)
 * [2023-12-29, 12:35:13](https://lobste.rs/s/ef3fue/tdd_is_personal_practice) - [TDD is a personal practice](https://dev.to/thiht/tdd-is-a-personal-practice-3o76)
 
