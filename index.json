@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-12-30, 01:33:12",
+      "https://lobste.rs/s/utacza/annette_wagner_oral_history"
+    ],
+    [
+      "Annette Wagner oral history",
+      "https://archive.computerhistory.org/resources/access/text/2022/12/102795829-05-01-acc.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-12-30, 00:47:07",
+      "https://lobste.rs/s/elxuel/getting_started_with_fail2ban_on_linux"
+    ],
+    [
+      "Getting started with Fail2Ban on Linux",
+      "https://ittavern.com/getting-started-with-fail2ban-on-linux/"
+    ]
+  ],
+  [
+    [
+      "2023-12-30, 00:46:28",
+      "https://lobste.rs/s/e2jzmb/moving_from_dynamodb_tiered_storage_with"
+    ],
+    [
+      "Moving from DynamoDB to tiered storage with MySQL+S3",
+      "https://zendesk.engineering/moving-from-dynamodb-to-tiered-storage-with-mysql-s3-cb3dc9bf813a"
+    ]
+  ],
+  [
+    [
       "2023-12-30, 00:36:50",
       "https://lobste.rs/s/or0zk8/how_x86_64_addresses_memory_2020"
     ],
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2023-12-29, 09:45:57",
-      "https://lobste.rs/s/3b2rvm/advent_technical_writing_2023"
-    ],
-    [
-      "Advent of Technical Writing 2023",
-      "https://jamesg.blog/category/advent-of-technical-writing/"
-    ]
-  ],
-  [
-    [
       "2023-12-29, 08:40:17",
       "https://lobste.rs/s/s9evop/statement_about_eu_cyber_resilience_act"
     ],
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2023-12-28, 22:46:41",
-      "https://lobste.rs/s/0oen48/celllvm"
-    ],
-    [
-      "CellLVM",
-      "https://belkadan.com/blog/2023/12/CellLVM/"
-    ]
-  ],
-  [
-    [
       "2023-12-28, 22:40:18",
       "https://lobste.rs/s/lceket/microhs_haskell_implemented_with"
     ],
     [
       "MicroHs: Haskell implemented with combinators",
       "https://github.com/augustss/MicroHs#micro-haskell"
-    ]
-  ],
-  [
-    [
-      "2023-12-28, 20:51:30",
-      "https://lobste.rs/s/lfr2ug/you_can_t_do_because_i_hate_you"
-    ],
-    [
-      "“You can’t do that because I hate you.”",
-      "https://bvisness.me/you-cant/"
     ]
   ],
   [
