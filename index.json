@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-12-30, 11:48:52",
-      "https://lobste.rs/s/qi7tel/semantic_versioning_is_terrible_mistake"
-    ],
-    [
-      "Semantic Versioning is a terrible mistake",
-      "https://reprog.wordpress.com/2023/12/27/semantic-versioning-is-a-terrible-mistake/"
-    ]
-  ],
-  [
-    [
       "2023-12-30, 11:37:11",
       "https://lobste.rs/s/6iwbon/commit_signing_2023_is_kinda_wack"
     ],
@@ -247,6 +237,16 @@
     [
       "Statement about the EU Cyber Resilience Act",
       "https://bits.debian.org/2023/12/debian-statement-cyber-resillience-act.md.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-29, 00:55:24",
+      "https://lobste.rs/s/mxgpxb/beej_s_guide_network_programming"
+    ],
+    [
+      "Beej's Guide to Network Programming",
+      "https://beej.us/guide/bgnet/"
     ]
   ]
 ]
