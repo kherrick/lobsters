@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-30, 17:14:56](https://lobste.rs/s/wnd4sx/vroomai_generate_sounds_from_words) - [VroomAI: Generate sounds from words](https://github.com/vroomai/vst)
 * [2023-12-30, 16:30:42](https://lobste.rs/s/4dtsmp/rfc_9518_centralization) - [RFC 9518: Centralization, Decentralization, and Internet Standards](https://www.rfc-editor.org/rfc/rfc9518.html)
 * [2023-12-30, 14:36:35](https://lobste.rs/s/d6n5le/why_android_developers_no_longer_need) - [Why Android developers no longer need Windows USB drivers](https://fabiensanglard.net/android_windows_driver/index.html)
 * [2023-12-30, 14:16:49](https://lobste.rs/s/0xsnfj/8_months_ocaml_after_8_years_haskell) - [8 months of OCaml after 8 years of Haskell in production](https://dev.to/chshersh/8-months-of-ocaml-after-8-years-of-haskell-in-production-h96)
@@ -24,7 +25,6 @@
 * [2023-12-29, 12:54:13](https://lobste.rs/s/hky5ew/gentoo_goes_binary) - [Gentoo goes Binary](https://www.gentoo.org/news/2023/12/29/Gentoo-binary.html)
 * [2023-12-29, 12:35:13](https://lobste.rs/s/ef3fue/tdd_is_personal_practice) - [TDD is a personal practice](https://dev.to/thiht/tdd-is-a-personal-practice-3o76)
 * [2023-12-29, 08:40:17](https://lobste.rs/s/s9evop/statement_about_eu_cyber_resilience_act) - [Statement about the EU Cyber Resilience Act](https://bits.debian.org/2023/12/debian-statement-cyber-resillience-act.md.html)
-* [2023-12-29, 00:55:24](https://lobste.rs/s/mxgpxb/beej_s_guide_network_programming) - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 
 ## [Archives](archives/index.md)
 

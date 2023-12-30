@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-30](index.md)
 
+* [2023-12-30, 17:14:56](https://lobste.rs/s/wnd4sx/vroomai_generate_sounds_from_words) - [VroomAI: Generate sounds from words](https://github.com/vroomai/vst)
 * [2023-12-30, 16:30:42](https://lobste.rs/s/4dtsmp/rfc_9518_centralization) - [RFC 9518: Centralization, Decentralization, and Internet Standards](https://www.rfc-editor.org/rfc/rfc9518.html)
 * [2023-12-30, 14:36:35](https://lobste.rs/s/d6n5le/why_android_developers_no_longer_need) - [Why Android developers no longer need Windows USB drivers](https://fabiensanglard.net/android_windows_driver/index.html)
 * [2023-12-30, 14:16:49](https://lobste.rs/s/0xsnfj/8_months_ocaml_after_8_years_haskell) - [8 months of OCaml after 8 years of Haskell in production](https://dev.to/chshersh/8-months-of-ocaml-after-8-years-of-haskell-in-production-h96)
