@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-30, 00:36:50",
+      "https://lobste.rs/s/or0zk8/how_x86_64_addresses_memory_2020"
+    ],
+    [
+      "How x86_64 addresses memory (2020)",
+      "https://blog.yossarian.net/2020/06/13/How-x86_64-addresses-memory"
+    ]
+  ],
+  [
+    [
       "2023-12-29, 22:52:31",
       "https://lobste.rs/s/okzayk/pc_lube_tune"
     ],
@@ -157,16 +167,6 @@
     [
       "MicroHs: Haskell implemented with combinators",
       "https://github.com/augustss/MicroHs#micro-haskell"
-    ]
-  ],
-  [
-    [
-      "2023-12-28, 21:49:20",
-      "https://lobste.rs/s/ykjqcs/making_ruby_changes_boring_advent"
-    ],
-    [
-      "The making of Ruby Changes: A boring advent",
-      "https://zverok.space/blog/2023-12-28-advent-of-changelog-fin.html"
     ]
   ],
   [
