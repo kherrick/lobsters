@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-30, 14:16:49](https://lobste.rs/s/0xsnfj/8_months_ocaml_after_8_years_haskell) - [8 months of OCaml after 8 years of Haskell in production](https://dev.to/chshersh/8-months-of-ocaml-after-8-years-of-haskell-in-production-h96)
 * [2023-12-30, 13:51:35](https://lobste.rs/s/steoev/switching_things_over_ikiwiki) - [Switching Things Over to ikiwiki](https://bt.ht/posts/Switching_Things_Over_to_ikiwiki/)
 * [2023-12-30, 12:16:30](https://lobste.rs/s/nztuaa/using_canonical_log_lines_for_online) - [Using Canonical Log Lines for Online Visibility (2016)](https://brandur.org/canonical-log-lines)
 * [2023-12-30, 11:48:52](https://lobste.rs/s/qi7tel/semantic_versioning_is_terrible_mistake) - [Semantic Versioning is a terrible mistake](https://reprog.wordpress.com/2023/12/27/semantic-versioning-is-a-terrible-mistake/)
@@ -14,7 +15,6 @@
 * [2023-12-30, 00:47:07](https://lobste.rs/s/elxuel/getting_started_with_fail2ban_on_linux) - [Getting started with Fail2Ban on Linux](https://ittavern.com/getting-started-with-fail2ban-on-linux/)
 * [2023-12-30, 00:46:28](https://lobste.rs/s/e2jzmb/moving_from_dynamodb_tiered_storage_with) - [Moving from DynamoDB to tiered storage with MySQL+S3](https://zendesk.engineering/moving-from-dynamodb-to-tiered-storage-with-mysql-s3-cb3dc9bf813a)
 * [2023-12-30, 00:36:50](https://lobste.rs/s/or0zk8/how_x86_64_addresses_memory_2020) - [How x86_64 addresses memory (2020)](https://blog.yossarian.net/2020/06/13/How-x86_64-addresses-memory)
-* [2023-12-29, 22:30:04](https://lobste.rs/s/7hlgf3/summer_1968_london_zagreb_starting_end) - [The Summer 1968 in London and Zagreb: Starting or End Point for Computer art? (2005)](http://www.computerkunst.org/Kluetsch_London_Zagreb.pdf)
 * [2023-12-29, 22:18:52](https://lobste.rs/s/pnigl9/developer_touts_benefits_diagonal_mode) - [Developer Touts the Benefits of 'Diagonal Mode' Linux Desktop](https://www.extremetech.com/computing/developer-touts-the-benefits-of-diagonal-mode-linux-desktop)
 * [2023-12-29, 20:10:55](https://lobste.rs/s/jygzsl/apple_home_key_reader_apple_home_key) - [apple-home-key-reader: Apple Home Key Reader Implementation](https://github.com/kormax/apple-home-key-reader)
 * [2023-12-29, 20:06:14](https://lobste.rs/s/kfu8jg/inheritance_ruby_pictures) - [Inheritance in Ruby, in pictures](https://blog.jez.io/inheritance-in-ruby/)

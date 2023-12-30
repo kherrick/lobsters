@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-30](index.md)
 
+* [2023-12-30, 14:16:49](https://lobste.rs/s/0xsnfj/8_months_ocaml_after_8_years_haskell) - [8 months of OCaml after 8 years of Haskell in production](https://dev.to/chshersh/8-months-of-ocaml-after-8-years-of-haskell-in-production-h96)
 * [2023-12-30, 13:51:35](https://lobste.rs/s/steoev/switching_things_over_ikiwiki) - [Switching Things Over to ikiwiki](https://bt.ht/posts/Switching_Things_Over_to_ikiwiki/)
 * [2023-12-30, 12:16:30](https://lobste.rs/s/nztuaa/using_canonical_log_lines_for_online) - [Using Canonical Log Lines for Online Visibility (2016)](https://brandur.org/canonical-log-lines)
 * [2023-12-30, 11:48:52](https://lobste.rs/s/qi7tel/semantic_versioning_is_terrible_mistake) - [Semantic Versioning is a terrible mistake](https://reprog.wordpress.com/2023/12/27/semantic-versioning-is-a-terrible-mistake/)
