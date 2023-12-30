@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-30, 07:28:22",
+      "https://lobste.rs/s/wvscxo/creating_openbsd_wireguard_vpn_gateway"
+    ],
+    [
+      "Creating an OpenBSD Wireguard VPN Gateway",
+      "https://blog.lambda.cx/posts/openbsd-wireguard-vpn-gateway/"
+    ]
+  ],
+  [
+    [
       "2023-12-30, 04:19:06",
       "https://lobste.rs/s/qdhcbu/understanding_parquet_iceberg_data"
     ],
@@ -237,16 +247,6 @@
     [
       "Cold-blooded software",
       "https://dubroy.com/blog/cold-blooded-software/"
-    ]
-  ],
-  [
-    [
-      "2023-12-27, 23:21:46",
-      "https://lobste.rs/s/oubncm/i_made_jsx_for_lua_because_i_hate_static"
-    ],
-    [
-      "I made JSX for Lua (because I hate static sites)",
-      "https://bvisness.me/luax/"
     ]
   ]
 ]
