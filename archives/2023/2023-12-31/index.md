@@ -1,0 +1,8 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-12-31](index.md)
+
+* [2023-12-31, 00:38:12](https://lobste.rs/s/rf3dn5/functional_programming_sparks_joy_2_2019) - [Functional programming sparks joy 2 (2019)](https://rachelcarmena.github.io/2019/08/20/functional-programming-sparks-joy-2.html)
+* [2023-12-31, 00:16:22](https://lobste.rs/s/ai5pex/malware_abuses_google_oauth_endpoint) - [Malware abuses Google OAuth endpoint to ‘revive’ cookies, hijack accounts](https://www.bleepingcomputer.com/news/security/malware-abuses-google-oauth-endpoint-to-revive-cookies-hijack-accounts/)
