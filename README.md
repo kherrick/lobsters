@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-31, 14:32:50](https://lobste.rs/s/4jor6i/my_favorite_articles_2023) - [My Favorite Articles of 2023](https://arne.me/articles/my-favorite-articles-of-2023)
 * [2023-12-31, 14:21:46](https://lobste.rs/s/zu5dmq/email_addresses_are_not_good_permanent) - [Email addresses are not good 'permanent' identifiers for accounts](https://utcc.utoronto.ca/~cks/space/blog/tech/EmailAddressesBadPermanentIDs )
 * [2023-12-31, 11:26:32](https://lobste.rs/s/ineile/from_fill_prefix_tramp_highlights_from) - [From Fill Prefix to TRAMP - Highlights from Mastering Emacs Book Club](https://susam.net/maze/from-fill-prefix-to-tramp.html)
 * [2023-12-31, 10:56:49](https://lobste.rs/s/jsckqv/emacs_copilot_large_language_model_code) - [emacs-copilot: Large language model code completion for Emacs](https://github.com/jart/emacs-copilot)
@@ -14,7 +15,6 @@
 * [2023-12-31, 00:49:34](https://lobste.rs/s/wgpgsj/glove80_rethinking_split_contoured) - [Glove80: Rethinking split contoured ergonomic keyboard](https://kbd.news/Glove80-Rethinking-split-contoured-ergonomic-keyboard-1796.html)
 * [2023-12-30, 23:39:02](https://lobste.rs/s/enqehz/canon_tdd) - [Canon TDD](https://tidyfirst.substack.com/p/canon-tdd)
 * [2023-12-30, 22:44:45](https://lobste.rs/s/utauhe/jank_s_new_persistent_string_is_fast) - [jank's new persistent string is fast](https://jank-lang.org/blog/2023-12-30-fast-string/)
-* [2023-12-30, 22:05:10](https://lobste.rs/s/wjeffb/byline_vim_tailwind_css_editor) - [byline a vim tailwind CSS editor](https://lobste.rs/s/wjeffb/byline_vim_tailwind_css_editor)
 * [2023-12-30, 21:49:46](https://lobste.rs/s/b9nucf/more_fun_with_apple_s_internal_tools) - [More fun with Apple’s internal tools: creating a PDS card](https://www.downtowndougbrown.com/2023/12/more-fun-with-apples-internal-tools-creating-a-pds-card/)
 * [2023-12-30, 20:05:29](https://lobste.rs/s/achl3c/testdrivendevelopment) - [TestDrivenDevelopment](https://martinfowler.com/bliki/TestDrivenDevelopment.html)
 * [2023-12-30, 20:03:47](https://lobste.rs/s/iivwag/web_cgi_programs_aren_t_particularly_slow) - [Web CGI programs aren't particularly slow these days](https://utcc.utoronto.ca/~cks/space/blog/web/CGINotSlow)
