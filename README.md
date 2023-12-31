@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-31, 14:21:46](https://lobste.rs/s/zu5dmq/email_addresses_are_not_good_permanent) - [Email addresses are not good 'permanent' identifiers for accounts](https://utcc.utoronto.ca/~cks/space/blog/tech/EmailAddressesBadPermanentIDs )
 * [2023-12-31, 11:26:32](https://lobste.rs/s/ineile/from_fill_prefix_tramp_highlights_from) - [From Fill Prefix to TRAMP - Highlights from Mastering Emacs Book Club](https://susam.net/maze/from-fill-prefix-to-tramp.html)
 * [2023-12-31, 10:56:49](https://lobste.rs/s/jsckqv/emacs_copilot_large_language_model_code) - [emacs-copilot: Large language model code completion for Emacs](https://github.com/jart/emacs-copilot)
 * [2023-12-31, 10:39:08](https://lobste.rs/s/jih1sc/zig_cookbook_collection_simple_zig) - [zig-cookbook: a collection of simple Zig programs that demonstrate good practices to accomplish common programming tasks](https://github.com/zigcc/zig-cookbook)
@@ -11,7 +12,6 @@
 * [2023-12-31, 02:03:30](https://lobste.rs/s/ysxqz0/react_server_components_good_bad_ugly) - [React Server Components: the Good, the Bad, and the Ugly](https://www.mayank.co/blog/react-server-components/)
 * [2023-12-31, 00:59:24](https://lobste.rs/s/cfmf00/easily_host_go_modules_on_your_domain) - [Easily host Go modules on your domain](https://petersanchez.com/easily-host-go-modules-on-your-domain/)
 * [2023-12-31, 00:49:34](https://lobste.rs/s/wgpgsj/glove80_rethinking_split_contoured) - [Glove80: Rethinking split contoured ergonomic keyboard](https://kbd.news/Glove80-Rethinking-split-contoured-ergonomic-keyboard-1796.html)
-* [2023-12-31, 00:16:22](https://lobste.rs/s/ai5pex/malware_abuses_google_oauth_endpoint) - [Malware abuses Google OAuth endpoint to ‘revive’ cookies, hijack accounts](https://www.bleepingcomputer.com/news/security/malware-abuses-google-oauth-endpoint-to-revive-cookies-hijack-accounts/)
 * [2023-12-30, 23:39:02](https://lobste.rs/s/enqehz/canon_tdd) - [Canon TDD](https://tidyfirst.substack.com/p/canon-tdd)
 * [2023-12-30, 22:44:45](https://lobste.rs/s/utauhe/jank_s_new_persistent_string_is_fast) - [jank's new persistent string is fast](https://jank-lang.org/blog/2023-12-30-fast-string/)
 * [2023-12-30, 22:05:10](https://lobste.rs/s/wjeffb/byline_vim_tailwind_css_editor) - [byline a vim tailwind CSS editor](https://lobste.rs/s/wjeffb/byline_vim_tailwind_css_editor)
