@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-31, 05:56:47](https://lobste.rs/s/bvgipt/s_assembler_v0_1_self_hosting_riscv) - [S-Assembler v0.1: Self-hosting RiscV Assembler](https://hephaist-os.com/sasm/releases/v0.1.html)
 * [2023-12-31, 04:02:29](https://lobste.rs/s/dzedgh/core_calculus_for_documents) - [A Core Calculus for Documents](https://blog.brownplt.org/2023/12/28/document-calculus.html)
 * [2023-12-31, 03:57:28](https://lobste.rs/s/0ciz1n/how_bad_are_search_results_let_s_compare) - [How bad are search results? Let's compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
 * [2023-12-31, 02:15:45](https://lobste.rs/s/7cyya3/simulating_non_crt_monitors_with_ffmpeg) - [Simulating NON-CRT Monitors with FFmpeg: Flat Panel Displays (2021)](https://int10h.org/blog/2021/03/simulating-non-crt-monitors-ffmpeg-flat-panels/)
 * [2023-12-31, 02:03:30](https://lobste.rs/s/ysxqz0/react_server_components_good_bad_ugly) - [React Server Components: the Good, the Bad, and the Ugly](https://www.mayank.co/blog/react-server-components/)
 * [2023-12-31, 00:59:24](https://lobste.rs/s/cfmf00/easily_host_go_modules_on_your_domain) - [Easily host Go modules on your domain](https://petersanchez.com/easily-host-go-modules-on-your-domain/)
 * [2023-12-31, 00:49:34](https://lobste.rs/s/wgpgsj/glove80_rethinking_split_contoured) - [Glove80: Rethinking split contoured ergonomic keyboard](https://kbd.news/Glove80-Rethinking-split-contoured-ergonomic-keyboard-1796.html)
-* [2023-12-31, 00:38:12](https://lobste.rs/s/rf3dn5/functional_programming_sparks_joy_2_2019) - [Functional programming sparks joy 2 (2019)](https://rachelcarmena.github.io/2019/08/20/functional-programming-sparks-joy-2.html)
 * [2023-12-31, 00:16:22](https://lobste.rs/s/ai5pex/malware_abuses_google_oauth_endpoint) - [Malware abuses Google OAuth endpoint to ‘revive’ cookies, hijack accounts](https://www.bleepingcomputer.com/news/security/malware-abuses-google-oauth-endpoint-to-revive-cookies-hijack-accounts/)
 * [2023-12-30, 23:39:02](https://lobste.rs/s/enqehz/canon_tdd) - [Canon TDD](https://tidyfirst.substack.com/p/canon-tdd)
 * [2023-12-30, 22:44:45](https://lobste.rs/s/utauhe/jank_s_new_persistent_string_is_fast) - [jank's new persistent string is fast](https://jank-lang.org/blog/2023-12-30-fast-string/)
