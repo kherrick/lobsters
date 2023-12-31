@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-31, 17:14:07](https://lobste.rs/s/y5ybef/weird_cpio_discrepancy) - [A weird CPIO discrepancy](https://blog.colindou.ch/posts/lets-make-an-os-cpio-weirdness/)
 * [2023-12-31, 16:25:18](https://lobste.rs/s/7cu0tn/brief_retrospective_on_sparc_register) - [A Brief Retrospective on SPARC Register Windows](https://danielmangum.com/posts/retrospective-sparc-register-windows/)
 * [2023-12-31, 15:44:14](https://lobste.rs/s/ujegjt/o_1_build_file) - [O(1) Build File](https://matklad.github.io/2023/12/31/O(1)-build-file.html)
 * [2023-12-31, 14:39:03](https://lobste.rs/s/w69dj9/llama_mia_fork_llama_cpp_with) - [Llama.MIA — fork of Llama.cpp with interpretability features](https://grgv.xyz/blog/llama.mia/)
@@ -8,7 +9,6 @@
 * [2023-12-31, 11:26:32](https://lobste.rs/s/ineile/from_fill_prefix_tramp_highlights_from) - [From Fill Prefix to TRAMP - Highlights from Mastering Emacs Book Club](https://susam.net/maze/from-fill-prefix-to-tramp.html)
 * [2023-12-31, 10:39:08](https://lobste.rs/s/jih1sc/zig_cookbook_collection_simple_zig) - [zig-cookbook: a collection of simple Zig programs that demonstrate good practices to accomplish common programming tasks](https://github.com/zigcc/zig-cookbook)
 * [2023-12-31, 08:27:45](https://lobste.rs/s/dbutse/how_i_forked_steamos_for_my_living_room_pc) - [How I forked SteamOS for my living room PC](https://iliana.fyi/blog/build-your-own-steamos-updates/)
-* [2023-12-31, 07:07:08](https://lobste.rs/s/fhx9rh/bare_metal_bit_banging_ws2812b_driver) - [Bare Metal Bit Banging: WS2812B Driver](https://youtu.be/KUklOA91nk0)
 * [2023-12-31, 05:56:47](https://lobste.rs/s/bvgipt/s_assembler_v0_1_self_hosting_riscv) - [S-Assembler v0.1: Self-hosting RiscV Assembler](https://hephaist-os.com/sasm/releases/v0.1.html)
 * [2023-12-31, 04:02:29](https://lobste.rs/s/dzedgh/core_calculus_for_documents) - [A Core Calculus for Documents](https://blog.brownplt.org/2023/12/28/document-calculus.html)
 * [2023-12-31, 03:57:28](https://lobste.rs/s/0ciz1n/how_bad_are_search_results_let_s_compare) - [How bad are search results? Let's compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
