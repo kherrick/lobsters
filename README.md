@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-31, 10:56:49](https://lobste.rs/s/jsckqv/emacs_copilot_large_language_model_code) - [emacs-copilot: Large language model code completion for Emacs](https://github.com/jart/emacs-copilot)
 * [2023-12-31, 10:39:08](https://lobste.rs/s/jih1sc/zig_cookbook_collection_simple_zig) - [zig-cookbook: a collection of simple Zig programs that demonstrate good practices to accomplish common programming tasks](https://github.com/zigcc/zig-cookbook)
 * [2023-12-31, 08:27:45](https://lobste.rs/s/dbutse/how_i_forked_steamos_for_my_living_room_pc) - [How I forked SteamOS for my living room PC](https://iliana.fyi/blog/build-your-own-steamos-updates/)
 * [2023-12-31, 07:07:08](https://lobste.rs/s/fhx9rh/bare_metal_bit_banging_ws2812b_driver) - [Bare Metal Bit Banging: WS2812B Driver](https://youtu.be/KUklOA91nk0)
@@ -24,7 +25,6 @@
 * [2023-12-30, 13:51:35](https://lobste.rs/s/steoev/switching_things_over_ikiwiki) - [Switching Things Over to ikiwiki](https://bt.ht/posts/Switching_Things_Over_to_ikiwiki/)
 * [2023-12-30, 11:37:11](https://lobste.rs/s/6iwbon/commit_signing_2023_is_kinda_wack) - [commit signing in 2023 is kinda wack](https://lobi.to/writes/wacksigning/)
 * [2023-12-30, 11:30:13](https://lobste.rs/s/zprkr6/breaking_drm_polish_trains) - [Breaking \"DRM\" in Polish trains](https://www.youtube.com/watch?v=XrlrbfGZo2k)
-* [2023-12-29, 22:18:52](https://lobste.rs/s/pnigl9/developer_touts_benefits_diagonal_mode) - [Developer Touts the Benefits of 'Diagonal Mode' Linux Desktop](https://www.extremetech.com/computing/developer-touts-the-benefits-of-diagonal-mode-linux-desktop)
 
 ## [Archives](archives/index.md)
 
