@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-31, 11:26:32](https://lobste.rs/s/ineile/from_fill_prefix_tramp_highlights_from) - [From Fill Prefix to TRAMP - Highlights from Mastering Emacs Book Club](https://susam.net/maze/from-fill-prefix-to-tramp.html)
 * [2023-12-31, 10:56:49](https://lobste.rs/s/jsckqv/emacs_copilot_large_language_model_code) - [emacs-copilot: Large language model code completion for Emacs](https://github.com/jart/emacs-copilot)
 * [2023-12-31, 10:39:08](https://lobste.rs/s/jih1sc/zig_cookbook_collection_simple_zig) - [zig-cookbook: a collection of simple Zig programs that demonstrate good practices to accomplish common programming tasks](https://github.com/zigcc/zig-cookbook)
 * [2023-12-31, 08:27:45](https://lobste.rs/s/dbutse/how_i_forked_steamos_for_my_living_room_pc) - [How I forked SteamOS for my living room PC](https://iliana.fyi/blog/build-your-own-steamos-updates/)
@@ -7,7 +8,6 @@
 * [2023-12-31, 05:56:47](https://lobste.rs/s/bvgipt/s_assembler_v0_1_self_hosting_riscv) - [S-Assembler v0.1: Self-hosting RiscV Assembler](https://hephaist-os.com/sasm/releases/v0.1.html)
 * [2023-12-31, 04:02:29](https://lobste.rs/s/dzedgh/core_calculus_for_documents) - [A Core Calculus for Documents](https://blog.brownplt.org/2023/12/28/document-calculus.html)
 * [2023-12-31, 03:57:28](https://lobste.rs/s/0ciz1n/how_bad_are_search_results_let_s_compare) - [How bad are search results? Let's compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
-* [2023-12-31, 02:15:45](https://lobste.rs/s/7cyya3/simulating_non_crt_monitors_with_ffmpeg) - [Simulating NON-CRT Monitors with FFmpeg: Flat Panel Displays (2021)](https://int10h.org/blog/2021/03/simulating-non-crt-monitors-ffmpeg-flat-panels/)
 * [2023-12-31, 02:03:30](https://lobste.rs/s/ysxqz0/react_server_components_good_bad_ugly) - [React Server Components: the Good, the Bad, and the Ugly](https://www.mayank.co/blog/react-server-components/)
 * [2023-12-31, 00:59:24](https://lobste.rs/s/cfmf00/easily_host_go_modules_on_your_domain) - [Easily host Go modules on your domain](https://petersanchez.com/easily-host-go-modules-on-your-domain/)
 * [2023-12-31, 00:49:34](https://lobste.rs/s/wgpgsj/glove80_rethinking_split_contoured) - [Glove80: Rethinking split contoured ergonomic keyboard](https://kbd.news/Glove80-Rethinking-split-contoured-ergonomic-keyboard-1796.html)
