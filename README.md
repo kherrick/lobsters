@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-31, 19:14:24](https://lobste.rs/s/ts4hgl/one_button_calculator_one_line_morse_code) - [One Button Calculator (One Line Morse Code Python Repl)](https://punkx.org/calc/)
 * [2023-12-31, 19:10:17](https://lobste.rs/s/yrmwka/test_smarter_not_harder_focus_on_outcomes) - [Test Smarter, Not Harder: Focus on Outcomes, Not Outputs](https://markus.oberlehner.net/blog/test-smarter-not-harder-focus-on-outcomes-not-outputs/)
 * [2023-12-31, 19:03:43](https://lobste.rs/s/td2cgo/interesting_double_poly_latches_inside) - [Interesting double-poly latches inside AMD's vintage LANCE Ethernet chip](http://www.righto.com/2023/12/amd-lance-ethernet-double-poly.html)
 * [2023-12-31, 18:23:36](https://lobste.rs/s/5y98tv/cray_1_supercomputer_performance) - [Cray 1 Supercomputer Performance Comparisons With Home Computers Phones and Tablets](http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm)
 * [2023-12-31, 18:17:54](https://lobste.rs/s/mvzl5x/building_custom_emacs_auth_source) - [Building a custom Emacs auth-source](https://www.emoses.org/posts/emacs-custom-auth-source/)
 * [2023-12-31, 18:13:23](https://lobste.rs/s/ybk77k/musings_on_c_charter) - [Musings on the C charter](https://blog.aaronballman.com/2023/12/musings-on-the-c-charter/)
 * [2023-12-31, 17:14:07](https://lobste.rs/s/y5ybef/weird_cpio_discrepancy) - [A weird CPIO discrepancy](https://blog.colindou.ch/posts/lets-make-an-os-cpio-weirdness/)
-* [2023-12-31, 16:25:18](https://lobste.rs/s/7cu0tn/brief_retrospective_on_sparc_register) - [A Brief Retrospective on SPARC Register Windows](https://danielmangum.com/posts/retrospective-sparc-register-windows/)
 * [2023-12-31, 15:44:14](https://lobste.rs/s/ujegjt/o_1_build_file) - [O(1) Build File](https://matklad.github.io/2023/12/31/O(1)-build-file.html)
 * [2023-12-31, 14:39:03](https://lobste.rs/s/w69dj9/llama_mia_fork_llama_cpp_with) - [Llama.MIA — fork of Llama.cpp with interpretability features](https://grgv.xyz/blog/llama.mia/)
 * [2023-12-31, 14:21:46](https://lobste.rs/s/zu5dmq/email_addresses_are_not_good_permanent) - [Email addresses are not good 'permanent' identifiers for accounts](https://utcc.utoronto.ca/~cks/space/blog/tech/EmailAddressesBadPermanentIDs )
