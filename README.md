@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-31, 14:39:03](https://lobste.rs/s/w69dj9/llama_mia_fork_llama_cpp_with) - [Llama.MIA — fork of Llama.cpp with interpretability features](https://grgv.xyz/blog/llama.mia/)
 * [2023-12-31, 14:32:50](https://lobste.rs/s/4jor6i/my_favorite_articles_2023) - [My Favorite Articles of 2023](https://arne.me/articles/my-favorite-articles-of-2023)
 * [2023-12-31, 14:21:46](https://lobste.rs/s/zu5dmq/email_addresses_are_not_good_permanent) - [Email addresses are not good 'permanent' identifiers for accounts](https://utcc.utoronto.ca/~cks/space/blog/tech/EmailAddressesBadPermanentIDs )
 * [2023-12-31, 11:26:32](https://lobste.rs/s/ineile/from_fill_prefix_tramp_highlights_from) - [From Fill Prefix to TRAMP - Highlights from Mastering Emacs Book Club](https://susam.net/maze/from-fill-prefix-to-tramp.html)
@@ -22,7 +23,6 @@
 * [2023-12-30, 17:23:57](https://lobste.rs/s/8yr4r3/how_jit_compilers_are_implemented_fast) - [How JIT Compilers are Implemented and Fast: Pypy, LuaJIT, Graal and More](https://kipp.ly/jits-impls/)
 * [2023-12-30, 14:36:35](https://lobste.rs/s/d6n5le/why_android_developers_no_longer_need) - [Why Android developers no longer need Windows USB drivers](https://fabiensanglard.net/android_windows_driver/index.html)
 * [2023-12-30, 14:16:49](https://lobste.rs/s/0xsnfj/8_months_ocaml_after_8_years_haskell) - [8 months of OCaml after 8 years of Haskell in production](https://dev.to/chshersh/8-months-of-ocaml-after-8-years-of-haskell-in-production-h96)
-* [2023-12-30, 13:51:35](https://lobste.rs/s/steoev/switching_things_over_ikiwiki) - [Switching Things Over to ikiwiki](https://bt.ht/posts/Switching_Things_Over_to_ikiwiki/)
 * [2023-12-30, 11:37:11](https://lobste.rs/s/6iwbon/commit_signing_2023_is_kinda_wack) - [commit signing in 2023 is kinda wack](https://lobi.to/writes/wacksigning/)
 * [2023-12-30, 11:30:13](https://lobste.rs/s/zprkr6/breaking_drm_polish_trains) - [Breaking \"DRM\" in Polish trains](https://www.youtube.com/watch?v=XrlrbfGZo2k)
 
