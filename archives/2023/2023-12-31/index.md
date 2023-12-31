@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-12-31](index.md)
 
+* [2023-12-31, 18:23:36](https://lobste.rs/s/5y98tv/cray_1_supercomputer_performance) - [Cray 1 Supercomputer Performance Comparisons With Home Computers Phones and Tablets](http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm)
+* [2023-12-31, 18:17:54](https://lobste.rs/s/mvzl5x/building_custom_emacs_auth_source) - [Building a custom Emacs auth-source](https://www.emoses.org/posts/emacs-custom-auth-source/)
+* [2023-12-31, 18:13:23](https://lobste.rs/s/ybk77k/musings_on_c_charter) - [Musings on the C charter](https://blog.aaronballman.com/2023/12/musings-on-the-c-charter/)
 * [2023-12-31, 17:14:07](https://lobste.rs/s/y5ybef/weird_cpio_discrepancy) - [A weird CPIO discrepancy](https://blog.colindou.ch/posts/lets-make-an-os-cpio-weirdness/)
 * [2023-12-31, 16:25:18](https://lobste.rs/s/7cu0tn/brief_retrospective_on_sparc_register) - [A Brief Retrospective on SPARC Register Windows](https://danielmangum.com/posts/retrospective-sparc-register-windows/)
 * [2023-12-31, 15:44:14](https://lobste.rs/s/ujegjt/o_1_build_file) - [O(1) Build File](https://matklad.github.io/2023/12/31/O(1)-build-file.html)
