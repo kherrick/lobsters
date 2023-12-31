@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-12-31, 00:38:12",
+      "https://lobste.rs/s/rf3dn5/functional_programming_sparks_joy_2_2019"
+    ],
+    [
+      "Functional programming sparks joy 2 (2019)",
+      "https://rachelcarmena.github.io/2019/08/20/functional-programming-sparks-joy-2.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-31, 00:16:22",
+      "https://lobste.rs/s/ai5pex/malware_abuses_google_oauth_endpoint"
+    ],
+    [
+      "Malware abuses Google OAuth endpoint to ‘revive’ cookies, hijack accounts",
+      "https://www.bleepingcomputer.com/news/security/malware-abuses-google-oauth-endpoint-to-revive-cookies-hijack-accounts/"
+    ]
+  ],
+  [
+    [
       "2023-12-30, 23:39:02",
       "https://lobste.rs/s/enqehz/canon_tdd"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-12-30, 09:37:34",
-      "https://lobste.rs/s/vmwlht/low_level_thinking_high_level_shading"
-    ],
-    [
-      "Low-level thinking in high-level shading languages 2023",
-      "https://interplayoflight.wordpress.com/2023/12/29/low-level-thinking-in-high-level-shading-languages-2023/"
-    ]
-  ],
-  [
-    [
       "2023-12-30, 07:53:38",
       "https://lobste.rs/s/sjadvm/metcalf_s_law_is_wrong_2006"
     ],
@@ -217,16 +227,6 @@
     [
       "Developer Touts the Benefits of 'Diagonal Mode' Linux Desktop",
       "https://www.extremetech.com/computing/developer-touts-the-benefits-of-diagonal-mode-linux-desktop"
-    ]
-  ],
-  [
-    [
-      "2023-12-29, 20:06:14",
-      "https://lobste.rs/s/kfu8jg/inheritance_ruby_pictures"
-    ],
-    [
-      "Inheritance in Ruby, in pictures",
-      "https://blog.jez.io/inheritance-in-ruby/"
     ]
   ],
   [
