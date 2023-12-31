@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-31](index.md)
 
+* [2023-12-31, 20:04:08](https://lobste.rs/s/leznk6/rust9x_update_rust_1_76_0_beta) - [Rust9x update: Rust 1.76.0-beta](https://seri.tools/blog/rust9x-1-76/)
 * [2023-12-31, 19:14:24](https://lobste.rs/s/ts4hgl/one_button_calculator_one_line_morse_code) - [One Button Calculator (One Line Morse Code Python Repl)](https://punkx.org/calc/)
 * [2023-12-31, 19:10:17](https://lobste.rs/s/yrmwka/test_smarter_not_harder_focus_on_outcomes) - [Test Smarter, Not Harder: Focus on Outcomes, Not Outputs](https://markus.oberlehner.net/blog/test-smarter-not-harder-focus-on-outcomes-not-outputs/)
 * [2023-12-31, 19:03:43](https://lobste.rs/s/td2cgo/interesting_double_poly_latches_inside) - [Interesting double-poly latches inside AMD's vintage LANCE Ethernet chip](http://www.righto.com/2023/12/amd-lance-ethernet-double-poly.html)
