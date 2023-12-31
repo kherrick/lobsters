@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-12-31](index.md)
 
+* [2023-12-31, 04:02:29](https://lobste.rs/s/dzedgh/core_calculus_for_documents) - [A Core Calculus for Documents](https://blog.brownplt.org/2023/12/28/document-calculus.html)
+* [2023-12-31, 03:57:28](https://lobste.rs/s/0ciz1n/how_bad_are_search_results_let_s_compare) - [How bad are search results? Let's compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
 * [2023-12-31, 02:15:45](https://lobste.rs/s/7cyya3/simulating_non_crt_monitors_with_ffmpeg) - [Simulating NON-CRT Monitors with FFmpeg: Flat Panel Displays (2021)](https://int10h.org/blog/2021/03/simulating-non-crt-monitors-ffmpeg-flat-panels/)
 * [2023-12-31, 02:03:30](https://lobste.rs/s/ysxqz0/react_server_components_good_bad_ugly) - [React Server Components: the Good, the Bad, and the Ugly](https://www.mayank.co/blog/react-server-components/)
 * [2023-12-31, 00:59:24](https://lobste.rs/s/cfmf00/easily_host_go_modules_on_your_domain) - [Easily host Go modules on your domain](https://petersanchez.com/easily-host-go-modules-on-your-domain/)
