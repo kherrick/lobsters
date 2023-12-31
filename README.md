@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-31, 07:07:08](https://lobste.rs/s/fhx9rh/bare_metal_bit_banging_ws2812b_driver) - [Bare Metal Bit Banging: WS2812B Driver](https://youtu.be/KUklOA91nk0)
 * [2023-12-31, 05:56:47](https://lobste.rs/s/bvgipt/s_assembler_v0_1_self_hosting_riscv) - [S-Assembler v0.1: Self-hosting RiscV Assembler](https://hephaist-os.com/sasm/releases/v0.1.html)
 * [2023-12-31, 04:02:29](https://lobste.rs/s/dzedgh/core_calculus_for_documents) - [A Core Calculus for Documents](https://blog.brownplt.org/2023/12/28/document-calculus.html)
 * [2023-12-31, 03:57:28](https://lobste.rs/s/0ciz1n/how_bad_are_search_results_let_s_compare) - [How bad are search results? Let's compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
@@ -21,7 +22,6 @@
 * [2023-12-30, 13:51:35](https://lobste.rs/s/steoev/switching_things_over_ikiwiki) - [Switching Things Over to ikiwiki](https://bt.ht/posts/Switching_Things_Over_to_ikiwiki/)
 * [2023-12-30, 11:37:11](https://lobste.rs/s/6iwbon/commit_signing_2023_is_kinda_wack) - [commit signing in 2023 is kinda wack](https://lobi.to/writes/wacksigning/)
 * [2023-12-30, 11:30:13](https://lobste.rs/s/zprkr6/breaking_drm_polish_trains) - [Breaking \"DRM\" in Polish trains](https://www.youtube.com/watch?v=XrlrbfGZo2k)
-* [2023-12-30, 07:28:22](https://lobste.rs/s/wvscxo/creating_openbsd_wireguard_vpn_gateway) - [Creating an OpenBSD Wireguard VPN Gateway](https://blog.lambda.cx/posts/openbsd-wireguard-vpn-gateway/)
 * [2023-12-29, 22:18:52](https://lobste.rs/s/pnigl9/developer_touts_benefits_diagonal_mode) - [Developer Touts the Benefits of 'Diagonal Mode' Linux Desktop](https://www.extremetech.com/computing/developer-touts-the-benefits-of-diagonal-mode-linux-desktop)
 * [2023-12-29, 12:54:13](https://lobste.rs/s/hky5ew/gentoo_goes_binary) - [Gentoo goes Binary](https://www.gentoo.org/news/2023/12/29/Gentoo-binary.html)
 * [2023-12-29, 12:35:13](https://lobste.rs/s/ef3fue/tdd_is_personal_practice) - [TDD is a personal practice](https://dev.to/thiht/tdd-is-a-personal-practice-3o76)

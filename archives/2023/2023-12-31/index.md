@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-12-31](index.md)
 
+* [2023-12-31, 07:07:08](https://lobste.rs/s/fhx9rh/bare_metal_bit_banging_ws2812b_driver) - [Bare Metal Bit Banging: WS2812B Driver](https://youtu.be/KUklOA91nk0)
 * [2023-12-31, 05:56:47](https://lobste.rs/s/bvgipt/s_assembler_v0_1_self_hosting_riscv) - [S-Assembler v0.1: Self-hosting RiscV Assembler](https://hephaist-os.com/sasm/releases/v0.1.html)
 * [2023-12-31, 04:02:29](https://lobste.rs/s/dzedgh/core_calculus_for_documents) - [A Core Calculus for Documents](https://blog.brownplt.org/2023/12/28/document-calculus.html)
 * [2023-12-31, 03:57:28](https://lobste.rs/s/0ciz1n/how_bad_are_search_results_let_s_compare) - [How bad are search results? Let's compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
