@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-12-31, 10:39:08",
+      "https://lobste.rs/s/jih1sc/zig_cookbook_collection_simple_zig"
+    ],
+    [
+      "zig-cookbook: a collection of simple Zig programs that demonstrate good practices to accomplish common programming tasks",
+      "https://github.com/zigcc/zig-cookbook"
+    ]
+  ],
+  [
+    [
       "2023-12-31, 08:27:45",
       "https://lobste.rs/s/dbutse/how_i_forked_steamos_for_my_living_room_pc"
     ],
@@ -237,16 +247,6 @@
     [
       "Developer Touts the Benefits of 'Diagonal Mode' Linux Desktop",
       "https://www.extremetech.com/computing/developer-touts-the-benefits-of-diagonal-mode-linux-desktop"
-    ]
-  ],
-  [
-    [
-      "2023-12-29, 12:35:13",
-      "https://lobste.rs/s/ef3fue/tdd_is_personal_practice"
-    ],
-    [
-      "TDD is a personal practice",
-      "https://dev.to/thiht/tdd-is-a-personal-practice-3o76"
     ]
   ]
 ]
