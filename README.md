@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2023-12-31, 16:25:18](https://lobste.rs/s/7cu0tn/brief_retrospective_on_sparc_register) - [A Brief Retrospective on SPARC Register Windows](https://danielmangum.com/posts/retrospective-sparc-register-windows/)
 * [2023-12-31, 15:44:14](https://lobste.rs/s/ujegjt/o_1_build_file) - [O(1) Build File](https://matklad.github.io/2023/12/31/O(1)-build-file.html)
 * [2023-12-31, 14:39:03](https://lobste.rs/s/w69dj9/llama_mia_fork_llama_cpp_with) - [Llama.MIA — fork of Llama.cpp with interpretability features](https://grgv.xyz/blog/llama.mia/)
 * [2023-12-31, 14:32:50](https://lobste.rs/s/4jor6i/my_favorite_articles_2023) - [My Favorite Articles of 2023](https://arne.me/articles/my-favorite-articles-of-2023)
 * [2023-12-31, 14:21:46](https://lobste.rs/s/zu5dmq/email_addresses_are_not_good_permanent) - [Email addresses are not good 'permanent' identifiers for accounts](https://utcc.utoronto.ca/~cks/space/blog/tech/EmailAddressesBadPermanentIDs )
 * [2023-12-31, 11:26:32](https://lobste.rs/s/ineile/from_fill_prefix_tramp_highlights_from) - [From Fill Prefix to TRAMP - Highlights from Mastering Emacs Book Club](https://susam.net/maze/from-fill-prefix-to-tramp.html)
-* [2023-12-31, 10:56:49](https://lobste.rs/s/jsckqv/emacs_copilot_large_language_model_code) - [emacs-copilot: Large language model code completion for Emacs](https://github.com/jart/emacs-copilot)
 * [2023-12-31, 10:39:08](https://lobste.rs/s/jih1sc/zig_cookbook_collection_simple_zig) - [zig-cookbook: a collection of simple Zig programs that demonstrate good practices to accomplish common programming tasks](https://github.com/zigcc/zig-cookbook)
 * [2023-12-31, 08:27:45](https://lobste.rs/s/dbutse/how_i_forked_steamos_for_my_living_room_pc) - [How I forked SteamOS for my living room PC](https://iliana.fyi/blog/build-your-own-steamos-updates/)
 * [2023-12-31, 07:07:08](https://lobste.rs/s/fhx9rh/bare_metal_bit_banging_ws2812b_driver) - [Bare Metal Bit Banging: WS2812B Driver](https://youtu.be/KUklOA91nk0)
