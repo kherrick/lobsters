@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-12-31, 18:23:36",
+      "https://lobste.rs/s/5y98tv/cray_1_supercomputer_performance"
+    ],
+    [
+      "Cray 1 Supercomputer Performance Comparisons With Home Computers Phones and Tablets",
+      "http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm"
+    ]
+  ],
+  [
+    [
+      "2023-12-31, 18:17:54",
+      "https://lobste.rs/s/mvzl5x/building_custom_emacs_auth_source"
+    ],
+    [
+      "Building a custom Emacs auth-source",
+      "https://www.emoses.org/posts/emacs-custom-auth-source/"
+    ]
+  ],
+  [
+    [
+      "2023-12-31, 18:13:23",
+      "https://lobste.rs/s/ybk77k/musings_on_c_charter"
+    ],
+    [
+      "Musings on the C charter",
+      "https://blog.aaronballman.com/2023/12/musings-on-the-c-charter/"
+    ]
+  ],
+  [
+    [
       "2023-12-31, 17:14:07",
       "https://lobste.rs/s/y5ybef/weird_cpio_discrepancy"
     ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2023-12-31, 00:49:34",
-      "https://lobste.rs/s/wgpgsj/glove80_rethinking_split_contoured"
-    ],
-    [
-      "Glove80: Rethinking split contoured ergonomic keyboard",
-      "https://kbd.news/Glove80-Rethinking-split-contoured-ergonomic-keyboard-1796.html"
-    ]
-  ],
-  [
-    [
       "2023-12-30, 23:39:02",
       "https://lobste.rs/s/enqehz/canon_tdd"
     ],
@@ -167,16 +187,6 @@
     [
       "jank's new persistent string is fast",
       "https://jank-lang.org/blog/2023-12-30-fast-string/"
-    ]
-  ],
-  [
-    [
-      "2023-12-30, 20:05:29",
-      "https://lobste.rs/s/achl3c/testdrivendevelopment"
-    ],
-    [
-      "TestDrivenDevelopment",
-      "https://martinfowler.com/bliki/TestDrivenDevelopment.html"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "How JIT Compilers are Implemented and Fast: Pypy, LuaJIT, Graal and More",
       "https://kipp.ly/jits-impls/"
-    ]
-  ],
-  [
-    [
-      "2023-12-30, 14:36:35",
-      "https://lobste.rs/s/d6n5le/why_android_developers_no_longer_need"
-    ],
-    [
-      "Why Android developers no longer need Windows USB drivers",
-      "https://fabiensanglard.net/android_windows_driver/index.html"
     ]
   ],
   [
