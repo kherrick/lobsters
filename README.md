@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-01-01, 11:52:27](https://lobste.rs/s/a1hvy8/standard_ebooks) - [Standard Ebooks](https://standardebooks.org/)
 * [2024-01-01, 11:07:14](https://lobste.rs/s/2pzj9a/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/2pzj9a/what_are_you_doing_this_week)
 * [2024-01-01, 11:05:39](https://lobste.rs/s/urwcat/spatial_shell_6th_release_might_be_charm) - [Spatial Shell 6th Release Might Be the Charm](https://soap.coffee/~lthms/posts/SpatialShell6.html)
 * [2024-01-01, 09:54:20](https://lobste.rs/s/o1rxnx/awesome_free_technical_magazine_about) - [Awesome free technical magazine about programming, hacking, security, electronics etc](https://pagedout.institute)
@@ -22,6 +21,7 @@
 * [2023-12-31, 10:39:08](https://lobste.rs/s/jih1sc/zig_cookbook_collection_simple_zig) - [zig-cookbook: a collection of simple Zig programs that demonstrate good practices to accomplish common programming tasks](https://github.com/zigcc/zig-cookbook)
 * [2023-12-31, 08:27:45](https://lobste.rs/s/dbutse/how_i_forked_steamos_for_my_living_room_pc) - [How I forked SteamOS for my living room PC](https://iliana.fyi/blog/build-your-own-steamos-updates/)
 * [2023-12-31, 05:56:47](https://lobste.rs/s/bvgipt/s_assembler_v0_1_self_hosting_riscv) - [S-Assembler v0.1: Self-hosting RiscV Assembler](https://hephaist-os.com/sasm/releases/v0.1.html)
+* [2023-12-31, 04:02:29](https://lobste.rs/s/dzedgh/core_calculus_for_documents) - [A Core Calculus for Documents](https://blog.brownplt.org/2023/12/28/document-calculus.html)
 * [2023-12-31, 03:57:28](https://lobste.rs/s/0ciz1n/how_bad_are_search_results_let_s_compare) - [How bad are search results? Let's compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
 * [2023-12-30, 22:44:45](https://lobste.rs/s/utauhe/jank_s_new_persistent_string_is_fast) - [jank's new persistent string is fast](https://jank-lang.org/blog/2023-12-30-fast-string/)
 * [2023-12-30, 11:37:11](https://lobste.rs/s/6iwbon/commit_signing_2023_is_kinda_wack) - [commit signing in 2023 is kinda wack](https://lobi.to/writes/wacksigning/)
