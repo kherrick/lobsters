@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-01, 05:07:32](https://lobste.rs/s/4mqyxh/closer_look_key_value_storage_engine) - [A Closer Look to a Key-Value Storage Engine](https://silhding.github.io/2021/08/20/A-Closer-Look-to-a-Key-Value-Storage-Engine/)
 * [2024-01-01, 03:47:13](https://lobste.rs/s/nigabu/writing_container_rust) - [Writing a container in Rust](https://litchipi.site/serie/containers_in_rust)
 * [2024-01-01, 01:02:43](https://lobste.rs/s/e9jd9m/stuff_we_figured_out_about_ai_2023) - [Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/)
 * [2023-12-31, 23:50:21](https://lobste.rs/s/r5mham/tripartite_identity_pattern_2008) - [The Tripartite Identity Pattern (2008)](http://habitatchronicles.com/2008/10/the-tripartite-identity-pattern/)
@@ -13,7 +14,6 @@
 * [2023-12-31, 15:44:14](https://lobste.rs/s/ujegjt/o_1_build_file) - [O(1) Build File](https://matklad.github.io/2023/12/31/O(1)-build-file.html)
 * [2023-12-31, 14:39:03](https://lobste.rs/s/w69dj9/llama_mia_fork_llama_cpp_with) - [Llama.MIA — fork of Llama.cpp with interpretability features](https://grgv.xyz/blog/llama.mia/)
 * [2023-12-31, 14:21:46](https://lobste.rs/s/zu5dmq/email_addresses_are_not_good_permanent) - [Email addresses are not good 'permanent' identifiers for accounts](https://utcc.utoronto.ca/~cks/space/blog/tech/EmailAddressesBadPermanentIDs )
-* [2023-12-31, 11:26:32](https://lobste.rs/s/ineile/from_fill_prefix_tramp_highlights_from) - [From Fill Prefix to TRAMP - Highlights from Mastering Emacs Book Club](https://susam.net/maze/from-fill-prefix-to-tramp.html)
 * [2023-12-31, 10:39:08](https://lobste.rs/s/jih1sc/zig_cookbook_collection_simple_zig) - [zig-cookbook: a collection of simple Zig programs that demonstrate good practices to accomplish common programming tasks](https://github.com/zigcc/zig-cookbook)
 * [2023-12-31, 08:27:45](https://lobste.rs/s/dbutse/how_i_forked_steamos_for_my_living_room_pc) - [How I forked SteamOS for my living room PC](https://iliana.fyi/blog/build-your-own-steamos-updates/)
 * [2023-12-31, 05:56:47](https://lobste.rs/s/bvgipt/s_assembler_v0_1_self_hosting_riscv) - [S-Assembler v0.1: Self-hosting RiscV Assembler](https://hephaist-os.com/sasm/releases/v0.1.html)
