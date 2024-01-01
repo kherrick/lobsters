@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-01-01, 11:52:27",
-      "https://lobste.rs/s/a1hvy8/standard_ebooks"
-    ],
-    [
-      "Standard Ebooks",
-      "https://standardebooks.org/"
-    ]
-  ],
-  [
-    [
       "2024-01-01, 11:07:14",
       "https://lobste.rs/s/2pzj9a/what_are_you_doing_this_week"
     ],
@@ -217,6 +207,16 @@
     [
       "S-Assembler v0.1: Self-hosting RiscV Assembler",
       "https://hephaist-os.com/sasm/releases/v0.1.html"
+    ]
+  ],
+  [
+    [
+      "2023-12-31, 04:02:29",
+      "https://lobste.rs/s/dzedgh/core_calculus_for_documents"
+    ],
+    [
+      "A Core Calculus for Documents",
+      "https://blog.brownplt.org/2023/12/28/document-calculus.html"
     ]
   ],
   [
