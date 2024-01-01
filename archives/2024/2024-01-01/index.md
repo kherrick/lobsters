@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-01](index.md)
 
+* [2024-01-01, 18:49:27](https://lobste.rs/s/bt4enq/future_rem_cross_platform_gui_rust_2024) - [Future of rem | Cross-platform GUI in Rust in 2024?](https://lobste.rs/s/bt4enq/future_rem_cross_platform_gui_rust_2024)
+* [2024-01-01, 18:48:35](https://lobste.rs/s/sqp3oy/annotating_reflecting_on_my_robotics) - [Annotating and reflecting on my robotics code from 2009](https://ntietz.com/blog/annotating-my-early-code-from-a-robot/)
+* [2024-01-01, 18:46:09](https://lobste.rs/s/djjo8z/merkle_search_trees_efficient_state) - [Merkle Search Trees: Efficient State-Based CRDTs in Open Networks](https://inria.hal.science/hal-02303490/document)
 * [2024-01-01, 18:13:47](https://lobste.rs/s/vchsft/writing_truetype_font_renderer) - [Writing a TrueType font renderer](https://axleos.com/writing-a-truetype-font-renderer/)
 * [2024-01-01, 17:09:51](https://lobste.rs/s/g3bsks/some_notes_on_nixos) - [Some notes on NixOS](https://jvns.ca/blog/2024/01/01/some-notes-on-nixos/)
 * [2024-01-01, 15:06:34](https://lobste.rs/s/airekl/enclave_command_line_secure_encrypted) - [enclave: Command-line secure encrypted deniable cloud-synchronized notebook](https://github.com/symbolicsoft/enclave)
