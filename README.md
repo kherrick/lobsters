@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-01, 15:06:34](https://lobste.rs/s/airekl/enclave_command_line_secure_encrypted) - [enclave: Command-line secure encrypted deniable cloud-synchronized notebook](https://github.com/symbolicsoft/enclave)
 * [2024-01-01, 12:35:32](https://lobste.rs/s/qdsqmc/why_my_print_didn_t_output_before) - [Why My Print Didn't Output Before a Segmentation Fault](https://blog.yelinaung.com/posts/what-happened-to-my-print/)
 * [2024-01-01, 11:52:27](https://lobste.rs/s/a1hvy8/standard_ebooks) - [Standard Ebooks](https://standardebooks.org/)
 * [2024-01-01, 11:07:14](https://lobste.rs/s/2pzj9a/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/2pzj9a/what_are_you_doing_this_week)
@@ -21,7 +22,6 @@
 * [2023-12-31, 14:21:46](https://lobste.rs/s/zu5dmq/email_addresses_are_not_good_permanent) - [Email addresses are not good 'permanent' identifiers for accounts](https://utcc.utoronto.ca/~cks/space/blog/tech/EmailAddressesBadPermanentIDs )
 * [2023-12-31, 10:39:08](https://lobste.rs/s/jih1sc/zig_cookbook_collection_simple_zig) - [zig-cookbook: a collection of simple Zig programs that demonstrate good practices to accomplish common programming tasks](https://github.com/zigcc/zig-cookbook)
 * [2023-12-31, 08:27:45](https://lobste.rs/s/dbutse/how_i_forked_steamos_for_my_living_room_pc) - [How I forked SteamOS for my living room PC](https://iliana.fyi/blog/build-your-own-steamos-updates/)
-* [2023-12-31, 05:56:47](https://lobste.rs/s/bvgipt/s_assembler_v0_1_self_hosting_riscv) - [S-Assembler v0.1: Self-hosting RiscV Assembler](https://hephaist-os.com/sasm/releases/v0.1.html)
 * [2023-12-31, 03:57:28](https://lobste.rs/s/0ciz1n/how_bad_are_search_results_let_s_compare) - [How bad are search results? Let's compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
 * [2023-12-30, 22:44:45](https://lobste.rs/s/utauhe/jank_s_new_persistent_string_is_fast) - [jank's new persistent string is fast](https://jank-lang.org/blog/2023-12-30-fast-string/)
 * [2023-12-30, 11:37:11](https://lobste.rs/s/6iwbon/commit_signing_2023_is_kinda_wack) - [commit signing in 2023 is kinda wack](https://lobi.to/writes/wacksigning/)
