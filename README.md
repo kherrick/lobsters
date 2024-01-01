@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-01, 18:13:47](https://lobste.rs/s/vchsft/writing_truetype_font_renderer) - [Writing a TrueType font renderer](https://axleos.com/writing-a-truetype-font-renderer/)
 * [2024-01-01, 17:09:51](https://lobste.rs/s/g3bsks/some_notes_on_nixos) - [Some notes on NixOS](https://jvns.ca/blog/2024/01/01/some-notes-on-nixos/)
 * [2024-01-01, 15:06:34](https://lobste.rs/s/airekl/enclave_command_line_secure_encrypted) - [enclave: Command-line secure encrypted deniable cloud-synchronized notebook](https://github.com/symbolicsoft/enclave)
 * [2024-01-01, 12:35:32](https://lobste.rs/s/qdsqmc/why_my_print_didn_t_output_before) - [Why My Print Didn't Output Before a Segmentation Fault](https://blog.yelinaung.com/posts/what-happened-to-my-print/)
@@ -13,7 +14,6 @@
 * [2023-12-31, 23:50:21](https://lobste.rs/s/r5mham/tripartite_identity_pattern_2008) - [The Tripartite Identity Pattern (2008)](http://habitatchronicles.com/2008/10/the-tripartite-identity-pattern/)
 * [2023-12-31, 20:04:08](https://lobste.rs/s/leznk6/rust9x_update_rust_1_76_0_beta) - [Rust9x update: Rust 1.76.0-beta](https://seri.tools/blog/rust9x-1-76/)
 * [2023-12-31, 20:02:15](https://lobste.rs/s/9vmt4t/lobsters_new_years_thread) - [Lobsters New Years Thread](https://lobste.rs/s/9vmt4t/lobsters_new_years_thread)
-* [2023-12-31, 19:14:24](https://lobste.rs/s/ts4hgl/one_button_calculator_one_line_morse_code) - [One Button Calculator (One Line Morse Code Python Repl)](https://punkx.org/calc/)
 * [2023-12-31, 18:23:36](https://lobste.rs/s/5y98tv/cray_1_supercomputer_performance) - [Cray 1 Supercomputer Performance Comparisons With Home Computers Phones and Tablets](http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm)
 * [2023-12-31, 18:17:54](https://lobste.rs/s/mvzl5x/building_custom_emacs_auth_source) - [Building a custom Emacs auth-source](https://www.emoses.org/posts/emacs-custom-auth-source/)
 * [2023-12-31, 18:13:23](https://lobste.rs/s/ybk77k/musings_on_c_charter) - [Musings on the C charter](https://blog.aaronballman.com/2023/12/musings-on-the-c-charter/)

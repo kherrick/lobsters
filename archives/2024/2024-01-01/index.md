@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-01](index.md)
 
+* [2024-01-01, 18:13:47](https://lobste.rs/s/vchsft/writing_truetype_font_renderer) - [Writing a TrueType font renderer](https://axleos.com/writing-a-truetype-font-renderer/)
 * [2024-01-01, 17:09:51](https://lobste.rs/s/g3bsks/some_notes_on_nixos) - [Some notes on NixOS](https://jvns.ca/blog/2024/01/01/some-notes-on-nixos/)
 * [2024-01-01, 15:06:34](https://lobste.rs/s/airekl/enclave_command_line_secure_encrypted) - [enclave: Command-line secure encrypted deniable cloud-synchronized notebook](https://github.com/symbolicsoft/enclave)
 * [2024-01-01, 12:35:32](https://lobste.rs/s/qdsqmc/why_my_print_didn_t_output_before) - [Why My Print Didn't Output Before a Segmentation Fault](https://blog.yelinaung.com/posts/what-happened-to-my-print/)
