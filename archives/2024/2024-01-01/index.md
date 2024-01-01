@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-01](index.md)
 
+* [2024-01-01, 12:35:32](https://lobste.rs/s/qdsqmc/why_my_print_didn_t_output_before) - [Why My Print Didn't Output Before a Segmentation Fault](https://blog.yelinaung.com/posts/what-happened-to-my-print/)
 * [2024-01-01, 11:52:27](https://lobste.rs/s/a1hvy8/standard_ebooks) - [Standard Ebooks](https://standardebooks.org/)
 * [2024-01-01, 11:07:14](https://lobste.rs/s/2pzj9a/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/2pzj9a/what_are_you_doing_this_week)
 * [2024-01-01, 11:05:39](https://lobste.rs/s/urwcat/spatial_shell_6th_release_might_be_charm) - [Spatial Shell 6th Release Might Be the Charm](https://soap.coffee/~lthms/posts/SpatialShell6.html)
