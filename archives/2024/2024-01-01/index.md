@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-01](index.md)
 
+* [2024-01-01, 08:50:06](https://lobste.rs/s/rqhfra/pattern_matching_exhaustiveness) - [Pattern matching and exhaustiveness checking algorithms implemented in Rust](https://github.com/yorickpeterse/pattern-matching-in-rust)
 * [2024-01-01, 07:17:35](https://lobste.rs/s/vr25vm/llm_generated_code_is_like_particleboard) - [llm generated code is like particleboard :: 2023-12-30](https://so.dang.cool/blog/2023-12-30-llm-generated-code-is-like-particleboard.html)
 * [2024-01-01, 05:07:32](https://lobste.rs/s/4mqyxh/closer_look_key_value_storage_engine) - [A Closer Look to a Key-Value Storage Engine](https://silhding.github.io/2021/08/20/A-Closer-Look-to-a-Key-Value-Storage-Engine/)
 * [2024-01-01, 03:47:13](https://lobste.rs/s/nigabu/writing_container_rust) - [Writing a container in Rust](https://litchipi.site/serie/containers_in_rust)
