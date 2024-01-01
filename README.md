@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-01, 22:55:31](https://lobste.rs/s/qzt610/grasshopper_low_level_programming) - [GRASSHOPPER, a low-level programming language for the 6502 (1981)](https://archive.org/details/grasshopper-6502)
 * [2024-01-01, 21:26:49](https://lobste.rs/s/w1xpwu/shadershark_opengl_glsl_playground) - [ShaderShark – OpenGL / GLSL playground](https://graphics.globalcode.info/v_0/shader-shark.xhtml#video)
 * [2024-01-01, 20:53:22](https://lobste.rs/s/yjebsu/release_fish_3_7_0_released_january_1_2024) - [Release fish 3.7.0 (released January 1, 2024) · fish-shell/fish-shell](https://github.com/fish-shell/fish-shell/releases/tag/3.7.0)
 * [2024-01-01, 19:13:31](https://lobste.rs/s/xspaf0/ultimate_spc700_talk) - [The Ultimate SPC700 Talk](https://media.ccc.de/v/37c3-11748-the_ultimate_spc700_talk)
@@ -19,7 +20,6 @@
 * [2024-01-01, 05:07:32](https://lobste.rs/s/4mqyxh/closer_look_key_value_storage_engine) - [A Closer Look to a Key-Value Storage Engine](https://silhding.github.io/2021/08/20/A-Closer-Look-to-a-Key-Value-Storage-Engine/)
 * [2024-01-01, 01:02:43](https://lobste.rs/s/e9jd9m/stuff_we_figured_out_about_ai_2023) - [Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/)
 * [2023-12-31, 20:04:08](https://lobste.rs/s/leznk6/rust9x_update_rust_1_76_0_beta) - [Rust9x update: Rust 1.76.0-beta](https://seri.tools/blog/rust9x-1-76/)
-* [2023-12-31, 20:02:15](https://lobste.rs/s/9vmt4t/lobsters_new_years_thread) - [Lobsters New Years Thread](https://lobste.rs/s/9vmt4t/lobsters_new_years_thread)
 * [2023-12-31, 18:13:23](https://lobste.rs/s/ybk77k/musings_on_c_charter) - [Musings on the C charter](https://blog.aaronballman.com/2023/12/musings-on-the-c-charter/)
 * [2023-12-31, 14:21:46](https://lobste.rs/s/zu5dmq/email_addresses_are_not_good_permanent) - [Email addresses are not good 'permanent' identifiers for accounts](https://utcc.utoronto.ca/~cks/space/blog/tech/EmailAddressesBadPermanentIDs )
 * [2023-12-31, 10:39:08](https://lobste.rs/s/jih1sc/zig_cookbook_collection_simple_zig) - [zig-cookbook: a collection of simple Zig programs that demonstrate good practices to accomplish common programming tasks](https://github.com/zigcc/zig-cookbook)
