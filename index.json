@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-01, 21:26:49",
+      "https://lobste.rs/s/w1xpwu/shadershark_opengl_glsl_playground"
+    ],
+    [
+      "ShaderShark – OpenGL / GLSL playground",
+      "https://graphics.globalcode.info/v_0/shader-shark.xhtml#video"
+    ]
+  ],
+  [
+    [
       "2024-01-01, 20:53:22",
       "https://lobste.rs/s/yjebsu/release_fish_3_7_0_released_january_1_2024"
     ],
@@ -197,16 +207,6 @@
     [
       "Musings on the C charter",
       "https://blog.aaronballman.com/2023/12/musings-on-the-c-charter/"
-    ]
-  ],
-  [
-    [
-      "2023-12-31, 15:44:14",
-      "https://lobste.rs/s/ujegjt/o_1_build_file"
-    ],
-    [
-      "O(1) Build File",
-      "https://matklad.github.io/2023/12/31/O(1)-build-file.html"
     ]
   ],
   [
