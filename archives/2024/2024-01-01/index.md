@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-01](index.md)
 
+* [2024-01-01, 21:26:49](https://lobste.rs/s/w1xpwu/shadershark_opengl_glsl_playground) - [ShaderShark – OpenGL / GLSL playground](https://graphics.globalcode.info/v_0/shader-shark.xhtml#video)
 * [2024-01-01, 20:53:22](https://lobste.rs/s/yjebsu/release_fish_3_7_0_released_january_1_2024) - [Release fish 3.7.0 (released January 1, 2024) · fish-shell/fish-shell](https://github.com/fish-shell/fish-shell/releases/tag/3.7.0)
 * [2024-01-01, 19:13:31](https://lobste.rs/s/xspaf0/ultimate_spc700_talk) - [The Ultimate SPC700 Talk](https://media.ccc.de/v/37c3-11748-the_ultimate_spc700_talk)
 * [2024-01-01, 19:00:55](https://lobste.rs/s/beh7c8/which_root_certificates_should_you_trust) - [Which Root Certificates should you trust? Find out with CertInfo](https://raymii.org/s/software/Which_Root_Certificates_Should_You_Trust_CertInfo.html)
