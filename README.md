@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-01, 03:47:13](https://lobste.rs/s/nigabu/writing_container_rust) - [Writing a container in Rust](https://litchipi.site/serie/containers_in_rust)
 * [2024-01-01, 01:02:43](https://lobste.rs/s/e9jd9m/stuff_we_figured_out_about_ai_2023) - [Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/)
 * [2023-12-31, 23:50:21](https://lobste.rs/s/r5mham/tripartite_identity_pattern_2008) - [The Tripartite Identity Pattern (2008)](http://habitatchronicles.com/2008/10/the-tripartite-identity-pattern/)
 * [2023-12-31, 20:04:08](https://lobste.rs/s/leznk6/rust9x_update_rust_1_76_0_beta) - [Rust9x update: Rust 1.76.0-beta](https://seri.tools/blog/rust9x-1-76/)
@@ -9,7 +10,6 @@
 * [2023-12-31, 18:17:54](https://lobste.rs/s/mvzl5x/building_custom_emacs_auth_source) - [Building a custom Emacs auth-source](https://www.emoses.org/posts/emacs-custom-auth-source/)
 * [2023-12-31, 18:13:23](https://lobste.rs/s/ybk77k/musings_on_c_charter) - [Musings on the C charter](https://blog.aaronballman.com/2023/12/musings-on-the-c-charter/)
 * [2023-12-31, 17:14:07](https://lobste.rs/s/y5ybef/weird_cpio_discrepancy) - [A weird CPIO discrepancy](https://blog.colindou.ch/posts/lets-make-an-os-cpio-weirdness/)
-* [2023-12-31, 16:25:18](https://lobste.rs/s/7cu0tn/brief_retrospective_on_sparc_register) - [A Brief Retrospective on SPARC Register Windows](https://danielmangum.com/posts/retrospective-sparc-register-windows/)
 * [2023-12-31, 15:44:14](https://lobste.rs/s/ujegjt/o_1_build_file) - [O(1) Build File](https://matklad.github.io/2023/12/31/O(1)-build-file.html)
 * [2023-12-31, 14:39:03](https://lobste.rs/s/w69dj9/llama_mia_fork_llama_cpp_with) - [Llama.MIA — fork of Llama.cpp with interpretability features](https://grgv.xyz/blog/llama.mia/)
 * [2023-12-31, 14:21:46](https://lobste.rs/s/zu5dmq/email_addresses_are_not_good_permanent) - [Email addresses are not good 'permanent' identifiers for accounts](https://utcc.utoronto.ca/~cks/space/blog/tech/EmailAddressesBadPermanentIDs )
