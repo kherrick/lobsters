@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-01](index.md)
 
+* [2024-01-01, 11:52:27](https://lobste.rs/s/a1hvy8/standard_ebooks) - [Standard Ebooks](https://standardebooks.org/)
 * [2024-01-01, 11:07:14](https://lobste.rs/s/2pzj9a/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/2pzj9a/what_are_you_doing_this_week)
 * [2024-01-01, 11:05:39](https://lobste.rs/s/urwcat/spatial_shell_6th_release_might_be_charm) - [Spatial Shell 6th Release Might Be the Charm](https://soap.coffee/~lthms/posts/SpatialShell6.html)
 * [2024-01-01, 09:54:20](https://lobste.rs/s/o1rxnx/awesome_free_technical_magazine_about) - [Awesome free technical magazine about programming, hacking, security, electronics etc](https://pagedout.institute)
