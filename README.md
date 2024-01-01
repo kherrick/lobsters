@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-01, 19:13:31](https://lobste.rs/s/xspaf0/ultimate_spc700_talk) - [The Ultimate SPC700 Talk](https://media.ccc.de/v/37c3-11748-the_ultimate_spc700_talk)
 * [2024-01-01, 19:00:55](https://lobste.rs/s/beh7c8/which_root_certificates_should_you_trust) - [Which Root Certificates should you trust? Find out with CertInfo](https://raymii.org/s/software/Which_Root_Certificates_Should_You_Trust_CertInfo.html)
 * [2024-01-01, 18:49:27](https://lobste.rs/s/bt4enq/future_rem_cross_platform_gui_rust_2024) - [Future of rem | Cross-platform GUI in Rust in 2024?](https://lobste.rs/s/bt4enq/future_rem_cross_platform_gui_rust_2024)
 * [2024-01-01, 18:48:35](https://lobste.rs/s/sqp3oy/annotating_reflecting_on_my_robotics) - [Annotating and reflecting on my robotics code from 2009](https://ntietz.com/blog/annotating-my-early-code-from-a-robot/)
@@ -15,7 +16,6 @@
 * [2024-01-01, 07:17:35](https://lobste.rs/s/vr25vm/llm_generated_code_is_like_particleboard) - [llm generated code is like particleboard :: 2023-12-30](https://so.dang.cool/blog/2023-12-30-llm-generated-code-is-like-particleboard.html)
 * [2024-01-01, 05:07:32](https://lobste.rs/s/4mqyxh/closer_look_key_value_storage_engine) - [A Closer Look to a Key-Value Storage Engine](https://silhding.github.io/2021/08/20/A-Closer-Look-to-a-Key-Value-Storage-Engine/)
 * [2024-01-01, 01:02:43](https://lobste.rs/s/e9jd9m/stuff_we_figured_out_about_ai_2023) - [Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/)
-* [2023-12-31, 23:50:21](https://lobste.rs/s/r5mham/tripartite_identity_pattern_2008) - [The Tripartite Identity Pattern (2008)](http://habitatchronicles.com/2008/10/the-tripartite-identity-pattern/)
 * [2023-12-31, 20:04:08](https://lobste.rs/s/leznk6/rust9x_update_rust_1_76_0_beta) - [Rust9x update: Rust 1.76.0-beta](https://seri.tools/blog/rust9x-1-76/)
 * [2023-12-31, 20:02:15](https://lobste.rs/s/9vmt4t/lobsters_new_years_thread) - [Lobsters New Years Thread](https://lobste.rs/s/9vmt4t/lobsters_new_years_thread)
 * [2023-12-31, 18:17:54](https://lobste.rs/s/mvzl5x/building_custom_emacs_auth_source) - [Building a custom Emacs auth-source](https://www.emoses.org/posts/emacs-custom-auth-source/)
