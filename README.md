@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-01, 07:17:35](https://lobste.rs/s/vr25vm/llm_generated_code_is_like_particleboard) - [llm generated code is like particleboard :: 2023-12-30](https://so.dang.cool/blog/2023-12-30-llm-generated-code-is-like-particleboard.html)
 * [2024-01-01, 05:07:32](https://lobste.rs/s/4mqyxh/closer_look_key_value_storage_engine) - [A Closer Look to a Key-Value Storage Engine](https://silhding.github.io/2021/08/20/A-Closer-Look-to-a-Key-Value-Storage-Engine/)
 * [2024-01-01, 03:47:13](https://lobste.rs/s/nigabu/writing_container_rust) - [Writing a container in Rust](https://litchipi.site/serie/containers_in_rust)
 * [2024-01-01, 01:02:43](https://lobste.rs/s/e9jd9m/stuff_we_figured_out_about_ai_2023) - [Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/)
@@ -20,7 +21,6 @@
 * [2023-12-31, 05:56:47](https://lobste.rs/s/bvgipt/s_assembler_v0_1_self_hosting_riscv) - [S-Assembler v0.1: Self-hosting RiscV Assembler](https://hephaist-os.com/sasm/releases/v0.1.html)
 * [2023-12-31, 04:02:29](https://lobste.rs/s/dzedgh/core_calculus_for_documents) - [A Core Calculus for Documents](https://blog.brownplt.org/2023/12/28/document-calculus.html)
 * [2023-12-31, 03:57:28](https://lobste.rs/s/0ciz1n/how_bad_are_search_results_let_s_compare) - [How bad are search results? Let's compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
-* [2023-12-31, 00:59:24](https://lobste.rs/s/cfmf00/easily_host_go_modules_on_your_domain) - [Easily host Go modules on your domain](https://petersanchez.com/easily-host-go-modules-on-your-domain/)
 * [2023-12-30, 22:44:45](https://lobste.rs/s/utauhe/jank_s_new_persistent_string_is_fast) - [jank's new persistent string is fast](https://jank-lang.org/blog/2023-12-30-fast-string/)
 * [2023-12-30, 20:03:47](https://lobste.rs/s/iivwag/web_cgi_programs_aren_t_particularly_slow) - [Web CGI programs aren't particularly slow these days](https://utcc.utoronto.ca/~cks/space/blog/web/CGINotSlow)
 * [2023-12-30, 18:28:43](https://lobste.rs/s/8vco0w/what_are_you_planning_learn_2024) - [What are you planning to learn in 2024?](https://lobste.rs/s/8vco0w/what_are_you_planning_learn_2024)
