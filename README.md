@@ -13,7 +13,7 @@
 * [2024-01-01, 11:05:39](https://lobste.rs/s/urwcat/spatial_shell_6th_release_might_be_charm) - [Spatial Shell 6th Release Might Be the Charm](https://soap.coffee/~lthms/posts/SpatialShell6.html)
 * [2024-01-01, 09:54:20](https://lobste.rs/s/o1rxnx/awesome_free_technical_magazine_about) - [Awesome free technical magazine about programming, hacking, security, electronics etc](https://pagedout.institute)
 * [2024-01-01, 08:50:06](https://lobste.rs/s/rqhfra/pattern_matching_exhaustiveness) - [Pattern matching and exhaustiveness checking algorithms implemented in Rust](https://github.com/yorickpeterse/pattern-matching-in-rust)
-* [2024-01-01, 07:17:35](https://lobste.rs/s/vr25vm/llm_generated_code_is_like_particleboard) - [llm generated code is like particleboard :: 2023-12-30](https://so.dang.cool/blog/2023-12-30-llm-generated-code-is-like-particleboard.html)
+* [2024-01-01, 07:17:35](https://lobste.rs/s/vr25vm/llm_generated_code_is_like_particleboard) - [llm generated code is like particleboard](https://so.dang.cool/blog/2023-12-30-llm-generated-code-is-like-particleboard.html)
 * [2024-01-01, 05:07:32](https://lobste.rs/s/4mqyxh/closer_look_key_value_storage_engine) - [A Closer Look to a Key-Value Storage Engine](https://silhding.github.io/2021/08/20/A-Closer-Look-to-a-Key-Value-Storage-Engine/)
 * [2024-01-01, 01:02:43](https://lobste.rs/s/e9jd9m/stuff_we_figured_out_about_ai_2023) - [Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/)
 * [2023-12-31, 20:04:08](https://lobste.rs/s/leznk6/rust9x_update_rust_1_76_0_beta) - [Rust9x update: Rust 1.76.0-beta](https://seri.tools/blog/rust9x-1-76/)
