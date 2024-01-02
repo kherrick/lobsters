@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 18:39:00](https://lobste.rs/s/v1plec/chrultrabook_docs) - [Chrultrabook Docs](https://docs.chrultrabook.com/)
 * [2024-01-02, 18:15:23](https://lobste.rs/s/fqnqga/branches_have_no_rules) - [branches have no rules](https://wizardzines.com/comics/branches-have-no-rules/)
 * [2024-01-02, 18:13:21](https://lobste.rs/s/xsmbds/vim_9_1_released) - [Vim 9.1 released](https://www.vim.org/vim-9.1-released.php)
 * [2024-01-02, 17:40:46](https://lobste.rs/s/colzrj/introduction_plan_9) - [Introduction To Plan 9](http://fqa.9front.org/fqa0.html)
