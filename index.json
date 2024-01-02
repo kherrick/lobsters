@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-02, 17:40:46",
+      "https://lobste.rs/s/colzrj/introduction_plan_9"
+    ],
+    [
+      "Introduction To Plan 9",
+      "http://fqa.9front.org/fqa0.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-02, 17:36:33",
+      "https://lobste.rs/s/fix5em/what_i_ve_learned_about_flow_fields_so_far"
+    ],
+    [
+      "What I've learned about flow fields so far",
+      "https://damoonrashidi.me/articles/flow-field-methods"
+    ]
+  ],
+  [
+    [
       "2024-01-02, 17:25:14",
       "https://lobste.rs/s/kgvnxd/nix_thesis"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-01-02, 04:52:18",
-      "https://lobste.rs/s/qhcjmk/comrak_on_akkoma"
-    ],
-    [
-      "Comrak on Akkoma",
-      "https://lottia.net/notes/0006-comrak-on-akkoma.html"
-    ]
-  ],
-  [
-    [
       "2024-01-02, 00:19:17",
       "https://lobste.rs/s/smtoeg/tricks_for_videogame_path_finding"
     ],
@@ -217,16 +227,6 @@
     [
       "enclave: Command-line secure encrypted deniable cloud-synchronized notebook",
       "https://github.com/symbolicsoft/enclave"
-    ]
-  ],
-  [
-    [
-      "2024-01-01, 12:35:32",
-      "https://lobste.rs/s/qdsqmc/why_my_print_didn_t_output_before"
-    ],
-    [
-      "Why My Print Didn't Output Before a Segmentation Fault",
-      "https://blog.yelinaung.com/posts/what-happened-to-my-print/"
     ]
   ],
   [
