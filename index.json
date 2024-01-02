@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-02, 00:39:39",
+      "https://lobste.rs/s/z0kue5/atari_2600_ide_browser"
+    ],
+    [
+      "Atari 2600 IDE in the Browser",
+      "https://www.henryschmale.org/apps/atari2600ide/"
+    ]
+  ],
+  [
+    [
+      "2024-01-02, 00:19:17",
+      "https://lobste.rs/s/smtoeg/tricks_for_videogame_path_finding"
+    ],
+    [
+      "A* Tricks for Videogame Path Finding",
+      "https://timmastny.com/blog/a-star-tricks-for-videogame-path-finding/"
+    ]
+  ],
+  [
+    [
       "2024-01-01, 22:55:31",
       "https://lobste.rs/s/qzt610/grasshopper_low_level_programming"
     ],
@@ -217,26 +237,6 @@
     [
       "Email addresses are not good 'permanent' identifiers for accounts",
       "https://utcc.utoronto.ca/~cks/space/blog/tech/EmailAddressesBadPermanentIDs "
-    ]
-  ],
-  [
-    [
-      "2023-12-31, 10:39:08",
-      "https://lobste.rs/s/jih1sc/zig_cookbook_collection_simple_zig"
-    ],
-    [
-      "zig-cookbook: a collection of simple Zig programs that demonstrate good practices to accomplish common programming tasks",
-      "https://github.com/zigcc/zig-cookbook"
-    ]
-  ],
-  [
-    [
-      "2023-12-31, 08:27:45",
-      "https://lobste.rs/s/dbutse/how_i_forked_steamos_for_my_living_room_pc"
-    ],
-    [
-      "How I forked SteamOS for my living room PC",
-      "https://iliana.fyi/blog/build-your-own-steamos-updates/"
     ]
   ],
   [
