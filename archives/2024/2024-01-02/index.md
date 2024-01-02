@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 11:59:05](https://lobste.rs/s/dxvnua/rolling_aggregates_with_sql_window) - [Rolling aggregates with SQL window functions](https://antonz.org/sql-window-functions-rolling-aggregates/)
 * [2024-01-02, 11:45:16](https://lobste.rs/s/oa4kgv/yet_another_static_site_generator_for) - [Yet another static site generator, but for language designers](https://david-delassus.medium.com/yet-another-static-site-generator-but-for-language-designers-a7d8cdf09aa5)
 * [2024-01-02, 08:10:36](https://lobste.rs/s/qrubqp/what_is_feature_store_2024_definitive) - [What is a Feature Store: The 2024 Definitive Guide](https://www.hopsworks.ai/dictionary/feature-store)
 * [2024-01-02, 05:47:51](https://lobste.rs/s/fbksh6/reflections_on_ten_years_llvm_weekly) - [Reflections on ten years of LLVM Weekly](https://muxup.com/2024q1/reflections-on-ten-years-of-llvm-weekly)
