@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-02, 05:12:20",
+      "https://lobste.rs/s/0hrv0x/don_t_start_pull_requests_from_your_main"
+    ],
+    [
+      "Don’t Start Pull Requests from Your Main Branch",
+      "https://hynek.me/articles/pull-requests-branch/"
+    ]
+  ],
+  [
+    [
       "2024-01-02, 04:52:18",
       "https://lobste.rs/s/qhcjmk/comrak_on_akkoma"
     ],
@@ -207,16 +217,6 @@
     [
       "Awesome free technical magazine about programming, hacking, security, electronics etc",
       "https://pagedout.institute"
-    ]
-  ],
-  [
-    [
-      "2024-01-01, 08:50:06",
-      "https://lobste.rs/s/rqhfra/pattern_matching_exhaustiveness"
-    ],
-    [
-      "Pattern matching and exhaustiveness checking algorithms implemented in Rust",
-      "https://github.com/yorickpeterse/pattern-matching-in-rust"
     ]
   ],
   [
