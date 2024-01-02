@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 13:30:11](https://lobste.rs/s/zycaco/2024_please_switch_firefox) - [In 2024, please switch to Firefox](https://roytanck.com/2023/12/23/in-2024-please-switch-to-firefox/)
+* [2024-01-02, 13:29:15](https://lobste.rs/s/fvxd9q/my_text_editor_is_not_open_source) - [My Text Editor Is Not Open Source](https://bt.ht/posts/My_Text_Editor_Is_Not_Open_Source/)
 * [2024-01-02, 11:59:05](https://lobste.rs/s/dxvnua/rolling_aggregates_with_sql_window) - [Rolling aggregates with SQL window functions](https://antonz.org/sql-window-functions-rolling-aggregates/)
 * [2024-01-02, 11:45:16](https://lobste.rs/s/oa4kgv/yet_another_static_site_generator_for) - [Yet another static site generator, but for language designers](https://david-delassus.medium.com/yet-another-static-site-generator-but-for-language-designers-a7d8cdf09aa5)
 * [2024-01-02, 08:10:36](https://lobste.rs/s/qrubqp/what_is_feature_store_2024_definitive) - [What is a Feature Store: The 2024 Definitive Guide](https://www.hopsworks.ai/dictionary/feature-store)
