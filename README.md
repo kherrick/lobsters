@@ -2,11 +2,11 @@
 
 * [2024-01-02, 19:32:39](https://lobste.rs/s/acllbf/dealing_with_weird_elf_libraries) - [Dealing with weird ELF libraries](https://mjg59.dreamwidth.org/69070.html)
 * [2024-01-02, 19:28:04](https://lobste.rs/s/jyrd8l/this_year_llvm) - [This year in LLVM](https://www.npopov.com/2024/01/01/This-year-in-LLVM-2023.html)
-* [2024-01-02, 18:39:00](https://lobste.rs/s/v1plec/chrultrabook_docs) - [Chrultrabook Docs](https://docs.chrultrabook.com/)
 * [2024-01-02, 18:15:23](https://lobste.rs/s/fqnqga/branches_have_no_rules) - [branches have no rules](https://wizardzines.com/comics/branches-have-no-rules/)
 * [2024-01-02, 18:13:21](https://lobste.rs/s/xsmbds/vim_9_1_released) - [Vim 9.1 released](https://www.vim.org/vim-9.1-released.php)
 * [2024-01-02, 17:36:33](https://lobste.rs/s/fix5em/what_i_ve_learned_about_flow_fields_so_far) - [What I've learned about flow fields so far](https://damoonrashidi.me/articles/flow-field-methods)
 * [2024-01-02, 17:25:14](https://lobste.rs/s/kgvnxd/nix_thesis) - [The Nix Thesis](https://jonathanlorimer.dev/posts/nix-thesis.html)
+* [2024-01-02, 17:01:41](https://lobste.rs/s/sciizg/how_make_shell_script) - [How to “make” a shell script](https://www.humprog.org/~stephen/blog/2024/01/02/#make-shell)
 * [2024-01-02, 16:38:57](https://lobste.rs/s/idncwl/case_for_pipe_assignment_operator_r) - [The case for a pipe assignment operator in R](http://hughjonesd.github.io/case-for-pipe-assignment.html)
 * [2024-01-02, 16:27:03](https://lobste.rs/s/pb8bq4/bookmarklets) - [Bookmarklets](https://yawaramin.github.io/bookmarklets/)
 * [2024-01-02, 16:13:57](https://lobste.rs/s/3f69tm/i_llm_stands_for_intelligence) - [The I in LLM stands for intelligence](https://daniel.haxx.se/blog/2024/01/02/the-i-in-llm-stands-for-intelligence/)
