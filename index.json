@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-02, 17:01:41",
+      "https://lobste.rs/s/sciizg/how_make_shell_script"
+    ],
+    [
+      "How to “make” a shell script",
+      "https://www.humprog.org/~stephen/blog/2024/01/02/#make-shell"
+    ]
+  ],
+  [
+    [
       "2024-01-02, 16:48:18",
       "https://lobste.rs/s/h1diwo/llms_programming_first_days_2024"
     ],
@@ -87,16 +97,6 @@
     [
       "Rolling aggregates with SQL window functions",
       "https://antonz.org/sql-window-functions-rolling-aggregates/"
-    ]
-  ],
-  [
-    [
-      "2024-01-02, 08:10:36",
-      "https://lobste.rs/s/qrubqp/what_is_feature_store_2024_definitive"
-    ],
-    [
-      "What is a Feature Store: The 2024 Definitive Guide",
-      "https://www.hopsworks.ai/dictionary/feature-store"
     ]
   ],
   [
