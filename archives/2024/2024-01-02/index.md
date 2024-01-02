@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 05:12:20](https://lobste.rs/s/0hrv0x/don_t_start_pull_requests_from_your_main) - [Don’t Start Pull Requests from Your Main Branch](https://hynek.me/articles/pull-requests-branch/)
 * [2024-01-02, 04:52:18](https://lobste.rs/s/qhcjmk/comrak_on_akkoma) - [Comrak on Akkoma](https://lottia.net/notes/0006-comrak-on-akkoma.html)
 * [2024-01-02, 03:17:10](https://lobste.rs/s/fssdae/beginner_s_guide_graphql_scala) - [A Beginner's Guide to GraphQL in Scala](https://blog.pierre-ricadat.com/a-beginners-guide-to-graphql-in-scala)
 * [2024-01-02, 01:58:19](https://lobste.rs/s/4m6lhb/scribus_1_6_0_released) - [Scribus 1.6.0 Released](https://www.scribus.net/scribus-1-6-0-released/)
