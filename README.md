@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-02, 00:39:39](https://lobste.rs/s/z0kue5/atari_2600_ide_browser) - [Atari 2600 IDE in the Browser](https://www.henryschmale.org/apps/atari2600ide/)
+* [2024-01-02, 00:19:17](https://lobste.rs/s/smtoeg/tricks_for_videogame_path_finding) - [A* Tricks for Videogame Path Finding](https://timmastny.com/blog/a-star-tricks-for-videogame-path-finding/)
 * [2024-01-01, 22:55:31](https://lobste.rs/s/qzt610/grasshopper_low_level_programming) - [GRASSHOPPER, a low-level programming language for the 6502 (1981)](https://archive.org/details/grasshopper-6502)
 * [2024-01-01, 21:26:49](https://lobste.rs/s/w1xpwu/shadershark_opengl_glsl_playground) - [ShaderShark – OpenGL / GLSL playground](https://graphics.globalcode.info/v_0/shader-shark.xhtml#video)
 * [2024-01-01, 20:53:22](https://lobste.rs/s/yjebsu/release_fish_3_7_0_released_january_1_2024) - [Release fish 3.7.0 (released January 1, 2024) · fish-shell/fish-shell](https://github.com/fish-shell/fish-shell/releases/tag/3.7.0)
@@ -22,8 +24,6 @@
 * [2023-12-31, 20:04:08](https://lobste.rs/s/leznk6/rust9x_update_rust_1_76_0_beta) - [Rust9x update: Rust 1.76.0-beta](https://seri.tools/blog/rust9x-1-76/)
 * [2023-12-31, 18:13:23](https://lobste.rs/s/ybk77k/musings_on_c_charter) - [Musings on the C charter](https://blog.aaronballman.com/2023/12/musings-on-the-c-charter/)
 * [2023-12-31, 14:21:46](https://lobste.rs/s/zu5dmq/email_addresses_are_not_good_permanent) - [Email addresses are not good 'permanent' identifiers for accounts](https://utcc.utoronto.ca/~cks/space/blog/tech/EmailAddressesBadPermanentIDs )
-* [2023-12-31, 10:39:08](https://lobste.rs/s/jih1sc/zig_cookbook_collection_simple_zig) - [zig-cookbook: a collection of simple Zig programs that demonstrate good practices to accomplish common programming tasks](https://github.com/zigcc/zig-cookbook)
-* [2023-12-31, 08:27:45](https://lobste.rs/s/dbutse/how_i_forked_steamos_for_my_living_room_pc) - [How I forked SteamOS for my living room PC](https://iliana.fyi/blog/build-your-own-steamos-updates/)
 * [2023-12-31, 03:57:28](https://lobste.rs/s/0ciz1n/how_bad_are_search_results_let_s_compare) - [How bad are search results? Let's compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
 
 ## [Archives](archives/index.md)
