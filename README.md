@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-02, 05:47:51](https://lobste.rs/s/fbksh6/reflections_on_ten_years_llvm_weekly) - [Reflections on ten years of LLVM Weekly](https://muxup.com/2024q1/reflections-on-ten-years-of-llvm-weekly)
+* [2024-01-02, 05:43:53](https://lobste.rs/s/ddlviu/cap_tradeoff_wild) - [A CAP tradeoff in the wild](https://decomposition.al/blog/2023/12/31/a-cap-tradeoff-in-the-wild/)
 * [2024-01-02, 05:20:58](https://lobste.rs/s/70iwpw/value_canonicity) - [The value of canonicity](https://building.nubank.com.br/the-value-of-canonicity/)
 * [2024-01-02, 05:14:37](https://lobste.rs/s/rftrxt/running_9front_on_emulated_sgi_indy_via) - [Running 9front on an emulated SGI Indy via MAME](https://posixcafe.org/blogs/2024/01/01/0/)
 * [2024-01-02, 05:12:20](https://lobste.rs/s/0hrv0x/don_t_start_pull_requests_from_your_main) - [Don’t Start Pull Requests from Your Main Branch](https://hynek.me/articles/pull-requests-branch/)
@@ -12,7 +14,6 @@
 * [2024-01-01, 22:55:31](https://lobste.rs/s/qzt610/grasshopper_low_level_programming) - [GRASSHOPPER, a low-level programming language for the 6502 (1981)](https://archive.org/details/grasshopper-6502)
 * [2024-01-01, 21:26:49](https://lobste.rs/s/w1xpwu/shadershark_opengl_glsl_playground) - [ShaderShark – OpenGL / GLSL playground](https://graphics.globalcode.info/v_0/shader-shark.xhtml#video)
 * [2024-01-01, 20:53:22](https://lobste.rs/s/yjebsu/release_fish_3_7_0_released_january_1_2024) - [Release fish 3.7.0 (released January 1, 2024) · fish-shell/fish-shell](https://github.com/fish-shell/fish-shell/releases/tag/3.7.0)
-* [2024-01-01, 19:13:31](https://lobste.rs/s/xspaf0/ultimate_spc700_talk) - [The Ultimate SPC700 Talk](https://media.ccc.de/v/37c3-11748-the_ultimate_spc700_talk)
 * [2024-01-01, 19:00:55](https://lobste.rs/s/beh7c8/which_root_certificates_should_you_trust) - [Which Root Certificates should you trust? Find out with CertInfo](https://raymii.org/s/software/Which_Root_Certificates_Should_You_Trust_CertInfo.html)
 * [2024-01-01, 18:49:27](https://lobste.rs/s/bt4enq/future_rem_cross_platform_gui_rust_2024) - [Future of rem | Cross-platform GUI in Rust in 2024?](https://lobste.rs/s/bt4enq/future_rem_cross_platform_gui_rust_2024)
 * [2024-01-01, 18:48:35](https://lobste.rs/s/sqp3oy/annotating_reflecting_on_my_robotics) - [Annotating and reflecting on my robotics code from 2009](https://ntietz.com/blog/annotating-my-early-code-from-a-robot/)
@@ -23,7 +24,6 @@
 * [2024-01-01, 11:07:14](https://lobste.rs/s/2pzj9a/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/2pzj9a/what_are_you_doing_this_week)
 * [2024-01-01, 11:05:39](https://lobste.rs/s/urwcat/spatial_shell_6th_release_might_be_charm) - [Spatial Shell 6th Release Might Be the Charm](https://soap.coffee/~lthms/posts/SpatialShell6.html)
 * [2024-01-01, 09:54:20](https://lobste.rs/s/o1rxnx/awesome_free_technical_magazine_about) - [Awesome free technical magazine about programming, hacking, security, electronics etc](https://pagedout.institute)
-* [2024-01-01, 07:17:35](https://lobste.rs/s/vr25vm/llm_generated_code_is_like_particleboard) - [llm generated code is like particleboard](https://so.dang.cool/blog/2023-12-30-llm-generated-code-is-like-particleboard.html)
 * [2024-01-01, 01:02:43](https://lobste.rs/s/e9jd9m/stuff_we_figured_out_about_ai_2023) - [Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/)
 
 ## [Archives](archives/index.md)

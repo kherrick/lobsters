@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 05:47:51](https://lobste.rs/s/fbksh6/reflections_on_ten_years_llvm_weekly) - [Reflections on ten years of LLVM Weekly](https://muxup.com/2024q1/reflections-on-ten-years-of-llvm-weekly)
+* [2024-01-02, 05:43:53](https://lobste.rs/s/ddlviu/cap_tradeoff_wild) - [A CAP tradeoff in the wild](https://decomposition.al/blog/2023/12/31/a-cap-tradeoff-in-the-wild/)
 * [2024-01-02, 05:20:58](https://lobste.rs/s/70iwpw/value_canonicity) - [The value of canonicity](https://building.nubank.com.br/the-value-of-canonicity/)
 * [2024-01-02, 05:14:37](https://lobste.rs/s/rftrxt/running_9front_on_emulated_sgi_indy_via) - [Running 9front on an emulated SGI Indy via MAME](https://posixcafe.org/blogs/2024/01/01/0/)
 * [2024-01-02, 05:12:20](https://lobste.rs/s/0hrv0x/don_t_start_pull_requests_from_your_main) - [Don’t Start Pull Requests from Your Main Branch](https://hynek.me/articles/pull-requests-branch/)
