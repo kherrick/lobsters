@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-02, 04:52:18](https://lobste.rs/s/qhcjmk/comrak_on_akkoma) - [Comrak on Akkoma](https://lottia.net/notes/0006-comrak-on-akkoma.html)
 * [2024-01-02, 03:17:10](https://lobste.rs/s/fssdae/beginner_s_guide_graphql_scala) - [A Beginner's Guide to GraphQL in Scala](https://blog.pierre-ricadat.com/a-beginners-guide-to-graphql-in-scala)
 * [2024-01-02, 01:58:19](https://lobste.rs/s/4m6lhb/scribus_1_6_0_released) - [Scribus 1.6.0 Released](https://www.scribus.net/scribus-1-6-0-released/)
 * [2024-01-02, 01:35:54](https://lobste.rs/s/wvmc9d/memory_slam_2_0) - [Memory Slam 2.0](https://nickm.com/memslam/)
@@ -22,7 +23,6 @@
 * [2024-01-01, 09:54:20](https://lobste.rs/s/o1rxnx/awesome_free_technical_magazine_about) - [Awesome free technical magazine about programming, hacking, security, electronics etc](https://pagedout.institute)
 * [2024-01-01, 08:50:06](https://lobste.rs/s/rqhfra/pattern_matching_exhaustiveness) - [Pattern matching and exhaustiveness checking algorithms implemented in Rust](https://github.com/yorickpeterse/pattern-matching-in-rust)
 * [2024-01-01, 07:17:35](https://lobste.rs/s/vr25vm/llm_generated_code_is_like_particleboard) - [llm generated code is like particleboard](https://so.dang.cool/blog/2023-12-30-llm-generated-code-is-like-particleboard.html)
-* [2024-01-01, 05:07:32](https://lobste.rs/s/4mqyxh/closer_look_key_value_storage_engine) - [A Closer Look to a Key-Value Storage Engine](https://silhding.github.io/2021/08/20/A-Closer-Look-to-a-Key-Value-Storage-Engine/)
 * [2024-01-01, 01:02:43](https://lobste.rs/s/e9jd9m/stuff_we_figured_out_about_ai_2023) - [Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/)
 * [2023-12-31, 03:57:28](https://lobste.rs/s/0ciz1n/how_bad_are_search_results_let_s_compare) - [How bad are search results? Let's compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT](https://danluu.com/seo-spam/)
 
