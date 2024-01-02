@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-02, 18:15:23",
+      "https://lobste.rs/s/fqnqga/branches_have_no_rules"
+    ],
+    [
+      "branches have no rules",
+      "https://wizardzines.com/comics/branches-have-no-rules/"
+    ]
+  ],
+  [
+    [
+      "2024-01-02, 18:13:21",
+      "https://lobste.rs/s/xsmbds/vim_9_1_released"
+    ],
+    [
+      "Vim 9.1 released",
+      "https://www.vim.org/vim-9.1-released.php"
+    ]
+  ],
+  [
+    [
       "2024-01-02, 17:40:46",
       "https://lobste.rs/s/colzrj/introduction_plan_9"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-01-02, 00:19:17",
-      "https://lobste.rs/s/smtoeg/tricks_for_videogame_path_finding"
-    ],
-    [
-      "A* Tricks for Videogame Path Finding",
-      "https://timmastny.com/blog/a-star-tricks-for-videogame-path-finding/"
-    ]
-  ],
-  [
-    [
       "2024-01-01, 20:53:22",
       "https://lobste.rs/s/yjebsu/release_fish_3_7_0_released_january_1_2024"
     ],
@@ -217,16 +227,6 @@
     [
       "Some notes on NixOS",
       "https://jvns.ca/blog/2024/01/01/some-notes-on-nixos/"
-    ]
-  ],
-  [
-    [
-      "2024-01-01, 15:06:34",
-      "https://lobste.rs/s/airekl/enclave_command_line_secure_encrypted"
-    ],
-    [
-      "enclave: Command-line secure encrypted deniable cloud-synchronized notebook",
-      "https://github.com/symbolicsoft/enclave"
     ]
   ],
   [
