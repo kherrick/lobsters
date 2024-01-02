@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-01-02, 01:40:47",
-      "https://lobste.rs/s/m6ogv6/gnuplot_version_6_0_release_notes"
-    ],
-    [
-      "Gnuplot Version 6.0 Release Notes",
-      "http://www.gnuplot.info/ReleaseNotes_6_0_0.html"
-    ]
-  ],
-  [
-    [
       "2024-01-02, 01:35:54",
       "https://lobste.rs/s/wvmc9d/memory_slam_2_0"
     ],
@@ -227,6 +217,16 @@
     [
       "llm generated code is like particleboard",
       "https://so.dang.cool/blog/2023-12-30-llm-generated-code-is-like-particleboard.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-01, 05:07:32",
+      "https://lobste.rs/s/4mqyxh/closer_look_key_value_storage_engine"
+    ],
+    [
+      "A Closer Look to a Key-Value Storage Engine",
+      "https://silhding.github.io/2021/08/20/A-Closer-Look-to-a-Key-Value-Storage-Engine/"
     ]
   ],
   [
