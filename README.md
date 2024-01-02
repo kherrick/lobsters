@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-02, 16:27:03](https://lobste.rs/s/pb8bq4/bookmarklets) - [Bookmarklets](https://yawaramin.github.io/bookmarklets/)
 * [2024-01-02, 16:13:57](https://lobste.rs/s/3f69tm/i_llm_stands_for_intelligence) - [The I in LLM stands for intelligence](https://daniel.haxx.se/blog/2024/01/02/the-i-in-llm-stands-for-intelligence/)
 * [2024-01-02, 13:58:14](https://lobste.rs/s/exlaeq/flakes_aren_t_real_cannot_hurt_you_guide) - [Flakes aren't real and cannot hurt you: a guide to using Nix flakes the non-flake way](https://jade.fyi/blog/flakes-arent-real/)
 * [2024-01-02, 13:52:35](https://lobste.rs/s/cthjzk/mobile_reverse_engineering_empower_gig) - [Mobile reverse engineering to empower the gig economy workers and labor unions](https://media.ccc.de/v/37c3-12133-mobile_reverse_engineering_to_empower_the_gig_economy_workers_and_labor_unions)
@@ -15,7 +16,6 @@
 * [2024-01-02, 04:52:18](https://lobste.rs/s/qhcjmk/comrak_on_akkoma) - [Comrak on Akkoma](https://lottia.net/notes/0006-comrak-on-akkoma.html)
 * [2024-01-02, 00:39:39](https://lobste.rs/s/z0kue5/atari_2600_ide_browser) - [Atari 2600 IDE in the Browser](https://www.henryschmale.org/apps/atari2600ide/)
 * [2024-01-02, 00:19:17](https://lobste.rs/s/smtoeg/tricks_for_videogame_path_finding) - [A* Tricks for Videogame Path Finding](https://timmastny.com/blog/a-star-tricks-for-videogame-path-finding/)
-* [2024-01-01, 22:55:31](https://lobste.rs/s/qzt610/grasshopper_low_level_programming) - [GRASSHOPPER, a low-level programming language for the 6502 (1981)](https://archive.org/details/grasshopper-6502)
 * [2024-01-01, 20:53:22](https://lobste.rs/s/yjebsu/release_fish_3_7_0_released_january_1_2024) - [Release fish 3.7.0 (released January 1, 2024) · fish-shell/fish-shell](https://github.com/fish-shell/fish-shell/releases/tag/3.7.0)
 * [2024-01-01, 19:00:55](https://lobste.rs/s/beh7c8/which_root_certificates_should_you_trust) - [Which Root Certificates should you trust? Find out with CertInfo](https://raymii.org/s/software/Which_Root_Certificates_Should_You_Trust_CertInfo.html)
 * [2024-01-01, 18:49:27](https://lobste.rs/s/bt4enq/future_rem_cross_platform_gui_rust_2024) - [Future of rem | Cross-platform GUI in Rust in 2024?](https://lobste.rs/s/bt4enq/future_rem_cross_platform_gui_rust_2024)
