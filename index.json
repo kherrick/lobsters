@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-02, 01:40:47",
+      "https://lobste.rs/s/m6ogv6/gnuplot_version_6_0_release_notes"
+    ],
+    [
+      "Gnuplot Version 6.0 Release Notes",
+      "http://www.gnuplot.info/ReleaseNotes_6_0_0.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-02, 01:35:54",
+      "https://lobste.rs/s/wvmc9d/memory_slam_2_0"
+    ],
+    [
+      "Memory Slam 2.0",
+      "https://nickm.com/memslam/"
+    ]
+  ],
+  [
+    [
       "2024-01-02, 00:39:39",
       "https://lobste.rs/s/z0kue5/atari_2600_ide_browser"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-01-01, 05:07:32",
-      "https://lobste.rs/s/4mqyxh/closer_look_key_value_storage_engine"
-    ],
-    [
-      "A Closer Look to a Key-Value Storage Engine",
-      "https://silhding.github.io/2021/08/20/A-Closer-Look-to-a-Key-Value-Storage-Engine/"
-    ]
-  ],
-  [
-    [
       "2024-01-01, 01:02:43",
       "https://lobste.rs/s/e9jd9m/stuff_we_figured_out_about_ai_2023"
     ],
@@ -217,16 +227,6 @@
     [
       "Rust9x update: Rust 1.76.0-beta",
       "https://seri.tools/blog/rust9x-1-76/"
-    ]
-  ],
-  [
-    [
-      "2023-12-31, 18:13:23",
-      "https://lobste.rs/s/ybk77k/musings_on_c_charter"
-    ],
-    [
-      "Musings on the C charter",
-      "https://blog.aaronballman.com/2023/12/musings-on-the-c-charter/"
     ]
   ],
   [
