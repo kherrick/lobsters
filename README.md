@@ -2,9 +2,9 @@
 
 * [2024-01-02, 21:41:27](https://lobste.rs/s/v8mtjv/turn_your_code_into_pixel_art) - [Turn Your Code Into Pixel Art](https://thoughtbot.com/blog/turn-your-code-into-pixel-art)
 * [2024-01-02, 21:30:27](https://lobste.rs/s/u2qcnf/one_billion_row_challenge) - [The One Billion Row Challenge](https://www.morling.dev/blog/one-billion-row-challenge/)
+* [2024-01-02, 21:27:35](https://lobste.rs/s/ix4ftx/neonmodem_tui_for_lobsters_hn_etc) - [neonmodem: TUI for Lobsters, HN, etc](https://github.com/mrusme/neonmodem)
 * [2024-01-02, 19:32:39](https://lobste.rs/s/acllbf/dealing_with_weird_elf_libraries) - [Dealing with weird ELF libraries](https://mjg59.dreamwidth.org/69070.html)
 * [2024-01-02, 19:28:04](https://lobste.rs/s/jyrd8l/this_year_llvm) - [This year in LLVM](https://www.npopov.com/2024/01/01/This-year-in-LLVM-2023.html)
-* [2024-01-02, 18:15:23](https://lobste.rs/s/fqnqga/branches_have_no_rules) - [branches have no rules](https://wizardzines.com/comics/branches-have-no-rules/)
 * [2024-01-02, 18:13:21](https://lobste.rs/s/xsmbds/vim_9_1_released) - [Vim 9.1 released](https://www.vim.org/vim-9.1-released.php)
 * [2024-01-02, 17:36:33](https://lobste.rs/s/fix5em/what_i_ve_learned_about_flow_fields_so_far) - [What I've learned about flow fields so far](https://damoonrashidi.me/articles/flow-field-methods)
 * [2024-01-02, 17:25:14](https://lobste.rs/s/kgvnxd/nix_thesis) - [The Nix Thesis](https://jonathanlorimer.dev/posts/nix-thesis.html)
