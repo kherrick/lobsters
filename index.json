@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-02, 17:25:14",
+      "https://lobste.rs/s/kgvnxd/nix_thesis"
+    ],
+    [
+      "The Nix Thesis",
+      "https://jonathanlorimer.dev/posts/nix-thesis.html"
+    ]
+  ],
+  [
+    [
       "2024-01-02, 17:01:41",
       "https://lobste.rs/s/sciizg/how_make_shell_script"
     ],
@@ -97,16 +107,6 @@
     [
       "Rolling aggregates with SQL window functions",
       "https://antonz.org/sql-window-functions-rolling-aggregates/"
-    ]
-  ],
-  [
-    [
-      "2024-01-02, 05:47:51",
-      "https://lobste.rs/s/fbksh6/reflections_on_ten_years_llvm_weekly"
-    ],
-    [
-      "Reflections on ten years of LLVM Weekly",
-      "https://muxup.com/2024q1/reflections-on-ten-years-of-llvm-weekly"
     ]
   ],
   [
