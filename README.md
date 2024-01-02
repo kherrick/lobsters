@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-02, 18:15:23](https://lobste.rs/s/fqnqga/branches_have_no_rules) - [branches have no rules](https://wizardzines.com/comics/branches-have-no-rules/)
+* [2024-01-02, 18:13:21](https://lobste.rs/s/xsmbds/vim_9_1_released) - [Vim 9.1 released](https://www.vim.org/vim-9.1-released.php)
 * [2024-01-02, 17:40:46](https://lobste.rs/s/colzrj/introduction_plan_9) - [Introduction To Plan 9](http://fqa.9front.org/fqa0.html)
 * [2024-01-02, 17:36:33](https://lobste.rs/s/fix5em/what_i_ve_learned_about_flow_fields_so_far) - [What I've learned about flow fields so far](https://damoonrashidi.me/articles/flow-field-methods)
 * [2024-01-02, 17:25:14](https://lobste.rs/s/kgvnxd/nix_thesis) - [The Nix Thesis](https://jonathanlorimer.dev/posts/nix-thesis.html)
@@ -16,13 +18,11 @@
 * [2024-01-02, 05:43:53](https://lobste.rs/s/ddlviu/cap_tradeoff_wild) - [A CAP tradeoff in the wild](https://decomposition.al/blog/2023/12/31/a-cap-tradeoff-in-the-wild/)
 * [2024-01-02, 05:14:37](https://lobste.rs/s/rftrxt/running_9front_on_emulated_sgi_indy_via) - [Running 9front on an emulated SGI Indy via MAME](https://posixcafe.org/blogs/2024/01/01/0/)
 * [2024-01-02, 05:12:20](https://lobste.rs/s/0hrv0x/don_t_start_pull_requests_from_your_main) - [Don’t Start Pull Requests from Your Main Branch](https://hynek.me/articles/pull-requests-branch/)
-* [2024-01-02, 00:19:17](https://lobste.rs/s/smtoeg/tricks_for_videogame_path_finding) - [A* Tricks for Videogame Path Finding](https://timmastny.com/blog/a-star-tricks-for-videogame-path-finding/)
 * [2024-01-01, 20:53:22](https://lobste.rs/s/yjebsu/release_fish_3_7_0_released_january_1_2024) - [Release fish 3.7.0 (released January 1, 2024) · fish-shell/fish-shell](https://github.com/fish-shell/fish-shell/releases/tag/3.7.0)
 * [2024-01-01, 19:00:55](https://lobste.rs/s/beh7c8/which_root_certificates_should_you_trust) - [Which Root Certificates should you trust? Find out with CertInfo](https://raymii.org/s/software/Which_Root_Certificates_Should_You_Trust_CertInfo.html)
 * [2024-01-01, 18:49:27](https://lobste.rs/s/bt4enq/future_rem_cross_platform_gui_rust_2024) - [Future of rem | Cross-platform GUI in Rust in 2024?](https://lobste.rs/s/bt4enq/future_rem_cross_platform_gui_rust_2024)
 * [2024-01-01, 18:13:47](https://lobste.rs/s/vchsft/writing_truetype_font_renderer) - [Writing a TrueType font renderer](https://axleos.com/writing-a-truetype-font-renderer/)
 * [2024-01-01, 17:09:51](https://lobste.rs/s/g3bsks/some_notes_on_nixos) - [Some notes on NixOS](https://jvns.ca/blog/2024/01/01/some-notes-on-nixos/)
-* [2024-01-01, 15:06:34](https://lobste.rs/s/airekl/enclave_command_line_secure_encrypted) - [enclave: Command-line secure encrypted deniable cloud-synchronized notebook](https://github.com/symbolicsoft/enclave)
 * [2024-01-01, 11:05:39](https://lobste.rs/s/urwcat/spatial_shell_6th_release_might_be_charm) - [Spatial Shell 6th Release Might Be the Charm](https://soap.coffee/~lthms/posts/SpatialShell6.html)
 * [2024-01-01, 01:02:43](https://lobste.rs/s/e9jd9m/stuff_we_figured_out_about_ai_2023) - [Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/)
 
