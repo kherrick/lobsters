@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-02, 17:01:41](https://lobste.rs/s/sciizg/how_make_shell_script) - [How to “make” a shell script](https://www.humprog.org/~stephen/blog/2024/01/02/#make-shell)
 * [2024-01-02, 16:48:18](https://lobste.rs/s/h1diwo/llms_programming_first_days_2024) - [LLMs and Programming in the first days of 2024](http://antirez.com/news/140)
 * [2024-01-02, 16:38:57](https://lobste.rs/s/idncwl/case_for_pipe_assignment_operator_r) - [The case for a pipe assignment operator in R](http://hughjonesd.github.io/case-for-pipe-assignment.html)
 * [2024-01-02, 16:27:03](https://lobste.rs/s/pb8bq4/bookmarklets) - [Bookmarklets](https://yawaramin.github.io/bookmarklets/)
@@ -9,7 +10,6 @@
 * [2024-01-02, 13:30:11](https://lobste.rs/s/zycaco/2024_please_switch_firefox) - [In 2024, please switch to Firefox](https://roytanck.com/2023/12/23/in-2024-please-switch-to-firefox/)
 * [2024-01-02, 13:29:15](https://lobste.rs/s/fvxd9q/my_text_editor_is_not_open_source) - [My Text Editor Is Not Open Source](https://bt.ht/posts/My_Text_Editor_Is_Not_Open_Source/)
 * [2024-01-02, 11:59:05](https://lobste.rs/s/dxvnua/rolling_aggregates_with_sql_window) - [Rolling aggregates with SQL window functions](https://antonz.org/sql-window-functions-rolling-aggregates/)
-* [2024-01-02, 08:10:36](https://lobste.rs/s/qrubqp/what_is_feature_store_2024_definitive) - [What is a Feature Store: The 2024 Definitive Guide](https://www.hopsworks.ai/dictionary/feature-store)
 * [2024-01-02, 05:47:51](https://lobste.rs/s/fbksh6/reflections_on_ten_years_llvm_weekly) - [Reflections on ten years of LLVM Weekly](https://muxup.com/2024q1/reflections-on-ten-years-of-llvm-weekly)
 * [2024-01-02, 05:43:53](https://lobste.rs/s/ddlviu/cap_tradeoff_wild) - [A CAP tradeoff in the wild](https://decomposition.al/blog/2023/12/31/a-cap-tradeoff-in-the-wild/)
 * [2024-01-02, 05:14:37](https://lobste.rs/s/rftrxt/running_9front_on_emulated_sgi_indy_via) - [Running 9front on an emulated SGI Indy via MAME](https://posixcafe.org/blogs/2024/01/01/0/)
