@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-02, 08:10:36](https://lobste.rs/s/qrubqp/what_is_feature_store_2024_definitive) - [What is a Feature Store: The 2024 Definitive Guide](https://www.hopsworks.ai/dictionary/feature-store)
 * [2024-01-02, 05:47:51](https://lobste.rs/s/fbksh6/reflections_on_ten_years_llvm_weekly) - [Reflections on ten years of LLVM Weekly](https://muxup.com/2024q1/reflections-on-ten-years-of-llvm-weekly)
 * [2024-01-02, 05:43:53](https://lobste.rs/s/ddlviu/cap_tradeoff_wild) - [A CAP tradeoff in the wild](https://decomposition.al/blog/2023/12/31/a-cap-tradeoff-in-the-wild/)
 * [2024-01-02, 05:20:58](https://lobste.rs/s/70iwpw/value_canonicity) - [The value of canonicity](https://building.nubank.com.br/the-value-of-canonicity/)
@@ -8,7 +9,6 @@
 * [2024-01-02, 04:52:18](https://lobste.rs/s/qhcjmk/comrak_on_akkoma) - [Comrak on Akkoma](https://lottia.net/notes/0006-comrak-on-akkoma.html)
 * [2024-01-02, 03:17:10](https://lobste.rs/s/fssdae/beginner_s_guide_graphql_scala) - [A Beginner's Guide to GraphQL in Scala](https://blog.pierre-ricadat.com/a-beginners-guide-to-graphql-in-scala)
 * [2024-01-02, 01:58:19](https://lobste.rs/s/4m6lhb/scribus_1_6_0_released) - [Scribus 1.6.0 Released](https://www.scribus.net/scribus-1-6-0-released/)
-* [2024-01-02, 01:35:54](https://lobste.rs/s/wvmc9d/memory_slam_2_0) - [Memory Slam 2.0](https://nickm.com/memslam/)
 * [2024-01-02, 00:39:39](https://lobste.rs/s/z0kue5/atari_2600_ide_browser) - [Atari 2600 IDE in the Browser](https://www.henryschmale.org/apps/atari2600ide/)
 * [2024-01-02, 00:19:17](https://lobste.rs/s/smtoeg/tricks_for_videogame_path_finding) - [A* Tricks for Videogame Path Finding](https://timmastny.com/blog/a-star-tricks-for-videogame-path-finding/)
 * [2024-01-01, 22:55:31](https://lobste.rs/s/qzt610/grasshopper_low_level_programming) - [GRASSHOPPER, a low-level programming language for the 6502 (1981)](https://archive.org/details/grasshopper-6502)

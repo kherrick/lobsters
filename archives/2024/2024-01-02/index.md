@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 08:10:36](https://lobste.rs/s/qrubqp/what_is_feature_store_2024_definitive) - [What is a Feature Store: The 2024 Definitive Guide](https://www.hopsworks.ai/dictionary/feature-store)
 * [2024-01-02, 05:47:51](https://lobste.rs/s/fbksh6/reflections_on_ten_years_llvm_weekly) - [Reflections on ten years of LLVM Weekly](https://muxup.com/2024q1/reflections-on-ten-years-of-llvm-weekly)
 * [2024-01-02, 05:43:53](https://lobste.rs/s/ddlviu/cap_tradeoff_wild) - [A CAP tradeoff in the wild](https://decomposition.al/blog/2023/12/31/a-cap-tradeoff-in-the-wild/)
 * [2024-01-02, 05:20:58](https://lobste.rs/s/70iwpw/value_canonicity) - [The value of canonicity](https://building.nubank.com.br/the-value-of-canonicity/)
