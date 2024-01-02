@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 17:40:46](https://lobste.rs/s/colzrj/introduction_plan_9) - [Introduction To Plan 9](http://fqa.9front.org/fqa0.html)
+* [2024-01-02, 17:36:33](https://lobste.rs/s/fix5em/what_i_ve_learned_about_flow_fields_so_far) - [What I've learned about flow fields so far](https://damoonrashidi.me/articles/flow-field-methods)
 * [2024-01-02, 17:25:14](https://lobste.rs/s/kgvnxd/nix_thesis) - [The Nix Thesis](https://jonathanlorimer.dev/posts/nix-thesis.html)
 * [2024-01-02, 17:01:41](https://lobste.rs/s/sciizg/how_make_shell_script) - [How to “make” a shell script](https://www.humprog.org/~stephen/blog/2024/01/02/#make-shell)
 * [2024-01-02, 16:48:18](https://lobste.rs/s/h1diwo/llms_programming_first_days_2024) - [LLMs and Programming in the first days of 2024](http://antirez.com/news/140)
