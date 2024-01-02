@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 21:30:27](https://lobste.rs/s/u2qcnf/one_billion_row_challenge) - [The One Billion Row Challenge](https://www.morling.dev/blog/one-billion-row-challenge/)
+* [2024-01-02, 21:27:35](https://lobste.rs/s/ix4ftx/neonmodem_tui_for_lobsters_hn_etc) - [neonmodem: TUI for Lobsters, HN, etc](https://github.com/mrusme/neonmodem)
 * [2024-01-02, 19:32:39](https://lobste.rs/s/acllbf/dealing_with_weird_elf_libraries) - [Dealing with weird ELF libraries](https://mjg59.dreamwidth.org/69070.html)
 * [2024-01-02, 19:28:04](https://lobste.rs/s/jyrd8l/this_year_llvm) - [This year in LLVM](https://www.npopov.com/2024/01/01/This-year-in-LLVM-2023.html)
 * [2024-01-02, 18:39:00](https://lobste.rs/s/v1plec/chrultrabook_docs) - [Chrultrabook Docs](https://docs.chrultrabook.com/)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-02, 21:30:27](https://lobste.rs/s/u2qcnf/one_billion_row_challenge) - [The One Billion Row Challenge](https://www.morling.dev/blog/one-billion-row-challenge/)
+* [2024-01-02, 21:27:35](https://lobste.rs/s/ix4ftx/neonmodem_tui_for_lobsters_hn_etc) - [neonmodem: TUI for Lobsters, HN, etc](https://github.com/mrusme/neonmodem)
 * [2024-01-02, 19:32:39](https://lobste.rs/s/acllbf/dealing_with_weird_elf_libraries) - [Dealing with weird ELF libraries](https://mjg59.dreamwidth.org/69070.html)
 * [2024-01-02, 19:28:04](https://lobste.rs/s/jyrd8l/this_year_llvm) - [This year in LLVM](https://www.npopov.com/2024/01/01/This-year-in-LLVM-2023.html)
 * [2024-01-02, 18:15:23](https://lobste.rs/s/fqnqga/branches_have_no_rules) - [branches have no rules](https://wizardzines.com/comics/branches-have-no-rules/)
@@ -11,7 +13,6 @@
 * [2024-01-02, 16:27:03](https://lobste.rs/s/pb8bq4/bookmarklets) - [Bookmarklets](https://yawaramin.github.io/bookmarklets/)
 * [2024-01-02, 16:13:57](https://lobste.rs/s/3f69tm/i_llm_stands_for_intelligence) - [The I in LLM stands for intelligence](https://daniel.haxx.se/blog/2024/01/02/the-i-in-llm-stands-for-intelligence/)
 * [2024-01-02, 13:58:14](https://lobste.rs/s/exlaeq/flakes_aren_t_real_cannot_hurt_you_guide) - [Flakes aren't real and cannot hurt you: a guide to using Nix flakes the non-flake way](https://jade.fyi/blog/flakes-arent-real/)
-* [2024-01-02, 13:52:35](https://lobste.rs/s/cthjzk/mobile_reverse_engineering_empower_gig) - [Mobile reverse engineering to empower the gig economy workers and labor unions](https://media.ccc.de/v/37c3-12133-mobile_reverse_engineering_to_empower_the_gig_economy_workers_and_labor_unions)
 * [2024-01-02, 13:30:11](https://lobste.rs/s/zycaco/2024_please_switch_firefox) - [In 2024, please switch to Firefox](https://roytanck.com/2023/12/23/in-2024-please-switch-to-firefox/)
 * [2024-01-02, 13:29:15](https://lobste.rs/s/fvxd9q/my_text_editor_is_not_open_source) - [My Text Editor Is Not Open Source](https://bt.ht/posts/My_Text_Editor_Is_Not_Open_Source/)
 * [2024-01-02, 11:59:05](https://lobste.rs/s/dxvnua/rolling_aggregates_with_sql_window) - [Rolling aggregates with SQL window functions](https://antonz.org/sql-window-functions-rolling-aggregates/)
@@ -23,7 +24,6 @@
 * [2024-01-01, 18:49:27](https://lobste.rs/s/bt4enq/future_rem_cross_platform_gui_rust_2024) - [Future of rem | Cross-platform GUI in Rust in 2024?](https://lobste.rs/s/bt4enq/future_rem_cross_platform_gui_rust_2024)
 * [2024-01-01, 18:13:47](https://lobste.rs/s/vchsft/writing_truetype_font_renderer) - [Writing a TrueType font renderer](https://axleos.com/writing-a-truetype-font-renderer/)
 * [2024-01-01, 17:09:51](https://lobste.rs/s/g3bsks/some_notes_on_nixos) - [Some notes on NixOS](https://jvns.ca/blog/2024/01/01/some-notes-on-nixos/)
-* [2024-01-01, 11:05:39](https://lobste.rs/s/urwcat/spatial_shell_6th_release_might_be_charm) - [Spatial Shell 6th Release Might Be the Charm](https://soap.coffee/~lthms/posts/SpatialShell6.html)
 * [2024-01-01, 01:02:43](https://lobste.rs/s/e9jd9m/stuff_we_figured_out_about_ai_2023) - [Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/)
 
 ## [Archives](archives/index.md)
