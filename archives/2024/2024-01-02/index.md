@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 13:58:14](https://lobste.rs/s/exlaeq/flakes_aren_t_real_cannot_hurt_you_guide) - [Flakes aren't real and cannot hurt you: a guide to using Nix flakes the non-flake way](https://jade.fyi/blog/flakes-arent-real/)
+* [2024-01-02, 13:52:35](https://lobste.rs/s/cthjzk/mobile_reverse_engineering_empower_gig) - [Mobile reverse engineering to empower the gig economy workers and labor unions](https://media.ccc.de/v/37c3-12133-mobile_reverse_engineering_to_empower_the_gig_economy_workers_and_labor_unions)
 * [2024-01-02, 13:30:11](https://lobste.rs/s/zycaco/2024_please_switch_firefox) - [In 2024, please switch to Firefox](https://roytanck.com/2023/12/23/in-2024-please-switch-to-firefox/)
 * [2024-01-02, 13:29:15](https://lobste.rs/s/fvxd9q/my_text_editor_is_not_open_source) - [My Text Editor Is Not Open Source](https://bt.ht/posts/My_Text_Editor_Is_Not_Open_Source/)
 * [2024-01-02, 11:59:05](https://lobste.rs/s/dxvnua/rolling_aggregates_with_sql_window) - [Rolling aggregates with SQL window functions](https://antonz.org/sql-window-functions-rolling-aggregates/)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-02, 13:58:14](https://lobste.rs/s/exlaeq/flakes_aren_t_real_cannot_hurt_you_guide) - [Flakes aren't real and cannot hurt you: a guide to using Nix flakes the non-flake way](https://jade.fyi/blog/flakes-arent-real/)
+* [2024-01-02, 13:52:35](https://lobste.rs/s/cthjzk/mobile_reverse_engineering_empower_gig) - [Mobile reverse engineering to empower the gig economy workers and labor unions](https://media.ccc.de/v/37c3-12133-mobile_reverse_engineering_to_empower_the_gig_economy_workers_and_labor_unions)
 * [2024-01-02, 13:30:11](https://lobste.rs/s/zycaco/2024_please_switch_firefox) - [In 2024, please switch to Firefox](https://roytanck.com/2023/12/23/in-2024-please-switch-to-firefox/)
 * [2024-01-02, 13:29:15](https://lobste.rs/s/fvxd9q/my_text_editor_is_not_open_source) - [My Text Editor Is Not Open Source](https://bt.ht/posts/My_Text_Editor_Is_Not_Open_Source/)
 * [2024-01-02, 11:59:05](https://lobste.rs/s/dxvnua/rolling_aggregates_with_sql_window) - [Rolling aggregates with SQL window functions](https://antonz.org/sql-window-functions-rolling-aggregates/)
@@ -13,7 +15,6 @@
 * [2024-01-02, 00:39:39](https://lobste.rs/s/z0kue5/atari_2600_ide_browser) - [Atari 2600 IDE in the Browser](https://www.henryschmale.org/apps/atari2600ide/)
 * [2024-01-02, 00:19:17](https://lobste.rs/s/smtoeg/tricks_for_videogame_path_finding) - [A* Tricks for Videogame Path Finding](https://timmastny.com/blog/a-star-tricks-for-videogame-path-finding/)
 * [2024-01-01, 22:55:31](https://lobste.rs/s/qzt610/grasshopper_low_level_programming) - [GRASSHOPPER, a low-level programming language for the 6502 (1981)](https://archive.org/details/grasshopper-6502)
-* [2024-01-01, 21:26:49](https://lobste.rs/s/w1xpwu/shadershark_opengl_glsl_playground) - [ShaderShark – OpenGL / GLSL playground](https://graphics.globalcode.info/v_0/shader-shark.xhtml#video)
 * [2024-01-01, 20:53:22](https://lobste.rs/s/yjebsu/release_fish_3_7_0_released_january_1_2024) - [Release fish 3.7.0 (released January 1, 2024) · fish-shell/fish-shell](https://github.com/fish-shell/fish-shell/releases/tag/3.7.0)
 * [2024-01-01, 19:00:55](https://lobste.rs/s/beh7c8/which_root_certificates_should_you_trust) - [Which Root Certificates should you trust? Find out with CertInfo](https://raymii.org/s/software/Which_Root_Certificates_Should_You_Trust_CertInfo.html)
 * [2024-01-01, 18:49:27](https://lobste.rs/s/bt4enq/future_rem_cross_platform_gui_rust_2024) - [Future of rem | Cross-platform GUI in Rust in 2024?](https://lobste.rs/s/bt4enq/future_rem_cross_platform_gui_rust_2024)
@@ -23,7 +24,6 @@
 * [2024-01-01, 15:06:34](https://lobste.rs/s/airekl/enclave_command_line_secure_encrypted) - [enclave: Command-line secure encrypted deniable cloud-synchronized notebook](https://github.com/symbolicsoft/enclave)
 * [2024-01-01, 12:35:32](https://lobste.rs/s/qdsqmc/why_my_print_didn_t_output_before) - [Why My Print Didn't Output Before a Segmentation Fault](https://blog.yelinaung.com/posts/what-happened-to-my-print/)
 * [2024-01-01, 11:05:39](https://lobste.rs/s/urwcat/spatial_shell_6th_release_might_be_charm) - [Spatial Shell 6th Release Might Be the Charm](https://soap.coffee/~lthms/posts/SpatialShell6.html)
-* [2024-01-01, 09:54:20](https://lobste.rs/s/o1rxnx/awesome_free_technical_magazine_about) - [Awesome free technical magazine about programming, hacking, security, electronics etc](https://pagedout.institute)
 * [2024-01-01, 01:02:43](https://lobste.rs/s/e9jd9m/stuff_we_figured_out_about_ai_2023) - [Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/)
 
 ## [Archives](archives/index.md)
