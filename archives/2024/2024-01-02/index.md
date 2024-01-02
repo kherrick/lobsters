@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-02](index.md)
 
+* [2024-01-02, 21:41:27](https://lobste.rs/s/v8mtjv/turn_your_code_into_pixel_art) - [Turn Your Code Into Pixel Art](https://thoughtbot.com/blog/turn-your-code-into-pixel-art)
 * [2024-01-02, 21:30:27](https://lobste.rs/s/u2qcnf/one_billion_row_challenge) - [The One Billion Row Challenge](https://www.morling.dev/blog/one-billion-row-challenge/)
 * [2024-01-02, 21:27:35](https://lobste.rs/s/ix4ftx/neonmodem_tui_for_lobsters_hn_etc) - [neonmodem: TUI for Lobsters, HN, etc](https://github.com/mrusme/neonmodem)
 * [2024-01-02, 19:32:39](https://lobste.rs/s/acllbf/dealing_with_weird_elf_libraries) - [Dealing with weird ELF libraries](https://mjg59.dreamwidth.org/69070.html)
