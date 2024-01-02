@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-02, 13:58:14",
+      "https://lobste.rs/s/exlaeq/flakes_aren_t_real_cannot_hurt_you_guide"
+    ],
+    [
+      "Flakes aren't real and cannot hurt you: a guide to using Nix flakes the non-flake way",
+      "https://jade.fyi/blog/flakes-arent-real/"
+    ]
+  ],
+  [
+    [
+      "2024-01-02, 13:52:35",
+      "https://lobste.rs/s/cthjzk/mobile_reverse_engineering_empower_gig"
+    ],
+    [
+      "Mobile reverse engineering to empower the gig economy workers and labor unions",
+      "https://media.ccc.de/v/37c3-12133-mobile_reverse_engineering_to_empower_the_gig_economy_workers_and_labor_unions"
+    ]
+  ],
+  [
+    [
       "2024-01-02, 13:30:11",
       "https://lobste.rs/s/zycaco/2024_please_switch_firefox"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-01-01, 21:26:49",
-      "https://lobste.rs/s/w1xpwu/shadershark_opengl_glsl_playground"
-    ],
-    [
-      "ShaderShark – OpenGL / GLSL playground",
-      "https://graphics.globalcode.info/v_0/shader-shark.xhtml#video"
-    ]
-  ],
-  [
-    [
       "2024-01-01, 20:53:22",
       "https://lobste.rs/s/yjebsu/release_fish_3_7_0_released_january_1_2024"
     ],
@@ -227,16 +237,6 @@
     [
       "Spatial Shell 6th Release Might Be the Charm",
       "https://soap.coffee/~lthms/posts/SpatialShell6.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-01, 09:54:20",
-      "https://lobste.rs/s/o1rxnx/awesome_free_technical_magazine_about"
-    ],
-    [
-      "Awesome free technical magazine about programming, hacking, security, electronics etc",
-      "https://pagedout.institute"
     ]
   ],
   [
