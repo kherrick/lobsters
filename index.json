@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-01-03, 09:30:13",
-      "https://lobste.rs/s/kpqmdi/dapls_domain_agnostic_programming"
-    ],
-    [
-      "DAPLs: Domain Agnostic Programming Languages",
-      "https://blog.metaobject.com/2024/01/dapls-domain-agnostic-programming.html"
-    ]
-  ],
-  [
-    [
       "2024-01-03, 07:41:18",
       "https://lobste.rs/s/hyyfdf/emacs_commands_i_got_by_with_for_years"
     ],
@@ -157,6 +147,16 @@
     [
       "The One Billion Row Challenge",
       "https://www.morling.dev/blog/one-billion-row-challenge/"
+    ]
+  ],
+  [
+    [
+      "2024-01-02, 21:27:35",
+      "https://lobste.rs/s/ix4ftx/neonmodem_tui_for_lobsters_hn_etc"
+    ],
+    [
+      "neonmodem: TUI for Lobsters, HN, etc",
+      "https://github.com/mrusme/neonmodem"
     ]
   ],
   [
