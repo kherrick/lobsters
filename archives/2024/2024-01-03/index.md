@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
+* [2024-01-03, 17:10:18](https://lobste.rs/s/zoya6a/container2wasm_convert_docker) - [container2wasm: convert Docker containers into WASM blobs](https://github.com/ktock/container2wasm)
 * [2024-01-03, 15:13:18](https://lobste.rs/s/58cjde/app_can_be_home_cooked_meal) - [An app can be a home-cooked meal](https://www.robinsloan.com/notes/home-cooked-app/)
 * [2024-01-03, 14:29:59](https://lobste.rs/s/mhx6di/what_is_index_empty_string_empty_string) - [What is the index of an empty string in an empty string?](https://successfulsoftware.net/2023/12/13/what-is-the-index-of-an-empty-string-in-an-empty-string/)
 * [2024-01-03, 14:24:44](https://lobste.rs/s/2rju3k/rigol_dho914s_vs_siglent_1104x_e) - [Rigol DHO914S vs Siglent 1104X-E](https://www.sebortiz.com/post/rigol_vs_siglent/)
