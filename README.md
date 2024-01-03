@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-03, 03:29:06](https://lobste.rs/s/6nroat/gcc_specs_introduction) - [GCC specs: an introduction](https://wozniak.ca/blog/2024/01/02/1/index.html)
 * [2024-01-03, 03:03:35](https://lobste.rs/s/09coe5/cassette_small_lisp_like_programming) - [Cassette (a small, Lisp-like programming language)](https://cassette-lang.com)
 * [2024-01-03, 00:44:38](https://lobste.rs/s/x0phzh/micro_optimization_for_fun_profit) - [Micro-Optimization for Fun and Profit](https://www.youtube.com/watch?v=n5u7DgFwLGE)
 * [2024-01-02, 21:41:27](https://lobste.rs/s/v8mtjv/turn_your_code_into_pixel_art) - [Turn Your Code Into Pixel Art](https://thoughtbot.com/blog/turn-your-code-into-pixel-art)
@@ -22,7 +23,6 @@
 * [2024-01-02, 05:43:53](https://lobste.rs/s/ddlviu/cap_tradeoff_wild) - [A CAP tradeoff in the wild](https://decomposition.al/blog/2023/12/31/a-cap-tradeoff-in-the-wild/)
 * [2024-01-02, 05:12:20](https://lobste.rs/s/0hrv0x/don_t_start_pull_requests_from_your_main) - [Don’t Start Pull Requests from Your Main Branch](https://hynek.me/articles/pull-requests-branch/)
 * [2024-01-01, 20:53:22](https://lobste.rs/s/yjebsu/release_fish_3_7_0_released_january_1_2024) - [Release fish 3.7.0 (released January 1, 2024) · fish-shell/fish-shell](https://github.com/fish-shell/fish-shell/releases/tag/3.7.0)
-* [2024-01-01, 19:00:55](https://lobste.rs/s/beh7c8/which_root_certificates_should_you_trust) - [Which Root Certificates should you trust? Find out with CertInfo](https://raymii.org/s/software/Which_Root_Certificates_Should_You_Trust_CertInfo.html)
 * [2024-01-01, 18:13:47](https://lobste.rs/s/vchsft/writing_truetype_font_renderer) - [Writing a TrueType font renderer](https://axleos.com/writing-a-truetype-font-renderer/)
 * [2024-01-01, 17:09:51](https://lobste.rs/s/g3bsks/some_notes_on_nixos) - [Some notes on NixOS](https://jvns.ca/blog/2024/01/01/some-notes-on-nixos/)
 
