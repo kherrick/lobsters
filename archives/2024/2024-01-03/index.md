@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
+* [2024-01-03, 09:37:13](https://lobste.rs/s/kxfkqx/consider_security_first) - [Consider Security First](https://changelog.complete.org/archives/10620-consider-security-first)
+* [2024-01-03, 09:35:42](https://lobste.rs/s/iheb6q/software_technical_writing_handbook) - [Software Technical Writing: A Handbook](https://jamesg.blog/book.pdf)
 * [2024-01-03, 09:30:13](https://lobste.rs/s/kpqmdi/dapls_domain_agnostic_programming) - [DAPLs: Domain Agnostic Programming Languages](https://blog.metaobject.com/2024/01/dapls-domain-agnostic-programming.html)
+* [2024-01-03, 09:19:27](https://lobste.rs/s/8aarbt/features_are_faults_2014) - [features are faults (2014)](https://flak.tedunangst.com/post/features-are-faults)
 * [2024-01-03, 09:19:27](https://lobste.rs/s/8aarbt/features_are_faults) - [features are faults](https://flak.tedunangst.com/post/features-are-faults)
 * [2024-01-03, 07:41:18](https://lobste.rs/s/hyyfdf/emacs_commands_i_got_by_with_for_years) - [Emacs Commands I Got By With For Years](https://macadie.info/2023/12/30/emacs-commands-i-got-by-with-for-years/)
 * [2024-01-03, 07:09:15](https://lobste.rs/s/kmfs5a/sieve_is_simpler_than_lru) - [SIEVE is simpler than LRU](https://cachemon.github.io/SIEVE-website/blog/2023/12/17/sieve-is-simpler-than-lru/)

@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-03, 09:37:13](https://lobste.rs/s/kxfkqx/consider_security_first) - [Consider Security First](https://changelog.complete.org/archives/10620-consider-security-first)
+* [2024-01-03, 09:35:42](https://lobste.rs/s/iheb6q/software_technical_writing_handbook) - [Software Technical Writing: A Handbook](https://jamesg.blog/book.pdf)
 * [2024-01-03, 09:30:13](https://lobste.rs/s/kpqmdi/dapls_domain_agnostic_programming) - [DAPLs: Domain Agnostic Programming Languages](https://blog.metaobject.com/2024/01/dapls-domain-agnostic-programming.html)
-* [2024-01-03, 09:19:27](https://lobste.rs/s/8aarbt/features_are_faults) - [features are faults](https://flak.tedunangst.com/post/features-are-faults)
+* [2024-01-03, 09:19:27](https://lobste.rs/s/8aarbt/features_are_faults_2014) - [features are faults (2014)](https://flak.tedunangst.com/post/features-are-faults)
 * [2024-01-03, 07:41:18](https://lobste.rs/s/hyyfdf/emacs_commands_i_got_by_with_for_years) - [Emacs Commands I Got By With For Years](https://macadie.info/2023/12/30/emacs-commands-i-got-by-with-for-years/)
 * [2024-01-03, 07:09:15](https://lobste.rs/s/kmfs5a/sieve_is_simpler_than_lru) - [SIEVE is simpler than LRU](https://cachemon.github.io/SIEVE-website/blog/2023/12/17/sieve-is-simpler-than-lru/)
 * [2024-01-03, 05:28:17](https://lobste.rs/s/4loezq/elixir_dev_environment_with_nix_flakes) - [Elixir Dev Environment With Nix Flakes](https://www.mathiaspolligkeit.com/elixir-dev-environment-with-nix-flakes/)
@@ -23,8 +25,6 @@
 * [2024-01-02, 13:30:11](https://lobste.rs/s/zycaco/2024_please_switch_firefox) - [In 2024, please switch to Firefox](https://roytanck.com/2023/12/23/in-2024-please-switch-to-firefox/)
 * [2024-01-02, 13:29:15](https://lobste.rs/s/fvxd9q/my_text_editor_is_not_open_source) - [My Text Editor Is Not Open Source](https://bt.ht/posts/My_Text_Editor_Is_Not_Open_Source/)
 * [2024-01-02, 05:43:53](https://lobste.rs/s/ddlviu/cap_tradeoff_wild) - [A CAP tradeoff in the wild](https://decomposition.al/blog/2023/12/31/a-cap-tradeoff-in-the-wild/)
-* [2024-01-02, 05:12:20](https://lobste.rs/s/0hrv0x/don_t_start_pull_requests_from_your_main) - [Don’t Start Pull Requests from Your Main Branch](https://hynek.me/articles/pull-requests-branch/)
-* [2024-01-01, 18:13:47](https://lobste.rs/s/vchsft/writing_truetype_font_renderer) - [Writing a TrueType font renderer](https://axleos.com/writing-a-truetype-font-renderer/)
 
 ## [Archives](archives/index.md)
 
