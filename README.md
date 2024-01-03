@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-03, 03:03:35](https://lobste.rs/s/09coe5/cassette_small_lisp_like_programming) - [Cassette (a small, Lisp-like programming language)](https://cassette-lang.com)
 * [2024-01-03, 00:44:38](https://lobste.rs/s/x0phzh/micro_optimization_for_fun_profit) - [Micro-Optimization for Fun and Profit](https://www.youtube.com/watch?v=n5u7DgFwLGE)
 * [2024-01-02, 21:41:27](https://lobste.rs/s/v8mtjv/turn_your_code_into_pixel_art) - [Turn Your Code Into Pixel Art](https://thoughtbot.com/blog/turn-your-code-into-pixel-art)
 * [2024-01-02, 21:30:27](https://lobste.rs/s/u2qcnf/one_billion_row_challenge) - [The One Billion Row Challenge](https://www.morling.dev/blog/one-billion-row-challenge/)
@@ -19,7 +20,6 @@
 * [2024-01-02, 13:29:15](https://lobste.rs/s/fvxd9q/my_text_editor_is_not_open_source) - [My Text Editor Is Not Open Source](https://bt.ht/posts/My_Text_Editor_Is_Not_Open_Source/)
 * [2024-01-02, 11:59:05](https://lobste.rs/s/dxvnua/rolling_aggregates_with_sql_window) - [Rolling aggregates with SQL window functions](https://antonz.org/sql-window-functions-rolling-aggregates/)
 * [2024-01-02, 05:43:53](https://lobste.rs/s/ddlviu/cap_tradeoff_wild) - [A CAP tradeoff in the wild](https://decomposition.al/blog/2023/12/31/a-cap-tradeoff-in-the-wild/)
-* [2024-01-02, 05:14:37](https://lobste.rs/s/rftrxt/running_9front_on_emulated_sgi_indy_via) - [Running 9front on an emulated SGI Indy via MAME](https://posixcafe.org/blogs/2024/01/01/0/)
 * [2024-01-02, 05:12:20](https://lobste.rs/s/0hrv0x/don_t_start_pull_requests_from_your_main) - [Don’t Start Pull Requests from Your Main Branch](https://hynek.me/articles/pull-requests-branch/)
 * [2024-01-01, 20:53:22](https://lobste.rs/s/yjebsu/release_fish_3_7_0_released_january_1_2024) - [Release fish 3.7.0 (released January 1, 2024) · fish-shell/fish-shell](https://github.com/fish-shell/fish-shell/releases/tag/3.7.0)
 * [2024-01-01, 19:00:55](https://lobste.rs/s/beh7c8/which_root_certificates_should_you_trust) - [Which Root Certificates should you trust? Find out with CertInfo](https://raymii.org/s/software/Which_Root_Certificates_Should_You_Trust_CertInfo.html)
