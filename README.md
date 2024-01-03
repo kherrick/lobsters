@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-03, 13:00:31](https://lobste.rs/s/5tugrd/fastest_way_read_excel_python) - [Fastest Way to Read Excel in Python](https://hakibenita.com/fast-excel-python)
 * [2024-01-03, 12:40:32](https://lobste.rs/s/ow0cro/multi_region_high_availability_comes) - [Multi-Region High Availability Comes to Feature Stores](https://www.hopsworks.ai/post/multi-region-high-availability-comes-to-feature-stores)
-* [2024-01-03, 12:34:33](https://lobste.rs/s/kmxz2s/p_quantile_estimator_estimating_median) - [P² quantile estimator: estimating the median without storing values | Andrey Akinshin](https://aakinshin.net/posts/p2-quantile-estimator/)
 * [2024-01-03, 09:37:13](https://lobste.rs/s/kxfkqx/consider_security_first) - [Consider Security First](https://changelog.complete.org/archives/10620-consider-security-first)
 * [2024-01-03, 09:35:42](https://lobste.rs/s/iheb6q/software_technical_writing_handbook) - [Software Technical Writing: A Handbook](https://jamesg.blog/book.pdf)
 * [2024-01-03, 09:30:13](https://lobste.rs/s/kpqmdi/dapls_domain_agnostic_programming) - [DAPLs: Domain Agnostic Programming Languages](https://blog.metaobject.com/2024/01/dapls-domain-agnostic-programming.html)
