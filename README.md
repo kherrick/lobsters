@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-03, 12:40:32](https://lobste.rs/s/ow0cro/multi_region_high_availability_comes) - [Multi-Region High Availability Comes to Feature Stores](https://www.hopsworks.ai/post/multi-region-high-availability-comes-to-feature-stores)
+* [2024-01-03, 12:34:33](https://lobste.rs/s/kmxz2s/p_quantile_estimator_estimating_median) - [P² quantile estimator: estimating the median without storing values | Andrey Akinshin](https://aakinshin.net/posts/p2-quantile-estimator/)
 * [2024-01-03, 09:37:13](https://lobste.rs/s/kxfkqx/consider_security_first) - [Consider Security First](https://changelog.complete.org/archives/10620-consider-security-first)
 * [2024-01-03, 09:35:42](https://lobste.rs/s/iheb6q/software_technical_writing_handbook) - [Software Technical Writing: A Handbook](https://jamesg.blog/book.pdf)
 * [2024-01-03, 09:30:13](https://lobste.rs/s/kpqmdi/dapls_domain_agnostic_programming) - [DAPLs: Domain Agnostic Programming Languages](https://blog.metaobject.com/2024/01/dapls-domain-agnostic-programming.html)
@@ -13,7 +15,6 @@
 * [2024-01-02, 21:41:27](https://lobste.rs/s/v8mtjv/turn_your_code_into_pixel_art) - [Turn Your Code Into Pixel Art](https://thoughtbot.com/blog/turn-your-code-into-pixel-art)
 * [2024-01-02, 21:30:27](https://lobste.rs/s/u2qcnf/one_billion_row_challenge) - [The One Billion Row Challenge](https://www.morling.dev/blog/one-billion-row-challenge/)
 * [2024-01-02, 21:27:35](https://lobste.rs/s/ix4ftx/neonmodem_tui_for_lobsters_hn_etc) - [neonmodem: TUI for Lobsters, HN, etc](https://github.com/mrusme/neonmodem)
-* [2024-01-02, 19:32:39](https://lobste.rs/s/acllbf/dealing_with_weird_elf_libraries) - [Dealing with weird ELF libraries](https://mjg59.dreamwidth.org/69070.html)
 * [2024-01-02, 19:28:04](https://lobste.rs/s/jyrd8l/this_year_llvm) - [This year in LLVM](https://www.npopov.com/2024/01/01/This-year-in-LLVM-2023.html)
 * [2024-01-02, 18:13:21](https://lobste.rs/s/xsmbds/vim_9_1_released) - [Vim 9.1 released](https://www.vim.org/vim-9.1-released.php)
 * [2024-01-02, 17:36:33](https://lobste.rs/s/fix5em/what_i_ve_learned_about_flow_fields_so_far) - [What I've learned about flow fields so far](https://damoonrashidi.me/articles/flow-field-methods)
@@ -24,7 +25,6 @@
 * [2024-01-02, 13:58:14](https://lobste.rs/s/exlaeq/flakes_aren_t_real_cannot_hurt_you_guide) - [Flakes aren't real and cannot hurt you: a guide to using Nix flakes the non-flake way](https://jade.fyi/blog/flakes-arent-real/)
 * [2024-01-02, 13:30:11](https://lobste.rs/s/zycaco/2024_please_switch_firefox) - [In 2024, please switch to Firefox](https://roytanck.com/2023/12/23/in-2024-please-switch-to-firefox/)
 * [2024-01-02, 13:29:15](https://lobste.rs/s/fvxd9q/my_text_editor_is_not_open_source) - [My Text Editor Is Not Open Source](https://bt.ht/posts/My_Text_Editor_Is_Not_Open_Source/)
-* [2024-01-02, 05:43:53](https://lobste.rs/s/ddlviu/cap_tradeoff_wild) - [A CAP tradeoff in the wild](https://decomposition.al/blog/2023/12/31/a-cap-tradeoff-in-the-wild/)
 
 ## [Archives](archives/index.md)
 
