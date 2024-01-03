@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-03, 12:40:32",
+      "https://lobste.rs/s/ow0cro/multi_region_high_availability_comes"
+    ],
+    [
+      "Multi-Region High Availability Comes to Feature Stores",
+      "https://www.hopsworks.ai/post/multi-region-high-availability-comes-to-feature-stores"
+    ]
+  ],
+  [
+    [
+      "2024-01-03, 12:34:33",
+      "https://lobste.rs/s/kmxz2s/p_quantile_estimator_estimating_median"
+    ],
+    [
+      "P² quantile estimator: estimating the median without storing values | Andrey Akinshin",
+      "https://aakinshin.net/posts/p2-quantile-estimator/"
+    ]
+  ],
+  [
+    [
       "2024-01-03, 09:37:13",
       "https://lobste.rs/s/kxfkqx/consider_security_first"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-01-02, 19:32:39",
-      "https://lobste.rs/s/acllbf/dealing_with_weird_elf_libraries"
-    ],
-    [
-      "Dealing with weird ELF libraries",
-      "https://mjg59.dreamwidth.org/69070.html"
-    ]
-  ],
-  [
-    [
       "2024-01-02, 19:28:04",
       "https://lobste.rs/s/jyrd8l/this_year_llvm"
     ],
@@ -237,16 +247,6 @@
     [
       "My Text Editor Is Not Open Source",
       "https://bt.ht/posts/My_Text_Editor_Is_Not_Open_Source/"
-    ]
-  ],
-  [
-    [
-      "2024-01-02, 05:43:53",
-      "https://lobste.rs/s/ddlviu/cap_tradeoff_wild"
-    ],
-    [
-      "A CAP tradeoff in the wild",
-      "https://decomposition.al/blog/2023/12/31/a-cap-tradeoff-in-the-wild/"
     ]
   ]
 ]
