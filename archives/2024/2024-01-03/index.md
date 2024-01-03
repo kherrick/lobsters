@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
+* [2024-01-03, 20:48:07](https://lobste.rs/s/6mwuss/niklaus_wirth_15_2_1934_1_1_2024) - [Niklaus Wirth 15.2.1934 - 1.1.2024](https://lists.inf.ethz.ch/pipermail/oberon/2024/016856.html)
 * [2024-01-03, 20:31:51](https://lobste.rs/s/j5uv2z/birb_fossil_rss_revival) - [Birb + Fossil: An RSS Revival?](https://timkellogg.me/blog/2024/01/03/birb)
 * [2024-01-03, 20:01:05](https://lobste.rs/s/te10p5/who_s_hiring_q12024) - [Who’s Hiring? Q12024](https://lobste.rs/s/te10p5/who_s_hiring_q12024)
 * [2024-01-03, 18:54:54](https://lobste.rs/s/8cbqum/performance_benchmarks_cloud_virtual) - [Performance Benchmarks of Cloud Virtual Machines](https://bas.codes/posts/cloudbench2312)
