@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
+* [2024-01-03, 14:29:59](https://lobste.rs/s/mhx6di/what_is_index_empty_string_empty_string) - [What is the index of an empty string in an empty string?](https://successfulsoftware.net/2023/12/13/what-is-the-index-of-an-empty-string-in-an-empty-string/)
 * [2024-01-03, 14:24:44](https://lobste.rs/s/2rju3k/rigol_dho914s_vs_siglent_1104x_e) - [Rigol DHO914S vs Siglent 1104X-E](https://www.sebortiz.com/post/rigol_vs_siglent/)
 * [2024-01-03, 14:06:01](https://lobste.rs/s/pgsa8d/python_support_for_linux_perf_profiler) - [Python support for the Linux perf profiler](https://docs.python.org/3.12/howto/perf_profiling.html)
 * [2024-01-03, 13:00:31](https://lobste.rs/s/5tugrd/fastest_way_read_excel_python) - [Fastest Way to Read Excel in Python](https://hakibenita.com/fast-excel-python)
