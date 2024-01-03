@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-03, 14:24:44](https://lobste.rs/s/2rju3k/rigol_dho914s_vs_siglent_1104x_e) - [Rigol DHO914S vs Siglent 1104X-E](https://www.sebortiz.com/post/rigol_vs_siglent/)
 * [2024-01-03, 14:06:01](https://lobste.rs/s/pgsa8d/python_support_for_linux_perf_profiler) - [Python support for the Linux perf profiler](https://docs.python.org/3.12/howto/perf_profiling.html)
 * [2024-01-03, 13:00:31](https://lobste.rs/s/5tugrd/fastest_way_read_excel_python) - [Fastest Way to Read Excel in Python](https://hakibenita.com/fast-excel-python)
 * [2024-01-03, 12:40:32](https://lobste.rs/s/ow0cro/multi_region_high_availability_comes) - [Multi-Region High Availability Comes to Feature Stores](https://www.hopsworks.ai/post/multi-region-high-availability-comes-to-feature-stores)
@@ -19,7 +20,6 @@
 * [2024-01-02, 18:13:21](https://lobste.rs/s/xsmbds/vim_9_1_released) - [Vim 9.1 released](https://www.vim.org/vim-9.1-released.php)
 * [2024-01-02, 17:36:33](https://lobste.rs/s/fix5em/what_i_ve_learned_about_flow_fields_so_far) - [What I've learned about flow fields so far](https://damoonrashidi.me/articles/flow-field-methods)
 * [2024-01-02, 17:25:14](https://lobste.rs/s/kgvnxd/nix_thesis) - [The Nix Thesis](https://jonathanlorimer.dev/posts/nix-thesis.html)
-* [2024-01-02, 17:01:41](https://lobste.rs/s/sciizg/how_make_shell_script) - [How to “make” a shell script](https://www.humprog.org/~stephen/blog/2024/01/02/#make-shell)
 * [2024-01-02, 16:27:03](https://lobste.rs/s/pb8bq4/bookmarklets) - [Bookmarklets](https://yawaramin.github.io/bookmarklets/)
 * [2024-01-02, 16:13:57](https://lobste.rs/s/3f69tm/i_llm_stands_for_intelligence) - [The I in LLM stands for intelligence](https://daniel.haxx.se/blog/2024/01/02/the-i-in-llm-stands-for-intelligence/)
 * [2024-01-02, 13:58:14](https://lobste.rs/s/exlaeq/flakes_aren_t_real_cannot_hurt_you_guide) - [Flakes aren't real and cannot hurt you: a guide to using Nix flakes the non-flake way](https://jade.fyi/blog/flakes-arent-real/)
