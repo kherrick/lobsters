@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
+* [2024-01-03, 09:19:27](https://lobste.rs/s/8aarbt/features_are_faults) - [features are faults](https://flak.tedunangst.com/post/features-are-faults)
 * [2024-01-03, 07:41:18](https://lobste.rs/s/hyyfdf/emacs_commands_i_got_by_with_for_years) - [Emacs Commands I Got By With For Years](https://macadie.info/2023/12/30/emacs-commands-i-got-by-with-for-years/)
 * [2024-01-03, 07:09:15](https://lobste.rs/s/kmfs5a/sieve_is_simpler_than_lru) - [SIEVE is simpler than LRU](https://cachemon.github.io/SIEVE-website/blog/2023/12/17/sieve-is-simpler-than-lru/)
 * [2024-01-03, 05:28:17](https://lobste.rs/s/4loezq/elixir_dev_environment_with_nix_flakes) - [Elixir Dev Environment With Nix Flakes](https://www.mathiaspolligkeit.com/elixir-dev-environment-with-nix-flakes/)

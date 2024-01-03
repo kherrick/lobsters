@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-03, 09:19:27](https://lobste.rs/s/8aarbt/features_are_faults) - [features are faults](https://flak.tedunangst.com/post/features-are-faults)
 * [2024-01-03, 07:41:18](https://lobste.rs/s/hyyfdf/emacs_commands_i_got_by_with_for_years) - [Emacs Commands I Got By With For Years](https://macadie.info/2023/12/30/emacs-commands-i-got-by-with-for-years/)
 * [2024-01-03, 07:09:15](https://lobste.rs/s/kmfs5a/sieve_is_simpler_than_lru) - [SIEVE is simpler than LRU](https://cachemon.github.io/SIEVE-website/blog/2023/12/17/sieve-is-simpler-than-lru/)
 * [2024-01-03, 05:28:17](https://lobste.rs/s/4loezq/elixir_dev_environment_with_nix_flakes) - [Elixir Dev Environment With Nix Flakes](https://www.mathiaspolligkeit.com/elixir-dev-environment-with-nix-flakes/)
@@ -24,7 +25,6 @@
 * [2024-01-02, 05:43:53](https://lobste.rs/s/ddlviu/cap_tradeoff_wild) - [A CAP tradeoff in the wild](https://decomposition.al/blog/2023/12/31/a-cap-tradeoff-in-the-wild/)
 * [2024-01-02, 05:12:20](https://lobste.rs/s/0hrv0x/don_t_start_pull_requests_from_your_main) - [Don’t Start Pull Requests from Your Main Branch](https://hynek.me/articles/pull-requests-branch/)
 * [2024-01-01, 18:13:47](https://lobste.rs/s/vchsft/writing_truetype_font_renderer) - [Writing a TrueType font renderer](https://axleos.com/writing-a-truetype-font-renderer/)
-* [2024-01-01, 17:09:51](https://lobste.rs/s/g3bsks/some_notes_on_nixos) - [Some notes on NixOS](https://jvns.ca/blog/2024/01/01/some-notes-on-nixos/)
 
 ## [Archives](archives/index.md)
 
