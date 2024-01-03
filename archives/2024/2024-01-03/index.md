@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
+* [2024-01-03, 17:32:03](https://lobste.rs/s/nzute2/1995_programming_on_sega_saturn_2010) - [1995 Programming on the Sega Saturn (2010)](https://cowboyprogramming.com/2010/06/03/1995-programming-on-the-sega-saturn/)
 * [2024-01-03, 17:10:18](https://lobste.rs/s/zoya6a/container2wasm_convert_docker) - [container2wasm: convert Docker containers into WASM blobs](https://github.com/ktock/container2wasm)
 * [2024-01-03, 15:13:18](https://lobste.rs/s/58cjde/app_can_be_home_cooked_meal) - [An app can be a home-cooked meal](https://www.robinsloan.com/notes/home-cooked-app/)
 * [2024-01-03, 14:29:59](https://lobste.rs/s/mhx6di/what_is_index_empty_string_empty_string) - [What is the index of an empty string in an empty string?](https://successfulsoftware.net/2023/12/13/what-is-the-index-of-an-empty-string-in-an-empty-string/)

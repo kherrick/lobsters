@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-03, 17:32:03](https://lobste.rs/s/nzute2/1995_programming_on_sega_saturn_2010) - [1995 Programming on the Sega Saturn (2010)](https://cowboyprogramming.com/2010/06/03/1995-programming-on-the-sega-saturn/)
 * [2024-01-03, 17:10:18](https://lobste.rs/s/zoya6a/container2wasm_convert_docker) - [container2wasm: convert Docker containers into WASM blobs](https://github.com/ktock/container2wasm)
 * [2024-01-03, 14:29:59](https://lobste.rs/s/mhx6di/what_is_index_empty_string_empty_string) - [What is the index of an empty string in an empty string?](https://successfulsoftware.net/2023/12/13/what-is-the-index-of-an-empty-string-in-an-empty-string/)
 * [2024-01-03, 14:24:44](https://lobste.rs/s/2rju3k/rigol_dho914s_vs_siglent_1104x_e) - [Rigol DHO914S vs Siglent 1104X-E](https://www.sebortiz.com/post/rigol_vs_siglent/)
@@ -18,7 +19,6 @@
 * [2024-01-02, 21:30:27](https://lobste.rs/s/u2qcnf/one_billion_row_challenge) - [The One Billion Row Challenge](https://www.morling.dev/blog/one-billion-row-challenge/)
 * [2024-01-02, 19:28:04](https://lobste.rs/s/jyrd8l/this_year_llvm) - [This year in LLVM](https://www.npopov.com/2024/01/01/This-year-in-LLVM-2023.html)
 * [2024-01-02, 18:13:21](https://lobste.rs/s/xsmbds/vim_9_1_released) - [Vim 9.1 released](https://www.vim.org/vim-9.1-released.php)
-* [2024-01-02, 17:36:33](https://lobste.rs/s/fix5em/what_i_ve_learned_about_flow_fields_so_far) - [What I've learned about flow fields so far](https://damoonrashidi.me/articles/flow-field-methods)
 * [2024-01-02, 17:25:14](https://lobste.rs/s/kgvnxd/nix_thesis) - [The Nix Thesis](https://jonathanlorimer.dev/posts/nix-thesis.html)
 * [2024-01-02, 16:27:03](https://lobste.rs/s/pb8bq4/bookmarklets) - [Bookmarklets](https://yawaramin.github.io/bookmarklets/)
 * [2024-01-02, 16:13:57](https://lobste.rs/s/3f69tm/i_llm_stands_for_intelligence) - [The I in LLM stands for intelligence](https://daniel.haxx.se/blog/2024/01/02/the-i-in-llm-stands-for-intelligence/)
