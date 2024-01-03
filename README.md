@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-03, 05:28:17](https://lobste.rs/s/4loezq/elixir_dev_environment_with_nix_flakes) - [Elixir Dev Environment With Nix Flakes](https://www.mathiaspolligkeit.com/elixir-dev-environment-with-nix-flakes/)
 * [2024-01-03, 05:09:36](https://lobste.rs/s/bkyeqd/malbolge_lisp_lightweight_350mb_lisp) - [malbolge-lisp: A lightweight (350MB) Lisp interpreter in Malbolge Unshackled, often dubbed the hardest turing complete programming language](https://github.com/kspalaiologos/malbolge-lisp)
 * [2024-01-03, 03:29:06](https://lobste.rs/s/6nroat/gcc_specs_introduction) - [GCC specs: an introduction](https://wozniak.ca/blog/2024/01/02/1/index.html)
 * [2024-01-03, 03:03:35](https://lobste.rs/s/09coe5/cassette_small_lisp_like_programming) - [Cassette (a small, Lisp-like programming language)](https://cassette-lang.com)
@@ -13,7 +14,6 @@
 * [2024-01-02, 17:36:33](https://lobste.rs/s/fix5em/what_i_ve_learned_about_flow_fields_so_far) - [What I've learned about flow fields so far](https://damoonrashidi.me/articles/flow-field-methods)
 * [2024-01-02, 17:25:14](https://lobste.rs/s/kgvnxd/nix_thesis) - [The Nix Thesis](https://jonathanlorimer.dev/posts/nix-thesis.html)
 * [2024-01-02, 17:01:41](https://lobste.rs/s/sciizg/how_make_shell_script) - [How to “make” a shell script](https://www.humprog.org/~stephen/blog/2024/01/02/#make-shell)
-* [2024-01-02, 16:38:57](https://lobste.rs/s/idncwl/case_for_pipe_assignment_operator_r) - [The case for a pipe assignment operator in R](http://hughjonesd.github.io/case-for-pipe-assignment.html)
 * [2024-01-02, 16:27:03](https://lobste.rs/s/pb8bq4/bookmarklets) - [Bookmarklets](https://yawaramin.github.io/bookmarklets/)
 * [2024-01-02, 16:13:57](https://lobste.rs/s/3f69tm/i_llm_stands_for_intelligence) - [The I in LLM stands for intelligence](https://daniel.haxx.se/blog/2024/01/02/the-i-in-llm-stands-for-intelligence/)
 * [2024-01-02, 13:58:14](https://lobste.rs/s/exlaeq/flakes_aren_t_real_cannot_hurt_you_guide) - [Flakes aren't real and cannot hurt you: a guide to using Nix flakes the non-flake way](https://jade.fyi/blog/flakes-arent-real/)
