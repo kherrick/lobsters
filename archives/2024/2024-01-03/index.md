@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
+* [2024-01-03, 14:06:01](https://lobste.rs/s/pgsa8d/python_support_for_linux_perf_profiler) - [Python support for the Linux perf profiler](https://docs.python.org/3.12/howto/perf_profiling.html)
 * [2024-01-03, 13:00:31](https://lobste.rs/s/5tugrd/fastest_way_read_excel_python) - [Fastest Way to Read Excel in Python](https://hakibenita.com/fast-excel-python)
 * [2024-01-03, 12:40:32](https://lobste.rs/s/ow0cro/multi_region_high_availability_comes) - [Multi-Region High Availability Comes to Feature Stores](https://www.hopsworks.ai/post/multi-region-high-availability-comes-to-feature-stores)
 * [2024-01-03, 12:34:33](https://lobste.rs/s/kmxz2s/p_quantile_estimator_estimating_median) - [P² quantile estimator: estimating the median without storing values | Andrey Akinshin](https://aakinshin.net/posts/p2-quantile-estimator/)
