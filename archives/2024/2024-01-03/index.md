@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-03](index.md)
 
+* [2024-01-03, 20:31:51](https://lobste.rs/s/j5uv2z/birb_fossil_rss_revival) - [Birb + Fossil: An RSS Revival?](https://timkellogg.me/blog/2024/01/03/birb)
 * [2024-01-03, 20:01:05](https://lobste.rs/s/te10p5/who_s_hiring_q12024) - [Who’s Hiring? Q12024](https://lobste.rs/s/te10p5/who_s_hiring_q12024)
 * [2024-01-03, 18:54:54](https://lobste.rs/s/8cbqum/performance_benchmarks_cloud_virtual) - [Performance Benchmarks of Cloud Virtual Machines](https://bas.codes/posts/cloudbench2312)
 * [2024-01-03, 17:32:03](https://lobste.rs/s/nzute2/1995_programming_on_sega_saturn_2010) - [1995 Programming on the Sega Saturn (2010)](https://cowboyprogramming.com/2010/06/03/1995-programming-on-the-sega-saturn/)
