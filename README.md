@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-03, 18:54:54](https://lobste.rs/s/8cbqum/performance_benchmarks_cloud_virtual) - [Performance Benchmarks of Cloud Virtual Machines](https://bas.codes/posts/cloudbench2312)
 * [2024-01-03, 17:32:03](https://lobste.rs/s/nzute2/1995_programming_on_sega_saturn_2010) - [1995 Programming on the Sega Saturn (2010)](https://cowboyprogramming.com/2010/06/03/1995-programming-on-the-sega-saturn/)
 * [2024-01-03, 17:10:18](https://lobste.rs/s/zoya6a/container2wasm_convert_docker) - [container2wasm: convert Docker containers into WASM blobs](https://github.com/ktock/container2wasm)
 * [2024-01-03, 14:29:59](https://lobste.rs/s/mhx6di/what_is_index_empty_string_empty_string) - [What is the index of an empty string in an empty string?](https://successfulsoftware.net/2023/12/13/what-is-the-index-of-an-empty-string-in-an-empty-string/)
@@ -15,7 +16,6 @@
 * [2024-01-03, 05:09:36](https://lobste.rs/s/bkyeqd/malbolge_lisp_lightweight_350mb_lisp) - [malbolge-lisp: A lightweight (350MB) Lisp interpreter in Malbolge Unshackled, often dubbed the hardest turing complete programming language](https://github.com/kspalaiologos/malbolge-lisp)
 * [2024-01-03, 03:29:06](https://lobste.rs/s/6nroat/gcc_specs_introduction) - [GCC specs: an introduction](https://wozniak.ca/blog/2024/01/02/1/index.html)
 * [2024-01-03, 03:03:35](https://lobste.rs/s/09coe5/cassette_small_lisp_like_programming) - [Cassette (a small, Lisp-like programming language)](https://cassette-lang.com)
-* [2024-01-02, 21:41:27](https://lobste.rs/s/v8mtjv/turn_your_code_into_pixel_art) - [Turn Your Code Into Pixel Art](https://thoughtbot.com/blog/turn-your-code-into-pixel-art)
 * [2024-01-02, 21:30:27](https://lobste.rs/s/u2qcnf/one_billion_row_challenge) - [The One Billion Row Challenge](https://www.morling.dev/blog/one-billion-row-challenge/)
 * [2024-01-02, 19:28:04](https://lobste.rs/s/jyrd8l/this_year_llvm) - [This year in LLVM](https://www.npopov.com/2024/01/01/This-year-in-LLVM-2023.html)
 * [2024-01-02, 18:13:21](https://lobste.rs/s/xsmbds/vim_9_1_released) - [Vim 9.1 released](https://www.vim.org/vim-9.1-released.php)
