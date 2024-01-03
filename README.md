@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-03, 22:54:32](https://lobste.rs/s/nc7sck/language_design_starlark_compared) - [language design of Starlark (compared to Python)](https://github.com/bazelbuild/starlark/blob/master/design.md)
 * [2024-01-03, 20:48:07](https://lobste.rs/s/6mwuss/niklaus_wirth_15_2_1934_1_1_2024) - [Niklaus Wirth 15.2.1934 - 1.1.2024](https://lists.inf.ethz.ch/pipermail/oberon/2024/016856.html)
 * [2024-01-03, 20:31:51](https://lobste.rs/s/j5uv2z/birb_fossil_rss_revival) - [Birb + Fossil: An RSS Revival?](https://timkellogg.me/blog/2024/01/03/birb)
 * [2024-01-03, 20:01:05](https://lobste.rs/s/te10p5/who_s_hiring_q12024) - [Who’s Hiring? Q12024](https://lobste.rs/s/te10p5/who_s_hiring_q12024)
@@ -10,7 +11,6 @@
 * [2024-01-03, 14:24:44](https://lobste.rs/s/2rju3k/rigol_dho914s_vs_siglent_1104x_e) - [Rigol DHO914S vs Siglent 1104X-E](https://www.sebortiz.com/post/rigol_vs_siglent/)
 * [2024-01-03, 14:06:01](https://lobste.rs/s/pgsa8d/python_support_for_linux_perf_profiler) - [Python support for the Linux perf profiler](https://docs.python.org/3.12/howto/perf_profiling.html)
 * [2024-01-03, 13:00:31](https://lobste.rs/s/5tugrd/fastest_way_read_excel_python) - [Fastest Way to Read Excel in Python](https://hakibenita.com/fast-excel-python)
-* [2024-01-03, 09:37:13](https://lobste.rs/s/kxfkqx/consider_security_first) - [Consider Security First](https://changelog.complete.org/archives/10620-consider-security-first)
 * [2024-01-03, 09:35:42](https://lobste.rs/s/iheb6q/software_technical_writing_handbook) - [Software Technical Writing: A Handbook](https://jamesg.blog/book.pdf)
 * [2024-01-03, 09:30:13](https://lobste.rs/s/kpqmdi/dapls_domain_agnostic_programming) - [DAPLs: Domain Agnostic Programming Languages](https://blog.metaobject.com/2024/01/dapls-domain-agnostic-programming.html)
 * [2024-01-03, 07:41:18](https://lobste.rs/s/hyyfdf/emacs_commands_i_got_by_with_for_years) - [Emacs Commands I Got By With For Years](https://macadie.info/2023/12/30/emacs-commands-i-got-by-with-for-years/)
