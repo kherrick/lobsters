@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-04](index.md)
 
+* [2024-01-04, 21:10:50](https://lobste.rs/s/m6lzvy/go_what_we_got_right_what_we_got_wrong) - [Go: What We Got Right, What We Got Wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)
+* [2024-01-04, 21:00:57](https://lobste.rs/s/nwih24/9_years_apple_text_editor_solo_dev) - [9 years of Apple text editor solo dev](https://papereditor.app/dev)
 * [2024-01-04, 20:41:19](https://lobste.rs/s/crbrww/ghostsurn_visualize_hexagonal_tilings) - [Ghostsurn: visualize hexagonal tilings](https://logarithmic.net/ghostsurn/0.2/tile.html)
 * [2024-01-04, 19:49:41](https://lobste.rs/s/uuahhi/npm_registry_prank_leaves_developers) - [NPM registry prank leaves developers unable to unpublish packages](https://www.scmagazine.com/news/npm-registry-prank-leaves-developers-unable-to-unpublish-packages)
 * [2024-01-04, 15:44:37](https://lobste.rs/s/mppr3v/30_years_decompilation_unsolved) - [30 Years of Decompilation and the Unsolved Structuring Problem: Part 1](https://mahaloz.re/dec-history-pt1)
