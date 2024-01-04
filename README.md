@@ -16,6 +16,7 @@
 * [2024-01-04, 12:09:20](https://lobste.rs/s/qrm0fz/ten_years_isn_t_long_enough_for_maximum_age) - [Ten years isn't long enough for maximum age settings](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TenYearsNotLongEnough)
 * [2024-01-04, 11:48:58](https://lobste.rs/s/w5esxn/annoying_details_z_buffer_rasterizer) - [Annoying details of a Z-buffer rasterizer](https://30fps.net/pages/z-rasterizer-details/)
 * [2024-01-04, 10:36:12](https://lobste.rs/s/tk9zp7/how_standard_ebooks_serves_millions) - [How Standard Ebooks serves millions of requests per month with a 2GB VPS](https://alexcabal.com/posts/standard-ebooks-and-classic-web-tech)
+* [2024-01-04, 08:02:21](https://lobste.rs/s/wcxjzj/franz_morat_kg_tv_computersystem_6800) - [Franz Morat KG tv-computersystem 6800](https://randoc.wordpress.com/2024/01/03/franz-morat-kg-tv-computersystem-6800/)
 * [2024-01-04, 06:29:50](https://lobste.rs/s/9ybw69/win323mu_diy_wow) - [Win323mu / DIY WOW](https://virtuallyfun.com/2024/01/04/win323mu-diy-wow/)
 * [2024-01-03, 23:24:31](https://lobste.rs/s/vk0fms/sage_programming_language) - [The Sage Programming Language](https://github.com/adam-mcdaniel/sage)
 * [2024-01-03, 23:17:51](https://lobste.rs/s/h3qecf/what_i_d_like_see_for_async_rust_2024) - [What I'd like to see for Async Rust in 2024](https://smallcultfollowing.com/babysteps/blog/2024/01/03/async-rust-2024/)
@@ -23,7 +24,6 @@
 * [2024-01-03, 20:48:07](https://lobste.rs/s/6mwuss/niklaus_wirth_15_2_1934_1_1_2024) - [Niklaus Wirth 15.2.1934 - 1.1.2024](https://lists.inf.ethz.ch/pipermail/oberon/2024/016856.html)
 * [2024-01-03, 20:31:51](https://lobste.rs/s/j5uv2z/birb_fossil_rss_revival) - [Birb + Fossil: An RSS Revival?](https://timkellogg.me/blog/2024/01/03/birb)
 * [2024-01-03, 20:01:05](https://lobste.rs/s/te10p5/who_s_hiring_q12024) - [Who’s Hiring? Q12024](https://lobste.rs/s/te10p5/who_s_hiring_q12024)
-* [2024-01-03, 14:29:59](https://lobste.rs/s/mhx6di/what_is_index_empty_string_empty_string) - [What is the index of an empty string in an empty string?](https://successfulsoftware.net/2023/12/13/what-is-the-index-of-an-empty-string-in-an-empty-string/)
 * [2024-01-03, 13:00:31](https://lobste.rs/s/5tugrd/fastest_way_read_excel_python) - [Fastest Way to Read Excel in Python](https://hakibenita.com/fast-excel-python)
 
 ## [Archives](archives/index.md)
