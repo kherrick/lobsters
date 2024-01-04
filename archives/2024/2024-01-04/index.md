@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-04](index.md)
 
+* [2024-01-04, 23:25:51](https://lobste.rs/s/i9gl7o/mise_en_place_frontend_your_dev_env) - [mise-en-place: The frontend to your dev env](https://mise.jdx.dev)
 * [2024-01-04, 22:32:24](https://lobste.rs/s/wqeu4r/i_m_speaking_at_nixcon_north_america_2024) - [I'm speaking at NixCon North America 2024! - Xe Iaso](https://xeiaso.net//blog/2024/nixcon-na/)
 * [2024-01-04, 21:50:12](https://lobste.rs/s/qucyav/zed_gpui_2_is_now_production) - [Zed: GPUI 2 is now in production](https://zed.dev/blog/gpui-2-on-preview)
 * [2024-01-04, 21:48:38](https://lobste.rs/s/thg2vv/sneak_peek_on_rails_8) - [Sneak Peek on Rails 8](https://lucas.dohmen.io/posts/2024/01/01/rails-8-sneak-peek/)
