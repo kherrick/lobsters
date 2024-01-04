@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-01-04, 22:32:24](https://lobste.rs/s/wqeu4r/i_m_speaking_at_nixcon_north_america_2024) - [I'm speaking at NixCon North America 2024! - Xe Iaso](https://xeiaso.net//blog/2024/nixcon-na/)
 * [2024-01-04, 21:50:12](https://lobste.rs/s/qucyav/zed_gpui_2_is_now_production) - [Zed: GPUI 2 is now in production](https://zed.dev/blog/gpui-2-on-preview)
 * [2024-01-04, 21:48:38](https://lobste.rs/s/thg2vv/sneak_peek_on_rails_8) - [Sneak Peek on Rails 8](https://lucas.dohmen.io/posts/2024/01/01/rails-8-sneak-peek/)
 * [2024-01-04, 21:47:01](https://lobste.rs/s/ymf7h8/ai_not_detect_ai_generated_photos_using_ai) - [AI or Not — detect AI-generated photos using AI](https://tolkunov.dev/posts/ai-or-not/)
@@ -17,6 +16,7 @@
 * [2024-01-04, 12:09:20](https://lobste.rs/s/qrm0fz/ten_years_isn_t_long_enough_for_maximum_age) - [Ten years isn't long enough for maximum age settings](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TenYearsNotLongEnough)
 * [2024-01-04, 11:48:58](https://lobste.rs/s/w5esxn/annoying_details_z_buffer_rasterizer) - [Annoying details of a Z-buffer rasterizer](https://30fps.net/pages/z-rasterizer-details/)
 * [2024-01-04, 10:36:12](https://lobste.rs/s/tk9zp7/how_standard_ebooks_serves_millions) - [How Standard Ebooks serves millions of requests per month with a 2GB VPS](https://alexcabal.com/posts/standard-ebooks-and-classic-web-tech)
+* [2024-01-04, 08:02:21](https://lobste.rs/s/wcxjzj/franz_morat_kg_tv_computersystem_6800) - [Franz Morat KG tv-computersystem 6800](https://randoc.wordpress.com/2024/01/03/franz-morat-kg-tv-computersystem-6800/)
 * [2024-01-04, 06:29:50](https://lobste.rs/s/9ybw69/win323mu_diy_wow) - [Win323mu / DIY WOW](https://virtuallyfun.com/2024/01/04/win323mu-diy-wow/)
 * [2024-01-03, 23:24:31](https://lobste.rs/s/vk0fms/sage_programming_language) - [The Sage Programming Language](https://github.com/adam-mcdaniel/sage)
 * [2024-01-03, 23:17:51](https://lobste.rs/s/h3qecf/what_i_d_like_see_for_async_rust_2024) - [What I'd like to see for Async Rust in 2024](https://smallcultfollowing.com/babysteps/blog/2024/01/03/async-rust-2024/)
