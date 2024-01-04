@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-04, 21:47:01](https://lobste.rs/s/ymf7h8/ai_not_detect_ai_generated_photos_using_ai) - [AI or Not — detect AI-generated photos using AI](https://tolkunov.dev/posts/ai-or-not/)
 * [2024-01-04, 21:15:59](https://lobste.rs/s/s46dnb/world_s_smallest_png) - [The world's smallest PNG](https://evanhahn.com/worlds-smallest-png/)
 * [2024-01-04, 21:10:50](https://lobste.rs/s/m6lzvy/go_what_we_got_right_what_we_got_wrong) - [Go: What We Got Right, What We Got Wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)
 * [2024-01-04, 21:00:57](https://lobste.rs/s/nwih24/9_years_apple_text_editor_solo_dev) - [9 years of Apple text editor solo dev](https://papereditor.app/dev)
@@ -24,7 +25,6 @@
 * [2024-01-03, 20:01:05](https://lobste.rs/s/te10p5/who_s_hiring_q12024) - [Who’s Hiring? Q12024](https://lobste.rs/s/te10p5/who_s_hiring_q12024)
 * [2024-01-03, 14:29:59](https://lobste.rs/s/mhx6di/what_is_index_empty_string_empty_string) - [What is the index of an empty string in an empty string?](https://successfulsoftware.net/2023/12/13/what-is-the-index-of-an-empty-string-in-an-empty-string/)
 * [2024-01-03, 13:00:31](https://lobste.rs/s/5tugrd/fastest_way_read_excel_python) - [Fastest Way to Read Excel in Python](https://hakibenita.com/fast-excel-python)
-* [2024-01-03, 07:09:15](https://lobste.rs/s/kmfs5a/sieve_is_simpler_than_lru) - [SIEVE is simpler than LRU](https://cachemon.github.io/SIEVE-website/blog/2023/12/17/sieve-is-simpler-than-lru/)
 
 ## [Archives](archives/index.md)
 
