@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-04](index.md)
 
+* [2024-01-04, 14:57:26](https://lobste.rs/s/aqs1ma/does_your_test_suite_account_for_weak) - [Does Your Test Suite Account For Weak Transaction Isolation?](https://concerningquality.com/txn-isolation-testing/)
 * [2024-01-04, 14:23:22](https://lobste.rs/s/fndq6d/rust_ruby_art_implicit_returns) - [Rust, Ruby, and the Art of Implicit Returns](https://earthly.dev/blog/single-expression-functions/)
 * [2024-01-04, 13:50:03](https://lobste.rs/s/wob1ge/sqlalchemy_vs_django_orm) - [SQLALchemy vs Django ORM](https://st4lk.github.io/en/blog/2023/12/09/sqlalchemy-vs-django-orm/)
 * [2024-01-04, 12:46:59](https://lobste.rs/s/d0xfd0/amber_smalltalk_for_web) - [Amber: Smalltalk for the Web](https://amber-lang.net/)
