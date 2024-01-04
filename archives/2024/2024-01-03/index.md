@@ -7,6 +7,7 @@
 * [2024-01-03, 23:24:31](https://lobste.rs/s/vk0fms/sage_programming_language) - [The Sage Programming Language](https://github.com/adam-mcdaniel/sage)
 * [2024-01-03, 23:21:19](https://lobste.rs/s/9f5utw/rfc_9497_oblivious_pseudorandom) - [RFC 9497: Oblivious Pseudorandom Functions (OPRFs) Using Prime-Order Groups](https://www.rfc-editor.org/rfc/rfc9497.html)
 * [2024-01-03, 23:17:51](https://lobste.rs/s/h3qecf/what_i_d_like_see_for_async_rust_2024) - [What I'd like to see for Async Rust in 2024](https://smallcultfollowing.com/babysteps/blog/2024/01/03/async-rust-2024/)
+* [2024-01-03, 23:09:12](https://lobste.rs/s/pan97t/how_postgresql_optimizer_works_speed_up) - [How the PostgreSQL optimizer works to speed up queries](https://www.cybertec-postgresql.com/en/how-the-postgresql-query-optimizer-works/)
 * [2024-01-03, 22:54:32](https://lobste.rs/s/nc7sck/language_design_starlark_compared) - [language design of Starlark (compared to Python)](https://github.com/bazelbuild/starlark/blob/master/design.md)
 * [2024-01-03, 20:48:07](https://lobste.rs/s/6mwuss/niklaus_wirth_15_2_1934_1_1_2024) - [Niklaus Wirth 15.2.1934 - 1.1.2024](https://lists.inf.ethz.ch/pipermail/oberon/2024/016856.html)
 * [2024-01-03, 20:31:51](https://lobste.rs/s/j5uv2z/birb_fossil_rss_revival) - [Birb + Fossil: An RSS Revival?](https://timkellogg.me/blog/2024/01/03/birb)

@@ -2,6 +2,8 @@
 
 * [2024-01-04, 00:06:38](https://lobste.rs/s/thdhza/profilerpedia_software_profiling_tool) - [Profilerpedia: Software Profiling Tool Catalog](https://profilerpedia.markhansen.co.nz/)
 * [2024-01-03, 23:24:31](https://lobste.rs/s/vk0fms/sage_programming_language) - [The Sage Programming Language](https://github.com/adam-mcdaniel/sage)
+* [2024-01-03, 23:17:51](https://lobste.rs/s/h3qecf/what_i_d_like_see_for_async_rust_2024) - [What I'd like to see for Async Rust in 2024](https://smallcultfollowing.com/babysteps/blog/2024/01/03/async-rust-2024/)
+* [2024-01-03, 23:09:12](https://lobste.rs/s/pan97t/how_postgresql_optimizer_works_speed_up) - [How the PostgreSQL optimizer works to speed up queries](https://www.cybertec-postgresql.com/en/how-the-postgresql-query-optimizer-works/)
 * [2024-01-03, 22:54:32](https://lobste.rs/s/nc7sck/language_design_starlark_compared) - [language design of Starlark (compared to Python)](https://github.com/bazelbuild/starlark/blob/master/design.md)
 * [2024-01-03, 20:48:07](https://lobste.rs/s/6mwuss/niklaus_wirth_15_2_1934_1_1_2024) - [Niklaus Wirth 15.2.1934 - 1.1.2024](https://lists.inf.ethz.ch/pipermail/oberon/2024/016856.html)
 * [2024-01-03, 20:31:51](https://lobste.rs/s/j5uv2z/birb_fossil_rss_revival) - [Birb + Fossil: An RSS Revival?](https://timkellogg.me/blog/2024/01/03/birb)
@@ -21,10 +23,8 @@
 * [2024-01-03, 03:03:35](https://lobste.rs/s/09coe5/cassette_small_lisp_like_programming) - [Cassette (a small, Lisp-like programming language)](https://cassette-lang.com)
 * [2024-01-02, 21:30:27](https://lobste.rs/s/u2qcnf/one_billion_row_challenge) - [The One Billion Row Challenge](https://www.morling.dev/blog/one-billion-row-challenge/)
 * [2024-01-02, 18:13:21](https://lobste.rs/s/xsmbds/vim_9_1_released) - [Vim 9.1 released](https://www.vim.org/vim-9.1-released.php)
-* [2024-01-02, 16:27:03](https://lobste.rs/s/pb8bq4/bookmarklets) - [Bookmarklets](https://yawaramin.github.io/bookmarklets/)
 * [2024-01-02, 16:13:57](https://lobste.rs/s/3f69tm/i_llm_stands_for_intelligence) - [The I in LLM stands for intelligence](https://daniel.haxx.se/blog/2024/01/02/the-i-in-llm-stands-for-intelligence/)
 * [2024-01-02, 13:30:11](https://lobste.rs/s/zycaco/2024_please_switch_firefox) - [In 2024, please switch to Firefox](https://roytanck.com/2023/12/23/in-2024-please-switch-to-firefox/)
-* [2024-01-02, 13:29:15](https://lobste.rs/s/fvxd9q/my_text_editor_is_not_open_source) - [My Text Editor Is Not Open Source](https://bt.ht/posts/My_Text_Editor_Is_Not_Open_Source/)
 
 ## [Archives](archives/index.md)
 
