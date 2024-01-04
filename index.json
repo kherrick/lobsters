@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-04, 21:15:59",
+      "https://lobste.rs/s/s46dnb/world_s_smallest_png"
+    ],
+    [
+      "The world's smallest PNG",
+      "https://evanhahn.com/worlds-smallest-png/"
+    ]
+  ],
+  [
+    [
       "2024-01-04, 21:10:50",
       "https://lobste.rs/s/m6lzvy/go_what_we_got_right_what_we_got_wrong"
     ],
@@ -237,16 +247,6 @@
     [
       "SIEVE is simpler than LRU",
       "https://cachemon.github.io/SIEVE-website/blog/2023/12/17/sieve-is-simpler-than-lru/"
-    ]
-  ],
-  [
-    [
-      "2024-01-02, 13:30:11",
-      "https://lobste.rs/s/zycaco/2024_please_switch_firefox"
-    ],
-    [
-      "In 2024, please switch to Firefox",
-      "https://roytanck.com/2023/12/23/in-2024-please-switch-to-firefox/"
     ]
   ]
 ]
