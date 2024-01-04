@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-04, 12:46:59](https://lobste.rs/s/d0xfd0/amber_smalltalk_for_web) - [Amber: Smalltalk for the Web](https://amber-lang.net/)
 * [2024-01-04, 12:09:20](https://lobste.rs/s/qrm0fz/ten_years_isn_t_long_enough_for_maximum_age) - [Ten years isn't long enough for maximum age settings](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TenYearsNotLongEnough)
 * [2024-01-04, 11:48:58](https://lobste.rs/s/w5esxn/annoying_details_z_buffer_rasterizer) - [Annoying details of a Z-buffer rasterizer](https://30fps.net/pages/z-rasterizer-details/)
 * [2024-01-04, 10:46:45](https://lobste.rs/s/yo1pyd/making_blue_noise_point_sets_with_sliced) - [Making Blue Noise Point Sets With Sliced Optimal Transport](https://blog.demofox.org/2023/12/24/making-blue-noise-point-sets-with-sliced-optimal-transport/)
@@ -23,7 +24,6 @@
 * [2024-01-03, 07:09:15](https://lobste.rs/s/kmfs5a/sieve_is_simpler_than_lru) - [SIEVE is simpler than LRU](https://cachemon.github.io/SIEVE-website/blog/2023/12/17/sieve-is-simpler-than-lru/)
 * [2024-01-03, 03:03:35](https://lobste.rs/s/09coe5/cassette_small_lisp_like_programming) - [Cassette (a small, Lisp-like programming language)](https://cassette-lang.com)
 * [2024-01-02, 21:30:27](https://lobste.rs/s/u2qcnf/one_billion_row_challenge) - [The One Billion Row Challenge](https://www.morling.dev/blog/one-billion-row-challenge/)
-* [2024-01-02, 16:13:57](https://lobste.rs/s/3f69tm/i_llm_stands_for_intelligence) - [The I in LLM stands for intelligence](https://daniel.haxx.se/blog/2024/01/02/the-i-in-llm-stands-for-intelligence/)
 * [2024-01-02, 13:30:11](https://lobste.rs/s/zycaco/2024_please_switch_firefox) - [In 2024, please switch to Firefox](https://roytanck.com/2023/12/23/in-2024-please-switch-to-firefox/)
 
 ## [Archives](archives/index.md)
