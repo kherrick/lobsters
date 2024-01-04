@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-04, 00:06:38](https://lobste.rs/s/thdhza/profilerpedia_software_profiling_tool) - [Profilerpedia: Software Profiling Tool Catalog](https://profilerpedia.markhansen.co.nz/)
 * [2024-01-03, 23:24:31](https://lobste.rs/s/vk0fms/sage_programming_language) - [The Sage Programming Language](https://github.com/adam-mcdaniel/sage)
 * [2024-01-03, 22:54:32](https://lobste.rs/s/nc7sck/language_design_starlark_compared) - [language design of Starlark (compared to Python)](https://github.com/bazelbuild/starlark/blob/master/design.md)
 * [2024-01-03, 20:48:07](https://lobste.rs/s/6mwuss/niklaus_wirth_15_2_1934_1_1_2024) - [Niklaus Wirth 15.2.1934 - 1.1.2024](https://lists.inf.ethz.ch/pipermail/oberon/2024/016856.html)
@@ -14,7 +15,6 @@
 * [2024-01-03, 13:00:31](https://lobste.rs/s/5tugrd/fastest_way_read_excel_python) - [Fastest Way to Read Excel in Python](https://hakibenita.com/fast-excel-python)
 * [2024-01-03, 09:35:42](https://lobste.rs/s/iheb6q/software_technical_writing_handbook) - [Software Technical Writing: A Handbook](https://jamesg.blog/book.pdf)
 * [2024-01-03, 09:30:13](https://lobste.rs/s/kpqmdi/dapls_domain_agnostic_programming) - [DAPLs: Domain Agnostic Programming Languages](https://blog.metaobject.com/2024/01/dapls-domain-agnostic-programming.html)
-* [2024-01-03, 07:41:18](https://lobste.rs/s/hyyfdf/emacs_commands_i_got_by_with_for_years) - [Emacs Commands I Got By With For Years](https://macadie.info/2023/12/30/emacs-commands-i-got-by-with-for-years/)
 * [2024-01-03, 07:09:15](https://lobste.rs/s/kmfs5a/sieve_is_simpler_than_lru) - [SIEVE is simpler than LRU](https://cachemon.github.io/SIEVE-website/blog/2023/12/17/sieve-is-simpler-than-lru/)
 * [2024-01-03, 05:28:17](https://lobste.rs/s/4loezq/elixir_dev_environment_with_nix_flakes) - [Elixir Dev Environment With Nix Flakes](https://www.mathiaspolligkeit.com/elixir-dev-environment-with-nix-flakes/)
 * [2024-01-03, 05:09:36](https://lobste.rs/s/bkyeqd/malbolge_lisp_lightweight_350mb_lisp) - [malbolge-lisp: A lightweight (350MB) Lisp interpreter in Malbolge Unshackled, often dubbed the hardest turing complete programming language](https://github.com/kspalaiologos/malbolge-lisp)
