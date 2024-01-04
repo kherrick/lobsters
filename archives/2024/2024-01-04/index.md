@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-04](index.md)
 
+* [2024-01-04, 22:32:24](https://lobste.rs/s/wqeu4r/i_m_speaking_at_nixcon_north_america_2024) - [I'm speaking at NixCon North America 2024! - Xe Iaso](https://xeiaso.net//blog/2024/nixcon-na/)
 * [2024-01-04, 21:50:12](https://lobste.rs/s/qucyav/zed_gpui_2_is_now_production) - [Zed: GPUI 2 is now in production](https://zed.dev/blog/gpui-2-on-preview)
 * [2024-01-04, 21:48:38](https://lobste.rs/s/thg2vv/sneak_peek_on_rails_8) - [Sneak Peek on Rails 8](https://lucas.dohmen.io/posts/2024/01/01/rails-8-sneak-peek/)
 * [2024-01-04, 21:47:01](https://lobste.rs/s/ymf7h8/ai_not_detect_ai_generated_photos_using_ai) - [AI or Not — detect AI-generated photos using AI](https://tolkunov.dev/posts/ai-or-not/)
