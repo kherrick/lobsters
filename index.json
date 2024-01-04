@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-04, 14:57:26",
+      "https://lobste.rs/s/aqs1ma/does_your_test_suite_account_for_weak"
+    ],
+    [
+      "Does Your Test Suite Account For Weak Transaction Isolation?",
+      "https://concerningquality.com/txn-isolation-testing/"
+    ]
+  ],
+  [
+    [
       "2024-01-04, 14:23:22",
       "https://lobste.rs/s/fndq6d/rust_ruby_art_implicit_returns"
     ],
@@ -167,16 +177,6 @@
     [
       "Performance Benchmarks of Cloud Virtual Machines",
       "https://bas.codes/posts/cloudbench2312"
-    ]
-  ],
-  [
-    [
-      "2024-01-03, 17:10:18",
-      "https://lobste.rs/s/zoya6a/container2wasm_convert_docker"
-    ],
-    [
-      "container2wasm: convert Docker containers into WASM blobs",
-      "https://github.com/ktock/container2wasm"
     ]
   ],
   [
