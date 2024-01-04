@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-04](index.md)
 
+* [2024-01-04, 20:41:19](https://lobste.rs/s/crbrww/ghostsurn_visualize_hexagonal_tilings) - [Ghostsurn: visualize hexagonal tilings](https://logarithmic.net/ghostsurn/0.2/tile.html)
 * [2024-01-04, 19:49:41](https://lobste.rs/s/uuahhi/npm_registry_prank_leaves_developers) - [NPM registry prank leaves developers unable to unpublish packages](https://www.scmagazine.com/news/npm-registry-prank-leaves-developers-unable-to-unpublish-packages)
 * [2024-01-04, 15:44:37](https://lobste.rs/s/mppr3v/30_years_decompilation_unsolved) - [30 Years of Decompilation and the Unsolved Structuring Problem: Part 1](https://mahaloz.re/dec-history-pt1)
 * [2024-01-04, 14:57:26](https://lobste.rs/s/aqs1ma/does_your_test_suite_account_for_weak) - [Does Your Test Suite Account For Weak Transaction Isolation?](https://concerningquality.com/txn-isolation-testing/)
