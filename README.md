@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-05, 19:18:33](https://lobste.rs/s/mfd0q3/driverless_user_space_file_systems_for) - [Driverless User Space File Systems for Windows, macOS, and Linux](https://thelig.ht/user-space-file-systems/)
 * [2024-01-05, 18:32:50](https://lobste.rs/s/2be0kw/escape_from_zurg_exercise_logic) - [Escape from Zurg: An Exercise in Logic Programming](https://web.engr.oregonstate.edu/~erwig/papers/Zurg_JFP04.pdf)
 * [2024-01-05, 18:09:19](https://lobste.rs/s/b7bwwd/microbeast_z80_computer_kit) - [MicroBeast Z80 computer kit](https://feertech.com/microbeast/index.html)
 * [2024-01-05, 17:31:29](https://lobste.rs/s/iyzluc/how_quick_is_go_compiler_can_you_use_go_for) - [how quick is the go compiler: can you use go for scripting?](https://flak.tedunangst.com/post/how-fast-is-the-go-compiler)
@@ -13,7 +14,6 @@
 * [2024-01-05, 11:38:14](https://lobste.rs/s/sol6jh/maestro_unix_like_kernel_operating) - [Maestro - A Unix-like kernel and operating system written in Rust](https://blog.lenot.re/a/introduction)
 * [2024-01-05, 10:19:20](https://lobste.rs/s/mnqqdu/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mnqqdu/what_are_you_doing_this_weekend)
 * [2024-01-05, 09:38:22](https://lobste.rs/s/hekyng/typing_nix_env_i_should_not_try_install) - [Typing \"nix-env -i\" should not try to install every single package [2014]](https://github.com/NixOS/nix/issues/308)
-* [2024-01-05, 08:50:43](https://lobste.rs/s/typrfk/simd_pure_python) - [SIMD in Pure Python](https://www.da.vidbuchanan.co.uk/blog/python-swar.html)
 * [2024-01-05, 08:33:07](https://lobste.rs/s/jpggrr/learning_regular_languages_with_l) - [Learning Regular Languages with L* Algorithm](http://rahul.gopinath.org/post/2024/01/04/lstar-learning-regular-languages/)
 * [2024-01-05, 03:29:19](https://lobste.rs/s/cwzbej/speed_up_your_code_don_t_pass_structs) - [Speed up your code: don't pass structs bigger than 16 bytes on AMD64](https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c)
 * [2024-01-04, 23:25:51](https://lobste.rs/s/i9gl7o/mise_en_place_frontend_your_dev_env) - [mise-en-place: The frontend to your dev env](https://mise.jdx.dev)
