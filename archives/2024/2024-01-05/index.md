@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
+* [2024-01-05, 16:44:49](https://lobste.rs/s/o6j60f/github_blog_turn_github_issues_into_cms) - [github-blog: Turn GitHub issues into a CMS for your blog](https://github.com/renatorib/github-blog)
+* [2024-01-05, 16:41:11](https://lobste.rs/s/qiuktd/programming_lessons_learned_from_making) - [Programming lessons learned from making my first game and why I'm writing my own engine in 2018](https://github.com/a327ex/blog/issues/31)
 * [2024-01-05, 15:06:28](https://lobste.rs/s/wlnqh0/continuous_benchmarking_for_rustls) - [Continuous benchmarking for rustls](https://ochagavia.nl/blog/continuous-benchmarking-for-rustls/)
 * [2024-01-05, 15:05:34](https://lobste.rs/s/qjqbth/constraining_complexity_generics) - [Constraining Complexity in the Generics Design](https://blog.merovius.de/posts/2024-01-05_constraining_complexity/)
 * [2024-01-05, 15:01:21](https://lobste.rs/s/j3gdbz/zklocus_authenticated_private) - [zkLocus – Authenticated Private Geolocation Off and On-Chain Whitepaper](https://zklocus.dev/whitepaper/)
