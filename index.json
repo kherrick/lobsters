@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-05, 20:36:38",
+      "https://lobste.rs/s/ciw1be/do_we_think_git_commits_as_diffs_snapshots"
+    ],
+    [
+      "Do we think of git commits as diffs, snapshots, and/or histories?",
+      "https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/"
+    ]
+  ],
+  [
+    [
       "2024-01-05, 20:34:35",
       "https://lobste.rs/s/4gjj6n/dennis_ritchie_on_vs"
     ],
@@ -227,16 +237,6 @@
     [
       "NPM registry prank leaves developers unable to unpublish packages",
       "https://www.scmagazine.com/news/npm-registry-prank-leaves-developers-unable-to-unpublish-packages"
-    ]
-  ],
-  [
-    [
-      "2024-01-04, 14:23:22",
-      "https://lobste.rs/s/fndq6d/rust_ruby_art_implicit_returns"
-    ],
-    [
-      "Rust, Ruby, and the Art of Implicit Returns",
-      "https://earthly.dev/blog/single-expression-functions/"
     ]
   ],
   [
