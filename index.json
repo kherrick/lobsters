@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-05, 17:18:11",
+      "https://lobste.rs/s/fbleeh/polars_aggregate_going_from_0_19_0_0_20_2"
+    ],
+    [
+      "Polars in Aggregate: Going from 0.19.0 to 0.20.2",
+      "https://pola.rs/posts/polars_in_aggregrate-0.20/"
+    ]
+  ],
+  [
+    [
       "2024-01-05, 16:44:49",
       "https://lobste.rs/s/o6j60f/github_blog_turn_github_issues_into_cms"
     ],
@@ -217,16 +227,6 @@
     [
       "Rust, Ruby, and the Art of Implicit Returns",
       "https://earthly.dev/blog/single-expression-functions/"
-    ]
-  ],
-  [
-    [
-      "2024-01-04, 12:46:59",
-      "https://lobste.rs/s/d0xfd0/amber_smalltalk_for_web"
-    ],
-    [
-      "Amber: Smalltalk for the Web",
-      "https://amber-lang.net/"
     ]
   ],
   [
