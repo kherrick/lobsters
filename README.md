@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-05, 20:36:38](https://lobste.rs/s/ciw1be/do_we_think_git_commits_as_diffs_snapshots) - [Do we think of git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/)
 * [2024-01-05, 20:34:35](https://lobste.rs/s/4gjj6n/dennis_ritchie_on_vs) - [Dennis Ritchie on & | vs. ==](https://www.lysator.liu.se/c/dmr-on-or.html)
 * [2024-01-05, 20:21:26](https://lobste.rs/s/yw1vse/gpt_500_lines_sql) - [GPT in 500 lines of SQL](https://explainextended.com/2023/12/31/happy-new-year-15/)
 * [2024-01-05, 20:16:54](https://lobste.rs/s/89czhf/world_machine) - [The World and the Machine](https://www.hillelwayne.com/post/world-vs-machine/)
@@ -23,7 +24,6 @@
 * [2024-01-04, 21:10:50](https://lobste.rs/s/m6lzvy/go_what_we_got_right_what_we_got_wrong) - [Go: What We Got Right, What We Got Wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)
 * [2024-01-04, 21:00:57](https://lobste.rs/s/nwih24/9_years_apple_text_editor_solo_dev) - [9 years of Apple text editor solo dev](https://papereditor.app/dev)
 * [2024-01-04, 19:49:41](https://lobste.rs/s/uuahhi/npm_registry_prank_leaves_developers) - [NPM registry prank leaves developers unable to unpublish packages](https://www.scmagazine.com/news/npm-registry-prank-leaves-developers-unable-to-unpublish-packages)
-* [2024-01-04, 14:23:22](https://lobste.rs/s/fndq6d/rust_ruby_art_implicit_returns) - [Rust, Ruby, and the Art of Implicit Returns](https://earthly.dev/blog/single-expression-functions/)
 * [2024-01-04, 10:36:12](https://lobste.rs/s/tk9zp7/how_standard_ebooks_serves_millions) - [How Standard Ebooks serves millions of requests per month with a 2GB VPS](https://alexcabal.com/posts/standard-ebooks-and-classic-web-tech)
 
 ## [Archives](archives/index.md)

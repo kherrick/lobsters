@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
 * [2024-01-05, 20:52:28](https://lobste.rs/s/ucg0wl/statically_enforcing_frozen_data) - [Statically enforcing frozen data classes in Python](https://rednafi.com/python/statically_enforcing_frozen_dataclasses/)
+* [2024-01-05, 20:36:38](https://lobste.rs/s/ciw1be/do_we_think_git_commits_as_diffs_snapshots) - [Do we think of git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/)
 * [2024-01-05, 20:34:35](https://lobste.rs/s/4gjj6n/dennis_ritchie_on_vs) - [Dennis Ritchie on & | vs. ==](https://www.lysator.liu.se/c/dmr-on-or.html)
 * [2024-01-05, 20:21:26](https://lobste.rs/s/yw1vse/gpt_500_lines_sql) - [GPT in 500 lines of SQL](https://explainextended.com/2023/12/31/happy-new-year-15/)
 * [2024-01-05, 20:16:54](https://lobste.rs/s/89czhf/world_machine) - [The World and the Machine](https://www.hillelwayne.com/post/world-vs-machine/)
