@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
+* [2024-01-05, 13:19:34](https://lobste.rs/s/vrnsxf/greg_developer) - [Greg, the Developer](https://garrit.xyz/posts/2024-01-05-greg-the-developer)
 * [2024-01-05, 11:58:20](https://lobste.rs/s/ppwfxk/fixing_macs_door_door) - [Fixing Macs Door to Door](https://matduggan.com/fixing-macs-door-to-door/)
 * [2024-01-05, 11:38:14](https://lobste.rs/s/sol6jh/maestro_unix_like_kernel_operating) - [Maestro - A Unix-like kernel and operating system written in Rust](https://blog.lenot.re/a/introduction)
 * [2024-01-05, 11:16:25](https://lobste.rs/s/l5rv3f/my_boss_says_we_don_t_need_any_engineering) - [My boss says we don’t need any engineering managers](https://charity.wtf/2024/01/05/questionable-advice-my-boss-says-we-dont-need-any-engineering-managers-is-he-right/)
