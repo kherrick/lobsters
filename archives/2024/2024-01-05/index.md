@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
+* [2024-01-05, 11:16:25](https://lobste.rs/s/l5rv3f/my_boss_says_we_don_t_need_any_engineering) - [My boss says we don’t need any engineering managers](https://charity.wtf/2024/01/05/questionable-advice-my-boss-says-we-dont-need-any-engineering-managers-is-he-right/)
 * [2024-01-05, 10:19:20](https://lobste.rs/s/mnqqdu/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mnqqdu/what_are_you_doing_this_weekend)
 * [2024-01-05, 09:38:22](https://lobste.rs/s/hekyng/typing_nix_env_i_should_not_try_install) - [Typing \"nix-env -i\" should not try to install every single package [2014]](https://github.com/NixOS/nix/issues/308)
 * [2024-01-05, 08:50:43](https://lobste.rs/s/typrfk/simd_pure_python) - [SIMD in Pure Python](https://www.da.vidbuchanan.co.uk/blog/python-swar.html)

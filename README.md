@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-05, 11:16:25](https://lobste.rs/s/l5rv3f/my_boss_says_we_don_t_need_any_engineering) - [My boss says we don’t need any engineering managers](https://charity.wtf/2024/01/05/questionable-advice-my-boss-says-we-dont-need-any-engineering-managers-is-he-right/)
 * [2024-01-05, 10:19:20](https://lobste.rs/s/mnqqdu/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mnqqdu/what_are_you_doing_this_weekend)
 * [2024-01-05, 09:38:22](https://lobste.rs/s/hekyng/typing_nix_env_i_should_not_try_install) - [Typing \"nix-env -i\" should not try to install every single package [2014]](https://github.com/NixOS/nix/issues/308)
 * [2024-01-05, 08:50:43](https://lobste.rs/s/typrfk/simd_pure_python) - [SIMD in Pure Python](https://www.da.vidbuchanan.co.uk/blog/python-swar.html)
@@ -18,7 +19,6 @@
 * [2024-01-04, 15:44:37](https://lobste.rs/s/mppr3v/30_years_decompilation_unsolved) - [30 Years of Decompilation and the Unsolved Structuring Problem: Part 1](https://mahaloz.re/dec-history-pt1)
 * [2024-01-04, 14:57:26](https://lobste.rs/s/aqs1ma/does_your_test_suite_account_for_weak) - [Does Your Test Suite Account For Weak Transaction Isolation?](https://concerningquality.com/txn-isolation-testing/)
 * [2024-01-04, 14:23:22](https://lobste.rs/s/fndq6d/rust_ruby_art_implicit_returns) - [Rust, Ruby, and the Art of Implicit Returns](https://earthly.dev/blog/single-expression-functions/)
-* [2024-01-04, 13:50:03](https://lobste.rs/s/wob1ge/sqlalchemy_vs_django_orm) - [SQLALchemy vs Django ORM](https://st4lk.github.io/en/blog/2023/12/09/sqlalchemy-vs-django-orm/)
 * [2024-01-04, 12:46:59](https://lobste.rs/s/d0xfd0/amber_smalltalk_for_web) - [Amber: Smalltalk for the Web](https://amber-lang.net/)
 * [2024-01-04, 12:09:20](https://lobste.rs/s/qrm0fz/ten_years_isn_t_long_enough_for_maximum_age) - [Ten years isn't long enough for maximum age settings](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TenYearsNotLongEnough)
 * [2024-01-04, 10:36:12](https://lobste.rs/s/tk9zp7/how_standard_ebooks_serves_millions) - [How Standard Ebooks serves millions of requests per month with a 2GB VPS](https://alexcabal.com/posts/standard-ebooks-and-classic-web-tech)
