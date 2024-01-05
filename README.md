@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-05, 08:50:43](https://lobste.rs/s/typrfk/simd_pure_python) - [SIMD in Pure Python](https://www.da.vidbuchanan.co.uk/blog/python-swar.html)
 * [2024-01-05, 08:33:07](https://lobste.rs/s/jpggrr/learning_regular_languages_with_l) - [Learning Regular Languages with L* Algorithm](http://rahul.gopinath.org/post/2024/01/04/lstar-learning-regular-languages/)
 * [2024-01-05, 03:29:19](https://lobste.rs/s/cwzbej/speed_up_your_code_don_t_pass_structs) - [Speed up your code: don't pass structs bigger than 16 bytes on AMD64](https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c)
 * [2024-01-04, 23:35:43](https://lobste.rs/s/yvii9f/iggy_rs_building_message_streaming_rust) - [Iggy.rs - building message streaming in Rust](https://blog.iggy.rs/posts/building-message-streaming-in-rust/)
@@ -23,7 +24,6 @@
 * [2024-01-04, 06:29:50](https://lobste.rs/s/9ybw69/win323mu_diy_wow) - [Win323mu / DIY WOW](https://virtuallyfun.com/2024/01/04/win323mu-diy-wow/)
 * [2024-01-03, 22:54:32](https://lobste.rs/s/nc7sck/language_design_starlark_compared) - [language design of Starlark (compared to Python)](https://github.com/bazelbuild/starlark/blob/master/design.md)
 * [2024-01-03, 20:48:07](https://lobste.rs/s/6mwuss/niklaus_wirth_15_2_1934_1_1_2024) - [Niklaus Wirth 15.2.1934 - 1.1.2024](https://lists.inf.ethz.ch/pipermail/oberon/2024/016856.html)
-* [2024-01-03, 20:31:51](https://lobste.rs/s/j5uv2z/birb_fossil_rss_revival) - [Birb + Fossil: An RSS Revival?](https://timkellogg.me/blog/2024/01/03/birb)
 * [2024-01-03, 20:01:05](https://lobste.rs/s/te10p5/who_s_hiring_q12024) - [Who’s Hiring? Q12024](https://lobste.rs/s/te10p5/who_s_hiring_q12024)
 
 ## [Archives](archives/index.md)
