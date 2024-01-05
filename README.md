@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-05, 20:52:28](https://lobste.rs/s/ucg0wl/statically_enforcing_frozen_data) - [Statically enforcing frozen data classes in Python](https://rednafi.com/python/statically_enforcing_frozen_dataclasses/)
+* [2024-01-05, 20:34:35](https://lobste.rs/s/4gjj6n/dennis_ritchie_on_vs) - [Dennis Ritchie on & | vs. ==](https://www.lysator.liu.se/c/dmr-on-or.html)
 * [2024-01-05, 20:16:54](https://lobste.rs/s/89czhf/world_machine) - [The World and the Machine](https://www.hillelwayne.com/post/world-vs-machine/)
 * [2024-01-05, 19:28:17](https://lobste.rs/s/hqqbee/website_vs_web_app_dichotomy_doesn_t_exist) - [The Website vs. Web App Dichotomy Doesn't Exist](https://jakelazaroff.com/words/the-website-vs-web-app-dichotomy-doesnt-exist/)
 * [2024-01-05, 19:18:33](https://lobste.rs/s/mfd0q3/driverless_user_space_file_systems_for) - [Driverless User Space File Systems for Windows, macOS, and Linux](https://thelig.ht/user-space-file-systems/)
@@ -8,8 +10,6 @@
 * [2024-01-05, 17:18:11](https://lobste.rs/s/fbleeh/polars_aggregate_going_from_0_19_0_0_20_2) - [Polars in Aggregate: Going from 0.19.0 to 0.20.2](https://pola.rs/posts/polars_in_aggregrate-0.20/)
 * [2024-01-05, 16:44:49](https://lobste.rs/s/o6j60f/github_blog_turn_github_issues_into_cms) - [github-blog: Turn GitHub issues into a CMS for your blog](https://github.com/renatorib/github-blog)
 * [2024-01-05, 16:41:11](https://lobste.rs/s/qiuktd/programming_lessons_learned_from_making) - [Programming lessons learned from making my first game and why I'm writing my own engine in 2018](https://github.com/a327ex/blog/issues/31)
-* [2024-01-05, 15:06:28](https://lobste.rs/s/wlnqh0/continuous_benchmarking_for_rustls) - [Continuous benchmarking for rustls](https://ochagavia.nl/blog/continuous-benchmarking-for-rustls/)
-* [2024-01-05, 15:05:34](https://lobste.rs/s/qjqbth/constraining_complexity_generics) - [Constraining Complexity in the Generics Design](https://blog.merovius.de/posts/2024-01-05_constraining_complexity/)
 * [2024-01-05, 14:07:39](https://lobste.rs/s/uawzvl/netbsd_10_0_rc2_available) - [NetBSD 10.0 RC2 available](https://blog.netbsd.org/tnf/entry/netbsd_10_0_rc2_available)
 * [2024-01-05, 13:19:34](https://lobste.rs/s/vrnsxf/greg_developer) - [Greg, the Developer](https://garrit.xyz/posts/2024-01-05-greg-the-developer)
 * [2024-01-05, 11:58:20](https://lobste.rs/s/ppwfxk/fixing_macs_door_door) - [Fixing Macs Door to Door](https://matduggan.com/fixing-macs-door-to-door/)
