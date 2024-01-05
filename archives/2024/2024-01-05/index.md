@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
+* [2024-01-05, 17:31:29](https://lobste.rs/s/iyzluc/how_quick_is_go_compiler_can_you_use_go_for) - [how quick is the go compiler: can you use go for scripting?](https://flak.tedunangst.com/post/how-fast-is-the-go-compiler)
 * [2024-01-05, 17:18:11](https://lobste.rs/s/fbleeh/polars_aggregate_going_from_0_19_0_0_20_2) - [Polars in Aggregate: Going from 0.19.0 to 0.20.2](https://pola.rs/posts/polars_in_aggregrate-0.20/)
 * [2024-01-05, 16:44:49](https://lobste.rs/s/o6j60f/github_blog_turn_github_issues_into_cms) - [github-blog: Turn GitHub issues into a CMS for your blog](https://github.com/renatorib/github-blog)
 * [2024-01-05, 16:41:11](https://lobste.rs/s/qiuktd/programming_lessons_learned_from_making) - [Programming lessons learned from making my first game and why I'm writing my own engine in 2018](https://github.com/a327ex/blog/issues/31)
