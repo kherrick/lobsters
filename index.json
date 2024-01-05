@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-05, 17:31:29",
+      "https://lobste.rs/s/iyzluc/how_quick_is_go_compiler_can_you_use_go_for"
+    ],
+    [
+      "how quick is the go compiler: can you use go for scripting?",
+      "https://flak.tedunangst.com/post/how-fast-is-the-go-compiler"
+    ]
+  ],
+  [
+    [
       "2024-01-05, 17:18:11",
       "https://lobste.rs/s/fbleeh/polars_aggregate_going_from_0_19_0_0_20_2"
     ],
@@ -37,16 +47,6 @@
     [
       "Continuous benchmarking for rustls",
       "https://ochagavia.nl/blog/continuous-benchmarking-for-rustls/"
-    ]
-  ],
-  [
-    [
-      "2024-01-05, 15:05:34",
-      "https://lobste.rs/s/qjqbth/constraining_complexity_generics"
-    ],
-    [
-      "Constraining Complexity in the Generics Design",
-      "https://blog.merovius.de/posts/2024-01-05_constraining_complexity/"
     ]
   ],
   [
