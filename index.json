@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2024-01-04, 20:41:19",
+      "https://lobste.rs/s/crbrww/ghostsurn_visualize_hexagonal_tilings"
+    ],
+    [
+      "Ghostsurn: visualize hexagonal tilings",
+      "https://logarithmic.net/ghostsurn/0.2/tile.html"
+    ]
+  ],
+  [
+    [
       "2024-01-04, 19:49:41",
       "https://lobste.rs/s/uuahhi/npm_registry_prank_leaves_developers"
     ],
@@ -227,16 +237,6 @@
     [
       "How Standard Ebooks serves millions of requests per month with a 2GB VPS",
       "https://alexcabal.com/posts/standard-ebooks-and-classic-web-tech"
-    ]
-  ],
-  [
-    [
-      "2024-01-03, 22:54:32",
-      "https://lobste.rs/s/nc7sck/language_design_starlark_compared"
-    ],
-    [
-      "language design of Starlark (compared to Python)",
-      "https://github.com/bazelbuild/starlark/blob/master/design.md"
     ]
   ],
   [
