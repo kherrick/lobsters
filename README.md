@@ -3,7 +3,6 @@
 * [2024-01-05, 03:29:19](https://lobste.rs/s/cwzbej/speed_up_your_code_don_t_pass_structs) - [Speed up your code: don't pass structs bigger than 16 bytes on AMD64](https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c)
 * [2024-01-04, 23:35:43](https://lobste.rs/s/yvii9f/iggy_rs_building_message_streaming_rust) - [Iggy.rs - building message streaming in Rust](https://blog.iggy.rs/posts/building-message-streaming-in-rust/)
 * [2024-01-04, 23:25:51](https://lobste.rs/s/i9gl7o/mise_en_place_frontend_your_dev_env) - [mise-en-place: The frontend to your dev env](https://mise.jdx.dev)
-* [2024-01-04, 22:32:24](https://lobste.rs/s/wqeu4r/i_m_speaking_at_nixcon_north_america_2024) - [I'm speaking at NixCon North America 2024! - Xe Iaso](https://xeiaso.net//blog/2024/nixcon-na/)
 * [2024-01-04, 21:50:12](https://lobste.rs/s/qucyav/zed_gpui_2_is_now_production) - [Zed: GPUI 2 is now in production](https://zed.dev/blog/gpui-2-on-preview)
 * [2024-01-04, 21:48:38](https://lobste.rs/s/thg2vv/sneak_peek_on_rails_8) - [Sneak Peek on Rails 8](https://lucas.dohmen.io/posts/2024/01/01/rails-8-sneak-peek/)
 * [2024-01-04, 21:47:01](https://lobste.rs/s/ymf7h8/ai_not_detect_ai_generated_photos_using_ai) - [AI or Not — detect AI-generated photos using AI](https://tolkunov.dev/posts/ai-or-not/)
@@ -25,6 +24,7 @@
 * [2024-01-03, 20:48:07](https://lobste.rs/s/6mwuss/niklaus_wirth_15_2_1934_1_1_2024) - [Niklaus Wirth 15.2.1934 - 1.1.2024](https://lists.inf.ethz.ch/pipermail/oberon/2024/016856.html)
 * [2024-01-03, 20:31:51](https://lobste.rs/s/j5uv2z/birb_fossil_rss_revival) - [Birb + Fossil: An RSS Revival?](https://timkellogg.me/blog/2024/01/03/birb)
 * [2024-01-03, 20:01:05](https://lobste.rs/s/te10p5/who_s_hiring_q12024) - [Who’s Hiring? Q12024](https://lobste.rs/s/te10p5/who_s_hiring_q12024)
+* [2024-01-03, 13:00:31](https://lobste.rs/s/5tugrd/fastest_way_read_excel_python) - [Fastest Way to Read Excel in Python](https://hakibenita.com/fast-excel-python)
 
 ## [Archives](archives/index.md)
 
