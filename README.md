@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-01-05, 20:52:28](https://lobste.rs/s/ucg0wl/statically_enforcing_frozen_data) - [Statically enforcing frozen data classes in Python](https://rednafi.com/python/statically_enforcing_frozen_dataclasses/)
 * [2024-01-05, 20:34:35](https://lobste.rs/s/4gjj6n/dennis_ritchie_on_vs) - [Dennis Ritchie on & | vs. ==](https://www.lysator.liu.se/c/dmr-on-or.html)
 * [2024-01-05, 20:21:26](https://lobste.rs/s/yw1vse/gpt_500_lines_sql) - [GPT in 500 lines of SQL](https://explainextended.com/2023/12/31/happy-new-year-15/)
 * [2024-01-05, 20:16:54](https://lobste.rs/s/89czhf/world_machine) - [The World and the Machine](https://www.hillelwayne.com/post/world-vs-machine/)
@@ -19,6 +18,7 @@
 * [2024-01-05, 09:38:22](https://lobste.rs/s/hekyng/typing_nix_env_i_should_not_try_install) - [Typing \"nix-env -i\" should not try to install every single package [2014]](https://github.com/NixOS/nix/issues/308)
 * [2024-01-05, 08:33:07](https://lobste.rs/s/jpggrr/learning_regular_languages_with_l) - [Learning Regular Languages with L* Algorithm](http://rahul.gopinath.org/post/2024/01/04/lstar-learning-regular-languages/)
 * [2024-01-05, 03:29:19](https://lobste.rs/s/cwzbej/speed_up_your_code_don_t_pass_structs) - [Speed up your code: don't pass structs bigger than 16 bytes on AMD64](https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c)
+* [2024-01-04, 21:50:12](https://lobste.rs/s/qucyav/zed_gpui_2_is_now_production) - [Zed: GPUI 2 is now in production](https://zed.dev/blog/gpui-2-on-preview)
 * [2024-01-04, 21:15:59](https://lobste.rs/s/s46dnb/world_s_smallest_png) - [The world's smallest PNG](https://evanhahn.com/worlds-smallest-png/)
 * [2024-01-04, 21:10:50](https://lobste.rs/s/m6lzvy/go_what_we_got_right_what_we_got_wrong) - [Go: What We Got Right, What We Got Wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)
 * [2024-01-04, 21:00:57](https://lobste.rs/s/nwih24/9_years_apple_text_editor_solo_dev) - [9 years of Apple text editor solo dev](https://papereditor.app/dev)
