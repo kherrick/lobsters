@@ -2,7 +2,6 @@
 
 * [2024-01-05, 15:06:28](https://lobste.rs/s/wlnqh0/continuous_benchmarking_for_rustls) - [Continuous benchmarking for rustls](https://ochagavia.nl/blog/continuous-benchmarking-for-rustls/)
 * [2024-01-05, 15:05:34](https://lobste.rs/s/qjqbth/constraining_complexity_generics) - [Constraining Complexity in the Generics Design](https://blog.merovius.de/posts/2024-01-05_constraining_complexity/)
-* [2024-01-05, 15:01:21](https://lobste.rs/s/j3gdbz/zklocus_authenticated_private) - [zkLocus – Authenticated Private Geolocation Off and On-Chain Whitepaper](https://zklocus.dev/whitepaper/)
 * [2024-01-05, 14:07:39](https://lobste.rs/s/uawzvl/netbsd_10_0_rc2_available) - [NetBSD 10.0 RC2 available](https://blog.netbsd.org/tnf/entry/netbsd_10_0_rc2_available)
 * [2024-01-05, 13:19:34](https://lobste.rs/s/vrnsxf/greg_developer) - [Greg, the Developer](https://garrit.xyz/posts/2024-01-05-greg-the-developer)
 * [2024-01-05, 11:58:20](https://lobste.rs/s/ppwfxk/fixing_macs_door_door) - [Fixing Macs Door to Door](https://matduggan.com/fixing-macs-door-to-door/)
@@ -16,6 +15,7 @@
 * [2024-01-04, 23:25:51](https://lobste.rs/s/i9gl7o/mise_en_place_frontend_your_dev_env) - [mise-en-place: The frontend to your dev env](https://mise.jdx.dev)
 * [2024-01-04, 21:50:12](https://lobste.rs/s/qucyav/zed_gpui_2_is_now_production) - [Zed: GPUI 2 is now in production](https://zed.dev/blog/gpui-2-on-preview)
 * [2024-01-04, 21:48:38](https://lobste.rs/s/thg2vv/sneak_peek_on_rails_8) - [Sneak Peek on Rails 8](https://lucas.dohmen.io/posts/2024/01/01/rails-8-sneak-peek/)
+* [2024-01-04, 21:47:01](https://lobste.rs/s/ymf7h8/ai_not_detect_ai_generated_photos_using_ai) - [AI or Not — detect AI-generated photos using AI](https://tolkunov.dev/posts/ai-or-not/)
 * [2024-01-04, 21:15:59](https://lobste.rs/s/s46dnb/world_s_smallest_png) - [The world's smallest PNG](https://evanhahn.com/worlds-smallest-png/)
 * [2024-01-04, 21:10:50](https://lobste.rs/s/m6lzvy/go_what_we_got_right_what_we_got_wrong) - [Go: What We Got Right, What We Got Wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)
 * [2024-01-04, 21:00:57](https://lobste.rs/s/nwih24/9_years_apple_text_editor_solo_dev) - [9 years of Apple text editor solo dev](https://papereditor.app/dev)
