@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-01-05, 20:52:28",
-      "https://lobste.rs/s/ucg0wl/statically_enforcing_frozen_data"
-    ],
-    [
-      "Statically enforcing frozen data classes in Python",
-      "https://rednafi.com/python/statically_enforcing_frozen_dataclasses/"
-    ]
-  ],
-  [
-    [
       "2024-01-05, 20:34:35",
       "https://lobste.rs/s/4gjj6n/dennis_ritchie_on_vs"
     ],
@@ -187,6 +177,16 @@
     [
       "Speed up your code: don't pass structs bigger than 16 bytes on AMD64",
       "https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c"
+    ]
+  ],
+  [
+    [
+      "2024-01-04, 21:50:12",
+      "https://lobste.rs/s/qucyav/zed_gpui_2_is_now_production"
+    ],
+    [
+      "Zed: GPUI 2 is now in production",
+      "https://zed.dev/blog/gpui-2-on-preview"
     ]
   ],
   [
