@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
+* [2024-01-05, 15:06:28](https://lobste.rs/s/wlnqh0/continuous_benchmarking_for_rustls) - [Continuous benchmarking for rustls](https://ochagavia.nl/blog/continuous-benchmarking-for-rustls/)
+* [2024-01-05, 15:05:34](https://lobste.rs/s/qjqbth/constraining_complexity_generics) - [Constraining Complexity in the Generics Design](https://blog.merovius.de/posts/2024-01-05_constraining_complexity/)
+* [2024-01-05, 15:01:21](https://lobste.rs/s/j3gdbz/zklocus_authenticated_private) - [zkLocus – Authenticated Private Geolocation Off and On-Chain Whitepaper](https://zklocus.dev/whitepaper/)
 * [2024-01-05, 14:07:39](https://lobste.rs/s/uawzvl/netbsd_10_0_rc2_available) - [NetBSD 10.0 RC2 available](https://blog.netbsd.org/tnf/entry/netbsd_10_0_rc2_available)
 * [2024-01-05, 13:19:34](https://lobste.rs/s/vrnsxf/greg_developer) - [Greg, the Developer](https://garrit.xyz/posts/2024-01-05-greg-the-developer)
 * [2024-01-05, 11:58:20](https://lobste.rs/s/ppwfxk/fixing_macs_door_door) - [Fixing Macs Door to Door](https://matduggan.com/fixing-macs-door-to-door/)
