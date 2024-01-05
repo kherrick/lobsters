@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-05, 14:07:39](https://lobste.rs/s/uawzvl/netbsd_10_0_rc2_available) - [NetBSD 10.0 RC2 available](https://blog.netbsd.org/tnf/entry/netbsd_10_0_rc2_available)
 * [2024-01-05, 13:19:34](https://lobste.rs/s/vrnsxf/greg_developer) - [Greg, the Developer](https://garrit.xyz/posts/2024-01-05-greg-the-developer)
 * [2024-01-05, 11:58:20](https://lobste.rs/s/ppwfxk/fixing_macs_door_door) - [Fixing Macs Door to Door](https://matduggan.com/fixing-macs-door-to-door/)
 * [2024-01-05, 11:38:14](https://lobste.rs/s/sol6jh/maestro_unix_like_kernel_operating) - [Maestro - A Unix-like kernel and operating system written in Rust](https://blog.lenot.re/a/introduction)
@@ -17,7 +18,6 @@
 * [2024-01-04, 21:15:59](https://lobste.rs/s/s46dnb/world_s_smallest_png) - [The world's smallest PNG](https://evanhahn.com/worlds-smallest-png/)
 * [2024-01-04, 21:10:50](https://lobste.rs/s/m6lzvy/go_what_we_got_right_what_we_got_wrong) - [Go: What We Got Right, What We Got Wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)
 * [2024-01-04, 21:00:57](https://lobste.rs/s/nwih24/9_years_apple_text_editor_solo_dev) - [9 years of Apple text editor solo dev](https://papereditor.app/dev)
-* [2024-01-04, 20:41:19](https://lobste.rs/s/crbrww/ghostsurn_visualize_hexagonal_tilings) - [Ghostsurn: visualize hexagonal tilings](https://logarithmic.net/ghostsurn/0.2/tile.html)
 * [2024-01-04, 19:49:41](https://lobste.rs/s/uuahhi/npm_registry_prank_leaves_developers) - [NPM registry prank leaves developers unable to unpublish packages](https://www.scmagazine.com/news/npm-registry-prank-leaves-developers-unable-to-unpublish-packages)
 * [2024-01-04, 14:57:26](https://lobste.rs/s/aqs1ma/does_your_test_suite_account_for_weak) - [Does Your Test Suite Account For Weak Transaction Isolation?](https://concerningquality.com/txn-isolation-testing/)
 * [2024-01-04, 14:23:22](https://lobste.rs/s/fndq6d/rust_ruby_art_implicit_returns) - [Rust, Ruby, and the Art of Implicit Returns](https://earthly.dev/blog/single-expression-functions/)

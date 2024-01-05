@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
+* [2024-01-05, 14:07:39](https://lobste.rs/s/uawzvl/netbsd_10_0_rc2_available) - [NetBSD 10.0 RC2 available](https://blog.netbsd.org/tnf/entry/netbsd_10_0_rc2_available)
 * [2024-01-05, 13:19:34](https://lobste.rs/s/vrnsxf/greg_developer) - [Greg, the Developer](https://garrit.xyz/posts/2024-01-05-greg-the-developer)
 * [2024-01-05, 11:58:20](https://lobste.rs/s/ppwfxk/fixing_macs_door_door) - [Fixing Macs Door to Door](https://matduggan.com/fixing-macs-door-to-door/)
 * [2024-01-05, 11:38:14](https://lobste.rs/s/sol6jh/maestro_unix_like_kernel_operating) - [Maestro - A Unix-like kernel and operating system written in Rust](https://blog.lenot.re/a/introduction)
