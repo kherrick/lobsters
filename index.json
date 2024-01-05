@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-05, 20:52:28",
+      "https://lobste.rs/s/ucg0wl/statically_enforcing_frozen_data"
+    ],
+    [
+      "Statically enforcing frozen data classes in Python",
+      "https://rednafi.com/python/statically_enforcing_frozen_dataclasses/"
+    ]
+  ],
+  [
+    [
+      "2024-01-05, 20:34:35",
+      "https://lobste.rs/s/4gjj6n/dennis_ritchie_on_vs"
+    ],
+    [
+      "Dennis Ritchie on & | vs. ==",
+      "https://www.lysator.liu.se/c/dmr-on-or.html"
+    ]
+  ],
+  [
+    [
       "2024-01-05, 20:16:54",
       "https://lobste.rs/s/89czhf/world_machine"
     ],
@@ -77,26 +97,6 @@
     [
       "Programming lessons learned from making my first game and why I'm writing my own engine in 2018",
       "https://github.com/a327ex/blog/issues/31"
-    ]
-  ],
-  [
-    [
-      "2024-01-05, 15:06:28",
-      "https://lobste.rs/s/wlnqh0/continuous_benchmarking_for_rustls"
-    ],
-    [
-      "Continuous benchmarking for rustls",
-      "https://ochagavia.nl/blog/continuous-benchmarking-for-rustls/"
-    ]
-  ],
-  [
-    [
-      "2024-01-05, 15:05:34",
-      "https://lobste.rs/s/qjqbth/constraining_complexity_generics"
-    ],
-    [
-      "Constraining Complexity in the Generics Design",
-      "https://blog.merovius.de/posts/2024-01-05_constraining_complexity/"
     ]
   ],
   [
