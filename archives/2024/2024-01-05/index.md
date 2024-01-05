@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
+* [2024-01-05, 19:28:17](https://lobste.rs/s/hqqbee/website_vs_web_app_dichotomy_doesn_t_exist) - [The Website vs. Web App Dichotomy Doesn't Exist](https://jakelazaroff.com/words/the-website-vs-web-app-dichotomy-doesnt-exist/)
 * [2024-01-05, 19:18:33](https://lobste.rs/s/mfd0q3/driverless_user_space_file_systems_for) - [Driverless User Space File Systems for Windows, macOS, and Linux](https://thelig.ht/user-space-file-systems/)
 * [2024-01-05, 18:32:50](https://lobste.rs/s/2be0kw/escape_from_zurg_exercise_logic) - [Escape from Zurg: An Exercise in Logic Programming](https://web.engr.oregonstate.edu/~erwig/papers/Zurg_JFP04.pdf)
 * [2024-01-05, 18:09:19](https://lobste.rs/s/b7bwwd/microbeast_z80_computer_kit) - [MicroBeast Z80 computer kit](https://feertech.com/microbeast/index.html)
