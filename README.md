@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-05, 17:18:11](https://lobste.rs/s/fbleeh/polars_aggregate_going_from_0_19_0_0_20_2) - [Polars in Aggregate: Going from 0.19.0 to 0.20.2](https://pola.rs/posts/polars_in_aggregrate-0.20/)
 * [2024-01-05, 16:44:49](https://lobste.rs/s/o6j60f/github_blog_turn_github_issues_into_cms) - [github-blog: Turn GitHub issues into a CMS for your blog](https://github.com/renatorib/github-blog)
 * [2024-01-05, 16:41:11](https://lobste.rs/s/qiuktd/programming_lessons_learned_from_making) - [Programming lessons learned from making my first game and why I'm writing my own engine in 2018](https://github.com/a327ex/blog/issues/31)
 * [2024-01-05, 15:06:28](https://lobste.rs/s/wlnqh0/continuous_benchmarking_for_rustls) - [Continuous benchmarking for rustls](https://ochagavia.nl/blog/continuous-benchmarking-for-rustls/)
@@ -22,7 +23,6 @@
 * [2024-01-04, 19:49:41](https://lobste.rs/s/uuahhi/npm_registry_prank_leaves_developers) - [NPM registry prank leaves developers unable to unpublish packages](https://www.scmagazine.com/news/npm-registry-prank-leaves-developers-unable-to-unpublish-packages)
 * [2024-01-04, 14:57:26](https://lobste.rs/s/aqs1ma/does_your_test_suite_account_for_weak) - [Does Your Test Suite Account For Weak Transaction Isolation?](https://concerningquality.com/txn-isolation-testing/)
 * [2024-01-04, 14:23:22](https://lobste.rs/s/fndq6d/rust_ruby_art_implicit_returns) - [Rust, Ruby, and the Art of Implicit Returns](https://earthly.dev/blog/single-expression-functions/)
-* [2024-01-04, 12:46:59](https://lobste.rs/s/d0xfd0/amber_smalltalk_for_web) - [Amber: Smalltalk for the Web](https://amber-lang.net/)
 * [2024-01-04, 10:36:12](https://lobste.rs/s/tk9zp7/how_standard_ebooks_serves_millions) - [How Standard Ebooks serves millions of requests per month with a 2GB VPS](https://alexcabal.com/posts/standard-ebooks-and-classic-web-tech)
 * [2024-01-03, 20:48:07](https://lobste.rs/s/6mwuss/niklaus_wirth_15_2_1934_1_1_2024) - [Niklaus Wirth 15.2.1934 - 1.1.2024](https://lists.inf.ethz.ch/pipermail/oberon/2024/016856.html)
 

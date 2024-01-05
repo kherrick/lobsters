@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-05](index.md)
 
+* [2024-01-05, 17:18:11](https://lobste.rs/s/fbleeh/polars_aggregate_going_from_0_19_0_0_20_2) - [Polars in Aggregate: Going from 0.19.0 to 0.20.2](https://pola.rs/posts/polars_in_aggregrate-0.20/)
 * [2024-01-05, 16:44:49](https://lobste.rs/s/o6j60f/github_blog_turn_github_issues_into_cms) - [github-blog: Turn GitHub issues into a CMS for your blog](https://github.com/renatorib/github-blog)
 * [2024-01-05, 16:41:11](https://lobste.rs/s/qiuktd/programming_lessons_learned_from_making) - [Programming lessons learned from making my first game and why I'm writing my own engine in 2018](https://github.com/a327ex/blog/issues/31)
 * [2024-01-05, 15:06:28](https://lobste.rs/s/wlnqh0/continuous_benchmarking_for_rustls) - [Continuous benchmarking for rustls](https://ochagavia.nl/blog/continuous-benchmarking-for-rustls/)
