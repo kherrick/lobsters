@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-05, 10:19:20](https://lobste.rs/s/mnqqdu/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mnqqdu/what_are_you_doing_this_weekend)
 * [2024-01-05, 09:38:22](https://lobste.rs/s/hekyng/typing_nix_env_i_should_not_try_install) - [Typing \"nix-env -i\" should not try to install every single package [2014]](https://github.com/NixOS/nix/issues/308)
 * [2024-01-05, 08:50:43](https://lobste.rs/s/typrfk/simd_pure_python) - [SIMD in Pure Python](https://www.da.vidbuchanan.co.uk/blog/python-swar.html)
 * [2024-01-05, 08:33:07](https://lobste.rs/s/jpggrr/learning_regular_languages_with_l) - [Learning Regular Languages with L* Algorithm](http://rahul.gopinath.org/post/2024/01/04/lstar-learning-regular-languages/)
@@ -21,7 +22,6 @@
 * [2024-01-04, 12:46:59](https://lobste.rs/s/d0xfd0/amber_smalltalk_for_web) - [Amber: Smalltalk for the Web](https://amber-lang.net/)
 * [2024-01-04, 12:09:20](https://lobste.rs/s/qrm0fz/ten_years_isn_t_long_enough_for_maximum_age) - [Ten years isn't long enough for maximum age settings](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TenYearsNotLongEnough)
 * [2024-01-04, 10:36:12](https://lobste.rs/s/tk9zp7/how_standard_ebooks_serves_millions) - [How Standard Ebooks serves millions of requests per month with a 2GB VPS](https://alexcabal.com/posts/standard-ebooks-and-classic-web-tech)
-* [2024-01-04, 06:29:50](https://lobste.rs/s/9ybw69/win323mu_diy_wow) - [Win323mu / DIY WOW](https://virtuallyfun.com/2024/01/04/win323mu-diy-wow/)
 * [2024-01-03, 22:54:32](https://lobste.rs/s/nc7sck/language_design_starlark_compared) - [language design of Starlark (compared to Python)](https://github.com/bazelbuild/starlark/blob/master/design.md)
 * [2024-01-03, 20:48:07](https://lobste.rs/s/6mwuss/niklaus_wirth_15_2_1934_1_1_2024) - [Niklaus Wirth 15.2.1934 - 1.1.2024](https://lists.inf.ethz.ch/pipermail/oberon/2024/016856.html)
 * [2024-01-03, 20:01:05](https://lobste.rs/s/te10p5/who_s_hiring_q12024) - [Who’s Hiring? Q12024](https://lobste.rs/s/te10p5/who_s_hiring_q12024)
