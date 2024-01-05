@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2024-01-05, 18:09:19",
+      "https://lobste.rs/s/b7bwwd/microbeast_z80_computer_kit"
+    ],
+    [
+      "MicroBeast Z80 computer kit",
+      "https://feertech.com/microbeast/index.html"
+    ]
+  ],
+  [
+    [
       "2024-01-05, 17:31:29",
       "https://lobste.rs/s/iyzluc/how_quick_is_go_compiler_can_you_use_go_for"
     ],
@@ -177,16 +187,6 @@
     [
       "Speed up your code: don't pass structs bigger than 16 bytes on AMD64",
       "https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c"
-    ]
-  ],
-  [
-    [
-      "2024-01-04, 21:50:12",
-      "https://lobste.rs/s/qucyav/zed_gpui_2_is_now_production"
-    ],
-    [
-      "Zed: GPUI 2 is now in production",
-      "https://zed.dev/blog/gpui-2-on-preview"
     ]
   ],
   [
