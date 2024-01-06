@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-06, 10:38:16](https://lobste.rs/s/krfamz/origins_j) - [The origins of J](https://github.com/kelas/ooj)
 * [2024-01-06, 07:10:15](https://lobste.rs/s/ofocle/flame_v0_6_0_data_model_query_library_for) - [Flame v0.6.0 – Data model and query library for Firestore](https://flame-odm.com/docs)
 * [2024-01-06, 06:44:20](https://lobste.rs/s/xmlkqy/systemd_through_eyes_musl_distribution) - [systemd through the eyes of a musl distribution maintainer](https://catfox.life/2024/01/05/systemd-through-the-eyes-of-a-musl-distribution-maintainer/)
 * [2024-01-05, 20:52:28](https://lobste.rs/s/ucg0wl/statically_enforcing_frozen_data) - [Statically enforcing frozen data classes in Python](https://rednafi.com/python/statically_enforcing_frozen_dataclasses/)
@@ -13,7 +14,6 @@
 * [2024-01-05, 17:31:29](https://lobste.rs/s/iyzluc/how_quick_is_go_compiler_can_you_use_go_for) - [how quick is the go compiler: can you use go for scripting?](https://flak.tedunangst.com/post/how-fast-is-the-go-compiler)
 * [2024-01-05, 17:18:11](https://lobste.rs/s/fbleeh/polars_aggregate_going_from_0_19_0_0_20_2) - [Polars in Aggregate: Going from 0.19.0 to 0.20.2](https://pola.rs/posts/polars_in_aggregrate-0.20/)
 * [2024-01-05, 16:44:49](https://lobste.rs/s/o6j60f/github_blog_turn_github_issues_into_cms) - [github-blog: Turn GitHub issues into a CMS for your blog](https://github.com/renatorib/github-blog)
-* [2024-01-05, 16:41:11](https://lobste.rs/s/qiuktd/programming_lessons_learned_from_making) - [Programming lessons learned from making my first game and why I'm writing my own engine in 2018](https://github.com/a327ex/blog/issues/31)
 * [2024-01-05, 14:07:39](https://lobste.rs/s/uawzvl/netbsd_10_0_rc2_available) - [NetBSD 10.0 RC2 available](https://blog.netbsd.org/tnf/entry/netbsd_10_0_rc2_available)
 * [2024-01-05, 13:19:34](https://lobste.rs/s/vrnsxf/greg_developer) - [Greg, the Developer](https://garrit.xyz/posts/2024-01-05-greg-the-developer)
 * [2024-01-05, 11:58:20](https://lobste.rs/s/ppwfxk/fixing_macs_door_door) - [Fixing Macs Door to Door](https://matduggan.com/fixing-macs-door-to-door/)
