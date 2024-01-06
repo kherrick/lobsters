@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-06, 07:10:15](https://lobste.rs/s/ofocle/flame_v0_6_0_data_model_query_library_for) - [Flame v0.6.0 – Data model and query library for Firestore](https://flame-odm.com/docs)
 * [2024-01-06, 06:44:20](https://lobste.rs/s/xmlkqy/systemd_through_eyes_musl_distribution) - [systemd through the eyes of a musl distribution maintainer](https://catfox.life/2024/01/05/systemd-through-the-eyes-of-a-musl-distribution-maintainer/)
 * [2024-01-05, 20:52:28](https://lobste.rs/s/ucg0wl/statically_enforcing_frozen_data) - [Statically enforcing frozen data classes in Python](https://rednafi.com/python/statically_enforcing_frozen_dataclasses/)
 * [2024-01-05, 20:36:38](https://lobste.rs/s/ciw1be/do_we_think_git_commits_as_diffs_snapshots) - [Do we think of git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/)
@@ -23,7 +24,6 @@
 * [2024-01-05, 03:29:19](https://lobste.rs/s/cwzbej/speed_up_your_code_don_t_pass_structs) - [Speed up your code: don't pass structs bigger than 16 bytes on AMD64](https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c)
 * [2024-01-04, 21:15:59](https://lobste.rs/s/s46dnb/world_s_smallest_png) - [The world's smallest PNG](https://evanhahn.com/worlds-smallest-png/)
 * [2024-01-04, 21:10:50](https://lobste.rs/s/m6lzvy/go_what_we_got_right_what_we_got_wrong) - [Go: What We Got Right, What We Got Wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)
-* [2024-01-04, 21:00:57](https://lobste.rs/s/nwih24/9_years_apple_text_editor_solo_dev) - [9 years of Apple text editor solo dev](https://papereditor.app/dev)
 * [2024-01-04, 19:49:41](https://lobste.rs/s/uuahhi/npm_registry_prank_leaves_developers) - [NPM registry prank leaves developers unable to unpublish packages](https://www.scmagazine.com/news/npm-registry-prank-leaves-developers-unable-to-unpublish-packages)
 
 ## [Archives](archives/index.md)
