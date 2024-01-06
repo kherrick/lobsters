@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-06](index.md)
 
+* [2024-01-06, 17:01:13](https://lobste.rs/s/g3ivsd/scheme_modules_vs_whole_program) - [scheme modules vs whole-program compilation: fight](http://wingolog.org/archives/2024/01/05/scheme-modules-vs-whole-program-compilation-fight)
+* [2024-01-06, 16:55:54](https://lobste.rs/s/0vwhcl/sharing_project_mine_email2json_com) - [Sharing a project of mine:email2json.com - emails as json webhook - what do you think?](https://www.email2json.com)
 * [2024-01-06, 16:48:40](https://lobste.rs/s/rxntmu/it_s_2024_what_would_be_your_ideal_blogging) - [It's 2024. What would be your ideal blogging service?](https://lobste.rs/s/rxntmu/it_s_2024_what_would_be_your_ideal_blogging)
 * [2024-01-06, 15:20:08](https://lobste.rs/s/tudkzh/tex_oberon_make_project_oberon_pretty) - [tex-oberon: Make Project Oberon Pretty Again](https://github.com/guidoism/tex-oberon)
 * [2024-01-06, 14:05:30](https://lobste.rs/s/qmzizu/why_bad_scientific_code_beats_code) - [Why bad scientific code beats code following \"best practices\" (2014)](https://yosefk.com/blog/why-bad-scientific-code-beats-code-following-best-practices.html)
