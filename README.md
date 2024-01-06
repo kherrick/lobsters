@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-06, 22:15:59](https://lobste.rs/s/jflhxp/stream_chromecast_with_resolved_vlc_bash) - [Stream to chromecast with resolved, vlc and bash](https://linderud.dev/blog/stream-to-chromecast-with-resolved-vlc-and-bash/)
 * [2024-01-06, 18:58:47](https://lobste.rs/s/vxs91a/antlir2_deterministic_image_builds_with) - [antlir2: Deterministic image builds with buck2](https://media.ccc.de/v/all-systems-go-2023-223-antlir2-deterministic-image-builds-with-buck2)
 * [2024-01-06, 17:01:13](https://lobste.rs/s/g3ivsd/scheme_modules_vs_whole_program) - [scheme modules vs whole-program compilation: fight](http://wingolog.org/archives/2024/01/05/scheme-modules-vs-whole-program-compilation-fight)
 * [2024-01-06, 16:55:54](https://lobste.rs/s/0vwhcl/sharing_project_mine_email2json_com) - [Sharing a project of mine:email2json.com - emails as json webhook - what do you think?](https://www.email2json.com)
@@ -23,7 +24,6 @@
 * [2024-01-05, 11:58:20](https://lobste.rs/s/ppwfxk/fixing_macs_door_door) - [Fixing Macs Door to Door](https://matduggan.com/fixing-macs-door-to-door/)
 * [2024-01-05, 11:38:14](https://lobste.rs/s/sol6jh/maestro_unix_like_kernel_operating) - [Maestro - A Unix-like kernel and operating system written in Rust](https://blog.lenot.re/a/introduction)
 * [2024-01-05, 09:38:22](https://lobste.rs/s/hekyng/typing_nix_env_i_should_not_try_install) - [Typing \"nix-env -i\" should not try to install every single package [2014]](https://github.com/NixOS/nix/issues/308)
-* [2024-01-04, 21:10:50](https://lobste.rs/s/m6lzvy/go_what_we_got_right_what_we_got_wrong) - [Go: What We Got Right, What We Got Wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)
 * [2024-01-04, 19:49:41](https://lobste.rs/s/uuahhi/npm_registry_prank_leaves_developers) - [NPM registry prank leaves developers unable to unpublish packages](https://www.scmagazine.com/news/npm-registry-prank-leaves-developers-unable-to-unpublish-packages)
 
 ## [Archives](archives/index.md)
