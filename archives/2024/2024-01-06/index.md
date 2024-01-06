@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-06](index.md)
 
+* [2024-01-06, 18:58:47](https://lobste.rs/s/vxs91a/antlir2_deterministic_image_builds_with) - [antlir2: Deterministic image builds with buck2](https://media.ccc.de/v/all-systems-go-2023-223-antlir2-deterministic-image-builds-with-buck2)
 * [2024-01-06, 17:01:13](https://lobste.rs/s/g3ivsd/scheme_modules_vs_whole_program) - [scheme modules vs whole-program compilation: fight](http://wingolog.org/archives/2024/01/05/scheme-modules-vs-whole-program-compilation-fight)
 * [2024-01-06, 16:55:54](https://lobste.rs/s/0vwhcl/sharing_project_mine_email2json_com) - [Sharing a project of mine:email2json.com - emails as json webhook - what do you think?](https://www.email2json.com)
 * [2024-01-06, 16:48:40](https://lobste.rs/s/rxntmu/it_s_2024_what_would_be_your_ideal_blogging) - [It's 2024. What would be your ideal blogging service?](https://lobste.rs/s/rxntmu/it_s_2024_what_would_be_your_ideal_blogging)
