@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-05, 20:52:28",
+      "https://lobste.rs/s/ucg0wl/statically_enforcing_frozen_data"
+    ],
+    [
+      "Statically enforcing frozen data classes in Python",
+      "https://rednafi.com/python/statically_enforcing_frozen_dataclasses/"
+    ]
+  ],
+  [
+    [
       "2024-01-05, 20:36:38",
       "https://lobste.rs/s/ciw1be/do_we_think_git_commits_as_diffs_snapshots"
     ],
@@ -67,16 +77,6 @@
     [
       "Escape from Zurg: An Exercise in Logic Programming",
       "https://web.engr.oregonstate.edu/~erwig/papers/Zurg_JFP04.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-01-05, 18:09:19",
-      "https://lobste.rs/s/b7bwwd/microbeast_z80_computer_kit"
-    ],
-    [
-      "MicroBeast Z80 computer kit",
-      "https://feertech.com/microbeast/index.html"
     ]
   ],
   [
