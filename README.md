@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-06, 13:45:44](https://lobste.rs/s/yklqbo/nato_software_engineering_conferences) - [NATO Software Engineering Conferences](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/index.html)
 * [2024-01-06, 13:11:36](https://lobste.rs/s/jvxez2/browser_code_playgrounds) - [In-browser code playgrounds](https://antonz.org/in-browser-code-playgrounds/)
 * [2024-01-06, 12:16:43](https://lobste.rs/s/jovly2/better_publishing_workflow_for_static) - [A better publishing workflow for static blogs](https://garrit.xyz/posts/2024-01-06-a-better-publishing-workflow-for-static-blogs)
 * [2024-01-06, 10:38:16](https://lobste.rs/s/krfamz/origins_j) - [The origins of J](https://github.com/kelas/ooj)
@@ -20,7 +21,6 @@
 * [2024-01-05, 11:58:20](https://lobste.rs/s/ppwfxk/fixing_macs_door_door) - [Fixing Macs Door to Door](https://matduggan.com/fixing-macs-door-to-door/)
 * [2024-01-05, 11:38:14](https://lobste.rs/s/sol6jh/maestro_unix_like_kernel_operating) - [Maestro - A Unix-like kernel and operating system written in Rust](https://blog.lenot.re/a/introduction)
 * [2024-01-05, 09:38:22](https://lobste.rs/s/hekyng/typing_nix_env_i_should_not_try_install) - [Typing \"nix-env -i\" should not try to install every single package [2014]](https://github.com/NixOS/nix/issues/308)
-* [2024-01-05, 08:33:07](https://lobste.rs/s/jpggrr/learning_regular_languages_with_l) - [Learning Regular Languages with L* Algorithm](http://rahul.gopinath.org/post/2024/01/04/lstar-learning-regular-languages/)
 * [2024-01-05, 03:29:19](https://lobste.rs/s/cwzbej/speed_up_your_code_don_t_pass_structs) - [Speed up your code: don't pass structs bigger than 16 bytes on AMD64](https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c)
 * [2024-01-04, 21:15:59](https://lobste.rs/s/s46dnb/world_s_smallest_png) - [The world's smallest PNG](https://evanhahn.com/worlds-smallest-png/)
 * [2024-01-04, 21:10:50](https://lobste.rs/s/m6lzvy/go_what_we_got_right_what_we_got_wrong) - [Go: What We Got Right, What We Got Wrong](https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html)

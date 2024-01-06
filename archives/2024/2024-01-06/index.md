@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-06](index.md)
 
+* [2024-01-06, 13:45:44](https://lobste.rs/s/yklqbo/nato_software_engineering_conferences) - [NATO Software Engineering Conferences](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/index.html)
 * [2024-01-06, 13:11:36](https://lobste.rs/s/jvxez2/browser_code_playgrounds) - [In-browser code playgrounds](https://antonz.org/in-browser-code-playgrounds/)
 * [2024-01-06, 12:16:43](https://lobste.rs/s/jovly2/better_publishing_workflow_for_static) - [A better publishing workflow for static blogs](https://garrit.xyz/posts/2024-01-06-a-better-publishing-workflow-for-static-blogs)
 * [2024-01-06, 10:38:16](https://lobste.rs/s/krfamz/origins_j) - [The origins of J](https://github.com/kelas/ooj)
