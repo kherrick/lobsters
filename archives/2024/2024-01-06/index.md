@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-06](index.md)
 
+* [2024-01-06, 14:05:30](https://lobste.rs/s/qmzizu/why_bad_scientific_code_beats_code) - [Why bad scientific code beats code following \"best practices\" (2014)](https://yosefk.com/blog/why-bad-scientific-code-beats-code-following-best-practices.html)
 * [2024-01-06, 13:45:44](https://lobste.rs/s/yklqbo/nato_software_engineering_conferences) - [NATO Software Engineering Conferences](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/index.html)
 * [2024-01-06, 13:11:36](https://lobste.rs/s/jvxez2/browser_code_playgrounds) - [In-browser code playgrounds](https://antonz.org/in-browser-code-playgrounds/)
 * [2024-01-06, 12:16:43](https://lobste.rs/s/jovly2/better_publishing_workflow_for_static) - [A better publishing workflow for static blogs](https://garrit.xyz/posts/2024-01-06-a-better-publishing-workflow-for-static-blogs)
