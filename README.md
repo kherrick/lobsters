@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-06, 16:48:40](https://lobste.rs/s/rxntmu/it_s_2024_what_would_be_your_ideal_blogging) - [It's 2024. What would be your ideal blogging service?](https://lobste.rs/s/rxntmu/it_s_2024_what_would_be_your_ideal_blogging)
 * [2024-01-06, 15:20:08](https://lobste.rs/s/tudkzh/tex_oberon_make_project_oberon_pretty) - [tex-oberon: Make Project Oberon Pretty Again](https://github.com/guidoism/tex-oberon)
 * [2024-01-06, 14:05:30](https://lobste.rs/s/qmzizu/why_bad_scientific_code_beats_code) - [Why bad scientific code beats code following \"best practices\" (2014)](https://yosefk.com/blog/why-bad-scientific-code-beats-code-following-best-practices.html)
 * [2024-01-06, 13:45:44](https://lobste.rs/s/yklqbo/nato_software_engineering_conferences) - [NATO Software Engineering Conferences](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/index.html)
@@ -14,7 +15,6 @@
 * [2024-01-05, 20:16:54](https://lobste.rs/s/89czhf/world_machine) - [The World and the Machine](https://www.hillelwayne.com/post/world-vs-machine/)
 * [2024-01-05, 19:28:17](https://lobste.rs/s/hqqbee/website_vs_web_app_dichotomy_doesn_t_exist) - [The Website vs. Web App Dichotomy Doesn't Exist](https://jakelazaroff.com/words/the-website-vs-web-app-dichotomy-doesnt-exist/)
 * [2024-01-05, 19:18:33](https://lobste.rs/s/mfd0q3/driverless_user_space_file_systems_for) - [Driverless User Space File Systems for Windows, macOS, and Linux](https://thelig.ht/user-space-file-systems/)
-* [2024-01-05, 18:32:50](https://lobste.rs/s/2be0kw/escape_from_zurg_exercise_logic) - [Escape from Zurg: An Exercise in Logic Programming](https://web.engr.oregonstate.edu/~erwig/papers/Zurg_JFP04.pdf)
 * [2024-01-05, 17:31:29](https://lobste.rs/s/iyzluc/how_quick_is_go_compiler_can_you_use_go_for) - [how quick is the go compiler: can you use go for scripting?](https://flak.tedunangst.com/post/how-fast-is-the-go-compiler)
 * [2024-01-05, 14:07:39](https://lobste.rs/s/uawzvl/netbsd_10_0_rc2_available) - [NetBSD 10.0 RC2 available](https://blog.netbsd.org/tnf/entry/netbsd_10_0_rc2_available)
 * [2024-01-05, 13:19:34](https://lobste.rs/s/vrnsxf/greg_developer) - [Greg, the Developer](https://garrit.xyz/posts/2024-01-05-greg-the-developer)

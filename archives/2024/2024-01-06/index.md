@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-06](index.md)
 
+* [2024-01-06, 16:48:40](https://lobste.rs/s/rxntmu/it_s_2024_what_would_be_your_ideal_blogging) - [It's 2024. What would be your ideal blogging service?](https://lobste.rs/s/rxntmu/it_s_2024_what_would_be_your_ideal_blogging)
 * [2024-01-06, 15:20:08](https://lobste.rs/s/tudkzh/tex_oberon_make_project_oberon_pretty) - [tex-oberon: Make Project Oberon Pretty Again](https://github.com/guidoism/tex-oberon)
 * [2024-01-06, 14:05:30](https://lobste.rs/s/qmzizu/why_bad_scientific_code_beats_code) - [Why bad scientific code beats code following \"best practices\" (2014)](https://yosefk.com/blog/why-bad-scientific-code-beats-code-following-best-practices.html)
 * [2024-01-06, 13:45:44](https://lobste.rs/s/yklqbo/nato_software_engineering_conferences) - [NATO Software Engineering Conferences](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/index.html)
