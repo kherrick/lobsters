@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-06, 18:58:47",
+      "https://lobste.rs/s/vxs91a/antlir2_deterministic_image_builds_with"
+    ],
+    [
+      "antlir2: Deterministic image builds with buck2",
+      "https://media.ccc.de/v/all-systems-go-2023-223-antlir2-deterministic-image-builds-with-buck2"
+    ]
+  ],
+  [
+    [
       "2024-01-06, 17:01:13",
       "https://lobste.rs/s/g3ivsd/scheme_modules_vs_whole_program"
     ],
@@ -217,16 +227,6 @@
     [
       "Typing \"nix-env -i\" should not try to install every single package [2014]",
       "https://github.com/NixOS/nix/issues/308"
-    ]
-  ],
-  [
-    [
-      "2024-01-05, 03:29:19",
-      "https://lobste.rs/s/cwzbej/speed_up_your_code_don_t_pass_structs"
-    ],
-    [
-      "Speed up your code: don't pass structs bigger than 16 bytes on AMD64",
-      "https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c"
     ]
   ],
   [
