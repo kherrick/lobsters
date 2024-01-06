@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-06, 12:16:43",
+      "https://lobste.rs/s/jovly2/better_publishing_workflow_for_static"
+    ],
+    [
+      "A better publishing workflow for static blogs",
+      "https://garrit.xyz/posts/2024-01-06-a-better-publishing-workflow-for-static-blogs"
+    ]
+  ],
+  [
+    [
       "2024-01-06, 10:38:16",
       "https://lobste.rs/s/krfamz/origins_j"
     ],
@@ -117,16 +127,6 @@
     [
       "Polars in Aggregate: Going from 0.19.0 to 0.20.2",
       "https://pola.rs/posts/polars_in_aggregrate-0.20/"
-    ]
-  ],
-  [
-    [
-      "2024-01-05, 16:44:49",
-      "https://lobste.rs/s/o6j60f/github_blog_turn_github_issues_into_cms"
-    ],
-    [
-      "github-blog: Turn GitHub issues into a CMS for your blog",
-      "https://github.com/renatorib/github-blog"
     ]
   ],
   [
