@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-06, 13:45:44",
+      "https://lobste.rs/s/yklqbo/nato_software_engineering_conferences"
+    ],
+    [
+      "NATO Software Engineering Conferences",
+      "http://homepages.cs.ncl.ac.uk/brian.randell/NATO/index.html"
+    ]
+  ],
+  [
+    [
       "2024-01-06, 13:11:36",
       "https://lobste.rs/s/jvxez2/browser_code_playgrounds"
     ],
@@ -197,16 +207,6 @@
     [
       "Typing \"nix-env -i\" should not try to install every single package [2014]",
       "https://github.com/NixOS/nix/issues/308"
-    ]
-  ],
-  [
-    [
-      "2024-01-05, 08:33:07",
-      "https://lobste.rs/s/jpggrr/learning_regular_languages_with_l"
-    ],
-    [
-      "Learning Regular Languages with L* Algorithm",
-      "http://rahul.gopinath.org/post/2024/01/04/lstar-learning-regular-languages/"
     ]
   ],
   [
