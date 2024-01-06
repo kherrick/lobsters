@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-06, 22:15:59",
+      "https://lobste.rs/s/jflhxp/stream_chromecast_with_resolved_vlc_bash"
+    ],
+    [
+      "Stream to chromecast with resolved, vlc and bash",
+      "https://linderud.dev/blog/stream-to-chromecast-with-resolved-vlc-and-bash/"
+    ]
+  ],
+  [
+    [
       "2024-01-06, 18:58:47",
       "https://lobste.rs/s/vxs91a/antlir2_deterministic_image_builds_with"
     ],
@@ -227,16 +237,6 @@
     [
       "Typing \"nix-env -i\" should not try to install every single package [2014]",
       "https://github.com/NixOS/nix/issues/308"
-    ]
-  ],
-  [
-    [
-      "2024-01-04, 21:10:50",
-      "https://lobste.rs/s/m6lzvy/go_what_we_got_right_what_we_got_wrong"
-    ],
-    [
-      "Go: What We Got Right, What We Got Wrong",
-      "https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html"
     ]
   ],
   [
