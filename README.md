@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-07, 22:13:08](https://lobste.rs/s/0b584x/sleeping_through_decade_cocoa) - [Sleeping through a decade of Cocoa: Retrospective from modernizing an old Mac app](https://sporks.space/2024/01/07/sleeping-through-a-decade-of-cocoa-retrospective-from-modernizing-an-old-mac-app/)
 * [2024-01-07, 21:12:37](https://lobste.rs/s/vqhoab/self_hosting_educational_c_optimizing) - [A self-hosting and educational C optimizing compiler](https://github.com/sysprog21/shecc)
 * [2024-01-07, 19:19:32](https://lobste.rs/s/ydeoe3/common_lisp_s_block_return_from_unwind) - [Common Lisp's BLOCK / RETURN-FROM and UNWIND-PROTECT](https://axisofeval.blogspot.com/2024/01/common-lisps-block-return-from-and.html)
 * [2024-01-07, 19:18:20](https://lobste.rs/s/qqmboh/real_world_choreographic_programming) - [Real-World Choreographic Programming: Full-Duplex Asynchrony and Interoperability](https://programming-journal.org/2024/8/8/)
@@ -23,7 +24,6 @@
 * [2024-01-06, 12:16:43](https://lobste.rs/s/jovly2/better_publishing_workflow_for_static) - [A better publishing workflow for static blogs](https://garrit.xyz/posts/2024-01-06-a-better-publishing-workflow-for-static-blogs)
 * [2024-01-06, 10:38:16](https://lobste.rs/s/krfamz/origins_j) - [The origins of J](https://github.com/kelas/ooj)
 * [2024-01-06, 06:44:20](https://lobste.rs/s/xmlkqy/systemd_through_eyes_musl_distribution) - [systemd through the eyes of a musl distribution maintainer](https://catfox.life/2024/01/05/systemd-through-the-eyes-of-a-musl-distribution-maintainer/)
-* [2024-01-05, 20:21:26](https://lobste.rs/s/yw1vse/gpt_500_lines_sql) - [GPT in 500 lines of SQL](https://explainextended.com/2023/12/31/happy-new-year-15/)
 * [2024-01-05, 11:58:20](https://lobste.rs/s/ppwfxk/fixing_macs_door_door) - [Fixing Macs Door to Door](https://matduggan.com/fixing-macs-door-to-door/)
 
 ## [Archives](archives/index.md)

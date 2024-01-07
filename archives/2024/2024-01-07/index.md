@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-07](index.md)
 
+* [2024-01-07, 22:13:08](https://lobste.rs/s/0b584x/sleeping_through_decade_cocoa) - [Sleeping through a decade of Cocoa: Retrospective from modernizing an old Mac app](https://sporks.space/2024/01/07/sleeping-through-a-decade-of-cocoa-retrospective-from-modernizing-an-old-mac-app/)
 * [2024-01-07, 21:12:37](https://lobste.rs/s/vqhoab/self_hosting_educational_c_optimizing) - [A self-hosting and educational C optimizing compiler](https://github.com/sysprog21/shecc)
 * [2024-01-07, 19:19:32](https://lobste.rs/s/ydeoe3/common_lisp_s_block_return_from_unwind) - [Common Lisp's BLOCK / RETURN-FROM and UNWIND-PROTECT](https://axisofeval.blogspot.com/2024/01/common-lisps-block-return-from-and.html)
 * [2024-01-07, 19:18:20](https://lobste.rs/s/qqmboh/real_world_choreographic_programming) - [Real-World Choreographic Programming: Full-Duplex Asynchrony and Interoperability](https://programming-journal.org/2024/8/8/)
