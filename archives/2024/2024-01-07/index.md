@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-07](index.md)
 
+* [2024-01-07, 14:35:04](https://lobste.rs/s/jjfexp/dnssec_root_signing_ceremony) - [The DNSSEC Root Signing Ceremony](https://www.cloudflare.com/dns/dnssec/root-signing-ceremony/)
 * [2024-01-07, 14:11:26](https://lobste.rs/s/keqheq/how_i_built_fully_offline_smart_home_why) - [How I built a fully offline smart home, and why you should too](https://www.androidauthority.com/offline-smart-home-3398608/)
 * [2024-01-07, 12:25:58](https://lobste.rs/s/gcilwl/it_s_ok_call_it_artificial_intelligence) - [It’s OK to call it Artificial Intelligence](https://simonwillison.net/2024/Jan/7/call-it-ai/)
 * [2024-01-07, 09:47:49](https://lobste.rs/s/pvp6w8/first_month_nothin_postmarketos) - [First month of nothin' but postmarketOS](https://blog.craftyguy.net/one-month-pmos/)

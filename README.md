@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-07, 14:35:04](https://lobste.rs/s/jjfexp/dnssec_root_signing_ceremony) - [The DNSSEC Root Signing Ceremony](https://www.cloudflare.com/dns/dnssec/root-signing-ceremony/)
 * [2024-01-07, 14:11:26](https://lobste.rs/s/keqheq/how_i_built_fully_offline_smart_home_why) - [How I built a fully offline smart home, and why you should too](https://www.androidauthority.com/offline-smart-home-3398608/)
 * [2024-01-07, 12:25:58](https://lobste.rs/s/gcilwl/it_s_ok_call_it_artificial_intelligence) - [It’s OK to call it Artificial Intelligence](https://simonwillison.net/2024/Jan/7/call-it-ai/)
 * [2024-01-07, 09:47:49](https://lobste.rs/s/pvp6w8/first_month_nothin_postmarketos) - [First month of nothin' but postmarketOS](https://blog.craftyguy.net/one-month-pmos/)
@@ -23,7 +24,6 @@
 * [2024-01-05, 20:34:35](https://lobste.rs/s/4gjj6n/dennis_ritchie_on_vs) - [Dennis Ritchie on & | vs. ==](https://www.lysator.liu.se/c/dmr-on-or.html)
 * [2024-01-05, 20:21:26](https://lobste.rs/s/yw1vse/gpt_500_lines_sql) - [GPT in 500 lines of SQL](https://explainextended.com/2023/12/31/happy-new-year-15/)
 * [2024-01-05, 19:18:33](https://lobste.rs/s/mfd0q3/driverless_user_space_file_systems_for) - [Driverless User Space File Systems for Windows, macOS, and Linux](https://thelig.ht/user-space-file-systems/)
-* [2024-01-05, 17:31:29](https://lobste.rs/s/iyzluc/how_quick_is_go_compiler_can_you_use_go_for) - [how quick is the go compiler: can you use go for scripting?](https://flak.tedunangst.com/post/how-fast-is-the-go-compiler)
 * [2024-01-05, 11:58:20](https://lobste.rs/s/ppwfxk/fixing_macs_door_door) - [Fixing Macs Door to Door](https://matduggan.com/fixing-macs-door-to-door/)
 
 ## [Archives](archives/index.md)
