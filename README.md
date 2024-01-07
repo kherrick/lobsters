@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-07, 09:47:49](https://lobste.rs/s/pvp6w8/first_month_nothin_postmarketos) - [First month of nothin' but postmarketOS](https://blog.craftyguy.net/one-month-pmos/)
 * [2024-01-07, 09:07:32](https://lobste.rs/s/nhjikd/weird_things_engineers_believe_about_web) - [Weird things engineers believe about Web development](https://birtles.blog/2024/01/06/weird-things-engineers-believe-about-development/)
 * [2024-01-07, 03:43:29](https://lobste.rs/s/jbrcpv/linux_tpms) - [Linux & TPMs](https://media.ccc.de/v/all-systems-go-2023-186-linux-tpms)
 * [2024-01-07, 03:20:05](https://lobste.rs/s/tb2dna/automate_your_outgoing_webmentions_with) - [Automate your outgoing webmentions with Webmention.app](https://webmention.app/)
@@ -15,7 +16,6 @@
 * [2024-01-06, 13:11:36](https://lobste.rs/s/jvxez2/browser_code_playgrounds) - [In-browser code playgrounds](https://antonz.org/in-browser-code-playgrounds/)
 * [2024-01-06, 12:16:43](https://lobste.rs/s/jovly2/better_publishing_workflow_for_static) - [A better publishing workflow for static blogs](https://garrit.xyz/posts/2024-01-06-a-better-publishing-workflow-for-static-blogs)
 * [2024-01-06, 10:38:16](https://lobste.rs/s/krfamz/origins_j) - [The origins of J](https://github.com/kelas/ooj)
-* [2024-01-06, 07:10:15](https://lobste.rs/s/ofocle/flame_v0_6_0_data_model_query_library_for) - [Flame v0.6.0 – Data model and query library for Firestore](https://flame-odm.com/docs)
 * [2024-01-06, 06:44:20](https://lobste.rs/s/xmlkqy/systemd_through_eyes_musl_distribution) - [systemd through the eyes of a musl distribution maintainer](https://catfox.life/2024/01/05/systemd-through-the-eyes-of-a-musl-distribution-maintainer/)
 * [2024-01-05, 20:36:38](https://lobste.rs/s/ciw1be/do_we_think_git_commits_as_diffs_snapshots) - [Do we think of git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/)
 * [2024-01-05, 20:34:35](https://lobste.rs/s/4gjj6n/dennis_ritchie_on_vs) - [Dennis Ritchie on & | vs. ==](https://www.lysator.liu.se/c/dmr-on-or.html)
