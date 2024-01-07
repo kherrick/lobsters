@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-07, 16:36:13",
+      "https://lobste.rs/s/v5p9e2/using_zig_commit_toolchains_vcs"
+    ],
+    [
+      "Using Zig to Commit Toolchains to VCS",
+      "https://www.forrestthewoods.com/blog/using-zig-to-commit-toolchains-to-vcs/"
+    ]
+  ],
+  [
+    [
       "2024-01-07, 14:35:04",
       "https://lobste.rs/s/jjfexp/dnssec_root_signing_ceremony"
     ],
@@ -197,16 +207,6 @@
     [
       "systemd through the eyes of a musl distribution maintainer",
       "https://catfox.life/2024/01/05/systemd-through-the-eyes-of-a-musl-distribution-maintainer/"
-    ]
-  ],
-  [
-    [
-      "2024-01-05, 20:36:38",
-      "https://lobste.rs/s/ciw1be/do_we_think_git_commits_as_diffs_snapshots"
-    ],
-    [
-      "Do we think of git commits as diffs, snapshots, and/or histories?",
-      "https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/"
     ]
   ],
   [
