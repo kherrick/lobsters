@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-07, 03:20:05](https://lobste.rs/s/tb2dna/automate_your_outgoing_webmentions_with) - [Automate your outgoing webmentions with Webmention.app](https://webmention.app/)
+* [2024-01-07, 03:17:31](https://lobste.rs/s/vqczfd/learnable_programming) - [Learnable Programming](http://worrydream.com/LearnableProgramming/)
 * [2024-01-07, 02:08:03](https://lobste.rs/s/qvgxq3/retrospective_on_viberary) - [Retrospective on Viberary](https://vickiboykis.com/2024/01/05/retro-on-viberary/)
 * [2024-01-06, 22:15:59](https://lobste.rs/s/jflhxp/stream_chromecast_with_resolved_vlc_bash) - [Stream to chromecast with resolved, vlc and bash](https://linderud.dev/blog/stream-to-chromecast-with-resolved-vlc-and-bash/)
 * [2024-01-06, 18:58:47](https://lobste.rs/s/vxs91a/antlir2_deterministic_image_builds_with) - [antlir2: Deterministic image builds with buck2](https://media.ccc.de/v/all-systems-go-2023-223-antlir2-deterministic-image-builds-with-buck2)
@@ -21,10 +23,8 @@
 * [2024-01-05, 19:18:33](https://lobste.rs/s/mfd0q3/driverless_user_space_file_systems_for) - [Driverless User Space File Systems for Windows, macOS, and Linux](https://thelig.ht/user-space-file-systems/)
 * [2024-01-05, 17:31:29](https://lobste.rs/s/iyzluc/how_quick_is_go_compiler_can_you_use_go_for) - [how quick is the go compiler: can you use go for scripting?](https://flak.tedunangst.com/post/how-fast-is-the-go-compiler)
 * [2024-01-05, 14:07:39](https://lobste.rs/s/uawzvl/netbsd_10_0_rc2_available) - [NetBSD 10.0 RC2 available](https://blog.netbsd.org/tnf/entry/netbsd_10_0_rc2_available)
-* [2024-01-05, 13:19:34](https://lobste.rs/s/vrnsxf/greg_developer) - [Greg, the Developer](https://garrit.xyz/posts/2024-01-05-greg-the-developer)
 * [2024-01-05, 11:58:20](https://lobste.rs/s/ppwfxk/fixing_macs_door_door) - [Fixing Macs Door to Door](https://matduggan.com/fixing-macs-door-to-door/)
 * [2024-01-05, 11:38:14](https://lobste.rs/s/sol6jh/maestro_unix_like_kernel_operating) - [Maestro - A Unix-like kernel and operating system written in Rust](https://blog.lenot.re/a/introduction)
-* [2024-01-05, 09:38:22](https://lobste.rs/s/hekyng/typing_nix_env_i_should_not_try_install) - [Typing \"nix-env -i\" should not try to install every single package [2014]](https://github.com/NixOS/nix/issues/308)
 
 ## [Archives](archives/index.md)
 
