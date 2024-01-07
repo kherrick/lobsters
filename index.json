@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-07, 03:20:05",
+      "https://lobste.rs/s/tb2dna/automate_your_outgoing_webmentions_with"
+    ],
+    [
+      "Automate your outgoing webmentions with Webmention.app",
+      "https://webmention.app/"
+    ]
+  ],
+  [
+    [
+      "2024-01-07, 03:17:31",
+      "https://lobste.rs/s/vqczfd/learnable_programming"
+    ],
+    [
+      "Learnable Programming",
+      "http://worrydream.com/LearnableProgramming/"
+    ]
+  ],
+  [
+    [
       "2024-01-07, 02:08:03",
       "https://lobste.rs/s/qvgxq3/retrospective_on_viberary"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-01-05, 13:19:34",
-      "https://lobste.rs/s/vrnsxf/greg_developer"
-    ],
-    [
-      "Greg, the Developer",
-      "https://garrit.xyz/posts/2024-01-05-greg-the-developer"
-    ]
-  ],
-  [
-    [
       "2024-01-05, 11:58:20",
       "https://lobste.rs/s/ppwfxk/fixing_macs_door_door"
     ],
@@ -237,16 +247,6 @@
     [
       "Maestro - A Unix-like kernel and operating system written in Rust",
       "https://blog.lenot.re/a/introduction"
-    ]
-  ],
-  [
-    [
-      "2024-01-05, 09:38:22",
-      "https://lobste.rs/s/hekyng/typing_nix_env_i_should_not_try_install"
-    ],
-    [
-      "Typing \"nix-env -i\" should not try to install every single package [2014]",
-      "https://github.com/NixOS/nix/issues/308"
     ]
   ]
 ]
