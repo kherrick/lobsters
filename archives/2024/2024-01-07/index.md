@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-07](index.md)
 
+* [2024-01-07, 18:27:19](https://lobste.rs/s/fi5w51/why_would_you_still_want_use_strace_2023) - [Why would you still want to use strace in 2023?](https://media.ccc.de/v/all-systems-go-2023-228-why-would-you-still-want-to-use-strace-in-2023-)
+* [2024-01-07, 18:26:11](https://lobste.rs/s/osph4f/expr_release_v1_15_8) - [Expr release v1.15.8](https://github.com/expr-lang/expr/releases/tag/v1.15.8)
 * [2024-01-07, 16:36:13](https://lobste.rs/s/v5p9e2/using_zig_commit_toolchains_vcs) - [Using Zig to Commit Toolchains to VCS](https://www.forrestthewoods.com/blog/using-zig-to-commit-toolchains-to-vcs/)
 * [2024-01-07, 14:35:04](https://lobste.rs/s/jjfexp/dnssec_root_signing_ceremony) - [The DNSSEC Root Signing Ceremony](https://www.cloudflare.com/dns/dnssec/root-signing-ceremony/)
 * [2024-01-07, 14:11:26](https://lobste.rs/s/keqheq/how_i_built_fully_offline_smart_home_why) - [How I built a fully offline smart home, and why you should too](https://www.androidauthority.com/offline-smart-home-3398608/)
