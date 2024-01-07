@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-07, 14:35:04",
+      "https://lobste.rs/s/jjfexp/dnssec_root_signing_ceremony"
+    ],
+    [
+      "The DNSSEC Root Signing Ceremony",
+      "https://www.cloudflare.com/dns/dnssec/root-signing-ceremony/"
+    ]
+  ],
+  [
+    [
       "2024-01-07, 14:11:26",
       "https://lobste.rs/s/keqheq/how_i_built_fully_offline_smart_home_why"
     ],
@@ -227,16 +237,6 @@
     [
       "Driverless User Space File Systems for Windows, macOS, and Linux",
       "https://thelig.ht/user-space-file-systems/"
-    ]
-  ],
-  [
-    [
-      "2024-01-05, 17:31:29",
-      "https://lobste.rs/s/iyzluc/how_quick_is_go_compiler_can_you_use_go_for"
-    ],
-    [
-      "how quick is the go compiler: can you use go for scripting?",
-      "https://flak.tedunangst.com/post/how-fast-is-the-go-compiler"
     ]
   ],
   [
