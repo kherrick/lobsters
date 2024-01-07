@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-07, 02:08:03",
+      "https://lobste.rs/s/qvgxq3/retrospective_on_viberary"
+    ],
+    [
+      "Retrospective on Viberary",
+      "https://vickiboykis.com/2024/01/05/retro-on-viberary/"
+    ]
+  ],
+  [
+    [
       "2024-01-06, 22:15:59",
       "https://lobste.rs/s/jflhxp/stream_chromecast_with_resolved_vlc_bash"
     ],
@@ -237,16 +247,6 @@
     [
       "Typing \"nix-env -i\" should not try to install every single package [2014]",
       "https://github.com/NixOS/nix/issues/308"
-    ]
-  ],
-  [
-    [
-      "2024-01-04, 19:49:41",
-      "https://lobste.rs/s/uuahhi/npm_registry_prank_leaves_developers"
-    ],
-    [
-      "NPM registry prank leaves developers unable to unpublish packages",
-      "https://www.scmagazine.com/news/npm-registry-prank-leaves-developers-unable-to-unpublish-packages"
     ]
   ]
 ]
