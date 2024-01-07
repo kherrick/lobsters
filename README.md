@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-07, 16:36:13](https://lobste.rs/s/v5p9e2/using_zig_commit_toolchains_vcs) - [Using Zig to Commit Toolchains to VCS](https://www.forrestthewoods.com/blog/using-zig-to-commit-toolchains-to-vcs/)
 * [2024-01-07, 14:35:04](https://lobste.rs/s/jjfexp/dnssec_root_signing_ceremony) - [The DNSSEC Root Signing Ceremony](https://www.cloudflare.com/dns/dnssec/root-signing-ceremony/)
 * [2024-01-07, 14:11:26](https://lobste.rs/s/keqheq/how_i_built_fully_offline_smart_home_why) - [How I built a fully offline smart home, and why you should too](https://www.androidauthority.com/offline-smart-home-3398608/)
 * [2024-01-07, 12:25:58](https://lobste.rs/s/gcilwl/it_s_ok_call_it_artificial_intelligence) - [It’s OK to call it Artificial Intelligence](https://simonwillison.net/2024/Jan/7/call-it-ai/)
@@ -20,7 +21,6 @@
 * [2024-01-06, 12:16:43](https://lobste.rs/s/jovly2/better_publishing_workflow_for_static) - [A better publishing workflow for static blogs](https://garrit.xyz/posts/2024-01-06-a-better-publishing-workflow-for-static-blogs)
 * [2024-01-06, 10:38:16](https://lobste.rs/s/krfamz/origins_j) - [The origins of J](https://github.com/kelas/ooj)
 * [2024-01-06, 06:44:20](https://lobste.rs/s/xmlkqy/systemd_through_eyes_musl_distribution) - [systemd through the eyes of a musl distribution maintainer](https://catfox.life/2024/01/05/systemd-through-the-eyes-of-a-musl-distribution-maintainer/)
-* [2024-01-05, 20:36:38](https://lobste.rs/s/ciw1be/do_we_think_git_commits_as_diffs_snapshots) - [Do we think of git commits as diffs, snapshots, and/or histories?](https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/)
 * [2024-01-05, 20:34:35](https://lobste.rs/s/4gjj6n/dennis_ritchie_on_vs) - [Dennis Ritchie on & | vs. ==](https://www.lysator.liu.se/c/dmr-on-or.html)
 * [2024-01-05, 20:21:26](https://lobste.rs/s/yw1vse/gpt_500_lines_sql) - [GPT in 500 lines of SQL](https://explainextended.com/2023/12/31/happy-new-year-15/)
 * [2024-01-05, 19:18:33](https://lobste.rs/s/mfd0q3/driverless_user_space_file_systems_for) - [Driverless User Space File Systems for Windows, macOS, and Linux](https://thelig.ht/user-space-file-systems/)
