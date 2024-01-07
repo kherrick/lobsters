@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-01-07, 18:26:11",
-      "https://lobste.rs/s/osph4f/expr_release_v1_15_8"
-    ],
-    [
-      "Expr release v1.15.8",
-      "https://github.com/expr-lang/expr/releases/tag/v1.15.8"
-    ]
-  ],
-  [
-    [
       "2024-01-07, 16:36:13",
       "https://lobste.rs/s/v5p9e2/using_zig_commit_toolchains_vcs"
     ],
@@ -237,6 +227,16 @@
     [
       "systemd through the eyes of a musl distribution maintainer",
       "https://catfox.life/2024/01/05/systemd-through-the-eyes-of-a-musl-distribution-maintainer/"
+    ]
+  ],
+  [
+    [
+      "2024-01-05, 20:21:26",
+      "https://lobste.rs/s/yw1vse/gpt_500_lines_sql"
+    ],
+    [
+      "GPT in 500 lines of SQL",
+      "https://explainextended.com/2023/12/31/happy-new-year-15/"
     ]
   ],
   [
