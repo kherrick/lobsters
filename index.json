@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-07, 03:43:29",
+      "https://lobste.rs/s/jbrcpv/linux_tpms"
+    ],
+    [
+      "Linux & TPMs",
+      "https://media.ccc.de/v/all-systems-go-2023-186-linux-tpms"
+    ]
+  ],
+  [
+    [
       "2024-01-07, 03:20:05",
       "https://lobste.rs/s/tb2dna/automate_your_outgoing_webmentions_with"
     ],
@@ -217,16 +227,6 @@
     [
       "how quick is the go compiler: can you use go for scripting?",
       "https://flak.tedunangst.com/post/how-fast-is-the-go-compiler"
-    ]
-  ],
-  [
-    [
-      "2024-01-05, 14:07:39",
-      "https://lobste.rs/s/uawzvl/netbsd_10_0_rc2_available"
-    ],
-    [
-      "NetBSD 10.0 RC2 available",
-      "https://blog.netbsd.org/tnf/entry/netbsd_10_0_rc2_available"
     ]
   ],
   [
