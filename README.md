@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-07, 03:43:29](https://lobste.rs/s/jbrcpv/linux_tpms) - [Linux & TPMs](https://media.ccc.de/v/all-systems-go-2023-186-linux-tpms)
 * [2024-01-07, 03:20:05](https://lobste.rs/s/tb2dna/automate_your_outgoing_webmentions_with) - [Automate your outgoing webmentions with Webmention.app](https://webmention.app/)
 * [2024-01-07, 03:17:31](https://lobste.rs/s/vqczfd/learnable_programming) - [Learnable Programming](http://worrydream.com/LearnableProgramming/)
 * [2024-01-07, 02:08:03](https://lobste.rs/s/qvgxq3/retrospective_on_viberary) - [Retrospective on Viberary](https://vickiboykis.com/2024/01/05/retro-on-viberary/)
@@ -22,7 +23,6 @@
 * [2024-01-05, 20:16:54](https://lobste.rs/s/89czhf/world_machine) - [The World and the Machine](https://www.hillelwayne.com/post/world-vs-machine/)
 * [2024-01-05, 19:18:33](https://lobste.rs/s/mfd0q3/driverless_user_space_file_systems_for) - [Driverless User Space File Systems for Windows, macOS, and Linux](https://thelig.ht/user-space-file-systems/)
 * [2024-01-05, 17:31:29](https://lobste.rs/s/iyzluc/how_quick_is_go_compiler_can_you_use_go_for) - [how quick is the go compiler: can you use go for scripting?](https://flak.tedunangst.com/post/how-fast-is-the-go-compiler)
-* [2024-01-05, 14:07:39](https://lobste.rs/s/uawzvl/netbsd_10_0_rc2_available) - [NetBSD 10.0 RC2 available](https://blog.netbsd.org/tnf/entry/netbsd_10_0_rc2_available)
 * [2024-01-05, 11:58:20](https://lobste.rs/s/ppwfxk/fixing_macs_door_door) - [Fixing Macs Door to Door](https://matduggan.com/fixing-macs-door-to-door/)
 * [2024-01-05, 11:38:14](https://lobste.rs/s/sol6jh/maestro_unix_like_kernel_operating) - [Maestro - A Unix-like kernel and operating system written in Rust](https://blog.lenot.re/a/introduction)
 
