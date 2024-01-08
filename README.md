@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-08, 19:55:19](https://lobste.rs/s/vq8lvw/rfc_9413_maintaining_robust_protocols) - [RFC 9413: Maintaining Robust Protocols](https://www.rfc-editor.org/rfc/rfc9413.html)
 * [2024-01-08, 16:53:12](https://lobste.rs/s/csotur/overview_distributed_postgresql) - [An Overview of Distributed  PostgreSQL Architectures](https://www.crunchydata.com/blog/an-overview-of-distributed-postgresql-architectures)
 * [2024-01-08, 16:37:40](https://lobste.rs/s/4gthyz/thoughts_on_testing) - [Thoughts on Testing](https://www.brandons.me/blog/thoughts-on-testing)
 * [2024-01-08, 16:28:28](https://lobste.rs/s/nd9i41/my_postgresql_wishlist) - [My PostgreSQL wishlist](https://ryanguill.com/postgresql/sql/2024/01/08/postgresql-wishlist.html)
@@ -16,7 +17,6 @@
 * [2024-01-08, 05:03:17](https://lobste.rs/s/ywszql/minimalist_postgresql_migrations) - [Minimalist PostgreSQL Migrations](https://nalanj.dev/posts/minimalist-postgresql-migrations/)
 * [2024-01-08, 04:40:34](https://lobste.rs/s/sfvywz/prr_book) - [prr book](https://doc.dxuuu.xyz/prr)
 * [2024-01-08, 02:52:39](https://lobste.rs/s/fbghqy/gno_is_unix_like_environment_for_apple) - [GNO is the UNIX-like environment for the Apple IIgs](https://github.com/GnoConsortium/gno)
-* [2024-01-08, 00:53:54](https://lobste.rs/s/gs2l7i/live_objects_all_way_down_removing) - [Live Objects All The Way Down: Removing the Barriers between Applications and Virtual Machines](https://programming-journal.org/2024/8/5/)
 * [2024-01-07, 22:13:08](https://lobste.rs/s/0b584x/sleeping_through_decade_cocoa) - [Sleeping through a decade of Cocoa: Retrospective from modernizing an old Mac app](https://sporks.space/2024/01/07/sleeping-through-a-decade-of-cocoa-retrospective-from-modernizing-an-old-mac-app/)
 * [2024-01-07, 21:12:37](https://lobste.rs/s/vqhoab/self_hosting_educational_c_optimizing) - [A self-hosting and educational C optimizing compiler](https://github.com/sysprog21/shecc)
 * [2024-01-07, 19:19:32](https://lobste.rs/s/ydeoe3/common_lisp_s_block_return_from_unwind) - [Common Lisp's BLOCK / RETURN-FROM and UNWIND-PROTECT](https://axisofeval.blogspot.com/2024/01/common-lisps-block-return-from-and.html)
