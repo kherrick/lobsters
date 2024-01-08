@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
+* [2024-01-08, 12:54:26](https://lobste.rs/s/djxada/missing_point_webassembly) - [missing the point of webassembly](http://wingolog.org/archives/2024/01/08/missing-the-point-of-webassembly)
+* [2024-01-08, 12:53:35](https://lobste.rs/s/p76shu/restartable_sequence_mechanism_for) - [Restartable Sequence Mechanism for TCMalloc](https://google.github.io/tcmalloc/rseq.html)
 * [2024-01-08, 11:51:11](https://lobste.rs/s/p3irxm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/p3irxm/what_are_you_doing_this_week)
 * [2024-01-08, 10:44:30](https://lobste.rs/s/gmwtcq/aman_s_ai_journal_primers_overview_large) - [Aman's AI Journal • Primers • Overview of Large Language Models](https://aman.ai/primers/ai/LLM/#overview)
 * [2024-01-08, 08:38:18](https://lobste.rs/s/o4zht0/just_because_you_can_doesn_t_mean_you) - [Just because you can doesn't mean you should: the <meter> element](https://localghost.dev/blog/just-because-you-can-doesn-t-mean-you-should-the-meter-element/)

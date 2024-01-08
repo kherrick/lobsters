@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-08, 12:54:26](https://lobste.rs/s/djxada/missing_point_webassembly) - [missing the point of webassembly](http://wingolog.org/archives/2024/01/08/missing-the-point-of-webassembly)
+* [2024-01-08, 12:53:35](https://lobste.rs/s/p76shu/restartable_sequence_mechanism_for) - [Restartable Sequence Mechanism for TCMalloc](https://google.github.io/tcmalloc/rseq.html)
 * [2024-01-08, 11:51:11](https://lobste.rs/s/p3irxm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/p3irxm/what_are_you_doing_this_week)
 * [2024-01-08, 10:44:30](https://lobste.rs/s/gmwtcq/aman_s_ai_journal_primers_overview_large) - [Aman's AI Journal • Primers • Overview of Large Language Models](https://aman.ai/primers/ai/LLM/#overview)
 * [2024-01-08, 08:38:18](https://lobste.rs/s/o4zht0/just_because_you_can_doesn_t_mean_you) - [Just because you can doesn't mean you should: the <meter> element](https://localghost.dev/blog/just-because-you-can-doesn-t-mean-you-should-the-meter-element/)
@@ -8,7 +10,6 @@
 * [2024-01-08, 05:03:17](https://lobste.rs/s/ywszql/minimalist_postgresql_migrations) - [Minimalist PostgreSQL Migrations](https://nalanj.dev/posts/minimalist-postgresql-migrations/)
 * [2024-01-08, 04:40:34](https://lobste.rs/s/sfvywz/prr_book) - [prr book](https://doc.dxuuu.xyz/prr)
 * [2024-01-08, 02:52:39](https://lobste.rs/s/fbghqy/gno_is_unix_like_environment_for_apple) - [GNO is the UNIX-like environment for the Apple IIgs](https://github.com/GnoConsortium/gno)
-* [2024-01-08, 00:57:42](https://lobste.rs/s/krvzop/adventures_linux_userspace_at_meta) - [Adventures of Linux Userspace at Meta](https://media.ccc.de/v/all-systems-go-2023-193-adventures-of-linux-userspace-at-meta)
 * [2024-01-08, 00:53:54](https://lobste.rs/s/gs2l7i/live_objects_all_way_down_removing) - [Live Objects All The Way Down: Removing the Barriers between Applications and Virtual Machines](https://programming-journal.org/2024/8/5/)
 * [2024-01-07, 22:13:08](https://lobste.rs/s/0b584x/sleeping_through_decade_cocoa) - [Sleeping through a decade of Cocoa: Retrospective from modernizing an old Mac app](https://sporks.space/2024/01/07/sleeping-through-a-decade-of-cocoa-retrospective-from-modernizing-an-old-mac-app/)
 * [2024-01-07, 21:12:37](https://lobste.rs/s/vqhoab/self_hosting_educational_c_optimizing) - [A self-hosting and educational C optimizing compiler](https://github.com/sysprog21/shecc)
@@ -21,7 +22,6 @@
 * [2024-01-07, 12:25:58](https://lobste.rs/s/gcilwl/it_s_ok_call_it_artificial_intelligence) - [It’s OK to call it Artificial Intelligence](https://simonwillison.net/2024/Jan/7/call-it-ai/)
 * [2024-01-07, 09:47:49](https://lobste.rs/s/pvp6w8/first_month_nothin_postmarketos) - [First month of nothin' but postmarketOS](https://blog.craftyguy.net/one-month-pmos/)
 * [2024-01-07, 09:07:32](https://lobste.rs/s/nhjikd/weird_things_engineers_believe_about_web) - [Weird things engineers believe about Web development](https://birtles.blog/2024/01/06/weird-things-engineers-believe-about-development/)
-* [2024-01-07, 03:43:29](https://lobste.rs/s/jbrcpv/linux_tpms) - [Linux & TPMs](https://media.ccc.de/v/all-systems-go-2023-186-linux-tpms)
 * [2024-01-07, 03:17:31](https://lobste.rs/s/vqczfd/learnable_programming) - [Learnable Programming](http://worrydream.com/LearnableProgramming/)
 * [2024-01-06, 22:15:59](https://lobste.rs/s/jflhxp/stream_chromecast_with_resolved_vlc_bash) - [Stream to chromecast with resolved, vlc and bash](https://linderud.dev/blog/stream-to-chromecast-with-resolved-vlc-and-bash/)
 * [2024-01-06, 06:44:20](https://lobste.rs/s/xmlkqy/systemd_through_eyes_musl_distribution) - [systemd through the eyes of a musl distribution maintainer](https://catfox.life/2024/01/05/systemd-through-the-eyes-of-a-musl-distribution-maintainer/)
