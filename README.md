@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-08, 22:19:11](https://lobste.rs/s/x1zlmi/deploying_ai_powered_django_apps_modal) - [Deploying AI-powered Django apps to Modal.com](https://tolkunov.dev/posts/django-on-modal/)
+* [2024-01-08, 22:10:28](https://lobste.rs/s/xwxsw4/unverified_vanity_urls_interest) - [Unverified vanity URLs & interest tracking catalyze fraud online](https://eligrey.com/blog/adtech-catalyzing-fraud/)
 * [2024-01-08, 21:02:54](https://lobste.rs/s/aoggwx/path_join_considered_harmful_openat_all) - [path.join Considered Harmful, or openat() All The Things](https://val.packett.cool/blog/use-openat/)
 * [2024-01-08, 20:47:38](https://lobste.rs/s/808x6v/ssh_based_comment_system) - [SSH based comment system](https://blog.haschek.at/2023/ssh-based-comment-system.html)
 * [2024-01-08, 20:17:35](https://lobste.rs/s/wtgmk5/til_go_s_compareandswap_is_not_always) - [TIL: Go’s CompareAndSwap is not always Compare-and-swap](https://lu.sagebl.eu/notes/go-cas/)
@@ -19,10 +21,8 @@
 * [2024-01-08, 05:03:17](https://lobste.rs/s/ywszql/minimalist_postgresql_migrations) - [Minimalist PostgreSQL Migrations](https://nalanj.dev/posts/minimalist-postgresql-migrations/)
 * [2024-01-08, 04:40:34](https://lobste.rs/s/sfvywz/prr_book) - [prr book](https://doc.dxuuu.xyz/prr)
 * [2024-01-07, 22:13:08](https://lobste.rs/s/0b584x/sleeping_through_decade_cocoa) - [Sleeping through a decade of Cocoa: Retrospective from modernizing an old Mac app](https://sporks.space/2024/01/07/sleeping-through-a-decade-of-cocoa-retrospective-from-modernizing-an-old-mac-app/)
-* [2024-01-07, 21:12:37](https://lobste.rs/s/vqhoab/self_hosting_educational_c_optimizing) - [A self-hosting and educational C optimizing compiler](https://github.com/sysprog21/shecc)
 * [2024-01-07, 19:19:32](https://lobste.rs/s/ydeoe3/common_lisp_s_block_return_from_unwind) - [Common Lisp's BLOCK / RETURN-FROM and UNWIND-PROTECT](https://axisofeval.blogspot.com/2024/01/common-lisps-block-return-from-and.html)
 * [2024-01-07, 18:27:19](https://lobste.rs/s/fi5w51/why_would_you_still_want_use_strace_2023) - [Why would you still want to use strace in 2023?](https://media.ccc.de/v/all-systems-go-2023-228-why-would-you-still-want-to-use-strace-in-2023-)
-* [2024-01-07, 16:36:13](https://lobste.rs/s/v5p9e2/using_zig_commit_toolchains_vcs) - [Using Zig to Commit Toolchains to VCS](https://www.forrestthewoods.com/blog/using-zig-to-commit-toolchains-to-vcs/)
 * [2024-01-07, 14:11:26](https://lobste.rs/s/keqheq/how_i_built_fully_offline_smart_home_why) - [How I built a fully offline smart home, and why you should too](https://www.androidauthority.com/offline-smart-home-3398608/)
 * [2024-01-07, 09:07:32](https://lobste.rs/s/nhjikd/weird_things_engineers_believe_about_web) - [Weird things engineers believe about Web development](https://birtles.blog/2024/01/06/weird-things-engineers-believe-about-development/)
 
