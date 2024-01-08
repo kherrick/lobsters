@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
+* [2024-01-08, 23:28:56](https://lobste.rs/s/mwydlr/browsers_biggest_tls_mistake) - [The browsers biggest TLS mistake](https://blog.benjojo.co.uk/post/browsers-biggest-tls-mistake)
 * [2024-01-08, 22:19:11](https://lobste.rs/s/x1zlmi/deploying_ai_powered_django_apps_modal) - [Deploying AI-powered Django apps to Modal.com](https://tolkunov.dev/posts/django-on-modal/)
 * [2024-01-08, 22:10:28](https://lobste.rs/s/xwxsw4/unverified_vanity_urls_interest) - [Unverified vanity URLs & interest tracking catalyze fraud online](https://eligrey.com/blog/adtech-catalyzing-fraud/)
 * [2024-01-08, 21:02:54](https://lobste.rs/s/aoggwx/path_join_considered_harmful_openat_all) - [path.join Considered Harmful, or openat() All The Things](https://val.packett.cool/blog/use-openat/)

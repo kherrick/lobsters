@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-08, 23:28:56](https://lobste.rs/s/mwydlr/browsers_biggest_tls_mistake) - [The browsers biggest TLS mistake](https://blog.benjojo.co.uk/post/browsers-biggest-tls-mistake)
 * [2024-01-08, 22:19:11](https://lobste.rs/s/x1zlmi/deploying_ai_powered_django_apps_modal) - [Deploying AI-powered Django apps to Modal.com](https://tolkunov.dev/posts/django-on-modal/)
 * [2024-01-08, 22:10:28](https://lobste.rs/s/xwxsw4/unverified_vanity_urls_interest) - [Unverified vanity URLs & interest tracking catalyze fraud online](https://eligrey.com/blog/adtech-catalyzing-fraud/)
 * [2024-01-08, 21:02:54](https://lobste.rs/s/aoggwx/path_join_considered_harmful_openat_all) - [path.join Considered Harmful, or openat() All The Things](https://val.packett.cool/blog/use-openat/)
@@ -8,7 +9,6 @@
 * [2024-01-08, 19:55:19](https://lobste.rs/s/vq8lvw/rfc_9413_maintaining_robust_protocols) - [RFC 9413: Maintaining Robust Protocols](https://www.rfc-editor.org/rfc/rfc9413.html)
 * [2024-01-08, 16:37:40](https://lobste.rs/s/4gthyz/thoughts_on_testing) - [Thoughts on Testing](https://www.brandons.me/blog/thoughts-on-testing)
 * [2024-01-08, 16:28:28](https://lobste.rs/s/nd9i41/my_postgresql_wishlist) - [My PostgreSQL wishlist](https://ryanguill.com/postgresql/sql/2024/01/08/postgresql-wishlist.html)
-* [2024-01-08, 15:19:31](https://lobste.rs/s/f40dg4/xstate_event_driven_programming_using) - [XState - Event-driven programming using state machines and the actor model](https://stately.ai/docs/xstate)
 * [2024-01-08, 14:13:30](https://lobste.rs/s/tjyvy2/fun_with_embeddings_go) - [Fun With Embeddings in Go](https://cybernetist.com/2024/01/07/fun-with-embeddings/)
 * [2024-01-08, 14:13:03](https://lobste.rs/s/aeomyz/how_openbsd_s_malloc_helps_developer) - [How OpenBSD’s malloc helps the developer](https://www.youtube.com/watch?v=MIjUsv91rXg)
 * [2024-01-08, 14:12:20](https://lobste.rs/s/botwok/eu_cra_what_does_it_mean_for_open_source) - [EU CRA: What does it mean for open source?](https://berthub.eu/articles/posts/eu-cra-what-does-it-mean-for-open-source/)
