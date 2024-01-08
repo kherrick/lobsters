@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
+* [2024-01-08, 14:13:30](https://lobste.rs/s/tjyvy2/fun_with_embeddings_go) - [Fun With Embeddings in Go](https://cybernetist.com/2024/01/07/fun-with-embeddings/)
+* [2024-01-08, 14:13:03](https://lobste.rs/s/aeomyz/how_openbsd_s_malloc_helps_developer) - [How OpenBSD’s malloc helps the developer](https://www.youtube.com/watch?v=MIjUsv91rXg)
+* [2024-01-08, 14:12:20](https://lobste.rs/s/botwok/eu_cra_what_does_it_mean_for_open_source) - [EU CRA: What does it mean for open source?](https://berthub.eu/articles/posts/eu-cra-what-does-it-mean-for-open-source/)
 * [2024-01-08, 12:54:26](https://lobste.rs/s/djxada/missing_point_webassembly) - [missing the point of webassembly](http://wingolog.org/archives/2024/01/08/missing-the-point-of-webassembly)
 * [2024-01-08, 12:53:35](https://lobste.rs/s/p76shu/restartable_sequence_mechanism_for) - [Restartable Sequence Mechanism for TCMalloc](https://google.github.io/tcmalloc/rseq.html)
 * [2024-01-08, 11:51:11](https://lobste.rs/s/p3irxm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/p3irxm/what_are_you_doing_this_week)

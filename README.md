@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-08, 14:13:30](https://lobste.rs/s/tjyvy2/fun_with_embeddings_go) - [Fun With Embeddings in Go](https://cybernetist.com/2024/01/07/fun-with-embeddings/)
+* [2024-01-08, 14:13:03](https://lobste.rs/s/aeomyz/how_openbsd_s_malloc_helps_developer) - [How OpenBSD’s malloc helps the developer](https://www.youtube.com/watch?v=MIjUsv91rXg)
+* [2024-01-08, 14:12:20](https://lobste.rs/s/botwok/eu_cra_what_does_it_mean_for_open_source) - [EU CRA: What does it mean for open source?](https://berthub.eu/articles/posts/eu-cra-what-does-it-mean-for-open-source/)
 * [2024-01-08, 12:54:26](https://lobste.rs/s/djxada/missing_point_webassembly) - [missing the point of webassembly](http://wingolog.org/archives/2024/01/08/missing-the-point-of-webassembly)
 * [2024-01-08, 12:53:35](https://lobste.rs/s/p76shu/restartable_sequence_mechanism_for) - [Restartable Sequence Mechanism for TCMalloc](https://google.github.io/tcmalloc/rseq.html)
 * [2024-01-08, 11:51:11](https://lobste.rs/s/p3irxm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/p3irxm/what_are_you_doing_this_week)
@@ -14,7 +17,6 @@
 * [2024-01-07, 22:13:08](https://lobste.rs/s/0b584x/sleeping_through_decade_cocoa) - [Sleeping through a decade of Cocoa: Retrospective from modernizing an old Mac app](https://sporks.space/2024/01/07/sleeping-through-a-decade-of-cocoa-retrospective-from-modernizing-an-old-mac-app/)
 * [2024-01-07, 21:12:37](https://lobste.rs/s/vqhoab/self_hosting_educational_c_optimizing) - [A self-hosting and educational C optimizing compiler](https://github.com/sysprog21/shecc)
 * [2024-01-07, 19:19:32](https://lobste.rs/s/ydeoe3/common_lisp_s_block_return_from_unwind) - [Common Lisp's BLOCK / RETURN-FROM and UNWIND-PROTECT](https://axisofeval.blogspot.com/2024/01/common-lisps-block-return-from-and.html)
-* [2024-01-07, 19:18:20](https://lobste.rs/s/qqmboh/real_world_choreographic_programming) - [Real-World Choreographic Programming: Full-Duplex Asynchrony and Interoperability](https://programming-journal.org/2024/8/8/)
 * [2024-01-07, 18:27:19](https://lobste.rs/s/fi5w51/why_would_you_still_want_use_strace_2023) - [Why would you still want to use strace in 2023?](https://media.ccc.de/v/all-systems-go-2023-228-why-would-you-still-want-to-use-strace-in-2023-)
 * [2024-01-07, 16:36:13](https://lobste.rs/s/v5p9e2/using_zig_commit_toolchains_vcs) - [Using Zig to Commit Toolchains to VCS](https://www.forrestthewoods.com/blog/using-zig-to-commit-toolchains-to-vcs/)
 * [2024-01-07, 14:35:04](https://lobste.rs/s/jjfexp/dnssec_root_signing_ceremony) - [The DNSSEC Root Signing Ceremony](https://www.cloudflare.com/dns/dnssec/root-signing-ceremony/)
@@ -22,9 +24,7 @@
 * [2024-01-07, 12:25:58](https://lobste.rs/s/gcilwl/it_s_ok_call_it_artificial_intelligence) - [It’s OK to call it Artificial Intelligence](https://simonwillison.net/2024/Jan/7/call-it-ai/)
 * [2024-01-07, 09:47:49](https://lobste.rs/s/pvp6w8/first_month_nothin_postmarketos) - [First month of nothin' but postmarketOS](https://blog.craftyguy.net/one-month-pmos/)
 * [2024-01-07, 09:07:32](https://lobste.rs/s/nhjikd/weird_things_engineers_believe_about_web) - [Weird things engineers believe about Web development](https://birtles.blog/2024/01/06/weird-things-engineers-believe-about-development/)
-* [2024-01-07, 03:17:31](https://lobste.rs/s/vqczfd/learnable_programming) - [Learnable Programming](http://worrydream.com/LearnableProgramming/)
 * [2024-01-06, 22:15:59](https://lobste.rs/s/jflhxp/stream_chromecast_with_resolved_vlc_bash) - [Stream to chromecast with resolved, vlc and bash](https://linderud.dev/blog/stream-to-chromecast-with-resolved-vlc-and-bash/)
-* [2024-01-06, 06:44:20](https://lobste.rs/s/xmlkqy/systemd_through_eyes_musl_distribution) - [systemd through the eyes of a musl distribution maintainer](https://catfox.life/2024/01/05/systemd-through-the-eyes-of-a-musl-distribution-maintainer/)
 
 ## [Archives](archives/index.md)
 
