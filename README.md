@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-08, 16:53:12](https://lobste.rs/s/csotur/overview_distributed_postgresql) - [An Overview of Distributed  PostgreSQL Architectures](https://www.crunchydata.com/blog/an-overview-of-distributed-postgresql-architectures)
 * [2024-01-08, 16:37:40](https://lobste.rs/s/4gthyz/thoughts_on_testing) - [Thoughts on Testing](https://www.brandons.me/blog/thoughts-on-testing)
 * [2024-01-08, 16:28:28](https://lobste.rs/s/nd9i41/my_postgresql_wishlist) - [My PostgreSQL wishlist](https://ryanguill.com/postgresql/sql/2024/01/08/postgresql-wishlist.html)
 * [2024-01-08, 15:19:31](https://lobste.rs/s/f40dg4/xstate_event_driven_programming_using) - [XState - Event-driven programming using state machines and the actor model](https://stately.ai/docs/xstate)
@@ -9,7 +10,6 @@
 * [2024-01-08, 12:54:26](https://lobste.rs/s/djxada/missing_point_webassembly) - [missing the point of webassembly](http://wingolog.org/archives/2024/01/08/missing-the-point-of-webassembly)
 * [2024-01-08, 12:53:35](https://lobste.rs/s/p76shu/restartable_sequence_mechanism_for) - [Restartable Sequence Mechanism for TCMalloc](https://google.github.io/tcmalloc/rseq.html)
 * [2024-01-08, 11:51:11](https://lobste.rs/s/p3irxm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/p3irxm/what_are_you_doing_this_week)
-* [2024-01-08, 10:44:30](https://lobste.rs/s/gmwtcq/overview_large_language_models) - [Overview of Large Language Models](https://aman.ai/primers/ai/LLM/#overview)
 * [2024-01-08, 08:38:18](https://lobste.rs/s/o4zht0/just_because_you_can_doesn_t_mean_you) - [Just because you can doesn't mean you should: the <meter> element](https://localghost.dev/blog/just-because-you-can-doesn-t-mean-you-should-the-meter-element/)
 * [2024-01-08, 08:09:06](https://lobste.rs/s/9owm7z/biggest_smallest_png) - [The Biggest Smallest PNG](https://belkadan.com/blog/2024/01/The-Biggest-Smallest-PNG/)
 * [2024-01-08, 07:45:29](https://lobste.rs/s/ypck1n/how_stop_linux_threads_cleanly) - [How to stop Linux threads cleanly](https://mazzo.li/posts/stopping-linux-threads.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
+* [2024-01-08, 16:53:12](https://lobste.rs/s/csotur/overview_distributed_postgresql) - [An Overview of Distributed  PostgreSQL Architectures](https://www.crunchydata.com/blog/an-overview-of-distributed-postgresql-architectures)
 * [2024-01-08, 16:37:40](https://lobste.rs/s/4gthyz/thoughts_on_testing) - [Thoughts on Testing](https://www.brandons.me/blog/thoughts-on-testing)
 * [2024-01-08, 16:28:28](https://lobste.rs/s/nd9i41/my_postgresql_wishlist) - [My PostgreSQL wishlist](https://ryanguill.com/postgresql/sql/2024/01/08/postgresql-wishlist.html)
 * [2024-01-08, 15:19:31](https://lobste.rs/s/f40dg4/xstate_event_driven_programming_using) - [XState - Event-driven programming using state machines and the actor model](https://stately.ai/docs/xstate)
