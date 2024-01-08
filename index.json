@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-08, 00:57:42",
+      "https://lobste.rs/s/krvzop/adventures_linux_userspace_at_meta"
+    ],
+    [
+      "Adventures of Linux Userspace at Meta",
+      "https://media.ccc.de/v/all-systems-go-2023-193-adventures-of-linux-userspace-at-meta"
+    ]
+  ],
+  [
+    [
+      "2024-01-08, 00:53:54",
+      "https://lobste.rs/s/gs2l7i/live_objects_all_way_down_removing"
+    ],
+    [
+      "Live Objects All The Way Down: Removing the Barriers between Applications and Virtual Machines",
+      "https://programming-journal.org/2024/8/5/"
+    ]
+  ],
+  [
+    [
       "2024-01-07, 22:13:08",
       "https://lobste.rs/s/0b584x/sleeping_through_decade_cocoa"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-01-06, 13:45:44",
-      "https://lobste.rs/s/yklqbo/nato_software_engineering_conferences"
-    ],
-    [
-      "NATO Software Engineering Conferences",
-      "http://homepages.cs.ncl.ac.uk/brian.randell/NATO/index.html"
-    ]
-  ],
-  [
-    [
       "2024-01-06, 13:11:36",
       "https://lobste.rs/s/jvxez2/browser_code_playgrounds"
     ],
@@ -227,16 +237,6 @@
     [
       "systemd through the eyes of a musl distribution maintainer",
       "https://catfox.life/2024/01/05/systemd-through-the-eyes-of-a-musl-distribution-maintainer/"
-    ]
-  ],
-  [
-    [
-      "2024-01-05, 20:21:26",
-      "https://lobste.rs/s/yw1vse/gpt_500_lines_sql"
-    ],
-    [
-      "GPT in 500 lines of SQL",
-      "https://explainextended.com/2023/12/31/happy-new-year-15/"
     ]
   ],
   [
