@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-08, 23:46:20](https://lobste.rs/s/cvdwwr/learning_about_debuggers) - [Learning about debuggers](https://werat.dev/blog/learning-about-debuggers/)
 * [2024-01-08, 23:28:56](https://lobste.rs/s/mwydlr/browsers_biggest_tls_mistake) - [The browsers biggest TLS mistake](https://blog.benjojo.co.uk/post/browsers-biggest-tls-mistake)
 * [2024-01-08, 22:19:11](https://lobste.rs/s/x1zlmi/deploying_ai_powered_django_apps_modal) - [Deploying AI-powered Django apps to Modal.com](https://tolkunov.dev/posts/django-on-modal/)
 * [2024-01-08, 22:10:28](https://lobste.rs/s/xwxsw4/unverified_vanity_urls_interest) - [Unverified vanity URLs & interest tracking catalyze fraud online](https://eligrey.com/blog/adtech-catalyzing-fraud/)
@@ -22,7 +23,6 @@
 * [2024-01-08, 04:40:34](https://lobste.rs/s/sfvywz/prr_book) - [prr book](https://doc.dxuuu.xyz/prr)
 * [2024-01-07, 22:13:08](https://lobste.rs/s/0b584x/sleeping_through_decade_cocoa) - [Sleeping through a decade of Cocoa: Retrospective from modernizing an old Mac app](https://sporks.space/2024/01/07/sleeping-through-a-decade-of-cocoa-retrospective-from-modernizing-an-old-mac-app/)
 * [2024-01-07, 19:19:32](https://lobste.rs/s/ydeoe3/common_lisp_s_block_return_from_unwind) - [Common Lisp's BLOCK / RETURN-FROM and UNWIND-PROTECT](https://axisofeval.blogspot.com/2024/01/common-lisps-block-return-from-and.html)
-* [2024-01-07, 18:27:19](https://lobste.rs/s/fi5w51/why_would_you_still_want_use_strace_2023) - [Why would you still want to use strace in 2023?](https://media.ccc.de/v/all-systems-go-2023-228-why-would-you-still-want-to-use-strace-in-2023-)
 * [2024-01-07, 14:11:26](https://lobste.rs/s/keqheq/how_i_built_fully_offline_smart_home_why) - [How I built a fully offline smart home, and why you should too](https://www.androidauthority.com/offline-smart-home-3398608/)
 * [2024-01-07, 09:07:32](https://lobste.rs/s/nhjikd/weird_things_engineers_believe_about_web) - [Weird things engineers believe about Web development](https://birtles.blog/2024/01/06/weird-things-engineers-believe-about-development/)
 
