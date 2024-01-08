@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-08, 20:47:38",
+      "https://lobste.rs/s/808x6v/ssh_based_comment_system"
+    ],
+    [
+      "SSH based comment system",
+      "https://blog.haschek.at/2023/ssh-based-comment-system.html"
+    ]
+  ],
+  [
+    [
       "2024-01-08, 20:17:35",
       "https://lobste.rs/s/wtgmk5/til_go_s_compareandswap_is_not_always"
     ],
@@ -167,16 +177,6 @@
     [
       "prr book",
       "https://doc.dxuuu.xyz/prr"
-    ]
-  ],
-  [
-    [
-      "2024-01-08, 02:52:39",
-      "https://lobste.rs/s/fbghqy/gno_is_unix_like_environment_for_apple"
-    ],
-    [
-      "GNO is the UNIX-like environment for the Apple IIgs",
-      "https://github.com/GnoConsortium/gno"
     ]
   ],
   [
