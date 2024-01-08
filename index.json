@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-08, 05:03:17",
+      "https://lobste.rs/s/ywszql/minimalist_postgresql_migrations"
+    ],
+    [
+      "Minimalist PostgreSQL Migrations",
+      "https://nalanj.dev/posts/minimalist-postgresql-migrations/"
+    ]
+  ],
+  [
+    [
       "2024-01-08, 04:40:34",
       "https://lobste.rs/s/sfvywz/prr_book"
     ],
@@ -237,16 +247,6 @@
     [
       "systemd through the eyes of a musl distribution maintainer",
       "https://catfox.life/2024/01/05/systemd-through-the-eyes-of-a-musl-distribution-maintainer/"
-    ]
-  ],
-  [
-    [
-      "2024-01-05, 11:58:20",
-      "https://lobste.rs/s/ppwfxk/fixing_macs_door_door"
-    ],
-    [
-      "Fixing Macs Door to Door",
-      "https://matduggan.com/fixing-macs-door-to-door/"
     ]
   ]
 ]
