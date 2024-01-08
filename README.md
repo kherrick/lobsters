@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-08, 00:57:42](https://lobste.rs/s/krvzop/adventures_linux_userspace_at_meta) - [Adventures of Linux Userspace at Meta](https://media.ccc.de/v/all-systems-go-2023-193-adventures-of-linux-userspace-at-meta)
+* [2024-01-08, 00:53:54](https://lobste.rs/s/gs2l7i/live_objects_all_way_down_removing) - [Live Objects All The Way Down: Removing the Barriers between Applications and Virtual Machines](https://programming-journal.org/2024/8/5/)
 * [2024-01-07, 22:13:08](https://lobste.rs/s/0b584x/sleeping_through_decade_cocoa) - [Sleeping through a decade of Cocoa: Retrospective from modernizing an old Mac app](https://sporks.space/2024/01/07/sleeping-through-a-decade-of-cocoa-retrospective-from-modernizing-an-old-mac-app/)
 * [2024-01-07, 21:12:37](https://lobste.rs/s/vqhoab/self_hosting_educational_c_optimizing) - [A self-hosting and educational C optimizing compiler](https://github.com/sysprog21/shecc)
 * [2024-01-07, 19:19:32](https://lobste.rs/s/ydeoe3/common_lisp_s_block_return_from_unwind) - [Common Lisp's BLOCK / RETURN-FROM and UNWIND-PROTECT](https://axisofeval.blogspot.com/2024/01/common-lisps-block-return-from-and.html)
@@ -18,12 +20,10 @@
 * [2024-01-06, 17:01:13](https://lobste.rs/s/g3ivsd/scheme_modules_vs_whole_program) - [scheme modules vs whole-program compilation: fight](http://wingolog.org/archives/2024/01/05/scheme-modules-vs-whole-program-compilation-fight)
 * [2024-01-06, 16:55:54](https://lobste.rs/s/0vwhcl/create_webhook_for_email) - [Create Webhook for Email](https://www.email2json.com)
 * [2024-01-06, 15:20:08](https://lobste.rs/s/tudkzh/tex_oberon_make_project_oberon_pretty) - [tex-oberon: Make Project Oberon Pretty Again](https://github.com/guidoism/tex-oberon)
-* [2024-01-06, 13:45:44](https://lobste.rs/s/yklqbo/nato_software_engineering_conferences) - [NATO Software Engineering Conferences](http://homepages.cs.ncl.ac.uk/brian.randell/NATO/index.html)
 * [2024-01-06, 13:11:36](https://lobste.rs/s/jvxez2/browser_code_playgrounds) - [In-browser code playgrounds](https://antonz.org/in-browser-code-playgrounds/)
 * [2024-01-06, 12:16:43](https://lobste.rs/s/jovly2/better_publishing_workflow_for_static) - [A better publishing workflow for static blogs](https://garrit.xyz/posts/2024-01-06-a-better-publishing-workflow-for-static-blogs)
 * [2024-01-06, 10:38:16](https://lobste.rs/s/krfamz/origins_j) - [The origins of J](https://github.com/kelas/ooj)
 * [2024-01-06, 06:44:20](https://lobste.rs/s/xmlkqy/systemd_through_eyes_musl_distribution) - [systemd through the eyes of a musl distribution maintainer](https://catfox.life/2024/01/05/systemd-through-the-eyes-of-a-musl-distribution-maintainer/)
-* [2024-01-05, 20:21:26](https://lobste.rs/s/yw1vse/gpt_500_lines_sql) - [GPT in 500 lines of SQL](https://explainextended.com/2023/12/31/happy-new-year-15/)
 * [2024-01-05, 11:58:20](https://lobste.rs/s/ppwfxk/fixing_macs_door_door) - [Fixing Macs Door to Door](https://matduggan.com/fixing-macs-door-to-door/)
 
 ## [Archives](archives/index.md)
