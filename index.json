@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-08, 15:19:31",
+      "https://lobste.rs/s/f40dg4/xstate_event_driven_programming_using"
+    ],
+    [
+      "XState - Event-driven programming using state machines and the actor model",
+      "https://stately.ai/docs/xstate"
+    ]
+  ],
+  [
+    [
       "2024-01-08, 14:13:30",
       "https://lobste.rs/s/tjyvy2/fun_with_embeddings_go"
     ],
@@ -187,16 +197,6 @@
     [
       "Using Zig to Commit Toolchains to VCS",
       "https://www.forrestthewoods.com/blog/using-zig-to-commit-toolchains-to-vcs/"
-    ]
-  ],
-  [
-    [
-      "2024-01-07, 14:35:04",
-      "https://lobste.rs/s/jjfexp/dnssec_root_signing_ceremony"
-    ],
-    [
-      "The DNSSEC Root Signing Ceremony",
-      "https://www.cloudflare.com/dns/dnssec/root-signing-ceremony/"
     ]
   ],
   [
