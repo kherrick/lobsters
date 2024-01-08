@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-08, 19:55:19",
+      "https://lobste.rs/s/vq8lvw/rfc_9413_maintaining_robust_protocols"
+    ],
+    [
+      "RFC 9413: Maintaining Robust Protocols",
+      "https://www.rfc-editor.org/rfc/rfc9413.html"
+    ]
+  ],
+  [
+    [
       "2024-01-08, 16:53:12",
       "https://lobste.rs/s/csotur/overview_distributed_postgresql"
     ],
@@ -157,16 +167,6 @@
     [
       "GNO is the UNIX-like environment for the Apple IIgs",
       "https://github.com/GnoConsortium/gno"
-    ]
-  ],
-  [
-    [
-      "2024-01-08, 00:53:54",
-      "https://lobste.rs/s/gs2l7i/live_objects_all_way_down_removing"
-    ],
-    [
-      "Live Objects All The Way Down: Removing the Barriers between Applications and Virtual Machines",
-      "https://programming-journal.org/2024/8/5/"
     ]
   ],
   [
