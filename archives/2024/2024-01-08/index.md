@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
+* [2024-01-08, 21:02:54](https://lobste.rs/s/aoggwx/path_join_considered_harmful_openat_all) - [path.join Considered Harmful, or openat() All The Things](https://val.packett.cool/blog/use-openat/)
 * [2024-01-08, 20:47:38](https://lobste.rs/s/808x6v/ssh_based_comment_system) - [SSH based comment system](https://blog.haschek.at/2023/ssh-based-comment-system.html)
 * [2024-01-08, 20:17:35](https://lobste.rs/s/wtgmk5/til_go_s_compareandswap_is_not_always) - [TIL: Go’s CompareAndSwap is not always Compare-and-swap](https://lu.sagebl.eu/notes/go-cas/)
 * [2024-01-08, 19:55:19](https://lobste.rs/s/vq8lvw/rfc_9413_maintaining_robust_protocols) - [RFC 9413: Maintaining Robust Protocols](https://www.rfc-editor.org/rfc/rfc9413.html)
