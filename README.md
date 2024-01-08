@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-08, 11:51:11](https://lobste.rs/s/p3irxm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/p3irxm/what_are_you_doing_this_week)
 * [2024-01-08, 10:44:30](https://lobste.rs/s/gmwtcq/aman_s_ai_journal_primers_overview_large) - [Aman's AI Journal • Primers • Overview of Large Language Models](https://aman.ai/primers/ai/LLM/#overview)
 * [2024-01-08, 08:38:18](https://lobste.rs/s/o4zht0/just_because_you_can_doesn_t_mean_you) - [Just because you can doesn't mean you should: the <meter> element](https://localghost.dev/blog/just-because-you-can-doesn-t-mean-you-should-the-meter-element/)
 * [2024-01-08, 08:09:06](https://lobste.rs/s/9owm7z/biggest_smallest_png) - [The Biggest Smallest PNG](https://belkadan.com/blog/2024/01/The-Biggest-Smallest-PNG/)
@@ -23,7 +24,6 @@
 * [2024-01-07, 03:43:29](https://lobste.rs/s/jbrcpv/linux_tpms) - [Linux & TPMs](https://media.ccc.de/v/all-systems-go-2023-186-linux-tpms)
 * [2024-01-07, 03:17:31](https://lobste.rs/s/vqczfd/learnable_programming) - [Learnable Programming](http://worrydream.com/LearnableProgramming/)
 * [2024-01-06, 22:15:59](https://lobste.rs/s/jflhxp/stream_chromecast_with_resolved_vlc_bash) - [Stream to chromecast with resolved, vlc and bash](https://linderud.dev/blog/stream-to-chromecast-with-resolved-vlc-and-bash/)
-* [2024-01-06, 16:55:54](https://lobste.rs/s/0vwhcl/create_webhook_for_email) - [Create Webhook for Email](https://www.email2json.com)
 * [2024-01-06, 06:44:20](https://lobste.rs/s/xmlkqy/systemd_through_eyes_musl_distribution) - [systemd through the eyes of a musl distribution maintainer](https://catfox.life/2024/01/05/systemd-through-the-eyes-of-a-musl-distribution-maintainer/)
 
 ## [Archives](archives/index.md)
