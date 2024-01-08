@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-08, 07:45:29](https://lobste.rs/s/ypck1n/how_stop_linux_threads_cleanly) - [How to stop Linux threads cleanly](https://mazzo.li/posts/stopping-linux-threads.html)
 * [2024-01-08, 05:03:17](https://lobste.rs/s/ywszql/minimalist_postgresql_migrations) - [Minimalist PostgreSQL Migrations](https://nalanj.dev/posts/minimalist-postgresql-migrations/)
 * [2024-01-08, 04:40:34](https://lobste.rs/s/sfvywz/prr_book) - [prr book](https://doc.dxuuu.xyz/prr)
 * [2024-01-08, 02:52:39](https://lobste.rs/s/fbghqy/gno_is_unix_like_environment_for_apple) - [GNO is the UNIX-like environment for the Apple IIgs](https://github.com/GnoConsortium/gno)
@@ -23,7 +24,6 @@
 * [2024-01-06, 16:55:54](https://lobste.rs/s/0vwhcl/create_webhook_for_email) - [Create Webhook for Email](https://www.email2json.com)
 * [2024-01-06, 15:20:08](https://lobste.rs/s/tudkzh/tex_oberon_make_project_oberon_pretty) - [tex-oberon: Make Project Oberon Pretty Again](https://github.com/guidoism/tex-oberon)
 * [2024-01-06, 13:11:36](https://lobste.rs/s/jvxez2/browser_code_playgrounds) - [In-browser code playgrounds](https://antonz.org/in-browser-code-playgrounds/)
-* [2024-01-06, 10:38:16](https://lobste.rs/s/krfamz/origins_j) - [The origins of J](https://github.com/kelas/ooj)
 * [2024-01-06, 06:44:20](https://lobste.rs/s/xmlkqy/systemd_through_eyes_musl_distribution) - [systemd through the eyes of a musl distribution maintainer](https://catfox.life/2024/01/05/systemd-through-the-eyes-of-a-musl-distribution-maintainer/)
 
 ## [Archives](archives/index.md)
