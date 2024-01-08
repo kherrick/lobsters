@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-08, 16:28:28](https://lobste.rs/s/nd9i41/my_postgresql_wishlist) - [My PostgreSQL wishlist](https://ryanguill.com/postgresql/sql/2024/01/08/postgresql-wishlist.html)
 * [2024-01-08, 15:19:31](https://lobste.rs/s/f40dg4/xstate_event_driven_programming_using) - [XState - Event-driven programming using state machines and the actor model](https://stately.ai/docs/xstate)
 * [2024-01-08, 14:13:30](https://lobste.rs/s/tjyvy2/fun_with_embeddings_go) - [Fun With Embeddings in Go](https://cybernetist.com/2024/01/07/fun-with-embeddings/)
 * [2024-01-08, 14:13:03](https://lobste.rs/s/aeomyz/how_openbsd_s_malloc_helps_developer) - [How OpenBSD’s malloc helps the developer](https://www.youtube.com/watch?v=MIjUsv91rXg)
@@ -22,7 +23,6 @@
 * [2024-01-07, 16:36:13](https://lobste.rs/s/v5p9e2/using_zig_commit_toolchains_vcs) - [Using Zig to Commit Toolchains to VCS](https://www.forrestthewoods.com/blog/using-zig-to-commit-toolchains-to-vcs/)
 * [2024-01-07, 14:11:26](https://lobste.rs/s/keqheq/how_i_built_fully_offline_smart_home_why) - [How I built a fully offline smart home, and why you should too](https://www.androidauthority.com/offline-smart-home-3398608/)
 * [2024-01-07, 12:25:58](https://lobste.rs/s/gcilwl/it_s_ok_call_it_artificial_intelligence) - [It’s OK to call it Artificial Intelligence](https://simonwillison.net/2024/Jan/7/call-it-ai/)
-* [2024-01-07, 09:47:49](https://lobste.rs/s/pvp6w8/first_month_nothin_postmarketos) - [First month of nothin' but postmarketOS](https://blog.craftyguy.net/one-month-pmos/)
 * [2024-01-07, 09:07:32](https://lobste.rs/s/nhjikd/weird_things_engineers_believe_about_web) - [Weird things engineers believe about Web development](https://birtles.blog/2024/01/06/weird-things-engineers-believe-about-development/)
 * [2024-01-06, 22:15:59](https://lobste.rs/s/jflhxp/stream_chromecast_with_resolved_vlc_bash) - [Stream to chromecast with resolved, vlc and bash](https://linderud.dev/blog/stream-to-chromecast-with-resolved-vlc-and-bash/)
 
