@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-08, 12:54:26",
+      "https://lobste.rs/s/djxada/missing_point_webassembly"
+    ],
+    [
+      "missing the point of webassembly",
+      "http://wingolog.org/archives/2024/01/08/missing-the-point-of-webassembly"
+    ]
+  ],
+  [
+    [
+      "2024-01-08, 12:53:35",
+      "https://lobste.rs/s/p76shu/restartable_sequence_mechanism_for"
+    ],
+    [
+      "Restartable Sequence Mechanism for TCMalloc",
+      "https://google.github.io/tcmalloc/rseq.html"
+    ]
+  ],
+  [
+    [
       "2024-01-08, 11:51:11",
       "https://lobste.rs/s/p3irxm/what_are_you_doing_this_week"
     ],
@@ -77,16 +97,6 @@
     [
       "GNO is the UNIX-like environment for the Apple IIgs",
       "https://github.com/GnoConsortium/gno"
-    ]
-  ],
-  [
-    [
-      "2024-01-08, 00:57:42",
-      "https://lobste.rs/s/krvzop/adventures_linux_userspace_at_meta"
-    ],
-    [
-      "Adventures of Linux Userspace at Meta",
-      "https://media.ccc.de/v/all-systems-go-2023-193-adventures-of-linux-userspace-at-meta"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Weird things engineers believe about Web development",
       "https://birtles.blog/2024/01/06/weird-things-engineers-believe-about-development/"
-    ]
-  ],
-  [
-    [
-      "2024-01-07, 03:43:29",
-      "https://lobste.rs/s/jbrcpv/linux_tpms"
-    ],
-    [
-      "Linux & TPMs",
-      "https://media.ccc.de/v/all-systems-go-2023-186-linux-tpms"
     ]
   ],
   [
