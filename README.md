@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-09, 15:54:39](https://lobste.rs/s/knhoxl/comparing_lambdas_various_languages) - [Comparing lambdas in various languages (2020)](https://brevzin.github.io/c++/2020/06/18/lambda-lambda-lambda/)
 * [2024-01-09, 15:44:38](https://lobste.rs/s/dpgjpn/numpy_2_is_coming_preventing_breakage) - [NumPy 2 is coming: preventing breakage, updating your code](https://pythonspeed.com/articles/numpy-2/)
 * [2024-01-09, 14:53:40](https://lobste.rs/s/bsfib8/sqlite_3_45_interactive_release_notes) - [SQLite 3.45: Interactive release notes](https://antonz.org/sqlite-3-45/)
 * [2024-01-09, 14:19:17](https://lobste.rs/s/1l71am/expr_5_years_making) - [Expr - 5 Years in the Making](https://expr-lang.org/blog/five-years-in-making)
@@ -8,7 +9,6 @@
 * [2024-01-09, 09:57:31](https://lobste.rs/s/wlwjvy/tail_recursive_body_recursive_function) - [Tail-Recursive & Body-Recursive Function Performance Across Elixir & BEAM versions – what’s the impact of the JIT?](https://pragtob.wordpress.com/2024/01/08/tail-recursive-body-recursive-function-performance-across-elixir-beam-versions-whats-the-impact-of-the-jit/)
 * [2024-01-09, 09:37:20](https://lobste.rs/s/pv2s4d/elixir_is_officially_gradually_typed) - [“Elixir is, officially, a gradually typed language”](https://nitter.net/josevalim/status/1744395345872683471)
 * [2024-01-09, 08:31:57](https://lobste.rs/s/0gchjx/python_3_13_gets_jit) - [Python 3.13 gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
-* [2024-01-09, 08:09:54](https://lobste.rs/s/4fecbg/database_like_ops_benchmark) - [Database-like ops benchmark](https://duckdblabs.github.io/db-benchmark/)
 * [2024-01-09, 07:16:05](https://lobste.rs/s/c6idjn/recovering_markdown_files_from) - [Recovering markdown files from generated html](https://drewsh.com/getting-source-back-from-blogposts.html)
 * [2024-01-09, 03:58:46](https://lobste.rs/s/2umbin/introducing_ocaml_local_mode) - [Introducing the OCaml Local Mode](https://www.youtube.com/watch?v=PgUsmO0YyQc&list=PLCiAikFFaMJrgFrWRKn0-1EI3gVZLQJtJ)
 * [2024-01-09, 02:06:00](https://lobste.rs/s/txcnjn/memory_safe_c) - [Memory Safe C++](https://lobste.rs/s/txcnjn/memory_safe_c)
