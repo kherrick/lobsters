@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-08](index.md)
 
+* [2024-01-08, 23:57:46](https://lobste.rs/s/jrh1od/lobsters_battlestations_screenshots) - [Lobsters Battlestations and Screenshots (2024)](https://lobste.rs/s/jrh1od/lobsters_battlestations_screenshots)
 * [2024-01-08, 23:46:20](https://lobste.rs/s/cvdwwr/learning_about_debuggers) - [Learning about debuggers](https://werat.dev/blog/learning-about-debuggers/)
 * [2024-01-08, 23:28:56](https://lobste.rs/s/mwydlr/browsers_biggest_tls_mistake) - [The browsers biggest TLS mistake](https://blog.benjojo.co.uk/post/browsers-biggest-tls-mistake)
 * [2024-01-08, 22:19:11](https://lobste.rs/s/x1zlmi/deploying_ai_powered_django_apps_modal) - [Deploying AI-powered Django apps to Modal.com](https://tolkunov.dev/posts/django-on-modal/)
