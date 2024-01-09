@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-09](index.md)
 
+* [2024-01-09, 16:30:33](https://lobste.rs/s/lzvqxc/hackers_can_infect_network_connected) - [Hackers can infect network-connected wrenches to install ransomware](https://arstechnica.com/security/2024/01/network-connected-wrenches-used-in-factories-can-be-hacked-for-sabotage-or-ransomware/)
 * [2024-01-09, 15:54:39](https://lobste.rs/s/knhoxl/comparing_lambdas_various_languages) - [Comparing lambdas in various languages (2020)](https://brevzin.github.io/c++/2020/06/18/lambda-lambda-lambda/)
 * [2024-01-09, 15:44:38](https://lobste.rs/s/dpgjpn/numpy_2_is_coming_preventing_breakage) - [NumPy 2 is coming: preventing breakage, updating your code](https://pythonspeed.com/articles/numpy-2/)
 * [2024-01-09, 14:53:40](https://lobste.rs/s/bsfib8/sqlite_3_45_interactive_release_notes) - [SQLite 3.45: Interactive release notes](https://antonz.org/sqlite-3-45/)

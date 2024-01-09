@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-09, 16:30:33](https://lobste.rs/s/lzvqxc/hackers_can_infect_network_connected) - [Hackers can infect network-connected wrenches to install ransomware](https://arstechnica.com/security/2024/01/network-connected-wrenches-used-in-factories-can-be-hacked-for-sabotage-or-ransomware/)
 * [2024-01-09, 15:54:39](https://lobste.rs/s/knhoxl/comparing_lambdas_various_languages) - [Comparing lambdas in various languages (2020)](https://brevzin.github.io/c++/2020/06/18/lambda-lambda-lambda/)
 * [2024-01-09, 15:44:38](https://lobste.rs/s/dpgjpn/numpy_2_is_coming_preventing_breakage) - [NumPy 2 is coming: preventing breakage, updating your code](https://pythonspeed.com/articles/numpy-2/)
 * [2024-01-09, 14:53:40](https://lobste.rs/s/bsfib8/sqlite_3_45_interactive_release_notes) - [SQLite 3.45: Interactive release notes](https://antonz.org/sqlite-3-45/)
@@ -24,7 +25,6 @@
 * [2024-01-08, 14:12:20](https://lobste.rs/s/botwok/eu_cra_what_does_it_mean_for_open_source) - [EU CRA: What does it mean for open source?](https://berthub.eu/articles/posts/eu-cra-what-does-it-mean-for-open-source/)
 * [2024-01-08, 12:54:26](https://lobste.rs/s/djxada/missing_point_webassembly) - [missing the point of webassembly](http://wingolog.org/archives/2024/01/08/missing-the-point-of-webassembly)
 * [2024-01-08, 07:45:29](https://lobste.rs/s/ypck1n/how_stop_linux_threads_cleanly) - [How to stop Linux threads cleanly](https://mazzo.li/posts/stopping-linux-threads.html)
-* [2024-01-08, 04:40:34](https://lobste.rs/s/sfvywz/prr_book) - [prr book](https://doc.dxuuu.xyz/prr)
 
 ## [Archives](archives/index.md)
 
