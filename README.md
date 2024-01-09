@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-09, 03:58:46](https://lobste.rs/s/2umbin/introducing_ocaml_local_mode) - [Introducing the OCaml Local Mode](https://www.youtube.com/watch?v=PgUsmO0YyQc&list=PLCiAikFFaMJrgFrWRKn0-1EI3gVZLQJtJ)
 * [2024-01-09, 02:06:00](https://lobste.rs/s/txcnjn/memory_safe_c) - [Memory Safe C++](https://lobste.rs/s/txcnjn/memory_safe_c)
 * [2024-01-09, 01:25:35](https://lobste.rs/s/lpuuxq/srfi_249_restarting_conditions) - [SRFI 249: Restarting conditions](https://srfi.schemers.org/srfi-249/srfi-249.html)
 * [2024-01-09, 00:32:50](https://lobste.rs/s/qxiv6j/psst_paper_based_secret_sharing) - [psst: Paper-based Secret Sharing Technique](https://github.com/Sjlver/psst)
-* [2024-01-09, 00:16:52](https://lobste.rs/s/m0umz6/configuring_activeadmin_for) - [Configuring ActiveAdmin for performance](https://dev.to/justthev/how-i-manage-to-optimize-my-active-admin-in-4-simple-tricks-aij)
 * [2024-01-08, 23:57:46](https://lobste.rs/s/jrh1od/lobsters_battlestations_screenshots) - [Lobsters Battlestations and Screenshots (2024)](https://lobste.rs/s/jrh1od/lobsters_battlestations_screenshots)
 * [2024-01-08, 23:46:20](https://lobste.rs/s/cvdwwr/learning_about_debuggers) - [Learning about debuggers](https://werat.dev/blog/learning-about-debuggers/)
 * [2024-01-08, 23:28:56](https://lobste.rs/s/mwydlr/browsers_biggest_tls_mistake) - [The browsers biggest TLS mistake](https://blog.benjojo.co.uk/post/browsers-biggest-tls-mistake)
