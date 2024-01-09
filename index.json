@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-09, 02:06:00",
+      "https://lobste.rs/s/txcnjn/memory_safe_c"
+    ],
+    [
+      "Memory Safe C++",
+      "https://lobste.rs/s/txcnjn/memory_safe_c"
+    ]
+  ],
+  [
+    [
       "2024-01-09, 01:25:35",
       "https://lobste.rs/s/lpuuxq/srfi_249_restarting_conditions"
     ],
@@ -22,10 +32,10 @@
   [
     [
       "2024-01-09, 00:16:52",
-      "https://lobste.rs/s/m0umz6/how_i_manage_optimize_my_active_admin_4"
+      "https://lobste.rs/s/m0umz6/configuring_activeadmin_for"
     ],
     [
-      "How I manage to optimize my Active Admin in 4 simple tricks",
+      "Configuring ActiveAdmin for performance",
       "https://dev.to/justthev/how-i-manage-to-optimize-my-active-admin-in-4-simple-tricks-aij"
     ]
   ],
@@ -127,16 +137,6 @@
     [
       "My PostgreSQL wishlist",
       "https://ryanguill.com/postgresql/sql/2024/01/08/postgresql-wishlist.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-08, 14:13:30",
-      "https://lobste.rs/s/tjyvy2/fun_with_embeddings_go"
-    ],
-    [
-      "Fun With Embeddings in Go",
-      "https://cybernetist.com/2024/01/07/fun-with-embeddings/"
     ]
   ],
   [
