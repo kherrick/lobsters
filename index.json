@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-09, 09:57:31",
+      "https://lobste.rs/s/wlwjvy/tail_recursive_body_recursive_function"
+    ],
+    [
+      "Tail-Recursive & Body-Recursive Function Performance Across Elixir & BEAM versions – what’s the impact of the JIT?",
+      "https://pragtob.wordpress.com/2024/01/08/tail-recursive-body-recursive-function-performance-across-elixir-beam-versions-whats-the-impact-of-the-jit/"
+    ]
+  ],
+  [
+    [
       "2024-01-09, 09:37:20",
       "https://lobste.rs/s/pv2s4d/elixir_is_officially_gradually_typed"
     ],
@@ -117,16 +127,6 @@
     [
       "The browsers biggest TLS mistake",
       "https://blog.benjojo.co.uk/post/browsers-biggest-tls-mistake"
-    ]
-  ],
-  [
-    [
-      "2024-01-08, 22:10:28",
-      "https://lobste.rs/s/xwxsw4/unverified_vanity_urls_interest"
-    ],
-    [
-      "Unverified vanity URLs & interest tracking catalyze fraud online",
-      "https://eligrey.com/blog/adtech-catalyzing-fraud/"
     ]
   ],
   [
