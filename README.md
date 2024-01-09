@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-09, 08:09:54](https://lobste.rs/s/4fecbg/database_like_ops_benchmark) - [Database-like ops benchmark](https://duckdblabs.github.io/db-benchmark/)
 * [2024-01-09, 07:16:05](https://lobste.rs/s/c6idjn/recovering_markdown_files_from) - [Recovering markdown files from generated html](https://drewsh.com/getting-source-back-from-blogposts.html)
 * [2024-01-09, 03:58:46](https://lobste.rs/s/2umbin/introducing_ocaml_local_mode) - [Introducing the OCaml Local Mode](https://www.youtube.com/watch?v=PgUsmO0YyQc&list=PLCiAikFFaMJrgFrWRKn0-1EI3gVZLQJtJ)
 * [2024-01-09, 02:06:00](https://lobste.rs/s/txcnjn/memory_safe_c) - [Memory Safe C++](https://lobste.rs/s/txcnjn/memory_safe_c)
@@ -24,7 +25,6 @@
 * [2024-01-08, 05:03:17](https://lobste.rs/s/ywszql/minimalist_postgresql_migrations) - [Minimalist PostgreSQL Migrations](https://nalanj.dev/posts/minimalist-postgresql-migrations/)
 * [2024-01-08, 04:40:34](https://lobste.rs/s/sfvywz/prr_book) - [prr book](https://doc.dxuuu.xyz/prr)
 * [2024-01-07, 22:13:08](https://lobste.rs/s/0b584x/sleeping_through_decade_cocoa) - [Sleeping through a decade of Cocoa: Retrospective from modernizing an old Mac app](https://sporks.space/2024/01/07/sleeping-through-a-decade-of-cocoa-retrospective-from-modernizing-an-old-mac-app/)
-* [2024-01-07, 09:07:32](https://lobste.rs/s/nhjikd/weird_things_engineers_believe_about_web) - [Weird things engineers believe about Web development](https://birtles.blog/2024/01/06/weird-things-engineers-believe-about-development/)
 
 ## [Archives](archives/index.md)
 
