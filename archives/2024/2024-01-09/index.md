@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-09](index.md)
 
+* [2024-01-09, 08:31:57](https://lobste.rs/s/0gchjx/python_3_13_gets_jit) - [Python 3.13 gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
 * [2024-01-09, 08:09:54](https://lobste.rs/s/4fecbg/database_like_ops_benchmark) - [Database-like ops benchmark](https://duckdblabs.github.io/db-benchmark/)
 * [2024-01-09, 07:16:05](https://lobste.rs/s/c6idjn/recovering_markdown_files_from) - [Recovering markdown files from generated html](https://drewsh.com/getting-source-back-from-blogposts.html)
 * [2024-01-09, 05:48:02](https://lobste.rs/s/vdzkjv/open_source_durable_execution) - [Open Source Durable Execution](https://temporal.io/)
