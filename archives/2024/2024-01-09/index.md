@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-09](index.md)
 
+* [2024-01-09, 02:06:00](https://lobste.rs/s/txcnjn/memory_safe_c) - [Memory Safe C++](https://lobste.rs/s/txcnjn/memory_safe_c)
 * [2024-01-09, 01:25:35](https://lobste.rs/s/lpuuxq/srfi_249_restarting_conditions) - [SRFI 249: Restarting conditions](https://srfi.schemers.org/srfi-249/srfi-249.html)
 * [2024-01-09, 00:32:50](https://lobste.rs/s/qxiv6j/psst_paper_based_secret_sharing) - [psst: Paper-based Secret Sharing Technique](https://github.com/Sjlver/psst)
 * [2024-01-09, 00:16:52](https://lobste.rs/s/m0umz6/how_i_manage_optimize_my_active_admin_4) - [How I manage to optimize my Active Admin in 4 simple tricks](https://dev.to/justthev/how-i-manage-to-optimize-my-active-admin-in-4-simple-tricks-aij)
+* [2024-01-09, 00:16:52](https://lobste.rs/s/m0umz6/configuring_activeadmin_for) - [Configuring ActiveAdmin for performance](https://dev.to/justthev/how-i-manage-to-optimize-my-active-admin-in-4-simple-tricks-aij)

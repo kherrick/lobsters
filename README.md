@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-09, 02:06:00](https://lobste.rs/s/txcnjn/memory_safe_c) - [Memory Safe C++](https://lobste.rs/s/txcnjn/memory_safe_c)
 * [2024-01-09, 01:25:35](https://lobste.rs/s/lpuuxq/srfi_249_restarting_conditions) - [SRFI 249: Restarting conditions](https://srfi.schemers.org/srfi-249/srfi-249.html)
 * [2024-01-09, 00:32:50](https://lobste.rs/s/qxiv6j/psst_paper_based_secret_sharing) - [psst: Paper-based Secret Sharing Technique](https://github.com/Sjlver/psst)
-* [2024-01-09, 00:16:52](https://lobste.rs/s/m0umz6/how_i_manage_optimize_my_active_admin_4) - [How I manage to optimize my Active Admin in 4 simple tricks](https://dev.to/justthev/how-i-manage-to-optimize-my-active-admin-in-4-simple-tricks-aij)
+* [2024-01-09, 00:16:52](https://lobste.rs/s/m0umz6/configuring_activeadmin_for) - [Configuring ActiveAdmin for performance](https://dev.to/justthev/how-i-manage-to-optimize-my-active-admin-in-4-simple-tricks-aij)
 * [2024-01-08, 23:57:46](https://lobste.rs/s/jrh1od/lobsters_battlestations_screenshots) - [Lobsters Battlestations and Screenshots (2024)](https://lobste.rs/s/jrh1od/lobsters_battlestations_screenshots)
 * [2024-01-08, 23:46:20](https://lobste.rs/s/cvdwwr/learning_about_debuggers) - [Learning about debuggers](https://werat.dev/blog/learning-about-debuggers/)
 * [2024-01-08, 23:28:56](https://lobste.rs/s/mwydlr/browsers_biggest_tls_mistake) - [The browsers biggest TLS mistake](https://blog.benjojo.co.uk/post/browsers-biggest-tls-mistake)
@@ -13,7 +14,6 @@
 * [2024-01-08, 19:55:19](https://lobste.rs/s/vq8lvw/rfc_9413_maintaining_robust_protocols) - [RFC 9413: Maintaining Robust Protocols](https://www.rfc-editor.org/rfc/rfc9413.html)
 * [2024-01-08, 16:37:40](https://lobste.rs/s/4gthyz/thoughts_on_testing) - [Thoughts on Testing](https://www.brandons.me/blog/thoughts-on-testing)
 * [2024-01-08, 16:28:28](https://lobste.rs/s/nd9i41/my_postgresql_wishlist) - [My PostgreSQL wishlist](https://ryanguill.com/postgresql/sql/2024/01/08/postgresql-wishlist.html)
-* [2024-01-08, 14:13:30](https://lobste.rs/s/tjyvy2/fun_with_embeddings_go) - [Fun With Embeddings in Go](https://cybernetist.com/2024/01/07/fun-with-embeddings/)
 * [2024-01-08, 14:12:20](https://lobste.rs/s/botwok/eu_cra_what_does_it_mean_for_open_source) - [EU CRA: What does it mean for open source?](https://berthub.eu/articles/posts/eu-cra-what-does-it-mean-for-open-source/)
 * [2024-01-08, 12:54:26](https://lobste.rs/s/djxada/missing_point_webassembly) - [missing the point of webassembly](http://wingolog.org/archives/2024/01/08/missing-the-point-of-webassembly)
 * [2024-01-08, 11:51:11](https://lobste.rs/s/p3irxm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/p3irxm/what_are_you_doing_this_week)
