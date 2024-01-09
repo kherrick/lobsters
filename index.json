@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-01-09, 00:32:50",
+      "https://lobste.rs/s/qxiv6j/psst_paper_based_secret_sharing"
+    ],
+    [
+      "psst: Paper-based Secret Sharing Technique",
+      "https://github.com/Sjlver/psst"
+    ]
+  ],
+  [
+    [
+      "2024-01-09, 00:16:52",
+      "https://lobste.rs/s/m0umz6/how_i_manage_optimize_my_active_admin_4"
+    ],
+    [
+      "How I manage to optimize my Active Admin in 4 simple tricks",
+      "https://dev.to/justthev/how-i-manage-to-optimize-my-active-admin-in-4-simple-tricks-aij"
+    ]
+  ],
+  [
+    [
+      "2024-01-08, 23:57:46",
+      "https://lobste.rs/s/jrh1od/lobsters_battlestations_screenshots"
+    ],
+    [
+      "Lobsters Battlestations and Screenshots (2024)",
+      "https://lobste.rs/s/jrh1od/lobsters_battlestations_screenshots"
+    ]
+  ],
+  [
+    [
       "2024-01-08, 23:46:20",
       "https://lobste.rs/s/cvdwwr/learning_about_debuggers"
     ],
@@ -17,16 +47,6 @@
     [
       "The browsers biggest TLS mistake",
       "https://blog.benjojo.co.uk/post/browsers-biggest-tls-mistake"
-    ]
-  ],
-  [
-    [
-      "2024-01-08, 22:19:11",
-      "https://lobste.rs/s/x1zlmi/deploying_ai_powered_django_apps_modal"
-    ],
-    [
-      "Deploying AI-powered Django apps to Modal.com",
-      "https://tolkunov.dev/posts/django-on-modal/"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2024-01-08, 14:13:03",
-      "https://lobste.rs/s/aeomyz/how_openbsd_s_malloc_helps_developer"
-    ],
-    [
-      "How OpenBSD’s malloc helps the developer",
-      "https://www.youtube.com/watch?v=MIjUsv91rXg"
-    ]
-  ],
-  [
-    [
       "2024-01-08, 14:12:20",
       "https://lobste.rs/s/botwok/eu_cra_what_does_it_mean_for_open_source"
     ],
@@ -137,16 +147,6 @@
     [
       "missing the point of webassembly",
       "http://wingolog.org/archives/2024/01/08/missing-the-point-of-webassembly"
-    ]
-  ],
-  [
-    [
-      "2024-01-08, 12:53:35",
-      "https://lobste.rs/s/p76shu/restartable_sequence_mechanism_for"
-    ],
-    [
-      "Restartable Sequence Mechanism for TCMalloc",
-      "https://google.github.io/tcmalloc/rseq.html"
     ]
   ],
   [
