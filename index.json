@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-09, 09:37:20",
+      "https://lobste.rs/s/pv2s4d/elixir_is_officially_gradually_typed"
+    ],
+    [
+      "“Elixir is, officially, a gradually typed language”",
+      "https://nitter.net/josevalim/status/1744395345872683471"
+    ]
+  ],
+  [
+    [
       "2024-01-09, 09:03:17",
       "https://lobste.rs/s/uhwjjk/introducing_snowplow_limited_use"
     ],
@@ -177,16 +187,6 @@
     [
       "missing the point of webassembly",
       "http://wingolog.org/archives/2024/01/08/missing-the-point-of-webassembly"
-    ]
-  ],
-  [
-    [
-      "2024-01-08, 12:53:35",
-      "https://lobste.rs/s/p76shu/restartable_sequence_mechanism_for"
-    ],
-    [
-      "Restartable Sequence Mechanism for TCMalloc",
-      "https://google.github.io/tcmalloc/rseq.html"
     ]
   ],
   [
