@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-09, 14:53:40](https://lobste.rs/s/bsfib8/sqlite_3_45_interactive_release_notes) - [SQLite 3.45: Interactive release notes](https://antonz.org/sqlite-3-45/)
 * [2024-01-09, 14:19:17](https://lobste.rs/s/1l71am/expr_5_years_making) - [Expr - 5 Years in the Making](https://expr-lang.org/blog/five-years-in-making)
 * [2024-01-09, 13:09:01](https://lobste.rs/s/omzecu/ai_toolkit_give_brain_your_game_s_npcs) - [AI Toolkit: Give a brain to your game's NPCs, a header-only C++ library](https://github.com/linkdd/aitoolkit)
 * [2024-01-09, 12:31:10](https://lobste.rs/s/83z5rh/embedding_sophia_runtime_into_go) - [Embedding the Sophia runtime into Go applications](https://xnacly.me/posts/2024/embed-sophia/)
@@ -24,7 +25,6 @@
 * [2024-01-08, 08:09:06](https://lobste.rs/s/9owm7z/biggest_smallest_png) - [The Biggest Smallest PNG](https://belkadan.com/blog/2024/01/The-Biggest-Smallest-PNG/)
 * [2024-01-08, 07:45:29](https://lobste.rs/s/ypck1n/how_stop_linux_threads_cleanly) - [How to stop Linux threads cleanly](https://mazzo.li/posts/stopping-linux-threads.html)
 * [2024-01-08, 04:40:34](https://lobste.rs/s/sfvywz/prr_book) - [prr book](https://doc.dxuuu.xyz/prr)
-* [2024-01-07, 22:13:08](https://lobste.rs/s/0b584x/sleeping_through_decade_cocoa) - [Sleeping through a decade of Cocoa: Retrospective from modernizing an old Mac app](https://sporks.space/2024/01/07/sleeping-through-a-decade-of-cocoa-retrospective-from-modernizing-an-old-mac-app/)
 
 ## [Archives](archives/index.md)
 
