@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-09, 15:44:38",
+      "https://lobste.rs/s/dpgjpn/numpy_2_is_coming_preventing_breakage"
+    ],
+    [
+      "NumPy 2 is coming: preventing breakage, updating your code",
+      "https://pythonspeed.com/articles/numpy-2/"
+    ]
+  ],
+  [
+    [
       "2024-01-09, 14:53:40",
       "https://lobste.rs/s/bsfib8/sqlite_3_45_interactive_release_notes"
     ],
@@ -107,16 +117,6 @@
     [
       "Memory Safe C++",
       "https://lobste.rs/s/txcnjn/memory_safe_c"
-    ]
-  ],
-  [
-    [
-      "2024-01-09, 01:25:35",
-      "https://lobste.rs/s/lpuuxq/srfi_249_restarting_conditions"
-    ],
-    [
-      "SRFI 249: Restarting conditions",
-      "https://srfi.schemers.org/srfi-249/srfi-249.html"
     ]
   ],
   [
