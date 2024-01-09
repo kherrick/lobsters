@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-09, 13:09:01",
+      "https://lobste.rs/s/omzecu/ai_toolkit_give_brain_your_game_s_npcs"
+    ],
+    [
+      "AI Toolkit: Give a brain to your game's NPCs, a header-only C++ library",
+      "https://github.com/linkdd/aitoolkit"
+    ]
+  ],
+  [
+    [
+      "2024-01-09, 12:31:10",
+      "https://lobste.rs/s/83z5rh/embedding_sophia_runtime_into_go"
+    ],
+    [
+      "Embedding the Sophia runtime into Go applications",
+      "https://xnacly.me/posts/2024/embed-sophia/"
+    ]
+  ],
+  [
+    [
       "2024-01-09, 09:57:31",
       "https://lobste.rs/s/wlwjvy/tail_recursive_body_recursive_function"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-01-08, 22:10:28",
-      "https://lobste.rs/s/xwxsw4/unverified_vanity_urls_interest"
-    ],
-    [
-      "Unverified vanity URLs & interest tracking catalyze fraud online",
-      "https://eligrey.com/blog/adtech-catalyzing-fraud/"
-    ]
-  ],
-  [
-    [
       "2024-01-08, 21:02:54",
       "https://lobste.rs/s/aoggwx/path_join_considered_harmful_openat_all"
     ],
@@ -187,16 +197,6 @@
     [
       "missing the point of webassembly",
       "http://wingolog.org/archives/2024/01/08/missing-the-point-of-webassembly"
-    ]
-  ],
-  [
-    [
-      "2024-01-08, 11:51:11",
-      "https://lobste.rs/s/p3irxm/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/p3irxm/what_are_you_doing_this_week"
     ]
   ],
   [
