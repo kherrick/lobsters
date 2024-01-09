@@ -2,7 +2,6 @@
 
 * [2024-01-09, 09:57:31](https://lobste.rs/s/wlwjvy/tail_recursive_body_recursive_function) - [Tail-Recursive & Body-Recursive Function Performance Across Elixir & BEAM versions – what’s the impact of the JIT?](https://pragtob.wordpress.com/2024/01/08/tail-recursive-body-recursive-function-performance-across-elixir-beam-versions-whats-the-impact-of-the-jit/)
 * [2024-01-09, 09:37:20](https://lobste.rs/s/pv2s4d/elixir_is_officially_gradually_typed) - [“Elixir is, officially, a gradually typed language”](https://nitter.net/josevalim/status/1744395345872683471)
-* [2024-01-09, 09:03:17](https://lobste.rs/s/uhwjjk/introducing_snowplow_limited_use) - [Introducing the Snowplow Limited Use License Agreement](https://snowplow.io/blog/introducing-snowplow-limited-use-license/)
 * [2024-01-09, 08:31:57](https://lobste.rs/s/0gchjx/python_3_13_gets_jit) - [Python 3.13 gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
 * [2024-01-09, 08:09:54](https://lobste.rs/s/4fecbg/database_like_ops_benchmark) - [Database-like ops benchmark](https://duckdblabs.github.io/db-benchmark/)
 * [2024-01-09, 07:16:05](https://lobste.rs/s/c6idjn/recovering_markdown_files_from) - [Recovering markdown files from generated html](https://drewsh.com/getting-source-back-from-blogposts.html)
@@ -13,6 +12,7 @@
 * [2024-01-08, 23:57:46](https://lobste.rs/s/jrh1od/lobsters_battlestations_screenshots) - [Lobsters Battlestations and Screenshots (2024)](https://lobste.rs/s/jrh1od/lobsters_battlestations_screenshots)
 * [2024-01-08, 23:46:20](https://lobste.rs/s/cvdwwr/learning_about_debuggers) - [Learning about debuggers](https://werat.dev/blog/learning-about-debuggers/)
 * [2024-01-08, 23:28:56](https://lobste.rs/s/mwydlr/browsers_biggest_tls_mistake) - [The browsers biggest TLS mistake](https://blog.benjojo.co.uk/post/browsers-biggest-tls-mistake)
+* [2024-01-08, 22:10:28](https://lobste.rs/s/xwxsw4/unverified_vanity_urls_interest) - [Unverified vanity URLs & interest tracking catalyze fraud online](https://eligrey.com/blog/adtech-catalyzing-fraud/)
 * [2024-01-08, 21:02:54](https://lobste.rs/s/aoggwx/path_join_considered_harmful_openat_all) - [path.join Considered Harmful, or openat() All The Things](https://val.packett.cool/blog/use-openat/)
 * [2024-01-08, 20:47:38](https://lobste.rs/s/808x6v/ssh_based_comment_system) - [SSH based comment system](https://blog.haschek.at/2023/ssh-based-comment-system.html)
 * [2024-01-08, 20:17:35](https://lobste.rs/s/wtgmk5/til_go_s_compareandswap_is_not_always) - [TIL: Go’s CompareAndSwap is not always Compare-and-swap](https://lu.sagebl.eu/notes/go-cas/)
