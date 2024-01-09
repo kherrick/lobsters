@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-09, 18:33:50](https://lobste.rs/s/fi5kxp/using_git_offline) - [Using Git offline](https://www.gibbard.me/using_git_offline/)
 * [2024-01-09, 18:14:38](https://lobste.rs/s/famjqw/two_reacts) - [The Two Reacts](https://overreacted.io/the-two-reacts/)
 * [2024-01-09, 17:37:21](https://lobste.rs/s/l21uzt/extending_month_infinity) - [Extending the month to infinity](https://feaneron.com/2023/09/15/extending-the-month-to-infinity/)
 * [2024-01-09, 15:54:39](https://lobste.rs/s/knhoxl/comparing_lambdas_various_languages) - [Comparing lambdas in various languages (2020)](https://brevzin.github.io/c++/2020/06/18/lambda-lambda-lambda/)
@@ -22,7 +23,6 @@
 * [2024-01-08, 20:47:38](https://lobste.rs/s/808x6v/ssh_based_comment_system) - [SSH based comment system](https://blog.haschek.at/2023/ssh-based-comment-system.html)
 * [2024-01-08, 20:17:35](https://lobste.rs/s/wtgmk5/til_go_s_compareandswap_is_not_always) - [TIL: Go’s CompareAndSwap is not always Compare-and-swap](https://lu.sagebl.eu/notes/go-cas/)
 * [2024-01-08, 16:28:28](https://lobste.rs/s/nd9i41/my_postgresql_wishlist) - [My PostgreSQL wishlist](https://ryanguill.com/postgresql/sql/2024/01/08/postgresql-wishlist.html)
-* [2024-01-08, 14:12:20](https://lobste.rs/s/botwok/eu_cra_what_does_it_mean_for_open_source) - [EU CRA: What does it mean for open source?](https://berthub.eu/articles/posts/eu-cra-what-does-it-mean-for-open-source/)
 * [2024-01-08, 12:54:26](https://lobste.rs/s/djxada/missing_point_webassembly) - [missing the point of webassembly](http://wingolog.org/archives/2024/01/08/missing-the-point-of-webassembly)
 * [2024-01-08, 07:45:29](https://lobste.rs/s/ypck1n/how_stop_linux_threads_cleanly) - [How to stop Linux threads cleanly](https://mazzo.li/posts/stopping-linux-threads.html)
 

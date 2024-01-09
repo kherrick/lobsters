@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-09](index.md)
 
+* [2024-01-09, 18:33:50](https://lobste.rs/s/fi5kxp/using_git_offline) - [Using Git offline](https://www.gibbard.me/using_git_offline/)
 * [2024-01-09, 18:14:38](https://lobste.rs/s/famjqw/two_reacts) - [The Two Reacts](https://overreacted.io/the-two-reacts/)
 * [2024-01-09, 17:37:21](https://lobste.rs/s/l21uzt/extending_month_infinity) - [Extending the month to infinity](https://feaneron.com/2023/09/15/extending-the-month-to-infinity/)
 * [2024-01-09, 16:30:33](https://lobste.rs/s/lzvqxc/hackers_can_infect_network_connected) - [Hackers can infect network-connected wrenches to install ransomware](https://arstechnica.com/security/2024/01/network-connected-wrenches-used-in-factories-can-be-hacked-for-sabotage-or-ransomware/)
