@@ -8,6 +8,7 @@
 * [2024-01-09, 12:31:10](https://lobste.rs/s/83z5rh/embedding_sophia_runtime_into_go) - [Embedding the Sophia runtime into Go applications](https://xnacly.me/posts/2024/embed-sophia/)
 * [2024-01-09, 09:57:31](https://lobste.rs/s/wlwjvy/tail_recursive_body_recursive_function) - [Tail-Recursive & Body-Recursive Function Performance Across Elixir & BEAM versions – what’s the impact of the JIT?](https://pragtob.wordpress.com/2024/01/08/tail-recursive-body-recursive-function-performance-across-elixir-beam-versions-whats-the-impact-of-the-jit/)
 * [2024-01-09, 09:37:20](https://lobste.rs/s/pv2s4d/elixir_is_officially_gradually_typed) - [“Elixir is, officially, a gradually typed language”](https://nitter.net/josevalim/status/1744395345872683471)
+* [2024-01-09, 09:03:17](https://lobste.rs/s/uhwjjk/introducing_snowplow_limited_use) - [Introducing the Snowplow Limited Use License Agreement](https://snowplow.io/blog/introducing-snowplow-limited-use-license/)
 * [2024-01-09, 08:31:57](https://lobste.rs/s/0gchjx/python_3_13_gets_jit) - [Python 3.13 gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
 * [2024-01-09, 07:16:05](https://lobste.rs/s/c6idjn/recovering_markdown_files_from) - [Recovering markdown files from generated html](https://drewsh.com/getting-source-back-from-blogposts.html)
 * [2024-01-09, 03:58:46](https://lobste.rs/s/2umbin/introducing_ocaml_local_mode) - [Introducing the OCaml Local Mode](https://www.youtube.com/watch?v=PgUsmO0YyQc&list=PLCiAikFFaMJrgFrWRKn0-1EI3gVZLQJtJ)
@@ -22,7 +23,6 @@
 * [2024-01-08, 16:28:28](https://lobste.rs/s/nd9i41/my_postgresql_wishlist) - [My PostgreSQL wishlist](https://ryanguill.com/postgresql/sql/2024/01/08/postgresql-wishlist.html)
 * [2024-01-08, 14:12:20](https://lobste.rs/s/botwok/eu_cra_what_does_it_mean_for_open_source) - [EU CRA: What does it mean for open source?](https://berthub.eu/articles/posts/eu-cra-what-does-it-mean-for-open-source/)
 * [2024-01-08, 12:54:26](https://lobste.rs/s/djxada/missing_point_webassembly) - [missing the point of webassembly](http://wingolog.org/archives/2024/01/08/missing-the-point-of-webassembly)
-* [2024-01-08, 08:09:06](https://lobste.rs/s/9owm7z/biggest_smallest_png) - [The Biggest Smallest PNG](https://belkadan.com/blog/2024/01/The-Biggest-Smallest-PNG/)
 * [2024-01-08, 07:45:29](https://lobste.rs/s/ypck1n/how_stop_linux_threads_cleanly) - [How to stop Linux threads cleanly](https://mazzo.li/posts/stopping-linux-threads.html)
 * [2024-01-08, 04:40:34](https://lobste.rs/s/sfvywz/prr_book) - [prr book](https://doc.dxuuu.xyz/prr)
 
