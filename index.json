@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-10, 19:49:33",
+      "https://lobste.rs/s/qyhip1/rust_temporary_lifetimes_super_let"
+    ],
+    [
+      "Rust Temporary Lifetimes and \"Super Let\"",
+      "https://blog.m-ou.se/super-let/"
+    ]
+  ],
+  [
+    [
       "2024-01-10, 19:44:41",
       "https://lobste.rs/s/faarbv/ai_versus_old_school_creativity"
     ],
@@ -187,16 +197,6 @@
     [
       "Extending the month to infinity",
       "https://feaneron.com/2023/09/15/extending-the-month-to-infinity/"
-    ]
-  ],
-  [
-    [
-      "2024-01-09, 15:54:39",
-      "https://lobste.rs/s/knhoxl/comparing_lambdas_various_languages"
-    ],
-    [
-      "Comparing lambdas in various languages (2020)",
-      "https://brevzin.github.io/c++/2020/06/18/lambda-lambda-lambda/"
     ]
   ],
   [
