@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-10, 19:32:58",
+      "https://lobste.rs/s/p6jfyq/dumping_gba_bios_via_executing_unmapped"
+    ],
+    [
+      "Dumping the GBA BIOS via executing unmapped memory (2017)",
+      "https://mary.rs/lab/gbabios/"
+    ]
+  ],
+  [
+    [
       "2024-01-10, 17:36:51",
       "https://lobste.rs/s/dk9yhs/openwrt_one_celebrating_20_years_openwrt"
     ],
@@ -237,16 +247,6 @@
     [
       "Lobsters Battlestations and Screenshots (2024)",
       "https://lobste.rs/s/jrh1od/lobsters_battlestations_screenshots"
-    ]
-  ],
-  [
-    [
-      "2024-01-08, 21:02:54",
-      "https://lobste.rs/s/aoggwx/path_join_considered_harmful_openat_all"
-    ],
-    [
-      "path.join Considered Harmful, or openat() All The Things",
-      "https://val.packett.cool/blog/use-openat/"
     ]
   ]
 ]
