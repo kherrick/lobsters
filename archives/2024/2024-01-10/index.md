@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-10](index.md)
 
+* [2024-01-10, 15:13:50](https://lobste.rs/s/xirm3h/floss_weekly_is_reborn) - [FLOSS WEEKLY Is Reborn](https://www.danlynch.org/blog/2024/01/floss-weekly-is-reborn/)
 * [2024-01-10, 11:53:53](https://lobste.rs/s/abigdb/annotating_args_kwargs_python) - [Annotating args and kwargs in Python](https://rednafi.com/python/annotate_args_and_kwargs/)
 * [2024-01-10, 11:31:00](https://lobste.rs/s/jigndl/mathematica_14_released) - [Mathematica 14 released](https://writings.stephenwolfram.com/2024/01/the-story-continues-announcing-version-14-of-wolfram-language-and-mathematica/)
 * [2024-01-10, 10:20:41](https://lobste.rs/s/zylirs/why_stdout_is_faster_than_stderr) - [Why stdout is faster than stderr?](https://blog.orhun.dev/stdout-vs-stderr/)
