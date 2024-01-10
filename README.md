@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-10, 00:33:14](https://lobste.rs/s/358mgg/why_all_is_true_prod_is_1_etc) - [Why all([]) is true, prod([]) is 1, etc](https://buttondown.email/hillelwayne/archive/why-any-is-true-prod-is-1-etc/)
 * [2024-01-09, 23:49:03](https://lobste.rs/s/0bpj0o/error_handling_go_web_apps_shouldn_t_be_so) - [Error handling in Go web apps shouldn't be so awkward](https://boldlygo.tech/posts/2024-01-08-error-handling/)
 * [2024-01-09, 20:46:43](https://lobste.rs/s/67oqth/writing_minimal_memory_storage_engine) - [Writing a minimal in-memory storage engine for MySQL/MariaDB](https://notes.eatonphil.com/2024-01-09-minimal-in-memory-storage-engine-for-mysql.html)
 * [2024-01-09, 18:33:50](https://lobste.rs/s/fi5kxp/using_git_offline) - [Using Git offline](https://www.gibbard.me/using_git_offline/)
 * [2024-01-09, 18:14:38](https://lobste.rs/s/famjqw/two_reacts) - [The Two Reacts](https://overreacted.io/the-two-reacts/)
 * [2024-01-09, 17:37:21](https://lobste.rs/s/l21uzt/extending_month_infinity) - [Extending the month to infinity](https://feaneron.com/2023/09/15/extending-the-month-to-infinity/)
-* [2024-01-09, 16:30:33](https://lobste.rs/s/lzvqxc/hackers_can_infect_network_connected) - [Hackers can infect network-connected wrenches to install ransomware](https://arstechnica.com/security/2024/01/network-connected-wrenches-used-in-factories-can-be-hacked-for-sabotage-or-ransomware/)
 * [2024-01-09, 15:54:39](https://lobste.rs/s/knhoxl/comparing_lambdas_various_languages) - [Comparing lambdas in various languages (2020)](https://brevzin.github.io/c++/2020/06/18/lambda-lambda-lambda/)
 * [2024-01-09, 15:44:38](https://lobste.rs/s/dpgjpn/numpy_2_is_coming_preventing_breakage) - [NumPy 2 is coming: preventing breakage, updating your code](https://pythonspeed.com/articles/numpy-2/)
 * [2024-01-09, 14:53:40](https://lobste.rs/s/bsfib8/sqlite_3_45_interactive_release_notes) - [SQLite 3.45: Interactive release notes](https://antonz.org/sqlite-3-45/)
