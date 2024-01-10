@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-01-10](index.md)
 
+* [2024-01-10, 17:36:51](https://lobste.rs/s/dk9yhs/openwrt_one_celebrating_20_years_openwrt) - [OpenWrt One - celebrating 20 years of OpenWrt](https://lwn.net/ml/openwrt-devel/a8aaa495-da0b-4ddc-8c4f-3e1192d8b012@phrozen.org/)
+* [2024-01-10, 17:36:39](https://lobste.rs/s/smbnr1/importance_not_over_optimizing) - [The Importance of Not Over-Optimizing](https://www.youtube.com/watch?v=CV5CjUlcqsw)
+* [2024-01-10, 17:34:38](https://lobste.rs/s/ho5lii/prompt_injection_is_social_engineering) - [Prompt Injection is Social Engineering Applied to Applications](https://perilous.tech/2023/10/24/prompt-injection-is-social-engineering-applied-to-applications/)
 * [2024-01-10, 15:51:38](https://lobste.rs/s/txp71h/10_years_with_dragonflybsd_network_stack) - [10 years with DragonFlyBSD network stack (2017)](https://leaf.dragonflybsd.org/~sephe/AsiaBSDCon%20-%20Dfly.pdf)
 * [2024-01-10, 15:13:50](https://lobste.rs/s/xirm3h/floss_weekly_is_reborn) - [FLOSS WEEKLY Is Reborn](https://www.danlynch.org/blog/2024/01/floss-weekly-is-reborn/)
 * [2024-01-10, 11:53:53](https://lobste.rs/s/abigdb/annotating_args_kwargs_python) - [Annotating args and kwargs in Python](https://rednafi.com/python/annotate_args_and_kwargs/)

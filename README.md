@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-10, 17:36:51](https://lobste.rs/s/dk9yhs/openwrt_one_celebrating_20_years_openwrt) - [OpenWrt One - celebrating 20 years of OpenWrt](https://lwn.net/ml/openwrt-devel/a8aaa495-da0b-4ddc-8c4f-3e1192d8b012@phrozen.org/)
+* [2024-01-10, 17:36:39](https://lobste.rs/s/smbnr1/importance_not_over_optimizing) - [The Importance of Not Over-Optimizing](https://www.youtube.com/watch?v=CV5CjUlcqsw)
+* [2024-01-10, 17:34:38](https://lobste.rs/s/ho5lii/prompt_injection_is_social_engineering) - [Prompt Injection is Social Engineering Applied to Applications](https://perilous.tech/2023/10/24/prompt-injection-is-social-engineering-applied-to-applications/)
 * [2024-01-10, 15:51:38](https://lobste.rs/s/txp71h/10_years_with_dragonflybsd_network_stack) - [10 years with DragonFlyBSD network stack (2017)](https://leaf.dragonflybsd.org/~sephe/AsiaBSDCon%20-%20Dfly.pdf)
 * [2024-01-10, 15:13:50](https://lobste.rs/s/xirm3h/floss_weekly_is_reborn) - [FLOSS WEEKLY Is Reborn](https://www.danlynch.org/blog/2024/01/floss-weekly-is-reborn/)
 * [2024-01-10, 11:53:53](https://lobste.rs/s/abigdb/annotating_args_kwargs_python) - [Annotating args and kwargs in Python](https://rednafi.com/python/annotate_args_and_kwargs/)
@@ -14,17 +17,14 @@
 * [2024-01-09, 18:33:50](https://lobste.rs/s/fi5kxp/using_git_offline) - [Using Git offline](https://www.gibbard.me/using_git_offline/)
 * [2024-01-09, 18:14:38](https://lobste.rs/s/famjqw/two_reacts) - [The Two Reacts](https://overreacted.io/the-two-reacts/)
 * [2024-01-09, 17:37:21](https://lobste.rs/s/l21uzt/extending_month_infinity) - [Extending the month to infinity](https://feaneron.com/2023/09/15/extending-the-month-to-infinity/)
-* [2024-01-09, 16:30:33](https://lobste.rs/s/lzvqxc/hackers_can_infect_network_connected) - [Hackers can infect network-connected wrenches to install ransomware](https://arstechnica.com/security/2024/01/network-connected-wrenches-used-in-factories-can-be-hacked-for-sabotage-or-ransomware/)
 * [2024-01-09, 15:54:39](https://lobste.rs/s/knhoxl/comparing_lambdas_various_languages) - [Comparing lambdas in various languages (2020)](https://brevzin.github.io/c++/2020/06/18/lambda-lambda-lambda/)
 * [2024-01-09, 15:44:38](https://lobste.rs/s/dpgjpn/numpy_2_is_coming_preventing_breakage) - [NumPy 2 is coming: preventing breakage, updating your code](https://pythonspeed.com/articles/numpy-2/)
 * [2024-01-09, 14:19:17](https://lobste.rs/s/1l71am/expr_5_years_making) - [Expr - 5 Years in the Making](https://expr-lang.org/blog/five-years-in-making)
-* [2024-01-09, 09:57:31](https://lobste.rs/s/wlwjvy/tail_recursive_body_recursive_function) - [Tail-Recursive & Body-Recursive Function Performance Across Elixir & BEAM versions – what’s the impact of the JIT?](https://pragtob.wordpress.com/2024/01/08/tail-recursive-body-recursive-function-performance-across-elixir-beam-versions-whats-the-impact-of-the-jit/)
 * [2024-01-09, 09:37:20](https://lobste.rs/s/pv2s4d/elixir_is_officially_gradually_typed) - [“Elixir is, officially, a gradually typed language”](https://nitter.net/josevalim/status/1744395345872683471)
 * [2024-01-09, 08:31:57](https://lobste.rs/s/0gchjx/python_3_13_gets_jit) - [Python 3.13 gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
 * [2024-01-09, 07:16:05](https://lobste.rs/s/c6idjn/recovering_markdown_files_from) - [Recovering markdown files from generated html](https://drewsh.com/getting-source-back-from-blogposts.html)
 * [2024-01-08, 23:57:46](https://lobste.rs/s/jrh1od/lobsters_battlestations_screenshots) - [Lobsters Battlestations and Screenshots (2024)](https://lobste.rs/s/jrh1od/lobsters_battlestations_screenshots)
 * [2024-01-08, 21:02:54](https://lobste.rs/s/aoggwx/path_join_considered_harmful_openat_all) - [path.join Considered Harmful, or openat() All The Things](https://val.packett.cool/blog/use-openat/)
-* [2024-01-08, 16:28:28](https://lobste.rs/s/nd9i41/my_postgresql_wishlist) - [My PostgreSQL wishlist](https://ryanguill.com/postgresql/sql/2024/01/08/postgresql-wishlist.html)
 
 ## [Archives](archives/index.md)
 
