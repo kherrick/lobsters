@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-10, 15:51:38",
+      "https://lobste.rs/s/txp71h/10_years_with_dragonflybsd_network_stack"
+    ],
+    [
+      "10 years with DragonFlyBSD network stack (2017)",
+      "https://leaf.dragonflybsd.org/~sephe/AsiaBSDCon%20-%20Dfly.pdf"
+    ]
+  ],
+  [
+    [
       "2024-01-10, 15:13:50",
       "https://lobste.rs/s/xirm3h/floss_weekly_is_reborn"
     ],
@@ -157,16 +167,6 @@
     [
       "NumPy 2 is coming: preventing breakage, updating your code",
       "https://pythonspeed.com/articles/numpy-2/"
-    ]
-  ],
-  [
-    [
-      "2024-01-09, 14:53:40",
-      "https://lobste.rs/s/bsfib8/sqlite_3_45_interactive_release_notes"
-    ],
-    [
-      "SQLite 3.45: Interactive release notes",
-      "https://antonz.org/sqlite-3-45/"
     ]
   ],
   [
