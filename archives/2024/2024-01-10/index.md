@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-10](index.md)
 
+* [2024-01-10, 19:44:41](https://lobste.rs/s/faarbv/ai_versus_old_school_creativity) - [AI versus old-school creativity](https://blog.still-water.net/ai-versus-old-school-creativity/)
 * [2024-01-10, 19:32:58](https://lobste.rs/s/p6jfyq/dumping_gba_bios_via_executing_unmapped) - [Dumping the GBA BIOS via executing unmapped memory (2017)](https://mary.rs/lab/gbabios/)
 * [2024-01-10, 17:36:51](https://lobste.rs/s/dk9yhs/openwrt_one_celebrating_20_years_openwrt) - [OpenWrt One - celebrating 20 years of OpenWrt](https://lwn.net/ml/openwrt-devel/a8aaa495-da0b-4ddc-8c4f-3e1192d8b012@phrozen.org/)
 * [2024-01-10, 17:36:39](https://lobste.rs/s/smbnr1/importance_not_over_optimizing) - [The Importance of Not Over-Optimizing](https://www.youtube.com/watch?v=CV5CjUlcqsw)
