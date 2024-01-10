@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-09](index.md)
 
 * [2024-01-09, 23:49:03](https://lobste.rs/s/0bpj0o/error_handling_go_web_apps_shouldn_t_be_so) - [Error handling in Go web apps shouldn't be so awkward](https://boldlygo.tech/posts/2024-01-08-error-handling/)
+* [2024-01-09, 21:09:06](https://lobste.rs/s/wpfxgj/global_design_system) - [A Global Design System](https://bradfrost.com/blog/post/a-global-design-system/)
 * [2024-01-09, 20:46:43](https://lobste.rs/s/67oqth/writing_minimal_memory_storage_engine) - [Writing a minimal in-memory storage engine for MySQL/MariaDB](https://notes.eatonphil.com/2024-01-09-minimal-in-memory-storage-engine-for-mysql.html)
 * [2024-01-09, 18:33:50](https://lobste.rs/s/fi5kxp/using_git_offline) - [Using Git offline](https://www.gibbard.me/using_git_offline/)
 * [2024-01-09, 18:14:38](https://lobste.rs/s/famjqw/two_reacts) - [The Two Reacts](https://overreacted.io/the-two-reacts/)
