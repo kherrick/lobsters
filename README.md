@@ -20,7 +20,7 @@
 * [2024-01-09, 23:49:03](https://lobste.rs/s/0bpj0o/error_handling_go_web_apps_shouldn_t_be_so) - [Error handling in Go web apps shouldn't be so awkward](https://boldlygo.tech/posts/2024-01-08-error-handling/)
 * [2024-01-09, 21:09:06](https://lobste.rs/s/wpfxgj/global_design_system) - [A Global Design System](https://bradfrost.com/blog/post/a-global-design-system/)
 * [2024-01-09, 20:46:43](https://lobste.rs/s/67oqth/writing_minimal_memory_storage_engine) - [Writing a minimal in-memory storage engine for MySQL/MariaDB](https://notes.eatonphil.com/2024-01-09-minimal-in-memory-storage-engine-for-mysql.html)
-* [2024-01-09, 18:14:38](https://lobste.rs/s/famjqw/two_reacts) - [The Two Reacts](https://overreacted.io/the-two-reacts/)
+* [2024-01-09, 17:37:21](https://lobste.rs/s/l21uzt/extending_month_infinity) - [Extending the month to infinity](https://feaneron.com/2023/09/15/extending-the-month-to-infinity/)
 * [2024-01-09, 15:44:38](https://lobste.rs/s/dpgjpn/numpy_2_is_coming_preventing_breakage) - [NumPy 2 is coming: preventing breakage, updating your code](https://pythonspeed.com/articles/numpy-2/)
 * [2024-01-09, 14:19:17](https://lobste.rs/s/1l71am/expr_5_years_making) - [Expr - 5 Years in the Making](https://expr-lang.org/blog/five-years-in-making)
 * [2024-01-09, 09:37:20](https://lobste.rs/s/pv2s4d/elixir_is_officially_gradually_typed) - [“Elixir is, officially, a gradually typed language”](https://nitter.net/josevalim/status/1744395345872683471)
