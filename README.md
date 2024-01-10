@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-10, 19:32:58](https://lobste.rs/s/p6jfyq/dumping_gba_bios_via_executing_unmapped) - [Dumping the GBA BIOS via executing unmapped memory (2017)](https://mary.rs/lab/gbabios/)
 * [2024-01-10, 17:36:51](https://lobste.rs/s/dk9yhs/openwrt_one_celebrating_20_years_openwrt) - [OpenWrt One - celebrating 20 years of OpenWrt](https://lwn.net/ml/openwrt-devel/a8aaa495-da0b-4ddc-8c4f-3e1192d8b012@phrozen.org/)
 * [2024-01-10, 17:36:39](https://lobste.rs/s/smbnr1/importance_not_over_optimizing) - [The Importance of Not Over-Optimizing](https://www.youtube.com/watch?v=CV5CjUlcqsw)
 * [2024-01-10, 17:34:38](https://lobste.rs/s/ho5lii/prompt_injection_is_social_engineering) - [Prompt Injection is Social Engineering Applied to Applications](https://perilous.tech/2023/10/24/prompt-injection-is-social-engineering-applied-to-applications/)
@@ -24,7 +25,6 @@
 * [2024-01-09, 08:31:57](https://lobste.rs/s/0gchjx/python_3_13_gets_jit) - [Python 3.13 gets a JIT](https://tonybaloney.github.io/posts/python-gets-a-jit.html)
 * [2024-01-09, 07:16:05](https://lobste.rs/s/c6idjn/recovering_markdown_files_from) - [Recovering markdown files from generated html](https://drewsh.com/getting-source-back-from-blogposts.html)
 * [2024-01-08, 23:57:46](https://lobste.rs/s/jrh1od/lobsters_battlestations_screenshots) - [Lobsters Battlestations and Screenshots (2024)](https://lobste.rs/s/jrh1od/lobsters_battlestations_screenshots)
-* [2024-01-08, 21:02:54](https://lobste.rs/s/aoggwx/path_join_considered_harmful_openat_all) - [path.join Considered Harmful, or openat() All The Things](https://val.packett.cool/blog/use-openat/)
 
 ## [Archives](archives/index.md)
 
