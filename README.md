@@ -23,8 +23,8 @@
 * [2024-01-08, 23:57:46](https://lobste.rs/s/jrh1od/lobsters_battlestations_screenshots) - [Lobsters Battlestations and Screenshots (2024)](https://lobste.rs/s/jrh1od/lobsters_battlestations_screenshots)
 * [2024-01-08, 23:28:56](https://lobste.rs/s/mwydlr/browsers_biggest_tls_mistake) - [The browsers biggest TLS mistake](https://blog.benjojo.co.uk/post/browsers-biggest-tls-mistake)
 * [2024-01-08, 21:02:54](https://lobste.rs/s/aoggwx/path_join_considered_harmful_openat_all) - [path.join Considered Harmful, or openat() All The Things](https://val.packett.cool/blog/use-openat/)
+* [2024-01-08, 20:47:38](https://lobste.rs/s/808x6v/ssh_based_comment_system) - [SSH based comment system](https://blog.haschek.at/2023/ssh-based-comment-system.html)
 * [2024-01-08, 16:28:28](https://lobste.rs/s/nd9i41/my_postgresql_wishlist) - [My PostgreSQL wishlist](https://ryanguill.com/postgresql/sql/2024/01/08/postgresql-wishlist.html)
-* [2024-01-08, 12:54:26](https://lobste.rs/s/djxada/missing_point_webassembly) - [missing the point of webassembly](http://wingolog.org/archives/2024/01/08/missing-the-point-of-webassembly)
 
 ## [Archives](archives/index.md)
 
