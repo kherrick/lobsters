@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-10, 15:51:38](https://lobste.rs/s/txp71h/10_years_with_dragonflybsd_network_stack) - [10 years with DragonFlyBSD network stack (2017)](https://leaf.dragonflybsd.org/~sephe/AsiaBSDCon%20-%20Dfly.pdf)
 * [2024-01-10, 15:13:50](https://lobste.rs/s/xirm3h/floss_weekly_is_reborn) - [FLOSS WEEKLY Is Reborn](https://www.danlynch.org/blog/2024/01/floss-weekly-is-reborn/)
 * [2024-01-10, 11:53:53](https://lobste.rs/s/abigdb/annotating_args_kwargs_python) - [Annotating args and kwargs in Python](https://rednafi.com/python/annotate_args_and_kwargs/)
 * [2024-01-10, 11:31:00](https://lobste.rs/s/jigndl/mathematica_14_released) - [Mathematica 14 released](https://writings.stephenwolfram.com/2024/01/the-story-continues-announcing-version-14-of-wolfram-language-and-mathematica/)
@@ -16,7 +17,6 @@
 * [2024-01-09, 16:30:33](https://lobste.rs/s/lzvqxc/hackers_can_infect_network_connected) - [Hackers can infect network-connected wrenches to install ransomware](https://arstechnica.com/security/2024/01/network-connected-wrenches-used-in-factories-can-be-hacked-for-sabotage-or-ransomware/)
 * [2024-01-09, 15:54:39](https://lobste.rs/s/knhoxl/comparing_lambdas_various_languages) - [Comparing lambdas in various languages (2020)](https://brevzin.github.io/c++/2020/06/18/lambda-lambda-lambda/)
 * [2024-01-09, 15:44:38](https://lobste.rs/s/dpgjpn/numpy_2_is_coming_preventing_breakage) - [NumPy 2 is coming: preventing breakage, updating your code](https://pythonspeed.com/articles/numpy-2/)
-* [2024-01-09, 14:53:40](https://lobste.rs/s/bsfib8/sqlite_3_45_interactive_release_notes) - [SQLite 3.45: Interactive release notes](https://antonz.org/sqlite-3-45/)
 * [2024-01-09, 14:19:17](https://lobste.rs/s/1l71am/expr_5_years_making) - [Expr - 5 Years in the Making](https://expr-lang.org/blog/five-years-in-making)
 * [2024-01-09, 09:57:31](https://lobste.rs/s/wlwjvy/tail_recursive_body_recursive_function) - [Tail-Recursive & Body-Recursive Function Performance Across Elixir & BEAM versions – what’s the impact of the JIT?](https://pragtob.wordpress.com/2024/01/08/tail-recursive-body-recursive-function-performance-across-elixir-beam-versions-whats-the-impact-of-the-jit/)
 * [2024-01-09, 09:37:20](https://lobste.rs/s/pv2s4d/elixir_is_officially_gradually_typed) - [“Elixir is, officially, a gradually typed language”](https://nitter.net/josevalim/status/1744395345872683471)
