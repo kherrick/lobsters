@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-10, 22:03:45](https://lobste.rs/s/lkgyjz/ranking_fruits_sorting_js_k_lil) - [Ranking of Fruits: Sorting in JS, K, and Lil](https://beyondloom.com/blog/rankingoffruits.html)
 * [2024-01-10, 19:49:33](https://lobste.rs/s/qyhip1/rust_temporary_lifetimes_super_let) - [Rust Temporary Lifetimes and \"Super Let\"](https://blog.m-ou.se/super-let/)
 * [2024-01-10, 19:44:41](https://lobste.rs/s/faarbv/ai_versus_old_school_creativity) - [AI versus old-school creativity](https://blog.still-water.net/ai-versus-old-school-creativity/)
 * [2024-01-10, 19:32:58](https://lobste.rs/s/p6jfyq/dumping_gba_bios_via_executing_unmapped) - [Dumping the GBA BIOS via executing unmapped memory (2017)](https://mary.rs/lab/gbabios/)
@@ -23,7 +24,6 @@
 * [2024-01-09, 15:44:38](https://lobste.rs/s/dpgjpn/numpy_2_is_coming_preventing_breakage) - [NumPy 2 is coming: preventing breakage, updating your code](https://pythonspeed.com/articles/numpy-2/)
 * [2024-01-09, 14:19:17](https://lobste.rs/s/1l71am/expr_5_years_making) - [Expr - 5 Years in the Making](https://expr-lang.org/blog/five-years-in-making)
 * [2024-01-09, 09:37:20](https://lobste.rs/s/pv2s4d/elixir_is_officially_gradually_typed) - [“Elixir is, officially, a gradually typed language”](https://nitter.net/josevalim/status/1744395345872683471)
-* [2024-01-09, 07:16:05](https://lobste.rs/s/c6idjn/recovering_markdown_files_from) - [Recovering markdown files from generated html](https://drewsh.com/getting-source-back-from-blogposts.html)
 * [2024-01-08, 23:57:46](https://lobste.rs/s/jrh1od/lobsters_battlestations_screenshots) - [Lobsters Battlestations and Screenshots (2024)](https://lobste.rs/s/jrh1od/lobsters_battlestations_screenshots)
 
 ## [Archives](archives/index.md)

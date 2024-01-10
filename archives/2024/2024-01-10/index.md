@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-10](index.md)
 
+* [2024-01-10, 22:03:45](https://lobste.rs/s/lkgyjz/ranking_fruits_sorting_js_k_lil) - [Ranking of Fruits: Sorting in JS, K, and Lil](https://beyondloom.com/blog/rankingoffruits.html)
 * [2024-01-10, 19:49:33](https://lobste.rs/s/qyhip1/rust_temporary_lifetimes_super_let) - [Rust Temporary Lifetimes and \"Super Let\"](https://blog.m-ou.se/super-let/)
 * [2024-01-10, 19:44:41](https://lobste.rs/s/faarbv/ai_versus_old_school_creativity) - [AI versus old-school creativity](https://blog.still-water.net/ai-versus-old-school-creativity/)
 * [2024-01-10, 19:32:58](https://lobste.rs/s/p6jfyq/dumping_gba_bios_via_executing_unmapped) - [Dumping the GBA BIOS via executing unmapped memory (2017)](https://mary.rs/lab/gbabios/)
