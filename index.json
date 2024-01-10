@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-01-10, 17:36:51",
+      "https://lobste.rs/s/dk9yhs/openwrt_one_celebrating_20_years_openwrt"
+    ],
+    [
+      "OpenWrt One - celebrating 20 years of OpenWrt",
+      "https://lwn.net/ml/openwrt-devel/a8aaa495-da0b-4ddc-8c4f-3e1192d8b012@phrozen.org/"
+    ]
+  ],
+  [
+    [
+      "2024-01-10, 17:36:39",
+      "https://lobste.rs/s/smbnr1/importance_not_over_optimizing"
+    ],
+    [
+      "The Importance of Not Over-Optimizing",
+      "https://www.youtube.com/watch?v=CV5CjUlcqsw"
+    ]
+  ],
+  [
+    [
+      "2024-01-10, 17:34:38",
+      "https://lobste.rs/s/ho5lii/prompt_injection_is_social_engineering"
+    ],
+    [
+      "Prompt Injection is Social Engineering Applied to Applications",
+      "https://perilous.tech/2023/10/24/prompt-injection-is-social-engineering-applied-to-applications/"
+    ]
+  ],
+  [
+    [
       "2024-01-10, 15:51:38",
       "https://lobste.rs/s/txp71h/10_years_with_dragonflybsd_network_stack"
     ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2024-01-09, 16:30:33",
-      "https://lobste.rs/s/lzvqxc/hackers_can_infect_network_connected"
-    ],
-    [
-      "Hackers can infect network-connected wrenches to install ransomware",
-      "https://arstechnica.com/security/2024/01/network-connected-wrenches-used-in-factories-can-be-hacked-for-sabotage-or-ransomware/"
-    ]
-  ],
-  [
-    [
       "2024-01-09, 15:54:39",
       "https://lobste.rs/s/knhoxl/comparing_lambdas_various_languages"
     ],
@@ -177,16 +197,6 @@
     [
       "Expr - 5 Years in the Making",
       "https://expr-lang.org/blog/five-years-in-making"
-    ]
-  ],
-  [
-    [
-      "2024-01-09, 09:57:31",
-      "https://lobste.rs/s/wlwjvy/tail_recursive_body_recursive_function"
-    ],
-    [
-      "Tail-Recursive & Body-Recursive Function Performance Across Elixir & BEAM versions – what’s the impact of the JIT?",
-      "https://pragtob.wordpress.com/2024/01/08/tail-recursive-body-recursive-function-performance-across-elixir-beam-versions-whats-the-impact-of-the-jit/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "path.join Considered Harmful, or openat() All The Things",
       "https://val.packett.cool/blog/use-openat/"
-    ]
-  ],
-  [
-    [
-      "2024-01-08, 16:28:28",
-      "https://lobste.rs/s/nd9i41/my_postgresql_wishlist"
-    ],
-    [
-      "My PostgreSQL wishlist",
-      "https://ryanguill.com/postgresql/sql/2024/01/08/postgresql-wishlist.html"
     ]
   ]
 ]
