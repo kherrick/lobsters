@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-11, 16:55:20](https://lobste.rs/s/gc3caf/how_google_perfected_web) - [How Google perfected the web](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization)
 * [2024-01-11, 14:25:38](https://lobste.rs/s/4ypwik/distributed_systems_horror_stories) - [Distributed Systems Horror Stories: Kubernetes Deep Health Checks](https://encore.dev/blog/horror-stories-k8s)
 * [2024-01-11, 13:45:21](https://lobste.rs/s/mtksdi/bash_irc_quotes_unoffficial_cleaned_irc) - [bash_irc_quotes · Unoffficial of cleaned IRC quotes from bash.org](https://gitlab.com/dwrodri/bash_irc_quotes)
 * [2024-01-11, 13:07:47](https://lobste.rs/s/72mba0/ssh_snake_automatic_traversal_networks) - [SSH-Snake: Automatic traversal of networks using SSH private keys](https://joshua.hu/ssh-snake-ssh-network-traversal-discover-ssh-private-keys-network-graph)
@@ -23,7 +24,6 @@
 * [2024-01-10, 11:31:00](https://lobste.rs/s/jigndl/mathematica_14_released) - [Mathematica 14 released](https://writings.stephenwolfram.com/2024/01/the-story-continues-announcing-version-14-of-wolfram-language-and-mathematica/)
 * [2024-01-10, 10:20:41](https://lobste.rs/s/zylirs/why_stdout_is_faster_than_stderr) - [Why stdout is faster than stderr?](https://blog.orhun.dev/stdout-vs-stderr/)
 * [2024-01-10, 07:57:24](https://lobste.rs/s/fah5nj/how_i_pwned_half_america_s_fast_food_chains) - [How I pwned half of America’s fast food chains, simultaneously](https://mrbruh.com/chattr/)
-* [2024-01-10, 00:33:14](https://lobste.rs/s/358mgg/why_all_is_true_prod_is_1_etc) - [Why all([]) is true, prod([]) is 1, etc](https://buttondown.email/hillelwayne/archive/why-any-is-true-prod-is-1-etc/)
 * [2024-01-09, 23:49:03](https://lobste.rs/s/0bpj0o/error_handling_go_web_apps_shouldn_t_be_so) - [Error handling in Go web apps shouldn't be so awkward](https://boldlygo.tech/posts/2024-01-08-error-handling/)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-11](index.md)
 
+* [2024-01-11, 16:55:20](https://lobste.rs/s/gc3caf/how_google_perfected_web) - [How Google perfected the web](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization)
 * [2024-01-11, 14:25:38](https://lobste.rs/s/4ypwik/distributed_systems_horror_stories) - [Distributed Systems Horror Stories: Kubernetes Deep Health Checks](https://encore.dev/blog/horror-stories-k8s)
 * [2024-01-11, 13:45:21](https://lobste.rs/s/mtksdi/bash_irc_quotes_unoffficial_cleaned_irc) - [bash_irc_quotes · Unoffficial of cleaned IRC quotes from bash.org](https://gitlab.com/dwrodri/bash_irc_quotes)
 * [2024-01-11, 13:07:47](https://lobste.rs/s/72mba0/ssh_snake_automatic_traversal_networks) - [SSH-Snake: Automatic traversal of networks using SSH private keys](https://joshua.hu/ssh-snake-ssh-network-traversal-discover-ssh-private-keys-network-graph)
