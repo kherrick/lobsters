@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-11, 16:59:35](https://lobste.rs/s/rfnw3o/printy_c_with_abc) - [Printy C with ABC](http://tom7.org/abc/paper.pdf)
 * [2024-01-11, 16:55:20](https://lobste.rs/s/gc3caf/how_google_perfected_web) - [How Google perfected the web](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization)
 * [2024-01-11, 14:25:38](https://lobste.rs/s/4ypwik/distributed_systems_horror_stories) - [Distributed Systems Horror Stories: Kubernetes Deep Health Checks](https://encore.dev/blog/horror-stories-k8s)
 * [2024-01-11, 13:45:21](https://lobste.rs/s/mtksdi/bash_irc_quotes_unoffficial_cleaned_irc) - [bash_irc_quotes · Unoffficial of cleaned IRC quotes from bash.org](https://gitlab.com/dwrodri/bash_irc_quotes)
@@ -13,7 +14,6 @@
 * [2024-01-11, 09:42:25](https://lobste.rs/s/lubhcb/elisp_replacement_string) - [Elisp in Replacement String](https://susam.net/maze/elisp-in-replacement-string.html)
 * [2024-01-11, 08:17:11](https://lobste.rs/s/l7hn45/messengers_performance_study) - [Messengers performance study](https://decentim.grafana.net/public-dashboards/92602d3a4aa842ce97812d310077691d)
 * [2024-01-11, 00:59:39](https://lobste.rs/s/7zi4wk/hacking_factorio_from_save_game_remote) - [Hacking Factorio – From save game to remote code execution](https://github.com/Valentin-Metz/writeup_factorio)
-* [2024-01-11, 00:31:35](https://lobste.rs/s/9eimul/30_years_decompilation_unsolved) - [30 Years of Decompilation and the Unsolved Structuring Problem: Part 2](https://mahaloz.re/dec-history-pt2)
 * [2024-01-10, 22:44:38](https://lobste.rs/s/rt04bw/design_principles_elixir_type_system) - [The Design Principles of the Elixir Type System](https://programming-journal.org/2024/8/4/)
 * [2024-01-10, 22:03:45](https://lobste.rs/s/lkgyjz/ranking_fruits_sorting_js_k_lil) - [Ranking of Fruits: Sorting in JS, K, and Lil](https://beyondloom.com/blog/rankingoffruits.html)
 * [2024-01-10, 19:49:33](https://lobste.rs/s/qyhip1/rust_temporary_lifetimes_super_let) - [Rust Temporary Lifetimes and \"Super Let\"](https://blog.m-ou.se/super-let/)

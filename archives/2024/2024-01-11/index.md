@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-11](index.md)
 
+* [2024-01-11, 16:59:35](https://lobste.rs/s/rfnw3o/printy_c_with_abc) - [Printy C with ABC](http://tom7.org/abc/paper.pdf)
 * [2024-01-11, 16:55:20](https://lobste.rs/s/gc3caf/how_google_perfected_web) - [How Google perfected the web](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization)
 * [2024-01-11, 14:25:38](https://lobste.rs/s/4ypwik/distributed_systems_horror_stories) - [Distributed Systems Horror Stories: Kubernetes Deep Health Checks](https://encore.dev/blog/horror-stories-k8s)
 * [2024-01-11, 13:45:21](https://lobste.rs/s/mtksdi/bash_irc_quotes_unoffficial_cleaned_irc) - [bash_irc_quotes · Unoffficial of cleaned IRC quotes from bash.org](https://gitlab.com/dwrodri/bash_irc_quotes)
