@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-11, 13:45:21](https://lobste.rs/s/mtksdi/bash_irc_quotes_unoffficial_cleaned_irc) - [bash_irc_quotes · Unoffficial of cleaned IRC quotes from bash.org](https://gitlab.com/dwrodri/bash_irc_quotes)
 * [2024-01-11, 13:07:47](https://lobste.rs/s/72mba0/ssh_snake_automatic_traversal_networks) - [SSH-Snake: Automatic traversal of networks using SSH private keys](https://joshua.hu/ssh-snake-ssh-network-traversal-discover-ssh-private-keys-network-graph)
 * [2024-01-11, 12:45:10](https://lobste.rs/s/bsqsjk/is_odin_programming_done_right_interview) - [Is Odin \"Programming done right\"? (Interview with creator, Bill Hall)](https://youtu.be/aKYdj0f1iQI)
 * [2024-01-11, 12:23:59](https://lobste.rs/s/f486jm/exploring_gleam_ffi) - [Exploring the Gleam FFI](https://www.jonashietala.se/blog/2024/01/11/exploring_the_gleam_ffi/)
@@ -12,7 +13,6 @@
 * [2024-01-11, 00:59:39](https://lobste.rs/s/7zi4wk/hacking_factorio_from_save_game_remote) - [Hacking Factorio – From save game to remote code execution](https://github.com/Valentin-Metz/writeup_factorio)
 * [2024-01-11, 00:31:35](https://lobste.rs/s/9eimul/30_years_decompilation_unsolved) - [30 Years of Decompilation and the Unsolved Structuring Problem: Part 2](https://mahaloz.re/dec-history-pt2)
 * [2024-01-10, 22:44:38](https://lobste.rs/s/rt04bw/design_principles_elixir_type_system) - [The Design Principles of the Elixir Type System](https://programming-journal.org/2024/8/4/)
-* [2024-01-10, 22:23:20](https://lobste.rs/s/sptbha/delayed_open_source_publication) - [Delayed Open Source Publication](https://opensource.org/delayed-open-source-publication/)
 * [2024-01-10, 22:03:45](https://lobste.rs/s/lkgyjz/ranking_fruits_sorting_js_k_lil) - [Ranking of Fruits: Sorting in JS, K, and Lil](https://beyondloom.com/blog/rankingoffruits.html)
 * [2024-01-10, 19:49:33](https://lobste.rs/s/qyhip1/rust_temporary_lifetimes_super_let) - [Rust Temporary Lifetimes and \"Super Let\"](https://blog.m-ou.se/super-let/)
 * [2024-01-10, 19:44:41](https://lobste.rs/s/faarbv/ai_versus_old_school_creativity) - [AI versus old-school creativity](https://blog.still-water.net/ai-versus-old-school-creativity/)
