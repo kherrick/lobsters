@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-11](index.md)
 
+* [2024-01-11, 21:26:29](https://lobste.rs/s/8p0to1/epoll_api_powering_modern_internet) - [epoll: API powering the modern internet](https://darkcoding.net/software/epoll-the-api-that-powers-the-modern-internet/)
 * [2024-01-11, 19:25:30](https://lobste.rs/s/9jec8p/linux_journey) - [Linux Journey](https://linuxjourney.com/)
 * [2024-01-11, 19:08:34](https://lobste.rs/s/qqm9pa/paper_page_soaring_from_4k_400k_extending) - [Paper page - Soaring from 4K to 400K: Extending LLM's Context with Activation Beacon](https://huggingface.co/papers/2401.03462)
 * [2024-01-11, 18:33:26](https://lobste.rs/s/slsfog/one_ring_problem_abstraction_our_quest) - [The one ring problem: abstraction and our quest for power (2018)](https://www.tedinski.com/2018/01/30/the-one-ring-problem-abstraction-and-power.html)
