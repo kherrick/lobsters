@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-11](index.md)
 
+* [2024-01-11, 17:59:36](https://lobste.rs/s/epzot8/scaling_golang_192_cores_with_heavy_i_o) - [Scaling Golang to 192 Cores with Heavy I/O](https://jazco.dev/2024/01/10/golang-and-epoll/)
 * [2024-01-11, 17:24:02](https://lobste.rs/s/uzm14h/is_htmx_just_another_javascript) - [Is htmx Just Another JavaScript Framework?](https://htmx.org/essays/is-htmx-another-javascript-framework/)
 * [2024-01-11, 17:18:52](https://lobste.rs/s/d4o4ia/first_steps_with_pkgbase) - [First steps with pkgbase](https://phala.isatty.net/~amber/hacks/pkgbase)
 * [2024-01-11, 16:59:35](https://lobste.rs/s/rfnw3o/printy_c_with_abc) - [Printy C with ABC](http://tom7.org/abc/paper.pdf)
