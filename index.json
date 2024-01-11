@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-11, 12:45:10",
+      "https://lobste.rs/s/bsqsjk/is_odin_programming_done_right_interview"
+    ],
+    [
+      "Is Odin \"Programming done right\"? (Interview with creator, Bill Hall)",
+      "https://youtu.be/aKYdj0f1iQI"
+    ]
+  ],
+  [
+    [
       "2024-01-11, 12:23:59",
       "https://lobste.rs/s/f486jm/exploring_gleam_ffi"
     ],
@@ -77,16 +87,6 @@
     [
       "Messengers performance study",
       "https://decentim.grafana.net/public-dashboards/92602d3a4aa842ce97812d310077691d"
-    ]
-  ],
-  [
-    [
-      "2024-01-11, 04:48:40",
-      "https://lobste.rs/s/bm1gzi/dynamodb_foreign_data_wrapper_for"
-    ],
-    [
-      "DynamoDB Foreign Data Wrapper for PostgreSQL",
-      "https://github.com/pgspider/dynamodb_fdw"
     ]
   ],
   [
