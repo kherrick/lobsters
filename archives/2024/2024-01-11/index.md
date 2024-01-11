@@ -7,6 +7,7 @@
 * [2024-01-11, 18:33:26](https://lobste.rs/s/slsfog/one_ring_problem_abstraction_our_quest) - [The one ring problem: abstraction and our quest for power (2018)](https://www.tedinski.com/2018/01/30/the-one-ring-problem-abstraction-and-power.html)
 * [2024-01-11, 18:24:31](https://lobste.rs/s/5y768y/nix_evaluation_performance_thunks) - [Nix Evaluation Performance & Thunks](https://nixos.wiki/wiki/Nix_Evaluation_Performance)
 * [2024-01-11, 18:19:01](https://lobste.rs/s/jqrykn/wayland_really_breaks_things_just_for_now) - [Wayland really breaks things… Just for now?](https://blog.tenstral.net/2024/01/wayland-really-breaks-things-just-for-now.html)
+* [2024-01-11, 18:14:22](https://lobste.rs/s/ttr8op/lobsters_interview_with_david_chisnall) - [Lobsters interview with David Chisnall](https://lobste.rs/s/ttr8op/lobsters_interview_with_david_chisnall)
 * [2024-01-11, 17:59:36](https://lobste.rs/s/epzot8/scaling_golang_192_cores_with_heavy_i_o) - [Scaling Golang to 192 Cores with Heavy I/O](https://jazco.dev/2024/01/10/golang-and-epoll/)
 * [2024-01-11, 17:24:02](https://lobste.rs/s/uzm14h/is_htmx_just_another_javascript) - [Is htmx Just Another JavaScript Framework?](https://htmx.org/essays/is-htmx-another-javascript-framework/)
 * [2024-01-11, 17:18:52](https://lobste.rs/s/d4o4ia/first_steps_with_pkgbase) - [First steps with pkgbase](https://phala.isatty.net/~amber/hacks/pkgbase)
