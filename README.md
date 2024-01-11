@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-11, 11:48:52](https://lobste.rs/s/sgap8j/safe_zero_cost_coercions_for_haskell) - [Safe Zero-Cost Coercions for Haskell](https://www.youtube.com/watch?v=xFy_8n_HdI4)
 * [2024-01-11, 11:37:36](https://lobste.rs/s/ds5phr/1xers_guide_llm_chatgpt_ai) - [The 1xers Guide to LLM, ChatGpt & AI](https://new.pythonforengineers.com/blog/the-1xers-guide-to-llm-chatgpt-ai/)
 * [2024-01-11, 11:33:40](https://lobste.rs/s/lut3d7/x_wing_post_quantum_encryption_scheme) - [X-Wing: A post-quantum encryption scheme that wont fail if the Kyber is broken](https://eprint.iacr.org/2024/039)
 * [2024-01-11, 09:46:50](https://lobste.rs/s/kn7ap0/creating_domain_specific_error_helpers) - [Creating Domain Specific Error Helpers in Go With errors.As](https://blog.carlana.net/post/2020/working-with-errors-as/)
@@ -17,7 +18,6 @@
 * [2024-01-10, 17:36:51](https://lobste.rs/s/dk9yhs/openwrt_one_celebrating_20_years_openwrt) - [OpenWrt One - celebrating 20 years of OpenWrt](https://lwn.net/ml/openwrt-devel/a8aaa495-da0b-4ddc-8c4f-3e1192d8b012@phrozen.org/)
 * [2024-01-10, 17:36:39](https://lobste.rs/s/smbnr1/importance_not_over_optimizing) - [The Importance of Not Over-Optimizing](https://www.youtube.com/watch?v=CV5CjUlcqsw)
 * [2024-01-10, 15:51:38](https://lobste.rs/s/txp71h/10_years_with_dragonflybsd_network_stack) - [10 years with DragonFlyBSD network stack (2017)](https://leaf.dragonflybsd.org/~sephe/AsiaBSDCon%20-%20Dfly.pdf)
-* [2024-01-10, 15:13:50](https://lobste.rs/s/xirm3h/floss_weekly_is_reborn) - [FLOSS WEEKLY Is Reborn](https://www.danlynch.org/blog/2024/01/floss-weekly-is-reborn/)
 * [2024-01-10, 11:53:53](https://lobste.rs/s/abigdb/annotating_args_kwargs_python) - [Annotating args and kwargs in Python](https://rednafi.com/python/annotate_args_and_kwargs/)
 * [2024-01-10, 11:31:00](https://lobste.rs/s/jigndl/mathematica_14_released) - [Mathematica 14 released](https://writings.stephenwolfram.com/2024/01/the-story-continues-announcing-version-14-of-wolfram-language-and-mathematica/)
 * [2024-01-10, 10:20:41](https://lobste.rs/s/zylirs/why_stdout_is_faster_than_stderr) - [Why stdout is faster than stderr?](https://blog.orhun.dev/stdout-vs-stderr/)
