@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-11, 00:59:39](https://lobste.rs/s/7zi4wk/hacking_factorio_from_save_game_remote) - [Hacking Factorio – From save game to remote code execution](https://github.com/Valentin-Metz/writeup_factorio)
 * [2024-01-11, 00:31:35](https://lobste.rs/s/9eimul/30_years_decompilation_unsolved) - [30 Years of Decompilation and the Unsolved Structuring Problem: Part 2](https://mahaloz.re/dec-history-pt2)
 * [2024-01-10, 22:44:38](https://lobste.rs/s/rt04bw/design_principles_elixir_type_system) - [The Design Principles of the Elixir Type System](https://programming-journal.org/2024/8/4/)
 * [2024-01-10, 22:23:20](https://lobste.rs/s/sptbha/delayed_open_source_publication) - [Delayed Open Source Publication](https://opensource.org/delayed-open-source-publication/)
@@ -24,7 +25,6 @@
 * [2024-01-09, 15:44:38](https://lobste.rs/s/dpgjpn/numpy_2_is_coming_preventing_breakage) - [NumPy 2 is coming: preventing breakage, updating your code](https://pythonspeed.com/articles/numpy-2/)
 * [2024-01-09, 14:19:17](https://lobste.rs/s/1l71am/expr_5_years_making) - [Expr - 5 Years in the Making](https://expr-lang.org/blog/five-years-in-making)
 * [2024-01-09, 09:37:20](https://lobste.rs/s/pv2s4d/elixir_is_officially_gradually_typed) - [“Elixir is, officially, a gradually typed language”](https://nitter.net/josevalim/status/1744395345872683471)
-* [2024-01-08, 23:57:46](https://lobste.rs/s/jrh1od/lobsters_battlestations_screenshots) - [Lobsters Battlestations and Screenshots (2024)](https://lobste.rs/s/jrh1od/lobsters_battlestations_screenshots)
 
 ## [Archives](archives/index.md)
 
