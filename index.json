@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-01-11, 16:59:35",
-      "https://lobste.rs/s/rfnw3o/printy_c_with_abc"
+      "2024-01-11, 17:24:02",
+      "https://lobste.rs/s/uzm14h/is_htmx_just_another_javascript"
     ],
     [
-      "Printy C with ABC",
-      "http://tom7.org/abc/paper.pdf"
+      "Is htmx Just Another JavaScript Framework?",
+      "https://htmx.org/essays/is-htmx-another-javascript-framework/"
+    ]
+  ],
+  [
+    [
+      "2024-01-11, 17:18:52",
+      "https://lobste.rs/s/d4o4ia/first_steps_with_pkgbase"
+    ],
+    [
+      "First steps with pkgbase",
+      "https://phala.isatty.net/~amber/hacks/pkgbase"
     ]
   ],
   [
@@ -27,16 +37,6 @@
     [
       "Distributed Systems Horror Stories: Kubernetes Deep Health Checks",
       "https://encore.dev/blog/horror-stories-k8s"
-    ]
-  ],
-  [
-    [
-      "2024-01-11, 13:45:21",
-      "https://lobste.rs/s/mtksdi/bash_irc_quotes_unoffficial_cleaned_irc"
-    ],
-    [
-      "bash_irc_quotes · Unoffficial of cleaned IRC quotes from bash.org",
-      "https://gitlab.com/dwrodri/bash_irc_quotes"
     ]
   ],
   [
