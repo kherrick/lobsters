@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-11](index.md)
 
+* [2024-01-11, 12:23:59](https://lobste.rs/s/f486jm/exploring_gleam_ffi) - [Exploring the Gleam FFI](https://www.jonashietala.se/blog/2024/01/11/exploring_the_gleam_ffi/)
+* [2024-01-11, 12:21:04](https://lobste.rs/s/iwrusm/jsfree_community_curated_collection_web) - [jsfree: a community-curated collection of web services that work without JavaScript](https://jsfree.org/)
 * [2024-01-11, 11:48:52](https://lobste.rs/s/sgap8j/safe_zero_cost_coercions_for_haskell) - [Safe Zero-Cost Coercions for Haskell](https://www.youtube.com/watch?v=xFy_8n_HdI4)
 * [2024-01-11, 11:37:36](https://lobste.rs/s/ds5phr/1xers_guide_llm_chatgpt_ai) - [The 1xers Guide to LLM, ChatGpt & AI](https://new.pythonforengineers.com/blog/the-1xers-guide-to-llm-chatgpt-ai/)
 * [2024-01-11, 11:33:40](https://lobste.rs/s/lut3d7/x_wing_post_quantum_encryption_scheme) - [X-Wing: A post-quantum encryption scheme that wont fail if the Kyber is broken](https://eprint.iacr.org/2024/039)

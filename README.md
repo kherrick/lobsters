@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-11, 12:23:59](https://lobste.rs/s/f486jm/exploring_gleam_ffi) - [Exploring the Gleam FFI](https://www.jonashietala.se/blog/2024/01/11/exploring_the_gleam_ffi/)
+* [2024-01-11, 12:21:04](https://lobste.rs/s/iwrusm/jsfree_community_curated_collection_web) - [jsfree: a community-curated collection of web services that work without JavaScript](https://jsfree.org/)
 * [2024-01-11, 11:48:52](https://lobste.rs/s/sgap8j/safe_zero_cost_coercions_for_haskell) - [Safe Zero-Cost Coercions for Haskell](https://www.youtube.com/watch?v=xFy_8n_HdI4)
 * [2024-01-11, 11:37:36](https://lobste.rs/s/ds5phr/1xers_guide_llm_chatgpt_ai) - [The 1xers Guide to LLM, ChatGpt & AI](https://new.pythonforengineers.com/blog/the-1xers-guide-to-llm-chatgpt-ai/)
 * [2024-01-11, 11:33:40](https://lobste.rs/s/lut3d7/x_wing_post_quantum_encryption_scheme) - [X-Wing: A post-quantum encryption scheme that wont fail if the Kyber is broken](https://eprint.iacr.org/2024/039)
@@ -16,7 +18,6 @@
 * [2024-01-10, 19:44:41](https://lobste.rs/s/faarbv/ai_versus_old_school_creativity) - [AI versus old-school creativity](https://blog.still-water.net/ai-versus-old-school-creativity/)
 * [2024-01-10, 19:32:58](https://lobste.rs/s/p6jfyq/dumping_gba_bios_via_executing_unmapped) - [Dumping the GBA BIOS via executing unmapped memory (2017)](https://mary.rs/lab/gbabios/)
 * [2024-01-10, 17:36:51](https://lobste.rs/s/dk9yhs/openwrt_one_celebrating_20_years_openwrt) - [OpenWrt One - celebrating 20 years of OpenWrt](https://lwn.net/ml/openwrt-devel/a8aaa495-da0b-4ddc-8c4f-3e1192d8b012@phrozen.org/)
-* [2024-01-10, 17:36:39](https://lobste.rs/s/smbnr1/importance_not_over_optimizing) - [The Importance of Not Over-Optimizing](https://www.youtube.com/watch?v=CV5CjUlcqsw)
 * [2024-01-10, 15:51:38](https://lobste.rs/s/txp71h/10_years_with_dragonflybsd_network_stack) - [10 years with DragonFlyBSD network stack (2017)](https://leaf.dragonflybsd.org/~sephe/AsiaBSDCon%20-%20Dfly.pdf)
 * [2024-01-10, 11:53:53](https://lobste.rs/s/abigdb/annotating_args_kwargs_python) - [Annotating args and kwargs in Python](https://rednafi.com/python/annotate_args_and_kwargs/)
 * [2024-01-10, 11:31:00](https://lobste.rs/s/jigndl/mathematica_14_released) - [Mathematica 14 released](https://writings.stephenwolfram.com/2024/01/the-story-continues-announcing-version-14-of-wolfram-language-and-mathematica/)
@@ -24,7 +25,6 @@
 * [2024-01-10, 07:57:24](https://lobste.rs/s/fah5nj/how_i_pwned_half_america_s_fast_food_chains) - [How I pwned half of America’s fast food chains, simultaneously](https://mrbruh.com/chattr/)
 * [2024-01-10, 00:33:14](https://lobste.rs/s/358mgg/why_all_is_true_prod_is_1_etc) - [Why all([]) is true, prod([]) is 1, etc](https://buttondown.email/hillelwayne/archive/why-any-is-true-prod-is-1-etc/)
 * [2024-01-09, 23:49:03](https://lobste.rs/s/0bpj0o/error_handling_go_web_apps_shouldn_t_be_so) - [Error handling in Go web apps shouldn't be so awkward](https://boldlygo.tech/posts/2024-01-08-error-handling/)
-* [2024-01-09, 09:37:20](https://lobste.rs/s/pv2s4d/elixir_is_officially_gradually_typed) - [“Elixir is, officially, a gradually typed language”](https://nitter.net/josevalim/status/1744395345872683471)
 
 ## [Archives](archives/index.md)
 
