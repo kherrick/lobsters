@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-11](index.md)
 
+* [2024-01-11, 12:45:10](https://lobste.rs/s/bsqsjk/is_odin_programming_done_right_interview) - [Is Odin \"Programming done right\"? (Interview with creator, Bill Hall)](https://youtu.be/aKYdj0f1iQI)
 * [2024-01-11, 12:23:59](https://lobste.rs/s/f486jm/exploring_gleam_ffi) - [Exploring the Gleam FFI](https://www.jonashietala.se/blog/2024/01/11/exploring_the_gleam_ffi/)
 * [2024-01-11, 12:21:04](https://lobste.rs/s/iwrusm/jsfree_community_curated_collection_web) - [jsfree: a community-curated collection of web services that work without JavaScript](https://jsfree.org/)
 * [2024-01-11, 11:48:52](https://lobste.rs/s/sgap8j/safe_zero_cost_coercions_for_haskell) - [Safe Zero-Cost Coercions for Haskell](https://www.youtube.com/watch?v=xFy_8n_HdI4)
