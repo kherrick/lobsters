@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-11, 04:48:40",
+      "https://lobste.rs/s/bm1gzi/dynamodb_foreign_data_wrapper_for"
+    ],
+    [
+      "DynamoDB Foreign Data Wrapper for PostgreSQL",
+      "https://github.com/pgspider/dynamodb_fdw"
+    ]
+  ],
+  [
+    [
       "2024-01-11, 00:59:39",
       "https://lobste.rs/s/7zi4wk/hacking_factorio_from_save_game_remote"
     ],
@@ -97,16 +107,6 @@
     [
       "The Importance of Not Over-Optimizing",
       "https://www.youtube.com/watch?v=CV5CjUlcqsw"
-    ]
-  ],
-  [
-    [
-      "2024-01-10, 17:34:38",
-      "https://lobste.rs/s/ho5lii/prompt_injection_is_social_engineering"
-    ],
-    [
-      "Prompt Injection is Social Engineering Applied to Applications",
-      "https://perilous.tech/2023/10/24/prompt-injection-is-social-engineering-applied-to-applications/"
     ]
   ],
   [
