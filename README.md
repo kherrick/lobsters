@@ -2,6 +2,7 @@
 
 * [2024-01-11, 17:24:02](https://lobste.rs/s/uzm14h/is_htmx_just_another_javascript) - [Is htmx Just Another JavaScript Framework?](https://htmx.org/essays/is-htmx-another-javascript-framework/)
 * [2024-01-11, 17:18:52](https://lobste.rs/s/d4o4ia/first_steps_with_pkgbase) - [First steps with pkgbase](https://phala.isatty.net/~amber/hacks/pkgbase)
+* [2024-01-11, 16:59:35](https://lobste.rs/s/rfnw3o/printy_c_with_abc) - [Printy C with ABC](http://tom7.org/abc/paper.pdf)
 * [2024-01-11, 16:55:20](https://lobste.rs/s/gc3caf/how_google_perfected_web) - [How Google perfected the web](https://www.theverge.com/c/23998379/google-search-seo-algorithm-webpage-optimization)
 * [2024-01-11, 14:25:38](https://lobste.rs/s/4ypwik/distributed_systems_horror_stories) - [Distributed Systems Horror Stories: Kubernetes Deep Health Checks](https://encore.dev/blog/horror-stories-k8s)
 * [2024-01-11, 13:07:47](https://lobste.rs/s/72mba0/ssh_snake_automatic_traversal_networks) - [SSH-Snake: Automatic traversal of networks using SSH private keys](https://joshua.hu/ssh-snake-ssh-network-traversal-discover-ssh-private-keys-network-graph)
@@ -23,7 +24,6 @@
 * [2024-01-10, 11:53:53](https://lobste.rs/s/abigdb/annotating_args_kwargs_python) - [Annotating args and kwargs in Python](https://rednafi.com/python/annotate_args_and_kwargs/)
 * [2024-01-10, 11:31:00](https://lobste.rs/s/jigndl/mathematica_14_released) - [Mathematica 14 released](https://writings.stephenwolfram.com/2024/01/the-story-continues-announcing-version-14-of-wolfram-language-and-mathematica/)
 * [2024-01-10, 10:20:41](https://lobste.rs/s/zylirs/why_stdout_is_faster_than_stderr) - [Why stdout is faster than stderr?](https://blog.orhun.dev/stdout-vs-stderr/)
-* [2024-01-10, 07:57:24](https://lobste.rs/s/fah5nj/how_i_pwned_half_america_s_fast_food_chains) - [How I pwned half of America’s fast food chains, simultaneously](https://mrbruh.com/chattr/)
 * [2024-01-09, 23:49:03](https://lobste.rs/s/0bpj0o/error_handling_go_web_apps_shouldn_t_be_so) - [Error handling in Go web apps shouldn't be so awkward](https://boldlygo.tech/posts/2024-01-08-error-handling/)
 
 ## [Archives](archives/index.md)
