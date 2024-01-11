@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-11, 11:37:36](https://lobste.rs/s/ds5phr/1xers_guide_llm_chatgpt_ai) - [The 1xers Guide to LLM, ChatGpt & AI](https://new.pythonforengineers.com/blog/the-1xers-guide-to-llm-chatgpt-ai/)
+* [2024-01-11, 11:33:40](https://lobste.rs/s/lut3d7/x_wing_post_quantum_encryption_scheme) - [X-Wing: A post-quantum encryption scheme that wont fail if the Kyber is broken](https://eprint.iacr.org/2024/039)
 * [2024-01-11, 09:46:50](https://lobste.rs/s/kn7ap0/creating_domain_specific_error_helpers) - [Creating Domain Specific Error Helpers in Go With errors.As](https://blog.carlana.net/post/2020/working-with-errors-as/)
 * [2024-01-11, 09:42:25](https://lobste.rs/s/lubhcb/elisp_replacement_string) - [Elisp in Replacement String](https://susam.net/maze/elisp-in-replacement-string.html)
 * [2024-01-11, 08:17:11](https://lobste.rs/s/l7hn45/messengers_performance_study) - [Messengers performance study](https://decentim.grafana.net/public-dashboards/92602d3a4aa842ce97812d310077691d)
@@ -20,10 +22,8 @@
 * [2024-01-10, 11:31:00](https://lobste.rs/s/jigndl/mathematica_14_released) - [Mathematica 14 released](https://writings.stephenwolfram.com/2024/01/the-story-continues-announcing-version-14-of-wolfram-language-and-mathematica/)
 * [2024-01-10, 10:20:41](https://lobste.rs/s/zylirs/why_stdout_is_faster_than_stderr) - [Why stdout is faster than stderr?](https://blog.orhun.dev/stdout-vs-stderr/)
 * [2024-01-10, 07:57:24](https://lobste.rs/s/fah5nj/how_i_pwned_half_america_s_fast_food_chains) - [How I pwned half of America’s fast food chains, simultaneously](https://mrbruh.com/chattr/)
-* [2024-01-10, 07:00:52](https://lobste.rs/s/mew3zf/vcc_vulkan_clang_compiler) - [Vcc - the Vulkan Clang Compiler](https://shady-gang.github.io/vcc/)
 * [2024-01-10, 00:33:14](https://lobste.rs/s/358mgg/why_all_is_true_prod_is_1_etc) - [Why all([]) is true, prod([]) is 1, etc](https://buttondown.email/hillelwayne/archive/why-any-is-true-prod-is-1-etc/)
 * [2024-01-09, 23:49:03](https://lobste.rs/s/0bpj0o/error_handling_go_web_apps_shouldn_t_be_so) - [Error handling in Go web apps shouldn't be so awkward](https://boldlygo.tech/posts/2024-01-08-error-handling/)
-* [2024-01-09, 14:19:17](https://lobste.rs/s/1l71am/expr_5_years_making) - [Expr - 5 Years in the Making](https://expr-lang.org/blog/five-years-in-making)
 * [2024-01-09, 09:37:20](https://lobste.rs/s/pv2s4d/elixir_is_officially_gradually_typed) - [“Elixir is, officially, a gradually typed language”](https://nitter.net/josevalim/status/1744395345872683471)
 
 ## [Archives](archives/index.md)

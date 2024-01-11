@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-11](index.md)
 
+* [2024-01-11, 11:37:36](https://lobste.rs/s/ds5phr/1xers_guide_llm_chatgpt_ai) - [The 1xers Guide to LLM, ChatGpt & AI](https://new.pythonforengineers.com/blog/the-1xers-guide-to-llm-chatgpt-ai/)
+* [2024-01-11, 11:33:40](https://lobste.rs/s/lut3d7/x_wing_post_quantum_encryption_scheme) - [X-Wing: A post-quantum encryption scheme that wont fail if the Kyber is broken](https://eprint.iacr.org/2024/039)
 * [2024-01-11, 09:46:50](https://lobste.rs/s/kn7ap0/creating_domain_specific_error_helpers) - [Creating Domain Specific Error Helpers in Go With errors.As](https://blog.carlana.net/post/2020/working-with-errors-as/)
 * [2024-01-11, 09:42:25](https://lobste.rs/s/lubhcb/elisp_replacement_string) - [Elisp in Replacement String](https://susam.net/maze/elisp-in-replacement-string.html)
 * [2024-01-11, 08:17:11](https://lobste.rs/s/l7hn45/messengers_performance_study) - [Messengers performance study](https://decentim.grafana.net/public-dashboards/92602d3a4aa842ce97812d310077691d)
