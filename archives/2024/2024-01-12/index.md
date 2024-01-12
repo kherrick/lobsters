@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-12](index.md)
 
+* [2024-01-12, 11:28:36](https://lobste.rs/s/de9gjb/exploring_podman_more_secure_docker) - [Exploring Podman: A More Secure Docker Alternative](https://betterstack.com/community/guides/scaling-docker/podman-vs-docker/)
 * [2024-01-12, 10:31:11](https://lobste.rs/s/ubuox0/curated_list_content_blocking_rules) - [A curated list of content blocking rules](https://letsblock.it/)
 * [2024-01-12, 10:08:38](https://lobste.rs/s/lgwcpb/statement_regarding_ongoing_sourcehut) - [Statement regarding the ongoing SourceHut outage](https://outage.sr.ht/)
 * [2024-01-12, 10:02:44](https://lobste.rs/s/cyzk7d/nuemark_markdown_dialect_for_rich) - [Nuemark: Markdown dialect for rich, interactive content](https://nuejs.org/blog/introducing-nuemark/)
