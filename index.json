@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-12, 08:56:44",
+      "https://lobste.rs/s/wfsvkr/attack_week_airdrop_tracing"
+    ],
+    [
+      "Attack of the week: Airdrop tracing",
+      "https://blog.cryptographyengineering.com/2024/01/11/attack-of-the-week-airdrop-tracing/"
+    ]
+  ],
+  [
+    [
       "2024-01-12, 06:52:02",
       "https://lobste.rs/s/rie8lx/raddebugger_native_user_mode_multi"
     ],
@@ -47,16 +57,6 @@
     [
       "Introduction to GPU Programming in Chapel",
       "https://chapel-lang.org/blog/posts/intro-to-gpus/"
-    ]
-  ],
-  [
-    [
-      "2024-01-11, 19:08:34",
-      "https://lobste.rs/s/qqm9pa/paper_page_soaring_from_4k_400k_extending"
-    ],
-    [
-      "Paper page - Soaring from 4K to 400K: Extending LLM's Context with Activation Beacon",
-      "https://huggingface.co/papers/2401.03462"
     ]
   ],
   [
