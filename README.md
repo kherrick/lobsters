@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-12, 09:29:48](https://lobste.rs/s/sjdsfz/introduction_apache_hudi) - [Introduction to Apache Hudi](https://medium.com/p/209521970112)
+* [2024-01-12, 09:28:14](https://lobste.rs/s/4xk78u/future_nlp_chris_manning_stanford) - [Future of NLP - Chris Manning Stanford CoreNLP](https://youtu.be/xk01kx_klOE?si=goj1P1zttuUEXU-R)
 * [2024-01-12, 08:56:44](https://lobste.rs/s/wfsvkr/attack_week_airdrop_tracing) - [Attack of the week: Airdrop tracing](https://blog.cryptographyengineering.com/2024/01/11/attack-of-the-week-airdrop-tracing/)
 * [2024-01-12, 06:52:02](https://lobste.rs/s/rie8lx/raddebugger_native_user_mode_multi) - [raddebugger: A native, user-mode, multi-process, graphical debugger](https://github.com/EpicGames/raddebugger)
 * [2024-01-12, 03:47:52](https://lobste.rs/s/s5q1vb/you_might_only_need_tablet_for_computer) - [You (Might) Only Need a Tablet for Computer Science](https://ezrizhu.com/blog/tablet-for-cs)
@@ -19,12 +21,10 @@
 * [2024-01-11, 12:23:59](https://lobste.rs/s/f486jm/exploring_gleam_ffi) - [Exploring the Gleam FFI](https://www.jonashietala.se/blog/2024/01/11/exploring_the_gleam_ffi/)
 * [2024-01-11, 12:21:04](https://lobste.rs/s/iwrusm/jsfree_community_curated_collection_web) - [jsfree: a community-curated collection of web services that work without JavaScript](https://jsfree.org/)
 * [2024-01-11, 11:33:40](https://lobste.rs/s/lut3d7/x_wing_post_quantum_encryption_scheme) - [X-Wing: A post-quantum encryption scheme that wont fail if the Kyber is broken](https://eprint.iacr.org/2024/039)
-* [2024-01-11, 09:46:50](https://lobste.rs/s/kn7ap0/creating_domain_specific_error_helpers) - [Creating Domain Specific Error Helpers in Go With errors.As](https://blog.carlana.net/post/2020/working-with-errors-as/)
 * [2024-01-11, 09:42:25](https://lobste.rs/s/lubhcb/elisp_replacement_string) - [Elisp in Replacement String](https://susam.net/maze/elisp-in-replacement-string.html)
 * [2024-01-11, 08:17:11](https://lobste.rs/s/l7hn45/messengers_performance_study) - [Messengers performance study](https://decentim.grafana.net/public-dashboards/92602d3a4aa842ce97812d310077691d)
 * [2024-01-10, 22:03:45](https://lobste.rs/s/lkgyjz/ranking_fruits_sorting_js_k_lil) - [Ranking of Fruits: Sorting in JS, K, and Lil](https://beyondloom.com/blog/rankingoffruits.html)
 * [2024-01-10, 19:32:58](https://lobste.rs/s/p6jfyq/dumping_gba_bios_via_executing_unmapped) - [Dumping the GBA BIOS via executing unmapped memory (2017)](https://mary.rs/lab/gbabios/)
-* [2024-01-10, 10:20:41](https://lobste.rs/s/zylirs/why_stdout_is_faster_than_stderr) - [Why stdout is faster than stderr?](https://blog.orhun.dev/stdout-vs-stderr/)
 
 ## [Archives](archives/index.md)
 
