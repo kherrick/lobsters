@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-12, 10:31:11](https://lobste.rs/s/ubuox0/curated_list_content_blocking_rules) - [A curated list of content blocking rules](https://letsblock.it/)
 * [2024-01-12, 10:08:38](https://lobste.rs/s/lgwcpb/statement_regarding_ongoing_sourcehut) - [Statement regarding the ongoing SourceHut outage](https://outage.sr.ht/)
 * [2024-01-12, 10:02:44](https://lobste.rs/s/cyzk7d/nuemark_markdown_dialect_for_rich) - [Nuemark: Markdown dialect for rich, interactive content](https://nuejs.org/blog/introducing-nuemark/)
 * [2024-01-12, 09:29:48](https://lobste.rs/s/sjdsfz/introduction_apache_hudi) - [Introduction to Apache Hudi](https://medium.com/p/209521970112)
@@ -16,7 +17,6 @@
 * [2024-01-11, 18:14:22](https://lobste.rs/s/ttr8op/lobsters_interview_with_david_chisnall) - [Lobsters interview with David Chisnall](https://lobste.rs/s/ttr8op/lobsters_interview_with_david_chisnall)
 * [2024-01-11, 17:59:36](https://lobste.rs/s/epzot8/scaling_golang_192_cores_with_heavy_i_o) - [Scaling Golang to 192 Cores with Heavy I/O](https://jazco.dev/2024/01/10/golang-and-epoll/)
 * [2024-01-11, 17:24:02](https://lobste.rs/s/uzm14h/is_htmx_just_another_javascript) - [Is htmx Just Another JavaScript Framework?](https://htmx.org/essays/is-htmx-another-javascript-framework/)
-* [2024-01-11, 17:18:52](https://lobste.rs/s/d4o4ia/first_steps_with_pkgbase) - [First steps with pkgbase](https://phala.isatty.net/~amber/hacks/pkgbase)
 * [2024-01-11, 13:07:47](https://lobste.rs/s/72mba0/ssh_snake_automatic_traversal_networks) - [SSH-Snake: Automatic traversal of networks using SSH private keys](https://joshua.hu/ssh-snake-ssh-network-traversal-discover-ssh-private-keys-network-graph)
 * [2024-01-11, 12:45:10](https://lobste.rs/s/bsqsjk/is_odin_programming_done_right_interview) - [Is Odin \"Programming done right\"? (Interview with creator, Bill Hall)](https://youtu.be/aKYdj0f1iQI)
 * [2024-01-11, 12:23:59](https://lobste.rs/s/f486jm/exploring_gleam_ffi) - [Exploring the Gleam FFI](https://www.jonashietala.se/blog/2024/01/11/exploring_the_gleam_ffi/)
