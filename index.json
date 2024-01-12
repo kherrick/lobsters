@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-12, 10:08:38",
+      "https://lobste.rs/s/lgwcpb/statement_regarding_ongoing_sourcehut"
+    ],
+    [
+      "Statement regarding the ongoing SourceHut outage",
+      "https://outage.sr.ht/"
+    ]
+  ],
+  [
+    [
       "2024-01-12, 10:02:44",
       "https://lobste.rs/s/cyzk7d/nuemark_markdown_dialect_for_rich"
     ],
@@ -237,16 +247,6 @@
     [
       "Ranking of Fruits: Sorting in JS, K, and Lil",
       "https://beyondloom.com/blog/rankingoffruits.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-10, 19:32:58",
-      "https://lobste.rs/s/p6jfyq/dumping_gba_bios_via_executing_unmapped"
-    ],
-    [
-      "Dumping the GBA BIOS via executing unmapped memory (2017)",
-      "https://mary.rs/lab/gbabios/"
     ]
   ]
 ]
