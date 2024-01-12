@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-12, 13:32:13](https://lobste.rs/s/otv02n/cachix_v1_7) - [Cachix: v1.7](https://blog.cachix.org/posts/2024-01-12-cachix-v1-7/)
 * [2024-01-12, 12:49:44](https://lobste.rs/s/kzl90v/where_is_all_fediverse) - [Where is all of the fediverse?](https://blog.benjojo.co.uk/post/who-hosts-the-fediverse-instances)
 * [2024-01-12, 12:11:06](https://lobste.rs/s/ea69lj/tidy_tools_manifesto) - [The tidy tools manifesto](https://tidyverse.tidyverse.org/articles/manifesto.html)
 * [2024-01-12, 11:35:00](https://lobste.rs/s/puajpg/generating_svg_for_prime_knots) - [Generating SVG for the Prime Knots](https://prideout.net/blog/svg_knots/)
@@ -14,7 +15,6 @@
 * [2024-01-12, 02:03:19](https://lobste.rs/s/2odcqm/coral_dev_board_micro) - [Coral Dev Board Micro](https://coral.ai/products/dev-board-micro)
 * [2024-01-12, 01:50:19](https://lobste.rs/s/cick1k/how_my_link_blog_works) - [How my link blog works](https://justinmiller.io/posts/2024/01/11/link-blog/)
 * [2024-01-12, 00:47:19](https://lobste.rs/s/gtvtdk/introduction_gpu_programming_chapel) - [Introduction to GPU Programming in Chapel](https://chapel-lang.org/blog/posts/intro-to-gpus/)
-* [2024-01-11, 18:24:31](https://lobste.rs/s/5y768y/nix_evaluation_performance_thunks) - [Nix Evaluation Performance & Thunks](https://nixos.wiki/wiki/Nix_Evaluation_Performance)
 * [2024-01-11, 18:19:01](https://lobste.rs/s/jqrykn/wayland_really_breaks_things_just_for_now) - [Wayland really breaks things… Just for now?](https://blog.tenstral.net/2024/01/wayland-really-breaks-things-just-for-now.html)
 * [2024-01-11, 18:14:22](https://lobste.rs/s/ttr8op/lobsters_interview_with_david_chisnall) - [Lobsters interview with David Chisnall](https://lobste.rs/s/ttr8op/lobsters_interview_with_david_chisnall)
 * [2024-01-11, 17:59:36](https://lobste.rs/s/epzot8/scaling_golang_192_cores_with_heavy_i_o) - [Scaling Golang to 192 Cores with Heavy I/O](https://jazco.dev/2024/01/10/golang-and-epoll/)
