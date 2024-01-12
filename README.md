@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-12, 01:50:19](https://lobste.rs/s/cick1k/how_my_link_blog_works) - [How my link blog works](https://justinmiller.io/posts/2024/01/11/link-blog/)
 * [2024-01-12, 00:47:19](https://lobste.rs/s/gtvtdk/introduction_gpu_programming_chapel) - [Introduction to GPU Programming in Chapel](https://chapel-lang.org/blog/posts/intro-to-gpus/)
 * [2024-01-11, 19:25:30](https://lobste.rs/s/9jec8p/linux_journey) - [Linux Journey](https://linuxjourney.com/)
 * [2024-01-11, 19:08:34](https://lobste.rs/s/qqm9pa/paper_page_soaring_from_4k_400k_extending) - [Paper page - Soaring from 4K to 400K: Extending LLM's Context with Activation Beacon](https://huggingface.co/papers/2401.03462)
@@ -23,7 +24,6 @@
 * [2024-01-10, 22:03:45](https://lobste.rs/s/lkgyjz/ranking_fruits_sorting_js_k_lil) - [Ranking of Fruits: Sorting in JS, K, and Lil](https://beyondloom.com/blog/rankingoffruits.html)
 * [2024-01-10, 19:32:58](https://lobste.rs/s/p6jfyq/dumping_gba_bios_via_executing_unmapped) - [Dumping the GBA BIOS via executing unmapped memory (2017)](https://mary.rs/lab/gbabios/)
 * [2024-01-10, 17:36:51](https://lobste.rs/s/dk9yhs/openwrt_one_celebrating_20_years_openwrt) - [OpenWrt One - celebrating 20 years of OpenWrt](https://lwn.net/ml/openwrt-devel/a8aaa495-da0b-4ddc-8c4f-3e1192d8b012@phrozen.org/)
-* [2024-01-10, 11:53:53](https://lobste.rs/s/abigdb/annotating_args_kwargs_python) - [Annotating args and kwargs in Python](https://rednafi.com/python/annotate_args_and_kwargs/)
 * [2024-01-10, 10:20:41](https://lobste.rs/s/zylirs/why_stdout_is_faster_than_stderr) - [Why stdout is faster than stderr?](https://blog.orhun.dev/stdout-vs-stderr/)
 
 ## [Archives](archives/index.md)
