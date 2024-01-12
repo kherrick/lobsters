@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-12](index.md)
 
+* [2024-01-12, 20:50:17](https://lobste.rs/s/wrifjl/how_threads_will_integrate_with) - [How Threads will integrate with the Fediverse](http://plasticbag.org/archives/2024/01/how-threads-will-integrate-with-the-fediverse/)
 * [2024-01-12, 20:23:24](https://lobste.rs/s/0wsmdb/synthesizing_martian_speech) - [Synthesizing Martian Speech](https://dukope.itch.io/mars-after-midnight/devlog/653705/synthesizing-martian-speech)
 * [2024-01-12, 18:35:39](https://lobste.rs/s/zzdpcz/class_invariants) - [Class invariants](https://akrzemi1.wordpress.com/2024/01/07/class-invariants/)
 * [2024-01-12, 18:23:11](https://lobste.rs/s/ws9roy/server_side_rendering_local_dates) - [Server-side rendering local dates without FOUC](https://blog.6nok.org/server-side-rendering-local-dates-without-fouc/)

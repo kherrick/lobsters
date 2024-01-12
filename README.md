@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-12, 20:50:17](https://lobste.rs/s/wrifjl/how_threads_will_integrate_with) - [How Threads will integrate with the Fediverse](http://plasticbag.org/archives/2024/01/how-threads-will-integrate-with-the-fediverse/)
 * [2024-01-12, 20:23:24](https://lobste.rs/s/0wsmdb/synthesizing_martian_speech) - [Synthesizing Martian Speech](https://dukope.itch.io/mars-after-midnight/devlog/653705/synthesizing-martian-speech)
 * [2024-01-12, 18:35:39](https://lobste.rs/s/zzdpcz/class_invariants) - [Class invariants](https://akrzemi1.wordpress.com/2024/01/07/class-invariants/)
 * [2024-01-12, 18:23:11](https://lobste.rs/s/ws9roy/server_side_rendering_local_dates) - [Server-side rendering local dates without FOUC](https://blog.6nok.org/server-side-rendering-local-dates-without-fouc/)
@@ -16,7 +17,6 @@
 * [2024-01-12, 10:02:44](https://lobste.rs/s/cyzk7d/nuemark_markdown_dialect_for_rich) - [Nuemark: Markdown dialect for rich, interactive content](https://nuejs.org/blog/introducing-nuemark/)
 * [2024-01-12, 09:29:48](https://lobste.rs/s/sjdsfz/introduction_apache_hudi) - [Introduction to Apache Hudi](https://medium.com/p/209521970112)
 * [2024-01-12, 08:56:44](https://lobste.rs/s/wfsvkr/attack_week_airdrop_tracing) - [Attack of the week: Airdrop tracing](https://blog.cryptographyengineering.com/2024/01/11/attack-of-the-week-airdrop-tracing/)
-* [2024-01-12, 06:52:02](https://lobste.rs/s/rie8lx/raddebugger_native_user_mode_multi) - [raddebugger: A native, user-mode, multi-process, graphical debugger](https://github.com/EpicGames/raddebugger)
 * [2024-01-12, 03:47:52](https://lobste.rs/s/s5q1vb/you_might_only_need_tablet_for_computer) - [You (Might) Only Need a Tablet for Computer Science](https://ezrizhu.com/blog/tablet-for-cs)
 * [2024-01-12, 02:03:19](https://lobste.rs/s/2odcqm/coral_dev_board_micro) - [Coral Dev Board Micro](https://coral.ai/products/dev-board-micro)
 * [2024-01-12, 01:50:19](https://lobste.rs/s/cick1k/how_my_link_blog_works) - [How my link blog works](https://justinmiller.io/posts/2024/01/11/link-blog/)
