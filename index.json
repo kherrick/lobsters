@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-12, 09:29:48",
+      "https://lobste.rs/s/sjdsfz/introduction_apache_hudi"
+    ],
+    [
+      "Introduction to Apache Hudi",
+      "https://medium.com/p/209521970112"
+    ]
+  ],
+  [
+    [
+      "2024-01-12, 09:28:14",
+      "https://lobste.rs/s/4xk78u/future_nlp_chris_manning_stanford"
+    ],
+    [
+      "Future of NLP - Chris Manning Stanford CoreNLP",
+      "https://youtu.be/xk01kx_klOE?si=goj1P1zttuUEXU-R"
+    ]
+  ],
+  [
+    [
       "2024-01-12, 08:56:44",
       "https://lobste.rs/s/wfsvkr/attack_week_airdrop_tracing"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-01-11, 09:46:50",
-      "https://lobste.rs/s/kn7ap0/creating_domain_specific_error_helpers"
-    ],
-    [
-      "Creating Domain Specific Error Helpers in Go With errors.As",
-      "https://blog.carlana.net/post/2020/working-with-errors-as/"
-    ]
-  ],
-  [
-    [
       "2024-01-11, 09:42:25",
       "https://lobste.rs/s/lubhcb/elisp_replacement_string"
     ],
@@ -237,16 +247,6 @@
     [
       "Dumping the GBA BIOS via executing unmapped memory (2017)",
       "https://mary.rs/lab/gbabios/"
-    ]
-  ],
-  [
-    [
-      "2024-01-10, 10:20:41",
-      "https://lobste.rs/s/zylirs/why_stdout_is_faster_than_stderr"
-    ],
-    [
-      "Why stdout is faster than stderr?",
-      "https://blog.orhun.dev/stdout-vs-stderr/"
     ]
   ]
 ]
