@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-12](index.md)
 
+* [2024-01-12, 17:00:44](https://lobste.rs/s/phxlqm/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/phxlqm/what_are_you_doing_this_weekend)
 * [2024-01-12, 15:54:48](https://lobste.rs/s/ei2nzg/understanding_generative_ai_part_two) - [Understanding Generative AI: Part Two - Neural Networks](https://scorpil.com/post/understanding-generative-ai-part-two-neural-networks/)
 * [2024-01-12, 13:32:13](https://lobste.rs/s/otv02n/cachix_v1_7) - [Cachix: v1.7](https://blog.cachix.org/posts/2024-01-12-cachix-v1-7/)
 * [2024-01-12, 12:49:44](https://lobste.rs/s/kzl90v/where_is_all_fediverse) - [Where is all of the fediverse?](https://blog.benjojo.co.uk/post/who-hosts-the-fediverse-instances)
