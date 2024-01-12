@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-12, 03:47:52](https://lobste.rs/s/s5q1vb/you_might_only_need_tablet_for_computer) - [You (Might) Only Need a Tablet for Computer Science](https://ezrizhu.com/blog/tablet-for-cs)
 * [2024-01-12, 02:03:19](https://lobste.rs/s/2odcqm/coral_dev_board_micro) - [Coral Dev Board Micro](https://coral.ai/products/dev-board-micro)
 * [2024-01-12, 01:50:19](https://lobste.rs/s/cick1k/how_my_link_blog_works) - [How my link blog works](https://justinmiller.io/posts/2024/01/11/link-blog/)
 * [2024-01-12, 00:47:19](https://lobste.rs/s/gtvtdk/introduction_gpu_programming_chapel) - [Introduction to GPU Programming in Chapel](https://chapel-lang.org/blog/posts/intro-to-gpus/)
-* [2024-01-11, 19:25:30](https://lobste.rs/s/9jec8p/linux_journey) - [Linux Journey](https://linuxjourney.com/)
 * [2024-01-11, 19:08:34](https://lobste.rs/s/qqm9pa/paper_page_soaring_from_4k_400k_extending) - [Paper page - Soaring from 4K to 400K: Extending LLM's Context with Activation Beacon](https://huggingface.co/papers/2401.03462)
 * [2024-01-11, 18:33:26](https://lobste.rs/s/slsfog/one_ring_problem_abstraction_our_quest) - [The one ring problem: abstraction and our quest for power (2018)](https://www.tedinski.com/2018/01/30/the-one-ring-problem-abstraction-and-power.html)
 * [2024-01-11, 18:24:31](https://lobste.rs/s/5y768y/nix_evaluation_performance_thunks) - [Nix Evaluation Performance & Thunks](https://nixos.wiki/wiki/Nix_Evaluation_Performance)
