@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-12, 10:02:44",
+      "https://lobste.rs/s/cyzk7d/nuemark_markdown_dialect_for_rich"
+    ],
+    [
+      "Nuemark: Markdown dialect for rich, interactive content",
+      "https://nuejs.org/blog/introducing-nuemark/"
+    ]
+  ],
+  [
+    [
       "2024-01-12, 09:29:48",
       "https://lobste.rs/s/sjdsfz/introduction_apache_hudi"
     ],
@@ -77,16 +87,6 @@
     [
       "Introduction to GPU Programming in Chapel",
       "https://chapel-lang.org/blog/posts/intro-to-gpus/"
-    ]
-  ],
-  [
-    [
-      "2024-01-11, 19:08:34",
-      "https://lobste.rs/s/qqm9pa/paper_page_soaring_from_4k_400k_extending"
-    ],
-    [
-      "Paper page - Soaring from 4K to 400K: Extending LLM's Context with Activation Beacon",
-      "https://huggingface.co/papers/2401.03462"
     ]
   ],
   [
