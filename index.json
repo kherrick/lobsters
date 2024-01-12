@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-12, 20:50:17",
+      "https://lobste.rs/s/wrifjl/how_threads_will_integrate_with"
+    ],
+    [
+      "How Threads will integrate with the Fediverse",
+      "http://plasticbag.org/archives/2024/01/how-threads-will-integrate-with-the-fediverse/"
+    ]
+  ],
+  [
+    [
       "2024-01-12, 20:23:24",
       "https://lobste.rs/s/0wsmdb/synthesizing_martian_speech"
     ],
@@ -157,16 +167,6 @@
     [
       "Attack of the week: Airdrop tracing",
       "https://blog.cryptographyengineering.com/2024/01/11/attack-of-the-week-airdrop-tracing/"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 06:52:02",
-      "https://lobste.rs/s/rie8lx/raddebugger_native_user_mode_multi"
-    ],
-    [
-      "raddebugger: A native, user-mode, multi-process, graphical debugger",
-      "https://github.com/EpicGames/raddebugger"
     ]
   ],
   [
