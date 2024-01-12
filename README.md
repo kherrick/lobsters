@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-01-12, 15:54:48](https://lobste.rs/s/ei2nzg/understanding_generative_ai_part_two) - [Understanding Generative AI: Part Two - Neural Networks](https://scorpil.com/post/understanding-generative-ai-part-two-neural-networks/)
-* [2024-01-12, 13:32:13](https://lobste.rs/s/otv02n/cachix_v1_7) - [Cachix: v1.7](https://blog.cachix.org/posts/2024-01-12-cachix-v1-7/)
 * [2024-01-12, 12:49:44](https://lobste.rs/s/kzl90v/where_is_all_fediverse) - [Where is all of the fediverse?](https://blog.benjojo.co.uk/post/who-hosts-the-fediverse-instances)
 * [2024-01-12, 12:11:06](https://lobste.rs/s/ea69lj/tidy_tools_manifesto) - [The tidy tools manifesto](https://tidyverse.tidyverse.org/articles/manifesto.html)
 * [2024-01-12, 11:35:00](https://lobste.rs/s/puajpg/generating_svg_for_prime_knots) - [Generating SVG for the Prime Knots](https://prideout.net/blog/svg_knots/)
@@ -21,6 +20,7 @@
 * [2024-01-11, 17:59:36](https://lobste.rs/s/epzot8/scaling_golang_192_cores_with_heavy_i_o) - [Scaling Golang to 192 Cores with Heavy I/O](https://jazco.dev/2024/01/10/golang-and-epoll/)
 * [2024-01-11, 17:24:02](https://lobste.rs/s/uzm14h/is_htmx_just_another_javascript) - [Is htmx Just Another JavaScript Framework?](https://htmx.org/essays/is-htmx-another-javascript-framework/)
 * [2024-01-11, 12:45:10](https://lobste.rs/s/bsqsjk/is_odin_programming_done_right_interview) - [Is Odin \"Programming done right\"? (Interview with creator, Bill Hall)](https://youtu.be/aKYdj0f1iQI)
+* [2024-01-11, 12:23:59](https://lobste.rs/s/f486jm/exploring_gleam_ffi) - [Exploring the Gleam FFI](https://www.jonashietala.se/blog/2024/01/11/exploring_the_gleam_ffi/)
 * [2024-01-11, 12:21:04](https://lobste.rs/s/iwrusm/jsfree_community_curated_collection_web) - [jsfree: a community-curated collection of web services that work without JavaScript](https://jsfree.org/)
 * [2024-01-11, 09:42:25](https://lobste.rs/s/lubhcb/elisp_replacement_string) - [Elisp in Replacement String](https://susam.net/maze/elisp-in-replacement-string.html)
 * [2024-01-11, 08:17:11](https://lobste.rs/s/l7hn45/messengers_performance_study) - [Messengers performance study](https://decentim.grafana.net/public-dashboards/92602d3a4aa842ce97812d310077691d)
