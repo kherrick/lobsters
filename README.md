@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-12, 00:47:19](https://lobste.rs/s/gtvtdk/introduction_gpu_programming_chapel) - [Introduction to GPU Programming in Chapel](https://chapel-lang.org/blog/posts/intro-to-gpus/)
 * [2024-01-11, 19:25:30](https://lobste.rs/s/9jec8p/linux_journey) - [Linux Journey](https://linuxjourney.com/)
 * [2024-01-11, 19:08:34](https://lobste.rs/s/qqm9pa/paper_page_soaring_from_4k_400k_extending) - [Paper page - Soaring from 4K to 400K: Extending LLM's Context with Activation Beacon](https://huggingface.co/papers/2401.03462)
 * [2024-01-11, 18:33:26](https://lobste.rs/s/slsfog/one_ring_problem_abstraction_our_quest) - [The one ring problem: abstraction and our quest for power (2018)](https://www.tedinski.com/2018/01/30/the-one-ring-problem-abstraction-and-power.html)
@@ -20,7 +21,6 @@
 * [2024-01-11, 00:59:39](https://lobste.rs/s/7zi4wk/hacking_factorio_from_save_game_remote) - [Hacking Factorio – From save game to remote code execution](https://github.com/Valentin-Metz/writeup_factorio)
 * [2024-01-10, 22:44:38](https://lobste.rs/s/rt04bw/design_principles_elixir_type_system) - [The Design Principles of the Elixir Type System](https://programming-journal.org/2024/8/4/)
 * [2024-01-10, 22:03:45](https://lobste.rs/s/lkgyjz/ranking_fruits_sorting_js_k_lil) - [Ranking of Fruits: Sorting in JS, K, and Lil](https://beyondloom.com/blog/rankingoffruits.html)
-* [2024-01-10, 19:49:33](https://lobste.rs/s/qyhip1/rust_temporary_lifetimes_super_let) - [Rust Temporary Lifetimes and \"Super Let\"](https://blog.m-ou.se/super-let/)
 * [2024-01-10, 19:32:58](https://lobste.rs/s/p6jfyq/dumping_gba_bios_via_executing_unmapped) - [Dumping the GBA BIOS via executing unmapped memory (2017)](https://mary.rs/lab/gbabios/)
 * [2024-01-10, 17:36:51](https://lobste.rs/s/dk9yhs/openwrt_one_celebrating_20_years_openwrt) - [OpenWrt One - celebrating 20 years of OpenWrt](https://lwn.net/ml/openwrt-devel/a8aaa495-da0b-4ddc-8c4f-3e1192d8b012@phrozen.org/)
 * [2024-01-10, 11:53:53](https://lobste.rs/s/abigdb/annotating_args_kwargs_python) - [Annotating args and kwargs in Python](https://rednafi.com/python/annotate_args_and_kwargs/)
