@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-12, 12:11:06](https://lobste.rs/s/ea69lj/_) - [The](https://tidyverse.tidyverse.org/articles/manifesto.html)
 * [2024-01-12, 11:35:00](https://lobste.rs/s/puajpg/generating_svg_for_prime_knots) - [Generating SVG for the Prime Knots](https://prideout.net/blog/svg_knots/)
 * [2024-01-12, 11:28:36](https://lobste.rs/s/de9gjb/exploring_podman_more_secure_docker) - [Exploring Podman: A More Secure Docker Alternative](https://betterstack.com/community/guides/scaling-docker/podman-vs-docker/)
 * [2024-01-12, 10:31:11](https://lobste.rs/s/ubuox0/curated_list_content_blocking_rules) - [A curated list of content blocking rules](https://letsblock.it/)
@@ -13,7 +14,6 @@
 * [2024-01-12, 02:03:19](https://lobste.rs/s/2odcqm/coral_dev_board_micro) - [Coral Dev Board Micro](https://coral.ai/products/dev-board-micro)
 * [2024-01-12, 01:50:19](https://lobste.rs/s/cick1k/how_my_link_blog_works) - [How my link blog works](https://justinmiller.io/posts/2024/01/11/link-blog/)
 * [2024-01-12, 00:47:19](https://lobste.rs/s/gtvtdk/introduction_gpu_programming_chapel) - [Introduction to GPU Programming in Chapel](https://chapel-lang.org/blog/posts/intro-to-gpus/)
-* [2024-01-11, 18:33:26](https://lobste.rs/s/slsfog/one_ring_problem_abstraction_our_quest) - [The one ring problem: abstraction and our quest for power (2018)](https://www.tedinski.com/2018/01/30/the-one-ring-problem-abstraction-and-power.html)
 * [2024-01-11, 18:24:31](https://lobste.rs/s/5y768y/nix_evaluation_performance_thunks) - [Nix Evaluation Performance & Thunks](https://nixos.wiki/wiki/Nix_Evaluation_Performance)
 * [2024-01-11, 18:19:01](https://lobste.rs/s/jqrykn/wayland_really_breaks_things_just_for_now) - [Wayland really breaks things… Just for now?](https://blog.tenstral.net/2024/01/wayland-really-breaks-things-just-for-now.html)
 * [2024-01-11, 18:14:22](https://lobste.rs/s/ttr8op/lobsters_interview_with_david_chisnall) - [Lobsters interview with David Chisnall](https://lobste.rs/s/ttr8op/lobsters_interview_with_david_chisnall)
