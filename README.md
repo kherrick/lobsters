@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-12, 12:49:44](https://lobste.rs/s/kzl90v/where_is_all_fediverse) - [Where is all of the fediverse?](https://blog.benjojo.co.uk/post/who-hosts-the-fediverse-instances)
 * [2024-01-12, 12:11:06](https://lobste.rs/s/ea69lj/tidy_tools_manifesto) - [The tidy tools manifesto](https://tidyverse.tidyverse.org/articles/manifesto.html)
 * [2024-01-12, 11:35:00](https://lobste.rs/s/puajpg/generating_svg_for_prime_knots) - [Generating SVG for the Prime Knots](https://prideout.net/blog/svg_knots/)
 * [2024-01-12, 11:28:36](https://lobste.rs/s/de9gjb/exploring_podman_more_secure_docker) - [Exploring Podman: A More Secure Docker Alternative](https://betterstack.com/community/guides/scaling-docker/podman-vs-docker/)
@@ -7,7 +8,6 @@
 * [2024-01-12, 10:08:38](https://lobste.rs/s/lgwcpb/statement_regarding_ongoing_sourcehut) - [Statement regarding the ongoing SourceHut outage](https://outage.sr.ht/)
 * [2024-01-12, 10:02:44](https://lobste.rs/s/cyzk7d/nuemark_markdown_dialect_for_rich) - [Nuemark: Markdown dialect for rich, interactive content](https://nuejs.org/blog/introducing-nuemark/)
 * [2024-01-12, 09:29:48](https://lobste.rs/s/sjdsfz/introduction_apache_hudi) - [Introduction to Apache Hudi](https://medium.com/p/209521970112)
-* [2024-01-12, 09:28:14](https://lobste.rs/s/4xk78u/future_nlp_chris_manning_stanford) - [Future of NLP - Chris Manning Stanford CoreNLP](https://youtu.be/xk01kx_klOE?si=goj1P1zttuUEXU-R)
 * [2024-01-12, 08:56:44](https://lobste.rs/s/wfsvkr/attack_week_airdrop_tracing) - [Attack of the week: Airdrop tracing](https://blog.cryptographyengineering.com/2024/01/11/attack-of-the-week-airdrop-tracing/)
 * [2024-01-12, 06:52:02](https://lobste.rs/s/rie8lx/raddebugger_native_user_mode_multi) - [raddebugger: A native, user-mode, multi-process, graphical debugger](https://github.com/EpicGames/raddebugger)
 * [2024-01-12, 03:47:52](https://lobste.rs/s/s5q1vb/you_might_only_need_tablet_for_computer) - [You (Might) Only Need a Tablet for Computer Science](https://ezrizhu.com/blog/tablet-for-cs)

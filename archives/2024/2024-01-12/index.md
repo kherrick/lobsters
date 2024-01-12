@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-12](index.md)
 
+* [2024-01-12, 12:49:44](https://lobste.rs/s/kzl90v/where_is_all_fediverse) - [Where is all of the fediverse?](https://blog.benjojo.co.uk/post/who-hosts-the-fediverse-instances)
 * [2024-01-12, 12:11:06](https://lobste.rs/s/ea69lj/tidy_tools_manifesto) - [The tidy tools manifesto](https://tidyverse.tidyverse.org/articles/manifesto.html)
 * [2024-01-12, 12:11:06](https://lobste.rs/s/ea69lj/_) - [The](https://tidyverse.tidyverse.org/articles/manifesto.html)
 * [2024-01-12, 11:35:00](https://lobste.rs/s/puajpg/generating_svg_for_prime_knots) - [Generating SVG for the Prime Knots](https://prideout.net/blog/svg_knots/)
