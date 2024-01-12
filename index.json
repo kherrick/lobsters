@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-12, 10:31:11",
+      "https://lobste.rs/s/ubuox0/curated_list_content_blocking_rules"
+    ],
+    [
+      "A curated list of content blocking rules",
+      "https://letsblock.it/"
+    ]
+  ],
+  [
+    [
       "2024-01-12, 10:08:38",
       "https://lobste.rs/s/lgwcpb/statement_regarding_ongoing_sourcehut"
     ],
@@ -157,16 +167,6 @@
     [
       "Is htmx Just Another JavaScript Framework?",
       "https://htmx.org/essays/is-htmx-another-javascript-framework/"
-    ]
-  ],
-  [
-    [
-      "2024-01-11, 17:18:52",
-      "https://lobste.rs/s/d4o4ia/first_steps_with_pkgbase"
-    ],
-    [
-      "First steps with pkgbase",
-      "https://phala.isatty.net/~amber/hacks/pkgbase"
     ]
   ],
   [
