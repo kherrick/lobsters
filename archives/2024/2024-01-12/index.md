@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-12](index.md)
 
+* [2024-01-12, 10:02:44](https://lobste.rs/s/cyzk7d/nuemark_markdown_dialect_for_rich) - [Nuemark: Markdown dialect for rich, interactive content](https://nuejs.org/blog/introducing-nuemark/)
 * [2024-01-12, 09:29:48](https://lobste.rs/s/sjdsfz/introduction_apache_hudi) - [Introduction to Apache Hudi](https://medium.com/p/209521970112)
 * [2024-01-12, 09:28:14](https://lobste.rs/s/4xk78u/future_nlp_chris_manning_stanford) - [Future of NLP - Chris Manning Stanford CoreNLP](https://youtu.be/xk01kx_klOE?si=goj1P1zttuUEXU-R)
 * [2024-01-12, 08:56:44](https://lobste.rs/s/wfsvkr/attack_week_airdrop_tracing) - [Attack of the week: Airdrop tracing](https://blog.cryptographyengineering.com/2024/01/11/attack-of-the-week-airdrop-tracing/)
