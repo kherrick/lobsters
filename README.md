@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-13, 07:41:34](https://lobste.rs/s/n91zgl/fuzzing_book) - [The Fuzzing Book](https://www.fuzzingbook.org/)
 * [2024-01-13, 07:17:05](https://lobste.rs/s/kajl1l/announcing_updates_learn_adacore_com) - [Announcing Updates to learn.adacore.com](https://blog.adacore.com/learn-2023-updates)
 * [2024-01-13, 06:09:30](https://lobste.rs/s/uaesz7/tinkering_with_manjaro_netbsd_on) - [Tinkering with Manjaro and NetBSD on the Pinebook Pro](https://www.autodidacts.io/pinebook-pro-linux-bsd-laptop-review-tutorial/)
 * [2024-01-13, 05:42:19](https://lobste.rs/s/tgw8kr/new_fedora_asahi_remix_asahi_linux) - [New in Fedora Asahi Remix - Asahi Linux](https://asahilinux.org/2024/01/fedora-asahi-new/)
@@ -24,7 +25,6 @@
 * [2024-01-11, 18:19:01](https://lobste.rs/s/jqrykn/wayland_really_breaks_things_just_for_now) - [Wayland really breaks things… Just for now?](https://blog.tenstral.net/2024/01/wayland-really-breaks-things-just-for-now.html)
 * [2024-01-11, 18:14:22](https://lobste.rs/s/ttr8op/lobsters_interview_with_david_chisnall) - [Lobsters interview with David Chisnall](https://lobste.rs/s/ttr8op/lobsters_interview_with_david_chisnall)
 * [2024-01-11, 17:24:02](https://lobste.rs/s/uzm14h/is_htmx_just_another_javascript) - [Is htmx Just Another JavaScript Framework?](https://htmx.org/essays/is-htmx-another-javascript-framework/)
-* [2024-01-11, 12:21:04](https://lobste.rs/s/iwrusm/jsfree_community_curated_collection_web) - [jsfree: a community-curated collection of web services that work without JavaScript](https://jsfree.org/)
 
 ## [Archives](archives/index.md)
 
