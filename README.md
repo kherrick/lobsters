@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-13, 18:33:46](https://lobste.rs/s/4jthdu/pcmag_technology_encyclopedia) - [PCMag Technology Encyclopedia](https://www.pcmag.com/encyclopedia)
 * [2024-01-13, 15:58:33](https://lobste.rs/s/gntmhr/search_search_engine_beyond) - [In search of a Search Engine, beyond Elasticsearch: Introducing Zinc](https://prabhatsharma.in/blog/in-search-of-a-search-engine-beyond-elasticsearch-introducing-zinc/)
 * [2024-01-13, 15:17:19](https://lobste.rs/s/thngkf/sign_with_google_go) - [Sign in with Google in Go](https://eli.thegreenplace.net/2024/sign-in-with-google-in-go/)
 * [2024-01-13, 12:00:05](https://lobste.rs/s/nyalri/cloud_native_search_engine_for) - [Cloud-native search engine for observability](https://github.com/quickwit-oss/quickwit)
@@ -21,7 +22,6 @@
 * [2024-01-12, 10:02:44](https://lobste.rs/s/cyzk7d/nuemark_markdown_dialect_for_rich) - [Nuemark: Markdown dialect for rich, interactive content](https://nuejs.org/blog/introducing-nuemark/)
 * [2024-01-12, 09:29:48](https://lobste.rs/s/sjdsfz/introduction_apache_hudi) - [Introduction to Apache Hudi](https://medium.com/p/209521970112)
 * [2024-01-12, 03:47:52](https://lobste.rs/s/s5q1vb/you_might_only_need_tablet_for_computer) - [You (Might) Only Need a Tablet for Computer Science](https://ezrizhu.com/blog/tablet-for-cs)
-* [2024-01-12, 01:50:19](https://lobste.rs/s/cick1k/how_my_link_blog_works) - [How my link blog works](https://justinmiller.io/posts/2024/01/11/link-blog/)
 * [2024-01-11, 18:19:01](https://lobste.rs/s/jqrykn/wayland_really_breaks_things_just_for_now) - [Wayland really breaks things… Just for now?](https://blog.tenstral.net/2024/01/wayland-really-breaks-things-just-for-now.html)
 * [2024-01-11, 18:14:22](https://lobste.rs/s/ttr8op/lobsters_interview_with_david_chisnall) - [Lobsters interview with David Chisnall](https://lobste.rs/s/ttr8op/lobsters_interview_with_david_chisnall)
 * [2024-01-11, 17:24:02](https://lobste.rs/s/uzm14h/is_htmx_just_another_javascript) - [Is htmx Just Another JavaScript Framework?](https://htmx.org/essays/is-htmx-another-javascript-framework/)
