@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-13, 15:17:19](https://lobste.rs/s/thngkf/sign_with_google_go_eli_bendersky_s) - [Sign in with Google in Go - Eli Bendersky's website](https://eli.thegreenplace.net/2024/sign-in-with-google-in-go/)
 * [2024-01-13, 12:00:05](https://lobste.rs/s/nyalri/cloud_native_search_engine_for) - [Cloud-native search engine for observability](https://github.com/quickwit-oss/quickwit)
 * [2024-01-13, 08:47:08](https://lobste.rs/s/ad9ou2/decade_long_steam_issue_is_everyone_just) - [A decade long Steam issue, is everyone just too fast for Valve?](https://blog.freudenjmp.com/posts/no-user-logon/)
 * [2024-01-13, 07:41:34](https://lobste.rs/s/n91zgl/fuzzing_book) - [The Fuzzing Book](https://www.fuzzingbook.org/)
@@ -19,7 +20,6 @@
 * [2024-01-12, 10:08:38](https://lobste.rs/s/lgwcpb/statement_regarding_ongoing_sourcehut) - [Statement regarding the ongoing SourceHut outage](https://outage.sr.ht/)
 * [2024-01-12, 10:02:44](https://lobste.rs/s/cyzk7d/nuemark_markdown_dialect_for_rich) - [Nuemark: Markdown dialect for rich, interactive content](https://nuejs.org/blog/introducing-nuemark/)
 * [2024-01-12, 09:29:48](https://lobste.rs/s/sjdsfz/introduction_apache_hudi) - [Introduction to Apache Hudi](https://medium.com/p/209521970112)
-* [2024-01-12, 08:56:44](https://lobste.rs/s/wfsvkr/attack_week_airdrop_tracing) - [Attack of the week: Airdrop tracing](https://blog.cryptographyengineering.com/2024/01/11/attack-of-the-week-airdrop-tracing/)
 * [2024-01-12, 03:47:52](https://lobste.rs/s/s5q1vb/you_might_only_need_tablet_for_computer) - [You (Might) Only Need a Tablet for Computer Science](https://ezrizhu.com/blog/tablet-for-cs)
 * [2024-01-12, 01:50:19](https://lobste.rs/s/cick1k/how_my_link_blog_works) - [How my link blog works](https://justinmiller.io/posts/2024/01/11/link-blog/)
 * [2024-01-11, 18:19:01](https://lobste.rs/s/jqrykn/wayland_really_breaks_things_just_for_now) - [Wayland really breaks things… Just for now?](https://blog.tenstral.net/2024/01/wayland-really-breaks-things-just-for-now.html)
