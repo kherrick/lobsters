@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-13](index.md)
 
+* [2024-01-13, 07:17:05](https://lobste.rs/s/kajl1l/announcing_updates_learn_adacore_com) - [Announcing Updates to learn.adacore.com](https://blog.adacore.com/learn-2023-updates)
 * [2024-01-13, 06:09:30](https://lobste.rs/s/uaesz7/tinkering_with_manjaro_netbsd_on) - [Tinkering with Manjaro and NetBSD on the Pinebook Pro](https://www.autodidacts.io/pinebook-pro-linux-bsd-laptop-review-tutorial/)
 * [2024-01-13, 05:42:19](https://lobste.rs/s/tgw8kr/new_fedora_asahi_remix_asahi_linux) - [New in Fedora Asahi Remix - Asahi Linux](https://asahilinux.org/2024/01/fedora-asahi-new/)
 * [2024-01-13, 02:26:19](https://lobste.rs/s/umdeiu/memo_incremental_computation_library) - [Memo: an incremental computation library that powers Dune](https://www.youtube.com/watch?v=MjWx_qfEQXg)
