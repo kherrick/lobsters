@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-13, 05:42:19](https://lobste.rs/s/tgw8kr/new_fedora_asahi_remix_asahi_linux) - [New in Fedora Asahi Remix - Asahi Linux](https://asahilinux.org/2024/01/fedora-asahi-new/)
 * [2024-01-13, 02:26:19](https://lobste.rs/s/umdeiu/memo_incremental_computation_library) - [Memo: an incremental computation library that powers Dune](https://www.youtube.com/watch?v=MjWx_qfEQXg)
 * [2024-01-13, 01:42:27](https://lobste.rs/s/t3noau/freebsd_desktop_audio_improvements) - [FreeBSD Desktop Audio Improvements](https://vermaden.wordpress.com/2024/01/13/freebsd-desktop-part-29-configuration-audio-improvements/)
 * [2024-01-12, 21:13:39](https://lobste.rs/s/n00oro/freebsd_journal_2023_11_12_issue) - [FreeBSD Journal 2023/11-12 Issue](https://freebsdfoundation.org/past-issues/freebsd-14-0/)
 * [2024-01-12, 20:50:17](https://lobste.rs/s/wrifjl/how_threads_will_integrate_with) - [How Threads will integrate with the Fediverse](http://plasticbag.org/archives/2024/01/how-threads-will-integrate-with-the-fediverse/)
 * [2024-01-12, 20:23:24](https://lobste.rs/s/0wsmdb/synthesizing_martian_speech) - [Synthesizing Martian Speech](https://dukope.itch.io/mars-after-midnight/devlog/653705/synthesizing-martian-speech)
 * [2024-01-12, 18:35:39](https://lobste.rs/s/zzdpcz/class_invariants) - [Class invariants](https://akrzemi1.wordpress.com/2024/01/07/class-invariants/)
-* [2024-01-12, 18:23:11](https://lobste.rs/s/ws9roy/server_side_rendering_local_dates) - [Server-side rendering local dates without FOUC](https://blog.6nok.org/server-side-rendering-local-dates-without-fouc/)
 * [2024-01-12, 18:17:11](https://lobste.rs/s/avvokd/graph_galaxy_now_supports_gvpr) - [Graph Galaxy now supports GVPR](https://blog.graphgalaxy.com/pipeline-graph-to-gvpr.html)
 * [2024-01-12, 18:12:31](https://lobste.rs/s/qfh7xk/css_sweeper_minesweeper_implemented_css) - [CSS-Sweeper - MineSweeper implemented in CSS + HTML using the Space Toggle trick (no JavaScript!)](https://propjockey.github.io/css-sweeper/)
 * [2024-01-12, 17:00:44](https://lobste.rs/s/phxlqm/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/phxlqm/what_are_you_doing_this_weekend)
