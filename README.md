@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-13, 01:42:27](https://lobste.rs/s/t3noau/freebsd_desktop_audio_improvements) - [FreeBSD Desktop Audio Improvements](https://vermaden.wordpress.com/2024/01/13/freebsd-desktop-part-29-configuration-audio-improvements/)
 * [2024-01-12, 21:13:39](https://lobste.rs/s/n00oro/freebsd_journal_2023_11_12_issue) - [FreeBSD Journal 2023/11-12 Issue](https://freebsdfoundation.org/past-issues/freebsd-14-0/)
 * [2024-01-12, 20:50:17](https://lobste.rs/s/wrifjl/how_threads_will_integrate_with) - [How Threads will integrate with the Fediverse](http://plasticbag.org/archives/2024/01/how-threads-will-integrate-with-the-fediverse/)
 * [2024-01-12, 18:35:39](https://lobste.rs/s/zzdpcz/class_invariants) - [Class invariants](https://akrzemi1.wordpress.com/2024/01/07/class-invariants/)
@@ -12,7 +13,6 @@
 * [2024-01-12, 12:11:06](https://lobste.rs/s/ea69lj/tidy_tools_manifesto) - [The tidy tools manifesto](https://tidyverse.tidyverse.org/articles/manifesto.html)
 * [2024-01-12, 11:35:00](https://lobste.rs/s/puajpg/generating_svg_for_prime_knots) - [Generating SVG for the Prime Knots](https://prideout.net/blog/svg_knots/)
 * [2024-01-12, 11:28:36](https://lobste.rs/s/de9gjb/exploring_podman_more_secure_docker) - [Exploring Podman: A More Secure Docker Alternative](https://betterstack.com/community/guides/scaling-docker/podman-vs-docker/)
-* [2024-01-12, 10:31:11](https://lobste.rs/s/ubuox0/curated_list_content_blocking_rules) - [A curated list of content blocking rules](https://letsblock.it/)
 * [2024-01-12, 10:08:38](https://lobste.rs/s/lgwcpb/statement_regarding_ongoing_sourcehut) - [Statement regarding the ongoing SourceHut outage](https://outage.sr.ht/)
 * [2024-01-12, 10:02:44](https://lobste.rs/s/cyzk7d/nuemark_markdown_dialect_for_rich) - [Nuemark: Markdown dialect for rich, interactive content](https://nuejs.org/blog/introducing-nuemark/)
 * [2024-01-12, 09:29:48](https://lobste.rs/s/sjdsfz/introduction_apache_hudi) - [Introduction to Apache Hudi](https://medium.com/p/209521970112)
