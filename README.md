@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-13, 18:53:54](https://lobste.rs/s/rqqqx6/make_indie_web_easier) - [Make the indie web easier](https://gilest.org/indie-easy.html)
 * [2024-01-13, 18:33:46](https://lobste.rs/s/4jthdu/pcmag_technology_encyclopedia) - [PCMag Technology Encyclopedia](https://www.pcmag.com/encyclopedia)
 * [2024-01-13, 15:58:33](https://lobste.rs/s/gntmhr/search_search_engine_beyond) - [In search of a Search Engine, beyond Elasticsearch: Introducing Zinc](https://prabhatsharma.in/blog/in-search-of-a-search-engine-beyond-elasticsearch-introducing-zinc/)
 * [2024-01-13, 15:17:19](https://lobste.rs/s/thngkf/sign_with_google_go) - [Sign in with Google in Go](https://eli.thegreenplace.net/2024/sign-in-with-google-in-go/)
@@ -11,7 +12,6 @@
 * [2024-01-13, 05:42:19](https://lobste.rs/s/tgw8kr/new_fedora_asahi_remix) - [New in Fedora Asahi Remix](https://asahilinux.org/2024/01/fedora-asahi-new/)
 * [2024-01-13, 02:26:19](https://lobste.rs/s/umdeiu/memo_incremental_computation_library) - [Memo: an incremental computation library that powers Dune](https://www.youtube.com/watch?v=MjWx_qfEQXg)
 * [2024-01-13, 01:42:27](https://lobste.rs/s/t3noau/freebsd_desktop_audio_improvements) - [FreeBSD Desktop Audio Improvements](https://vermaden.wordpress.com/2024/01/13/freebsd-desktop-part-29-configuration-audio-improvements/)
-* [2024-01-12, 21:13:39](https://lobste.rs/s/n00oro/freebsd_journal_2023_11_12_issue) - [FreeBSD Journal 2023/11-12 Issue](https://freebsdfoundation.org/past-issues/freebsd-14-0/)
 * [2024-01-12, 20:50:17](https://lobste.rs/s/wrifjl/how_threads_will_integrate_with) - [How Threads will integrate with the Fediverse](http://plasticbag.org/archives/2024/01/how-threads-will-integrate-with-the-fediverse/)
 * [2024-01-12, 18:35:39](https://lobste.rs/s/zzdpcz/class_invariants) - [Class invariants](https://akrzemi1.wordpress.com/2024/01/07/class-invariants/)
 * [2024-01-12, 18:17:11](https://lobste.rs/s/avvokd/graph_galaxy_now_supports_gvpr) - [Graph Galaxy now supports GVPR](https://blog.graphgalaxy.com/pipeline-graph-to-gvpr.html)

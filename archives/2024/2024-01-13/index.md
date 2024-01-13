@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-13](index.md)
 
+* [2024-01-13, 18:53:54](https://lobste.rs/s/rqqqx6/make_indie_web_easier) - [Make the indie web easier](https://gilest.org/indie-easy.html)
 * [2024-01-13, 18:33:46](https://lobste.rs/s/4jthdu/pcmag_technology_encyclopedia) - [PCMag Technology Encyclopedia](https://www.pcmag.com/encyclopedia)
 * [2024-01-13, 15:58:33](https://lobste.rs/s/gntmhr/search_search_engine_beyond) - [In search of a Search Engine, beyond Elasticsearch: Introducing Zinc](https://prabhatsharma.in/blog/in-search-of-a-search-engine-beyond-elasticsearch-introducing-zinc/)
 * [2024-01-13, 15:17:19](https://lobste.rs/s/thngkf/sign_with_google_go_eli_bendersky_s) - [Sign in with Google in Go - Eli Bendersky's website](https://eli.thegreenplace.net/2024/sign-in-with-google-in-go/)
