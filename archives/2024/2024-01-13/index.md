@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-13](index.md)
 
+* [2024-01-13, 12:00:05](https://lobste.rs/s/nyalri/cloud_native_search_engine_for) - [Cloud-native search engine for observability](https://github.com/quickwit-oss/quickwit)
 * [2024-01-13, 08:47:08](https://lobste.rs/s/ad9ou2/decade_long_steam_issue_is_everyone_just) - [A decade long Steam issue, is everyone just too fast for Valve?](https://blog.freudenjmp.com/posts/no-user-logon/)
 * [2024-01-13, 07:41:34](https://lobste.rs/s/n91zgl/fuzzing_book) - [The Fuzzing Book](https://www.fuzzingbook.org/)
 * [2024-01-13, 07:17:05](https://lobste.rs/s/kajl1l/announcing_updates_learn_adacore_com) - [Announcing Updates to learn.adacore.com](https://blog.adacore.com/learn-2023-updates)
