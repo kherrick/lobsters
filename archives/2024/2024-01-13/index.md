@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-13](index.md)
 
+* [2024-01-13, 22:26:41](https://lobste.rs/s/8zrtn7/thinking_array_language_2022) - [Thinking in an array language (2022)](https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md)
+* [2024-01-13, 22:14:30](https://lobste.rs/s/ddssxd/captioning_all_my_youtube_videos_with_ai) - [Captioning all my YouTube videos with AI](https://thesquareplanet.com/blog/ai-captioning/)
 * [2024-01-13, 20:39:07](https://lobste.rs/s/evhzrv/task_vectors_analogy_making_llms) - [Task vectors & analogy making in LLMs](https://grgv.xyz/blog/copycat2/)
 * [2024-01-13, 19:04:26](https://lobste.rs/s/0hqzgc/import_mymodule_from_my_module_torrent) - [import myModule from \"./my-module.torrent\": requiring Node modules from BitTorrent](https://evanhahn.com/node-torrent-import/)
 * [2024-01-13, 18:53:54](https://lobste.rs/s/rqqqx6/make_indie_web_easier) - [Make the indie web easier](https://gilest.org/indie-easy.html)
