@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-13, 01:42:27",
+      "https://lobste.rs/s/t3noau/freebsd_desktop_audio_improvements"
+    ],
+    [
+      "FreeBSD Desktop Audio Improvements",
+      "https://vermaden.wordpress.com/2024/01/13/freebsd-desktop-part-29-configuration-audio-improvements/"
+    ]
+  ],
+  [
+    [
       "2024-01-12, 21:13:39",
       "https://lobste.rs/s/n00oro/freebsd_journal_2023_11_12_issue"
     ],
@@ -117,16 +127,6 @@
     [
       "Exploring Podman: A More Secure Docker Alternative",
       "https://betterstack.com/community/guides/scaling-docker/podman-vs-docker/"
-    ]
-  ],
-  [
-    [
-      "2024-01-12, 10:31:11",
-      "https://lobste.rs/s/ubuox0/curated_list_content_blocking_rules"
-    ],
-    [
-      "A curated list of content blocking rules",
-      "https://letsblock.it/"
     ]
   ],
   [
