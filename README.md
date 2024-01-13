@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-01-13, 15:17:19](https://lobste.rs/s/thngkf/sign_with_google_go_eli_bendersky_s) - [Sign in with Google in Go - Eli Bendersky's website](https://eli.thegreenplace.net/2024/sign-in-with-google-in-go/)
+* [2024-01-13, 15:17:19](https://lobste.rs/s/thngkf/sign_with_google_go) - [Sign in with Google in Go](https://eli.thegreenplace.net/2024/sign-in-with-google-in-go/)
 * [2024-01-13, 12:00:05](https://lobste.rs/s/nyalri/cloud_native_search_engine_for) - [Cloud-native search engine for observability](https://github.com/quickwit-oss/quickwit)
 * [2024-01-13, 08:47:08](https://lobste.rs/s/ad9ou2/decade_long_steam_issue_is_everyone_just) - [A decade long Steam issue, is everyone just too fast for Valve?](https://blog.freudenjmp.com/posts/no-user-logon/)
 * [2024-01-13, 07:41:34](https://lobste.rs/s/n91zgl/fuzzing_book) - [The Fuzzing Book](https://www.fuzzingbook.org/)
