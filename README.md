@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-13, 20:39:07](https://lobste.rs/s/evhzrv/task_vectors_analogy_making_llms) - [Task vectors & analogy making in LLMs](https://grgv.xyz/blog/copycat2/)
 * [2024-01-13, 19:04:26](https://lobste.rs/s/0hqzgc/import_mymodule_from_my_module_torrent) - [import myModule from \"./my-module.torrent\": requiring Node modules from BitTorrent](https://evanhahn.com/node-torrent-import/)
 * [2024-01-13, 18:53:54](https://lobste.rs/s/rqqqx6/make_indie_web_easier) - [Make the indie web easier](https://gilest.org/indie-easy.html)
 * [2024-01-13, 18:33:46](https://lobste.rs/s/4jthdu/pcmag_technology_encyclopedia) - [PCMag Technology Encyclopedia](https://www.pcmag.com/encyclopedia)
@@ -16,7 +17,6 @@
 * [2024-01-12, 21:13:39](https://lobste.rs/s/n00oro/freebsd_journal_2023_11_12_issue) - [FreeBSD Journal 2023/11-12 Issue](https://freebsdfoundation.org/past-issues/freebsd-14-0/)
 * [2024-01-12, 20:50:17](https://lobste.rs/s/wrifjl/how_threads_will_integrate_with) - [How Threads will integrate with the Fediverse](http://plasticbag.org/archives/2024/01/how-threads-will-integrate-with-the-fediverse/)
 * [2024-01-12, 18:35:39](https://lobste.rs/s/zzdpcz/class_invariants) - [Class invariants](https://akrzemi1.wordpress.com/2024/01/07/class-invariants/)
-* [2024-01-12, 18:17:11](https://lobste.rs/s/avvokd/graph_galaxy_now_supports_gvpr) - [Graph Galaxy now supports GVPR](https://blog.graphgalaxy.com/pipeline-graph-to-gvpr.html)
 * [2024-01-12, 17:00:44](https://lobste.rs/s/phxlqm/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/phxlqm/what_are_you_doing_this_weekend)
 * [2024-01-12, 15:54:48](https://lobste.rs/s/ei2nzg/understanding_generative_ai_part_two) - [Understanding Generative AI: Part Two - Neural Networks](https://scorpil.com/post/understanding-generative-ai-part-two-neural-networks/)
 * [2024-01-12, 12:49:44](https://lobste.rs/s/kzl90v/where_is_all_fediverse) - [Where is all of the fediverse?](https://blog.benjojo.co.uk/post/who-hosts-the-fediverse-instances)

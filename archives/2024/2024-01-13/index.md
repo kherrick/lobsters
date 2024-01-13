@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-13](index.md)
 
+* [2024-01-13, 20:39:07](https://lobste.rs/s/evhzrv/task_vectors_analogy_making_llms) - [Task vectors & analogy making in LLMs](https://grgv.xyz/blog/copycat2/)
 * [2024-01-13, 19:04:26](https://lobste.rs/s/0hqzgc/import_mymodule_from_my_module_torrent) - [import myModule from \"./my-module.torrent\": requiring Node modules from BitTorrent](https://evanhahn.com/node-torrent-import/)
 * [2024-01-13, 18:53:54](https://lobste.rs/s/rqqqx6/make_indie_web_easier) - [Make the indie web easier](https://gilest.org/indie-easy.html)
 * [2024-01-13, 18:33:46](https://lobste.rs/s/4jthdu/pcmag_technology_encyclopedia) - [PCMag Technology Encyclopedia](https://www.pcmag.com/encyclopedia)
