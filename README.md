@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-14, 08:01:27](https://lobste.rs/s/mizy2w/observed_failures) - [Observed Failures](https://c3.ndc.nasa.gov/dashlink/static/media/other/ObservedFailures1.html)
 * [2024-01-14, 05:51:36](https://lobste.rs/s/wosaod/was_there_retro_computer_susceptible) - [Was there a retro computer susceptible of being damaged only by issuing instructions at it?](https://retrocomputing.stackexchange.com/q/2264/28593)
 * [2024-01-14, 04:48:47](https://lobste.rs/s/brv5hw/leap_faith_how_apple_airport_changed) - [THE LEAP OF FAITH: How the Apple Airport Changed Everything](https://www.youtube.com/watch?v=EhBxWHrG7K8)
 * [2024-01-14, 01:37:26](https://lobste.rs/s/atqtzp/introducing_opend_d_language_fork_is_open) - [Introducing OpenD, a D language fork that is open to your contribution](https://dpldocs.info/this-week-in-d/Blog.Posted_2024_01_01.html)
@@ -20,7 +21,6 @@
 * [2024-01-13, 07:17:05](https://lobste.rs/s/kajl1l/announcing_updates_learn_adacore_com) - [Announcing Updates to learn.adacore.com](https://blog.adacore.com/learn-2023-updates)
 * [2024-01-13, 06:09:30](https://lobste.rs/s/uaesz7/tinkering_with_manjaro_netbsd_on) - [Tinkering with Manjaro and NetBSD on the Pinebook Pro](https://www.autodidacts.io/pinebook-pro-linux-bsd-laptop-review-tutorial/)
 * [2024-01-13, 05:42:19](https://lobste.rs/s/tgw8kr/new_fedora_asahi_remix) - [New in Fedora Asahi Remix](https://asahilinux.org/2024/01/fedora-asahi-new/)
-* [2024-01-13, 02:26:19](https://lobste.rs/s/umdeiu/memo_incremental_computation_library) - [Memo: an incremental computation library that powers Dune](https://www.youtube.com/watch?v=MjWx_qfEQXg)
 * [2024-01-13, 01:42:27](https://lobste.rs/s/t3noau/freebsd_desktop_audio_improvements) - [FreeBSD Desktop Audio Improvements](https://vermaden.wordpress.com/2024/01/13/freebsd-desktop-part-29-configuration-audio-improvements/)
 * [2024-01-12, 20:50:17](https://lobste.rs/s/wrifjl/how_threads_will_integrate_with) - [How Threads will integrate with the Fediverse](http://plasticbag.org/archives/2024/01/how-threads-will-integrate-with-the-fediverse/)
 * [2024-01-12, 12:49:44](https://lobste.rs/s/kzl90v/where_is_all_fediverse) - [Where is all of the fediverse?](https://blog.benjojo.co.uk/post/who-hosts-the-fediverse-instances)

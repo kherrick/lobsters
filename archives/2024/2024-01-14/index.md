@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-14](index.md)
 
+* [2024-01-14, 08:01:27](https://lobste.rs/s/mizy2w/observed_failures) - [Observed Failures](https://c3.ndc.nasa.gov/dashlink/static/media/other/ObservedFailures1.html)
 * [2024-01-14, 05:51:36](https://lobste.rs/s/wosaod/was_there_retro_computer_susceptible) - [Was there a retro computer susceptible of being damaged only by issuing instructions at it?](https://retrocomputing.stackexchange.com/q/2264/28593)
 * [2024-01-14, 04:48:47](https://lobste.rs/s/brv5hw/leap_faith_how_apple_airport_changed) - [THE LEAP OF FAITH: How the Apple Airport Changed Everything](https://www.youtube.com/watch?v=EhBxWHrG7K8)
 * [2024-01-14, 01:37:26](https://lobste.rs/s/atqtzp/introducing_opend_d_language_fork_is_open) - [Introducing OpenD, a D language fork that is open to your contribution](https://dpldocs.info/this-week-in-d/Blog.Posted_2024_01_01.html)
