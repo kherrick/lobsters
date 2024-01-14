@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-14](index.md)
 
+* [2024-01-14, 23:19:59](https://lobste.rs/s/0hohow/when_random_isn_t) - [When Random Isn't](https://orlp.net/blog/when-random-isnt/)
 * [2024-01-14, 21:53:14](https://lobste.rs/s/bzaf2c/type_information_for_faster_python_c) - [Type information for faster Python C extensions](https://bernsteinbear.com/blog/typed-c-extensions/)
 * [2024-01-14, 21:14:58](https://lobste.rs/s/acalt2/vs_code_flatpak_is_useless) - [The VS Code Flatpak is useless](https://bentsukun.ch/posts/vscode-flatpak/)
 * [2024-01-14, 20:56:57](https://lobste.rs/s/mmncam/httpd2_static_file_webserver) - [httpd2: a static file webserver](https://github.com/cbiffle/httpd2/blob/main/doc/manual.md)

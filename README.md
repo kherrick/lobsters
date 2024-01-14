@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-14, 23:19:59](https://lobste.rs/s/0hohow/when_random_isn_t) - [When Random Isn't](https://orlp.net/blog/when-random-isnt/)
 * [2024-01-14, 21:53:14](https://lobste.rs/s/bzaf2c/type_information_for_faster_python_c) - [Type information for faster Python C extensions](https://bernsteinbear.com/blog/typed-c-extensions/)
 * [2024-01-14, 21:14:58](https://lobste.rs/s/acalt2/vs_code_flatpak_is_useless) - [The VS Code Flatpak is useless](https://bentsukun.ch/posts/vscode-flatpak/)
 * [2024-01-14, 20:56:57](https://lobste.rs/s/mmncam/httpd2_static_file_webserver) - [httpd2: a static file webserver](https://github.com/cbiffle/httpd2/blob/main/doc/manual.md)
-* [2024-01-14, 20:19:56](https://lobste.rs/s/tyolfd/saving_my_wrists_part_1_moving_ergonomic) - [Saving my Wrists, Part 1: moving to an ergonomic mouse](https://apebox.org/wordpress/tech/1376)
 * [2024-01-14, 19:33:16](https://lobste.rs/s/uwo48s/what_pwa_can_do_today) - [What PWA Can Do Today](https://whatpwacando.today)
 * [2024-01-14, 19:06:25](https://lobste.rs/s/qw07y3/playing_with_fire_how_we_executed) - [Playing with Fire – How We Executed a Critical Supply Chain Attack on PyTorch](https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/)
 * [2024-01-14, 18:45:36](https://lobste.rs/s/r9xgu8/picat_3_6_released) - [Picat 3.6 released](http://picat-lang.org/updates.txt)
