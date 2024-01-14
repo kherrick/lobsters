@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-14](index.md)
 
+* [2024-01-14, 20:21:10](https://lobste.rs/s/midrrh/njal_la_suspended_nitter_net_domain_over) - [njal.la suspended nitter.net domain over false claims of nitter.net hosting non-consensual nudity](https://github.com/zedeus/nitter/issues/1150#issuecomment-1890855255)
+* [2024-01-14, 20:19:56](https://lobste.rs/s/tyolfd/saving_my_wrists_part_1_moving_ergonomic) - [Saving my Wrists, Part 1: moving to an ergonomic mouse](https://apebox.org/wordpress/tech/1376)
 * [2024-01-14, 19:33:16](https://lobste.rs/s/uwo48s/what_pwa_can_do_today) - [What PWA Can Do Today](https://whatpwacando.today)
 * [2024-01-14, 19:06:25](https://lobste.rs/s/qw07y3/playing_with_fire_how_we_executed) - [Playing with Fire – How We Executed a Critical Supply Chain Attack on PyTorch](https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/)
 * [2024-01-14, 18:45:36](https://lobste.rs/s/r9xgu8/picat_3_6_released) - [Picat 3.6 released](http://picat-lang.org/updates.txt)
