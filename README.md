@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-14, 01:37:26](https://lobste.rs/s/atqtzp/introducing_opend_d_language_fork_is_open) - [Introducing OpenD, a D language fork that is open to your contribution](https://dpldocs.info/this-week-in-d/Blog.Posted_2024_01_01.html)
+* [2024-01-14, 00:58:51](https://lobste.rs/s/smpuxh/wikifunctions) - [Wikifunctions](https://www.wikifunctions.org/)
 * [2024-01-14, 00:45:51](https://lobste.rs/s/rhzq5e/public_suffix_list_curl) - [Public Suffix List in curl](https://daniel.haxx.se/blog/2024/01/10/psl-in-curl/)
 * [2024-01-14, 00:19:52](https://lobste.rs/s/aicqhh/building_faraday_cage_with_data) - [Building a Faraday cage with data passthrough for ESP32 reverse engineering](https://esp32-open-mac.be/posts/0003-faraday-cage/)
 * [2024-01-13, 23:56:27](https://lobste.rs/s/x3xwvz/making_my_website_faster) - [Making my website faster](https://cliffle.com/blog/making-website-faster/)
@@ -19,12 +21,10 @@
 * [2024-01-13, 02:26:19](https://lobste.rs/s/umdeiu/memo_incremental_computation_library) - [Memo: an incremental computation library that powers Dune](https://www.youtube.com/watch?v=MjWx_qfEQXg)
 * [2024-01-13, 01:42:27](https://lobste.rs/s/t3noau/freebsd_desktop_audio_improvements) - [FreeBSD Desktop Audio Improvements](https://vermaden.wordpress.com/2024/01/13/freebsd-desktop-part-29-configuration-audio-improvements/)
 * [2024-01-12, 20:50:17](https://lobste.rs/s/wrifjl/how_threads_will_integrate_with) - [How Threads will integrate with the Fediverse](http://plasticbag.org/archives/2024/01/how-threads-will-integrate-with-the-fediverse/)
-* [2024-01-12, 18:35:39](https://lobste.rs/s/zzdpcz/class_invariants) - [Class invariants](https://akrzemi1.wordpress.com/2024/01/07/class-invariants/)
 * [2024-01-12, 17:00:44](https://lobste.rs/s/phxlqm/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/phxlqm/what_are_you_doing_this_weekend)
 * [2024-01-12, 12:49:44](https://lobste.rs/s/kzl90v/where_is_all_fediverse) - [Where is all of the fediverse?](https://blog.benjojo.co.uk/post/who-hosts-the-fediverse-instances)
 * [2024-01-12, 10:08:38](https://lobste.rs/s/lgwcpb/statement_regarding_ongoing_sourcehut) - [Statement regarding the ongoing SourceHut outage](https://outage.sr.ht/)
 * [2024-01-12, 03:47:52](https://lobste.rs/s/s5q1vb/you_might_only_need_tablet_for_computer) - [You (Might) Only Need a Tablet for Computer Science](https://ezrizhu.com/blog/tablet-for-cs)
-* [2024-01-11, 17:24:02](https://lobste.rs/s/uzm14h/is_htmx_just_another_javascript) - [Is htmx Just Another JavaScript Framework?](https://htmx.org/essays/is-htmx-another-javascript-framework/)
 
 ## [Archives](archives/index.md)
 
