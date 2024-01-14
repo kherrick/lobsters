@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-14, 18:39:48](https://lobste.rs/s/yqj6fb/vector_databases_technical_primer) - [Vector Databases A Technical Primer](https://tge-data-web.nyc3.digitaloceanspaces.com/docs/Vector%20Databases%20-%20A%20Technical%20Primer.pdf)
 * [2024-01-14, 17:11:11](https://lobste.rs/s/lyj9k0/historic_view_practice_delay_releasing) - [A historic view of the practice to delay releasing Open Source software: OSI’s report](https://blog.opensource.org/a-historic-view-of-the-practice-to-delay-releasing-open-source-software-osis-report/)
 * [2024-01-14, 13:33:34](https://lobste.rs/s/qgcu7j/how_fast_is_your_shell) - [How fast is your shell?](https://registerspill.thorstenball.com/p/how-fast-is-your-shell)
 * [2024-01-14, 13:22:42](https://lobste.rs/s/huf34t/json2smtp_emal_proxy_input_json_output) - [json2smtp: Emal proxy: input json; output smtp call - (json2smtp)](https://github.com/caviv/json2smtp)
@@ -20,7 +21,6 @@
 * [2024-01-13, 18:53:54](https://lobste.rs/s/rqqqx6/make_indie_web_easier) - [Make the indie web easier](https://gilest.org/indie-easy.html)
 * [2024-01-13, 15:58:33](https://lobste.rs/s/gntmhr/search_search_engine_beyond) - [In search of a Search Engine, beyond Elasticsearch: Introducing Zinc](https://prabhatsharma.in/blog/in-search-of-a-search-engine-beyond-elasticsearch-introducing-zinc/)
 * [2024-01-13, 15:17:19](https://lobste.rs/s/thngkf/sign_with_google_go) - [Sign in with Google in Go](https://eli.thegreenplace.net/2024/sign-in-with-google-in-go/)
-* [2024-01-13, 12:00:05](https://lobste.rs/s/nyalri/cloud_native_search_engine_for) - [Cloud-native search engine for observability](https://github.com/quickwit-oss/quickwit)
 * [2024-01-13, 08:47:08](https://lobste.rs/s/ad9ou2/decade_long_steam_issue_is_everyone_just) - [A decade long Steam issue, is everyone just too fast for Valve?](https://blog.freudenjmp.com/posts/no-user-logon/)
 * [2024-01-13, 05:42:19](https://lobste.rs/s/tgw8kr/new_fedora_asahi_remix) - [New in Fedora Asahi Remix](https://asahilinux.org/2024/01/fedora-asahi-new/)
 * [2024-01-13, 01:42:27](https://lobste.rs/s/t3noau/freebsd_desktop_audio_improvements) - [FreeBSD Desktop Audio Improvements](https://vermaden.wordpress.com/2024/01/13/freebsd-desktop-part-29-configuration-audio-improvements/)
