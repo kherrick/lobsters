@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-14, 10:02:45](https://lobste.rs/s/8imjsv/towards_modern_development_cloud) - [Towards Modern Development of Cloud Applications (2023)](https://dl.acm.org/doi/10.1145/3593856.3595909)
 * [2024-01-14, 08:29:45](https://lobste.rs/s/gpnw53/memory_remains_permanent_memory_with) - [The memory remains: Permanent memory with systemd and a Rust allocator](https://darkcoding.net/software/rust-systemd-memory-remains/)
 * [2024-01-14, 08:01:27](https://lobste.rs/s/mizy2w/observed_failures) - [Observed Failures](https://c3.ndc.nasa.gov/dashlink/static/media/other/ObservedFailures1.html)
 * [2024-01-14, 05:51:36](https://lobste.rs/s/wosaod/was_there_retro_computer_susceptible) - [Was there a retro computer susceptible of being damaged only by issuing instructions at it?](https://retrocomputing.stackexchange.com/q/2264/28593)
@@ -22,7 +23,6 @@
 * [2024-01-13, 06:09:30](https://lobste.rs/s/uaesz7/tinkering_with_manjaro_netbsd_on) - [Tinkering with Manjaro and NetBSD on the Pinebook Pro](https://www.autodidacts.io/pinebook-pro-linux-bsd-laptop-review-tutorial/)
 * [2024-01-13, 05:42:19](https://lobste.rs/s/tgw8kr/new_fedora_asahi_remix) - [New in Fedora Asahi Remix](https://asahilinux.org/2024/01/fedora-asahi-new/)
 * [2024-01-13, 01:42:27](https://lobste.rs/s/t3noau/freebsd_desktop_audio_improvements) - [FreeBSD Desktop Audio Improvements](https://vermaden.wordpress.com/2024/01/13/freebsd-desktop-part-29-configuration-audio-improvements/)
-* [2024-01-12, 20:50:17](https://lobste.rs/s/wrifjl/how_threads_will_integrate_with) - [How Threads will integrate with the Fediverse](http://plasticbag.org/archives/2024/01/how-threads-will-integrate-with-the-fediverse/)
 * [2024-01-12, 12:49:44](https://lobste.rs/s/kzl90v/where_is_all_fediverse) - [Where is all of the fediverse?](https://blog.benjojo.co.uk/post/who-hosts-the-fediverse-instances)
 * [2024-01-12, 10:08:38](https://lobste.rs/s/lgwcpb/statement_regarding_ongoing_sourcehut) - [Statement regarding the ongoing SourceHut outage](https://outage.sr.ht/)
 

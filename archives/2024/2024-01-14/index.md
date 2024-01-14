@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-14](index.md)
 
+* [2024-01-14, 10:02:45](https://lobste.rs/s/8imjsv/towards_modern_development_cloud) - [Towards Modern Development of Cloud Applications (2023)](https://dl.acm.org/doi/10.1145/3593856.3595909)
 * [2024-01-14, 08:29:45](https://lobste.rs/s/gpnw53/memory_remains_permanent_memory_with) - [The memory remains: Permanent memory with systemd and a Rust allocator](https://darkcoding.net/software/rust-systemd-memory-remains/)
 * [2024-01-14, 08:01:27](https://lobste.rs/s/mizy2w/observed_failures) - [Observed Failures](https://c3.ndc.nasa.gov/dashlink/static/media/other/ObservedFailures1.html)
 * [2024-01-14, 05:51:36](https://lobste.rs/s/wosaod/was_there_retro_computer_susceptible) - [Was there a retro computer susceptible of being damaged only by issuing instructions at it?](https://retrocomputing.stackexchange.com/q/2264/28593)
