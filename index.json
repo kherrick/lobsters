@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-14, 01:37:26",
+      "https://lobste.rs/s/atqtzp/introducing_opend_d_language_fork_is_open"
+    ],
+    [
+      "Introducing OpenD, a D language fork that is open to your contribution",
+      "https://dpldocs.info/this-week-in-d/Blog.Posted_2024_01_01.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-14, 00:58:51",
+      "https://lobste.rs/s/smpuxh/wikifunctions"
+    ],
+    [
+      "Wikifunctions",
+      "https://www.wikifunctions.org/"
+    ]
+  ],
+  [
+    [
       "2024-01-14, 00:45:51",
       "https://lobste.rs/s/rhzq5e/public_suffix_list_curl"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-01-12, 18:35:39",
-      "https://lobste.rs/s/zzdpcz/class_invariants"
-    ],
-    [
-      "Class invariants",
-      "https://akrzemi1.wordpress.com/2024/01/07/class-invariants/"
-    ]
-  ],
-  [
-    [
       "2024-01-12, 17:00:44",
       "https://lobste.rs/s/phxlqm/what_are_you_doing_this_weekend"
     ],
@@ -237,16 +247,6 @@
     [
       "You (Might) Only Need a Tablet for Computer Science",
       "https://ezrizhu.com/blog/tablet-for-cs"
-    ]
-  ],
-  [
-    [
-      "2024-01-11, 17:24:02",
-      "https://lobste.rs/s/uzm14h/is_htmx_just_another_javascript"
-    ],
-    [
-      "Is htmx Just Another JavaScript Framework?",
-      "https://htmx.org/essays/is-htmx-another-javascript-framework/"
     ]
   ]
 ]
