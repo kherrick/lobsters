@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-14, 21:14:58](https://lobste.rs/s/acalt2/vs_code_flatpak_is_useless) - [The VS Code Flatpak is useless](https://bentsukun.ch/posts/vscode-flatpak/)
 * [2024-01-14, 20:56:57](https://lobste.rs/s/mmncam/httpd2_static_file_webserver) - [httpd2: a static file webserver](https://github.com/cbiffle/httpd2/blob/main/doc/manual.md)
 * [2024-01-14, 20:19:56](https://lobste.rs/s/tyolfd/saving_my_wrists_part_1_moving_ergonomic) - [Saving my Wrists, Part 1: moving to an ergonomic mouse](https://apebox.org/wordpress/tech/1376)
 * [2024-01-14, 19:33:16](https://lobste.rs/s/uwo48s/what_pwa_can_do_today) - [What PWA Can Do Today](https://whatpwacando.today)
@@ -24,7 +25,6 @@
 * [2024-01-13, 15:58:33](https://lobste.rs/s/gntmhr/search_search_engine_beyond) - [In search of a Search Engine, beyond Elasticsearch: Introducing Zinc](https://prabhatsharma.in/blog/in-search-of-a-search-engine-beyond-elasticsearch-introducing-zinc/)
 * [2024-01-13, 08:47:08](https://lobste.rs/s/ad9ou2/decade_long_steam_issue_is_everyone_just) - [A decade long Steam issue, is everyone just too fast for Valve?](https://blog.freudenjmp.com/posts/no-user-logon/)
 * [2024-01-13, 05:42:19](https://lobste.rs/s/tgw8kr/new_fedora_asahi_remix) - [New in Fedora Asahi Remix](https://asahilinux.org/2024/01/fedora-asahi-new/)
-* [2024-01-12, 10:08:38](https://lobste.rs/s/lgwcpb/statement_regarding_ongoing_sourcehut) - [Statement regarding the ongoing SourceHut outage](https://outage.sr.ht/)
 
 ## [Archives](archives/index.md)
 
