@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-14, 18:39:48",
+      "https://lobste.rs/s/yqj6fb/vector_databases_technical_primer"
+    ],
+    [
+      "Vector Databases A Technical Primer",
+      "https://tge-data-web.nyc3.digitaloceanspaces.com/docs/Vector%20Databases%20-%20A%20Technical%20Primer.pdf"
+    ]
+  ],
+  [
+    [
       "2024-01-14, 17:11:11",
       "https://lobste.rs/s/lyj9k0/historic_view_practice_delay_releasing"
     ],
@@ -197,16 +207,6 @@
     [
       "Sign in with Google in Go",
       "https://eli.thegreenplace.net/2024/sign-in-with-google-in-go/"
-    ]
-  ],
-  [
-    [
-      "2024-01-13, 12:00:05",
-      "https://lobste.rs/s/nyalri/cloud_native_search_engine_for"
-    ],
-    [
-      "Cloud-native search engine for observability",
-      "https://github.com/quickwit-oss/quickwit"
     ]
   ],
   [
