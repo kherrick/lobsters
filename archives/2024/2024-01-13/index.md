@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-13](index.md)
 
+* [2024-01-13, 23:56:27](https://lobste.rs/s/x3xwvz/making_my_website_faster) - [Making my website faster](https://cliffle.com/blog/making-website-faster/)
 * [2024-01-13, 22:26:41](https://lobste.rs/s/8zrtn7/thinking_array_language_2022) - [Thinking in an array language (2022)](https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md)
 * [2024-01-13, 22:14:30](https://lobste.rs/s/ddssxd/captioning_all_my_youtube_videos_with_ai) - [Captioning all my YouTube videos with AI](https://thesquareplanet.com/blog/ai-captioning/)
 * [2024-01-13, 20:39:07](https://lobste.rs/s/evhzrv/task_vectors_analogy_making_llms) - [Task vectors & analogy making in LLMs](https://grgv.xyz/blog/copycat2/)
