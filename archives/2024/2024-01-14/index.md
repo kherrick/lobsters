@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-14](index.md)
 
+* [2024-01-14, 17:11:11](https://lobste.rs/s/lyj9k0/historic_view_practice_delay_releasing) - [A historic view of the practice to delay releasing Open Source software: OSI’s report](https://blog.opensource.org/a-historic-view-of-the-practice-to-delay-releasing-open-source-software-osis-report/)
 * [2024-01-14, 13:33:34](https://lobste.rs/s/qgcu7j/how_fast_is_your_shell) - [How fast is your shell?](https://registerspill.thorstenball.com/p/how-fast-is-your-shell)
 * [2024-01-14, 13:22:42](https://lobste.rs/s/huf34t/json2smtp_emal_proxy_input_json_output) - [json2smtp: Emal proxy: input json; output smtp call - (json2smtp)](https://github.com/caviv/json2smtp)
 * [2024-01-14, 10:02:45](https://lobste.rs/s/8imjsv/towards_modern_development_cloud) - [Towards Modern Development of Cloud Applications (2023)](https://dl.acm.org/doi/10.1145/3593856.3595909)

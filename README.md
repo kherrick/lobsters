@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-14, 17:11:11](https://lobste.rs/s/lyj9k0/historic_view_practice_delay_releasing) - [A historic view of the practice to delay releasing Open Source software: OSI’s report](https://blog.opensource.org/a-historic-view-of-the-practice-to-delay-releasing-open-source-software-osis-report/)
 * [2024-01-14, 13:33:34](https://lobste.rs/s/qgcu7j/how_fast_is_your_shell) - [How fast is your shell?](https://registerspill.thorstenball.com/p/how-fast-is-your-shell)
 * [2024-01-14, 13:22:42](https://lobste.rs/s/huf34t/json2smtp_emal_proxy_input_json_output) - [json2smtp: Emal proxy: input json; output smtp call - (json2smtp)](https://github.com/caviv/json2smtp)
 * [2024-01-14, 10:02:45](https://lobste.rs/s/8imjsv/towards_modern_development_cloud) - [Towards Modern Development of Cloud Applications (2023)](https://dl.acm.org/doi/10.1145/3593856.3595909)
@@ -23,7 +24,6 @@
 * [2024-01-13, 08:47:08](https://lobste.rs/s/ad9ou2/decade_long_steam_issue_is_everyone_just) - [A decade long Steam issue, is everyone just too fast for Valve?](https://blog.freudenjmp.com/posts/no-user-logon/)
 * [2024-01-13, 05:42:19](https://lobste.rs/s/tgw8kr/new_fedora_asahi_remix) - [New in Fedora Asahi Remix](https://asahilinux.org/2024/01/fedora-asahi-new/)
 * [2024-01-13, 01:42:27](https://lobste.rs/s/t3noau/freebsd_desktop_audio_improvements) - [FreeBSD Desktop Audio Improvements](https://vermaden.wordpress.com/2024/01/13/freebsd-desktop-part-29-configuration-audio-improvements/)
-* [2024-01-12, 12:49:44](https://lobste.rs/s/kzl90v/where_is_all_fediverse) - [Where is all of the fediverse?](https://blog.benjojo.co.uk/post/who-hosts-the-fediverse-instances)
 * [2024-01-12, 10:08:38](https://lobste.rs/s/lgwcpb/statement_regarding_ongoing_sourcehut) - [Statement regarding the ongoing SourceHut outage](https://outage.sr.ht/)
 
 ## [Archives](archives/index.md)
