@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-14, 19:33:16](https://lobste.rs/s/uwo48s/what_pwa_can_do_today) - [What PWA Can Do Today](https://whatpwacando.today)
 * [2024-01-14, 19:06:25](https://lobste.rs/s/qw07y3/playing_with_fire_how_we_executed) - [Playing with Fire – How We Executed a Critical Supply Chain Attack on PyTorch](https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/)
 * [2024-01-14, 18:45:36](https://lobste.rs/s/r9xgu8/picat_3_6_released) - [Picat 3.6 released](http://picat-lang.org/updates.txt)
 * [2024-01-14, 18:39:48](https://lobste.rs/s/yqj6fb/vector_databases_technical_primer) - [Vector Databases A Technical Primer](https://tge-data-web.nyc3.digitaloceanspaces.com/docs/Vector%20Databases%20-%20A%20Technical%20Primer.pdf)
@@ -18,7 +19,6 @@
 * [2024-01-13, 23:56:27](https://lobste.rs/s/x3xwvz/making_my_website_faster) - [Making my website faster](https://cliffle.com/blog/making-website-faster/)
 * [2024-01-13, 22:26:41](https://lobste.rs/s/8zrtn7/thinking_array_language_2022) - [Thinking in an array language (2022)](https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md)
 * [2024-01-13, 22:14:30](https://lobste.rs/s/ddssxd/captioning_all_my_youtube_videos_with_ai) - [Captioning all my YouTube videos with AI](https://thesquareplanet.com/blog/ai-captioning/)
-* [2024-01-13, 20:39:07](https://lobste.rs/s/evhzrv/task_vectors_analogy_making_llms) - [Task vectors & analogy making in LLMs](https://grgv.xyz/blog/copycat2/)
 * [2024-01-13, 19:04:26](https://lobste.rs/s/0hqzgc/import_mymodule_from_my_module_torrent) - [import myModule from \"./my-module.torrent\": requiring Node modules from BitTorrent](https://evanhahn.com/node-torrent-import/)
 * [2024-01-13, 18:53:54](https://lobste.rs/s/rqqqx6/make_indie_web_easier) - [Make the indie web easier](https://gilest.org/indie-easy.html)
 * [2024-01-13, 15:58:33](https://lobste.rs/s/gntmhr/search_search_engine_beyond) - [In search of a Search Engine, beyond Elasticsearch: Introducing Zinc](https://prabhatsharma.in/blog/in-search-of-a-search-engine-beyond-elasticsearch-introducing-zinc/)

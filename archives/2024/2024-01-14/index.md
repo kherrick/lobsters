@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-14](index.md)
 
+* [2024-01-14, 19:33:16](https://lobste.rs/s/uwo48s/what_pwa_can_do_today) - [What PWA Can Do Today](https://whatpwacando.today)
 * [2024-01-14, 19:06:25](https://lobste.rs/s/qw07y3/playing_with_fire_how_we_executed) - [Playing with Fire – How We Executed a Critical Supply Chain Attack on PyTorch](https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/)
 * [2024-01-14, 18:45:36](https://lobste.rs/s/r9xgu8/picat_3_6_released) - [Picat 3.6 released](http://picat-lang.org/updates.txt)
 * [2024-01-14, 18:39:48](https://lobste.rs/s/yqj6fb/vector_databases_technical_primer) - [Vector Databases A Technical Primer](https://tge-data-web.nyc3.digitaloceanspaces.com/docs/Vector%20Databases%20-%20A%20Technical%20Primer.pdf)
