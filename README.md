@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-14, 20:56:57](https://lobste.rs/s/mmncam/httpd2_static_file_webserver) - [httpd2: a static file webserver](https://github.com/cbiffle/httpd2/blob/main/doc/manual.md)
 * [2024-01-14, 20:19:56](https://lobste.rs/s/tyolfd/saving_my_wrists_part_1_moving_ergonomic) - [Saving my Wrists, Part 1: moving to an ergonomic mouse](https://apebox.org/wordpress/tech/1376)
 * [2024-01-14, 19:33:16](https://lobste.rs/s/uwo48s/what_pwa_can_do_today) - [What PWA Can Do Today](https://whatpwacando.today)
 * [2024-01-14, 19:06:25](https://lobste.rs/s/qw07y3/playing_with_fire_how_we_executed) - [Playing with Fire – How We Executed a Critical Supply Chain Attack on PyTorch](https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/)
@@ -9,7 +10,6 @@
 * [2024-01-14, 13:33:34](https://lobste.rs/s/qgcu7j/how_fast_is_your_shell) - [How fast is your shell?](https://registerspill.thorstenball.com/p/how-fast-is-your-shell)
 * [2024-01-14, 10:02:45](https://lobste.rs/s/8imjsv/towards_modern_development_cloud) - [Towards Modern Development of Cloud Applications (2023)](https://dl.acm.org/doi/10.1145/3593856.3595909)
 * [2024-01-14, 08:29:45](https://lobste.rs/s/gpnw53/memory_remains_permanent_memory_with) - [The memory remains: Permanent memory with systemd and a Rust allocator](https://darkcoding.net/software/rust-systemd-memory-remains/)
-* [2024-01-14, 08:01:27](https://lobste.rs/s/mizy2w/observed_failures) - [Observed Failures](https://c3.ndc.nasa.gov/dashlink/static/media/other/ObservedFailures1.html)
 * [2024-01-14, 05:51:36](https://lobste.rs/s/wosaod/was_there_retro_computer_susceptible) - [Was there a retro computer susceptible of being damaged only by issuing instructions at it?](https://retrocomputing.stackexchange.com/q/2264/28593)
 * [2024-01-14, 04:48:47](https://lobste.rs/s/brv5hw/leap_faith_how_apple_airport_changed) - [THE LEAP OF FAITH: How the Apple Airport Changed Everything](https://www.youtube.com/watch?v=EhBxWHrG7K8)
 * [2024-01-14, 01:37:26](https://lobste.rs/s/atqtzp/introducing_opend_d_language_fork_is_open) - [Introducing OpenD, a D language fork that is open to your contribution](https://dpldocs.info/this-week-in-d/Blog.Posted_2024_01_01.html)
