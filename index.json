@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-15, 19:23:45",
+      "https://lobste.rs/s/kpti4i/no_strong_sender_identification"
+    ],
+    [
+      "No Strong Sender Identification Assurances",
+      "https://dejanstrbac.com/email/sender_identification.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-15, 19:17:37",
+      "https://lobste.rs/s/dvasrk/motivating_x3dh"
+    ],
+    [
+      "Motivating X3DH",
+      "https://blog.wesleyac.com/posts/motivating-x3dh"
+    ]
+  ],
+  [
+    [
       "2024-01-15, 19:09:14",
       "https://lobste.rs/s/wv6hs3/setting_up_nix_on_macos"
     ],
@@ -197,26 +217,6 @@
     [
       "When Random Isn't",
       "https://orlp.net/blog/when-random-isnt/"
-    ]
-  ],
-  [
-    [
-      "2024-01-14, 21:53:14",
-      "https://lobste.rs/s/bzaf2c/type_information_for_faster_python_c"
-    ],
-    [
-      "Type information for faster Python C extensions",
-      "https://bernsteinbear.com/blog/typed-c-extensions/"
-    ]
-  ],
-  [
-    [
-      "2024-01-14, 21:14:58",
-      "https://lobste.rs/s/acalt2/vs_code_flatpak_is_useless"
-    ],
-    [
-      "The VS Code Flatpak is useless",
-      "https://bentsukun.ch/posts/vscode-flatpak/"
     ]
   ],
   [
