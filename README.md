@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-15, 16:50:52](https://lobste.rs/s/dqw5zq/2024_discussion_whether_convert_linux) - [A 2024 Discussion Whether To Convert The Linux Kernel From C To Modern C++ - Phoronix](https://www.phoronix.com/news/CPP-Linux-Kernel-2024-Discuss)
 * [2024-01-15, 15:51:28](https://lobste.rs/s/zt0n6v/rsa_is_deceptively_simple_fun) - [RSA is deceptively simple (and fun)](https://ntietz.com/blog/rsa-deceptively-simple/)
 * [2024-01-15, 14:59:14](https://lobste.rs/s/exrbix/first_dos_machine_2007) - [The First DOS Machine (2007)](http://dosmandrivel.blogspot.com/2007/11/first-dos-machine.html)
 * [2024-01-15, 14:56:35](https://lobste.rs/s/wztddn/how_fix_dependency_hell) - [How to Fix Dependency Hell](https://lobste.rs/s/wztddn/how_fix_dependency_hell)
@@ -20,7 +21,6 @@
 * [2024-01-14, 21:14:58](https://lobste.rs/s/acalt2/vs_code_flatpak_is_useless) - [The VS Code Flatpak is useless](https://bentsukun.ch/posts/vscode-flatpak/)
 * [2024-01-14, 20:56:57](https://lobste.rs/s/mmncam/httpd2_static_file_webserver) - [httpd2: a static file webserver](https://github.com/cbiffle/httpd2/blob/main/doc/manual.md)
 * [2024-01-14, 19:33:16](https://lobste.rs/s/uwo48s/what_pwa_can_do_today) - [What PWA Can Do Today](https://whatpwacando.today)
-* [2024-01-14, 19:06:25](https://lobste.rs/s/qw07y3/playing_with_fire_how_we_executed) - [Playing with Fire – How We Executed a Critical Supply Chain Attack on PyTorch](https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/)
 * [2024-01-14, 18:45:36](https://lobste.rs/s/r9xgu8/picat_3_6_released) - [Picat 3.6 released](http://picat-lang.org/updates.txt)
 * [2024-01-14, 13:33:34](https://lobste.rs/s/qgcu7j/how_fast_is_your_shell) - [How fast is your shell?](https://registerspill.thorstenball.com/p/how-fast-is-your-shell)
 * [2024-01-14, 01:37:26](https://lobste.rs/s/atqtzp/introducing_opend_d_language_fork_is_open) - [Introducing OpenD, a D language fork that is open to your contribution](https://dpldocs.info/this-week-in-d/Blog.Posted_2024_01_01.html)

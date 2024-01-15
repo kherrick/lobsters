@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
+* [2024-01-15, 16:50:52](https://lobste.rs/s/dqw5zq/2024_discussion_whether_convert_linux) - [A 2024 Discussion Whether To Convert The Linux Kernel From C To Modern C++ - Phoronix](https://www.phoronix.com/news/CPP-Linux-Kernel-2024-Discuss)
 * [2024-01-15, 15:51:28](https://lobste.rs/s/zt0n6v/rsa_is_deceptively_simple_fun) - [RSA is deceptively simple (and fun)](https://ntietz.com/blog/rsa-deceptively-simple/)
 * [2024-01-15, 14:59:14](https://lobste.rs/s/exrbix/first_dos_machine_2007) - [The First DOS Machine (2007)](http://dosmandrivel.blogspot.com/2007/11/first-dos-machine.html)
 * [2024-01-15, 14:56:35](https://lobste.rs/s/wztddn/how_fix_dependency_hell) - [How to Fix Dependency Hell](https://lobste.rs/s/wztddn/how_fix_dependency_hell)
