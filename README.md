@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-15, 03:46:36](https://lobste.rs/s/pizghc/i_used_netscape_composer_2024) - [I Used Netscape Composer in 2024](https://plbrault.com/blog-posts/i-used-netscape-composer-in-2024-en/)
 * [2024-01-15, 02:25:33](https://lobste.rs/s/bwa65h/linux_timer_tracking_calculating) - [Linux timer tracking and calculating complexity](https://www.youtube.com/watch?v=nFflsHwtomo)
 * [2024-01-15, 01:16:29](https://lobste.rs/s/uentek/what_s_new_go_1_22_reflect_typefor) - [What’s New in Go 1.22: reflect.TypeFor](https://blog.carlana.net/post/2024/golang-reflect-type-for/)
 * [2024-01-14, 23:19:59](https://lobste.rs/s/0hohow/when_random_isn_t) - [When Random Isn't](https://orlp.net/blog/when-random-isnt/)
@@ -24,7 +25,6 @@
 * [2024-01-13, 22:14:30](https://lobste.rs/s/ddssxd/captioning_all_my_youtube_videos_with_ai) - [Captioning all my YouTube videos with AI](https://thesquareplanet.com/blog/ai-captioning/)
 * [2024-01-13, 19:04:26](https://lobste.rs/s/0hqzgc/import_mymodule_from_my_module_torrent) - [import myModule from \"./my-module.torrent\": requiring Node modules from BitTorrent](https://evanhahn.com/node-torrent-import/)
 * [2024-01-13, 18:53:54](https://lobste.rs/s/rqqqx6/make_indie_web_easier) - [Make the indie web easier](https://gilest.org/indie-easy.html)
-* [2024-01-13, 08:47:08](https://lobste.rs/s/ad9ou2/decade_long_steam_issue_is_everyone_just) - [A decade long Steam issue, is everyone just too fast for Valve?](https://blog.freudenjmp.com/posts/no-user-logon/)
 
 ## [Archives](archives/index.md)
 
