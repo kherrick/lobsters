@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
+* [2024-01-15, 14:59:14](https://lobste.rs/s/exrbix/first_dos_machine_2007) - [The First DOS Machine (2007)](http://dosmandrivel.blogspot.com/2007/11/first-dos-machine.html)
+* [2024-01-15, 14:56:35](https://lobste.rs/s/wztddn/how_fix_dependency_hell) - [How to Fix Dependency Hell](https://lobste.rs/s/wztddn/how_fix_dependency_hell)
 * [2024-01-15, 14:18:19](https://lobste.rs/s/jfwwyi/sqlite_wal2_mode_notes) - [SQLite: Wal2 Mode Notes](https://www.sqlite.org/cgi/src/doc/wal2/doc/wal2.md)
 * [2024-01-15, 13:41:31](https://lobste.rs/s/jsjdye/ruffle_2023_review) - [Ruffle: 2023 in review](https://ruffle.rs/blog/2024/01/14/2023-in-review)
 * [2024-01-15, 12:36:36](https://lobste.rs/s/iukjc8/aslrn_t_how_memory_alignment_broke) - [ASLRn’t: How memory alignment broke library ASLR](https://zolutal.github.io/aslrnt/)
