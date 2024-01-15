@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-01-15, 20:33:58](https://lobste.rs/s/sjrvsp/universal_lowering_strategy_for_control) - [A universal lowering strategy for control effects in Rust - Abubalay](https://www.abubalay.com/blog/2024/01/14/rust-effect-lowering)
+* [2024-01-15, 21:24:06](https://lobste.rs/s/vetg49/some_memories_niklaus_wirth) - [Some Memories of Niklaus Wirth](https://odersky.github.io/blog/2024-01-04-post.html)
+* [2024-01-15, 20:11:29](https://lobste.rs/s/olauuu/python_packaging_one_year_later) - [Python Packaging, One Year Later](https://chriswarrick.com/blog/2024/01/15/python-packaging-one-year-later/)
 * [2024-01-15, 20:01:34](https://lobste.rs/s/lkxfwn/almost_all_fish_shell_has_been_rewritten) - [almost all of fish shell has been rewritten in rust](https://aus.social/@zanchey/111760402786767224)
+* [2024-01-15, 19:23:45](https://lobste.rs/s/kpti4i/no_strong_sender_identification) - [No Strong Sender Identification Assurances](https://dejanstrbac.com/email/sender_identification.html)
 * [2024-01-15, 19:09:14](https://lobste.rs/s/wv6hs3/setting_up_nix_on_macos) - [Setting up Nix on macOS](https://nixcademy.com/2024/01/15/nix-on-macos/)
 * [2024-01-15, 18:42:35](https://lobste.rs/s/nr5iox/upgrading_old_alpine_linux_vm_my_yak) - [Upgrading an old Alpine Linux VM (or: My Yak Shaving on this Snowy Day)](https://geoff.tuxpup.com/posts/upgrading-alpine-too-long/)
 * [2024-01-15, 18:27:42](https://lobste.rs/s/fg3ga8/high_speed_10gbps_full_mesh_network_based) - [High-speed 10Gbps full-mesh network based on USB4 for just $47.98](https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network/)
@@ -20,10 +22,8 @@
 * [2024-01-15, 05:17:29](https://lobste.rs/s/npq2zd/cactus_6502_homebrew_computer) - [The Cactus 6502 homebrew computer](https://www.commodorez.com/cactus.html)
 * [2024-01-15, 05:15:17](https://lobste.rs/s/vlcw5q/lessons_learned) - [Lessons Learned](http://theprogrammersparadox.blogspot.com/2024/01/lessons-learned.html)
 * [2024-01-15, 03:46:36](https://lobste.rs/s/pizghc/i_used_netscape_composer_2024) - [I Used Netscape Composer in 2024](https://plbrault.com/blog-posts/i-used-netscape-composer-in-2024-en/)
-* [2024-01-15, 01:16:29](https://lobste.rs/s/uentek/what_s_new_go_1_22_reflect_typefor) - [What’s New in Go 1.22: reflect.TypeFor](https://blog.carlana.net/post/2024/golang-reflect-type-for/)
 * [2024-01-14, 23:19:59](https://lobste.rs/s/0hohow/when_random_isn_t) - [When Random Isn't](https://orlp.net/blog/when-random-isnt/)
 * [2024-01-14, 20:56:57](https://lobste.rs/s/mmncam/httpd2_static_file_webserver) - [httpd2: a static file webserver](https://github.com/cbiffle/httpd2/blob/main/doc/manual.md)
-* [2024-01-14, 19:33:16](https://lobste.rs/s/uwo48s/what_pwa_can_do_today) - [What PWA Can Do Today](https://whatpwacando.today)
 * [2024-01-14, 13:33:34](https://lobste.rs/s/qgcu7j/how_fast_is_your_shell) - [How fast is your shell?](https://registerspill.thorstenball.com/p/how-fast-is-your-shell)
 
 ## [Archives](archives/index.md)
