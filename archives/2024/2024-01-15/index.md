@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
+* [2024-01-15, 21:44:20](https://lobste.rs/s/50hruz/pids_creating_stable_control_games) - [PIDs: Creating Stable Control in Games](https://azeemba.com/posts/pids-creating-stable-control-in-games.html)
 * [2024-01-15, 21:24:06](https://lobste.rs/s/vetg49/some_memories_niklaus_wirth) - [Some Memories of Niklaus Wirth](https://odersky.github.io/blog/2024-01-04-post.html)
 * [2024-01-15, 20:33:58](https://lobste.rs/s/sjrvsp/universal_lowering_strategy_for_control) - [A universal lowering strategy for control effects in Rust - Abubalay](https://www.abubalay.com/blog/2024/01/14/rust-effect-lowering)
 * [2024-01-15, 20:13:45](https://lobste.rs/s/fapyiy/accessible_notifications_with_aria_live) - [Accessible notifications with ARIA Live Regions (Part 1)](https://www.sarasoueidan.com/blog/accessible-notifications-with-aria-live-regions-part-1/)
