@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-15, 17:36:39](https://lobste.rs/s/kkbpfg/rust_c_filesystem_apis) - [Rust and C filesystem APIs](https://lwn.net/SubscriberLink/958072/b08250c903a1097b/)
 * [2024-01-15, 17:35:24](https://lobste.rs/s/wf6vpf/haiku_activity_contract_report_december) - [Haiku Activity & Contract Report, December 2023](https://www.haiku-os.org/blog/waddlesplash/2024-01-12_haiku_activity_contract_report_december_2023)
 * [2024-01-15, 16:50:52](https://lobste.rs/s/dqw5zq/2024_discussion_whether_convert_linux) - [A 2024 Discussion Whether To Convert The Linux Kernel From C To Modern C++ - Phoronix](https://www.phoronix.com/news/CPP-Linux-Kernel-2024-Discuss)
 * [2024-01-15, 15:51:28](https://lobste.rs/s/zt0n6v/rsa_is_deceptively_simple_fun) - [RSA is deceptively simple (and fun)](https://ntietz.com/blog/rsa-deceptively-simple/)
@@ -24,7 +25,6 @@
 * [2024-01-14, 19:33:16](https://lobste.rs/s/uwo48s/what_pwa_can_do_today) - [What PWA Can Do Today](https://whatpwacando.today)
 * [2024-01-14, 18:45:36](https://lobste.rs/s/r9xgu8/picat_3_6_released) - [Picat 3.6 released](http://picat-lang.org/updates.txt)
 * [2024-01-14, 13:33:34](https://lobste.rs/s/qgcu7j/how_fast_is_your_shell) - [How fast is your shell?](https://registerspill.thorstenball.com/p/how-fast-is-your-shell)
-* [2024-01-13, 19:04:26](https://lobste.rs/s/0hqzgc/import_mymodule_from_my_module_torrent) - [import myModule from \"./my-module.torrent\": requiring Node modules from BitTorrent](https://evanhahn.com/node-torrent-import/)
 
 ## [Archives](archives/index.md)
 
