@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-15, 14:59:14",
+      "https://lobste.rs/s/exrbix/first_dos_machine_2007"
+    ],
+    [
+      "The First DOS Machine (2007)",
+      "http://dosmandrivel.blogspot.com/2007/11/first-dos-machine.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-15, 14:56:35",
+      "https://lobste.rs/s/wztddn/how_fix_dependency_hell"
+    ],
+    [
+      "How to Fix Dependency Hell",
+      "https://lobste.rs/s/wztddn/how_fix_dependency_hell"
+    ]
+  ],
+  [
+    [
       "2024-01-15, 14:18:19",
       "https://lobste.rs/s/jfwwyi/sqlite_wal2_mode_notes"
     ],
@@ -67,16 +87,6 @@
     [
       "Dynamic Programming is not Black Magic – Quentin Santos",
       "https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/"
-    ]
-  ],
-  [
-    [
-      "2024-01-15, 06:58:29",
-      "https://lobste.rs/s/wzpl93/app_ai_chatbots_into_react_web_apps"
-    ],
-    [
-      "In-app AI chatbots into react web apps",
-      "https://github.com/CopilotKit/CopilotKit"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Introducing OpenD, a D language fork that is open to your contribution",
       "https://dpldocs.info/this-week-in-d/Blog.Posted_2024_01_01.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-14, 00:19:52",
-      "https://lobste.rs/s/aicqhh/building_faraday_cage_with_data"
-    ],
-    [
-      "Building a Faraday cage with data passthrough for ESP32 reverse engineering",
-      "https://esp32-open-mac.be/posts/0003-faraday-cage/"
     ]
   ],
   [
