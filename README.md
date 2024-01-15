@@ -10,7 +10,7 @@
 * [2024-01-15, 12:07:49](https://lobste.rs/s/kbt5n8/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kbt5n8/what_are_you_doing_this_week)
 * [2024-01-15, 09:43:59](https://lobste.rs/s/pphmcp/using_nix_post_build_hook) - [Using the Nix post-build-hook](https://nixos.org/manual/nix/stable/advanced-topics/post-build-hook)
 * [2024-01-15, 08:15:53](https://lobste.rs/s/mw7oor/exploring_object_file_formats) - [Exploring object file formats](https://maskray.me/blog/2024-01-14-exploring-object-file-formats)
-* [2024-01-15, 07:54:59](https://lobste.rs/s/fudmw6/dynamic_programming_is_not_black_magic) - [Dynamic Programming is not Black Magic – Quentin Santos](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
+* [2024-01-15, 07:54:59](https://lobste.rs/s/fudmw6/dynamic_programming_is_not_black_magic) - [Dynamic Programming is not Black Magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
 * [2024-01-15, 05:17:29](https://lobste.rs/s/npq2zd/cactus_6502_homebrew_computer) - [The Cactus 6502 homebrew computer](https://www.commodorez.com/cactus.html)
 * [2024-01-15, 05:15:17](https://lobste.rs/s/vlcw5q/lessons_learned) - [Lessons Learned](http://theprogrammersparadox.blogspot.com/2024/01/lessons-learned.html)
 * [2024-01-15, 04:54:21](https://lobste.rs/s/fcdkee/story_elixir) - [The Story of Elixir](https://osshistory.org/p/elixir)
