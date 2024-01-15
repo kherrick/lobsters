@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-01-15](index.md)
+
+* [2024-01-15, 01:16:29](https://lobste.rs/s/uentek/what_s_new_go_1_22_reflect_typefor) - [What’s New in Go 1.22: reflect.TypeFor](https://blog.carlana.net/post/2024/golang-reflect-type-for/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-15, 01:16:29](https://lobste.rs/s/uentek/what_s_new_go_1_22_reflect_typefor) - [What’s New in Go 1.22: reflect.TypeFor](https://blog.carlana.net/post/2024/golang-reflect-type-for/)
 * [2024-01-14, 23:19:59](https://lobste.rs/s/0hohow/when_random_isn_t) - [When Random Isn't](https://orlp.net/blog/when-random-isnt/)
 * [2024-01-14, 21:53:14](https://lobste.rs/s/bzaf2c/type_information_for_faster_python_c) - [Type information for faster Python C extensions](https://bernsteinbear.com/blog/typed-c-extensions/)
 * [2024-01-14, 21:14:58](https://lobste.rs/s/acalt2/vs_code_flatpak_is_useless) - [The VS Code Flatpak is useless](https://bentsukun.ch/posts/vscode-flatpak/)
@@ -24,7 +25,6 @@
 * [2024-01-13, 19:04:26](https://lobste.rs/s/0hqzgc/import_mymodule_from_my_module_torrent) - [import myModule from \"./my-module.torrent\": requiring Node modules from BitTorrent](https://evanhahn.com/node-torrent-import/)
 * [2024-01-13, 18:53:54](https://lobste.rs/s/rqqqx6/make_indie_web_easier) - [Make the indie web easier](https://gilest.org/indie-easy.html)
 * [2024-01-13, 08:47:08](https://lobste.rs/s/ad9ou2/decade_long_steam_issue_is_everyone_just) - [A decade long Steam issue, is everyone just too fast for Valve?](https://blog.freudenjmp.com/posts/no-user-logon/)
-* [2024-01-13, 05:42:19](https://lobste.rs/s/tgw8kr/new_fedora_asahi_remix) - [New in Fedora Asahi Remix](https://asahilinux.org/2024/01/fedora-asahi-new/)
 
 ## [Archives](archives/index.md)
 
