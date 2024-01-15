@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
+* [2024-01-15, 09:43:59](https://lobste.rs/s/pphmcp/using_nix_post_build_hook) - [Using the Nix post-build-hook](https://nixos.org/manual/nix/stable/advanced-topics/post-build-hook)
 * [2024-01-15, 08:15:53](https://lobste.rs/s/mw7oor/exploring_object_file_formats) - [Exploring object file formats](https://maskray.me/blog/2024-01-14-exploring-object-file-formats)
 * [2024-01-15, 08:03:34](https://lobste.rs/s/efixqm/kernel_extension_verification_is) - [Kernel extension verification is untenable](https://dl.acm.org/doi/10.1145/3593856.3595892)
 * [2024-01-15, 07:54:59](https://lobste.rs/s/fudmw6/dynamic_programming_is_not_black_magic) - [Dynamic Programming is not Black Magic – Quentin Santos](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-15, 09:43:59](https://lobste.rs/s/pphmcp/using_nix_post_build_hook) - [Using the Nix post-build-hook](https://nixos.org/manual/nix/stable/advanced-topics/post-build-hook)
 * [2024-01-15, 08:15:53](https://lobste.rs/s/mw7oor/exploring_object_file_formats) - [Exploring object file formats](https://maskray.me/blog/2024-01-14-exploring-object-file-formats)
 * [2024-01-15, 08:03:34](https://lobste.rs/s/efixqm/kernel_extension_verification_is) - [Kernel extension verification is untenable](https://dl.acm.org/doi/10.1145/3593856.3595892)
 * [2024-01-15, 07:54:59](https://lobste.rs/s/fudmw6/dynamic_programming_is_not_black_magic) - [Dynamic Programming is not Black Magic – Quentin Santos](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
@@ -17,7 +18,6 @@
 * [2024-01-14, 19:33:16](https://lobste.rs/s/uwo48s/what_pwa_can_do_today) - [What PWA Can Do Today](https://whatpwacando.today)
 * [2024-01-14, 19:06:25](https://lobste.rs/s/qw07y3/playing_with_fire_how_we_executed) - [Playing with Fire – How We Executed a Critical Supply Chain Attack on PyTorch](https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/)
 * [2024-01-14, 18:45:36](https://lobste.rs/s/r9xgu8/picat_3_6_released) - [Picat 3.6 released](http://picat-lang.org/updates.txt)
-* [2024-01-14, 18:39:48](https://lobste.rs/s/yqj6fb/vector_databases_technical_primer) - [Vector Databases A Technical Primer](https://tge-data-web.nyc3.digitaloceanspaces.com/docs/Vector%20Databases%20-%20A%20Technical%20Primer.pdf)
 * [2024-01-14, 17:11:11](https://lobste.rs/s/lyj9k0/historic_view_practice_delay_releasing) - [A historic view of the practice to delay releasing Open Source software: OSI’s report](https://blog.opensource.org/a-historic-view-of-the-practice-to-delay-releasing-open-source-software-osis-report/)
 * [2024-01-14, 13:33:34](https://lobste.rs/s/qgcu7j/how_fast_is_your_shell) - [How fast is your shell?](https://registerspill.thorstenball.com/p/how-fast-is-your-shell)
 * [2024-01-14, 08:29:45](https://lobste.rs/s/gpnw53/memory_remains_permanent_memory_with) - [The memory remains: Permanent memory with systemd and a Rust allocator](https://darkcoding.net/software/rust-systemd-memory-remains/)
