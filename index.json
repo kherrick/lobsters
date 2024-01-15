@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-15, 09:43:59",
+      "https://lobste.rs/s/pphmcp/using_nix_post_build_hook"
+    ],
+    [
+      "Using the Nix post-build-hook",
+      "https://nixos.org/manual/nix/stable/advanced-topics/post-build-hook"
+    ]
+  ],
+  [
+    [
       "2024-01-15, 08:15:53",
       "https://lobste.rs/s/mw7oor/exploring_object_file_formats"
     ],
@@ -167,16 +177,6 @@
     [
       "Picat 3.6 released",
       "http://picat-lang.org/updates.txt"
-    ]
-  ],
-  [
-    [
-      "2024-01-14, 18:39:48",
-      "https://lobste.rs/s/yqj6fb/vector_databases_technical_primer"
-    ],
-    [
-      "Vector Databases A Technical Primer",
-      "https://tge-data-web.nyc3.digitaloceanspaces.com/docs/Vector%20Databases%20-%20A%20Technical%20Primer.pdf"
     ]
   ],
   [
