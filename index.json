@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-15, 19:09:14",
+      "https://lobste.rs/s/wv6hs3/setting_up_nix_on_macos"
+    ],
+    [
+      "Setting up Nix on macOS",
+      "https://nixcademy.com/2024/01/15/nix-on-macos/"
+    ]
+  ],
+  [
+    [
       "2024-01-15, 18:42:35",
       "https://lobste.rs/s/nr5iox/upgrading_old_alpine_linux_vm_my_yak"
     ],
@@ -107,16 +117,6 @@
     [
       "Ruffle: 2023 in review",
       "https://ruffle.rs/blog/2024/01/14/2023-in-review"
-    ]
-  ],
-  [
-    [
-      "2024-01-15, 12:36:36",
-      "https://lobste.rs/s/iukjc8/aslrn_t_how_memory_alignment_broke"
-    ],
-    [
-      "ASLRn’t: How memory alignment broke library ASLR",
-      "https://zolutal.github.io/aslrnt/"
     ]
   ],
   [
