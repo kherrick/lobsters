@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-15, 06:58:29](https://lobste.rs/s/wzpl93/app_ai_chatbots_into_react_web_apps) - [In-app AI chatbots into react web apps](https://github.com/CopilotKit/CopilotKit)
 * [2024-01-15, 05:17:29](https://lobste.rs/s/npq2zd/cactus_6502_homebrew_computer) - [The Cactus 6502 homebrew computer](https://www.commodorez.com/cactus.html)
 * [2024-01-15, 05:15:17](https://lobste.rs/s/vlcw5q/lessons_learned) - [Lessons Learned](http://theprogrammersparadox.blogspot.com/2024/01/lessons-learned.html)
 * [2024-01-15, 04:54:21](https://lobste.rs/s/fcdkee/story_elixir) - [The Story of Elixir](https://osshistory.org/p/elixir)
@@ -19,7 +20,6 @@
 * [2024-01-14, 08:29:45](https://lobste.rs/s/gpnw53/memory_remains_permanent_memory_with) - [The memory remains: Permanent memory with systemd and a Rust allocator](https://darkcoding.net/software/rust-systemd-memory-remains/)
 * [2024-01-14, 05:51:36](https://lobste.rs/s/wosaod/was_there_retro_computer_susceptible) - [Was there a retro computer susceptible of being damaged only by issuing instructions at it?](https://retrocomputing.stackexchange.com/q/2264/28593)
 * [2024-01-14, 01:37:26](https://lobste.rs/s/atqtzp/introducing_opend_d_language_fork_is_open) - [Introducing OpenD, a D language fork that is open to your contribution](https://dpldocs.info/this-week-in-d/Blog.Posted_2024_01_01.html)
-* [2024-01-14, 00:58:51](https://lobste.rs/s/smpuxh/wikifunctions) - [Wikifunctions](https://www.wikifunctions.org/)
 * [2024-01-14, 00:45:51](https://lobste.rs/s/rhzq5e/public_suffix_list_curl) - [Public Suffix List in curl](https://daniel.haxx.se/blog/2024/01/10/psl-in-curl/)
 * [2024-01-14, 00:19:52](https://lobste.rs/s/aicqhh/building_faraday_cage_with_data) - [Building a Faraday cage with data passthrough for ESP32 reverse engineering](https://esp32-open-mac.be/posts/0003-faraday-cage/)
 * [2024-01-13, 22:14:30](https://lobste.rs/s/ddssxd/captioning_all_my_youtube_videos_with_ai) - [Captioning all my YouTube videos with AI](https://thesquareplanet.com/blog/ai-captioning/)
