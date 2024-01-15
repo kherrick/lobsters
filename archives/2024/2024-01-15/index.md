@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
+* [2024-01-15, 23:43:36](https://lobste.rs/s/lirogx/if_you_want_label_your_code_consider_label) - [If you want to label your code, consider Label-ing your code](https://www.codesections.com/blog/label-your-code/)
 * [2024-01-15, 21:44:20](https://lobste.rs/s/50hruz/pids_creating_stable_control_games) - [PIDs: Creating Stable Control in Games](https://azeemba.com/posts/pids-creating-stable-control-in-games.html)
 * [2024-01-15, 21:24:06](https://lobste.rs/s/vetg49/some_memories_niklaus_wirth) - [Some Memories of Niklaus Wirth](https://odersky.github.io/blog/2024-01-04-post.html)
 * [2024-01-15, 20:33:58](https://lobste.rs/s/sjrvsp/universal_lowering_strategy_for_control) - [A universal lowering strategy for control effects in Rust - Abubalay](https://www.abubalay.com/blog/2024/01/14/rust-effect-lowering)
