@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
+* [2024-01-15, 07:54:59](https://lobste.rs/s/fudmw6/dynamic_programming_is_not_black_magic) - [Dynamic Programming is not Black Magic – Quentin Santos](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
 * [2024-01-15, 06:58:29](https://lobste.rs/s/wzpl93/app_ai_chatbots_into_react_web_apps) - [In-app AI chatbots into react web apps](https://github.com/CopilotKit/CopilotKit)
 * [2024-01-15, 05:17:29](https://lobste.rs/s/npq2zd/cactus_6502_homebrew_computer) - [The Cactus 6502 homebrew computer](https://www.commodorez.com/cactus.html)
 * [2024-01-15, 05:15:17](https://lobste.rs/s/vlcw5q/lessons_learned) - [Lessons Learned](http://theprogrammersparadox.blogspot.com/2024/01/lessons-learned.html)

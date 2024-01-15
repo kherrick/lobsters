@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-15, 07:54:59](https://lobste.rs/s/fudmw6/dynamic_programming_is_not_black_magic) - [Dynamic Programming is not Black Magic – Quentin Santos](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
 * [2024-01-15, 06:58:29](https://lobste.rs/s/wzpl93/app_ai_chatbots_into_react_web_apps) - [In-app AI chatbots into react web apps](https://github.com/CopilotKit/CopilotKit)
 * [2024-01-15, 05:17:29](https://lobste.rs/s/npq2zd/cactus_6502_homebrew_computer) - [The Cactus 6502 homebrew computer](https://www.commodorez.com/cactus.html)
 * [2024-01-15, 05:15:17](https://lobste.rs/s/vlcw5q/lessons_learned) - [Lessons Learned](http://theprogrammersparadox.blogspot.com/2024/01/lessons-learned.html)
@@ -22,7 +23,6 @@
 * [2024-01-14, 01:37:26](https://lobste.rs/s/atqtzp/introducing_opend_d_language_fork_is_open) - [Introducing OpenD, a D language fork that is open to your contribution](https://dpldocs.info/this-week-in-d/Blog.Posted_2024_01_01.html)
 * [2024-01-14, 00:45:51](https://lobste.rs/s/rhzq5e/public_suffix_list_curl) - [Public Suffix List in curl](https://daniel.haxx.se/blog/2024/01/10/psl-in-curl/)
 * [2024-01-14, 00:19:52](https://lobste.rs/s/aicqhh/building_faraday_cage_with_data) - [Building a Faraday cage with data passthrough for ESP32 reverse engineering](https://esp32-open-mac.be/posts/0003-faraday-cage/)
-* [2024-01-13, 22:14:30](https://lobste.rs/s/ddssxd/captioning_all_my_youtube_videos_with_ai) - [Captioning all my YouTube videos with AI](https://thesquareplanet.com/blog/ai-captioning/)
 * [2024-01-13, 19:04:26](https://lobste.rs/s/0hqzgc/import_mymodule_from_my_module_torrent) - [import myModule from \"./my-module.torrent\": requiring Node modules from BitTorrent](https://evanhahn.com/node-torrent-import/)
 * [2024-01-13, 18:53:54](https://lobste.rs/s/rqqqx6/make_indie_web_easier) - [Make the indie web easier](https://gilest.org/indie-easy.html)
 
