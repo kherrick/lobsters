@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-15, 05:17:29",
+      "https://lobste.rs/s/npq2zd/cactus_6502_homebrew_computer"
+    ],
+    [
+      "The Cactus 6502 homebrew computer",
+      "https://www.commodorez.com/cactus.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-15, 05:15:17",
+      "https://lobste.rs/s/vlcw5q/lessons_learned"
+    ],
+    [
+      "Lessons Learned",
+      "http://theprogrammersparadox.blogspot.com/2024/01/lessons-learned.html"
+    ]
+  ],
+  [
+    [
       "2024-01-15, 04:54:21",
       "https://lobste.rs/s/fcdkee/story_elixir"
     ],
@@ -197,26 +217,6 @@
     [
       "Building a Faraday cage with data passthrough for ESP32 reverse engineering",
       "https://esp32-open-mac.be/posts/0003-faraday-cage/"
-    ]
-  ],
-  [
-    [
-      "2024-01-13, 23:56:27",
-      "https://lobste.rs/s/x3xwvz/making_my_website_faster"
-    ],
-    [
-      "Making my website faster",
-      "https://cliffle.com/blog/making-website-faster/"
-    ]
-  ],
-  [
-    [
-      "2024-01-13, 22:26:41",
-      "https://lobste.rs/s/8zrtn7/thinking_array_language_2022"
-    ],
-    [
-      "Thinking in an array language (2022)",
-      "https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md"
     ]
   ],
   [
