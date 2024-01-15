@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-01-15, 20:33:58",
-      "https://lobste.rs/s/sjrvsp/universal_lowering_strategy_for_control"
+      "2024-01-15, 21:24:06",
+      "https://lobste.rs/s/vetg49/some_memories_niklaus_wirth"
     ],
     [
-      "A universal lowering strategy for control effects in Rust - Abubalay",
-      "https://www.abubalay.com/blog/2024/01/14/rust-effect-lowering"
+      "Some Memories of Niklaus Wirth",
+      "https://odersky.github.io/blog/2024-01-04-post.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-15, 20:11:29",
+      "https://lobste.rs/s/olauuu/python_packaging_one_year_later"
+    ],
+    [
+      "Python Packaging, One Year Later",
+      "https://chriswarrick.com/blog/2024/01/15/python-packaging-one-year-later/"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "almost all of fish shell has been rewritten in rust",
       "https://aus.social/@zanchey/111760402786767224"
+    ]
+  ],
+  [
+    [
+      "2024-01-15, 19:23:45",
+      "https://lobste.rs/s/kpti4i/no_strong_sender_identification"
+    ],
+    [
+      "No Strong Sender Identification Assurances",
+      "https://dejanstrbac.com/email/sender_identification.html"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-01-15, 01:16:29",
-      "https://lobste.rs/s/uentek/what_s_new_go_1_22_reflect_typefor"
-    ],
-    [
-      "What’s New in Go 1.22: reflect.TypeFor",
-      "https://blog.carlana.net/post/2024/golang-reflect-type-for/"
-    ]
-  ],
-  [
-    [
       "2024-01-14, 23:19:59",
       "https://lobste.rs/s/0hohow/when_random_isn_t"
     ],
@@ -227,16 +237,6 @@
     [
       "httpd2: a static file webserver",
       "https://github.com/cbiffle/httpd2/blob/main/doc/manual.md"
-    ]
-  ],
-  [
-    [
-      "2024-01-14, 19:33:16",
-      "https://lobste.rs/s/uwo48s/what_pwa_can_do_today"
-    ],
-    [
-      "What PWA Can Do Today",
-      "https://whatpwacando.today"
     ]
   ],
   [
