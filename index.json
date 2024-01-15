@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-15, 08:15:53",
+      "https://lobste.rs/s/mw7oor/exploring_object_file_formats"
+    ],
+    [
+      "Exploring object file formats",
+      "https://maskray.me/blog/2024-01-14-exploring-object-file-formats"
+    ]
+  ],
+  [
+    [
+      "2024-01-15, 08:03:34",
+      "https://lobste.rs/s/efixqm/kernel_extension_verification_is"
+    ],
+    [
+      "Kernel extension verification is untenable",
+      "https://dl.acm.org/doi/10.1145/3593856.3595892"
+    ]
+  ],
+  [
+    [
       "2024-01-15, 07:54:59",
       "https://lobste.rs/s/fudmw6/dynamic_programming_is_not_black_magic"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-01-14, 00:45:51",
-      "https://lobste.rs/s/rhzq5e/public_suffix_list_curl"
-    ],
-    [
-      "Public Suffix List in curl",
-      "https://daniel.haxx.se/blog/2024/01/10/psl-in-curl/"
-    ]
-  ],
-  [
-    [
       "2024-01-14, 00:19:52",
       "https://lobste.rs/s/aicqhh/building_faraday_cage_with_data"
     ],
@@ -237,16 +247,6 @@
     [
       "import myModule from \"./my-module.torrent\": requiring Node modules from BitTorrent",
       "https://evanhahn.com/node-torrent-import/"
-    ]
-  ],
-  [
-    [
-      "2024-01-13, 18:53:54",
-      "https://lobste.rs/s/rqqqx6/make_indie_web_easier"
-    ],
-    [
-      "Make the indie web easier",
-      "https://gilest.org/indie-easy.html"
     ]
   ]
 ]
