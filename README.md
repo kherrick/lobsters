@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-15, 14:18:19](https://lobste.rs/s/jfwwyi/sqlite_wal2_mode_notes) - [SQLite: Wal2 Mode Notes](https://www.sqlite.org/cgi/src/doc/wal2/doc/wal2.md)
 * [2024-01-15, 13:41:31](https://lobste.rs/s/jsjdye/ruffle_2023_review) - [Ruffle: 2023 in review](https://ruffle.rs/blog/2024/01/14/2023-in-review)
 * [2024-01-15, 12:36:36](https://lobste.rs/s/iukjc8/aslrn_t_how_memory_alignment_broke) - [ASLRn’t: How memory alignment broke library ASLR](https://zolutal.github.io/aslrnt/)
 * [2024-01-15, 12:07:49](https://lobste.rs/s/kbt5n8/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kbt5n8/what_are_you_doing_this_week)
@@ -21,7 +22,6 @@
 * [2024-01-14, 18:45:36](https://lobste.rs/s/r9xgu8/picat_3_6_released) - [Picat 3.6 released](http://picat-lang.org/updates.txt)
 * [2024-01-14, 13:33:34](https://lobste.rs/s/qgcu7j/how_fast_is_your_shell) - [How fast is your shell?](https://registerspill.thorstenball.com/p/how-fast-is-your-shell)
 * [2024-01-14, 08:29:45](https://lobste.rs/s/gpnw53/memory_remains_permanent_memory_with) - [The memory remains: Permanent memory with systemd and a Rust allocator](https://darkcoding.net/software/rust-systemd-memory-remains/)
-* [2024-01-14, 05:51:36](https://lobste.rs/s/wosaod/was_there_retro_computer_susceptible) - [Was there a retro computer susceptible of being damaged only by issuing instructions at it?](https://retrocomputing.stackexchange.com/q/2264/28593)
 * [2024-01-14, 01:37:26](https://lobste.rs/s/atqtzp/introducing_opend_d_language_fork_is_open) - [Introducing OpenD, a D language fork that is open to your contribution](https://dpldocs.info/this-week-in-d/Blog.Posted_2024_01_01.html)
 * [2024-01-14, 00:19:52](https://lobste.rs/s/aicqhh/building_faraday_cage_with_data) - [Building a Faraday cage with data passthrough for ESP32 reverse engineering](https://esp32-open-mac.be/posts/0003-faraday-cage/)
 * [2024-01-13, 19:04:26](https://lobste.rs/s/0hqzgc/import_mymodule_from_my_module_torrent) - [import myModule from \"./my-module.torrent\": requiring Node modules from BitTorrent](https://evanhahn.com/node-torrent-import/)
