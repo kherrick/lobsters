@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
+* [2024-01-15, 11:51:39](https://lobste.rs/s/m0gnyi/learning_stipends_companies_support) - [learning-stipends: Companies that support engineers with learning stipends](https://github.com/codecrafters-io/learning-stipends)
 * [2024-01-15, 09:43:59](https://lobste.rs/s/pphmcp/using_nix_post_build_hook) - [Using the Nix post-build-hook](https://nixos.org/manual/nix/stable/advanced-topics/post-build-hook)
 * [2024-01-15, 08:15:53](https://lobste.rs/s/mw7oor/exploring_object_file_formats) - [Exploring object file formats](https://maskray.me/blog/2024-01-14-exploring-object-file-formats)
 * [2024-01-15, 08:03:34](https://lobste.rs/s/efixqm/kernel_extension_verification_is) - [Kernel extension verification is untenable](https://dl.acm.org/doi/10.1145/3593856.3595892)

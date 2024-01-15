@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-15, 11:51:39](https://lobste.rs/s/m0gnyi/learning_stipends_companies_support) - [learning-stipends: Companies that support engineers with learning stipends](https://github.com/codecrafters-io/learning-stipends)
 * [2024-01-15, 09:43:59](https://lobste.rs/s/pphmcp/using_nix_post_build_hook) - [Using the Nix post-build-hook](https://nixos.org/manual/nix/stable/advanced-topics/post-build-hook)
 * [2024-01-15, 08:15:53](https://lobste.rs/s/mw7oor/exploring_object_file_formats) - [Exploring object file formats](https://maskray.me/blog/2024-01-14-exploring-object-file-formats)
 * [2024-01-15, 08:03:34](https://lobste.rs/s/efixqm/kernel_extension_verification_is) - [Kernel extension verification is untenable](https://dl.acm.org/doi/10.1145/3593856.3595892)
@@ -9,7 +10,6 @@
 * [2024-01-15, 05:15:17](https://lobste.rs/s/vlcw5q/lessons_learned) - [Lessons Learned](http://theprogrammersparadox.blogspot.com/2024/01/lessons-learned.html)
 * [2024-01-15, 04:54:21](https://lobste.rs/s/fcdkee/story_elixir) - [The Story of Elixir](https://osshistory.org/p/elixir)
 * [2024-01-15, 03:46:36](https://lobste.rs/s/pizghc/i_used_netscape_composer_2024) - [I Used Netscape Composer in 2024](https://plbrault.com/blog-posts/i-used-netscape-composer-in-2024-en/)
-* [2024-01-15, 02:25:33](https://lobste.rs/s/bwa65h/linux_timer_tracking_calculating) - [Linux timer tracking and calculating complexity](https://www.youtube.com/watch?v=nFflsHwtomo)
 * [2024-01-15, 01:16:29](https://lobste.rs/s/uentek/what_s_new_go_1_22_reflect_typefor) - [What’s New in Go 1.22: reflect.TypeFor](https://blog.carlana.net/post/2024/golang-reflect-type-for/)
 * [2024-01-14, 23:19:59](https://lobste.rs/s/0hohow/when_random_isn_t) - [When Random Isn't](https://orlp.net/blog/when-random-isnt/)
 * [2024-01-14, 21:53:14](https://lobste.rs/s/bzaf2c/type_information_for_faster_python_c) - [Type information for faster Python C extensions](https://bernsteinbear.com/blog/typed-c-extensions/)
