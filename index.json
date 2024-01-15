@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-15, 17:49:24",
+      "https://lobste.rs/s/eeq215/importance_being_earnestly_random"
+    ],
+    [
+      "The importance of being earnestly random: Metamorphic Testing in CockroachDB",
+      "https://www.cockroachlabs.com/blog/metamorphic-testing-the-database/"
+    ]
+  ],
+  [
+    [
       "2024-01-15, 17:36:39",
       "https://lobste.rs/s/kkbpfg/rust_c_filesystem_apis"
     ],
@@ -25,7 +35,7 @@
       "https://lobste.rs/s/dqw5zq/2024_discussion_whether_convert_linux"
     ],
     [
-      "A 2024 Discussion Whether To Convert The Linux Kernel From C To Modern C++ - Phoronix",
+      "A 2024 Discussion Whether To Convert The Linux Kernel From C To Modern C++",
       "https://www.phoronix.com/news/CPP-Linux-Kernel-2024-Discuss"
     ]
   ],
@@ -227,16 +237,6 @@
     [
       "What PWA Can Do Today",
       "https://whatpwacando.today"
-    ]
-  ],
-  [
-    [
-      "2024-01-14, 18:45:36",
-      "https://lobste.rs/s/r9xgu8/picat_3_6_released"
-    ],
-    [
-      "Picat 3.6 released",
-      "http://picat-lang.org/updates.txt"
     ]
   ],
   [
