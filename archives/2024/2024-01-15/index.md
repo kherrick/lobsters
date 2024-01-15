@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
+* [2024-01-15, 20:13:45](https://lobste.rs/s/fapyiy/accessible_notifications_with_aria_live) - [Accessible notifications with ARIA Live Regions (Part 1)](https://www.sarasoueidan.com/blog/accessible-notifications-with-aria-live-regions-part-1/)
+* [2024-01-15, 20:11:29](https://lobste.rs/s/olauuu/python_packaging_one_year_later) - [Python Packaging, One Year Later](https://chriswarrick.com/blog/2024/01/15/python-packaging-one-year-later/)
 * [2024-01-15, 19:23:45](https://lobste.rs/s/kpti4i/no_strong_sender_identification) - [No Strong Sender Identification Assurances](https://dejanstrbac.com/email/sender_identification.html)
 * [2024-01-15, 19:17:37](https://lobste.rs/s/dvasrk/motivating_x3dh) - [Motivating X3DH](https://blog.wesleyac.com/posts/motivating-x3dh)
 * [2024-01-15, 19:09:14](https://lobste.rs/s/wv6hs3/setting_up_nix_on_macos) - [Setting up Nix on macOS](https://nixcademy.com/2024/01/15/nix-on-macos/)
