@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
+* [2024-01-15, 02:25:33](https://lobste.rs/s/bwa65h/linux_timer_tracking_calculating) - [Linux timer tracking and calculating complexity](https://www.youtube.com/watch?v=nFflsHwtomo)
 * [2024-01-15, 01:16:29](https://lobste.rs/s/uentek/what_s_new_go_1_22_reflect_typefor) - [What’s New in Go 1.22: reflect.TypeFor](https://blog.carlana.net/post/2024/golang-reflect-type-for/)
