@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-15, 04:54:21](https://lobste.rs/s/fcdkee/story_elixir) - [The Story of Elixir](https://osshistory.org/p/elixir)
 * [2024-01-15, 03:46:36](https://lobste.rs/s/pizghc/i_used_netscape_composer_2024) - [I Used Netscape Composer in 2024](https://plbrault.com/blog-posts/i-used-netscape-composer-in-2024-en/)
 * [2024-01-15, 02:25:33](https://lobste.rs/s/bwa65h/linux_timer_tracking_calculating) - [Linux timer tracking and calculating complexity](https://www.youtube.com/watch?v=nFflsHwtomo)
 * [2024-01-15, 01:16:29](https://lobste.rs/s/uentek/what_s_new_go_1_22_reflect_typefor) - [What’s New in Go 1.22: reflect.TypeFor](https://blog.carlana.net/post/2024/golang-reflect-type-for/)
@@ -15,7 +16,6 @@
 * [2024-01-14, 13:33:34](https://lobste.rs/s/qgcu7j/how_fast_is_your_shell) - [How fast is your shell?](https://registerspill.thorstenball.com/p/how-fast-is-your-shell)
 * [2024-01-14, 08:29:45](https://lobste.rs/s/gpnw53/memory_remains_permanent_memory_with) - [The memory remains: Permanent memory with systemd and a Rust allocator](https://darkcoding.net/software/rust-systemd-memory-remains/)
 * [2024-01-14, 05:51:36](https://lobste.rs/s/wosaod/was_there_retro_computer_susceptible) - [Was there a retro computer susceptible of being damaged only by issuing instructions at it?](https://retrocomputing.stackexchange.com/q/2264/28593)
-* [2024-01-14, 04:48:47](https://lobste.rs/s/brv5hw/leap_faith_how_apple_airport_changed) - [THE LEAP OF FAITH: How the Apple Airport Changed Everything](https://www.youtube.com/watch?v=EhBxWHrG7K8)
 * [2024-01-14, 01:37:26](https://lobste.rs/s/atqtzp/introducing_opend_d_language_fork_is_open) - [Introducing OpenD, a D language fork that is open to your contribution](https://dpldocs.info/this-week-in-d/Blog.Posted_2024_01_01.html)
 * [2024-01-14, 00:58:51](https://lobste.rs/s/smpuxh/wikifunctions) - [Wikifunctions](https://www.wikifunctions.org/)
 * [2024-01-14, 00:45:51](https://lobste.rs/s/rhzq5e/public_suffix_list_curl) - [Public Suffix List in curl](https://daniel.haxx.se/blog/2024/01/10/psl-in-curl/)
