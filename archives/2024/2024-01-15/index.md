@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
+* [2024-01-15, 18:27:42](https://lobste.rs/s/fg3ga8/high_speed_10gbps_full_mesh_network_based) - [High-speed 10Gbps full-mesh network based on USB4 for just $47.98](https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network/)
 * [2024-01-15, 18:15:11](https://lobste.rs/s/138y0n/simulating_slices_ios_apps) - [Simulating Slices of iOS Apps](https://axleos.com/simulating-slices-of-ios-apps/)
 * [2024-01-15, 17:49:24](https://lobste.rs/s/eeq215/importance_being_earnestly_random) - [The importance of being earnestly random: Metamorphic Testing in CockroachDB](https://www.cockroachlabs.com/blog/metamorphic-testing-the-database/)
 * [2024-01-15, 17:36:39](https://lobste.rs/s/kkbpfg/rust_c_filesystem_apis) - [Rust and C filesystem APIs](https://lwn.net/SubscriberLink/958072/b08250c903a1097b/)
