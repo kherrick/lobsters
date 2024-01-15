@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
+* [2024-01-15, 19:23:45](https://lobste.rs/s/kpti4i/no_strong_sender_identification) - [No Strong Sender Identification Assurances](https://dejanstrbac.com/email/sender_identification.html)
+* [2024-01-15, 19:17:37](https://lobste.rs/s/dvasrk/motivating_x3dh) - [Motivating X3DH](https://blog.wesleyac.com/posts/motivating-x3dh)
 * [2024-01-15, 19:09:14](https://lobste.rs/s/wv6hs3/setting_up_nix_on_macos) - [Setting up Nix on macOS](https://nixcademy.com/2024/01/15/nix-on-macos/)
 * [2024-01-15, 18:42:35](https://lobste.rs/s/nr5iox/upgrading_old_alpine_linux_vm_my_yak) - [Upgrading an old Alpine Linux VM (or: My Yak Shaving on this Snowy Day)](https://geoff.tuxpup.com/posts/upgrading-alpine-too-long/)
 * [2024-01-15, 18:27:42](https://lobste.rs/s/fg3ga8/high_speed_10gbps_full_mesh_network_based) - [High-speed 10Gbps full-mesh network based on USB4 for just $47.98](https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network/)
