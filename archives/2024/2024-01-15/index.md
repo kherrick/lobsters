@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-15](index.md)
 
+* [2024-01-15, 13:41:31](https://lobste.rs/s/jsjdye/ruffle_2023_review) - [Ruffle: 2023 in review](https://ruffle.rs/blog/2024/01/14/2023-in-review)
 * [2024-01-15, 12:36:36](https://lobste.rs/s/iukjc8/aslrn_t_how_memory_alignment_broke) - [ASLRn’t: How memory alignment broke library ASLR](https://zolutal.github.io/aslrnt/)
 * [2024-01-15, 12:07:49](https://lobste.rs/s/kbt5n8/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kbt5n8/what_are_you_doing_this_week)
 * [2024-01-15, 11:51:39](https://lobste.rs/s/m0gnyi/learning_stipends_companies_support) - [learning-stipends: Companies that support engineers with learning stipends](https://github.com/codecrafters-io/learning-stipends)
