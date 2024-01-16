@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-16, 14:58:36](https://lobste.rs/s/ib1ns7/faster_shell_startup_with_shell) - [Faster Shell Startup With Shell Switching](https://tratt.net/laurie/blog/2024/faster_shell_startup_with_shell_switching.html)
 * [2024-01-16, 14:36:46](https://lobste.rs/s/cngwca/coming_soon_golang_1_22) - [Coming Soon: Golang 1.22](https://www.dolthub.com/blog/2024-01-12-golang-1-22rc/)
 * [2024-01-16, 13:35:14](https://lobste.rs/s/iafplb/understanding_x86_64_paging) - [Understanding x86_64 Paging](https://zolutal.github.io/understanding-paging/)
 * [2024-01-16, 12:56:09](https://lobste.rs/s/e7m1vc/gleam_v0_34) - [Gleam v0.34](https://gleam.run/news/v0.34-multi-target-projects/)
 * [2024-01-16, 12:17:04](https://lobste.rs/s/qcg0i6/eschewing_black_box_api_calls) - [Eschewing black box API calls](https://rednafi.com/misc/eschewing_black_box_api_calls/)
-* [2024-01-16, 08:48:46](https://lobste.rs/s/llahet/accessible_notifications_with_aria_live) - [Accessible notifications with ARIA Live Regions (Part 2)](https://www.sarasoueidan.com/blog/accessible-notifications-with-aria-live-regions-part-2/)
 * [2024-01-16, 07:45:34](https://lobste.rs/s/fq6hnc/mission_impossible_language_models) - [Mission: Impossible Language Models](https://arxiv.org/abs/2401.06416)
 * [2024-01-16, 04:09:11](https://lobste.rs/s/rq7t9r/oils_0_19_0_dicts_procs_funcs_places) - [Oils 0.19.0 - Dicts, Procs, Funcs, and Places](https://www.oilshell.org/blog/2024/01/release-0.19.0.html)
 * [2024-01-16, 01:21:35](https://lobste.rs/s/gymypm/bane_my_existence_supporting_both_async) - [The bane of my existence: Supporting both async and sync code in Rust](https://nullderef.com/blog/rust-async-sync/)
