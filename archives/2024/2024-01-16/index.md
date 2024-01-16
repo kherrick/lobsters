@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-16](index.md)
 
+* [2024-01-16, 16:18:55](https://lobste.rs/s/uuvstl/is_your_local_police_department_using) - [Is Your Local Police Department Using Fusus AI-Enabled Cameras? Find Out Here](https://www.404media.co/fusus-ai-cameras-map-local-police/)
+* [2024-01-16, 16:18:00](https://lobste.rs/s/dts9zm/pixiefail_nine_vulnerabilities) - [PixieFail: Nine vulnerabilities in Tianocore's EDK II IPv6 network stack](https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html)
 * [2024-01-16, 16:04:43](https://lobste.rs/s/vsyhmh/miracleptr_protecting_users_from_use) - [MiraclePtr: protecting users from use-after-free vulnerabilities on more platforms](https://security.googleblog.com/2024/01/miracleptr-protecting-users-from-use.html)
 * [2024-01-16, 15:58:39](https://lobste.rs/s/0l1cwz/collection_postmortems) - [A collection of postmortems](https://github.com/danluu/post-mortems)
 * [2024-01-16, 14:58:36](https://lobste.rs/s/ib1ns7/faster_shell_startup_with_shell) - [Faster Shell Startup With Shell Switching](https://tratt.net/laurie/blog/2024/faster_shell_startup_with_shell_switching.html)
