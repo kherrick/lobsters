@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-16, 01:21:35](https://lobste.rs/s/gymypm/bane_my_existence_supporting_both_async) - [The bane of my existence: Supporting both async and sync code in Rust](https://nullderef.com/blog/rust-async-sync/)
 * [2024-01-15, 23:43:36](https://lobste.rs/s/lirogx/if_you_want_label_your_code_consider_label) - [If you want to label your code, consider Label-ing your code](https://www.codesections.com/blog/label-your-code/)
 * [2024-01-15, 21:44:20](https://lobste.rs/s/50hruz/pids_creating_stable_control_games) - [PIDs: Creating Stable Control in Games](https://azeemba.com/posts/pids-creating-stable-control-in-games.html)
 * [2024-01-15, 21:24:06](https://lobste.rs/s/vetg49/some_memories_niklaus_wirth) - [Some Memories of Niklaus Wirth](https://odersky.github.io/blog/2024-01-04-post.html)
 * [2024-01-15, 20:11:29](https://lobste.rs/s/olauuu/python_packaging_one_year_later) - [Python Packaging, One Year Later](https://chriswarrick.com/blog/2024/01/15/python-packaging-one-year-later/)
 * [2024-01-15, 20:01:34](https://lobste.rs/s/lkxfwn/almost_all_fish_shell_has_been_rewritten) - [almost all of fish shell has been rewritten in rust](https://aus.social/@zanchey/111760402786767224)
-* [2024-01-15, 19:23:45](https://lobste.rs/s/kpti4i/no_strong_sender_identification) - [No Strong Sender Identification Assurances](https://dejanstrbac.com/email/sender_identification.html)
 * [2024-01-15, 19:09:14](https://lobste.rs/s/wv6hs3/setting_up_nix_on_macos) - [Setting up Nix on macOS](https://nixcademy.com/2024/01/15/nix-on-macos/)
 * [2024-01-15, 18:42:35](https://lobste.rs/s/nr5iox/upgrading_old_alpine_linux_vm_my_yak) - [Upgrading an old Alpine Linux VM (or: My Yak Shaving on this Snowy Day)](https://geoff.tuxpup.com/posts/upgrading-alpine-too-long/)
 * [2024-01-15, 18:27:42](https://lobste.rs/s/fg3ga8/high_speed_10gbps_full_mesh_network_based) - [High-speed 10Gbps full-mesh network based on USB4 for just $47.98](https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network/)
