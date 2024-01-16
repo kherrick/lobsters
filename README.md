@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-16, 14:36:46](https://lobste.rs/s/cngwca/coming_soon_golang_1_22) - [Coming Soon: Golang 1.22](https://www.dolthub.com/blog/2024-01-12-golang-1-22rc/)
 * [2024-01-16, 13:35:14](https://lobste.rs/s/iafplb/understanding_x86_64_paging) - [Understanding x86_64 Paging](https://zolutal.github.io/understanding-paging/)
 * [2024-01-16, 12:56:09](https://lobste.rs/s/e7m1vc/gleam_v0_34) - [Gleam v0.34](https://gleam.run/news/v0.34-multi-target-projects/)
 * [2024-01-16, 12:17:04](https://lobste.rs/s/qcg0i6/eschewing_black_box_api_calls) - [Eschewing black box API calls](https://rednafi.com/misc/eschewing_black_box_api_calls/)
@@ -18,7 +19,6 @@
 * [2024-01-15, 18:15:11](https://lobste.rs/s/138y0n/simulating_slices_ios_apps) - [Simulating Slices of iOS Apps](https://axleos.com/simulating-slices-of-ios-apps/)
 * [2024-01-15, 17:35:24](https://lobste.rs/s/wf6vpf/haiku_activity_contract_report_december) - [Haiku Activity & Contract Report, December 2023](https://www.haiku-os.org/blog/waddlesplash/2024-01-12_haiku_activity_contract_report_december_2023)
 * [2024-01-15, 16:50:52](https://lobste.rs/s/dqw5zq/2024_discussion_whether_convert_linux) - [A 2024 Discussion Whether To Convert The Linux Kernel From C To Modern C++](https://www.phoronix.com/news/CPP-Linux-Kernel-2024-Discuss)
-* [2024-01-15, 14:59:14](https://lobste.rs/s/exrbix/first_dos_machine_2007) - [The First DOS Machine (2007)](http://dosmandrivel.blogspot.com/2007/11/first-dos-machine.html)
 * [2024-01-15, 14:18:19](https://lobste.rs/s/jfwwyi/sqlite_wal2_mode_notes) - [SQLite: Wal2 Mode Notes](https://www.sqlite.org/cgi/src/doc/wal2/doc/wal2.md)
 * [2024-01-15, 13:41:31](https://lobste.rs/s/jsjdye/ruffle_2023_review) - [Ruffle: 2023 in review](https://ruffle.rs/blog/2024/01/14/2023-in-review)
 * [2024-01-15, 08:15:53](https://lobste.rs/s/mw7oor/exploring_object_file_formats) - [Exploring object file formats](https://maskray.me/blog/2024-01-14-exploring-object-file-formats)
