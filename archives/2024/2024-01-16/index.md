@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-16](index.md)
 
+* [2024-01-16, 17:28:24](https://lobste.rs/s/tqkhil/2023_review) - [2023 in review](https://seanmonstar.com/blog/2023-in-review/)
 * [2024-01-16, 16:49:23](https://lobste.rs/s/wmr5wz/pwn2own_vancouver_2024_bringing_cloud) - [Pwn2Own Vancouver 2024: Bringing Cloud-Native/Container Security to Pwn2Own](https://www.zerodayinitiative.com/blog/2024/1/16/pwn2own-vancouver-2024-bring-cloud-nativecontainer-security-to-pwn2own)
 * [2024-01-16, 16:49:00](https://lobste.rs/s/rgnggc/how_run_your_own_lte_private_provider) - [How to run your own LTE private provider](https://youtu.be/oCZ24Rh2BQY?si=OQCf9f3CKjfuz3fr)
 * [2024-01-16, 16:18:55](https://lobste.rs/s/uuvstl/is_your_local_police_department_using) - [Is Your Local Police Department Using Fusus AI-Enabled Cameras? Find Out Here](https://www.404media.co/fusus-ai-cameras-map-local-police/)

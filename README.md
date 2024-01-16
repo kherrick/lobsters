@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-16, 17:28:24](https://lobste.rs/s/tqkhil/2023_review) - [2023 in review](https://seanmonstar.com/blog/2023-in-review/)
 * [2024-01-16, 16:49:23](https://lobste.rs/s/wmr5wz/pwn2own_vancouver_2024_bringing_cloud) - [Pwn2Own Vancouver 2024: Bringing Cloud-Native/Container Security to Pwn2Own](https://www.zerodayinitiative.com/blog/2024/1/16/pwn2own-vancouver-2024-bring-cloud-nativecontainer-security-to-pwn2own)
 * [2024-01-16, 16:49:00](https://lobste.rs/s/rgnggc/how_run_your_own_lte_private_provider) - [How to run your own LTE private provider](https://youtu.be/oCZ24Rh2BQY?si=OQCf9f3CKjfuz3fr)
 * [2024-01-16, 16:18:55](https://lobste.rs/s/uuvstl/is_your_local_police_department_using) - [Is Your Local Police Department Using Fusus AI-Enabled Cameras? Find Out Here](https://www.404media.co/fusus-ai-cameras-map-local-police/)
@@ -20,7 +21,6 @@
 * [2024-01-15, 20:11:29](https://lobste.rs/s/olauuu/python_packaging_one_year_later) - [Python Packaging, One Year Later](https://chriswarrick.com/blog/2024/01/15/python-packaging-one-year-later/)
 * [2024-01-15, 20:01:34](https://lobste.rs/s/lkxfwn/almost_all_fish_shell_has_been_rewritten) - [almost all of fish shell has been rewritten in rust](https://aus.social/@zanchey/111760402786767224)
 * [2024-01-15, 19:09:14](https://lobste.rs/s/wv6hs3/setting_up_nix_on_macos) - [Setting up Nix on macOS](https://nixcademy.com/2024/01/15/nix-on-macos/)
-* [2024-01-15, 18:42:35](https://lobste.rs/s/nr5iox/upgrading_old_alpine_linux_vm_my_yak) - [Upgrading an old Alpine Linux VM (or: My Yak Shaving on this Snowy Day)](https://geoff.tuxpup.com/posts/upgrading-alpine-too-long/)
 * [2024-01-15, 18:27:42](https://lobste.rs/s/fg3ga8/high_speed_10gbps_full_mesh_network_based) - [High-speed 10Gbps full-mesh network based on USB4 for just $47.98](https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network/)
 * [2024-01-15, 16:50:52](https://lobste.rs/s/dqw5zq/2024_discussion_whether_convert_linux) - [A 2024 Discussion Whether To Convert The Linux Kernel From C To Modern C++](https://www.phoronix.com/news/CPP-Linux-Kernel-2024-Discuss)
 * [2024-01-15, 14:18:19](https://lobste.rs/s/jfwwyi/sqlite_wal2_mode_notes) - [SQLite: Wal2 Mode Notes](https://www.sqlite.org/cgi/src/doc/wal2/doc/wal2.md)
