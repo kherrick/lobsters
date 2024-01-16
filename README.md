@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-16, 13:35:14](https://lobste.rs/s/iafplb/understanding_x86_64_paging) - [Understanding x86_64 Paging](https://zolutal.github.io/understanding-paging/)
 * [2024-01-16, 12:56:09](https://lobste.rs/s/e7m1vc/gleam_v0_34) - [Gleam v0.34](https://gleam.run/news/v0.34-multi-target-projects/)
 * [2024-01-16, 12:17:04](https://lobste.rs/s/qcg0i6/eschewing_black_box_api_calls) - [Eschewing black box API calls](https://rednafi.com/misc/eschewing_black_box_api_calls/)
 * [2024-01-16, 08:48:46](https://lobste.rs/s/llahet/accessible_notifications_with_aria_live) - [Accessible notifications with ARIA Live Regions (Part 2)](https://www.sarasoueidan.com/blog/accessible-notifications-with-aria-live-regions-part-2/)
@@ -15,7 +16,6 @@
 * [2024-01-15, 18:42:35](https://lobste.rs/s/nr5iox/upgrading_old_alpine_linux_vm_my_yak) - [Upgrading an old Alpine Linux VM (or: My Yak Shaving on this Snowy Day)](https://geoff.tuxpup.com/posts/upgrading-alpine-too-long/)
 * [2024-01-15, 18:27:42](https://lobste.rs/s/fg3ga8/high_speed_10gbps_full_mesh_network_based) - [High-speed 10Gbps full-mesh network based on USB4 for just $47.98](https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network/)
 * [2024-01-15, 18:15:11](https://lobste.rs/s/138y0n/simulating_slices_ios_apps) - [Simulating Slices of iOS Apps](https://axleos.com/simulating-slices-of-ios-apps/)
-* [2024-01-15, 17:36:39](https://lobste.rs/s/kkbpfg/rust_c_filesystem_apis) - [Rust and C filesystem APIs](https://lwn.net/SubscriberLink/958072/b08250c903a1097b/)
 * [2024-01-15, 17:35:24](https://lobste.rs/s/wf6vpf/haiku_activity_contract_report_december) - [Haiku Activity & Contract Report, December 2023](https://www.haiku-os.org/blog/waddlesplash/2024-01-12_haiku_activity_contract_report_december_2023)
 * [2024-01-15, 16:50:52](https://lobste.rs/s/dqw5zq/2024_discussion_whether_convert_linux) - [A 2024 Discussion Whether To Convert The Linux Kernel From C To Modern C++](https://www.phoronix.com/news/CPP-Linux-Kernel-2024-Discuss)
 * [2024-01-15, 14:59:14](https://lobste.rs/s/exrbix/first_dos_machine_2007) - [The First DOS Machine (2007)](http://dosmandrivel.blogspot.com/2007/11/first-dos-machine.html)
