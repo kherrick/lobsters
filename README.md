@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-16, 08:48:46](https://lobste.rs/s/llahet/accessible_notifications_with_aria_live) - [Accessible notifications with ARIA Live Regions (Part 2)](https://www.sarasoueidan.com/blog/accessible-notifications-with-aria-live-regions-part-2/)
 * [2024-01-16, 07:45:34](https://lobste.rs/s/fq6hnc/mission_impossible_language_models) - [Mission: Impossible Language Models](https://arxiv.org/abs/2401.06416)
 * [2024-01-16, 04:09:11](https://lobste.rs/s/rq7t9r/oils_0_19_0_dicts_procs_funcs_places) - [Oils 0.19.0 - Dicts, Procs, Funcs, and Places](https://www.oilshell.org/blog/2024/01/release-0.19.0.html)
 * [2024-01-16, 03:29:02](https://lobste.rs/s/i5xu1b/hub_for_systemd_nspawn_containers_images) - [Hub for systemd-nspawn containers and images](https://nspawn.org/)
@@ -16,7 +17,6 @@
 * [2024-01-15, 17:36:39](https://lobste.rs/s/kkbpfg/rust_c_filesystem_apis) - [Rust and C filesystem APIs](https://lwn.net/SubscriberLink/958072/b08250c903a1097b/)
 * [2024-01-15, 17:35:24](https://lobste.rs/s/wf6vpf/haiku_activity_contract_report_december) - [Haiku Activity & Contract Report, December 2023](https://www.haiku-os.org/blog/waddlesplash/2024-01-12_haiku_activity_contract_report_december_2023)
 * [2024-01-15, 16:50:52](https://lobste.rs/s/dqw5zq/2024_discussion_whether_convert_linux) - [A 2024 Discussion Whether To Convert The Linux Kernel From C To Modern C++](https://www.phoronix.com/news/CPP-Linux-Kernel-2024-Discuss)
-* [2024-01-15, 15:51:28](https://lobste.rs/s/zt0n6v/rsa_is_deceptively_simple_fun) - [RSA is deceptively simple (and fun)](https://ntietz.com/blog/rsa-deceptively-simple/)
 * [2024-01-15, 14:59:14](https://lobste.rs/s/exrbix/first_dos_machine_2007) - [The First DOS Machine (2007)](http://dosmandrivel.blogspot.com/2007/11/first-dos-machine.html)
 * [2024-01-15, 14:18:19](https://lobste.rs/s/jfwwyi/sqlite_wal2_mode_notes) - [SQLite: Wal2 Mode Notes](https://www.sqlite.org/cgi/src/doc/wal2/doc/wal2.md)
 * [2024-01-15, 13:41:31](https://lobste.rs/s/jsjdye/ruffle_2023_review) - [Ruffle: 2023 in review](https://ruffle.rs/blog/2024/01/14/2023-in-review)
