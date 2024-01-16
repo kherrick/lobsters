@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-16, 18:55:50](https://lobste.rs/s/48m6t8/how_share_code_between_vulkan_gallium) - [How to share code between Vulkan and Gallium](https://www.collabora.com/news-and-blog/blog/2024/01/16/how-to-share-code-between-vulkan-and-gallium/)
 * [2024-01-16, 17:36:12](https://lobste.rs/s/jh4apf/go_wiki_rangefunc_experiment) - [Go Wiki: Rangefunc Experiment](https://go.dev/wiki/RangefuncExperiment)
 * [2024-01-16, 17:35:29](https://lobste.rs/s/o5o5oi/higlights_2023_for_cargo_semver_checks) - [Higlights of 2023 for cargo-semver-checks](https://predr.ag/blog/highlights-of-2023-for-cargo-semver-checks/)
-* [2024-01-16, 17:28:24](https://lobste.rs/s/tqkhil/2023_review) - [2023 in review](https://seanmonstar.com/blog/2023-in-review/)
 * [2024-01-16, 16:49:23](https://lobste.rs/s/wmr5wz/pwn2own_vancouver_2024_bringing_cloud) - [Pwn2Own Vancouver 2024: Bringing Cloud-Native/Container Security to Pwn2Own](https://www.zerodayinitiative.com/blog/2024/1/16/pwn2own-vancouver-2024-bring-cloud-nativecontainer-security-to-pwn2own)
 * [2024-01-16, 16:49:00](https://lobste.rs/s/rgnggc/how_run_your_own_lte_private_provider) - [How to run your own LTE private provider](https://youtu.be/oCZ24Rh2BQY?si=OQCf9f3CKjfuz3fr)
 * [2024-01-16, 16:18:00](https://lobste.rs/s/dts9zm/pixiefail_nine_vulnerabilities) - [PixieFail: Nine vulnerabilities in Tianocore's EDK II IPv6 network stack](https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html)
