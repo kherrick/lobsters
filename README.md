@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-01-16, 22:13:41](https://lobste.rs/s/gp7onm/compromising_google_accounts_malwares) - [Compromising Google Accounts: Malwares Exploiting Undocumented OAuth2 Functionality for session hijacking | CloudSEK](https://cloudsek.com/blog/compromising-google-accounts-malwares-exploiting-undocumented-oauth2-functionality-for-session-hijacking)
+* [2024-01-16, 23:21:21](https://lobste.rs/s/fi1ihp/manifesto_neue) - [manifesto.neue](https://blog.webb.page/2024-01-16-manifesto.neue.txt)
 * [2024-01-16, 21:21:34](https://lobste.rs/s/ebv01z/ruby_3_3_on_rails_1_0) - [Ruby (3.3) on Rails (1.0)](https://nashby.github.io/2024/01/15/ruby-3-on-rails-1/)
 * [2024-01-16, 20:42:48](https://lobste.rs/s/fee2p7/netbsd_amd64_guest_can_now_boot_40ms) - [A NetBSD/amd64 guest can now boot in 40ms](https://www.reddit.com/r/BSD/s/09ZWUI3Ufa)
 * [2024-01-16, 20:05:29](https://lobste.rs/s/szq9d1/inside_mechanical_bendix_air_data) - [Inside the mechanical Bendix Air Data Computer, part 3: pressure transducers](http://www.righto.com/2024/01/bendix-cadc-pressure-transducers.html)
