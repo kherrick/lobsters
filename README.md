@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-16, 20:05:29](https://lobste.rs/s/szq9d1/inside_mechanical_bendix_air_data) - [Inside the mechanical Bendix Air Data Computer, part 3: pressure transducers](http://www.righto.com/2024/01/bendix-cadc-pressure-transducers.html)
 * [2024-01-16, 18:55:50](https://lobste.rs/s/48m6t8/how_share_code_between_vulkan_gallium) - [How to share code between Vulkan and Gallium](https://www.collabora.com/news-and-blog/blog/2024/01/16/how-to-share-code-between-vulkan-and-gallium/)
 * [2024-01-16, 17:36:12](https://lobste.rs/s/jh4apf/go_wiki_rangefunc_experiment) - [Go Wiki: Rangefunc Experiment](https://go.dev/wiki/RangefuncExperiment)
 * [2024-01-16, 17:35:29](https://lobste.rs/s/o5o5oi/higlights_2023_for_cargo_semver_checks) - [Higlights of 2023 for cargo-semver-checks](https://predr.ag/blog/highlights-of-2023-for-cargo-semver-checks/)
@@ -24,7 +25,6 @@
 * [2024-01-15, 19:09:14](https://lobste.rs/s/wv6hs3/setting_up_nix_on_macos) - [Setting up Nix on macOS](https://nixcademy.com/2024/01/15/nix-on-macos/)
 * [2024-01-15, 18:27:42](https://lobste.rs/s/fg3ga8/high_speed_10gbps_full_mesh_network_based) - [High-speed 10Gbps full-mesh network based on USB4 for just $47.98](https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network/)
 * [2024-01-15, 16:50:52](https://lobste.rs/s/dqw5zq/2024_discussion_whether_convert_linux) - [A 2024 Discussion Whether To Convert The Linux Kernel From C To Modern C++](https://www.phoronix.com/news/CPP-Linux-Kernel-2024-Discuss)
-* [2024-01-15, 13:41:31](https://lobste.rs/s/jsjdye/ruffle_2023_review) - [Ruffle: 2023 in review](https://ruffle.rs/blog/2024/01/14/2023-in-review)
 
 ## [Archives](archives/index.md)
 

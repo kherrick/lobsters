@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-16](index.md)
 
+* [2024-01-16, 20:05:29](https://lobste.rs/s/szq9d1/inside_mechanical_bendix_air_data) - [Inside the mechanical Bendix Air Data Computer, part 3: pressure transducers](http://www.righto.com/2024/01/bendix-cadc-pressure-transducers.html)
 * [2024-01-16, 18:55:50](https://lobste.rs/s/48m6t8/how_share_code_between_vulkan_gallium) - [How to share code between Vulkan and Gallium](https://www.collabora.com/news-and-blog/blog/2024/01/16/how-to-share-code-between-vulkan-and-gallium/)
 * [2024-01-16, 17:36:12](https://lobste.rs/s/jh4apf/go_wiki_rangefunc_experiment) - [Go Wiki: Rangefunc Experiment](https://go.dev/wiki/RangefuncExperiment)
 * [2024-01-16, 17:35:29](https://lobste.rs/s/o5o5oi/higlights_2023_for_cargo_semver_checks) - [Higlights of 2023 for cargo-semver-checks](https://predr.ag/blog/highlights-of-2023-for-cargo-semver-checks/)
