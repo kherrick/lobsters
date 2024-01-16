@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2024-01-15, 17:49:24",
-      "https://lobste.rs/s/eeq215/importance_being_earnestly_random"
-    ],
-    [
-      "The importance of being earnestly random: Metamorphic Testing in CockroachDB",
-      "https://www.cockroachlabs.com/blog/metamorphic-testing-the-database/"
-    ]
-  ],
-  [
-    [
       "2024-01-15, 17:36:39",
       "https://lobste.rs/s/kkbpfg/rust_c_filesystem_apis"
     ],
@@ -207,6 +197,16 @@
     [
       "Dynamic Programming is not Black Magic",
       "https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/"
+    ]
+  ],
+  [
+    [
+      "2024-01-15, 05:17:29",
+      "https://lobste.rs/s/npq2zd/cactus_6502_homebrew_computer"
+    ],
+    [
+      "The Cactus 6502 homebrew computer",
+      "https://www.commodorez.com/cactus.html"
     ]
   ],
   [
