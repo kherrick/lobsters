@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-16, 07:45:34](https://lobste.rs/s/fq6hnc/mission_impossible_language_models) - [Mission: Impossible Language Models](https://arxiv.org/abs/2401.06416)
 * [2024-01-16, 04:09:11](https://lobste.rs/s/rq7t9r/oils_0_19_0_dicts_procs_funcs_places) - [Oils 0.19.0 - Dicts, Procs, Funcs, and Places](https://www.oilshell.org/blog/2024/01/release-0.19.0.html)
 * [2024-01-16, 03:29:02](https://lobste.rs/s/i5xu1b/hub_for_systemd_nspawn_containers_images) - [Hub for systemd-nspawn containers and images](https://nspawn.org/)
 * [2024-01-16, 01:21:35](https://lobste.rs/s/gymypm/bane_my_existence_supporting_both_async) - [The bane of my existence: Supporting both async and sync code in Rust](https://nullderef.com/blog/rust-async-sync/)
@@ -24,7 +25,6 @@
 * [2024-01-15, 07:54:59](https://lobste.rs/s/fudmw6/dynamic_programming_is_not_black_magic) - [Dynamic Programming is not Black Magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
 * [2024-01-15, 05:15:17](https://lobste.rs/s/vlcw5q/lessons_learned) - [Lessons Learned](http://theprogrammersparadox.blogspot.com/2024/01/lessons-learned.html)
 * [2024-01-15, 03:46:36](https://lobste.rs/s/pizghc/i_used_netscape_composer_2024) - [I Used Netscape Composer in 2024](https://plbrault.com/blog-posts/i-used-netscape-composer-in-2024-en/)
-* [2024-01-14, 23:19:59](https://lobste.rs/s/0hohow/when_random_isn_t) - [When Random Isn't](https://orlp.net/blog/when-random-isnt/)
 
 ## [Archives](archives/index.md)
 
