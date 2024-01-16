@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-16](index.md)
 
+* [2024-01-16, 16:49:23](https://lobste.rs/s/wmr5wz/pwn2own_vancouver_2024_bringing_cloud) - [Pwn2Own Vancouver 2024: Bringing Cloud-Native/Container Security to Pwn2Own](https://www.zerodayinitiative.com/blog/2024/1/16/pwn2own-vancouver-2024-bring-cloud-nativecontainer-security-to-pwn2own)
+* [2024-01-16, 16:49:00](https://lobste.rs/s/rgnggc/how_run_your_own_lte_private_provider) - [How to run your own LTE private provider](https://youtu.be/oCZ24Rh2BQY?si=OQCf9f3CKjfuz3fr)
 * [2024-01-16, 16:18:55](https://lobste.rs/s/uuvstl/is_your_local_police_department_using) - [Is Your Local Police Department Using Fusus AI-Enabled Cameras? Find Out Here](https://www.404media.co/fusus-ai-cameras-map-local-police/)
 * [2024-01-16, 16:18:00](https://lobste.rs/s/dts9zm/pixiefail_nine_vulnerabilities) - [PixieFail: Nine vulnerabilities in Tianocore's EDK II IPv6 network stack](https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html)
 * [2024-01-16, 16:04:43](https://lobste.rs/s/vsyhmh/miracleptr_protecting_users_from_use) - [MiraclePtr: protecting users from use-after-free vulnerabilities on more platforms](https://security.googleblog.com/2024/01/miracleptr-protecting-users-from-use.html)
