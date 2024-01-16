@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-16, 12:17:04",
+      "https://lobste.rs/s/qcg0i6/eschewing_black_box_api_calls"
+    ],
+    [
+      "Eschewing black box API calls",
+      "https://rednafi.com/misc/eschewing_black_box_api_calls/"
+    ]
+  ],
+  [
+    [
       "2024-01-16, 08:48:46",
       "https://lobste.rs/s/llahet/accessible_notifications_with_aria_live"
     ],
@@ -27,16 +37,6 @@
     [
       "Oils 0.19.0 - Dicts, Procs, Funcs, and Places",
       "https://www.oilshell.org/blog/2024/01/release-0.19.0.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-16, 03:29:02",
-      "https://lobste.rs/s/i5xu1b/hub_for_systemd_nspawn_containers_images"
-    ],
-    [
-      "Hub for systemd-nspawn containers and images",
-      "https://nspawn.org/"
     ]
   ],
   [
