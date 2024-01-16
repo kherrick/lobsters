@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-16, 13:35:14",
+      "https://lobste.rs/s/iafplb/understanding_x86_64_paging"
+    ],
+    [
+      "Understanding x86_64 Paging",
+      "https://zolutal.github.io/understanding-paging/"
+    ]
+  ],
+  [
+    [
       "2024-01-16, 12:56:09",
       "https://lobste.rs/s/e7m1vc/gleam_v0_34"
     ],
@@ -147,16 +157,6 @@
     [
       "Simulating Slices of iOS Apps",
       "https://axleos.com/simulating-slices-of-ios-apps/"
-    ]
-  ],
-  [
-    [
-      "2024-01-15, 17:36:39",
-      "https://lobste.rs/s/kkbpfg/rust_c_filesystem_apis"
-    ],
-    [
-      "Rust and C filesystem APIs",
-      "https://lwn.net/SubscriberLink/958072/b08250c903a1097b/"
     ]
   ],
   [
