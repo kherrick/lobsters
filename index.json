@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-16, 04:09:11",
+      "https://lobste.rs/s/rq7t9r/oils_0_19_0_dicts_procs_funcs_places"
+    ],
+    [
+      "Oils 0.19.0 - Dicts, Procs, Funcs, and Places",
+      "https://www.oilshell.org/blog/2024/01/release-0.19.0.html"
+    ]
+  ],
+  [
+    [
       "2024-01-16, 03:29:02",
       "https://lobste.rs/s/i5xu1b/hub_for_systemd_nspawn_containers_images"
     ],
@@ -237,16 +247,6 @@
     [
       "When Random Isn't",
       "https://orlp.net/blog/when-random-isnt/"
-    ]
-  ],
-  [
-    [
-      "2024-01-14, 20:56:57",
-      "https://lobste.rs/s/mmncam/httpd2_static_file_webserver"
-    ],
-    [
-      "httpd2: a static file webserver",
-      "https://github.com/cbiffle/httpd2/blob/main/doc/manual.md"
     ]
   ]
 ]
