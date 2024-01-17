@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-17, 11:51:04",
+      "https://lobste.rs/s/v8xovv/how_design_isa"
+    ],
+    [
+      "How to Design an ISA",
+      "https://queue.acm.org/detail.cfm?id=3639445"
+    ]
+  ],
+  [
+    [
       "2024-01-17, 11:13:13",
       "https://lobste.rs/s/oaqtsr/running_openbsd_7_4_under_utm_on_macos"
     ],
@@ -207,16 +217,6 @@
     [
       "Oils 0.19.0 - Dicts, Procs, Funcs, and Places",
       "https://www.oilshell.org/blog/2024/01/release-0.19.0.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-15, 21:24:06",
-      "https://lobste.rs/s/vetg49/some_memories_niklaus_wirth"
-    ],
-    [
-      "Some Memories of Niklaus Wirth",
-      "https://odersky.github.io/blog/2024-01-04-post.html"
     ]
   ],
   [
