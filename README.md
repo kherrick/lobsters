@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-17, 05:06:42](https://lobste.rs/s/ph9itf/lisp_query_notation) - [Lisp Query Notation](https://inconvergent.net/2024/lisp-query-notation/)
 * [2024-01-17, 01:55:04](https://lobste.rs/s/hrrzjz/on_compositional_window_management_2023) - [On Compositional Window Management (2023)](https://bandukwala.me/on-compositional-window-management/)
 * [2024-01-17, 01:19:43](https://lobste.rs/s/zrtxjw/passing_nothing_is_surprisingly) - [Passing nothing is surprisingly difficult](https://davidben.net/2024/01/15/empty-slices.html)
 * [2024-01-16, 21:21:34](https://lobste.rs/s/ebv01z/ruby_3_3_on_rails_1_0) - [Ruby (3.3) on Rails (1.0)](https://nashby.github.io/2024/01/15/ruby-3-on-rails-1/)
@@ -9,7 +10,6 @@
 * [2024-01-16, 17:35:29](https://lobste.rs/s/o5o5oi/higlights_2023_for_cargo_semver_checks) - [Higlights of 2023 for cargo-semver-checks](https://predr.ag/blog/highlights-of-2023-for-cargo-semver-checks/)
 * [2024-01-16, 17:28:24](https://lobste.rs/s/tqkhil/2023_review) - [2023 in review](https://seanmonstar.com/blog/2023-in-review/)
 * [2024-01-16, 16:49:00](https://lobste.rs/s/rgnggc/how_run_your_own_lte_private_provider) - [How to run your own LTE private provider](https://youtu.be/oCZ24Rh2BQY?si=OQCf9f3CKjfuz3fr)
-* [2024-01-16, 16:18:00](https://lobste.rs/s/dts9zm/pixiefail_nine_vulnerabilities) - [PixieFail: Nine vulnerabilities in Tianocore's EDK II IPv6 network stack](https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html)
 * [2024-01-16, 16:04:43](https://lobste.rs/s/vsyhmh/miracleptr_protecting_users_from_use) - [MiraclePtr: protecting users from use-after-free vulnerabilities on more platforms](https://security.googleblog.com/2024/01/miracleptr-protecting-users-from-use.html)
 * [2024-01-16, 15:58:39](https://lobste.rs/s/0l1cwz/collection_postmortems) - [A collection of postmortems](https://github.com/danluu/post-mortems)
 * [2024-01-16, 14:58:36](https://lobste.rs/s/ib1ns7/faster_shell_startup_with_shell) - [Faster Shell Startup With Shell Switching](https://tratt.net/laurie/blog/2024/faster_shell_startup_with_shell_switching.html)
