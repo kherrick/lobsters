@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-17, 16:22:42",
+      "https://lobste.rs/s/wkwgil/list_continuous_benchmarking_projects"
+    ],
+    [
+      "A list of continuous benchmarking projects, articles, and tools",
+      "https://bencher.dev/docs/reference/prior-art/"
+    ]
+  ],
+  [
+    [
+      "2024-01-17, 16:21:42",
+      "https://lobste.rs/s/kgpsrm/beware_misleading_gpu_vs_cpu_benchmarks"
+    ],
+    [
+      "Beware of misleading GPU vs CPU benchmarks",
+      "https://pythonspeed.com/articles/gpu-vs-cpu/"
+    ]
+  ],
+  [
+    [
       "2024-01-17, 14:35:15",
       "https://lobste.rs/s/jbo8lw/vms_on_macos_using_apple_s_native"
     ],
@@ -77,16 +97,6 @@
     [
       "Running OpenBSD 7.4 under UTM on macOS",
       "https://blog.adamretter.org.uk/running-openbsd-74-under-utm/"
-    ]
-  ],
-  [
-    [
-      "2024-01-17, 11:12:34",
-      "https://lobste.rs/s/t8iyc0/indexing_semantic_versions_rocksdb"
-    ],
-    [
-      "Indexing semantic versions in rocksdb",
-      "https://blog.aawadia.dev/2024/01/02/index-semver-rocksdb/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Gleam v0.34",
       "https://gleam.run/news/v0.34-multi-target-projects/"
-    ]
-  ],
-  [
-    [
-      "2024-01-16, 12:17:04",
-      "https://lobste.rs/s/qcg0i6/eschewing_black_box_api_calls"
-    ],
-    [
-      "Eschewing black box API calls",
-      "https://rednafi.com/misc/eschewing_black_box_api_calls/"
     ]
   ],
   [
