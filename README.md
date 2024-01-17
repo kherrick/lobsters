@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-17, 08:05:50](https://lobste.rs/s/uipl89/using_python_poetry_inside_docker) - [Using Python & Poetry inside Docker](https://ashishb.net/all/using-python-poetry-inside-docker/)
 * [2024-01-17, 06:03:23](https://lobste.rs/s/rd8l6h/proposal_for_body_part_emoji_2020) - [Proposal for body-part emoji (2020)](https://jschoi.org/20/body-emoji/)
 * [2024-01-17, 05:06:42](https://lobste.rs/s/ph9itf/lisp_query_notation) - [Lisp Query Notation](https://inconvergent.net/2024/lisp-query-notation/)
 * [2024-01-17, 01:55:04](https://lobste.rs/s/hrrzjz/on_compositional_window_management_2023) - [On Compositional Window Management (2023)](https://bandukwala.me/on-compositional-window-management/)
@@ -24,7 +25,6 @@
 * [2024-01-15, 20:01:34](https://lobste.rs/s/lkxfwn/almost_all_fish_shell_has_been_rewritten) - [almost all of fish shell has been rewritten in rust](https://aus.social/@zanchey/111760402786767224)
 * [2024-01-15, 19:09:14](https://lobste.rs/s/wv6hs3/setting_up_nix_on_macos) - [Setting up Nix on macOS](https://nixcademy.com/2024/01/15/nix-on-macos/)
 * [2024-01-15, 18:27:42](https://lobste.rs/s/fg3ga8/high_speed_10gbps_full_mesh_network_based) - [High-speed 10Gbps full-mesh network based on USB4 for just $47.98](https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network/)
-* [2024-01-15, 16:50:52](https://lobste.rs/s/dqw5zq/2024_discussion_whether_convert_linux) - [A 2024 Discussion Whether To Convert The Linux Kernel From C To Modern C++](https://www.phoronix.com/news/CPP-Linux-Kernel-2024-Discuss)
 
 ## [Archives](archives/index.md)
 
