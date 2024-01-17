@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-17, 14:35:15](https://lobste.rs/s/jbo8lw/vms_on_macos_using_apple_s_native) - [VMs on MacOS using Apple’s native Virtualization.Framework](https://tart.run/)
 * [2024-01-17, 13:59:34](https://lobste.rs/s/o0lmln/wine_9_0_run_windows_apps_on_arm) - [Wine 9.0 - Run Windows apps on ARM](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.0)
 * [2024-01-17, 12:57:58](https://lobste.rs/s/xnzvea/htmx_is_composable) - [htmx is composable??](https://timkellogg.me/blog/2024/01/17/htmx)
 * [2024-01-17, 12:21:52](https://lobste.rs/s/fi6thi/solving_dining_philosophers_problem) - [Solving the Dining Philosophers Problem with systemd - Part 3](https://www.brightbox.com/blog/2024/01/17/solving-dining-philosophers-with-systemd-part-3/)
@@ -20,7 +21,6 @@
 * [2024-01-16, 16:49:00](https://lobste.rs/s/rgnggc/how_run_your_own_lte_private_provider) - [How to run your own LTE private provider](https://youtu.be/oCZ24Rh2BQY?si=OQCf9f3CKjfuz3fr)
 * [2024-01-16, 16:04:43](https://lobste.rs/s/vsyhmh/miracleptr_protecting_users_from_use) - [MiraclePtr: protecting users from use-after-free vulnerabilities on more platforms](https://security.googleblog.com/2024/01/miracleptr-protecting-users-from-use.html)
 * [2024-01-16, 14:58:36](https://lobste.rs/s/ib1ns7/faster_shell_startup_with_shell) - [Faster Shell Startup With Shell Switching](https://tratt.net/laurie/blog/2024/faster_shell_startup_with_shell_switching.html)
-* [2024-01-16, 14:36:46](https://lobste.rs/s/cngwca/coming_soon_golang_1_22) - [Coming Soon: Golang 1.22](https://www.dolthub.com/blog/2024-01-12-golang-1-22rc/)
 * [2024-01-16, 13:35:14](https://lobste.rs/s/iafplb/understanding_x86_64_paging) - [Understanding x86_64 Paging](https://zolutal.github.io/understanding-paging/)
 * [2024-01-16, 12:56:09](https://lobste.rs/s/e7m1vc/gleam_v0_34) - [Gleam v0.34](https://gleam.run/news/v0.34-multi-target-projects/)
 * [2024-01-16, 12:17:04](https://lobste.rs/s/qcg0i6/eschewing_black_box_api_calls) - [Eschewing black box API calls](https://rednafi.com/misc/eschewing_black_box_api_calls/)
