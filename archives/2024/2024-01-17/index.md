@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-17](index.md)
 
+* [2024-01-17, 10:22:04](https://lobste.rs/s/hb9gij/40_discussions_later_my_experience) - [40 discussions later: My experience in mentoring](https://maruel.ca/post/40_discussions_later/)
+* [2024-01-17, 10:21:01](https://lobste.rs/s/svg37b/using_will_should_technical_writing) - [Using \"will\" and \"should\" in technical writing](https://jamesg.blog/2024/01/17/will-should/)
 * [2024-01-17, 08:05:50](https://lobste.rs/s/uipl89/using_python_poetry_inside_docker) - [Using Python & Poetry inside Docker](https://ashishb.net/all/using-python-poetry-inside-docker/)
 * [2024-01-17, 06:03:23](https://lobste.rs/s/rd8l6h/proposal_for_body_part_emoji_2020) - [Proposal for body-part emoji (2020)](https://jschoi.org/20/body-emoji/)
 * [2024-01-17, 05:06:42](https://lobste.rs/s/ph9itf/lisp_query_notation) - [Lisp Query Notation](https://inconvergent.net/2024/lisp-query-notation/)
