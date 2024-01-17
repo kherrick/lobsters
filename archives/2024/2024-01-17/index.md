@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-17](index.md)
 
+* [2024-01-17, 12:57:58](https://lobste.rs/s/xnzvea/htmx_is_composable) - [htmx is composable??](https://timkellogg.me/blog/2024/01/17/htmx)
 * [2024-01-17, 12:21:52](https://lobste.rs/s/fi6thi/solving_dining_philosophers_problem) - [Solving the Dining Philosophers Problem with systemd - Part 3](https://www.brightbox.com/blog/2024/01/17/solving-dining-philosophers-with-systemd-part-3/)
 * [2024-01-17, 12:17:44](https://lobste.rs/s/s5tdvr/willow_protocol) - [Willow protocol](https://willowprotocol.org/)
 * [2024-01-17, 11:56:29](https://lobste.rs/s/xsmp7l/bare_minimum_atw_style_k_interpreter_for) - [bare minimum atw-style K interpreter for learning purposes](https://github.com/kparc/ksimple)
