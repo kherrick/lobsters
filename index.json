@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-17, 20:09:05",
+      "https://lobste.rs/s/lmp0rt/systemd_enable_indefinite_service"
+    ],
+    [
+      "systemd: enable indefinite service restarts",
+      "https://michael.stapelberg.ch/posts/2024-01-17-systemd-indefinite-service-restarts/"
+    ]
+  ],
+  [
+    [
       "2024-01-17, 19:27:45",
       "https://lobste.rs/s/80y8ju/doom_released_under_gplv2"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2024-01-17, 16:22:42",
-      "https://lobste.rs/s/wkwgil/list_continuous_benchmarking_projects"
-    ],
-    [
-      "A list of continuous benchmarking projects, articles, and tools",
-      "https://bencher.dev/docs/reference/prior-art/"
-    ]
-  ],
-  [
-    [
       "2024-01-17, 16:21:42",
       "https://lobste.rs/s/kgpsrm/beware_misleading_gpu_vs_cpu_benchmarks"
     ],
@@ -87,6 +87,16 @@
     [
       "htmx is composable??",
       "https://timkellogg.me/blog/2024/01/17/htmx"
+    ]
+  ],
+  [
+    [
+      "2024-01-17, 12:21:52",
+      "https://lobste.rs/s/fi6thi/solving_dining_philosophers_problem"
+    ],
+    [
+      "Solving the Dining Philosophers Problem with systemd - Part 3",
+      "https://www.brightbox.com/blog/2024/01/17/solving-dining-philosophers-with-systemd-part-3/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Gleam v0.34",
       "https://gleam.run/news/v0.34-multi-target-projects/"
-    ]
-  ],
-  [
-    [
-      "2024-01-15, 20:01:34",
-      "https://lobste.rs/s/lkxfwn/almost_all_fish_shell_has_been_rewritten"
-    ],
-    [
-      "almost all of fish shell has been rewritten in rust",
-      "https://aus.social/@zanchey/111760402786767224"
     ]
   ]
 ]
