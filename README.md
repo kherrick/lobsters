@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-17, 20:15:29](https://lobste.rs/s/cxiemn/netdev_2023) - [netdev in 2023](https://people.kernel.org/kuba/netdev-in-2023)
 * [2024-01-17, 20:09:05](https://lobste.rs/s/lmp0rt/systemd_enable_indefinite_service) - [systemd: enable indefinite service restarts](https://michael.stapelberg.ch/posts/2024-01-17-systemd-indefinite-service-restarts/)
 * [2024-01-17, 19:27:45](https://lobste.rs/s/80y8ju/doom_released_under_gplv2) - [Doom released under GPLv2](https://github.com/id-Software/DOOM/commit/a77dfb96cb91780ca334d0d4cfd86957558007e0)
 * [2024-01-17, 19:26:35](https://lobste.rs/s/vwkxug/director_toy_story_also_drew_bsd_daemon) - [The Director of \"Toy Story\" also drew the BSD Daemon logo](https://www.jacobelder.com/2024/01/17/director-of-toy-story-also-drew-bsd-daemon.html)
@@ -9,7 +10,6 @@
 * [2024-01-17, 14:35:15](https://lobste.rs/s/jbo8lw/vms_on_macos_using_apple_s_native) - [VMs on MacOS using Apple’s native Virtualization.Framework](https://tart.run/)
 * [2024-01-17, 13:59:34](https://lobste.rs/s/o0lmln/wine_9_0_run_windows_apps_on_arm) - [Wine 9.0 - Run Windows apps on ARM](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.0)
 * [2024-01-17, 12:57:58](https://lobste.rs/s/xnzvea/htmx_is_composable) - [htmx is composable??](https://timkellogg.me/blog/2024/01/17/htmx)
-* [2024-01-17, 12:21:52](https://lobste.rs/s/fi6thi/solving_dining_philosophers_problem) - [Solving the Dining Philosophers Problem with systemd - Part 3](https://www.brightbox.com/blog/2024/01/17/solving-dining-philosophers-with-systemd-part-3/)
 * [2024-01-17, 12:17:44](https://lobste.rs/s/s5tdvr/willow_protocol) - [Willow protocol](https://willowprotocol.org/)
 * [2024-01-17, 11:56:29](https://lobste.rs/s/xsmp7l/bare_minimum_atw_style_k_interpreter_for) - [bare minimum atw-style K interpreter for learning purposes](https://github.com/kparc/ksimple)
 * [2024-01-17, 11:51:04](https://lobste.rs/s/v8xovv/how_design_isa) - [How to Design an ISA](https://queue.acm.org/detail.cfm?id=3639445)
