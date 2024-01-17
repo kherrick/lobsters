@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-17, 13:59:34](https://lobste.rs/s/o0lmln/wine_9_0_run_windows_apps_on_arm) - [Wine 9.0 - Run Windows apps on ARM](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.0)
 * [2024-01-17, 12:57:58](https://lobste.rs/s/xnzvea/htmx_is_composable) - [htmx is composable??](https://timkellogg.me/blog/2024/01/17/htmx)
 * [2024-01-17, 12:21:52](https://lobste.rs/s/fi6thi/solving_dining_philosophers_problem) - [Solving the Dining Philosophers Problem with systemd - Part 3](https://www.brightbox.com/blog/2024/01/17/solving-dining-philosophers-with-systemd-part-3/)
 * [2024-01-17, 12:17:44](https://lobste.rs/s/s5tdvr/willow_protocol) - [Willow protocol](https://willowprotocol.org/)
@@ -23,7 +24,6 @@
 * [2024-01-16, 13:35:14](https://lobste.rs/s/iafplb/understanding_x86_64_paging) - [Understanding x86_64 Paging](https://zolutal.github.io/understanding-paging/)
 * [2024-01-16, 12:56:09](https://lobste.rs/s/e7m1vc/gleam_v0_34) - [Gleam v0.34](https://gleam.run/news/v0.34-multi-target-projects/)
 * [2024-01-16, 12:17:04](https://lobste.rs/s/qcg0i6/eschewing_black_box_api_calls) - [Eschewing black box API calls](https://rednafi.com/misc/eschewing_black_box_api_calls/)
-* [2024-01-16, 04:09:11](https://lobste.rs/s/rq7t9r/oils_0_19_0_dicts_procs_funcs_places) - [Oils 0.19.0 - Dicts, Procs, Funcs, and Places](https://www.oilshell.org/blog/2024/01/release-0.19.0.html)
 * [2024-01-15, 20:01:34](https://lobste.rs/s/lkxfwn/almost_all_fish_shell_has_been_rewritten) - [almost all of fish shell has been rewritten in rust](https://aus.social/@zanchey/111760402786767224)
 
 ## [Archives](archives/index.md)
