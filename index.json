@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-17, 14:35:15",
+      "https://lobste.rs/s/jbo8lw/vms_on_macos_using_apple_s_native"
+    ],
+    [
+      "VMs on MacOS using Apple’s native Virtualization.Framework",
+      "https://tart.run/"
+    ]
+  ],
+  [
+    [
       "2024-01-17, 13:59:34",
       "https://lobste.rs/s/o0lmln/wine_9_0_run_windows_apps_on_arm"
     ],
@@ -197,16 +207,6 @@
     [
       "Faster Shell Startup With Shell Switching",
       "https://tratt.net/laurie/blog/2024/faster_shell_startup_with_shell_switching.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-16, 14:36:46",
-      "https://lobste.rs/s/cngwca/coming_soon_golang_1_22"
-    ],
-    [
-      "Coming Soon: Golang 1.22",
-      "https://www.dolthub.com/blog/2024-01-12-golang-1-22rc/"
     ]
   ],
   [
