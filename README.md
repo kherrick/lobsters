@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-17, 06:03:23](https://lobste.rs/s/rd8l6h/proposal_for_body_part_emoji_2020) - [Proposal for body-part emoji (2020)](https://jschoi.org/20/body-emoji/)
 * [2024-01-17, 05:06:42](https://lobste.rs/s/ph9itf/lisp_query_notation) - [Lisp Query Notation](https://inconvergent.net/2024/lisp-query-notation/)
 * [2024-01-17, 01:55:04](https://lobste.rs/s/hrrzjz/on_compositional_window_management_2023) - [On Compositional Window Management (2023)](https://bandukwala.me/on-compositional-window-management/)
 * [2024-01-17, 01:19:43](https://lobste.rs/s/zrtxjw/passing_nothing_is_surprisingly) - [Passing nothing is surprisingly difficult](https://davidben.net/2024/01/15/empty-slices.html)
 * [2024-01-16, 21:21:34](https://lobste.rs/s/ebv01z/ruby_3_3_on_rails_1_0) - [Ruby (3.3) on Rails (1.0)](https://nashby.github.io/2024/01/15/ruby-3-on-rails-1/)
 * [2024-01-16, 20:42:48](https://lobste.rs/s/fee2p7/netbsd_amd64_guest_can_now_boot_40ms) - [A NetBSD/amd64 guest can now boot in 40ms](https://www.reddit.com/r/BSD/s/09ZWUI3Ufa)
-* [2024-01-16, 20:05:29](https://lobste.rs/s/szq9d1/inside_mechanical_bendix_air_data) - [Inside the mechanical Bendix Air Data Computer, part 3: pressure transducers](http://www.righto.com/2024/01/bendix-cadc-pressure-transducers.html)
 * [2024-01-16, 17:36:12](https://lobste.rs/s/jh4apf/go_wiki_rangefunc_experiment) - [Go Wiki: Rangefunc Experiment](https://go.dev/wiki/RangefuncExperiment)
 * [2024-01-16, 17:35:29](https://lobste.rs/s/o5o5oi/higlights_2023_for_cargo_semver_checks) - [Higlights of 2023 for cargo-semver-checks](https://predr.ag/blog/highlights-of-2023-for-cargo-semver-checks/)
 * [2024-01-16, 17:28:24](https://lobste.rs/s/tqkhil/2023_review) - [2023 in review](https://seanmonstar.com/blog/2023-in-review/)
