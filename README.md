@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-17, 20:15:29](https://lobste.rs/s/cxiemn/netdev_2023) - [netdev in 2023](https://people.kernel.org/kuba/netdev-in-2023)
 * [2024-01-17, 20:09:05](https://lobste.rs/s/lmp0rt/systemd_enable_indefinite_service) - [systemd: enable indefinite service restarts](https://michael.stapelberg.ch/posts/2024-01-17-systemd-indefinite-service-restarts/)
 * [2024-01-17, 19:27:45](https://lobste.rs/s/80y8ju/doom_released_under_gplv2) - [Doom released under GPLv2](https://github.com/id-Software/DOOM/commit/a77dfb96cb91780ca334d0d4cfd86957558007e0)
 * [2024-01-17, 19:26:35](https://lobste.rs/s/vwkxug/director_toy_story_also_drew_bsd_daemon) - [The Director of \"Toy Story\" also drew the BSD Daemon logo](https://www.jacobelder.com/2024/01/17/director-of-toy-story-also-drew-bsd-daemon.html)
@@ -23,7 +24,6 @@
 * [2024-01-16, 21:21:34](https://lobste.rs/s/ebv01z/ruby_3_3_on_rails_1_0) - [Ruby (3.3) on Rails (1.0)](https://nashby.github.io/2024/01/15/ruby-3-on-rails-1/)
 * [2024-01-16, 20:42:48](https://lobste.rs/s/fee2p7/netbsd_amd64_guest_can_now_boot_40ms) - [A NetBSD/amd64 guest can now boot in 40ms](https://www.reddit.com/r/BSD/s/09ZWUI3Ufa)
 * [2024-01-16, 17:36:12](https://lobste.rs/s/jh4apf/go_wiki_rangefunc_experiment) - [Go Wiki: Rangefunc Experiment](https://go.dev/wiki/RangefuncExperiment)
-* [2024-01-16, 14:58:36](https://lobste.rs/s/ib1ns7/faster_shell_startup_with_shell) - [Faster Shell Startup With Shell Switching](https://tratt.net/laurie/blog/2024/faster_shell_startup_with_shell_switching.html)
 * [2024-01-16, 12:56:09](https://lobste.rs/s/e7m1vc/gleam_v0_34) - [Gleam v0.34](https://gleam.run/news/v0.34-multi-target-projects/)
 
 ## [Archives](archives/index.md)
