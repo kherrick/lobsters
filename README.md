@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-01-16, 23:21:21](https://lobste.rs/s/fi1ihp/manifesto_neue) - [manifesto.neue](https://blog.webb.page/2024-01-16-manifesto.neue.txt)
+* [2024-01-17, 01:55:04](https://lobste.rs/s/hrrzjz/on_compositional_window_management_2023) - [On Compositional Window Management (2023)](https://bandukwala.me/on-compositional-window-management/)
+* [2024-01-17, 01:19:43](https://lobste.rs/s/zrtxjw/passing_nothing_is_surprisingly) - [Passing nothing is surprisingly difficult](https://davidben.net/2024/01/15/empty-slices.html)
 * [2024-01-16, 21:21:34](https://lobste.rs/s/ebv01z/ruby_3_3_on_rails_1_0) - [Ruby (3.3) on Rails (1.0)](https://nashby.github.io/2024/01/15/ruby-3-on-rails-1/)
 * [2024-01-16, 20:42:48](https://lobste.rs/s/fee2p7/netbsd_amd64_guest_can_now_boot_40ms) - [A NetBSD/amd64 guest can now boot in 40ms](https://www.reddit.com/r/BSD/s/09ZWUI3Ufa)
 * [2024-01-16, 20:05:29](https://lobste.rs/s/szq9d1/inside_mechanical_bendix_air_data) - [Inside the mechanical Bendix Air Data Computer, part 3: pressure transducers](http://www.righto.com/2024/01/bendix-cadc-pressure-transducers.html)
@@ -20,7 +21,6 @@
 * [2024-01-16, 01:21:35](https://lobste.rs/s/gymypm/bane_my_existence_supporting_both_async) - [The bane of my existence: Supporting both async and sync code in Rust](https://nullderef.com/blog/rust-async-sync/)
 * [2024-01-15, 21:44:20](https://lobste.rs/s/50hruz/pids_creating_stable_control_games) - [PIDs: Creating Stable Control in Games](https://azeemba.com/posts/pids-creating-stable-control-in-games.html)
 * [2024-01-15, 21:24:06](https://lobste.rs/s/vetg49/some_memories_niklaus_wirth) - [Some Memories of Niklaus Wirth](https://odersky.github.io/blog/2024-01-04-post.html)
-* [2024-01-15, 20:11:29](https://lobste.rs/s/olauuu/python_packaging_one_year_later) - [Python Packaging, One Year Later](https://chriswarrick.com/blog/2024/01/15/python-packaging-one-year-later/)
 * [2024-01-15, 20:01:34](https://lobste.rs/s/lkxfwn/almost_all_fish_shell_has_been_rewritten) - [almost all of fish shell has been rewritten in rust](https://aus.social/@zanchey/111760402786767224)
 * [2024-01-15, 19:09:14](https://lobste.rs/s/wv6hs3/setting_up_nix_on_macos) - [Setting up Nix on macOS](https://nixcademy.com/2024/01/15/nix-on-macos/)
 * [2024-01-15, 18:27:42](https://lobste.rs/s/fg3ga8/high_speed_10gbps_full_mesh_network_based) - [High-speed 10Gbps full-mesh network based on USB4 for just $47.98](https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network/)
