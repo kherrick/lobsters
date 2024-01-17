@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-17](index.md)
 
+* [2024-01-17, 19:27:45](https://lobste.rs/s/80y8ju/doom_released_under_gplv2) - [Doom released under GPLv2](https://github.com/id-Software/DOOM/commit/a77dfb96cb91780ca334d0d4cfd86957558007e0)
+* [2024-01-17, 19:26:35](https://lobste.rs/s/vwkxug/director_toy_story_also_drew_bsd_daemon) - [The Director of \"Toy Story\" also drew the BSD Daemon logo](https://www.jacobelder.com/2024/01/17/director-of-toy-story-also-drew-bsd-daemon.html)
 * [2024-01-17, 18:13:50](https://lobste.rs/s/2i2m3h/from_0_1_mb_dos) - [From 0 to 1 MB in DOS](https://blogsystem5.substack.com/p/from-0-to-1-mb-in-dos)
 * [2024-01-17, 16:39:05](https://lobste.rs/s/ex0xeq/ai_poisoning_could_turn_open_models_into) - [AI poisoning could turn open models into destructive “sleeper agents”](https://arstechnica.com/information-technology/2024/01/ai-poisoning-could-turn-open-models-into-destructive-sleeper-agents-says-anthropic/)
 * [2024-01-17, 16:22:42](https://lobste.rs/s/wkwgil/list_continuous_benchmarking_projects) - [A list of continuous benchmarking projects, articles, and tools](https://bencher.dev/docs/reference/prior-art/)
