@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-17, 11:51:04](https://lobste.rs/s/v8xovv/how_design_isa) - [How to Design an ISA](https://queue.acm.org/detail.cfm?id=3639445)
 * [2024-01-17, 11:13:13](https://lobste.rs/s/oaqtsr/running_openbsd_7_4_under_utm_on_macos) - [Running OpenBSD 7.4 under UTM on macOS](https://blog.adamretter.org.uk/running-openbsd-74-under-utm/)
 * [2024-01-17, 11:12:34](https://lobste.rs/s/t8iyc0/indexing_semantic_versions_rocksdb) - [Indexing semantic versions in rocksdb](https://blog.aawadia.dev/2024/01/02/index-semver-rocksdb/)
 * [2024-01-17, 10:22:04](https://lobste.rs/s/hb9gij/40_discussions_later_my_experience) - [40 discussions later: My experience in mentoring](https://maruel.ca/post/40_discussions_later/)
@@ -21,7 +22,6 @@
 * [2024-01-16, 12:56:09](https://lobste.rs/s/e7m1vc/gleam_v0_34) - [Gleam v0.34](https://gleam.run/news/v0.34-multi-target-projects/)
 * [2024-01-16, 12:17:04](https://lobste.rs/s/qcg0i6/eschewing_black_box_api_calls) - [Eschewing black box API calls](https://rednafi.com/misc/eschewing_black_box_api_calls/)
 * [2024-01-16, 04:09:11](https://lobste.rs/s/rq7t9r/oils_0_19_0_dicts_procs_funcs_places) - [Oils 0.19.0 - Dicts, Procs, Funcs, and Places](https://www.oilshell.org/blog/2024/01/release-0.19.0.html)
-* [2024-01-15, 21:24:06](https://lobste.rs/s/vetg49/some_memories_niklaus_wirth) - [Some Memories of Niklaus Wirth](https://odersky.github.io/blog/2024-01-04-post.html)
 * [2024-01-15, 20:01:34](https://lobste.rs/s/lkxfwn/almost_all_fish_shell_has_been_rewritten) - [almost all of fish shell has been rewritten in rust](https://aus.social/@zanchey/111760402786767224)
 * [2024-01-15, 19:09:14](https://lobste.rs/s/wv6hs3/setting_up_nix_on_macos) - [Setting up Nix on macOS](https://nixcademy.com/2024/01/15/nix-on-macos/)
 * [2024-01-15, 18:27:42](https://lobste.rs/s/fg3ga8/high_speed_10gbps_full_mesh_network_based) - [High-speed 10Gbps full-mesh network based on USB4 for just $47.98](https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network/)
