@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-17, 22:50:28](https://lobste.rs/s/lgyyg2/misconceptions_on_top_misconceptions) - [Misconceptions on Top of Misconceptions](http://www.os2museum.com/wp/misconceptions-on-top-of-misconceptions/)
 * [2024-01-17, 20:15:29](https://lobste.rs/s/cxiemn/netdev_2023) - [netdev in 2023](https://people.kernel.org/kuba/netdev-in-2023)
 * [2024-01-17, 20:09:05](https://lobste.rs/s/lmp0rt/systemd_enable_indefinite_service) - [systemd: enable indefinite service restarts](https://michael.stapelberg.ch/posts/2024-01-17-systemd-indefinite-service-restarts/)
 * [2024-01-17, 19:27:45](https://lobste.rs/s/80y8ju/doom_released_under_gplv2) - [Doom released under GPLv2](https://github.com/id-Software/DOOM/commit/a77dfb96cb91780ca334d0d4cfd86957558007e0)
@@ -16,7 +17,6 @@
 * [2024-01-17, 11:51:04](https://lobste.rs/s/v8xovv/how_design_isa) - [How to Design an ISA](https://queue.acm.org/detail.cfm?id=3639445)
 * [2024-01-17, 11:13:13](https://lobste.rs/s/oaqtsr/running_openbsd_7_4_under_utm_on_macos) - [Running OpenBSD 7.4 under UTM on macOS](https://blog.adamretter.org.uk/running-openbsd-74-under-utm/)
 * [2024-01-17, 10:21:01](https://lobste.rs/s/svg37b/using_will_should_technical_writing) - [Using \"will\" and \"should\" in technical writing](https://jamesg.blog/2024/01/17/will-should/)
-* [2024-01-17, 08:05:50](https://lobste.rs/s/uipl89/using_python_poetry_inside_docker) - [Using Python & Poetry inside Docker](https://ashishb.net/all/using-python-poetry-inside-docker/)
 * [2024-01-17, 06:03:23](https://lobste.rs/s/rd8l6h/proposal_for_body_part_emoji_2020) - [Proposal for body-part emoji (2020)](https://jschoi.org/20/body-emoji/)
 * [2024-01-17, 05:06:42](https://lobste.rs/s/ph9itf/lisp_query_notation) - [Lisp Query Notation](https://inconvergent.net/2024/lisp-query-notation/)
 * [2024-01-17, 01:55:04](https://lobste.rs/s/hrrzjz/on_compositional_window_management_2023) - [On Compositional Window Management (2023)](https://bandukwala.me/on-compositional-window-management/)
