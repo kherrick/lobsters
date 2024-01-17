@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-17, 11:13:13",
+      "https://lobste.rs/s/oaqtsr/running_openbsd_7_4_under_utm_on_macos"
+    ],
+    [
+      "Running OpenBSD 7.4 under UTM on macOS",
+      "https://blog.adamretter.org.uk/running-openbsd-74-under-utm/"
+    ]
+  ],
+  [
+    [
+      "2024-01-17, 11:12:34",
+      "https://lobste.rs/s/t8iyc0/indexing_semantic_versions_rocksdb"
+    ],
+    [
+      "Indexing semantic versions in rocksdb",
+      "https://blog.aawadia.dev/2024/01/02/index-semver-rocksdb/"
+    ]
+  ],
+  [
+    [
       "2024-01-17, 10:22:04",
       "https://lobste.rs/s/hb9gij/40_discussions_later_my_experience"
     ],
@@ -187,26 +207,6 @@
     [
       "Oils 0.19.0 - Dicts, Procs, Funcs, and Places",
       "https://www.oilshell.org/blog/2024/01/release-0.19.0.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-16, 01:21:35",
-      "https://lobste.rs/s/gymypm/bane_my_existence_supporting_both_async"
-    ],
-    [
-      "The bane of my existence: Supporting both async and sync code in Rust",
-      "https://nullderef.com/blog/rust-async-sync/"
-    ]
-  ],
-  [
-    [
-      "2024-01-15, 21:44:20",
-      "https://lobste.rs/s/50hruz/pids_creating_stable_control_games"
-    ],
-    [
-      "PIDs: Creating Stable Control in Games",
-      "https://azeemba.com/posts/pids-creating-stable-control-in-games.html"
     ]
   ],
   [
