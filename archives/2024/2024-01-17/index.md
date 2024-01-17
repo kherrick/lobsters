@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-17](index.md)
 
+* [2024-01-17, 16:39:05](https://lobste.rs/s/ex0xeq/ai_poisoning_could_turn_open_models_into) - [AI poisoning could turn open models into destructive “sleeper agents”](https://arstechnica.com/information-technology/2024/01/ai-poisoning-could-turn-open-models-into-destructive-sleeper-agents-says-anthropic/)
 * [2024-01-17, 16:22:42](https://lobste.rs/s/wkwgil/list_continuous_benchmarking_projects) - [A list of continuous benchmarking projects, articles, and tools](https://bencher.dev/docs/reference/prior-art/)
 * [2024-01-17, 16:21:42](https://lobste.rs/s/kgpsrm/beware_misleading_gpu_vs_cpu_benchmarks) - [Beware of misleading GPU vs CPU benchmarks](https://pythonspeed.com/articles/gpu-vs-cpu/)
 * [2024-01-17, 15:55:02](https://lobste.rs/s/q8nji9/math_exams_my_life) - [The math exams of my life](https://www.andreinc.net/2024/01/09/the-most-important-math-exams-of-my-life)
