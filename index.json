@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-17, 08:05:50",
+      "https://lobste.rs/s/uipl89/using_python_poetry_inside_docker"
+    ],
+    [
+      "Using Python & Poetry inside Docker",
+      "https://ashishb.net/all/using-python-poetry-inside-docker/"
+    ]
+  ],
+  [
+    [
       "2024-01-17, 06:03:23",
       "https://lobste.rs/s/rd8l6h/proposal_for_body_part_emoji_2020"
     ],
@@ -237,16 +247,6 @@
     [
       "High-speed 10Gbps full-mesh network based on USB4 for just $47.98",
       "https://fangpenlin.com/posts/2024/01/14/high-speed-usb4-mesh-network/"
-    ]
-  ],
-  [
-    [
-      "2024-01-15, 16:50:52",
-      "https://lobste.rs/s/dqw5zq/2024_discussion_whether_convert_linux"
-    ],
-    [
-      "A 2024 Discussion Whether To Convert The Linux Kernel From C To Modern C++",
-      "https://www.phoronix.com/news/CPP-Linux-Kernel-2024-Discuss"
     ]
   ]
 ]
