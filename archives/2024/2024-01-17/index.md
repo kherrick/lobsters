@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-17](index.md)
 
+* [2024-01-17, 16:22:42](https://lobste.rs/s/wkwgil/list_continuous_benchmarking_projects) - [A list of continuous benchmarking projects, articles, and tools](https://bencher.dev/docs/reference/prior-art/)
+* [2024-01-17, 16:21:42](https://lobste.rs/s/kgpsrm/beware_misleading_gpu_vs_cpu_benchmarks) - [Beware of misleading GPU vs CPU benchmarks](https://pythonspeed.com/articles/gpu-vs-cpu/)
 * [2024-01-17, 15:55:02](https://lobste.rs/s/q8nji9/math_exams_my_life) - [The math exams of my life](https://www.andreinc.net/2024/01/09/the-most-important-math-exams-of-my-life)
 * [2024-01-17, 14:35:15](https://lobste.rs/s/jbo8lw/vms_on_macos_using_apple_s_native) - [VMs on MacOS using Apple’s native Virtualization.Framework](https://tart.run/)
 * [2024-01-17, 13:59:34](https://lobste.rs/s/o0lmln/wine_9_0_run_windows_apps_on_arm) - [Wine 9.0 - Run Windows apps on ARM](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.0)
