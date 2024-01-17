@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-17, 11:56:29](https://lobste.rs/s/xsmp7l/bare_minimum_atw_style_k_interpreter_for) - [bare minimum atw-style K interpreter for learning purposes](https://github.com/kparc/ksimple)
 * [2024-01-17, 11:51:04](https://lobste.rs/s/v8xovv/how_design_isa) - [How to Design an ISA](https://queue.acm.org/detail.cfm?id=3639445)
 * [2024-01-17, 11:13:13](https://lobste.rs/s/oaqtsr/running_openbsd_7_4_under_utm_on_macos) - [Running OpenBSD 7.4 under UTM on macOS](https://blog.adamretter.org.uk/running-openbsd-74-under-utm/)
 * [2024-01-17, 11:12:34](https://lobste.rs/s/t8iyc0/indexing_semantic_versions_rocksdb) - [Indexing semantic versions in rocksdb](https://blog.aawadia.dev/2024/01/02/index-semver-rocksdb/)
@@ -15,7 +16,6 @@
 * [2024-01-16, 17:36:12](https://lobste.rs/s/jh4apf/go_wiki_rangefunc_experiment) - [Go Wiki: Rangefunc Experiment](https://go.dev/wiki/RangefuncExperiment)
 * [2024-01-16, 16:49:00](https://lobste.rs/s/rgnggc/how_run_your_own_lte_private_provider) - [How to run your own LTE private provider](https://youtu.be/oCZ24Rh2BQY?si=OQCf9f3CKjfuz3fr)
 * [2024-01-16, 16:04:43](https://lobste.rs/s/vsyhmh/miracleptr_protecting_users_from_use) - [MiraclePtr: protecting users from use-after-free vulnerabilities on more platforms](https://security.googleblog.com/2024/01/miracleptr-protecting-users-from-use.html)
-* [2024-01-16, 15:58:39](https://lobste.rs/s/0l1cwz/collection_postmortems) - [A collection of postmortems](https://github.com/danluu/post-mortems)
 * [2024-01-16, 14:58:36](https://lobste.rs/s/ib1ns7/faster_shell_startup_with_shell) - [Faster Shell Startup With Shell Switching](https://tratt.net/laurie/blog/2024/faster_shell_startup_with_shell_switching.html)
 * [2024-01-16, 14:36:46](https://lobste.rs/s/cngwca/coming_soon_golang_1_22) - [Coming Soon: Golang 1.22](https://www.dolthub.com/blog/2024-01-12-golang-1-22rc/)
 * [2024-01-16, 13:35:14](https://lobste.rs/s/iafplb/understanding_x86_64_paging) - [Understanding x86_64 Paging](https://zolutal.github.io/understanding-paging/)
