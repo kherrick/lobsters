@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-17](index.md)
 
+* [2024-01-17, 23:28:44](https://lobste.rs/s/bdpt9e/low_level_operations_for_volatile_memory) - [Low-level operations for volatile memory accesses](https://forums.swift.org/t/pitch-low-level-operations-for-volatile-memory-accesses/69483)
 * [2024-01-17, 22:50:28](https://lobste.rs/s/lgyyg2/misconceptions_on_top_misconceptions) - [Misconceptions on Top of Misconceptions](http://www.os2museum.com/wp/misconceptions-on-top-of-misconceptions/)
 * [2024-01-17, 20:15:29](https://lobste.rs/s/cxiemn/netdev_2023) - [netdev in 2023](https://people.kernel.org/kuba/netdev-in-2023)
 * [2024-01-17, 20:09:05](https://lobste.rs/s/lmp0rt/systemd_enable_indefinite_service) - [systemd: enable indefinite service restarts](https://michael.stapelberg.ch/posts/2024-01-17-systemd-indefinite-service-restarts/)
