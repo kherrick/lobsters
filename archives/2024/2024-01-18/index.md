@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-18](index.md)
 
+* [2024-01-18, 22:48:52](https://lobste.rs/s/tllk6x/inside_igalia_scaling_tech_co_op_beyond) - [Inside Igalia: Scaling a Tech Co-Op Beyond 100 Members](https://www.youtube.com/watch?v=du7fC8VCbXg)
 * [2024-01-18, 22:15:43](https://lobste.rs/s/wjxbad/inside_massive_naz_api_credential) - [Inside the Massive Naz.API Credential Stuffing List](https://www.troyhunt.com/inside-the-massive-naz-api-credential-stuffing-list/)
 * [2024-01-18, 20:30:53](https://lobste.rs/s/wrmpjp/test_command_line_application_written) - [Test command line application written in Rust](https://rust.code-maven.com/test-command-line-application)
 * [2024-01-18, 19:21:24](https://lobste.rs/s/kv9znz/perf_is_not_enough) - [Perf is not enough](https://motherduck.com/blog/perf-is-not-enough/)

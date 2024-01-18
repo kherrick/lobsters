@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-18, 22:48:52](https://lobste.rs/s/tllk6x/inside_igalia_scaling_tech_co_op_beyond) - [Inside Igalia: Scaling a Tech Co-Op Beyond 100 Members](https://www.youtube.com/watch?v=du7fC8VCbXg)
 * [2024-01-18, 22:15:43](https://lobste.rs/s/wjxbad/inside_massive_naz_api_credential) - [Inside the Massive Naz.API Credential Stuffing List](https://www.troyhunt.com/inside-the-massive-naz-api-credential-stuffing-list/)
 * [2024-01-18, 20:30:53](https://lobste.rs/s/wrmpjp/test_command_line_application_written) - [Test command line application written in Rust](https://rust.code-maven.com/test-command-line-application)
 * [2024-01-18, 19:21:24](https://lobste.rs/s/kv9znz/perf_is_not_enough) - [Perf is not enough](https://motherduck.com/blog/perf-is-not-enough/)
@@ -19,7 +20,6 @@
 * [2024-01-17, 20:09:05](https://lobste.rs/s/lmp0rt/systemd_enable_indefinite_service) - [systemd: enable indefinite service restarts](https://michael.stapelberg.ch/posts/2024-01-17-systemd-indefinite-service-restarts/)
 * [2024-01-17, 19:26:35](https://lobste.rs/s/vwkxug/director_toy_story_also_drew_bsd_daemon) - [The Director of \"Toy Story\" also drew the BSD Daemon logo](https://www.jacobelder.com/2024/01/17/director-of-toy-story-also-drew-bsd-daemon.html)
 * [2024-01-17, 18:13:50](https://lobste.rs/s/2i2m3h/from_0_1_mb_dos) - [From 0 to 1 MB in DOS](https://blogsystem5.substack.com/p/from-0-to-1-mb-in-dos)
-* [2024-01-17, 13:59:34](https://lobste.rs/s/o0lmln/wine_9_0_run_windows_apps_on_arm) - [Wine 9.0 - Run Windows apps on ARM](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.0)
 * [2024-01-17, 12:57:58](https://lobste.rs/s/xnzvea/htmx_is_composable) - [htmx is composable??](https://timkellogg.me/blog/2024/01/17/htmx)
 * [2024-01-17, 12:17:44](https://lobste.rs/s/s5tdvr/willow_protocol) - [Willow protocol](https://willowprotocol.org/)
 * [2024-01-17, 11:51:04](https://lobste.rs/s/v8xovv/how_design_isa) - [How to Design an ISA](https://queue.acm.org/detail.cfm?id=3639445)
