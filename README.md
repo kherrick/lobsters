@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-18, 22:15:43](https://lobste.rs/s/wjxbad/inside_massive_naz_api_credential) - [Inside the Massive Naz.API Credential Stuffing List](https://www.troyhunt.com/inside-the-massive-naz-api-credential-stuffing-list/)
 * [2024-01-18, 20:30:53](https://lobste.rs/s/wrmpjp/test_command_line_application_written) - [Test command line application written in Rust](https://rust.code-maven.com/test-command-line-application)
 * [2024-01-18, 19:21:24](https://lobste.rs/s/kv9znz/perf_is_not_enough) - [Perf is not enough](https://motherduck.com/blog/perf-is-not-enough/)
 * [2024-01-18, 18:50:39](https://lobste.rs/s/mkisrd/lend_me_your_ear_passive_remote_physical) - [Lend Me Your Ear: Passive Remote Physical Side Channels on PCs](https://faculty.cc.gatech.edu/~genkin/papers/lendear.pdf)
@@ -15,7 +16,6 @@
 * [2024-01-18, 08:28:43](https://lobste.rs/s/hcqmsw/using_mem_take_reduce_heap_allocations) - [Using `mem::take` to reduce heap allocations](https://ferrous-systems.com/blog/rustls-borrow-checker-p1/)
 * [2024-01-18, 08:09:13](https://lobste.rs/s/hm4vij/htmx_web_components_perfect_match) - [HTMX and Web Components: a Perfect Match](https://binaryigor.com/htmx-and-web-components-a-perfect-match.html)
 * [2024-01-18, 07:11:44](https://lobste.rs/s/fux9y2/have_you_successfully_automated_some) - [Have you successfully automated some task with a publicly-available, pre-trained AI model?](https://lobste.rs/s/fux9y2/have_you_successfully_automated_some)
-* [2024-01-18, 01:36:33](https://lobste.rs/s/ocqk8h/dumping_rom_gba_game_by_crashing_it) - [Dumping the ROM of a GBA game by crashing it](https://www.youtube.com/watch?v=0-7PSmYYHF0)
 * [2024-01-17, 20:09:05](https://lobste.rs/s/lmp0rt/systemd_enable_indefinite_service) - [systemd: enable indefinite service restarts](https://michael.stapelberg.ch/posts/2024-01-17-systemd-indefinite-service-restarts/)
 * [2024-01-17, 19:26:35](https://lobste.rs/s/vwkxug/director_toy_story_also_drew_bsd_daemon) - [The Director of \"Toy Story\" also drew the BSD Daemon logo](https://www.jacobelder.com/2024/01/17/director-of-toy-story-also-drew-bsd-daemon.html)
 * [2024-01-17, 18:13:50](https://lobste.rs/s/2i2m3h/from_0_1_mb_dos) - [From 0 to 1 MB in DOS](https://blogsystem5.substack.com/p/from-0-to-1-mb-in-dos)

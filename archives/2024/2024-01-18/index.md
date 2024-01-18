@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-18](index.md)
 
+* [2024-01-18, 22:15:43](https://lobste.rs/s/wjxbad/inside_massive_naz_api_credential) - [Inside the Massive Naz.API Credential Stuffing List](https://www.troyhunt.com/inside-the-massive-naz-api-credential-stuffing-list/)
 * [2024-01-18, 20:30:53](https://lobste.rs/s/wrmpjp/test_command_line_application_written) - [Test command line application written in Rust](https://rust.code-maven.com/test-command-line-application)
 * [2024-01-18, 19:21:24](https://lobste.rs/s/kv9znz/perf_is_not_enough) - [Perf is not enough](https://motherduck.com/blog/perf-is-not-enough/)
 * [2024-01-18, 19:14:13](https://lobste.rs/s/ygqaee/tencent_releases_evalcrafter_on_hugging) - [Tencent releases EvalCrafter on Hugging Face](https://huggingface.co/spaces/AILab-CVC/EvalCrafter?s=09)
