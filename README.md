@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-18, 19:14:13](https://lobste.rs/s/ygqaee/tencent_releases_evalcrafter_on_hugging) - [Tencent releases EvalCrafter on Hugging Face](https://huggingface.co/spaces/AILab-CVC/EvalCrafter?s=09)
 * [2024-01-18, 18:50:39](https://lobste.rs/s/mkisrd/lend_me_your_ear_passive_remote_physical) - [Lend Me Your Ear: Passive Remote Physical Side Channels on PCs](https://faculty.cc.gatech.edu/~genkin/papers/lendear.pdf)
 * [2024-01-18, 17:17:08](https://lobste.rs/s/1qyp4w/faa_safety_continuum_doctrine) - [FAA Safety Continuum Doctrine](https://downloads.regulations.gov/FAA-2015-1621-0018/attachment_1.pdf)
 * [2024-01-18, 15:51:42](https://lobste.rs/s/agaiir/will_new_judicial_ruling_vizio_lawsuit) - [Will the new judicial ruling in the Vizio lawsuit strengthen the GPL?](https://blog.tidelift.com/will-the-new-judicial-ruling-in-the-vizio-lawsuit-strengthen-the-gpl)
@@ -18,7 +19,6 @@
 * [2024-01-17, 20:09:05](https://lobste.rs/s/lmp0rt/systemd_enable_indefinite_service) - [systemd: enable indefinite service restarts](https://michael.stapelberg.ch/posts/2024-01-17-systemd-indefinite-service-restarts/)
 * [2024-01-17, 19:26:35](https://lobste.rs/s/vwkxug/director_toy_story_also_drew_bsd_daemon) - [The Director of \"Toy Story\" also drew the BSD Daemon logo](https://www.jacobelder.com/2024/01/17/director-of-toy-story-also-drew-bsd-daemon.html)
 * [2024-01-17, 18:13:50](https://lobste.rs/s/2i2m3h/from_0_1_mb_dos) - [From 0 to 1 MB in DOS](https://blogsystem5.substack.com/p/from-0-to-1-mb-in-dos)
-* [2024-01-17, 14:35:15](https://lobste.rs/s/jbo8lw/vms_on_macos_using_apple_s_native) - [VMs on MacOS using Apple’s native Virtualization.Framework](https://tart.run/)
 * [2024-01-17, 13:59:34](https://lobste.rs/s/o0lmln/wine_9_0_run_windows_apps_on_arm) - [Wine 9.0 - Run Windows apps on ARM](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.0)
 * [2024-01-17, 12:57:58](https://lobste.rs/s/xnzvea/htmx_is_composable) - [htmx is composable??](https://timkellogg.me/blog/2024/01/17/htmx)
 * [2024-01-17, 12:17:44](https://lobste.rs/s/s5tdvr/willow_protocol) - [Willow protocol](https://willowprotocol.org/)
