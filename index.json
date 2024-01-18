@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-01-18, 19:14:13",
-      "https://lobste.rs/s/ygqaee/tencent_releases_evalcrafter_on_hugging"
-    ],
-    [
-      "Tencent releases EvalCrafter on Hugging Face",
-      "https://huggingface.co/spaces/AILab-CVC/EvalCrafter?s=09"
-    ]
-  ],
-  [
-    [
       "2024-01-18, 18:50:39",
       "https://lobste.rs/s/mkisrd/lend_me_your_ear_passive_remote_physical"
     ],
@@ -147,6 +137,16 @@
     [
       "Have you successfully automated some task with a publicly-available, pre-trained AI model?",
       "https://lobste.rs/s/fux9y2/have_you_successfully_automated_some"
+    ]
+  ],
+  [
+    [
+      "2024-01-18, 07:03:51",
+      "https://lobste.rs/s/jh9gj3/autopack_auto_build_run_react_app_within"
+    ],
+    [
+      "Autopack - Auto build and run a React app within a Docker container without a Dockerfile",
+      "https://github.com/kaychaks/autopack"
     ]
   ],
   [
