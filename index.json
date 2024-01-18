@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-18, 07:03:51",
+      "https://lobste.rs/s/jh9gj3/autopack_auto_build_run_react_app_within"
+    ],
+    [
+      "Autopack - Auto build and run a React app within a Docker container without a Dockerfile",
+      "https://github.com/kaychaks/autopack"
+    ]
+  ],
+  [
+    [
+      "2024-01-18, 07:00:23",
+      "https://lobste.rs/s/j3pbbj/computing_without_processors"
+    ],
+    [
+      "Computing without Processors",
+      "https://queue.acm.org/detail.cfm?id=2000516"
+    ]
+  ],
+  [
+    [
       "2024-01-18, 05:31:42",
       "https://lobste.rs/s/rvtips/tembo_operator_rust_based_kubernetes"
     ],
@@ -47,16 +67,6 @@
     [
       "Misconceptions on Top of Misconceptions",
       "http://www.os2museum.com/wp/misconceptions-on-top-of-misconceptions/"
-    ]
-  ],
-  [
-    [
-      "2024-01-17, 20:15:29",
-      "https://lobste.rs/s/cxiemn/netdev_2023"
-    ],
-    [
-      "netdev in 2023",
-      "https://people.kernel.org/kuba/netdev-in-2023"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "A NetBSD/amd64 guest can now boot in 40ms",
       "https://www.reddit.com/r/BSD/s/09ZWUI3Ufa"
-    ]
-  ],
-  [
-    [
-      "2024-01-16, 12:56:09",
-      "https://lobste.rs/s/e7m1vc/gleam_v0_34"
-    ],
-    [
-      "Gleam v0.34",
-      "https://gleam.run/news/v0.34-multi-target-projects/"
     ]
   ]
 ]
