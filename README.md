@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-18, 03:14:45](https://lobste.rs/s/gh31la/cesil_controlled_xmas_tree_on_raspberry) - [CESIL controlled Xmas tree on the Raspberry Pi (2012)](https://projects.drogon.net/cesil-controlled-xmas-tree-on-the-raspberry-pi/)
 * [2024-01-18, 02:16:15](https://lobste.rs/s/ggj98l/ai_not_so_good_parts) - [AI: the not-so-good parts](https://xeiaso.net/talks/2024/prepare-unforeseen-consequences/)
 * [2024-01-18, 01:36:33](https://lobste.rs/s/ocqk8h/dumping_rom_gba_game_by_crashing_it) - [Dumping the ROM of a GBA game by crashing it](https://www.youtube.com/watch?v=0-7PSmYYHF0)
-* [2024-01-17, 23:28:44](https://lobste.rs/s/bdpt9e/low_level_operations_for_volatile_memory) - [Low-level operations for volatile memory accesses](https://forums.swift.org/t/pitch-low-level-operations-for-volatile-memory-accesses/69483)
 * [2024-01-17, 22:50:28](https://lobste.rs/s/lgyyg2/misconceptions_on_top_misconceptions) - [Misconceptions on Top of Misconceptions](http://www.os2museum.com/wp/misconceptions-on-top-of-misconceptions/)
 * [2024-01-17, 20:15:29](https://lobste.rs/s/cxiemn/netdev_2023) - [netdev in 2023](https://people.kernel.org/kuba/netdev-in-2023)
 * [2024-01-17, 20:09:05](https://lobste.rs/s/lmp0rt/systemd_enable_indefinite_service) - [systemd: enable indefinite service restarts](https://michael.stapelberg.ch/posts/2024-01-17-systemd-indefinite-service-restarts/)
