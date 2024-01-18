@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-18](index.md)
 
+* [2024-01-18, 15:26:04](https://lobste.rs/s/kuxsjm/2024_plea_for_lean_software_with_running) - [A 2024 Plea for Lean Software (with running code)](https://berthub.eu/articles/posts/a-2024-plea-for-lean-software/)
+* [2024-01-18, 15:25:35](https://lobste.rs/s/odkiqa/trifecta_technology) - [Trifecta Technology](https://berthub.eu/articles/posts/trifecta-technology/)
 * [2024-01-18, 14:42:44](https://lobste.rs/s/vylnes/2024_financial_report_fundraiser) - [2024 Financial Report and Fundraiser](https://ziglang.org/news/2024-financials/#2024-financial-report-and-fundraiser)
 * [2024-01-18, 14:21:58](https://lobste.rs/s/igpzqd/scalable_oltp_cloud_what_s_big_deal) - [Scalable OLTP in the Cloud: What’s the BIG DEAL?](https://muratbuffalo.blogspot.com/2024/01/scalable-oltp-in-cloud-whats-big-deal.html)
 * [2024-01-18, 13:49:24](https://lobste.rs/s/4uude2/leftoverlocals_listening_llm_responses) - [LeftoverLocals:  Listening to LLM responses through leaked GPU local memory](https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory/)
