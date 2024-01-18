@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-18, 17:17:08](https://lobste.rs/s/1qyp4w/faa_safety_continuum_doctrine) - [FAA Safety Continuum Doctrine](https://downloads.regulations.gov/FAA-2015-1621-0018/attachment_1.pdf)
 * [2024-01-18, 15:51:42](https://lobste.rs/s/agaiir/will_new_judicial_ruling_vizio_lawsuit) - [Will the new judicial ruling in the Vizio lawsuit strengthen the GPL?](https://blog.tidelift.com/will-the-new-judicial-ruling-in-the-vizio-lawsuit-strengthen-the-gpl)
 * [2024-01-18, 15:26:04](https://lobste.rs/s/kuxsjm/2024_plea_for_lean_software_with_running) - [A 2024 Plea for Lean Software (with running code)](https://berthub.eu/articles/posts/a-2024-plea-for-lean-software/)
 * [2024-01-18, 15:25:35](https://lobste.rs/s/odkiqa/trifecta_technology) - [Trifecta Technology](https://berthub.eu/articles/posts/trifecta-technology/)
@@ -21,7 +22,6 @@
 * [2024-01-17, 13:59:34](https://lobste.rs/s/o0lmln/wine_9_0_run_windows_apps_on_arm) - [Wine 9.0 - Run Windows apps on ARM](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.0)
 * [2024-01-17, 12:57:58](https://lobste.rs/s/xnzvea/htmx_is_composable) - [htmx is composable??](https://timkellogg.me/blog/2024/01/17/htmx)
 * [2024-01-17, 12:17:44](https://lobste.rs/s/s5tdvr/willow_protocol) - [Willow protocol](https://willowprotocol.org/)
-* [2024-01-17, 11:56:29](https://lobste.rs/s/xsmp7l/bare_minimum_atw_style_k_interpreter_for) - [bare minimum atw-style K interpreter for learning purposes](https://github.com/kparc/ksimple)
 * [2024-01-17, 11:51:04](https://lobste.rs/s/v8xovv/how_design_isa) - [How to Design an ISA](https://queue.acm.org/detail.cfm?id=3639445)
 * [2024-01-17, 11:13:13](https://lobste.rs/s/oaqtsr/running_openbsd_7_4_under_utm_on_macos) - [Running OpenBSD 7.4 under UTM on macOS](https://blog.adamretter.org.uk/running-openbsd-74-under-utm/)
 * [2024-01-17, 10:21:01](https://lobste.rs/s/svg37b/using_will_should_technical_writing) - [Using \"will\" and \"should\" in technical writing](https://jamesg.blog/2024/01/17/will-should/)
