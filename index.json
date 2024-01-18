@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-18, 10:04:12",
+      "https://lobste.rs/s/2ixz1y/cost_per_request"
+    ],
+    [
+      "Cost per Request",
+      "https://garrit.xyz/posts/2024-01-18-cost-per-request"
+    ]
+  ],
+  [
+    [
       "2024-01-18, 08:56:47",
       "https://lobste.rs/s/oeole6/modernizing_granite_s_mesh_rendering"
     ],
@@ -57,16 +67,6 @@
     [
       "Computing without Processors",
       "https://queue.acm.org/detail.cfm?id=2000516"
-    ]
-  ],
-  [
-    [
-      "2024-01-18, 05:31:42",
-      "https://lobste.rs/s/rvtips/tembo_operator_rust_based_kubernetes"
-    ],
-    [
-      "Tembo Operator: A Rust-based Kubernetes Operator for Postgres | Tembo",
-      "https://tembo.io/blog/tembo-operator/"
     ]
   ],
   [
