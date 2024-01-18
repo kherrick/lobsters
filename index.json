@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-01-17, 19:27:45",
-      "https://lobste.rs/s/80y8ju/doom_released_under_gplv2"
-    ],
-    [
-      "Doom released under GPLv2",
-      "https://github.com/id-Software/DOOM/commit/a77dfb96cb91780ca334d0d4cfd86957558007e0"
-    ]
-  ],
-  [
-    [
       "2024-01-17, 19:26:35",
       "https://lobste.rs/s/vwkxug/director_toy_story_also_drew_bsd_daemon"
     ],
@@ -237,6 +227,16 @@
     [
       "A NetBSD/amd64 guest can now boot in 40ms",
       "https://www.reddit.com/r/BSD/s/09ZWUI3Ufa"
+    ]
+  ],
+  [
+    [
+      "2024-01-16, 17:36:12",
+      "https://lobste.rs/s/jh4apf/go_wiki_rangefunc_experiment"
+    ],
+    [
+      "Go Wiki: Rangefunc Experiment",
+      "https://go.dev/wiki/RangefuncExperiment"
     ]
   ],
   [
