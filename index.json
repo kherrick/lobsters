@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2024-01-18, 05:31:42",
+      "https://lobste.rs/s/rvtips/tembo_operator_rust_based_kubernetes"
+    ],
+    [
+      "Tembo Operator: A Rust-based Kubernetes Operator for Postgres | Tembo",
+      "https://tembo.io/blog/tembo-operator/"
+    ]
+  ],
+  [
+    [
       "2024-01-18, 03:14:45",
       "https://lobste.rs/s/gh31la/cesil_controlled_xmas_tree_on_raspberry"
     ],
@@ -237,16 +247,6 @@
     [
       "Using \"will\" and \"should\" in technical writing",
       "https://jamesg.blog/2024/01/17/will-should/"
-    ]
-  ],
-  [
-    [
-      "2024-01-17, 01:19:43",
-      "https://lobste.rs/s/zrtxjw/passing_nothing_is_surprisingly"
-    ],
-    [
-      "Passing nothing is surprisingly difficult",
-      "https://davidben.net/2024/01/15/empty-slices.html"
     ]
   ]
 ]
