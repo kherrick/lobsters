@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-18, 13:09:03](https://lobste.rs/s/rtbcu9/gambit_c_embedding_c_code_directly_scheme) - [Gambit-C: Embedding C code directly in Scheme](https://www.deusinmachina.net/p/gambit-c-scheme-and-c-a-match-made)
 * [2024-01-18, 10:04:12](https://lobste.rs/s/2ixz1y/cost_per_request) - [Cost per Request](https://garrit.xyz/posts/2024-01-18-cost-per-request)
 * [2024-01-18, 08:56:47](https://lobste.rs/s/oeole6/modernizing_granite_s_mesh_rendering) - [Modernizing Granite’s mesh rendering](https://themaister.net/blog/2024/01/17/modernizing-granites-mesh-rendering/)
 * [2024-01-18, 08:28:43](https://lobste.rs/s/hcqmsw/using_mem_take_reduce_heap_allocations) - [Using `mem::take` to reduce heap allocations](https://ferrous-systems.com/blog/rustls-borrow-checker-p1/)
@@ -24,7 +25,6 @@
 * [2024-01-17, 11:13:13](https://lobste.rs/s/oaqtsr/running_openbsd_7_4_under_utm_on_macos) - [Running OpenBSD 7.4 under UTM on macOS](https://blog.adamretter.org.uk/running-openbsd-74-under-utm/)
 * [2024-01-17, 10:21:01](https://lobste.rs/s/svg37b/using_will_should_technical_writing) - [Using \"will\" and \"should\" in technical writing](https://jamesg.blog/2024/01/17/will-should/)
 * [2024-01-17, 01:19:43](https://lobste.rs/s/zrtxjw/passing_nothing_is_surprisingly) - [Passing nothing is surprisingly difficult](https://davidben.net/2024/01/15/empty-slices.html)
-* [2024-01-16, 20:42:48](https://lobste.rs/s/fee2p7/netbsd_amd64_guest_can_now_boot_40ms) - [A NetBSD/amd64 guest can now boot in 40ms](https://www.reddit.com/r/BSD/s/09ZWUI3Ufa)
 
 ## [Archives](archives/index.md)
 
