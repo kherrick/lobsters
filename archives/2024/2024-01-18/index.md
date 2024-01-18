@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-18](index.md)
 
+* [2024-01-18, 07:11:44](https://lobste.rs/s/fux9y2/have_you_successfully_automated_some) - [Have you successfully automated some task with a publicly-available, pre-trained AI model?](https://lobste.rs/s/fux9y2/have_you_successfully_automated_some)
 * [2024-01-18, 07:03:51](https://lobste.rs/s/jh9gj3/autopack_auto_build_run_react_app_within) - [Autopack - Auto build and run a React app within a Docker container without a Dockerfile](https://github.com/kaychaks/autopack)
 * [2024-01-18, 07:00:23](https://lobste.rs/s/j3pbbj/computing_without_processors) - [Computing without Processors](https://queue.acm.org/detail.cfm?id=2000516)
 * [2024-01-18, 05:31:42](https://lobste.rs/s/rvtips/tembo_operator_rust_based_kubernetes) - [Tembo Operator: A Rust-based Kubernetes Operator for Postgres | Tembo](https://tembo.io/blog/tembo-operator/)
