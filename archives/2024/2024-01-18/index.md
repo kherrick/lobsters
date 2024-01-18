@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-18](index.md)
 
+* [2024-01-18, 14:42:44](https://lobste.rs/s/vylnes/2024_financial_report_fundraiser) - [2024 Financial Report and Fundraiser](https://ziglang.org/news/2024-financials/#2024-financial-report-and-fundraiser)
 * [2024-01-18, 14:21:58](https://lobste.rs/s/igpzqd/scalable_oltp_cloud_what_s_big_deal) - [Scalable OLTP in the Cloud: What’s the BIG DEAL?](https://muratbuffalo.blogspot.com/2024/01/scalable-oltp-in-cloud-whats-big-deal.html)
 * [2024-01-18, 13:49:24](https://lobste.rs/s/4uude2/leftoverlocals_listening_llm_responses) - [LeftoverLocals:  Listening to LLM responses through leaked GPU local memory](https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory/)
 * [2024-01-18, 13:09:03](https://lobste.rs/s/rtbcu9/gambit_c_embedding_c_code_directly_scheme) - [Gambit-C: Embedding C code directly in Scheme](https://www.deusinmachina.net/p/gambit-c-scheme-and-c-a-match-made)
