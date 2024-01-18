@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-18, 02:16:15](https://lobste.rs/s/ggj98l/ai_not_so_good_parts) - [AI: the not-so-good parts](https://xeiaso.net/talks/2024/prepare-unforeseen-consequences/)
 * [2024-01-18, 01:36:33](https://lobste.rs/s/ocqk8h/dumping_rom_gba_game_by_crashing_it) - [Dumping the ROM of a GBA game by crashing it](https://www.youtube.com/watch?v=0-7PSmYYHF0)
 * [2024-01-17, 23:28:44](https://lobste.rs/s/bdpt9e/low_level_operations_for_volatile_memory) - [Low-level operations for volatile memory accesses](https://forums.swift.org/t/pitch-low-level-operations-for-volatile-memory-accesses/69483)
 * [2024-01-17, 22:50:28](https://lobste.rs/s/lgyyg2/misconceptions_on_top_misconceptions) - [Misconceptions on Top of Misconceptions](http://www.os2museum.com/wp/misconceptions-on-top-of-misconceptions/)
@@ -8,7 +9,6 @@
 * [2024-01-17, 19:26:35](https://lobste.rs/s/vwkxug/director_toy_story_also_drew_bsd_daemon) - [The Director of \"Toy Story\" also drew the BSD Daemon logo](https://www.jacobelder.com/2024/01/17/director-of-toy-story-also-drew-bsd-daemon.html)
 * [2024-01-17, 18:13:50](https://lobste.rs/s/2i2m3h/from_0_1_mb_dos) - [From 0 to 1 MB in DOS](https://blogsystem5.substack.com/p/from-0-to-1-mb-in-dos)
 * [2024-01-17, 16:39:05](https://lobste.rs/s/ex0xeq/ai_poisoning_could_turn_open_models_into) - [AI poisoning could turn open models into destructive “sleeper agents”](https://arstechnica.com/information-technology/2024/01/ai-poisoning-could-turn-open-models-into-destructive-sleeper-agents-says-anthropic/)
-* [2024-01-17, 16:22:42](https://lobste.rs/s/wkwgil/list_continuous_benchmarking_projects) - [A list of continuous benchmarking projects, articles, and tools](https://bencher.dev/docs/reference/prior-art/)
 * [2024-01-17, 16:21:42](https://lobste.rs/s/kgpsrm/beware_misleading_gpu_vs_cpu_benchmarks) - [Beware of misleading GPU vs CPU benchmarks](https://pythonspeed.com/articles/gpu-vs-cpu/)
 * [2024-01-17, 14:35:15](https://lobste.rs/s/jbo8lw/vms_on_macos_using_apple_s_native) - [VMs on MacOS using Apple’s native Virtualization.Framework](https://tart.run/)
 * [2024-01-17, 13:59:34](https://lobste.rs/s/o0lmln/wine_9_0_run_windows_apps_on_arm) - [Wine 9.0 - Run Windows apps on ARM](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.0)

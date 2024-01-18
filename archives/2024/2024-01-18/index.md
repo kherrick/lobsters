@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-01-18](index.md)
 
+* [2024-01-18, 02:16:15](https://lobste.rs/s/ggj98l/ai_not_so_good_parts) - [AI: the not-so-good parts](https://xeiaso.net/talks/2024/prepare-unforeseen-consequences/)
 * [2024-01-18, 01:36:33](https://lobste.rs/s/ocqk8h/dumping_rom_gba_game_by_crashing_it) - [Dumping the ROM of a GBA game by crashing it](https://www.youtube.com/watch?v=0-7PSmYYHF0)
