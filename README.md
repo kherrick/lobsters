@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-18, 08:56:47](https://lobste.rs/s/oeole6/modernizing_granite_s_mesh_rendering) - [Modernizing Granite’s mesh rendering](https://themaister.net/blog/2024/01/17/modernizing-granites-mesh-rendering/)
 * [2024-01-18, 08:28:43](https://lobste.rs/s/hcqmsw/using_mem_take_reduce_heap_allocations) - [Using `mem::take` to reduce heap allocations](https://ferrous-systems.com/blog/rustls-borrow-checker-p1/)
 * [2024-01-18, 08:09:13](https://lobste.rs/s/hm4vij/htmx_web_components_perfect_match) - [HTMX and Web Components: a Perfect Match](https://binaryigor.com/htmx-and-web-components-a-perfect-match.html)
 * [2024-01-18, 07:11:44](https://lobste.rs/s/fux9y2/have_you_successfully_automated_some) - [Have you successfully automated some task with a publicly-available, pre-trained AI model?](https://lobste.rs/s/fux9y2/have_you_successfully_automated_some)
@@ -13,7 +14,6 @@
 * [2024-01-17, 20:09:05](https://lobste.rs/s/lmp0rt/systemd_enable_indefinite_service) - [systemd: enable indefinite service restarts](https://michael.stapelberg.ch/posts/2024-01-17-systemd-indefinite-service-restarts/)
 * [2024-01-17, 19:26:35](https://lobste.rs/s/vwkxug/director_toy_story_also_drew_bsd_daemon) - [The Director of \"Toy Story\" also drew the BSD Daemon logo](https://www.jacobelder.com/2024/01/17/director-of-toy-story-also-drew-bsd-daemon.html)
 * [2024-01-17, 18:13:50](https://lobste.rs/s/2i2m3h/from_0_1_mb_dos) - [From 0 to 1 MB in DOS](https://blogsystem5.substack.com/p/from-0-to-1-mb-in-dos)
-* [2024-01-17, 16:39:05](https://lobste.rs/s/ex0xeq/ai_poisoning_could_turn_open_models_into) - [AI poisoning could turn open models into destructive “sleeper agents”](https://arstechnica.com/information-technology/2024/01/ai-poisoning-could-turn-open-models-into-destructive-sleeper-agents-says-anthropic/)
 * [2024-01-17, 16:21:42](https://lobste.rs/s/kgpsrm/beware_misleading_gpu_vs_cpu_benchmarks) - [Beware of misleading GPU vs CPU benchmarks](https://pythonspeed.com/articles/gpu-vs-cpu/)
 * [2024-01-17, 14:35:15](https://lobste.rs/s/jbo8lw/vms_on_macos_using_apple_s_native) - [VMs on MacOS using Apple’s native Virtualization.Framework](https://tart.run/)
 * [2024-01-17, 13:59:34](https://lobste.rs/s/o0lmln/wine_9_0_run_windows_apps_on_arm) - [Wine 9.0 - Run Windows apps on ARM](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.0)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-18](index.md)
 
+* [2024-01-18, 08:56:47](https://lobste.rs/s/oeole6/modernizing_granite_s_mesh_rendering) - [Modernizing Granite’s mesh rendering](https://themaister.net/blog/2024/01/17/modernizing-granites-mesh-rendering/)
 * [2024-01-18, 08:28:43](https://lobste.rs/s/hcqmsw/using_mem_take_reduce_heap_allocations) - [Using `mem::take` to reduce heap allocations](https://ferrous-systems.com/blog/rustls-borrow-checker-p1/)
 * [2024-01-18, 08:09:13](https://lobste.rs/s/hm4vij/htmx_web_components_perfect_match) - [HTMX and Web Components: a Perfect Match](https://binaryigor.com/htmx-and-web-components-a-perfect-match.html)
 * [2024-01-18, 07:11:44](https://lobste.rs/s/fux9y2/have_you_successfully_automated_some) - [Have you successfully automated some task with a publicly-available, pre-trained AI model?](https://lobste.rs/s/fux9y2/have_you_successfully_automated_some)
