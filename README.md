@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-18, 14:21:58](https://lobste.rs/s/igpzqd/scalable_oltp_cloud_what_s_big_deal) - [Scalable OLTP in the Cloud: What’s the BIG DEAL?](https://muratbuffalo.blogspot.com/2024/01/scalable-oltp-in-cloud-whats-big-deal.html)
 * [2024-01-18, 13:49:24](https://lobste.rs/s/4uude2/leftoverlocals_listening_llm_responses) - [LeftoverLocals:  Listening to LLM responses through leaked GPU local memory](https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory/)
 * [2024-01-18, 13:09:03](https://lobste.rs/s/rtbcu9/gambit_c_embedding_c_code_directly_scheme) - [Gambit-C: Embedding C code directly in Scheme](https://www.deusinmachina.net/p/gambit-c-scheme-and-c-a-match-made)
 * [2024-01-18, 10:04:12](https://lobste.rs/s/2ixz1y/cost_per_request) - [Cost per Request](https://garrit.xyz/posts/2024-01-18-cost-per-request)
@@ -9,7 +10,6 @@
 * [2024-01-18, 07:11:44](https://lobste.rs/s/fux9y2/have_you_successfully_automated_some) - [Have you successfully automated some task with a publicly-available, pre-trained AI model?](https://lobste.rs/s/fux9y2/have_you_successfully_automated_some)
 * [2024-01-18, 07:03:51](https://lobste.rs/s/jh9gj3/autopack_auto_build_run_react_app_within) - [Autopack - Auto build and run a React app within a Docker container without a Dockerfile](https://github.com/kaychaks/autopack)
 * [2024-01-18, 05:31:42](https://lobste.rs/s/rvtips/tembo_operator_rust_based_kubernetes) - [Tembo Operator: A Rust-based Kubernetes Operator for Postgres | Tembo](https://tembo.io/blog/tembo-operator/)
-* [2024-01-18, 03:14:45](https://lobste.rs/s/gh31la/cesil_controlled_xmas_tree_on_raspberry) - [CESIL controlled Xmas tree on the Raspberry Pi (2012)](https://projects.drogon.net/cesil-controlled-xmas-tree-on-the-raspberry-pi/)
 * [2024-01-18, 02:16:15](https://lobste.rs/s/ggj98l/ai_not_so_good_parts) - [AI: the not-so-good parts](https://xeiaso.net/talks/2024/prepare-unforeseen-consequences/)
 * [2024-01-18, 01:36:33](https://lobste.rs/s/ocqk8h/dumping_rom_gba_game_by_crashing_it) - [Dumping the ROM of a GBA game by crashing it](https://www.youtube.com/watch?v=0-7PSmYYHF0)
 * [2024-01-17, 22:50:28](https://lobste.rs/s/lgyyg2/misconceptions_on_top_misconceptions) - [Misconceptions on Top of Misconceptions](http://www.os2museum.com/wp/misconceptions-on-top-of-misconceptions/)
