@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-18, 08:28:43](https://lobste.rs/s/hcqmsw/using_mem_take_reduce_heap_allocations) - [Using `mem::take` to reduce heap allocations](https://ferrous-systems.com/blog/rustls-borrow-checker-p1/)
 * [2024-01-18, 08:09:13](https://lobste.rs/s/hm4vij/htmx_web_components_perfect_match) - [HTMX and Web Components: a Perfect Match](https://binaryigor.com/htmx-and-web-components-a-perfect-match.html)
 * [2024-01-18, 07:11:44](https://lobste.rs/s/fux9y2/have_you_successfully_automated_some) - [Have you successfully automated some task with a publicly-available, pre-trained AI model?](https://lobste.rs/s/fux9y2/have_you_successfully_automated_some)
 * [2024-01-18, 07:03:51](https://lobste.rs/s/jh9gj3/autopack_auto_build_run_react_app_within) - [Autopack - Auto build and run a React app within a Docker container without a Dockerfile](https://github.com/kaychaks/autopack)
@@ -22,7 +23,6 @@
 * [2024-01-17, 11:51:04](https://lobste.rs/s/v8xovv/how_design_isa) - [How to Design an ISA](https://queue.acm.org/detail.cfm?id=3639445)
 * [2024-01-17, 11:13:13](https://lobste.rs/s/oaqtsr/running_openbsd_7_4_under_utm_on_macos) - [Running OpenBSD 7.4 under UTM on macOS](https://blog.adamretter.org.uk/running-openbsd-74-under-utm/)
 * [2024-01-17, 10:21:01](https://lobste.rs/s/svg37b/using_will_should_technical_writing) - [Using \"will\" and \"should\" in technical writing](https://jamesg.blog/2024/01/17/will-should/)
-* [2024-01-17, 05:06:42](https://lobste.rs/s/ph9itf/lisp_query_notation) - [Lisp Query Notation](https://inconvergent.net/2024/lisp-query-notation/)
 * [2024-01-17, 01:19:43](https://lobste.rs/s/zrtxjw/passing_nothing_is_surprisingly) - [Passing nothing is surprisingly difficult](https://davidben.net/2024/01/15/empty-slices.html)
 * [2024-01-16, 20:42:48](https://lobste.rs/s/fee2p7/netbsd_amd64_guest_can_now_boot_40ms) - [A NetBSD/amd64 guest can now boot in 40ms](https://www.reddit.com/r/BSD/s/09ZWUI3Ufa)
 
