@@ -4,7 +4,6 @@
 * [2024-01-17, 22:50:28](https://lobste.rs/s/lgyyg2/misconceptions_on_top_misconceptions) - [Misconceptions on Top of Misconceptions](http://www.os2museum.com/wp/misconceptions-on-top-of-misconceptions/)
 * [2024-01-17, 20:15:29](https://lobste.rs/s/cxiemn/netdev_2023) - [netdev in 2023](https://people.kernel.org/kuba/netdev-in-2023)
 * [2024-01-17, 20:09:05](https://lobste.rs/s/lmp0rt/systemd_enable_indefinite_service) - [systemd: enable indefinite service restarts](https://michael.stapelberg.ch/posts/2024-01-17-systemd-indefinite-service-restarts/)
-* [2024-01-17, 19:27:45](https://lobste.rs/s/80y8ju/doom_released_under_gplv2) - [Doom released under GPLv2](https://github.com/id-Software/DOOM/commit/a77dfb96cb91780ca334d0d4cfd86957558007e0)
 * [2024-01-17, 19:26:35](https://lobste.rs/s/vwkxug/director_toy_story_also_drew_bsd_daemon) - [The Director of \"Toy Story\" also drew the BSD Daemon logo](https://www.jacobelder.com/2024/01/17/director-of-toy-story-also-drew-bsd-daemon.html)
 * [2024-01-17, 18:13:50](https://lobste.rs/s/2i2m3h/from_0_1_mb_dos) - [From 0 to 1 MB in DOS](https://blogsystem5.substack.com/p/from-0-to-1-mb-in-dos)
 * [2024-01-17, 16:39:05](https://lobste.rs/s/ex0xeq/ai_poisoning_could_turn_open_models_into) - [AI poisoning could turn open models into destructive “sleeper agents”](https://arstechnica.com/information-technology/2024/01/ai-poisoning-could-turn-open-models-into-destructive-sleeper-agents-says-anthropic/)
@@ -24,6 +23,7 @@
 * [2024-01-17, 01:19:43](https://lobste.rs/s/zrtxjw/passing_nothing_is_surprisingly) - [Passing nothing is surprisingly difficult](https://davidben.net/2024/01/15/empty-slices.html)
 * [2024-01-16, 21:21:34](https://lobste.rs/s/ebv01z/ruby_3_3_on_rails_1_0) - [Ruby (3.3) on Rails (1.0)](https://nashby.github.io/2024/01/15/ruby-3-on-rails-1/)
 * [2024-01-16, 20:42:48](https://lobste.rs/s/fee2p7/netbsd_amd64_guest_can_now_boot_40ms) - [A NetBSD/amd64 guest can now boot in 40ms](https://www.reddit.com/r/BSD/s/09ZWUI3Ufa)
+* [2024-01-16, 17:36:12](https://lobste.rs/s/jh4apf/go_wiki_rangefunc_experiment) - [Go Wiki: Rangefunc Experiment](https://go.dev/wiki/RangefuncExperiment)
 * [2024-01-16, 12:56:09](https://lobste.rs/s/e7m1vc/gleam_v0_34) - [Gleam v0.34](https://gleam.run/news/v0.34-multi-target-projects/)
 
 ## [Archives](archives/index.md)
