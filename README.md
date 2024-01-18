@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-01-18, 19:21:24](https://lobste.rs/s/kv9znz/perf_is_not_enough) - [Perf is not enough](https://motherduck.com/blog/perf-is-not-enough/)
-* [2024-01-18, 19:14:13](https://lobste.rs/s/ygqaee/tencent_releases_evalcrafter_on_hugging) - [Tencent releases EvalCrafter on Hugging Face](https://huggingface.co/spaces/AILab-CVC/EvalCrafter?s=09)
 * [2024-01-18, 18:50:39](https://lobste.rs/s/mkisrd/lend_me_your_ear_passive_remote_physical) - [Lend Me Your Ear: Passive Remote Physical Side Channels on PCs](https://faculty.cc.gatech.edu/~genkin/papers/lendear.pdf)
 * [2024-01-18, 17:17:08](https://lobste.rs/s/1qyp4w/faa_safety_continuum_doctrine) - [FAA Safety Continuum Doctrine](https://downloads.regulations.gov/FAA-2015-1621-0018/attachment_1.pdf)
 * [2024-01-18, 15:51:42](https://lobste.rs/s/agaiir/will_new_judicial_ruling_vizio_lawsuit) - [Will the new judicial ruling in the Vizio lawsuit strengthen the GPL?](https://blog.tidelift.com/will-the-new-judicial-ruling-in-the-vizio-lawsuit-strengthen-the-gpl)
@@ -15,6 +14,7 @@
 * [2024-01-18, 08:28:43](https://lobste.rs/s/hcqmsw/using_mem_take_reduce_heap_allocations) - [Using `mem::take` to reduce heap allocations](https://ferrous-systems.com/blog/rustls-borrow-checker-p1/)
 * [2024-01-18, 08:09:13](https://lobste.rs/s/hm4vij/htmx_web_components_perfect_match) - [HTMX and Web Components: a Perfect Match](https://binaryigor.com/htmx-and-web-components-a-perfect-match.html)
 * [2024-01-18, 07:11:44](https://lobste.rs/s/fux9y2/have_you_successfully_automated_some) - [Have you successfully automated some task with a publicly-available, pre-trained AI model?](https://lobste.rs/s/fux9y2/have_you_successfully_automated_some)
+* [2024-01-18, 07:03:51](https://lobste.rs/s/jh9gj3/autopack_auto_build_run_react_app_within) - [Autopack - Auto build and run a React app within a Docker container without a Dockerfile](https://github.com/kaychaks/autopack)
 * [2024-01-18, 01:36:33](https://lobste.rs/s/ocqk8h/dumping_rom_gba_game_by_crashing_it) - [Dumping the ROM of a GBA game by crashing it](https://www.youtube.com/watch?v=0-7PSmYYHF0)
 * [2024-01-17, 20:09:05](https://lobste.rs/s/lmp0rt/systemd_enable_indefinite_service) - [systemd: enable indefinite service restarts](https://michael.stapelberg.ch/posts/2024-01-17-systemd-indefinite-service-restarts/)
 * [2024-01-17, 19:26:35](https://lobste.rs/s/vwkxug/director_toy_story_also_drew_bsd_daemon) - [The Director of \"Toy Story\" also drew the BSD Daemon logo](https://www.jacobelder.com/2024/01/17/director-of-toy-story-also-drew-bsd-daemon.html)
