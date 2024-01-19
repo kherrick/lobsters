@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-19, 18:34:23](https://lobste.rs/s/js3e1t/mseal_gets_closer) - [mseal() gets closer](https://lwn.net/SubscriberLink/958438/d5f91f251b309612/)
 * [2024-01-19, 17:43:39](https://lobste.rs/s/0wcd8k/my_django_roadmap_ideas) - [My Django roadmap ideas](https://www.paulox.net/2024/01/19/my-django-roadmap-ideas/)
 * [2024-01-19, 15:22:04](https://lobste.rs/s/xwnkpy/on_demand_json_better_way_parse_documents) - [On-demand JSON: A better way to parse documents?](https://onlinelibrary.wiley.com/doi/10.1002/spe.3313)
 * [2024-01-19, 15:07:56](https://lobste.rs/s/jwt7td/handling_external_api_errors_resumable) - [Handling external API errors: A resumable approach](https://thoughtbot.com/blog/handling-errors-when-working-with-external-apis#when-to-choose-a-resumable-strategy)
@@ -18,7 +19,6 @@
 * [2024-01-18, 19:21:24](https://lobste.rs/s/kv9znz/perf_is_not_enough) - [Perf is not enough](https://motherduck.com/blog/perf-is-not-enough/)
 * [2024-01-18, 15:51:42](https://lobste.rs/s/agaiir/will_new_judicial_ruling_vizio_lawsuit) - [Will the new judicial ruling in the Vizio lawsuit strengthen the GPL?](https://blog.tidelift.com/will-the-new-judicial-ruling-in-the-vizio-lawsuit-strengthen-the-gpl)
 * [2024-01-18, 15:26:04](https://lobste.rs/s/kuxsjm/2024_plea_for_lean_software_with_running) - [A 2024 Plea for Lean Software (with running code)](https://berthub.eu/articles/posts/a-2024-plea-for-lean-software/)
-* [2024-01-18, 15:25:35](https://lobste.rs/s/odkiqa/trifecta_technology) - [Trifecta Technology](https://berthub.eu/articles/posts/trifecta-technology/)
 * [2024-01-18, 14:42:44](https://lobste.rs/s/vylnes/2024_financial_report_fundraiser) - [2024 Financial Report and Fundraiser](https://ziglang.org/news/2024-financials/#2024-financial-report-and-fundraiser)
 * [2024-01-18, 13:09:03](https://lobste.rs/s/rtbcu9/gambit_c_embedding_c_code_directly_scheme) - [Gambit-C: Embedding C code directly in Scheme](https://www.deusinmachina.net/p/gambit-c-scheme-and-c-a-match-made)
 * [2024-01-18, 10:04:12](https://lobste.rs/s/2ixz1y/cost_per_request) - [Cost per Request](https://garrit.xyz/posts/2024-01-18-cost-per-request)
