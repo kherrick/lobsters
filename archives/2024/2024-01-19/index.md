@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-01-19](index.md)
+
+* [2024-01-19, 01:41:18](https://lobste.rs/s/8q2qqa/you_might_only_need_microcontroller) - [You (Might) Only Need a Microcontroller (and a Server) for Computer Science](https://snats.xyz/pages/articles/all_you_need_is_a_microcontroller.html)

@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-19, 01:41:18](https://lobste.rs/s/8q2qqa/you_might_only_need_microcontroller) - [You (Might) Only Need a Microcontroller (and a Server) for Computer Science](https://snats.xyz/pages/articles/all_you_need_is_a_microcontroller.html)
 * [2024-01-18, 22:48:52](https://lobste.rs/s/tllk6x/inside_igalia_scaling_tech_co_op_beyond) - [Inside Igalia: Scaling a Tech Co-Op Beyond 100 Members](https://www.youtube.com/watch?v=du7fC8VCbXg)
 * [2024-01-18, 22:15:43](https://lobste.rs/s/wjxbad/inside_massive_naz_api_credential) - [Inside the Massive Naz.API Credential Stuffing List](https://www.troyhunt.com/inside-the-massive-naz-api-credential-stuffing-list/)
 * [2024-01-18, 20:30:53](https://lobste.rs/s/wrmpjp/test_command_line_application_written) - [Test command line application written in Rust](https://rust.code-maven.com/test-command-line-application)
 * [2024-01-18, 19:21:24](https://lobste.rs/s/kv9znz/perf_is_not_enough) - [Perf is not enough](https://motherduck.com/blog/perf-is-not-enough/)
-* [2024-01-18, 18:50:39](https://lobste.rs/s/mkisrd/lend_me_your_ear_passive_remote_physical) - [Lend Me Your Ear: Passive Remote Physical Side Channels on PCs](https://faculty.cc.gatech.edu/~genkin/papers/lendear.pdf)
 * [2024-01-18, 17:17:08](https://lobste.rs/s/1qyp4w/faa_safety_continuum_doctrine) - [FAA Safety Continuum Doctrine](https://downloads.regulations.gov/FAA-2015-1621-0018/attachment_1.pdf)
 * [2024-01-18, 15:51:42](https://lobste.rs/s/agaiir/will_new_judicial_ruling_vizio_lawsuit) - [Will the new judicial ruling in the Vizio lawsuit strengthen the GPL?](https://blog.tidelift.com/will-the-new-judicial-ruling-in-the-vizio-lawsuit-strengthen-the-gpl)
 * [2024-01-18, 15:26:04](https://lobste.rs/s/kuxsjm/2024_plea_for_lean_software_with_running) - [A 2024 Plea for Lean Software (with running code)](https://berthub.eu/articles/posts/a-2024-plea-for-lean-software/)
