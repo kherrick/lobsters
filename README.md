@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-19, 09:06:57](https://lobste.rs/s/jgezbz/first_steps_with_nix) - [First steps with Nix](https://nixos.asia/en/nix-first)
 * [2024-01-19, 07:42:23](https://lobste.rs/s/str88s/hans_reiser_on_reiserfs_deprecation) - [Hans Reiser on ReiserFS deprecation](https://lore.kernel.org/lkml/b98b29cf-27d9-49e0-b10b-1848399badfd@kittens.ph/T/#u)
 * [2024-01-19, 05:57:04](https://lobste.rs/s/cnehzt/c_returning_values_quickly_safely_not) - [C and returning values quickly or safely. But not both](https://subethasoftware.com/2024/01/18/c-and-returning-values-quickly-or-safely-but-not-both/)
 * [2024-01-19, 03:25:01](https://lobste.rs/s/igpfet/dave_mills_has_passed_away) - [Dave Mills has passed away](https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html)
@@ -12,7 +13,6 @@
 * [2024-01-18, 15:26:04](https://lobste.rs/s/kuxsjm/2024_plea_for_lean_software_with_running) - [A 2024 Plea for Lean Software (with running code)](https://berthub.eu/articles/posts/a-2024-plea-for-lean-software/)
 * [2024-01-18, 15:25:35](https://lobste.rs/s/odkiqa/trifecta_technology) - [Trifecta Technology](https://berthub.eu/articles/posts/trifecta-technology/)
 * [2024-01-18, 14:42:44](https://lobste.rs/s/vylnes/2024_financial_report_fundraiser) - [2024 Financial Report and Fundraiser](https://ziglang.org/news/2024-financials/#2024-financial-report-and-fundraiser)
-* [2024-01-18, 14:21:58](https://lobste.rs/s/igpzqd/scalable_oltp_cloud_what_s_big_deal) - [Scalable OLTP in the Cloud: What’s the big deal?](https://muratbuffalo.blogspot.com/2024/01/scalable-oltp-in-cloud-whats-big-deal.html)
 * [2024-01-18, 13:49:24](https://lobste.rs/s/4uude2/leftoverlocals_listening_llm_responses) - [LeftoverLocals:  Listening to LLM responses through leaked GPU local memory](https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory/)
 * [2024-01-18, 13:09:03](https://lobste.rs/s/rtbcu9/gambit_c_embedding_c_code_directly_scheme) - [Gambit-C: Embedding C code directly in Scheme](https://www.deusinmachina.net/p/gambit-c-scheme-and-c-a-match-made)
 * [2024-01-18, 10:04:12](https://lobste.rs/s/2ixz1y/cost_per_request) - [Cost per Request](https://garrit.xyz/posts/2024-01-18-cost-per-request)
