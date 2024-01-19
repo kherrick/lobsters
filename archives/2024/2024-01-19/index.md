@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 15:07:56](https://lobste.rs/s/jwt7td/handling_external_api_errors_resumable) - [Handling external API errors: A resumable approach](https://thoughtbot.com/blog/handling-errors-when-working-with-external-apis#when-to-choose-a-resumable-strategy)
 * [2024-01-19, 14:25:02](https://lobste.rs/s/xqktfo/stratified_design_over_layered_design) - [Stratified Design over Layered Design](https://ccd-school.de/2017/06/stratified-design-over-layered-design/)
 * [2024-01-19, 14:03:56](https://lobste.rs/s/tg8ofb/gleam_s_new_interactive_language_tour) - [Gleam's New Interactive Language Tour](https://gleam.run/news/gleams-new-interactive-language-tour/)
 * [2024-01-19, 14:01:56](https://lobste.rs/s/sf4092/gleam_language_tour) - [Gleam language tour](https://tour.gleam.run/)

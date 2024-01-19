@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-19, 15:07:56](https://lobste.rs/s/jwt7td/handling_external_api_errors_resumable) - [Handling external API errors: A resumable approach](https://thoughtbot.com/blog/handling-errors-when-working-with-external-apis#when-to-choose-a-resumable-strategy)
 * [2024-01-19, 14:25:02](https://lobste.rs/s/xqktfo/stratified_design_over_layered_design) - [Stratified Design over Layered Design](https://ccd-school.de/2017/06/stratified-design-over-layered-design/)
 * [2024-01-19, 14:03:56](https://lobste.rs/s/tg8ofb/gleam_s_new_interactive_language_tour) - [Gleam's New Interactive Language Tour](https://gleam.run/news/gleams-new-interactive-language-tour/)
 * [2024-01-19, 14:01:56](https://lobste.rs/s/sf4092/gleam_language_tour) - [Gleam language tour](https://tour.gleam.run/)
@@ -23,7 +24,6 @@
 * [2024-01-18, 08:28:43](https://lobste.rs/s/hcqmsw/using_mem_take_reduce_heap_allocations) - [Using `mem::take` to reduce heap allocations](https://ferrous-systems.com/blog/rustls-borrow-checker-p1/)
 * [2024-01-18, 08:09:13](https://lobste.rs/s/hm4vij/htmx_web_components_perfect_match) - [HTMX and Web Components: a Perfect Match](https://binaryigor.com/htmx-and-web-components-a-perfect-match.html)
 * [2024-01-17, 20:09:05](https://lobste.rs/s/lmp0rt/systemd_enable_indefinite_service) - [systemd: enable indefinite service restarts](https://michael.stapelberg.ch/posts/2024-01-17-systemd-indefinite-service-restarts/)
-* [2024-01-17, 12:57:58](https://lobste.rs/s/xnzvea/htmx_is_composable) - [htmx is composable??](https://timkellogg.me/blog/2024/01/17/htmx)
 * [2024-01-17, 11:51:04](https://lobste.rs/s/v8xovv/how_design_isa) - [How to Design an ISA](https://queue.acm.org/detail.cfm?id=3639445)
 
 ## [Archives](archives/index.md)
