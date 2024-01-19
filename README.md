@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-19, 13:06:34](https://lobste.rs/s/peoswm/qi_accelerated_qi_4_release_announcement) - [Qi Accelerated - Qi 4 release announcement](https://racket.discourse.group/t/qi-accelerated-qi-4-release-announcement/2672?u=spdegabrielle)
 * [2024-01-19, 12:11:14](https://lobste.rs/s/acqtoh/why_i_m_learning_deno) - [Why I’m learning Deno](https://commonlog.jjude.com/why-im-learning-deno/)
 * [2024-01-19, 12:04:14](https://lobste.rs/s/20sk9r/bridging_gap_between_language) - [Bridging the Gap Between Language Innovation and Community Understanding](https://lobste.rs/s/20sk9r/bridging_gap_between_language)
 * [2024-01-19, 11:10:24](https://lobste.rs/s/znntjt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/znntjt/what_are_you_doing_this_weekend)
@@ -23,7 +24,6 @@
 * [2024-01-17, 20:09:05](https://lobste.rs/s/lmp0rt/systemd_enable_indefinite_service) - [systemd: enable indefinite service restarts](https://michael.stapelberg.ch/posts/2024-01-17-systemd-indefinite-service-restarts/)
 * [2024-01-17, 19:26:35](https://lobste.rs/s/vwkxug/director_toy_story_also_drew_bsd_daemon) - [The Director of \"Toy Story\" also drew the BSD Daemon logo](https://www.jacobelder.com/2024/01/17/director-of-toy-story-also-drew-bsd-daemon.html)
 * [2024-01-17, 12:57:58](https://lobste.rs/s/xnzvea/htmx_is_composable) - [htmx is composable??](https://timkellogg.me/blog/2024/01/17/htmx)
-* [2024-01-17, 12:17:44](https://lobste.rs/s/s5tdvr/willow_protocol) - [Willow protocol](https://willowprotocol.org/)
 * [2024-01-17, 11:51:04](https://lobste.rs/s/v8xovv/how_design_isa) - [How to Design an ISA](https://queue.acm.org/detail.cfm?id=3639445)
 
 ## [Archives](archives/index.md)

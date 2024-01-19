@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 13:06:34](https://lobste.rs/s/peoswm/qi_accelerated_qi_4_release_announcement) - [Qi Accelerated - Qi 4 release announcement](https://racket.discourse.group/t/qi-accelerated-qi-4-release-announcement/2672?u=spdegabrielle)
 * [2024-01-19, 12:11:14](https://lobste.rs/s/acqtoh/why_i_m_learning_deno) - [Why I’m learning Deno](https://commonlog.jjude.com/why-im-learning-deno/)
 * [2024-01-19, 12:04:14](https://lobste.rs/s/20sk9r/bridging_gap_between_language) - [Bridging the Gap Between Language Innovation and Community Understanding](https://lobste.rs/s/20sk9r/bridging_gap_between_language)
 * [2024-01-19, 11:10:24](https://lobste.rs/s/znntjt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/znntjt/what_are_you_doing_this_weekend)
