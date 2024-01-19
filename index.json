@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-19, 18:52:07",
+      "https://lobste.rs/s/gvdmhx/most_important_goal_designing_software"
+    ],
+    [
+      "The most important goal in designing software is understandability",
+      "https://ntietz.com/blog/the-most-important-goal-in-designing-software-is-understandability/"
+    ]
+  ],
+  [
+    [
       "2024-01-19, 18:34:23",
       "https://lobste.rs/s/js3e1t/mseal_gets_closer"
     ],
@@ -107,16 +117,6 @@
     [
       "First steps with Nix",
       "https://nixos.asia/en/nix-first"
-    ]
-  ],
-  [
-    [
-      "2024-01-19, 07:42:23",
-      "https://lobste.rs/s/str88s/hans_reiser_on_reiserfs_deprecation"
-    ],
-    [
-      "Hans Reiser on ReiserFS deprecation",
-      "https://lore.kernel.org/lkml/b98b29cf-27d9-49e0-b10b-1848399badfd@kittens.ph/T/#u"
     ]
   ],
   [
