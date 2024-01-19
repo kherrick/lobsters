@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 18:52:07](https://lobste.rs/s/gvdmhx/most_important_goal_designing_software) - [The most important goal in designing software is understandability](https://ntietz.com/blog/the-most-important-goal-in-designing-software-is-understandability/)
 * [2024-01-19, 18:34:23](https://lobste.rs/s/js3e1t/mseal_gets_closer) - [mseal() gets closer](https://lwn.net/SubscriberLink/958438/d5f91f251b309612/)
 * [2024-01-19, 17:43:39](https://lobste.rs/s/0wcd8k/my_django_roadmap_ideas) - [My Django roadmap ideas](https://www.paulox.net/2024/01/19/my-django-roadmap-ideas/)
 * [2024-01-19, 15:48:27](https://lobste.rs/s/c9sfcd/sourcehut_network_outage_post_mortem) - [SourceHut network outage post-mortem](https://sourcehut.org/blog/2024-01-19-outage-post-mortem/)

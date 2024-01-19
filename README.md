@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-19, 18:52:07](https://lobste.rs/s/gvdmhx/most_important_goal_designing_software) - [The most important goal in designing software is understandability](https://ntietz.com/blog/the-most-important-goal-in-designing-software-is-understandability/)
 * [2024-01-19, 18:34:23](https://lobste.rs/s/js3e1t/mseal_gets_closer) - [mseal() gets closer](https://lwn.net/SubscriberLink/958438/d5f91f251b309612/)
 * [2024-01-19, 17:43:39](https://lobste.rs/s/0wcd8k/my_django_roadmap_ideas) - [My Django roadmap ideas](https://www.paulox.net/2024/01/19/my-django-roadmap-ideas/)
 * [2024-01-19, 15:22:04](https://lobste.rs/s/xwnkpy/on_demand_json_better_way_parse_documents) - [On-demand JSON: A better way to parse documents?](https://onlinelibrary.wiley.com/doi/10.1002/spe.3313)
@@ -11,7 +12,6 @@
 * [2024-01-19, 12:11:14](https://lobste.rs/s/acqtoh/why_i_m_learning_deno) - [Why I’m learning Deno](https://commonlog.jjude.com/why-im-learning-deno/)
 * [2024-01-19, 11:10:24](https://lobste.rs/s/znntjt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/znntjt/what_are_you_doing_this_weekend)
 * [2024-01-19, 09:06:57](https://lobste.rs/s/jgezbz/first_steps_with_nix) - [First steps with Nix](https://nixos.asia/en/nix-first)
-* [2024-01-19, 07:42:23](https://lobste.rs/s/str88s/hans_reiser_on_reiserfs_deprecation) - [Hans Reiser on ReiserFS deprecation](https://lore.kernel.org/lkml/b98b29cf-27d9-49e0-b10b-1848399badfd@kittens.ph/T/#u)
 * [2024-01-19, 05:57:04](https://lobste.rs/s/cnehzt/c_returning_values_quickly_safely_not) - [C and returning values quickly or safely. But not both](https://subethasoftware.com/2024/01/18/c-and-returning-values-quickly-or-safely-but-not-both/)
 * [2024-01-19, 03:25:01](https://lobste.rs/s/igpfet/dave_mills_has_passed_away) - [Dave Mills has passed away](https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html)
 * [2024-01-19, 01:41:18](https://lobste.rs/s/8q2qqa/you_might_only_need_microcontroller) - [You (Might) Only Need a Microcontroller (and a Server) for Computer Science](https://snats.xyz/pages/articles/all_you_need_is_a_microcontroller.html)
