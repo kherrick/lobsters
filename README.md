@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-19, 19:30:17](https://lobste.rs/s/vvzky0/memory_leak_proof_every_c_program) - [memory leak proof every C program](https://flak.tedunangst.com/post/memory-leak-proof-every-C-program)
 * [2024-01-19, 18:52:07](https://lobste.rs/s/gvdmhx/most_important_goal_designing_software) - [The most important goal in designing software is understandability](https://ntietz.com/blog/the-most-important-goal-in-designing-software-is-understandability/)
 * [2024-01-19, 18:34:23](https://lobste.rs/s/js3e1t/mseal_gets_closer) - [mseal() gets closer](https://lwn.net/SubscriberLink/958438/d5f91f251b309612/)
 * [2024-01-19, 17:43:39](https://lobste.rs/s/0wcd8k/my_django_roadmap_ideas) - [My Django roadmap ideas](https://www.paulox.net/2024/01/19/my-django-roadmap-ideas/)
@@ -24,7 +25,6 @@
 * [2024-01-18, 10:04:12](https://lobste.rs/s/2ixz1y/cost_per_request) - [Cost per Request](https://garrit.xyz/posts/2024-01-18-cost-per-request)
 * [2024-01-18, 08:28:43](https://lobste.rs/s/hcqmsw/using_mem_take_reduce_heap_allocations) - [Using `mem::take` to reduce heap allocations](https://ferrous-systems.com/blog/rustls-borrow-checker-p1/)
 * [2024-01-18, 08:09:13](https://lobste.rs/s/hm4vij/htmx_web_components_perfect_match) - [HTMX and Web Components: a Perfect Match](https://binaryigor.com/htmx-and-web-components-a-perfect-match.html)
-* [2024-01-17, 11:51:04](https://lobste.rs/s/v8xovv/how_design_isa) - [How to Design an ISA](https://queue.acm.org/detail.cfm?id=3639445)
 
 ## [Archives](archives/index.md)
 
