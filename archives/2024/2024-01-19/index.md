@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 21:46:18](https://lobste.rs/s/gzhnsm/platform_tilt_by_mozilla) - [Platform Tilt by Mozilla](https://mozilla.github.io/platform-tilt/)
 * [2024-01-19, 21:35:59](https://lobste.rs/s/lh0f8v/platform_tilt_documenting_uneven) - [Platform Tilt: Documenting the Uneven Playing Field for an Independent Browser Like Firefox](https://blog.mozilla.org/netpolicy/2024/01/19/platform-tilt/)
 * [2024-01-19, 20:34:08](https://lobste.rs/s/bc3mqm/my_best_worst_deadlock_rust) - [My Best and Worst Deadlock in Rust](https://www.snoyman.com/blog/2024/01/best-worst-deadlock-rust/)
 * [2024-01-19, 19:30:17](https://lobste.rs/s/vvzky0/memory_leak_proof_every_c_program) - [memory leak proof every C program](https://flak.tedunangst.com/post/memory-leak-proof-every-C-program)
