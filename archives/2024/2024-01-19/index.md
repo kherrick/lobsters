@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-19](index.md)
 
+* [2024-01-19, 11:10:24](https://lobste.rs/s/znntjt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/znntjt/what_are_you_doing_this_weekend)
 * [2024-01-19, 09:06:57](https://lobste.rs/s/jgezbz/first_steps_with_nix) - [First steps with Nix](https://nixos.asia/en/nix-first)
 * [2024-01-19, 07:42:23](https://lobste.rs/s/str88s/hans_reiser_on_reiserfs_deprecation) - [Hans Reiser on ReiserFS deprecation](https://lore.kernel.org/lkml/b98b29cf-27d9-49e0-b10b-1848399badfd@kittens.ph/T/#u)
 * [2024-01-19, 05:57:04](https://lobste.rs/s/cnehzt/c_returning_values_quickly_safely_not) - [C and returning values quickly or safely. But not both](https://subethasoftware.com/2024/01/18/c-and-returning-values-quickly-or-safely-but-not-both/)
