@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-19, 20:34:08](https://lobste.rs/s/bc3mqm/my_best_worst_deadlock_rust) - [My Best and Worst Deadlock in Rust](https://www.snoyman.com/blog/2024/01/best-worst-deadlock-rust/)
 * [2024-01-19, 19:30:17](https://lobste.rs/s/vvzky0/memory_leak_proof_every_c_program) - [memory leak proof every C program](https://flak.tedunangst.com/post/memory-leak-proof-every-C-program)
 * [2024-01-19, 18:52:07](https://lobste.rs/s/gvdmhx/most_important_goal_designing_software) - [The most important goal in designing software is understandability](https://ntietz.com/blog/the-most-important-goal-in-designing-software-is-understandability/)
 * [2024-01-19, 18:34:23](https://lobste.rs/s/js3e1t/mseal_gets_closer) - [mseal() gets closer](https://lwn.net/SubscriberLink/958438/d5f91f251b309612/)
@@ -16,7 +17,6 @@
 * [2024-01-19, 05:57:04](https://lobste.rs/s/cnehzt/c_returning_values_quickly_safely_not) - [C and returning values quickly or safely. But not both](https://subethasoftware.com/2024/01/18/c-and-returning-values-quickly-or-safely-but-not-both/)
 * [2024-01-19, 03:25:01](https://lobste.rs/s/igpfet/dave_mills_has_passed_away) - [Dave Mills has passed away](https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html)
 * [2024-01-19, 01:41:18](https://lobste.rs/s/8q2qqa/you_might_only_need_microcontroller) - [You (Might) Only Need a Microcontroller (and a Server) for Computer Science](https://snats.xyz/pages/articles/all_you_need_is_a_microcontroller.html)
-* [2024-01-18, 22:48:52](https://lobste.rs/s/tllk6x/inside_igalia_scaling_tech_co_op_beyond) - [Inside Igalia: Scaling a Tech Co-Op Beyond 100 Members](https://www.youtube.com/watch?v=du7fC8VCbXg)
 * [2024-01-18, 19:21:24](https://lobste.rs/s/kv9znz/perf_is_not_enough) - [Perf is not enough](https://motherduck.com/blog/perf-is-not-enough/)
 * [2024-01-18, 15:51:42](https://lobste.rs/s/agaiir/will_new_judicial_ruling_vizio_lawsuit) - [Will the new judicial ruling in the Vizio lawsuit strengthen the GPL?](https://blog.tidelift.com/will-the-new-judicial-ruling-in-the-vizio-lawsuit-strengthen-the-gpl)
 * [2024-01-18, 15:26:04](https://lobste.rs/s/kuxsjm/2024_plea_for_lean_software_with_running) - [A 2024 Plea for Lean Software (with running code)](https://berthub.eu/articles/posts/a-2024-plea-for-lean-software/)
