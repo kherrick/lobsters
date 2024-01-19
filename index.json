@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-19, 05:57:04",
+      "https://lobste.rs/s/cnehzt/c_returning_values_quickly_safely_not"
+    ],
+    [
+      "C and returning values quickly or safely. But not both",
+      "https://subethasoftware.com/2024/01/18/c-and-returning-values-quickly-or-safely-but-not-both/"
+    ]
+  ],
+  [
+    [
       "2024-01-19, 03:25:01",
       "https://lobste.rs/s/igpfet/dave_mills_has_passed_away"
     ],
@@ -37,16 +47,6 @@
     [
       "Inside the Massive Naz.API Credential Stuffing List",
       "https://www.troyhunt.com/inside-the-massive-naz-api-credential-stuffing-list/"
-    ]
-  ],
-  [
-    [
-      "2024-01-18, 20:30:53",
-      "https://lobste.rs/s/wrmpjp/test_command_line_application_written"
-    ],
-    [
-      "Test command line application written in Rust",
-      "https://rust.code-maven.com/test-command-line-application"
     ]
   ],
   [
