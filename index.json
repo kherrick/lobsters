@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-19, 17:43:39",
+      "https://lobste.rs/s/0wcd8k/my_django_roadmap_ideas"
+    ],
+    [
+      "My Django roadmap ideas",
+      "https://www.paulox.net/2024/01/19/my-django-roadmap-ideas/"
+    ]
+  ],
+  [
+    [
       "2024-01-19, 15:22:04",
       "https://lobste.rs/s/xwnkpy/on_demand_json_better_way_parse_documents"
     ],
@@ -227,16 +237,6 @@
     [
       "HTMX and Web Components: a Perfect Match",
       "https://binaryigor.com/htmx-and-web-components-a-perfect-match.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-17, 20:09:05",
-      "https://lobste.rs/s/lmp0rt/systemd_enable_indefinite_service"
-    ],
-    [
-      "systemd: enable indefinite service restarts",
-      "https://michael.stapelberg.ch/posts/2024-01-17-systemd-indefinite-service-restarts/"
     ]
   ],
   [
