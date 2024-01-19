@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-19, 21:46:18",
+      "https://lobste.rs/s/gzhnsm/platform_tilt_by_mozilla"
+    ],
+    [
+      "Platform Tilt by Mozilla",
+      "https://mozilla.github.io/platform-tilt/"
+    ]
+  ],
+  [
+    [
       "2024-01-19, 21:35:59",
       "https://lobste.rs/s/lh0f8v/platform_tilt_documenting_uneven"
     ],
@@ -227,16 +237,6 @@
     [
       "Cost per Request",
       "https://garrit.xyz/posts/2024-01-18-cost-per-request"
-    ]
-  ],
-  [
-    [
-      "2024-01-18, 08:28:43",
-      "https://lobste.rs/s/hcqmsw/using_mem_take_reduce_heap_allocations"
-    ],
-    [
-      "Using `mem::take` to reduce heap allocations",
-      "https://ferrous-systems.com/blog/rustls-borrow-checker-p1/"
     ]
   ],
   [
