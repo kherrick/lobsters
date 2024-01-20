@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-20](index.md)
 
+* [2024-01-20, 13:15:06](https://lobste.rs/s/p6t5zo/embracing_simplicity_my_journey) - [Embracing Simplicity: My Journey to the DuckDuckGo Browser](https://sepi.me/posts/ddg-browser-improvements/)
 * [2024-01-20, 11:47:39](https://lobste.rs/s/iyykuk/wire_routing_control_scheme) - [Wire Routing Control Scheme](https://www.1a-insec.net/blog/31-wire-routing-input-scheme/)
 * [2024-01-20, 10:54:07](https://lobste.rs/s/dflejq/dissecting_nvidia_volta_gpu) - [Dissecting the NVIDIA Volta GPU Architecture via Microbenchmarking (2018)](https://arxiv.org/pdf/1804.06826.pdf)
 * [2024-01-20, 09:56:46](https://lobste.rs/s/afeve0/ceph_journey_1_tib_s) - [Ceph: A Journey to 1 TiB/s](https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/)
