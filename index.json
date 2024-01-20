@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-20, 06:24:25",
+      "https://lobste.rs/s/tah4r8/why_go_is_my_favorite_programming"
+    ],
+    [
+      "Why Go is my favorite programming language (2017)",
+      "https://michael.stapelberg.ch/posts/2017-08-19-golang_favorite/"
+    ]
+  ],
+  [
+    [
       "2024-01-20, 04:37:56",
       "https://lobste.rs/s/n0fhh0/data_model_debt_is_forever"
     ],
@@ -237,16 +247,6 @@
     [
       "2024 Financial Report and Fundraiser",
       "https://ziglang.org/news/2024-financials/#2024-financial-report-and-fundraiser"
-    ]
-  ],
-  [
-    [
-      "2024-01-18, 13:09:03",
-      "https://lobste.rs/s/rtbcu9/gambit_c_embedding_c_code_directly_scheme"
-    ],
-    [
-      "Gambit-C: Embedding C code directly in Scheme",
-      "https://www.deusinmachina.net/p/gambit-c-scheme-and-c-a-match-made"
     ]
   ]
 ]
