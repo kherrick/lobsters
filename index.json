@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-20, 10:54:07",
+      "https://lobste.rs/s/dflejq/dissecting_nvidia_volta_gpu"
+    ],
+    [
+      "Dissecting the NVIDIA Volta GPU Architecture via Microbenchmarking (2018)",
+      "https://arxiv.org/pdf/1804.06826.pdf"
+    ]
+  ],
+  [
+    [
       "2024-01-20, 09:56:46",
       "https://lobste.rs/s/afeve0/ceph_journey_1_tib_s"
     ],
@@ -52,10 +62,10 @@
   [
     [
       "2024-01-20, 02:23:21",
-      "https://lobste.rs/s/puizdg/why_lowercase_letters_save_data_endtimes"
+      "https://lobste.rs/s/puizdg/why_lowercase_letters_save_data"
     ],
     [
-      "why lowercase letters save data | endtimes.dev",
+      "why lowercase letters save data",
       "https://endtimes.dev/why-lowercase-letters-save-data/"
     ]
   ],
@@ -137,16 +147,6 @@
     [
       "My Django roadmap ideas",
       "https://www.paulox.net/2024/01/19/my-django-roadmap-ideas/"
-    ]
-  ],
-  [
-    [
-      "2024-01-19, 15:22:04",
-      "https://lobste.rs/s/xwnkpy/on_demand_json_better_way_parse_documents"
-    ],
-    [
-      "On-demand JSON: A better way to parse documents?",
-      "https://onlinelibrary.wiley.com/doi/10.1002/spe.3313"
     ]
   ],
   [
