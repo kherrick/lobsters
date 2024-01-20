@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-20, 06:24:25](https://lobste.rs/s/tah4r8/why_go_is_my_favorite_programming) - [Why Go is my favorite programming language (2017)](https://michael.stapelberg.ch/posts/2017-08-19-golang_favorite/)
 * [2024-01-20, 04:37:56](https://lobste.rs/s/n0fhh0/data_model_debt_is_forever) - [Data Model Debt is Forever](https://emmanuelgenard.com/software-design/2024/01/19/data-model-debt-is-forever/)
 * [2024-01-20, 03:30:57](https://lobste.rs/s/pncbt2/nightshade_protecting_copyright) - [Nightshade: Protecting Copyright](https://nightshade.cs.uchicago.edu/whatis.html)
 * [2024-01-20, 02:23:21](https://lobste.rs/s/puizdg/why_lowercase_letters_save_data_endtimes) - [why lowercase letters save data | endtimes.dev](https://endtimes.dev/why-lowercase-letters-save-data/)
@@ -24,7 +25,6 @@
 * [2024-01-19, 01:41:18](https://lobste.rs/s/8q2qqa/you_might_only_need_microcontroller) - [You (Might) Only Need a Microcontroller (and a Server) for Computer Science](https://snats.xyz/pages/articles/all_you_need_is_a_microcontroller.html)
 * [2024-01-18, 15:51:42](https://lobste.rs/s/agaiir/will_new_judicial_ruling_vizio_lawsuit) - [Will the new judicial ruling in the Vizio lawsuit strengthen the GPL?](https://blog.tidelift.com/will-the-new-judicial-ruling-in-the-vizio-lawsuit-strengthen-the-gpl)
 * [2024-01-18, 14:42:44](https://lobste.rs/s/vylnes/2024_financial_report_fundraiser) - [2024 Financial Report and Fundraiser](https://ziglang.org/news/2024-financials/#2024-financial-report-and-fundraiser)
-* [2024-01-18, 13:09:03](https://lobste.rs/s/rtbcu9/gambit_c_embedding_c_code_directly_scheme) - [Gambit-C: Embedding C code directly in Scheme](https://www.deusinmachina.net/p/gambit-c-scheme-and-c-a-match-made)
 
 ## [Archives](archives/index.md)
 

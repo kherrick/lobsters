@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-20](index.md)
 
+* [2024-01-20, 06:24:25](https://lobste.rs/s/tah4r8/why_go_is_my_favorite_programming) - [Why Go is my favorite programming language (2017)](https://michael.stapelberg.ch/posts/2017-08-19-golang_favorite/)
 * [2024-01-20, 04:37:56](https://lobste.rs/s/n0fhh0/data_model_debt_is_forever) - [Data Model Debt is Forever](https://emmanuelgenard.com/software-design/2024/01/19/data-model-debt-is-forever/)
 * [2024-01-20, 03:30:57](https://lobste.rs/s/pncbt2/nightshade_protecting_copyright) - [Nightshade: Protecting Copyright](https://nightshade.cs.uchicago.edu/whatis.html)
 * [2024-01-20, 02:23:21](https://lobste.rs/s/puizdg/why_lowercase_letters_save_data_endtimes) - [why lowercase letters save data | endtimes.dev](https://endtimes.dev/why-lowercase-letters-save-data/)
