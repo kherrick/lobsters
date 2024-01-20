@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-20, 18:49:41",
+      "https://lobste.rs/s/ipssk2/investigating_vanishing_bios_on_fujitsu"
+    ],
+    [
+      "Investigating a vanishing BIOS on the Fujitsu LIFEBOOK AH532",
+      "https://blog.timschumi.net/2024/01/20/ah532-bios-investigation.html"
+    ]
+  ],
+  [
+    [
       "2024-01-20, 18:02:19",
       "https://lobste.rs/s/yh5kx5/bun_shell"
     ],
@@ -237,16 +247,6 @@
     [
       "First steps with Nix",
       "https://nixos.asia/en/nix-first"
-    ]
-  ],
-  [
-    [
-      "2024-01-19, 03:25:01",
-      "https://lobste.rs/s/igpfet/dave_mills_has_passed_away"
-    ],
-    [
-      "Dave Mills has passed away",
-      "https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html"
     ]
   ]
 ]
