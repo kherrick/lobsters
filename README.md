@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-20, 16:15:44](https://lobste.rs/s/7bir4v/like_streamlit_with_backend) - [Like Streamlit but with a backend](https://github.com/avaiga/taipy)
 * [2024-01-20, 15:45:26](https://lobste.rs/s/fjq4gy/fast_winding_numbers_for_soups_clouds) - [Fast Winding Numbers for Soups and Clouds (2018)](https://www.dgp.toronto.edu/projects/fast-winding-numbers/)
 * [2024-01-20, 14:44:54](https://lobste.rs/s/66ebq2/continuous_integration) - [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)
 * [2024-01-20, 13:15:06](https://lobste.rs/s/p6t5zo/embracing_simplicity_my_journey) - [Embracing Simplicity: My Journey to the DuckDuckGo Browser](https://sepi.me/posts/ddg-browser-improvements/)
@@ -17,7 +18,6 @@
 * [2024-01-19, 18:52:07](https://lobste.rs/s/gvdmhx/most_important_goal_designing_software) - [The most important goal in designing software is understandability](https://ntietz.com/blog/the-most-important-goal-in-designing-software-is-understandability/)
 * [2024-01-19, 18:34:23](https://lobste.rs/s/js3e1t/mseal_gets_closer) - [mseal() gets closer](https://lwn.net/SubscriberLink/958438/d5f91f251b309612/)
 * [2024-01-19, 17:43:39](https://lobste.rs/s/0wcd8k/my_django_roadmap_ideas) - [My Django roadmap ideas](https://www.paulox.net/2024/01/19/my-django-roadmap-ideas/)
-* [2024-01-19, 15:22:04](https://lobste.rs/s/xwnkpy/on_demand_json_better_way_parse_documents) - [On-demand JSON: A better way to parse documents?](https://onlinelibrary.wiley.com/doi/10.1002/spe.3313)
 * [2024-01-19, 14:03:56](https://lobste.rs/s/tg8ofb/gleam_s_new_interactive_language_tour) - [Gleam's New Interactive Language Tour](https://gleam.run/news/gleams-new-interactive-language-tour/)
 * [2024-01-19, 14:01:56](https://lobste.rs/s/sf4092/gleam_language_tour) - [Gleam language tour](https://tour.gleam.run/)
 * [2024-01-19, 12:11:14](https://lobste.rs/s/acqtoh/why_i_m_learning_deno) - [Why I’m learning Deno](https://commonlog.jjude.com/why-im-learning-deno/)
