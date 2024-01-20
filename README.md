@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-20, 18:02:19](https://lobste.rs/s/yh5kx5/bun_shell) - [The Bun Shell](https://bun.sh/blog/the-bun-shell)
 * [2024-01-20, 16:37:25](https://lobste.rs/s/zxh4zq/linux_on_8_bit_micro_2012) - [Linux on an 8-bit micro? (2012)](https://dmitry.gr/?r=05.Projects&proj=07.%20Linux%20on%208bit)
 * [2024-01-20, 16:15:44](https://lobste.rs/s/7bir4v/like_streamlit_with_backend) - [Like Streamlit but with a backend](https://github.com/avaiga/taipy)
 * [2024-01-20, 15:45:26](https://lobste.rs/s/fjq4gy/fast_winding_numbers_for_soups_clouds) - [Fast Winding Numbers for Soups and Clouds (2018)](https://www.dgp.toronto.edu/projects/fast-winding-numbers/)
 * [2024-01-20, 14:44:54](https://lobste.rs/s/66ebq2/continuous_integration) - [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)
-* [2024-01-20, 13:15:06](https://lobste.rs/s/p6t5zo/embracing_simplicity_my_journey) - [Embracing Simplicity: My Journey to the DuckDuckGo Browser](https://sepi.me/posts/ddg-browser-improvements/)
 * [2024-01-20, 11:47:39](https://lobste.rs/s/iyykuk/wire_routing_control_scheme) - [Wire Routing Control Scheme](https://www.1a-insec.net/blog/31-wire-routing-input-scheme/)
 * [2024-01-20, 10:54:07](https://lobste.rs/s/dflejq/dissecting_nvidia_volta_gpu) - [Dissecting the NVIDIA Volta GPU Architecture via Microbenchmarking (2018)](https://arxiv.org/pdf/1804.06826.pdf)
 * [2024-01-20, 09:56:46](https://lobste.rs/s/afeve0/ceph_journey_1_tib_s) - [Ceph: A Journey to 1 TiB/s](https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/)

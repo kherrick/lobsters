@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-20](index.md)
 
+* [2024-01-20, 18:02:19](https://lobste.rs/s/yh5kx5/bun_shell) - [The Bun Shell](https://bun.sh/blog/the-bun-shell)
 * [2024-01-20, 16:37:25](https://lobste.rs/s/zxh4zq/linux_on_8_bit_micro_2012) - [Linux on an 8-bit micro? (2012)](https://dmitry.gr/?r=05.Projects&proj=07.%20Linux%20on%208bit)
 * [2024-01-20, 16:15:44](https://lobste.rs/s/7bir4v/like_streamlit_with_backend) - [Like Streamlit but with a backend](https://github.com/avaiga/taipy)
 * [2024-01-20, 15:45:26](https://lobste.rs/s/fjq4gy/fast_winding_numbers_for_soups_clouds) - [Fast Winding Numbers for Soups and Clouds (2018)](https://www.dgp.toronto.edu/projects/fast-winding-numbers/)
