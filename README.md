@@ -7,7 +7,6 @@
 * [2024-01-20, 06:24:25](https://lobste.rs/s/tah4r8/why_go_is_my_favorite_programming) - [Why Go is my favorite programming language (2017)](https://michael.stapelberg.ch/posts/2017-08-19-golang_favorite/)
 * [2024-01-20, 04:37:56](https://lobste.rs/s/n0fhh0/data_model_debt_is_forever) - [Data Model Debt is Forever](https://emmanuelgenard.com/software-design/2024/01/19/data-model-debt-is-forever/)
 * [2024-01-20, 03:30:57](https://lobste.rs/s/pncbt2/nightshade_protecting_copyright) - [Nightshade: Protecting Copyright](https://nightshade.cs.uchicago.edu/whatis.html)
-* [2024-01-20, 02:23:21](https://lobste.rs/s/puizdg/why_lowercase_letters_save_data) - [why lowercase letters save data](https://endtimes.dev/why-lowercase-letters-save-data/)
 * [2024-01-20, 00:16:18](https://lobste.rs/s/ylejdi/what_s_touchscreen_my_room) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
 * [2024-01-19, 21:46:18](https://lobste.rs/s/gzhnsm/platform_tilt_by_mozilla) - [Platform Tilt by Mozilla](https://mozilla.github.io/platform-tilt/)
 * [2024-01-19, 21:35:59](https://lobste.rs/s/lh0f8v/platform_tilt_documenting_uneven) - [Platform Tilt: Documenting the Uneven Playing Field for an Independent Browser Like Firefox](https://blog.mozilla.org/netpolicy/2024/01/19/platform-tilt/)
@@ -24,6 +23,7 @@
 * [2024-01-19, 09:06:57](https://lobste.rs/s/jgezbz/first_steps_with_nix) - [First steps with Nix](https://nixos.asia/en/nix-first)
 * [2024-01-19, 03:25:01](https://lobste.rs/s/igpfet/dave_mills_has_passed_away) - [Dave Mills has passed away](https://elists.isoc.org/pipermail/internet-history/2024-January/009265.html)
 * [2024-01-19, 01:41:18](https://lobste.rs/s/8q2qqa/you_might_only_need_microcontroller) - [You (Might) Only Need a Microcontroller (and a Server) for Computer Science](https://snats.xyz/pages/articles/all_you_need_is_a_microcontroller.html)
+* [2024-01-18, 15:51:42](https://lobste.rs/s/agaiir/will_new_judicial_ruling_vizio_lawsuit) - [Will the new judicial ruling in the Vizio lawsuit strengthen the GPL?](https://blog.tidelift.com/will-the-new-judicial-ruling-in-the-vizio-lawsuit-strengthen-the-gpl)
 * [2024-01-18, 14:42:44](https://lobste.rs/s/vylnes/2024_financial_report_fundraiser) - [2024 Financial Report and Fundraiser](https://ziglang.org/news/2024-financials/#2024-financial-report-and-fundraiser)
 
 ## [Archives](archives/index.md)
