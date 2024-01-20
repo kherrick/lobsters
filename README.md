@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-20, 06:59:25](https://lobste.rs/s/213xiu/enphase_envoy_s_data_scraping_2016) - [Enphase Envoy-S data scraping (2016)](https://thecomputerperson.wordpress.com/2016/08/03/enphase-envoy-s-data-scraping/)
 * [2024-01-20, 06:24:25](https://lobste.rs/s/tah4r8/why_go_is_my_favorite_programming) - [Why Go is my favorite programming language (2017)](https://michael.stapelberg.ch/posts/2017-08-19-golang_favorite/)
 * [2024-01-20, 04:37:56](https://lobste.rs/s/n0fhh0/data_model_debt_is_forever) - [Data Model Debt is Forever](https://emmanuelgenard.com/software-design/2024/01/19/data-model-debt-is-forever/)
 * [2024-01-20, 03:30:57](https://lobste.rs/s/pncbt2/nightshade_protecting_copyright) - [Nightshade: Protecting Copyright](https://nightshade.cs.uchicago.edu/whatis.html)
@@ -13,7 +14,6 @@
 * [2024-01-19, 18:34:23](https://lobste.rs/s/js3e1t/mseal_gets_closer) - [mseal() gets closer](https://lwn.net/SubscriberLink/958438/d5f91f251b309612/)
 * [2024-01-19, 17:43:39](https://lobste.rs/s/0wcd8k/my_django_roadmap_ideas) - [My Django roadmap ideas](https://www.paulox.net/2024/01/19/my-django-roadmap-ideas/)
 * [2024-01-19, 15:22:04](https://lobste.rs/s/xwnkpy/on_demand_json_better_way_parse_documents) - [On-demand JSON: A better way to parse documents?](https://onlinelibrary.wiley.com/doi/10.1002/spe.3313)
-* [2024-01-19, 15:07:56](https://lobste.rs/s/jwt7td/handling_external_api_errors_resumable) - [Handling external API errors: A resumable approach](https://thoughtbot.com/blog/handling-errors-when-working-with-external-apis#when-to-choose-a-resumable-strategy)
 * [2024-01-19, 14:03:56](https://lobste.rs/s/tg8ofb/gleam_s_new_interactive_language_tour) - [Gleam's New Interactive Language Tour](https://gleam.run/news/gleams-new-interactive-language-tour/)
 * [2024-01-19, 14:01:56](https://lobste.rs/s/sf4092/gleam_language_tour) - [Gleam language tour](https://tour.gleam.run/)
 * [2024-01-19, 13:06:34](https://lobste.rs/s/peoswm/qi_accelerated_qi_4_release_announcement) - [Qi Accelerated - Qi 4 release announcement](https://racket.discourse.group/t/qi-accelerated-qi-4-release-announcement/2672?u=spdegabrielle)
