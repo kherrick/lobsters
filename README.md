@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-21, 20:28:03](https://lobste.rs/s/cw4umh/c23_slightly_better_c) - [C23: a slightly better C](https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/#amp_tf=From%20%251%24s&aoh=17058683815865&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Flemire.me%2Fblog%2F2024%2F01%2F21%2Fc23-a-slightly-better-c%2F)
 * [2024-01-21, 17:18:39](https://lobste.rs/s/p0hphk/reading_qr_codes_without_computer) - [Reading QR codes without a computer](https://qr.blinry.org)
 * [2024-01-21, 12:03:25](https://lobste.rs/s/tjq6ig/clean_pointer_serialization_c) - [Clean pointer serialization in C](https://30fps.net/pages/clean-pointer-serialization/)
 * [2024-01-21, 09:06:51](https://lobste.rs/s/u4fvjt/why_python_is_terrible) - [Why Python is terrible](https://josvisser.substack.com/p/why-python-is-terrible)
@@ -11,7 +12,6 @@
 * [2024-01-20, 18:49:41](https://lobste.rs/s/ipssk2/investigating_vanishing_bios_on_fujitsu) - [Investigating a vanishing BIOS on the Fujitsu LIFEBOOK AH532](https://blog.timschumi.net/2024/01/20/ah532-bios-investigation.html)
 * [2024-01-20, 18:02:19](https://lobste.rs/s/yh5kx5/bun_shell) - [The Bun Shell](https://bun.sh/blog/the-bun-shell)
 * [2024-01-20, 16:37:25](https://lobste.rs/s/zxh4zq/linux_on_8_bit_micro_2012) - [Linux on an 8-bit micro? (2012)](https://dmitry.gr/?r=05.Projects&proj=07.%20Linux%20on%208bit)
-* [2024-01-20, 16:15:44](https://lobste.rs/s/7bir4v/like_streamlit_with_backend) - [Like Streamlit but with a backend](https://github.com/avaiga/taipy)
 * [2024-01-20, 15:45:26](https://lobste.rs/s/fjq4gy/fast_winding_numbers_for_soups_clouds) - [Fast Winding Numbers for Soups and Clouds (2018)](https://www.dgp.toronto.edu/projects/fast-winding-numbers/)
 * [2024-01-20, 14:44:54](https://lobste.rs/s/66ebq2/continuous_integration) - [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)
 * [2024-01-20, 11:47:39](https://lobste.rs/s/iyykuk/wire_routing_control_scheme) - [Wire Routing Control Scheme](https://www.1a-insec.net/blog/31-wire-routing-input-scheme/)
