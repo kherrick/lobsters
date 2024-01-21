@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-21, 12:03:25",
+      "https://lobste.rs/s/tjq6ig/clean_pointer_serialization_c"
+    ],
+    [
+      "Clean pointer serialization in C",
+      "https://30fps.net/pages/clean-pointer-serialization/"
+    ]
+  ],
+  [
+    [
       "2024-01-21, 09:06:51",
       "https://lobste.rs/s/u4fvjt/why_python_is_terrible"
     ],
@@ -187,16 +197,6 @@
     [
       "Platform Tilt: Documenting the Uneven Playing Field for an Independent Browser Like Firefox",
       "https://blog.mozilla.org/netpolicy/2024/01/19/platform-tilt/"
-    ]
-  ],
-  [
-    [
-      "2024-01-19, 20:34:08",
-      "https://lobste.rs/s/bc3mqm/my_best_worst_deadlock_rust"
-    ],
-    [
-      "My Best and Worst Deadlock in Rust",
-      "https://www.snoyman.com/blog/2024/01/best-worst-deadlock-rust/"
     ]
   ],
   [
