@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-21, 05:14:25",
+      "https://lobste.rs/s/h940xe/collision_detection"
+    ],
+    [
+      "Collision Detection",
+      "https://www.jeffreythompson.org/collision-detection/index.php"
+    ]
+  ],
+  [
+    [
       "2024-01-21, 04:27:19",
       "https://lobste.rs/s/xf06ck/reversing_web_nywhere_watch_browse"
     ],
@@ -177,16 +187,6 @@
     [
       "My Best and Worst Deadlock in Rust",
       "https://www.snoyman.com/blog/2024/01/best-worst-deadlock-rust/"
-    ]
-  ],
-  [
-    [
-      "2024-01-19, 19:30:17",
-      "https://lobste.rs/s/vvzky0/memory_leak_proof_every_c_program"
-    ],
-    [
-      "memory leak proof every C program",
-      "https://flak.tedunangst.com/post/memory-leak-proof-every-C-program"
     ]
   ],
   [
