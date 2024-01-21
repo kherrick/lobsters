@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-21, 04:27:19](https://lobste.rs/s/xf06ck/reversing_web_nywhere_watch_browse) - [Reversing the Web-@nywhere Watch: browse fragments of the Web on your wrist](https://oldvcr.blogspot.com/2024/01/reversing-web-nywhere-watch-browse.html)
 * [2024-01-20, 22:54:37](https://lobste.rs/s/22whox/so_you_think_you_know_c) - [So you think you know C?](https://wordsandbuttons.online/so_you_think_you_know_c.html)
 * [2024-01-20, 18:49:41](https://lobste.rs/s/ipssk2/investigating_vanishing_bios_on_fujitsu) - [Investigating a vanishing BIOS on the Fujitsu LIFEBOOK AH532](https://blog.timschumi.net/2024/01/20/ah532-bios-investigation.html)
 * [2024-01-20, 18:02:19](https://lobste.rs/s/yh5kx5/bun_shell) - [The Bun Shell](https://bun.sh/blog/the-bun-shell)
@@ -21,7 +22,6 @@
 * [2024-01-19, 18:52:07](https://lobste.rs/s/gvdmhx/most_important_goal_designing_software) - [The most important goal in designing software is understandability](https://ntietz.com/blog/the-most-important-goal-in-designing-software-is-understandability/)
 * [2024-01-19, 18:34:23](https://lobste.rs/s/js3e1t/mseal_gets_closer) - [mseal() gets closer](https://lwn.net/SubscriberLink/958438/d5f91f251b309612/)
 * [2024-01-19, 14:03:56](https://lobste.rs/s/tg8ofb/gleam_s_new_interactive_language_tour) - [Gleam's New Interactive Language Tour](https://gleam.run/news/gleams-new-interactive-language-tour/)
-* [2024-01-19, 14:01:56](https://lobste.rs/s/sf4092/gleam_language_tour) - [Gleam language tour](https://tour.gleam.run/)
 * [2024-01-19, 12:11:14](https://lobste.rs/s/acqtoh/why_i_m_learning_deno) - [Why I’m learning Deno](https://commonlog.jjude.com/why-im-learning-deno/)
 * [2024-01-19, 11:10:24](https://lobste.rs/s/znntjt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/znntjt/what_are_you_doing_this_weekend)
 * [2024-01-19, 09:06:57](https://lobste.rs/s/jgezbz/first_steps_with_nix) - [First steps with Nix](https://nixos.asia/en/nix-first)
