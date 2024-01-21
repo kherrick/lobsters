@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2024-01-20, 10:54:07",
+      "https://lobste.rs/s/dflejq/dissecting_nvidia_volta_gpu"
+    ],
+    [
+      "Dissecting the NVIDIA Volta GPU Architecture via Microbenchmarking (2018)",
+      "https://arxiv.org/pdf/1804.06826.pdf"
+    ]
+  ],
+  [
+    [
       "2024-01-20, 09:56:46",
       "https://lobste.rs/s/afeve0/ceph_journey_1_tib_s"
     ],
@@ -237,16 +247,6 @@
     [
       "Why I’m learning Deno",
       "https://commonlog.jjude.com/why-im-learning-deno/"
-    ]
-  ],
-  [
-    [
-      "2024-01-19, 09:06:57",
-      "https://lobste.rs/s/jgezbz/first_steps_with_nix"
-    ],
-    [
-      "First steps with Nix",
-      "https://nixos.asia/en/nix-first"
     ]
   ]
 ]
