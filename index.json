@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-21, 17:18:39",
+      "https://lobste.rs/s/p0hphk/reading_qr_codes_without_computer"
+    ],
+    [
+      "Reading QR codes without a computer",
+      "https://qr.blinry.org"
+    ]
+  ],
+  [
+    [
       "2024-01-21, 12:03:25",
       "https://lobste.rs/s/tjq6ig/clean_pointer_serialization_c"
     ],
@@ -197,16 +207,6 @@
     [
       "Platform Tilt: Documenting the Uneven Playing Field for an Independent Browser Like Firefox",
       "https://blog.mozilla.org/netpolicy/2024/01/19/platform-tilt/"
-    ]
-  ],
-  [
-    [
-      "2024-01-19, 20:34:08",
-      "https://lobste.rs/s/bc3mqm/my_best_worst_deadlock_rust"
-    ],
-    [
-      "My Best and Worst Deadlock in Rust",
-      "https://www.snoyman.com/blog/2024/01/best-worst-deadlock-rust/"
     ]
   ],
   [
