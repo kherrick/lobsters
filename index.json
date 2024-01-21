@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-21, 20:40:08",
+      "https://lobste.rs/s/alxtez/implementing_system_versioned_tables"
+    ],
+    [
+      "Implementing System-Versioned Tables in Postgres",
+      "https://hypirion.com/musings/implementing-system-versioned-tables-in-postgres"
+    ]
+  ],
+  [
+    [
       "2024-01-21, 20:28:03",
       "https://lobste.rs/s/cw4umh/c23_slightly_better_c"
     ],
@@ -137,16 +147,6 @@
     [
       "Continuous Integration",
       "https://martinfowler.com/articles/continuousIntegration.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-20, 11:47:39",
-      "https://lobste.rs/s/iyykuk/wire_routing_control_scheme"
-    ],
-    [
-      "Wire Routing Control Scheme",
-      "https://www.1a-insec.net/blog/31-wire-routing-input-scheme/"
     ]
   ],
   [
