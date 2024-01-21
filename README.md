@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-21, 05:14:25](https://lobste.rs/s/h940xe/collision_detection) - [Collision Detection](https://www.jeffreythompson.org/collision-detection/index.php)
 * [2024-01-21, 04:27:19](https://lobste.rs/s/xf06ck/reversing_web_nywhere_watch_browse) - [Reversing the Web-@nywhere Watch: browse fragments of the Web on your wrist](https://oldvcr.blogspot.com/2024/01/reversing-web-nywhere-watch-browse.html)
 * [2024-01-20, 22:54:37](https://lobste.rs/s/22whox/so_you_think_you_know_c) - [So you think you know C?](https://wordsandbuttons.online/so_you_think_you_know_c.html)
 * [2024-01-20, 18:49:41](https://lobste.rs/s/ipssk2/investigating_vanishing_bios_on_fujitsu) - [Investigating a vanishing BIOS on the Fujitsu LIFEBOOK AH532](https://blog.timschumi.net/2024/01/20/ah532-bios-investigation.html)
@@ -18,7 +19,6 @@
 * [2024-01-20, 00:16:18](https://lobste.rs/s/ylejdi/what_s_touchscreen_my_room) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
 * [2024-01-19, 21:35:59](https://lobste.rs/s/lh0f8v/platform_tilt_documenting_uneven) - [Platform Tilt: Documenting the Uneven Playing Field for an Independent Browser Like Firefox](https://blog.mozilla.org/netpolicy/2024/01/19/platform-tilt/)
 * [2024-01-19, 20:34:08](https://lobste.rs/s/bc3mqm/my_best_worst_deadlock_rust) - [My Best and Worst Deadlock in Rust](https://www.snoyman.com/blog/2024/01/best-worst-deadlock-rust/)
-* [2024-01-19, 19:30:17](https://lobste.rs/s/vvzky0/memory_leak_proof_every_c_program) - [memory leak proof every C program](https://flak.tedunangst.com/post/memory-leak-proof-every-C-program)
 * [2024-01-19, 18:52:07](https://lobste.rs/s/gvdmhx/most_important_goal_designing_software) - [The most important goal in designing software is understandability](https://ntietz.com/blog/the-most-important-goal-in-designing-software-is-understandability/)
 * [2024-01-19, 18:34:23](https://lobste.rs/s/js3e1t/mseal_gets_closer) - [mseal() gets closer](https://lwn.net/SubscriberLink/958438/d5f91f251b309612/)
 * [2024-01-19, 14:03:56](https://lobste.rs/s/tg8ofb/gleam_s_new_interactive_language_tour) - [Gleam's New Interactive Language Tour](https://gleam.run/news/gleams-new-interactive-language-tour/)
