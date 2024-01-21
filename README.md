@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-21, 20:40:08](https://lobste.rs/s/alxtez/implementing_system_versioned_tables) - [Implementing System-Versioned Tables in Postgres](https://hypirion.com/musings/implementing-system-versioned-tables-in-postgres)
 * [2024-01-21, 20:28:03](https://lobste.rs/s/cw4umh/c23_slightly_better_c) - [C23: a slightly better C](https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/#amp_tf=From%20%251%24s&aoh=17058683815865&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Flemire.me%2Fblog%2F2024%2F01%2F21%2Fc23-a-slightly-better-c%2F)
 * [2024-01-21, 17:18:39](https://lobste.rs/s/p0hphk/reading_qr_codes_without_computer) - [Reading QR codes without a computer](https://qr.blinry.org)
 * [2024-01-21, 12:03:25](https://lobste.rs/s/tjq6ig/clean_pointer_serialization_c) - [Clean pointer serialization in C](https://30fps.net/pages/clean-pointer-serialization/)
@@ -14,7 +15,6 @@
 * [2024-01-20, 16:37:25](https://lobste.rs/s/zxh4zq/linux_on_8_bit_micro_2012) - [Linux on an 8-bit micro? (2012)](https://dmitry.gr/?r=05.Projects&proj=07.%20Linux%20on%208bit)
 * [2024-01-20, 15:45:26](https://lobste.rs/s/fjq4gy/fast_winding_numbers_for_soups_clouds) - [Fast Winding Numbers for Soups and Clouds (2018)](https://www.dgp.toronto.edu/projects/fast-winding-numbers/)
 * [2024-01-20, 14:44:54](https://lobste.rs/s/66ebq2/continuous_integration) - [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)
-* [2024-01-20, 11:47:39](https://lobste.rs/s/iyykuk/wire_routing_control_scheme) - [Wire Routing Control Scheme](https://www.1a-insec.net/blog/31-wire-routing-input-scheme/)
 * [2024-01-20, 09:56:46](https://lobste.rs/s/afeve0/ceph_journey_1_tib_s) - [Ceph: A Journey to 1 TiB/s](https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/)
 * [2024-01-20, 06:24:25](https://lobste.rs/s/tah4r8/why_go_is_my_favorite_programming) - [Why Go is my favorite programming language (2017)](https://michael.stapelberg.ch/posts/2017-08-19-golang_favorite/)
 * [2024-01-20, 04:37:56](https://lobste.rs/s/n0fhh0/data_model_debt_is_forever) - [Data Model Debt is Forever](https://emmanuelgenard.com/software-design/2024/01/19/data-model-debt-is-forever/)
