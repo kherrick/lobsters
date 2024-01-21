@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2024-01-20, 11:47:39",
-      "https://lobste.rs/s/iyykuk/wire_routing_control_scheme"
-    ],
-    [
-      "Wire Routing Control Scheme",
-      "https://www.1a-insec.net/blog/31-wire-routing-input-scheme/"
-    ]
-  ],
-  [
-    [
       "2024-01-20, 09:56:46",
       "https://lobste.rs/s/afeve0/ceph_journey_1_tib_s"
     ],
@@ -197,6 +187,16 @@
     [
       "Platform Tilt: Documenting the Uneven Playing Field for an Independent Browser Like Firefox",
       "https://blog.mozilla.org/netpolicy/2024/01/19/platform-tilt/"
+    ]
+  ],
+  [
+    [
+      "2024-01-19, 20:34:08",
+      "https://lobste.rs/s/bc3mqm/my_best_worst_deadlock_rust"
+    ],
+    [
+      "My Best and Worst Deadlock in Rust",
+      "https://www.snoyman.com/blog/2024/01/best-worst-deadlock-rust/"
     ]
   ],
   [
