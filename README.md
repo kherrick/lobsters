@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-21, 09:06:51](https://lobste.rs/s/u4fvjt/why_python_is_terrible) - [Why Python is terrible](https://josvisser.substack.com/p/why-python-is-terrible)
+* [2024-01-21, 09:06:45](https://lobste.rs/s/fkzcja/ditching_github) - [Ditching GitHub](https://tomscii.sig7.se/2024/01/Ditching-GitHub)
 * [2024-01-21, 07:44:33](https://lobste.rs/s/zgs4z7/programming_with_spaces) - [Programming with Spaces](https://github.com/pSpaces/Programming-with-Spaces)
 * [2024-01-21, 05:14:25](https://lobste.rs/s/h940xe/collision_detection) - [Collision Detection](https://www.jeffreythompson.org/collision-detection/index.php)
 * [2024-01-21, 04:27:19](https://lobste.rs/s/xf06ck/reversing_web_nywhere_watch_browse) - [Reversing the Web-@nywhere Watch: browse fragments of the Web on your wrist](https://oldvcr.blogspot.com/2024/01/reversing-web-nywhere-watch-browse.html)
@@ -11,9 +13,7 @@
 * [2024-01-20, 15:45:26](https://lobste.rs/s/fjq4gy/fast_winding_numbers_for_soups_clouds) - [Fast Winding Numbers for Soups and Clouds (2018)](https://www.dgp.toronto.edu/projects/fast-winding-numbers/)
 * [2024-01-20, 14:44:54](https://lobste.rs/s/66ebq2/continuous_integration) - [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)
 * [2024-01-20, 11:47:39](https://lobste.rs/s/iyykuk/wire_routing_control_scheme) - [Wire Routing Control Scheme](https://www.1a-insec.net/blog/31-wire-routing-input-scheme/)
-* [2024-01-20, 10:54:07](https://lobste.rs/s/dflejq/dissecting_nvidia_volta_gpu) - [Dissecting the NVIDIA Volta GPU Architecture via Microbenchmarking (2018)](https://arxiv.org/pdf/1804.06826.pdf)
 * [2024-01-20, 09:56:46](https://lobste.rs/s/afeve0/ceph_journey_1_tib_s) - [Ceph: A Journey to 1 TiB/s](https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/)
-* [2024-01-20, 06:59:25](https://lobste.rs/s/213xiu/enphase_envoy_s_data_scraping_2016) - [Enphase Envoy-S data scraping (2016)](https://thecomputerperson.wordpress.com/2016/08/03/enphase-envoy-s-data-scraping/)
 * [2024-01-20, 06:24:25](https://lobste.rs/s/tah4r8/why_go_is_my_favorite_programming) - [Why Go is my favorite programming language (2017)](https://michael.stapelberg.ch/posts/2017-08-19-golang_favorite/)
 * [2024-01-20, 04:37:56](https://lobste.rs/s/n0fhh0/data_model_debt_is_forever) - [Data Model Debt is Forever](https://emmanuelgenard.com/software-design/2024/01/19/data-model-debt-is-forever/)
 * [2024-01-20, 03:30:57](https://lobste.rs/s/pncbt2/nightshade_protecting_copyright) - [Nightshade: Protecting Copyright](https://nightshade.cs.uchicago.edu/whatis.html)
