@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-22, 05:40:10](https://lobste.rs/s/mdpgxd/minisforum_ms_01_review_10gbe_with_pcie) - [Minisforum MS-01 Review The 10GbE with PCIe Slot Mini PC](https://www.servethehome.com/minisforum-ms-01-review-the-10gbe-with-pcie-slot-mini-pc-intel/)
 * [2024-01-22, 04:05:08](https://lobste.rs/s/4xnl9h/textanalysistool_net) - [TextAnalysisTool.NET](https://textanalysistool.github.io/)
 * [2024-01-22, 03:10:23](https://lobste.rs/s/sm3t1o/open_source_sustainability_crisis) - [The Open Source Sustainability Crisis](https://openpath.chadwhitacre.com/2024/the-open-source-sustainability-crisis/)
 * [2024-01-22, 02:40:39](https://lobste.rs/s/xdaigg/our_least_favourite_x86_instruction) - [Our least favourite x86 instruction](https://hackerbirds.neocities.org/x86-lea/)
@@ -24,7 +25,6 @@
 * [2024-01-20, 03:30:57](https://lobste.rs/s/pncbt2/nightshade_protecting_copyright) - [Nightshade: Protecting Copyright](https://nightshade.cs.uchicago.edu/whatis.html)
 * [2024-01-20, 00:16:18](https://lobste.rs/s/ylejdi/what_s_touchscreen_my_room) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
 * [2024-01-19, 21:35:59](https://lobste.rs/s/lh0f8v/platform_tilt_documenting_uneven) - [Platform Tilt: Documenting the Uneven Playing Field for an Independent Browser Like Firefox](https://blog.mozilla.org/netpolicy/2024/01/19/platform-tilt/)
-* [2024-01-19, 18:34:23](https://lobste.rs/s/js3e1t/mseal_gets_closer) - [mseal() gets closer](https://lwn.net/SubscriberLink/958438/d5f91f251b309612/)
 
 ## [Archives](archives/index.md)
 
