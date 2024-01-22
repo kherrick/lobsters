@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-22, 15:28:14](https://lobste.rs/s/jswuxr/cognitive_load_software_development) - [Cognitive Load In Software Development](https://github.com/zakirullin/cognitive-load)
 * [2024-01-22, 13:53:43](https://lobste.rs/s/blidu7/finding_extroverted_programmers_for) - [Finding Extroverted Programmers For Pair Programming](https://lobste.rs/s/blidu7/finding_extroverted_programmers_for)
 * [2024-01-22, 13:39:15](https://lobste.rs/s/vcbixd/trunk_based_development) - [Trunk-Based Development](https://trunkbaseddevelopment.com/)
 * [2024-01-22, 11:34:11](https://lobste.rs/s/rku8kf/practical_kaios_optimization_tips) - [Practical KaiOS Optimization Tips](https://kaios.dev/2024/01/practical-kaios-optimization-tips/)
@@ -14,7 +15,6 @@
 * [2024-01-21, 20:28:03](https://lobste.rs/s/cw4umh/c23_slightly_better_c) - [C23: a slightly better C](https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/)
 * [2024-01-21, 17:18:39](https://lobste.rs/s/p0hphk/reading_qr_codes_without_computer) - [Reading QR codes without a computer](https://qr.blinry.org)
 * [2024-01-21, 12:03:25](https://lobste.rs/s/tjq6ig/clean_pointer_serialization_c) - [Clean pointer serialization in C](https://30fps.net/pages/clean-pointer-serialization/)
-* [2024-01-21, 09:06:51](https://lobste.rs/s/u4fvjt/why_python_is_terrible) - [Why Python is terrible](https://josvisser.substack.com/p/why-python-is-terrible)
 * [2024-01-21, 09:06:45](https://lobste.rs/s/fkzcja/ditching_github) - [Ditching GitHub](https://tomscii.sig7.se/2024/01/Ditching-GitHub)
 * [2024-01-21, 07:44:33](https://lobste.rs/s/zgs4z7/programming_with_spaces) - [Programming with Spaces](https://github.com/pSpaces/Programming-with-Spaces)
 * [2024-01-21, 05:14:25](https://lobste.rs/s/h940xe/collision_detection) - [Collision Detection](https://www.jeffreythompson.org/collision-detection/index.php)

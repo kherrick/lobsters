@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 15:28:14](https://lobste.rs/s/jswuxr/cognitive_load_software_development) - [Cognitive Load In Software Development](https://github.com/zakirullin/cognitive-load)
 * [2024-01-22, 13:53:43](https://lobste.rs/s/blidu7/finding_extroverted_programmers_for) - [Finding Extroverted Programmers For Pair Programming](https://lobste.rs/s/blidu7/finding_extroverted_programmers_for)
 * [2024-01-22, 13:39:15](https://lobste.rs/s/vcbixd/trunk_based_development) - [Trunk-Based Development](https://trunkbaseddevelopment.com/)
 * [2024-01-22, 11:34:11](https://lobste.rs/s/rku8kf/practical_kaios_optimization_tips) - [Practical KaiOS Optimization Tips](https://kaios.dev/2024/01/practical-kaios-optimization-tips/)
