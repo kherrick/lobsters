@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 18:50:34](https://lobste.rs/s/degsgz/zig_s_hashmap) - [Zig's HashMap](https://www.openmymind.net/Zigs-HashMap-Part-1/)
 * [2024-01-22, 17:00:00](https://lobste.rs/s/yowedy/value_open_source_software) - [The Value of Open Source Software](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693148)
 * [2024-01-22, 16:51:17](https://lobste.rs/s/eiq8ev/rng_runs_your_brain) - [An RNG that runs in your brain](https://www.hillelwayne.com/post/randomness/)
 * [2024-01-22, 16:49:15](https://lobste.rs/s/p706lw/making_check_cpu) - [Making: Check CPU](https://snats.xyz/pages/articles/making_ccpu.html)

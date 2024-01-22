@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-22, 18:50:34](https://lobste.rs/s/degsgz/zig_s_hashmap) - [Zig's HashMap](https://www.openmymind.net/Zigs-HashMap-Part-1/)
 * [2024-01-22, 17:00:00](https://lobste.rs/s/yowedy/value_open_source_software) - [The Value of Open Source Software](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693148)
 * [2024-01-22, 16:51:17](https://lobste.rs/s/eiq8ev/rng_runs_your_brain) - [An RNG that runs in your brain](https://www.hillelwayne.com/post/randomness/)
 * [2024-01-22, 16:49:15](https://lobste.rs/s/p706lw/making_check_cpu) - [Making: Check CPU](https://snats.xyz/pages/articles/making_ccpu.html)
@@ -14,7 +15,6 @@
 * [2024-01-22, 11:34:11](https://lobste.rs/s/rku8kf/practical_kaios_optimization_tips) - [Practical KaiOS Optimization Tips](https://kaios.dev/2024/01/practical-kaios-optimization-tips/)
 * [2024-01-22, 08:26:30](https://lobste.rs/s/slhe5j/how_jane_street_does_code_review_2017) - [How Jane Street Does Code Review (2017)](https://www.janestreet.com/tech-talks/janestreet-code-review/)
 * [2024-01-22, 05:40:10](https://lobste.rs/s/mdpgxd/minisforum_ms_01_review_10gbe_with_pcie) - [Minisforum MS-01 Review The 10GbE with PCIe Slot Mini PC](https://www.servethehome.com/minisforum-ms-01-review-the-10gbe-with-pcie-slot-mini-pc-intel/)
-* [2024-01-22, 04:05:08](https://lobste.rs/s/4xnl9h/textanalysistool_net) - [TextAnalysisTool.NET](https://textanalysistool.github.io/)
 * [2024-01-22, 03:10:23](https://lobste.rs/s/sm3t1o/open_source_sustainability_crisis) - [The Open Source Sustainability Crisis](https://openpath.chadwhitacre.com/2024/the-open-source-sustainability-crisis/)
 * [2024-01-22, 02:40:39](https://lobste.rs/s/xdaigg/our_least_favourite_x86_instruction) - [Our least favourite x86 instruction](https://hackerbirds.neocities.org/x86-lea/)
 * [2024-01-22, 01:16:14](https://lobste.rs/s/phuaax/common_lisp_vs_racket_feedback_from) - [Common Lisp VS Racket. Feedback from lispers. (2021)](https://gist.github.com/vindarel/c1ef5e043773921e3b11d8f4fe1ca7ac)
