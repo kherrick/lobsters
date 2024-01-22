@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 21:39:37](https://lobste.rs/s/5bqof5/mysql_s_random_number_generator) - [MySQL's random number generator](https://www.sjoerdlangkemper.nl/2024/01/17/mysql-mariadb-rand-random-number-generator/)
 * [2024-01-22, 19:10:51](https://lobste.rs/s/om55c2/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/om55c2/what_are_you_doing_this_week)
 * [2024-01-22, 18:50:34](https://lobste.rs/s/degsgz/zig_s_hashmap) - [Zig's HashMap](https://www.openmymind.net/Zigs-HashMap-Part-1/)
 * [2024-01-22, 17:00:00](https://lobste.rs/s/yowedy/value_open_source_software) - [The Value of Open Source Software](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693148)

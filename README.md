@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-22, 21:39:37](https://lobste.rs/s/5bqof5/mysql_s_random_number_generator) - [MySQL's random number generator](https://www.sjoerdlangkemper.nl/2024/01/17/mysql-mariadb-rand-random-number-generator/)
 * [2024-01-22, 19:10:51](https://lobste.rs/s/om55c2/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/om55c2/what_are_you_doing_this_week)
 * [2024-01-22, 18:50:34](https://lobste.rs/s/degsgz/zig_s_hashmap) - [Zig's HashMap](https://www.openmymind.net/Zigs-HashMap-Part-1/)
 * [2024-01-22, 17:00:00](https://lobste.rs/s/yowedy/value_open_source_software) - [The Value of Open Source Software](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693148)
@@ -23,7 +24,6 @@
 * [2024-01-21, 20:28:03](https://lobste.rs/s/cw4umh/c23_slightly_better_c) - [C23: a slightly better C](https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/)
 * [2024-01-21, 17:18:39](https://lobste.rs/s/p0hphk/reading_qr_codes_without_computer) - [Reading QR codes without a computer](https://qr.blinry.org)
 * [2024-01-21, 12:03:25](https://lobste.rs/s/tjq6ig/clean_pointer_serialization_c) - [Clean pointer serialization in C](https://30fps.net/pages/clean-pointer-serialization/)
-* [2024-01-21, 09:06:45](https://lobste.rs/s/fkzcja/ditching_github) - [Ditching GitHub](https://tomscii.sig7.se/2024/01/Ditching-GitHub)
 * [2024-01-20, 22:54:37](https://lobste.rs/s/22whox/so_you_think_you_know_c) - [So you think you know C?](https://wordsandbuttons.online/so_you_think_you_know_c.html)
 
 ## [Archives](archives/index.md)
