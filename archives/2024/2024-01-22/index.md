@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 22:31:24](https://lobste.rs/s/aat3zu/re_case_for_rust_base_system) - [Re: The Case for Rust (in the base system)](https://lists.freebsd.org/archives/freebsd-hackers/2024-January/002876.html)
 * [2024-01-22, 21:39:37](https://lobste.rs/s/5bqof5/mysql_s_random_number_generator) - [MySQL's random number generator](https://www.sjoerdlangkemper.nl/2024/01/17/mysql-mariadb-rand-random-number-generator/)
 * [2024-01-22, 19:10:51](https://lobste.rs/s/om55c2/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/om55c2/what_are_you_doing_this_week)
 * [2024-01-22, 18:50:34](https://lobste.rs/s/degsgz/zig_s_hashmap) - [Zig's HashMap](https://www.openmymind.net/Zigs-HashMap-Part-1/)
