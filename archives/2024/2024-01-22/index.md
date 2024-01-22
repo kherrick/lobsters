@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 16:51:17](https://lobste.rs/s/eiq8ev/rng_runs_your_brain) - [An RNG that runs in your brain](https://www.hillelwayne.com/post/randomness/)
+* [2024-01-22, 16:49:15](https://lobste.rs/s/p706lw/making_check_cpu) - [Making: Check CPU](https://snats.xyz/pages/articles/making_ccpu.html)
 * [2024-01-22, 16:23:10](https://lobste.rs/s/ha8q1p/program_composition_notation_tutorial) - [Program Composition Notation - a tutorial](http://www.call-with-current-continuation.org/articles/PCN-tutorial.txt)
 * [2024-01-22, 16:07:35](https://lobste.rs/s/muoar2/spritely_goblins_v0_12_0_released) - [Spritely Goblins v0.12.0 released](https://spritely.institute/news/spritely-goblins-v0120-released-two-new-netlayers-join-the-ocapn-family-and-more.html)
 * [2024-01-22, 16:04:22](https://lobste.rs/s/yvuqvm/how_i_use_chatgpt_daily_scientist_coder) - [How I use ChatGPT daily (scientist/coder perspective)](https://bartwronski.com/2024/01/22/how-i-use-chatgpt-daily-scientist-coder-perspective/)

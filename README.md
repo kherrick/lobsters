@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-22, 16:51:17](https://lobste.rs/s/eiq8ev/rng_runs_your_brain) - [An RNG that runs in your brain](https://www.hillelwayne.com/post/randomness/)
+* [2024-01-22, 16:49:15](https://lobste.rs/s/p706lw/making_check_cpu) - [Making: Check CPU](https://snats.xyz/pages/articles/making_ccpu.html)
 * [2024-01-22, 16:23:10](https://lobste.rs/s/ha8q1p/program_composition_notation_tutorial) - [Program Composition Notation - a tutorial](http://www.call-with-current-continuation.org/articles/PCN-tutorial.txt)
 * [2024-01-22, 16:07:35](https://lobste.rs/s/muoar2/spritely_goblins_v0_12_0_released) - [Spritely Goblins v0.12.0 released](https://spritely.institute/news/spritely-goblins-v0120-released-two-new-netlayers-join-the-ocapn-family-and-more.html)
 * [2024-01-22, 16:04:22](https://lobste.rs/s/yvuqvm/how_i_use_chatgpt_daily_scientist_coder) - [How I use ChatGPT daily (scientist/coder perspective)](https://bartwronski.com/2024/01/22/how-i-use-chatgpt-daily-scientist-coder-perspective/)
@@ -21,8 +23,6 @@
 * [2024-01-21, 17:18:39](https://lobste.rs/s/p0hphk/reading_qr_codes_without_computer) - [Reading QR codes without a computer](https://qr.blinry.org)
 * [2024-01-21, 12:03:25](https://lobste.rs/s/tjq6ig/clean_pointer_serialization_c) - [Clean pointer serialization in C](https://30fps.net/pages/clean-pointer-serialization/)
 * [2024-01-21, 09:06:45](https://lobste.rs/s/fkzcja/ditching_github) - [Ditching GitHub](https://tomscii.sig7.se/2024/01/Ditching-GitHub)
-* [2024-01-21, 07:44:33](https://lobste.rs/s/zgs4z7/programming_with_spaces) - [Programming with Spaces](https://github.com/pSpaces/Programming-with-Spaces)
-* [2024-01-21, 04:27:19](https://lobste.rs/s/xf06ck/reversing_web_nywhere_watch_browse) - [Reversing the Web-@nywhere Watch: browse fragments of the Web on your wrist](https://oldvcr.blogspot.com/2024/01/reversing-web-nywhere-watch-browse.html)
 * [2024-01-20, 22:54:37](https://lobste.rs/s/22whox/so_you_think_you_know_c) - [So you think you know C?](https://wordsandbuttons.online/so_you_think_you_know_c.html)
 * [2024-01-20, 18:02:19](https://lobste.rs/s/yh5kx5/bun_shell) - [The Bun Shell](https://bun.sh/blog/the-bun-shell)
 
