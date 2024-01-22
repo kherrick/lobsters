@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 16:07:35](https://lobste.rs/s/muoar2/spritely_goblins_v0_12_0_released) - [Spritely Goblins v0.12.0 released](https://spritely.institute/news/spritely-goblins-v0120-released-two-new-netlayers-join-the-ocapn-family-and-more.html)
+* [2024-01-22, 16:04:22](https://lobste.rs/s/yvuqvm/how_i_use_chatgpt_daily_scientist_coder) - [How I use ChatGPT daily (scientist/coder perspective)](https://bartwronski.com/2024/01/22/how-i-use-chatgpt-daily-scientist-coder-perspective/)
 * [2024-01-22, 15:44:44](https://lobste.rs/s/0tjc6q/four_challenges_cargo_semver_checks_has) - [Four challenges cargo-semver-checks has yet to tackle](https://predr.ag/blog/four-challenges-cargo-semver-checks-has-yet-to-tackle/)
 * [2024-01-22, 15:36:17](https://lobste.rs/s/gok1tn/modern_compiler_for_french_tax_code) - [A Modern Compiler for the French Tax Code](https://arxiv.org/pdf/2011.07966.pdf)
 * [2024-01-22, 15:28:14](https://lobste.rs/s/jswuxr/cognitive_load_software_development) - [Cognitive Load In Software Development](https://github.com/zakirullin/cognitive-load)
