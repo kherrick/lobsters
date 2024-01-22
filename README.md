@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-22, 17:00:00](https://lobste.rs/s/yowedy/value_open_source_software) - [The Value of Open Source Software](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693148)
 * [2024-01-22, 16:51:17](https://lobste.rs/s/eiq8ev/rng_runs_your_brain) - [An RNG that runs in your brain](https://www.hillelwayne.com/post/randomness/)
 * [2024-01-22, 16:49:15](https://lobste.rs/s/p706lw/making_check_cpu) - [Making: Check CPU](https://snats.xyz/pages/articles/making_ccpu.html)
 * [2024-01-22, 16:23:10](https://lobste.rs/s/ha8q1p/program_composition_notation_tutorial) - [Program Composition Notation - a tutorial](http://www.call-with-current-continuation.org/articles/PCN-tutorial.txt)
@@ -24,7 +25,6 @@
 * [2024-01-21, 12:03:25](https://lobste.rs/s/tjq6ig/clean_pointer_serialization_c) - [Clean pointer serialization in C](https://30fps.net/pages/clean-pointer-serialization/)
 * [2024-01-21, 09:06:45](https://lobste.rs/s/fkzcja/ditching_github) - [Ditching GitHub](https://tomscii.sig7.se/2024/01/Ditching-GitHub)
 * [2024-01-20, 22:54:37](https://lobste.rs/s/22whox/so_you_think_you_know_c) - [So you think you know C?](https://wordsandbuttons.online/so_you_think_you_know_c.html)
-* [2024-01-20, 18:02:19](https://lobste.rs/s/yh5kx5/bun_shell) - [The Bun Shell](https://bun.sh/blog/the-bun-shell)
 
 ## [Archives](archives/index.md)
 
