@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-22, 11:34:11](https://lobste.rs/s/rku8kf/practical_kaios_optimization_tips) - [Practical KaiOS Optimization Tips](https://kaios.dev/2024/01/practical-kaios-optimization-tips/)
 * [2024-01-22, 08:26:30](https://lobste.rs/s/slhe5j/how_jane_street_does_code_review_2017) - [How Jane Street Does Code Review (2017)](https://www.janestreet.com/tech-talks/janestreet-code-review/)
 * [2024-01-22, 05:40:10](https://lobste.rs/s/mdpgxd/minisforum_ms_01_review_10gbe_with_pcie) - [Minisforum MS-01 Review The 10GbE with PCIe Slot Mini PC](https://www.servethehome.com/minisforum-ms-01-review-the-10gbe-with-pcie-slot-mini-pc-intel/)
 * [2024-01-22, 04:05:08](https://lobste.rs/s/4xnl9h/textanalysistool_net) - [TextAnalysisTool.NET](https://textanalysistool.github.io/)
@@ -22,7 +23,6 @@
 * [2024-01-20, 16:37:25](https://lobste.rs/s/zxh4zq/linux_on_8_bit_micro_2012) - [Linux on an 8-bit micro? (2012)](https://dmitry.gr/?r=05.Projects&proj=07.%20Linux%20on%208bit)
 * [2024-01-20, 09:56:46](https://lobste.rs/s/afeve0/ceph_journey_1_tib_s) - [Ceph: A Journey to 1 TiB/s](https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/)
 * [2024-01-20, 06:24:25](https://lobste.rs/s/tah4r8/why_go_is_my_favorite_programming) - [Why Go is my favorite programming language (2017)](https://michael.stapelberg.ch/posts/2017-08-19-golang_favorite/)
-* [2024-01-20, 03:30:57](https://lobste.rs/s/pncbt2/nightshade_protecting_copyright) - [Nightshade: Protecting Copyright](https://nightshade.cs.uchicago.edu/whatis.html)
 * [2024-01-20, 00:16:18](https://lobste.rs/s/ylejdi/what_s_touchscreen_my_room) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
 * [2024-01-19, 21:35:59](https://lobste.rs/s/lh0f8v/platform_tilt_documenting_uneven) - [Platform Tilt: Documenting the Uneven Playing Field for an Independent Browser Like Firefox](https://blog.mozilla.org/netpolicy/2024/01/19/platform-tilt/)
 
