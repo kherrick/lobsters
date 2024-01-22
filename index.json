@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-22, 16:23:10",
+      "https://lobste.rs/s/ha8q1p/program_composition_notation_tutorial"
+    ],
+    [
+      "Program Composition Notation - a tutorial",
+      "http://www.call-with-current-continuation.org/articles/PCN-tutorial.txt"
+    ]
+  ],
+  [
+    [
       "2024-01-22, 16:07:35",
       "https://lobste.rs/s/muoar2/spritely_goblins_v0_12_0_released"
     ],
@@ -237,16 +247,6 @@
     [
       "The Bun Shell",
       "https://bun.sh/blog/the-bun-shell"
-    ]
-  ],
-  [
-    [
-      "2024-01-20, 00:16:18",
-      "https://lobste.rs/s/ylejdi/what_s_touchscreen_my_room"
-    ],
-    [
-      "What's that touchscreen in my room?",
-      "https://laplab.me/posts/whats-that-touchscreen-in-my-room/"
     ]
   ]
 ]
