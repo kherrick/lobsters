@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-22, 02:40:39",
+      "https://lobste.rs/s/xdaigg/our_least_favourite_x86_instruction"
+    ],
+    [
+      "Our least favourite x86 instruction",
+      "https://hackerbirds.neocities.org/x86-lea/"
+    ]
+  ],
+  [
+    [
       "2024-01-22, 01:16:14",
       "https://lobste.rs/s/phuaax/common_lisp_vs_racket_feedback_from"
     ],
@@ -227,16 +237,6 @@
     [
       "mseal() gets closer",
       "https://lwn.net/SubscriberLink/958438/d5f91f251b309612/"
-    ]
-  ],
-  [
-    [
-      "2024-01-19, 14:03:56",
-      "https://lobste.rs/s/tg8ofb/gleam_s_new_interactive_language_tour"
-    ],
-    [
-      "Gleam's New Interactive Language Tour",
-      "https://gleam.run/news/gleams-new-interactive-language-tour/"
     ]
   ],
   [
