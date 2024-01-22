@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-22, 15:44:44](https://lobste.rs/s/0tjc6q/four_challenges_cargo_semver_checks_has) - [Four challenges cargo-semver-checks has yet to tackle](https://predr.ag/blog/four-challenges-cargo-semver-checks-has-yet-to-tackle/)
 * [2024-01-22, 15:36:17](https://lobste.rs/s/gok1tn/modern_compiler_for_french_tax_code) - [A Modern Compiler for the French Tax Code](https://arxiv.org/pdf/2011.07966.pdf)
 * [2024-01-22, 15:28:14](https://lobste.rs/s/jswuxr/cognitive_load_software_development) - [Cognitive Load In Software Development](https://github.com/zakirullin/cognitive-load)
 * [2024-01-22, 13:53:43](https://lobste.rs/s/blidu7/finding_extroverted_programmers_for) - [Finding Extroverted Programmers For Pair Programming](https://lobste.rs/s/blidu7/finding_extroverted_programmers_for)
@@ -23,7 +24,6 @@
 * [2024-01-20, 22:54:37](https://lobste.rs/s/22whox/so_you_think_you_know_c) - [So you think you know C?](https://wordsandbuttons.online/so_you_think_you_know_c.html)
 * [2024-01-20, 18:49:41](https://lobste.rs/s/ipssk2/investigating_vanishing_bios_on_fujitsu) - [Investigating a vanishing BIOS on the Fujitsu LIFEBOOK AH532](https://blog.timschumi.net/2024/01/20/ah532-bios-investigation.html)
 * [2024-01-20, 18:02:19](https://lobste.rs/s/yh5kx5/bun_shell) - [The Bun Shell](https://bun.sh/blog/the-bun-shell)
-* [2024-01-20, 16:37:25](https://lobste.rs/s/zxh4zq/linux_on_8_bit_micro_2012) - [Linux on an 8-bit micro? (2012)](https://dmitry.gr/?r=05.Projects&proj=07.%20Linux%20on%208bit)
 * [2024-01-20, 00:16:18](https://lobste.rs/s/ylejdi/what_s_touchscreen_my_room) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
 
 ## [Archives](archives/index.md)
