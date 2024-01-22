@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-22, 23:24:17",
+      "https://lobste.rs/s/qxeujn/opentofu_is_going_ga"
+    ],
+    [
+      "OpenTofu is going GA",
+      "https://opentofu.org/blog/opentofu-is-going-ga/"
+    ]
+  ],
+  [
+    [
       "2024-01-22, 22:31:24",
       "https://lobste.rs/s/aat3zu/re_case_for_rust_base_system"
     ],
@@ -237,16 +247,6 @@
     [
       "Reading QR codes without a computer",
       "https://qr.blinry.org"
-    ]
-  ],
-  [
-    [
-      "2024-01-21, 12:03:25",
-      "https://lobste.rs/s/tjq6ig/clean_pointer_serialization_c"
-    ],
-    [
-      "Clean pointer serialization in C",
-      "https://30fps.net/pages/clean-pointer-serialization/"
     ]
   ]
 ]
