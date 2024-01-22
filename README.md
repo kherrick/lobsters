@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-22, 03:10:23](https://lobste.rs/s/sm3t1o/open_source_sustainability_crisis) - [The Open Source Sustainability Crisis](https://openpath.chadwhitacre.com/2024/the-open-source-sustainability-crisis/)
 * [2024-01-22, 02:40:39](https://lobste.rs/s/xdaigg/our_least_favourite_x86_instruction) - [Our least favourite x86 instruction](https://hackerbirds.neocities.org/x86-lea/)
 * [2024-01-22, 01:16:14](https://lobste.rs/s/phuaax/common_lisp_vs_racket_feedback_from) - [Common Lisp VS Racket. Feedback from lispers. (2021)](https://gist.github.com/vindarel/c1ef5e043773921e3b11d8f4fe1ca7ac)
 * [2024-01-22, 00:17:15](https://lobste.rs/s/slkn4g/python_packaging_must_be_getting_better) - [Python packaging must be getting better: a datapoint](https://lukeplant.me.uk/blog/posts/python-packaging-must-be-getting-better-a-datapoint/)
@@ -16,7 +17,6 @@
 * [2024-01-20, 18:49:41](https://lobste.rs/s/ipssk2/investigating_vanishing_bios_on_fujitsu) - [Investigating a vanishing BIOS on the Fujitsu LIFEBOOK AH532](https://blog.timschumi.net/2024/01/20/ah532-bios-investigation.html)
 * [2024-01-20, 18:02:19](https://lobste.rs/s/yh5kx5/bun_shell) - [The Bun Shell](https://bun.sh/blog/the-bun-shell)
 * [2024-01-20, 16:37:25](https://lobste.rs/s/zxh4zq/linux_on_8_bit_micro_2012) - [Linux on an 8-bit micro? (2012)](https://dmitry.gr/?r=05.Projects&proj=07.%20Linux%20on%208bit)
-* [2024-01-20, 14:44:54](https://lobste.rs/s/66ebq2/continuous_integration) - [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)
 * [2024-01-20, 09:56:46](https://lobste.rs/s/afeve0/ceph_journey_1_tib_s) - [Ceph: A Journey to 1 TiB/s](https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/)
 * [2024-01-20, 06:24:25](https://lobste.rs/s/tah4r8/why_go_is_my_favorite_programming) - [Why Go is my favorite programming language (2017)](https://michael.stapelberg.ch/posts/2017-08-19-golang_favorite/)
 * [2024-01-20, 04:37:56](https://lobste.rs/s/n0fhh0/data_model_debt_is_forever) - [Data Model Debt is Forever](https://emmanuelgenard.com/software-design/2024/01/19/data-model-debt-is-forever/)
