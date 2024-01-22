@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-22](index.md)
 
+* [2024-01-22, 04:05:08](https://lobste.rs/s/4xnl9h/textanalysistool_net) - [TextAnalysisTool.NET](https://textanalysistool.github.io/)
 * [2024-01-22, 03:10:23](https://lobste.rs/s/sm3t1o/open_source_sustainability_crisis) - [The Open Source Sustainability Crisis](https://openpath.chadwhitacre.com/2024/the-open-source-sustainability-crisis/)
 * [2024-01-22, 02:40:39](https://lobste.rs/s/xdaigg/our_least_favourite_x86_instruction) - [Our least favourite x86 instruction](https://hackerbirds.neocities.org/x86-lea/)
 * [2024-01-22, 01:16:14](https://lobste.rs/s/phuaax/common_lisp_vs_racket_feedback_from) - [Common Lisp VS Racket. Feedback from lispers. (2021)](https://gist.github.com/vindarel/c1ef5e043773921e3b11d8f4fe1ca7ac)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-22, 04:05:08](https://lobste.rs/s/4xnl9h/textanalysistool_net) - [TextAnalysisTool.NET](https://textanalysistool.github.io/)
 * [2024-01-22, 03:10:23](https://lobste.rs/s/sm3t1o/open_source_sustainability_crisis) - [The Open Source Sustainability Crisis](https://openpath.chadwhitacre.com/2024/the-open-source-sustainability-crisis/)
 * [2024-01-22, 02:40:39](https://lobste.rs/s/xdaigg/our_least_favourite_x86_instruction) - [Our least favourite x86 instruction](https://hackerbirds.neocities.org/x86-lea/)
 * [2024-01-22, 01:16:14](https://lobste.rs/s/phuaax/common_lisp_vs_racket_feedback_from) - [Common Lisp VS Racket. Feedback from lispers. (2021)](https://gist.github.com/vindarel/c1ef5e043773921e3b11d8f4fe1ca7ac)
@@ -24,7 +25,6 @@
 * [2024-01-20, 00:16:18](https://lobste.rs/s/ylejdi/what_s_touchscreen_my_room) - [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
 * [2024-01-19, 21:35:59](https://lobste.rs/s/lh0f8v/platform_tilt_documenting_uneven) - [Platform Tilt: Documenting the Uneven Playing Field for an Independent Browser Like Firefox](https://blog.mozilla.org/netpolicy/2024/01/19/platform-tilt/)
 * [2024-01-19, 18:34:23](https://lobste.rs/s/js3e1t/mseal_gets_closer) - [mseal() gets closer](https://lwn.net/SubscriberLink/958438/d5f91f251b309612/)
-* [2024-01-19, 12:11:14](https://lobste.rs/s/acqtoh/why_i_m_learning_deno) - [Why I’m learning Deno](https://commonlog.jjude.com/why-im-learning-deno/)
 
 ## [Archives](archives/index.md)
 
