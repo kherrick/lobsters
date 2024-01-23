@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-23, 02:25:18](https://lobste.rs/s/yd2arq/end_useless_ruby_sugar_on_intuitions) - [The end of “Useless Ruby sugar”: On intuitions and evolutions](https://zverok.substack.com/p/the-end-of-useless-ruby-sugar-on)
 * [2024-01-23, 02:17:14](https://lobste.rs/s/npuybh/mix08_story_ribbon_by_jensen_harris) - [MIX08: The Story of the Ribbon by Jensen Harris](https://www.youtube.com/watch?v=g8qOX6oSw7Y)
 * [2024-01-23, 01:39:51](https://lobste.rs/s/xdl5vn/sled_theoretical_performance_guide) - [sled theoretical performance guide](https://sled.rs/perf.html)
 * [2024-01-22, 23:24:17](https://lobste.rs/s/qxeujn/opentofu_is_going_ga) - [OpenTofu is going GA](https://opentofu.org/blog/opentofu-is-going-ga/)
@@ -9,7 +10,6 @@
 * [2024-01-22, 18:50:34](https://lobste.rs/s/degsgz/zig_s_hashmap) - [Zig's HashMap](https://www.openmymind.net/Zigs-HashMap-Part-1/)
 * [2024-01-22, 17:00:00](https://lobste.rs/s/yowedy/value_open_source_software) - [The Value of Open Source Software](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4693148)
 * [2024-01-22, 16:51:17](https://lobste.rs/s/eiq8ev/rng_runs_your_brain) - [An RNG that runs in your brain](https://www.hillelwayne.com/post/randomness/)
-* [2024-01-22, 16:49:15](https://lobste.rs/s/p706lw/making_check_cpu) - [Making: Check CPU](https://snats.xyz/pages/articles/making_ccpu.html)
 * [2024-01-22, 16:23:10](https://lobste.rs/s/ha8q1p/program_composition_notation_tutorial) - [Program Composition Notation - a tutorial](http://www.call-with-current-continuation.org/articles/PCN-tutorial.txt)
 * [2024-01-22, 16:07:35](https://lobste.rs/s/muoar2/spritely_goblins_v0_12_0_released) - [Spritely Goblins v0.12.0 released](https://spritely.institute/news/spritely-goblins-v0120-released-two-new-netlayers-join-the-ocapn-family-and-more.html)
 * [2024-01-22, 16:04:22](https://lobste.rs/s/yvuqvm/how_i_use_chatgpt_daily_scientist_coder) - [How I use ChatGPT daily (scientist/coder perspective)](https://bartwronski.com/2024/01/22/how-i-use-chatgpt-daily-scientist-coder-perspective/)
