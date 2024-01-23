@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-23, 03:44:06",
+      "https://lobste.rs/s/sowgci/easier_merges_on_lockfiles"
+    ],
+    [
+      "Easier merges on lockfiles",
+      "https://blog.aspect.dev/easier-merges-on-lockfiles"
+    ]
+  ],
+  [
+    [
       "2024-01-23, 02:25:18",
       "https://lobste.rs/s/yd2arq/end_useless_ruby_sugar_on_intuitions"
     ],
@@ -237,16 +247,6 @@
     [
       "C23: a slightly better C",
       "https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/"
-    ]
-  ],
-  [
-    [
-      "2024-01-21, 17:18:39",
-      "https://lobste.rs/s/p0hphk/reading_qr_codes_without_computer"
-    ],
-    [
-      "Reading QR codes without a computer",
-      "https://qr.blinry.org"
     ]
   ]
 ]
