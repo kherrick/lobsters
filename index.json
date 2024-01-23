@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-23, 19:36:08",
+      "https://lobste.rs/s/ylf985/4_reasons_try_mozilla_s_new_firefox_linux"
+    ],
+    [
+      "4 reasons to try Mozilla’s new Firefox Linux package for Ubuntu and Debian derivatives",
+      "https://blog.mozilla.org/en/products/4-reasons-to-try-mozillas-new-firefox-linux-package-for-ubuntu-and-debian-derivatives/"
+    ]
+  ],
+  [
+    [
       "2024-01-23, 19:22:56",
       "https://lobste.rs/s/by76rm/resources_on_building_robust_etl"
     ],
@@ -57,16 +67,6 @@
     [
       "TypeSpec",
       "https://typespec.io"
-    ]
-  ],
-  [
-    [
-      "2024-01-23, 15:13:16",
-      "https://lobste.rs/s/d3xkc4/vart_persistent_data_structure_for"
-    ],
-    [
-      "VART: A Persistent Data Structure For Snapshot Isolation",
-      "https://surrealdb.com/blog/vart-a-persistent-data-structure-for-snapshot-isolation"
     ]
   ],
   [
