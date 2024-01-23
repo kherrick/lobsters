@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-23, 13:38:29](https://lobste.rs/s/yn7pbi/serverfree_architecture_run_backend) - [ServerFree Architecture: run the \"backend code\" and the DB (SQLite) in the browser](https://subzero.cloud/blog/serverfree-architecture/)
 * [2024-01-23, 13:23:49](https://lobste.rs/s/wwubmh/scaling_terraform_at_thousandeyes) - [Scaling Terraform at ThousandEyes](https://medium.com/thousandeyes-engineering/scaling-terraform-at-thousandeyes-b2a581b8b0b0)
 * [2024-01-23, 12:56:34](https://lobste.rs/s/i4nfjj/donor_bounties_new_kind_feature_bounty) - [Donor Bounties: A New Kind of Feature Bounty](https://ziglang.org/news/announcing-donor-bounties/)
 * [2024-01-23, 12:42:32](https://lobste.rs/s/jkct2m/avoid_async_rust_blog_hugpoint_tech) - [Avoid Async Rust - blog.hugpoint.tech](https://blog.hugpoint.tech/avoid_async_rust.html)
@@ -10,7 +11,6 @@
 * [2024-01-23, 08:03:16](https://lobste.rs/s/s57zsp/optimizing_netbsd_amd64_kernel_boot_time) - [Optimizing NetBSD/amd64 Kernel Boot Time: A Performance Breakthrough](https://mail-index.netbsd.org/tech-kern/2024/01/23/msg029450.html)
 * [2024-01-23, 06:35:11](https://lobste.rs/s/wwq8el/announcing_saber_virtual_machine) - [Announcing the Saber Virtual Machine](https://ryanbrewer.dev/posts/announcing-svm.html)
 * [2024-01-23, 05:18:34](https://lobste.rs/s/818i8h/from_slow_simd_go_optimization_story) - [From slow to SIMD: A Go optimization story](https://sourcegraph.com/blog/slow-to-simd)
-* [2024-01-23, 04:49:19](https://lobste.rs/s/miboqd/journey_centre_jvm_2021) - [Journey to the Centre of the JVM (2021)](https://www.youtube.com/watch?v=EFkpmFt61Jo)
 * [2024-01-23, 02:25:18](https://lobste.rs/s/yd2arq/end_useless_ruby_sugar_on_intuitions) - [The end of “Useless Ruby sugar”: On intuitions and evolutions](https://zverok.substack.com/p/the-end-of-useless-ruby-sugar-on)
 * [2024-01-22, 23:24:17](https://lobste.rs/s/qxeujn/opentofu_is_going_ga) - [OpenTofu is going GA](https://opentofu.org/blog/opentofu-is-going-ga/)
 * [2024-01-22, 22:31:24](https://lobste.rs/s/aat3zu/re_case_for_rust_base_system) - [Re: The Case for Rust (in the base system)](https://lists.freebsd.org/archives/freebsd-hackers/2024-January/002876.html)
