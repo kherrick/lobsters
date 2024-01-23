@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-23, 13:38:29",
+      "https://lobste.rs/s/yn7pbi/serverfree_architecture_run_backend"
+    ],
+    [
+      "ServerFree Architecture: run the \"backend code\" and the DB (SQLite) in the browser",
+      "https://subzero.cloud/blog/serverfree-architecture/"
+    ]
+  ],
+  [
+    [
       "2024-01-23, 13:23:49",
       "https://lobste.rs/s/wwubmh/scaling_terraform_at_thousandeyes"
     ],
@@ -97,16 +107,6 @@
     [
       "From slow to SIMD: A Go optimization story",
       "https://sourcegraph.com/blog/slow-to-simd"
-    ]
-  ],
-  [
-    [
-      "2024-01-23, 04:49:19",
-      "https://lobste.rs/s/miboqd/journey_centre_jvm_2021"
-    ],
-    [
-      "Journey to the Centre of the JVM (2021)",
-      "https://www.youtube.com/watch?v=EFkpmFt61Jo"
     ]
   ],
   [
