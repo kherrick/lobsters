@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 11:20:02](https://lobste.rs/s/12qnj3/nominal_types_rust) - [Nominal Types in Rust](https://experimentalworks.net/posts/2024-01-22-simple-phantom-types/)
+* [2024-01-23, 11:17:51](https://lobste.rs/s/j9azeb/formalizing_date_arithmetic_statically) - [Formalizing Date Arithmetic and Statically Detecting Ambiguities for the Law](https://rmonat.fr/data/pubs/2024/2024-04-08_esop_dates.pdf)
 * [2024-01-23, 10:55:38](https://lobste.rs/s/q0bxri/towards_member_patterns) - [Towards member patterns](https://mail.openjdk.org/pipermail/amber-spec-experts/2024-January/003976.html)
 * [2024-01-23, 08:18:31](https://lobste.rs/s/niwfet/yacc_is_dead_2010) - [Yacc is dead (2010)](https://arxiv.org/pdf/1010.5023.pdf)
 * [2024-01-23, 08:03:16](https://lobste.rs/s/s57zsp/optimizing_netbsd_amd64_kernel_boot_time) - [Optimizing NetBSD/amd64 Kernel Boot Time: A Performance Breakthrough](https://mail-index.netbsd.org/tech-kern/2024/01/23/msg029450.html)
