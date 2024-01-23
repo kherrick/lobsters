@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-23, 18:51:38](https://lobste.rs/s/eazsvp/re_introduction_mkosi_tool_for) - [A re-introduction to mkosi -- A Tool for Generating OS Images](https://0pointer.net/blog/a-re-introduction-to-mkosi-a-tool-for-generating-os-images.html)
 * [2024-01-23, 18:31:19](https://lobste.rs/s/jce1tl/adaptive_time_compression_database) - [Adaptive _time compression — A database hacker story](https://axiom.co/blog/a-database-hacker-story)
 * [2024-01-23, 18:26:29](https://lobste.rs/s/3or7dd/tcl_on_brain_worms) - [TCL on the brain/worms](https://cohost.org/sakiamu/post/177439-tcl-on-the-brain)
 * [2024-01-23, 16:20:41](https://lobste.rs/s/08qpl3/lvgl_v9_is_released) - [LVGL v9 is released](https://blog.lvgl.io/2024-01-23/monthly-newsletter)
@@ -23,7 +24,6 @@
 * [2024-01-22, 18:50:34](https://lobste.rs/s/degsgz/zig_s_hashmap) - [Zig's HashMap](https://www.openmymind.net/Zigs-HashMap-Part-1/)
 * [2024-01-22, 16:51:17](https://lobste.rs/s/eiq8ev/rng_runs_your_brain) - [An RNG that runs in your brain](https://www.hillelwayne.com/post/randomness/)
 * [2024-01-22, 15:36:17](https://lobste.rs/s/gok1tn/modern_compiler_for_french_tax_code) - [A Modern Compiler for the French Tax Code](https://arxiv.org/pdf/2011.07966.pdf)
-* [2024-01-22, 15:28:14](https://lobste.rs/s/jswuxr/cognitive_load_software_development) - [Cognitive Load In Software Development](https://github.com/zakirullin/cognitive-load)
 * [2024-01-22, 13:39:15](https://lobste.rs/s/vcbixd/trunk_based_development) - [Trunk-Based Development](https://trunkbaseddevelopment.com/)
 
 ## [Archives](archives/index.md)

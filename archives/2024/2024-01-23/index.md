@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 18:51:38](https://lobste.rs/s/eazsvp/re_introduction_mkosi_tool_for) - [A re-introduction to mkosi -- A Tool for Generating OS Images](https://0pointer.net/blog/a-re-introduction-to-mkosi-a-tool-for-generating-os-images.html)
 * [2024-01-23, 18:31:19](https://lobste.rs/s/jce1tl/adaptive_time_compression_database) - [Adaptive _time compression — A database hacker story](https://axiom.co/blog/a-database-hacker-story)
 * [2024-01-23, 18:28:54](https://lobste.rs/s/pi8yqw/adaptive_time_compression_database) - [Adaptive _time compression — A database hacker story](https://axiom-co-git-blog-database-hacker.axiom.dev/blog/a-database-hacker-story)
 * [2024-01-23, 18:26:29](https://lobste.rs/s/3or7dd/tcl_on_brain_worms) - [TCL on the brain/worms](https://cohost.org/sakiamu/post/177439-tcl-on-the-brain)
