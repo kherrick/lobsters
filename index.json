@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-23, 19:22:56",
+      "https://lobste.rs/s/by76rm/resources_on_building_robust_etl"
+    ],
+    [
+      "Resources on building robust ETL pipelines",
+      "https://lobste.rs/s/by76rm/resources_on_building_robust_etl"
+    ]
+  ],
+  [
+    [
       "2024-01-23, 18:51:38",
       "https://lobste.rs/s/eazsvp/re_introduction_mkosi_tool_for"
     ],
@@ -147,16 +157,6 @@
     [
       "Yacc is dead (2010)",
       "https://arxiv.org/pdf/1010.5023.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-01-23, 08:03:16",
-      "https://lobste.rs/s/s57zsp/optimizing_netbsd_amd64_kernel_boot_time"
-    ],
-    [
-      "Optimizing NetBSD/amd64 Kernel Boot Time: A Performance Breakthrough",
-      "https://mail-index.netbsd.org/tech-kern/2024/01/23/msg029450.html"
     ]
   ],
   [
