@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-01-23, 15:13:03",
-      "https://lobste.rs/s/ddjull/governments_spying_on_apple_google_users"
-    ],
-    [
-      "Governments spying on Apple, Google users through push notifications - US senator",
-      "https://www.reuters.com/technology/cybersecurity/governments-spying-apple-google-users-through-push-notifications-us-senator-2023-12-06/"
-    ]
-  ],
-  [
-    [
       "2024-01-23, 14:19:08",
       "https://lobste.rs/s/10t8eg/introduction_loro_s_rich_text_crdt"
     ],
@@ -177,6 +167,16 @@
     [
       "Re: The Case for Rust (in the base system)",
       "https://lists.freebsd.org/archives/freebsd-hackers/2024-January/002876.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-22, 21:39:37",
+      "https://lobste.rs/s/5bqof5/mysql_s_random_number_generator"
+    ],
+    [
+      "MySQL's random number generator",
+      "https://www.sjoerdlangkemper.nl/2024/01/17/mysql-mariadb-rand-random-number-generator/"
     ]
   ],
   [
