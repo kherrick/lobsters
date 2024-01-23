@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 05:37:26](https://lobste.rs/s/tchyfr/pillars_perfect_web_framework) - [Pillars of a perfect web framework](https://nuejs.org/blog/perfect-web-framework/)
 * [2024-01-23, 05:18:34](https://lobste.rs/s/818i8h/from_slow_simd_go_optimization_story) - [From slow to SIMD: A Go optimization story](https://sourcegraph.com/blog/slow-to-simd)
 * [2024-01-23, 04:49:19](https://lobste.rs/s/miboqd/journey_centre_jvm_2021) - [Journey to the Centre of the JVM (2021)](https://www.youtube.com/watch?v=EFkpmFt61Jo)
 * [2024-01-23, 04:07:11](https://lobste.rs/s/slfy9g/how_platform_teams_get_stuff_done) - [How platform teams get stuff done](https://martinfowler.com/articles/platform-teams-stuff-done.html)
