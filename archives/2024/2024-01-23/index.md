@@ -8,6 +8,7 @@
 * [2024-01-23, 13:23:49](https://lobste.rs/s/wwubmh/scaling_terraform_at_thousandeyes) - [Scaling Terraform at ThousandEyes](https://medium.com/thousandeyes-engineering/scaling-terraform-at-thousandeyes-b2a581b8b0b0)
 * [2024-01-23, 12:56:34](https://lobste.rs/s/i4nfjj/donor_bounties_new_kind_feature_bounty) - [Donor Bounties: A New Kind of Feature Bounty](https://ziglang.org/news/announcing-donor-bounties/)
 * [2024-01-23, 12:42:32](https://lobste.rs/s/jkct2m/avoid_async_rust_blog_hugpoint_tech) - [Avoid Async Rust - blog.hugpoint.tech](https://blog.hugpoint.tech/avoid_async_rust.html)
+* [2024-01-23, 12:42:32](https://lobste.rs/s/jkct2m/avoid_async_rust) - [Avoid Async Rust](https://blog.hugpoint.tech/avoid_async_rust.html)
 * [2024-01-23, 11:20:02](https://lobste.rs/s/12qnj3/nominal_types_rust) - [Nominal Types in Rust](https://experimentalworks.net/posts/2024-01-22-simple-phantom-types/)
 * [2024-01-23, 11:17:51](https://lobste.rs/s/j9azeb/formalizing_date_arithmetic_statically) - [Formalizing Date Arithmetic and Statically Detecting Ambiguities for the Law](https://rmonat.fr/data/pubs/2024/2024-04-08_esop_dates.pdf)
 * [2024-01-23, 10:55:38](https://lobste.rs/s/q0bxri/towards_member_patterns) - [Towards member patterns](https://mail.openjdk.org/pipermail/amber-spec-experts/2024-January/003976.html)
