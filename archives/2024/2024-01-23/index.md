@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 10:55:38](https://lobste.rs/s/q0bxri/towards_member_patterns) - [Towards member patterns](https://mail.openjdk.org/pipermail/amber-spec-experts/2024-January/003976.html)
 * [2024-01-23, 08:18:31](https://lobste.rs/s/niwfet/yacc_is_dead_2010) - [Yacc is dead (2010)](https://arxiv.org/pdf/1010.5023.pdf)
 * [2024-01-23, 08:03:16](https://lobste.rs/s/s57zsp/optimizing_netbsd_amd64_kernel_boot_time) - [Optimizing NetBSD/amd64 Kernel Boot Time: A Performance Breakthrough](https://mail-index.netbsd.org/tech-kern/2024/01/23/msg029450.html)
 * [2024-01-23, 06:35:11](https://lobste.rs/s/wwq8el/announcing_saber_virtual_machine) - [Announcing the Saber Virtual Machine](https://ryanbrewer.dev/posts/announcing-svm.html)
