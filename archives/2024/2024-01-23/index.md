@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 20:18:05](https://lobste.rs/s/mxjmdx/sensenmann_code_deletion_at_scale) - [Sensenmann: Code Deletion at Scale](https://testing.googleblog.com/2023/04/sensenmann-code-deletion-at-scale.html)
 * [2024-01-23, 19:36:08](https://lobste.rs/s/ylf985/4_reasons_try_mozilla_s_new_firefox_linux) - [4 reasons to try Mozilla’s new Firefox Linux package for Ubuntu and Debian derivatives](https://blog.mozilla.org/en/products/4-reasons-to-try-mozillas-new-firefox-linux-package-for-ubuntu-and-debian-derivatives/)
 * [2024-01-23, 19:22:56](https://lobste.rs/s/by76rm/resources_on_building_robust_etl) - [Resources on building robust ETL pipelines](https://lobste.rs/s/by76rm/resources_on_building_robust_etl)
 * [2024-01-23, 18:51:38](https://lobste.rs/s/eazsvp/re_introduction_mkosi_tool_for) - [A re-introduction to mkosi -- A Tool for Generating OS Images](https://0pointer.net/blog/a-re-introduction-to-mkosi-a-tool-for-generating-os-images.html)
