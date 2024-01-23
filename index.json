@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-23, 13:23:49",
+      "https://lobste.rs/s/wwubmh/scaling_terraform_at_thousandeyes"
+    ],
+    [
+      "Scaling Terraform at ThousandEyes",
+      "https://medium.com/thousandeyes-engineering/scaling-terraform-at-thousandeyes-b2a581b8b0b0"
+    ]
+  ],
+  [
+    [
       "2024-01-23, 12:56:34",
       "https://lobste.rs/s/i4nfjj/donor_bounties_new_kind_feature_bounty"
     ],
@@ -217,16 +227,6 @@
     [
       "Trunk-Based Development",
       "https://trunkbaseddevelopment.com/"
-    ]
-  ],
-  [
-    [
-      "2024-01-22, 08:26:30",
-      "https://lobste.rs/s/slhe5j/how_jane_street_does_code_review_2017"
-    ],
-    [
-      "How Jane Street Does Code Review (2017)",
-      "https://www.janestreet.com/tech-talks/janestreet-code-review/"
     ]
   ],
   [
