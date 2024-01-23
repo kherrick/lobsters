@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-23, 19:22:56](https://lobste.rs/s/by76rm/resources_on_building_robust_etl) - [Resources on building robust ETL pipelines](https://lobste.rs/s/by76rm/resources_on_building_robust_etl)
 * [2024-01-23, 18:51:38](https://lobste.rs/s/eazsvp/re_introduction_mkosi_tool_for) - [A re-introduction to mkosi -- A Tool for Generating OS Images](https://0pointer.net/blog/a-re-introduction-to-mkosi-a-tool-for-generating-os-images.html)
 * [2024-01-23, 18:31:19](https://lobste.rs/s/jce1tl/adaptive_time_compression_database) - [Adaptive _time compression — A database hacker story](https://axiom.co/blog/a-database-hacker-story)
 * [2024-01-23, 18:26:29](https://lobste.rs/s/3or7dd/tcl_on_brain_worms) - [TCL on the brain/worms](https://cohost.org/sakiamu/post/177439-tcl-on-the-brain)
@@ -15,7 +16,6 @@
 * [2024-01-23, 11:17:51](https://lobste.rs/s/j9azeb/formalizing_date_arithmetic_statically) - [Formalizing Date Arithmetic and Statically Detecting Ambiguities for the Law](https://rmonat.fr/data/pubs/2024/2024-04-08_esop_dates.pdf)
 * [2024-01-23, 10:55:38](https://lobste.rs/s/q0bxri/towards_member_patterns) - [Towards member patterns](https://mail.openjdk.org/pipermail/amber-spec-experts/2024-January/003976.html)
 * [2024-01-23, 08:18:31](https://lobste.rs/s/niwfet/yacc_is_dead_2010) - [Yacc is dead (2010)](https://arxiv.org/pdf/1010.5023.pdf)
-* [2024-01-23, 08:03:16](https://lobste.rs/s/s57zsp/optimizing_netbsd_amd64_kernel_boot_time) - [Optimizing NetBSD/amd64 Kernel Boot Time: A Performance Breakthrough](https://mail-index.netbsd.org/tech-kern/2024/01/23/msg029450.html)
 * [2024-01-23, 06:35:11](https://lobste.rs/s/wwq8el/announcing_saber_virtual_machine) - [Announcing the Saber Virtual Machine](https://ryanbrewer.dev/posts/announcing-svm.html)
 * [2024-01-23, 05:18:34](https://lobste.rs/s/818i8h/from_slow_simd_go_optimization_story) - [From slow to SIMD: A Go optimization story](https://sourcegraph.com/blog/slow-to-simd)
 * [2024-01-23, 02:25:18](https://lobste.rs/s/yd2arq/end_useless_ruby_sugar_on_intuitions) - [The end of “Useless Ruby sugar”: On intuitions and evolutions](https://zverok.substack.com/p/the-end-of-useless-ruby-sugar-on)
