@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-01-23, 19:22:56",
-      "https://lobste.rs/s/by76rm/resources_on_building_robust_etl"
-    ],
-    [
-      "Resources on building robust ETL pipelines",
-      "https://lobste.rs/s/by76rm/resources_on_building_robust_etl"
-    ]
-  ],
-  [
-    [
       "2024-01-23, 18:51:38",
       "https://lobste.rs/s/eazsvp/re_introduction_mkosi_tool_for"
     ],
@@ -67,6 +57,16 @@
     [
       "TypeSpec",
       "https://typespec.io"
+    ]
+  ],
+  [
+    [
+      "2024-01-23, 15:13:16",
+      "https://lobste.rs/s/d3xkc4/vart_persistent_data_structure_for"
+    ],
+    [
+      "VART: A Persistent Data Structure For Snapshot Isolation",
+      "https://surrealdb.com/blog/vart-a-persistent-data-structure-for-snapshot-isolation"
     ]
   ],
   [
