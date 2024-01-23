@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-23, 12:56:34",
+      "https://lobste.rs/s/i4nfjj/donor_bounties_new_kind_feature_bounty"
+    ],
+    [
+      "Donor Bounties: A New Kind of Feature Bounty",
+      "https://ziglang.org/news/announcing-donor-bounties/"
+    ]
+  ],
+  [
+    [
       "2024-01-23, 12:42:32",
       "https://lobste.rs/s/jkct2m/avoid_async_rust_blog_hugpoint_tech"
     ],
@@ -97,16 +107,6 @@
     [
       "The end of “Useless Ruby sugar”: On intuitions and evolutions",
       "https://zverok.substack.com/p/the-end-of-useless-ruby-sugar-on"
-    ]
-  ],
-  [
-    [
-      "2024-01-23, 01:39:51",
-      "https://lobste.rs/s/xdl5vn/sled_theoretical_performance_guide"
-    ],
-    [
-      "sled theoretical performance guide",
-      "https://sled.rs/perf.html"
     ]
   ],
   [
