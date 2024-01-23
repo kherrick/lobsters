@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2024-01-23, 08:03:16",
+      "https://lobste.rs/s/s57zsp/optimizing_netbsd_amd64_kernel_boot_time"
+    ],
+    [
+      "Optimizing NetBSD/amd64 Kernel Boot Time: A Performance Breakthrough",
+      "https://mail-index.netbsd.org/tech-kern/2024/01/23/msg029450.html"
+    ]
+  ],
+  [
+    [
       "2024-01-23, 06:35:11",
       "https://lobste.rs/s/wwq8el/announcing_saber_virtual_machine"
     ],
@@ -187,16 +197,6 @@
     [
       "Re: The Case for Rust (in the base system)",
       "https://lists.freebsd.org/archives/freebsd-hackers/2024-January/002876.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-22, 19:10:51",
-      "https://lobste.rs/s/om55c2/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/om55c2/what_are_you_doing_this_week"
     ]
   ],
   [
