@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 08:18:31](https://lobste.rs/s/niwfet/yacc_is_dead_2010) - [Yacc is dead (2010)](https://arxiv.org/pdf/1010.5023.pdf)
+* [2024-01-23, 08:03:16](https://lobste.rs/s/s57zsp/optimizing_netbsd_amd64_kernel_boot_time) - [Optimizing NetBSD/amd64 Kernel Boot Time: A Performance Breakthrough](https://mail-index.netbsd.org/tech-kern/2024/01/23/msg029450.html)
 * [2024-01-23, 06:35:11](https://lobste.rs/s/wwq8el/announcing_saber_virtual_machine) - [Announcing the Saber Virtual Machine](https://ryanbrewer.dev/posts/announcing-svm.html)
 * [2024-01-23, 05:37:26](https://lobste.rs/s/tchyfr/pillars_perfect_web_framework) - [Pillars of a perfect web framework](https://nuejs.org/blog/perfect-web-framework/)
 * [2024-01-23, 05:18:34](https://lobste.rs/s/818i8h/from_slow_simd_go_optimization_story) - [From slow to SIMD: A Go optimization story](https://sourcegraph.com/blog/slow-to-simd)
