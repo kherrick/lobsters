@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 16:20:41](https://lobste.rs/s/08qpl3/lvgl_v9_is_released) - [LVGL v9 is released](https://blog.lvgl.io/2024-01-23/monthly-newsletter)
+* [2024-01-23, 16:12:57](https://lobste.rs/s/0atyak/typespec) - [TypeSpec](https://typespec.io)
 * [2024-01-23, 15:16:53](https://lobste.rs/s/evnq0d/serverless_clickhouse_cloud_asds) - [Serverless ClickHouse Cloud - ASDS Chapter 5 (part 1)](https://jack-vanlightly.com/analyses/2024/1/23/serverless-clickhouse-cloud-asds-chapter-5-part-1)
 * [2024-01-23, 15:14:15](https://lobste.rs/s/mq6mm5/cloud_optimized_transport_protocol_for) - [A Cloud-Optimized Transport Protocol for Elastic and Scalable HPC (2020)](https://assets.amazon.science/a6/34/41496f64421faafa1cbe301c007c/a-cloud-optimized-transport-protocol-for-elastic-and-scalable-hpc.pdf)
 * [2024-01-23, 15:13:16](https://lobste.rs/s/d3xkc4/vart_persistent_data_structure_for) - [VART: A Persistent Data Structure For Snapshot Isolation](https://surrealdb.com/blog/vart-a-persistent-data-structure-for-snapshot-isolation)
