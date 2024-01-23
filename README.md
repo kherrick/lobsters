@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-23, 01:39:51](https://lobste.rs/s/xdl5vn/sled_theoretical_performance_guide) - [sled theoretical performance guide](https://sled.rs/perf.html)
 * [2024-01-22, 23:24:17](https://lobste.rs/s/qxeujn/opentofu_is_going_ga) - [OpenTofu is going GA](https://opentofu.org/blog/opentofu-is-going-ga/)
 * [2024-01-22, 22:31:24](https://lobste.rs/s/aat3zu/re_case_for_rust_base_system) - [Re: The Case for Rust (in the base system)](https://lists.freebsd.org/archives/freebsd-hackers/2024-January/002876.html)
 * [2024-01-22, 21:39:37](https://lobste.rs/s/5bqof5/mysql_s_random_number_generator) - [MySQL's random number generator](https://www.sjoerdlangkemper.nl/2024/01/17/mysql-mariadb-rand-random-number-generator/)
@@ -14,7 +15,6 @@
 * [2024-01-22, 15:44:44](https://lobste.rs/s/0tjc6q/four_challenges_cargo_semver_checks_has) - [Four challenges cargo-semver-checks has yet to tackle](https://predr.ag/blog/four-challenges-cargo-semver-checks-has-yet-to-tackle/)
 * [2024-01-22, 15:36:17](https://lobste.rs/s/gok1tn/modern_compiler_for_french_tax_code) - [A Modern Compiler for the French Tax Code](https://arxiv.org/pdf/2011.07966.pdf)
 * [2024-01-22, 15:28:14](https://lobste.rs/s/jswuxr/cognitive_load_software_development) - [Cognitive Load In Software Development](https://github.com/zakirullin/cognitive-load)
-* [2024-01-22, 13:53:43](https://lobste.rs/s/blidu7/finding_extroverted_programmers_for) - [Finding Extroverted Programmers For Pair Programming](https://lobste.rs/s/blidu7/finding_extroverted_programmers_for)
 * [2024-01-22, 13:39:15](https://lobste.rs/s/vcbixd/trunk_based_development) - [Trunk-Based Development](https://trunkbaseddevelopment.com/)
 * [2024-01-22, 08:26:30](https://lobste.rs/s/slhe5j/how_jane_street_does_code_review_2017) - [How Jane Street Does Code Review (2017)](https://www.janestreet.com/tech-talks/janestreet-code-review/)
 * [2024-01-22, 05:40:10](https://lobste.rs/s/mdpgxd/minisforum_ms_01_review_10gbe_with_pcie) - [Minisforum MS-01 Review The 10GbE with PCIe Slot Mini PC](https://www.servethehome.com/minisforum-ms-01-review-the-10gbe-with-pcie-slot-mini-pc-intel/)
