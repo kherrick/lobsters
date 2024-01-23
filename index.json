@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-23, 11:20:02",
+      "https://lobste.rs/s/12qnj3/nominal_types_rust"
+    ],
+    [
+      "Nominal Types in Rust",
+      "https://experimentalworks.net/posts/2024-01-22-simple-phantom-types/"
+    ]
+  ],
+  [
+    [
+      "2024-01-23, 11:17:51",
+      "https://lobste.rs/s/j9azeb/formalizing_date_arithmetic_statically"
+    ],
+    [
+      "Formalizing Date Arithmetic and Statically Detecting Ambiguities for the Law",
+      "https://rmonat.fr/data/pubs/2024/2024-04-08_esop_dates.pdf"
+    ]
+  ],
+  [
+    [
       "2024-01-23, 10:55:38",
       "https://lobste.rs/s/q0bxri/towards_member_patterns"
     ],
@@ -57,16 +77,6 @@
     [
       "Journey to the Centre of the JVM (2021)",
       "https://www.youtube.com/watch?v=EFkpmFt61Jo"
-    ]
-  ],
-  [
-    [
-      "2024-01-23, 03:44:06",
-      "https://lobste.rs/s/sowgci/easier_merges_on_lockfiles"
-    ],
-    [
-      "Easier merges on lockfiles",
-      "https://blog.aspect.dev/easier-merges-on-lockfiles"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "An RNG that runs in your brain",
       "https://www.hillelwayne.com/post/randomness/"
-    ]
-  ],
-  [
-    [
-      "2024-01-22, 16:23:10",
-      "https://lobste.rs/s/ha8q1p/program_composition_notation_tutorial"
-    ],
-    [
-      "Program Composition Notation - a tutorial",
-      "http://www.call-with-current-continuation.org/articles/PCN-tutorial.txt"
     ]
   ],
   [
