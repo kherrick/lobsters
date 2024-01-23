@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-23, 22:20:50",
+      "https://lobste.rs/s/prrora/fun_with_deducing_this_lambdas"
+    ],
+    [
+      "Fun with “deducing this” lambdas",
+      "https://quuxplusone.github.io/blog/2024/01/23/capturing-lambda-deducing-this/"
+    ]
+  ],
+  [
+    [
       "2024-01-23, 20:40:17",
       "https://lobste.rs/s/rt8dnk/possibility_making_138_000_from_shredded"
     ],
@@ -157,16 +167,6 @@
     [
       "Yacc is dead (2010)",
       "https://arxiv.org/pdf/1010.5023.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-01-23, 08:03:16",
-      "https://lobste.rs/s/s57zsp/optimizing_netbsd_amd64_kernel_boot_time"
-    ],
-    [
-      "Optimizing NetBSD/amd64 Kernel Boot Time: A Performance Breakthrough",
-      "https://mail-index.netbsd.org/tech-kern/2024/01/23/msg029450.html"
     ]
   ],
   [
