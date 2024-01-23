@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-23, 08:18:31",
+      "https://lobste.rs/s/niwfet/yacc_is_dead_2010"
+    ],
+    [
+      "Yacc is dead (2010)",
+      "https://arxiv.org/pdf/1010.5023.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-01-23, 08:03:16",
+      "https://lobste.rs/s/s57zsp/optimizing_netbsd_amd64_kernel_boot_time"
+    ],
+    [
+      "Optimizing NetBSD/amd64 Kernel Boot Time: A Performance Breakthrough",
+      "https://mail-index.netbsd.org/tech-kern/2024/01/23/msg029450.html"
+    ]
+  ],
+  [
+    [
       "2024-01-23, 06:35:11",
       "https://lobste.rs/s/wwq8el/announcing_saber_virtual_machine"
     ],
@@ -27,16 +47,6 @@
     [
       "Journey to the Centre of the JVM (2021)",
       "https://www.youtube.com/watch?v=EFkpmFt61Jo"
-    ]
-  ],
-  [
-    [
-      "2024-01-23, 04:07:11",
-      "https://lobste.rs/s/slfy9g/how_platform_teams_get_stuff_done"
-    ],
-    [
-      "How platform teams get stuff done",
-      "https://martinfowler.com/articles/platform-teams-stuff-done.html"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "How Jane Street Does Code Review (2017)",
       "https://www.janestreet.com/tech-talks/janestreet-code-review/"
-    ]
-  ],
-  [
-    [
-      "2024-01-22, 05:40:10",
-      "https://lobste.rs/s/mdpgxd/minisforum_ms_01_review_10gbe_with_pcie"
-    ],
-    [
-      "Minisforum MS-01 Review The 10GbE with PCIe Slot Mini PC",
-      "https://www.servethehome.com/minisforum-ms-01-review-the-10gbe-with-pcie-slot-mini-pc-intel/"
     ]
   ],
   [
