@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-23, 12:42:32](https://lobste.rs/s/jkct2m/avoid_async_rust_blog_hugpoint_tech) - [Avoid Async Rust - blog.hugpoint.tech](https://blog.hugpoint.tech/avoid_async_rust.html)
 * [2024-01-23, 11:20:02](https://lobste.rs/s/12qnj3/nominal_types_rust) - [Nominal Types in Rust](https://experimentalworks.net/posts/2024-01-22-simple-phantom-types/)
 * [2024-01-23, 11:17:51](https://lobste.rs/s/j9azeb/formalizing_date_arithmetic_statically) - [Formalizing Date Arithmetic and Statically Detecting Ambiguities for the Law](https://rmonat.fr/data/pubs/2024/2024-04-08_esop_dates.pdf)
 * [2024-01-23, 10:55:38](https://lobste.rs/s/q0bxri/towards_member_patterns) - [Towards member patterns](https://mail.openjdk.org/pipermail/amber-spec-experts/2024-January/003976.html)
@@ -23,7 +24,6 @@
 * [2024-01-22, 13:39:15](https://lobste.rs/s/vcbixd/trunk_based_development) - [Trunk-Based Development](https://trunkbaseddevelopment.com/)
 * [2024-01-22, 08:26:30](https://lobste.rs/s/slhe5j/how_jane_street_does_code_review_2017) - [How Jane Street Does Code Review (2017)](https://www.janestreet.com/tech-talks/janestreet-code-review/)
 * [2024-01-22, 03:10:23](https://lobste.rs/s/sm3t1o/open_source_sustainability_crisis) - [The Open Source Sustainability Crisis](https://openpath.chadwhitacre.com/2024/the-open-source-sustainability-crisis/)
-* [2024-01-22, 00:17:15](https://lobste.rs/s/slkn4g/python_packaging_must_be_getting_better) - [Python packaging must be getting better: a datapoint](https://lukeplant.me.uk/blog/posts/python-packaging-must-be-getting-better-a-datapoint/)
 * [2024-01-21, 20:28:03](https://lobste.rs/s/cw4umh/c23_slightly_better_c) - [C23: a slightly better C](https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/)
 
 ## [Archives](archives/index.md)
