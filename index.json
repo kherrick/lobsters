@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-01-23, 19:22:56",
+      "https://lobste.rs/s/by76rm/resources_on_building_robust_etl"
+    ],
+    [
+      "Resources on building robust ETL pipelines",
+      "https://lobste.rs/s/by76rm/resources_on_building_robust_etl"
+    ]
+  ],
+  [
+    [
       "2024-01-23, 18:51:38",
       "https://lobste.rs/s/eazsvp/re_introduction_mkosi_tool_for"
     ],
@@ -167,16 +177,6 @@
     [
       "Announcing the Saber Virtual Machine",
       "https://ryanbrewer.dev/posts/announcing-svm.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-23, 05:18:34",
-      "https://lobste.rs/s/818i8h/from_slow_simd_go_optimization_story"
-    ],
-    [
-      "From slow to SIMD: A Go optimization story",
-      "https://sourcegraph.com/blog/slow-to-simd"
     ]
   ],
   [
