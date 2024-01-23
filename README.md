@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-23, 15:16:53](https://lobste.rs/s/evnq0d/serverless_clickhouse_cloud_asds) - [Serverless ClickHouse Cloud - ASDS Chapter 5 (part 1)](https://jack-vanlightly.com/analyses/2024/1/23/serverless-clickhouse-cloud-asds-chapter-5-part-1)
+* [2024-01-23, 15:14:15](https://lobste.rs/s/mq6mm5/cloud_optimized_transport_protocol_for) - [A Cloud-Optimized Transport Protocol for Elastic and Scalable HPC (2020)](https://assets.amazon.science/a6/34/41496f64421faafa1cbe301c007c/a-cloud-optimized-transport-protocol-for-elastic-and-scalable-hpc.pdf)
+* [2024-01-23, 15:13:16](https://lobste.rs/s/d3xkc4/vart_persistent_data_structure_for) - [VART: A Persistent Data Structure For Snapshot Isolation](https://surrealdb.com/blog/vart-a-persistent-data-structure-for-snapshot-isolation)
+* [2024-01-23, 15:13:03](https://lobste.rs/s/ddjull/governments_spying_on_apple_google_users) - [Governments spying on Apple, Google users through push notifications - US senator](https://www.reuters.com/technology/cybersecurity/governments-spying-apple-google-users-through-push-notifications-us-senator-2023-12-06/)
 * [2024-01-23, 14:19:08](https://lobste.rs/s/10t8eg/introduction_loro_s_rich_text_crdt) - [Introduction to Loro's Rich Text CRDT](https://www.loro.dev/blog/loro-richtext)
 * [2024-01-23, 13:38:29](https://lobste.rs/s/yn7pbi/serverfree_architecture_run_backend) - [ServerFree Architecture: run the \"backend code\" and the DB (SQLite) in the browser](https://subzero.cloud/blog/serverfree-architecture/)
 * [2024-01-23, 13:23:49](https://lobste.rs/s/wwubmh/scaling_terraform_at_thousandeyes) - [Scaling Terraform at ThousandEyes](https://medium.com/thousandeyes-engineering/scaling-terraform-at-thousandeyes-b2a581b8b0b0)
@@ -9,13 +13,11 @@
 * [2024-01-23, 11:17:51](https://lobste.rs/s/j9azeb/formalizing_date_arithmetic_statically) - [Formalizing Date Arithmetic and Statically Detecting Ambiguities for the Law](https://rmonat.fr/data/pubs/2024/2024-04-08_esop_dates.pdf)
 * [2024-01-23, 10:55:38](https://lobste.rs/s/q0bxri/towards_member_patterns) - [Towards member patterns](https://mail.openjdk.org/pipermail/amber-spec-experts/2024-January/003976.html)
 * [2024-01-23, 08:18:31](https://lobste.rs/s/niwfet/yacc_is_dead_2010) - [Yacc is dead (2010)](https://arxiv.org/pdf/1010.5023.pdf)
-* [2024-01-23, 08:03:16](https://lobste.rs/s/s57zsp/optimizing_netbsd_amd64_kernel_boot_time) - [Optimizing NetBSD/amd64 Kernel Boot Time: A Performance Breakthrough](https://mail-index.netbsd.org/tech-kern/2024/01/23/msg029450.html)
 * [2024-01-23, 06:35:11](https://lobste.rs/s/wwq8el/announcing_saber_virtual_machine) - [Announcing the Saber Virtual Machine](https://ryanbrewer.dev/posts/announcing-svm.html)
 * [2024-01-23, 05:18:34](https://lobste.rs/s/818i8h/from_slow_simd_go_optimization_story) - [From slow to SIMD: A Go optimization story](https://sourcegraph.com/blog/slow-to-simd)
 * [2024-01-23, 02:25:18](https://lobste.rs/s/yd2arq/end_useless_ruby_sugar_on_intuitions) - [The end of “Useless Ruby sugar”: On intuitions and evolutions](https://zverok.substack.com/p/the-end-of-useless-ruby-sugar-on)
 * [2024-01-22, 23:24:17](https://lobste.rs/s/qxeujn/opentofu_is_going_ga) - [OpenTofu is going GA](https://opentofu.org/blog/opentofu-is-going-ga/)
 * [2024-01-22, 22:31:24](https://lobste.rs/s/aat3zu/re_case_for_rust_base_system) - [Re: The Case for Rust (in the base system)](https://lists.freebsd.org/archives/freebsd-hackers/2024-January/002876.html)
-* [2024-01-22, 21:39:37](https://lobste.rs/s/5bqof5/mysql_s_random_number_generator) - [MySQL's random number generator](https://www.sjoerdlangkemper.nl/2024/01/17/mysql-mariadb-rand-random-number-generator/)
 * [2024-01-22, 19:10:51](https://lobste.rs/s/om55c2/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/om55c2/what_are_you_doing_this_week)
 * [2024-01-22, 18:50:34](https://lobste.rs/s/degsgz/zig_s_hashmap) - [Zig's HashMap](https://www.openmymind.net/Zigs-HashMap-Part-1/)
 * [2024-01-22, 16:51:17](https://lobste.rs/s/eiq8ev/rng_runs_your_brain) - [An RNG that runs in your brain](https://www.hillelwayne.com/post/randomness/)
@@ -23,8 +25,6 @@
 * [2024-01-22, 15:36:17](https://lobste.rs/s/gok1tn/modern_compiler_for_french_tax_code) - [A Modern Compiler for the French Tax Code](https://arxiv.org/pdf/2011.07966.pdf)
 * [2024-01-22, 15:28:14](https://lobste.rs/s/jswuxr/cognitive_load_software_development) - [Cognitive Load In Software Development](https://github.com/zakirullin/cognitive-load)
 * [2024-01-22, 13:39:15](https://lobste.rs/s/vcbixd/trunk_based_development) - [Trunk-Based Development](https://trunkbaseddevelopment.com/)
-* [2024-01-22, 03:10:23](https://lobste.rs/s/sm3t1o/open_source_sustainability_crisis) - [The Open Source Sustainability Crisis](https://openpath.chadwhitacre.com/2024/the-open-source-sustainability-crisis/)
-* [2024-01-21, 20:28:03](https://lobste.rs/s/cw4umh/c23_slightly_better_c) - [C23: a slightly better C](https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/)
 
 ## [Archives](archives/index.md)
 

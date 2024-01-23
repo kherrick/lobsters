@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 15:16:53](https://lobste.rs/s/evnq0d/serverless_clickhouse_cloud_asds) - [Serverless ClickHouse Cloud - ASDS Chapter 5 (part 1)](https://jack-vanlightly.com/analyses/2024/1/23/serverless-clickhouse-cloud-asds-chapter-5-part-1)
+* [2024-01-23, 15:14:15](https://lobste.rs/s/mq6mm5/cloud_optimized_transport_protocol_for) - [A Cloud-Optimized Transport Protocol for Elastic and Scalable HPC (2020)](https://assets.amazon.science/a6/34/41496f64421faafa1cbe301c007c/a-cloud-optimized-transport-protocol-for-elastic-and-scalable-hpc.pdf)
+* [2024-01-23, 15:13:16](https://lobste.rs/s/d3xkc4/vart_persistent_data_structure_for) - [VART: A Persistent Data Structure For Snapshot Isolation](https://surrealdb.com/blog/vart-a-persistent-data-structure-for-snapshot-isolation)
+* [2024-01-23, 15:13:03](https://lobste.rs/s/ddjull/governments_spying_on_apple_google_users) - [Governments spying on Apple, Google users through push notifications - US senator](https://www.reuters.com/technology/cybersecurity/governments-spying-apple-google-users-through-push-notifications-us-senator-2023-12-06/)
 * [2024-01-23, 14:19:08](https://lobste.rs/s/10t8eg/introduction_loro_s_rich_text_crdt) - [Introduction to Loro's Rich Text CRDT](https://www.loro.dev/blog/loro-richtext)
 * [2024-01-23, 13:38:29](https://lobste.rs/s/yn7pbi/serverfree_architecture_run_backend) - [ServerFree Architecture: run the \"backend code\" and the DB (SQLite) in the browser](https://subzero.cloud/blog/serverfree-architecture/)
 * [2024-01-23, 13:23:49](https://lobste.rs/s/wwubmh/scaling_terraform_at_thousandeyes) - [Scaling Terraform at ThousandEyes](https://medium.com/thousandeyes-engineering/scaling-terraform-at-thousandeyes-b2a581b8b0b0)
