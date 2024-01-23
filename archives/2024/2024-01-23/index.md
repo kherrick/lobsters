@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 06:35:11](https://lobste.rs/s/wwq8el/announcing_saber_virtual_machine) - [Announcing the Saber Virtual Machine](https://ryanbrewer.dev/posts/announcing-svm.html)
 * [2024-01-23, 05:37:26](https://lobste.rs/s/tchyfr/pillars_perfect_web_framework) - [Pillars of a perfect web framework](https://nuejs.org/blog/perfect-web-framework/)
 * [2024-01-23, 05:18:34](https://lobste.rs/s/818i8h/from_slow_simd_go_optimization_story) - [From slow to SIMD: A Go optimization story](https://sourcegraph.com/blog/slow-to-simd)
 * [2024-01-23, 04:49:19](https://lobste.rs/s/miboqd/journey_centre_jvm_2021) - [Journey to the Centre of the JVM (2021)](https://www.youtube.com/watch?v=EFkpmFt61Jo)
