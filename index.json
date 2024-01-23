@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-23, 04:07:11",
+      "https://lobste.rs/s/slfy9g/how_platform_teams_get_stuff_done"
+    ],
+    [
+      "How platform teams get stuff done",
+      "https://martinfowler.com/articles/platform-teams-stuff-done.html"
+    ]
+  ],
+  [
+    [
       "2024-01-23, 03:44:06",
       "https://lobste.rs/s/sowgci/easier_merges_on_lockfiles"
     ],
@@ -217,16 +227,6 @@
     [
       "Our least favourite x86 instruction",
       "https://hackerbirds.neocities.org/x86-lea/"
-    ]
-  ],
-  [
-    [
-      "2024-01-22, 01:16:14",
-      "https://lobste.rs/s/phuaax/common_lisp_vs_racket_feedback_from"
-    ],
-    [
-      "Common Lisp VS Racket. Feedback from lispers. (2021)",
-      "https://gist.github.com/vindarel/c1ef5e043773921e3b11d8f4fe1ca7ac"
     ]
   ],
   [
