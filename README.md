@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-23, 02:17:14](https://lobste.rs/s/npuybh/mix08_story_ribbon_by_jensen_harris) - [MIX08: The Story of the Ribbon by Jensen Harris](https://www.youtube.com/watch?v=g8qOX6oSw7Y)
 * [2024-01-23, 01:39:51](https://lobste.rs/s/xdl5vn/sled_theoretical_performance_guide) - [sled theoretical performance guide](https://sled.rs/perf.html)
 * [2024-01-22, 23:24:17](https://lobste.rs/s/qxeujn/opentofu_is_going_ga) - [OpenTofu is going GA](https://opentofu.org/blog/opentofu-is-going-ga/)
 * [2024-01-22, 22:31:24](https://lobste.rs/s/aat3zu/re_case_for_rust_base_system) - [Re: The Case for Rust (in the base system)](https://lists.freebsd.org/archives/freebsd-hackers/2024-January/002876.html)
@@ -22,7 +23,6 @@
 * [2024-01-22, 02:40:39](https://lobste.rs/s/xdaigg/our_least_favourite_x86_instruction) - [Our least favourite x86 instruction](https://hackerbirds.neocities.org/x86-lea/)
 * [2024-01-22, 01:16:14](https://lobste.rs/s/phuaax/common_lisp_vs_racket_feedback_from) - [Common Lisp VS Racket. Feedback from lispers. (2021)](https://gist.github.com/vindarel/c1ef5e043773921e3b11d8f4fe1ca7ac)
 * [2024-01-22, 00:17:15](https://lobste.rs/s/slkn4g/python_packaging_must_be_getting_better) - [Python packaging must be getting better: a datapoint](https://lukeplant.me.uk/blog/posts/python-packaging-must-be-getting-better-a-datapoint/)
-* [2024-01-21, 20:40:08](https://lobste.rs/s/alxtez/implementing_system_versioned_tables) - [Implementing System-Versioned Tables in Postgres](https://hypirion.com/musings/implementing-system-versioned-tables-in-postgres)
 * [2024-01-21, 20:28:03](https://lobste.rs/s/cw4umh/c23_slightly_better_c) - [C23: a slightly better C](https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/)
 * [2024-01-21, 17:18:39](https://lobste.rs/s/p0hphk/reading_qr_codes_without_computer) - [Reading QR codes without a computer](https://qr.blinry.org)
 
