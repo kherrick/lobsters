@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-23](index.md)
 
+* [2024-01-23, 14:19:08](https://lobste.rs/s/10t8eg/introduction_loro_s_rich_text_crdt) - [Introduction to Loro's Rich Text CRDT](https://www.loro.dev/blog/loro-richtext)
 * [2024-01-23, 13:38:29](https://lobste.rs/s/yn7pbi/serverfree_architecture_run_backend) - [ServerFree Architecture: run the \"backend code\" and the DB (SQLite) in the browser](https://subzero.cloud/blog/serverfree-architecture/)
 * [2024-01-23, 13:23:49](https://lobste.rs/s/wwubmh/scaling_terraform_at_thousandeyes) - [Scaling Terraform at ThousandEyes](https://medium.com/thousandeyes-engineering/scaling-terraform-at-thousandeyes-b2a581b8b0b0)
 * [2024-01-23, 12:56:34](https://lobste.rs/s/i4nfjj/donor_bounties_new_kind_feature_bounty) - [Donor Bounties: A New Kind of Feature Bounty](https://ziglang.org/news/announcing-donor-bounties/)

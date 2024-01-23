@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-23, 14:19:08](https://lobste.rs/s/10t8eg/introduction_loro_s_rich_text_crdt) - [Introduction to Loro's Rich Text CRDT](https://www.loro.dev/blog/loro-richtext)
 * [2024-01-23, 13:38:29](https://lobste.rs/s/yn7pbi/serverfree_architecture_run_backend) - [ServerFree Architecture: run the \"backend code\" and the DB (SQLite) in the browser](https://subzero.cloud/blog/serverfree-architecture/)
 * [2024-01-23, 13:23:49](https://lobste.rs/s/wwubmh/scaling_terraform_at_thousandeyes) - [Scaling Terraform at ThousandEyes](https://medium.com/thousandeyes-engineering/scaling-terraform-at-thousandeyes-b2a581b8b0b0)
 * [2024-01-23, 12:56:34](https://lobste.rs/s/i4nfjj/donor_bounties_new_kind_feature_bounty) - [Donor Bounties: A New Kind of Feature Bounty](https://ziglang.org/news/announcing-donor-bounties/)
@@ -19,7 +20,6 @@
 * [2024-01-22, 18:50:34](https://lobste.rs/s/degsgz/zig_s_hashmap) - [Zig's HashMap](https://www.openmymind.net/Zigs-HashMap-Part-1/)
 * [2024-01-22, 16:51:17](https://lobste.rs/s/eiq8ev/rng_runs_your_brain) - [An RNG that runs in your brain](https://www.hillelwayne.com/post/randomness/)
 * [2024-01-22, 16:07:35](https://lobste.rs/s/muoar2/spritely_goblins_v0_12_0_released) - [Spritely Goblins v0.12.0 released](https://spritely.institute/news/spritely-goblins-v0120-released-two-new-netlayers-join-the-ocapn-family-and-more.html)
-* [2024-01-22, 16:04:22](https://lobste.rs/s/yvuqvm/how_i_use_chatgpt_daily_scientist_coder) - [How I use ChatGPT daily (scientist/coder perspective)](https://bartwronski.com/2024/01/22/how-i-use-chatgpt-daily-scientist-coder-perspective/)
 * [2024-01-22, 15:36:17](https://lobste.rs/s/gok1tn/modern_compiler_for_french_tax_code) - [A Modern Compiler for the French Tax Code](https://arxiv.org/pdf/2011.07966.pdf)
 * [2024-01-22, 15:28:14](https://lobste.rs/s/jswuxr/cognitive_load_software_development) - [Cognitive Load In Software Development](https://github.com/zakirullin/cognitive-load)
 * [2024-01-22, 13:39:15](https://lobste.rs/s/vcbixd/trunk_based_development) - [Trunk-Based Development](https://trunkbaseddevelopment.com/)
