@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-01-23, 20:18:05",
-      "https://lobste.rs/s/mxjmdx/sensenmann_code_deletion_at_scale"
-    ],
-    [
-      "Sensenmann: Code Deletion at Scale",
-      "https://testing.googleblog.com/2023/04/sensenmann-code-deletion-at-scale.html"
-    ]
-  ],
-  [
-    [
       "2024-01-23, 19:36:08",
       "https://lobste.rs/s/ylf985/4_reasons_try_mozilla_s_new_firefox_linux"
     ],
@@ -167,6 +157,16 @@
     [
       "Yacc is dead (2010)",
       "https://arxiv.org/pdf/1010.5023.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-01-23, 08:03:16",
+      "https://lobste.rs/s/s57zsp/optimizing_netbsd_amd64_kernel_boot_time"
+    ],
+    [
+      "Optimizing NetBSD/amd64 Kernel Boot Time: A Performance Breakthrough",
+      "https://mail-index.netbsd.org/tech-kern/2024/01/23/msg029450.html"
     ]
   ],
   [
