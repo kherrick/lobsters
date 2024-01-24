@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-24, 17:16:38",
+      "https://lobste.rs/s/ihknxu/service_worker_lifecycle"
+    ],
+    [
+      "The service worker lifecycle",
+      "https://web.dev/articles/service-worker-lifecycle"
+    ]
+  ],
+  [
+    [
+      "2024-01-24, 17:08:28",
+      "https://lobste.rs/s/rpsiwl/zed_is_now_open_source"
+    ],
+    [
+      "Zed is now open source",
+      "https://zed.dev/blog/zed-is-now-open-source"
+    ]
+  ],
+  [
+    [
       "2024-01-24, 16:53:20",
       "https://lobste.rs/s/anrg48/mtm_perhaps_smallest_useful_terminal"
     ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2024-01-23, 16:12:57",
-      "https://lobste.rs/s/0atyak/typespec"
-    ],
-    [
-      "TypeSpec",
-      "https://typespec.io"
-    ]
-  ],
-  [
-    [
       "2024-01-23, 13:38:29",
       "https://lobste.rs/s/yn7pbi/serverfree_architecture_run_backend"
     ],
     [
       "ServerFree Architecture: run the \"backend code\" and the DB (SQLite) in the browser",
       "https://subzero.cloud/blog/serverfree-architecture/"
-    ]
-  ],
-  [
-    [
-      "2024-01-23, 13:23:49",
-      "https://lobste.rs/s/wwubmh/scaling_terraform_at_thousandeyes"
-    ],
-    [
-      "Scaling Terraform at ThousandEyes",
-      "https://medium.com/thousandeyes-engineering/scaling-terraform-at-thousandeyes-b2a581b8b0b0"
     ]
   ],
   [
