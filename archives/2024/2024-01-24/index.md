@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 20:28:17](https://lobste.rs/s/nybzis/insanely_great_apple_mac_at_40) - [Insanely Great: The Apple Mac at 40](https://computerhistory.org/events/insanely-great/)
 * [2024-01-24, 20:06:27](https://lobste.rs/s/4iym8m/zx_spectrum_raytracer) - [ZX Spectrum Raytracer](https://gabrielgambetta.com/zx-raytracer.html)
 * [2024-01-24, 18:18:05](https://lobste.rs/s/xcmf7e/speeding_up_zsh_startup) - [Speeding up zsh startup](https://notes.billmill.org/computer_usage/zsh/profiling_zsh_startup.html)
 * [2024-01-24, 18:13:55](https://lobste.rs/s/zyd4k7/dolphin_mastering_art_automated_droplet) - [Dolphin: Mastering the Art of Automated Droplet Movement](https://www.digitalocean.com/blog/introducing-dolphin)
