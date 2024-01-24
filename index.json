@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-24, 18:18:05",
+      "https://lobste.rs/s/xcmf7e/speeding_up_zsh_startup"
+    ],
+    [
+      "Speeding up zsh startup",
+      "https://notes.billmill.org/computer_usage/zsh/profiling_zsh_startup.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-24, 18:13:55",
+      "https://lobste.rs/s/zyd4k7/dolphin_mastering_art_automated_droplet"
+    ],
+    [
+      "Dolphin: Mastering the Art of Automated Droplet Movement",
+      "https://www.digitalocean.com/blog/introducing-dolphin"
+    ]
+  ],
+  [
+    [
       "2024-01-24, 17:16:38",
       "https://lobste.rs/s/ihknxu/service_worker_lifecycle"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-01-24, 02:46:54",
-      "https://lobste.rs/s/on6c8b/clickr_young_man_s_flickr_clonejure"
-    ],
-    [
-      "clickr, or a young man's Flickr clonejure",
-      "https://jmglov.net/blog/2024-01-17-clickr.html"
-    ]
-  ],
-  [
-    [
       "2024-01-24, 01:21:51",
       "https://lobste.rs/s/olfg44/making_rust_binaries_smaller_by_default"
     ],
@@ -167,16 +177,6 @@
     [
       "4 reasons to try Mozilla’s new Firefox Linux package for Ubuntu and Debian derivatives",
       "https://blog.mozilla.org/en/products/4-reasons-to-try-mozillas-new-firefox-linux-package-for-ubuntu-and-debian-derivatives/"
-    ]
-  ],
-  [
-    [
-      "2024-01-23, 18:51:38",
-      "https://lobste.rs/s/eazsvp/re_introduction_mkosi_tool_for"
-    ],
-    [
-      "A re-introduction to mkosi -- A Tool for Generating OS Images",
-      "https://0pointer.net/blog/a-re-introduction-to-mkosi-a-tool-for-generating-os-images.html"
     ]
   ],
   [
