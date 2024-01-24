@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-24, 05:11:21",
+      "https://lobste.rs/s/6vi3qu/scrapscript_py"
+    ],
+    [
+      "scrapscript.py",
+      "https://bernsteinbear.com/blog/scrapscript/"
+    ]
+  ],
+  [
+    [
       "2024-01-24, 02:46:54",
       "https://lobste.rs/s/on6c8b/clickr_young_man_s_flickr_clonejure"
     ],
@@ -197,16 +207,6 @@
     [
       "From slow to SIMD: A Go optimization story",
       "https://sourcegraph.com/blog/slow-to-simd"
-    ]
-  ],
-  [
-    [
-      "2024-01-23, 02:25:18",
-      "https://lobste.rs/s/yd2arq/end_useless_ruby_sugar_on_intuitions"
-    ],
-    [
-      "The end of “Useless Ruby sugar”: On intuitions and evolutions",
-      "https://zverok.substack.com/p/the-end-of-useless-ruby-sugar-on"
     ]
   ],
   [
