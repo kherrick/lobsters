@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-24, 16:53:20",
+      "https://lobste.rs/s/anrg48/mtm_perhaps_smallest_useful_terminal"
+    ],
+    [
+      "mtm: Perhaps the smallest useful terminal multiplexer in the world",
+      "https://github.com/deadpixi/mtm"
+    ]
+  ],
+  [
+    [
+      "2024-01-24, 15:07:37",
+      "https://lobste.rs/s/zkinsr/kind_annoyed_at_react"
+    ],
+    [
+      "Kind of annoyed at React",
+      "https://blog.cassidoo.co/post/annoyed-at-react/"
+    ]
+  ],
+  [
+    [
       "2024-01-24, 14:57:00",
       "https://lobste.rs/s/b97c7h/you_probably_don_t_need_learn_c"
     ],
@@ -227,26 +247,6 @@
     [
       "Yacc is dead (2010)",
       "https://arxiv.org/pdf/1010.5023.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-01-22, 22:31:24",
-      "https://lobste.rs/s/aat3zu/re_case_for_rust_base_system"
-    ],
-    [
-      "Re: The Case for Rust (in the base system)",
-      "https://lists.freebsd.org/archives/freebsd-hackers/2024-January/002876.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-22, 16:51:17",
-      "https://lobste.rs/s/eiq8ev/rng_runs_your_brain"
-    ],
-    [
-      "An RNG that runs in your brain",
-      "https://www.hillelwayne.com/post/randomness/"
     ]
   ]
 ]
