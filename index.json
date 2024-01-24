@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-24, 10:48:58",
+      "https://lobste.rs/s/evqfls/exploiting_0_click_android_bluetooth"
+    ],
+    [
+      "Exploiting 0-click Android Bluetooth vulnerability to inject keystrokes without pairing",
+      "https://www.mobile-hacker.com/2024/01/23/exploiting-0-click-android-bluetooth-vulnerability-to-inject-keystrokes-without-pairing/"
+    ]
+  ],
+  [
+    [
       "2024-01-24, 08:27:55",
       "https://lobste.rs/s/zv2a2p/smoother_sailing_studying_audio"
     ],
@@ -37,16 +47,6 @@
     [
       "Making Rust binaries smaller by default",
       "https://kobzol.github.io/rust/cargo/2024/01/23/making-rust-binaries-smaller-by-default.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-23, 22:20:50",
-      "https://lobste.rs/s/prrora/fun_with_deducing_this_lambdas"
-    ],
-    [
-      "Fun with “deducing this” lambdas",
-      "https://quuxplusone.github.io/blog/2024/01/23/capturing-lambda-deducing-this/"
     ]
   ],
   [
