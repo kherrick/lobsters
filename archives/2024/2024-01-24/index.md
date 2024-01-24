@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 13:52:00](https://lobste.rs/s/tjjua3/286_s_internal_registers) - [The 286's internal registers](https://rep-lodsb.mataroa.blog/blog/the-286s-internal-registers/)
 * [2024-01-24, 12:36:37](https://lobste.rs/s/jxtqki/self_contained_linux_applications_with) - [Self-contained Linux applications with lone lisp](https://www.matheusmoreira.com/articles/self-contained-lone-lisp-applications)
 * [2024-01-24, 11:48:38](https://lobste.rs/s/alkpxj/egel_movie) - [Egel - The Movie](https://www.youtube.com/watch?v=XCOIDUFMBVQ&ab_channel=MarcoDevillers)
 * [2024-01-24, 11:06:14](https://lobste.rs/s/mvgdev/parallel_stream_processing_with_zero) - [Parallel stream processing with zero-copy fan-out and sharding](https://stevana.github.io/parallel_stream_processing_with_zero-copy_fan-out_and_sharding.html)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-24, 13:52:00](https://lobste.rs/s/tjjua3/286_s_internal_registers) - [The 286's internal registers](https://rep-lodsb.mataroa.blog/blog/the-286s-internal-registers/)
 * [2024-01-24, 12:36:37](https://lobste.rs/s/jxtqki/self_contained_linux_applications_with) - [Self-contained Linux applications with lone lisp](https://www.matheusmoreira.com/articles/self-contained-lone-lisp-applications)
 * [2024-01-24, 11:48:38](https://lobste.rs/s/alkpxj/egel_movie) - [Egel - The Movie](https://www.youtube.com/watch?v=XCOIDUFMBVQ&ab_channel=MarcoDevillers)
 * [2024-01-24, 11:06:14](https://lobste.rs/s/mvgdev/parallel_stream_processing_with_zero) - [Parallel stream processing with zero-copy fan-out and sharding](https://stevana.github.io/parallel_stream_processing_with_zero-copy_fan-out_and_sharding.html)
@@ -22,7 +23,6 @@
 * [2024-01-23, 12:42:32](https://lobste.rs/s/jkct2m/avoid_async_rust) - [Avoid Async Rust](https://blog.hugpoint.tech/avoid_async_rust.html)
 * [2024-01-23, 11:20:02](https://lobste.rs/s/12qnj3/nominal_types_rust) - [Nominal Types in Rust](https://experimentalworks.net/posts/2024-01-22-simple-phantom-types/)
 * [2024-01-23, 08:18:31](https://lobste.rs/s/niwfet/yacc_is_dead_2010) - [Yacc is dead (2010)](https://arxiv.org/pdf/1010.5023.pdf)
-* [2024-01-22, 23:24:17](https://lobste.rs/s/qxeujn/opentofu_is_going_ga) - [OpenTofu is going GA](https://opentofu.org/blog/opentofu-is-going-ga/)
 * [2024-01-22, 22:31:24](https://lobste.rs/s/aat3zu/re_case_for_rust_base_system) - [Re: The Case for Rust (in the base system)](https://lists.freebsd.org/archives/freebsd-hackers/2024-January/002876.html)
 * [2024-01-22, 16:51:17](https://lobste.rs/s/eiq8ev/rng_runs_your_brain) - [An RNG that runs in your brain](https://www.hillelwayne.com/post/randomness/)
 
