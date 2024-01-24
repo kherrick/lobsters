@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-01-23, 22:20:50](https://lobste.rs/s/prrora/fun_with_deducing_this_lambdas) - [Fun with “deducing this” lambdas](https://quuxplusone.github.io/blog/2024/01/23/capturing-lambda-deducing-this/)
+* [2024-01-24, 01:21:51](https://lobste.rs/s/olfg44/making_rust_binaries_smaller_by_default) - [Making Rust binaries smaller by default](https://kobzol.github.io/rust/cargo/2024/01/23/making-rust-binaries-smaller-by-default.html)
 * [2024-01-23, 20:40:17](https://lobste.rs/s/rt8dnk/possibility_making_138_000_from_shredded) - [The possibility of making $138,000 from shredded banknote pieces using computer vision](https://arxiv.org/ftp/arxiv/papers/2401/2401.06133.pdf)
 * [2024-01-23, 19:36:08](https://lobste.rs/s/ylf985/4_reasons_try_mozilla_s_new_firefox_linux) - [4 reasons to try Mozilla’s new Firefox Linux package for Ubuntu and Debian derivatives](https://blog.mozilla.org/en/products/4-reasons-to-try-mozillas-new-firefox-linux-package-for-ubuntu-and-debian-derivatives/)
 * [2024-01-23, 19:22:56](https://lobste.rs/s/by76rm/resources_on_building_robust_etl) - [Resources on building robust ETL pipelines](https://lobste.rs/s/by76rm/resources_on_building_robust_etl)
