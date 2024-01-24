@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-24, 02:46:54](https://lobste.rs/s/on6c8b/clickr_young_man_s_flickr_clonejure) - [clickr, or a young man's Flickr clonejure](https://jmglov.net/blog/2024-01-17-clickr.html)
 * [2024-01-24, 01:21:51](https://lobste.rs/s/olfg44/making_rust_binaries_smaller_by_default) - [Making Rust binaries smaller by default](https://kobzol.github.io/rust/cargo/2024/01/23/making-rust-binaries-smaller-by-default.html)
 * [2024-01-23, 20:40:17](https://lobste.rs/s/rt8dnk/possibility_making_138_000_from_shredded) - [The possibility of making $138,000 from shredded banknote pieces using computer vision](https://arxiv.org/ftp/arxiv/papers/2401/2401.06133.pdf)
 * [2024-01-23, 19:36:08](https://lobste.rs/s/ylf985/4_reasons_try_mozilla_s_new_firefox_linux) - [4 reasons to try Mozilla’s new Firefox Linux package for Ubuntu and Debian derivatives](https://blog.mozilla.org/en/products/4-reasons-to-try-mozillas-new-firefox-linux-package-for-ubuntu-and-debian-derivatives/)
@@ -24,7 +25,6 @@
 * [2024-01-22, 22:31:24](https://lobste.rs/s/aat3zu/re_case_for_rust_base_system) - [Re: The Case for Rust (in the base system)](https://lists.freebsd.org/archives/freebsd-hackers/2024-January/002876.html)
 * [2024-01-22, 18:50:34](https://lobste.rs/s/degsgz/zig_s_hashmap) - [Zig's HashMap](https://www.openmymind.net/Zigs-HashMap-Part-1/)
 * [2024-01-22, 16:51:17](https://lobste.rs/s/eiq8ev/rng_runs_your_brain) - [An RNG that runs in your brain](https://www.hillelwayne.com/post/randomness/)
-* [2024-01-22, 13:39:15](https://lobste.rs/s/vcbixd/trunk_based_development) - [Trunk-Based Development](https://trunkbaseddevelopment.com/)
 
 ## [Archives](archives/index.md)
 
