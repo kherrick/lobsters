@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 23:12:32](https://lobste.rs/s/sraqzs/fixing_hiss_on_my_atgames_legends_pinball) - [Fixing the hiss on my Atgames Legends Pinball Micro including root access](http://raymii.org/s/software/Fixing_the_buzz_hiss_on_my_atgames_legends_pinball_micro.html)
 * [2024-01-24, 22:54:54](https://lobste.rs/s/wmhctu/history_nix_at_bellroy) - [The History of Nix at Bellroy](https://exploring-better-ways.bellroy.com/the-history-of-nix-at-bellroy.html)
 * [2024-01-24, 22:49:10](https://lobste.rs/s/jetw7a/on_owning_software) - [On “owning” software](https://avdi.codes/on-owning-software/)
 * [2024-01-24, 20:47:35](https://lobste.rs/s/e1ett3/web_components_earnest) - [Web Components in Earnest](https://naildrivin5.com/blog/2024/01/24/web-components-in-earnest.html)

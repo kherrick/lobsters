@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-24, 23:12:32](https://lobste.rs/s/sraqzs/fixing_hiss_on_my_atgames_legends_pinball) - [Fixing the hiss on my Atgames Legends Pinball Micro including root access](http://raymii.org/s/software/Fixing_the_buzz_hiss_on_my_atgames_legends_pinball_micro.html)
 * [2024-01-24, 22:54:54](https://lobste.rs/s/wmhctu/history_nix_at_bellroy) - [The History of Nix at Bellroy](https://exploring-better-ways.bellroy.com/the-history-of-nix-at-bellroy.html)
 * [2024-01-24, 22:49:10](https://lobste.rs/s/jetw7a/on_owning_software) - [On “owning” software](https://avdi.codes/on-owning-software/)
 * [2024-01-24, 20:47:35](https://lobste.rs/s/e1ett3/web_components_earnest) - [Web Components in Earnest](https://naildrivin5.com/blog/2024/01/24/web-components-in-earnest.html)
 * [2024-01-24, 20:28:17](https://lobste.rs/s/nybzis/insanely_great_apple_mac_at_40) - [Insanely Great: The Apple Mac at 40](https://computerhistory.org/events/insanely-great/)
 * [2024-01-24, 20:06:27](https://lobste.rs/s/4iym8m/zx_spectrum_raytracer) - [ZX Spectrum Raytracer](https://gabrielgambetta.com/zx-raytracer.html)
 * [2024-01-24, 18:18:05](https://lobste.rs/s/xcmf7e/speeding_up_zsh_startup) - [Speeding up zsh startup](https://notes.billmill.org/computer_usage/zsh/profiling_zsh_startup.html)
-* [2024-01-24, 18:13:55](https://lobste.rs/s/zyd4k7/dolphin_mastering_art_automated_droplet) - [Dolphin: Mastering the Art of Automated Droplet Movement](https://www.digitalocean.com/blog/introducing-dolphin)
 * [2024-01-24, 17:08:28](https://lobste.rs/s/rpsiwl/zed_is_now_open_source) - [Zed is now open source](https://zed.dev/blog/zed-is-now-open-source)
 * [2024-01-24, 16:53:20](https://lobste.rs/s/anrg48/mtm_perhaps_smallest_useful_terminal) - [mtm: Perhaps the smallest useful terminal multiplexer in the world](https://github.com/deadpixi/mtm)
 * [2024-01-24, 15:07:37](https://lobste.rs/s/zkinsr/kind_annoyed_at_react) - [Kind of annoyed at React](https://blog.cassidoo.co/post/annoyed-at-react/)
