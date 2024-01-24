@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-24, 22:54:54",
+      "https://lobste.rs/s/wmhctu/history_nix_at_bellroy"
+    ],
+    [
+      "The History of Nix at Bellroy",
+      "https://exploring-better-ways.bellroy.com/the-history-of-nix-at-bellroy.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-24, 22:49:10",
+      "https://lobste.rs/s/jetw7a/on_owning_software"
+    ],
+    [
+      "On “owning” software",
+      "https://avdi.codes/on-owning-software/"
+    ]
+  ],
+  [
+    [
       "2024-01-24, 20:47:35",
       "https://lobste.rs/s/e1ett3/web_components_earnest"
     ],
@@ -47,16 +67,6 @@
     [
       "Dolphin: Mastering the Art of Automated Droplet Movement",
       "https://www.digitalocean.com/blog/introducing-dolphin"
-    ]
-  ],
-  [
-    [
-      "2024-01-24, 17:16:38",
-      "https://lobste.rs/s/ihknxu/service_worker_lifecycle"
-    ],
-    [
-      "The service worker lifecycle",
-      "https://web.dev/articles/service-worker-lifecycle"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Parallel stream processing with zero-copy fan-out and sharding",
       "https://stevana.github.io/parallel_stream_processing_with_zero-copy_fan-out_and_sharding.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-24, 10:48:58",
-      "https://lobste.rs/s/evqfls/exploiting_0_click_android_bluetooth"
-    ],
-    [
-      "Exploiting 0-click Android Bluetooth vulnerability to inject keystrokes without pairing",
-      "https://www.mobile-hacker.com/2024/01/23/exploiting-0-click-android-bluetooth-vulnerability-to-inject-keystrokes-without-pairing/"
     ]
   ],
   [
