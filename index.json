@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-01-23, 22:20:50",
+      "https://lobste.rs/s/prrora/fun_with_deducing_this_lambdas"
+    ],
+    [
+      "Fun with “deducing this” lambdas",
+      "https://quuxplusone.github.io/blog/2024/01/23/capturing-lambda-deducing-this/"
+    ]
+  ],
+  [
+    [
       "2024-01-23, 20:40:17",
       "https://lobste.rs/s/rt8dnk/possibility_making_138_000_from_shredded"
     ],
@@ -107,16 +117,6 @@
     [
       "TypeSpec",
       "https://typespec.io"
-    ]
-  ],
-  [
-    [
-      "2024-01-23, 15:13:16",
-      "https://lobste.rs/s/d3xkc4/vart_persistent_data_structure_for"
-    ],
-    [
-      "VART: A Persistent Data Structure For Snapshot Isolation",
-      "https://surrealdb.com/blog/vart-a-persistent-data-structure-for-snapshot-isolation"
     ]
   ],
   [
