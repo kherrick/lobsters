@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-24, 11:06:14](https://lobste.rs/s/mvgdev/parallel_stream_processing_with_zero) - [Parallel stream processing with zero-copy fan-out and sharding](https://stevana.github.io/parallel_stream_processing_with_zero-copy_fan-out_and_sharding.html)
 * [2024-01-24, 10:48:58](https://lobste.rs/s/evqfls/exploiting_0_click_android_bluetooth) - [Exploiting 0-click Android Bluetooth vulnerability to inject keystrokes without pairing](https://www.mobile-hacker.com/2024/01/23/exploiting-0-click-android-bluetooth-vulnerability-to-inject-keystrokes-without-pairing/)
 * [2024-01-24, 08:27:55](https://lobste.rs/s/zv2a2p/smoother_sailing_studying_audio) - [Smoother sailing: Studying audio imperfections in Steamboat Willie](https://www.windytan.com/2024/01/smoother-sailing-steamboat-willie-flutter.html)
 * [2024-01-24, 05:11:21](https://lobste.rs/s/6vi3qu/scrapscript_py) - [scrapscript.py](https://bernsteinbear.com/blog/scrapscript/)
@@ -23,7 +24,6 @@
 * [2024-01-23, 06:35:11](https://lobste.rs/s/wwq8el/announcing_saber_virtual_machine) - [Announcing the Saber Virtual Machine](https://ryanbrewer.dev/posts/announcing-svm.html)
 * [2024-01-22, 23:24:17](https://lobste.rs/s/qxeujn/opentofu_is_going_ga) - [OpenTofu is going GA](https://opentofu.org/blog/opentofu-is-going-ga/)
 * [2024-01-22, 22:31:24](https://lobste.rs/s/aat3zu/re_case_for_rust_base_system) - [Re: The Case for Rust (in the base system)](https://lists.freebsd.org/archives/freebsd-hackers/2024-January/002876.html)
-* [2024-01-22, 18:50:34](https://lobste.rs/s/degsgz/zig_s_hashmap) - [Zig's HashMap](https://www.openmymind.net/Zigs-HashMap-Part-1/)
 * [2024-01-22, 16:51:17](https://lobste.rs/s/eiq8ev/rng_runs_your_brain) - [An RNG that runs in your brain](https://www.hillelwayne.com/post/randomness/)
 
 ## [Archives](archives/index.md)
