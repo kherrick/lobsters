@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-24, 20:06:27](https://lobste.rs/s/4iym8m/zx_spectrum_raytracer) - [ZX Spectrum Raytracer](https://gabrielgambetta.com/zx-raytracer.html)
 * [2024-01-24, 18:18:05](https://lobste.rs/s/xcmf7e/speeding_up_zsh_startup) - [Speeding up zsh startup](https://notes.billmill.org/computer_usage/zsh/profiling_zsh_startup.html)
 * [2024-01-24, 18:13:55](https://lobste.rs/s/zyd4k7/dolphin_mastering_art_automated_droplet) - [Dolphin: Mastering the Art of Automated Droplet Movement](https://www.digitalocean.com/blog/introducing-dolphin)
 * [2024-01-24, 17:16:38](https://lobste.rs/s/ihknxu/service_worker_lifecycle) - [The service worker lifecycle](https://web.dev/articles/service-worker-lifecycle)
@@ -24,7 +25,6 @@
 * [2024-01-23, 12:56:34](https://lobste.rs/s/i4nfjj/donor_bounties_new_kind_feature_bounty) - [Donor Bounties: A New Kind of Feature Bounty](https://ziglang.org/news/announcing-donor-bounties/)
 * [2024-01-23, 12:42:32](https://lobste.rs/s/jkct2m/avoid_async_rust) - [Avoid Async Rust](https://blog.hugpoint.tech/avoid_async_rust.html)
 * [2024-01-23, 11:20:02](https://lobste.rs/s/12qnj3/nominal_types_rust) - [Nominal Types in Rust](https://experimentalworks.net/posts/2024-01-22-simple-phantom-types/)
-* [2024-01-23, 08:18:31](https://lobste.rs/s/niwfet/yacc_is_dead_2010) - [Yacc is dead (2010)](https://arxiv.org/pdf/1010.5023.pdf)
 
 ## [Archives](archives/index.md)
 
