@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 17:16:38](https://lobste.rs/s/ihknxu/service_worker_lifecycle) - [The service worker lifecycle](https://web.dev/articles/service-worker-lifecycle)
+* [2024-01-24, 17:08:28](https://lobste.rs/s/rpsiwl/zed_is_now_open_source) - [Zed is now open source](https://zed.dev/blog/zed-is-now-open-source)
 * [2024-01-24, 16:53:20](https://lobste.rs/s/anrg48/mtm_perhaps_smallest_useful_terminal) - [mtm: Perhaps the smallest useful terminal multiplexer in the world](https://github.com/deadpixi/mtm)
 * [2024-01-24, 15:07:37](https://lobste.rs/s/zkinsr/kind_annoyed_at_react) - [Kind of annoyed at React](https://blog.cassidoo.co/post/annoyed-at-react/)
 * [2024-01-24, 14:57:00](https://lobste.rs/s/b97c7h/you_probably_don_t_need_learn_c) - [You (probably) don’t need to learn C](https://nedbatchelder.com/blog/202401/you_probably_dont_need_to_learn_c.html)

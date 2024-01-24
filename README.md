@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-24, 17:16:38](https://lobste.rs/s/ihknxu/service_worker_lifecycle) - [The service worker lifecycle](https://web.dev/articles/service-worker-lifecycle)
+* [2024-01-24, 17:08:28](https://lobste.rs/s/rpsiwl/zed_is_now_open_source) - [Zed is now open source](https://zed.dev/blog/zed-is-now-open-source)
 * [2024-01-24, 16:53:20](https://lobste.rs/s/anrg48/mtm_perhaps_smallest_useful_terminal) - [mtm: Perhaps the smallest useful terminal multiplexer in the world](https://github.com/deadpixi/mtm)
 * [2024-01-24, 15:07:37](https://lobste.rs/s/zkinsr/kind_annoyed_at_react) - [Kind of annoyed at React](https://blog.cassidoo.co/post/annoyed-at-react/)
 * [2024-01-24, 14:57:00](https://lobste.rs/s/b97c7h/you_probably_don_t_need_learn_c) - [You (probably) don’t need to learn C](https://nedbatchelder.com/blog/202401/you_probably_dont_need_to_learn_c.html)
@@ -18,9 +20,7 @@
 * [2024-01-23, 18:51:38](https://lobste.rs/s/eazsvp/re_introduction_mkosi_tool_for) - [A re-introduction to mkosi -- A Tool for Generating OS Images](https://0pointer.net/blog/a-re-introduction-to-mkosi-a-tool-for-generating-os-images.html)
 * [2024-01-23, 18:31:19](https://lobste.rs/s/jce1tl/adaptive_time_compression_database) - [Adaptive _time compression — A database hacker story](https://axiom.co/blog/a-database-hacker-story)
 * [2024-01-23, 18:26:29](https://lobste.rs/s/3or7dd/tcl_on_brain_worms) - [TCL on the brain/worms](https://cohost.org/sakiamu/post/177439-tcl-on-the-brain)
-* [2024-01-23, 16:12:57](https://lobste.rs/s/0atyak/typespec) - [TypeSpec](https://typespec.io)
 * [2024-01-23, 13:38:29](https://lobste.rs/s/yn7pbi/serverfree_architecture_run_backend) - [ServerFree Architecture: run the \"backend code\" and the DB (SQLite) in the browser](https://subzero.cloud/blog/serverfree-architecture/)
-* [2024-01-23, 13:23:49](https://lobste.rs/s/wwubmh/scaling_terraform_at_thousandeyes) - [Scaling Terraform at ThousandEyes](https://medium.com/thousandeyes-engineering/scaling-terraform-at-thousandeyes-b2a581b8b0b0)
 * [2024-01-23, 12:56:34](https://lobste.rs/s/i4nfjj/donor_bounties_new_kind_feature_bounty) - [Donor Bounties: A New Kind of Feature Bounty](https://ziglang.org/news/announcing-donor-bounties/)
 * [2024-01-23, 12:42:32](https://lobste.rs/s/jkct2m/avoid_async_rust) - [Avoid Async Rust](https://blog.hugpoint.tech/avoid_async_rust.html)
 * [2024-01-23, 11:20:02](https://lobste.rs/s/12qnj3/nominal_types_rust) - [Nominal Types in Rust](https://experimentalworks.net/posts/2024-01-22-simple-phantom-types/)
