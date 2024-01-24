@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-24, 12:36:37",
+      "https://lobste.rs/s/jxtqki/self_contained_linux_applications_with"
+    ],
+    [
+      "Self-contained Linux applications with lone lisp",
+      "https://www.matheusmoreira.com/articles/self-contained-lone-lisp-applications"
+    ]
+  ],
+  [
+    [
       "2024-01-24, 11:48:38",
       "https://lobste.rs/s/alkpxj/egel_movie"
     ],
@@ -197,16 +207,6 @@
     [
       "Nominal Types in Rust",
       "https://experimentalworks.net/posts/2024-01-22-simple-phantom-types/"
-    ]
-  ],
-  [
-    [
-      "2024-01-23, 11:17:51",
-      "https://lobste.rs/s/j9azeb/formalizing_date_arithmetic_statically"
-    ],
-    [
-      "Formalizing Date Arithmetic and Statically Detecting Ambiguities for the Law",
-      "https://rmonat.fr/data/pubs/2024/2024-04-08_esop_dates.pdf"
     ]
   ],
   [
