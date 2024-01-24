@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-24, 12:36:37](https://lobste.rs/s/jxtqki/self_contained_linux_applications_with) - [Self-contained Linux applications with lone lisp](https://www.matheusmoreira.com/articles/self-contained-lone-lisp-applications)
 * [2024-01-24, 11:48:38](https://lobste.rs/s/alkpxj/egel_movie) - [Egel - The Movie](https://www.youtube.com/watch?v=XCOIDUFMBVQ&ab_channel=MarcoDevillers)
 * [2024-01-24, 11:06:14](https://lobste.rs/s/mvgdev/parallel_stream_processing_with_zero) - [Parallel stream processing with zero-copy fan-out and sharding](https://stevana.github.io/parallel_stream_processing_with_zero-copy_fan-out_and_sharding.html)
 * [2024-01-24, 10:48:58](https://lobste.rs/s/evqfls/exploiting_0_click_android_bluetooth) - [Exploiting 0-click Android Bluetooth vulnerability to inject keystrokes without pairing](https://www.mobile-hacker.com/2024/01/23/exploiting-0-click-android-bluetooth-vulnerability-to-inject-keystrokes-without-pairing/)
@@ -20,7 +21,6 @@
 * [2024-01-23, 12:56:34](https://lobste.rs/s/i4nfjj/donor_bounties_new_kind_feature_bounty) - [Donor Bounties: A New Kind of Feature Bounty](https://ziglang.org/news/announcing-donor-bounties/)
 * [2024-01-23, 12:42:32](https://lobste.rs/s/jkct2m/avoid_async_rust) - [Avoid Async Rust](https://blog.hugpoint.tech/avoid_async_rust.html)
 * [2024-01-23, 11:20:02](https://lobste.rs/s/12qnj3/nominal_types_rust) - [Nominal Types in Rust](https://experimentalworks.net/posts/2024-01-22-simple-phantom-types/)
-* [2024-01-23, 11:17:51](https://lobste.rs/s/j9azeb/formalizing_date_arithmetic_statically) - [Formalizing Date Arithmetic and Statically Detecting Ambiguities for the Law](https://rmonat.fr/data/pubs/2024/2024-04-08_esop_dates.pdf)
 * [2024-01-23, 08:18:31](https://lobste.rs/s/niwfet/yacc_is_dead_2010) - [Yacc is dead (2010)](https://arxiv.org/pdf/1010.5023.pdf)
 * [2024-01-22, 23:24:17](https://lobste.rs/s/qxeujn/opentofu_is_going_ga) - [OpenTofu is going GA](https://opentofu.org/blog/opentofu-is-going-ga/)
 * [2024-01-22, 22:31:24](https://lobste.rs/s/aat3zu/re_case_for_rust_base_system) - [Re: The Case for Rust (in the base system)](https://lists.freebsd.org/archives/freebsd-hackers/2024-January/002876.html)
