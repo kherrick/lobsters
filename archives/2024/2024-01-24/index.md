@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-24](index.md)
 
+* [2024-01-24, 10:48:58](https://lobste.rs/s/evqfls/exploiting_0_click_android_bluetooth) - [Exploiting 0-click Android Bluetooth vulnerability to inject keystrokes without pairing](https://www.mobile-hacker.com/2024/01/23/exploiting-0-click-android-bluetooth-vulnerability-to-inject-keystrokes-without-pairing/)
 * [2024-01-24, 08:27:55](https://lobste.rs/s/zv2a2p/smoother_sailing_studying_audio) - [Smoother sailing: Studying audio imperfections in Steamboat Willie](https://www.windytan.com/2024/01/smoother-sailing-steamboat-willie-flutter.html)
 * [2024-01-24, 05:11:21](https://lobste.rs/s/6vi3qu/scrapscript_py) - [scrapscript.py](https://bernsteinbear.com/blog/scrapscript/)
 * [2024-01-24, 02:46:54](https://lobste.rs/s/on6c8b/clickr_young_man_s_flickr_clonejure) - [clickr, or a young man's Flickr clonejure](https://jmglov.net/blog/2024-01-17-clickr.html)

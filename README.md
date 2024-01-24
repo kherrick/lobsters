@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-24, 10:48:58](https://lobste.rs/s/evqfls/exploiting_0_click_android_bluetooth) - [Exploiting 0-click Android Bluetooth vulnerability to inject keystrokes without pairing](https://www.mobile-hacker.com/2024/01/23/exploiting-0-click-android-bluetooth-vulnerability-to-inject-keystrokes-without-pairing/)
 * [2024-01-24, 08:27:55](https://lobste.rs/s/zv2a2p/smoother_sailing_studying_audio) - [Smoother sailing: Studying audio imperfections in Steamboat Willie](https://www.windytan.com/2024/01/smoother-sailing-steamboat-willie-flutter.html)
 * [2024-01-24, 05:11:21](https://lobste.rs/s/6vi3qu/scrapscript_py) - [scrapscript.py](https://bernsteinbear.com/blog/scrapscript/)
 * [2024-01-24, 02:46:54](https://lobste.rs/s/on6c8b/clickr_young_man_s_flickr_clonejure) - [clickr, or a young man's Flickr clonejure](https://jmglov.net/blog/2024-01-17-clickr.html)
 * [2024-01-24, 01:21:51](https://lobste.rs/s/olfg44/making_rust_binaries_smaller_by_default) - [Making Rust binaries smaller by default](https://kobzol.github.io/rust/cargo/2024/01/23/making-rust-binaries-smaller-by-default.html)
-* [2024-01-23, 22:20:50](https://lobste.rs/s/prrora/fun_with_deducing_this_lambdas) - [Fun with “deducing this” lambdas](https://quuxplusone.github.io/blog/2024/01/23/capturing-lambda-deducing-this/)
 * [2024-01-23, 20:40:17](https://lobste.rs/s/rt8dnk/possibility_making_138_000_from_shredded) - [The possibility of making $138,000 from shredded banknote pieces using computer vision](https://arxiv.org/ftp/arxiv/papers/2401/2401.06133.pdf)
 * [2024-01-23, 19:36:08](https://lobste.rs/s/ylf985/4_reasons_try_mozilla_s_new_firefox_linux) - [4 reasons to try Mozilla’s new Firefox Linux package for Ubuntu and Debian derivatives](https://blog.mozilla.org/en/products/4-reasons-to-try-mozillas-new-firefox-linux-package-for-ubuntu-and-debian-derivatives/)
 * [2024-01-23, 19:22:56](https://lobste.rs/s/by76rm/resources_on_building_robust_etl) - [Resources on building robust ETL pipelines](https://lobste.rs/s/by76rm/resources_on_building_robust_etl)
