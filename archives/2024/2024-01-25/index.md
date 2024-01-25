@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
+* [2024-01-25, 15:50:24](https://lobste.rs/s/dcufv8/we_build_x_509_chains_so_you_don_t_have) - [We build X.509 chains so you don’t have to](https://blog.trailofbits.com/2024/01/25/we-build-x-509-chains-so-you-dont-have-to/)
+* [2024-01-25, 15:44:32](https://lobste.rs/s/uoerr3/frame_pointers_vs_dwarf_my_verdict) - [Frame pointers vs DWARF – my verdict](https://rwmj.wordpress.com/2023/02/14/frame-pointers-vs-dwarf-my-verdict/)
 * [2024-01-25, 14:59:22](https://lobste.rs/s/b5hims/whisperfusion_ultra_low_latency) - [WhisperFusion: Ultra-low latency conversations with an AI chatbot](https://www.collabora.com/news-and-blog/news-and-events/whisperfusion-ultra-low-latency-conversations-with-an-ai-chatbot.html)
 * [2024-01-25, 14:41:32](https://lobste.rs/s/zpwqim/crusty_indestructible_mac) - [Crusty, the Indestructible Mac](https://geocities.ws/rehasoft/crusty.html)
 * [2024-01-25, 13:59:42](https://lobste.rs/s/oxnb2r/understanding_mesh_allocator) - [Understanding Mesh Allocator](https://veera.app/mesh_allocator.html)
