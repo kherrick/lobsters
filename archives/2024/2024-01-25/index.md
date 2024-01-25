@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
+* [2024-01-25, 18:15:18](https://lobste.rs/s/7xz75h/wasi_preview_2_launched) - [WASI Preview 2 Launched](https://blog.sunfishcode.online/wasi-preview2/)
+* [2024-01-25, 18:14:43](https://lobste.rs/s/rqvlfk/bus_pirate_5_rev10_is_ready) - [Bus Pirate 5 REV10 is ready](https://buspirate.com/bus-pirate-5-rev-10-now-available/)
 * [2024-01-25, 17:06:45](https://lobste.rs/s/vzmoks/tiny_ups_for_tiny_nas) - [Tiny UPS for Tiny NAS](https://vermaden.wordpress.com/2024/01/25/tiny-ups-for-tiny-nas/)
 * [2024-01-25, 16:48:01](https://lobste.rs/s/efy8s3/tinygo) - [TinyGo](https://tinygo.org/)
 * [2024-01-25, 15:50:24](https://lobste.rs/s/dcufv8/we_build_x_509_chains_so_you_don_t_have) - [We build X.509 chains so you don’t have to](https://blog.trailofbits.com/2024/01/25/we-build-x-509-chains-so-you-dont-have-to/)
