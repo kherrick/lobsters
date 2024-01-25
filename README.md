@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-25, 12:07:49](https://lobste.rs/s/ipv7id/verifying_using_temporal_logic_action) - [Verifying using temporal logic of action in Dafny](https://rdivyanshu.github.io/tla-logic-in-dafny.html)
+* [2024-01-25, 12:05:21](https://lobste.rs/s/5aupvf/on_web_components) - [On Web Components](https://macwright.com/2024/01/24/on-web-components)
+* [2024-01-25, 11:56:32](https://lobste.rs/s/spdccn/nix_from_bottom_up) - [Nix from the bottom up](http://www.chriswarbo.net/projects/nixos/bottom_up.html)
 * [2024-01-25, 10:57:26](https://lobste.rs/s/jvwlir/only_90s_web_developers_remember_this) - [Only 90s Web Developers Remember This](https://zachholman.com/posts/only-90s-developers/)
 * [2024-01-25, 10:30:36](https://lobste.rs/s/uz4o8e/creating_xmpp_network_graph) - [Creating the XMPP Network Graph](https://discourse.igniterealtime.org/t/creating-the-xmpp-network-graph/93521)
 * [2024-01-25, 09:51:01](https://lobste.rs/s/qfzq6x/quicksort_with_jenkins_for_fun_no_profit) - [Quicksort with Jenkins for Fun and No Profit](https://susam.net/blog/jenkins-quicksort.html)
@@ -17,14 +20,11 @@
 * [2024-01-24, 15:07:37](https://lobste.rs/s/zkinsr/kind_annoyed_at_react) - [Kind of annoyed at React](https://blog.cassidoo.co/post/annoyed-at-react/)
 * [2024-01-24, 14:57:00](https://lobste.rs/s/b97c7h/you_probably_don_t_need_learn_c) - [You (probably) don’t need to learn C](https://nedbatchelder.com/blog/202401/you_probably_dont_need_to_learn_c.html)
 * [2024-01-24, 14:56:25](https://lobste.rs/s/lz3vkk/why_sql_hang_for_exactly_940s_tcp_async) - [Why SQL hang for exactly 940s? TCP and Async Rust](https://xuanwo.io/2024/01-why-sql-hang-for-exactly-940s/)
-* [2024-01-24, 13:52:00](https://lobste.rs/s/tjjua3/286_s_internal_registers) - [The 286's internal registers](https://rep-lodsb.mataroa.blog/blog/the-286s-internal-registers/)
 * [2024-01-24, 12:36:37](https://lobste.rs/s/jxtqki/self_contained_linux_applications_with) - [Self-contained Linux applications with lone lisp](https://www.matheusmoreira.com/articles/self-contained-lone-lisp-applications)
 * [2024-01-24, 11:48:38](https://lobste.rs/s/alkpxj/egel_movie) - [Egel - The Movie](https://www.youtube.com/watch?v=XCOIDUFMBVQ&ab_channel=MarcoDevillers)
 * [2024-01-24, 08:27:55](https://lobste.rs/s/zv2a2p/smoother_sailing_studying_audio) - [Smoother sailing: Studying audio imperfections in Steamboat Willie](https://www.windytan.com/2024/01/smoother-sailing-steamboat-willie-flutter.html)
 * [2024-01-24, 01:21:51](https://lobste.rs/s/olfg44/making_rust_binaries_smaller_by_default) - [Making Rust binaries smaller by default](https://kobzol.github.io/rust/cargo/2024/01/23/making-rust-binaries-smaller-by-default.html)
 * [2024-01-23, 19:36:08](https://lobste.rs/s/ylf985/4_reasons_try_mozilla_s_new_firefox_linux) - [4 reasons to try Mozilla’s new Firefox Linux package for Ubuntu and Debian derivatives](https://blog.mozilla.org/en/products/4-reasons-to-try-mozillas-new-firefox-linux-package-for-ubuntu-and-debian-derivatives/)
-* [2024-01-23, 12:56:34](https://lobste.rs/s/i4nfjj/donor_bounties_new_kind_feature_bounty) - [Donor Bounties: A New Kind of Feature Bounty](https://ziglang.org/news/announcing-donor-bounties/)
-* [2024-01-23, 11:20:02](https://lobste.rs/s/12qnj3/nominal_types_rust) - [Nominal Types in Rust](https://experimentalworks.net/posts/2024-01-22-simple-phantom-types/)
 
 ## [Archives](archives/index.md)
 
