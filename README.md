@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-01-25, 14:59:22](https://lobste.rs/s/b5hims/whisperfusion_ultra_low_latency) - [WhisperFusion: Ultra-low latency conversations with an AI chatbot](https://www.collabora.com/news-and-blog/news-and-events/whisperfusion-ultra-low-latency-conversations-with-an-ai-chatbot.html)
 * [2024-01-25, 14:41:32](https://lobste.rs/s/zpwqim/crusty_indestructible_mac) - [Crusty, the Indestructible Mac](https://geocities.ws/rehasoft/crusty.html)
 * [2024-01-25, 13:59:42](https://lobste.rs/s/oxnb2r/understanding_mesh_allocator) - [Understanding Mesh Allocator](https://veera.app/mesh_allocator.html)
 * [2024-01-25, 13:38:12](https://lobste.rs/s/qyepd7/pipeline_trick) - [Pipeline trick](https://gist.github.com/izabera/cc9f21e1541d603da66cb28093f46892)
@@ -12,6 +11,7 @@
 * [2024-01-25, 10:57:26](https://lobste.rs/s/jvwlir/only_90s_web_developers_remember_this) - [Only 90s Web Developers Remember This](https://zachholman.com/posts/only-90s-developers/)
 * [2024-01-25, 10:30:36](https://lobste.rs/s/uz4o8e/creating_xmpp_network_graph) - [Creating the XMPP Network Graph](https://discourse.igniterealtime.org/t/creating-the-xmpp-network-graph/93521)
 * [2024-01-25, 09:51:01](https://lobste.rs/s/qfzq6x/quicksort_with_jenkins_for_fun_no_profit) - [Quicksort with Jenkins for Fun and No Profit](https://susam.net/blog/jenkins-quicksort.html)
+* [2024-01-25, 08:16:26](https://lobste.rs/s/ulvj9f/forkrun_runs_multiple_inputs_through) - [forkrun: runs multiple inputs through a script/function in parallel using bash coprocs](https://github.com/jkool702/forkrun)
 * [2024-01-25, 05:44:09](https://lobste.rs/s/bkzxqd/how_apple_accidentally_broke_my_spotify) - [How Apple accidentally broke my Spotify client](https://rbf.dev/blog/2024/01/how-apple-accidentally-broke-my-spotify/)
 * [2024-01-25, 01:15:17](https://lobste.rs/s/9zsqgu/unsigned_commits) - [Unsigned Commits](https://blog.glyph.im/2024/01/unsigned-commits.html)
 * [2024-01-24, 22:54:54](https://lobste.rs/s/wmhctu/history_nix_at_bellroy) - [The History of Nix at Bellroy](https://exploring-better-ways.bellroy.com/the-history-of-nix-at-bellroy.html)
