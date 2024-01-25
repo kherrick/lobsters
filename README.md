@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-25, 18:30:49](https://lobste.rs/s/kdrsx3/apple_announces_changes_ios_safari_app) - [Apple announces changes to iOS, Safari, and the App Store in the European Union](https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/)
 * [2024-01-25, 18:15:18](https://lobste.rs/s/7xz75h/wasi_preview_2_launched) - [WASI Preview 2 Launched](https://blog.sunfishcode.online/wasi-preview2/)
 * [2024-01-25, 18:14:43](https://lobste.rs/s/rqvlfk/bus_pirate_5_rev10_is_ready) - [Bus Pirate 5 REV10 is ready](https://buspirate.com/bus-pirate-5-rev-10-now-available/)
 * [2024-01-25, 17:06:45](https://lobste.rs/s/vzmoks/tiny_ups_for_tiny_nas) - [Tiny UPS for Tiny NAS](https://vermaden.wordpress.com/2024/01/25/tiny-ups-for-tiny-nas/)
@@ -21,7 +22,6 @@
 * [2024-01-25, 01:15:17](https://lobste.rs/s/9zsqgu/unsigned_commits) - [Unsigned Commits](https://blog.glyph.im/2024/01/unsigned-commits.html)
 * [2024-01-24, 22:54:54](https://lobste.rs/s/wmhctu/history_nix_at_bellroy) - [The History of Nix at Bellroy](https://exploring-better-ways.bellroy.com/the-history-of-nix-at-bellroy.html)
 * [2024-01-24, 22:49:10](https://lobste.rs/s/jetw7a/on_owning_software) - [On “owning” software](https://avdi.codes/on-owning-software/)
-* [2024-01-24, 20:06:27](https://lobste.rs/s/4iym8m/zx_spectrum_raytracer) - [ZX Spectrum Raytracer](https://gabrielgambetta.com/zx-raytracer.html)
 * [2024-01-24, 17:08:28](https://lobste.rs/s/rpsiwl/zed_is_now_open_source) - [Zed is now open source](https://zed.dev/blog/zed-is-now-open-source)
 * [2024-01-24, 16:53:20](https://lobste.rs/s/anrg48/mtm_perhaps_smallest_useful_terminal) - [mtm: Perhaps the smallest useful terminal multiplexer in the world](https://github.com/deadpixi/mtm)
 * [2024-01-24, 14:57:00](https://lobste.rs/s/b97c7h/you_probably_don_t_need_learn_c) - [You (probably) don’t need to learn C](https://nedbatchelder.com/blog/202401/you_probably_dont_need_to_learn_c.html)
