@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
+* [2024-01-25, 19:43:22](https://lobste.rs/s/en0a0u/axioms_systemantics) - [Axioms of Systemantics](https://www.biodigitaljazz.net/blog/systemantics.html)
 * [2024-01-25, 18:30:49](https://lobste.rs/s/kdrsx3/apple_announces_changes_ios_safari_app) - [Apple announces changes to iOS, Safari, and the App Store in the European Union](https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/)
 * [2024-01-25, 18:15:18](https://lobste.rs/s/7xz75h/wasi_preview_2_launched) - [WASI Preview 2 Launched](https://blog.sunfishcode.online/wasi-preview2/)
 * [2024-01-25, 18:14:43](https://lobste.rs/s/rqvlfk/bus_pirate_5_rev10_is_ready) - [Bus Pirate 5 REV10 is ready](https://buspirate.com/bus-pirate-5-rev-10-now-available/)
