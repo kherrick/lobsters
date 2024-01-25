@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-25, 21:33:30",
+      "https://lobste.rs/s/vwjfzw/fixing_hiss_on_my_pinball_machine"
+    ],
+    [
+      "Fixing the hiss on my Pinball machine including root access",
+      "http://raymii.org/s/software/Fixing_the_buzz_hiss_on_my_atgames_legends_pinball_micro.html"
+    ]
+  ],
+  [
+    [
       "2024-01-25, 21:15:17",
       "https://lobste.rs/s/ctdzqu/shipp_deadly_simple_package_manager_for"
     ],
@@ -227,16 +237,6 @@
     [
       "Zed is now open source",
       "https://zed.dev/blog/zed-is-now-open-source"
-    ]
-  ],
-  [
-    [
-      "2024-01-24, 16:53:20",
-      "https://lobste.rs/s/anrg48/mtm_perhaps_smallest_useful_terminal"
-    ],
-    [
-      "mtm: Perhaps the smallest useful terminal multiplexer in the world",
-      "https://github.com/deadpixi/mtm"
     ]
   ],
   [
