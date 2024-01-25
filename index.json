@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-25, 08:16:26",
+      "https://lobste.rs/s/ulvj9f/forkrun_runs_multiple_inputs_through"
+    ],
+    [
+      "forkrun: runs multiple inputs through a script/function in parallel using bash coprocs",
+      "https://github.com/jkool702/forkrun"
+    ]
+  ],
+  [
+    [
       "2024-01-25, 06:10:19",
       "https://lobste.rs/s/rylqxf/expr_evaluation_language_release_v1_16"
     ],
@@ -197,16 +207,6 @@
     [
       "Making Rust binaries smaller by default",
       "https://kobzol.github.io/rust/cargo/2024/01/23/making-rust-binaries-smaller-by-default.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-23, 20:40:17",
-      "https://lobste.rs/s/rt8dnk/possibility_making_138_000_from_shredded"
-    ],
-    [
-      "The possibility of making $138,000 from shredded banknote pieces using computer vision",
-      "https://arxiv.org/ftp/arxiv/papers/2401/2401.06133.pdf"
     ]
   ],
   [
