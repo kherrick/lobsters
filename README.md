@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-25, 12:45:59](https://lobste.rs/s/cptkzz/tale_two_phlexes) - [A Tale of two Phlexes](https://blog.willcosgrove.com/a-tale-of-two-phlexes)
 * [2024-01-25, 12:07:49](https://lobste.rs/s/ipv7id/verifying_using_temporal_logic_action) - [Verifying using temporal logic of action in Dafny](https://rdivyanshu.github.io/tla-logic-in-dafny.html)
 * [2024-01-25, 12:05:21](https://lobste.rs/s/5aupvf/on_web_components) - [On Web Components](https://macwright.com/2024/01/24/on-web-components)
 * [2024-01-25, 11:56:32](https://lobste.rs/s/spdccn/nix_from_bottom_up) - [Nix from the bottom up](http://www.chriswarbo.net/projects/nixos/bottom_up.html)
@@ -22,7 +23,6 @@
 * [2024-01-24, 14:56:25](https://lobste.rs/s/lz3vkk/why_sql_hang_for_exactly_940s_tcp_async) - [Why SQL hang for exactly 940s? TCP and Async Rust](https://xuanwo.io/2024/01-why-sql-hang-for-exactly-940s/)
 * [2024-01-24, 12:36:37](https://lobste.rs/s/jxtqki/self_contained_linux_applications_with) - [Self-contained Linux applications with lone lisp](https://www.matheusmoreira.com/articles/self-contained-lone-lisp-applications)
 * [2024-01-24, 11:48:38](https://lobste.rs/s/alkpxj/egel_movie) - [Egel - The Movie](https://www.youtube.com/watch?v=XCOIDUFMBVQ&ab_channel=MarcoDevillers)
-* [2024-01-24, 08:27:55](https://lobste.rs/s/zv2a2p/smoother_sailing_studying_audio) - [Smoother sailing: Studying audio imperfections in Steamboat Willie](https://www.windytan.com/2024/01/smoother-sailing-steamboat-willie-flutter.html)
 * [2024-01-24, 01:21:51](https://lobste.rs/s/olfg44/making_rust_binaries_smaller_by_default) - [Making Rust binaries smaller by default](https://kobzol.github.io/rust/cargo/2024/01/23/making-rust-binaries-smaller-by-default.html)
 * [2024-01-23, 19:36:08](https://lobste.rs/s/ylf985/4_reasons_try_mozilla_s_new_firefox_linux) - [4 reasons to try Mozilla’s new Firefox Linux package for Ubuntu and Debian derivatives](https://blog.mozilla.org/en/products/4-reasons-to-try-mozillas-new-firefox-linux-package-for-ubuntu-and-debian-derivatives/)
 
