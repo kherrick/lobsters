@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-25, 08:16:26](https://lobste.rs/s/ulvj9f/forkrun_runs_multiple_inputs_through) - [forkrun: runs multiple inputs through a script/function in parallel using bash coprocs](https://github.com/jkool702/forkrun)
 * [2024-01-25, 06:10:19](https://lobste.rs/s/rylqxf/expr_evaluation_language_release_v1_16) - [Expr Evaluation Language release v1.16](https://github.com/expr-lang/expr/releases/tag/v1.16.0)
 * [2024-01-25, 05:44:09](https://lobste.rs/s/bkzxqd/how_apple_accidentally_broke_my_spotify) - [How Apple accidentally broke my Spotify client](https://rbf.dev/blog/2024/01/how-apple-accidentally-broke-my-spotify/)
 * [2024-01-25, 01:15:17](https://lobste.rs/s/9zsqgu/unsigned_commits) - [Unsigned Commits](https://blog.glyph.im/2024/01/unsigned-commits.html)
@@ -20,7 +21,6 @@
 * [2024-01-24, 11:06:14](https://lobste.rs/s/mvgdev/parallel_stream_processing_with_zero) - [Parallel stream processing with zero-copy fan-out and sharding](https://stevana.github.io/parallel_stream_processing_with_zero-copy_fan-out_and_sharding.html)
 * [2024-01-24, 08:27:55](https://lobste.rs/s/zv2a2p/smoother_sailing_studying_audio) - [Smoother sailing: Studying audio imperfections in Steamboat Willie](https://www.windytan.com/2024/01/smoother-sailing-steamboat-willie-flutter.html)
 * [2024-01-24, 01:21:51](https://lobste.rs/s/olfg44/making_rust_binaries_smaller_by_default) - [Making Rust binaries smaller by default](https://kobzol.github.io/rust/cargo/2024/01/23/making-rust-binaries-smaller-by-default.html)
-* [2024-01-23, 20:40:17](https://lobste.rs/s/rt8dnk/possibility_making_138_000_from_shredded) - [The possibility of making $138,000 from shredded banknote pieces using computer vision](https://arxiv.org/ftp/arxiv/papers/2401/2401.06133.pdf)
 * [2024-01-23, 19:36:08](https://lobste.rs/s/ylf985/4_reasons_try_mozilla_s_new_firefox_linux) - [4 reasons to try Mozilla’s new Firefox Linux package for Ubuntu and Debian derivatives](https://blog.mozilla.org/en/products/4-reasons-to-try-mozillas-new-firefox-linux-package-for-ubuntu-and-debian-derivatives/)
 * [2024-01-23, 18:26:29](https://lobste.rs/s/3or7dd/tcl_on_brain_worms) - [TCL on the brain/worms](https://cohost.org/sakiamu/post/177439-tcl-on-the-brain)
 * [2024-01-23, 12:56:34](https://lobste.rs/s/i4nfjj/donor_bounties_new_kind_feature_bounty) - [Donor Bounties: A New Kind of Feature Bounty](https://ziglang.org/news/announcing-donor-bounties/)
