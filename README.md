@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-25, 21:15:17](https://lobste.rs/s/ctdzqu/shipp_deadly_simple_package_manager_for) - [shipp: Deadly simple package manager for your C/C++ projects, written in Rust](https://github.com/linkdd/shipp)
 * [2024-01-25, 19:43:22](https://lobste.rs/s/en0a0u/axioms_systemantics) - [Axioms of Systemantics](https://www.biodigitaljazz.net/blog/systemantics.html)
 * [2024-01-25, 18:30:49](https://lobste.rs/s/kdrsx3/apple_announces_changes_ios_safari_app) - [Apple announces changes to iOS, Safari, and the App Store in the European Union](https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/)
 * [2024-01-25, 18:15:18](https://lobste.rs/s/7xz75h/wasi_preview_2_launched) - [WASI Preview 2 Launched](https://blog.sunfishcode.online/wasi-preview2/)
@@ -19,7 +20,6 @@
 * [2024-01-25, 10:30:36](https://lobste.rs/s/uz4o8e/creating_xmpp_network_graph) - [Creating the XMPP Network Graph](https://discourse.igniterealtime.org/t/creating-the-xmpp-network-graph/93521)
 * [2024-01-25, 09:51:01](https://lobste.rs/s/qfzq6x/quicksort_with_jenkins_for_fun_no_profit) - [Quicksort with Jenkins for Fun and No Profit](https://susam.net/blog/jenkins-quicksort.html)
 * [2024-01-25, 05:44:09](https://lobste.rs/s/bkzxqd/how_apple_accidentally_broke_my_spotify) - [How Apple accidentally broke my Spotify client](https://rbf.dev/blog/2024/01/how-apple-accidentally-broke-my-spotify/)
-* [2024-01-25, 01:15:17](https://lobste.rs/s/9zsqgu/unsigned_commits) - [Unsigned Commits](https://blog.glyph.im/2024/01/unsigned-commits.html)
 * [2024-01-24, 22:54:54](https://lobste.rs/s/wmhctu/history_nix_at_bellroy) - [The History of Nix at Bellroy](https://exploring-better-ways.bellroy.com/the-history-of-nix-at-bellroy.html)
 * [2024-01-24, 22:49:10](https://lobste.rs/s/jetw7a/on_owning_software) - [On “owning” software](https://avdi.codes/on-owning-software/)
 * [2024-01-24, 17:08:28](https://lobste.rs/s/rpsiwl/zed_is_now_open_source) - [Zed is now open source](https://zed.dev/blog/zed-is-now-open-source)
