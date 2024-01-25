@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-25, 13:38:12](https://lobste.rs/s/qyepd7/pipeline_trick) - [Pipeline trick](https://gist.github.com/izabera/cc9f21e1541d603da66cb28093f46892)
+* [2024-01-25, 13:37:02](https://lobste.rs/s/cz57mi/smallest_golang_websocket_client) - [Smallest golang websocket client](https://dyte.io/blog/hiring-challenge-smallest-golang-websocket-client/)
 * [2024-01-25, 12:45:59](https://lobste.rs/s/cptkzz/tale_two_phlexes) - [A Tale of two Phlexes](https://blog.willcosgrove.com/a-tale-of-two-phlexes)
 * [2024-01-25, 12:07:49](https://lobste.rs/s/ipv7id/verifying_using_temporal_logic_action) - [Verifying using temporal logic of action in Dafny](https://rdivyanshu.github.io/tla-logic-in-dafny.html)
 * [2024-01-25, 12:05:21](https://lobste.rs/s/5aupvf/on_web_components) - [On Web Components](https://macwright.com/2024/01/24/on-web-components)
@@ -20,11 +22,9 @@
 * [2024-01-24, 16:53:20](https://lobste.rs/s/anrg48/mtm_perhaps_smallest_useful_terminal) - [mtm: Perhaps the smallest useful terminal multiplexer in the world](https://github.com/deadpixi/mtm)
 * [2024-01-24, 15:07:37](https://lobste.rs/s/zkinsr/kind_annoyed_at_react) - [Kind of annoyed at React](https://blog.cassidoo.co/post/annoyed-at-react/)
 * [2024-01-24, 14:57:00](https://lobste.rs/s/b97c7h/you_probably_don_t_need_learn_c) - [You (probably) don’t need to learn C](https://nedbatchelder.com/blog/202401/you_probably_dont_need_to_learn_c.html)
-* [2024-01-24, 14:56:25](https://lobste.rs/s/lz3vkk/why_sql_hang_for_exactly_940s_tcp_async) - [Why SQL hang for exactly 940s? TCP and Async Rust](https://xuanwo.io/2024/01-why-sql-hang-for-exactly-940s/)
 * [2024-01-24, 12:36:37](https://lobste.rs/s/jxtqki/self_contained_linux_applications_with) - [Self-contained Linux applications with lone lisp](https://www.matheusmoreira.com/articles/self-contained-lone-lisp-applications)
 * [2024-01-24, 11:48:38](https://lobste.rs/s/alkpxj/egel_movie) - [Egel - The Movie](https://www.youtube.com/watch?v=XCOIDUFMBVQ&ab_channel=MarcoDevillers)
 * [2024-01-24, 01:21:51](https://lobste.rs/s/olfg44/making_rust_binaries_smaller_by_default) - [Making Rust binaries smaller by default](https://kobzol.github.io/rust/cargo/2024/01/23/making-rust-binaries-smaller-by-default.html)
-* [2024-01-23, 19:36:08](https://lobste.rs/s/ylf985/4_reasons_try_mozilla_s_new_firefox_linux) - [4 reasons to try Mozilla’s new Firefox Linux package for Ubuntu and Debian derivatives](https://blog.mozilla.org/en/products/4-reasons-to-try-mozillas-new-firefox-linux-package-for-ubuntu-and-debian-derivatives/)
 
 ## [Archives](archives/index.md)
 
