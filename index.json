@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-25, 13:59:42",
+      "https://lobste.rs/s/oxnb2r/understanding_mesh_allocator"
+    ],
+    [
+      "Understanding Mesh Allocator",
+      "https://veera.app/mesh_allocator.html"
+    ]
+  ],
+  [
+    [
       "2024-01-25, 13:38:12",
       "https://lobste.rs/s/qyepd7/pipeline_trick"
     ],
@@ -217,16 +227,6 @@
     [
       "You (probably) don’t need to learn C",
       "https://nedbatchelder.com/blog/202401/you_probably_dont_need_to_learn_c.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-24, 12:36:37",
-      "https://lobste.rs/s/jxtqki/self_contained_linux_applications_with"
-    ],
-    [
-      "Self-contained Linux applications with lone lisp",
-      "https://www.matheusmoreira.com/articles/self-contained-lone-lisp-applications"
     ]
   ],
   [
