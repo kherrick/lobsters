@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-25, 09:51:01](https://lobste.rs/s/qfzq6x/quicksort_with_jenkins_for_fun_no_profit) - [Quicksort with Jenkins for Fun and No Profit](https://susam.net/blog/jenkins-quicksort.html)
 * [2024-01-25, 09:33:41](https://lobste.rs/s/ewlxfh/endless_os_s_privacy_preserving_metrics) - [Endless OS’s privacy-preserving metrics system](https://blogs.gnome.org/wjjt/2023/07/05/endless-oss-privacy-preserving-metrics-system/)
 * [2024-01-25, 08:16:26](https://lobste.rs/s/ulvj9f/forkrun_runs_multiple_inputs_through) - [forkrun: runs multiple inputs through a script/function in parallel using bash coprocs](https://github.com/jkool702/forkrun)
 * [2024-01-25, 05:44:09](https://lobste.rs/s/bkzxqd/how_apple_accidentally_broke_my_spotify) - [How Apple accidentally broke my Spotify client](https://rbf.dev/blog/2024/01/how-apple-accidentally-broke-my-spotify/)
@@ -9,7 +10,6 @@
 * [2024-01-24, 20:28:17](https://lobste.rs/s/nybzis/insanely_great_apple_mac_at_40) - [Insanely Great: The Apple Mac at 40](https://computerhistory.org/events/insanely-great/)
 * [2024-01-24, 20:06:27](https://lobste.rs/s/4iym8m/zx_spectrum_raytracer) - [ZX Spectrum Raytracer](https://gabrielgambetta.com/zx-raytracer.html)
 * [2024-01-24, 18:18:05](https://lobste.rs/s/xcmf7e/speeding_up_zsh_startup) - [Speeding up zsh startup](https://notes.billmill.org/computer_usage/zsh/profiling_zsh_startup.html)
-* [2024-01-24, 18:13:55](https://lobste.rs/s/zyd4k7/dolphin_mastering_art_automated_droplet) - [Dolphin: Mastering the Art of Automated Droplet Movement](https://www.digitalocean.com/blog/introducing-dolphin)
 * [2024-01-24, 17:08:28](https://lobste.rs/s/rpsiwl/zed_is_now_open_source) - [Zed is now open source](https://zed.dev/blog/zed-is-now-open-source)
 * [2024-01-24, 16:53:20](https://lobste.rs/s/anrg48/mtm_perhaps_smallest_useful_terminal) - [mtm: Perhaps the smallest useful terminal multiplexer in the world](https://github.com/deadpixi/mtm)
 * [2024-01-24, 15:07:37](https://lobste.rs/s/zkinsr/kind_annoyed_at_react) - [Kind of annoyed at React](https://blog.cassidoo.co/post/annoyed-at-react/)
