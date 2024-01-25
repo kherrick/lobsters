@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-25, 10:30:36](https://lobste.rs/s/uz4o8e/creating_xmpp_network_graph) - [Creating the XMPP Network Graph](https://discourse.igniterealtime.org/t/creating-the-xmpp-network-graph/93521)
 * [2024-01-25, 09:51:01](https://lobste.rs/s/qfzq6x/quicksort_with_jenkins_for_fun_no_profit) - [Quicksort with Jenkins for Fun and No Profit](https://susam.net/blog/jenkins-quicksort.html)
 * [2024-01-25, 09:33:41](https://lobste.rs/s/ewlxfh/endless_os_s_privacy_preserving_metrics) - [Endless OS’s privacy-preserving metrics system](https://blogs.gnome.org/wjjt/2023/07/05/endless-oss-privacy-preserving-metrics-system/)
 * [2024-01-25, 08:16:26](https://lobste.rs/s/ulvj9f/forkrun_runs_multiple_inputs_through) - [forkrun: runs multiple inputs through a script/function in parallel using bash coprocs](https://github.com/jkool702/forkrun)
@@ -18,7 +19,6 @@
 * [2024-01-24, 13:52:00](https://lobste.rs/s/tjjua3/286_s_internal_registers) - [The 286's internal registers](https://rep-lodsb.mataroa.blog/blog/the-286s-internal-registers/)
 * [2024-01-24, 12:36:37](https://lobste.rs/s/jxtqki/self_contained_linux_applications_with) - [Self-contained Linux applications with lone lisp](https://www.matheusmoreira.com/articles/self-contained-lone-lisp-applications)
 * [2024-01-24, 11:48:38](https://lobste.rs/s/alkpxj/egel_movie) - [Egel - The Movie](https://www.youtube.com/watch?v=XCOIDUFMBVQ&ab_channel=MarcoDevillers)
-* [2024-01-24, 11:06:14](https://lobste.rs/s/mvgdev/parallel_stream_processing_with_zero) - [Parallel stream processing with zero-copy fan-out and sharding](https://stevana.github.io/parallel_stream_processing_with_zero-copy_fan-out_and_sharding.html)
 * [2024-01-24, 08:27:55](https://lobste.rs/s/zv2a2p/smoother_sailing_studying_audio) - [Smoother sailing: Studying audio imperfections in Steamboat Willie](https://www.windytan.com/2024/01/smoother-sailing-steamboat-willie-flutter.html)
 * [2024-01-24, 01:21:51](https://lobste.rs/s/olfg44/making_rust_binaries_smaller_by_default) - [Making Rust binaries smaller by default](https://kobzol.github.io/rust/cargo/2024/01/23/making-rust-binaries-smaller-by-default.html)
 * [2024-01-23, 19:36:08](https://lobste.rs/s/ylf985/4_reasons_try_mozilla_s_new_firefox_linux) - [4 reasons to try Mozilla’s new Firefox Linux package for Ubuntu and Debian derivatives](https://blog.mozilla.org/en/products/4-reasons-to-try-mozillas-new-firefox-linux-package-for-ubuntu-and-debian-derivatives/)
