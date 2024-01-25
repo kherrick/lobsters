@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-25, 05:44:09](https://lobste.rs/s/bkzxqd/how_apple_accidentally_broke_my_spotify) - [How Apple accidentally broke my Spotify client](https://rbf.dev/blog/2024/01/how-apple-accidentally-broke-my-spotify/)
 * [2024-01-25, 01:15:17](https://lobste.rs/s/9zsqgu/unsigned_commits) - [Unsigned Commits](https://blog.glyph.im/2024/01/unsigned-commits.html)
 * [2024-01-24, 22:54:54](https://lobste.rs/s/wmhctu/history_nix_at_bellroy) - [The History of Nix at Bellroy](https://exploring-better-ways.bellroy.com/the-history-of-nix-at-bellroy.html)
 * [2024-01-24, 22:49:10](https://lobste.rs/s/jetw7a/on_owning_software) - [On “owning” software](https://avdi.codes/on-owning-software/)
@@ -23,7 +24,6 @@
 * [2024-01-23, 19:36:08](https://lobste.rs/s/ylf985/4_reasons_try_mozilla_s_new_firefox_linux) - [4 reasons to try Mozilla’s new Firefox Linux package for Ubuntu and Debian derivatives](https://blog.mozilla.org/en/products/4-reasons-to-try-mozillas-new-firefox-linux-package-for-ubuntu-and-debian-derivatives/)
 * [2024-01-23, 18:26:29](https://lobste.rs/s/3or7dd/tcl_on_brain_worms) - [TCL on the brain/worms](https://cohost.org/sakiamu/post/177439-tcl-on-the-brain)
 * [2024-01-23, 12:56:34](https://lobste.rs/s/i4nfjj/donor_bounties_new_kind_feature_bounty) - [Donor Bounties: A New Kind of Feature Bounty](https://ziglang.org/news/announcing-donor-bounties/)
-* [2024-01-23, 12:42:32](https://lobste.rs/s/jkct2m/avoid_async_rust) - [Avoid Async Rust](https://blog.hugpoint.tech/avoid_async_rust.html)
 * [2024-01-23, 11:20:02](https://lobste.rs/s/12qnj3/nominal_types_rust) - [Nominal Types in Rust](https://experimentalworks.net/posts/2024-01-22-simple-phantom-types/)
 
 ## [Archives](archives/index.md)
