@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
+* [2024-01-25, 13:59:42](https://lobste.rs/s/oxnb2r/understanding_mesh_allocator) - [Understanding Mesh Allocator](https://veera.app/mesh_allocator.html)
 * [2024-01-25, 13:38:12](https://lobste.rs/s/qyepd7/pipeline_trick) - [Pipeline trick](https://gist.github.com/izabera/cc9f21e1541d603da66cb28093f46892)
 * [2024-01-25, 13:37:02](https://lobste.rs/s/cz57mi/smallest_golang_websocket_client) - [Smallest golang websocket client](https://dyte.io/blog/hiring-challenge-smallest-golang-websocket-client/)
 * [2024-01-25, 12:45:59](https://lobste.rs/s/cptkzz/tale_two_phlexes) - [A Tale of two Phlexes](https://blog.willcosgrove.com/a-tale-of-two-phlexes)
