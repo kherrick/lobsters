@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-01-25, 14:59:22",
-      "https://lobste.rs/s/b5hims/whisperfusion_ultra_low_latency"
-    ],
-    [
-      "WhisperFusion: Ultra-low latency conversations with an AI chatbot",
-      "https://www.collabora.com/news-and-blog/news-and-events/whisperfusion-ultra-low-latency-conversations-with-an-ai-chatbot.html"
-    ]
-  ],
-  [
-    [
       "2024-01-25, 14:41:32",
       "https://lobste.rs/s/zpwqim/crusty_indestructible_mac"
     ],
@@ -117,6 +107,16 @@
     [
       "Quicksort with Jenkins for Fun and No Profit",
       "https://susam.net/blog/jenkins-quicksort.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-25, 08:16:26",
+      "https://lobste.rs/s/ulvj9f/forkrun_runs_multiple_inputs_through"
+    ],
+    [
+      "forkrun: runs multiple inputs through a script/function in parallel using bash coprocs",
+      "https://github.com/jkool702/forkrun"
     ]
   ],
   [
