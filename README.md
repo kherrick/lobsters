@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-26, 19:06:39](https://lobste.rs/s/sqzzuc/inside_git) - [Inside .git](https://jvns.ca/blog/2024/01/26/inside-git/)
 * [2024-01-26, 18:30:29](https://lobste.rs/s/jtarg2/lessons_learned_from_payments_startups) - [Lessons Learned From Payments Startups](https://pgrs.net/2024/01/26/lessons-learned-from-payemnts-startups/)
 * [2024-01-26, 17:12:26](https://lobste.rs/s/39tkja/exploring_codespaces_as_temporary_dev) - [Exploring codespaces as temporary dev containers](https://qmacro.org/blog/posts/2024/01/26/exploring-codespaces-as-temporary-dev-containers/)
 * [2024-01-26, 16:34:41](https://lobste.rs/s/htinkc/rqlite_lightweight_distributed) - [rqlite - the lightweight, distributed database built on Go, Raft, and SQLite - now with JSONB support and scheduled SQLite VACUUMs](https://www.philipotoole.com/rqlite-8170-8180-vacuum-jsonb/)
@@ -24,7 +25,6 @@
 * [2024-01-25, 13:38:12](https://lobste.rs/s/qyepd7/pipeline_trick) - [Pipeline trick](https://gist.github.com/izabera/cc9f21e1541d603da66cb28093f46892)
 * [2024-01-25, 11:56:32](https://lobste.rs/s/spdccn/nix_from_bottom_up) - [Nix from the bottom up](http://www.chriswarbo.net/projects/nixos/bottom_up.html)
 * [2024-01-25, 10:57:26](https://lobste.rs/s/jvwlir/only_90s_web_developers_remember_this) - [Only 90s Web Developers Remember This](https://zachholman.com/posts/only-90s-developers/)
-* [2024-01-25, 05:44:09](https://lobste.rs/s/bkzxqd/how_apple_accidentally_broke_my_spotify) - [How Apple accidentally broke my Spotify client](https://rbf.dev/blog/2024/01/how-apple-accidentally-broke-my-spotify/)
 
 ## [Archives](archives/index.md)
 

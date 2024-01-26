@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
+* [2024-01-26, 19:06:39](https://lobste.rs/s/sqzzuc/inside_git) - [Inside .git](https://jvns.ca/blog/2024/01/26/inside-git/)
 * [2024-01-26, 18:30:29](https://lobste.rs/s/jtarg2/lessons_learned_from_payments_startups) - [Lessons Learned From Payments Startups](https://pgrs.net/2024/01/26/lessons-learned-from-payemnts-startups/)
 * [2024-01-26, 17:12:26](https://lobste.rs/s/39tkja/exploring_codespaces_as_temporary_dev) - [Exploring codespaces as temporary dev containers](https://qmacro.org/blog/posts/2024/01/26/exploring-codespaces-as-temporary-dev-containers/)
 * [2024-01-26, 16:34:41](https://lobste.rs/s/htinkc/rqlite_lightweight_distributed) - [rqlite - the lightweight, distributed database built on Go, Raft, and SQLite - now with JSONB support and scheduled SQLite VACUUMs](https://www.philipotoole.com/rqlite-8170-8180-vacuum-jsonb/)
