@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-25, 23:25:02](https://lobste.rs/s/qk32pt/writing_tui_bash_how_write_tui_bash) - [writing-a-tui-in-bash: How to write a TUI in BASH](https://github.com/dylanaraps/writing-a-tui-in-bash)
 * [2024-01-25, 21:33:30](https://lobste.rs/s/vwjfzw/fixing_hiss_on_my_pinball_machine) - [Fixing the hiss on my Pinball machine including root access](http://raymii.org/s/software/Fixing_the_buzz_hiss_on_my_atgames_legends_pinball_micro.html)
 * [2024-01-25, 21:15:17](https://lobste.rs/s/ctdzqu/shipp_deadly_simple_package_manager_for) - [shipp: Deadly simple package manager for your C/C++ projects, written in Rust](https://github.com/linkdd/shipp)
 * [2024-01-25, 19:43:22](https://lobste.rs/s/en0a0u/axioms_systemantics) - [Axioms of Systemantics](https://www.biodigitaljazz.net/blog/systemantics.html)
@@ -24,7 +25,6 @@
 * [2024-01-24, 22:54:54](https://lobste.rs/s/wmhctu/history_nix_at_bellroy) - [The History of Nix at Bellroy](https://exploring-better-ways.bellroy.com/the-history-of-nix-at-bellroy.html)
 * [2024-01-24, 22:49:10](https://lobste.rs/s/jetw7a/on_owning_software) - [On “owning” software](https://avdi.codes/on-owning-software/)
 * [2024-01-24, 17:08:28](https://lobste.rs/s/rpsiwl/zed_is_now_open_source) - [Zed is now open source](https://zed.dev/blog/zed-is-now-open-source)
-* [2024-01-24, 14:57:00](https://lobste.rs/s/b97c7h/you_probably_don_t_need_learn_c) - [You (probably) don’t need to learn C](https://nedbatchelder.com/blog/202401/you_probably_dont_need_to_learn_c.html)
 
 ## [Archives](archives/index.md)
 
