@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
+* [2024-01-26, 17:12:26](https://lobste.rs/s/39tkja/exploring_codespaces_as_temporary_dev) - [Exploring codespaces as temporary dev containers](https://qmacro.org/blog/posts/2024/01/26/exploring-codespaces-as-temporary-dev-containers/)
 * [2024-01-26, 16:34:41](https://lobste.rs/s/htinkc/rqlite_lightweight_distributed) - [rqlite - the lightweight, distributed database built on Go, Raft, and SQLite - now with JSONB support and scheduled SQLite VACUUMs](https://www.philipotoole.com/rqlite-8170-8180-vacuum-jsonb/)
 * [2024-01-26, 16:00:34](https://lobste.rs/s/dqro3c/fprime_flight_software_embedded_systems) - [fprime - A flight software and embedded systems framework by NASA](https://github.com/nasa/fprime)
 * [2024-01-26, 15:56:23](https://lobste.rs/s/nwlmcy/ingenuity_mars_helicopter_hardware) - [Ingenuity Mars Helicopter Hardware And Software Overview](https://youtu.be/mQu9m4MG5Gc)
