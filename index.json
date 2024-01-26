@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-26, 16:00:34",
+      "https://lobste.rs/s/dqro3c/fprime_flight_software_embedded_systems"
+    ],
+    [
+      "fprime - A flight software and embedded systems framework by NASA",
+      "https://github.com/nasa/fprime"
+    ]
+  ],
+  [
+    [
+      "2024-01-26, 15:56:23",
+      "https://lobste.rs/s/nwlmcy/ingenuity_mars_helicopter_hardware"
+    ],
+    [
+      "Ingenuity Mars Helicopter Hardware And Software Overview",
+      "https://youtu.be/mQu9m4MG5Gc"
+    ]
+  ],
+  [
+    [
       "2024-01-26, 15:34:34",
       "https://lobste.rs/s/igrglu/arvid_how_russians_squeezed_4_hard_drives"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2024-01-26, 14:13:48",
-      "https://lobste.rs/s/xpsh0y/project_idx"
-    ],
-    [
-      "Project IDX",
-      "https://idx.dev/"
-    ]
-  ],
-  [
-    [
       "2024-01-26, 13:38:06",
       "https://lobste.rs/s/qeitza/using_alternative_browser_engines"
     ],
@@ -87,16 +97,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/mlqcnr/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2024-01-26, 10:02:15",
-      "https://lobste.rs/s/foxhez/prefer_table_driven_tests_2019"
-    ],
-    [
-      "Prefer table driven tests (2019)",
-      "https://dave.cheney.net/2019/05/07/prefer-table-driven-tests"
     ]
   ],
   [
