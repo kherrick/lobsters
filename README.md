@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-01-25, 23:25:02](https://lobste.rs/s/qk32pt/writing_tui_bash_how_write_tui_bash) - [writing-a-tui-in-bash: How to write a TUI in BASH](https://github.com/dylanaraps/writing-a-tui-in-bash)
 * [2024-01-25, 21:33:30](https://lobste.rs/s/vwjfzw/fixing_hiss_on_my_pinball_machine) - [Fixing the hiss on my Pinball machine including root access](http://raymii.org/s/software/Fixing_the_buzz_hiss_on_my_atgames_legends_pinball_micro.html)
 * [2024-01-25, 21:15:17](https://lobste.rs/s/ctdzqu/shipp_deadly_simple_package_manager_for) - [shipp: Deadly simple package manager for your C/C++ projects, written in Rust](https://github.com/linkdd/shipp)
+* [2024-01-25, 20:47:46](https://lobste.rs/s/vycrry/things_nobody_wants_pay_for) - [The things nobody wants to pay for](https://lwn.net/SubscriberLink/959069/c96f34ed67a168e4/)
 * [2024-01-25, 19:43:22](https://lobste.rs/s/en0a0u/axioms_systemantics) - [Axioms of Systemantics](https://www.biodigitaljazz.net/blog/systemantics.html)
 * [2024-01-25, 18:30:49](https://lobste.rs/s/kdrsx3/apple_announces_changes_ios_safari_app) - [Apple announces changes to iOS, Safari, and the App Store in the European Union](https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/)
 * [2024-01-25, 18:15:18](https://lobste.rs/s/7xz75h/wasi_preview_2_launched) - [WASI Preview 2 Launched](https://blog.sunfishcode.online/wasi-preview2/)
