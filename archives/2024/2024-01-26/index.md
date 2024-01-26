@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
+* [2024-01-26, 14:58:24](https://lobste.rs/s/kioqvp/c_editor_prompt_shell_embed_your_own) - [A C++ editor/prompt shell to embed your own programming language](https://github.com/naver/lispe/blob/master/editor/README.md)
+* [2024-01-26, 14:53:15](https://lobste.rs/s/c7hgkj/oasis_small_statically_linked_linux) - [Oasis: a small statically-linked linux system](https://github.com/oasislinux/oasis)
 * [2024-01-26, 14:13:48](https://lobste.rs/s/xpsh0y/project_idx) - [Project IDX](https://idx.dev/)
 * [2024-01-26, 13:38:06](https://lobste.rs/s/qeitza/using_alternative_browser_engines) - [Using alternative browser engines in the European Union - Support - Apple Developer](https://developer.apple.com/support/alternative-browser-engines/)
 * [2024-01-26, 12:54:20](https://lobste.rs/s/pdivx4/my_impressions_hare) - [My Impressions of Hare](https://vfoley.xyz/hare/)
