@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
+* [2024-01-26, 20:27:04](https://lobste.rs/s/ys62zs/identifying_rust_s_collect_vec_memory) - [Identifying Rust’s collect::<Vec>() memory leak footgun](https://blog.polybdenum.com/2024/01/17/identifying-the-collect-vec-memory-leak-footgun.html)
 * [2024-01-26, 19:06:39](https://lobste.rs/s/sqzzuc/inside_git) - [Inside .git](https://jvns.ca/blog/2024/01/26/inside-git/)
 * [2024-01-26, 18:30:29](https://lobste.rs/s/jtarg2/lessons_learned_from_payments_startups) - [Lessons Learned From Payments Startups](https://pgrs.net/2024/01/26/lessons-learned-from-payemnts-startups/)
 * [2024-01-26, 17:12:26](https://lobste.rs/s/39tkja/exploring_codespaces_as_temporary_dev) - [Exploring codespaces as temporary dev containers](https://qmacro.org/blog/posts/2024/01/26/exploring-codespaces-as-temporary-dev-containers/)
