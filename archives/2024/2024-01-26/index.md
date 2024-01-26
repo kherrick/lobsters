@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
+* [2024-01-26, 16:00:34](https://lobste.rs/s/dqro3c/fprime_flight_software_embedded_systems) - [fprime - A flight software and embedded systems framework by NASA](https://github.com/nasa/fprime)
+* [2024-01-26, 15:56:23](https://lobste.rs/s/nwlmcy/ingenuity_mars_helicopter_hardware) - [Ingenuity Mars Helicopter Hardware And Software Overview](https://youtu.be/mQu9m4MG5Gc)
 * [2024-01-26, 15:34:34](https://lobste.rs/s/igrglu/arvid_how_russians_squeezed_4_hard_drives) - [ArVid: how Russians squeezed 4 hard drives into one VHS tape in the 90s](https://jacobfilipp.com/arvid-vhs/)
 * [2024-01-26, 15:28:06](https://lobste.rs/s/yef3xb/lossy_css_compression_for_fun_loss_profit) - [Lossy CSS compression for fun and loss (or profit)](https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/)
 * [2024-01-26, 14:58:24](https://lobste.rs/s/kioqvp/c_editor_prompt_shell_embed_your_own) - [A C++ editor/prompt shell to embed your own programming language](https://github.com/naver/lispe/blob/master/editor/README.md)
