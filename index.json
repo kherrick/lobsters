@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2024-01-26, 12:53:36",
+      "https://lobste.rs/s/scg2qg/use_any_for_generics_interface_for"
+    ],
+    [
+      "Use `any` for generics and `interface{}` for interfaces",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/GoAvoidingAnyAsAType"
+    ]
+  ],
+  [
+    [
       "2024-01-26, 11:17:15",
       "https://lobste.rs/s/mlqcnr/what_are_you_doing_this_weekend"
     ],
@@ -207,16 +217,6 @@
     [
       "We build X.509 chains so you don’t have to",
       "https://blog.trailofbits.com/2024/01/25/we-build-x-509-chains-so-you-dont-have-to/"
-    ]
-  ],
-  [
-    [
-      "2024-01-25, 13:59:42",
-      "https://lobste.rs/s/oxnb2r/understanding_mesh_allocator"
-    ],
-    [
-      "Understanding Mesh Allocator",
-      "https://veera.app/mesh_allocator.html"
     ]
   ],
   [
