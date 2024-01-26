@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-01-25](index.md)
 
 * [2024-01-25, 23:25:02](https://lobste.rs/s/qk32pt/writing_tui_bash_how_write_tui_bash) - [writing-a-tui-in-bash: How to write a TUI in BASH](https://github.com/dylanaraps/writing-a-tui-in-bash)
+* [2024-01-25, 22:20:09](https://lobste.rs/s/n6lmgk/portable_epubs) - [Portable EPUBs](https://willcrichton.net/notes/portable-epubs/)
 * [2024-01-25, 21:33:30](https://lobste.rs/s/vwjfzw/fixing_hiss_on_my_pinball_machine) - [Fixing the hiss on my Pinball machine including root access](http://raymii.org/s/software/Fixing_the_buzz_hiss_on_my_atgames_legends_pinball_micro.html)
 * [2024-01-25, 21:15:17](https://lobste.rs/s/ctdzqu/shipp_deadly_simple_package_manager_for) - [shipp: Deadly simple package manager for your C/C++ projects, written in Rust](https://github.com/linkdd/shipp)
 * [2024-01-25, 20:47:46](https://lobste.rs/s/vycrry/things_nobody_wants_pay_for) - [The things nobody wants to pay for](https://lwn.net/SubscriberLink/959069/c96f34ed67a168e4/)
