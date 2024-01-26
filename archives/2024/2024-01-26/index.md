@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
+* [2024-01-26, 12:54:20](https://lobste.rs/s/pdivx4/my_impressions_hare) - [My Impressions of Hare](https://vfoley.xyz/hare/)
+* [2024-01-26, 12:53:36](https://lobste.rs/s/scg2qg/use_any_for_generics_interface_for) - [Use `any` for generics and `interface{}` for interfaces](https://utcc.utoronto.ca/~cks/space/blog/programming/GoAvoidingAnyAsAType)
 * [2024-01-26, 11:17:15](https://lobste.rs/s/mlqcnr/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mlqcnr/what_are_you_doing_this_weekend)
 * [2024-01-26, 10:50:59](https://lobste.rs/s/4vfy8q/qntm_package_on_international_atomic) - [qntm package on International Atomic Time](https://www.npmjs.com/package/t-a-i#comparison-of-models)
 * [2024-01-26, 10:02:15](https://lobste.rs/s/foxhez/prefer_table_driven_tests_2019) - [Prefer table driven tests (2019)](https://dave.cheney.net/2019/05/07/prefer-table-driven-tests)
