@@ -10,7 +10,7 @@
 * [2024-01-26, 15:28:06](https://lobste.rs/s/yef3xb/lossy_css_compression_for_fun_loss_profit) - [Lossy CSS compression for fun and loss (or profit)](https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/)
 * [2024-01-26, 14:58:24](https://lobste.rs/s/kioqvp/c_editor_prompt_shell_embed_your_own) - [A C++ editor/prompt shell to embed your own programming language](https://github.com/naver/lispe/blob/master/editor/README.md)
 * [2024-01-26, 14:53:15](https://lobste.rs/s/c7hgkj/oasis_small_statically_linked_linux) - [Oasis: a small statically-linked linux system](https://github.com/oasislinux/oasis)
-* [2024-01-26, 13:38:06](https://lobste.rs/s/qeitza/using_alternative_browser_engines) - [Using alternative browser engines in the European Union - Support - Apple Developer](https://developer.apple.com/support/alternative-browser-engines/)
+* [2024-01-26, 13:38:06](https://lobste.rs/s/qeitza/using_alternative_browser_engines) - [Using alternative browser engines in the European Union](https://developer.apple.com/support/alternative-browser-engines/)
 * [2024-01-26, 12:54:20](https://lobste.rs/s/pdivx4/my_impressions_hare) - [My Impressions of Hare](https://vfoley.xyz/hare/)
 * [2024-01-26, 12:53:36](https://lobste.rs/s/scg2qg/use_any_for_generics_interface_for) - [Use `any` for generics and `interface{}` for interfaces](https://utcc.utoronto.ca/~cks/space/blog/programming/GoAvoidingAnyAsAType)
 * [2024-01-26, 11:17:15](https://lobste.rs/s/mlqcnr/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mlqcnr/what_are_you_doing_this_weekend)
