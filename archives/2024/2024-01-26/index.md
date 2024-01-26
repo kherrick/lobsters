@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
+* [2024-01-26, 14:13:48](https://lobste.rs/s/xpsh0y/project_idx) - [Project IDX](https://idx.dev/)
 * [2024-01-26, 13:38:06](https://lobste.rs/s/qeitza/using_alternative_browser_engines) - [Using alternative browser engines in the European Union - Support - Apple Developer](https://developer.apple.com/support/alternative-browser-engines/)
 * [2024-01-26, 12:54:20](https://lobste.rs/s/pdivx4/my_impressions_hare) - [My Impressions of Hare](https://vfoley.xyz/hare/)
 * [2024-01-26, 12:53:36](https://lobste.rs/s/scg2qg/use_any_for_generics_interface_for) - [Use `any` for generics and `interface{}` for interfaces](https://utcc.utoronto.ca/~cks/space/blog/programming/GoAvoidingAnyAsAType)
