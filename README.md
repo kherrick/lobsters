@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-26, 22:57:24](https://lobste.rs/s/brpmmt/zig_roadmap_2024) - [Zig Roadmap 2024](https://www.youtube.com/watch?v=5eL_LcxwwHg)
 * [2024-01-26, 22:06:58](https://lobste.rs/s/6glmpg/rook_xss_how_i_hacked_chess_com_with_rookie) - [Rook to XSS: How I hacked chess.com with a rookie exploit](https://skii.dev/rook-to-xss/)
 * [2024-01-26, 20:55:39](https://lobste.rs/s/hrrpr8/bare_metal_stm32f_programming_course) - [Bare-metal STM32F programming course](https://youtu.be/uQQsDWLRDuI)
 * [2024-01-26, 20:27:04](https://lobste.rs/s/ys62zs/identifying_rust_s_collect_vec_memory) - [Identifying Rust’s collect::<Vec>() memory leak footgun](https://blog.polybdenum.com/2024/01/17/identifying-the-collect-vec-memory-leak-footgun.html)
@@ -9,7 +10,6 @@
 * [2024-01-26, 16:34:41](https://lobste.rs/s/htinkc/rqlite_lightweight_distributed) - [rqlite - the lightweight, distributed database built on Go, Raft, and SQLite - now with JSONB support and scheduled SQLite VACUUMs](https://www.philipotoole.com/rqlite-8170-8180-vacuum-jsonb/)
 * [2024-01-26, 15:34:34](https://lobste.rs/s/igrglu/arvid_how_russians_squeezed_4_hard_drives) - [ArVid: how Russians squeezed 4 hard drives into one VHS tape in the 90s](https://jacobfilipp.com/arvid-vhs/)
 * [2024-01-26, 15:28:06](https://lobste.rs/s/yef3xb/lossy_css_compression_for_fun_loss_profit) - [Lossy CSS compression for fun and loss (or profit)](https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/)
-* [2024-01-26, 14:58:24](https://lobste.rs/s/kioqvp/c_editor_prompt_shell_embed_your_own) - [A C++ editor/prompt shell to embed your own programming language](https://github.com/naver/lispe/blob/master/editor/README.md)
 * [2024-01-26, 14:53:15](https://lobste.rs/s/c7hgkj/oasis_small_statically_linked_linux) - [Oasis: a small statically-linked linux system](https://github.com/oasislinux/oasis)
 * [2024-01-26, 13:38:06](https://lobste.rs/s/qeitza/using_alternative_browser_engines) - [Using alternative browser engines in the European Union](https://developer.apple.com/support/alternative-browser-engines/)
 * [2024-01-26, 12:54:20](https://lobste.rs/s/pdivx4/my_impressions_hare) - [My Impressions of Hare](https://vfoley.xyz/hare/)
