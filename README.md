@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-26, 15:34:34](https://lobste.rs/s/igrglu/arvid_how_russians_squeezed_4_hard_drives) - [ArVid: how Russians squeezed 4 hard drives into one VHS tape in the 90s](https://jacobfilipp.com/arvid-vhs/)
 * [2024-01-26, 15:28:06](https://lobste.rs/s/yef3xb/lossy_css_compression_for_fun_loss_profit) - [Lossy CSS compression for fun and loss (or profit)](https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/)
 * [2024-01-26, 14:58:24](https://lobste.rs/s/kioqvp/c_editor_prompt_shell_embed_your_own) - [A C++ editor/prompt shell to embed your own programming language](https://github.com/naver/lispe/blob/master/editor/README.md)
 * [2024-01-26, 14:53:15](https://lobste.rs/s/c7hgkj/oasis_small_statically_linked_linux) - [Oasis: a small statically-linked linux system](https://github.com/oasislinux/oasis)
@@ -21,7 +22,6 @@
 * [2024-01-25, 15:50:24](https://lobste.rs/s/dcufv8/we_build_x_509_chains_so_you_don_t_have) - [We build X.509 chains so you don’t have to](https://blog.trailofbits.com/2024/01/25/we-build-x-509-chains-so-you-dont-have-to/)
 * [2024-01-25, 13:59:42](https://lobste.rs/s/oxnb2r/understanding_mesh_allocator) - [Understanding Mesh Allocator](https://veera.app/mesh_allocator.html)
 * [2024-01-25, 13:38:12](https://lobste.rs/s/qyepd7/pipeline_trick) - [Pipeline trick](https://gist.github.com/izabera/cc9f21e1541d603da66cb28093f46892)
-* [2024-01-25, 12:07:49](https://lobste.rs/s/ipv7id/verifying_using_temporal_logic_action) - [Verifying using temporal logic of action in Dafny](https://rdivyanshu.github.io/tla-logic-in-dafny.html)
 * [2024-01-25, 11:56:32](https://lobste.rs/s/spdccn/nix_from_bottom_up) - [Nix from the bottom up](http://www.chriswarbo.net/projects/nixos/bottom_up.html)
 * [2024-01-25, 10:57:26](https://lobste.rs/s/jvwlir/only_90s_web_developers_remember_this) - [Only 90s Web Developers Remember This](https://zachholman.com/posts/only-90s-developers/)
 * [2024-01-25, 05:44:09](https://lobste.rs/s/bkzxqd/how_apple_accidentally_broke_my_spotify) - [How Apple accidentally broke my Spotify client](https://rbf.dev/blog/2024/01/how-apple-accidentally-broke-my-spotify/)
