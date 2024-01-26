@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-26, 04:49:05](https://lobste.rs/s/xbtukk/repoint_manager_for_checkouts_third) - [repoint: A manager for checkouts of third-party source code dependencies](https://github.com/cannam/repoint)
 * [2024-01-25, 21:33:30](https://lobste.rs/s/vwjfzw/fixing_hiss_on_my_pinball_machine) - [Fixing the hiss on my Pinball machine including root access](http://raymii.org/s/software/Fixing_the_buzz_hiss_on_my_atgames_legends_pinball_micro.html)
 * [2024-01-25, 21:15:17](https://lobste.rs/s/ctdzqu/shipp_deadly_simple_package_manager_for) - [shipp: Deadly simple package manager for your C/C++ projects, written in Rust](https://github.com/linkdd/shipp)
 * [2024-01-25, 20:47:46](https://lobste.rs/s/vycrry/things_nobody_wants_pay_for) - [The things nobody wants to pay for](https://lwn.net/SubscriberLink/959069/c96f34ed67a168e4/)
@@ -16,7 +17,6 @@
 * [2024-01-25, 13:38:12](https://lobste.rs/s/qyepd7/pipeline_trick) - [Pipeline trick](https://gist.github.com/izabera/cc9f21e1541d603da66cb28093f46892)
 * [2024-01-25, 13:37:02](https://lobste.rs/s/cz57mi/smallest_golang_websocket_client) - [Smallest golang websocket client](https://dyte.io/blog/hiring-challenge-smallest-golang-websocket-client/)
 * [2024-01-25, 12:07:49](https://lobste.rs/s/ipv7id/verifying_using_temporal_logic_action) - [Verifying using temporal logic of action in Dafny](https://rdivyanshu.github.io/tla-logic-in-dafny.html)
-* [2024-01-25, 12:05:21](https://lobste.rs/s/5aupvf/on_web_components) - [On Web Components](https://macwright.com/2024/01/24/on-web-components)
 * [2024-01-25, 11:56:32](https://lobste.rs/s/spdccn/nix_from_bottom_up) - [Nix from the bottom up](http://www.chriswarbo.net/projects/nixos/bottom_up.html)
 * [2024-01-25, 10:57:26](https://lobste.rs/s/jvwlir/only_90s_web_developers_remember_this) - [Only 90s Web Developers Remember This](https://zachholman.com/posts/only-90s-developers/)
 * [2024-01-25, 10:30:36](https://lobste.rs/s/uz4o8e/creating_xmpp_network_graph) - [Creating the XMPP Network Graph](https://discourse.igniterealtime.org/t/creating-the-xmpp-network-graph/93521)
