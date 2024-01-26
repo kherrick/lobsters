@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-26, 07:43:30](https://lobste.rs/s/ah1rpf/this_web_page_is_best_viewed_eu) - [This Web Page is Best Viewed in the EU](https://cloudfour.com/thinks/this-web-page-is-best-viewed-in-the-eu/)
 * [2024-01-26, 05:24:42](https://lobste.rs/s/ryki61/some_perspective_on_alphageometry) - [Some Perspective on AlphaGeometry](https://www.reddit.com/r/math/comments/19fg9rx/some_perspective_on_alphageometry/)
 * [2024-01-25, 22:20:09](https://lobste.rs/s/n6lmgk/portable_epubs) - [Portable EPUBs](https://willcrichton.net/notes/portable-epubs/)
 * [2024-01-25, 21:33:30](https://lobste.rs/s/vwjfzw/fixing_hiss_on_my_pinball_machine) - [Fixing the hiss on my Pinball machine including root access](http://raymii.org/s/software/Fixing_the_buzz_hiss_on_my_atgames_legends_pinball_micro.html)
@@ -23,7 +24,6 @@
 * [2024-01-25, 10:30:36](https://lobste.rs/s/uz4o8e/creating_xmpp_network_graph) - [Creating the XMPP Network Graph](https://discourse.igniterealtime.org/t/creating-the-xmpp-network-graph/93521)
 * [2024-01-25, 09:51:01](https://lobste.rs/s/qfzq6x/quicksort_with_jenkins_for_fun_no_profit) - [Quicksort with Jenkins for Fun and No Profit](https://susam.net/blog/jenkins-quicksort.html)
 * [2024-01-25, 05:44:09](https://lobste.rs/s/bkzxqd/how_apple_accidentally_broke_my_spotify) - [How Apple accidentally broke my Spotify client](https://rbf.dev/blog/2024/01/how-apple-accidentally-broke-my-spotify/)
-* [2024-01-24, 22:54:54](https://lobste.rs/s/wmhctu/history_nix_at_bellroy) - [The History of Nix at Bellroy](https://exploring-better-ways.bellroy.com/the-history-of-nix-at-bellroy.html)
 * [2024-01-24, 17:08:28](https://lobste.rs/s/rpsiwl/zed_is_now_open_source) - [Zed is now open source](https://zed.dev/blog/zed-is-now-open-source)
 
 ## [Archives](archives/index.md)
