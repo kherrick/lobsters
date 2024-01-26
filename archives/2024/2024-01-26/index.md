@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-26](index.md)
 
+* [2024-01-26, 16:34:41](https://lobste.rs/s/htinkc/rqlite_lightweight_distributed) - [rqlite - the lightweight, distributed database built on Go, Raft, and SQLite - now with JSONB support and scheduled SQLite VACUUMs](https://www.philipotoole.com/rqlite-8170-8180-vacuum-jsonb/)
 * [2024-01-26, 16:00:34](https://lobste.rs/s/dqro3c/fprime_flight_software_embedded_systems) - [fprime - A flight software and embedded systems framework by NASA](https://github.com/nasa/fprime)
 * [2024-01-26, 15:56:23](https://lobste.rs/s/nwlmcy/ingenuity_mars_helicopter_hardware) - [Ingenuity Mars Helicopter Hardware And Software Overview](https://youtu.be/mQu9m4MG5Gc)
 * [2024-01-26, 15:34:34](https://lobste.rs/s/igrglu/arvid_how_russians_squeezed_4_hard_drives) - [ArVid: how Russians squeezed 4 hard drives into one VHS tape in the 90s](https://jacobfilipp.com/arvid-vhs/)

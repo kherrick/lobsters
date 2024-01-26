@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-26, 16:34:41](https://lobste.rs/s/htinkc/rqlite_lightweight_distributed) - [rqlite - the lightweight, distributed database built on Go, Raft, and SQLite - now with JSONB support and scheduled SQLite VACUUMs](https://www.philipotoole.com/rqlite-8170-8180-vacuum-jsonb/)
 * [2024-01-26, 16:00:34](https://lobste.rs/s/dqro3c/fprime_flight_software_embedded_systems) - [fprime - A flight software and embedded systems framework by NASA](https://github.com/nasa/fprime)
 * [2024-01-26, 15:56:23](https://lobste.rs/s/nwlmcy/ingenuity_mars_helicopter_hardware) - [Ingenuity Mars Helicopter Hardware And Software Overview](https://youtu.be/mQu9m4MG5Gc)
 * [2024-01-26, 15:34:34](https://lobste.rs/s/igrglu/arvid_how_russians_squeezed_4_hard_drives) - [ArVid: how Russians squeezed 4 hard drives into one VHS tape in the 90s](https://jacobfilipp.com/arvid-vhs/)
@@ -8,7 +9,6 @@
 * [2024-01-26, 14:53:15](https://lobste.rs/s/c7hgkj/oasis_small_statically_linked_linux) - [Oasis: a small statically-linked linux system](https://github.com/oasislinux/oasis)
 * [2024-01-26, 13:38:06](https://lobste.rs/s/qeitza/using_alternative_browser_engines) - [Using alternative browser engines in the European Union - Support - Apple Developer](https://developer.apple.com/support/alternative-browser-engines/)
 * [2024-01-26, 12:54:20](https://lobste.rs/s/pdivx4/my_impressions_hare) - [My Impressions of Hare](https://vfoley.xyz/hare/)
-* [2024-01-26, 12:53:36](https://lobste.rs/s/scg2qg/use_any_for_generics_interface_for) - [Use `any` for generics and `interface{}` for interfaces](https://utcc.utoronto.ca/~cks/space/blog/programming/GoAvoidingAnyAsAType)
 * [2024-01-26, 11:17:15](https://lobste.rs/s/mlqcnr/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mlqcnr/what_are_you_doing_this_weekend)
 * [2024-01-26, 07:43:30](https://lobste.rs/s/ah1rpf/this_web_page_is_best_viewed_eu) - [This Web Page is Best Viewed in the EU](https://cloudfour.com/thinks/this-web-page-is-best-viewed-in-the-eu/)
 * [2024-01-25, 22:20:09](https://lobste.rs/s/n6lmgk/portable_epubs) - [Portable EPUBs](https://willcrichton.net/notes/portable-epubs/)
