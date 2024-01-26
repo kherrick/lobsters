@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-26, 20:55:39",
+      "https://lobste.rs/s/hrrpr8/bare_metal_stm32f_programming_course"
+    ],
+    [
+      "Bare-metal STM32F programming course",
+      "https://youtu.be/uQQsDWLRDuI"
+    ]
+  ],
+  [
+    [
       "2024-01-26, 20:27:04",
       "https://lobste.rs/s/ys62zs/identifying_rust_s_collect_vec_memory"
     ],
@@ -47,16 +57,6 @@
     [
       "rqlite - the lightweight, distributed database built on Go, Raft, and SQLite - now with JSONB support and scheduled SQLite VACUUMs",
       "https://www.philipotoole.com/rqlite-8170-8180-vacuum-jsonb/"
-    ]
-  ],
-  [
-    [
-      "2024-01-26, 16:00:34",
-      "https://lobste.rs/s/dqro3c/fprime_flight_software_embedded_systems"
-    ],
-    [
-      "fprime - A flight software and embedded systems framework by NASA",
-      "https://github.com/nasa/fprime"
     ]
   ],
   [
