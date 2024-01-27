@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-27, 21:53:04](https://lobste.rs/s/5ilwa6/researchers_demonstrate_rapid_3d) - [Researchers demonstrate rapid 3D printing with liquid metal](https://news.mit.edu/2024/researchers-demonstrate-rapid-3d-printing-liquid-metal-0125)
 * [2024-01-27, 19:49:16](https://lobste.rs/s/evrzn7/topaz_unicode) - [Topaz Unicode](https://gitlab.com/Screwtapello/topaz-unicode#topaz-unicode)
 * [2024-01-27, 18:35:50](https://lobste.rs/s/mhnfoi/c_std_implementation_c_standard) - [c_std: Implementation of C++ standard libraries in C](https://github.com/KaisenAmin/c_std)
 * [2024-01-27, 16:54:36](https://lobste.rs/s/bi2b1j/long_term_refactors) - [Long Term Refactors](https://max.engineer/long-term-refactors)
@@ -10,7 +11,6 @@
 * [2024-01-27, 08:33:00](https://lobste.rs/s/9isemb/patching_pydantic_settings_pytest) - [Patching pydantic settings in pytest](https://rednafi.com/python/patch_pydantic_settings_in_pytest/)
 * [2024-01-27, 05:01:09](https://lobste.rs/s/w45y23/world_s_first_microprocessor_f_14_central) - [The World's First Microprocessor: F-14 Central Air Data Computer](https://www.youtube.com/watch?v=YpruA5mC7wg)
 * [2024-01-27, 03:51:41](https://lobste.rs/s/yfrt0y/proposed_top_level_domain_string_for) - [Proposed Top-Level Domain String for Private Use](https://www.icann.org/en/public-comment/proceeding/proposed-top-level-domain-string-for-private-use-24-01-2024)
-* [2024-01-27, 02:17:50](https://lobste.rs/s/wkpjfk/parser_if_disambiguation_hassles) - [Parser IF disambiguation hassles](https://blog.zarfhome.com/2024/01/parser-if-disambiguation)
 * [2024-01-27, 01:21:01](https://lobste.rs/s/xbrde6/embedded_systems_security_trustzone) - [Embedded Systems Security and TrustZone](https://embeddedsecurity.io/)
 * [2024-01-26, 23:05:22](https://lobste.rs/s/dfmju6/packwerk_retrospective) - [A Packwerk Retrospective](https://railsatscale.com/2024-01-26-a-packwerk-retrospective/)
 * [2024-01-26, 22:57:24](https://lobste.rs/s/brpmmt/zig_roadmap_2024) - [Zig Roadmap 2024](https://www.youtube.com/watch?v=5eL_LcxwwHg)
