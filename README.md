@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-27, 03:51:41](https://lobste.rs/s/yfrt0y/proposed_top_level_domain_string_for) - [Proposed Top-Level Domain String for Private Use](https://www.icann.org/en/public-comment/proceeding/proposed-top-level-domain-string-for-private-use-24-01-2024)
 * [2024-01-27, 02:17:50](https://lobste.rs/s/wkpjfk/parser_if_disambiguation_hassles) - [Parser IF disambiguation hassles](https://blog.zarfhome.com/2024/01/parser-if-disambiguation)
 * [2024-01-27, 01:21:01](https://lobste.rs/s/xbrde6/embedded_systems_security_trustzone) - [Embedded Systems Security and TrustZone](https://embeddedsecurity.io/)
 * [2024-01-26, 23:05:22](https://lobste.rs/s/dfmju6/packwerk_retrospective) - [A Packwerk Retrospective](https://railsatscale.com/2024-01-26-a-packwerk-retrospective/)
@@ -23,7 +24,6 @@
 * [2024-01-25, 17:06:45](https://lobste.rs/s/vzmoks/tiny_ups_for_tiny_nas) - [Tiny UPS for Tiny NAS](https://vermaden.wordpress.com/2024/01/25/tiny-ups-for-tiny-nas/)
 * [2024-01-25, 15:50:24](https://lobste.rs/s/dcufv8/we_build_x_509_chains_so_you_don_t_have) - [We build X.509 chains so you don’t have to](https://blog.trailofbits.com/2024/01/25/we-build-x-509-chains-so-you-dont-have-to/)
 * [2024-01-25, 13:38:12](https://lobste.rs/s/qyepd7/pipeline_trick) - [Pipeline trick](https://gist.github.com/izabera/cc9f21e1541d603da66cb28093f46892)
-* [2024-01-25, 11:56:32](https://lobste.rs/s/spdccn/nix_from_bottom_up) - [Nix from the bottom up](http://www.chriswarbo.net/projects/nixos/bottom_up.html)
 * [2024-01-25, 10:57:26](https://lobste.rs/s/jvwlir/only_90s_web_developers_remember_this) - [Only 90s Web Developers Remember This](https://zachholman.com/posts/only-90s-developers/)
 
 ## [Archives](archives/index.md)
