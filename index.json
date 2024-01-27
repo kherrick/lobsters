@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-27, 01:21:01",
+      "https://lobste.rs/s/xbrde6/embedded_systems_security_trustzone"
+    ],
+    [
+      "Embedded Systems Security and TrustZone",
+      "https://embeddedsecurity.io/"
+    ]
+  ],
+  [
+    [
       "2024-01-26, 23:05:22",
       "https://lobste.rs/s/dfmju6/packwerk_retrospective"
     ],
@@ -177,16 +187,6 @@
     [
       "shipp: Deadly simple package manager for your C/C++ projects, written in Rust",
       "https://github.com/linkdd/shipp"
-    ]
-  ],
-  [
-    [
-      "2024-01-25, 20:47:46",
-      "https://lobste.rs/s/vycrry/things_nobody_wants_pay_for"
-    ],
-    [
-      "The things nobody wants to pay for",
-      "https://lwn.net/SubscriberLink/959069/c96f34ed67a168e4/"
     ]
   ],
   [
