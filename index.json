@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-27, 18:35:50",
+      "https://lobste.rs/s/mhnfoi/c_std_implementation_c_standard"
+    ],
+    [
+      "c_std: Implementation of C++ standard libraries in C",
+      "https://github.com/KaisenAmin/c_std"
+    ]
+  ],
+  [
+    [
       "2024-01-27, 16:54:36",
       "https://lobste.rs/s/bi2b1j/long_term_refactors"
     ],
@@ -237,16 +247,6 @@
     [
       "Portable EPUBs",
       "https://willcrichton.net/notes/portable-epubs/"
-    ]
-  ],
-  [
-    [
-      "2024-01-25, 18:30:49",
-      "https://lobste.rs/s/kdrsx3/apple_announces_changes_ios_safari_app"
-    ],
-    [
-      "Apple announces changes to iOS, Safari, and the App Store in the European Union",
-      "https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/"
     ]
   ]
 ]
