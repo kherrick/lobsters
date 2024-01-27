@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-27](index.md)
 
+* [2024-01-27, 16:54:36](https://lobste.rs/s/bi2b1j/long_term_refactors) - [Long Term Refactors](https://max.engineer/long-term-refactors)
 * [2024-01-27, 16:32:24](https://lobste.rs/s/pv7wul/please_don_t_force_me_log) - [Please, don’t force me to log in](https://hamatti.org/posts/please-dont-force-me-to-log-in/)
 * [2024-01-27, 16:08:19](https://lobste.rs/s/wwnnrd/uevr_exploration_advanced_game_hacking) - [UEVR: An Exploration of Advanced Game Hacking Techniques](https://praydog.com/reverse-engineering/2023/07/03/uevr.html)
 * [2024-01-27, 15:55:51](https://lobste.rs/s/texo6v/how_install_run_fooocus_on_aws_sagemaker) - [How to install and run Fooocus on AWS Sagemaker Studio Lab](https://github.com/rajtilakjee/fooocus-sagemaker-studio)
