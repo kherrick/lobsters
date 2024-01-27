@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-27, 15:55:51",
+      "https://lobste.rs/s/texo6v/how_install_run_fooocus_on_aws_sagemaker"
+    ],
+    [
+      "How to install and run Fooocus on AWS Sagemaker Studio Lab",
+      "https://github.com/rajtilakjee/fooocus-sagemaker-studio"
+    ]
+  ],
+  [
+    [
       "2024-01-27, 15:16:03",
       "https://lobste.rs/s/ivc7km/enhancing_lecture_notes_with_ai"
     ],
@@ -197,16 +207,6 @@
     [
       "My Impressions of Hare",
       "https://vfoley.xyz/hare/"
-    ]
-  ],
-  [
-    [
-      "2024-01-26, 12:53:36",
-      "https://lobste.rs/s/scg2qg/use_any_for_generics_interface_for"
-    ],
-    [
-      "Use `any` for generics and `interface{}` for interfaces",
-      "https://utcc.utoronto.ca/~cks/space/blog/programming/GoAvoidingAnyAsAType"
     ]
   ],
   [
