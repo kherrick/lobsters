@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-27, 08:33:00](https://lobste.rs/s/9isemb/patching_pydantic_settings_pytest) - [Patching pydantic settings in pytest](https://rednafi.com/python/patch_pydantic_settings_in_pytest/)
 * [2024-01-27, 05:01:09](https://lobste.rs/s/w45y23/world_s_first_microprocessor_f_14_central) - [The World's First Microprocessor: F-14 Central Air Data Computer](https://www.youtube.com/watch?v=YpruA5mC7wg)
 * [2024-01-27, 03:51:41](https://lobste.rs/s/yfrt0y/proposed_top_level_domain_string_for) - [Proposed Top-Level Domain String for Private Use](https://www.icann.org/en/public-comment/proceeding/proposed-top-level-domain-string-for-private-use-24-01-2024)
 * [2024-01-27, 02:17:50](https://lobste.rs/s/wkpjfk/parser_if_disambiguation_hassles) - [Parser IF disambiguation hassles](https://blog.zarfhome.com/2024/01/parser-if-disambiguation)
@@ -24,7 +25,6 @@
 * [2024-01-25, 18:30:49](https://lobste.rs/s/kdrsx3/apple_announces_changes_ios_safari_app) - [Apple announces changes to iOS, Safari, and the App Store in the European Union](https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/)
 * [2024-01-25, 17:06:45](https://lobste.rs/s/vzmoks/tiny_ups_for_tiny_nas) - [Tiny UPS for Tiny NAS](https://vermaden.wordpress.com/2024/01/25/tiny-ups-for-tiny-nas/)
 * [2024-01-25, 15:50:24](https://lobste.rs/s/dcufv8/we_build_x_509_chains_so_you_don_t_have) - [We build X.509 chains so you don’t have to](https://blog.trailofbits.com/2024/01/25/we-build-x-509-chains-so-you-dont-have-to/)
-* [2024-01-25, 13:38:12](https://lobste.rs/s/qyepd7/pipeline_trick) - [Pipeline trick](https://gist.github.com/izabera/cc9f21e1541d603da66cb28093f46892)
 
 ## [Archives](archives/index.md)
 
