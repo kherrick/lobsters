@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-27, 03:51:41",
+      "https://lobste.rs/s/yfrt0y/proposed_top_level_domain_string_for"
+    ],
+    [
+      "Proposed Top-Level Domain String for Private Use",
+      "https://www.icann.org/en/public-comment/proceeding/proposed-top-level-domain-string-for-private-use-24-01-2024"
+    ]
+  ],
+  [
+    [
       "2024-01-27, 02:17:50",
       "https://lobste.rs/s/wkpjfk/parser_if_disambiguation_hassles"
     ],
@@ -227,16 +237,6 @@
     [
       "Pipeline trick",
       "https://gist.github.com/izabera/cc9f21e1541d603da66cb28093f46892"
-    ]
-  ],
-  [
-    [
-      "2024-01-25, 11:56:32",
-      "https://lobste.rs/s/spdccn/nix_from_bottom_up"
-    ],
-    [
-      "Nix from the bottom up",
-      "http://www.chriswarbo.net/projects/nixos/bottom_up.html"
     ]
   ],
   [
