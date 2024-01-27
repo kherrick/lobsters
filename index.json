@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-27, 02:17:50",
+      "https://lobste.rs/s/wkpjfk/parser_if_disambiguation_hassles"
+    ],
+    [
+      "Parser IF disambiguation hassles",
+      "https://blog.zarfhome.com/2024/01/parser-if-disambiguation"
+    ]
+  ],
+  [
+    [
       "2024-01-27, 01:21:01",
       "https://lobste.rs/s/xbrde6/embedded_systems_security_trustzone"
     ],
@@ -77,16 +87,6 @@
     [
       "Exploring codespaces as temporary dev containers",
       "https://qmacro.org/blog/posts/2024/01/26/exploring-codespaces-as-temporary-dev-containers/"
-    ]
-  ],
-  [
-    [
-      "2024-01-26, 16:34:41",
-      "https://lobste.rs/s/htinkc/rqlite_lightweight_distributed"
-    ],
-    [
-      "rqlite - the lightweight, distributed database built on Go, Raft, and SQLite - now with JSONB support and scheduled SQLite VACUUMs",
-      "https://www.philipotoole.com/rqlite-8170-8180-vacuum-jsonb/"
     ]
   ],
   [
