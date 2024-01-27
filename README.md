@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-01-27, 15:55:51](https://lobste.rs/s/texo6v/how_install_run_fooocus_on_aws_sagemaker) - [How to install and run Fooocus on AWS Sagemaker Studio Lab](https://github.com/rajtilakjee/fooocus-sagemaker-studio)
-* [2024-01-27, 15:16:03](https://lobste.rs/s/ivc7km/enhancing_lecture_notes_with_ai) - [Enhancing Lecture Notes with AI](https://snats.xyz/pages/articles/enhancing_lecture_notes_with_ai.html)
+* [2024-01-27, 16:08:19](https://lobste.rs/s/wwnnrd/uevr_exploration_advanced_game_hacking) - [UEVR: An Exploration of Advanced Game Hacking Techniques](https://praydog.com/reverse-engineering/2023/07/03/uevr.html)
 * [2024-01-27, 15:02:32](https://lobste.rs/s/iwkjp4/playing_around_with_ultra_hdr) - [Playing around with Ultra HDR](https://github.com/albertz/playground/wiki/HDR-demo)
 * [2024-01-27, 11:13:44](https://lobste.rs/s/oogmzj/look_inside_memcmp_on_intel_avx2_hardware) - [A look inside `memcmp` on Intel AVX2 hardware](https://xoranth.net/memcmp-avx2/)
 * [2024-01-27, 08:33:00](https://lobste.rs/s/9isemb/patching_pydantic_settings_pytest) - [Patching pydantic settings in pytest](https://rednafi.com/python/patch_pydantic_settings_in_pytest/)
@@ -21,6 +20,7 @@
 * [2024-01-26, 14:53:15](https://lobste.rs/s/c7hgkj/oasis_small_statically_linked_linux) - [Oasis: a small statically-linked linux system](https://github.com/oasislinux/oasis)
 * [2024-01-26, 13:38:06](https://lobste.rs/s/qeitza/using_alternative_browser_engines) - [Using alternative browser engines in the European Union](https://developer.apple.com/support/alternative-browser-engines/)
 * [2024-01-26, 12:54:20](https://lobste.rs/s/pdivx4/my_impressions_hare) - [My Impressions of Hare](https://vfoley.xyz/hare/)
+* [2024-01-26, 12:53:36](https://lobste.rs/s/scg2qg/use_any_for_generics_interface_for) - [Use `any` for generics and `interface{}` for interfaces](https://utcc.utoronto.ca/~cks/space/blog/programming/GoAvoidingAnyAsAType)
 * [2024-01-26, 11:17:15](https://lobste.rs/s/mlqcnr/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mlqcnr/what_are_you_doing_this_weekend)
 * [2024-01-26, 07:43:30](https://lobste.rs/s/ah1rpf/this_web_page_is_best_viewed_eu) - [This Web Page is Best Viewed in the EU](https://cloudfour.com/thinks/this-web-page-is-best-viewed-in-the-eu/)
 * [2024-01-25, 22:20:09](https://lobste.rs/s/n6lmgk/portable_epubs) - [Portable EPUBs](https://willcrichton.net/notes/portable-epubs/)

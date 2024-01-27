@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-27](index.md)
 
+* [2024-01-27, 16:08:19](https://lobste.rs/s/wwnnrd/uevr_exploration_advanced_game_hacking) - [UEVR: An Exploration of Advanced Game Hacking Techniques](https://praydog.com/reverse-engineering/2023/07/03/uevr.html)
 * [2024-01-27, 15:55:51](https://lobste.rs/s/texo6v/how_install_run_fooocus_on_aws_sagemaker) - [How to install and run Fooocus on AWS Sagemaker Studio Lab](https://github.com/rajtilakjee/fooocus-sagemaker-studio)
 * [2024-01-27, 15:16:03](https://lobste.rs/s/ivc7km/enhancing_lecture_notes_with_ai) - [Enhancing Lecture Notes with AI](https://snats.xyz/pages/articles/enhancing_lecture_notes_with_ai.html)
 * [2024-01-27, 15:02:32](https://lobste.rs/s/iwkjp4/playing_around_with_ultra_hdr) - [Playing around with Ultra HDR](https://github.com/albertz/playground/wiki/HDR-demo)
