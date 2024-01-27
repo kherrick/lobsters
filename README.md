@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-27, 15:02:32](https://lobste.rs/s/iwkjp4/playing_around_with_ultra_hdr) - [Playing around with Ultra HDR](https://github.com/albertz/playground/wiki/HDR-demo)
 * [2024-01-27, 11:13:44](https://lobste.rs/s/oogmzj/look_inside_memcmp_on_intel_avx2_hardware) - [A look inside `memcmp` on Intel AVX2 hardware](https://xoranth.net/memcmp-avx2/)
 * [2024-01-27, 08:33:00](https://lobste.rs/s/9isemb/patching_pydantic_settings_pytest) - [Patching pydantic settings in pytest](https://rednafi.com/python/patch_pydantic_settings_in_pytest/)
 * [2024-01-27, 05:01:09](https://lobste.rs/s/w45y23/world_s_first_microprocessor_f_14_central) - [The World's First Microprocessor: F-14 Central Air Data Computer](https://www.youtube.com/watch?v=YpruA5mC7wg)
@@ -9,7 +10,6 @@
 * [2024-01-26, 23:05:22](https://lobste.rs/s/dfmju6/packwerk_retrospective) - [A Packwerk Retrospective](https://railsatscale.com/2024-01-26-a-packwerk-retrospective/)
 * [2024-01-26, 22:57:24](https://lobste.rs/s/brpmmt/zig_roadmap_2024) - [Zig Roadmap 2024](https://www.youtube.com/watch?v=5eL_LcxwwHg)
 * [2024-01-26, 22:06:58](https://lobste.rs/s/6glmpg/rook_xss_how_i_hacked_chess_com_with_rookie) - [Rook to XSS: How I hacked chess.com with a rookie exploit](https://skii.dev/rook-to-xss/)
-* [2024-01-26, 20:55:39](https://lobste.rs/s/hrrpr8/bare_metal_stm32f_programming_course) - [Bare-metal STM32F programming course](https://youtu.be/uQQsDWLRDuI)
 * [2024-01-26, 20:27:04](https://lobste.rs/s/ys62zs/identifying_rust_s_collect_vec_memory) - [Identifying Rust’s collect::<Vec>() memory leak footgun](https://blog.polybdenum.com/2024/01/17/identifying-the-collect-vec-memory-leak-footgun.html)
 * [2024-01-26, 19:06:39](https://lobste.rs/s/sqzzuc/inside_git) - [Inside .git](https://jvns.ca/blog/2024/01/26/inside-git/)
 * [2024-01-26, 18:30:29](https://lobste.rs/s/jtarg2/lessons_learned_from_payments_startups) - [Lessons Learned From Payments Startups](https://pgrs.net/2024/01/26/lessons-learned-from-payemnts-startups/)
