@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2024-01-26, 20:55:39",
+      "https://lobste.rs/s/hrrpr8/bare_metal_stm32f_programming_course"
+    ],
+    [
+      "Bare-metal STM32F programming course",
+      "https://youtu.be/uQQsDWLRDuI"
+    ]
+  ],
+  [
+    [
       "2024-01-26, 20:27:04",
       "https://lobste.rs/s/ys62zs/identifying_rust_s_collect_vec_memory"
     ],
@@ -237,16 +247,6 @@
     [
       "Tiny UPS for Tiny NAS",
       "https://vermaden.wordpress.com/2024/01/25/tiny-ups-for-tiny-nas/"
-    ]
-  ],
-  [
-    [
-      "2024-01-25, 15:50:24",
-      "https://lobste.rs/s/dcufv8/we_build_x_509_chains_so_you_don_t_have"
-    ],
-    [
-      "We build X.509 chains so you don’t have to",
-      "https://blog.trailofbits.com/2024/01/25/we-build-x-509-chains-so-you-dont-have-to/"
     ]
   ]
 ]
