@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-27, 11:13:44](https://lobste.rs/s/oogmzj/look_inside_memcmp_on_intel_avx2_hardware) - [A look inside `memcmp` on Intel AVX2 hardware](https://xoranth.net/memcmp-avx2/)
 * [2024-01-27, 08:33:00](https://lobste.rs/s/9isemb/patching_pydantic_settings_pytest) - [Patching pydantic settings in pytest](https://rednafi.com/python/patch_pydantic_settings_in_pytest/)
 * [2024-01-27, 05:01:09](https://lobste.rs/s/w45y23/world_s_first_microprocessor_f_14_central) - [The World's First Microprocessor: F-14 Central Air Data Computer](https://www.youtube.com/watch?v=YpruA5mC7wg)
 * [2024-01-27, 03:51:41](https://lobste.rs/s/yfrt0y/proposed_top_level_domain_string_for) - [Proposed Top-Level Domain String for Private Use](https://www.icann.org/en/public-comment/proceeding/proposed-top-level-domain-string-for-private-use-24-01-2024)
@@ -21,7 +22,6 @@
 * [2024-01-26, 11:17:15](https://lobste.rs/s/mlqcnr/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mlqcnr/what_are_you_doing_this_weekend)
 * [2024-01-26, 07:43:30](https://lobste.rs/s/ah1rpf/this_web_page_is_best_viewed_eu) - [This Web Page is Best Viewed in the EU](https://cloudfour.com/thinks/this-web-page-is-best-viewed-in-the-eu/)
 * [2024-01-25, 22:20:09](https://lobste.rs/s/n6lmgk/portable_epubs) - [Portable EPUBs](https://willcrichton.net/notes/portable-epubs/)
-* [2024-01-25, 21:15:17](https://lobste.rs/s/ctdzqu/shipp_deadly_simple_package_manager_for) - [shipp: Deadly simple package manager for your C/C++ projects, written in Rust](https://github.com/linkdd/shipp)
 * [2024-01-25, 18:30:49](https://lobste.rs/s/kdrsx3/apple_announces_changes_ios_safari_app) - [Apple announces changes to iOS, Safari, and the App Store in the European Union](https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/)
 * [2024-01-25, 17:06:45](https://lobste.rs/s/vzmoks/tiny_ups_for_tiny_nas) - [Tiny UPS for Tiny NAS](https://vermaden.wordpress.com/2024/01/25/tiny-ups-for-tiny-nas/)
 * [2024-01-25, 15:50:24](https://lobste.rs/s/dcufv8/we_build_x_509_chains_so_you_don_t_have) - [We build X.509 chains so you don’t have to](https://blog.trailofbits.com/2024/01/25/we-build-x-509-chains-so-you-dont-have-to/)
