@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-01-27, 15:55:51",
-      "https://lobste.rs/s/texo6v/how_install_run_fooocus_on_aws_sagemaker"
+      "2024-01-27, 16:08:19",
+      "https://lobste.rs/s/wwnnrd/uevr_exploration_advanced_game_hacking"
     ],
     [
-      "How to install and run Fooocus on AWS Sagemaker Studio Lab",
-      "https://github.com/rajtilakjee/fooocus-sagemaker-studio"
-    ]
-  ],
-  [
-    [
-      "2024-01-27, 15:16:03",
-      "https://lobste.rs/s/ivc7km/enhancing_lecture_notes_with_ai"
-    ],
-    [
-      "Enhancing Lecture Notes with AI",
-      "https://snats.xyz/pages/articles/enhancing_lecture_notes_with_ai.html"
+      "UEVR: An Exploration of Advanced Game Hacking Techniques",
+      "https://praydog.com/reverse-engineering/2023/07/03/uevr.html"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "My Impressions of Hare",
       "https://vfoley.xyz/hare/"
+    ]
+  ],
+  [
+    [
+      "2024-01-26, 12:53:36",
+      "https://lobste.rs/s/scg2qg/use_any_for_generics_interface_for"
+    ],
+    [
+      "Use `any` for generics and `interface{}` for interfaces",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/GoAvoidingAnyAsAType"
     ]
   ],
   [
