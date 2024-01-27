@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-27, 21:58:41](https://lobste.rs/s/lb2eld/switching_meow_modal_editing_system_from) - [Switching to the meow modal editing system from evil](https://esrh.me/posts/2021-12-18-switching-to-meow.html)
 * [2024-01-27, 21:53:04](https://lobste.rs/s/5ilwa6/researchers_demonstrate_rapid_3d) - [Researchers demonstrate rapid 3D printing with liquid metal](https://news.mit.edu/2024/researchers-demonstrate-rapid-3d-printing-liquid-metal-0125)
 * [2024-01-27, 19:49:16](https://lobste.rs/s/evrzn7/topaz_unicode) - [Topaz Unicode](https://gitlab.com/Screwtapello/topaz-unicode#topaz-unicode)
 * [2024-01-27, 18:35:50](https://lobste.rs/s/mhnfoi/c_std_implementation_c_standard) - [c_std: Implementation of C++ standard libraries in C](https://github.com/KaisenAmin/c_std)
@@ -12,7 +13,6 @@
 * [2024-01-27, 05:01:09](https://lobste.rs/s/w45y23/world_s_first_microprocessor_f_14_central) - [The World's First Microprocessor: F-14 Central Air Data Computer](https://www.youtube.com/watch?v=YpruA5mC7wg)
 * [2024-01-27, 03:51:41](https://lobste.rs/s/yfrt0y/proposed_top_level_domain_string_for) - [Proposed Top-Level Domain String for Private Use](https://www.icann.org/en/public-comment/proceeding/proposed-top-level-domain-string-for-private-use-24-01-2024)
 * [2024-01-27, 01:21:01](https://lobste.rs/s/xbrde6/embedded_systems_security_trustzone) - [Embedded Systems Security and TrustZone](https://embeddedsecurity.io/)
-* [2024-01-26, 23:05:22](https://lobste.rs/s/dfmju6/packwerk_retrospective) - [A Packwerk Retrospective](https://railsatscale.com/2024-01-26-a-packwerk-retrospective/)
 * [2024-01-26, 22:57:24](https://lobste.rs/s/brpmmt/zig_roadmap_2024) - [Zig Roadmap 2024](https://www.youtube.com/watch?v=5eL_LcxwwHg)
 * [2024-01-26, 22:06:58](https://lobste.rs/s/6glmpg/rook_xss_how_i_hacked_chess_com_with_rookie) - [Rook to XSS: How I hacked chess.com with a rookie exploit](https://skii.dev/rook-to-xss/)
 * [2024-01-26, 20:27:04](https://lobste.rs/s/ys62zs/identifying_rust_s_collect_vec_memory) - [Identifying Rust’s collect::<Vec>() memory leak footgun](https://blog.polybdenum.com/2024/01/17/identifying-the-collect-vec-memory-leak-footgun.html)

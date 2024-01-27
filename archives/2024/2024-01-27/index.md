@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-27](index.md)
 
+* [2024-01-27, 21:58:41](https://lobste.rs/s/lb2eld/switching_meow_modal_editing_system_from) - [Switching to the meow modal editing system from evil](https://esrh.me/posts/2021-12-18-switching-to-meow.html)
 * [2024-01-27, 21:53:04](https://lobste.rs/s/5ilwa6/researchers_demonstrate_rapid_3d) - [Researchers demonstrate rapid 3D printing with liquid metal](https://news.mit.edu/2024/researchers-demonstrate-rapid-3d-printing-liquid-metal-0125)
 * [2024-01-27, 19:49:16](https://lobste.rs/s/evrzn7/topaz_unicode) - [Topaz Unicode](https://gitlab.com/Screwtapello/topaz-unicode#topaz-unicode)
 * [2024-01-27, 18:35:50](https://lobste.rs/s/mhnfoi/c_std_implementation_c_standard) - [c_std: Implementation of C++ standard libraries in C](https://github.com/KaisenAmin/c_std)
