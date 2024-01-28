@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-28](index.md)
 
+* [2024-01-28, 23:49:04](https://lobste.rs/s/stdowj/understanding_apple_s_response_dma) - [Understanding Apple’s Response to the DMA](https://www.macstories.net/stories/understanding-apples-response-to-the-dma/)
 * [2024-01-28, 22:46:03](https://lobste.rs/s/njtlgi/law_for_computer_scientists_other_folk) - [Law for Computer Scientists and Other Folk (2020)](https://www.cohubicol.com/assets/uploads/law_for_computer_scientists.pdf)
 * [2024-01-28, 22:42:36](https://lobste.rs/s/liohii/what_s_new_go_slices_concat) - [What’s New in Go: slices.Concat](https://blog.carlana.net/post/2024/golang-slices-concat/)
 * [2024-01-28, 20:51:47](https://lobste.rs/s/x02aus/process_spawning_performance_rust) - [Process spawning performance in Rust](https://kobzol.github.io/rust/2024/01/28/process-spawning-performance-in-rust.html)
