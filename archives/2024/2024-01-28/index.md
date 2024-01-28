@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-28](index.md)
 
+* [2024-01-28, 20:51:47](https://lobste.rs/s/x02aus/process_spawning_performance_rust) - [Process spawning performance in Rust](https://kobzol.github.io/rust/2024/01/28/process-spawning-performance-in-rust.html)
 * [2024-01-28, 18:40:01](https://lobste.rs/s/inodhx/reverse_engineering_cmos_illustrated) - [Reverse engineering CMOS, illustrated with a vintage Soviet counter chip](http://www.righto.com/2024/01/reverse-engineering-cmos.html)
 * [2024-01-28, 18:18:21](https://lobste.rs/s/ghy3ys/ur_programming_language_family) - [The Ur Programming Language Family](http://impredicative.com/ur/)
 * [2024-01-28, 18:02:05](https://lobste.rs/s/3btson/new_renderers_for_gtk) - [New renderers for GTK](https://blog.gtk.org/2024/01/28/new-renderers-for-gtk/)
