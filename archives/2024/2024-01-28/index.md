@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-28](index.md)
 
+* [2024-01-28, 11:31:23](https://lobste.rs/s/rifgxw/teletext_on_bbc_computer_2024) - [Teletext on a BBC computer in 2024](https://linuxjedi.co.uk/2024/01/25/teletext-on-a-bbc-computer-in-2024/)
 * [2024-01-28, 11:07:43](https://lobste.rs/s/d7hz75/loving_memory_square_checkbox) - [In Loving Memory of Square Checkbox](https://tonsky.me/blog/checkbox/)
 * [2024-01-28, 09:31:34](https://lobste.rs/s/q3wlqo/standard_for_transmission_ip_datagrams) - [A Standard for the Transmission of IP Datagrams on Avian Carriers](https://www.ietf.org/rfc/rfc1149.txt)
 * [2024-01-28, 04:53:45](https://lobste.rs/s/ij6dy9/turing_complete_learning_game) - [Turing Complete (learning game)](https://turingcomplete.game/)
