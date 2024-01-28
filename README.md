@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-28, 22:46:03](https://lobste.rs/s/njtlgi/law_for_computer_scientists_other_folk) - [Law for Computer Scientists and Other Folk (2020)](https://www.cohubicol.com/assets/uploads/law_for_computer_scientists.pdf)
+* [2024-01-28, 22:42:36](https://lobste.rs/s/liohii/what_s_new_go_slices_concat) - [What’s New in Go: slices.Concat](https://blog.carlana.net/post/2024/golang-slices-concat/)
 * [2024-01-28, 20:51:47](https://lobste.rs/s/x02aus/process_spawning_performance_rust) - [Process spawning performance in Rust](https://kobzol.github.io/rust/2024/01/28/process-spawning-performance-in-rust.html)
 * [2024-01-28, 18:40:01](https://lobste.rs/s/inodhx/reverse_engineering_cmos_illustrated) - [Reverse engineering CMOS, illustrated with a vintage Soviet counter chip](http://www.righto.com/2024/01/reverse-engineering-cmos.html)
 * [2024-01-28, 18:18:21](https://lobste.rs/s/ghy3ys/ur_programming_language_family) - [The Ur Programming Language Family](http://impredicative.com/ur/)
@@ -12,7 +14,6 @@
 * [2024-01-28, 11:31:23](https://lobste.rs/s/rifgxw/teletext_on_bbc_computer_2024) - [Teletext on a BBC computer in 2024](https://linuxjedi.co.uk/2024/01/25/teletext-on-a-bbc-computer-in-2024/)
 * [2024-01-28, 11:07:43](https://lobste.rs/s/d7hz75/loving_memory_square_checkbox) - [In Loving Memory of Square Checkbox](https://tonsky.me/blog/checkbox/)
 * [2024-01-28, 02:17:16](https://lobste.rs/s/djy7ox/two_months_servo_better_inline_layout) - [Two months in Servo: better inline layout, stable Rust, and more](https://servo.org/blog/2024/01/26/two-months-in-servo/)
-* [2024-01-28, 00:54:21](https://lobste.rs/s/mrpp9b/aging_code) - [Aging Code](https://vadimkravcenko.com/shorts/aging-code/)
 * [2024-01-27, 21:58:41](https://lobste.rs/s/lb2eld/switching_meow_modal_editing_system_from) - [Switching to the meow modal editing system from evil](https://esrh.me/posts/2021-12-18-switching-to-meow.html)
 * [2024-01-27, 19:49:16](https://lobste.rs/s/evrzn7/topaz_unicode) - [Topaz Unicode](https://gitlab.com/Screwtapello/topaz-unicode#topaz-unicode)
 * [2024-01-27, 18:35:50](https://lobste.rs/s/mhnfoi/c_std_implementation_c_standard) - [c_std: Implementation of C++ standard libraries in C](https://github.com/KaisenAmin/c_std)
@@ -23,7 +24,6 @@
 * [2024-01-27, 11:13:44](https://lobste.rs/s/oogmzj/look_inside_memcmp_on_intel_avx2_hardware) - [A look inside `memcmp` on Intel AVX2 hardware](https://xoranth.net/memcmp-avx2/)
 * [2024-01-27, 03:51:41](https://lobste.rs/s/yfrt0y/proposed_top_level_domain_string_for) - [Proposed Top-Level Domain String for Private Use](https://www.icann.org/en/public-comment/proceeding/proposed-top-level-domain-string-for-private-use-24-01-2024)
 * [2024-01-26, 22:57:24](https://lobste.rs/s/brpmmt/zig_roadmap_2024) - [Zig Roadmap 2024](https://www.youtube.com/watch?v=5eL_LcxwwHg)
-* [2024-01-26, 19:06:39](https://lobste.rs/s/sqzzuc/inside_git) - [Inside .git](https://jvns.ca/blog/2024/01/26/inside-git/)
 * [2024-01-26, 12:54:20](https://lobste.rs/s/pdivx4/my_impressions_hare) - [My Impressions of Hare](https://vfoley.xyz/hare/)
 
 ## [Archives](archives/index.md)
