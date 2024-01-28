@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-28, 14:57:00",
+      "https://lobste.rs/s/prj4zw/since_when_does_windows_support_forward"
+    ],
+    [
+      "Since when does Windows support forward slash as path separator?",
+      "https://retrocomputing.stackexchange.com/questions/28344/since-when-does-windows-support-forward-slash-as-path-separator"
+    ]
+  ],
+  [
+    [
       "2024-01-28, 14:49:26",
       "https://lobste.rs/s/xphqpc/new_github_copilot_research_finds"
     ],
@@ -197,16 +207,6 @@
     [
       "Zig Roadmap 2024",
       "https://www.youtube.com/watch?v=5eL_LcxwwHg"
-    ]
-  ],
-  [
-    [
-      "2024-01-26, 20:27:04",
-      "https://lobste.rs/s/ys62zs/identifying_rust_s_collect_vec_memory"
-    ],
-    [
-      "Identifying Rust’s collect::<Vec>() memory leak footgun",
-      "https://blog.polybdenum.com/2024/01/17/identifying-the-collect-vec-memory-leak-footgun.html"
     ]
   ],
   [
