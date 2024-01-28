@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-28, 09:31:34",
+      "https://lobste.rs/s/q3wlqo/standard_for_transmission_ip_datagrams"
+    ],
+    [
+      "A Standard for the Transmission of IP Datagrams on Avian Carriers",
+      "https://www.ietf.org/rfc/rfc1149.txt"
+    ]
+  ],
+  [
+    [
       "2024-01-28, 04:53:45",
       "https://lobste.rs/s/ij6dy9/turing_complete_learning_game"
     ],
@@ -207,16 +217,6 @@
     [
       "Lossy CSS compression for fun and loss (or profit)",
       "https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/"
-    ]
-  ],
-  [
-    [
-      "2024-01-26, 14:53:15",
-      "https://lobste.rs/s/c7hgkj/oasis_small_statically_linked_linux"
-    ],
-    [
-      "Oasis: a small statically-linked linux system",
-      "https://github.com/oasislinux/oasis"
     ]
   ],
   [
