@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-28, 22:46:03",
+      "https://lobste.rs/s/njtlgi/law_for_computer_scientists_other_folk"
+    ],
+    [
+      "Law for Computer Scientists and Other Folk (2020)",
+      "https://www.cohubicol.com/assets/uploads/law_for_computer_scientists.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-01-28, 22:42:36",
+      "https://lobste.rs/s/liohii/what_s_new_go_slices_concat"
+    ],
+    [
+      "What’s New in Go: slices.Concat",
+      "https://blog.carlana.net/post/2024/golang-slices-concat/"
+    ]
+  ],
+  [
+    [
       "2024-01-28, 20:51:47",
       "https://lobste.rs/s/x02aus/process_spawning_performance_rust"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-01-28, 00:54:21",
-      "https://lobste.rs/s/mrpp9b/aging_code"
-    ],
-    [
-      "Aging Code",
-      "https://vadimkravcenko.com/shorts/aging-code/"
-    ]
-  ],
-  [
-    [
       "2024-01-27, 21:58:41",
       "https://lobste.rs/s/lb2eld/switching_meow_modal_editing_system_from"
     ],
@@ -227,16 +237,6 @@
     [
       "Zig Roadmap 2024",
       "https://www.youtube.com/watch?v=5eL_LcxwwHg"
-    ]
-  ],
-  [
-    [
-      "2024-01-26, 19:06:39",
-      "https://lobste.rs/s/sqzzuc/inside_git"
-    ],
-    [
-      "Inside .git",
-      "https://jvns.ca/blog/2024/01/26/inside-git/"
     ]
   ],
   [
