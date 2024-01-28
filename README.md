@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-28, 09:31:34](https://lobste.rs/s/q3wlqo/standard_for_transmission_ip_datagrams) - [A Standard for the Transmission of IP Datagrams on Avian Carriers](https://www.ietf.org/rfc/rfc1149.txt)
 * [2024-01-28, 04:53:45](https://lobste.rs/s/ij6dy9/turing_complete_learning_game) - [Turing Complete (learning game)](https://turingcomplete.game/)
 * [2024-01-28, 02:17:16](https://lobste.rs/s/djy7ox/two_months_servo_better_inline_layout) - [Two months in Servo: better inline layout, stable Rust, and more](https://servo.org/blog/2024/01/26/two-months-in-servo/)
 * [2024-01-28, 00:54:21](https://lobste.rs/s/mrpp9b/aging_code) - [Aging Code](https://vadimkravcenko.com/shorts/aging-code/)
@@ -21,7 +22,6 @@
 * [2024-01-26, 18:30:29](https://lobste.rs/s/jtarg2/lessons_learned_from_payments_startups) - [Lessons Learned From Payments Startups](https://pgrs.net/2024/01/26/lessons-learned-from-payemnts-startups/)
 * [2024-01-26, 15:34:34](https://lobste.rs/s/igrglu/arvid_how_russians_squeezed_4_hard_drives) - [ArVid: how Russians squeezed 4 hard drives into one VHS tape in the 90s](https://jacobfilipp.com/arvid-vhs/)
 * [2024-01-26, 15:28:06](https://lobste.rs/s/yef3xb/lossy_css_compression_for_fun_loss_profit) - [Lossy CSS compression for fun and loss (or profit)](https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/)
-* [2024-01-26, 14:53:15](https://lobste.rs/s/c7hgkj/oasis_small_statically_linked_linux) - [Oasis: a small statically-linked linux system](https://github.com/oasislinux/oasis)
 * [2024-01-26, 13:38:06](https://lobste.rs/s/qeitza/using_alternative_browser_engines) - [Using alternative browser engines in the European Union](https://developer.apple.com/support/alternative-browser-engines/)
 * [2024-01-26, 12:54:20](https://lobste.rs/s/pdivx4/my_impressions_hare) - [My Impressions of Hare](https://vfoley.xyz/hare/)
 * [2024-01-26, 07:43:30](https://lobste.rs/s/ah1rpf/this_web_page_is_best_viewed_eu) - [This Web Page is Best Viewed in the EU](https://cloudfour.com/thinks/this-web-page-is-best-viewed-in-the-eu/)
