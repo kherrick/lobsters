@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-28](index.md)
 
+* [2024-01-28, 14:49:26](https://lobste.rs/s/xphqpc/new_github_copilot_research_finds) - [New GitHub Copilot Research Finds 'Downward Pressure on Code Quality'](https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx)
 * [2024-01-28, 12:58:13](https://lobste.rs/s/rvo3vp/if_php_were_british_2011) - [If PHP Were British (2011)](https://aloneonahill.com/blog/if-php-were-british/)
 * [2024-01-28, 12:03:30](https://lobste.rs/s/hbmud3/16_bit_cpu_excel) - [A 16-Bit CPU in Excel](https://www.youtube.com/watch?v=5rg7xvTJ8SU)
 * [2024-01-28, 11:53:25](https://lobste.rs/s/6wirda/npm_flooded_with_748_packages_store) - [npm flooded with 748 packages that store movies](https://blog.sonatype.com/npm-flooded-with-748-packages-that-store-movies)
