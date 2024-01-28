@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-28, 11:07:43](https://lobste.rs/s/d7hz75/loving_memory_square_checkbox) - [In Loving Memory of Square Checkbox](https://tonsky.me/blog/checkbox/)
 * [2024-01-28, 09:31:34](https://lobste.rs/s/q3wlqo/standard_for_transmission_ip_datagrams) - [A Standard for the Transmission of IP Datagrams on Avian Carriers](https://www.ietf.org/rfc/rfc1149.txt)
 * [2024-01-28, 04:53:45](https://lobste.rs/s/ij6dy9/turing_complete_learning_game) - [Turing Complete (learning game)](https://turingcomplete.game/)
 * [2024-01-28, 02:17:16](https://lobste.rs/s/djy7ox/two_months_servo_better_inline_layout) - [Two months in Servo: better inline layout, stable Rust, and more](https://servo.org/blog/2024/01/26/two-months-in-servo/)
@@ -13,7 +14,6 @@
 * [2024-01-27, 15:02:32](https://lobste.rs/s/iwkjp4/playing_around_with_ultra_hdr) - [Playing around with Ultra HDR](https://github.com/albertz/playground/wiki/HDR-demo)
 * [2024-01-27, 11:13:44](https://lobste.rs/s/oogmzj/look_inside_memcmp_on_intel_avx2_hardware) - [A look inside `memcmp` on Intel AVX2 hardware](https://xoranth.net/memcmp-avx2/)
 * [2024-01-27, 08:33:00](https://lobste.rs/s/9isemb/patching_pydantic_settings_pytest) - [Patching pydantic settings in pytest](https://rednafi.com/python/patch_pydantic_settings_in_pytest/)
-* [2024-01-27, 05:01:09](https://lobste.rs/s/w45y23/world_s_first_microprocessor_f_14_central) - [The World's First Microprocessor: F-14 Central Air Data Computer](https://www.youtube.com/watch?v=YpruA5mC7wg)
 * [2024-01-27, 03:51:41](https://lobste.rs/s/yfrt0y/proposed_top_level_domain_string_for) - [Proposed Top-Level Domain String for Private Use](https://www.icann.org/en/public-comment/proceeding/proposed-top-level-domain-string-for-private-use-24-01-2024)
 * [2024-01-26, 22:57:24](https://lobste.rs/s/brpmmt/zig_roadmap_2024) - [Zig Roadmap 2024](https://www.youtube.com/watch?v=5eL_LcxwwHg)
 * [2024-01-26, 22:06:58](https://lobste.rs/s/6glmpg/rook_xss_how_i_hacked_chess_com_with_rookie) - [Rook to XSS: How I hacked chess.com with a rookie exploit](https://skii.dev/rook-to-xss/)
