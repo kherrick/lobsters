@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-28](index.md)
 
+* [2024-01-28, 14:57:00](https://lobste.rs/s/prj4zw/since_when_does_windows_support_forward) - [Since when does Windows support forward slash as path separator?](https://retrocomputing.stackexchange.com/questions/28344/since-when-does-windows-support-forward-slash-as-path-separator)
 * [2024-01-28, 14:49:26](https://lobste.rs/s/xphqpc/new_github_copilot_research_finds) - [New GitHub Copilot Research Finds 'Downward Pressure on Code Quality'](https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx)
 * [2024-01-28, 12:58:13](https://lobste.rs/s/rvo3vp/if_php_were_british_2011) - [If PHP Were British (2011)](https://aloneonahill.com/blog/if-php-were-british/)
 * [2024-01-28, 12:03:30](https://lobste.rs/s/hbmud3/16_bit_cpu_excel) - [A 16-Bit CPU in Excel](https://www.youtube.com/watch?v=5rg7xvTJ8SU)
