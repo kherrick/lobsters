@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-28, 11:53:25](https://lobste.rs/s/6wirda/npm_flooded_with_748_packages_store) - [npm flooded with 748 packages that store movies](https://blog.sonatype.com/npm-flooded-with-748-packages-that-store-movies)
 * [2024-01-28, 11:31:23](https://lobste.rs/s/rifgxw/teletext_on_bbc_computer_2024) - [Teletext on a BBC computer in 2024](https://linuxjedi.co.uk/2024/01/25/teletext-on-a-bbc-computer-in-2024/)
 * [2024-01-28, 11:07:43](https://lobste.rs/s/d7hz75/loving_memory_square_checkbox) - [In Loving Memory of Square Checkbox](https://tonsky.me/blog/checkbox/)
 * [2024-01-28, 09:31:34](https://lobste.rs/s/q3wlqo/standard_for_transmission_ip_datagrams) - [A Standard for the Transmission of IP Datagrams on Avian Carriers](https://www.ietf.org/rfc/rfc1149.txt)
@@ -24,7 +25,6 @@
 * [2024-01-26, 15:34:34](https://lobste.rs/s/igrglu/arvid_how_russians_squeezed_4_hard_drives) - [ArVid: how Russians squeezed 4 hard drives into one VHS tape in the 90s](https://jacobfilipp.com/arvid-vhs/)
 * [2024-01-26, 15:28:06](https://lobste.rs/s/yef3xb/lossy_css_compression_for_fun_loss_profit) - [Lossy CSS compression for fun and loss (or profit)](https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/)
 * [2024-01-26, 12:54:20](https://lobste.rs/s/pdivx4/my_impressions_hare) - [My Impressions of Hare](https://vfoley.xyz/hare/)
-* [2024-01-26, 07:43:30](https://lobste.rs/s/ah1rpf/this_web_page_is_best_viewed_eu) - [This Web Page is Best Viewed in the EU](https://cloudfour.com/thinks/this-web-page-is-best-viewed-in-the-eu/)
 
 ## [Archives](archives/index.md)
 
