@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-29, 20:09:01",
+      "https://lobste.rs/s/sheowl/option_soup_subtle_pitfalls_combining"
+    ],
+    [
+      "Option Soup: the subtle pitfalls of combining compiler flags – Mozilla Hacks - the Web developer blog",
+      "https://hacks.mozilla.org/2024/01/option-soup-the-subtle-pitfalls-of-combining-compiler-flags/"
+    ]
+  ],
+  [
+    [
       "2024-01-29, 19:18:48",
       "https://lobste.rs/s/g7ww5b/how_we_built_standalone_kubernetes_cost"
     ],
@@ -207,16 +217,6 @@
     [
       "New renderers for GTK",
       "https://blog.gtk.org/2024/01/28/new-renderers-for-gtk/"
-    ]
-  ],
-  [
-    [
-      "2024-01-28, 14:57:00",
-      "https://lobste.rs/s/prj4zw/since_when_does_windows_support_forward"
-    ],
-    [
-      "Since when does Windows support forward slash as path separator?",
-      "https://retrocomputing.stackexchange.com/questions/28344/since-when-does-windows-support-forward-slash-as-path-separator"
     ]
   ],
   [
