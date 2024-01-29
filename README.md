@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-29, 12:36:04](https://lobste.rs/s/3qm3cg/introducing_solid_errors) - [Introducing Solid Errors](https://fractaledmind.github.io/2024/01/28/introducing-solid-errors/)
 * [2024-01-29, 11:02:15](https://lobste.rs/s/wneroe/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/wneroe/what_are_you_doing_this_week)
 * [2024-01-29, 11:00:38](https://lobste.rs/s/2lfpr8/predirect_extension_replace_popular) - [Predirect - Extension to replace popular sites with privacy front ends](https://github.com/libreom/predirect)
 * [2024-01-29, 10:24:03](https://lobste.rs/s/7wnkek/skypad) - [Skypad](https://skypad.matthewphillips.info)
@@ -24,7 +25,6 @@
 * [2024-01-28, 11:07:43](https://lobste.rs/s/d7hz75/loving_memory_square_checkbox) - [In Loving Memory of Square Checkbox](https://tonsky.me/blog/checkbox/)
 * [2024-01-28, 02:17:16](https://lobste.rs/s/djy7ox/two_months_servo_better_inline_layout) - [Two months in Servo: better inline layout, stable Rust, and more](https://servo.org/blog/2024/01/26/two-months-in-servo/)
 * [2024-01-27, 21:58:41](https://lobste.rs/s/lb2eld/switching_meow_modal_editing_system_from) - [Switching to the meow modal editing system from evil](https://esrh.me/posts/2021-12-18-switching-to-meow.html)
-* [2024-01-27, 18:35:50](https://lobste.rs/s/mhnfoi/c_std_implementation_c_standard) - [c_std: Implementation of C++ standard libraries in C](https://github.com/KaisenAmin/c_std)
 
 ## [Archives](archives/index.md)
 

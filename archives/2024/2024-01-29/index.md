@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-29](index.md)
 
+* [2024-01-29, 12:36:04](https://lobste.rs/s/3qm3cg/introducing_solid_errors) - [Introducing Solid Errors](https://fractaledmind.github.io/2024/01/28/introducing-solid-errors/)
 * [2024-01-29, 11:02:15](https://lobste.rs/s/wneroe/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/wneroe/what_are_you_doing_this_week)
 * [2024-01-29, 11:00:38](https://lobste.rs/s/2lfpr8/predirect_extension_replace_popular) - [Predirect - Extension to replace popular sites with privacy front ends](https://github.com/libreom/predirect)
 * [2024-01-29, 10:24:03](https://lobste.rs/s/7wnkek/skypad) - [Skypad](https://skypad.matthewphillips.info)
