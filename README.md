@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-29, 00:49:38](https://lobste.rs/s/6b7gwz/beacon_calculus_formal_method_for) - [The Beacon Calculus: A formal method for the flexible and concise modelling of biological systems](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007651)
 * [2024-01-28, 23:49:04](https://lobste.rs/s/stdowj/understanding_apple_s_response_dma) - [Understanding Apple’s Response to the DMA](https://www.macstories.net/stories/understanding-apples-response-to-the-dma/)
 * [2024-01-28, 22:46:03](https://lobste.rs/s/njtlgi/law_for_computer_scientists_other_folk) - [Law for Computer Scientists and Other Folk (2020)](https://www.cohubicol.com/assets/uploads/law_for_computer_scientists.pdf)
 * [2024-01-28, 22:42:36](https://lobste.rs/s/liohii/what_s_new_go_slices_concat) - [What’s New in Go: slices.Concat](https://blog.carlana.net/post/2024/golang-slices-concat/)
@@ -23,7 +24,6 @@
 * [2024-01-27, 15:02:32](https://lobste.rs/s/iwkjp4/playing_around_with_ultra_hdr) - [Playing around with Ultra HDR](https://github.com/albertz/playground/wiki/HDR-demo)
 * [2024-01-27, 11:13:44](https://lobste.rs/s/oogmzj/look_inside_memcmp_on_intel_avx2_hardware) - [A look inside `memcmp` on Intel AVX2 hardware](https://xoranth.net/memcmp-avx2/)
 * [2024-01-27, 03:51:41](https://lobste.rs/s/yfrt0y/proposed_top_level_domain_string_for) - [Proposed Top-Level Domain String for Private Use](https://www.icann.org/en/public-comment/proceeding/proposed-top-level-domain-string-for-private-use-24-01-2024)
-* [2024-01-26, 22:57:24](https://lobste.rs/s/brpmmt/zig_roadmap_2024) - [Zig Roadmap 2024](https://www.youtube.com/watch?v=5eL_LcxwwHg)
 * [2024-01-26, 12:54:20](https://lobste.rs/s/pdivx4/my_impressions_hare) - [My Impressions of Hare](https://vfoley.xyz/hare/)
 
 ## [Archives](archives/index.md)

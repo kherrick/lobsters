@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-01-29](index.md)
+
+* [2024-01-29, 00:49:38](https://lobste.rs/s/6b7gwz/beacon_calculus_formal_method_for) - [The Beacon Calculus: A formal method for the flexible and concise modelling of biological systems](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007651)
