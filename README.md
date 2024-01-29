@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-29, 20:09:01](https://lobste.rs/s/sheowl/option_soup_subtle_pitfalls_combining) - [Option Soup: the subtle pitfalls of combining compiler flags – Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2024/01/option-soup-the-subtle-pitfalls-of-combining-compiler-flags/)
 * [2024-01-29, 19:18:48](https://lobste.rs/s/g7ww5b/how_we_built_standalone_kubernetes_cost) - [How We Built a Standalone Kubernetes Cost-Monitoring Agent](https://www.vantage.sh/blog/how-we-built-a-standalone-kubernetes-cost-monitoring-agent)
 * [2024-01-29, 19:09:54](https://lobste.rs/s/s6pnna/pg_analytics_transforming_postgres_into) - [pg_analytics: Transforming Postgres into a Very Fast Analytical Database - ParadeDB](https://docs.paradedb.com/blog/introducing_analytics)
 * [2024-01-29, 17:32:51](https://lobste.rs/s/vncobf/client_side_pagination_with_range_over) - [Client-side pagination with range over functions](https://vladimir.varank.in/notes/2024/01/client-side-pagination-in-go-range-over-function-edition/)
@@ -21,7 +22,6 @@
 * [2024-01-28, 20:51:47](https://lobste.rs/s/x02aus/process_spawning_performance_rust) - [Process spawning performance in Rust](https://kobzol.github.io/rust/2024/01/28/process-spawning-performance-in-rust.html)
 * [2024-01-28, 18:18:21](https://lobste.rs/s/ghy3ys/ur_programming_language_family) - [The Ur Programming Language Family](http://impredicative.com/ur/)
 * [2024-01-28, 18:02:05](https://lobste.rs/s/3btson/new_renderers_for_gtk) - [New renderers for GTK](https://blog.gtk.org/2024/01/28/new-renderers-for-gtk/)
-* [2024-01-28, 14:57:00](https://lobste.rs/s/prj4zw/since_when_does_windows_support_forward) - [Since when does Windows support forward slash as path separator?](https://retrocomputing.stackexchange.com/questions/28344/since-when-does-windows-support-forward-slash-as-path-separator)
 * [2024-01-28, 14:49:26](https://lobste.rs/s/xphqpc/new_github_copilot_research_finds) - [New GitHub Copilot Research Finds 'Downward Pressure on Code Quality'](https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx)
 * [2024-01-28, 11:53:25](https://lobste.rs/s/6wirda/npm_flooded_with_748_packages_store) - [npm flooded with 748 packages that store movies](https://blog.sonatype.com/npm-flooded-with-748-packages-that-store-movies)
 * [2024-01-28, 11:07:43](https://lobste.rs/s/d7hz75/loving_memory_square_checkbox) - [In Loving Memory of Square Checkbox](https://tonsky.me/blog/checkbox/)
