@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-29, 11:02:15",
+      "https://lobste.rs/s/wneroe/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/wneroe/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
+      "2024-01-29, 11:00:38",
+      "https://lobste.rs/s/2lfpr8/predirect_extension_replace_popular"
+    ],
+    [
+      "Predirect - Extension to replace popular sites with privacy front ends",
+      "https://github.com/libreom/predirect"
+    ]
+  ],
+  [
+    [
       "2024-01-29, 10:24:03",
       "https://lobste.rs/s/7wnkek/skypad"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-01-28, 11:31:23",
-      "https://lobste.rs/s/rifgxw/teletext_on_bbc_computer_2024"
-    ],
-    [
-      "Teletext on a BBC computer in 2024",
-      "https://linuxjedi.co.uk/2024/01/25/teletext-on-a-bbc-computer-in-2024/"
-    ]
-  ],
-  [
-    [
       "2024-01-28, 11:07:43",
       "https://lobste.rs/s/d7hz75/loving_memory_square_checkbox"
     ],
@@ -237,16 +247,6 @@
     [
       "c_std: Implementation of C++ standard libraries in C",
       "https://github.com/KaisenAmin/c_std"
-    ]
-  ],
-  [
-    [
-      "2024-01-27, 16:32:24",
-      "https://lobste.rs/s/pv7wul/please_don_t_force_me_log"
-    ],
-    [
-      "Please, don’t force me to log in",
-      "https://hamatti.org/posts/please-dont-force-me-to-log-in/"
     ]
   ]
 ]
