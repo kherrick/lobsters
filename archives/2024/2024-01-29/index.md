@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-29](index.md)
 
+* [2024-01-29, 20:17:10](https://lobste.rs/s/frgffg/benchmarking_grace_hopper_cpu_gpu) - [Benchmarking Grace Hopper CPU+GPU \"Superchip\"](https://blog.hpc.qmul.ac.uk/benchmarking-grace-hopper-nodes/)
 * [2024-01-29, 20:09:01](https://lobste.rs/s/sheowl/option_soup_subtle_pitfalls_combining) - [Option Soup: the subtle pitfalls of combining compiler flags – Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2024/01/option-soup-the-subtle-pitfalls-of-combining-compiler-flags/)
 * [2024-01-29, 19:18:48](https://lobste.rs/s/g7ww5b/how_we_built_standalone_kubernetes_cost) - [How We Built a Standalone Kubernetes Cost-Monitoring Agent](https://www.vantage.sh/blog/how-we-built-a-standalone-kubernetes-cost-monitoring-agent)
 * [2024-01-29, 19:09:54](https://lobste.rs/s/s6pnna/pg_analytics_transforming_postgres_into) - [pg_analytics: Transforming Postgres into a Very Fast Analytical Database - ParadeDB](https://docs.paradedb.com/blog/introducing_analytics)

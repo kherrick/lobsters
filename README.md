@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-29, 20:17:10](https://lobste.rs/s/frgffg/benchmarking_grace_hopper_cpu_gpu) - [Benchmarking Grace Hopper CPU+GPU \"Superchip\"](https://blog.hpc.qmul.ac.uk/benchmarking-grace-hopper-nodes/)
 * [2024-01-29, 20:09:01](https://lobste.rs/s/sheowl/option_soup_subtle_pitfalls_combining) - [Option Soup: the subtle pitfalls of combining compiler flags – Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2024/01/option-soup-the-subtle-pitfalls-of-combining-compiler-flags/)
 * [2024-01-29, 19:18:48](https://lobste.rs/s/g7ww5b/how_we_built_standalone_kubernetes_cost) - [How We Built a Standalone Kubernetes Cost-Monitoring Agent](https://www.vantage.sh/blog/how-we-built-a-standalone-kubernetes-cost-monitoring-agent)
 * [2024-01-29, 19:09:54](https://lobste.rs/s/s6pnna/pg_analytics_transforming_postgres_into) - [pg_analytics: Transforming Postgres into a Very Fast Analytical Database - ParadeDB](https://docs.paradedb.com/blog/introducing_analytics)
@@ -23,7 +24,6 @@
 * [2024-01-28, 18:18:21](https://lobste.rs/s/ghy3ys/ur_programming_language_family) - [The Ur Programming Language Family](http://impredicative.com/ur/)
 * [2024-01-28, 18:02:05](https://lobste.rs/s/3btson/new_renderers_for_gtk) - [New renderers for GTK](https://blog.gtk.org/2024/01/28/new-renderers-for-gtk/)
 * [2024-01-28, 14:49:26](https://lobste.rs/s/xphqpc/new_github_copilot_research_finds) - [New GitHub Copilot Research Finds 'Downward Pressure on Code Quality'](https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx)
-* [2024-01-28, 11:53:25](https://lobste.rs/s/6wirda/npm_flooded_with_748_packages_store) - [npm flooded with 748 packages that store movies](https://blog.sonatype.com/npm-flooded-with-748-packages-that-store-movies)
 * [2024-01-28, 11:07:43](https://lobste.rs/s/d7hz75/loving_memory_square_checkbox) - [In Loving Memory of Square Checkbox](https://tonsky.me/blog/checkbox/)
 
 ## [Archives](archives/index.md)
