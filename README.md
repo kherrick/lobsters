@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-29, 17:00:53](https://lobste.rs/s/qkuc4t/enhancing_trust_for_sgx_enclaves) - [Enhancing trust for SGX enclaves](https://blog.trailofbits.com/2024/01/26/enhancing-trust-for-sgx-enclaves/)
 * [2024-01-29, 16:42:29](https://lobste.rs/s/u6mvzo/coding_on_copilot_2023_data_suggests) - [Coding on Copilot: 2023 Data Suggests Downward Pressure on Code Quality (incl 2024 projections)](https://www.gitclear.com/coding_on_copilot_data_shows_ais_downward_pressure_on_code_quality)
 * [2024-01-29, 16:36:53](https://lobste.rs/s/zjdodr/what_i_talk_about_when_i_talk_about_query) - [What I Talk About When I Talk About Query Optimizer (Part 1): IR Design](https://xuanwo.io/2024/02-what-i-talk-about-when-i-talk-about-query-optimizer-part-1/)
 * [2024-01-29, 16:09:54](https://lobste.rs/s/dqthai/cascading_boundary_changes_prolly_trees) - [Cascading boundary changes in Prolly Trees](https://interjectedfuture.com/lab-notes/lab-note-033-cascading-boundary-changes-in-prolly-trees/)
@@ -21,7 +22,6 @@
 * [2024-01-28, 18:02:05](https://lobste.rs/s/3btson/new_renderers_for_gtk) - [New renderers for GTK](https://blog.gtk.org/2024/01/28/new-renderers-for-gtk/)
 * [2024-01-28, 14:57:00](https://lobste.rs/s/prj4zw/since_when_does_windows_support_forward) - [Since when does Windows support forward slash as path separator?](https://retrocomputing.stackexchange.com/questions/28344/since-when-does-windows-support-forward-slash-as-path-separator)
 * [2024-01-28, 14:49:26](https://lobste.rs/s/xphqpc/new_github_copilot_research_finds) - [New GitHub Copilot Research Finds 'Downward Pressure on Code Quality'](https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx)
-* [2024-01-28, 12:58:13](https://lobste.rs/s/rvo3vp/if_php_were_british_2011) - [If PHP Were British (2011)](https://aloneonahill.com/blog/if-php-were-british/)
 * [2024-01-28, 11:53:25](https://lobste.rs/s/6wirda/npm_flooded_with_748_packages_store) - [npm flooded with 748 packages that store movies](https://blog.sonatype.com/npm-flooded-with-748-packages-that-store-movies)
 * [2024-01-28, 11:07:43](https://lobste.rs/s/d7hz75/loving_memory_square_checkbox) - [In Loving Memory of Square Checkbox](https://tonsky.me/blog/checkbox/)
 * [2024-01-27, 21:58:41](https://lobste.rs/s/lb2eld/switching_meow_modal_editing_system_from) - [Switching to the meow modal editing system from evil](https://esrh.me/posts/2021-12-18-switching-to-meow.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-29](index.md)
 
+* [2024-01-29, 17:00:53](https://lobste.rs/s/qkuc4t/enhancing_trust_for_sgx_enclaves) - [Enhancing trust for SGX enclaves](https://blog.trailofbits.com/2024/01/26/enhancing-trust-for-sgx-enclaves/)
 * [2024-01-29, 16:42:29](https://lobste.rs/s/u6mvzo/coding_on_copilot_2023_data_suggests) - [Coding on Copilot: 2023 Data Suggests Downward Pressure on Code Quality (incl 2024 projections)](https://www.gitclear.com/coding_on_copilot_data_shows_ais_downward_pressure_on_code_quality)
 * [2024-01-29, 16:36:53](https://lobste.rs/s/zjdodr/what_i_talk_about_when_i_talk_about_query) - [What I Talk About When I Talk About Query Optimizer (Part 1): IR Design](https://xuanwo.io/2024/02-what-i-talk-about-when-i-talk-about-query-optimizer-part-1/)
 * [2024-01-29, 16:09:54](https://lobste.rs/s/dqthai/cascading_boundary_changes_prolly_trees) - [Cascading boundary changes in Prolly Trees](https://interjectedfuture.com/lab-notes/lab-note-033-cascading-boundary-changes-in-prolly-trees/)
