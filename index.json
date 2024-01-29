@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-29, 02:29:20",
+      "https://lobste.rs/s/s2tmo4/atari_coin_op_assembler_includes"
+    ],
+    [
+      "Atari Coin-Op Assembler (includes Centipede)",
+      "https://github.com/tschak909/atari-coin-op-assembler"
+    ]
+  ],
+  [
+    [
       "2024-01-29, 00:49:38",
       "https://lobste.rs/s/6b7gwz/beacon_calculus_formal_method_for"
     ],
@@ -217,16 +227,6 @@
     [
       "Playing around with Ultra HDR",
       "https://github.com/albertz/playground/wiki/HDR-demo"
-    ]
-  ],
-  [
-    [
-      "2024-01-27, 11:13:44",
-      "https://lobste.rs/s/oogmzj/look_inside_memcmp_on_intel_avx2_hardware"
-    ],
-    [
-      "A look inside `memcmp` on Intel AVX2 hardware",
-      "https://xoranth.net/memcmp-avx2/"
     ]
   ],
   [
