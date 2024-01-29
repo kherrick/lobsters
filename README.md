@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-29, 19:18:48](https://lobste.rs/s/g7ww5b/how_we_built_standalone_kubernetes_cost) - [How We Built a Standalone Kubernetes Cost-Monitoring Agent](https://www.vantage.sh/blog/how-we-built-a-standalone-kubernetes-cost-monitoring-agent)
 * [2024-01-29, 19:09:54](https://lobste.rs/s/s6pnna/pg_analytics_transforming_postgres_into) - [pg_analytics: Transforming Postgres into a Very Fast Analytical Database - ParadeDB](https://docs.paradedb.com/blog/introducing_analytics)
 * [2024-01-29, 17:32:51](https://lobste.rs/s/vncobf/client_side_pagination_with_range_over) - [Client-side pagination with range over functions](https://vladimir.varank.in/notes/2024/01/client-side-pagination-in-go-range-over-function-edition/)
 * [2024-01-29, 17:29:08](https://lobste.rs/s/tuuxux/open_source_from_anywhere_you_can_type) - [Open source: From anywhere you can type, query and stream the output of an LLM or any other script](https://github.com/jasonjmcghee/plock)
@@ -16,7 +17,6 @@
 * [2024-01-29, 09:13:33](https://lobste.rs/s/dt3l6s/i_just_wanted_emacs_look_nice_using_24_bit) - [I Just Wanted Emacs to Look Nice — Using 24-Bit Color in Terminals](https://chadaustin.me/2024/01/truecolor-terminal-emacs/)
 * [2024-01-29, 08:32:13](https://lobste.rs/s/57301y/two_handy_gdb_breakpoint_tricks) - [Two handy GDB breakpoint tricks](https://nullprogram.com/blog/2024/01/28/)
 * [2024-01-29, 06:16:42](https://lobste.rs/s/mr8am4/eagle_7b_soaring_past_transformers_with_1) - [Eagle 7B: Soaring past Transformers with 1 Trillion Tokens Across 100+ Languages](https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers)
-* [2024-01-28, 23:49:04](https://lobste.rs/s/stdowj/understanding_apple_s_response_dma) - [Understanding Apple’s Response to the DMA](https://www.macstories.net/stories/understanding-apples-response-to-the-dma/)
 * [2024-01-28, 22:42:36](https://lobste.rs/s/liohii/what_s_new_go_slices_concat) - [What’s New in Go: slices.Concat](https://blog.carlana.net/post/2024/golang-slices-concat/)
 * [2024-01-28, 20:51:47](https://lobste.rs/s/x02aus/process_spawning_performance_rust) - [Process spawning performance in Rust](https://kobzol.github.io/rust/2024/01/28/process-spawning-performance-in-rust.html)
 * [2024-01-28, 18:18:21](https://lobste.rs/s/ghy3ys/ur_programming_language_family) - [The Ur Programming Language Family](http://impredicative.com/ur/)
