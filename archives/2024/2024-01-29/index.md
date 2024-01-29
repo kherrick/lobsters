@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-29](index.md)
 
+* [2024-01-29, 14:12:26](https://lobste.rs/s/1eioyj/stem_interpreted_concatenative) - [Stem: An interpreted concatenative language with a foreign language interface](https://ret2pop.nullring.xyz/blog/stem.html)
 * [2024-01-29, 12:52:13](https://lobste.rs/s/osuvwf/gnome_battery_charge_control) - [GNOME battery charge control](https://vdwaa.nl/gnome-upower-charge-thresholds.html#gnome-upower-charge-thresholds)
 * [2024-01-29, 12:36:04](https://lobste.rs/s/3qm3cg/introducing_solid_errors) - [Introducing Solid Errors](https://fractaledmind.github.io/2024/01/28/introducing-solid-errors/)
 * [2024-01-29, 11:02:15](https://lobste.rs/s/wneroe/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/wneroe/what_are_you_doing_this_week)
