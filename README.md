@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-29, 16:09:54](https://lobste.rs/s/dqthai/cascading_boundary_changes_prolly_trees) - [Cascading boundary changes in Prolly Trees](https://interjectedfuture.com/lab-notes/lab-note-033-cascading-boundary-changes-in-prolly-trees/)
 * [2024-01-29, 14:12:26](https://lobste.rs/s/1eioyj/stem_interpreted_concatenative) - [Stem: An interpreted concatenative language with a foreign language interface](https://ret2pop.nullring.xyz/blog/stem.html)
 * [2024-01-29, 12:52:13](https://lobste.rs/s/osuvwf/gnome_battery_charge_control) - [GNOME battery charge control](https://vdwaa.nl/gnome-upower-charge-thresholds.html#gnome-upower-charge-thresholds)
 * [2024-01-29, 12:36:04](https://lobste.rs/s/3qm3cg/introducing_solid_errors) - [Introducing Solid Errors](https://fractaledmind.github.io/2024/01/28/introducing-solid-errors/)
@@ -13,7 +14,6 @@
 * [2024-01-29, 06:16:42](https://lobste.rs/s/mr8am4/eagle_7b_soaring_past_transformers_with_1) - [Eagle 7B: Soaring past Transformers with 1 Trillion Tokens Across 100+ Languages](https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers)
 * [2024-01-29, 02:29:20](https://lobste.rs/s/s2tmo4/atari_coin_op_assembler_includes) - [Atari Coin-Op Assembler (includes Centipede)](https://github.com/tschak909/atari-coin-op-assembler)
 * [2024-01-28, 23:49:04](https://lobste.rs/s/stdowj/understanding_apple_s_response_dma) - [Understanding Apple’s Response to the DMA](https://www.macstories.net/stories/understanding-apples-response-to-the-dma/)
-* [2024-01-28, 22:46:03](https://lobste.rs/s/njtlgi/law_for_computer_scientists_other_folk) - [Law for Computer Scientists and Other Folk (2020)](https://www.cohubicol.com/assets/uploads/law_for_computer_scientists.pdf)
 * [2024-01-28, 22:42:36](https://lobste.rs/s/liohii/what_s_new_go_slices_concat) - [What’s New in Go: slices.Concat](https://blog.carlana.net/post/2024/golang-slices-concat/)
 * [2024-01-28, 20:51:47](https://lobste.rs/s/x02aus/process_spawning_performance_rust) - [Process spawning performance in Rust](https://kobzol.github.io/rust/2024/01/28/process-spawning-performance-in-rust.html)
 * [2024-01-28, 18:18:21](https://lobste.rs/s/ghy3ys/ur_programming_language_family) - [The Ur Programming Language Family](http://impredicative.com/ur/)
