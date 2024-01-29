@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-29, 09:13:33](https://lobste.rs/s/dt3l6s/i_just_wanted_emacs_look_nice_using_24_bit) - [I Just Wanted Emacs to Look Nice — Using 24-Bit Color in Terminals](https://chadaustin.me/2024/01/truecolor-terminal-emacs/)
 * [2024-01-29, 08:32:13](https://lobste.rs/s/57301y/two_handy_gdb_breakpoint_tricks) - [Two handy GDB breakpoint tricks](https://nullprogram.com/blog/2024/01/28/)
 * [2024-01-29, 06:42:47](https://lobste.rs/s/vbhzeu/introduction_bcn_texture_compression) - [An Introduction To BCn Texture Compression, Part 1: BC4](https://acefanatic02.github.io/posts/intro_bcn_part1/)
 * [2024-01-29, 06:16:42](https://lobste.rs/s/mr8am4/eagle_7b_soaring_past_transformers_with_1) - [Eagle 7B: Soaring past Transformers with 1 Trillion Tokens Across 100+ Languages](https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers)
@@ -23,7 +24,6 @@
 * [2024-01-27, 21:58:41](https://lobste.rs/s/lb2eld/switching_meow_modal_editing_system_from) - [Switching to the meow modal editing system from evil](https://esrh.me/posts/2021-12-18-switching-to-meow.html)
 * [2024-01-27, 19:49:16](https://lobste.rs/s/evrzn7/topaz_unicode) - [Topaz Unicode](https://gitlab.com/Screwtapello/topaz-unicode#topaz-unicode)
 * [2024-01-27, 18:35:50](https://lobste.rs/s/mhnfoi/c_std_implementation_c_standard) - [c_std: Implementation of C++ standard libraries in C](https://github.com/KaisenAmin/c_std)
-* [2024-01-27, 16:54:36](https://lobste.rs/s/bi2b1j/long_term_refactors) - [Long Term Refactors](https://max.engineer/long-term-refactors)
 * [2024-01-27, 16:32:24](https://lobste.rs/s/pv7wul/please_don_t_force_me_log) - [Please, don’t force me to log in](https://hamatti.org/posts/please-dont-force-me-to-log-in/)
 
 ## [Archives](archives/index.md)
