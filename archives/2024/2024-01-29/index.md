@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-29](index.md)
 
+* [2024-01-29, 10:24:03](https://lobste.rs/s/7wnkek/skypad) - [Skypad](https://skypad.matthewphillips.info)
 * [2024-01-29, 09:46:58](https://lobste.rs/s/5rsuoa/effortless_emacs_multiple_major_modes) - [Effortless Emacs Multiple Major Modes with Polymode](https://www.skybluetrades.net/blog/2021/06/2021-06-05-effortless-emacs-mmm-with-polymode/)
 * [2024-01-29, 09:13:33](https://lobste.rs/s/dt3l6s/i_just_wanted_emacs_look_nice_using_24_bit) - [I Just Wanted Emacs to Look Nice — Using 24-Bit Color in Terminals](https://chadaustin.me/2024/01/truecolor-terminal-emacs/)
 * [2024-01-29, 08:32:13](https://lobste.rs/s/57301y/two_handy_gdb_breakpoint_tricks) - [Two handy GDB breakpoint tricks](https://nullprogram.com/blog/2024/01/28/)
