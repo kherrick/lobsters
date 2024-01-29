@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-29](index.md)
 
+* [2024-01-29, 17:32:51](https://lobste.rs/s/vncobf/client_side_pagination_with_range_over) - [Client-side pagination with range over functions](https://vladimir.varank.in/notes/2024/01/client-side-pagination-in-go-range-over-function-edition/)
+* [2024-01-29, 17:29:08](https://lobste.rs/s/tuuxux/open_source_from_anywhere_you_can_type) - [Open source: From anywhere you can type, query and stream the output of an LLM or any other script](https://github.com/jasonjmcghee/plock)
 * [2024-01-29, 17:00:53](https://lobste.rs/s/qkuc4t/enhancing_trust_for_sgx_enclaves) - [Enhancing trust for SGX enclaves](https://blog.trailofbits.com/2024/01/26/enhancing-trust-for-sgx-enclaves/)
 * [2024-01-29, 16:42:29](https://lobste.rs/s/u6mvzo/coding_on_copilot_2023_data_suggests) - [Coding on Copilot: 2023 Data Suggests Downward Pressure on Code Quality (incl 2024 projections)](https://www.gitclear.com/coding_on_copilot_data_shows_ais_downward_pressure_on_code_quality)
 * [2024-01-29, 16:36:53](https://lobste.rs/s/zjdodr/what_i_talk_about_when_i_talk_about_query) - [What I Talk About When I Talk About Query Optimizer (Part 1): IR Design](https://xuanwo.io/2024/02-what-i-talk-about-when-i-talk-about-query-optimizer-part-1/)

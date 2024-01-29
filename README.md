@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-29, 17:32:51](https://lobste.rs/s/vncobf/client_side_pagination_with_range_over) - [Client-side pagination with range over functions](https://vladimir.varank.in/notes/2024/01/client-side-pagination-in-go-range-over-function-edition/)
+* [2024-01-29, 17:29:08](https://lobste.rs/s/tuuxux/open_source_from_anywhere_you_can_type) - [Open source: From anywhere you can type, query and stream the output of an LLM or any other script](https://github.com/jasonjmcghee/plock)
 * [2024-01-29, 17:00:53](https://lobste.rs/s/qkuc4t/enhancing_trust_for_sgx_enclaves) - [Enhancing trust for SGX enclaves](https://blog.trailofbits.com/2024/01/26/enhancing-trust-for-sgx-enclaves/)
-* [2024-01-29, 16:42:29](https://lobste.rs/s/u6mvzo/coding_on_copilot_2023_data_suggests) - [Coding on Copilot: 2023 Data Suggests Downward Pressure on Code Quality (incl 2024 projections)](https://www.gitclear.com/coding_on_copilot_data_shows_ais_downward_pressure_on_code_quality)
 * [2024-01-29, 16:36:53](https://lobste.rs/s/zjdodr/what_i_talk_about_when_i_talk_about_query) - [What I Talk About When I Talk About Query Optimizer (Part 1): IR Design](https://xuanwo.io/2024/02-what-i-talk-about-when-i-talk-about-query-optimizer-part-1/)
 * [2024-01-29, 16:09:54](https://lobste.rs/s/dqthai/cascading_boundary_changes_prolly_trees) - [Cascading boundary changes in Prolly Trees](https://interjectedfuture.com/lab-notes/lab-note-033-cascading-boundary-changes-in-prolly-trees/)
 * [2024-01-29, 14:12:26](https://lobste.rs/s/1eioyj/stem_interpreted_concatenative) - [Stem: An interpreted concatenative language with a foreign language interface](https://ret2pop.nullring.xyz/blog/stem.html)
@@ -13,7 +14,6 @@
 * [2024-01-29, 09:46:58](https://lobste.rs/s/5rsuoa/effortless_emacs_multiple_major_modes) - [Effortless Emacs Multiple Major Modes with Polymode](https://www.skybluetrades.net/blog/2021/06/2021-06-05-effortless-emacs-mmm-with-polymode/)
 * [2024-01-29, 09:13:33](https://lobste.rs/s/dt3l6s/i_just_wanted_emacs_look_nice_using_24_bit) - [I Just Wanted Emacs to Look Nice — Using 24-Bit Color in Terminals](https://chadaustin.me/2024/01/truecolor-terminal-emacs/)
 * [2024-01-29, 08:32:13](https://lobste.rs/s/57301y/two_handy_gdb_breakpoint_tricks) - [Two handy GDB breakpoint tricks](https://nullprogram.com/blog/2024/01/28/)
-* [2024-01-29, 06:42:47](https://lobste.rs/s/vbhzeu/introduction_bcn_texture_compression) - [An Introduction To BCn Texture Compression, Part 1: BC4](https://acefanatic02.github.io/posts/intro_bcn_part1/)
 * [2024-01-29, 06:16:42](https://lobste.rs/s/mr8am4/eagle_7b_soaring_past_transformers_with_1) - [Eagle 7B: Soaring past Transformers with 1 Trillion Tokens Across 100+ Languages](https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers)
 * [2024-01-28, 23:49:04](https://lobste.rs/s/stdowj/understanding_apple_s_response_dma) - [Understanding Apple’s Response to the DMA](https://www.macstories.net/stories/understanding-apples-response-to-the-dma/)
 * [2024-01-28, 22:42:36](https://lobste.rs/s/liohii/what_s_new_go_slices_concat) - [What’s New in Go: slices.Concat](https://blog.carlana.net/post/2024/golang-slices-concat/)
