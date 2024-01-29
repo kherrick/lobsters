@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-29, 11:02:15](https://lobste.rs/s/wneroe/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/wneroe/what_are_you_doing_this_week)
+* [2024-01-29, 11:00:38](https://lobste.rs/s/2lfpr8/predirect_extension_replace_popular) - [Predirect - Extension to replace popular sites with privacy front ends](https://github.com/libreom/predirect)
 * [2024-01-29, 10:24:03](https://lobste.rs/s/7wnkek/skypad) - [Skypad](https://skypad.matthewphillips.info)
 * [2024-01-29, 09:46:58](https://lobste.rs/s/5rsuoa/effortless_emacs_multiple_major_modes) - [Effortless Emacs Multiple Major Modes with Polymode](https://www.skybluetrades.net/blog/2021/06/2021-06-05-effortless-emacs-mmm-with-polymode/)
 * [2024-01-29, 09:13:33](https://lobste.rs/s/dt3l6s/i_just_wanted_emacs_look_nice_using_24_bit) - [I Just Wanted Emacs to Look Nice — Using 24-Bit Color in Terminals](https://chadaustin.me/2024/01/truecolor-terminal-emacs/)
@@ -19,12 +21,10 @@
 * [2024-01-28, 14:49:26](https://lobste.rs/s/xphqpc/new_github_copilot_research_finds) - [New GitHub Copilot Research Finds 'Downward Pressure on Code Quality'](https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx)
 * [2024-01-28, 12:58:13](https://lobste.rs/s/rvo3vp/if_php_were_british_2011) - [If PHP Were British (2011)](https://aloneonahill.com/blog/if-php-were-british/)
 * [2024-01-28, 11:53:25](https://lobste.rs/s/6wirda/npm_flooded_with_748_packages_store) - [npm flooded with 748 packages that store movies](https://blog.sonatype.com/npm-flooded-with-748-packages-that-store-movies)
-* [2024-01-28, 11:31:23](https://lobste.rs/s/rifgxw/teletext_on_bbc_computer_2024) - [Teletext on a BBC computer in 2024](https://linuxjedi.co.uk/2024/01/25/teletext-on-a-bbc-computer-in-2024/)
 * [2024-01-28, 11:07:43](https://lobste.rs/s/d7hz75/loving_memory_square_checkbox) - [In Loving Memory of Square Checkbox](https://tonsky.me/blog/checkbox/)
 * [2024-01-28, 02:17:16](https://lobste.rs/s/djy7ox/two_months_servo_better_inline_layout) - [Two months in Servo: better inline layout, stable Rust, and more](https://servo.org/blog/2024/01/26/two-months-in-servo/)
 * [2024-01-27, 21:58:41](https://lobste.rs/s/lb2eld/switching_meow_modal_editing_system_from) - [Switching to the meow modal editing system from evil](https://esrh.me/posts/2021-12-18-switching-to-meow.html)
 * [2024-01-27, 18:35:50](https://lobste.rs/s/mhnfoi/c_std_implementation_c_standard) - [c_std: Implementation of C++ standard libraries in C](https://github.com/KaisenAmin/c_std)
-* [2024-01-27, 16:32:24](https://lobste.rs/s/pv7wul/please_don_t_force_me_log) - [Please, don’t force me to log in](https://hamatti.org/posts/please-dont-force-me-to-log-in/)
 
 ## [Archives](archives/index.md)
 
