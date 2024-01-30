@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-30, 14:42:30](https://lobste.rs/s/5xa3gt/farolero_common_lisp_style_conditions) - [farolero: Common Lisp style conditions and restarts for Clojure](https://github.com/IGJoshua/farolero)
 * [2024-01-30, 13:13:44](https://lobste.rs/s/fxmlj0/summercart64_fully_open_source_nintendo) - [SummerCart64 - a fully open source Nintendo 64 flashcart](https://github.com/Polprzewodnikowy/SummerCart64)
 * [2024-01-30, 13:11:07](https://lobste.rs/s/0fkc0u/what_is_terminal_based_game_you_ve_played_s) - [What is a terminal-based game you've played that's worth mentioning?](https://lobste.rs/s/0fkc0u/what_is_terminal_based_game_you_ve_played_s)
 * [2024-01-30, 12:21:33](https://lobste.rs/s/umtmfy/self_hosted_media_center_based_on_open) - [Self-hosted media center, based on open source software](https://roussos.cc/2024/01/29/home-media-center/)
@@ -23,7 +24,6 @@
 * [2024-01-29, 09:13:33](https://lobste.rs/s/dt3l6s/i_just_wanted_emacs_look_nice_using_24_bit) - [I Just Wanted Emacs to Look Nice — Using 24-Bit Color in Terminals](https://chadaustin.me/2024/01/truecolor-terminal-emacs/)
 * [2024-01-29, 08:32:13](https://lobste.rs/s/57301y/two_handy_gdb_breakpoint_tricks) - [Two handy GDB breakpoint tricks](https://nullprogram.com/blog/2024/01/28/)
 * [2024-01-28, 22:42:36](https://lobste.rs/s/liohii/what_s_new_go_slices_concat) - [What’s New in Go: slices.Concat](https://blog.carlana.net/post/2024/golang-slices-concat/)
-* [2024-01-28, 14:49:26](https://lobste.rs/s/xphqpc/new_github_copilot_research_finds) - [New GitHub Copilot Research Finds 'Downward Pressure on Code Quality'](https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx)
 * [2024-01-28, 11:07:43](https://lobste.rs/s/d7hz75/loving_memory_square_checkbox) - [In Loving Memory of Square Checkbox](https://tonsky.me/blog/checkbox/)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
+* [2024-01-30, 14:42:30](https://lobste.rs/s/5xa3gt/farolero_common_lisp_style_conditions) - [farolero: Common Lisp style conditions and restarts for Clojure](https://github.com/IGJoshua/farolero)
 * [2024-01-30, 13:13:44](https://lobste.rs/s/fxmlj0/summercart64_fully_open_source_nintendo) - [SummerCart64 - a fully open source Nintendo 64 flashcart](https://github.com/Polprzewodnikowy/SummerCart64)
 * [2024-01-30, 13:11:07](https://lobste.rs/s/0fkc0u/what_is_terminal_based_game_you_ve_played_s) - [What is a terminal-based game you've played that's worth mentioning?](https://lobste.rs/s/0fkc0u/what_is_terminal_based_game_you_ve_played_s)
 * [2024-01-30, 12:21:33](https://lobste.rs/s/umtmfy/self_hosted_media_center_based_on_open) - [Self-hosted media center, based on open source software](https://roussos.cc/2024/01/29/home-media-center/)
