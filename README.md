@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-30, 12:21:33](https://lobste.rs/s/umtmfy/self_hosted_media_center_based_on_open) - [Self-hosted media center, based on open source software](https://roussos.cc/2024/01/29/home-media-center/)
 * [2024-01-30, 08:54:25](https://lobste.rs/s/wk5xjl/learn_how_write_tcp_servers_using_rust_s) - [Learn how to write TCP servers using Rust's std::net module](https://app.codecrafters.io/concepts/rust-tcp-server)
 * [2024-01-30, 08:17:23](https://lobste.rs/s/zqqmeo/fast_query_performance_with_mysql) - [Fast query performance with MySQL Hypergraph Optimizer for HeatWave](https://blogs.oracle.com/mysql/post/fast-query-performance-with-mysql-hypergraph-optimizer-for-heatwave)
 * [2024-01-30, 07:21:47](https://lobste.rs/s/owqhwu/scatteralloc_massively_parallel) - [ScatterAlloc: Massively Parallel Dynamic Memory Allocation for the GPU](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=802fed876e180f32c06ede4d1cc951ba44f79dd2)
@@ -10,7 +11,6 @@
 * [2024-01-30, 02:47:10](https://lobste.rs/s/osjvni/notes_on_cruise_s_pedestrian_accident) - [Notes on Cruise's pedestrian accident](https://danluu.com/cruise-report/)
 * [2024-01-30, 00:35:51](https://lobste.rs/s/nn3cug/it_s_behind_you_making_computer_game) - [It’s behind you: The making of a computer game](https://bizzley.42web.io/index2.html?i=1)
 * [2024-01-30, 00:08:25](https://lobste.rs/s/xisnkd/what_email_server_do_you_run) - [What email server do you run?](https://lobste.rs/s/xisnkd/what_email_server_do_you_run)
-* [2024-01-29, 20:17:10](https://lobste.rs/s/frgffg/benchmarking_grace_hopper_cpu_gpu) - [Benchmarking Grace Hopper CPU+GPU \"Superchip\"](https://blog.hpc.qmul.ac.uk/benchmarking-grace-hopper-nodes/)
 * [2024-01-29, 20:09:01](https://lobste.rs/s/sheowl/option_soup_subtle_pitfalls_combining) - [Option Soup: the subtle pitfalls of combining compiler flags](https://hacks.mozilla.org/2024/01/option-soup-the-subtle-pitfalls-of-combining-compiler-flags/)
 * [2024-01-29, 19:09:54](https://lobste.rs/s/s6pnna/pg_analytics_transforming_postgres_into) - [pg_analytics: Transforming Postgres into a Very Fast Analytical Database](https://docs.paradedb.com/blog/introducing_analytics)
 * [2024-01-29, 17:29:08](https://lobste.rs/s/tuuxux/plock_from_anywhere_you_can_type_query) - [plock: From anywhere you can type, query and stream the output of an LLM or any other script](https://github.com/jasonjmcghee/plock)
