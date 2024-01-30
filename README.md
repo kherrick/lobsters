@@ -4,7 +4,7 @@
 * [2024-01-30, 16:54:02](https://lobste.rs/s/7dy4fe/daily_driving_pinephone_pro) - [Daily Driving the Pinephone Pro](https://zerwuerfnis.org/daily-driving-the-pinephone-pro)
 * [2024-01-30, 16:35:42](https://lobste.rs/s/cfc5dy/guile_hoot_v0_3_0_released) - [Guile Hoot v0.3.0 released](https://spritely.institute/news/guile-hoot-v030-released.html)
 * [2024-01-30, 16:31:23](https://lobste.rs/s/qukknr/tour_lisps) - [A Tour of the Lisps](https://www.fosskers.ca/en/blog/rounds-of-lisp)
-* [2024-01-30, 16:02:59](https://lobste.rs/s/ty8pa7/constructing_four_point_egg_tony_finch) - [Constructing a four-point egg – Tony Finch](https://dotat.at/@/2024-01-29-four-point-egg.html)
+* [2024-01-30, 16:02:59](https://lobste.rs/s/ty8pa7/constructing_four_point_egg) - [Constructing a four-point egg](https://dotat.at/@/2024-01-29-four-point-egg.html)
 * [2024-01-30, 14:57:04](https://lobste.rs/s/buhd4e/postgresql_zero_downtime_reversible) - [PostgreSQL zero-downtime and reversible migrations](https://github.com/xataio/pgroll)
 * [2024-01-30, 14:42:30](https://lobste.rs/s/5xa3gt/farolero_common_lisp_style_conditions) - [farolero: Common Lisp style conditions and restarts for Clojure](https://github.com/IGJoshua/farolero)
 * [2024-01-30, 13:13:44](https://lobste.rs/s/fxmlj0/summercart64_fully_open_source_nintendo) - [SummerCart64 - a fully open source Nintendo 64 flashcart](https://github.com/Polprzewodnikowy/SummerCart64)
