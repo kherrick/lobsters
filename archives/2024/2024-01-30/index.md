@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
+* [2024-01-30, 19:42:35](https://lobste.rs/s/id5g1z/positional_arguments) - [Positional Arguments](https://noelrappin.com/blog/2024/01/better-know-positional-arguments/)
 * [2024-01-30, 19:42:35](https://lobste.rs/s/id5g1z/better_know_ruby_thing_3_positional) - [Better Know A Ruby Thing #3: Positional Arguments](https://noelrappin.com/blog/2024/01/better-know-positional-arguments/)
 * [2024-01-30, 19:11:15](https://lobste.rs/s/bejkkg/errno_libc) - [errno and libc](https://dxuuu.xyz/errno.html)
 * [2024-01-30, 18:53:03](https://lobste.rs/s/ehewh7/beej_s_guide_networking_concepts) - [Beej's Guide to Networking Concepts](https://beej.us/guide/bgnet0/)
