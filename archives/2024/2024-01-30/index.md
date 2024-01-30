@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
+* [2024-01-30, 23:31:14](https://lobste.rs/s/wmr4x0/nix_direnv_is_huge_quality_life) - [nix-direnv is a huge quality of life improvement](https://ianthehenry.com/posts/how-to-learn-nix/nix-direnv/)
 * [2024-01-30, 23:31:14](https://lobste.rs/s/wmr4x0/how_learn_nix_part_49_nix_direnv_is_huge) - [How to Learn Nix, Part 49: nix-direnv is a huge quality of life improvement](https://ianthehenry.com/posts/how-to-learn-nix/nix-direnv/)
 * [2024-01-30, 22:42:17](https://lobste.rs/s/iiypjw/understanding_parquet_iceberg_data) - [Understanding Parquet, Iceberg and Data Lakehouses at Broad](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
 * [2024-01-30, 22:34:33](https://lobste.rs/s/4clpx7/lsm_week) - [LSM in a Week](https://skyzh.github.io/mini-lsm/)
