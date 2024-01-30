@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
+* [2024-01-30, 18:53:03](https://lobste.rs/s/ehewh7/beej_s_guide_networking_concepts) - [Beej's Guide to Networking Concepts](https://beej.us/guide/bgnet0/)
 * [2024-01-30, 17:12:45](https://lobste.rs/s/fi0d4b/profiling_your_numba_code) - [Profiling your Numba code](https://pythonspeed.com/articles/numba-profiling/)
 * [2024-01-30, 16:54:02](https://lobste.rs/s/7dy4fe/daily_driving_pinephone_pro) - [Daily Driving the Pinephone Pro](https://zerwuerfnis.org/daily-driving-the-pinephone-pro)
 * [2024-01-30, 16:35:42](https://lobste.rs/s/cfc5dy/guile_hoot_v0_3_0_released) - [Guile Hoot v0.3.0 released](https://spritely.institute/news/guile-hoot-v030-released.html)

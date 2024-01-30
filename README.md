@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-30, 18:53:03](https://lobste.rs/s/ehewh7/beej_s_guide_networking_concepts) - [Beej's Guide to Networking Concepts](https://beej.us/guide/bgnet0/)
 * [2024-01-30, 17:12:45](https://lobste.rs/s/fi0d4b/profiling_your_numba_code) - [Profiling your Numba code](https://pythonspeed.com/articles/numba-profiling/)
 * [2024-01-30, 16:54:02](https://lobste.rs/s/7dy4fe/daily_driving_pinephone_pro) - [Daily Driving the Pinephone Pro](https://zerwuerfnis.org/daily-driving-the-pinephone-pro)
 * [2024-01-30, 16:35:42](https://lobste.rs/s/cfc5dy/guile_hoot_v0_3_0_released) - [Guile Hoot v0.3.0 released](https://spritely.institute/news/guile-hoot-v030-released.html)
@@ -21,7 +22,6 @@
 * [2024-01-29, 20:09:01](https://lobste.rs/s/sheowl/option_soup_subtle_pitfalls_combining) - [Option Soup: the subtle pitfalls of combining compiler flags](https://hacks.mozilla.org/2024/01/option-soup-the-subtle-pitfalls-of-combining-compiler-flags/)
 * [2024-01-29, 19:09:54](https://lobste.rs/s/s6pnna/pg_analytics_transforming_postgres_into) - [pg_analytics: Transforming Postgres into a Very Fast Analytical Database](https://docs.paradedb.com/blog/introducing_analytics)
 * [2024-01-29, 12:52:13](https://lobste.rs/s/osuvwf/gnome_battery_charge_control) - [GNOME battery charge control](https://vdwaa.nl/gnome-upower-charge-thresholds.html#gnome-upower-charge-thresholds)
-* [2024-01-29, 11:02:15](https://lobste.rs/s/wneroe/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/wneroe/what_are_you_doing_this_week)
 * [2024-01-29, 11:00:38](https://lobste.rs/s/2lfpr8/predirect_extension_replace_popular) - [Predirect - Extension to replace popular sites with privacy front ends](https://github.com/libreom/predirect)
 * [2024-01-29, 09:13:33](https://lobste.rs/s/dt3l6s/i_just_wanted_emacs_look_nice_using_24_bit) - [I Just Wanted Emacs to Look Nice — Using 24-Bit Color in Terminals](https://chadaustin.me/2024/01/truecolor-terminal-emacs/)
 * [2024-01-28, 22:42:36](https://lobste.rs/s/liohii/what_s_new_go_slices_concat) - [What’s New in Go: slices.Concat](https://blog.carlana.net/post/2024/golang-slices-concat/)
