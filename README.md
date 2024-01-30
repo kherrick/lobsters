@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-30, 08:54:25](https://lobste.rs/s/wk5xjl/learn_how_write_tcp_servers_using_rust_s) - [Learn how to write TCP servers using Rust's std::net module](https://app.codecrafters.io/concepts/rust-tcp-server)
 * [2024-01-30, 08:17:23](https://lobste.rs/s/zqqmeo/fast_query_performance_with_mysql) - [Fast query performance with MySQL Hypergraph Optimizer for HeatWave](https://blogs.oracle.com/mysql/post/fast-query-performance-with-mysql-hypergraph-optimizer-for-heatwave)
 * [2024-01-30, 07:21:47](https://lobste.rs/s/owqhwu/scatteralloc_massively_parallel) - [ScatterAlloc: Massively Parallel Dynamic Memory Allocation for the GPU](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=802fed876e180f32c06ede4d1cc951ba44f79dd2)
 * [2024-01-30, 06:38:23](https://lobste.rs/s/botjfd/automating_my_backups_with_restic) - [Automating my backups with restic and anacron](https://ntietz.com/blog/automating-my-laptop-backups/)
@@ -13,7 +14,6 @@
 * [2024-01-29, 19:18:48](https://lobste.rs/s/g7ww5b/how_we_built_standalone_kubernetes_cost) - [How We Built a Standalone Kubernetes Cost-Monitoring Agent](https://www.vantage.sh/blog/how-we-built-a-standalone-kubernetes-cost-monitoring-agent)
 * [2024-01-29, 19:09:54](https://lobste.rs/s/s6pnna/pg_analytics_transforming_postgres_into) - [pg_analytics: Transforming Postgres into a Very Fast Analytical Database](https://docs.paradedb.com/blog/introducing_analytics)
 * [2024-01-29, 17:32:51](https://lobste.rs/s/vncobf/client_side_pagination_with_range_over) - [Client-side pagination with range over functions](https://vladimir.varank.in/notes/2024/01/client-side-pagination-in-go-range-over-function-edition/)
-* [2024-01-29, 16:36:53](https://lobste.rs/s/zjdodr/what_i_talk_about_when_i_talk_about_query) - [What I Talk About When I Talk About Query Optimizer (Part 1): IR Design](https://xuanwo.io/2024/02-what-i-talk-about-when-i-talk-about-query-optimizer-part-1/)
 * [2024-01-29, 14:12:26](https://lobste.rs/s/1eioyj/stem_interpreted_concatenative) - [Stem: An interpreted concatenative language with a foreign language interface](https://ret2pop.nullring.xyz/blog/stem.html)
 * [2024-01-29, 12:52:13](https://lobste.rs/s/osuvwf/gnome_battery_charge_control) - [GNOME battery charge control](https://vdwaa.nl/gnome-upower-charge-thresholds.html#gnome-upower-charge-thresholds)
 * [2024-01-29, 11:02:15](https://lobste.rs/s/wneroe/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/wneroe/what_are_you_doing_this_week)
