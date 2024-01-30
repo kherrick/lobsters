@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-30, 12:21:33",
+      "https://lobste.rs/s/umtmfy/self_hosted_media_center_based_on_open"
+    ],
+    [
+      "Self-hosted media center, based on open source software",
+      "https://roussos.cc/2024/01/29/home-media-center/"
+    ]
+  ],
+  [
+    [
       "2024-01-30, 08:54:25",
       "https://lobste.rs/s/wk5xjl/learn_how_write_tcp_servers_using_rust_s"
     ],
@@ -97,16 +107,6 @@
     [
       "What email server do you run?",
       "https://lobste.rs/s/xisnkd/what_email_server_do_you_run"
-    ]
-  ],
-  [
-    [
-      "2024-01-29, 20:17:10",
-      "https://lobste.rs/s/frgffg/benchmarking_grace_hopper_cpu_gpu"
-    ],
-    [
-      "Benchmarking Grace Hopper CPU+GPU \"Superchip\"",
-      "https://blog.hpc.qmul.ac.uk/benchmarking-grace-hopper-nodes/"
     ]
   ],
   [
