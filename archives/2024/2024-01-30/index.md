@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
+* [2024-01-30, 20:07:46](https://lobste.rs/s/qktfio/my_2023_homelab_setup) - [My 2023 Homelab Setup](https://mudkip.me/2024/01/31/My-2023-Homelab-Setup/)
 * [2024-01-30, 19:42:35](https://lobste.rs/s/id5g1z/positional_arguments) - [Positional Arguments](https://noelrappin.com/blog/2024/01/better-know-positional-arguments/)
 * [2024-01-30, 19:42:35](https://lobste.rs/s/id5g1z/better_know_ruby_thing_3_positional) - [Better Know A Ruby Thing #3: Positional Arguments](https://noelrappin.com/blog/2024/01/better-know-positional-arguments/)
 * [2024-01-30, 19:11:15](https://lobste.rs/s/bejkkg/errno_libc) - [errno and libc](https://dxuuu.xyz/errno.html)
