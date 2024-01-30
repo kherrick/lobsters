@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-30, 22:42:17](https://lobste.rs/s/iiypjw/understanding_parquet_iceberg_data) - [Understanding Parquet, Iceberg and Data Lakehouses at Broad](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
+* [2024-01-30, 22:34:33](https://lobste.rs/s/4clpx7/lsm_week) - [LSM in a Week](https://skyzh.github.io/mini-lsm/)
 * [2024-01-30, 21:33:17](https://lobste.rs/s/sd6kxt/post_quantum_cryptography_for_go) - [Post-quantum Cryptography for the Go Ecosystem](https://words.filippo.io/dispatches/mlkem768/)
 * [2024-01-30, 20:57:47](https://lobste.rs/s/s4tlxq/rust_game_review) - [Rust, A Game Review](https://llogiq.github.io/2019/06/07/game.html)
 * [2024-01-30, 20:42:40](https://lobste.rs/s/2aeh8l/art_good_code_review) - [The art of good code review](https://philbooth.me/blog/the-art-of-good-code-review)
 * [2024-01-30, 20:16:20](https://lobste.rs/s/ildyxu/building_gui_platform) - [Building a GUI platform](https://lukewilliamboswell.github.io/roc-ray-experiment/)
 * [2024-01-30, 20:07:46](https://lobste.rs/s/qktfio/my_2023_homelab_setup) - [My 2023 Homelab Setup](https://mudkip.me/2024/01/31/My-2023-Homelab-Setup/)
-* [2024-01-30, 19:42:35](https://lobste.rs/s/id5g1z/positional_arguments) - [Positional Arguments](https://noelrappin.com/blog/2024/01/better-know-positional-arguments/)
 * [2024-01-30, 19:11:15](https://lobste.rs/s/bejkkg/errno_libc) - [errno and libc](https://dxuuu.xyz/errno.html)
 * [2024-01-30, 18:53:03](https://lobste.rs/s/ehewh7/beej_s_guide_networking_concepts) - [Beej's Guide to Networking Concepts](https://beej.us/guide/bgnet0/)
 * [2024-01-30, 17:12:45](https://lobste.rs/s/fi0d4b/profiling_your_numba_code) - [Profiling your Numba code](https://pythonspeed.com/articles/numba-profiling/)
@@ -22,7 +23,6 @@
 * [2024-01-30, 03:30:24](https://lobste.rs/s/etmew8/foetus_termination_checker_for_simple) - [Foetus - Termination Checker for Simple Functional Programs](https://www2.tcs.ifi.lmu.de/~abel/foetus.pdf)
 * [2024-01-30, 02:47:10](https://lobste.rs/s/osjvni/notes_on_cruise_s_pedestrian_accident) - [Notes on Cruise's pedestrian accident](https://danluu.com/cruise-report/)
 * [2024-01-30, 00:08:25](https://lobste.rs/s/xisnkd/what_email_server_do_you_run) - [What email server do you run?](https://lobste.rs/s/xisnkd/what_email_server_do_you_run)
-* [2024-01-29, 20:09:01](https://lobste.rs/s/sheowl/option_soup_subtle_pitfalls_combining) - [Option Soup: the subtle pitfalls of combining compiler flags](https://hacks.mozilla.org/2024/01/option-soup-the-subtle-pitfalls-of-combining-compiler-flags/)
 * [2024-01-29, 19:09:54](https://lobste.rs/s/s6pnna/pg_analytics_transforming_postgres_into) - [pg_analytics: Transforming Postgres into a Very Fast Analytical Database](https://docs.paradedb.com/blog/introducing_analytics)
 * [2024-01-29, 09:13:33](https://lobste.rs/s/dt3l6s/i_just_wanted_emacs_look_nice_using_24_bit) - [I Just Wanted Emacs to Look Nice — Using 24-Bit Color in Terminals](https://chadaustin.me/2024/01/truecolor-terminal-emacs/)
 

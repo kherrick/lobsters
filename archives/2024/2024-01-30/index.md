@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
+* [2024-01-30, 22:42:17](https://lobste.rs/s/iiypjw/understanding_parquet_iceberg_data) - [Understanding Parquet, Iceberg and Data Lakehouses at Broad](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
+* [2024-01-30, 22:34:33](https://lobste.rs/s/4clpx7/lsm_week) - [LSM in a Week](https://skyzh.github.io/mini-lsm/)
 * [2024-01-30, 21:33:17](https://lobste.rs/s/sd6kxt/post_quantum_cryptography_for_go) - [Post-quantum Cryptography for the Go Ecosystem](https://words.filippo.io/dispatches/mlkem768/)
 * [2024-01-30, 20:57:47](https://lobste.rs/s/s4tlxq/rust_game_review) - [Rust, A Game Review](https://llogiq.github.io/2019/06/07/game.html)
 * [2024-01-30, 20:43:11](https://lobste.rs/s/rbmjxk/hacker_news_top_40_books_2023) - [The Hacker News Top 40 books of 2023](https://hnreads.com/post/top40_2023/)
