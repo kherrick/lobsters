@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-30, 16:04:07](https://lobste.rs/s/nvqn0q/native_apps_without_react_native) - [Native Apps without React Native](https://socketsupply.co/blog/native-apps-without-react-native/)
+* [2024-01-30, 16:02:59](https://lobste.rs/s/ty8pa7/constructing_four_point_egg_tony_finch) - [Constructing a four-point egg – Tony Finch](https://dotat.at/@/2024-01-29-four-point-egg.html)
 * [2024-01-30, 14:57:04](https://lobste.rs/s/buhd4e/postgresql_zero_downtime_reversible) - [PostgreSQL zero-downtime and reversible migrations](https://github.com/xataio/pgroll)
 * [2024-01-30, 14:42:30](https://lobste.rs/s/5xa3gt/farolero_common_lisp_style_conditions) - [farolero: Common Lisp style conditions and restarts for Clojure](https://github.com/IGJoshua/farolero)
 * [2024-01-30, 13:13:44](https://lobste.rs/s/fxmlj0/summercart64_fully_open_source_nintendo) - [SummerCart64 - a fully open source Nintendo 64 flashcart](https://github.com/Polprzewodnikowy/SummerCart64)
@@ -20,9 +22,7 @@
 * [2024-01-29, 12:52:13](https://lobste.rs/s/osuvwf/gnome_battery_charge_control) - [GNOME battery charge control](https://vdwaa.nl/gnome-upower-charge-thresholds.html#gnome-upower-charge-thresholds)
 * [2024-01-29, 11:02:15](https://lobste.rs/s/wneroe/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/wneroe/what_are_you_doing_this_week)
 * [2024-01-29, 11:00:38](https://lobste.rs/s/2lfpr8/predirect_extension_replace_popular) - [Predirect - Extension to replace popular sites with privacy front ends](https://github.com/libreom/predirect)
-* [2024-01-29, 09:46:58](https://lobste.rs/s/5rsuoa/effortless_emacs_multiple_major_modes) - [Effortless Emacs Multiple Major Modes with Polymode](https://www.skybluetrades.net/blog/2021/06/2021-06-05-effortless-emacs-mmm-with-polymode/)
 * [2024-01-29, 09:13:33](https://lobste.rs/s/dt3l6s/i_just_wanted_emacs_look_nice_using_24_bit) - [I Just Wanted Emacs to Look Nice — Using 24-Bit Color in Terminals](https://chadaustin.me/2024/01/truecolor-terminal-emacs/)
-* [2024-01-29, 08:32:13](https://lobste.rs/s/57301y/two_handy_gdb_breakpoint_tricks) - [Two handy GDB breakpoint tricks](https://nullprogram.com/blog/2024/01/28/)
 * [2024-01-28, 22:42:36](https://lobste.rs/s/liohii/what_s_new_go_slices_concat) - [What’s New in Go: slices.Concat](https://blog.carlana.net/post/2024/golang-slices-concat/)
 * [2024-01-28, 11:07:43](https://lobste.rs/s/d7hz75/loving_memory_square_checkbox) - [In Loving Memory of Square Checkbox](https://tonsky.me/blog/checkbox/)
 
