@@ -131,12 +131,12 @@
   ],
   [
     [
-      "2024-01-29, 17:32:51",
-      "https://lobste.rs/s/vncobf/client_side_pagination_with_range_over"
+      "2024-01-29, 17:29:08",
+      "https://lobste.rs/s/tuuxux/plock_from_anywhere_you_can_type_query"
     ],
     [
-      "Client-side pagination with range over functions",
-      "https://vladimir.varank.in/notes/2024/01/client-side-pagination-in-go-range-over-function-edition/"
+      "plock: From anywhere you can type, query and stream the output of an LLM or any other script",
+      "https://github.com/jasonjmcghee/plock"
     ]
   ],
   [
