@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-30, 20:43:11",
+      "https://lobste.rs/s/rbmjxk/hacker_news_top_40_books_2023"
+    ],
+    [
+      "The Hacker News Top 40 books of 2023",
+      "https://hnreads.com/post/top40_2023/"
+    ]
+  ],
+  [
+    [
+      "2024-01-30, 20:42:40",
+      "https://lobste.rs/s/2aeh8l/art_good_code_review"
+    ],
+    [
+      "The art of good code review",
+      "https://philbooth.me/blog/the-art-of-good-code-review"
+    ]
+  ],
+  [
+    [
       "2024-01-30, 20:16:20",
       "https://lobste.rs/s/ildyxu/building_gui_platform"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2024-01-29, 11:00:38",
-      "https://lobste.rs/s/2lfpr8/predirect_extension_replace_popular"
-    ],
-    [
-      "Predirect - Extension to replace popular sites with privacy front ends",
-      "https://github.com/libreom/predirect"
-    ]
-  ],
-  [
-    [
       "2024-01-29, 09:13:33",
       "https://lobste.rs/s/dt3l6s/i_just_wanted_emacs_look_nice_using_24_bit"
     ],
     [
       "I Just Wanted Emacs to Look Nice — Using 24-Bit Color in Terminals",
       "https://chadaustin.me/2024/01/truecolor-terminal-emacs/"
-    ]
-  ],
-  [
-    [
-      "2024-01-28, 22:42:36",
-      "https://lobste.rs/s/liohii/what_s_new_go_slices_concat"
-    ],
-    [
-      "What’s New in Go: slices.Concat",
-      "https://blog.carlana.net/post/2024/golang-slices-concat/"
     ]
   ]
 ]
