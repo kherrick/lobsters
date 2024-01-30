@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-30, 23:31:14](https://lobste.rs/s/wmr4x0/how_learn_nix_part_49_nix_direnv_is_huge) - [How to Learn Nix, Part 49: nix-direnv is a huge quality of life improvement](https://ianthehenry.com/posts/how-to-learn-nix/nix-direnv/)
 * [2024-01-30, 22:42:17](https://lobste.rs/s/iiypjw/understanding_parquet_iceberg_data) - [Understanding Parquet, Iceberg and Data Lakehouses at Broad](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
 * [2024-01-30, 22:34:33](https://lobste.rs/s/4clpx7/lsm_week) - [LSM in a Week](https://skyzh.github.io/mini-lsm/)
 * [2024-01-30, 21:33:17](https://lobste.rs/s/sd6kxt/post_quantum_cryptography_for_go) - [Post-quantum Cryptography for the Go Ecosystem](https://words.filippo.io/dispatches/mlkem768/)
@@ -20,7 +21,6 @@
 * [2024-01-30, 13:11:07](https://lobste.rs/s/0fkc0u/what_is_terminal_based_game_you_ve_played_s) - [What is a terminal-based game you've played that's worth mentioning?](https://lobste.rs/s/0fkc0u/what_is_terminal_based_game_you_ve_played_s)
 * [2024-01-30, 12:21:33](https://lobste.rs/s/umtmfy/self_hosted_media_center_based_on_open) - [Self-hosted media center, based on open source software](https://roussos.cc/2024/01/29/home-media-center/)
 * [2024-01-30, 06:25:21](https://lobste.rs/s/yhuepe/announcing_typescript_5_4_beta) - [Announcing TypeScript 5.4 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-4-beta/)
-* [2024-01-30, 03:30:24](https://lobste.rs/s/etmew8/foetus_termination_checker_for_simple) - [Foetus - Termination Checker for Simple Functional Programs](https://www2.tcs.ifi.lmu.de/~abel/foetus.pdf)
 * [2024-01-30, 02:47:10](https://lobste.rs/s/osjvni/notes_on_cruise_s_pedestrian_accident) - [Notes on Cruise's pedestrian accident](https://danluu.com/cruise-report/)
 * [2024-01-30, 00:08:25](https://lobste.rs/s/xisnkd/what_email_server_do_you_run) - [What email server do you run?](https://lobste.rs/s/xisnkd/what_email_server_do_you_run)
 * [2024-01-29, 19:09:54](https://lobste.rs/s/s6pnna/pg_analytics_transforming_postgres_into) - [pg_analytics: Transforming Postgres into a Very Fast Analytical Database](https://docs.paradedb.com/blog/introducing_analytics)
