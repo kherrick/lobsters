@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-30, 20:16:20",
+      "https://lobste.rs/s/ildyxu/building_gui_platform"
+    ],
+    [
+      "Building a GUI platform",
+      "https://lukewilliamboswell.github.io/roc-ray-experiment/"
+    ]
+  ],
+  [
+    [
       "2024-01-30, 20:07:46",
       "https://lobste.rs/s/qktfio/my_2023_homelab_setup"
     ],
@@ -137,16 +147,6 @@
     [
       "Self-hosted media center, based on open source software",
       "https://roussos.cc/2024/01/29/home-media-center/"
-    ]
-  ],
-  [
-    [
-      "2024-01-30, 08:54:25",
-      "https://lobste.rs/s/wk5xjl/learn_how_write_tcp_servers_using_rust_s"
-    ],
-    [
-      "Learn how to write TCP servers using Rust's std::net module",
-      "https://app.codecrafters.io/concepts/rust-tcp-server"
     ]
   ],
   [
