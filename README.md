@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-30, 14:57:04](https://lobste.rs/s/buhd4e/postgresql_zero_downtime_reversible) - [PostgreSQL zero-downtime and reversible migrations](https://github.com/xataio/pgroll)
 * [2024-01-30, 14:42:30](https://lobste.rs/s/5xa3gt/farolero_common_lisp_style_conditions) - [farolero: Common Lisp style conditions and restarts for Clojure](https://github.com/IGJoshua/farolero)
 * [2024-01-30, 13:13:44](https://lobste.rs/s/fxmlj0/summercart64_fully_open_source_nintendo) - [SummerCart64 - a fully open source Nintendo 64 flashcart](https://github.com/Polprzewodnikowy/SummerCart64)
 * [2024-01-30, 13:11:07](https://lobste.rs/s/0fkc0u/what_is_terminal_based_game_you_ve_played_s) - [What is a terminal-based game you've played that's worth mentioning?](https://lobste.rs/s/0fkc0u/what_is_terminal_based_game_you_ve_played_s)
@@ -19,7 +20,6 @@
 * [2024-01-29, 12:52:13](https://lobste.rs/s/osuvwf/gnome_battery_charge_control) - [GNOME battery charge control](https://vdwaa.nl/gnome-upower-charge-thresholds.html#gnome-upower-charge-thresholds)
 * [2024-01-29, 11:02:15](https://lobste.rs/s/wneroe/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/wneroe/what_are_you_doing_this_week)
 * [2024-01-29, 11:00:38](https://lobste.rs/s/2lfpr8/predirect_extension_replace_popular) - [Predirect - Extension to replace popular sites with privacy front ends](https://github.com/libreom/predirect)
-* [2024-01-29, 10:24:03](https://lobste.rs/s/7wnkek/skypad) - [Skypad](https://skypad.matthewphillips.info)
 * [2024-01-29, 09:46:58](https://lobste.rs/s/5rsuoa/effortless_emacs_multiple_major_modes) - [Effortless Emacs Multiple Major Modes with Polymode](https://www.skybluetrades.net/blog/2021/06/2021-06-05-effortless-emacs-mmm-with-polymode/)
 * [2024-01-29, 09:13:33](https://lobste.rs/s/dt3l6s/i_just_wanted_emacs_look_nice_using_24_bit) - [I Just Wanted Emacs to Look Nice — Using 24-Bit Color in Terminals](https://chadaustin.me/2024/01/truecolor-terminal-emacs/)
 * [2024-01-29, 08:32:13](https://lobste.rs/s/57301y/two_handy_gdb_breakpoint_tricks) - [Two handy GDB breakpoint tricks](https://nullprogram.com/blog/2024/01/28/)
