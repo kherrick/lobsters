@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-30, 22:42:17",
+      "https://lobste.rs/s/iiypjw/understanding_parquet_iceberg_data"
+    ],
+    [
+      "Understanding Parquet, Iceberg and Data Lakehouses at Broad",
+      "https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/"
+    ]
+  ],
+  [
+    [
+      "2024-01-30, 22:34:33",
+      "https://lobste.rs/s/4clpx7/lsm_week"
+    ],
+    [
+      "LSM in a Week",
+      "https://skyzh.github.io/mini-lsm/"
+    ]
+  ],
+  [
+    [
       "2024-01-30, 21:33:17",
       "https://lobste.rs/s/sd6kxt/post_quantum_cryptography_for_go"
     ],
@@ -47,16 +67,6 @@
     [
       "My 2023 Homelab Setup",
       "https://mudkip.me/2024/01/31/My-2023-Homelab-Setup/"
-    ]
-  ],
-  [
-    [
-      "2024-01-30, 19:42:35",
-      "https://lobste.rs/s/id5g1z/positional_arguments"
-    ],
-    [
-      "Positional Arguments",
-      "https://noelrappin.com/blog/2024/01/better-know-positional-arguments/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "What email server do you run?",
       "https://lobste.rs/s/xisnkd/what_email_server_do_you_run"
-    ]
-  ],
-  [
-    [
-      "2024-01-29, 20:09:01",
-      "https://lobste.rs/s/sheowl/option_soup_subtle_pitfalls_combining"
-    ],
-    [
-      "Option Soup: the subtle pitfalls of combining compiler flags",
-      "https://hacks.mozilla.org/2024/01/option-soup-the-subtle-pitfalls-of-combining-compiler-flags/"
     ]
   ],
   [
