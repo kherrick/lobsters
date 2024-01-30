@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
+* [2024-01-30, 08:17:23](https://lobste.rs/s/zqqmeo/fast_query_performance_with_mysql) - [Fast query performance with MySQL Hypergraph Optimizer for HeatWave](https://blogs.oracle.com/mysql/post/fast-query-performance-with-mysql-hypergraph-optimizer-for-heatwave)
 * [2024-01-30, 07:21:47](https://lobste.rs/s/owqhwu/scatteralloc_massively_parallel) - [ScatterAlloc: Massively Parallel Dynamic Memory Allocation for the GPU](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=802fed876e180f32c06ede4d1cc951ba44f79dd2)
 * [2024-01-30, 06:38:23](https://lobste.rs/s/botjfd/automating_my_backups_with_restic) - [Automating my backups with restic and anacron](https://ntietz.com/blog/automating-my-laptop-backups/)
 * [2024-01-30, 06:25:21](https://lobste.rs/s/yhuepe/announcing_typescript_5_4_beta) - [Announcing TypeScript 5.4 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-4-beta/)

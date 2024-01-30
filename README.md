@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-30, 08:17:23](https://lobste.rs/s/zqqmeo/fast_query_performance_with_mysql) - [Fast query performance with MySQL Hypergraph Optimizer for HeatWave](https://blogs.oracle.com/mysql/post/fast-query-performance-with-mysql-hypergraph-optimizer-for-heatwave)
 * [2024-01-30, 07:21:47](https://lobste.rs/s/owqhwu/scatteralloc_massively_parallel) - [ScatterAlloc: Massively Parallel Dynamic Memory Allocation for the GPU](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=802fed876e180f32c06ede4d1cc951ba44f79dd2)
 * [2024-01-30, 06:38:23](https://lobste.rs/s/botjfd/automating_my_backups_with_restic) - [Automating my backups with restic and anacron](https://ntietz.com/blog/automating-my-laptop-backups/)
 * [2024-01-30, 06:25:21](https://lobste.rs/s/yhuepe/announcing_typescript_5_4_beta) - [Announcing TypeScript 5.4 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-4-beta/)
@@ -21,7 +22,6 @@
 * [2024-01-29, 09:46:58](https://lobste.rs/s/5rsuoa/effortless_emacs_multiple_major_modes) - [Effortless Emacs Multiple Major Modes with Polymode](https://www.skybluetrades.net/blog/2021/06/2021-06-05-effortless-emacs-mmm-with-polymode/)
 * [2024-01-29, 09:13:33](https://lobste.rs/s/dt3l6s/i_just_wanted_emacs_look_nice_using_24_bit) - [I Just Wanted Emacs to Look Nice — Using 24-Bit Color in Terminals](https://chadaustin.me/2024/01/truecolor-terminal-emacs/)
 * [2024-01-29, 08:32:13](https://lobste.rs/s/57301y/two_handy_gdb_breakpoint_tricks) - [Two handy GDB breakpoint tricks](https://nullprogram.com/blog/2024/01/28/)
-* [2024-01-29, 06:16:42](https://lobste.rs/s/mr8am4/eagle_7b_soaring_past_transformers_with_1) - [Eagle 7B: Soaring past Transformers with 1 Trillion Tokens Across 100+ Languages](https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers)
 * [2024-01-28, 22:42:36](https://lobste.rs/s/liohii/what_s_new_go_slices_concat) - [What’s New in Go: slices.Concat](https://blog.carlana.net/post/2024/golang-slices-concat/)
 * [2024-01-28, 14:49:26](https://lobste.rs/s/xphqpc/new_github_copilot_research_finds) - [New GitHub Copilot Research Finds 'Downward Pressure on Code Quality'](https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx)
 * [2024-01-28, 11:07:43](https://lobste.rs/s/d7hz75/loving_memory_square_checkbox) - [In Loving Memory of Square Checkbox](https://tonsky.me/blog/checkbox/)
