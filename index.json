@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-30, 20:57:47",
+      "https://lobste.rs/s/s4tlxq/rust_game_review"
+    ],
+    [
+      "Rust, A Game Review",
+      "https://llogiq.github.io/2019/06/07/game.html"
+    ]
+  ],
+  [
+    [
       "2024-01-30, 20:43:11",
       "https://lobste.rs/s/rbmjxk/hacker_news_top_40_books_2023"
     ],
@@ -227,16 +237,6 @@
     [
       "pg_analytics: Transforming Postgres into a Very Fast Analytical Database",
       "https://docs.paradedb.com/blog/introducing_analytics"
-    ]
-  ],
-  [
-    [
-      "2024-01-29, 12:52:13",
-      "https://lobste.rs/s/osuvwf/gnome_battery_charge_control"
-    ],
-    [
-      "GNOME battery charge control",
-      "https://vdwaa.nl/gnome-upower-charge-thresholds.html#gnome-upower-charge-thresholds"
     ]
   ],
   [
