@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-30, 19:42:35](https://lobste.rs/s/id5g1z/better_know_ruby_thing_3_positional) - [Better Know A Ruby Thing #3: Positional Arguments](https://noelrappin.com/blog/2024/01/better-know-positional-arguments/)
 * [2024-01-30, 19:11:15](https://lobste.rs/s/bejkkg/errno_libc) - [errno and libc](https://dxuuu.xyz/errno.html)
 * [2024-01-30, 18:53:03](https://lobste.rs/s/ehewh7/beej_s_guide_networking_concepts) - [Beej's Guide to Networking Concepts](https://beej.us/guide/bgnet0/)
 * [2024-01-30, 17:12:45](https://lobste.rs/s/fi0d4b/profiling_your_numba_code) - [Profiling your Numba code](https://pythonspeed.com/articles/numba-profiling/)
@@ -13,7 +14,6 @@
 * [2024-01-30, 13:11:07](https://lobste.rs/s/0fkc0u/what_is_terminal_based_game_you_ve_played_s) - [What is a terminal-based game you've played that's worth mentioning?](https://lobste.rs/s/0fkc0u/what_is_terminal_based_game_you_ve_played_s)
 * [2024-01-30, 12:21:33](https://lobste.rs/s/umtmfy/self_hosted_media_center_based_on_open) - [Self-hosted media center, based on open source software](https://roussos.cc/2024/01/29/home-media-center/)
 * [2024-01-30, 08:54:25](https://lobste.rs/s/wk5xjl/learn_how_write_tcp_servers_using_rust_s) - [Learn how to write TCP servers using Rust's std::net module](https://app.codecrafters.io/concepts/rust-tcp-server)
-* [2024-01-30, 08:17:23](https://lobste.rs/s/zqqmeo/fast_query_performance_with_mysql) - [Fast query performance with MySQL Hypergraph Optimizer for HeatWave](https://blogs.oracle.com/mysql/post/fast-query-performance-with-mysql-hypergraph-optimizer-for-heatwave)
 * [2024-01-30, 06:38:23](https://lobste.rs/s/botjfd/automating_my_backups_with_restic) - [Automating my backups with restic and anacron](https://ntietz.com/blog/automating-my-laptop-backups/)
 * [2024-01-30, 06:25:21](https://lobste.rs/s/yhuepe/announcing_typescript_5_4_beta) - [Announcing TypeScript 5.4 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-4-beta/)
 * [2024-01-30, 03:30:24](https://lobste.rs/s/etmew8/foetus_termination_checker_for_simple) - [Foetus - Termination Checker for Simple Functional Programs](https://www2.tcs.ifi.lmu.de/~abel/foetus.pdf)
