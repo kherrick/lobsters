@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-30, 06:25:21](https://lobste.rs/s/yhuepe/announcing_typescript_5_4_beta) - [Announcing TypeScript 5.4 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-4-beta/)
 * [2024-01-30, 03:30:24](https://lobste.rs/s/etmew8/foetus_termination_checker_for_simple) - [Foetus - Termination Checker for Simple Functional Programs](https://www2.tcs.ifi.lmu.de/~abel/foetus.pdf)
 * [2024-01-30, 03:03:30](https://lobste.rs/s/v9jyn1/some_use_cases_for_revert_layer) - [Some use cases for revert-layer](https://www.mayank.co/blog/revert-layer/)
 * [2024-01-30, 02:47:10](https://lobste.rs/s/osjvni/notes_on_cruise_s_pedestrian_accident) - [Notes on Cruise's pedestrian accident](https://danluu.com/cruise-report/)
@@ -14,7 +15,6 @@
 * [2024-01-29, 16:36:53](https://lobste.rs/s/zjdodr/what_i_talk_about_when_i_talk_about_query) - [What I Talk About When I Talk About Query Optimizer (Part 1): IR Design](https://xuanwo.io/2024/02-what-i-talk-about-when-i-talk-about-query-optimizer-part-1/)
 * [2024-01-29, 14:12:26](https://lobste.rs/s/1eioyj/stem_interpreted_concatenative) - [Stem: An interpreted concatenative language with a foreign language interface](https://ret2pop.nullring.xyz/blog/stem.html)
 * [2024-01-29, 12:52:13](https://lobste.rs/s/osuvwf/gnome_battery_charge_control) - [GNOME battery charge control](https://vdwaa.nl/gnome-upower-charge-thresholds.html#gnome-upower-charge-thresholds)
-* [2024-01-29, 12:36:04](https://lobste.rs/s/3qm3cg/introducing_solid_errors) - [Introducing Solid Errors](https://fractaledmind.github.io/2024/01/28/introducing-solid-errors/)
 * [2024-01-29, 11:02:15](https://lobste.rs/s/wneroe/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/wneroe/what_are_you_doing_this_week)
 * [2024-01-29, 11:00:38](https://lobste.rs/s/2lfpr8/predirect_extension_replace_popular) - [Predirect - Extension to replace popular sites with privacy front ends](https://github.com/libreom/predirect)
 * [2024-01-29, 10:24:03](https://lobste.rs/s/7wnkek/skypad) - [Skypad](https://skypad.matthewphillips.info)

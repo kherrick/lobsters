@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-30](index.md)
 
+* [2024-01-30, 06:25:21](https://lobste.rs/s/yhuepe/announcing_typescript_5_4_beta) - [Announcing TypeScript 5.4 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-4-beta/)
 * [2024-01-30, 03:30:24](https://lobste.rs/s/etmew8/foetus_termination_checker_for_simple) - [Foetus - Termination Checker for Simple Functional Programs](https://www2.tcs.ifi.lmu.de/~abel/foetus.pdf)
 * [2024-01-30, 03:03:30](https://lobste.rs/s/v9jyn1/some_use_cases_for_revert_layer) - [Some use cases for revert-layer](https://www.mayank.co/blog/revert-layer/)
 * [2024-01-30, 02:47:10](https://lobste.rs/s/osjvni/notes_on_cruise_s_pedestrian_accident) - [Notes on Cruise's pedestrian accident](https://danluu.com/cruise-report/)
