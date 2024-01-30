@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-30, 20:57:47](https://lobste.rs/s/s4tlxq/rust_game_review) - [Rust, A Game Review](https://llogiq.github.io/2019/06/07/game.html)
 * [2024-01-30, 20:43:11](https://lobste.rs/s/rbmjxk/hacker_news_top_40_books_2023) - [The Hacker News Top 40 books of 2023](https://hnreads.com/post/top40_2023/)
 * [2024-01-30, 20:42:40](https://lobste.rs/s/2aeh8l/art_good_code_review) - [The art of good code review](https://philbooth.me/blog/the-art-of-good-code-review)
 * [2024-01-30, 20:16:20](https://lobste.rs/s/ildyxu/building_gui_platform) - [Building a GUI platform](https://lukewilliamboswell.github.io/roc-ray-experiment/)
@@ -23,7 +24,6 @@
 * [2024-01-30, 00:08:25](https://lobste.rs/s/xisnkd/what_email_server_do_you_run) - [What email server do you run?](https://lobste.rs/s/xisnkd/what_email_server_do_you_run)
 * [2024-01-29, 20:09:01](https://lobste.rs/s/sheowl/option_soup_subtle_pitfalls_combining) - [Option Soup: the subtle pitfalls of combining compiler flags](https://hacks.mozilla.org/2024/01/option-soup-the-subtle-pitfalls-of-combining-compiler-flags/)
 * [2024-01-29, 19:09:54](https://lobste.rs/s/s6pnna/pg_analytics_transforming_postgres_into) - [pg_analytics: Transforming Postgres into a Very Fast Analytical Database](https://docs.paradedb.com/blog/introducing_analytics)
-* [2024-01-29, 12:52:13](https://lobste.rs/s/osuvwf/gnome_battery_charge_control) - [GNOME battery charge control](https://vdwaa.nl/gnome-upower-charge-thresholds.html#gnome-upower-charge-thresholds)
 * [2024-01-29, 09:13:33](https://lobste.rs/s/dt3l6s/i_just_wanted_emacs_look_nice_using_24_bit) - [I Just Wanted Emacs to Look Nice — Using 24-Bit Color in Terminals](https://chadaustin.me/2024/01/truecolor-terminal-emacs/)
 
 ## [Archives](archives/index.md)
