@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-30, 16:54:02](https://lobste.rs/s/7dy4fe/daily_driving_pinephone_pro) - [Daily Driving the Pinephone Pro](https://zerwuerfnis.org/daily-driving-the-pinephone-pro)
 * [2024-01-30, 16:35:42](https://lobste.rs/s/cfc5dy/guile_hoot_v0_3_0_released) - [Guile Hoot v0.3.0 released](https://spritely.institute/news/guile-hoot-v030-released.html)
 * [2024-01-30, 16:31:23](https://lobste.rs/s/qukknr/tour_lisps) - [A Tour of the Lisps](https://www.fosskers.ca/en/blog/rounds-of-lisp)
 * [2024-01-30, 16:04:07](https://lobste.rs/s/nvqn0q/native_apps_without_react_native) - [Native Apps without React Native](https://socketsupply.co/blog/native-apps-without-react-native/)
@@ -24,7 +25,6 @@
 * [2024-01-29, 11:00:38](https://lobste.rs/s/2lfpr8/predirect_extension_replace_popular) - [Predirect - Extension to replace popular sites with privacy front ends](https://github.com/libreom/predirect)
 * [2024-01-29, 09:13:33](https://lobste.rs/s/dt3l6s/i_just_wanted_emacs_look_nice_using_24_bit) - [I Just Wanted Emacs to Look Nice — Using 24-Bit Color in Terminals](https://chadaustin.me/2024/01/truecolor-terminal-emacs/)
 * [2024-01-28, 22:42:36](https://lobste.rs/s/liohii/what_s_new_go_slices_concat) - [What’s New in Go: slices.Concat](https://blog.carlana.net/post/2024/golang-slices-concat/)
-* [2024-01-28, 11:07:43](https://lobste.rs/s/d7hz75/loving_memory_square_checkbox) - [In Loving Memory of Square Checkbox](https://tonsky.me/blog/checkbox/)
 
 ## [Archives](archives/index.md)
 
