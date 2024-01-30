@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-01-30, 16:35:42",
+      "https://lobste.rs/s/cfc5dy/guile_hoot_v0_3_0_released"
+    ],
+    [
+      "Guile Hoot v0.3.0 released",
+      "https://spritely.institute/news/guile-hoot-v030-released.html"
+    ]
+  ],
+  [
+    [
+      "2024-01-30, 16:31:23",
+      "https://lobste.rs/s/qukknr/tour_lisps"
+    ],
+    [
+      "A Tour of the Lisps",
+      "https://www.fosskers.ca/en/blog/rounds-of-lisp"
+    ]
+  ],
+  [
+    [
       "2024-01-30, 16:04:07",
       "https://lobste.rs/s/nvqn0q/native_apps_without_react_native"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-01-30, 03:03:30",
-      "https://lobste.rs/s/v9jyn1/some_use_cases_for_revert_layer"
-    ],
-    [
-      "Some use cases for revert-layer",
-      "https://www.mayank.co/blog/revert-layer/"
-    ]
-  ],
-  [
-    [
       "2024-01-30, 02:47:10",
       "https://lobste.rs/s/osjvni/notes_on_cruise_s_pedestrian_accident"
     ],
@@ -177,16 +187,6 @@
     [
       "pg_analytics: Transforming Postgres into a Very Fast Analytical Database",
       "https://docs.paradedb.com/blog/introducing_analytics"
-    ]
-  ],
-  [
-    [
-      "2024-01-29, 14:12:26",
-      "https://lobste.rs/s/1eioyj/stem_interpreted_concatenative"
-    ],
-    [
-      "Stem: An interpreted concatenative language with a foreign language interface",
-      "https://ret2pop.nullring.xyz/blog/stem.html"
     ]
   ],
   [
