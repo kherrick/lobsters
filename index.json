@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-30, 20:07:46",
+      "https://lobste.rs/s/qktfio/my_2023_homelab_setup"
+    ],
+    [
+      "My 2023 Homelab Setup",
+      "https://mudkip.me/2024/01/31/My-2023-Homelab-Setup/"
+    ]
+  ],
+  [
+    [
       "2024-01-30, 19:42:35",
       "https://lobste.rs/s/id5g1z/positional_arguments"
     ],
@@ -137,16 +147,6 @@
     [
       "Learn how to write TCP servers using Rust's std::net module",
       "https://app.codecrafters.io/concepts/rust-tcp-server"
-    ]
-  ],
-  [
-    [
-      "2024-01-30, 06:38:23",
-      "https://lobste.rs/s/botjfd/automating_my_backups_with_restic"
-    ],
-    [
-      "Automating my backups with restic and anacron",
-      "https://ntietz.com/blog/automating-my-laptop-backups/"
     ]
   ],
   [
