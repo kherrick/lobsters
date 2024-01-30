@@ -13,7 +13,7 @@
 * [2024-01-29, 20:17:10](https://lobste.rs/s/frgffg/benchmarking_grace_hopper_cpu_gpu) - [Benchmarking Grace Hopper CPU+GPU \"Superchip\"](https://blog.hpc.qmul.ac.uk/benchmarking-grace-hopper-nodes/)
 * [2024-01-29, 20:09:01](https://lobste.rs/s/sheowl/option_soup_subtle_pitfalls_combining) - [Option Soup: the subtle pitfalls of combining compiler flags](https://hacks.mozilla.org/2024/01/option-soup-the-subtle-pitfalls-of-combining-compiler-flags/)
 * [2024-01-29, 19:09:54](https://lobste.rs/s/s6pnna/pg_analytics_transforming_postgres_into) - [pg_analytics: Transforming Postgres into a Very Fast Analytical Database](https://docs.paradedb.com/blog/introducing_analytics)
-* [2024-01-29, 17:32:51](https://lobste.rs/s/vncobf/client_side_pagination_with_range_over) - [Client-side pagination with range over functions](https://vladimir.varank.in/notes/2024/01/client-side-pagination-in-go-range-over-function-edition/)
+* [2024-01-29, 17:29:08](https://lobste.rs/s/tuuxux/plock_from_anywhere_you_can_type_query) - [plock: From anywhere you can type, query and stream the output of an LLM or any other script](https://github.com/jasonjmcghee/plock)
 * [2024-01-29, 14:12:26](https://lobste.rs/s/1eioyj/stem_interpreted_concatenative) - [Stem: An interpreted concatenative language with a foreign language interface](https://ret2pop.nullring.xyz/blog/stem.html)
 * [2024-01-29, 12:52:13](https://lobste.rs/s/osuvwf/gnome_battery_charge_control) - [GNOME battery charge control](https://vdwaa.nl/gnome-upower-charge-thresholds.html#gnome-upower-charge-thresholds)
 * [2024-01-29, 11:02:15](https://lobste.rs/s/wneroe/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/wneroe/what_are_you_doing_this_week)
