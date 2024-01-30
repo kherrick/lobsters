@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-30, 02:47:10",
+      "https://lobste.rs/s/osjvni/notes_on_cruise_s_pedestrian_accident"
+    ],
+    [
+      "Notes on Cruise's pedestrian accident",
+      "https://danluu.com/cruise-report/"
+    ]
+  ],
+  [
+    [
       "2024-01-30, 00:35:51",
       "https://lobste.rs/s/nn3cug/it_s_behind_you_making_computer_game"
     ],
@@ -27,16 +37,6 @@
     [
       "Benchmarking Grace Hopper CPU+GPU \"Superchip\"",
       "https://blog.hpc.qmul.ac.uk/benchmarking-grace-hopper-nodes/"
-    ]
-  ],
-  [
-    [
-      "2024-01-29, 20:09:01",
-      "https://lobste.rs/s/sheowl/option_soup_subtle_pitfalls_combining"
-    ],
-    [
-      "Option Soup: the subtle pitfalls of combining compiler flags",
-      "https://hacks.mozilla.org/2024/01/option-soup-the-subtle-pitfalls-of-combining-compiler-flags/"
     ]
   ],
   [
