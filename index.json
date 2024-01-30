@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-30, 21:33:17",
+      "https://lobste.rs/s/sd6kxt/post_quantum_cryptography_for_go"
+    ],
+    [
+      "Post-quantum Cryptography for the Go Ecosystem",
+      "https://words.filippo.io/dispatches/mlkem768/"
+    ]
+  ],
+  [
+    [
       "2024-01-30, 20:57:47",
       "https://lobste.rs/s/s4tlxq/rust_game_review"
     ],
@@ -217,16 +227,6 @@
     [
       "What email server do you run?",
       "https://lobste.rs/s/xisnkd/what_email_server_do_you_run"
-    ]
-  ],
-  [
-    [
-      "2024-01-29, 20:09:01",
-      "https://lobste.rs/s/sheowl/option_soup_subtle_pitfalls_combining"
-    ],
-    [
-      "Option Soup: the subtle pitfalls of combining compiler flags",
-      "https://hacks.mozilla.org/2024/01/option-soup-the-subtle-pitfalls-of-combining-compiler-flags/"
     ]
   ],
   [
