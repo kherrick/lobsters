@@ -21,10 +21,10 @@
 * [2024-01-30, 16:31:23](https://lobste.rs/s/qukknr/tour_lisps) - [A Tour of the Lisps](https://www.fosskers.ca/en/blog/rounds-of-lisp)
 * [2024-01-30, 16:02:59](https://lobste.rs/s/ty8pa7/constructing_four_point_egg) - [Constructing a four-point egg](https://dotat.at/@/2024-01-29-four-point-egg.html)
 * [2024-01-30, 14:57:04](https://lobste.rs/s/buhd4e/postgresql_zero_downtime_reversible) - [PostgreSQL zero-downtime and reversible migrations](https://github.com/xataio/pgroll)
-* [2024-01-30, 13:13:44](https://lobste.rs/s/fxmlj0/summercart64_fully_open_source_nintendo) - [SummerCart64 - a fully open source Nintendo 64 flashcart](https://github.com/Polprzewodnikowy/SummerCart64)
 * [2024-01-30, 13:11:07](https://lobste.rs/s/0fkc0u/what_is_terminal_based_game_you_ve_played_s) - [What is a terminal-based game you've played that's worth mentioning?](https://lobste.rs/s/0fkc0u/what_is_terminal_based_game_you_ve_played_s)
 * [2024-01-30, 12:21:33](https://lobste.rs/s/umtmfy/self_hosted_media_center_based_on_open) - [Self-hosted media center, based on open source software](https://roussos.cc/2024/01/29/home-media-center/)
 * [2024-01-30, 02:47:10](https://lobste.rs/s/osjvni/notes_on_cruise_s_pedestrian_accident) - [Notes on Cruise's pedestrian accident](https://danluu.com/cruise-report/)
+* [2024-01-30, 00:08:25](https://lobste.rs/s/xisnkd/what_email_server_do_you_run) - [What email server do you run?](https://lobste.rs/s/xisnkd/what_email_server_do_you_run)
 
 ## [Archives](archives/index.md)
 
