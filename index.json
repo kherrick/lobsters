@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-01-31, 16:32:39",
-      "https://lobste.rs/s/vvvf85/ksql"
-    ],
-    [
-      "ksql",
-      "http://nsl.com/k/ksql.k"
-    ]
-  ],
-  [
-    [
       "2024-01-31, 15:47:00",
       "https://lobste.rs/s/6hajy0/vision_pro_review_24_hours_with_apple_s"
     ],
@@ -67,6 +57,16 @@
     [
       "Slint 1.4 Released with additional Look and Improved APIs",
       "https://slint.dev/blog/slint-1.4-released"
+    ]
+  ],
+  [
+    [
+      "2024-01-31, 12:46:03",
+      "https://lobste.rs/s/rkqyhb/go_memory_metrics_demystified"
+    ],
+    [
+      "Go memory metrics demystified",
+      "https://www.datadoghq.com/blog/go-memory-metrics/"
     ]
   ],
   [
