@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
+* [2024-01-31, 17:23:06](https://lobste.rs/s/ynseu1/sega_ai) - [Sega AI](https://www.smspower.org/SegaAI/)
 * [2024-01-31, 16:51:15](https://lobste.rs/s/2al7mx/xfaas_hyperscale_low_cost_serverless) - [XFaaS: Hyperscale and Low Cost Serverless Functions at Meta](https://www.micahlerner.com/2024/01/23/xfaas-hyperscale-and-low-cost-serverless-functions-at-meta.html)
 * [2024-01-31, 16:34:04](https://lobste.rs/s/otafh3/lottie_format_on_road_become_standard) - [Lottie format on the road to become a standard, joins Linux foundation](https://www.lottielab.com/blog/lottie-joins-linux-foundation)
 * [2024-01-31, 16:32:39](https://lobste.rs/s/vvvf85/ksql) - [ksql](http://nsl.com/k/ksql.k)
