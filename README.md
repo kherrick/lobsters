@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-31, 12:46:03](https://lobste.rs/s/rkqyhb/go_memory_metrics_demystified) - [Go memory metrics demystified](https://www.datadoghq.com/blog/go-memory-metrics/)
 * [2024-01-31, 12:08:27](https://lobste.rs/s/ffjpdh/theory_concatenative_combinators) - [The Theory of Concatenative Combinators](http://tunes.org/~iepos/joy.html)
 * [2024-01-31, 11:17:59](https://lobste.rs/s/ndgfgv/gtk_broadway_windowing_system) - [Gtk: The Broadway windowing system](https://docs.gtk.org/gtk4/broadway.html)
 * [2024-01-31, 10:02:28](https://lobste.rs/s/xydlkq/new_linux_glibc_flaw_lets_attackers_get) - [New Linux glibc flaw lets attackers get root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-glibc-flaw-lets-attackers-get-root-on-major-distros/)
@@ -18,7 +19,6 @@
 * [2024-01-30, 16:31:23](https://lobste.rs/s/qukknr/tour_lisps) - [A Tour of the Lisps](https://www.fosskers.ca/en/blog/rounds-of-lisp)
 * [2024-01-30, 16:02:59](https://lobste.rs/s/ty8pa7/constructing_four_point_egg) - [Constructing a four-point egg](https://dotat.at/@/2024-01-29-four-point-egg.html)
 * [2024-01-30, 14:57:04](https://lobste.rs/s/buhd4e/postgresql_zero_downtime_reversible) - [PostgreSQL zero-downtime and reversible migrations](https://github.com/xataio/pgroll)
-* [2024-01-30, 14:42:30](https://lobste.rs/s/5xa3gt/farolero_common_lisp_style_conditions) - [farolero: Common Lisp style conditions and restarts for Clojure](https://github.com/IGJoshua/farolero)
 * [2024-01-30, 13:13:44](https://lobste.rs/s/fxmlj0/summercart64_fully_open_source_nintendo) - [SummerCart64 - a fully open source Nintendo 64 flashcart](https://github.com/Polprzewodnikowy/SummerCart64)
 * [2024-01-30, 13:11:07](https://lobste.rs/s/0fkc0u/what_is_terminal_based_game_you_ve_played_s) - [What is a terminal-based game you've played that's worth mentioning?](https://lobste.rs/s/0fkc0u/what_is_terminal_based_game_you_ve_played_s)
 * [2024-01-30, 12:21:33](https://lobste.rs/s/umtmfy/self_hosted_media_center_based_on_open) - [Self-hosted media center, based on open source software](https://roussos.cc/2024/01/29/home-media-center/)
