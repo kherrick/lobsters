@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
+* [2024-01-31, 19:24:54](https://lobste.rs/s/awkjch/si_units_for_request_rate) - [SI Units for Request Rate](https://two-wrongs.com/si-units-for-request-rate)
 * [2024-01-31, 17:47:35](https://lobste.rs/s/lqyiz1/brief_summary_evolutionary_design) - [A Brief Summary of Evolutionary Design](https://codingitwrong.com/2024/01/29/brief-summary-of-evolutionary-design)
 * [2024-01-31, 17:23:06](https://lobste.rs/s/ynseu1/sega_ai) - [Sega AI](https://www.smspower.org/SegaAI/)
 * [2024-01-31, 16:51:15](https://lobste.rs/s/2al7mx/xfaas_hyperscale_low_cost_serverless) - [XFaaS: Hyperscale and Low Cost Serverless Functions at Meta](https://www.micahlerner.com/2024/01/23/xfaas-hyperscale-and-low-cost-serverless-functions-at-meta.html)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-31, 19:24:54](https://lobste.rs/s/awkjch/si_units_for_request_rate) - [SI Units for Request Rate](https://two-wrongs.com/si-units-for-request-rate)
 * [2024-01-31, 17:23:06](https://lobste.rs/s/ynseu1/sega_ai) - [Sega AI](https://www.smspower.org/SegaAI/)
 * [2024-01-31, 16:34:04](https://lobste.rs/s/otafh3/lottie_format_on_road_become_standard) - [Lottie format on the road to become a standard, joins Linux foundation](https://www.lottielab.com/blog/lottie-joins-linux-foundation)
 * [2024-01-31, 16:32:39](https://lobste.rs/s/vvvf85/ksql) - [ksql](http://nsl.com/k/ksql.k)
@@ -24,7 +25,6 @@
 * [2024-01-30, 16:02:59](https://lobste.rs/s/ty8pa7/constructing_four_point_egg) - [Constructing a four-point egg](https://dotat.at/@/2024-01-29-four-point-egg.html)
 * [2024-01-30, 13:11:07](https://lobste.rs/s/0fkc0u/what_is_terminal_based_game_you_ve_played_s) - [What is a terminal-based game you've played that's worth mentioning?](https://lobste.rs/s/0fkc0u/what_is_terminal_based_game_you_ve_played_s)
 * [2024-01-30, 12:21:33](https://lobste.rs/s/umtmfy/self_hosted_media_center_based_on_open) - [Self-hosted media center, based on open source software](https://roussos.cc/2024/01/29/home-media-center/)
-* [2024-01-30, 02:47:10](https://lobste.rs/s/osjvni/notes_on_cruise_s_pedestrian_accident) - [Notes on Cruise's pedestrian accident](https://danluu.com/cruise-report/)
 
 ## [Archives](archives/index.md)
 
