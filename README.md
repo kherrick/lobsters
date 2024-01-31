@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-31, 15:36:00](https://lobste.rs/s/2eosdi/what_hosting_provider_do_you_use_for) - [What hosting provider do you use for outgoing SMTP?](https://lobste.rs/s/2eosdi/what_hosting_provider_do_you_use_for)
 * [2024-01-31, 15:04:49](https://lobste.rs/s/vwgmz0/jepsen_ravendb_6_0_2) - [Jepsen: RavenDB 6.0.2](https://jepsen.io/analyses/ravendb-6.0.2)
 * [2024-01-31, 15:02:58](https://lobste.rs/s/gnwij3/macaroons_escalated_quickly) - [Macaroons Escalated Quickly](https://fly.io/blog/macaroons-escalated-quickly/)
 * [2024-01-31, 13:54:02](https://lobste.rs/s/pp9lzp/slint_1_4_released_with_additional_look) - [Slint 1.4 Released with additional Look and Improved APIs](https://slint.dev/blog/slint-1.4-released)
@@ -11,7 +12,6 @@
 * [2024-01-31, 08:44:12](https://lobste.rs/s/1uyzfs/web_performance_inequality_gap_2024) - [The Web Performance Inequality Gap, 2024](https://infrequently.org/2024/01/performance-inequality-gap-2024/)
 * [2024-01-30, 23:31:14](https://lobste.rs/s/wmr4x0/nix_direnv_is_huge_quality_life) - [nix-direnv is a huge quality of life improvement](https://ianthehenry.com/posts/how-to-learn-nix/nix-direnv/)
 * [2024-01-30, 21:33:17](https://lobste.rs/s/sd6kxt/post_quantum_cryptography_for_go) - [Post-quantum Cryptography for the Go Ecosystem](https://words.filippo.io/dispatches/mlkem768/)
-* [2024-01-30, 20:57:47](https://lobste.rs/s/s4tlxq/rust_game_review) - [Rust, A Game Review](https://llogiq.github.io/2019/06/07/game.html)
 * [2024-01-30, 20:42:40](https://lobste.rs/s/2aeh8l/art_good_code_review) - [The art of good code review](https://philbooth.me/blog/the-art-of-good-code-review)
 * [2024-01-30, 20:16:20](https://lobste.rs/s/ildyxu/building_gui_platform) - [Building a GUI platform](https://lukewilliamboswell.github.io/roc-ray-experiment/)
 * [2024-01-30, 20:07:46](https://lobste.rs/s/qktfio/my_2023_homelab_setup) - [My 2023 Homelab Setup](https://mudkip.me/2024/01/31/My-2023-Homelab-Setup/)

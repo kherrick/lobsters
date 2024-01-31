@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
+* [2024-01-31, 15:36:00](https://lobste.rs/s/2eosdi/what_hosting_provider_do_you_use_for) - [What hosting provider do you use for outgoing SMTP?](https://lobste.rs/s/2eosdi/what_hosting_provider_do_you_use_for)
 * [2024-01-31, 15:04:49](https://lobste.rs/s/vwgmz0/jepsen_ravendb_6_0_2) - [Jepsen: RavenDB 6.0.2](https://jepsen.io/analyses/ravendb-6.0.2)
 * [2024-01-31, 15:02:58](https://lobste.rs/s/gnwij3/macaroons_escalated_quickly) - [Macaroons Escalated Quickly](https://fly.io/blog/macaroons-escalated-quickly/)
 * [2024-01-31, 13:54:02](https://lobste.rs/s/pp9lzp/slint_1_4_released_with_additional_look) - [Slint 1.4 Released with additional Look and Improved APIs](https://slint.dev/blog/slint-1.4-released)
