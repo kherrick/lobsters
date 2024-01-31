@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-31, 15:04:49](https://lobste.rs/s/vwgmz0/jepsen_ravendb_6_0_2) - [Jepsen: RavenDB 6.0.2](https://jepsen.io/analyses/ravendb-6.0.2)
+* [2024-01-31, 15:02:58](https://lobste.rs/s/gnwij3/macaroons_escalated_quickly) - [Macaroons Escalated Quickly](https://fly.io/blog/macaroons-escalated-quickly/)
 * [2024-01-31, 13:54:02](https://lobste.rs/s/pp9lzp/slint_1_4_released_with_additional_look) - [Slint 1.4 Released with additional Look and Improved APIs](https://slint.dev/blog/slint-1.4-released)
 * [2024-01-31, 13:39:29](https://lobste.rs/s/nxcrgl/introducing_foundations_our_open_source) - [Introducing Foundations - our open source Rust service foundation library](https://blog.cloudflare.com/introducing-foundations-our-open-source-rust-service-foundation-library)
-* [2024-01-31, 12:46:03](https://lobste.rs/s/rkqyhb/go_memory_metrics_demystified) - [Go memory metrics demystified](https://www.datadoghq.com/blog/go-memory-metrics/)
 * [2024-01-31, 12:08:27](https://lobste.rs/s/ffjpdh/theory_concatenative_combinators) - [The Theory of Concatenative Combinators](http://tunes.org/~iepos/joy.html)
 * [2024-01-31, 11:17:59](https://lobste.rs/s/ndgfgv/gtk_broadway_windowing_system) - [Gtk: The Broadway windowing system](https://docs.gtk.org/gtk4/broadway.html)
 * [2024-01-31, 10:02:28](https://lobste.rs/s/xydlkq/new_linux_glibc_flaw_lets_attackers_get) - [New Linux glibc flaw lets attackers get root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-glibc-flaw-lets-attackers-get-root-on-major-distros/)
@@ -24,7 +25,6 @@
 * [2024-01-30, 13:11:07](https://lobste.rs/s/0fkc0u/what_is_terminal_based_game_you_ve_played_s) - [What is a terminal-based game you've played that's worth mentioning?](https://lobste.rs/s/0fkc0u/what_is_terminal_based_game_you_ve_played_s)
 * [2024-01-30, 12:21:33](https://lobste.rs/s/umtmfy/self_hosted_media_center_based_on_open) - [Self-hosted media center, based on open source software](https://roussos.cc/2024/01/29/home-media-center/)
 * [2024-01-30, 02:47:10](https://lobste.rs/s/osjvni/notes_on_cruise_s_pedestrian_accident) - [Notes on Cruise's pedestrian accident](https://danluu.com/cruise-report/)
-* [2024-01-30, 00:08:25](https://lobste.rs/s/xisnkd/what_email_server_do_you_run) - [What email server do you run?](https://lobste.rs/s/xisnkd/what_email_server_do_you_run)
 
 ## [Archives](archives/index.md)
 
