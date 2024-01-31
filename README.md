@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-31, 12:08:27](https://lobste.rs/s/ffjpdh/theory_concatenative_combinators) - [The Theory of Concatenative Combinators](http://tunes.org/~iepos/joy.html)
 * [2024-01-31, 11:17:59](https://lobste.rs/s/ndgfgv/gtk_broadway_windowing_system) - [Gtk: The Broadway windowing system](https://docs.gtk.org/gtk4/broadway.html)
 * [2024-01-31, 10:02:28](https://lobste.rs/s/xydlkq/new_linux_glibc_flaw_lets_attackers_get) - [New Linux glibc flaw lets attackers get root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-glibc-flaw-lets-attackers-get-root-on-major-distros/)
 * [2024-01-31, 09:10:31](https://lobste.rs/s/kh6mxo/separation_concerns_cross_compilation) - [Separation of Concerns in Cross-Compilation](https://nixcademy.com/2024/01/30/cross-compilation-with-nix/)
 * [2024-01-31, 08:44:12](https://lobste.rs/s/1uyzfs/web_performance_inequality_gap_2024) - [The Web Performance Inequality Gap, 2024](https://infrequently.org/2024/01/performance-inequality-gap-2024/)
-* [2024-01-31, 02:01:40](https://lobste.rs/s/qpjn5y/reverse_engineering_dos_software_as_if_it) - [Reverse Engineering DOS Software as if It Were 1990](https://and0uille.net/misc/debug90.html)
 * [2024-01-30, 23:31:14](https://lobste.rs/s/wmr4x0/nix_direnv_is_huge_quality_life) - [nix-direnv is a huge quality of life improvement](https://ianthehenry.com/posts/how-to-learn-nix/nix-direnv/)
 * [2024-01-30, 21:33:17](https://lobste.rs/s/sd6kxt/post_quantum_cryptography_for_go) - [Post-quantum Cryptography for the Go Ecosystem](https://words.filippo.io/dispatches/mlkem768/)
 * [2024-01-30, 20:57:47](https://lobste.rs/s/s4tlxq/rust_game_review) - [Rust, A Game Review](https://llogiq.github.io/2019/06/07/game.html)
