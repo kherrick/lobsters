@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-31, 17:47:35",
+      "https://lobste.rs/s/lqyiz1/brief_summary_evolutionary_design"
+    ],
+    [
+      "A Brief Summary of Evolutionary Design",
+      "https://codingitwrong.com/2024/01/29/brief-summary-of-evolutionary-design"
+    ]
+  ],
+  [
+    [
       "2024-01-31, 17:23:06",
       "https://lobste.rs/s/ynseu1/sega_ai"
     ],
@@ -67,16 +77,6 @@
     [
       "Slint 1.4 Released with additional Look and Improved APIs",
       "https://slint.dev/blog/slint-1.4-released"
-    ]
-  ],
-  [
-    [
-      "2024-01-31, 13:39:29",
-      "https://lobste.rs/s/nxcrgl/introducing_foundations_our_open_source"
-    ],
-    [
-      "Introducing Foundations - our open source Rust service foundation library",
-      "https://blog.cloudflare.com/introducing-foundations-our-open-source-rust-service-foundation-library"
     ]
   ],
   [
