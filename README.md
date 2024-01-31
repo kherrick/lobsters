@@ -17,6 +17,7 @@
 * [2024-01-30, 23:31:14](https://lobste.rs/s/wmr4x0/nix_direnv_is_huge_quality_life) - [nix-direnv is a huge quality of life improvement](https://ianthehenry.com/posts/how-to-learn-nix/nix-direnv/)
 * [2024-01-30, 21:33:17](https://lobste.rs/s/sd6kxt/post_quantum_cryptography_for_go) - [Post-quantum Cryptography for the Go Ecosystem](https://words.filippo.io/dispatches/mlkem768/)
 * [2024-01-30, 20:42:40](https://lobste.rs/s/2aeh8l/art_good_code_review) - [The art of good code review](https://philbooth.me/blog/the-art-of-good-code-review)
+* [2024-01-30, 20:07:46](https://lobste.rs/s/qktfio/my_2023_homelab_setup) - [My 2023 Homelab Setup](https://mudkip.me/2024/01/31/My-2023-Homelab-Setup/)
 * [2024-01-30, 19:11:15](https://lobste.rs/s/bejkkg/errno_libc) - [errno and libc](https://dxuuu.xyz/errno.html)
 * [2024-01-30, 18:53:03](https://lobste.rs/s/ehewh7/beej_s_guide_networking_concepts) - [Beej's Guide to Networking Concepts](https://beej.us/guide/bgnet0/)
 * [2024-01-30, 16:54:02](https://lobste.rs/s/7dy4fe/daily_driving_pinephone_pro) - [Daily Driving the Pinephone Pro](https://zerwuerfnis.org/daily-driving-the-pinephone-pro)
@@ -24,7 +25,6 @@
 * [2024-01-30, 16:31:23](https://lobste.rs/s/qukknr/tour_lisps) - [A Tour of the Lisps](https://www.fosskers.ca/en/blog/rounds-of-lisp)
 * [2024-01-30, 16:02:59](https://lobste.rs/s/ty8pa7/constructing_four_point_egg) - [Constructing a four-point egg](https://dotat.at/@/2024-01-29-four-point-egg.html)
 * [2024-01-30, 13:11:07](https://lobste.rs/s/0fkc0u/what_is_terminal_based_game_you_ve_played_s) - [What is a terminal-based game you've played that's worth mentioning?](https://lobste.rs/s/0fkc0u/what_is_terminal_based_game_you_ve_played_s)
-* [2024-01-30, 12:21:33](https://lobste.rs/s/umtmfy/self_hosted_media_center_based_on_open) - [Self-hosted media center, based on open source software](https://roussos.cc/2024/01/29/home-media-center/)
 
 ## [Archives](archives/index.md)
 
