@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-31, 02:01:40](https://lobste.rs/s/qpjn5y/reverse_engineering_dos_software_as_if_it) - [Reverse Engineering DOS Software as if It Were 1990](https://and0uille.net/misc/debug90.html)
 * [2024-01-30, 23:31:14](https://lobste.rs/s/wmr4x0/nix_direnv_is_huge_quality_life) - [nix-direnv is a huge quality of life improvement](https://ianthehenry.com/posts/how-to-learn-nix/nix-direnv/)
 * [2024-01-30, 22:42:17](https://lobste.rs/s/iiypjw/understanding_parquet_iceberg_data) - [Understanding Parquet, Iceberg and Data Lakehouses at Broad](https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/)
 * [2024-01-30, 22:34:33](https://lobste.rs/s/4clpx7/lsm_week) - [LSM in a Week](https://skyzh.github.io/mini-lsm/)
@@ -24,7 +25,6 @@
 * [2024-01-30, 02:47:10](https://lobste.rs/s/osjvni/notes_on_cruise_s_pedestrian_accident) - [Notes on Cruise's pedestrian accident](https://danluu.com/cruise-report/)
 * [2024-01-30, 00:08:25](https://lobste.rs/s/xisnkd/what_email_server_do_you_run) - [What email server do you run?](https://lobste.rs/s/xisnkd/what_email_server_do_you_run)
 * [2024-01-29, 19:09:54](https://lobste.rs/s/s6pnna/pg_analytics_transforming_postgres_into) - [pg_analytics: Transforming Postgres into a Very Fast Analytical Database](https://docs.paradedb.com/blog/introducing_analytics)
-* [2024-01-29, 09:13:33](https://lobste.rs/s/dt3l6s/i_just_wanted_emacs_look_nice_using_24_bit) - [I Just Wanted Emacs to Look Nice — Using 24-Bit Color in Terminals](https://chadaustin.me/2024/01/truecolor-terminal-emacs/)
 
 ## [Archives](archives/index.md)
 
