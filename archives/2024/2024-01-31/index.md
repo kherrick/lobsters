@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
+* [2024-01-31, 13:54:02](https://lobste.rs/s/pp9lzp/slint_1_4_released_with_additional_look) - [Slint 1.4 Released with additional Look and Improved APIs](https://slint.dev/blog/slint-1.4-released)
 * [2024-01-31, 13:39:29](https://lobste.rs/s/nxcrgl/introducing_foundations_our_open_source) - [Introducing Foundations - our open source Rust service foundation library](https://blog.cloudflare.com/introducing-foundations-our-open-source-rust-service-foundation-library)
 * [2024-01-31, 12:46:03](https://lobste.rs/s/rkqyhb/go_memory_metrics_demystified) - [Go memory metrics demystified](https://www.datadoghq.com/blog/go-memory-metrics/)
 * [2024-01-31, 12:08:27](https://lobste.rs/s/ffjpdh/theory_concatenative_combinators) - [The Theory of Concatenative Combinators](http://tunes.org/~iepos/joy.html)
