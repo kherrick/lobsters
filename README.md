@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-01-31, 17:47:35](https://lobste.rs/s/lqyiz1/brief_summary_evolutionary_design) - [A Brief Summary of Evolutionary Design](https://codingitwrong.com/2024/01/29/brief-summary-of-evolutionary-design)
 * [2024-01-31, 17:23:06](https://lobste.rs/s/ynseu1/sega_ai) - [Sega AI](https://www.smspower.org/SegaAI/)
 * [2024-01-31, 16:34:04](https://lobste.rs/s/otafh3/lottie_format_on_road_become_standard) - [Lottie format on the road to become a standard, joins Linux foundation](https://www.lottielab.com/blog/lottie-joins-linux-foundation)
 * [2024-01-31, 15:47:00](https://lobste.rs/s/6hajy0/vision_pro_review_24_hours_with_apple_s) - [Vision Pro Review: 24 Hours With Apple’s Mixed-Reality Headset](https://www.youtube.com/watch?v=8xI10SFgzQ8)
@@ -7,7 +8,6 @@
 * [2024-01-31, 15:04:49](https://lobste.rs/s/vwgmz0/jepsen_ravendb_6_0_2) - [Jepsen: RavenDB 6.0.2](https://jepsen.io/analyses/ravendb-6.0.2)
 * [2024-01-31, 15:02:58](https://lobste.rs/s/gnwij3/macaroons_escalated_quickly) - [Macaroons Escalated Quickly](https://fly.io/blog/macaroons-escalated-quickly/)
 * [2024-01-31, 13:54:02](https://lobste.rs/s/pp9lzp/slint_1_4_released_with_additional_look) - [Slint 1.4 Released with additional Look and Improved APIs](https://slint.dev/blog/slint-1.4-released)
-* [2024-01-31, 13:39:29](https://lobste.rs/s/nxcrgl/introducing_foundations_our_open_source) - [Introducing Foundations - our open source Rust service foundation library](https://blog.cloudflare.com/introducing-foundations-our-open-source-rust-service-foundation-library)
 * [2024-01-31, 12:08:27](https://lobste.rs/s/ffjpdh/theory_concatenative_combinators) - [The Theory of Concatenative Combinators](http://tunes.org/~iepos/joy.html)
 * [2024-01-31, 11:17:59](https://lobste.rs/s/ndgfgv/gtk_broadway_windowing_system) - [Gtk: The Broadway windowing system](https://docs.gtk.org/gtk4/broadway.html)
 * [2024-01-31, 10:02:28](https://lobste.rs/s/xydlkq/new_linux_glibc_flaw_lets_attackers_get) - [New Linux glibc flaw lets attackers get root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-glibc-flaw-lets-attackers-get-root-on-major-distros/)
