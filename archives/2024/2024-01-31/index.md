@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-01-31](index.md)
 
+* [2024-01-31, 19:56:22](https://lobste.rs/s/hinemr/ollama_bot_bridge_irc_lmms_running) - [ollama-bot: Bridge IRC to LMMs running locally](https://2mb.codes/~cmb/ollama-bot)
 * [2024-01-31, 19:24:54](https://lobste.rs/s/awkjch/si_units_for_request_rate) - [SI Units for Request Rate](https://two-wrongs.com/si-units-for-request-rate)
 * [2024-01-31, 17:47:35](https://lobste.rs/s/lqyiz1/brief_summary_evolutionary_design) - [A Brief Summary of Evolutionary Design](https://codingitwrong.com/2024/01/29/brief-summary-of-evolutionary-design)
 * [2024-01-31, 17:23:06](https://lobste.rs/s/ynseu1/sega_ai) - [Sega AI](https://www.smspower.org/SegaAI/)
