@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-01-31, 02:01:40",
+      "https://lobste.rs/s/qpjn5y/reverse_engineering_dos_software_as_if_it"
+    ],
+    [
+      "Reverse Engineering DOS Software as if It Were 1990",
+      "https://and0uille.net/misc/debug90.html"
+    ]
+  ],
+  [
+    [
       "2024-01-30, 23:31:14",
       "https://lobste.rs/s/wmr4x0/nix_direnv_is_huge_quality_life"
     ],
@@ -237,16 +247,6 @@
     [
       "pg_analytics: Transforming Postgres into a Very Fast Analytical Database",
       "https://docs.paradedb.com/blog/introducing_analytics"
-    ]
-  ],
-  [
-    [
-      "2024-01-29, 09:13:33",
-      "https://lobste.rs/s/dt3l6s/i_just_wanted_emacs_look_nice_using_24_bit"
-    ],
-    [
-      "I Just Wanted Emacs to Look Nice — Using 24-Bit Color in Terminals",
-      "https://chadaustin.me/2024/01/truecolor-terminal-emacs/"
     ]
   ]
 ]
