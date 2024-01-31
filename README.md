@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-01-31, 17:47:35](https://lobste.rs/s/lqyiz1/brief_summary_evolutionary_design) - [A Brief Summary of Evolutionary Design](https://codingitwrong.com/2024/01/29/brief-summary-of-evolutionary-design)
 * [2024-01-31, 17:23:06](https://lobste.rs/s/ynseu1/sega_ai) - [Sega AI](https://www.smspower.org/SegaAI/)
 * [2024-01-31, 16:34:04](https://lobste.rs/s/otafh3/lottie_format_on_road_become_standard) - [Lottie format on the road to become a standard, joins Linux foundation](https://www.lottielab.com/blog/lottie-joins-linux-foundation)
+* [2024-01-31, 16:32:39](https://lobste.rs/s/vvvf85/ksql) - [ksql](http://nsl.com/k/ksql.k)
 * [2024-01-31, 15:47:00](https://lobste.rs/s/6hajy0/vision_pro_review_24_hours_with_apple_s) - [Vision Pro Review: 24 Hours With Apple’s Mixed-Reality Headset](https://www.youtube.com/watch?v=8xI10SFgzQ8)
 * [2024-01-31, 15:36:00](https://lobste.rs/s/2eosdi/what_hosting_provider_do_you_use_for) - [What hosting provider do you use for outgoing SMTP?](https://lobste.rs/s/2eosdi/what_hosting_provider_do_you_use_for)
 * [2024-01-31, 15:04:49](https://lobste.rs/s/vwgmz0/jepsen_ravendb_6_0_2) - [Jepsen: RavenDB 6.0.2](https://jepsen.io/analyses/ravendb-6.0.2)
