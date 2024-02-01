@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
+* [2024-02-01, 22:52:49](https://lobste.rs/s/6waryx/simplisafe_video_doorbell_halt_catch) - [SimpliSafe Video Doorbell: Halt and Catch Fire](https://www.jeffgeerling.com/blog/2024/simplisafe-video-doorbell-halt-and-catch-fire)
 * [2024-02-01, 22:08:24](https://lobste.rs/s/feniaz/deno_1_40_temporal_api) - [Deno 1.40: Temporal API](https://deno.com/blog/v1.40)
 * [2024-02-01, 21:27:19](https://lobste.rs/s/chv80z/sporth_stack_based_audio_programming) - [Sporth - a stack-based audio programming language](https://paulbatchelor.github.io/proj/sporth)
 * [2024-02-01, 21:08:12](https://lobste.rs/s/ltbr96/aliorc_combination_maxcompute_apache) - [AliORC: A Combination of MaxCompute and Apache ORC](https://www.alibabacloud.com/blog/aliorc-a-combination-of-maxcompute-and-apache-orc_595359)

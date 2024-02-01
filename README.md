@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-01, 22:52:49](https://lobste.rs/s/6waryx/simplisafe_video_doorbell_halt_catch) - [SimpliSafe Video Doorbell: Halt and Catch Fire](https://www.jeffgeerling.com/blog/2024/simplisafe-video-doorbell-halt-and-catch-fire)
 * [2024-02-01, 22:08:24](https://lobste.rs/s/feniaz/deno_1_40_temporal_api) - [Deno 1.40: Temporal API](https://deno.com/blog/v1.40)
 * [2024-02-01, 21:27:19](https://lobste.rs/s/chv80z/sporth_stack_based_audio_programming) - [Sporth - a stack-based audio programming language](https://paulbatchelor.github.io/proj/sporth)
 * [2024-02-01, 20:47:39](https://lobste.rs/s/yghu48/cloudflare_thanksgiving_2023_security) - [Cloudflare Thanksgiving 2023 security incident](https://blog.cloudflare.com/thanksgiving-2023-security-incident/)
@@ -22,7 +23,6 @@
 * [2024-02-01, 01:57:09](https://lobste.rs/s/egggbo/twine_open_source_multiplatform_rss_app) - [Twine a open source multiplatform RSS app](https://github.com/msasikanth/twine)
 * [2024-02-01, 01:56:42](https://lobste.rs/s/4cpvyh/making_pdf_s_larger_than_germany) - [Making a PDF that’s larger than Germany](https://alexwlchan.net/2024/big-pdf/)
 * [2024-01-31, 19:24:54](https://lobste.rs/s/awkjch/si_units_for_request_rate) - [SI Units for Request Rate](https://two-wrongs.com/si-units-for-request-rate)
-* [2024-01-31, 17:23:06](https://lobste.rs/s/ynseu1/sega_ai) - [Sega AI](https://www.smspower.org/SegaAI/)
 * [2024-01-31, 15:36:00](https://lobste.rs/s/2eosdi/what_hosting_provider_do_you_use_for) - [What hosting provider do you use for outgoing SMTP?](https://lobste.rs/s/2eosdi/what_hosting_provider_do_you_use_for)
 * [2024-01-31, 15:04:49](https://lobste.rs/s/vwgmz0/jepsen_ravendb_6_0_2) - [Jepsen: RavenDB 6.0.2](https://jepsen.io/analyses/ravendb-6.0.2)
 
