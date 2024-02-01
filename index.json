@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-01, 15:24:09",
+      "https://lobste.rs/s/jfxp39/new_concurrent_ml"
+    ],
+    [
+      "a new concurrent ml",
+      "http://wingolog.org/archives/2017/06/29/a-new-concurrent-ml"
+    ]
+  ],
+  [
+    [
       "2024-02-01, 15:18:57",
       "https://lobste.rs/s/o6wzot/greybeard_s_tomb_lost_treasure_language"
     ],
@@ -57,16 +67,6 @@
     [
       "The Core of Verse & Haskell, with Simon Peyton Jones",
       "https://youtu.be/UBgam9XUHs0"
-    ]
-  ],
-  [
-    [
-      "2024-02-01, 07:27:26",
-      "https://lobste.rs/s/jm0xhz/aerugo_rtos_for_aerospace_uses_written"
-    ],
-    [
-      "Aerugo - RTOS for aerospace uses written in Rust",
-      "https://github.com/n7space/aerugo"
     ]
   ],
   [
