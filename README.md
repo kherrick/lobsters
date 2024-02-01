@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-01, 06:26:02](https://lobste.rs/s/mpquwk/llava_1_6_improved_reasoning_ocr_world) - [LLaVA-1.6: Improved reasoning, OCR, and world knowledge](https://llava-vl.github.io/blog/2024-01-30-llava-1-6/)
 * [2024-02-01, 06:06:58](https://lobste.rs/s/4uk5sh/ubuntu_generic_vs_low_latency_linux) - [Ubuntu Generic vs. Low-Latency Linux Kernel Benchmarks For HPC & Desktop](https://www.phoronix.com/news/Ubuntu-Generic-LL-Kernel)
 * [2024-02-01, 05:56:32](https://lobste.rs/s/1cdu1j/accesskit_ui_accessibility) - [AccessKit: UI accessibility infrastructure across platforms and programming languages](https://github.com/AccessKit/accesskit)
 * [2024-02-01, 05:28:23](https://lobste.rs/s/xzvqw2/raw_symbol_names_inline_assembly) - [Raw symbol names in inline assembly](https://maskray.me/blog/2024-01-30-raw-symbol-names-in-inline-assembly)
@@ -7,7 +8,6 @@
 * [2024-02-01, 03:51:25](https://lobste.rs/s/ol0ec2/content_hashing_static_assets_break) - [Content hashing static assets to break caches with md5sum and bash](https://robertwpearce.com/content-hashing-static-assets-to-break-caches-with-md5sum-and-bash.html)
 * [2024-02-01, 01:57:09](https://lobste.rs/s/egggbo/twine_open_source_multiplatform_rss_app) - [Twine a open source multiplatform RSS app](https://github.com/msasikanth/twine)
 * [2024-02-01, 01:56:42](https://lobste.rs/s/4cpvyh/making_pdf_s_larger_than_germany) - [Making a PDF that’s larger than Germany](https://alexwlchan.net/2024/big-pdf/)
-* [2024-01-31, 23:58:21](https://lobste.rs/s/fxjfam/on_demand_fork_microsecond_fork_for) - [On-demand-fork: A Microsecond Fork for Memory-Intensive and Latency-Sensitive Applications](https://www.cs.purdue.edu/homes/pfonseca/papers/eurosys21-odf.pdf)
 * [2024-01-31, 23:03:38](https://lobste.rs/s/quvbso/container_breakout_through_process_cwd) - [container breakout through process.cwd trickery and leaked fds](https://github.com/opencontainers/runc/security/advisories/GHSA-xr7r-f8xq-vfvv)
 * [2024-01-31, 19:56:22](https://lobste.rs/s/hinemr/ollama_bot_bridge_irc_lmms_running) - [ollama-bot: Bridge IRC to LMMs running locally](https://2mb.codes/~cmb/ollama-bot)
 * [2024-01-31, 19:24:54](https://lobste.rs/s/awkjch/si_units_for_request_rate) - [SI Units for Request Rate](https://two-wrongs.com/si-units-for-request-rate)
