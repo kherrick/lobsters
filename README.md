@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-01, 16:38:10](https://lobste.rs/s/ycyae5/simple_functional_effects_with_tag) - [Simple Functional Effects with Tag Unions (2022)](https://www.youtube.com/watch?v=7SidSvJcPd0)
 * [2024-02-01, 16:22:41](https://lobste.rs/s/lorgj9/dealing_with_diverged_git_branches) - [Dealing with diverged git branches](https://jvns.ca/blog/2024/02/01/dealing-with-diverged-git-branches/)
 * [2024-02-01, 15:24:09](https://lobste.rs/s/jfxp39/new_concurrent_ml) - [a new concurrent ml](http://wingolog.org/archives/2017/06/29/a-new-concurrent-ml)
 * [2024-02-01, 15:18:57](https://lobste.rs/s/o6wzot/greybeard_s_tomb_lost_treasure_language) - [Greybeard's tomb: the lost treasure of language design](https://michael.orlitzky.com/articles/greybeards_tomb%3A_the_lost_treasure_of_language_design.xhtml)
@@ -11,7 +12,6 @@
 * [2024-02-01, 06:26:02](https://lobste.rs/s/mpquwk/llava_1_6_improved_reasoning_ocr_world) - [LLaVA-1.6: Improved reasoning, OCR, and world knowledge](https://llava-vl.github.io/blog/2024-01-30-llava-1-6/)
 * [2024-02-01, 06:06:58](https://lobste.rs/s/4uk5sh/ubuntu_generic_vs_low_latency_linux) - [Ubuntu Generic vs. Low-Latency Linux Kernel Benchmarks For HPC & Desktop](https://www.phoronix.com/news/Ubuntu-Generic-LL-Kernel)
 * [2024-02-01, 05:56:32](https://lobste.rs/s/1cdu1j/accesskit_ui_accessibility) - [AccessKit: UI accessibility infrastructure across platforms and programming languages](https://github.com/AccessKit/accesskit)
-* [2024-02-01, 05:28:23](https://lobste.rs/s/xzvqw2/raw_symbol_names_inline_assembly) - [Raw symbol names in inline assembly](https://maskray.me/blog/2024-01-30-raw-symbol-names-in-inline-assembly)
 * [2024-02-01, 05:20:50](https://lobste.rs/s/ulfdn2/i_know_languages_have_support_for_read) - [I know languages that have support for “read-only memory,” but what about “write-only memory?”](https://boston.conman.org/2024/01/31.3)
 * [2024-02-01, 03:51:25](https://lobste.rs/s/ol0ec2/content_hashing_static_assets_break) - [Content hashing static assets to break caches with md5sum and bash](https://robertwpearce.com/content-hashing-static-assets-to-break-caches-with-md5sum-and-bash.html)
 * [2024-02-01, 01:57:09](https://lobste.rs/s/egggbo/twine_open_source_multiplatform_rss_app) - [Twine a open source multiplatform RSS app](https://github.com/msasikanth/twine)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
+* [2024-02-01, 16:38:10](https://lobste.rs/s/ycyae5/simple_functional_effects_with_tag) - [Simple Functional Effects with Tag Unions (2022)](https://www.youtube.com/watch?v=7SidSvJcPd0)
 * [2024-02-01, 16:22:41](https://lobste.rs/s/lorgj9/dealing_with_diverged_git_branches) - [Dealing with diverged git branches](https://jvns.ca/blog/2024/02/01/dealing-with-diverged-git-branches/)
 * [2024-02-01, 15:24:09](https://lobste.rs/s/jfxp39/new_concurrent_ml) - [a new concurrent ml](http://wingolog.org/archives/2017/06/29/a-new-concurrent-ml)
 * [2024-02-01, 15:18:57](https://lobste.rs/s/o6wzot/greybeard_s_tomb_lost_treasure_language) - [Greybeard's tomb: the lost treasure of language design](https://michael.orlitzky.com/articles/greybeards_tomb%3A_the_lost_treasure_of_language_design.xhtml)
