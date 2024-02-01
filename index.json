@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-01, 07:27:26",
+      "https://lobste.rs/s/jm0xhz/aerugo_rtos_for_aerospace_uses_written"
+    ],
+    [
+      "Aerugo - RTOS for aerospace uses written in Rust",
+      "https://github.com/n7space/aerugo"
+    ]
+  ],
+  [
+    [
       "2024-02-01, 07:17:04",
       "https://lobste.rs/s/etk8jc/leaky_vessels_docker_runc_container"
     ],
@@ -227,16 +237,6 @@
     [
       "The Web Performance Inequality Gap, 2024",
       "https://infrequently.org/2024/01/performance-inequality-gap-2024/"
-    ]
-  ],
-  [
-    [
-      "2024-01-30, 23:31:14",
-      "https://lobste.rs/s/wmr4x0/nix_direnv_is_huge_quality_life"
-    ],
-    [
-      "nix-direnv is a huge quality of life improvement",
-      "https://ianthehenry.com/posts/how-to-learn-nix/nix-direnv/"
     ]
   ],
   [
