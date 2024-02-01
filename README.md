@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-01, 19:25:48](https://lobste.rs/s/1kq6od/migrating_our_ios_build_system_from_buck) - [Migrating Our iOS Build System from Buck to Bazel](https://medium.com/airbnb-engineering/migrating-our-ios-build-system-from-buck-to-bazel-ddd6f3f25aa3)
 * [2024-02-01, 18:08:58](https://lobste.rs/s/uuf3b5/tweaking_slime_xref_for_remote_images) - [Tweaking SLIME Xref for Remote Images](https://blog.funcall.org//lisp/2024/01/31/slime-xref/)
 * [2024-02-01, 17:56:25](https://lobste.rs/s/x04rk0/announcing_interop_2024) - [Announcing Interop 2024](https://hacks.mozilla.org/2024/02/announcing-interop-2024/)
 * [2024-02-01, 16:44:05](https://lobste.rs/s/picjyi/captivating_summer_2007) - [A captivating summer 2007](https://fabiensanglard.net/iSummer/index.html)
 * [2024-02-01, 16:38:10](https://lobste.rs/s/ycyae5/simple_functional_effects_with_tag) - [Simple Functional Effects with Tag Unions (2022)](https://www.youtube.com/watch?v=7SidSvJcPd0)
 * [2024-02-01, 15:24:09](https://lobste.rs/s/jfxp39/new_concurrent_ml_2017) - [a new concurrent ml (2017)](http://wingolog.org/archives/2017/06/29/a-new-concurrent-ml)
-* [2024-02-01, 15:18:57](https://lobste.rs/s/o6wzot/greybeard_s_tomb_lost_treasure_language) - [Greybeard's tomb: the lost treasure of language design](https://michael.orlitzky.com/articles/greybeards_tomb%3A_the_lost_treasure_of_language_design.xhtml)
 * [2024-02-01, 13:57:35](https://lobste.rs/s/sxmrfg/typestate_new_design_pattern_swift_5_9) - [Typestate - the new Design Pattern in Swift 5.9](https://swiftology.io/articles/typestate/)
 * [2024-02-01, 13:48:27](https://lobste.rs/s/yycnxk/damn_small_linux_2024) - [Damn Small Linux 2024](https://www.damnsmalllinux.org/)
 * [2024-02-01, 13:25:06](https://lobste.rs/s/tirnmc/debugging_mixed_python_c_language_stack) - [Debugging a Mixed Python and C Language Stack](https://developer.nvidia.com/blog/debugging-mixed-python-and-c-language-stack/)
