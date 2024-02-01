@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-01, 07:27:26](https://lobste.rs/s/jm0xhz/aerugo_rtos_for_aerospace_uses_written) - [Aerugo - RTOS for aerospace uses written in Rust](https://github.com/n7space/aerugo)
 * [2024-02-01, 07:17:04](https://lobste.rs/s/etk8jc/leaky_vessels_docker_runc_container) - [Leaky Vessels: Docker and runc Container Breakout Vulnerabilities](https://snyk.io/blog/leaky-vessels-docker-runc-container-breakout-vulnerabilities/)
 * [2024-02-01, 06:45:40](https://lobste.rs/s/hdz1xg/semantics_mmio_mapping_attributes) - [Semantics of MMIO mapping attributes across architectures](https://lwn.net/Articles/698014/)
 * [2024-02-01, 06:26:02](https://lobste.rs/s/mpquwk/llava_1_6_improved_reasoning_ocr_world) - [LLaVA-1.6: Improved reasoning, OCR, and world knowledge](https://llava-vl.github.io/blog/2024-01-30-llava-1-6/)
@@ -23,7 +24,6 @@
 * [2024-01-31, 11:17:59](https://lobste.rs/s/ndgfgv/gtk_broadway_windowing_system) - [Gtk: The Broadway windowing system](https://docs.gtk.org/gtk4/broadway.html)
 * [2024-01-31, 10:02:28](https://lobste.rs/s/xydlkq/new_linux_glibc_flaw_lets_attackers_get) - [New Linux glibc flaw lets attackers get root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-glibc-flaw-lets-attackers-get-root-on-major-distros/)
 * [2024-01-31, 08:44:12](https://lobste.rs/s/1uyzfs/web_performance_inequality_gap_2024) - [The Web Performance Inequality Gap, 2024](https://infrequently.org/2024/01/performance-inequality-gap-2024/)
-* [2024-01-30, 23:31:14](https://lobste.rs/s/wmr4x0/nix_direnv_is_huge_quality_life) - [nix-direnv is a huge quality of life improvement](https://ianthehenry.com/posts/how-to-learn-nix/nix-direnv/)
 * [2024-01-30, 18:53:03](https://lobste.rs/s/ehewh7/beej_s_guide_networking_concepts) - [Beej's Guide to Networking Concepts](https://beej.us/guide/bgnet0/)
 
 ## [Archives](archives/index.md)
