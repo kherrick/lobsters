@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
+* [2024-02-01, 07:17:04](https://lobste.rs/s/etk8jc/leaky_vessels_docker_runc_container) - [Leaky Vessels: Docker and runc Container Breakout Vulnerabilities](https://snyk.io/blog/leaky-vessels-docker-runc-container-breakout-vulnerabilities/)
 * [2024-02-01, 06:45:40](https://lobste.rs/s/hdz1xg/semantics_mmio_mapping_attributes) - [Semantics of MMIO mapping attributes across architectures](https://lwn.net/Articles/698014/)
 * [2024-02-01, 06:26:02](https://lobste.rs/s/mpquwk/llava_1_6_improved_reasoning_ocr_world) - [LLaVA-1.6: Improved reasoning, OCR, and world knowledge](https://llava-vl.github.io/blog/2024-01-30-llava-1-6/)
 * [2024-02-01, 06:06:58](https://lobste.rs/s/4uk5sh/ubuntu_generic_vs_low_latency_linux) - [Ubuntu Generic vs. Low-Latency Linux Kernel Benchmarks For HPC & Desktop](https://www.phoronix.com/news/Ubuntu-Generic-LL-Kernel)
