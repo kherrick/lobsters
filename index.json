@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-01, 16:44:05",
+      "https://lobste.rs/s/picjyi/captivating_summer_2007"
+    ],
+    [
+      "A captivating summer 2007",
+      "https://fabiensanglard.net/iSummer/index.html"
+    ]
+  ],
+  [
+    [
       "2024-02-01, 16:38:10",
       "https://lobste.rs/s/ycyae5/simple_functional_effects_with_tag"
     ],
@@ -167,16 +177,6 @@
     [
       "container breakout through process.cwd trickery and leaked fds",
       "https://github.com/opencontainers/runc/security/advisories/GHSA-xr7r-f8xq-vfvv"
-    ]
-  ],
-  [
-    [
-      "2024-01-31, 19:56:22",
-      "https://lobste.rs/s/hinemr/ollama_bot_bridge_irc_lmms_running"
-    ],
-    [
-      "ollama-bot: Bridge IRC to LMMs running locally",
-      "https://2mb.codes/~cmb/ollama-bot"
     ]
   ],
   [
