@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-01, 03:51:25](https://lobste.rs/s/ol0ec2/content_hashing_static_assets_break) - [Content hashing static assets to break caches with md5sum and bash](https://robertwpearce.com/content-hashing-static-assets-to-break-caches-with-md5sum-and-bash.html)
 * [2024-02-01, 01:57:09](https://lobste.rs/s/egggbo/twine_open_source_multiplatform_rss_app) - [Twine a open source multiplatform RSS app](https://github.com/msasikanth/twine)
 * [2024-02-01, 01:56:42](https://lobste.rs/s/4cpvyh/making_pdf_s_larger_than_germany) - [Making a PDF that’s larger than Germany](https://alexwlchan.net/2024/big-pdf/)
 * [2024-01-31, 23:58:21](https://lobste.rs/s/fxjfam/on_demand_fork_microsecond_fork_for) - [On-demand-fork: A Microsecond Fork for Memory-Intensive and Latency-Sensitive Applications](https://www.cs.purdue.edu/homes/pfonseca/papers/eurosys21-odf.pdf)
@@ -22,7 +23,6 @@
 * [2024-01-30, 21:33:17](https://lobste.rs/s/sd6kxt/post_quantum_cryptography_for_go) - [Post-quantum Cryptography for the Go Ecosystem](https://words.filippo.io/dispatches/mlkem768/)
 * [2024-01-30, 19:11:15](https://lobste.rs/s/bejkkg/errno_libc) - [errno and libc](https://dxuuu.xyz/errno.html)
 * [2024-01-30, 18:53:03](https://lobste.rs/s/ehewh7/beej_s_guide_networking_concepts) - [Beej's Guide to Networking Concepts](https://beej.us/guide/bgnet0/)
-* [2024-01-30, 16:31:23](https://lobste.rs/s/qukknr/tour_lisps) - [A Tour of the Lisps](https://www.fosskers.ca/en/blog/rounds-of-lisp)
 * [2024-01-30, 16:02:59](https://lobste.rs/s/ty8pa7/constructing_four_point_egg) - [Constructing a four-point egg](https://dotat.at/@/2024-01-29-four-point-egg.html)
 * [2024-01-30, 13:11:07](https://lobste.rs/s/0fkc0u/what_is_terminal_based_game_you_ve_played_s) - [What is a terminal-based game you've played that's worth mentioning?](https://lobste.rs/s/0fkc0u/what_is_terminal_based_game_you_ve_played_s)
 
