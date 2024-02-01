@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
+* [2024-02-01, 12:02:41](https://lobste.rs/s/bxs6dh/plea_for_more_mikado) - [A Plea for more Mikado](https://dmathieu.com/articles/opinions/mikado/)
 * [2024-02-01, 11:42:17](https://lobste.rs/s/rdpkbc/financial_breakdown_16k_video_course) - [Financial Breakdown of $16k in Video Course Sales](https://indiecourses.com/blog/financial-breakdown-of-selling-a-video-course)
 * [2024-02-01, 09:27:18](https://lobste.rs/s/wskmhg/core_verse_haskell_with_simon_peyton) - [The Core of Verse & Haskell, with Simon Peyton Jones](https://youtu.be/UBgam9XUHs0)
 * [2024-02-01, 07:27:26](https://lobste.rs/s/jm0xhz/aerugo_rtos_for_aerospace_uses_written) - [Aerugo - RTOS for aerospace uses written in Rust](https://github.com/n7space/aerugo)
