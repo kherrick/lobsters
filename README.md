@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-01, 15:18:57](https://lobste.rs/s/o6wzot/greybeard_s_tomb_lost_treasure_language) - [Greybeard's tomb: the lost treasure of language design](https://michael.orlitzky.com/articles/greybeards_tomb%3A_the_lost_treasure_of_language_design.xhtml)
 * [2024-02-01, 13:57:35](https://lobste.rs/s/sxmrfg/typestate_new_design_pattern_swift_5_9) - [Typestate - the new Design Pattern in Swift 5.9](https://swiftology.io/articles/typestate/)
 * [2024-02-01, 13:48:27](https://lobste.rs/s/yycnxk/damn_small_linux_2024) - [Damn Small Linux 2024](https://www.damnsmalllinux.org/)
 * [2024-02-01, 13:25:06](https://lobste.rs/s/tirnmc/debugging_mixed_python_c_language_stack) - [Debugging a Mixed Python and C Language Stack](https://developer.nvidia.com/blog/debugging-mixed-python-and-c-language-stack/)
@@ -18,7 +19,6 @@
 * [2024-01-31, 19:56:22](https://lobste.rs/s/hinemr/ollama_bot_bridge_irc_lmms_running) - [ollama-bot: Bridge IRC to LMMs running locally](https://2mb.codes/~cmb/ollama-bot)
 * [2024-01-31, 19:24:54](https://lobste.rs/s/awkjch/si_units_for_request_rate) - [SI Units for Request Rate](https://two-wrongs.com/si-units-for-request-rate)
 * [2024-01-31, 17:23:06](https://lobste.rs/s/ynseu1/sega_ai) - [Sega AI](https://www.smspower.org/SegaAI/)
-* [2024-01-31, 16:34:04](https://lobste.rs/s/otafh3/lottie_format_on_road_become_standard) - [Lottie format on the road to become a standard, joins Linux foundation](https://www.lottielab.com/blog/lottie-joins-linux-foundation)
 * [2024-01-31, 15:36:00](https://lobste.rs/s/2eosdi/what_hosting_provider_do_you_use_for) - [What hosting provider do you use for outgoing SMTP?](https://lobste.rs/s/2eosdi/what_hosting_provider_do_you_use_for)
 * [2024-01-31, 15:04:49](https://lobste.rs/s/vwgmz0/jepsen_ravendb_6_0_2) - [Jepsen: RavenDB 6.0.2](https://jepsen.io/analyses/ravendb-6.0.2)
 * [2024-01-31, 15:02:58](https://lobste.rs/s/gnwij3/macaroons_escalated_quickly) - [Macaroons Escalated Quickly](https://fly.io/blog/macaroons-escalated-quickly/)

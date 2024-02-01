@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
+* [2024-02-01, 15:18:57](https://lobste.rs/s/o6wzot/greybeard_s_tomb_lost_treasure_language) - [Greybeard's tomb: the lost treasure of language design](https://michael.orlitzky.com/articles/greybeards_tomb%3A_the_lost_treasure_of_language_design.xhtml)
 * [2024-02-01, 13:57:35](https://lobste.rs/s/sxmrfg/typestate_new_design_pattern_swift_5_9) - [Typestate - the new Design Pattern in Swift 5.9](https://swiftology.io/articles/typestate/)
 * [2024-02-01, 13:48:27](https://lobste.rs/s/yycnxk/damn_small_linux_2024) - [Damn Small Linux 2024](https://www.damnsmalllinux.org/)
 * [2024-02-01, 13:25:06](https://lobste.rs/s/tirnmc/debugging_mixed_python_c_language_stack) - [Debugging a Mixed Python and C Language Stack](https://developer.nvidia.com/blog/debugging-mixed-python-and-c-language-stack/)
