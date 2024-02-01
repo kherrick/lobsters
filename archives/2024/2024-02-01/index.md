@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
+* [2024-02-01, 20:47:39](https://lobste.rs/s/yghu48/cloudflare_thanksgiving_2023_security) - [Cloudflare Thanksgiving 2023 security incident](https://blog.cloudflare.com/thanksgiving-2023-security-incident/)
 * [2024-02-01, 20:16:35](https://lobste.rs/s/0rcgfq/ownership_data_flow_gpui) - [Ownership and data flow in GPUI](https://zed.dev/blog/gpui-ownership)
 * [2024-02-01, 19:25:48](https://lobste.rs/s/1kq6od/migrating_our_ios_build_system_from_buck) - [Migrating Our iOS Build System from Buck to Bazel](https://medium.com/airbnb-engineering/migrating-our-ios-build-system-from-buck-to-bazel-ddd6f3f25aa3)
 * [2024-02-01, 18:08:58](https://lobste.rs/s/uuf3b5/tweaking_slime_xref_for_remote_images) - [Tweaking SLIME Xref for Remote Images](https://blog.funcall.org//lisp/2024/01/31/slime-xref/)
