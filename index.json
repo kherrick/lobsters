@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-01, 13:25:06",
+      "https://lobste.rs/s/tirnmc/debugging_mixed_python_c_language_stack"
+    ],
+    [
+      "Debugging a Mixed Python and C Language Stack",
+      "https://developer.nvidia.com/blog/debugging-mixed-python-and-c-language-stack/"
+    ]
+  ],
+  [
+    [
       "2024-02-01, 12:02:41",
       "https://lobste.rs/s/bxs6dh/plea_for_more_mikado"
     ],
@@ -207,16 +217,6 @@
     [
       "The Theory of Concatenative Combinators",
       "http://tunes.org/~iepos/joy.html"
-    ]
-  ],
-  [
-    [
-      "2024-01-31, 11:17:59",
-      "https://lobste.rs/s/ndgfgv/gtk_broadway_windowing_system"
-    ],
-    [
-      "Gtk: The Broadway windowing system",
-      "https://docs.gtk.org/gtk4/broadway.html"
     ]
   ],
   [
