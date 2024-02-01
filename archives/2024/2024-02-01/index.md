@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
+* [2024-02-01, 09:27:18](https://lobste.rs/s/wskmhg/core_verse_haskell_with_simon_peyton) - [The Core of Verse & Haskell, with Simon Peyton Jones](https://youtu.be/UBgam9XUHs0)
 * [2024-02-01, 07:27:26](https://lobste.rs/s/jm0xhz/aerugo_rtos_for_aerospace_uses_written) - [Aerugo - RTOS for aerospace uses written in Rust](https://github.com/n7space/aerugo)
 * [2024-02-01, 07:17:04](https://lobste.rs/s/etk8jc/leaky_vessels_docker_runc_container) - [Leaky Vessels: Docker and runc Container Breakout Vulnerabilities](https://snyk.io/blog/leaky-vessels-docker-runc-container-breakout-vulnerabilities/)
 * [2024-02-01, 06:45:40](https://lobste.rs/s/hdz1xg/semantics_mmio_mapping_attributes) - [Semantics of MMIO mapping attributes across architectures](https://lwn.net/Articles/698014/)
