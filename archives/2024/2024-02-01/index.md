@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-02-01](index.md)
 
+* [2024-02-01, 17:56:25](https://lobste.rs/s/x04rk0/announcing_interop_2024) - [Announcing Interop 2024](https://hacks.mozilla.org/2024/02/announcing-interop-2024/)
 * [2024-02-01, 16:44:05](https://lobste.rs/s/picjyi/captivating_summer_2007) - [A captivating summer 2007](https://fabiensanglard.net/iSummer/index.html)
 * [2024-02-01, 16:38:10](https://lobste.rs/s/ycyae5/simple_functional_effects_with_tag) - [Simple Functional Effects with Tag Unions (2022)](https://www.youtube.com/watch?v=7SidSvJcPd0)
 * [2024-02-01, 16:22:41](https://lobste.rs/s/lorgj9/dealing_with_diverged_git_branches) - [Dealing with diverged git branches](https://jvns.ca/blog/2024/02/01/dealing-with-diverged-git-branches/)
+* [2024-02-01, 15:24:09](https://lobste.rs/s/jfxp39/new_concurrent_ml_2017) - [a new concurrent ml (2017)](http://wingolog.org/archives/2017/06/29/a-new-concurrent-ml)
 * [2024-02-01, 15:24:09](https://lobste.rs/s/jfxp39/new_concurrent_ml) - [a new concurrent ml](http://wingolog.org/archives/2017/06/29/a-new-concurrent-ml)
 * [2024-02-01, 15:18:57](https://lobste.rs/s/o6wzot/greybeard_s_tomb_lost_treasure_language) - [Greybeard's tomb: the lost treasure of language design](https://michael.orlitzky.com/articles/greybeards_tomb%3A_the_lost_treasure_of_language_design.xhtml)
 * [2024-02-01, 13:57:35](https://lobste.rs/s/sxmrfg/typestate_new_design_pattern_swift_5_9) - [Typestate - the new Design Pattern in Swift 5.9](https://swiftology.io/articles/typestate/)
