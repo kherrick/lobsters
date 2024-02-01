@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-01, 06:45:40](https://lobste.rs/s/hdz1xg/semantics_mmio_mapping_attributes) - [Semantics of MMIO mapping attributes across architectures](https://lwn.net/Articles/698014/)
 * [2024-02-01, 06:26:02](https://lobste.rs/s/mpquwk/llava_1_6_improved_reasoning_ocr_world) - [LLaVA-1.6: Improved reasoning, OCR, and world knowledge](https://llava-vl.github.io/blog/2024-01-30-llava-1-6/)
 * [2024-02-01, 06:06:58](https://lobste.rs/s/4uk5sh/ubuntu_generic_vs_low_latency_linux) - [Ubuntu Generic vs. Low-Latency Linux Kernel Benchmarks For HPC & Desktop](https://www.phoronix.com/news/Ubuntu-Generic-LL-Kernel)
 * [2024-02-01, 05:56:32](https://lobste.rs/s/1cdu1j/accesskit_ui_accessibility) - [AccessKit: UI accessibility infrastructure across platforms and programming languages](https://github.com/AccessKit/accesskit)
@@ -13,7 +14,6 @@
 * [2024-01-31, 19:24:54](https://lobste.rs/s/awkjch/si_units_for_request_rate) - [SI Units for Request Rate](https://two-wrongs.com/si-units-for-request-rate)
 * [2024-01-31, 17:23:06](https://lobste.rs/s/ynseu1/sega_ai) - [Sega AI](https://www.smspower.org/SegaAI/)
 * [2024-01-31, 16:34:04](https://lobste.rs/s/otafh3/lottie_format_on_road_become_standard) - [Lottie format on the road to become a standard, joins Linux foundation](https://www.lottielab.com/blog/lottie-joins-linux-foundation)
-* [2024-01-31, 16:32:39](https://lobste.rs/s/vvvf85/ksql) - [ksql](http://nsl.com/k/ksql.k)
 * [2024-01-31, 15:36:00](https://lobste.rs/s/2eosdi/what_hosting_provider_do_you_use_for) - [What hosting provider do you use for outgoing SMTP?](https://lobste.rs/s/2eosdi/what_hosting_provider_do_you_use_for)
 * [2024-01-31, 15:04:49](https://lobste.rs/s/vwgmz0/jepsen_ravendb_6_0_2) - [Jepsen: RavenDB 6.0.2](https://jepsen.io/analyses/ravendb-6.0.2)
 * [2024-01-31, 15:02:58](https://lobste.rs/s/gnwij3/macaroons_escalated_quickly) - [Macaroons Escalated Quickly](https://fly.io/blog/macaroons-escalated-quickly/)
