@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-01, 20:16:35](https://lobste.rs/s/0rcgfq/ownership_data_flow_gpui) - [Ownership and data flow in GPUI](https://zed.dev/blog/gpui-ownership)
 * [2024-02-01, 19:25:48](https://lobste.rs/s/1kq6od/migrating_our_ios_build_system_from_buck) - [Migrating Our iOS Build System from Buck to Bazel](https://medium.com/airbnb-engineering/migrating-our-ios-build-system-from-buck-to-bazel-ddd6f3f25aa3)
 * [2024-02-01, 18:08:58](https://lobste.rs/s/uuf3b5/tweaking_slime_xref_for_remote_images) - [Tweaking SLIME Xref for Remote Images](https://blog.funcall.org//lisp/2024/01/31/slime-xref/)
 * [2024-02-01, 17:56:25](https://lobste.rs/s/x04rk0/announcing_interop_2024) - [Announcing Interop 2024](https://hacks.mozilla.org/2024/02/announcing-interop-2024/)
@@ -17,7 +18,6 @@
 * [2024-02-01, 05:20:50](https://lobste.rs/s/ulfdn2/i_know_languages_have_support_for_read) - [I know languages that have support for “read-only memory,” but what about “write-only memory?”](https://boston.conman.org/2024/01/31.3)
 * [2024-02-01, 01:57:09](https://lobste.rs/s/egggbo/twine_open_source_multiplatform_rss_app) - [Twine a open source multiplatform RSS app](https://github.com/msasikanth/twine)
 * [2024-02-01, 01:56:42](https://lobste.rs/s/4cpvyh/making_pdf_s_larger_than_germany) - [Making a PDF that’s larger than Germany](https://alexwlchan.net/2024/big-pdf/)
-* [2024-01-31, 23:03:38](https://lobste.rs/s/quvbso/container_breakout_through_process_cwd) - [container breakout through process.cwd trickery and leaked fds](https://github.com/opencontainers/runc/security/advisories/GHSA-xr7r-f8xq-vfvv)
 * [2024-01-31, 19:24:54](https://lobste.rs/s/awkjch/si_units_for_request_rate) - [SI Units for Request Rate](https://two-wrongs.com/si-units-for-request-rate)
 * [2024-01-31, 17:23:06](https://lobste.rs/s/ynseu1/sega_ai) - [Sega AI](https://www.smspower.org/SegaAI/)
 * [2024-01-31, 15:36:00](https://lobste.rs/s/2eosdi/what_hosting_provider_do_you_use_for) - [What hosting provider do you use for outgoing SMTP?](https://lobste.rs/s/2eosdi/what_hosting_provider_do_you_use_for)
