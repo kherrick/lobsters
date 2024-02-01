@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-01, 16:22:41](https://lobste.rs/s/lorgj9/dealing_with_diverged_git_branches) - [Dealing with diverged git branches](https://jvns.ca/blog/2024/02/01/dealing-with-diverged-git-branches/)
 * [2024-02-01, 15:24:09](https://lobste.rs/s/jfxp39/new_concurrent_ml) - [a new concurrent ml](http://wingolog.org/archives/2017/06/29/a-new-concurrent-ml)
 * [2024-02-01, 15:18:57](https://lobste.rs/s/o6wzot/greybeard_s_tomb_lost_treasure_language) - [Greybeard's tomb: the lost treasure of language design](https://michael.orlitzky.com/articles/greybeards_tomb%3A_the_lost_treasure_of_language_design.xhtml)
 * [2024-02-01, 13:57:35](https://lobste.rs/s/sxmrfg/typestate_new_design_pattern_swift_5_9) - [Typestate - the new Design Pattern in Swift 5.9](https://swiftology.io/articles/typestate/)
@@ -23,7 +24,6 @@
 * [2024-01-31, 15:04:49](https://lobste.rs/s/vwgmz0/jepsen_ravendb_6_0_2) - [Jepsen: RavenDB 6.0.2](https://jepsen.io/analyses/ravendb-6.0.2)
 * [2024-01-31, 15:02:58](https://lobste.rs/s/gnwij3/macaroons_escalated_quickly) - [Macaroons Escalated Quickly](https://fly.io/blog/macaroons-escalated-quickly/)
 * [2024-01-31, 13:54:02](https://lobste.rs/s/pp9lzp/slint_1_4_released_with_additional_look) - [Slint 1.4 Released with additional Look and Improved APIs](https://slint.dev/blog/slint-1.4-released)
-* [2024-01-31, 12:08:27](https://lobste.rs/s/ffjpdh/theory_concatenative_combinators) - [The Theory of Concatenative Combinators](http://tunes.org/~iepos/joy.html)
 * [2024-01-31, 10:02:28](https://lobste.rs/s/xydlkq/new_linux_glibc_flaw_lets_attackers_get) - [New Linux glibc flaw lets attackers get root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-glibc-flaw-lets-attackers-get-root-on-major-distros/)
 
 ## [Archives](archives/index.md)
