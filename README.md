@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-02, 08:45:29](https://lobste.rs/s/7vfwbw/khronos_releases_av1_decode_vulkan_video) - [Khronos Releases AV1 Decode in Vulkan Video with SDK Support for H.264/H.265 Encode](https://www.khronos.org/blog/khronos-releases-vulkan-video-av1-decode-extension-vulkan-sdk-now-supports-h.264-h.265-encode)
 * [2024-02-02, 07:14:00](https://lobste.rs/s/n193di/ruff_v0_2_0) - [Ruff v0.2.0](https://astral.sh/blog/ruff-v0.2.0)
 * [2024-02-02, 05:45:31](https://lobste.rs/s/9yxzsy/microdot_web_framework_for) - [Microdot: a web framework for microcontrollers](https://lwn.net//Articles/959067/)
 * [2024-02-02, 05:23:11](https://lobste.rs/s/2pfwxp/well_known_secrets_amigados) - [Well-known Secrets of AmigaDOS](https://www.datagubbe.se/adosmyst/)
@@ -21,7 +22,6 @@
 * [2024-02-01, 09:27:18](https://lobste.rs/s/wskmhg/core_verse_haskell_with_simon_peyton) - [The Core of Verse & Haskell, with Simon Peyton Jones](https://youtu.be/UBgam9XUHs0)
 * [2024-02-01, 05:56:32](https://lobste.rs/s/1cdu1j/accesskit_ui_accessibility) - [AccessKit: UI accessibility infrastructure across platforms and programming languages](https://github.com/AccessKit/accesskit)
 * [2024-02-01, 05:20:50](https://lobste.rs/s/ulfdn2/i_know_languages_have_support_for_read) - [I know languages that have support for “read-only memory,” but what about “write-only memory?”](https://boston.conman.org/2024/01/31.3)
-* [2024-02-01, 01:57:09](https://lobste.rs/s/egggbo/twine_open_source_multiplatform_rss_app) - [Twine a open source multiplatform RSS app](https://github.com/msasikanth/twine)
 * [2024-02-01, 01:56:42](https://lobste.rs/s/4cpvyh/making_pdf_s_larger_than_germany) - [Making a PDF that’s larger than Germany](https://alexwlchan.net/2024/big-pdf/)
 * [2024-01-31, 19:24:54](https://lobste.rs/s/awkjch/si_units_for_request_rate) - [SI Units for Request Rate](https://two-wrongs.com/si-units-for-request-rate)
 * [2024-01-31, 15:04:49](https://lobste.rs/s/vwgmz0/jepsen_ravendb_6_0_2) - [Jepsen: RavenDB 6.0.2](https://jepsen.io/analyses/ravendb-6.0.2)

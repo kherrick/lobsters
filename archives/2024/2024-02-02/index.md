@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-02](index.md)
 
+* [2024-02-02, 08:45:29](https://lobste.rs/s/7vfwbw/khronos_releases_av1_decode_vulkan_video) - [Khronos Releases AV1 Decode in Vulkan Video with SDK Support for H.264/H.265 Encode](https://www.khronos.org/blog/khronos-releases-vulkan-video-av1-decode-extension-vulkan-sdk-now-supports-h.264-h.265-encode)
 * [2024-02-02, 07:14:00](https://lobste.rs/s/n193di/ruff_v0_2_0) - [Ruff v0.2.0](https://astral.sh/blog/ruff-v0.2.0)
 * [2024-02-02, 05:45:31](https://lobste.rs/s/9yxzsy/microdot_web_framework_for) - [Microdot: a web framework for microcontrollers](https://lwn.net//Articles/959067/)
 * [2024-02-02, 05:23:11](https://lobste.rs/s/2pfwxp/well_known_secrets_amigados) - [Well-known Secrets of AmigaDOS](https://www.datagubbe.se/adosmyst/)
