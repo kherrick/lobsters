@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-02, 23:24:00](https://lobste.rs/s/nyjzzv/function_contracts_for_kani) - [Function Contracts for Kani](https://model-checking.github.io/kani-verifier-blog/2024/01/29/function-contracts.html)
 * [2024-02-02, 22:35:21](https://lobste.rs/s/czgifp/daunting_papers_books_how_finally_read) - [Daunting papers/books and how to finally read them](https://mathoverflow.net/q/463287/172672)
 * [2024-02-02, 22:19:58](https://lobste.rs/s/w4aqyv/ray_optics_simulation) - [Ray Optics Simulation](https://phydemo.app/ray-optics/simulator/)
 * [2024-02-02, 21:58:12](https://lobste.rs/s/pzzy8m/nope_forge_release_2024_0) - [Nope Forge Release 2024.0](https://nopeforge.org/news/release-2024.0/)
@@ -22,7 +23,6 @@
 * [2024-02-02, 01:38:29](https://lobste.rs/s/tkqhvr/don_t_prefill_config_files) - [Don’t prefill config files](https://www.makeworld.space/2024/02/no_prefill_config.html)
 * [2024-02-01, 22:08:24](https://lobste.rs/s/feniaz/deno_1_40_temporal_api) - [Deno 1.40: Temporal API](https://deno.com/blog/v1.40)
 * [2024-02-01, 20:47:39](https://lobste.rs/s/yghu48/cloudflare_thanksgiving_2023_security) - [Cloudflare Thanksgiving 2023 security incident](https://blog.cloudflare.com/thanksgiving-2023-security-incident/)
-* [2024-02-01, 13:57:35](https://lobste.rs/s/sxmrfg/typestate_new_design_pattern_swift_5_9) - [Typestate - the new Design Pattern in Swift 5.9](https://swiftology.io/articles/typestate/)
 * [2024-02-01, 13:48:27](https://lobste.rs/s/yycnxk/damn_small_linux_2024) - [Damn Small Linux 2024](https://www.damnsmalllinux.org/)
 * [2024-02-01, 09:27:18](https://lobste.rs/s/wskmhg/core_verse_haskell_with_simon_peyton) - [The Core of Verse & Haskell, with Simon Peyton Jones](https://youtu.be/UBgam9XUHs0)
 
