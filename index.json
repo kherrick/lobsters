@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-02, 04:25:03",
+      "https://lobste.rs/s/te0qbh/solving_sat_via_positive"
+    ],
+    [
+      "Solving SAT via Positive Supercompilation",
+      "https://hirrolot.github.io/posts/sat-supercompilation.html"
+    ]
+  ],
+  [
+    [
       "2024-02-02, 03:00:50",
       "https://lobste.rs/s/gmh2xb/speedtests_comparing_execution_speeds"
     ],
@@ -37,16 +47,6 @@
     [
       "Don’t prefill config files",
       "https://www.makeworld.space/2024/02/no_prefill_config.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-02, 01:34:51",
-      "https://lobste.rs/s/i4dmuv/short_story_about_gotofail_bug"
-    ],
-    [
-      "A short story about the \"gotofail\" bug",
-      "https://infosec.exchange/@ryanc/111855503273600020"
     ]
   ],
   [
