@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-02, 15:38:41](https://lobste.rs/s/q5xqc0/decline_hardware_knowledge_era_cloud) - [The Decline of Hardware Knowledge in the Era of Cloud Native Compute](https://www.magesguild.io/the-decline-of-hardware-knowledge-in-the-era-of-cloud-native-compute/)
 * [2024-02-02, 12:57:44](https://lobste.rs/s/9dwbmf/pep_701_syntactic_formalization_f) - [PEP 701 – Syntactic formalization of f-strings](https://peps.python.org/pep-0701/)
 * [2024-02-02, 12:13:50](https://lobste.rs/s/gwipg0/european_regulators_listened_open) - [The European regulators listened to the Open Source communities](https://blog.opensource.org/the-european-regulators-listened-to-the-open-source-communities/)
 * [2024-02-02, 11:02:48](https://lobste.rs/s/ddk0bt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ddk0bt/what_are_you_doing_this_weekend)
@@ -7,7 +8,6 @@
 * [2024-02-02, 07:14:00](https://lobste.rs/s/n193di/ruff_v0_2_0) - [Ruff v0.2.0](https://astral.sh/blog/ruff-v0.2.0)
 * [2024-02-02, 05:23:11](https://lobste.rs/s/2pfwxp/well_known_secrets_amigados) - [Well-known Secrets of AmigaDOS](https://www.datagubbe.se/adosmyst/)
 * [2024-02-02, 04:25:03](https://lobste.rs/s/te0qbh/solving_sat_via_positive) - [Solving SAT via Positive Supercompilation](https://hirrolot.github.io/posts/sat-supercompilation.html)
-* [2024-02-02, 03:00:50](https://lobste.rs/s/gmh2xb/speedtests_comparing_execution_speeds) - [SpeedTests: comparing the execution speeds of various programming languages](https://github.com/jabbalaci/SpeedTests)
 * [2024-02-02, 01:53:05](https://lobste.rs/s/7wjhmu/making_async_rust_reliable) - [Making Async Rust Reliable](https://tmandry.gitlab.io/blog/posts/making-async-reliable/)
 * [2024-02-02, 01:50:44](https://lobste.rs/s/dajihw/personal_link_shortener_using_mostly_s3) - [A personal link shortener using mostly S3](https://www.jonathanychan.com/blog/link-shortener/)
 * [2024-02-02, 01:38:29](https://lobste.rs/s/tkqhvr/don_t_prefill_config_files) - [Don’t prefill config files](https://www.makeworld.space/2024/02/no_prefill_config.html)
