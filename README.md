@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-02, 15:52:46](https://lobste.rs/s/x3npcg/kera_desktop_desktop_environment_for_web) - [Kera Desktop - A desktop environment for web apps](https://gitlab.com/kerahq/Kera-Desktop)
 * [2024-02-02, 15:38:41](https://lobste.rs/s/q5xqc0/decline_hardware_knowledge_era_cloud) - [The Decline of Hardware Knowledge in the Era of Cloud Native Compute](https://www.magesguild.io/the-decline-of-hardware-knowledge-in-the-era-of-cloud-native-compute/)
 * [2024-02-02, 12:57:44](https://lobste.rs/s/9dwbmf/pep_701_syntactic_formalization_f) - [PEP 701 – Syntactic formalization of f-strings](https://peps.python.org/pep-0701/)
 * [2024-02-02, 12:13:50](https://lobste.rs/s/gwipg0/european_regulators_listened_open) - [The European regulators listened to the Open Source communities](https://blog.opensource.org/the-european-regulators-listened-to-the-open-source-communities/)
@@ -22,7 +23,6 @@
 * [2024-02-01, 12:02:41](https://lobste.rs/s/bxs6dh/plea_for_more_mikado) - [A Plea for more Mikado](https://dmathieu.com/articles/opinions/mikado/)
 * [2024-02-01, 09:27:18](https://lobste.rs/s/wskmhg/core_verse_haskell_with_simon_peyton) - [The Core of Verse & Haskell, with Simon Peyton Jones](https://youtu.be/UBgam9XUHs0)
 * [2024-02-01, 05:20:50](https://lobste.rs/s/ulfdn2/i_know_languages_have_support_for_read) - [I know languages that have support for “read-only memory,” but what about “write-only memory?”](https://boston.conman.org/2024/01/31.3)
-* [2024-02-01, 01:56:42](https://lobste.rs/s/4cpvyh/making_pdf_s_larger_than_germany) - [Making a PDF that’s larger than Germany](https://alexwlchan.net/2024/big-pdf/)
 * [2024-01-31, 19:24:54](https://lobste.rs/s/awkjch/si_units_for_request_rate) - [SI Units for Request Rate](https://two-wrongs.com/si-units-for-request-rate)
 * [2024-01-31, 15:04:49](https://lobste.rs/s/vwgmz0/jepsen_ravendb_6_0_2) - [Jepsen: RavenDB 6.0.2](https://jepsen.io/analyses/ravendb-6.0.2)
 
