@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2024-02-02, 03:00:50",
+      "https://lobste.rs/s/gmh2xb/speedtests_comparing_execution_speeds"
+    ],
+    [
+      "SpeedTests: comparing the execution speeds of various programming languages",
+      "https://github.com/jabbalaci/SpeedTests"
+    ]
+  ],
+  [
+    [
       "2024-02-02, 01:53:05",
       "https://lobste.rs/s/7wjhmu/making_async_rust_reliable"
     ],
@@ -157,16 +167,6 @@
     [
       "Announcing Interop 2024",
       "https://hacks.mozilla.org/2024/02/announcing-interop-2024/"
-    ]
-  ],
-  [
-    [
-      "2024-02-01, 15:24:09",
-      "https://lobste.rs/s/jfxp39/new_concurrent_ml_2017"
-    ],
-    [
-      "a new concurrent ml (2017)",
-      "http://wingolog.org/archives/2017/06/29/a-new-concurrent-ml"
     ]
   ],
   [
