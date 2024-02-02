@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-02, 15:38:41",
+      "https://lobste.rs/s/q5xqc0/decline_hardware_knowledge_era_cloud"
+    ],
+    [
+      "The Decline of Hardware Knowledge in the Era of Cloud Native Compute",
+      "https://www.magesguild.io/the-decline-of-hardware-knowledge-in-the-era-of-cloud-native-compute/"
+    ]
+  ],
+  [
+    [
       "2024-02-02, 12:57:44",
       "https://lobste.rs/s/9dwbmf/pep_701_syntactic_formalization_f"
     ],
@@ -67,16 +77,6 @@
     [
       "Solving SAT via Positive Supercompilation",
       "https://hirrolot.github.io/posts/sat-supercompilation.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-02, 03:00:50",
-      "https://lobste.rs/s/gmh2xb/speedtests_comparing_execution_speeds"
-    ],
-    [
-      "SpeedTests: comparing the execution speeds of various programming languages",
-      "https://github.com/jabbalaci/SpeedTests"
     ]
   ],
   [
