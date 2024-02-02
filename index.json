@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-02, 20:48:50",
+      "https://lobste.rs/s/srsoer/introducing_pkl_programming_language"
+    ],
+    [
+      "Introducing Pkl, a programming language for configuration",
+      "https://pkl-lang.org/blog/introducing-pkl.html"
+    ]
+  ],
+  [
+    [
       "2024-02-02, 18:40:23",
       "https://lobste.rs/s/pvvbhm/jj_init"
     ],
@@ -197,16 +207,6 @@
     [
       "Cloudflare Thanksgiving 2023 security incident",
       "https://blog.cloudflare.com/thanksgiving-2023-security-incident/"
-    ]
-  ],
-  [
-    [
-      "2024-02-01, 20:16:35",
-      "https://lobste.rs/s/0rcgfq/ownership_data_flow_gpui"
-    ],
-    [
-      "Ownership and data flow in GPUI",
-      "https://zed.dev/blog/gpui-ownership"
     ]
   ],
   [
