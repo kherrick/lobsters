@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-02, 22:35:21](https://lobste.rs/s/czgifp/daunting_papers_books_how_finally_read) - [Daunting papers/books and how to finally read them](https://mathoverflow.net/q/463287/172672)
 * [2024-02-02, 22:19:58](https://lobste.rs/s/w4aqyv/ray_optics_simulation) - [Ray Optics Simulation](https://phydemo.app/ray-optics/simulator/)
 * [2024-02-02, 21:58:12](https://lobste.rs/s/pzzy8m/nope_forge_release_2024_0) - [Nope Forge Release 2024.0](https://nopeforge.org/news/release-2024.0/)
 * [2024-02-02, 21:00:21](https://lobste.rs/s/dvfyd5/ratatui_0_26) - [Ratatui 0.26](https://ratatui.rs/highlights/v026/)
@@ -17,7 +18,6 @@
 * [2024-02-02, 07:14:00](https://lobste.rs/s/n193di/ruff_v0_2_0) - [Ruff v0.2.0](https://astral.sh/blog/ruff-v0.2.0)
 * [2024-02-02, 05:23:11](https://lobste.rs/s/2pfwxp/well_known_secrets_amigados) - [Well-known Secrets of AmigaDOS](https://www.datagubbe.se/adosmyst/)
 * [2024-02-02, 04:25:03](https://lobste.rs/s/te0qbh/solving_sat_via_positive) - [Solving SAT via Positive Supercompilation](https://hirrolot.github.io/posts/sat-supercompilation.html)
-* [2024-02-02, 01:53:05](https://lobste.rs/s/7wjhmu/making_async_rust_reliable) - [Making Async Rust Reliable](https://tmandry.gitlab.io/blog/posts/making-async-reliable/)
 * [2024-02-02, 01:50:44](https://lobste.rs/s/dajihw/personal_link_shortener_using_mostly_s3) - [A personal link shortener using mostly S3](https://www.jonathanychan.com/blog/link-shortener/)
 * [2024-02-02, 01:38:29](https://lobste.rs/s/tkqhvr/don_t_prefill_config_files) - [Don’t prefill config files](https://www.makeworld.space/2024/02/no_prefill_config.html)
 * [2024-02-01, 22:08:24](https://lobste.rs/s/feniaz/deno_1_40_temporal_api) - [Deno 1.40: Temporal API](https://deno.com/blog/v1.40)

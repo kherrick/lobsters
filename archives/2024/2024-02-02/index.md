@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-02](index.md)
 
+* [2024-02-02, 22:35:21](https://lobste.rs/s/czgifp/daunting_papers_books_how_finally_read) - [Daunting papers/books and how to finally read them](https://mathoverflow.net/q/463287/172672)
 * [2024-02-02, 22:19:58](https://lobste.rs/s/w4aqyv/ray_optics_simulation) - [Ray Optics Simulation](https://phydemo.app/ray-optics/simulator/)
 * [2024-02-02, 21:58:12](https://lobste.rs/s/pzzy8m/nope_forge_release_2024_0) - [Nope Forge Release 2024.0](https://nopeforge.org/news/release-2024.0/)
 * [2024-02-02, 21:00:21](https://lobste.rs/s/dvfyd5/ratatui_0_26) - [Ratatui 0.26](https://ratatui.rs/highlights/v026/)
