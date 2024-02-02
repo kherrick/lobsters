@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-02, 21:00:21](https://lobste.rs/s/dvfyd5/ratatui_0_26) - [Ratatui 0.26](https://ratatui.rs/highlights/v026/)
 * [2024-02-02, 20:48:50](https://lobste.rs/s/srsoer/introducing_pkl_programming_language) - [Introducing Pkl, a programming language for configuration](https://pkl-lang.org/blog/introducing-pkl.html)
 * [2024-02-02, 18:40:23](https://lobste.rs/s/pvvbhm/jj_init) - [jj init](https://v5.chriskrycho.com/essays/jj-init/)
 * [2024-02-02, 17:43:25](https://lobste.rs/s/bo0ghu/locality_behaviour_lob_2020) - [Locality of Behaviour (LoB) (2020)](https://htmx.org/essays/locality-of-behaviour/)
@@ -17,7 +18,6 @@
 * [2024-02-02, 01:53:05](https://lobste.rs/s/7wjhmu/making_async_rust_reliable) - [Making Async Rust Reliable](https://tmandry.gitlab.io/blog/posts/making-async-reliable/)
 * [2024-02-02, 01:50:44](https://lobste.rs/s/dajihw/personal_link_shortener_using_mostly_s3) - [A personal link shortener using mostly S3](https://www.jonathanychan.com/blog/link-shortener/)
 * [2024-02-02, 01:38:29](https://lobste.rs/s/tkqhvr/don_t_prefill_config_files) - [Don’t prefill config files](https://www.makeworld.space/2024/02/no_prefill_config.html)
-* [2024-02-01, 22:52:49](https://lobste.rs/s/6waryx/simplisafe_video_doorbell_halt_catch) - [SimpliSafe Video Doorbell: Halt and Catch Fire](https://www.jeffgeerling.com/blog/2024/simplisafe-video-doorbell-halt-and-catch-fire)
 * [2024-02-01, 22:08:24](https://lobste.rs/s/feniaz/deno_1_40_temporal_api) - [Deno 1.40: Temporal API](https://deno.com/blog/v1.40)
 * [2024-02-01, 21:27:19](https://lobste.rs/s/chv80z/sporth_stack_based_audio_programming) - [Sporth - a stack-based audio programming language](https://paulbatchelor.github.io/proj/sporth)
 * [2024-02-01, 20:47:39](https://lobste.rs/s/yghu48/cloudflare_thanksgiving_2023_security) - [Cloudflare Thanksgiving 2023 security incident](https://blog.cloudflare.com/thanksgiving-2023-security-incident/)
