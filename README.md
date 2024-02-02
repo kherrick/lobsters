@@ -5,7 +5,6 @@
 * [2024-02-02, 11:02:48](https://lobste.rs/s/ddk0bt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ddk0bt/what_are_you_doing_this_weekend)
 * [2024-02-02, 09:32:36](https://lobste.rs/s/1aamnj/property_testing_stateful_code_rust) - [Property Testing Stateful Code in Rust](https://rtpg.co/2024/02/02/property-testing-with-imperative-rust/)
 * [2024-02-02, 07:14:00](https://lobste.rs/s/n193di/ruff_v0_2_0) - [Ruff v0.2.0](https://astral.sh/blog/ruff-v0.2.0)
-* [2024-02-02, 05:45:31](https://lobste.rs/s/9yxzsy/microdot_web_framework_for) - [Microdot: a web framework for microcontrollers](https://lwn.net//Articles/959067/)
 * [2024-02-02, 05:23:11](https://lobste.rs/s/2pfwxp/well_known_secrets_amigados) - [Well-known Secrets of AmigaDOS](https://www.datagubbe.se/adosmyst/)
 * [2024-02-02, 04:25:03](https://lobste.rs/s/te0qbh/solving_sat_via_positive) - [Solving SAT via Positive Supercompilation](https://hirrolot.github.io/posts/sat-supercompilation.html)
 * [2024-02-02, 03:00:50](https://lobste.rs/s/gmh2xb/speedtests_comparing_execution_speeds) - [SpeedTests: comparing the execution speeds of various programming languages](https://github.com/jabbalaci/SpeedTests)
@@ -23,6 +22,7 @@
 * [2024-02-01, 12:02:41](https://lobste.rs/s/bxs6dh/plea_for_more_mikado) - [A Plea for more Mikado](https://dmathieu.com/articles/opinions/mikado/)
 * [2024-02-01, 09:27:18](https://lobste.rs/s/wskmhg/core_verse_haskell_with_simon_peyton) - [The Core of Verse & Haskell, with Simon Peyton Jones](https://youtu.be/UBgam9XUHs0)
 * [2024-02-01, 05:20:50](https://lobste.rs/s/ulfdn2/i_know_languages_have_support_for_read) - [I know languages that have support for “read-only memory,” but what about “write-only memory?”](https://boston.conman.org/2024/01/31.3)
+* [2024-02-01, 01:56:42](https://lobste.rs/s/4cpvyh/making_pdf_s_larger_than_germany) - [Making a PDF that’s larger than Germany](https://alexwlchan.net/2024/big-pdf/)
 * [2024-01-31, 19:24:54](https://lobste.rs/s/awkjch/si_units_for_request_rate) - [SI Units for Request Rate](https://two-wrongs.com/si-units-for-request-rate)
 * [2024-01-31, 15:04:49](https://lobste.rs/s/vwgmz0/jepsen_ravendb_6_0_2) - [Jepsen: RavenDB 6.0.2](https://jepsen.io/analyses/ravendb-6.0.2)
 
