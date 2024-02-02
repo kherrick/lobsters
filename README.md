@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-02, 09:32:36](https://lobste.rs/s/1aamnj/property_testing_stateful_code_rust) - [Property Testing Stateful Code in Rust](https://rtpg.co/2024/02/02/property-testing-with-imperative-rust/)
 * [2024-02-02, 09:13:50](https://lobste.rs/s/hqg2yh/device_query_mad_max_intune_suite_feature) - [Device Query: A Mad Max Intune Suite Feature](https://call4cloud.nl/2024/02/device-query-a-mad-max-feature/)
 * [2024-02-02, 08:45:29](https://lobste.rs/s/7vfwbw/khronos_releases_av1_decode_vulkan_video) - [Khronos Releases AV1 Decode in Vulkan Video with SDK Support for H.264/H.265 Encode](https://www.khronos.org/blog/khronos-releases-vulkan-video-av1-decode-extension-vulkan-sdk-now-supports-h.264-h.265-encode)
 * [2024-02-02, 07:14:00](https://lobste.rs/s/n193di/ruff_v0_2_0) - [Ruff v0.2.0](https://astral.sh/blog/ruff-v0.2.0)
@@ -20,7 +21,6 @@
 * [2024-02-01, 13:48:27](https://lobste.rs/s/yycnxk/damn_small_linux_2024) - [Damn Small Linux 2024](https://www.damnsmalllinux.org/)
 * [2024-02-01, 12:02:41](https://lobste.rs/s/bxs6dh/plea_for_more_mikado) - [A Plea for more Mikado](https://dmathieu.com/articles/opinions/mikado/)
 * [2024-02-01, 09:27:18](https://lobste.rs/s/wskmhg/core_verse_haskell_with_simon_peyton) - [The Core of Verse & Haskell, with Simon Peyton Jones](https://youtu.be/UBgam9XUHs0)
-* [2024-02-01, 05:56:32](https://lobste.rs/s/1cdu1j/accesskit_ui_accessibility) - [AccessKit: UI accessibility infrastructure across platforms and programming languages](https://github.com/AccessKit/accesskit)
 * [2024-02-01, 05:20:50](https://lobste.rs/s/ulfdn2/i_know_languages_have_support_for_read) - [I know languages that have support for “read-only memory,” but what about “write-only memory?”](https://boston.conman.org/2024/01/31.3)
 * [2024-02-01, 01:56:42](https://lobste.rs/s/4cpvyh/making_pdf_s_larger_than_germany) - [Making a PDF that’s larger than Germany](https://alexwlchan.net/2024/big-pdf/)
 * [2024-01-31, 19:24:54](https://lobste.rs/s/awkjch/si_units_for_request_rate) - [SI Units for Request Rate](https://two-wrongs.com/si-units-for-request-rate)
