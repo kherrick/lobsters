@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-02, 07:14:00](https://lobste.rs/s/n193di/ruff_v0_2_0) - [Ruff v0.2.0](https://astral.sh/blog/ruff-v0.2.0)
 * [2024-02-02, 05:45:31](https://lobste.rs/s/9yxzsy/microdot_web_framework_for) - [Microdot: a web framework for microcontrollers](https://lwn.net//Articles/959067/)
 * [2024-02-02, 05:23:11](https://lobste.rs/s/2pfwxp/well_known_secrets_amigados) - [Well-known Secrets of AmigaDOS](https://www.datagubbe.se/adosmyst/)
 * [2024-02-02, 04:25:03](https://lobste.rs/s/te0qbh/solving_sat_via_positive) - [Solving SAT via Positive Supercompilation](https://hirrolot.github.io/posts/sat-supercompilation.html)
@@ -11,7 +12,6 @@
 * [2024-02-01, 21:27:19](https://lobste.rs/s/chv80z/sporth_stack_based_audio_programming) - [Sporth - a stack-based audio programming language](https://paulbatchelor.github.io/proj/sporth)
 * [2024-02-01, 20:47:39](https://lobste.rs/s/yghu48/cloudflare_thanksgiving_2023_security) - [Cloudflare Thanksgiving 2023 security incident](https://blog.cloudflare.com/thanksgiving-2023-security-incident/)
 * [2024-02-01, 20:16:35](https://lobste.rs/s/0rcgfq/ownership_data_flow_gpui) - [Ownership and data flow in GPUI](https://zed.dev/blog/gpui-ownership)
-* [2024-02-01, 19:25:48](https://lobste.rs/s/1kq6od/migrating_our_ios_build_system_from_buck) - [Migrating Our iOS Build System from Buck to Bazel](https://medium.com/airbnb-engineering/migrating-our-ios-build-system-from-buck-to-bazel-ddd6f3f25aa3)
 * [2024-02-01, 17:56:25](https://lobste.rs/s/x04rk0/announcing_interop_2024) - [Announcing Interop 2024](https://hacks.mozilla.org/2024/02/announcing-interop-2024/)
 * [2024-02-01, 16:44:05](https://lobste.rs/s/picjyi/captivating_summer_2007) - [A captivating summer 2007](https://fabiensanglard.net/iSummer/index.html)
 * [2024-02-01, 15:24:09](https://lobste.rs/s/jfxp39/new_concurrent_ml_2017) - [a new concurrent ml (2017)](http://wingolog.org/archives/2017/06/29/a-new-concurrent-ml)
