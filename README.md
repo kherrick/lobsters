@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-02, 09:13:50](https://lobste.rs/s/hqg2yh/device_query_mad_max_intune_suite_feature) - [Device Query: A Mad Max Intune Suite Feature](https://call4cloud.nl/2024/02/device-query-a-mad-max-feature/)
 * [2024-02-02, 08:45:29](https://lobste.rs/s/7vfwbw/khronos_releases_av1_decode_vulkan_video) - [Khronos Releases AV1 Decode in Vulkan Video with SDK Support for H.264/H.265 Encode](https://www.khronos.org/blog/khronos-releases-vulkan-video-av1-decode-extension-vulkan-sdk-now-supports-h.264-h.265-encode)
 * [2024-02-02, 07:14:00](https://lobste.rs/s/n193di/ruff_v0_2_0) - [Ruff v0.2.0](https://astral.sh/blog/ruff-v0.2.0)
 * [2024-02-02, 05:45:31](https://lobste.rs/s/9yxzsy/microdot_web_framework_for) - [Microdot: a web framework for microcontrollers](https://lwn.net//Articles/959067/)
@@ -14,7 +15,6 @@
 * [2024-02-01, 20:47:39](https://lobste.rs/s/yghu48/cloudflare_thanksgiving_2023_security) - [Cloudflare Thanksgiving 2023 security incident](https://blog.cloudflare.com/thanksgiving-2023-security-incident/)
 * [2024-02-01, 20:16:35](https://lobste.rs/s/0rcgfq/ownership_data_flow_gpui) - [Ownership and data flow in GPUI](https://zed.dev/blog/gpui-ownership)
 * [2024-02-01, 17:56:25](https://lobste.rs/s/x04rk0/announcing_interop_2024) - [Announcing Interop 2024](https://hacks.mozilla.org/2024/02/announcing-interop-2024/)
-* [2024-02-01, 16:44:05](https://lobste.rs/s/picjyi/captivating_summer_2007) - [A captivating summer 2007](https://fabiensanglard.net/iSummer/index.html)
 * [2024-02-01, 15:24:09](https://lobste.rs/s/jfxp39/new_concurrent_ml_2017) - [a new concurrent ml (2017)](http://wingolog.org/archives/2017/06/29/a-new-concurrent-ml)
 * [2024-02-01, 13:57:35](https://lobste.rs/s/sxmrfg/typestate_new_design_pattern_swift_5_9) - [Typestate - the new Design Pattern in Swift 5.9](https://swiftology.io/articles/typestate/)
 * [2024-02-01, 13:48:27](https://lobste.rs/s/yycnxk/damn_small_linux_2024) - [Damn Small Linux 2024](https://www.damnsmalllinux.org/)
