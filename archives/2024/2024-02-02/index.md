@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-02](index.md)
 
+* [2024-02-02, 22:19:58](https://lobste.rs/s/w4aqyv/ray_optics_simulation) - [Ray Optics Simulation](https://phydemo.app/ray-optics/simulator/)
 * [2024-02-02, 21:58:12](https://lobste.rs/s/pzzy8m/nope_forge_release_2024_0) - [Nope Forge Release 2024.0](https://nopeforge.org/news/release-2024.0/)
 * [2024-02-02, 21:00:21](https://lobste.rs/s/dvfyd5/ratatui_0_26) - [Ratatui 0.26](https://ratatui.rs/highlights/v026/)
 * [2024-02-02, 20:48:50](https://lobste.rs/s/srsoer/introducing_pkl_programming_language) - [Introducing Pkl, a programming language for configuration](https://pkl-lang.org/blog/introducing-pkl.html)

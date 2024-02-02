@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-02, 22:19:58](https://lobste.rs/s/w4aqyv/ray_optics_simulation) - [Ray Optics Simulation](https://phydemo.app/ray-optics/simulator/)
 * [2024-02-02, 21:58:12](https://lobste.rs/s/pzzy8m/nope_forge_release_2024_0) - [Nope Forge Release 2024.0](https://nopeforge.org/news/release-2024.0/)
 * [2024-02-02, 21:00:21](https://lobste.rs/s/dvfyd5/ratatui_0_26) - [Ratatui 0.26](https://ratatui.rs/highlights/v026/)
 * [2024-02-02, 20:48:50](https://lobste.rs/s/srsoer/introducing_pkl_programming_language) - [Introducing Pkl, a programming language for configuration](https://pkl-lang.org/blog/introducing-pkl.html)
@@ -23,7 +24,6 @@
 * [2024-02-01, 20:47:39](https://lobste.rs/s/yghu48/cloudflare_thanksgiving_2023_security) - [Cloudflare Thanksgiving 2023 security incident](https://blog.cloudflare.com/thanksgiving-2023-security-incident/)
 * [2024-02-01, 13:57:35](https://lobste.rs/s/sxmrfg/typestate_new_design_pattern_swift_5_9) - [Typestate - the new Design Pattern in Swift 5.9](https://swiftology.io/articles/typestate/)
 * [2024-02-01, 13:48:27](https://lobste.rs/s/yycnxk/damn_small_linux_2024) - [Damn Small Linux 2024](https://www.damnsmalllinux.org/)
-* [2024-02-01, 12:02:41](https://lobste.rs/s/bxs6dh/plea_for_more_mikado) - [A Plea for more Mikado](https://dmathieu.com/articles/opinions/mikado/)
 * [2024-02-01, 09:27:18](https://lobste.rs/s/wskmhg/core_verse_haskell_with_simon_peyton) - [The Core of Verse & Haskell, with Simon Peyton Jones](https://youtu.be/UBgam9XUHs0)
 
 ## [Archives](archives/index.md)
