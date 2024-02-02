@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-02, 17:43:25](https://lobste.rs/s/bo0ghu/locality_behaviour_lob_2020) - [Locality of Behaviour (LoB) (2020)](https://htmx.org/essays/locality-of-behaviour/)
 * [2024-02-02, 16:58:22](https://lobste.rs/s/tm7djx/pigweed_modern_software_development_for) - [Pigweed - Modern software development for embedded systems](https://pigweed.dev)
 * [2024-02-02, 15:59:37](https://lobste.rs/s/teiyo4/how_firefox_gives_special_permissions) - [How Firefox gives special permissions to some domains](https://frederik-braun.com/special-browser-privileges-for-some-domains.html)
 * [2024-02-02, 15:52:46](https://lobste.rs/s/x3npcg/kera_desktop_desktop_environment_for_web) - [Kera Desktop - A desktop environment for web apps](https://gitlab.com/kerahq/Kera-Desktop)
@@ -23,7 +24,6 @@
 * [2024-02-01, 13:48:27](https://lobste.rs/s/yycnxk/damn_small_linux_2024) - [Damn Small Linux 2024](https://www.damnsmalllinux.org/)
 * [2024-02-01, 12:02:41](https://lobste.rs/s/bxs6dh/plea_for_more_mikado) - [A Plea for more Mikado](https://dmathieu.com/articles/opinions/mikado/)
 * [2024-02-01, 09:27:18](https://lobste.rs/s/wskmhg/core_verse_haskell_with_simon_peyton) - [The Core of Verse & Haskell, with Simon Peyton Jones](https://youtu.be/UBgam9XUHs0)
-* [2024-01-31, 19:24:54](https://lobste.rs/s/awkjch/si_units_for_request_rate) - [SI Units for Request Rate](https://two-wrongs.com/si-units-for-request-rate)
 * [2024-01-31, 15:04:49](https://lobste.rs/s/vwgmz0/jepsen_ravendb_6_0_2) - [Jepsen: RavenDB 6.0.2](https://jepsen.io/analyses/ravendb-6.0.2)
 
 ## [Archives](archives/index.md)
