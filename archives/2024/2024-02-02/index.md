@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-02](index.md)
 
+* [2024-02-02, 11:02:48](https://lobste.rs/s/ddk0bt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ddk0bt/what_are_you_doing_this_weekend)
 * [2024-02-02, 09:32:36](https://lobste.rs/s/1aamnj/property_testing_stateful_code_rust) - [Property Testing Stateful Code in Rust](https://rtpg.co/2024/02/02/property-testing-with-imperative-rust/)
 * [2024-02-02, 09:13:50](https://lobste.rs/s/hqg2yh/device_query_mad_max_intune_suite_feature) - [Device Query: A Mad Max Intune Suite Feature](https://call4cloud.nl/2024/02/device-query-a-mad-max-feature/)
 * [2024-02-02, 08:45:29](https://lobste.rs/s/7vfwbw/khronos_releases_av1_decode_vulkan_video) - [Khronos Releases AV1 Decode in Vulkan Video with SDK Support for H.264/H.265 Encode](https://www.khronos.org/blog/khronos-releases-vulkan-video-av1-decode-extension-vulkan-sdk-now-supports-h.264-h.265-encode)
