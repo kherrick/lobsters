@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-02, 05:45:31](https://lobste.rs/s/9yxzsy/microdot_web_framework_for) - [Microdot: a web framework for microcontrollers](https://lwn.net//Articles/959067/)
 * [2024-02-02, 05:23:11](https://lobste.rs/s/2pfwxp/well_known_secrets_amigados) - [Well-known Secrets of AmigaDOS](https://www.datagubbe.se/adosmyst/)
 * [2024-02-02, 04:25:03](https://lobste.rs/s/te0qbh/solving_sat_via_positive) - [Solving SAT via Positive Supercompilation](https://hirrolot.github.io/posts/sat-supercompilation.html)
 * [2024-02-02, 01:53:05](https://lobste.rs/s/7wjhmu/making_async_rust_reliable) - [Making Async Rust Reliable](https://tmandry.gitlab.io/blog/posts/making-async-reliable/)
@@ -16,7 +17,6 @@
 * [2024-02-01, 15:24:09](https://lobste.rs/s/jfxp39/new_concurrent_ml_2017) - [a new concurrent ml (2017)](http://wingolog.org/archives/2017/06/29/a-new-concurrent-ml)
 * [2024-02-01, 13:57:35](https://lobste.rs/s/sxmrfg/typestate_new_design_pattern_swift_5_9) - [Typestate - the new Design Pattern in Swift 5.9](https://swiftology.io/articles/typestate/)
 * [2024-02-01, 13:48:27](https://lobste.rs/s/yycnxk/damn_small_linux_2024) - [Damn Small Linux 2024](https://www.damnsmalllinux.org/)
-* [2024-02-01, 13:25:06](https://lobste.rs/s/tirnmc/debugging_mixed_python_c_language_stack) - [Debugging a Mixed Python and C Language Stack](https://developer.nvidia.com/blog/debugging-mixed-python-and-c-language-stack/)
 * [2024-02-01, 12:02:41](https://lobste.rs/s/bxs6dh/plea_for_more_mikado) - [A Plea for more Mikado](https://dmathieu.com/articles/opinions/mikado/)
 * [2024-02-01, 09:27:18](https://lobste.rs/s/wskmhg/core_verse_haskell_with_simon_peyton) - [The Core of Verse & Haskell, with Simon Peyton Jones](https://youtu.be/UBgam9XUHs0)
 * [2024-02-01, 05:56:32](https://lobste.rs/s/1cdu1j/accesskit_ui_accessibility) - [AccessKit: UI accessibility infrastructure across platforms and programming languages](https://github.com/AccessKit/accesskit)
