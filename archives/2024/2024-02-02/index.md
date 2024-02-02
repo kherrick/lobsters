@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-02](index.md)
 
+* [2024-02-02, 20:48:50](https://lobste.rs/s/srsoer/introducing_pkl_programming_language) - [Introducing Pkl, a programming language for configuration](https://pkl-lang.org/blog/introducing-pkl.html)
 * [2024-02-02, 18:40:23](https://lobste.rs/s/pvvbhm/jj_init) - [jj init](https://v5.chriskrycho.com/essays/jj-init/)
 * [2024-02-02, 17:43:25](https://lobste.rs/s/bo0ghu/locality_behaviour_lob_2020) - [Locality of Behaviour (LoB) (2020)](https://htmx.org/essays/locality-of-behaviour/)
 * [2024-02-02, 16:58:22](https://lobste.rs/s/tm7djx/pigweed_modern_software_development_for) - [Pigweed - Modern software development for embedded systems](https://pigweed.dev)
