@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-02](index.md)
 
+* [2024-02-02, 18:40:23](https://lobste.rs/s/pvvbhm/jj_init) - [jj init](https://v5.chriskrycho.com/essays/jj-init/)
 * [2024-02-02, 17:43:25](https://lobste.rs/s/bo0ghu/locality_behaviour_lob_2020) - [Locality of Behaviour (LoB) (2020)](https://htmx.org/essays/locality-of-behaviour/)
 * [2024-02-02, 16:58:22](https://lobste.rs/s/tm7djx/pigweed_modern_software_development_for) - [Pigweed - Modern software development for embedded systems](https://pigweed.dev)
 * [2024-02-02, 15:59:37](https://lobste.rs/s/teiyo4/how_firefox_gives_special_permissions) - [How Firefox gives special permissions to some domains](https://frederik-braun.com/special-browser-privileges-for-some-domains.html)
