@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2024-02-01, 17:56:25",
+      "https://lobste.rs/s/x04rk0/announcing_interop_2024"
+    ],
+    [
+      "Announcing Interop 2024",
+      "https://hacks.mozilla.org/2024/02/announcing-interop-2024/"
+    ]
+  ],
+  [
+    [
       "2024-02-01, 13:57:35",
       "https://lobste.rs/s/sxmrfg/typestate_new_design_pattern_swift_5_9"
     ],
@@ -217,16 +227,6 @@
     [
       "The Core of Verse & Haskell, with Simon Peyton Jones",
       "https://youtu.be/UBgam9XUHs0"
-    ]
-  ],
-  [
-    [
-      "2024-02-01, 05:20:50",
-      "https://lobste.rs/s/ulfdn2/i_know_languages_have_support_for_read"
-    ],
-    [
-      "I know languages that have support for “read-only memory,” but what about “write-only memory?”",
-      "https://boston.conman.org/2024/01/31.3"
     ]
   ],
   [
