@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-03, 21:31:10",
+      "https://lobste.rs/s/ltkcuk/files_are_fraught_with_peril_2019"
+    ],
+    [
+      "Files are fraught with peril [2019]",
+      "https://danluu.com/deconstruct-files/"
+    ]
+  ],
+  [
+    [
       "2024-02-03, 21:15:43",
       "https://lobste.rs/s/d3dacj/engineering_behind_figma_s_vector"
     ],
@@ -227,16 +237,6 @@
     [
       "The European regulators listened to the Open Source communities",
       "https://blog.opensource.org/the-european-regulators-listened-to-the-open-source-communities/"
-    ]
-  ],
-  [
-    [
-      "2024-02-02, 09:32:36",
-      "https://lobste.rs/s/1aamnj/property_testing_stateful_code_rust"
-    ],
-    [
-      "Property Testing Stateful Code in Rust",
-      "https://rtpg.co/2024/02/02/property-testing-with-imperative-rust/"
     ]
   ],
   [
