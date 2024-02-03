@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-03, 13:31:30",
+      "https://lobste.rs/s/l5stxd/achieving_safe_aliasable_mutability"
+    ],
+    [
+      "Achieving Safe, Aliasable Mutability with Unboxed Types",
+      "https://antelang.org/blog/safe_shared_mutability/"
+    ]
+  ],
+  [
+    [
       "2024-02-03, 11:06:42",
       "https://lobste.rs/s/sktrst/fosdem_2024_live_streaming"
     ],
@@ -217,16 +227,6 @@
     [
       "Well-known Secrets of AmigaDOS",
       "https://www.datagubbe.se/adosmyst/"
-    ]
-  ],
-  [
-    [
-      "2024-02-02, 04:25:03",
-      "https://lobste.rs/s/te0qbh/solving_sat_via_positive"
-    ],
-    [
-      "Solving SAT via Positive Supercompilation",
-      "https://hirrolot.github.io/posts/sat-supercompilation.html"
     ]
   ],
   [
