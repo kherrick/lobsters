@@ -8,7 +8,6 @@
 * [2024-02-02, 21:00:21](https://lobste.rs/s/dvfyd5/ratatui_0_26) - [Ratatui 0.26](https://ratatui.rs/highlights/v026/)
 * [2024-02-02, 20:48:50](https://lobste.rs/s/srsoer/introducing_pkl_programming_language) - [Introducing Pkl, a programming language for configuration](https://pkl-lang.org/blog/introducing-pkl.html)
 * [2024-02-02, 18:40:23](https://lobste.rs/s/pvvbhm/jj_init) - [jj init](https://v5.chriskrycho.com/essays/jj-init/)
-* [2024-02-02, 17:43:25](https://lobste.rs/s/bo0ghu/locality_behaviour_lob_2020) - [Locality of Behaviour (LoB) (2020)](https://htmx.org/essays/locality-of-behaviour/)
 * [2024-02-02, 16:58:22](https://lobste.rs/s/tm7djx/pigweed_modern_software_development_for) - [Pigweed - Modern software development for embedded systems](https://pigweed.dev)
 * [2024-02-02, 15:59:37](https://lobste.rs/s/teiyo4/how_firefox_gives_special_permissions) - [How Firefox gives special permissions to some domains](https://frederik-braun.com/special-browser-privileges-for-some-domains.html)
 * [2024-02-02, 15:52:46](https://lobste.rs/s/x3npcg/kera_desktop_desktop_environment_for_web) - [Kera Desktop - A desktop environment for web apps](https://gitlab.com/kerahq/Kera-Desktop)
@@ -23,6 +22,7 @@
 * [2024-02-02, 01:50:44](https://lobste.rs/s/dajihw/personal_link_shortener_using_mostly_s3) - [A personal link shortener using mostly S3](https://www.jonathanychan.com/blog/link-shortener/)
 * [2024-02-02, 01:38:29](https://lobste.rs/s/tkqhvr/don_t_prefill_config_files) - [Don’t prefill config files](https://www.makeworld.space/2024/02/no_prefill_config.html)
 * [2024-02-01, 22:08:24](https://lobste.rs/s/feniaz/deno_1_40_temporal_api) - [Deno 1.40: Temporal API](https://deno.com/blog/v1.40)
+* [2024-02-01, 20:47:39](https://lobste.rs/s/yghu48/cloudflare_thanksgiving_2023_security) - [Cloudflare Thanksgiving 2023 security incident](https://blog.cloudflare.com/thanksgiving-2023-security-incident/)
 * [2024-02-01, 13:48:27](https://lobste.rs/s/yycnxk/damn_small_linux_2024) - [Damn Small Linux 2024](https://www.damnsmalllinux.org/)
 * [2024-02-01, 09:27:18](https://lobste.rs/s/wskmhg/core_verse_haskell_with_simon_peyton) - [The Core of Verse & Haskell, with Simon Peyton Jones](https://youtu.be/UBgam9XUHs0)
 
