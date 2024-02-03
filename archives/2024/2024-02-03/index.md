@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-03](index.md)
 
+* [2024-02-03, 19:26:47](https://lobste.rs/s/awcoy3/let_futures_be_futures) - [Let futures be futures](https://without.boats/blog/let-futures-be-futures/)
 * [2024-02-03, 18:34:59](https://lobste.rs/s/of7y9q/method_differences) - [Method of Differences](https://ztoz.blog/posts/method-differences/)
 * [2024-02-03, 18:13:09](https://lobste.rs/s/wgyrwy/visual_overview_custom_malloc) - [Visual overview of a custom malloc() implementation](https://silent-tower.net/projects/visual-overview-malloc)
 * [2024-02-03, 17:56:21](https://lobste.rs/s/pw2z3v/learning_rust_3_attempts) - [Learning Rust in 3 attempts](https://shreyb.dev/blog/2024/02/02/learning-rust.html)

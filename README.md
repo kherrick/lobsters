@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-03, 19:26:47](https://lobste.rs/s/awcoy3/let_futures_be_futures) - [Let futures be futures](https://without.boats/blog/let-futures-be-futures/)
 * [2024-02-03, 18:34:59](https://lobste.rs/s/of7y9q/method_differences) - [Method of Differences](https://ztoz.blog/posts/method-differences/)
 * [2024-02-03, 18:13:09](https://lobste.rs/s/wgyrwy/visual_overview_custom_malloc) - [Visual overview of a custom malloc() implementation](https://silent-tower.net/projects/visual-overview-malloc)
 * [2024-02-03, 17:56:21](https://lobste.rs/s/pw2z3v/learning_rust_3_attempts) - [Learning Rust in 3 attempts](https://shreyb.dev/blog/2024/02/02/learning-rust.html)
@@ -23,7 +24,6 @@
 * [2024-02-02, 12:13:50](https://lobste.rs/s/gwipg0/european_regulators_listened_open) - [The European regulators listened to the Open Source communities](https://blog.opensource.org/the-european-regulators-listened-to-the-open-source-communities/)
 * [2024-02-02, 11:02:48](https://lobste.rs/s/ddk0bt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ddk0bt/what_are_you_doing_this_weekend)
 * [2024-02-02, 09:32:36](https://lobste.rs/s/1aamnj/property_testing_stateful_code_rust) - [Property Testing Stateful Code in Rust](https://rtpg.co/2024/02/02/property-testing-with-imperative-rust/)
-* [2024-02-02, 07:14:00](https://lobste.rs/s/n193di/ruff_v0_2_0) - [Ruff v0.2.0](https://astral.sh/blog/ruff-v0.2.0)
 * [2024-02-02, 01:38:29](https://lobste.rs/s/tkqhvr/don_t_prefill_config_files) - [Don’t prefill config files](https://www.makeworld.space/2024/02/no_prefill_config.html)
 
 ## [Archives](archives/index.md)
