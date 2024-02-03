@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-03, 18:13:09](https://lobste.rs/s/wgyrwy/visual_overview_custom_malloc) - [Visual overview of a custom malloc() implementation](https://silent-tower.net/projects/visual-overview-malloc)
 * [2024-02-03, 17:56:21](https://lobste.rs/s/pw2z3v/learning_rust_3_attempts) - [Learning Rust in 3 attempts](https://shreyb.dev/blog/2024/02/02/learning-rust.html)
 * [2024-02-03, 16:52:16](https://lobste.rs/s/oisdfu/gov4git_superpower_for_open_source) - [Gov4Git: A superpower for open-source project maintainers](https://medium.com/@gov4git/gov4git-a-superpower-for-open-source-project-maintainers-bbce0f567634)
 * [2024-02-03, 15:53:32](https://lobste.rs/s/sbjdhy/folk_computer) - [Folk Computer](https://folk.computer/)
@@ -14,7 +15,6 @@
 * [2024-02-03, 05:50:19](https://lobste.rs/s/9ml6c9/mame_debugging_tips) - [MAME Debugging tips](https://mattgreer.dev/blog/mame-debugging/)
 * [2024-02-03, 05:33:26](https://lobste.rs/s/w6kdyk/s_bash_zsh_g) - [s/bash/zsh/g](https://www.arp242.net/why-zsh.html)
 * [2024-02-02, 22:19:58](https://lobste.rs/s/w4aqyv/ray_optics_simulation) - [Ray Optics Simulation](https://phydemo.app/ray-optics/simulator/)
-* [2024-02-02, 21:58:12](https://lobste.rs/s/pzzy8m/nope_forge_release_2024_0) - [Nope Forge Release 2024.0](https://nopeforge.org/news/release-2024.0/)
 * [2024-02-02, 21:00:21](https://lobste.rs/s/dvfyd5/ratatui_0_26) - [Ratatui 0.26](https://ratatui.rs/highlights/v026/)
 * [2024-02-02, 20:48:50](https://lobste.rs/s/srsoer/introducing_pkl_programming_language) - [Introducing Pkl, a programming language for configuration](https://pkl-lang.org/blog/introducing-pkl.html)
 * [2024-02-02, 18:40:23](https://lobste.rs/s/pvvbhm/jj_init) - [jj init](https://v5.chriskrycho.com/essays/jj-init/)
