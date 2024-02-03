@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-03, 16:52:16](https://lobste.rs/s/oisdfu/gov4git_superpower_for_open_source) - [Gov4Git: A superpower for open-source project maintainers](https://medium.com/@gov4git/gov4git-a-superpower-for-open-source-project-maintainers-bbce0f567634)
 * [2024-02-03, 15:53:32](https://lobste.rs/s/sbjdhy/folk_computer) - [Folk Computer](https://folk.computer/)
 * [2024-02-03, 14:54:16](https://lobste.rs/s/jphjfo/compiling_pattern_matching) - [Compiling Pattern Matching](https://compiler.club/compiling-pattern-matching/)
 * [2024-02-03, 14:14:21](https://lobste.rs/s/ckoiyh/how_i_reduced_size_my_very_first_published) - [How I reduced the size of my very first published docker image by 40% - A lesson in dockerizing shell scripts](https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/)
@@ -18,7 +19,6 @@
 * [2024-02-02, 18:40:23](https://lobste.rs/s/pvvbhm/jj_init) - [jj init](https://v5.chriskrycho.com/essays/jj-init/)
 * [2024-02-02, 16:58:22](https://lobste.rs/s/tm7djx/pigweed_modern_software_development_for) - [Pigweed - Modern software development for embedded systems](https://pigweed.dev)
 * [2024-02-02, 15:59:37](https://lobste.rs/s/teiyo4/how_firefox_gives_special_permissions) - [How Firefox gives special permissions to some domains](https://frederik-braun.com/special-browser-privileges-for-some-domains.html)
-* [2024-02-02, 15:52:46](https://lobste.rs/s/x3npcg/kera_desktop_desktop_environment_for_web) - [Kera Desktop - A desktop environment for web apps](https://gitlab.com/kerahq/Kera-Desktop)
 * [2024-02-02, 15:38:41](https://lobste.rs/s/q5xqc0/decline_hardware_knowledge_era_cloud) - [The Decline of Hardware Knowledge in the Era of Cloud Native Compute](https://www.magesguild.io/the-decline-of-hardware-knowledge-in-the-era-of-cloud-native-compute/)
 * [2024-02-02, 12:13:50](https://lobste.rs/s/gwipg0/european_regulators_listened_open) - [The European regulators listened to the Open Source communities](https://blog.opensource.org/the-european-regulators-listened-to-the-open-source-communities/)
 * [2024-02-02, 11:02:48](https://lobste.rs/s/ddk0bt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ddk0bt/what_are_you_doing_this_weekend)
