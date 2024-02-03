@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-03, 14:54:16",
+      "https://lobste.rs/s/jphjfo/compiling_pattern_matching"
+    ],
+    [
+      "Compiling Pattern Matching",
+      "https://compiler.club/compiling-pattern-matching/"
+    ]
+  ],
+  [
+    [
       "2024-02-03, 14:14:21",
       "https://lobste.rs/s/ckoiyh/how_i_reduced_size_my_very_first_published"
     ],
@@ -227,16 +237,6 @@
     [
       "Ruff v0.2.0",
       "https://astral.sh/blog/ruff-v0.2.0"
-    ]
-  ],
-  [
-    [
-      "2024-02-02, 01:50:44",
-      "https://lobste.rs/s/dajihw/personal_link_shortener_using_mostly_s3"
-    ],
-    [
-      "A personal link shortener using mostly S3",
-      "https://www.jonathanychan.com/blog/link-shortener/"
     ]
   ],
   [
