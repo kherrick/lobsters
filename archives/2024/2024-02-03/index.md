@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-03](index.md)
 
+* [2024-02-03, 17:56:21](https://lobste.rs/s/pw2z3v/learning_rust_3_attempts) - [Learning Rust in 3 attempts](https://shreyb.dev/blog/2024/02/02/learning-rust.html)
 * [2024-02-03, 16:52:16](https://lobste.rs/s/oisdfu/gov4git_superpower_for_open_source) - [Gov4Git: A superpower for open-source project maintainers](https://medium.com/@gov4git/gov4git-a-superpower-for-open-source-project-maintainers-bbce0f567634)
 * [2024-02-03, 15:53:32](https://lobste.rs/s/sbjdhy/folk_computer) - [Folk Computer](https://folk.computer/)
 * [2024-02-03, 14:54:16](https://lobste.rs/s/jphjfo/compiling_pattern_matching) - [Compiling Pattern Matching](https://compiler.club/compiling-pattern-matching/)
