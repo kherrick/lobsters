@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-03](index.md)
 
+* [2024-02-03, 22:13:23](https://lobste.rs/s/reguv5/reverse_engineering_standard_cell_logic) - [Reverse engineering standard cell logic in the Intel 386 processor](http://www.righto.com/2024/01/intel-386-standard-cells.html)
 * [2024-02-03, 21:46:00](https://lobste.rs/s/dxx1tk/rye_hassle_free_python_experience) - [Rye: a Hassle-Free Python Experience](https://www.youtube.com/watch?v=q99TYA7LnuA)
 * [2024-02-03, 21:31:10](https://lobste.rs/s/ltkcuk/files_are_fraught_with_peril_2019) - [Files are fraught with peril [2019]](https://danluu.com/deconstruct-files/)
 * [2024-02-03, 21:15:43](https://lobste.rs/s/d3dacj/engineering_behind_figma_s_vector) - [The Engineering behind Figma's Vector Networks](https://alexharri.com/blog/vector-networks)
