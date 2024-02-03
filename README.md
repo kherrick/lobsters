@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-03, 13:31:30](https://lobste.rs/s/l5stxd/achieving_safe_aliasable_mutability) - [Achieving Safe, Aliasable Mutability with Unboxed Types](https://antelang.org/blog/safe_shared_mutability/)
 * [2024-02-03, 11:06:42](https://lobste.rs/s/sktrst/fosdem_2024_live_streaming) - [FOSDEM 2024 - Live Streaming](https://fosdem.org/2024/schedule/streaming/)
 * [2024-02-03, 07:35:01](https://lobste.rs/s/cbh2xn/building_hypervisor_1_kvm_introduction) - [Building a hypervisor, 1: KVM Introduction](https://iovec.net/2024-01-29)
 * [2024-02-03, 06:08:06](https://lobste.rs/s/lkbpud/undercover_generalist) - [The undercover generalist](https://ochagavia.nl/blog/the-undercover-generalist/)
@@ -22,7 +23,6 @@
 * [2024-02-02, 09:32:36](https://lobste.rs/s/1aamnj/property_testing_stateful_code_rust) - [Property Testing Stateful Code in Rust](https://rtpg.co/2024/02/02/property-testing-with-imperative-rust/)
 * [2024-02-02, 07:14:00](https://lobste.rs/s/n193di/ruff_v0_2_0) - [Ruff v0.2.0](https://astral.sh/blog/ruff-v0.2.0)
 * [2024-02-02, 05:23:11](https://lobste.rs/s/2pfwxp/well_known_secrets_amigados) - [Well-known Secrets of AmigaDOS](https://www.datagubbe.se/adosmyst/)
-* [2024-02-02, 04:25:03](https://lobste.rs/s/te0qbh/solving_sat_via_positive) - [Solving SAT via Positive Supercompilation](https://hirrolot.github.io/posts/sat-supercompilation.html)
 * [2024-02-02, 01:50:44](https://lobste.rs/s/dajihw/personal_link_shortener_using_mostly_s3) - [A personal link shortener using mostly S3](https://www.jonathanychan.com/blog/link-shortener/)
 * [2024-02-02, 01:38:29](https://lobste.rs/s/tkqhvr/don_t_prefill_config_files) - [Don’t prefill config files](https://www.makeworld.space/2024/02/no_prefill_config.html)
 

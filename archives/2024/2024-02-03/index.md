@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-03](index.md)
 
+* [2024-02-03, 13:31:30](https://lobste.rs/s/l5stxd/achieving_safe_aliasable_mutability) - [Achieving Safe, Aliasable Mutability with Unboxed Types](https://antelang.org/blog/safe_shared_mutability/)
 * [2024-02-03, 11:06:42](https://lobste.rs/s/sktrst/fosdem_2024_live_streaming) - [FOSDEM 2024 - Live Streaming](https://fosdem.org/2024/schedule/streaming/)
 * [2024-02-03, 07:35:01](https://lobste.rs/s/cbh2xn/building_hypervisor_1_kvm_introduction) - [Building a hypervisor, 1: KVM Introduction](https://iovec.net/2024-01-29)
 * [2024-02-03, 06:08:06](https://lobste.rs/s/lkbpud/undercover_generalist) - [The undercover generalist](https://ochagavia.nl/blog/the-undercover-generalist/)
