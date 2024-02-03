@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-03](index.md)
 
+* [2024-02-03, 20:25:17](https://lobste.rs/s/zb0wdh/breaking_bitlocker_bypassing_windows) - [Breaking Bitlocker - Bypassing the Windows Disk Encryption](https://m.youtube.com/watch?v=wTl4vEednkQ)
 * [2024-02-03, 19:26:47](https://lobste.rs/s/awcoy3/let_futures_be_futures) - [Let futures be futures](https://without.boats/blog/let-futures-be-futures/)
 * [2024-02-03, 18:34:59](https://lobste.rs/s/of7y9q/method_differences) - [Method of Differences](https://ztoz.blog/posts/method-differences/)
 * [2024-02-03, 18:13:09](https://lobste.rs/s/wgyrwy/visual_overview_custom_malloc) - [Visual overview of a custom malloc() implementation](https://silent-tower.net/projects/visual-overview-malloc)
