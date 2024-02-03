@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-03](index.md)
 
+* [2024-02-03, 21:46:00](https://lobste.rs/s/dxx1tk/rye_hassle_free_python_experience) - [Rye: a Hassle-Free Python Experience](https://www.youtube.com/watch?v=q99TYA7LnuA)
 * [2024-02-03, 21:31:10](https://lobste.rs/s/ltkcuk/files_are_fraught_with_peril_2019) - [Files are fraught with peril [2019]](https://danluu.com/deconstruct-files/)
 * [2024-02-03, 21:15:43](https://lobste.rs/s/d3dacj/engineering_behind_figma_s_vector) - [The Engineering behind Figma's Vector Networks](https://alexharri.com/blog/vector-networks)
 * [2024-02-03, 21:14:50](https://lobste.rs/s/i5k5dl/glide_open_blazing_fast_model_gateway_for) - [Glide, an open blazing-fast model gateway for production-ready GenAI apps](https://github.com/EinStack/glide)
