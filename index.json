@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-03, 11:06:42",
+      "https://lobste.rs/s/sktrst/fosdem_2024_live_streaming"
+    ],
+    [
+      "FOSDEM 2024 - Live Streaming",
+      "https://fosdem.org/2024/schedule/streaming/"
+    ]
+  ],
+  [
+    [
       "2024-02-03, 07:35:01",
       "https://lobste.rs/s/cbh2xn/building_hypervisor_1_kvm_introduction"
     ],
@@ -237,16 +247,6 @@
     [
       "Don’t prefill config files",
       "https://www.makeworld.space/2024/02/no_prefill_config.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-01, 09:27:18",
-      "https://lobste.rs/s/wskmhg/core_verse_haskell_with_simon_peyton"
-    ],
-    [
-      "The Core of Verse & Haskell, with Simon Peyton Jones",
-      "https://youtu.be/UBgam9XUHs0"
     ]
   ]
 ]
