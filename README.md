@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-03, 21:15:43](https://lobste.rs/s/d3dacj/engineering_behind_figma_s_vector) - [The Engineering behind Figma's Vector Networks](https://alexharri.com/blog/vector-networks)
+* [2024-02-03, 21:14:50](https://lobste.rs/s/i5k5dl/glide_open_blazing_fast_model_gateway_for) - [Glide, an open blazing-fast model gateway for production-ready GenAI apps](https://github.com/EinStack/glide)
 * [2024-02-03, 20:25:17](https://lobste.rs/s/zb0wdh/breaking_bitlocker_bypassing_windows) - [Breaking Bitlocker - Bypassing the Windows Disk Encryption](https://m.youtube.com/watch?v=wTl4vEednkQ)
 * [2024-02-03, 19:26:47](https://lobste.rs/s/awcoy3/let_futures_be_futures) - [Let futures be futures](https://without.boats/blog/let-futures-be-futures/)
 * [2024-02-03, 18:34:59](https://lobste.rs/s/of7y9q/method_differences) - [Method of Differences](https://ztoz.blog/posts/method-differences/)
@@ -15,9 +17,7 @@
 * [2024-02-03, 11:06:42](https://lobste.rs/s/sktrst/fosdem_2024_live_streaming) - [FOSDEM 2024 - Live Streaming](https://fosdem.org/2024/schedule/streaming/)
 * [2024-02-03, 07:35:01](https://lobste.rs/s/cbh2xn/building_hypervisor_1_kvm_introduction) - [Building a hypervisor, 1: KVM Introduction](https://iovec.net/2024-01-29)
 * [2024-02-03, 06:08:06](https://lobste.rs/s/lkbpud/undercover_generalist) - [The undercover generalist](https://ochagavia.nl/blog/the-undercover-generalist/)
-* [2024-02-03, 05:50:19](https://lobste.rs/s/9ml6c9/mame_debugging_tips) - [MAME Debugging tips](https://mattgreer.dev/blog/mame-debugging/)
 * [2024-02-03, 05:33:26](https://lobste.rs/s/w6kdyk/s_bash_zsh_g) - [s/bash/zsh/g](https://www.arp242.net/why-zsh.html)
-* [2024-02-02, 22:19:58](https://lobste.rs/s/w4aqyv/ray_optics_simulation) - [Ray Optics Simulation](https://phydemo.app/ray-optics/simulator/)
 * [2024-02-02, 21:00:21](https://lobste.rs/s/dvfyd5/ratatui_0_26) - [Ratatui 0.26](https://ratatui.rs/highlights/v026/)
 * [2024-02-02, 20:48:50](https://lobste.rs/s/srsoer/introducing_pkl_programming_language) - [Introducing Pkl, a programming language for configuration](https://pkl-lang.org/blog/introducing-pkl.html)
 * [2024-02-02, 18:40:23](https://lobste.rs/s/pvvbhm/jj_init) - [jj init](https://v5.chriskrycho.com/essays/jj-init/)
