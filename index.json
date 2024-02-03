@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-03, 14:14:21",
+      "https://lobste.rs/s/ckoiyh/how_i_reduced_size_my_very_first_published"
+    ],
+    [
+      "How I reduced the size of my very first published docker image by 40% - A lesson in dockerizing shell scripts",
+      "https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/"
+    ]
+  ],
+  [
+    [
       "2024-02-03, 14:10:03",
       "https://lobste.rs/s/rfwwmo/blogging_djot_instead_markdown"
     ],
@@ -77,16 +87,6 @@
     [
       "s/bash/zsh/g",
       "https://www.arp242.net/why-zsh.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-03, 00:22:04",
-      "https://lobste.rs/s/uac3ji/building_hangman"
-    ],
-    [
-      "Building Hangman",
-      "https://re.factorcode.org/2023/12/building-hangman.html"
     ]
   ],
   [
