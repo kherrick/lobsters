@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-03, 00:22:04",
+      "https://lobste.rs/s/uac3ji/building_hangman"
+    ],
+    [
+      "Building Hangman",
+      "https://re.factorcode.org/2023/12/building-hangman.html"
+    ]
+  ],
+  [
+    [
       "2024-02-02, 23:24:00",
       "https://lobste.rs/s/nyjzzv/function_contracts_for_kani"
     ],
@@ -217,16 +227,6 @@
     [
       "Deno 1.40: Temporal API",
       "https://deno.com/blog/v1.40"
-    ]
-  ],
-  [
-    [
-      "2024-02-01, 20:47:39",
-      "https://lobste.rs/s/yghu48/cloudflare_thanksgiving_2023_security"
-    ],
-    [
-      "Cloudflare Thanksgiving 2023 security incident",
-      "https://blog.cloudflare.com/thanksgiving-2023-security-incident/"
     ]
   ],
   [
