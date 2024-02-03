@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-03, 21:15:43",
+      "https://lobste.rs/s/d3dacj/engineering_behind_figma_s_vector"
+    ],
+    [
+      "The Engineering behind Figma's Vector Networks",
+      "https://alexharri.com/blog/vector-networks"
+    ]
+  ],
+  [
+    [
+      "2024-02-03, 21:14:50",
+      "https://lobste.rs/s/i5k5dl/glide_open_blazing_fast_model_gateway_for"
+    ],
+    [
+      "Glide, an open blazing-fast model gateway for production-ready GenAI apps",
+      "https://github.com/EinStack/glide"
+    ]
+  ],
+  [
+    [
       "2024-02-03, 20:25:17",
       "https://lobste.rs/s/zb0wdh/breaking_bitlocker_bypassing_windows"
     ],
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2024-02-03, 05:50:19",
-      "https://lobste.rs/s/9ml6c9/mame_debugging_tips"
-    ],
-    [
-      "MAME Debugging tips",
-      "https://mattgreer.dev/blog/mame-debugging/"
-    ]
-  ],
-  [
-    [
       "2024-02-03, 05:33:26",
       "https://lobste.rs/s/w6kdyk/s_bash_zsh_g"
     ],
     [
       "s/bash/zsh/g",
       "https://www.arp242.net/why-zsh.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-02, 22:19:58",
-      "https://lobste.rs/s/w4aqyv/ray_optics_simulation"
-    ],
-    [
-      "Ray Optics Simulation",
-      "https://phydemo.app/ray-optics/simulator/"
     ]
   ],
   [
