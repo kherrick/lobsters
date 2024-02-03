@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-03, 14:54:16](https://lobste.rs/s/jphjfo/compiling_pattern_matching) - [Compiling Pattern Matching](https://compiler.club/compiling-pattern-matching/)
 * [2024-02-03, 14:14:21](https://lobste.rs/s/ckoiyh/how_i_reduced_size_my_very_first_published) - [How I reduced the size of my very first published docker image by 40% - A lesson in dockerizing shell scripts](https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/)
 * [2024-02-03, 14:10:03](https://lobste.rs/s/rfwwmo/blogging_djot_instead_markdown) - [Blogging in Djot instead of Markdown](https://www.jonashietala.se/blog/2024/02/02/blogging_in_djot_instead_of_markdown/)
 * [2024-02-03, 14:02:06](https://lobste.rs/s/38arqp/everything_i_know_about_ssds_2019) - [Everything I Know About SSDs (2019)](https://kcall.co.uk/ssd/index.html)
@@ -23,7 +24,6 @@
 * [2024-02-02, 11:02:48](https://lobste.rs/s/ddk0bt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ddk0bt/what_are_you_doing_this_weekend)
 * [2024-02-02, 09:32:36](https://lobste.rs/s/1aamnj/property_testing_stateful_code_rust) - [Property Testing Stateful Code in Rust](https://rtpg.co/2024/02/02/property-testing-with-imperative-rust/)
 * [2024-02-02, 07:14:00](https://lobste.rs/s/n193di/ruff_v0_2_0) - [Ruff v0.2.0](https://astral.sh/blog/ruff-v0.2.0)
-* [2024-02-02, 01:50:44](https://lobste.rs/s/dajihw/personal_link_shortener_using_mostly_s3) - [A personal link shortener using mostly S3](https://www.jonathanychan.com/blog/link-shortener/)
 * [2024-02-02, 01:38:29](https://lobste.rs/s/tkqhvr/don_t_prefill_config_files) - [Don’t prefill config files](https://www.makeworld.space/2024/02/no_prefill_config.html)
 
 ## [Archives](archives/index.md)
