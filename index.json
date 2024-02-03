@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-03, 19:26:47",
+      "https://lobste.rs/s/awcoy3/let_futures_be_futures"
+    ],
+    [
+      "Let futures be futures",
+      "https://without.boats/blog/let-futures-be-futures/"
+    ]
+  ],
+  [
+    [
       "2024-02-03, 18:34:59",
       "https://lobste.rs/s/of7y9q/method_differences"
     ],
@@ -227,16 +237,6 @@
     [
       "Property Testing Stateful Code in Rust",
       "https://rtpg.co/2024/02/02/property-testing-with-imperative-rust/"
-    ]
-  ],
-  [
-    [
-      "2024-02-02, 07:14:00",
-      "https://lobste.rs/s/n193di/ruff_v0_2_0"
-    ],
-    [
-      "Ruff v0.2.0",
-      "https://astral.sh/blog/ruff-v0.2.0"
     ]
   ],
   [
