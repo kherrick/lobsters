@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-03](index.md)
 
+* [2024-02-03, 14:10:03](https://lobste.rs/s/rfwwmo/blogging_djot_instead_markdown) - [Blogging in Djot instead of Markdown](https://www.jonashietala.se/blog/2024/02/02/blogging_in_djot_instead_of_markdown/)
+* [2024-02-03, 14:02:06](https://lobste.rs/s/38arqp/everything_i_know_about_ssds_2019) - [Everything I Know About SSDs (2019)](https://kcall.co.uk/ssd/index.html)
 * [2024-02-03, 13:31:30](https://lobste.rs/s/l5stxd/achieving_safe_aliasable_mutability) - [Achieving Safe, Aliasable Mutability with Unboxed Types](https://antelang.org/blog/safe_shared_mutability/)
 * [2024-02-03, 11:06:42](https://lobste.rs/s/sktrst/fosdem_2024_live_streaming) - [FOSDEM 2024 - Live Streaming](https://fosdem.org/2024/schedule/streaming/)
 * [2024-02-03, 07:35:01](https://lobste.rs/s/cbh2xn/building_hypervisor_1_kvm_introduction) - [Building a hypervisor, 1: KVM Introduction](https://iovec.net/2024-01-29)
