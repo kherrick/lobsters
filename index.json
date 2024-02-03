@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-03, 07:35:01",
+      "https://lobste.rs/s/cbh2xn/building_hypervisor_1_kvm_introduction"
+    ],
+    [
+      "Building a hypervisor, 1: KVM Introduction",
+      "https://iovec.net/2024-01-29"
+    ]
+  ],
+  [
+    [
       "2024-02-03, 06:08:06",
       "https://lobste.rs/s/lkbpud/undercover_generalist"
     ],
@@ -227,16 +237,6 @@
     [
       "Don’t prefill config files",
       "https://www.makeworld.space/2024/02/no_prefill_config.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-01, 13:48:27",
-      "https://lobste.rs/s/yycnxk/damn_small_linux_2024"
-    ],
-    [
-      "Damn Small Linux 2024",
-      "https://www.damnsmalllinux.org/"
     ]
   ],
   [
