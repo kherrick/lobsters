@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-04, 01:34:46](https://lobste.rs/s/afsmdg/sentry_overflow) - [Sentry Overflow](https://technicalwriting.tools/posts/sentry-overflow/)
 * [2024-02-04, 00:03:38](https://lobste.rs/s/rk4uhi/source_code_for_drilbert_short_puzzle) - [Source code for Drilbert, a short puzzle game](https://github.com/wheybags/drilbert-pub)
 * [2024-02-03, 22:13:23](https://lobste.rs/s/reguv5/reverse_engineering_standard_cell_logic) - [Reverse engineering standard cell logic in the Intel 386 processor](http://www.righto.com/2024/01/intel-386-standard-cells.html)
 * [2024-02-03, 21:46:00](https://lobste.rs/s/dxx1tk/rye_hassle_free_python_experience) - [Rye: a Hassle-Free Python Experience](https://www.youtube.com/watch?v=q99TYA7LnuA)
@@ -24,7 +25,6 @@
 * [2024-02-02, 20:48:50](https://lobste.rs/s/srsoer/introducing_pkl_programming_language) - [Introducing Pkl, a programming language for configuration](https://pkl-lang.org/blog/introducing-pkl.html)
 * [2024-02-02, 18:40:23](https://lobste.rs/s/pvvbhm/jj_init) - [jj init](https://v5.chriskrycho.com/essays/jj-init/)
 * [2024-02-02, 15:59:37](https://lobste.rs/s/teiyo4/how_firefox_gives_special_permissions) - [How Firefox gives special permissions to some domains](https://frederik-braun.com/special-browser-privileges-for-some-domains.html)
-* [2024-02-02, 12:13:50](https://lobste.rs/s/gwipg0/european_regulators_listened_open) - [The European regulators listened to the Open Source communities](https://blog.opensource.org/the-european-regulators-listened-to-the-open-source-communities/)
 
 ## [Archives](archives/index.md)
 
