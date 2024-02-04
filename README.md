@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-04, 17:44:35](https://lobste.rs/s/tz7tpl/calculator_construction_set) - [Calculator Construction Set](https://www.folklore.org/Calculator_Construction_Set.html)
 * [2024-02-04, 16:52:15](https://lobste.rs/s/cfynbw/how_i_learned_stop_worrying_love_juggling) - [How I Learned to Stop Worrying and Love Juggling C++ Atomics](https://brilliantsugar.github.io/posts/how-i-learned-to-stop-worrying-and-love-juggling-c++-atomics/)
 * [2024-02-04, 16:38:41](https://lobste.rs/s/7eiw62/demostration_fixing_bug_from_medley_s) - [A demostration of fixing a bug from Medley's debugger](https://journal.paoloamoroso.com/a-demostration-of-fixing-a-bug-from-medleys-debugger)
 * [2024-02-04, 15:24:08](https://lobste.rs/s/jzh8ae/quantifying_student_projects) - [Quantifying Student Projects](https://futhark-lang.org/blog/2024-02-03-quantifying-student-projects.html)
@@ -13,7 +14,6 @@
 * [2024-02-04, 01:34:46](https://lobste.rs/s/afsmdg/sentry_overflow) - [Sentry Overflow](https://technicalwriting.tools/posts/sentry-overflow/)
 * [2024-02-04, 00:03:38](https://lobste.rs/s/rk4uhi/source_code_for_drilbert_short_puzzle) - [Source code for Drilbert, a short puzzle game](https://github.com/wheybags/drilbert-pub)
 * [2024-02-03, 21:46:00](https://lobste.rs/s/dxx1tk/rye_hassle_free_python_experience) - [Rye: a Hassle-Free Python Experience](https://www.youtube.com/watch?v=q99TYA7LnuA)
-* [2024-02-03, 21:15:43](https://lobste.rs/s/d3dacj/engineering_behind_figma_s_vector) - [The Engineering behind Figma's Vector Networks](https://alexharri.com/blog/vector-networks)
 * [2024-02-03, 20:25:17](https://lobste.rs/s/zb0wdh/breaking_bitlocker_bypassing_windows) - [Breaking Bitlocker - Bypassing the Windows Disk Encryption](https://m.youtube.com/watch?v=wTl4vEednkQ)
 * [2024-02-03, 19:26:47](https://lobste.rs/s/awcoy3/let_futures_be_futures) - [Let futures be futures](https://without.boats/blog/let-futures-be-futures/)
 * [2024-02-03, 18:34:59](https://lobste.rs/s/of7y9q/method_differences) - [Method of Differences](https://ztoz.blog/posts/method-differences/)
