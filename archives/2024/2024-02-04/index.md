@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-04](index.md)
 
+* [2024-02-04, 21:10:02](https://lobste.rs/s/aishcv/repairing_sort_dyson_fan_remote_control) - [Repairing (sort of) a Dyson fan remote control](https://blog.jgc.org/2024/02/repairing-sort-of-dyson-fan-remote.html)
 * [2024-02-04, 20:43:43](https://lobste.rs/s/x3zkye/proposal_add_robotics_tag_lobsters) - [Proposal to add a \"robotics\" tag to Lobsters](https://lobste.rs/s/x3zkye/proposal_add_robotics_tag_lobsters)
 * [2024-02-04, 20:38:48](https://lobste.rs/s/bokhjm/experiential_robotics_platform) - [Experiential Robotics Platform](https://experientialrobotics.org)
 * [2024-02-04, 20:00:22](https://lobste.rs/s/awozud/converting_minecraft_maps_half_life_1) - [Converting Minecraft maps to Half-Life 1](https://notnite.com/blog/minecraft-to-goldsrc)
