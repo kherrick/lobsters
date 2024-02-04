@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-04, 20:43:43](https://lobste.rs/s/x3zkye/proposal_add_robotics_tag_lobsters) - [Proposal to add a \"robotics\" tag to Lobsters](https://lobste.rs/s/x3zkye/proposal_add_robotics_tag_lobsters)
 * [2024-02-04, 20:38:48](https://lobste.rs/s/bokhjm/experiential_robotics_platform) - [Experiential Robotics Platform](https://experientialrobotics.org)
 * [2024-02-04, 20:00:22](https://lobste.rs/s/awozud/converting_minecraft_maps_half_life_1) - [Converting Minecraft maps to Half-Life 1](https://notnite.com/blog/minecraft-to-goldsrc)
 * [2024-02-04, 19:49:46](https://lobste.rs/s/qccmsd/sapling_highly_experimental_vi_inspired) - [sapling: A highly experimental vi-inspired editor where you edit code, not text](https://github.com/kneasle/sapling)
@@ -22,7 +23,6 @@
 * [2024-02-03, 15:53:32](https://lobste.rs/s/sbjdhy/folk_computer) - [Folk Computer](https://folk.computer/)
 * [2024-02-03, 14:14:21](https://lobste.rs/s/ckoiyh/how_i_reduced_size_my_very_first_published) - [How I reduced the size of my very first published docker image by 40% - A lesson in dockerizing shell scripts](https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/)
 * [2024-02-03, 14:10:03](https://lobste.rs/s/rfwwmo/blogging_djot_instead_markdown) - [Blogging in Djot instead of Markdown](https://www.jonashietala.se/blog/2024/02/02/blogging_in_djot_instead_of_markdown/)
-* [2024-02-03, 11:06:42](https://lobste.rs/s/sktrst/fosdem_2024_live_streaming) - [FOSDEM 2024 - Live Streaming](https://fosdem.org/2024/schedule/streaming/)
 * [2024-02-02, 20:48:50](https://lobste.rs/s/srsoer/introducing_pkl_programming_language) - [Introducing Pkl, a programming language for configuration](https://pkl-lang.org/blog/introducing-pkl.html)
 * [2024-02-02, 18:40:23](https://lobste.rs/s/pvvbhm/jj_init) - [jj init](https://v5.chriskrycho.com/essays/jj-init/)
 
