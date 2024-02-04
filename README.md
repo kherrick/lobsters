@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-04, 11:57:24](https://lobste.rs/s/dsnxea/education_typing_man) - [Education of a Typing Man](https://registerspill.thorstenball.com/p/education-of-a-typing-man)
 * [2024-02-04, 06:52:39](https://lobste.rs/s/7dve8q/htmx_deep_dive) - [HTMX Deep Dive](https://www.youtube.com/watch?v=javGxN-h9VQ)
 * [2024-02-04, 02:20:43](https://lobste.rs/s/etolfs/creating_macos_app_with_lua_nothing_else) - [Creating a MacOS app with Lua (and nothing else)](https://github.com/mogenson/lua-macos-app)
 * [2024-02-04, 01:34:46](https://lobste.rs/s/afsmdg/sentry_overflow) - [Sentry Overflow](https://technicalwriting.tools/posts/sentry-overflow/)
@@ -12,7 +13,6 @@
 * [2024-02-03, 19:26:47](https://lobste.rs/s/awcoy3/let_futures_be_futures) - [Let futures be futures](https://without.boats/blog/let-futures-be-futures/)
 * [2024-02-03, 18:34:59](https://lobste.rs/s/of7y9q/method_differences) - [Method of Differences](https://ztoz.blog/posts/method-differences/)
 * [2024-02-03, 18:13:09](https://lobste.rs/s/wgyrwy/visual_overview_custom_malloc) - [Visual overview of a custom malloc() implementation](https://silent-tower.net/projects/visual-overview-malloc)
-* [2024-02-03, 16:52:16](https://lobste.rs/s/oisdfu/gov4git_superpower_for_open_source) - [Gov4Git: A superpower for open-source project maintainers](https://medium.com/@gov4git/gov4git-a-superpower-for-open-source-project-maintainers-bbce0f567634)
 * [2024-02-03, 15:53:32](https://lobste.rs/s/sbjdhy/folk_computer) - [Folk Computer](https://folk.computer/)
 * [2024-02-03, 14:54:16](https://lobste.rs/s/jphjfo/compiling_pattern_matching) - [Compiling Pattern Matching](https://compiler.club/compiling-pattern-matching/)
 * [2024-02-03, 14:14:21](https://lobste.rs/s/ckoiyh/how_i_reduced_size_my_very_first_published) - [How I reduced the size of my very first published docker image by 40% - A lesson in dockerizing shell scripts](https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/)

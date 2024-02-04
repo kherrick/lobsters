@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-04](index.md)
 
+* [2024-02-04, 11:57:24](https://lobste.rs/s/dsnxea/education_typing_man) - [Education of a Typing Man](https://registerspill.thorstenball.com/p/education-of-a-typing-man)
 * [2024-02-04, 06:52:39](https://lobste.rs/s/7dve8q/htmx_deep_dive) - [HTMX Deep Dive](https://www.youtube.com/watch?v=javGxN-h9VQ)
 * [2024-02-04, 02:20:43](https://lobste.rs/s/etolfs/creating_macos_app_with_lua_nothing_else) - [Creating a MacOS app with Lua (and nothing else)](https://github.com/mogenson/lua-macos-app)
 * [2024-02-04, 01:34:46](https://lobste.rs/s/afsmdg/sentry_overflow) - [Sentry Overflow](https://technicalwriting.tools/posts/sentry-overflow/)
