@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-04, 00:03:38",
+      "https://lobste.rs/s/rk4uhi/source_code_for_drilbert_short_puzzle"
+    ],
+    [
+      "Source code for Drilbert, a short puzzle game",
+      "https://github.com/wheybags/drilbert-pub"
+    ]
+  ],
+  [
+    [
       "2024-02-03, 22:13:23",
       "https://lobste.rs/s/reguv5/reverse_engineering_standard_cell_logic"
     ],
@@ -177,16 +187,6 @@
     [
       "Building a hypervisor, 1: KVM Introduction",
       "https://iovec.net/2024-01-29"
-    ]
-  ],
-  [
-    [
-      "2024-02-03, 06:08:06",
-      "https://lobste.rs/s/lkbpud/undercover_generalist"
-    ],
-    [
-      "The undercover generalist",
-      "https://ochagavia.nl/blog/the-undercover-generalist/"
     ]
   ],
   [
