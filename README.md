@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-04, 21:44:36](https://lobste.rs/s/25ekn9/uuid_benchmark_war) - [UUID Benchmark War](https://ardentperf.com/2024/02/03/uuid-benchmark-war/)
+* [2024-02-04, 21:42:14](https://lobste.rs/s/d4xnei/wowmips_mips_emulator_for_windows_part_1) - [WoWMIPS - MIPS Emulator for Windows, Part 1: Introduction](https://www.x86matthew.com/view_post?id=mips_1)
 * [2024-02-04, 21:10:02](https://lobste.rs/s/aishcv/repairing_sort_dyson_fan_remote_control) - [Repairing (sort of) a Dyson fan remote control](https://blog.jgc.org/2024/02/repairing-sort-of-dyson-fan-remote.html)
-* [2024-02-04, 20:43:43](https://lobste.rs/s/x3zkye/proposal_add_robotics_tag_lobsters) - [Proposal to add a \"robotics\" tag to Lobsters](https://lobste.rs/s/x3zkye/proposal_add_robotics_tag_lobsters)
 * [2024-02-04, 20:38:48](https://lobste.rs/s/bokhjm/experiential_robotics_platform) - [Experiential Robotics Platform](https://experientialrobotics.org)
 * [2024-02-04, 20:00:22](https://lobste.rs/s/awozud/converting_minecraft_maps_half_life_1) - [Converting Minecraft maps to Half-Life 1](https://notnite.com/blog/minecraft-to-goldsrc)
 * [2024-02-04, 19:49:46](https://lobste.rs/s/qccmsd/sapling_highly_experimental_vi_inspired) - [sapling: A highly experimental vi-inspired editor where you edit code, not text](https://github.com/kneasle/sapling)
@@ -21,7 +22,6 @@
 * [2024-02-03, 21:46:00](https://lobste.rs/s/dxx1tk/rye_hassle_free_python_experience) - [Rye: a Hassle-Free Python Experience](https://www.youtube.com/watch?v=q99TYA7LnuA)
 * [2024-02-03, 19:26:47](https://lobste.rs/s/awcoy3/let_futures_be_futures) - [Let futures be futures](https://without.boats/blog/let-futures-be-futures/)
 * [2024-02-03, 18:34:59](https://lobste.rs/s/of7y9q/method_differences) - [Method of Differences](https://ztoz.blog/posts/method-differences/)
-* [2024-02-03, 15:53:32](https://lobste.rs/s/sbjdhy/folk_computer) - [Folk Computer](https://folk.computer/)
 * [2024-02-03, 14:14:21](https://lobste.rs/s/ckoiyh/how_i_reduced_size_my_very_first_published) - [How I reduced the size of my very first published docker image by 40% - A lesson in dockerizing shell scripts](https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/)
 * [2024-02-03, 14:10:03](https://lobste.rs/s/rfwwmo/blogging_djot_instead_markdown) - [Blogging in Djot instead of Markdown](https://www.jonashietala.se/blog/2024/02/02/blogging_in_djot_instead_of_markdown/)
 * [2024-02-02, 18:40:23](https://lobste.rs/s/pvvbhm/jj_init) - [jj init](https://v5.chriskrycho.com/essays/jj-init/)
