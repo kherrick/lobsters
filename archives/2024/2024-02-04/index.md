@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-04](index.md)
 
+* [2024-02-04, 16:38:41](https://lobste.rs/s/7eiw62/demostration_fixing_bug_from_medley_s) - [A demostration of fixing a bug from Medley's debugger](https://journal.paoloamoroso.com/a-demostration-of-fixing-a-bug-from-medleys-debugger)
 * [2024-02-04, 15:24:08](https://lobste.rs/s/jzh8ae/quantifying_student_projects) - [Quantifying Student Projects](https://futhark-lang.org/blog/2024-02-03-quantifying-student-projects.html)
 * [2024-02-04, 15:23:51](https://lobste.rs/s/y22ehj/disaggregated_write_ahead_log) - [The disaggregated write-ahead log](https://blog.schmizz.net/disaggregated-wal)
 * [2024-02-04, 14:01:25](https://lobste.rs/s/a4ugmx/reasonable_configuration_language) - [A reasonable configuration language](https://ruudvanasseldonk.com/2024/a-reasonable-configuration-language)
