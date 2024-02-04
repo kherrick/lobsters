@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-04, 13:23:28](https://lobste.rs/s/489art/letlang_written_rust_targeting_rust_now) - [Letlang, written in Rust, targeting Rust, now has a specification](https://letlang.dev/spec/)
 * [2024-02-04, 11:57:24](https://lobste.rs/s/dsnxea/education_typing_man) - [Education of a Typing Man](https://registerspill.thorstenball.com/p/education-of-a-typing-man)
 * [2024-02-04, 06:52:39](https://lobste.rs/s/7dve8q/htmx_deep_dive) - [HTMX Deep Dive](https://www.youtube.com/watch?v=javGxN-h9VQ)
 * [2024-02-04, 02:20:43](https://lobste.rs/s/etolfs/creating_macos_app_with_lua_nothing_else) - [Creating a MacOS app with Lua (and nothing else)](https://github.com/mogenson/lua-macos-app)
@@ -21,7 +22,6 @@
 * [2024-02-03, 11:06:42](https://lobste.rs/s/sktrst/fosdem_2024_live_streaming) - [FOSDEM 2024 - Live Streaming](https://fosdem.org/2024/schedule/streaming/)
 * [2024-02-03, 07:35:01](https://lobste.rs/s/cbh2xn/building_hypervisor_1_kvm_introduction) - [Building a hypervisor, 1: KVM Introduction](https://iovec.net/2024-01-29)
 * [2024-02-03, 05:33:26](https://lobste.rs/s/w6kdyk/s_bash_zsh_g) - [s/bash/zsh/g](https://www.arp242.net/why-zsh.html)
-* [2024-02-02, 21:00:21](https://lobste.rs/s/dvfyd5/ratatui_0_26) - [Ratatui 0.26](https://ratatui.rs/highlights/v026/)
 * [2024-02-02, 20:48:50](https://lobste.rs/s/srsoer/introducing_pkl_programming_language) - [Introducing Pkl, a programming language for configuration](https://pkl-lang.org/blog/introducing-pkl.html)
 * [2024-02-02, 18:40:23](https://lobste.rs/s/pvvbhm/jj_init) - [jj init](https://v5.chriskrycho.com/essays/jj-init/)
 * [2024-02-02, 15:59:37](https://lobste.rs/s/teiyo4/how_firefox_gives_special_permissions) - [How Firefox gives special permissions to some domains](https://frederik-braun.com/special-browser-privileges-for-some-domains.html)
