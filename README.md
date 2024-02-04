@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-04, 22:49:21](https://lobste.rs/s/rwl8mt/consistency) - [Consistency](https://surfingcomplexity.blog/2023/12/31/consistency/)
 * [2024-02-04, 21:56:52](https://lobste.rs/s/ot9bgj/pain_points_building_copilot) - [The pain points of building a copilot](https://austinhenley.com/blog/copilotpainpoints.html)
 * [2024-02-04, 21:44:36](https://lobste.rs/s/25ekn9/uuid_benchmark_war) - [UUID Benchmark War](https://ardentperf.com/2024/02/03/uuid-benchmark-war/)
 * [2024-02-04, 21:42:14](https://lobste.rs/s/d4xnei/wowmips_mips_emulator_for_windows_part_1) - [WoWMIPS - MIPS Emulator for Windows, Part 1: Introduction](https://www.x86matthew.com/view_post?id=mips_1)
@@ -21,7 +22,6 @@
 * [2024-02-04, 02:20:43](https://lobste.rs/s/etolfs/creating_macos_app_with_lua_nothing_else) - [Creating a MacOS app with Lua (and nothing else)](https://github.com/mogenson/lua-macos-app)
 * [2024-02-03, 21:46:00](https://lobste.rs/s/dxx1tk/rye_hassle_free_python_experience) - [Rye: a Hassle-Free Python Experience](https://www.youtube.com/watch?v=q99TYA7LnuA)
 * [2024-02-03, 19:26:47](https://lobste.rs/s/awcoy3/let_futures_be_futures) - [Let futures be futures](https://without.boats/blog/let-futures-be-futures/)
-* [2024-02-03, 18:34:59](https://lobste.rs/s/of7y9q/method_differences) - [Method of Differences](https://ztoz.blog/posts/method-differences/)
 * [2024-02-03, 14:14:21](https://lobste.rs/s/ckoiyh/how_i_reduced_size_my_very_first_published) - [How I reduced the size of my very first published docker image by 40% - A lesson in dockerizing shell scripts](https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/)
 * [2024-02-03, 14:10:03](https://lobste.rs/s/rfwwmo/blogging_djot_instead_markdown) - [Blogging in Djot instead of Markdown](https://www.jonashietala.se/blog/2024/02/02/blogging_in_djot_instead_of_markdown/)
 * [2024-02-02, 18:40:23](https://lobste.rs/s/pvvbhm/jj_init) - [jj init](https://v5.chriskrycho.com/essays/jj-init/)
