@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-04, 00:03:38](https://lobste.rs/s/rk4uhi/source_code_for_drilbert_short_puzzle) - [Source code for Drilbert, a short puzzle game](https://github.com/wheybags/drilbert-pub)
 * [2024-02-03, 22:13:23](https://lobste.rs/s/reguv5/reverse_engineering_standard_cell_logic) - [Reverse engineering standard cell logic in the Intel 386 processor](http://www.righto.com/2024/01/intel-386-standard-cells.html)
 * [2024-02-03, 21:46:00](https://lobste.rs/s/dxx1tk/rye_hassle_free_python_experience) - [Rye: a Hassle-Free Python Experience](https://www.youtube.com/watch?v=q99TYA7LnuA)
 * [2024-02-03, 21:31:10](https://lobste.rs/s/ltkcuk/files_are_fraught_with_peril_2019) - [Files are fraught with peril [2019]](https://danluu.com/deconstruct-files/)
@@ -18,7 +19,6 @@
 * [2024-02-03, 13:31:30](https://lobste.rs/s/l5stxd/achieving_safe_aliasable_mutability) - [Achieving Safe, Aliasable Mutability with Unboxed Types](https://antelang.org/blog/safe_shared_mutability/)
 * [2024-02-03, 11:06:42](https://lobste.rs/s/sktrst/fosdem_2024_live_streaming) - [FOSDEM 2024 - Live Streaming](https://fosdem.org/2024/schedule/streaming/)
 * [2024-02-03, 07:35:01](https://lobste.rs/s/cbh2xn/building_hypervisor_1_kvm_introduction) - [Building a hypervisor, 1: KVM Introduction](https://iovec.net/2024-01-29)
-* [2024-02-03, 06:08:06](https://lobste.rs/s/lkbpud/undercover_generalist) - [The undercover generalist](https://ochagavia.nl/blog/the-undercover-generalist/)
 * [2024-02-03, 05:33:26](https://lobste.rs/s/w6kdyk/s_bash_zsh_g) - [s/bash/zsh/g](https://www.arp242.net/why-zsh.html)
 * [2024-02-02, 21:00:21](https://lobste.rs/s/dvfyd5/ratatui_0_26) - [Ratatui 0.26](https://ratatui.rs/highlights/v026/)
 * [2024-02-02, 20:48:50](https://lobste.rs/s/srsoer/introducing_pkl_programming_language) - [Introducing Pkl, a programming language for configuration](https://pkl-lang.org/blog/introducing-pkl.html)
