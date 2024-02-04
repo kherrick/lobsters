@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-04, 23:11:20](https://lobste.rs/s/jfjjcp/jpeg_xl_rejected_for_interop_2024) - [JPEG-XL Rejected for Interop 2024](https://github.com/web-platform-tests/interop/issues/430)
 * [2024-02-04, 22:49:21](https://lobste.rs/s/rwl8mt/consistency) - [Consistency](https://surfingcomplexity.blog/2023/12/31/consistency/)
 * [2024-02-04, 21:56:52](https://lobste.rs/s/ot9bgj/pain_points_building_copilot) - [The pain points of building a copilot](https://austinhenley.com/blog/copilotpainpoints.html)
 * [2024-02-04, 21:44:36](https://lobste.rs/s/25ekn9/uuid_benchmark_war) - [UUID Benchmark War](https://ardentperf.com/2024/02/03/uuid-benchmark-war/)
@@ -24,7 +25,6 @@
 * [2024-02-03, 19:26:47](https://lobste.rs/s/awcoy3/let_futures_be_futures) - [Let futures be futures](https://without.boats/blog/let-futures-be-futures/)
 * [2024-02-03, 14:14:21](https://lobste.rs/s/ckoiyh/how_i_reduced_size_my_very_first_published) - [How I reduced the size of my very first published docker image by 40% - A lesson in dockerizing shell scripts](https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/)
 * [2024-02-03, 14:10:03](https://lobste.rs/s/rfwwmo/blogging_djot_instead_markdown) - [Blogging in Djot instead of Markdown](https://www.jonashietala.se/blog/2024/02/02/blogging_in_djot_instead_of_markdown/)
-* [2024-02-02, 18:40:23](https://lobste.rs/s/pvvbhm/jj_init) - [jj init](https://v5.chriskrycho.com/essays/jj-init/)
 
 ## [Archives](archives/index.md)
 

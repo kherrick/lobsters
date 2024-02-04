@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-04](index.md)
 
+* [2024-02-04, 23:11:20](https://lobste.rs/s/jfjjcp/jpeg_xl_rejected_for_interop_2024) - [JPEG-XL Rejected for Interop 2024](https://github.com/web-platform-tests/interop/issues/430)
 * [2024-02-04, 22:49:21](https://lobste.rs/s/rwl8mt/consistency) - [Consistency](https://surfingcomplexity.blog/2023/12/31/consistency/)
 * [2024-02-04, 21:56:52](https://lobste.rs/s/ot9bgj/pain_points_building_copilot) - [The pain points of building a copilot](https://austinhenley.com/blog/copilotpainpoints.html)
 * [2024-02-04, 21:44:36](https://lobste.rs/s/25ekn9/uuid_benchmark_war) - [UUID Benchmark War](https://ardentperf.com/2024/02/03/uuid-benchmark-war/)
