@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-04, 20:00:22](https://lobste.rs/s/awozud/converting_minecraft_maps_half_life_1) - [Converting Minecraft maps to Half-Life 1](https://notnite.com/blog/minecraft-to-goldsrc)
 * [2024-02-04, 19:49:46](https://lobste.rs/s/qccmsd/sapling_highly_experimental_vi_inspired) - [sapling: A highly experimental vi-inspired editor where you edit code, not text](https://github.com/kneasle/sapling)
 * [2024-02-04, 17:44:35](https://lobste.rs/s/tz7tpl/calculator_construction_set) - [Calculator Construction Set](https://www.folklore.org/Calculator_Construction_Set.html)
 * [2024-02-04, 16:52:15](https://lobste.rs/s/cfynbw/how_i_learned_stop_worrying_love_juggling) - [How I Learned to Stop Worrying and Love Juggling C++ Atomics](https://brilliantsugar.github.io/posts/how-i-learned-to-stop-worrying-and-love-juggling-c++-atomics/)
@@ -19,7 +20,6 @@
 * [2024-02-03, 19:26:47](https://lobste.rs/s/awcoy3/let_futures_be_futures) - [Let futures be futures](https://without.boats/blog/let-futures-be-futures/)
 * [2024-02-03, 18:34:59](https://lobste.rs/s/of7y9q/method_differences) - [Method of Differences](https://ztoz.blog/posts/method-differences/)
 * [2024-02-03, 15:53:32](https://lobste.rs/s/sbjdhy/folk_computer) - [Folk Computer](https://folk.computer/)
-* [2024-02-03, 14:54:16](https://lobste.rs/s/jphjfo/compiling_pattern_matching) - [Compiling Pattern Matching](https://compiler.club/compiling-pattern-matching/)
 * [2024-02-03, 14:14:21](https://lobste.rs/s/ckoiyh/how_i_reduced_size_my_very_first_published) - [How I reduced the size of my very first published docker image by 40% - A lesson in dockerizing shell scripts](https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/)
 * [2024-02-03, 14:10:03](https://lobste.rs/s/rfwwmo/blogging_djot_instead_markdown) - [Blogging in Djot instead of Markdown](https://www.jonashietala.se/blog/2024/02/02/blogging_in_djot_instead_of_markdown/)
 * [2024-02-03, 11:06:42](https://lobste.rs/s/sktrst/fosdem_2024_live_streaming) - [FOSDEM 2024 - Live Streaming](https://fosdem.org/2024/schedule/streaming/)

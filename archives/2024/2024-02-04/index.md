@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-04](index.md)
 
+* [2024-02-04, 20:00:22](https://lobste.rs/s/awozud/converting_minecraft_maps_half_life_1) - [Converting Minecraft maps to Half-Life 1](https://notnite.com/blog/minecraft-to-goldsrc)
 * [2024-02-04, 19:49:46](https://lobste.rs/s/qccmsd/sapling_highly_experimental_vi_inspired) - [sapling: A highly experimental vi-inspired editor where you edit code, not text](https://github.com/kneasle/sapling)
 * [2024-02-04, 17:44:35](https://lobste.rs/s/tz7tpl/calculator_construction_set) - [Calculator Construction Set](https://www.folklore.org/Calculator_Construction_Set.html)
 * [2024-02-04, 16:52:15](https://lobste.rs/s/cfynbw/how_i_learned_stop_worrying_love_juggling) - [How I Learned to Stop Worrying and Love Juggling C++ Atomics](https://brilliantsugar.github.io/posts/how-i-learned-to-stop-worrying-and-love-juggling-c++-atomics/)
