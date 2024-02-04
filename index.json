@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2024-02-03, 21:31:10",
+      "https://lobste.rs/s/ltkcuk/files_are_fraught_with_peril_2019"
+    ],
+    [
+      "Files are fraught with peril [2019]",
+      "https://danluu.com/deconstruct-files/"
+    ]
+  ],
+  [
+    [
       "2024-02-03, 21:15:43",
       "https://lobste.rs/s/d3dacj/engineering_behind_figma_s_vector"
     ],
@@ -157,16 +167,6 @@
     [
       "Method of Differences",
       "https://ztoz.blog/posts/method-differences/"
-    ]
-  ],
-  [
-    [
-      "2024-02-03, 18:13:09",
-      "https://lobste.rs/s/wgyrwy/visual_overview_custom_malloc"
-    ],
-    [
-      "Visual overview of a custom malloc() implementation",
-      "https://silent-tower.net/projects/visual-overview-malloc"
     ]
   ],
   [
