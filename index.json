@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-04, 15:24:08",
+      "https://lobste.rs/s/jzh8ae/quantifying_student_projects"
+    ],
+    [
+      "Quantifying Student Projects",
+      "https://futhark-lang.org/blog/2024-02-03-quantifying-student-projects.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-04, 15:23:51",
+      "https://lobste.rs/s/y22ehj/disaggregated_write_ahead_log"
+    ],
+    [
+      "The disaggregated write-ahead log",
+      "https://blog.schmizz.net/disaggregated-wal"
+    ]
+  ],
+  [
+    [
       "2024-02-04, 14:01:25",
       "https://lobste.rs/s/a4ugmx/reasonable_configuration_language"
     ],
@@ -97,16 +117,6 @@
     [
       "Rye: a Hassle-Free Python Experience",
       "https://www.youtube.com/watch?v=q99TYA7LnuA"
-    ]
-  ],
-  [
-    [
-      "2024-02-03, 21:31:10",
-      "https://lobste.rs/s/ltkcuk/files_are_fraught_with_peril_2019"
-    ],
-    [
-      "Files are fraught with peril [2019]",
-      "https://danluu.com/deconstruct-files/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "jj init",
       "https://v5.chriskrycho.com/essays/jj-init/"
-    ]
-  ],
-  [
-    [
-      "2024-02-02, 15:59:37",
-      "https://lobste.rs/s/teiyo4/how_firefox_gives_special_permissions"
-    ],
-    [
-      "How Firefox gives special permissions to some domains",
-      "https://frederik-braun.com/special-browser-privileges-for-some-domains.html"
     ]
   ]
 ]
