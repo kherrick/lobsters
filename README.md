@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-04, 15:24:08](https://lobste.rs/s/jzh8ae/quantifying_student_projects) - [Quantifying Student Projects](https://futhark-lang.org/blog/2024-02-03-quantifying-student-projects.html)
+* [2024-02-04, 15:23:51](https://lobste.rs/s/y22ehj/disaggregated_write_ahead_log) - [The disaggregated write-ahead log](https://blog.schmizz.net/disaggregated-wal)
 * [2024-02-04, 14:01:25](https://lobste.rs/s/a4ugmx/reasonable_configuration_language) - [A reasonable configuration language](https://ruudvanasseldonk.com/2024/a-reasonable-configuration-language)
 * [2024-02-04, 13:35:28](https://lobste.rs/s/gwovv9/rye_vision_continued) - [Rye: A Vision Continued](https://lucumr.pocoo.org/2024/2/4/rye-a-vision/)
 * [2024-02-04, 13:23:28](https://lobste.rs/s/489art/letlang_written_rust_targeting_rust_now) - [Letlang, written in Rust, targeting Rust, now has a specification](https://letlang.dev/spec/)
@@ -10,7 +12,6 @@
 * [2024-02-04, 00:03:38](https://lobste.rs/s/rk4uhi/source_code_for_drilbert_short_puzzle) - [Source code for Drilbert, a short puzzle game](https://github.com/wheybags/drilbert-pub)
 * [2024-02-03, 22:13:23](https://lobste.rs/s/reguv5/reverse_engineering_standard_cell_logic) - [Reverse engineering standard cell logic in the Intel 386 processor](http://www.righto.com/2024/01/intel-386-standard-cells.html)
 * [2024-02-03, 21:46:00](https://lobste.rs/s/dxx1tk/rye_hassle_free_python_experience) - [Rye: a Hassle-Free Python Experience](https://www.youtube.com/watch?v=q99TYA7LnuA)
-* [2024-02-03, 21:31:10](https://lobste.rs/s/ltkcuk/files_are_fraught_with_peril_2019) - [Files are fraught with peril [2019]](https://danluu.com/deconstruct-files/)
 * [2024-02-03, 21:15:43](https://lobste.rs/s/d3dacj/engineering_behind_figma_s_vector) - [The Engineering behind Figma's Vector Networks](https://alexharri.com/blog/vector-networks)
 * [2024-02-03, 20:25:17](https://lobste.rs/s/zb0wdh/breaking_bitlocker_bypassing_windows) - [Breaking Bitlocker - Bypassing the Windows Disk Encryption](https://m.youtube.com/watch?v=wTl4vEednkQ)
 * [2024-02-03, 19:26:47](https://lobste.rs/s/awcoy3/let_futures_be_futures) - [Let futures be futures](https://without.boats/blog/let-futures-be-futures/)
@@ -24,7 +25,6 @@
 * [2024-02-03, 05:33:26](https://lobste.rs/s/w6kdyk/s_bash_zsh_g) - [s/bash/zsh/g](https://www.arp242.net/why-zsh.html)
 * [2024-02-02, 20:48:50](https://lobste.rs/s/srsoer/introducing_pkl_programming_language) - [Introducing Pkl, a programming language for configuration](https://pkl-lang.org/blog/introducing-pkl.html)
 * [2024-02-02, 18:40:23](https://lobste.rs/s/pvvbhm/jj_init) - [jj init](https://v5.chriskrycho.com/essays/jj-init/)
-* [2024-02-02, 15:59:37](https://lobste.rs/s/teiyo4/how_firefox_gives_special_permissions) - [How Firefox gives special permissions to some domains](https://frederik-braun.com/special-browser-privileges-for-some-domains.html)
 
 ## [Archives](archives/index.md)
 

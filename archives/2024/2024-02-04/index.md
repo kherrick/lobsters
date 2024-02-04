@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-04](index.md)
 
+* [2024-02-04, 15:24:08](https://lobste.rs/s/jzh8ae/quantifying_student_projects) - [Quantifying Student Projects](https://futhark-lang.org/blog/2024-02-03-quantifying-student-projects.html)
+* [2024-02-04, 15:23:51](https://lobste.rs/s/y22ehj/disaggregated_write_ahead_log) - [The disaggregated write-ahead log](https://blog.schmizz.net/disaggregated-wal)
 * [2024-02-04, 14:01:25](https://lobste.rs/s/a4ugmx/reasonable_configuration_language) - [A reasonable configuration language](https://ruudvanasseldonk.com/2024/a-reasonable-configuration-language)
 * [2024-02-04, 13:35:28](https://lobste.rs/s/gwovv9/rye_vision_continued) - [Rye: A Vision Continued](https://lucumr.pocoo.org/2024/2/4/rye-a-vision/)
 * [2024-02-04, 13:23:28](https://lobste.rs/s/489art/letlang_written_rust_targeting_rust_now) - [Letlang, written in Rust, targeting Rust, now has a specification](https://letlang.dev/spec/)
