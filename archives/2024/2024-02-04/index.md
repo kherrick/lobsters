@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-04](index.md)
 
+* [2024-02-04, 13:35:28](https://lobste.rs/s/gwovv9/rye_vision_continued) - [Rye: A Vision Continued](https://lucumr.pocoo.org/2024/2/4/rye-a-vision/)
 * [2024-02-04, 13:23:28](https://lobste.rs/s/489art/letlang_written_rust_targeting_rust_now) - [Letlang, written in Rust, targeting Rust, now has a specification](https://letlang.dev/spec/)
 * [2024-02-04, 11:57:24](https://lobste.rs/s/dsnxea/education_typing_man) - [Education of a Typing Man](https://registerspill.thorstenball.com/p/education-of-a-typing-man)
 * [2024-02-04, 06:52:39](https://lobste.rs/s/7dve8q/htmx_deep_dive) - [HTMX Deep Dive](https://www.youtube.com/watch?v=javGxN-h9VQ)
