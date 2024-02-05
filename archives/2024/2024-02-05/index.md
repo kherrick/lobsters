@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 11:09:51](https://lobste.rs/s/3cd08b/creating_controllable_d_state) - [Creating controllable D state (uninterruptible sleep) processes](https://chrisdown.name/2024/02/05/reliably-creating-d-state-processes-on-demand.html)
 * [2024-02-05, 10:15:29](https://lobste.rs/s/slbbgk/clight_c_daemon_turns_your_webcam_into) - [Clight - A C daemon that turns your webcam into a light sensor](https://github.com/FedeDP/Clight)
 * [2024-02-05, 09:30:51](https://lobste.rs/s/sri4bn/overview_nix_formatters_ecosystem) - [Overview of Nix Formatters Ecosystem](https://drakerossman.com/blog/overview-of-nix-formatters-ecosystem)
 * [2024-02-05, 08:29:13](https://lobste.rs/s/xyyevp/learn_lambda_calculus_10_minutes_with) - [Learn Lambda Calculus in 10 minutes with OCaml](https://dev.to/chshersh/learn-lambda-calculus-in-10-minutes-with-ocaml-56ba)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-05, 11:09:51](https://lobste.rs/s/3cd08b/creating_controllable_d_state) - [Creating controllable D state (uninterruptible sleep) processes](https://chrisdown.name/2024/02/05/reliably-creating-d-state-processes-on-demand.html)
 * [2024-02-05, 10:15:29](https://lobste.rs/s/slbbgk/clight_c_daemon_turns_your_webcam_into) - [Clight - A C daemon that turns your webcam into a light sensor](https://github.com/FedeDP/Clight)
 * [2024-02-05, 09:30:51](https://lobste.rs/s/sri4bn/overview_nix_formatters_ecosystem) - [Overview of Nix Formatters Ecosystem](https://drakerossman.com/blog/overview-of-nix-formatters-ecosystem)
 * [2024-02-05, 08:29:13](https://lobste.rs/s/xyyevp/learn_lambda_calculus_10_minutes_with) - [Learn Lambda Calculus in 10 minutes with OCaml](https://dev.to/chshersh/learn-lambda-calculus-in-10-minutes-with-ocaml-56ba)
@@ -19,7 +20,6 @@
 * [2024-02-04, 16:38:41](https://lobste.rs/s/7eiw62/demostration_fixing_bug_from_medley_s) - [A demostration of fixing a bug from Medley's debugger](https://journal.paoloamoroso.com/a-demostration-of-fixing-a-bug-from-medleys-debugger)
 * [2024-02-04, 15:23:51](https://lobste.rs/s/y22ehj/disaggregated_write_ahead_log) - [The disaggregated write-ahead log](https://blog.schmizz.net/disaggregated-wal)
 * [2024-02-04, 14:01:25](https://lobste.rs/s/a4ugmx/reasonable_configuration_language) - [A reasonable configuration language](https://ruudvanasseldonk.com/2024/a-reasonable-configuration-language)
-* [2024-02-04, 13:35:28](https://lobste.rs/s/gwovv9/rye_vision_continued) - [Rye: A Vision Continued](https://lucumr.pocoo.org/2024/2/4/rye-a-vision/)
 * [2024-02-04, 13:23:28](https://lobste.rs/s/489art/letlang_written_rust_targeting_rust_now) - [Letlang, written in Rust, targeting Rust, now has a specification](https://letlang.dev/spec/)
 * [2024-02-04, 11:57:24](https://lobste.rs/s/dsnxea/education_typing_man) - [Education of a Typing Man](https://registerspill.thorstenball.com/p/education-of-a-typing-man)
 * [2024-02-04, 02:20:43](https://lobste.rs/s/etolfs/creating_macos_app_with_lua_nothing_else) - [Creating a MacOS app with Lua (and nothing else)](https://github.com/mogenson/lua-macos-app)
