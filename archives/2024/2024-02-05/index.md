@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 18:57:05](https://lobste.rs/s/kjlepr/introducing_qwen1_5) - [Introducing Qwen1.5](https://qwenlm.github.io/blog/qwen1.5/)
 * [2024-02-05, 18:23:18](https://lobste.rs/s/w5mhwh/vesuvius_challenge_2023_grand_prize) - [Vesuvius Challenge 2023 Grand Prize awarded: we can read the scrolls](https://scrollprize.org/grandprize)
 * [2024-02-05, 18:20:54](https://lobste.rs/s/3xdumy/how_create_secure_random_password_with) - [How to create a Secure, Random Password with JavaScript](https://blog.hboeck.de/archives/907-How-to-create-a-Secure,-Random-Password-with-JavaScript.html)
 * [2024-02-05, 18:16:41](https://lobste.rs/s/1yx0wg/too_much_good_thing_trade_off_we_make_with) - [Too much of a good thing: the trade-off we make with tests](https://ntietz.com/blog/too-much-of-a-good-thing-the-cost-of-excess-testing/)

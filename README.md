@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-05, 18:57:05](https://lobste.rs/s/kjlepr/introducing_qwen1_5) - [Introducing Qwen1.5](https://qwenlm.github.io/blog/qwen1.5/)
 * [2024-02-05, 18:23:18](https://lobste.rs/s/w5mhwh/vesuvius_challenge_2023_grand_prize) - [Vesuvius Challenge 2023 Grand Prize awarded: we can read the scrolls](https://scrollprize.org/grandprize)
 * [2024-02-05, 18:20:54](https://lobste.rs/s/3xdumy/how_create_secure_random_password_with) - [How to create a Secure, Random Password with JavaScript](https://blog.hboeck.de/archives/907-How-to-create-a-Secure,-Random-Password-with-JavaScript.html)
 * [2024-02-05, 18:16:41](https://lobste.rs/s/1yx0wg/too_much_good_thing_trade_off_we_make_with) - [Too much of a good thing: the trade-off we make with tests](https://ntietz.com/blog/too-much-of-a-good-thing-the-cost-of-excess-testing/)
@@ -23,7 +24,6 @@
 * [2024-02-04, 23:11:20](https://lobste.rs/s/jfjjcp/jpeg_xl_rejected_for_interop_2024) - [JPEG-XL Rejected for Interop 2024](https://github.com/web-platform-tests/interop/issues/430)
 * [2024-02-04, 21:56:52](https://lobste.rs/s/ot9bgj/pain_points_building_copilot) - [The pain points of building a copilot](https://austinhenley.com/blog/copilotpainpoints.html)
 * [2024-02-04, 19:49:46](https://lobste.rs/s/qccmsd/sapling_highly_experimental_vi_inspired) - [sapling: A highly experimental vi-inspired editor where you edit code, not text](https://github.com/kneasle/sapling)
-* [2024-02-04, 15:23:51](https://lobste.rs/s/y22ehj/disaggregated_write_ahead_log) - [The disaggregated write-ahead log](https://blog.schmizz.net/disaggregated-wal)
 * [2024-02-04, 13:23:28](https://lobste.rs/s/489art/letlang_written_rust_targeting_rust_now) - [Letlang, written in Rust, targeting Rust, now has a specification](https://letlang.dev/spec/)
 
 ## [Archives](archives/index.md)
