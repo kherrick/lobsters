@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-05, 18:57:05",
+      "https://lobste.rs/s/kjlepr/introducing_qwen1_5"
+    ],
+    [
+      "Introducing Qwen1.5",
+      "https://qwenlm.github.io/blog/qwen1.5/"
+    ]
+  ],
+  [
+    [
       "2024-02-05, 18:23:18",
       "https://lobste.rs/s/w5mhwh/vesuvius_challenge_2023_grand_prize"
     ],
@@ -227,16 +237,6 @@
     [
       "sapling: A highly experimental vi-inspired editor where you edit code, not text",
       "https://github.com/kneasle/sapling"
-    ]
-  ],
-  [
-    [
-      "2024-02-04, 15:23:51",
-      "https://lobste.rs/s/y22ehj/disaggregated_write_ahead_log"
-    ],
-    [
-      "The disaggregated write-ahead log",
-      "https://blog.schmizz.net/disaggregated-wal"
     ]
   ],
   [
