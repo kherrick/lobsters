@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 18:23:18](https://lobste.rs/s/w5mhwh/vesuvius_challenge_2023_grand_prize) - [Vesuvius Challenge 2023 Grand Prize awarded: we can read the scrolls](https://scrollprize.org/grandprize)
+* [2024-02-05, 18:20:54](https://lobste.rs/s/3xdumy/how_create_secure_random_password_with) - [How to create a Secure, Random Password with JavaScript](https://blog.hboeck.de/archives/907-How-to-create-a-Secure,-Random-Password-with-JavaScript.html)
+* [2024-02-05, 18:16:41](https://lobste.rs/s/1yx0wg/too_much_good_thing_trade_off_we_make_with) - [Too much of a good thing: the trade-off we make with tests](https://ntietz.com/blog/too-much-of-a-good-thing-the-cost-of-excess-testing/)
+* [2024-02-05, 18:10:36](https://lobste.rs/s/nc7rwv/there_s_never_going_be_time) - [There's never going to be time](https://www.bryanbraun.com/2024/01/27/theres-never-going-to-be-time/)
 * [2024-02-05, 17:29:01](https://lobste.rs/s/ol7zmd/how_i_learned_haskell_just_15_years) - [How I learned Haskell in just 15 years](https://duckrabbit.tech/articles/learning-haskell.html)
 * [2024-02-05, 16:36:24](https://lobste.rs/s/0zqkex/speeding_up_rust_edit_build_run_cycle) - [Speeding up Rust edit-build-run cycle](https://davidlattimore.github.io/working-on-rust-iteration-time.html)
 * [2024-02-05, 15:42:00](https://lobste.rs/s/wpknpf/why_we_have_rewritten_our_string_binary) - [Why we have rewritten our string/binary type](https://pola.rs/posts/polars-string-type/)
