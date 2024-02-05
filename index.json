@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-02-05, 02:24:18",
+      "https://lobste.rs/s/4gvs0a/coolest_robot_i_ve_ever_built"
+    ],
+    [
+      "The coolest robot I've ever built",
+      "https://youtu.be/bO-DWWFolPw"
+    ]
+  ],
+  [
+    [
       "2024-02-04, 23:45:40",
       "https://lobste.rs/s/waniqm/best_physical_engineer_thing_you_ve"
     ],
@@ -237,16 +247,6 @@
     [
       "Let futures be futures",
       "https://without.boats/blog/let-futures-be-futures/"
-    ]
-  ],
-  [
-    [
-      "2024-02-03, 14:14:21",
-      "https://lobste.rs/s/ckoiyh/how_i_reduced_size_my_very_first_published"
-    ],
-    [
-      "How I reduced the size of my very first published docker image by 40% - A lesson in dockerizing shell scripts",
-      "https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/"
     ]
   ]
 ]
