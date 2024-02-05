@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-05, 15:16:25](https://lobste.rs/s/6opqcn/doom_ascii_terminal) - [DooM-ascii in the terminal](https://github.com/wojciech-graj/doom-ascii)
+* [2024-02-05, 15:13:31](https://lobste.rs/s/cyo9iy/zest_notation_representation) - [Zest: notation and representation](https://www.scattered-thoughts.net/writing/notation-and-representation/)
 * [2024-02-05, 13:26:37](https://lobste.rs/s/hisnbu/cool_things_you_can_do_with_select) - [Cool Things You Can Do with SELECT](https://blog.edwardloveall.com/cool-things-you-can-do-with-select)
 * [2024-02-05, 12:59:25](https://lobste.rs/s/vumdwz/deno_2023) - [Deno in 2023](https://deno.com/blog/deno-in-2023)
 * [2024-02-05, 11:56:31](https://lobste.rs/s/qsonlf/why_we_can_t_have_nice_software) - [Why We Can't Have Nice Software](https://andrewkelley.me/post/why-we-cant-have-nice-software.html)
@@ -11,7 +13,6 @@
 * [2024-02-05, 07:39:28](https://lobste.rs/s/gloypu/abc_structure_editor) - [The ABC Structure Editor](https://ir.cwi.nl/pub/5348/05348D.pdf)
 * [2024-02-05, 04:21:17](https://lobste.rs/s/4attop/netbsd_10_thirty_years_still_going_strong) - [NetBSD 10: Thirty Years, Still Going Strong](https://bentsukun.ch/talks/fosdem2024/)
 * [2024-02-05, 03:49:23](https://lobste.rs/s/fgnb8q/how_i_also_hacked_my_car) - [How I Also Hacked my Car](https://goncalomb.com/blog/2024/01/30/f57cf19b-how-i-also-hacked-my-car)
-* [2024-02-05, 02:24:18](https://lobste.rs/s/4gvs0a/coolest_robot_i_ve_ever_built) - [The coolest robot I've ever built](https://youtu.be/bO-DWWFolPw)
 * [2024-02-04, 23:11:20](https://lobste.rs/s/jfjjcp/jpeg_xl_rejected_for_interop_2024) - [JPEG-XL Rejected for Interop 2024](https://github.com/web-platform-tests/interop/issues/430)
 * [2024-02-04, 21:56:52](https://lobste.rs/s/ot9bgj/pain_points_building_copilot) - [The pain points of building a copilot](https://austinhenley.com/blog/copilotpainpoints.html)
 * [2024-02-04, 20:00:22](https://lobste.rs/s/awozud/converting_minecraft_maps_half_life_1) - [Converting Minecraft maps to Half-Life 1](https://notnite.com/blog/minecraft-to-goldsrc)
@@ -24,7 +25,6 @@
 * [2024-02-04, 11:57:24](https://lobste.rs/s/dsnxea/education_typing_man) - [Education of a Typing Man](https://registerspill.thorstenball.com/p/education-of-a-typing-man)
 * [2024-02-04, 02:20:43](https://lobste.rs/s/etolfs/creating_macos_app_with_lua_nothing_else) - [Creating a MacOS app with Lua (and nothing else)](https://github.com/mogenson/lua-macos-app)
 * [2024-02-03, 21:46:00](https://lobste.rs/s/dxx1tk/rye_hassle_free_python_experience) - [Rye: a Hassle-Free Python Experience](https://www.youtube.com/watch?v=q99TYA7LnuA)
-* [2024-02-03, 19:26:47](https://lobste.rs/s/awcoy3/let_futures_be_futures) - [Let futures be futures](https://without.boats/blog/let-futures-be-futures/)
 
 ## [Archives](archives/index.md)
 
