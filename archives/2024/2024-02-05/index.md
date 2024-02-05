@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 08:29:13](https://lobste.rs/s/xyyevp/learn_lambda_calculus_10_minutes_with) - [Learn Lambda Calculus in 10 minutes with OCaml](https://dev.to/chshersh/learn-lambda-calculus-in-10-minutes-with-ocaml-56ba)
 * [2024-02-05, 07:39:28](https://lobste.rs/s/gloypu/abc_structure_editor) - [The ABC Structure Editor](https://ir.cwi.nl/pub/5348/05348D.pdf)
 * [2024-02-05, 07:20:45](https://lobste.rs/s/zcq0mb/answer_ai_lessons_from_history_s_greatest) - [Answer.AI - Lessons from history’s greatest R&D labs](https://www.answer.ai/posts/2024-01-26-freaktakes-lessons.html)
 * [2024-02-05, 04:21:17](https://lobste.rs/s/4attop/netbsd_10_thirty_years_still_going_strong) - [NetBSD 10: Thirty Years, Still Going Strong](https://bentsukun.ch/talks/fosdem2024/)
