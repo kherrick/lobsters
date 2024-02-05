@@ -12,7 +12,6 @@
 * [2024-02-05, 04:21:17](https://lobste.rs/s/4attop/netbsd_10_thirty_years_still_going_strong) - [NetBSD 10: Thirty Years, Still Going Strong](https://bentsukun.ch/talks/fosdem2024/)
 * [2024-02-05, 03:49:23](https://lobste.rs/s/fgnb8q/how_i_also_hacked_my_car) - [How I Also Hacked my Car](https://goncalomb.com/blog/2024/01/30/f57cf19b-how-i-also-hacked-my-car)
 * [2024-02-05, 02:24:18](https://lobste.rs/s/4gvs0a/coolest_robot_i_ve_ever_built) - [The coolest robot I've ever built](https://youtu.be/bO-DWWFolPw)
-* [2024-02-04, 23:45:40](https://lobste.rs/s/waniqm/best_physical_engineer_thing_you_ve) - [Best physical engineer thing you’ve bought that’s made a difference](https://lobste.rs/s/waniqm/best_physical_engineer_thing_you_ve)
 * [2024-02-04, 23:11:20](https://lobste.rs/s/jfjjcp/jpeg_xl_rejected_for_interop_2024) - [JPEG-XL Rejected for Interop 2024](https://github.com/web-platform-tests/interop/issues/430)
 * [2024-02-04, 21:56:52](https://lobste.rs/s/ot9bgj/pain_points_building_copilot) - [The pain points of building a copilot](https://austinhenley.com/blog/copilotpainpoints.html)
 * [2024-02-04, 20:00:22](https://lobste.rs/s/awozud/converting_minecraft_maps_half_life_1) - [Converting Minecraft maps to Half-Life 1](https://notnite.com/blog/minecraft-to-goldsrc)
@@ -25,6 +24,7 @@
 * [2024-02-04, 11:57:24](https://lobste.rs/s/dsnxea/education_typing_man) - [Education of a Typing Man](https://registerspill.thorstenball.com/p/education-of-a-typing-man)
 * [2024-02-04, 02:20:43](https://lobste.rs/s/etolfs/creating_macos_app_with_lua_nothing_else) - [Creating a MacOS app with Lua (and nothing else)](https://github.com/mogenson/lua-macos-app)
 * [2024-02-03, 21:46:00](https://lobste.rs/s/dxx1tk/rye_hassle_free_python_experience) - [Rye: a Hassle-Free Python Experience](https://www.youtube.com/watch?v=q99TYA7LnuA)
+* [2024-02-03, 19:26:47](https://lobste.rs/s/awcoy3/let_futures_be_futures) - [Let futures be futures](https://without.boats/blog/let-futures-be-futures/)
 
 ## [Archives](archives/index.md)
 
