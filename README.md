@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-05, 15:29:10](https://lobste.rs/s/etpzlv/my_fosdem_2024_experience) - [My FOSDEM 2024 Experience](https://blog.orhun.dev/fosdem-2024-experience/)
 * [2024-02-05, 15:18:01](https://lobste.rs/s/tkdbgz/inverting_three_key_relationships) - [Inverting three key relationships in computing](https://www.wildbuilt.world/p/inverting-three-key-relationships)
 * [2024-02-05, 15:17:20](https://lobste.rs/s/9uslfn/docker_security_best_practices) - [Docker Security Best Practices](https://betterstack.com/community/guides/scaling-docker/docker-security-best-practices/https://betterstack.com/community/guides/scaling-docker/docker-security-best-practices/)
 * [2024-02-05, 15:16:25](https://lobste.rs/s/6opqcn/doom_ascii_terminal) - [DooM-ascii in the terminal](https://github.com/wojciech-graj/doom-ascii)
@@ -9,7 +10,6 @@
 * [2024-02-05, 11:56:31](https://lobste.rs/s/qsonlf/why_we_can_t_have_nice_software) - [Why We Can't Have Nice Software](https://andrewkelley.me/post/why-we-cant-have-nice-software.html)
 * [2024-02-05, 11:30:17](https://lobste.rs/s/4go9ls/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/4go9ls/what_are_you_doing_this_week)
 * [2024-02-05, 11:09:51](https://lobste.rs/s/3cd08b/creating_controllable_d_state) - [Creating controllable D state (uninterruptible sleep) processes](https://chrisdown.name/2024/02/05/reliably-creating-d-state-processes-on-demand.html)
-* [2024-02-05, 10:15:29](https://lobste.rs/s/slbbgk/clight_c_daemon_turns_your_webcam_into) - [Clight - A C daemon that turns your webcam into a light sensor](https://github.com/FedeDP/Clight)
 * [2024-02-05, 09:30:51](https://lobste.rs/s/sri4bn/overview_nix_formatters_ecosystem) - [Overview of Nix Formatters Ecosystem](https://drakerossman.com/blog/overview-of-nix-formatters-ecosystem)
 * [2024-02-05, 08:29:13](https://lobste.rs/s/xyyevp/learn_lambda_calculus_10_minutes_with) - [Learn Lambda Calculus in 10 minutes with OCaml](https://dev.to/chshersh/learn-lambda-calculus-in-10-minutes-with-ocaml-56ba)
 * [2024-02-05, 07:39:28](https://lobste.rs/s/gloypu/abc_structure_editor) - [The ABC Structure Editor](https://ir.cwi.nl/pub/5348/05348D.pdf)
