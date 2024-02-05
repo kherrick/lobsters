@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-05, 22:36:32",
+      "https://lobste.rs/s/icugir/how_does_sidekiq_really_work"
+    ],
+    [
+      "How does Sidekiq really work?",
+      "https://dansvetlov.me/sidekiq-internals/"
+    ]
+  ],
+  [
+    [
+      "2024-02-05, 22:30:04",
+      "https://lobste.rs/s/h7xxkf/cross_compiling_rust_win32"
+    ],
+    [
+      "Cross compiling Rust to win32",
+      "https://neugierig.org/software/blog/2024/02/cross-compile.html"
+    ]
+  ],
+  [
+    [
       "2024-02-05, 22:20:29",
       "https://lobste.rs/s/s7qmxq/lamport_clocks"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-02-05, 03:49:23",
-      "https://lobste.rs/s/fgnb8q/how_i_also_hacked_my_car"
-    ],
-    [
-      "How I Also Hacked my Car",
-      "https://goncalomb.com/blog/2024/01/30/f57cf19b-how-i-also-hacked-my-car"
-    ]
-  ],
-  [
-    [
       "2024-02-04, 23:11:20",
       "https://lobste.rs/s/jfjjcp/jpeg_xl_rejected_for_interop_2024"
     ],
@@ -227,16 +237,6 @@
     [
       "The pain points of building a copilot",
       "https://austinhenley.com/blog/copilotpainpoints.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-04, 19:49:46",
-      "https://lobste.rs/s/qccmsd/sapling_highly_experimental_vi_inspired"
-    ],
-    [
-      "sapling: A highly experimental vi-inspired editor where you edit code, not text",
-      "https://github.com/kneasle/sapling"
     ]
   ],
   [
