@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 12:59:25](https://lobste.rs/s/vumdwz/deno_2023) - [Deno in 2023](https://deno.com/blog/deno-in-2023)
 * [2024-02-05, 11:56:31](https://lobste.rs/s/qsonlf/why_we_can_t_have_nice_software) - [Why We Can't Have Nice Software](https://andrewkelley.me/post/why-we-cant-have-nice-software.html)
 * [2024-02-05, 11:30:17](https://lobste.rs/s/4go9ls/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/4go9ls/what_are_you_doing_this_week)
 * [2024-02-05, 11:09:51](https://lobste.rs/s/3cd08b/creating_controllable_d_state) - [Creating controllable D state (uninterruptible sleep) processes](https://chrisdown.name/2024/02/05/reliably-creating-d-state-processes-on-demand.html)

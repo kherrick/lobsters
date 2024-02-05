@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-05, 12:59:25](https://lobste.rs/s/vumdwz/deno_2023) - [Deno in 2023](https://deno.com/blog/deno-in-2023)
 * [2024-02-05, 11:56:31](https://lobste.rs/s/qsonlf/why_we_can_t_have_nice_software) - [Why We Can't Have Nice Software](https://andrewkelley.me/post/why-we-cant-have-nice-software.html)
 * [2024-02-05, 11:30:17](https://lobste.rs/s/4go9ls/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/4go9ls/what_are_you_doing_this_week)
 * [2024-02-05, 11:09:51](https://lobste.rs/s/3cd08b/creating_controllable_d_state) - [Creating controllable D state (uninterruptible sleep) processes](https://chrisdown.name/2024/02/05/reliably-creating-d-state-processes-on-demand.html)
@@ -17,7 +18,6 @@
 * [2024-02-04, 19:49:46](https://lobste.rs/s/qccmsd/sapling_highly_experimental_vi_inspired) - [sapling: A highly experimental vi-inspired editor where you edit code, not text](https://github.com/kneasle/sapling)
 * [2024-02-04, 17:44:35](https://lobste.rs/s/tz7tpl/calculator_construction_set) - [Calculator Construction Set](https://www.folklore.org/Calculator_Construction_Set.html)
 * [2024-02-04, 16:52:15](https://lobste.rs/s/cfynbw/how_i_learned_stop_worrying_love_juggling) - [How I Learned to Stop Worrying and Love Juggling C++ Atomics](https://brilliantsugar.github.io/posts/how-i-learned-to-stop-worrying-and-love-juggling-c++-atomics/)
-* [2024-02-04, 16:38:41](https://lobste.rs/s/7eiw62/demostration_fixing_bug_from_medley_s) - [A demostration of fixing a bug from Medley's debugger](https://journal.paoloamoroso.com/a-demostration-of-fixing-a-bug-from-medleys-debugger)
 * [2024-02-04, 15:23:51](https://lobste.rs/s/y22ehj/disaggregated_write_ahead_log) - [The disaggregated write-ahead log](https://blog.schmizz.net/disaggregated-wal)
 * [2024-02-04, 14:01:25](https://lobste.rs/s/a4ugmx/reasonable_configuration_language) - [A reasonable configuration language](https://ruudvanasseldonk.com/2024/a-reasonable-configuration-language)
 * [2024-02-04, 13:23:28](https://lobste.rs/s/489art/letlang_written_rust_targeting_rust_now) - [Letlang, written in Rust, targeting Rust, now has a specification](https://letlang.dev/spec/)
