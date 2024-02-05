@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-05, 10:15:29](https://lobste.rs/s/slbbgk/clight_c_daemon_turns_your_webcam_into) - [Clight - A C daemon that turns your webcam into a light sensor](https://github.com/FedeDP/Clight)
 * [2024-02-05, 09:30:51](https://lobste.rs/s/sri4bn/overview_nix_formatters_ecosystem) - [Overview of Nix Formatters Ecosystem](https://drakerossman.com/blog/overview-of-nix-formatters-ecosystem)
 * [2024-02-05, 08:29:13](https://lobste.rs/s/xyyevp/learn_lambda_calculus_10_minutes_with) - [Learn Lambda Calculus in 10 minutes with OCaml](https://dev.to/chshersh/learn-lambda-calculus-in-10-minutes-with-ocaml-56ba)
 * [2024-02-05, 07:39:28](https://lobste.rs/s/gloypu/abc_structure_editor) - [The ABC Structure Editor](https://ir.cwi.nl/pub/5348/05348D.pdf)
@@ -16,7 +17,6 @@
 * [2024-02-04, 17:44:35](https://lobste.rs/s/tz7tpl/calculator_construction_set) - [Calculator Construction Set](https://www.folklore.org/Calculator_Construction_Set.html)
 * [2024-02-04, 16:52:15](https://lobste.rs/s/cfynbw/how_i_learned_stop_worrying_love_juggling) - [How I Learned to Stop Worrying and Love Juggling C++ Atomics](https://brilliantsugar.github.io/posts/how-i-learned-to-stop-worrying-and-love-juggling-c++-atomics/)
 * [2024-02-04, 16:38:41](https://lobste.rs/s/7eiw62/demostration_fixing_bug_from_medley_s) - [A demostration of fixing a bug from Medley's debugger](https://journal.paoloamoroso.com/a-demostration-of-fixing-a-bug-from-medleys-debugger)
-* [2024-02-04, 15:24:08](https://lobste.rs/s/jzh8ae/quantifying_student_projects) - [Quantifying Student Projects](https://futhark-lang.org/blog/2024-02-03-quantifying-student-projects.html)
 * [2024-02-04, 15:23:51](https://lobste.rs/s/y22ehj/disaggregated_write_ahead_log) - [The disaggregated write-ahead log](https://blog.schmizz.net/disaggregated-wal)
 * [2024-02-04, 14:01:25](https://lobste.rs/s/a4ugmx/reasonable_configuration_language) - [A reasonable configuration language](https://ruudvanasseldonk.com/2024/a-reasonable-configuration-language)
 * [2024-02-04, 13:35:28](https://lobste.rs/s/gwovv9/rye_vision_continued) - [Rye: A Vision Continued](https://lucumr.pocoo.org/2024/2/4/rye-a-vision/)
