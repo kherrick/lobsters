@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-05, 15:16:25",
+      "https://lobste.rs/s/6opqcn/doom_ascii_terminal"
+    ],
+    [
+      "DooM-ascii in the terminal",
+      "https://github.com/wojciech-graj/doom-ascii"
+    ]
+  ],
+  [
+    [
+      "2024-02-05, 15:13:31",
+      "https://lobste.rs/s/cyo9iy/zest_notation_representation"
+    ],
+    [
+      "Zest: notation and representation",
+      "https://www.scattered-thoughts.net/writing/notation-and-representation/"
+    ]
+  ],
+  [
+    [
       "2024-02-05, 13:26:37",
       "https://lobste.rs/s/hisnbu/cool_things_you_can_do_with_select"
     ],
@@ -107,16 +127,6 @@
     [
       "How I Also Hacked my Car",
       "https://goncalomb.com/blog/2024/01/30/f57cf19b-how-i-also-hacked-my-car"
-    ]
-  ],
-  [
-    [
-      "2024-02-05, 02:24:18",
-      "https://lobste.rs/s/4gvs0a/coolest_robot_i_ve_ever_built"
-    ],
-    [
-      "The coolest robot I've ever built",
-      "https://youtu.be/bO-DWWFolPw"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Rye: a Hassle-Free Python Experience",
       "https://www.youtube.com/watch?v=q99TYA7LnuA"
-    ]
-  ],
-  [
-    [
-      "2024-02-03, 19:26:47",
-      "https://lobste.rs/s/awcoy3/let_futures_be_futures"
-    ],
-    [
-      "Let futures be futures",
-      "https://without.boats/blog/let-futures-be-futures/"
     ]
   ]
 ]
