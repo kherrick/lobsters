@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-05, 02:24:18](https://lobste.rs/s/4gvs0a/coolest_robot_i_ve_ever_built) - [The coolest robot I've ever built](https://youtu.be/bO-DWWFolPw)
 * [2024-02-04, 23:45:40](https://lobste.rs/s/waniqm/best_physical_engineer_thing_you_ve) - [Best physical engineer thing you’ve bought that’s made a difference](https://lobste.rs/s/waniqm/best_physical_engineer_thing_you_ve)
 * [2024-02-04, 23:11:20](https://lobste.rs/s/jfjjcp/jpeg_xl_rejected_for_interop_2024) - [JPEG-XL Rejected for Interop 2024](https://github.com/web-platform-tests/interop/issues/430)
 * [2024-02-04, 22:49:21](https://lobste.rs/s/rwl8mt/consistency) - [Consistency](https://surfingcomplexity.blog/2023/12/31/consistency/)
@@ -20,7 +21,6 @@
 * [2024-02-04, 13:35:28](https://lobste.rs/s/gwovv9/rye_vision_continued) - [Rye: A Vision Continued](https://lucumr.pocoo.org/2024/2/4/rye-a-vision/)
 * [2024-02-04, 13:23:28](https://lobste.rs/s/489art/letlang_written_rust_targeting_rust_now) - [Letlang, written in Rust, targeting Rust, now has a specification](https://letlang.dev/spec/)
 * [2024-02-04, 11:57:24](https://lobste.rs/s/dsnxea/education_typing_man) - [Education of a Typing Man](https://registerspill.thorstenball.com/p/education-of-a-typing-man)
-* [2024-02-04, 06:52:39](https://lobste.rs/s/7dve8q/htmx_deep_dive) - [HTMX Deep Dive](https://www.youtube.com/watch?v=javGxN-h9VQ)
 * [2024-02-04, 02:20:43](https://lobste.rs/s/etolfs/creating_macos_app_with_lua_nothing_else) - [Creating a MacOS app with Lua (and nothing else)](https://github.com/mogenson/lua-macos-app)
 * [2024-02-03, 21:46:00](https://lobste.rs/s/dxx1tk/rye_hassle_free_python_experience) - [Rye: a Hassle-Free Python Experience](https://www.youtube.com/watch?v=q99TYA7LnuA)
 * [2024-02-03, 19:26:47](https://lobste.rs/s/awcoy3/let_futures_be_futures) - [Let futures be futures](https://without.boats/blog/let-futures-be-futures/)

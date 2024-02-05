@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-02-05](index.md)
+
+* [2024-02-05, 02:24:18](https://lobste.rs/s/4gvs0a/coolest_robot_i_ve_ever_built) - [The coolest robot I've ever built](https://youtu.be/bO-DWWFolPw)
