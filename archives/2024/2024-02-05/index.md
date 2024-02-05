@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 21:08:12](https://lobste.rs/s/wsnkyg/joy_coding_with_mike_conley) - [The Joy of Coding with Mike Conley](https://mozilla.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2213f46e5a-2044-41f8-8b05-ab6101342f9b%22)
 * [2024-02-05, 19:37:58](https://lobste.rs/s/sz6qjb/validation_modern_json_schema) - [Validation of Modern JSON Schema: Formalization and Complexity](https://arxiv.org/abs/2307.10034)
 * [2024-02-05, 18:57:05](https://lobste.rs/s/kjlepr/introducing_qwen1_5) - [Introducing Qwen1.5](https://qwenlm.github.io/blog/qwen1.5/)
+* [2024-02-05, 18:38:44](https://lobste.rs/s/ccssqq/scriptisto_writing_one_file_scripts) - [Scriptisto: writing one-file scripts in languages that require compilation, dependencies fetching or preprocessing](https://github.com/igor-petruk/scriptisto/wiki)
 * [2024-02-05, 18:23:18](https://lobste.rs/s/w5mhwh/vesuvius_challenge_2023_grand_prize) - [Vesuvius Challenge 2023 Grand Prize awarded: we can read the scrolls](https://scrollprize.org/grandprize)
 * [2024-02-05, 18:20:54](https://lobste.rs/s/3xdumy/how_create_secure_random_password_with) - [How to create a Secure, Random Password with JavaScript](https://blog.hboeck.de/archives/907-How-to-create-a-Secure,-Random-Password-with-JavaScript.html)
 * [2024-02-05, 18:16:41](https://lobste.rs/s/1yx0wg/too_much_good_thing_trade_off_we_make_with) - [Too much of a good thing: the trade-off we make with tests](https://ntietz.com/blog/too-much-of-a-good-thing-the-cost-of-excess-testing/)
