@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-05, 21:08:12",
+      "https://lobste.rs/s/wsnkyg/joy_coding_with_mike_conley"
+    ],
+    [
+      "The Joy of Coding with Mike Conley",
+      "https://mozilla.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2213f46e5a-2044-41f8-8b05-ab6101342f9b%22"
+    ]
+  ],
+  [
+    [
       "2024-02-05, 19:37:58",
       "https://lobste.rs/s/sz6qjb/validation_modern_json_schema"
     ],
@@ -17,6 +27,16 @@
     [
       "Introducing Qwen1.5",
       "https://qwenlm.github.io/blog/qwen1.5/"
+    ]
+  ],
+  [
+    [
+      "2024-02-05, 18:38:44",
+      "https://lobste.rs/s/ccssqq/scriptisto_writing_one_file_scripts"
+    ],
+    [
+      "Scriptisto: writing one-file scripts in languages that require compilation, dependencies fetching or preprocessing",
+      "https://github.com/igor-petruk/scriptisto/wiki"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "My FOSDEM 2024 Experience",
       "https://blog.orhun.dev/fosdem-2024-experience/"
-    ]
-  ],
-  [
-    [
-      "2024-02-05, 15:16:25",
-      "https://lobste.rs/s/6opqcn/doom_ascii_terminal"
-    ],
-    [
-      "DooM-ascii in the terminal",
-      "https://github.com/wojciech-graj/doom-ascii"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "sapling: A highly experimental vi-inspired editor where you edit code, not text",
       "https://github.com/kneasle/sapling"
-    ]
-  ],
-  [
-    [
-      "2024-02-04, 15:23:51",
-      "https://lobste.rs/s/y22ehj/disaggregated_write_ahead_log"
-    ],
-    [
-      "The disaggregated write-ahead log",
-      "https://blog.schmizz.net/disaggregated-wal"
     ]
   ],
   [
