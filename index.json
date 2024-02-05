@@ -2,10 +2,10 @@
   [
     [
       "2024-02-05, 15:42:00",
-      "https://lobste.rs/s/wpknpf/polars_why_we_have_rewritten_our_string"
+      "https://lobste.rs/s/wpknpf/why_we_have_rewritten_our_string_binary"
     ],
     [
-      "[Polars] Why we have rewritten our string/binary type",
+      "Why we have rewritten our string/binary type",
       "https://pola.rs/posts/polars-string-type/"
     ]
   ],
