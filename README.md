@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-05, 15:42:00](https://lobste.rs/s/wpknpf/polars_why_we_have_rewritten_our_string) - [[Polars] Why we have rewritten our string/binary type](https://pola.rs/posts/polars-string-type/)
 * [2024-02-05, 15:29:10](https://lobste.rs/s/etpzlv/my_fosdem_2024_experience) - [My FOSDEM 2024 Experience](https://blog.orhun.dev/fosdem-2024-experience/)
 * [2024-02-05, 15:18:01](https://lobste.rs/s/tkdbgz/inverting_three_key_relationships) - [Inverting three key relationships in computing](https://www.wildbuilt.world/p/inverting-three-key-relationships)
 * [2024-02-05, 15:17:20](https://lobste.rs/s/9uslfn/docker_security_best_practices) - [Docker Security Best Practices](https://betterstack.com/community/guides/scaling-docker/docker-security-best-practices/https://betterstack.com/community/guides/scaling-docker/docker-security-best-practices/)
@@ -12,7 +13,6 @@
 * [2024-02-05, 11:09:51](https://lobste.rs/s/3cd08b/creating_controllable_d_state) - [Creating controllable D state (uninterruptible sleep) processes](https://chrisdown.name/2024/02/05/reliably-creating-d-state-processes-on-demand.html)
 * [2024-02-05, 09:30:51](https://lobste.rs/s/sri4bn/overview_nix_formatters_ecosystem) - [Overview of Nix Formatters Ecosystem](https://drakerossman.com/blog/overview-of-nix-formatters-ecosystem)
 * [2024-02-05, 08:29:13](https://lobste.rs/s/xyyevp/learn_lambda_calculus_10_minutes_with) - [Learn Lambda Calculus in 10 minutes with OCaml](https://dev.to/chshersh/learn-lambda-calculus-in-10-minutes-with-ocaml-56ba)
-* [2024-02-05, 07:39:28](https://lobste.rs/s/gloypu/abc_structure_editor) - [The ABC Structure Editor](https://ir.cwi.nl/pub/5348/05348D.pdf)
 * [2024-02-05, 04:21:17](https://lobste.rs/s/4attop/netbsd_10_thirty_years_still_going_strong) - [NetBSD 10: Thirty Years, Still Going Strong](https://bentsukun.ch/talks/fosdem2024/)
 * [2024-02-05, 03:49:23](https://lobste.rs/s/fgnb8q/how_i_also_hacked_my_car) - [How I Also Hacked my Car](https://goncalomb.com/blog/2024/01/30/f57cf19b-how-i-also-hacked-my-car)
 * [2024-02-04, 23:11:20](https://lobste.rs/s/jfjjcp/jpeg_xl_rejected_for_interop_2024) - [JPEG-XL Rejected for Interop 2024](https://github.com/web-platform-tests/interop/issues/430)

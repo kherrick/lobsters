@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 15:42:00](https://lobste.rs/s/wpknpf/polars_why_we_have_rewritten_our_string) - [[Polars] Why we have rewritten our string/binary type](https://pola.rs/posts/polars-string-type/)
 * [2024-02-05, 15:29:10](https://lobste.rs/s/etpzlv/my_fosdem_2024_experience) - [My FOSDEM 2024 Experience](https://blog.orhun.dev/fosdem-2024-experience/)
 * [2024-02-05, 15:18:01](https://lobste.rs/s/tkdbgz/inverting_three_key_relationships) - [Inverting three key relationships in computing](https://www.wildbuilt.world/p/inverting-three-key-relationships)
 * [2024-02-05, 15:17:20](https://lobste.rs/s/9uslfn/docker_security_best_practices) - [Docker Security Best Practices](https://betterstack.com/community/guides/scaling-docker/docker-security-best-practices/https://betterstack.com/community/guides/scaling-docker/docker-security-best-practices/)
