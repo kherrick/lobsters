@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-04, 23:45:40](https://lobste.rs/s/waniqm/best_physical_engineer_thing_you_ve) - [Best physical engineer thing you’ve bought that’s made a difference](https://lobste.rs/s/waniqm/best_physical_engineer_thing_you_ve)
 * [2024-02-04, 23:11:20](https://lobste.rs/s/jfjjcp/jpeg_xl_rejected_for_interop_2024) - [JPEG-XL Rejected for Interop 2024](https://github.com/web-platform-tests/interop/issues/430)
 * [2024-02-04, 22:49:21](https://lobste.rs/s/rwl8mt/consistency) - [Consistency](https://surfingcomplexity.blog/2023/12/31/consistency/)
 * [2024-02-04, 21:56:52](https://lobste.rs/s/ot9bgj/pain_points_building_copilot) - [The pain points of building a copilot](https://austinhenley.com/blog/copilotpainpoints.html)
 * [2024-02-04, 21:44:36](https://lobste.rs/s/25ekn9/uuid_benchmark_war) - [UUID Benchmark War](https://ardentperf.com/2024/02/03/uuid-benchmark-war/)
-* [2024-02-04, 21:42:14](https://lobste.rs/s/d4xnei/wowmips_mips_emulator_for_windows_part_1) - [WoWMIPS - MIPS Emulator for Windows, Part 1: Introduction](https://www.x86matthew.com/view_post?id=mips_1)
 * [2024-02-04, 21:10:02](https://lobste.rs/s/aishcv/repairing_sort_dyson_fan_remote_control) - [Repairing (sort of) a Dyson fan remote control](https://blog.jgc.org/2024/02/repairing-sort-of-dyson-fan-remote.html)
 * [2024-02-04, 20:43:43](https://lobste.rs/s/x3zkye/proposal_add_robotics_tag_lobsters) - [Proposal to add a \"robotics\" tag to Lobsters](https://lobste.rs/s/x3zkye/proposal_add_robotics_tag_lobsters)
 * [2024-02-04, 20:38:48](https://lobste.rs/s/bokhjm/experiential_robotics_platform) - [Experiential Robotics Platform](https://experientialrobotics.org)
