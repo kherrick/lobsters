@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-05, 11:09:51",
+      "https://lobste.rs/s/3cd08b/creating_controllable_d_state"
+    ],
+    [
+      "Creating controllable D state (uninterruptible sleep) processes",
+      "https://chrisdown.name/2024/02/05/reliably-creating-d-state-processes-on-demand.html"
+    ]
+  ],
+  [
+    [
       "2024-02-05, 10:15:29",
       "https://lobste.rs/s/slbbgk/clight_c_daemon_turns_your_webcam_into"
     ],
@@ -187,16 +197,6 @@
     [
       "A reasonable configuration language",
       "https://ruudvanasseldonk.com/2024/a-reasonable-configuration-language"
-    ]
-  ],
-  [
-    [
-      "2024-02-04, 13:35:28",
-      "https://lobste.rs/s/gwovv9/rye_vision_continued"
-    ],
-    [
-      "Rye: A Vision Continued",
-      "https://lucumr.pocoo.org/2024/2/4/rye-a-vision/"
     ]
   ],
   [
