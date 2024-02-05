@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-05, 15:18:01](https://lobste.rs/s/tkdbgz/inverting_three_key_relationships) - [Inverting three key relationships in computing](https://www.wildbuilt.world/p/inverting-three-key-relationships)
+* [2024-02-05, 15:17:20](https://lobste.rs/s/9uslfn/docker_security_best_practices) - [Docker Security Best Practices](https://betterstack.com/community/guides/scaling-docker/docker-security-best-practices/https://betterstack.com/community/guides/scaling-docker/docker-security-best-practices/)
 * [2024-02-05, 15:16:25](https://lobste.rs/s/6opqcn/doom_ascii_terminal) - [DooM-ascii in the terminal](https://github.com/wojciech-graj/doom-ascii)
 * [2024-02-05, 15:13:31](https://lobste.rs/s/cyo9iy/zest_notation_representation) - [Zest: notation and representation](https://www.scattered-thoughts.net/writing/notation-and-representation/)
 * [2024-02-05, 13:26:37](https://lobste.rs/s/hisnbu/cool_things_you_can_do_with_select) - [Cool Things You Can Do with SELECT](https://blog.edwardloveall.com/cool-things-you-can-do-with-select)
@@ -17,8 +19,6 @@
 * [2024-02-04, 21:56:52](https://lobste.rs/s/ot9bgj/pain_points_building_copilot) - [The pain points of building a copilot](https://austinhenley.com/blog/copilotpainpoints.html)
 * [2024-02-04, 20:00:22](https://lobste.rs/s/awozud/converting_minecraft_maps_half_life_1) - [Converting Minecraft maps to Half-Life 1](https://notnite.com/blog/minecraft-to-goldsrc)
 * [2024-02-04, 19:49:46](https://lobste.rs/s/qccmsd/sapling_highly_experimental_vi_inspired) - [sapling: A highly experimental vi-inspired editor where you edit code, not text](https://github.com/kneasle/sapling)
-* [2024-02-04, 17:44:35](https://lobste.rs/s/tz7tpl/calculator_construction_set) - [Calculator Construction Set](https://www.folklore.org/Calculator_Construction_Set.html)
-* [2024-02-04, 16:52:15](https://lobste.rs/s/cfynbw/how_i_learned_stop_worrying_love_juggling) - [How I Learned to Stop Worrying and Love Juggling C++ Atomics](https://brilliantsugar.github.io/posts/how-i-learned-to-stop-worrying-and-love-juggling-c++-atomics/)
 * [2024-02-04, 15:23:51](https://lobste.rs/s/y22ehj/disaggregated_write_ahead_log) - [The disaggregated write-ahead log](https://blog.schmizz.net/disaggregated-wal)
 * [2024-02-04, 14:01:25](https://lobste.rs/s/a4ugmx/reasonable_configuration_language) - [A reasonable configuration language](https://ruudvanasseldonk.com/2024/a-reasonable-configuration-language)
 * [2024-02-04, 13:23:28](https://lobste.rs/s/489art/letlang_written_rust_targeting_rust_now) - [Letlang, written in Rust, targeting Rust, now has a specification](https://letlang.dev/spec/)

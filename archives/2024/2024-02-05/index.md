@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-05](index.md)
 
+* [2024-02-05, 15:18:01](https://lobste.rs/s/tkdbgz/inverting_three_key_relationships) - [Inverting three key relationships in computing](https://www.wildbuilt.world/p/inverting-three-key-relationships)
+* [2024-02-05, 15:17:20](https://lobste.rs/s/9uslfn/docker_security_best_practices) - [Docker Security Best Practices](https://betterstack.com/community/guides/scaling-docker/docker-security-best-practices/https://betterstack.com/community/guides/scaling-docker/docker-security-best-practices/)
 * [2024-02-05, 15:16:25](https://lobste.rs/s/6opqcn/doom_ascii_terminal) - [DooM-ascii in the terminal](https://github.com/wojciech-graj/doom-ascii)
 * [2024-02-05, 15:13:31](https://lobste.rs/s/cyo9iy/zest_notation_representation) - [Zest: notation and representation](https://www.scattered-thoughts.net/writing/notation-and-representation/)
 * [2024-02-05, 13:26:37](https://lobste.rs/s/hisnbu/cool_things_you_can_do_with_select) - [Cool Things You Can Do with SELECT](https://blog.edwardloveall.com/cool-things-you-can-do-with-select)
