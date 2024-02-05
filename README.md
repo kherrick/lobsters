@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-02-05, 07:20:45](https://lobste.rs/s/zcq0mb/answer_ai_lessons_from_history_s_greatest) - [Answer.AI - Lessons from history’s greatest R&D labs](https://www.answer.ai/posts/2024-01-26-freaktakes-lessons.html)
 * [2024-02-05, 04:21:17](https://lobste.rs/s/4attop/netbsd_10_thirty_years_still_going_strong) - [NetBSD 10: Thirty Years, Still Going Strong](https://bentsukun.ch/talks/fosdem2024/)
 * [2024-02-05, 03:49:23](https://lobste.rs/s/fgnb8q/how_i_also_hacked_my_car) - [How I Also Hacked my Car](https://goncalomb.com/blog/2024/01/30/f57cf19b-how-i-also-hacked-my-car)
+* [2024-02-05, 02:24:18](https://lobste.rs/s/4gvs0a/coolest_robot_i_ve_ever_built) - [The coolest robot I've ever built](https://youtu.be/bO-DWWFolPw)
 * [2024-02-04, 23:45:40](https://lobste.rs/s/waniqm/best_physical_engineer_thing_you_ve) - [Best physical engineer thing you’ve bought that’s made a difference](https://lobste.rs/s/waniqm/best_physical_engineer_thing_you_ve)
 * [2024-02-04, 23:11:20](https://lobste.rs/s/jfjjcp/jpeg_xl_rejected_for_interop_2024) - [JPEG-XL Rejected for Interop 2024](https://github.com/web-platform-tests/interop/issues/430)
 * [2024-02-04, 22:49:21](https://lobste.rs/s/rwl8mt/consistency) - [Consistency](https://surfingcomplexity.blog/2023/12/31/consistency/)
