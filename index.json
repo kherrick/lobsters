@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-05, 10:15:29",
+      "https://lobste.rs/s/slbbgk/clight_c_daemon_turns_your_webcam_into"
+    ],
+    [
+      "Clight - A C daemon that turns your webcam into a light sensor",
+      "https://github.com/FedeDP/Clight"
+    ]
+  ],
+  [
+    [
       "2024-02-05, 09:30:51",
       "https://lobste.rs/s/sri4bn/overview_nix_formatters_ecosystem"
     ],
@@ -157,16 +167,6 @@
     [
       "A demostration of fixing a bug from Medley's debugger",
       "https://journal.paoloamoroso.com/a-demostration-of-fixing-a-bug-from-medleys-debugger"
-    ]
-  ],
-  [
-    [
-      "2024-02-04, 15:24:08",
-      "https://lobste.rs/s/jzh8ae/quantifying_student_projects"
-    ],
-    [
-      "Quantifying Student Projects",
-      "https://futhark-lang.org/blog/2024-02-03-quantifying-student-projects.html"
     ]
   ],
   [
