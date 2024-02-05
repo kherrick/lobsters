@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-05, 15:42:00",
+      "https://lobste.rs/s/wpknpf/polars_why_we_have_rewritten_our_string"
+    ],
+    [
+      "[Polars] Why we have rewritten our string/binary type",
+      "https://pola.rs/posts/polars-string-type/"
+    ]
+  ],
+  [
+    [
       "2024-02-05, 15:29:10",
       "https://lobste.rs/s/etpzlv/my_fosdem_2024_experience"
     ],
@@ -117,16 +127,6 @@
     [
       "Learn Lambda Calculus in 10 minutes with OCaml",
       "https://dev.to/chshersh/learn-lambda-calculus-in-10-minutes-with-ocaml-56ba"
-    ]
-  ],
-  [
-    [
-      "2024-02-05, 07:39:28",
-      "https://lobste.rs/s/gloypu/abc_structure_editor"
-    ],
-    [
-      "The ABC Structure Editor",
-      "https://ir.cwi.nl/pub/5348/05348D.pdf"
     ]
   ],
   [
