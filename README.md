@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-06, 07:54:33](https://lobste.rs/s/xzsnva/get_notified_when_github_ipv6_is_live) - [Get notified when GitHub IPv6 is live](https://isgithubipv6.live/)
 * [2024-02-06, 07:04:06](https://lobste.rs/s/ii9jxs/let_me_tell_you_secret_deciphering_glyph) - [Let Me Tell You A Secret — Deciphering Glyph](https://blog.glyph.im/2024/02/let-me-tell-you-a-secret.html#fnref:5:let-me-tell-you-a-secret-2024-2)
 * [2024-02-06, 06:45:22](https://lobste.rs/s/a9l0hj/programmable_fonts_with_rust) - [Programmable fonts with Rust](https://www.youtube.com/watch?v=Ms1Drb9Vw9M)
 * [2024-02-06, 05:49:24](https://lobste.rs/s/fn1mpo/browsers_are_weird_right_now) - [Browsers Are Weird Right Now](https://tylersticka.com/journal/browsers-are-weird-right-now/)
@@ -17,7 +18,6 @@
 * [2024-02-05, 15:42:00](https://lobste.rs/s/wpknpf/why_we_have_rewritten_our_string_binary) - [Why we have rewritten our string/binary type](https://pola.rs/posts/polars-string-type/)
 * [2024-02-05, 15:29:10](https://lobste.rs/s/etpzlv/my_fosdem_2024_experience) - [My FOSDEM 2024 Experience](https://blog.orhun.dev/fosdem-2024-experience/)
 * [2024-02-05, 15:13:31](https://lobste.rs/s/cyo9iy/zest_notation_representation) - [Zest: notation and representation](https://www.scattered-thoughts.net/writing/notation-and-representation/)
-* [2024-02-05, 13:26:37](https://lobste.rs/s/hisnbu/cool_things_you_can_do_with_select) - [Cool Things You Can Do with SELECT](https://blog.edwardloveall.com/cool-things-you-can-do-with-select)
 * [2024-02-05, 11:56:31](https://lobste.rs/s/qsonlf/why_we_can_t_have_nice_software) - [Why We Can't Have Nice Software](https://andrewkelley.me/post/why-we-cant-have-nice-software.html)
 * [2024-02-05, 11:30:17](https://lobste.rs/s/4go9ls/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/4go9ls/what_are_you_doing_this_week)
 * [2024-02-05, 11:09:51](https://lobste.rs/s/3cd08b/creating_controllable_d_state) - [Creating controllable D state (uninterruptible sleep) processes](https://chrisdown.name/2024/02/05/reliably-creating-d-state-processes-on-demand.html)
