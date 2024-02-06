@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-06, 20:59:23",
+      "https://lobste.rs/s/klo3e3/garbage_collection_without_unsafe_code"
+    ],
+    [
+      "Garbage Collection Without Unsafe Code",
+      "https://fitzgeraldnick.com/2024/02/06/safe-gc.html"
+    ]
+  ],
+  [
+    [
       "2024-02-06, 19:38:40",
       "https://lobste.rs/s/jkewsv/jsonfile_quick_hack_for_tinkering"
     ],
@@ -67,16 +77,6 @@
     [
       "Elixir Nitpicks",
       "https://wiki.alopex.li/ElixirNitpicks"
-    ]
-  ],
-  [
-    [
-      "2024-02-06, 16:26:52",
-      "https://lobste.rs/s/a1gwo6/improved_chkstk_function_on_windows"
-    ],
-    [
-      "An improved chkstk function on Windows",
-      "https://nullprogram.com/blog/2024/02/05/"
     ]
   ],
   [
