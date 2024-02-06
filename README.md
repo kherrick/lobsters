@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-02-06, 18:44:22](https://lobste.rs/s/5b4ml6/using_solid_queue_development_with) - [Using Solid Queue in Development with Docker and on Heroku](https://stuff-things.net/2024/01/27/using-solid-queue-in-development-with-docker-and-on-heroku/)
+* [2024-02-06, 19:13:19](https://lobste.rs/s/bdfeps/banyan_vines_resurrection) - [Banyan VINES resurrection](https://wiki.restless.systems/wiki/Banyan_VINES_resurrection)
 * [2024-02-06, 18:43:49](https://lobste.rs/s/maefew/bluesky_at_protocol_usable) - [Bluesky and the AT Protocol: Usable Decentralized Social Media](https://arxiv.org/pdf/2402.03239.pdf)
 * [2024-02-06, 17:59:38](https://lobste.rs/s/dascrx/compiling_composable_reactivity) - [Compiling Composable Reactivity](https://interjectedfuture.com/compiling-composable-reactivity/)
 * [2024-02-06, 17:33:35](https://lobste.rs/s/zt7khu/training_data_for_price_sandwich_common) - [Training Data for the Price of a Sandwich: Common Crawl’s Impact on Generative AI](https://foundation.mozilla.org/en/research/library/generative-ai-training-data/common-crawl/)
