@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-06](index.md)
 
+* [2024-02-06, 17:59:38](https://lobste.rs/s/dascrx/compiling_composable_reactivity) - [Compiling Composable Reactivity](https://interjectedfuture.com/compiling-composable-reactivity/)
 * [2024-02-06, 17:33:35](https://lobste.rs/s/zt7khu/training_data_for_price_sandwich_common) - [Training Data for the Price of a Sandwich: Common Crawl’s Impact on Generative AI](https://foundation.mozilla.org/en/research/library/generative-ai-training-data/common-crawl/)
 * [2024-02-06, 17:09:07](https://lobste.rs/s/mumfox/elixir_nitpicks) - [Elixir Nitpicks](https://wiki.alopex.li/ElixirNitpicks)
 * [2024-02-06, 16:26:52](https://lobste.rs/s/a1gwo6/improved_chkstk_function_on_windows) - [An improved chkstk function on Windows](https://nullprogram.com/blog/2024/02/05/)

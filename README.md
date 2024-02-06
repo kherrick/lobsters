@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-06, 17:59:38](https://lobste.rs/s/dascrx/compiling_composable_reactivity) - [Compiling Composable Reactivity](https://interjectedfuture.com/compiling-composable-reactivity/)
 * [2024-02-06, 17:33:35](https://lobste.rs/s/zt7khu/training_data_for_price_sandwich_common) - [Training Data for the Price of a Sandwich: Common Crawl’s Impact on Generative AI](https://foundation.mozilla.org/en/research/library/generative-ai-training-data/common-crawl/)
 * [2024-02-06, 17:09:07](https://lobste.rs/s/mumfox/elixir_nitpicks) - [Elixir Nitpicks](https://wiki.alopex.li/ElixirNitpicks)
 * [2024-02-06, 16:26:52](https://lobste.rs/s/a1gwo6/improved_chkstk_function_on_windows) - [An improved chkstk function on Windows](https://nullprogram.com/blog/2024/02/05/)
@@ -12,7 +13,6 @@
 * [2024-02-06, 08:20:32](https://lobste.rs/s/pmwfr4/static_roots_objects_with_compile_time) - [Static Roots: Objects with Compile-Time Constant Addresses · V8](https://v8.dev/blog/static-roots)
 * [2024-02-06, 07:54:33](https://lobste.rs/s/xzsnva/get_notified_when_github_ipv6_is_live) - [Get notified when GitHub IPv6 is live](https://isgithubipv6.live/)
 * [2024-02-06, 07:04:06](https://lobste.rs/s/ii9jxs/let_me_tell_you_secret) - [Let Me Tell You A Secret](https://blog.glyph.im/2024/02/let-me-tell-you-a-secret.html#fnref:5:let-me-tell-you-a-secret-2024-2)
-* [2024-02-06, 06:45:22](https://lobste.rs/s/a9l0hj/programmable_fonts_with_rust) - [Programmable fonts with Rust](https://www.youtube.com/watch?v=Ms1Drb9Vw9M)
 * [2024-02-06, 05:49:24](https://lobste.rs/s/fn1mpo/browsers_are_weird_right_now) - [Browsers Are Weird Right Now](https://tylersticka.com/journal/browsers-are-weird-right-now/)
 * [2024-02-06, 04:03:55](https://lobste.rs/s/ggzaax/single_html_file_spaced_repetition) - [A Single HTML File Spaced Repetition System/Scheduler](https://rickcarlino.com/srs.html)
 * [2024-02-06, 03:04:56](https://lobste.rs/s/odwleh/stamping_production_binaries_with_build) - [Stamping production binaries with build info](https://rachelbythebay.com/w/2024/02/05/stamp/)
