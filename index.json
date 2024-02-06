@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-02-06, 20:59:23",
+      "https://lobste.rs/s/klo3e3/garbage_collection_without_unsafe_code"
+    ],
+    [
+      "Garbage Collection Without Unsafe Code",
+      "https://fitzgeraldnick.com/2024/02/06/safe-gc.html"
+    ]
+  ],
+  [
+    [
       "2024-02-06, 19:38:40",
       "https://lobste.rs/s/jkewsv/jsonfile_quick_hack_for_tinkering"
     ],
@@ -137,16 +147,6 @@
     [
       "Database Replication: A Practical Overview",
       "https://medium.com/@atakanserbes/understanding-database-replication-a-practical-overview-dbe23344acc7?source=friends_link"
-    ]
-  ],
-  [
-    [
-      "2024-02-06, 08:20:32",
-      "https://lobste.rs/s/pmwfr4/static_roots_objects_with_compile_time"
-    ],
-    [
-      "Static Roots: Objects with Compile-Time Constant Addresses · V8",
-      "https://v8.dev/blog/static-roots"
     ]
   ],
   [
