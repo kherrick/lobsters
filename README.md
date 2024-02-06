@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-06, 06:45:22](https://lobste.rs/s/a9l0hj/programmable_fonts_with_rust) - [Programmable fonts with Rust](https://www.youtube.com/watch?v=Ms1Drb9Vw9M)
 * [2024-02-06, 05:49:24](https://lobste.rs/s/fn1mpo/browsers_are_weird_right_now) - [Browsers Are Weird Right Now](https://tylersticka.com/journal/browsers-are-weird-right-now/)
 * [2024-02-06, 04:03:55](https://lobste.rs/s/ggzaax/single_html_file_spaced_repetition) - [A Single HTML File Spaced Repetition System/Scheduler](https://rickcarlino.com/srs.html)
 * [2024-02-06, 03:04:56](https://lobste.rs/s/odwleh/stamping_production_binaries_with_build) - [Stamping production binaries with build info](https://rachelbythebay.com/w/2024/02/05/stamp/)
 * [2024-02-05, 22:36:32](https://lobste.rs/s/icugir/how_does_sidekiq_really_work) - [How does Sidekiq really work?](https://dansvetlov.me/sidekiq-internals/)
 * [2024-02-05, 22:30:04](https://lobste.rs/s/h7xxkf/cross_compiling_rust_win32) - [Cross compiling Rust to win32](https://neugierig.org/software/blog/2024/02/cross-compile.html)
 * [2024-02-05, 22:20:29](https://lobste.rs/s/s7qmxq/lamport_clocks) - [Lamport clocks](https://blog.fponzi.me/2024-02-02-lamport-clocks.html)
-* [2024-02-05, 18:57:05](https://lobste.rs/s/kjlepr/introducing_qwen1_5) - [Introducing Qwen1.5](https://qwenlm.github.io/blog/qwen1.5/)
 * [2024-02-05, 18:38:44](https://lobste.rs/s/ccssqq/scriptisto_writing_one_file_scripts) - [Scriptisto: writing one-file scripts in languages that require compilation, dependencies fetching or preprocessing](https://github.com/igor-petruk/scriptisto/wiki)
 * [2024-02-05, 18:23:18](https://lobste.rs/s/w5mhwh/vesuvius_challenge_2023_grand_prize) - [Vesuvius Challenge 2023 Grand Prize awarded: we can read the scrolls](https://scrollprize.org/grandprize)
 * [2024-02-05, 18:20:54](https://lobste.rs/s/3xdumy/how_create_secure_random_password_with) - [How to create a Secure, Random Password with JavaScript](https://blog.hboeck.de/archives/907-How-to-create-a-Secure,-Random-Password-with-JavaScript.html)
