@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-06, 07:04:06",
+      "https://lobste.rs/s/ii9jxs/let_me_tell_you_secret_deciphering_glyph"
+    ],
+    [
+      "Let Me Tell You A Secret — Deciphering Glyph",
+      "https://blog.glyph.im/2024/02/let-me-tell-you-a-secret.html#fnref:5:let-me-tell-you-a-secret-2024-2"
+    ]
+  ],
+  [
+    [
       "2024-02-06, 06:45:22",
       "https://lobste.rs/s/a9l0hj/programmable_fonts_with_rust"
     ],
@@ -237,16 +247,6 @@
     [
       "JPEG-XL Rejected for Interop 2024",
       "https://github.com/web-platform-tests/interop/issues/430"
-    ]
-  ],
-  [
-    [
-      "2024-02-04, 21:56:52",
-      "https://lobste.rs/s/ot9bgj/pain_points_building_copilot"
-    ],
-    [
-      "The pain points of building a copilot",
-      "https://austinhenley.com/blog/copilotpainpoints.html"
     ]
   ]
 ]
