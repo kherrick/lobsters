@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-06, 16:26:52",
+      "https://lobste.rs/s/a1gwo6/improved_chkstk_function_on_windows"
+    ],
+    [
+      "An improved chkstk function on Windows",
+      "https://nullprogram.com/blog/2024/02/05/"
+    ]
+  ],
+  [
+    [
       "2024-02-06, 16:04:00",
       "https://lobste.rs/s/sqaknx/poc_gtfo_0x22"
     ],
@@ -157,16 +167,6 @@
     [
       "Lamport clocks",
       "https://blog.fponzi.me/2024-02-02-lamport-clocks.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-05, 18:38:44",
-      "https://lobste.rs/s/ccssqq/scriptisto_writing_one_file_scripts"
-    ],
-    [
-      "Scriptisto: writing one-file scripts in languages that require compilation, dependencies fetching or preprocessing",
-      "https://github.com/igor-petruk/scriptisto/wiki"
     ]
   ],
   [
