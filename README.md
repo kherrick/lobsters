@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-06, 10:08:48](https://lobste.rs/s/0ccjum/database_replication_practical) - [Database Replication: A Practical Overview](https://medium.com/@atakanserbes/understanding-database-replication-a-practical-overview-dbe23344acc7?source=friends_link)
 * [2024-02-06, 08:20:32](https://lobste.rs/s/pmwfr4/static_roots_objects_with_compile_time) - [Static Roots: Objects with Compile-Time Constant Addresses · V8](https://v8.dev/blog/static-roots)
 * [2024-02-06, 07:54:33](https://lobste.rs/s/xzsnva/get_notified_when_github_ipv6_is_live) - [Get notified when GitHub IPv6 is live](https://isgithubipv6.live/)
 * [2024-02-06, 07:04:06](https://lobste.rs/s/ii9jxs/let_me_tell_you_secret_deciphering_glyph) - [Let Me Tell You A Secret — Deciphering Glyph](https://blog.glyph.im/2024/02/let-me-tell-you-a-secret.html#fnref:5:let-me-tell-you-a-secret-2024-2)
@@ -9,7 +10,6 @@
 * [2024-02-05, 22:36:32](https://lobste.rs/s/icugir/how_does_sidekiq_really_work) - [How does Sidekiq really work?](https://dansvetlov.me/sidekiq-internals/)
 * [2024-02-05, 22:30:04](https://lobste.rs/s/h7xxkf/cross_compiling_rust_win32) - [Cross compiling Rust to win32](https://neugierig.org/software/blog/2024/02/cross-compile.html)
 * [2024-02-05, 22:20:29](https://lobste.rs/s/s7qmxq/lamport_clocks) - [Lamport clocks](https://blog.fponzi.me/2024-02-02-lamport-clocks.html)
-* [2024-02-05, 18:38:44](https://lobste.rs/s/ccssqq/scriptisto_writing_one_file_scripts) - [Scriptisto: writing one-file scripts in languages that require compilation, dependencies fetching or preprocessing](https://github.com/igor-petruk/scriptisto/wiki)
 * [2024-02-05, 18:23:18](https://lobste.rs/s/w5mhwh/vesuvius_challenge_2023_grand_prize) - [Vesuvius Challenge 2023 Grand Prize awarded: we can read the scrolls](https://scrollprize.org/grandprize)
 * [2024-02-05, 18:20:54](https://lobste.rs/s/3xdumy/how_create_secure_random_password_with) - [How to create a Secure, Random Password with JavaScript](https://blog.hboeck.de/archives/907-How-to-create-a-Secure,-Random-Password-with-JavaScript.html)
 * [2024-02-05, 18:16:41](https://lobste.rs/s/1yx0wg/too_much_good_thing_trade_off_we_make_with) - [Too much of a good thing: the trade-off we make with tests](https://ntietz.com/blog/too-much-of-a-good-thing-the-cost-of-excess-testing/)
