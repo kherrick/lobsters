@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-06, 16:26:52](https://lobste.rs/s/a1gwo6/improved_chkstk_function_on_windows) - [An improved chkstk function on Windows](https://nullprogram.com/blog/2024/02/05/)
 * [2024-02-06, 16:04:00](https://lobste.rs/s/sqaknx/poc_gtfo_0x22) - [PoC||GTFO 0x22](https://www.alchemistowl.org/pocorgtfo/pocorgtfo22.pdf)
 * [2024-02-06, 15:58:05](https://lobste.rs/s/h1y3ql/sinusoidal_tetris) - [The sinusoidal tetris](https://www.andreinc.net/2024/02/06/the-sinusoidal-tetris)
 * [2024-02-06, 11:49:43](https://lobste.rs/s/hjk6ht/beautiful_code_greg_wilson_s_vision_for) - [Beautiful Code - Greg Wilson's Vision for Software Design](https://corecursive.com/beautiful-code-with-greg-wilson/)
@@ -16,7 +17,6 @@
 * [2024-02-05, 22:36:32](https://lobste.rs/s/icugir/how_does_sidekiq_really_work) - [How does Sidekiq really work?](https://dansvetlov.me/sidekiq-internals/)
 * [2024-02-05, 22:30:04](https://lobste.rs/s/h7xxkf/cross_compiling_rust_win32) - [Cross compiling Rust to win32](https://neugierig.org/software/blog/2024/02/cross-compile.html)
 * [2024-02-05, 22:20:29](https://lobste.rs/s/s7qmxq/lamport_clocks) - [Lamport clocks](https://blog.fponzi.me/2024-02-02-lamport-clocks.html)
-* [2024-02-05, 18:38:44](https://lobste.rs/s/ccssqq/scriptisto_writing_one_file_scripts) - [Scriptisto: writing one-file scripts in languages that require compilation, dependencies fetching or preprocessing](https://github.com/igor-petruk/scriptisto/wiki)
 * [2024-02-05, 18:23:18](https://lobste.rs/s/w5mhwh/vesuvius_challenge_2023_grand_prize) - [Vesuvius Challenge 2023 Grand Prize awarded: we can read the scrolls](https://scrollprize.org/grandprize)
 * [2024-02-05, 18:16:41](https://lobste.rs/s/1yx0wg/too_much_good_thing_trade_off_we_make_with) - [Too much of a good thing: the trade-off we make with tests](https://ntietz.com/blog/too-much-of-a-good-thing-the-cost-of-excess-testing/)
 * [2024-02-05, 17:29:01](https://lobste.rs/s/ol7zmd/how_i_learned_haskell_just_15_years) - [How I learned Haskell in just 15 years](https://duckrabbit.tech/articles/learning-haskell.html)
