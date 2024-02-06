@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-02-06, 21:29:49](https://lobste.rs/s/pq0mrc/how_embed_3d_models_on_web) - [How to Embed 3D Models on the Web](https://cloudfour.com/thinks/how-to-embed-3d-models-on-the-web/)
+* [2024-02-06, 20:59:23](https://lobste.rs/s/klo3e3/garbage_collection_without_unsafe_code) - [Garbage Collection Without Unsafe Code](https://fitzgeraldnick.com/2024/02/06/safe-gc.html)
 * [2024-02-06, 19:38:40](https://lobste.rs/s/jkewsv/jsonfile_quick_hack_for_tinkering) - [jsonfile: a quick hack for tinkering](https://crawshaw.io/blog/jsonfile)
 * [2024-02-06, 19:37:03](https://lobste.rs/s/2epqsl/expat_2_6_0_released_includes_security) - [Expat 2.6.0 released, includes security fixes](https://blog.hartwork.org/posts/expat-2-6-0-released/)
 * [2024-02-06, 19:13:19](https://lobste.rs/s/bdfeps/banyan_vines_resurrection) - [Banyan VINES resurrection](https://wiki.restless.systems/wiki/Banyan_VINES_resurrection)
@@ -14,7 +15,6 @@
 * [2024-02-06, 11:07:15](https://lobste.rs/s/g2yxvg/unusual_basis_types_programming) - [Unusual basis types in programming languages](https://buttondown.email/hillelwayne/archive/unusual-basis-types-in-programming-languages/)
 * [2024-02-06, 10:43:00](https://lobste.rs/s/zypywb/eu_right_repair_sellers_will_be_liable_for) - [EU right to repair: Sellers will be liable for a year after products are fixed](https://arstechnica.com/tech-policy/2024/02/eu-right-to-repair-sellers-will-be-liable-for-a-year-after-products-are-fixed/)
 * [2024-02-06, 10:08:48](https://lobste.rs/s/0ccjum/database_replication_practical) - [Database Replication: A Practical Overview](https://medium.com/@atakanserbes/understanding-database-replication-a-practical-overview-dbe23344acc7?source=friends_link)
-* [2024-02-06, 08:20:32](https://lobste.rs/s/pmwfr4/static_roots_objects_with_compile_time) - [Static Roots: Objects with Compile-Time Constant Addresses · V8](https://v8.dev/blog/static-roots)
 * [2024-02-06, 07:54:33](https://lobste.rs/s/xzsnva/get_notified_when_github_ipv6_is_live) - [Get notified when GitHub IPv6 is live](https://isgithubipv6.live/)
 * [2024-02-06, 05:49:24](https://lobste.rs/s/fn1mpo/browsers_are_weird_right_now) - [Browsers Are Weird Right Now](https://tylersticka.com/journal/browsers-are-weird-right-now/)
 * [2024-02-06, 04:03:55](https://lobste.rs/s/ggzaax/single_html_file_spaced_repetition) - [A Single HTML File Spaced Repetition System/Scheduler](https://rickcarlino.com/srs.html)
