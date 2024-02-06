@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-06, 01:02:54](https://lobste.rs/s/ancnwr/jami_for_organisations_connects_ldap) - [Jami for organisations connects to LDAP, Active Directory, Apache Derby](https://jami.net/discover-jams/)
 * [2024-02-05, 22:36:32](https://lobste.rs/s/icugir/how_does_sidekiq_really_work) - [How does Sidekiq really work?](https://dansvetlov.me/sidekiq-internals/)
 * [2024-02-05, 22:30:04](https://lobste.rs/s/h7xxkf/cross_compiling_rust_win32) - [Cross compiling Rust to win32](https://neugierig.org/software/blog/2024/02/cross-compile.html)
 * [2024-02-05, 22:20:29](https://lobste.rs/s/s7qmxq/lamport_clocks) - [Lamport clocks](https://blog.fponzi.me/2024-02-02-lamport-clocks.html)
@@ -21,7 +22,6 @@
 * [2024-02-05, 09:30:51](https://lobste.rs/s/sri4bn/overview_nix_formatters_ecosystem) - [Overview of Nix Formatters Ecosystem](https://drakerossman.com/blog/overview-of-nix-formatters-ecosystem)
 * [2024-02-05, 08:29:13](https://lobste.rs/s/xyyevp/learn_lambda_calculus_10_minutes_with) - [Learn Lambda Calculus in 10 minutes with OCaml](https://dev.to/chshersh/learn-lambda-calculus-in-10-minutes-with-ocaml-56ba)
 * [2024-02-05, 04:21:17](https://lobste.rs/s/4attop/netbsd_10_thirty_years_still_going_strong) - [NetBSD 10: Thirty Years, Still Going Strong](https://bentsukun.ch/talks/fosdem2024/)
-* [2024-02-05, 03:49:23](https://lobste.rs/s/fgnb8q/how_i_also_hacked_my_car) - [How I Also Hacked my Car](https://goncalomb.com/blog/2024/01/30/f57cf19b-how-i-also-hacked-my-car)
 * [2024-02-04, 23:11:20](https://lobste.rs/s/jfjjcp/jpeg_xl_rejected_for_interop_2024) - [JPEG-XL Rejected for Interop 2024](https://github.com/web-platform-tests/interop/issues/430)
 * [2024-02-04, 21:56:52](https://lobste.rs/s/ot9bgj/pain_points_building_copilot) - [The pain points of building a copilot](https://austinhenley.com/blog/copilotpainpoints.html)
 * [2024-02-04, 13:23:28](https://lobste.rs/s/489art/letlang_written_rust_targeting_rust_now) - [Letlang, written in Rust, targeting Rust, now has a specification](https://letlang.dev/spec/)
