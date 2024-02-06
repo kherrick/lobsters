@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-06, 04:03:55](https://lobste.rs/s/ggzaax/single_html_file_spaced_repetition) - [A Single HTML File Spaced Repetition System/Scheduler](https://rickcarlino.com/srs.html)
 * [2024-02-06, 03:04:56](https://lobste.rs/s/odwleh/stamping_production_binaries_with_build) - [Stamping production binaries with build info](https://rachelbythebay.com/w/2024/02/05/stamp/)
-* [2024-02-06, 01:02:54](https://lobste.rs/s/ancnwr/jami_for_organisations_connects_ldap) - [Jami for organisations connects to LDAP, Active Directory, Apache Derby](https://jami.net/discover-jams/)
 * [2024-02-05, 22:36:32](https://lobste.rs/s/icugir/how_does_sidekiq_really_work) - [How does Sidekiq really work?](https://dansvetlov.me/sidekiq-internals/)
 * [2024-02-05, 22:30:04](https://lobste.rs/s/h7xxkf/cross_compiling_rust_win32) - [Cross compiling Rust to win32](https://neugierig.org/software/blog/2024/02/cross-compile.html)
 * [2024-02-05, 22:20:29](https://lobste.rs/s/s7qmxq/lamport_clocks) - [Lamport clocks](https://blog.fponzi.me/2024-02-02-lamport-clocks.html)
