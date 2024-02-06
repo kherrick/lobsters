@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-06](index.md)
 
+* [2024-02-06, 08:20:32](https://lobste.rs/s/pmwfr4/static_roots_objects_with_compile_time) - [Static Roots: Objects with Compile-Time Constant Addresses · V8](https://v8.dev/blog/static-roots)
 * [2024-02-06, 07:54:33](https://lobste.rs/s/xzsnva/get_notified_when_github_ipv6_is_live) - [Get notified when GitHub IPv6 is live](https://isgithubipv6.live/)
 * [2024-02-06, 07:04:06](https://lobste.rs/s/ii9jxs/let_me_tell_you_secret_deciphering_glyph) - [Let Me Tell You A Secret — Deciphering Glyph](https://blog.glyph.im/2024/02/let-me-tell-you-a-secret.html#fnref:5:let-me-tell-you-a-secret-2024-2)
 * [2024-02-06, 06:45:22](https://lobste.rs/s/a9l0hj/programmable_fonts_with_rust) - [Programmable fonts with Rust](https://www.youtube.com/watch?v=Ms1Drb9Vw9M)
