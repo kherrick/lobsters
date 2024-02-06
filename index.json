@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-06, 16:04:00",
+      "https://lobste.rs/s/sqaknx/poc_gtfo_0x22"
+    ],
+    [
+      "PoC||GTFO 0x22",
+      "https://www.alchemistowl.org/pocorgtfo/pocorgtfo22.pdf"
+    ]
+  ],
+  [
+    [
       "2024-02-06, 15:58:05",
       "https://lobste.rs/s/h1y3ql/sinusoidal_tetris"
     ],
@@ -227,16 +237,6 @@
     [
       "Learn Lambda Calculus in 10 minutes with OCaml",
       "https://dev.to/chshersh/learn-lambda-calculus-in-10-minutes-with-ocaml-56ba"
-    ]
-  ],
-  [
-    [
-      "2024-02-05, 04:21:17",
-      "https://lobste.rs/s/4attop/netbsd_10_thirty_years_still_going_strong"
-    ],
-    [
-      "NetBSD 10: Thirty Years, Still Going Strong",
-      "https://bentsukun.ch/talks/fosdem2024/"
     ]
   ],
   [
