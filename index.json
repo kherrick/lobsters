@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-06, 06:45:22",
+      "https://lobste.rs/s/a9l0hj/programmable_fonts_with_rust"
+    ],
+    [
+      "Programmable fonts with Rust",
+      "https://www.youtube.com/watch?v=Ms1Drb9Vw9M"
+    ]
+  ],
+  [
+    [
       "2024-02-06, 05:49:24",
       "https://lobste.rs/s/fn1mpo/browsers_are_weird_right_now"
     ],
@@ -57,16 +67,6 @@
     [
       "Lamport clocks",
       "https://blog.fponzi.me/2024-02-02-lamport-clocks.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-05, 18:57:05",
-      "https://lobste.rs/s/kjlepr/introducing_qwen1_5"
-    ],
-    [
-      "Introducing Qwen1.5",
-      "https://qwenlm.github.io/blog/qwen1.5/"
     ]
   ],
   [
