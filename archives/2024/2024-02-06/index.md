@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-06](index.md)
 
+* [2024-02-06, 20:59:23](https://lobste.rs/s/klo3e3/garbage_collection_without_unsafe_code) - [Garbage Collection Without Unsafe Code](https://fitzgeraldnick.com/2024/02/06/safe-gc.html)
 * [2024-02-06, 19:38:40](https://lobste.rs/s/jkewsv/jsonfile_quick_hack_for_tinkering) - [jsonfile: a quick hack for tinkering](https://crawshaw.io/blog/jsonfile)
 * [2024-02-06, 19:37:03](https://lobste.rs/s/2epqsl/expat_2_6_0_released_includes_security) - [Expat 2.6.0 released, includes security fixes](https://blog.hartwork.org/posts/expat-2-6-0-released/)
 * [2024-02-06, 19:13:19](https://lobste.rs/s/bdfeps/banyan_vines_resurrection) - [Banyan VINES resurrection](https://wiki.restless.systems/wiki/Banyan_VINES_resurrection)

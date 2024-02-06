@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-06, 20:59:23](https://lobste.rs/s/klo3e3/garbage_collection_without_unsafe_code) - [Garbage Collection Without Unsafe Code](https://fitzgeraldnick.com/2024/02/06/safe-gc.html)
 * [2024-02-06, 19:38:40](https://lobste.rs/s/jkewsv/jsonfile_quick_hack_for_tinkering) - [jsonfile: a quick hack for tinkering](https://crawshaw.io/blog/jsonfile)
 * [2024-02-06, 19:37:03](https://lobste.rs/s/2epqsl/expat_2_6_0_released_includes_security) - [Expat 2.6.0 released, includes security fixes](https://blog.hartwork.org/posts/expat-2-6-0-released/)
 * [2024-02-06, 19:13:19](https://lobste.rs/s/bdfeps/banyan_vines_resurrection) - [Banyan VINES resurrection](https://wiki.restless.systems/wiki/Banyan_VINES_resurrection)
@@ -7,7 +8,6 @@
 * [2024-02-06, 17:59:38](https://lobste.rs/s/dascrx/compiling_composable_reactivity) - [Compiling Composable Reactivity](https://interjectedfuture.com/compiling-composable-reactivity/)
 * [2024-02-06, 17:33:35](https://lobste.rs/s/zt7khu/training_data_for_price_sandwich_common) - [Training Data for the Price of a Sandwich: Common Crawl’s Impact on Generative AI](https://foundation.mozilla.org/en/research/library/generative-ai-training-data/common-crawl/)
 * [2024-02-06, 17:09:07](https://lobste.rs/s/mumfox/elixir_nitpicks) - [Elixir Nitpicks](https://wiki.alopex.li/ElixirNitpicks)
-* [2024-02-06, 16:26:52](https://lobste.rs/s/a1gwo6/improved_chkstk_function_on_windows) - [An improved chkstk function on Windows](https://nullprogram.com/blog/2024/02/05/)
 * [2024-02-06, 16:04:00](https://lobste.rs/s/sqaknx/poc_gtfo_0x22) - [PoC||GTFO 0x22](https://www.alchemistowl.org/pocorgtfo/pocorgtfo22.pdf)
 * [2024-02-06, 15:58:05](https://lobste.rs/s/h1y3ql/sinusoidal_tetris) - [The sinusoidal tetris](https://www.andreinc.net/2024/02/06/the-sinusoidal-tetris)
 * [2024-02-06, 11:49:43](https://lobste.rs/s/hjk6ht/beautiful_code_greg_wilson_s_vision_for) - [Beautiful Code - Greg Wilson's Vision for Software Design](https://corecursive.com/beautiful-code-with-greg-wilson/)
