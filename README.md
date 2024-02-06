@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-06, 03:04:56](https://lobste.rs/s/odwleh/stamping_production_binaries_with_build) - [Stamping production binaries with build info](https://rachelbythebay.com/w/2024/02/05/stamp/)
 * [2024-02-06, 01:02:54](https://lobste.rs/s/ancnwr/jami_for_organisations_connects_ldap) - [Jami for organisations connects to LDAP, Active Directory, Apache Derby](https://jami.net/discover-jams/)
 * [2024-02-05, 22:36:32](https://lobste.rs/s/icugir/how_does_sidekiq_really_work) - [How does Sidekiq really work?](https://dansvetlov.me/sidekiq-internals/)
 * [2024-02-05, 22:30:04](https://lobste.rs/s/h7xxkf/cross_compiling_rust_win32) - [Cross compiling Rust to win32](https://neugierig.org/software/blog/2024/02/cross-compile.html)
@@ -15,7 +16,6 @@
 * [2024-02-05, 15:29:10](https://lobste.rs/s/etpzlv/my_fosdem_2024_experience) - [My FOSDEM 2024 Experience](https://blog.orhun.dev/fosdem-2024-experience/)
 * [2024-02-05, 15:13:31](https://lobste.rs/s/cyo9iy/zest_notation_representation) - [Zest: notation and representation](https://www.scattered-thoughts.net/writing/notation-and-representation/)
 * [2024-02-05, 13:26:37](https://lobste.rs/s/hisnbu/cool_things_you_can_do_with_select) - [Cool Things You Can Do with SELECT](https://blog.edwardloveall.com/cool-things-you-can-do-with-select)
-* [2024-02-05, 12:59:25](https://lobste.rs/s/vumdwz/deno_2023) - [Deno in 2023](https://deno.com/blog/deno-in-2023)
 * [2024-02-05, 11:56:31](https://lobste.rs/s/qsonlf/why_we_can_t_have_nice_software) - [Why We Can't Have Nice Software](https://andrewkelley.me/post/why-we-cant-have-nice-software.html)
 * [2024-02-05, 11:30:17](https://lobste.rs/s/4go9ls/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/4go9ls/what_are_you_doing_this_week)
 * [2024-02-05, 11:09:51](https://lobste.rs/s/3cd08b/creating_controllable_d_state) - [Creating controllable D state (uninterruptible sleep) processes](https://chrisdown.name/2024/02/05/reliably-creating-d-state-processes-on-demand.html)
