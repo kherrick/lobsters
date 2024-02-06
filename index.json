@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-06, 17:09:07",
+      "https://lobste.rs/s/mumfox/elixir_nitpicks"
+    ],
+    [
+      "Elixir Nitpicks",
+      "https://wiki.alopex.li/ElixirNitpicks"
+    ]
+  ],
+  [
+    [
       "2024-02-06, 16:26:52",
       "https://lobste.rs/s/a1gwo6/improved_chkstk_function_on_windows"
     ],
@@ -237,16 +247,6 @@
     [
       "Learn Lambda Calculus in 10 minutes with OCaml",
       "https://dev.to/chshersh/learn-lambda-calculus-in-10-minutes-with-ocaml-56ba"
-    ]
-  ],
-  [
-    [
-      "2024-02-04, 23:11:20",
-      "https://lobste.rs/s/jfjjcp/jpeg_xl_rejected_for_interop_2024"
-    ],
-    [
-      "JPEG-XL Rejected for Interop 2024",
-      "https://github.com/web-platform-tests/interop/issues/430"
     ]
   ]
 ]
