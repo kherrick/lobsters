@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-06](index.md)
 
+* [2024-02-06, 10:43:00](https://lobste.rs/s/zypywb/eu_right_repair_sellers_will_be_liable_for) - [EU right to repair: Sellers will be liable for a year after products are fixed](https://arstechnica.com/tech-policy/2024/02/eu-right-to-repair-sellers-will-be-liable-for-a-year-after-products-are-fixed/)
 * [2024-02-06, 10:08:48](https://lobste.rs/s/0ccjum/database_replication_practical) - [Database Replication: A Practical Overview](https://medium.com/@atakanserbes/understanding-database-replication-a-practical-overview-dbe23344acc7?source=friends_link)
 * [2024-02-06, 08:20:32](https://lobste.rs/s/pmwfr4/static_roots_objects_with_compile_time) - [Static Roots: Objects with Compile-Time Constant Addresses · V8](https://v8.dev/blog/static-roots)
 * [2024-02-06, 07:54:33](https://lobste.rs/s/xzsnva/get_notified_when_github_ipv6_is_live) - [Get notified when GitHub IPv6 is live](https://isgithubipv6.live/)
