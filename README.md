@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-06, 11:07:15](https://lobste.rs/s/g2yxvg/unusual_basis_types_programming) - [Unusual basis types in programming languages](https://buttondown.email/hillelwayne/archive/unusual-basis-types-in-programming-languages/)
 * [2024-02-06, 10:43:00](https://lobste.rs/s/zypywb/eu_right_repair_sellers_will_be_liable_for) - [EU right to repair: Sellers will be liable for a year after products are fixed](https://arstechnica.com/tech-policy/2024/02/eu-right-to-repair-sellers-will-be-liable-for-a-year-after-products-are-fixed/)
 * [2024-02-06, 10:08:48](https://lobste.rs/s/0ccjum/database_replication_practical) - [Database Replication: A Practical Overview](https://medium.com/@atakanserbes/understanding-database-replication-a-practical-overview-dbe23344acc7?source=friends_link)
 * [2024-02-06, 08:20:32](https://lobste.rs/s/pmwfr4/static_roots_objects_with_compile_time) - [Static Roots: Objects with Compile-Time Constant Addresses · V8](https://v8.dev/blog/static-roots)
@@ -18,7 +19,6 @@
 * [2024-02-05, 16:36:24](https://lobste.rs/s/0zqkex/speeding_up_rust_edit_build_run_cycle) - [Speeding up Rust edit-build-run cycle](https://davidlattimore.github.io/working-on-rust-iteration-time.html)
 * [2024-02-05, 15:42:00](https://lobste.rs/s/wpknpf/why_we_have_rewritten_our_string_binary) - [Why we have rewritten our string/binary type](https://pola.rs/posts/polars-string-type/)
 * [2024-02-05, 15:29:10](https://lobste.rs/s/etpzlv/my_fosdem_2024_experience) - [My FOSDEM 2024 Experience](https://blog.orhun.dev/fosdem-2024-experience/)
-* [2024-02-05, 15:13:31](https://lobste.rs/s/cyo9iy/zest_notation_representation) - [Zest: notation and representation](https://www.scattered-thoughts.net/writing/notation-and-representation/)
 * [2024-02-05, 11:56:31](https://lobste.rs/s/qsonlf/why_we_can_t_have_nice_software) - [Why We Can't Have Nice Software](https://andrewkelley.me/post/why-we-cant-have-nice-software.html)
 * [2024-02-05, 11:30:17](https://lobste.rs/s/4go9ls/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/4go9ls/what_are_you_doing_this_week)
 * [2024-02-05, 11:09:51](https://lobste.rs/s/3cd08b/creating_controllable_d_state) - [Creating controllable D state (uninterruptible sleep) processes](https://chrisdown.name/2024/02/05/reliably-creating-d-state-processes-on-demand.html)
