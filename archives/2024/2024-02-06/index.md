@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-06](index.md)
 
+* [2024-02-06, 19:38:40](https://lobste.rs/s/jkewsv/jsonfile_quick_hack_for_tinkering) - [jsonfile: a quick hack for tinkering](https://crawshaw.io/blog/jsonfile)
+* [2024-02-06, 19:37:03](https://lobste.rs/s/2epqsl/expat_2_6_0_released_includes_security) - [Expat 2.6.0 released, includes security fixes](https://blog.hartwork.org/posts/expat-2-6-0-released/)
 * [2024-02-06, 19:13:19](https://lobste.rs/s/bdfeps/banyan_vines_resurrection) - [Banyan VINES resurrection](https://wiki.restless.systems/wiki/Banyan_VINES_resurrection)
 * [2024-02-06, 18:44:22](https://lobste.rs/s/5b4ml6/using_solid_queue_development_with) - [Using Solid Queue in Development with Docker and on Heroku](https://stuff-things.net/2024/01/27/using-solid-queue-in-development-with-docker-and-on-heroku/)
 * [2024-02-06, 18:43:49](https://lobste.rs/s/maefew/bluesky_at_protocol_usable) - [Bluesky and the AT Protocol: Usable Decentralized Social Media](https://arxiv.org/pdf/2402.03239.pdf)
