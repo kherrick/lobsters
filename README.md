@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-06, 17:33:35](https://lobste.rs/s/zt7khu/training_data_for_price_sandwich_common) - [Training Data for the Price of a Sandwich: Common Crawl’s Impact on Generative AI](https://foundation.mozilla.org/en/research/library/generative-ai-training-data/common-crawl/)
 * [2024-02-06, 17:09:07](https://lobste.rs/s/mumfox/elixir_nitpicks) - [Elixir Nitpicks](https://wiki.alopex.li/ElixirNitpicks)
 * [2024-02-06, 16:26:52](https://lobste.rs/s/a1gwo6/improved_chkstk_function_on_windows) - [An improved chkstk function on Windows](https://nullprogram.com/blog/2024/02/05/)
 * [2024-02-06, 16:04:00](https://lobste.rs/s/sqaknx/poc_gtfo_0x22) - [PoC||GTFO 0x22](https://www.alchemistowl.org/pocorgtfo/pocorgtfo22.pdf)
@@ -24,7 +25,6 @@
 * [2024-02-05, 16:36:24](https://lobste.rs/s/0zqkex/speeding_up_rust_edit_build_run_cycle) - [Speeding up Rust edit-build-run cycle](https://davidlattimore.github.io/working-on-rust-iteration-time.html)
 * [2024-02-05, 15:42:00](https://lobste.rs/s/wpknpf/why_we_have_rewritten_our_string_binary) - [Why we have rewritten our string/binary type](https://pola.rs/posts/polars-string-type/)
 * [2024-02-05, 15:29:10](https://lobste.rs/s/etpzlv/my_fosdem_2024_experience) - [My FOSDEM 2024 Experience](https://blog.orhun.dev/fosdem-2024-experience/)
-* [2024-02-05, 08:29:13](https://lobste.rs/s/xyyevp/learn_lambda_calculus_10_minutes_with) - [Learn Lambda Calculus in 10 minutes with OCaml](https://dev.to/chshersh/learn-lambda-calculus-in-10-minutes-with-ocaml-56ba)
 
 ## [Archives](archives/index.md)
 
