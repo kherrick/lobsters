@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-06, 15:58:05](https://lobste.rs/s/h1y3ql/sinusoidal_tetris) - [The sinusoidal tetris](https://www.andreinc.net/2024/02/06/the-sinusoidal-tetris)
 * [2024-02-06, 11:49:43](https://lobste.rs/s/hjk6ht/beautiful_code_greg_wilson_s_vision_for) - [Beautiful Code - Greg Wilson's Vision for Software Design](https://corecursive.com/beautiful-code-with-greg-wilson/)
 * [2024-02-06, 11:07:15](https://lobste.rs/s/g2yxvg/unusual_basis_types_programming) - [Unusual basis types in programming languages](https://buttondown.email/hillelwayne/archive/unusual-basis-types-in-programming-languages/)
 * [2024-02-06, 10:43:00](https://lobste.rs/s/zypywb/eu_right_repair_sellers_will_be_liable_for) - [EU right to repair: Sellers will be liable for a year after products are fixed](https://arstechnica.com/tech-policy/2024/02/eu-right-to-repair-sellers-will-be-liable-for-a-year-after-products-are-fixed/)
@@ -16,7 +17,6 @@
 * [2024-02-05, 22:20:29](https://lobste.rs/s/s7qmxq/lamport_clocks) - [Lamport clocks](https://blog.fponzi.me/2024-02-02-lamport-clocks.html)
 * [2024-02-05, 18:38:44](https://lobste.rs/s/ccssqq/scriptisto_writing_one_file_scripts) - [Scriptisto: writing one-file scripts in languages that require compilation, dependencies fetching or preprocessing](https://github.com/igor-petruk/scriptisto/wiki)
 * [2024-02-05, 18:23:18](https://lobste.rs/s/w5mhwh/vesuvius_challenge_2023_grand_prize) - [Vesuvius Challenge 2023 Grand Prize awarded: we can read the scrolls](https://scrollprize.org/grandprize)
-* [2024-02-05, 18:20:54](https://lobste.rs/s/3xdumy/how_create_secure_random_password_with) - [How to create a Secure, Random Password with JavaScript](https://blog.hboeck.de/archives/907-How-to-create-a-Secure,-Random-Password-with-JavaScript.html)
 * [2024-02-05, 18:16:41](https://lobste.rs/s/1yx0wg/too_much_good_thing_trade_off_we_make_with) - [Too much of a good thing: the trade-off we make with tests](https://ntietz.com/blog/too-much-of-a-good-thing-the-cost-of-excess-testing/)
 * [2024-02-05, 17:29:01](https://lobste.rs/s/ol7zmd/how_i_learned_haskell_just_15_years) - [How I learned Haskell in just 15 years](https://duckrabbit.tech/articles/learning-haskell.html)
 * [2024-02-05, 16:36:24](https://lobste.rs/s/0zqkex/speeding_up_rust_edit_build_run_cycle) - [Speeding up Rust edit-build-run cycle](https://davidlattimore.github.io/working-on-rust-iteration-time.html)

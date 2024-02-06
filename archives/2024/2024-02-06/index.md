@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-06](index.md)
 
+* [2024-02-06, 15:58:05](https://lobste.rs/s/h1y3ql/sinusoidal_tetris) - [The sinusoidal tetris](https://www.andreinc.net/2024/02/06/the-sinusoidal-tetris)
 * [2024-02-06, 11:49:43](https://lobste.rs/s/hjk6ht/beautiful_code_greg_wilson_s_vision_for) - [Beautiful Code - Greg Wilson's Vision for Software Design](https://corecursive.com/beautiful-code-with-greg-wilson/)
 * [2024-02-06, 11:07:15](https://lobste.rs/s/g2yxvg/unusual_basis_types_programming) - [Unusual basis types in programming languages](https://buttondown.email/hillelwayne/archive/unusual-basis-types-in-programming-languages/)
 * [2024-02-06, 10:43:00](https://lobste.rs/s/zypywb/eu_right_repair_sellers_will_be_liable_for) - [EU right to repair: Sellers will be liable for a year after products are fixed](https://arstechnica.com/tech-policy/2024/02/eu-right-to-repair-sellers-will-be-liable-for-a-year-after-products-are-fixed/)
