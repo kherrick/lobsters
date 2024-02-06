@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-06, 05:49:24](https://lobste.rs/s/fn1mpo/browsers_are_weird_right_now) - [Browsers Are Weird Right Now](https://tylersticka.com/journal/browsers-are-weird-right-now/)
 * [2024-02-06, 04:03:55](https://lobste.rs/s/ggzaax/single_html_file_spaced_repetition) - [A Single HTML File Spaced Repetition System/Scheduler](https://rickcarlino.com/srs.html)
 * [2024-02-06, 03:04:56](https://lobste.rs/s/odwleh/stamping_production_binaries_with_build) - [Stamping production binaries with build info](https://rachelbythebay.com/w/2024/02/05/stamp/)
 * [2024-02-05, 22:36:32](https://lobste.rs/s/icugir/how_does_sidekiq_really_work) - [How does Sidekiq really work?](https://dansvetlov.me/sidekiq-internals/)
@@ -24,7 +25,6 @@
 * [2024-02-05, 04:21:17](https://lobste.rs/s/4attop/netbsd_10_thirty_years_still_going_strong) - [NetBSD 10: Thirty Years, Still Going Strong](https://bentsukun.ch/talks/fosdem2024/)
 * [2024-02-04, 23:11:20](https://lobste.rs/s/jfjjcp/jpeg_xl_rejected_for_interop_2024) - [JPEG-XL Rejected for Interop 2024](https://github.com/web-platform-tests/interop/issues/430)
 * [2024-02-04, 21:56:52](https://lobste.rs/s/ot9bgj/pain_points_building_copilot) - [The pain points of building a copilot](https://austinhenley.com/blog/copilotpainpoints.html)
-* [2024-02-04, 13:23:28](https://lobste.rs/s/489art/letlang_written_rust_targeting_rust_now) - [Letlang, written in Rust, targeting Rust, now has a specification](https://letlang.dev/spec/)
 
 ## [Archives](archives/index.md)
 
