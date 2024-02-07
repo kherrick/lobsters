@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-07, 18:58:25](https://lobste.rs/s/1ahcmr/proving_performance_fosdem_2024_rust_dev) - [Proving Performance - FOSDEM 2024 - Rust Dev Room](https://www.youtube.com/watch?v=P87C4jNakGs)
 * [2024-02-07, 17:40:18](https://lobste.rs/s/resic9/will_it_block) - [Will it block?](https://blog.yoshuawuyts.com/what-is-blocking/)
 * [2024-02-07, 17:31:24](https://lobste.rs/s/i5syr4/physical_properties_2) - [Physical Properties #2](https://buttondown.email/jaffray/archive/physical-properties-2/)
 * [2024-02-07, 16:31:03](https://lobste.rs/s/4qu5jt/netbsd_for_advanced_minimalist) - [NetBSD for the Advanced Minimalist](https://www.nycbug.org/index?action=view&id=10694)
@@ -17,7 +18,6 @@
 * [2024-02-07, 01:44:15](https://lobste.rs/s/xvt8ax/jquery_4_0_0_beta) - [jQuery 4.0.0 BETA](https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/)
 * [2024-02-07, 01:29:01](https://lobste.rs/s/3pxac9/when_letting_it_crash_is_not_enough) - [When \"letting it crash\" is not enough](https://flawless.dev/essays/when-letting-it-crash-is-not-enough/)
 * [2024-02-07, 00:10:56](https://lobste.rs/s/ccsw3j/go_1_22_release_notes) - [Go 1.22 Release Notes](https://go.dev/doc/go1.22)
-* [2024-02-06, 20:59:23](https://lobste.rs/s/klo3e3/garbage_collection_without_unsafe_code) - [Garbage Collection Without Unsafe Code](https://fitzgeraldnick.com/2024/02/06/safe-gc.html)
 * [2024-02-06, 18:43:49](https://lobste.rs/s/maefew/bluesky_at_protocol_usable) - [Bluesky and the AT Protocol: Usable Decentralized Social Media](https://arxiv.org/pdf/2402.03239.pdf)
 * [2024-02-06, 17:09:07](https://lobste.rs/s/mumfox/elixir_nitpicks) - [Elixir Nitpicks](https://wiki.alopex.li/ElixirNitpicks)
 * [2024-02-06, 16:04:00](https://lobste.rs/s/sqaknx/poc_gtfo_0x22) - [PoC||GTFO 0x22](https://www.alchemistowl.org/pocorgtfo/pocorgtfo22.pdf)
