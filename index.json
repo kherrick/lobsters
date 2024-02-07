@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-07, 18:58:25",
+      "https://lobste.rs/s/1ahcmr/proving_performance_fosdem_2024_rust_dev"
+    ],
+    [
+      "Proving Performance - FOSDEM 2024 - Rust Dev Room",
+      "https://www.youtube.com/watch?v=P87C4jNakGs"
+    ]
+  ],
+  [
+    [
       "2024-02-07, 17:40:18",
       "https://lobste.rs/s/resic9/will_it_block"
     ],
@@ -167,16 +177,6 @@
     [
       "Go 1.22 Release Notes",
       "https://go.dev/doc/go1.22"
-    ]
-  ],
-  [
-    [
-      "2024-02-06, 20:59:23",
-      "https://lobste.rs/s/klo3e3/garbage_collection_without_unsafe_code"
-    ],
-    [
-      "Garbage Collection Without Unsafe Code",
-      "https://fitzgeraldnick.com/2024/02/06/safe-gc.html"
     ]
   ],
   [
