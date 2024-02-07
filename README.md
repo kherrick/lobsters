@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-07, 09:25:19](https://lobste.rs/s/1rxedd/using_transducers) - [Using transducers](https://andreyor.st/posts/2024-01-31-using-transducers/)
 * [2024-02-07, 09:17:44](https://lobste.rs/s/qzww86/linux_image_debian_went_from_474_mb_99_mb) - [linux-image in Debian went from 474 MB to 99 MB thanks to XZ](https://lists.debian.org/debian-kernel/2024/02/msg00072.html)
 * [2024-02-07, 08:46:05](https://lobste.rs/s/y7icv6/new_ux_for_django_website) - [A new UX for the Django website](https://www.20tab.com/solutions/case-studies/django-website-case-study)
 * [2024-02-07, 07:34:06](https://lobste.rs/s/3in1hu/one_billion_row_challenge_ada) - [The One Billion row challenge in Ada](http://verisimilitudes.net/2024-01-30)
@@ -21,7 +22,6 @@
 * [2024-02-06, 11:49:43](https://lobste.rs/s/hjk6ht/beautiful_code_greg_wilson_s_vision_for) - [Beautiful Code - Greg Wilson's Vision for Software Design](https://corecursive.com/beautiful-code-with-greg-wilson/)
 * [2024-02-06, 11:07:15](https://lobste.rs/s/g2yxvg/unusual_basis_types_programming) - [Unusual basis types in programming languages](https://buttondown.email/hillelwayne/archive/unusual-basis-types-in-programming-languages/)
 * [2024-02-06, 10:43:00](https://lobste.rs/s/zypywb/eu_right_repair_sellers_will_be_liable_for) - [EU right to repair: Sellers will be liable for a year after products are fixed](https://arstechnica.com/tech-policy/2024/02/eu-right-to-repair-sellers-will-be-liable-for-a-year-after-products-are-fixed/)
-* [2024-02-06, 10:08:48](https://lobste.rs/s/0ccjum/database_replication_practical) - [Database Replication: A Practical Overview](https://medium.com/@atakanserbes/understanding-database-replication-a-practical-overview-dbe23344acc7?source=friends_link)
 * [2024-02-06, 07:54:33](https://lobste.rs/s/xzsnva/get_notified_when_github_ipv6_is_live) - [Get notified when GitHub IPv6 is live](https://isgithubipv6.live/)
 * [2024-02-06, 05:49:24](https://lobste.rs/s/fn1mpo/browsers_are_weird_right_now) - [Browsers Are Weird Right Now](https://tylersticka.com/journal/browsers-are-weird-right-now/)
 * [2024-02-05, 17:29:01](https://lobste.rs/s/ol7zmd/how_i_learned_haskell_just_15_years) - [How I learned Haskell in just 15 years](https://duckrabbit.tech/articles/learning-haskell.html)
