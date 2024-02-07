@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-07, 21:21:54](https://lobste.rs/s/d4tveh/how_use_ai_solo_play_dungeons_dragons) - [How to use AI to solo play Dungeons and Dragons](https://www.youtube.com/watch?v=jeK6jjxjLP8)
 * [2024-02-07, 21:02:45](https://lobste.rs/s/vwt0ir/hiss_deco_o_matic) - [Hiss Deco-O-Matic](http://ratfactor.com/hiss/decos.html)
-* [2024-02-07, 21:00:35](https://lobste.rs/s/oxkl4v/things_we_wish_we_knew_before_starting) - [Things we wish we knew before starting an IMAP library](https://fosdem.org/2024/schedule/event/fosdem-2024-2647--protocols-things-we-wish-we-knew-before-starting-an-imap-library/)
 * [2024-02-07, 20:18:15](https://lobste.rs/s/jcxtds/exploring_amd_platform_secure_boot) - [Exploring AMD Platform Secure Boot](https://labs.ioactive.com/2024/02/exploring-amd-platform-secure-boot.html)
+* [2024-02-07, 20:03:38](https://lobste.rs/s/w0cjx8/appreciating_clpz_t_2) - [Appreciating clpz_t/2](https://github.com/mthom/scryer-prolog/discussions/2320)
 * [2024-02-07, 19:21:56](https://lobste.rs/s/zdfhht/making_godot_viable_on_ipados) - [Making Godot Viable on iPadOS: Development Loop](https://blog.la-terminal.net/making-godot-viable-on-ipados/)
 * [2024-02-07, 18:58:25](https://lobste.rs/s/1ahcmr/proving_performance) - [Proving Performance](https://www.youtube.com/watch?v=P87C4jNakGs)
 * [2024-02-07, 17:40:18](https://lobste.rs/s/resic9/will_it_block) - [Will it block?](https://blog.yoshuawuyts.com/what-is-blocking/)
@@ -22,7 +23,6 @@
 * [2024-02-07, 01:29:01](https://lobste.rs/s/3pxac9/when_letting_it_crash_is_not_enough) - [When \"letting it crash\" is not enough](https://flawless.dev/essays/when-letting-it-crash-is-not-enough/)
 * [2024-02-07, 00:10:56](https://lobste.rs/s/ccsw3j/go_1_22_release_notes) - [Go 1.22 Release Notes](https://go.dev/doc/go1.22)
 * [2024-02-06, 17:09:07](https://lobste.rs/s/mumfox/elixir_nitpicks) - [Elixir Nitpicks](https://wiki.alopex.li/ElixirNitpicks)
-* [2024-02-06, 16:04:00](https://lobste.rs/s/sqaknx/poc_gtfo_0x22) - [PoC||GTFO 0x22](https://www.alchemistowl.org/pocorgtfo/pocorgtfo22.pdf)
 * [2024-02-06, 15:58:05](https://lobste.rs/s/h1y3ql/sinusoidal_tetris) - [The sinusoidal tetris](https://www.andreinc.net/2024/02/06/the-sinusoidal-tetris)
 * [2024-02-06, 07:54:33](https://lobste.rs/s/xzsnva/get_notified_when_github_ipv6_is_live) - [Get notified when GitHub IPv6 is live](https://isgithubipv6.live/)
 

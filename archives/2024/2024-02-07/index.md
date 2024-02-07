@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-07](index.md)
 
+* [2024-02-07, 21:21:54](https://lobste.rs/s/d4tveh/how_use_ai_solo_play_dungeons_dragons) - [How to use AI to solo play Dungeons and Dragons](https://www.youtube.com/watch?v=jeK6jjxjLP8)
 * [2024-02-07, 21:02:45](https://lobste.rs/s/vwt0ir/hiss_deco_o_matic) - [Hiss Deco-O-Matic](http://ratfactor.com/hiss/decos.html)
 * [2024-02-07, 21:00:35](https://lobste.rs/s/oxkl4v/things_we_wish_we_knew_before_starting) - [Things we wish we knew before starting an IMAP library](https://fosdem.org/2024/schedule/event/fosdem-2024-2647--protocols-things-we-wish-we-knew-before-starting-an-imap-library/)
 * [2024-02-07, 20:18:15](https://lobste.rs/s/jcxtds/exploring_amd_platform_secure_boot) - [Exploring AMD Platform Secure Boot](https://labs.ioactive.com/2024/02/exploring-amd-platform-secure-boot.html)
