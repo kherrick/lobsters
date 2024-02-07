@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2024-02-07, 11:15:55",
+      "https://lobste.rs/s/dhsb1v/chez_scheme_v10_0_with_aarch64_risc_v"
+    ],
+    [
+      "Chez Scheme v10.0 with Aarch64 and RISC-V backends",
+      "https://github.com/cisco/ChezScheme/releases/tag/v10.0.0"
+    ]
+  ],
+  [
+    [
       "2024-02-07, 10:56:57",
       "https://lobste.rs/s/nxdew6/how_spoutible_s_leaky_api_spurted_out"
     ],
@@ -237,16 +247,6 @@
     [
       "Get notified when GitHub IPv6 is live",
       "https://isgithubipv6.live/"
-    ]
-  ],
-  [
-    [
-      "2024-02-05, 17:29:01",
-      "https://lobste.rs/s/ol7zmd/how_i_learned_haskell_just_15_years"
-    ],
-    [
-      "How I learned Haskell in just 15 years",
-      "https://duckrabbit.tech/articles/learning-haskell.html"
     ]
   ]
 ]
