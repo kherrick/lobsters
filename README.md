@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-07, 07:30:17](https://lobste.rs/s/mw6g9v/dotslash_simplified_executable) - [DotSlash: Simplified executable deployment](https://engineering.fb.com/2024/02/06/developer-tools/dotslash-simplified-executable-deployment/)
 * [2024-02-07, 03:58:29](https://lobste.rs/s/nsoalg/vesuvius_challenge_grandprize_winner) - [Vesuvius Challenge Grandprize Winner Solution](https://github.com/younader/Vesuvius-Grandprize-Winner)
 * [2024-02-07, 03:32:49](https://lobste.rs/s/awygl6/jujutsu_git_compatible_vcs) - [Jujutsu: A Git-Compatible VCS](https://www.youtube.com/watch?v=bx_LGilOuE4)
 * [2024-02-07, 02:46:06](https://lobste.rs/s/ouwghr/leopard_free_programming) - [Leopard-Free Programming](http://ratfactor.com/cards/leopard-free)
@@ -22,7 +23,6 @@
 * [2024-02-06, 10:08:48](https://lobste.rs/s/0ccjum/database_replication_practical) - [Database Replication: A Practical Overview](https://medium.com/@atakanserbes/understanding-database-replication-a-practical-overview-dbe23344acc7?source=friends_link)
 * [2024-02-06, 07:54:33](https://lobste.rs/s/xzsnva/get_notified_when_github_ipv6_is_live) - [Get notified when GitHub IPv6 is live](https://isgithubipv6.live/)
 * [2024-02-06, 05:49:24](https://lobste.rs/s/fn1mpo/browsers_are_weird_right_now) - [Browsers Are Weird Right Now](https://tylersticka.com/journal/browsers-are-weird-right-now/)
-* [2024-02-06, 04:03:55](https://lobste.rs/s/ggzaax/single_html_file_spaced_repetition) - [A Single HTML File Spaced Repetition System/Scheduler](https://rickcarlino.com/srs.html)
 * [2024-02-05, 17:29:01](https://lobste.rs/s/ol7zmd/how_i_learned_haskell_just_15_years) - [How I learned Haskell in just 15 years](https://duckrabbit.tech/articles/learning-haskell.html)
 * [2024-02-05, 15:29:10](https://lobste.rs/s/etpzlv/my_fosdem_2024_experience) - [My FOSDEM 2024 Experience](https://blog.orhun.dev/fosdem-2024-experience/)
 
