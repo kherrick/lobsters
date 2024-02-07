@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-07, 09:17:44",
+      "https://lobste.rs/s/qzww86/linux_image_debian_went_from_474_mb_99_mb"
+    ],
+    [
+      "linux-image in Debian went from 474 MB to 99 MB thanks to XZ",
+      "https://lists.debian.org/debian-kernel/2024/02/msg00072.html"
+    ]
+  ],
+  [
+    [
       "2024-02-07, 08:46:05",
       "https://lobste.rs/s/y7icv6/new_ux_for_django_website"
     ],
@@ -237,16 +247,6 @@
     [
       "How I learned Haskell in just 15 years",
       "https://duckrabbit.tech/articles/learning-haskell.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-05, 15:29:10",
-      "https://lobste.rs/s/etpzlv/my_fosdem_2024_experience"
-    ],
-    [
-      "My FOSDEM 2024 Experience",
-      "https://blog.orhun.dev/fosdem-2024-experience/"
     ]
   ]
 ]
