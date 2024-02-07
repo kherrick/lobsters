@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-07, 22:04:31](https://lobste.rs/s/b1mjkg/search_engine_80_lines_python) - [A search engine in 80 lines of Python](https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html)
 * [2024-02-07, 21:45:39](https://lobste.rs/s/swmlua/beyond_1_mb_barrier_dos) - [Beyond the 1 MB barrier in DOS](https://blogsystem5.substack.com/p/beyond-the-1-mb-barrier-in-dos)
+* [2024-02-07, 21:44:58](https://lobste.rs/s/ogcfva/deep_dive_into_design_our_touchwheel) - [A Deep Dive Into the Design of Our Touchwheel](https://www.crowdsupply.com/cool-tech-zone/tangara/updates/a-deep-dive-into-the-design-of-our-touchwheel)
 * [2024-02-07, 21:21:54](https://lobste.rs/s/d4tveh/how_use_ai_solo_play_dungeons_dragons) - [How to use AI to solo play Dungeons and Dragons](https://www.youtube.com/watch?v=jeK6jjxjLP8)
 * [2024-02-07, 21:02:45](https://lobste.rs/s/vwt0ir/hiss_deco_o_matic) - [Hiss Deco-O-Matic](http://ratfactor.com/hiss/decos.html)
 * [2024-02-07, 20:18:15](https://lobste.rs/s/jcxtds/exploring_amd_platform_secure_boot) - [Exploring AMD Platform Secure Boot](https://labs.ioactive.com/2024/02/exploring-amd-platform-secure-boot.html)
 * [2024-02-07, 20:03:38](https://lobste.rs/s/w0cjx8/appreciating_clpz_t_2) - [Appreciating clpz_t/2](https://github.com/mthom/scryer-prolog/discussions/2320)
 * [2024-02-07, 19:21:56](https://lobste.rs/s/zdfhht/making_godot_viable_on_ipados) - [Making Godot Viable on iPadOS: Development Loop](https://blog.la-terminal.net/making-godot-viable-on-ipados/)
-* [2024-02-07, 18:58:25](https://lobste.rs/s/1ahcmr/proving_performance) - [Proving Performance](https://www.youtube.com/watch?v=P87C4jNakGs)
 * [2024-02-07, 17:40:18](https://lobste.rs/s/resic9/will_it_block) - [Will it block?](https://blog.yoshuawuyts.com/what-is-blocking/)
 * [2024-02-07, 17:31:24](https://lobste.rs/s/i5syr4/physical_properties_2) - [Physical Properties #2](https://buttondown.email/jaffray/archive/physical-properties-2/)
 * [2024-02-07, 16:31:03](https://lobste.rs/s/4qu5jt/netbsd_for_advanced_minimalist) - [NetBSD for the Advanced Minimalist](https://www.nycbug.org/index?action=view&id=10694)
@@ -24,7 +25,6 @@
 * [2024-02-07, 00:10:56](https://lobste.rs/s/ccsw3j/go_1_22_release_notes) - [Go 1.22 Release Notes](https://go.dev/doc/go1.22)
 * [2024-02-06, 17:09:07](https://lobste.rs/s/mumfox/elixir_nitpicks) - [Elixir Nitpicks](https://wiki.alopex.li/ElixirNitpicks)
 * [2024-02-06, 15:58:05](https://lobste.rs/s/h1y3ql/sinusoidal_tetris) - [The sinusoidal tetris](https://www.andreinc.net/2024/02/06/the-sinusoidal-tetris)
-* [2024-02-06, 07:54:33](https://lobste.rs/s/xzsnva/get_notified_when_github_ipv6_is_live) - [Get notified when GitHub IPv6 is live](https://isgithubipv6.live/)
 
 ## [Archives](archives/index.md)
 
