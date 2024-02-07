@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-07, 00:10:56",
+      "https://lobste.rs/s/ccsw3j/go_1_22_release_notes"
+    ],
+    [
+      "Go 1.22 Release Notes",
+      "https://go.dev/doc/go1.22"
+    ]
+  ],
+  [
+    [
       "2024-02-06, 22:45:35",
       "https://lobste.rs/s/f8lsi0/bookmarklet_load_all_github_comments"
     ],
@@ -187,16 +197,6 @@
     [
       "A Single HTML File Spaced Repetition System/Scheduler",
       "https://rickcarlino.com/srs.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-05, 22:30:04",
-      "https://lobste.rs/s/h7xxkf/cross_compiling_rust_win32"
-    ],
-    [
-      "Cross compiling Rust to win32",
-      "https://neugierig.org/software/blog/2024/02/cross-compile.html"
     ]
   ],
   [
