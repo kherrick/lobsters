@@ -7,6 +7,7 @@
 * [2024-02-07, 13:38:31](https://lobste.rs/s/1ktgmi/pyodide_python_distribution_for_browser) - [Pyodide: Python distribution for the browser and Node.js based on WebAssembly](https://pyodide.org/)
 * [2024-02-07, 12:07:39](https://lobste.rs/s/zgtvjh/why_rustpython) - [Why RustPython?](https://rustpython.github.io)
 * [2024-02-07, 11:32:25](https://lobste.rs/s/3nmnhf/libreactorng_libreactor_is_high) - [libreactorng: libreactor is a high performance, robust and secure, generic event-driven application framework for Linux](https://github.com/fredrikwidlund/libreactorng)
+* [2024-02-07, 11:15:55](https://lobste.rs/s/dhsb1v/chez_scheme_v10_0_with_aarch64_risc_v) - [Chez Scheme v10.0 with Aarch64 and RISC-V backends](https://github.com/cisco/ChezScheme/releases/tag/v10.0.0)
 * [2024-02-07, 10:56:57](https://lobste.rs/s/nxdew6/how_spoutible_s_leaky_api_spurted_out) - [How Spoutible’s Leaky API Spurted out a Deluge of Personal Data](https://www.troyhunt.com/how-spoutibles-leaky-api-spurted-out-a-deluge-of-personal-data/)
 * [2024-02-07, 10:12:15](https://lobste.rs/s/lzoul4/contingency_planning_for_me_curl) - [Contingency planning for me and curl](https://daniel.haxx.se/blog/2024/02/07/contingency-planning-for-me-and-curl/)
 * [2024-02-07, 09:17:44](https://lobste.rs/s/qzww86/linux_image_debian_went_from_474_mb_99_mb) - [linux-image in Debian went from 474 MB to 99 MB thanks to XZ](https://lists.debian.org/debian-kernel/2024/02/msg00072.html)
@@ -24,7 +25,6 @@
 * [2024-02-06, 11:49:43](https://lobste.rs/s/hjk6ht/beautiful_code_greg_wilson_s_vision_for) - [Beautiful Code - Greg Wilson's Vision for Software Design](https://corecursive.com/beautiful-code-with-greg-wilson/)
 * [2024-02-06, 11:07:15](https://lobste.rs/s/g2yxvg/unusual_basis_types_programming) - [Unusual basis types in programming languages](https://buttondown.email/hillelwayne/archive/unusual-basis-types-in-programming-languages/)
 * [2024-02-06, 07:54:33](https://lobste.rs/s/xzsnva/get_notified_when_github_ipv6_is_live) - [Get notified when GitHub IPv6 is live](https://isgithubipv6.live/)
-* [2024-02-05, 17:29:01](https://lobste.rs/s/ol7zmd/how_i_learned_haskell_just_15_years) - [How I learned Haskell in just 15 years](https://duckrabbit.tech/articles/learning-haskell.html)
 
 ## [Archives](archives/index.md)
 
