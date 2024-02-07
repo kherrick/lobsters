@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-07, 12:07:39](https://lobste.rs/s/zgtvjh/why_rustpython) - [Why RustPython?](https://rustpython.github.io)
 * [2024-02-07, 11:32:25](https://lobste.rs/s/3nmnhf/libreactorng_libreactor_is_high) - [libreactorng: libreactor is a high performance, robust and secure, generic event-driven application framework for Linux](https://github.com/fredrikwidlund/libreactorng)
 * [2024-02-07, 10:12:15](https://lobste.rs/s/lzoul4/contingency_planning_for_me_curl) - [Contingency planning for me and curl](https://daniel.haxx.se/blog/2024/02/07/contingency-planning-for-me-and-curl/)
 * [2024-02-07, 09:25:19](https://lobste.rs/s/1rxedd/using_transducers) - [Using transducers](https://andreyor.st/posts/2024-01-31-using-transducers/)
 * [2024-02-07, 09:17:44](https://lobste.rs/s/qzww86/linux_image_debian_went_from_474_mb_99_mb) - [linux-image in Debian went from 474 MB to 99 MB thanks to XZ](https://lists.debian.org/debian-kernel/2024/02/msg00072.html)
 * [2024-02-07, 08:46:05](https://lobste.rs/s/y7icv6/new_ux_for_django_website) - [A new UX for the Django website](https://www.20tab.com/solutions/case-studies/django-website-case-study)
-* [2024-02-07, 07:34:06](https://lobste.rs/s/3in1hu/one_billion_row_challenge_ada) - [The One Billion row challenge in Ada](http://verisimilitudes.net/2024-01-30)
 * [2024-02-07, 07:30:17](https://lobste.rs/s/mw6g9v/dotslash_simplified_executable) - [DotSlash: Simplified executable deployment](https://engineering.fb.com/2024/02/06/developer-tools/dotslash-simplified-executable-deployment/)
 * [2024-02-07, 03:32:49](https://lobste.rs/s/awygl6/jujutsu_git_compatible_vcs) - [Jujutsu: A Git-Compatible VCS](https://www.youtube.com/watch?v=bx_LGilOuE4)
 * [2024-02-07, 02:46:06](https://lobste.rs/s/ouwghr/leopard_free_programming) - [Leopard-Free Programming](http://ratfactor.com/cards/leopard-free)

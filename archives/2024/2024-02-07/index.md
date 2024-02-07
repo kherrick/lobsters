@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-07](index.md)
 
+* [2024-02-07, 12:07:39](https://lobste.rs/s/zgtvjh/why_rustpython) - [Why RustPython?](https://rustpython.github.io)
 * [2024-02-07, 11:32:25](https://lobste.rs/s/3nmnhf/libreactorng_libreactor_is_high) - [libreactorng: libreactor is a high performance, robust and secure, generic event-driven application framework for Linux](https://github.com/fredrikwidlund/libreactorng)
 * [2024-02-07, 11:15:55](https://lobste.rs/s/dhsb1v/chez_scheme_v10_0_with_aarch64_risc_v) - [Chez Scheme v10.0 with Aarch64 and RISC-V backends](https://github.com/cisco/ChezScheme/releases/tag/v10.0.0)
 * [2024-02-07, 10:56:57](https://lobste.rs/s/nxdew6/how_spoutible_s_leaky_api_spurted_out) - [How Spoutible’s Leaky API Spurted out a Deluge of Personal Data](https://www.troyhunt.com/how-spoutibles-leaky-api-spurted-out-a-deluge-of-personal-data/)
