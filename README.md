@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-02-07, 21:21:54](https://lobste.rs/s/d4tveh/how_use_ai_solo_play_dungeons_dragons) - [How to use AI to solo play Dungeons and Dragons](https://www.youtube.com/watch?v=jeK6jjxjLP8)
-* [2024-02-07, 21:02:45](https://lobste.rs/s/vwt0ir/hiss_deco_o_matic) - [Hiss Deco-O-Matic](http://ratfactor.com/hiss/decos.html)
+* [2024-02-07, 21:45:39](https://lobste.rs/s/swmlua/beyond_1_mb_barrier_dos) - [Beyond the 1 MB barrier in DOS](https://blogsystem5.substack.com/p/beyond-the-1-mb-barrier-in-dos)
+* [2024-02-07, 21:44:58](https://lobste.rs/s/ogcfva/deep_dive_into_design_our_touchwheel) - [A Deep Dive Into the Design of Our Touchwheel](https://www.crowdsupply.com/cool-tech-zone/tangara/updates/a-deep-dive-into-the-design-of-our-touchwheel)
 * [2024-02-07, 20:18:15](https://lobste.rs/s/jcxtds/exploring_amd_platform_secure_boot) - [Exploring AMD Platform Secure Boot](https://labs.ioactive.com/2024/02/exploring-amd-platform-secure-boot.html)
 * [2024-02-07, 20:03:38](https://lobste.rs/s/w0cjx8/appreciating_clpz_t_2) - [Appreciating clpz_t/2](https://github.com/mthom/scryer-prolog/discussions/2320)
 * [2024-02-07, 19:21:56](https://lobste.rs/s/zdfhht/making_godot_viable_on_ipados) - [Making Godot Viable on iPadOS: Development Loop](https://blog.la-terminal.net/making-godot-viable-on-ipados/)
