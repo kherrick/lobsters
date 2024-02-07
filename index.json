@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-07, 02:46:06",
+      "https://lobste.rs/s/ouwghr/leopard_free_programming"
+    ],
+    [
+      "Leopard-Free Programming",
+      "http://ratfactor.com/cards/leopard-free"
+    ]
+  ],
+  [
+    [
       "2024-02-07, 01:44:15",
       "https://lobste.rs/s/xvt8ax/jquery_4_0_0_beta"
     ],
@@ -227,16 +237,6 @@
     [
       "How I learned Haskell in just 15 years",
       "https://duckrabbit.tech/articles/learning-haskell.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-05, 15:42:00",
-      "https://lobste.rs/s/wpknpf/why_we_have_rewritten_our_string_binary"
-    ],
-    [
-      "Why we have rewritten our string/binary type",
-      "https://pola.rs/posts/polars-string-type/"
     ]
   ],
   [
