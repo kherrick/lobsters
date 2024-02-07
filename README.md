@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-07, 01:29:01](https://lobste.rs/s/3pxac9/when_letting_it_crash_is_not_enough) - [When \"letting it crash\" is not enough](https://flawless.dev/essays/when-letting-it-crash-is-not-enough/)
 * [2024-02-07, 00:10:56](https://lobste.rs/s/ccsw3j/go_1_22_release_notes) - [Go 1.22 Release Notes](https://go.dev/doc/go1.22)
 * [2024-02-06, 22:45:35](https://lobste.rs/s/f8lsi0/bookmarklet_load_all_github_comments) - [Bookmarklet: Load All GitHub Comments](https://meyerweb.com/eric/thoughts/2024/02/05/bookmarklet-load-all-github-comments/)
 * [2024-02-06, 21:29:49](https://lobste.rs/s/pq0mrc/how_embed_3d_models_on_web) - [How to Embed 3D Models on the Web](https://cloudfour.com/thinks/how-to-embed-3d-models-on-the-web/)
@@ -21,7 +22,6 @@
 * [2024-02-06, 05:49:24](https://lobste.rs/s/fn1mpo/browsers_are_weird_right_now) - [Browsers Are Weird Right Now](https://tylersticka.com/journal/browsers-are-weird-right-now/)
 * [2024-02-06, 04:03:55](https://lobste.rs/s/ggzaax/single_html_file_spaced_repetition) - [A Single HTML File Spaced Repetition System/Scheduler](https://rickcarlino.com/srs.html)
 * [2024-02-05, 22:20:29](https://lobste.rs/s/s7qmxq/lamport_clocks) - [Lamport clocks](https://blog.fponzi.me/2024-02-02-lamport-clocks.html)
-* [2024-02-05, 18:23:18](https://lobste.rs/s/w5mhwh/vesuvius_challenge_2023_grand_prize) - [Vesuvius Challenge 2023 Grand Prize awarded: we can read the scrolls](https://scrollprize.org/grandprize)
 * [2024-02-05, 17:29:01](https://lobste.rs/s/ol7zmd/how_i_learned_haskell_just_15_years) - [How I learned Haskell in just 15 years](https://duckrabbit.tech/articles/learning-haskell.html)
 * [2024-02-05, 15:42:00](https://lobste.rs/s/wpknpf/why_we_have_rewritten_our_string_binary) - [Why we have rewritten our string/binary type](https://pola.rs/posts/polars-string-type/)
 * [2024-02-05, 15:29:10](https://lobste.rs/s/etpzlv/my_fosdem_2024_experience) - [My FOSDEM 2024 Experience](https://blog.orhun.dev/fosdem-2024-experience/)
