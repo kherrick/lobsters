@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-07, 07:34:06](https://lobste.rs/s/3in1hu/one_billion_row_challenge_ada) - [The One Billion row challenge in Ada](http://verisimilitudes.net/2024-01-30)
 * [2024-02-07, 07:30:17](https://lobste.rs/s/mw6g9v/dotslash_simplified_executable) - [DotSlash: Simplified executable deployment](https://engineering.fb.com/2024/02/06/developer-tools/dotslash-simplified-executable-deployment/)
-* [2024-02-07, 03:58:29](https://lobste.rs/s/nsoalg/vesuvius_challenge_grandprize_winner) - [Vesuvius Challenge Grandprize Winner Solution](https://github.com/younader/Vesuvius-Grandprize-Winner)
 * [2024-02-07, 03:32:49](https://lobste.rs/s/awygl6/jujutsu_git_compatible_vcs) - [Jujutsu: A Git-Compatible VCS](https://www.youtube.com/watch?v=bx_LGilOuE4)
 * [2024-02-07, 02:46:06](https://lobste.rs/s/ouwghr/leopard_free_programming) - [Leopard-Free Programming](http://ratfactor.com/cards/leopard-free)
 * [2024-02-07, 01:44:15](https://lobste.rs/s/xvt8ax/jquery_4_0_0_beta) - [jQuery 4.0.0 BETA](https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/)
