@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-07](index.md)
 
+* [2024-02-07, 21:02:45](https://lobste.rs/s/vwt0ir/hiss_deco_o_matic) - [Hiss Deco-O-Matic](http://ratfactor.com/hiss/decos.html)
+* [2024-02-07, 21:00:35](https://lobste.rs/s/oxkl4v/things_we_wish_we_knew_before_starting) - [Things we wish we knew before starting an IMAP library](https://fosdem.org/2024/schedule/event/fosdem-2024-2647--protocols-things-we-wish-we-knew-before-starting-an-imap-library/)
 * [2024-02-07, 20:18:15](https://lobste.rs/s/jcxtds/exploring_amd_platform_secure_boot) - [Exploring AMD Platform Secure Boot](https://labs.ioactive.com/2024/02/exploring-amd-platform-secure-boot.html)
 * [2024-02-07, 20:03:38](https://lobste.rs/s/w0cjx8/appreciating_clpz_t_2) - [Appreciating clpz_t/2](https://github.com/mthom/scryer-prolog/discussions/2320)
 * [2024-02-07, 19:21:56](https://lobste.rs/s/zdfhht/making_godot_viable_on_ipados) - [Making Godot Viable on iPadOS: Development Loop](https://blog.la-terminal.net/making-godot-viable-on-ipados/)
