@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-07, 08:46:05](https://lobste.rs/s/y7icv6/new_ux_for_django_website) - [A new UX for the Django website](https://www.20tab.com/solutions/case-studies/django-website-case-study)
 * [2024-02-07, 07:34:06](https://lobste.rs/s/3in1hu/one_billion_row_challenge_ada) - [The One Billion row challenge in Ada](http://verisimilitudes.net/2024-01-30)
 * [2024-02-07, 07:30:17](https://lobste.rs/s/mw6g9v/dotslash_simplified_executable) - [DotSlash: Simplified executable deployment](https://engineering.fb.com/2024/02/06/developer-tools/dotslash-simplified-executable-deployment/)
 * [2024-02-07, 03:32:49](https://lobste.rs/s/awygl6/jujutsu_git_compatible_vcs) - [Jujutsu: A Git-Compatible VCS](https://www.youtube.com/watch?v=bx_LGilOuE4)
@@ -8,7 +9,6 @@
 * [2024-02-07, 01:29:01](https://lobste.rs/s/3pxac9/when_letting_it_crash_is_not_enough) - [When \"letting it crash\" is not enough](https://flawless.dev/essays/when-letting-it-crash-is-not-enough/)
 * [2024-02-07, 00:10:56](https://lobste.rs/s/ccsw3j/go_1_22_release_notes) - [Go 1.22 Release Notes](https://go.dev/doc/go1.22)
 * [2024-02-06, 22:45:35](https://lobste.rs/s/f8lsi0/bookmarklet_load_all_github_comments) - [Bookmarklet: Load All GitHub Comments](https://meyerweb.com/eric/thoughts/2024/02/05/bookmarklet-load-all-github-comments/)
-* [2024-02-06, 21:29:49](https://lobste.rs/s/pq0mrc/how_embed_3d_models_on_web) - [How to Embed 3D Models on the Web](https://cloudfour.com/thinks/how-to-embed-3d-models-on-the-web/)
 * [2024-02-06, 20:59:23](https://lobste.rs/s/klo3e3/garbage_collection_without_unsafe_code) - [Garbage Collection Without Unsafe Code](https://fitzgeraldnick.com/2024/02/06/safe-gc.html)
 * [2024-02-06, 19:38:40](https://lobste.rs/s/jkewsv/jsonfile_quick_hack_for_tinkering) - [jsonfile: a quick hack for tinkering](https://crawshaw.io/blog/jsonfile)
 * [2024-02-06, 19:37:03](https://lobste.rs/s/2epqsl/expat_2_6_0_released_includes_security) - [Expat 2.6.0 released, includes security fixes](https://blog.hartwork.org/posts/expat-2-6-0-released/)
