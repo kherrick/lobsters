@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-02-07, 20:03:38](https://lobste.rs/s/w0cjx8/appreciating_clpz_t_2) - [Appreciating clpz_t/2](https://github.com/mthom/scryer-prolog/discussions/2320)
+* [2024-02-07, 20:18:15](https://lobste.rs/s/jcxtds/exploring_amd_platform_secure_boot) - [Exploring AMD Platform Secure Boot](https://labs.ioactive.com/2024/02/exploring-amd-platform-secure-boot.html)
 * [2024-02-07, 19:21:56](https://lobste.rs/s/zdfhht/making_godot_viable_on_ipados) - [Making Godot Viable on iPadOS: Development Loop](https://blog.la-terminal.net/making-godot-viable-on-ipados/)
 * [2024-02-07, 18:58:25](https://lobste.rs/s/1ahcmr/proving_performance) - [Proving Performance](https://www.youtube.com/watch?v=P87C4jNakGs)
 * [2024-02-07, 17:40:18](https://lobste.rs/s/resic9/will_it_block) - [Will it block?](https://blog.yoshuawuyts.com/what-is-blocking/)
