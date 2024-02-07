@@ -2,6 +2,7 @@
 
 * [2024-02-07, 19:21:56](https://lobste.rs/s/zdfhht/making_godot_viable_on_ipados) - [Making Godot Viable on iPadOS: Development Loop](https://blog.la-terminal.net/making-godot-viable-on-ipados/)
 * [2024-02-07, 18:58:25](https://lobste.rs/s/1ahcmr/proving_performance) - [Proving Performance](https://www.youtube.com/watch?v=P87C4jNakGs)
+* [2024-02-07, 17:40:18](https://lobste.rs/s/resic9/will_it_block) - [Will it block?](https://blog.yoshuawuyts.com/what-is-blocking/)
 * [2024-02-07, 17:31:24](https://lobste.rs/s/i5syr4/physical_properties_2) - [Physical Properties #2](https://buttondown.email/jaffray/archive/physical-properties-2/)
 * [2024-02-07, 16:31:03](https://lobste.rs/s/4qu5jt/netbsd_for_advanced_minimalist) - [NetBSD for the Advanced Minimalist](https://www.nycbug.org/index?action=view&id=10694)
 * [2024-02-07, 14:44:50](https://lobste.rs/s/hws1cu/rust_won_t_save_us_analysis_2023_s_known) - [Rust Won’t Save Us: An Analysis of 2023’s Known Exploited Vulnerabilities](https://www.horizon3.ai/analysis-of-2023s-known-exploited-vulnerabilities/)
@@ -22,7 +23,6 @@
 * [2024-02-06, 17:09:07](https://lobste.rs/s/mumfox/elixir_nitpicks) - [Elixir Nitpicks](https://wiki.alopex.li/ElixirNitpicks)
 * [2024-02-06, 16:04:00](https://lobste.rs/s/sqaknx/poc_gtfo_0x22) - [PoC||GTFO 0x22](https://www.alchemistowl.org/pocorgtfo/pocorgtfo22.pdf)
 * [2024-02-06, 15:58:05](https://lobste.rs/s/h1y3ql/sinusoidal_tetris) - [The sinusoidal tetris](https://www.andreinc.net/2024/02/06/the-sinusoidal-tetris)
-* [2024-02-06, 11:49:43](https://lobste.rs/s/hjk6ht/beautiful_code_greg_wilson_s_vision_for) - [Beautiful Code - Greg Wilson's Vision for Software Design](https://corecursive.com/beautiful-code-with-greg-wilson/)
 * [2024-02-06, 11:07:15](https://lobste.rs/s/g2yxvg/unusual_basis_types_programming) - [Unusual basis types in programming languages](https://buttondown.email/hillelwayne/archive/unusual-basis-types-in-programming-languages/)
 * [2024-02-06, 07:54:33](https://lobste.rs/s/xzsnva/get_notified_when_github_ipv6_is_live) - [Get notified when GitHub IPv6 is live](https://isgithubipv6.live/)
 
