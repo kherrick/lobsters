@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-07, 16:31:03](https://lobste.rs/s/4qu5jt/netbsd_for_advanced_minimalist_by_ivan) - [NetBSD for the Advanced Minimalist, by Ivan \"Rambius\" Ivanov](https://www.nycbug.org/index?action=view&id=10694)
 * [2024-02-07, 14:44:50](https://lobste.rs/s/hws1cu/rust_won_t_save_us_analysis_2023_s_known) - [Rust Won’t Save Us: An Analysis of 2023’s Known Exploited Vulnerabilities](https://www.horizon3.ai/analysis-of-2023s-known-exploited-vulnerabilities/)
 * [2024-02-07, 13:38:31](https://lobste.rs/s/1ktgmi/pyodide_python_distribution_for_browser) - [Pyodide: Python distribution for the browser and Node.js based on WebAssembly](https://pyodide.org/)
 * [2024-02-07, 12:07:39](https://lobste.rs/s/zgtvjh/why_rustpython) - [Why RustPython?](https://rustpython.github.io)
@@ -16,7 +17,6 @@
 * [2024-02-07, 00:10:56](https://lobste.rs/s/ccsw3j/go_1_22_release_notes) - [Go 1.22 Release Notes](https://go.dev/doc/go1.22)
 * [2024-02-06, 22:45:35](https://lobste.rs/s/f8lsi0/bookmarklet_load_all_github_comments) - [Bookmarklet: Load All GitHub Comments](https://meyerweb.com/eric/thoughts/2024/02/05/bookmarklet-load-all-github-comments/)
 * [2024-02-06, 20:59:23](https://lobste.rs/s/klo3e3/garbage_collection_without_unsafe_code) - [Garbage Collection Without Unsafe Code](https://fitzgeraldnick.com/2024/02/06/safe-gc.html)
-* [2024-02-06, 19:37:03](https://lobste.rs/s/2epqsl/expat_2_6_0_released_includes_security) - [Expat 2.6.0 released, includes security fixes](https://blog.hartwork.org/posts/expat-2-6-0-released/)
 * [2024-02-06, 18:43:49](https://lobste.rs/s/maefew/bluesky_at_protocol_usable) - [Bluesky and the AT Protocol: Usable Decentralized Social Media](https://arxiv.org/pdf/2402.03239.pdf)
 * [2024-02-06, 17:09:07](https://lobste.rs/s/mumfox/elixir_nitpicks) - [Elixir Nitpicks](https://wiki.alopex.li/ElixirNitpicks)
 * [2024-02-06, 16:04:00](https://lobste.rs/s/sqaknx/poc_gtfo_0x22) - [PoC||GTFO 0x22](https://www.alchemistowl.org/pocorgtfo/pocorgtfo22.pdf)
