@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-08, 14:10:17",
+      "https://lobste.rs/s/ty0crv/announcing_rust_1_76_0"
+    ],
+    [
+      "Announcing Rust 1.76.0",
+      "https://blog.rust-lang.org/2024/02/08/Rust-1.76.0.html"
+    ]
+  ],
+  [
+    [
       "2024-02-08, 13:40:24",
       "https://lobste.rs/s/pdslj1/announcing_google_season_docs_2024"
     ],
@@ -197,16 +207,6 @@
     [
       "Why RustPython?",
       "https://rustpython.github.io"
-    ]
-  ],
-  [
-    [
-      "2024-02-07, 11:15:55",
-      "https://lobste.rs/s/dhsb1v/chez_scheme_v10_0_with_aarch64_risc_v"
-    ],
-    [
-      "Chez Scheme v10.0 with Aarch64 and RISC-V backends",
-      "https://github.com/cisco/ChezScheme/releases/tag/v10.0.0"
     ]
   ],
   [
