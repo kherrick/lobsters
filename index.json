@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-02-08, 18:49:45",
+      "https://lobste.rs/s/crtqzu/introducing_sudo_for_windows"
+    ],
+    [
+      "Introducing Sudo for Windows",
+      "https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/"
+    ]
+  ],
+  [
+    [
       "2024-02-08, 18:25:27",
       "https://lobste.rs/s/lfw3xx/allocation_free_decoding_with_traits"
     ],
@@ -227,16 +237,6 @@
     [
       "Rust Won’t Save Us: An Analysis of 2023’s Known Exploited Vulnerabilities",
       "https://www.horizon3.ai/analysis-of-2023s-known-exploited-vulnerabilities/"
-    ]
-  ],
-  [
-    [
-      "2024-02-07, 12:07:39",
-      "https://lobste.rs/s/zgtvjh/why_rustpython"
-    ],
-    [
-      "Why RustPython?",
-      "https://rustpython.github.io"
     ]
   ],
   [
