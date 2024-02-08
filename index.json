@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-08, 16:01:28",
+      "https://lobste.rs/s/iwhwkd/emirb_run_irb_your_browser"
+    ],
+    [
+      "emirb - Run IRB in your browser",
+      "https://mame.github.io/emirb/"
+    ]
+  ],
+  [
+    [
       "2024-02-08, 14:10:17",
       "https://lobste.rs/s/ty0crv/announcing_rust_1_76_0"
     ],
@@ -227,16 +237,6 @@
     [
       "linux-image in Debian went from 474 MB to 99 MB thanks to XZ",
       "https://lists.debian.org/debian-kernel/2024/02/msg00072.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-07, 01:44:15",
-      "https://lobste.rs/s/xvt8ax/jquery_4_0_0_beta"
-    ],
-    [
-      "jQuery 4.0.0 BETA",
-      "https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/"
     ]
   ],
   [
