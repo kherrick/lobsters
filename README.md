@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-08, 21:54:21](https://lobste.rs/s/oljyid/multics_as400_dps8m_on_ibm_pase_for_i_os_400) - [Multics + AS400：DPS8M on IBM PASE for i (OS/400)](https://dps8m.gitlab.io/blog/posts/20240207_DPS8M_AS400/)
 * [2024-02-08, 21:49:08](https://lobste.rs/s/imfbha/strings_do_too_many_things) - [Strings do too many things](https://buttondown.email/hillelwayne/archive/strings-do-too-many-things/)
-* [2024-02-08, 21:35:26](https://lobste.rs/s/qq3vqf/porting_libyaml_safe_rust_some_thoughts) - [Porting libyaml to Safe Rust: Some Thoughts](https://simonask.github.io/libyaml-safer/)
 * [2024-02-08, 18:54:47](https://lobste.rs/s/uxuly4/opml_is_underrated) - [OPML is underrated](https://kmaasrud.com/blog/opml-is-underrated.html)
 * [2024-02-08, 18:49:45](https://lobste.rs/s/crtqzu/introducing_sudo_for_windows) - [Introducing Sudo for Windows](https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/)
 * [2024-02-08, 18:25:27](https://lobste.rs/s/lfw3xx/allocation_free_decoding_with_traits) - [Allocation-free decoding with traits and high-ranked trait bounds](https://ferrous-systems.com/blog/rustls-borrow-checker-p2/)

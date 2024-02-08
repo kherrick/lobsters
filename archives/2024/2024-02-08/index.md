@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-08](index.md)
 
+* [2024-02-08, 21:54:21](https://lobste.rs/s/oljyid/multics_as400_dps8m_on_ibm_pase_for_i_os_400) - [Multics + AS400：DPS8M on IBM PASE for i (OS/400)](https://dps8m.gitlab.io/blog/posts/20240207_DPS8M_AS400/)
 * [2024-02-08, 21:49:08](https://lobste.rs/s/imfbha/strings_do_too_many_things) - [Strings do too many things](https://buttondown.email/hillelwayne/archive/strings-do-too-many-things/)
 * [2024-02-08, 21:35:26](https://lobste.rs/s/qq3vqf/porting_libyaml_safe_rust_some_thoughts) - [Porting libyaml to Safe Rust: Some Thoughts](https://simonask.github.io/libyaml-safer/)
 * [2024-02-08, 21:34:49](https://lobste.rs/s/mc4mrr/what_s_inside_linux_kernel_core_dump) - [What's Inside a Linux Kernel Core Dump](https://blogs.oracle.com/linux/post/whats-inside-a-linux-kernel-core-dump)
