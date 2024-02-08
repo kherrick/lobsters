@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-08, 23:42:26](https://lobste.rs/s/rpmwmg/adding_utf_8_variable_width_string_dtype) - [Adding a UTF-8 variable-width string DType to NumPy](https://numpy.org/neps/nep-0055-string_dtype.html)
 * [2024-02-08, 23:12:37](https://lobste.rs/s/ysam1j/why_elixir_is_best_language_for_building) - [Why Elixir Is the Best Language for Building a Bootstrapped, B2B SaaS in 2024](https://www.sleepeasy.app/2024/01/21/elixir-best-language-for-bootstrapped-b2b-saas/)
 * [2024-02-08, 21:54:21](https://lobste.rs/s/oljyid/multics_as400_dps8m_on_ibm_pase_for_i_os_400) - [Multics + AS400：DPS8M on IBM PASE for i (OS/400)](https://dps8m.gitlab.io/blog/posts/20240207_DPS8M_AS400/)
 * [2024-02-08, 21:49:08](https://lobste.rs/s/imfbha/strings_do_too_many_things) - [Strings do too many things](https://buttondown.email/hillelwayne/archive/strings-do-too-many-things/)
@@ -23,7 +24,6 @@
 * [2024-02-08, 03:36:34](https://lobste.rs/s/57aktx/distributed_systems_reading_list) - [A Distributed Systems Reading List](https://ferd.ca/a-distributed-systems-reading-list.html)
 * [2024-02-08, 02:29:49](https://lobste.rs/s/tjrbzv/thinking_forth_language_philosophy_for) - [Thinking Forth - A Language And Philosophy For Solving Problems](https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf)
 * [2024-02-07, 21:45:39](https://lobste.rs/s/swmlua/beyond_1_mb_barrier_dos) - [Beyond the 1 MB barrier in DOS](https://blogsystem5.substack.com/p/beyond-the-1-mb-barrier-in-dos)
-* [2024-02-07, 17:40:18](https://lobste.rs/s/resic9/will_it_block) - [Will it block?](https://blog.yoshuawuyts.com/what-is-blocking/)
 * [2024-02-07, 14:44:50](https://lobste.rs/s/hws1cu/rust_won_t_save_us_analysis_2023_s_known) - [Rust Won’t Save Us: An Analysis of 2023’s Known Exploited Vulnerabilities](https://www.horizon3.ai/analysis-of-2023s-known-exploited-vulnerabilities/)
 
 ## [Archives](archives/index.md)
