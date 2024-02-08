@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-08, 14:10:17](https://lobste.rs/s/ty0crv/announcing_rust_1_76_0) - [Announcing Rust 1.76.0](https://blog.rust-lang.org/2024/02/08/Rust-1.76.0.html)
 * [2024-02-08, 13:40:24](https://lobste.rs/s/pdslj1/announcing_google_season_docs_2024) - [Announcing Google Season of Docs 2024](https://opensource.googleblog.com/2024/02/announcing-google-season-of-docs-2024.html?m=1)
 * [2024-02-08, 13:33:34](https://lobste.rs/s/jd2bpt/intuition_for_distributed_consensus) - [An intuition for distributed consensus in OLTP systems](https://notes.eatonphil.com/2024-02-08-an-intuition-for-distributed-consensus-in-oltp-systems.html)
 * [2024-02-08, 08:29:35](https://lobste.rs/s/cyj25v/context_control_go) - [Context Control in Go](https://zenhorace.dev/blog/context-control-go/)
@@ -20,7 +21,6 @@
 * [2024-02-07, 16:31:03](https://lobste.rs/s/4qu5jt/netbsd_for_advanced_minimalist) - [NetBSD for the Advanced Minimalist](https://www.nycbug.org/index?action=view&id=10694)
 * [2024-02-07, 14:44:50](https://lobste.rs/s/hws1cu/rust_won_t_save_us_analysis_2023_s_known) - [Rust Won’t Save Us: An Analysis of 2023’s Known Exploited Vulnerabilities](https://www.horizon3.ai/analysis-of-2023s-known-exploited-vulnerabilities/)
 * [2024-02-07, 12:07:39](https://lobste.rs/s/zgtvjh/why_rustpython) - [Why RustPython?](https://rustpython.github.io)
-* [2024-02-07, 11:15:55](https://lobste.rs/s/dhsb1v/chez_scheme_v10_0_with_aarch64_risc_v) - [Chez Scheme v10.0 with Aarch64 and RISC-V backends](https://github.com/cisco/ChezScheme/releases/tag/v10.0.0)
 * [2024-02-07, 10:12:15](https://lobste.rs/s/lzoul4/contingency_planning_for_me_curl) - [Contingency planning for me and curl](https://daniel.haxx.se/blog/2024/02/07/contingency-planning-for-me-and-curl/)
 * [2024-02-07, 09:17:44](https://lobste.rs/s/qzww86/linux_image_debian_went_from_474_mb_99_mb) - [linux-image in Debian went from 474 MB to 99 MB thanks to XZ](https://lists.debian.org/debian-kernel/2024/02/msg00072.html)
 * [2024-02-07, 01:44:15](https://lobste.rs/s/xvt8ax/jquery_4_0_0_beta) - [jQuery 4.0.0 BETA](https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/)
