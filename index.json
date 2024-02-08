@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-08, 16:35:34",
+      "https://lobste.rs/s/yj5fue/linux_abi_tracker"
+    ],
+    [
+      "Linux ABI Tracker",
+      "https://abi-laboratory.pro/index.php?view=abi-tracker"
+    ]
+  ],
+  [
+    [
+      "2024-02-08, 16:26:50",
+      "https://lobste.rs/s/rluiga/horrific_inefficiencies_monolithic"
+    ],
+    [
+      "The horrific inefficiencies of monolithic blockchains",
+      "https://polynya.mirror.xyz/3-omFNK3uU0iAaYSpFz0f9rCvrDBjx0H3XOSDGXU8hY"
+    ]
+  ],
+  [
+    [
       "2024-02-08, 16:17:20",
       "https://lobste.rs/s/fzanve/stract_independent_open_search"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-02-07, 22:23:50",
-      "https://lobste.rs/s/ctj5sh/what_s_your_rofi_config"
-    ],
-    [
-      "What's your rofi config?",
-      "https://lobste.rs/s/ctj5sh/what_s_your_rofi_config"
-    ]
-  ],
-  [
-    [
       "2024-02-07, 22:04:31",
       "https://lobste.rs/s/b1mjkg/search_engine_80_lines_python"
     ],
@@ -237,16 +247,6 @@
     [
       "linux-image in Debian went from 474 MB to 99 MB thanks to XZ",
       "https://lists.debian.org/debian-kernel/2024/02/msg00072.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-07, 00:10:56",
-      "https://lobste.rs/s/ccsw3j/go_1_22_release_notes"
-    ],
-    [
-      "Go 1.22 Release Notes",
-      "https://go.dev/doc/go1.22"
     ]
   ]
 ]
