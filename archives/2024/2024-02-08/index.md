@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-08](index.md)
 
+* [2024-02-08, 16:35:34](https://lobste.rs/s/yj5fue/linux_abi_tracker) - [Linux ABI Tracker](https://abi-laboratory.pro/index.php?view=abi-tracker)
+* [2024-02-08, 16:26:50](https://lobste.rs/s/rluiga/horrific_inefficiencies_monolithic) - [The horrific inefficiencies of monolithic blockchains](https://polynya.mirror.xyz/3-omFNK3uU0iAaYSpFz0f9rCvrDBjx0H3XOSDGXU8hY)
 * [2024-02-08, 16:17:20](https://lobste.rs/s/fzanve/stract_independent_open_search) - [Stract: Independent and Open Search](https://stract.com/)
 * [2024-02-08, 16:01:28](https://lobste.rs/s/iwhwkd/emirb_run_irb_your_browser) - [emirb - Run IRB in your browser](https://mame.github.io/emirb/)
 * [2024-02-08, 14:10:17](https://lobste.rs/s/ty0crv/announcing_rust_1_76_0) - [Announcing Rust 1.76.0](https://blog.rust-lang.org/2024/02/08/Rust-1.76.0.html)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-08, 16:35:34](https://lobste.rs/s/yj5fue/linux_abi_tracker) - [Linux ABI Tracker](https://abi-laboratory.pro/index.php?view=abi-tracker)
+* [2024-02-08, 16:26:50](https://lobste.rs/s/rluiga/horrific_inefficiencies_monolithic) - [The horrific inefficiencies of monolithic blockchains](https://polynya.mirror.xyz/3-omFNK3uU0iAaYSpFz0f9rCvrDBjx0H3XOSDGXU8hY)
 * [2024-02-08, 16:17:20](https://lobste.rs/s/fzanve/stract_independent_open_search) - [Stract: Independent and Open Search](https://stract.com/)
 * [2024-02-08, 16:01:28](https://lobste.rs/s/iwhwkd/emirb_run_irb_your_browser) - [emirb - Run IRB in your browser](https://mame.github.io/emirb/)
 * [2024-02-08, 14:10:17](https://lobste.rs/s/ty0crv/announcing_rust_1_76_0) - [Announcing Rust 1.76.0](https://blog.rust-lang.org/2024/02/08/Rust-1.76.0.html)
@@ -13,7 +15,6 @@
 * [2024-02-08, 03:36:34](https://lobste.rs/s/57aktx/distributed_systems_reading_list) - [A Distributed Systems Reading List](https://ferd.ca/a-distributed-systems-reading-list.html)
 * [2024-02-08, 02:29:49](https://lobste.rs/s/tjrbzv/thinking_forth_language_philosophy_for) - [Thinking Forth - A Language And Philosophy For Solving Problems](https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf)
 * [2024-02-08, 01:07:56](https://lobste.rs/s/pgitdz/urgent_need_for_memory_safety_software) - [The Urgent Need for Memory Safety in Software Products](https://www.cisa.gov/news-events/news/urgent-need-memory-safety-software-products)
-* [2024-02-07, 22:23:50](https://lobste.rs/s/ctj5sh/what_s_your_rofi_config) - [What's your rofi config?](https://lobste.rs/s/ctj5sh/what_s_your_rofi_config)
 * [2024-02-07, 22:04:31](https://lobste.rs/s/b1mjkg/search_engine_80_lines_python) - [A search engine in 80 lines of Python](https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html)
 * [2024-02-07, 21:45:39](https://lobste.rs/s/swmlua/beyond_1_mb_barrier_dos) - [Beyond the 1 MB barrier in DOS](https://blogsystem5.substack.com/p/beyond-the-1-mb-barrier-in-dos)
 * [2024-02-07, 21:44:58](https://lobste.rs/s/ogcfva/deep_dive_into_design_our_touchwheel) - [A Deep Dive Into the Design of Our Touchwheel](https://www.crowdsupply.com/cool-tech-zone/tangara/updates/a-deep-dive-into-the-design-of-our-touchwheel)
@@ -24,7 +25,6 @@
 * [2024-02-07, 12:07:39](https://lobste.rs/s/zgtvjh/why_rustpython) - [Why RustPython?](https://rustpython.github.io)
 * [2024-02-07, 10:12:15](https://lobste.rs/s/lzoul4/contingency_planning_for_me_curl) - [Contingency planning for me and curl](https://daniel.haxx.se/blog/2024/02/07/contingency-planning-for-me-and-curl/)
 * [2024-02-07, 09:17:44](https://lobste.rs/s/qzww86/linux_image_debian_went_from_474_mb_99_mb) - [linux-image in Debian went from 474 MB to 99 MB thanks to XZ](https://lists.debian.org/debian-kernel/2024/02/msg00072.html)
-* [2024-02-07, 00:10:56](https://lobste.rs/s/ccsw3j/go_1_22_release_notes) - [Go 1.22 Release Notes](https://go.dev/doc/go1.22)
 
 ## [Archives](archives/index.md)
 
