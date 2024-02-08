@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-08](index.md)
 
+* [2024-02-08, 17:14:51](https://lobste.rs/s/8suoyg/connect_why_are_you_so_slow) - [connect() - why are you so slow?](https://blog.cloudflare.com/linux-transport-protocol-port-selection-performance/)
 * [2024-02-08, 16:44:14](https://lobste.rs/s/dmllmk/rust_wont_save_us_it_s_ideas_will) - [Rust wont save us, but it's ideas will](https://glitchbyte.io/posts/rust-wont-save-us/)
 * [2024-02-08, 16:35:34](https://lobste.rs/s/yj5fue/linux_abi_tracker) - [Linux ABI Tracker](https://abi-laboratory.pro/index.php?view=abi-tracker)
 * [2024-02-08, 16:26:50](https://lobste.rs/s/rluiga/horrific_inefficiencies_monolithic) - [The horrific inefficiencies of monolithic blockchains](https://polynya.mirror.xyz/3-omFNK3uU0iAaYSpFz0f9rCvrDBjx0H3XOSDGXU8hY)
