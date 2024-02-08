@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-08, 06:59:14",
+      "https://lobste.rs/s/kcju3o/how_levels_fyi_scaled_millions_users_with"
+    ],
+    [
+      "How Levels.fyi scaled to millions of users with Google Sheets as a backend",
+      "https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-08, 06:58:05",
+      "https://lobste.rs/s/gwlpuu/just_enough_cors_not_get_stuck"
+    ],
+    [
+      "Just enough CORS to not get stuck",
+      "https://blog.meain.io/2024/just-enough-cors/"
+    ]
+  ],
+  [
+    [
       "2024-02-08, 05:03:07",
       "https://lobste.rs/s/rvo5bz/how_gnu_c_library_handles_backward"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-02-07, 17:31:24",
-      "https://lobste.rs/s/i5syr4/physical_properties_2"
-    ],
-    [
-      "Physical Properties #2",
-      "https://buttondown.email/jaffray/archive/physical-properties-2/"
-    ]
-  ],
-  [
-    [
       "2024-02-07, 16:31:03",
       "https://lobste.rs/s/4qu5jt/netbsd_for_advanced_minimalist"
     ],
@@ -207,16 +217,6 @@
     [
       "linux-image in Debian went from 474 MB to 99 MB thanks to XZ",
       "https://lists.debian.org/debian-kernel/2024/02/msg00072.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-07, 07:30:17",
-      "https://lobste.rs/s/mw6g9v/dotslash_simplified_executable"
-    ],
-    [
-      "DotSlash: Simplified executable deployment",
-      "https://engineering.fb.com/2024/02/06/developer-tools/dotslash-simplified-executable-deployment/"
     ]
   ],
   [
