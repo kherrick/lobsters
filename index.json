@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-08, 13:33:34",
+      "https://lobste.rs/s/jd2bpt/intuition_for_distributed_consensus"
+    ],
+    [
+      "An intuition for distributed consensus in OLTP systems",
+      "https://notes.eatonphil.com/2024-02-08-an-intuition-for-distributed-consensus-in-oltp-systems.html"
+    ]
+  ],
+  [
+    [
       "2024-02-08, 08:29:35",
       "https://lobste.rs/s/cyj25v/context_control_go"
     ],
@@ -237,16 +247,6 @@
     [
       "Go 1.22 Release Notes",
       "https://go.dev/doc/go1.22"
-    ]
-  ],
-  [
-    [
-      "2024-02-06, 17:09:07",
-      "https://lobste.rs/s/mumfox/elixir_nitpicks"
-    ],
-    [
-      "Elixir Nitpicks",
-      "https://wiki.alopex.li/ElixirNitpicks"
     ]
   ]
 ]
