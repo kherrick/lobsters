@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-08](index.md)
 
+* [2024-02-08, 13:33:34](https://lobste.rs/s/jd2bpt/intuition_for_distributed_consensus) - [An intuition for distributed consensus in OLTP systems](https://notes.eatonphil.com/2024-02-08-an-intuition-for-distributed-consensus-in-oltp-systems.html)
 * [2024-02-08, 08:29:35](https://lobste.rs/s/cyj25v/context_control_go) - [Context Control in Go](https://zenhorace.dev/blog/context-control-go/)
 * [2024-02-08, 06:59:14](https://lobste.rs/s/kcju3o/how_levels_fyi_scaled_millions_users_with) - [How Levels.fyi scaled to millions of users with Google Sheets as a backend](https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html)
 * [2024-02-08, 06:58:05](https://lobste.rs/s/gwlpuu/just_enough_cors_not_get_stuck) - [Just enough CORS to not get stuck](https://blog.meain.io/2024/just-enough-cors/)

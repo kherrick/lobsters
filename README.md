@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-08, 13:33:34](https://lobste.rs/s/jd2bpt/intuition_for_distributed_consensus) - [An intuition for distributed consensus in OLTP systems](https://notes.eatonphil.com/2024-02-08-an-intuition-for-distributed-consensus-in-oltp-systems.html)
 * [2024-02-08, 08:29:35](https://lobste.rs/s/cyj25v/context_control_go) - [Context Control in Go](https://zenhorace.dev/blog/context-control-go/)
 * [2024-02-08, 06:59:14](https://lobste.rs/s/kcju3o/how_levels_fyi_scaled_millions_users_with) - [How Levels.fyi scaled to millions of users with Google Sheets as a backend](https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html)
 * [2024-02-08, 06:58:05](https://lobste.rs/s/gwlpuu/just_enough_cors_not_get_stuck) - [Just enough CORS to not get stuck](https://blog.meain.io/2024/just-enough-cors/)
@@ -24,7 +25,6 @@
 * [2024-02-07, 09:17:44](https://lobste.rs/s/qzww86/linux_image_debian_went_from_474_mb_99_mb) - [linux-image in Debian went from 474 MB to 99 MB thanks to XZ](https://lists.debian.org/debian-kernel/2024/02/msg00072.html)
 * [2024-02-07, 01:44:15](https://lobste.rs/s/xvt8ax/jquery_4_0_0_beta) - [jQuery 4.0.0 BETA](https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/)
 * [2024-02-07, 00:10:56](https://lobste.rs/s/ccsw3j/go_1_22_release_notes) - [Go 1.22 Release Notes](https://go.dev/doc/go1.22)
-* [2024-02-06, 17:09:07](https://lobste.rs/s/mumfox/elixir_nitpicks) - [Elixir Nitpicks](https://wiki.alopex.li/ElixirNitpicks)
 
 ## [Archives](archives/index.md)
 
