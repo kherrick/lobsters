@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-02-08, 05:50:32",
-      "https://lobste.rs/s/7iuezu/i_is_for_intent"
-    ],
-    [
-      "I is for Intent",
-      "https://acko.net/blog/i-is-for-intent/"
-    ]
-  ],
-  [
-    [
       "2024-02-08, 05:03:07",
       "https://lobste.rs/s/rvo5bz/how_gnu_c_library_handles_backward"
     ],
@@ -217,6 +207,16 @@
     [
       "linux-image in Debian went from 474 MB to 99 MB thanks to XZ",
       "https://lists.debian.org/debian-kernel/2024/02/msg00072.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-07, 07:30:17",
+      "https://lobste.rs/s/mw6g9v/dotslash_simplified_executable"
+    ],
+    [
+      "DotSlash: Simplified executable deployment",
+      "https://engineering.fb.com/2024/02/06/developer-tools/dotslash-simplified-executable-deployment/"
     ]
   ],
   [
