@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-08, 02:29:49](https://lobste.rs/s/tjrbzv/thinking_forth_language_philosophy_for) - [Thinking Forth - A Language And Philosophy For Solving Problems](https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf)
 * [2024-02-08, 01:07:56](https://lobste.rs/s/pgitdz/urgent_need_for_memory_safety_software) - [The Urgent Need for Memory Safety in Software Products](https://www.cisa.gov/news-events/news/urgent-need-memory-safety-software-products)
 * [2024-02-07, 22:23:50](https://lobste.rs/s/ctj5sh/what_s_your_rofi_config) - [What's your rofi config?](https://lobste.rs/s/ctj5sh/what_s_your_rofi_config)
 * [2024-02-07, 22:04:31](https://lobste.rs/s/b1mjkg/search_engine_80_lines_python) - [A search engine in 80 lines of Python](https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html)
@@ -21,7 +22,6 @@
 * [2024-02-07, 07:30:17](https://lobste.rs/s/mw6g9v/dotslash_simplified_executable) - [DotSlash: Simplified executable deployment](https://engineering.fb.com/2024/02/06/developer-tools/dotslash-simplified-executable-deployment/)
 * [2024-02-07, 02:46:06](https://lobste.rs/s/ouwghr/leopard_free_programming) - [Leopard-Free Programming](http://ratfactor.com/cards/leopard-free)
 * [2024-02-07, 01:44:15](https://lobste.rs/s/xvt8ax/jquery_4_0_0_beta) - [jQuery 4.0.0 BETA](https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/)
-* [2024-02-07, 01:29:01](https://lobste.rs/s/3pxac9/when_letting_it_crash_is_not_enough) - [When \"letting it crash\" is not enough](https://flawless.dev/essays/when-letting-it-crash-is-not-enough/)
 * [2024-02-07, 00:10:56](https://lobste.rs/s/ccsw3j/go_1_22_release_notes) - [Go 1.22 Release Notes](https://go.dev/doc/go1.22)
 * [2024-02-06, 17:09:07](https://lobste.rs/s/mumfox/elixir_nitpicks) - [Elixir Nitpicks](https://wiki.alopex.li/ElixirNitpicks)
 * [2024-02-06, 15:58:05](https://lobste.rs/s/h1y3ql/sinusoidal_tetris) - [The sinusoidal tetris](https://www.andreinc.net/2024/02/06/the-sinusoidal-tetris)
