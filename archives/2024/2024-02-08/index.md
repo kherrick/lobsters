@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-08](index.md)
 
+* [2024-02-08, 06:59:14](https://lobste.rs/s/kcju3o/how_levels_fyi_scaled_millions_users_with) - [How Levels.fyi scaled to millions of users with Google Sheets as a backend](https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html)
+* [2024-02-08, 06:58:05](https://lobste.rs/s/gwlpuu/just_enough_cors_not_get_stuck) - [Just enough CORS to not get stuck](https://blog.meain.io/2024/just-enough-cors/)
 * [2024-02-08, 05:50:32](https://lobste.rs/s/7iuezu/i_is_for_intent) - [I is for Intent](https://acko.net/blog/i-is-for-intent/)
 * [2024-02-08, 05:03:07](https://lobste.rs/s/rvo5bz/how_gnu_c_library_handles_backward) - [How the GNU C Library handles backward compatibility](https://developers.redhat.com/blog/2019/08/01/how-the-gnu-c-library-handles-backward-compatibility#understand_compatibility_s_limits)
 * [2024-02-08, 04:45:57](https://lobste.rs/s/0t5swr/journey_recovering_my_genuine_play) - [A journey recovering my genuine play-through of Parasite Eve on PS1](https://ecc-comp.blogspot.com/2024/02/a-journey-recovering-my-genuine.html)
