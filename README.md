@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-08, 05:50:32](https://lobste.rs/s/7iuezu/i_is_for_intent) - [I is for Intent](https://acko.net/blog/i-is-for-intent/)
 * [2024-02-08, 05:03:07](https://lobste.rs/s/rvo5bz/how_gnu_c_library_handles_backward) - [How the GNU C Library handles backward compatibility](https://developers.redhat.com/blog/2019/08/01/how-the-gnu-c-library-handles-backward-compatibility#understand_compatibility_s_limits)
 * [2024-02-08, 04:45:57](https://lobste.rs/s/0t5swr/journey_recovering_my_genuine_play) - [A journey recovering my genuine play-through of Parasite Eve on PS1](https://ecc-comp.blogspot.com/2024/02/a-journey-recovering-my-genuine.html)
 * [2024-02-08, 03:36:34](https://lobste.rs/s/57aktx/distributed_systems_reading_list) - [A Distributed Systems Reading List](https://ferd.ca/a-distributed-systems-reading-list.html)
@@ -21,7 +22,6 @@
 * [2024-02-07, 11:15:55](https://lobste.rs/s/dhsb1v/chez_scheme_v10_0_with_aarch64_risc_v) - [Chez Scheme v10.0 with Aarch64 and RISC-V backends](https://github.com/cisco/ChezScheme/releases/tag/v10.0.0)
 * [2024-02-07, 10:12:15](https://lobste.rs/s/lzoul4/contingency_planning_for_me_curl) - [Contingency planning for me and curl](https://daniel.haxx.se/blog/2024/02/07/contingency-planning-for-me-and-curl/)
 * [2024-02-07, 09:17:44](https://lobste.rs/s/qzww86/linux_image_debian_went_from_474_mb_99_mb) - [linux-image in Debian went from 474 MB to 99 MB thanks to XZ](https://lists.debian.org/debian-kernel/2024/02/msg00072.html)
-* [2024-02-07, 07:30:17](https://lobste.rs/s/mw6g9v/dotslash_simplified_executable) - [DotSlash: Simplified executable deployment](https://engineering.fb.com/2024/02/06/developer-tools/dotslash-simplified-executable-deployment/)
 * [2024-02-07, 01:44:15](https://lobste.rs/s/xvt8ax/jquery_4_0_0_beta) - [jQuery 4.0.0 BETA](https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/)
 * [2024-02-07, 00:10:56](https://lobste.rs/s/ccsw3j/go_1_22_release_notes) - [Go 1.22 Release Notes](https://go.dev/doc/go1.22)
 * [2024-02-06, 17:09:07](https://lobste.rs/s/mumfox/elixir_nitpicks) - [Elixir Nitpicks](https://wiki.alopex.li/ElixirNitpicks)
