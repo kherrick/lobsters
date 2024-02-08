@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-07](index.md)
 
+* [2024-02-07, 22:23:50](https://lobste.rs/s/ctj5sh/what_s_your_rofi_config) - [What's your rofi config?](https://lobste.rs/s/ctj5sh/what_s_your_rofi_config)
 * [2024-02-07, 22:04:31](https://lobste.rs/s/b1mjkg/search_engine_80_lines_python) - [A search engine in 80 lines of Python](https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html)
 * [2024-02-07, 21:45:39](https://lobste.rs/s/swmlua/beyond_1_mb_barrier_dos) - [Beyond the 1 MB barrier in DOS](https://blogsystem5.substack.com/p/beyond-the-1-mb-barrier-in-dos)
 * [2024-02-07, 21:44:58](https://lobste.rs/s/ogcfva/deep_dive_into_design_our_touchwheel) - [A Deep Dive Into the Design of Our Touchwheel](https://www.crowdsupply.com/cool-tech-zone/tangara/updates/a-deep-dive-into-the-design-of-our-touchwheel)
