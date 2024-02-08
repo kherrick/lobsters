@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-08](index.md)
 
+* [2024-02-08, 16:01:28](https://lobste.rs/s/iwhwkd/emirb_run_irb_your_browser) - [emirb - Run IRB in your browser](https://mame.github.io/emirb/)
 * [2024-02-08, 14:10:17](https://lobste.rs/s/ty0crv/announcing_rust_1_76_0) - [Announcing Rust 1.76.0](https://blog.rust-lang.org/2024/02/08/Rust-1.76.0.html)
 * [2024-02-08, 13:40:24](https://lobste.rs/s/pdslj1/announcing_google_season_docs_2024) - [Announcing Google Season of Docs 2024](https://opensource.googleblog.com/2024/02/announcing-google-season-of-docs-2024.html?m=1)
 * [2024-02-08, 13:33:34](https://lobste.rs/s/jd2bpt/intuition_for_distributed_consensus) - [An intuition for distributed consensus in OLTP systems](https://notes.eatonphil.com/2024-02-08-an-intuition-for-distributed-consensus-in-oltp-systems.html)

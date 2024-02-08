@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-08, 16:01:28](https://lobste.rs/s/iwhwkd/emirb_run_irb_your_browser) - [emirb - Run IRB in your browser](https://mame.github.io/emirb/)
 * [2024-02-08, 14:10:17](https://lobste.rs/s/ty0crv/announcing_rust_1_76_0) - [Announcing Rust 1.76.0](https://blog.rust-lang.org/2024/02/08/Rust-1.76.0.html)
 * [2024-02-08, 13:40:24](https://lobste.rs/s/pdslj1/announcing_google_season_docs_2024) - [Announcing Google Season of Docs 2024](https://opensource.googleblog.com/2024/02/announcing-google-season-of-docs-2024.html?m=1)
 * [2024-02-08, 13:33:34](https://lobste.rs/s/jd2bpt/intuition_for_distributed_consensus) - [An intuition for distributed consensus in OLTP systems](https://notes.eatonphil.com/2024-02-08-an-intuition-for-distributed-consensus-in-oltp-systems.html)
@@ -23,7 +24,6 @@
 * [2024-02-07, 12:07:39](https://lobste.rs/s/zgtvjh/why_rustpython) - [Why RustPython?](https://rustpython.github.io)
 * [2024-02-07, 10:12:15](https://lobste.rs/s/lzoul4/contingency_planning_for_me_curl) - [Contingency planning for me and curl](https://daniel.haxx.se/blog/2024/02/07/contingency-planning-for-me-and-curl/)
 * [2024-02-07, 09:17:44](https://lobste.rs/s/qzww86/linux_image_debian_went_from_474_mb_99_mb) - [linux-image in Debian went from 474 MB to 99 MB thanks to XZ](https://lists.debian.org/debian-kernel/2024/02/msg00072.html)
-* [2024-02-07, 01:44:15](https://lobste.rs/s/xvt8ax/jquery_4_0_0_beta) - [jQuery 4.0.0 BETA](https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/)
 * [2024-02-07, 00:10:56](https://lobste.rs/s/ccsw3j/go_1_22_release_notes) - [Go 1.22 Release Notes](https://go.dev/doc/go1.22)
 
 ## [Archives](archives/index.md)
