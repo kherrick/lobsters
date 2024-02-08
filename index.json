@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-08, 23:42:26",
+      "https://lobste.rs/s/rpmwmg/adding_utf_8_variable_width_string_dtype"
+    ],
+    [
+      "Adding a UTF-8 variable-width string DType to NumPy",
+      "https://numpy.org/neps/nep-0055-string_dtype.html"
+    ]
+  ],
+  [
+    [
       "2024-02-08, 23:12:37",
       "https://lobste.rs/s/ysam1j/why_elixir_is_best_language_for_building"
     ],
@@ -227,16 +237,6 @@
     [
       "Beyond the 1 MB barrier in DOS",
       "https://blogsystem5.substack.com/p/beyond-the-1-mb-barrier-in-dos"
-    ]
-  ],
-  [
-    [
-      "2024-02-07, 17:40:18",
-      "https://lobste.rs/s/resic9/will_it_block"
-    ],
-    [
-      "Will it block?",
-      "https://blog.yoshuawuyts.com/what-is-blocking/"
     ]
   ],
   [
