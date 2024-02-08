@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-08](index.md)
 
+* [2024-02-08, 17:48:36](https://lobste.rs/s/tosnfy/question_how_have_file_backed_persistent) - [Question: How to have file-backed persistent memory](https://lobste.rs/s/tosnfy/question_how_have_file_backed_persistent)
 * [2024-02-08, 17:41:08](https://lobste.rs/s/mvwmkf/dumping_your_own_pet) - [Dumping your own pet](https://qufb.gitlab.io/writeups/2023/12/03/Dumping-your-own-pet)
 * [2024-02-08, 17:34:04](https://lobste.rs/s/eqekic/swww_solution_your_wayland_wallpaper) - [swww: A Solution to your Wayland Wallpaper Woes](https://github.com/LGFae/swww)
 * [2024-02-08, 17:14:51](https://lobste.rs/s/8suoyg/connect_why_are_you_so_slow) - [connect() - why are you so slow?](https://blog.cloudflare.com/linux-transport-protocol-port-selection-performance/)
