@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-08](index.md)
 
+* [2024-02-08, 23:12:37](https://lobste.rs/s/ysam1j/why_elixir_is_best_language_for_building) - [Why Elixir Is the Best Language for Building a Bootstrapped, B2B SaaS in 2024](https://www.sleepeasy.app/2024/01/21/elixir-best-language-for-bootstrapped-b2b-saas/)
 * [2024-02-08, 21:54:21](https://lobste.rs/s/oljyid/multics_as400_dps8m_on_ibm_pase_for_i_os_400) - [Multics + AS400：DPS8M on IBM PASE for i (OS/400)](https://dps8m.gitlab.io/blog/posts/20240207_DPS8M_AS400/)
 * [2024-02-08, 21:49:08](https://lobste.rs/s/imfbha/strings_do_too_many_things) - [Strings do too many things](https://buttondown.email/hillelwayne/archive/strings-do-too-many-things/)
 * [2024-02-08, 21:35:26](https://lobste.rs/s/qq3vqf/porting_libyaml_safe_rust_some_thoughts) - [Porting libyaml to Safe Rust: Some Thoughts](https://simonask.github.io/libyaml-safer/)
