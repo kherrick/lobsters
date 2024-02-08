@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-08, 18:16:45](https://lobste.rs/s/z9rb82/i_don_t_care_about_memory_safety) - [I don't care about memory safety](https://www.linkedin.com/pulse/i-dont-care-memory-safety-david-chisnall/)
 * [2024-02-08, 17:48:36](https://lobste.rs/s/tosnfy/question_how_have_file_backed_persistent) - [Question: How to have file-backed persistent memory](https://lobste.rs/s/tosnfy/question_how_have_file_backed_persistent)
-* [2024-02-08, 17:41:08](https://lobste.rs/s/mvwmkf/dumping_your_own_pet) - [Dumping your own pet](https://qufb.gitlab.io/writeups/2023/12/03/Dumping-your-own-pet)
+* [2024-02-08, 17:34:04](https://lobste.rs/s/eqekic/swww_solution_your_wayland_wallpaper) - [swww: A Solution to your Wayland Wallpaper Woes](https://github.com/LGFae/swww)
 * [2024-02-08, 17:14:51](https://lobste.rs/s/8suoyg/connect_why_are_you_so_slow) - [connect() - why are you so slow?](https://blog.cloudflare.com/linux-transport-protocol-port-selection-performance/)
 * [2024-02-08, 16:44:14](https://lobste.rs/s/dmllmk/rust_wont_save_us_it_s_ideas_will) - [Rust wont save us, but it's ideas will](https://glitchbyte.io/posts/rust-wont-save-us/)
 * [2024-02-08, 16:17:20](https://lobste.rs/s/fzanve/stract_independent_open_search) - [Stract: Independent and Open Search](https://stract.com/)
@@ -23,7 +24,6 @@
 * [2024-02-07, 16:31:03](https://lobste.rs/s/4qu5jt/netbsd_for_advanced_minimalist) - [NetBSD for the Advanced Minimalist](https://www.nycbug.org/index?action=view&id=10694)
 * [2024-02-07, 14:44:50](https://lobste.rs/s/hws1cu/rust_won_t_save_us_analysis_2023_s_known) - [Rust Won’t Save Us: An Analysis of 2023’s Known Exploited Vulnerabilities](https://www.horizon3.ai/analysis-of-2023s-known-exploited-vulnerabilities/)
 * [2024-02-07, 12:07:39](https://lobste.rs/s/zgtvjh/why_rustpython) - [Why RustPython?](https://rustpython.github.io)
-* [2024-02-07, 10:12:15](https://lobste.rs/s/lzoul4/contingency_planning_for_me_curl) - [Contingency planning for me and curl](https://daniel.haxx.se/blog/2024/02/07/contingency-planning-for-me-and-curl/)
 * [2024-02-07, 09:17:44](https://lobste.rs/s/qzww86/linux_image_debian_went_from_474_mb_99_mb) - [linux-image in Debian went from 474 MB to 99 MB thanks to XZ](https://lists.debian.org/debian-kernel/2024/02/msg00072.html)
 
 ## [Archives](archives/index.md)

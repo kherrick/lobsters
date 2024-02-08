@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-08](index.md)
 
+* [2024-02-08, 18:16:45](https://lobste.rs/s/z9rb82/i_don_t_care_about_memory_safety) - [I don't care about memory safety](https://www.linkedin.com/pulse/i-dont-care-memory-safety-david-chisnall/)
 * [2024-02-08, 17:48:36](https://lobste.rs/s/tosnfy/question_how_have_file_backed_persistent) - [Question: How to have file-backed persistent memory](https://lobste.rs/s/tosnfy/question_how_have_file_backed_persistent)
 * [2024-02-08, 17:41:08](https://lobste.rs/s/mvwmkf/dumping_your_own_pet) - [Dumping your own pet](https://qufb.gitlab.io/writeups/2023/12/03/Dumping-your-own-pet)
 * [2024-02-08, 17:34:04](https://lobste.rs/s/eqekic/swww_solution_your_wayland_wallpaper) - [swww: A Solution to your Wayland Wallpaper Woes](https://github.com/LGFae/swww)
