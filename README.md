@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-09, 17:36:44](https://lobste.rs/s/fc6dht/human_element_ai_driven_testing) - [The Human Element in AI-Driven Testing Strategies](https://www.functionize.com/blog/the-human-element-in-ai-driven-testing-strategies)
 * [2024-02-09, 16:53:52](https://lobste.rs/s/yakjaw/sudo_on_windows_quick_rundown) - [Sudo On Windows a Quick Rundown](https://www.tiraniddo.dev/2024/02/sudo-on-windows-quick-rundown.html)
 * [2024-02-09, 16:48:31](https://lobste.rs/s/gzvdfc/opening_up_communication_silos_with) - [Opening up communication silos with Matrix 2.0 and the EU Digital Markets Act](https://www.youtube.com/watch?v=s5BrVVf0B1I)
 * [2024-02-09, 15:57:31](https://lobste.rs/s/htmt3k/add_coffee_stains_latex_documents) - [Add coffee stains to LaTeX documents](https://ctan.org/pkg/coffeestains)
@@ -15,7 +16,6 @@
 * [2024-02-09, 00:02:07](https://lobste.rs/s/856y3s/introducing_word_for_openbsd) - [Introducing Word for OpenBSD](https://marc.info/?l=openbsd-tech&m=170742832804260&w=2)
 * [2024-02-08, 23:42:26](https://lobste.rs/s/rpmwmg/adding_utf_8_variable_width_string_dtype) - [Adding a UTF-8 variable-width string DType to NumPy](https://numpy.org/neps/nep-0055-string_dtype.html)
 * [2024-02-08, 23:12:37](https://lobste.rs/s/ysam1j/why_elixir_is_best_language_for_building) - [Why Elixir Is the Best Language for Building a Bootstrapped, B2B SaaS in 2024](https://www.sleepeasy.app/2024/01/21/elixir-best-language-for-bootstrapped-b2b-saas/)
-* [2024-02-08, 21:54:21](https://lobste.rs/s/oljyid/multics_as400_dps8m_on_ibm_pase_for_i_os_400) - [Multics + AS400：DPS8M on IBM PASE for i (OS/400)](https://dps8m.gitlab.io/blog/posts/20240207_DPS8M_AS400/)
 * [2024-02-08, 21:49:08](https://lobste.rs/s/imfbha/strings_do_too_many_things) - [Strings do too many things](https://buttondown.email/hillelwayne/archive/strings-do-too-many-things/)
 * [2024-02-08, 18:54:47](https://lobste.rs/s/uxuly4/opml_is_underrated) - [OPML is underrated](https://kmaasrud.com/blog/opml-is-underrated.html)
 * [2024-02-08, 18:49:45](https://lobste.rs/s/crtqzu/introducing_sudo_for_windows) - [Introducing Sudo for Windows](https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/)
