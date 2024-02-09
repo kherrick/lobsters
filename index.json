@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-02-09, 21:06:30",
+      "https://lobste.rs/s/niqubh/world_s_most_responsible_ai_model"
+    ],
+    [
+      "The world's most responsible AI model",
+      "https://www.goody2.ai/"
+    ]
+  ],
+  [
+    [
       "2024-02-09, 20:41:14",
       "https://lobste.rs/s/nmvcdk/why_bloat_is_still_software_s_biggest"
     ],
@@ -177,16 +187,6 @@
     [
       "Introducing Word for OpenBSD",
       "https://marc.info/?l=openbsd-tech&m=170742832804260&w=2"
-    ]
-  ],
-  [
-    [
-      "2024-02-08, 23:42:26",
-      "https://lobste.rs/s/rpmwmg/adding_utf_8_variable_width_string_dtype"
-    ],
-    [
-      "Adding a UTF-8 variable-width string DType to NumPy",
-      "https://numpy.org/neps/nep-0055-string_dtype.html"
     ]
   ],
   [
