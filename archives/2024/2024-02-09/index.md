@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-09](index.md)
 
+* [2024-02-09, 23:20:14](https://lobste.rs/s/2w2eac/parse_don_t_validate) - [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 * [2024-02-09, 23:16:30](https://lobste.rs/s/lz1699/comonadic_builders) - [Comonadic builders](https://chshersh.com/posts/2019-03-25-comonadic-builders)
 * [2024-02-09, 21:43:06](https://lobste.rs/s/lzwa1j/how_i_write_http_services_go_after_13_years) - [How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
 * [2024-02-09, 21:07:49](https://lobste.rs/s/azjmym/resilience_chaos_engineering) - [Resilience and chaos engineering](https://devblogs.microsoft.com/dotnet/resilience-and-chaos-engineering/)

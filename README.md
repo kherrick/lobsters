@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-09, 23:20:14](https://lobste.rs/s/2w2eac/parse_don_t_validate) - [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 * [2024-02-09, 23:16:30](https://lobste.rs/s/lz1699/comonadic_builders) - [Comonadic builders](https://chshersh.com/posts/2019-03-25-comonadic-builders)
 * [2024-02-09, 21:43:06](https://lobste.rs/s/lzwa1j/how_i_write_http_services_go_after_13_years) - [How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
 * [2024-02-09, 21:07:49](https://lobste.rs/s/azjmym/resilience_chaos_engineering) - [Resilience and chaos engineering](https://devblogs.microsoft.com/dotnet/resilience-and-chaos-engineering/)
 * [2024-02-09, 20:41:14](https://lobste.rs/s/nmvcdk/why_bloat_is_still_software_s_biggest) - [Why Bloat Is Still Software’s Biggest Vulnerability - IEEE Spectrum](https://spectrum.ieee.org/lean-software-development)
 * [2024-02-09, 18:17:44](https://lobste.rs/s/lunvg8/too_dangerous_for_c) - [Too dangerous for C++](https://blog.dureuill.net/articles/too-dangerous-cpp/)
-* [2024-02-09, 17:36:44](https://lobste.rs/s/fc6dht/human_element_ai_driven_testing) - [The Human Element in AI-Driven Testing Strategies](https://www.functionize.com/blog/the-human-element-in-ai-driven-testing-strategies)
 * [2024-02-09, 16:53:52](https://lobste.rs/s/yakjaw/sudo_on_windows_quick_rundown) - [Sudo On Windows a Quick Rundown](https://www.tiraniddo.dev/2024/02/sudo-on-windows-quick-rundown.html)
 * [2024-02-09, 16:48:31](https://lobste.rs/s/gzvdfc/opening_up_communication_silos_with) - [Opening up communication silos with Matrix 2.0 and the EU Digital Markets Act](https://www.youtube.com/watch?v=s5BrVVf0B1I)
 * [2024-02-09, 15:57:31](https://lobste.rs/s/htmt3k/add_coffee_stains_latex_documents) - [Add coffee stains to LaTeX documents](https://ctan.org/pkg/coffeestains)
