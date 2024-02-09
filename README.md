@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-09, 16:53:52](https://lobste.rs/s/yakjaw/sudo_on_windows_quick_rundown) - [Sudo On Windows a Quick Rundown](https://www.tiraniddo.dev/2024/02/sudo-on-windows-quick-rundown.html)
+* [2024-02-09, 16:48:31](https://lobste.rs/s/gzvdfc/fosdem_2024_opening_up_communication) - [FOSDEM 2024 - Opening up communication silos with Matrix 2.0 and the EU Digital Markets Act](https://www.youtube.com/watch?v=s5BrVVf0B1I)
 * [2024-02-09, 15:57:31](https://lobste.rs/s/htmt3k/add_coffee_stains_latex_documents) - [Add coffee stains to LaTeX documents](https://ctan.org/pkg/coffeestains)
 * [2024-02-09, 15:38:41](https://lobste.rs/s/c8g7lq/frontlink_react_realtime_collaboration) - [Frontlink: React realtime collaboration and updates with your backend](https://github.com/danthegoodman1/frontlink)
 * [2024-02-09, 15:17:27](https://lobste.rs/s/jj2ju4/what_s_new_postgres_16_query_planner) - [What’s new in the Postgres 16 query planner / optimizer](https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/)
@@ -19,8 +21,6 @@
 * [2024-02-08, 18:49:45](https://lobste.rs/s/crtqzu/introducing_sudo_for_windows) - [Introducing Sudo for Windows](https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/)
 * [2024-02-08, 18:16:45](https://lobste.rs/s/z9rb82/i_don_t_care_about_memory_safety) - [I don't care about memory safety](https://www.linkedin.com/pulse/i-dont-care-memory-safety-david-chisnall/)
 * [2024-02-08, 17:34:04](https://lobste.rs/s/eqekic/swww_solution_your_wayland_wallpaper) - [swww: A Solution to your Wayland Wallpaper Woes](https://github.com/LGFae/swww)
-* [2024-02-08, 17:14:51](https://lobste.rs/s/8suoyg/connect_why_are_you_so_slow) - [connect() - why are you so slow?](https://blog.cloudflare.com/linux-transport-protocol-port-selection-performance/)
-* [2024-02-08, 16:44:14](https://lobste.rs/s/dmllmk/rust_wont_save_us_its_ideas_will) - [Rust wont save us, but its ideas will](https://glitchbyte.io/posts/rust-wont-save-us/)
 * [2024-02-08, 14:10:17](https://lobste.rs/s/ty0crv/announcing_rust_1_76_0) - [Announcing Rust 1.76.0](https://blog.rust-lang.org/2024/02/08/Rust-1.76.0.html)
 * [2024-02-08, 06:59:14](https://lobste.rs/s/kcju3o/how_levels_fyi_scaled_millions_users_with) - [How Levels.fyi scaled to millions of users with Google Sheets as a backend](https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html)
 * [2024-02-08, 06:58:05](https://lobste.rs/s/gwlpuu/just_enough_cors_not_get_stuck) - [Just enough CORS to not get stuck](https://blog.meain.io/2024/just-enough-cors/)
