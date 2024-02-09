@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-09, 15:17:27](https://lobste.rs/s/jj2ju4/what_s_new_postgres_16_query_planner) - [What’s new in the Postgres 16 query planner / optimizer](https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/)
 * [2024-02-09, 12:47:19](https://lobste.rs/s/okrril/chatgpt_have_killed_my_passion_project_i) - [ChatGPT have killed my passion project and I am fine](https://zverok.space/blog/2024-02-09-gpt.html)
 * [2024-02-09, 11:07:09](https://lobste.rs/s/2zavii/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/2zavii/what_are_you_doing_this_weekend)
 * [2024-02-09, 09:58:55](https://lobste.rs/s/3s1jea/spectrum_analyser_zx_spectrum_reverse) - [Spectrum Analyser (ZX Spectrum reverse engineering tool)](https://colourclash.co.uk/spectrum-analyser/)
@@ -12,7 +13,6 @@
 * [2024-02-08, 23:12:37](https://lobste.rs/s/ysam1j/why_elixir_is_best_language_for_building) - [Why Elixir Is the Best Language for Building a Bootstrapped, B2B SaaS in 2024](https://www.sleepeasy.app/2024/01/21/elixir-best-language-for-bootstrapped-b2b-saas/)
 * [2024-02-08, 21:54:21](https://lobste.rs/s/oljyid/multics_as400_dps8m_on_ibm_pase_for_i_os_400) - [Multics + AS400：DPS8M on IBM PASE for i (OS/400)](https://dps8m.gitlab.io/blog/posts/20240207_DPS8M_AS400/)
 * [2024-02-08, 21:49:08](https://lobste.rs/s/imfbha/strings_do_too_many_things) - [Strings do too many things](https://buttondown.email/hillelwayne/archive/strings-do-too-many-things/)
-* [2024-02-08, 21:34:49](https://lobste.rs/s/mc4mrr/what_s_inside_linux_kernel_core_dump) - [What's Inside a Linux Kernel Core Dump](https://blogs.oracle.com/linux/post/whats-inside-a-linux-kernel-core-dump)
 * [2024-02-08, 18:54:47](https://lobste.rs/s/uxuly4/opml_is_underrated) - [OPML is underrated](https://kmaasrud.com/blog/opml-is-underrated.html)
 * [2024-02-08, 18:49:45](https://lobste.rs/s/crtqzu/introducing_sudo_for_windows) - [Introducing Sudo for Windows](https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/)
 * [2024-02-08, 18:16:45](https://lobste.rs/s/z9rb82/i_don_t_care_about_memory_safety) - [I don't care about memory safety](https://www.linkedin.com/pulse/i-dont-care-memory-safety-david-chisnall/)
