@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-09](index.md)
 
+* [2024-02-09, 12:47:19](https://lobste.rs/s/okrril/chatgpt_have_killed_my_passion_project_i) - [ChatGPT have killed my passion project and I am fine](https://zverok.space/blog/2024-02-09-gpt.html)
 * [2024-02-09, 11:07:09](https://lobste.rs/s/2zavii/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/2zavii/what_are_you_doing_this_weekend)
 * [2024-02-09, 09:58:55](https://lobste.rs/s/3s1jea/spectrum_analyser_zx_spectrum_reverse) - [Spectrum Analyser (ZX Spectrum reverse engineering tool)](https://colourclash.co.uk/spectrum-analyser/)
 * [2024-02-09, 09:36:03](https://lobste.rs/s/b1r0jv/go_can_only_read_1gib_per_read_call) - [Go can only read 1GiB per Read call](https://kgrz.io/go-file-read-max-size-buffer.html)
