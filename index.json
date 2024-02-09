@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-09, 21:07:49",
+      "https://lobste.rs/s/azjmym/resilience_chaos_engineering"
+    ],
+    [
+      "Resilience and chaos engineering",
+      "https://devblogs.microsoft.com/dotnet/resilience-and-chaos-engineering/"
+    ]
+  ],
+  [
+    [
+      "2024-02-09, 21:06:30",
+      "https://lobste.rs/s/niqubh/goody_2_world_s_most_responsible_ai_model"
+    ],
+    [
+      "GOODY-2 | The world's most responsible AI model",
+      "https://www.goody2.ai/"
+    ]
+  ],
+  [
+    [
       "2024-02-09, 20:41:14",
       "https://lobste.rs/s/nmvcdk/why_bloat_is_still_software_s_biggest"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2024-02-09, 09:58:55",
-      "https://lobste.rs/s/3s1jea/spectrum_analyser_zx_spectrum_reverse"
-    ],
-    [
-      "Spectrum Analyser (ZX Spectrum reverse engineering tool)",
-      "https://colourclash.co.uk/spectrum-analyser/"
-    ]
-  ],
-  [
-    [
       "2024-02-09, 09:36:03",
       "https://lobste.rs/s/b1r0jv/go_can_only_read_1gib_per_read_call"
     ],
@@ -227,16 +237,6 @@
     [
       "I don't care about memory safety",
       "https://www.linkedin.com/pulse/i-dont-care-memory-safety-david-chisnall/"
-    ]
-  ],
-  [
-    [
-      "2024-02-08, 17:34:04",
-      "https://lobste.rs/s/eqekic/swww_solution_your_wayland_wallpaper"
-    ],
-    [
-      "swww: A Solution to your Wayland Wallpaper Woes",
-      "https://github.com/LGFae/swww"
     ]
   ],
   [
