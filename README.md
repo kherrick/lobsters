@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-09, 08:17:14](https://lobste.rs/s/9lx6fz/speech_text_gemini_speech) - [Speech To Text To Gemini To Speech](https://www.biodigitaljazz.net/blog/STTTGTS.html)
 * [2024-02-09, 07:57:32](https://lobste.rs/s/pgahrv/almost_every_infrastructure_decision_i) - [(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
 * [2024-02-09, 06:36:37](https://lobste.rs/s/5eizrx/first_four_val_town_runtimes) - [The first four Val Town runtimes](https://blog.val.town/blog/first-four-val-town-runtimes/)
 * [2024-02-09, 05:37:37](https://lobste.rs/s/a5ojou/using_shape_up_what_works_what_we_ve) - [Using Shape Up - What Works, What We've Changed, What's Next](https://exploring-better-ways.bellroy.com/using-shape-up-what-works-what-weve-changed-whats-next.html)
@@ -16,7 +17,6 @@
 * [2024-02-08, 17:34:04](https://lobste.rs/s/eqekic/swww_solution_your_wayland_wallpaper) - [swww: A Solution to your Wayland Wallpaper Woes](https://github.com/LGFae/swww)
 * [2024-02-08, 17:14:51](https://lobste.rs/s/8suoyg/connect_why_are_you_so_slow) - [connect() - why are you so slow?](https://blog.cloudflare.com/linux-transport-protocol-port-selection-performance/)
 * [2024-02-08, 16:44:14](https://lobste.rs/s/dmllmk/rust_wont_save_us_its_ideas_will) - [Rust wont save us, but its ideas will](https://glitchbyte.io/posts/rust-wont-save-us/)
-* [2024-02-08, 16:17:20](https://lobste.rs/s/fzanve/stract_independent_open_search) - [Stract: Independent and Open Search](https://stract.com/)
 * [2024-02-08, 16:01:28](https://lobste.rs/s/iwhwkd/emirb_run_irb_your_browser) - [emirb - Run IRB in your browser](https://mame.github.io/emirb/)
 * [2024-02-08, 14:10:17](https://lobste.rs/s/ty0crv/announcing_rust_1_76_0) - [Announcing Rust 1.76.0](https://blog.rust-lang.org/2024/02/08/Rust-1.76.0.html)
 * [2024-02-08, 06:59:14](https://lobste.rs/s/kcju3o/how_levels_fyi_scaled_millions_users_with) - [How Levels.fyi scaled to millions of users with Google Sheets as a backend](https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-09](index.md)
 
+* [2024-02-09, 08:17:14](https://lobste.rs/s/9lx6fz/speech_text_gemini_speech) - [Speech To Text To Gemini To Speech](https://www.biodigitaljazz.net/blog/STTTGTS.html)
 * [2024-02-09, 07:57:32](https://lobste.rs/s/pgahrv/almost_every_infrastructure_decision_i) - [(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
 * [2024-02-09, 06:36:37](https://lobste.rs/s/5eizrx/first_four_val_town_runtimes) - [The first four Val Town runtimes](https://blog.val.town/blog/first-four-val-town-runtimes/)
 * [2024-02-09, 05:37:37](https://lobste.rs/s/a5ojou/using_shape_up_what_works_what_we_ve) - [Using Shape Up - What Works, What We've Changed, What's Next](https://exploring-better-ways.bellroy.com/using-shape-up-what-works-what-weve-changed-whats-next.html)
