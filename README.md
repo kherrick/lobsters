@@ -16,6 +16,7 @@
 * [2024-02-08, 17:34:04](https://lobste.rs/s/eqekic/swww_solution_your_wayland_wallpaper) - [swww: A Solution to your Wayland Wallpaper Woes](https://github.com/LGFae/swww)
 * [2024-02-08, 17:14:51](https://lobste.rs/s/8suoyg/connect_why_are_you_so_slow) - [connect() - why are you so slow?](https://blog.cloudflare.com/linux-transport-protocol-port-selection-performance/)
 * [2024-02-08, 16:44:14](https://lobste.rs/s/dmllmk/rust_wont_save_us_its_ideas_will) - [Rust wont save us, but its ideas will](https://glitchbyte.io/posts/rust-wont-save-us/)
+* [2024-02-08, 16:17:20](https://lobste.rs/s/fzanve/stract_independent_open_search) - [Stract: Independent and Open Search](https://stract.com/)
 * [2024-02-08, 16:01:28](https://lobste.rs/s/iwhwkd/emirb_run_irb_your_browser) - [emirb - Run IRB in your browser](https://mame.github.io/emirb/)
 * [2024-02-08, 14:10:17](https://lobste.rs/s/ty0crv/announcing_rust_1_76_0) - [Announcing Rust 1.76.0](https://blog.rust-lang.org/2024/02/08/Rust-1.76.0.html)
 * [2024-02-08, 06:59:14](https://lobste.rs/s/kcju3o/how_levels_fyi_scaled_millions_users_with) - [How Levels.fyi scaled to millions of users with Google Sheets as a backend](https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html)
@@ -24,7 +25,6 @@
 * [2024-02-08, 04:45:57](https://lobste.rs/s/0t5swr/journey_recovering_my_genuine_play) - [A journey recovering my genuine play-through of Parasite Eve on PS1](https://ecc-comp.blogspot.com/2024/02/a-journey-recovering-my-genuine.html)
 * [2024-02-08, 03:36:34](https://lobste.rs/s/57aktx/distributed_systems_reading_list) - [A Distributed Systems Reading List](https://ferd.ca/a-distributed-systems-reading-list.html)
 * [2024-02-08, 02:29:49](https://lobste.rs/s/tjrbzv/thinking_forth_language_philosophy_for) - [Thinking Forth - A Language And Philosophy For Solving Problems](https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf)
-* [2024-02-07, 21:45:39](https://lobste.rs/s/swmlua/beyond_1_mb_barrier_dos) - [Beyond the 1 MB barrier in DOS](https://blogsystem5.substack.com/p/beyond-the-1-mb-barrier-in-dos)
 
 ## [Archives](archives/index.md)
 
