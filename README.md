@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-02-09, 16:53:52](https://lobste.rs/s/yakjaw/sudo_on_windows_quick_rundown) - [Sudo On Windows a Quick Rundown](https://www.tiraniddo.dev/2024/02/sudo-on-windows-quick-rundown.html)
-* [2024-02-09, 16:48:31](https://lobste.rs/s/gzvdfc/fosdem_2024_opening_up_communication) - [FOSDEM 2024 - Opening up communication silos with Matrix 2.0 and the EU Digital Markets Act](https://www.youtube.com/watch?v=s5BrVVf0B1I)
+* [2024-02-09, 16:48:31](https://lobste.rs/s/gzvdfc/opening_up_communication_silos_with) - [Opening up communication silos with Matrix 2.0 and the EU Digital Markets Act](https://www.youtube.com/watch?v=s5BrVVf0B1I)
 * [2024-02-09, 15:57:31](https://lobste.rs/s/htmt3k/add_coffee_stains_latex_documents) - [Add coffee stains to LaTeX documents](https://ctan.org/pkg/coffeestains)
 * [2024-02-09, 15:38:41](https://lobste.rs/s/c8g7lq/frontlink_react_realtime_collaboration) - [Frontlink: React realtime collaboration and updates with your backend](https://github.com/danthegoodman1/frontlink)
 * [2024-02-09, 15:17:27](https://lobste.rs/s/jj2ju4/what_s_new_postgres_16_query_planner) - [What’s new in the Postgres 16 query planner / optimizer](https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/)
