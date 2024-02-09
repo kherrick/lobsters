@@ -7,6 +7,7 @@
 * [2024-02-08, 21:54:21](https://lobste.rs/s/oljyid/multics_as400_dps8m_on_ibm_pase_for_i_os_400) - [Multics + AS400：DPS8M on IBM PASE for i (OS/400)](https://dps8m.gitlab.io/blog/posts/20240207_DPS8M_AS400/)
 * [2024-02-08, 21:49:08](https://lobste.rs/s/imfbha/strings_do_too_many_things) - [Strings do too many things](https://buttondown.email/hillelwayne/archive/strings-do-too-many-things/)
 * [2024-02-08, 21:35:26](https://lobste.rs/s/qq3vqf/porting_libyaml_safe_rust_some_thoughts) - [Porting libyaml to Safe Rust: Some Thoughts](https://simonask.github.io/libyaml-safer/)
+* [2024-02-08, 21:34:49](https://lobste.rs/s/mc4mrr/what_s_inside_linux_kernel_core_dump) - [What's Inside a Linux Kernel Core Dump](https://blogs.oracle.com/linux/post/whats-inside-a-linux-kernel-core-dump)
 * [2024-02-08, 18:54:47](https://lobste.rs/s/uxuly4/opml_is_underrated) - [OPML is underrated](https://kmaasrud.com/blog/opml-is-underrated.html)
 * [2024-02-08, 18:49:45](https://lobste.rs/s/crtqzu/introducing_sudo_for_windows) - [Introducing Sudo for Windows](https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/)
 * [2024-02-08, 18:25:27](https://lobste.rs/s/lfw3xx/allocation_free_decoding_with_traits) - [Allocation-free decoding with traits and high-ranked trait bounds](https://ferrous-systems.com/blog/rustls-borrow-checker-p2/)
@@ -24,7 +25,6 @@
 * [2024-02-08, 03:36:34](https://lobste.rs/s/57aktx/distributed_systems_reading_list) - [A Distributed Systems Reading List](https://ferd.ca/a-distributed-systems-reading-list.html)
 * [2024-02-08, 02:29:49](https://lobste.rs/s/tjrbzv/thinking_forth_language_philosophy_for) - [Thinking Forth - A Language And Philosophy For Solving Problems](https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf)
 * [2024-02-07, 21:45:39](https://lobste.rs/s/swmlua/beyond_1_mb_barrier_dos) - [Beyond the 1 MB barrier in DOS](https://blogsystem5.substack.com/p/beyond-the-1-mb-barrier-in-dos)
-* [2024-02-07, 14:44:50](https://lobste.rs/s/hws1cu/rust_won_t_save_us_analysis_2023_s_known) - [Rust Won’t Save Us: An Analysis of 2023’s Known Exploited Vulnerabilities](https://www.horizon3.ai/analysis-of-2023s-known-exploited-vulnerabilities/)
 
 ## [Archives](archives/index.md)
 
