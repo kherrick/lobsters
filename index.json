@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-09, 05:37:37",
+      "https://lobste.rs/s/a5ojou/using_shape_up_what_works_what_we_ve"
+    ],
+    [
+      "Using Shape Up - What Works, What We've Changed, What's Next",
+      "https://exploring-better-ways.bellroy.com/using-shape-up-what-works-what-weve-changed-whats-next.html"
+    ]
+  ],
+  [
+    [
       "2024-02-09, 02:13:22",
       "https://lobste.rs/s/argq0x/stateful_docs_site_assistants_are"
     ],
@@ -57,16 +67,6 @@
     [
       "Strings do too many things",
       "https://buttondown.email/hillelwayne/archive/strings-do-too-many-things/"
-    ]
-  ],
-  [
-    [
-      "2024-02-08, 21:35:26",
-      "https://lobste.rs/s/qq3vqf/porting_libyaml_safe_rust_some_thoughts"
-    ],
-    [
-      "Porting libyaml to Safe Rust: Some Thoughts",
-      "https://simonask.github.io/libyaml-safer/"
     ]
   ],
   [
