@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-09, 07:57:32](https://lobste.rs/s/pgahrv/almost_every_infrastructure_decision_i) - [(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
 * [2024-02-09, 06:36:37](https://lobste.rs/s/5eizrx/first_four_val_town_runtimes) - [The first four Val Town runtimes](https://blog.val.town/blog/first-four-val-town-runtimes/)
 * [2024-02-09, 05:37:37](https://lobste.rs/s/a5ojou/using_shape_up_what_works_what_we_ve) - [Using Shape Up - What Works, What We've Changed, What's Next](https://exploring-better-ways.bellroy.com/using-shape-up-what-works-what-weve-changed-whats-next.html)
 * [2024-02-09, 02:13:22](https://lobste.rs/s/argq0x/stateful_docs_site_assistants_are) - [Stateful docs site assistants are promising](https://technicalwriting.tools/posts/stateful-assistants/)
@@ -8,7 +9,6 @@
 * [2024-02-08, 23:12:37](https://lobste.rs/s/ysam1j/why_elixir_is_best_language_for_building) - [Why Elixir Is the Best Language for Building a Bootstrapped, B2B SaaS in 2024](https://www.sleepeasy.app/2024/01/21/elixir-best-language-for-bootstrapped-b2b-saas/)
 * [2024-02-08, 21:54:21](https://lobste.rs/s/oljyid/multics_as400_dps8m_on_ibm_pase_for_i_os_400) - [Multics + AS400：DPS8M on IBM PASE for i (OS/400)](https://dps8m.gitlab.io/blog/posts/20240207_DPS8M_AS400/)
 * [2024-02-08, 21:49:08](https://lobste.rs/s/imfbha/strings_do_too_many_things) - [Strings do too many things](https://buttondown.email/hillelwayne/archive/strings-do-too-many-things/)
-* [2024-02-08, 21:34:49](https://lobste.rs/s/mc4mrr/what_s_inside_linux_kernel_core_dump) - [What's Inside a Linux Kernel Core Dump](https://blogs.oracle.com/linux/post/whats-inside-a-linux-kernel-core-dump)
 * [2024-02-08, 18:54:47](https://lobste.rs/s/uxuly4/opml_is_underrated) - [OPML is underrated](https://kmaasrud.com/blog/opml-is-underrated.html)
 * [2024-02-08, 18:49:45](https://lobste.rs/s/crtqzu/introducing_sudo_for_windows) - [Introducing Sudo for Windows](https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/)
 * [2024-02-08, 18:25:27](https://lobste.rs/s/lfw3xx/allocation_free_decoding_with_traits) - [Allocation-free decoding with traits and high-ranked trait bounds](https://ferrous-systems.com/blog/rustls-borrow-checker-p2/)
