@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-09, 02:13:22](https://lobste.rs/s/argq0x/stateful_docs_site_assistants_are) - [Stateful docs site assistants are promising](https://technicalwriting.tools/posts/stateful-assistants/)
 * [2024-02-09, 00:02:07](https://lobste.rs/s/856y3s/introducing_word_for_openbsd) - [Introducing Word for OpenBSD](https://marc.info/?l=openbsd-tech&m=170742832804260&w=2)
 * [2024-02-08, 23:42:26](https://lobste.rs/s/rpmwmg/adding_utf_8_variable_width_string_dtype) - [Adding a UTF-8 variable-width string DType to NumPy](https://numpy.org/neps/nep-0055-string_dtype.html)
 * [2024-02-08, 23:12:37](https://lobste.rs/s/ysam1j/why_elixir_is_best_language_for_building) - [Why Elixir Is the Best Language for Building a Bootstrapped, B2B SaaS in 2024](https://www.sleepeasy.app/2024/01/21/elixir-best-language-for-bootstrapped-b2b-saas/)
@@ -16,7 +17,6 @@
 * [2024-02-08, 16:17:20](https://lobste.rs/s/fzanve/stract_independent_open_search) - [Stract: Independent and Open Search](https://stract.com/)
 * [2024-02-08, 16:01:28](https://lobste.rs/s/iwhwkd/emirb_run_irb_your_browser) - [emirb - Run IRB in your browser](https://mame.github.io/emirb/)
 * [2024-02-08, 14:10:17](https://lobste.rs/s/ty0crv/announcing_rust_1_76_0) - [Announcing Rust 1.76.0](https://blog.rust-lang.org/2024/02/08/Rust-1.76.0.html)
-* [2024-02-08, 08:29:35](https://lobste.rs/s/cyj25v/context_control_go) - [Context Control in Go](https://zenhorace.dev/blog/context-control-go/)
 * [2024-02-08, 06:59:14](https://lobste.rs/s/kcju3o/how_levels_fyi_scaled_millions_users_with) - [How Levels.fyi scaled to millions of users with Google Sheets as a backend](https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html)
 * [2024-02-08, 06:58:05](https://lobste.rs/s/gwlpuu/just_enough_cors_not_get_stuck) - [Just enough CORS to not get stuck](https://blog.meain.io/2024/just-enough-cors/)
 * [2024-02-08, 05:03:07](https://lobste.rs/s/rvo5bz/how_gnu_c_library_handles_backward) - [How the GNU C Library handles backward compatibility](https://developers.redhat.com/blog/2019/08/01/how-the-gnu-c-library-handles-backward-compatibility#understand_compatibility_s_limits)
