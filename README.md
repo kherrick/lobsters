@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-02-09, 21:07:49](https://lobste.rs/s/azjmym/resilience_chaos_engineering) - [Resilience and chaos engineering](https://devblogs.microsoft.com/dotnet/resilience-and-chaos-engineering/)
-* [2024-02-09, 21:06:30](https://lobste.rs/s/niqubh/goody_2_world_s_most_responsible_ai_model) - [GOODY-2 | The world's most responsible AI model](https://www.goody2.ai/)
 * [2024-02-09, 20:41:14](https://lobste.rs/s/nmvcdk/why_bloat_is_still_software_s_biggest) - [Why Bloat Is Still Software’s Biggest Vulnerability - IEEE Spectrum](https://spectrum.ieee.org/lean-software-development)
 * [2024-02-09, 19:34:53](https://lobste.rs/s/ozdofw/free_ad_free_non_profit_search_engine) - [A free, ad-free, non-profit search engine](https://codeberg.org/mwmbl/mwmbl)
 * [2024-02-09, 18:17:44](https://lobste.rs/s/lunvg8/too_dangerous_for_c) - [Too dangerous for C++](https://blog.dureuill.net/articles/too-dangerous-cpp/)
@@ -13,6 +12,7 @@
 * [2024-02-09, 15:17:27](https://lobste.rs/s/jj2ju4/what_s_new_postgres_16_query_planner) - [What’s new in the Postgres 16 query planner / optimizer](https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/)
 * [2024-02-09, 12:47:19](https://lobste.rs/s/okrril/chatgpt_have_killed_my_passion_project_i) - [ChatGPT have killed my passion project and I am fine](https://zverok.space/blog/2024-02-09-gpt.html)
 * [2024-02-09, 11:07:09](https://lobste.rs/s/2zavii/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/2zavii/what_are_you_doing_this_weekend)
+* [2024-02-09, 09:58:55](https://lobste.rs/s/3s1jea/spectrum_analyser_zx_spectrum_reverse) - [Spectrum Analyser (ZX Spectrum reverse engineering tool)](https://colourclash.co.uk/spectrum-analyser/)
 * [2024-02-09, 09:36:03](https://lobste.rs/s/b1r0jv/go_can_only_read_1gib_per_read_call) - [Go can only read 1GiB per Read call](https://kgrz.io/go-file-read-max-size-buffer.html)
 * [2024-02-09, 08:17:14](https://lobste.rs/s/9lx6fz/speech_text_gemini_speech) - [Speech To Text To Gemini To Speech](https://www.biodigitaljazz.net/blog/STTTGTS.html)
 * [2024-02-09, 07:57:32](https://lobste.rs/s/pgahrv/almost_every_infrastructure_decision_i) - [(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
