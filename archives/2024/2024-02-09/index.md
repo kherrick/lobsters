@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-09](index.md)
 
+* [2024-02-09, 19:34:53](https://lobste.rs/s/ozdofw/free_ad_free_non_profit_search_engine) - [A free, ad-free, non-profit search engine](https://codeberg.org/mwmbl/mwmbl)
 * [2024-02-09, 18:17:44](https://lobste.rs/s/lunvg8/too_dangerous_for_c) - [Too dangerous for C++](https://blog.dureuill.net/articles/too-dangerous-cpp/)
 * [2024-02-09, 18:13:20](https://lobste.rs/s/psugbm/thoughts_on_tech_employment) - [Thoughts on Tech Employment](https://ma.tt/2024/02/thoughts-on-tech-employment/)
 * [2024-02-09, 17:36:44](https://lobste.rs/s/fc6dht/human_element_ai_driven_testing) - [The Human Element in AI-Driven Testing Strategies](https://www.functionize.com/blog/the-human-element-in-ai-driven-testing-strategies)

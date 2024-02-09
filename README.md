@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-09, 19:34:53](https://lobste.rs/s/ozdofw/free_ad_free_non_profit_search_engine) - [A free, ad-free, non-profit search engine](https://codeberg.org/mwmbl/mwmbl)
 * [2024-02-09, 18:17:44](https://lobste.rs/s/lunvg8/too_dangerous_for_c) - [Too dangerous for C++](https://blog.dureuill.net/articles/too-dangerous-cpp/)
 * [2024-02-09, 17:36:44](https://lobste.rs/s/fc6dht/human_element_ai_driven_testing) - [The Human Element in AI-Driven Testing Strategies](https://www.functionize.com/blog/the-human-element-in-ai-driven-testing-strategies)
 * [2024-02-09, 16:53:52](https://lobste.rs/s/yakjaw/sudo_on_windows_quick_rundown) - [Sudo On Windows a Quick Rundown](https://www.tiraniddo.dev/2024/02/sudo-on-windows-quick-rundown.html)
@@ -24,7 +25,6 @@
 * [2024-02-08, 17:34:04](https://lobste.rs/s/eqekic/swww_solution_your_wayland_wallpaper) - [swww: A Solution to your Wayland Wallpaper Woes](https://github.com/LGFae/swww)
 * [2024-02-08, 14:10:17](https://lobste.rs/s/ty0crv/announcing_rust_1_76_0) - [Announcing Rust 1.76.0](https://blog.rust-lang.org/2024/02/08/Rust-1.76.0.html)
 * [2024-02-08, 06:58:05](https://lobste.rs/s/gwlpuu/just_enough_cors_not_get_stuck) - [Just enough CORS to not get stuck](https://blog.meain.io/2024/just-enough-cors/)
-* [2024-02-08, 04:45:57](https://lobste.rs/s/0t5swr/journey_recovering_my_genuine_play) - [A journey recovering my genuine play-through of Parasite Eve on PS1](https://ecc-comp.blogspot.com/2024/02/a-journey-recovering-my-genuine.html)
 
 ## [Archives](archives/index.md)
 
