@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-09](index.md)
 
+* [2024-02-09, 21:07:49](https://lobste.rs/s/azjmym/resilience_chaos_engineering) - [Resilience and chaos engineering](https://devblogs.microsoft.com/dotnet/resilience-and-chaos-engineering/)
+* [2024-02-09, 21:06:30](https://lobste.rs/s/niqubh/goody_2_world_s_most_responsible_ai_model) - [GOODY-2 | The world's most responsible AI model](https://www.goody2.ai/)
 * [2024-02-09, 20:41:14](https://lobste.rs/s/nmvcdk/why_bloat_is_still_software_s_biggest) - [Why Bloat Is Still Software’s Biggest Vulnerability - IEEE Spectrum](https://spectrum.ieee.org/lean-software-development)
 * [2024-02-09, 19:34:53](https://lobste.rs/s/ozdofw/free_ad_free_non_profit_search_engine) - [A free, ad-free, non-profit search engine](https://codeberg.org/mwmbl/mwmbl)
 * [2024-02-09, 18:17:44](https://lobste.rs/s/lunvg8/too_dangerous_for_c) - [Too dangerous for C++](https://blog.dureuill.net/articles/too-dangerous-cpp/)
