@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2024-02-08, 21:34:49",
+      "https://lobste.rs/s/mc4mrr/what_s_inside_linux_kernel_core_dump"
+    ],
+    [
+      "What's Inside a Linux Kernel Core Dump",
+      "https://blogs.oracle.com/linux/post/whats-inside-a-linux-kernel-core-dump"
+    ]
+  ],
+  [
+    [
       "2024-02-08, 18:54:47",
       "https://lobste.rs/s/uxuly4/opml_is_underrated"
     ],
@@ -237,16 +247,6 @@
     [
       "Beyond the 1 MB barrier in DOS",
       "https://blogsystem5.substack.com/p/beyond-the-1-mb-barrier-in-dos"
-    ]
-  ],
-  [
-    [
-      "2024-02-07, 14:44:50",
-      "https://lobste.rs/s/hws1cu/rust_won_t_save_us_analysis_2023_s_known"
-    ],
-    [
-      "Rust Won’t Save Us: An Analysis of 2023’s Known Exploited Vulnerabilities",
-      "https://www.horizon3.ai/analysis-of-2023s-known-exploited-vulnerabilities/"
     ]
   ]
 ]
