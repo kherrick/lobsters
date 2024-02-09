@@ -8,6 +8,7 @@
 * [2024-02-09, 23:16:30](https://lobste.rs/s/lz1699/comonadic_builders) - [Comonadic builders](https://chshersh.com/posts/2019-03-25-comonadic-builders)
 * [2024-02-09, 21:43:06](https://lobste.rs/s/lzwa1j/how_i_write_http_services_go_after_13_years) - [How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
 * [2024-02-09, 21:07:49](https://lobste.rs/s/azjmym/resilience_chaos_engineering) - [Resilience and chaos engineering](https://devblogs.microsoft.com/dotnet/resilience-and-chaos-engineering/)
+* [2024-02-09, 21:06:30](https://lobste.rs/s/niqubh/world_s_most_responsible_ai_model) - [The world's most responsible AI model](https://www.goody2.ai/)
 * [2024-02-09, 21:06:30](https://lobste.rs/s/niqubh/goody_2_world_s_most_responsible_ai_model) - [GOODY-2 | The world's most responsible AI model](https://www.goody2.ai/)
 * [2024-02-09, 20:41:14](https://lobste.rs/s/nmvcdk/why_bloat_is_still_software_s_biggest) - [Why Bloat Is Still Software’s Biggest Vulnerability - IEEE Spectrum](https://spectrum.ieee.org/lean-software-development)
 * [2024-02-09, 19:34:53](https://lobste.rs/s/ozdofw/free_ad_free_non_profit_search_engine) - [A free, ad-free, non-profit search engine](https://codeberg.org/mwmbl/mwmbl)
