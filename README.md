@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-09, 09:36:03](https://lobste.rs/s/b1r0jv/go_can_only_read_1gib_per_read_call) - [Go can only read 1GiB per Read call](https://kgrz.io/go-file-read-max-size-buffer.html)
 * [2024-02-09, 08:17:14](https://lobste.rs/s/9lx6fz/speech_text_gemini_speech) - [Speech To Text To Gemini To Speech](https://www.biodigitaljazz.net/blog/STTTGTS.html)
 * [2024-02-09, 07:57:32](https://lobste.rs/s/pgahrv/almost_every_infrastructure_decision_i) - [(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
 * [2024-02-09, 06:36:37](https://lobste.rs/s/5eizrx/first_four_val_town_runtimes) - [The first four Val Town runtimes](https://blog.val.town/blog/first-four-val-town-runtimes/)
@@ -12,7 +13,6 @@
 * [2024-02-08, 21:49:08](https://lobste.rs/s/imfbha/strings_do_too_many_things) - [Strings do too many things](https://buttondown.email/hillelwayne/archive/strings-do-too-many-things/)
 * [2024-02-08, 18:54:47](https://lobste.rs/s/uxuly4/opml_is_underrated) - [OPML is underrated](https://kmaasrud.com/blog/opml-is-underrated.html)
 * [2024-02-08, 18:49:45](https://lobste.rs/s/crtqzu/introducing_sudo_for_windows) - [Introducing Sudo for Windows](https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/)
-* [2024-02-08, 18:25:27](https://lobste.rs/s/lfw3xx/allocation_free_decoding_with_traits) - [Allocation-free decoding with traits and high-ranked trait bounds](https://ferrous-systems.com/blog/rustls-borrow-checker-p2/)
 * [2024-02-08, 18:16:45](https://lobste.rs/s/z9rb82/i_don_t_care_about_memory_safety) - [I don't care about memory safety](https://www.linkedin.com/pulse/i-dont-care-memory-safety-david-chisnall/)
 * [2024-02-08, 17:34:04](https://lobste.rs/s/eqekic/swww_solution_your_wayland_wallpaper) - [swww: A Solution to your Wayland Wallpaper Woes](https://github.com/LGFae/swww)
 * [2024-02-08, 17:14:51](https://lobste.rs/s/8suoyg/connect_why_are_you_so_slow) - [connect() - why are you so slow?](https://blog.cloudflare.com/linux-transport-protocol-port-selection-performance/)
