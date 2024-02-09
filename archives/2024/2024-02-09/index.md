@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-09](index.md)
 
+* [2024-02-09, 18:17:44](https://lobste.rs/s/lunvg8/too_dangerous_for_c) - [Too dangerous for C++](https://blog.dureuill.net/articles/too-dangerous-cpp/)
 * [2024-02-09, 18:13:20](https://lobste.rs/s/psugbm/thoughts_on_tech_employment) - [Thoughts on Tech Employment](https://ma.tt/2024/02/thoughts-on-tech-employment/)
 * [2024-02-09, 17:36:44](https://lobste.rs/s/fc6dht/human_element_ai_driven_testing) - [The Human Element in AI-Driven Testing Strategies](https://www.functionize.com/blog/the-human-element-in-ai-driven-testing-strategies)
 * [2024-02-09, 16:53:52](https://lobste.rs/s/yakjaw/sudo_on_windows_quick_rundown) - [Sudo On Windows a Quick Rundown](https://www.tiraniddo.dev/2024/02/sudo-on-windows-quick-rundown.html)
