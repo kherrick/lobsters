@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-09, 15:17:27",
+      "https://lobste.rs/s/jj2ju4/what_s_new_postgres_16_query_planner"
+    ],
+    [
+      "What’s new in the Postgres 16 query planner / optimizer",
+      "https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/"
+    ]
+  ],
+  [
+    [
       "2024-02-09, 12:47:19",
       "https://lobste.rs/s/okrril/chatgpt_have_killed_my_passion_project_i"
     ],
@@ -117,16 +127,6 @@
     [
       "Strings do too many things",
       "https://buttondown.email/hillelwayne/archive/strings-do-too-many-things/"
-    ]
-  ],
-  [
-    [
-      "2024-02-08, 21:34:49",
-      "https://lobste.rs/s/mc4mrr/what_s_inside_linux_kernel_core_dump"
-    ],
-    [
-      "What's Inside a Linux Kernel Core Dump",
-      "https://blogs.oracle.com/linux/post/whats-inside-a-linux-kernel-core-dump"
     ]
   ],
   [
