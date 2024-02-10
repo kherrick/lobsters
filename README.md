@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-10, 11:38:39](https://lobste.rs/s/pacpad/anemic_stack_traces_go) - [Anemic stack traces in Go](https://rednafi.com/go/anemic_stack_traces/)
 * [2024-02-10, 09:34:13](https://lobste.rs/s/ts2kgb/building_directx_shader_compiler_better) - [Building the DirectX shader compiler better than Microsoft?](https://devlog.hexops.com/2024/building-the-directx-shader-compiler-better-than-microsoft/)
 * [2024-02-10, 08:01:45](https://lobste.rs/s/63dcdm/fetch_user_keys_simple_tool_for_fetching) - [Fetch User Keys - simple tool for fetching SSH keys from different sources](https://git.sr.ht/~hauleth/fuk)
 * [2024-02-10, 04:52:39](https://lobste.rs/s/lwf4jv/pose_portable_s_expressions_pose_spec) - [pose: Portable S-expressions (POSE) spec and libs](https://github.com/s-expressions/pose)
@@ -13,7 +14,6 @@
 * [2024-02-09, 16:53:52](https://lobste.rs/s/yakjaw/sudo_on_windows_quick_rundown) - [Sudo On Windows a Quick Rundown](https://www.tiraniddo.dev/2024/02/sudo-on-windows-quick-rundown.html)
 * [2024-02-09, 16:48:31](https://lobste.rs/s/gzvdfc/opening_up_communication_silos_with) - [Opening up communication silos with Matrix 2.0 and the EU Digital Markets Act](https://www.youtube.com/watch?v=s5BrVVf0B1I)
 * [2024-02-09, 15:57:31](https://lobste.rs/s/htmt3k/add_coffee_stains_latex_documents) - [Add coffee stains to LaTeX documents](https://ctan.org/pkg/coffeestains)
-* [2024-02-09, 15:38:41](https://lobste.rs/s/c8g7lq/frontlink_react_realtime_collaboration) - [Frontlink: React realtime collaboration and updates with your backend](https://github.com/danthegoodman1/frontlink)
 * [2024-02-09, 15:17:27](https://lobste.rs/s/jj2ju4/what_s_new_postgres_16_query_planner) - [What’s new in the Postgres 16 query planner / optimizer](https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/)
 * [2024-02-09, 12:47:19](https://lobste.rs/s/okrril/chatgpt_have_killed_my_passion_project_i) - [ChatGPT have killed my passion project and I am fine](https://zverok.space/blog/2024-02-09-gpt.html)
 * [2024-02-09, 11:07:09](https://lobste.rs/s/2zavii/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/2zavii/what_are_you_doing_this_weekend)
