@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-10, 19:53:31](https://lobste.rs/s/l0kc68/lovebyte_party_live) - [Lovebyte Party live](https://www.twitch.tv/lovebytedemoparty)
 * [2024-02-10, 18:16:26](https://lobste.rs/s/fieikd/show_if_story_has_new_comments_homepage) - [Show if a story has new comments in homepage](https://lobste.rs/s/fieikd/show_if_story_has_new_comments_homepage)
 * [2024-02-10, 18:05:56](https://lobste.rs/s/ttmyvf/proposal_remove_average_karma_per_story) - [Proposal to Remove \"Average Karma Per Story/Comment\"](https://lobste.rs/s/ttmyvf/proposal_remove_average_karma_per_story)
 * [2024-02-10, 17:45:08](https://lobste.rs/s/rsvmcq/distributed_logical_time) - [Distributed Logical Time](https://longform.asmartbear.com/distributed-logical-time/)
@@ -17,7 +18,6 @@
 * [2024-02-09, 16:53:52](https://lobste.rs/s/yakjaw/sudo_on_windows_quick_rundown) - [Sudo On Windows a Quick Rundown](https://www.tiraniddo.dev/2024/02/sudo-on-windows-quick-rundown.html)
 * [2024-02-09, 16:48:31](https://lobste.rs/s/gzvdfc/opening_up_communication_silos_with) - [Opening up communication silos with Matrix 2.0 and the EU Digital Markets Act](https://www.youtube.com/watch?v=s5BrVVf0B1I)
 * [2024-02-09, 15:57:31](https://lobste.rs/s/htmt3k/add_coffee_stains_latex_documents) - [Add coffee stains to LaTeX documents](https://ctan.org/pkg/coffeestains)
-* [2024-02-09, 15:17:27](https://lobste.rs/s/jj2ju4/what_s_new_postgres_16_query_planner) - [What’s new in the Postgres 16 query planner / optimizer](https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/)
 * [2024-02-09, 12:47:19](https://lobste.rs/s/okrril/chatgpt_have_killed_my_passion_project_i) - [ChatGPT have killed my passion project and I am fine](https://zverok.space/blog/2024-02-09-gpt.html)
 * [2024-02-09, 09:36:03](https://lobste.rs/s/b1r0jv/go_can_only_read_1gib_per_read_call) - [Go can only read 1GiB per Read call](https://kgrz.io/go-file-read-max-size-buffer.html)
 * [2024-02-09, 07:57:32](https://lobste.rs/s/pgahrv/almost_every_infrastructure_decision_i) - [(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
