@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2024-02-10](index.md)
 
+* [2024-02-10, 08:01:45](https://lobste.rs/s/63dcdm/fetch_user_keys_simple_tool_for_fetching) - [Fetch User Keys - simple tool for fetching SSH keys from different sources](https://git.sr.ht/~hauleth/fuk)
 * [2024-02-10, 04:52:39](https://lobste.rs/s/lwf4jv/pose_portable_s_expressions_pose_spec) - [pose: Portable S-expressions (POSE) spec and libs](https://github.com/s-expressions/pose)
 * [2024-02-10, 01:54:30](https://lobste.rs/s/wqjed8/buffer_overflow_vulnerabilities_kitty) - [Buffer Overflow Vulnerabilities in KiTTY](https://blog.defcesco.io/CVE-2024-25003-CVE-2024-25004)
