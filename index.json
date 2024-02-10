@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-10, 19:53:31",
+      "https://lobste.rs/s/l0kc68/lovebyte_party_live"
+    ],
+    [
+      "Lovebyte Party live",
+      "https://www.twitch.tv/lovebytedemoparty"
+    ]
+  ],
+  [
+    [
       "2024-02-10, 18:16:26",
       "https://lobste.rs/s/fieikd/show_if_story_has_new_comments_homepage"
     ],
@@ -167,16 +177,6 @@
     [
       "Add coffee stains to LaTeX documents",
       "https://ctan.org/pkg/coffeestains"
-    ]
-  ],
-  [
-    [
-      "2024-02-09, 15:17:27",
-      "https://lobste.rs/s/jj2ju4/what_s_new_postgres_16_query_planner"
-    ],
-    [
-      "What’s new in the Postgres 16 query planner / optimizer",
-      "https://www.citusdata.com/blog/2024/02/08/whats-new-in-postgres-16-query-planner-optimizer/"
     ]
   ],
   [
