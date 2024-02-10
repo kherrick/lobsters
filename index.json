@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-10, 18:16:26",
+      "https://lobste.rs/s/fieikd/show_if_story_has_new_comments_homepage"
+    ],
+    [
+      "Show if a story has new comments in homepage",
+      "https://lobste.rs/s/fieikd/show_if_story_has_new_comments_homepage"
+    ]
+  ],
+  [
+    [
       "2024-02-10, 18:05:56",
       "https://lobste.rs/s/ttmyvf/proposal_remove_average_karma_per_story"
     ],
@@ -107,16 +117,6 @@
     [
       "How I write HTTP services in Go after 13 years",
       "https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/"
-    ]
-  ],
-  [
-    [
-      "2024-02-09, 21:06:30",
-      "https://lobste.rs/s/niqubh/world_s_most_responsible_ai_model"
-    ],
-    [
-      "The world's most responsible AI model",
-      "https://www.goody2.ai/"
     ]
   ],
   [
