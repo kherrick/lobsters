@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-10, 12:41:04](https://lobste.rs/s/75afaf/optimizing_pext_perfect_hash_function) - [Optimizing the pext perfect hash function](https://xoranth.net/verb-parse/)
 * [2024-02-10, 11:38:39](https://lobste.rs/s/pacpad/anemic_stack_traces_go) - [Anemic stack traces in Go](https://rednafi.com/go/anemic_stack_traces/)
 * [2024-02-10, 09:34:13](https://lobste.rs/s/ts2kgb/building_directx_shader_compiler_better) - [Building the DirectX shader compiler better than Microsoft?](https://devlog.hexops.com/2024/building-the-directx-shader-compiler-better-than-microsoft/)
 * [2024-02-10, 08:01:45](https://lobste.rs/s/63dcdm/fetch_user_keys_simple_tool_for_fetching) - [Fetch User Keys - simple tool for fetching SSH keys from different sources](https://git.sr.ht/~hauleth/fuk)
@@ -20,7 +21,6 @@
 * [2024-02-09, 09:36:03](https://lobste.rs/s/b1r0jv/go_can_only_read_1gib_per_read_call) - [Go can only read 1GiB per Read call](https://kgrz.io/go-file-read-max-size-buffer.html)
 * [2024-02-09, 07:57:32](https://lobste.rs/s/pgahrv/almost_every_infrastructure_decision_i) - [(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
 * [2024-02-09, 05:37:37](https://lobste.rs/s/a5ojou/using_shape_up_what_works_what_we_ve) - [Using Shape Up - What Works, What We've Changed, What's Next](https://exploring-better-ways.bellroy.com/using-shape-up-what-works-what-weve-changed-whats-next.html)
-* [2024-02-09, 00:02:07](https://lobste.rs/s/856y3s/introducing_word_for_openbsd) - [Introducing Word for OpenBSD](https://marc.info/?l=openbsd-tech&m=170742832804260&w=2)
 * [2024-02-08, 23:12:37](https://lobste.rs/s/ysam1j/why_elixir_is_best_language_for_building) - [Why Elixir Is the Best Language for Building a Bootstrapped, B2B SaaS in 2024](https://www.sleepeasy.app/2024/01/21/elixir-best-language-for-bootstrapped-b2b-saas/)
 * [2024-02-08, 21:49:08](https://lobste.rs/s/imfbha/strings_do_too_many_things) - [Strings do too many things](https://buttondown.email/hillelwayne/archive/strings-do-too-many-things/)
 * [2024-02-08, 18:54:47](https://lobste.rs/s/uxuly4/opml_is_underrated) - [OPML is underrated](https://kmaasrud.com/blog/opml-is-underrated.html)
