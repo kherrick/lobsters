@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-10, 04:52:39](https://lobste.rs/s/lwf4jv/pose_portable_s_expressions_pose_spec) - [pose: Portable S-expressions (POSE) spec and libs](https://github.com/s-expressions/pose)
 * [2024-02-10, 01:54:30](https://lobste.rs/s/wqjed8/buffer_overflow_vulnerabilities_kitty) - [Buffer Overflow Vulnerabilities in KiTTY](https://blog.defcesco.io/CVE-2024-25003-CVE-2024-25004)
 * [2024-02-09, 23:20:14](https://lobste.rs/s/2w2eac/parse_don_t_validate) - [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 * [2024-02-09, 23:16:30](https://lobste.rs/s/lz1699/comonadic_builders) - [Comonadic builders](https://chshersh.com/posts/2019-03-25-comonadic-builders)
@@ -16,7 +17,6 @@
 * [2024-02-09, 12:47:19](https://lobste.rs/s/okrril/chatgpt_have_killed_my_passion_project_i) - [ChatGPT have killed my passion project and I am fine](https://zverok.space/blog/2024-02-09-gpt.html)
 * [2024-02-09, 11:07:09](https://lobste.rs/s/2zavii/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/2zavii/what_are_you_doing_this_weekend)
 * [2024-02-09, 09:36:03](https://lobste.rs/s/b1r0jv/go_can_only_read_1gib_per_read_call) - [Go can only read 1GiB per Read call](https://kgrz.io/go-file-read-max-size-buffer.html)
-* [2024-02-09, 08:17:14](https://lobste.rs/s/9lx6fz/speech_text_gemini_speech) - [Speech To Text To Gemini To Speech](https://www.biodigitaljazz.net/blog/STTTGTS.html)
 * [2024-02-09, 07:57:32](https://lobste.rs/s/pgahrv/almost_every_infrastructure_decision_i) - [(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup](https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/)
 * [2024-02-09, 05:37:37](https://lobste.rs/s/a5ojou/using_shape_up_what_works_what_we_ve) - [Using Shape Up - What Works, What We've Changed, What's Next](https://exploring-better-ways.bellroy.com/using-shape-up-what-works-what-weve-changed-whats-next.html)
 * [2024-02-09, 00:02:07](https://lobste.rs/s/856y3s/introducing_word_for_openbsd) - [Introducing Word for OpenBSD](https://marc.info/?l=openbsd-tech&m=170742832804260&w=2)
