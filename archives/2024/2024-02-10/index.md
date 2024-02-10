@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-10](index.md)
 
+* [2024-02-10, 23:40:07](https://lobste.rs/s/5uwtrn/linux_running_on_nes) - [Linux Running on an NES?](https://www.youtube.com/watch?v=SVqN_FixG0M)
 * [2024-02-10, 23:01:12](https://lobste.rs/s/iua2nv/becoming_dungeon_master_for_interview) - [Becoming a Dungeon Master for an Interview](https://www.propelauth.com/post/interview-dungeon-master)
 * [2024-02-10, 20:13:37](https://lobste.rs/s/zvdcjv/e2ee_on_web_is_web_really_bad) - [E2EE on the web: is the web really that bad?](https://emilymstark.com/2024/02/09/e2ee-on-the-web-is-the-web-really-that-bad.html)
 * [2024-02-10, 19:53:31](https://lobste.rs/s/l0kc68/lovebyte_party_live) - [Lovebyte Party live](https://www.twitch.tv/lovebytedemoparty)
