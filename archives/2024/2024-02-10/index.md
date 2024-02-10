@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-10](index.md)
 
+* [2024-02-10, 20:13:37](https://lobste.rs/s/zvdcjv/e2ee_on_web_is_web_really_bad) - [E2EE on the web: is the web really that bad?](https://emilymstark.com/2024/02/09/e2ee-on-the-web-is-the-web-really-that-bad.html)
 * [2024-02-10, 19:53:31](https://lobste.rs/s/l0kc68/lovebyte_party_live) - [Lovebyte Party live](https://www.twitch.tv/lovebytedemoparty)
 * [2024-02-10, 18:16:26](https://lobste.rs/s/fieikd/show_if_story_has_new_comments_homepage) - [Show if a story has new comments in homepage](https://lobste.rs/s/fieikd/show_if_story_has_new_comments_homepage)
 * [2024-02-10, 18:05:56](https://lobste.rs/s/ttmyvf/proposal_remove_average_karma_per_story) - [Proposal to Remove \"Average Karma Per Story/Comment\"](https://lobste.rs/s/ttmyvf/proposal_remove_average_karma_per_story)
