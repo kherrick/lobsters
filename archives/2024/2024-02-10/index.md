@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-10](index.md)
 
+* [2024-02-10, 18:16:26](https://lobste.rs/s/fieikd/show_if_story_has_new_comments_homepage) - [Show if a story has new comments in homepage](https://lobste.rs/s/fieikd/show_if_story_has_new_comments_homepage)
 * [2024-02-10, 18:05:56](https://lobste.rs/s/ttmyvf/proposal_remove_average_karma_per_story) - [Proposal to Remove \"Average Karma Per Story/Comment\"](https://lobste.rs/s/ttmyvf/proposal_remove_average_karma_per_story)
 * [2024-02-10, 17:45:08](https://lobste.rs/s/rsvmcq/distributed_logical_time) - [Distributed Logical Time](https://longform.asmartbear.com/distributed-logical-time/)
 * [2024-02-10, 13:38:45](https://lobste.rs/s/mrzwgf/tunable_consistency_mongodb) - [Tunable Consistency in MongoDB](https://muratbuffalo.blogspot.com/2024/02/tunable-consistency-in-mongodb.html)

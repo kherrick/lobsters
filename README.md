@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-10, 18:16:26](https://lobste.rs/s/fieikd/show_if_story_has_new_comments_homepage) - [Show if a story has new comments in homepage](https://lobste.rs/s/fieikd/show_if_story_has_new_comments_homepage)
 * [2024-02-10, 18:05:56](https://lobste.rs/s/ttmyvf/proposal_remove_average_karma_per_story) - [Proposal to Remove \"Average Karma Per Story/Comment\"](https://lobste.rs/s/ttmyvf/proposal_remove_average_karma_per_story)
 * [2024-02-10, 17:45:08](https://lobste.rs/s/rsvmcq/distributed_logical_time) - [Distributed Logical Time](https://longform.asmartbear.com/distributed-logical-time/)
 * [2024-02-10, 13:38:45](https://lobste.rs/s/mrzwgf/tunable_consistency_mongodb) - [Tunable Consistency in MongoDB](https://muratbuffalo.blogspot.com/2024/02/tunable-consistency-in-mongodb.html)
@@ -11,7 +12,6 @@
 * [2024-02-10, 01:54:30](https://lobste.rs/s/wqjed8/buffer_overflow_vulnerabilities_kitty) - [Buffer Overflow Vulnerabilities in KiTTY](https://blog.defcesco.io/CVE-2024-25003-CVE-2024-25004)
 * [2024-02-09, 23:20:14](https://lobste.rs/s/2w2eac/parse_don_t_validate_2019) - [Parse, don’t validate (2019)](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 * [2024-02-09, 21:43:06](https://lobste.rs/s/lzwa1j/how_i_write_http_services_go_after_13_years) - [How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
-* [2024-02-09, 21:06:30](https://lobste.rs/s/niqubh/world_s_most_responsible_ai_model) - [The world's most responsible AI model](https://www.goody2.ai/)
 * [2024-02-09, 20:41:14](https://lobste.rs/s/nmvcdk/why_bloat_is_still_software_s_biggest) - [Why Bloat Is Still Software’s Biggest Vulnerability](https://spectrum.ieee.org/lean-software-development)
 * [2024-02-09, 18:17:44](https://lobste.rs/s/lunvg8/too_dangerous_for_c) - [Too dangerous for C++](https://blog.dureuill.net/articles/too-dangerous-cpp/)
 * [2024-02-09, 16:53:52](https://lobste.rs/s/yakjaw/sudo_on_windows_quick_rundown) - [Sudo On Windows a Quick Rundown](https://www.tiraniddo.dev/2024/02/sudo-on-windows-quick-rundown.html)
