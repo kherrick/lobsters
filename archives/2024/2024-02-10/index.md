@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-10](index.md)
 
+* [2024-02-10, 17:45:08](https://lobste.rs/s/rsvmcq/distributed_logical_time) - [Distributed Logical Time](https://longform.asmartbear.com/distributed-logical-time/)
 * [2024-02-10, 13:38:45](https://lobste.rs/s/mrzwgf/tunable_consistency_mongodb) - [Tunable Consistency in MongoDB](https://muratbuffalo.blogspot.com/2024/02/tunable-consistency-in-mongodb.html)
 * [2024-02-10, 12:41:04](https://lobste.rs/s/75afaf/optimizing_pext_perfect_hash_function) - [Optimizing the pext perfect hash function](https://xoranth.net/verb-parse/)
 * [2024-02-10, 11:38:39](https://lobste.rs/s/pacpad/anemic_stack_traces_go) - [Anemic stack traces in Go](https://rednafi.com/go/anemic_stack_traces/)
