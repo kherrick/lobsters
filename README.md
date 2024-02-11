@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-11, 21:17:40](https://lobste.rs/s/3x7plf/appsec_guide_just_got_new_chapter_on) - [appsec.guide just got a new chapter on fuzzing](https://blog.trailofbits.com/2024/02/09/master-fuzzing-with-our-new-testing-handbook-chapter/)
 * [2024-02-11, 20:59:46](https://lobste.rs/s/fkcavz/tiny_ups_for_tiny_nas_reloaded) - [Tiny UPS for Tiny NAS Reloaded](https://vermaden.wordpress.com/2024/02/11/tiny-ups-for-tiny-nas-reloaded/)
 * [2024-02-11, 20:12:00](https://lobste.rs/s/dwps00/how_gnu_coreutils_are_tested) - [How the GNU coreutils are tested](http://www.pixelbeat.org/docs/coreutils-testing.html)
 * [2024-02-11, 20:06:28](https://lobste.rs/s/lrzbmo/reverse_engineering_analog_bendix_air) - [Reverse-engineering an analog Bendix air data computer: part 4, the Mach section](http://www.righto.com/2024/02/reverse-engineering-analog-bendix-air.html)
@@ -14,7 +15,6 @@
 * [2024-02-11, 07:58:51](https://lobste.rs/s/milkop/coq_theorem_prover_will_be_renamed_into) - [Coq theorem prover will be renamed into Rocq](https://github.com/coq/ceps/blob/coq-roadmap/text/069-coq-roadmap.md#change-of-name-coq---the-rocq-prover)
 * [2024-02-11, 05:59:52](https://lobste.rs/s/pa73vq/what_it_was_like_working_for_gitlab) - [What it was like working for GitLab](https://yorickpeterse.com/articles/what-it-was-like-working-for-gitlab/)
 * [2024-02-11, 05:11:16](https://lobste.rs/s/f24zpx/cap_x_comp_x_how_tandy_pocket_computers_got) - [CAP-X and COMP-X: how the Tandy Pocket Computers got a sucky Japanese assembler](https://oldvcr.blogspot.com/2024/02/cap-x-and-comp-x-how-tandy-pocket.html)
-* [2024-02-11, 03:33:17](https://lobste.rs/s/reb8mh/what_s_new_picocss_v2) - [What’s new in PicoCSS v2?](https://picocss.com/docs/v2)
 * [2024-02-11, 03:18:12](https://lobste.rs/s/khgkpn/extending_rust_s_effect_system) - [Extending Rust's Effect System](https://blog.yoshuawuyts.com/extending-rusts-effect-system/)
 * [2024-02-11, 00:48:58](https://lobste.rs/s/mz7p19/hexchat_2_16_2_final_release) - [HexChat 2.16.2, The Final Release](https://hexchat.github.io/news/2.16.2.html)
 * [2024-02-11, 00:42:07](https://lobste.rs/s/xrjmcn/racket_v8_12_is_now_available) - [Racket v8.12 is now available](https://racket.discourse.group/t/racket-v8-12-is-now-available/2709?u=spdegabrielle)
