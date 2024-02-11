@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-11, 00:48:58",
+      "https://lobste.rs/s/mz7p19/hexchat_2_16_2_final_release"
+    ],
+    [
+      "HexChat 2.16.2, The Final Release",
+      "https://hexchat.github.io/news/2.16.2.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-11, 00:42:07",
+      "https://lobste.rs/s/xrjmcn/racket_v8_12_is_now_available"
+    ],
+    [
+      "Racket v8.12 is now available",
+      "https://racket.discourse.group/t/racket-v8-12-is-now-available/2709?u=spdegabrielle"
+    ]
+  ],
+  [
+    [
       "2024-02-10, 23:40:07",
       "https://lobste.rs/s/5uwtrn/linux_running_on_nes"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-02-09, 16:53:52",
-      "https://lobste.rs/s/yakjaw/sudo_on_windows_quick_rundown"
-    ],
-    [
-      "Sudo On Windows a Quick Rundown",
-      "https://www.tiraniddo.dev/2024/02/sudo-on-windows-quick-rundown.html"
-    ]
-  ],
-  [
-    [
       "2024-02-09, 16:48:31",
       "https://lobste.rs/s/gzvdfc/opening_up_communication_silos_with"
     ],
@@ -227,16 +237,6 @@
     [
       "(Almost) Every infrastructure decision I endorse or regret after 4 years running infrastructure at a startup",
       "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/"
-    ]
-  ],
-  [
-    [
-      "2024-02-08, 23:12:37",
-      "https://lobste.rs/s/ysam1j/why_elixir_is_best_language_for_building"
-    ],
-    [
-      "Why Elixir Is the Best Language for Building a Bootstrapped, B2B SaaS in 2024",
-      "https://www.sleepeasy.app/2024/01/21/elixir-best-language-for-bootstrapped-b2b-saas/"
     ]
   ],
   [
