@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-11, 20:12:00](https://lobste.rs/s/dwps00/how_gnu_coreutils_are_tested) - [How the GNU coreutils are tested](http://www.pixelbeat.org/docs/coreutils-testing.html)
+* [2024-02-11, 20:06:28](https://lobste.rs/s/lrzbmo/reverse_engineering_analog_bendix_air) - [Reverse-engineering an analog Bendix air data computer: part 4, the Mach section](http://www.righto.com/2024/02/reverse-engineering-analog-bendix-air.html)
 * [2024-02-11, 19:33:30](https://lobste.rs/s/6ydrkv/programmable_logic_php) - [Programmable logic in PHP](https://kittenlabs.de/phppld/)
 * [2024-02-11, 18:50:21](https://lobste.rs/s/zu2wx1/xl_extensible_programming_language) - [XL: An extensible programming language](https://xlr.sourceforge.io/)
 * [2024-02-11, 18:43:08](https://lobste.rs/s/xtnhxo/triotp_otp_framework_for_python_trio) - [TriOTP, the OTP framework for Python Trio](https://github.com/linkdd/triotp)
@@ -19,10 +21,8 @@
 * [2024-02-10, 20:13:37](https://lobste.rs/s/zvdcjv/e2ee_on_web_is_web_really_bad) - [E2EE on the web: is the web really that bad?](https://emilymstark.com/2024/02/09/e2ee-on-the-web-is-the-web-really-that-bad.html)
 * [2024-02-10, 18:16:26](https://lobste.rs/s/fieikd/show_if_story_has_new_comments_homepage) - [Show if a story has new comments in homepage](https://lobste.rs/s/fieikd/show_if_story_has_new_comments_homepage)
 * [2024-02-10, 18:05:56](https://lobste.rs/s/ttmyvf/proposal_remove_average_karma_per_story) - [Proposal to Remove \"Average Karma Per Story/Comment\"](https://lobste.rs/s/ttmyvf/proposal_remove_average_karma_per_story)
-* [2024-02-10, 17:45:08](https://lobste.rs/s/rsvmcq/distributed_logical_time) - [Distributed Logical Time](https://longform.asmartbear.com/distributed-logical-time/)
 * [2024-02-10, 11:38:39](https://lobste.rs/s/pacpad/anemic_stack_traces_go) - [Anemic stack traces in Go](https://rednafi.com/go/anemic_stack_traces/)
 * [2024-02-10, 09:34:13](https://lobste.rs/s/ts2kgb/building_directx_shader_compiler_better) - [Building the DirectX shader compiler better than Microsoft?](https://devlog.hexops.com/2024/building-the-directx-shader-compiler-better-than-microsoft/)
-* [2024-02-10, 08:01:45](https://lobste.rs/s/63dcdm/fetch_user_keys_simple_tool_for_fetching) - [Fetch User Keys - simple tool for fetching SSH keys from different sources](https://git.sr.ht/~hauleth/fuk)
 * [2024-02-09, 23:20:14](https://lobste.rs/s/2w2eac/parse_don_t_validate_2019) - [Parse, don’t validate (2019)](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 * [2024-02-09, 18:17:44](https://lobste.rs/s/lunvg8/too_dangerous_for_c) - [Too dangerous for C++](https://blog.dureuill.net/articles/too-dangerous-cpp/)
 
