@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-11, 18:14:43",
+      "https://lobste.rs/s/r5xmhd/balancing_cube"
+    ],
+    [
+      "Balancing cube",
+      "https://willempennings.nl/balancing-cube/"
+    ]
+  ],
+  [
+    [
+      "2024-02-11, 18:10:33",
+      "https://lobste.rs/s/ik2po1/biqquery_vector_search"
+    ],
+    [
+      "BiqQuery vector search",
+      "https://cloud.google.com/bigquery/docs/vector-search-intro"
+    ]
+  ],
+  [
+    [
       "2024-02-11, 15:52:50",
       "https://lobste.rs/s/qoxplp/short_history_all_windows_ui_frameworks"
     ],
@@ -217,26 +237,6 @@
     [
       "Too dangerous for C++",
       "https://blog.dureuill.net/articles/too-dangerous-cpp/"
-    ]
-  ],
-  [
-    [
-      "2024-02-09, 15:57:31",
-      "https://lobste.rs/s/htmt3k/add_coffee_stains_latex_documents"
-    ],
-    [
-      "Add coffee stains to LaTeX documents",
-      "https://ctan.org/pkg/coffeestains"
-    ]
-  ],
-  [
-    [
-      "2024-02-09, 09:36:03",
-      "https://lobste.rs/s/b1r0jv/go_can_only_read_1gib_per_read_call"
-    ],
-    [
-      "Go can only read 1GiB per Read call",
-      "https://kgrz.io/go-file-read-max-size-buffer.html"
     ]
   ],
   [
