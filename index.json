@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-11, 18:43:08",
+      "https://lobste.rs/s/xtnhxo/triotp_otp_framework_for_python_trio"
+    ],
+    [
+      "TriOTP, the OTP framework for Python Trio",
+      "https://github.com/linkdd/triotp"
+    ]
+  ],
+  [
+    [
       "2024-02-11, 18:14:43",
       "https://lobste.rs/s/r5xmhd/balancing_cube"
     ],
@@ -217,16 +227,6 @@
     [
       "Parse, don’t validate (2019)",
       "https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/"
-    ]
-  ],
-  [
-    [
-      "2024-02-09, 21:43:06",
-      "https://lobste.rs/s/lzwa1j/how_i_write_http_services_go_after_13_years"
-    ],
-    [
-      "How I write HTTP services in Go after 13 years",
-      "https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/"
     ]
   ],
   [
