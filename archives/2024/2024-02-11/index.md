@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-11](index.md)
 
+* [2024-02-11, 20:59:46](https://lobste.rs/s/fkcavz/tiny_ups_for_tiny_nas_reloaded) - [Tiny UPS for Tiny NAS Reloaded](https://vermaden.wordpress.com/2024/02/11/tiny-ups-for-tiny-nas-reloaded/)
 * [2024-02-11, 20:12:00](https://lobste.rs/s/dwps00/how_gnu_coreutils_are_tested) - [How the GNU coreutils are tested](http://www.pixelbeat.org/docs/coreutils-testing.html)
 * [2024-02-11, 20:06:28](https://lobste.rs/s/lrzbmo/reverse_engineering_analog_bendix_air) - [Reverse-engineering an analog Bendix air data computer: part 4, the Mach section](http://www.righto.com/2024/02/reverse-engineering-analog-bendix-air.html)
 * [2024-02-11, 19:33:30](https://lobste.rs/s/6ydrkv/programmable_logic_php) - [Programmable logic in PHP](https://kittenlabs.de/phppld/)

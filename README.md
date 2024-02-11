@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-11, 20:59:46](https://lobste.rs/s/fkcavz/tiny_ups_for_tiny_nas_reloaded) - [Tiny UPS for Tiny NAS Reloaded](https://vermaden.wordpress.com/2024/02/11/tiny-ups-for-tiny-nas-reloaded/)
 * [2024-02-11, 20:12:00](https://lobste.rs/s/dwps00/how_gnu_coreutils_are_tested) - [How the GNU coreutils are tested](http://www.pixelbeat.org/docs/coreutils-testing.html)
 * [2024-02-11, 20:06:28](https://lobste.rs/s/lrzbmo/reverse_engineering_analog_bendix_air) - [Reverse-engineering an analog Bendix air data computer: part 4, the Mach section](http://www.righto.com/2024/02/reverse-engineering-analog-bendix-air.html)
 * [2024-02-11, 19:33:30](https://lobste.rs/s/6ydrkv/programmable_logic_php) - [Programmable logic in PHP](https://kittenlabs.de/phppld/)
@@ -18,7 +19,6 @@
 * [2024-02-11, 00:48:58](https://lobste.rs/s/mz7p19/hexchat_2_16_2_final_release) - [HexChat 2.16.2, The Final Release](https://hexchat.github.io/news/2.16.2.html)
 * [2024-02-11, 00:42:07](https://lobste.rs/s/xrjmcn/racket_v8_12_is_now_available) - [Racket v8.12 is now available](https://racket.discourse.group/t/racket-v8-12-is-now-available/2709?u=spdegabrielle)
 * [2024-02-10, 23:40:07](https://lobste.rs/s/5uwtrn/linux_running_on_nes) - [Linux Running on an NES?](https://www.youtube.com/watch?v=SVqN_FixG0M)
-* [2024-02-10, 20:13:37](https://lobste.rs/s/zvdcjv/e2ee_on_web_is_web_really_bad) - [E2EE on the web: is the web really that bad?](https://emilymstark.com/2024/02/09/e2ee-on-the-web-is-the-web-really-that-bad.html)
 * [2024-02-10, 18:16:26](https://lobste.rs/s/fieikd/show_if_story_has_new_comments_homepage) - [Show if a story has new comments in homepage](https://lobste.rs/s/fieikd/show_if_story_has_new_comments_homepage)
 * [2024-02-10, 18:05:56](https://lobste.rs/s/ttmyvf/proposal_remove_average_karma_per_story) - [Proposal to Remove \"Average Karma Per Story/Comment\"](https://lobste.rs/s/ttmyvf/proposal_remove_average_karma_per_story)
 * [2024-02-10, 11:38:39](https://lobste.rs/s/pacpad/anemic_stack_traces_go) - [Anemic stack traces in Go](https://rednafi.com/go/anemic_stack_traces/)
