@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-02-11, 11:34:36](https://lobste.rs/s/vzxiqo/enshittification_is_coming_for) - [‘Enshittification’ is coming for absolutely everything](https://www.ft.com/content/6fb1602d-a08b-4a8c-bac0-047b7d64aba5?accessToken=zwAGEOCUUPA4kc9vsWAtoItKjNO6wAR7fWSrpQ.MEUCIHLdSJjfKO-LxdDC3FN_RqvCcz6mm7OhCVgKmIuRMGAbAiEA_K3zHLp39I_ftWBJsgMQVrid7REVD7l-SG_SfKuKLlY)
 * [2024-02-11, 09:34:34](https://lobste.rs/s/kaj3c2/minimal_linux_bootloader_debugging) - [Minimal Linux Bootloader debugging story](https://michael.stapelberg.ch/posts/2024-02-11-minimal-linux-bootloader-debugging-story/)
 * [2024-02-11, 07:58:51](https://lobste.rs/s/milkop/coq_theorem_prover_will_be_renamed_into) - [Coq theorem prover will be renamed into Rocq](https://github.com/coq/ceps/blob/coq-roadmap/text/069-coq-roadmap.md#change-of-name-coq---the-rocq-prover)
 * [2024-02-11, 05:59:52](https://lobste.rs/s/pa73vq/what_it_was_like_working_for_gitlab) - [What it was like working for GitLab](https://yorickpeterse.com/articles/what-it-was-like-working-for-gitlab/)
@@ -20,6 +19,7 @@
 * [2024-02-10, 08:01:45](https://lobste.rs/s/63dcdm/fetch_user_keys_simple_tool_for_fetching) - [Fetch User Keys - simple tool for fetching SSH keys from different sources](https://git.sr.ht/~hauleth/fuk)
 * [2024-02-09, 23:20:14](https://lobste.rs/s/2w2eac/parse_don_t_validate_2019) - [Parse, don’t validate (2019)](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 * [2024-02-09, 21:43:06](https://lobste.rs/s/lzwa1j/how_i_write_http_services_go_after_13_years) - [How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
+* [2024-02-09, 20:41:14](https://lobste.rs/s/nmvcdk/why_bloat_is_still_software_s_biggest) - [Why Bloat Is Still Software’s Biggest Vulnerability](https://spectrum.ieee.org/lean-software-development)
 * [2024-02-09, 18:17:44](https://lobste.rs/s/lunvg8/too_dangerous_for_c) - [Too dangerous for C++](https://blog.dureuill.net/articles/too-dangerous-cpp/)
 * [2024-02-09, 15:57:31](https://lobste.rs/s/htmt3k/add_coffee_stains_latex_documents) - [Add coffee stains to LaTeX documents](https://ctan.org/pkg/coffeestains)
 * [2024-02-09, 12:47:19](https://lobste.rs/s/okrril/chatgpt_have_killed_my_passion_project_i) - [ChatGPT have killed my passion project and I am fine](https://zverok.space/blog/2024-02-09-gpt.html)
