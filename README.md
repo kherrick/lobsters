@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-11, 09:34:34](https://lobste.rs/s/kaj3c2/minimal_linux_bootloader_debugging) - [Minimal Linux Bootloader debugging story](https://michael.stapelberg.ch/posts/2024-02-11-minimal-linux-bootloader-debugging-story/)
 * [2024-02-11, 07:58:51](https://lobste.rs/s/milkop/coq_theorem_prover_will_be_renamed_into) - [Coq theorem prover will be renamed into Rocq](https://github.com/coq/ceps/blob/coq-roadmap/text/069-coq-roadmap.md#change-of-name-coq---the-rocq-prover)
 * [2024-02-11, 05:59:52](https://lobste.rs/s/pa73vq/what_it_was_like_working_for_gitlab) - [What it was like working for GitLab](https://yorickpeterse.com/articles/what-it-was-like-working-for-gitlab/)
 * [2024-02-11, 05:11:16](https://lobste.rs/s/f24zpx/cap_x_comp_x_how_tandy_pocket_computers_got) - [CAP-X and COMP-X: how the Tandy Pocket Computers got a sucky Japanese assembler](https://oldvcr.blogspot.com/2024/02/cap-x-and-comp-x-how-tandy-pocket.html)
@@ -12,7 +13,6 @@
 * [2024-02-10, 18:16:26](https://lobste.rs/s/fieikd/show_if_story_has_new_comments_homepage) - [Show if a story has new comments in homepage](https://lobste.rs/s/fieikd/show_if_story_has_new_comments_homepage)
 * [2024-02-10, 18:05:56](https://lobste.rs/s/ttmyvf/proposal_remove_average_karma_per_story) - [Proposal to Remove \"Average Karma Per Story/Comment\"](https://lobste.rs/s/ttmyvf/proposal_remove_average_karma_per_story)
 * [2024-02-10, 17:45:08](https://lobste.rs/s/rsvmcq/distributed_logical_time) - [Distributed Logical Time](https://longform.asmartbear.com/distributed-logical-time/)
-* [2024-02-10, 13:38:45](https://lobste.rs/s/mrzwgf/tunable_consistency_mongodb) - [Tunable Consistency in MongoDB](https://muratbuffalo.blogspot.com/2024/02/tunable-consistency-in-mongodb.html)
 * [2024-02-10, 12:41:04](https://lobste.rs/s/75afaf/optimizing_pext_perfect_hash_function) - [Optimizing the pext perfect hash function](https://xoranth.net/verb-parse/)
 * [2024-02-10, 11:38:39](https://lobste.rs/s/pacpad/anemic_stack_traces_go) - [Anemic stack traces in Go](https://rednafi.com/go/anemic_stack_traces/)
 * [2024-02-10, 09:34:13](https://lobste.rs/s/ts2kgb/building_directx_shader_compiler_better) - [Building the DirectX shader compiler better than Microsoft?](https://devlog.hexops.com/2024/building-the-directx-shader-compiler-better-than-microsoft/)
