@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-11](index.md)
 
+* [2024-02-11, 18:14:43](https://lobste.rs/s/r5xmhd/balancing_cube) - [Balancing cube](https://willempennings.nl/balancing-cube/)
+* [2024-02-11, 18:10:33](https://lobste.rs/s/ik2po1/biqquery_vector_search) - [BiqQuery vector search](https://cloud.google.com/bigquery/docs/vector-search-intro)
 * [2024-02-11, 15:52:50](https://lobste.rs/s/qoxplp/short_history_all_windows_ui_frameworks) - [Short history of all Windows UI frameworks and libraries](https://irrlicht3d.org/index.php?t=1626)
 * [2024-02-11, 13:27:54](https://lobste.rs/s/88v0f7/guide_interfaces_go) - [A Guide to Interfaces in Go](https://fast4ward.online/posts/a-guide-to-interfaces-in-go/)
 * [2024-02-11, 11:34:36](https://lobste.rs/s/vzxiqo/enshittification_is_coming_for) - [‘Enshittification’ is coming for absolutely everything](https://www.ft.com/content/6fb1602d-a08b-4a8c-bac0-047b7d64aba5?accessToken=zwAGEOCUUPA4kc9vsWAtoItKjNO6wAR7fWSrpQ.MEUCIHLdSJjfKO-LxdDC3FN_RqvCcz6mm7OhCVgKmIuRMGAbAiEA_K3zHLp39I_ftWBJsgMQVrid7REVD7l-SG_SfKuKLlY)
