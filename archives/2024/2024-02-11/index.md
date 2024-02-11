@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-11](index.md)
 
+* [2024-02-11, 13:27:54](https://lobste.rs/s/88v0f7/guide_interfaces_go) - [A Guide to Interfaces in Go](https://fast4ward.online/posts/a-guide-to-interfaces-in-go/)
 * [2024-02-11, 11:34:36](https://lobste.rs/s/vzxiqo/enshittification_is_coming_for) - [‘Enshittification’ is coming for absolutely everything](https://www.ft.com/content/6fb1602d-a08b-4a8c-bac0-047b7d64aba5?accessToken=zwAGEOCUUPA4kc9vsWAtoItKjNO6wAR7fWSrpQ.MEUCIHLdSJjfKO-LxdDC3FN_RqvCcz6mm7OhCVgKmIuRMGAbAiEA_K3zHLp39I_ftWBJsgMQVrid7REVD7l-SG_SfKuKLlY)
 * [2024-02-11, 09:34:34](https://lobste.rs/s/kaj3c2/minimal_linux_bootloader_debugging) - [Minimal Linux Bootloader debugging story](https://michael.stapelberg.ch/posts/2024-02-11-minimal-linux-bootloader-debugging-story/)
 * [2024-02-11, 07:58:51](https://lobste.rs/s/milkop/coq_theorem_prover_will_be_renamed_into) - [Coq theorem prover will be renamed into Rocq](https://github.com/coq/ceps/blob/coq-roadmap/text/069-coq-roadmap.md#change-of-name-coq---the-rocq-prover)
