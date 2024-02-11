@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-11](index.md)
 
+* [2024-02-11, 23:08:00](https://lobste.rs/s/dzxhzv/engine_failure_array_is_gone_can_we) - [Engine Failure: Array is gone - can we recover?](https://lucas.dohmen.io/posts/2024/02/11/engine-failure/)
 * [2024-02-11, 21:17:40](https://lobste.rs/s/3x7plf/appsec_guide_just_got_new_chapter_on) - [appsec.guide just got a new chapter on fuzzing](https://blog.trailofbits.com/2024/02/09/master-fuzzing-with-our-new-testing-handbook-chapter/)
 * [2024-02-11, 20:59:46](https://lobste.rs/s/fkcavz/tiny_ups_for_tiny_nas_reloaded) - [Tiny UPS for Tiny NAS Reloaded](https://vermaden.wordpress.com/2024/02/11/tiny-ups-for-tiny-nas-reloaded/)
 * [2024-02-11, 20:12:00](https://lobste.rs/s/dwps00/how_gnu_coreutils_are_tested) - [How the GNU coreutils are tested](http://www.pixelbeat.org/docs/coreutils-testing.html)

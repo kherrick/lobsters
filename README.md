@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-11, 23:08:00](https://lobste.rs/s/dzxhzv/engine_failure_array_is_gone_can_we) - [Engine Failure: Array is gone - can we recover?](https://lucas.dohmen.io/posts/2024/02/11/engine-failure/)
 * [2024-02-11, 21:17:40](https://lobste.rs/s/3x7plf/appsec_guide_just_got_new_chapter_on) - [appsec.guide just got a new chapter on fuzzing](https://blog.trailofbits.com/2024/02/09/master-fuzzing-with-our-new-testing-handbook-chapter/)
 * [2024-02-11, 20:59:46](https://lobste.rs/s/fkcavz/tiny_ups_for_tiny_nas_reloaded) - [Tiny UPS for Tiny NAS Reloaded](https://vermaden.wordpress.com/2024/02/11/tiny-ups-for-tiny-nas-reloaded/)
 * [2024-02-11, 20:12:00](https://lobste.rs/s/dwps00/how_gnu_coreutils_are_tested) - [How the GNU coreutils are tested](http://www.pixelbeat.org/docs/coreutils-testing.html)
@@ -24,7 +25,6 @@
 * [2024-02-10, 11:38:39](https://lobste.rs/s/pacpad/anemic_stack_traces_go) - [Anemic stack traces in Go](https://rednafi.com/go/anemic_stack_traces/)
 * [2024-02-10, 09:34:13](https://lobste.rs/s/ts2kgb/building_directx_shader_compiler_better) - [Building the DirectX shader compiler better than Microsoft?](https://devlog.hexops.com/2024/building-the-directx-shader-compiler-better-than-microsoft/)
 * [2024-02-09, 23:20:14](https://lobste.rs/s/2w2eac/parse_don_t_validate_2019) - [Parse, don’t validate (2019)](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
-* [2024-02-09, 18:17:44](https://lobste.rs/s/lunvg8/too_dangerous_for_c) - [Too dangerous for C++](https://blog.dureuill.net/articles/too-dangerous-cpp/)
 
 ## [Archives](archives/index.md)
 
