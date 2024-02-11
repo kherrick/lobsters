@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-11, 09:34:34",
+      "https://lobste.rs/s/kaj3c2/minimal_linux_bootloader_debugging"
+    ],
+    [
+      "Minimal Linux Bootloader debugging story",
+      "https://michael.stapelberg.ch/posts/2024-02-11-minimal-linux-bootloader-debugging-story/"
+    ]
+  ],
+  [
+    [
       "2024-02-11, 07:58:51",
       "https://lobste.rs/s/milkop/coq_theorem_prover_will_be_renamed_into"
     ],
@@ -117,16 +127,6 @@
     [
       "Distributed Logical Time",
       "https://longform.asmartbear.com/distributed-logical-time/"
-    ]
-  ],
-  [
-    [
-      "2024-02-10, 13:38:45",
-      "https://lobste.rs/s/mrzwgf/tunable_consistency_mongodb"
-    ],
-    [
-      "Tunable Consistency in MongoDB",
-      "https://muratbuffalo.blogspot.com/2024/02/tunable-consistency-in-mongodb.html"
     ]
   ],
   [
