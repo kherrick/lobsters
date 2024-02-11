@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-11](index.md)
 
+* [2024-02-11, 05:59:52](https://lobste.rs/s/pa73vq/what_it_was_like_working_for_gitlab) - [What it was like working for GitLab](https://yorickpeterse.com/articles/what-it-was-like-working-for-gitlab/)
 * [2024-02-11, 05:11:16](https://lobste.rs/s/f24zpx/cap_x_comp_x_how_tandy_pocket_computers_got) - [CAP-X and COMP-X: how the Tandy Pocket Computers got a sucky Japanese assembler](https://oldvcr.blogspot.com/2024/02/cap-x-and-comp-x-how-tandy-pocket.html)
 * [2024-02-11, 03:33:17](https://lobste.rs/s/reb8mh/what_s_new_picocss_v2) - [What’s new in PicoCSS v2?](https://picocss.com/docs/v2)
 * [2024-02-11, 03:18:12](https://lobste.rs/s/khgkpn/extending_rust_s_effect_system) - [Extending Rust's Effect System](https://blog.yoshuawuyts.com/extending-rusts-effect-system/)

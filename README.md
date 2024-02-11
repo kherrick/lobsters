@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-11, 05:59:52](https://lobste.rs/s/pa73vq/what_it_was_like_working_for_gitlab) - [What it was like working for GitLab](https://yorickpeterse.com/articles/what-it-was-like-working-for-gitlab/)
 * [2024-02-11, 05:11:16](https://lobste.rs/s/f24zpx/cap_x_comp_x_how_tandy_pocket_computers_got) - [CAP-X and COMP-X: how the Tandy Pocket Computers got a sucky Japanese assembler](https://oldvcr.blogspot.com/2024/02/cap-x-and-comp-x-how-tandy-pocket.html)
 * [2024-02-11, 03:33:17](https://lobste.rs/s/reb8mh/what_s_new_picocss_v2) - [What’s new in PicoCSS v2?](https://picocss.com/docs/v2)
 * [2024-02-11, 03:18:12](https://lobste.rs/s/khgkpn/extending_rust_s_effect_system) - [Extending Rust's Effect System](https://blog.yoshuawuyts.com/extending-rusts-effect-system/)
@@ -7,7 +8,6 @@
 * [2024-02-11, 00:42:07](https://lobste.rs/s/xrjmcn/racket_v8_12_is_now_available) - [Racket v8.12 is now available](https://racket.discourse.group/t/racket-v8-12-is-now-available/2709?u=spdegabrielle)
 * [2024-02-10, 23:40:07](https://lobste.rs/s/5uwtrn/linux_running_on_nes) - [Linux Running on an NES?](https://www.youtube.com/watch?v=SVqN_FixG0M)
 * [2024-02-10, 20:13:37](https://lobste.rs/s/zvdcjv/e2ee_on_web_is_web_really_bad) - [E2EE on the web: is the web really that bad?](https://emilymstark.com/2024/02/09/e2ee-on-the-web-is-the-web-really-that-bad.html)
-* [2024-02-10, 19:53:31](https://lobste.rs/s/l0kc68/lovebyte_party_live) - [Lovebyte Party live](https://www.twitch.tv/lovebytedemoparty)
 * [2024-02-10, 18:16:26](https://lobste.rs/s/fieikd/show_if_story_has_new_comments_homepage) - [Show if a story has new comments in homepage](https://lobste.rs/s/fieikd/show_if_story_has_new_comments_homepage)
 * [2024-02-10, 18:05:56](https://lobste.rs/s/ttmyvf/proposal_remove_average_karma_per_story) - [Proposal to Remove \"Average Karma Per Story/Comment\"](https://lobste.rs/s/ttmyvf/proposal_remove_average_karma_per_story)
 * [2024-02-10, 17:45:08](https://lobste.rs/s/rsvmcq/distributed_logical_time) - [Distributed Logical Time](https://longform.asmartbear.com/distributed-logical-time/)
