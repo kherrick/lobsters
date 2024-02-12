@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-12, 22:29:32](https://lobste.rs/s/wvaplj/c_never_do_s) - [C++ — Never Do's](https://www.logikalsolutions.com/wordpress/information-technology/never/)
 * [2024-02-12, 22:05:28](https://lobste.rs/s/1zmc8q/crazy_ones) - [To the crazy ones](https://alarmingdevelopment.org/?p=1708)
 * [2024-02-12, 21:41:44](https://lobste.rs/s/a3yoi6/mojo_vs_rust_is_mojo_faster_than_rust) - [Mojo vs. Rust: is Mojo faster than Rust?](https://www.modular.com/blog/mojo-vs-rust-is-mojo-faster-than-rust)
 * [2024-02-12, 21:20:46](https://lobste.rs/s/me5kql/so_you_think_you_know_git) - [So You Think You Know Git](https://www.youtube.com/watch?v=aolI_Rz0ZqY)
@@ -16,7 +17,6 @@
 * [2024-02-12, 05:14:00](https://lobste.rs/s/p8zemo/conway_s_game_life_is_omniperiodic) - [Conway's Game of Life is Omniperiodic](https://arxiv.org/abs/2312.02799)
 * [2024-02-12, 05:10:27](https://lobste.rs/s/t4uphu/it_can_be_done) - [It Can Be Done](https://multicians.org/andre.html)
 * [2024-02-12, 01:59:05](https://lobste.rs/s/ysrbxd/i_wish_go_had_retry_block) - [I wish Go had a retry block](https://xeiaso.net/blog/2024/retry-block/)
-* [2024-02-12, 00:35:18](https://lobste.rs/s/dym8lq/pep_742_narrowing_types_with) - [PEP 742: Narrowing types with TypeNarrower](https://peps.python.org/pep-0742/)
 * [2024-02-11, 23:08:00](https://lobste.rs/s/dzxhzv/engine_failure_array_is_gone_can_we) - [Engine Failure: Array is gone - can we recover?](https://lucas.dohmen.io/posts/2024/02/11/engine-failure/)
 * [2024-02-11, 20:59:46](https://lobste.rs/s/fkcavz/tiny_ups_for_tiny_nas_reloaded) - [Tiny UPS for Tiny NAS Reloaded](https://vermaden.wordpress.com/2024/02/11/tiny-ups-for-tiny-nas-reloaded/)
 * [2024-02-11, 18:50:21](https://lobste.rs/s/zu2wx1/xl_extensible_programming_language) - [XL: An extensible programming language](https://xlr.sourceforge.io/)
