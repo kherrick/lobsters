@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2024-02-11, 21:17:40",
+      "https://lobste.rs/s/3x7plf/appsec_guide_just_got_new_chapter_on"
+    ],
+    [
+      "appsec.guide just got a new chapter on fuzzing",
+      "https://blog.trailofbits.com/2024/02/09/master-fuzzing-with-our-new-testing-handbook-chapter/"
+    ]
+  ],
+  [
+    [
       "2024-02-11, 20:59:46",
       "https://lobste.rs/s/fkcavz/tiny_ups_for_tiny_nas_reloaded"
     ],
@@ -227,16 +237,6 @@
     [
       "Minimal Linux Bootloader debugging story",
       "https://michael.stapelberg.ch/posts/2024-02-11-minimal-linux-bootloader-debugging-story/"
-    ]
-  ],
-  [
-    [
-      "2024-02-11, 07:58:51",
-      "https://lobste.rs/s/milkop/coq_theorem_prover_will_be_renamed_into"
-    ],
-    [
-      "Coq theorem prover will be renamed into Rocq",
-      "https://github.com/coq/ceps/blob/coq-roadmap/text/069-coq-roadmap.md#change-of-name-coq---the-rocq-prover"
     ]
   ],
   [
