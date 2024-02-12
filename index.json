@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2024-02-11, 18:10:33",
-      "https://lobste.rs/s/ik2po1/bigquery_vector_search"
-    ],
-    [
-      "BigQuery vector search",
-      "https://cloud.google.com/bigquery/docs/vector-search-intro"
-    ]
-  ],
-  [
-    [
       "2024-02-11, 15:52:50",
       "https://lobste.rs/s/qoxplp/short_history_all_windows_ui_frameworks"
     ],
@@ -247,6 +237,16 @@
     [
       "Proposal to Remove \"Average Karma Per Story/Comment\"",
       "https://lobste.rs/s/ttmyvf/proposal_remove_average_karma_per_story"
+    ]
+  ],
+  [
+    [
+      "2024-02-10, 11:38:39",
+      "https://lobste.rs/s/pacpad/anemic_stack_traces_go"
+    ],
+    [
+      "Anemic stack traces in Go",
+      "https://rednafi.com/go/anemic_stack_traces/"
     ]
   ]
 ]
