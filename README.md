@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-12, 05:14:00](https://lobste.rs/s/p8zemo/conway_s_game_life_is_omniperiodic) - [Conway's Game of Life is Omniperiodic](https://arxiv.org/abs/2312.02799)
+* [2024-02-12, 05:10:27](https://lobste.rs/s/t4uphu/it_can_be_done) - [It Can Be Done](https://multicians.org/andre.html)
 * [2024-02-12, 01:59:05](https://lobste.rs/s/ysrbxd/i_wish_go_had_retry_block) - [I wish Go had a retry block](https://xeiaso.net/blog/2024/retry-block/)
 * [2024-02-12, 00:35:18](https://lobste.rs/s/dym8lq/pep_742_narrowing_types_with) - [PEP 742: Narrowing types with TypeNarrower](https://peps.python.org/pep-0742/)
 * [2024-02-11, 23:08:00](https://lobste.rs/s/dzxhzv/engine_failure_array_is_gone_can_we) - [Engine Failure: Array is gone - can we recover?](https://lucas.dohmen.io/posts/2024/02/11/engine-failure/)
@@ -23,8 +25,6 @@
 * [2024-02-11, 00:42:07](https://lobste.rs/s/xrjmcn/racket_v8_12_is_now_available) - [Racket v8.12 is now available](https://racket.discourse.group/t/racket-v8-12-is-now-available/2709?u=spdegabrielle)
 * [2024-02-10, 18:05:56](https://lobste.rs/s/ttmyvf/proposal_remove_average_karma_per_story) - [Proposal to Remove \"Average Karma Per Story/Comment\"](https://lobste.rs/s/ttmyvf/proposal_remove_average_karma_per_story)
 * [2024-02-10, 11:38:39](https://lobste.rs/s/pacpad/anemic_stack_traces_go) - [Anemic stack traces in Go](https://rednafi.com/go/anemic_stack_traces/)
-* [2024-02-10, 09:34:13](https://lobste.rs/s/ts2kgb/building_directx_shader_compiler_better) - [Building the DirectX shader compiler better than Microsoft?](https://devlog.hexops.com/2024/building-the-directx-shader-compiler-better-than-microsoft/)
-* [2024-02-09, 23:20:14](https://lobste.rs/s/2w2eac/parse_don_t_validate_2019) - [Parse, don’t validate (2019)](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 
 ## [Archives](archives/index.md)
 
