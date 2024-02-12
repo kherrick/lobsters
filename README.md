@@ -15,7 +15,6 @@
 * [2024-02-11, 18:50:21](https://lobste.rs/s/zu2wx1/xl_extensible_programming_language) - [XL: An extensible programming language](https://xlr.sourceforge.io/)
 * [2024-02-11, 18:43:08](https://lobste.rs/s/xtnhxo/triotp_otp_framework_for_python_trio) - [TriOTP, the OTP framework for Python Trio](https://github.com/linkdd/triotp)
 * [2024-02-11, 18:14:43](https://lobste.rs/s/r5xmhd/balancing_cube) - [Balancing cube](https://willempennings.nl/balancing-cube/)
-* [2024-02-11, 18:10:33](https://lobste.rs/s/ik2po1/bigquery_vector_search) - [BigQuery vector search](https://cloud.google.com/bigquery/docs/vector-search-intro)
 * [2024-02-11, 15:52:50](https://lobste.rs/s/qoxplp/short_history_all_windows_ui_frameworks) - [Short history of all Windows UI frameworks and libraries](https://irrlicht3d.org/index.php?t=1626)
 * [2024-02-11, 13:27:54](https://lobste.rs/s/88v0f7/guide_interfaces_go) - [A Guide to Interfaces in Go](https://fast4ward.online/posts/a-guide-to-interfaces-in-go/)
 * [2024-02-11, 09:34:34](https://lobste.rs/s/kaj3c2/minimal_linux_bootloader_debugging) - [Minimal Linux Bootloader debugging story](https://michael.stapelberg.ch/posts/2024-02-11-minimal-linux-bootloader-debugging-story/)
@@ -25,6 +24,7 @@
 * [2024-02-11, 03:18:12](https://lobste.rs/s/khgkpn/extending_rust_s_effect_system) - [Extending Rust's Effect System](https://blog.yoshuawuyts.com/extending-rusts-effect-system/)
 * [2024-02-11, 00:48:58](https://lobste.rs/s/mz7p19/hexchat_2_16_2_final_release) - [HexChat 2.16.2, The Final Release](https://hexchat.github.io/news/2.16.2.html)
 * [2024-02-10, 18:05:56](https://lobste.rs/s/ttmyvf/proposal_remove_average_karma_per_story) - [Proposal to Remove \"Average Karma Per Story/Comment\"](https://lobste.rs/s/ttmyvf/proposal_remove_average_karma_per_story)
+* [2024-02-10, 11:38:39](https://lobste.rs/s/pacpad/anemic_stack_traces_go) - [Anemic stack traces in Go](https://rednafi.com/go/anemic_stack_traces/)
 
 ## [Archives](archives/index.md)
 
