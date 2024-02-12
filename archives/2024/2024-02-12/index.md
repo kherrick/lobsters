@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-12](index.md)
 
+* [2024-02-12, 18:08:27](https://lobste.rs/s/idae4d/chess_gpt_s_internal_world_model) - [Chess-GPT’s Internal World Model](https://adamkarvonen.github.io/machine_learning/2024/01/03/chess-world-models.html)
 * [2024-02-12, 17:37:15](https://lobste.rs/s/fcfcku/ghostty_devlog_006) - [Ghostty Devlog 006](https://mitchellh.com/writing/ghostty-devlog-006)
 * [2024-02-12, 17:17:14](https://lobste.rs/s/rrku3w/future_32_bit_platform_support_freebsd) - [Future of 32-bit platform support in FreeBSD](https://lists.freebsd.org/archives/freebsd-announce/2024-February/000117.html)
 * [2024-02-12, 15:43:35](https://lobste.rs/s/itzlr4/how_would_you_explain_tensor_computer) - [How would you explain a tensor to a computer scientist?](https://math.stackexchange.com/questions/4861085/how-would-you-explain-a-tensor-to-a-computer-scientist)
