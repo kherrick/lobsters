@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-12](index.md)
 
+* [2024-02-12, 15:43:35](https://lobste.rs/s/itzlr4/how_would_you_explain_tensor_computer) - [How would you explain a tensor to a computer scientist?](https://math.stackexchange.com/questions/4861085/how-would-you-explain-a-tensor-to-a-computer-scientist)
 * [2024-02-12, 13:36:48](https://lobste.rs/s/ehztdk/glowdust_is_new_kind_database_management) - [Glowdust is a new kind of Database Management System](https://codeberg.org/glowdust/glowdust)
 * [2024-02-12, 11:00:49](https://lobste.rs/s/kmva6r/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kmva6r/what_are_you_doing_this_week)
 * [2024-02-12, 07:32:09](https://lobste.rs/s/zunjrt/how_ssh_port_became_22) - [How SSH port became 22](https://www.ssh.com/academy/ssh/port)
