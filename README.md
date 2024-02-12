@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-12, 21:41:44](https://lobste.rs/s/a3yoi6/mojo_vs_rust_is_mojo_faster_than_rust) - [Mojo vs. Rust: is Mojo faster than Rust?](https://www.modular.com/blog/mojo-vs-rust-is-mojo-faster-than-rust)
 * [2024-02-12, 21:20:46](https://lobste.rs/s/me5kql/so_you_think_you_know_git_fosdem_2024) - [So You Think You Know Git - FOSDEM 2024](https://www.youtube.com/watch?v=aolI_Rz0ZqY)
 * [2024-02-12, 18:48:15](https://lobste.rs/s/z70smd/wally_rpc_http_route_mapper_ideal_for) - [wally: RPC and HTTP route mapper ideal for microservices](https://github.com/hex0punk/wally)
 * [2024-02-12, 18:36:17](https://lobste.rs/s/4wvnsq/plausible_random_geography_generation) - [(Plausible) Random Geography Generation with PostGIS: Fluviation](https://di.nmfay.com/random-geography-fluviation)
@@ -22,7 +23,6 @@
 * [2024-02-11, 18:43:08](https://lobste.rs/s/xtnhxo/triotp_otp_framework_for_python_trio) - [TriOTP, the OTP framework for Python Trio](https://github.com/linkdd/triotp)
 * [2024-02-11, 18:14:43](https://lobste.rs/s/r5xmhd/balancing_cube) - [Balancing cube](https://willempennings.nl/balancing-cube/)
 * [2024-02-11, 15:52:50](https://lobste.rs/s/qoxplp/short_history_all_windows_ui_frameworks) - [Short history of all Windows UI frameworks and libraries](https://irrlicht3d.org/index.php?t=1626)
-* [2024-02-11, 13:27:54](https://lobste.rs/s/88v0f7/guide_interfaces_go) - [A Guide to Interfaces in Go](https://fast4ward.online/posts/a-guide-to-interfaces-in-go/)
 * [2024-02-11, 09:34:34](https://lobste.rs/s/kaj3c2/minimal_linux_bootloader_debugging) - [Minimal Linux Bootloader debugging story](https://michael.stapelberg.ch/posts/2024-02-11-minimal-linux-bootloader-debugging-story/)
 * [2024-02-11, 00:48:58](https://lobste.rs/s/mz7p19/hexchat_2_16_2_final_release) - [HexChat 2.16.2, The Final Release](https://hexchat.github.io/news/2.16.2.html)
 
