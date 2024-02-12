@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-12, 22:05:28](https://lobste.rs/s/1zmc8q/crazy_ones) - [To the crazy ones](https://alarmingdevelopment.org/?p=1708)
 * [2024-02-12, 21:41:44](https://lobste.rs/s/a3yoi6/mojo_vs_rust_is_mojo_faster_than_rust) - [Mojo vs. Rust: is Mojo faster than Rust?](https://www.modular.com/blog/mojo-vs-rust-is-mojo-faster-than-rust)
 * [2024-02-12, 21:20:46](https://lobste.rs/s/me5kql/so_you_think_you_know_git) - [So You Think You Know Git](https://www.youtube.com/watch?v=aolI_Rz0ZqY)
 * [2024-02-12, 18:48:15](https://lobste.rs/s/z70smd/wally_rpc_http_route_mapper_ideal_for) - [wally: RPC and HTTP route mapper ideal for microservices](https://github.com/hex0punk/wally)
@@ -18,7 +19,6 @@
 * [2024-02-12, 00:35:18](https://lobste.rs/s/dym8lq/pep_742_narrowing_types_with) - [PEP 742: Narrowing types with TypeNarrower](https://peps.python.org/pep-0742/)
 * [2024-02-11, 23:08:00](https://lobste.rs/s/dzxhzv/engine_failure_array_is_gone_can_we) - [Engine Failure: Array is gone - can we recover?](https://lucas.dohmen.io/posts/2024/02/11/engine-failure/)
 * [2024-02-11, 20:59:46](https://lobste.rs/s/fkcavz/tiny_ups_for_tiny_nas_reloaded) - [Tiny UPS for Tiny NAS Reloaded](https://vermaden.wordpress.com/2024/02/11/tiny-ups-for-tiny-nas-reloaded/)
-* [2024-02-11, 20:12:00](https://lobste.rs/s/dwps00/how_gnu_coreutils_are_tested) - [How the GNU coreutils are tested](http://www.pixelbeat.org/docs/coreutils-testing.html)
 * [2024-02-11, 18:50:21](https://lobste.rs/s/zu2wx1/xl_extensible_programming_language) - [XL: An extensible programming language](https://xlr.sourceforge.io/)
 * [2024-02-11, 18:43:08](https://lobste.rs/s/xtnhxo/triotp_otp_framework_for_python_trio) - [TriOTP, the OTP framework for Python Trio](https://github.com/linkdd/triotp)
 * [2024-02-11, 18:14:43](https://lobste.rs/s/r5xmhd/balancing_cube) - [Balancing cube](https://willempennings.nl/balancing-cube/)
