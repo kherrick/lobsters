@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-12](index.md)
 
+* [2024-02-12, 18:48:15](https://lobste.rs/s/z70smd/wally_rpc_http_route_mapper_ideal_for) - [wally: RPC and HTTP route mapper ideal for microservices](https://github.com/hex0punk/wally)
 * [2024-02-12, 18:36:17](https://lobste.rs/s/4wvnsq/plausible_random_geography_generation) - [(Plausible) Random Geography Generation with PostGIS: Fluviation](https://di.nmfay.com/random-geography-fluviation)
 * [2024-02-12, 18:08:27](https://lobste.rs/s/idae4d/chess_gpt_s_internal_world_model) - [Chess-GPT’s Internal World Model](https://adamkarvonen.github.io/machine_learning/2024/01/03/chess-world-models.html)
 * [2024-02-12, 17:37:15](https://lobste.rs/s/fcfcku/ghostty_devlog_006) - [Ghostty Devlog 006](https://mitchellh.com/writing/ghostty-devlog-006)
