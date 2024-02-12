@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-02-12, 01:28:36",
-      "https://lobste.rs/s/tqnc1w/new_eu_project_ngi_taler_will_bring"
-    ],
-    [
-      "New EU project NGI TALER will bring private and secure online payments to the Eurozone",
-      "https://taler.net/en/news/2024-02.html"
-    ]
-  ],
-  [
-    [
       "2024-02-12, 00:35:18",
       "https://lobste.rs/s/dym8lq/pep_742_narrowing_types_with"
     ],
@@ -247,6 +237,16 @@
     [
       "Building the DirectX shader compiler better than Microsoft?",
       "https://devlog.hexops.com/2024/building-the-directx-shader-compiler-better-than-microsoft/"
+    ]
+  ],
+  [
+    [
+      "2024-02-09, 23:20:14",
+      "https://lobste.rs/s/2w2eac/parse_don_t_validate_2019"
+    ],
+    [
+      "Parse, don’t validate (2019)",
+      "https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/"
     ]
   ]
 ]
