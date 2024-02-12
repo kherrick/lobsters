@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-12](index.md)
 
+* [2024-02-12, 06:05:36](https://lobste.rs/s/4xagh7/top_dns_hierarchy) - [The top of the DNS hierarchy](https://computer.rip/2024-02-11-the-top-of-the-DNS-hierarchy.html)
 * [2024-02-12, 05:14:00](https://lobste.rs/s/p8zemo/conway_s_game_life_is_omniperiodic) - [Conway's Game of Life is Omniperiodic](https://arxiv.org/abs/2312.02799)
 * [2024-02-12, 05:10:27](https://lobste.rs/s/t4uphu/it_can_be_done) - [It Can Be Done](https://multicians.org/andre.html)
 * [2024-02-12, 01:59:05](https://lobste.rs/s/ysrbxd/i_wish_go_had_retry_block) - [I wish Go had a retry block](https://xeiaso.net/blog/2024/retry-block/)

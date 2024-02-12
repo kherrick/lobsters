@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-12, 06:05:36](https://lobste.rs/s/4xagh7/top_dns_hierarchy) - [The top of the DNS hierarchy](https://computer.rip/2024-02-11-the-top-of-the-DNS-hierarchy.html)
 * [2024-02-12, 05:14:00](https://lobste.rs/s/p8zemo/conway_s_game_life_is_omniperiodic) - [Conway's Game of Life is Omniperiodic](https://arxiv.org/abs/2312.02799)
 * [2024-02-12, 05:10:27](https://lobste.rs/s/t4uphu/it_can_be_done) - [It Can Be Done](https://multicians.org/andre.html)
 * [2024-02-12, 01:59:05](https://lobste.rs/s/ysrbxd/i_wish_go_had_retry_block) - [I wish Go had a retry block](https://xeiaso.net/blog/2024/retry-block/)
@@ -22,7 +23,6 @@
 * [2024-02-11, 05:11:16](https://lobste.rs/s/f24zpx/cap_x_comp_x_how_tandy_pocket_computers_got) - [CAP-X and COMP-X: how the Tandy Pocket Computers got a sucky Japanese assembler](https://oldvcr.blogspot.com/2024/02/cap-x-and-comp-x-how-tandy-pocket.html)
 * [2024-02-11, 03:18:12](https://lobste.rs/s/khgkpn/extending_rust_s_effect_system) - [Extending Rust's Effect System](https://blog.yoshuawuyts.com/extending-rusts-effect-system/)
 * [2024-02-11, 00:48:58](https://lobste.rs/s/mz7p19/hexchat_2_16_2_final_release) - [HexChat 2.16.2, The Final Release](https://hexchat.github.io/news/2.16.2.html)
-* [2024-02-11, 00:42:07](https://lobste.rs/s/xrjmcn/racket_v8_12_is_now_available) - [Racket v8.12 is now available](https://racket.discourse.group/t/racket-v8-12-is-now-available/2709?u=spdegabrielle)
 * [2024-02-10, 18:05:56](https://lobste.rs/s/ttmyvf/proposal_remove_average_karma_per_story) - [Proposal to Remove \"Average Karma Per Story/Comment\"](https://lobste.rs/s/ttmyvf/proposal_remove_average_karma_per_story)
 * [2024-02-10, 11:38:39](https://lobste.rs/s/pacpad/anemic_stack_traces_go) - [Anemic stack traces in Go](https://rednafi.com/go/anemic_stack_traces/)
 
