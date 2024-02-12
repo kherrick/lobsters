@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-12, 11:00:49](https://lobste.rs/s/kmva6r/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kmva6r/what_are_you_doing_this_week)
 * [2024-02-12, 07:32:09](https://lobste.rs/s/zunjrt/how_ssh_port_became_22) - [How SSH port became 22](https://www.ssh.com/academy/ssh/port)
 * [2024-02-12, 06:05:36](https://lobste.rs/s/4xagh7/top_dns_hierarchy) - [The top of the DNS hierarchy](https://computer.rip/2024-02-11-the-top-of-the-DNS-hierarchy.html)
 * [2024-02-12, 05:14:00](https://lobste.rs/s/p8zemo/conway_s_game_life_is_omniperiodic) - [Conway's Game of Life is Omniperiodic](https://arxiv.org/abs/2312.02799)
@@ -24,7 +25,6 @@
 * [2024-02-11, 03:18:12](https://lobste.rs/s/khgkpn/extending_rust_s_effect_system) - [Extending Rust's Effect System](https://blog.yoshuawuyts.com/extending-rusts-effect-system/)
 * [2024-02-11, 00:48:58](https://lobste.rs/s/mz7p19/hexchat_2_16_2_final_release) - [HexChat 2.16.2, The Final Release](https://hexchat.github.io/news/2.16.2.html)
 * [2024-02-10, 18:05:56](https://lobste.rs/s/ttmyvf/proposal_remove_average_karma_per_story) - [Proposal to Remove \"Average Karma Per Story/Comment\"](https://lobste.rs/s/ttmyvf/proposal_remove_average_karma_per_story)
-* [2024-02-10, 11:38:39](https://lobste.rs/s/pacpad/anemic_stack_traces_go) - [Anemic stack traces in Go](https://rednafi.com/go/anemic_stack_traces/)
 
 ## [Archives](archives/index.md)
 

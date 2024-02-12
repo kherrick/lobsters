@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-12](index.md)
 
+* [2024-02-12, 11:00:49](https://lobste.rs/s/kmva6r/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kmva6r/what_are_you_doing_this_week)
 * [2024-02-12, 07:32:09](https://lobste.rs/s/zunjrt/how_ssh_port_became_22) - [How SSH port became 22](https://www.ssh.com/academy/ssh/port)
 * [2024-02-12, 06:05:36](https://lobste.rs/s/4xagh7/top_dns_hierarchy) - [The top of the DNS hierarchy](https://computer.rip/2024-02-11-the-top-of-the-DNS-hierarchy.html)
 * [2024-02-12, 05:14:00](https://lobste.rs/s/p8zemo/conway_s_game_life_is_omniperiodic) - [Conway's Game of Life is Omniperiodic](https://arxiv.org/abs/2312.02799)
