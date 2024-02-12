@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-02-12, 21:41:44](https://lobste.rs/s/a3yoi6/mojo_vs_rust_is_mojo_faster_than_rust) - [Mojo vs. Rust: is Mojo faster than Rust?](https://www.modular.com/blog/mojo-vs-rust-is-mojo-faster-than-rust)
-* [2024-02-12, 21:20:46](https://lobste.rs/s/me5kql/so_you_think_you_know_git_fosdem_2024) - [So You Think You Know Git - FOSDEM 2024](https://www.youtube.com/watch?v=aolI_Rz0ZqY)
+* [2024-02-12, 21:20:46](https://lobste.rs/s/me5kql/so_you_think_you_know_git) - [So You Think You Know Git](https://www.youtube.com/watch?v=aolI_Rz0ZqY)
 * [2024-02-12, 18:48:15](https://lobste.rs/s/z70smd/wally_rpc_http_route_mapper_ideal_for) - [wally: RPC and HTTP route mapper ideal for microservices](https://github.com/hex0punk/wally)
 * [2024-02-12, 18:36:17](https://lobste.rs/s/4wvnsq/plausible_random_geography_generation) - [(Plausible) Random Geography Generation with PostGIS: Fluviation](https://di.nmfay.com/random-geography-fluviation)
 * [2024-02-12, 18:08:27](https://lobste.rs/s/idae4d/chess_gpt_s_internal_world_model) - [Chess-GPT’s Internal World Model](https://adamkarvonen.github.io/machine_learning/2024/01/03/chess-world-models.html)
