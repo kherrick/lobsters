@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-12, 18:48:15",
+      "https://lobste.rs/s/z70smd/wally_rpc_http_route_mapper_ideal_for"
+    ],
+    [
+      "wally: RPC and HTTP route mapper ideal for microservices",
+      "https://github.com/hex0punk/wally"
+    ]
+  ],
+  [
+    [
       "2024-02-12, 18:36:17",
       "https://lobste.rs/s/4wvnsq/plausible_random_geography_generation"
     ],
@@ -137,16 +147,6 @@
     [
       "Engine Failure: Array is gone - can we recover?",
       "https://lucas.dohmen.io/posts/2024/02/11/engine-failure/"
-    ]
-  ],
-  [
-    [
-      "2024-02-11, 21:17:40",
-      "https://lobste.rs/s/3x7plf/appsec_guide_just_got_new_chapter_on"
-    ],
-    [
-      "appsec.guide just got a new chapter on fuzzing",
-      "https://blog.trailofbits.com/2024/02/09/master-fuzzing-with-our-new-testing-handbook-chapter/"
     ]
   ],
   [
