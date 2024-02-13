@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-13, 17:59:05](https://lobste.rs/s/4giqyw/not_just_nvidia_gpu_programming_runs) - [Not just NVIDIA: GPU programming that runs everywhere](https://pythonspeed.com/articles/gpu-without-cuda/)
 * [2024-02-13, 15:55:07](https://lobste.rs/s/qkt8of/pijul_sanakirja_on_mainframe) - [Pijul (and Sanakirja) on the mainframe](https://pijul.org/posts/2024-02-13-mainframe/)
 * [2024-02-13, 15:45:50](https://lobste.rs/s/9lm6sz/original_www_proposal_is_word_for) - [The original WWW proposal is a Word for Macintosh 4.0 file from 1990, can we open it?](https://blog.jgc.org/2024/02/the-original-www-proposal-is-word-for.html)
 * [2024-02-13, 15:39:02](https://lobste.rs/s/yvs0lv/time_i_almost_added_tetris_htop) - [That time I almost added Tetris to htop](https://hisham.hm/2024/02/12/that-time-i-almost-added-tetris-to-htop/)
@@ -22,7 +23,6 @@
 * [2024-02-12, 21:41:44](https://lobste.rs/s/a3yoi6/mojo_vs_rust_is_mojo_faster_than_rust) - [Mojo vs. Rust: is Mojo faster than Rust?](https://www.modular.com/blog/mojo-vs-rust-is-mojo-faster-than-rust)
 * [2024-02-12, 17:37:15](https://lobste.rs/s/fcfcku/ghostty_devlog_006) - [Ghostty Devlog 006](https://mitchellh.com/writing/ghostty-devlog-006)
 * [2024-02-12, 17:17:14](https://lobste.rs/s/rrku3w/future_32_bit_platform_support_freebsd) - [Future of 32-bit platform support in FreeBSD](https://lists.freebsd.org/archives/freebsd-announce/2024-February/000117.html)
-* [2024-02-12, 13:36:48](https://lobste.rs/s/ehztdk/glowdust_is_new_kind_database_management) - [Glowdust is a new kind of Database Management System](https://codeberg.org/glowdust/glowdust)
 * [2024-02-12, 07:32:09](https://lobste.rs/s/zunjrt/how_ssh_port_became_22) - [How SSH port became 22](https://www.ssh.com/academy/ssh/port)
 * [2024-02-12, 01:59:05](https://lobste.rs/s/ysrbxd/i_wish_go_had_retry_block) - [I wish Go had a retry block](https://xeiaso.net/blog/2024/retry-block/)
 
