@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-13, 21:23:03](https://lobste.rs/s/95d4hs/computer_animated_hand_1972_remastered) - [A Computer Animated Hand (1972) Remastered to 4K](https://youtu.be/iUZuD8F0fhE)
 * [2024-02-13, 20:53:43](https://lobste.rs/s/noonko/25_years_ago_first_asynchronous) - [25 Years Ago: The First Asynchronous Microprocessor (2015)](https://www.researchgate.net/publication/280493949_25_Years_Ago_The_First_Asynchronous_Microprocessor)
 * [2024-02-13, 20:26:05](https://lobste.rs/s/xwekng/integration_testing_with_nixos_github) - [Integration testing with NixOS in Github Actions](https://jnsgr.uk/2024/02/nixos-vms-in-github-actions/)
 * [2024-02-13, 17:59:05](https://lobste.rs/s/4giqyw/not_just_nvidia_gpu_programming_runs) - [Not just NVIDIA: GPU programming that runs everywhere](https://pythonspeed.com/articles/gpu-without-cuda/)
@@ -21,7 +22,6 @@
 * [2024-02-13, 04:59:37](https://lobste.rs/s/0dh5ao/dji_art_obfuscation) - [DJI - The ART of obfuscation](https://blog.quarkslab.com/dji-the-art-of-obfuscation.html)
 * [2024-02-13, 03:44:54](https://lobste.rs/s/njr9cn/maybe_everything_is_coroutine) - [Maybe Everything Is a Coroutine](https://adam.nels.onl/blog/maybe-everything-is-a-coroutine/)
 * [2024-02-12, 22:05:28](https://lobste.rs/s/1zmc8q/crazy_ones) - [To the crazy ones](https://alarmingdevelopment.org/?p=1708)
-* [2024-02-12, 21:41:44](https://lobste.rs/s/a3yoi6/mojo_vs_rust_is_mojo_faster_than_rust) - [Mojo vs. Rust: is Mojo faster than Rust?](https://www.modular.com/blog/mojo-vs-rust-is-mojo-faster-than-rust)
 * [2024-02-12, 17:37:15](https://lobste.rs/s/fcfcku/ghostty_devlog_006) - [Ghostty Devlog 006](https://mitchellh.com/writing/ghostty-devlog-006)
 * [2024-02-12, 17:17:14](https://lobste.rs/s/rrku3w/future_32_bit_platform_support_freebsd) - [Future of 32-bit platform support in FreeBSD](https://lists.freebsd.org/archives/freebsd-announce/2024-February/000117.html)
 * [2024-02-12, 07:32:09](https://lobste.rs/s/zunjrt/how_ssh_port_became_22) - [How SSH port became 22](https://www.ssh.com/academy/ssh/port)
