@@ -3,7 +3,7 @@
 * [2024-02-13, 15:55:07](https://lobste.rs/s/qkt8of/pijul_sanakirja_on_mainframe) - [Pijul (and Sanakirja) on the mainframe](https://pijul.org/posts/2024-02-13-mainframe/)
 * [2024-02-13, 15:45:50](https://lobste.rs/s/9lm6sz/original_www_proposal_is_word_for) - [The original WWW proposal is a Word for Macintosh 4.0 file from 1990, can we open it?](https://blog.jgc.org/2024/02/the-original-www-proposal-is-word-for.html)
 * [2024-02-13, 15:39:02](https://lobste.rs/s/yvs0lv/time_i_almost_added_tetris_htop) - [That time I almost added Tetris to htop](https://hisham.hm/2024/02/12/that-time-i-almost-added-tetris-to-htop/)
-* [2024-02-13, 15:36:09](https://lobste.rs/s/mbaych/rust_s_unsafe_pointer_types_need_overhaul) - [Rust's Unsafe Pointer Types Need An Overhaul](https://faultlore.com/blah/fix-rust-pointers/)
+* [2024-02-13, 15:36:09](https://lobste.rs/s/mbaych/rust_s_unsafe_pointer_types_need_overhaul) - [Rust's Unsafe Pointer Types Need An Overhaul (2022)](https://faultlore.com/blah/fix-rust-pointers/)
 * [2024-02-13, 14:36:29](https://lobste.rs/s/janers/routing_enhancements_for_go_1_22) - [Routing Enhancements for Go 1.22](https://go.dev/blog/routing-enhancements)
 * [2024-02-13, 13:39:53](https://lobste.rs/s/heyzwe/is_something_bugging_you) - [Is something bugging you?](https://antithesis.com/blog/is_something_bugging_you/)
 * [2024-02-13, 12:44:45](https://lobste.rs/s/hqkjzl/code_playground_visualizations) - [Code playground visualizations](https://antonz.org/playground-visualizations/)
