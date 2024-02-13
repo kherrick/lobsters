@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-13, 08:14:58](https://lobste.rs/s/ws3ra5/vectorizing_unicode_conversions_on_real) - [Vectorizing Unicode conversions on real RISC-V hardware](https://camel-cdr.github.io/rvv-bench-results/articles/vector-utf.html)
 * [2024-02-13, 08:12:41](https://lobste.rs/s/60mqgu/physical_properties_3) - [Physical Properties #3](https://buttondown.email/jaffray/archive/physical-properties-3/)
 * [2024-02-13, 07:29:26](https://lobste.rs/s/meyrl2/build_deploy_linux_systems_from_macos) - [Build and Deploy Linux Systems from macOS](https://nixcademy.com/2024/02/12/macos-linux-builder/)
 * [2024-02-13, 04:59:37](https://lobste.rs/s/0dh5ao/dji_art_obfuscation) - [DJI - The ART of obfuscation](https://blog.quarkslab.com/dji-the-art-of-obfuscation.html)
@@ -24,7 +25,6 @@
 * [2024-02-11, 23:08:00](https://lobste.rs/s/dzxhzv/engine_failure_array_is_gone_can_we) - [Engine Failure: Array is gone - can we recover?](https://lucas.dohmen.io/posts/2024/02/11/engine-failure/)
 * [2024-02-11, 20:59:46](https://lobste.rs/s/fkcavz/tiny_ups_for_tiny_nas_reloaded) - [Tiny UPS for Tiny NAS Reloaded](https://vermaden.wordpress.com/2024/02/11/tiny-ups-for-tiny-nas-reloaded/)
 * [2024-02-11, 18:14:43](https://lobste.rs/s/r5xmhd/balancing_cube) - [Balancing cube](https://willempennings.nl/balancing-cube/)
-* [2024-02-11, 09:34:34](https://lobste.rs/s/kaj3c2/minimal_linux_bootloader_debugging) - [Minimal Linux Bootloader debugging story](https://michael.stapelberg.ch/posts/2024-02-11-minimal-linux-bootloader-debugging-story/)
 
 ## [Archives](archives/index.md)
 
