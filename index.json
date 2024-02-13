@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-13, 12:22:07",
+      "https://lobste.rs/s/zrdkix/hydragen_high_throughput_llm_inference"
+    ],
+    [
+      "Hydragen: High-Throughput LLM Inference with Shared Prefixes",
+      "https://arxiv.org/abs/2402.05099"
+    ]
+  ],
+  [
+    [
       "2024-02-13, 12:07:58",
       "https://lobste.rs/s/lgurff/one_way_forward_finding_path_what_comes"
     ],
@@ -77,16 +87,6 @@
     [
       "Vectorizing Unicode conversions on real RISC-V hardware",
       "https://camel-cdr.github.io/rvv-bench-results/articles/vector-utf.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-13, 08:12:41",
-      "https://lobste.rs/s/60mqgu/physical_properties_3"
-    ],
-    [
-      "Physical Properties #3",
-      "https://buttondown.email/jaffray/archive/physical-properties-3/"
     ]
   ],
   [
