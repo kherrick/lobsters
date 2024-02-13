@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-13](index.md)
 
+* [2024-02-13, 22:48:05](https://lobste.rs/s/yn4zqr/bird_s_eye_view_polars) - [A bird's eye view of Polars](https://pola.rs/posts/polars_birds_eye_view/)
 * [2024-02-13, 22:21:08](https://lobste.rs/s/a9jfwt/haiku_activity_contract_report_january) - [Haiku Activity & Contract Report, January 2024 (ft. USB audio)](https://www.haiku-os.org/blog/waddlesplash/2024-02-13_haiku_activity_contract_report_january_2024/)
 * [2024-02-13, 22:20:08](https://lobste.rs/s/fiwax9/three_personas_ai_ecosystem) - [three personas of the ai ecosystem](https://jjasghar.github.io/blog/2024/02/13/three-personas-of-the-ai-ecosystem/)
 * [2024-02-13, 21:43:38](https://lobste.rs/s/q0lhk4/understanding_implementing_fixed_point) - [Understanding and implementing fixed point numbers](http://www.sunshine2k.de/articles/coding/fp/sunfp.html)
