@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-13, 10:45:24](https://lobste.rs/s/rxzwdm/introducing_glow_pixel_perfect_markdown) - [Introducing Glow: Pixel-perfect Markdown code blocks](https://nuejs.org/blog/introducing-glow/)
 * [2024-02-13, 09:58:05](https://lobste.rs/s/mjsqpa/c_library_android_application) - [C++ library in an Android application](https://decovar.dev/blog/2024/02/12/cpp-library-in-android-application/)
 * [2024-02-13, 09:51:53](https://lobste.rs/s/i2qnqj/why_cmake_sucks_2021) - [Why CMake sucks? (2021)](https://twdev.blog/2021/08/cmake/)
 * [2024-02-13, 09:16:13](https://lobste.rs/s/b0kwhc/switching_from_s3_tigris_on_fly_io) - [Switching from S3 to Tigris on Fly.io](https://benhoyt.com/writings/flyio-and-tigris/)
@@ -9,7 +10,6 @@
 * [2024-02-13, 07:29:26](https://lobste.rs/s/meyrl2/build_deploy_linux_systems_from_macos) - [Build and Deploy Linux Systems from macOS](https://nixcademy.com/2024/02/12/macos-linux-builder/)
 * [2024-02-13, 04:59:37](https://lobste.rs/s/0dh5ao/dji_art_obfuscation) - [DJI - The ART of obfuscation](https://blog.quarkslab.com/dji-the-art-of-obfuscation.html)
 * [2024-02-13, 03:44:54](https://lobste.rs/s/njr9cn/maybe_everything_is_coroutine) - [Maybe Everything Is a Coroutine](https://adam.nels.onl/blog/maybe-everything-is-a-coroutine/)
-* [2024-02-13, 02:57:43](https://lobste.rs/s/sgsrbf/hill_making_vs_hill_climbing) - [Hill-Making vs Hill-Climbing](https://kk.org/thetechnium/hill-making-vs-hill-climbing/)
 * [2024-02-12, 22:05:28](https://lobste.rs/s/1zmc8q/crazy_ones) - [To the crazy ones](https://alarmingdevelopment.org/?p=1708)
 * [2024-02-12, 21:41:44](https://lobste.rs/s/a3yoi6/mojo_vs_rust_is_mojo_faster_than_rust) - [Mojo vs. Rust: is Mojo faster than Rust?](https://www.modular.com/blog/mojo-vs-rust-is-mojo-faster-than-rust)
 * [2024-02-12, 21:20:46](https://lobste.rs/s/me5kql/so_you_think_you_know_git) - [So You Think You Know Git](https://www.youtube.com/watch?v=aolI_Rz0ZqY)
