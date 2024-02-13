@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-13, 02:57:43](https://lobste.rs/s/sgsrbf/hill_making_vs_hill_climbing) - [Hill-Making vs Hill-Climbing](https://kk.org/thetechnium/hill-making-vs-hill-climbing/)
 * [2024-02-12, 22:29:32](https://lobste.rs/s/wvaplj/c_never_do_s) - [C++ — Never Do's](https://www.logikalsolutions.com/wordpress/information-technology/never/)
 * [2024-02-12, 22:05:28](https://lobste.rs/s/1zmc8q/crazy_ones) - [To the crazy ones](https://alarmingdevelopment.org/?p=1708)
 * [2024-02-12, 21:41:44](https://lobste.rs/s/a3yoi6/mojo_vs_rust_is_mojo_faster_than_rust) - [Mojo vs. Rust: is Mojo faster than Rust?](https://www.modular.com/blog/mojo-vs-rust-is-mojo-faster-than-rust)
@@ -24,7 +25,6 @@
 * [2024-02-11, 18:14:43](https://lobste.rs/s/r5xmhd/balancing_cube) - [Balancing cube](https://willempennings.nl/balancing-cube/)
 * [2024-02-11, 15:52:50](https://lobste.rs/s/qoxplp/short_history_all_windows_ui_frameworks) - [Short history of all Windows UI frameworks and libraries](https://irrlicht3d.org/index.php?t=1626)
 * [2024-02-11, 09:34:34](https://lobste.rs/s/kaj3c2/minimal_linux_bootloader_debugging) - [Minimal Linux Bootloader debugging story](https://michael.stapelberg.ch/posts/2024-02-11-minimal-linux-bootloader-debugging-story/)
-* [2024-02-11, 00:48:58](https://lobste.rs/s/mz7p19/hexchat_2_16_2_final_release) - [HexChat 2.16.2, The Final Release](https://hexchat.github.io/news/2.16.2.html)
 
 ## [Archives](archives/index.md)
 
