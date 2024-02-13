@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-13](index.md)
 
+* [2024-02-13, 14:36:29](https://lobste.rs/s/janers/routing_enhancements_for_go_1_22) - [Routing Enhancements for Go 1.22](https://go.dev/blog/routing-enhancements)
 * [2024-02-13, 13:39:53](https://lobste.rs/s/heyzwe/is_something_bugging_you) - [Is something bugging you?](https://antithesis.com/blog/is_something_bugging_you/)
 * [2024-02-13, 12:44:45](https://lobste.rs/s/hqkjzl/code_playground_visualizations) - [Code playground visualizations](https://antonz.org/playground-visualizations/)
 * [2024-02-13, 12:39:16](https://lobste.rs/s/c8h262/truth_come_out_does_thetruthspy_is_secure) - [the truth come out: does TheTruthSpy is secure](https://maia.crimew.gay/posts/fuckstalkerware-4/)
