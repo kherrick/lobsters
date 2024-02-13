@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-13, 09:51:53](https://lobste.rs/s/i2qnqj/why_cmake_sucks_2021) - [Why CMake sucks? (2021)](https://twdev.blog/2021/08/cmake/)
 * [2024-02-13, 09:16:13](https://lobste.rs/s/b0kwhc/switching_from_s3_tigris_on_fly_io) - [Switching from S3 to Tigris on Fly.io](https://benhoyt.com/writings/flyio-and-tigris/)
 * [2024-02-13, 08:50:40](https://lobste.rs/s/ia61kv/shell_scripting_with_elixir) - [Shell scripting with Elixir](https://arathunku.com/b/2024/shell-scripting-with-elixir/)
 * [2024-02-13, 08:14:58](https://lobste.rs/s/ws3ra5/vectorizing_unicode_conversions_on_real) - [Vectorizing Unicode conversions on real RISC-V hardware](https://camel-cdr.github.io/rvv-bench-results/articles/vector-utf.html)
@@ -23,7 +24,6 @@
 * [2024-02-12, 05:14:00](https://lobste.rs/s/p8zemo/conway_s_game_life_is_omniperiodic) - [Conway's Game of Life is Omniperiodic](https://arxiv.org/abs/2312.02799)
 * [2024-02-12, 05:10:27](https://lobste.rs/s/t4uphu/it_can_be_done) - [It Can Be Done](https://multicians.org/andre.html)
 * [2024-02-12, 01:59:05](https://lobste.rs/s/ysrbxd/i_wish_go_had_retry_block) - [I wish Go had a retry block](https://xeiaso.net/blog/2024/retry-block/)
-* [2024-02-11, 23:08:00](https://lobste.rs/s/dzxhzv/engine_failure_array_is_gone_can_we) - [Engine Failure: Array is gone - can we recover?](https://lucas.dohmen.io/posts/2024/02/11/engine-failure/)
 * [2024-02-11, 18:14:43](https://lobste.rs/s/r5xmhd/balancing_cube) - [Balancing cube](https://willempennings.nl/balancing-cube/)
 
 ## [Archives](archives/index.md)
