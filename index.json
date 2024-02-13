@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-13, 11:48:21",
+      "https://lobste.rs/s/jaxane/right_amount_poison"
+    ],
+    [
+      "The right amount of poison",
+      "https://paul.bone.id.au/blog/2024/02/13/poisoning-firefox-memory/"
+    ]
+  ],
+  [
+    [
       "2024-02-13, 10:45:24",
       "https://lobste.rs/s/rxzwdm/introducing_glow_pixel_perfect_markdown"
     ],
@@ -237,16 +247,6 @@
     [
       "I wish Go had a retry block",
       "https://xeiaso.net/blog/2024/retry-block/"
-    ]
-  ],
-  [
-    [
-      "2024-02-11, 18:14:43",
-      "https://lobste.rs/s/r5xmhd/balancing_cube"
-    ],
-    [
-      "Balancing cube",
-      "https://willempennings.nl/balancing-cube/"
     ]
   ]
 ]
