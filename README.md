@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-13, 09:58:05](https://lobste.rs/s/mjsqpa/c_library_android_application) - [C++ library in an Android application](https://decovar.dev/blog/2024/02/12/cpp-library-in-android-application/)
 * [2024-02-13, 09:51:53](https://lobste.rs/s/i2qnqj/why_cmake_sucks_2021) - [Why CMake sucks? (2021)](https://twdev.blog/2021/08/cmake/)
 * [2024-02-13, 09:16:13](https://lobste.rs/s/b0kwhc/switching_from_s3_tigris_on_fly_io) - [Switching from S3 to Tigris on Fly.io](https://benhoyt.com/writings/flyio-and-tigris/)
 * [2024-02-13, 08:50:40](https://lobste.rs/s/ia61kv/shell_scripting_with_elixir) - [Shell scripting with Elixir](https://arathunku.com/b/2024/shell-scripting-with-elixir/)
@@ -13,7 +14,6 @@
 * [2024-02-12, 21:41:44](https://lobste.rs/s/a3yoi6/mojo_vs_rust_is_mojo_faster_than_rust) - [Mojo vs. Rust: is Mojo faster than Rust?](https://www.modular.com/blog/mojo-vs-rust-is-mojo-faster-than-rust)
 * [2024-02-12, 21:20:46](https://lobste.rs/s/me5kql/so_you_think_you_know_git) - [So You Think You Know Git](https://www.youtube.com/watch?v=aolI_Rz0ZqY)
 * [2024-02-12, 18:36:17](https://lobste.rs/s/4wvnsq/plausible_random_geography_generation) - [(Plausible) Random Geography Generation with PostGIS: Fluviation](https://di.nmfay.com/random-geography-fluviation)
-* [2024-02-12, 18:08:27](https://lobste.rs/s/idae4d/chess_gpt_s_internal_world_model) - [Chess-GPT’s Internal World Model](https://adamkarvonen.github.io/machine_learning/2024/01/03/chess-world-models.html)
 * [2024-02-12, 17:37:15](https://lobste.rs/s/fcfcku/ghostty_devlog_006) - [Ghostty Devlog 006](https://mitchellh.com/writing/ghostty-devlog-006)
 * [2024-02-12, 17:17:14](https://lobste.rs/s/rrku3w/future_32_bit_platform_support_freebsd) - [Future of 32-bit platform support in FreeBSD](https://lists.freebsd.org/archives/freebsd-announce/2024-February/000117.html)
 * [2024-02-12, 15:43:35](https://lobste.rs/s/itzlr4/how_would_you_explain_tensor_computer) - [How would you explain a tensor to a computer scientist?](https://math.stackexchange.com/questions/4861085/how-would-you-explain-a-tensor-to-a-computer-scientist)
