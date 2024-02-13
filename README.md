@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-13, 08:12:41](https://lobste.rs/s/60mqgu/physical_properties_3) - [Physical Properties #3](https://buttondown.email/jaffray/archive/physical-properties-3/)
 * [2024-02-13, 07:29:26](https://lobste.rs/s/meyrl2/build_deploy_linux_systems_from_macos) - [Build and Deploy Linux Systems from macOS](https://nixcademy.com/2024/02/12/macos-linux-builder/)
 * [2024-02-13, 04:59:37](https://lobste.rs/s/0dh5ao/dji_art_obfuscation) - [DJI - The ART of obfuscation](https://blog.quarkslab.com/dji-the-art-of-obfuscation.html)
 * [2024-02-13, 03:44:54](https://lobste.rs/s/njr9cn/maybe_everything_is_coroutine) - [Maybe Everything Is a Coroutine](https://adam.nels.onl/blog/maybe-everything-is-a-coroutine/)
@@ -8,7 +9,6 @@
 * [2024-02-12, 22:05:28](https://lobste.rs/s/1zmc8q/crazy_ones) - [To the crazy ones](https://alarmingdevelopment.org/?p=1708)
 * [2024-02-12, 21:41:44](https://lobste.rs/s/a3yoi6/mojo_vs_rust_is_mojo_faster_than_rust) - [Mojo vs. Rust: is Mojo faster than Rust?](https://www.modular.com/blog/mojo-vs-rust-is-mojo-faster-than-rust)
 * [2024-02-12, 21:20:46](https://lobste.rs/s/me5kql/so_you_think_you_know_git) - [So You Think You Know Git](https://www.youtube.com/watch?v=aolI_Rz0ZqY)
-* [2024-02-12, 18:48:15](https://lobste.rs/s/z70smd/wally_rpc_http_route_mapper_ideal_for) - [wally: RPC and HTTP route mapper ideal for microservices](https://github.com/hex0punk/wally)
 * [2024-02-12, 18:36:17](https://lobste.rs/s/4wvnsq/plausible_random_geography_generation) - [(Plausible) Random Geography Generation with PostGIS: Fluviation](https://di.nmfay.com/random-geography-fluviation)
 * [2024-02-12, 18:08:27](https://lobste.rs/s/idae4d/chess_gpt_s_internal_world_model) - [Chess-GPT’s Internal World Model](https://adamkarvonen.github.io/machine_learning/2024/01/03/chess-world-models.html)
 * [2024-02-12, 17:37:15](https://lobste.rs/s/fcfcku/ghostty_devlog_006) - [Ghostty Devlog 006](https://mitchellh.com/writing/ghostty-devlog-006)
