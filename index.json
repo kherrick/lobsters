@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-13, 02:57:43",
+      "https://lobste.rs/s/sgsrbf/hill_making_vs_hill_climbing"
+    ],
+    [
+      "Hill-Making vs Hill-Climbing",
+      "https://kk.org/thetechnium/hill-making-vs-hill-climbing/"
+    ]
+  ],
+  [
+    [
       "2024-02-12, 22:29:32",
       "https://lobste.rs/s/wvaplj/c_never_do_s"
     ],
@@ -237,16 +247,6 @@
     [
       "Minimal Linux Bootloader debugging story",
       "https://michael.stapelberg.ch/posts/2024-02-11-minimal-linux-bootloader-debugging-story/"
-    ]
-  ],
-  [
-    [
-      "2024-02-11, 00:48:58",
-      "https://lobste.rs/s/mz7p19/hexchat_2_16_2_final_release"
-    ],
-    [
-      "HexChat 2.16.2, The Final Release",
-      "https://hexchat.github.io/news/2.16.2.html"
     ]
   ]
 ]
