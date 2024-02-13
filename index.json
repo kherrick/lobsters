@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-13, 20:53:43",
+      "https://lobste.rs/s/noonko/25_years_ago_first_asynchronous"
+    ],
+    [
+      "25 Years Ago: The First Asynchronous Microprocessor (2015)",
+      "https://www.researchgate.net/publication/280493949_25_Years_Ago_The_First_Asynchronous_Microprocessor"
+    ]
+  ],
+  [
+    [
       "2024-02-13, 20:26:05",
       "https://lobste.rs/s/xwekng/integration_testing_with_nixos_github"
     ],
@@ -237,16 +247,6 @@
     [
       "How SSH port became 22",
       "https://www.ssh.com/academy/ssh/port"
-    ]
-  ],
-  [
-    [
-      "2024-02-12, 01:59:05",
-      "https://lobste.rs/s/ysrbxd/i_wish_go_had_retry_block"
-    ],
-    [
-      "I wish Go had a retry block",
-      "https://xeiaso.net/blog/2024/retry-block/"
     ]
   ]
 ]
