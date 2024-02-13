@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-13](index.md)
 
+* [2024-02-13, 15:39:02](https://lobste.rs/s/yvs0lv/time_i_almost_added_tetris_htop) - [That time I almost added Tetris to htop](https://hisham.hm/2024/02/12/that-time-i-almost-added-tetris-to-htop/)
+* [2024-02-13, 15:36:09](https://lobste.rs/s/mbaych/rust_s_unsafe_pointer_types_need_overhaul) - [Rust's Unsafe Pointer Types Need An Overhaul](https://faultlore.com/blah/fix-rust-pointers/)
 * [2024-02-13, 14:36:29](https://lobste.rs/s/janers/routing_enhancements_for_go_1_22) - [Routing Enhancements for Go 1.22](https://go.dev/blog/routing-enhancements)
 * [2024-02-13, 13:39:53](https://lobste.rs/s/heyzwe/is_something_bugging_you) - [Is something bugging you?](https://antithesis.com/blog/is_something_bugging_you/)
 * [2024-02-13, 12:44:45](https://lobste.rs/s/hqkjzl/code_playground_visualizations) - [Code playground visualizations](https://antonz.org/playground-visualizations/)
