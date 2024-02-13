@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-13, 15:45:50](https://lobste.rs/s/9lm6sz/original_www_proposal_is_word_for) - [The original WWW proposal is a Word for Macintosh 4.0 file from 1990, can we open it?](https://blog.jgc.org/2024/02/the-original-www-proposal-is-word-for.html)
 * [2024-02-13, 15:39:02](https://lobste.rs/s/yvs0lv/time_i_almost_added_tetris_htop) - [That time I almost added Tetris to htop](https://hisham.hm/2024/02/12/that-time-i-almost-added-tetris-to-htop/)
 * [2024-02-13, 15:36:09](https://lobste.rs/s/mbaych/rust_s_unsafe_pointer_types_need_overhaul) - [Rust's Unsafe Pointer Types Need An Overhaul](https://faultlore.com/blah/fix-rust-pointers/)
 * [2024-02-13, 14:36:29](https://lobste.rs/s/janers/routing_enhancements_for_go_1_22) - [Routing Enhancements for Go 1.22](https://go.dev/blog/routing-enhancements)
@@ -9,7 +10,6 @@
 * [2024-02-13, 12:07:58](https://lobste.rs/s/lgurff/one_way_forward_finding_path_what_comes) - [One way forward: finding a path to what comes after Unix (my FOSDEM '24 talk)](https://fosdem.org/2024/schedule/event/fosdem-2024-3095-one-way-forward-finding-a-path-to-what-comes-after-unix/)
 * [2024-02-13, 11:48:21](https://lobste.rs/s/jaxane/right_amount_poison) - [The right amount of poison](https://paul.bone.id.au/blog/2024/02/13/poisoning-firefox-memory/)
 * [2024-02-13, 10:45:24](https://lobste.rs/s/rxzwdm/glow_new_design_focused_markdown_syntax) - [Glow: new design-focused Markdown syntax highlighter](https://nuejs.org/blog/introducing-glow/)
-* [2024-02-13, 09:58:05](https://lobste.rs/s/mjsqpa/c_library_android_application) - [C++ library in an Android application](https://decovar.dev/blog/2024/02/12/cpp-library-in-android-application/)
 * [2024-02-13, 09:51:53](https://lobste.rs/s/i2qnqj/why_cmake_sucks_2021) - [Why CMake sucks? (2021)](https://twdev.blog/2021/08/cmake/)
 * [2024-02-13, 09:16:13](https://lobste.rs/s/b0kwhc/switching_from_s3_tigris_on_fly_io) - [Switching from S3 to Tigris on Fly.io](https://benhoyt.com/writings/flyio-and-tigris/)
 * [2024-02-13, 08:50:40](https://lobste.rs/s/ia61kv/shell_scripting_with_elixir) - [Shell scripting with Elixir](https://arathunku.com/b/2024/shell-scripting-with-elixir/)
