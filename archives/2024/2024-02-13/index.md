@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-13](index.md)
 
+* [2024-02-13, 08:50:40](https://lobste.rs/s/ia61kv/shell_scripting_with_elixir) - [Shell scripting with Elixir](https://arathunku.com/b/2024/shell-scripting-with-elixir/)
 * [2024-02-13, 08:14:58](https://lobste.rs/s/ws3ra5/vectorizing_unicode_conversions_on_real) - [Vectorizing Unicode conversions on real RISC-V hardware](https://camel-cdr.github.io/rvv-bench-results/articles/vector-utf.html)
 * [2024-02-13, 08:12:41](https://lobste.rs/s/60mqgu/physical_properties_3) - [Physical Properties #3](https://buttondown.email/jaffray/archive/physical-properties-3/)
 * [2024-02-13, 07:29:26](https://lobste.rs/s/meyrl2/build_deploy_linux_systems_from_macos) - [Build and Deploy Linux Systems from macOS](https://nixcademy.com/2024/02/12/macos-linux-builder/)
