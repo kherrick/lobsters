@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-13, 12:22:07](https://lobste.rs/s/zrdkix/hydragen_high_throughput_llm_inference) - [Hydragen: High-Throughput LLM Inference with Shared Prefixes](https://arxiv.org/abs/2402.05099)
 * [2024-02-13, 12:07:58](https://lobste.rs/s/lgurff/one_way_forward_finding_path_what_comes) - [One way forward: finding a path to what comes after Unix (my FOSDEM '24 talk)](https://fosdem.org/2024/schedule/event/fosdem-2024-3095-one-way-forward-finding-a-path-to-what-comes-after-unix/)
 * [2024-02-13, 11:48:21](https://lobste.rs/s/jaxane/right_amount_poison) - [The right amount of poison](https://paul.bone.id.au/blog/2024/02/13/poisoning-firefox-memory/)
 * [2024-02-13, 10:45:24](https://lobste.rs/s/rxzwdm/glow_new_design_focused_markdown_syntax) - [Glow: new design-focused Markdown syntax highlighter](https://nuejs.org/blog/introducing-glow/)
@@ -8,7 +9,6 @@
 * [2024-02-13, 09:16:13](https://lobste.rs/s/b0kwhc/switching_from_s3_tigris_on_fly_io) - [Switching from S3 to Tigris on Fly.io](https://benhoyt.com/writings/flyio-and-tigris/)
 * [2024-02-13, 08:50:40](https://lobste.rs/s/ia61kv/shell_scripting_with_elixir) - [Shell scripting with Elixir](https://arathunku.com/b/2024/shell-scripting-with-elixir/)
 * [2024-02-13, 08:14:58](https://lobste.rs/s/ws3ra5/vectorizing_unicode_conversions_on_real) - [Vectorizing Unicode conversions on real RISC-V hardware](https://camel-cdr.github.io/rvv-bench-results/articles/vector-utf.html)
-* [2024-02-13, 08:12:41](https://lobste.rs/s/60mqgu/physical_properties_3) - [Physical Properties #3](https://buttondown.email/jaffray/archive/physical-properties-3/)
 * [2024-02-13, 07:29:26](https://lobste.rs/s/meyrl2/build_deploy_linux_systems_from_macos) - [Build and Deploy Linux Systems from macOS](https://nixcademy.com/2024/02/12/macos-linux-builder/)
 * [2024-02-13, 04:59:37](https://lobste.rs/s/0dh5ao/dji_art_obfuscation) - [DJI - The ART of obfuscation](https://blog.quarkslab.com/dji-the-art-of-obfuscation.html)
 * [2024-02-13, 03:44:54](https://lobste.rs/s/njr9cn/maybe_everything_is_coroutine) - [Maybe Everything Is a Coroutine](https://adam.nels.onl/blog/maybe-everything-is-a-coroutine/)
