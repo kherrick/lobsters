@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-13](index.md)
 
+* [2024-02-13, 11:48:21](https://lobste.rs/s/jaxane/right_amount_poison) - [The right amount of poison](https://paul.bone.id.au/blog/2024/02/13/poisoning-firefox-memory/)
 * [2024-02-13, 10:45:24](https://lobste.rs/s/rxzwdm/introducing_glow_pixel_perfect_markdown) - [Introducing Glow: Pixel-perfect Markdown code blocks](https://nuejs.org/blog/introducing-glow/)
 * [2024-02-13, 09:58:05](https://lobste.rs/s/mjsqpa/c_library_android_application) - [C++ library in an Android application](https://decovar.dev/blog/2024/02/12/cpp-library-in-android-application/)
 * [2024-02-13, 09:51:53](https://lobste.rs/s/i2qnqj/why_cmake_sucks_2021) - [Why CMake sucks? (2021)](https://twdev.blog/2021/08/cmake/)
