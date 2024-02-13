@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-13](index.md)
 
+* [2024-02-13, 20:53:43](https://lobste.rs/s/noonko/25_years_ago_first_asynchronous) - [25 Years Ago: The First Asynchronous Microprocessor (2015)](https://www.researchgate.net/publication/280493949_25_Years_Ago_The_First_Asynchronous_Microprocessor)
 * [2024-02-13, 20:26:05](https://lobste.rs/s/xwekng/integration_testing_with_nixos_github) - [Integration testing with NixOS in Github Actions](https://jnsgr.uk/2024/02/nixos-vms-in-github-actions/)
 * [2024-02-13, 17:59:05](https://lobste.rs/s/4giqyw/not_just_nvidia_gpu_programming_runs) - [Not just NVIDIA: GPU programming that runs everywhere](https://pythonspeed.com/articles/gpu-without-cuda/)
 * [2024-02-13, 15:55:07](https://lobste.rs/s/qkt8of/pijul_sanakirja_on_mainframe) - [Pijul (and Sanakirja) on the mainframe](https://pijul.org/posts/2024-02-13-mainframe/)
