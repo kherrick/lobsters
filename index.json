@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-13, 09:58:05",
+      "https://lobste.rs/s/mjsqpa/c_library_android_application"
+    ],
+    [
+      "C++ library in an Android application",
+      "https://decovar.dev/blog/2024/02/12/cpp-library-in-android-application/"
+    ]
+  ],
+  [
+    [
       "2024-02-13, 09:51:53",
       "https://lobste.rs/s/i2qnqj/why_cmake_sucks_2021"
     ],
@@ -127,16 +137,6 @@
     [
       "(Plausible) Random Geography Generation with PostGIS: Fluviation",
       "https://di.nmfay.com/random-geography-fluviation"
-    ]
-  ],
-  [
-    [
-      "2024-02-12, 18:08:27",
-      "https://lobste.rs/s/idae4d/chess_gpt_s_internal_world_model"
-    ],
-    [
-      "Chess-GPT’s Internal World Model",
-      "https://adamkarvonen.github.io/machine_learning/2024/01/03/chess-world-models.html"
     ]
   ],
   [
