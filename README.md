@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-13, 03:44:54](https://lobste.rs/s/njr9cn/maybe_everything_is_coroutine) - [Maybe Everything Is a Coroutine](https://adam.nels.onl/blog/maybe-everything-is-a-coroutine/)
 * [2024-02-13, 02:57:43](https://lobste.rs/s/sgsrbf/hill_making_vs_hill_climbing) - [Hill-Making vs Hill-Climbing](https://kk.org/thetechnium/hill-making-vs-hill-climbing/)
 * [2024-02-12, 22:29:32](https://lobste.rs/s/wvaplj/c_never_do_s) - [C++ — Never Do's](https://www.logikalsolutions.com/wordpress/information-technology/never/)
 * [2024-02-12, 22:05:28](https://lobste.rs/s/1zmc8q/crazy_ones) - [To the crazy ones](https://alarmingdevelopment.org/?p=1708)
@@ -23,7 +24,6 @@
 * [2024-02-11, 18:50:21](https://lobste.rs/s/zu2wx1/xl_extensible_programming_language) - [XL: An extensible programming language](https://xlr.sourceforge.io/)
 * [2024-02-11, 18:43:08](https://lobste.rs/s/xtnhxo/triotp_otp_framework_for_python_trio) - [TriOTP, the OTP framework for Python Trio](https://github.com/linkdd/triotp)
 * [2024-02-11, 18:14:43](https://lobste.rs/s/r5xmhd/balancing_cube) - [Balancing cube](https://willempennings.nl/balancing-cube/)
-* [2024-02-11, 15:52:50](https://lobste.rs/s/qoxplp/short_history_all_windows_ui_frameworks) - [Short history of all Windows UI frameworks and libraries](https://irrlicht3d.org/index.php?t=1626)
 * [2024-02-11, 09:34:34](https://lobste.rs/s/kaj3c2/minimal_linux_bootloader_debugging) - [Minimal Linux Bootloader debugging story](https://michael.stapelberg.ch/posts/2024-02-11-minimal-linux-bootloader-debugging-story/)
 
 ## [Archives](archives/index.md)
