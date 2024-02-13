@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-13, 14:36:29",
+      "https://lobste.rs/s/janers/routing_enhancements_for_go_1_22"
+    ],
+    [
+      "Routing Enhancements for Go 1.22",
+      "https://go.dev/blog/routing-enhancements"
+    ]
+  ],
+  [
+    [
       "2024-02-13, 13:39:53",
       "https://lobste.rs/s/heyzwe/is_something_bugging_you"
     ],
@@ -197,16 +207,6 @@
     [
       "Future of 32-bit platform support in FreeBSD",
       "https://lists.freebsd.org/archives/freebsd-announce/2024-February/000117.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-12, 15:43:35",
-      "https://lobste.rs/s/itzlr4/how_would_you_explain_tensor_computer"
-    ],
-    [
-      "How would you explain a tensor to a computer scientist?",
-      "https://math.stackexchange.com/questions/4861085/how-would-you-explain-a-tensor-to-a-computer-scientist"
     ]
   ],
   [
