@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-13](index.md)
 
+* [2024-02-13, 12:44:45](https://lobste.rs/s/hqkjzl/code_playground_visualizations) - [Code playground visualizations](https://antonz.org/playground-visualizations/)
+* [2024-02-13, 12:39:16](https://lobste.rs/s/c8h262/truth_come_out_does_thetruthspy_is_secure) - [the truth come out: does TheTruthSpy is secure](https://maia.crimew.gay/posts/fuckstalkerware-4/)
 * [2024-02-13, 12:22:07](https://lobste.rs/s/zrdkix/hydragen_high_throughput_llm_inference) - [Hydragen: High-Throughput LLM Inference with Shared Prefixes](https://arxiv.org/abs/2402.05099)
 * [2024-02-13, 12:07:58](https://lobste.rs/s/lgurff/one_way_forward_finding_path_what_comes) - [One way forward: finding a path to what comes after Unix (my FOSDEM '24 talk)](https://fosdem.org/2024/schedule/event/fosdem-2024-3095-one-way-forward-finding-a-path-to-what-comes-after-unix/)
 * [2024-02-13, 11:48:21](https://lobste.rs/s/jaxane/right_amount_poison) - [The right amount of poison](https://paul.bone.id.au/blog/2024/02/13/poisoning-firefox-memory/)

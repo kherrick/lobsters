@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-13, 12:44:45](https://lobste.rs/s/hqkjzl/code_playground_visualizations) - [Code playground visualizations](https://antonz.org/playground-visualizations/)
+* [2024-02-13, 12:39:16](https://lobste.rs/s/c8h262/truth_come_out_does_thetruthspy_is_secure) - [the truth come out: does TheTruthSpy is secure](https://maia.crimew.gay/posts/fuckstalkerware-4/)
 * [2024-02-13, 12:22:07](https://lobste.rs/s/zrdkix/hydragen_high_throughput_llm_inference) - [Hydragen: High-Throughput LLM Inference with Shared Prefixes](https://arxiv.org/abs/2402.05099)
 * [2024-02-13, 12:07:58](https://lobste.rs/s/lgurff/one_way_forward_finding_path_what_comes) - [One way forward: finding a path to what comes after Unix (my FOSDEM '24 talk)](https://fosdem.org/2024/schedule/event/fosdem-2024-3095-one-way-forward-finding-a-path-to-what-comes-after-unix/)
 * [2024-02-13, 11:48:21](https://lobste.rs/s/jaxane/right_amount_poison) - [The right amount of poison](https://paul.bone.id.au/blog/2024/02/13/poisoning-firefox-memory/)
@@ -22,8 +24,6 @@
 * [2024-02-12, 13:36:48](https://lobste.rs/s/ehztdk/glowdust_is_new_kind_database_management) - [Glowdust is a new kind of Database Management System](https://codeberg.org/glowdust/glowdust)
 * [2024-02-12, 11:00:49](https://lobste.rs/s/kmva6r/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kmva6r/what_are_you_doing_this_week)
 * [2024-02-12, 07:32:09](https://lobste.rs/s/zunjrt/how_ssh_port_became_22) - [How SSH port became 22](https://www.ssh.com/academy/ssh/port)
-* [2024-02-12, 06:05:36](https://lobste.rs/s/4xagh7/top_dns_hierarchy) - [The top of the DNS hierarchy](https://computer.rip/2024-02-11-the-top-of-the-DNS-hierarchy.html)
-* [2024-02-12, 05:10:27](https://lobste.rs/s/t4uphu/it_can_be_done) - [It Can Be Done](https://multicians.org/andre.html)
 * [2024-02-12, 01:59:05](https://lobste.rs/s/ysrbxd/i_wish_go_had_retry_block) - [I wish Go had a retry block](https://xeiaso.net/blog/2024/retry-block/)
 
 ## [Archives](archives/index.md)
