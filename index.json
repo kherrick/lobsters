@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-13, 12:07:58",
+      "https://lobste.rs/s/lgurff/one_way_forward_finding_path_what_comes"
+    ],
+    [
+      "One way forward: finding a path to what comes after Unix (my FOSDEM '24 talk)",
+      "https://fosdem.org/2024/schedule/event/fosdem-2024-3095-one-way-forward-finding-a-path-to-what-comes-after-unix/"
+    ]
+  ],
+  [
+    [
       "2024-02-13, 11:48:21",
       "https://lobste.rs/s/jaxane/right_amount_poison"
     ],
@@ -12,10 +22,10 @@
   [
     [
       "2024-02-13, 10:45:24",
-      "https://lobste.rs/s/rxzwdm/introducing_glow_pixel_perfect_markdown"
+      "https://lobste.rs/s/rxzwdm/glow_new_design_focused_markdown_syntax"
     ],
     [
-      "Introducing Glow: Pixel-perfect Markdown code blocks",
+      "Glow: new design-focused Markdown syntax highlighter",
       "https://nuejs.org/blog/introducing-glow/"
     ]
   ],
@@ -217,16 +227,6 @@
     [
       "The top of the DNS hierarchy",
       "https://computer.rip/2024-02-11-the-top-of-the-DNS-hierarchy.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-12, 05:14:00",
-      "https://lobste.rs/s/p8zemo/conway_s_game_life_is_omniperiodic"
-    ],
-    [
-      "Conway's Game of Life is Omniperiodic",
-      "https://arxiv.org/abs/2312.02799"
     ]
   ],
   [
