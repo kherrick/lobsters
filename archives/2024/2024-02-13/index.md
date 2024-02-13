@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-13](index.md)
 
+* [2024-02-13, 22:21:08](https://lobste.rs/s/a9jfwt/haiku_activity_contract_report_january) - [Haiku Activity & Contract Report, January 2024 (ft. USB audio)](https://www.haiku-os.org/blog/waddlesplash/2024-02-13_haiku_activity_contract_report_january_2024/)
+* [2024-02-13, 22:20:08](https://lobste.rs/s/fiwax9/three_personas_ai_ecosystem) - [three personas of the ai ecosystem](https://jjasghar.github.io/blog/2024/02/13/three-personas-of-the-ai-ecosystem/)
 * [2024-02-13, 21:43:38](https://lobste.rs/s/q0lhk4/understanding_implementing_fixed_point) - [Understanding and implementing fixed point numbers](http://www.sunshine2k.de/articles/coding/fp/sunfp.html)
 * [2024-02-13, 21:23:03](https://lobste.rs/s/95d4hs/computer_animated_hand_1972_remastered) - [A Computer Animated Hand (1972) Remastered to 4K](https://youtu.be/iUZuD8F0fhE)
 * [2024-02-13, 20:53:43](https://lobste.rs/s/noonko/25_years_ago_first_asynchronous) - [25 Years Ago: The First Asynchronous Microprocessor (2015)](https://www.researchgate.net/publication/280493949_25_Years_Ago_The_First_Asynchronous_Microprocessor)
