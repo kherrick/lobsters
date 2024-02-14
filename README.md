@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-02-14, 17:25:56](https://lobste.rs/s/2dp79d/turning_point_for_cve_numbers) - [A turning point for CVE numbers](https://lwn.net/SubscriberLink/961978/9ec754c5d337d6a0/)
 * [2024-02-14, 17:13:45](https://lobste.rs/s/7qh1iz/thoughts_on_rust) - [Thoughts on Rust](https://kevinlynagh.com/newsletter/2024_02_rustrations/#thoughts-on-rust)
 * [2024-02-14, 16:06:11](https://lobste.rs/s/tp4rpx/conformant_opengl_4_6_on_m1) - [Conformant OpenGL 4.6 on the M1](https://rosenzweig.io/blog/conformant-gl46-on-the-m1.html)
+* [2024-02-14, 16:03:20](https://lobste.rs/s/wbxfv8/poster_for_neural_circuit_diagrams) - [A Poster for Neural Circuit Diagrams](https://www.vtabbott.io/ncd-poster/)
 * [2024-02-14, 15:51:35](https://lobste.rs/s/bcrbil/from_go_rust_two_types_readable_code) - [From Go to Rust: The Two Types of Readable Code](https://earthly.dev/blog/readability/)
 * [2024-02-14, 15:11:29](https://lobste.rs/s/gukm25/webgpu_best_practices) - [WebGPU Best Practices](https://toji.dev/webgpu-best-practices/)
 * [2024-02-14, 14:35:44](https://lobste.rs/s/ke89vp/cloud_cryptography_demystified_amazon) - [Cloud cryptography demystified: Amazon Web Services](https://blog.trailofbits.com/2024/02/14/cloud-cryptography-demystified-amazon-web-services/)
