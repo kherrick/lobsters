@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-14](index.md)
 
+* [2024-02-14, 16:06:11](https://lobste.rs/s/tp4rpx/conformant_opengl_4_6_on_m1) - [Conformant OpenGL 4.6 on the M1](https://rosenzweig.io/blog/conformant-gl46-on-the-m1.html)
+* [2024-02-14, 16:03:20](https://lobste.rs/s/wbxfv8/poster_for_neural_circuit_diagrams) - [A Poster for Neural Circuit Diagrams](https://www.vtabbott.io/ncd-poster/)
+* [2024-02-14, 15:51:35](https://lobste.rs/s/bcrbil/from_go_rust_two_types_readable_code) - [From Go to Rust: The Two Types of Readable Code](https://earthly.dev/blog/readability/)
 * [2024-02-14, 15:11:29](https://lobste.rs/s/gukm25/webgpu_best_practices) - [WebGPU Best Practices](https://toji.dev/webgpu-best-practices/)
 * [2024-02-14, 14:35:44](https://lobste.rs/s/ke89vp/cloud_cryptography_demystified_amazon) - [Cloud cryptography demystified: Amazon Web Services](https://blog.trailofbits.com/2024/02/14/cloud-cryptography-demystified-amazon-web-services/)
 * [2024-02-14, 14:28:23](https://lobste.rs/s/7alphe/pins_for_cryptography_with_hardware) - [PINs for Cryptography with Hardware Secure Elements](https://words.filippo.io/dispatches/secure-elements/)
