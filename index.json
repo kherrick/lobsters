@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-14, 12:37:46",
+      "https://lobste.rs/s/ri610q/images_as_code_pursuit_declarative_image"
+    ],
+    [
+      "Images as Code: The pursuit of declarative image builds",
+      "https://www.chainguard.dev/unchained/images-as-code-the-pursuit-of-declarative-image-builds"
+    ]
+  ],
+  [
+    [
       "2024-02-14, 11:12:25",
       "https://lobste.rs/s/mvf0dp/visualizing_packrat_parsing"
     ],
@@ -157,16 +167,6 @@
     [
       "Rust's Unsafe Pointer Types Need An Overhaul (2022)",
       "https://faultlore.com/blah/fix-rust-pointers/"
-    ]
-  ],
-  [
-    [
-      "2024-02-13, 14:36:29",
-      "https://lobste.rs/s/janers/routing_enhancements_for_go_1_22"
-    ],
-    [
-      "Routing Enhancements for Go 1.22",
-      "https://go.dev/blog/routing-enhancements"
     ]
   ],
   [
