@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-02-14, 16:06:11",
+      "https://lobste.rs/s/tp4rpx/conformant_opengl_4_6_on_m1"
+    ],
+    [
+      "Conformant OpenGL 4.6 on the M1",
+      "https://rosenzweig.io/blog/conformant-gl46-on-the-m1.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-14, 16:03:20",
+      "https://lobste.rs/s/wbxfv8/poster_for_neural_circuit_diagrams"
+    ],
+    [
+      "A Poster for Neural Circuit Diagrams",
+      "https://www.vtabbott.io/ncd-poster/"
+    ]
+  ],
+  [
+    [
+      "2024-02-14, 15:51:35",
+      "https://lobste.rs/s/bcrbil/from_go_rust_two_types_readable_code"
+    ],
+    [
+      "From Go to Rust: The Two Types of Readable Code",
+      "https://earthly.dev/blog/readability/"
+    ]
+  ],
+  [
+    [
       "2024-02-14, 15:11:29",
       "https://lobste.rs/s/gukm25/webgpu_best_practices"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2024-02-13, 22:48:05",
-      "https://lobste.rs/s/yn4zqr/bird_s_eye_view_polars"
-    ],
-    [
-      "A bird's eye view of Polars",
-      "https://pola.rs/posts/polars_birds_eye_view/"
-    ]
-  ],
-  [
-    [
       "2024-02-13, 20:26:05",
       "https://lobste.rs/s/xwekng/integration_testing_with_nixos_github"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2024-02-13, 15:36:09",
-      "https://lobste.rs/s/mbaych/rust_s_unsafe_pointer_types_need_overhaul"
-    ],
-    [
-      "Rust's Unsafe Pointer Types Need An Overhaul (2022)",
-      "https://faultlore.com/blah/fix-rust-pointers/"
-    ]
-  ],
-  [
-    [
       "2024-02-13, 13:39:53",
       "https://lobste.rs/s/heyzwe/is_something_bugging_you"
     ],
     [
       "Is something bugging you?",
       "https://antithesis.com/blog/is_something_bugging_you/"
-    ]
-  ],
-  [
-    [
-      "2024-02-13, 12:39:16",
-      "https://lobste.rs/s/c8h262/truth_come_out_does_thetruthspy_is_secure"
-    ],
-    [
-      "the truth come out: does TheTruthSpy is secure",
-      "https://maia.crimew.gay/posts/fuckstalkerware-4/"
     ]
   ],
   [
