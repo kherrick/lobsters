@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-14](index.md)
 
+* [2024-02-14, 05:12:27](https://lobste.rs/s/gnjx2n/c_can_be_memory_safe) - [C can be memory-safe](https://blog.erratasec.com/2023/02/c-can-be-memory-safe.html)
 * [2024-02-14, 04:56:12](https://lobste.rs/s/eshcbz/series_about_self) - [Series about Self](https://blog.rfox.eu/en/Programming/Series_about_Self/index.html)
 * [2024-02-14, 03:29:44](https://lobste.rs/s/dsu5sz/what_how_why_complex_sampling_for_sdr) - [The What, How and Why of Complex Sampling for SDR Transceivers](https://asee-ncs.org/proceedings/2019/1/92.pdf)
 * [2024-02-14, 02:23:26](https://lobste.rs/s/ajzy8l/amd_quietly_funded_drop_cuda) - [AMD Quietly Funded A Drop-In CUDA Implementation Built On ROCm: It's Now Open-Source](https://www.phoronix.com/review/radeon-cuda-zluda)
