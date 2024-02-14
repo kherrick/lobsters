@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-14](index.md)
 
+* [2024-02-14, 20:14:50](https://lobste.rs/s/jgywok/announcing_freenginx_org) - [Announcing freenginx.org](https://mailman.nginx.org/pipermail/nginx/2024-February/GPXQY27UA5SJJZ2Y6JWTRWJB2TKPTJR7.html)
 * [2024-02-14, 19:16:18](https://lobste.rs/s/embgla/one_less_un_xy_option_for_32_bit_powerpc) - [One less Un*xy option for 32-bit PowerPC](http://tenfourfox.blogspot.com/2024/02/one-less-unxy-option-for-32-bit-powerpc.html?m=1)
 * [2024-02-14, 19:12:21](https://lobste.rs/s/d2xouo/running_gnu_on_dos_with_djgpp) - [Running GNU on DOS with DJGPP](https://blogsystem5.substack.com/p/running-gnu-on-dos-with-djgpp)
 * [2024-02-14, 18:39:18](https://lobste.rs/s/t7cb7f/kan_extensions_for_program_optimisation) - [Kan Extensions for Program Optimisation (2012)](https://www.cs.ox.ac.uk/ralf.hinze/Kan.pdf)
