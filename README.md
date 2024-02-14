@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-14, 22:37:52](https://lobste.rs/s/qq3wkw/rage_against_glue_beyond_run_time_media) - [Rage Against The Glue: Beyond Run-Time Media Frameworks with Modern C++](https://cnrs.hal.science/hal-04090584/document)
 * [2024-02-14, 20:14:50](https://lobste.rs/s/jgywok/announcing_freenginx_org) - [Announcing freenginx.org](https://mailman.nginx.org/pipermail/nginx/2024-February/GPXQY27UA5SJJZ2Y6JWTRWJB2TKPTJR7.html)
 * [2024-02-14, 19:16:18](https://lobste.rs/s/embgla/one_less_un_xy_option_for_32_bit_powerpc) - [One less Un*xy option for 32-bit PowerPC](http://tenfourfox.blogspot.com/2024/02/one-less-unxy-option-for-32-bit-powerpc.html?m=1)
 * [2024-02-14, 19:12:21](https://lobste.rs/s/d2xouo/running_gnu_on_dos_with_djgpp) - [Running GNU on DOS with DJGPP](https://blogsystem5.substack.com/p/running-gnu-on-dos-with-djgpp)
@@ -18,7 +19,6 @@
 * [2024-02-14, 05:12:27](https://lobste.rs/s/gnjx2n/c_can_be_memory_safe) - [C can be memory-safe](https://blog.erratasec.com/2023/02/c-can-be-memory-safe.html)
 * [2024-02-14, 02:23:26](https://lobste.rs/s/ajzy8l/amd_quietly_funded_drop_cuda) - [AMD Quietly Funded A Drop-In CUDA Implementation Built On ROCm: It's Now Open-Source](https://www.phoronix.com/review/radeon-cuda-zluda)
 * [2024-02-14, 00:51:59](https://lobste.rs/s/ybowdq/great_gpt_firewall) - [The great GPT firewall](https://github.com/samber/the-great-gpt-firewall)
-* [2024-02-13, 23:12:20](https://lobste.rs/s/fy9gdc/blue_oak_contributor_license) - [Blue Oak Contributor License](https://writing.kemitchell.com/2024/02/13/Blue-Oak-Contributor-License)
 * [2024-02-13, 20:26:05](https://lobste.rs/s/xwekng/integration_testing_with_nixos_github) - [Integration testing with NixOS in Github Actions](https://jnsgr.uk/2024/02/nixos-vms-in-github-actions/)
 * [2024-02-13, 17:59:05](https://lobste.rs/s/4giqyw/not_just_nvidia_gpu_programming_runs) - [Not just NVIDIA: GPU programming that runs everywhere](https://pythonspeed.com/articles/gpu-without-cuda/)
 * [2024-02-13, 15:55:07](https://lobste.rs/s/qkt8of/pijul_sanakirja_on_mainframe) - [Pijul (and Sanakirja) on the mainframe](https://pijul.org/posts/2024-02-13-mainframe/)

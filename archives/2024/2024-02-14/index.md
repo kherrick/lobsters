@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-14](index.md)
 
+* [2024-02-14, 22:37:52](https://lobste.rs/s/qq3wkw/rage_against_glue_beyond_run_time_media) - [Rage Against The Glue: Beyond Run-Time Media Frameworks with Modern C++](https://cnrs.hal.science/hal-04090584/document)
 * [2024-02-14, 20:24:13](https://lobste.rs/s/gvc0y6/announcing_freenginx_org) - [announcing freenginx.org](https://mailman.nginx.org/pipermail/nginx-devel/2024-February/K5IC6VYO2PB7N4HRP2FUQIBIBCGP4WAU.html)
 * [2024-02-14, 20:14:50](https://lobste.rs/s/jgywok/announcing_freenginx_org) - [Announcing freenginx.org](https://mailman.nginx.org/pipermail/nginx/2024-February/GPXQY27UA5SJJZ2Y6JWTRWJB2TKPTJR7.html)
 * [2024-02-14, 19:16:18](https://lobste.rs/s/embgla/one_less_un_xy_option_for_32_bit_powerpc) - [One less Un*xy option for 32-bit PowerPC](http://tenfourfox.blogspot.com/2024/02/one-less-unxy-option-for-32-bit-powerpc.html?m=1)
