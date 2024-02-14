@@ -9,6 +9,7 @@
 * [2024-02-13, 23:12:20](https://lobste.rs/s/fy9gdc/blue_oak_contributor_license) - [Blue Oak Contributor License](https://writing.kemitchell.com/2024/02/13/Blue-Oak-Contributor-License)
 * [2024-02-13, 22:48:05](https://lobste.rs/s/yn4zqr/bird_s_eye_view_polars) - [A bird's eye view of Polars](https://pola.rs/posts/polars_birds_eye_view/)
 * [2024-02-13, 22:21:08](https://lobste.rs/s/a9jfwt/haiku_activity_contract_report_january) - [Haiku Activity & Contract Report, January 2024 (ft. USB audio)](https://www.haiku-os.org/blog/waddlesplash/2024-02-13_haiku_activity_contract_report_january_2024/)
+* [2024-02-13, 20:53:43](https://lobste.rs/s/noonko/25_years_ago_first_asynchronous) - [25 Years Ago: The First Asynchronous Microprocessor (2015)](https://www.researchgate.net/publication/280493949_25_Years_Ago_The_First_Asynchronous_Microprocessor)
 * [2024-02-13, 20:26:05](https://lobste.rs/s/xwekng/integration_testing_with_nixos_github) - [Integration testing with NixOS in Github Actions](https://jnsgr.uk/2024/02/nixos-vms-in-github-actions/)
 * [2024-02-13, 17:59:05](https://lobste.rs/s/4giqyw/not_just_nvidia_gpu_programming_runs) - [Not just NVIDIA: GPU programming that runs everywhere](https://pythonspeed.com/articles/gpu-without-cuda/)
 * [2024-02-13, 15:55:07](https://lobste.rs/s/qkt8of/pijul_sanakirja_on_mainframe) - [Pijul (and Sanakirja) on the mainframe](https://pijul.org/posts/2024-02-13-mainframe/)
@@ -24,7 +25,6 @@
 * [2024-02-13, 09:16:13](https://lobste.rs/s/b0kwhc/switching_from_s3_tigris_on_fly_io) - [Switching from S3 to Tigris on Fly.io](https://benhoyt.com/writings/flyio-and-tigris/)
 * [2024-02-13, 07:29:26](https://lobste.rs/s/meyrl2/build_deploy_linux_systems_from_macos) - [Build and Deploy Linux Systems from macOS](https://nixcademy.com/2024/02/12/macos-linux-builder/)
 * [2024-02-13, 03:44:54](https://lobste.rs/s/njr9cn/maybe_everything_is_coroutine) - [Maybe Everything Is a Coroutine](https://adam.nels.onl/blog/maybe-everything-is-a-coroutine/)
-* [2024-02-12, 17:37:15](https://lobste.rs/s/fcfcku/ghostty_devlog_006) - [Ghostty Devlog 006](https://mitchellh.com/writing/ghostty-devlog-006)
 
 ## [Archives](archives/index.md)
 
