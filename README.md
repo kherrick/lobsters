@@ -4,6 +4,7 @@
 * [2024-02-14, 14:35:44](https://lobste.rs/s/ke89vp/cloud_cryptography_demystified_amazon) - [Cloud cryptography demystified: Amazon Web Services](https://blog.trailofbits.com/2024/02/14/cloud-cryptography-demystified-amazon-web-services/)
 * [2024-02-14, 14:28:23](https://lobste.rs/s/7alphe/pins_for_cryptography_with_hardware) - [PINs for Cryptography with Hardware Secure Elements](https://words.filippo.io/dispatches/secure-elements/)
 * [2024-02-14, 13:12:30](https://lobste.rs/s/8dozxt/1_5_million_pdfs_25_minutes) - [1.5+ million PDFs in 25 minutes](https://zerodha.tech/blog/1-5-million-pdfs-in-25-minutes/)
+* [2024-02-14, 12:37:46](https://lobste.rs/s/ri610q/images_as_code_pursuit_declarative_image) - [Images as Code: The pursuit of declarative image builds](https://www.chainguard.dev/unchained/images-as-code-the-pursuit-of-declarative-image-builds)
 * [2024-02-14, 11:12:25](https://lobste.rs/s/mvf0dp/visualizing_packrat_parsing) - [Visualizing Packrat Parsing](https://dubroy.com/blog/visualizing-packrat-parsing/)
 * [2024-02-14, 10:14:57](https://lobste.rs/s/gjnmkm/making_my_bookshelves_clickable) - [Making my bookshelves clickable](https://jamesg.blog/2024/02/14/clickable-bookshelves/)
 * [2024-02-14, 05:12:27](https://lobste.rs/s/gnjx2n/c_can_be_memory_safe) - [C can be memory-safe](https://blog.erratasec.com/2023/02/c-can-be-memory-safe.html)
@@ -22,7 +23,6 @@
 * [2024-02-13, 13:39:53](https://lobste.rs/s/heyzwe/is_something_bugging_you) - [Is something bugging you?](https://antithesis.com/blog/is_something_bugging_you/)
 * [2024-02-13, 12:39:16](https://lobste.rs/s/c8h262/truth_come_out_does_thetruthspy_is_secure) - [the truth come out: does TheTruthSpy is secure](https://maia.crimew.gay/posts/fuckstalkerware-4/)
 * [2024-02-13, 10:45:24](https://lobste.rs/s/rxzwdm/glow_new_design_focused_markdown_syntax) - [Glow: new design-focused Markdown syntax highlighter](https://nuejs.org/blog/introducing-glow/)
-* [2024-02-13, 09:51:53](https://lobste.rs/s/i2qnqj/why_cmake_sucks_2021) - [Why CMake sucks? (2021)](https://twdev.blog/2021/08/cmake/)
 * [2024-02-13, 09:16:13](https://lobste.rs/s/b0kwhc/switching_from_s3_tigris_on_fly_io) - [Switching from S3 to Tigris on Fly.io](https://benhoyt.com/writings/flyio-and-tigris/)
 * [2024-02-13, 03:44:54](https://lobste.rs/s/njr9cn/maybe_everything_is_coroutine) - [Maybe Everything Is a Coroutine](https://adam.nels.onl/blog/maybe-everything-is-a-coroutine/)
 
