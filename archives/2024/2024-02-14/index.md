@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-14](index.md)
 
+* [2024-02-14, 18:37:07](https://lobste.rs/s/rjvrtc/ethical_challenges_it_security_slides) - [Ethical challenges in IT security [slides]](https://int21.de/slides/ethics/)
+* [2024-02-14, 18:35:10](https://lobste.rs/s/2el5ga/tyche_vscode_extension_for_visualizing) - [Tyche - A VSCode extension for visualizing data produced by property testing (e.g. from Hypothesis)](https://marketplace.visualstudio.com/items?itemName=HarrisonGoldstein.tyche)
+* [2024-02-14, 18:33:53](https://lobste.rs/s/t9bjxh/how_center_div) - [How To Center a Div](https://www.joshwcomeau.com/css/center-a-div/)
 * [2024-02-14, 17:25:56](https://lobste.rs/s/2dp79d/turning_point_for_cve_numbers) - [A turning point for CVE numbers](https://lwn.net/SubscriberLink/961978/9ec754c5d337d6a0/)
 * [2024-02-14, 17:13:45](https://lobste.rs/s/7qh1iz/thoughts_on_rust) - [Thoughts on Rust](https://kevinlynagh.com/newsletter/2024_02_rustrations/#thoughts-on-rust)
 * [2024-02-14, 16:06:11](https://lobste.rs/s/tp4rpx/conformant_opengl_4_6_on_m1) - [Conformant OpenGL 4.6 on the M1](https://rosenzweig.io/blog/conformant-gl46-on-the-m1.html)
