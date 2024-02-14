@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-14, 22:46:51",
+      "https://lobste.rs/s/qscwvz/lineageos_21_released"
+    ],
+    [
+      "LineageOS 21 released",
+      "https://lineageos.org/Changelog-28/"
+    ]
+  ],
+  [
+    [
       "2024-02-14, 22:37:52",
       "https://lobste.rs/s/qq3wkw/rage_against_glue_beyond_run_time_media"
     ],
@@ -187,16 +197,6 @@
     [
       "The great GPT firewall",
       "https://github.com/samber/the-great-gpt-firewall"
-    ]
-  ],
-  [
-    [
-      "2024-02-13, 20:26:05",
-      "https://lobste.rs/s/xwekng/integration_testing_with_nixos_github"
-    ],
-    [
-      "Integration testing with NixOS in Github Actions",
-      "https://jnsgr.uk/2024/02/nixos-vms-in-github-actions/"
     ]
   ],
   [
