@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-14, 01:23:16](https://lobste.rs/s/ugxdak/kernel_becomes_its_own_cna_cve_numbering) - [The kernel becomes its own CNA(CVE Numbering Authority)](https://lwn.net/Articles/961961/)
+* [2024-02-14, 01:01:05](https://lobste.rs/s/fmielh/honeywell_345_mhz_protocol) - [Honeywell 345 Mhz Protocol](https://denglend.github.io/decode345/)
 * [2024-02-14, 00:51:59](https://lobste.rs/s/ybowdq/great_gpt_firewall) - [The great GPT firewall](https://github.com/samber/the-great-gpt-firewall)
-* [2024-02-14, 00:26:09](https://lobste.rs/s/0p38r8/very_brief_bitknit_retrospective) - [A very brief BitKnit retrospective](https://fgiesen.wordpress.com/2023/05/06/a-very-brief-bitknit-retrospective/)
 * [2024-02-13, 23:12:20](https://lobste.rs/s/fy9gdc/blue_oak_contributor_license) - [Blue Oak Contributor License](https://writing.kemitchell.com/2024/02/13/Blue-Oak-Contributor-License)
 * [2024-02-13, 22:48:05](https://lobste.rs/s/yn4zqr/bird_s_eye_view_polars) - [A bird's eye view of Polars](https://pola.rs/posts/polars_birds_eye_view/)
 * [2024-02-13, 22:21:08](https://lobste.rs/s/a9jfwt/haiku_activity_contract_report_january) - [Haiku Activity & Contract Report, January 2024 (ft. USB audio)](https://www.haiku-os.org/blog/waddlesplash/2024-02-13_haiku_activity_contract_report_january_2024/)
@@ -24,7 +25,6 @@
 * [2024-02-13, 07:29:26](https://lobste.rs/s/meyrl2/build_deploy_linux_systems_from_macos) - [Build and Deploy Linux Systems from macOS](https://nixcademy.com/2024/02/12/macos-linux-builder/)
 * [2024-02-13, 03:44:54](https://lobste.rs/s/njr9cn/maybe_everything_is_coroutine) - [Maybe Everything Is a Coroutine](https://adam.nels.onl/blog/maybe-everything-is-a-coroutine/)
 * [2024-02-12, 17:37:15](https://lobste.rs/s/fcfcku/ghostty_devlog_006) - [Ghostty Devlog 006](https://mitchellh.com/writing/ghostty-devlog-006)
-* [2024-02-12, 17:17:14](https://lobste.rs/s/rrku3w/future_32_bit_platform_support_freebsd) - [Future of 32-bit platform support in FreeBSD](https://lists.freebsd.org/archives/freebsd-announce/2024-February/000117.html)
 
 ## [Archives](archives/index.md)
 
