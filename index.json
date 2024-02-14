@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-02-14, 03:29:44",
+      "https://lobste.rs/s/dsu5sz/what_how_why_complex_sampling_for_sdr"
+    ],
+    [
+      "The What, How and Why of Complex Sampling for SDR Transceivers",
+      "https://asee-ncs.org/proceedings/2019/1/92.pdf"
+    ]
+  ],
+  [
+    [
       "2024-02-14, 02:23:26",
       "https://lobste.rs/s/ajzy8l/amd_quietly_funded_drop_cuda"
     ],
@@ -167,16 +177,6 @@
     [
       "Rust's Unsafe Pointer Types Need An Overhaul (2022)",
       "https://faultlore.com/blah/fix-rust-pointers/"
-    ]
-  ],
-  [
-    [
-      "2024-02-13, 14:36:29",
-      "https://lobste.rs/s/janers/routing_enhancements_for_go_1_22"
-    ],
-    [
-      "Routing Enhancements for Go 1.22",
-      "https://go.dev/blog/routing-enhancements"
     ]
   ],
   [
