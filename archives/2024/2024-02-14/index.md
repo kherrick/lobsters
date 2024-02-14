@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-14](index.md)
 
+* [2024-02-14, 18:39:18](https://lobste.rs/s/t7cb7f/kan_extensions_for_program_optimisation) - [Kan Extensions for Program Optimisation (2012)](https://www.cs.ox.ac.uk/ralf.hinze/Kan.pdf)
 * [2024-02-14, 18:37:07](https://lobste.rs/s/rjvrtc/ethical_challenges_it_security_slides) - [Ethical challenges in IT security [slides]](https://int21.de/slides/ethics/)
 * [2024-02-14, 18:35:10](https://lobste.rs/s/2el5ga/tyche_vscode_extension_for_visualizing) - [Tyche - A VSCode extension for visualizing data produced by property testing (e.g. from Hypothesis)](https://marketplace.visualstudio.com/items?itemName=HarrisonGoldstein.tyche)
 * [2024-02-14, 18:33:53](https://lobste.rs/s/t9bjxh/how_center_div) - [How To Center a Div](https://www.joshwcomeau.com/css/center-a-div/)

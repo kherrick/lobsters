@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-14, 18:39:18](https://lobste.rs/s/t7cb7f/kan_extensions_for_program_optimisation) - [Kan Extensions for Program Optimisation (2012)](https://www.cs.ox.ac.uk/ralf.hinze/Kan.pdf)
 * [2024-02-14, 18:37:07](https://lobste.rs/s/rjvrtc/ethical_challenges_it_security_slides) - [Ethical challenges in IT security [slides]](https://int21.de/slides/ethics/)
 * [2024-02-14, 18:35:10](https://lobste.rs/s/2el5ga/tyche_vscode_extension_for_visualizing) - [Tyche - A VSCode extension for visualizing data produced by property testing (e.g. from Hypothesis)](https://marketplace.visualstudio.com/items?itemName=HarrisonGoldstein.tyche)
 * [2024-02-14, 18:33:53](https://lobste.rs/s/t9bjxh/how_center_div) - [How To Center a Div](https://www.joshwcomeau.com/css/center-a-div/)
@@ -22,7 +23,6 @@
 * [2024-02-13, 15:45:50](https://lobste.rs/s/9lm6sz/original_www_proposal_is_word_for) - [The original WWW proposal is a Word for Macintosh 4.0 file from 1990, can we open it?](https://blog.jgc.org/2024/02/the-original-www-proposal-is-word-for.html)
 * [2024-02-13, 15:39:02](https://lobste.rs/s/yvs0lv/time_i_almost_added_tetris_htop) - [That time I almost added Tetris to htop](https://hisham.hm/2024/02/12/that-time-i-almost-added-tetris-to-htop/)
 * [2024-02-13, 13:39:53](https://lobste.rs/s/heyzwe/is_something_bugging_you) - [Is something bugging you?](https://antithesis.com/blog/is_something_bugging_you/)
-* [2024-02-13, 10:45:24](https://lobste.rs/s/rxzwdm/glow_new_design_focused_markdown_syntax) - [Glow: new design-focused Markdown syntax highlighter](https://nuejs.org/blog/introducing-glow/)
 * [2024-02-13, 09:16:13](https://lobste.rs/s/b0kwhc/switching_from_s3_tigris_on_fly_io) - [Switching from S3 to Tigris on Fly.io](https://benhoyt.com/writings/flyio-and-tigris/)
 * [2024-02-13, 03:44:54](https://lobste.rs/s/njr9cn/maybe_everything_is_coroutine) - [Maybe Everything Is a Coroutine](https://adam.nels.onl/blog/maybe-everything-is-a-coroutine/)
 
