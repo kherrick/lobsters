@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2024-02-14, 01:23:16",
-      "https://lobste.rs/s/ugxdak/kernel_becomes_its_own_cna_cve_numbering"
-    ],
-    [
-      "The kernel becomes its own CNA (CVE Numbering Authority)",
-      "https://lwn.net/Articles/961961/"
-    ]
-  ],
-  [
-    [
       "2024-02-14, 00:51:59",
       "https://lobste.rs/s/ybowdq/great_gpt_firewall"
     ],
@@ -157,6 +147,16 @@
     [
       "Blue Oak Contributor License",
       "https://writing.kemitchell.com/2024/02/13/Blue-Oak-Contributor-License"
+    ]
+  ],
+  [
+    [
+      "2024-02-13, 22:48:05",
+      "https://lobste.rs/s/yn4zqr/bird_s_eye_view_polars"
+    ],
+    [
+      "A bird's eye view of Polars",
+      "https://pola.rs/posts/polars_birds_eye_view/"
     ]
   ],
   [
