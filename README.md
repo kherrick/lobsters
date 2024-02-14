@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-14, 14:35:44](https://lobste.rs/s/ke89vp/cloud_cryptography_demystified_amazon) - [Cloud cryptography demystified: Amazon Web Services](https://blog.trailofbits.com/2024/02/14/cloud-cryptography-demystified-amazon-web-services/)
 * [2024-02-14, 14:28:23](https://lobste.rs/s/7alphe/pins_for_cryptography_with_hardware) - [PINs for Cryptography with Hardware Secure Elements](https://words.filippo.io/dispatches/secure-elements/)
 * [2024-02-14, 13:12:30](https://lobste.rs/s/8dozxt/1_5_million_pdfs_25_minutes) - [1.5+ million PDFs in 25 minutes](https://zerodha.tech/blog/1-5-million-pdfs-in-25-minutes/)
 * [2024-02-14, 12:37:46](https://lobste.rs/s/ri610q/images_as_code_pursuit_declarative_image) - [Images as Code: The pursuit of declarative image builds](https://www.chainguard.dev/unchained/images-as-code-the-pursuit-of-declarative-image-builds)
@@ -12,7 +13,6 @@
 * [2024-02-14, 00:51:59](https://lobste.rs/s/ybowdq/great_gpt_firewall) - [The great GPT firewall](https://github.com/samber/the-great-gpt-firewall)
 * [2024-02-13, 23:12:20](https://lobste.rs/s/fy9gdc/blue_oak_contributor_license) - [Blue Oak Contributor License](https://writing.kemitchell.com/2024/02/13/Blue-Oak-Contributor-License)
 * [2024-02-13, 22:48:05](https://lobste.rs/s/yn4zqr/bird_s_eye_view_polars) - [A bird's eye view of Polars](https://pola.rs/posts/polars_birds_eye_view/)
-* [2024-02-13, 22:21:08](https://lobste.rs/s/a9jfwt/haiku_activity_contract_report_january) - [Haiku Activity & Contract Report, January 2024 (ft. USB audio)](https://www.haiku-os.org/blog/waddlesplash/2024-02-13_haiku_activity_contract_report_january_2024/)
 * [2024-02-13, 20:26:05](https://lobste.rs/s/xwekng/integration_testing_with_nixos_github) - [Integration testing with NixOS in Github Actions](https://jnsgr.uk/2024/02/nixos-vms-in-github-actions/)
 * [2024-02-13, 17:59:05](https://lobste.rs/s/4giqyw/not_just_nvidia_gpu_programming_runs) - [Not just NVIDIA: GPU programming that runs everywhere](https://pythonspeed.com/articles/gpu-without-cuda/)
 * [2024-02-13, 15:55:07](https://lobste.rs/s/qkt8of/pijul_sanakirja_on_mainframe) - [Pijul (and Sanakirja) on the mainframe](https://pijul.org/posts/2024-02-13-mainframe/)
