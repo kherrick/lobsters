@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2024-02-13, 14:36:29",
+      "https://lobste.rs/s/janers/routing_enhancements_for_go_1_22"
+    ],
+    [
+      "Routing Enhancements for Go 1.22",
+      "https://go.dev/blog/routing-enhancements"
+    ]
+  ],
+  [
+    [
       "2024-02-13, 13:39:53",
       "https://lobste.rs/s/heyzwe/is_something_bugging_you"
     ],
@@ -227,16 +237,6 @@
     [
       "Switching from S3 to Tigris on Fly.io",
       "https://benhoyt.com/writings/flyio-and-tigris/"
-    ]
-  ],
-  [
-    [
-      "2024-02-13, 07:29:26",
-      "https://lobste.rs/s/meyrl2/build_deploy_linux_systems_from_macos"
-    ],
-    [
-      "Build and Deploy Linux Systems from macOS",
-      "https://nixcademy.com/2024/02/12/macos-linux-builder/"
     ]
   ],
   [
