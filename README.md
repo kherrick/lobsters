@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-14, 11:12:25](https://lobste.rs/s/mvf0dp/visualizing_packrat_parsing) - [Visualizing Packrat Parsing](https://dubroy.com/blog/visualizing-packrat-parsing/)
 * [2024-02-14, 10:14:57](https://lobste.rs/s/gjnmkm/making_my_bookshelves_clickable) - [Making my bookshelves clickable](https://jamesg.blog/2024/02/14/clickable-bookshelves/)
 * [2024-02-14, 05:12:27](https://lobste.rs/s/gnjx2n/c_can_be_memory_safe) - [C can be memory-safe](https://blog.erratasec.com/2023/02/c-can-be-memory-safe.html)
 * [2024-02-14, 04:56:12](https://lobste.rs/s/eshcbz/series_about_self) - [Series about Self](https://blog.rfox.eu/en/Programming/Series_about_Self/index.html)
-* [2024-02-14, 03:29:44](https://lobste.rs/s/dsu5sz/what_how_why_complex_sampling_for_sdr) - [The What, How and Why of Complex Sampling for SDR Transceivers](https://asee-ncs.org/proceedings/2019/1/92.pdf)
 * [2024-02-14, 02:23:26](https://lobste.rs/s/ajzy8l/amd_quietly_funded_drop_cuda) - [AMD Quietly Funded A Drop-In CUDA Implementation Built On ROCm: It's Now Open-Source](https://www.phoronix.com/review/radeon-cuda-zluda)
 * [2024-02-14, 01:23:16](https://lobste.rs/s/ugxdak/kernel_becomes_its_own_cna_cve_numbering) - [The kernel becomes its own CNA (CVE Numbering Authority)](https://lwn.net/Articles/961961/)
 * [2024-02-14, 00:51:59](https://lobste.rs/s/ybowdq/great_gpt_firewall) - [The great GPT firewall](https://github.com/samber/the-great-gpt-firewall)
