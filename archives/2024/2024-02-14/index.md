@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-14](index.md)
 
+* [2024-02-14, 22:46:51](https://lobste.rs/s/qscwvz/lineageos_21_released) - [LineageOS 21 released](https://lineageos.org/Changelog-28/)
 * [2024-02-14, 22:37:52](https://lobste.rs/s/qq3wkw/rage_against_glue_beyond_run_time_media) - [Rage Against The Glue: Beyond Run-Time Media Frameworks with Modern C++](https://cnrs.hal.science/hal-04090584/document)
 * [2024-02-14, 20:24:13](https://lobste.rs/s/gvc0y6/announcing_freenginx_org) - [announcing freenginx.org](https://mailman.nginx.org/pipermail/nginx-devel/2024-February/K5IC6VYO2PB7N4HRP2FUQIBIBCGP4WAU.html)
 * [2024-02-14, 20:14:50](https://lobste.rs/s/jgywok/announcing_freenginx_org) - [Announcing freenginx.org](https://mailman.nginx.org/pipermail/nginx/2024-February/GPXQY27UA5SJJZ2Y6JWTRWJB2TKPTJR7.html)
