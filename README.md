@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-14, 12:37:46](https://lobste.rs/s/ri610q/images_as_code_pursuit_declarative_image) - [Images as Code: The pursuit of declarative image builds](https://www.chainguard.dev/unchained/images-as-code-the-pursuit-of-declarative-image-builds)
 * [2024-02-14, 11:12:25](https://lobste.rs/s/mvf0dp/visualizing_packrat_parsing) - [Visualizing Packrat Parsing](https://dubroy.com/blog/visualizing-packrat-parsing/)
 * [2024-02-14, 10:14:57](https://lobste.rs/s/gjnmkm/making_my_bookshelves_clickable) - [Making my bookshelves clickable](https://jamesg.blog/2024/02/14/clickable-bookshelves/)
 * [2024-02-14, 05:12:27](https://lobste.rs/s/gnjx2n/c_can_be_memory_safe) - [C can be memory-safe](https://blog.erratasec.com/2023/02/c-can-be-memory-safe.html)
@@ -16,7 +17,6 @@
 * [2024-02-13, 15:45:50](https://lobste.rs/s/9lm6sz/original_www_proposal_is_word_for) - [The original WWW proposal is a Word for Macintosh 4.0 file from 1990, can we open it?](https://blog.jgc.org/2024/02/the-original-www-proposal-is-word-for.html)
 * [2024-02-13, 15:39:02](https://lobste.rs/s/yvs0lv/time_i_almost_added_tetris_htop) - [That time I almost added Tetris to htop](https://hisham.hm/2024/02/12/that-time-i-almost-added-tetris-to-htop/)
 * [2024-02-13, 15:36:09](https://lobste.rs/s/mbaych/rust_s_unsafe_pointer_types_need_overhaul) - [Rust's Unsafe Pointer Types Need An Overhaul (2022)](https://faultlore.com/blah/fix-rust-pointers/)
-* [2024-02-13, 14:36:29](https://lobste.rs/s/janers/routing_enhancements_for_go_1_22) - [Routing Enhancements for Go 1.22](https://go.dev/blog/routing-enhancements)
 * [2024-02-13, 13:39:53](https://lobste.rs/s/heyzwe/is_something_bugging_you) - [Is something bugging you?](https://antithesis.com/blog/is_something_bugging_you/)
 * [2024-02-13, 12:39:16](https://lobste.rs/s/c8h262/truth_come_out_does_thetruthspy_is_secure) - [the truth come out: does TheTruthSpy is secure](https://maia.crimew.gay/posts/fuckstalkerware-4/)
 * [2024-02-13, 12:07:58](https://lobste.rs/s/lgurff/one_way_forward_finding_path_what_comes) - [One way forward: finding a path to what comes after Unix](https://fosdem.org/2024/schedule/event/fosdem-2024-3095-one-way-forward-finding-a-path-to-what-comes-after-unix/)
