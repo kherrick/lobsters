@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-15, 17:13:33](https://lobste.rs/s/jrkjtq/fully_documented_source_code_for_lander) - [Fully documented source code for Lander on the Acorn Archimedes](https://lander.bbcelite.com)
 * [2024-02-15, 16:18:57](https://lobste.rs/s/2izgyo/using_pulumi_automatically_benchmark) - [Using Pulumi to Automatically Benchmark Cloud Providers](https://bas.codes/posts/pulumi-example-benchmark)
 * [2024-02-15, 16:01:23](https://lobste.rs/s/yfhiti/rise_fall_robots_txt_text_file_runs) - [The rise and fall of robots.txt, the text file that runs the internet](https://www.theverge.com/24067997/robots-txt-ai-text-file-web-crawlers-spiders)
 * [2024-02-15, 15:23:36](https://lobste.rs/s/0akqy7/are_there_any_good_reasons_use_c_over_rust) - [Are there any good reasons to use C++ over Rust for new projects today?](https://lobste.rs/s/0akqy7/are_there_any_good_reasons_use_c_over_rust)
@@ -15,7 +16,6 @@
 * [2024-02-14, 20:14:50](https://lobste.rs/s/jgywok/announcing_freenginx_org) - [Announcing freenginx.org](https://mailman.nginx.org/pipermail/nginx/2024-February/GPXQY27UA5SJJZ2Y6JWTRWJB2TKPTJR7.html)
 * [2024-02-14, 19:16:18](https://lobste.rs/s/embgla/one_less_un_xy_option_for_32_bit_powerpc) - [One less Un*xy option for 32-bit PowerPC](http://tenfourfox.blogspot.com/2024/02/one-less-unxy-option-for-32-bit-powerpc.html?m=1)
 * [2024-02-14, 19:12:21](https://lobste.rs/s/d2xouo/running_gnu_on_dos_with_djgpp) - [Running GNU on DOS with DJGPP](https://blogsystem5.substack.com/p/running-gnu-on-dos-with-djgpp)
-* [2024-02-14, 18:37:07](https://lobste.rs/s/rjvrtc/ethical_challenges_it_security) - [Ethical challenges in IT security](https://int21.de/slides/ethics/)
 * [2024-02-14, 18:35:10](https://lobste.rs/s/2el5ga/tyche_vscode_extension_for_visualizing) - [Tyche - A VSCode extension for visualizing data produced by property testing (e.g. from Hypothesis)](https://marketplace.visualstudio.com/items?itemName=HarrisonGoldstein.tyche)
 * [2024-02-14, 18:33:53](https://lobste.rs/s/t9bjxh/how_center_div) - [How To Center a Div](https://www.joshwcomeau.com/css/center-a-div/)
 * [2024-02-14, 17:13:45](https://lobste.rs/s/7qh1iz/thoughts_on_rust) - [Thoughts on Rust](https://kevinlynagh.com/newsletter/2024_02_rustrations/#thoughts-on-rust)
