@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-15](index.md)
 
+* [2024-02-15, 19:18:55](https://lobste.rs/s/pocplf/pandoc_3_1_12_released) - [Pandoc 3.1.12 released](https://pandoc.org/releases.html#pandoc-3.1.12-2024-02-14)
 * [2024-02-15, 17:44:14](https://lobste.rs/s/cr46iz/understanding_recent_optimization_go_s) - [Understanding a recent optimization to Go's reflect.TypeFor](https://utcc.utoronto.ca/~cks/space/blog/programming/GoReflectTypeForOptimization)
 * [2024-02-15, 17:13:33](https://lobste.rs/s/jrkjtq/fully_documented_source_code_for_lander) - [Fully documented source code for Lander on the Acorn Archimedes](https://lander.bbcelite.com)
 * [2024-02-15, 16:18:57](https://lobste.rs/s/2izgyo/using_pulumi_automatically_benchmark) - [Using Pulumi to Automatically Benchmark Cloud Providers](https://bas.codes/posts/pulumi-example-benchmark)

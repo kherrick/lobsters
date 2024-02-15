@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-15, 19:18:55](https://lobste.rs/s/pocplf/pandoc_3_1_12_released) - [Pandoc 3.1.12 released](https://pandoc.org/releases.html#pandoc-3.1.12-2024-02-14)
 * [2024-02-15, 17:44:14](https://lobste.rs/s/cr46iz/understanding_recent_optimization_go_s) - [Understanding a recent optimization to Go's reflect.TypeFor](https://utcc.utoronto.ca/~cks/space/blog/programming/GoReflectTypeForOptimization)
 * [2024-02-15, 17:13:33](https://lobste.rs/s/jrkjtq/fully_documented_source_code_for_lander) - [Fully documented source code for Lander on the Acorn Archimedes](https://lander.bbcelite.com)
 * [2024-02-15, 16:18:57](https://lobste.rs/s/2izgyo/using_pulumi_automatically_benchmark) - [Using Pulumi to Automatically Benchmark Cloud Providers](https://bas.codes/posts/pulumi-example-benchmark)
@@ -21,7 +22,6 @@
 * [2024-02-14, 17:13:45](https://lobste.rs/s/7qh1iz/thoughts_on_rust) - [Thoughts on Rust](https://kevinlynagh.com/newsletter/2024_02_rustrations/#thoughts-on-rust)
 * [2024-02-14, 16:06:11](https://lobste.rs/s/tp4rpx/conformant_opengl_4_6_on_m1) - [Conformant OpenGL 4.6 on the M1](https://rosenzweig.io/blog/conformant-gl46-on-the-m1.html)
 * [2024-02-14, 15:51:35](https://lobste.rs/s/bcrbil/from_go_rust_two_types_readable_code) - [From Go to Rust: The Two Types of Readable Code](https://earthly.dev/blog/readability/)
-* [2024-02-14, 14:35:44](https://lobste.rs/s/ke89vp/cloud_cryptography_demystified_amazon) - [Cloud cryptography demystified: Amazon Web Services](https://blog.trailofbits.com/2024/02/14/cloud-cryptography-demystified-amazon-web-services/)
 * [2024-02-14, 13:12:30](https://lobste.rs/s/8dozxt/1_5_million_pdfs_25_minutes) - [1.5+ million PDFs in 25 minutes](https://zerodha.tech/blog/1-5-million-pdfs-in-25-minutes/)
 * [2024-02-14, 11:12:25](https://lobste.rs/s/mvf0dp/visualizing_packrat_parsing) - [Visualizing Packrat Parsing](https://dubroy.com/blog/visualizing-packrat-parsing/)
 * [2024-02-14, 10:14:57](https://lobste.rs/s/gjnmkm/making_my_bookshelves_clickable) - [Making my bookshelves clickable](https://jamesg.blog/2024/02/14/clickable-bookshelves/)
