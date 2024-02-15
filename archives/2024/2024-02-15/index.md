@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-02-15](index.md)
+
+* [2024-02-15, 02:21:54](https://lobste.rs/s/xt2dts/matrix_trashfire) - [The Matrix Trashfire](https://blog.koehntopp.info/2024/02/13/the-matrix-trashfire.html)
