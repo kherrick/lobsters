@@ -21,9 +21,9 @@
 * [2024-02-14, 05:12:27](https://lobste.rs/s/gnjx2n/c_can_be_memory_safe) - [C can be memory-safe](https://blog.erratasec.com/2023/02/c-can-be-memory-safe.html)
 * [2024-02-14, 02:23:26](https://lobste.rs/s/ajzy8l/amd_quietly_funded_drop_cuda) - [AMD Quietly Funded A Drop-In CUDA Implementation Built On ROCm: It's Now Open-Source](https://www.phoronix.com/review/radeon-cuda-zluda)
 * [2024-02-14, 00:51:59](https://lobste.rs/s/ybowdq/great_gpt_firewall) - [The great GPT firewall](https://github.com/samber/the-great-gpt-firewall)
-* [2024-02-13, 17:59:05](https://lobste.rs/s/4giqyw/not_just_nvidia_gpu_programming_runs) - [Not just NVIDIA: GPU programming that runs everywhere](https://pythonspeed.com/articles/gpu-without-cuda/)
 * [2024-02-13, 15:55:07](https://lobste.rs/s/qkt8of/pijul_sanakirja_on_mainframe) - [Pijul (and Sanakirja) on the mainframe](https://pijul.org/posts/2024-02-13-mainframe/)
 * [2024-02-13, 15:39:02](https://lobste.rs/s/yvs0lv/time_i_almost_added_tetris_htop) - [That time I almost added Tetris to htop](https://hisham.hm/2024/02/12/that-time-i-almost-added-tetris-to-htop/)
+* [2024-02-13, 13:39:53](https://lobste.rs/s/heyzwe/is_something_bugging_you) - [Is something bugging you?](https://antithesis.com/blog/is_something_bugging_you/)
 * [2024-02-13, 03:44:54](https://lobste.rs/s/njr9cn/maybe_everything_is_coroutine) - [Maybe Everything Is a Coroutine](https://adam.nels.onl/blog/maybe-everything-is-a-coroutine/)
 
 ## [Archives](archives/index.md)
