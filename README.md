@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-15, 20:03:15](https://lobste.rs/s/lnf8op/tvix_status_february_24) - [Tvix Status - February '24](https://tvl.fyi/blog/tvix-update-february-24)
 * [2024-02-15, 19:48:54](https://lobste.rs/s/ynhu2s/effver_version_your_code_by_effort) - [EffVer: Version your code by the effort required to upgrade](https://jacobtomlinson.dev/effver/)
 * [2024-02-15, 19:18:55](https://lobste.rs/s/pocplf/pandoc_3_1_12_released) - [Pandoc 3.1.12 released](https://pandoc.org/releases.html#pandoc-3.1.12-2024-02-14)
 * [2024-02-15, 17:44:14](https://lobste.rs/s/cr46iz/understanding_recent_optimization_go_s) - [Understanding a recent optimization to Go's reflect.TypeFor](https://utcc.utoronto.ca/~cks/space/blog/programming/GoReflectTypeForOptimization)
@@ -18,7 +19,6 @@
 * [2024-02-14, 20:14:50](https://lobste.rs/s/jgywok/announcing_freenginx_org) - [Announcing freenginx.org](https://mailman.nginx.org/pipermail/nginx/2024-February/GPXQY27UA5SJJZ2Y6JWTRWJB2TKPTJR7.html)
 * [2024-02-14, 19:16:18](https://lobste.rs/s/embgla/one_less_un_xy_option_for_32_bit_powerpc) - [One less Un*xy option for 32-bit PowerPC](http://tenfourfox.blogspot.com/2024/02/one-less-unxy-option-for-32-bit-powerpc.html?m=1)
 * [2024-02-14, 19:12:21](https://lobste.rs/s/d2xouo/running_gnu_on_dos_with_djgpp) - [Running GNU on DOS with DJGPP](https://blogsystem5.substack.com/p/running-gnu-on-dos-with-djgpp)
-* [2024-02-14, 18:35:10](https://lobste.rs/s/2el5ga/tyche_vscode_extension_for_visualizing) - [Tyche - A VSCode extension for visualizing data produced by property testing (e.g. from Hypothesis)](https://marketplace.visualstudio.com/items?itemName=HarrisonGoldstein.tyche)
 * [2024-02-14, 18:33:53](https://lobste.rs/s/t9bjxh/how_center_div) - [How To Center a Div](https://www.joshwcomeau.com/css/center-a-div/)
 * [2024-02-14, 17:13:45](https://lobste.rs/s/7qh1iz/thoughts_on_rust) - [Thoughts on Rust](https://kevinlynagh.com/newsletter/2024_02_rustrations/#thoughts-on-rust)
 * [2024-02-14, 16:06:11](https://lobste.rs/s/tp4rpx/conformant_opengl_4_6_on_m1) - [Conformant OpenGL 4.6 on the M1](https://rosenzweig.io/blog/conformant-gl46-on-the-m1.html)

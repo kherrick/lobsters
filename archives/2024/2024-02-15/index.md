@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-15](index.md)
 
+* [2024-02-15, 20:03:15](https://lobste.rs/s/lnf8op/tvix_status_february_24) - [Tvix Status - February '24](https://tvl.fyi/blog/tvix-update-february-24)
 * [2024-02-15, 19:48:54](https://lobste.rs/s/ynhu2s/effver_version_your_code_by_effort) - [EffVer: Version your code by the effort required to upgrade](https://jacobtomlinson.dev/effver/)
 * [2024-02-15, 19:18:55](https://lobste.rs/s/pocplf/pandoc_3_1_12_released) - [Pandoc 3.1.12 released](https://pandoc.org/releases.html#pandoc-3.1.12-2024-02-14)
 * [2024-02-15, 17:44:14](https://lobste.rs/s/cr46iz/understanding_recent_optimization_go_s) - [Understanding a recent optimization to Go's reflect.TypeFor](https://utcc.utoronto.ca/~cks/space/blog/programming/GoReflectTypeForOptimization)
