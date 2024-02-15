@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-15, 09:06:18](https://lobste.rs/s/l4pmss/huffman_codes_how_do_they_work) - [Huffman Codes – How Do They Work?](https://two-wrongs.com/huffman-codes-how-do-they-work)
 * [2024-02-15, 06:53:57](https://lobste.rs/s/1oxijt/cloudflare_defeats_patent_troll_sable_at) - [Cloudflare defeats patent troll Sable at trial](https://blog.cloudflare.com/cloudflare-defeats-patent-troll-sable-at-trial)
 * [2024-02-15, 05:57:20](https://lobste.rs/s/ne8nbl/auto_macro) - [The Auto macro](https://quuxplusone.github.io/blog/2018/08/11/the-auto-macro/)
 * [2024-02-15, 02:48:34](https://lobste.rs/s/i3zoxa/dangerzone_receives_favorable_audit) - [Dangerzone receives favorable audit](https://freedom.press/news/dangerzone-receives-favorable-audit/)
@@ -23,7 +24,6 @@
 * [2024-02-14, 05:12:27](https://lobste.rs/s/gnjx2n/c_can_be_memory_safe) - [C can be memory-safe](https://blog.erratasec.com/2023/02/c-can-be-memory-safe.html)
 * [2024-02-14, 02:23:26](https://lobste.rs/s/ajzy8l/amd_quietly_funded_drop_cuda) - [AMD Quietly Funded A Drop-In CUDA Implementation Built On ROCm: It's Now Open-Source](https://www.phoronix.com/review/radeon-cuda-zluda)
 * [2024-02-14, 00:51:59](https://lobste.rs/s/ybowdq/great_gpt_firewall) - [The great GPT firewall](https://github.com/samber/the-great-gpt-firewall)
-* [2024-02-13, 15:55:07](https://lobste.rs/s/qkt8of/pijul_sanakirja_on_mainframe) - [Pijul (and Sanakirja) on the mainframe](https://pijul.org/posts/2024-02-13-mainframe/)
 * [2024-02-13, 03:44:54](https://lobste.rs/s/njr9cn/maybe_everything_is_coroutine) - [Maybe Everything Is a Coroutine](https://adam.nels.onl/blog/maybe-everything-is-a-coroutine/)
 
 ## [Archives](archives/index.md)
