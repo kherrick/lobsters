@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-15, 05:57:20](https://lobste.rs/s/ne8nbl/auto_macro) - [The Auto macro](https://quuxplusone.github.io/blog/2018/08/11/the-auto-macro/)
 * [2024-02-15, 02:48:34](https://lobste.rs/s/i3zoxa/dangerzone_receives_favorable_audit) - [Dangerzone receives favorable audit](https://freedom.press/news/dangerzone-receives-favorable-audit/)
 * [2024-02-15, 02:21:54](https://lobste.rs/s/xt2dts/matrix_trashfire) - [The Matrix Trashfire](https://blog.koehntopp.info/2024/02/13/the-matrix-trashfire.html)
 * [2024-02-14, 22:46:51](https://lobste.rs/s/qscwvz/lineageos_21_released) - [LineageOS 21 released](https://lineageos.org/Changelog-28/)
@@ -23,7 +24,6 @@
 * [2024-02-14, 02:23:26](https://lobste.rs/s/ajzy8l/amd_quietly_funded_drop_cuda) - [AMD Quietly Funded A Drop-In CUDA Implementation Built On ROCm: It's Now Open-Source](https://www.phoronix.com/review/radeon-cuda-zluda)
 * [2024-02-14, 00:51:59](https://lobste.rs/s/ybowdq/great_gpt_firewall) - [The great GPT firewall](https://github.com/samber/the-great-gpt-firewall)
 * [2024-02-13, 15:55:07](https://lobste.rs/s/qkt8of/pijul_sanakirja_on_mainframe) - [Pijul (and Sanakirja) on the mainframe](https://pijul.org/posts/2024-02-13-mainframe/)
-* [2024-02-13, 15:39:02](https://lobste.rs/s/yvs0lv/time_i_almost_added_tetris_htop) - [That time I almost added Tetris to htop](https://hisham.hm/2024/02/12/that-time-i-almost-added-tetris-to-htop/)
 * [2024-02-13, 03:44:54](https://lobste.rs/s/njr9cn/maybe_everything_is_coroutine) - [Maybe Everything Is a Coroutine](https://adam.nels.onl/blog/maybe-everything-is-a-coroutine/)
 
 ## [Archives](archives/index.md)
