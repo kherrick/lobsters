@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-15](index.md)
 
+* [2024-02-15, 20:15:05](https://lobste.rs/s/xhqrhg/platonic_security) - [Platonic Security](https://web.archive.org/web/20240215200902/https://0x67757300.pages.dev/)
+* [2024-02-15, 20:10:28](https://lobste.rs/s/tko0ah/progman_x11_wm_modeled_after_program) - [progman: X11 WM modeled after Program Manager from the Windows 3 era](https://github.com/jcs/progman)
 * [2024-02-15, 20:03:15](https://lobste.rs/s/lnf8op/tvix_status_february_24) - [Tvix Status - February '24](https://tvl.fyi/blog/tvix-update-february-24)
 * [2024-02-15, 19:48:54](https://lobste.rs/s/ynhu2s/effver_version_your_code_by_effort) - [EffVer: Version your code by the effort required to upgrade](https://jacobtomlinson.dev/effver/)
 * [2024-02-15, 19:18:55](https://lobste.rs/s/pocplf/pandoc_3_1_12_released) - [Pandoc 3.1.12 released](https://pandoc.org/releases.html#pandoc-3.1.12-2024-02-14)
