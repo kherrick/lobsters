@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-15](index.md)
 
+* [2024-02-15, 17:44:14](https://lobste.rs/s/cr46iz/understanding_recent_optimization_go_s) - [Understanding a recent optimization to Go's reflect.TypeFor](https://utcc.utoronto.ca/~cks/space/blog/programming/GoReflectTypeForOptimization)
 * [2024-02-15, 17:13:33](https://lobste.rs/s/jrkjtq/fully_documented_source_code_for_lander) - [Fully documented source code for Lander on the Acorn Archimedes](https://lander.bbcelite.com)
 * [2024-02-15, 16:18:57](https://lobste.rs/s/2izgyo/using_pulumi_automatically_benchmark) - [Using Pulumi to Automatically Benchmark Cloud Providers](https://bas.codes/posts/pulumi-example-benchmark)
 * [2024-02-15, 16:01:23](https://lobste.rs/s/yfhiti/rise_fall_robots_txt_text_file_runs) - [The rise and fall of robots.txt, the text file that runs the internet](https://www.theverge.com/24067997/robots-txt-ai-text-file-web-crawlers-spiders)

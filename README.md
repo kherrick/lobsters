@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-15, 17:44:14](https://lobste.rs/s/cr46iz/understanding_recent_optimization_go_s) - [Understanding a recent optimization to Go's reflect.TypeFor](https://utcc.utoronto.ca/~cks/space/blog/programming/GoReflectTypeForOptimization)
 * [2024-02-15, 17:13:33](https://lobste.rs/s/jrkjtq/fully_documented_source_code_for_lander) - [Fully documented source code for Lander on the Acorn Archimedes](https://lander.bbcelite.com)
 * [2024-02-15, 16:18:57](https://lobste.rs/s/2izgyo/using_pulumi_automatically_benchmark) - [Using Pulumi to Automatically Benchmark Cloud Providers](https://bas.codes/posts/pulumi-example-benchmark)
 * [2024-02-15, 16:01:23](https://lobste.rs/s/yfhiti/rise_fall_robots_txt_text_file_runs) - [The rise and fall of robots.txt, the text file that runs the internet](https://www.theverge.com/24067997/robots-txt-ai-text-file-web-crawlers-spiders)
@@ -12,7 +13,6 @@
 * [2024-02-15, 05:57:20](https://lobste.rs/s/ne8nbl/auto_macro) - [The Auto macro](https://quuxplusone.github.io/blog/2018/08/11/the-auto-macro/)
 * [2024-02-15, 02:21:54](https://lobste.rs/s/xt2dts/matrix_trashfire) - [The Matrix Trashfire](https://blog.koehntopp.info/2024/02/13/the-matrix-trashfire.html)
 * [2024-02-14, 22:46:51](https://lobste.rs/s/qscwvz/lineageos_21_released) - [LineageOS 21 released](https://lineageos.org/Changelog-28/)
-* [2024-02-14, 22:37:52](https://lobste.rs/s/qq3wkw/rage_against_glue_beyond_run_time_media) - [Rage Against The Glue: Beyond Run-Time Media Frameworks with Modern C++](https://cnrs.hal.science/hal-04090584/document)
 * [2024-02-14, 20:14:50](https://lobste.rs/s/jgywok/announcing_freenginx_org) - [Announcing freenginx.org](https://mailman.nginx.org/pipermail/nginx/2024-February/GPXQY27UA5SJJZ2Y6JWTRWJB2TKPTJR7.html)
 * [2024-02-14, 19:16:18](https://lobste.rs/s/embgla/one_less_un_xy_option_for_32_bit_powerpc) - [One less Un*xy option for 32-bit PowerPC](http://tenfourfox.blogspot.com/2024/02/one-less-unxy-option-for-32-bit-powerpc.html?m=1)
 * [2024-02-14, 19:12:21](https://lobste.rs/s/d2xouo/running_gnu_on_dos_with_djgpp) - [Running GNU on DOS with DJGPP](https://blogsystem5.substack.com/p/running-gnu-on-dos-with-djgpp)
