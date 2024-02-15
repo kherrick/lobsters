@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-15](index.md)
 
+* [2024-02-15, 22:21:34](https://lobste.rs/s/htuuyw/sora_creating_video_from_text) - [Sora: Creating video from text](https://openai.com/sora)
 * [2024-02-15, 21:57:30](https://lobste.rs/s/vrbepc/remote_user_impersonation_takeover_via) - [Remote User Impersonation and Takeover via Cache Poisoning in Mastodon](https://arcanican.is/excerpts/cve-2024-23832/discovery.htm)
 * [2024-02-15, 20:52:59](https://lobste.rs/s/dqrksu/uv_python_packaging_rust) - [uv: Python packaging in Rust](https://astral.sh/blog/uv)
 * [2024-02-15, 20:23:21](https://lobste.rs/s/ulpody/rye_grows_with_uv) - [Rye Grows With UV](https://lucumr.pocoo.org/2024/2/15/rye-grows-with-uv/)
