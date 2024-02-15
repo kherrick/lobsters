@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-15, 16:01:23](https://lobste.rs/s/yfhiti/rise_fall_robots_txt_text_file_runs) - [The rise and fall of robots.txt, the text file that runs the internet](https://www.theverge.com/24067997/robots-txt-ai-text-file-web-crawlers-spiders)
 * [2024-02-15, 15:23:36](https://lobste.rs/s/0akqy7/are_there_any_good_reasons_use_c_over_rust) - [Are there any good reasons to use C++ over Rust for new projects today?](https://lobste.rs/s/0akqy7/are_there_any_good_reasons_use_c_over_rust)
 * [2024-02-15, 14:44:07](https://lobste.rs/s/nozht8/calendar_versioning) - [Calendar versioning](https://www.letsdebug.it/post/41-calendar-versioning/)
 * [2024-02-15, 14:29:16](https://lobste.rs/s/3kmwjt/performance_roulette_luck_code) - [Performance Roulette: The Luck of Code Alignment](https://www.bazhenov.me/posts/2024-02-performance-roulette/)
@@ -24,7 +25,6 @@
 * [2024-02-14, 13:12:30](https://lobste.rs/s/8dozxt/1_5_million_pdfs_25_minutes) - [1.5+ million PDFs in 25 minutes](https://zerodha.tech/blog/1-5-million-pdfs-in-25-minutes/)
 * [2024-02-14, 11:12:25](https://lobste.rs/s/mvf0dp/visualizing_packrat_parsing) - [Visualizing Packrat Parsing](https://dubroy.com/blog/visualizing-packrat-parsing/)
 * [2024-02-14, 10:14:57](https://lobste.rs/s/gjnmkm/making_my_bookshelves_clickable) - [Making my bookshelves clickable](https://jamesg.blog/2024/02/14/clickable-bookshelves/)
-* [2024-02-14, 05:12:27](https://lobste.rs/s/gnjx2n/c_can_be_memory_safe) - [C can be memory-safe](https://blog.erratasec.com/2023/02/c-can-be-memory-safe.html)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-15](index.md)
 
+* [2024-02-15, 16:01:23](https://lobste.rs/s/yfhiti/rise_fall_robots_txt_text_file_runs) - [The rise and fall of robots.txt, the text file that runs the internet](https://www.theverge.com/24067997/robots-txt-ai-text-file-web-crawlers-spiders)
 * [2024-02-15, 15:23:36](https://lobste.rs/s/0akqy7/are_there_any_good_reasons_use_c_over_rust) - [Are there any good reasons to use C++ over Rust for new projects today?](https://lobste.rs/s/0akqy7/are_there_any_good_reasons_use_c_over_rust)
 * [2024-02-15, 14:44:07](https://lobste.rs/s/nozht8/calendar_versioning) - [Calendar versioning](https://www.letsdebug.it/post/41-calendar-versioning/)
 * [2024-02-15, 14:29:16](https://lobste.rs/s/3kmwjt/performance_roulette_luck_code) - [Performance Roulette: The Luck of Code Alignment](https://www.bazhenov.me/posts/2024-02-performance-roulette/)
