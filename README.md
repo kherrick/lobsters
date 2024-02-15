@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-15, 15:23:36](https://lobste.rs/s/0akqy7/are_there_any_good_reasons_use_c_over_rust) - [Are there any good reasons to use C++ over Rust for new projects today?](https://lobste.rs/s/0akqy7/are_there_any_good_reasons_use_c_over_rust)
 * [2024-02-15, 14:44:07](https://lobste.rs/s/nozht8/calendar_versioning) - [Calendar versioning](https://www.letsdebug.it/post/41-calendar-versioning/)
 * [2024-02-15, 14:29:16](https://lobste.rs/s/3kmwjt/performance_roulette_luck_code) - [Performance Roulette: The Luck of Code Alignment](https://www.bazhenov.me/posts/2024-02-performance-roulette/)
 * [2024-02-15, 14:09:53](https://lobste.rs/s/upfvf4/introduction_forthcoming_python) - [Introduction to the forthcoming Python Developer Tooling Handbook](HTTPS://pydevtools.com)
@@ -24,7 +25,6 @@
 * [2024-02-14, 11:12:25](https://lobste.rs/s/mvf0dp/visualizing_packrat_parsing) - [Visualizing Packrat Parsing](https://dubroy.com/blog/visualizing-packrat-parsing/)
 * [2024-02-14, 10:14:57](https://lobste.rs/s/gjnmkm/making_my_bookshelves_clickable) - [Making my bookshelves clickable](https://jamesg.blog/2024/02/14/clickable-bookshelves/)
 * [2024-02-14, 05:12:27](https://lobste.rs/s/gnjx2n/c_can_be_memory_safe) - [C can be memory-safe](https://blog.erratasec.com/2023/02/c-can-be-memory-safe.html)
-* [2024-02-14, 00:51:59](https://lobste.rs/s/ybowdq/great_gpt_firewall) - [The great GPT firewall](https://github.com/samber/the-great-gpt-firewall)
 
 ## [Archives](archives/index.md)
 

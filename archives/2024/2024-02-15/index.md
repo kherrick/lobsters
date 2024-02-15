@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-15](index.md)
 
+* [2024-02-15, 15:23:36](https://lobste.rs/s/0akqy7/are_there_any_good_reasons_use_c_over_rust) - [Are there any good reasons to use C++ over Rust for new projects today?](https://lobste.rs/s/0akqy7/are_there_any_good_reasons_use_c_over_rust)
 * [2024-02-15, 14:44:07](https://lobste.rs/s/nozht8/calendar_versioning) - [Calendar versioning](https://www.letsdebug.it/post/41-calendar-versioning/)
 * [2024-02-15, 14:29:16](https://lobste.rs/s/3kmwjt/performance_roulette_luck_code) - [Performance Roulette: The Luck of Code Alignment](https://www.bazhenov.me/posts/2024-02-performance-roulette/)
 * [2024-02-15, 14:09:53](https://lobste.rs/s/upfvf4/introduction_forthcoming_python) - [Introduction to the forthcoming Python Developer Tooling Handbook](HTTPS://pydevtools.com)
