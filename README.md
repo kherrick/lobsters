@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-15, 14:09:53](https://lobste.rs/s/upfvf4/introduction_forthcoming_python) - [Introduction to the forthcoming Python Developer Tooling Handbook](HTTPS://pydevtools.com)
 * [2024-02-15, 09:06:18](https://lobste.rs/s/l4pmss/huffman_codes_how_do_they_work) - [Huffman Codes – How Do They Work?](https://two-wrongs.com/huffman-codes-how-do-they-work)
 * [2024-02-15, 06:53:57](https://lobste.rs/s/1oxijt/cloudflare_defeats_patent_troll_sable_at) - [Cloudflare defeats patent troll Sable at trial](https://blog.cloudflare.com/cloudflare-defeats-patent-troll-sable-at-trial)
 * [2024-02-15, 05:57:20](https://lobste.rs/s/ne8nbl/auto_macro) - [The Auto macro](https://quuxplusone.github.io/blog/2018/08/11/the-auto-macro/)
-* [2024-02-15, 02:48:34](https://lobste.rs/s/i3zoxa/dangerzone_receives_favorable_audit) - [Dangerzone receives favorable audit](https://freedom.press/news/dangerzone-receives-favorable-audit/)
 * [2024-02-15, 02:21:54](https://lobste.rs/s/xt2dts/matrix_trashfire) - [The Matrix Trashfire](https://blog.koehntopp.info/2024/02/13/the-matrix-trashfire.html)
 * [2024-02-14, 22:46:51](https://lobste.rs/s/qscwvz/lineageos_21_released) - [LineageOS 21 released](https://lineageos.org/Changelog-28/)
 * [2024-02-14, 22:37:52](https://lobste.rs/s/qq3wkw/rage_against_glue_beyond_run_time_media) - [Rage Against The Glue: Beyond Run-Time Media Frameworks with Modern C++](https://cnrs.hal.science/hal-04090584/document)
