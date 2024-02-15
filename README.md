@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-15, 06:53:57](https://lobste.rs/s/1oxijt/cloudflare_defeats_patent_troll_sable_at) - [Cloudflare defeats patent troll Sable at trial](https://blog.cloudflare.com/cloudflare-defeats-patent-troll-sable-at-trial)
 * [2024-02-15, 05:57:20](https://lobste.rs/s/ne8nbl/auto_macro) - [The Auto macro](https://quuxplusone.github.io/blog/2018/08/11/the-auto-macro/)
 * [2024-02-15, 02:48:34](https://lobste.rs/s/i3zoxa/dangerzone_receives_favorable_audit) - [Dangerzone receives favorable audit](https://freedom.press/news/dangerzone-receives-favorable-audit/)
 * [2024-02-15, 02:21:54](https://lobste.rs/s/xt2dts/matrix_trashfire) - [The Matrix Trashfire](https://blog.koehntopp.info/2024/02/13/the-matrix-trashfire.html)
@@ -14,7 +15,6 @@
 * [2024-02-14, 17:13:45](https://lobste.rs/s/7qh1iz/thoughts_on_rust) - [Thoughts on Rust](https://kevinlynagh.com/newsletter/2024_02_rustrations/#thoughts-on-rust)
 * [2024-02-14, 16:06:11](https://lobste.rs/s/tp4rpx/conformant_opengl_4_6_on_m1) - [Conformant OpenGL 4.6 on the M1](https://rosenzweig.io/blog/conformant-gl46-on-the-m1.html)
 * [2024-02-14, 15:51:35](https://lobste.rs/s/bcrbil/from_go_rust_two_types_readable_code) - [From Go to Rust: The Two Types of Readable Code](https://earthly.dev/blog/readability/)
-* [2024-02-14, 15:11:29](https://lobste.rs/s/gukm25/webgpu_best_practices) - [WebGPU Best Practices](https://toji.dev/webgpu-best-practices/)
 * [2024-02-14, 14:35:44](https://lobste.rs/s/ke89vp/cloud_cryptography_demystified_amazon) - [Cloud cryptography demystified: Amazon Web Services](https://blog.trailofbits.com/2024/02/14/cloud-cryptography-demystified-amazon-web-services/)
 * [2024-02-14, 14:28:23](https://lobste.rs/s/7alphe/pins_for_cryptography_with_hardware) - [PINs for Cryptography with Hardware Secure Elements](https://words.filippo.io/dispatches/secure-elements/)
 * [2024-02-14, 13:12:30](https://lobste.rs/s/8dozxt/1_5_million_pdfs_25_minutes) - [1.5+ million PDFs in 25 minutes](https://zerodha.tech/blog/1-5-million-pdfs-in-25-minutes/)
