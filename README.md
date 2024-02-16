@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-16, 17:06:49](https://lobste.rs/s/oumrhu/packaging_scrutiny_for_nixos) - [Packaging Scrutiny for NixOS](https://jnsgr.uk/2024/02/packaging-scrutiny-for-nixos/)
 * [2024-02-16, 16:53:48](https://lobste.rs/s/ee74sc/freebsd_status_report_2023_q4) - [FreeBSD Status Report 2023 Q4](https://www.freebsd.org/status/report-2023-10-2023-12/)
 * [2024-02-16, 16:32:28](https://lobste.rs/s/zolah3/ui_f_states) - [UI = f(statesⁿ)](https://daverupert.com/2024/02/ui-states/)
 * [2024-02-16, 16:02:04](https://lobste.rs/s/mb6xlm/guix_on_framework_13_amd) - [guix on the framework 13 amd](https://wingolog.org/archives/2024/02/16/guix-on-the-framework-13-amd)
@@ -12,7 +13,6 @@
 * [2024-02-16, 09:56:58](https://lobste.rs/s/k1tnnm/scientific_python_ecosystem) - [Scientific Python Ecosystem Coordination recommendation on Minimum Supported Dependencies](https://scientific-python.org/specs/spec-0000/)
 * [2024-02-16, 07:15:55](https://lobste.rs/s/jchgwm/reflections_on_25_years_programming) - [Reflections On 25 Years Of Programming](https://medium.com/@kkmvv/reflections-on-25-years-of-programming-173116995c57)
 * [2024-02-16, 06:06:49](https://lobste.rs/s/sduaqc/forgejo_forks_its_own_path_forward) - [Forgejo forks its own path forward](https://forgejo.org/2024-02-forking-forward/)
-* [2024-02-16, 05:52:11](https://lobste.rs/s/zrwxrl/eff_s_extended_guide_internet_circa_1994) - [EFF's (Extended) Guide to the Internet circa 1994](https://www.whitman.edu/mathematics/eegtti/eeg_toc.html)
 * [2024-02-16, 04:11:18](https://lobste.rs/s/dcm4n6/observable_announces_local_first) - [Observable announces a local first dataviz framework](https://observablehq.com/blog/observable-2-0)
 * [2024-02-16, 03:34:55](https://lobste.rs/s/bbxaac/why_python_s_integer_division_floors_2010) - [Why Python's Integer Division Floors (2010)](http://python-history.blogspot.com/2010/08/why-pythons-integer-division-floors.html)
 * [2024-02-16, 00:24:47](https://lobste.rs/s/3blthf/dependency_solving_nix) - [Dependency solving in Nix](http://www.chriswarbo.net/projects/nixos/nix_dependencies.html)
