@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-16, 15:36:56](https://lobste.rs/s/x44mg4/managing_mutable_data_elixir_with_rust) - [Managing mutable data in Elixir with Rust](https://www.lambdafunctions.com/articles/elixir-and-rust)
 * [2024-02-16, 12:33:49](https://lobste.rs/s/qx0dey/ampere_wild_how_freebsd_employs_ampere) - [Ampere in the Wild – How FreeBSD Employs Ampere ARM64 Servers in Data Center](https://amperecomputing.com/blogs/ampere-in-the-wild)
 * [2024-02-16, 12:33:07](https://lobste.rs/s/d7ce3h/zfs_encryption_notification_service_on) - [ZFS Encryption and Notification Service on OmniOS](https://www.tumfatig.net/2024/zfs-encryption-and-notification-service-on-omnios/)
 * [2024-02-16, 12:32:20](https://lobste.rs/s/nuywnq/setup_freebsd_yubikey_authentication) - [Setup FreeBSD Yubikey Authentication](https://gist.github.com/daemonhorn/bdd77a7bc0ff5842e5a31d999b96e1f1)
@@ -12,7 +13,6 @@
 * [2024-02-16, 05:52:11](https://lobste.rs/s/zrwxrl/eff_s_extended_guide_internet_circa_1994) - [EFF's (Extended) Guide to the Internet circa 1994](https://www.whitman.edu/mathematics/eegtti/eeg_toc.html)
 * [2024-02-16, 04:11:18](https://lobste.rs/s/dcm4n6/observable_announces_local_first) - [Observable announces a local first dataviz framework](https://observablehq.com/blog/observable-2-0)
 * [2024-02-16, 03:34:55](https://lobste.rs/s/bbxaac/why_python_s_integer_division_floors_2010) - [Why Python's Integer Division Floors (2010)](http://python-history.blogspot.com/2010/08/why-pythons-integer-division-floors.html)
-* [2024-02-16, 02:02:31](https://lobste.rs/s/v8gdnm/new_dart_3_3_extension_types_javascript) - [New in Dart 3.3: Extension Types, JavaScript Interop, and More](https://medium.com/dartlang/dart-3-3-325bf2bf6c13)
 * [2024-02-16, 00:24:47](https://lobste.rs/s/3blthf/dependency_solving_nix) - [Dependency solving in Nix](http://www.chriswarbo.net/projects/nixos/nix_dependencies.html)
 * [2024-02-15, 21:57:30](https://lobste.rs/s/vrbepc/remote_user_impersonation_takeover_via) - [Remote User Impersonation and Takeover via Cache Poisoning in Mastodon](https://arcanican.is/excerpts/cve-2024-23832/discovery.htm)
 * [2024-02-15, 20:23:21](https://lobste.rs/s/ulpody/rye_grows_with_uv) - [Rye Grows With UV](https://lucumr.pocoo.org/2024/2/15/rye-grows-with-uv/)
