@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-16, 15:36:56",
+      "https://lobste.rs/s/x44mg4/managing_mutable_data_elixir_with_rust"
+    ],
+    [
+      "Managing mutable data in Elixir with Rust",
+      "https://www.lambdafunctions.com/articles/elixir-and-rust"
+    ]
+  ],
+  [
+    [
       "2024-02-16, 12:33:49",
       "https://lobste.rs/s/qx0dey/ampere_wild_how_freebsd_employs_ampere"
     ],
@@ -117,16 +127,6 @@
     [
       "Why Python's Integer Division Floors (2010)",
       "http://python-history.blogspot.com/2010/08/why-pythons-integer-division-floors.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-16, 02:02:31",
-      "https://lobste.rs/s/v8gdnm/new_dart_3_3_extension_types_javascript"
-    ],
-    [
-      "New in Dart 3.3: Extension Types, JavaScript Interop, and More",
-      "https://medium.com/dartlang/dart-3-3-325bf2bf6c13"
     ]
   ],
   [
