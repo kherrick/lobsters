@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-16, 10:47:33](https://lobste.rs/s/hlfwfx/cue_shifting_go_left_with_cue) - [CUE: Shifting Go left with CUE](https://www.youtube.com/watch?v=I5cEXqa4ZOI)
 * [2024-02-16, 09:56:58](https://lobste.rs/s/k1tnnm/scientific_python_ecosystem) - [Scientific Python Ecosystem Coordination recommendation on Minimum Supported Dependencies](https://scientific-python.org/specs/spec-0000/)
 * [2024-02-16, 07:15:55](https://lobste.rs/s/jchgwm/reflections_on_25_years_programming) - [Reflections On 25 Years Of Programming](https://medium.com/@kkmvv/reflections-on-25-years-of-programming-173116995c57)
 * [2024-02-16, 06:06:49](https://lobste.rs/s/sduaqc/forgejo_forks_its_own_path_forward) - [Forgejo forks its own path forward](https://forgejo.org/2024-02-forking-forward/)
@@ -9,7 +10,6 @@
 * [2024-02-16, 02:02:31](https://lobste.rs/s/v8gdnm/new_dart_3_3_extension_types_javascript) - [New in Dart 3.3: Extension Types, JavaScript Interop, and More](https://medium.com/dartlang/dart-3-3-325bf2bf6c13)
 * [2024-02-16, 01:25:33](https://lobste.rs/s/vwiafg/barbara_nessim_at_ginza_art_space_1986) - [Barbara Nessim at The Ginza Art Space (1986)](https://blog.gingerbeardman.com/2024/02/15/barbara-nessim-at-the-ginza-art-space-1986/)
 * [2024-02-16, 00:24:47](https://lobste.rs/s/3blthf/dependency_solving_nix) - [Dependency solving in Nix](http://www.chriswarbo.net/projects/nixos/nix_dependencies.html)
-* [2024-02-15, 22:21:34](https://lobste.rs/s/htuuyw/sora_creating_video_from_text) - [Sora: Creating video from text](https://openai.com/sora)
 * [2024-02-15, 21:57:30](https://lobste.rs/s/vrbepc/remote_user_impersonation_takeover_via) - [Remote User Impersonation and Takeover via Cache Poisoning in Mastodon](https://arcanican.is/excerpts/cve-2024-23832/discovery.htm)
 * [2024-02-15, 20:23:21](https://lobste.rs/s/ulpody/rye_grows_with_uv) - [Rye Grows With UV](https://lucumr.pocoo.org/2024/2/15/rye-grows-with-uv/)
 * [2024-02-15, 20:10:28](https://lobste.rs/s/tko0ah/progman_x11_wm_modeled_after_program) - [progman: X11 WM modeled after Program Manager from the Windows 3 era](https://github.com/jcs/progman)

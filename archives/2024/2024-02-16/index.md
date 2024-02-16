@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-16](index.md)
 
+* [2024-02-16, 10:47:33](https://lobste.rs/s/hlfwfx/cue_shifting_go_left_with_cue) - [CUE: Shifting Go left with CUE](https://www.youtube.com/watch?v=I5cEXqa4ZOI)
 * [2024-02-16, 09:56:58](https://lobste.rs/s/k1tnnm/scientific_python_ecosystem) - [Scientific Python Ecosystem Coordination recommendation on Minimum Supported Dependencies](https://scientific-python.org/specs/spec-0000/)
 * [2024-02-16, 07:15:55](https://lobste.rs/s/jchgwm/reflections_on_25_years_programming) - [Reflections On 25 Years Of Programming](https://medium.com/@kkmvv/reflections-on-25-years-of-programming-173116995c57)
 * [2024-02-16, 06:06:49](https://lobste.rs/s/sduaqc/forgejo_forks_its_own_path_forward) - [Forgejo forks its own path forward](https://forgejo.org/2024-02-forking-forward/)
