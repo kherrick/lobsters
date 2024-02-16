@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-16, 17:37:49",
+      "https://lobste.rs/s/spjgop/popular_git_config_options"
+    ],
+    [
+      "Popular git config options",
+      "https://jvns.ca/blog/2024/02/16/popular-git-config-options/"
+    ]
+  ],
+  [
+    [
+      "2024-02-16, 17:32:22",
+      "https://lobste.rs/s/mbbcot/pgtemp_rust_library_daemon_for_easily"
+    ],
+    [
+      "pgtemp: Rust library and daemon for easily starting postgres databases per-test without Docker",
+      "https://github.com/boustrophedon/pgtemp"
+    ]
+  ],
+  [
+    [
       "2024-02-16, 17:06:49",
       "https://lobste.rs/s/oumrhu/packaging_scrutiny_for_nixos"
     ],
@@ -47,16 +67,6 @@
     [
       "Ampere in the Wild – How FreeBSD Employs Ampere ARM64 Servers in Data Center",
       "https://amperecomputing.com/blogs/ampere-in-the-wild"
-    ]
-  ],
-  [
-    [
-      "2024-02-16, 12:33:07",
-      "https://lobste.rs/s/d7ce3h/zfs_encryption_notification_service_on"
-    ],
-    [
-      "ZFS Encryption and Notification Service on OmniOS",
-      "https://www.tumfatig.net/2024/zfs-encryption-and-notification-service-on-omnios/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Cloudflare defeats patent troll Sable at trial",
       "https://blog.cloudflare.com/cloudflare-defeats-patent-troll-sable-at-trial"
-    ]
-  ],
-  [
-    [
-      "2024-02-14, 20:14:50",
-      "https://lobste.rs/s/jgywok/announcing_freenginx_org"
-    ],
-    [
-      "Announcing freenginx.org",
-      "https://mailman.nginx.org/pipermail/nginx/2024-February/GPXQY27UA5SJJZ2Y6JWTRWJB2TKPTJR7.html"
     ]
   ]
 ]
