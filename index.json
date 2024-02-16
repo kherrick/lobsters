@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-02-16, 19:55:00",
+      "https://lobste.rs/s/jljtg7/mcuboot"
+    ],
+    [
+      "MCUboot",
+      "https://docs.mcuboot.com/"
+    ]
+  ],
+  [
+    [
       "2024-02-16, 18:46:05",
       "https://lobste.rs/s/ftehsa/video_for_my_non_technical_family"
     ],
@@ -177,16 +187,6 @@
     [
       "Dependency solving in Nix",
       "http://www.chriswarbo.net/projects/nixos/nix_dependencies.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-15, 21:57:30",
-      "https://lobste.rs/s/vrbepc/remote_user_impersonation_takeover_via"
-    ],
-    [
-      "Remote User Impersonation and Takeover via Cache Poisoning in Mastodon",
-      "https://arcanican.is/excerpts/cve-2024-23832/discovery.htm"
     ]
   ],
   [
