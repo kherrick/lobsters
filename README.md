@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-16, 20:03:44](https://lobste.rs/s/twgrus/introducing_safetest_novel_approach) - [Introducing SafeTest: A Novel Approach to Front End Testing](https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d)
 * [2024-02-16, 19:55:00](https://lobste.rs/s/jljtg7/mcuboot) - [MCUboot](https://docs.mcuboot.com/)
 * [2024-02-16, 18:46:05](https://lobste.rs/s/ftehsa/video_for_my_non_technical_family) - [Video for my non-technical family describing how my library fits into the PyData ecosystem](https://youtu.be/pfAkz6L5rMI )
 * [2024-02-16, 17:37:49](https://lobste.rs/s/spjgop/popular_git_config_options) - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
@@ -8,7 +9,6 @@
 * [2024-02-16, 16:32:28](https://lobste.rs/s/zolah3/ui_f_states) - [UI = f(statesⁿ)](https://daverupert.com/2024/02/ui-states/)
 * [2024-02-16, 16:02:04](https://lobste.rs/s/mb6xlm/guix_on_framework_13_amd) - [guix on the framework 13 amd](https://wingolog.org/archives/2024/02/16/guix-on-the-framework-13-amd)
 * [2024-02-16, 12:33:49](https://lobste.rs/s/qx0dey/ampere_wild_how_freebsd_employs_ampere) - [Ampere in the Wild – How FreeBSD Employs Ampere ARM64 Servers in Data Center](https://amperecomputing.com/blogs/ampere-in-the-wild)
-* [2024-02-16, 12:32:20](https://lobste.rs/s/nuywnq/setup_freebsd_yubikey_authentication) - [Setup FreeBSD Yubikey Authentication](https://gist.github.com/daemonhorn/bdd77a7bc0ff5842e5a31d999b96e1f1)
 * [2024-02-16, 12:14:36](https://lobste.rs/s/jrrrnq/6_reasons_favor_core_language_5_against) - [6 Reasons in favor of a core language, and 5 against](https://jesper.cx/posts/why-not-a-core-language.html)
 * [2024-02-16, 12:00:36](https://lobste.rs/s/yybfa1/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/yybfa1/what_are_you_doing_this_weekend)
 * [2024-02-16, 10:47:33](https://lobste.rs/s/hlfwfx/cue_shifting_go_left_with_cue) - [CUE: Shifting Go left with CUE](https://www.youtube.com/watch?v=I5cEXqa4ZOI)
