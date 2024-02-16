@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-16](index.md)
 
+* [2024-02-16, 16:53:48](https://lobste.rs/s/ee74sc/freebsd_status_report_2023_q4) - [FreeBSD Status Report 2023 Q4](https://www.freebsd.org/status/report-2023-10-2023-12/)
 * [2024-02-16, 16:32:28](https://lobste.rs/s/zolah3/ui_f_states) - [UI = f(statesⁿ)](https://daverupert.com/2024/02/ui-states/)
 * [2024-02-16, 16:02:04](https://lobste.rs/s/mb6xlm/guix_on_framework_13_amd) - [guix on the framework 13 amd](https://wingolog.org/archives/2024/02/16/guix-on-the-framework-13-amd)
 * [2024-02-16, 15:36:56](https://lobste.rs/s/x44mg4/managing_mutable_data_elixir_with_rust) - [Managing mutable data in Elixir with Rust](https://www.lambdafunctions.com/articles/elixir-and-rust)

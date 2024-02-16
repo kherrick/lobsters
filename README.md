@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-16, 16:53:48](https://lobste.rs/s/ee74sc/freebsd_status_report_2023_q4) - [FreeBSD Status Report 2023 Q4](https://www.freebsd.org/status/report-2023-10-2023-12/)
 * [2024-02-16, 16:32:28](https://lobste.rs/s/zolah3/ui_f_states) - [UI = f(statesⁿ)](https://daverupert.com/2024/02/ui-states/)
 * [2024-02-16, 16:02:04](https://lobste.rs/s/mb6xlm/guix_on_framework_13_amd) - [guix on the framework 13 amd](https://wingolog.org/archives/2024/02/16/guix-on-the-framework-13-amd)
-* [2024-02-16, 15:36:56](https://lobste.rs/s/x44mg4/managing_mutable_data_elixir_with_rust) - [Managing mutable data in Elixir with Rust](https://www.lambdafunctions.com/articles/elixir-and-rust)
 * [2024-02-16, 12:33:49](https://lobste.rs/s/qx0dey/ampere_wild_how_freebsd_employs_ampere) - [Ampere in the Wild – How FreeBSD Employs Ampere ARM64 Servers in Data Center](https://amperecomputing.com/blogs/ampere-in-the-wild)
 * [2024-02-16, 12:33:07](https://lobste.rs/s/d7ce3h/zfs_encryption_notification_service_on) - [ZFS Encryption and Notification Service on OmniOS](https://www.tumfatig.net/2024/zfs-encryption-and-notification-service-on-omnios/)
 * [2024-02-16, 12:32:20](https://lobste.rs/s/nuywnq/setup_freebsd_yubikey_authentication) - [Setup FreeBSD Yubikey Authentication](https://gist.github.com/daemonhorn/bdd77a7bc0ff5842e5a31d999b96e1f1)
