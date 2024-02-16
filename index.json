@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-02-16, 17:32:22",
+      "https://lobste.rs/s/mbbcot/pgtemp_rust_library_daemon_for_easily"
+    ],
+    [
+      "pgtemp: Rust library and daemon for easily starting postgres databases per-test without Docker",
+      "https://github.com/boustrophedon/pgtemp"
+    ]
+  ],
+  [
+    [
       "2024-02-16, 17:06:49",
       "https://lobste.rs/s/oumrhu/packaging_scrutiny_for_nixos"
     ],
@@ -237,16 +247,6 @@
     [
       "Are there any good reasons to use C++ over Rust for new projects today?",
       "https://lobste.rs/s/0akqy7/are_there_any_good_reasons_use_c_over_rust"
-    ]
-  ],
-  [
-    [
-      "2024-02-15, 06:53:57",
-      "https://lobste.rs/s/1oxijt/cloudflare_defeats_patent_troll_sable_at"
-    ],
-    [
-      "Cloudflare defeats patent troll Sable at trial",
-      "https://blog.cloudflare.com/cloudflare-defeats-patent-troll-sable-at-trial"
     ]
   ]
 ]
