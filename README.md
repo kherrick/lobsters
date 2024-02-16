@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-16, 01:25:33](https://lobste.rs/s/vwiafg/barbara_nessim_at_ginza_art_space_1986) - [Barbara Nessim at The Ginza Art Space (1986)](https://blog.gingerbeardman.com/2024/02/15/barbara-nessim-at-the-ginza-art-space-1986/)
 * [2024-02-16, 00:24:47](https://lobste.rs/s/3blthf/dependency_solving_nix) - [Dependency solving in Nix](http://www.chriswarbo.net/projects/nixos/nix_dependencies.html)
 * [2024-02-15, 21:57:30](https://lobste.rs/s/vrbepc/remote_user_impersonation_takeover_via) - [Remote User Impersonation and Takeover via Cache Poisoning in Mastodon](https://arcanican.is/excerpts/cve-2024-23832/discovery.htm)
 * [2024-02-15, 20:23:21](https://lobste.rs/s/ulpody/rye_grows_with_uv) - [Rye Grows With UV](https://lucumr.pocoo.org/2024/2/15/rye-grows-with-uv/)
@@ -8,7 +9,6 @@
 * [2024-02-15, 19:48:54](https://lobste.rs/s/ynhu2s/effver_version_your_code_by_effort) - [EffVer: Version your code by the effort required to upgrade](https://jacobtomlinson.dev/effver/)
 * [2024-02-15, 19:18:55](https://lobste.rs/s/pocplf/pandoc_3_1_12_released) - [Pandoc 3.1.12 released](https://pandoc.org/releases.html#pandoc-3.1.12-2024-02-14)
 * [2024-02-15, 17:44:14](https://lobste.rs/s/cr46iz/understanding_recent_optimization_go_s) - [Understanding a recent optimization to Go's reflect.TypeFor](https://utcc.utoronto.ca/~cks/space/blog/programming/GoReflectTypeForOptimization)
-* [2024-02-15, 16:01:23](https://lobste.rs/s/yfhiti/rise_fall_robots_txt_text_file_runs) - [The rise and fall of robots.txt, the text file that runs the internet](https://www.theverge.com/24067997/robots-txt-ai-text-file-web-crawlers-spiders)
 * [2024-02-15, 15:23:36](https://lobste.rs/s/0akqy7/are_there_any_good_reasons_use_c_over_rust) - [Are there any good reasons to use C++ over Rust for new projects today?](https://lobste.rs/s/0akqy7/are_there_any_good_reasons_use_c_over_rust)
 * [2024-02-15, 14:44:07](https://lobste.rs/s/nozht8/calendar_versioning) - [Calendar versioning](https://www.letsdebug.it/post/41-calendar-versioning/)
 * [2024-02-15, 14:29:16](https://lobste.rs/s/3kmwjt/performance_roulette_luck_code) - [Performance Roulette: The Luck of Code Alignment](https://www.bazhenov.me/posts/2024-02-performance-roulette/)
