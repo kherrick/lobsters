@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-16](index.md)
 
+* [2024-02-16, 21:28:39](https://lobste.rs/s/b817ja/git_aliases_addons) - [Git Aliases and Addons](https://bernsteinbear.com/git/)
 * [2024-02-16, 20:03:44](https://lobste.rs/s/twgrus/introducing_safetest_novel_approach) - [Introducing SafeTest: A Novel Approach to Front End Testing](https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d)
 * [2024-02-16, 19:55:00](https://lobste.rs/s/jljtg7/mcuboot) - [MCUboot](https://docs.mcuboot.com/)
 * [2024-02-16, 18:46:05](https://lobste.rs/s/ftehsa/video_for_my_non_technical_family) - [Video for my non-technical family describing how my library fits into the PyData ecosystem](https://youtu.be/pfAkz6L5rMI )
