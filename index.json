@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-16, 20:03:44",
+      "https://lobste.rs/s/twgrus/introducing_safetest_novel_approach"
+    ],
+    [
+      "Introducing SafeTest: A Novel Approach to Front End Testing",
+      "https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d"
+    ]
+  ],
+  [
+    [
       "2024-02-16, 19:55:00",
       "https://lobste.rs/s/jljtg7/mcuboot"
     ],
@@ -77,16 +87,6 @@
     [
       "Ampere in the Wild – How FreeBSD Employs Ampere ARM64 Servers in Data Center",
       "https://amperecomputing.com/blogs/ampere-in-the-wild"
-    ]
-  ],
-  [
-    [
-      "2024-02-16, 12:32:20",
-      "https://lobste.rs/s/nuywnq/setup_freebsd_yubikey_authentication"
-    ],
-    [
-      "Setup FreeBSD Yubikey Authentication",
-      "https://gist.github.com/daemonhorn/bdd77a7bc0ff5842e5a31d999b96e1f1"
     ]
   ],
   [
