@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-16, 19:55:00",
+      "https://lobste.rs/s/jljtg7/mcuboot"
+    ],
+    [
+      "MCUboot",
+      "https://docs.mcuboot.com/"
+    ]
+  ],
+  [
+    [
       "2024-02-16, 18:46:05",
       "https://lobste.rs/s/ftehsa/video_for_my_non_technical_family"
     ],
@@ -107,16 +117,6 @@
     [
       "CUE: Shifting Go left with CUE",
       "https://www.youtube.com/watch?v=I5cEXqa4ZOI"
-    ]
-  ],
-  [
-    [
-      "2024-02-16, 09:56:58",
-      "https://lobste.rs/s/k1tnnm/scientific_python_ecosystem"
-    ],
-    [
-      "Scientific Python Ecosystem Coordination recommendation on Minimum Supported Dependencies",
-      "https://scientific-python.org/specs/spec-0000/"
     ]
   ],
   [
