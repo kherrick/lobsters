@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-16](index.md)
 
+* [2024-02-16, 07:15:55](https://lobste.rs/s/jchgwm/reflections_on_25_years_programming) - [Reflections On 25 Years Of Programming](https://medium.com/@kkmvv/reflections-on-25-years-of-programming-173116995c57)
 * [2024-02-16, 06:06:49](https://lobste.rs/s/sduaqc/forgejo_forks_its_own_path_forward) - [Forgejo forks its own path forward](https://forgejo.org/2024-02-forking-forward/)
 * [2024-02-16, 05:52:11](https://lobste.rs/s/zrwxrl/eff_s_extended_guide_internet_circa_1994) - [EFF's (Extended) Guide to the Internet circa 1994](https://www.whitman.edu/mathematics/eegtti/eeg_toc.html)
 * [2024-02-16, 04:11:18](https://lobste.rs/s/dcm4n6/observable_announces_local_first) - [Observable announces a local first dataviz framework](https://observablehq.com/blog/observable-2-0)
