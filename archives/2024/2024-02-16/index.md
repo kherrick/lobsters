@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-02-16](index.md)
+
+* [2024-02-16, 00:24:47](https://lobste.rs/s/3blthf/dependency_solving_nix) - [Dependency solving in Nix](http://www.chriswarbo.net/projects/nixos/nix_dependencies.html)
