@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-16](index.md)
 
+* [2024-02-16, 12:29:40](https://lobste.rs/s/3ppn85/install_ubiquiti_unifi_freebsd_truenas) - [Install Ubiquiti Unifi in FreeBSD/TrueNAS Jail BSDbox](https://bsdbox.de/en/artikel/unifi)
+* [2024-02-16, 12:14:36](https://lobste.rs/s/jrrrnq/6_reasons_favor_core_language_5_against) - [6 Reasons in favor of a core language, and 5 against](https://jesper.cx/posts/why-not-a-core-language.html)
+* [2024-02-16, 12:00:36](https://lobste.rs/s/yybfa1/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/yybfa1/what_are_you_doing_this_weekend)
 * [2024-02-16, 10:47:33](https://lobste.rs/s/hlfwfx/cue_shifting_go_left_with_cue) - [CUE: Shifting Go left with CUE](https://www.youtube.com/watch?v=I5cEXqa4ZOI)
 * [2024-02-16, 09:56:58](https://lobste.rs/s/k1tnnm/scientific_python_ecosystem) - [Scientific Python Ecosystem Coordination recommendation on Minimum Supported Dependencies](https://scientific-python.org/specs/spec-0000/)
 * [2024-02-16, 07:15:55](https://lobste.rs/s/jchgwm/reflections_on_25_years_programming) - [Reflections On 25 Years Of Programming](https://medium.com/@kkmvv/reflections-on-25-years-of-programming-173116995c57)
