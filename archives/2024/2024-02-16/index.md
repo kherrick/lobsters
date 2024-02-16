@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-02-16](index.md)
 
+* [2024-02-16, 12:33:49](https://lobste.rs/s/qx0dey/ampere_wild_how_freebsd_employs_ampere) - [Ampere in the Wild – How FreeBSD Employs Ampere ARM64 Servers in Data Center](https://amperecomputing.com/blogs/ampere-in-the-wild)
+* [2024-02-16, 12:33:07](https://lobste.rs/s/d7ce3h/zfs_encryption_notification_service_on) - [ZFS Encryption and Notification Service on OmniOS](https://www.tumfatig.net/2024/zfs-encryption-and-notification-service-on-omnios/)
+* [2024-02-16, 12:32:20](https://lobste.rs/s/nuywnq/setup_freebsd_yubikey_authentication) - [Setup FreeBSD Yubikey Authentication](https://gist.github.com/daemonhorn/bdd77a7bc0ff5842e5a31d999b96e1f1)
 * [2024-02-16, 12:29:40](https://lobste.rs/s/3ppn85/install_ubiquiti_unifi_freebsd_truenas) - [Install Ubiquiti Unifi in FreeBSD/TrueNAS Jail BSDbox](https://bsdbox.de/en/artikel/unifi)
 * [2024-02-16, 12:14:36](https://lobste.rs/s/jrrrnq/6_reasons_favor_core_language_5_against) - [6 Reasons in favor of a core language, and 5 against](https://jesper.cx/posts/why-not-a-core-language.html)
 * [2024-02-16, 12:00:36](https://lobste.rs/s/yybfa1/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/yybfa1/what_are_you_doing_this_weekend)
