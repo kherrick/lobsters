@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-16](index.md)
 
+* [2024-02-16, 17:37:49](https://lobste.rs/s/spjgop/popular_git_config_options) - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
+* [2024-02-16, 17:32:22](https://lobste.rs/s/mbbcot/pgtemp_rust_library_daemon_for_easily) - [pgtemp: Rust library and daemon for easily starting postgres databases per-test without Docker](https://github.com/boustrophedon/pgtemp)
 * [2024-02-16, 17:06:49](https://lobste.rs/s/oumrhu/packaging_scrutiny_for_nixos) - [Packaging Scrutiny for NixOS](https://jnsgr.uk/2024/02/packaging-scrutiny-for-nixos/)
 * [2024-02-16, 16:53:48](https://lobste.rs/s/ee74sc/freebsd_status_report_2023_q4) - [FreeBSD Status Report 2023 Q4](https://www.freebsd.org/status/report-2023-10-2023-12/)
 * [2024-02-16, 16:32:28](https://lobste.rs/s/zolah3/ui_f_states) - [UI = f(statesⁿ)](https://daverupert.com/2024/02/ui-states/)

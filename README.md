@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-16, 17:37:49](https://lobste.rs/s/spjgop/popular_git_config_options) - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
+* [2024-02-16, 17:32:22](https://lobste.rs/s/mbbcot/pgtemp_rust_library_daemon_for_easily) - [pgtemp: Rust library and daemon for easily starting postgres databases per-test without Docker](https://github.com/boustrophedon/pgtemp)
 * [2024-02-16, 17:06:49](https://lobste.rs/s/oumrhu/packaging_scrutiny_for_nixos) - [Packaging Scrutiny for NixOS](https://jnsgr.uk/2024/02/packaging-scrutiny-for-nixos/)
 * [2024-02-16, 16:53:48](https://lobste.rs/s/ee74sc/freebsd_status_report_2023_q4) - [FreeBSD Status Report 2023 Q4](https://www.freebsd.org/status/report-2023-10-2023-12/)
 * [2024-02-16, 16:32:28](https://lobste.rs/s/zolah3/ui_f_states) - [UI = f(statesⁿ)](https://daverupert.com/2024/02/ui-states/)
 * [2024-02-16, 16:02:04](https://lobste.rs/s/mb6xlm/guix_on_framework_13_amd) - [guix on the framework 13 amd](https://wingolog.org/archives/2024/02/16/guix-on-the-framework-13-amd)
 * [2024-02-16, 12:33:49](https://lobste.rs/s/qx0dey/ampere_wild_how_freebsd_employs_ampere) - [Ampere in the Wild – How FreeBSD Employs Ampere ARM64 Servers in Data Center](https://amperecomputing.com/blogs/ampere-in-the-wild)
-* [2024-02-16, 12:33:07](https://lobste.rs/s/d7ce3h/zfs_encryption_notification_service_on) - [ZFS Encryption and Notification Service on OmniOS](https://www.tumfatig.net/2024/zfs-encryption-and-notification-service-on-omnios/)
 * [2024-02-16, 12:32:20](https://lobste.rs/s/nuywnq/setup_freebsd_yubikey_authentication) - [Setup FreeBSD Yubikey Authentication](https://gist.github.com/daemonhorn/bdd77a7bc0ff5842e5a31d999b96e1f1)
 * [2024-02-16, 12:14:36](https://lobste.rs/s/jrrrnq/6_reasons_favor_core_language_5_against) - [6 Reasons in favor of a core language, and 5 against](https://jesper.cx/posts/why-not-a-core-language.html)
 * [2024-02-16, 12:00:36](https://lobste.rs/s/yybfa1/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/yybfa1/what_are_you_doing_this_weekend)
@@ -24,7 +25,6 @@
 * [2024-02-15, 19:18:55](https://lobste.rs/s/pocplf/pandoc_3_1_12_released) - [Pandoc 3.1.12 released](https://pandoc.org/releases.html#pandoc-3.1.12-2024-02-14)
 * [2024-02-15, 15:23:36](https://lobste.rs/s/0akqy7/are_there_any_good_reasons_use_c_over_rust) - [Are there any good reasons to use C++ over Rust for new projects today?](https://lobste.rs/s/0akqy7/are_there_any_good_reasons_use_c_over_rust)
 * [2024-02-15, 06:53:57](https://lobste.rs/s/1oxijt/cloudflare_defeats_patent_troll_sable_at) - [Cloudflare defeats patent troll Sable at trial](https://blog.cloudflare.com/cloudflare-defeats-patent-troll-sable-at-trial)
-* [2024-02-14, 20:14:50](https://lobste.rs/s/jgywok/announcing_freenginx_org) - [Announcing freenginx.org](https://mailman.nginx.org/pipermail/nginx/2024-February/GPXQY27UA5SJJZ2Y6JWTRWJB2TKPTJR7.html)
 
 ## [Archives](archives/index.md)
 
