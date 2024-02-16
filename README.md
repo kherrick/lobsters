@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-16, 05:52:11](https://lobste.rs/s/zrwxrl/eff_s_extended_guide_internet_circa_1994) - [EFF's (Extended) Guide to the Internet circa 1994](https://www.whitman.edu/mathematics/eegtti/eeg_toc.html)
 * [2024-02-16, 04:11:18](https://lobste.rs/s/dcm4n6/observable_announces_local_first) - [Observable announces a local first dataviz framework](https://observablehq.com/blog/observable-2-0)
 * [2024-02-16, 03:34:55](https://lobste.rs/s/bbxaac/why_python_s_integer_division_floors) - [Why Python's Integer Division Floors](http://python-history.blogspot.com/2010/08/why-pythons-integer-division-floors.html)
 * [2024-02-16, 02:02:31](https://lobste.rs/s/v8gdnm/new_dart_3_3_extension_types_javascript) - [New in Dart 3.3: Extension Types, JavaScript Interop, and More](https://medium.com/dartlang/dart-3-3-325bf2bf6c13)
@@ -18,7 +19,6 @@
 * [2024-02-15, 14:09:53](https://lobste.rs/s/upfvf4/introduction_forthcoming_python) - [Introduction to the forthcoming Python Developer Tooling Handbook](HTTPS://pydevtools.com)
 * [2024-02-15, 09:06:18](https://lobste.rs/s/l4pmss/huffman_codes_how_do_they_work) - [Huffman Codes – How Do They Work?](https://two-wrongs.com/huffman-codes-how-do-they-work)
 * [2024-02-15, 06:53:57](https://lobste.rs/s/1oxijt/cloudflare_defeats_patent_troll_sable_at) - [Cloudflare defeats patent troll Sable at trial](https://blog.cloudflare.com/cloudflare-defeats-patent-troll-sable-at-trial)
-* [2024-02-15, 05:57:20](https://lobste.rs/s/ne8nbl/auto_macro) - [The Auto macro](https://quuxplusone.github.io/blog/2018/08/11/the-auto-macro/)
 * [2024-02-15, 02:21:54](https://lobste.rs/s/xt2dts/matrix_trashfire) - [The Matrix Trashfire](https://blog.koehntopp.info/2024/02/13/the-matrix-trashfire.html)
 * [2024-02-14, 20:14:50](https://lobste.rs/s/jgywok/announcing_freenginx_org) - [Announcing freenginx.org](https://mailman.nginx.org/pipermail/nginx/2024-February/GPXQY27UA5SJJZ2Y6JWTRWJB2TKPTJR7.html)
 * [2024-02-14, 19:12:21](https://lobste.rs/s/d2xouo/running_gnu_on_dos_with_djgpp) - [Running GNU on DOS with DJGPP](https://blogsystem5.substack.com/p/running-gnu-on-dos-with-djgpp)
