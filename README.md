@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-16, 19:55:00](https://lobste.rs/s/jljtg7/mcuboot) - [MCUboot](https://docs.mcuboot.com/)
 * [2024-02-16, 18:46:05](https://lobste.rs/s/ftehsa/video_for_my_non_technical_family) - [Video for my non-technical family describing how my library fits into the PyData ecosystem](https://youtu.be/pfAkz6L5rMI )
 * [2024-02-16, 17:37:49](https://lobste.rs/s/spjgop/popular_git_config_options) - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
 * [2024-02-16, 17:06:49](https://lobste.rs/s/oumrhu/packaging_scrutiny_for_nixos) - [Packaging Scrutiny for NixOS](https://jnsgr.uk/2024/02/packaging-scrutiny-for-nixos/)
@@ -11,7 +12,6 @@
 * [2024-02-16, 12:14:36](https://lobste.rs/s/jrrrnq/6_reasons_favor_core_language_5_against) - [6 Reasons in favor of a core language, and 5 against](https://jesper.cx/posts/why-not-a-core-language.html)
 * [2024-02-16, 12:00:36](https://lobste.rs/s/yybfa1/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/yybfa1/what_are_you_doing_this_weekend)
 * [2024-02-16, 10:47:33](https://lobste.rs/s/hlfwfx/cue_shifting_go_left_with_cue) - [CUE: Shifting Go left with CUE](https://www.youtube.com/watch?v=I5cEXqa4ZOI)
-* [2024-02-16, 09:56:58](https://lobste.rs/s/k1tnnm/scientific_python_ecosystem) - [Scientific Python Ecosystem Coordination recommendation on Minimum Supported Dependencies](https://scientific-python.org/specs/spec-0000/)
 * [2024-02-16, 07:15:55](https://lobste.rs/s/jchgwm/reflections_on_25_years_programming) - [Reflections On 25 Years Of Programming](https://medium.com/@kkmvv/reflections-on-25-years-of-programming-173116995c57)
 * [2024-02-16, 06:06:49](https://lobste.rs/s/sduaqc/forgejo_forks_its_own_path_forward) - [Forgejo forks its own path forward](https://forgejo.org/2024-02-forking-forward/)
 * [2024-02-16, 04:11:18](https://lobste.rs/s/dcm4n6/observable_announces_local_first) - [Observable announces a local first dataviz framework](https://observablehq.com/blog/observable-2-0)
