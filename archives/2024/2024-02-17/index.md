@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-17](index.md)
 
+* [2024-02-17, 19:03:59](https://lobste.rs/s/rpaxoy/mathematical_puzzle_fonts_typefaces) - [Mathematical and Puzzle Fonts/Typefaces](https://erikdemaine.org/fonts/)
+* [2024-02-17, 18:56:38](https://lobste.rs/s/4jjoig/lisp_hardware_verification_with_acl2) - [Lisp & Hardware Verification with ACL2](https://www.youtube.com/watch?v=iFEb9p54x_Q)
 * [2024-02-17, 17:06:01](https://lobste.rs/s/fqnkg2/can_you_give_up_github) - [But can you give up GitHub?](https://injuly.in/blog/honjin-murders/index.html)
 * [2024-02-17, 17:01:21](https://lobste.rs/s/crmyap/you_can_t_handle_errors) - [You can't handle Errors](https://btmc.substack.com/p/you-cant-handle-errors)
 * [2024-02-17, 12:28:32](https://lobste.rs/s/uumbc6/layoff) - [The Layoff](https://xeiaso.net/blog/2024/the-layoff/)

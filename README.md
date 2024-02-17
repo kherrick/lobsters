@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-02-17, 17:06:01](https://lobste.rs/s/fqnkg2/can_you_give_up_github) - [But can you give up GitHub?](https://injuly.in/blog/honjin-murders/index.html)
+* [2024-02-17, 19:03:59](https://lobste.rs/s/rpaxoy/mathematical_puzzle_fonts_typefaces) - [Mathematical and Puzzle Fonts/Typefaces](https://erikdemaine.org/fonts/)
+* [2024-02-17, 18:56:38](https://lobste.rs/s/4jjoig/lisp_hardware_verification_with_acl2) - [Lisp & Hardware Verification with ACL2](https://www.youtube.com/watch?v=iFEb9p54x_Q)
 * [2024-02-17, 17:01:21](https://lobste.rs/s/crmyap/you_can_t_handle_errors) - [You can't handle Errors](https://btmc.substack.com/p/you-cant-handle-errors)
 * [2024-02-17, 12:28:32](https://lobste.rs/s/uumbc6/layoff) - [The Layoff](https://xeiaso.net/blog/2024/the-layoff/)
 * [2024-02-17, 11:59:39](https://lobste.rs/s/a18ccx/all_my_thoughts_after_40_hours_vision_pro) - [All My Thoughts After 40 Hours in the Vision Pro](https://waitbutwhy.com/2024/02/vision-pro.html)
@@ -11,7 +12,6 @@
 * [2024-02-17, 00:47:06](https://lobste.rs/s/wcbmz6/get_consistent_data_from_your_llm_with) - [Get consistent data from your LLM with JSON Schema](https://thoughtbot.com/blog/get-consistent-data-from-your-llm-with-json-schema)
 * [2024-02-16, 22:18:45](https://lobste.rs/s/zivq9m/paying_people_work_on_open_source_is_good) - [Paying people to work on open source is good actually](https://jacobian.org/2024/feb/16/paying-maintainers-is-good/)
 * [2024-02-16, 21:28:39](https://lobste.rs/s/b817ja/git_aliases_addons) - [Git Aliases and Addons](https://bernsteinbear.com/git/)
-* [2024-02-16, 20:03:44](https://lobste.rs/s/twgrus/introducing_safetest_novel_approach) - [Introducing SafeTest: A Novel Approach to Front End Testing](https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d)
 * [2024-02-16, 18:46:05](https://lobste.rs/s/ftehsa/video_for_my_non_technical_family) - [Video for my non-technical family describing how my library fits into the PyData ecosystem](https://youtu.be/pfAkz6L5rMI )
 * [2024-02-16, 17:37:49](https://lobste.rs/s/spjgop/popular_git_config_options) - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
 * [2024-02-16, 17:32:22](https://lobste.rs/s/mbbcot/pgtemp_rust_library_daemon_for_easily) - [pgtemp: Rust library and daemon for easily starting postgres databases per-test without Docker](https://github.com/boustrophedon/pgtemp)
