@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-17, 11:53:39](https://lobste.rs/s/o3leyk/strategy_pattern_go) - [Strategy pattern in Go](https://rednafi.com/go/strategy_pattern/)
 * [2024-02-17, 04:43:16](https://lobste.rs/s/qyoyqb/apple_vision_pro_s_avp_image_quality) - [Apple Vision Pro’s (AVP) Image Quality Issues – First Impressions](https://kguttag.com/2024/02/16/apple-vision-pros-avp-image-quality-issues-first-impressions/)
 * [2024-02-17, 04:29:36](https://lobste.rs/s/ouprqp/automated_unit_test_improvement_using) - [Automated Unit Test Improvement using Large Language Models at Meta](https://arxiv.org/abs/2402.09171)
 * [2024-02-17, 01:31:22](https://lobste.rs/s/93ubgt/reverse_engineering_encrypted_iot) - [Reverse-engineering an encrypted IoT protocol](https://smlx.dev/posts/goodwe-sems-protocol-teardown/)
@@ -23,7 +24,6 @@
 * [2024-02-16, 06:06:49](https://lobste.rs/s/sduaqc/forgejo_forks_its_own_path_forward) - [Forgejo forks its own path forward](https://forgejo.org/2024-02-forking-forward/)
 * [2024-02-16, 00:24:47](https://lobste.rs/s/3blthf/dependency_solving_nix) - [Dependency solving in Nix](http://www.chriswarbo.net/projects/nixos/nix_dependencies.html)
 * [2024-02-15, 20:23:21](https://lobste.rs/s/ulpody/rye_grows_with_uv) - [Rye Grows With UV](https://lucumr.pocoo.org/2024/2/15/rye-grows-with-uv/)
-* [2024-02-15, 20:10:28](https://lobste.rs/s/tko0ah/progman_x11_wm_modeled_after_program) - [progman: X11 WM modeled after Program Manager from the Windows 3 era](https://github.com/jcs/progman)
 * [2024-02-15, 19:48:54](https://lobste.rs/s/ynhu2s/effver_version_your_code_by_effort) - [EffVer: Version your code by the effort required to upgrade](https://jacobtomlinson.dev/effver/)
 
 ## [Archives](archives/index.md)
