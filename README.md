@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-17, 04:29:36](https://lobste.rs/s/ouprqp/automated_unit_test_improvement_using) - [Automated Unit Test Improvement using Large Language Models at Meta](https://arxiv.org/abs/2402.09171)
 * [2024-02-17, 01:31:22](https://lobste.rs/s/93ubgt/reverse_engineering_encrypted_iot) - [Reverse-engineering an encrypted IoT protocol](https://smlx.dev/posts/goodwe-sems-protocol-teardown/)
 * [2024-02-17, 00:47:06](https://lobste.rs/s/wcbmz6/get_consistent_data_from_your_llm_with) - [Get consistent data from your LLM with JSON Schema](https://thoughtbot.com/blog/get-consistent-data-from-your-llm-with-json-schema)
 * [2024-02-16, 22:18:45](https://lobste.rs/s/zivq9m/paying_people_work_on_open_source_is_good) - [Paying people to work on open source is good actually](https://jacobian.org/2024/feb/16/paying-maintainers-is-good/)
@@ -24,7 +25,6 @@
 * [2024-02-15, 20:10:28](https://lobste.rs/s/tko0ah/progman_x11_wm_modeled_after_program) - [progman: X11 WM modeled after Program Manager from the Windows 3 era](https://github.com/jcs/progman)
 * [2024-02-15, 20:03:15](https://lobste.rs/s/lnf8op/tvix_status_february_24) - [Tvix Status - February '24](https://tvl.fyi/blog/tvix-update-february-24)
 * [2024-02-15, 19:48:54](https://lobste.rs/s/ynhu2s/effver_version_your_code_by_effort) - [EffVer: Version your code by the effort required to upgrade](https://jacobtomlinson.dev/effver/)
-* [2024-02-15, 15:23:36](https://lobste.rs/s/0akqy7/are_there_any_good_reasons_use_c_over_rust) - [Are there any good reasons to use C++ over Rust for new projects today?](https://lobste.rs/s/0akqy7/are_there_any_good_reasons_use_c_over_rust)
 
 ## [Archives](archives/index.md)
 
