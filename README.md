@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-17, 19:54:27](https://lobste.rs/s/yapkqe/inside_mechanical_bendix_air_data) - [Inside the mechanical Bendix Air Data Computer, part 5: motor/tachometers](http://www.righto.com/2024/02/bendix-cadc-servomotor-tachometer.html)
 * [2024-02-17, 19:03:59](https://lobste.rs/s/rpaxoy/mathematical_puzzle_fonts_typefaces) - [Mathematical and Puzzle Fonts/Typefaces](https://erikdemaine.org/fonts/)
 * [2024-02-17, 18:56:38](https://lobste.rs/s/4jjoig/lisp_hardware_verification_with_acl2) - [Lisp & Hardware Verification with ACL2](https://www.youtube.com/watch?v=iFEb9p54x_Q)
 * [2024-02-17, 17:01:21](https://lobste.rs/s/crmyap/you_can_t_handle_errors) - [You can't handle Errors](https://btmc.substack.com/p/you-cant-handle-errors)
@@ -19,7 +20,6 @@
 * [2024-02-16, 16:53:48](https://lobste.rs/s/ee74sc/freebsd_status_report_2023_q4) - [FreeBSD Status Report 2023 Q4](https://www.freebsd.org/status/report-2023-10-2023-12/)
 * [2024-02-16, 16:02:04](https://lobste.rs/s/mb6xlm/guix_on_framework_13_amd) - [guix on the framework 13 amd](https://wingolog.org/archives/2024/02/16/guix-on-the-framework-13-amd)
 * [2024-02-16, 12:33:49](https://lobste.rs/s/qx0dey/ampere_wild_how_freebsd_employs_ampere) - [Ampere in the Wild – How FreeBSD Employs Ampere ARM64 Servers in Data Center](https://amperecomputing.com/blogs/ampere-in-the-wild)
-* [2024-02-16, 12:14:36](https://lobste.rs/s/jrrrnq/6_reasons_favor_core_language_5_against) - [6 Reasons in favor of a core language, and 5 against](https://jesper.cx/posts/why-not-a-core-language.html)
 * [2024-02-16, 12:00:36](https://lobste.rs/s/yybfa1/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/yybfa1/what_are_you_doing_this_weekend)
 * [2024-02-16, 07:15:55](https://lobste.rs/s/jchgwm/reflections_on_25_years_programming) - [Reflections On 25 Years Of Programming](https://medium.com/@kkmvv/reflections-on-25-years-of-programming-173116995c57)
 * [2024-02-16, 06:06:49](https://lobste.rs/s/sduaqc/forgejo_forks_its_own_path_forward) - [Forgejo forks its own path forward](https://forgejo.org/2024-02-forking-forward/)

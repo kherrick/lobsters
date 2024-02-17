@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-17](index.md)
 
+* [2024-02-17, 19:54:27](https://lobste.rs/s/yapkqe/inside_mechanical_bendix_air_data) - [Inside the mechanical Bendix Air Data Computer, part 5: motor/tachometers](http://www.righto.com/2024/02/bendix-cadc-servomotor-tachometer.html)
 * [2024-02-17, 19:03:59](https://lobste.rs/s/rpaxoy/mathematical_puzzle_fonts_typefaces) - [Mathematical and Puzzle Fonts/Typefaces](https://erikdemaine.org/fonts/)
 * [2024-02-17, 18:56:38](https://lobste.rs/s/4jjoig/lisp_hardware_verification_with_acl2) - [Lisp & Hardware Verification with ACL2](https://www.youtube.com/watch?v=iFEb9p54x_Q)
 * [2024-02-17, 17:06:01](https://lobste.rs/s/fqnkg2/can_you_give_up_github) - [But can you give up GitHub?](https://injuly.in/blog/honjin-murders/index.html)
