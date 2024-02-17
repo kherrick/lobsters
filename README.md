@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-17, 21:49:41](https://lobste.rs/s/joitis/story_me_getting_banned_from_sending_pr) - [The Story Of Me Getting Banned From Sending PR To Zig For A Year](https://www.1a-insec.net/frag/18-zig-what/)
 * [2024-02-17, 20:08:59](https://lobste.rs/s/bamopu/protoweb) - [Protoweb](https://protoweb.org/)
 * [2024-02-17, 20:00:53](https://lobste.rs/s/eg6n05/steampipe_select_from_cloud) - [Steampipe | select * from cloud](https://steampipe.io/)
 * [2024-02-17, 19:54:27](https://lobste.rs/s/yapkqe/inside_mechanical_bendix_air_data) - [Inside the mechanical Bendix Air Data Computer, part 5: motor/tachometers](http://www.righto.com/2024/02/bendix-cadc-servomotor-tachometer.html)
@@ -12,7 +13,6 @@
 * [2024-02-17, 04:43:16](https://lobste.rs/s/qyoyqb/apple_vision_pro_s_avp_image_quality) - [Apple Vision Pro’s (AVP) Image Quality Issues – First Impressions](https://kguttag.com/2024/02/16/apple-vision-pros-avp-image-quality-issues-first-impressions/)
 * [2024-02-17, 04:29:36](https://lobste.rs/s/ouprqp/automated_unit_test_improvement_using) - [Automated Unit Test Improvement using Large Language Models at Meta](https://arxiv.org/abs/2402.09171)
 * [2024-02-17, 01:31:22](https://lobste.rs/s/93ubgt/reverse_engineering_encrypted_iot) - [Reverse-engineering an encrypted IoT protocol](https://smlx.dev/posts/goodwe-sems-protocol-teardown/)
-* [2024-02-17, 00:47:06](https://lobste.rs/s/wcbmz6/get_consistent_data_from_your_llm_with) - [Get consistent data from your LLM with JSON Schema](https://thoughtbot.com/blog/get-consistent-data-from-your-llm-with-json-schema)
 * [2024-02-16, 22:18:45](https://lobste.rs/s/zivq9m/paying_people_work_on_open_source_is_good) - [Paying people to work on open source is good actually](https://jacobian.org/2024/feb/16/paying-maintainers-is-good/)
 * [2024-02-16, 21:28:39](https://lobste.rs/s/b817ja/git_aliases_addons) - [Git Aliases and Addons](https://bernsteinbear.com/git/)
 * [2024-02-16, 18:46:05](https://lobste.rs/s/ftehsa/video_for_my_non_technical_family) - [Video for my non-technical family describing how my library fits into the PyData ecosystem](https://youtu.be/pfAkz6L5rMI )

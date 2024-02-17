@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-17](index.md)
 
+* [2024-02-17, 21:49:41](https://lobste.rs/s/joitis/story_me_getting_banned_from_sending_pr) - [The Story Of Me Getting Banned From Sending PR To Zig For A Year](https://www.1a-insec.net/frag/18-zig-what/)
 * [2024-02-17, 20:08:59](https://lobste.rs/s/bamopu/protoweb) - [Protoweb](https://protoweb.org/)
 * [2024-02-17, 20:00:53](https://lobste.rs/s/eg6n05/steampipe_select_from_cloud) - [Steampipe | select * from cloud](https://steampipe.io/)
 * [2024-02-17, 19:54:27](https://lobste.rs/s/yapkqe/inside_mechanical_bendix_air_data) - [Inside the mechanical Bendix Air Data Computer, part 5: motor/tachometers](http://www.righto.com/2024/02/bendix-cadc-servomotor-tachometer.html)
