@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-17, 21:49:41",
+      "https://lobste.rs/s/joitis/story_me_getting_banned_from_sending_pr"
+    ],
+    [
+      "The Story Of Me Getting Banned From Sending PR To Zig For A Year",
+      "https://www.1a-insec.net/frag/18-zig-what/"
+    ]
+  ],
+  [
+    [
       "2024-02-17, 20:08:59",
       "https://lobste.rs/s/bamopu/protoweb"
     ],
@@ -117,16 +127,6 @@
     [
       "Reverse-engineering an encrypted IoT protocol",
       "https://smlx.dev/posts/goodwe-sems-protocol-teardown/"
-    ]
-  ],
-  [
-    [
-      "2024-02-17, 00:47:06",
-      "https://lobste.rs/s/wcbmz6/get_consistent_data_from_your_llm_with"
-    ],
-    [
-      "Get consistent data from your LLM with JSON Schema",
-      "https://thoughtbot.com/blog/get-consistent-data-from-your-llm-with-json-schema"
     ]
   ],
   [
