@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-17, 20:08:59",
+      "https://lobste.rs/s/bamopu/protoweb"
+    ],
+    [
+      "Protoweb",
+      "https://protoweb.org/"
+    ]
+  ],
+  [
+    [
+      "2024-02-17, 20:00:53",
+      "https://lobste.rs/s/eg6n05/steampipe_select_from_cloud"
+    ],
+    [
+      "Steampipe | select * from cloud",
+      "https://steampipe.io/"
+    ]
+  ],
+  [
+    [
       "2024-02-17, 19:54:27",
       "https://lobste.rs/s/yapkqe/inside_mechanical_bendix_air_data"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-02-16, 07:15:55",
-      "https://lobste.rs/s/jchgwm/reflections_on_25_years_programming"
-    ],
-    [
-      "Reflections On 25 Years Of Programming",
-      "https://medium.com/@kkmvv/reflections-on-25-years-of-programming-173116995c57"
-    ]
-  ],
-  [
-    [
       "2024-02-16, 06:06:49",
       "https://lobste.rs/s/sduaqc/forgejo_forks_its_own_path_forward"
     ],
@@ -237,16 +247,6 @@
     [
       "Dependency solving in Nix",
       "http://www.chriswarbo.net/projects/nixos/nix_dependencies.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-15, 20:23:21",
-      "https://lobste.rs/s/ulpody/rye_grows_with_uv"
-    ],
-    [
-      "Rye Grows With UV",
-      "https://lucumr.pocoo.org/2024/2/15/rye-grows-with-uv/"
     ]
   ]
 ]
