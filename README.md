@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-17, 12:28:32](https://lobste.rs/s/uumbc6/layoff) - [The Layoff](https://xeiaso.net/blog/2024/the-layoff/)
 * [2024-02-17, 11:59:39](https://lobste.rs/s/a18ccx/all_my_thoughts_after_40_hours_vision_pro) - [All My Thoughts After 40 Hours in the Vision Pro](https://waitbutwhy.com/2024/02/vision-pro.html)
 * [2024-02-17, 11:53:39](https://lobste.rs/s/o3leyk/strategy_pattern_go) - [Strategy pattern in Go](https://rednafi.com/go/strategy_pattern/)
 * [2024-02-17, 04:43:16](https://lobste.rs/s/qyoyqb/apple_vision_pro_s_avp_image_quality) - [Apple Vision Pro’s (AVP) Image Quality Issues – First Impressions](https://kguttag.com/2024/02/16/apple-vision-pros-avp-image-quality-issues-first-impressions/)
@@ -8,7 +9,6 @@
 * [2024-02-16, 22:18:45](https://lobste.rs/s/zivq9m/paying_people_work_on_open_source_is_good) - [Paying people to work on open source is good actually](https://jacobian.org/2024/feb/16/paying-maintainers-is-good/)
 * [2024-02-16, 21:28:39](https://lobste.rs/s/b817ja/git_aliases_addons) - [Git Aliases and Addons](https://bernsteinbear.com/git/)
 * [2024-02-16, 20:03:44](https://lobste.rs/s/twgrus/introducing_safetest_novel_approach) - [Introducing SafeTest: A Novel Approach to Front End Testing](https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d)
-* [2024-02-16, 19:55:00](https://lobste.rs/s/jljtg7/mcuboot) - [MCUboot](https://docs.mcuboot.com/)
 * [2024-02-16, 18:46:05](https://lobste.rs/s/ftehsa/video_for_my_non_technical_family) - [Video for my non-technical family describing how my library fits into the PyData ecosystem](https://youtu.be/pfAkz6L5rMI )
 * [2024-02-16, 17:37:49](https://lobste.rs/s/spjgop/popular_git_config_options) - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
 * [2024-02-16, 17:32:22](https://lobste.rs/s/mbbcot/pgtemp_rust_library_daemon_for_easily) - [pgtemp: Rust library and daemon for easily starting postgres databases per-test without Docker](https://github.com/boustrophedon/pgtemp)
