@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-17, 23:23:27](https://lobste.rs/s/fud3fk/from_1s_4ms) - [From 1s to 4ms](https://registerspill.thorstenball.com/p/from-1s-to-4ms)
 * [2024-02-17, 22:47:18](https://lobste.rs/s/eirnhs/announcing_emuwow_beta_1_axp_preview1) - [Announcing EmuWoW Beta 1 (AXP Preview1)](https://virtuallyfun.com/2024/02/17/announcing-emuwow-beta-1-axp-preview1/)
 * [2024-02-17, 20:08:59](https://lobste.rs/s/bamopu/protoweb) - [Protoweb](https://protoweb.org/)
 * [2024-02-17, 20:00:53](https://lobste.rs/s/eg6n05/steampipe_select_from_cloud) - [Steampipe | select * from cloud](https://steampipe.io/)
@@ -24,7 +25,6 @@
 * [2024-02-16, 12:33:49](https://lobste.rs/s/qx0dey/ampere_wild_how_freebsd_employs_ampere) - [Ampere in the Wild – How FreeBSD Employs Ampere ARM64 Servers in Data Center](https://amperecomputing.com/blogs/ampere-in-the-wild)
 * [2024-02-16, 12:00:36](https://lobste.rs/s/yybfa1/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/yybfa1/what_are_you_doing_this_weekend)
 * [2024-02-16, 06:06:49](https://lobste.rs/s/sduaqc/forgejo_forks_its_own_path_forward) - [Forgejo forks its own path forward](https://forgejo.org/2024-02-forking-forward/)
-* [2024-02-16, 00:24:47](https://lobste.rs/s/3blthf/dependency_solving_nix) - [Dependency solving in Nix](http://www.chriswarbo.net/projects/nixos/nix_dependencies.html)
 
 ## [Archives](archives/index.md)
 
