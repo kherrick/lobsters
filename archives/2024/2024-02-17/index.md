@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-17](index.md)
 
+* [2024-02-17, 20:08:59](https://lobste.rs/s/bamopu/protoweb) - [Protoweb](https://protoweb.org/)
+* [2024-02-17, 20:00:53](https://lobste.rs/s/eg6n05/steampipe_select_from_cloud) - [Steampipe | select * from cloud](https://steampipe.io/)
 * [2024-02-17, 19:54:27](https://lobste.rs/s/yapkqe/inside_mechanical_bendix_air_data) - [Inside the mechanical Bendix Air Data Computer, part 5: motor/tachometers](http://www.righto.com/2024/02/bendix-cadc-servomotor-tachometer.html)
 * [2024-02-17, 19:03:59](https://lobste.rs/s/rpaxoy/mathematical_puzzle_fonts_typefaces) - [Mathematical and Puzzle Fonts/Typefaces](https://erikdemaine.org/fonts/)
 * [2024-02-17, 18:56:38](https://lobste.rs/s/4jjoig/lisp_hardware_verification_with_acl2) - [Lisp & Hardware Verification with ACL2](https://www.youtube.com/watch?v=iFEb9p54x_Q)
