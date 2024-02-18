@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-18, 16:01:39](https://lobste.rs/s/wipu1j/multipass_c_compiler_assembler_x86) - [Multipass C Compiler, Assembler and X86 emulator written in TypeScript](https://github.com/Mati365/ts-c-compiler)
 * [2024-02-18, 15:43:18](https://lobste.rs/s/0lpqdr/bergamot_exploring_programming) - [Bergamot: Exploring Programming Language Inference Rules](https://danilafe.com/blog/bergamot/)
 * [2024-02-18, 15:19:15](https://lobste.rs/s/2f41ah/how_uber_serves_over_40_million_reads_per) - [How Uber Serves Over 40 Million Reads Per Second from Online Storage Using an Integrated Cache](https://www.uber.com/en-DE/blog/how-uber-serves-over-40-million-reads-per-second-using-an-integrated-cache/)
 * [2024-02-18, 14:03:00](https://lobste.rs/s/ynr9lr/wsgidav_generic_extendable_webdav) - [WsgiDAV: A generic and extendable WebDAV server based on WSGI](https://github.com/mar10/wsgidav)
@@ -23,7 +24,6 @@
 * [2024-02-17, 18:56:38](https://lobste.rs/s/4jjoig/lisp_hardware_verification_with_acl2) - [Lisp & Hardware Verification with ACL2](https://www.youtube.com/watch?v=iFEb9p54x_Q)
 * [2024-02-17, 12:28:32](https://lobste.rs/s/uumbc6/layoff) - [The Layoff](https://xeiaso.net/blog/2024/the-layoff/)
 * [2024-02-17, 11:59:39](https://lobste.rs/s/a18ccx/all_my_thoughts_after_40_hours_vision_pro) - [All My Thoughts After 40 Hours in the Vision Pro](https://waitbutwhy.com/2024/02/vision-pro.html)
-* [2024-02-17, 11:53:39](https://lobste.rs/s/o3leyk/strategy_pattern_go) - [Strategy pattern in Go](https://rednafi.com/go/strategy_pattern/)
 * [2024-02-16, 17:37:49](https://lobste.rs/s/spjgop/popular_git_config_options) - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
 
 ## [Archives](archives/index.md)
