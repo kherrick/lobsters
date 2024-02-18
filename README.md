@@ -22,8 +22,8 @@
 * [2024-02-18, 03:09:50](https://lobste.rs/s/vqkcce/bevy_0_13_released) - [Bevy 0.13 Released](https://bevyengine.org/news/bevy-0-13/)
 * [2024-02-17, 23:23:27](https://lobste.rs/s/fud3fk/from_1s_4ms) - [From 1s to 4ms](https://registerspill.thorstenball.com/p/from-1s-to-4ms)
 * [2024-02-17, 20:08:59](https://lobste.rs/s/bamopu/protoweb) - [Protoweb](https://protoweb.org/)
-* [2024-02-17, 20:00:53](https://lobste.rs/s/eg6n05/steampipe_select_from_cloud) - [Steampipe | select * from cloud](https://steampipe.io/)
 * [2024-02-17, 19:03:59](https://lobste.rs/s/rpaxoy/mathematical_puzzle_fonts_typefaces) - [Mathematical and Puzzle Fonts/Typefaces](https://erikdemaine.org/fonts/)
+* [2024-02-17, 12:28:32](https://lobste.rs/s/uumbc6/layoff) - [The Layoff](https://xeiaso.net/blog/2024/the-layoff/)
 * [2024-02-17, 11:59:39](https://lobste.rs/s/a18ccx/all_my_thoughts_after_40_hours_vision_pro) - [All My Thoughts After 40 Hours in the Vision Pro](https://waitbutwhy.com/2024/02/vision-pro.html)
 
 ## [Archives](archives/index.md)
