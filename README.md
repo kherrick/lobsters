@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-18, 13:29:23](https://lobste.rs/s/bz0pdk/ten_python_datetime_pitfalls_what) - [Ten Python datetime pitfalls, and what libraries are (not) doing about it](https://dev.arie.bovenberg.net/blog/python-datetime-pitfalls/)
 * [2024-02-18, 13:18:56](https://lobste.rs/s/vtjxwj/accessible_one_handed_keyboard_inspired) - [An accessible one handed keyboard, inspired by FrogPad](https://www.kianryan.co.uk/2024-02-16-one-handed-accessible-keyboard-inspired-by-frogpad/)
 * [2024-02-18, 12:29:36](https://lobste.rs/s/yf5dwi/berkeley_software_distribution) - [The Berkeley Software Distribution](https://www.abortretry.fail/p/the-berkley-software-distribution)
 * [2024-02-18, 11:33:25](https://lobste.rs/s/lhlxd6/wddbfs_mount_sqlite_database_as) - [wddbfs – Mount a sqlite database as a filesystem](https://adamobeng.com/wddbfs-mount-a-sqlite-database-as-a-filesystem/)
@@ -13,7 +14,6 @@
 * [2024-02-17, 22:47:18](https://lobste.rs/s/eirnhs/announcing_emuwow_beta_1_axp_preview1) - [Announcing EmuWoW Beta 1 (AXP Preview1)](https://virtuallyfun.com/2024/02/17/announcing-emuwow-beta-1-axp-preview1/)
 * [2024-02-17, 20:08:59](https://lobste.rs/s/bamopu/protoweb) - [Protoweb](https://protoweb.org/)
 * [2024-02-17, 20:00:53](https://lobste.rs/s/eg6n05/steampipe_select_from_cloud) - [Steampipe | select * from cloud](https://steampipe.io/)
-* [2024-02-17, 19:54:27](https://lobste.rs/s/yapkqe/inside_mechanical_bendix_air_data) - [Inside the mechanical Bendix Air Data Computer, part 5: motor/tachometers](http://www.righto.com/2024/02/bendix-cadc-servomotor-tachometer.html)
 * [2024-02-17, 19:03:59](https://lobste.rs/s/rpaxoy/mathematical_puzzle_fonts_typefaces) - [Mathematical and Puzzle Fonts/Typefaces](https://erikdemaine.org/fonts/)
 * [2024-02-17, 18:56:38](https://lobste.rs/s/4jjoig/lisp_hardware_verification_with_acl2) - [Lisp & Hardware Verification with ACL2](https://www.youtube.com/watch?v=iFEb9p54x_Q)
 * [2024-02-17, 17:01:21](https://lobste.rs/s/crmyap/you_can_t_handle_errors) - [You can't handle Errors](https://btmc.substack.com/p/you-cant-handle-errors)

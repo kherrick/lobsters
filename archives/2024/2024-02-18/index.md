@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-18](index.md)
 
+* [2024-02-18, 13:29:23](https://lobste.rs/s/bz0pdk/ten_python_datetime_pitfalls_what) - [Ten Python datetime pitfalls, and what libraries are (not) doing about it](https://dev.arie.bovenberg.net/blog/python-datetime-pitfalls/)
 * [2024-02-18, 13:18:56](https://lobste.rs/s/vtjxwj/accessible_one_handed_keyboard_inspired) - [An accessible one handed keyboard, inspired by FrogPad](https://www.kianryan.co.uk/2024-02-16-one-handed-accessible-keyboard-inspired-by-frogpad/)
 * [2024-02-18, 12:29:36](https://lobste.rs/s/yf5dwi/berkeley_software_distribution) - [The Berkeley Software Distribution](https://www.abortretry.fail/p/the-berkley-software-distribution)
 * [2024-02-18, 11:33:25](https://lobste.rs/s/lhlxd6/wddbfs_mount_sqlite_database_as) - [wddbfs – Mount a sqlite database as a filesystem](https://adamobeng.com/wddbfs-mount-a-sqlite-database-as-a-filesystem/)
