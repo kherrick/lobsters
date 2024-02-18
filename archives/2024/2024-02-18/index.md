@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-18](index.md)
 
+* [2024-02-18, 17:35:19](https://lobste.rs/s/icverw/tempo) - [Tempo](https://tempo.formkit.com/)
 * [2024-02-18, 16:33:59](https://lobste.rs/s/ea1uwn/designing_serverless_stream_storage) - [Designing serverless stream storage](https://blog.schmizz.net/designing-serverless-stream-storage)
 * [2024-02-18, 16:01:39](https://lobste.rs/s/wipu1j/multipass_c_compiler_assembler_x86) - [Multipass C Compiler, Assembler and X86 emulator written in TypeScript](https://github.com/Mati365/ts-c-compiler)
 * [2024-02-18, 15:43:18](https://lobste.rs/s/0lpqdr/bergamot_exploring_programming) - [Bergamot: Exploring Programming Language Inference Rules](https://danilafe.com/blog/bergamot/)
