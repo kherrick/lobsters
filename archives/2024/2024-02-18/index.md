@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-18](index.md)
 
+* [2024-02-18, 10:24:33](https://lobste.rs/s/u4h9ff/futuresunordered_order_futures) - [FuturesUnordered and the order of futures](https://without.boats/blog/futures-unordered/)
 * [2024-02-18, 05:47:48](https://lobste.rs/s/wxcprx/tailwind_css_marketing_misinformation) - [Tailwind CSS marketing and misinformation engine](https://nuejs.org/blog/tailwind-misinformation-engine/)
 * [2024-02-18, 04:35:47](https://lobste.rs/s/3htrvl/try_my_go_reverse_proxy_webserver_is_auto) - [Try my go reverse proxy webserver that is auto configured via RPC](https://github.com/fsmv/daemon)
 * [2024-02-18, 03:56:24](https://lobste.rs/s/oax6ad/representation_engineering_mistral_7b) - [Representation Engineering Mistral-7B an Acid Trip](https://vgel.me/posts/representation-engineering/)
