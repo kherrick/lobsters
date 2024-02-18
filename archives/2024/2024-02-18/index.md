@@ -4,4 +4,6 @@
 
 ### [Archives](../../index.md) for [2024-02-18](index.md)
 
+* [2024-02-18, 03:10:40](https://lobste.rs/s/rtgczf/doom_rpg_port_reverse_engineering_update) - [Doom RPG Port Reverse Engineering Update (version 0.2.2) Source Code Release](https://www.doomworld.com/forum/topic/129997-doom-rpg-port-reverse-engineering-update-version-022-source-code-release/)
+* [2024-02-18, 03:09:50](https://lobste.rs/s/vqkcce/bevy_0_13_released) - [Bevy 0.13 Released](https://bevyengine.org/news/bevy-0-13/)
 * [2024-02-18, 00:51:45](https://lobste.rs/s/rxnplc/muse_retrospective) - [Muse retrospective](https://adamwiggins.com/muse-retrospective/)
