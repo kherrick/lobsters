@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-18, 14:03:00",
+      "https://lobste.rs/s/ynr9lr/wsgidav_generic_extendable_webdav"
+    ],
+    [
+      "WsgiDAV: A generic and extendable WebDAV server based on WSGI",
+      "https://github.com/mar10/wsgidav"
+    ]
+  ],
+  [
+    [
+      "2024-02-18, 13:55:08",
+      "https://lobste.rs/s/usq8dk/managing_dotfiles_on_macos_with_nix"
+    ],
+    [
+      "Managing dotfiles on macOS with Nix",
+      "https://davi.sh/blog/2024/02/nix-home-manager/"
+    ]
+  ],
+  [
+    [
       "2024-02-18, 13:47:58",
       "https://lobste.rs/s/qfrjh2/no_utility_classes_aren_t_same_as_inline"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2024-02-16, 22:18:45",
-      "https://lobste.rs/s/zivq9m/paying_people_work_on_open_source_is_good"
-    ],
-    [
-      "Paying people to work on open source is good actually",
-      "https://jacobian.org/2024/feb/16/paying-maintainers-is-good/"
-    ]
-  ],
-  [
-    [
       "2024-02-16, 17:37:49",
       "https://lobste.rs/s/spjgop/popular_git_config_options"
     ],
     [
       "Popular git config options",
       "https://jvns.ca/blog/2024/02/16/popular-git-config-options/"
-    ]
-  ],
-  [
-    [
-      "2024-02-16, 16:02:04",
-      "https://lobste.rs/s/mb6xlm/guix_on_framework_13_amd"
-    ],
-    [
-      "guix on the framework 13 amd",
-      "https://wingolog.org/archives/2024/02/16/guix-on-the-framework-13-amd"
     ]
   ]
 ]
