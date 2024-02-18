@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-18, 05:47:48](https://lobste.rs/s/wxcprx/tailwind_css_marketing_misinformation) - [Tailwind CSS marketing and misinformation engine](https://nuejs.org/blog/tailwind-misinformation-engine/)
 * [2024-02-18, 04:35:47](https://lobste.rs/s/3htrvl/try_my_go_reverse_proxy_webserver_is_auto) - [Try my go reverse proxy webserver that is auto configured via RPC](https://github.com/fsmv/daemon)
 * [2024-02-18, 03:56:24](https://lobste.rs/s/oax6ad/representation_engineering_mistral_7b) - [Representation Engineering Mistral-7B an Acid Trip](https://vgel.me/posts/representation-engineering/)
 * [2024-02-18, 03:10:40](https://lobste.rs/s/rtgczf/doom_rpg_port_reverse_engineering_update) - [Doom RPG Port Reverse Engineering Update (version 0.2.2) Source Code Release](https://www.doomworld.com/forum/topic/129997-doom-rpg-port-reverse-engineering-update-version-022-source-code-release/)
@@ -16,7 +17,6 @@
 * [2024-02-17, 12:28:32](https://lobste.rs/s/uumbc6/layoff) - [The Layoff](https://xeiaso.net/blog/2024/the-layoff/)
 * [2024-02-17, 11:59:39](https://lobste.rs/s/a18ccx/all_my_thoughts_after_40_hours_vision_pro) - [All My Thoughts After 40 Hours in the Vision Pro](https://waitbutwhy.com/2024/02/vision-pro.html)
 * [2024-02-17, 11:53:39](https://lobste.rs/s/o3leyk/strategy_pattern_go) - [Strategy pattern in Go](https://rednafi.com/go/strategy_pattern/)
-* [2024-02-17, 04:43:16](https://lobste.rs/s/qyoyqb/apple_vision_pro_s_avp_image_quality) - [Apple Vision Pro’s (AVP) Image Quality Issues – First Impressions](https://kguttag.com/2024/02/16/apple-vision-pros-avp-image-quality-issues-first-impressions/)
 * [2024-02-17, 01:31:22](https://lobste.rs/s/93ubgt/reverse_engineering_encrypted_iot) - [Reverse-engineering an encrypted IoT protocol](https://smlx.dev/posts/goodwe-sems-protocol-teardown/)
 * [2024-02-16, 22:18:45](https://lobste.rs/s/zivq9m/paying_people_work_on_open_source_is_good) - [Paying people to work on open source is good actually](https://jacobian.org/2024/feb/16/paying-maintainers-is-good/)
 * [2024-02-16, 21:28:39](https://lobste.rs/s/b817ja/git_aliases_addons) - [Git Aliases and Addons](https://bernsteinbear.com/git/)
