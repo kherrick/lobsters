@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-18, 12:29:36",
+      "https://lobste.rs/s/yf5dwi/berkeley_software_distribution"
+    ],
+    [
+      "The Berkeley Software Distribution",
+      "https://www.abortretry.fail/p/the-berkley-software-distribution"
+    ]
+  ],
+  [
+    [
       "2024-02-18, 11:33:25",
       "https://lobste.rs/s/lhlxd6/wddbfs_mount_sqlite_database_as"
     ],
@@ -237,16 +247,6 @@
     [
       "guix on the framework 13 amd",
       "https://wingolog.org/archives/2024/02/16/guix-on-the-framework-13-amd"
-    ]
-  ],
-  [
-    [
-      "2024-02-16, 06:06:49",
-      "https://lobste.rs/s/sduaqc/forgejo_forks_its_own_path_forward"
-    ],
-    [
-      "Forgejo forks its own path forward",
-      "https://forgejo.org/2024-02-forking-forward/"
     ]
   ]
 ]
