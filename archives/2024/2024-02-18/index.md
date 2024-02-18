@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-18](index.md)
 
+* [2024-02-18, 14:03:00](https://lobste.rs/s/ynr9lr/wsgidav_generic_extendable_webdav) - [WsgiDAV: A generic and extendable WebDAV server based on WSGI](https://github.com/mar10/wsgidav)
+* [2024-02-18, 13:55:08](https://lobste.rs/s/usq8dk/managing_dotfiles_on_macos_with_nix) - [Managing dotfiles on macOS with Nix](https://davi.sh/blog/2024/02/nix-home-manager/)
 * [2024-02-18, 13:47:58](https://lobste.rs/s/qfrjh2/no_utility_classes_aren_t_same_as_inline) - [No, Utility Classes Aren't the Same As Inline Styles](https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles)
 * [2024-02-18, 13:29:23](https://lobste.rs/s/bz0pdk/ten_python_datetime_pitfalls_what) - [Ten Python datetime pitfalls, and what libraries are (not) doing about it](https://dev.arie.bovenberg.net/blog/python-datetime-pitfalls/)
 * [2024-02-18, 13:18:56](https://lobste.rs/s/vtjxwj/accessible_one_handed_keyboard_inspired) - [An accessible one handed keyboard, inspired by FrogPad](https://www.kianryan.co.uk/2024-02-16-one-handed-accessible-keyboard-inspired-by-frogpad/)
