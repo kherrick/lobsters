@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-18](index.md)
 
+* [2024-02-18, 20:27:50](https://lobste.rs/s/htkv5f/fighting_off_faux_serverless_bandits) - [Fighting off faux-serverless bandits with the true definition of serverless](https://www.gomomento.com/blog/fighting-off-fake-serverless-bandits-with-the-true-definition-of-serverless)
+* [2024-02-18, 20:27:24](https://lobste.rs/s/kxxbci/software_infrastructure_2_0_wishlist) - [Software infrastructure 2.0: a wishlist](https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html)
 * [2024-02-18, 17:35:19](https://lobste.rs/s/icverw/tempo) - [Tempo](https://tempo.formkit.com/)
 * [2024-02-18, 16:33:59](https://lobste.rs/s/ea1uwn/designing_serverless_stream_storage) - [Designing serverless stream storage](https://blog.schmizz.net/designing-serverless-stream-storage)
 * [2024-02-18, 16:01:39](https://lobste.rs/s/wipu1j/multipass_c_compiler_assembler_x86) - [Multipass C Compiler, Assembler and X86 emulator written in TypeScript](https://github.com/Mati365/ts-c-compiler)
