@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-18](index.md)
 
+* [2024-02-18, 15:43:18](https://lobste.rs/s/0lpqdr/bergamot_exploring_programming) - [Bergamot: Exploring Programming Language Inference Rules](https://danilafe.com/blog/bergamot/)
 * [2024-02-18, 15:19:15](https://lobste.rs/s/2f41ah/how_uber_serves_over_40_million_reads_per) - [How Uber Serves Over 40 Million Reads Per Second from Online Storage Using an Integrated Cache](https://www.uber.com/en-DE/blog/how-uber-serves-over-40-million-reads-per-second-using-an-integrated-cache/)
 * [2024-02-18, 14:03:00](https://lobste.rs/s/ynr9lr/wsgidav_generic_extendable_webdav) - [WsgiDAV: A generic and extendable WebDAV server based on WSGI](https://github.com/mar10/wsgidav)
 * [2024-02-18, 13:55:08](https://lobste.rs/s/usq8dk/managing_dotfiles_on_macos_with_nix) - [Managing dotfiles on macOS with Nix](https://davi.sh/blog/2024/02/nix-home-manager/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-18, 15:43:18](https://lobste.rs/s/0lpqdr/bergamot_exploring_programming) - [Bergamot: Exploring Programming Language Inference Rules](https://danilafe.com/blog/bergamot/)
 * [2024-02-18, 15:19:15](https://lobste.rs/s/2f41ah/how_uber_serves_over_40_million_reads_per) - [How Uber Serves Over 40 Million Reads Per Second from Online Storage Using an Integrated Cache](https://www.uber.com/en-DE/blog/how-uber-serves-over-40-million-reads-per-second-using-an-integrated-cache/)
 * [2024-02-18, 14:03:00](https://lobste.rs/s/ynr9lr/wsgidav_generic_extendable_webdav) - [WsgiDAV: A generic and extendable WebDAV server based on WSGI](https://github.com/mar10/wsgidav)
 * [2024-02-18, 13:55:08](https://lobste.rs/s/usq8dk/managing_dotfiles_on_macos_with_nix) - [Managing dotfiles on macOS with Nix](https://davi.sh/blog/2024/02/nix-home-manager/)
@@ -20,7 +21,6 @@
 * [2024-02-17, 20:00:53](https://lobste.rs/s/eg6n05/steampipe_select_from_cloud) - [Steampipe | select * from cloud](https://steampipe.io/)
 * [2024-02-17, 19:03:59](https://lobste.rs/s/rpaxoy/mathematical_puzzle_fonts_typefaces) - [Mathematical and Puzzle Fonts/Typefaces](https://erikdemaine.org/fonts/)
 * [2024-02-17, 18:56:38](https://lobste.rs/s/4jjoig/lisp_hardware_verification_with_acl2) - [Lisp & Hardware Verification with ACL2](https://www.youtube.com/watch?v=iFEb9p54x_Q)
-* [2024-02-17, 17:01:21](https://lobste.rs/s/crmyap/you_can_t_handle_errors) - [You can't handle Errors](https://btmc.substack.com/p/you-cant-handle-errors)
 * [2024-02-17, 12:28:32](https://lobste.rs/s/uumbc6/layoff) - [The Layoff](https://xeiaso.net/blog/2024/the-layoff/)
 * [2024-02-17, 11:59:39](https://lobste.rs/s/a18ccx/all_my_thoughts_after_40_hours_vision_pro) - [All My Thoughts After 40 Hours in the Vision Pro](https://waitbutwhy.com/2024/02/vision-pro.html)
 * [2024-02-17, 11:53:39](https://lobste.rs/s/o3leyk/strategy_pattern_go) - [Strategy pattern in Go](https://rednafi.com/go/strategy_pattern/)
