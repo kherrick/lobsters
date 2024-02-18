@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-18, 13:47:58](https://lobste.rs/s/qfrjh2/no_utility_classes_aren_t_same_as_inline) - [No, Utility Classes Aren't the Same As Inline Styles](https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles)
 * [2024-02-18, 13:29:23](https://lobste.rs/s/bz0pdk/ten_python_datetime_pitfalls_what) - [Ten Python datetime pitfalls, and what libraries are (not) doing about it](https://dev.arie.bovenberg.net/blog/python-datetime-pitfalls/)
 * [2024-02-18, 13:18:56](https://lobste.rs/s/vtjxwj/accessible_one_handed_keyboard_inspired) - [An accessible one handed keyboard, inspired by FrogPad](https://www.kianryan.co.uk/2024-02-16-one-handed-accessible-keyboard-inspired-by-frogpad/)
 * [2024-02-18, 12:29:36](https://lobste.rs/s/yf5dwi/berkeley_software_distribution) - [The Berkeley Software Distribution](https://www.abortretry.fail/p/the-berkley-software-distribution)
@@ -23,7 +24,6 @@
 * [2024-02-17, 01:31:22](https://lobste.rs/s/93ubgt/reverse_engineering_encrypted_iot) - [Reverse-engineering an encrypted IoT protocol](https://smlx.dev/posts/goodwe-sems-protocol-teardown/)
 * [2024-02-16, 22:18:45](https://lobste.rs/s/zivq9m/paying_people_work_on_open_source_is_good) - [Paying people to work on open source is good actually](https://jacobian.org/2024/feb/16/paying-maintainers-is-good/)
 * [2024-02-16, 17:37:49](https://lobste.rs/s/spjgop/popular_git_config_options) - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
-* [2024-02-16, 17:06:49](https://lobste.rs/s/oumrhu/packaging_scrutiny_for_nixos) - [Packaging Scrutiny for NixOS](https://jnsgr.uk/2024/02/packaging-scrutiny-for-nixos/)
 * [2024-02-16, 16:02:04](https://lobste.rs/s/mb6xlm/guix_on_framework_13_amd) - [guix on the framework 13 amd](https://wingolog.org/archives/2024/02/16/guix-on-the-framework-13-amd)
 
 ## [Archives](archives/index.md)
