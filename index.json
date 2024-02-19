@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-19, 17:05:10",
+      "https://lobste.rs/s/ks8rca/otp_at_high_level"
+    ],
+    [
+      "OTP at a High Level",
+      "https://adoptingerlang.org/docs/development/otp_high_level/"
+    ]
+  ],
+  [
+    [
+      "2024-02-19, 16:58:31",
+      "https://lobste.rs/s/ckdee7/libremidi_midi_1_2_c_20_library"
+    ],
+    [
+      "libremidi, a MIDI 1 & 2 C++20 library",
+      "https://github.com/jcelerier/libremidi"
+    ]
+  ],
+  [
+    [
       "2024-02-19, 16:14:14",
       "https://lobste.rs/s/f2d9dd/htmz_low_power_tool_for_html"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-02-19, 00:27:48",
-      "https://lobste.rs/s/lcimdi/using_serial_ports_with_ruby"
-    ],
-    [
-      "Using Serial Ports with Ruby",
-      "https://tenderlovemaking.com/2024/02/16/using-serial-ports-with-ruby.html"
-    ]
-  ],
-  [
-    [
       "2024-02-19, 00:20:35",
       "https://lobste.rs/s/ijhl0w/libfirm_compiler_backend"
     ],
@@ -177,16 +187,6 @@
     [
       "An ActivityPub Server in a Single PHP File",
       "https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/"
-    ]
-  ],
-  [
-    [
-      "2024-02-18, 16:33:59",
-      "https://lobste.rs/s/ea1uwn/designing_serverless_stream_storage"
-    ],
-    [
-      "Designing serverless stream storage",
-      "https://blog.schmizz.net/designing-serverless-stream-storage"
     ]
   ],
   [
