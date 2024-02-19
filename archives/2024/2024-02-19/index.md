@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
+* [2024-02-19, 14:29:35](https://lobste.rs/s/vplgi1/hare_0_24_0_released_hare_s_new_release) - [Hare 0.24.0 released, and Hare's new release policy](https://harelang.org/blog/2024-02-16-hare-0.24.0-released/)
 * [2024-02-19, 12:27:47](https://lobste.rs/s/p7xbdf/prql_postgresql) - [PRQL in PostgreSQL](https://github.com/kaspermarstal/plprql)
 * [2024-02-19, 12:13:22](https://lobste.rs/s/q3gxfk/git_cliff_2_0_is_released_highly) - [git-cliff 2.0 is released (a highly customizable changelog generator)](https://git-cliff.org/blog/2.0.0/)
 * [2024-02-19, 11:43:19](https://lobste.rs/s/mhbfe8/downtime_due_sign_up_spam) - [Downtime due to sign up spam](https://blog.cachix.org/posts/2023-02-19-downtime-due-to-signup-spam/)
