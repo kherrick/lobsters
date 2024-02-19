@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-19, 09:32:30](https://lobste.rs/s/zch8yi/vpp_on_freebsd) - [VPP on FreeBSD](https://ipng.ch/s/articles/2024/02/10/vpp-freebsd-1.html)
 * [2024-02-19, 04:34:58](https://lobste.rs/s/2axq6g/floats_are_weird) - [Floats Are Weird](https://a.exozy.me/posts/floats-weird/)
 * [2024-02-19, 04:02:26](https://lobste.rs/s/y3o3vf/testing_distributed_systems_w) - [Testing Distributed Systems w/ Deterministic Simulation (2014)](https://youtu.be/4fFDFbi3toc)
 * [2024-02-19, 03:39:22](https://lobste.rs/s/fqarj7/type_erasure_implementation_details) - [Type Erasure: The Implementation Details](https://www.youtube.com/watch?v=7MNyAHp0h7A)
@@ -13,7 +14,6 @@
 * [2024-02-18, 16:33:59](https://lobste.rs/s/ea1uwn/designing_serverless_stream_storage) - [Designing serverless stream storage](https://blog.schmizz.net/designing-serverless-stream-storage)
 * [2024-02-18, 16:01:39](https://lobste.rs/s/wipu1j/multipass_c_compiler_assembler_x86) - [Multipass C Compiler, Assembler and X86 emulator written in TypeScript](https://github.com/Mati365/ts-c-compiler)
 * [2024-02-18, 15:43:18](https://lobste.rs/s/0lpqdr/bergamot_exploring_programming) - [Bergamot: Exploring Programming Language Inference Rules](https://danilafe.com/blog/bergamot/)
-* [2024-02-18, 14:03:00](https://lobste.rs/s/ynr9lr/wsgidav_generic_extendable_webdav) - [WsgiDAV: A generic and extendable WebDAV server based on WSGI](https://github.com/mar10/wsgidav)
 * [2024-02-18, 13:55:08](https://lobste.rs/s/usq8dk/managing_dotfiles_on_macos_with_nix) - [Managing dotfiles on macOS with Nix](https://davi.sh/blog/2024/02/nix-home-manager/)
 * [2024-02-18, 13:47:58](https://lobste.rs/s/qfrjh2/no_utility_classes_aren_t_same_as_inline) - [No, Utility Classes Aren't the Same As Inline Styles](https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles)
 * [2024-02-18, 13:29:23](https://lobste.rs/s/bz0pdk/ten_python_datetime_pitfalls_what) - [Ten Python datetime pitfalls, and what libraries are (not) doing about it](https://dev.arie.bovenberg.net/blog/python-datetime-pitfalls/)

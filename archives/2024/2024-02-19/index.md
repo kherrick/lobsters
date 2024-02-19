@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
+* [2024-02-19, 09:32:30](https://lobste.rs/s/zch8yi/vpp_on_freebsd) - [VPP on FreeBSD](https://ipng.ch/s/articles/2024/02/10/vpp-freebsd-1.html)
 * [2024-02-19, 04:34:58](https://lobste.rs/s/2axq6g/floats_are_weird) - [Floats Are Weird](https://a.exozy.me/posts/floats-weird/)
 * [2024-02-19, 04:02:26](https://lobste.rs/s/y3o3vf/testing_distributed_systems_w) - [Testing Distributed Systems w/ Deterministic Simulation (2014)](https://youtu.be/4fFDFbi3toc)
 * [2024-02-19, 03:39:22](https://lobste.rs/s/fqarj7/type_erasure_implementation_details) - [Type Erasure: The Implementation Details](https://www.youtube.com/watch?v=7MNyAHp0h7A)
