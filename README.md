@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-19, 03:39:22](https://lobste.rs/s/fqarj7/type_erasure_implementation_details) - [Type Erasure: The Implementation Details](https://www.youtube.com/watch?v=7MNyAHp0h7A)
 * [2024-02-19, 01:47:27](https://lobste.rs/s/ixdsh0/serving_website_from_git_repo_without) - [Serving a Website From a Git Repo Without Cloning It](https://mediocregopher.com/posts/git-proxy)
 * [2024-02-19, 01:17:54](https://lobste.rs/s/budvzn/your_own_vector_search_5_minutes_with) - [Your Own Vector Search in 5 Minutes with SQLite, OpenAI Embeddings, and Node.js](https://markus.oberlehner.net/blog/your-own-vector-search-in-5-minutes-with-sqlite-openai-embeddings-and-nodejs/)
 * [2024-02-19, 00:27:48](https://lobste.rs/s/lcimdi/using_serial_ports_with_ruby) - [Using Serial Ports with Ruby](https://tenderlovemaking.com/2024/02/16/using-serial-ports-with-ruby.html)
@@ -24,7 +25,6 @@
 * [2024-02-18, 03:56:24](https://lobste.rs/s/oax6ad/representation_engineering_mistral_7b) - [Representation Engineering Mistral-7B an Acid Trip](https://vgel.me/posts/representation-engineering/)
 * [2024-02-18, 03:09:50](https://lobste.rs/s/vqkcce/bevy_0_13_released) - [Bevy 0.13 Released](https://bevyengine.org/news/bevy-0-13/)
 * [2024-02-17, 23:23:27](https://lobste.rs/s/fud3fk/from_1s_4ms) - [From 1s to 4ms](https://registerspill.thorstenball.com/p/from-1s-to-4ms)
-* [2024-02-17, 11:59:39](https://lobste.rs/s/a18ccx/all_my_thoughts_after_40_hours_vision_pro) - [All My Thoughts After 40 Hours in the Vision Pro](https://waitbutwhy.com/2024/02/vision-pro.html)
 
 ## [Archives](archives/index.md)
 
