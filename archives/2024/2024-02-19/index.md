@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
+* [2024-02-19, 14:39:50](https://lobste.rs/s/rkxdkk/finding_postgres_rows_too_large_for_btree) - [Finding Postgres rows too large for BTree indexes](https://willj.net/posts/finding-postgres-rows-too-large-for-btree-indexes/)
 * [2024-02-19, 14:29:35](https://lobste.rs/s/vplgi1/hare_0_24_0_released_hare_s_new_release) - [Hare 0.24.0 released, and Hare's new release policy](https://harelang.org/blog/2024-02-16-hare-0.24.0-released/)
 * [2024-02-19, 12:27:47](https://lobste.rs/s/p7xbdf/prql_postgresql) - [PRQL in PostgreSQL](https://github.com/kaspermarstal/plprql)
 * [2024-02-19, 12:13:22](https://lobste.rs/s/q3gxfk/git_cliff_2_0_is_released_highly) - [git-cliff 2.0 is released (a highly customizable changelog generator)](https://git-cliff.org/blog/2.0.0/)
 * [2024-02-19, 11:43:19](https://lobste.rs/s/mhbfe8/downtime_due_sign_up_spam) - [Downtime due to sign up spam](https://blog.cachix.org/posts/2023-02-19-downtime-due-to-signup-spam/)
 * [2024-02-19, 11:01:32](https://lobste.rs/s/saycd2/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/saycd2/what_are_you_doing_this_week)
+* [2024-02-19, 10:45:06](https://lobste.rs/s/5xfopz/things_you_can_do_on_your_personal_website) - [Things you can do on your personal website](https://jamesg.blog/2024/02/19/personal-website-ideas/)
 * [2024-02-19, 10:45:06](https://lobste.rs/s/5xfopz/100_things_you_can_do_on_your_personal) - [100 things you can do on your personal website](https://jamesg.blog/2024/02/19/personal-website-ideas/)
 * [2024-02-19, 10:44:54](https://lobste.rs/s/ish2s7/2023_annual_rust_survey_results) - [2023 Annual Rust Survey Results](https://blog.rust-lang.org/2024/02/19/2023-Rust-Annual-Survey-2023-results.html)
 * [2024-02-19, 09:32:30](https://lobste.rs/s/zch8yi/vpp_on_freebsd) - [VPP on FreeBSD](https://ipng.ch/s/articles/2024/02/10/vpp-freebsd-1.html)
