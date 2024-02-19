@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-19, 00:27:48](https://lobste.rs/s/lcimdi/using_serial_ports_with_ruby_tenderlove) - [Using Serial Ports with Ruby |  Tenderlove Making](https://tenderlovemaking.com/2024/02/16/using-serial-ports-with-ruby.html)
+* [2024-02-19, 00:20:35](https://lobste.rs/s/ijhl0w/libfirm_compiler_backend) - [LibFirm compiler backend](http://libfirm.org/)
 * [2024-02-18, 23:32:35](https://lobste.rs/s/9ybrxx/writing_good_programming_abstractions) - [Writing good programming abstractions](https://notebook.drmaciver.com/posts/2024-01-13-08:28.html)
 * [2024-02-18, 20:48:36](https://lobste.rs/s/jynnm3/activitypub_server_single_php_file) - [An ActivityPub Server in a Single PHP File](https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/)
 * [2024-02-18, 20:27:50](https://lobste.rs/s/htkv5f/fighting_off_faux_serverless_bandits) - [Fighting off faux-serverless bandits with the true definition of serverless](https://www.gomomento.com/blog/fighting-off-fake-serverless-bandits-with-the-true-definition-of-serverless)
@@ -19,11 +21,9 @@
 * [2024-02-18, 10:24:33](https://lobste.rs/s/u4h9ff/futuresunordered_order_futures) - [FuturesUnordered and the order of futures](https://without.boats/blog/futures-unordered/)
 * [2024-02-18, 05:47:48](https://lobste.rs/s/wxcprx/tailwind_semantics_vs_utility) - [Tailwind: Semantics vs Utility](https://nuejs.org/blog/tailwind-misinformation-engine/)
 * [2024-02-18, 03:56:24](https://lobste.rs/s/oax6ad/representation_engineering_mistral_7b) - [Representation Engineering Mistral-7B an Acid Trip](https://vgel.me/posts/representation-engineering/)
-* [2024-02-18, 03:10:40](https://lobste.rs/s/rtgczf/doom_rpg_port_reverse_engineering_update) - [Doom RPG Port Reverse Engineering Update (version 0.2.2) Source Code Release](https://www.doomworld.com/forum/topic/129997-doom-rpg-port-reverse-engineering-update-version-022-source-code-release/)
 * [2024-02-18, 03:09:50](https://lobste.rs/s/vqkcce/bevy_0_13_released) - [Bevy 0.13 Released](https://bevyengine.org/news/bevy-0-13/)
 * [2024-02-17, 23:23:27](https://lobste.rs/s/fud3fk/from_1s_4ms) - [From 1s to 4ms](https://registerspill.thorstenball.com/p/from-1s-to-4ms)
 * [2024-02-17, 20:08:59](https://lobste.rs/s/bamopu/protoweb) - [Protoweb](https://protoweb.org/)
-* [2024-02-17, 19:03:59](https://lobste.rs/s/rpaxoy/mathematical_puzzle_fonts_typefaces) - [Mathematical and Puzzle Fonts/Typefaces](https://erikdemaine.org/fonts/)
 * [2024-02-17, 11:59:39](https://lobste.rs/s/a18ccx/all_my_thoughts_after_40_hours_vision_pro) - [All My Thoughts After 40 Hours in the Vision Pro](https://waitbutwhy.com/2024/02/vision-pro.html)
 
 ## [Archives](archives/index.md)
