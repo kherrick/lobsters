@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
+* [2024-02-19, 17:31:42](https://lobste.rs/s/4sci7w/open_source_crt_driver_board) - [Open Source CRT Driver Board](https://github.com/tdaede/td-crt?tab=readme-ov-file)
 * [2024-02-19, 17:05:10](https://lobste.rs/s/ks8rca/otp_at_high_level) - [OTP at a High Level](https://adoptingerlang.org/docs/development/otp_high_level/)
 * [2024-02-19, 16:58:31](https://lobste.rs/s/ckdee7/libremidi_midi_1_2_c_20_library) - [libremidi, a MIDI 1 & 2 C++20 library](https://github.com/jcelerier/libremidi)
 * [2024-02-19, 16:14:14](https://lobste.rs/s/f2d9dd/htmz_low_power_tool_for_html) - [htmz - a low power tool for html](https://leanrada.com/htmz/)
