@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
+* [2024-02-19, 16:14:14](https://lobste.rs/s/f2d9dd/htmz_low_power_tool_for_html) - [htmz - a low power tool for html](https://leanrada.com/htmz/)
 * [2024-02-19, 14:39:50](https://lobste.rs/s/rkxdkk/finding_postgres_rows_too_large_for_btree) - [Finding Postgres rows too large for BTree indexes](https://willj.net/posts/finding-postgres-rows-too-large-for-btree-indexes/)
 * [2024-02-19, 14:29:35](https://lobste.rs/s/vplgi1/hare_0_24_0_released_hare_s_new_release) - [Hare 0.24.0 released, and Hare's new release policy](https://harelang.org/blog/2024-02-16-hare-0.24.0-released/)
 * [2024-02-19, 12:27:47](https://lobste.rs/s/p7xbdf/prql_postgresql) - [PRQL in PostgreSQL](https://github.com/kaspermarstal/plprql)

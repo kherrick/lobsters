@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-19, 16:14:14](https://lobste.rs/s/f2d9dd/htmz_low_power_tool_for_html) - [htmz - a low power tool for html](https://leanrada.com/htmz/)
 * [2024-02-19, 14:39:50](https://lobste.rs/s/rkxdkk/finding_postgres_rows_too_large_for_btree) - [Finding Postgres rows too large for BTree indexes](https://willj.net/posts/finding-postgres-rows-too-large-for-btree-indexes/)
 * [2024-02-19, 14:29:35](https://lobste.rs/s/vplgi1/hare_0_24_0_released_hare_s_new_release) - [Hare 0.24.0 released, and Hare's new release policy](https://harelang.org/blog/2024-02-16-hare-0.24.0-released/)
 * [2024-02-19, 12:27:47](https://lobste.rs/s/p7xbdf/prql_postgresql) - [PRQL in PostgreSQL](https://github.com/kaspermarstal/plprql)
@@ -24,7 +25,6 @@
 * [2024-02-18, 12:29:36](https://lobste.rs/s/yf5dwi/berkeley_software_distribution) - [The Berkeley Software Distribution](https://www.abortretry.fail/p/the-berkley-software-distribution)
 * [2024-02-18, 10:24:33](https://lobste.rs/s/u4h9ff/futuresunordered_order_futures) - [FuturesUnordered and the order of futures](https://without.boats/blog/futures-unordered/)
 * [2024-02-18, 05:47:48](https://lobste.rs/s/wxcprx/tailwind_semantics_vs_utility) - [Tailwind: Semantics vs Utility](https://nuejs.org/blog/tailwind-misinformation-engine/)
-* [2024-02-17, 23:23:27](https://lobste.rs/s/fud3fk/from_1s_4ms) - [From 1s to 4ms](https://registerspill.thorstenball.com/p/from-1s-to-4ms)
 
 ## [Archives](archives/index.md)
 
