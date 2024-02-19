@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-19, 14:29:35",
+      "https://lobste.rs/s/vplgi1/hare_0_24_0_released_hare_s_new_release"
+    ],
+    [
+      "Hare 0.24.0 released, and Hare's new release policy",
+      "https://harelang.org/blog/2024-02-16-hare-0.24.0-released/"
+    ]
+  ],
+  [
+    [
       "2024-02-19, 12:27:47",
       "https://lobste.rs/s/p7xbdf/prql_postgresql"
     ],
@@ -167,16 +177,6 @@
     [
       "Multipass C Compiler, Assembler and X86 emulator written in TypeScript",
       "https://github.com/Mati365/ts-c-compiler"
-    ]
-  ],
-  [
-    [
-      "2024-02-18, 15:43:18",
-      "https://lobste.rs/s/0lpqdr/bergamot_exploring_programming"
-    ],
-    [
-      "Bergamot: Exploring Programming Language Inference Rules",
-      "https://danilafe.com/blog/bergamot/"
     ]
   ],
   [
