@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
+* [2024-02-19, 21:50:40](https://lobste.rs/s/v2gq8d/building_hybrid_native_application_with) - [Building a Hybrid Native Application With Gleam and Tauri](https://www.wezm.net/v2/posts/2024/gleam-tauri/)
+* [2024-02-19, 21:48:02](https://lobste.rs/s/89pulb/z3_playground) - [Z3 Playground](https://jfmc.github.io/z3-play/)
 * [2024-02-19, 20:30:45](https://lobste.rs/s/pl7l62/gcc_s_move_c_2013) - [GCC's move to C++ [2013]](https://lwn.net/Articles/542457/)
 * [2024-02-19, 19:58:22](https://lobste.rs/s/bfpq5t/virtual_machine_abstraction) - [Virtual-Machine Abstraction and Optimization Techniques](https://publications.sba-research.org/publications/bytecode09.pdf)
 * [2024-02-19, 19:57:31](https://lobste.rs/s/3cyk69/bemi_database_change_observability_for) - [Bemi | Database change observability for Ops and Customer Success](https://bemi.io/use-case/ui)
