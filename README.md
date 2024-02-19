@@ -10,7 +10,6 @@
 * [2024-02-18, 23:32:35](https://lobste.rs/s/9ybrxx/writing_good_programming_abstractions) - [Writing good programming abstractions](https://notebook.drmaciver.com/posts/2024-01-13-08:28.html)
 * [2024-02-18, 20:48:36](https://lobste.rs/s/jynnm3/activitypub_server_single_php_file) - [An ActivityPub Server in a Single PHP File](https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/)
 * [2024-02-18, 20:27:50](https://lobste.rs/s/htkv5f/fighting_off_faux_serverless_bandits) - [Fighting off faux-serverless bandits with the true definition of serverless](https://www.gomomento.com/blog/fighting-off-fake-serverless-bandits-with-the-true-definition-of-serverless)
-* [2024-02-18, 20:27:24](https://lobste.rs/s/kxxbci/software_infrastructure_2_0_wishlist) - [Software infrastructure 2.0: a wishlist](https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html)
 * [2024-02-18, 16:33:59](https://lobste.rs/s/ea1uwn/designing_serverless_stream_storage) - [Designing serverless stream storage](https://blog.schmizz.net/designing-serverless-stream-storage)
 * [2024-02-18, 16:01:39](https://lobste.rs/s/wipu1j/multipass_c_compiler_assembler_x86) - [Multipass C Compiler, Assembler and X86 emulator written in TypeScript](https://github.com/Mati365/ts-c-compiler)
 * [2024-02-18, 15:43:18](https://lobste.rs/s/0lpqdr/bergamot_exploring_programming) - [Bergamot: Exploring Programming Language Inference Rules](https://danilafe.com/blog/bergamot/)
@@ -24,6 +23,7 @@
 * [2024-02-18, 10:24:33](https://lobste.rs/s/u4h9ff/futuresunordered_order_futures) - [FuturesUnordered and the order of futures](https://without.boats/blog/futures-unordered/)
 * [2024-02-18, 05:47:48](https://lobste.rs/s/wxcprx/tailwind_semantics_vs_utility) - [Tailwind: Semantics vs Utility](https://nuejs.org/blog/tailwind-misinformation-engine/)
 * [2024-02-18, 03:56:24](https://lobste.rs/s/oax6ad/representation_engineering_mistral_7b) - [Representation Engineering Mistral-7B an Acid Trip](https://vgel.me/posts/representation-engineering/)
+* [2024-02-18, 03:09:50](https://lobste.rs/s/vqkcce/bevy_0_13_released) - [Bevy 0.13 Released](https://bevyengine.org/news/bevy-0-13/)
 * [2024-02-17, 23:23:27](https://lobste.rs/s/fud3fk/from_1s_4ms) - [From 1s to 4ms](https://registerspill.thorstenball.com/p/from-1s-to-4ms)
 
 ## [Archives](archives/index.md)
