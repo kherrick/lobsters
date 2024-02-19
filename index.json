@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-02-19, 17:31:42",
+      "https://lobste.rs/s/4sci7w/open_source_crt_driver_board"
+    ],
+    [
+      "Open Source CRT Driver Board",
+      "https://github.com/tdaede/td-crt?tab=readme-ov-file"
+    ]
+  ],
+  [
+    [
       "2024-02-19, 17:05:10",
       "https://lobste.rs/s/ks8rca/otp_at_high_level"
     ],
@@ -217,16 +227,6 @@
     [
       "An ActivityPub Server in a Single PHP File",
       "https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/"
-    ]
-  ],
-  [
-    [
-      "2024-02-18, 12:29:36",
-      "https://lobste.rs/s/yf5dwi/berkeley_software_distribution"
-    ],
-    [
-      "The Berkeley Software Distribution",
-      "https://www.abortretry.fail/p/the-berkley-software-distribution"
     ]
   ],
   [
