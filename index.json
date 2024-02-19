@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-19, 14:39:50",
+      "https://lobste.rs/s/rkxdkk/finding_postgres_rows_too_large_for_btree"
+    ],
+    [
+      "Finding Postgres rows too large for BTree indexes",
+      "https://willj.net/posts/finding-postgres-rows-too-large-for-btree-indexes/"
+    ]
+  ],
+  [
+    [
       "2024-02-19, 14:29:35",
       "https://lobste.rs/s/vplgi1/hare_0_24_0_released_hare_s_new_release"
     ],
@@ -52,10 +62,10 @@
   [
     [
       "2024-02-19, 10:45:06",
-      "https://lobste.rs/s/5xfopz/100_things_you_can_do_on_your_personal"
+      "https://lobste.rs/s/5xfopz/things_you_can_do_on_your_personal_website"
     ],
     [
-      "100 things you can do on your personal website",
+      "Things you can do on your personal website",
       "https://jamesg.blog/2024/02/19/personal-website-ideas/"
     ]
   ],
@@ -167,16 +177,6 @@
     [
       "Designing serverless stream storage",
       "https://blog.schmizz.net/designing-serverless-stream-storage"
-    ]
-  ],
-  [
-    [
-      "2024-02-18, 16:01:39",
-      "https://lobste.rs/s/wipu1j/multipass_c_compiler_assembler_x86"
-    ],
-    [
-      "Multipass C Compiler, Assembler and X86 emulator written in TypeScript",
-      "https://github.com/Mati365/ts-c-compiler"
     ]
   ],
   [
