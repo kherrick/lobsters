@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-19, 04:34:58](https://lobste.rs/s/2axq6g/floats_are_weird) - [Floats Are Weird](https://a.exozy.me/posts/floats-weird/)
 * [2024-02-19, 04:02:26](https://lobste.rs/s/y3o3vf/testing_distributed_systems_w) - [Testing Distributed Systems w/ Deterministic Simulation (2014)](https://youtu.be/4fFDFbi3toc)
 * [2024-02-19, 03:39:22](https://lobste.rs/s/fqarj7/type_erasure_implementation_details) - [Type Erasure: The Implementation Details](https://www.youtube.com/watch?v=7MNyAHp0h7A)
 * [2024-02-19, 01:47:27](https://lobste.rs/s/ixdsh0/serving_website_from_git_repo_without) - [Serving a Website From a Git Repo Without Cloning It](https://mediocregopher.com/posts/git-proxy)
@@ -23,7 +24,6 @@
 * [2024-02-18, 10:24:33](https://lobste.rs/s/u4h9ff/futuresunordered_order_futures) - [FuturesUnordered and the order of futures](https://without.boats/blog/futures-unordered/)
 * [2024-02-18, 05:47:48](https://lobste.rs/s/wxcprx/tailwind_semantics_vs_utility) - [Tailwind: Semantics vs Utility](https://nuejs.org/blog/tailwind-misinformation-engine/)
 * [2024-02-18, 03:56:24](https://lobste.rs/s/oax6ad/representation_engineering_mistral_7b) - [Representation Engineering Mistral-7B an Acid Trip](https://vgel.me/posts/representation-engineering/)
-* [2024-02-18, 03:09:50](https://lobste.rs/s/vqkcce/bevy_0_13_released) - [Bevy 0.13 Released](https://bevyengine.org/news/bevy-0-13/)
 * [2024-02-17, 23:23:27](https://lobste.rs/s/fud3fk/from_1s_4ms) - [From 1s to 4ms](https://registerspill.thorstenball.com/p/from-1s-to-4ms)
 
 ## [Archives](archives/index.md)
