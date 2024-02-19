@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-19, 16:14:14",
+      "https://lobste.rs/s/f2d9dd/htmz_low_power_tool_for_html"
+    ],
+    [
+      "htmz - a low power tool for html",
+      "https://leanrada.com/htmz/"
+    ]
+  ],
+  [
+    [
       "2024-02-19, 14:39:50",
       "https://lobste.rs/s/rkxdkk/finding_postgres_rows_too_large_for_btree"
     ],
@@ -237,16 +247,6 @@
     [
       "Tailwind: Semantics vs Utility",
       "https://nuejs.org/blog/tailwind-misinformation-engine/"
-    ]
-  ],
-  [
-    [
-      "2024-02-17, 23:23:27",
-      "https://lobste.rs/s/fud3fk/from_1s_4ms"
-    ],
-    [
-      "From 1s to 4ms",
-      "https://registerspill.thorstenball.com/p/from-1s-to-4ms"
     ]
   ]
 ]
