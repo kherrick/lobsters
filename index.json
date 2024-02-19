@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-19, 12:27:47",
+      "https://lobste.rs/s/p7xbdf/prql_postgresql"
+    ],
+    [
+      "PRQL in PostgreSQL",
+      "https://github.com/kaspermarstal/plprql"
+    ]
+  ],
+  [
+    [
+      "2024-02-19, 12:13:22",
+      "https://lobste.rs/s/q3gxfk/git_cliff_2_0_is_released_highly"
+    ],
+    [
+      "git-cliff 2.0 is released (a highly customizable changelog generator)",
+      "https://git-cliff.org/blog/2.0.0/"
+    ]
+  ],
+  [
+    [
       "2024-02-19, 11:43:19",
       "https://lobste.rs/s/mhbfe8/downtime_due_sign_up_spam"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-02-18, 13:47:58",
-      "https://lobste.rs/s/qfrjh2/no_utility_classes_aren_t_same_as_inline"
-    ],
-    [
-      "No, Utility Classes Aren't the Same As Inline Styles",
-      "https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles"
-    ]
-  ],
-  [
-    [
       "2024-02-18, 13:29:23",
       "https://lobste.rs/s/bz0pdk/ten_python_datetime_pitfalls_what"
     ],
@@ -227,16 +237,6 @@
     [
       "Tailwind: Semantics vs Utility",
       "https://nuejs.org/blog/tailwind-misinformation-engine/"
-    ]
-  ],
-  [
-    [
-      "2024-02-18, 03:56:24",
-      "https://lobste.rs/s/oax6ad/representation_engineering_mistral_7b"
-    ],
-    [
-      "Representation Engineering Mistral-7B an Acid Trip",
-      "https://vgel.me/posts/representation-engineering/"
     ]
   ],
   [
