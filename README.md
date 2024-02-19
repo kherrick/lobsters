@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-19, 04:02:26](https://lobste.rs/s/y3o3vf/testing_distributed_systems_w) - [Testing Distributed Systems w/ Deterministic Simulation (2014)](https://youtu.be/4fFDFbi3toc)
 * [2024-02-19, 03:39:22](https://lobste.rs/s/fqarj7/type_erasure_implementation_details) - [Type Erasure: The Implementation Details](https://www.youtube.com/watch?v=7MNyAHp0h7A)
 * [2024-02-19, 01:47:27](https://lobste.rs/s/ixdsh0/serving_website_from_git_repo_without) - [Serving a Website From a Git Repo Without Cloning It](https://mediocregopher.com/posts/git-proxy)
 * [2024-02-19, 01:17:54](https://lobste.rs/s/budvzn/your_own_vector_search_5_minutes_with) - [Your Own Vector Search in 5 Minutes with SQLite, OpenAI Embeddings, and Node.js](https://markus.oberlehner.net/blog/your-own-vector-search-in-5-minutes-with-sqlite-openai-embeddings-and-nodejs/)
@@ -12,7 +13,6 @@
 * [2024-02-18, 16:33:59](https://lobste.rs/s/ea1uwn/designing_serverless_stream_storage) - [Designing serverless stream storage](https://blog.schmizz.net/designing-serverless-stream-storage)
 * [2024-02-18, 16:01:39](https://lobste.rs/s/wipu1j/multipass_c_compiler_assembler_x86) - [Multipass C Compiler, Assembler and X86 emulator written in TypeScript](https://github.com/Mati365/ts-c-compiler)
 * [2024-02-18, 15:43:18](https://lobste.rs/s/0lpqdr/bergamot_exploring_programming) - [Bergamot: Exploring Programming Language Inference Rules](https://danilafe.com/blog/bergamot/)
-* [2024-02-18, 15:19:15](https://lobste.rs/s/2f41ah/how_uber_serves_over_40_million_reads_per) - [How Uber Serves Over 40 Million Reads Per Second from Online Storage Using an Integrated Cache](https://www.uber.com/en-DE/blog/how-uber-serves-over-40-million-reads-per-second-using-an-integrated-cache/)
 * [2024-02-18, 14:03:00](https://lobste.rs/s/ynr9lr/wsgidav_generic_extendable_webdav) - [WsgiDAV: A generic and extendable WebDAV server based on WSGI](https://github.com/mar10/wsgidav)
 * [2024-02-18, 13:55:08](https://lobste.rs/s/usq8dk/managing_dotfiles_on_macos_with_nix) - [Managing dotfiles on macOS with Nix](https://davi.sh/blog/2024/02/nix-home-manager/)
 * [2024-02-18, 13:47:58](https://lobste.rs/s/qfrjh2/no_utility_classes_aren_t_same_as_inline) - [No, Utility Classes Aren't the Same As Inline Styles](https://frontstuff.io/no-utility-classes-arent-the-same-as-inline-styles)
