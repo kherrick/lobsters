@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2024-02-19, 04:02:26",
+      "https://lobste.rs/s/y3o3vf/testing_distributed_systems_w"
+    ],
+    [
+      "Testing Distributed Systems w/ Deterministic Simulation (2014)",
+      "https://youtu.be/4fFDFbi3toc"
+    ]
+  ],
+  [
+    [
       "2024-02-19, 03:39:22",
       "https://lobste.rs/s/fqarj7/type_erasure_implementation_details"
     ],
@@ -77,16 +87,6 @@
     [
       "Serving a Website From a Git Repo Without Cloning It",
       "https://mediocregopher.com/posts/git-proxy"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 01:17:54",
-      "https://lobste.rs/s/budvzn/your_own_vector_search_5_minutes_with"
-    ],
-    [
-      "Your Own Vector Search in 5 Minutes with SQLite, OpenAI Embeddings, and Node.js",
-      "https://markus.oberlehner.net/blog/your-own-vector-search-in-5-minutes-with-sqlite-openai-embeddings-and-nodejs/"
     ]
   ],
   [
