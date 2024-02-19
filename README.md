@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-19, 19:58:22](https://lobste.rs/s/bfpq5t/virtual_machine_abstraction) - [Virtual-Machine Abstraction and Optimization Techniques](https://publications.sba-research.org/publications/bytecode09.pdf)
+* [2024-02-19, 19:57:31](https://lobste.rs/s/3cyk69/bemi_database_change_observability_for) - [Bemi | Database change observability for Ops and Customer Success](https://bemi.io/use-case/ui)
 * [2024-02-19, 19:46:35](https://lobste.rs/s/gwyglz/visual_interactive_guide_bloom_filters) - [A visual, interactive guide to bloom filters](https://samwho.dev/bloom-filters)
-* [2024-02-19, 17:31:42](https://lobste.rs/s/4sci7w/open_source_crt_driver_board) - [Open Source CRT Driver Board](https://github.com/tdaede/td-crt?tab=readme-ov-file)
 * [2024-02-19, 17:05:10](https://lobste.rs/s/ks8rca/otp_at_high_level) - [OTP at a High Level](https://adoptingerlang.org/docs/development/otp_high_level/)
 * [2024-02-19, 16:58:31](https://lobste.rs/s/ckdee7/libremidi_midi_1_2_c_20_library) - [libremidi, a MIDI 1 & 2 C++20 library](https://github.com/jcelerier/libremidi)
 * [2024-02-19, 16:14:14](https://lobste.rs/s/f2d9dd/htmz_low_power_tool_for_html) - [htmz - a low power tool for html](https://leanrada.com/htmz/)
@@ -20,7 +21,6 @@
 * [2024-02-19, 00:20:35](https://lobste.rs/s/ijhl0w/libfirm_compiler_backend) - [LibFirm compiler backend](http://libfirm.org/)
 * [2024-02-18, 23:32:35](https://lobste.rs/s/9ybrxx/writing_good_programming_abstractions) - [Writing good programming abstractions](https://notebook.drmaciver.com/posts/2024-01-13-08:28.html)
 * [2024-02-18, 20:48:36](https://lobste.rs/s/jynnm3/activitypub_server_single_php_file) - [An ActivityPub Server in a Single PHP File](https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/)
-* [2024-02-18, 13:55:08](https://lobste.rs/s/usq8dk/managing_dotfiles_on_macos_with_nix) - [Managing dotfiles on macOS with Nix](https://davi.sh/blog/2024/02/nix-home-manager/)
 * [2024-02-18, 13:18:56](https://lobste.rs/s/vtjxwj/accessible_one_handed_keyboard_inspired) - [An accessible one handed keyboard, inspired by FrogPad](https://www.kianryan.co.uk/2024-02-16-one-handed-accessible-keyboard-inspired-by-frogpad/)
 * [2024-02-18, 12:29:36](https://lobste.rs/s/yf5dwi/berkeley_software_distribution) - [The Berkeley Software Distribution](https://www.abortretry.fail/p/the-berkley-software-distribution)
 * [2024-02-18, 10:24:33](https://lobste.rs/s/u4h9ff/futuresunordered_order_futures) - [FuturesUnordered and the order of futures](https://without.boats/blog/futures-unordered/)

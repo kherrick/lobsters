@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
+* [2024-02-19, 19:58:22](https://lobste.rs/s/bfpq5t/virtual_machine_abstraction) - [Virtual-Machine Abstraction and Optimization Techniques](https://publications.sba-research.org/publications/bytecode09.pdf)
+* [2024-02-19, 19:57:31](https://lobste.rs/s/3cyk69/bemi_database_change_observability_for) - [Bemi | Database change observability for Ops and Customer Success](https://bemi.io/use-case/ui)
 * [2024-02-19, 19:46:35](https://lobste.rs/s/gwyglz/visual_interactive_guide_bloom_filters) - [A visual, interactive guide to bloom filters](https://samwho.dev/bloom-filters)
 * [2024-02-19, 17:31:42](https://lobste.rs/s/4sci7w/open_source_crt_driver_board) - [Open Source CRT Driver Board](https://github.com/tdaede/td-crt?tab=readme-ov-file)
 * [2024-02-19, 17:05:10](https://lobste.rs/s/ks8rca/otp_at_high_level) - [OTP at a High Level](https://adoptingerlang.org/docs/development/otp_high_level/)
