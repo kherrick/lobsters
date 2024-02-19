@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-19, 11:01:32](https://lobste.rs/s/saycd2/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/saycd2/what_are_you_doing_this_week)
 * [2024-02-19, 10:45:06](https://lobste.rs/s/5xfopz/100_things_you_can_do_on_your_personal) - [100 things you can do on your personal website](https://jamesg.blog/2024/02/19/personal-website-ideas/)
 * [2024-02-19, 10:44:54](https://lobste.rs/s/ish2s7/2023_annual_rust_survey_results) - [2023 Annual Rust Survey Results](https://blog.rust-lang.org/2024/02/19/2023-Rust-Annual-Survey-2023-results.html)
 * [2024-02-19, 09:32:30](https://lobste.rs/s/zch8yi/vpp_on_freebsd) - [VPP on FreeBSD](https://ipng.ch/s/articles/2024/02/10/vpp-freebsd-1.html)
@@ -12,7 +13,6 @@
 * [2024-02-19, 00:20:35](https://lobste.rs/s/ijhl0w/libfirm_compiler_backend) - [LibFirm compiler backend](http://libfirm.org/)
 * [2024-02-18, 23:32:35](https://lobste.rs/s/9ybrxx/writing_good_programming_abstractions) - [Writing good programming abstractions](https://notebook.drmaciver.com/posts/2024-01-13-08:28.html)
 * [2024-02-18, 20:48:36](https://lobste.rs/s/jynnm3/activitypub_server_single_php_file) - [An ActivityPub Server in a Single PHP File](https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/)
-* [2024-02-18, 20:27:50](https://lobste.rs/s/htkv5f/fighting_off_faux_serverless_bandits) - [Fighting off faux-serverless bandits with the true definition of serverless](https://www.gomomento.com/blog/fighting-off-fake-serverless-bandits-with-the-true-definition-of-serverless)
 * [2024-02-18, 16:33:59](https://lobste.rs/s/ea1uwn/designing_serverless_stream_storage) - [Designing serverless stream storage](https://blog.schmizz.net/designing-serverless-stream-storage)
 * [2024-02-18, 16:01:39](https://lobste.rs/s/wipu1j/multipass_c_compiler_assembler_x86) - [Multipass C Compiler, Assembler and X86 emulator written in TypeScript](https://github.com/Mati365/ts-c-compiler)
 * [2024-02-18, 15:43:18](https://lobste.rs/s/0lpqdr/bergamot_exploring_programming) - [Bergamot: Exploring Programming Language Inference Rules](https://danilafe.com/blog/bergamot/)
