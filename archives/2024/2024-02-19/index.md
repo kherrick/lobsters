@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-19](index.md)
 
+* [2024-02-19, 11:43:19](https://lobste.rs/s/mhbfe8/downtime_due_sign_up_spam) - [Downtime due to sign up spam](https://blog.cachix.org/posts/2023-02-19-downtime-due-to-signup-spam/)
 * [2024-02-19, 11:01:32](https://lobste.rs/s/saycd2/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/saycd2/what_are_you_doing_this_week)
 * [2024-02-19, 10:45:06](https://lobste.rs/s/5xfopz/100_things_you_can_do_on_your_personal) - [100 things you can do on your personal website](https://jamesg.blog/2024/02/19/personal-website-ideas/)
 * [2024-02-19, 10:44:54](https://lobste.rs/s/ish2s7/2023_annual_rust_survey_results) - [2023 Annual Rust Survey Results](https://blog.rust-lang.org/2024/02/19/2023-Rust-Annual-Survey-2023-results.html)
