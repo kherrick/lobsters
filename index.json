@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-20, 20:27:52",
+      "https://lobste.rs/s/ul5sq0/on_device_ml_research_with_mlx_swift"
+    ],
+    [
+      "On-device ML research with MLX and Swift",
+      "https://www.swift.org/blog/mlx-swift/"
+    ]
+  ],
+  [
+    [
+      "2024-02-20, 20:21:29",
+      "https://lobste.rs/s/nqm47h/ssds_have_become_ridiculously_fast"
+    ],
+    [
+      "SSDs Have Become Ridiculously Fast, Except in the Cloud",
+      "https://databasearchitects.blogspot.com/2024/02/ssds-have-become-ridiculously-fast.html"
+    ]
+  ],
+  [
+    [
       "2024-02-20, 19:50:33",
       "https://lobste.rs/s/w8hjyd/if_you_re_just_going_sit_there_doing"
     ],
@@ -147,26 +167,6 @@
     [
       "Field research on docs site search boxes",
       "https://technicalwriting.dev/searchboxes.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 23:56:17",
-      "https://lobste.rs/s/tyhq5y/finding_inliers"
-    ],
-    [
-      "Finding Inliers",
-      "https://exple.tive.org/blarg/2024/02/19/finding-inliers/"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 23:19:06",
-      "https://lobste.rs/s/8rkvbo/command_query_separation_2005"
-    ],
-    [
-      "Command Query Separation (2005)",
-      "https://martinfowler.com/bliki/CommandQuerySeparation.html"
     ]
   ],
   [
