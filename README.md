@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-20, 15:33:48](https://lobste.rs/s/ghaphp/evil_nix_nix_library_download_files_from) - [evil-nix: a Nix library to download files from the internet without requiring a hash](https://github.com/cdepillabout/evil-nix)
 * [2024-02-20, 15:24:57](https://lobste.rs/s/2jjg1j/writing_scheduler_for_linux_rust_runs) - [Writing a scheduler for Linux in Rust that runs in user-space](https://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html)
 * [2024-02-20, 15:21:59](https://lobste.rs/s/bp7s71/talks_andrew_godwin_reconciling) - [Talks - Andrew Godwin: Reconciling Everything](https://www.youtube.com/watch?v=MuK6lmsfX1E)
 * [2024-02-20, 13:32:32](https://lobste.rs/s/ovxzr2/blazingly_fast_memory_vulnerabilities) - [Blazingly fast memory vulnerabilities, written in safe Rust](https://github.com/Speykious/cve-rs)
@@ -21,7 +22,6 @@
 * [2024-02-19, 16:58:31](https://lobste.rs/s/ckdee7/libremidi_midi_1_2_c_20_library) - [libremidi, a MIDI 1 & 2 C++20 library](https://github.com/jcelerier/libremidi)
 * [2024-02-19, 16:14:14](https://lobste.rs/s/f2d9dd/htmz_low_power_tool_for_html) - [htmz - a low power tool for html](https://leanrada.com/htmz/)
 * [2024-02-19, 14:29:35](https://lobste.rs/s/vplgi1/hare_0_24_0_released_hare_s_new_release) - [Hare 0.24.0 released, and Hare's new release policy](https://harelang.org/blog/2024-02-16-hare-0.24.0-released/)
-* [2024-02-19, 12:13:22](https://lobste.rs/s/q3gxfk/git_cliff_2_0_is_released_highly) - [git-cliff 2.0 is released (a highly customizable changelog generator)](https://git-cliff.org/blog/2.0.0/)
 * [2024-02-19, 11:43:19](https://lobste.rs/s/mhbfe8/downtime_due_sign_up_spam) - [Downtime due to sign up spam](https://blog.cachix.org/posts/2023-02-19-downtime-due-to-signup-spam/)
 * [2024-02-19, 10:45:06](https://lobste.rs/s/5xfopz/things_you_can_do_on_your_personal_website) - [Things you can do on your personal website](https://jamesg.blog/2024/02/19/personal-website-ideas/)
 * [2024-02-19, 10:44:54](https://lobste.rs/s/ish2s7/2023_annual_rust_survey_results) - [2023 Annual Rust Survey Results](https://blog.rust-lang.org/2024/02/19/2023-Rust-Annual-Survey-2023-results.html)
