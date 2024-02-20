@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-20, 10:27:01",
+      "https://lobste.rs/s/mr9vy7/translating_openstreetmap_data_html5"
+    ],
+    [
+      "Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly",
+      "https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/"
+    ]
+  ],
+  [
+    [
       "2024-02-20, 09:50:18",
       "https://lobste.rs/s/gbtvqp/how_debug_your_initramfs_init"
     ],
@@ -137,16 +147,6 @@
     [
       "A visual, interactive guide to bloom filters",
       "https://samwho.dev/bloom-filters"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 17:05:10",
-      "https://lobste.rs/s/ks8rca/otp_at_high_level"
-    ],
-    [
-      "OTP at a High Level",
-      "https://adoptingerlang.org/docs/development/otp_high_level/"
     ]
   ],
   [
