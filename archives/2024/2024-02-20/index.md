@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
+* [2024-02-20, 16:53:11](https://lobste.rs/s/6k3vcb/measuring_energy_usage_regular_code_vs) - [Measuring energy usage: regular code vs. SIMD code](https://lemire.me/blog/2024/02/19/measuring-energy-usage-regular-code-vs-simd-code/)
 * [2024-02-20, 16:43:33](https://lobste.rs/s/jaxspo/apache_spark_core_deep_dive_proper) - [Apache Spark Core—Deep Dive—Proper Optimization (2019)](https://youtu.be/daXEp4HmS-E)
 * [2024-02-20, 15:51:14](https://lobste.rs/s/8fkkum/why_new_york_times_might_win_its_copyright) - [Why The New York Times might win its copyright lawsuit against OpenAI](https://arstechnica.com/?p=2004168)
 * [2024-02-20, 15:33:48](https://lobste.rs/s/ghaphp/evil_nix_nix_library_download_files_from) - [evil-nix: a Nix library to download files from the internet without requiring a hash](https://github.com/cdepillabout/evil-nix)

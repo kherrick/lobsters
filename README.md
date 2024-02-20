@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-20, 16:53:11](https://lobste.rs/s/6k3vcb/measuring_energy_usage_regular_code_vs) - [Measuring energy usage: regular code vs. SIMD code](https://lemire.me/blog/2024/02/19/measuring-energy-usage-regular-code-vs-simd-code/)
 * [2024-02-20, 16:43:33](https://lobste.rs/s/jaxspo/apache_spark_core_deep_dive_proper) - [Apache Spark Core—Deep Dive—Proper Optimization (2019)](https://youtu.be/daXEp4HmS-E)
 * [2024-02-20, 15:33:48](https://lobste.rs/s/ghaphp/evil_nix_nix_library_download_files_from) - [evil-nix: a Nix library to download files from the internet without requiring a hash](https://github.com/cdepillabout/evil-nix)
 * [2024-02-20, 15:24:57](https://lobste.rs/s/2jjg1j/writing_scheduler_for_linux_rust_runs) - [Writing a scheduler for Linux in Rust that runs in user-space](https://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html)
@@ -17,7 +18,6 @@
 * [2024-02-19, 23:19:06](https://lobste.rs/s/8rkvbo/command_query_separation_2005) - [Command Query Separation (2005)](https://martinfowler.com/bliki/CommandQuerySeparation.html)
 * [2024-02-19, 23:09:15](https://lobste.rs/s/xhdhft/debugging_odd_inability_stream_video) - [Debugging an odd inability to stream video](https://mjg59.dreamwidth.org/69343.html)
 * [2024-02-19, 21:50:40](https://lobste.rs/s/v2gq8d/building_hybrid_native_application_with) - [Building a Hybrid Native Application With Gleam and Tauri](https://www.wezm.net/v2/posts/2024/gleam-tauri/)
-* [2024-02-19, 20:30:45](https://lobste.rs/s/pl7l62/gcc_s_move_c_2013) - [GCC's move to C++ [2013]](https://lwn.net/Articles/542457/)
 * [2024-02-19, 19:46:35](https://lobste.rs/s/gwyglz/visual_interactive_guide_bloom_filters) - [A visual, interactive guide to bloom filters](https://samwho.dev/bloom-filters)
 * [2024-02-19, 16:58:31](https://lobste.rs/s/ckdee7/libremidi_midi_1_2_c_20_library) - [libremidi, a MIDI 1 & 2 C++20 library](https://github.com/jcelerier/libremidi)
 * [2024-02-19, 16:14:14](https://lobste.rs/s/f2d9dd/htmz_low_power_tool_for_html) - [htmz - a low power tool for html](https://leanrada.com/htmz/)
