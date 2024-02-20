@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-20, 12:56:48",
+      "https://lobste.rs/s/v6zad0/try_x_y_minutes"
+    ],
+    [
+      "Try X in Y minutes",
+      "https://codapi.org/try/"
+    ]
+  ],
+  [
+    [
       "2024-02-20, 11:14:25",
       "https://lobste.rs/s/ljhlmr/subprime_intelligence_reaching_limits"
     ],
@@ -147,16 +157,6 @@
     [
       "A visual, interactive guide to bloom filters",
       "https://samwho.dev/bloom-filters"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 17:05:10",
-      "https://lobste.rs/s/ks8rca/otp_at_high_level"
-    ],
-    [
-      "OTP at a High Level",
-      "https://adoptingerlang.org/docs/development/otp_high_level/"
     ]
   ],
   [
