@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-20, 21:25:25](https://lobste.rs/s/a8swbz/one_billion_rows_challenge_golang) - [One Billion Rows Challenge in Golang](https://www.bytesizego.com/blog/one-billion-row-challenge-go)
 * [2024-02-20, 21:19:15](https://lobste.rs/s/avu78j/exodus_bitcoin_wallet_490k_swindle) - [Exodus Bitcoin Wallet: $490K Swindle](https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/)
-* [2024-02-20, 21:11:53](https://lobste.rs/s/cz5xbg/go_s_early_growth_2012_2016) - [Go's early growth 2012-2016](https://www.linkedin.com/pulse/gos-early-growth-2012-2016-sameer-ajmani-oxtjc/)
 * [2024-02-20, 20:27:52](https://lobste.rs/s/ul5sq0/on_device_ml_research_with_mlx_swift) - [On-device ML research with MLX and Swift](https://www.swift.org/blog/mlx-swift/)
 * [2024-02-20, 20:21:29](https://lobste.rs/s/nqm47h/ssds_have_become_ridiculously_fast) - [SSDs Have Become Ridiculously Fast, Except in the Cloud](https://databasearchitects.blogspot.com/2024/02/ssds-have-become-ridiculously-fast.html)
 * [2024-02-20, 19:50:33](https://lobste.rs/s/w8hjyd/if_you_re_just_going_sit_there_doing) - [If you're just going to sit there doing nothing, at least do nothing correctly](https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409)
