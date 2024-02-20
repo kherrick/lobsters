@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-20, 03:41:34](https://lobste.rs/s/kt4deg/itanic_saga) - [The Itanic Saga](https://www.abortretry.fail/p/the-itanic-saga)
 * [2024-02-20, 02:34:43](https://lobste.rs/s/aevptj/why_is_prettier_rock_solid) - [Why is Prettier rock solid?](https://mrmr.io/til/prettier)
 * [2024-02-20, 00:18:52](https://lobste.rs/s/jmcsth/field_research_on_docs_site_search_boxes) - [Field research on docs site search boxes](https://technicalwriting.dev/searchboxes.html)
 * [2024-02-19, 23:56:17](https://lobste.rs/s/tyhq5y/finding_inliers) - [Finding Inliers](https://exple.tive.org/blarg/2024/02/19/finding-inliers/)
@@ -21,7 +22,6 @@
 * [2024-02-19, 10:44:54](https://lobste.rs/s/ish2s7/2023_annual_rust_survey_results) - [2023 Annual Rust Survey Results](https://blog.rust-lang.org/2024/02/19/2023-Rust-Annual-Survey-2023-results.html)
 * [2024-02-19, 09:32:30](https://lobste.rs/s/zch8yi/vpp_on_freebsd) - [VPP on FreeBSD](https://ipng.ch/s/articles/2024/02/10/vpp-freebsd-1.html)
 * [2024-02-19, 04:34:58](https://lobste.rs/s/2axq6g/floats_are_weird) - [Floats Are Weird](https://a.exozy.me/posts/floats-weird/)
-* [2024-02-19, 04:02:26](https://lobste.rs/s/y3o3vf/testing_distributed_systems_w) - [Testing Distributed Systems w/ Deterministic Simulation (2014)](https://youtu.be/4fFDFbi3toc)
 * [2024-02-19, 00:20:35](https://lobste.rs/s/ijhl0w/libfirm_compiler_backend) - [LibFirm compiler backend](http://libfirm.org/)
 * [2024-02-18, 20:48:36](https://lobste.rs/s/jynnm3/activitypub_server_single_php_file) - [An ActivityPub Server in a Single PHP File](https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/)
 * [2024-02-18, 05:47:48](https://lobste.rs/s/wxcprx/tailwind_semantics_vs_utility) - [Tailwind: Semantics vs Utility](https://nuejs.org/blog/tailwind-misinformation-engine/)
