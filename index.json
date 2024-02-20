@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-20, 04:58:44",
+      "https://lobste.rs/s/in3yyd/mu_human_scale_computer"
+    ],
+    [
+      "Mu: a human-scale computer",
+      "https://akkartik.github.io/mu/"
+    ]
+  ],
+  [
+    [
       "2024-02-20, 03:41:34",
       "https://lobste.rs/s/kt4deg/itanic_saga"
     ],
@@ -137,16 +147,6 @@
     [
       "Hare 0.24.0 released, and Hare's new release policy",
       "https://harelang.org/blog/2024-02-16-hare-0.24.0-released/"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 12:27:47",
-      "https://lobste.rs/s/p7xbdf/prql_postgresql"
-    ],
-    [
-      "PRQL in PostgreSQL",
-      "https://github.com/kaspermarstal/plprql"
     ]
   ],
   [
