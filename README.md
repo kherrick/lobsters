@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-20, 15:51:14](https://lobste.rs/s/8fkkum/why_new_york_times_might_win_its_copyright) - [Why The New York Times might win its copyright lawsuit against OpenAI](https://arstechnica.com/?p=2004168)
 * [2024-02-20, 15:33:48](https://lobste.rs/s/ghaphp/evil_nix_nix_library_download_files_from) - [evil-nix: a Nix library to download files from the internet without requiring a hash](https://github.com/cdepillabout/evil-nix)
 * [2024-02-20, 15:24:57](https://lobste.rs/s/2jjg1j/writing_scheduler_for_linux_rust_runs) - [Writing a scheduler for Linux in Rust that runs in user-space](https://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html)
 * [2024-02-20, 15:21:59](https://lobste.rs/s/bp7s71/talks_andrew_godwin_reconciling) - [Talks - Andrew Godwin: Reconciling Everything](https://www.youtube.com/watch?v=MuK6lmsfX1E)
@@ -8,7 +9,6 @@
 * [2024-02-20, 10:27:01](https://lobste.rs/s/mr9vy7/translating_openstreetmap_data_html5) - [Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly](https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/)
 * [2024-02-20, 09:50:18](https://lobste.rs/s/gbtvqp/how_debug_your_initramfs_init) - [How to debug your initramfs init](https://linus.schreibt.jetzt/posts/debugging-pid1.html)
 * [2024-02-20, 08:48:51](https://lobste.rs/s/15q8oc/red_language_0_6_5_changelog) - [Red language: 0.6.5: Changelog](https://www.red-lang.org/2024/02/065-changelog.html)
-* [2024-02-20, 06:29:06](https://lobste.rs/s/gdvsvi/re2c) - [re2c](https://re2c.org/index.html)
 * [2024-02-20, 04:58:44](https://lobste.rs/s/in3yyd/mu_human_scale_computer) - [Mu: a human-scale computer](https://akkartik.github.io/mu/)
 * [2024-02-20, 03:41:34](https://lobste.rs/s/kt4deg/itanic_saga) - [The Itanic Saga](https://www.abortretry.fail/p/the-itanic-saga)
 * [2024-02-20, 02:34:43](https://lobste.rs/s/aevptj/why_is_prettier_rock_solid) - [Why is Prettier rock solid?](https://mrmr.io/til/prettier)
