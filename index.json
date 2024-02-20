@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-20, 17:50:47",
+      "https://lobste.rs/s/e2aw1k/questioning_go_s_range_over_func_proposal"
+    ],
+    [
+      "Questioning Go's range-over-func Proposal",
+      "https://rulmer.xyz/article/Questioning_Gos_range-over-func_Proposal.html"
+    ]
+  ],
+  [
+    [
       "2024-02-20, 17:43:39",
       "https://lobste.rs/s/eb8cgf/planner_programming_blows_my_mind"
     ],
@@ -157,16 +167,6 @@
     [
       "Finding Inliers",
       "https://exple.tive.org/blarg/2024/02/19/finding-inliers/"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 23:19:06",
-      "https://lobste.rs/s/8rkvbo/command_query_separation_2005"
-    ],
-    [
-      "Command Query Separation (2005)",
-      "https://martinfowler.com/bliki/CommandQuerySeparation.html"
     ]
   ],
   [
