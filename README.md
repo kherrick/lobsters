@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-20, 09:50:18](https://lobste.rs/s/gbtvqp/how_debug_your_initramfs_init) - [How to debug your initramfs init](https://linus.schreibt.jetzt/posts/debugging-pid1.html)
 * [2024-02-20, 08:48:51](https://lobste.rs/s/15q8oc/red_language_0_6_5_changelog) - [Red language: 0.6.5: Changelog](https://www.red-lang.org/2024/02/065-changelog.html)
 * [2024-02-20, 06:29:06](https://lobste.rs/s/gdvsvi/re2c) - [re2c](https://re2c.org/index.html)
 * [2024-02-20, 04:58:44](https://lobste.rs/s/in3yyd/mu_human_scale_computer) - [Mu: a human-scale computer](https://akkartik.github.io/mu/)
@@ -19,7 +20,6 @@
 * [2024-02-19, 14:29:35](https://lobste.rs/s/vplgi1/hare_0_24_0_released_hare_s_new_release) - [Hare 0.24.0 released, and Hare's new release policy](https://harelang.org/blog/2024-02-16-hare-0.24.0-released/)
 * [2024-02-19, 12:13:22](https://lobste.rs/s/q3gxfk/git_cliff_2_0_is_released_highly) - [git-cliff 2.0 is released (a highly customizable changelog generator)](https://git-cliff.org/blog/2.0.0/)
 * [2024-02-19, 11:43:19](https://lobste.rs/s/mhbfe8/downtime_due_sign_up_spam) - [Downtime due to sign up spam](https://blog.cachix.org/posts/2023-02-19-downtime-due-to-signup-spam/)
-* [2024-02-19, 11:01:32](https://lobste.rs/s/saycd2/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/saycd2/what_are_you_doing_this_week)
 * [2024-02-19, 10:45:06](https://lobste.rs/s/5xfopz/things_you_can_do_on_your_personal_website) - [Things you can do on your personal website](https://jamesg.blog/2024/02/19/personal-website-ideas/)
 * [2024-02-19, 10:44:54](https://lobste.rs/s/ish2s7/2023_annual_rust_survey_results) - [2023 Annual Rust Survey Results](https://blog.rust-lang.org/2024/02/19/2023-Rust-Annual-Survey-2023-results.html)
 * [2024-02-19, 09:32:30](https://lobste.rs/s/zch8yi/vpp_on_freebsd) - [VPP on FreeBSD](https://ipng.ch/s/articles/2024/02/10/vpp-freebsd-1.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
+* [2024-02-20, 09:50:18](https://lobste.rs/s/gbtvqp/how_debug_your_initramfs_init) - [How to debug your initramfs init](https://linus.schreibt.jetzt/posts/debugging-pid1.html)
 * [2024-02-20, 08:48:51](https://lobste.rs/s/15q8oc/red_language_0_6_5_changelog) - [Red language: 0.6.5: Changelog](https://www.red-lang.org/2024/02/065-changelog.html)
 * [2024-02-20, 06:29:06](https://lobste.rs/s/gdvsvi/re2c) - [re2c](https://re2c.org/index.html)
 * [2024-02-20, 04:58:44](https://lobste.rs/s/in3yyd/mu_human_scale_computer) - [Mu: a human-scale computer](https://akkartik.github.io/mu/)
