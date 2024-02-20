@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
+* [2024-02-20, 17:50:47](https://lobste.rs/s/e2aw1k/questioning_go_s_range_over_func_proposal) - [Questioning Go's range-over-func Proposal](https://rulmer.xyz/article/Questioning_Gos_range-over-func_Proposal.html)
 * [2024-02-20, 17:43:39](https://lobste.rs/s/eb8cgf/planner_programming_blows_my_mind) - [Planner programming blows my mind](https://www.hillelwayne.com/post/picat/)
 * [2024-02-20, 17:29:03](https://lobste.rs/s/2xrigu/three_places_for_data_lsm) - [The Three Places for Data in an LSM](https://buttondown.email/jaffray/archive/the-three-places-for-data-in-an-lsm/)
 * [2024-02-20, 16:53:11](https://lobste.rs/s/6k3vcb/measuring_energy_usage_regular_code_vs) - [Measuring energy usage: regular code vs. SIMD code](https://lemire.me/blog/2024/02/19/measuring-energy-usage-regular-code-vs-simd-code/)

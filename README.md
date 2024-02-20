@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-20, 17:50:47](https://lobste.rs/s/e2aw1k/questioning_go_s_range_over_func_proposal) - [Questioning Go's range-over-func Proposal](https://rulmer.xyz/article/Questioning_Gos_range-over-func_Proposal.html)
 * [2024-02-20, 17:43:39](https://lobste.rs/s/eb8cgf/planner_programming_blows_my_mind) - [Planner programming blows my mind](https://www.hillelwayne.com/post/picat/)
 * [2024-02-20, 17:29:03](https://lobste.rs/s/2xrigu/three_places_for_data_lsm) - [The Three Places for Data in an LSM](https://buttondown.email/jaffray/archive/the-three-places-for-data-in-an-lsm/)
 * [2024-02-20, 16:53:11](https://lobste.rs/s/6k3vcb/measuring_energy_usage_regular_code_vs) - [Measuring energy usage: regular code vs. SIMD code](https://lemire.me/blog/2024/02/19/measuring-energy-usage-regular-code-vs-simd-code/)
@@ -16,7 +17,6 @@
 * [2024-02-20, 02:34:43](https://lobste.rs/s/aevptj/why_is_prettier_rock_solid) - [Why is Prettier rock solid?](https://mrmr.io/til/prettier)
 * [2024-02-20, 00:18:52](https://lobste.rs/s/jmcsth/field_research_on_docs_site_search_boxes) - [Field research on docs site search boxes](https://technicalwriting.dev/searchboxes.html)
 * [2024-02-19, 23:56:17](https://lobste.rs/s/tyhq5y/finding_inliers) - [Finding Inliers](https://exple.tive.org/blarg/2024/02/19/finding-inliers/)
-* [2024-02-19, 23:19:06](https://lobste.rs/s/8rkvbo/command_query_separation_2005) - [Command Query Separation (2005)](https://martinfowler.com/bliki/CommandQuerySeparation.html)
 * [2024-02-19, 23:09:15](https://lobste.rs/s/xhdhft/debugging_odd_inability_stream_video) - [Debugging an odd inability to stream video](https://mjg59.dreamwidth.org/69343.html)
 * [2024-02-19, 21:50:40](https://lobste.rs/s/v2gq8d/building_hybrid_native_application_with) - [Building a Hybrid Native Application With Gleam and Tauri](https://www.wezm.net/v2/posts/2024/gleam-tauri/)
 * [2024-02-19, 19:46:35](https://lobste.rs/s/gwyglz/visual_interactive_guide_bloom_filters) - [A visual, interactive guide to bloom filters](https://samwho.dev/bloom-filters)
