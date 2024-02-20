@@ -2,10 +2,10 @@
   [
     [
       "2024-02-20, 13:32:32",
-      "https://lobste.rs/s/ovxzr2/cve_rs_blazingly_fast_memory"
+      "https://lobste.rs/s/ovxzr2/blazingly_fast_memory_vulnerabilities"
     ],
     [
-      "cve-rs: Blazingly fast memory vulnerabilities, written in safe Rust",
+      "Blazingly fast memory vulnerabilities, written in safe Rust",
       "https://github.com/Speykious/cve-rs"
     ]
   ],
