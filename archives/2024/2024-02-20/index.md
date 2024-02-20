@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
+* [2024-02-20, 12:56:48](https://lobste.rs/s/v6zad0/try_x_y_minutes) - [Try X in Y minutes](https://codapi.org/try/)
 * [2024-02-20, 11:14:25](https://lobste.rs/s/ljhlmr/subprime_intelligence_reaching_limits) - [Subprime Intelligence (reaching the limits of generative AI)](https://www.wheresyoured.at/sam-altman-fried/)
 * [2024-02-20, 10:27:01](https://lobste.rs/s/mr9vy7/translating_openstreetmap_data_html5) - [Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly](https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/)
 * [2024-02-20, 09:50:18](https://lobste.rs/s/gbtvqp/how_debug_your_initramfs_init) - [How to debug your initramfs init](https://linus.schreibt.jetzt/posts/debugging-pid1.html)
