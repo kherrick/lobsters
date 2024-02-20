@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-02-20, 12:56:48](https://lobste.rs/s/v6zad0/try_x_y_minutes) - [Try X in Y minutes](https://codapi.org/try/)
-* [2024-02-20, 11:14:25](https://lobste.rs/s/ljhlmr/subprime_intelligence_reaching_limits) - [Subprime Intelligence (reaching the limits of generative AI)](https://www.wheresyoured.at/sam-altman-fried/)
 * [2024-02-20, 10:27:01](https://lobste.rs/s/mr9vy7/translating_openstreetmap_data_html5) - [Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly](https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/)
 * [2024-02-20, 09:50:18](https://lobste.rs/s/gbtvqp/how_debug_your_initramfs_init) - [How to debug your initramfs init](https://linus.schreibt.jetzt/posts/debugging-pid1.html)
 * [2024-02-20, 08:48:51](https://lobste.rs/s/15q8oc/red_language_0_6_5_changelog) - [Red language: 0.6.5: Changelog](https://www.red-lang.org/2024/02/065-changelog.html)
@@ -16,6 +15,7 @@
 * [2024-02-19, 21:50:40](https://lobste.rs/s/v2gq8d/building_hybrid_native_application_with) - [Building a Hybrid Native Application With Gleam and Tauri](https://www.wezm.net/v2/posts/2024/gleam-tauri/)
 * [2024-02-19, 20:30:45](https://lobste.rs/s/pl7l62/gcc_s_move_c_2013) - [GCC's move to C++ [2013]](https://lwn.net/Articles/542457/)
 * [2024-02-19, 19:46:35](https://lobste.rs/s/gwyglz/visual_interactive_guide_bloom_filters) - [A visual, interactive guide to bloom filters](https://samwho.dev/bloom-filters)
+* [2024-02-19, 17:05:10](https://lobste.rs/s/ks8rca/otp_at_high_level) - [OTP at a High Level](https://adoptingerlang.org/docs/development/otp_high_level/)
 * [2024-02-19, 16:58:31](https://lobste.rs/s/ckdee7/libremidi_midi_1_2_c_20_library) - [libremidi, a MIDI 1 & 2 C++20 library](https://github.com/jcelerier/libremidi)
 * [2024-02-19, 16:14:14](https://lobste.rs/s/f2d9dd/htmz_low_power_tool_for_html) - [htmz - a low power tool for html](https://leanrada.com/htmz/)
 * [2024-02-19, 14:29:35](https://lobste.rs/s/vplgi1/hare_0_24_0_released_hare_s_new_release) - [Hare 0.24.0 released, and Hare's new release policy](https://harelang.org/blog/2024-02-16-hare-0.24.0-released/)
