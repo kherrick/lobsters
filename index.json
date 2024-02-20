@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-20, 15:24:57",
+      "https://lobste.rs/s/2jjg1j/writing_scheduler_for_linux_rust_runs"
+    ],
+    [
+      "Writing a scheduler for Linux in Rust that runs in user-space",
+      "https://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-20, 15:21:59",
+      "https://lobste.rs/s/bp7s71/talks_andrew_godwin_reconciling"
+    ],
+    [
+      "Talks - Andrew Godwin: Reconciling Everything",
+      "https://www.youtube.com/watch?v=MuK6lmsfX1E"
+    ]
+  ],
+  [
+    [
       "2024-02-20, 13:32:32",
       "https://lobste.rs/s/ovxzr2/blazingly_fast_memory_vulnerabilities"
     ],
@@ -227,26 +247,6 @@
     [
       "2023 Annual Rust Survey Results",
       "https://blog.rust-lang.org/2024/02/19/2023-Rust-Annual-Survey-2023-results.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 09:32:30",
-      "https://lobste.rs/s/zch8yi/vpp_on_freebsd"
-    ],
-    [
-      "VPP on FreeBSD",
-      "https://ipng.ch/s/articles/2024/02/10/vpp-freebsd-1.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-18, 20:48:36",
-      "https://lobste.rs/s/jynnm3/activitypub_server_single_php_file"
-    ],
-    [
-      "An ActivityPub Server in a Single PHP File",
-      "https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/"
     ]
   ]
 ]
