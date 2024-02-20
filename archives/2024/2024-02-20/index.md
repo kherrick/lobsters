@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
+* [2024-02-20, 15:24:57](https://lobste.rs/s/2jjg1j/writing_scheduler_for_linux_rust_runs) - [Writing a scheduler for Linux in Rust that runs in user-space](https://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html)
+* [2024-02-20, 15:21:59](https://lobste.rs/s/bp7s71/talks_andrew_godwin_reconciling) - [Talks - Andrew Godwin: Reconciling Everything](https://www.youtube.com/watch?v=MuK6lmsfX1E)
 * [2024-02-20, 13:32:32](https://lobste.rs/s/ovxzr2/cve_rs_blazingly_fast_memory) - [cve-rs: Blazingly fast memory vulnerabilities, written in safe Rust](https://github.com/Speykious/cve-rs)
 * [2024-02-20, 13:32:32](https://lobste.rs/s/ovxzr2/blazingly_fast_memory_vulnerabilities) - [Blazingly fast memory vulnerabilities, written in safe Rust](https://github.com/Speykious/cve-rs)
 * [2024-02-20, 12:56:48](https://lobste.rs/s/v6zad0/try_x_y_minutes) - [Try X in Y minutes](https://codapi.org/try/)

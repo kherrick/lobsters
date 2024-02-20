@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-20, 15:24:57](https://lobste.rs/s/2jjg1j/writing_scheduler_for_linux_rust_runs) - [Writing a scheduler for Linux in Rust that runs in user-space](https://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html)
+* [2024-02-20, 15:21:59](https://lobste.rs/s/bp7s71/talks_andrew_godwin_reconciling) - [Talks - Andrew Godwin: Reconciling Everything](https://www.youtube.com/watch?v=MuK6lmsfX1E)
 * [2024-02-20, 13:32:32](https://lobste.rs/s/ovxzr2/blazingly_fast_memory_vulnerabilities) - [Blazingly fast memory vulnerabilities, written in safe Rust](https://github.com/Speykious/cve-rs)
 * [2024-02-20, 12:56:48](https://lobste.rs/s/v6zad0/try_x_y_minutes) - [Try X in Y minutes](https://codapi.org/try/)
 * [2024-02-20, 10:27:01](https://lobste.rs/s/mr9vy7/translating_openstreetmap_data_html5) - [Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly](https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/)
@@ -23,8 +25,6 @@
 * [2024-02-19, 11:43:19](https://lobste.rs/s/mhbfe8/downtime_due_sign_up_spam) - [Downtime due to sign up spam](https://blog.cachix.org/posts/2023-02-19-downtime-due-to-signup-spam/)
 * [2024-02-19, 10:45:06](https://lobste.rs/s/5xfopz/things_you_can_do_on_your_personal_website) - [Things you can do on your personal website](https://jamesg.blog/2024/02/19/personal-website-ideas/)
 * [2024-02-19, 10:44:54](https://lobste.rs/s/ish2s7/2023_annual_rust_survey_results) - [2023 Annual Rust Survey Results](https://blog.rust-lang.org/2024/02/19/2023-Rust-Annual-Survey-2023-results.html)
-* [2024-02-19, 09:32:30](https://lobste.rs/s/zch8yi/vpp_on_freebsd) - [VPP on FreeBSD](https://ipng.ch/s/articles/2024/02/10/vpp-freebsd-1.html)
-* [2024-02-18, 20:48:36](https://lobste.rs/s/jynnm3/activitypub_server_single_php_file) - [An ActivityPub Server in a Single PHP File](https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/)
 
 ## [Archives](archives/index.md)
 
