@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-20, 20:27:52](https://lobste.rs/s/ul5sq0/on_device_ml_research_with_mlx_swift) - [On-device ML research with MLX and Swift](https://www.swift.org/blog/mlx-swift/)
+* [2024-02-20, 20:21:29](https://lobste.rs/s/nqm47h/ssds_have_become_ridiculously_fast) - [SSDs Have Become Ridiculously Fast, Except in the Cloud](https://databasearchitects.blogspot.com/2024/02/ssds-have-become-ridiculously-fast.html)
 * [2024-02-20, 19:50:33](https://lobste.rs/s/w8hjyd/if_you_re_just_going_sit_there_doing) - [If you're just going to sit there doing nothing, at least do nothing correctly](https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409)
 * [2024-02-20, 17:50:47](https://lobste.rs/s/e2aw1k/questioning_go_s_range_over_func_proposal) - [Questioning Go's range-over-func Proposal](https://rulmer.xyz/article/Questioning_Gos_range-over-func_Proposal.html)
 * [2024-02-20, 17:43:39](https://lobste.rs/s/eb8cgf/planner_programming_blows_my_mind) - [Planner programming blows my mind](https://www.hillelwayne.com/post/picat/)
@@ -15,8 +17,6 @@
 * [2024-02-20, 03:41:34](https://lobste.rs/s/kt4deg/itanic_saga) - [The Itanic Saga](https://www.abortretry.fail/p/the-itanic-saga)
 * [2024-02-20, 02:34:43](https://lobste.rs/s/aevptj/why_is_prettier_rock_solid) - [Why is Prettier rock solid?](https://mrmr.io/til/prettier)
 * [2024-02-20, 00:18:52](https://lobste.rs/s/jmcsth/field_research_on_docs_site_search_boxes) - [Field research on docs site search boxes](https://technicalwriting.dev/searchboxes.html)
-* [2024-02-19, 23:56:17](https://lobste.rs/s/tyhq5y/finding_inliers) - [Finding Inliers](https://exple.tive.org/blarg/2024/02/19/finding-inliers/)
-* [2024-02-19, 23:19:06](https://lobste.rs/s/8rkvbo/command_query_separation_2005) - [Command Query Separation (2005)](https://martinfowler.com/bliki/CommandQuerySeparation.html)
 * [2024-02-19, 23:09:15](https://lobste.rs/s/xhdhft/debugging_odd_inability_stream_video) - [Debugging an odd inability to stream video](https://mjg59.dreamwidth.org/69343.html)
 * [2024-02-19, 21:50:40](https://lobste.rs/s/v2gq8d/building_hybrid_native_application_with) - [Building a Hybrid Native Application With Gleam and Tauri](https://www.wezm.net/v2/posts/2024/gleam-tauri/)
 * [2024-02-19, 19:46:35](https://lobste.rs/s/gwyglz/visual_interactive_guide_bloom_filters) - [A visual, interactive guide to bloom filters](https://samwho.dev/bloom-filters)
