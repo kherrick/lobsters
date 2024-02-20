@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-20, 13:32:32",
+      "https://lobste.rs/s/ovxzr2/cve_rs_blazingly_fast_memory"
+    ],
+    [
+      "cve-rs: Blazingly fast memory vulnerabilities, written in safe Rust",
+      "https://github.com/Speykious/cve-rs"
+    ]
+  ],
+  [
+    [
       "2024-02-20, 12:56:48",
       "https://lobste.rs/s/v6zad0/try_x_y_minutes"
     ],
@@ -147,16 +157,6 @@
     [
       "A visual, interactive guide to bloom filters",
       "https://samwho.dev/bloom-filters"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 17:05:10",
-      "https://lobste.rs/s/ks8rca/otp_at_high_level"
-    ],
-    [
-      "OTP at a High Level",
-      "https://adoptingerlang.org/docs/development/otp_high_level/"
     ]
   ],
   [
