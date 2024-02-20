@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-20, 04:58:44](https://lobste.rs/s/in3yyd/mu_human_scale_computer) - [Mu: a human-scale computer](https://akkartik.github.io/mu/)
 * [2024-02-20, 03:41:34](https://lobste.rs/s/kt4deg/itanic_saga) - [The Itanic Saga](https://www.abortretry.fail/p/the-itanic-saga)
 * [2024-02-20, 02:34:43](https://lobste.rs/s/aevptj/why_is_prettier_rock_solid) - [Why is Prettier rock solid?](https://mrmr.io/til/prettier)
 * [2024-02-20, 00:18:52](https://lobste.rs/s/jmcsth/field_research_on_docs_site_search_boxes) - [Field research on docs site search boxes](https://technicalwriting.dev/searchboxes.html)
@@ -14,7 +15,6 @@
 * [2024-02-19, 16:58:31](https://lobste.rs/s/ckdee7/libremidi_midi_1_2_c_20_library) - [libremidi, a MIDI 1 & 2 C++20 library](https://github.com/jcelerier/libremidi)
 * [2024-02-19, 16:14:14](https://lobste.rs/s/f2d9dd/htmz_low_power_tool_for_html) - [htmz - a low power tool for html](https://leanrada.com/htmz/)
 * [2024-02-19, 14:29:35](https://lobste.rs/s/vplgi1/hare_0_24_0_released_hare_s_new_release) - [Hare 0.24.0 released, and Hare's new release policy](https://harelang.org/blog/2024-02-16-hare-0.24.0-released/)
-* [2024-02-19, 12:27:47](https://lobste.rs/s/p7xbdf/prql_postgresql) - [PRQL in PostgreSQL](https://github.com/kaspermarstal/plprql)
 * [2024-02-19, 12:13:22](https://lobste.rs/s/q3gxfk/git_cliff_2_0_is_released_highly) - [git-cliff 2.0 is released (a highly customizable changelog generator)](https://git-cliff.org/blog/2.0.0/)
 * [2024-02-19, 11:43:19](https://lobste.rs/s/mhbfe8/downtime_due_sign_up_spam) - [Downtime due to sign up spam](https://blog.cachix.org/posts/2023-02-19-downtime-due-to-signup-spam/)
 * [2024-02-19, 11:01:32](https://lobste.rs/s/saycd2/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/saycd2/what_are_you_doing_this_week)
