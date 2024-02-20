@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-20, 17:29:03](https://lobste.rs/s/2xrigu/three_places_for_data_lsm) - [The Three Places for Data in an LSM](https://buttondown.email/jaffray/archive/the-three-places-for-data-in-an-lsm/)
 * [2024-02-20, 16:53:11](https://lobste.rs/s/6k3vcb/measuring_energy_usage_regular_code_vs) - [Measuring energy usage: regular code vs. SIMD code](https://lemire.me/blog/2024/02/19/measuring-energy-usage-regular-code-vs-simd-code/)
 * [2024-02-20, 16:43:33](https://lobste.rs/s/jaxspo/apache_spark_core_deep_dive_proper) - [Apache Spark Core—Deep Dive—Proper Optimization (2019)](https://youtu.be/daXEp4HmS-E)
 * [2024-02-20, 15:33:48](https://lobste.rs/s/ghaphp/evil_nix_nix_library_download_files_from) - [evil-nix: a Nix library to download files from the internet without requiring a hash](https://github.com/cdepillabout/evil-nix)
@@ -9,7 +10,6 @@
 * [2024-02-20, 12:56:48](https://lobste.rs/s/v6zad0/try_x_y_minutes) - [Try X in Y minutes](https://codapi.org/try/)
 * [2024-02-20, 09:50:18](https://lobste.rs/s/gbtvqp/how_debug_your_initramfs_init) - [How to debug your initramfs init](https://linus.schreibt.jetzt/posts/debugging-pid1.html)
 * [2024-02-20, 08:48:51](https://lobste.rs/s/15q8oc/red_language_0_6_5_changelog) - [Red language: 0.6.5: Changelog](https://www.red-lang.org/2024/02/065-changelog.html)
-* [2024-02-20, 06:29:06](https://lobste.rs/s/gdvsvi/re2c) - [re2c](https://re2c.org/index.html)
 * [2024-02-20, 04:58:44](https://lobste.rs/s/in3yyd/mu_human_scale_computer) - [Mu: a human-scale computer](https://akkartik.github.io/mu/)
 * [2024-02-20, 03:41:34](https://lobste.rs/s/kt4deg/itanic_saga) - [The Itanic Saga](https://www.abortretry.fail/p/the-itanic-saga)
 * [2024-02-20, 02:34:43](https://lobste.rs/s/aevptj/why_is_prettier_rock_solid) - [Why is Prettier rock solid?](https://mrmr.io/til/prettier)
