@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-20](index.md)
 
+* [2024-02-20, 23:00:40](https://lobste.rs/s/jcxf32/academics_steal_data_from_air_gapped) - [Academics steal data from air-gapped systems via a keyboard's LEDs](https://www.zdnet.com/article/academics-steal-data-from-air-gapped-systems-via-a-keyboards-leds/)
 * [2024-02-20, 21:25:25](https://lobste.rs/s/a8swbz/one_billion_rows_challenge_golang) - [One Billion Rows Challenge in Golang](https://www.bytesizego.com/blog/one-billion-row-challenge-go)
 * [2024-02-20, 21:19:15](https://lobste.rs/s/avu78j/exodus_bitcoin_wallet_490k_swindle) - [Exodus Bitcoin Wallet: $490K Swindle](https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/)
 * [2024-02-20, 21:11:53](https://lobste.rs/s/cz5xbg/go_s_early_growth_2012_2016) - [Go's early growth 2012-2016](https://www.linkedin.com/pulse/gos-early-growth-2012-2016-sameer-ajmani-oxtjc/)
