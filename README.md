@@ -5,6 +5,7 @@
 * [2024-02-19, 23:19:06](https://lobste.rs/s/8rkvbo/command_query_separation_2005) - [Command Query Separation (2005)](https://martinfowler.com/bliki/CommandQuerySeparation.html)
 * [2024-02-19, 23:09:15](https://lobste.rs/s/xhdhft/debugging_odd_inability_stream_video) - [Debugging an odd inability to stream video](https://mjg59.dreamwidth.org/69343.html)
 * [2024-02-19, 21:50:40](https://lobste.rs/s/v2gq8d/building_hybrid_native_application_with) - [Building a Hybrid Native Application With Gleam and Tauri](https://www.wezm.net/v2/posts/2024/gleam-tauri/)
+* [2024-02-19, 21:48:02](https://lobste.rs/s/89pulb/z3_playground) - [Z3 Playground](https://jfmc.github.io/z3-play/)
 * [2024-02-19, 20:30:45](https://lobste.rs/s/pl7l62/gcc_s_move_c_2013) - [GCC's move to C++ [2013]](https://lwn.net/Articles/542457/)
 * [2024-02-19, 19:46:35](https://lobste.rs/s/gwyglz/visual_interactive_guide_bloom_filters) - [A visual, interactive guide to bloom filters](https://samwho.dev/bloom-filters)
 * [2024-02-19, 17:05:10](https://lobste.rs/s/ks8rca/otp_at_high_level) - [OTP at a High Level](https://adoptingerlang.org/docs/development/otp_high_level/)
@@ -22,7 +23,6 @@
 * [2024-02-19, 04:02:26](https://lobste.rs/s/y3o3vf/testing_distributed_systems_w) - [Testing Distributed Systems w/ Deterministic Simulation (2014)](https://youtu.be/4fFDFbi3toc)
 * [2024-02-19, 01:47:27](https://lobste.rs/s/ixdsh0/serving_website_from_git_repo_without) - [Serving a Website From a Git Repo Without Cloning It](https://mediocregopher.com/posts/git-proxy)
 * [2024-02-19, 00:20:35](https://lobste.rs/s/ijhl0w/libfirm_compiler_backend) - [LibFirm compiler backend](http://libfirm.org/)
-* [2024-02-18, 23:32:35](https://lobste.rs/s/9ybrxx/writing_good_programming_abstractions) - [Writing good programming abstractions](https://notebook.drmaciver.com/posts/2024-01-13-08:28.html)
 * [2024-02-18, 20:48:36](https://lobste.rs/s/jynnm3/activitypub_server_single_php_file) - [An ActivityPub Server in a Single PHP File](https://shkspr.mobi/blog/2024/02/activitypub-server-in-a-single-file/)
 * [2024-02-18, 05:47:48](https://lobste.rs/s/wxcprx/tailwind_semantics_vs_utility) - [Tailwind: Semantics vs Utility](https://nuejs.org/blog/tailwind-misinformation-engine/)
 
