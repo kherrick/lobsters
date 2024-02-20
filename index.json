@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-20, 23:00:40",
+      "https://lobste.rs/s/jcxf32/academics_steal_data_from_air_gapped"
+    ],
+    [
+      "Academics steal data from air-gapped systems via a keyboard's LEDs",
+      "https://www.zdnet.com/article/academics-steal-data-from-air-gapped-systems-via-a-keyboards-leds/"
+    ]
+  ],
+  [
+    [
       "2024-02-20, 21:25:25",
       "https://lobste.rs/s/a8swbz/one_billion_rows_challenge_golang"
     ],
@@ -97,16 +107,6 @@
     [
       "Writing a scheduler for Linux in Rust that runs in user-space",
       "https://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-20, 15:21:59",
-      "https://lobste.rs/s/bp7s71/talks_andrew_godwin_reconciling"
-    ],
-    [
-      "Talks - Andrew Godwin: Reconciling Everything",
-      "https://www.youtube.com/watch?v=MuK6lmsfX1E"
     ]
   ],
   [
