@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-02-20, 10:27:01",
-      "https://lobste.rs/s/mr9vy7/translating_openstreetmap_data_html5"
-    ],
-    [
-      "Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly",
-      "https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/"
-    ]
-  ],
-  [
-    [
       "2024-02-20, 09:50:18",
       "https://lobste.rs/s/gbtvqp/how_debug_your_initramfs_init"
     ],
@@ -97,6 +87,16 @@
     [
       "Red language: 0.6.5: Changelog",
       "https://www.red-lang.org/2024/02/065-changelog.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-20, 06:29:06",
+      "https://lobste.rs/s/gdvsvi/re2c"
+    ],
+    [
+      "re2c",
+      "https://re2c.org/index.html"
     ]
   ],
   [
