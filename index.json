@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-21, 21:37:09",
+      "https://lobste.rs/s/yfmwep/universal_manipulation_interface_wild"
+    ],
+    [
+      "Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots",
+      "https://umi-gripper.github.io/"
+    ]
+  ],
+  [
+    [
       "2024-02-21, 21:26:31",
       "https://lobste.rs/s/ku9kx9/mastering_c_with_google_benchmark_2022"
     ],
@@ -237,16 +247,6 @@
     [
       "Planner programming blows my mind",
       "https://www.hillelwayne.com/post/picat/"
-    ]
-  ],
-  [
-    [
-      "2024-02-20, 12:56:48",
-      "https://lobste.rs/s/v6zad0/try_x_y_minutes"
-    ],
-    [
-      "Try X in Y minutes",
-      "https://codapi.org/try/"
     ]
   ]
 ]
