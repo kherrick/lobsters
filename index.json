@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2024-02-20, 21:19:15",
-      "https://lobste.rs/s/avu78j/exodus_bitcoin_wallet_490k_swindle"
-    ],
-    [
-      "Exodus Bitcoin Wallet: $490K Swindle",
-      "https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/"
-    ]
-  ],
-  [
-    [
       "2024-02-20, 20:21:29",
       "https://lobste.rs/s/nqm47h/ssds_have_become_ridiculously_fast"
     ],
@@ -237,6 +227,16 @@
     [
       "evil-nix: a Nix library to download files from the internet without requiring a hash",
       "https://github.com/cdepillabout/evil-nix"
+    ]
+  ],
+  [
+    [
+      "2024-02-20, 13:32:32",
+      "https://lobste.rs/s/ovxzr2/blazingly_fast_memory_vulnerabilities"
+    ],
+    [
+      "Blazingly fast memory vulnerabilities, written in safe Rust",
+      "https://github.com/Speykious/cve-rs"
     ]
   ],
   [
