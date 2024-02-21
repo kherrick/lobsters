@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-21, 06:52:35](https://lobste.rs/s/hyh9ej/how_containers_work) - [How containers work](https://ikouchiha47.github.io/2024/02/05/how-containers-work.html)
 * [2024-02-21, 05:00:05](https://lobste.rs/s/fqjl4d/cloud_scale_characterization_remote) - [A Cloud-Scale Characterization of Remote Procedure Calls](https://foci.uw.edu/papers/sosp23-rpc.pdf)
 * [2024-02-21, 04:42:12](https://lobste.rs/s/8tumsm/practical_guide_using_declarative) - [A practical guide to using declarative shadow DOM](https://www.mayank.co/blog/declarative-shadow-dom-guide/)
 * [2024-02-21, 03:31:12](https://lobste.rs/s/2a4fko/this_message_does_not_exist) - [This message does not exist](https://www.kmjn.org/notes/message_existence.html)
@@ -20,7 +21,6 @@
 * [2024-02-20, 12:56:48](https://lobste.rs/s/v6zad0/try_x_y_minutes) - [Try X in Y minutes](https://codapi.org/try/)
 * [2024-02-20, 09:50:18](https://lobste.rs/s/gbtvqp/how_debug_your_initramfs_init) - [How to debug your initramfs init](https://linus.schreibt.jetzt/posts/debugging-pid1.html)
 * [2024-02-20, 04:58:44](https://lobste.rs/s/in3yyd/mu_human_scale_computer) - [Mu: a human-scale computer](https://akkartik.github.io/mu/)
-* [2024-02-20, 03:41:34](https://lobste.rs/s/kt4deg/itanic_saga) - [The Itanic Saga](https://www.abortretry.fail/p/the-itanic-saga)
 * [2024-02-20, 02:34:43](https://lobste.rs/s/aevptj/why_is_prettier_rock_solid) - [Why is Prettier rock solid?](https://mrmr.io/til/prettier)
 * [2024-02-19, 19:46:35](https://lobste.rs/s/gwyglz/visual_interactive_guide_bloom_filters) - [A visual, interactive guide to bloom filters](https://samwho.dev/bloom-filters)
 * [2024-02-19, 16:14:14](https://lobste.rs/s/f2d9dd/htmz_low_power_tool_for_html) - [htmz - a low power tool for html](https://leanrada.com/htmz/)
