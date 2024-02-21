@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-21](index.md)
 
+* [2024-02-21, 16:00:58](https://lobste.rs/s/vplcmx/react_labs_what_we_ve_been_working_on) - [React Labs: What We've Been Working On](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)
+* [2024-02-21, 15:58:40](https://lobste.rs/s/kfxvui/tale_three_architectures) - [A tale of three architectures](https://daverupert.com/2024/02/three-architectures/)
 * [2024-02-21, 15:25:41](https://lobste.rs/s/rkqldb/what_modern_nvme_storage_can_do_how) - [What Modern NVMe Storage Can Do, And How To Exploit It: High-Performance I/O for High-Performance Storage Engines](https://www.vldb.org/pvldb/vol16/p2090-haas.pdf)
 * [2024-02-21, 15:21:51](https://lobste.rs/s/sk7ghl/apple_ii_emulator_on_6809_coco3) - [An Apple II emulator.  On a 6809 Coco3](https://github.com/dragonbytes/Apple2CoCo)
 * [2024-02-21, 14:44:13](https://lobste.rs/s/dox3p2/access_gemini_models_from_command_line) - [Access Gemini models from the command-line](https://eli.thegreenplace.net/2024/gemini-cli-access-gemini-models-from-the-command-line/)
