@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-21, 14:34:50](https://lobste.rs/s/aqj6eb/imessage_with_pq3_new_state_art_quantum) - [iMessage with PQ3: The new state of the art in quantum-secure messaging at scale](https://security.apple.com/blog/imessage-pq3/)
 * [2024-02-21, 14:28:49](https://lobste.rs/s/yoiyah/disputed_not_rejected) - [Disputed, not Rejected](https://daniel.haxx.se/blog/2024/02/21/disputed-not-rejected/)
 * [2024-02-21, 14:26:41](https://lobste.rs/s/ogqo7q/range_queries_with_badger) - [Range Queries with Badger](https://garrensmith.com/Databases/Range+queries+with+Badger)
 * [2024-02-21, 14:07:06](https://lobste.rs/s/mu2c6n/why_are_non_dry_specs_more_maintainable) - [Why are non-DRY specs more maintainable?](https://thedailydeveloper.substack.com/p/why-are-non-dry-specs-more-maintainable)
@@ -24,7 +25,6 @@
 * [2024-02-20, 09:50:18](https://lobste.rs/s/gbtvqp/how_debug_your_initramfs_init) - [How to debug your initramfs init](https://linus.schreibt.jetzt/posts/debugging-pid1.html)
 * [2024-02-20, 02:34:43](https://lobste.rs/s/aevptj/why_is_prettier_rock_solid) - [Why is Prettier rock solid?](https://mrmr.io/til/prettier)
 * [2024-02-19, 19:46:35](https://lobste.rs/s/gwyglz/visual_interactive_guide_bloom_filters) - [A visual, interactive guide to bloom filters](https://samwho.dev/bloom-filters)
-* [2024-02-19, 10:45:06](https://lobste.rs/s/5xfopz/things_you_can_do_on_your_personal_website) - [Things you can do on your personal website](https://jamesg.blog/2024/02/19/personal-website-ideas/)
 
 ## [Archives](archives/index.md)
 
