@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-21, 14:44:13",
+      "https://lobste.rs/s/dox3p2/access_gemini_models_from_command_line"
+    ],
+    [
+      "Access Gemini models from the command-line",
+      "https://eli.thegreenplace.net/2024/gemini-cli-access-gemini-models-from-the-command-line/"
+    ]
+  ],
+  [
+    [
       "2024-02-21, 14:34:50",
       "https://lobste.rs/s/aqj6eb/imessage_with_pq3_new_state_art_quantum"
     ],
@@ -237,16 +247,6 @@
     [
       "Why is Prettier rock solid?",
       "https://mrmr.io/til/prettier"
-    ]
-  ],
-  [
-    [
-      "2024-02-19, 19:46:35",
-      "https://lobste.rs/s/gwyglz/visual_interactive_guide_bloom_filters"
-    ],
-    [
-      "A visual, interactive guide to bloom filters",
-      "https://samwho.dev/bloom-filters"
     ]
   ]
 ]
