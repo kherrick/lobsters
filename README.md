@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-21, 00:50:42](https://lobste.rs/s/hiabs7/anatomy_whistleblowing_system) - [Anatomy of a whistleblowing system](https://securedrop.org/news/anatomy-of-a-whistleblowing-system/)
 * [2024-02-20, 23:00:40](https://lobste.rs/s/jcxf32/academics_steal_data_from_air_gapped) - [Academics steal data from air-gapped systems via a keyboard's LEDs](https://www.zdnet.com/article/academics-steal-data-from-air-gapped-systems-via-a-keyboards-leds/)
 * [2024-02-20, 21:25:25](https://lobste.rs/s/a8swbz/one_billion_rows_challenge_golang) - [One Billion Rows Challenge in Golang](https://www.bytesizego.com/blog/one-billion-row-challenge-go)
 * [2024-02-20, 21:19:15](https://lobste.rs/s/avu78j/exodus_bitcoin_wallet_490k_swindle) - [Exodus Bitcoin Wallet: $490K Swindle](https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/)
@@ -9,6 +10,7 @@
 * [2024-02-20, 17:50:47](https://lobste.rs/s/e2aw1k/questioning_go_s_range_over_func_proposal) - [Questioning Go's range-over-func Proposal](https://rulmer.xyz/article/Questioning_Gos_range-over-func_Proposal.html)
 * [2024-02-20, 17:43:39](https://lobste.rs/s/eb8cgf/planner_programming_blows_my_mind) - [Planner programming blows my mind](https://www.hillelwayne.com/post/picat/)
 * [2024-02-20, 17:29:03](https://lobste.rs/s/2xrigu/three_places_for_data_lsm) - [The Three Places for Data in an LSM](https://buttondown.email/jaffray/archive/the-three-places-for-data-in-an-lsm/)
+* [2024-02-20, 16:53:11](https://lobste.rs/s/6k3vcb/measuring_energy_usage_regular_code_vs) - [Measuring energy usage: regular code vs. SIMD code](https://lemire.me/blog/2024/02/19/measuring-energy-usage-regular-code-vs-simd-code/)
 * [2024-02-20, 15:33:48](https://lobste.rs/s/ghaphp/evil_nix_nix_library_download_files_from) - [evil-nix: a Nix library to download files from the internet without requiring a hash](https://github.com/cdepillabout/evil-nix)
 * [2024-02-20, 15:24:57](https://lobste.rs/s/2jjg1j/writing_scheduler_for_linux_rust_runs) - [Writing a scheduler for Linux in Rust that runs in user-space](https://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html)
 * [2024-02-20, 15:21:59](https://lobste.rs/s/bp7s71/talks_andrew_godwin_reconciling) - [Talks - Andrew Godwin: Reconciling Everything](https://www.youtube.com/watch?v=MuK6lmsfX1E)
@@ -22,8 +24,6 @@
 * [2024-02-19, 21:50:40](https://lobste.rs/s/v2gq8d/building_hybrid_native_application_with) - [Building a Hybrid Native Application With Gleam and Tauri](https://www.wezm.net/v2/posts/2024/gleam-tauri/)
 * [2024-02-19, 19:46:35](https://lobste.rs/s/gwyglz/visual_interactive_guide_bloom_filters) - [A visual, interactive guide to bloom filters](https://samwho.dev/bloom-filters)
 * [2024-02-19, 16:14:14](https://lobste.rs/s/f2d9dd/htmz_low_power_tool_for_html) - [htmz - a low power tool for html](https://leanrada.com/htmz/)
-* [2024-02-19, 14:29:35](https://lobste.rs/s/vplgi1/hare_0_24_0_released_hare_s_new_release) - [Hare 0.24.0 released, and Hare's new release policy](https://harelang.org/blog/2024-02-16-hare-0.24.0-released/)
-* [2024-02-19, 11:43:19](https://lobste.rs/s/mhbfe8/downtime_due_sign_up_spam) - [Downtime due to sign up spam](https://blog.cachix.org/posts/2023-02-19-downtime-due-to-signup-spam/)
 * [2024-02-19, 10:45:06](https://lobste.rs/s/5xfopz/things_you_can_do_on_your_personal_website) - [Things you can do on your personal website](https://jamesg.blog/2024/02/19/personal-website-ideas/)
 
 ## [Archives](archives/index.md)
