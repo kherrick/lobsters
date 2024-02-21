@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-21](index.md)
 
+* [2024-02-21, 14:44:13](https://lobste.rs/s/dox3p2/access_gemini_models_from_command_line) - [Access Gemini models from the command-line](https://eli.thegreenplace.net/2024/gemini-cli-access-gemini-models-from-the-command-line/)
 * [2024-02-21, 14:34:50](https://lobste.rs/s/aqj6eb/imessage_with_pq3_new_state_art_quantum) - [iMessage with PQ3: The new state of the art in quantum-secure messaging at scale](https://security.apple.com/blog/imessage-pq3/)
 * [2024-02-21, 14:28:49](https://lobste.rs/s/yoiyah/disputed_not_rejected) - [Disputed, not Rejected](https://daniel.haxx.se/blog/2024/02/21/disputed-not-rejected/)
 * [2024-02-21, 14:26:41](https://lobste.rs/s/ogqo7q/range_queries_with_badger) - [Range Queries with Badger](https://garrensmith.com/Databases/Range+queries+with+Badger)
