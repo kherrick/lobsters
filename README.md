@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-21, 21:37:09](https://lobste.rs/s/yfmwep/universal_manipulation_interface_wild) - [Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots](https://umi-gripper.github.io/)
 * [2024-02-21, 21:26:31](https://lobste.rs/s/ku9kx9/mastering_c_with_google_benchmark_2022) - [Mastering C++ with Google Benchmark (2022)](https://ashvardanian.com/posts/google-benchmark/)
 * [2024-02-21, 21:14:37](https://lobste.rs/s/3iczca/gptscript_natural_language_programming) - [gptscript: Natural Language Programming](https://github.com/gptscript-ai/gptscript)
 * [2024-02-21, 20:56:44](https://lobste.rs/s/ccniep/software_defined_vhs_decoder) - [Software defined VHS decoder](https://github.com/oyvindln/vhs-decode)
@@ -24,7 +25,6 @@
 * [2024-02-20, 20:21:29](https://lobste.rs/s/nqm47h/ssds_have_become_ridiculously_fast) - [SSDs Have Become Ridiculously Fast, Except in the Cloud](https://databasearchitects.blogspot.com/2024/02/ssds-have-become-ridiculously-fast.html)
 * [2024-02-20, 19:50:33](https://lobste.rs/s/w8hjyd/if_you_re_just_going_sit_there_doing) - [If you're just going to sit there doing nothing, at least do nothing correctly](https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409)
 * [2024-02-20, 17:43:39](https://lobste.rs/s/eb8cgf/planner_programming_blows_my_mind) - [Planner programming blows my mind](https://www.hillelwayne.com/post/picat/)
-* [2024-02-20, 12:56:48](https://lobste.rs/s/v6zad0/try_x_y_minutes) - [Try X in Y minutes](https://codapi.org/try/)
 
 ## [Archives](archives/index.md)
 
