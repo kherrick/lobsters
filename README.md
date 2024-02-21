@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-02-21, 20:56:44](https://lobste.rs/s/ccniep/software_defined_vhs_decoder) - [Software defined VHS decoder](https://github.com/oyvindln/vhs-decode)
-* [2024-02-21, 20:46:15](https://lobste.rs/s/qahwtg/chatgpt_has_gone_berserk) - [ChatGPT has gone berserk](https://garymarcus.substack.com/p/chatgpt-has-gone-berserk)
 * [2024-02-21, 20:25:02](https://lobste.rs/s/wifyy2/windows_2000_networking_shenanigans) - [Windows 2000 Networking Shenanigans Part 1: Getting the damn OS Installed](https://www.lilysthings.org/blog/win2k-networking-1/)
 * [2024-02-21, 20:01:16](https://lobste.rs/s/g8foew/oils_0_20_0_eggex_json_android) - [Oils 0.20.0 - Eggex, JSON, and Android](https://www.oilshell.org/blog/2024/02/release-0.20.0.html)
 * [2024-02-21, 19:23:23](https://lobste.rs/s/e7ipf7/killer_app_gemini_pro_1_5_is_video) - [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
@@ -11,6 +10,7 @@
 * [2024-02-21, 16:00:58](https://lobste.rs/s/vplcmx/react_labs_what_we_ve_been_working_on) - [React Labs: What We've Been Working On](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)
 * [2024-02-21, 15:58:40](https://lobste.rs/s/kfxvui/tale_three_architectures) - [A tale of three architectures](https://daverupert.com/2024/02/three-architectures/)
 * [2024-02-21, 15:25:41](https://lobste.rs/s/rkqldb/what_modern_nvme_storage_can_do_how) - [What Modern NVMe Storage Can Do, And How To Exploit It: High-Performance I/O for High-Performance Storage Engines](https://www.vldb.org/pvldb/vol16/p2090-haas.pdf)
+* [2024-02-21, 14:44:13](https://lobste.rs/s/dox3p2/access_gemini_models_from_command_line) - [Access Gemini models from the command-line](https://eli.thegreenplace.net/2024/gemini-cli-access-gemini-models-from-the-command-line/)
 * [2024-02-21, 14:34:50](https://lobste.rs/s/aqj6eb/imessage_with_pq3_new_state_art_quantum) - [iMessage with PQ3: The new state of the art in quantum-secure messaging at scale](https://security.apple.com/blog/imessage-pq3/)
 * [2024-02-21, 14:28:49](https://lobste.rs/s/yoiyah/disputed_not_rejected) - [Disputed, not Rejected](https://daniel.haxx.se/blog/2024/02/21/disputed-not-rejected/)
 * [2024-02-21, 14:26:41](https://lobste.rs/s/ogqo7q/range_queries_with_badger) - [Range Queries with Badger](https://garrensmith.com/Databases/Range+queries+with+Badger)
