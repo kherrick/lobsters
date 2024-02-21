@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-21, 14:28:49",
+      "https://lobste.rs/s/yoiyah/disputed_not_rejected"
+    ],
+    [
+      "Disputed, not Rejected",
+      "https://daniel.haxx.se/blog/2024/02/21/disputed-not-rejected/"
+    ]
+  ],
+  [
+    [
+      "2024-02-21, 14:26:41",
+      "https://lobste.rs/s/ogqo7q/range_queries_with_badger"
+    ],
+    [
+      "Range Queries with Badger",
+      "https://garrensmith.com/Databases/Range+queries+with+Badger"
+    ]
+  ],
+  [
+    [
       "2024-02-21, 14:07:06",
       "https://lobste.rs/s/mu2c6n/why_are_non_dry_specs_more_maintainable"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-02-20, 16:53:11",
-      "https://lobste.rs/s/6k3vcb/measuring_energy_usage_regular_code_vs"
-    ],
-    [
-      "Measuring energy usage: regular code vs. SIMD code",
-      "https://lemire.me/blog/2024/02/19/measuring-energy-usage-regular-code-vs-simd-code/"
-    ]
-  ],
-  [
-    [
       "2024-02-20, 15:33:48",
       "https://lobste.rs/s/ghaphp/evil_nix_nix_library_download_files_from"
     ],
@@ -207,16 +217,6 @@
     [
       "How to debug your initramfs init",
       "https://linus.schreibt.jetzt/posts/debugging-pid1.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-20, 04:58:44",
-      "https://lobste.rs/s/in3yyd/mu_human_scale_computer"
-    ],
-    [
-      "Mu: a human-scale computer",
-      "https://akkartik.github.io/mu/"
     ]
   ],
   [
