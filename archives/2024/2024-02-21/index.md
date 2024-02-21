@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-21](index.md)
 
+* [2024-02-21, 21:14:37](https://lobste.rs/s/3iczca/gptscript_natural_language_programming) - [gptscript: Natural Language Programming](https://github.com/gptscript-ai/gptscript)
 * [2024-02-21, 20:56:44](https://lobste.rs/s/ccniep/software_defined_vhs_decoder) - [Software defined VHS decoder](https://github.com/oyvindln/vhs-decode)
 * [2024-02-21, 20:46:15](https://lobste.rs/s/qahwtg/chatgpt_has_gone_berserk) - [ChatGPT has gone berserk](https://garymarcus.substack.com/p/chatgpt-has-gone-berserk)
 * [2024-02-21, 20:25:02](https://lobste.rs/s/wifyy2/windows_2000_networking_shenanigans) - [Windows 2000 Networking Shenanigans Part 1: Getting the damn OS Installed](https://www.lilysthings.org/blog/win2k-networking-1/)
