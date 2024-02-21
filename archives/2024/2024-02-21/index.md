@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-21](index.md)
 
+* [2024-02-21, 20:01:16](https://lobste.rs/s/g8foew/oils_0_20_0_eggex_json_android) - [Oils 0.20.0 - Eggex, JSON, and Android](https://www.oilshell.org/blog/2024/02/release-0.20.0.html)
 * [2024-02-21, 19:23:23](https://lobste.rs/s/e7ipf7/killer_app_gemini_pro_1_5_is_video) - [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
 * [2024-02-21, 19:18:46](https://lobste.rs/s/z7tvmk/printlistener_uncovering) - [PrintListener: Uncovering the Vulnerability of Fingerprint Authentication via the Finger Friction Sound](https://www.ndss-symposium.org/wp-content/uploads/2024-618-paper.pdf)
 * [2024-02-21, 18:52:43](https://lobste.rs/s/rtvp2u/useful_uses_cat) - [Useful Uses of cat](https://two-wrongs.com/useful-uses-of-cat)

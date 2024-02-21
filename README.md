@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-21, 20:01:16](https://lobste.rs/s/g8foew/oils_0_20_0_eggex_json_android) - [Oils 0.20.0 - Eggex, JSON, and Android](https://www.oilshell.org/blog/2024/02/release-0.20.0.html)
 * [2024-02-21, 19:23:23](https://lobste.rs/s/e7ipf7/killer_app_gemini_pro_1_5_is_video) - [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
 * [2024-02-21, 19:18:46](https://lobste.rs/s/z7tvmk/printlistener_uncovering) - [PrintListener: Uncovering the Vulnerability of Fingerprint Authentication via the Finger Friction Sound](https://www.ndss-symposium.org/wp-content/uploads/2024-618-paper.pdf)
 * [2024-02-21, 18:52:43](https://lobste.rs/s/rtvp2u/useful_uses_cat) - [Useful Uses of cat](https://two-wrongs.com/useful-uses-of-cat)
@@ -14,7 +15,6 @@
 * [2024-02-21, 14:26:41](https://lobste.rs/s/ogqo7q/range_queries_with_badger) - [Range Queries with Badger](https://garrensmith.com/Databases/Range+queries+with+Badger)
 * [2024-02-21, 14:07:06](https://lobste.rs/s/mu2c6n/why_are_non_dry_specs_more_maintainable) - [Why are non-DRY specs more maintainable?](https://thedailydeveloper.substack.com/p/why-are-non-dry-specs-more-maintainable)
 * [2024-02-21, 12:10:54](https://lobste.rs/s/ikrg1i/three_states_plan_i_f_e_r) - [Three States and a Plan: The A.I. of F.E.A.R](https://www.gamedevs.org/uploads/three-states-plan-ai-of-fear.pdf)
-* [2024-02-21, 10:02:06](https://lobste.rs/s/enahmo/how_write_unit_tests_c_relying_on_non_code) - [How to write unit tests in C++ relying on non-code files?](https://www.sandordargo.com/blog/2024/02/21/cpp-tests-with-resources)
 * [2024-02-21, 08:59:45](https://lobste.rs/s/didunv/cake_c23_beyond) - [Cake - C23 and Beyond](http://thradams.com/cake/ownership.html)
 * [2024-02-21, 08:07:55](https://lobste.rs/s/jskssa/mmu_less_systems_fdpic) - [MMU-less systems and FDPIC](https://maskray.me/blog/2024-02-20-mmu-less-systems-and-fdpic)
 * [2024-02-21, 06:52:35](https://lobste.rs/s/hyh9ej/how_containers_work) - [How containers work](https://ikouchiha47.github.io/2024/02/05/how-containers-work.html)
