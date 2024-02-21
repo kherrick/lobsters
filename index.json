@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-21, 19:18:46",
+      "https://lobste.rs/s/z7tvmk/printlistener_uncovering"
+    ],
+    [
+      "PrintListener: Uncovering the Vulnerability of Fingerprint Authentication via the Finger Friction Sound",
+      "https://www.ndss-symposium.org/wp-content/uploads/2024-618-paper.pdf"
+    ]
+  ],
+  [
+    [
       "2024-02-21, 18:52:43",
       "https://lobste.rs/s/rtvp2u/useful_uses_cat"
     ],
@@ -227,16 +237,6 @@
     [
       "evil-nix: a Nix library to download files from the internet without requiring a hash",
       "https://github.com/cdepillabout/evil-nix"
-    ]
-  ],
-  [
-    [
-      "2024-02-20, 13:32:32",
-      "https://lobste.rs/s/ovxzr2/blazingly_fast_memory_vulnerabilities"
-    ],
-    [
-      "Blazingly fast memory vulnerabilities, written in safe Rust",
-      "https://github.com/Speykious/cve-rs"
     ]
   ],
   [
