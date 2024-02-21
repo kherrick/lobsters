@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-21, 17:39:25](https://lobste.rs/s/1utowa/fil_c_manifesto_garbage_memory_safety_out) - [The Fil-C Manifesto: Garbage In, Memory Safety Out](https://github.com/pizlonator/llvm-project-deluge/blob/deluge/Manifesto.md)
 * [2024-02-21, 16:00:58](https://lobste.rs/s/vplcmx/react_labs_what_we_ve_been_working_on) - [React Labs: What We've Been Working On](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)
 * [2024-02-21, 15:58:40](https://lobste.rs/s/kfxvui/tale_three_architectures) - [A tale of three architectures](https://daverupert.com/2024/02/three-architectures/)
 * [2024-02-21, 15:25:41](https://lobste.rs/s/rkqldb/what_modern_nvme_storage_can_do_how) - [What Modern NVMe Storage Can Do, And How To Exploit It: High-Performance I/O for High-Performance Storage Engines](https://www.vldb.org/pvldb/vol16/p2090-haas.pdf)
@@ -15,7 +16,6 @@
 * [2024-02-21, 08:07:55](https://lobste.rs/s/jskssa/mmu_less_systems_fdpic) - [MMU-less systems and FDPIC](https://maskray.me/blog/2024-02-20-mmu-less-systems-and-fdpic)
 * [2024-02-21, 06:52:35](https://lobste.rs/s/hyh9ej/how_containers_work) - [How containers work](https://ikouchiha47.github.io/2024/02/05/how-containers-work.html)
 * [2024-02-21, 03:31:12](https://lobste.rs/s/2a4fko/this_message_does_not_exist) - [This message does not exist](https://www.kmjn.org/notes/message_existence.html)
-* [2024-02-20, 23:00:40](https://lobste.rs/s/jcxf32/academics_steal_data_from_air_gapped) - [Academics steal data from air-gapped systems via a keyboard's LEDs (2019)](https://www.zdnet.com/article/academics-steal-data-from-air-gapped-systems-via-a-keyboards-leds/)
 * [2024-02-20, 21:25:25](https://lobste.rs/s/a8swbz/one_billion_rows_challenge_golang) - [One Billion Rows Challenge in Golang](https://www.bytesizego.com/blog/one-billion-row-challenge-go)
 * [2024-02-20, 21:19:15](https://lobste.rs/s/avu78j/exodus_bitcoin_wallet_490k_swindle) - [Exodus Bitcoin Wallet: $490K Swindle](https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/)
 * [2024-02-20, 20:21:29](https://lobste.rs/s/nqm47h/ssds_have_become_ridiculously_fast) - [SSDs Have Become Ridiculously Fast, Except in the Cloud](https://databasearchitects.blogspot.com/2024/02/ssds-have-become-ridiculously-fast.html)

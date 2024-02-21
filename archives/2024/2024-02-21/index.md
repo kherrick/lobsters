@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-21](index.md)
 
+* [2024-02-21, 17:39:25](https://lobste.rs/s/1utowa/fil_c_manifesto_garbage_memory_safety_out) - [The Fil-C Manifesto: Garbage In, Memory Safety Out](https://github.com/pizlonator/llvm-project-deluge/blob/deluge/Manifesto.md)
 * [2024-02-21, 16:00:58](https://lobste.rs/s/vplcmx/react_labs_what_we_ve_been_working_on) - [React Labs: What We've Been Working On](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)
 * [2024-02-21, 15:58:40](https://lobste.rs/s/kfxvui/tale_three_architectures) - [A tale of three architectures](https://daverupert.com/2024/02/three-architectures/)
 * [2024-02-21, 15:25:41](https://lobste.rs/s/rkqldb/what_modern_nvme_storage_can_do_how) - [What Modern NVMe Storage Can Do, And How To Exploit It: High-Performance I/O for High-Performance Storage Engines](https://www.vldb.org/pvldb/vol16/p2090-haas.pdf)
