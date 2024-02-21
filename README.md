@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-21, 04:42:12](https://lobste.rs/s/8tumsm/practical_guide_using_declarative) - [A practical guide to using declarative shadow DOM](https://www.mayank.co/blog/declarative-shadow-dom-guide/)
 * [2024-02-21, 03:31:12](https://lobste.rs/s/2a4fko/this_message_does_not_exist) - [This message does not exist](https://www.kmjn.org/notes/message_existence.html)
 * [2024-02-21, 00:50:42](https://lobste.rs/s/hiabs7/anatomy_whistleblowing_system) - [Anatomy of a whistleblowing system](https://securedrop.org/news/anatomy-of-a-whistleblowing-system/)
 * [2024-02-20, 23:00:40](https://lobste.rs/s/jcxf32/academics_steal_data_from_air_gapped) - [Academics steal data from air-gapped systems via a keyboard's LEDs](https://www.zdnet.com/article/academics-steal-data-from-air-gapped-systems-via-a-keyboards-leds/)
@@ -13,7 +14,6 @@
 * [2024-02-20, 17:29:03](https://lobste.rs/s/2xrigu/three_places_for_data_lsm) - [The Three Places for Data in an LSM](https://buttondown.email/jaffray/archive/the-three-places-for-data-in-an-lsm/)
 * [2024-02-20, 15:33:48](https://lobste.rs/s/ghaphp/evil_nix_nix_library_download_files_from) - [evil-nix: a Nix library to download files from the internet without requiring a hash](https://github.com/cdepillabout/evil-nix)
 * [2024-02-20, 15:24:57](https://lobste.rs/s/2jjg1j/writing_scheduler_for_linux_rust_runs) - [Writing a scheduler for Linux in Rust that runs in user-space](https://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html)
-* [2024-02-20, 15:21:59](https://lobste.rs/s/bp7s71/talks_andrew_godwin_reconciling) - [Talks - Andrew Godwin: Reconciling Everything](https://www.youtube.com/watch?v=MuK6lmsfX1E)
 * [2024-02-20, 13:32:32](https://lobste.rs/s/ovxzr2/blazingly_fast_memory_vulnerabilities) - [Blazingly fast memory vulnerabilities, written in safe Rust](https://github.com/Speykious/cve-rs)
 * [2024-02-20, 12:56:48](https://lobste.rs/s/v6zad0/try_x_y_minutes) - [Try X in Y minutes](https://codapi.org/try/)
 * [2024-02-20, 09:50:18](https://lobste.rs/s/gbtvqp/how_debug_your_initramfs_init) - [How to debug your initramfs init](https://linus.schreibt.jetzt/posts/debugging-pid1.html)
