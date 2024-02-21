@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-21, 15:25:41",
+      "https://lobste.rs/s/rkqldb/what_modern_nvme_storage_can_do_how"
+    ],
+    [
+      "What Modern NVMe Storage Can Do, And How To Exploit It: High-Performance I/O for High-Performance Storage Engines",
+      "https://www.vldb.org/pvldb/vol16/p2090-haas.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-02-21, 15:21:51",
+      "https://lobste.rs/s/sk7ghl/apple_ii_emulator_on_6809_coco3"
+    ],
+    [
+      "An Apple II emulator.  On a 6809 Coco3",
+      "https://github.com/dragonbytes/Apple2CoCo"
+    ]
+  ],
+  [
+    [
       "2024-02-21, 14:44:13",
       "https://lobste.rs/s/dox3p2/access_gemini_models_from_command_line"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-02-20, 15:24:57",
-      "https://lobste.rs/s/2jjg1j/writing_scheduler_for_linux_rust_runs"
-    ],
-    [
-      "Writing a scheduler for Linux in Rust that runs in user-space",
-      "https://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html"
-    ]
-  ],
-  [
-    [
       "2024-02-20, 13:32:32",
       "https://lobste.rs/s/ovxzr2/blazingly_fast_memory_vulnerabilities"
     ],
@@ -237,16 +247,6 @@
     [
       "How to debug your initramfs init",
       "https://linus.schreibt.jetzt/posts/debugging-pid1.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-20, 02:34:43",
-      "https://lobste.rs/s/aevptj/why_is_prettier_rock_solid"
-    ],
-    [
-      "Why is Prettier rock solid?",
-      "https://mrmr.io/til/prettier"
     ]
   ]
 ]
