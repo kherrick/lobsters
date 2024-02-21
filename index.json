@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-21, 19:23:23",
+      "https://lobste.rs/s/e7ipf7/killer_app_gemini_pro_1_5_is_video"
+    ],
+    [
+      "The killer app of Gemini Pro 1.5 is video",
+      "https://simonwillison.net/2024/Feb/21/gemini-pro-video/"
+    ]
+  ],
+  [
+    [
       "2024-02-21, 19:18:46",
       "https://lobste.rs/s/z7tvmk/printlistener_uncovering"
     ],
@@ -227,16 +237,6 @@
     [
       "Planner programming blows my mind",
       "https://www.hillelwayne.com/post/picat/"
-    ]
-  ],
-  [
-    [
-      "2024-02-20, 15:33:48",
-      "https://lobste.rs/s/ghaphp/evil_nix_nix_library_download_files_from"
-    ],
-    [
-      "evil-nix: a Nix library to download files from the internet without requiring a hash",
-      "https://github.com/cdepillabout/evil-nix"
     ]
   ],
   [
