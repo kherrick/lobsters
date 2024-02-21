@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-02-21, 20:46:15",
-      "https://lobste.rs/s/qahwtg/chatgpt_has_gone_berserk"
-    ],
-    [
-      "ChatGPT has gone berserk",
-      "https://garymarcus.substack.com/p/chatgpt-has-gone-berserk"
-    ]
-  ],
-  [
-    [
       "2024-02-21, 20:25:02",
       "https://lobste.rs/s/wifyy2/windows_2000_networking_shenanigans"
     ],
@@ -107,6 +97,16 @@
     [
       "What Modern NVMe Storage Can Do, And How To Exploit It: High-Performance I/O for High-Performance Storage Engines",
       "https://www.vldb.org/pvldb/vol16/p2090-haas.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-02-21, 14:44:13",
+      "https://lobste.rs/s/dox3p2/access_gemini_models_from_command_line"
+    ],
+    [
+      "Access Gemini models from the command-line",
+      "https://eli.thegreenplace.net/2024/gemini-cli-access-gemini-models-from-the-command-line/"
     ]
   ],
   [
