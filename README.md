@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-21, 20:25:02](https://lobste.rs/s/wifyy2/windows_2000_networking_shenanigans) - [Windows 2000 Networking Shenanigans Part 1: Getting the damn OS Installed](https://www.lilysthings.org/blog/win2k-networking-1/)
 * [2024-02-21, 20:01:16](https://lobste.rs/s/g8foew/oils_0_20_0_eggex_json_android) - [Oils 0.20.0 - Eggex, JSON, and Android](https://www.oilshell.org/blog/2024/02/release-0.20.0.html)
 * [2024-02-21, 19:23:23](https://lobste.rs/s/e7ipf7/killer_app_gemini_pro_1_5_is_video) - [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
 * [2024-02-21, 19:18:46](https://lobste.rs/s/z7tvmk/printlistener_uncovering) - [PrintListener: Uncovering the Vulnerability of Fingerprint Authentication via the Finger Friction Sound](https://www.ndss-symposium.org/wp-content/uploads/2024-618-paper.pdf)
@@ -22,7 +23,6 @@
 * [2024-02-20, 21:25:25](https://lobste.rs/s/a8swbz/one_billion_rows_challenge_golang) - [One Billion Rows Challenge in Golang](https://www.bytesizego.com/blog/one-billion-row-challenge-go)
 * [2024-02-20, 20:21:29](https://lobste.rs/s/nqm47h/ssds_have_become_ridiculously_fast) - [SSDs Have Become Ridiculously Fast, Except in the Cloud](https://databasearchitects.blogspot.com/2024/02/ssds-have-become-ridiculously-fast.html)
 * [2024-02-20, 19:50:33](https://lobste.rs/s/w8hjyd/if_you_re_just_going_sit_there_doing) - [If you're just going to sit there doing nothing, at least do nothing correctly](https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409)
-* [2024-02-20, 17:50:47](https://lobste.rs/s/e2aw1k/questioning_go_s_range_over_func_proposal) - [Questioning Go's range-over-func Proposal](https://rulmer.xyz/article/Questioning_Gos_range-over-func_Proposal.html)
 * [2024-02-20, 17:43:39](https://lobste.rs/s/eb8cgf/planner_programming_blows_my_mind) - [Planner programming blows my mind](https://www.hillelwayne.com/post/picat/)
 * [2024-02-20, 12:56:48](https://lobste.rs/s/v6zad0/try_x_y_minutes) - [Try X in Y minutes](https://codapi.org/try/)
 
