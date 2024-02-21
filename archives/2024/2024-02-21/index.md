@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-21](index.md)
 
+* [2024-02-21, 15:25:41](https://lobste.rs/s/rkqldb/what_modern_nvme_storage_can_do_how) - [What Modern NVMe Storage Can Do, And How To Exploit It: High-Performance I/O for High-Performance Storage Engines](https://www.vldb.org/pvldb/vol16/p2090-haas.pdf)
+* [2024-02-21, 15:21:51](https://lobste.rs/s/sk7ghl/apple_ii_emulator_on_6809_coco3) - [An Apple II emulator.  On a 6809 Coco3](https://github.com/dragonbytes/Apple2CoCo)
 * [2024-02-21, 14:44:13](https://lobste.rs/s/dox3p2/access_gemini_models_from_command_line) - [Access Gemini models from the command-line](https://eli.thegreenplace.net/2024/gemini-cli-access-gemini-models-from-the-command-line/)
 * [2024-02-21, 14:34:50](https://lobste.rs/s/aqj6eb/imessage_with_pq3_new_state_art_quantum) - [iMessage with PQ3: The new state of the art in quantum-secure messaging at scale](https://security.apple.com/blog/imessage-pq3/)
 * [2024-02-21, 14:28:49](https://lobste.rs/s/yoiyah/disputed_not_rejected) - [Disputed, not Rejected](https://daniel.haxx.se/blog/2024/02/21/disputed-not-rejected/)
