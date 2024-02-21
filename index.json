@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-02-21, 10:57:51",
+      "https://lobste.rs/s/gugdra/falsehoods_junior_developers_believe"
+    ],
+    [
+      "Falsehoods Junior Developers believe about becoming Senior",
+      "https://vadimkravcenko.com/shorts/falsehoods-junior-developers-believe-about-becoming-senior/"
+    ]
+  ],
+  [
+    [
       "2024-02-21, 10:02:06",
       "https://lobste.rs/s/enahmo/how_write_unit_tests_c_relying_on_non_code"
     ],
@@ -87,16 +97,6 @@
     [
       "Exodus Bitcoin Wallet: $490K Swindle",
       "https://popey.com/blog/2024/02/exodus-bitcoin-wallet-490k-swindle/"
-    ]
-  ],
-  [
-    [
-      "2024-02-20, 20:27:52",
-      "https://lobste.rs/s/ul5sq0/on_device_ml_research_with_mlx_swift"
-    ],
-    [
-      "On-device ML research with MLX and Swift",
-      "https://www.swift.org/blog/mlx-swift/"
     ]
   ],
   [
