@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-21, 20:56:44",
+      "https://lobste.rs/s/ccniep/software_defined_vhs_decoder"
+    ],
+    [
+      "Software defined VHS decoder",
+      "https://github.com/oyvindln/vhs-decode"
+    ]
+  ],
+  [
+    [
       "2024-02-21, 20:46:15",
       "https://lobste.rs/s/qahwtg/chatgpt_has_gone_berserk"
     ],
@@ -97,16 +107,6 @@
     [
       "What Modern NVMe Storage Can Do, And How To Exploit It: High-Performance I/O for High-Performance Storage Engines",
       "https://www.vldb.org/pvldb/vol16/p2090-haas.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-02-21, 15:21:51",
-      "https://lobste.rs/s/sk7ghl/apple_ii_emulator_on_6809_coco3"
-    ],
-    [
-      "An Apple II emulator.  On a 6809 Coco3",
-      "https://github.com/dragonbytes/Apple2CoCo"
     ]
   ],
   [
