@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-21, 14:07:06](https://lobste.rs/s/mu2c6n/why_are_non_dry_specs_more_maintainable) - [Why are non-DRY specs more maintainable?](https://thedailydeveloper.substack.com/p/why-are-non-dry-specs-more-maintainable)
 * [2024-02-21, 12:10:54](https://lobste.rs/s/ikrg1i/three_states_plan_i_f_e_r) - [Three States and a Plan: The A.I. of F.E.A.R](https://www.gamedevs.org/uploads/three-states-plan-ai-of-fear.pdf)
 * [2024-02-21, 10:57:51](https://lobste.rs/s/gugdra/falsehoods_junior_developers_believe) - [Falsehoods Junior Developers believe about becoming Senior](https://vadimkravcenko.com/shorts/falsehoods-junior-developers-believe-about-becoming-senior/)
 * [2024-02-21, 10:02:06](https://lobste.rs/s/enahmo/how_write_unit_tests_c_relying_on_non_code) - [How to write unit tests in C++ relying on non-code files?](https://www.sandordargo.com/blog/2024/02/21/cpp-tests-with-resources)
@@ -14,7 +15,6 @@
 * [2024-02-20, 19:50:33](https://lobste.rs/s/w8hjyd/if_you_re_just_going_sit_there_doing) - [If you're just going to sit there doing nothing, at least do nothing correctly](https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409)
 * [2024-02-20, 17:50:47](https://lobste.rs/s/e2aw1k/questioning_go_s_range_over_func_proposal) - [Questioning Go's range-over-func Proposal](https://rulmer.xyz/article/Questioning_Gos_range-over-func_Proposal.html)
 * [2024-02-20, 17:43:39](https://lobste.rs/s/eb8cgf/planner_programming_blows_my_mind) - [Planner programming blows my mind](https://www.hillelwayne.com/post/picat/)
-* [2024-02-20, 17:29:03](https://lobste.rs/s/2xrigu/three_places_for_data_lsm) - [The Three Places for Data in an LSM](https://buttondown.email/jaffray/archive/the-three-places-for-data-in-an-lsm/)
 * [2024-02-20, 16:53:11](https://lobste.rs/s/6k3vcb/measuring_energy_usage_regular_code_vs) - [Measuring energy usage: regular code vs. SIMD code](https://lemire.me/blog/2024/02/19/measuring-energy-usage-regular-code-vs-simd-code/)
 * [2024-02-20, 15:33:48](https://lobste.rs/s/ghaphp/evil_nix_nix_library_download_files_from) - [evil-nix: a Nix library to download files from the internet without requiring a hash](https://github.com/cdepillabout/evil-nix)
 * [2024-02-20, 15:24:57](https://lobste.rs/s/2jjg1j/writing_scheduler_for_linux_rust_runs) - [Writing a scheduler for Linux in Rust that runs in user-space](https://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html)
