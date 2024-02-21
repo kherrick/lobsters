@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-21](index.md)
 
+* [2024-02-21, 08:59:45](https://lobste.rs/s/didunv/cake_c23_beyond) - [Cake - C23 and Beyond](http://thradams.com/cake/ownership.html)
 * [2024-02-21, 08:07:55](https://lobste.rs/s/jskssa/mmu_less_systems_fdpic) - [MMU-less systems and FDPIC](https://maskray.me/blog/2024-02-20-mmu-less-systems-and-fdpic)
 * [2024-02-21, 06:52:35](https://lobste.rs/s/hyh9ej/how_containers_work) - [How containers work](https://ikouchiha47.github.io/2024/02/05/how-containers-work.html)
 * [2024-02-21, 05:00:05](https://lobste.rs/s/fqjl4d/cloud_scale_characterization_remote) - [A Cloud-Scale Characterization of Remote Procedure Calls](https://foci.uw.edu/papers/sosp23-rpc.pdf)

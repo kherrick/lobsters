@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-21, 08:59:45](https://lobste.rs/s/didunv/cake_c23_beyond) - [Cake - C23 and Beyond](http://thradams.com/cake/ownership.html)
 * [2024-02-21, 08:07:55](https://lobste.rs/s/jskssa/mmu_less_systems_fdpic) - [MMU-less systems and FDPIC](https://maskray.me/blog/2024-02-20-mmu-less-systems-and-fdpic)
 * [2024-02-21, 06:52:35](https://lobste.rs/s/hyh9ej/how_containers_work) - [How containers work](https://ikouchiha47.github.io/2024/02/05/how-containers-work.html)
 * [2024-02-21, 05:00:05](https://lobste.rs/s/fqjl4d/cloud_scale_characterization_remote) - [A Cloud-Scale Characterization of Remote Procedure Calls](https://foci.uw.edu/papers/sosp23-rpc.pdf)
@@ -23,7 +24,6 @@
 * [2024-02-20, 04:58:44](https://lobste.rs/s/in3yyd/mu_human_scale_computer) - [Mu: a human-scale computer](https://akkartik.github.io/mu/)
 * [2024-02-20, 02:34:43](https://lobste.rs/s/aevptj/why_is_prettier_rock_solid) - [Why is Prettier rock solid?](https://mrmr.io/til/prettier)
 * [2024-02-19, 19:46:35](https://lobste.rs/s/gwyglz/visual_interactive_guide_bloom_filters) - [A visual, interactive guide to bloom filters](https://samwho.dev/bloom-filters)
-* [2024-02-19, 16:14:14](https://lobste.rs/s/f2d9dd/htmz_low_power_tool_for_html) - [htmz - a low power tool for html](https://leanrada.com/htmz/)
 * [2024-02-19, 10:45:06](https://lobste.rs/s/5xfopz/things_you_can_do_on_your_personal_website) - [Things you can do on your personal website](https://jamesg.blog/2024/02/19/personal-website-ideas/)
 
 ## [Archives](archives/index.md)
