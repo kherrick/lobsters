@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-22, 21:42:21",
+      "https://lobste.rs/s/zd7nba/javascript_bloat_2024"
+    ],
+    [
+      "JavaScript Bloat in 2024",
+      "https://tonsky.me/blog/js-bloat/"
+    ]
+  ],
+  [
+    [
       "2024-02-22, 21:09:06",
       "https://lobste.rs/s/uhwdnk/openzfs_nvme_databases"
     ],
@@ -237,16 +247,6 @@
     [
       "This message does not exist",
       "https://www.kmjn.org/notes/message_existence.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-20, 17:43:39",
-      "https://lobste.rs/s/eb8cgf/planner_programming_blows_my_mind"
-    ],
-    [
-      "Planner programming blows my mind",
-      "https://www.hillelwayne.com/post/picat/"
     ]
   ]
 ]
