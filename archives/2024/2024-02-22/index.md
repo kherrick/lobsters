@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-22](index.md)
 
+* [2024-02-22, 18:09:46](https://lobste.rs/s/zlbaql/char_0_0_what_does_c_programmer_intend_with) - [*(char*)0 = 0; - What Does the C++ Programmer Intend With This Code?](https://www.youtube.com/watch?v=dFIqNZ8VbRY)
 * [2024-02-22, 14:59:08](https://lobste.rs/s/mgxxki/cyberbullying_gone_global_fediverse) - [Cyberbullying Gone Global: Fediverse Spam and Operation Beleaguer](https://blog.fyralabs.com/cyberbullying-gone-global-regarding-the-fediverse-spam-and-operation-beleaguer/)
 * [2024-02-22, 14:10:04](https://lobste.rs/s/ogsmxo/unification_free_keyword_type_checking) - [Unification-free (\"keyword\") type checking](https://www.haskellforall.com/2024/02/unification-free-keyword-type-checking.html)
 * [2024-02-22, 12:19:24](https://lobste.rs/s/hurio2/building_fly_io_like_scheduler) - [Building a Fly.io-like Scheduler](https://www.aspiring.dev/fly-io-scheduler-part-1/)

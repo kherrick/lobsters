@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-22, 18:09:46](https://lobste.rs/s/zlbaql/char_0_0_what_does_c_programmer_intend_with) - [*(char*)0 = 0; - What Does the C++ Programmer Intend With This Code?](https://www.youtube.com/watch?v=dFIqNZ8VbRY)
 * [2024-02-22, 14:59:08](https://lobste.rs/s/mgxxki/cyberbullying_gone_global_fediverse) - [Cyberbullying Gone Global: Fediverse Spam and Operation Beleaguer](https://blog.fyralabs.com/cyberbullying-gone-global-regarding-the-fediverse-spam-and-operation-beleaguer/)
 * [2024-02-22, 14:10:04](https://lobste.rs/s/ogsmxo/unification_free_keyword_type_checking) - [Unification-free (\"keyword\") type checking](https://www.haskellforall.com/2024/02/unification-free-keyword-type-checking.html)
 * [2024-02-22, 12:19:24](https://lobste.rs/s/hurio2/building_fly_io_like_scheduler) - [Building a Fly.io-like Scheduler](https://www.aspiring.dev/fly-io-scheduler-part-1/)
@@ -9,7 +10,6 @@
 * [2024-02-22, 08:58:31](https://lobste.rs/s/dtbswk/unexplanations_query_optimization) - [Unexplanations: query optimization works because sql is declarative](https://www.scattered-thoughts.net/writing/unexplanations-sql-declarative/)
 * [2024-02-22, 05:11:06](https://lobste.rs/s/3xtgfw/vintage_network_attack_called_smurf) - [A vintage network attack called smurf](https://rachelbythebay.com/w/2024/02/21/bcast/)
 * [2024-02-22, 02:43:46](https://lobste.rs/s/oafwex/voyager_1_s_lonely_death) - [Voyager 1’s Lonely Death](https://crookedtimber.org/2024/02/19/death-lonely-death/)
-* [2024-02-21, 21:26:31](https://lobste.rs/s/ku9kx9/mastering_c_with_google_benchmark_2022) - [Mastering C++ with Google Benchmark (2022)](https://ashvardanian.com/posts/google-benchmark/)
 * [2024-02-21, 21:14:37](https://lobste.rs/s/3iczca/gptscript_natural_language_programming) - [gptscript: Natural Language Programming](https://github.com/gptscript-ai/gptscript)
 * [2024-02-21, 20:56:44](https://lobste.rs/s/ccniep/software_defined_vhs_decoder) - [Software defined VHS decoder](https://github.com/oyvindln/vhs-decode)
 * [2024-02-21, 20:25:02](https://lobste.rs/s/wifyy2/windows_2000_networking_shenanigans) - [Windows 2000 Networking Shenanigans Part 1: Getting the damn OS Installed](https://www.lilysthings.org/blog/win2k-networking-1/)
