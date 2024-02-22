@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-22, 19:01:59",
+      "https://lobste.rs/s/edll1r/incredibly_simple_qr_generation_qml"
+    ],
+    [
+      "Incredibly Simple QR Generation in QML",
+      "https://www.kdab.com/incredibly-simple-qr-generation-in-qml/"
+    ]
+  ],
+  [
+    [
+      "2024-02-22, 18:54:37",
+      "https://lobste.rs/s/kyw2tp/bluesky_announces_data_federation_for"
+    ],
+    [
+      "Bluesky announces data federation for self hosters",
+      "https://bsky.social/about/blog/02-22-2024-open-social-web"
+    ]
+  ],
+  [
+    [
       "2024-02-22, 18:54:03",
       "https://lobste.rs/s/qbjtey/stable_diffusion_3"
     ],
@@ -177,26 +197,6 @@
     [
       "The Fil-C Manifesto: Garbage In, Memory Safety Out",
       "https://github.com/pizlonator/llvm-project-deluge/blob/deluge/Manifesto.md"
-    ]
-  ],
-  [
-    [
-      "2024-02-21, 16:00:58",
-      "https://lobste.rs/s/vplcmx/react_labs_what_we_ve_been_working_on"
-    ],
-    [
-      "React Labs: What We've Been Working On",
-      "https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024"
-    ]
-  ],
-  [
-    [
-      "2024-02-21, 15:25:41",
-      "https://lobste.rs/s/rkqldb/what_modern_nvme_storage_can_do_how"
-    ],
-    [
-      "What Modern NVMe Storage Can Do, And How To Exploit It: High-Performance I/O for High-Performance Storage Engines",
-      "https://www.vldb.org/pvldb/vol16/p2090-haas.pdf"
     ]
   ],
   [
