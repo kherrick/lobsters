@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-22, 02:43:46](https://lobste.rs/s/oafwex/voyager_1_s_lonely_death) - [Voyager 1’s Lonely Death](https://crookedtimber.org/2024/02/19/death-lonely-death/)
 * [2024-02-21, 21:26:31](https://lobste.rs/s/ku9kx9/mastering_c_with_google_benchmark_2022) - [Mastering C++ with Google Benchmark (2022)](https://ashvardanian.com/posts/google-benchmark/)
 * [2024-02-21, 21:14:37](https://lobste.rs/s/3iczca/gptscript_natural_language_programming) - [gptscript: Natural Language Programming](https://github.com/gptscript-ai/gptscript)
 * [2024-02-21, 20:56:44](https://lobste.rs/s/ccniep/software_defined_vhs_decoder) - [Software defined VHS decoder](https://github.com/oyvindln/vhs-decode)
@@ -21,7 +22,6 @@
 * [2024-02-21, 08:07:55](https://lobste.rs/s/jskssa/mmu_less_systems_fdpic) - [MMU-less systems and FDPIC](https://maskray.me/blog/2024-02-20-mmu-less-systems-and-fdpic)
 * [2024-02-21, 06:52:35](https://lobste.rs/s/hyh9ej/how_containers_work) - [How containers work](https://ikouchiha47.github.io/2024/02/05/how-containers-work.html)
 * [2024-02-21, 03:31:12](https://lobste.rs/s/2a4fko/this_message_does_not_exist) - [This message does not exist](https://www.kmjn.org/notes/message_existence.html)
-* [2024-02-20, 21:25:25](https://lobste.rs/s/a8swbz/one_billion_rows_challenge_golang) - [One Billion Rows Challenge in Golang](https://www.bytesizego.com/blog/one-billion-row-challenge-go)
 * [2024-02-20, 20:21:29](https://lobste.rs/s/nqm47h/ssds_have_become_ridiculously_fast) - [SSDs Have Become Ridiculously Fast, Except in the Cloud](https://databasearchitects.blogspot.com/2024/02/ssds-have-become-ridiculously-fast.html)
 * [2024-02-20, 19:50:33](https://lobste.rs/s/w8hjyd/if_you_re_just_going_sit_there_doing) - [If you're just going to sit there doing nothing, at least do nothing correctly](https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409)
 * [2024-02-20, 17:43:39](https://lobste.rs/s/eb8cgf/planner_programming_blows_my_mind) - [Planner programming blows my mind](https://www.hillelwayne.com/post/picat/)
