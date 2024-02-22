@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-22](index.md)
 
+* [2024-02-22, 21:09:06](https://lobste.rs/s/uhwdnk/openzfs_nvme_databases) - [openzfs-nvme-databases](https://github.com/letsencrypt/openzfs-nvme-databases)
 * [2024-02-22, 19:15:39](https://lobste.rs/s/oeh7ry/compiler_theory_reactivity) - [Compiler Theory and Reactivity](https://www.recompiled.dev/blog/ssa/)
 * [2024-02-22, 19:01:59](https://lobste.rs/s/edll1r/incredibly_simple_qr_generation_qml) - [Incredibly Simple QR Generation in QML](https://www.kdab.com/incredibly-simple-qr-generation-in-qml/)
 * [2024-02-22, 18:54:37](https://lobste.rs/s/kyw2tp/bluesky_announces_data_federation_for) - [Bluesky announces data federation for self hosters](https://bsky.social/about/blog/02-22-2024-open-social-web)

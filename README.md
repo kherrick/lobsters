@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-22, 21:09:06](https://lobste.rs/s/uhwdnk/openzfs_nvme_databases) - [openzfs-nvme-databases](https://github.com/letsencrypt/openzfs-nvme-databases)
 * [2024-02-22, 19:15:39](https://lobste.rs/s/oeh7ry/compiler_theory_reactivity) - [Compiler Theory and Reactivity](https://www.recompiled.dev/blog/ssa/)
 * [2024-02-22, 19:01:59](https://lobste.rs/s/edll1r/incredibly_simple_qr_generation_qml) - [Incredibly Simple QR Generation in QML](https://www.kdab.com/incredibly-simple-qr-generation-in-qml/)
 * [2024-02-22, 18:54:03](https://lobste.rs/s/qbjtey/stable_diffusion_3) - [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)
@@ -24,7 +25,6 @@
 * [2024-02-21, 14:28:49](https://lobste.rs/s/yoiyah/disputed_not_rejected) - [Disputed, not Rejected](https://daniel.haxx.se/blog/2024/02/21/disputed-not-rejected/)
 * [2024-02-21, 14:07:06](https://lobste.rs/s/mu2c6n/why_are_non_dry_specs_more_maintainable) - [Why are non-DRY specs more maintainable?](https://thedailydeveloper.substack.com/p/why-are-non-dry-specs-more-maintainable)
 * [2024-02-21, 03:31:12](https://lobste.rs/s/2a4fko/this_message_does_not_exist) - [This message does not exist](https://www.kmjn.org/notes/message_existence.html)
-* [2024-02-20, 17:43:39](https://lobste.rs/s/eb8cgf/planner_programming_blows_my_mind) - [Planner programming blows my mind](https://www.hillelwayne.com/post/picat/)
 
 ## [Archives](archives/index.md)
 
