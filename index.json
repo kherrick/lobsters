@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-22, 14:10:04",
+      "https://lobste.rs/s/ogsmxo/unification_free_keyword_type_checking"
+    ],
+    [
+      "Unification-free (\"keyword\") type checking",
+      "https://www.haskellforall.com/2024/02/unification-free-keyword-type-checking.html"
+    ]
+  ],
+  [
+    [
       "2024-02-22, 12:19:24",
       "https://lobste.rs/s/hurio2/building_fly_io_like_scheduler"
     ],
@@ -167,16 +177,6 @@
     [
       "What Modern NVMe Storage Can Do, And How To Exploit It: High-Performance I/O for High-Performance Storage Engines",
       "https://www.vldb.org/pvldb/vol16/p2090-haas.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-02-21, 15:21:51",
-      "https://lobste.rs/s/sk7ghl/apple_ii_emulator_on_6809_coco3"
-    ],
-    [
-      "An Apple II emulator.  On a 6809 Coco3",
-      "https://github.com/dragonbytes/Apple2CoCo"
     ]
   ],
   [
