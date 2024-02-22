@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-22](index.md)
 
+* [2024-02-22, 21:42:21](https://lobste.rs/s/zd7nba/javascript_bloat_2024) - [JavaScript Bloat in 2024](https://tonsky.me/blog/js-bloat/)
 * [2024-02-22, 21:09:06](https://lobste.rs/s/uhwdnk/openzfs_nvme_databases) - [openzfs-nvme-databases](https://github.com/letsencrypt/openzfs-nvme-databases)
 * [2024-02-22, 19:15:39](https://lobste.rs/s/oeh7ry/compiler_theory_reactivity) - [Compiler Theory and Reactivity](https://www.recompiled.dev/blog/ssa/)
 * [2024-02-22, 19:01:59](https://lobste.rs/s/edll1r/incredibly_simple_qr_generation_qml) - [Incredibly Simple QR Generation in QML](https://www.kdab.com/incredibly-simple-qr-generation-in-qml/)
