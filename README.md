@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-22, 19:01:59](https://lobste.rs/s/edll1r/incredibly_simple_qr_generation_qml) - [Incredibly Simple QR Generation in QML](https://www.kdab.com/incredibly-simple-qr-generation-in-qml/)
+* [2024-02-22, 18:54:37](https://lobste.rs/s/kyw2tp/bluesky_announces_data_federation_for) - [Bluesky announces data federation for self hosters](https://bsky.social/about/blog/02-22-2024-open-social-web)
 * [2024-02-22, 18:54:03](https://lobste.rs/s/qbjtey/stable_diffusion_3) - [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)
 * [2024-02-22, 18:46:00](https://lobste.rs/s/ggviq0/feeding_hungry_mouse_using_chromedp) - [Feeding a Hungry Mouse Using Chromedp and Golang](https://pacenthink.io/post/feeding-a-hungry-mouse-using-chromedp-and-golang/)
 * [2024-02-22, 18:09:46](https://lobste.rs/s/zlbaql/char_0_0_what_does_c_programmer_intend_with) - [*(char*)0 = 0; - What Does the C++ Programmer Intend With This Code?](https://www.youtube.com/watch?v=dFIqNZ8VbRY)
@@ -18,8 +20,6 @@
 * [2024-02-21, 19:23:23](https://lobste.rs/s/e7ipf7/killer_app_gemini_pro_1_5_is_video) - [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
 * [2024-02-21, 18:52:43](https://lobste.rs/s/rtvp2u/useful_uses_cat) - [Useful Uses of cat](https://two-wrongs.com/useful-uses-of-cat)
 * [2024-02-21, 17:39:25](https://lobste.rs/s/1utowa/fil_c_manifesto_garbage_memory_safety_out) - [The Fil-C Manifesto: Garbage In, Memory Safety Out](https://github.com/pizlonator/llvm-project-deluge/blob/deluge/Manifesto.md)
-* [2024-02-21, 16:00:58](https://lobste.rs/s/vplcmx/react_labs_what_we_ve_been_working_on) - [React Labs: What We've Been Working On](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)
-* [2024-02-21, 15:25:41](https://lobste.rs/s/rkqldb/what_modern_nvme_storage_can_do_how) - [What Modern NVMe Storage Can Do, And How To Exploit It: High-Performance I/O for High-Performance Storage Engines](https://www.vldb.org/pvldb/vol16/p2090-haas.pdf)
 * [2024-02-21, 14:34:50](https://lobste.rs/s/aqj6eb/imessage_with_pq3_new_state_art_quantum) - [iMessage with PQ3: The new state of the art in quantum-secure messaging at scale](https://security.apple.com/blog/imessage-pq3/)
 * [2024-02-21, 14:28:49](https://lobste.rs/s/yoiyah/disputed_not_rejected) - [Disputed, not Rejected](https://daniel.haxx.se/blog/2024/02/21/disputed-not-rejected/)
 * [2024-02-21, 14:07:06](https://lobste.rs/s/mu2c6n/why_are_non_dry_specs_more_maintainable) - [Why are non-DRY specs more maintainable?](https://thedailydeveloper.substack.com/p/why-are-non-dry-specs-more-maintainable)
