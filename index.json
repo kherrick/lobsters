@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-22, 10:07:30",
+      "https://lobste.rs/s/ts7lrt/typefunc_resources_for_type_theory"
+    ],
+    [
+      "TypeFunc: Resources for type theory, functional programming, etc",
+      "https://github.com/williamdemeo/TypeFunc"
+    ]
+  ],
+  [
+    [
       "2024-02-22, 09:19:37",
       "https://lobste.rs/s/pxpapm/build_your_own_database_index_part_1"
     ],
@@ -227,16 +237,6 @@
     [
       "This message does not exist",
       "https://www.kmjn.org/notes/message_existence.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-20, 19:50:33",
-      "https://lobste.rs/s/w8hjyd/if_you_re_just_going_sit_there_doing"
-    ],
-    [
-      "If you're just going to sit there doing nothing, at least do nothing correctly",
-      "https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409"
     ]
   ],
   [
