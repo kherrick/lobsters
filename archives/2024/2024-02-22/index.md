@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-22](index.md)
 
+* [2024-02-22, 18:54:03](https://lobste.rs/s/qbjtey/stable_diffusion_3) - [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)
 * [2024-02-22, 18:46:00](https://lobste.rs/s/ggviq0/feeding_hungry_mouse_using_chromedp) - [Feeding a Hungry Mouse Using Chromedp and Golang](https://pacenthink.io/post/feeding-a-hungry-mouse-using-chromedp-and-golang/)
 * [2024-02-22, 18:09:46](https://lobste.rs/s/zlbaql/char_0_0_what_does_c_programmer_intend_with) - [*(char*)0 = 0; - What Does the C++ Programmer Intend With This Code?](https://www.youtube.com/watch?v=dFIqNZ8VbRY)
 * [2024-02-22, 14:59:08](https://lobste.rs/s/mgxxki/cyberbullying_gone_global_fediverse) - [Cyberbullying Gone Global: Fediverse Spam and Operation Beleaguer](https://blog.fyralabs.com/cyberbullying-gone-global-regarding-the-fediverse-spam-and-operation-beleaguer/)

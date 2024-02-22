@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-22, 18:54:03](https://lobste.rs/s/qbjtey/stable_diffusion_3) - [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)
 * [2024-02-22, 18:46:00](https://lobste.rs/s/ggviq0/feeding_hungry_mouse_using_chromedp) - [Feeding a Hungry Mouse Using Chromedp and Golang](https://pacenthink.io/post/feeding-a-hungry-mouse-using-chromedp-and-golang/)
 * [2024-02-22, 18:09:46](https://lobste.rs/s/zlbaql/char_0_0_what_does_c_programmer_intend_with) - [*(char*)0 = 0; - What Does the C++ Programmer Intend With This Code?](https://www.youtube.com/watch?v=dFIqNZ8VbRY)
 * [2024-02-22, 14:59:08](https://lobste.rs/s/mgxxki/cyberbullying_gone_global_fediverse) - [Cyberbullying Gone Global: Fediverse Spam and Operation Beleaguer](https://blog.fyralabs.com/cyberbullying-gone-global-regarding-the-fediverse-spam-and-operation-beleaguer/)
@@ -11,7 +12,6 @@
 * [2024-02-22, 08:58:31](https://lobste.rs/s/dtbswk/unexplanations_query_optimization) - [Unexplanations: query optimization works because sql is declarative](https://www.scattered-thoughts.net/writing/unexplanations-sql-declarative/)
 * [2024-02-22, 05:11:06](https://lobste.rs/s/3xtgfw/vintage_network_attack_called_smurf) - [A vintage network attack called smurf](https://rachelbythebay.com/w/2024/02/21/bcast/)
 * [2024-02-22, 02:43:46](https://lobste.rs/s/oafwex/voyager_1_s_lonely_death) - [Voyager 1’s Lonely Death](https://crookedtimber.org/2024/02/19/death-lonely-death/)
-* [2024-02-21, 21:14:37](https://lobste.rs/s/3iczca/gptscript_natural_language_programming) - [gptscript: Natural Language Programming](https://github.com/gptscript-ai/gptscript)
 * [2024-02-21, 20:56:44](https://lobste.rs/s/ccniep/software_defined_vhs_decoder) - [Software defined VHS decoder](https://github.com/oyvindln/vhs-decode)
 * [2024-02-21, 20:25:02](https://lobste.rs/s/wifyy2/windows_2000_networking_shenanigans) - [Windows 2000 Networking Shenanigans Part 1: Getting the damn OS Installed](https://www.lilysthings.org/blog/win2k-networking-1/)
 * [2024-02-21, 20:01:16](https://lobste.rs/s/g8foew/oils_0_20_0_eggex_json_android) - [Oils 0.20.0 - Eggex, JSON, and Android](https://www.oilshell.org/blog/2024/02/release-0.20.0.html)
