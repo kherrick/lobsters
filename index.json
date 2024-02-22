@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-22, 18:09:46",
+      "https://lobste.rs/s/zlbaql/char_0_0_what_does_c_programmer_intend_with"
+    ],
+    [
+      "*(char*)0 = 0; - What Does the C++ Programmer Intend With This Code?",
+      "https://www.youtube.com/watch?v=dFIqNZ8VbRY"
+    ]
+  ],
+  [
+    [
       "2024-02-22, 14:59:08",
       "https://lobste.rs/s/mgxxki/cyberbullying_gone_global_fediverse"
     ],
@@ -87,16 +97,6 @@
     [
       "Voyager 1’s Lonely Death",
       "https://crookedtimber.org/2024/02/19/death-lonely-death/"
-    ]
-  ],
-  [
-    [
-      "2024-02-21, 21:26:31",
-      "https://lobste.rs/s/ku9kx9/mastering_c_with_google_benchmark_2022"
-    ],
-    [
-      "Mastering C++ with Google Benchmark (2022)",
-      "https://ashvardanian.com/posts/google-benchmark/"
     ]
   ],
   [
