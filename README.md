@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-22, 09:19:37](https://lobste.rs/s/pxpapm/build_your_own_database_index_part_1) - [Build your own Database Index: part 1](https://dx13.co.uk/articles/2023/12/02/byo-index-pt1/)
 * [2024-02-22, 08:58:31](https://lobste.rs/s/dtbswk/unexplanations_query_optimization) - [Unexplanations: query optimization works because sql is declarative](https://www.scattered-thoughts.net/writing/unexplanations-sql-declarative/)
 * [2024-02-22, 05:11:06](https://lobste.rs/s/3xtgfw/vintage_network_attack_called_smurf) - [A vintage network attack called smurf](https://rachelbythebay.com/w/2024/02/21/bcast/)
 * [2024-02-22, 02:43:46](https://lobste.rs/s/oafwex/voyager_1_s_lonely_death) - [Voyager 1’s Lonely Death](https://crookedtimber.org/2024/02/19/death-lonely-death/)
@@ -22,7 +23,6 @@
 * [2024-02-21, 12:10:54](https://lobste.rs/s/ikrg1i/three_states_plan_i_f_e_r) - [Three States and a Plan: The A.I. of F.E.A.R](https://www.gamedevs.org/uploads/three-states-plan-ai-of-fear.pdf)
 * [2024-02-21, 08:59:45](https://lobste.rs/s/didunv/cake_c23_beyond) - [Cake - C23 and Beyond](http://thradams.com/cake/ownership.html)
 * [2024-02-21, 03:31:12](https://lobste.rs/s/2a4fko/this_message_does_not_exist) - [This message does not exist](https://www.kmjn.org/notes/message_existence.html)
-* [2024-02-20, 20:21:29](https://lobste.rs/s/nqm47h/ssds_have_become_ridiculously_fast) - [SSDs Have Become Ridiculously Fast, Except in the Cloud](https://databasearchitects.blogspot.com/2024/02/ssds-have-become-ridiculously-fast.html)
 * [2024-02-20, 19:50:33](https://lobste.rs/s/w8hjyd/if_you_re_just_going_sit_there_doing) - [If you're just going to sit there doing nothing, at least do nothing correctly](https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409)
 * [2024-02-20, 17:43:39](https://lobste.rs/s/eb8cgf/planner_programming_blows_my_mind) - [Planner programming blows my mind](https://www.hillelwayne.com/post/picat/)
 
