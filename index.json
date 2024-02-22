@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-22, 23:21:03",
+      "https://lobste.rs/s/lngkdo/robust_generic_functions_on_slices"
+    ],
+    [
+      "Robust generic functions on slices",
+      "https://go.dev/blog/generic-slice-functions"
+    ]
+  ],
+  [
+    [
       "2024-02-22, 22:16:10",
       "https://lobste.rs/s/mqwlew/unlocking_secret_thinkpad"
     ],
@@ -107,16 +117,6 @@
     [
       "TypeFunc: Resources for type theory, functional programming, etc",
       "https://github.com/williamdemeo/TypeFunc"
-    ]
-  ],
-  [
-    [
-      "2024-02-22, 09:19:37",
-      "https://lobste.rs/s/pxpapm/build_your_own_database_index_part_1"
-    ],
-    [
-      "Build your own Database Index: part 1",
-      "https://dx13.co.uk/articles/2023/12/02/byo-index-pt1/"
     ]
   ],
   [
