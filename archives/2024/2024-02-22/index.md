@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-22](index.md)
 
+* [2024-02-22, 14:10:04](https://lobste.rs/s/ogsmxo/unification_free_keyword_type_checking) - [Unification-free (\"keyword\") type checking](https://www.haskellforall.com/2024/02/unification-free-keyword-type-checking.html)
 * [2024-02-22, 12:19:24](https://lobste.rs/s/hurio2/building_fly_io_like_scheduler) - [Building a Fly.io-like Scheduler](https://www.aspiring.dev/fly-io-scheduler-part-1/)
 * [2024-02-22, 10:57:27](https://lobste.rs/s/mk9kwb/rocher_color_making_variable_color_font) - [Rocher Color: making a variable color font](https://www.harbortype.com/rocher-color-making-a-variable-color-font/)
 * [2024-02-22, 10:07:30](https://lobste.rs/s/ts7lrt/typefunc_resources_for_type_theory) - [TypeFunc: Resources for type theory, functional programming, etc](https://github.com/williamdemeo/TypeFunc)
