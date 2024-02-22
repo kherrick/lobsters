@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-22, 12:19:24](https://lobste.rs/s/hurio2/building_fly_io_like_scheduler) - [Building a Fly.io-like Scheduler](https://www.aspiring.dev/fly-io-scheduler-part-1/)
 * [2024-02-22, 10:57:27](https://lobste.rs/s/mk9kwb/rocher_color_making_variable_color_font) - [Rocher Color: making a variable color font](https://www.harbortype.com/rocher-color-making-a-variable-color-font/)
 * [2024-02-22, 10:07:30](https://lobste.rs/s/ts7lrt/typefunc_resources_for_type_theory) - [TypeFunc: Resources for type theory, functional programming, etc](https://github.com/williamdemeo/TypeFunc)
 * [2024-02-22, 09:19:37](https://lobste.rs/s/pxpapm/build_your_own_database_index_part_1) - [Build your own Database Index: part 1](https://dx13.co.uk/articles/2023/12/02/byo-index-pt1/)
@@ -15,7 +16,6 @@
 * [2024-02-21, 18:52:43](https://lobste.rs/s/rtvp2u/useful_uses_cat) - [Useful Uses of cat](https://two-wrongs.com/useful-uses-of-cat)
 * [2024-02-21, 17:39:25](https://lobste.rs/s/1utowa/fil_c_manifesto_garbage_memory_safety_out) - [The Fil-C Manifesto: Garbage In, Memory Safety Out](https://github.com/pizlonator/llvm-project-deluge/blob/deluge/Manifesto.md)
 * [2024-02-21, 16:00:58](https://lobste.rs/s/vplcmx/react_labs_what_we_ve_been_working_on) - [React Labs: What We've Been Working On](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)
-* [2024-02-21, 15:58:40](https://lobste.rs/s/kfxvui/tale_three_architectures) - [A tale of three architectures](https://daverupert.com/2024/02/three-architectures/)
 * [2024-02-21, 15:25:41](https://lobste.rs/s/rkqldb/what_modern_nvme_storage_can_do_how) - [What Modern NVMe Storage Can Do, And How To Exploit It: High-Performance I/O for High-Performance Storage Engines](https://www.vldb.org/pvldb/vol16/p2090-haas.pdf)
 * [2024-02-21, 15:21:51](https://lobste.rs/s/sk7ghl/apple_ii_emulator_on_6809_coco3) - [An Apple II emulator.  On a 6809 Coco3](https://github.com/dragonbytes/Apple2CoCo)
 * [2024-02-21, 14:34:50](https://lobste.rs/s/aqj6eb/imessage_with_pq3_new_state_art_quantum) - [iMessage with PQ3: The new state of the art in quantum-secure messaging at scale](https://security.apple.com/blog/imessage-pq3/)
