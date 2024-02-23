@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-23, 21:28:30](https://lobste.rs/s/mdvuyq/git_tips_3_really_large_repositories) - [Git Tips 3: Really Large Repositories](https://blog.gitbutler.com/git-tips-3-really-large-repositories/)
 * [2024-02-23, 20:33:00](https://lobste.rs/s/fxbaoj/cycles_all_way_down) - [Cycles all the way down](https://coredumped.dev/2024/02/23/cycles-all-way-down/)
 * [2024-02-23, 20:20:40](https://lobste.rs/s/gpiiax/dynamic_bindings_more) - [Dynamic bindings and more](https://jank-lang.org/blog/2024-02-23-bindings/)
 * [2024-02-23, 19:07:26](https://lobste.rs/s/khugml/how_make_self_hosted_maps_work_everywhere) - [How to make self-hosted maps that work everywhere and cost next to nothing](https://www.muckrock.com/news/archives/2024/feb/13/release-notes-how-to-make-self-hosted-maps-that-work-everywhere-cost-next-to-nothing-and-might-even-work-in-airplane-mode/)
@@ -21,7 +22,6 @@
 * [2024-02-23, 03:06:14](https://lobste.rs/s/r8kylf/go_2016_2019_my_transition_into) - [Go 2016-2019: My transition into management](https://ajmani.net/2024/02/22/go-2016-2019/)
 * [2024-02-22, 22:16:10](https://lobste.rs/s/mqwlew/unlocking_secret_thinkpad) - [Unlocking secret ThinkPad functionality for emulating USB devices](https://xairy.io/articles/thinkpad-xdci)
 * [2024-02-22, 21:42:21](https://lobste.rs/s/zd7nba/javascript_bloat_2024) - [JavaScript Bloat in 2024](https://tonsky.me/blog/js-bloat/)
-* [2024-02-22, 14:59:08](https://lobste.rs/s/mgxxki/cyberbullying_gone_global_fediverse) - [Cyberbullying Gone Global: Fediverse Spam and Operation Beleaguer](https://blog.fyralabs.com/cyberbullying-gone-global-regarding-the-fediverse-spam-and-operation-beleaguer/)
 * [2024-02-22, 14:10:04](https://lobste.rs/s/ogsmxo/unification_free_keyword_type_checking) - [Unification-free (\"keyword\") type checking](https://www.haskellforall.com/2024/02/unification-free-keyword-type-checking.html)
 * [2024-02-22, 08:58:31](https://lobste.rs/s/dtbswk/unexplanations_query_optimization) - [Unexplanations: query optimization works because sql is declarative](https://www.scattered-thoughts.net/writing/unexplanations-sql-declarative/)
 * [2024-02-22, 02:43:46](https://lobste.rs/s/oafwex/voyager_1_s_lonely_death) - [Voyager 1’s Lonely Death](https://crookedtimber.org/2024/02/19/death-lonely-death/)
