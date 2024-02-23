@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
+* [2024-02-23, 13:30:57](https://lobste.rs/s/b3ahkj/why_my_code_isn_t_typescript) - [Why my code isn't in TypeScript](https://remysharp.com/2024/02/23/why-my-code-isnt-in-typescript)
 * [2024-02-23, 11:31:20](https://lobste.rs/s/fcwczk/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/fcwczk/what_are_you_doing_this_weekend)
 * [2024-02-23, 11:29:49](https://lobste.rs/s/azii4m/thanks_fedex_this_is_why_we_keep_getting) - [Thanks FedEx, This is Why we Keep Getting Phished](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
 * [2024-02-23, 11:02:36](https://lobste.rs/s/jslbix/java_ffi_vs_jni_for_meta_s_rocksdb_java_api) - [Java FFI vs JNI for Meta's RocksDB Java API](https://rocksdb.org/blog/2024/02/20/foreign-function-interface.html)

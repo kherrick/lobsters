@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-23, 13:30:57](https://lobste.rs/s/b3ahkj/why_my_code_isn_t_typescript) - [Why my code isn't in TypeScript](https://remysharp.com/2024/02/23/why-my-code-isnt-in-typescript)
 * [2024-02-23, 11:31:20](https://lobste.rs/s/fcwczk/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/fcwczk/what_are_you_doing_this_weekend)
 * [2024-02-23, 11:29:49](https://lobste.rs/s/azii4m/thanks_fedex_this_is_why_we_keep_getting) - [Thanks FedEx, This is Why we Keep Getting Phished](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
 * [2024-02-23, 11:02:36](https://lobste.rs/s/jslbix/java_ffi_vs_jni_for_meta_s_rocksdb_java_api) - [Java FFI vs JNI for Meta's RocksDB Java API](https://rocksdb.org/blog/2024/02/20/foreign-function-interface.html)
@@ -14,7 +15,7 @@
 * [2024-02-22, 21:42:21](https://lobste.rs/s/zd7nba/javascript_bloat_2024) - [JavaScript Bloat in 2024](https://tonsky.me/blog/js-bloat/)
 * [2024-02-22, 21:09:06](https://lobste.rs/s/uhwdnk/openzfs_nvme_databases) - [openzfs-nvme-databases](https://github.com/letsencrypt/openzfs-nvme-databases)
 * [2024-02-22, 19:15:39](https://lobste.rs/s/oeh7ry/compiler_theory_reactivity) - [Compiler Theory and Reactivity](https://www.recompiled.dev/blog/ssa/)
-* [2024-02-22, 18:54:03](https://lobste.rs/s/qbjtey/stable_diffusion_3) - [Stable Diffusion 3](https://stability.ai/news/stable-diffusion-3)
+* [2024-02-22, 19:01:59](https://lobste.rs/s/edll1r/incredibly_simple_qr_generation_qml) - [Incredibly Simple QR Generation in QML](https://www.kdab.com/incredibly-simple-qr-generation-in-qml/)
 * [2024-02-22, 18:09:46](https://lobste.rs/s/zlbaql/char_0_0_what_does_c_programmer_intend_with) - [*(char*)0 = 0; - What Does the C++ Programmer Intend With This Code?](https://www.youtube.com/watch?v=dFIqNZ8VbRY)
 * [2024-02-22, 14:59:08](https://lobste.rs/s/mgxxki/cyberbullying_gone_global_fediverse) - [Cyberbullying Gone Global: Fediverse Spam and Operation Beleaguer](https://blog.fyralabs.com/cyberbullying-gone-global-regarding-the-fediverse-spam-and-operation-beleaguer/)
 * [2024-02-22, 14:10:04](https://lobste.rs/s/ogsmxo/unification_free_keyword_type_checking) - [Unification-free (\"keyword\") type checking](https://www.haskellforall.com/2024/02/unification-free-keyword-type-checking.html)
@@ -24,7 +25,6 @@
 * [2024-02-22, 02:43:46](https://lobste.rs/s/oafwex/voyager_1_s_lonely_death) - [Voyager 1’s Lonely Death](https://crookedtimber.org/2024/02/19/death-lonely-death/)
 * [2024-02-21, 19:23:23](https://lobste.rs/s/e7ipf7/killer_app_gemini_pro_1_5_is_video) - [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
 * [2024-02-21, 18:52:43](https://lobste.rs/s/rtvp2u/useful_uses_cat) - [Useful Uses of cat](https://two-wrongs.com/useful-uses-of-cat)
-* [2024-02-21, 14:28:49](https://lobste.rs/s/yoiyah/disputed_not_rejected) - [Disputed, not Rejected](https://daniel.haxx.se/blog/2024/02/21/disputed-not-rejected/)
 
 ## [Archives](archives/index.md)
 
