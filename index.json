@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-23, 10:24:30",
+      "https://lobste.rs/s/9xtcun/complex_systems_bridging_between_spec"
+    ],
+    [
+      "Complex systems and bridging between spec and implementation",
+      "https://lobste.rs/s/9xtcun/complex_systems_bridging_between_spec"
+    ]
+  ],
+  [
+    [
+      "2024-02-23, 10:19:20",
+      "https://lobste.rs/s/oxlnqg/python_dependencies_are_fixable"
+    ],
+    [
+      "Python Dependencies Are Fixable",
+      "https://matduggan.com/everyone-is-wrong-but-you/"
+    ]
+  ],
+  [
+    [
       "2024-02-23, 08:48:29",
       "https://lobste.rs/s/1ll4du/experiences_with_building_gentoo"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-02-21, 17:39:25",
-      "https://lobste.rs/s/1utowa/fil_c_manifesto_garbage_memory_safety_out"
-    ],
-    [
-      "The Fil-C Manifesto: Garbage In, Memory Safety Out",
-      "https://github.com/pizlonator/llvm-project-deluge/blob/deluge/Manifesto.md"
-    ]
-  ],
-  [
-    [
       "2024-02-21, 14:28:49",
       "https://lobste.rs/s/yoiyah/disputed_not_rejected"
     ],
@@ -237,16 +247,6 @@
     [
       "Why are non-DRY specs more maintainable?",
       "https://thedailydeveloper.substack.com/p/why-are-non-dry-specs-more-maintainable"
-    ]
-  ],
-  [
-    [
-      "2024-02-21, 03:31:12",
-      "https://lobste.rs/s/2a4fko/this_message_does_not_exist"
-    ],
-    [
-      "This message does not exist",
-      "https://www.kmjn.org/notes/message_existence.html"
     ]
   ]
 ]
