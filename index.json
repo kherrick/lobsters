@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-02-23, 15:26:43",
+      "https://lobste.rs/s/j9prdc/pipeline_oriented_programming_2019"
+    ],
+    [
+      "Pipeline-oriented Programming (2019)",
+      "https://fsharpforfunandprofit.com/pipeline/"
+    ]
+  ],
+  [
+    [
       "2024-02-23, 15:02:54",
       "https://lobste.rs/s/dghv8d/please_make_your_table_headings_sticky"
     ],
@@ -207,16 +217,6 @@
     [
       "Unification-free (\"keyword\") type checking",
       "https://www.haskellforall.com/2024/02/unification-free-keyword-type-checking.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-22, 12:19:24",
-      "https://lobste.rs/s/hurio2/building_fly_io_like_scheduler"
-    ],
-    [
-      "Building a Fly.io-like Scheduler",
-      "https://www.aspiring.dev/fly-io-scheduler-part-1/"
     ]
   ],
   [
