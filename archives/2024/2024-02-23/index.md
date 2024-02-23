@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
+* [2024-02-23, 19:07:26](https://lobste.rs/s/khugml/how_make_self_hosted_maps_work_everywhere) - [How to make self-hosted maps that work everywhere and cost next to nothing](https://www.muckrock.com/news/archives/2024/feb/13/release-notes-how-to-make-self-hosted-maps-that-work-everywhere-cost-next-to-nothing-and-might-even-work-in-airplane-mode/)
 * [2024-02-23, 18:46:44](https://lobste.rs/s/y2xpov/after_14_years_industry_i_still_find) - [After 14 years in the industry, I still find programming difficult  | Piglei](https://www.piglei.com/articles/en-programming-is-still-hard-after-14-years/)
 * [2024-02-23, 18:19:55](https://lobste.rs/s/genptl/javascript_registry_first_impressions) - [JavaScript Registry: First Impressions](https://dbushell.com/2024/02/16/jsr-first-impression/)
 * [2024-02-23, 17:46:20](https://lobste.rs/s/zxbpho/osquery_sqlite3_virtual_table_exposing) - [Osquery: An sqlite3 virtual table exposing operating system data to SQL](https://osquery.io/)
