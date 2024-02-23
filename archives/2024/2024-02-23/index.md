@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
+* [2024-02-23, 15:50:49](https://lobste.rs/s/mkw6ad/making_tables_responsive_with_minimal) - [Making Tables Responsive With Minimal CSS](https://btxx.org/posts/tables/)
 * [2024-02-23, 15:26:43](https://lobste.rs/s/j9prdc/pipeline_oriented_programming_2019) - [Pipeline-oriented Programming (2019)](https://fsharpforfunandprofit.com/pipeline/)
 * [2024-02-23, 15:02:54](https://lobste.rs/s/dghv8d/please_make_your_table_headings_sticky) - [Please Make Your Table Headings Sticky](https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/)
 * [2024-02-23, 14:32:26](https://lobste.rs/s/kz0jpg/everyone_seems_forget_why_gnome_gnome_3) - [Everyone seems to forget why GNOME and GNOME 3 and Unity happened (2022)](https://liam-on-linux.dreamwidth.org/85359.html)
