@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-02-23, 21:28:30](https://lobste.rs/s/mdvuyq/git_tips_3_really_large_repositories) - [Git Tips 3: Really Large Repositories](https://blog.gitbutler.com/git-tips-3-really-large-repositories/)
+* [2024-02-23, 21:28:30](https://lobste.rs/s/mdvuyq/really_large_repositories) - [Really Large Repositories](https://blog.gitbutler.com/git-tips-3-really-large-repositories/)
 * [2024-02-23, 20:33:00](https://lobste.rs/s/fxbaoj/cycles_all_way_down) - [Cycles all the way down](https://coredumped.dev/2024/02/23/cycles-all-way-down/)
 * [2024-02-23, 20:20:40](https://lobste.rs/s/gpiiax/dynamic_bindings_more) - [Dynamic bindings and more](https://jank-lang.org/blog/2024-02-23-bindings/)
 * [2024-02-23, 19:07:26](https://lobste.rs/s/khugml/how_make_self_hosted_maps_work_everywhere) - [How to make self-hosted maps that work everywhere and cost next to nothing](https://www.muckrock.com/news/archives/2024/feb/13/release-notes-how-to-make-self-hosted-maps-that-work-everywhere-cost-next-to-nothing-and-might-even-work-in-airplane-mode/)
