@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-23, 17:46:20](https://lobste.rs/s/zxbpho/osquery_sqlite3_virtual_table_exposing) - [Osquery: An sqlite3 virtual table exposing operating system data to SQL](https://osquery.io/)
 * [2024-02-23, 15:50:49](https://lobste.rs/s/mkw6ad/making_tables_responsive_with_minimal) - [Making Tables Responsive With Minimal CSS](https://btxx.org/posts/tables/)
 * [2024-02-23, 15:26:43](https://lobste.rs/s/j9prdc/pipeline_oriented_programming_2019) - [Pipeline-oriented Programming (2019)](https://fsharpforfunandprofit.com/pipeline/)
 * [2024-02-23, 15:02:54](https://lobste.rs/s/dghv8d/please_make_your_table_headings_sticky) - [Please Make Your Table Headings Sticky](https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/)
@@ -18,7 +19,6 @@
 * [2024-02-22, 22:16:10](https://lobste.rs/s/mqwlew/unlocking_secret_thinkpad) - [Unlocking secret ThinkPad functionality for emulating USB devices](https://xairy.io/articles/thinkpad-xdci)
 * [2024-02-22, 21:42:21](https://lobste.rs/s/zd7nba/javascript_bloat_2024) - [JavaScript Bloat in 2024](https://tonsky.me/blog/js-bloat/)
 * [2024-02-22, 21:09:06](https://lobste.rs/s/uhwdnk/openzfs_nvme_databases) - [openzfs-nvme-databases](https://github.com/letsencrypt/openzfs-nvme-databases)
-* [2024-02-22, 18:09:46](https://lobste.rs/s/zlbaql/char_0_0_what_does_c_programmer_intend_with) - [*(char*)0 = 0; - What Does the C++ Programmer Intend With This Code?](https://www.youtube.com/watch?v=dFIqNZ8VbRY)
 * [2024-02-22, 14:59:08](https://lobste.rs/s/mgxxki/cyberbullying_gone_global_fediverse) - [Cyberbullying Gone Global: Fediverse Spam and Operation Beleaguer](https://blog.fyralabs.com/cyberbullying-gone-global-regarding-the-fediverse-spam-and-operation-beleaguer/)
 * [2024-02-22, 14:10:04](https://lobste.rs/s/ogsmxo/unification_free_keyword_type_checking) - [Unification-free (\"keyword\") type checking](https://www.haskellforall.com/2024/02/unification-free-keyword-type-checking.html)
 * [2024-02-22, 12:19:24](https://lobste.rs/s/hurio2/building_fly_io_like_scheduler) - [Building a Fly.io-like Scheduler](https://www.aspiring.dev/fly-io-scheduler-part-1/)
