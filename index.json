@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-23, 17:46:20",
+      "https://lobste.rs/s/zxbpho/osquery_sqlite3_virtual_table_exposing"
+    ],
+    [
+      "Osquery: An sqlite3 virtual table exposing operating system data to SQL",
+      "https://osquery.io/"
+    ]
+  ],
+  [
+    [
       "2024-02-23, 15:50:49",
       "https://lobste.rs/s/mkw6ad/making_tables_responsive_with_minimal"
     ],
@@ -177,16 +187,6 @@
     [
       "openzfs-nvme-databases",
       "https://github.com/letsencrypt/openzfs-nvme-databases"
-    ]
-  ],
-  [
-    [
-      "2024-02-22, 18:09:46",
-      "https://lobste.rs/s/zlbaql/char_0_0_what_does_c_programmer_intend_with"
-    ],
-    [
-      "*(char*)0 = 0; - What Does the C++ Programmer Intend With This Code?",
-      "https://www.youtube.com/watch?v=dFIqNZ8VbRY"
     ]
   ],
   [
