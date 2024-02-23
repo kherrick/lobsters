@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
+* [2024-02-23, 18:46:44](https://lobste.rs/s/y2xpov/after_14_years_industry_i_still_find) - [After 14 years in the industry, I still find programming difficult  | Piglei](https://www.piglei.com/articles/en-programming-is-still-hard-after-14-years/)
 * [2024-02-23, 18:19:55](https://lobste.rs/s/genptl/javascript_registry_first_impressions) - [JavaScript Registry: First Impressions](https://dbushell.com/2024/02/16/jsr-first-impression/)
 * [2024-02-23, 17:46:20](https://lobste.rs/s/zxbpho/osquery_sqlite3_virtual_table_exposing) - [Osquery: An sqlite3 virtual table exposing operating system data to SQL](https://osquery.io/)
 * [2024-02-23, 15:50:49](https://lobste.rs/s/mkw6ad/making_tables_responsive_with_minimal) - [Making Tables Responsive With Minimal CSS](https://btxx.org/posts/tables/)
