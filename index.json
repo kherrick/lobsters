@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2024-02-22, 23:21:03",
+      "https://lobste.rs/s/lngkdo/robust_generic_functions_on_slices"
+    ],
+    [
+      "Robust generic functions on slices",
+      "https://go.dev/blog/generic-slice-functions"
+    ]
+  ],
+  [
+    [
       "2024-02-22, 22:16:10",
       "https://lobste.rs/s/mqwlew/unlocking_secret_thinkpad"
     ],
@@ -167,16 +177,6 @@
     [
       "openzfs-nvme-databases",
       "https://github.com/letsencrypt/openzfs-nvme-databases"
-    ]
-  ],
-  [
-    [
-      "2024-02-22, 19:15:39",
-      "https://lobste.rs/s/oeh7ry/compiler_theory_reactivity"
-    ],
-    [
-      "Compiler Theory and Reactivity",
-      "https://www.recompiled.dev/blog/ssa/"
     ]
   ],
   [
