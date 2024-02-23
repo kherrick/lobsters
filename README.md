@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-23, 03:06:14](https://lobste.rs/s/r8kylf/go_2016_2019_my_transition_into) - [Go 2016-2019: My transition into management](https://ajmani.net/2024/02/22/go-2016-2019/)
 * [2024-02-22, 23:21:03](https://lobste.rs/s/lngkdo/robust_generic_functions_on_slices) - [Robust generic functions on slices](https://go.dev/blog/generic-slice-functions)
 * [2024-02-22, 22:16:10](https://lobste.rs/s/mqwlew/unlocking_secret_thinkpad) - [Unlocking secret ThinkPad functionality for emulating USB devices](https://xairy.io/articles/thinkpad-xdci)
 * [2024-02-22, 21:42:21](https://lobste.rs/s/zd7nba/javascript_bloat_2024) - [JavaScript Bloat in 2024](https://tonsky.me/blog/js-bloat/)
@@ -10,7 +11,6 @@
 * [2024-02-22, 14:59:08](https://lobste.rs/s/mgxxki/cyberbullying_gone_global_fediverse) - [Cyberbullying Gone Global: Fediverse Spam and Operation Beleaguer](https://blog.fyralabs.com/cyberbullying-gone-global-regarding-the-fediverse-spam-and-operation-beleaguer/)
 * [2024-02-22, 14:10:04](https://lobste.rs/s/ogsmxo/unification_free_keyword_type_checking) - [Unification-free (\"keyword\") type checking](https://www.haskellforall.com/2024/02/unification-free-keyword-type-checking.html)
 * [2024-02-22, 12:19:24](https://lobste.rs/s/hurio2/building_fly_io_like_scheduler) - [Building a Fly.io-like Scheduler](https://www.aspiring.dev/fly-io-scheduler-part-1/)
-* [2024-02-22, 10:57:27](https://lobste.rs/s/mk9kwb/rocher_color_making_variable_color_font) - [Rocher Color: making a variable color font](https://www.harbortype.com/rocher-color-making-a-variable-color-font/)
 * [2024-02-22, 09:19:37](https://lobste.rs/s/pxpapm/build_your_own_database_index_part_1) - [Build your own Database Index: part 1](https://dx13.co.uk/articles/2023/12/02/byo-index-pt1/)
 * [2024-02-22, 08:58:31](https://lobste.rs/s/dtbswk/unexplanations_query_optimization) - [Unexplanations: query optimization works because sql is declarative](https://www.scattered-thoughts.net/writing/unexplanations-sql-declarative/)
 * [2024-02-22, 05:11:06](https://lobste.rs/s/3xtgfw/vintage_network_attack_called_smurf) - [A vintage network attack called smurf](https://rachelbythebay.com/w/2024/02/21/bcast/)
