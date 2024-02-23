@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
+* [2024-02-23, 11:02:36](https://lobste.rs/s/jslbix/java_ffi_vs_jni_for_meta_s_rocksdb_java_api) - [Java FFI vs JNI for Meta's RocksDB Java API](https://rocksdb.org/blog/2024/02/20/foreign-function-interface.html)
 * [2024-02-23, 10:48:36](https://lobste.rs/s/2hsgkm/building_realtime_datalake_with_apache) - [Building a realtime datalake with Apache Flink, Spark, and Hudi](https://engineering.grab.com/enabling-near-realtime-data-analytics)
 * [2024-02-23, 10:24:30](https://lobste.rs/s/9xtcun/complex_systems_bridging_between_spec) - [Complex systems and bridging between spec and implementation](https://lobste.rs/s/9xtcun/complex_systems_bridging_between_spec)
 * [2024-02-23, 10:19:20](https://lobste.rs/s/oxlnqg/python_dependencies_are_fixable) - [Python Dependencies Are Fixable](https://matduggan.com/everyone-is-wrong-but-you/)

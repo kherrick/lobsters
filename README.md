@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-23, 11:02:36](https://lobste.rs/s/jslbix/java_ffi_vs_jni_for_meta_s_rocksdb_java_api) - [Java FFI vs JNI for Meta's RocksDB Java API](https://rocksdb.org/blog/2024/02/20/foreign-function-interface.html)
 * [2024-02-23, 10:48:36](https://lobste.rs/s/2hsgkm/building_realtime_datalake_with_apache) - [Building a realtime datalake with Apache Flink, Spark, and Hudi](https://engineering.grab.com/enabling-near-realtime-data-analytics)
 * [2024-02-23, 10:24:30](https://lobste.rs/s/9xtcun/complex_systems_bridging_between_spec) - [Complex systems and bridging between spec and implementation](https://lobste.rs/s/9xtcun/complex_systems_bridging_between_spec)
 * [2024-02-23, 10:19:20](https://lobste.rs/s/oxlnqg/python_dependencies_are_fixable) - [Python Dependencies Are Fixable](https://matduggan.com/everyone-is-wrong-but-you/)
@@ -20,7 +21,6 @@
 * [2024-02-22, 08:58:31](https://lobste.rs/s/dtbswk/unexplanations_query_optimization) - [Unexplanations: query optimization works because sql is declarative](https://www.scattered-thoughts.net/writing/unexplanations-sql-declarative/)
 * [2024-02-22, 05:11:06](https://lobste.rs/s/3xtgfw/vintage_network_attack_called_smurf) - [A vintage network attack called smurf](https://rachelbythebay.com/w/2024/02/21/bcast/)
 * [2024-02-22, 02:43:46](https://lobste.rs/s/oafwex/voyager_1_s_lonely_death) - [Voyager 1’s Lonely Death](https://crookedtimber.org/2024/02/19/death-lonely-death/)
-* [2024-02-21, 20:01:16](https://lobste.rs/s/g8foew/oils_0_20_0_eggex_json_android) - [Oils 0.20.0 - Eggex, JSON, and Android](https://www.oilshell.org/blog/2024/02/release-0.20.0.html)
 * [2024-02-21, 19:23:23](https://lobste.rs/s/e7ipf7/killer_app_gemini_pro_1_5_is_video) - [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
 * [2024-02-21, 18:52:43](https://lobste.rs/s/rtvp2u/useful_uses_cat) - [Useful Uses of cat](https://two-wrongs.com/useful-uses-of-cat)
 * [2024-02-21, 14:28:49](https://lobste.rs/s/yoiyah/disputed_not_rejected) - [Disputed, not Rejected](https://daniel.haxx.se/blog/2024/02/21/disputed-not-rejected/)
