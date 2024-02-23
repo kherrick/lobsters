@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
+* [2024-02-23, 18:19:55](https://lobste.rs/s/genptl/javascript_registry_first_impressions) - [JavaScript Registry: First Impressions](https://dbushell.com/2024/02/16/jsr-first-impression/)
 * [2024-02-23, 17:46:20](https://lobste.rs/s/zxbpho/osquery_sqlite3_virtual_table_exposing) - [Osquery: An sqlite3 virtual table exposing operating system data to SQL](https://osquery.io/)
 * [2024-02-23, 15:50:49](https://lobste.rs/s/mkw6ad/making_tables_responsive_with_minimal) - [Making Tables Responsive With Minimal CSS](https://btxx.org/posts/tables/)
 * [2024-02-23, 15:26:43](https://lobste.rs/s/j9prdc/pipeline_oriented_programming_2019) - [Pipeline-oriented Programming (2019)](https://fsharpforfunandprofit.com/pipeline/)
