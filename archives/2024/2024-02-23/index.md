@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-23](index.md)
 
+* [2024-02-23, 11:31:20](https://lobste.rs/s/fcwczk/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/fcwczk/what_are_you_doing_this_weekend)
+* [2024-02-23, 11:29:49](https://lobste.rs/s/azii4m/thanks_fedex_this_is_why_we_keep_getting) - [Thanks FedEx, This is Why we Keep Getting Phished](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
 * [2024-02-23, 11:02:36](https://lobste.rs/s/jslbix/java_ffi_vs_jni_for_meta_s_rocksdb_java_api) - [Java FFI vs JNI for Meta's RocksDB Java API](https://rocksdb.org/blog/2024/02/20/foreign-function-interface.html)
 * [2024-02-23, 10:48:36](https://lobste.rs/s/2hsgkm/building_realtime_datalake_with_apache) - [Building a realtime datalake with Apache Flink, Spark, and Hudi](https://engineering.grab.com/enabling-near-realtime-data-analytics)
 * [2024-02-23, 10:24:30](https://lobste.rs/s/9xtcun/complex_systems_bridging_between_spec) - [Complex systems and bridging between spec and implementation](https://lobste.rs/s/9xtcun/complex_systems_bridging_between_spec)
