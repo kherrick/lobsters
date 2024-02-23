@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-23, 19:07:26",
+      "https://lobste.rs/s/khugml/how_make_self_hosted_maps_work_everywhere"
+    ],
+    [
+      "How to make self-hosted maps that work everywhere and cost next to nothing",
+      "https://www.muckrock.com/news/archives/2024/feb/13/release-notes-how-to-make-self-hosted-maps-that-work-everywhere-cost-next-to-nothing-and-might-even-work-in-airplane-mode/"
+    ]
+  ],
+  [
+    [
       "2024-02-23, 18:46:44",
       "https://lobste.rs/s/y2xpov/after_14_years_industry_i_still_find"
     ],
@@ -177,16 +187,6 @@
     [
       "JavaScript Bloat in 2024",
       "https://tonsky.me/blog/js-bloat/"
-    ]
-  ],
-  [
-    [
-      "2024-02-22, 21:09:06",
-      "https://lobste.rs/s/uhwdnk/openzfs_nvme_databases"
-    ],
-    [
-      "openzfs-nvme-databases",
-      "https://github.com/letsencrypt/openzfs-nvme-databases"
     ]
   ],
   [
