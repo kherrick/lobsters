@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-23, 10:24:30](https://lobste.rs/s/9xtcun/complex_systems_bridging_between_spec) - [Complex systems and bridging between spec and implementation](https://lobste.rs/s/9xtcun/complex_systems_bridging_between_spec)
+* [2024-02-23, 10:19:20](https://lobste.rs/s/oxlnqg/python_dependencies_are_fixable) - [Python Dependencies Are Fixable](https://matduggan.com/everyone-is-wrong-but-you/)
 * [2024-02-23, 08:48:29](https://lobste.rs/s/1ll4du/experiences_with_building_gentoo) - [Experiences with building a Gentoo virtualisation host](https://catfox.life/2024/02/23/experiences-with-building-a-gentoo-virtualisation-host/)
 * [2024-02-23, 03:38:16](https://lobste.rs/s/9ynwji/on_moonpool) - [On Moonpool](https://blag.cedeela.fr/on-moonpool/)
 * [2024-02-23, 03:06:14](https://lobste.rs/s/r8kylf/go_2016_2019_my_transition_into) - [Go 2016-2019: My transition into management](https://ajmani.net/2024/02/22/go-2016-2019/)
@@ -21,10 +23,8 @@
 * [2024-02-21, 20:01:16](https://lobste.rs/s/g8foew/oils_0_20_0_eggex_json_android) - [Oils 0.20.0 - Eggex, JSON, and Android](https://www.oilshell.org/blog/2024/02/release-0.20.0.html)
 * [2024-02-21, 19:23:23](https://lobste.rs/s/e7ipf7/killer_app_gemini_pro_1_5_is_video) - [The killer app of Gemini Pro 1.5 is video](https://simonwillison.net/2024/Feb/21/gemini-pro-video/)
 * [2024-02-21, 18:52:43](https://lobste.rs/s/rtvp2u/useful_uses_cat) - [Useful Uses of cat](https://two-wrongs.com/useful-uses-of-cat)
-* [2024-02-21, 17:39:25](https://lobste.rs/s/1utowa/fil_c_manifesto_garbage_memory_safety_out) - [The Fil-C Manifesto: Garbage In, Memory Safety Out](https://github.com/pizlonator/llvm-project-deluge/blob/deluge/Manifesto.md)
 * [2024-02-21, 14:28:49](https://lobste.rs/s/yoiyah/disputed_not_rejected) - [Disputed, not Rejected](https://daniel.haxx.se/blog/2024/02/21/disputed-not-rejected/)
 * [2024-02-21, 14:07:06](https://lobste.rs/s/mu2c6n/why_are_non_dry_specs_more_maintainable) - [Why are non-DRY specs more maintainable?](https://thedailydeveloper.substack.com/p/why-are-non-dry-specs-more-maintainable)
-* [2024-02-21, 03:31:12](https://lobste.rs/s/2a4fko/this_message_does_not_exist) - [This message does not exist](https://www.kmjn.org/notes/message_existence.html)
 
 ## [Archives](archives/index.md)
 
