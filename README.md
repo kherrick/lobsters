@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-23, 15:26:43](https://lobste.rs/s/j9prdc/pipeline_oriented_programming_2019) - [Pipeline-oriented Programming (2019)](https://fsharpforfunandprofit.com/pipeline/)
 * [2024-02-23, 15:02:54](https://lobste.rs/s/dghv8d/please_make_your_table_headings_sticky) - [Please Make Your Table Headings Sticky](https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/)
 * [2024-02-23, 14:32:26](https://lobste.rs/s/kz0jpg/everyone_seems_forget_why_gnome_gnome_3) - [Everyone seems to forget why GNOME and GNOME 3 and Unity happened (2022)](https://liam-on-linux.dreamwidth.org/85359.html)
 * [2024-02-23, 14:31:37](https://lobste.rs/s/w3zkxx/lobsters_interview_with_bjorn_stahl) - [Lobsters interview with Bjorn Stahl](https://lobste.rs/s/w3zkxx/lobsters_interview_with_bjorn_stahl)
@@ -7,7 +8,6 @@
 * [2024-02-23, 11:31:20](https://lobste.rs/s/fcwczk/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/fcwczk/what_are_you_doing_this_weekend)
 * [2024-02-23, 11:29:49](https://lobste.rs/s/azii4m/thanks_fedex_this_is_why_we_keep_getting) - [Thanks FedEx, This is Why we Keep Getting Phished](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
 * [2024-02-23, 11:02:36](https://lobste.rs/s/jslbix/java_ffi_vs_jni_for_meta_s_rocksdb_java_api) - [Java FFI vs JNI for Meta's RocksDB Java API](https://rocksdb.org/blog/2024/02/20/foreign-function-interface.html)
-* [2024-02-23, 10:48:36](https://lobste.rs/s/2hsgkm/building_realtime_datalake_with_apache) - [Building a realtime datalake with Apache Flink, Spark, and Hudi](https://engineering.grab.com/enabling-near-realtime-data-analytics)
 * [2024-02-23, 10:24:30](https://lobste.rs/s/9xtcun/complex_systems_bridging_between_spec) - [Complex systems and bridging between spec and implementation](https://lobste.rs/s/9xtcun/complex_systems_bridging_between_spec)
 * [2024-02-23, 10:19:20](https://lobste.rs/s/oxlnqg/python_dependencies_are_fixable) - [Python Dependencies Are Fixable](https://matduggan.com/everyone-is-wrong-but-you/)
 * [2024-02-23, 08:48:29](https://lobste.rs/s/1ll4du/experiences_with_building_gentoo) - [Experiences with building a Gentoo virtualisation host](https://catfox.life/2024/02/23/experiences-with-building-a-gentoo-virtualisation-host/)
