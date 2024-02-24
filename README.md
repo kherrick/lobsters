@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-24, 20:38:44](https://lobste.rs/s/7rfroq/halogen_is_better_than_react_at) - [Halogen is better than React at everything](https://chrisdone.com/posts/halogen-is-better-than-react/)
 * [2024-02-24, 20:11:57](https://lobste.rs/s/x4ysak/snohetta_s_environmentally_friendly) - [Snøhetta's environmentally-friendly website](https://www.snohetta.com/perspectives/digital-design-in-the-age-of-sustainability)
 * [2024-02-24, 19:21:14](https://lobste.rs/s/irt45w/interpretable_machine_learning) - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 * [2024-02-24, 19:06:59](https://lobste.rs/s/0najrp/on_light_colors_mixing_paints_numerical) - [On Light, Colors, Mixing Paints, and Numerical Optimization](https://github.com/miciwan/PaintMixing)
@@ -18,7 +19,6 @@
 * [2024-02-23, 21:28:30](https://lobste.rs/s/mdvuyq/really_large_repositories) - [Really Large Repositories](https://blog.gitbutler.com/git-tips-3-really-large-repositories/)
 * [2024-02-23, 20:33:00](https://lobste.rs/s/fxbaoj/cycles_all_way_down) - [Cycles all the way down](https://coredumped.dev/2024/02/23/cycles-all-way-down/)
 * [2024-02-23, 19:07:26](https://lobste.rs/s/khugml/how_make_self_hosted_maps_work_everywhere) - [How to make self-hosted maps that work everywhere and cost next to nothing](https://www.muckrock.com/news/archives/2024/feb/13/release-notes-how-to-make-self-hosted-maps-that-work-everywhere-cost-next-to-nothing-and-might-even-work-in-airplane-mode/)
-* [2024-02-23, 17:46:20](https://lobste.rs/s/zxbpho/osquery_sqlite3_virtual_table_exposing) - [Osquery: An sqlite3 virtual table exposing operating system data to SQL](https://osquery.io/)
 * [2024-02-23, 15:02:54](https://lobste.rs/s/dghv8d/please_make_your_table_headings_sticky) - [Please Make Your Table Headings Sticky](https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/)
 * [2024-02-23, 14:32:26](https://lobste.rs/s/kz0jpg/everyone_seems_forget_why_gnome_gnome_3) - [Everyone seems to forget why GNOME and GNOME 3 and Unity happened (2022)](https://liam-on-linux.dreamwidth.org/85359.html)
 * [2024-02-23, 14:31:37](https://lobste.rs/s/w3zkxx/lobsters_interview_with_bjorn_stahl) - [Lobsters interview with Bjorn Stahl](https://lobste.rs/s/w3zkxx/lobsters_interview_with_bjorn_stahl)
