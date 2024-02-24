@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-24, 20:38:44",
+      "https://lobste.rs/s/7rfroq/halogen_is_better_than_react_at"
+    ],
+    [
+      "Halogen is better than React at everything",
+      "https://chrisdone.com/posts/halogen-is-better-than-react/"
+    ]
+  ],
+  [
+    [
       "2024-02-24, 20:11:57",
       "https://lobste.rs/s/x4ysak/snohetta_s_environmentally_friendly"
     ],
@@ -177,16 +187,6 @@
     [
       "How to make self-hosted maps that work everywhere and cost next to nothing",
       "https://www.muckrock.com/news/archives/2024/feb/13/release-notes-how-to-make-self-hosted-maps-that-work-everywhere-cost-next-to-nothing-and-might-even-work-in-airplane-mode/"
-    ]
-  ],
-  [
-    [
-      "2024-02-23, 17:46:20",
-      "https://lobste.rs/s/zxbpho/osquery_sqlite3_virtual_table_exposing"
-    ],
-    [
-      "Osquery: An sqlite3 virtual table exposing operating system data to SQL",
-      "https://osquery.io/"
     ]
   ],
   [
