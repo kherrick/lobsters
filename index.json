@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-24, 07:19:35",
+      "https://lobste.rs/s/efm8nv/stringzilla_up_10x_faster_strings_for_c_c"
+    ],
+    [
+      "StringZilla: Up to 10x faster strings for C, C++, Python, Rust, and Swift",
+      "https://github.com/ashvardanian/StringZilla"
+    ]
+  ],
+  [
+    [
+      "2024-02-24, 07:16:58",
+      "https://lobste.rs/s/4hltnk/shoes_easiest_little_gui_toolkit_for_ruby"
+    ],
+    [
+      "Shoes! The easiest little GUI toolkit, for Ruby",
+      "http://shoesrb.com/"
+    ]
+  ],
+  [
+    [
       "2024-02-24, 02:48:55",
       "https://lobste.rs/s/ujfsdw/intel_processor_instability_causing"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-02-23, 11:02:36",
-      "https://lobste.rs/s/jslbix/java_ffi_vs_jni_for_meta_s_rocksdb_java_api"
-    ],
-    [
-      "Java FFI vs JNI for Meta's RocksDB Java API",
-      "https://rocksdb.org/blog/2024/02/20/foreign-function-interface.html"
-    ]
-  ],
-  [
-    [
       "2024-02-23, 10:24:30",
       "https://lobste.rs/s/9xtcun/complex_systems_bridging_between_spec"
     ],
@@ -207,16 +217,6 @@
     [
       "Experiences with building a Gentoo virtualisation host",
       "https://catfox.life/2024/02/23/experiences-with-building-a-gentoo-virtualisation-host/"
-    ]
-  ],
-  [
-    [
-      "2024-02-23, 03:06:14",
-      "https://lobste.rs/s/r8kylf/go_2016_2019_my_transition_into"
-    ],
-    [
-      "Go 2016-2019: My transition into management",
-      "https://ajmani.net/2024/02/22/go-2016-2019/"
     ]
   ],
   [
