@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-24, 08:39:13](https://lobste.rs/s/qhxh4b/contributing_scrutiny_nixpkgs) - [Contributing Scrutiny to nixpkgs](https://jnsgr.uk/2024/02/contributing-scrutiny-to-nixpkgs/)
 * [2024-02-24, 07:49:40](https://lobste.rs/s/uocusk/streetpass_for_mastodon) - [StreetPass for Mastodon](https://streetpass.social)
 * [2024-02-24, 07:19:35](https://lobste.rs/s/efm8nv/stringzilla_up_10x_faster_strings_for_c_c) - [StringZilla: Up to 10x faster strings for C, C++, Python, Rust, and Swift](https://github.com/ashvardanian/StringZilla)
 * [2024-02-24, 07:16:58](https://lobste.rs/s/4hltnk/shoes_easiest_little_gui_toolkit_for_ruby) - [Shoes! The easiest little GUI toolkit, for Ruby](http://shoesrb.com/)
@@ -22,7 +23,6 @@
 * [2024-02-23, 10:24:30](https://lobste.rs/s/9xtcun/complex_systems_bridging_between_spec) - [Complex systems and bridging between spec and implementation](https://lobste.rs/s/9xtcun/complex_systems_bridging_between_spec)
 * [2024-02-23, 10:19:20](https://lobste.rs/s/oxlnqg/python_dependencies_are_fixable) - [Python Dependencies Are Fixable](https://matduggan.com/everyone-is-wrong-but-you/)
 * [2024-02-23, 08:48:29](https://lobste.rs/s/1ll4du/experiences_with_building_gentoo) - [Experiences with building a Gentoo virtualisation host](https://catfox.life/2024/02/23/experiences-with-building-a-gentoo-virtualisation-host/)
-* [2024-02-22, 22:16:10](https://lobste.rs/s/mqwlew/unlocking_secret_thinkpad) - [Unlocking secret ThinkPad functionality for emulating USB devices](https://xairy.io/articles/thinkpad-xdci)
 * [2024-02-22, 21:42:21](https://lobste.rs/s/zd7nba/javascript_bloat_2024) - [JavaScript Bloat in 2024](https://tonsky.me/blog/js-bloat/)
 * [2024-02-22, 14:10:04](https://lobste.rs/s/ogsmxo/unification_free_keyword_type_checking) - [Unification-free (\"keyword\") type checking](https://www.haskellforall.com/2024/02/unification-free-keyword-type-checking.html)
 
