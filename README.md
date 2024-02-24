@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-24, 00:50:35](https://lobste.rs/s/jovx77/static_assert_go) - [Static Assert in Go](https://zephyrtronium.github.io/articles/static-assert.html)
 * [2024-02-23, 21:28:30](https://lobste.rs/s/mdvuyq/really_large_repositories) - [Really Large Repositories](https://blog.gitbutler.com/git-tips-3-really-large-repositories/)
 * [2024-02-23, 20:33:00](https://lobste.rs/s/fxbaoj/cycles_all_way_down) - [Cycles all the way down](https://coredumped.dev/2024/02/23/cycles-all-way-down/)
 * [2024-02-23, 20:20:40](https://lobste.rs/s/gpiiax/dynamic_bindings_more) - [Dynamic bindings and more](https://jank-lang.org/blog/2024-02-23-bindings/)
@@ -24,7 +25,6 @@
 * [2024-02-22, 21:42:21](https://lobste.rs/s/zd7nba/javascript_bloat_2024) - [JavaScript Bloat in 2024](https://tonsky.me/blog/js-bloat/)
 * [2024-02-22, 14:10:04](https://lobste.rs/s/ogsmxo/unification_free_keyword_type_checking) - [Unification-free (\"keyword\") type checking](https://www.haskellforall.com/2024/02/unification-free-keyword-type-checking.html)
 * [2024-02-22, 08:58:31](https://lobste.rs/s/dtbswk/unexplanations_query_optimization) - [Unexplanations: query optimization works because sql is declarative](https://www.scattered-thoughts.net/writing/unexplanations-sql-declarative/)
-* [2024-02-22, 02:43:46](https://lobste.rs/s/oafwex/voyager_1_s_lonely_death) - [Voyager 1’s Lonely Death](https://crookedtimber.org/2024/02/19/death-lonely-death/)
 
 ## [Archives](archives/index.md)
 
