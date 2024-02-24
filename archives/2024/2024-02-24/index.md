@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-24](index.md)
 
+* [2024-02-24, 14:48:57](https://lobste.rs/s/m9yvqt/rust_developers_concerned_about) - [Rust developers concerned about complexity, low usage](https://www.infoworld.com/article/3713264/rust-developers-concerned-about-complexity-low-usage.html)
 * [2024-02-24, 12:47:56](https://lobste.rs/s/nmls74/css_has_interactive_guide) - [CSS :has() Interactive Guide](https://ishadeed.com/article/css-has-guide/)
 * [2024-02-24, 08:39:13](https://lobste.rs/s/qhxh4b/contributing_scrutiny_nixpkgs) - [Contributing Scrutiny to nixpkgs](https://jnsgr.uk/2024/02/contributing-scrutiny-to-nixpkgs/)
 * [2024-02-24, 07:49:40](https://lobste.rs/s/uocusk/streetpass_for_mastodon) - [StreetPass for Mastodon](https://streetpass.social)

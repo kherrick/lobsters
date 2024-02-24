@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-24, 14:48:57](https://lobste.rs/s/m9yvqt/rust_developers_concerned_about) - [Rust developers concerned about complexity, low usage](https://www.infoworld.com/article/3713264/rust-developers-concerned-about-complexity-low-usage.html)
 * [2024-02-24, 12:47:56](https://lobste.rs/s/nmls74/css_has_interactive_guide) - [CSS :has() Interactive Guide](https://ishadeed.com/article/css-has-guide/)
 * [2024-02-24, 08:39:13](https://lobste.rs/s/qhxh4b/contributing_scrutiny_nixpkgs) - [Contributing Scrutiny to nixpkgs](https://jnsgr.uk/2024/02/contributing-scrutiny-to-nixpkgs/)
 * [2024-02-24, 07:49:40](https://lobste.rs/s/uocusk/streetpass_for_mastodon) - [StreetPass for Mastodon](https://streetpass.social)
@@ -23,7 +24,6 @@
 * [2024-02-23, 11:29:49](https://lobste.rs/s/azii4m/thanks_fedex_this_is_why_we_keep_getting) - [Thanks FedEx, This is Why we Keep Getting Phished](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
 * [2024-02-23, 10:19:20](https://lobste.rs/s/oxlnqg/python_dependencies_are_fixable) - [Python Dependencies Are Fixable](https://matduggan.com/everyone-is-wrong-but-you/)
 * [2024-02-23, 08:48:29](https://lobste.rs/s/1ll4du/experiences_with_building_gentoo) - [Experiences with building a Gentoo virtualisation host](https://catfox.life/2024/02/23/experiences-with-building-a-gentoo-virtualisation-host/)
-* [2024-02-22, 21:42:21](https://lobste.rs/s/zd7nba/javascript_bloat_2024) - [JavaScript Bloat in 2024](https://tonsky.me/blog/js-bloat/)
 * [2024-02-22, 14:10:04](https://lobste.rs/s/ogsmxo/unification_free_keyword_type_checking) - [Unification-free (\"keyword\") type checking](https://www.haskellforall.com/2024/02/unification-free-keyword-type-checking.html)
 
 ## [Archives](archives/index.md)
