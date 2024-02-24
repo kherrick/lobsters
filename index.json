@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-24, 16:51:59",
+      "https://lobste.rs/s/q08509/sway_1_9"
+    ],
+    [
+      "Sway 1.9",
+      "https://github.com/swaywm/sway/releases/tag/1.9"
+    ]
+  ],
+  [
+    [
       "2024-02-24, 16:30:52",
       "https://lobste.rs/s/y1jn40/reverse_engineering_switch_lite"
     ],
@@ -237,16 +247,6 @@
     [
       "Experiences with building a Gentoo virtualisation host",
       "https://catfox.life/2024/02/23/experiences-with-building-a-gentoo-virtualisation-host/"
-    ]
-  ],
-  [
-    [
-      "2024-02-22, 14:10:04",
-      "https://lobste.rs/s/ogsmxo/unification_free_keyword_type_checking"
-    ],
-    [
-      "Unification-free (\"keyword\") type checking",
-      "https://www.haskellforall.com/2024/02/unification-free-keyword-type-checking.html"
     ]
   ]
 ]
