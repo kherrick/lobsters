@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-24, 16:30:52](https://lobste.rs/s/y1jn40/reverse_engineering_switch_lite) - [Reverse-Engineering a Switch Lite Boardview at 6,000 Pixels Per Inch](https://usoldering.com/switch-lite/)
 * [2024-02-24, 15:41:20](https://lobste.rs/s/rurlxp/asynchronous_clean_up_rust) - [Asynchronous clean-up [in Rust]](https://without.boats/blog/asynchronous-clean-up/)
 * [2024-02-24, 12:47:56](https://lobste.rs/s/nmls74/css_has_interactive_guide) - [CSS :has() Interactive Guide](https://ishadeed.com/article/css-has-guide/)
 * [2024-02-24, 08:39:13](https://lobste.rs/s/qhxh4b/contributing_scrutiny_nixpkgs) - [Contributing Scrutiny to nixpkgs](https://jnsgr.uk/2024/02/contributing-scrutiny-to-nixpkgs/)
@@ -13,7 +14,6 @@
 * [2024-02-23, 20:20:40](https://lobste.rs/s/gpiiax/dynamic_bindings_more) - [Dynamic bindings and more](https://jank-lang.org/blog/2024-02-23-bindings/)
 * [2024-02-23, 19:07:26](https://lobste.rs/s/khugml/how_make_self_hosted_maps_work_everywhere) - [How to make self-hosted maps that work everywhere and cost next to nothing](https://www.muckrock.com/news/archives/2024/feb/13/release-notes-how-to-make-self-hosted-maps-that-work-everywhere-cost-next-to-nothing-and-might-even-work-in-airplane-mode/)
 * [2024-02-23, 18:46:44](https://lobste.rs/s/y2xpov/after_14_years_industry_i_still_find) - [After 14 years in the industry, I still find programming difficult](https://www.piglei.com/articles/en-programming-is-still-hard-after-14-years/)
-* [2024-02-23, 18:19:55](https://lobste.rs/s/genptl/javascript_registry_first_impressions) - [JavaScript Registry: First Impressions](https://dbushell.com/2024/02/16/jsr-first-impression/)
 * [2024-02-23, 17:46:20](https://lobste.rs/s/zxbpho/osquery_sqlite3_virtual_table_exposing) - [Osquery: An sqlite3 virtual table exposing operating system data to SQL](https://osquery.io/)
 * [2024-02-23, 15:50:49](https://lobste.rs/s/mkw6ad/making_tables_responsive_with_minimal) - [Making Tables Responsive With Minimal CSS](https://btxx.org/posts/tables/)
 * [2024-02-23, 15:02:54](https://lobste.rs/s/dghv8d/please_make_your_table_headings_sticky) - [Please Make Your Table Headings Sticky](https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/)
