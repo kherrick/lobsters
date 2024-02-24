@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-24](index.md)
 
+* [2024-02-24, 21:53:58](https://lobste.rs/s/sy5x6b/first_microcomputer_transfluxor) - [The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962](http://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html)
+* [2024-02-24, 21:52:03](https://lobste.rs/s/byh5s2/generalist_embodied_agent_research_gear) - [Generalist Embodied Agent Research (GEAR)](https://research.nvidia.com/labs/gear/)
 * [2024-02-24, 20:38:44](https://lobste.rs/s/7rfroq/halogen_is_better_than_react_at) - [Halogen is better than React at everything](https://chrisdone.com/posts/halogen-is-better-than-react/)
 * [2024-02-24, 20:11:57](https://lobste.rs/s/x4ysak/snohetta_s_environmentally_friendly) - [Snøhetta's environmentally-friendly website](https://www.snohetta.com/perspectives/digital-design-in-the-age-of-sustainability)
 * [2024-02-24, 19:21:14](https://lobste.rs/s/irt45w/interpretable_machine_learning) - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
