@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-24](index.md)
 
+* [2024-02-24, 12:47:56](https://lobste.rs/s/nmls74/css_has_interactive_guide) - [CSS :has() Interactive Guide](https://ishadeed.com/article/css-has-guide/)
 * [2024-02-24, 08:39:13](https://lobste.rs/s/qhxh4b/contributing_scrutiny_nixpkgs) - [Contributing Scrutiny to nixpkgs](https://jnsgr.uk/2024/02/contributing-scrutiny-to-nixpkgs/)
 * [2024-02-24, 07:49:40](https://lobste.rs/s/uocusk/streetpass_for_mastodon) - [StreetPass for Mastodon](https://streetpass.social)
 * [2024-02-24, 07:19:35](https://lobste.rs/s/efm8nv/stringzilla_up_10x_faster_strings_for_c_c) - [StringZilla: Up to 10x faster strings for C, C++, Python, Rust, and Swift](https://github.com/ashvardanian/StringZilla)
