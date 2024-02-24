@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-24, 17:56:00",
+      "https://lobste.rs/s/u9v0ki/can_you_make_basic_web_app_without"
+    ],
+    [
+      "Can you make a basic web app without googling? I can't",
+      "https://austinhenley.com/blog/webappwithoutgoogling.html"
+    ]
+  ],
+  [
+    [
       "2024-02-24, 17:15:31",
       "https://lobste.rs/s/eenimf/co_developing_programs_their_proof"
     ],
@@ -237,16 +247,6 @@
     [
       "Python Dependencies Are Fixable",
       "https://matduggan.com/everyone-is-wrong-but-you/"
-    ]
-  ],
-  [
-    [
-      "2024-02-23, 08:48:29",
-      "https://lobste.rs/s/1ll4du/experiences_with_building_gentoo"
-    ],
-    [
-      "Experiences with building a Gentoo virtualisation host",
-      "https://catfox.life/2024/02/23/experiences-with-building-a-gentoo-virtualisation-host/"
     ]
   ]
 ]
