@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-24, 17:15:31](https://lobste.rs/s/eenimf/co_developing_programs_their_proof) - [Co-Developing Programs and Their Proof of Correctness](https://cacm.acm.org/magazines/2024/3/280078-co-developing-programs-and-their-proof-of-correctness/fulltext)
 * [2024-02-24, 16:51:59](https://lobste.rs/s/q08509/sway_1_9) - [Sway 1.9](https://github.com/swaywm/sway/releases/tag/1.9)
 * [2024-02-24, 16:30:52](https://lobste.rs/s/y1jn40/reverse_engineering_switch_lite) - [Reverse-Engineering a Switch Lite Boardview at 6,000 Pixels Per Inch](https://usoldering.com/switch-lite/)
 * [2024-02-24, 15:41:20](https://lobste.rs/s/rurlxp/asynchronous_clean_up_rust) - [Asynchronous clean-up [in Rust]](https://without.boats/blog/asynchronous-clean-up/)
@@ -21,7 +22,6 @@
 * [2024-02-23, 14:32:26](https://lobste.rs/s/kz0jpg/everyone_seems_forget_why_gnome_gnome_3) - [Everyone seems to forget why GNOME and GNOME 3 and Unity happened (2022)](https://liam-on-linux.dreamwidth.org/85359.html)
 * [2024-02-23, 14:31:37](https://lobste.rs/s/w3zkxx/lobsters_interview_with_bjorn_stahl) - [Lobsters interview with Bjorn Stahl](https://lobste.rs/s/w3zkxx/lobsters_interview_with_bjorn_stahl)
 * [2024-02-23, 13:30:57](https://lobste.rs/s/b3ahkj/why_my_code_isn_t_typescript) - [Why my code isn't in TypeScript](https://remysharp.com/2024/02/23/why-my-code-isnt-in-typescript)
-* [2024-02-23, 11:31:20](https://lobste.rs/s/fcwczk/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/fcwczk/what_are_you_doing_this_weekend)
 * [2024-02-23, 11:29:49](https://lobste.rs/s/azii4m/thanks_fedex_this_is_why_we_keep_getting) - [Thanks FedEx, This is Why we Keep Getting Phished](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
 * [2024-02-23, 10:19:20](https://lobste.rs/s/oxlnqg/python_dependencies_are_fixable) - [Python Dependencies Are Fixable](https://matduggan.com/everyone-is-wrong-but-you/)
 * [2024-02-23, 08:48:29](https://lobste.rs/s/1ll4du/experiences_with_building_gentoo) - [Experiences with building a Gentoo virtualisation host](https://catfox.life/2024/02/23/experiences-with-building-a-gentoo-virtualisation-host/)
