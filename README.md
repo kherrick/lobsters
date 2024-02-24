@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-24, 07:49:40](https://lobste.rs/s/uocusk/streetpass_for_mastodon) - [StreetPass for Mastodon](https://streetpass.social)
 * [2024-02-24, 07:19:35](https://lobste.rs/s/efm8nv/stringzilla_up_10x_faster_strings_for_c_c) - [StringZilla: Up to 10x faster strings for C, C++, Python, Rust, and Swift](https://github.com/ashvardanian/StringZilla)
 * [2024-02-24, 07:16:58](https://lobste.rs/s/4hltnk/shoes_easiest_little_gui_toolkit_for_ruby) - [Shoes! The easiest little GUI toolkit, for Ruby](http://shoesrb.com/)
 * [2024-02-24, 02:48:55](https://lobste.rs/s/ujfsdw/intel_processor_instability_causing) - [Intel Processor Instability Causing Oodle Decompression Failures](https://www.radgametools.com/oodleintel.htm)
@@ -12,7 +13,6 @@
 * [2024-02-23, 18:19:55](https://lobste.rs/s/genptl/javascript_registry_first_impressions) - [JavaScript Registry: First Impressions](https://dbushell.com/2024/02/16/jsr-first-impression/)
 * [2024-02-23, 17:46:20](https://lobste.rs/s/zxbpho/osquery_sqlite3_virtual_table_exposing) - [Osquery: An sqlite3 virtual table exposing operating system data to SQL](https://osquery.io/)
 * [2024-02-23, 15:50:49](https://lobste.rs/s/mkw6ad/making_tables_responsive_with_minimal) - [Making Tables Responsive With Minimal CSS](https://btxx.org/posts/tables/)
-* [2024-02-23, 15:26:43](https://lobste.rs/s/j9prdc/pipeline_oriented_programming_2019) - [Pipeline-oriented Programming (2019)](https://fsharpforfunandprofit.com/pipeline/)
 * [2024-02-23, 15:02:54](https://lobste.rs/s/dghv8d/please_make_your_table_headings_sticky) - [Please Make Your Table Headings Sticky](https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/)
 * [2024-02-23, 14:32:26](https://lobste.rs/s/kz0jpg/everyone_seems_forget_why_gnome_gnome_3) - [Everyone seems to forget why GNOME and GNOME 3 and Unity happened (2022)](https://liam-on-linux.dreamwidth.org/85359.html)
 * [2024-02-23, 14:31:37](https://lobste.rs/s/w3zkxx/lobsters_interview_with_bjorn_stahl) - [Lobsters interview with Bjorn Stahl](https://lobste.rs/s/w3zkxx/lobsters_interview_with_bjorn_stahl)
