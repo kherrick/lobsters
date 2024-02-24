@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-24, 21:53:58",
+      "https://lobste.rs/s/sy5x6b/first_microcomputer_transfluxor"
+    ],
+    [
+      "The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962",
+      "http://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-24, 21:52:03",
+      "https://lobste.rs/s/byh5s2/generalist_embodied_agent_research_gear"
+    ],
+    [
+      "Generalist Embodied Agent Research (GEAR)",
+      "https://research.nvidia.com/labs/gear/"
+    ]
+  ],
+  [
+    [
       "2024-02-24, 20:11:57",
       "https://lobste.rs/s/x4ysak/snohetta_s_environmentally_friendly"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-02-23, 17:46:20",
-      "https://lobste.rs/s/zxbpho/osquery_sqlite3_virtual_table_exposing"
-    ],
-    [
-      "Osquery: An sqlite3 virtual table exposing operating system data to SQL",
-      "https://osquery.io/"
-    ]
-  ],
-  [
-    [
       "2024-02-23, 15:02:54",
       "https://lobste.rs/s/dghv8d/please_make_your_table_headings_sticky"
     ],
@@ -237,16 +247,6 @@
     [
       "Thanks FedEx, This is Why we Keep Getting Phished",
       "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/"
-    ]
-  ],
-  [
-    [
-      "2024-02-23, 10:19:20",
-      "https://lobste.rs/s/oxlnqg/python_dependencies_are_fixable"
-    ],
-    [
-      "Python Dependencies Are Fixable",
-      "https://matduggan.com/everyone-is-wrong-but-you/"
     ]
   ]
 ]
