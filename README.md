@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-25, 19:09:17](https://lobste.rs/s/dobs3w/neat_parallel_output_python) - [Neat parallel output in Python](https://bernsteinbear.com/blog/python-parallel-output/)
 * [2024-02-25, 18:56:11](https://lobste.rs/s/cq9nop/keytrap_denial_service_algorithmic) - [The KeyTrap Denial-of-Service Algorithmic Complexity Attacks on DNS](https://www.athene-center.de/fileadmin/content/PDF/Keytrap_2401.pdf)
 * [2024-02-25, 18:54:00](https://lobste.rs/s/9evrhm/wrapping_up_practical_sml) - [Wrapping up `Practical SML#'](https://pzel.name/2024/02/24/Wrapping-up-with-SMLsharp.html)
 * [2024-02-25, 18:40:58](https://lobste.rs/s/8u2vrc/sshattrick_play_hattrick_your_terminal) - [ssHattrick: Play Hattrick in your terminal over SSH](https://github.com/ricott1/sshattrick)
@@ -20,7 +21,6 @@
 * [2024-02-24, 16:51:59](https://lobste.rs/s/q08509/sway_1_9) - [Sway 1.9](https://github.com/swaywm/sway/releases/tag/1.9)
 * [2024-02-24, 16:30:52](https://lobste.rs/s/y1jn40/reverse_engineering_switch_lite) - [Reverse-Engineering a Switch Lite Boardview at 6,000 Pixels Per Inch](https://usoldering.com/switch-lite/)
 * [2024-02-24, 15:41:20](https://lobste.rs/s/rurlxp/asynchronous_clean_up_rust) - [Asynchronous clean-up [in Rust]](https://without.boats/blog/asynchronous-clean-up/)
-* [2024-02-24, 12:47:56](https://lobste.rs/s/nmls74/css_has_interactive_guide) - [CSS :has() Interactive Guide](https://ishadeed.com/article/css-has-guide/)
 * [2024-02-24, 08:39:13](https://lobste.rs/s/qhxh4b/contributing_scrutiny_nixpkgs) - [Contributing Scrutiny to nixpkgs](https://jnsgr.uk/2024/02/contributing-scrutiny-to-nixpkgs/)
 * [2024-02-24, 07:49:40](https://lobste.rs/s/uocusk/streetpass_for_mastodon) - [StreetPass for Mastodon](https://streetpass.social)
 * [2024-02-24, 07:16:58](https://lobste.rs/s/4hltnk/shoes_easiest_little_gui_toolkit_for_ruby) - [Shoes! The easiest little GUI toolkit, for Ruby](http://shoesrb.com/)
