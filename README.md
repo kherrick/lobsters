@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-25, 20:12:25](https://lobste.rs/s/h6pjnv/pglite_lightweight_postgres_packaged_as) - [pglite: Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno](https://github.com/electric-sql/pglite)
+* [2024-02-25, 20:03:54](https://lobste.rs/s/jszzsn/creusot_deductive_verifier_for_rust_code) - [Creusot, a deductive verifier for Rust code](https://github.com/creusot-rs/creusot)
 * [2024-02-25, 19:54:27](https://lobste.rs/s/yf54bc/getting_help) - [Getting help](https://pulsar17.me/2024/02/ongettinghelp)
 * [2024-02-25, 19:30:11](https://lobste.rs/s/yyyzno/vscode_wsl_makes_windows_awesome_for_web) - [VSCode + WSL makes Windows awesome for web development](https://world.hey.com/dhh/vscode-wsl-makes-windows-awesome-for-web-development-9bc4d528)
 * [2024-02-25, 19:09:17](https://lobste.rs/s/dobs3w/neat_parallel_output_python) - [Neat parallel output in Python](https://bernsteinbear.com/blog/python-parallel-output/)
@@ -21,10 +23,8 @@
 * [2024-02-24, 19:06:59](https://lobste.rs/s/0najrp/on_light_colors_mixing_paints_numerical) - [On Light, Colors, Mixing Paints, and Numerical Optimization](https://github.com/miciwan/PaintMixing)
 * [2024-02-24, 17:56:00](https://lobste.rs/s/u9v0ki/can_you_make_basic_web_app_without) - [Can you make a basic web app without googling? I can't](https://austinhenley.com/blog/webappwithoutgoogling.html)
 * [2024-02-24, 16:51:59](https://lobste.rs/s/q08509/sway_1_9) - [Sway 1.9](https://github.com/swaywm/sway/releases/tag/1.9)
-* [2024-02-24, 16:30:52](https://lobste.rs/s/y1jn40/reverse_engineering_switch_lite) - [Reverse-Engineering a Switch Lite Boardview at 6,000 Pixels Per Inch](https://usoldering.com/switch-lite/)
 * [2024-02-24, 15:41:20](https://lobste.rs/s/rurlxp/asynchronous_clean_up_rust) - [Asynchronous clean-up [in Rust]](https://without.boats/blog/asynchronous-clean-up/)
 * [2024-02-24, 07:49:40](https://lobste.rs/s/uocusk/streetpass_for_mastodon) - [StreetPass for Mastodon](https://streetpass.social)
-* [2024-02-23, 15:02:54](https://lobste.rs/s/dghv8d/please_make_your_table_headings_sticky) - [Please Make Your Table Headings Sticky](https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/)
 
 ## [Archives](archives/index.md)
 
