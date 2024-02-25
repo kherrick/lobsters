@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-25, 20:29:29",
+      "https://lobste.rs/s/dr5dpd/q_on_rise_fall_software_recipes_2017"
+    ],
+    [
+      "Q&A on The Rise and Fall of Software Recipes (2017)",
+      "https://www.infoq.com/articles/book-review-rise-software-recipes/"
+    ]
+  ],
+  [
+    [
       "2024-02-25, 20:12:25",
       "https://lobste.rs/s/h6pjnv/pglite_lightweight_postgres_packaged_as"
     ],
@@ -197,16 +207,6 @@
     [
       "TOTP codes in the terminal",
       "https://jpmens.net/2024/02/23/totp-codes-in-the-terminal/"
-    ]
-  ],
-  [
-    [
-      "2024-02-24, 19:06:59",
-      "https://lobste.rs/s/0najrp/on_light_colors_mixing_paints_numerical"
-    ],
-    [
-      "On Light, Colors, Mixing Paints, and Numerical Optimization",
-      "https://github.com/miciwan/PaintMixing"
     ]
   ],
   [
