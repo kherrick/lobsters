@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-25](index.md)
 
+* [2024-02-25, 21:22:52](https://lobste.rs/s/r4g3kd/write_dumb_code) - [Write Dumb Code](https://matthewrocklin.com/write-dumb-code.html)
 * [2024-02-25, 20:35:27](https://lobste.rs/s/3amfgq/security_jawbreaker_acm_queue) - [The Security Jawbreaker - ACM Queue](https://queue.acm.org/detail.cfm?id=3631478)
 * [2024-02-25, 20:29:29](https://lobste.rs/s/dr5dpd/q_on_rise_fall_software_recipes_2017) - [Q&A on The Rise and Fall of Software Recipes (2017)](https://www.infoq.com/articles/book-review-rise-software-recipes/)
 * [2024-02-25, 20:12:25](https://lobste.rs/s/h6pjnv/pglite_lightweight_postgres_packaged_as) - [pglite: Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno](https://github.com/electric-sql/pglite)

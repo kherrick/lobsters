@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-25, 21:22:52](https://lobste.rs/s/r4g3kd/write_dumb_code) - [Write Dumb Code](https://matthewrocklin.com/write-dumb-code.html)
 * [2024-02-25, 20:35:27](https://lobste.rs/s/3amfgq/security_jawbreaker_acm_queue) - [The Security Jawbreaker - ACM Queue](https://queue.acm.org/detail.cfm?id=3631478)
 * [2024-02-25, 20:29:29](https://lobste.rs/s/dr5dpd/q_on_rise_fall_software_recipes_2017) - [Q&A on The Rise and Fall of Software Recipes (2017)](https://www.infoq.com/articles/book-review-rise-software-recipes/)
 * [2024-02-25, 20:12:25](https://lobste.rs/s/h6pjnv/pglite_lightweight_postgres_packaged_as) - [pglite: Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno](https://github.com/electric-sql/pglite)
@@ -20,7 +21,6 @@
 * [2024-02-25, 03:39:18](https://lobste.rs/s/ugzrmp/rust_linux_kernel) - [Rust in the Linux kernel](https://www.youtube.com/watch?v=CEznkXjYFb4)
 * [2024-02-25, 01:41:04](https://lobste.rs/s/uenazo/how_hold_kems) - [How to Hold KEMs](https://durumcrustulum.com/2024/02/24/how-to-hold-kems/)
 * [2024-02-25, 00:19:15](https://lobste.rs/s/wx95bf/universal_binary_format) - [Universal Binary Format](https://ubf.github.io/ubf/ubf-user-guide.en.html)
-* [2024-02-24, 23:58:22](https://lobste.rs/s/atvza2/totp_codes_terminal) - [TOTP codes in the terminal](https://jpmens.net/2024/02/23/totp-codes-in-the-terminal/)
 * [2024-02-24, 17:56:00](https://lobste.rs/s/u9v0ki/can_you_make_basic_web_app_without) - [Can you make a basic web app without googling? I can't](https://austinhenley.com/blog/webappwithoutgoogling.html)
 * [2024-02-24, 16:51:59](https://lobste.rs/s/q08509/sway_1_9) - [Sway 1.9](https://github.com/swaywm/sway/releases/tag/1.9)
 * [2024-02-24, 15:41:20](https://lobste.rs/s/rurlxp/asynchronous_clean_up_rust) - [Asynchronous clean-up [in Rust]](https://without.boats/blog/asynchronous-clean-up/)
