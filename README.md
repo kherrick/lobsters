@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-25, 01:41:04](https://lobste.rs/s/uenazo/how_hold_kems) - [How to Hold KEMs](https://durumcrustulum.com/2024/02/24/how-to-hold-kems/)
+* [2024-02-25, 01:40:28](https://lobste.rs/s/oecyh6/system_initiative) - [System Initiative](https://www.systeminit.com/open-source/)
 * [2024-02-25, 00:19:15](https://lobste.rs/s/wx95bf/universal_binary_format) - [Universal Binary Format](https://ubf.github.io/ubf/ubf-user-guide.en.html)
 * [2024-02-24, 23:58:22](https://lobste.rs/s/atvza2/totp_codes_terminal) - [TOTP codes in the terminal](https://jpmens.net/2024/02/23/totp-codes-in-the-terminal/)
 * [2024-02-24, 23:52:51](https://lobste.rs/s/w8ohxz/lattices_vs_cranks) - [Lattices vs Cranks](https://keymaterial.net/2024/02/24/lattices-vs-cranks/)
 * [2024-02-24, 21:53:58](https://lobste.rs/s/sy5x6b/first_microcomputer_transfluxor) - [The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962](http://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html)
-* [2024-02-24, 21:52:03](https://lobste.rs/s/byh5s2/generalist_embodied_agent_research_gear) - [Generalist Embodied Agent Research (GEAR)](https://research.nvidia.com/labs/gear/)
 * [2024-02-24, 20:11:57](https://lobste.rs/s/x4ysak/snohetta_s_environmentally_friendly) - [Snøhetta's environmentally-friendly website](https://www.snohetta.com/perspectives/digital-design-in-the-age-of-sustainability)
 * [2024-02-24, 19:06:59](https://lobste.rs/s/0najrp/on_light_colors_mixing_paints_numerical) - [On Light, Colors, Mixing Paints, and Numerical Optimization](https://github.com/miciwan/PaintMixing)
 * [2024-02-24, 17:56:00](https://lobste.rs/s/u9v0ki/can_you_make_basic_web_app_without) - [Can you make a basic web app without googling? I can't](https://austinhenley.com/blog/webappwithoutgoogling.html)
@@ -23,7 +24,6 @@
 * [2024-02-23, 15:02:54](https://lobste.rs/s/dghv8d/please_make_your_table_headings_sticky) - [Please Make Your Table Headings Sticky](https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/)
 * [2024-02-23, 14:32:26](https://lobste.rs/s/kz0jpg/everyone_seems_forget_why_gnome_gnome_3) - [Everyone seems to forget why GNOME and GNOME 3 and Unity happened (2022)](https://liam-on-linux.dreamwidth.org/85359.html)
 * [2024-02-23, 14:31:37](https://lobste.rs/s/w3zkxx/lobsters_interview_with_bjorn_stahl) - [Lobsters interview with Bjorn Stahl](https://lobste.rs/s/w3zkxx/lobsters_interview_with_bjorn_stahl)
-* [2024-02-23, 13:30:57](https://lobste.rs/s/b3ahkj/why_my_code_isn_t_typescript) - [Why my code isn't in TypeScript](https://remysharp.com/2024/02/23/why-my-code-isnt-in-typescript)
 * [2024-02-23, 11:29:49](https://lobste.rs/s/azii4m/thanks_fedex_this_is_why_we_keep_getting) - [Thanks FedEx, This is Why we Keep Getting Phished](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
 
 ## [Archives](archives/index.md)
