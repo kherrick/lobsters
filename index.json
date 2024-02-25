@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-25, 13:07:34",
+      "https://lobste.rs/s/ruufih/go_range_over_functions_proposal_user"
+    ],
+    [
+      "The Go 'range over functions' proposal and user-written container types",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/GoRangefuncAndUserContainers"
+    ]
+  ],
+  [
+    [
       "2024-02-25, 12:52:51",
       "https://lobste.rs/s/9t2wvy/building_fly_io_like_scheduler_with"
     ],
@@ -97,16 +107,6 @@
     [
       "TOTP codes in the terminal",
       "https://jpmens.net/2024/02/23/totp-codes-in-the-terminal/"
-    ]
-  ],
-  [
-    [
-      "2024-02-24, 23:52:51",
-      "https://lobste.rs/s/w8ohxz/lattices_vs_cranks"
-    ],
-    [
-      "Lattices vs Cranks",
-      "https://keymaterial.net/2024/02/24/lattices-vs-cranks/"
     ]
   ],
   [
