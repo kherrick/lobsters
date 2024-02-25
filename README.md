@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-25, 18:56:11](https://lobste.rs/s/cq9nop/keytrap_denial_service_algorithmic) - [The KeyTrap Denial-of-Service Algorithmic Complexity Attacks on DNS](https://www.athene-center.de/fileadmin/content/PDF/Keytrap_2401.pdf)
+* [2024-02-25, 18:54:00](https://lobste.rs/s/9evrhm/wrapping_up_practical_sml) - [Wrapping up `Practical SML#'](https://pzel.name/2024/02/24/Wrapping-up-with-SMLsharp.html)
 * [2024-02-25, 18:40:58](https://lobste.rs/s/8u2vrc/sshattrick_play_hattrick_your_terminal) - [ssHattrick: Play Hattrick in your terminal over SSH](https://github.com/ricott1/sshattrick)
 * [2024-02-25, 18:34:18](https://lobste.rs/s/qf01wy/empirical_evaluation_llms_for_solving) - [An Empirical Evaluation of LLMs for Solving Offensive Security Challenges](https://arxiv.org/pdf/2402.11814.pdf)
 * [2024-02-25, 18:33:03](https://lobste.rs/s/i0fbsm/hallucination_is_inevitable_innate) - [Hallucination is Inevitable: An Innate Limitation of Large Language Models](https://arxiv.org/abs/2401.11817)
@@ -13,10 +15,8 @@
 * [2024-02-25, 01:40:28](https://lobste.rs/s/oecyh6/system_initiative) - [System Initiative](https://www.systeminit.com/open-source/)
 * [2024-02-25, 00:19:15](https://lobste.rs/s/wx95bf/universal_binary_format) - [Universal Binary Format](https://ubf.github.io/ubf/ubf-user-guide.en.html)
 * [2024-02-24, 23:58:22](https://lobste.rs/s/atvza2/totp_codes_terminal) - [TOTP codes in the terminal](https://jpmens.net/2024/02/23/totp-codes-in-the-terminal/)
-* [2024-02-24, 23:52:51](https://lobste.rs/s/w8ohxz/lattices_vs_cranks) - [Lattices vs Cranks](https://keymaterial.net/2024/02/24/lattices-vs-cranks/)
 * [2024-02-24, 19:06:59](https://lobste.rs/s/0najrp/on_light_colors_mixing_paints_numerical) - [On Light, Colors, Mixing Paints, and Numerical Optimization](https://github.com/miciwan/PaintMixing)
 * [2024-02-24, 17:56:00](https://lobste.rs/s/u9v0ki/can_you_make_basic_web_app_without) - [Can you make a basic web app without googling? I can't](https://austinhenley.com/blog/webappwithoutgoogling.html)
-* [2024-02-24, 17:15:31](https://lobste.rs/s/eenimf/co_developing_programs_their_proof) - [Co-Developing Programs and Their Proof of Correctness](https://cacm.acm.org/magazines/2024/3/280078-co-developing-programs-and-their-proof-of-correctness/fulltext)
 * [2024-02-24, 16:51:59](https://lobste.rs/s/q08509/sway_1_9) - [Sway 1.9](https://github.com/swaywm/sway/releases/tag/1.9)
 * [2024-02-24, 16:30:52](https://lobste.rs/s/y1jn40/reverse_engineering_switch_lite) - [Reverse-Engineering a Switch Lite Boardview at 6,000 Pixels Per Inch](https://usoldering.com/switch-lite/)
 * [2024-02-24, 15:41:20](https://lobste.rs/s/rurlxp/asynchronous_clean_up_rust) - [Asynchronous clean-up [in Rust]](https://without.boats/blog/asynchronous-clean-up/)
