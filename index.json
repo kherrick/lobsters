@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-25, 18:34:18",
+      "https://lobste.rs/s/qf01wy/empirical_evaluation_llms_for_solving"
+    ],
+    [
+      "An Empirical Evaluation of LLMs for Solving Offensive Security Challenges",
+      "https://arxiv.org/pdf/2402.11814.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-02-25, 18:33:03",
+      "https://lobste.rs/s/i0fbsm/hallucination_is_inevitable_innate"
+    ],
+    [
+      "Hallucination is Inevitable: An Innate Limitation of Large Language Models",
+      "https://arxiv.org/abs/2401.11817"
+    ]
+  ],
+  [
+    [
       "2024-02-25, 12:52:51",
       "https://lobste.rs/s/9t2wvy/building_fly_io_like_scheduler_with"
     ],
@@ -227,26 +247,6 @@
     [
       "Please Make Your Table Headings Sticky",
       "https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/"
-    ]
-  ],
-  [
-    [
-      "2024-02-23, 14:31:37",
-      "https://lobste.rs/s/w3zkxx/lobsters_interview_with_bjorn_stahl"
-    ],
-    [
-      "Lobsters interview with Bjorn Stahl",
-      "https://lobste.rs/s/w3zkxx/lobsters_interview_with_bjorn_stahl"
-    ]
-  ],
-  [
-    [
-      "2024-02-23, 11:29:49",
-      "https://lobste.rs/s/azii4m/thanks_fedex_this_is_why_we_keep_getting"
-    ],
-    [
-      "Thanks FedEx, This is Why we Keep Getting Phished",
-      "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/"
     ]
   ]
 ]
