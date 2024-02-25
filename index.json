@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-25, 18:56:11",
+      "https://lobste.rs/s/cq9nop/keytrap_denial_service_algorithmic"
+    ],
+    [
+      "The KeyTrap Denial-of-Service Algorithmic Complexity Attacks on DNS",
+      "https://www.athene-center.de/fileadmin/content/PDF/Keytrap_2401.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-02-25, 18:54:00",
+      "https://lobste.rs/s/9evrhm/wrapping_up_practical_sml"
+    ],
+    [
+      "Wrapping up `Practical SML#'",
+      "https://pzel.name/2024/02/24/Wrapping-up-with-SMLsharp.html"
+    ]
+  ],
+  [
+    [
       "2024-02-25, 18:40:58",
       "https://lobste.rs/s/8u2vrc/sshattrick_play_hattrick_your_terminal"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-02-24, 23:52:51",
-      "https://lobste.rs/s/w8ohxz/lattices_vs_cranks"
-    ],
-    [
-      "Lattices vs Cranks",
-      "https://keymaterial.net/2024/02/24/lattices-vs-cranks/"
-    ]
-  ],
-  [
-    [
       "2024-02-24, 19:06:59",
       "https://lobste.rs/s/0najrp/on_light_colors_mixing_paints_numerical"
     ],
@@ -157,16 +167,6 @@
     [
       "Can you make a basic web app without googling? I can't",
       "https://austinhenley.com/blog/webappwithoutgoogling.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-24, 17:15:31",
-      "https://lobste.rs/s/eenimf/co_developing_programs_their_proof"
-    ],
-    [
-      "Co-Developing Programs and Their Proof of Correctness",
-      "https://cacm.acm.org/magazines/2024/3/280078-co-developing-programs-and-their-proof-of-correctness/fulltext"
     ]
   ],
   [
