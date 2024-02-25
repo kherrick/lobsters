@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-25, 20:29:29](https://lobste.rs/s/dr5dpd/q_on_rise_fall_software_recipes_2017) - [Q&A on The Rise and Fall of Software Recipes (2017)](https://www.infoq.com/articles/book-review-rise-software-recipes/)
 * [2024-02-25, 20:12:25](https://lobste.rs/s/h6pjnv/pglite_lightweight_postgres_packaged_as) - [pglite: Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno](https://github.com/electric-sql/pglite)
 * [2024-02-25, 20:03:54](https://lobste.rs/s/jszzsn/creusot_deductive_verifier_for_rust_code) - [Creusot, a deductive verifier for Rust code](https://github.com/creusot-rs/creusot)
 * [2024-02-25, 19:54:27](https://lobste.rs/s/yf54bc/getting_help) - [Getting help](https://pulsar17.me/2024/02/ongettinghelp)
@@ -20,7 +21,6 @@
 * [2024-02-25, 01:40:28](https://lobste.rs/s/oecyh6/system_initiative) - [System Initiative](https://www.systeminit.com/open-source/)
 * [2024-02-25, 00:19:15](https://lobste.rs/s/wx95bf/universal_binary_format) - [Universal Binary Format](https://ubf.github.io/ubf/ubf-user-guide.en.html)
 * [2024-02-24, 23:58:22](https://lobste.rs/s/atvza2/totp_codes_terminal) - [TOTP codes in the terminal](https://jpmens.net/2024/02/23/totp-codes-in-the-terminal/)
-* [2024-02-24, 19:06:59](https://lobste.rs/s/0najrp/on_light_colors_mixing_paints_numerical) - [On Light, Colors, Mixing Paints, and Numerical Optimization](https://github.com/miciwan/PaintMixing)
 * [2024-02-24, 17:56:00](https://lobste.rs/s/u9v0ki/can_you_make_basic_web_app_without) - [Can you make a basic web app without googling? I can't](https://austinhenley.com/blog/webappwithoutgoogling.html)
 * [2024-02-24, 16:51:59](https://lobste.rs/s/q08509/sway_1_9) - [Sway 1.9](https://github.com/swaywm/sway/releases/tag/1.9)
 * [2024-02-24, 15:41:20](https://lobste.rs/s/rurlxp/asynchronous_clean_up_rust) - [Asynchronous clean-up [in Rust]](https://without.boats/blog/asynchronous-clean-up/)
