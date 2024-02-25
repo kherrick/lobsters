@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-25](index.md)
 
+* [2024-02-25, 18:34:18](https://lobste.rs/s/qf01wy/empirical_evaluation_llms_for_solving) - [An Empirical Evaluation of LLMs for Solving Offensive Security Challenges](https://arxiv.org/pdf/2402.11814.pdf)
+* [2024-02-25, 18:33:03](https://lobste.rs/s/i0fbsm/hallucination_is_inevitable_innate) - [Hallucination is Inevitable: An Innate Limitation of Large Language Models](https://arxiv.org/abs/2401.11817)
 * [2024-02-25, 13:07:34](https://lobste.rs/s/ruufih/go_range_over_functions_proposal_user) - [The Go 'range over functions' proposal and user-written container types](https://utcc.utoronto.ca/~cks/space/blog/programming/GoRangefuncAndUserContainers)
 * [2024-02-25, 12:52:51](https://lobste.rs/s/9t2wvy/building_fly_io_like_scheduler_with) - [Building a Fly.io-like Scheduler with Resource Requirements](https://www.aspiring.dev/fly-io-scheduler-part-2/)
 * [2024-02-25, 10:59:21](https://lobste.rs/s/ebtwsu/coding_anime_woosh_screen_on_amiga) - [Coding the anime \"woosh\" screen on Amiga](https://dansalva.to/coding-the-anime-woosh-screen-on-amiga/)
