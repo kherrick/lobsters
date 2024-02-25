@@ -21,8 +21,8 @@
 * [2024-02-24, 07:16:58](https://lobste.rs/s/4hltnk/shoes_easiest_little_gui_toolkit_for_ruby) - [Shoes! The easiest little GUI toolkit, for Ruby](http://shoesrb.com/)
 * [2024-02-24, 02:48:55](https://lobste.rs/s/ujfsdw/intel_processor_instability_causing) - [Intel Processor Instability Causing Oodle Decompression Failures](https://www.radgametools.com/oodleintel.htm)
 * [2024-02-23, 21:28:30](https://lobste.rs/s/mdvuyq/really_large_repositories) - [Really Large Repositories](https://blog.gitbutler.com/git-tips-3-really-large-repositories/)
+* [2024-02-23, 20:33:00](https://lobste.rs/s/fxbaoj/cycles_all_way_down) - [Cycles all the way down](https://coredumped.dev/2024/02/23/cycles-all-way-down/)
 * [2024-02-23, 15:02:54](https://lobste.rs/s/dghv8d/please_make_your_table_headings_sticky) - [Please Make Your Table Headings Sticky](https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/)
-* [2024-02-23, 14:32:26](https://lobste.rs/s/kz0jpg/everyone_seems_forget_why_gnome_gnome_3) - [Everyone seems to forget why GNOME and GNOME 3 and Unity happened (2022)](https://liam-on-linux.dreamwidth.org/85359.html)
 * [2024-02-23, 14:31:37](https://lobste.rs/s/w3zkxx/lobsters_interview_with_bjorn_stahl) - [Lobsters interview with Bjorn Stahl](https://lobste.rs/s/w3zkxx/lobsters_interview_with_bjorn_stahl)
 * [2024-02-23, 11:29:49](https://lobste.rs/s/azii4m/thanks_fedex_this_is_why_we_keep_getting) - [Thanks FedEx, This is Why we Keep Getting Phished](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
 
