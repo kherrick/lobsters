@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-25, 19:54:27](https://lobste.rs/s/yf54bc/getting_help) - [Getting help](https://pulsar17.me/2024/02/ongettinghelp)
 * [2024-02-25, 19:30:11](https://lobste.rs/s/yyyzno/vscode_wsl_makes_windows_awesome_for_web) - [VSCode + WSL makes Windows awesome for web development](https://world.hey.com/dhh/vscode-wsl-makes-windows-awesome-for-web-development-9bc4d528)
 * [2024-02-25, 19:09:17](https://lobste.rs/s/dobs3w/neat_parallel_output_python) - [Neat parallel output in Python](https://bernsteinbear.com/blog/python-parallel-output/)
 * [2024-02-25, 18:56:11](https://lobste.rs/s/cq9nop/keytrap_denial_service_algorithmic) - [The KeyTrap Denial-of-Service Algorithmic Complexity Attacks on DNS](https://www.athene-center.de/fileadmin/content/PDF/Keytrap_2401.pdf)
@@ -23,7 +24,6 @@
 * [2024-02-24, 16:30:52](https://lobste.rs/s/y1jn40/reverse_engineering_switch_lite) - [Reverse-Engineering a Switch Lite Boardview at 6,000 Pixels Per Inch](https://usoldering.com/switch-lite/)
 * [2024-02-24, 15:41:20](https://lobste.rs/s/rurlxp/asynchronous_clean_up_rust) - [Asynchronous clean-up [in Rust]](https://without.boats/blog/asynchronous-clean-up/)
 * [2024-02-24, 07:49:40](https://lobste.rs/s/uocusk/streetpass_for_mastodon) - [StreetPass for Mastodon](https://streetpass.social)
-* [2024-02-24, 07:16:58](https://lobste.rs/s/4hltnk/shoes_easiest_little_gui_toolkit_for_ruby) - [Shoes! The easiest little GUI toolkit, for Ruby](http://shoesrb.com/)
 * [2024-02-23, 15:02:54](https://lobste.rs/s/dghv8d/please_make_your_table_headings_sticky) - [Please Make Your Table Headings Sticky](https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/)
 
 ## [Archives](archives/index.md)

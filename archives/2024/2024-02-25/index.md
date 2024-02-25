@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-25](index.md)
 
+* [2024-02-25, 19:54:27](https://lobste.rs/s/yf54bc/getting_help) - [Getting help](https://pulsar17.me/2024/02/ongettinghelp)
 * [2024-02-25, 19:30:11](https://lobste.rs/s/yyyzno/vscode_wsl_makes_windows_awesome_for_web) - [VSCode + WSL makes Windows awesome for web development](https://world.hey.com/dhh/vscode-wsl-makes-windows-awesome-for-web-development-9bc4d528)
 * [2024-02-25, 19:09:17](https://lobste.rs/s/dobs3w/neat_parallel_output_python) - [Neat parallel output in Python](https://bernsteinbear.com/blog/python-parallel-output/)
 * [2024-02-25, 18:56:11](https://lobste.rs/s/cq9nop/keytrap_denial_service_algorithmic) - [The KeyTrap Denial-of-Service Algorithmic Complexity Attacks on DNS](https://www.athene-center.de/fileadmin/content/PDF/Keytrap_2401.pdf)
