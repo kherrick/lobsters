@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-25, 19:30:11",
+      "https://lobste.rs/s/yyyzno/vscode_wsl_makes_windows_awesome_for_web"
+    ],
+    [
+      "VSCode + WSL makes Windows awesome for web development",
+      "https://world.hey.com/dhh/vscode-wsl-makes-windows-awesome-for-web-development-9bc4d528"
+    ]
+  ],
+  [
+    [
       "2024-02-25, 19:09:17",
       "https://lobste.rs/s/dobs3w/neat_parallel_output_python"
     ],
@@ -207,16 +217,6 @@
     [
       "Asynchronous clean-up [in Rust]",
       "https://without.boats/blog/asynchronous-clean-up/"
-    ]
-  ],
-  [
-    [
-      "2024-02-24, 08:39:13",
-      "https://lobste.rs/s/qhxh4b/contributing_scrutiny_nixpkgs"
-    ],
-    [
-      "Contributing Scrutiny to nixpkgs",
-      "https://jnsgr.uk/2024/02/contributing-scrutiny-to-nixpkgs/"
     ]
   ],
   [
