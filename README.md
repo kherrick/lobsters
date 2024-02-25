@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-25, 13:07:34](https://lobste.rs/s/ruufih/go_range_over_functions_proposal_user) - [The Go 'range over functions' proposal and user-written container types](https://utcc.utoronto.ca/~cks/space/blog/programming/GoRangefuncAndUserContainers)
 * [2024-02-25, 12:52:51](https://lobste.rs/s/9t2wvy/building_fly_io_like_scheduler_with) - [Building a Fly.io-like Scheduler with Resource Requirements](https://www.aspiring.dev/fly-io-scheduler-part-2/)
 * [2024-02-25, 10:59:21](https://lobste.rs/s/ebtwsu/coding_anime_woosh_screen_on_amiga) - [Coding the anime \"woosh\" screen on Amiga](https://dansalva.to/coding-the-anime-woosh-screen-on-amiga/)
 * [2024-02-25, 08:15:15](https://lobste.rs/s/czcfzg/retrospective_on_requests) - [A Retrospective on Requests](https://blog.ian.stapletoncordas.co/2024/02/a-retrospective-on-requests)
@@ -10,7 +11,6 @@
 * [2024-02-25, 01:40:28](https://lobste.rs/s/oecyh6/system_initiative) - [System Initiative](https://www.systeminit.com/open-source/)
 * [2024-02-25, 00:19:15](https://lobste.rs/s/wx95bf/universal_binary_format) - [Universal Binary Format](https://ubf.github.io/ubf/ubf-user-guide.en.html)
 * [2024-02-24, 23:58:22](https://lobste.rs/s/atvza2/totp_codes_terminal) - [TOTP codes in the terminal](https://jpmens.net/2024/02/23/totp-codes-in-the-terminal/)
-* [2024-02-24, 23:52:51](https://lobste.rs/s/w8ohxz/lattices_vs_cranks) - [Lattices vs Cranks](https://keymaterial.net/2024/02/24/lattices-vs-cranks/)
 * [2024-02-24, 21:53:58](https://lobste.rs/s/sy5x6b/first_microcomputer_transfluxor) - [The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962](http://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html)
 * [2024-02-24, 19:06:59](https://lobste.rs/s/0najrp/on_light_colors_mixing_paints_numerical) - [On Light, Colors, Mixing Paints, and Numerical Optimization](https://github.com/miciwan/PaintMixing)
 * [2024-02-24, 17:56:00](https://lobste.rs/s/u9v0ki/can_you_make_basic_web_app_without) - [Can you make a basic web app without googling? I can't](https://austinhenley.com/blog/webappwithoutgoogling.html)
