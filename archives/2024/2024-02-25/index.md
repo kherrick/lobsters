@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-25](index.md)
 
+* [2024-02-25, 10:59:21](https://lobste.rs/s/ebtwsu/coding_anime_woosh_screen_on_amiga) - [Coding the anime \"woosh\" screen on Amiga](https://dansalva.to/coding-the-anime-woosh-screen-on-amiga/)
 * [2024-02-25, 08:15:15](https://lobste.rs/s/czcfzg/retrospective_on_requests) - [A Retrospective on Requests](https://blog.ian.stapletoncordas.co/2024/02/a-retrospective-on-requests)
 * [2024-02-25, 06:51:02](https://lobste.rs/s/yiczp8/tenement_farming_cloud_hsms) - [Tenement Farming and Cloud HSMs](http://unmitigatedrisk.com/?p=771)
 * [2024-02-25, 06:51:01](https://lobste.rs/s/shseqz/how_does_bluesky_work) - [How Does BlueSky Work?](https://steveklabnik.com/writing/how-does-bluesky-work)

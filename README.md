@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-25, 10:59:21](https://lobste.rs/s/ebtwsu/coding_anime_woosh_screen_on_amiga) - [Coding the anime \"woosh\" screen on Amiga](https://dansalva.to/coding-the-anime-woosh-screen-on-amiga/)
 * [2024-02-25, 08:15:15](https://lobste.rs/s/czcfzg/retrospective_on_requests) - [A Retrospective on Requests](https://blog.ian.stapletoncordas.co/2024/02/a-retrospective-on-requests)
 * [2024-02-25, 06:51:02](https://lobste.rs/s/yiczp8/tenement_farming_cloud_hsms) - [Tenement Farming and Cloud HSMs](http://unmitigatedrisk.com/?p=771)
 * [2024-02-25, 06:51:01](https://lobste.rs/s/shseqz/how_does_bluesky_work) - [How Does BlueSky Work?](https://steveklabnik.com/writing/how-does-bluesky-work)
@@ -21,7 +22,6 @@
 * [2024-02-24, 08:39:13](https://lobste.rs/s/qhxh4b/contributing_scrutiny_nixpkgs) - [Contributing Scrutiny to nixpkgs](https://jnsgr.uk/2024/02/contributing-scrutiny-to-nixpkgs/)
 * [2024-02-24, 07:49:40](https://lobste.rs/s/uocusk/streetpass_for_mastodon) - [StreetPass for Mastodon](https://streetpass.social)
 * [2024-02-24, 07:16:58](https://lobste.rs/s/4hltnk/shoes_easiest_little_gui_toolkit_for_ruby) - [Shoes! The easiest little GUI toolkit, for Ruby](http://shoesrb.com/)
-* [2024-02-23, 21:28:30](https://lobste.rs/s/mdvuyq/really_large_repositories) - [Really Large Repositories](https://blog.gitbutler.com/git-tips-3-really-large-repositories/)
 * [2024-02-23, 15:02:54](https://lobste.rs/s/dghv8d/please_make_your_table_headings_sticky) - [Please Make Your Table Headings Sticky](https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/)
 * [2024-02-23, 14:31:37](https://lobste.rs/s/w3zkxx/lobsters_interview_with_bjorn_stahl) - [Lobsters interview with Bjorn Stahl](https://lobste.rs/s/w3zkxx/lobsters_interview_with_bjorn_stahl)
 * [2024-02-23, 11:29:49](https://lobste.rs/s/azii4m/thanks_fedex_this_is_why_we_keep_getting) - [Thanks FedEx, This is Why we Keep Getting Phished](https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/)
