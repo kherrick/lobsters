@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-25, 06:51:02](https://lobste.rs/s/yiczp8/tenement_farming_cloud_hsms) - [Tenement Farming and Cloud HSMs](http://unmitigatedrisk.com/?p=771)
+* [2024-02-25, 06:51:01](https://lobste.rs/s/shseqz/how_does_bluesky_work) - [How Does BlueSky Work?](https://steveklabnik.com/writing/how-does-bluesky-work)
 * [2024-02-25, 03:39:18](https://lobste.rs/s/ugzrmp/rust_linux_kernel) - [Rust in the Linux kernel](https://www.youtube.com/watch?v=CEznkXjYFb4)
 * [2024-02-25, 01:41:04](https://lobste.rs/s/uenazo/how_hold_kems) - [How to Hold KEMs](https://durumcrustulum.com/2024/02/24/how-to-hold-kems/)
 * [2024-02-25, 01:40:28](https://lobste.rs/s/oecyh6/system_initiative) - [System Initiative](https://www.systeminit.com/open-source/)
@@ -7,8 +9,6 @@
 * [2024-02-24, 23:58:22](https://lobste.rs/s/atvza2/totp_codes_terminal) - [TOTP codes in the terminal](https://jpmens.net/2024/02/23/totp-codes-in-the-terminal/)
 * [2024-02-24, 23:52:51](https://lobste.rs/s/w8ohxz/lattices_vs_cranks) - [Lattices vs Cranks](https://keymaterial.net/2024/02/24/lattices-vs-cranks/)
 * [2024-02-24, 21:53:58](https://lobste.rs/s/sy5x6b/first_microcomputer_transfluxor) - [The first microcomputer: The transfluxor-powered Arma Micro Computer from 1962](http://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html)
-* [2024-02-24, 20:11:57](https://lobste.rs/s/x4ysak/snohetta_s_environmentally_friendly) - [Snøhetta's environmentally-friendly website](https://www.snohetta.com/perspectives/digital-design-in-the-age-of-sustainability)
-* [2024-02-24, 19:21:14](https://lobste.rs/s/irt45w/interpretable_machine_learning) - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 * [2024-02-24, 19:06:59](https://lobste.rs/s/0najrp/on_light_colors_mixing_paints_numerical) - [On Light, Colors, Mixing Paints, and Numerical Optimization](https://github.com/miciwan/PaintMixing)
 * [2024-02-24, 17:56:00](https://lobste.rs/s/u9v0ki/can_you_make_basic_web_app_without) - [Can you make a basic web app without googling? I can't](https://austinhenley.com/blog/webappwithoutgoogling.html)
 * [2024-02-24, 17:15:31](https://lobste.rs/s/eenimf/co_developing_programs_their_proof) - [Co-Developing Programs and Their Proof of Correctness](https://cacm.acm.org/magazines/2024/3/280078-co-developing-programs-and-their-proof-of-correctness/fulltext)
