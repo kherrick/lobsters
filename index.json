@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-25, 19:09:17",
+      "https://lobste.rs/s/dobs3w/neat_parallel_output_python"
+    ],
+    [
+      "Neat parallel output in Python",
+      "https://bernsteinbear.com/blog/python-parallel-output/"
+    ]
+  ],
+  [
+    [
       "2024-02-25, 18:56:11",
       "https://lobste.rs/s/cq9nop/keytrap_denial_service_algorithmic"
     ],
@@ -197,16 +207,6 @@
     [
       "Asynchronous clean-up [in Rust]",
       "https://without.boats/blog/asynchronous-clean-up/"
-    ]
-  ],
-  [
-    [
-      "2024-02-24, 12:47:56",
-      "https://lobste.rs/s/nmls74/css_has_interactive_guide"
-    ],
-    [
-      "CSS :has() Interactive Guide",
-      "https://ishadeed.com/article/css-has-guide/"
     ]
   ],
   [
