@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-26](index.md)
 
+* [2024-02-26, 18:25:37](https://lobste.rs/s/l7dtkw/common_mistakes_modularisation) - [Common Mistakes in Modularisation](https://two-wrongs.com/software-design-tree-and-program-families.html)
+* [2024-02-26, 17:57:06](https://lobste.rs/s/h8tnkz/how_find_aws_account_id_any_s3_bucket) - [How to find the AWS Account ID of any S3 Bucket](https://tracebit.com/blog/2024/02/finding-aws-account-id-of-any-s3-bucket/)
 * [2024-02-26, 17:09:02](https://lobste.rs/s/ovo6iu/kem_trails_understanding_key) - [KEM Trails – Understanding Key Encapsulation Mechanisms](https://soatok.blog/2024/02/26/kem-trails-understanding-key-encapsulation-mechanisms/)
 * [2024-02-26, 16:51:55](https://lobste.rs/s/nvggzh/postgres_playground_with_tutorials) - [Postgres Playground with Tutorials and Postgres in your Browser](https://www.crunchydata.com/developers/tutorials)
 * [2024-02-26, 16:42:36](https://lobste.rs/s/jliiye/how_i_use_nix_on_macos) - [How I use Nix on macOS](https://blog.6nok.org/how-i-use-nix-on-macos/)

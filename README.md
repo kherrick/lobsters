@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-26, 18:25:37](https://lobste.rs/s/l7dtkw/common_mistakes_modularisation) - [Common Mistakes in Modularisation](https://two-wrongs.com/software-design-tree-and-program-families.html)
+* [2024-02-26, 17:57:06](https://lobste.rs/s/h8tnkz/how_find_aws_account_id_any_s3_bucket) - [How to find the AWS Account ID of any S3 Bucket](https://tracebit.com/blog/2024/02/finding-aws-account-id-of-any-s3-bucket/)
 * [2024-02-26, 17:09:02](https://lobste.rs/s/ovo6iu/kem_trails_understanding_key) - [KEM Trails – Understanding Key Encapsulation Mechanisms](https://soatok.blog/2024/02/26/kem-trails-understanding-key-encapsulation-mechanisms/)
 * [2024-02-26, 16:51:55](https://lobste.rs/s/nvggzh/postgres_playground_with_tutorials) - [Postgres Playground with Tutorials and Postgres in your Browser](https://www.crunchydata.com/developers/tutorials)
 * [2024-02-26, 16:42:36](https://lobste.rs/s/jliiye/how_i_use_nix_on_macos) - [How I use Nix on macOS](https://blog.6nok.org/how-i-use-nix-on-macos/)
 * [2024-02-26, 15:30:57](https://lobste.rs/s/saclfh/what_if_best_practices_were_norm) - [What if best practices were the norm?](https://giacomocavalieri.me/posts/what-if-best-practices-were-the-norm)
 * [2024-02-26, 15:20:12](https://lobste.rs/s/tyzndh/first_look_at_lifetimes_rust) - [A First Look at Lifetimes in Rust](https://www.youtube.com/watch?v=-gkvOoxgp8E)
 * [2024-02-26, 15:11:31](https://lobste.rs/s/aakoyo/retrospective_thoughts_on_bitc_2012) - [Retrospective Thoughts on BitC (2012)](https://danluu.com/bitc-retrospective/)
-* [2024-02-26, 14:06:56](https://lobste.rs/s/jhzalu/c_library_handle_your_own_prompt_editor) - [A C++ library to handle your own prompt/editor environment](https://github.com/clauderouxster/editor/blob/main/README.md)
 * [2024-02-26, 13:11:04](https://lobste.rs/s/duf85r/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/duf85r/what_are_you_doing_this_week)
 * [2024-02-26, 12:53:10](https://lobste.rs/s/yxwldp/linux_kernel_key_retention_service_why) - [The Linux Kernel Key Retention Service and why you should use it in your next application](https://blog.cloudflare.com/the-linux-kernel-key-retention-service-and-why-you-should-use-it-in-your-next-application)
 * [2024-02-26, 12:34:59](https://lobste.rs/s/bjreuk/on_impossibility_composing_finalizers) - [on the impossibility of composing finalizers and ffi](https://wingolog.org/archives/2024/02/26/on-the-impossibility-of-composing-finalizers-and-ffi)
@@ -23,7 +24,6 @@
 * [2024-02-25, 19:54:27](https://lobste.rs/s/yf54bc/getting_help) - [Getting help](https://pulsar17.me/2024/02/ongettinghelp)
 * [2024-02-25, 18:54:00](https://lobste.rs/s/9evrhm/wrapping_up_practical_sml) - [Wrapping up `Practical SML#'](https://pzel.name/2024/02/24/Wrapping-up-with-SMLsharp.html)
 * [2024-02-25, 18:33:03](https://lobste.rs/s/i0fbsm/hallucination_is_inevitable_innate) - [Hallucination is Inevitable: An Innate Limitation of Large Language Models](https://arxiv.org/abs/2401.11817)
-* [2024-02-25, 12:52:51](https://lobste.rs/s/9t2wvy/building_fly_io_like_scheduler_with) - [Building a Fly.io-like Scheduler with Resource Requirements](https://www.aspiring.dev/fly-io-scheduler-part-2/)
 * [2024-02-25, 06:51:01](https://lobste.rs/s/shseqz/how_does_bluesky_work) - [How Does BlueSky Work?](https://steveklabnik.com/writing/how-does-bluesky-work)
 
 ## [Archives](archives/index.md)
