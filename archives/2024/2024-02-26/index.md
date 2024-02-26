@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-26](index.md)
 
+* [2024-02-26, 15:30:57](https://lobste.rs/s/saclfh/what_if_best_practices_were_norm) - [What if best practices were the norm?](https://giacomocavalieri.me/posts/what-if-best-practices-were-the-norm)
 * [2024-02-26, 15:20:12](https://lobste.rs/s/tyzndh/first_look_at_lifetimes_rust) - [A First Look at Lifetimes in Rust](https://www.youtube.com/watch?v=-gkvOoxgp8E)
 * [2024-02-26, 15:11:31](https://lobste.rs/s/aakoyo/retrospective_thoughts_on_bitc_2012) - [Retrospective Thoughts on BitC (2012)](https://danluu.com/bitc-retrospective/)
 * [2024-02-26, 14:06:56](https://lobste.rs/s/jhzalu/c_library_handle_your_own_prompt_editor) - [A C++ library to handle your own prompt/editor environment](https://github.com/clauderouxster/editor/blob/main/README.md)
