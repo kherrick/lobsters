@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-26](index.md)
 
+* [2024-02-26, 09:20:18](https://lobste.rs/s/ixyv5u/free_monitoring_certificate_expiry_via) - [Free Monitoring of Certificate Expiry via RSS](https://raphting.dev/posts/monitor-rss/)
 * [2024-02-26, 08:56:52](https://lobste.rs/s/ihnxxj/insecure_features_pdfs) - [Insecure Features in PDFs](https://web-in-security.blogspot.com/2021/01/insecure-features-in-pdfs.html)
 * [2024-02-26, 07:08:41](https://lobste.rs/s/1r0aak/twist_on_wadler_s_printer) - [A Twist on Wadler's Printer](https://justinpombrio.net/2024/02/23/a-twist-on-Wadlers-printer.html)
 * [2024-02-26, 06:28:41](https://lobste.rs/s/jxogwu/online_css_quality_analyzer) - [Online CSS quality analyzer](https://www.projectwallace.com/css-code-quality)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-26, 09:20:18](https://lobste.rs/s/ixyv5u/free_monitoring_certificate_expiry_via) - [Free Monitoring of Certificate Expiry via RSS](https://raphting.dev/posts/monitor-rss/)
 * [2024-02-26, 08:56:52](https://lobste.rs/s/ihnxxj/insecure_features_pdfs) - [Insecure Features in PDFs](https://web-in-security.blogspot.com/2021/01/insecure-features-in-pdfs.html)
 * [2024-02-26, 07:08:41](https://lobste.rs/s/1r0aak/twist_on_wadler_s_printer) - [A Twist on Wadler's Printer](https://justinpombrio.net/2024/02/23/a-twist-on-Wadlers-printer.html)
 * [2024-02-26, 06:28:41](https://lobste.rs/s/jxogwu/online_css_quality_analyzer) - [Online CSS quality analyzer](https://www.projectwallace.com/css-code-quality)
@@ -17,7 +18,6 @@
 * [2024-02-25, 18:56:11](https://lobste.rs/s/cq9nop/keytrap_denial_service_algorithmic) - [The KeyTrap Denial-of-Service Algorithmic Complexity Attacks on DNS](https://www.athene-center.de/fileadmin/content/PDF/Keytrap_2401.pdf)
 * [2024-02-25, 18:54:00](https://lobste.rs/s/9evrhm/wrapping_up_practical_sml) - [Wrapping up `Practical SML#'](https://pzel.name/2024/02/24/Wrapping-up-with-SMLsharp.html)
 * [2024-02-25, 18:40:58](https://lobste.rs/s/8u2vrc/sshattrick_play_hattrick_your_terminal) - [ssHattrick: Play Hattrick in your terminal over SSH](https://github.com/ricott1/sshattrick)
-* [2024-02-25, 18:34:18](https://lobste.rs/s/qf01wy/empirical_evaluation_llms_for_solving) - [An Empirical Evaluation of LLMs for Solving Offensive Security Challenges](https://arxiv.org/pdf/2402.11814.pdf)
 * [2024-02-25, 18:33:03](https://lobste.rs/s/i0fbsm/hallucination_is_inevitable_innate) - [Hallucination is Inevitable: An Innate Limitation of Large Language Models](https://arxiv.org/abs/2401.11817)
 * [2024-02-25, 12:52:51](https://lobste.rs/s/9t2wvy/building_fly_io_like_scheduler_with) - [Building a Fly.io-like Scheduler with Resource Requirements](https://www.aspiring.dev/fly-io-scheduler-part-2/)
 * [2024-02-25, 10:59:21](https://lobste.rs/s/ebtwsu/coding_anime_woosh_screen_on_amiga) - [Coding the anime \"woosh\" screen on Amiga](https://dansalva.to/coding-the-anime-woosh-screen-on-amiga/)
