@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-26, 12:34:59](https://lobste.rs/s/bjreuk/on_impossibility_composing_finalizers) - [on the impossibility of composing finalizers and ffi](https://wingolog.org/archives/2024/02/26/on-the-impossibility-of-composing-finalizers-and-ffi)
 * [2024-02-26, 12:08:53](https://lobste.rs/s/zip7di/status_update_february_2024) - [Status Update: February 2024](https://joshleeb.com/posts/status-update-2024-feb.html)
 * [2024-02-26, 11:44:07](https://lobste.rs/s/bf4hn9/history_tty) - [A History of the TTY](https://computer.rip/2024-02-25-a-history-of-the-tty.html)
 * [2024-02-26, 11:43:23](https://lobste.rs/s/7lvjw4/pulseaudiodb) - [PulseAudioDB](https://a.exozy.me/posts/pulseaudiodb/)
@@ -20,7 +21,6 @@
 * [2024-02-25, 19:30:11](https://lobste.rs/s/yyyzno/vscode_wsl_makes_windows_awesome_for_web) - [VSCode + WSL makes Windows awesome for web development](https://world.hey.com/dhh/vscode-wsl-makes-windows-awesome-for-web-development-9bc4d528)
 * [2024-02-25, 19:09:17](https://lobste.rs/s/dobs3w/neat_parallel_output_python) - [Neat parallel output in Python](https://bernsteinbear.com/blog/python-parallel-output/)
 * [2024-02-25, 18:54:00](https://lobste.rs/s/9evrhm/wrapping_up_practical_sml) - [Wrapping up `Practical SML#'](https://pzel.name/2024/02/24/Wrapping-up-with-SMLsharp.html)
-* [2024-02-25, 18:40:58](https://lobste.rs/s/8u2vrc/sshattrick_play_hattrick_your_terminal) - [ssHattrick: Play Hattrick in your terminal over SSH](https://github.com/ricott1/sshattrick)
 * [2024-02-25, 18:33:03](https://lobste.rs/s/i0fbsm/hallucination_is_inevitable_innate) - [Hallucination is Inevitable: An Innate Limitation of Large Language Models](https://arxiv.org/abs/2401.11817)
 * [2024-02-25, 12:52:51](https://lobste.rs/s/9t2wvy/building_fly_io_like_scheduler_with) - [Building a Fly.io-like Scheduler with Resource Requirements](https://www.aspiring.dev/fly-io-scheduler-part-2/)
 * [2024-02-25, 08:15:15](https://lobste.rs/s/czcfzg/retrospective_on_requests) - [A Retrospective on Requests](https://blog.ian.stapletoncordas.co/2024/02/a-retrospective-on-requests)
