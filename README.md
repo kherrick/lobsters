@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-26, 16:51:55](https://lobste.rs/s/nvggzh/postgres_playground_with_tutorials) - [Postgres Playground with Tutorials and Postgres in your Browser](https://www.crunchydata.com/developers/tutorials)
 * [2024-02-26, 16:42:36](https://lobste.rs/s/jliiye/how_i_use_nix_on_macos) - [How I use Nix on macOS](https://blog.6nok.org/how-i-use-nix-on-macos/)
 * [2024-02-26, 15:30:57](https://lobste.rs/s/saclfh/what_if_best_practices_were_norm) - [What if best practices were the norm?](https://giacomocavalieri.me/posts/what-if-best-practices-were-the-norm)
 * [2024-02-26, 15:20:12](https://lobste.rs/s/tyzndh/first_look_at_lifetimes_rust) - [A First Look at Lifetimes in Rust](https://www.youtube.com/watch?v=-gkvOoxgp8E)
@@ -17,7 +18,6 @@
 * [2024-02-26, 06:28:41](https://lobste.rs/s/jxogwu/online_css_quality_analyzer) - [Online CSS quality analyzer](https://www.projectwallace.com/css-code-quality)
 * [2024-02-26, 03:49:05](https://lobste.rs/s/delzpj/nekoweb_retro_static_site_hosting) - [nekoweb, retro static site hosting](https://nekoweb.org/)
 * [2024-02-26, 01:24:55](https://lobste.rs/s/y2s6sy/gifcities_by_internet_archive_search_for) - [GifCities by Internet Archive - search for GIFs scraped off Geocities](https://gifcities.org)
-* [2024-02-25, 21:42:53](https://lobste.rs/s/tf8xih/correct_decimal_floating_point_using_big) - [Correct Decimal To Floating-Point Using Big Integers](https://www.exploringbinary.com/correct-decimal-to-floating-point-using-big-integers/)
 * [2024-02-25, 21:22:52](https://lobste.rs/s/r4g3kd/write_dumb_code) - [Write Dumb Code](https://matthewrocklin.com/write-dumb-code.html)
 * [2024-02-25, 20:12:25](https://lobste.rs/s/h6pjnv/pglite_lightweight_postgres_packaged_as) - [pglite: Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno](https://github.com/electric-sql/pglite)
 * [2024-02-25, 19:54:27](https://lobste.rs/s/yf54bc/getting_help) - [Getting help](https://pulsar17.me/2024/02/ongettinghelp)
