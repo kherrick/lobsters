@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-26, 09:58:18](https://lobste.rs/s/dmceit/interactive_guide_fourier_series) - [An interactive guide to Fourier series](https://injuly.in/blog/fourier-series/index.html)
 * [2024-02-26, 09:39:52](https://lobste.rs/s/arpbra/doom_console_log_doom_rendered_via) - [doom-console-log: DOOM rendered via console.log() in a web browser](https://github.com/MattCozendey/doom-console-log)
 * [2024-02-26, 09:20:18](https://lobste.rs/s/ixyv5u/free_monitoring_certificate_expiry_via) - [Free Monitoring of Certificate Expiry via RSS](https://raphting.dev/posts/monitor-rss/)
 * [2024-02-26, 08:56:52](https://lobste.rs/s/ihnxxj/insecure_features_pdfs) - [Insecure Features in PDFs](https://web-in-security.blogspot.com/2021/01/insecure-features-in-pdfs.html)
@@ -8,7 +9,6 @@
 * [2024-02-26, 03:49:05](https://lobste.rs/s/delzpj/nekoweb_retro_static_site_hosting) - [nekoweb, retro static site hosting](https://nekoweb.org/)
 * [2024-02-26, 01:57:23](https://lobste.rs/s/pz8nxu/joy_programming) - [The Joy of Programming](https://www.youtube.com/watch?v=_JA04KfD7a4)
 * [2024-02-26, 01:24:55](https://lobste.rs/s/y2s6sy/gifcities_by_internet_archive_search_for) - [GifCities by Internet Archive - search for GIFs scraped off Geocities](https://gifcities.org)
-* [2024-02-26, 00:20:51](https://lobste.rs/s/2gckyb/encoding_floating_point_numbers_shorter) - [Encoding floating point numbers to shorter integers](https://retroforth.org/nga/docs/SqrtEncoding.pdf)
 * [2024-02-25, 21:42:53](https://lobste.rs/s/tf8xih/correct_decimal_floating_point_using_big) - [Correct Decimal To Floating-Point Using Big Integers](https://www.exploringbinary.com/correct-decimal-to-floating-point-using-big-integers/)
 * [2024-02-25, 21:22:52](https://lobste.rs/s/r4g3kd/write_dumb_code) - [Write Dumb Code](https://matthewrocklin.com/write-dumb-code.html)
 * [2024-02-25, 20:12:25](https://lobste.rs/s/h6pjnv/pglite_lightweight_postgres_packaged_as) - [pglite: Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno](https://github.com/electric-sql/pglite)
