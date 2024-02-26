@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-26](index.md)
 
+* [2024-02-26, 12:53:10](https://lobste.rs/s/yxwldp/linux_kernel_key_retention_service_why) - [The Linux Kernel Key Retention Service and why you should use it in your next application](https://blog.cloudflare.com/the-linux-kernel-key-retention-service-and-why-you-should-use-it-in-your-next-application)
 * [2024-02-26, 12:34:59](https://lobste.rs/s/bjreuk/on_impossibility_composing_finalizers) - [on the impossibility of composing finalizers and ffi](https://wingolog.org/archives/2024/02/26/on-the-impossibility-of-composing-finalizers-and-ffi)
 * [2024-02-26, 12:08:53](https://lobste.rs/s/zip7di/status_update_february_2024) - [Status Update: February 2024](https://joshleeb.com/posts/status-update-2024-feb.html)
 * [2024-02-26, 11:44:07](https://lobste.rs/s/bf4hn9/history_tty) - [A History of the TTY](https://computer.rip/2024-02-25-a-history-of-the-tty.html)
