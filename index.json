@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-26, 09:39:52",
+      "https://lobste.rs/s/arpbra/doom_console_log_doom_rendered_via"
+    ],
+    [
+      "doom-console-log: DOOM rendered via console.log() in a web browser",
+      "https://github.com/MattCozendey/doom-console-log"
+    ]
+  ],
+  [
+    [
       "2024-02-26, 09:20:18",
       "https://lobste.rs/s/ixyv5u/free_monitoring_certificate_expiry_via"
     ],
@@ -147,16 +157,6 @@
     [
       "Neat parallel output in Python",
       "https://bernsteinbear.com/blog/python-parallel-output/"
-    ]
-  ],
-  [
-    [
-      "2024-02-25, 18:56:11",
-      "https://lobste.rs/s/cq9nop/keytrap_denial_service_algorithmic"
-    ],
-    [
-      "The KeyTrap Denial-of-Service Algorithmic Complexity Attacks on DNS",
-      "https://www.athene-center.de/fileadmin/content/PDF/Keytrap_2401.pdf"
     ]
   ],
   [
