@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-26, 09:20:18",
+      "https://lobste.rs/s/ixyv5u/free_monitoring_certificate_expiry_via"
+    ],
+    [
+      "Free Monitoring of Certificate Expiry via RSS",
+      "https://raphting.dev/posts/monitor-rss/"
+    ]
+  ],
+  [
+    [
       "2024-02-26, 08:56:52",
       "https://lobste.rs/s/ihnxxj/insecure_features_pdfs"
     ],
@@ -167,16 +177,6 @@
     [
       "ssHattrick: Play Hattrick in your terminal over SSH",
       "https://github.com/ricott1/sshattrick"
-    ]
-  ],
-  [
-    [
-      "2024-02-25, 18:34:18",
-      "https://lobste.rs/s/qf01wy/empirical_evaluation_llms_for_solving"
-    ],
-    [
-      "An Empirical Evaluation of LLMs for Solving Offensive Security Challenges",
-      "https://arxiv.org/pdf/2402.11814.pdf"
     ]
   ],
   [
