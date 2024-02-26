@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-26, 07:08:41](https://lobste.rs/s/1r0aak/twist_on_wadler_s_printer) - [A Twist on Wadler's Printer](https://justinpombrio.net/2024/02/23/a-twist-on-Wadlers-printer.html)
 * [2024-02-26, 06:28:41](https://lobste.rs/s/jxogwu/online_css_quality_analyzer) - [Online CSS quality analyzer](https://www.projectwallace.com/css-code-quality)
 * [2024-02-26, 03:49:05](https://lobste.rs/s/delzpj/nekoweb_retro_static_site_hosting) - [nekoweb, retro static site hosting](https://nekoweb.org/)
 * [2024-02-26, 01:57:23](https://lobste.rs/s/pz8nxu/joy_programming) - [The Joy of Programming](https://www.youtube.com/watch?v=_JA04KfD7a4)
@@ -20,7 +21,6 @@
 * [2024-02-25, 12:52:51](https://lobste.rs/s/9t2wvy/building_fly_io_like_scheduler_with) - [Building a Fly.io-like Scheduler with Resource Requirements](https://www.aspiring.dev/fly-io-scheduler-part-2/)
 * [2024-02-25, 10:59:21](https://lobste.rs/s/ebtwsu/coding_anime_woosh_screen_on_amiga) - [Coding the anime \"woosh\" screen on Amiga](https://dansalva.to/coding-the-anime-woosh-screen-on-amiga/)
 * [2024-02-25, 08:15:15](https://lobste.rs/s/czcfzg/retrospective_on_requests) - [A Retrospective on Requests](https://blog.ian.stapletoncordas.co/2024/02/a-retrospective-on-requests)
-* [2024-02-25, 06:51:02](https://lobste.rs/s/yiczp8/tenement_farming_cloud_hsms) - [Tenement Farming and Cloud HSMs](http://unmitigatedrisk.com/?p=771)
 * [2024-02-25, 06:51:01](https://lobste.rs/s/shseqz/how_does_bluesky_work) - [How Does BlueSky Work?](https://steveklabnik.com/writing/how-does-bluesky-work)
 * [2024-02-24, 17:56:00](https://lobste.rs/s/u9v0ki/can_you_make_basic_web_app_without) - [Can you make a basic web app without googling? I can't](https://austinhenley.com/blog/webappwithoutgoogling.html)
 * [2024-02-24, 16:51:59](https://lobste.rs/s/q08509/sway_1_9) - [Sway 1.9](https://github.com/swaywm/sway/releases/tag/1.9)
