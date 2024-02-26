@@ -2,6 +2,7 @@
 
 * [2024-02-26, 15:30:57](https://lobste.rs/s/saclfh/what_if_best_practices_were_norm) - [What if best practices were the norm?](https://giacomocavalieri.me/posts/what-if-best-practices-were-the-norm)
 * [2024-02-26, 15:20:12](https://lobste.rs/s/tyzndh/first_look_at_lifetimes_rust) - [A First Look at Lifetimes in Rust](https://www.youtube.com/watch?v=-gkvOoxgp8E)
+* [2024-02-26, 15:11:31](https://lobste.rs/s/aakoyo/retrospective_thoughts_on_bitc_2012) - [Retrospective Thoughts on BitC (2012)](https://danluu.com/bitc-retrospective/)
 * [2024-02-26, 14:06:56](https://lobste.rs/s/jhzalu/c_library_handle_your_own_prompt_editor) - [A C++ library to handle your own prompt/editor environment](https://github.com/clauderouxster/editor/blob/main/README.md)
 * [2024-02-26, 13:11:04](https://lobste.rs/s/duf85r/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/duf85r/what_are_you_doing_this_week)
 * [2024-02-26, 12:53:10](https://lobste.rs/s/yxwldp/linux_kernel_key_retention_service_why) - [The Linux Kernel Key Retention Service and why you should use it in your next application](https://blog.cloudflare.com/the-linux-kernel-key-retention-service-and-why-you-should-use-it-in-your-next-application)
@@ -20,7 +21,6 @@
 * [2024-02-25, 20:12:25](https://lobste.rs/s/h6pjnv/pglite_lightweight_postgres_packaged_as) - [pglite: Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno](https://github.com/electric-sql/pglite)
 * [2024-02-25, 20:03:54](https://lobste.rs/s/jszzsn/creusot_deductive_verifier_for_rust_code) - [Creusot, a deductive verifier for Rust code](https://github.com/creusot-rs/creusot)
 * [2024-02-25, 19:54:27](https://lobste.rs/s/yf54bc/getting_help) - [Getting help](https://pulsar17.me/2024/02/ongettinghelp)
-* [2024-02-25, 19:09:17](https://lobste.rs/s/dobs3w/neat_parallel_output_python) - [Neat parallel output in Python](https://bernsteinbear.com/blog/python-parallel-output/)
 * [2024-02-25, 18:54:00](https://lobste.rs/s/9evrhm/wrapping_up_practical_sml) - [Wrapping up `Practical SML#'](https://pzel.name/2024/02/24/Wrapping-up-with-SMLsharp.html)
 * [2024-02-25, 18:33:03](https://lobste.rs/s/i0fbsm/hallucination_is_inevitable_innate) - [Hallucination is Inevitable: An Innate Limitation of Large Language Models](https://arxiv.org/abs/2401.11817)
 * [2024-02-25, 12:52:51](https://lobste.rs/s/9t2wvy/building_fly_io_like_scheduler_with) - [Building a Fly.io-like Scheduler with Resource Requirements](https://www.aspiring.dev/fly-io-scheduler-part-2/)
