@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-26, 00:20:51](https://lobste.rs/s/2gckyb/encoding_floating_point_numbers_shorter) - [Encoding floating point numbers to shorter integers](https://retroforth.org/nga/docs/SqrtEncoding.pdf)
 * [2024-02-25, 21:42:53](https://lobste.rs/s/tf8xih/correct_decimal_floating_point_using_big) - [Correct Decimal To Floating-Point Using Big Integers](https://www.exploringbinary.com/correct-decimal-to-floating-point-using-big-integers/)
 * [2024-02-25, 21:22:52](https://lobste.rs/s/r4g3kd/write_dumb_code) - [Write Dumb Code](https://matthewrocklin.com/write-dumb-code.html)
 * [2024-02-25, 20:35:27](https://lobste.rs/s/3amfgq/security_jawbreaker) - [The Security Jawbreaker](https://queue.acm.org/detail.cfm?id=3631478)
@@ -20,7 +21,6 @@
 * [2024-02-25, 06:51:02](https://lobste.rs/s/yiczp8/tenement_farming_cloud_hsms) - [Tenement Farming and Cloud HSMs](http://unmitigatedrisk.com/?p=771)
 * [2024-02-25, 06:51:01](https://lobste.rs/s/shseqz/how_does_bluesky_work) - [How Does BlueSky Work?](https://steveklabnik.com/writing/how-does-bluesky-work)
 * [2024-02-25, 01:41:04](https://lobste.rs/s/uenazo/how_hold_kems) - [How to Hold KEMs](https://durumcrustulum.com/2024/02/24/how-to-hold-kems/)
-* [2024-02-25, 00:19:15](https://lobste.rs/s/wx95bf/universal_binary_format) - [Universal Binary Format](https://ubf.github.io/ubf/ubf-user-guide.en.html)
 * [2024-02-24, 17:56:00](https://lobste.rs/s/u9v0ki/can_you_make_basic_web_app_without) - [Can you make a basic web app without googling? I can't](https://austinhenley.com/blog/webappwithoutgoogling.html)
 * [2024-02-24, 16:51:59](https://lobste.rs/s/q08509/sway_1_9) - [Sway 1.9](https://github.com/swaywm/sway/releases/tag/1.9)
 * [2024-02-24, 15:41:20](https://lobste.rs/s/rurlxp/asynchronous_clean_up_rust) - [Asynchronous clean-up [in Rust]](https://without.boats/blog/asynchronous-clean-up/)
