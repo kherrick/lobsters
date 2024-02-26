@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-26, 09:39:52](https://lobste.rs/s/arpbra/doom_console_log_doom_rendered_via) - [doom-console-log: DOOM rendered via console.log() in a web browser](https://github.com/MattCozendey/doom-console-log)
 * [2024-02-26, 09:20:18](https://lobste.rs/s/ixyv5u/free_monitoring_certificate_expiry_via) - [Free Monitoring of Certificate Expiry via RSS](https://raphting.dev/posts/monitor-rss/)
 * [2024-02-26, 08:56:52](https://lobste.rs/s/ihnxxj/insecure_features_pdfs) - [Insecure Features in PDFs](https://web-in-security.blogspot.com/2021/01/insecure-features-in-pdfs.html)
 * [2024-02-26, 07:08:41](https://lobste.rs/s/1r0aak/twist_on_wadler_s_printer) - [A Twist on Wadler's Printer](https://justinpombrio.net/2024/02/23/a-twist-on-Wadlers-printer.html)
@@ -15,7 +16,6 @@
 * [2024-02-25, 19:54:27](https://lobste.rs/s/yf54bc/getting_help) - [Getting help](https://pulsar17.me/2024/02/ongettinghelp)
 * [2024-02-25, 19:30:11](https://lobste.rs/s/yyyzno/vscode_wsl_makes_windows_awesome_for_web) - [VSCode + WSL makes Windows awesome for web development](https://world.hey.com/dhh/vscode-wsl-makes-windows-awesome-for-web-development-9bc4d528)
 * [2024-02-25, 19:09:17](https://lobste.rs/s/dobs3w/neat_parallel_output_python) - [Neat parallel output in Python](https://bernsteinbear.com/blog/python-parallel-output/)
-* [2024-02-25, 18:56:11](https://lobste.rs/s/cq9nop/keytrap_denial_service_algorithmic) - [The KeyTrap Denial-of-Service Algorithmic Complexity Attacks on DNS](https://www.athene-center.de/fileadmin/content/PDF/Keytrap_2401.pdf)
 * [2024-02-25, 18:54:00](https://lobste.rs/s/9evrhm/wrapping_up_practical_sml) - [Wrapping up `Practical SML#'](https://pzel.name/2024/02/24/Wrapping-up-with-SMLsharp.html)
 * [2024-02-25, 18:40:58](https://lobste.rs/s/8u2vrc/sshattrick_play_hattrick_your_terminal) - [ssHattrick: Play Hattrick in your terminal over SSH](https://github.com/ricott1/sshattrick)
 * [2024-02-25, 18:33:03](https://lobste.rs/s/i0fbsm/hallucination_is_inevitable_innate) - [Hallucination is Inevitable: An Innate Limitation of Large Language Models](https://arxiv.org/abs/2401.11817)
