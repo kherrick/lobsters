@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-26, 03:49:05](https://lobste.rs/s/delzpj/nekoweb_retro_static_site_hosting) - [nekoweb, retro static site hosting](https://nekoweb.org/)
 * [2024-02-26, 01:57:23](https://lobste.rs/s/pz8nxu/joy_programming) - [The Joy of Programming](https://www.youtube.com/watch?v=_JA04KfD7a4)
 * [2024-02-26, 01:24:55](https://lobste.rs/s/y2s6sy/gifcities_by_internet_archive_search_for) - [GifCities by Internet Archive - search for GIFs scraped off Geocities](https://gifcities.org)
 * [2024-02-26, 00:20:51](https://lobste.rs/s/2gckyb/encoding_floating_point_numbers_shorter) - [Encoding floating point numbers to shorter integers](https://retroforth.org/nga/docs/SqrtEncoding.pdf)
 * [2024-02-25, 21:42:53](https://lobste.rs/s/tf8xih/correct_decimal_floating_point_using_big) - [Correct Decimal To Floating-Point Using Big Integers](https://www.exploringbinary.com/correct-decimal-to-floating-point-using-big-integers/)
 * [2024-02-25, 21:22:52](https://lobste.rs/s/r4g3kd/write_dumb_code) - [Write Dumb Code](https://matthewrocklin.com/write-dumb-code.html)
-* [2024-02-25, 20:35:27](https://lobste.rs/s/3amfgq/security_jawbreaker) - [The Security Jawbreaker](https://queue.acm.org/detail.cfm?id=3631478)
 * [2024-02-25, 20:12:25](https://lobste.rs/s/h6pjnv/pglite_lightweight_postgres_packaged_as) - [pglite: Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno](https://github.com/electric-sql/pglite)
 * [2024-02-25, 20:03:54](https://lobste.rs/s/jszzsn/creusot_deductive_verifier_for_rust_code) - [Creusot, a deductive verifier for Rust code](https://github.com/creusot-rs/creusot)
 * [2024-02-25, 19:54:27](https://lobste.rs/s/yf54bc/getting_help) - [Getting help](https://pulsar17.me/2024/02/ongettinghelp)
