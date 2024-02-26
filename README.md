@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-26, 01:57:23](https://lobste.rs/s/pz8nxu/joy_programming) - [The Joy of Programming](https://www.youtube.com/watch?v=_JA04KfD7a4)
 * [2024-02-26, 01:24:55](https://lobste.rs/s/y2s6sy/gifcities_by_internet_archive_search_for) - [GifCities by Internet Archive - search for GIFs scraped off Geocities](https://gifcities.org)
 * [2024-02-26, 00:20:51](https://lobste.rs/s/2gckyb/encoding_floating_point_numbers_shorter) - [Encoding floating point numbers to shorter integers](https://retroforth.org/nga/docs/SqrtEncoding.pdf)
 * [2024-02-25, 21:42:53](https://lobste.rs/s/tf8xih/correct_decimal_floating_point_using_big) - [Correct Decimal To Floating-Point Using Big Integers](https://www.exploringbinary.com/correct-decimal-to-floating-point-using-big-integers/)
@@ -24,7 +25,6 @@
 * [2024-02-24, 17:56:00](https://lobste.rs/s/u9v0ki/can_you_make_basic_web_app_without) - [Can you make a basic web app without googling? I can't](https://austinhenley.com/blog/webappwithoutgoogling.html)
 * [2024-02-24, 16:51:59](https://lobste.rs/s/q08509/sway_1_9) - [Sway 1.9](https://github.com/swaywm/sway/releases/tag/1.9)
 * [2024-02-24, 15:41:20](https://lobste.rs/s/rurlxp/asynchronous_clean_up_rust) - [Asynchronous clean-up [in Rust]](https://without.boats/blog/asynchronous-clean-up/)
-* [2024-02-24, 07:49:40](https://lobste.rs/s/uocusk/streetpass_for_mastodon) - [StreetPass for Mastodon](https://streetpass.social)
 
 ## [Archives](archives/index.md)
 
