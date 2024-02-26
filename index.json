@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-26, 01:57:23",
+      "https://lobste.rs/s/pz8nxu/joy_programming"
+    ],
+    [
+      "The Joy of Programming",
+      "https://www.youtube.com/watch?v=_JA04KfD7a4"
+    ]
+  ],
+  [
+    [
       "2024-02-26, 01:24:55",
       "https://lobste.rs/s/y2s6sy/gifcities_by_internet_archive_search_for"
     ],
@@ -237,16 +247,6 @@
     [
       "Asynchronous clean-up [in Rust]",
       "https://without.boats/blog/asynchronous-clean-up/"
-    ]
-  ],
-  [
-    [
-      "2024-02-24, 07:49:40",
-      "https://lobste.rs/s/uocusk/streetpass_for_mastodon"
-    ],
-    [
-      "StreetPass for Mastodon",
-      "https://streetpass.social"
     ]
   ]
 ]
