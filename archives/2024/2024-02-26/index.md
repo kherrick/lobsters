@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-26](index.md)
 
+* [2024-02-26, 06:28:41](https://lobste.rs/s/jxogwu/online_css_quality_analyzer) - [Online CSS quality analyzer](https://www.projectwallace.com/css-code-quality)
 * [2024-02-26, 03:49:05](https://lobste.rs/s/delzpj/nekoweb_retro_static_site_hosting) - [nekoweb, retro static site hosting](https://nekoweb.org/)
 * [2024-02-26, 01:57:23](https://lobste.rs/s/pz8nxu/joy_programming) - [The Joy of Programming](https://www.youtube.com/watch?v=_JA04KfD7a4)
 * [2024-02-26, 01:24:55](https://lobste.rs/s/y2s6sy/gifcities_by_internet_archive_search_for) - [GifCities by Internet Archive - search for GIFs scraped off Geocities](https://gifcities.org)
