@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-02-26, 15:20:12",
+      "https://lobste.rs/s/tyzndh/first_look_at_lifetimes_rust"
+    ],
+    [
+      "A First Look at Lifetimes in Rust",
+      "https://www.youtube.com/watch?v=-gkvOoxgp8E"
+    ]
+  ],
+  [
+    [
+      "2024-02-26, 15:11:31",
+      "https://lobste.rs/s/aakoyo/retrospective_thoughts_on_bitc_2012"
+    ],
+    [
+      "Retrospective Thoughts on BitC (2012)",
+      "https://danluu.com/bitc-retrospective/"
+    ]
+  ],
+  [
+    [
       "2024-02-26, 14:06:56",
       "https://lobste.rs/s/jhzalu/c_library_handle_your_own_prompt_editor"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-02-25, 19:30:11",
-      "https://lobste.rs/s/yyyzno/vscode_wsl_makes_windows_awesome_for_web"
-    ],
-    [
-      "VSCode + WSL makes Windows awesome for web development",
-      "https://world.hey.com/dhh/vscode-wsl-makes-windows-awesome-for-web-development-9bc4d528"
-    ]
-  ],
-  [
-    [
       "2024-02-25, 19:09:17",
       "https://lobste.rs/s/dobs3w/neat_parallel_output_python"
     ],
@@ -227,16 +237,6 @@
     [
       "Building a Fly.io-like Scheduler with Resource Requirements",
       "https://www.aspiring.dev/fly-io-scheduler-part-2/"
-    ]
-  ],
-  [
-    [
-      "2024-02-25, 08:15:15",
-      "https://lobste.rs/s/czcfzg/retrospective_on_requests"
-    ],
-    [
-      "A Retrospective on Requests",
-      "https://blog.ian.stapletoncordas.co/2024/02/a-retrospective-on-requests"
     ]
   ],
   [
