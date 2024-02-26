@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-26, 11:44:07](https://lobste.rs/s/bf4hn9/history_tty) - [A History of the TTY](https://computer.rip/2024-02-25-a-history-of-the-tty.html)
+* [2024-02-26, 11:43:23](https://lobste.rs/s/7lvjw4/pulseaudiodb) - [PulseAudioDB](https://a.exozy.me/posts/pulseaudiodb/)
 * [2024-02-26, 09:58:18](https://lobste.rs/s/dmceit/interactive_guide_fourier_series) - [An interactive guide to Fourier series](https://injuly.in/blog/fourier-series/index.html)
 * [2024-02-26, 09:39:52](https://lobste.rs/s/arpbra/doom_console_log_doom_rendered_via) - [doom-console-log: DOOM rendered via console.log() in a web browser](https://github.com/MattCozendey/doom-console-log)
 * [2024-02-26, 09:20:18](https://lobste.rs/s/ixyv5u/free_monitoring_certificate_expiry_via) - [Free Monitoring of Certificate Expiry via RSS](https://raphting.dev/posts/monitor-rss/)
@@ -23,8 +25,6 @@
 * [2024-02-25, 10:59:21](https://lobste.rs/s/ebtwsu/coding_anime_woosh_screen_on_amiga) - [Coding the anime \"woosh\" screen on Amiga](https://dansalva.to/coding-the-anime-woosh-screen-on-amiga/)
 * [2024-02-25, 08:15:15](https://lobste.rs/s/czcfzg/retrospective_on_requests) - [A Retrospective on Requests](https://blog.ian.stapletoncordas.co/2024/02/a-retrospective-on-requests)
 * [2024-02-25, 06:51:01](https://lobste.rs/s/shseqz/how_does_bluesky_work) - [How Does BlueSky Work?](https://steveklabnik.com/writing/how-does-bluesky-work)
-* [2024-02-24, 17:56:00](https://lobste.rs/s/u9v0ki/can_you_make_basic_web_app_without) - [Can you make a basic web app without googling? I can't](https://austinhenley.com/blog/webappwithoutgoogling.html)
-* [2024-02-24, 15:41:20](https://lobste.rs/s/rurlxp/asynchronous_clean_up_rust) - [Asynchronous clean-up [in Rust]](https://without.boats/blog/asynchronous-clean-up/)
 
 ## [Archives](archives/index.md)
 

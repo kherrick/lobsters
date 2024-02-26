@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-26](index.md)
 
+* [2024-02-26, 11:44:07](https://lobste.rs/s/bf4hn9/history_tty) - [A History of the TTY](https://computer.rip/2024-02-25-a-history-of-the-tty.html)
+* [2024-02-26, 11:43:23](https://lobste.rs/s/7lvjw4/pulseaudiodb) - [PulseAudioDB](https://a.exozy.me/posts/pulseaudiodb/)
 * [2024-02-26, 09:58:18](https://lobste.rs/s/dmceit/interactive_guide_fourier_series) - [An interactive guide to Fourier series](https://injuly.in/blog/fourier-series/index.html)
 * [2024-02-26, 09:39:52](https://lobste.rs/s/arpbra/doom_console_log_doom_rendered_via) - [doom-console-log: DOOM rendered via console.log() in a web browser](https://github.com/MattCozendey/doom-console-log)
 * [2024-02-26, 09:20:18](https://lobste.rs/s/ixyv5u/free_monitoring_certificate_expiry_via) - [Free Monitoring of Certificate Expiry via RSS](https://raphting.dev/posts/monitor-rss/)
