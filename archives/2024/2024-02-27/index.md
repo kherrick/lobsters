@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
+* [2024-02-27, 15:19:44](https://lobste.rs/s/4p9y1f/hanami_2_1_views_are_sight_see) - [Hanami 2.1: Views that are a sight to see](https://hanamirb.org/blog/2024/02/27/hanami-210/)
 * [2024-02-27, 14:31:17](https://lobste.rs/s/rj0jud/introducing_pgroll_zero_downtime) - [Introducing pgroll: zero-downtime, reversible, schema migrations for Postgres](https://xata.io/blog/pgroll-schema-migrations-postgres)
 * [2024-02-27, 14:25:47](https://lobste.rs/s/bv8syr/dbdev_database_package_manager) - [dbdev | The Database Package Manager](https://database.dev/)
 * [2024-02-27, 14:25:42](https://lobste.rs/s/zqvhov/decker_adds_fileio_shell_commands) - [Decker adds FileIO, shell commands](https://itch.io/post/9447223)

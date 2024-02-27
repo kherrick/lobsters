@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-27, 15:19:44](https://lobste.rs/s/4p9y1f/hanami_2_1_views_are_sight_see) - [Hanami 2.1: Views that are a sight to see](https://hanamirb.org/blog/2024/02/27/hanami-210/)
 * [2024-02-27, 14:31:17](https://lobste.rs/s/rj0jud/introducing_pgroll_zero_downtime) - [Introducing pgroll: zero-downtime, reversible, schema migrations for Postgres](https://xata.io/blog/pgroll-schema-migrations-postgres)
 * [2024-02-27, 14:25:47](https://lobste.rs/s/bv8syr/dbdev_database_package_manager) - [dbdev | The Database Package Manager](https://database.dev/)
 * [2024-02-27, 14:25:42](https://lobste.rs/s/zqvhov/decker_adds_fileio_shell_commands) - [Decker adds FileIO, shell commands](https://itch.io/post/9447223)
@@ -8,7 +9,6 @@
 * [2024-02-27, 13:35:23](https://lobste.rs/s/sg10ra/important_efibootmgr_8_command) - [Important efibootmgr(8) Command](https://vermaden.wordpress.com/2024/02/27/important-efibootmgr-command/)
 * [2024-02-27, 13:34:35](https://lobste.rs/s/e9jatp/fun_line_code) - [A Fun Line of Code](https://dbushell.com/2024/02/27/a-fun-line-of-code/)
 * [2024-02-27, 13:32:28](https://lobste.rs/s/zxsecu/m_x_reloaded_second_golden_age_emacs) - [M-x Reloaded: The Second Golden Age of Emacs](https://batsov.com/articles/2024/02/27/m-x-reloaded-the-second-golden-age-of-emacs/)
-* [2024-02-27, 13:09:52](https://lobste.rs/s/aekzpo/does_this_90s_era_theory_predict) - [Does this 90s-era theory predict the popularity of Javascript?](https://thedailydeveloper.substack.com/p/does-this-90s-era-theory-predict)
 * [2024-02-27, 12:05:18](https://lobste.rs/s/v5bpkv/gradient_descent_with_adam_plain_c) - [Gradient Descent With Adam in Plain C++](https://blog.demofox.org/2024/02/11/gradient-descent-with-adam-in-plain-c/)
 * [2024-02-27, 11:23:52](https://lobste.rs/s/cvqvff/explainix_explain_nix_syntax_visually) - [Explainix: Explain Nix syntax visually](https://zaynetro.com/explainix)
 * [2024-02-27, 07:13:35](https://lobste.rs/s/uyyzvo/freebsd_13_3_rc1_now_available) - [FreeBSD 13.3-RC1 Now Available](https://lists.freebsd.org/archives/freebsd-snapshots/2024-February/000365.html)
