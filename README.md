@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-27, 19:36:14](https://lobste.rs/s/jtgath/go_enums_suck) - [Go Enums Suck](https://www.zarl.dev/articles/enums)
 * [2024-02-27, 19:00:51](https://lobste.rs/s/gvtkgq/scheduling_internals) - [Scheduling Internals](https://tontinton.com/posts/scheduling-internals/)
 * [2024-02-27, 17:52:52](https://lobste.rs/s/zkt9vd/better_ways_name_your_utils_module) - [Better ways to name your utils module](https://www.moderndescartes.com/essays/noutils/)
 * [2024-02-27, 17:41:06](https://lobste.rs/s/lmsajy/sidebery_firefox_extension_for_managing) - [sidebery: Firefox extension for managing tabs and bookmarks in sidebar](https://github.com/mbnuqw/sidebery)
 * [2024-02-27, 17:22:39](https://lobste.rs/s/pq1etk/airfoil) - [Airfoil](https://ciechanow.ski/airfoil/)
 * [2024-02-27, 17:08:09](https://lobste.rs/s/1zzx8s/jevons_paradox_doesn_t_always_apply) - [Jevons Paradox doesn’t always apply to software](https://pythonspeed.com/articles/software-jevons-paradox/)
-* [2024-02-27, 15:29:36](https://lobste.rs/s/m3fynb/trials_tribulations_360_video_juno) - [Trials and tribulations of 360° video in Juno](https://christianselig.com/2024/02/trials-360-juno-video/)
 * [2024-02-27, 15:19:44](https://lobste.rs/s/4p9y1f/hanami_2_1_views_are_sight_see) - [Hanami 2.1: Views that are a sight to see](https://hanamirb.org/blog/2024/02/27/hanami-210/)
 * [2024-02-27, 14:31:17](https://lobste.rs/s/rj0jud/introducing_pgroll_zero_downtime) - [Introducing pgroll: zero-downtime, reversible, schema migrations for Postgres](https://xata.io/blog/pgroll-schema-migrations-postgres)
 * [2024-02-27, 14:25:42](https://lobste.rs/s/zqvhov/decker_adds_fileio_shell_commands) - [Decker adds FileIO, shell commands](https://itch.io/post/9447223)

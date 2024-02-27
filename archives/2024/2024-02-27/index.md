@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
+* [2024-02-27, 19:36:14](https://lobste.rs/s/jtgath/go_enums_suck) - [Go Enums Suck](https://www.zarl.dev/articles/enums)
 * [2024-02-27, 19:00:51](https://lobste.rs/s/gvtkgq/scheduling_internals) - [Scheduling Internals](https://tontinton.com/posts/scheduling-internals/)
 * [2024-02-27, 17:52:52](https://lobste.rs/s/zkt9vd/better_ways_name_your_utils_module) - [Better ways to name your utils module](https://www.moderndescartes.com/essays/noutils/)
 * [2024-02-27, 17:41:06](https://lobste.rs/s/lmsajy/sidebery_firefox_extension_for_managing) - [sidebery: Firefox extension for managing tabs and bookmarks in sidebar](https://github.com/mbnuqw/sidebery)
