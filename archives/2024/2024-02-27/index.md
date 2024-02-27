@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
+* [2024-02-27, 17:52:52](https://lobste.rs/s/zkt9vd/better_ways_name_your_utils_module) - [Better ways to name your utils module](https://www.moderndescartes.com/essays/noutils/)
 * [2024-02-27, 17:41:06](https://lobste.rs/s/lmsajy/sidebery_firefox_extension_for_managing) - [sidebery: Firefox extension for managing tabs and bookmarks in sidebar](https://github.com/mbnuqw/sidebery)
 * [2024-02-27, 17:22:39](https://lobste.rs/s/pq1etk/airfoil) - [Airfoil](https://ciechanow.ski/airfoil/)
 * [2024-02-27, 17:08:09](https://lobste.rs/s/1zzx8s/jevons_paradox_doesn_t_always_apply) - [Jevons Paradox doesn’t always apply to software](https://pythonspeed.com/articles/software-jevons-paradox/)
