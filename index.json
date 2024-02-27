@@ -1,6 +1,116 @@
 [
   [
     [
+      "2024-02-27, 13:32:28",
+      "https://lobste.rs/s/zxsecu/m_x_reloaded_second_golden_age_emacs"
+    ],
+    [
+      "M-x Reloaded: The Second Golden Age of Emacs",
+      "https://batsov.com/articles/2024/02/27/m-x-reloaded-the-second-golden-age-of-emacs/"
+    ]
+  ],
+  [
+    [
+      "2024-02-27, 13:09:52",
+      "https://lobste.rs/s/aekzpo/does_this_90s_era_theory_predict"
+    ],
+    [
+      "Does this 90s-era theory predict the popularity of Javascript?",
+      "https://thedailydeveloper.substack.com/p/does-this-90s-era-theory-predict"
+    ]
+  ],
+  [
+    [
+      "2024-02-27, 12:05:18",
+      "https://lobste.rs/s/v5bpkv/gradient_descent_with_adam_plain_c"
+    ],
+    [
+      "Gradient Descent With Adam in Plain C++",
+      "https://blog.demofox.org/2024/02/11/gradient-descent-with-adam-in-plain-c/"
+    ]
+  ],
+  [
+    [
+      "2024-02-27, 11:23:52",
+      "https://lobste.rs/s/cvqvff/explainix_explain_nix_syntax_visually"
+    ],
+    [
+      "Explainix: Explain Nix syntax visually",
+      "https://zaynetro.com/explainix"
+    ]
+  ],
+  [
+    [
+      "2024-02-27, 07:13:35",
+      "https://lobste.rs/s/uyyzvo/freebsd_13_3_rc1_now_available"
+    ],
+    [
+      "FreeBSD 13.3-RC1 Now Available",
+      "https://lists.freebsd.org/archives/freebsd-snapshots/2024-February/000365.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-27, 06:51:14",
+      "https://lobste.rs/s/ozxwzy/genie_generative_interactive"
+    ],
+    [
+      "Genie: Generative Interactive Environments",
+      "https://sites.google.com/view/genie-2024"
+    ]
+  ],
+  [
+    [
+      "2024-02-27, 06:06:09",
+      "https://lobste.rs/s/ohspws/apple_gets_f_for_slicing_apples"
+    ],
+    [
+      "Apple Gets an 'F' for Slicing Apples",
+      "https://objective-see.org/blog/blog_0x80.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-26, 20:50:08",
+      "https://lobste.rs/s/2rwzq4/tigerbeetle_on_primeagen"
+    ],
+    [
+      "TigerBeetle on The Primeagen",
+      "https://www.youtube.com/watch?v=sC1B3d9C_sI"
+    ]
+  ],
+  [
+    [
+      "2024-02-26, 19:59:24",
+      "https://lobste.rs/s/xqyzbo/thisisnotadinosaur_app_detect_if"
+    ],
+    [
+      "THISISNOTADINOSAUR: An app to detect if a Dinosaur is present in an image",
+      "https://github.com/rajtilakjee/thisisnotadinosaur"
+    ]
+  ],
+  [
+    [
+      "2024-02-26, 19:20:21",
+      "https://lobste.rs/s/u2t1cs/path_toward_secure_measurable_software"
+    ],
+    [
+      "A Path Toward Secure And Measurable Software",
+      "https://www.whitehouse.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-02-26, 18:46:13",
+      "https://lobste.rs/s/7ob9ue/language_models_can_only_write_ransom"
+    ],
+    [
+      "Language models can only write ransom notes",
+      "https://posts.decontextualize.com/language-models-ransom-notes/"
+    ]
+  ],
+  [
+    [
       "2024-02-26, 18:25:37",
       "https://lobste.rs/s/l7dtkw/common_mistakes_modularisation"
     ],
@@ -61,16 +171,6 @@
   ],
   [
     [
-      "2024-02-26, 15:20:12",
-      "https://lobste.rs/s/tyzndh/first_look_at_lifetimes_rust"
-    ],
-    [
-      "A First Look at Lifetimes in Rust",
-      "https://www.youtube.com/watch?v=-gkvOoxgp8E"
-    ]
-  ],
-  [
-    [
       "2024-02-26, 15:11:31",
       "https://lobste.rs/s/aakoyo/retrospective_thoughts_on_bitc_2012"
     ],
@@ -121,36 +221,6 @@
   ],
   [
     [
-      "2024-02-26, 11:43:23",
-      "https://lobste.rs/s/7lvjw4/pulseaudiodb"
-    ],
-    [
-      "PulseAudioDB",
-      "https://a.exozy.me/posts/pulseaudiodb/"
-    ]
-  ],
-  [
-    [
-      "2024-02-26, 09:58:18",
-      "https://lobste.rs/s/dmceit/interactive_guide_fourier_series"
-    ],
-    [
-      "An interactive guide to Fourier series",
-      "https://injuly.in/blog/fourier-series/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-26, 09:39:52",
-      "https://lobste.rs/s/arpbra/doom_console_log_doom_rendered_via"
-    ],
-    [
-      "doom-console-log: DOOM rendered via console.log() in a web browser",
-      "https://github.com/MattCozendey/doom-console-log"
-    ]
-  ],
-  [
-    [
       "2024-02-26, 09:20:18",
       "https://lobste.rs/s/ixyv5u/free_monitoring_certificate_expiry_via"
     ],
@@ -171,82 +241,12 @@
   ],
   [
     [
-      "2024-02-26, 07:08:41",
-      "https://lobste.rs/s/1r0aak/twist_on_wadler_s_printer"
-    ],
-    [
-      "A Twist on Wadler's Printer",
-      "https://justinpombrio.net/2024/02/23/a-twist-on-Wadlers-printer.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-26, 06:28:41",
-      "https://lobste.rs/s/jxogwu/online_css_quality_analyzer"
-    ],
-    [
-      "Online CSS quality analyzer",
-      "https://www.projectwallace.com/css-code-quality"
-    ]
-  ],
-  [
-    [
-      "2024-02-26, 03:49:05",
-      "https://lobste.rs/s/delzpj/nekoweb_retro_static_site_hosting"
-    ],
-    [
-      "nekoweb, retro static site hosting",
-      "https://nekoweb.org/"
-    ]
-  ],
-  [
-    [
       "2024-02-25, 20:12:25",
       "https://lobste.rs/s/h6pjnv/pglite_lightweight_postgres_packaged_as"
     ],
     [
       "pglite: Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno",
       "https://github.com/electric-sql/pglite"
-    ]
-  ],
-  [
-    [
-      "2024-02-25, 19:54:27",
-      "https://lobste.rs/s/yf54bc/getting_help"
-    ],
-    [
-      "Getting help",
-      "https://pulsar17.me/2024/02/ongettinghelp"
-    ]
-  ],
-  [
-    [
-      "2024-02-25, 18:54:00",
-      "https://lobste.rs/s/9evrhm/wrapping_up_practical_sml"
-    ],
-    [
-      "Wrapping up `Practical SML#'",
-      "https://pzel.name/2024/02/24/Wrapping-up-with-SMLsharp.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-25, 18:33:03",
-      "https://lobste.rs/s/i0fbsm/hallucination_is_inevitable_innate"
-    ],
-    [
-      "Hallucination is Inevitable: An Innate Limitation of Large Language Models",
-      "https://arxiv.org/abs/2401.11817"
-    ]
-  ],
-  [
-    [
-      "2024-02-25, 06:51:01",
-      "https://lobste.rs/s/shseqz/how_does_bluesky_work"
-    ],
-    [
-      "How Does BlueSky Work?",
-      "https://steveklabnik.com/writing/how-does-bluesky-work"
     ]
   ]
 ]
