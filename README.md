@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-27, 17:41:06](https://lobste.rs/s/lmsajy/sidebery_firefox_extension_for_managing) - [sidebery: Firefox extension for managing tabs and bookmarks in sidebar](https://github.com/mbnuqw/sidebery)
 * [2024-02-27, 17:22:39](https://lobste.rs/s/pq1etk/airfoil) - [Airfoil](https://ciechanow.ski/airfoil/)
 * [2024-02-27, 17:08:09](https://lobste.rs/s/1zzx8s/jevons_paradox_doesn_t_always_apply) - [Jevons Paradox doesn’t always apply to software](https://pythonspeed.com/articles/software-jevons-paradox/)
 * [2024-02-27, 15:29:36](https://lobste.rs/s/m3fynb/trials_tribulations_360_video_juno) - [Trials and tribulations of 360° video in Juno](https://christianselig.com/2024/02/trials-360-juno-video/)
@@ -18,7 +19,6 @@
 * [2024-02-26, 20:50:08](https://lobste.rs/s/2rwzq4/tigerbeetle_on_primeagen) - [TigerBeetle on The Primeagen](https://www.youtube.com/watch?v=sC1B3d9C_sI)
 * [2024-02-26, 19:59:24](https://lobste.rs/s/xqyzbo/thisisnotadinosaur_app_detect_if) - [THISISNOTADINOSAUR: An app to detect if a Dinosaur is present in an image](https://github.com/rajtilakjee/thisisnotadinosaur)
 * [2024-02-26, 19:20:21](https://lobste.rs/s/u2t1cs/path_toward_secure_measurable_software) - [A Path Toward Secure And Measurable Software](https://www.whitehouse.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf)
-* [2024-02-26, 18:46:13](https://lobste.rs/s/7ob9ue/language_models_can_only_write_ransom) - [Language models can only write ransom notes](https://posts.decontextualize.com/language-models-ransom-notes/)
 * [2024-02-26, 18:25:37](https://lobste.rs/s/l7dtkw/common_mistakes_modularisation) - [Common Mistakes in Modularisation](https://two-wrongs.com/software-design-tree-and-program-families.html)
 * [2024-02-26, 17:09:02](https://lobste.rs/s/ovo6iu/kem_trails_understanding_key) - [KEM Trails – Understanding Key Encapsulation Mechanisms](https://soatok.blog/2024/02/26/kem-trails-understanding-key-encapsulation-mechanisms/)
 * [2024-02-26, 16:42:36](https://lobste.rs/s/jliiye/how_i_use_nix_on_macos) - [How I use Nix on macOS](https://blog.6nok.org/how-i-use-nix-on-macos/)
