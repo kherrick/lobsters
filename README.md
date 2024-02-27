@@ -11,6 +11,7 @@
 * [2024-02-27, 14:17:04](https://lobste.rs/s/jjiak3/demystifying_gpus_for_cpu_centric) - [Demystifying GPUs for CPU-centric programmers](https://medium.com/@penberg/demystifying-gpus-for-cpu-centric-programmers-e24934a620f1)
 * [2024-02-27, 13:35:23](https://lobste.rs/s/sg10ra/important_efibootmgr_8_command) - [Important efibootmgr(8) Command](https://vermaden.wordpress.com/2024/02/27/important-efibootmgr-command/)
 * [2024-02-27, 13:32:28](https://lobste.rs/s/zxsecu/m_x_reloaded_second_golden_age_emacs) - [M-x Reloaded: The Second Golden Age of Emacs](https://batsov.com/articles/2024/02/27/m-x-reloaded-the-second-golden-age-of-emacs/)
+* [2024-02-27, 12:05:18](https://lobste.rs/s/v5bpkv/gradient_descent_with_adam_plain_c) - [Gradient Descent With Adam in Plain C++](https://blog.demofox.org/2024/02/11/gradient-descent-with-adam-in-plain-c/)
 * [2024-02-27, 11:23:52](https://lobste.rs/s/cvqvff/explainix_explain_nix_syntax_visually) - [Explainix: Explain Nix syntax visually](https://zaynetro.com/explainix)
 * [2024-02-27, 07:13:35](https://lobste.rs/s/uyyzvo/freebsd_13_3_rc1_now_available) - [FreeBSD 13.3-RC1 Now Available](https://lists.freebsd.org/archives/freebsd-snapshots/2024-February/000365.html)
 * [2024-02-27, 06:06:09](https://lobste.rs/s/ohspws/apple_gets_f_for_slicing_apples) - [Apple Gets an 'F' for Slicing Apples](https://objective-see.org/blog/blog_0x80.html)
@@ -22,7 +23,6 @@
 * [2024-02-26, 17:09:02](https://lobste.rs/s/ovo6iu/kem_trails_understanding_key) - [KEM Trails – Understanding Key Encapsulation Mechanisms](https://soatok.blog/2024/02/26/kem-trails-understanding-key-encapsulation-mechanisms/)
 * [2024-02-26, 16:42:36](https://lobste.rs/s/jliiye/how_i_use_nix_on_macos) - [How I use Nix on macOS](https://blog.6nok.org/how-i-use-nix-on-macos/)
 * [2024-02-26, 15:30:57](https://lobste.rs/s/saclfh/what_if_best_practices_were_norm) - [What if best practices were the norm?](https://giacomocavalieri.me/posts/what-if-best-practices-were-the-norm)
-* [2024-02-26, 12:53:10](https://lobste.rs/s/yxwldp/linux_kernel_key_retention_service_why) - [The Linux Kernel Key Retention Service and why you should use it in your next application](https://blog.cloudflare.com/the-linux-kernel-key-retention-service-and-why-you-should-use-it-in-your-next-application)
 * [2024-02-26, 11:44:07](https://lobste.rs/s/bf4hn9/history_tty) - [A History of the TTY](https://computer.rip/2024-02-25-a-history-of-the-tty.html)
 * [2024-02-26, 09:20:18](https://lobste.rs/s/ixyv5u/free_monitoring_certificate_expiry_via) - [Free Monitoring of Certificate Expiry via RSS](https://raphting.dev/posts/monitor-rss/)
 
