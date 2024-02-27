@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-27, 14:31:17](https://lobste.rs/s/rj0jud/introducing_pgroll_zero_downtime) - [Introducing pgroll: zero-downtime, reversible, schema migrations for Postgres](https://xata.io/blog/pgroll-schema-migrations-postgres)
 * [2024-02-27, 14:25:47](https://lobste.rs/s/bv8syr/dbdev_database_package_manager) - [dbdev | The Database Package Manager](https://database.dev/)
 * [2024-02-27, 14:25:42](https://lobste.rs/s/zqvhov/decker_adds_fileio_shell_commands) - [Decker adds FileIO, shell commands](https://itch.io/post/9447223)
 * [2024-02-27, 14:21:31](https://lobste.rs/s/xj2qor/facebook_prophet_for_time_series_machine) - [Facebook Prophet for Time-Series Machine Learning](https://www.hopsworks.ai/post/facebook-prophet-for-time-series-machine-learning)
@@ -21,7 +22,6 @@
 * [2024-02-26, 16:51:55](https://lobste.rs/s/nvggzh/postgres_playground_with_tutorials) - [Postgres Playground with Tutorials and Postgres in your Browser](https://www.crunchydata.com/developers/tutorials)
 * [2024-02-26, 16:42:36](https://lobste.rs/s/jliiye/how_i_use_nix_on_macos) - [How I use Nix on macOS](https://blog.6nok.org/how-i-use-nix-on-macos/)
 * [2024-02-26, 15:30:57](https://lobste.rs/s/saclfh/what_if_best_practices_were_norm) - [What if best practices were the norm?](https://giacomocavalieri.me/posts/what-if-best-practices-were-the-norm)
-* [2024-02-26, 15:11:31](https://lobste.rs/s/aakoyo/retrospective_thoughts_on_bitc_2012) - [Retrospective Thoughts on BitC (2012)](https://danluu.com/bitc-retrospective/)
 * [2024-02-26, 12:53:10](https://lobste.rs/s/yxwldp/linux_kernel_key_retention_service_why) - [The Linux Kernel Key Retention Service and why you should use it in your next application](https://blog.cloudflare.com/the-linux-kernel-key-retention-service-and-why-you-should-use-it-in-your-next-application)
 * [2024-02-26, 11:44:07](https://lobste.rs/s/bf4hn9/history_tty) - [A History of the TTY](https://computer.rip/2024-02-25-a-history-of-the-tty.html)
 * [2024-02-26, 09:20:18](https://lobste.rs/s/ixyv5u/free_monitoring_certificate_expiry_via) - [Free Monitoring of Certificate Expiry via RSS](https://raphting.dev/posts/monitor-rss/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
+* [2024-02-27, 14:31:17](https://lobste.rs/s/rj0jud/introducing_pgroll_zero_downtime) - [Introducing pgroll: zero-downtime, reversible, schema migrations for Postgres](https://xata.io/blog/pgroll-schema-migrations-postgres)
 * [2024-02-27, 14:25:47](https://lobste.rs/s/bv8syr/dbdev_database_package_manager) - [dbdev | The Database Package Manager](https://database.dev/)
 * [2024-02-27, 14:25:42](https://lobste.rs/s/zqvhov/decker_adds_fileio_shell_commands) - [Decker adds FileIO, shell commands](https://itch.io/post/9447223)
 * [2024-02-27, 14:21:31](https://lobste.rs/s/xj2qor/facebook_prophet_for_time_series_machine) - [Facebook Prophet for Time-Series Machine Learning](https://www.hopsworks.ai/post/facebook-prophet-for-time-series-machine-learning)
