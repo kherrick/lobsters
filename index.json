@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-02-27, 14:25:47",
+      "https://lobste.rs/s/bv8syr/dbdev_database_package_manager"
+    ],
+    [
+      "dbdev | The Database Package Manager",
+      "https://database.dev/"
+    ]
+  ],
+  [
+    [
+      "2024-02-27, 14:25:42",
+      "https://lobste.rs/s/zqvhov/decker_adds_fileio_shell_commands"
+    ],
+    [
+      "Decker adds FileIO, shell commands",
+      "https://itch.io/post/9447223"
+    ]
+  ],
+  [
+    [
+      "2024-02-27, 14:21:31",
+      "https://lobste.rs/s/xj2qor/facebook_prophet_for_time_series_machine"
+    ],
+    [
+      "Facebook Prophet for Time-Series Machine Learning",
+      "https://www.hopsworks.ai/post/facebook-prophet-for-time-series-machine-learning"
+    ]
+  ],
+  [
+    [
+      "2024-02-27, 14:17:04",
+      "https://lobste.rs/s/jjiak3/demystifying_gpus_for_cpu_centric"
+    ],
+    [
+      "Demystifying GPUs for CPU-centric programmers",
+      "https://medium.com/@penberg/demystifying-gpus-for-cpu-centric-programmers-e24934a620f1"
+    ]
+  ],
+  [
+    [
       "2024-02-27, 13:35:23",
       "https://lobste.rs/s/sg10ra/important_efibootmgr_8_command"
     ],
@@ -67,16 +107,6 @@
     [
       "FreeBSD 13.3-RC1 Now Available",
       "https://lists.freebsd.org/archives/freebsd-snapshots/2024-February/000365.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-27, 06:51:14",
-      "https://lobste.rs/s/ozxwzy/genie_generative_interactive"
-    ],
-    [
-      "Genie: Generative Interactive Environments",
-      "https://sites.google.com/view/genie-2024"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2024-02-26, 12:34:59",
-      "https://lobste.rs/s/bjreuk/on_impossibility_composing_finalizers"
-    ],
-    [
-      "on the impossibility of composing finalizers and ffi",
-      "https://wingolog.org/archives/2024/02/26/on-the-impossibility-of-composing-finalizers-and-ffi"
-    ]
-  ],
-  [
-    [
       "2024-02-26, 11:44:07",
       "https://lobste.rs/s/bf4hn9/history_tty"
     ],
@@ -227,26 +247,6 @@
     [
       "Free Monitoring of Certificate Expiry via RSS",
       "https://raphting.dev/posts/monitor-rss/"
-    ]
-  ],
-  [
-    [
-      "2024-02-26, 08:56:52",
-      "https://lobste.rs/s/ihnxxj/insecure_features_pdfs_2021"
-    ],
-    [
-      "Insecure Features in PDFs (2021)",
-      "https://web-in-security.blogspot.com/2021/01/insecure-features-in-pdfs.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-25, 20:12:25",
-      "https://lobste.rs/s/h6pjnv/pglite_lightweight_postgres_packaged_as"
-    ],
-    [
-      "pglite: Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno",
-      "https://github.com/electric-sql/pglite"
     ]
   ]
 ]
