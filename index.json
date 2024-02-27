@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-27, 19:00:51",
+      "https://lobste.rs/s/gvtkgq/scheduling_internals"
+    ],
+    [
+      "Scheduling Internals",
+      "https://tontinton.com/posts/scheduling-internals/"
+    ]
+  ],
+  [
+    [
       "2024-02-27, 17:52:52",
       "https://lobste.rs/s/zkt9vd/better_ways_name_your_utils_module"
     ],
@@ -67,16 +77,6 @@
     [
       "Introducing pgroll: zero-downtime, reversible, schema migrations for Postgres",
       "https://xata.io/blog/pgroll-schema-migrations-postgres"
-    ]
-  ],
-  [
-    [
-      "2024-02-27, 14:25:47",
-      "https://lobste.rs/s/bv8syr/dbdev_database_package_manager"
-    ],
-    [
-      "dbdev | The Database Package Manager",
-      "https://database.dev/"
     ]
   ],
   [
