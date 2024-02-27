@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-27, 19:42:41](https://lobste.rs/s/9gl5zs/beep_history_pc_rendered_free_verse) - [BEEP :  A History of the PC Rendered in Free Verse In The Manner of Howl](http://www.bestmindsofmygeneration.com/)
 * [2024-02-27, 19:36:14](https://lobste.rs/s/jtgath/go_enums_suck) - [Go Enums Suck](https://www.zarl.dev/articles/enums)
 * [2024-02-27, 19:00:51](https://lobste.rs/s/gvtkgq/scheduling_internals) - [Scheduling Internals](https://tontinton.com/posts/scheduling-internals/)
 * [2024-02-27, 17:52:52](https://lobste.rs/s/zkt9vd/better_ways_name_your_utils_module) - [Better ways to name your utils module](https://www.moderndescartes.com/essays/noutils/)
@@ -22,7 +23,6 @@
 * [2024-02-26, 18:25:37](https://lobste.rs/s/l7dtkw/common_mistakes_modularisation) - [Common Mistakes in Modularisation](https://two-wrongs.com/software-design-tree-and-program-families.html)
 * [2024-02-26, 17:09:02](https://lobste.rs/s/ovo6iu/kem_trails_understanding_key) - [KEM Trails – Understanding Key Encapsulation Mechanisms](https://soatok.blog/2024/02/26/kem-trails-understanding-key-encapsulation-mechanisms/)
 * [2024-02-26, 16:42:36](https://lobste.rs/s/jliiye/how_i_use_nix_on_macos) - [How I use Nix on macOS](https://blog.6nok.org/how-i-use-nix-on-macos/)
-* [2024-02-26, 15:30:57](https://lobste.rs/s/saclfh/what_if_best_practices_were_norm) - [What if best practices were the norm?](https://giacomocavalieri.me/posts/what-if-best-practices-were-the-norm)
 * [2024-02-26, 11:44:07](https://lobste.rs/s/bf4hn9/history_tty) - [A History of the TTY](https://computer.rip/2024-02-25-a-history-of-the-tty.html)
 * [2024-02-26, 09:20:18](https://lobste.rs/s/ixyv5u/free_monitoring_certificate_expiry_via) - [Free Monitoring of Certificate Expiry via RSS](https://raphting.dev/posts/monitor-rss/)
 
