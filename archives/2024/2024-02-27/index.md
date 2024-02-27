@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
+* [2024-02-27, 14:25:47](https://lobste.rs/s/bv8syr/dbdev_database_package_manager) - [dbdev | The Database Package Manager](https://database.dev/)
+* [2024-02-27, 14:25:42](https://lobste.rs/s/zqvhov/decker_adds_fileio_shell_commands) - [Decker adds FileIO, shell commands](https://itch.io/post/9447223)
+* [2024-02-27, 14:21:31](https://lobste.rs/s/xj2qor/facebook_prophet_for_time_series_machine) - [Facebook Prophet for Time-Series Machine Learning](https://www.hopsworks.ai/post/facebook-prophet-for-time-series-machine-learning)
+* [2024-02-27, 14:17:04](https://lobste.rs/s/jjiak3/demystifying_gpus_for_cpu_centric) - [Demystifying GPUs for CPU-centric programmers](https://medium.com/@penberg/demystifying-gpus-for-cpu-centric-programmers-e24934a620f1)
 * [2024-02-27, 13:35:23](https://lobste.rs/s/sg10ra/important_efibootmgr_8_command) - [Important efibootmgr(8) Command](https://vermaden.wordpress.com/2024/02/27/important-efibootmgr-command/)
 * [2024-02-27, 13:34:35](https://lobste.rs/s/e9jatp/fun_line_code_david_bushell) - [A Fun Line of Code – David Bushell](https://dbushell.com/2024/02/27/a-fun-line-of-code/)
 * [2024-02-27, 13:32:28](https://lobste.rs/s/zxsecu/m_x_reloaded_second_golden_age_emacs) - [M-x Reloaded: The Second Golden Age of Emacs](https://batsov.com/articles/2024/02/27/m-x-reloaded-the-second-golden-age-of-emacs/)

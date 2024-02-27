@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-27, 14:25:47](https://lobste.rs/s/bv8syr/dbdev_database_package_manager) - [dbdev | The Database Package Manager](https://database.dev/)
+* [2024-02-27, 14:25:42](https://lobste.rs/s/zqvhov/decker_adds_fileio_shell_commands) - [Decker adds FileIO, shell commands](https://itch.io/post/9447223)
+* [2024-02-27, 14:21:31](https://lobste.rs/s/xj2qor/facebook_prophet_for_time_series_machine) - [Facebook Prophet for Time-Series Machine Learning](https://www.hopsworks.ai/post/facebook-prophet-for-time-series-machine-learning)
+* [2024-02-27, 14:17:04](https://lobste.rs/s/jjiak3/demystifying_gpus_for_cpu_centric) - [Demystifying GPUs for CPU-centric programmers](https://medium.com/@penberg/demystifying-gpus-for-cpu-centric-programmers-e24934a620f1)
 * [2024-02-27, 13:35:23](https://lobste.rs/s/sg10ra/important_efibootmgr_8_command) - [Important efibootmgr(8) Command](https://vermaden.wordpress.com/2024/02/27/important-efibootmgr-command/)
 * [2024-02-27, 13:34:35](https://lobste.rs/s/e9jatp/fun_line_code_david_bushell) - [A Fun Line of Code – David Bushell](https://dbushell.com/2024/02/27/a-fun-line-of-code/)
 * [2024-02-27, 13:32:28](https://lobste.rs/s/zxsecu/m_x_reloaded_second_golden_age_emacs) - [M-x Reloaded: The Second Golden Age of Emacs](https://batsov.com/articles/2024/02/27/m-x-reloaded-the-second-golden-age-of-emacs/)
@@ -7,7 +11,6 @@
 * [2024-02-27, 12:05:18](https://lobste.rs/s/v5bpkv/gradient_descent_with_adam_plain_c) - [Gradient Descent With Adam in Plain C++](https://blog.demofox.org/2024/02/11/gradient-descent-with-adam-in-plain-c/)
 * [2024-02-27, 11:23:52](https://lobste.rs/s/cvqvff/explainix_explain_nix_syntax_visually) - [Explainix: Explain Nix syntax visually](https://zaynetro.com/explainix)
 * [2024-02-27, 07:13:35](https://lobste.rs/s/uyyzvo/freebsd_13_3_rc1_now_available) - [FreeBSD 13.3-RC1 Now Available](https://lists.freebsd.org/archives/freebsd-snapshots/2024-February/000365.html)
-* [2024-02-27, 06:51:14](https://lobste.rs/s/ozxwzy/genie_generative_interactive) - [Genie: Generative Interactive Environments](https://sites.google.com/view/genie-2024)
 * [2024-02-27, 06:06:09](https://lobste.rs/s/ohspws/apple_gets_f_for_slicing_apples) - [Apple Gets an 'F' for Slicing Apples](https://objective-see.org/blog/blog_0x80.html)
 * [2024-02-26, 20:50:08](https://lobste.rs/s/2rwzq4/tigerbeetle_on_primeagen) - [TigerBeetle on The Primeagen](https://www.youtube.com/watch?v=sC1B3d9C_sI)
 * [2024-02-26, 19:59:24](https://lobste.rs/s/xqyzbo/thisisnotadinosaur_app_detect_if) - [THISISNOTADINOSAUR: An app to detect if a Dinosaur is present in an image](https://github.com/rajtilakjee/thisisnotadinosaur)
@@ -20,11 +23,8 @@
 * [2024-02-26, 15:30:57](https://lobste.rs/s/saclfh/what_if_best_practices_were_norm) - [What if best practices were the norm?](https://giacomocavalieri.me/posts/what-if-best-practices-were-the-norm)
 * [2024-02-26, 15:11:31](https://lobste.rs/s/aakoyo/retrospective_thoughts_on_bitc_2012) - [Retrospective Thoughts on BitC (2012)](https://danluu.com/bitc-retrospective/)
 * [2024-02-26, 12:53:10](https://lobste.rs/s/yxwldp/linux_kernel_key_retention_service_why) - [The Linux Kernel Key Retention Service and why you should use it in your next application](https://blog.cloudflare.com/the-linux-kernel-key-retention-service-and-why-you-should-use-it-in-your-next-application)
-* [2024-02-26, 12:34:59](https://lobste.rs/s/bjreuk/on_impossibility_composing_finalizers) - [on the impossibility of composing finalizers and ffi](https://wingolog.org/archives/2024/02/26/on-the-impossibility-of-composing-finalizers-and-ffi)
 * [2024-02-26, 11:44:07](https://lobste.rs/s/bf4hn9/history_tty) - [A History of the TTY](https://computer.rip/2024-02-25-a-history-of-the-tty.html)
 * [2024-02-26, 09:20:18](https://lobste.rs/s/ixyv5u/free_monitoring_certificate_expiry_via) - [Free Monitoring of Certificate Expiry via RSS](https://raphting.dev/posts/monitor-rss/)
-* [2024-02-26, 08:56:52](https://lobste.rs/s/ihnxxj/insecure_features_pdfs_2021) - [Insecure Features in PDFs (2021)](https://web-in-security.blogspot.com/2021/01/insecure-features-in-pdfs.html)
-* [2024-02-25, 20:12:25](https://lobste.rs/s/h6pjnv/pglite_lightweight_postgres_packaged_as) - [pglite: Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno](https://github.com/electric-sql/pglite)
 
 ## [Archives](archives/index.md)
 
