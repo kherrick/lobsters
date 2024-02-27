@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-27, 17:08:09](https://lobste.rs/s/1zzx8s/jevons_paradox_doesn_t_always_apply) - [Jevons Paradox doesn’t always apply to software](https://pythonspeed.com/articles/software-jevons-paradox/)
 * [2024-02-27, 15:29:36](https://lobste.rs/s/m3fynb/trials_tribulations_360_video_juno) - [Trials and tribulations of 360° video in Juno](https://christianselig.com/2024/02/trials-360-juno-video/)
 * [2024-02-27, 15:19:44](https://lobste.rs/s/4p9y1f/hanami_2_1_views_are_sight_see) - [Hanami 2.1: Views that are a sight to see](https://hanamirb.org/blog/2024/02/27/hanami-210/)
 * [2024-02-27, 14:31:17](https://lobste.rs/s/rj0jud/introducing_pgroll_zero_downtime) - [Introducing pgroll: zero-downtime, reversible, schema migrations for Postgres](https://xata.io/blog/pgroll-schema-migrations-postgres)
@@ -12,7 +13,6 @@
 * [2024-02-27, 13:32:28](https://lobste.rs/s/zxsecu/m_x_reloaded_second_golden_age_emacs) - [M-x Reloaded: The Second Golden Age of Emacs](https://batsov.com/articles/2024/02/27/m-x-reloaded-the-second-golden-age-of-emacs/)
 * [2024-02-27, 11:23:52](https://lobste.rs/s/cvqvff/explainix_explain_nix_syntax_visually) - [Explainix: Explain Nix syntax visually](https://zaynetro.com/explainix)
 * [2024-02-27, 07:13:35](https://lobste.rs/s/uyyzvo/freebsd_13_3_rc1_now_available) - [FreeBSD 13.3-RC1 Now Available](https://lists.freebsd.org/archives/freebsd-snapshots/2024-February/000365.html)
-* [2024-02-27, 06:51:14](https://lobste.rs/s/ozxwzy/genie_generative_interactive) - [Genie: Generative Interactive Environments](https://sites.google.com/view/genie-2024)
 * [2024-02-27, 06:06:09](https://lobste.rs/s/ohspws/apple_gets_f_for_slicing_apples) - [Apple Gets an 'F' for Slicing Apples](https://objective-see.org/blog/blog_0x80.html)
 * [2024-02-26, 20:50:08](https://lobste.rs/s/2rwzq4/tigerbeetle_on_primeagen) - [TigerBeetle on The Primeagen](https://www.youtube.com/watch?v=sC1B3d9C_sI)
 * [2024-02-26, 19:59:24](https://lobste.rs/s/xqyzbo/thisisnotadinosaur_app_detect_if) - [THISISNOTADINOSAUR: An app to detect if a Dinosaur is present in an image](https://github.com/rajtilakjee/thisisnotadinosaur)
