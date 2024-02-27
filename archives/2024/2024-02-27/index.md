@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
+* [2024-02-27, 13:35:23](https://lobste.rs/s/sg10ra/important_efibootmgr_8_command) - [Important efibootmgr(8) Command](https://vermaden.wordpress.com/2024/02/27/important-efibootmgr-command/)
+* [2024-02-27, 13:34:35](https://lobste.rs/s/e9jatp/fun_line_code_david_bushell) - [A Fun Line of Code – David Bushell](https://dbushell.com/2024/02/27/a-fun-line-of-code/)
 * [2024-02-27, 13:32:28](https://lobste.rs/s/zxsecu/m_x_reloaded_second_golden_age_emacs) - [M-x Reloaded: The Second Golden Age of Emacs](https://batsov.com/articles/2024/02/27/m-x-reloaded-the-second-golden-age-of-emacs/)
 * [2024-02-27, 13:09:52](https://lobste.rs/s/aekzpo/does_this_90s_era_theory_predict) - [Does this 90s-era theory predict the popularity of Javascript?](https://thedailydeveloper.substack.com/p/does-this-90s-era-theory-predict)
 * [2024-02-27, 12:05:18](https://lobste.rs/s/v5bpkv/gradient_descent_with_adam_plain_c) - [Gradient Descent With Adam in Plain C++](https://blog.demofox.org/2024/02/11/gradient-descent-with-adam-in-plain-c/)
