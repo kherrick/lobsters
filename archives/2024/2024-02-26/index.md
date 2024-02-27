@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-02-26](index.md)
 
+* [2024-02-26, 20:50:08](https://lobste.rs/s/2rwzq4/tigerbeetle_on_primeagen) - [TigerBeetle on The Primeagen](https://www.youtube.com/watch?v=sC1B3d9C_sI)
+* [2024-02-26, 19:59:24](https://lobste.rs/s/xqyzbo/thisisnotadinosaur_app_detect_if) - [THISISNOTADINOSAUR: An app to detect if a Dinosaur is present in an image](https://github.com/rajtilakjee/thisisnotadinosaur)
+* [2024-02-26, 19:20:21](https://lobste.rs/s/u2t1cs/path_toward_secure_measurable_software) - [A Path Toward Secure And Measurable Software](https://www.whitehouse.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf)
+* [2024-02-26, 18:46:13](https://lobste.rs/s/7ob9ue/language_models_can_only_write_ransom) - [Language models can only write ransom notes](https://posts.decontextualize.com/language-models-ransom-notes/)
 * [2024-02-26, 18:25:37](https://lobste.rs/s/l7dtkw/common_mistakes_modularisation) - [Common Mistakes in Modularisation](https://two-wrongs.com/software-design-tree-and-program-families.html)
 * [2024-02-26, 17:57:06](https://lobste.rs/s/h8tnkz/how_find_aws_account_id_any_s3_bucket) - [How to find the AWS Account ID of any S3 Bucket](https://tracebit.com/blog/2024/02/finding-aws-account-id-of-any-s3-bucket/)
 * [2024-02-26, 17:09:02](https://lobste.rs/s/ovo6iu/kem_trails_understanding_key) - [KEM Trails – Understanding Key Encapsulation Mechanisms](https://soatok.blog/2024/02/26/kem-trails-understanding-key-encapsulation-mechanisms/)
