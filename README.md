@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-27, 20:29:30](https://lobste.rs/s/ihjpnm/understanding_gpu_caches_rastergrid) - [Understanding GPU caches – RasterGrid](https://www.rastergrid.com/blog/gpu-tech/2021/01/understanding-gpu-caches/)
 * [2024-02-27, 20:16:12](https://lobste.rs/s/0supbi/go_2019_2022_becoming_cloud_team) - [Go 2019-2022: Becoming a Cloud team](https://ajmani.net/2024/02/23/go-2019-2022-becoming-a-cloud-team/)
 * [2024-02-27, 19:53:45](https://lobste.rs/s/bfwfpv/finding_last_editor) - [Finding The Last Editor](https://world.hey.com/dhh/finding-the-last-editor-dae701cc)
 * [2024-02-27, 19:42:41](https://lobste.rs/s/9gl5zs/beep_history_pc_rendered_free_verse) - [BEEP :  A History of the PC Rendered in Free Verse In The Manner of Howl](http://www.bestmindsofmygeneration.com/)
@@ -17,7 +18,6 @@
 * [2024-02-27, 13:32:28](https://lobste.rs/s/zxsecu/m_x_reloaded_second_golden_age_emacs) - [M-x Reloaded: The Second Golden Age of Emacs](https://batsov.com/articles/2024/02/27/m-x-reloaded-the-second-golden-age-of-emacs/)
 * [2024-02-27, 11:23:52](https://lobste.rs/s/cvqvff/explainix_explain_nix_syntax_visually) - [Explainix: Explain Nix syntax visually](https://zaynetro.com/explainix)
 * [2024-02-27, 07:13:35](https://lobste.rs/s/uyyzvo/freebsd_13_3_rc1_now_available) - [FreeBSD 13.3-RC1 Now Available](https://lists.freebsd.org/archives/freebsd-snapshots/2024-February/000365.html)
-* [2024-02-27, 06:06:09](https://lobste.rs/s/ohspws/apple_gets_f_for_slicing_apples) - [Apple Gets an 'F' for Slicing Apples](https://objective-see.org/blog/blog_0x80.html)
 * [2024-02-26, 20:50:08](https://lobste.rs/s/2rwzq4/tigerbeetle_on_primeagen) - [TigerBeetle on The Primeagen](https://www.youtube.com/watch?v=sC1B3d9C_sI)
 * [2024-02-26, 19:59:24](https://lobste.rs/s/xqyzbo/thisisnotadinosaur_app_detect_if) - [THISISNOTADINOSAUR: An app to detect if a Dinosaur is present in an image](https://github.com/rajtilakjee/thisisnotadinosaur)
 * [2024-02-26, 19:20:21](https://lobste.rs/s/u2t1cs/path_toward_secure_measurable_software) - [A Path Toward Secure And Measurable Software](https://www.whitehouse.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf)
