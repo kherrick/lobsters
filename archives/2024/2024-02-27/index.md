@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
+* [2024-02-27, 21:52:40](https://lobste.rs/s/sh8gfk/osc8_adoption_list_terminal_emulators) - [OSC8-Adoption: List of terminal emulators that support hyperlinks](https://github.com/Alhadis/OSC8-Adoption)
 * [2024-02-27, 20:29:30](https://lobste.rs/s/ihjpnm/understanding_gpu_caches_rastergrid) - [Understanding GPU caches – RasterGrid](https://www.rastergrid.com/blog/gpu-tech/2021/01/understanding-gpu-caches/)
 * [2024-02-27, 20:16:12](https://lobste.rs/s/0supbi/go_2019_2022_becoming_cloud_team) - [Go 2019-2022: Becoming a Cloud team](https://ajmani.net/2024/02/23/go-2019-2022-becoming-a-cloud-team/)
 * [2024-02-27, 19:53:45](https://lobste.rs/s/bfwfpv/finding_last_editor) - [Finding The Last Editor](https://world.hey.com/dhh/finding-the-last-editor-dae701cc)
