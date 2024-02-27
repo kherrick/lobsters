@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-27, 22:23:21](https://lobste.rs/s/5bagdk/mgs2_was_wrong_actually_how_ai_broke) - [MGS2 Was Wrong, Actually... How AI Broke The Internet](https://www.youtube.com/watch?v=DKRujmqbcSk)
 * [2024-02-27, 21:52:40](https://lobste.rs/s/sh8gfk/osc8_adoption_list_terminal_emulators) - [OSC8-Adoption: List of terminal emulators that support hyperlinks](https://github.com/Alhadis/OSC8-Adoption)
 * [2024-02-27, 20:29:30](https://lobste.rs/s/ihjpnm/understanding_gpu_caches_rastergrid) - [Understanding GPU caches – RasterGrid](https://www.rastergrid.com/blog/gpu-tech/2021/01/understanding-gpu-caches/)
 * [2024-02-27, 20:16:12](https://lobste.rs/s/0supbi/go_2019_2022_becoming_cloud_team) - [Go 2019-2022: Becoming a Cloud team](https://ajmani.net/2024/02/23/go-2019-2022-becoming-a-cloud-team/)
@@ -24,7 +25,6 @@
 * [2024-02-26, 19:20:21](https://lobste.rs/s/u2t1cs/path_toward_secure_measurable_software) - [A Path Toward Secure And Measurable Software](https://www.whitehouse.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf)
 * [2024-02-26, 17:09:02](https://lobste.rs/s/ovo6iu/kem_trails_understanding_key) - [KEM Trails – Understanding Key Encapsulation Mechanisms](https://soatok.blog/2024/02/26/kem-trails-understanding-key-encapsulation-mechanisms/)
 * [2024-02-26, 16:42:36](https://lobste.rs/s/jliiye/how_i_use_nix_on_macos) - [How I use Nix on macOS](https://blog.6nok.org/how-i-use-nix-on-macos/)
-* [2024-02-26, 09:20:18](https://lobste.rs/s/ixyv5u/free_monitoring_certificate_expiry_via) - [Free Monitoring of Certificate Expiry via RSS](https://raphting.dev/posts/monitor-rss/)
 
 ## [Archives](archives/index.md)
 
