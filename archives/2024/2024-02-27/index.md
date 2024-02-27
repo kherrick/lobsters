@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-27](index.md)
 
+* [2024-02-27, 17:22:39](https://lobste.rs/s/pq1etk/airfoil) - [Airfoil](https://ciechanow.ski/airfoil/)
 * [2024-02-27, 17:08:09](https://lobste.rs/s/1zzx8s/jevons_paradox_doesn_t_always_apply) - [Jevons Paradox doesn’t always apply to software](https://pythonspeed.com/articles/software-jevons-paradox/)
 * [2024-02-27, 15:29:36](https://lobste.rs/s/m3fynb/trials_tribulations_360_video_juno) - [Trials and tribulations of 360° video in Juno](https://christianselig.com/2024/02/trials-360-juno-video/)
 * [2024-02-27, 15:19:44](https://lobste.rs/s/4p9y1f/hanami_2_1_views_are_sight_see) - [Hanami 2.1: Views that are a sight to see](https://hanamirb.org/blog/2024/02/27/hanami-210/)
