@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-28](index.md)
 
+* [2024-02-28, 11:44:59](https://lobste.rs/s/1zaxek/nintendo_is_suing_creators_switch) - [Nintendo is suing the creators of Switch emulator Yuzu](https://overkill.wtf/nintendo-sue-yuzu-emulator/)
 * [2024-02-28, 11:41:15](https://lobste.rs/s/0necvl/some_reflections_on_writing_unix_daemons) - [Some Reflections on Writing Unix Daemons](https://tratt.net/laurie/blog/2024/some_reflections_on_writing_unix_daemons.html)
 * [2024-02-28, 10:47:37](https://lobste.rs/s/xaeand/even_more_challenging_programming) - [(Even more) challenging programming projects you should try](https://jamesg.blog/2024/02/28/programming-projects/)
 * [2024-02-28, 10:43:03](https://lobste.rs/s/o2jt1p/pingora_library_for_building_fast) - [pingora - A library for building fast, reliable and evolvable network services](https://github.com/cloudflare/pingora)
