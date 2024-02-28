@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-02-28, 03:41:12",
+      "https://lobste.rs/s/xiiltq/introducing_qtasyncio_technical"
+    ],
+    [
+      "Introducing QtAsyncio in technical preview",
+      "https://www.qt.io/blog/introducing-qtasyncio-in-technical-preview"
+    ]
+  ],
+  [
+    [
       "2024-02-28, 03:27:07",
       "https://lobste.rs/s/rlelfb/prosody_xmpp_server_is_now_available_for"
     ],
@@ -237,16 +247,6 @@
     [
       "TigerBeetle on The Primeagen",
       "https://www.youtube.com/watch?v=sC1B3d9C_sI"
-    ]
-  ],
-  [
-    [
-      "2024-02-26, 16:42:36",
-      "https://lobste.rs/s/jliiye/how_i_use_nix_on_macos"
-    ],
-    [
-      "How I use Nix on macOS",
-      "https://blog.6nok.org/how-i-use-nix-on-macos/"
     ]
   ]
 ]
