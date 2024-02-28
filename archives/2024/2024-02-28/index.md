@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-28](index.md)
 
+* [2024-02-28, 13:26:42](https://lobste.rs/s/j5xrsf/mdn_curriculum) - [MDN Curriculum](https://developer.mozilla.org/en-US/curriculum/)
 * [2024-02-28, 13:23:21](https://lobste.rs/s/ke70cg/why_i_use_firefox) - [Why I use Firefox](https://šime.eu/3)
 * [2024-02-28, 11:44:59](https://lobste.rs/s/1zaxek/nintendo_is_suing_creators_switch) - [Nintendo is suing the creators of Switch emulator Yuzu](https://overkill.wtf/nintendo-sue-yuzu-emulator/)
 * [2024-02-28, 11:41:15](https://lobste.rs/s/0necvl/some_reflections_on_writing_unix_daemons) - [Some Reflections on Writing Unix Daemons](https://tratt.net/laurie/blog/2024/some_reflections_on_writing_unix_daemons.html)

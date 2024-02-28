@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-28, 13:26:42](https://lobste.rs/s/j5xrsf/mdn_curriculum) - [MDN Curriculum](https://developer.mozilla.org/en-US/curriculum/)
 * [2024-02-28, 13:23:21](https://lobste.rs/s/ke70cg/why_i_use_firefox) - [Why I use Firefox](https://šime.eu/3)
 * [2024-02-28, 11:44:59](https://lobste.rs/s/1zaxek/nintendo_is_suing_creators_switch) - [Nintendo is suing the creators of Switch emulator Yuzu](https://overkill.wtf/nintendo-sue-yuzu-emulator/)
 * [2024-02-28, 11:41:15](https://lobste.rs/s/0necvl/some_reflections_on_writing_unix_daemons) - [Some Reflections on Writing Unix Daemons](https://tratt.net/laurie/blog/2024/some_reflections_on_writing_unix_daemons.html)
@@ -21,7 +22,6 @@
 * [2024-02-27, 17:22:39](https://lobste.rs/s/pq1etk/airfoil) - [Airfoil](https://ciechanow.ski/airfoil/)
 * [2024-02-27, 17:08:09](https://lobste.rs/s/1zzx8s/jevons_paradox_doesn_t_always_apply) - [Jevons Paradox doesn’t always apply to software](https://pythonspeed.com/articles/software-jevons-paradox/)
 * [2024-02-27, 14:31:17](https://lobste.rs/s/rj0jud/introducing_pgroll_zero_downtime) - [Introducing pgroll: zero-downtime, reversible, schema migrations for Postgres](https://xata.io/blog/pgroll-schema-migrations-postgres)
-* [2024-02-27, 14:25:42](https://lobste.rs/s/zqvhov/decker_adds_fileio_shell_commands) - [Decker adds FileIO, shell commands](https://itch.io/post/9447223)
 * [2024-02-27, 13:32:28](https://lobste.rs/s/zxsecu/m_x_reloaded_second_golden_age_emacs) - [M-x Reloaded: The Second Golden Age of Emacs](https://batsov.com/articles/2024/02/27/m-x-reloaded-the-second-golden-age-of-emacs/)
 * [2024-02-27, 11:23:52](https://lobste.rs/s/cvqvff/explainix_explain_nix_syntax_visually) - [Explainix: Explain Nix syntax visually](https://zaynetro.com/explainix)
 * [2024-02-26, 20:50:08](https://lobste.rs/s/2rwzq4/tigerbeetle_on_primeagen) - [TigerBeetle on The Primeagen](https://www.youtube.com/watch?v=sC1B3d9C_sI)
