@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2024-02-28, 09:27:47",
+      "https://lobste.rs/s/1rzbp7/software_engineering_practices_i_like"
+    ],
+    [
+      "Software engineering practices I like",
+      "https://thetechenabler.substack.com/p/software-engineering-practices-you"
+    ]
+  ],
+  [
+    [
       "2024-02-28, 08:43:24",
       "https://lobste.rs/s/fg3lzv/stakes_bigger_than_life_fixing_ext4_under"
     ],
@@ -207,16 +217,6 @@
     [
       "Jevons Paradox doesn’t always apply to software",
       "https://pythonspeed.com/articles/software-jevons-paradox/"
-    ]
-  ],
-  [
-    [
-      "2024-02-27, 14:31:17",
-      "https://lobste.rs/s/rj0jud/introducing_pgroll_zero_downtime"
-    ],
-    [
-      "Introducing pgroll: zero-downtime, reversible, schema migrations for Postgres",
-      "https://xata.io/blog/pgroll-schema-migrations-postgres"
     ]
   ],
   [
