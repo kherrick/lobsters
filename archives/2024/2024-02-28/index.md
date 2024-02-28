@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-28](index.md)
 
+* [2024-02-28, 08:43:24](https://lobste.rs/s/fg3lzv/stakes_bigger_than_life_fixing_ext4_under) - [Stakes bigger than life: fixing ext4 under pressure](https://sdomi.pl/weblog/18-fixing-ext4-under-pressure/)
 * [2024-02-28, 06:19:36](https://lobste.rs/s/phxe93/claro_programming_language) - [The Claro Programming Language](https://docs.clarolang.com/)
 * [2024-02-28, 06:13:41](https://lobste.rs/s/u9yrly/secomp_formally_secure_compilation) - [SECOMP: Formally Secure Compilation of Compartmentalized C Programs](https://arxiv.org/abs/2401.16277)
 * [2024-02-28, 05:58:12](https://lobste.rs/s/okneuq/unreasonably_effective_how_video_games) - [Unreasonably effective - How video games use LUTs and how you can too](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
