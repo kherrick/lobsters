@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-28, 04:56:25](https://lobste.rs/s/hvddrv/netlify_just_sent_me_104k_bill_for_simple) - [Netlify just sent me a $104K bill for a simple static site](https://old.reddit.com/r/webdev/comments/1b14bty/netlify_just_sent_me_a_104k_bill_for_a_simple/)
 * [2024-02-28, 03:57:08](https://lobste.rs/s/w5sr0y/few_ledger_aliases) - [A Few Ledger Aliases](https://www.skool.com/programming-masterminds-2307/exclusive-skool-content-ledger-aliases)
 * [2024-02-28, 03:41:12](https://lobste.rs/s/xiiltq/introducing_qtasyncio_technical) - [Introducing QtAsyncio in technical preview](https://www.qt.io/blog/introducing-qtasyncio-in-technical-preview)
 * [2024-02-28, 03:27:07](https://lobste.rs/s/rlelfb/prosody_xmpp_server_is_now_available_for) - [Prosody XMPP server is now available for SmartOS/OmniOS/OpenIndiana/Tribblix](https://www.unitedbsd.com/d/1272-prosody-xmpp-server-is-now-available-for-smartosomniosopenindianatribblix)
@@ -23,7 +24,6 @@
 * [2024-02-27, 11:23:52](https://lobste.rs/s/cvqvff/explainix_explain_nix_syntax_visually) - [Explainix: Explain Nix syntax visually](https://zaynetro.com/explainix)
 * [2024-02-26, 20:50:08](https://lobste.rs/s/2rwzq4/tigerbeetle_on_primeagen) - [TigerBeetle on The Primeagen](https://www.youtube.com/watch?v=sC1B3d9C_sI)
 * [2024-02-26, 19:20:21](https://lobste.rs/s/u2t1cs/path_toward_secure_measurable_software) - [A Path Toward Secure And Measurable Software](https://www.whitehouse.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf)
-* [2024-02-26, 17:09:02](https://lobste.rs/s/ovo6iu/kem_trails_understanding_key) - [KEM Trails – Understanding Key Encapsulation Mechanisms](https://soatok.blog/2024/02/26/kem-trails-understanding-key-encapsulation-mechanisms/)
 * [2024-02-26, 16:42:36](https://lobste.rs/s/jliiye/how_i_use_nix_on_macos) - [How I use Nix on macOS](https://blog.6nok.org/how-i-use-nix-on-macos/)
 
 ## [Archives](archives/index.md)
