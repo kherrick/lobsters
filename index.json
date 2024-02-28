@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-28, 05:42:25",
+      "https://lobste.rs/s/y6mcuj/anansi_add_simple_tags_python_strings"
+    ],
+    [
+      "Anansi: Add simple tags to Python strings to make them pretty",
+      "https://github.com/3digitdev/anansi-md"
+    ]
+  ],
+  [
+    [
       "2024-02-28, 03:57:08",
       "https://lobste.rs/s/w5sr0y/few_ledger_aliases"
     ],
@@ -227,16 +237,6 @@
     [
       "A Path Toward Secure And Measurable Software",
       "https://www.whitehouse.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-02-26, 17:09:02",
-      "https://lobste.rs/s/ovo6iu/kem_trails_understanding_key"
-    ],
-    [
-      "KEM Trails – Understanding Key Encapsulation Mechanisms",
-      "https://soatok.blog/2024/02/26/kem-trails-understanding-key-encapsulation-mechanisms/"
     ]
   ],
   [
