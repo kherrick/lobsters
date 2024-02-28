@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-28, 03:41:12](https://lobste.rs/s/xiiltq/introducing_qtasyncio_technical) - [Introducing QtAsyncio in technical preview](https://www.qt.io/blog/introducing-qtasyncio-in-technical-preview)
 * [2024-02-28, 03:27:07](https://lobste.rs/s/rlelfb/prosody_xmpp_server_is_now_available_for) - [Prosody XMPP server is now available for SmartOS/OmniOS/OpenIndiana/Tribblix](https://www.unitedbsd.com/d/1272-prosody-xmpp-server-is-now-available-for-smartosomniosopenindianatribblix)
 * [2024-02-28, 00:22:44](https://lobste.rs/s/ak6s7b/progress_report_january_2024) - [Progress Report January 2024](https://yuzu-emu.org/entry/yuzu-progress-report-jan-2024/)
 * [2024-02-27, 23:50:50](https://lobste.rs/s/66uxbj/how_love_homebrew) - [How to love homebrew](https://notes.billmill.org/blog/2024/02/How_to_love_homebrew.html)
@@ -20,7 +21,6 @@
 * [2024-02-27, 13:35:23](https://lobste.rs/s/sg10ra/important_efibootmgr_8_command) - [Important efibootmgr(8) Command](https://vermaden.wordpress.com/2024/02/27/important-efibootmgr-command/)
 * [2024-02-27, 13:32:28](https://lobste.rs/s/zxsecu/m_x_reloaded_second_golden_age_emacs) - [M-x Reloaded: The Second Golden Age of Emacs](https://batsov.com/articles/2024/02/27/m-x-reloaded-the-second-golden-age-of-emacs/)
 * [2024-02-27, 11:23:52](https://lobste.rs/s/cvqvff/explainix_explain_nix_syntax_visually) - [Explainix: Explain Nix syntax visually](https://zaynetro.com/explainix)
-* [2024-02-27, 07:13:35](https://lobste.rs/s/uyyzvo/freebsd_13_3_rc1_now_available) - [FreeBSD 13.3-RC1 Now Available](https://lists.freebsd.org/archives/freebsd-snapshots/2024-February/000365.html)
 * [2024-02-26, 20:50:08](https://lobste.rs/s/2rwzq4/tigerbeetle_on_primeagen) - [TigerBeetle on The Primeagen](https://www.youtube.com/watch?v=sC1B3d9C_sI)
 * [2024-02-26, 19:20:21](https://lobste.rs/s/u2t1cs/path_toward_secure_measurable_software) - [A Path Toward Secure And Measurable Software](https://www.whitehouse.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf)
 * [2024-02-26, 17:09:02](https://lobste.rs/s/ovo6iu/kem_trails_understanding_key) - [KEM Trails – Understanding Key Encapsulation Mechanisms](https://soatok.blog/2024/02/26/kem-trails-understanding-key-encapsulation-mechanisms/)
