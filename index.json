@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-28, 11:44:59",
+      "https://lobste.rs/s/1zaxek/nintendo_is_suing_creators_switch"
+    ],
+    [
+      "Nintendo is suing the creators of Switch emulator Yuzu",
+      "https://overkill.wtf/nintendo-sue-yuzu-emulator/"
+    ]
+  ],
+  [
+    [
       "2024-02-28, 11:41:15",
       "https://lobste.rs/s/0necvl/some_reflections_on_writing_unix_daemons"
     ],
@@ -207,16 +217,6 @@
     [
       "Decker adds FileIO, shell commands",
       "https://itch.io/post/9447223"
-    ]
-  ],
-  [
-    [
-      "2024-02-27, 14:17:04",
-      "https://lobste.rs/s/jjiak3/demystifying_gpus_for_cpu_centric"
-    ],
-    [
-      "Demystifying GPUs for CPU-centric programmers",
-      "https://medium.com/@penberg/demystifying-gpus-for-cpu-centric-programmers-e24934a620f1"
     ]
   ],
   [
