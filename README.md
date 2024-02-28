@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-28, 10:47:37](https://lobste.rs/s/xaeand/even_more_challenging_programming) - [(Even more) challenging programming projects you should try](https://jamesg.blog/2024/02/28/programming-projects/)
 * [2024-02-28, 10:43:03](https://lobste.rs/s/o2jt1p/pingora_library_for_building_fast) - [pingora - A library for building fast, reliable and evolvable network services](https://github.com/cloudflare/pingora)
 * [2024-02-28, 10:11:27](https://lobste.rs/s/5hxfcw/not_just_nvidia_gpu_programming_runs) - [Not just NVIDIA: GPU programming that runs everywhere](https://pythonspeed.com/articles/gpu-without-cuda/ )
 * [2024-02-28, 09:28:02](https://lobste.rs/s/tajrjz/opencollective_shutting_down) - [Opencollective shutting down](https://daniel-lange.com/archives/186-Opencollective-shutting-down.html)
@@ -21,7 +22,6 @@
 * [2024-02-27, 14:31:17](https://lobste.rs/s/rj0jud/introducing_pgroll_zero_downtime) - [Introducing pgroll: zero-downtime, reversible, schema migrations for Postgres](https://xata.io/blog/pgroll-schema-migrations-postgres)
 * [2024-02-27, 14:25:42](https://lobste.rs/s/zqvhov/decker_adds_fileio_shell_commands) - [Decker adds FileIO, shell commands](https://itch.io/post/9447223)
 * [2024-02-27, 14:17:04](https://lobste.rs/s/jjiak3/demystifying_gpus_for_cpu_centric) - [Demystifying GPUs for CPU-centric programmers](https://medium.com/@penberg/demystifying-gpus-for-cpu-centric-programmers-e24934a620f1)
-* [2024-02-27, 13:35:23](https://lobste.rs/s/sg10ra/important_efibootmgr_8_command) - [Important efibootmgr(8) Command](https://vermaden.wordpress.com/2024/02/27/important-efibootmgr-command/)
 * [2024-02-27, 13:32:28](https://lobste.rs/s/zxsecu/m_x_reloaded_second_golden_age_emacs) - [M-x Reloaded: The Second Golden Age of Emacs](https://batsov.com/articles/2024/02/27/m-x-reloaded-the-second-golden-age-of-emacs/)
 * [2024-02-27, 11:23:52](https://lobste.rs/s/cvqvff/explainix_explain_nix_syntax_visually) - [Explainix: Explain Nix syntax visually](https://zaynetro.com/explainix)
 * [2024-02-26, 20:50:08](https://lobste.rs/s/2rwzq4/tigerbeetle_on_primeagen) - [TigerBeetle on The Primeagen](https://www.youtube.com/watch?v=sC1B3d9C_sI)
