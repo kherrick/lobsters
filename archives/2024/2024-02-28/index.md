@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-28](index.md)
 
+* [2024-02-28, 06:19:36](https://lobste.rs/s/phxe93/claro_programming_language) - [The Claro Programming Language](https://docs.clarolang.com/)
+* [2024-02-28, 06:13:41](https://lobste.rs/s/u9yrly/secomp_formally_secure_compilation) - [SECOMP: Formally Secure Compilation of Compartmentalized C Programs](https://arxiv.org/abs/2401.16277)
 * [2024-02-28, 05:58:12](https://lobste.rs/s/okneuq/unreasonably_effective_how_video_games) - [Unreasonably effective - How video games use LUTs and how you can too](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
 * [2024-02-28, 05:42:25](https://lobste.rs/s/y6mcuj/anansi_add_simple_tags_python_strings) - [Anansi: Add simple tags to Python strings to make them pretty](https://github.com/3digitdev/anansi-md)
 * [2024-02-28, 04:56:25](https://lobste.rs/s/hvddrv/netlify_just_sent_me_104k_bill_for_simple) - [Netlify just sent me a $104K bill for a simple static site](https://old.reddit.com/r/webdev/comments/1b14bty/netlify_just_sent_me_a_104k_bill_for_a_simple/)
