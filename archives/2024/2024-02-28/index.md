@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-28](index.md)
 
+* [2024-02-28, 15:28:54](https://lobste.rs/s/qcx6fi/tech_industry_doesn_t_understand_consent) - [The Tech Industry Doesn’t Understand Consent - Opt-Out Is Not Consent](https://soatok.blog/2024/02/27/the-tech-industry-doesnt-understand-consent/)
 * [2024-02-28, 15:14:28](https://lobste.rs/s/jxm4bp/comments_are_code_2018) - [Comments Are Code (2018)](https://responsibleautomation.wordpress.com/2018/02/01/heresy-ii-comments-are-code/)
 * [2024-02-28, 13:26:42](https://lobste.rs/s/j5xrsf/mdn_curriculum) - [MDN Curriculum](https://developer.mozilla.org/en-US/curriculum/)
 * [2024-02-28, 13:23:21](https://lobste.rs/s/ke70cg/why_i_use_firefox) - [Why I use Firefox](https://šime.eu/3)
