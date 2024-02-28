@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-02-28, 15:28:54](https://lobste.rs/s/qcx6fi/tech_industry_doesn_t_understand_consent) - [The Tech Industry Doesn’t Understand Consent - Opt-Out Is Not Consent](https://soatok.blog/2024/02/27/the-tech-industry-doesnt-understand-consent/)
+* [2024-02-28, 15:33:26](https://lobste.rs/s/ehtsiz/announcing_river_high_performance) - [Announcing River: A High Performance and Memory Safe Reverse Proxy Built on Pingora](https://www.memorysafety.org/blog/introducing-river/)
 * [2024-02-28, 13:26:42](https://lobste.rs/s/j5xrsf/mdn_curriculum) - [MDN Curriculum](https://developer.mozilla.org/en-US/curriculum/)
 * [2024-02-28, 13:23:21](https://lobste.rs/s/ke70cg/why_i_use_firefox) - [Why I use Firefox](https://šime.eu/3)
 * [2024-02-28, 11:44:59](https://lobste.rs/s/1zaxek/nintendo_is_suing_creators_switch) - [Nintendo is suing the creators of Switch emulator Yuzu](https://overkill.wtf/nintendo-sue-yuzu-emulator/)

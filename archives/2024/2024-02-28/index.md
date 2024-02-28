@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-28](index.md)
 
+* [2024-02-28, 15:33:26](https://lobste.rs/s/ehtsiz/announcing_river_high_performance) - [Announcing River: A High Performance and Memory Safe Reverse Proxy Built on Pingora](https://www.memorysafety.org/blog/introducing-river/)
 * [2024-02-28, 15:28:54](https://lobste.rs/s/qcx6fi/tech_industry_doesn_t_understand_consent) - [The Tech Industry Doesn’t Understand Consent - Opt-Out Is Not Consent](https://soatok.blog/2024/02/27/the-tech-industry-doesnt-understand-consent/)
 * [2024-02-28, 15:14:28](https://lobste.rs/s/jxm4bp/comments_are_code_2018) - [Comments Are Code (2018)](https://responsibleautomation.wordpress.com/2018/02/01/heresy-ii-comments-are-code/)
 * [2024-02-28, 13:26:42](https://lobste.rs/s/j5xrsf/mdn_curriculum) - [MDN Curriculum](https://developer.mozilla.org/en-US/curriculum/)
