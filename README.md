@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-28, 16:52:41](https://lobste.rs/s/qorikk/poiesis_real_time_generative_artwork) - [Poiesis - A Real-Time Generative Artwork](https://poniesandlight.co.uk/work/poiesis/)
 * [2024-02-28, 15:33:26](https://lobste.rs/s/ehtsiz/announcing_river_high_performance) - [Announcing River: A High Performance and Memory Safe Reverse Proxy Built on Pingora](https://www.memorysafety.org/blog/introducing-river/)
 * [2024-02-28, 13:26:42](https://lobste.rs/s/j5xrsf/mdn_curriculum) - [MDN Curriculum](https://developer.mozilla.org/en-US/curriculum/)
 * [2024-02-28, 13:23:21](https://lobste.rs/s/ke70cg/why_i_use_firefox) - [Why I use Firefox](https://šime.eu/3)
@@ -14,7 +15,6 @@
 * [2024-02-28, 05:58:12](https://lobste.rs/s/okneuq/unreasonably_effective_how_video_games) - [Unreasonably effective - How video games use LUTs and how you can too](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
 * [2024-02-28, 05:42:25](https://lobste.rs/s/y6mcuj/anansi_add_simple_tags_python_strings) - [Anansi: Add simple tags to Python strings to make them pretty](https://github.com/3digitdev/anansi-md)
 * [2024-02-28, 03:57:08](https://lobste.rs/s/w5sr0y/few_ledger_aliases) - [A Few Ledger Aliases](https://www.skool.com/programming-masterminds-2307/exclusive-skool-content-ledger-aliases)
-* [2024-02-28, 03:27:07](https://lobste.rs/s/rlelfb/prosody_xmpp_server_is_now_available_for) - [Prosody XMPP server is now available for SmartOS/OmniOS/OpenIndiana/Tribblix](https://www.unitedbsd.com/d/1272-prosody-xmpp-server-is-now-available-for-smartosomniosopenindianatribblix)
 * [2024-02-28, 00:22:44](https://lobste.rs/s/ak6s7b/progress_report_january_2024) - [Progress Report January 2024](https://yuzu-emu.org/entry/yuzu-progress-report-jan-2024/)
 * [2024-02-27, 23:50:50](https://lobste.rs/s/66uxbj/how_love_homebrew) - [How to love homebrew](https://notes.billmill.org/blog/2024/02/How_to_love_homebrew.html)
 * [2024-02-27, 19:53:45](https://lobste.rs/s/bfwfpv/finding_last_editor) - [Finding The Last Editor](https://world.hey.com/dhh/finding-the-last-editor-dae701cc)
