@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-28](index.md)
 
+* [2024-02-28, 23:30:25](https://lobste.rs/s/f6b0ex/freebsd_journal_2024_01_02_10_years) - [FreeBSD Journal - 2024/01-02 - 10 Years in Publication](https://freebsdfoundation.org/blog/the-january-february-2024-issue-of-the-freebsd-journal-is-here/)
 * [2024-02-28, 20:38:30](https://lobste.rs/s/cuto8u/drawing_hex_grid_swiftui) - [Drawing a Hex Grid in SwiftUI](https://calebhearth.com/l/drawing-a-hex-grid-in-swiftui)
 * [2024-02-28, 17:24:45](https://lobste.rs/s/buez9b/bad_call_by_lobsters_moderation) - [Bad Call by Lobsters Moderation](https://lobste.rs/s/buez9b/bad_call_by_lobsters_moderation)
 * [2024-02-28, 16:52:41](https://lobste.rs/s/qorikk/poiesis_real_time_generative_artwork) - [Poiesis - A Real-Time Generative Artwork](https://poniesandlight.co.uk/work/poiesis/)
