@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-02-28, 17:24:45](https://lobste.rs/s/buez9b/bad_call_by_lobsters_moderation) - [Bad Call by Lobsters Moderation](https://lobste.rs/s/buez9b/bad_call_by_lobsters_moderation)
+* [2024-02-28, 16:52:41](https://lobste.rs/s/qorikk/poiesis_real_time_generative_artwork) - [Poiesis - A Real-Time Generative Artwork](https://poniesandlight.co.uk/work/poiesis/)
 * [2024-02-28, 15:33:26](https://lobste.rs/s/ehtsiz/announcing_river_high_performance) - [Announcing River: A High Performance and Memory Safe Reverse Proxy Built on Pingora](https://www.memorysafety.org/blog/introducing-river/)
 * [2024-02-28, 15:25:11](https://lobste.rs/s/xy62wl/kde_megarelease_6) - [KDE MegaRelease 6](https://kde.org/announcements/megarelease/6/)
 * [2024-02-28, 15:14:28](https://lobste.rs/s/jxm4bp/comments_are_code_2018) - [Comments Are Code (2018)](https://responsibleautomation.wordpress.com/2018/02/01/heresy-ii-comments-are-code/)
-* [2024-02-28, 13:26:42](https://lobste.rs/s/j5xrsf/mdn_curriculum) - [MDN Curriculum](https://developer.mozilla.org/en-US/curriculum/)
 * [2024-02-28, 13:23:21](https://lobste.rs/s/ke70cg/why_i_use_firefox) - [Why I use Firefox](https://šime.eu/3)
 * [2024-02-28, 11:44:59](https://lobste.rs/s/1zaxek/nintendo_is_suing_creators_switch) - [Nintendo is suing the creators of Switch emulator Yuzu](https://overkill.wtf/nintendo-sue-yuzu-emulator/)
 * [2024-02-28, 11:41:15](https://lobste.rs/s/0necvl/some_reflections_on_writing_unix_daemons) - [Some Reflections on Writing Unix Daemons](https://tratt.net/laurie/blog/2024/some_reflections_on_writing_unix_daemons.html)
