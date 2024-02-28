@@ -7,7 +7,7 @@
 * [2024-02-28, 10:47:37](https://lobste.rs/s/xaeand/even_more_challenging_programming) - [(Even more) challenging programming projects you should try](https://jamesg.blog/2024/02/28/programming-projects/)
 * [2024-02-28, 10:43:03](https://lobste.rs/s/o2jt1p/pingora_library_for_building_fast) - [pingora - A library for building fast, reliable and evolvable network services](https://github.com/cloudflare/pingora)
 * [2024-02-28, 10:11:27](https://lobste.rs/s/5hxfcw/not_just_nvidia_gpu_programming_runs) - [Not just NVIDIA: GPU programming that runs everywhere](https://pythonspeed.com/articles/gpu-without-cuda/ )
-* [2024-02-28, 09:28:02](https://lobste.rs/s/tajrjz/opencollective_shutting_down) - [Opencollective shutting down](https://daniel-lange.com/archives/186-Opencollective-shutting-down.html)
+* [2024-02-28, 09:28:02](https://lobste.rs/s/tajrjz/open_collective_foundation_shutting) - [Open Collective Foundation shutting down](https://daniel-lange.com/archives/186-Opencollective-shutting-down.html)
 * [2024-02-28, 09:27:47](https://lobste.rs/s/1rzbp7/software_engineering_practices_i_like) - [Software engineering practices I like](https://thetechenabler.substack.com/p/software-engineering-practices-you)
 * [2024-02-28, 08:43:24](https://lobste.rs/s/fg3lzv/stakes_bigger_than_life_fixing_ext4_under) - [Stakes bigger than life: fixing ext4 under pressure](https://sdomi.pl/weblog/18-fixing-ext4-under-pressure/)
 * [2024-02-28, 06:19:36](https://lobste.rs/s/phxe93/claro_programming_language) - [The Claro Programming Language](https://docs.clarolang.com/)
