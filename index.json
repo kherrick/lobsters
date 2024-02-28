@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-28, 03:41:12",
+      "https://lobste.rs/s/xiiltq/introducing_qtasyncio_technical"
+    ],
+    [
+      "Introducing QtAsyncio in technical preview",
+      "https://www.qt.io/blog/introducing-qtasyncio-in-technical-preview"
+    ]
+  ],
+  [
+    [
       "2024-02-28, 03:27:07",
       "https://lobste.rs/s/rlelfb/prosody_xmpp_server_is_now_available_for"
     ],
@@ -197,16 +207,6 @@
     [
       "Explainix: Explain Nix syntax visually",
       "https://zaynetro.com/explainix"
-    ]
-  ],
-  [
-    [
-      "2024-02-27, 07:13:35",
-      "https://lobste.rs/s/uyyzvo/freebsd_13_3_rc1_now_available"
-    ],
-    [
-      "FreeBSD 13.3-RC1 Now Available",
-      "https://lists.freebsd.org/archives/freebsd-snapshots/2024-February/000365.html"
     ]
   ],
   [
