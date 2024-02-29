@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-29, 22:17:50",
+      "https://lobste.rs/s/djyepr/dotfiles_digest_git"
+    ],
+    [
+      "Dotfiles digest: git",
+      "https://adrg.se/blog/dotfiles-digest-git"
+    ]
+  ],
+  [
+    [
       "2024-02-29, 21:36:06",
       "https://lobste.rs/s/rq0ger/experimenting_with_gc_less_heap_less_java"
     ],
@@ -207,16 +217,6 @@
     [
       "Examining Malicious Hugging Face ML Models with Silent Backdoor",
       "https://jfrog.com/blog/data-scientists-targeted-by-malicious-hugging-face-ml-models-with-silent-backdoor/"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 00:38:56",
-      "https://lobste.rs/s/h5penx/introducing_dagger_functions"
-    ],
-    [
-      "Introducing Dagger Functions",
-      "https://dagger.io/blog/introducing-dagger-functions"
     ]
   ],
   [
