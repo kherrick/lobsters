@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-29, 12:53:29](https://lobste.rs/s/ctlsnc/siren_song_domain_specific_languages) - [The siren song of domain-specific languages](https://www.haskellforall.com/2024/02/the-siren-song-of-domain-specific.html)
+* [2024-02-29, 12:51:54](https://lobste.rs/s/8bkizs/how_build_aws_compatible_apis_aws_sigv4) - [How To Build AWS-Compatible APIs: AWS Sigv4](https://www.aspiring.dev/building-aws-sigv4-into-your-app/)
 * [2024-02-29, 12:34:49](https://lobste.rs/s/ajyx0k/jpeg_xl_pareto_front) - [JPEG XL and the Pareto Front](https://cloudinary.com/blog/jpeg-xl-and-the-pareto-front)
 * [2024-02-29, 11:46:34](https://lobste.rs/s/ahitdn/array_languages_vs_curse_spreadsheet) - [Array languages vs. the curse of the spreadsheet](https://blog.dhsdevelopments.com/array-languages-vs)
 * [2024-02-29, 11:08:52](https://lobste.rs/s/b6qycr/praise_nushell) - [In praise of Nushell](https://lars.yencken.org/in-praise-of-nushell)
@@ -15,7 +17,6 @@
 * [2024-02-28, 17:24:45](https://lobste.rs/s/buez9b/bad_call_by_lobsters_moderation) - [Bad Call by Lobsters Moderation](https://lobste.rs/s/buez9b/bad_call_by_lobsters_moderation)
 * [2024-02-28, 15:33:26](https://lobste.rs/s/ehtsiz/announcing_river_high_performance) - [Announcing River: A High Performance and Memory Safe Reverse Proxy Built on Pingora](https://www.memorysafety.org/blog/introducing-river/)
 * [2024-02-28, 15:25:11](https://lobste.rs/s/xy62wl/kde_megarelease_6) - [KDE MegaRelease 6](https://kde.org/announcements/megarelease/6/)
-* [2024-02-28, 13:26:42](https://lobste.rs/s/j5xrsf/mdn_curriculum) - [MDN Curriculum](https://developer.mozilla.org/en-US/curriculum/)
 * [2024-02-28, 13:23:21](https://lobste.rs/s/ke70cg/why_i_use_firefox) - [Why I use Firefox](https://šime.eu/3)
 * [2024-02-28, 11:44:59](https://lobste.rs/s/1zaxek/nintendo_is_suing_creators_switch) - [Nintendo is suing the creators of Switch emulator Yuzu](https://overkill.wtf/nintendo-sue-yuzu-emulator/)
 * [2024-02-28, 11:41:15](https://lobste.rs/s/0necvl/some_reflections_on_writing_unix_daemons) - [Some Reflections on Writing Unix Daemons](https://tratt.net/laurie/blog/2024/some_reflections_on_writing_unix_daemons.html)
@@ -23,7 +24,6 @@
 * [2024-02-28, 09:27:47](https://lobste.rs/s/1rzbp7/software_engineering_practices_i_like) - [Software engineering practices I like](https://thetechenabler.substack.com/p/software-engineering-practices-you)
 * [2024-02-28, 06:19:36](https://lobste.rs/s/phxe93/claro_programming_language) - [The Claro Programming Language](https://docs.clarolang.com/)
 * [2024-02-28, 05:58:12](https://lobste.rs/s/okneuq/unreasonably_effective_how_video_games) - [Unreasonably effective - How video games use LUTs and how you can too](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
-* [2024-02-28, 05:42:25](https://lobste.rs/s/y6mcuj/anansi_add_simple_tags_python_strings) - [Anansi: Add simple tags to Python strings to make them pretty](https://github.com/3digitdev/anansi-md)
 * [2024-02-27, 19:36:14](https://lobste.rs/s/jtgath/go_enums_suck) - [Go Enums Suck](https://www.zarl.dev/articles/enums)
 
 ## [Archives](archives/index.md)

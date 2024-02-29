@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 12:53:29](https://lobste.rs/s/ctlsnc/siren_song_domain_specific_languages) - [The siren song of domain-specific languages](https://www.haskellforall.com/2024/02/the-siren-song-of-domain-specific.html)
+* [2024-02-29, 12:51:54](https://lobste.rs/s/8bkizs/how_build_aws_compatible_apis_aws_sigv4) - [How To Build AWS-Compatible APIs: AWS Sigv4](https://www.aspiring.dev/building-aws-sigv4-into-your-app/)
 * [2024-02-29, 12:34:49](https://lobste.rs/s/ajyx0k/jpeg_xl_pareto_front) - [JPEG XL and the Pareto Front](https://cloudinary.com/blog/jpeg-xl-and-the-pareto-front)
 * [2024-02-29, 11:46:34](https://lobste.rs/s/ahitdn/array_languages_vs_curse_spreadsheet) - [Array languages vs. the curse of the spreadsheet](https://blog.dhsdevelopments.com/array-languages-vs)
 * [2024-02-29, 11:08:52](https://lobste.rs/s/b6qycr/praise_nushell) - [In praise of Nushell](https://lars.yencken.org/in-praise-of-nushell)
