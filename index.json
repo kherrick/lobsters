@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-29, 00:38:56",
+      "https://lobste.rs/s/h5penx/introducing_dagger_functions"
+    ],
+    [
+      "Introducing Dagger Functions",
+      "https://dagger.io/blog/introducing-dagger-functions"
+    ]
+  ],
+  [
+    [
       "2024-02-28, 23:30:25",
       "https://lobste.rs/s/f6b0ex/freebsd_journal_2024_01_02_10_years"
     ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2024-02-28, 15:14:28",
-      "https://lobste.rs/s/jxm4bp/comments_are_code_2018"
-    ],
-    [
-      "Comments Are Code (2018)",
-      "https://responsibleautomation.wordpress.com/2018/02/01/heresy-ii-comments-are-code/"
-    ]
-  ],
-  [
-    [
       "2024-02-28, 13:26:42",
       "https://lobste.rs/s/j5xrsf/mdn_curriculum"
     ],
@@ -107,6 +107,16 @@
     [
       "Some Reflections on Writing Unix Daemons",
       "https://tratt.net/laurie/blog/2024/some_reflections_on_writing_unix_daemons.html"
+    ]
+  ],
+  [
+    [
+      "2024-02-28, 10:47:37",
+      "https://lobste.rs/s/xaeand/even_more_challenging_programming"
+    ],
+    [
+      "(Even more) challenging programming projects you should try",
+      "https://jamesg.blog/2024/02/28/programming-projects/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Anansi: Add simple tags to Python strings to make them pretty",
       "https://github.com/3digitdev/anansi-md"
-    ]
-  ],
-  [
-    [
-      "2024-02-28, 03:57:08",
-      "https://lobste.rs/s/w5sr0y/few_ledger_aliases"
-    ],
-    [
-      "A Few Ledger Aliases",
-      "https://www.skool.com/programming-masterminds-2307/exclusive-skool-content-ledger-aliases"
     ]
   ],
   [
