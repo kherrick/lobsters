@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 14:41:25](https://lobste.rs/s/jccrzo/elvish_scripting_case_studies) - [Elvish scripting case studies](https://elv.sh/learn/scripting-case-studies.html)
 * [2024-02-29, 14:23:57](https://lobste.rs/s/rhaenn/spritely_distributed_computing_library) - [A Spritely distributed-computing library](https://lwn.net/Articles/960912/)
 * [2024-02-29, 13:08:55](https://lobste.rs/s/us3jkk/siren_song_domain_specific_languages) - [The siren song of domain-specific languages](https://www.haskellforall.com/2024/02/the-siren-song-of-domain-specific.html?m=1)
 * [2024-02-29, 12:53:29](https://lobste.rs/s/ctlsnc/siren_song_domain_specific_languages) - [The siren song of domain-specific languages](https://www.haskellforall.com/2024/02/the-siren-song-of-domain-specific.html)
