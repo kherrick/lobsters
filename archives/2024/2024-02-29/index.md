@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 21:04:51](https://lobste.rs/s/liyugj/prime_numbers_with_expr_expression) - [Prime Numbers with Expr | Expression language](https://expr-lang.org/blog/prime-numbers-with-expr)
 * [2024-02-29, 19:12:22](https://lobste.rs/s/ommwqi/composable_http_handlers_using_generics) - [Composable HTTP Handlers using generics in Go](https://www.willem.dev/articles/generic-http-handlers/)
 * [2024-02-29, 18:33:25](https://lobste.rs/s/abadgi/repiet_compiler_for_esoteric_language) - [repiet: A compiler for the esoteric language Piet](https://github.com/boothby/repiet)
 * [2024-02-29, 18:16:43](https://lobste.rs/s/ucit0v/riposte_v0_5_0_adds_support_for_newer) - [riposte v0.5.0 adds support for newer python versions](https://github.com/fwkz/riposte/releases/tag/v0.5.0)
