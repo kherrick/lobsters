@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-29, 03:29:42](https://lobste.rs/s/qyg8ug/overseas_experience_with_hypertext) - [An Overseas Experience with Hypertext and Packet Switching](https://www.cs.auckland.ac.nz/research/groups/CDMTCS/researchreports/download.php?selected-id=884)
 * [2024-02-29, 00:38:56](https://lobste.rs/s/h5penx/introducing_dagger_functions) - [Introducing Dagger Functions](https://dagger.io/blog/introducing-dagger-functions)
 * [2024-02-28, 23:30:25](https://lobste.rs/s/f6b0ex/freebsd_journal_2024_01_02_10_years) - [FreeBSD Journal - 2024/01-02 - 10 Years in Publication](https://freebsdfoundation.org/blog/the-january-february-2024-issue-of-the-freebsd-journal-is-here/)
 * [2024-02-28, 20:38:30](https://lobste.rs/s/cuto8u/drawing_hex_grid_swiftui) - [Drawing a Hex Grid in SwiftUI](https://calebhearth.com/l/drawing-a-hex-grid-in-swiftui)
@@ -11,7 +12,6 @@
 * [2024-02-28, 13:23:21](https://lobste.rs/s/ke70cg/why_i_use_firefox) - [Why I use Firefox](https://šime.eu/3)
 * [2024-02-28, 11:44:59](https://lobste.rs/s/1zaxek/nintendo_is_suing_creators_switch) - [Nintendo is suing the creators of Switch emulator Yuzu](https://overkill.wtf/nintendo-sue-yuzu-emulator/)
 * [2024-02-28, 11:41:15](https://lobste.rs/s/0necvl/some_reflections_on_writing_unix_daemons) - [Some Reflections on Writing Unix Daemons](https://tratt.net/laurie/blog/2024/some_reflections_on_writing_unix_daemons.html)
-* [2024-02-28, 10:47:37](https://lobste.rs/s/xaeand/even_more_challenging_programming) - [(Even more) challenging programming projects you should try](https://jamesg.blog/2024/02/28/programming-projects/)
 * [2024-02-28, 10:43:03](https://lobste.rs/s/o2jt1p/pingora_library_for_building_fast) - [pingora - A library for building fast, reliable and evolvable network services](https://github.com/cloudflare/pingora)
 * [2024-02-28, 09:28:02](https://lobste.rs/s/tajrjz/open_collective_foundation_shutting) - [Open Collective Foundation shutting down](https://daniel-lange.com/archives/186-Opencollective-shutting-down.html)
 * [2024-02-28, 09:27:47](https://lobste.rs/s/1rzbp7/software_engineering_practices_i_like) - [Software engineering practices I like](https://thetechenabler.substack.com/p/software-engineering-practices-you)
