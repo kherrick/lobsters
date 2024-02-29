@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 11:08:52](https://lobste.rs/s/b6qycr/praise_nushell) - [In praise of Nushell](https://lars.yencken.org/in-praise-of-nushell)
 * [2024-02-29, 08:11:44](https://lobste.rs/s/wgcg89/newshavn_danish_news_english_translated) - [NewsHavn: Danish news, in English (translated by LLM)](https://duarteocarmo.com/blog/newshavn-danish-news-in-english)
 * [2024-02-29, 07:49:03](https://lobste.rs/s/vqaqkm/secure_shell_over_http_3_connections) - [Secure shell over HTTP/3 connections](https://www.ietf.org/archive/id/draft-michel-ssh3-00.html)
 * [2024-02-29, 07:44:25](https://lobste.rs/s/crwzgc/long_slow_path_quic_multipath) - [The long slow path to QUIC multipath](https://www.privateoctopus.com/2024/02/28/long-slow-path-to-quic-multipath.html)
