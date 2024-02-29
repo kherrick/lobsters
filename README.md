@@ -22,9 +22,9 @@
 * [2024-02-28, 05:58:12](https://lobste.rs/s/okneuq/unreasonably_effective_how_video_games) - [Unreasonably effective - How video games use LUTs and how you can too](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
 * [2024-02-28, 05:42:25](https://lobste.rs/s/y6mcuj/anansi_add_simple_tags_python_strings) - [Anansi: Add simple tags to Python strings to make them pretty](https://github.com/3digitdev/anansi-md)
 * [2024-02-27, 23:50:50](https://lobste.rs/s/66uxbj/how_love_homebrew) - [How to love homebrew](https://notes.billmill.org/blog/2024/02/How_to_love_homebrew.html)
-* [2024-02-27, 19:53:45](https://lobste.rs/s/bfwfpv/finding_last_editor) - [Finding The Last Editor](https://world.hey.com/dhh/finding-the-last-editor-dae701cc)
 * [2024-02-27, 19:36:14](https://lobste.rs/s/jtgath/go_enums_suck) - [Go Enums Suck](https://www.zarl.dev/articles/enums)
 * [2024-02-27, 17:22:39](https://lobste.rs/s/pq1etk/airfoil) - [Airfoil](https://ciechanow.ski/airfoil/)
+* [2024-02-27, 11:23:52](https://lobste.rs/s/cvqvff/explainix_explain_nix_syntax_visually) - [Explainix: Explain Nix syntax visually](https://zaynetro.com/explainix)
 
 ## [Archives](archives/index.md)
 
