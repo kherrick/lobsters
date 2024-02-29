@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-29, 03:29:42",
+      "https://lobste.rs/s/qyg8ug/overseas_experience_with_hypertext"
+    ],
+    [
+      "An Overseas Experience with Hypertext and Packet Switching",
+      "https://www.cs.auckland.ac.nz/research/groups/CDMTCS/researchreports/download.php?selected-id=884"
+    ]
+  ],
+  [
+    [
       "2024-02-29, 00:38:56",
       "https://lobste.rs/s/h5penx/introducing_dagger_functions"
     ],
@@ -107,16 +117,6 @@
     [
       "Some Reflections on Writing Unix Daemons",
       "https://tratt.net/laurie/blog/2024/some_reflections_on_writing_unix_daemons.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-28, 10:47:37",
-      "https://lobste.rs/s/xaeand/even_more_challenging_programming"
-    ],
-    [
-      "(Even more) challenging programming projects you should try",
-      "https://jamesg.blog/2024/02/28/programming-projects/"
     ]
   ],
   [
