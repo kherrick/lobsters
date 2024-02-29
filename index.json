@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2024-02-29, 03:29:42",
-      "https://lobste.rs/s/qyg8ug/overseas_experience_with_hypertext"
-    ],
-    [
-      "An Overseas Experience with Hypertext and Packet Switching",
-      "https://www.cs.auckland.ac.nz/research/groups/CDMTCS/researchreports/download.php?selected-id=884"
-    ]
-  ],
-  [
-    [
       "2024-02-29, 00:38:56",
       "https://lobste.rs/s/h5penx/introducing_dagger_functions"
     ],
@@ -237,6 +227,16 @@
     [
       "Unreasonably effective - How video games use LUTs and how you can too",
       "https://blog.frost.kiwi/WebGL-LUTS-made-simple/"
+    ]
+  ],
+  [
+    [
+      "2024-02-28, 05:42:25",
+      "https://lobste.rs/s/y6mcuj/anansi_add_simple_tags_python_strings"
+    ],
+    [
+      "Anansi: Add simple tags to Python strings to make them pretty",
+      "https://github.com/3digitdev/anansi-md"
     ]
   ],
   [
