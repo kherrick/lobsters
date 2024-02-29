@@ -1,22 +1,32 @@
 [
   [
     [
+      "2024-02-29, 18:16:43",
+      "https://lobste.rs/s/ucit0v/riposte_v0_5_0_adds_support_for_newer"
+    ],
+    [
+      "riposte v0.5.0 adds support for newer python versions",
+      "https://github.com/fwkz/riposte/releases/tag/v0.5.0"
+    ]
+  ],
+  [
+    [
+      "2024-02-29, 18:15:29",
+      "https://lobste.rs/s/vip6ip/why_both_hype_fud_over_ai_are_overblown"
+    ],
+    [
+      "Why Both The Hype And The FUD Over AI Are Overblown",
+      "https://medium.com/@kkmvv/why-both-the-hype-and-the-fud-over-ai-are-overblown-2d4d5542bd15"
+    ]
+  ],
+  [
+    [
       "2024-02-29, 17:54:04",
       "https://lobste.rs/s/c1hp3z/sins_committed_name_agile"
     ],
     [
       "The sins committed in the name of Agile",
       "https://www.runtime.news/agile-software-promises-efficiency-it-requires-a-cultural-shift-to-get-right/"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 16:41:52",
-      "https://lobste.rs/s/lfkwff/fbi_using_push_notification_tokens"
-    ],
-    [
-      "FBI using push notification tokens to identify anonymous users",
-      "https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "An HTML Switch Control",
       "https://webkit.org/blog/15054/an-html-switch-control/"
-    ]
-  ],
-  [
-    [
-      "2024-02-28, 20:38:30",
-      "https://lobste.rs/s/cuto8u/drawing_hex_grid_swiftui"
-    ],
-    [
-      "Drawing a Hex Grid in SwiftUI",
-      "https://calebhearth.com/l/drawing-a-hex-grid-in-swiftui"
     ]
   ],
   [
