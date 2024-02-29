@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-29, 16:41:52",
+      "https://lobste.rs/s/lfkwff/fbi_using_push_notification_tokens"
+    ],
+    [
+      "FBI using push notification tokens to identify anonymous users",
+      "https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/"
+    ]
+  ],
+  [
+    [
       "2024-02-29, 16:34:29",
       "https://lobste.rs/s/o1ppa5/responding_year_2000_challenge_lessons"
     ],
@@ -117,16 +127,6 @@
     [
       "Secure shell over HTTP/3 connections",
       "https://www.ietf.org/archive/id/draft-michel-ssh3-00.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 07:44:25",
-      "https://lobste.rs/s/crwzgc/long_slow_path_quic_multipath"
-    ],
-    [
-      "The long slow path to QUIC multipath",
-      "https://www.privateoctopus.com/2024/02/28/long-slow-path-to-quic-multipath.html"
     ]
   ],
   [
