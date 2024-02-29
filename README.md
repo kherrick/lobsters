@@ -9,7 +9,6 @@
 * [2024-02-29, 07:44:25](https://lobste.rs/s/crwzgc/long_slow_path_quic_multipath) - [The long slow path to QUIC multipath](https://www.privateoctopus.com/2024/02/28/long-slow-path-to-quic-multipath.html)
 * [2024-02-29, 07:02:20](https://lobste.rs/s/xjbvkc/aws_s3_denial_wallet_amplification) - [The AWS S3 Denial of Wallet amplification attack](https://blog.limbus-medtec.com/the-aws-s3-denial-of-wallet-amplification-attack-bc5a97cc041d)
 * [2024-02-29, 04:23:08](https://lobste.rs/s/czceyc/examining_malicious_hugging_face_ml) - [Examining Malicious Hugging Face ML Models with Silent Backdoor](https://jfrog.com/blog/data-scientists-targeted-by-malicious-hugging-face-ml-models-with-silent-backdoor/)
-* [2024-02-29, 03:29:42](https://lobste.rs/s/qyg8ug/overseas_experience_with_hypertext) - [An Overseas Experience with Hypertext and Packet Switching](https://www.cs.auckland.ac.nz/research/groups/CDMTCS/researchreports/download.php?selected-id=884)
 * [2024-02-29, 00:38:56](https://lobste.rs/s/h5penx/introducing_dagger_functions) - [Introducing Dagger Functions](https://dagger.io/blog/introducing-dagger-functions)
 * [2024-02-28, 23:30:25](https://lobste.rs/s/f6b0ex/freebsd_journal_2024_01_02_10_years) - [FreeBSD Journal - 2024/01-02 - 10 Years in Publication](https://freebsdfoundation.org/blog/the-january-february-2024-issue-of-the-freebsd-journal-is-here/)
 * [2024-02-28, 22:21:22](https://lobste.rs/s/fzfrpy/html_switch_control) - [An HTML Switch Control](https://webkit.org/blog/15054/an-html-switch-control/)
@@ -24,6 +23,7 @@
 * [2024-02-28, 09:27:47](https://lobste.rs/s/1rzbp7/software_engineering_practices_i_like) - [Software engineering practices I like](https://thetechenabler.substack.com/p/software-engineering-practices-you)
 * [2024-02-28, 06:19:36](https://lobste.rs/s/phxe93/claro_programming_language) - [The Claro Programming Language](https://docs.clarolang.com/)
 * [2024-02-28, 05:58:12](https://lobste.rs/s/okneuq/unreasonably_effective_how_video_games) - [Unreasonably effective - How video games use LUTs and how you can too](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
+* [2024-02-28, 05:42:25](https://lobste.rs/s/y6mcuj/anansi_add_simple_tags_python_strings) - [Anansi: Add simple tags to Python strings to make them pretty](https://github.com/3digitdev/anansi-md)
 * [2024-02-27, 19:36:14](https://lobste.rs/s/jtgath/go_enums_suck) - [Go Enums Suck](https://www.zarl.dev/articles/enums)
 
 ## [Archives](archives/index.md)
