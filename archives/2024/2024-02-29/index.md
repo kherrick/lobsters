@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 15:30:30](https://lobste.rs/s/wndlrm/vim_game_life) - [Vim Game of Life](https://normalmo.de/vimlife/)
 * [2024-02-29, 15:11:20](https://lobste.rs/s/3luon8/advanced_property_testing_interview) - [Advanced Property Testing (Interview with Oskar Wickström)](https://youtu.be/wHJZ0icwSkc)
 * [2024-02-29, 15:09:51](https://lobste.rs/s/dwt7ao/debian_64_bit_time_t_transition_progress) - [Debian 64-bit time_t transition in progress](https://lists.debian.org/debian-devel-announce/2024/02/msg00000.html)
 * [2024-02-29, 14:41:25](https://lobste.rs/s/jccrzo/elvish_scripting_case_studies) - [Elvish scripting case studies](https://elv.sh/learn/scripting-case-studies.html)
