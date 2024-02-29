@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-02-29, 13:08:55](https://lobste.rs/s/us3jkk/siren_song_domain_specific_languages) - [The siren song of domain-specific languages](https://www.haskellforall.com/2024/02/the-siren-song-of-domain-specific.html?m=1)
 * [2024-02-29, 12:53:29](https://lobste.rs/s/ctlsnc/siren_song_domain_specific_languages) - [The siren song of domain-specific languages](https://www.haskellforall.com/2024/02/the-siren-song-of-domain-specific.html)
 * [2024-02-29, 12:51:54](https://lobste.rs/s/8bkizs/how_build_aws_compatible_apis_aws_sigv4) - [How To Build AWS-Compatible APIs: AWS Sigv4](https://www.aspiring.dev/building-aws-sigv4-into-your-app/)
 * [2024-02-29, 12:34:49](https://lobste.rs/s/ajyx0k/jpeg_xl_pareto_front) - [JPEG XL and the Pareto Front](https://cloudinary.com/blog/jpeg-xl-and-the-pareto-front)
@@ -10,6 +9,7 @@
 * [2024-02-29, 07:44:25](https://lobste.rs/s/crwzgc/long_slow_path_quic_multipath) - [The long slow path to QUIC multipath](https://www.privateoctopus.com/2024/02/28/long-slow-path-to-quic-multipath.html)
 * [2024-02-29, 07:02:20](https://lobste.rs/s/xjbvkc/aws_s3_denial_wallet_amplification) - [The AWS S3 Denial of Wallet amplification attack](https://blog.limbus-medtec.com/the-aws-s3-denial-of-wallet-amplification-attack-bc5a97cc041d)
 * [2024-02-29, 04:23:08](https://lobste.rs/s/czceyc/examining_malicious_hugging_face_ml) - [Examining Malicious Hugging Face ML Models with Silent Backdoor](https://jfrog.com/blog/data-scientists-targeted-by-malicious-hugging-face-ml-models-with-silent-backdoor/)
+* [2024-02-29, 03:29:42](https://lobste.rs/s/qyg8ug/overseas_experience_with_hypertext) - [An Overseas Experience with Hypertext and Packet Switching](https://www.cs.auckland.ac.nz/research/groups/CDMTCS/researchreports/download.php?selected-id=884)
 * [2024-02-29, 00:38:56](https://lobste.rs/s/h5penx/introducing_dagger_functions) - [Introducing Dagger Functions](https://dagger.io/blog/introducing-dagger-functions)
 * [2024-02-28, 23:30:25](https://lobste.rs/s/f6b0ex/freebsd_journal_2024_01_02_10_years) - [FreeBSD Journal - 2024/01-02 - 10 Years in Publication](https://freebsdfoundation.org/blog/the-january-february-2024-issue-of-the-freebsd-journal-is-here/)
 * [2024-02-28, 22:21:22](https://lobste.rs/s/fzfrpy/html_switch_control) - [An HTML Switch Control](https://webkit.org/blog/15054/an-html-switch-control/)
