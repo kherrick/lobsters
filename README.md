@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-29, 16:18:34](https://lobste.rs/s/zzal4j/it_s_most_wonderful_time_year_when_tech) - [It's that most wonderful time of the year when tech cannot handle the date](https://news.ycombinator.com/item?id=39551033)
 * [2024-02-29, 15:30:30](https://lobste.rs/s/wndlrm/vim_game_life) - [Vim Game of Life](https://normalmo.de/vimlife/)
 * [2024-02-29, 15:11:20](https://lobste.rs/s/3luon8/advanced_property_testing_interview) - [Advanced Property Testing (Interview with Oskar Wickström)](https://youtu.be/wHJZ0icwSkc)
 * [2024-02-29, 15:09:51](https://lobste.rs/s/dwt7ao/debian_64_bit_time_t_transition_progress) - [Debian 64-bit time_t transition in progress](https://lists.debian.org/debian-devel-announce/2024/02/msg00000.html)
@@ -23,7 +24,6 @@
 * [2024-02-28, 11:44:59](https://lobste.rs/s/1zaxek/nintendo_is_suing_creators_switch) - [Nintendo is suing the creators of Switch emulator Yuzu](https://overkill.wtf/nintendo-sue-yuzu-emulator/)
 * [2024-02-28, 11:41:15](https://lobste.rs/s/0necvl/some_reflections_on_writing_unix_daemons) - [Some Reflections on Writing Unix Daemons](https://tratt.net/laurie/blog/2024/some_reflections_on_writing_unix_daemons.html)
 * [2024-02-28, 09:27:47](https://lobste.rs/s/1rzbp7/software_engineering_practices_i_like) - [Software engineering practices I like](https://thetechenabler.substack.com/p/software-engineering-practices-you)
-* [2024-02-28, 06:19:36](https://lobste.rs/s/phxe93/claro_programming_language) - [The Claro Programming Language](https://docs.clarolang.com/)
 * [2024-02-28, 05:58:12](https://lobste.rs/s/okneuq/unreasonably_effective_how_video_games) - [Unreasonably effective - How video games use LUTs and how you can too](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
 
 ## [Archives](archives/index.md)
