@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-29, 21:04:51",
+      "https://lobste.rs/s/liyugj/prime_numbers_with_expr_expression"
+    ],
+    [
+      "Prime Numbers with Expr | Expression language",
+      "https://expr-lang.org/blog/prime-numbers-with-expr"
+    ]
+  ],
+  [
+    [
       "2024-02-29, 19:12:22",
       "https://lobste.rs/s/ommwqi/composable_http_handlers_using_generics"
     ],
@@ -227,16 +237,6 @@
     [
       "Nintendo is suing the creators of Switch emulator Yuzu",
       "https://overkill.wtf/nintendo-sue-yuzu-emulator/"
-    ]
-  ],
-  [
-    [
-      "2024-02-28, 11:41:15",
-      "https://lobste.rs/s/0necvl/some_reflections_on_writing_unix_daemons"
-    ],
-    [
-      "Some Reflections on Writing Unix Daemons",
-      "https://tratt.net/laurie/blog/2024/some_reflections_on_writing_unix_daemons.html"
     ]
   ],
   [
