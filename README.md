@@ -4,6 +4,7 @@
 * [2024-02-29, 03:29:42](https://lobste.rs/s/qyg8ug/overseas_experience_with_hypertext) - [An Overseas Experience with Hypertext and Packet Switching](https://www.cs.auckland.ac.nz/research/groups/CDMTCS/researchreports/download.php?selected-id=884)
 * [2024-02-29, 00:38:56](https://lobste.rs/s/h5penx/introducing_dagger_functions) - [Introducing Dagger Functions](https://dagger.io/blog/introducing-dagger-functions)
 * [2024-02-28, 23:30:25](https://lobste.rs/s/f6b0ex/freebsd_journal_2024_01_02_10_years) - [FreeBSD Journal - 2024/01-02 - 10 Years in Publication](https://freebsdfoundation.org/blog/the-january-february-2024-issue-of-the-freebsd-journal-is-here/)
+* [2024-02-28, 22:21:22](https://lobste.rs/s/fzfrpy/html_switch_control) - [An HTML Switch Control](https://webkit.org/blog/15054/an-html-switch-control/)
 * [2024-02-28, 20:38:30](https://lobste.rs/s/cuto8u/drawing_hex_grid_swiftui) - [Drawing a Hex Grid in SwiftUI](https://calebhearth.com/l/drawing-a-hex-grid-in-swiftui)
 * [2024-02-28, 17:24:45](https://lobste.rs/s/buez9b/bad_call_by_lobsters_moderation) - [Bad Call by Lobsters Moderation](https://lobste.rs/s/buez9b/bad_call_by_lobsters_moderation)
 * [2024-02-28, 16:52:41](https://lobste.rs/s/qorikk/poiesis_real_time_generative_artwork) - [Poiesis - A Real-Time Generative Artwork](https://poniesandlight.co.uk/work/poiesis/)
@@ -24,7 +25,6 @@
 * [2024-02-27, 19:53:45](https://lobste.rs/s/bfwfpv/finding_last_editor) - [Finding The Last Editor](https://world.hey.com/dhh/finding-the-last-editor-dae701cc)
 * [2024-02-27, 19:36:14](https://lobste.rs/s/jtgath/go_enums_suck) - [Go Enums Suck](https://www.zarl.dev/articles/enums)
 * [2024-02-27, 17:22:39](https://lobste.rs/s/pq1etk/airfoil) - [Airfoil](https://ciechanow.ski/airfoil/)
-* [2024-02-27, 11:23:52](https://lobste.rs/s/cvqvff/explainix_explain_nix_syntax_visually) - [Explainix: Explain Nix syntax visually](https://zaynetro.com/explainix)
 
 ## [Archives](archives/index.md)
 
