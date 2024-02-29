@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 17:54:04](https://lobste.rs/s/c1hp3z/sins_committed_name_agile) - [The sins committed in the name of Agile](https://www.runtime.news/agile-software-promises-efficiency-it-requires-a-cultural-shift-to-get-right/)
 * [2024-02-29, 16:41:52](https://lobste.rs/s/lfkwff/fbi_using_push_notification_tokens) - [FBI using push notification tokens to identify anonymous users](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/)
 * [2024-02-29, 16:34:29](https://lobste.rs/s/o1ppa5/responding_year_2000_challenge_lessons) - [Responding to the Year 2000 Challenge: Lessons for Today (2020)](https://www.businessofgovernment.org/blog/responding-year-2000-challenge-lessons-today)
 * [2024-02-29, 16:18:34](https://lobste.rs/s/zzal4j/it_s_most_wonderful_time_year_when_tech) - [It's that most wonderful time of the year when tech cannot handle the date](https://news.ycombinator.com/item?id=39551033)
