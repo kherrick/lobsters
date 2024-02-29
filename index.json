@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-29, 07:02:20",
+      "https://lobste.rs/s/xjbvkc/aws_s3_denial_wallet_amplification"
+    ],
+    [
+      "The AWS S3 Denial of Wallet amplification attack",
+      "https://blog.limbus-medtec.com/the-aws-s3-denial-of-wallet-amplification-attack-bc5a97cc041d"
+    ]
+  ],
+  [
+    [
       "2024-02-29, 04:23:08",
       "https://lobste.rs/s/czceyc/examining_malicious_hugging_face_ml"
     ],
@@ -237,16 +247,6 @@
     [
       "Airfoil",
       "https://ciechanow.ski/airfoil/"
-    ]
-  ],
-  [
-    [
-      "2024-02-27, 11:23:52",
-      "https://lobste.rs/s/cvqvff/explainix_explain_nix_syntax_visually"
-    ],
-    [
-      "Explainix: Explain Nix syntax visually",
-      "https://zaynetro.com/explainix"
     ]
   ]
 ]
