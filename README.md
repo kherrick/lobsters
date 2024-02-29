@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-29, 16:41:52](https://lobste.rs/s/lfkwff/fbi_using_push_notification_tokens) - [FBI using push notification tokens to identify anonymous users](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/)
 * [2024-02-29, 16:34:29](https://lobste.rs/s/o1ppa5/responding_year_2000_challenge_lessons) - [Responding to the Year 2000 Challenge: Lessons for Today (2020)](https://www.businessofgovernment.org/blog/responding-year-2000-challenge-lessons-today)
 * [2024-02-29, 15:30:30](https://lobste.rs/s/wndlrm/vim_game_life) - [Vim Game of Life](https://normalmo.de/vimlife/)
 * [2024-02-29, 15:11:20](https://lobste.rs/s/3luon8/advanced_property_testing_interview) - [Advanced Property Testing (Interview with Oskar Wickström)](https://youtu.be/wHJZ0icwSkc)
@@ -12,7 +13,6 @@
 * [2024-02-29, 11:46:34](https://lobste.rs/s/ahitdn/array_languages_vs_curse_spreadsheet) - [Array languages vs. the curse of the spreadsheet](https://blog.dhsdevelopments.com/array-languages-vs)
 * [2024-02-29, 11:08:52](https://lobste.rs/s/b6qycr/praise_nushell) - [In praise of Nushell](https://lars.yencken.org/in-praise-of-nushell)
 * [2024-02-29, 07:49:03](https://lobste.rs/s/vqaqkm/secure_shell_over_http_3_connections) - [Secure shell over HTTP/3 connections](https://www.ietf.org/archive/id/draft-michel-ssh3-00.html)
-* [2024-02-29, 07:44:25](https://lobste.rs/s/crwzgc/long_slow_path_quic_multipath) - [The long slow path to QUIC multipath](https://www.privateoctopus.com/2024/02/28/long-slow-path-to-quic-multipath.html)
 * [2024-02-29, 07:02:20](https://lobste.rs/s/xjbvkc/aws_s3_denial_wallet_amplification) - [The AWS S3 Denial of Wallet amplification attack](https://blog.limbus-medtec.com/the-aws-s3-denial-of-wallet-amplification-attack-bc5a97cc041d)
 * [2024-02-29, 04:23:08](https://lobste.rs/s/czceyc/examining_malicious_hugging_face_ml) - [Examining Malicious Hugging Face ML Models with Silent Backdoor](https://jfrog.com/blog/data-scientists-targeted-by-malicious-hugging-face-ml-models-with-silent-backdoor/)
 * [2024-02-29, 00:38:56](https://lobste.rs/s/h5penx/introducing_dagger_functions) - [Introducing Dagger Functions](https://dagger.io/blog/introducing-dagger-functions)
