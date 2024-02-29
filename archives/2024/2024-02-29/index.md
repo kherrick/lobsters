@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 07:49:03](https://lobste.rs/s/vqaqkm/secure_shell_over_http_3_connections) - [Secure shell over HTTP/3 connections](https://www.ietf.org/archive/id/draft-michel-ssh3-00.html)
 * [2024-02-29, 07:44:25](https://lobste.rs/s/crwzgc/long_slow_path_quic_multipath) - [The long slow path to QUIC multipath](https://www.privateoctopus.com/2024/02/28/long-slow-path-to-quic-multipath.html)
 * [2024-02-29, 07:02:20](https://lobste.rs/s/xjbvkc/aws_s3_denial_wallet_amplification) - [The AWS S3 Denial of Wallet amplification attack](https://blog.limbus-medtec.com/the-aws-s3-denial-of-wallet-amplification-attack-bc5a97cc041d)
 * [2024-02-29, 04:23:08](https://lobste.rs/s/czceyc/examining_malicious_hugging_face_ml) - [Examining Malicious Hugging Face ML Models with Silent Backdoor](https://jfrog.com/blog/data-scientists-targeted-by-malicious-hugging-face-ml-models-with-silent-backdoor/)

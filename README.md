@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-29, 07:49:03](https://lobste.rs/s/vqaqkm/secure_shell_over_http_3_connections) - [Secure shell over HTTP/3 connections](https://www.ietf.org/archive/id/draft-michel-ssh3-00.html)
 * [2024-02-29, 07:44:25](https://lobste.rs/s/crwzgc/long_slow_path_quic_multipath) - [The long slow path to QUIC multipath](https://www.privateoctopus.com/2024/02/28/long-slow-path-to-quic-multipath.html)
 * [2024-02-29, 07:02:20](https://lobste.rs/s/xjbvkc/aws_s3_denial_wallet_amplification) - [The AWS S3 Denial of Wallet amplification attack](https://blog.limbus-medtec.com/the-aws-s3-denial-of-wallet-amplification-attack-bc5a97cc041d)
 * [2024-02-29, 04:23:08](https://lobste.rs/s/czceyc/examining_malicious_hugging_face_ml) - [Examining Malicious Hugging Face ML Models with Silent Backdoor](https://jfrog.com/blog/data-scientists-targeted-by-malicious-hugging-face-ml-models-with-silent-backdoor/)
@@ -15,7 +16,6 @@
 * [2024-02-28, 13:23:21](https://lobste.rs/s/ke70cg/why_i_use_firefox) - [Why I use Firefox](https://šime.eu/3)
 * [2024-02-28, 11:44:59](https://lobste.rs/s/1zaxek/nintendo_is_suing_creators_switch) - [Nintendo is suing the creators of Switch emulator Yuzu](https://overkill.wtf/nintendo-sue-yuzu-emulator/)
 * [2024-02-28, 11:41:15](https://lobste.rs/s/0necvl/some_reflections_on_writing_unix_daemons) - [Some Reflections on Writing Unix Daemons](https://tratt.net/laurie/blog/2024/some_reflections_on_writing_unix_daemons.html)
-* [2024-02-28, 10:47:37](https://lobste.rs/s/xaeand/even_more_challenging_programming) - [(Even more) challenging programming projects you should try](https://jamesg.blog/2024/02/28/programming-projects/)
 * [2024-02-28, 10:43:03](https://lobste.rs/s/o2jt1p/pingora_library_for_building_fast) - [pingora - A library for building fast, reliable and evolvable network services](https://github.com/cloudflare/pingora)
 * [2024-02-28, 09:27:47](https://lobste.rs/s/1rzbp7/software_engineering_practices_i_like) - [Software engineering practices I like](https://thetechenabler.substack.com/p/software-engineering-practices-you)
 * [2024-02-28, 08:43:24](https://lobste.rs/s/fg3lzv/stakes_bigger_than_life_fixing_ext4_under) - [Stakes bigger than life: fixing ext4 under pressure](https://sdomi.pl/weblog/18-fixing-ext4-under-pressure/)
