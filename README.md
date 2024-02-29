@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-29, 18:16:43](https://lobste.rs/s/ucit0v/riposte_v0_5_0_adds_support_for_newer) - [riposte v0.5.0 adds support for newer python versions](https://github.com/fwkz/riposte/releases/tag/v0.5.0)
+* [2024-02-29, 18:15:29](https://lobste.rs/s/vip6ip/why_both_hype_fud_over_ai_are_overblown) - [Why Both The Hype And The FUD Over AI Are Overblown](https://medium.com/@kkmvv/why-both-the-hype-and-the-fud-over-ai-are-overblown-2d4d5542bd15)
 * [2024-02-29, 17:54:04](https://lobste.rs/s/c1hp3z/sins_committed_name_agile) - [The sins committed in the name of Agile](https://www.runtime.news/agile-software-promises-efficiency-it-requires-a-cultural-shift-to-get-right/)
-* [2024-02-29, 16:41:52](https://lobste.rs/s/lfkwff/fbi_using_push_notification_tokens) - [FBI using push notification tokens to identify anonymous users](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/)
 * [2024-02-29, 16:34:29](https://lobste.rs/s/o1ppa5/responding_year_2000_challenge_lessons) - [Responding to the Year 2000 Challenge: Lessons for Today (2020)](https://www.businessofgovernment.org/blog/responding-year-2000-challenge-lessons-today)
 * [2024-02-29, 15:30:30](https://lobste.rs/s/wndlrm/vim_game_life) - [Vim Game of Life](https://normalmo.de/vimlife/)
 * [2024-02-29, 15:11:20](https://lobste.rs/s/3luon8/advanced_property_testing_interview) - [Advanced Property Testing (Interview with Oskar Wickström)](https://youtu.be/wHJZ0icwSkc)
@@ -18,7 +19,6 @@
 * [2024-02-29, 04:23:08](https://lobste.rs/s/czceyc/examining_malicious_hugging_face_ml) - [Examining Malicious Hugging Face ML Models with Silent Backdoor](https://jfrog.com/blog/data-scientists-targeted-by-malicious-hugging-face-ml-models-with-silent-backdoor/)
 * [2024-02-29, 00:38:56](https://lobste.rs/s/h5penx/introducing_dagger_functions) - [Introducing Dagger Functions](https://dagger.io/blog/introducing-dagger-functions)
 * [2024-02-28, 22:21:22](https://lobste.rs/s/fzfrpy/html_switch_control) - [An HTML Switch Control](https://webkit.org/blog/15054/an-html-switch-control/)
-* [2024-02-28, 20:38:30](https://lobste.rs/s/cuto8u/drawing_hex_grid_swiftui) - [Drawing a Hex Grid in SwiftUI](https://calebhearth.com/l/drawing-a-hex-grid-in-swiftui)
 * [2024-02-28, 17:24:45](https://lobste.rs/s/buez9b/bad_call_by_lobsters_moderation) - [Bad Call by Lobsters Moderation](https://lobste.rs/s/buez9b/bad_call_by_lobsters_moderation)
 * [2024-02-28, 15:25:11](https://lobste.rs/s/xy62wl/kde_megarelease_6) - [KDE MegaRelease 6](https://kde.org/announcements/megarelease/6/)
 * [2024-02-28, 13:23:21](https://lobste.rs/s/ke70cg/why_i_use_firefox) - [Why I use Firefox](https://šime.eu/3)
