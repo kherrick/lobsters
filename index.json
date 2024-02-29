@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-02-29, 08:11:44",
-      "https://lobste.rs/s/wgcg89/newshavn_danish_news_english_translated"
-    ],
-    [
-      "NewsHavn: Danish news, in English (translated by LLM)",
-      "https://duarteocarmo.com/blog/newshavn-danish-news-in-english"
-    ]
-  ],
-  [
-    [
       "2024-02-29, 07:49:03",
       "https://lobste.rs/s/vqaqkm/secure_shell_over_http_3_connections"
     ],
@@ -247,6 +237,16 @@
     [
       "Go Enums Suck",
       "https://www.zarl.dev/articles/enums"
+    ]
+  ],
+  [
+    [
+      "2024-02-27, 17:22:39",
+      "https://lobste.rs/s/pq1etk/airfoil"
+    ],
+    [
+      "Airfoil",
+      "https://ciechanow.ski/airfoil/"
     ]
   ]
 ]
