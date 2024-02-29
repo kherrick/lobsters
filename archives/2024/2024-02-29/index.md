@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-02-29](index.md)
+
+* [2024-02-29, 00:38:56](https://lobste.rs/s/h5penx/introducing_dagger_functions) - [Introducing Dagger Functions](https://dagger.io/blog/introducing-dagger-functions)
