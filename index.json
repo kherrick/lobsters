@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-29, 07:49:03",
+      "https://lobste.rs/s/vqaqkm/secure_shell_over_http_3_connections"
+    ],
+    [
+      "Secure shell over HTTP/3 connections",
+      "https://www.ietf.org/archive/id/draft-michel-ssh3-00.html"
+    ]
+  ],
+  [
+    [
       "2024-02-29, 07:44:25",
       "https://lobste.rs/s/crwzgc/long_slow_path_quic_multipath"
     ],
@@ -147,16 +157,6 @@
     [
       "Some Reflections on Writing Unix Daemons",
       "https://tratt.net/laurie/blog/2024/some_reflections_on_writing_unix_daemons.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-28, 10:47:37",
-      "https://lobste.rs/s/xaeand/even_more_challenging_programming"
-    ],
-    [
-      "(Even more) challenging programming projects you should try",
-      "https://jamesg.blog/2024/02/28/programming-projects/"
     ]
   ],
   [
