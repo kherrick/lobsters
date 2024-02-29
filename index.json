@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-29, 19:12:22",
+      "https://lobste.rs/s/ommwqi/composable_http_handlers_using_generics"
+    ],
+    [
+      "Composable HTTP Handlers using generics in Go",
+      "https://www.willem.dev/articles/generic-http-handlers/"
+    ]
+  ],
+  [
+    [
       "2024-02-29, 18:16:43",
       "https://lobste.rs/s/ucit0v/riposte_v0_5_0_adds_support_for_newer"
     ],
@@ -177,16 +187,6 @@
     [
       "Introducing Dagger Functions",
       "https://dagger.io/blog/introducing-dagger-functions"
-    ]
-  ],
-  [
-    [
-      "2024-02-28, 22:21:22",
-      "https://lobste.rs/s/fzfrpy/html_switch_control"
-    ],
-    [
-      "An HTML Switch Control",
-      "https://webkit.org/blog/15054/an-html-switch-control/"
     ]
   ],
   [
