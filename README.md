@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-29, 22:17:50](https://lobste.rs/s/djyepr/dotfiles_digest_git) - [Dotfiles digest: git](https://adrg.se/blog/dotfiles-digest-git)
 * [2024-02-29, 21:36:06](https://lobste.rs/s/rq0ger/experimenting_with_gc_less_heap_less_java) - [Experimenting with GC-less (heap-less) Java](https://maximullaris.com/gc_less_java.html)
 * [2024-02-29, 21:04:51](https://lobste.rs/s/liyugj/prime_numbers_with_expr_expression) - [Prime Numbers with Expr | Expression language](https://expr-lang.org/blog/prime-numbers-with-expr)
 * [2024-02-29, 19:12:22](https://lobste.rs/s/ommwqi/composable_http_handlers_using_generics) - [Composable HTTP Handlers using generics in Go](https://www.willem.dev/articles/generic-http-handlers/)
@@ -21,7 +22,6 @@
 * [2024-02-29, 07:49:03](https://lobste.rs/s/vqaqkm/secure_shell_over_http_3_connections) - [Secure shell over HTTP/3 connections](https://www.ietf.org/archive/id/draft-michel-ssh3-00.html)
 * [2024-02-29, 07:02:20](https://lobste.rs/s/xjbvkc/aws_s3_denial_wallet_amplification) - [The AWS S3 Denial of Wallet amplification attack](https://blog.limbus-medtec.com/the-aws-s3-denial-of-wallet-amplification-attack-bc5a97cc041d)
 * [2024-02-29, 04:23:08](https://lobste.rs/s/czceyc/examining_malicious_hugging_face_ml) - [Examining Malicious Hugging Face ML Models with Silent Backdoor](https://jfrog.com/blog/data-scientists-targeted-by-malicious-hugging-face-ml-models-with-silent-backdoor/)
-* [2024-02-29, 00:38:56](https://lobste.rs/s/h5penx/introducing_dagger_functions) - [Introducing Dagger Functions](https://dagger.io/blog/introducing-dagger-functions)
 * [2024-02-28, 15:25:11](https://lobste.rs/s/xy62wl/kde_megarelease_6) - [KDE MegaRelease 6](https://kde.org/announcements/megarelease/6/)
 * [2024-02-28, 13:23:21](https://lobste.rs/s/ke70cg/why_i_use_firefox) - [Why I use Firefox](https://šime.eu/3)
 * [2024-02-28, 09:27:47](https://lobste.rs/s/1rzbp7/software_engineering_practices_i_like) - [Software engineering practices I like](https://thetechenabler.substack.com/p/software-engineering-practices-you)

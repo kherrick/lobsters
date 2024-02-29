@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 22:17:50](https://lobste.rs/s/djyepr/dotfiles_digest_git) - [Dotfiles digest: git](https://adrg.se/blog/dotfiles-digest-git)
 * [2024-02-29, 21:36:06](https://lobste.rs/s/rq0ger/experimenting_with_gc_less_heap_less_java) - [Experimenting with GC-less (heap-less) Java](https://maximullaris.com/gc_less_java.html)
 * [2024-02-29, 21:04:51](https://lobste.rs/s/liyugj/prime_numbers_with_expr_expression) - [Prime Numbers with Expr | Expression language](https://expr-lang.org/blog/prime-numbers-with-expr)
 * [2024-02-29, 19:12:22](https://lobste.rs/s/ommwqi/composable_http_handlers_using_generics) - [Composable HTTP Handlers using generics in Go](https://www.willem.dev/articles/generic-http-handlers/)
