@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-02-29, 14:23:57](https://lobste.rs/s/rhaenn/spritely_distributed_computing_library) - [A Spritely distributed-computing library](https://lwn.net/Articles/960912/)
 * [2024-02-29, 12:53:29](https://lobste.rs/s/ctlsnc/siren_song_domain_specific_languages) - [The siren song of domain-specific languages](https://www.haskellforall.com/2024/02/the-siren-song-of-domain-specific.html)
 * [2024-02-29, 12:51:54](https://lobste.rs/s/8bkizs/how_build_aws_compatible_apis_aws_sigv4) - [How To Build AWS-Compatible APIs: AWS Sigv4](https://www.aspiring.dev/building-aws-sigv4-into-your-app/)
 * [2024-02-29, 12:34:49](https://lobste.rs/s/ajyx0k/jpeg_xl_pareto_front) - [JPEG XL and the Pareto Front](https://cloudinary.com/blog/jpeg-xl-and-the-pareto-front)
@@ -23,7 +24,6 @@
 * [2024-02-28, 09:27:47](https://lobste.rs/s/1rzbp7/software_engineering_practices_i_like) - [Software engineering practices I like](https://thetechenabler.substack.com/p/software-engineering-practices-you)
 * [2024-02-28, 06:19:36](https://lobste.rs/s/phxe93/claro_programming_language) - [The Claro Programming Language](https://docs.clarolang.com/)
 * [2024-02-28, 05:58:12](https://lobste.rs/s/okneuq/unreasonably_effective_how_video_games) - [Unreasonably effective - How video games use LUTs and how you can too](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
-* [2024-02-28, 05:42:25](https://lobste.rs/s/y6mcuj/anansi_add_simple_tags_python_strings) - [Anansi: Add simple tags to Python strings to make them pretty](https://github.com/3digitdev/anansi-md)
 * [2024-02-27, 19:36:14](https://lobste.rs/s/jtgath/go_enums_suck) - [Go Enums Suck](https://www.zarl.dev/articles/enums)
 
 ## [Archives](archives/index.md)
