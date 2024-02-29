@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-02-29, 18:33:25",
+      "https://lobste.rs/s/abadgi/repiet_compiler_for_esoteric_language"
+    ],
+    [
+      "repiet: A compiler for the esoteric language Piet",
+      "https://github.com/boothby/repiet"
+    ]
+  ],
+  [
+    [
       "2024-02-29, 18:16:43",
       "https://lobste.rs/s/ucit0v/riposte_v0_5_0_adds_support_for_newer"
     ],
@@ -227,16 +237,6 @@
     [
       "Nintendo is suing the creators of Switch emulator Yuzu",
       "https://overkill.wtf/nintendo-sue-yuzu-emulator/"
-    ]
-  ],
-  [
-    [
-      "2024-02-28, 11:41:15",
-      "https://lobste.rs/s/0necvl/some_reflections_on_writing_unix_daemons"
-    ],
-    [
-      "Some Reflections on Writing Unix Daemons",
-      "https://tratt.net/laurie/blog/2024/some_reflections_on_writing_unix_daemons.html"
     ]
   ],
   [
