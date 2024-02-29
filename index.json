@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-02-29, 14:23:57",
+      "https://lobste.rs/s/rhaenn/spritely_distributed_computing_library"
+    ],
+    [
+      "A Spritely distributed-computing library",
+      "https://lwn.net/Articles/960912/"
+    ]
+  ],
+  [
+    [
       "2024-02-29, 12:53:29",
       "https://lobste.rs/s/ctlsnc/siren_song_domain_specific_languages"
     ],
@@ -227,16 +237,6 @@
     [
       "Unreasonably effective - How video games use LUTs and how you can too",
       "https://blog.frost.kiwi/WebGL-LUTS-made-simple/"
-    ]
-  ],
-  [
-    [
-      "2024-02-28, 05:42:25",
-      "https://lobste.rs/s/y6mcuj/anansi_add_simple_tags_python_strings"
-    ],
-    [
-      "Anansi: Add simple tags to Python strings to make them pretty",
-      "https://github.com/3digitdev/anansi-md"
     ]
   ],
   [
