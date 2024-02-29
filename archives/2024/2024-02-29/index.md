@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-02-29](index.md)
 
+* [2024-02-29, 21:36:06](https://lobste.rs/s/rq0ger/experimenting_with_gc_less_heap_less_java) - [Experimenting with GC-less (heap-less) Java](https://maximullaris.com/gc_less_java.html)
 * [2024-02-29, 21:04:51](https://lobste.rs/s/liyugj/prime_numbers_with_expr_expression) - [Prime Numbers with Expr | Expression language](https://expr-lang.org/blog/prime-numbers-with-expr)
 * [2024-02-29, 19:12:22](https://lobste.rs/s/ommwqi/composable_http_handlers_using_generics) - [Composable HTTP Handlers using generics in Go](https://www.willem.dev/articles/generic-http-handlers/)
 * [2024-02-29, 18:33:25](https://lobste.rs/s/abadgi/repiet_compiler_for_esoteric_language) - [repiet: A compiler for the esoteric language Piet](https://github.com/boothby/repiet)
 * [2024-02-29, 18:16:43](https://lobste.rs/s/ucit0v/riposte_v0_5_0_adds_support_for_newer) - [riposte v0.5.0 adds support for newer python versions](https://github.com/fwkz/riposte/releases/tag/v0.5.0)
 * [2024-02-29, 18:15:29](https://lobste.rs/s/vip6ip/why_both_hype_fud_over_ai_are_overblown) - [Why Both The Hype And The FUD Over AI Are Overblown](https://medium.com/@kkmvv/why-both-the-hype-and-the-fud-over-ai-are-overblown-2d4d5542bd15)
+* [2024-02-29, 18:13:47](https://lobste.rs/s/af6v7f/how_choose_right_type_database) - [How to choose the right type of database](https://www.tinybird.co/blog-posts/choosing-a-database)
 * [2024-02-29, 17:54:04](https://lobste.rs/s/c1hp3z/sins_committed_name_agile) - [The sins committed in the name of Agile](https://www.runtime.news/agile-software-promises-efficiency-it-requires-a-cultural-shift-to-get-right/)
 * [2024-02-29, 16:41:52](https://lobste.rs/s/lfkwff/fbi_using_push_notification_tokens) - [FBI using push notification tokens to identify anonymous users](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/)
 * [2024-02-29, 16:34:29](https://lobste.rs/s/o1ppa5/responding_year_2000_challenge_lessons) - [Responding to the Year 2000 Challenge: Lessons for Today (2020)](https://www.businessofgovernment.org/blog/responding-year-2000-challenge-lessons-today)
