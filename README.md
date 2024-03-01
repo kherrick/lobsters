@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-03-01, 18:24:50](https://lobste.rs/s/qjivsc/cacm_is_now_open_access_communications) - [CACM Is Now Open Access – Communications of the ACM](https://cacm.acm.org/news/cacm-is-now-open-access-2/)
-* [2024-03-01, 17:43:44](https://lobste.rs/s/qibmeh/monaspace_innovative_superfamily_fonts) - [monaspace: An innovative superfamily of fonts for code](https://github.com/githubnext/monaspace)
 * [2024-03-01, 16:42:28](https://lobste.rs/s/9i32cw/snapshot_testing) - [Snapshot Testing](https://avi.im/blag/2024/snapshot-testing/)
 * [2024-03-01, 16:27:08](https://lobste.rs/s/e01bcb/he_who_controls_bootloader_microsoft) - [\"He Who Controls the Bootloader\" – Microsoft prevented Hitachi from installing a bootloader on its PCs with preinstalled BeOS](https://birdhouse.org/beos/byte/30-bootloader/)
 * [2024-03-01, 14:50:35](https://lobste.rs/s/rzgcfx/announcing_cheriot_audit) - [Announcing CHERIoT-Audit](https://cheriot.org/rtos/firmware/auditing/2024/03/01/cheriot-audit.html)
@@ -24,6 +23,7 @@
 * [2024-02-29, 14:41:25](https://lobste.rs/s/jccrzo/elvish_scripting_case_studies) - [Elvish scripting case studies](https://elv.sh/learn/scripting-case-studies.html)
 * [2024-02-29, 12:53:29](https://lobste.rs/s/ctlsnc/siren_song_domain_specific_languages) - [The siren song of domain-specific languages](https://www.haskellforall.com/2024/02/the-siren-song-of-domain-specific.html)
 * [2024-02-29, 12:34:49](https://lobste.rs/s/ajyx0k/jpeg_xl_pareto_front) - [JPEG XL and the Pareto Front](https://cloudinary.com/blog/jpeg-xl-and-the-pareto-front)
+* [2024-02-29, 11:46:34](https://lobste.rs/s/ahitdn/array_languages_vs_curse_spreadsheet) - [Array languages vs. the curse of the spreadsheet](https://blog.dhsdevelopments.com/array-languages-vs)
 * [2024-02-29, 11:08:52](https://lobste.rs/s/b6qycr/praise_nushell) - [In praise of Nushell](https://lars.yencken.org/in-praise-of-nushell)
 
 ## [Archives](archives/index.md)
