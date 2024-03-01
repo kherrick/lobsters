@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-01, 20:37:00",
+      "https://lobste.rs/s/vf6h0a/introducing_gitlab_ci_pipeline_for"
+    ],
+    [
+      "Introducing GitLab-CI Pipeline for Kernel Testing",
+      "https://patchwork.kernel.org/project/linux-kselftest/cover/20240228225527.1052240-1-helen.koike@collabora.com/"
+    ]
+  ],
+  [
+    [
       "2024-03-01, 18:24:50",
       "https://lobste.rs/s/qjivsc/communications_acm_is_now_open_access"
     ],
@@ -157,16 +167,6 @@
     [
       "You’ve just inherited a legacy C++ codebase, now what?",
       "https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-01, 04:52:12",
-      "https://lobste.rs/s/lsuzf7/fosdem_2024_aftermath"
-    ],
-    [
-      "FOSDEM 2024 aftermath",
-      "https://genodians.org/nfeske/2024-02-15-fosdem-aftermath"
     ]
   ],
   [
