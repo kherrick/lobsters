@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-03-01, 20:37:00",
+      "https://lobste.rs/s/vf6h0a/introducing_gitlab_ci_pipeline_for"
+    ],
+    [
+      "Introducing GitLab-CI Pipeline for Kernel Testing",
+      "https://patchwork.kernel.org/project/linux-kselftest/cover/20240228225527.1052240-1-helen.koike@collabora.com/"
+    ]
+  ],
+  [
+    [
       "2024-03-01, 18:24:50",
       "https://lobste.rs/s/qjivsc/communications_acm_is_now_open_access"
     ],
@@ -87,16 +97,6 @@
     [
       "Simple Executable Love2D Files, or, You Can Shove Random Data At The Start of a Zip File and it’s Basically Fine",
       "https://artemis.sh/2024/02/29/zip-file-love2d.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-01, 12:50:22",
-      "https://lobste.rs/s/fkf6de/white_house_memory_safety_appeal_is"
-    ],
-    [
-      "The White House Memory Safety Appeal Is A Security Red Herring",
-      "https://hackaday.com/2024/02/29/the-white-house-memory-safety-appeal-is-a-security-red-herring/"
     ]
   ],
   [
