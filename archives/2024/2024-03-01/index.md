@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
+* [2024-03-01, 12:31:07](https://lobste.rs/s/k0nbe9/serving_my_blog_posts_as_linux_manual) - [Serving my blog posts as Linux manual pages](https://jamesg.blog/2024/02/29/linux-manual-pages/)
 * [2024-03-01, 11:06:23](https://lobste.rs/s/wvcgyx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/wvcgyx/what_are_you_doing_this_weekend)
 * [2024-03-01, 11:03:13](https://lobste.rs/s/v6s0bq/speed_improvement_servers_may_have) - [The speed of improvement in servers may have slowed down](https://utcc.utoronto.ca/~cks/space/blog/tech/ServersSpeedOfChangeDown)
 * [2024-03-01, 10:52:16](https://lobste.rs/s/nz2rab/apple_silicon_4_little_help_from_friends) - [Apple silicon: 4 A little help from friends and co-processors](https://eclecticlight.co/2024/03/01/apple-silicon-4-a-little-help-from-friends-and-co-processors/)
