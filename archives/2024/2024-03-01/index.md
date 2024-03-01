@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
+* [2024-03-01, 18:24:50](https://lobste.rs/s/qjivsc/communications_acm_is_now_open_access) - [Communications of the ACM Is Now Open Access](https://cacm.acm.org/news/cacm-is-now-open-access-2/)
 * [2024-03-01, 18:24:50](https://lobste.rs/s/qjivsc/cacm_is_now_open_access_communications) - [CACM Is Now Open Access – Communications of the ACM](https://cacm.acm.org/news/cacm-is-now-open-access-2/)
 * [2024-03-01, 17:43:44](https://lobste.rs/s/qibmeh/monaspace_innovative_superfamily_fonts) - [monaspace: An innovative superfamily of fonts for code](https://github.com/githubnext/monaspace)
 * [2024-03-01, 16:42:28](https://lobste.rs/s/9i32cw/snapshot_testing) - [Snapshot Testing](https://avi.im/blag/2024/snapshot-testing/)
