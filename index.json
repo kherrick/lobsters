@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-01, 07:42:52",
+      "https://lobste.rs/s/lf8b9r/you_ve_just_inherited_legacy_c_codebase"
+    ],
+    [
+      "You’ve just inherited a legacy C++ codebase, now what?",
+      "https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html"
+    ]
+  ],
+  [
+    [
       "2024-03-01, 04:52:12",
       "https://lobste.rs/s/lsuzf7/fosdem_2024_aftermath"
     ],
@@ -57,16 +67,6 @@
     [
       "Experimenting with GC-less (heap-less) Java",
       "https://maximullaris.com/gc_less_java.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 19:12:22",
-      "https://lobste.rs/s/ommwqi/composable_http_handlers_using_generics"
-    ],
-    [
-      "Composable HTTP Handlers using generics in Go",
-      "https://www.willem.dev/articles/generic-http-handlers/"
     ]
   ],
   [
