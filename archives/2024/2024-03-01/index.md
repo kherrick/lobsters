@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
+* [2024-03-01, 20:52:22](https://lobste.rs/s/bgkz9q/white_house_developers_using_c_c_invites) - [White House to Developers: Using C or C++ Invites Cybersecurity Risks](https://www.pcmag.com/news/white-house-to-developers-using-c-plus-plus-invites-cybersecurity-risks)
 * [2024-03-01, 20:37:00](https://lobste.rs/s/vf6h0a/introducing_gitlab_ci_pipeline_for) - [Introducing GitLab-CI Pipeline for Kernel Testing](https://patchwork.kernel.org/project/linux-kselftest/cover/20240228225527.1052240-1-helen.koike@collabora.com/)
 * [2024-03-01, 18:24:50](https://lobste.rs/s/qjivsc/communications_acm_is_now_open_access) - [Communications of the ACM Is Now Open Access](https://cacm.acm.org/news/cacm-is-now-open-access-2/)
 * [2024-03-01, 18:24:50](https://lobste.rs/s/qjivsc/cacm_is_now_open_access_communications) - [CACM Is Now Open Access – Communications of the ACM](https://cacm.acm.org/news/cacm-is-now-open-access-2/)
