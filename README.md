@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-01, 11:06:23](https://lobste.rs/s/wvcgyx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/wvcgyx/what_are_you_doing_this_weekend)
 * [2024-03-01, 11:03:13](https://lobste.rs/s/v6s0bq/speed_improvement_servers_may_have) - [The speed of improvement in servers may have slowed down](https://utcc.utoronto.ca/~cks/space/blog/tech/ServersSpeedOfChangeDown)
 * [2024-03-01, 10:52:16](https://lobste.rs/s/nz2rab/apple_silicon_4_little_help_from_friends) - [Apple silicon: 4 A little help from friends and co-processors](https://eclecticlight.co/2024/03/01/apple-silicon-4-a-little-help-from-friends-and-co-processors/)
 * [2024-03-01, 09:53:03](https://lobste.rs/s/fvnt4l/k8s_service_meshes_bill_comes_due) - [K8s Service Meshes: The Bill Comes Due](https://matduggan.com/k8s-service-meshes/)
@@ -7,7 +8,6 @@
 * [2024-03-01, 07:42:52](https://lobste.rs/s/lf8b9r/you_ve_just_inherited_legacy_c_codebase) - [You’ve just inherited a legacy C++ codebase, now what?](https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html)
 * [2024-03-01, 04:52:12](https://lobste.rs/s/lsuzf7/fosdem_2024_aftermath) - [FOSDEM 2024 aftermath](https://genodians.org/nfeske/2024-02-15-fosdem-aftermath)
 * [2024-03-01, 02:23:13](https://lobste.rs/s/shprgp/novice_master_5_programming_jokes) - [The novice and the master: 5 programming jokes](https://www.piglei.com/articles/the-novice-and-the-maste-jokes/)
-* [2024-03-01, 00:25:39](https://lobste.rs/s/gkdzhy/sparrow_distributed_low_latency) - [Sparrow: Distributed, Low Latency Scheduling](https://people.eecs.berkeley.edu/~matei/papers/2013/sosp_sparrow.pdf)
 * [2024-02-29, 23:41:35](https://lobste.rs/s/aqopzk/hp_i2000_itanium_1_merced_machine) - [HP i2000 (Itanium 1/Merced machine) adventures](https://lobste.rs/s/aqopzk/hp_i2000_itanium_1_merced_machine)
 * [2024-02-29, 22:17:50](https://lobste.rs/s/djyepr/dotfiles_digest_git) - [Dotfiles digest: git](https://adrg.se/blog/dotfiles-digest-git)
 * [2024-02-29, 18:33:25](https://lobste.rs/s/abadgi/repiet_compiler_for_esoteric_language) - [repiet: A compiler for the esoteric language Piet](https://github.com/boothby/repiet)
