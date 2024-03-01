@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-01, 12:50:22",
+      "https://lobste.rs/s/fkf6de/white_house_memory_safety_appeal_is"
+    ],
+    [
+      "The White House Memory Safety Appeal Is A Security Red Herring",
+      "https://hackaday.com/2024/02/29/the-white-house-memory-safety-appeal-is-a-security-red-herring/"
+    ]
+  ],
+  [
+    [
       "2024-03-01, 12:35:06",
       "https://lobste.rs/s/qmmdve/test_your_apps_services_with_github"
     ],
@@ -127,16 +137,6 @@
     [
       "Experimenting with GC-less (heap-less) Java",
       "https://maximullaris.com/gc_less_java.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 18:33:25",
-      "https://lobste.rs/s/abadgi/repiet_compiler_for_esoteric_language"
-    ],
-    [
-      "repiet: A compiler for the esoteric language Piet",
-      "https://github.com/boothby/repiet"
     ]
   ],
   [
