@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-03-01, 00:25:39",
+      "https://lobste.rs/s/gkdzhy/sparrow_distributed_low_latency"
+    ],
+    [
+      "Sparrow: Distributed, Low Latency Scheduling",
+      "https://people.eecs.berkeley.edu/~matei/papers/2013/sosp_sparrow.pdf"
+    ]
+  ],
+  [
+    [
       "2024-02-29, 23:41:35",
       "https://lobste.rs/s/aqopzk/hp_i2000_itanium_1_merced_machine"
     ],
@@ -77,16 +87,6 @@
     [
       "riposte v0.5.0 adds support for newer python versions",
       "https://github.com/fwkz/riposte/releases/tag/v0.5.0"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 18:13:47",
-      "https://lobste.rs/s/af6v7f/how_choose_right_type_database"
-    ],
-    [
-      "How to choose the right type of database",
-      "https://www.tinybird.co/blog-posts/choosing-a-database"
     ]
   ],
   [
