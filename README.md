@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-01, 08:56:59](https://lobste.rs/s/u91mqk/leap_year_test_k_r_2020) - [Leap Year Test in K&R (2020)](https://susam.net/leap-year-test-in-knr.html)
 * [2024-03-01, 07:42:52](https://lobste.rs/s/lf8b9r/you_ve_just_inherited_legacy_c_codebase) - [You’ve just inherited a legacy C++ codebase, now what?](https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html)
 * [2024-03-01, 04:52:12](https://lobste.rs/s/lsuzf7/fosdem_2024_aftermath) - [FOSDEM 2024 aftermath](https://genodians.org/nfeske/2024-02-15-fosdem-aftermath)
 * [2024-03-01, 02:23:13](https://lobste.rs/s/shprgp/novice_master_5_programming_jokes) - [The novice and the master: 5 programming jokes](https://www.piglei.com/articles/the-novice-and-the-maste-jokes/)
@@ -10,7 +11,6 @@
 * [2024-02-29, 18:33:25](https://lobste.rs/s/abadgi/repiet_compiler_for_esoteric_language) - [repiet: A compiler for the esoteric language Piet](https://github.com/boothby/repiet)
 * [2024-02-29, 18:16:43](https://lobste.rs/s/ucit0v/riposte_v0_5_0_adds_support_for_newer) - [riposte v0.5.0 adds support for newer python versions](https://github.com/fwkz/riposte/releases/tag/v0.5.0)
 * [2024-02-29, 17:54:04](https://lobste.rs/s/c1hp3z/sins_committed_name_agile) - [The sins committed in the name of Agile](https://www.runtime.news/agile-software-promises-efficiency-it-requires-a-cultural-shift-to-get-right/)
-* [2024-02-29, 16:41:52](https://lobste.rs/s/lfkwff/fbi_using_push_notification_tokens) - [FBI using push notification tokens to identify anonymous users](https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/)
 * [2024-02-29, 15:30:30](https://lobste.rs/s/wndlrm/vim_game_life) - [Vim Game of Life](https://normalmo.de/vimlife/)
 * [2024-02-29, 15:11:20](https://lobste.rs/s/3luon8/advanced_property_testing_interview) - [Advanced Property Testing (Interview with Oskar Wickström)](https://youtu.be/wHJZ0icwSkc)
 * [2024-02-29, 15:09:51](https://lobste.rs/s/dwt7ao/debian_64_bit_time_t_transition_progress) - [Debian 64-bit time_t transition in progress](https://lists.debian.org/debian-devel-announce/2024/02/msg00000.html)
