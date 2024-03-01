@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-03-01, 16:27:08",
+      "https://lobste.rs/s/e01bcb/he_who_controls_bootloader_microsoft"
+    ],
+    [
+      "\"He Who Controls the Bootloader\" – Microsoft prevented Hitachi from installing a bootloader on its PCs with preinstalled BeOS",
+      "https://birdhouse.org/beos/byte/30-bootloader/"
+    ]
+  ],
+  [
+    [
       "2024-03-01, 14:50:35",
       "https://lobste.rs/s/rzgcfx/announcing_cheriot_audit"
     ],
@@ -167,16 +177,6 @@
     [
       "Dotfiles digest: git",
       "https://adrg.se/blog/dotfiles-digest-git"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 21:36:06",
-      "https://lobste.rs/s/rq0ger/experimenting_with_gc_less_heap_less_java"
-    ],
-    [
-      "Experimenting with GC-less (heap-less) Java",
-      "https://maximullaris.com/gc_less_java.html"
     ]
   ],
   [
