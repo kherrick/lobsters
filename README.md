@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-01, 00:25:39](https://lobste.rs/s/gkdzhy/sparrow_distributed_low_latency) - [Sparrow: Distributed, Low Latency Scheduling](https://people.eecs.berkeley.edu/~matei/papers/2013/sosp_sparrow.pdf)
 * [2024-02-29, 23:41:35](https://lobste.rs/s/aqopzk/hp_i2000_itanium_1_merced_machine) - [HP i2000 (Itanium 1/Merced machine) adventures](https://lobste.rs/s/aqopzk/hp_i2000_itanium_1_merced_machine)
 * [2024-02-29, 22:17:50](https://lobste.rs/s/djyepr/dotfiles_digest_git) - [Dotfiles digest: git](https://adrg.se/blog/dotfiles-digest-git)
 * [2024-02-29, 21:36:06](https://lobste.rs/s/rq0ger/experimenting_with_gc_less_heap_less_java) - [Experimenting with GC-less (heap-less) Java](https://maximullaris.com/gc_less_java.html)
-* [2024-02-29, 21:04:51](https://lobste.rs/s/liyugj/prime_numbers_with_expr_expression) - [Prime Numbers with Expr | Expression language](https://expr-lang.org/blog/prime-numbers-with-expr)
 * [2024-02-29, 19:12:22](https://lobste.rs/s/ommwqi/composable_http_handlers_using_generics) - [Composable HTTP Handlers using generics in Go](https://www.willem.dev/articles/generic-http-handlers/)
 * [2024-02-29, 18:33:25](https://lobste.rs/s/abadgi/repiet_compiler_for_esoteric_language) - [repiet: A compiler for the esoteric language Piet](https://github.com/boothby/repiet)
 * [2024-02-29, 18:16:43](https://lobste.rs/s/ucit0v/riposte_v0_5_0_adds_support_for_newer) - [riposte v0.5.0 adds support for newer python versions](https://github.com/fwkz/riposte/releases/tag/v0.5.0)
