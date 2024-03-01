@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-03-01, 16:27:08",
-      "https://lobste.rs/s/e01bcb/he_who_controls_bootloader_microsoft"
-    ],
-    [
-      "\"He Who Controls the Bootloader\" – Microsoft prevented Hitachi from installing a bootloader on its PCs with preinstalled BeOS",
-      "https://birdhouse.org/beos/byte/30-bootloader/"
-    ]
-  ],
-  [
-    [
       "2024-03-01, 14:50:35",
       "https://lobste.rs/s/rzgcfx/announcing_cheriot_audit"
     ],
@@ -47,6 +37,16 @@
     [
       "List of 2024 Leap Day Bugs",
       "https://codeofmatt.com/list-of-2024-leap-day-bugs/"
+    ]
+  ],
+  [
+    [
+      "2024-03-01, 13:06:42",
+      "https://lobste.rs/s/74zlmu/simple_executable_love2d_files_you_can"
+    ],
+    [
+      "Simple Executable Love2D Files, or, You Can Shove Random Data At The Start of a Zip File and it’s Basically Fine",
+      "https://artemis.sh/2024/02/29/zip-file-love2d.html"
     ]
   ],
   [
