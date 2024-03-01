@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
+* [2024-03-01, 14:07:40](https://lobste.rs/s/jxqr6n/time_i_accidentally_deleted_game_from) - [That Time I Accidentally Deleted a Game From MAME](http://mistys-internet.website/blog/blog/2024/03/01/that-time-i-accidentally-deleted-a-game-from-mame)
 * [2024-03-01, 13:53:50](https://lobste.rs/s/janrdo/list_2024_leap_day_bugs) - [List of 2024 Leap Day Bugs](https://codeofmatt.com/list-of-2024-leap-day-bugs/)
 * [2024-03-01, 13:06:42](https://lobste.rs/s/74zlmu/simple_executable_love2d_files_you_can) - [Simple Executable Love2D Files, or, You Can Shove Random Data At The Start of a Zip File and it’s Basically Fine](https://artemis.sh/2024/02/29/zip-file-love2d.html)
 * [2024-03-01, 12:50:22](https://lobste.rs/s/fkf6de/white_house_memory_safety_appeal_is) - [The White House Memory Safety Appeal Is A Security Red Herring](https://hackaday.com/2024/02/29/the-white-house-memory-safety-appeal-is-a-security-red-herring/)
