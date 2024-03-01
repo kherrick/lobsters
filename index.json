@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2024-02-29, 21:36:06",
+      "https://lobste.rs/s/rq0ger/experimenting_with_gc_less_heap_less_java"
+    ],
+    [
+      "Experimenting with GC-less (heap-less) Java",
+      "https://maximullaris.com/gc_less_java.html"
+    ]
+  ],
+  [
+    [
       "2024-02-29, 18:33:25",
       "https://lobste.rs/s/abadgi/repiet_compiler_for_esoteric_language"
     ],
@@ -227,16 +237,6 @@
     [
       "Secure shell over HTTP/3 connections",
       "https://www.ietf.org/archive/id/draft-michel-ssh3-00.html"
-    ]
-  ],
-  [
-    [
-      "2024-02-28, 15:25:11",
-      "https://lobste.rs/s/xy62wl/kde_megarelease_6"
-    ],
-    [
-      "KDE MegaRelease 6",
-      "https://kde.org/announcements/megarelease/6/"
     ]
   ],
   [
