@@ -10,6 +10,7 @@
 * [2024-03-01, 18:24:50](https://lobste.rs/s/qjivsc/communications_acm_is_now_open_access) - [Communications of the ACM Is Now Open Access](https://cacm.acm.org/news/cacm-is-now-open-access-2/)
 * [2024-03-01, 18:24:50](https://lobste.rs/s/qjivsc/cacm_is_now_open_access_communications) - [CACM Is Now Open Access – Communications of the ACM](https://cacm.acm.org/news/cacm-is-now-open-access-2/)
 * [2024-03-01, 17:43:44](https://lobste.rs/s/qibmeh/monaspace_innovative_superfamily_fonts) - [monaspace: An innovative superfamily of fonts for code](https://github.com/githubnext/monaspace)
+* [2024-03-01, 17:05:08](https://lobste.rs/s/kma76f/rattagatta_scalable_bluetooth_low) - [RattaGATTa: Scalable Bluetooth Low-Energy Survey](https://www.labs.greynoise.io/grimoire/2024-03-01-rattagatta/)
 * [2024-03-01, 16:42:28](https://lobste.rs/s/9i32cw/snapshot_testing) - [Snapshot Testing](https://avi.im/blag/2024/snapshot-testing/)
 * [2024-03-01, 16:27:08](https://lobste.rs/s/e01bcb/he_who_controls_bootloader_microsoft) - [\"He Who Controls the Bootloader\" – Microsoft prevented Hitachi from installing a bootloader on its PCs with preinstalled BeOS](https://birdhouse.org/beos/byte/30-bootloader/)
 * [2024-03-01, 14:50:35](https://lobste.rs/s/rzgcfx/announcing_cheriot_audit) - [Announcing CHERIoT-Audit](https://cheriot.org/rtos/firmware/auditing/2024/03/01/cheriot-audit.html)
