@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
+* [2024-03-01, 17:43:44](https://lobste.rs/s/qibmeh/monaspace_innovative_superfamily_fonts) - [monaspace: An innovative superfamily of fonts for code](https://github.com/githubnext/monaspace)
 * [2024-03-01, 16:42:28](https://lobste.rs/s/9i32cw/snapshot_testing) - [Snapshot Testing](https://avi.im/blag/2024/snapshot-testing/)
 * [2024-03-01, 16:27:08](https://lobste.rs/s/e01bcb/he_who_controls_bootloader_microsoft) - [\"He Who Controls the Bootloader\" – Microsoft prevented Hitachi from installing a bootloader on its PCs with preinstalled BeOS](https://birdhouse.org/beos/byte/30-bootloader/)
 * [2024-03-01, 14:50:35](https://lobste.rs/s/rzgcfx/announcing_cheriot_audit) - [Announcing CHERIoT-Audit](https://cheriot.org/rtos/firmware/auditing/2024/03/01/cheriot-audit.html)
