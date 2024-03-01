@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-01, 16:42:28](https://lobste.rs/s/9i32cw/snapshot_testing) - [Snapshot Testing](https://avi.im/blag/2024/snapshot-testing/)
 * [2024-03-01, 16:27:08](https://lobste.rs/s/e01bcb/he_who_controls_bootloader_microsoft) - [\"He Who Controls the Bootloader\" – Microsoft prevented Hitachi from installing a bootloader on its PCs with preinstalled BeOS](https://birdhouse.org/beos/byte/30-bootloader/)
 * [2024-03-01, 14:50:35](https://lobste.rs/s/rzgcfx/announcing_cheriot_audit) - [Announcing CHERIoT-Audit](https://cheriot.org/rtos/firmware/auditing/2024/03/01/cheriot-audit.html)
 * [2024-03-01, 14:07:40](https://lobste.rs/s/jxqr6n/time_i_accidentally_deleted_game_from) - [That Time I Accidentally Deleted a Game From MAME](http://mistys-internet.website/blog/blog/2024/03/01/that-time-i-accidentally-deleted-a-game-from-mame)
@@ -15,7 +16,6 @@
 * [2024-03-01, 07:42:52](https://lobste.rs/s/lf8b9r/you_ve_just_inherited_legacy_c_codebase) - [You’ve just inherited a legacy C++ codebase, now what?](https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html)
 * [2024-03-01, 04:52:12](https://lobste.rs/s/lsuzf7/fosdem_2024_aftermath) - [FOSDEM 2024 aftermath](https://genodians.org/nfeske/2024-02-15-fosdem-aftermath)
 * [2024-03-01, 02:23:13](https://lobste.rs/s/shprgp/novice_master_5_programming_jokes) - [The novice and the master: 5 programming jokes](https://www.piglei.com/articles/the-novice-and-the-maste-jokes/)
-* [2024-02-29, 23:41:35](https://lobste.rs/s/aqopzk/hp_i2000_itanium_1_merced_machine) - [HP i2000 (Itanium 1/Merced machine) adventures](https://lobste.rs/s/aqopzk/hp_i2000_itanium_1_merced_machine)
 * [2024-02-29, 22:17:50](https://lobste.rs/s/djyepr/dotfiles_digest_git) - [Dotfiles digest: git](https://adrg.se/blog/dotfiles-digest-git)
 * [2024-02-29, 21:36:06](https://lobste.rs/s/rq0ger/experimenting_with_gc_less_heap_less_java) - [Experimenting with GC-less (heap-less) Java](https://maximullaris.com/gc_less_java.html)
 * [2024-02-29, 17:54:04](https://lobste.rs/s/c1hp3z/sins_committed_name_agile) - [The sins committed in the name of Agile](https://www.runtime.news/agile-software-promises-efficiency-it-requires-a-cultural-shift-to-get-right/)
