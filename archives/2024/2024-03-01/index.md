@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
+* [2024-03-01, 16:27:08](https://lobste.rs/s/e01bcb/he_who_controls_bootloader_microsoft) - [\"He Who Controls the Bootloader\" – Microsoft prevented Hitachi from installing a bootloader on its PCs with preinstalled BeOS](https://birdhouse.org/beos/byte/30-bootloader/)
 * [2024-03-01, 14:50:35](https://lobste.rs/s/rzgcfx/announcing_cheriot_audit) - [Announcing CHERIoT-Audit](https://cheriot.org/rtos/firmware/auditing/2024/03/01/cheriot-audit.html)
 * [2024-03-01, 14:07:40](https://lobste.rs/s/jxqr6n/time_i_accidentally_deleted_game_from) - [That Time I Accidentally Deleted a Game From MAME](http://mistys-internet.website/blog/blog/2024/03/01/that-time-i-accidentally-deleted-a-game-from-mame)
 * [2024-03-01, 13:53:50](https://lobste.rs/s/janrdo/list_2024_leap_day_bugs) - [List of 2024 Leap Day Bugs](https://codeofmatt.com/list-of-2024-leap-day-bugs/)
