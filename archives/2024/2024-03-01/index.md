@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-01](index.md)
 
+* [2024-03-01, 12:50:22](https://lobste.rs/s/fkf6de/white_house_memory_safety_appeal_is) - [The White House Memory Safety Appeal Is A Security Red Herring](https://hackaday.com/2024/02/29/the-white-house-memory-safety-appeal-is-a-security-red-herring/)
 * [2024-03-01, 12:35:06](https://lobste.rs/s/qmmdve/test_your_apps_services_with_github) - [Test Your Apps and Services with GitHub Actions Quickly and for Free](https://nixcademy.com/2024/03/01/nixos-integration-test-on-github/)
 * [2024-03-01, 12:31:07](https://lobste.rs/s/k0nbe9/serving_my_blog_posts_as_linux_manual) - [Serving my blog posts as Linux manual pages](https://jamesg.blog/2024/02/29/linux-manual-pages/)
 * [2024-03-01, 11:06:23](https://lobste.rs/s/wvcgyx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/wvcgyx/what_are_you_doing_this_weekend)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-01, 12:50:22](https://lobste.rs/s/fkf6de/white_house_memory_safety_appeal_is) - [The White House Memory Safety Appeal Is A Security Red Herring](https://hackaday.com/2024/02/29/the-white-house-memory-safety-appeal-is-a-security-red-herring/)
 * [2024-03-01, 12:35:06](https://lobste.rs/s/qmmdve/test_your_apps_services_with_github) - [Test Your Apps and Services with GitHub Actions Quickly and for Free](https://nixcademy.com/2024/03/01/nixos-integration-test-on-github/)
 * [2024-03-01, 12:31:07](https://lobste.rs/s/k0nbe9/serving_my_blog_posts_as_linux_manual) - [Serving my blog posts as Linux manual pages](https://jamesg.blog/2024/02/29/linux-manual-pages/)
 * [2024-03-01, 11:06:23](https://lobste.rs/s/wvcgyx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/wvcgyx/what_are_you_doing_this_weekend)
@@ -13,7 +14,6 @@
 * [2024-02-29, 23:41:35](https://lobste.rs/s/aqopzk/hp_i2000_itanium_1_merced_machine) - [HP i2000 (Itanium 1/Merced machine) adventures](https://lobste.rs/s/aqopzk/hp_i2000_itanium_1_merced_machine)
 * [2024-02-29, 22:17:50](https://lobste.rs/s/djyepr/dotfiles_digest_git) - [Dotfiles digest: git](https://adrg.se/blog/dotfiles-digest-git)
 * [2024-02-29, 21:36:06](https://lobste.rs/s/rq0ger/experimenting_with_gc_less_heap_less_java) - [Experimenting with GC-less (heap-less) Java](https://maximullaris.com/gc_less_java.html)
-* [2024-02-29, 18:33:25](https://lobste.rs/s/abadgi/repiet_compiler_for_esoteric_language) - [repiet: A compiler for the esoteric language Piet](https://github.com/boothby/repiet)
 * [2024-02-29, 17:54:04](https://lobste.rs/s/c1hp3z/sins_committed_name_agile) - [The sins committed in the name of Agile](https://www.runtime.news/agile-software-promises-efficiency-it-requires-a-cultural-shift-to-get-right/)
 * [2024-02-29, 15:11:20](https://lobste.rs/s/3luon8/advanced_property_testing_interview) - [Advanced Property Testing (Interview with Oskar Wickström)](https://youtu.be/wHJZ0icwSkc)
 * [2024-02-29, 15:09:51](https://lobste.rs/s/dwt7ao/debian_64_bit_time_t_transition_progress) - [Debian 64-bit time_t transition in progress](https://lists.debian.org/debian-devel-announce/2024/02/msg00000.html)
