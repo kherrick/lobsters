@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-01, 12:35:06](https://lobste.rs/s/qmmdve/test_your_apps_services_with_github) - [Test Your Apps and Services with GitHub Actions Quickly and for Free](https://nixcademy.com/2024/03/01/nixos-integration-test-on-github/)
 * [2024-03-01, 12:31:07](https://lobste.rs/s/k0nbe9/serving_my_blog_posts_as_linux_manual) - [Serving my blog posts as Linux manual pages](https://jamesg.blog/2024/02/29/linux-manual-pages/)
 * [2024-03-01, 11:06:23](https://lobste.rs/s/wvcgyx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/wvcgyx/what_are_you_doing_this_weekend)
 * [2024-03-01, 11:03:13](https://lobste.rs/s/v6s0bq/speed_improvement_servers_may_have) - [The speed of improvement in servers may have slowed down](https://utcc.utoronto.ca/~cks/space/blog/tech/ServersSpeedOfChangeDown)
@@ -24,7 +25,6 @@
 * [2024-02-29, 11:46:34](https://lobste.rs/s/ahitdn/array_languages_vs_curse_spreadsheet) - [Array languages vs. the curse of the spreadsheet](https://blog.dhsdevelopments.com/array-languages-vs)
 * [2024-02-29, 11:08:52](https://lobste.rs/s/b6qycr/praise_nushell) - [In praise of Nushell](https://lars.yencken.org/in-praise-of-nushell)
 * [2024-02-29, 07:49:03](https://lobste.rs/s/vqaqkm/secure_shell_over_http_3_connections) - [Secure shell over HTTP/3 connections](https://www.ietf.org/archive/id/draft-michel-ssh3-00.html)
-* [2024-02-28, 13:23:21](https://lobste.rs/s/ke70cg/why_i_use_firefox) - [Why I use Firefox](https://šime.eu/3)
 
 ## [Archives](archives/index.md)
 
