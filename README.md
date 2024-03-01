@@ -16,6 +16,7 @@
 * [2024-03-01, 09:53:03](https://lobste.rs/s/fvnt4l/k8s_service_meshes_bill_comes_due) - [K8s Service Meshes: The Bill Comes Due](https://matduggan.com/k8s-service-meshes/)
 * [2024-03-01, 08:56:59](https://lobste.rs/s/u91mqk/leap_year_test_k_r_2020) - [Leap Year Test in K&R (2020)](https://susam.net/leap-year-test-in-knr.html)
 * [2024-03-01, 07:42:52](https://lobste.rs/s/lf8b9r/you_ve_just_inherited_legacy_c_codebase) - [You’ve just inherited a legacy C++ codebase, now what?](https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html)
+* [2024-03-01, 04:52:12](https://lobste.rs/s/lsuzf7/fosdem_2024_aftermath) - [FOSDEM 2024 aftermath](https://genodians.org/nfeske/2024-02-15-fosdem-aftermath)
 * [2024-03-01, 02:23:13](https://lobste.rs/s/shprgp/novice_master_5_programming_jokes) - [The novice and the master: 5 programming jokes](https://www.piglei.com/articles/the-novice-and-the-maste-jokes/)
 * [2024-02-29, 22:17:50](https://lobste.rs/s/djyepr/dotfiles_digest_git) - [Dotfiles digest: git](https://adrg.se/blog/dotfiles-digest-git)
 * [2024-02-29, 17:54:04](https://lobste.rs/s/c1hp3z/sins_committed_name_agile) - [The sins committed in the name of Agile](https://www.runtime.news/agile-software-promises-efficiency-it-requires-a-cultural-shift-to-get-right/)
@@ -23,7 +24,6 @@
 * [2024-02-29, 14:41:25](https://lobste.rs/s/jccrzo/elvish_scripting_case_studies) - [Elvish scripting case studies](https://elv.sh/learn/scripting-case-studies.html)
 * [2024-02-29, 12:53:29](https://lobste.rs/s/ctlsnc/siren_song_domain_specific_languages) - [The siren song of domain-specific languages](https://www.haskellforall.com/2024/02/the-siren-song-of-domain-specific.html)
 * [2024-02-29, 12:34:49](https://lobste.rs/s/ajyx0k/jpeg_xl_pareto_front) - [JPEG XL and the Pareto Front](https://cloudinary.com/blog/jpeg-xl-and-the-pareto-front)
-* [2024-02-29, 11:46:34](https://lobste.rs/s/ahitdn/array_languages_vs_curse_spreadsheet) - [Array languages vs. the curse of the spreadsheet](https://blog.dhsdevelopments.com/array-languages-vs)
 * [2024-02-29, 11:08:52](https://lobste.rs/s/b6qycr/praise_nushell) - [In praise of Nushell](https://lars.yencken.org/in-praise-of-nushell)
 
 ## [Archives](archives/index.md)
