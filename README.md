@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-02, 19:51:06](https://lobste.rs/s/tqcvh7/how_user_groups_made_software_reuse) - [How User Groups Made Software Reuse a Reality](https://ztoz.blog/posts/user-group-reuse/)
 * [2024-03-02, 16:21:55](https://lobste.rs/s/kuzrfv/unum_pattern_2019) - [The Unum Pattern (2019)](http://habitatchronicles.com/2019/08/the-unum-pattern/)
 * [2024-03-02, 16:12:11](https://lobste.rs/s/toot8g/punyo_soft_robot_for_whole_body) - [Punyo, Soft Robot for Whole-Body Manipulation](https://youtu.be/FY-MD4gteeE)
 * [2024-03-02, 11:59:44](https://lobste.rs/s/r2ebsu/hardenedbsd_february_2024_status_report) - [HardenedBSD February 2024 status report](https://hardenedbsd.org/article/shawn-webb/2024-03-01/hardenedbsd-february-2024-status-report)
@@ -24,7 +25,6 @@
 * [2024-03-01, 08:56:59](https://lobste.rs/s/u91mqk/leap_year_test_k_r_2020) - [Leap Year Test in K&R (2020)](https://susam.net/leap-year-test-in-knr.html)
 * [2024-03-01, 07:42:52](https://lobste.rs/s/lf8b9r/you_ve_just_inherited_legacy_c_codebase) - [You’ve just inherited a legacy C++ codebase, now what?](https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html)
 * [2024-03-01, 02:23:13](https://lobste.rs/s/shprgp/novice_master_5_programming_jokes) - [The novice and the master: 5 programming jokes](https://www.piglei.com/articles/the-novice-and-the-maste-jokes/)
-* [2024-02-29, 22:17:50](https://lobste.rs/s/djyepr/dotfiles_digest_git) - [Dotfiles digest: git](https://adrg.se/blog/dotfiles-digest-git)
 
 ## [Archives](archives/index.md)
 
