@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-02](index.md)
 
+* [2024-03-02, 11:47:39](https://lobste.rs/s/uk3b7b/artprompt_ascii_art_based_jailbreak) - [ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs](https://arxiv.org/abs/2402.11753)
 * [2024-03-02, 09:51:30](https://lobste.rs/s/2n5v8d/deploying_fiber_home) - [Deploying Fiber In The Home](https://blog.daknob.net/fiber-in-the-home/)
 * [2024-03-02, 08:33:33](https://lobste.rs/s/jlrwng/mock_roles_not_objects) - [Mock Roles not Objects](http://jmock.org/oopsla2004.pdf)
 * [2024-03-02, 07:20:09](https://lobste.rs/s/czhbhz/practical_vector_search_neurips_2023) - [Practical Vector Search: NeurIPS 2023 Competition Leaderboard](https://github.com/harsha-simhadri/big-ann-benchmarks/blob/main/neurips23/ongoing_leaderboard/leaderboard.md)
