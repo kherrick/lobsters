@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-02](index.md)
 
+* [2024-03-02, 09:51:30](https://lobste.rs/s/2n5v8d/deploying_fiber_home) - [Deploying Fiber In The Home](https://blog.daknob.net/fiber-in-the-home/)
 * [2024-03-02, 08:33:33](https://lobste.rs/s/jlrwng/mock_roles_not_objects) - [Mock Roles not Objects](http://jmock.org/oopsla2004.pdf)
 * [2024-03-02, 07:20:09](https://lobste.rs/s/czhbhz/practical_vector_search_neurips_2023) - [Practical Vector Search: NeurIPS 2023 Competition Leaderboard](https://github.com/harsha-simhadri/big-ann-benchmarks/blob/main/neurips23/ongoing_leaderboard/leaderboard.md)
 * [2024-03-02, 06:07:00](https://lobste.rs/s/d50dak/mojo_css_atomic_framework_for_building) - [Mojo CSS: Atomic framework for building UIs without shipping CSS](https://mojocss.com/)
