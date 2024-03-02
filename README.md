@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-02, 22:29:22](https://lobste.rs/s/6nygvu/byte_interviews_apple_lisa_dev_team_1983) - [Byte Interviews the Apple Lisa Dev Team (1983)](https://computeradsfromthepast.substack.com/p/byte-interviews-the-apple-lisa-dev)
 * [2024-03-02, 22:13:15](https://lobste.rs/s/qpeggs/case_against_geometric_algebra) - [The Case Against Geometric Algebra](https://alexkritchevsky.com/2024/02/28/geometric-algebra.html)
 * [2024-03-02, 19:51:06](https://lobste.rs/s/tqcvh7/how_user_groups_made_software_reuse) - [How User Groups Made Software Reuse a Reality](https://ztoz.blog/posts/user-group-reuse/)
 * [2024-03-02, 16:21:55](https://lobste.rs/s/kuzrfv/unum_pattern_2019) - [The Unum Pattern (2019)](http://habitatchronicles.com/2019/08/the-unum-pattern/)
@@ -23,7 +24,6 @@
 * [2024-03-01, 12:31:07](https://lobste.rs/s/k0nbe9/serving_my_blog_posts_as_linux_manual) - [Serving my blog posts as Linux manual pages](https://jamesg.blog/2024/02/29/linux-manual-pages/)
 * [2024-03-01, 09:53:03](https://lobste.rs/s/fvnt4l/k8s_service_meshes_bill_comes_due) - [K8s Service Meshes: The Bill Comes Due](https://matduggan.com/k8s-service-meshes/)
 * [2024-03-01, 08:56:59](https://lobste.rs/s/u91mqk/leap_year_test_k_r_2020) - [Leap Year Test in K&R (2020)](https://susam.net/leap-year-test-in-knr.html)
-* [2024-03-01, 07:42:52](https://lobste.rs/s/lf8b9r/you_ve_just_inherited_legacy_c_codebase) - [You’ve just inherited a legacy C++ codebase, now what?](https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html)
 * [2024-03-01, 02:23:13](https://lobste.rs/s/shprgp/novice_master_5_programming_jokes) - [The novice and the master: 5 programming jokes](https://www.piglei.com/articles/the-novice-and-the-maste-jokes/)
 
 ## [Archives](archives/index.md)
