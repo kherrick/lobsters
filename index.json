@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-02, 22:13:15",
+      "https://lobste.rs/s/qpeggs/case_against_geometric_algebra"
+    ],
+    [
+      "The Case Against Geometric Algebra",
+      "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html"
+    ]
+  ],
+  [
+    [
       "2024-03-02, 19:51:06",
       "https://lobste.rs/s/tqcvh7/how_user_groups_made_software_reuse"
     ],
@@ -187,16 +197,6 @@
     [
       "Simple Executable Love2D Files, or, You Can Shove Random Data At The Start of a Zip File and it’s Basically Fine",
       "https://artemis.sh/2024/02/29/zip-file-love2d.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-01, 12:35:06",
-      "https://lobste.rs/s/qmmdve/test_your_apps_services_with_github"
-    ],
-    [
-      "Test Your Apps and Services with GitHub Actions Quickly and for Free",
-      "https://nixcademy.com/2024/03/01/nixos-integration-test-on-github/"
     ]
   ],
   [
