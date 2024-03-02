@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-02](index.md)
 
+* [2024-03-02, 03:43:56](https://lobste.rs/s/by7kxq/saved_by_nixos_integration_tests) - [Saved by NixOS Integration Tests, Surprisingly](https://boinkor.net/2024/02/saved-by-nixos-integration-tests-surprisingly/)
 * [2024-03-02, 02:51:30](https://lobste.rs/s/hf2osg/increase_test_fidelity_by_avoiding_mocks) - [Increase Test Fidelity By Avoiding Mocks](https://testing.googleblog.com/2024/02/increase-test-fidelity-by-avoiding-mocks.html)
 * [2024-03-02, 01:43:22](https://lobste.rs/s/3o0kna/coreboot_24_02_24_02_1_released) - [coreboot 24.02 and 24.02.1 released](https://blogs.coreboot.org/blog/2024/03/01/coreboot-24-02-and-24-02-1-released/)
 * [2024-03-02, 01:34:44](https://lobste.rs/s/2iogwz/git_programmatic_staging) - [Git: programmatic staging](https://choly.ca/post/git-programmatic-staging/)
