@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-02](index.md)
 
+* [2024-03-02, 07:20:09](https://lobste.rs/s/czhbhz/practical_vector_search_neurips_2023) - [Practical Vector Search: NeurIPS 2023 Competition Leaderboard](https://github.com/harsha-simhadri/big-ann-benchmarks/blob/main/neurips23/ongoing_leaderboard/leaderboard.md)
 * [2024-03-02, 06:07:00](https://lobste.rs/s/d50dak/mojo_css_atomic_framework_for_building) - [Mojo CSS: Atomic framework for building UIs without shipping CSS](https://mojocss.com/)
 * [2024-03-02, 03:43:56](https://lobste.rs/s/by7kxq/saved_by_nixos_integration_tests) - [Saved by NixOS Integration Tests, Surprisingly](https://boinkor.net/2024/02/saved-by-nixos-integration-tests-surprisingly/)
 * [2024-03-02, 02:51:30](https://lobste.rs/s/hf2osg/increase_test_fidelity_by_avoiding_mocks) - [Increase Test Fidelity By Avoiding Mocks](https://testing.googleblog.com/2024/02/increase-test-fidelity-by-avoiding-mocks.html)
