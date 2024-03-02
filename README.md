@@ -18,12 +18,12 @@
 * [2024-03-01, 18:24:50](https://lobste.rs/s/qjivsc/communications_acm_is_now_open_access) - [Communications of the ACM Is Now Open Access](https://cacm.acm.org/news/cacm-is-now-open-access-2/)
 * [2024-03-01, 16:42:28](https://lobste.rs/s/9i32cw/snapshot_testing) - [Snapshot Testing](https://avi.im/blag/2024/snapshot-testing/)
 * [2024-03-01, 16:27:08](https://lobste.rs/s/e01bcb/he_who_controls_bootloader_microsoft) - [\"He Who Controls the Bootloader\" – Microsoft prevented Hitachi from installing a bootloader on its PCs with preinstalled BeOS (2001)](https://birdhouse.org/beos/byte/30-bootloader/)
-* [2024-03-01, 14:07:40](https://lobste.rs/s/jxqr6n/time_i_accidentally_deleted_game_from) - [That Time I Accidentally Deleted a Game From MAME](http://mistys-internet.website/blog/blog/2024/03/01/that-time-i-accidentally-deleted-a-game-from-mame)
 * [2024-03-01, 13:53:50](https://lobste.rs/s/janrdo/list_2024_leap_day_bugs) - [List of 2024 Leap Day Bugs](https://codeofmatt.com/list-of-2024-leap-day-bugs/)
 * [2024-03-01, 13:06:42](https://lobste.rs/s/74zlmu/simple_executable_love2d_files_you_can) - [Simple Executable Love2D Files, or, You Can Shove Random Data At The Start of a Zip File and it’s Basically Fine](https://artemis.sh/2024/02/29/zip-file-love2d.html)
 * [2024-03-01, 12:31:07](https://lobste.rs/s/k0nbe9/serving_my_blog_posts_as_linux_manual) - [Serving my blog posts as Linux manual pages](https://jamesg.blog/2024/02/29/linux-manual-pages/)
 * [2024-03-01, 09:53:03](https://lobste.rs/s/fvnt4l/k8s_service_meshes_bill_comes_due) - [K8s Service Meshes: The Bill Comes Due](https://matduggan.com/k8s-service-meshes/)
 * [2024-03-01, 08:56:59](https://lobste.rs/s/u91mqk/leap_year_test_k_r_2020) - [Leap Year Test in K&R (2020)](https://susam.net/leap-year-test-in-knr.html)
+* [2024-03-01, 07:42:52](https://lobste.rs/s/lf8b9r/you_ve_just_inherited_legacy_c_codebase) - [You’ve just inherited a legacy C++ codebase, now what?](https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html)
 * [2024-03-01, 02:23:13](https://lobste.rs/s/shprgp/novice_master_5_programming_jokes) - [The novice and the master: 5 programming jokes](https://www.piglei.com/articles/the-novice-and-the-maste-jokes/)
 
 ## [Archives](archives/index.md)
