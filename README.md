@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-02, 01:43:22](https://lobste.rs/s/3o0kna/coreboot_24_02_24_02_1_released) - [coreboot 24.02 and 24.02.1 released](https://blogs.coreboot.org/blog/2024/03/01/coreboot-24-02-and-24-02-1-released/)
 * [2024-03-02, 01:34:44](https://lobste.rs/s/2iogwz/git_programmatic_staging) - [Git: programmatic staging](https://choly.ca/post/git-programmatic-staging/)
 * [2024-03-01, 21:00:06](https://lobste.rs/s/uuqf74/pgs_sh_zero_install_static_site_hosting) - [pgs.sh - A zero-install static site hosting service for hackers](https://pgs.sh)
 * [2024-03-01, 20:37:00](https://lobste.rs/s/vf6h0a/introducing_gitlab_ci_pipeline_for) - [Introducing GitLab-CI Pipeline for Kernel Testing](https://patchwork.kernel.org/project/linux-kselftest/cover/20240228225527.1052240-1-helen.koike@collabora.com/)
@@ -23,7 +24,6 @@
 * [2024-02-29, 17:54:04](https://lobste.rs/s/c1hp3z/sins_committed_name_agile) - [The sins committed in the name of Agile](https://www.runtime.news/agile-software-promises-efficiency-it-requires-a-cultural-shift-to-get-right/)
 * [2024-02-29, 14:41:25](https://lobste.rs/s/jccrzo/elvish_scripting_case_studies) - [Elvish scripting case studies](https://elv.sh/learn/scripting-case-studies.html)
 * [2024-02-29, 12:53:29](https://lobste.rs/s/ctlsnc/siren_song_domain_specific_languages) - [The siren song of domain-specific languages](https://www.haskellforall.com/2024/02/the-siren-song-of-domain-specific.html)
-* [2024-02-29, 12:34:49](https://lobste.rs/s/ajyx0k/jpeg_xl_pareto_front) - [JPEG XL and the Pareto Front](https://cloudinary.com/blog/jpeg-xl-and-the-pareto-front)
 * [2024-02-29, 11:08:52](https://lobste.rs/s/b6qycr/praise_nushell) - [In praise of Nushell](https://lars.yencken.org/in-praise-of-nushell)
 
 ## [Archives](archives/index.md)
