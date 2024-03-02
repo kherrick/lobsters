@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-02, 16:21:55](https://lobste.rs/s/kuzrfv/unum_pattern) - [The Unum Pattern](http://habitatchronicles.com/2019/08/the-unum-pattern/)
+* [2024-03-02, 16:12:11](https://lobste.rs/s/toot8g/punyo_soft_robot_for_whole_body) - [Punyo, Soft Robot for Whole-Body Manipulation](https://youtu.be/FY-MD4gteeE)
 * [2024-03-02, 11:59:44](https://lobste.rs/s/r2ebsu/hardenedbsd_february_2024_status_report) - [HardenedBSD February 2024 status report](https://hardenedbsd.org/article/shawn-webb/2024-03-01/hardenedbsd-february-2024-status-report)
 * [2024-03-02, 11:47:39](https://lobste.rs/s/uk3b7b/artprompt_ascii_art_based_jailbreak) - [ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs](https://arxiv.org/abs/2402.11753)
 * [2024-03-02, 09:51:30](https://lobste.rs/s/2n5v8d/deploying_fiber_home) - [Deploying Fiber In The Home](https://blog.daknob.net/fiber-in-the-home/)
@@ -18,13 +20,11 @@
 * [2024-03-01, 13:06:42](https://lobste.rs/s/74zlmu/simple_executable_love2d_files_you_can) - [Simple Executable Love2D Files, or, You Can Shove Random Data At The Start of a Zip File and it’s Basically Fine](https://artemis.sh/2024/02/29/zip-file-love2d.html)
 * [2024-03-01, 12:35:06](https://lobste.rs/s/qmmdve/test_your_apps_services_with_github) - [Test Your Apps and Services with GitHub Actions Quickly and for Free](https://nixcademy.com/2024/03/01/nixos-integration-test-on-github/)
 * [2024-03-01, 12:31:07](https://lobste.rs/s/k0nbe9/serving_my_blog_posts_as_linux_manual) - [Serving my blog posts as Linux manual pages](https://jamesg.blog/2024/02/29/linux-manual-pages/)
-* [2024-03-01, 11:06:23](https://lobste.rs/s/wvcgyx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/wvcgyx/what_are_you_doing_this_weekend)
 * [2024-03-01, 09:53:03](https://lobste.rs/s/fvnt4l/k8s_service_meshes_bill_comes_due) - [K8s Service Meshes: The Bill Comes Due](https://matduggan.com/k8s-service-meshes/)
 * [2024-03-01, 08:56:59](https://lobste.rs/s/u91mqk/leap_year_test_k_r_2020) - [Leap Year Test in K&R (2020)](https://susam.net/leap-year-test-in-knr.html)
 * [2024-03-01, 07:42:52](https://lobste.rs/s/lf8b9r/you_ve_just_inherited_legacy_c_codebase) - [You’ve just inherited a legacy C++ codebase, now what?](https://gaultier.github.io/blog/you_inherited_a_legacy_cpp_codebase_now_what.html)
 * [2024-03-01, 02:23:13](https://lobste.rs/s/shprgp/novice_master_5_programming_jokes) - [The novice and the master: 5 programming jokes](https://www.piglei.com/articles/the-novice-and-the-maste-jokes/)
 * [2024-02-29, 22:17:50](https://lobste.rs/s/djyepr/dotfiles_digest_git) - [Dotfiles digest: git](https://adrg.se/blog/dotfiles-digest-git)
-* [2024-02-29, 11:08:52](https://lobste.rs/s/b6qycr/praise_nushell) - [In praise of Nushell](https://lars.yencken.org/in-praise-of-nushell)
 
 ## [Archives](archives/index.md)
 

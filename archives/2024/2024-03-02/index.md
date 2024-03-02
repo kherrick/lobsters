@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-02](index.md)
 
+* [2024-03-02, 16:21:55](https://lobste.rs/s/kuzrfv/unum_pattern) - [The Unum Pattern](http://habitatchronicles.com/2019/08/the-unum-pattern/)
+* [2024-03-02, 16:12:11](https://lobste.rs/s/toot8g/punyo_soft_robot_for_whole_body) - [Punyo, Soft Robot for Whole-Body Manipulation](https://youtu.be/FY-MD4gteeE)
 * [2024-03-02, 11:59:44](https://lobste.rs/s/r2ebsu/hardenedbsd_february_2024_status_report) - [HardenedBSD February 2024 status report](https://hardenedbsd.org/article/shawn-webb/2024-03-01/hardenedbsd-february-2024-status-report)
 * [2024-03-02, 11:47:39](https://lobste.rs/s/uk3b7b/artprompt_ascii_art_based_jailbreak) - [ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs](https://arxiv.org/abs/2402.11753)
 * [2024-03-02, 09:51:30](https://lobste.rs/s/2n5v8d/deploying_fiber_home) - [Deploying Fiber In The Home](https://blog.daknob.net/fiber-in-the-home/)
