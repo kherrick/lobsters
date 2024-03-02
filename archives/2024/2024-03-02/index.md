@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-02](index.md)
 
+* [2024-03-02, 22:13:15](https://lobste.rs/s/qpeggs/case_against_geometric_algebra) - [The Case Against Geometric Algebra](https://alexkritchevsky.com/2024/02/28/geometric-algebra.html)
 * [2024-03-02, 19:51:06](https://lobste.rs/s/tqcvh7/how_user_groups_made_software_reuse) - [How User Groups Made Software Reuse a Reality](https://ztoz.blog/posts/user-group-reuse/)
 * [2024-03-02, 16:21:55](https://lobste.rs/s/kuzrfv/unum_pattern_2019) - [The Unum Pattern (2019)](http://habitatchronicles.com/2019/08/the-unum-pattern/)
 * [2024-03-02, 16:21:55](https://lobste.rs/s/kuzrfv/unum_pattern) - [The Unum Pattern](http://habitatchronicles.com/2019/08/the-unum-pattern/)
