@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-02, 06:07:00](https://lobste.rs/s/d50dak/mojo_css_atomic_framework_for_building) - [Mojo CSS: Atomic framework for building UIs without shipping CSS](https://mojocss.com/)
 * [2024-03-02, 03:43:56](https://lobste.rs/s/by7kxq/saved_by_nixos_integration_tests) - [Saved by NixOS Integration Tests, Surprisingly](https://boinkor.net/2024/02/saved-by-nixos-integration-tests-surprisingly/)
 * [2024-03-02, 02:51:30](https://lobste.rs/s/hf2osg/increase_test_fidelity_by_avoiding_mocks) - [Increase Test Fidelity By Avoiding Mocks](https://testing.googleblog.com/2024/02/increase-test-fidelity-by-avoiding-mocks.html)
 * [2024-03-02, 01:43:22](https://lobste.rs/s/3o0kna/coreboot_24_02_24_02_1_released) - [coreboot 24.02 and 24.02.1 released](https://blogs.coreboot.org/blog/2024/03/01/coreboot-24-02-and-24-02-1-released/)
@@ -9,7 +10,6 @@
 * [2024-03-01, 18:24:50](https://lobste.rs/s/qjivsc/communications_acm_is_now_open_access) - [Communications of the ACM Is Now Open Access](https://cacm.acm.org/news/cacm-is-now-open-access-2/)
 * [2024-03-01, 16:42:28](https://lobste.rs/s/9i32cw/snapshot_testing) - [Snapshot Testing](https://avi.im/blag/2024/snapshot-testing/)
 * [2024-03-01, 16:27:08](https://lobste.rs/s/e01bcb/he_who_controls_bootloader_microsoft) - [\"He Who Controls the Bootloader\" – Microsoft prevented Hitachi from installing a bootloader on its PCs with preinstalled BeOS (2001)](https://birdhouse.org/beos/byte/30-bootloader/)
-* [2024-03-01, 14:50:35](https://lobste.rs/s/rzgcfx/announcing_cheriot_audit) - [Announcing CHERIoT-Audit](https://cheriot.org/rtos/firmware/auditing/2024/03/01/cheriot-audit.html)
 * [2024-03-01, 14:07:40](https://lobste.rs/s/jxqr6n/time_i_accidentally_deleted_game_from) - [That Time I Accidentally Deleted a Game From MAME](http://mistys-internet.website/blog/blog/2024/03/01/that-time-i-accidentally-deleted-a-game-from-mame)
 * [2024-03-01, 13:53:50](https://lobste.rs/s/janrdo/list_2024_leap_day_bugs) - [List of 2024 Leap Day Bugs](https://codeofmatt.com/list-of-2024-leap-day-bugs/)
 * [2024-03-01, 13:06:42](https://lobste.rs/s/74zlmu/simple_executable_love2d_files_you_can) - [Simple Executable Love2D Files, or, You Can Shove Random Data At The Start of a Zip File and it’s Basically Fine](https://artemis.sh/2024/02/29/zip-file-love2d.html)
