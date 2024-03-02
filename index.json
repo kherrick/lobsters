@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-02, 03:43:56",
+      "https://lobste.rs/s/by7kxq/saved_by_nixos_integration_tests"
+    ],
+    [
+      "Saved by NixOS Integration Tests, Surprisingly",
+      "https://boinkor.net/2024/02/saved-by-nixos-integration-tests-surprisingly/"
+    ]
+  ],
+  [
+    [
       "2024-03-02, 02:51:30",
       "https://lobste.rs/s/hf2osg/increase_test_fidelity_by_avoiding_mocks"
     ],
@@ -217,16 +227,6 @@
     [
       "Dotfiles digest: git",
       "https://adrg.se/blog/dotfiles-digest-git"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 14:41:25",
-      "https://lobste.rs/s/jccrzo/elvish_scripting_case_studies"
-    ],
-    [
-      "Elvish scripting case studies",
-      "https://elv.sh/learn/scripting-case-studies.html"
     ]
   ],
   [
