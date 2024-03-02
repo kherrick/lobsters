@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-02, 16:21:55",
+      "https://lobste.rs/s/kuzrfv/unum_pattern"
+    ],
+    [
+      "The Unum Pattern",
+      "http://habitatchronicles.com/2019/08/the-unum-pattern/"
+    ]
+  ],
+  [
+    [
+      "2024-03-02, 16:12:11",
+      "https://lobste.rs/s/toot8g/punyo_soft_robot_for_whole_body"
+    ],
+    [
+      "Punyo, Soft Robot for Whole-Body Manipulation",
+      "https://youtu.be/FY-MD4gteeE"
+    ]
+  ],
+  [
+    [
       "2024-03-02, 11:59:44",
       "https://lobste.rs/s/r2ebsu/hardenedbsd_february_2024_status_report"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-03-01, 11:06:23",
-      "https://lobste.rs/s/wvcgyx/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/wvcgyx/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
       "2024-03-01, 09:53:03",
       "https://lobste.rs/s/fvnt4l/k8s_service_meshes_bill_comes_due"
     ],
@@ -237,16 +247,6 @@
     [
       "Dotfiles digest: git",
       "https://adrg.se/blog/dotfiles-digest-git"
-    ]
-  ],
-  [
-    [
-      "2024-02-29, 11:08:52",
-      "https://lobste.rs/s/b6qycr/praise_nushell"
-    ],
-    [
-      "In praise of Nushell",
-      "https://lars.yencken.org/in-praise-of-nushell"
     ]
   ]
 ]
