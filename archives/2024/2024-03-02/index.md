@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-02](index.md)
 
+* [2024-03-02, 11:59:44](https://lobste.rs/s/r2ebsu/hardenedbsd_february_2024_status_report) - [HardenedBSD February 2024 status report](https://hardenedbsd.org/article/shawn-webb/2024-03-01/hardenedbsd-february-2024-status-report)
 * [2024-03-02, 11:47:39](https://lobste.rs/s/uk3b7b/artprompt_ascii_art_based_jailbreak) - [ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs](https://arxiv.org/abs/2402.11753)
 * [2024-03-02, 09:51:30](https://lobste.rs/s/2n5v8d/deploying_fiber_home) - [Deploying Fiber In The Home](https://blog.daknob.net/fiber-in-the-home/)
 * [2024-03-02, 08:33:33](https://lobste.rs/s/jlrwng/mock_roles_not_objects) - [Mock Roles not Objects](http://jmock.org/oopsla2004.pdf)
