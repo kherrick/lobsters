@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 09:06:15](https://lobste.rs/s/za1yyr/bash_debugging) - [bash debugging](https://wizardzines.com/comics/bash-debugging/)
 * [2024-03-03, 08:41:47](https://lobste.rs/s/x5quzh/better_pc_cooling_with_python_grafana) - [Better PC cooling with Python and Grafana](https://calbryant.uk/blog/better-pc-cooling-with-python/)
 * [2024-03-03, 08:23:36](https://lobste.rs/s/erqv00/evolution_programmer) - [The Evolution of a Programmer](https://www.ariel.com.au/jokes/The_Evolution_of_a_Programmer.html)
 * [2024-03-03, 08:05:39](https://lobste.rs/s/ktghxo/what_i_like_about_go) - [What I like about Go](https://lu.sagebl.eu/notes/what-i-like-about-go/)

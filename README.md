@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-03, 09:06:15](https://lobste.rs/s/za1yyr/bash_debugging) - [bash debugging](https://wizardzines.com/comics/bash-debugging/)
 * [2024-03-03, 08:41:47](https://lobste.rs/s/x5quzh/better_pc_cooling_with_python_grafana) - [Better PC cooling with Python and Grafana](https://calbryant.uk/blog/better-pc-cooling-with-python/)
 * [2024-03-03, 08:23:36](https://lobste.rs/s/erqv00/evolution_programmer) - [The Evolution of a Programmer](https://www.ariel.com.au/jokes/The_Evolution_of_a_Programmer.html)
 * [2024-03-03, 08:05:39](https://lobste.rs/s/ktghxo/what_i_like_about_go) - [What I like about Go](https://lu.sagebl.eu/notes/what-i-like-about-go/)
@@ -14,7 +15,6 @@
 * [2024-03-02, 11:59:44](https://lobste.rs/s/r2ebsu/hardenedbsd_february_2024_status_report) - [HardenedBSD February 2024 status report](https://hardenedbsd.org/article/shawn-webb/2024-03-01/hardenedbsd-february-2024-status-report)
 * [2024-03-02, 11:47:39](https://lobste.rs/s/uk3b7b/artprompt_ascii_art_based_jailbreak) - [ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs](https://arxiv.org/abs/2402.11753)
 * [2024-03-02, 09:51:30](https://lobste.rs/s/2n5v8d/deploying_fiber_home) - [Deploying Fiber In The Home](https://blog.daknob.net/fiber-in-the-home/)
-* [2024-03-02, 07:20:09](https://lobste.rs/s/czhbhz/practical_vector_search_neurips_2023) - [Practical Vector Search: NeurIPS 2023 Competition Leaderboard](https://github.com/harsha-simhadri/big-ann-benchmarks/blob/main/neurips23/ongoing_leaderboard/leaderboard.md)
 * [2024-03-02, 06:07:00](https://lobste.rs/s/d50dak/mojo_css_atomic_framework_for_building) - [Mojo CSS: Atomic framework for building UIs without shipping CSS](https://mojocss.com/)
 * [2024-03-02, 03:43:56](https://lobste.rs/s/by7kxq/saved_by_nixos_integration_tests) - [Saved by NixOS Integration Tests, Surprisingly](https://boinkor.net/2024/02/saved-by-nixos-integration-tests-surprisingly/)
 * [2024-03-02, 02:51:30](https://lobste.rs/s/hf2osg/increase_test_fidelity_by_avoiding_mocks) - [Increase Test Fidelity By Avoiding Mocks](https://testing.googleblog.com/2024/02/increase-test-fidelity-by-avoiding-mocks.html)
