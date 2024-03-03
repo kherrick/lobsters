@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 22:12:04](https://lobste.rs/s/rqjoff/reinventing_backend_subsetting_at) - [Reinventing Backend Subsetting at Google: Designing an algorithm with reduced connection churn that could replace deterministic subsetting](https://queue.acm.org/detail.cfm?id=3570937)
 * [2024-03-03, 21:25:10](https://lobste.rs/s/sdsaub/hancho_simple_pleasant_build_system) - [hancho: A simple pleasant build system in Python](https://github.com/aappleby/hancho)
 * [2024-03-03, 21:03:46](https://lobste.rs/s/tmbhax/transmeta_code_morphing_software_using) - [The Transmeta Code Morphing Software: Using Speculation, Recovery, and Adaptive Retranslation to Address Real-Life Challenges (2003)](https://courses.cs.washington.edu/courses/cse548/08wi/papers/transmeta.pdf)
 * [2024-03-03, 20:34:55](https://lobste.rs/s/ffhqcr/rpypkgs_nix_flake_for_rpython) - [rpypkgs: A Nix flake for RPython interpreters](https://osdn.net/users/corbin/pf/rpypkgs/wiki/FrontPage)

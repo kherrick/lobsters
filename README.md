@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-03, 22:12:04](https://lobste.rs/s/rqjoff/reinventing_backend_subsetting_at) - [Reinventing Backend Subsetting at Google: Designing an algorithm with reduced connection churn that could replace deterministic subsetting](https://queue.acm.org/detail.cfm?id=3570937)
 * [2024-03-03, 21:25:10](https://lobste.rs/s/sdsaub/hancho_simple_pleasant_build_system) - [hancho: A simple pleasant build system in Python](https://github.com/aappleby/hancho)
 * [2024-03-03, 21:03:46](https://lobste.rs/s/tmbhax/transmeta_code_morphing_software_using) - [The Transmeta Code Morphing Software: Using Speculation, Recovery, and Adaptive Retranslation to Address Real-Life Challenges (2003)](https://courses.cs.washington.edu/courses/cse548/08wi/papers/transmeta.pdf)
 * [2024-03-03, 20:34:55](https://lobste.rs/s/ffhqcr/rpypkgs_nix_flake_for_rpython) - [rpypkgs: A Nix flake for RPython interpreters](https://osdn.net/users/corbin/pf/rpypkgs/wiki/FrontPage)
@@ -18,7 +19,6 @@
 * [2024-03-03, 05:28:33](https://lobste.rs/s/rwgmsn/one_billion_row_challenge_go_from_1m45s_4s) - [The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions](https://benhoyt.com/writings/go-1brc/)
 * [2024-03-03, 04:32:30](https://lobste.rs/s/wk0g3w/why_single_vendor_is_new_proprietary) - [Why single vendor is the new proprietary](https://opensource.net/why-single-vendor-is-the-new-proprietary/)
 * [2024-03-03, 02:34:51](https://lobste.rs/s/cmwwhl/apple_district_manager_s_macintosh) - [An Apple district manager's Macintosh Portable in 1989-91 (featuring GEIS AppleLink and a look at System 7.0 alpha)](https://oldvcr.blogspot.com/2024/03/an-apple-district-managers-macintosh.html)
-* [2024-03-02, 22:29:22](https://lobste.rs/s/6nygvu/byte_interviews_apple_lisa_dev_team_1983) - [Byte Interviews the Apple Lisa Dev Team (1983)](https://computeradsfromthepast.substack.com/p/byte-interviews-the-apple-lisa-dev)
 * [2024-03-02, 22:13:15](https://lobste.rs/s/qpeggs/case_against_geometric_algebra) - [The Case Against Geometric Algebra](https://alexkritchevsky.com/2024/02/28/geometric-algebra.html)
 * [2024-03-02, 19:51:06](https://lobste.rs/s/tqcvh7/how_user_groups_made_software_reuse) - [How User Groups Made Software Reuse a Reality](https://ztoz.blog/posts/user-group-reuse/)
 * [2024-03-02, 16:21:55](https://lobste.rs/s/kuzrfv/unum_pattern_2019) - [The Unum Pattern (2019)](http://habitatchronicles.com/2019/08/the-unum-pattern/)
