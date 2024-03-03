@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-03, 08:05:39",
+      "https://lobste.rs/s/ktghxo/what_i_like_about_go"
+    ],
+    [
+      "What I like about Go",
+      "https://lu.sagebl.eu/notes/what-i-like-about-go/"
+    ]
+  ],
+  [
+    [
       "2024-03-03, 05:28:33",
       "https://lobste.rs/s/rwgmsn/one_billion_row_challenge_go_from_1m45s_4s"
     ],
@@ -237,16 +247,6 @@
     [
       "K8s Service Meshes: The Bill Comes Due",
       "https://matduggan.com/k8s-service-meshes/"
-    ]
-  ],
-  [
-    [
-      "2024-03-01, 08:56:59",
-      "https://lobste.rs/s/u91mqk/leap_year_test_k_r_2020"
-    ],
-    [
-      "Leap Year Test in K&R (2020)",
-      "https://susam.net/leap-year-test-in-knr.html"
     ]
   ]
 ]
