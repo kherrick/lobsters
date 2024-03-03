@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 13:19:06](https://lobste.rs/s/a3zlgq/what_software_do_you_dream_about_do_not) - [What software do you dream about, but do not have time to code yourself?](https://lobste.rs/s/a3zlgq/what_software_do_you_dream_about_do_not)
 * [2024-03-03, 12:48:17](https://lobste.rs/s/t8wrjz/deep_dive_into_underlying_architecture) - [A Deep Dive into the Underlying Architecture of Groq's LPU](https://codeconfessions.substack.com/p/groq-lpu-design)
 * [2024-03-03, 12:08:37](https://lobste.rs/s/hlm7cz/unexpected_slowdown_caused_by_msvcrt_s) - [Unexpected slowdown caused by msvcrt's allocator](https://codeforces.com/blog/entry/126677)
 * [2024-03-03, 12:03:07](https://lobste.rs/s/osxzyi/unresolved_forces) - [Unresolved Forces](https://www.unresolvedforces.com/)
