@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-03, 12:48:17](https://lobste.rs/s/t8wrjz/deep_dive_into_underlying_architecture) - [A Deep Dive into the Underlying Architecture of Groq's LPU](https://codeconfessions.substack.com/p/groq-lpu-design)
 * [2024-03-03, 12:08:37](https://lobste.rs/s/hlm7cz/unexpected_slowdown_caused_by_msvcrt_s) - [Unexpected slowdown caused by msvcrt's allocator](https://codeforces.com/blog/entry/126677)
 * [2024-03-03, 12:03:07](https://lobste.rs/s/osxzyi/unresolved_forces) - [Unresolved Forces](https://www.unresolvedforces.com/)
 * [2024-03-03, 11:35:03](https://lobste.rs/s/rx0810/memory_unsafety_is_culture_issue) - [Memory Unsafety is a Culture Issue](https://btmc.substack.com/p/memory-unsafety-is-a-culture-issue)
@@ -24,7 +25,6 @@
 * [2024-03-02, 01:34:44](https://lobste.rs/s/2iogwz/git_programmatic_staging) - [Git: programmatic staging](https://choly.ca/post/git-programmatic-staging/)
 * [2024-03-01, 21:00:06](https://lobste.rs/s/uuqf74/pgs_sh_zero_install_static_site_hosting) - [pgs.sh - A zero-install static site hosting service for hackers](https://pgs.sh)
 * [2024-03-01, 18:24:50](https://lobste.rs/s/qjivsc/communications_acm_is_now_open_access) - [Communications of the ACM Is Now Open Access](https://cacm.acm.org/news/cacm-is-now-open-access-2/)
-* [2024-03-01, 09:53:03](https://lobste.rs/s/fvnt4l/k8s_service_meshes_bill_comes_due) - [K8s Service Meshes: The Bill Comes Due](https://matduggan.com/k8s-service-meshes/)
 
 ## [Archives](archives/index.md)
 
