@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-03, 21:03:46",
+      "https://lobste.rs/s/tmbhax/transmeta_code_morphing_software_using"
+    ],
+    [
+      "The Transmeta Code Morphing Software: Using Speculation, Recovery, and Adaptive Retranslation to Address Real-Life Challenges (2003)",
+      "https://courses.cs.washington.edu/courses/cse548/08wi/papers/transmeta.pdf"
+    ]
+  ],
+  [
+    [
       "2024-03-03, 20:34:55",
       "https://lobste.rs/s/ffhqcr/rpypkgs_nix_flake_for_rpython"
     ],
@@ -207,16 +217,6 @@
     [
       "The Unum Pattern (2019)",
       "http://habitatchronicles.com/2019/08/the-unum-pattern/"
-    ]
-  ],
-  [
-    [
-      "2024-03-02, 11:47:39",
-      "https://lobste.rs/s/uk3b7b/artprompt_ascii_art_based_jailbreak"
-    ],
-    [
-      "ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs",
-      "https://arxiv.org/abs/2402.11753"
     ]
   ],
   [
