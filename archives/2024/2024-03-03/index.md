@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 08:23:36](https://lobste.rs/s/erqv00/evolution_programmer) - [The Evolution of a Programmer](https://www.ariel.com.au/jokes/The_Evolution_of_a_Programmer.html)
 * [2024-03-03, 08:05:39](https://lobste.rs/s/ktghxo/what_i_like_about_go) - [What I like about Go](https://lu.sagebl.eu/notes/what-i-like-about-go/)
 * [2024-03-03, 05:28:33](https://lobste.rs/s/rwgmsn/one_billion_row_challenge_go_from_1m45s_4s) - [The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions](https://benhoyt.com/writings/go-1brc/)
 * [2024-03-03, 04:32:30](https://lobste.rs/s/wk0g3w/why_single_vendor_is_new_proprietary) - [Why single vendor is the new proprietary](https://opensource.net/why-single-vendor-is-the-new-proprietary/)

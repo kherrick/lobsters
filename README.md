@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-03, 08:23:36](https://lobste.rs/s/erqv00/evolution_programmer) - [The Evolution of a Programmer](https://www.ariel.com.au/jokes/The_Evolution_of_a_Programmer.html)
 * [2024-03-03, 08:05:39](https://lobste.rs/s/ktghxo/what_i_like_about_go) - [What I like about Go](https://lu.sagebl.eu/notes/what-i-like-about-go/)
 * [2024-03-03, 05:28:33](https://lobste.rs/s/rwgmsn/one_billion_row_challenge_go_from_1m45s_4s) - [The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions](https://benhoyt.com/writings/go-1brc/)
 * [2024-03-03, 04:32:30](https://lobste.rs/s/wk0g3w/why_single_vendor_is_new_proprietary) - [Why single vendor is the new proprietary](https://opensource.net/why-single-vendor-is-the-new-proprietary/)
@@ -23,7 +24,6 @@
 * [2024-03-01, 16:42:28](https://lobste.rs/s/9i32cw/snapshot_testing) - [Snapshot Testing](https://avi.im/blag/2024/snapshot-testing/)
 * [2024-03-01, 16:27:08](https://lobste.rs/s/e01bcb/he_who_controls_bootloader_microsoft) - [\"He Who Controls the Bootloader\" – Microsoft prevented Hitachi from installing a bootloader on its PCs with preinstalled BeOS (2001)](https://birdhouse.org/beos/byte/30-bootloader/)
 * [2024-03-01, 13:53:50](https://lobste.rs/s/janrdo/list_2024_leap_day_bugs) - [List of 2024 Leap Day Bugs](https://codeofmatt.com/list-of-2024-leap-day-bugs/)
-* [2024-03-01, 12:31:07](https://lobste.rs/s/k0nbe9/serving_my_blog_posts_as_linux_manual) - [Serving my blog posts as Linux manual pages](https://jamesg.blog/2024/02/29/linux-manual-pages/)
 * [2024-03-01, 09:53:03](https://lobste.rs/s/fvnt4l/k8s_service_meshes_bill_comes_due) - [K8s Service Meshes: The Bill Comes Due](https://matduggan.com/k8s-service-meshes/)
 
 ## [Archives](archives/index.md)
