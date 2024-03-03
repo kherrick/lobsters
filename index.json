@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-03, 12:08:37",
+      "https://lobste.rs/s/hlm7cz/unexpected_slowdown_caused_by_msvcrt_s"
+    ],
+    [
+      "Unexpected slowdown caused by msvcrt's allocator",
+      "https://codeforces.com/blog/entry/126677"
+    ]
+  ],
+  [
+    [
+      "2024-03-03, 12:03:07",
+      "https://lobste.rs/s/osxzyi/unresolved_forces"
+    ],
+    [
+      "Unresolved Forces",
+      "https://www.unresolvedforces.com/"
+    ]
+  ],
+  [
+    [
       "2024-03-03, 11:35:03",
       "https://lobste.rs/s/rx0810/memory_unsafety_is_culture_issue"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-03-02, 11:59:44",
-      "https://lobste.rs/s/r2ebsu/hardenedbsd_february_2024_status_report"
-    ],
-    [
-      "HardenedBSD February 2024 status report",
-      "https://hardenedbsd.org/article/shawn-webb/2024-03-01/hardenedbsd-february-2024-status-report"
-    ]
-  ],
-  [
-    [
       "2024-03-02, 11:47:39",
       "https://lobste.rs/s/uk3b7b/artprompt_ascii_art_based_jailbreak"
     ],
@@ -227,16 +237,6 @@
     [
       "Communications of the ACM Is Now Open Access",
       "https://cacm.acm.org/news/cacm-is-now-open-access-2/"
-    ]
-  ],
-  [
-    [
-      "2024-03-01, 16:27:08",
-      "https://lobste.rs/s/e01bcb/he_who_controls_bootloader_microsoft"
-    ],
-    [
-      "\"He Who Controls the Bootloader\" – Microsoft prevented Hitachi from installing a bootloader on its PCs with preinstalled BeOS (2001)",
-      "https://birdhouse.org/beos/byte/30-bootloader/"
     ]
   ],
   [
