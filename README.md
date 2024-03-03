@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-03, 20:34:55](https://lobste.rs/s/ffhqcr/rpypkgs_nix_flake_for_rpython) - [rpypkgs: A Nix flake for RPython interpreters](https://osdn.net/users/corbin/pf/rpypkgs/wiki/FrontPage)
 * [2024-03-03, 19:50:04](https://lobste.rs/s/kggf5x/real_gaming_router) - [Real gaming router](https://kittenlabs.de/real-gaming-router/)
 * [2024-03-03, 18:00:48](https://lobste.rs/s/tbug0e/interesting_ideas_observable_framework) - [Interesting ideas in Observable Framework](https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/)
 * [2024-03-03, 17:32:44](https://lobste.rs/s/ngyuim/algebraic_structure_infinite_craft) - [The algebraic structure of Infinite Craft](https://quuxplusone.github.io/blog/2024/03/03/infinite-craft-theory/)
@@ -24,7 +25,6 @@
 * [2024-03-02, 09:51:30](https://lobste.rs/s/2n5v8d/deploying_fiber_home) - [Deploying Fiber In The Home](https://blog.daknob.net/fiber-in-the-home/)
 * [2024-03-02, 03:43:56](https://lobste.rs/s/by7kxq/saved_by_nixos_integration_tests) - [Saved by NixOS Integration Tests, Surprisingly](https://boinkor.net/2024/02/saved-by-nixos-integration-tests-surprisingly/)
 * [2024-03-01, 21:00:06](https://lobste.rs/s/uuqf74/pgs_sh_zero_install_static_site_hosting) - [pgs.sh - A zero-install static site hosting service for hackers](https://pgs.sh)
-* [2024-03-01, 18:24:50](https://lobste.rs/s/qjivsc/communications_acm_is_now_open_access) - [Communications of the ACM Is Now Open Access](https://cacm.acm.org/news/cacm-is-now-open-access-2/)
 
 ## [Archives](archives/index.md)
 

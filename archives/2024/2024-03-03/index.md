@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 20:34:55](https://lobste.rs/s/ffhqcr/rpypkgs_nix_flake_for_rpython) - [rpypkgs: A Nix flake for RPython interpreters](https://osdn.net/users/corbin/pf/rpypkgs/wiki/FrontPage)
 * [2024-03-03, 19:50:04](https://lobste.rs/s/kggf5x/real_gaming_router) - [Real gaming router](https://kittenlabs.de/real-gaming-router/)
 * [2024-03-03, 18:00:48](https://lobste.rs/s/tbug0e/interesting_ideas_observable_framework) - [Interesting ideas in Observable Framework](https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/)
 * [2024-03-03, 17:32:44](https://lobste.rs/s/ngyuim/algebraic_structure_infinite_craft) - [The algebraic structure of Infinite Craft](https://quuxplusone.github.io/blog/2024/03/03/infinite-craft-theory/)
