@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-03, 11:35:03",
+      "https://lobste.rs/s/rx0810/memory_unsafety_is_culture_issue"
+    ],
+    [
+      "Memory Unsafety is a Culture Issue",
+      "https://btmc.substack.com/p/memory-unsafety-is-a-culture-issue"
+    ]
+  ],
+  [
+    [
+      "2024-03-03, 11:33:34",
+      "https://lobste.rs/s/fo7udp/atuin_magical_shell_history"
+    ],
+    [
+      "atuin: Magical shell history",
+      "https://github.com/atuinsh/atuin"
+    ]
+  ],
+  [
+    [
       "2024-03-03, 10:19:53",
       "https://lobste.rs/s/fcvtpi/pyproject_nix_nix_tooling_for_python"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-03-02, 06:07:00",
-      "https://lobste.rs/s/d50dak/mojo_css_atomic_framework_for_building"
-    ],
-    [
-      "Mojo CSS: Atomic framework for building UIs without shipping CSS",
-      "https://mojocss.com/"
-    ]
-  ],
-  [
-    [
       "2024-03-02, 03:43:56",
       "https://lobste.rs/s/by7kxq/saved_by_nixos_integration_tests"
     ],
@@ -227,16 +237,6 @@
     [
       "\"He Who Controls the Bootloader\" – Microsoft prevented Hitachi from installing a bootloader on its PCs with preinstalled BeOS (2001)",
       "https://birdhouse.org/beos/byte/30-bootloader/"
-    ]
-  ],
-  [
-    [
-      "2024-03-01, 13:53:50",
-      "https://lobste.rs/s/janrdo/list_2024_leap_day_bugs"
-    ],
-    [
-      "List of 2024 Leap Day Bugs",
-      "https://codeofmatt.com/list-of-2024-leap-day-bugs/"
     ]
   ],
   [
