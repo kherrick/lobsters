@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-03, 21:25:10](https://lobste.rs/s/sdsaub/hancho_simple_pleasant_build_system) - [hancho: A simple pleasant build system in Python](https://github.com/aappleby/hancho)
 * [2024-03-03, 21:03:46](https://lobste.rs/s/tmbhax/transmeta_code_morphing_software_using) - [The Transmeta Code Morphing Software: Using Speculation, Recovery, and Adaptive Retranslation to Address Real-Life Challenges (2003)](https://courses.cs.washington.edu/courses/cse548/08wi/papers/transmeta.pdf)
 * [2024-03-03, 20:34:55](https://lobste.rs/s/ffhqcr/rpypkgs_nix_flake_for_rpython) - [rpypkgs: A Nix flake for RPython interpreters](https://osdn.net/users/corbin/pf/rpypkgs/wiki/FrontPage)
 * [2024-03-03, 19:50:04](https://lobste.rs/s/kggf5x/real_gaming_router) - [Real gaming router](https://kittenlabs.de/real-gaming-router/)
@@ -13,7 +14,6 @@
 * [2024-03-03, 10:19:53](https://lobste.rs/s/fcvtpi/pyproject_nix_nix_tooling_for_python) - [Pyproject.nix - Nix tooling for Python project metadata](https://nix-community.github.io/pyproject.nix/)
 * [2024-03-03, 09:06:15](https://lobste.rs/s/za1yyr/bash_debugging) - [bash debugging](https://wizardzines.com/comics/bash-debugging/)
 * [2024-03-03, 08:41:47](https://lobste.rs/s/x5quzh/better_pc_cooling_with_python_grafana) - [Better PC cooling with Python and Grafana](https://calbryant.uk/blog/better-pc-cooling-with-python/)
-* [2024-03-03, 08:23:36](https://lobste.rs/s/erqv00/evolution_programmer) - [The Evolution of a Programmer](https://www.ariel.com.au/jokes/The_Evolution_of_a_Programmer.html)
 * [2024-03-03, 08:05:39](https://lobste.rs/s/ktghxo/what_i_like_about_go) - [What I like about Go](https://lu.sagebl.eu/notes/what-i-like-about-go/)
 * [2024-03-03, 05:28:33](https://lobste.rs/s/rwgmsn/one_billion_row_challenge_go_from_1m45s_4s) - [The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions](https://benhoyt.com/writings/go-1brc/)
 * [2024-03-03, 04:32:30](https://lobste.rs/s/wk0g3w/why_single_vendor_is_new_proprietary) - [Why single vendor is the new proprietary](https://opensource.net/why-single-vendor-is-the-new-proprietary/)
