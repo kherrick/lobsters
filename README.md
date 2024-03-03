@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-03, 17:32:44](https://lobste.rs/s/ngyuim/algebraic_structure_infinite_craft) - [The algebraic structure of Infinite Craft](https://quuxplusone.github.io/blog/2024/03/03/infinite-craft-theory/)
 * [2024-03-03, 13:19:06](https://lobste.rs/s/a3zlgq/what_software_do_you_dream_about_do_not) - [What software do you dream about, but do not have time to code yourself?](https://lobste.rs/s/a3zlgq/what_software_do_you_dream_about_do_not)
 * [2024-03-03, 12:48:17](https://lobste.rs/s/t8wrjz/deep_dive_into_underlying_architecture) - [A Deep Dive into the Underlying Architecture of Groq's LPU](https://codeconfessions.substack.com/p/groq-lpu-design)
 * [2024-03-03, 12:08:37](https://lobste.rs/s/hlm7cz/unexpected_slowdown_caused_by_msvcrt_s) - [Unexpected slowdown caused by msvcrt's allocator](https://codeforces.com/blog/entry/126677)
@@ -22,7 +23,6 @@
 * [2024-03-02, 09:51:30](https://lobste.rs/s/2n5v8d/deploying_fiber_home) - [Deploying Fiber In The Home](https://blog.daknob.net/fiber-in-the-home/)
 * [2024-03-02, 03:43:56](https://lobste.rs/s/by7kxq/saved_by_nixos_integration_tests) - [Saved by NixOS Integration Tests, Surprisingly](https://boinkor.net/2024/02/saved-by-nixos-integration-tests-surprisingly/)
 * [2024-03-02, 02:51:30](https://lobste.rs/s/hf2osg/increase_test_fidelity_by_avoiding_mocks) - [Increase Test Fidelity By Avoiding Mocks](https://testing.googleblog.com/2024/02/increase-test-fidelity-by-avoiding-mocks.html)
-* [2024-03-02, 01:34:44](https://lobste.rs/s/2iogwz/git_programmatic_staging) - [Git: programmatic staging](https://choly.ca/post/git-programmatic-staging/)
 * [2024-03-01, 21:00:06](https://lobste.rs/s/uuqf74/pgs_sh_zero_install_static_site_hosting) - [pgs.sh - A zero-install static site hosting service for hackers](https://pgs.sh)
 * [2024-03-01, 18:24:50](https://lobste.rs/s/qjivsc/communications_acm_is_now_open_access) - [Communications of the ACM Is Now Open Access](https://cacm.acm.org/news/cacm-is-now-open-access-2/)
 
