@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-03, 22:33:39",
+      "https://lobste.rs/s/qltpm0/defining_measuring_managing_technical"
+    ],
+    [
+      "Defining, Measuring, and Managing Technical Debt",
+      "https://ieeexplore.ieee.org/document/10109339"
+    ]
+  ],
+  [
+    [
       "2024-03-03, 22:12:04",
       "https://lobste.rs/s/rqjoff/reinventing_backend_subsetting_at"
     ],
@@ -237,16 +247,6 @@
     [
       "Saved by NixOS Integration Tests, Surprisingly",
       "https://boinkor.net/2024/02/saved-by-nixos-integration-tests-surprisingly/"
-    ]
-  ],
-  [
-    [
-      "2024-03-01, 21:00:06",
-      "https://lobste.rs/s/uuqf74/pgs_sh_zero_install_static_site_hosting"
-    ],
-    [
-      "pgs.sh - A zero-install static site hosting service for hackers",
-      "https://pgs.sh"
     ]
   ]
 ]
