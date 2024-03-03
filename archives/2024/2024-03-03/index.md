@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 12:08:37](https://lobste.rs/s/hlm7cz/unexpected_slowdown_caused_by_msvcrt_s) - [Unexpected slowdown caused by msvcrt's allocator](https://codeforces.com/blog/entry/126677)
+* [2024-03-03, 12:03:07](https://lobste.rs/s/osxzyi/unresolved_forces) - [Unresolved Forces](https://www.unresolvedforces.com/)
 * [2024-03-03, 11:35:03](https://lobste.rs/s/rx0810/memory_unsafety_is_culture_issue) - [Memory Unsafety is a Culture Issue](https://btmc.substack.com/p/memory-unsafety-is-a-culture-issue)
 * [2024-03-03, 11:33:34](https://lobste.rs/s/fo7udp/atuin_magical_shell_history) - [atuin: Magical shell history](https://github.com/atuinsh/atuin)
 * [2024-03-03, 10:19:53](https://lobste.rs/s/fcvtpi/pyproject_nix_nix_tooling_for_python) - [Pyproject.nix - Nix tooling for Python project metadata](https://nix-community.github.io/pyproject.nix/)
