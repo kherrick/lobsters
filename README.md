@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-03, 11:35:03](https://lobste.rs/s/rx0810/memory_unsafety_is_culture_issue) - [Memory Unsafety is a Culture Issue](https://btmc.substack.com/p/memory-unsafety-is-a-culture-issue)
+* [2024-03-03, 11:33:34](https://lobste.rs/s/fo7udp/atuin_magical_shell_history) - [atuin: Magical shell history](https://github.com/atuinsh/atuin)
 * [2024-03-03, 10:19:53](https://lobste.rs/s/fcvtpi/pyproject_nix_nix_tooling_for_python) - [Pyproject.nix - Nix tooling for Python project metadata](https://nix-community.github.io/pyproject.nix/)
 * [2024-03-03, 09:06:15](https://lobste.rs/s/za1yyr/bash_debugging) - [bash debugging](https://wizardzines.com/comics/bash-debugging/)
 * [2024-03-03, 08:41:47](https://lobste.rs/s/x5quzh/better_pc_cooling_with_python_grafana) - [Better PC cooling with Python and Grafana](https://calbryant.uk/blog/better-pc-cooling-with-python/)
@@ -16,14 +18,12 @@
 * [2024-03-02, 11:59:44](https://lobste.rs/s/r2ebsu/hardenedbsd_february_2024_status_report) - [HardenedBSD February 2024 status report](https://hardenedbsd.org/article/shawn-webb/2024-03-01/hardenedbsd-february-2024-status-report)
 * [2024-03-02, 11:47:39](https://lobste.rs/s/uk3b7b/artprompt_ascii_art_based_jailbreak) - [ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs](https://arxiv.org/abs/2402.11753)
 * [2024-03-02, 09:51:30](https://lobste.rs/s/2n5v8d/deploying_fiber_home) - [Deploying Fiber In The Home](https://blog.daknob.net/fiber-in-the-home/)
-* [2024-03-02, 06:07:00](https://lobste.rs/s/d50dak/mojo_css_atomic_framework_for_building) - [Mojo CSS: Atomic framework for building UIs without shipping CSS](https://mojocss.com/)
 * [2024-03-02, 03:43:56](https://lobste.rs/s/by7kxq/saved_by_nixos_integration_tests) - [Saved by NixOS Integration Tests, Surprisingly](https://boinkor.net/2024/02/saved-by-nixos-integration-tests-surprisingly/)
 * [2024-03-02, 02:51:30](https://lobste.rs/s/hf2osg/increase_test_fidelity_by_avoiding_mocks) - [Increase Test Fidelity By Avoiding Mocks](https://testing.googleblog.com/2024/02/increase-test-fidelity-by-avoiding-mocks.html)
 * [2024-03-02, 01:34:44](https://lobste.rs/s/2iogwz/git_programmatic_staging) - [Git: programmatic staging](https://choly.ca/post/git-programmatic-staging/)
 * [2024-03-01, 21:00:06](https://lobste.rs/s/uuqf74/pgs_sh_zero_install_static_site_hosting) - [pgs.sh - A zero-install static site hosting service for hackers](https://pgs.sh)
 * [2024-03-01, 18:24:50](https://lobste.rs/s/qjivsc/communications_acm_is_now_open_access) - [Communications of the ACM Is Now Open Access](https://cacm.acm.org/news/cacm-is-now-open-access-2/)
 * [2024-03-01, 16:27:08](https://lobste.rs/s/e01bcb/he_who_controls_bootloader_microsoft) - [\"He Who Controls the Bootloader\" – Microsoft prevented Hitachi from installing a bootloader on its PCs with preinstalled BeOS (2001)](https://birdhouse.org/beos/byte/30-bootloader/)
-* [2024-03-01, 13:53:50](https://lobste.rs/s/janrdo/list_2024_leap_day_bugs) - [List of 2024 Leap Day Bugs](https://codeofmatt.com/list-of-2024-leap-day-bugs/)
 * [2024-03-01, 09:53:03](https://lobste.rs/s/fvnt4l/k8s_service_meshes_bill_comes_due) - [K8s Service Meshes: The Bill Comes Due](https://matduggan.com/k8s-service-meshes/)
 
 ## [Archives](archives/index.md)

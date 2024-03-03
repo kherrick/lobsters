@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-03](index.md)
 
+* [2024-03-03, 11:35:03](https://lobste.rs/s/rx0810/memory_unsafety_is_culture_issue) - [Memory Unsafety is a Culture Issue](https://btmc.substack.com/p/memory-unsafety-is-a-culture-issue)
+* [2024-03-03, 11:33:34](https://lobste.rs/s/fo7udp/atuin_magical_shell_history) - [atuin: Magical shell history](https://github.com/atuinsh/atuin)
 * [2024-03-03, 10:19:53](https://lobste.rs/s/fcvtpi/pyproject_nix_nix_tooling_for_python) - [Pyproject.nix - Nix tooling for Python project metadata](https://nix-community.github.io/pyproject.nix/)
 * [2024-03-03, 09:06:15](https://lobste.rs/s/za1yyr/bash_debugging) - [bash debugging](https://wizardzines.com/comics/bash-debugging/)
 * [2024-03-03, 08:41:47](https://lobste.rs/s/x5quzh/better_pc_cooling_with_python_grafana) - [Better PC cooling with Python and Grafana](https://calbryant.uk/blog/better-pc-cooling-with-python/)
