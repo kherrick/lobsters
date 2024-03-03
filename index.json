@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-03, 12:48:17",
+      "https://lobste.rs/s/t8wrjz/deep_dive_into_underlying_architecture"
+    ],
+    [
+      "A Deep Dive into the Underlying Architecture of Groq's LPU",
+      "https://codeconfessions.substack.com/p/groq-lpu-design"
+    ]
+  ],
+  [
+    [
       "2024-03-03, 12:08:37",
       "https://lobste.rs/s/hlm7cz/unexpected_slowdown_caused_by_msvcrt_s"
     ],
@@ -237,16 +247,6 @@
     [
       "Communications of the ACM Is Now Open Access",
       "https://cacm.acm.org/news/cacm-is-now-open-access-2/"
-    ]
-  ],
-  [
-    [
-      "2024-03-01, 09:53:03",
-      "https://lobste.rs/s/fvnt4l/k8s_service_meshes_bill_comes_due"
-    ],
-    [
-      "K8s Service Meshes: The Bill Comes Due",
-      "https://matduggan.com/k8s-service-meshes/"
     ]
   ]
 ]
