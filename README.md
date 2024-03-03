@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-03, 18:00:48](https://lobste.rs/s/tbug0e/interesting_ideas_observable_framework) - [Interesting ideas in Observable Framework](https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/)
 * [2024-03-03, 17:32:44](https://lobste.rs/s/ngyuim/algebraic_structure_infinite_craft) - [The algebraic structure of Infinite Craft](https://quuxplusone.github.io/blog/2024/03/03/infinite-craft-theory/)
 * [2024-03-03, 13:19:06](https://lobste.rs/s/a3zlgq/what_software_do_you_dream_about_do_not) - [What software do you dream about, but do not have time to code yourself?](https://lobste.rs/s/a3zlgq/what_software_do_you_dream_about_do_not)
 * [2024-03-03, 12:48:17](https://lobste.rs/s/t8wrjz/deep_dive_into_underlying_architecture) - [A Deep Dive into the Underlying Architecture of Groq's LPU](https://codeconfessions.substack.com/p/groq-lpu-design)
@@ -18,7 +19,6 @@
 * [2024-03-02, 22:13:15](https://lobste.rs/s/qpeggs/case_against_geometric_algebra) - [The Case Against Geometric Algebra](https://alexkritchevsky.com/2024/02/28/geometric-algebra.html)
 * [2024-03-02, 19:51:06](https://lobste.rs/s/tqcvh7/how_user_groups_made_software_reuse) - [How User Groups Made Software Reuse a Reality](https://ztoz.blog/posts/user-group-reuse/)
 * [2024-03-02, 16:21:55](https://lobste.rs/s/kuzrfv/unum_pattern_2019) - [The Unum Pattern (2019)](http://habitatchronicles.com/2019/08/the-unum-pattern/)
-* [2024-03-02, 16:12:11](https://lobste.rs/s/toot8g/punyo_soft_robot_for_whole_body) - [Punyo, Soft Robot for Whole-Body Manipulation](https://youtu.be/FY-MD4gteeE)
 * [2024-03-02, 11:47:39](https://lobste.rs/s/uk3b7b/artprompt_ascii_art_based_jailbreak) - [ArtPrompt: ASCII Art-based Jailbreak Attacks against Aligned LLMs](https://arxiv.org/abs/2402.11753)
 * [2024-03-02, 09:51:30](https://lobste.rs/s/2n5v8d/deploying_fiber_home) - [Deploying Fiber In The Home](https://blog.daknob.net/fiber-in-the-home/)
 * [2024-03-02, 03:43:56](https://lobste.rs/s/by7kxq/saved_by_nixos_integration_tests) - [Saved by NixOS Integration Tests, Surprisingly](https://boinkor.net/2024/02/saved-by-nixos-integration-tests-surprisingly/)
