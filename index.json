@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-04, 03:45:04",
+      "https://lobste.rs/s/evkwse/motion_blur_all_way_down"
+    ],
+    [
+      "Motion Blur All the Way Down",
+      "https://www.osar.fr/notes/motionblur/"
+    ]
+  ],
+  [
+    [
+      "2024-03-04, 03:11:24",
+      "https://lobste.rs/s/6bdodx/how_we_applied_advanced_fuzzing"
+    ],
+    [
+      "How we applied advanced fuzzing techniques to cURL",
+      "https://blog.trailofbits.com/2024/03/01/toward-more-effective-curl-fuzzing/"
+    ]
+  ],
+  [
+    [
       "2024-03-04, 02:32:57",
       "https://lobste.rs/s/q9oqj4/bugs_i_ve_filed_on_browsers"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-03-03, 12:03:07",
-      "https://lobste.rs/s/osxzyi/unresolved_forces"
-    ],
-    [
-      "Unresolved Forces",
-      "https://www.unresolvedforces.com/"
-    ]
-  ],
-  [
-    [
       "2024-03-03, 11:33:34",
       "https://lobste.rs/s/fo7udp/atuin_magical_shell_history"
     ],
@@ -187,16 +197,6 @@
     [
       "Pyproject.nix - Nix tooling for Python project metadata",
       "https://nix-community.github.io/pyproject.nix/"
-    ]
-  ],
-  [
-    [
-      "2024-03-03, 08:41:47",
-      "https://lobste.rs/s/x5quzh/better_pc_cooling_with_python_grafana"
-    ],
-    [
-      "Better PC cooling with Python and Grafana",
-      "https://calbryant.uk/blog/better-pc-cooling-with-python/"
     ]
   ],
   [
