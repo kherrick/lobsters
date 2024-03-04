@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2024-03-04, 07:18:41",
+      "https://lobste.rs/s/gluyhi/migrating_from_lsp_mode_eglot"
+    ],
+    [
+      "Migrating from LSP-Mode to Eglot",
+      "https://andreyor.st/posts/2023-09-09-migrating-from-lsp-mode-to-eglot/"
+    ]
+  ],
+  [
+    [
       "2024-03-04, 03:45:04",
       "https://lobste.rs/s/evkwse/motion_blur_all_way_down"
     ],
@@ -187,16 +197,6 @@
     [
       "The hater’s guide to Kubernetes",
       "https://paulbutler.org/2024/the-haters-guide-to-kubernetes/"
-    ]
-  ],
-  [
-    [
-      "2024-03-03, 20:34:55",
-      "https://lobste.rs/s/ffhqcr/rpypkgs_nix_flake_for_rpython"
-    ],
-    [
-      "rpypkgs: A Nix flake for RPython interpreters",
-      "https://osdn.net/users/corbin/pf/rpypkgs/wiki/FrontPage"
     ]
   ],
   [
