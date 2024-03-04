@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-04, 03:45:04](https://lobste.rs/s/evkwse/motion_blur_all_way_down) - [Motion Blur All the Way Down](https://www.osar.fr/notes/motionblur/)
+* [2024-03-04, 03:11:24](https://lobste.rs/s/6bdodx/how_we_applied_advanced_fuzzing) - [How we applied advanced fuzzing techniques to cURL](https://blog.trailofbits.com/2024/03/01/toward-more-effective-curl-fuzzing/)
 * [2024-03-04, 02:32:57](https://lobste.rs/s/q9oqj4/bugs_i_ve_filed_on_browsers) - [Bugs I’ve filed on browsers](https://nolanlawson.com/2024/03/03/bugs-ive-filed-on-browsers/)
 * [2024-03-04, 00:46:40](https://lobste.rs/s/fayqjl/what_happens_when_you_push_git_sr_ht_why_was) - [What happens when you push to git.sr.ht, and why was it so slow? (2019)](https://sourcehut.org/blog/2019-11-22-what-happens-on-git-push/)
 * [2024-03-04, 00:16:25](https://lobste.rs/s/ioielp/hater_s_guide_kubernetes) - [The hater’s guide to Kubernetes](https://paulbutler.org/2024/the-haters-guide-to-kubernetes/)
@@ -16,10 +18,8 @@
 * [2024-03-03, 13:19:06](https://lobste.rs/s/a3zlgq/what_software_do_you_dream_about_do_not) - [What software do you dream about, but do not have time to code yourself?](https://lobste.rs/s/a3zlgq/what_software_do_you_dream_about_do_not)
 * [2024-03-03, 12:48:17](https://lobste.rs/s/t8wrjz/deep_dive_into_underlying_architecture) - [A Deep Dive into the Underlying Architecture of Groq's LPU](https://codeconfessions.substack.com/p/groq-lpu-design)
 * [2024-03-03, 12:08:37](https://lobste.rs/s/hlm7cz/unexpected_slowdown_caused_by_msvcrt_s) - [Unexpected slowdown caused by msvcrt's allocator](https://codeforces.com/blog/entry/126677)
-* [2024-03-03, 12:03:07](https://lobste.rs/s/osxzyi/unresolved_forces) - [Unresolved Forces](https://www.unresolvedforces.com/)
 * [2024-03-03, 11:33:34](https://lobste.rs/s/fo7udp/atuin_magical_shell_history) - [atuin: Magical shell history](https://github.com/atuinsh/atuin)
 * [2024-03-03, 10:19:53](https://lobste.rs/s/fcvtpi/pyproject_nix_nix_tooling_for_python) - [Pyproject.nix - Nix tooling for Python project metadata](https://nix-community.github.io/pyproject.nix/)
-* [2024-03-03, 08:41:47](https://lobste.rs/s/x5quzh/better_pc_cooling_with_python_grafana) - [Better PC cooling with Python and Grafana](https://calbryant.uk/blog/better-pc-cooling-with-python/)
 * [2024-03-03, 08:05:39](https://lobste.rs/s/ktghxo/what_i_like_about_go) - [What I like about Go](https://lu.sagebl.eu/notes/what-i-like-about-go/)
 * [2024-03-03, 05:28:33](https://lobste.rs/s/rwgmsn/one_billion_row_challenge_go_from_1m45s_4s) - [The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions](https://benhoyt.com/writings/go-1brc/)
 * [2024-03-03, 04:32:30](https://lobste.rs/s/wk0g3w/why_single_vendor_is_new_proprietary) - [Why single vendor is the new proprietary](https://opensource.net/why-single-vendor-is-the-new-proprietary/)
