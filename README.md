@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-04, 14:32:49](https://lobste.rs/s/p8hsnt/server_actions_fastify) - [Server Actions in Fastify](https://hire.jonasgalvez.com.br/2024/mar/04/server-actions-in-fastify/)
 * [2024-03-04, 13:41:32](https://lobste.rs/s/lqy8ua/kolo_see_everything_happening_your) - [kolo: See everything happening in your running Django app without leaving VSCode](https://github.com/kolofordjango/kolo)
 * [2024-03-04, 13:40:50](https://lobste.rs/s/gkr4ur/twenty_years_is_nothing) - [Twenty Years Is Nothing](https://deprogrammaticaipsum.com/twenty-years-is-nothing/)
 * [2024-03-04, 13:38:57](https://lobste.rs/s/oefpps/gleam_version_1) - [Gleam version 1](https://gleam.run/news/gleam-version-1/)
@@ -21,7 +22,6 @@
 * [2024-03-03, 19:50:04](https://lobste.rs/s/kggf5x/real_gaming_router) - [Real gaming router](https://kittenlabs.de/real-gaming-router/)
 * [2024-03-03, 18:00:48](https://lobste.rs/s/tbug0e/interesting_ideas_observable_framework) - [Interesting ideas in Observable Framework](https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/)
 * [2024-03-03, 13:19:06](https://lobste.rs/s/a3zlgq/what_software_do_you_dream_about_do_not) - [What software do you dream about, but do not have time to code yourself?](https://lobste.rs/s/a3zlgq/what_software_do_you_dream_about_do_not)
-* [2024-03-03, 11:33:34](https://lobste.rs/s/fo7udp/atuin_magical_shell_history) - [atuin: Magical shell history](https://github.com/atuinsh/atuin)
 * [2024-03-03, 10:19:53](https://lobste.rs/s/fcvtpi/pyproject_nix_nix_tooling_for_python) - [Pyproject.nix - Nix tooling for Python project metadata](https://nix-community.github.io/pyproject.nix/)
 * [2024-03-03, 08:05:39](https://lobste.rs/s/ktghxo/what_i_like_about_go) - [What I like about Go](https://lu.sagebl.eu/notes/what-i-like-about-go/)
 * [2024-03-03, 05:28:33](https://lobste.rs/s/rwgmsn/one_billion_row_challenge_go_from_1m45s_4s) - [The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions](https://benhoyt.com/writings/go-1brc/)
