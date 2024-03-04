@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-04](index.md)
 
+* [2024-03-04, 07:18:41](https://lobste.rs/s/gluyhi/migrating_from_lsp_mode_eglot) - [Migrating from LSP-Mode to Eglot](https://andreyor.st/posts/2023-09-09-migrating-from-lsp-mode-to-eglot/)
 * [2024-03-04, 03:45:04](https://lobste.rs/s/evkwse/motion_blur_all_way_down) - [Motion Blur All the Way Down](https://www.osar.fr/notes/motionblur/)
 * [2024-03-04, 03:11:24](https://lobste.rs/s/6bdodx/how_we_applied_advanced_fuzzing) - [How we applied advanced fuzzing techniques to cURL](https://blog.trailofbits.com/2024/03/01/toward-more-effective-curl-fuzzing/)
 * [2024-03-04, 02:32:57](https://lobste.rs/s/q9oqj4/bugs_i_ve_filed_on_browsers) - [Bugs I’ve filed on browsers](https://nolanlawson.com/2024/03/03/bugs-ive-filed-on-browsers/)

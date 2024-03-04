@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-04, 07:18:41](https://lobste.rs/s/gluyhi/migrating_from_lsp_mode_eglot) - [Migrating from LSP-Mode to Eglot](https://andreyor.st/posts/2023-09-09-migrating-from-lsp-mode-to-eglot/)
 * [2024-03-04, 03:45:04](https://lobste.rs/s/evkwse/motion_blur_all_way_down) - [Motion Blur All the Way Down](https://www.osar.fr/notes/motionblur/)
 * [2024-03-04, 03:11:24](https://lobste.rs/s/6bdodx/how_we_applied_advanced_fuzzing) - [How we applied advanced fuzzing techniques to cURL](https://blog.trailofbits.com/2024/03/01/toward-more-effective-curl-fuzzing/)
 * [2024-03-04, 02:32:57](https://lobste.rs/s/q9oqj4/bugs_i_ve_filed_on_browsers) - [Bugs I’ve filed on browsers](https://nolanlawson.com/2024/03/03/bugs-ive-filed-on-browsers/)
@@ -22,7 +23,6 @@
 * [2024-03-03, 10:19:53](https://lobste.rs/s/fcvtpi/pyproject_nix_nix_tooling_for_python) - [Pyproject.nix - Nix tooling for Python project metadata](https://nix-community.github.io/pyproject.nix/)
 * [2024-03-03, 08:05:39](https://lobste.rs/s/ktghxo/what_i_like_about_go) - [What I like about Go](https://lu.sagebl.eu/notes/what-i-like-about-go/)
 * [2024-03-03, 05:28:33](https://lobste.rs/s/rwgmsn/one_billion_row_challenge_go_from_1m45s_4s) - [The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions](https://benhoyt.com/writings/go-1brc/)
-* [2024-03-03, 04:32:30](https://lobste.rs/s/wk0g3w/why_single_vendor_is_new_proprietary) - [Why single vendor is the new proprietary](https://opensource.net/why-single-vendor-is-the-new-proprietary/)
 * [2024-03-03, 02:34:51](https://lobste.rs/s/cmwwhl/apple_district_manager_s_macintosh) - [An Apple district manager's Macintosh Portable in 1989-91 (featuring GEIS AppleLink and a look at System 7.0 alpha)](https://oldvcr.blogspot.com/2024/03/an-apple-district-managers-macintosh.html)
 * [2024-03-02, 22:13:15](https://lobste.rs/s/qpeggs/case_against_geometric_algebra) - [The Case Against Geometric Algebra](https://alexkritchevsky.com/2024/02/28/geometric-algebra.html)
 
