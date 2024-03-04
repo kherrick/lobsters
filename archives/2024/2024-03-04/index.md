@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-04](index.md)
 
+* [2024-03-04, 09:15:42](https://lobste.rs/s/2rgqso/ghostbsd_24_01_1_review) - [GhostBSD 24.01.1 Review](https://www.youtube.com/watch?v=eQoYCp3Yak4)
+* [2024-03-04, 08:28:27](https://lobste.rs/s/y9llde/how_i_clean_up_clean_install_windows_11) - [How I clean up a “clean install” of Windows 11 and Edge](https://arstechnica.com/gadgets/2024/02/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/)
 * [2024-03-04, 07:18:41](https://lobste.rs/s/gluyhi/migrating_from_lsp_mode_eglot) - [Migrating from LSP-Mode to Eglot](https://andreyor.st/posts/2023-09-09-migrating-from-lsp-mode-to-eglot/)
 * [2024-03-04, 03:45:04](https://lobste.rs/s/evkwse/motion_blur_all_way_down) - [Motion Blur All the Way Down](https://www.osar.fr/notes/motionblur/)
 * [2024-03-04, 03:11:24](https://lobste.rs/s/6bdodx/how_we_applied_advanced_fuzzing) - [How we applied advanced fuzzing techniques to cURL](https://blog.trailofbits.com/2024/03/01/toward-more-effective-curl-fuzzing/)
