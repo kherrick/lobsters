@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-03-04, 16:40:55](https://lobste.rs/s/uhmhum/hunt_for_missing_data_type) - [The Hunt for the Missing Data Type](https://www.hillelwayne.com/post/graph-types/)
+* [2024-03-04, 16:37:26](https://lobste.rs/s/xeslzt/perils_pause_2_2023) - [The perils of pause(2) (2023)](https://www.cipht.net/2023/11/30/perils-of-pause.html)
 * [2024-03-04, 16:16:35](https://lobste.rs/s/aunvm8/hacky_spell_checking_for_blog_posts) - [Hacky Spell Checking for Blog Posts](https://tudorr.ro/blog/easy-spell-checking/)
 * [2024-03-04, 16:02:27](https://lobste.rs/s/kvck8i/reverse_engineering_protobuf) - [Reverse Engineering Protobuf Definitions From Compiled Binaries](https://arkadiyt.com/2024/03/03/reverse-engineering-protobuf-definitiions-from-compiled-binaries/)
 * [2024-03-04, 14:32:49](https://lobste.rs/s/p8hsnt/server_actions_fastify) - [Server Actions in Fastify](https://hire.jonasgalvez.com.br/2024/mar/04/server-actions-in-fastify/)
@@ -18,7 +19,6 @@
 * [2024-03-04, 03:45:04](https://lobste.rs/s/evkwse/motion_blur_all_way_down) - [Motion Blur All the Way Down](https://www.osar.fr/notes/motionblur/)
 * [2024-03-04, 02:32:57](https://lobste.rs/s/q9oqj4/bugs_i_ve_filed_on_browsers) - [Bugs I’ve filed on browsers](https://nolanlawson.com/2024/03/03/bugs-ive-filed-on-browsers/)
 * [2024-03-04, 00:16:25](https://lobste.rs/s/ioielp/hater_s_guide_kubernetes) - [The hater’s guide to Kubernetes](https://paulbutler.org/2024/the-haters-guide-to-kubernetes/)
-* [2024-03-04, 00:05:13](https://lobste.rs/s/avsjrt/ea_won_t_let_me_play_this_game_so_i_hacked_it) - [EA Won't Let Me Play This Game - So I Hacked It](https://www.youtube.com/watch?v=tE2mZ_t_mts)
 * [2024-03-03, 20:34:55](https://lobste.rs/s/ffhqcr/rpypkgs_nix_flake_for_rpython) - [rpypkgs: A Nix flake for RPython interpreters](https://osdn.net/users/corbin/pf/rpypkgs/wiki/FrontPage)
 * [2024-03-03, 19:50:04](https://lobste.rs/s/kggf5x/real_gaming_router) - [Real gaming router](https://kittenlabs.de/real-gaming-router/)
 * [2024-03-03, 18:00:48](https://lobste.rs/s/tbug0e/interesting_ideas_observable_framework) - [Interesting ideas in Observable Framework](https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/)
