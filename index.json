@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-04, 12:09:37",
+      "https://lobste.rs/s/isblfq/htmnix_html_for_nix_rule_them_all"
+    ],
+    [
+      "HTMNIX: HTML for Nix to rule them all",
+      "https://github.com/RGBCube/HTMNIX"
+    ]
+  ],
+  [
+    [
+      "2024-03-04, 12:03:57",
+      "https://lobste.rs/s/i4clhf/lobste_rs_poetry"
+    ],
+    [
+      "Lobste.rs Poetry",
+      "https://lobsterspoetry.jamesg.blog/"
+    ]
+  ],
+  [
+    [
       "2024-03-04, 11:45:16",
       "https://lobste.rs/s/nth9zo/building_demo_bleichenbacher_rsa_attack"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-03-03, 22:33:39",
-      "https://lobste.rs/s/qltpm0/defining_measuring_managing_technical"
-    ],
-    [
-      "Defining, Measuring, and Managing Technical Debt",
-      "https://ieeexplore.ieee.org/document/10109339"
-    ]
-  ],
-  [
-    [
       "2024-03-03, 22:12:04",
       "https://lobste.rs/s/rqjoff/reinventing_backend_subsetting_at"
     ],
@@ -197,16 +207,6 @@
     [
       "What software do you dream about, but do not have time to code yourself?",
       "https://lobste.rs/s/a3zlgq/what_software_do_you_dream_about_do_not"
-    ]
-  ],
-  [
-    [
-      "2024-03-03, 12:48:17",
-      "https://lobste.rs/s/t8wrjz/deep_dive_into_underlying_architecture"
-    ],
-    [
-      "A Deep Dive into the Underlying Architecture of Groq's LPU",
-      "https://codeconfessions.substack.com/p/groq-lpu-design"
     ]
   ],
   [
