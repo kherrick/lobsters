@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-04, 02:32:57](https://lobste.rs/s/q9oqj4/bugs_i_ve_filed_on_browsers) - [Bugs I’ve filed on browsers](https://nolanlawson.com/2024/03/03/bugs-ive-filed-on-browsers/)
 * [2024-03-04, 00:46:40](https://lobste.rs/s/fayqjl/what_happens_when_you_push_git_sr_ht_why_was) - [What happens when you push to git.sr.ht, and why was it so slow? (2019)](https://sourcehut.org/blog/2019-11-22-what-happens-on-git-push/)
 * [2024-03-04, 00:16:25](https://lobste.rs/s/ioielp/hater_s_guide_kubernetes) - [The hater’s guide to Kubernetes](https://paulbutler.org/2024/the-haters-guide-to-kubernetes/)
 * [2024-03-04, 00:05:13](https://lobste.rs/s/avsjrt/ea_won_t_let_me_play_this_game_so_i_hacked_it) - [EA Won't Let Me Play This Game - So I Hacked It](https://www.youtube.com/watch?v=tE2mZ_t_mts)
@@ -24,7 +25,6 @@
 * [2024-03-03, 04:32:30](https://lobste.rs/s/wk0g3w/why_single_vendor_is_new_proprietary) - [Why single vendor is the new proprietary](https://opensource.net/why-single-vendor-is-the-new-proprietary/)
 * [2024-03-03, 02:34:51](https://lobste.rs/s/cmwwhl/apple_district_manager_s_macintosh) - [An Apple district manager's Macintosh Portable in 1989-91 (featuring GEIS AppleLink and a look at System 7.0 alpha)](https://oldvcr.blogspot.com/2024/03/an-apple-district-managers-macintosh.html)
 * [2024-03-02, 22:13:15](https://lobste.rs/s/qpeggs/case_against_geometric_algebra) - [The Case Against Geometric Algebra](https://alexkritchevsky.com/2024/02/28/geometric-algebra.html)
-* [2024-03-02, 03:43:56](https://lobste.rs/s/by7kxq/saved_by_nixos_integration_tests) - [Saved by NixOS Integration Tests, Surprisingly](https://boinkor.net/2024/02/saved-by-nixos-integration-tests-surprisingly/)
 
 ## [Archives](archives/index.md)
 
