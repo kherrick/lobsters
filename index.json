@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-03-04, 17:06:06",
-      "https://lobste.rs/s/eexxse/reading_json_from_rails_api_swift"
-    ],
-    [
-      "Reading JSON from a Rails API in Swift",
-      "https://calebhearth.com/l/rails-json-swift"
-    ]
-  ],
-  [
-    [
       "2024-03-04, 16:40:55",
       "https://lobste.rs/s/uhmhum/hunt_for_missing_data_type"
     ],
@@ -237,6 +227,16 @@
     [
       "What software do you dream about, but do not have time to code yourself?",
       "https://lobste.rs/s/a3zlgq/what_software_do_you_dream_about_do_not"
+    ]
+  ],
+  [
+    [
+      "2024-03-03, 10:19:53",
+      "https://lobste.rs/s/fcvtpi/pyproject_nix_nix_tooling_for_python"
+    ],
+    [
+      "Pyproject.nix - Nix tooling for Python project metadata",
+      "https://nix-community.github.io/pyproject.nix/"
     ]
   ],
   [
