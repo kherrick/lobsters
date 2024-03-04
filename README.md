@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-04, 18:33:46](https://lobste.rs/s/ek9wvm/borrow_checking_without_lifetimes) - [Borrow checking without lifetimes](https://smallcultfollowing.com/babysteps/blog/2024/03/04/borrow-checking-without-lifetimes/)
+* [2024-03-04, 18:33:24](https://lobste.rs/s/vbrnhk/opus_1_5_released) - [Opus 1.5 Released](https://opus-codec.org/demo/opus-1.5/)
 * [2024-03-04, 17:34:06](https://lobste.rs/s/o57m31/no_silver_bullet_1987) - [No Silver Bullet (1987)](https://www.cgl.ucsf.edu/Outreach/pc204/NoSilverBullet.html)
 * [2024-03-04, 16:40:55](https://lobste.rs/s/uhmhum/hunt_for_missing_data_type) - [The Hunt for the Missing Data Type](https://www.hillelwayne.com/post/graph-types/)
 * [2024-03-04, 16:37:26](https://lobste.rs/s/xeslzt/perils_pause_2_2023) - [The perils of pause(2) (2023)](https://www.cipht.net/2023/11/30/perils-of-pause.html)
 * [2024-03-04, 16:16:35](https://lobste.rs/s/aunvm8/hacky_spell_checking_for_blog_posts) - [Hacky Spell Checking for Blog Posts](https://tudorr.ro/blog/easy-spell-checking/)
 * [2024-03-04, 16:02:27](https://lobste.rs/s/kvck8i/reverse_engineering_protobuf) - [Reverse Engineering Protobuf Definitions From Compiled Binaries](https://arkadiyt.com/2024/03/03/reverse-engineering-protobuf-definitiions-from-compiled-binaries/)
-* [2024-03-04, 14:32:49](https://lobste.rs/s/p8hsnt/server_actions_fastify) - [Server Actions in Fastify](https://hire.jonasgalvez.com.br/2024/mar/04/server-actions-in-fastify/)
 * [2024-03-04, 13:41:32](https://lobste.rs/s/lqy8ua/kolo_see_everything_happening_your) - [kolo: See everything happening in your running Django app without leaving VSCode](https://github.com/kolofordjango/kolo)
 * [2024-03-04, 13:40:50](https://lobste.rs/s/gkr4ur/twenty_years_is_nothing) - [Twenty Years Is Nothing](https://deprogrammaticaipsum.com/twenty-years-is-nothing/)
 * [2024-03-04, 13:38:57](https://lobste.rs/s/oefpps/gleam_version_1) - [Gleam version 1](https://gleam.run/news/gleam-version-1/)
@@ -23,7 +24,6 @@
 * [2024-03-03, 19:50:04](https://lobste.rs/s/kggf5x/real_gaming_router) - [Real gaming router](https://kittenlabs.de/real-gaming-router/)
 * [2024-03-03, 18:00:48](https://lobste.rs/s/tbug0e/interesting_ideas_observable_framework) - [Interesting ideas in Observable Framework](https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/)
 * [2024-03-03, 13:19:06](https://lobste.rs/s/a3zlgq/what_software_do_you_dream_about_do_not) - [What software do you dream about, but do not have time to code yourself?](https://lobste.rs/s/a3zlgq/what_software_do_you_dream_about_do_not)
-* [2024-03-03, 10:19:53](https://lobste.rs/s/fcvtpi/pyproject_nix_nix_tooling_for_python) - [Pyproject.nix - Nix tooling for Python project metadata](https://nix-community.github.io/pyproject.nix/)
 * [2024-03-03, 08:05:39](https://lobste.rs/s/ktghxo/what_i_like_about_go) - [What I like about Go](https://lu.sagebl.eu/notes/what-i-like-about-go/)
 
 ## [Archives](archives/index.md)
