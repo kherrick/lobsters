@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-04, 12:51:32](https://lobste.rs/s/tag7u5/anatomy_nixos_config) - [Anatomy of a NixOS Config](https://unmovedcentre.com/technology/2024/02/24/anatomy-of-a-nixos-config.html)
 * [2024-03-04, 12:41:15](https://lobste.rs/s/yvymoj/french_court_issues_damages_award_for) - [French Court Issues Damages Award for Violation of GPL](https://heathermeeker.com/2024/02/17/french-court-issues-damages-award-for-violation-of-gpl/)
 * [2024-03-04, 12:09:37](https://lobste.rs/s/isblfq/htmnix_html_for_nix_rule_them_all) - [HTMNIX: HTML for Nix to rule them all](https://github.com/RGBCube/HTMNIX)
 * [2024-03-04, 12:03:57](https://lobste.rs/s/i4clhf/lobste_rs_poetry) - [Lobste.rs Poetry](https://lobsterspoetry.jamesg.blog/)
@@ -7,7 +8,6 @@
 * [2024-03-04, 10:59:53](https://lobste.rs/s/kmwy1a/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kmwy1a/what_are_you_doing_this_week)
 * [2024-03-04, 10:57:29](https://lobste.rs/s/yuncnu/quiz_tool_for_rapid_openzfs_development) - [quiz: a tool for rapid OpenZFS development](https://despairlabs.com/blog/posts/2024-03-04-quiz-rapid-openzfs-development/)
 * [2024-03-04, 10:46:10](https://lobste.rs/s/rzwxs5/on_pausing_containers_how_we_built_why_we) - [On Pausing Containers - how we built, and why we deprecated, our container pause feature](https://metalbear.co/blog/on-pausing-containers-how-we-built-and-why-we-deprecated-our-container-pause-feature/)
-* [2024-03-04, 09:15:42](https://lobste.rs/s/2rgqso/ghostbsd_24_01_1_review) - [GhostBSD 24.01.1 Review](https://www.youtube.com/watch?v=eQoYCp3Yak4)
 * [2024-03-04, 08:28:27](https://lobste.rs/s/y9llde/how_i_clean_up_clean_install_windows_11) - [How I clean up a “clean install” of Windows 11 and Edge](https://arstechnica.com/gadgets/2024/02/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/)
 * [2024-03-04, 07:18:41](https://lobste.rs/s/gluyhi/migrating_from_lsp_mode_eglot) - [Migrating from LSP-Mode to Eglot](https://andreyor.st/posts/2023-09-09-migrating-from-lsp-mode-to-eglot/)
 * [2024-03-04, 03:45:04](https://lobste.rs/s/evkwse/motion_blur_all_way_down) - [Motion Blur All the Way Down](https://www.osar.fr/notes/motionblur/)
