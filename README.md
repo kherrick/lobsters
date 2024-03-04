@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-03-04, 17:34:06](https://lobste.rs/s/o57m31/no_silver_bullet_1987) - [No Silver Bullet (1987)](https://www.cgl.ucsf.edu/Outreach/pc204/NoSilverBullet.html)
-* [2024-03-04, 17:06:06](https://lobste.rs/s/eexxse/reading_json_from_rails_api_swift) - [Reading JSON from a Rails API in Swift](https://calebhearth.com/l/rails-json-swift)
 * [2024-03-04, 16:40:55](https://lobste.rs/s/uhmhum/hunt_for_missing_data_type) - [The Hunt for the Missing Data Type](https://www.hillelwayne.com/post/graph-types/)
 * [2024-03-04, 16:37:26](https://lobste.rs/s/xeslzt/perils_pause_2_2023) - [The perils of pause(2) (2023)](https://www.cipht.net/2023/11/30/perils-of-pause.html)
 * [2024-03-04, 16:16:35](https://lobste.rs/s/aunvm8/hacky_spell_checking_for_blog_posts) - [Hacky Spell Checking for Blog Posts](https://tudorr.ro/blog/easy-spell-checking/)
@@ -24,6 +23,7 @@
 * [2024-03-03, 19:50:04](https://lobste.rs/s/kggf5x/real_gaming_router) - [Real gaming router](https://kittenlabs.de/real-gaming-router/)
 * [2024-03-03, 18:00:48](https://lobste.rs/s/tbug0e/interesting_ideas_observable_framework) - [Interesting ideas in Observable Framework](https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/)
 * [2024-03-03, 13:19:06](https://lobste.rs/s/a3zlgq/what_software_do_you_dream_about_do_not) - [What software do you dream about, but do not have time to code yourself?](https://lobste.rs/s/a3zlgq/what_software_do_you_dream_about_do_not)
+* [2024-03-03, 10:19:53](https://lobste.rs/s/fcvtpi/pyproject_nix_nix_tooling_for_python) - [Pyproject.nix - Nix tooling for Python project metadata](https://nix-community.github.io/pyproject.nix/)
 * [2024-03-03, 08:05:39](https://lobste.rs/s/ktghxo/what_i_like_about_go) - [What I like about Go](https://lu.sagebl.eu/notes/what-i-like-about-go/)
 
 ## [Archives](archives/index.md)
