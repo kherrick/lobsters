@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-04, 12:41:15](https://lobste.rs/s/yvymoj/french_court_issues_damages_award_for) - [French Court Issues Damages Award for Violation of GPL](https://heathermeeker.com/2024/02/17/french-court-issues-damages-award-for-violation-of-gpl/)
 * [2024-03-04, 12:09:37](https://lobste.rs/s/isblfq/htmnix_html_for_nix_rule_them_all) - [HTMNIX: HTML for Nix to rule them all](https://github.com/RGBCube/HTMNIX)
 * [2024-03-04, 12:03:57](https://lobste.rs/s/i4clhf/lobste_rs_poetry) - [Lobste.rs Poetry](https://lobsterspoetry.jamesg.blog/)
 * [2024-03-04, 11:45:16](https://lobste.rs/s/nth9zo/building_demo_bleichenbacher_rsa_attack) - [Building a demo of the Bleichenbacher RSA attack](https://ntietz.com/blog/bleichenbachers-attack-on-rsa/)
@@ -16,7 +17,6 @@
 * [2024-03-04, 00:05:13](https://lobste.rs/s/avsjrt/ea_won_t_let_me_play_this_game_so_i_hacked_it) - [EA Won't Let Me Play This Game - So I Hacked It](https://www.youtube.com/watch?v=tE2mZ_t_mts)
 * [2024-03-03, 23:05:40](https://lobste.rs/s/vabkiq/tiny_predictive_text) - [Tiny Predictive Text](https://www.adamgrant.info/tiny-predictive-text)
 * [2024-03-03, 22:12:04](https://lobste.rs/s/rqjoff/reinventing_backend_subsetting_at) - [Reinventing Backend Subsetting at Google: Designing an algorithm with reduced connection churn that could replace deterministic subsetting](https://queue.acm.org/detail.cfm?id=3570937)
-* [2024-03-03, 21:25:10](https://lobste.rs/s/sdsaub/hancho_simple_pleasant_build_system) - [hancho: A simple pleasant build system in Python](https://github.com/aappleby/hancho)
 * [2024-03-03, 20:34:55](https://lobste.rs/s/ffhqcr/rpypkgs_nix_flake_for_rpython) - [rpypkgs: A Nix flake for RPython interpreters](https://osdn.net/users/corbin/pf/rpypkgs/wiki/FrontPage)
 * [2024-03-03, 19:50:04](https://lobste.rs/s/kggf5x/real_gaming_router) - [Real gaming router](https://kittenlabs.de/real-gaming-router/)
 * [2024-03-03, 18:00:48](https://lobste.rs/s/tbug0e/interesting_ideas_observable_framework) - [Interesting ideas in Observable Framework](https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/)

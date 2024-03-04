@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-04](index.md)
 
+* [2024-03-04, 12:41:15](https://lobste.rs/s/yvymoj/french_court_issues_damages_award_for) - [French Court Issues Damages Award for Violation of GPL](https://heathermeeker.com/2024/02/17/french-court-issues-damages-award-for-violation-of-gpl/)
 * [2024-03-04, 12:09:37](https://lobste.rs/s/isblfq/htmnix_html_for_nix_rule_them_all) - [HTMNIX: HTML for Nix to rule them all](https://github.com/RGBCube/HTMNIX)
 * [2024-03-04, 12:03:57](https://lobste.rs/s/i4clhf/lobste_rs_poetry) - [Lobste.rs Poetry](https://lobsterspoetry.jamesg.blog/)
 * [2024-03-04, 11:45:16](https://lobste.rs/s/nth9zo/building_demo_bleichenbacher_rsa_attack) - [Building a demo of the Bleichenbacher RSA attack](https://ntietz.com/blog/bleichenbachers-attack-on-rsa/)
