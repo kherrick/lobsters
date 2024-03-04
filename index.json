@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-04, 18:33:46",
+      "https://lobste.rs/s/ek9wvm/borrow_checking_without_lifetimes"
+    ],
+    [
+      "Borrow checking without lifetimes",
+      "https://smallcultfollowing.com/babysteps/blog/2024/03/04/borrow-checking-without-lifetimes/"
+    ]
+  ],
+  [
+    [
+      "2024-03-04, 18:33:24",
+      "https://lobste.rs/s/vbrnhk/opus_1_5_released"
+    ],
+    [
+      "Opus 1.5 Released",
+      "https://opus-codec.org/demo/opus-1.5/"
+    ]
+  ],
+  [
+    [
       "2024-03-04, 17:34:06",
       "https://lobste.rs/s/o57m31/no_silver_bullet_1987"
     ],
@@ -47,16 +67,6 @@
     [
       "Reverse Engineering Protobuf Definitions From Compiled Binaries",
       "https://arkadiyt.com/2024/03/03/reverse-engineering-protobuf-definitiions-from-compiled-binaries/"
-    ]
-  ],
-  [
-    [
-      "2024-03-04, 14:32:49",
-      "https://lobste.rs/s/p8hsnt/server_actions_fastify"
-    ],
-    [
-      "Server Actions in Fastify",
-      "https://hire.jonasgalvez.com.br/2024/mar/04/server-actions-in-fastify/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "What software do you dream about, but do not have time to code yourself?",
       "https://lobste.rs/s/a3zlgq/what_software_do_you_dream_about_do_not"
-    ]
-  ],
-  [
-    [
-      "2024-03-03, 10:19:53",
-      "https://lobste.rs/s/fcvtpi/pyproject_nix_nix_tooling_for_python"
-    ],
-    [
-      "Pyproject.nix - Nix tooling for Python project metadata",
-      "https://nix-community.github.io/pyproject.nix/"
     ]
   ],
   [
