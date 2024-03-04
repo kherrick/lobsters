@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-03-04, 11:45:16",
+      "https://lobste.rs/s/nth9zo/building_demo_bleichenbacher_rsa_attack"
+    ],
+    [
+      "Building a demo of the Bleichenbacher RSA attack",
+      "https://ntietz.com/blog/bleichenbachers-attack-on-rsa/"
+    ]
+  ],
+  [
+    [
+      "2024-03-04, 10:59:53",
+      "https://lobste.rs/s/kmwy1a/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/kmwy1a/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
+      "2024-03-04, 10:57:29",
+      "https://lobste.rs/s/yuncnu/quiz_tool_for_rapid_openzfs_development"
+    ],
+    [
+      "quiz: a tool for rapid OpenZFS development",
+      "https://despairlabs.com/blog/posts/2024-03-04-quiz-rapid-openzfs-development/"
+    ]
+  ],
+  [
+    [
+      "2024-03-04, 10:46:10",
+      "https://lobste.rs/s/rzwxs5/on_pausing_containers_how_we_built_why_we"
+    ],
+    [
+      "On Pausing Containers - how we built, and why we deprecated, our container pause feature",
+      "https://metalbear.co/blog/on-pausing-containers-how-we-built-and-why-we-deprecated-our-container-pause-feature/"
+    ]
+  ],
+  [
+    [
       "2024-03-04, 09:15:42",
       "https://lobste.rs/s/2rgqso/ghostbsd_24_01_1_review"
     ],
@@ -57,16 +97,6 @@
     [
       "Bugs I’ve filed on browsers",
       "https://nolanlawson.com/2024/03/03/bugs-ive-filed-on-browsers/"
-    ]
-  ],
-  [
-    [
-      "2024-03-04, 00:46:40",
-      "https://lobste.rs/s/fayqjl/what_happens_when_you_push_git_sr_ht_why_was"
-    ],
-    [
-      "What happens when you push to git.sr.ht, and why was it so slow? (2019)",
-      "https://sourcehut.org/blog/2019-11-22-what-happens-on-git-push/"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2024-03-03, 17:32:44",
-      "https://lobste.rs/s/ngyuim/algebraic_structure_infinite_craft"
-    ],
-    [
-      "The algebraic structure of Infinite Craft",
-      "https://quuxplusone.github.io/blog/2024/03/03/infinite-craft-theory/"
-    ]
-  ],
-  [
-    [
       "2024-03-03, 13:19:06",
       "https://lobste.rs/s/a3zlgq/what_software_do_you_dream_about_do_not"
     ],
@@ -227,26 +247,6 @@
     [
       "The One Billion Row Challenge in Go: from 1m45s to 4s in nine solutions",
       "https://benhoyt.com/writings/go-1brc/"
-    ]
-  ],
-  [
-    [
-      "2024-03-03, 02:34:51",
-      "https://lobste.rs/s/cmwwhl/apple_district_manager_s_macintosh"
-    ],
-    [
-      "An Apple district manager's Macintosh Portable in 1989-91 (featuring GEIS AppleLink and a look at System 7.0 alpha)",
-      "https://oldvcr.blogspot.com/2024/03/an-apple-district-managers-macintosh.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-02, 22:13:15",
-      "https://lobste.rs/s/qpeggs/case_against_geometric_algebra"
-    ],
-    [
-      "The Case Against Geometric Algebra",
-      "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html"
     ]
   ]
 ]
