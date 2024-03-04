@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-04](index.md)
 
+* [2024-03-04, 20:15:27](https://lobste.rs/s/1ubhsz/practicing_raku_grammars_on_exercism) - [Practicing Raku Grammars On Exercism](https://dev.to/dango/practicing-raku-grammars-on-exercism-36i4)
+* [2024-03-04, 20:04:54](https://lobste.rs/s/cnh6uz/nintendo_switch_emulator_yuzu_is_dead) - [Nintendo Switch emulator Yuzu is dead](https://storage.courtlistener.com/recap/gov.uscourts.rid.56980/gov.uscourts.rid.56980.10.0.pdf)
 * [2024-03-04, 18:33:46](https://lobste.rs/s/ek9wvm/borrow_checking_without_lifetimes) - [Borrow checking without lifetimes](https://smallcultfollowing.com/babysteps/blog/2024/03/04/borrow-checking-without-lifetimes/)
 * [2024-03-04, 18:33:24](https://lobste.rs/s/vbrnhk/opus_1_5_released) - [Opus 1.5 Released](https://opus-codec.org/demo/opus-1.5/)
 * [2024-03-04, 17:34:06](https://lobste.rs/s/o57m31/no_silver_bullet_1987) - [No Silver Bullet (1987)](https://www.cgl.ucsf.edu/Outreach/pc204/NoSilverBullet.html)
