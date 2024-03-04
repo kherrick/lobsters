@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-04, 12:41:15",
+      "https://lobste.rs/s/yvymoj/french_court_issues_damages_award_for"
+    ],
+    [
+      "French Court Issues Damages Award for Violation of GPL",
+      "https://heathermeeker.com/2024/02/17/french-court-issues-damages-award-for-violation-of-gpl/"
+    ]
+  ],
+  [
+    [
       "2024-03-04, 12:09:37",
       "https://lobste.rs/s/isblfq/htmnix_html_for_nix_rule_them_all"
     ],
@@ -157,16 +167,6 @@
     [
       "Reinventing Backend Subsetting at Google: Designing an algorithm with reduced connection churn that could replace deterministic subsetting",
       "https://queue.acm.org/detail.cfm?id=3570937"
-    ]
-  ],
-  [
-    [
-      "2024-03-03, 21:25:10",
-      "https://lobste.rs/s/sdsaub/hancho_simple_pleasant_build_system"
-    ],
-    [
-      "hancho: A simple pleasant build system in Python",
-      "https://github.com/aappleby/hancho"
     ]
   ],
   [
