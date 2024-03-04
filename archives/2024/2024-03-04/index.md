@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-04](index.md)
 
+* [2024-03-04, 17:34:06](https://lobste.rs/s/o57m31/no_silver_bullet_1987) - [No Silver Bullet (1987)](https://www.cgl.ucsf.edu/Outreach/pc204/NoSilverBullet.html)
 * [2024-03-04, 17:06:06](https://lobste.rs/s/eexxse/reading_json_from_rails_api_swift) - [Reading JSON from a Rails API in Swift](https://calebhearth.com/l/rails-json-swift)
 * [2024-03-04, 16:40:55](https://lobste.rs/s/uhmhum/hunt_for_missing_data_type) - [The Hunt for the Missing Data Type](https://www.hillelwayne.com/post/graph-types/)
 * [2024-03-04, 16:37:26](https://lobste.rs/s/xeslzt/perils_pause_2_2023) - [The perils of pause(2) (2023)](https://www.cipht.net/2023/11/30/perils-of-pause.html)
