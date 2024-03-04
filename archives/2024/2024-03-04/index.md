@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-04](index.md)
 
+* [2024-03-04, 13:41:32](https://lobste.rs/s/lqy8ua/kolo_see_everything_happening_your) - [kolo: See everything happening in your running Django app without leaving VSCode](https://github.com/kolofordjango/kolo)
+* [2024-03-04, 13:40:50](https://lobste.rs/s/gkr4ur/twenty_years_is_nothing) - [Twenty Years Is Nothing](https://deprogrammaticaipsum.com/twenty-years-is-nothing/)
+* [2024-03-04, 13:38:57](https://lobste.rs/s/oefpps/gleam_version_1) - [Gleam version 1](https://gleam.run/news/gleam-version-1/)
 * [2024-03-04, 12:51:32](https://lobste.rs/s/tag7u5/anatomy_nixos_config) - [Anatomy of a NixOS Config](https://unmovedcentre.com/technology/2024/02/24/anatomy-of-a-nixos-config.html)
 * [2024-03-04, 12:41:15](https://lobste.rs/s/yvymoj/french_court_issues_damages_award_for) - [French Court Issues Damages Award for Violation of GPL](https://heathermeeker.com/2024/02/17/french-court-issues-damages-award-for-violation-of-gpl/)
 * [2024-03-04, 12:09:37](https://lobste.rs/s/isblfq/htmnix_html_for_nix_rule_them_all) - [HTMNIX: HTML for Nix to rule them all](https://github.com/RGBCube/HTMNIX)
