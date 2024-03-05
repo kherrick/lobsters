@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
+* [2024-03-05, 17:59:41](https://lobste.rs/s/rf0dqj/impact_pre_allocating_slice_memory_on) - [The Impact of Pre-allocating Slice Memory on Performance in Go](https://oilbeater.com/en/2024/03/04/golang-slice-performance/)
 * [2024-03-05, 17:42:52](https://lobste.rs/s/jracje/java_is_becoming_more_like_rust_i_am_here) - [Java is becoming more like Rust, and I am here for it](https://joshaustin.tech/blog/java-is-becoming-rust/)
 * [2024-03-05, 17:07:49](https://lobste.rs/s/6u6x7l/nature_technology_book_review) - [The Nature of Technology Book Review](https://asindu.xyz/posts/the-nature-of-technology-book-review/)
 * [2024-03-05, 16:07:17](https://lobste.rs/s/zncgdf/use_weird_tests_capture_tacit_knowledge) - [Use weird tests to capture tacit knowledge](https://jmduke.com/posts/essays/weird-tests-tacit-knowledge/)
