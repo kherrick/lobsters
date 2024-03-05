@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
+* [2024-03-05, 23:38:26](https://lobste.rs/s/la6ced/march_2024_google_search_core_update_new) - [March 2024 Google Search core update and new spam policies](https://developers.google.com/search/blog/2024/03/core-update-spam-policies)
 * [2024-03-05, 23:28:58](https://lobste.rs/s/ddqcmg/installing_lisp_flavored_erlang_on_linux) - [Installing Lisp Flavored Erlang On Linux](https://medium.com/@kkmvv/installing-lisp-flavored-erlang-on-linux-13a4864814d3)
 * [2024-03-05, 22:27:45](https://lobste.rs/s/jzl1nd/swift_5_10_released) - [Swift 5.10 Released](https://swift.org/blog/swift-5.10-released/)
 * [2024-03-05, 20:35:59](https://lobste.rs/s/joycvk/bazel_remote_execution_with_rules) - [Bazel remote execution with rules_nixpkgs](https://www.tweag.io/blog/2024-02-29-remote-execution-rules-nixpkgs/)
