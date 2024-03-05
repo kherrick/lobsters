@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-05, 23:38:26",
+      "https://lobste.rs/s/la6ced/march_2024_google_search_core_update_new"
+    ],
+    [
+      "March 2024 Google Search core update and new spam policies",
+      "https://developers.google.com/search/blog/2024/03/core-update-spam-policies"
+    ]
+  ],
+  [
+    [
       "2024-03-05, 23:28:58",
       "https://lobste.rs/s/ddqcmg/installing_lisp_flavored_erlang_on_linux"
     ],
@@ -237,16 +247,6 @@
     [
       "On Pausing Containers - how we built, and why we deprecated, our container pause feature",
       "https://metalbear.co/blog/on-pausing-containers-how-we-built-and-why-we-deprecated-our-container-pause-feature/"
-    ]
-  ],
-  [
-    [
-      "2024-03-04, 08:28:27",
-      "https://lobste.rs/s/y9llde/how_i_clean_up_clean_install_windows_11"
-    ],
-    [
-      "How I clean up a “clean install” of Windows 11 and Edge",
-      "https://arstechnica.com/gadgets/2024/02/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/"
     ]
   ]
 ]
