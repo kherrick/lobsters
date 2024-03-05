@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-05, 20:35:59",
+      "https://lobste.rs/s/joycvk/bazel_remote_execution_with_rules"
+    ],
+    [
+      "Bazel remote execution with rules_nixpkgs",
+      "https://www.tweag.io/blog/2024-02-29-remote-execution-rules-nixpkgs/"
+    ]
+  ],
+  [
+    [
       "2024-03-05, 20:25:24",
       "https://lobste.rs/s/bi5koy/homelab_dashboard_for_nixos"
     ],
@@ -217,16 +227,6 @@
     [
       "HTMNIX: HTML for Nix to rule them all",
       "https://github.com/RGBCube/HTMNIX"
-    ]
-  ],
-  [
-    [
-      "2024-03-04, 10:57:29",
-      "https://lobste.rs/s/yuncnu/quiz_tool_for_rapid_openzfs_development"
-    ],
-    [
-      "quiz: a tool for rapid OpenZFS development",
-      "https://despairlabs.com/blog/posts/2024-03-04-quiz-rapid-openzfs-development/"
     ]
   ],
   [
