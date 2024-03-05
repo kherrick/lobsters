@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
+* [2024-03-05, 19:39:26](https://lobste.rs/s/6t5rkf/adding_systemd_postmarketos) - [Adding systemd to postmarketOS](https://postmarketos.org/blog/2024/03/05/adding-systemd/)
+* [2024-03-05, 19:38:30](https://lobste.rs/s/eiztcv/take_break_error_detecting_codes_credit) - [Take a break - Error-detecting codes in credit card numbers, airline tickets, ISBNs](https://plus.maths.org/content/take-break)
 * [2024-03-05, 17:59:41](https://lobste.rs/s/rf0dqj/impact_pre_allocating_slice_memory_on) - [The Impact of Pre-allocating Slice Memory on Performance in Go](https://oilbeater.com/en/2024/03/04/golang-slice-performance/)
 * [2024-03-05, 17:42:52](https://lobste.rs/s/jracje/java_is_becoming_more_like_rust_i_am_here) - [Java is becoming more like Rust, and I am here for it](https://joshaustin.tech/blog/java-is-becoming-rust/)
 * [2024-03-05, 17:07:49](https://lobste.rs/s/6u6x7l/nature_technology_book_review) - [The Nature of Technology Book Review](https://asindu.xyz/posts/the-nature-of-technology-book-review/)
