@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-05, 07:14:47](https://lobste.rs/s/lrdkd5/nixbsd_unofficial_nixos_fork_with) - [nixbsd: An unofficial NixOS fork with a FreeBSD kernel](https://github.com/nixos-bsd/nixbsd)
 * [2024-03-05, 01:02:55](https://lobste.rs/s/aegsap/how_i_manage_type_1_diabetes_using_golang) - [How I manage type 1 diabetes using Golang](https://www.bytesizego.com/blog/keeping-alive-with-go)
 * [2024-03-04, 20:15:27](https://lobste.rs/s/1ubhsz/practicing_raku_grammars_on_exercism) - [Practicing Raku Grammars On Exercism](https://dev.to/dango/practicing-raku-grammars-on-exercism-36i4)
 * [2024-03-04, 20:04:54](https://lobste.rs/s/cnh6uz/nintendo_switch_emulator_yuzu_is_dead) - [Nintendo Switch emulator Yuzu is dead](https://storage.courtlistener.com/recap/gov.uscourts.rid.56980/gov.uscourts.rid.56980.10.0.pdf)
@@ -21,7 +22,6 @@
 * [2024-03-04, 08:28:27](https://lobste.rs/s/y9llde/how_i_clean_up_clean_install_windows_11) - [How I clean up a “clean install” of Windows 11 and Edge](https://arstechnica.com/gadgets/2024/02/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/)
 * [2024-03-04, 03:45:04](https://lobste.rs/s/evkwse/motion_blur_all_way_down) - [Motion Blur All the Way Down](https://www.osar.fr/notes/motionblur/)
 * [2024-03-04, 00:16:25](https://lobste.rs/s/ioielp/hater_s_guide_kubernetes) - [The hater’s guide to Kubernetes](https://paulbutler.org/2024/the-haters-guide-to-kubernetes/)
-* [2024-03-03, 19:50:04](https://lobste.rs/s/kggf5x/real_gaming_router) - [Real gaming router](https://kittenlabs.de/real-gaming-router/)
 * [2024-03-03, 18:00:48](https://lobste.rs/s/tbug0e/interesting_ideas_observable_framework) - [Interesting ideas in Observable Framework](https://simonwillison.net/2024/Mar/3/interesting-ideas-in-observable-framework/)
 * [2024-03-03, 13:19:06](https://lobste.rs/s/a3zlgq/what_software_do_you_dream_about_do_not) - [What software do you dream about, but do not have time to code yourself?](https://lobste.rs/s/a3zlgq/what_software_do_you_dream_about_do_not)
 * [2024-03-03, 08:05:39](https://lobste.rs/s/ktghxo/what_i_like_about_go) - [What I like about Go](https://lu.sagebl.eu/notes/what-i-like-about-go/)
