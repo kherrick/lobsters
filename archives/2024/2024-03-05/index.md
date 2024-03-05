@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
+* [2024-03-05, 16:07:17](https://lobste.rs/s/zncgdf/use_weird_tests_capture_tacit_knowledge) - [Use weird tests to capture tacit knowledge](https://jmduke.com/posts/essays/weird-tests-tacit-knowledge/)
 * [2024-03-05, 15:25:14](https://lobste.rs/s/rf4mot/facing_reality_eu_tech) - [Facing reality in the EU and tech](https://www.baldurbjarnason.com/2024/facing-reality-in-the-eu-and-tech/)
 * [2024-03-05, 14:03:54](https://lobste.rs/s/pmhf1a/dada_experiement_by_creators_rust) - [Dada, an experiement by the creators of Rust](https://dada-lang.org/)
 * [2024-03-05, 13:47:53](https://lobste.rs/s/kynkck/this_is_knuth_3_16) - [This is Knuth 3:16](http://www.larry.denenberg.com/Knuth-3-16/)
