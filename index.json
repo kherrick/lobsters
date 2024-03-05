@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-05, 01:02:55",
+      "https://lobste.rs/s/aegsap/how_i_keep_myself_alive_using_golang"
+    ],
+    [
+      "How I keep myself Alive using Golang",
+      "https://www.bytesizego.com/blog/keeping-alive-with-go"
+    ]
+  ],
+  [
+    [
       "2024-03-04, 20:15:27",
       "https://lobste.rs/s/1ubhsz/practicing_raku_grammars_on_exercism"
     ],
@@ -177,16 +187,6 @@
     [
       "How I clean up a “clean install” of Windows 11 and Edge",
       "https://arstechnica.com/gadgets/2024/02/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/"
-    ]
-  ],
-  [
-    [
-      "2024-03-04, 07:18:41",
-      "https://lobste.rs/s/gluyhi/migrating_from_lsp_mode_eglot"
-    ],
-    [
-      "Migrating from LSP-Mode to Eglot",
-      "https://andreyor.st/posts/2023-09-09-migrating-from-lsp-mode-to-eglot/"
     ]
   ],
   [
