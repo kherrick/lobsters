@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
+* [2024-03-05, 17:42:52](https://lobste.rs/s/jracje/java_is_becoming_more_like_rust_i_am_here) - [Java is becoming more like Rust, and I am here for it](https://joshaustin.tech/blog/java-is-becoming-rust/)
 * [2024-03-05, 17:07:49](https://lobste.rs/s/6u6x7l/nature_technology_book_review) - [The Nature of Technology Book Review](https://asindu.xyz/posts/the-nature-of-technology-book-review/)
 * [2024-03-05, 16:07:17](https://lobste.rs/s/zncgdf/use_weird_tests_capture_tacit_knowledge) - [Use weird tests to capture tacit knowledge](https://jmduke.com/posts/essays/weird-tests-tacit-knowledge/)
 * [2024-03-05, 15:25:14](https://lobste.rs/s/rf4mot/facing_reality_eu_tech) - [Facing reality in the EU and tech](https://www.baldurbjarnason.com/2024/facing-reality-in-the-eu-and-tech/)

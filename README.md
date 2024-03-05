@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-05, 17:42:52](https://lobste.rs/s/jracje/java_is_becoming_more_like_rust_i_am_here) - [Java is becoming more like Rust, and I am here for it](https://joshaustin.tech/blog/java-is-becoming-rust/)
 * [2024-03-05, 17:07:49](https://lobste.rs/s/6u6x7l/nature_technology_book_review) - [The Nature of Technology Book Review](https://asindu.xyz/posts/the-nature-of-technology-book-review/)
 * [2024-03-05, 16:07:17](https://lobste.rs/s/zncgdf/use_weird_tests_capture_tacit_knowledge) - [Use weird tests to capture tacit knowledge](https://jmduke.com/posts/essays/weird-tests-tacit-knowledge/)
 * [2024-03-05, 14:03:54](https://lobste.rs/s/pmhf1a/dada_experiement_by_creators_rust) - [Dada, an experiement by the creators of Rust](https://dada-lang.org/)
@@ -20,7 +21,6 @@
 * [2024-03-04, 13:38:57](https://lobste.rs/s/oefpps/gleam_version_1) - [Gleam version 1](https://gleam.run/news/gleam-version-1/)
 * [2024-03-04, 12:41:15](https://lobste.rs/s/yvymoj/french_court_issues_damages_award_for) - [French Court Issues Damages Award for Violation of GPL](https://heathermeeker.com/2024/02/17/french-court-issues-damages-award-for-violation-of-gpl/)
 * [2024-03-04, 12:09:37](https://lobste.rs/s/isblfq/htmnix_html_for_nix_rule_them_all) - [HTMNIX: HTML for Nix to rule them all](https://github.com/RGBCube/HTMNIX)
-* [2024-03-04, 10:59:53](https://lobste.rs/s/kmwy1a/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kmwy1a/what_are_you_doing_this_week)
 * [2024-03-04, 10:57:29](https://lobste.rs/s/yuncnu/quiz_tool_for_rapid_openzfs_development) - [quiz: a tool for rapid OpenZFS development](https://despairlabs.com/blog/posts/2024-03-04-quiz-rapid-openzfs-development/)
 * [2024-03-04, 10:46:10](https://lobste.rs/s/rzwxs5/on_pausing_containers_how_we_built_why_we) - [On Pausing Containers - how we built, and why we deprecated, our container pause feature](https://metalbear.co/blog/on-pausing-containers-how-we-built-and-why-we-deprecated-our-container-pause-feature/)
 * [2024-03-04, 08:28:27](https://lobste.rs/s/y9llde/how_i_clean_up_clean_install_windows_11) - [How I clean up a “clean install” of Windows 11 and Edge](https://arstechnica.com/gadgets/2024/02/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/)
