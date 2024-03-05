@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-03-05, 01:02:55](https://lobste.rs/s/aegsap/how_i_keep_myself_alive_using_golang) - [How I keep myself Alive using Golang](https://www.bytesizego.com/blog/keeping-alive-with-go)
+* [2024-03-05, 01:02:55](https://lobste.rs/s/aegsap/how_i_manage_type_1_diabetes_using_golang) - [How I manage type 1 diabetes using Golang](https://www.bytesizego.com/blog/keeping-alive-with-go)
 * [2024-03-04, 20:15:27](https://lobste.rs/s/1ubhsz/practicing_raku_grammars_on_exercism) - [Practicing Raku Grammars On Exercism](https://dev.to/dango/practicing-raku-grammars-on-exercism-36i4)
 * [2024-03-04, 20:04:54](https://lobste.rs/s/cnh6uz/nintendo_switch_emulator_yuzu_is_dead) - [Nintendo Switch emulator Yuzu is dead](https://storage.courtlistener.com/recap/gov.uscourts.rid.56980/gov.uscourts.rid.56980.10.0.pdf)
 * [2024-03-04, 18:33:46](https://lobste.rs/s/ek9wvm/borrow_checking_without_lifetimes) - [Borrow checking without lifetimes](https://smallcultfollowing.com/babysteps/blog/2024/03/04/borrow-checking-without-lifetimes/)
