@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-05, 20:35:59](https://lobste.rs/s/joycvk/bazel_remote_execution_with_rules) - [Bazel remote execution with rules_nixpkgs](https://www.tweag.io/blog/2024-02-29-remote-execution-rules-nixpkgs/)
 * [2024-03-05, 20:25:24](https://lobste.rs/s/bi5koy/homelab_dashboard_for_nixos) - [A homelab dashboard for NixOS](https://jnsgr.uk/2024/03/a-homelab-dashboard-for-nixos/)
 * [2024-03-05, 19:39:26](https://lobste.rs/s/6t5rkf/adding_systemd_postmarketos) - [Adding systemd to postmarketOS](https://postmarketos.org/blog/2024/03/05/adding-systemd/)
 * [2024-03-05, 19:38:30](https://lobste.rs/s/eiztcv/take_break_error_detecting_codes_credit) - [Take a break - Error-detecting codes in credit card numbers, airline tickets, ISBNs](https://plus.maths.org/content/take-break)
@@ -22,7 +23,6 @@
 * [2024-03-04, 13:38:57](https://lobste.rs/s/oefpps/gleam_version_1) - [Gleam version 1](https://gleam.run/news/gleam-version-1/)
 * [2024-03-04, 12:41:15](https://lobste.rs/s/yvymoj/french_court_issues_damages_award_for) - [French Court Issues Damages Award for Violation of GPL](https://heathermeeker.com/2024/02/17/french-court-issues-damages-award-for-violation-of-gpl/)
 * [2024-03-04, 12:09:37](https://lobste.rs/s/isblfq/htmnix_html_for_nix_rule_them_all) - [HTMNIX: HTML for Nix to rule them all](https://github.com/RGBCube/HTMNIX)
-* [2024-03-04, 10:57:29](https://lobste.rs/s/yuncnu/quiz_tool_for_rapid_openzfs_development) - [quiz: a tool for rapid OpenZFS development](https://despairlabs.com/blog/posts/2024-03-04-quiz-rapid-openzfs-development/)
 * [2024-03-04, 10:46:10](https://lobste.rs/s/rzwxs5/on_pausing_containers_how_we_built_why_we) - [On Pausing Containers - how we built, and why we deprecated, our container pause feature](https://metalbear.co/blog/on-pausing-containers-how-we-built-and-why-we-deprecated-our-container-pause-feature/)
 * [2024-03-04, 08:28:27](https://lobste.rs/s/y9llde/how_i_clean_up_clean_install_windows_11) - [How I clean up a “clean install” of Windows 11 and Edge](https://arstechnica.com/gadgets/2024/02/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/)
 
