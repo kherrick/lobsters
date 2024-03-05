@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-05, 01:02:55](https://lobste.rs/s/aegsap/how_i_keep_myself_alive_using_golang) - [How I keep myself Alive using Golang](https://www.bytesizego.com/blog/keeping-alive-with-go)
 * [2024-03-04, 20:15:27](https://lobste.rs/s/1ubhsz/practicing_raku_grammars_on_exercism) - [Practicing Raku Grammars On Exercism](https://dev.to/dango/practicing-raku-grammars-on-exercism-36i4)
 * [2024-03-04, 20:04:54](https://lobste.rs/s/cnh6uz/nintendo_switch_emulator_yuzu_is_dead) - [Nintendo Switch emulator Yuzu is dead](https://storage.courtlistener.com/recap/gov.uscourts.rid.56980/gov.uscourts.rid.56980.10.0.pdf)
 * [2024-03-04, 18:33:46](https://lobste.rs/s/ek9wvm/borrow_checking_without_lifetimes) - [Borrow checking without lifetimes](https://smallcultfollowing.com/babysteps/blog/2024/03/04/borrow-checking-without-lifetimes/)
@@ -18,7 +19,6 @@
 * [2024-03-04, 10:57:29](https://lobste.rs/s/yuncnu/quiz_tool_for_rapid_openzfs_development) - [quiz: a tool for rapid OpenZFS development](https://despairlabs.com/blog/posts/2024-03-04-quiz-rapid-openzfs-development/)
 * [2024-03-04, 10:46:10](https://lobste.rs/s/rzwxs5/on_pausing_containers_how_we_built_why_we) - [On Pausing Containers - how we built, and why we deprecated, our container pause feature](https://metalbear.co/blog/on-pausing-containers-how-we-built-and-why-we-deprecated-our-container-pause-feature/)
 * [2024-03-04, 08:28:27](https://lobste.rs/s/y9llde/how_i_clean_up_clean_install_windows_11) - [How I clean up a “clean install” of Windows 11 and Edge](https://arstechnica.com/gadgets/2024/02/what-i-do-to-clean-up-a-clean-install-of-windows-11-23h2-and-edge/)
-* [2024-03-04, 07:18:41](https://lobste.rs/s/gluyhi/migrating_from_lsp_mode_eglot) - [Migrating from LSP-Mode to Eglot](https://andreyor.st/posts/2023-09-09-migrating-from-lsp-mode-to-eglot/)
 * [2024-03-04, 03:45:04](https://lobste.rs/s/evkwse/motion_blur_all_way_down) - [Motion Blur All the Way Down](https://www.osar.fr/notes/motionblur/)
 * [2024-03-04, 00:16:25](https://lobste.rs/s/ioielp/hater_s_guide_kubernetes) - [The hater’s guide to Kubernetes](https://paulbutler.org/2024/the-haters-guide-to-kubernetes/)
 * [2024-03-03, 19:50:04](https://lobste.rs/s/kggf5x/real_gaming_router) - [Real gaming router](https://kittenlabs.de/real-gaming-router/)
