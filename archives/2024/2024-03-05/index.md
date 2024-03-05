@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-05](index.md)
 
+* [2024-03-05, 13:34:00](https://lobste.rs/s/8yj4wd/running_cp_m_on_c128) - [Running CP/M on the C128](https://celso.io/posts/2024/03/03/c128-cpm/)
 * [2024-03-05, 07:41:26](https://lobste.rs/s/gspcef/freebsd_13_3_release_available) - [FreeBSD 13.3-RELEASE Available](https://freebsd.org/releases/13.3R/relnotes/)
 * [2024-03-05, 07:14:47](https://lobste.rs/s/lrdkd5/nixbsd_unofficial_nixos_fork_with) - [nixbsd: An unofficial NixOS fork with a FreeBSD kernel](https://github.com/nixos-bsd/nixbsd)
 * [2024-03-05, 01:02:55](https://lobste.rs/s/aegsap/how_i_manage_type_1_diabetes_using_golang) - [How I manage type 1 diabetes using Golang](https://www.bytesizego.com/blog/keeping-alive-with-go)
