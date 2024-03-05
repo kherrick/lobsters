@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-05, 14:03:54",
+      "https://lobste.rs/s/pmhf1a/dada_experiement_by_creators_rust"
+    ],
+    [
+      "Dada, an experiement by the creators of Rust",
+      "https://dada-lang.org/"
+    ]
+  ],
+  [
+    [
       "2024-03-05, 13:47:53",
       "https://lobste.rs/s/kynkck/this_is_knuth_3_16"
     ],
@@ -237,16 +247,6 @@
     [
       "The hater’s guide to Kubernetes",
       "https://paulbutler.org/2024/the-haters-guide-to-kubernetes/"
-    ]
-  ],
-  [
-    [
-      "2024-03-03, 13:19:06",
-      "https://lobste.rs/s/a3zlgq/what_software_do_you_dream_about_do_not"
-    ],
-    [
-      "What software do you dream about, but do not have time to code yourself?",
-      "https://lobste.rs/s/a3zlgq/what_software_do_you_dream_about_do_not"
     ]
   ]
 ]
