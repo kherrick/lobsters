@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-06, 14:41:52](https://lobste.rs/s/tkljgz/embedded_swift_on_raspberry_pi_pico) - [Embedded Swift on the Raspberry Pi Pico/RP2040 without the Pico SDK](https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338)
 * [2024-03-06, 13:03:34](https://lobste.rs/s/7wpi1g/behind_design_deep_dive_into_aptos) - [Behind the design: A deep dive into Aptos](https://microsoft.design/articles/behind-the-design-a-deep-dive-into-aptos)
 * [2024-03-06, 09:55:30](https://lobste.rs/s/3qynyr/happy_20th_birthday_openttd) - [Happy 20th birthday OpenTTD](https://www.openttd.org/news/2024/03/06/happy-birthday)
 * [2024-03-06, 09:24:01](https://lobste.rs/s/ephzbl/rustls_now_using_aws_libcrypto_for_rust) - [Rustls Now Using AWS Libcrypto for Rust, Gains FIPS Support](https://www.memorysafety.org/blog/rustls-with-aws-crypto-back-end-and-fips/)
@@ -21,7 +22,6 @@
 * [2024-03-05, 13:34:00](https://lobste.rs/s/8yj4wd/running_cp_m_on_c128) - [Running CP/M on the C128](https://celso.io/posts/2024/03/03/c128-cpm/)
 * [2024-03-05, 07:41:26](https://lobste.rs/s/gspcef/freebsd_13_3_release_available) - [FreeBSD 13.3-RELEASE Available](https://freebsd.org/releases/13.3R/relnotes/)
 * [2024-03-05, 07:14:47](https://lobste.rs/s/lrdkd5/nixbsd_unofficial_nixos_fork_with) - [nixbsd: An unofficial NixOS fork with a FreeBSD kernel](https://github.com/nixos-bsd/nixbsd)
-* [2024-03-05, 01:02:55](https://lobste.rs/s/aegsap/how_i_manage_type_1_diabetes_using_golang) - [How I manage type 1 diabetes using Golang](https://www.bytesizego.com/blog/keeping-alive-with-go)
 * [2024-03-04, 20:04:54](https://lobste.rs/s/cnh6uz/nintendo_switch_emulator_yuzu_is_dead) - [Nintendo Switch emulator Yuzu is dead](https://storage.courtlistener.com/recap/gov.uscourts.rid.56980/gov.uscourts.rid.56980.10.0.pdf)
 * [2024-03-04, 16:40:55](https://lobste.rs/s/uhmhum/hunt_for_missing_data_type) - [The Hunt for the Missing Data Type](https://www.hillelwayne.com/post/graph-types/)
 * [2024-03-04, 13:38:57](https://lobste.rs/s/oefpps/gleam_version_1) - [Gleam version 1](https://gleam.run/news/gleam-version-1/)
