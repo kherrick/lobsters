@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-06, 20:01:55](https://lobste.rs/s/cjdh9s/how_speed_up_rust_compiler_march_2024) - [How to speed up the Rust compiler in March 2024](https://nnethercote.github.io/2024/03/06/how-to-speed-up-the-rust-compiler-in-march-2024.html)
 * [2024-03-06, 18:56:40](https://lobste.rs/s/xfivw1/gptcomment_enforce_conventions_using) - [GPTComment: enforce conventions using GPT](https://github.com/cachix/gptcomment)
 * [2024-03-06, 18:08:14](https://lobste.rs/s/fc8esf/open_sourcing_our_progress_on_tailwind) - [Open-sourcing our progress on Tailwind CSS v4.0](https://tailwindcss.com/blog/tailwindcss-v4-alpha)
 * [2024-03-06, 17:29:17](https://lobste.rs/s/uecy3h/bitonic_sorter) - [Bitonic sorter](https://en.wikipedia.org/wiki/Bitonic_sorter)
@@ -18,7 +19,6 @@
 * [2024-03-05, 22:27:45](https://lobste.rs/s/jzl1nd/swift_5_10_released) - [Swift 5.10 Released](https://swift.org/blog/swift-5.10-released/)
 * [2024-03-05, 20:25:24](https://lobste.rs/s/bi5koy/homelab_dashboard_for_nixos) - [A homelab dashboard for NixOS](https://jnsgr.uk/2024/03/a-homelab-dashboard-for-nixos/)
 * [2024-03-05, 19:39:26](https://lobste.rs/s/6t5rkf/adding_systemd_postmarketos) - [Adding systemd to postmarketOS](https://postmarketos.org/blog/2024/03/05/adding-systemd/)
-* [2024-03-05, 19:38:30](https://lobste.rs/s/eiztcv/take_break_error_detecting_codes_credit) - [Take a break - Error-detecting codes in credit card numbers, airline tickets, ISBNs (2000)](https://plus.maths.org/content/take-break)
 * [2024-03-05, 17:59:41](https://lobste.rs/s/rf0dqj/impact_pre_allocating_slice_memory_on) - [The Impact of Pre-allocating Slice Memory on Performance in Go](https://oilbeater.com/en/2024/03/04/golang-slice-performance/)
 * [2024-03-05, 17:42:52](https://lobste.rs/s/jracje/java_is_becoming_more_like_rust_i_am_here) - [Java is becoming more like Rust, and I am here for it](https://joshaustin.tech/blog/java-is-becoming-rust/)
 * [2024-03-05, 16:07:17](https://lobste.rs/s/zncgdf/use_weird_tests_capture_tacit_knowledge) - [Use weird tests to capture tacit knowledge](https://jmduke.com/posts/essays/weird-tests-tacit-knowledge/)
