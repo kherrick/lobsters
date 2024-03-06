@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-06, 15:58:23",
+      "https://lobste.rs/s/0dqfax/minimalist_midi_synth_with_sine_waves"
+    ],
+    [
+      "A Minimalist MIDI Synth with Sine Waves",
+      "https://massimo-nazaria.github.io/midi-synth.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-06, 15:56:14",
+      "https://lobste.rs/s/clzekl/connect_freebsd_14_0_stable_freeipa_idm"
+    ],
+    [
+      "Connect FreeBSD 14.0-STABLE to FreeIPA/IDM",
+      "https://vermaden.wordpress.com/2024/03/06/connect-freebsd-14-0-stable-to-freeipa-idm/"
+    ]
+  ],
+  [
+    [
       "2024-03-06, 15:24:12",
       "https://lobste.rs/s/arejvm/kalman_filter_explained_simply"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-03-05, 20:35:59",
-      "https://lobste.rs/s/joycvk/bazel_remote_execution_with_rules"
-    ],
-    [
-      "Bazel remote execution with rules_nixpkgs",
-      "https://www.tweag.io/blog/2024-02-29-remote-execution-rules-nixpkgs/"
-    ]
-  ],
-  [
-    [
       "2024-03-05, 20:25:24",
       "https://lobste.rs/s/bi5koy/homelab_dashboard_for_nixos"
     ],
@@ -217,16 +227,6 @@
     [
       "nixbsd: An unofficial NixOS fork with a FreeBSD kernel",
       "https://github.com/nixos-bsd/nixbsd"
-    ]
-  ],
-  [
-    [
-      "2024-03-04, 20:04:54",
-      "https://lobste.rs/s/cnh6uz/nintendo_switch_emulator_yuzu_is_dead"
-    ],
-    [
-      "Nintendo Switch emulator Yuzu is dead",
-      "https://storage.courtlistener.com/recap/gov.uscourts.rid.56980/gov.uscourts.rid.56980.10.0.pdf"
     ]
   ],
   [
