@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-06, 13:03:34",
+      "https://lobste.rs/s/7wpi1g/behind_design_deep_dive_into_aptos"
+    ],
+    [
+      "Behind the design: A deep dive into Aptos",
+      "https://microsoft.design/articles/behind-the-design-a-deep-dive-into-aptos"
+    ]
+  ],
+  [
+    [
       "2024-03-06, 09:55:30",
       "https://lobste.rs/s/3qynyr/happy_20th_birthday_openttd"
     ],
@@ -237,16 +247,6 @@
     [
       "Gleam version 1",
       "https://gleam.run/news/gleam-version-1/"
-    ]
-  ],
-  [
-    [
-      "2024-03-04, 12:09:37",
-      "https://lobste.rs/s/isblfq/htmnix_html_for_nix_rule_them_all"
-    ],
-    [
-      "HTMNIX: HTML for Nix to rule them all",
-      "https://github.com/RGBCube/HTMNIX"
     ]
   ]
 ]
