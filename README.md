@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-06, 02:04:55](https://lobste.rs/s/dzsoxt/measuring_github_copilot_s_impact_on) - [Measuring GitHub Copilot’s Impact on Productivity – Communications of the ACM](https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/)
+* [2024-03-06, 01:53:46](https://lobste.rs/s/ikbbnt/how_i_use_git_worktrees) - [How I use git worktrees](https://notes.billmill.org/blog/2024/03/How_I_use_git_worktrees.html)
 * [2024-03-06, 00:44:47](https://lobste.rs/s/u1fu3p/logic_programming_rust) - [Logic programming in Rust](https://s-arash.github.io/ascent/)
 * [2024-03-05, 23:28:58](https://lobste.rs/s/ddqcmg/installing_lisp_flavored_erlang_on_linux) - [Installing Lisp Flavored Erlang On Linux](https://medium.com/@kkmvv/installing-lisp-flavored-erlang-on-linux-13a4864814d3)
 * [2024-03-05, 22:27:45](https://lobste.rs/s/jzl1nd/swift_5_10_released) - [Swift 5.10 Released](https://swift.org/blog/swift-5.10-released/)
@@ -20,11 +22,9 @@
 * [2024-03-04, 18:33:46](https://lobste.rs/s/ek9wvm/borrow_checking_without_lifetimes) - [Borrow checking without lifetimes](https://smallcultfollowing.com/babysteps/blog/2024/03/04/borrow-checking-without-lifetimes/)
 * [2024-03-04, 18:33:24](https://lobste.rs/s/vbrnhk/opus_1_5_released) - [Opus 1.5 Released](https://opus-codec.org/demo/opus-1.5/)
 * [2024-03-04, 16:40:55](https://lobste.rs/s/uhmhum/hunt_for_missing_data_type) - [The Hunt for the Missing Data Type](https://www.hillelwayne.com/post/graph-types/)
-* [2024-03-04, 16:16:35](https://lobste.rs/s/aunvm8/hacky_spell_checking_for_blog_posts) - [Hacky Spell Checking for Blog Posts](https://tudorr.ro/blog/easy-spell-checking/)
 * [2024-03-04, 13:38:57](https://lobste.rs/s/oefpps/gleam_version_1) - [Gleam version 1](https://gleam.run/news/gleam-version-1/)
 * [2024-03-04, 12:41:15](https://lobste.rs/s/yvymoj/french_court_issues_damages_award_for) - [French Court Issues Damages Award for Violation of GPL](https://heathermeeker.com/2024/02/17/french-court-issues-damages-award-for-violation-of-gpl/)
 * [2024-03-04, 12:09:37](https://lobste.rs/s/isblfq/htmnix_html_for_nix_rule_them_all) - [HTMNIX: HTML for Nix to rule them all](https://github.com/RGBCube/HTMNIX)
-* [2024-03-04, 10:46:10](https://lobste.rs/s/rzwxs5/on_pausing_containers_how_we_built_why_we) - [On Pausing Containers - how we built, and why we deprecated, our container pause feature](https://metalbear.co/blog/on-pausing-containers-how-we-built-and-why-we-deprecated-our-container-pause-feature/)
 
 ## [Archives](archives/index.md)
 
