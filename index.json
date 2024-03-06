@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-06, 18:08:14",
+      "https://lobste.rs/s/fc8esf/open_sourcing_our_progress_on_tailwind"
+    ],
+    [
+      "Open-sourcing our progress on Tailwind CSS v4.0",
+      "https://tailwindcss.com/blog/tailwindcss-v4-alpha"
+    ]
+  ],
+  [
+    [
       "2024-03-06, 17:29:17",
       "https://lobste.rs/s/uecy3h/bitonic_sorter"
     ],
@@ -97,16 +107,6 @@
     [
       "Font processing is still a source of vulnerabilities",
       "https://www.canva.dev/blog/engineering/fonts-are-still-a-helvetica-of-a-problem/"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 07:42:52",
-      "https://lobste.rs/s/5mo3g7/nh_yet_another_nix_cli_helper"
-    ],
-    [
-      "nh: Yet another nix cli helper",
-      "https://github.com/viperML/nh"
     ]
   ],
   [
