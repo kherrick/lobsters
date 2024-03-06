@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-06, 07:42:52](https://lobste.rs/s/5mo3g7/nh_yet_another_nix_cli_helper) - [nh: Yet another nix cli helper](https://github.com/viperML/nh)
 * [2024-03-06, 02:04:55](https://lobste.rs/s/dzsoxt/measuring_github_copilot_s_impact_on) - [Measuring GitHub Copilot’s Impact on Productivity](https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/)
 * [2024-03-06, 01:53:46](https://lobste.rs/s/ikbbnt/how_i_use_git_worktrees) - [How I use git worktrees](https://notes.billmill.org/blog/2024/03/How_I_use_git_worktrees.html)
 * [2024-03-06, 00:44:47](https://lobste.rs/s/u1fu3p/logic_programming_rust) - [Logic programming in Rust](https://s-arash.github.io/ascent/)
@@ -11,7 +12,6 @@
 * [2024-03-05, 19:38:30](https://lobste.rs/s/eiztcv/take_break_error_detecting_codes_credit) - [Take a break - Error-detecting codes in credit card numbers, airline tickets, ISBNs (2000)](https://plus.maths.org/content/take-break)
 * [2024-03-05, 17:59:41](https://lobste.rs/s/rf0dqj/impact_pre_allocating_slice_memory_on) - [The Impact of Pre-allocating Slice Memory on Performance in Go](https://oilbeater.com/en/2024/03/04/golang-slice-performance/)
 * [2024-03-05, 17:42:52](https://lobste.rs/s/jracje/java_is_becoming_more_like_rust_i_am_here) - [Java is becoming more like Rust, and I am here for it](https://joshaustin.tech/blog/java-is-becoming-rust/)
-* [2024-03-05, 17:07:49](https://lobste.rs/s/6u6x7l/nature_technology_book_review) - [The Nature of Technology Book Review](https://asindu.xyz/posts/the-nature-of-technology-book-review/)
 * [2024-03-05, 16:07:17](https://lobste.rs/s/zncgdf/use_weird_tests_capture_tacit_knowledge) - [Use weird tests to capture tacit knowledge](https://jmduke.com/posts/essays/weird-tests-tacit-knowledge/)
 * [2024-03-05, 14:03:54](https://lobste.rs/s/pmhf1a/dada_experiement_by_creators_rust) - [Dada, an experiement by the creators of Rust](https://dada-lang.org/)
 * [2024-03-05, 13:47:53](https://lobste.rs/s/kynkck/this_is_knuth_3_16) - [This is Knuth 3:16](http://www.larry.denenberg.com/Knuth-3-16/)
