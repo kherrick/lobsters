@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-06, 15:24:12",
+      "https://lobste.rs/s/arejvm/kalman_filter_explained_simply"
+    ],
+    [
+      "Kalman Filter Explained Simply",
+      "https://thekalmanfilter.com/kalman-filter-explained-simply/"
+    ]
+  ],
+  [
+    [
       "2024-03-06, 15:07:46",
       "https://lobste.rs/s/nrll4g/enabling_constraints"
     ],
@@ -197,16 +207,6 @@
     [
       "Dada, an experiement by the creators of Rust",
       "https://dada-lang.org/"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 13:34:00",
-      "https://lobste.rs/s/8yj4wd/running_cp_m_on_c128"
-    ],
-    [
-      "Running CP/M on the C128",
-      "https://celso.io/posts/2024/03/03/c128-cpm/"
     ]
   ],
   [
