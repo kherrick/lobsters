@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-03-06, 18:33:00](https://lobste.rs/s/xtqwqf/my_robotic_doppelganger_is_grim_face) - [My Robotic Doppelganger Is The Grim Face of Journalism's Future](https://foreverwars.ghost.io/my-robotic-doppelganger-is-the-grim-face-of-journalisms-future/)
+* [2024-03-06, 18:56:40](https://lobste.rs/s/xfivw1/gptcomment_enforce_conventions_using) - [GPTComment: enforce conventions using GPT](https://github.com/cachix/gptcomment)
 * [2024-03-06, 18:08:14](https://lobste.rs/s/fc8esf/open_sourcing_our_progress_on_tailwind) - [Open-sourcing our progress on Tailwind CSS v4.0](https://tailwindcss.com/blog/tailwindcss-v4-alpha)
 * [2024-03-06, 17:29:17](https://lobste.rs/s/uecy3h/bitonic_sorter) - [Bitonic sorter](https://en.wikipedia.org/wiki/Bitonic_sorter)
 * [2024-03-06, 15:58:23](https://lobste.rs/s/0dqfax/minimalist_midi_synth_with_sine_waves) - [A Minimalist MIDI Synth with Sine Waves](https://massimo-nazaria.github.io/midi-synth.html)
