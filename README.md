@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-06, 18:33:00](https://lobste.rs/s/xtqwqf/my_robotic_doppelganger_is_grim_face) - [My Robotic Doppelganger Is The Grim Face of Journalism's Future](https://foreverwars.ghost.io/my-robotic-doppelganger-is-the-grim-face-of-journalisms-future/)
 * [2024-03-06, 18:08:14](https://lobste.rs/s/fc8esf/open_sourcing_our_progress_on_tailwind) - [Open-sourcing our progress on Tailwind CSS v4.0](https://tailwindcss.com/blog/tailwindcss-v4-alpha)
 * [2024-03-06, 17:29:17](https://lobste.rs/s/uecy3h/bitonic_sorter) - [Bitonic sorter](https://en.wikipedia.org/wiki/Bitonic_sorter)
 * [2024-03-06, 15:58:23](https://lobste.rs/s/0dqfax/minimalist_midi_synth_with_sine_waves) - [A Minimalist MIDI Synth with Sine Waves](https://massimo-nazaria.github.io/midi-synth.html)
@@ -14,7 +15,6 @@
 * [2024-03-06, 02:04:55](https://lobste.rs/s/dzsoxt/measuring_github_copilot_s_impact_on) - [Measuring GitHub Copilot’s Impact on Productivity](https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/)
 * [2024-03-06, 01:53:46](https://lobste.rs/s/ikbbnt/how_i_use_git_worktrees) - [How I use git worktrees](https://notes.billmill.org/blog/2024/03/How_I_use_git_worktrees.html)
 * [2024-03-06, 00:44:47](https://lobste.rs/s/u1fu3p/logic_programming_rust) - [Logic programming in Rust](https://s-arash.github.io/ascent/)
-* [2024-03-05, 23:28:58](https://lobste.rs/s/ddqcmg/installing_lisp_flavored_erlang_on_linux) - [Installing Lisp Flavored Erlang On Linux](https://medium.com/@kkmvv/installing-lisp-flavored-erlang-on-linux-13a4864814d3)
 * [2024-03-05, 22:27:45](https://lobste.rs/s/jzl1nd/swift_5_10_released) - [Swift 5.10 Released](https://swift.org/blog/swift-5.10-released/)
 * [2024-03-05, 20:25:24](https://lobste.rs/s/bi5koy/homelab_dashboard_for_nixos) - [A homelab dashboard for NixOS](https://jnsgr.uk/2024/03/a-homelab-dashboard-for-nixos/)
 * [2024-03-05, 19:39:26](https://lobste.rs/s/6t5rkf/adding_systemd_postmarketos) - [Adding systemd to postmarketOS](https://postmarketos.org/blog/2024/03/05/adding-systemd/)
