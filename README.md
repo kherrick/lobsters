@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-06, 17:29:17](https://lobste.rs/s/uecy3h/bitonic_sorter) - [Bitonic sorter](https://en.wikipedia.org/wiki/Bitonic_sorter)
 * [2024-03-06, 15:58:23](https://lobste.rs/s/0dqfax/minimalist_midi_synth_with_sine_waves) - [A Minimalist MIDI Synth with Sine Waves](https://massimo-nazaria.github.io/midi-synth.html)
 * [2024-03-06, 15:56:14](https://lobste.rs/s/clzekl/connect_freebsd_14_0_stable_freeipa_idm) - [Connect FreeBSD 14.0-STABLE to FreeIPA/IDM](https://vermaden.wordpress.com/2024/03/06/connect-freebsd-14-0-stable-to-freeipa-idm/)
 * [2024-03-06, 15:24:12](https://lobste.rs/s/arejvm/kalman_filter_explained_simply) - [Kalman Filter Explained Simply](https://thekalmanfilter.com/kalman-filter-explained-simply/)
@@ -24,7 +25,6 @@
 * [2024-03-05, 14:03:54](https://lobste.rs/s/pmhf1a/dada_experiement_by_creators_rust) - [Dada, an experiement by the creators of Rust](https://dada-lang.org/)
 * [2024-03-05, 07:14:47](https://lobste.rs/s/lrdkd5/nixbsd_unofficial_nixos_fork_with) - [nixbsd: An unofficial NixOS fork with a FreeBSD kernel](https://github.com/nixos-bsd/nixbsd)
 * [2024-03-04, 16:40:55](https://lobste.rs/s/uhmhum/hunt_for_missing_data_type) - [The Hunt for the Missing Data Type](https://www.hillelwayne.com/post/graph-types/)
-* [2024-03-04, 13:38:57](https://lobste.rs/s/oefpps/gleam_version_1) - [Gleam version 1](https://gleam.run/news/gleam-version-1/)
 
 ## [Archives](archives/index.md)
 
