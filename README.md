@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-06, 09:24:01](https://lobste.rs/s/ephzbl/rustls_now_using_aws_libcrypto_for_rust) - [Rustls Now Using AWS Libcrypto for Rust, Gains FIPS Support](https://www.memorysafety.org/blog/rustls-with-aws-crypto-back-end-and-fips/)
 * [2024-03-06, 09:01:34](https://lobste.rs/s/zrxosu/font_processing_is_still_source) - [Font processing is still a source of vulnerabilities](https://www.canva.dev/blog/engineering/fonts-are-still-a-helvetica-of-a-problem/)
 * [2024-03-06, 07:42:52](https://lobste.rs/s/5mo3g7/nh_yet_another_nix_cli_helper) - [nh: Yet another nix cli helper](https://github.com/viperML/nh)
 * [2024-03-06, 02:04:55](https://lobste.rs/s/dzsoxt/measuring_github_copilot_s_impact_on) - [Measuring GitHub Copilot’s Impact on Productivity](https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/)
@@ -23,7 +24,6 @@
 * [2024-03-04, 20:04:54](https://lobste.rs/s/cnh6uz/nintendo_switch_emulator_yuzu_is_dead) - [Nintendo Switch emulator Yuzu is dead](https://storage.courtlistener.com/recap/gov.uscourts.rid.56980/gov.uscourts.rid.56980.10.0.pdf)
 * [2024-03-04, 16:40:55](https://lobste.rs/s/uhmhum/hunt_for_missing_data_type) - [The Hunt for the Missing Data Type](https://www.hillelwayne.com/post/graph-types/)
 * [2024-03-04, 13:38:57](https://lobste.rs/s/oefpps/gleam_version_1) - [Gleam version 1](https://gleam.run/news/gleam-version-1/)
-* [2024-03-04, 12:41:15](https://lobste.rs/s/yvymoj/french_court_issues_damages_award_for) - [French Court Issues Damages Award for Violation of GPL](https://heathermeeker.com/2024/02/17/french-court-issues-damages-award-for-violation-of-gpl/)
 * [2024-03-04, 12:09:37](https://lobste.rs/s/isblfq/htmnix_html_for_nix_rule_them_all) - [HTMNIX: HTML for Nix to rule them all](https://github.com/RGBCube/HTMNIX)
 
 ## [Archives](archives/index.md)
