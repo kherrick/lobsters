@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-06, 09:24:01",
+      "https://lobste.rs/s/ephzbl/rustls_now_using_aws_libcrypto_for_rust"
+    ],
+    [
+      "Rustls Now Using AWS Libcrypto for Rust, Gains FIPS Support",
+      "https://www.memorysafety.org/blog/rustls-with-aws-crypto-back-end-and-fips/"
+    ]
+  ],
+  [
+    [
       "2024-03-06, 09:01:34",
       "https://lobste.rs/s/zrxosu/font_processing_is_still_source"
     ],
@@ -227,16 +237,6 @@
     [
       "Gleam version 1",
       "https://gleam.run/news/gleam-version-1/"
-    ]
-  ],
-  [
-    [
-      "2024-03-04, 12:41:15",
-      "https://lobste.rs/s/yvymoj/french_court_issues_damages_award_for"
-    ],
-    [
-      "French Court Issues Damages Award for Violation of GPL",
-      "https://heathermeeker.com/2024/02/17/french-court-issues-damages-award-for-violation-of-gpl/"
     ]
   ],
   [
