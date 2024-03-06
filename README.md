@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-06, 15:58:23](https://lobste.rs/s/0dqfax/minimalist_midi_synth_with_sine_waves) - [A Minimalist MIDI Synth with Sine Waves](https://massimo-nazaria.github.io/midi-synth.html)
+* [2024-03-06, 15:56:14](https://lobste.rs/s/clzekl/connect_freebsd_14_0_stable_freeipa_idm) - [Connect FreeBSD 14.0-STABLE to FreeIPA/IDM](https://vermaden.wordpress.com/2024/03/06/connect-freebsd-14-0-stable-to-freeipa-idm/)
 * [2024-03-06, 15:24:12](https://lobste.rs/s/arejvm/kalman_filter_explained_simply) - [Kalman Filter Explained Simply](https://thekalmanfilter.com/kalman-filter-explained-simply/)
 * [2024-03-06, 15:07:46](https://lobste.rs/s/nrll4g/enabling_constraints) - [Enabling constraints](https://jordankaye.dev/posts/enabling-constraints/)
 * [2024-03-06, 14:41:52](https://lobste.rs/s/tkljgz/embedded_swift_on_raspberry_pi_pico) - [Embedded Swift on the Raspberry Pi Pico/RP2040 without the Pico SDK](https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338)
@@ -13,7 +15,6 @@
 * [2024-03-06, 00:44:47](https://lobste.rs/s/u1fu3p/logic_programming_rust) - [Logic programming in Rust](https://s-arash.github.io/ascent/)
 * [2024-03-05, 23:28:58](https://lobste.rs/s/ddqcmg/installing_lisp_flavored_erlang_on_linux) - [Installing Lisp Flavored Erlang On Linux](https://medium.com/@kkmvv/installing-lisp-flavored-erlang-on-linux-13a4864814d3)
 * [2024-03-05, 22:27:45](https://lobste.rs/s/jzl1nd/swift_5_10_released) - [Swift 5.10 Released](https://swift.org/blog/swift-5.10-released/)
-* [2024-03-05, 20:35:59](https://lobste.rs/s/joycvk/bazel_remote_execution_with_rules) - [Bazel remote execution with rules_nixpkgs](https://www.tweag.io/blog/2024-02-29-remote-execution-rules-nixpkgs/)
 * [2024-03-05, 20:25:24](https://lobste.rs/s/bi5koy/homelab_dashboard_for_nixos) - [A homelab dashboard for NixOS](https://jnsgr.uk/2024/03/a-homelab-dashboard-for-nixos/)
 * [2024-03-05, 19:39:26](https://lobste.rs/s/6t5rkf/adding_systemd_postmarketos) - [Adding systemd to postmarketOS](https://postmarketos.org/blog/2024/03/05/adding-systemd/)
 * [2024-03-05, 19:38:30](https://lobste.rs/s/eiztcv/take_break_error_detecting_codes_credit) - [Take a break - Error-detecting codes in credit card numbers, airline tickets, ISBNs (2000)](https://plus.maths.org/content/take-break)
@@ -22,7 +23,6 @@
 * [2024-03-05, 16:07:17](https://lobste.rs/s/zncgdf/use_weird_tests_capture_tacit_knowledge) - [Use weird tests to capture tacit knowledge](https://jmduke.com/posts/essays/weird-tests-tacit-knowledge/)
 * [2024-03-05, 14:03:54](https://lobste.rs/s/pmhf1a/dada_experiement_by_creators_rust) - [Dada, an experiement by the creators of Rust](https://dada-lang.org/)
 * [2024-03-05, 07:14:47](https://lobste.rs/s/lrdkd5/nixbsd_unofficial_nixos_fork_with) - [nixbsd: An unofficial NixOS fork with a FreeBSD kernel](https://github.com/nixos-bsd/nixbsd)
-* [2024-03-04, 20:04:54](https://lobste.rs/s/cnh6uz/nintendo_switch_emulator_yuzu_is_dead) - [Nintendo Switch emulator Yuzu is dead](https://storage.courtlistener.com/recap/gov.uscourts.rid.56980/gov.uscourts.rid.56980.10.0.pdf)
 * [2024-03-04, 16:40:55](https://lobste.rs/s/uhmhum/hunt_for_missing_data_type) - [The Hunt for the Missing Data Type](https://www.hillelwayne.com/post/graph-types/)
 * [2024-03-04, 13:38:57](https://lobste.rs/s/oefpps/gleam_version_1) - [Gleam version 1](https://gleam.run/news/gleam-version-1/)
 
