@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-03-06](index.md)
+
+* [2024-03-06, 00:44:47](https://lobste.rs/s/u1fu3p/logic_programming_rust) - [Logic programming in Rust](https://s-arash.github.io/ascent/)
