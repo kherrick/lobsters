@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-06](index.md)
 
+* [2024-03-06, 20:38:57](https://lobste.rs/s/uxzoap/utf_8_bits_bytes_benefits) - [UTF-8: Bits, Bytes, and Benefits](https://research.swtch.com/utf8)
 * [2024-03-06, 20:01:55](https://lobste.rs/s/cjdh9s/how_speed_up_rust_compiler_march_2024) - [How to speed up the Rust compiler in March 2024](https://nnethercote.github.io/2024/03/06/how-to-speed-up-the-rust-compiler-in-march-2024.html)
 * [2024-03-06, 18:56:40](https://lobste.rs/s/xfivw1/gptcomment_enforce_conventions_using) - [GPTComment: enforce conventions using GPT](https://github.com/cachix/gptcomment)
 * [2024-03-06, 18:33:00](https://lobste.rs/s/xtqwqf/my_robotic_doppelganger_is_grim_face) - [My Robotic Doppelganger Is The Grim Face of Journalism's Future](https://foreverwars.ghost.io/my-robotic-doppelganger-is-the-grim-face-of-journalisms-future/)
