@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-06, 20:38:57",
+      "https://lobste.rs/s/uxzoap/utf_8_bits_bytes_benefits"
+    ],
+    [
+      "UTF-8: Bits, Bytes, and Benefits",
+      "https://research.swtch.com/utf8"
+    ]
+  ],
+  [
+    [
       "2024-03-06, 20:01:55",
       "https://lobste.rs/s/cjdh9s/how_speed_up_rust_compiler_march_2024"
     ],
@@ -187,16 +197,6 @@
     [
       "Adding systemd to postmarketOS",
       "https://postmarketos.org/blog/2024/03/05/adding-systemd/"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 17:59:41",
-      "https://lobste.rs/s/rf0dqj/impact_pre_allocating_slice_memory_on"
-    ],
-    [
-      "The Impact of Pre-allocating Slice Memory on Performance in Go",
-      "https://oilbeater.com/en/2024/03/04/golang-slice-performance/"
     ]
   ],
   [
