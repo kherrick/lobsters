@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-06](index.md)
 
+* [2024-03-06, 09:55:30](https://lobste.rs/s/3qynyr/happy_20th_birthday_openttd) - [Happy 20th birthday OpenTTD](https://www.openttd.org/news/2024/03/06/happy-birthday)
 * [2024-03-06, 09:24:01](https://lobste.rs/s/ephzbl/rustls_now_using_aws_libcrypto_for_rust) - [Rustls Now Using AWS Libcrypto for Rust, Gains FIPS Support](https://www.memorysafety.org/blog/rustls-with-aws-crypto-back-end-and-fips/)
 * [2024-03-06, 09:01:34](https://lobste.rs/s/zrxosu/font_processing_is_still_source) - [Font processing is still a source of vulnerabilities](https://www.canva.dev/blog/engineering/fonts-are-still-a-helvetica-of-a-problem/)
 * [2024-03-06, 07:42:52](https://lobste.rs/s/5mo3g7/nh_yet_another_nix_cli_helper) - [nh: Yet another nix cli helper](https://github.com/viperML/nh)
