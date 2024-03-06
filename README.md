@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-03-06, 20:38:57](https://lobste.rs/s/uxzoap/utf_8_bits_bytes_benefits) - [UTF-8: Bits, Bytes, and Benefits](https://research.swtch.com/utf8)
+* [2024-03-06, 20:38:57](https://lobste.rs/s/uxzoap/utf_8_bits_bytes_benefits_2010) - [UTF-8: Bits, Bytes, and Benefits (2010)](https://research.swtch.com/utf8)
 * [2024-03-06, 20:01:55](https://lobste.rs/s/cjdh9s/how_speed_up_rust_compiler_march_2024) - [How to speed up the Rust compiler in March 2024](https://nnethercote.github.io/2024/03/06/how-to-speed-up-the-rust-compiler-in-march-2024.html)
 * [2024-03-06, 18:56:40](https://lobste.rs/s/xfivw1/gptcomment_enforce_conventions_using) - [GPTComment: enforce conventions using GPT](https://github.com/cachix/gptcomment)
 * [2024-03-06, 18:08:14](https://lobste.rs/s/fc8esf/open_sourcing_our_progress_on_tailwind) - [Open-sourcing our progress on Tailwind CSS v4.0](https://tailwindcss.com/blog/tailwindcss-v4-alpha)
