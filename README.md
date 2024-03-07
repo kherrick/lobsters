@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-07, 07:44:50](https://lobste.rs/s/tlmvrr/i_m_programmer_i_m_stupid) - [I'm a programmer and I'm stupid](https://antonz.org/stupid/)
 * [2024-03-07, 07:03:07](https://lobste.rs/s/ky3oa7/running_netbsd_10_release_candidate_5) - [Running NetBSD 10 Release Candidate 5](https://rubenerd.com/running-netbsd-10-rc5/)
 * [2024-03-07, 05:58:25](https://lobste.rs/s/dwaj7v/writing_postgres_logical_replication) - [Writing a Postgres Logical Replication System in Golang](https://www.dolthub.com/blog/2024-03-08-postgres-logical-replication/)
 * [2024-03-07, 04:10:17](https://lobste.rs/s/uqyiyl/announcing_typescript_5_4) - [Announcing TypeScript 5.4](https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/)
@@ -15,7 +16,6 @@
 * [2024-03-06, 17:29:17](https://lobste.rs/s/uecy3h/bitonic_sorter) - [Bitonic sorter](https://en.wikipedia.org/wiki/Bitonic_sorter)
 * [2024-03-06, 15:58:23](https://lobste.rs/s/0dqfax/minimalist_midi_synth_with_sine_waves) - [A Minimalist MIDI Synth with Sine Waves](https://massimo-nazaria.github.io/midi-synth.html)
 * [2024-03-06, 15:56:14](https://lobste.rs/s/clzekl/connect_freebsd_14_0_stable_freeipa_idm) - [Connect FreeBSD 14.0-STABLE to FreeIPA/IDM](https://vermaden.wordpress.com/2024/03/06/connect-freebsd-14-0-stable-to-freeipa-idm/)
-* [2024-03-06, 15:24:12](https://lobste.rs/s/arejvm/kalman_filter_explained_simply) - [Kalman Filter Explained Simply](https://thekalmanfilter.com/kalman-filter-explained-simply/)
 * [2024-03-06, 15:07:46](https://lobste.rs/s/nrll4g/enabling_constraints) - [Enabling constraints](https://jordankaye.dev/posts/enabling-constraints/)
 * [2024-03-06, 14:41:52](https://lobste.rs/s/tkljgz/embedded_swift_on_raspberry_pi_pico) - [Embedded Swift on the Raspberry Pi Pico/RP2040 without the Pico SDK](https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338)
 * [2024-03-06, 09:55:30](https://lobste.rs/s/3qynyr/happy_20th_birthday_openttd) - [Happy 20th birthday OpenTTD](https://www.openttd.org/news/2024/03/06/happy-birthday)
