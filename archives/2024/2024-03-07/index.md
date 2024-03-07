@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
+* [2024-03-07, 11:15:23](https://lobste.rs/s/4cpvq6/cap_theorem_bad_bad_ugly) - [The CAP Theorem. The Bad, the Bad, & the Ugly](https://blog.dtornow.com/the-cap-theorem.-the-bad-the-bad-the-ugly/)
 * [2024-03-07, 09:00:21](https://lobste.rs/s/2w7wc7/towards_zero_downtime_upgrades_stateful) - [Towards zero-downtime upgrades of stateful systems](https://stevana.github.io/towards_zero-downtime_upgrades_of_stateful_systems.html)
 * [2024-03-07, 08:58:57](https://lobste.rs/s/xfwae2/trying_understand_copilot_s_type) - [Trying To Understand Copilot's Type Spaghetti](https://rtpg.co/2024/03/07/parsing-copilots-type-spaghetti/)
 * [2024-03-07, 07:44:50](https://lobste.rs/s/tlmvrr/i_m_programmer_i_m_stupid) - [I'm a programmer and I'm stupid](https://antonz.org/stupid/)
