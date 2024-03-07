@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-07, 20:45:02](https://lobste.rs/s/z2l3ot/deliberate_abstraction) - [Deliberate Abstraction](https://two-wrongs.com/deliberate-abstraction)
 * [2024-03-07, 20:14:13](https://lobste.rs/s/0i33my/how_do_calculators_compute_sine) - [How do calculators compute sine?](https://androidcalculator.com/how-do-calculators-compute-sine/)
 * [2024-03-07, 20:07:45](https://lobste.rs/s/zvhdq2/commitgo_launches_gitea_enterprise) - [CommitGo Launches Gitea Enterprise](https://blog.gitea.com/gitea-enterprise)
 * [2024-03-07, 18:24:20](https://lobste.rs/s/tgj13g/boa_release_v0_18_javascript_engine) - [Boa release v0.18: A JavaScript engine written in Rust](https://boajs.dev/blog/2024/03/07/boa-release-18)
@@ -15,7 +16,6 @@
 * [2024-03-07, 07:44:50](https://lobste.rs/s/tlmvrr/i_m_programmer_i_m_stupid) - [I'm a programmer and I'm stupid](https://antonz.org/stupid/)
 * [2024-03-07, 07:03:07](https://lobste.rs/s/ky3oa7/running_netbsd_10_release_candidate_5) - [Running NetBSD 10 Release Candidate 5](https://rubenerd.com/running-netbsd-10-rc5/)
 * [2024-03-07, 04:10:17](https://lobste.rs/s/uqyiyl/announcing_typescript_5_4) - [Announcing TypeScript 5.4](https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/)
-* [2024-03-07, 03:56:31](https://lobste.rs/s/wnli1s/scalable_css) - [Scalable CSS](https://chriscoyier.net/2023/01/17/scalable-css/)
 * [2024-03-07, 02:30:21](https://lobste.rs/s/404a31/linux_6_8_network_optimizations_can_boost) - [Linux 6.8 Network Optimizations Can Boost TCP Performance For Many Concurrent Connections By ~40%](https://www.phoronix.com/news/Linux-6.8-Networking)
 * [2024-03-07, 01:05:49](https://lobste.rs/s/z6mwrb/jorge_personal_site_generator_with_org) - [jorge: a personal site generator with org-mode support](https://jorge.olano.dev/)
 * [2024-03-07, 00:11:33](https://lobste.rs/s/vgwwzq/ryelang_asciinema_demo_exploring_json) - [Ryelang asciinema demo: exploring JSON](https://asciinema.org/a/615327)
