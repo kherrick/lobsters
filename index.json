@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-07, 00:11:33",
+      "https://lobste.rs/s/vgwwzq/ryelang_asciinema_demo_exploring_json"
+    ],
+    [
+      "Ryelang asciinema demo: exploring JSON",
+      "https://asciinema.org/a/615327"
+    ]
+  ],
+  [
+    [
       "2024-03-06, 20:38:57",
       "https://lobste.rs/s/uxzoap/utf_8_bits_bytes_benefits_2010"
     ],
@@ -237,16 +247,6 @@
     [
       "nixbsd: An unofficial NixOS fork with a FreeBSD kernel",
       "https://github.com/nixos-bsd/nixbsd"
-    ]
-  ],
-  [
-    [
-      "2024-03-04, 16:40:55",
-      "https://lobste.rs/s/uhmhum/hunt_for_missing_data_type"
-    ],
-    [
-      "The Hunt for the Missing Data Type",
-      "https://www.hillelwayne.com/post/graph-types/"
     ]
   ]
 ]
