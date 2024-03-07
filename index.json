@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-07, 14:47:03",
+      "https://lobste.rs/s/ykvkub/eloquent_javascript_4th_edition"
+    ],
+    [
+      "Eloquent JavaScript, 4th edition",
+      "https://eloquentjavascript.net/"
+    ]
+  ],
+  [
+    [
       "2024-03-07, 14:37:04",
       "https://lobste.rs/s/ojzuix/extending_destination_passing_style"
     ],
@@ -207,16 +217,6 @@
     [
       "Enabling constraints",
       "https://jordankaye.dev/posts/enabling-constraints/"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 14:41:52",
-      "https://lobste.rs/s/tkljgz/embedded_swift_on_raspberry_pi_pico"
-    ],
-    [
-      "Embedded Swift on the Raspberry Pi Pico/RP2040 without the Pico SDK",
-      "https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338"
     ]
   ],
   [
