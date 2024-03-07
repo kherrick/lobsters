@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-07, 01:18:10](https://lobste.rs/s/dxflib/what_i_m_building_why_i_m_building_it) - [what i'm building, and why i'm building it](https://www.youtube.com/watch?v=7smIyUTsBzs)
 * [2024-03-07, 01:05:49](https://lobste.rs/s/z6mwrb/jorge_personal_site_generator_with_org) - [jorge: a personal site generator with org-mode support](https://jorge.olano.dev/)
 * [2024-03-07, 00:11:33](https://lobste.rs/s/vgwwzq/ryelang_asciinema_demo_exploring_json) - [Ryelang asciinema demo: exploring JSON](https://asciinema.org/a/615327)
 * [2024-03-06, 20:38:57](https://lobste.rs/s/uxzoap/utf_8_bits_bytes_benefits_2010) - [UTF-8: Bits, Bytes, and Benefits (2010)](https://research.swtch.com/utf8)
@@ -18,7 +19,6 @@
 * [2024-03-06, 09:01:34](https://lobste.rs/s/zrxosu/font_processing_is_still_source) - [Font processing is still a source of vulnerabilities](https://www.canva.dev/blog/engineering/fonts-are-still-a-helvetica-of-a-problem/)
 * [2024-03-06, 02:04:55](https://lobste.rs/s/dzsoxt/measuring_github_copilot_s_impact_on) - [Measuring GitHub Copilot’s Impact on Productivity](https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/)
 * [2024-03-06, 01:53:46](https://lobste.rs/s/ikbbnt/how_i_use_git_worktrees) - [How I use git worktrees](https://notes.billmill.org/blog/2024/03/How_I_use_git_worktrees.html)
-* [2024-03-06, 00:44:47](https://lobste.rs/s/u1fu3p/logic_programming_rust) - [Logic programming in Rust](https://s-arash.github.io/ascent/)
 * [2024-03-05, 22:27:45](https://lobste.rs/s/jzl1nd/swift_5_10_released) - [Swift 5.10 Released](https://swift.org/blog/swift-5.10-released/)
 * [2024-03-05, 20:25:24](https://lobste.rs/s/bi5koy/homelab_dashboard_for_nixos) - [A homelab dashboard for NixOS](https://jnsgr.uk/2024/03/a-homelab-dashboard-for-nixos/)
 * [2024-03-05, 19:39:26](https://lobste.rs/s/6t5rkf/adding_systemd_postmarketos) - [Adding systemd to postmarketOS](https://postmarketos.org/blog/2024/03/05/adding-systemd/)
