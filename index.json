@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-07, 17:39:52",
+      "https://lobste.rs/s/ocfjan/freebsd_has_nother_new_c_compiler_intel"
+    ],
+    [
+      "FreeBSD has a(nother) new C compiler: Intel oneAPI DPC++/C++",
+      "https://briancallahan.net/blog/20240306.html"
+    ]
+  ],
+  [
+    [
       "2024-03-07, 15:10:09",
       "https://lobste.rs/s/upue2q/tinywasm_tiny_interpreted_webassembly"
     ],
@@ -127,16 +137,6 @@
     [
       "Scalable CSS",
       "https://chriscoyier.net/2023/01/17/scalable-css/"
-    ]
-  ],
-  [
-    [
-      "2024-03-07, 03:13:06",
-      "https://lobste.rs/s/jr0den/skyplane_blazing_fast_bulk_data"
-    ],
-    [
-      "Skyplane: Blazing fast bulk data transfers between any cloud",
-      "https://skyplane.org/"
     ]
   ],
   [
