@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-07, 18:24:20](https://lobste.rs/s/tgj13g/boa_release_v0_18_javascript_engine) - [Boa release v0.18: A JavaScript engine written in Rust](https://boajs.dev/blog/2024/03/07/boa-release-18)
 * [2024-03-07, 17:39:52](https://lobste.rs/s/ocfjan/freebsd_has_nother_new_c_compiler_intel) - [FreeBSD has a(nother) new C compiler: Intel oneAPI DPC++/C++](https://briancallahan.net/blog/20240306.html)
 * [2024-03-07, 15:10:09](https://lobste.rs/s/upue2q/tinywasm_tiny_interpreted_webassembly) - [tinywasm: A tiny, interpreted WebAssembly Runtime written in Rust](https://github.com/explodingcamera/tinywasm)
 * [2024-03-07, 14:47:03](https://lobste.rs/s/ykvkub/eloquent_javascript_4th_edition) - [Eloquent JavaScript, 4th edition](https://eloquentjavascript.net/)
@@ -19,7 +20,6 @@
 * [2024-03-07, 00:11:33](https://lobste.rs/s/vgwwzq/ryelang_asciinema_demo_exploring_json) - [Ryelang asciinema demo: exploring JSON](https://asciinema.org/a/615327)
 * [2024-03-06, 20:38:57](https://lobste.rs/s/uxzoap/utf_8_bits_bytes_benefits_2010) - [UTF-8: Bits, Bytes, and Benefits (2010)](https://research.swtch.com/utf8)
 * [2024-03-06, 20:01:55](https://lobste.rs/s/cjdh9s/how_speed_up_rust_compiler_march_2024) - [How to speed up the Rust compiler in March 2024](https://nnethercote.github.io/2024/03/06/how-to-speed-up-the-rust-compiler-in-march-2024.html)
-* [2024-03-06, 18:08:14](https://lobste.rs/s/fc8esf/open_sourcing_our_progress_on_tailwind) - [Open-sourcing our progress on Tailwind CSS v4.0](https://tailwindcss.com/blog/tailwindcss-v4-alpha)
 * [2024-03-06, 15:58:23](https://lobste.rs/s/0dqfax/minimalist_midi_synth_with_sine_waves) - [A Minimalist MIDI Synth with Sine Waves](https://massimo-nazaria.github.io/midi-synth.html)
 * [2024-03-06, 15:07:46](https://lobste.rs/s/nrll4g/enabling_constraints) - [Enabling constraints](https://jordankaye.dev/posts/enabling-constraints/)
 * [2024-03-06, 09:55:30](https://lobste.rs/s/3qynyr/happy_20th_birthday_openttd) - [Happy 20th birthday OpenTTD](https://www.openttd.org/news/2024/03/06/happy-birthday)

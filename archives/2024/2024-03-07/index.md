@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
+* [2024-03-07, 18:24:20](https://lobste.rs/s/tgj13g/boa_release_v0_18_javascript_engine) - [Boa release v0.18: A JavaScript engine written in Rust](https://boajs.dev/blog/2024/03/07/boa-release-18)
 * [2024-03-07, 17:39:52](https://lobste.rs/s/ocfjan/freebsd_has_nother_new_c_compiler_intel) - [FreeBSD has a(nother) new C compiler: Intel oneAPI DPC++/C++](https://briancallahan.net/blog/20240306.html)
 * [2024-03-07, 15:10:09](https://lobste.rs/s/upue2q/tinywasm_tiny_interpreted_webassembly) - [tinywasm: A tiny, interpreted WebAssembly Runtime written in Rust](https://github.com/explodingcamera/tinywasm)
 * [2024-03-07, 14:47:03](https://lobste.rs/s/ykvkub/eloquent_javascript_4th_edition) - [Eloquent JavaScript, 4th edition](https://eloquentjavascript.net/)
