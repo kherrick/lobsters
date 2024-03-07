@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-07, 02:30:21",
+      "https://lobste.rs/s/404a31/linux_6_8_network_optimizations_can_boost"
+    ],
+    [
+      "Linux 6.8 Network Optimizations Can Boost TCP Performance For Many Concurrent Connections By ~40%",
+      "https://www.phoronix.com/news/Linux-6.8-Networking"
+    ]
+  ],
+  [
+    [
       "2024-03-07, 01:18:10",
       "https://lobste.rs/s/dxflib/what_i_m_building_why_i_m_building_it"
     ],
@@ -127,16 +137,6 @@
     [
       "Embedded Swift on the Raspberry Pi Pico/RP2040 without the Pico SDK",
       "https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 13:03:34",
-      "https://lobste.rs/s/7wpi1g/behind_design_deep_dive_into_aptos"
-    ],
-    [
-      "Behind the design: A deep dive into Aptos",
-      "https://microsoft.design/articles/behind-the-design-a-deep-dive-into-aptos"
     ]
   ],
   [
