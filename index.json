@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-07, 20:14:13",
+      "https://lobste.rs/s/0i33my/how_do_calculators_compute_sine_algeo"
+    ],
+    [
+      "How do calculators compute sine? | Algeo Calculator",
+      "https://androidcalculator.com/how-do-calculators-compute-sine/"
+    ]
+  ],
+  [
+    [
+      "2024-03-07, 20:07:45",
+      "https://lobste.rs/s/zvhdq2/commitgo_launches_gitea_enterprise"
+    ],
+    [
+      "CommitGo Launches Gitea Enterprise | Gitea Blog",
+      "https://blog.gitea.com/gitea-enterprise"
+    ]
+  ],
+  [
+    [
       "2024-03-07, 18:24:20",
       "https://lobste.rs/s/tgj13g/boa_release_v0_18_javascript_engine"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-03-07, 05:58:25",
-      "https://lobste.rs/s/dwaj7v/writing_postgres_logical_replication"
-    ],
-    [
-      "Writing a Postgres Logical Replication System in Golang",
-      "https://www.dolthub.com/blog/2024-03-08-postgres-logical-replication/"
-    ]
-  ],
-  [
-    [
       "2024-03-07, 04:10:17",
       "https://lobste.rs/s/uqyiyl/announcing_typescript_5_4"
     ],
@@ -227,16 +237,6 @@
     [
       "Happy 20th birthday OpenTTD",
       "https://www.openttd.org/news/2024/03/06/happy-birthday"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 09:24:01",
-      "https://lobste.rs/s/ephzbl/rustls_now_using_aws_libcrypto_for_rust"
-    ],
-    [
-      "Rustls Now Using AWS Libcrypto for Rust, Gains FIPS Support",
-      "https://www.memorysafety.org/blog/rustls-with-aws-crypto-back-end-and-fips/"
     ]
   ],
   [
