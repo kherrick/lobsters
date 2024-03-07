@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
+* [2024-03-07, 09:00:21](https://lobste.rs/s/2w7wc7/towards_zero_downtime_upgrades_stateful) - [Towards zero-downtime upgrades of stateful systems](https://stevana.github.io/towards_zero-downtime_upgrades_of_stateful_systems.html)
+* [2024-03-07, 08:58:57](https://lobste.rs/s/xfwae2/trying_understand_copilot_s_type) - [Trying To Understand Copilot's Type Spaghetti](https://rtpg.co/2024/03/07/parsing-copilots-type-spaghetti/)
 * [2024-03-07, 07:44:50](https://lobste.rs/s/tlmvrr/i_m_programmer_i_m_stupid) - [I'm a programmer and I'm stupid](https://antonz.org/stupid/)
 * [2024-03-07, 07:03:07](https://lobste.rs/s/ky3oa7/running_netbsd_10_release_candidate_5) - [Running NetBSD 10 Release Candidate 5](https://rubenerd.com/running-netbsd-10-rc5/)
 * [2024-03-07, 05:58:25](https://lobste.rs/s/dwaj7v/writing_postgres_logical_replication) - [Writing a Postgres Logical Replication System in Golang](https://www.dolthub.com/blog/2024-03-08-postgres-logical-replication/)
