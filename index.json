@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-07, 11:32:54",
+      "https://lobste.rs/s/syynqt/netbsd_for_advanced_minimalist"
+    ],
+    [
+      "NetBSD for the Advanced Minimalist",
+      "https://youtu.be/-75TQMbar1Y"
+    ]
+  ],
+  [
+    [
       "2024-03-07, 11:15:23",
       "https://lobste.rs/s/4cpvq6/cap_theorem_bad_bad_ugly"
     ],
@@ -137,16 +147,6 @@
     [
       "How to speed up the Rust compiler in March 2024",
       "https://nnethercote.github.io/2024/03/06/how-to-speed-up-the-rust-compiler-in-march-2024.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 18:56:40",
-      "https://lobste.rs/s/xfivw1/gptcomment_enforce_conventions_using"
-    ],
-    [
-      "GPTComment: enforce conventions using GPT",
-      "https://github.com/cachix/gptcomment"
     ]
   ],
   [
