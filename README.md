@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-07, 02:30:21](https://lobste.rs/s/404a31/linux_6_8_network_optimizations_can_boost) - [Linux 6.8 Network Optimizations Can Boost TCP Performance For Many Concurrent Connections By ~40%](https://www.phoronix.com/news/Linux-6.8-Networking)
 * [2024-03-07, 01:18:10](https://lobste.rs/s/dxflib/what_i_m_building_why_i_m_building_it) - [what i'm building, and why i'm building it](https://www.youtube.com/watch?v=7smIyUTsBzs)
 * [2024-03-07, 01:05:49](https://lobste.rs/s/z6mwrb/jorge_personal_site_generator_with_org) - [jorge: a personal site generator with org-mode support](https://jorge.olano.dev/)
 * [2024-03-07, 00:11:33](https://lobste.rs/s/vgwwzq/ryelang_asciinema_demo_exploring_json) - [Ryelang asciinema demo: exploring JSON](https://asciinema.org/a/615327)
@@ -13,7 +14,6 @@
 * [2024-03-06, 15:24:12](https://lobste.rs/s/arejvm/kalman_filter_explained_simply) - [Kalman Filter Explained Simply](https://thekalmanfilter.com/kalman-filter-explained-simply/)
 * [2024-03-06, 15:07:46](https://lobste.rs/s/nrll4g/enabling_constraints) - [Enabling constraints](https://jordankaye.dev/posts/enabling-constraints/)
 * [2024-03-06, 14:41:52](https://lobste.rs/s/tkljgz/embedded_swift_on_raspberry_pi_pico) - [Embedded Swift on the Raspberry Pi Pico/RP2040 without the Pico SDK](https://forums.swift.org/t/embedded-swift-on-the-raspberry-pi-pico-rp2040-without-the-pico-sdk/69338)
-* [2024-03-06, 13:03:34](https://lobste.rs/s/7wpi1g/behind_design_deep_dive_into_aptos) - [Behind the design: A deep dive into Aptos](https://microsoft.design/articles/behind-the-design-a-deep-dive-into-aptos)
 * [2024-03-06, 09:55:30](https://lobste.rs/s/3qynyr/happy_20th_birthday_openttd) - [Happy 20th birthday OpenTTD](https://www.openttd.org/news/2024/03/06/happy-birthday)
 * [2024-03-06, 09:24:01](https://lobste.rs/s/ephzbl/rustls_now_using_aws_libcrypto_for_rust) - [Rustls Now Using AWS Libcrypto for Rust, Gains FIPS Support](https://www.memorysafety.org/blog/rustls-with-aws-crypto-back-end-and-fips/)
 * [2024-03-06, 09:01:34](https://lobste.rs/s/zrxosu/font_processing_is_still_source) - [Font processing is still a source of vulnerabilities](https://www.canva.dev/blog/engineering/fonts-are-still-a-helvetica-of-a-problem/)
