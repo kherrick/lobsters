@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-03-07, 21:04:33](https://lobste.rs/s/yiwe8s/defective_c) - [Defective C++](https://yosefk.com/c++fqa/defective.html)
+* [2024-03-07, 21:04:33](https://lobste.rs/s/yiwe8s/defective_c_2009) - [Defective C++ (2009)](https://yosefk.com/c++fqa/defective.html)
 * [2024-03-07, 20:58:15](https://lobste.rs/s/thgujw/ix_autonomous_gpt_4_agent_platform) - [ix: Autonomous GPT-4 agent platform](https://github.com/kreneskyp/ix)
 * [2024-03-07, 20:45:02](https://lobste.rs/s/z2l3ot/deliberate_abstraction) - [Deliberate Abstraction](https://two-wrongs.com/deliberate-abstraction)
 * [2024-03-07, 20:14:13](https://lobste.rs/s/0i33my/how_do_calculators_compute_sine) - [How do calculators compute sine?](https://androidcalculator.com/how-do-calculators-compute-sine/)
