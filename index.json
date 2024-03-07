@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-07, 05:58:25",
+      "https://lobste.rs/s/dwaj7v/writing_postgres_logical_replication"
+    ],
+    [
+      "Writing a Postgres Logical Replication System in Golang",
+      "https://www.dolthub.com/blog/2024-03-08-postgres-logical-replication/"
+    ]
+  ],
+  [
+    [
       "2024-03-07, 04:10:17",
       "https://lobste.rs/s/uqyiyl/announcing_typescript_5_4"
     ],
@@ -177,16 +187,6 @@
     [
       "Rustls Now Using AWS Libcrypto for Rust, Gains FIPS Support",
       "https://www.memorysafety.org/blog/rustls-with-aws-crypto-back-end-and-fips/"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 02:04:55",
-      "https://lobste.rs/s/dzsoxt/measuring_github_copilot_s_impact_on"
-    ],
-    [
-      "Measuring GitHub Copilot’s Impact on Productivity",
-      "https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/"
     ]
   ],
   [
