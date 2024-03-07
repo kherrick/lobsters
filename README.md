@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-07, 11:37:59](https://lobste.rs/s/1ivqeg/bleacher_report_gutting_out_otp) - [Bleacher Report gutting out OTP](https://www.reddit.com/r/erlang/comments/18f3kl3/bleacher_report_gutting_out_otp/kcts58i/)
 * [2024-03-07, 11:32:54](https://lobste.rs/s/syynqt/netbsd_for_advanced_minimalist) - [NetBSD for the Advanced Minimalist](https://youtu.be/-75TQMbar1Y)
 * [2024-03-07, 11:15:23](https://lobste.rs/s/4cpvq6/cap_theorem_bad_bad_ugly) - [The CAP Theorem. The Bad, the Bad, & the Ugly](https://blog.dtornow.com/the-cap-theorem.-the-bad-the-bad-the-ugly/)
 * [2024-03-07, 09:00:21](https://lobste.rs/s/2w7wc7/towards_zero_downtime_upgrades_stateful) - [Towards zero-downtime upgrades of stateful systems](https://stevana.github.io/towards_zero-downtime_upgrades_of_stateful_systems.html)
 * [2024-03-07, 08:58:57](https://lobste.rs/s/xfwae2/trying_understand_copilot_s_type) - [Trying To Understand Copilot's Type Spaghetti](https://rtpg.co/2024/03/07/parsing-copilots-type-spaghetti/)
 * [2024-03-07, 07:44:50](https://lobste.rs/s/tlmvrr/i_m_programmer_i_m_stupid) - [I'm a programmer and I'm stupid](https://antonz.org/stupid/)
 * [2024-03-07, 07:03:07](https://lobste.rs/s/ky3oa7/running_netbsd_10_release_candidate_5) - [Running NetBSD 10 Release Candidate 5](https://rubenerd.com/running-netbsd-10-rc5/)
-* [2024-03-07, 05:58:25](https://lobste.rs/s/dwaj7v/writing_postgres_logical_replication) - [Writing a Postgres Logical Replication System in Golang](https://www.dolthub.com/blog/2024-03-08-postgres-logical-replication/)
 * [2024-03-07, 04:10:17](https://lobste.rs/s/uqyiyl/announcing_typescript_5_4) - [Announcing TypeScript 5.4](https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/)
 * [2024-03-07, 03:56:31](https://lobste.rs/s/wnli1s/scalable_css) - [Scalable CSS](https://chriscoyier.net/2023/01/17/scalable-css/)
 * [2024-03-07, 03:13:06](https://lobste.rs/s/jr0den/skyplane_blazing_fast_bulk_data) - [Skyplane: Blazing fast bulk data transfers between any cloud](https://skyplane.org/)
