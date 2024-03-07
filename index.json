@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-07, 18:24:20",
+      "https://lobste.rs/s/tgj13g/boa_release_v0_18_javascript_engine"
+    ],
+    [
+      "Boa release v0.18: A JavaScript engine written in Rust",
+      "https://boajs.dev/blog/2024/03/07/boa-release-18"
+    ]
+  ],
+  [
+    [
       "2024-03-07, 17:39:52",
       "https://lobste.rs/s/ocfjan/freebsd_has_nother_new_c_compiler_intel"
     ],
@@ -187,16 +197,6 @@
     [
       "How to speed up the Rust compiler in March 2024",
       "https://nnethercote.github.io/2024/03/06/how-to-speed-up-the-rust-compiler-in-march-2024.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 18:08:14",
-      "https://lobste.rs/s/fc8esf/open_sourcing_our_progress_on_tailwind"
-    ],
-    [
-      "Open-sourcing our progress on Tailwind CSS v4.0",
-      "https://tailwindcss.com/blog/tailwindcss-v4-alpha"
     ]
   ],
   [
