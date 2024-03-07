@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-07, 22:17:03](https://lobste.rs/s/rrgyvm/how_many_programming_languages_do_you) - [How many programming languages do you think a person can be proficient in?](https://lobste.rs/s/rrgyvm/how_many_programming_languages_do_you)
 * [2024-03-07, 21:50:14](https://lobste.rs/s/mzip6v/how_troubleshoot_deferred_probe_issues) - [How to troubleshoot deferred probe issues in Linux (2022)](https://blog.dowhile0.org/2022/06/21/how-to-troubleshoot-deferred-probe-issues-in-linux/)
 * [2024-03-07, 21:04:33](https://lobste.rs/s/yiwe8s/defective_c_2009) - [Defective C++ (2009)](https://yosefk.com/c++fqa/defective.html)
 * [2024-03-07, 20:58:15](https://lobste.rs/s/thgujw/ix_autonomous_gpt_4_agent_platform) - [ix: Autonomous GPT-4 agent platform](https://github.com/kreneskyp/ix)
@@ -10,7 +11,6 @@
 * [2024-03-07, 17:39:52](https://lobste.rs/s/ocfjan/freebsd_has_nother_new_c_compiler_intel) - [FreeBSD has a(nother) new C compiler: Intel oneAPI DPC++/C++](https://briancallahan.net/blog/20240306.html)
 * [2024-03-07, 15:10:09](https://lobste.rs/s/upue2q/tinywasm_tiny_interpreted_webassembly) - [tinywasm: A tiny, interpreted WebAssembly Runtime written in Rust](https://github.com/explodingcamera/tinywasm)
 * [2024-03-07, 14:47:03](https://lobste.rs/s/ykvkub/eloquent_javascript_4th_edition) - [Eloquent JavaScript, 4th edition](https://eloquentjavascript.net/)
-* [2024-03-07, 14:37:04](https://lobste.rs/s/ojzuix/extending_destination_passing_style) - [Extending destination-passing style programming to arbitrary data types in Linear Haskell](https://www.tweag.io/blog/2024-03-07-dps-haskell/)
 * [2024-03-07, 11:37:59](https://lobste.rs/s/1ivqeg/bleacher_report_gutting_out_otp) - [Bleacher Report gutting out OTP](https://www.reddit.com/r/erlang/comments/18f3kl3/bleacher_report_gutting_out_otp/kcts58i/)
 * [2024-03-07, 11:32:54](https://lobste.rs/s/syynqt/netbsd_for_advanced_minimalist) - [NetBSD for the Advanced Minimalist](https://youtu.be/-75TQMbar1Y)
 * [2024-03-07, 11:15:23](https://lobste.rs/s/4cpvq6/cap_theorem_bad_bad_ugly) - [The CAP Theorem. The Bad, the Bad, & the Ugly](https://blog.dtornow.com/the-cap-theorem.-the-bad-the-bad-the-ugly/)
