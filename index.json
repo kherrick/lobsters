@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-07, 07:03:07",
+      "https://lobste.rs/s/ky3oa7/running_netbsd_10_release_candidate_5"
+    ],
+    [
+      "Running NetBSD 10 Release Candidate 5",
+      "https://rubenerd.com/running-netbsd-10-rc5/"
+    ]
+  ],
+  [
+    [
       "2024-03-07, 05:58:25",
       "https://lobste.rs/s/dwaj7v/writing_postgres_logical_replication"
     ],
@@ -227,16 +237,6 @@
     [
       "Java is becoming more like Rust, and I am here for it",
       "https://joshaustin.tech/blog/java-is-becoming-rust/"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 16:07:17",
-      "https://lobste.rs/s/zncgdf/use_weird_tests_capture_tacit_knowledge"
-    ],
-    [
-      "Use weird tests to capture tacit knowledge",
-      "https://jmduke.com/posts/essays/weird-tests-tacit-knowledge/"
     ]
   ],
   [
