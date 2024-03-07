@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-07, 03:56:31](https://lobste.rs/s/wnli1s/scalable_css) - [Scalable CSS](https://chriscoyier.net/2023/01/17/scalable-css/)
 * [2024-03-07, 03:13:06](https://lobste.rs/s/jr0den/skyplane_blazing_fast_bulk_data) - [Skyplane: Blazing fast bulk data transfers between any cloud](https://skyplane.org/)
 * [2024-03-07, 02:30:21](https://lobste.rs/s/404a31/linux_6_8_network_optimizations_can_boost) - [Linux 6.8 Network Optimizations Can Boost TCP Performance For Many Concurrent Connections By ~40%](https://www.phoronix.com/news/Linux-6.8-Networking)
 * [2024-03-07, 01:05:49](https://lobste.rs/s/z6mwrb/jorge_personal_site_generator_with_org) - [jorge: a personal site generator with org-mode support](https://jorge.olano.dev/)
@@ -19,7 +20,6 @@
 * [2024-03-06, 09:01:34](https://lobste.rs/s/zrxosu/font_processing_is_still_source) - [Font processing is still a source of vulnerabilities](https://www.canva.dev/blog/engineering/fonts-are-still-a-helvetica-of-a-problem/)
 * [2024-03-06, 02:04:55](https://lobste.rs/s/dzsoxt/measuring_github_copilot_s_impact_on) - [Measuring GitHub Copilot’s Impact on Productivity](https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/)
 * [2024-03-06, 01:53:46](https://lobste.rs/s/ikbbnt/how_i_use_git_worktrees) - [How I use git worktrees](https://notes.billmill.org/blog/2024/03/How_I_use_git_worktrees.html)
-* [2024-03-05, 22:27:45](https://lobste.rs/s/jzl1nd/swift_5_10_released) - [Swift 5.10 Released](https://swift.org/blog/swift-5.10-released/)
 * [2024-03-05, 20:25:24](https://lobste.rs/s/bi5koy/homelab_dashboard_for_nixos) - [A homelab dashboard for NixOS](https://jnsgr.uk/2024/03/a-homelab-dashboard-for-nixos/)
 * [2024-03-05, 19:39:26](https://lobste.rs/s/6t5rkf/adding_systemd_postmarketos) - [Adding systemd to postmarketOS](https://postmarketos.org/blog/2024/03/05/adding-systemd/)
 * [2024-03-05, 17:42:52](https://lobste.rs/s/jracje/java_is_becoming_more_like_rust_i_am_here) - [Java is becoming more like Rust, and I am here for it](https://joshaustin.tech/blog/java-is-becoming-rust/)
