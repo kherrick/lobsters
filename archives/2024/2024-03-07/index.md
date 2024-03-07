@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
+* [2024-03-07, 07:03:07](https://lobste.rs/s/ky3oa7/running_netbsd_10_release_candidate_5) - [Running NetBSD 10 Release Candidate 5](https://rubenerd.com/running-netbsd-10-rc5/)
 * [2024-03-07, 05:58:25](https://lobste.rs/s/dwaj7v/writing_postgres_logical_replication) - [Writing a Postgres Logical Replication System in Golang](https://www.dolthub.com/blog/2024-03-08-postgres-logical-replication/)
 * [2024-03-07, 04:10:17](https://lobste.rs/s/uqyiyl/announcing_typescript_5_4) - [Announcing TypeScript 5.4](https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/)
 * [2024-03-07, 03:56:31](https://lobste.rs/s/wnli1s/scalable_css) - [Scalable CSS](https://chriscoyier.net/2023/01/17/scalable-css/)

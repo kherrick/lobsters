@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-07, 07:03:07](https://lobste.rs/s/ky3oa7/running_netbsd_10_release_candidate_5) - [Running NetBSD 10 Release Candidate 5](https://rubenerd.com/running-netbsd-10-rc5/)
 * [2024-03-07, 05:58:25](https://lobste.rs/s/dwaj7v/writing_postgres_logical_replication) - [Writing a Postgres Logical Replication System in Golang](https://www.dolthub.com/blog/2024-03-08-postgres-logical-replication/)
 * [2024-03-07, 04:10:17](https://lobste.rs/s/uqyiyl/announcing_typescript_5_4) - [Announcing TypeScript 5.4](https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/)
 * [2024-03-07, 03:56:31](https://lobste.rs/s/wnli1s/scalable_css) - [Scalable CSS](https://chriscoyier.net/2023/01/17/scalable-css/)
@@ -23,7 +24,6 @@
 * [2024-03-05, 20:25:24](https://lobste.rs/s/bi5koy/homelab_dashboard_for_nixos) - [A homelab dashboard for NixOS](https://jnsgr.uk/2024/03/a-homelab-dashboard-for-nixos/)
 * [2024-03-05, 19:39:26](https://lobste.rs/s/6t5rkf/adding_systemd_postmarketos) - [Adding systemd to postmarketOS](https://postmarketos.org/blog/2024/03/05/adding-systemd/)
 * [2024-03-05, 17:42:52](https://lobste.rs/s/jracje/java_is_becoming_more_like_rust_i_am_here) - [Java is becoming more like Rust, and I am here for it](https://joshaustin.tech/blog/java-is-becoming-rust/)
-* [2024-03-05, 16:07:17](https://lobste.rs/s/zncgdf/use_weird_tests_capture_tacit_knowledge) - [Use weird tests to capture tacit knowledge](https://jmduke.com/posts/essays/weird-tests-tacit-knowledge/)
 * [2024-03-05, 14:03:54](https://lobste.rs/s/pmhf1a/dada_experiement_by_creators_rust) - [Dada, an experiement by the creators of Rust](https://dada-lang.org/)
 
 ## [Archives](archives/index.md)
