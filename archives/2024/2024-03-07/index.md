@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
+* [2024-03-07, 04:10:17](https://lobste.rs/s/uqyiyl/announcing_typescript_5_4) - [Announcing TypeScript 5.4](https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/)
 * [2024-03-07, 03:56:31](https://lobste.rs/s/wnli1s/scalable_css) - [Scalable CSS](https://chriscoyier.net/2023/01/17/scalable-css/)
 * [2024-03-07, 03:13:06](https://lobste.rs/s/jr0den/skyplane_blazing_fast_bulk_data) - [Skyplane: Blazing fast bulk data transfers between any cloud](https://skyplane.org/)
 * [2024-03-07, 02:30:21](https://lobste.rs/s/404a31/linux_6_8_network_optimizations_can_boost) - [Linux 6.8 Network Optimizations Can Boost TCP Performance For Many Concurrent Connections By ~40%](https://www.phoronix.com/news/Linux-6.8-Networking)
