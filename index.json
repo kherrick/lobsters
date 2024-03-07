@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2024-03-07, 05:58:25",
+      "https://lobste.rs/s/dwaj7v/writing_postgres_logical_replication"
+    ],
+    [
+      "Writing a Postgres Logical Replication System in Golang",
+      "https://www.dolthub.com/blog/2024-03-08-postgres-logical-replication/"
+    ]
+  ],
+  [
+    [
       "2024-03-07, 04:10:17",
       "https://lobste.rs/s/uqyiyl/announcing_typescript_5_4"
     ],
@@ -237,16 +247,6 @@
     [
       "How I use git worktrees",
       "https://notes.billmill.org/blog/2024/03/How_I_use_git_worktrees.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 14:03:54",
-      "https://lobste.rs/s/pmhf1a/dada_experiement_by_creators_rust"
-    ],
-    [
-      "Dada, an experiement by the creators of Rust",
-      "https://dada-lang.org/"
     ]
   ]
 ]
