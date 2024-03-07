@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
+* [2024-03-07, 21:50:14](https://lobste.rs/s/mzip6v/how_troubleshoot_deferred_probe_issues) - [How to troubleshoot deferred probe issues in Linux (2022)](https://blog.dowhile0.org/2022/06/21/how-to-troubleshoot-deferred-probe-issues-in-linux/)
 * [2024-03-07, 21:04:33](https://lobste.rs/s/yiwe8s/defective_c_2009) - [Defective C++ (2009)](https://yosefk.com/c++fqa/defective.html)
 * [2024-03-07, 21:04:33](https://lobste.rs/s/yiwe8s/defective_c) - [Defective C++](https://yosefk.com/c++fqa/defective.html)
 * [2024-03-07, 20:58:15](https://lobste.rs/s/thgujw/ix_autonomous_gpt_4_agent_platform) - [ix: Autonomous GPT-4 agent platform](https://github.com/kreneskyp/ix)

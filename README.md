@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-07, 21:50:14](https://lobste.rs/s/mzip6v/how_troubleshoot_deferred_probe_issues) - [How to troubleshoot deferred probe issues in Linux (2022)](https://blog.dowhile0.org/2022/06/21/how-to-troubleshoot-deferred-probe-issues-in-linux/)
 * [2024-03-07, 21:04:33](https://lobste.rs/s/yiwe8s/defective_c_2009) - [Defective C++ (2009)](https://yosefk.com/c++fqa/defective.html)
 * [2024-03-07, 20:58:15](https://lobste.rs/s/thgujw/ix_autonomous_gpt_4_agent_platform) - [ix: Autonomous GPT-4 agent platform](https://github.com/kreneskyp/ix)
 * [2024-03-07, 20:45:02](https://lobste.rs/s/z2l3ot/deliberate_abstraction) - [Deliberate Abstraction](https://two-wrongs.com/deliberate-abstraction)
@@ -22,7 +23,6 @@
 * [2024-03-07, 00:11:33](https://lobste.rs/s/vgwwzq/ryelang_asciinema_demo_exploring_json) - [Ryelang asciinema demo: exploring JSON](https://asciinema.org/a/615327)
 * [2024-03-06, 20:38:57](https://lobste.rs/s/uxzoap/utf_8_bits_bytes_benefits_2010) - [UTF-8: Bits, Bytes, and Benefits (2010)](https://research.swtch.com/utf8)
 * [2024-03-06, 20:01:55](https://lobste.rs/s/cjdh9s/how_speed_up_rust_compiler_march_2024) - [How to speed up the Rust compiler in March 2024](https://nnethercote.github.io/2024/03/06/how-to-speed-up-the-rust-compiler-in-march-2024.html)
-* [2024-03-06, 15:58:23](https://lobste.rs/s/0dqfax/minimalist_midi_synth_with_sine_waves) - [A Minimalist MIDI Synth with Sine Waves](https://massimo-nazaria.github.io/midi-synth.html)
 * [2024-03-06, 15:07:46](https://lobste.rs/s/nrll4g/enabling_constraints) - [Enabling constraints](https://jordankaye.dev/posts/enabling-constraints/)
 * [2024-03-06, 09:55:30](https://lobste.rs/s/3qynyr/happy_20th_birthday_openttd) - [Happy 20th birthday OpenTTD](https://www.openttd.org/news/2024/03/06/happy-birthday)
 
