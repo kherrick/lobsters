@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-07, 04:10:17",
+      "https://lobste.rs/s/uqyiyl/announcing_typescript_5_4"
+    ],
+    [
+      "Announcing TypeScript 5.4",
+      "https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/"
+    ]
+  ],
+  [
+    [
       "2024-03-07, 03:56:31",
       "https://lobste.rs/s/wnli1s/scalable_css"
     ],
@@ -177,16 +187,6 @@
     [
       "Font processing is still a source of vulnerabilities",
       "https://www.canva.dev/blog/engineering/fonts-are-still-a-helvetica-of-a-problem/"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 02:04:55",
-      "https://lobste.rs/s/dzsoxt/measuring_github_copilot_s_impact_on"
-    ],
-    [
-      "Measuring GitHub Copilot’s Impact on Productivity",
-      "https://cacm.acm.org/research/measuring-github-copilots-impact-on-productivity/"
     ]
   ],
   [
