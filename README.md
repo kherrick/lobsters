@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-07, 20:58:15](https://lobste.rs/s/thgujw/ix_autonomous_gpt_4_agent_platform) - [ix: Autonomous GPT-4 agent platform](https://github.com/kreneskyp/ix)
 * [2024-03-07, 20:45:02](https://lobste.rs/s/z2l3ot/deliberate_abstraction) - [Deliberate Abstraction](https://two-wrongs.com/deliberate-abstraction)
 * [2024-03-07, 20:14:13](https://lobste.rs/s/0i33my/how_do_calculators_compute_sine) - [How do calculators compute sine?](https://androidcalculator.com/how-do-calculators-compute-sine/)
 * [2024-03-07, 20:07:45](https://lobste.rs/s/zvhdq2/commitgo_launches_gitea_enterprise) - [CommitGo Launches Gitea Enterprise](https://blog.gitea.com/gitea-enterprise)
@@ -24,7 +25,6 @@
 * [2024-03-06, 15:58:23](https://lobste.rs/s/0dqfax/minimalist_midi_synth_with_sine_waves) - [A Minimalist MIDI Synth with Sine Waves](https://massimo-nazaria.github.io/midi-synth.html)
 * [2024-03-06, 15:07:46](https://lobste.rs/s/nrll4g/enabling_constraints) - [Enabling constraints](https://jordankaye.dev/posts/enabling-constraints/)
 * [2024-03-06, 09:55:30](https://lobste.rs/s/3qynyr/happy_20th_birthday_openttd) - [Happy 20th birthday OpenTTD](https://www.openttd.org/news/2024/03/06/happy-birthday)
-* [2024-03-06, 01:53:46](https://lobste.rs/s/ikbbnt/how_i_use_git_worktrees) - [How I use git worktrees](https://notes.billmill.org/blog/2024/03/How_I_use_git_worktrees.html)
 
 ## [Archives](archives/index.md)
 
