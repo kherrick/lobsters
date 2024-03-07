@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
+* [2024-03-07, 14:47:03](https://lobste.rs/s/ykvkub/eloquent_javascript_4th_edition) - [Eloquent JavaScript, 4th edition](https://eloquentjavascript.net/)
 * [2024-03-07, 14:37:04](https://lobste.rs/s/ojzuix/extending_destination_passing_style) - [Extending destination-passing style programming to arbitrary data types in Linear Haskell](https://www.tweag.io/blog/2024-03-07-dps-haskell/)
 * [2024-03-07, 11:37:59](https://lobste.rs/s/1ivqeg/bleacher_report_gutting_out_otp) - [Bleacher Report gutting out OTP](https://www.reddit.com/r/erlang/comments/18f3kl3/bleacher_report_gutting_out_otp/kcts58i/)
 * [2024-03-07, 11:32:54](https://lobste.rs/s/syynqt/netbsd_for_advanced_minimalist) - [NetBSD for the Advanced Minimalist](https://youtu.be/-75TQMbar1Y)
