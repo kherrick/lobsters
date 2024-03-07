@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-07, 01:05:49",
+      "https://lobste.rs/s/z6mwrb/jorge_personal_site_generator_with_org"
+    ],
+    [
+      "jorge: a personal site generator with org-mode support",
+      "https://jorge.olano.dev/"
+    ]
+  ],
+  [
+    [
       "2024-03-07, 00:11:33",
       "https://lobste.rs/s/vgwwzq/ryelang_asciinema_demo_exploring_json"
     ],
@@ -237,16 +247,6 @@
     [
       "Dada, an experiement by the creators of Rust",
       "https://dada-lang.org/"
-    ]
-  ],
-  [
-    [
-      "2024-03-05, 07:14:47",
-      "https://lobste.rs/s/lrdkd5/nixbsd_unofficial_nixos_fork_with"
-    ],
-    [
-      "nixbsd: An unofficial NixOS fork with a FreeBSD kernel",
-      "https://github.com/nixos-bsd/nixbsd"
     ]
   ]
 ]
