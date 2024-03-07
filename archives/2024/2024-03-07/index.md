@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-07](index.md)
 
+* [2024-03-07, 14:37:04](https://lobste.rs/s/ojzuix/extending_destination_passing_style) - [Extending destination-passing style programming to arbitrary data types in Linear Haskell](https://www.tweag.io/blog/2024-03-07-dps-haskell/)
 * [2024-03-07, 11:37:59](https://lobste.rs/s/1ivqeg/bleacher_report_gutting_out_otp) - [Bleacher Report gutting out OTP](https://www.reddit.com/r/erlang/comments/18f3kl3/bleacher_report_gutting_out_otp/kcts58i/)
 * [2024-03-07, 11:32:54](https://lobste.rs/s/syynqt/netbsd_for_advanced_minimalist) - [NetBSD for the Advanced Minimalist](https://youtu.be/-75TQMbar1Y)
 * [2024-03-07, 11:15:23](https://lobste.rs/s/4cpvq6/cap_theorem_bad_bad_ugly) - [The CAP Theorem. The Bad, the Bad, & the Ugly](https://blog.dtornow.com/the-cap-theorem.-the-bad-the-bad-the-ugly/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-07, 14:37:04](https://lobste.rs/s/ojzuix/extending_destination_passing_style) - [Extending destination-passing style programming to arbitrary data types in Linear Haskell](https://www.tweag.io/blog/2024-03-07-dps-haskell/)
 * [2024-03-07, 11:37:59](https://lobste.rs/s/1ivqeg/bleacher_report_gutting_out_otp) - [Bleacher Report gutting out OTP](https://www.reddit.com/r/erlang/comments/18f3kl3/bleacher_report_gutting_out_otp/kcts58i/)
 * [2024-03-07, 11:32:54](https://lobste.rs/s/syynqt/netbsd_for_advanced_minimalist) - [NetBSD for the Advanced Minimalist](https://youtu.be/-75TQMbar1Y)
 * [2024-03-07, 11:15:23](https://lobste.rs/s/4cpvq6/cap_theorem_bad_bad_ugly) - [The CAP Theorem. The Bad, the Bad, & the Ugly](https://blog.dtornow.com/the-cap-theorem.-the-bad-the-bad-the-ugly/)
@@ -17,7 +18,6 @@
 * [2024-03-06, 20:38:57](https://lobste.rs/s/uxzoap/utf_8_bits_bytes_benefits_2010) - [UTF-8: Bits, Bytes, and Benefits (2010)](https://research.swtch.com/utf8)
 * [2024-03-06, 20:01:55](https://lobste.rs/s/cjdh9s/how_speed_up_rust_compiler_march_2024) - [How to speed up the Rust compiler in March 2024](https://nnethercote.github.io/2024/03/06/how-to-speed-up-the-rust-compiler-in-march-2024.html)
 * [2024-03-06, 18:08:14](https://lobste.rs/s/fc8esf/open_sourcing_our_progress_on_tailwind) - [Open-sourcing our progress on Tailwind CSS v4.0](https://tailwindcss.com/blog/tailwindcss-v4-alpha)
-* [2024-03-06, 17:29:17](https://lobste.rs/s/uecy3h/bitonic_sorter) - [Bitonic sorter](https://en.wikipedia.org/wiki/Bitonic_sorter)
 * [2024-03-06, 15:58:23](https://lobste.rs/s/0dqfax/minimalist_midi_synth_with_sine_waves) - [A Minimalist MIDI Synth with Sine Waves](https://massimo-nazaria.github.io/midi-synth.html)
 * [2024-03-06, 15:56:14](https://lobste.rs/s/clzekl/connect_freebsd_14_0_stable_freeipa_idm) - [Connect FreeBSD 14.0-STABLE to FreeIPA/IDM](https://vermaden.wordpress.com/2024/03/06/connect-freebsd-14-0-stable-to-freeipa-idm/)
 * [2024-03-06, 15:07:46](https://lobste.rs/s/nrll4g/enabling_constraints) - [Enabling constraints](https://jordankaye.dev/posts/enabling-constraints/)
