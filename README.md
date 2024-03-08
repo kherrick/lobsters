@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-08, 02:38:10](https://lobste.rs/s/xagbg1/flexible_economical_utf_8_decoder) - [Flexible and Economical UTF-8 Decoder](https://bjoern.hoehrmann.de/utf-8/decoder/dfa/)
 * [2024-03-08, 01:55:13](https://lobste.rs/s/ug2kin/benchmarks_about_openai_shortened) - [Benchmarks about OpenAI shortened embeddings](https://docs.pgvecto.rs/use-case/adaptive-retrieval.html)
 * [2024-03-08, 01:51:06](https://lobste.rs/s/pcsoao/year_life_playdate_game_developer) - [A year in the life of a Playdate game developer](https://blog.gingerbeardman.com/2024/03/07/a-year-in-the-life-of-a-playdate-game-developer/)
 * [2024-03-08, 01:23:11](https://lobste.rs/s/hsoirt/dynamic_programming_lisp_flavored) - [Dynamic Programming In Lisp Flavored Erlang](https://medium.com/@kkmvv/recursion-is-necessary-part-ii-dynamic-programming-f3da0ff4ed5c)
@@ -20,7 +21,6 @@
 * [2024-03-07, 09:00:21](https://lobste.rs/s/2w7wc7/towards_zero_downtime_upgrades_stateful) - [Towards zero-downtime upgrades of stateful systems](https://stevana.github.io/towards_zero-downtime_upgrades_of_stateful_systems.html)
 * [2024-03-07, 08:58:57](https://lobste.rs/s/xfwae2/trying_understand_copilot_s_type) - [Trying To Understand Copilot's Type Spaghetti](https://rtpg.co/2024/03/07/parsing-copilots-type-spaghetti/)
 * [2024-03-07, 07:44:50](https://lobste.rs/s/tlmvrr/i_m_programmer_i_m_stupid) - [I'm a programmer and I'm stupid](https://antonz.org/stupid/)
-* [2024-03-07, 04:10:17](https://lobste.rs/s/uqyiyl/announcing_typescript_5_4) - [Announcing TypeScript 5.4](https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/)
 * [2024-03-07, 02:30:21](https://lobste.rs/s/404a31/linux_6_8_network_optimizations_can_boost) - [Linux 6.8 Network Optimizations Can Boost TCP Performance For Many Concurrent Connections By ~40%](https://www.phoronix.com/news/Linux-6.8-Networking)
 * [2024-03-07, 01:05:49](https://lobste.rs/s/z6mwrb/jorge_personal_site_generator_with_org) - [jorge: a personal site generator with org-mode support](https://jorge.olano.dev/)
 * [2024-03-07, 00:11:33](https://lobste.rs/s/vgwwzq/ryelang_asciinema_demo_exploring_json) - [Ryelang asciinema demo: exploring JSON](https://asciinema.org/a/615327)
