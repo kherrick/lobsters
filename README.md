@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-08, 07:20:07](https://lobste.rs/s/dzpkn2/you_can_now_train_70b_language_model_at) - [You can now train a 70b language model at home](http://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
 * [2024-03-08, 03:29:39](https://lobste.rs/s/izve3g/stack_unwinding_arm_cil_trees) - [Stack unwinding, ARM and CIL trees](https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_1_1.html)
 * [2024-03-08, 03:24:49](https://lobste.rs/s/wy6dsh/upsert_uuids_with_sqlc) - [Upsert UUIDs with sqlc](https://adriano.fyi/posts/2024-03-07-upsert-uuids-with-sqlc/)
 * [2024-03-08, 02:38:10](https://lobste.rs/s/xagbg1/flexible_economical_utf_8_decoder) - [Flexible and Economical UTF-8 Decoder](https://bjoern.hoehrmann.de/utf-8/decoder/dfa/)
@@ -9,7 +10,6 @@
 * [2024-03-08, 01:13:30](https://lobste.rs/s/9t6fqe/autogenerating_book_series_from_three) - [Autogenerating a Book Series From Three Years of iMessages](https://benkettle.xyz/posts/message-book/)
 * [2024-03-07, 23:51:23](https://lobste.rs/s/d7hq8r/experience_report_building_real_time_os) - [Experience Report: Building a Real Time OS Kernel in Smalltalk](http://www.rowledge.org/resources/tim's-Home-page/Squeak/RTOSinSmalltalk.html.pdf)
 * [2024-03-07, 22:17:03](https://lobste.rs/s/rrgyvm/how_many_programming_languages_do_you) - [How many programming languages do you think a person can be proficient in?](https://lobste.rs/s/rrgyvm/how_many_programming_languages_do_you)
-* [2024-03-07, 21:50:14](https://lobste.rs/s/mzip6v/how_troubleshoot_deferred_probe_issues) - [How to troubleshoot deferred probe issues in Linux (2022)](https://blog.dowhile0.org/2022/06/21/how-to-troubleshoot-deferred-probe-issues-in-linux/)
 * [2024-03-07, 21:04:33](https://lobste.rs/s/yiwe8s/defective_c_2009) - [Defective C++ (2009)](https://yosefk.com/c++fqa/defective.html)
 * [2024-03-07, 20:45:02](https://lobste.rs/s/z2l3ot/deliberate_abstraction) - [Deliberate Abstraction](https://two-wrongs.com/deliberate-abstraction)
 * [2024-03-07, 20:14:13](https://lobste.rs/s/0i33my/how_do_calculators_compute_sine) - [How do calculators compute sine?](https://androidcalculator.com/how-do-calculators-compute-sine/)
