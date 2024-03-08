@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-08, 14:27:12](https://lobste.rs/s/ydm7xk/build_initramfs_rootless) - [Build initramfs rootless](https://blog.izissise.net/posts/initramfs/)
 * [2024-03-08, 13:29:04](https://lobste.rs/s/a8ze5v/automatic_contact_sharing_ios_leaks) - [Automatic contact sharing in iOS leaks emails to Lockdown Mode devices](https://marekfoss.org/2024/03/08/automatic-contact-sharing-in-ios-leaks-emails-to-lockdown-mode-devices/)
 * [2024-03-08, 12:14:45](https://lobste.rs/s/i0bsk5/opengfw_open_source_implementation_gfw) - [OpenGFW, open source implementation of GFW (Great Firewall of China)](https://github.com/apernet/OpenGFW)
 * [2024-03-08, 11:57:11](https://lobste.rs/s/wwwbgc/run_nixos_integration_tests_on_macos) - [Run NixOS Integration Tests on macOS](https://nixcademy.com/2024/03/08/running-nixos-integration-tests-on-macos/)
@@ -15,7 +16,6 @@
 * [2024-03-08, 01:13:30](https://lobste.rs/s/9t6fqe/autogenerating_book_series_from_three) - [Autogenerating a Book Series From Three Years of iMessages](https://benkettle.xyz/posts/message-book/)
 * [2024-03-07, 23:51:23](https://lobste.rs/s/d7hq8r/experience_report_building_real_time_os) - [Experience Report: Building a Real Time OS Kernel in Smalltalk](http://www.rowledge.org/resources/tim's-Home-page/Squeak/RTOSinSmalltalk.html.pdf)
 * [2024-03-07, 22:17:03](https://lobste.rs/s/rrgyvm/how_many_programming_languages_do_you) - [How many programming languages do you think a person can be proficient in?](https://lobste.rs/s/rrgyvm/how_many_programming_languages_do_you)
-* [2024-03-07, 21:04:33](https://lobste.rs/s/yiwe8s/defective_c_2009) - [Defective C++ (2009)](https://yosefk.com/c++fqa/defective.html)
 * [2024-03-07, 20:45:02](https://lobste.rs/s/z2l3ot/deliberate_abstraction) - [Deliberate Abstraction](https://two-wrongs.com/deliberate-abstraction)
 * [2024-03-07, 20:14:13](https://lobste.rs/s/0i33my/how_do_calculators_compute_sine) - [How do calculators compute sine?](https://androidcalculator.com/how-do-calculators-compute-sine/)
 * [2024-03-07, 20:07:45](https://lobste.rs/s/zvhdq2/commitgo_launches_gitea_enterprise) - [CommitGo Launches Gitea Enterprise](https://blog.gitea.com/gitea-enterprise)

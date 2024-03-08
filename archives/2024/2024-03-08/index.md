@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-08](index.md)
 
+* [2024-03-08, 14:27:12](https://lobste.rs/s/ydm7xk/build_initramfs_rootless) - [Build initramfs rootless](https://blog.izissise.net/posts/initramfs/)
 * [2024-03-08, 13:29:04](https://lobste.rs/s/a8ze5v/automatic_contact_sharing_ios_leaks) - [Automatic contact sharing in iOS leaks emails to Lockdown Mode devices](https://marekfoss.org/2024/03/08/automatic-contact-sharing-in-ios-leaks-emails-to-lockdown-mode-devices/)
 * [2024-03-08, 12:14:45](https://lobste.rs/s/i0bsk5/opengfw_open_source_implementation_gfw) - [OpenGFW, open source implementation of GFW (Great Firewall of China)](https://github.com/apernet/OpenGFW)
 * [2024-03-08, 11:57:11](https://lobste.rs/s/wwwbgc/run_nixos_integration_tests_on_macos) - [Run NixOS Integration Tests on macOS](https://nixcademy.com/2024/03/08/running-nixos-integration-tests-on-macos/)
