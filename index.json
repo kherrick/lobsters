@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-08, 09:38:52",
+      "https://lobste.rs/s/nqootu/sudo_rs_dependencies_when_less_is_better"
+    ],
+    [
+      "Sudo-rs dependencies: when less is better",
+      "https://www.memorysafety.org/blog/reducing-dependencies-in-sudo/"
+    ]
+  ],
+  [
+    [
       "2024-03-08, 07:20:07",
       "https://lobste.rs/s/dzpkn2/you_can_now_train_70b_language_model_at"
     ],
@@ -27,16 +37,6 @@
     [
       "Upsert UUIDs with sqlc",
       "https://adriano.fyi/posts/2024-03-07-upsert-uuids-with-sqlc/"
-    ]
-  ],
-  [
-    [
-      "2024-03-08, 02:38:10",
-      "https://lobste.rs/s/xagbg1/flexible_economical_utf_8_decoder"
-    ],
-    [
-      "Flexible and Economical UTF-8 Decoder",
-      "https://bjoern.hoehrmann.de/utf-8/decoder/dfa/"
     ]
   ],
   [
