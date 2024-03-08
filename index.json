@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-08, 13:29:04",
+      "https://lobste.rs/s/a8ze5v/automatic_contact_sharing_ios_leaks"
+    ],
+    [
+      "Automatic contact sharing in iOS leaks emails to Lockdown Mode devices",
+      "https://marekfoss.org/2024/03/08/automatic-contact-sharing-in-ios-leaks-emails-to-lockdown-mode-devices/"
+    ]
+  ],
+  [
+    [
       "2024-03-08, 12:14:45",
       "https://lobste.rs/s/i0bsk5/opengfw_open_source_implementation_gfw"
     ],
@@ -67,16 +77,6 @@
     [
       "You can now train a 70b language model at home",
       "http://www.answer.ai/posts/2024-03-06-fsdp-qlora.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-08, 03:29:39",
-      "https://lobste.rs/s/izve3g/stack_unwinding_arm_cil_trees"
-    ],
-    [
-      "Stack unwinding, ARM and CIL trees",
-      "https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_1_1.html"
     ]
   ],
   [
