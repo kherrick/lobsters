@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-08, 12:14:45",
+      "https://lobste.rs/s/i0bsk5/opengfw_open_source_implementation_gfw"
+    ],
+    [
+      "OpenGFW, open source implementation of GFW (Great Firewall of China)",
+      "https://github.com/apernet/OpenGFW"
+    ]
+  ],
+  [
+    [
+      "2024-03-08, 11:57:11",
+      "https://lobste.rs/s/wwwbgc/run_nixos_integration_tests_on_macos"
+    ],
+    [
+      "Run NixOS Integration Tests on macOS",
+      "https://nixcademy.com/2024/03/08/running-nixos-integration-tests-on-macos/"
+    ]
+  ],
+  [
+    [
       "2024-03-08, 11:32:02",
       "https://lobste.rs/s/xi5vtb/claude_3_writes_fuzzer"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-03-07, 15:10:09",
-      "https://lobste.rs/s/upue2q/tinywasm_tiny_interpreted_webassembly"
-    ],
-    [
-      "tinywasm: A tiny, interpreted WebAssembly Runtime written in Rust",
-      "https://github.com/explodingcamera/tinywasm"
-    ]
-  ],
-  [
-    [
       "2024-03-07, 14:47:03",
       "https://lobste.rs/s/ykvkub/eloquent_javascript_4th_edition"
     ],
@@ -207,16 +217,6 @@
     [
       "Bleacher Report gutting out OTP",
       "https://www.reddit.com/r/erlang/comments/18f3kl3/bleacher_report_gutting_out_otp/kcts58i/"
-    ]
-  ],
-  [
-    [
-      "2024-03-07, 11:15:23",
-      "https://lobste.rs/s/4cpvq6/cap_theorem_bad_bad_ugly"
-    ],
-    [
-      "The CAP Theorem. The Bad, the Bad, & the Ugly",
-      "https://blog.dtornow.com/the-cap-theorem.-the-bad-the-bad-the-ugly/"
     ]
   ],
   [
