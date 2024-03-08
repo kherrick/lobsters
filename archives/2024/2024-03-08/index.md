@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-08](index.md)
 
+* [2024-03-08, 15:42:45](https://lobste.rs/s/imarid/magic_property_testing) - [The Magic of Property Testing](https://www.youtube.com/watch?v=4bpc8NpNHRc)
 * [2024-03-08, 15:16:35](https://lobste.rs/s/ljlgev/case_study_securing_mmu_less_linux_using) - [Case Study: Securing MMU-less Linux Using CHERI](https://arxiv.org/pdf/2310.00933)
 * [2024-03-08, 14:27:12](https://lobste.rs/s/ydm7xk/build_initramfs_rootless) - [Build initramfs rootless](https://blog.izissise.net/posts/initramfs/)
 * [2024-03-08, 13:29:04](https://lobste.rs/s/a8ze5v/automatic_contact_sharing_ios_leaks) - [Automatic contact sharing in iOS leaks emails to Lockdown Mode devices](https://marekfoss.org/2024/03/08/automatic-contact-sharing-in-ios-leaks-emails-to-lockdown-mode-devices/)

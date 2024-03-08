@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-08, 15:42:45](https://lobste.rs/s/imarid/magic_property_testing) - [The Magic of Property Testing](https://www.youtube.com/watch?v=4bpc8NpNHRc)
 * [2024-03-08, 15:16:35](https://lobste.rs/s/ljlgev/case_study_securing_mmu_less_linux_using) - [Case Study: Securing MMU-less Linux Using CHERI](https://arxiv.org/pdf/2310.00933)
 * [2024-03-08, 14:27:12](https://lobste.rs/s/ydm7xk/build_initramfs_rootless) - [Build initramfs rootless](https://blog.izissise.net/posts/initramfs/)
 * [2024-03-08, 13:29:04](https://lobste.rs/s/a8ze5v/automatic_contact_sharing_ios_leaks) - [Automatic contact sharing in iOS leaks emails to Lockdown Mode devices](https://marekfoss.org/2024/03/08/automatic-contact-sharing-in-ios-leaks-emails-to-lockdown-mode-devices/)
@@ -11,7 +12,6 @@
 * [2024-03-08, 09:38:52](https://lobste.rs/s/nqootu/sudo_rs_dependencies_when_less_is_better) - [Sudo-rs dependencies: when less is better](https://www.memorysafety.org/blog/reducing-dependencies-in-sudo/)
 * [2024-03-08, 07:20:07](https://lobste.rs/s/dzpkn2/you_can_now_train_70b_language_model_at) - [You can now train a 70b language model at home](http://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
 * [2024-03-08, 03:24:49](https://lobste.rs/s/wy6dsh/upsert_uuids_with_sqlc) - [Upsert UUIDs with sqlc](https://adriano.fyi/posts/2024-03-07-upsert-uuids-with-sqlc/)
-* [2024-03-08, 01:55:13](https://lobste.rs/s/ug2kin/benchmarks_about_openai_shortened) - [Benchmarks about OpenAI shortened embeddings](https://docs.pgvecto.rs/use-case/adaptive-retrieval.html)
 * [2024-03-08, 01:51:06](https://lobste.rs/s/pcsoao/year_life_playdate_game_developer) - [A year in the life of a Playdate game developer](https://blog.gingerbeardman.com/2024/03/07/a-year-in-the-life-of-a-playdate-game-developer/)
 * [2024-03-08, 01:13:30](https://lobste.rs/s/9t6fqe/autogenerating_book_series_from_three) - [Autogenerating a Book Series From Three Years of iMessages](https://benkettle.xyz/posts/message-book/)
 * [2024-03-07, 23:51:23](https://lobste.rs/s/d7hq8r/experience_report_building_real_time_os) - [Experience Report: Building a Real Time OS Kernel in Smalltalk](http://www.rowledge.org/resources/tim's-Home-page/Squeak/RTOSinSmalltalk.html.pdf)
