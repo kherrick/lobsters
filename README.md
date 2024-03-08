@@ -4,6 +4,7 @@
 * [2024-03-08, 07:20:07](https://lobste.rs/s/dzpkn2/you_can_now_train_70b_language_model_at) - [You can now train a 70b language model at home](http://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
 * [2024-03-08, 03:29:39](https://lobste.rs/s/izve3g/stack_unwinding_arm_cil_trees) - [Stack unwinding, ARM and CIL trees](https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_1_1.html)
 * [2024-03-08, 03:24:49](https://lobste.rs/s/wy6dsh/upsert_uuids_with_sqlc) - [Upsert UUIDs with sqlc](https://adriano.fyi/posts/2024-03-07-upsert-uuids-with-sqlc/)
+* [2024-03-08, 02:38:10](https://lobste.rs/s/xagbg1/flexible_economical_utf_8_decoder) - [Flexible and Economical UTF-8 Decoder](https://bjoern.hoehrmann.de/utf-8/decoder/dfa/)
 * [2024-03-08, 01:55:13](https://lobste.rs/s/ug2kin/benchmarks_about_openai_shortened) - [Benchmarks about OpenAI shortened embeddings](https://docs.pgvecto.rs/use-case/adaptive-retrieval.html)
 * [2024-03-08, 01:51:06](https://lobste.rs/s/pcsoao/year_life_playdate_game_developer) - [A year in the life of a Playdate game developer](https://blog.gingerbeardman.com/2024/03/07/a-year-in-the-life-of-a-playdate-game-developer/)
 * [2024-03-08, 01:23:11](https://lobste.rs/s/hsoirt/dynamic_programming_lisp_flavored) - [Dynamic Programming In Lisp Flavored Erlang](https://medium.com/@kkmvv/recursion-is-necessary-part-ii-dynamic-programming-f3da0ff4ed5c)
@@ -24,7 +25,6 @@
 * [2024-03-07, 07:44:50](https://lobste.rs/s/tlmvrr/i_m_programmer_i_m_stupid) - [I'm a programmer and I'm stupid](https://antonz.org/stupid/)
 * [2024-03-07, 02:30:21](https://lobste.rs/s/404a31/linux_6_8_network_optimizations_can_boost) - [Linux 6.8 Network Optimizations Can Boost TCP Performance For Many Concurrent Connections By ~40%](https://www.phoronix.com/news/Linux-6.8-Networking)
 * [2024-03-07, 01:05:49](https://lobste.rs/s/z6mwrb/jorge_personal_site_generator_with_org) - [jorge: a personal site generator with org-mode support](https://jorge.olano.dev/)
-* [2024-03-06, 20:01:55](https://lobste.rs/s/cjdh9s/how_speed_up_rust_compiler_march_2024) - [How to speed up the Rust compiler in March 2024](https://nnethercote.github.io/2024/03/06/how-to-speed-up-the-rust-compiler-in-march-2024.html)
 
 ## [Archives](archives/index.md)
 
