@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-08, 02:38:10",
+      "https://lobste.rs/s/xagbg1/flexible_economical_utf_8_decoder"
+    ],
+    [
+      "Flexible and Economical UTF-8 Decoder",
+      "https://bjoern.hoehrmann.de/utf-8/decoder/dfa/"
+    ]
+  ],
+  [
+    [
       "2024-03-08, 01:55:13",
       "https://lobste.rs/s/ug2kin/benchmarks_about_openai_shortened"
     ],
@@ -197,16 +207,6 @@
     [
       "I'm a programmer and I'm stupid",
       "https://antonz.org/stupid/"
-    ]
-  ],
-  [
-    [
-      "2024-03-07, 04:10:17",
-      "https://lobste.rs/s/uqyiyl/announcing_typescript_5_4"
-    ],
-    [
-      "Announcing TypeScript 5.4",
-      "https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/"
     ]
   ],
   [
