@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-08, 01:23:11",
+      "https://lobste.rs/s/hsoirt/dynamic_programming_lisp_flavored"
+    ],
+    [
+      "Dynamic Programming In Lisp Flavored Erlang",
+      "https://medium.com/@kkmvv/recursion-is-necessary-part-ii-dynamic-programming-f3da0ff4ed5c"
+    ]
+  ],
+  [
+    [
+      "2024-03-08, 01:13:30",
+      "https://lobste.rs/s/9t6fqe/autogenerating_book_series_from_three"
+    ],
+    [
+      "Autogenerating a Book Series From Three Years of iMessages",
+      "https://benkettle.xyz/posts/message-book/"
+    ]
+  ],
+  [
+    [
       "2024-03-07, 23:51:23",
       "https://lobste.rs/s/d7hq8r/experience_report_building_real_time_os"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2024-03-06, 20:38:57",
-      "https://lobste.rs/s/uxzoap/utf_8_bits_bytes_benefits_2010"
-    ],
-    [
-      "UTF-8: Bits, Bytes, and Benefits (2010)",
-      "https://research.swtch.com/utf8"
-    ]
-  ],
-  [
-    [
       "2024-03-06, 20:01:55",
       "https://lobste.rs/s/cjdh9s/how_speed_up_rust_compiler_march_2024"
     ],
     [
       "How to speed up the Rust compiler in March 2024",
       "https://nnethercote.github.io/2024/03/06/how-to-speed-up-the-rust-compiler-in-march-2024.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 15:07:46",
-      "https://lobste.rs/s/nrll4g/enabling_constraints"
-    ],
-    [
-      "Enabling constraints",
-      "https://jordankaye.dev/posts/enabling-constraints/"
     ]
   ]
 ]
