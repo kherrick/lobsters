@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-08, 03:24:49",
+      "https://lobste.rs/s/wy6dsh/upsert_uuids_with_sqlc"
+    ],
+    [
+      "Upsert UUIDs with sqlc",
+      "https://adriano.fyi/posts/2024-03-07-upsert-uuids-with-sqlc/"
+    ]
+  ],
+  [
+    [
       "2024-03-08, 02:38:10",
       "https://lobste.rs/s/xagbg1/flexible_economical_utf_8_decoder"
     ],
@@ -227,16 +237,6 @@
     [
       "jorge: a personal site generator with org-mode support",
       "https://jorge.olano.dev/"
-    ]
-  ],
-  [
-    [
-      "2024-03-07, 00:11:33",
-      "https://lobste.rs/s/vgwwzq/ryelang_asciinema_demo_exploring_json"
-    ],
-    [
-      "Ryelang asciinema demo: exploring JSON",
-      "https://asciinema.org/a/615327"
     ]
   ],
   [
