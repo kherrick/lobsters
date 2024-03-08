@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-08, 17:41:37",
+      "https://lobste.rs/s/cj1avk/how_head_works_git"
+    ],
+    [
+      "How HEAD works in git",
+      "https://jvns.ca/blog/2024/03/08/how-head-works-in-git/"
+    ]
+  ],
+  [
+    [
       "2024-03-08, 15:42:45",
       "https://lobste.rs/s/imarid/magic_property_testing"
     ],
@@ -237,16 +247,6 @@
     [
       "I'm a programmer and I'm stupid",
       "https://antonz.org/stupid/"
-    ]
-  ],
-  [
-    [
-      "2024-03-07, 01:05:49",
-      "https://lobste.rs/s/z6mwrb/jorge_personal_site_generator_with_org"
-    ],
-    [
-      "jorge: a personal site generator with org-mode support",
-      "https://jorge.olano.dev/"
     ]
   ]
 ]
