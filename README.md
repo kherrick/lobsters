@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-08, 19:46:46](https://lobste.rs/s/tontix/atopile_build_electronic_circuit_boards) - [atopile - build electronic circuit boards from code](https://atopile.io/)
 * [2024-03-08, 19:27:42](https://lobste.rs/s/bahhw4/gpt_4_barrier_has_finally_been_broken) - [The GPT-4 barrier has finally been broken](https://simonwillison.net/2024/Mar/8/gpt-4-barrier/)
 * [2024-03-08, 17:41:37](https://lobste.rs/s/cj1avk/how_head_works_git) - [How HEAD works in git](https://jvns.ca/blog/2024/03/08/how-head-works-in-git/)
 * [2024-03-08, 15:42:45](https://lobste.rs/s/imarid/magic_property_testing) - [The Magic of Property Testing](https://www.youtube.com/watch?v=4bpc8NpNHRc)
@@ -22,7 +23,6 @@
 * [2024-03-07, 20:14:13](https://lobste.rs/s/0i33my/how_do_calculators_compute_sine) - [How do calculators compute sine?](https://androidcalculator.com/how-do-calculators-compute-sine/)
 * [2024-03-07, 20:07:45](https://lobste.rs/s/zvhdq2/commitgo_launches_gitea_enterprise) - [CommitGo Launches Gitea Enterprise](https://blog.gitea.com/gitea-enterprise)
 * [2024-03-07, 18:24:20](https://lobste.rs/s/tgj13g/boa_release_v0_18_javascript_engine) - [Boa release v0.18: A JavaScript engine written in Rust](https://boajs.dev/blog/2024/03/07/boa-release-18)
-* [2024-03-07, 14:47:03](https://lobste.rs/s/ykvkub/eloquent_javascript_4th_edition) - [Eloquent JavaScript, 4th edition](https://eloquentjavascript.net/)
 * [2024-03-07, 11:37:59](https://lobste.rs/s/1ivqeg/bleacher_report_gutting_out_otp) - [Bleacher Report gutting out OTP](https://www.reddit.com/r/erlang/comments/18f3kl3/bleacher_report_gutting_out_otp/kcts58i/)
 * [2024-03-07, 07:44:50](https://lobste.rs/s/tlmvrr/i_m_programmer_i_m_stupid) - [I'm a programmer and I'm stupid](https://antonz.org/stupid/)
 
