@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-08, 15:42:45",
+      "https://lobste.rs/s/imarid/magic_property_testing"
+    ],
+    [
+      "The Magic of Property Testing",
+      "https://www.youtube.com/watch?v=4bpc8NpNHRc"
+    ]
+  ],
+  [
+    [
       "2024-03-08, 15:16:35",
       "https://lobste.rs/s/ljlgev/case_study_securing_mmu_less_linux_using"
     ],
@@ -107,16 +117,6 @@
     [
       "Upsert UUIDs with sqlc",
       "https://adriano.fyi/posts/2024-03-07-upsert-uuids-with-sqlc/"
-    ]
-  ],
-  [
-    [
-      "2024-03-08, 01:55:13",
-      "https://lobste.rs/s/ug2kin/benchmarks_about_openai_shortened"
-    ],
-    [
-      "Benchmarks about OpenAI shortened embeddings",
-      "https://docs.pgvecto.rs/use-case/adaptive-retrieval.html"
     ]
   ],
   [
