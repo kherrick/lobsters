@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-08, 11:32:02",
+      "https://lobste.rs/s/xi5vtb/claude_3_writes_fuzzer"
+    ],
+    [
+      "Claude 3 writes a fuzzer",
+      "https://gist.github.com/moyix/02029770cb4f7afc2ae91a01b3929118"
+    ]
+  ],
+  [
+    [
       "2024-03-08, 11:16:45",
       "https://lobste.rs/s/goy9w2/what_are_you_doing_this_weekend"
     ],
@@ -217,16 +227,6 @@
     [
       "Towards zero-downtime upgrades of stateful systems",
       "https://stevana.github.io/towards_zero-downtime_upgrades_of_stateful_systems.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-07, 08:58:57",
-      "https://lobste.rs/s/xfwae2/trying_understand_copilot_s_type"
-    ],
-    [
-      "Trying To Understand Copilot's Type Spaghetti",
-      "https://rtpg.co/2024/03/07/parsing-copilots-type-spaghetti/"
     ]
   ],
   [
