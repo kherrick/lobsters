@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-08](index.md)
 
+* [2024-03-08, 22:54:27](https://lobste.rs/s/0aovel/claude_3_beats_gpt_4_on_aider_s_code_editing) - [Claude 3 beats GPT-4 on Aider’s code editing benchmark](https://aider.chat/2024/03/08/claude-3.html)
 * [2024-03-08, 20:29:54](https://lobste.rs/s/go8jbz/iterate_over_parameter_packs_swift_6_0) - [Iterate Over Parameter Packs in Swift 6.0](https://swift.org/blog/pack-iteration/)
 * [2024-03-08, 19:46:46](https://lobste.rs/s/tontix/atopile_build_electronic_circuit_boards) - [atopile - build electronic circuit boards from code](https://atopile.io/)
 * [2024-03-08, 19:27:42](https://lobste.rs/s/bahhw4/gpt_4_barrier_has_finally_been_broken) - [The GPT-4 barrier has finally been broken](https://simonwillison.net/2024/Mar/8/gpt-4-barrier/)
