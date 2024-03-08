@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-08, 03:29:39](https://lobste.rs/s/izve3g/stack_unwinding_arm_cil_trees) - [Stack unwinding, ARM and CIL trees](https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_1_1.html)
 * [2024-03-08, 03:24:49](https://lobste.rs/s/wy6dsh/upsert_uuids_with_sqlc) - [Upsert UUIDs with sqlc](https://adriano.fyi/posts/2024-03-07-upsert-uuids-with-sqlc/)
 * [2024-03-08, 02:38:10](https://lobste.rs/s/xagbg1/flexible_economical_utf_8_decoder) - [Flexible and Economical UTF-8 Decoder](https://bjoern.hoehrmann.de/utf-8/decoder/dfa/)
 * [2024-03-08, 01:55:13](https://lobste.rs/s/ug2kin/benchmarks_about_openai_shortened) - [Benchmarks about OpenAI shortened embeddings](https://docs.pgvecto.rs/use-case/adaptive-retrieval.html)
@@ -14,7 +15,6 @@
 * [2024-03-07, 20:14:13](https://lobste.rs/s/0i33my/how_do_calculators_compute_sine) - [How do calculators compute sine?](https://androidcalculator.com/how-do-calculators-compute-sine/)
 * [2024-03-07, 20:07:45](https://lobste.rs/s/zvhdq2/commitgo_launches_gitea_enterprise) - [CommitGo Launches Gitea Enterprise](https://blog.gitea.com/gitea-enterprise)
 * [2024-03-07, 18:24:20](https://lobste.rs/s/tgj13g/boa_release_v0_18_javascript_engine) - [Boa release v0.18: A JavaScript engine written in Rust](https://boajs.dev/blog/2024/03/07/boa-release-18)
-* [2024-03-07, 17:39:52](https://lobste.rs/s/ocfjan/freebsd_has_nother_new_c_compiler_intel) - [FreeBSD has a(nother) new C compiler: Intel oneAPI DPC++/C++](https://briancallahan.net/blog/20240306.html)
 * [2024-03-07, 15:10:09](https://lobste.rs/s/upue2q/tinywasm_tiny_interpreted_webassembly) - [tinywasm: A tiny, interpreted WebAssembly Runtime written in Rust](https://github.com/explodingcamera/tinywasm)
 * [2024-03-07, 14:47:03](https://lobste.rs/s/ykvkub/eloquent_javascript_4th_edition) - [Eloquent JavaScript, 4th edition](https://eloquentjavascript.net/)
 * [2024-03-07, 11:37:59](https://lobste.rs/s/1ivqeg/bleacher_report_gutting_out_otp) - [Bleacher Report gutting out OTP](https://www.reddit.com/r/erlang/comments/18f3kl3/bleacher_report_gutting_out_otp/kcts58i/)

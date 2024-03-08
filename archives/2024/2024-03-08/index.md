@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-08](index.md)
 
+* [2024-03-08, 03:29:39](https://lobste.rs/s/izve3g/stack_unwinding_arm_cil_trees) - [Stack unwinding, ARM and CIL trees](https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_1_1.html)
 * [2024-03-08, 03:24:49](https://lobste.rs/s/wy6dsh/upsert_uuids_with_sqlc) - [Upsert UUIDs with sqlc](https://adriano.fyi/posts/2024-03-07-upsert-uuids-with-sqlc/)
 * [2024-03-08, 02:38:10](https://lobste.rs/s/xagbg1/flexible_economical_utf_8_decoder) - [Flexible and Economical UTF-8 Decoder](https://bjoern.hoehrmann.de/utf-8/decoder/dfa/)
 * [2024-03-08, 01:55:13](https://lobste.rs/s/ug2kin/benchmarks_about_openai_shortened) - [Benchmarks about OpenAI shortened embeddings](https://docs.pgvecto.rs/use-case/adaptive-retrieval.html)
