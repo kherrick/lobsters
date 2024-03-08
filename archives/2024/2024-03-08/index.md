@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-08](index.md)
 
+* [2024-03-08, 11:32:02](https://lobste.rs/s/xi5vtb/claude_3_writes_fuzzer) - [Claude 3 writes a fuzzer](https://gist.github.com/moyix/02029770cb4f7afc2ae91a01b3929118)
 * [2024-03-08, 11:16:45](https://lobste.rs/s/goy9w2/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/goy9w2/what_are_you_doing_this_weekend)
 * [2024-03-08, 11:08:21](https://lobste.rs/s/dbwn98/secure_by_design_google_s_perspective_on) - [Secure by Design: Google’s Perspective on Memory Safety](https://security.googleblog.com/2024/03/secure-by-design-googles-perspective-on.html)
 * [2024-03-08, 09:38:52](https://lobste.rs/s/nqootu/sudo_rs_dependencies_when_less_is_better) - [Sudo-rs dependencies: when less is better](https://www.memorysafety.org/blog/reducing-dependencies-in-sudo/)
