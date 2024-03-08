@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-03-08, 02:38:10",
+      "https://lobste.rs/s/xagbg1/flexible_economical_utf_8_decoder"
+    ],
+    [
+      "Flexible and Economical UTF-8 Decoder",
+      "https://bjoern.hoehrmann.de/utf-8/decoder/dfa/"
+    ]
+  ],
+  [
+    [
       "2024-03-08, 01:55:13",
       "https://lobste.rs/s/ug2kin/benchmarks_about_openai_shortened"
     ],
@@ -237,16 +247,6 @@
     [
       "jorge: a personal site generator with org-mode support",
       "https://jorge.olano.dev/"
-    ]
-  ],
-  [
-    [
-      "2024-03-06, 20:01:55",
-      "https://lobste.rs/s/cjdh9s/how_speed_up_rust_compiler_march_2024"
-    ],
-    [
-      "How to speed up the Rust compiler in March 2024",
-      "https://nnethercote.github.io/2024/03/06/how-to-speed-up-the-rust-compiler-in-march-2024.html"
     ]
   ]
 ]
