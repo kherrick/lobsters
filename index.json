@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-08, 15:16:35",
+      "https://lobste.rs/s/ljlgev/case_study_securing_mmu_less_linux_using"
+    ],
+    [
+      "Case Study: Securing MMU-less Linux Using CHERI",
+      "https://arxiv.org/pdf/2310.00933"
+    ]
+  ],
+  [
+    [
       "2024-03-08, 14:27:12",
       "https://lobste.rs/s/ydm7xk/build_initramfs_rootless"
     ],
@@ -117,16 +127,6 @@
     [
       "A year in the life of a Playdate game developer",
       "https://blog.gingerbeardman.com/2024/03/07/a-year-in-the-life-of-a-playdate-game-developer/"
-    ]
-  ],
-  [
-    [
-      "2024-03-08, 01:23:11",
-      "https://lobste.rs/s/hsoirt/dynamic_programming_lisp_flavored"
-    ],
-    [
-      "Dynamic Programming In Lisp Flavored Erlang",
-      "https://medium.com/@kkmvv/recursion-is-necessary-part-ii-dynamic-programming-f3da0ff4ed5c"
     ]
   ],
   [
