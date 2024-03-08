@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-08, 11:08:21",
+      "https://lobste.rs/s/dbwn98/secure_by_design_google_s_perspective_on"
+    ],
+    [
+      "Secure by Design: Google’s Perspective on Memory Safety",
+      "https://security.googleblog.com/2024/03/secure-by-design-googles-perspective-on.html"
+    ]
+  ],
+  [
+    [
       "2024-03-08, 09:38:52",
       "https://lobste.rs/s/nqootu/sudo_rs_dependencies_when_less_is_better"
     ],
@@ -37,16 +47,6 @@
     [
       "Upsert UUIDs with sqlc",
       "https://adriano.fyi/posts/2024-03-07-upsert-uuids-with-sqlc/"
-    ]
-  ],
-  [
-    [
-      "2024-03-08, 02:38:10",
-      "https://lobste.rs/s/xagbg1/flexible_economical_utf_8_decoder"
-    ],
-    [
-      "Flexible and Economical UTF-8 Decoder",
-      "https://bjoern.hoehrmann.de/utf-8/decoder/dfa/"
     ]
   ],
   [
