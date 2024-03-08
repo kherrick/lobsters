@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-08, 12:14:45](https://lobste.rs/s/i0bsk5/opengfw_open_source_implementation_gfw) - [OpenGFW, open source implementation of GFW (Great Firewall of China)](https://github.com/apernet/OpenGFW)
+* [2024-03-08, 11:57:11](https://lobste.rs/s/wwwbgc/run_nixos_integration_tests_on_macos) - [Run NixOS Integration Tests on macOS](https://nixcademy.com/2024/03/08/running-nixos-integration-tests-on-macos/)
 * [2024-03-08, 11:32:02](https://lobste.rs/s/xi5vtb/claude_3_writes_fuzzer) - [Claude 3 writes a fuzzer](https://gist.github.com/moyix/02029770cb4f7afc2ae91a01b3929118)
 * [2024-03-08, 11:16:45](https://lobste.rs/s/goy9w2/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/goy9w2/what_are_you_doing_this_weekend)
 * [2024-03-08, 11:08:21](https://lobste.rs/s/dbwn98/secure_by_design_google_s_perspective_on) - [Secure by Design: Google’s Perspective on Memory Safety](https://security.googleblog.com/2024/03/secure-by-design-googles-perspective-on.html)
@@ -18,10 +20,8 @@
 * [2024-03-07, 20:14:13](https://lobste.rs/s/0i33my/how_do_calculators_compute_sine) - [How do calculators compute sine?](https://androidcalculator.com/how-do-calculators-compute-sine/)
 * [2024-03-07, 20:07:45](https://lobste.rs/s/zvhdq2/commitgo_launches_gitea_enterprise) - [CommitGo Launches Gitea Enterprise](https://blog.gitea.com/gitea-enterprise)
 * [2024-03-07, 18:24:20](https://lobste.rs/s/tgj13g/boa_release_v0_18_javascript_engine) - [Boa release v0.18: A JavaScript engine written in Rust](https://boajs.dev/blog/2024/03/07/boa-release-18)
-* [2024-03-07, 15:10:09](https://lobste.rs/s/upue2q/tinywasm_tiny_interpreted_webassembly) - [tinywasm: A tiny, interpreted WebAssembly Runtime written in Rust](https://github.com/explodingcamera/tinywasm)
 * [2024-03-07, 14:47:03](https://lobste.rs/s/ykvkub/eloquent_javascript_4th_edition) - [Eloquent JavaScript, 4th edition](https://eloquentjavascript.net/)
 * [2024-03-07, 11:37:59](https://lobste.rs/s/1ivqeg/bleacher_report_gutting_out_otp) - [Bleacher Report gutting out OTP](https://www.reddit.com/r/erlang/comments/18f3kl3/bleacher_report_gutting_out_otp/kcts58i/)
-* [2024-03-07, 11:15:23](https://lobste.rs/s/4cpvq6/cap_theorem_bad_bad_ugly) - [The CAP Theorem. The Bad, the Bad, & the Ugly](https://blog.dtornow.com/the-cap-theorem.-the-bad-the-bad-the-ugly/)
 * [2024-03-07, 09:00:21](https://lobste.rs/s/2w7wc7/towards_zero_downtime_upgrades_stateful) - [Towards zero-downtime upgrades of stateful systems](https://stevana.github.io/towards_zero-downtime_upgrades_of_stateful_systems.html)
 * [2024-03-07, 07:44:50](https://lobste.rs/s/tlmvrr/i_m_programmer_i_m_stupid) - [I'm a programmer and I'm stupid](https://antonz.org/stupid/)
 * [2024-03-07, 01:05:49](https://lobste.rs/s/z6mwrb/jorge_personal_site_generator_with_org) - [jorge: a personal site generator with org-mode support](https://jorge.olano.dev/)
