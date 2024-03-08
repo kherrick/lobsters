@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-08, 20:29:54",
+      "https://lobste.rs/s/go8jbz/iterate_over_parameter_packs_swift_6_0"
+    ],
+    [
+      "Iterate Over Parameter Packs in Swift 6.0",
+      "https://swift.org/blog/pack-iteration/"
+    ]
+  ],
+  [
+    [
       "2024-03-08, 19:46:46",
       "https://lobste.rs/s/tontix/atopile_build_electronic_circuit_boards"
     ],
@@ -137,16 +147,6 @@
     [
       "You can now train a 70b language model at home",
       "http://www.answer.ai/posts/2024-03-06-fsdp-qlora.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-08, 03:24:49",
-      "https://lobste.rs/s/wy6dsh/upsert_uuids_with_sqlc"
-    ],
-    [
-      "Upsert UUIDs with sqlc",
-      "https://adriano.fyi/posts/2024-03-07-upsert-uuids-with-sqlc/"
     ]
   ],
   [
