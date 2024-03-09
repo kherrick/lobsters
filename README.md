@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-09, 02:53:14](https://lobste.rs/s/fddnqv/apple_curl_security_incident_12604) - [the Apple curl security incident 12604](https://daniel.haxx.se/blog/2024/03/08/the-apple-curl-security-incident-12604/)
 * [2024-03-09, 02:38:35](https://lobste.rs/s/nd3dkq/fedify_fediverse_server_framework_deno) - [Fedify: A fediverse server framework in Deno](https://github.com/dahlia/fedify)
 * [2024-03-09, 01:57:24](https://lobste.rs/s/ikntkz/training_great_llms_entirely_from_ground) - [Training great LLMs entirely from ground up in the wilderness as a startup](https://www.yitay.net/blog/training-great-llms-entirely-from-ground-zero-in-the-wilderness)
 * [2024-03-09, 01:21:05](https://lobste.rs/s/4aqojy/removing_libjs_jit_ladybird_browser) - [Removing the LibJS JIT (Ladybird browser update (February 2024))](https://www.youtube.com/watch?v=dKHopzDtElY)
@@ -19,7 +20,6 @@
 * [2024-03-08, 09:38:52](https://lobste.rs/s/nqootu/sudo_rs_dependencies_when_less_is_better) - [Sudo-rs dependencies: when less is better](https://www.memorysafety.org/blog/reducing-dependencies-in-sudo/)
 * [2024-03-08, 07:20:07](https://lobste.rs/s/dzpkn2/you_can_now_train_70b_language_model_at) - [You can now train a 70b language model at home](http://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
 * [2024-03-08, 01:51:06](https://lobste.rs/s/pcsoao/year_life_playdate_game_developer) - [A year in the life of a Playdate game developer](https://blog.gingerbeardman.com/2024/03/07/a-year-in-the-life-of-a-playdate-game-developer/)
-* [2024-03-08, 01:13:30](https://lobste.rs/s/9t6fqe/autogenerating_book_series_from_three) - [Autogenerating a Book Series From Three Years of iMessages](https://benkettle.xyz/posts/message-book/)
 * [2024-03-07, 22:17:03](https://lobste.rs/s/rrgyvm/how_many_programming_languages_do_you) - [How many programming languages do you think a person can be proficient in?](https://lobste.rs/s/rrgyvm/how_many_programming_languages_do_you)
 * [2024-03-07, 20:45:02](https://lobste.rs/s/z2l3ot/deliberate_abstraction) - [Deliberate Abstraction](https://two-wrongs.com/deliberate-abstraction)
 * [2024-03-07, 18:24:20](https://lobste.rs/s/tgj13g/boa_release_v0_18_javascript_engine) - [Boa release v0.18: A JavaScript engine written in Rust](https://boajs.dev/blog/2024/03/07/boa-release-18)
