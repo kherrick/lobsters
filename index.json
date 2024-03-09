@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-03-08, 20:29:54",
-      "https://lobste.rs/s/go8jbz/iterate_over_parameter_packs_swift_6_0"
+      "2024-03-09, 01:21:05",
+      "https://lobste.rs/s/4aqojy/removing_libjs_jit_ladybird_browser"
     ],
     [
-      "Iterate Over Parameter Packs in Swift 6.0",
-      "https://swift.org/blog/pack-iteration/"
+      "Removing the LibJS JIT (Ladybird browser update (February 2024))",
+      "https://www.youtube.com/watch?v=dKHopzDtElY"
+    ]
+  ],
+  [
+    [
+      "2024-03-09, 01:19:33",
+      "https://lobste.rs/s/9sxw8c/downpour_make_games_on_your_phone"
+    ],
+    [
+      "Downpour: make games on your phone",
+      "https://downpour.games"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Autogenerating a Book Series From Three Years of iMessages",
       "https://benkettle.xyz/posts/message-book/"
-    ]
-  ],
-  [
-    [
-      "2024-03-07, 23:51:23",
-      "https://lobste.rs/s/d7hq8r/experience_report_building_real_time_os"
-    ],
-    [
-      "Experience Report: Building a Real Time OS Kernel in Smalltalk",
-      "http://www.rowledge.org/resources/tim's-Home-page/Squeak/RTOSinSmalltalk.html.pdf"
     ]
   ],
   [
