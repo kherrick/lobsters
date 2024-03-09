@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-09](index.md)
 
+* [2024-03-09, 19:37:08](https://lobste.rs/s/v1nckl/uk_academic_s_wikipedia_project_raises) - [UK academic’s Wikipedia project raises profile of women around the world](https://www.theguardian.com/society/2024/mar/05/uk-academics-wikipedia-project-raises-profile-of-women-around-the-world)
+* [2024-03-09, 19:34:16](https://lobste.rs/s/7pc89y/making_friends_with_attributegraph) - [Making Friends with AttributeGraph](https://saagarjha.com/blog/2024/02/27/making-friends-with-attributegraph/)
 * [2024-03-09, 18:54:58](https://lobste.rs/s/mpcoj1/i_m_betting_on_call_by_push_value) - [I'm betting on Call-by-Push-Value](https://thunderseethe.dev/posts/bet-on-cbpv/)
 * [2024-03-09, 18:51:48](https://lobste.rs/s/85arqh/announcing_lumecms) - [Announcing LumeCMS](https://lume.land/blog/posts/lume-cms/)
 * [2024-03-09, 18:22:26](https://lobste.rs/s/qhs3uj/rotation_with_three_shears) - [Rotation with three shears](https://cohost.org/tomforsyth/post/891823-rotation-with-three)
