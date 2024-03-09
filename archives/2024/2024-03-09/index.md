@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-09](index.md)
 
+* [2024-03-09, 18:54:58](https://lobste.rs/s/mpcoj1/i_m_betting_on_call_by_push_value) - [I'm betting on Call-by-Push-Value](https://thunderseethe.dev/posts/bet-on-cbpv/)
 * [2024-03-09, 18:51:48](https://lobste.rs/s/85arqh/announcing_lumecms) - [Announcing LumeCMS](https://lume.land/blog/posts/lume-cms/)
 * [2024-03-09, 18:22:26](https://lobste.rs/s/qhs3uj/rotation_with_three_shears) - [Rotation with three shears](https://cohost.org/tomforsyth/post/891823-rotation-with-three)
 * [2024-03-09, 16:12:08](https://lobste.rs/s/baxjpw/three_star_programmer) - [Three Star Programmer](https://wiki.c2.com/?ThreeStarProgrammer)

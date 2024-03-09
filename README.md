@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-09, 18:54:58](https://lobste.rs/s/mpcoj1/i_m_betting_on_call_by_push_value) - [I'm betting on Call-by-Push-Value](https://thunderseethe.dev/posts/bet-on-cbpv/)
 * [2024-03-09, 18:51:48](https://lobste.rs/s/85arqh/announcing_lumecms) - [Announcing LumeCMS](https://lume.land/blog/posts/lume-cms/)
 * [2024-03-09, 18:22:26](https://lobste.rs/s/qhs3uj/rotation_with_three_shears) - [Rotation with three shears](https://cohost.org/tomforsyth/post/891823-rotation-with-three)
 * [2024-03-09, 16:12:08](https://lobste.rs/s/baxjpw/three_star_programmer) - [Three Star Programmer](https://wiki.c2.com/?ThreeStarProgrammer)
@@ -21,7 +22,6 @@
 * [2024-03-08, 13:29:04](https://lobste.rs/s/a8ze5v/automatic_contact_sharing_ios_leaks) - [Automatic contact sharing in iOS leaks emails to Lockdown Mode devices](https://marekfoss.org/2024/03/08/automatic-contact-sharing-in-ios-leaks-emails-to-lockdown-mode-devices/)
 * [2024-03-08, 12:14:45](https://lobste.rs/s/i0bsk5/opengfw_open_source_implementation_gfw) - [OpenGFW, open source implementation of GFW (Great Firewall of China)](https://github.com/apernet/OpenGFW)
 * [2024-03-08, 11:57:11](https://lobste.rs/s/wwwbgc/run_nixos_integration_tests_on_macos) - [Run NixOS Integration Tests on macOS](https://nixcademy.com/2024/03/08/running-nixos-integration-tests-on-macos/)
-* [2024-03-08, 11:32:02](https://lobste.rs/s/xi5vtb/claude_3_writes_fuzzer) - [Claude 3 writes a fuzzer](https://gist.github.com/moyix/02029770cb4f7afc2ae91a01b3929118)
 * [2024-03-08, 11:08:21](https://lobste.rs/s/dbwn98/secure_by_design_google_s_perspective_on) - [Secure by Design: Google’s Perspective on Memory Safety](https://security.googleblog.com/2024/03/secure-by-design-googles-perspective-on.html)
 * [2024-03-08, 09:38:52](https://lobste.rs/s/nqootu/sudo_rs_dependencies_when_less_is_better) - [Sudo-rs dependencies: when less is better](https://www.memorysafety.org/blog/reducing-dependencies-in-sudo/)
 * [2024-03-08, 07:20:07](https://lobste.rs/s/dzpkn2/you_can_now_train_70b_language_model_at) - [You can now train a 70b language model at home](http://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
