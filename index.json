@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-09, 19:37:08",
+      "https://lobste.rs/s/v1nckl/uk_academic_s_wikipedia_project_raises"
+    ],
+    [
+      "UK academic’s Wikipedia project raises profile of women around the world",
+      "https://www.theguardian.com/society/2024/mar/05/uk-academics-wikipedia-project-raises-profile-of-women-around-the-world"
+    ]
+  ],
+  [
+    [
+      "2024-03-09, 19:34:16",
+      "https://lobste.rs/s/7pc89y/making_friends_with_attributegraph"
+    ],
+    [
+      "Making Friends with AttributeGraph",
+      "https://saagarjha.com/blog/2024/02/27/making-friends-with-attributegraph/"
+    ]
+  ],
+  [
+    [
       "2024-03-09, 18:54:58",
       "https://lobste.rs/s/mpcoj1/i_m_betting_on_call_by_push_value"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-03-08, 12:14:45",
-      "https://lobste.rs/s/i0bsk5/opengfw_open_source_implementation_gfw"
-    ],
-    [
-      "OpenGFW, open source implementation of GFW (Great Firewall of China)",
-      "https://github.com/apernet/OpenGFW"
-    ]
-  ],
-  [
-    [
       "2024-03-08, 11:57:11",
       "https://lobste.rs/s/wwwbgc/run_nixos_integration_tests_on_macos"
     ],
@@ -237,16 +247,6 @@
     [
       "Sudo-rs dependencies: when less is better",
       "https://www.memorysafety.org/blog/reducing-dependencies-in-sudo/"
-    ]
-  ],
-  [
-    [
-      "2024-03-08, 07:20:07",
-      "https://lobste.rs/s/dzpkn2/you_can_now_train_70b_language_model_at"
-    ],
-    [
-      "You can now train a 70b language model at home",
-      "http://www.answer.ai/posts/2024-03-06-fsdp-qlora.html"
     ]
   ]
 ]
