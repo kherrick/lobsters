@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-09, 06:54:13](https://lobste.rs/s/7w33it/rendering_3d_graphics_on_oscilloscope) - [Rendering 3D Graphics On An Oscilloscope With An STM32](https://www.youtube.com/watch?v=TAfWea21ooM)
 * [2024-03-09, 05:40:21](https://lobste.rs/s/oq7zyh/how_do_computers_add_numbers_so_quickly) - [How do computers add numbers so quickly?](https://www.youtube.com/watch?v=yj6wo5SCObY)
 * [2024-03-09, 02:53:14](https://lobste.rs/s/fddnqv/apple_curl_security_incident_12604) - [the Apple curl security incident 12604](https://daniel.haxx.se/blog/2024/03/08/the-apple-curl-security-incident-12604/)
 * [2024-03-09, 02:38:35](https://lobste.rs/s/nd3dkq/fedify_fediverse_server_framework_deno) - [Fedify: A fediverse server framework in Deno](https://github.com/dahlia/fedify)
@@ -20,7 +21,6 @@
 * [2024-03-08, 11:08:21](https://lobste.rs/s/dbwn98/secure_by_design_google_s_perspective_on) - [Secure by Design: Google’s Perspective on Memory Safety](https://security.googleblog.com/2024/03/secure-by-design-googles-perspective-on.html)
 * [2024-03-08, 09:38:52](https://lobste.rs/s/nqootu/sudo_rs_dependencies_when_less_is_better) - [Sudo-rs dependencies: when less is better](https://www.memorysafety.org/blog/reducing-dependencies-in-sudo/)
 * [2024-03-08, 07:20:07](https://lobste.rs/s/dzpkn2/you_can_now_train_70b_language_model_at) - [You can now train a 70b language model at home](http://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
-* [2024-03-08, 01:51:06](https://lobste.rs/s/pcsoao/year_life_playdate_game_developer) - [A year in the life of a Playdate game developer](https://blog.gingerbeardman.com/2024/03/07/a-year-in-the-life-of-a-playdate-game-developer/)
 * [2024-03-07, 22:17:03](https://lobste.rs/s/rrgyvm/how_many_programming_languages_do_you) - [How many programming languages do you think a person can be proficient in?](https://lobste.rs/s/rrgyvm/how_many_programming_languages_do_you)
 * [2024-03-07, 18:24:20](https://lobste.rs/s/tgj13g/boa_release_v0_18_javascript_engine) - [Boa release v0.18: A JavaScript engine written in Rust](https://boajs.dev/blog/2024/03/07/boa-release-18)
 * [2024-03-07, 11:37:59](https://lobste.rs/s/1ivqeg/bleacher_report_gutting_out_otp) - [Bleacher Report gutting out OTP](https://www.reddit.com/r/erlang/comments/18f3kl3/bleacher_report_gutting_out_otp/kcts58i/)
