@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-03-08, 20:29:54](https://lobste.rs/s/go8jbz/iterate_over_parameter_packs_swift_6_0) - [Iterate Over Parameter Packs in Swift 6.0](https://swift.org/blog/pack-iteration/)
+* [2024-03-09, 01:21:05](https://lobste.rs/s/4aqojy/removing_libjs_jit_ladybird_browser) - [Removing the LibJS JIT (Ladybird browser update (February 2024))](https://www.youtube.com/watch?v=dKHopzDtElY)
+* [2024-03-09, 01:19:33](https://lobste.rs/s/9sxw8c/downpour_make_games_on_your_phone) - [Downpour: make games on your phone](https://downpour.games)
 * [2024-03-08, 19:46:46](https://lobste.rs/s/tontix/atopile_build_electronic_circuit_boards) - [atopile - build electronic circuit boards from code](https://atopile.io/)
 * [2024-03-08, 19:27:42](https://lobste.rs/s/bahhw4/gpt_4_barrier_has_finally_been_broken) - [The GPT-4 barrier has finally been broken](https://simonwillison.net/2024/Mar/8/gpt-4-barrier/)
 * [2024-03-08, 17:41:37](https://lobste.rs/s/cj1avk/how_head_works_git) - [How HEAD works in git](https://jvns.ca/blog/2024/03/08/how-head-works-in-git/)
@@ -17,7 +18,6 @@
 * [2024-03-08, 07:20:07](https://lobste.rs/s/dzpkn2/you_can_now_train_70b_language_model_at) - [You can now train a 70b language model at home](http://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
 * [2024-03-08, 01:51:06](https://lobste.rs/s/pcsoao/year_life_playdate_game_developer) - [A year in the life of a Playdate game developer](https://blog.gingerbeardman.com/2024/03/07/a-year-in-the-life-of-a-playdate-game-developer/)
 * [2024-03-08, 01:13:30](https://lobste.rs/s/9t6fqe/autogenerating_book_series_from_three) - [Autogenerating a Book Series From Three Years of iMessages](https://benkettle.xyz/posts/message-book/)
-* [2024-03-07, 23:51:23](https://lobste.rs/s/d7hq8r/experience_report_building_real_time_os) - [Experience Report: Building a Real Time OS Kernel in Smalltalk](http://www.rowledge.org/resources/tim's-Home-page/Squeak/RTOSinSmalltalk.html.pdf)
 * [2024-03-07, 22:17:03](https://lobste.rs/s/rrgyvm/how_many_programming_languages_do_you) - [How many programming languages do you think a person can be proficient in?](https://lobste.rs/s/rrgyvm/how_many_programming_languages_do_you)
 * [2024-03-07, 20:45:02](https://lobste.rs/s/z2l3ot/deliberate_abstraction) - [Deliberate Abstraction](https://two-wrongs.com/deliberate-abstraction)
 * [2024-03-07, 20:14:13](https://lobste.rs/s/0i33my/how_do_calculators_compute_sine) - [How do calculators compute sine?](https://androidcalculator.com/how-do-calculators-compute-sine/)
