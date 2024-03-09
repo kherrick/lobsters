@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-09, 18:51:48](https://lobste.rs/s/85arqh/announcing_lumecms) - [Announcing LumeCMS](https://lume.land/blog/posts/lume-cms/)
 * [2024-03-09, 18:22:26](https://lobste.rs/s/qhs3uj/rotation_with_three_shears) - [Rotation with three shears](https://cohost.org/tomforsyth/post/891823-rotation-with-three)
 * [2024-03-09, 16:12:08](https://lobste.rs/s/baxjpw/three_star_programmer) - [Three Star Programmer](https://wiki.c2.com/?ThreeStarProgrammer)
 * [2024-03-09, 16:07:22](https://lobste.rs/s/hru0ib/how_lose_control_your_shell) - [How to Lose Control of your Shell](https://registerspill.thorstenball.com/p/how-to-lose-control-of-your-shell)
@@ -13,7 +14,6 @@
 * [2024-03-09, 02:38:35](https://lobste.rs/s/nd3dkq/fedify_fediverse_server_framework_deno) - [Fedify: A fediverse server framework in Deno](https://github.com/dahlia/fedify)
 * [2024-03-09, 01:21:05](https://lobste.rs/s/4aqojy/removing_libjs_jit_ladybird_browser) - [Removing the LibJS JIT (Ladybird browser update (February 2024))](https://www.youtube.com/watch?v=dKHopzDtElY)
 * [2024-03-09, 01:19:33](https://lobste.rs/s/9sxw8c/downpour_make_games_on_your_phone) - [Downpour: make games on your phone](https://downpour.games)
-* [2024-03-08, 19:46:46](https://lobste.rs/s/tontix/atopile_build_electronic_circuit_boards) - [atopile - build electronic circuit boards from code](https://atopile.io/)
 * [2024-03-08, 19:27:42](https://lobste.rs/s/bahhw4/gpt_4_barrier_has_finally_been_broken) - [The GPT-4 barrier has finally been broken](https://simonwillison.net/2024/Mar/8/gpt-4-barrier/)
 * [2024-03-08, 17:41:37](https://lobste.rs/s/cj1avk/how_head_works_git) - [How HEAD works in git](https://jvns.ca/blog/2024/03/08/how-head-works-in-git/)
 * [2024-03-08, 15:42:45](https://lobste.rs/s/imarid/magic_property_testing) - [The Magic of Property Testing](https://www.youtube.com/watch?v=4bpc8NpNHRc)
