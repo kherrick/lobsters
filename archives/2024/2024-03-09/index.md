@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-09](index.md)
 
+* [2024-03-09, 13:01:46](https://lobste.rs/s/yogkhh/what_cannot_be_skipped_about_skiplist) - [What Cannot be Skipped About the Skiplist: A Survey of Skiplists and Their Applications in Big Data Systems](https://arxiv.org/abs/2403.04582)
 * [2024-03-09, 12:03:44](https://lobste.rs/s/obeth5/orthogonal_persistence_model) - [Orthogonal Persistence, The Model](https://github.com/mighty-gerbils/gerbil-persist/blob/master/persist.md)
 * [2024-03-09, 10:36:22](https://lobste.rs/s/bwxtxw/sqlite_on_macos_not_acid_compliant_with) - [SQLite on macOS: Not ACID compliant with the bundled version (2022)](https://bonsaidb.io/blog/acid-on-apple/)
 * [2024-03-09, 09:36:04](https://lobste.rs/s/godgbb/prolly_trees) - [Prolly Trees](https://www.dolthub.com/blog/2024-03-03-prolly-trees/)

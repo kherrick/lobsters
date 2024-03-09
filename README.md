@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-09, 13:01:46](https://lobste.rs/s/yogkhh/what_cannot_be_skipped_about_skiplist) - [What Cannot be Skipped About the Skiplist: A Survey of Skiplists and Their Applications in Big Data Systems](https://arxiv.org/abs/2403.04582)
 * [2024-03-09, 12:03:44](https://lobste.rs/s/obeth5/orthogonal_persistence_model) - [Orthogonal Persistence, The Model](https://github.com/mighty-gerbils/gerbil-persist/blob/master/persist.md)
 * [2024-03-09, 10:36:22](https://lobste.rs/s/bwxtxw/sqlite_on_macos_not_acid_compliant_with) - [SQLite on macOS: Not ACID compliant with the bundled version (2022)](https://bonsaidb.io/blog/acid-on-apple/)
 * [2024-03-09, 09:36:04](https://lobste.rs/s/godgbb/prolly_trees) - [Prolly Trees](https://www.dolthub.com/blog/2024-03-03-prolly-trees/)
@@ -24,7 +25,6 @@
 * [2024-03-08, 09:38:52](https://lobste.rs/s/nqootu/sudo_rs_dependencies_when_less_is_better) - [Sudo-rs dependencies: when less is better](https://www.memorysafety.org/blog/reducing-dependencies-in-sudo/)
 * [2024-03-08, 07:20:07](https://lobste.rs/s/dzpkn2/you_can_now_train_70b_language_model_at) - [You can now train a 70b language model at home](http://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
 * [2024-03-07, 22:17:03](https://lobste.rs/s/rrgyvm/how_many_programming_languages_do_you) - [How many programming languages do you think a person can be proficient in?](https://lobste.rs/s/rrgyvm/how_many_programming_languages_do_you)
-* [2024-03-07, 11:37:59](https://lobste.rs/s/1ivqeg/bleacher_report_gutting_out_otp) - [Bleacher Report gutting out OTP](https://www.reddit.com/r/erlang/comments/18f3kl3/bleacher_report_gutting_out_otp/kcts58i/)
 
 ## [Archives](archives/index.md)
 
