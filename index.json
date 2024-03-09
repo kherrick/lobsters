@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2024-03-08, 15:16:35",
+      "https://lobste.rs/s/ljlgev/case_study_securing_mmu_less_linux_using"
+    ],
+    [
+      "Case Study: Securing MMU-less Linux Using CHERI",
+      "https://arxiv.org/pdf/2310.00933"
+    ]
+  ],
+  [
+    [
       "2024-03-08, 14:27:12",
       "https://lobste.rs/s/ydm7xk/build_initramfs_rootless"
     ],
@@ -207,16 +217,6 @@
     [
       "How many programming languages do you think a person can be proficient in?",
       "https://lobste.rs/s/rrgyvm/how_many_programming_languages_do_you"
-    ]
-  ],
-  [
-    [
-      "2024-03-07, 20:45:02",
-      "https://lobste.rs/s/z2l3ot/deliberate_abstraction"
-    ],
-    [
-      "Deliberate Abstraction",
-      "https://two-wrongs.com/deliberate-abstraction"
     ]
   ],
   [
