@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-09](index.md)
 
+* [2024-03-09, 18:22:26](https://lobste.rs/s/qhs3uj/rotation_with_three_shears) - [Rotation with three shears](https://cohost.org/tomforsyth/post/891823-rotation-with-three)
 * [2024-03-09, 16:12:08](https://lobste.rs/s/baxjpw/three_star_programmer) - [Three Star Programmer](https://wiki.c2.com/?ThreeStarProgrammer)
 * [2024-03-09, 16:07:22](https://lobste.rs/s/hru0ib/how_lose_control_your_shell) - [How to Lose Control of your Shell](https://registerspill.thorstenball.com/p/how-to-lose-control-of-your-shell)
 * [2024-03-09, 13:01:46](https://lobste.rs/s/yogkhh/what_cannot_be_skipped_about_skiplist) - [What Cannot be Skipped About the Skiplist: A Survey of Skiplists and Their Applications in Big Data Systems](https://arxiv.org/abs/2403.04582)
