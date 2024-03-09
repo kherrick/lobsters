@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-09, 16:12:08",
+      "https://lobste.rs/s/baxjpw/three_star_programmer"
+    ],
+    [
+      "Three Star Programmer",
+      "https://wiki.c2.com/?ThreeStarProgrammer"
+    ]
+  ],
+  [
+    [
       "2024-03-09, 16:07:22",
       "https://lobste.rs/s/hru0ib/how_lose_control_your_shell"
     ],
@@ -107,16 +117,6 @@
     [
       "Downpour: make games on your phone",
       "https://downpour.games"
-    ]
-  ],
-  [
-    [
-      "2024-03-08, 20:29:54",
-      "https://lobste.rs/s/go8jbz/iterate_over_parameter_packs_swift_6_0"
-    ],
-    [
-      "Iterate Over Parameter Packs in Swift 6.0",
-      "https://swift.org/blog/pack-iteration/"
     ]
   ],
   [
