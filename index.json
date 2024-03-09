@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-09, 02:38:35",
+      "https://lobste.rs/s/nd3dkq/fedify_fediverse_server_framework_deno"
+    ],
+    [
+      "Fedify: A fediverse server framework in Deno",
+      "https://github.com/dahlia/fedify"
+    ]
+  ],
+  [
+    [
       "2024-03-09, 01:57:24",
       "https://lobste.rs/s/ikntkz/training_great_llms_entirely_from_ground"
     ],
@@ -27,6 +37,16 @@
     [
       "Downpour: make games on your phone",
       "https://downpour.games"
+    ]
+  ],
+  [
+    [
+      "2024-03-08, 20:29:54",
+      "https://lobste.rs/s/go8jbz/iterate_over_parameter_packs_swift_6_0"
+    ],
+    [
+      "Iterate Over Parameter Packs in Swift 6.0",
+      "https://swift.org/blog/pack-iteration/"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "The Magic of Property Testing",
       "https://www.youtube.com/watch?v=4bpc8NpNHRc"
-    ]
-  ],
-  [
-    [
-      "2024-03-08, 15:16:35",
-      "https://lobste.rs/s/ljlgev/case_study_securing_mmu_less_linux_using"
-    ],
-    [
-      "Case Study: Securing MMU-less Linux Using CHERI",
-      "https://arxiv.org/pdf/2310.00933"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Deliberate Abstraction",
       "https://two-wrongs.com/deliberate-abstraction"
-    ]
-  ],
-  [
-    [
-      "2024-03-07, 20:14:13",
-      "https://lobste.rs/s/0i33my/how_do_calculators_compute_sine"
-    ],
-    [
-      "How do calculators compute sine?",
-      "https://androidcalculator.com/how-do-calculators-compute-sine/"
     ]
   ],
   [
