@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-09, 10:36:22",
+      "https://lobste.rs/s/bwxtxw/sqlite_on_macos_not_acid_compliant_with"
+    ],
+    [
+      "SQLite on macOS: Not ACID compliant with the bundled version (2022)",
+      "https://bonsaidb.io/blog/acid-on-apple/"
+    ]
+  ],
+  [
+    [
       "2024-03-09, 09:36:04",
       "https://lobste.rs/s/godgbb/prolly_trees"
     ],
@@ -237,16 +247,6 @@
     [
       "Bleacher Report gutting out OTP",
       "https://www.reddit.com/r/erlang/comments/18f3kl3/bleacher_report_gutting_out_otp/kcts58i/"
-    ]
-  ],
-  [
-    [
-      "2024-03-07, 07:44:50",
-      "https://lobste.rs/s/tlmvrr/i_m_programmer_i_m_stupid"
-    ],
-    [
-      "I'm a programmer and I'm stupid",
-      "https://antonz.org/stupid/"
     ]
   ]
 ]
