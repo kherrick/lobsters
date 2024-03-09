@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-09, 01:57:24](https://lobste.rs/s/ikntkz/training_great_llms_entirely_from_ground) - [Training great LLMs entirely from ground up in the wilderness as a startup](https://www.yitay.net/blog/training-great-llms-entirely-from-ground-zero-in-the-wilderness)
 * [2024-03-09, 01:21:05](https://lobste.rs/s/4aqojy/removing_libjs_jit_ladybird_browser) - [Removing the LibJS JIT (Ladybird browser update (February 2024))](https://www.youtube.com/watch?v=dKHopzDtElY)
 * [2024-03-09, 01:19:33](https://lobste.rs/s/9sxw8c/downpour_make_games_on_your_phone) - [Downpour: make games on your phone](https://downpour.games)
 * [2024-03-08, 19:46:46](https://lobste.rs/s/tontix/atopile_build_electronic_circuit_boards) - [atopile - build electronic circuit boards from code](https://atopile.io/)
@@ -21,7 +22,6 @@
 * [2024-03-07, 22:17:03](https://lobste.rs/s/rrgyvm/how_many_programming_languages_do_you) - [How many programming languages do you think a person can be proficient in?](https://lobste.rs/s/rrgyvm/how_many_programming_languages_do_you)
 * [2024-03-07, 20:45:02](https://lobste.rs/s/z2l3ot/deliberate_abstraction) - [Deliberate Abstraction](https://two-wrongs.com/deliberate-abstraction)
 * [2024-03-07, 20:14:13](https://lobste.rs/s/0i33my/how_do_calculators_compute_sine) - [How do calculators compute sine?](https://androidcalculator.com/how-do-calculators-compute-sine/)
-* [2024-03-07, 20:07:45](https://lobste.rs/s/zvhdq2/commitgo_launches_gitea_enterprise) - [CommitGo Launches Gitea Enterprise](https://blog.gitea.com/gitea-enterprise)
 * [2024-03-07, 18:24:20](https://lobste.rs/s/tgj13g/boa_release_v0_18_javascript_engine) - [Boa release v0.18: A JavaScript engine written in Rust](https://boajs.dev/blog/2024/03/07/boa-release-18)
 * [2024-03-07, 11:37:59](https://lobste.rs/s/1ivqeg/bleacher_report_gutting_out_otp) - [Bleacher Report gutting out OTP](https://www.reddit.com/r/erlang/comments/18f3kl3/bleacher_report_gutting_out_otp/kcts58i/)
 * [2024-03-07, 07:44:50](https://lobste.rs/s/tlmvrr/i_m_programmer_i_m_stupid) - [I'm a programmer and I'm stupid](https://antonz.org/stupid/)
