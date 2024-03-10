@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-10, 15:16:01",
+      "https://lobste.rs/s/smpcdh/new_netbsd_bulktracker_release"
+    ],
+    [
+      "New NetBSD BulkTracker release",
+      "https://releng.netbsd.org/bulktracker/"
+    ]
+  ],
+  [
+    [
       "2024-03-10, 12:56:22",
       "https://lobste.rs/s/xo0x0f/kakapo_web_bundler_for_nix_strings_with"
     ],
@@ -167,16 +177,6 @@
     [
       "What Cannot be Skipped About the Skiplist: A Survey of Skiplists and Their Applications in Big Data Systems",
       "https://arxiv.org/abs/2403.04582"
-    ]
-  ],
-  [
-    [
-      "2024-03-09, 12:03:44",
-      "https://lobste.rs/s/obeth5/orthogonal_persistence_model"
-    ],
-    [
-      "Orthogonal Persistence, The Model",
-      "https://github.com/mighty-gerbils/gerbil-persist/blob/master/persist.md"
     ]
   ],
   [
