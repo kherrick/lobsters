@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-03-09, 19:37:08](https://lobste.rs/s/v1nckl/uk_academic_s_wikipedia_project_raises) - [UK academic’s Wikipedia project raises profile of women around the world](https://www.theguardian.com/society/2024/mar/05/uk-academics-wikipedia-project-raises-profile-of-women-around-the-world)
 * [2024-03-09, 19:34:16](https://lobste.rs/s/7pc89y/making_friends_with_attributegraph) - [Making Friends with AttributeGraph](https://saagarjha.com/blog/2024/02/27/making-friends-with-attributegraph/)
 * [2024-03-09, 18:54:58](https://lobste.rs/s/mpcoj1/i_m_betting_on_call_by_push_value) - [I'm betting on Call-by-Push-Value](https://thunderseethe.dev/posts/bet-on-cbpv/)
 * [2024-03-09, 18:51:48](https://lobste.rs/s/85arqh/announcing_lumecms) - [Announcing LumeCMS](https://lume.land/blog/posts/lume-cms/)
@@ -22,6 +21,7 @@
 * [2024-03-08, 15:42:45](https://lobste.rs/s/imarid/magic_property_testing) - [The Magic of Property Testing](https://www.youtube.com/watch?v=4bpc8NpNHRc)
 * [2024-03-08, 14:27:12](https://lobste.rs/s/ydm7xk/build_initramfs_rootless) - [Build initramfs rootless](https://blog.izissise.net/posts/initramfs/)
 * [2024-03-08, 13:29:04](https://lobste.rs/s/a8ze5v/automatic_contact_sharing_ios_leaks) - [Automatic contact sharing in iOS leaks emails to Lockdown Mode devices](https://marekfoss.org/2024/03/08/automatic-contact-sharing-in-ios-leaks-emails-to-lockdown-mode-devices/)
+* [2024-03-08, 12:14:45](https://lobste.rs/s/i0bsk5/opengfw_open_source_implementation_gfw) - [OpenGFW, open source implementation of GFW (Great Firewall of China)](https://github.com/apernet/OpenGFW)
 * [2024-03-08, 11:57:11](https://lobste.rs/s/wwwbgc/run_nixos_integration_tests_on_macos) - [Run NixOS Integration Tests on macOS](https://nixcademy.com/2024/03/08/running-nixos-integration-tests-on-macos/)
 * [2024-03-08, 11:08:21](https://lobste.rs/s/dbwn98/secure_by_design_google_s_perspective_on) - [Secure by Design: Google’s Perspective on Memory Safety](https://security.googleblog.com/2024/03/secure-by-design-googles-perspective-on.html)
 * [2024-03-08, 09:38:52](https://lobste.rs/s/nqootu/sudo_rs_dependencies_when_less_is_better) - [Sudo-rs dependencies: when less is better](https://www.memorysafety.org/blog/reducing-dependencies-in-sudo/)
