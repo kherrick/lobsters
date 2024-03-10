@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-10, 20:57:36](https://lobste.rs/s/ex4t5x/making_nice_api_amtrak_s_ugly_api) - [Making a nice API of Amtrak's ugly API](https://mgwalker.github.io/blog/amtrak-api/)
 * [2024-03-10, 17:24:48](https://lobste.rs/s/b2ebth/compact_relocation_format_for_elf) - [A compact relocation format for ELF](https://maskray.me/blog/2024-03-09-a-compact-relocation-format-for-elf)
 * [2024-03-10, 17:22:44](https://lobste.rs/s/kiibpg/unlocking_kafka_s_potential_tackling) - [Unlocking Kafka's Potential: Tackling Tail Latency with eBPF](https://blog.allegro.tech/2024/03/kafka-performance-analysis.html)
 * [2024-03-10, 17:03:03](https://lobste.rs/s/e4o2ge/programming_jigs) - [Programming Jigs](https://buttondown.email/j2kun/archive/programming-jigs/)
@@ -24,7 +25,6 @@
 * [2024-03-09, 09:36:04](https://lobste.rs/s/godgbb/prolly_trees) - [Prolly Trees](https://www.dolthub.com/blog/2024-03-03-prolly-trees/)
 * [2024-03-09, 02:53:14](https://lobste.rs/s/fddnqv/apple_curl_security_incident_12604) - [the Apple curl security incident 12604](https://daniel.haxx.se/blog/2024/03/08/the-apple-curl-security-incident-12604/)
 * [2024-03-09, 02:38:35](https://lobste.rs/s/nd3dkq/fedify_fediverse_server_framework_deno) - [Fedify: A fediverse server framework in Deno](https://github.com/dahlia/fedify)
-* [2024-03-08, 19:27:42](https://lobste.rs/s/bahhw4/gpt_4_barrier_has_finally_been_broken) - [The GPT-4 barrier has finally been broken](https://simonwillison.net/2024/Mar/8/gpt-4-barrier/)
 
 ## [Archives](archives/index.md)
 

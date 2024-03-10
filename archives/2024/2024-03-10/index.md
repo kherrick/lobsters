@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-10](index.md)
 
+* [2024-03-10, 20:57:36](https://lobste.rs/s/ex4t5x/making_nice_api_amtrak_s_ugly_api) - [Making a nice API of Amtrak's ugly API](https://mgwalker.github.io/blog/amtrak-api/)
 * [2024-03-10, 17:24:48](https://lobste.rs/s/b2ebth/compact_relocation_format_for_elf) - [A compact relocation format for ELF](https://maskray.me/blog/2024-03-09-a-compact-relocation-format-for-elf)
 * [2024-03-10, 17:22:44](https://lobste.rs/s/kiibpg/unlocking_kafka_s_potential_tackling) - [Unlocking Kafka's Potential: Tackling Tail Latency with eBPF](https://blog.allegro.tech/2024/03/kafka-performance-analysis.html)
 * [2024-03-10, 17:03:03](https://lobste.rs/s/e4o2ge/programming_jigs) - [Programming Jigs](https://buttondown.email/j2kun/archive/programming-jigs/)
