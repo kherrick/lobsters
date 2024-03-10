@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-10, 11:56:59](https://lobste.rs/s/kakpch/wikipedia_over_dns_2009) - [Wikipedia over DNS (2009)](https://dgl.cx/wikipedia-dns)
 * [2024-03-10, 11:16:02](https://lobste.rs/s/hcajms/aws_lambda_web_adapter_run_web) - [aws-lambda-web-adapter: Run web applications on AWS Lambda](https://github.com/awslabs/aws-lambda-web-adapter)
 * [2024-03-10, 10:47:57](https://lobste.rs/s/mhsucg/numbers_every_programmer_should_know) - [Numbers Every Programmer Should Know](https://samwho.dev/numbers)
 * [2024-03-10, 10:37:29](https://lobste.rs/s/aqd0eu/keycloak_identity_access_management_on) - [Keycloak Identity and Access Management on FreeBSD](https://vermaden.wordpress.com/2024/03/10/keycloak-on-freebsd/)
@@ -19,7 +20,6 @@
 * [2024-03-09, 10:36:22](https://lobste.rs/s/bwxtxw/sqlite_on_macos_not_acid_compliant_with) - [SQLite on macOS: Not ACID compliant with the bundled version (2022)](https://bonsaidb.io/blog/acid-on-apple/)
 * [2024-03-09, 09:36:04](https://lobste.rs/s/godgbb/prolly_trees) - [Prolly Trees](https://www.dolthub.com/blog/2024-03-03-prolly-trees/)
 * [2024-03-09, 06:54:13](https://lobste.rs/s/7w33it/rendering_3d_graphics_on_oscilloscope) - [Rendering 3D Graphics On An Oscilloscope With An STM32](https://www.youtube.com/watch?v=TAfWea21ooM)
-* [2024-03-09, 05:40:21](https://lobste.rs/s/oq7zyh/how_do_computers_add_numbers_so_quickly) - [How do computers add numbers so quickly?](https://www.youtube.com/watch?v=yj6wo5SCObY)
 * [2024-03-09, 02:53:14](https://lobste.rs/s/fddnqv/apple_curl_security_incident_12604) - [the Apple curl security incident 12604](https://daniel.haxx.se/blog/2024/03/08/the-apple-curl-security-incident-12604/)
 * [2024-03-09, 02:38:35](https://lobste.rs/s/nd3dkq/fedify_fediverse_server_framework_deno) - [Fedify: A fediverse server framework in Deno](https://github.com/dahlia/fedify)
 * [2024-03-09, 01:19:33](https://lobste.rs/s/9sxw8c/downpour_make_games_on_your_phone) - [Downpour: make games on your phone](https://downpour.games)
