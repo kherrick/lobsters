@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-10, 11:16:02](https://lobste.rs/s/hcajms/aws_lambda_web_adapter_run_web) - [aws-lambda-web-adapter: Run web applications on AWS Lambda](https://github.com/awslabs/aws-lambda-web-adapter)
 * [2024-03-10, 10:47:57](https://lobste.rs/s/mhsucg/numbers_every_programmer_should_know) - [Numbers Every Programmer Should Know](https://samwho.dev/numbers/?fo)
 * [2024-03-10, 10:37:29](https://lobste.rs/s/aqd0eu/keycloak_identity_access_management_on) - [Keycloak Identity and Access Management on FreeBSD](https://vermaden.wordpress.com/2024/03/10/keycloak-on-freebsd/)
 * [2024-03-10, 07:13:11](https://lobste.rs/s/3xpaze/how_we_bypassed_safari_17_s_advanced_audio) - [How We Bypassed Safari 17's Advanced Audio Fingerprinting Protection](https://fingerprint.com/blog/bypassing-safari-17-audio-fingerprinting-protection/)
@@ -24,7 +25,6 @@
 * [2024-03-09, 01:19:33](https://lobste.rs/s/9sxw8c/downpour_make_games_on_your_phone) - [Downpour: make games on your phone](https://downpour.games)
 * [2024-03-08, 19:27:42](https://lobste.rs/s/bahhw4/gpt_4_barrier_has_finally_been_broken) - [The GPT-4 barrier has finally been broken](https://simonwillison.net/2024/Mar/8/gpt-4-barrier/)
 * [2024-03-08, 14:27:12](https://lobste.rs/s/ydm7xk/build_initramfs_rootless) - [Build initramfs rootless](https://blog.izissise.net/posts/initramfs/)
-* [2024-03-08, 11:08:21](https://lobste.rs/s/dbwn98/secure_by_design_google_s_perspective_on) - [Secure by Design: Google’s Perspective on Memory Safety](https://security.googleblog.com/2024/03/secure-by-design-googles-perspective-on.html)
 
 ## [Archives](archives/index.md)
 
