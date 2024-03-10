@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-10, 23:03:14](https://lobste.rs/s/rbibyf/what_even_is_dependency_injection) - [What even is “Dependency Injection”? (a practical example using Go)](https://medium.com/@LittleLeverages/what-even-is-dependency-injection-using-go-7f85724bbdb2)
 * [2024-03-10, 22:17:12](https://lobste.rs/s/h318ab/accessibility_improvements_gtk_4_14) - [Accessibility improvements in GTK 4.14](https://blog.gtk.org/2024/03/08/accessibility-improvements-in-gtk-4-14/)
-* [2024-03-10, 21:46:26](https://lobste.rs/s/qdoq51/kagi_wolfram) - [Kagi + Wolfram](https://blog.kagi.com/kagi-wolfram)
 * [2024-03-10, 21:43:21](https://lobste.rs/s/rpv7td/about_link_integrity) - [About Link Integrity](https://vhyrro.github.io/blog/posts/type-theory/links/)
 * [2024-03-10, 21:12:55](https://lobste.rs/s/fseogs/iris_infra_red_situ_project_updates) - [IRIS (Infra-Red, in situ) Project Updates «  bunnie's blog](https://www.bunniestudios.com/blog/?p=6937)
 * [2024-03-10, 20:57:36](https://lobste.rs/s/ex4t5x/making_nice_api_amtrak_s_ugly_api) - [Making a nice API of Amtrak's ugly API](https://mgwalker.github.io/blog/amtrak-api/)
