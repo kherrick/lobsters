@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-10, 15:51:22](https://lobste.rs/s/xuvbii/resolv_conf_upper_case) - [RESOLV.CONF (upper case)](https://jpmens.net/2024/03/10/resolv-conf-upper-case/)
 * [2024-03-10, 15:23:46](https://lobste.rs/s/s2qwqr/using_llms_generate_fuzz_generators) - [Using LLMs to Generate Fuzz Generators](https://verse.systems/blog/post/2024-03-09-using-llms-to-generate-fuzz-generators/)
 * [2024-03-10, 15:16:01](https://lobste.rs/s/smpcdh/new_netbsd_bulktracker_release) - [New NetBSD BulkTracker release](https://releng.netbsd.org/bulktracker/)
 * [2024-03-10, 12:56:22](https://lobste.rs/s/xo0x0f/kakapo_web_bundler_for_nix_strings_with) - [Kākāpō - A web bundler for Nix strings with context](https://github.com/adisbladis/kakapo)
@@ -18,7 +19,6 @@
 * [2024-03-09, 18:22:26](https://lobste.rs/s/qhs3uj/rotation_with_three_shears) - [Rotation with three shears](https://cohost.org/tomforsyth/post/891823-rotation-with-three)
 * [2024-03-09, 16:12:08](https://lobste.rs/s/baxjpw/three_star_programmer) - [Three Star Programmer](https://wiki.c2.com/?ThreeStarProgrammer)
 * [2024-03-09, 16:07:22](https://lobste.rs/s/hru0ib/how_lose_control_your_shell) - [How to Lose Control of your Shell](https://registerspill.thorstenball.com/p/how-to-lose-control-of-your-shell)
-* [2024-03-09, 13:01:46](https://lobste.rs/s/yogkhh/what_cannot_be_skipped_about_skiplist) - [What Cannot be Skipped About the Skiplist: A Survey of Skiplists and Their Applications in Big Data Systems](https://arxiv.org/abs/2403.04582)
 * [2024-03-09, 10:36:22](https://lobste.rs/s/bwxtxw/sqlite_on_macos_not_acid_compliant_with) - [SQLite on macOS: Not ACID compliant with the bundled version (2022)](https://bonsaidb.io/blog/acid-on-apple/)
 * [2024-03-09, 09:36:04](https://lobste.rs/s/godgbb/prolly_trees) - [Prolly Trees](https://www.dolthub.com/blog/2024-03-03-prolly-trees/)
 * [2024-03-09, 06:54:13](https://lobste.rs/s/7w33it/rendering_3d_graphics_on_oscilloscope) - [Rendering 3D Graphics On An Oscilloscope With An STM32](https://www.youtube.com/watch?v=TAfWea21ooM)
