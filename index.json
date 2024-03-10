@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-10, 20:57:36",
+      "https://lobste.rs/s/ex4t5x/making_nice_api_amtrak_s_ugly_api"
+    ],
+    [
+      "Making a nice API of Amtrak's ugly API",
+      "https://mgwalker.github.io/blog/amtrak-api/"
+    ]
+  ],
+  [
+    [
       "2024-03-10, 17:24:48",
       "https://lobste.rs/s/b2ebth/compact_relocation_format_for_elf"
     ],
@@ -237,16 +247,6 @@
     [
       "Fedify: A fediverse server framework in Deno",
       "https://github.com/dahlia/fedify"
-    ]
-  ],
-  [
-    [
-      "2024-03-08, 19:27:42",
-      "https://lobste.rs/s/bahhw4/gpt_4_barrier_has_finally_been_broken"
-    ],
-    [
-      "The GPT-4 barrier has finally been broken",
-      "https://simonwillison.net/2024/Mar/8/gpt-4-barrier/"
     ]
   ]
 ]
