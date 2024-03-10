@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-10](index.md)
 
+* [2024-03-10, 10:37:29](https://lobste.rs/s/aqd0eu/keycloak_identity_access_management_on) - [Keycloak Identity and Access Management on FreeBSD](https://vermaden.wordpress.com/2024/03/10/keycloak-on-freebsd/)
 * [2024-03-10, 07:13:11](https://lobste.rs/s/3xpaze/how_we_bypassed_safari_17_s_advanced_audio) - [How We Bypassed Safari 17's Advanced Audio Fingerprinting Protection](https://fingerprint.com/blog/bypassing-safari-17-audio-fingerprinting-protection/)
 * [2024-03-10, 07:07:30](https://lobste.rs/s/9qqauz/suyu_nintendo_switch_emulator_for) - [Suyu: a Nintendo Switch emulator for hardware preservation and research](https://suyu.dev/)
 * [2024-03-10, 04:10:11](https://lobste.rs/s/t9d5z4/s3_is_files_not_filesystem) - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
