@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-10, 15:51:22",
+      "https://lobste.rs/s/xuvbii/resolv_conf_upper_case"
+    ],
+    [
+      "RESOLV.CONF (upper case)",
+      "https://jpmens.net/2024/03/10/resolv-conf-upper-case/"
+    ]
+  ],
+  [
+    [
       "2024-03-10, 15:23:46",
       "https://lobste.rs/s/s2qwqr/using_llms_generate_fuzz_generators"
     ],
@@ -177,16 +187,6 @@
     [
       "How to Lose Control of your Shell",
       "https://registerspill.thorstenball.com/p/how-to-lose-control-of-your-shell"
-    ]
-  ],
-  [
-    [
-      "2024-03-09, 13:01:46",
-      "https://lobste.rs/s/yogkhh/what_cannot_be_skipped_about_skiplist"
-    ],
-    [
-      "What Cannot be Skipped About the Skiplist: A Survey of Skiplists and Their Applications in Big Data Systems",
-      "https://arxiv.org/abs/2403.04582"
     ]
   ],
   [
