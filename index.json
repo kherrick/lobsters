@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-10, 11:16:02",
+      "https://lobste.rs/s/hcajms/aws_lambda_web_adapter_run_web"
+    ],
+    [
+      "aws-lambda-web-adapter: Run web applications on AWS Lambda",
+      "https://github.com/awslabs/aws-lambda-web-adapter"
+    ]
+  ],
+  [
+    [
       "2024-03-10, 10:47:57",
       "https://lobste.rs/s/mhsucg/numbers_every_programmer_should_know"
     ],
@@ -237,16 +247,6 @@
     [
       "Build initramfs rootless",
       "https://blog.izissise.net/posts/initramfs/"
-    ]
-  ],
-  [
-    [
-      "2024-03-08, 11:08:21",
-      "https://lobste.rs/s/dbwn98/secure_by_design_google_s_perspective_on"
-    ],
-    [
-      "Secure by Design: Google’s Perspective on Memory Safety",
-      "https://security.googleblog.com/2024/03/secure-by-design-googles-perspective-on.html"
     ]
   ]
 ]
