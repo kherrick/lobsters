@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-10, 04:10:11",
+      "https://lobste.rs/s/t9d5z4/s3_is_files_not_filesystem"
+    ],
+    [
+      "S3 is files, but not a filesystem",
+      "https://calpaterson.com/s3.html"
+    ]
+  ],
+  [
+    [
       "2024-03-10, 01:36:59",
       "https://lobste.rs/s/snqz3l/yarnspin_simple_story_telling_game"
     ],
@@ -217,16 +227,6 @@
     [
       "Build initramfs rootless",
       "https://blog.izissise.net/posts/initramfs/"
-    ]
-  ],
-  [
-    [
-      "2024-03-08, 11:57:11",
-      "https://lobste.rs/s/wwwbgc/run_nixos_integration_tests_on_macos"
-    ],
-    [
-      "Run NixOS Integration Tests on macOS",
-      "https://nixcademy.com/2024/03/08/running-nixos-integration-tests-on-macos/"
     ]
   ],
   [
