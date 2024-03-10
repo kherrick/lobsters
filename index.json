@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-10, 21:46:26",
+      "https://lobste.rs/s/qdoq51/kagi_wolfram"
+    ],
+    [
+      "Kagi + Wolfram",
+      "https://blog.kagi.com/kagi-wolfram"
+    ]
+  ],
+  [
+    [
+      "2024-03-10, 21:43:21",
+      "https://lobste.rs/s/rpv7td/about_link_integrity"
+    ],
+    [
+      "About Link Integrity",
+      "https://vhyrro.github.io/blog/posts/type-theory/links/"
+    ]
+  ],
+  [
+    [
       "2024-03-10, 21:12:55",
       "https://lobste.rs/s/fseogs/iris_infra_red_situ_project_updates"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2024-03-09, 09:36:04",
-      "https://lobste.rs/s/godgbb/prolly_trees"
-    ],
-    [
-      "Prolly Trees",
-      "https://www.dolthub.com/blog/2024-03-03-prolly-trees/"
-    ]
-  ],
-  [
-    [
       "2024-03-09, 02:53:14",
       "https://lobste.rs/s/fddnqv/apple_curl_security_incident_12604"
     ],
     [
       "the Apple curl security incident 12604",
       "https://daniel.haxx.se/blog/2024/03/08/the-apple-curl-security-incident-12604/"
-    ]
-  ],
-  [
-    [
-      "2024-03-09, 02:38:35",
-      "https://lobste.rs/s/nd3dkq/fedify_fediverse_server_framework_deno"
-    ],
-    [
-      "Fedify: A fediverse server framework in Deno",
-      "https://github.com/dahlia/fedify"
     ]
   ]
 ]
