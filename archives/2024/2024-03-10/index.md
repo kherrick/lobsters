@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-10](index.md)
 
+* [2024-03-10, 21:46:26](https://lobste.rs/s/qdoq51/kagi_wolfram) - [Kagi + Wolfram](https://blog.kagi.com/kagi-wolfram)
+* [2024-03-10, 21:43:21](https://lobste.rs/s/rpv7td/about_link_integrity) - [About Link Integrity](https://vhyrro.github.io/blog/posts/type-theory/links/)
 * [2024-03-10, 21:12:55](https://lobste.rs/s/fseogs/iris_infra_red_situ_project_updates) - [IRIS (Infra-Red, in situ) Project Updates «  bunnie's blog](https://www.bunniestudios.com/blog/?p=6937)
 * [2024-03-10, 20:57:36](https://lobste.rs/s/ex4t5x/making_nice_api_amtrak_s_ugly_api) - [Making a nice API of Amtrak's ugly API](https://mgwalker.github.io/blog/amtrak-api/)
 * [2024-03-10, 17:24:48](https://lobste.rs/s/b2ebth/compact_relocation_format_for_elf) - [A compact relocation format for ELF](https://maskray.me/blog/2024-03-09-a-compact-relocation-format-for-elf)
