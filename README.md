@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-10, 10:47:57](https://lobste.rs/s/mhsucg/numbers_every_programmer_should_know) - [Numbers Every Programmer Should Know](https://samwho.dev/numbers/?fo)
 * [2024-03-10, 10:37:29](https://lobste.rs/s/aqd0eu/keycloak_identity_access_management_on) - [Keycloak Identity and Access Management on FreeBSD](https://vermaden.wordpress.com/2024/03/10/keycloak-on-freebsd/)
 * [2024-03-10, 07:13:11](https://lobste.rs/s/3xpaze/how_we_bypassed_safari_17_s_advanced_audio) - [How We Bypassed Safari 17's Advanced Audio Fingerprinting Protection](https://fingerprint.com/blog/bypassing-safari-17-audio-fingerprinting-protection/)
 * [2024-03-10, 07:07:30](https://lobste.rs/s/9qqauz/suyu_nintendo_switch_emulator_for) - [Suyu: a Nintendo Switch emulator for hardware preservation and research](https://suyu.dev/)
@@ -20,7 +21,6 @@
 * [2024-03-09, 05:40:21](https://lobste.rs/s/oq7zyh/how_do_computers_add_numbers_so_quickly) - [How do computers add numbers so quickly?](https://www.youtube.com/watch?v=yj6wo5SCObY)
 * [2024-03-09, 02:53:14](https://lobste.rs/s/fddnqv/apple_curl_security_incident_12604) - [the Apple curl security incident 12604](https://daniel.haxx.se/blog/2024/03/08/the-apple-curl-security-incident-12604/)
 * [2024-03-09, 02:38:35](https://lobste.rs/s/nd3dkq/fedify_fediverse_server_framework_deno) - [Fedify: A fediverse server framework in Deno](https://github.com/dahlia/fedify)
-* [2024-03-09, 01:21:05](https://lobste.rs/s/4aqojy/removing_libjs_jit_ladybird_browser) - [Removing the LibJS JIT (Ladybird browser update (February 2024))](https://www.youtube.com/watch?v=dKHopzDtElY)
 * [2024-03-09, 01:19:33](https://lobste.rs/s/9sxw8c/downpour_make_games_on_your_phone) - [Downpour: make games on your phone](https://downpour.games)
 * [2024-03-08, 19:27:42](https://lobste.rs/s/bahhw4/gpt_4_barrier_has_finally_been_broken) - [The GPT-4 barrier has finally been broken](https://simonwillison.net/2024/Mar/8/gpt-4-barrier/)
 * [2024-03-08, 14:27:12](https://lobste.rs/s/ydm7xk/build_initramfs_rootless) - [Build initramfs rootless](https://blog.izissise.net/posts/initramfs/)
