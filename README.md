@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-10, 23:50:36](https://lobste.rs/s/vllmhr/serving_astro_with_rust) - [Serving Astro with Rust](https://www.yieldcode.blog/post/serving-astro-with-rust/)
 * [2024-03-10, 23:03:14](https://lobste.rs/s/rbibyf/what_even_is_dependency_injection) - [What even is “Dependency Injection”? (a practical example using Go)](https://medium.com/@LittleLeverages/what-even-is-dependency-injection-using-go-7f85724bbdb2)
 * [2024-03-10, 22:17:12](https://lobste.rs/s/h318ab/accessibility_improvements_gtk_4_14) - [Accessibility improvements in GTK 4.14](https://blog.gtk.org/2024/03/08/accessibility-improvements-in-gtk-4-14/)
 * [2024-03-10, 21:43:21](https://lobste.rs/s/rpv7td/about_link_integrity) - [About Link Integrity](https://vhyrro.github.io/blog/posts/type-theory/links/)
@@ -22,7 +23,6 @@
 * [2024-03-10, 01:25:46](https://lobste.rs/s/tmiu3b/ham_stack_simple_scalable_tech_stack_for) - [The HAM Stack - A Simple Scalable Tech Stack for building modern web apps fast and cheap](https://hamy.xyz/labs/2024-02_hamstack)
 * [2024-03-09, 18:54:58](https://lobste.rs/s/mpcoj1/i_m_betting_on_call_by_push_value) - [I'm betting on Call-by-Push-Value](https://thunderseethe.dev/posts/bet-on-cbpv/)
 * [2024-03-09, 18:22:26](https://lobste.rs/s/qhs3uj/rotation_with_three_shears) - [Rotation with three shears](https://cohost.org/tomforsyth/post/891823-rotation-with-three)
-* [2024-03-09, 16:12:08](https://lobste.rs/s/baxjpw/three_star_programmer) - [Three Star Programmer](https://wiki.c2.com/?ThreeStarProgrammer)
 * [2024-03-09, 16:07:22](https://lobste.rs/s/hru0ib/how_lose_control_your_shell) - [How to Lose Control of your Shell](https://registerspill.thorstenball.com/p/how-to-lose-control-of-your-shell)
 * [2024-03-09, 02:53:14](https://lobste.rs/s/fddnqv/apple_curl_security_incident_12604) - [the Apple curl security incident 12604](https://daniel.haxx.se/blog/2024/03/08/the-apple-curl-security-incident-12604/)
 

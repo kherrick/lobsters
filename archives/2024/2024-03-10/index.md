@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-10](index.md)
 
+* [2024-03-10, 23:50:36](https://lobste.rs/s/vllmhr/serving_astro_with_rust) - [Serving Astro with Rust](https://www.yieldcode.blog/post/serving-astro-with-rust/)
 * [2024-03-10, 23:03:14](https://lobste.rs/s/rbibyf/what_even_is_dependency_injection) - [What even is “Dependency Injection”? (a practical example using Go)](https://medium.com/@LittleLeverages/what-even-is-dependency-injection-using-go-7f85724bbdb2)
 * [2024-03-10, 22:17:12](https://lobste.rs/s/h318ab/accessibility_improvements_gtk_4_14) - [Accessibility improvements in GTK 4.14](https://blog.gtk.org/2024/03/08/accessibility-improvements-in-gtk-4-14/)
 * [2024-03-10, 21:46:26](https://lobste.rs/s/qdoq51/kagi_wolfram) - [Kagi + Wolfram](https://blog.kagi.com/kagi-wolfram)
