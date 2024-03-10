@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-10](index.md)
 
+* [2024-03-10, 15:23:46](https://lobste.rs/s/s2qwqr/using_llms_generate_fuzz_generators) - [Using LLMs to Generate Fuzz Generators](https://verse.systems/blog/post/2024-03-09-using-llms-to-generate-fuzz-generators/)
 * [2024-03-10, 15:16:01](https://lobste.rs/s/smpcdh/new_netbsd_bulktracker_release) - [New NetBSD BulkTracker release](https://releng.netbsd.org/bulktracker/)
 * [2024-03-10, 12:56:22](https://lobste.rs/s/xo0x0f/kakapo_web_bundler_for_nix_strings_with) - [Kākāpō - A web bundler for Nix strings with context](https://github.com/adisbladis/kakapo)
 * [2024-03-10, 11:56:59](https://lobste.rs/s/kakpch/wikipedia_over_dns_2009) - [Wikipedia over DNS (2009)](https://dgl.cx/wikipedia-dns)

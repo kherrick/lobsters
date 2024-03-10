@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-10, 15:23:46](https://lobste.rs/s/s2qwqr/using_llms_generate_fuzz_generators) - [Using LLMs to Generate Fuzz Generators](https://verse.systems/blog/post/2024-03-09-using-llms-to-generate-fuzz-generators/)
 * [2024-03-10, 15:16:01](https://lobste.rs/s/smpcdh/new_netbsd_bulktracker_release) - [New NetBSD BulkTracker release](https://releng.netbsd.org/bulktracker/)
 * [2024-03-10, 12:56:22](https://lobste.rs/s/xo0x0f/kakapo_web_bundler_for_nix_strings_with) - [Kākāpō - A web bundler for Nix strings with context](https://github.com/adisbladis/kakapo)
 * [2024-03-10, 11:56:59](https://lobste.rs/s/kakpch/wikipedia_over_dns_2009) - [Wikipedia over DNS (2009)](https://dgl.cx/wikipedia-dns)
@@ -24,7 +25,6 @@
 * [2024-03-09, 02:53:14](https://lobste.rs/s/fddnqv/apple_curl_security_incident_12604) - [the Apple curl security incident 12604](https://daniel.haxx.se/blog/2024/03/08/the-apple-curl-security-incident-12604/)
 * [2024-03-09, 02:38:35](https://lobste.rs/s/nd3dkq/fedify_fediverse_server_framework_deno) - [Fedify: A fediverse server framework in Deno](https://github.com/dahlia/fedify)
 * [2024-03-08, 19:27:42](https://lobste.rs/s/bahhw4/gpt_4_barrier_has_finally_been_broken) - [The GPT-4 barrier has finally been broken](https://simonwillison.net/2024/Mar/8/gpt-4-barrier/)
-* [2024-03-08, 14:27:12](https://lobste.rs/s/ydm7xk/build_initramfs_rootless) - [Build initramfs rootless](https://blog.izissise.net/posts/initramfs/)
 
 ## [Archives](archives/index.md)
 
