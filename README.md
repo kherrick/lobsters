@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-10, 17:03:03](https://lobste.rs/s/e4o2ge/programming_jigs) - [Programming Jigs](https://buttondown.email/j2kun/archive/programming-jigs/)
 * [2024-03-10, 15:51:22](https://lobste.rs/s/xuvbii/resolv_conf_upper_case) - [RESOLV.CONF (upper case)](https://jpmens.net/2024/03/10/resolv-conf-upper-case/)
 * [2024-03-10, 15:23:46](https://lobste.rs/s/s2qwqr/using_llms_generate_fuzz_generators) - [Using LLMs to Generate Fuzz Generators](https://verse.systems/blog/post/2024-03-09-using-llms-to-generate-fuzz-generators/)
 * [2024-03-10, 15:16:01](https://lobste.rs/s/smpcdh/new_netbsd_bulktracker_release) - [New NetBSD BulkTracker release](https://releng.netbsd.org/bulktracker/)
@@ -13,7 +14,6 @@
 * [2024-03-10, 04:10:11](https://lobste.rs/s/t9d5z4/s3_is_files_not_filesystem) - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
 * [2024-03-10, 01:36:59](https://lobste.rs/s/snqz3l/yarnspin_simple_story_telling_game) - [Yarnspin: A simple story-telling game engine](https://github.com/mattiasgustavsson/yarnspin)
 * [2024-03-10, 01:25:46](https://lobste.rs/s/tmiu3b/ham_stack_simple_scalable_tech_stack_for) - [The HAM Stack - A Simple Scalable Tech Stack for building modern web apps fast and cheap](https://hamy.xyz/labs/2024-02_hamstack)
-* [2024-03-09, 19:34:16](https://lobste.rs/s/7pc89y/making_friends_with_attributegraph) - [Making Friends with AttributeGraph](https://saagarjha.com/blog/2024/02/27/making-friends-with-attributegraph/)
 * [2024-03-09, 18:54:58](https://lobste.rs/s/mpcoj1/i_m_betting_on_call_by_push_value) - [I'm betting on Call-by-Push-Value](https://thunderseethe.dev/posts/bet-on-cbpv/)
 * [2024-03-09, 18:51:48](https://lobste.rs/s/85arqh/announcing_lumecms) - [Announcing LumeCMS](https://lume.land/blog/posts/lume-cms/)
 * [2024-03-09, 18:22:26](https://lobste.rs/s/qhs3uj/rotation_with_three_shears) - [Rotation with three shears](https://cohost.org/tomforsyth/post/891823-rotation-with-three)
