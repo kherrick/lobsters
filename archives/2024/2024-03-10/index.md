@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-10](index.md)
 
+* [2024-03-10, 22:17:12](https://lobste.rs/s/h318ab/accessibility_improvements_gtk_4_14) - [Accessibility improvements in GTK 4.14](https://blog.gtk.org/2024/03/08/accessibility-improvements-in-gtk-4-14/)
 * [2024-03-10, 21:46:26](https://lobste.rs/s/qdoq51/kagi_wolfram) - [Kagi + Wolfram](https://blog.kagi.com/kagi-wolfram)
 * [2024-03-10, 21:43:21](https://lobste.rs/s/rpv7td/about_link_integrity) - [About Link Integrity](https://vhyrro.github.io/blog/posts/type-theory/links/)
 * [2024-03-10, 21:12:55](https://lobste.rs/s/fseogs/iris_infra_red_situ_project_updates) - [IRIS (Infra-Red, in situ) Project Updates «  bunnie's blog](https://www.bunniestudios.com/blog/?p=6937)
