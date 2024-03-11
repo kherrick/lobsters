@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-11, 07:08:35",
+      "https://lobste.rs/s/fqk5ya/splade_sparse_neural_search"
+    ],
+    [
+      "SPLADE: sparse neural search",
+      "https://github.com/naver/splade"
+    ]
+  ],
+  [
+    [
       "2024-03-11, 06:11:01",
       "https://lobste.rs/s/uc3kjr/chlorophyll_synthesis_aided_compiler"
     ],
@@ -237,16 +247,6 @@
     [
       "How to Lose Control of your Shell",
       "https://registerspill.thorstenball.com/p/how-to-lose-control-of-your-shell"
-    ]
-  ],
-  [
-    [
-      "2024-03-09, 02:53:14",
-      "https://lobste.rs/s/fddnqv/apple_curl_security_incident_12604"
-    ],
-    [
-      "the Apple curl security incident 12604",
-      "https://daniel.haxx.se/blog/2024/03/08/the-apple-curl-security-incident-12604/"
     ]
   ]
 ]
