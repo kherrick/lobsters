@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-11, 06:11:01",
+      "https://lobste.rs/s/uc3kjr/chlorophyll_synthesis_aided_compiler"
+    ],
+    [
+      "Chlorophyll: Synthesis-Aided Compiler for Low-Power Spatial Architectures (2014)",
+      "https://homes.cs.washington.edu/~bodik/ucb/Files/2014/chlorophyll-pldi2014.pdf"
+    ]
+  ],
+  [
+    [
       "2024-03-11, 04:02:40",
       "https://lobste.rs/s/mdipuc/how_we_replaced_vagrant_with_devenv"
     ],
@@ -197,16 +207,6 @@
     [
       "S3 is files, but not a filesystem",
       "https://calpaterson.com/s3.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-10, 01:25:46",
-      "https://lobste.rs/s/tmiu3b/ham_stack_simple_scalable_tech_stack_for"
-    ],
-    [
-      "The HAM Stack - A Simple Scalable Tech Stack for building modern web apps fast and cheap",
-      "https://hamy.xyz/labs/2024-02_hamstack"
     ]
   ],
   [
