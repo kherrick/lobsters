@@ -18,12 +18,12 @@
 * [2024-03-10, 15:16:01](https://lobste.rs/s/smpcdh/new_netbsd_bulktracker_release) - [New NetBSD BulkTracker release](https://releng.netbsd.org/bulktracker/)
 * [2024-03-10, 12:56:22](https://lobste.rs/s/xo0x0f/kakapo_web_bundler_for_nix_strings_with) - [Kākāpō - A web bundler for Nix strings with context](https://github.com/adisbladis/kakapo)
 * [2024-03-10, 11:56:59](https://lobste.rs/s/kakpch/wikipedia_over_dns_2009) - [Wikipedia over DNS (2009)](https://dgl.cx/wikipedia-dns)
-* [2024-03-10, 11:16:02](https://lobste.rs/s/hcajms/aws_lambda_web_adapter_run_web) - [aws-lambda-web-adapter: Run web applications on AWS Lambda](https://github.com/awslabs/aws-lambda-web-adapter)
 * [2024-03-10, 10:47:57](https://lobste.rs/s/mhsucg/numbers_every_programmer_should_know) - [Numbers Every Programmer Should Know](https://samwho.dev/numbers)
 * [2024-03-10, 07:13:11](https://lobste.rs/s/3xpaze/how_we_bypassed_safari_17_s_advanced_audio) - [How We Bypassed Safari 17's Advanced Audio Fingerprinting Protection](https://fingerprint.com/blog/bypassing-safari-17-audio-fingerprinting-protection/)
 * [2024-03-10, 07:07:30](https://lobste.rs/s/9qqauz/suyu_nintendo_switch_emulator_for) - [Suyu: a Nintendo Switch emulator for hardware preservation and research](https://suyu.dev/)
 * [2024-03-10, 04:10:11](https://lobste.rs/s/t9d5z4/s3_is_files_not_filesystem) - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
 * [2024-03-09, 18:54:58](https://lobste.rs/s/mpcoj1/i_m_betting_on_call_by_push_value) - [I'm betting on Call-by-Push-Value](https://thunderseethe.dev/posts/bet-on-cbpv/)
+* [2024-03-09, 18:22:26](https://lobste.rs/s/qhs3uj/rotation_with_three_shears) - [Rotation with three shears](https://cohost.org/tomforsyth/post/891823-rotation-with-three)
 * [2024-03-09, 16:07:22](https://lobste.rs/s/hru0ib/how_lose_control_your_shell) - [How to Lose Control of your Shell](https://registerspill.thorstenball.com/p/how-to-lose-control-of-your-shell)
 
 ## [Archives](archives/index.md)
