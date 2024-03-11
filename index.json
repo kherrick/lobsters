@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-11, 14:42:14",
+      "https://lobste.rs/s/g34jzj/retrogaming_viboritas_game_2k_made_1990"
+    ],
+    [
+      "Retrogaming: Viboritas game in 2K made in 1990",
+      "https://nanochess.org/viboritas.html"
+    ]
+  ],
+  [
+    [
       "2024-03-11, 14:16:03",
       "https://lobste.rs/s/ljipzp/processing_one_billion_rows_php"
     ],
@@ -167,16 +177,6 @@
     [
       "RESOLV.CONF (upper case)",
       "https://jpmens.net/2024/03/10/resolv-conf-upper-case/"
-    ]
-  ],
-  [
-    [
-      "2024-03-10, 15:16:01",
-      "https://lobste.rs/s/smpcdh/new_netbsd_bulktracker_release"
-    ],
-    [
-      "New NetBSD BulkTracker release",
-      "https://releng.netbsd.org/bulktracker/"
     ]
   ],
   [
