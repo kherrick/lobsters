@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-03-10, 23:03:14",
-      "https://lobste.rs/s/rbibyf/what_even_is_dependency_injection"
-    ],
-    [
-      "What even is “Dependency Injection”? (a practical example using Go)",
-      "https://medium.com/@LittleLeverages/what-even-is-dependency-injection-using-go-7f85724bbdb2"
-    ]
-  ],
-  [
-    [
       "2024-03-10, 22:17:12",
       "https://lobste.rs/s/h318ab/accessibility_improvements_gtk_4_14"
     ],
@@ -207,6 +197,16 @@
     [
       "S3 is files, but not a filesystem",
       "https://calpaterson.com/s3.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-10, 01:25:46",
+      "https://lobste.rs/s/tmiu3b/ham_stack_simple_scalable_tech_stack_for"
+    ],
+    [
+      "The HAM Stack - A Simple Scalable Tech Stack for building modern web apps fast and cheap",
+      "https://hamy.xyz/labs/2024-02_hamstack"
     ]
   ],
   [
