@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-11, 06:11:01](https://lobste.rs/s/uc3kjr/chlorophyll_synthesis_aided_compiler) - [Chlorophyll: Synthesis-Aided Compiler for Low-Power Spatial Architectures (2014)](https://homes.cs.washington.edu/~bodik/ucb/Files/2014/chlorophyll-pldi2014.pdf)
 * [2024-03-11, 04:02:40](https://lobste.rs/s/mdipuc/how_we_replaced_vagrant_with_devenv) - [How we replaced Vagrant with devenv](https://2li.ch/blog/2024-03-10-how-we-replaced-vagrant-with-devenv)
 * [2024-03-11, 02:44:38](https://lobste.rs/s/pfysdw/abstract_geometrical_computation) - [Abstract Geometrical Computation and signal machines](https://www.univ-orleans.fr/lifo/Members/Jerome.Durand-Lose/Recherche/AGC/intro_AGC.html)
 * [2024-03-10, 23:50:36](https://lobste.rs/s/vllmhr/serving_astro_with_rust) - [Serving Astro with Rust](https://www.yieldcode.blog/post/serving-astro-with-rust/)
@@ -20,7 +21,6 @@
 * [2024-03-10, 07:13:11](https://lobste.rs/s/3xpaze/how_we_bypassed_safari_17_s_advanced_audio) - [How We Bypassed Safari 17's Advanced Audio Fingerprinting Protection](https://fingerprint.com/blog/bypassing-safari-17-audio-fingerprinting-protection/)
 * [2024-03-10, 07:07:30](https://lobste.rs/s/9qqauz/suyu_nintendo_switch_emulator_for) - [Suyu: a Nintendo Switch emulator for hardware preservation and research](https://suyu.dev/)
 * [2024-03-10, 04:10:11](https://lobste.rs/s/t9d5z4/s3_is_files_not_filesystem) - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
-* [2024-03-10, 01:25:46](https://lobste.rs/s/tmiu3b/ham_stack_simple_scalable_tech_stack_for) - [The HAM Stack - A Simple Scalable Tech Stack for building modern web apps fast and cheap](https://hamy.xyz/labs/2024-02_hamstack)
 * [2024-03-09, 18:54:58](https://lobste.rs/s/mpcoj1/i_m_betting_on_call_by_push_value) - [I'm betting on Call-by-Push-Value](https://thunderseethe.dev/posts/bet-on-cbpv/)
 * [2024-03-09, 18:22:26](https://lobste.rs/s/qhs3uj/rotation_with_three_shears) - [Rotation with three shears](https://cohost.org/tomforsyth/post/891823-rotation-with-three)
 * [2024-03-09, 16:07:22](https://lobste.rs/s/hru0ib/how_lose_control_your_shell) - [How to Lose Control of your Shell](https://registerspill.thorstenball.com/p/how-to-lose-control-of-your-shell)
