@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-11, 09:10:32",
+      "https://lobste.rs/s/xr7agn/type_unions_don_t_always_compose_well"
+    ],
+    [
+      "Type Unions Don't Always Compose Well",
+      "https://rtpg.co/2024/03/11/union-types-do-not-always-compose-well/"
+    ]
+  ],
+  [
+    [
       "2024-03-11, 07:08:35",
       "https://lobste.rs/s/fqk5ya/splade_sparse_neural_search"
     ],
@@ -117,16 +127,6 @@
     [
       "RESOLV.CONF (upper case)",
       "https://jpmens.net/2024/03/10/resolv-conf-upper-case/"
-    ]
-  ],
-  [
-    [
-      "2024-03-10, 15:23:46",
-      "https://lobste.rs/s/s2qwqr/using_llms_generate_fuzz_generators"
-    ],
-    [
-      "Using LLMs to Generate Fuzz Generators",
-      "https://verse.systems/blog/post/2024-03-09-using-llms-to-generate-fuzz-generators/"
     ]
   ],
   [
