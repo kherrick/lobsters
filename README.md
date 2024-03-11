@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-11, 09:47:07](https://lobste.rs/s/5w9uki/0bin_is_back_after_cp_abuse_took_down_site) - [0bin is back after CP abuse took down the site for a year](https://github.com/Tygs/0bin/issues/160)
 * [2024-03-11, 09:10:32](https://lobste.rs/s/xr7agn/type_unions_don_t_always_compose_well) - [Type Unions Don't Always Compose Well](https://rtpg.co/2024/03/11/union-types-do-not-always-compose-well/)
 * [2024-03-11, 07:08:35](https://lobste.rs/s/fqk5ya/splade_sparse_neural_search) - [SPLADE: sparse neural search](https://github.com/naver/splade)
 * [2024-03-11, 06:11:01](https://lobste.rs/s/uc3kjr/chlorophyll_synthesis_aided_compiler) - [Chlorophyll: Synthesis-Aided Compiler for Low-Power Spatial Architectures (2014)](https://homes.cs.washington.edu/~bodik/ucb/Files/2014/chlorophyll-pldi2014.pdf)
@@ -18,7 +19,6 @@
 * [2024-03-10, 11:56:59](https://lobste.rs/s/kakpch/wikipedia_over_dns_2009) - [Wikipedia over DNS (2009)](https://dgl.cx/wikipedia-dns)
 * [2024-03-10, 11:16:02](https://lobste.rs/s/hcajms/aws_lambda_web_adapter_run_web) - [aws-lambda-web-adapter: Run web applications on AWS Lambda](https://github.com/awslabs/aws-lambda-web-adapter)
 * [2024-03-10, 10:47:57](https://lobste.rs/s/mhsucg/numbers_every_programmer_should_know) - [Numbers Every Programmer Should Know](https://samwho.dev/numbers)
-* [2024-03-10, 10:37:29](https://lobste.rs/s/aqd0eu/keycloak_identity_access_management_on) - [Keycloak Identity and Access Management on FreeBSD](https://vermaden.wordpress.com/2024/03/10/keycloak-on-freebsd/)
 * [2024-03-10, 07:13:11](https://lobste.rs/s/3xpaze/how_we_bypassed_safari_17_s_advanced_audio) - [How We Bypassed Safari 17's Advanced Audio Fingerprinting Protection](https://fingerprint.com/blog/bypassing-safari-17-audio-fingerprinting-protection/)
 * [2024-03-10, 07:07:30](https://lobste.rs/s/9qqauz/suyu_nintendo_switch_emulator_for) - [Suyu: a Nintendo Switch emulator for hardware preservation and research](https://suyu.dev/)
 * [2024-03-10, 04:10:11](https://lobste.rs/s/t9d5z4/s3_is_files_not_filesystem) - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
