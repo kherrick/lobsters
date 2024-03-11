@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 14:42:14](https://lobste.rs/s/g34jzj/retrogaming_viboritas_game_2k_made_1990) - [Retrogaming: Viboritas game in 2K made in 1990](https://nanochess.org/viboritas.html)
 * [2024-03-11, 14:16:03](https://lobste.rs/s/ljipzp/processing_one_billion_rows_php) - [Processing One Billion Rows in PHP](https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0)
 * [2024-03-11, 13:19:01](https://lobste.rs/s/osihwx/hypothesis_starts_support_fuzzing) - [Hypothesis starts to support fuzzing and solver-based backends](https://hypothesis.readthedocs.io/en/latest/strategies.html#alternative-backends-for-hypothesis)
 * [2024-03-11, 12:50:23](https://lobste.rs/s/wgbvek/gitu_tui_git_client_inspired_by_magit) - [gitu: A TUI Git client inspired by Magit](https://github.com/altsem/gitu)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-11, 14:42:14](https://lobste.rs/s/g34jzj/retrogaming_viboritas_game_2k_made_1990) - [Retrogaming: Viboritas game in 2K made in 1990](https://nanochess.org/viboritas.html)
 * [2024-03-11, 14:16:03](https://lobste.rs/s/ljipzp/processing_one_billion_rows_php) - [Processing One Billion Rows in PHP](https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0)
 * [2024-03-11, 13:19:01](https://lobste.rs/s/osihwx/hypothesis_starts_support_fuzzing) - [Hypothesis starts to support fuzzing and solver-based backends](https://hypothesis.readthedocs.io/en/latest/strategies.html#alternative-backends-for-hypothesis)
 * [2024-03-11, 12:50:23](https://lobste.rs/s/wgbvek/gitu_tui_git_client_inspired_by_magit) - [gitu: A TUI Git client inspired by Magit](https://github.com/altsem/gitu)
@@ -17,7 +18,6 @@
 * [2024-03-10, 17:22:44](https://lobste.rs/s/kiibpg/unlocking_kafka_s_potential_tackling) - [Unlocking Kafka's Potential: Tackling Tail Latency with eBPF](https://blog.allegro.tech/2024/03/kafka-performance-analysis.html)
 * [2024-03-10, 17:03:03](https://lobste.rs/s/e4o2ge/programming_jigs) - [Programming Jigs](https://buttondown.email/j2kun/archive/programming-jigs/)
 * [2024-03-10, 15:51:22](https://lobste.rs/s/xuvbii/resolv_conf_upper_case) - [RESOLV.CONF (upper case)](https://jpmens.net/2024/03/10/resolv-conf-upper-case/)
-* [2024-03-10, 15:16:01](https://lobste.rs/s/smpcdh/new_netbsd_bulktracker_release) - [New NetBSD BulkTracker release](https://releng.netbsd.org/bulktracker/)
 * [2024-03-10, 12:56:22](https://lobste.rs/s/xo0x0f/kakapo_web_bundler_for_nix_strings_with) - [Kākāpō - A web bundler for Nix strings with context](https://github.com/adisbladis/kakapo)
 * [2024-03-10, 11:56:59](https://lobste.rs/s/kakpch/wikipedia_over_dns_2009) - [Wikipedia over DNS (2009)](https://dgl.cx/wikipedia-dns)
 * [2024-03-10, 10:47:57](https://lobste.rs/s/mhsucg/numbers_every_programmer_should_know) - [Numbers Every Programmer Should Know](https://samwho.dev/numbers)
