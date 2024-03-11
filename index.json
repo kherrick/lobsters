@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-11, 21:21:24",
+      "https://lobste.rs/s/ufm36k/fx_json_viewer_now_supports_yaml"
+    ],
+    [
+      "Fx JSON viewer now supports YAML",
+      "https://github.com/antonmedv/fx/releases/tag/32.0.0"
+    ]
+  ],
+  [
+    [
       "2024-03-11, 18:48:42",
       "https://lobste.rs/s/nldo0o/openapi_tui_terminal_ui_list_browse_run"
     ],
@@ -167,16 +177,6 @@
     [
       "How we replaced Vagrant with devenv",
       "https://2li.ch/blog/2024-03-10-how-we-replaced-vagrant-with-devenv"
-    ]
-  ],
-  [
-    [
-      "2024-03-11, 02:44:38",
-      "https://lobste.rs/s/pfysdw/abstract_geometrical_computation"
-    ],
-    [
-      "Abstract Geometrical Computation and signal machines",
-      "https://www.univ-orleans.fr/lifo/Members/Jerome.Durand-Lose/Recherche/AGC/intro_AGC.html"
     ]
   ],
   [
