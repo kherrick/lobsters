@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-11, 07:08:35](https://lobste.rs/s/fqk5ya/splade_sparse_neural_search) - [SPLADE: sparse neural search](https://github.com/naver/splade)
 * [2024-03-11, 06:11:01](https://lobste.rs/s/uc3kjr/chlorophyll_synthesis_aided_compiler) - [Chlorophyll: Synthesis-Aided Compiler for Low-Power Spatial Architectures (2014)](https://homes.cs.washington.edu/~bodik/ucb/Files/2014/chlorophyll-pldi2014.pdf)
 * [2024-03-11, 04:02:40](https://lobste.rs/s/mdipuc/how_we_replaced_vagrant_with_devenv) - [How we replaced Vagrant with devenv](https://2li.ch/blog/2024-03-10-how-we-replaced-vagrant-with-devenv)
 * [2024-03-11, 02:44:38](https://lobste.rs/s/pfysdw/abstract_geometrical_computation) - [Abstract Geometrical Computation and signal machines](https://www.univ-orleans.fr/lifo/Members/Jerome.Durand-Lose/Recherche/AGC/intro_AGC.html)
@@ -24,7 +25,6 @@
 * [2024-03-09, 18:54:58](https://lobste.rs/s/mpcoj1/i_m_betting_on_call_by_push_value) - [I'm betting on Call-by-Push-Value](https://thunderseethe.dev/posts/bet-on-cbpv/)
 * [2024-03-09, 18:22:26](https://lobste.rs/s/qhs3uj/rotation_with_three_shears) - [Rotation with three shears](https://cohost.org/tomforsyth/post/891823-rotation-with-three)
 * [2024-03-09, 16:07:22](https://lobste.rs/s/hru0ib/how_lose_control_your_shell) - [How to Lose Control of your Shell](https://registerspill.thorstenball.com/p/how-to-lose-control-of-your-shell)
-* [2024-03-09, 02:53:14](https://lobste.rs/s/fddnqv/apple_curl_security_incident_12604) - [the Apple curl security incident 12604](https://daniel.haxx.se/blog/2024/03/08/the-apple-curl-security-incident-12604/)
 
 ## [Archives](archives/index.md)
 
