@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 11:08:45](https://lobste.rs/s/bxa66y/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/bxa66y/what_are_you_doing_this_week)
 * [2024-03-11, 10:14:00](https://lobste.rs/s/koqhzu/refactoring_with_proofs) - [Refactoring with Proofs](https://www.youtube.com/watch?v=XNIdKXQ56o4)
 * [2024-03-11, 09:47:07](https://lobste.rs/s/5w9uki/0bin_is_back_after_cp_abuse_took_down_site) - [0bin is back after CP abuse took down the site for a year](https://github.com/Tygs/0bin/issues/160)
 * [2024-03-11, 09:10:32](https://lobste.rs/s/xr7agn/type_unions_don_t_always_compose_well) - [Type Unions Don't Always Compose Well](https://rtpg.co/2024/03/11/union-types-do-not-always-compose-well/)
