@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-11, 22:10:52",
+      "https://lobste.rs/s/xhvnn8/json_canvas_open_file_format_for_canvas"
+    ],
+    [
+      "JSON Canvas - An open file format for canvas data",
+      "https://jsoncanvas.org/"
+    ]
+  ],
+  [
+    [
       "2024-03-11, 21:21:24",
       "https://lobste.rs/s/ufm36k/fx_json_viewer_now_supports_yaml"
     ],
@@ -147,16 +157,6 @@
     [
       "Type Unions Don't Always Compose Well",
       "https://rtpg.co/2024/03/11/union-types-do-not-always-compose-well/"
-    ]
-  ],
-  [
-    [
-      "2024-03-11, 07:08:35",
-      "https://lobste.rs/s/fqk5ya/splade_sparse_neural_search"
-    ],
-    [
-      "SPLADE: sparse neural search",
-      "https://github.com/naver/splade"
     ]
   ],
   [
