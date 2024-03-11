@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-11, 18:16:19](https://lobste.rs/s/p8ptwq/can_we_have_raku_tag_please) - [Can we have a 'raku' tag please?](https://lobste.rs/s/p8ptwq/can_we_have_raku_tag_please)
 * [2024-03-11, 17:13:20](https://lobste.rs/s/9zgggr/announcing_speedometer_3_0_shared) - [Announcing Speedometer 3.0: A Shared Browser Benchmark for Web Application Responsiveness](https://browserbench.org/announcements/speedometer3/)
 * [2024-03-11, 15:35:16](https://lobste.rs/s/erj80s/grapheneos_finds_bluetooth_memory) - [GrapheneOS finds Bluetooth memory corruption via ARM MTE](https://grapheneos.social/@GrapheneOS/112066872276203917)
 * [2024-03-11, 15:27:05](https://lobste.rs/s/fwolp7/our_journey_with_swift_thus_far_some_notes) - [Our journey with Swift thus far - some notes and reflections](https://forums.swift.org/t/our-journey-with-swift-thus-far-some-notes-and-reflections/70510)
@@ -24,7 +25,6 @@
 * [2024-03-10, 12:56:22](https://lobste.rs/s/xo0x0f/kakapo_web_bundler_for_nix_strings_with) - [Kākāpō - A web bundler for Nix strings with context](https://github.com/adisbladis/kakapo)
 * [2024-03-10, 11:56:59](https://lobste.rs/s/kakpch/wikipedia_over_dns_2009) - [Wikipedia over DNS (2009)](https://dgl.cx/wikipedia-dns)
 * [2024-03-10, 10:47:57](https://lobste.rs/s/mhsucg/numbers_every_programmer_should_know) - [Numbers Every Programmer Should Know](https://samwho.dev/numbers)
-* [2024-03-10, 07:07:30](https://lobste.rs/s/9qqauz/suyu_nintendo_switch_emulator_for) - [Suyu: a Nintendo Switch emulator for hardware preservation and research](https://suyu.dev/)
 
 ## [Archives](archives/index.md)
 
