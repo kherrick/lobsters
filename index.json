@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-11, 18:48:42",
+      "https://lobste.rs/s/nldo0o/openapi_tui_terminal_ui_list_browse_run"
+    ],
+    [
+      "Openapi-tui: Terminal UI to list, browse and run APIs defined with openapi spec",
+      "https://github.com/zaghaghi/openapi-tui"
+    ]
+  ],
+  [
+    [
       "2024-03-11, 18:25:04",
       "https://lobste.rs/s/cmcgrp/high_speed_packet_transmission_go_from"
     ],
@@ -227,16 +237,6 @@
     [
       "Programming Jigs",
       "https://buttondown.email/j2kun/archive/programming-jigs/"
-    ]
-  ],
-  [
-    [
-      "2024-03-10, 12:56:22",
-      "https://lobste.rs/s/xo0x0f/kakapo_web_bundler_for_nix_strings_with"
-    ],
-    [
-      "Kākāpō - A web bundler for Nix strings with context",
-      "https://github.com/adisbladis/kakapo"
     ]
   ],
   [
