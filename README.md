@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-11, 09:10:32](https://lobste.rs/s/xr7agn/type_unions_don_t_always_compose_well) - [Type Unions Don't Always Compose Well](https://rtpg.co/2024/03/11/union-types-do-not-always-compose-well/)
 * [2024-03-11, 07:08:35](https://lobste.rs/s/fqk5ya/splade_sparse_neural_search) - [SPLADE: sparse neural search](https://github.com/naver/splade)
 * [2024-03-11, 06:11:01](https://lobste.rs/s/uc3kjr/chlorophyll_synthesis_aided_compiler) - [Chlorophyll: Synthesis-Aided Compiler for Low-Power Spatial Architectures (2014)](https://homes.cs.washington.edu/~bodik/ucb/Files/2014/chlorophyll-pldi2014.pdf)
 * [2024-03-11, 04:02:40](https://lobste.rs/s/mdipuc/how_we_replaced_vagrant_with_devenv) - [How we replaced Vagrant with devenv](https://2li.ch/blog/2024-03-10-how-we-replaced-vagrant-with-devenv)
@@ -12,7 +13,6 @@
 * [2024-03-10, 17:22:44](https://lobste.rs/s/kiibpg/unlocking_kafka_s_potential_tackling) - [Unlocking Kafka's Potential: Tackling Tail Latency with eBPF](https://blog.allegro.tech/2024/03/kafka-performance-analysis.html)
 * [2024-03-10, 17:03:03](https://lobste.rs/s/e4o2ge/programming_jigs) - [Programming Jigs](https://buttondown.email/j2kun/archive/programming-jigs/)
 * [2024-03-10, 15:51:22](https://lobste.rs/s/xuvbii/resolv_conf_upper_case) - [RESOLV.CONF (upper case)](https://jpmens.net/2024/03/10/resolv-conf-upper-case/)
-* [2024-03-10, 15:23:46](https://lobste.rs/s/s2qwqr/using_llms_generate_fuzz_generators) - [Using LLMs to Generate Fuzz Generators](https://verse.systems/blog/post/2024-03-09-using-llms-to-generate-fuzz-generators/)
 * [2024-03-10, 15:16:01](https://lobste.rs/s/smpcdh/new_netbsd_bulktracker_release) - [New NetBSD BulkTracker release](https://releng.netbsd.org/bulktracker/)
 * [2024-03-10, 12:56:22](https://lobste.rs/s/xo0x0f/kakapo_web_bundler_for_nix_strings_with) - [Kākāpō - A web bundler for Nix strings with context](https://github.com/adisbladis/kakapo)
 * [2024-03-10, 11:56:59](https://lobste.rs/s/kakpch/wikipedia_over_dns_2009) - [Wikipedia over DNS (2009)](https://dgl.cx/wikipedia-dns)
