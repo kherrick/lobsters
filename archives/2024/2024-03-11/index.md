@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 17:13:20](https://lobste.rs/s/9zgggr/announcing_speedometer_3_0_shared) - [Announcing Speedometer 3.0: A Shared Browser Benchmark for Web Application Responsiveness](https://browserbench.org/announcements/speedometer3/)
 * [2024-03-11, 15:35:16](https://lobste.rs/s/erj80s/grapheneos_finds_bluetooth_memory) - [GrapheneOS finds Bluetooth memory corruption via ARM MTE](https://grapheneos.social/@GrapheneOS/112066872276203917)
 * [2024-03-11, 15:27:05](https://lobste.rs/s/fwolp7/our_journey_with_swift_thus_far_some_notes) - [Our journey with Swift thus far - some notes and reflections](https://forums.swift.org/t/our-journey-with-swift-thus-far-some-notes-and-reflections/70510)
 * [2024-03-11, 15:26:04](https://lobste.rs/s/h0jq8b/url_parts_tool_for_decomposing_urls_by) - [url-parts tool for decomposing URLs by example](https://url-parts.glitch.me)
