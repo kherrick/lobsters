@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 15:27:05](https://lobste.rs/s/fwolp7/our_journey_with_swift_thus_far_some_notes) - [Our journey with Swift thus far - some notes and reflections](https://forums.swift.org/t/our-journey-with-swift-thus-far-some-notes-and-reflections/70510)
+* [2024-03-11, 15:26:04](https://lobste.rs/s/h0jq8b/url_parts_tool_for_decomposing_urls_by) - [url-parts tool for decomposing URLs by example](https://url-parts.glitch.me)
 * [2024-03-11, 14:42:14](https://lobste.rs/s/g34jzj/retrogaming_viboritas_game_2k_made_1990) - [Retrogaming: Viboritas game in 2K made in 1990](https://nanochess.org/viboritas.html)
 * [2024-03-11, 14:16:03](https://lobste.rs/s/ljipzp/processing_one_billion_rows_php) - [Processing One Billion Rows in PHP](https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0)
 * [2024-03-11, 13:19:01](https://lobste.rs/s/osihwx/hypothesis_starts_support_fuzzing) - [Hypothesis starts to support fuzzing and solver-based backends](https://hypothesis.readthedocs.io/en/latest/strategies.html#alternative-backends-for-hypothesis)

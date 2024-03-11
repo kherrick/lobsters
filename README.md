@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-11, 15:27:05](https://lobste.rs/s/fwolp7/our_journey_with_swift_thus_far_some_notes) - [Our journey with Swift thus far - some notes and reflections](https://forums.swift.org/t/our-journey-with-swift-thus-far-some-notes-and-reflections/70510)
+* [2024-03-11, 15:26:04](https://lobste.rs/s/h0jq8b/url_parts_tool_for_decomposing_urls_by) - [url-parts tool for decomposing URLs by example](https://url-parts.glitch.me)
 * [2024-03-11, 14:42:14](https://lobste.rs/s/g34jzj/retrogaming_viboritas_game_2k_made_1990) - [Retrogaming: Viboritas game in 2K made in 1990](https://nanochess.org/viboritas.html)
 * [2024-03-11, 14:16:03](https://lobste.rs/s/ljipzp/processing_one_billion_rows_php) - [Processing One Billion Rows in PHP](https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0)
 * [2024-03-11, 13:19:01](https://lobste.rs/s/osihwx/hypothesis_starts_support_fuzzing) - [Hypothesis starts to support fuzzing and solver-based backends](https://hypothesis.readthedocs.io/en/latest/strategies.html#alternative-backends-for-hypothesis)
@@ -23,8 +25,6 @@
 * [2024-03-10, 10:47:57](https://lobste.rs/s/mhsucg/numbers_every_programmer_should_know) - [Numbers Every Programmer Should Know](https://samwho.dev/numbers)
 * [2024-03-10, 07:13:11](https://lobste.rs/s/3xpaze/how_we_bypassed_safari_17_s_advanced_audio) - [How We Bypassed Safari 17's Advanced Audio Fingerprinting Protection](https://fingerprint.com/blog/bypassing-safari-17-audio-fingerprinting-protection/)
 * [2024-03-10, 07:07:30](https://lobste.rs/s/9qqauz/suyu_nintendo_switch_emulator_for) - [Suyu: a Nintendo Switch emulator for hardware preservation and research](https://suyu.dev/)
-* [2024-03-10, 04:10:11](https://lobste.rs/s/t9d5z4/s3_is_files_not_filesystem) - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
-* [2024-03-09, 16:07:22](https://lobste.rs/s/hru0ib/how_lose_control_your_shell) - [How to Lose Control of your Shell](https://registerspill.thorstenball.com/p/how-to-lose-control-of-your-shell)
 
 ## [Archives](archives/index.md)
 
