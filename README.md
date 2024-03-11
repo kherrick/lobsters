@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-11, 14:16:03](https://lobste.rs/s/ljipzp/processing_one_billion_rows_php) - [Processing One Billion Rows in PHP](https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0)
 * [2024-03-11, 13:19:01](https://lobste.rs/s/osihwx/hypothesis_starts_support_fuzzing) - [Hypothesis starts to support fuzzing and solver-based backends](https://hypothesis.readthedocs.io/en/latest/strategies.html#alternative-backends-for-hypothesis)
 * [2024-03-11, 12:50:23](https://lobste.rs/s/wgbvek/gitu_tui_git_client_inspired_by_magit) - [gitu: A TUI Git client inspired by Magit](https://github.com/altsem/gitu)
 * [2024-03-11, 11:08:45](https://lobste.rs/s/bxa66y/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/bxa66y/what_are_you_doing_this_week)
@@ -9,7 +10,6 @@
 * [2024-03-11, 06:11:01](https://lobste.rs/s/uc3kjr/chlorophyll_synthesis_aided_compiler) - [Chlorophyll: Synthesis-Aided Compiler for Low-Power Spatial Architectures (2014)](https://homes.cs.washington.edu/~bodik/ucb/Files/2014/chlorophyll-pldi2014.pdf)
 * [2024-03-11, 04:02:40](https://lobste.rs/s/mdipuc/how_we_replaced_vagrant_with_devenv) - [How we replaced Vagrant with devenv](https://2li.ch/blog/2024-03-10-how-we-replaced-vagrant-with-devenv)
 * [2024-03-11, 02:44:38](https://lobste.rs/s/pfysdw/abstract_geometrical_computation) - [Abstract Geometrical Computation and signal machines](https://www.univ-orleans.fr/lifo/Members/Jerome.Durand-Lose/Recherche/AGC/intro_AGC.html)
-* [2024-03-10, 23:50:36](https://lobste.rs/s/vllmhr/serving_astro_with_rust) - [Serving Astro with Rust](https://www.yieldcode.blog/post/serving-astro-with-rust/)
 * [2024-03-10, 22:17:12](https://lobste.rs/s/h318ab/accessibility_improvements_gtk_4_14) - [Accessibility improvements in GTK 4.14](https://blog.gtk.org/2024/03/08/accessibility-improvements-in-gtk-4-14/)
 * [2024-03-10, 21:12:55](https://lobste.rs/s/fseogs/iris_infra_red_situ_project_updates) - [IRIS (Infra-Red, in situ) Project Updates](https://www.bunniestudios.com/blog/?p=6937)
 * [2024-03-10, 20:57:36](https://lobste.rs/s/ex4t5x/making_nice_api_amtrak_s_ugly_api) - [Making a nice API of Amtrak's ugly API](https://mgwalker.github.io/blog/amtrak-api/)
