@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 22:10:52](https://lobste.rs/s/xhvnn8/json_canvas_open_file_format_for_canvas) - [JSON Canvas - An open file format for canvas data](https://jsoncanvas.org/)
 * [2024-03-11, 21:21:24](https://lobste.rs/s/ufm36k/fx_json_viewer_now_supports_yaml) - [Fx JSON viewer now supports YAML](https://github.com/antonmedv/fx/releases/tag/32.0.0)
 * [2024-03-11, 18:48:42](https://lobste.rs/s/nldo0o/openapi_tui_terminal_ui_list_browse_run) - [Openapi-tui: Terminal UI to list, browse and run APIs defined with openapi spec](https://github.com/zaghaghi/openapi-tui)
 * [2024-03-11, 18:25:04](https://lobste.rs/s/cmcgrp/high_speed_packet_transmission_go_from) - [High-Speed Packet Transmission in Go: From net.Dial to AF_XDP](https://toonk.io/sending-network-packets-in-go/index.html)
