@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-11, 18:25:04",
+      "https://lobste.rs/s/cmcgrp/high_speed_packet_transmission_go_from"
+    ],
+    [
+      "High-Speed Packet Transmission in Go: From net.Dial to AF_XDP",
+      "https://toonk.io/sending-network-packets-in-go/index.html"
+    ]
+  ],
+  [
+    [
       "2024-03-11, 18:16:19",
       "https://lobste.rs/s/p8ptwq/can_we_have_raku_tag_please"
     ],
@@ -227,16 +237,6 @@
     [
       "Kākāpō - A web bundler for Nix strings with context",
       "https://github.com/adisbladis/kakapo"
-    ]
-  ],
-  [
-    [
-      "2024-03-10, 11:56:59",
-      "https://lobste.rs/s/kakpch/wikipedia_over_dns_2009"
-    ],
-    [
-      "Wikipedia over DNS (2009)",
-      "https://dgl.cx/wikipedia-dns"
     ]
   ],
   [
