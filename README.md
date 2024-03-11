@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-11, 21:21:24](https://lobste.rs/s/ufm36k/fx_json_viewer_now_supports_yaml) - [Fx JSON viewer now supports YAML](https://github.com/antonmedv/fx/releases/tag/32.0.0)
 * [2024-03-11, 18:48:42](https://lobste.rs/s/nldo0o/openapi_tui_terminal_ui_list_browse_run) - [Openapi-tui: Terminal UI to list, browse and run APIs defined with openapi spec](https://github.com/zaghaghi/openapi-tui)
 * [2024-03-11, 18:25:04](https://lobste.rs/s/cmcgrp/high_speed_packet_transmission_go_from) - [High-Speed Packet Transmission in Go: From net.Dial to AF_XDP](https://toonk.io/sending-network-packets-in-go/index.html)
 * [2024-03-11, 18:16:19](https://lobste.rs/s/p8ptwq/can_we_have_raku_tag_please) - [Can we have a 'raku' tag please?](https://lobste.rs/s/p8ptwq/can_we_have_raku_tag_please)
@@ -17,7 +18,6 @@
 * [2024-03-11, 07:08:35](https://lobste.rs/s/fqk5ya/splade_sparse_neural_search) - [SPLADE: sparse neural search](https://github.com/naver/splade)
 * [2024-03-11, 06:11:01](https://lobste.rs/s/uc3kjr/chlorophyll_synthesis_aided_compiler) - [Chlorophyll: Synthesis-Aided Compiler for Low-Power Spatial Architectures (2014)](https://homes.cs.washington.edu/~bodik/ucb/Files/2014/chlorophyll-pldi2014.pdf)
 * [2024-03-11, 04:02:40](https://lobste.rs/s/mdipuc/how_we_replaced_vagrant_with_devenv) - [How we replaced Vagrant with devenv](https://2li.ch/blog/2024-03-10-how-we-replaced-vagrant-with-devenv)
-* [2024-03-11, 02:44:38](https://lobste.rs/s/pfysdw/abstract_geometrical_computation) - [Abstract Geometrical Computation and signal machines](https://www.univ-orleans.fr/lifo/Members/Jerome.Durand-Lose/Recherche/AGC/intro_AGC.html)
 * [2024-03-10, 22:17:12](https://lobste.rs/s/h318ab/accessibility_improvements_gtk_4_14) - [Accessibility improvements in GTK 4.14](https://blog.gtk.org/2024/03/08/accessibility-improvements-in-gtk-4-14/)
 * [2024-03-10, 21:12:55](https://lobste.rs/s/fseogs/iris_infra_red_situ_project_updates) - [IRIS (Infra-Red, in situ) Project Updates](https://www.bunniestudios.com/blog/?p=6937)
 * [2024-03-10, 20:57:36](https://lobste.rs/s/ex4t5x/making_nice_api_amtrak_s_ugly_api) - [Making a nice API of Amtrak's ugly API](https://mgwalker.github.io/blog/amtrak-api/)
