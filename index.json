@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-11, 17:13:20",
+      "https://lobste.rs/s/9zgggr/announcing_speedometer_3_0_shared"
+    ],
+    [
+      "Announcing Speedometer 3.0: A Shared Browser Benchmark for Web Application Responsiveness",
+      "https://browserbench.org/announcements/speedometer3/"
+    ]
+  ],
+  [
+    [
       "2024-03-11, 15:35:16",
       "https://lobste.rs/s/erj80s/grapheneos_finds_bluetooth_memory"
     ],
@@ -227,16 +237,6 @@
     [
       "Numbers Every Programmer Should Know",
       "https://samwho.dev/numbers"
-    ]
-  ],
-  [
-    [
-      "2024-03-10, 07:13:11",
-      "https://lobste.rs/s/3xpaze/how_we_bypassed_safari_17_s_advanced_audio"
-    ],
-    [
-      "How We Bypassed Safari 17's Advanced Audio Fingerprinting Protection",
-      "https://fingerprint.com/blog/bypassing-safari-17-audio-fingerprinting-protection/"
     ]
   ],
   [
