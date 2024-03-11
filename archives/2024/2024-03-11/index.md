@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-11](index.md)
 
+* [2024-03-11, 18:48:42](https://lobste.rs/s/nldo0o/openapi_tui_terminal_ui_list_browse_run) - [Openapi-tui: Terminal UI to list, browse and run APIs defined with openapi spec](https://github.com/zaghaghi/openapi-tui)
 * [2024-03-11, 18:25:04](https://lobste.rs/s/cmcgrp/high_speed_packet_transmission_go_from) - [High-Speed Packet Transmission in Go: From net.Dial to AF_XDP](https://toonk.io/sending-network-packets-in-go/index.html)
 * [2024-03-11, 18:16:19](https://lobste.rs/s/p8ptwq/can_we_have_raku_tag_please) - [Can we have a 'raku' tag please?](https://lobste.rs/s/p8ptwq/can_we_have_raku_tag_please)
 * [2024-03-11, 17:13:20](https://lobste.rs/s/9zgggr/announcing_speedometer_3_0_shared) - [Announcing Speedometer 3.0: A Shared Browser Benchmark for Web Application Responsiveness](https://browserbench.org/announcements/speedometer3/)
