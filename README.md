@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-11, 13:19:01](https://lobste.rs/s/osihwx/hypothesis_starts_support_fuzzing) - [Hypothesis starts to support fuzzing and solver-based backends](https://hypothesis.readthedocs.io/en/latest/strategies.html#alternative-backends-for-hypothesis)
 * [2024-03-11, 12:50:23](https://lobste.rs/s/wgbvek/gitu_tui_git_client_inspired_by_magit) - [gitu: A TUI Git client inspired by Magit](https://github.com/altsem/gitu)
 * [2024-03-11, 11:08:45](https://lobste.rs/s/bxa66y/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/bxa66y/what_are_you_doing_this_week)
 * [2024-03-11, 10:14:00](https://lobste.rs/s/koqhzu/refactoring_with_proofs) - [Refactoring with Proofs](https://www.youtube.com/watch?v=XNIdKXQ56o4)
@@ -23,7 +24,6 @@
 * [2024-03-10, 07:13:11](https://lobste.rs/s/3xpaze/how_we_bypassed_safari_17_s_advanced_audio) - [How We Bypassed Safari 17's Advanced Audio Fingerprinting Protection](https://fingerprint.com/blog/bypassing-safari-17-audio-fingerprinting-protection/)
 * [2024-03-10, 07:07:30](https://lobste.rs/s/9qqauz/suyu_nintendo_switch_emulator_for) - [Suyu: a Nintendo Switch emulator for hardware preservation and research](https://suyu.dev/)
 * [2024-03-10, 04:10:11](https://lobste.rs/s/t9d5z4/s3_is_files_not_filesystem) - [S3 is files, but not a filesystem](https://calpaterson.com/s3.html)
-* [2024-03-09, 18:54:58](https://lobste.rs/s/mpcoj1/i_m_betting_on_call_by_push_value) - [I'm betting on Call-by-Push-Value](https://thunderseethe.dev/posts/bet-on-cbpv/)
 * [2024-03-09, 16:07:22](https://lobste.rs/s/hru0ib/how_lose_control_your_shell) - [How to Lose Control of your Shell](https://registerspill.thorstenball.com/p/how-to-lose-control-of-your-shell)
 
 ## [Archives](archives/index.md)
