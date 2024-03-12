@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
+* [2024-03-12, 14:10:09](https://lobste.rs/s/jqg3ne/divine_automation_factorio_phantasies) - [Divine Automation: Factorio and phantasies of mechanization](https://reincantamentox.substack.com/p/drop-13-divine-automation)
+* [2024-03-12, 14:04:42](https://lobste.rs/s/7noj7v/overdue_status_update_on_darklang) - [An overdue status update on Darklang](https://blog.darklang.com/an-overdue-status-update/)
 * [2024-03-12, 12:34:42](https://lobste.rs/s/5p4tkz/first_month_on_database_team) - [First month on a database team](https://notes.eatonphil.com/2024-03-11-first-month-on-a-database-team.html)
 * [2024-03-12, 11:54:48](https://lobste.rs/s/mzxfam/c_safety_context) - [C++ safety, in context](https://herbsutter.com/2024/03/11/safety-in-context/)
 * [2024-03-12, 11:17:35](https://lobste.rs/s/flgyh4/cloning_laptop_over_nvme_tcp) - [Cloning a laptop over NVME TCP](https://copyninja.in/blog/clone_laptop_nvmet.html)

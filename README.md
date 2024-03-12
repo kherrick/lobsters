@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-12, 14:10:09](https://lobste.rs/s/jqg3ne/divine_automation_factorio_phantasies) - [Divine Automation: Factorio and phantasies of mechanization](https://reincantamentox.substack.com/p/drop-13-divine-automation)
+* [2024-03-12, 14:04:42](https://lobste.rs/s/7noj7v/overdue_status_update_on_darklang) - [An overdue status update on Darklang](https://blog.darklang.com/an-overdue-status-update/)
 * [2024-03-12, 12:34:42](https://lobste.rs/s/5p4tkz/first_month_on_database_team) - [First month on a database team](https://notes.eatonphil.com/2024-03-11-first-month-on-a-database-team.html)
 * [2024-03-12, 11:54:48](https://lobste.rs/s/mzxfam/c_safety_context) - [C++ safety, in context](https://herbsutter.com/2024/03/11/safety-in-context/)
 * [2024-03-12, 11:17:35](https://lobste.rs/s/flgyh4/cloning_laptop_over_nvme_tcp) - [Cloning a laptop over NVME TCP](https://copyninja.in/blog/clone_laptop_nvmet.html)
@@ -22,9 +24,7 @@
 * [2024-03-11, 14:16:03](https://lobste.rs/s/ljipzp/processing_one_billion_rows_php) - [Processing One Billion Rows in PHP](https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0)
 * [2024-03-11, 13:19:01](https://lobste.rs/s/osihwx/hypothesis_starts_support_fuzzing) - [Hypothesis starts to support fuzzing and solver-based backends](https://hypothesis.readthedocs.io/en/latest/strategies.html#alternative-backends-for-hypothesis)
 * [2024-03-11, 12:50:23](https://lobste.rs/s/wgbvek/gitu_tui_git_client_inspired_by_magit) - [gitu: A TUI Git client inspired by Magit](https://github.com/altsem/gitu)
-* [2024-03-11, 11:08:45](https://lobste.rs/s/bxa66y/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/bxa66y/what_are_you_doing_this_week)
 * [2024-03-11, 09:10:32](https://lobste.rs/s/xr7agn/type_unions_don_t_always_compose_well) - [Type Unions Don't Always Compose Well](https://rtpg.co/2024/03/11/union-types-do-not-always-compose-well/)
-* [2024-03-11, 04:02:40](https://lobste.rs/s/mdipuc/how_we_replaced_vagrant_with_devenv) - [How we replaced Vagrant with devenv](https://2li.ch/blog/2024-03-10-how-we-replaced-vagrant-with-devenv)
 
 ## [Archives](archives/index.md)
 
