@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-12, 15:36:41](https://lobste.rs/s/xjdbjs/abstracting_denotational_interpreters) - [Abstracting Denotational Interpreters](https://arxiv.org/abs/2403.02778)
 * [2024-03-12, 14:58:34](https://lobste.rs/s/io0xpg/identifying_software) - [Identifying software](https://guix.gnu.org/en/blog/2024/identifying-software/)
 * [2024-03-12, 14:10:09](https://lobste.rs/s/jqg3ne/divine_automation_factorio_phantasies) - [Divine Automation: Factorio and phantasies of mechanization](https://reincantamentox.substack.com/p/drop-13-divine-automation)
 * [2024-03-12, 14:04:42](https://lobste.rs/s/7noj7v/overdue_status_update_on_darklang) - [An overdue status update on Darklang](https://blog.darklang.com/an-overdue-status-update/)
@@ -14,7 +15,6 @@
 * [2024-03-12, 01:08:18](https://lobste.rs/s/0v9zh2/compartmentalising_network_stacks_with) - [Compartmentalising network stacks with CHERIoT](https://cheriot.org/rtos/networking/auditing/2024/03/08/cheriot-network-stack.html)
 * [2024-03-12, 00:35:28](https://lobste.rs/s/n7hmcd/cap_is_good_actually) - [CAP is Good, Actually](https://buttondown.email/jaffray/archive/cap-is-good-actually/)
 * [2024-03-11, 22:10:52](https://lobste.rs/s/xhvnn8/json_canvas_open_file_format_for_canvas) - [JSON Canvas - An open file format for canvas data](https://jsoncanvas.org/)
-* [2024-03-11, 21:21:24](https://lobste.rs/s/ufm36k/fx_json_viewer_now_supports_yaml) - [Fx JSON viewer now supports YAML](https://github.com/antonmedv/fx/releases/tag/32.0.0)
 * [2024-03-11, 18:48:42](https://lobste.rs/s/nldo0o/openapi_tui_terminal_ui_list_browse_run) - [Openapi-tui: Terminal UI to list, browse and run APIs defined with openapi spec](https://github.com/zaghaghi/openapi-tui)
 * [2024-03-11, 18:25:04](https://lobste.rs/s/cmcgrp/high_speed_packet_transmission_go_from) - [High-Speed Packet Transmission in Go: From net.Dial to AF_XDP](https://toonk.io/sending-network-packets-in-go/index.html)
 * [2024-03-11, 17:13:20](https://lobste.rs/s/9zgggr/announcing_speedometer_3_0_shared) - [Announcing Speedometer 3.0: A Shared Browser Benchmark for Web Application Responsiveness](https://browserbench.org/announcements/speedometer3/)
