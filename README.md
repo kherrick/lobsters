@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-12, 19:24:11](https://lobste.rs/s/nrn7o0/extreme_value_statistical_process) - [Extreme Value Statistical Process Control](https://two-wrongs.com/extreme-value-spc)
 * [2024-03-12, 19:00:33](https://lobste.rs/s/hmebwb/floatcompmandelbrot_what_impact_does) - [FloatCompMandelbrot: What impact does floating point precision have on Mandelbrot set calculations?](https://github.com/ProfJski/FloatCompMandelbrot)
 * [2024-03-12, 18:29:08](https://lobste.rs/s/pp6l2o/state_terminal) - [State of the Terminal](https://gpanders.com/blog/state-of-the-terminal/)
 * [2024-03-12, 17:44:49](https://lobste.rs/s/dbbek7/byte_sized_swift_building_tiny_games_for) - [Byte-sized Swift: Building Tiny Games for the Playdate](https://www.swift.org/blog/byte-sized-swift-tiny-games-playdate/)
@@ -21,7 +22,6 @@
 * [2024-03-12, 00:35:28](https://lobste.rs/s/n7hmcd/cap_is_good_actually) - [CAP is Good, Actually](https://buttondown.email/jaffray/archive/cap-is-good-actually/)
 * [2024-03-11, 22:10:52](https://lobste.rs/s/xhvnn8/json_canvas_open_file_format_for_canvas) - [JSON Canvas - An open file format for canvas data](https://jsoncanvas.org/)
 * [2024-03-11, 15:35:16](https://lobste.rs/s/erj80s/grapheneos_finds_bluetooth_memory) - [GrapheneOS finds Bluetooth memory corruption via ARM MTE](https://grapheneos.social/@GrapheneOS/112066872276203917)
-* [2024-03-11, 15:26:04](https://lobste.rs/s/h0jq8b/url_parts_tool_for_decomposing_urls_by) - [url-parts tool for decomposing URLs by example](https://url-parts.glitch.me)
 * [2024-03-11, 14:16:03](https://lobste.rs/s/ljipzp/processing_one_billion_rows_php) - [Processing One Billion Rows in PHP](https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0)
 * [2024-03-11, 12:50:23](https://lobste.rs/s/wgbvek/gitu_tui_git_client_inspired_by_magit) - [gitu: A TUI Git client inspired by Magit](https://github.com/altsem/gitu)
 * [2024-03-11, 09:10:32](https://lobste.rs/s/xr7agn/type_unions_don_t_always_compose_well) - [Type Unions Don't Always Compose Well](https://rtpg.co/2024/03/11/union-types-do-not-always-compose-well/)
