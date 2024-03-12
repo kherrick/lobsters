@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-12, 01:08:18](https://lobste.rs/s/0v9zh2/compartmentalising_network_stacks_with) - [Compartmentalising network stacks with CHERIoT](https://cheriot.org/rtos/networking/auditing/2024/03/08/cheriot-network-stack.html)
+* [2024-03-12, 00:35:28](https://lobste.rs/s/n7hmcd/cap_is_good_actually) - [CAP is Good, Actually](https://buttondown.email/jaffray/archive/cap-is-good-actually/)
 * [2024-03-11, 22:10:52](https://lobste.rs/s/xhvnn8/json_canvas_open_file_format_for_canvas) - [JSON Canvas - An open file format for canvas data](https://jsoncanvas.org/)
 * [2024-03-11, 21:21:24](https://lobste.rs/s/ufm36k/fx_json_viewer_now_supports_yaml) - [Fx JSON viewer now supports YAML](https://github.com/antonmedv/fx/releases/tag/32.0.0)
 * [2024-03-11, 18:48:42](https://lobste.rs/s/nldo0o/openapi_tui_terminal_ui_list_browse_run) - [Openapi-tui: Terminal UI to list, browse and run APIs defined with openapi spec](https://github.com/zaghaghi/openapi-tui)
@@ -22,9 +24,7 @@
 * [2024-03-10, 21:12:55](https://lobste.rs/s/fseogs/iris_infra_red_situ_project_updates) - [IRIS (Infra-Red, in situ) Project Updates](https://www.bunniestudios.com/blog/?p=6937)
 * [2024-03-10, 20:57:36](https://lobste.rs/s/ex4t5x/making_nice_api_amtrak_s_ugly_api) - [Making a nice API of Amtrak's ugly API](https://mgwalker.github.io/blog/amtrak-api/)
 * [2024-03-10, 17:24:48](https://lobste.rs/s/b2ebth/compact_relocation_format_for_elf) - [A compact relocation format for ELF](https://maskray.me/blog/2024-03-09-a-compact-relocation-format-for-elf)
-* [2024-03-10, 17:22:44](https://lobste.rs/s/kiibpg/unlocking_kafka_s_potential_tackling) - [Unlocking Kafka's Potential: Tackling Tail Latency with eBPF](https://blog.allegro.tech/2024/03/kafka-performance-analysis.html)
 * [2024-03-10, 17:03:03](https://lobste.rs/s/e4o2ge/programming_jigs) - [Programming Jigs](https://buttondown.email/j2kun/archive/programming-jigs/)
-* [2024-03-10, 10:47:57](https://lobste.rs/s/mhsucg/numbers_every_programmer_should_know) - [Numbers Every Programmer Should Know](https://samwho.dev/numbers)
 
 ## [Archives](archives/index.md)
 
