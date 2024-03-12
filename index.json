@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-12, 16:51:59",
+      "https://lobste.rs/s/sewf09/scaling_models_multi_tenant_data_systems"
+    ],
+    [
+      "Scaling models and multi-tenant data systems - ASDS Chapter 6",
+      "https://jack-vanlightly.com/analyses/2024/3/12/scaling-models-and-multi-tenant-data-systems-asds-chapter-6"
+    ]
+  ],
+  [
+    [
+      "2024-03-12, 16:48:38",
+      "https://lobste.rs/s/2qzkyg/migrating_from_clickhouse_apache_doris"
+    ],
+    [
+      "Migrating from ClickHouse to Apache Doris: what happened?",
+      "https://doris.apache.org/blog/migrating-from-clickhouse-to-apache-doris-what-happened/"
+    ]
+  ],
+  [
+    [
       "2024-03-12, 16:43:16",
       "https://lobste.rs/s/lirkwj/hello_dbos_announcing_dbos_cloud"
     ],
@@ -37,16 +57,6 @@
     [
       "Identifying software",
       "https://guix.gnu.org/en/blog/2024/identifying-software/"
-    ]
-  ],
-  [
-    [
-      "2024-03-12, 14:10:09",
-      "https://lobste.rs/s/jqg3ne/divine_automation_factorio_phantasies"
-    ],
-    [
-      "Divine Automation: Factorio and phantasies of mechanization",
-      "https://reincantamentox.substack.com/p/drop-13-divine-automation"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "JSON Canvas - An open file format for canvas data",
       "https://jsoncanvas.org/"
-    ]
-  ],
-  [
-    [
-      "2024-03-11, 18:48:42",
-      "https://lobste.rs/s/nldo0o/openapi_tui_terminal_ui_list_browse_run"
-    ],
-    [
-      "Openapi-tui: Terminal UI to list, browse and run APIs defined with openapi spec",
-      "https://github.com/zaghaghi/openapi-tui"
     ]
   ],
   [
