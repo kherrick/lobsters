@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2024-03-11, 18:16:19",
-      "https://lobste.rs/s/p8ptwq/can_we_have_raku_tag_please"
-    ],
-    [
-      "Can we have a 'raku' tag please?",
-      "https://lobste.rs/s/p8ptwq/can_we_have_raku_tag_please"
-    ]
-  ],
-  [
-    [
       "2024-03-11, 17:13:20",
       "https://lobste.rs/s/9zgggr/announcing_speedometer_3_0_shared"
     ],
@@ -247,6 +237,16 @@
     [
       "Type Unions Don't Always Compose Well",
       "https://rtpg.co/2024/03/11/union-types-do-not-always-compose-well/"
+    ]
+  ],
+  [
+    [
+      "2024-03-11, 04:02:40",
+      "https://lobste.rs/s/mdipuc/how_we_replaced_vagrant_with_devenv"
+    ],
+    [
+      "How we replaced Vagrant with devenv",
+      "https://2li.ch/blog/2024-03-10-how-we-replaced-vagrant-with-devenv"
     ]
   ]
 ]
