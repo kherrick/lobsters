@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-12, 14:58:34](https://lobste.rs/s/io0xpg/identifying_software) - [Identifying software](https://guix.gnu.org/en/blog/2024/identifying-software/)
 * [2024-03-12, 14:10:09](https://lobste.rs/s/jqg3ne/divine_automation_factorio_phantasies) - [Divine Automation: Factorio and phantasies of mechanization](https://reincantamentox.substack.com/p/drop-13-divine-automation)
 * [2024-03-12, 14:04:42](https://lobste.rs/s/7noj7v/overdue_status_update_on_darklang) - [An overdue status update on Darklang](https://blog.darklang.com/an-overdue-status-update/)
 * [2024-03-12, 12:34:42](https://lobste.rs/s/5p4tkz/first_month_on_database_team) - [First month on a database team](https://notes.eatonphil.com/2024-03-11-first-month-on-a-database-team.html)
@@ -7,7 +8,6 @@
 * [2024-03-12, 11:17:35](https://lobste.rs/s/flgyh4/cloning_laptop_over_nvme_tcp) - [Cloning a laptop over NVME TCP](https://copyninja.in/blog/clone_laptop_nvmet.html)
 * [2024-03-12, 10:41:36](https://lobste.rs/s/0k03z6/google_s_threat_model_for_post_quantum) - [Google's Threat model for Post-Quantum Cryptography](https://bughunters.google.com/blog/5108747984306176/google-s-threat-model-for-post-quantum-cryptography)
 * [2024-03-12, 08:12:21](https://lobste.rs/s/qnnmon/tag_proposal_editors) - [Tag proposal: editors](https://lobste.rs/s/qnnmon/tag_proposal_editors)
-* [2024-03-12, 04:45:53](https://lobste.rs/s/sbvifp/integrating_static_code_analysis) - [Integrating Static Code Analysis Toolchains](https://arxiv.org/abs/2403.05986)
 * [2024-03-12, 04:30:25](https://lobste.rs/s/p9ltat/more_fixpoints_functional_pearl) - [More Fixpoints! (Functional Pearl)](https://dl.acm.org/doi/pdf/10.1145/3607853)
 * [2024-03-12, 04:25:47](https://lobste.rs/s/7t70bg/j_playground) - [J Playground](https://jsoftware.github.io/j-playground/bin/html2/)
 * [2024-03-12, 04:19:05](https://lobste.rs/s/b17wxm/go_python_rust_production_ai) - [Go, Python, Rust, and production AI applications](https://ajmani.net/2024/03/11/go-python-rust-and-production-ai-applications/)
