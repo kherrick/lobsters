@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
+* [2024-03-12, 20:22:25](https://lobste.rs/s/nrbzql/better_without_ai) - [Better without AI](https://betterwithout.ai/)
 * [2024-03-12, 19:24:11](https://lobste.rs/s/nrn7o0/extreme_value_statistical_process) - [Extreme Value Statistical Process Control](https://two-wrongs.com/extreme-value-spc)
 * [2024-03-12, 19:00:33](https://lobste.rs/s/hmebwb/floatcompmandelbrot_what_impact_does) - [FloatCompMandelbrot: What impact does floating point precision have on Mandelbrot set calculations?](https://github.com/ProfJski/FloatCompMandelbrot)
 * [2024-03-12, 18:29:08](https://lobste.rs/s/pp6l2o/state_terminal) - [State of the Terminal](https://gpanders.com/blog/state-of-the-terminal/)
