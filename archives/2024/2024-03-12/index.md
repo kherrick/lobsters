@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
+* [2024-03-12, 16:51:59](https://lobste.rs/s/sewf09/scaling_models_multi_tenant_data_systems) - [Scaling models and multi-tenant data systems - ASDS Chapter 6](https://jack-vanlightly.com/analyses/2024/3/12/scaling-models-and-multi-tenant-data-systems-asds-chapter-6)
+* [2024-03-12, 16:48:38](https://lobste.rs/s/2qzkyg/migrating_from_clickhouse_apache_doris) - [Migrating from ClickHouse to Apache Doris: what happened?](https://doris.apache.org/blog/migrating-from-clickhouse-to-apache-doris-what-happened/)
 * [2024-03-12, 16:43:16](https://lobste.rs/s/lirkwj/hello_dbos_announcing_dbos_cloud) - [Hello DBOS - Announcing DBOS Cloud](https://www.dbos.dev/blog/announcing-dbos)
 * [2024-03-12, 15:41:41](https://lobste.rs/s/htjx6u/accidental_discovery_new_vulnerability) - [The Accidental Discovery of a New Vulnerability in Google's OAuth Implementation (2023)](https://www.youtube.com/watch?v=77doS9hCe8A)
 * [2024-03-12, 15:36:41](https://lobste.rs/s/xjdbjs/abstracting_denotational_interpreters) - [Abstracting Denotational Interpreters](https://arxiv.org/abs/2403.02778)
