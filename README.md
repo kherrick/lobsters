@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-12, 10:41:36](https://lobste.rs/s/0k03z6/google_s_threat_model_for_post_quantum) - [Google's Threat model for Post-Quantum Cryptography](https://bughunters.google.com/blog/5108747984306176/google-s-threat-model-for-post-quantum-cryptography)
 * [2024-03-12, 08:12:21](https://lobste.rs/s/qnnmon/tag_proposal_editors) - [Tag proposal: editors](https://lobste.rs/s/qnnmon/tag_proposal_editors)
 * [2024-03-12, 04:45:53](https://lobste.rs/s/sbvifp/integrating_static_code_analysis) - [Integrating Static Code Analysis Toolchains](https://arxiv.org/abs/2403.05986)
 * [2024-03-12, 04:30:25](https://lobste.rs/s/p9ltat/more_fixpoints_functional_pearl) - [More Fixpoints! (Functional Pearl)](https://dl.acm.org/doi/pdf/10.1145/3607853)
@@ -16,7 +17,6 @@
 * [2024-03-11, 15:35:16](https://lobste.rs/s/erj80s/grapheneos_finds_bluetooth_memory) - [GrapheneOS finds Bluetooth memory corruption via ARM MTE](https://grapheneos.social/@GrapheneOS/112066872276203917)
 * [2024-03-11, 15:27:05](https://lobste.rs/s/fwolp7/our_journey_with_swift_thus_far_some_notes) - [Our journey with Swift thus far - some notes and reflections](https://forums.swift.org/t/our-journey-with-swift-thus-far-some-notes-and-reflections/70510)
 * [2024-03-11, 15:26:04](https://lobste.rs/s/h0jq8b/url_parts_tool_for_decomposing_urls_by) - [url-parts tool for decomposing URLs by example](https://url-parts.glitch.me)
-* [2024-03-11, 14:42:14](https://lobste.rs/s/g34jzj/retrogaming_viboritas_game_2k_made_1990) - [Retrogaming: Viboritas game in 2K made in 1990](https://nanochess.org/viboritas.html)
 * [2024-03-11, 14:16:03](https://lobste.rs/s/ljipzp/processing_one_billion_rows_php) - [Processing One Billion Rows in PHP](https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0)
 * [2024-03-11, 13:19:01](https://lobste.rs/s/osihwx/hypothesis_starts_support_fuzzing) - [Hypothesis starts to support fuzzing and solver-based backends](https://hypothesis.readthedocs.io/en/latest/strategies.html#alternative-backends-for-hypothesis)
 * [2024-03-11, 12:50:23](https://lobste.rs/s/wgbvek/gitu_tui_git_client_inspired_by_magit) - [gitu: A TUI Git client inspired by Magit](https://github.com/altsem/gitu)
