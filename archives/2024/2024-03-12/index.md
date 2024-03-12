@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
+* [2024-03-12, 15:41:41](https://lobste.rs/s/htjx6u/accidental_discovery_new_vulnerability) - [The Accidental Discovery of a New Vulnerability in Google's OAuth Implementation (2023)](https://www.youtube.com/watch?v=77doS9hCe8A)
 * [2024-03-12, 15:36:41](https://lobste.rs/s/xjdbjs/abstracting_denotational_interpreters) - [Abstracting Denotational Interpreters](https://arxiv.org/abs/2403.02778)
 * [2024-03-12, 14:58:34](https://lobste.rs/s/io0xpg/identifying_software) - [Identifying software](https://guix.gnu.org/en/blog/2024/identifying-software/)
 * [2024-03-12, 14:10:09](https://lobste.rs/s/jqg3ne/divine_automation_factorio_phantasies) - [Divine Automation: Factorio and phantasies of mechanization](https://reincantamentox.substack.com/p/drop-13-divine-automation)
