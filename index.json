@@ -191,22 +191,22 @@
   ],
   [
     [
-      "2024-03-11, 18:25:04",
-      "https://lobste.rs/s/cmcgrp/high_speed_packet_transmission_go_from"
-    ],
-    [
-      "High-Speed Packet Transmission in Go: From net.Dial to AF_XDP",
-      "https://toonk.io/sending-network-packets-in-go/index.html"
-    ]
-  ],
-  [
-    [
       "2024-03-11, 15:35:16",
       "https://lobste.rs/s/erj80s/grapheneos_finds_bluetooth_memory"
     ],
     [
       "GrapheneOS finds Bluetooth memory corruption via ARM MTE",
       "https://grapheneos.social/@GrapheneOS/112066872276203917"
+    ]
+  ],
+  [
+    [
+      "2024-03-11, 15:27:05",
+      "https://lobste.rs/s/fwolp7/our_journey_with_swift_thus_far_some_notes"
+    ],
+    [
+      "Our journey with Swift thus far - some notes and reflections",
+      "https://forums.swift.org/t/our-journey-with-swift-thus-far-some-notes-and-reflections/70510"
     ]
   ],
   [
