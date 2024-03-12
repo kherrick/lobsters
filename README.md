@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-12, 12:34:42](https://lobste.rs/s/5p4tkz/first_month_on_database_team) - [First month on a database team](https://notes.eatonphil.com/2024-03-11-first-month-on-a-database-team.html)
 * [2024-03-12, 11:54:48](https://lobste.rs/s/mzxfam/c_safety_context) - [C++ safety, in context](https://herbsutter.com/2024/03/11/safety-in-context/)
 * [2024-03-12, 11:17:35](https://lobste.rs/s/flgyh4/cloning_laptop_over_nvme_tcp) - [Cloning a laptop over NVME TCP](https://copyninja.in/blog/clone_laptop_nvmet.html)
 * [2024-03-12, 10:41:36](https://lobste.rs/s/0k03z6/google_s_threat_model_for_post_quantum) - [Google's Threat model for Post-Quantum Cryptography](https://bughunters.google.com/blog/5108747984306176/google-s-threat-model-for-post-quantum-cryptography)
@@ -24,7 +25,6 @@
 * [2024-03-11, 12:50:23](https://lobste.rs/s/wgbvek/gitu_tui_git_client_inspired_by_magit) - [gitu: A TUI Git client inspired by Magit](https://github.com/altsem/gitu)
 * [2024-03-11, 11:08:45](https://lobste.rs/s/bxa66y/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/bxa66y/what_are_you_doing_this_week)
 * [2024-03-11, 09:10:32](https://lobste.rs/s/xr7agn/type_unions_don_t_always_compose_well) - [Type Unions Don't Always Compose Well](https://rtpg.co/2024/03/11/union-types-do-not-always-compose-well/)
-* [2024-03-11, 04:02:40](https://lobste.rs/s/mdipuc/how_we_replaced_vagrant_with_devenv) - [How we replaced Vagrant with devenv](https://2li.ch/blog/2024-03-10-how-we-replaced-vagrant-with-devenv)
 
 ## [Archives](archives/index.md)
 
