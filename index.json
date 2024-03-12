@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2024-03-11, 17:13:20",
-      "https://lobste.rs/s/9zgggr/announcing_speedometer_3_0_shared"
-    ],
-    [
-      "Announcing Speedometer 3.0: A Shared Browser Benchmark for Web Application Responsiveness",
-      "https://browserbench.org/announcements/speedometer3/"
-    ]
-  ],
-  [
-    [
       "2024-03-11, 15:35:16",
       "https://lobste.rs/s/erj80s/grapheneos_finds_bluetooth_memory"
     ],
@@ -227,6 +217,16 @@
     [
       "Processing One Billion Rows in PHP",
       "https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0"
+    ]
+  ],
+  [
+    [
+      "2024-03-11, 13:19:01",
+      "https://lobste.rs/s/osihwx/hypothesis_starts_support_fuzzing"
+    ],
+    [
+      "Hypothesis starts to support fuzzing and solver-based backends",
+      "https://hypothesis.readthedocs.io/en/latest/strategies.html#alternative-backends-for-hypothesis"
     ]
   ],
   [
