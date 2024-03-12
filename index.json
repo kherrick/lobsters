@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-12, 04:25:47",
+      "https://lobste.rs/s/7t70bg/j_playground"
+    ],
+    [
+      "J Playground",
+      "https://jsoftware.github.io/j-playground/bin/html2/"
+    ]
+  ],
+  [
+    [
+      "2024-03-12, 04:19:05",
+      "https://lobste.rs/s/b17wxm/go_python_rust_production_ai"
+    ],
+    [
+      "Go, Python, Rust, and production AI applications",
+      "https://ajmani.net/2024/03/11/go-python-rust-and-production-ai-applications/"
+    ]
+  ],
+  [
+    [
       "2024-03-12, 01:08:18",
       "https://lobste.rs/s/0v9zh2/compartmentalising_network_stacks_with"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-03-11, 06:11:01",
-      "https://lobste.rs/s/uc3kjr/chlorophyll_synthesis_aided_compiler"
-    ],
-    [
-      "Chlorophyll: Synthesis-Aided Compiler for Low-Power Spatial Architectures (2014)",
-      "https://homes.cs.washington.edu/~bodik/ucb/Files/2014/chlorophyll-pldi2014.pdf"
-    ]
-  ],
-  [
-    [
       "2024-03-11, 04:02:40",
       "https://lobste.rs/s/mdipuc/how_we_replaced_vagrant_with_devenv"
     ],
@@ -227,16 +237,6 @@
     [
       "Making a nice API of Amtrak's ugly API",
       "https://mgwalker.github.io/blog/amtrak-api/"
-    ]
-  ],
-  [
-    [
-      "2024-03-10, 17:24:48",
-      "https://lobste.rs/s/b2ebth/compact_relocation_format_for_elf"
-    ],
-    [
-      "A compact relocation format for ELF",
-      "https://maskray.me/blog/2024-03-09-a-compact-relocation-format-for-elf"
     ]
   ],
   [
