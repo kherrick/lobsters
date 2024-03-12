@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-12, 18:29:08](https://lobste.rs/s/pp6l2o/state_terminal) - [State of the Terminal](https://gpanders.com/blog/state-of-the-terminal/)
 * [2024-03-12, 17:44:49](https://lobste.rs/s/dbbek7/byte_sized_swift_building_tiny_games_for) - [Byte-sized Swift: Building Tiny Games for the Playdate](https://www.swift.org/blog/byte-sized-swift-tiny-games-playdate/)
 * [2024-03-12, 17:37:24](https://lobste.rs/s/91wawr/on_importance_getting_foundations_right) - [On The Importance of Getting The Foundations Right](https://cybernetist.com/2024/03/11/importance-of-getting-the-foundations-right/)
 * [2024-03-12, 16:51:59](https://lobste.rs/s/sewf09/scaling_models_multi_tenant_data_systems) - [Scaling models and multi-tenant data systems - ASDS Chapter 6](https://jack-vanlightly.com/analyses/2024/3/12/scaling-models-and-multi-tenant-data-systems-asds-chapter-6)
@@ -20,7 +21,6 @@
 * [2024-03-12, 00:35:28](https://lobste.rs/s/n7hmcd/cap_is_good_actually) - [CAP is Good, Actually](https://buttondown.email/jaffray/archive/cap-is-good-actually/)
 * [2024-03-11, 22:10:52](https://lobste.rs/s/xhvnn8/json_canvas_open_file_format_for_canvas) - [JSON Canvas - An open file format for canvas data](https://jsoncanvas.org/)
 * [2024-03-11, 15:35:16](https://lobste.rs/s/erj80s/grapheneos_finds_bluetooth_memory) - [GrapheneOS finds Bluetooth memory corruption via ARM MTE](https://grapheneos.social/@GrapheneOS/112066872276203917)
-* [2024-03-11, 15:27:05](https://lobste.rs/s/fwolp7/our_journey_with_swift_thus_far_some_notes) - [Our journey with Swift thus far - some notes and reflections](https://forums.swift.org/t/our-journey-with-swift-thus-far-some-notes-and-reflections/70510)
 * [2024-03-11, 15:26:04](https://lobste.rs/s/h0jq8b/url_parts_tool_for_decomposing_urls_by) - [url-parts tool for decomposing URLs by example](https://url-parts.glitch.me)
 * [2024-03-11, 14:16:03](https://lobste.rs/s/ljipzp/processing_one_billion_rows_php) - [Processing One Billion Rows in PHP](https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0)
 * [2024-03-11, 12:50:23](https://lobste.rs/s/wgbvek/gitu_tui_git_client_inspired_by_magit) - [gitu: A TUI Git client inspired by Magit](https://github.com/altsem/gitu)

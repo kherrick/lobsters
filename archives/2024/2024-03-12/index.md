@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
+* [2024-03-12, 18:29:08](https://lobste.rs/s/pp6l2o/state_terminal) - [State of the Terminal](https://gpanders.com/blog/state-of-the-terminal/)
 * [2024-03-12, 17:44:49](https://lobste.rs/s/dbbek7/byte_sized_swift_building_tiny_games_for) - [Byte-sized Swift: Building Tiny Games for the Playdate](https://www.swift.org/blog/byte-sized-swift-tiny-games-playdate/)
 * [2024-03-12, 17:37:24](https://lobste.rs/s/91wawr/on_importance_getting_foundations_right) - [On The Importance of Getting The Foundations Right](https://cybernetist.com/2024/03/11/importance-of-getting-the-foundations-right/)
 * [2024-03-12, 16:51:59](https://lobste.rs/s/sewf09/scaling_models_multi_tenant_data_systems) - [Scaling models and multi-tenant data systems - ASDS Chapter 6](https://jack-vanlightly.com/analyses/2024/3/12/scaling-models-and-multi-tenant-data-systems-asds-chapter-6)
