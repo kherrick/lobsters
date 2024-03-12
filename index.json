@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-12, 16:43:16",
+      "https://lobste.rs/s/lirkwj/hello_dbos_announcing_dbos_cloud"
+    ],
+    [
+      "Hello DBOS - Announcing DBOS Cloud",
+      "https://www.dbos.dev/blog/announcing-dbos"
+    ]
+  ],
+  [
+    [
       "2024-03-12, 15:41:41",
       "https://lobste.rs/s/htjx6u/accidental_discovery_new_vulnerability"
     ],
@@ -217,16 +227,6 @@
     [
       "Processing One Billion Rows in PHP",
       "https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0"
-    ]
-  ],
-  [
-    [
-      "2024-03-11, 13:19:01",
-      "https://lobste.rs/s/osihwx/hypothesis_starts_support_fuzzing"
-    ],
-    [
-      "Hypothesis starts to support fuzzing and solver-based backends",
-      "https://hypothesis.readthedocs.io/en/latest/strategies.html#alternative-backends-for-hypothesis"
     ]
   ],
   [
