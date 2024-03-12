@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-12, 04:30:25",
+      "https://lobste.rs/s/p9ltat/more_fixpoints_functional_pearl"
+    ],
+    [
+      "More Fixpoints! (Functional Pearl)",
+      "https://dl.acm.org/doi/pdf/10.1145/3607853"
+    ]
+  ],
+  [
+    [
       "2024-03-12, 04:25:47",
       "https://lobste.rs/s/7t70bg/j_playground"
     ],
@@ -207,16 +217,6 @@
     [
       "How we replaced Vagrant with devenv",
       "https://2li.ch/blog/2024-03-10-how-we-replaced-vagrant-with-devenv"
-    ]
-  ],
-  [
-    [
-      "2024-03-10, 22:17:12",
-      "https://lobste.rs/s/h318ab/accessibility_improvements_gtk_4_14"
-    ],
-    [
-      "Accessibility improvements in GTK 4.14",
-      "https://blog.gtk.org/2024/03/08/accessibility-improvements-in-gtk-4-14/"
     ]
   ],
   [
