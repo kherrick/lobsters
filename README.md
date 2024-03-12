@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-12, 04:45:53](https://lobste.rs/s/sbvifp/integrating_static_code_analysis) - [Integrating Static Code Analysis Toolchains](https://arxiv.org/abs/2403.05986)
 * [2024-03-12, 04:30:25](https://lobste.rs/s/p9ltat/more_fixpoints_functional_pearl) - [More Fixpoints! (Functional Pearl)](https://dl.acm.org/doi/pdf/10.1145/3607853)
 * [2024-03-12, 04:25:47](https://lobste.rs/s/7t70bg/j_playground) - [J Playground](https://jsoftware.github.io/j-playground/bin/html2/)
 * [2024-03-12, 04:19:05](https://lobste.rs/s/b17wxm/go_python_rust_production_ai) - [Go, Python, Rust, and production AI applications](https://ajmani.net/2024/03/11/go-python-rust-and-production-ai-applications/)
@@ -19,7 +20,6 @@
 * [2024-03-11, 13:19:01](https://lobste.rs/s/osihwx/hypothesis_starts_support_fuzzing) - [Hypothesis starts to support fuzzing and solver-based backends](https://hypothesis.readthedocs.io/en/latest/strategies.html#alternative-backends-for-hypothesis)
 * [2024-03-11, 12:50:23](https://lobste.rs/s/wgbvek/gitu_tui_git_client_inspired_by_magit) - [gitu: A TUI Git client inspired by Magit](https://github.com/altsem/gitu)
 * [2024-03-11, 11:08:45](https://lobste.rs/s/bxa66y/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/bxa66y/what_are_you_doing_this_week)
-* [2024-03-11, 10:14:00](https://lobste.rs/s/koqhzu/refactoring_with_proofs) - [Refactoring with Proofs](https://www.youtube.com/watch?v=XNIdKXQ56o4)
 * [2024-03-11, 09:10:32](https://lobste.rs/s/xr7agn/type_unions_don_t_always_compose_well) - [Type Unions Don't Always Compose Well](https://rtpg.co/2024/03/11/union-types-do-not-always-compose-well/)
 * [2024-03-11, 04:02:40](https://lobste.rs/s/mdipuc/how_we_replaced_vagrant_with_devenv) - [How we replaced Vagrant with devenv](https://2li.ch/blog/2024-03-10-how-we-replaced-vagrant-with-devenv)
 * [2024-03-10, 21:12:55](https://lobste.rs/s/fseogs/iris_infra_red_situ_project_updates) - [IRIS (Infra-Red, in situ) Project Updates](https://www.bunniestudios.com/blog/?p=6937)

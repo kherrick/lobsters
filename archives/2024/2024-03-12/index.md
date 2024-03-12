@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
+* [2024-03-12, 04:45:53](https://lobste.rs/s/sbvifp/integrating_static_code_analysis) - [Integrating Static Code Analysis Toolchains](https://arxiv.org/abs/2403.05986)
 * [2024-03-12, 04:30:25](https://lobste.rs/s/p9ltat/more_fixpoints_functional_pearl) - [More Fixpoints! (Functional Pearl)](https://dl.acm.org/doi/pdf/10.1145/3607853)
 * [2024-03-12, 04:25:47](https://lobste.rs/s/7t70bg/j_playground) - [J Playground](https://jsoftware.github.io/j-playground/bin/html2/)
 * [2024-03-12, 04:19:05](https://lobste.rs/s/b17wxm/go_python_rust_production_ai) - [Go, Python, Rust, and production AI applications](https://ajmani.net/2024/03/11/go-python-rust-and-production-ai-applications/)
