@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-12, 11:54:48",
+      "https://lobste.rs/s/mzxfam/c_safety_context"
+    ],
+    [
+      "C++ safety, in context",
+      "https://herbsutter.com/2024/03/11/safety-in-context/"
+    ]
+  ],
+  [
+    [
       "2024-03-12, 11:17:35",
       "https://lobste.rs/s/flgyh4/cloning_laptop_over_nvme_tcp"
     ],
@@ -237,16 +247,6 @@
     [
       "How we replaced Vagrant with devenv",
       "https://2li.ch/blog/2024-03-10-how-we-replaced-vagrant-with-devenv"
-    ]
-  ],
-  [
-    [
-      "2024-03-10, 20:57:36",
-      "https://lobste.rs/s/ex4t5x/making_nice_api_amtrak_s_ugly_api"
-    ],
-    [
-      "Making a nice API of Amtrak's ugly API",
-      "https://mgwalker.github.io/blog/amtrak-api/"
     ]
   ]
 ]
