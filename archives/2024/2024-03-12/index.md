@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
+* [2024-03-12, 17:37:24](https://lobste.rs/s/91wawr/on_importance_getting_foundations_right) - [On The Importance of Getting The Foundations Right](https://cybernetist.com/2024/03/11/importance-of-getting-the-foundations-right/)
 * [2024-03-12, 16:51:59](https://lobste.rs/s/sewf09/scaling_models_multi_tenant_data_systems) - [Scaling models and multi-tenant data systems - ASDS Chapter 6](https://jack-vanlightly.com/analyses/2024/3/12/scaling-models-and-multi-tenant-data-systems-asds-chapter-6)
 * [2024-03-12, 16:48:38](https://lobste.rs/s/2qzkyg/migrating_from_clickhouse_apache_doris) - [Migrating from ClickHouse to Apache Doris: what happened?](https://doris.apache.org/blog/migrating-from-clickhouse-to-apache-doris-what-happened/)
 * [2024-03-12, 16:43:16](https://lobste.rs/s/lirkwj/hello_dbos_announcing_dbos_cloud) - [Hello DBOS - Announcing DBOS Cloud](https://www.dbos.dev/blog/announcing-dbos)

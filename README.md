@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-12, 17:37:24](https://lobste.rs/s/91wawr/on_importance_getting_foundations_right) - [On The Importance of Getting The Foundations Right](https://cybernetist.com/2024/03/11/importance-of-getting-the-foundations-right/)
 * [2024-03-12, 16:51:59](https://lobste.rs/s/sewf09/scaling_models_multi_tenant_data_systems) - [Scaling models and multi-tenant data systems - ASDS Chapter 6](https://jack-vanlightly.com/analyses/2024/3/12/scaling-models-and-multi-tenant-data-systems-asds-chapter-6)
 * [2024-03-12, 16:48:38](https://lobste.rs/s/2qzkyg/migrating_from_clickhouse_apache_doris) - [Migrating from ClickHouse to Apache Doris: what happened?](https://doris.apache.org/blog/migrating-from-clickhouse-to-apache-doris-what-happened/)
 * [2024-03-12, 16:43:16](https://lobste.rs/s/lirkwj/hello_dbos_announcing_dbos_cloud) - [Hello DBOS - Announcing DBOS Cloud](https://www.dbos.dev/blog/announcing-dbos)
@@ -15,7 +16,6 @@
 * [2024-03-12, 04:30:25](https://lobste.rs/s/p9ltat/more_fixpoints_functional_pearl) - [More Fixpoints! (Functional Pearl)](https://dl.acm.org/doi/pdf/10.1145/3607853)
 * [2024-03-12, 04:25:47](https://lobste.rs/s/7t70bg/j_playground) - [J Playground](https://jsoftware.github.io/j-playground/bin/html2/)
 * [2024-03-12, 04:19:05](https://lobste.rs/s/b17wxm/go_python_rust_production_ai) - [Go, Python, Rust, and production AI applications](https://ajmani.net/2024/03/11/go-python-rust-and-production-ai-applications/)
-* [2024-03-12, 01:08:18](https://lobste.rs/s/0v9zh2/compartmentalising_network_stacks_with) - [Compartmentalising network stacks with CHERIoT](https://cheriot.org/rtos/networking/auditing/2024/03/08/cheriot-network-stack.html)
 * [2024-03-12, 00:35:28](https://lobste.rs/s/n7hmcd/cap_is_good_actually) - [CAP is Good, Actually](https://buttondown.email/jaffray/archive/cap-is-good-actually/)
 * [2024-03-11, 22:10:52](https://lobste.rs/s/xhvnn8/json_canvas_open_file_format_for_canvas) - [JSON Canvas - An open file format for canvas data](https://jsoncanvas.org/)
 * [2024-03-11, 18:25:04](https://lobste.rs/s/cmcgrp/high_speed_packet_transmission_go_from) - [High-Speed Packet Transmission in Go: From net.Dial to AF_XDP](https://toonk.io/sending-network-packets-in-go/index.html)
