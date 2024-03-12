@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-12, 20:35:06](https://lobste.rs/s/cktij2/new_features_deps_dev_api) - [New features in the deps.dev API](https://blog.deps.dev/api-v3/)
+* [2024-03-12, 20:33:02](https://lobste.rs/s/vqfcpp/formula_for_responsive_font_size) - [A formula for responsive font-size](https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/)
 * [2024-03-12, 20:22:25](https://lobste.rs/s/nrbzql/better_without_ai) - [Better without AI](https://betterwithout.ai/)
 * [2024-03-12, 19:24:11](https://lobste.rs/s/nrn7o0/extreme_value_statistical_process) - [Extreme Value Statistical Process Control](https://two-wrongs.com/extreme-value-spc)
-* [2024-03-12, 19:00:33](https://lobste.rs/s/hmebwb/floatcompmandelbrot_what_impact_does) - [FloatCompMandelbrot: What impact does floating point precision have on Mandelbrot set calculations?](https://github.com/ProfJski/FloatCompMandelbrot)
 * [2024-03-12, 18:29:08](https://lobste.rs/s/pp6l2o/state_terminal) - [State of the Terminal](https://gpanders.com/blog/state-of-the-terminal/)
 * [2024-03-12, 17:44:49](https://lobste.rs/s/dbbek7/byte_sized_swift_building_tiny_games_for) - [Byte-sized Swift: Building Tiny Games for the Playdate](https://www.swift.org/blog/byte-sized-swift-tiny-games-playdate/)
 * [2024-03-12, 17:37:24](https://lobste.rs/s/91wawr/on_importance_getting_foundations_right) - [On The Importance of Getting The Foundations Right](https://cybernetist.com/2024/03/11/importance-of-getting-the-foundations-right/)
@@ -20,7 +21,6 @@
 * [2024-03-12, 04:25:47](https://lobste.rs/s/7t70bg/j_playground) - [J Playground](https://jsoftware.github.io/j-playground/bin/html2/)
 * [2024-03-12, 04:19:05](https://lobste.rs/s/b17wxm/go_python_rust_production_ai) - [Go, Python, Rust, and production AI applications](https://ajmani.net/2024/03/11/go-python-rust-and-production-ai-applications/)
 * [2024-03-12, 00:35:28](https://lobste.rs/s/n7hmcd/cap_is_good_actually) - [CAP is Good, Actually](https://buttondown.email/jaffray/archive/cap-is-good-actually/)
-* [2024-03-11, 22:10:52](https://lobste.rs/s/xhvnn8/json_canvas_open_file_format_for_canvas) - [JSON Canvas - An open file format for canvas data](https://jsoncanvas.org/)
 * [2024-03-11, 15:35:16](https://lobste.rs/s/erj80s/grapheneos_finds_bluetooth_memory) - [GrapheneOS finds Bluetooth memory corruption via ARM MTE](https://grapheneos.social/@GrapheneOS/112066872276203917)
 * [2024-03-11, 14:16:03](https://lobste.rs/s/ljipzp/processing_one_billion_rows_php) - [Processing One Billion Rows in PHP](https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0)
 * [2024-03-11, 12:50:23](https://lobste.rs/s/wgbvek/gitu_tui_git_client_inspired_by_magit) - [gitu: A TUI Git client inspired by Magit](https://github.com/altsem/gitu)

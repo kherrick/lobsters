@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
+* [2024-03-12, 20:35:06](https://lobste.rs/s/cktij2/new_features_deps_dev_api) - [New features in the deps.dev API](https://blog.deps.dev/api-v3/)
+* [2024-03-12, 20:33:02](https://lobste.rs/s/vqfcpp/formula_for_responsive_font_size) - [A formula for responsive font-size](https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/)
 * [2024-03-12, 20:22:25](https://lobste.rs/s/nrbzql/better_without_ai) - [Better without AI](https://betterwithout.ai/)
 * [2024-03-12, 19:24:11](https://lobste.rs/s/nrn7o0/extreme_value_statistical_process) - [Extreme Value Statistical Process Control](https://two-wrongs.com/extreme-value-spc)
 * [2024-03-12, 19:00:33](https://lobste.rs/s/hmebwb/floatcompmandelbrot_what_impact_does) - [FloatCompMandelbrot: What impact does floating point precision have on Mandelbrot set calculations?](https://github.com/ProfJski/FloatCompMandelbrot)
