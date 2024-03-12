@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-12, 22:53:52](https://lobste.rs/s/ikdldb/factorio_yosys_full_yosyshq_backend_for) - [Factorio Yosys: a full yosyshq backend for factorio that can compile a riscv core](https://mastodon.social/@thezoq2/112084897570820776)
 * [2024-03-12, 22:17:42](https://lobste.rs/s/oplmzg/screen_space_reflection) - [Screen Space Reflection](https://zznewclear13.github.io/posts/screen-space-reflection-en/)
 * [2024-03-12, 21:15:12](https://lobste.rs/s/y7fseg/40_years_programming) - [40 years of programming](https://liw.fi/40/)
 * [2024-03-12, 20:42:32](https://lobste.rs/s/e1ap9p/json_human_js_json_formatting_for_human) - [json.human.js - Json Formatting for Human Beings](https://marianoguerra.github.io/json.human.js/)
@@ -22,7 +23,6 @@
 * [2024-03-12, 04:25:47](https://lobste.rs/s/7t70bg/j_playground) - [J Playground](https://jsoftware.github.io/j-playground/bin/html2/)
 * [2024-03-12, 04:19:05](https://lobste.rs/s/b17wxm/go_python_rust_production_ai) - [Go, Python, Rust, and production AI applications](https://ajmani.net/2024/03/11/go-python-rust-and-production-ai-applications/)
 * [2024-03-12, 00:35:28](https://lobste.rs/s/n7hmcd/cap_is_good_actually) - [CAP is Good, Actually](https://buttondown.email/jaffray/archive/cap-is-good-actually/)
-* [2024-03-11, 14:16:03](https://lobste.rs/s/ljipzp/processing_one_billion_rows_php) - [Processing One Billion Rows in PHP](https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0)
 * [2024-03-11, 12:50:23](https://lobste.rs/s/wgbvek/gitu_tui_git_client_inspired_by_magit) - [gitu: A TUI Git client inspired by Magit](https://github.com/altsem/gitu)
 * [2024-03-11, 09:10:32](https://lobste.rs/s/xr7agn/type_unions_don_t_always_compose_well) - [Type Unions Don't Always Compose Well](https://rtpg.co/2024/03/11/union-types-do-not-always-compose-well/)
 
