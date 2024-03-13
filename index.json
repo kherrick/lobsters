@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-13, 11:10:23",
+      "https://lobste.rs/s/q5hu1q/rust_flashcards_557_cards_learn_rust_from"
+    ],
+    [
+      "Rust Flashcards - 557 cards to learn Rust from first principles",
+      "https://github.com/ad-si/Rust-Flashcards"
+    ]
+  ],
+  [
+    [
       "2024-03-13, 10:13:19",
       "https://lobste.rs/s/r3aaco/introducing_devin_first_ai_software"
     ],
@@ -67,16 +77,6 @@
     [
       "Factorio Yosys: a full yosys backend for factorio that can compile a riscv core",
       "https://mastodon.social/@thezoq2/112084897570820776"
-    ]
-  ],
-  [
-    [
-      "2024-03-12, 22:17:42",
-      "https://lobste.rs/s/oplmzg/screen_space_reflection"
-    ],
-    [
-      "Screen Space Reflection",
-      "https://zznewclear13.github.io/posts/screen-space-reflection-en/"
     ]
   ],
   [
