@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-13, 21:55:07](https://lobste.rs/s/r6ycki/gpqa_graduate_level_google_proof_q) - [GPQA: A Graduate-Level Google-Proof Q&A Benchmark](https://arxiv.org/abs/2311.12022)
 * [2024-03-13, 21:23:10](https://lobste.rs/s/2woxvo/manos_open_source_kernel_architected) - [MANOS - an open source kernel architected to function like the NetWare kernel](https://code.google.com/archive/p/open-source-netware/)
 * [2024-03-13, 21:19:30](https://lobste.rs/s/wlxikn/ui_algorithms_drag_reordering_2022) - [UI Algorithms: Drag-reordering (2022)](https://blog.julik.nl/2022/10/drag-reordering)
 * [2024-03-13, 20:47:49](https://lobste.rs/s/olredv/neon_serverless_postgresql_heikki) - [Neon: Serverless PostgreSQL! (Heikki Linnakangas)](https://www.youtube.com/watch?v=rES0yzeERns)
@@ -24,7 +25,6 @@
 * [2024-03-12, 17:44:49](https://lobste.rs/s/dbbek7/byte_sized_swift_building_tiny_games_for) - [Byte-sized Swift: Building Tiny Games for the Playdate](https://www.swift.org/blog/byte-sized-swift-tiny-games-playdate/)
 * [2024-03-12, 14:04:42](https://lobste.rs/s/7noj7v/overdue_status_update_on_darklang) - [An overdue status update on Darklang](https://blog.darklang.com/an-overdue-status-update/)
 * [2024-03-12, 11:54:48](https://lobste.rs/s/mzxfam/c_safety_context) - [C++ safety, in context](https://herbsutter.com/2024/03/11/safety-in-context/)
-* [2024-03-12, 08:12:21](https://lobste.rs/s/qnnmon/tag_proposal_editors) - [Tag proposal: editors](https://lobste.rs/s/qnnmon/tag_proposal_editors)
 
 ## [Archives](archives/index.md)
 
