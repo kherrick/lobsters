@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 21:19:30](https://lobste.rs/s/wlxikn/ui_algorithms_drag_reordering_2022) - [UI Algorithms: Drag-reordering (2022)](https://blog.julik.nl/2022/10/drag-reordering)
 * [2024-03-13, 20:47:49](https://lobste.rs/s/olredv/neon_serverless_postgresql_heikki) - [Neon: Serverless PostgreSQL! (Heikki Linnakangas)](https://www.youtube.com/watch?v=rES0yzeERns)
 * [2024-03-13, 20:05:28](https://lobste.rs/s/b7vyev/pre_hashing_large_password_files_used) - [Pre-hashing large password files used with PBKDFs](https://notes.volution.ro/v1/2024/03/remarks/810d7404/)
 * [2024-03-13, 20:02:41](https://lobste.rs/s/u8tjze/expat_2_6_2_released_includes_security) - [Expat 2.6.2 released, includes security fixes](https://blog.hartwork.org/posts/expat-2-6-2-released/)

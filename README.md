@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-13, 21:19:30](https://lobste.rs/s/wlxikn/ui_algorithms_drag_reordering_2022) - [UI Algorithms: Drag-reordering (2022)](https://blog.julik.nl/2022/10/drag-reordering)
 * [2024-03-13, 20:47:49](https://lobste.rs/s/olredv/neon_serverless_postgresql_heikki) - [Neon: Serverless PostgreSQL! (Heikki Linnakangas)](https://www.youtube.com/watch?v=rES0yzeERns)
 * [2024-03-13, 20:05:28](https://lobste.rs/s/b7vyev/pre_hashing_large_password_files_used) - [Pre-hashing large password files used with PBKDFs](https://notes.volution.ro/v1/2024/03/remarks/810d7404/)
 * [2024-03-13, 20:02:41](https://lobste.rs/s/u8tjze/expat_2_6_2_released_includes_security) - [Expat 2.6.2 released, includes security fixes](https://blog.hartwork.org/posts/expat-2-6-2-released/)
@@ -18,7 +19,6 @@
 * [2024-03-12, 22:53:52](https://lobste.rs/s/ikdldb/factorio_yosys_full_yosys_backend_for) - [Factorio Yosys: a full yosys backend for factorio that can compile a riscv core](https://mastodon.social/@thezoq2/112084897570820776)
 * [2024-03-12, 21:15:12](https://lobste.rs/s/y7fseg/40_years_programming) - [40 years of programming](https://liw.fi/40/)
 * [2024-03-12, 20:33:02](https://lobste.rs/s/vqfcpp/formula_for_responsive_font_size) - [A formula for responsive font-size](https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/)
-* [2024-03-12, 19:24:11](https://lobste.rs/s/nrn7o0/extreme_value_statistical_process) - [Extreme Value Statistical Process Control](https://two-wrongs.com/extreme-value-spc)
 * [2024-03-12, 18:29:08](https://lobste.rs/s/pp6l2o/state_terminal) - [State of the Terminal](https://gpanders.com/blog/state-of-the-terminal/)
 * [2024-03-12, 17:44:49](https://lobste.rs/s/dbbek7/byte_sized_swift_building_tiny_games_for) - [Byte-sized Swift: Building Tiny Games for the Playdate](https://www.swift.org/blog/byte-sized-swift-tiny-games-playdate/)
 * [2024-03-12, 14:04:42](https://lobste.rs/s/7noj7v/overdue_status_update_on_darklang) - [An overdue status update on Darklang](https://blog.darklang.com/an-overdue-status-update/)
