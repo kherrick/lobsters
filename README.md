@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-13, 22:22:33](https://lobste.rs/s/hdlz6u/ultimate_ideal_bestest_base_font_size) - [The Ultimate Ideal Bestest Base Font Size That Everyone Is Keeping a Secret, Especially Chet](https://adrianroselli.com/2024/03/the-ultimate-ideal-bestest-base-font-size-that-everyone-is-keeping-a-secret-especially-chet.html)
 * [2024-03-13, 21:55:07](https://lobste.rs/s/r6ycki/gpqa_graduate_level_google_proof_q) - [GPQA: A Graduate-Level Google-Proof Q&A Benchmark](https://arxiv.org/abs/2311.12022)
 * [2024-03-13, 21:23:10](https://lobste.rs/s/2woxvo/manos_open_source_kernel_architected) - [MANOS - an open source kernel architected to function like the NetWare kernel](https://code.google.com/archive/p/open-source-netware/)
 * [2024-03-13, 21:19:30](https://lobste.rs/s/wlxikn/ui_algorithms_drag_reordering_2022) - [UI Algorithms: Drag-reordering (2022)](https://blog.julik.nl/2022/10/drag-reordering)
@@ -12,7 +13,6 @@
 * [2024-03-13, 15:59:39](https://lobste.rs/s/hbzlse/cdebug_swiss_army_knife_container) - [cdebug: a swiss army knife of container debugging](https://github.com/iximiuz/cdebug)
 * [2024-03-13, 14:50:33](https://lobste.rs/s/sqnezh/introducing_flakehub_cache) - [Introducing FlakeHub Cache](https://determinate.systems/posts/flakehub-cache-beta)
 * [2024-03-13, 14:40:07](https://lobste.rs/s/lxkbkz/what_is_this_architecture_called) - [What is this architecture called?](https://gist.github.com/quad/bc2351e2df4a4a815f8e0d19f36cfa80)
-* [2024-03-13, 13:34:54](https://lobste.rs/s/mo5cdq/email_testing_with_python_s_smtpd_module) - [Email Testing with Python's smtpd Module](https://muhammadraza.me/2024/Python-Commandline-Tools-Part-1/)
 * [2024-03-13, 11:10:23](https://lobste.rs/s/q5hu1q/rust_flashcards_557_cards_learn_rust_from) - [Rust Flashcards - 557 cards to learn Rust from first principles](https://github.com/ad-si/Rust-Flashcards)
 * [2024-03-13, 10:10:30](https://lobste.rs/s/8ehj08/querying_google_sheets_with_sql) - [Querying Google sheets with SQL](https://sheetsql.io/)
 * [2024-03-13, 05:30:08](https://lobste.rs/s/cbhj5h/tex_live_2024_released_iso_available_for) - [TeX Live 2024 released - ISO available for download via torrent file and magnet](https://www.texastim.dev/texlive/2024/03/12/texlive.html)

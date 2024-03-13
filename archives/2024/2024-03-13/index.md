@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 22:22:33](https://lobste.rs/s/hdlz6u/ultimate_ideal_bestest_base_font_size) - [The Ultimate Ideal Bestest Base Font Size That Everyone Is Keeping a Secret, Especially Chet](https://adrianroselli.com/2024/03/the-ultimate-ideal-bestest-base-font-size-that-everyone-is-keeping-a-secret-especially-chet.html)
 * [2024-03-13, 21:55:07](https://lobste.rs/s/r6ycki/gpqa_graduate_level_google_proof_q) - [GPQA: A Graduate-Level Google-Proof Q&A Benchmark](https://arxiv.org/abs/2311.12022)
 * [2024-03-13, 21:23:10](https://lobste.rs/s/2woxvo/manos_open_source_kernel_architected) - [MANOS - an open source kernel architected to function like the NetWare kernel](https://code.google.com/archive/p/open-source-netware/)
 * [2024-03-13, 21:19:30](https://lobste.rs/s/wlxikn/ui_algorithms_drag_reordering_2022) - [UI Algorithms: Drag-reordering (2022)](https://blog.julik.nl/2022/10/drag-reordering)
