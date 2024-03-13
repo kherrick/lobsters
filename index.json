@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-13, 20:05:28",
+      "https://lobste.rs/s/b7vyev/pre_hashing_large_password_files_used"
+    ],
+    [
+      "Pre-hashing large password files used with PBKDFs",
+      "https://notes.volution.ro/v1/2024/03/remarks/810d7404/"
+    ]
+  ],
+  [
+    [
+      "2024-03-13, 20:02:41",
+      "https://lobste.rs/s/u8tjze/expat_2_6_2_released_includes_security"
+    ],
+    [
+      "Expat 2.6.2 released, includes security fixes",
+      "https://blog.hartwork.org/posts/expat-2-6-2-released/"
+    ]
+  ],
+  [
+    [
       "2024-03-13, 19:46:42",
       "https://lobste.rs/s/lphl0x/s3_as_universal_infrastructure_backend"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-03-12, 20:42:32",
-      "https://lobste.rs/s/e1ap9p/json_human_js_json_formatting_for_human"
-    ],
-    [
-      "json.human.js - Json Formatting for Human Beings",
-      "https://marianoguerra.github.io/json.human.js/"
-    ]
-  ],
-  [
-    [
       "2024-03-12, 20:33:02",
       "https://lobste.rs/s/vqfcpp/formula_for_responsive_font_size"
     ],
@@ -217,16 +227,6 @@
     [
       "C++ safety, in context",
       "https://herbsutter.com/2024/03/11/safety-in-context/"
-    ]
-  ],
-  [
-    [
-      "2024-03-12, 11:17:35",
-      "https://lobste.rs/s/flgyh4/cloning_laptop_over_nvme_tcp"
-    ],
-    [
-      "Cloning a laptop over NVME TCP",
-      "https://copyninja.in/blog/clone_laptop_nvmet.html"
     ]
   ],
   [
