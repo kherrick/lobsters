@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-13, 05:23:48",
+      "https://lobste.rs/s/labhzs/intel_continues_prepping_linux_kernel"
+    ],
+    [
+      "Intel Continues Prepping The Linux Kernel For X86S",
+      "https://www.phoronix.com/news/Linux-6.9-More-X86S"
+    ]
+  ],
+  [
+    [
+      "2024-03-13, 05:10:16",
+      "https://lobste.rs/s/r9lewl/why_facebook_doesn_t_use_git"
+    ],
+    [
+      "Why Facebook doesn't use Git",
+      "https://graphite.dev/blog/why-facebook-doesnt-use-git"
+    ]
+  ],
+  [
+    [
       "2024-03-13, 04:51:37",
       "https://lobste.rs/s/u2zo4w/ghostrace_exploiting_mitigating"
     ],
@@ -217,26 +237,6 @@
     [
       "Go, Python, Rust, and production AI applications",
       "https://ajmani.net/2024/03/11/go-python-rust-and-production-ai-applications/"
-    ]
-  ],
-  [
-    [
-      "2024-03-12, 00:35:28",
-      "https://lobste.rs/s/n7hmcd/cap_is_good_actually"
-    ],
-    [
-      "CAP is Good, Actually",
-      "https://buttondown.email/jaffray/archive/cap-is-good-actually/"
-    ]
-  ],
-  [
-    [
-      "2024-03-11, 12:50:23",
-      "https://lobste.rs/s/wgbvek/gitu_tui_git_client_inspired_by_magit"
-    ],
-    [
-      "gitu: A TUI Git client inspired by Magit",
-      "https://github.com/altsem/gitu"
     ]
   ],
   [
