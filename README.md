@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-13, 20:47:49](https://lobste.rs/s/olredv/neon_serverless_postgresql_heikki) - [Neon: Serverless PostgreSQL! (Heikki Linnakangas)](https://www.youtube.com/watch?v=rES0yzeERns)
 * [2024-03-13, 20:05:28](https://lobste.rs/s/b7vyev/pre_hashing_large_password_files_used) - [Pre-hashing large password files used with PBKDFs](https://notes.volution.ro/v1/2024/03/remarks/810d7404/)
 * [2024-03-13, 20:02:41](https://lobste.rs/s/u8tjze/expat_2_6_2_released_includes_security) - [Expat 2.6.2 released, includes security fixes](https://blog.hartwork.org/posts/expat-2-6-2-released/)
 * [2024-03-13, 19:46:42](https://lobste.rs/s/lphl0x/s3_as_universal_infrastructure_backend) - [S3 as the universal infrastructure backend](https://medium.com/innovationendeavors/s3-as-the-universal-infrastructure-backend-a104a8cc6991)
@@ -23,7 +24,6 @@
 * [2024-03-12, 14:04:42](https://lobste.rs/s/7noj7v/overdue_status_update_on_darklang) - [An overdue status update on Darklang](https://blog.darklang.com/an-overdue-status-update/)
 * [2024-03-12, 12:34:42](https://lobste.rs/s/5p4tkz/first_month_on_database_team) - [First month on a database team](https://notes.eatonphil.com/2024-03-11-first-month-on-a-database-team.html)
 * [2024-03-12, 11:54:48](https://lobste.rs/s/mzxfam/c_safety_context) - [C++ safety, in context](https://herbsutter.com/2024/03/11/safety-in-context/)
-* [2024-03-12, 10:41:36](https://lobste.rs/s/0k03z6/google_s_threat_model_for_post_quantum) - [Google's Threat model for Post-Quantum Cryptography](https://bughunters.google.com/blog/5108747984306176/google-s-threat-model-for-post-quantum-cryptography)
 * [2024-03-12, 08:12:21](https://lobste.rs/s/qnnmon/tag_proposal_editors) - [Tag proposal: editors](https://lobste.rs/s/qnnmon/tag_proposal_editors)
 
 ## [Archives](archives/index.md)
