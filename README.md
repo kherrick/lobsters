@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-13, 14:50:33](https://lobste.rs/s/sqnezh/introducing_flakehub_cache) - [Introducing FlakeHub Cache](https://determinate.systems/posts/flakehub-cache-beta)
 * [2024-03-13, 14:40:07](https://lobste.rs/s/lxkbkz/what_is_this_architecture_called) - [What is this architecture called?](https://gist.github.com/quad/bc2351e2df4a4a815f8e0d19f36cfa80)
 * [2024-03-13, 13:34:54](https://lobste.rs/s/mo5cdq/email_testing_with_python_s_smtpd_module) - [Email Testing with Python's smtpd Module](https://muhammadraza.me/2024/Python-Commandline-Tools-Part-1/)
 * [2024-03-13, 11:10:23](https://lobste.rs/s/q5hu1q/rust_flashcards_557_cards_learn_rust_from) - [Rust Flashcards - 557 cards to learn Rust from first principles](https://github.com/ad-si/Rust-Flashcards)
@@ -9,7 +10,6 @@
 * [2024-03-13, 05:10:16](https://lobste.rs/s/r9lewl/why_facebook_doesn_t_use_git) - [Why Facebook doesn't use Git](https://graphite.dev/blog/why-facebook-doesnt-use-git)
 * [2024-03-13, 04:51:37](https://lobste.rs/s/u2zo4w/ghostrace_exploiting_mitigating) - [GhostRace: Exploiting and Mitigating Speculative Race Conditions](https://www.vusec.net/projects/ghostrace/)
 * [2024-03-12, 22:53:52](https://lobste.rs/s/ikdldb/factorio_yosys_full_yosys_backend_for) - [Factorio Yosys: a full yosys backend for factorio that can compile a riscv core](https://mastodon.social/@thezoq2/112084897570820776)
-* [2024-03-12, 22:17:42](https://lobste.rs/s/oplmzg/screen_space_reflection) - [Screen Space Reflection](https://zznewclear13.github.io/posts/screen-space-reflection-en/)
 * [2024-03-12, 21:15:12](https://lobste.rs/s/y7fseg/40_years_programming) - [40 years of programming](https://liw.fi/40/)
 * [2024-03-12, 20:42:32](https://lobste.rs/s/e1ap9p/json_human_js_json_formatting_for_human) - [json.human.js - Json Formatting for Human Beings](https://marianoguerra.github.io/json.human.js/)
 * [2024-03-12, 20:33:02](https://lobste.rs/s/vqfcpp/formula_for_responsive_font_size) - [A formula for responsive font-size](https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/)

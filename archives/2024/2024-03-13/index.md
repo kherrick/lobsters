@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 14:50:33](https://lobste.rs/s/sqnezh/introducing_flakehub_cache) - [Introducing FlakeHub Cache](https://determinate.systems/posts/flakehub-cache-beta)
 * [2024-03-13, 14:40:07](https://lobste.rs/s/lxkbkz/what_is_this_architecture_called) - [What is this architecture called?](https://gist.github.com/quad/bc2351e2df4a4a815f8e0d19f36cfa80)
 * [2024-03-13, 13:34:54](https://lobste.rs/s/mo5cdq/email_testing_with_python_s_smtpd_module) - [Email Testing with Python's smtpd Module](https://muhammadraza.me/2024/Python-Commandline-Tools-Part-1/)
 * [2024-03-13, 11:10:23](https://lobste.rs/s/q5hu1q/rust_flashcards_557_cards_learn_rust_from) - [Rust Flashcards - 557 cards to learn Rust from first principles](https://github.com/ad-si/Rust-Flashcards)
