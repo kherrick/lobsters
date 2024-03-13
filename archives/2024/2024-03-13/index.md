@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 10:13:19](https://lobste.rs/s/r3aaco/introducing_devin_first_ai_software) - [Introducing Devin, the first AI software engineer](https://youtu.be/fjHtjT7GO1c)
+* [2024-03-13, 10:10:30](https://lobste.rs/s/8ehj08/querying_google_sheets_with_sql) - [Querying Google sheets with SQL](https://sheetsql.io/)
 * [2024-03-13, 05:30:08](https://lobste.rs/s/cbhj5h/tex_live_2024_released_iso_available_for) - [TeX Live 2024 released - ISO available for download via torrent file and magnet](https://www.texastim.dev/texlive/2024/03/12/texlive.html)
 * [2024-03-13, 05:23:48](https://lobste.rs/s/labhzs/intel_continues_prepping_linux_kernel) - [Intel Continues Prepping The Linux Kernel For X86S](https://www.phoronix.com/news/Linux-6.9-More-X86S)
 * [2024-03-13, 05:10:16](https://lobste.rs/s/r9lewl/why_facebook_doesn_t_use_git) - [Why Facebook doesn't use Git](https://graphite.dev/blog/why-facebook-doesnt-use-git)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-13, 10:13:19](https://lobste.rs/s/r3aaco/introducing_devin_first_ai_software) - [Introducing Devin, the first AI software engineer](https://youtu.be/fjHtjT7GO1c)
+* [2024-03-13, 10:10:30](https://lobste.rs/s/8ehj08/querying_google_sheets_with_sql) - [Querying Google sheets with SQL](https://sheetsql.io/)
 * [2024-03-13, 05:30:08](https://lobste.rs/s/cbhj5h/tex_live_2024_released_iso_available_for) - [TeX Live 2024 released - ISO available for download via torrent file and magnet](https://www.texastim.dev/texlive/2024/03/12/texlive.html)
 * [2024-03-13, 05:23:48](https://lobste.rs/s/labhzs/intel_continues_prepping_linux_kernel) - [Intel Continues Prepping The Linux Kernel For X86S](https://www.phoronix.com/news/Linux-6.9-More-X86S)
 * [2024-03-13, 05:10:16](https://lobste.rs/s/r9lewl/why_facebook_doesn_t_use_git) - [Why Facebook doesn't use Git](https://graphite.dev/blog/why-facebook-doesnt-use-git)
@@ -10,7 +12,6 @@
 * [2024-03-12, 20:42:32](https://lobste.rs/s/e1ap9p/json_human_js_json_formatting_for_human) - [json.human.js - Json Formatting for Human Beings](https://marianoguerra.github.io/json.human.js/)
 * [2024-03-12, 20:33:02](https://lobste.rs/s/vqfcpp/formula_for_responsive_font_size) - [A formula for responsive font-size](https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/)
 * [2024-03-12, 19:24:11](https://lobste.rs/s/nrn7o0/extreme_value_statistical_process) - [Extreme Value Statistical Process Control](https://two-wrongs.com/extreme-value-spc)
-* [2024-03-12, 19:00:33](https://lobste.rs/s/hmebwb/floatcompmandelbrot_what_impact_does) - [FloatCompMandelbrot: What impact does floating point precision have on Mandelbrot set calculations?](https://github.com/ProfJski/FloatCompMandelbrot)
 * [2024-03-12, 18:29:08](https://lobste.rs/s/pp6l2o/state_terminal) - [State of the Terminal](https://gpanders.com/blog/state-of-the-terminal/)
 * [2024-03-12, 17:44:49](https://lobste.rs/s/dbbek7/byte_sized_swift_building_tiny_games_for) - [Byte-sized Swift: Building Tiny Games for the Playdate](https://www.swift.org/blog/byte-sized-swift-tiny-games-playdate/)
 * [2024-03-12, 17:37:24](https://lobste.rs/s/91wawr/on_importance_getting_foundations_right) - [On The Importance of Getting The Foundations Right](https://cybernetist.com/2024/03/11/importance-of-getting-the-foundations-right/)
@@ -24,7 +25,6 @@
 * [2024-03-12, 11:17:35](https://lobste.rs/s/flgyh4/cloning_laptop_over_nvme_tcp) - [Cloning a laptop over NVME TCP](https://copyninja.in/blog/clone_laptop_nvmet.html)
 * [2024-03-12, 10:41:36](https://lobste.rs/s/0k03z6/google_s_threat_model_for_post_quantum) - [Google's Threat model for Post-Quantum Cryptography](https://bughunters.google.com/blog/5108747984306176/google-s-threat-model-for-post-quantum-cryptography)
 * [2024-03-12, 08:12:21](https://lobste.rs/s/qnnmon/tag_proposal_editors) - [Tag proposal: editors](https://lobste.rs/s/qnnmon/tag_proposal_editors)
-* [2024-03-12, 04:25:47](https://lobste.rs/s/7t70bg/j_playground) - [J Playground](https://jsoftware.github.io/j-playground/bin/html2/)
 
 ## [Archives](archives/index.md)
 
