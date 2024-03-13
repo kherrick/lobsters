@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-13, 04:51:37",
+      "https://lobste.rs/s/u2zo4w/ghostrace_exploiting_mitigating"
+    ],
+    [
+      "GhostRace: Exploiting and Mitigating Speculative Race Conditions",
+      "https://www.vusec.net/projects/ghostrace/"
+    ]
+  ],
+  [
+    [
       "2024-03-12, 22:53:52",
       "https://lobste.rs/s/ikdldb/factorio_yosys_full_yosys_backend_for"
     ],
@@ -107,16 +117,6 @@
     [
       "Hello DBOS - Announcing DBOS Cloud",
       "https://www.dbos.dev/blog/announcing-dbos"
-    ]
-  ],
-  [
-    [
-      "2024-03-12, 15:41:41",
-      "https://lobste.rs/s/htjx6u/accidental_discovery_new_vulnerability"
-    ],
-    [
-      "The Accidental Discovery of a New Vulnerability in Google's OAuth Implementation (2023)",
-      "https://www.youtube.com/watch?v=77doS9hCe8A"
     ]
   ],
   [
