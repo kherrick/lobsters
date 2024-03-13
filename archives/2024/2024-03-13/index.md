@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 16:00:18](https://lobste.rs/s/rtb0kv/incremental_insertion_into_prolly_trees) - [Incremental insertion into Prolly Trees](https://interjectedfuture.com/lab-notes/lab-note-034-incremental-insertion-into-prolly-trees/)
+* [2024-03-13, 15:59:39](https://lobste.rs/s/hbzlse/cdebug_swiss_army_knife_container) - [cdebug: a swiss army knife of container debugging](https://github.com/iximiuz/cdebug)
 * [2024-03-13, 14:50:33](https://lobste.rs/s/sqnezh/introducing_flakehub_cache) - [Introducing FlakeHub Cache](https://determinate.systems/posts/flakehub-cache-beta)
 * [2024-03-13, 14:40:07](https://lobste.rs/s/lxkbkz/what_is_this_architecture_called) - [What is this architecture called?](https://gist.github.com/quad/bc2351e2df4a4a815f8e0d19f36cfa80)
 * [2024-03-13, 13:34:54](https://lobste.rs/s/mo5cdq/email_testing_with_python_s_smtpd_module) - [Email Testing with Python's smtpd Module](https://muhammadraza.me/2024/Python-Commandline-Tools-Part-1/)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-13, 16:00:18](https://lobste.rs/s/rtb0kv/incremental_insertion_into_prolly_trees) - [Incremental insertion into Prolly Trees](https://interjectedfuture.com/lab-notes/lab-note-034-incremental-insertion-into-prolly-trees/)
+* [2024-03-13, 15:59:39](https://lobste.rs/s/hbzlse/cdebug_swiss_army_knife_container) - [cdebug: a swiss army knife of container debugging](https://github.com/iximiuz/cdebug)
 * [2024-03-13, 14:50:33](https://lobste.rs/s/sqnezh/introducing_flakehub_cache) - [Introducing FlakeHub Cache](https://determinate.systems/posts/flakehub-cache-beta)
 * [2024-03-13, 14:40:07](https://lobste.rs/s/lxkbkz/what_is_this_architecture_called) - [What is this architecture called?](https://gist.github.com/quad/bc2351e2df4a4a815f8e0d19f36cfa80)
 * [2024-03-13, 13:34:54](https://lobste.rs/s/mo5cdq/email_testing_with_python_s_smtpd_module) - [Email Testing with Python's smtpd Module](https://muhammadraza.me/2024/Python-Commandline-Tools-Part-1/)
@@ -16,8 +18,6 @@
 * [2024-03-12, 19:24:11](https://lobste.rs/s/nrn7o0/extreme_value_statistical_process) - [Extreme Value Statistical Process Control](https://two-wrongs.com/extreme-value-spc)
 * [2024-03-12, 18:29:08](https://lobste.rs/s/pp6l2o/state_terminal) - [State of the Terminal](https://gpanders.com/blog/state-of-the-terminal/)
 * [2024-03-12, 17:44:49](https://lobste.rs/s/dbbek7/byte_sized_swift_building_tiny_games_for) - [Byte-sized Swift: Building Tiny Games for the Playdate](https://www.swift.org/blog/byte-sized-swift-tiny-games-playdate/)
-* [2024-03-12, 16:43:16](https://lobste.rs/s/lirkwj/hello_dbos_announcing_dbos_cloud) - [Hello DBOS - Announcing DBOS Cloud](https://www.dbos.dev/blog/announcing-dbos)
-* [2024-03-12, 15:36:41](https://lobste.rs/s/xjdbjs/abstracting_denotational_interpreters) - [Abstracting Denotational Interpreters](https://arxiv.org/abs/2403.02778)
 * [2024-03-12, 14:58:34](https://lobste.rs/s/io0xpg/identifying_software) - [Identifying software](https://guix.gnu.org/en/blog/2024/identifying-software/)
 * [2024-03-12, 14:04:42](https://lobste.rs/s/7noj7v/overdue_status_update_on_darklang) - [An overdue status update on Darklang](https://blog.darklang.com/an-overdue-status-update/)
 * [2024-03-12, 12:34:42](https://lobste.rs/s/5p4tkz/first_month_on_database_team) - [First month on a database team](https://notes.eatonphil.com/2024-03-11-first-month-on-a-database-team.html)
