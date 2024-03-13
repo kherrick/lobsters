@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-12](index.md)
 
 * [2024-03-12, 22:53:52](https://lobste.rs/s/ikdldb/factorio_yosys_full_yosyshq_backend_for) - [Factorio Yosys: a full yosyshq backend for factorio that can compile a riscv core](https://mastodon.social/@thezoq2/112084897570820776)
+* [2024-03-12, 22:53:52](https://lobste.rs/s/ikdldb/factorio_yosys_full_yosys_backend_for) - [Factorio Yosys: a full yosys backend for factorio that can compile a riscv core](https://mastodon.social/@thezoq2/112084897570820776)
 * [2024-03-12, 22:17:42](https://lobste.rs/s/oplmzg/screen_space_reflection) - [Screen Space Reflection](https://zznewclear13.github.io/posts/screen-space-reflection-en/)
 * [2024-03-12, 21:15:12](https://lobste.rs/s/y7fseg/40_years_programming) - [40 years of programming](https://liw.fi/40/)
 * [2024-03-12, 20:42:32](https://lobste.rs/s/e1ap9p/json_human_js_json_formatting_for_human) - [json.human.js - Json Formatting for Human Beings](https://marianoguerra.github.io/json.human.js/)
