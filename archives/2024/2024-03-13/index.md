@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 21:23:10](https://lobste.rs/s/2woxvo/manos_open_source_kernel_architected) - [MANOS - an open source kernel architected to function like the NetWare kernel](https://code.google.com/archive/p/open-source-netware/)
 * [2024-03-13, 21:19:30](https://lobste.rs/s/wlxikn/ui_algorithms_drag_reordering_2022) - [UI Algorithms: Drag-reordering (2022)](https://blog.julik.nl/2022/10/drag-reordering)
 * [2024-03-13, 20:47:49](https://lobste.rs/s/olredv/neon_serverless_postgresql_heikki) - [Neon: Serverless PostgreSQL! (Heikki Linnakangas)](https://www.youtube.com/watch?v=rES0yzeERns)
 * [2024-03-13, 20:05:28](https://lobste.rs/s/b7vyev/pre_hashing_large_password_files_used) - [Pre-hashing large password files used with PBKDFs](https://notes.volution.ro/v1/2024/03/remarks/810d7404/)
