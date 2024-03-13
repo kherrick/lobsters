@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-13](index.md)
 
+* [2024-03-13, 13:34:54](https://lobste.rs/s/mo5cdq/email_testing_with_python_s_smtpd_module) - [Email Testing with Python's smtpd Module](https://muhammadraza.me/2024/Python-Commandline-Tools-Part-1/)
 * [2024-03-13, 11:10:23](https://lobste.rs/s/q5hu1q/rust_flashcards_557_cards_learn_rust_from) - [Rust Flashcards - 557 cards to learn Rust from first principles](https://github.com/ad-si/Rust-Flashcards)
 * [2024-03-13, 10:13:19](https://lobste.rs/s/r3aaco/introducing_devin_first_ai_software) - [Introducing Devin, the first AI software engineer](https://youtu.be/fjHtjT7GO1c)
 * [2024-03-13, 10:10:30](https://lobste.rs/s/8ehj08/querying_google_sheets_with_sql) - [Querying Google sheets with SQL](https://sheetsql.io/)

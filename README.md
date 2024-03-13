@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-13, 13:34:54](https://lobste.rs/s/mo5cdq/email_testing_with_python_s_smtpd_module) - [Email Testing with Python's smtpd Module](https://muhammadraza.me/2024/Python-Commandline-Tools-Part-1/)
 * [2024-03-13, 11:10:23](https://lobste.rs/s/q5hu1q/rust_flashcards_557_cards_learn_rust_from) - [Rust Flashcards - 557 cards to learn Rust from first principles](https://github.com/ad-si/Rust-Flashcards)
 * [2024-03-13, 10:10:30](https://lobste.rs/s/8ehj08/querying_google_sheets_with_sql) - [Querying Google sheets with SQL](https://sheetsql.io/)
 * [2024-03-13, 05:30:08](https://lobste.rs/s/cbhj5h/tex_live_2024_released_iso_available_for) - [TeX Live 2024 released - ISO available for download via torrent file and magnet](https://www.texastim.dev/texlive/2024/03/12/texlive.html)
@@ -14,7 +15,6 @@
 * [2024-03-12, 19:24:11](https://lobste.rs/s/nrn7o0/extreme_value_statistical_process) - [Extreme Value Statistical Process Control](https://two-wrongs.com/extreme-value-spc)
 * [2024-03-12, 18:29:08](https://lobste.rs/s/pp6l2o/state_terminal) - [State of the Terminal](https://gpanders.com/blog/state-of-the-terminal/)
 * [2024-03-12, 17:44:49](https://lobste.rs/s/dbbek7/byte_sized_swift_building_tiny_games_for) - [Byte-sized Swift: Building Tiny Games for the Playdate](https://www.swift.org/blog/byte-sized-swift-tiny-games-playdate/)
-* [2024-03-12, 17:37:24](https://lobste.rs/s/91wawr/on_importance_getting_foundations_right) - [On The Importance of Getting The Foundations Right](https://cybernetist.com/2024/03/11/importance-of-getting-the-foundations-right/)
 * [2024-03-12, 16:48:38](https://lobste.rs/s/2qzkyg/migrating_from_clickhouse_apache_doris) - [Migrating from ClickHouse to Apache Doris: what happened?](https://doris.apache.org/blog/migrating-from-clickhouse-to-apache-doris-what-happened/)
 * [2024-03-12, 16:43:16](https://lobste.rs/s/lirkwj/hello_dbos_announcing_dbos_cloud) - [Hello DBOS - Announcing DBOS Cloud](https://www.dbos.dev/blog/announcing-dbos)
 * [2024-03-12, 15:36:41](https://lobste.rs/s/xjdbjs/abstracting_denotational_interpreters) - [Abstracting Denotational Interpreters](https://arxiv.org/abs/2403.02778)
