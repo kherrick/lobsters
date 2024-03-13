@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-13, 19:46:42",
+      "https://lobste.rs/s/lphl0x/s3_as_universal_infrastructure_backend"
+    ],
+    [
+      "S3 as the universal infrastructure backend",
+      "https://medium.com/innovationendeavors/s3-as-the-universal-infrastructure-backend-a104a8cc6991"
+    ]
+  ],
+  [
+    [
       "2024-03-13, 17:04:54",
       "https://lobste.rs/s/rwufjh/iterators_traversables"
     ],
@@ -177,16 +187,6 @@
     [
       "Byte-sized Swift: Building Tiny Games for the Playdate",
       "https://www.swift.org/blog/byte-sized-swift-tiny-games-playdate/"
-    ]
-  ],
-  [
-    [
-      "2024-03-12, 14:58:34",
-      "https://lobste.rs/s/io0xpg/identifying_software"
-    ],
-    [
-      "Identifying software",
-      "https://guix.gnu.org/en/blog/2024/identifying-software/"
     ]
   ],
   [
