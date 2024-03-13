@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-13, 17:04:54",
+      "https://lobste.rs/s/rwufjh/iterators_traversables"
+    ],
+    [
+      "Iterators and traversables",
+      "https://without.boats/blog/iterators-and-traversables/"
+    ]
+  ],
+  [
+    [
       "2024-03-13, 16:00:18",
       "https://lobste.rs/s/rtb0kv/incremental_insertion_into_prolly_trees"
     ],
@@ -97,16 +107,6 @@
     [
       "Why Facebook doesn't use Git",
       "https://graphite.dev/blog/why-facebook-doesnt-use-git"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 04:51:37",
-      "https://lobste.rs/s/u2zo4w/ghostrace_exploiting_mitigating"
-    ],
-    [
-      "GhostRace: Exploiting and Mitigating Speculative Race Conditions",
-      "https://www.vusec.net/projects/ghostrace/"
     ]
   ],
   [
