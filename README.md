@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-13, 20:05:28](https://lobste.rs/s/b7vyev/pre_hashing_large_password_files_used) - [Pre-hashing large password files used with PBKDFs](https://notes.volution.ro/v1/2024/03/remarks/810d7404/)
+* [2024-03-13, 20:02:41](https://lobste.rs/s/u8tjze/expat_2_6_2_released_includes_security) - [Expat 2.6.2 released, includes security fixes](https://blog.hartwork.org/posts/expat-2-6-2-released/)
 * [2024-03-13, 19:46:42](https://lobste.rs/s/lphl0x/s3_as_universal_infrastructure_backend) - [S3 as the universal infrastructure backend](https://medium.com/innovationendeavors/s3-as-the-universal-infrastructure-backend-a104a8cc6991)
 * [2024-03-13, 17:04:54](https://lobste.rs/s/rwufjh/iterators_traversables) - [Iterators and traversables](https://without.boats/blog/iterators-and-traversables/)
 * [2024-03-13, 16:00:18](https://lobste.rs/s/rtb0kv/incremental_insertion_into_prolly_trees) - [Incremental insertion into Prolly Trees](https://interjectedfuture.com/lab-notes/lab-note-034-incremental-insertion-into-prolly-trees/)
@@ -14,7 +16,6 @@
 * [2024-03-13, 05:10:16](https://lobste.rs/s/r9lewl/why_facebook_doesn_t_use_git) - [Why Facebook doesn't use Git](https://graphite.dev/blog/why-facebook-doesnt-use-git)
 * [2024-03-12, 22:53:52](https://lobste.rs/s/ikdldb/factorio_yosys_full_yosys_backend_for) - [Factorio Yosys: a full yosys backend for factorio that can compile a riscv core](https://mastodon.social/@thezoq2/112084897570820776)
 * [2024-03-12, 21:15:12](https://lobste.rs/s/y7fseg/40_years_programming) - [40 years of programming](https://liw.fi/40/)
-* [2024-03-12, 20:42:32](https://lobste.rs/s/e1ap9p/json_human_js_json_formatting_for_human) - [json.human.js - Json Formatting for Human Beings](https://marianoguerra.github.io/json.human.js/)
 * [2024-03-12, 20:33:02](https://lobste.rs/s/vqfcpp/formula_for_responsive_font_size) - [A formula for responsive font-size](https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/)
 * [2024-03-12, 19:24:11](https://lobste.rs/s/nrn7o0/extreme_value_statistical_process) - [Extreme Value Statistical Process Control](https://two-wrongs.com/extreme-value-spc)
 * [2024-03-12, 18:29:08](https://lobste.rs/s/pp6l2o/state_terminal) - [State of the Terminal](https://gpanders.com/blog/state-of-the-terminal/)
@@ -22,7 +23,6 @@
 * [2024-03-12, 14:04:42](https://lobste.rs/s/7noj7v/overdue_status_update_on_darklang) - [An overdue status update on Darklang](https://blog.darklang.com/an-overdue-status-update/)
 * [2024-03-12, 12:34:42](https://lobste.rs/s/5p4tkz/first_month_on_database_team) - [First month on a database team](https://notes.eatonphil.com/2024-03-11-first-month-on-a-database-team.html)
 * [2024-03-12, 11:54:48](https://lobste.rs/s/mzxfam/c_safety_context) - [C++ safety, in context](https://herbsutter.com/2024/03/11/safety-in-context/)
-* [2024-03-12, 11:17:35](https://lobste.rs/s/flgyh4/cloning_laptop_over_nvme_tcp) - [Cloning a laptop over NVME TCP](https://copyninja.in/blog/clone_laptop_nvmet.html)
 * [2024-03-12, 10:41:36](https://lobste.rs/s/0k03z6/google_s_threat_model_for_post_quantum) - [Google's Threat model for Post-Quantum Cryptography](https://bughunters.google.com/blog/5108747984306176/google-s-threat-model-for-post-quantum-cryptography)
 * [2024-03-12, 08:12:21](https://lobste.rs/s/qnnmon/tag_proposal_editors) - [Tag proposal: editors](https://lobste.rs/s/qnnmon/tag_proposal_editors)
 
