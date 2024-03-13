@@ -5,7 +5,6 @@
 * [2024-03-12, 21:15:12](https://lobste.rs/s/y7fseg/40_years_programming) - [40 years of programming](https://liw.fi/40/)
 * [2024-03-12, 20:42:32](https://lobste.rs/s/e1ap9p/json_human_js_json_formatting_for_human) - [json.human.js - Json Formatting for Human Beings](https://marianoguerra.github.io/json.human.js/)
 * [2024-03-12, 20:33:02](https://lobste.rs/s/vqfcpp/formula_for_responsive_font_size) - [A formula for responsive font-size](https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/)
-* [2024-03-12, 20:22:25](https://lobste.rs/s/nrbzql/better_without_ai) - [Better without AI](https://betterwithout.ai/)
 * [2024-03-12, 19:24:11](https://lobste.rs/s/nrn7o0/extreme_value_statistical_process) - [Extreme Value Statistical Process Control](https://two-wrongs.com/extreme-value-spc)
 * [2024-03-12, 18:29:08](https://lobste.rs/s/pp6l2o/state_terminal) - [State of the Terminal](https://gpanders.com/blog/state-of-the-terminal/)
 * [2024-03-12, 17:44:49](https://lobste.rs/s/dbbek7/byte_sized_swift_building_tiny_games_for) - [Byte-sized Swift: Building Tiny Games for the Playdate](https://www.swift.org/blog/byte-sized-swift-tiny-games-playdate/)
@@ -23,6 +22,7 @@
 * [2024-03-12, 04:25:47](https://lobste.rs/s/7t70bg/j_playground) - [J Playground](https://jsoftware.github.io/j-playground/bin/html2/)
 * [2024-03-12, 04:19:05](https://lobste.rs/s/b17wxm/go_python_rust_production_ai) - [Go, Python, Rust, and production AI applications](https://ajmani.net/2024/03/11/go-python-rust-and-production-ai-applications/)
 * [2024-03-12, 00:35:28](https://lobste.rs/s/n7hmcd/cap_is_good_actually) - [CAP is Good, Actually](https://buttondown.email/jaffray/archive/cap-is-good-actually/)
+* [2024-03-11, 22:10:52](https://lobste.rs/s/xhvnn8/json_canvas_open_file_format_for_canvas) - [JSON Canvas - An open file format for canvas data](https://jsoncanvas.org/)
 * [2024-03-11, 12:50:23](https://lobste.rs/s/wgbvek/gitu_tui_git_client_inspired_by_magit) - [gitu: A TUI Git client inspired by Magit](https://github.com/altsem/gitu)
 * [2024-03-11, 09:10:32](https://lobste.rs/s/xr7agn/type_unions_don_t_always_compose_well) - [Type Unions Don't Always Compose Well](https://rtpg.co/2024/03/11/union-types-do-not-always-compose-well/)
 
