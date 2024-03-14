@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-14, 11:42:23](https://lobste.rs/s/fadirr/security_txt_wild) - [Security.txt in the wild](https://blog.ovalerio.net/archives/2818)
 * [2024-03-14, 11:20:15](https://lobste.rs/s/ctt2il/what_does_process_submitting_paper) - [What does the process of submitting a paper to Usenix looks like?](https://youtu.be/gAEiXWO44bQ)
 * [2024-03-14, 11:14:18](https://lobste.rs/s/zp316a/estimate_your_age_death) - [Estimate your age of death](https://lars.yencken.org/tools/age-of-death)
 * [2024-03-14, 10:06:29](https://lobste.rs/s/hkombo/numpy_vs_blas_losing_90_throughput) - [NumPy vs BLAS: Losing 90% of Throughput](https://ashvardanian.com/posts/numpy-vs-blas-costs/)
@@ -15,7 +16,6 @@
 * [2024-03-13, 20:02:41](https://lobste.rs/s/u8tjze/expat_2_6_2_released_includes_security) - [Expat 2.6.2 released, includes security fixes](https://blog.hartwork.org/posts/expat-2-6-2-released/)
 * [2024-03-13, 19:46:42](https://lobste.rs/s/lphl0x/s3_as_universal_infrastructure_backend) - [S3 as the universal infrastructure backend](https://medium.com/innovationendeavors/s3-as-the-universal-infrastructure-backend-a104a8cc6991)
 * [2024-03-13, 17:04:54](https://lobste.rs/s/rwufjh/iterators_traversables) - [Iterators and traversables](https://without.boats/blog/iterators-and-traversables/)
-* [2024-03-13, 16:00:18](https://lobste.rs/s/rtb0kv/incremental_insertion_into_prolly_trees) - [Incremental insertion into Prolly Trees](https://interjectedfuture.com/lab-notes/lab-note-034-incremental-insertion-into-prolly-trees/)
 * [2024-03-13, 15:59:39](https://lobste.rs/s/hbzlse/cdebug_swiss_army_knife_container) - [cdebug: a swiss army knife of container debugging](https://github.com/iximiuz/cdebug)
 * [2024-03-13, 14:50:33](https://lobste.rs/s/sqnezh/introducing_flakehub_cache) - [Introducing FlakeHub Cache](https://determinate.systems/posts/flakehub-cache-beta)
 * [2024-03-13, 14:40:07](https://lobste.rs/s/lxkbkz/what_is_this_architecture_called) - [What is this architecture called?](https://gist.github.com/quad/bc2351e2df4a4a815f8e0d19f36cfa80)

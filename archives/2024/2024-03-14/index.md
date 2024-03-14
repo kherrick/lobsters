@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 11:42:23](https://lobste.rs/s/fadirr/security_txt_wild) - [Security.txt in the wild](https://blog.ovalerio.net/archives/2818)
 * [2024-03-14, 11:20:15](https://lobste.rs/s/ctt2il/what_does_process_submitting_paper) - [What does the process of submitting a paper to Usenix looks like?](https://youtu.be/gAEiXWO44bQ)
 * [2024-03-14, 11:14:18](https://lobste.rs/s/zp316a/estimate_your_age_death) - [Estimate your age of death](https://lars.yencken.org/tools/age-of-death)
 * [2024-03-14, 10:06:29](https://lobste.rs/s/hkombo/numpy_vs_blas_losing_90_throughput) - [NumPy vs BLAS: Losing 90% of Throughput](https://ashvardanian.com/posts/numpy-vs-blas-costs/)
