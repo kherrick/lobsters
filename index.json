@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-14, 18:22:51",
+      "https://lobste.rs/s/mkaigy/solover_is_simple_expressive_versioning"
+    ],
+    [
+      "SoloVer is a simple and expressive versioning specification",
+      "https://beza1e1.tuxen.de/SoloVer"
+    ]
+  ],
+  [
+    [
+      "2024-03-14, 18:20:28",
+      "https://lobste.rs/s/dlpl1r/today_we_launched_flox_1_0"
+    ],
+    [
+      "Today we launched Flox 1.0",
+      "https://tinkering.xyz/releasing-flox/"
+    ]
+  ],
+  [
+    [
       "2024-03-14, 18:05:51",
       "https://lobste.rs/s/kmzucs/can_you_share_some_creative_pages_is"
     ],
@@ -37,16 +57,6 @@
     [
       "Introducing Sunlight, a CT implementation built for scalability, ease of operation, and reduced cost",
       "https://letsencrypt.org/2024/03/14/introducing-sunlight"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 16:01:47",
-      "https://lobste.rs/s/cyeau6/reverse_engineering_car_key_fob_signal"
-    ],
-    [
-      "Reverse engineering a car key fob signal, Part 1",
-      "https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Expat 2.6.2 released, includes security fixes",
       "https://blog.hartwork.org/posts/expat-2-6-2-released/"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 19:46:42",
-      "https://lobste.rs/s/lphl0x/s3_as_universal_infrastructure_backend"
-    ],
-    [
-      "S3 as the universal infrastructure backend",
-      "https://medium.com/innovationendeavors/s3-as-the-universal-infrastructure-backend-a104a8cc6991"
     ]
   ],
   [
