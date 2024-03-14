@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-14, 21:43:04](https://lobste.rs/s/rdlc1q/how_figma_s_databases_team_lived_tell) - [How Figma's Databases Team Lived to Tell the Scale](https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/)
 * [2024-03-14, 21:07:18](https://lobste.rs/s/zjtmer/st3000dm001) - [ST3000DM001](https://en.wikipedia.org/wiki/ST3000DM001)
 * [2024-03-14, 20:31:11](https://lobste.rs/s/jgbi0e/more_powerful_go_execution_traces) - [More powerful Go execution traces](https://go.dev/blog/execution-traces-2024)
 * [2024-03-14, 18:22:51](https://lobste.rs/s/mkaigy/solover_is_simple_expressive_versioning) - [SoloVer is a simple and expressive versioning specification](https://beza1e1.tuxen.de/SoloVer)
@@ -21,7 +22,6 @@
 * [2024-03-14, 09:39:46](https://lobste.rs/s/pj2lyp/exaloglog_space_efficient_practical) - [ExaLogLog: Space-Efficient and Practical Approximate Distinct Counting up to the Exa-Scale](https://arxiv.org/abs/2402.13726)
 * [2024-03-14, 03:55:06](https://lobste.rs/s/jjfm3k/yx_problem) - [YX problem](https://www.sicpers.info/2024/03/yx-problem/)
 * [2024-03-14, 00:27:30](https://lobste.rs/s/aari0g/call_by_hash) - [Call by hash](https://garnix.io/blog/call-by-hash)
-* [2024-03-13, 20:02:41](https://lobste.rs/s/u8tjze/expat_2_6_2_released_includes_security) - [Expat 2.6.2 released, includes security fixes](https://blog.hartwork.org/posts/expat-2-6-2-released/)
 * [2024-03-13, 14:50:33](https://lobste.rs/s/sqnezh/introducing_flakehub_cache) - [Introducing FlakeHub Cache](https://determinate.systems/posts/flakehub-cache-beta)
 * [2024-03-13, 14:40:07](https://lobste.rs/s/lxkbkz/what_is_this_architecture_called) - [What is this architecture called?](https://gist.github.com/quad/bc2351e2df4a4a815f8e0d19f36cfa80)
 * [2024-03-13, 11:10:23](https://lobste.rs/s/q5hu1q/rust_flashcards_557_cards_learn_rust_from) - [Rust Flashcards - 557 cards to learn Rust from first principles](https://github.com/ad-si/Rust-Flashcards)

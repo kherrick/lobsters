@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 21:43:04](https://lobste.rs/s/rdlc1q/how_figma_s_databases_team_lived_tell) - [How Figma's Databases Team Lived to Tell the Scale](https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/)
 * [2024-03-14, 21:07:18](https://lobste.rs/s/zjtmer/st3000dm001) - [ST3000DM001](https://en.wikipedia.org/wiki/ST3000DM001)
 * [2024-03-14, 20:31:11](https://lobste.rs/s/jgbi0e/more_powerful_go_execution_traces) - [More powerful Go execution traces](https://go.dev/blog/execution-traces-2024)
 * [2024-03-14, 18:49:21](https://lobste.rs/s/fjm6kx/different_kind_ct_log) - [A different kind of CT log](https://filippo.io/a-different-CT-log)
