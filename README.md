@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-14, 06:06:12](https://lobste.rs/s/yxdfb2/what_s_next_for_global_design_system) - [What's Next for a Global Design System](https://bradfrost.com/blog/post/whats-next-for-a-global-design-system/)
 * [2024-03-14, 03:55:06](https://lobste.rs/s/jjfm3k/yx_problem_structure_interpretation) - [YX problem | Structure and Interpretation of Computer Programmers](https://www.sicpers.info/2024/03/yx-problem/)
 * [2024-03-14, 03:18:16](https://lobste.rs/s/cdptdu/robust_contract_evolution_typesafe) - [Robust Contract Evolution in a TypeSafe MicroServices Architecture](https://arxiv.org/abs/2002.06185)
 * [2024-03-14, 00:27:30](https://lobste.rs/s/aari0g/call_by_hash) - [Call by hash](https://garnix.io/blog/call-by-hash)
@@ -22,7 +23,6 @@
 * [2024-03-13, 05:23:48](https://lobste.rs/s/labhzs/intel_continues_prepping_linux_kernel) - [Intel Continues Prepping The Linux Kernel For X86S](https://www.phoronix.com/news/Linux-6.9-More-X86S)
 * [2024-03-13, 05:10:16](https://lobste.rs/s/r9lewl/why_facebook_doesn_t_use_git) - [Why Facebook doesn't use Git](https://graphite.dev/blog/why-facebook-doesnt-use-git)
 * [2024-03-12, 22:53:52](https://lobste.rs/s/ikdldb/factorio_yosys_full_yosys_backend_for) - [Factorio Yosys: a full yosys backend for factorio that can compile a riscv core](https://mastodon.social/@thezoq2/112084897570820776)
-* [2024-03-12, 20:33:02](https://lobste.rs/s/vqfcpp/formula_for_responsive_font_size) - [A formula for responsive font-size](https://jameshfisher.com/2024/03/12/a-formula-for-responsive-font-size/)
 * [2024-03-12, 18:29:08](https://lobste.rs/s/pp6l2o/state_terminal) - [State of the Terminal](https://gpanders.com/blog/state-of-the-terminal/)
 * [2024-03-12, 14:04:42](https://lobste.rs/s/7noj7v/overdue_status_update_on_darklang) - [An overdue status update on Darklang](https://blog.darklang.com/an-overdue-status-update/)
 
