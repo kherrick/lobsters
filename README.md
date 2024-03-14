@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-14, 17:37:20](https://lobste.rs/s/quyacp/rolldown_rust_bundler_for_javascript) - [Rolldown: Rust bundler for JavaScript](https://rolldown.rs/about)
 * [2024-03-14, 17:03:42](https://lobste.rs/s/owaodf/introducing_sunlight_ct_implementation) - [Introducing Sunlight, a CT implementation built for scalability, ease of operation, and reduced cost -  Let's Encrypt](https://letsencrypt.org/2024/03/14/introducing-sunlight)
 * [2024-03-14, 16:01:47](https://lobste.rs/s/cyeau6/reverse_engineering_car_key_fob_signal) - [Reverse engineering a car key fob signal, Part 1](https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html)
 * [2024-03-14, 15:15:58](https://lobste.rs/s/9jc7qb/hackers_can_read_private_ai_assistant) - [Hackers can read private AI assistant chats even though they’re encrypted](https://arstechnica.com/?p=2010039)
@@ -24,7 +25,6 @@
 * [2024-03-13, 14:40:07](https://lobste.rs/s/lxkbkz/what_is_this_architecture_called) - [What is this architecture called?](https://gist.github.com/quad/bc2351e2df4a4a815f8e0d19f36cfa80)
 * [2024-03-13, 11:10:23](https://lobste.rs/s/q5hu1q/rust_flashcards_557_cards_learn_rust_from) - [Rust Flashcards - 557 cards to learn Rust from first principles](https://github.com/ad-si/Rust-Flashcards)
 * [2024-03-13, 05:10:16](https://lobste.rs/s/r9lewl/why_facebook_doesn_t_use_git) - [Why Facebook doesn't use Git](https://graphite.dev/blog/why-facebook-doesnt-use-git)
-* [2024-03-12, 18:29:08](https://lobste.rs/s/pp6l2o/state_terminal) - [State of the Terminal](https://gpanders.com/blog/state-of-the-terminal/)
 
 ## [Archives](archives/index.md)
 
