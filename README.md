@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-14, 21:07:18](https://lobste.rs/s/zjtmer/st3000dm001) - [ST3000DM001](https://en.wikipedia.org/wiki/ST3000DM001)
 * [2024-03-14, 20:31:11](https://lobste.rs/s/jgbi0e/more_powerful_go_execution_traces) - [More powerful Go execution traces](https://go.dev/blog/execution-traces-2024)
 * [2024-03-14, 18:22:51](https://lobste.rs/s/mkaigy/solover_is_simple_expressive_versioning) - [SoloVer is a simple and expressive versioning specification](https://beza1e1.tuxen.de/SoloVer)
 * [2024-03-14, 18:20:28](https://lobste.rs/s/dlpl1r/today_we_launched_flox_1_0) - [Today we launched Flox 1.0](https://tinkering.xyz/releasing-flox/)
@@ -24,7 +25,6 @@
 * [2024-03-13, 14:50:33](https://lobste.rs/s/sqnezh/introducing_flakehub_cache) - [Introducing FlakeHub Cache](https://determinate.systems/posts/flakehub-cache-beta)
 * [2024-03-13, 14:40:07](https://lobste.rs/s/lxkbkz/what_is_this_architecture_called) - [What is this architecture called?](https://gist.github.com/quad/bc2351e2df4a4a815f8e0d19f36cfa80)
 * [2024-03-13, 11:10:23](https://lobste.rs/s/q5hu1q/rust_flashcards_557_cards_learn_rust_from) - [Rust Flashcards - 557 cards to learn Rust from first principles](https://github.com/ad-si/Rust-Flashcards)
-* [2024-03-13, 05:10:16](https://lobste.rs/s/r9lewl/why_facebook_doesn_t_use_git) - [Why Facebook doesn't use Git](https://graphite.dev/blog/why-facebook-doesnt-use-git)
 
 ## [Archives](archives/index.md)
 

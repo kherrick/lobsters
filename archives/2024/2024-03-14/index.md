@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 21:07:18](https://lobste.rs/s/zjtmer/st3000dm001) - [ST3000DM001](https://en.wikipedia.org/wiki/ST3000DM001)
 * [2024-03-14, 20:31:11](https://lobste.rs/s/jgbi0e/more_powerful_go_execution_traces) - [More powerful Go execution traces](https://go.dev/blog/execution-traces-2024)
 * [2024-03-14, 18:49:21](https://lobste.rs/s/fjm6kx/different_kind_ct_log) - [A different kind of CT log](https://filippo.io/a-different-CT-log)
 * [2024-03-14, 18:22:51](https://lobste.rs/s/mkaigy/solover_is_simple_expressive_versioning) - [SoloVer is a simple and expressive versioning specification](https://beza1e1.tuxen.de/SoloVer)
