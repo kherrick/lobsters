@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-14, 14:39:54](https://lobste.rs/s/xo9n89/least_frequently_used_cache_o_1) - [Least Frequently Used Cache in O(1)](https://github.com/teivah/go-lfu)
 * [2024-03-14, 14:08:05](https://lobste.rs/s/hvbroz/digital_forgeries_are_hard) - [Digital forgeries are hard](https://mjg59.dreamwidth.org/69507.html)
 * [2024-03-14, 14:01:22](https://lobste.rs/s/xqdnek/pipexec_handling_pipe_commands_like) - [pipexec: Handling pipe of commands like a single command](https://github.com/flonatel/pipexec)
 * [2024-03-14, 13:45:46](https://lobste.rs/s/mibsxb/announcing_ibis_federated_wikipedia) - [Announcing Ibis, the federated Wikipedia Alternative](https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative@ibis.wiki)
@@ -10,7 +11,6 @@
 * [2024-03-14, 10:06:29](https://lobste.rs/s/hkombo/numpy_vs_blas_losing_90_throughput) - [NumPy vs BLAS: Losing 90% of Throughput](https://ashvardanian.com/posts/numpy-vs-blas-costs/)
 * [2024-03-14, 09:39:46](https://lobste.rs/s/pj2lyp/exaloglog_space_efficient_practical) - [ExaLogLog: Space-Efficient and Practical Approximate Distinct Counting up to the Exa-Scale](https://arxiv.org/abs/2402.13726)
 * [2024-03-14, 08:36:53](https://lobste.rs/s/rbdfmk/range_joins_duckdb) - [Range Joins in DuckDB](https://duckdb.org/2022/05/27/iejoin.html)
-* [2024-03-14, 06:06:12](https://lobste.rs/s/yxdfb2/what_s_next_for_global_design_system) - [What's Next for a Global Design System](https://bradfrost.com/blog/post/whats-next-for-a-global-design-system/)
 * [2024-03-14, 03:55:06](https://lobste.rs/s/jjfm3k/yx_problem) - [YX problem](https://www.sicpers.info/2024/03/yx-problem/)
 * [2024-03-14, 00:27:30](https://lobste.rs/s/aari0g/call_by_hash) - [Call by hash](https://garnix.io/blog/call-by-hash)
 * [2024-03-13, 22:56:17](https://lobste.rs/s/nrndci/perfect_neovim_ansible_setup) - [Perfect Neovim Ansible Setup](https://vermaden.wordpress.com/2024/03/13/perfect-neovim-ansible-setup/)

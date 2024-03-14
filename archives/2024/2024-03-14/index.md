@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 14:39:54](https://lobste.rs/s/xo9n89/least_frequently_used_cache_o_1) - [Least Frequently Used Cache in O(1)](https://github.com/teivah/go-lfu)
 * [2024-03-14, 14:08:05](https://lobste.rs/s/hvbroz/digital_forgeries_are_hard) - [Digital forgeries are hard](https://mjg59.dreamwidth.org/69507.html)
 * [2024-03-14, 14:01:22](https://lobste.rs/s/xqdnek/pipexec_handling_pipe_commands_like) - [pipexec: Handling pipe of commands like a single command](https://github.com/flonatel/pipexec)
 * [2024-03-14, 13:45:46](https://lobste.rs/s/mibsxb/announcing_ibis_federated_wikipedia) - [Announcing Ibis, the federated Wikipedia Alternative](https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative@ibis.wiki)
