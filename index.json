@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-14, 10:06:29",
+      "https://lobste.rs/s/hkombo/numpy_vs_blas_losing_90_throughput"
+    ],
+    [
+      "NumPy vs BLAS: Losing 90% of Throughput",
+      "https://ashvardanian.com/posts/numpy-vs-blas-costs/"
+    ]
+  ],
+  [
+    [
       "2024-03-14, 09:39:46",
       "https://lobste.rs/s/pj2lyp/exaloglog_space_efficient_practical"
     ],
@@ -137,16 +147,6 @@
     [
       "Iterators and traversables",
       "https://without.boats/blog/iterators-and-traversables/"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 16:00:18",
-      "https://lobste.rs/s/rtb0kv/incremental_insertion_into_prolly_trees"
-    ],
-    [
-      "Incremental insertion into Prolly Trees",
-      "https://interjectedfuture.com/lab-notes/lab-note-034-incremental-insertion-into-prolly-trees/"
     ]
   ],
   [
