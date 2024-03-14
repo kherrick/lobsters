@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-14, 14:08:05](https://lobste.rs/s/hvbroz/digital_forgeries_are_hard) - [Digital forgeries are hard](https://mjg59.dreamwidth.org/69507.html)
+* [2024-03-14, 14:01:22](https://lobste.rs/s/xqdnek/pipexec_handling_pipe_commands_like) - [pipexec: Handling pipe of commands like a single command](https://github.com/flonatel/pipexec)
 * [2024-03-14, 13:45:46](https://lobste.rs/s/mibsxb/announcing_ibis_federated_wikipedia) - [Announcing Ibis, the federated Wikipedia Alternative](https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative@ibis.wiki)
 * [2024-03-14, 12:20:03](https://lobste.rs/s/t96fof/slint_1_5_embracing_android_improving) - [Slint 1.5: Embracing Android, Improving Live-Preview, and Pythonic Slint](https://slint.dev/blog/slint-1.5-released)
 * [2024-03-14, 12:06:13](https://lobste.rs/s/6k8wiy/complications_typographic_size_on_web) - [The complications of typographic size on the web](https://fonts.google.com/knowledge/using_type/the_complications_of_typographic_size)
@@ -21,8 +23,6 @@
 * [2024-03-13, 14:50:33](https://lobste.rs/s/sqnezh/introducing_flakehub_cache) - [Introducing FlakeHub Cache](https://determinate.systems/posts/flakehub-cache-beta)
 * [2024-03-13, 14:40:07](https://lobste.rs/s/lxkbkz/what_is_this_architecture_called) - [What is this architecture called?](https://gist.github.com/quad/bc2351e2df4a4a815f8e0d19f36cfa80)
 * [2024-03-13, 11:10:23](https://lobste.rs/s/q5hu1q/rust_flashcards_557_cards_learn_rust_from) - [Rust Flashcards - 557 cards to learn Rust from first principles](https://github.com/ad-si/Rust-Flashcards)
-* [2024-03-13, 05:30:08](https://lobste.rs/s/cbhj5h/tex_live_2024_released_iso_available_for) - [TeX Live 2024 released - ISO available for download via torrent file and magnet](https://www.texastim.dev/texlive/2024/03/12/texlive.html)
-* [2024-03-13, 05:23:48](https://lobste.rs/s/labhzs/intel_continues_prepping_linux_kernel) - [Intel Continues Prepping The Linux Kernel For X86S](https://www.phoronix.com/news/Linux-6.9-More-X86S)
 * [2024-03-13, 05:10:16](https://lobste.rs/s/r9lewl/why_facebook_doesn_t_use_git) - [Why Facebook doesn't use Git](https://graphite.dev/blog/why-facebook-doesnt-use-git)
 * [2024-03-12, 18:29:08](https://lobste.rs/s/pp6l2o/state_terminal) - [State of the Terminal](https://gpanders.com/blog/state-of-the-terminal/)
 

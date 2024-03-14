@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 14:08:05](https://lobste.rs/s/hvbroz/digital_forgeries_are_hard) - [Digital forgeries are hard](https://mjg59.dreamwidth.org/69507.html)
+* [2024-03-14, 14:01:22](https://lobste.rs/s/xqdnek/pipexec_handling_pipe_commands_like) - [pipexec: Handling pipe of commands like a single command](https://github.com/flonatel/pipexec)
 * [2024-03-14, 13:45:46](https://lobste.rs/s/mibsxb/announcing_ibis_federated_wikipedia) - [Announcing Ibis, the federated Wikipedia Alternative](https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative@ibis.wiki)
 * [2024-03-14, 12:20:03](https://lobste.rs/s/t96fof/slint_1_5_embracing_android_improving) - [Slint 1.5: Embracing Android, Improving Live-Preview, and Pythonic Slint](https://slint.dev/blog/slint-1.5-released)
 * [2024-03-14, 12:06:13](https://lobste.rs/s/6k8wiy/complications_typographic_size_on_web) - [The complications of typographic size on the web](https://fonts.google.com/knowledge/using_type/the_complications_of_typographic_size)
