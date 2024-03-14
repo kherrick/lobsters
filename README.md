@@ -9,7 +9,7 @@
 * [2024-03-14, 12:20:03](https://lobste.rs/s/t96fof/slint_1_5_embracing_android_improving) - [Slint 1.5: Embracing Android, Improving Live-Preview, and Pythonic Slint](https://slint.dev/blog/slint-1.5-released)
 * [2024-03-14, 12:06:13](https://lobste.rs/s/6k8wiy/complications_typographic_size_on_web) - [The complications of typographic size on the web](https://fonts.google.com/knowledge/using_type/the_complications_of_typographic_size)
 * [2024-03-14, 11:42:23](https://lobste.rs/s/fadirr/security_txt_wild) - [Security.txt in the wild](https://blog.ovalerio.net/archives/2818)
-* [2024-03-14, 11:20:15](https://lobste.rs/s/ctt2il/what_does_process_submitting_paper) - [What does the process of submitting a paper to Usenix looks like?](https://youtu.be/gAEiXWO44bQ)
+* [2024-03-14, 11:20:15](https://lobste.rs/s/ctt2il/what_does_process_submitting_paper) - [What does the process of submitting a paper to Usenix look like?](https://youtu.be/gAEiXWO44bQ)
 * [2024-03-14, 10:06:29](https://lobste.rs/s/hkombo/numpy_vs_blas_losing_90_throughput) - [NumPy vs BLAS: Losing 90% of Throughput](https://ashvardanian.com/posts/numpy-vs-blas-costs/)
 * [2024-03-14, 09:39:46](https://lobste.rs/s/pj2lyp/exaloglog_space_efficient_practical) - [ExaLogLog: Space-Efficient and Practical Approximate Distinct Counting up to the Exa-Scale](https://arxiv.org/abs/2402.13726)
 * [2024-03-14, 08:36:53](https://lobste.rs/s/rbdfmk/range_joins_duckdb) - [Range Joins in DuckDB](https://duckdb.org/2022/05/27/iejoin.html)
