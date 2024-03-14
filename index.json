@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-14, 17:37:20",
+      "https://lobste.rs/s/quyacp/rolldown_rust_bundler_for_javascript"
+    ],
+    [
+      "Rolldown: Rust bundler for JavaScript",
+      "https://rolldown.rs/about"
+    ]
+  ],
+  [
+    [
       "2024-03-14, 17:03:42",
       "https://lobste.rs/s/owaodf/introducing_sunlight_ct_implementation"
     ],
@@ -237,16 +247,6 @@
     [
       "Why Facebook doesn't use Git",
       "https://graphite.dev/blog/why-facebook-doesnt-use-git"
-    ]
-  ],
-  [
-    [
-      "2024-03-12, 18:29:08",
-      "https://lobste.rs/s/pp6l2o/state_terminal"
-    ],
-    [
-      "State of the Terminal",
-      "https://gpanders.com/blog/state-of-the-terminal/"
     ]
   ]
 ]
