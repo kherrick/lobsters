@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-14, 12:20:03",
+      "https://lobste.rs/s/t96fof/slint_1_5_embracing_android_improving"
+    ],
+    [
+      "Slint 1.5: Embracing Android, Improving Live-Preview, and Pythonic Slint",
+      "https://slint.dev/blog/slint-1.5-released"
+    ]
+  ],
+  [
+    [
+      "2024-03-14, 12:06:13",
+      "https://lobste.rs/s/6k8wiy/complications_typographic_size_on_web"
+    ],
+    [
+      "The complications of typographic size on the web",
+      "https://fonts.google.com/knowledge/using_type/the_complications_of_typographic_size"
+    ]
+  ],
+  [
+    [
       "2024-03-14, 11:42:23",
       "https://lobste.rs/s/fadirr/security_txt_wild"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-03-13, 15:59:39",
-      "https://lobste.rs/s/hbzlse/cdebug_swiss_army_knife_container"
-    ],
-    [
-      "cdebug: a swiss army knife of container debugging",
-      "https://github.com/iximiuz/cdebug"
-    ]
-  ],
-  [
-    [
       "2024-03-13, 14:50:33",
       "https://lobste.rs/s/sqnezh/introducing_flakehub_cache"
     ],
@@ -237,16 +247,6 @@
     [
       "State of the Terminal",
       "https://gpanders.com/blog/state-of-the-terminal/"
-    ]
-  ],
-  [
-    [
-      "2024-03-12, 14:04:42",
-      "https://lobste.rs/s/7noj7v/overdue_status_update_on_darklang"
-    ],
-    [
-      "An overdue status update on Darklang",
-      "https://blog.darklang.com/an-overdue-status-update/"
     ]
   ]
 ]
