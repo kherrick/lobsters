@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-14, 09:39:46",
+      "https://lobste.rs/s/pj2lyp/exaloglog_space_efficient_practical"
+    ],
+    [
+      "ExaLogLog: Space-Efficient and Practical Approximate Distinct Counting up to the Exa-Scale",
+      "https://arxiv.org/abs/2402.13726"
+    ]
+  ],
+  [
+    [
       "2024-03-14, 08:36:53",
       "https://lobste.rs/s/rbdfmk/range_joins_duckdb"
     ],
@@ -167,16 +177,6 @@
     [
       "What is this architecture called?",
       "https://gist.github.com/quad/bc2351e2df4a4a815f8e0d19f36cfa80"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 13:34:54",
-      "https://lobste.rs/s/mo5cdq/email_testing_with_python_s_smtpd_module"
-    ],
-    [
-      "Email Testing with Python's smtpd Module",
-      "https://muhammadraza.me/2024/Python-Commandline-Tools-Part-1/"
     ]
   ],
   [
