@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 17:44:16](https://lobste.rs/s/32wyty/what_mob_programming_is_bad_at) - [What Mob Programming is Bad At](https://buttondown.email/hillelwayne/archive/what-mob-programming-is-bad-at/)
 * [2024-03-14, 17:37:20](https://lobste.rs/s/quyacp/rolldown_rust_bundler_for_javascript) - [Rolldown: Rust bundler for JavaScript](https://rolldown.rs/about)
 * [2024-03-14, 17:03:42](https://lobste.rs/s/owaodf/introducing_sunlight_ct_implementation) - [Introducing Sunlight, a CT implementation built for scalability, ease of operation, and reduced cost -  Let's Encrypt](https://letsencrypt.org/2024/03/14/introducing-sunlight)
 * [2024-03-14, 16:01:47](https://lobste.rs/s/cyeau6/reverse_engineering_car_key_fob_signal) - [Reverse engineering a car key fob signal, Part 1](https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html)
