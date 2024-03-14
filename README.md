@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-14, 03:55:06](https://lobste.rs/s/jjfm3k/yx_problem_structure_interpretation) - [YX problem | Structure and Interpretation of Computer Programmers](https://www.sicpers.info/2024/03/yx-problem/)
 * [2024-03-14, 03:18:16](https://lobste.rs/s/cdptdu/robust_contract_evolution_typesafe) - [Robust Contract Evolution in a TypeSafe MicroServices Architecture](https://arxiv.org/abs/2002.06185)
 * [2024-03-14, 00:27:30](https://lobste.rs/s/aari0g/call_by_hash) - [Call by hash](https://garnix.io/blog/call-by-hash)
 * [2024-03-13, 22:56:17](https://lobste.rs/s/nrndci/perfect_neovim_ansible_setup) - [Perfect Neovim Ansible Setup](https://vermaden.wordpress.com/2024/03/13/perfect-neovim-ansible-setup/)
 * [2024-03-13, 22:22:33](https://lobste.rs/s/hdlz6u/ultimate_ideal_bestest_base_font_size) - [The Ultimate Ideal Bestest Base Font Size That Everyone Is Keeping a Secret, Especially Chet](https://adrianroselli.com/2024/03/the-ultimate-ideal-bestest-base-font-size-that-everyone-is-keeping-a-secret-especially-chet.html)
-* [2024-03-13, 21:55:07](https://lobste.rs/s/r6ycki/gpqa_graduate_level_google_proof_q) - [GPQA: A Graduate-Level Google-Proof Q&A Benchmark](https://arxiv.org/abs/2311.12022)
 * [2024-03-13, 21:19:30](https://lobste.rs/s/wlxikn/ui_algorithms_drag_reordering_2022) - [UI Algorithms: Drag-reordering (2022)](https://blog.julik.nl/2022/10/drag-reordering)
 * [2024-03-13, 20:47:49](https://lobste.rs/s/olredv/neon_serverless_postgresql_heikki) - [Neon: Serverless PostgreSQL! (Heikki Linnakangas)](https://www.youtube.com/watch?v=rES0yzeERns)
 * [2024-03-13, 20:05:28](https://lobste.rs/s/b7vyev/pre_hashing_large_password_files_used) - [Pre-hashing large password files used with PBKDFs](https://notes.volution.ro/v1/2024/03/remarks/810d7404/)
