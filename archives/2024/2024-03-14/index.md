@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 16:01:47](https://lobste.rs/s/cyeau6/reverse_engineering_car_key_fob_signal) - [Reverse engineering a car key fob signal, Part 1](https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html)
 * [2024-03-14, 15:15:58](https://lobste.rs/s/9jc7qb/hackers_can_read_private_ai_assistant) - [Hackers can read private AI assistant chats even though they’re encrypted](https://arstechnica.com/?p=2010039)
 * [2024-03-14, 14:46:14](https://lobste.rs/s/lk03rc/create_postgresql_extensions_using_zig) - [Create PostgreSQL extensions using Zig](https://github.com/xataio/pgzx)
 * [2024-03-14, 14:39:54](https://lobste.rs/s/xo9n89/least_frequently_used_cache_o_1) - [Least Frequently Used Cache in O(1)](https://github.com/teivah/go-lfu)
