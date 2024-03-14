@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-03-14, 11:14:18",
-      "https://lobste.rs/s/zp316a/estimate_your_age_death"
-    ],
-    [
-      "Estimate your age of death",
-      "https://lars.yencken.org/tools/age-of-death"
-    ]
-  ],
-  [
-    [
       "2024-03-14, 10:06:29",
       "https://lobste.rs/s/hkombo/numpy_vs_blas_losing_90_throughput"
     ],
@@ -247,6 +237,16 @@
     [
       "State of the Terminal",
       "https://gpanders.com/blog/state-of-the-terminal/"
+    ]
+  ],
+  [
+    [
+      "2024-03-12, 14:04:42",
+      "https://lobste.rs/s/7noj7v/overdue_status_update_on_darklang"
+    ],
+    [
+      "An overdue status update on Darklang",
+      "https://blog.darklang.com/an-overdue-status-update/"
     ]
   ]
 ]
