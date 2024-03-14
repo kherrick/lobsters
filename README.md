@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-14, 18:05:51](https://lobste.rs/s/kmzucs/can_you_share_some_creative_pages_is) - [Can you share some creative pages that is lightweight, simple with no trackings/no ads?](https://lobste.rs/s/kmzucs/can_you_share_some_creative_pages_is)
 * [2024-03-14, 17:44:16](https://lobste.rs/s/32wyty/what_mob_programming_is_bad_at) - [What Mob Programming is Bad At](https://buttondown.email/hillelwayne/archive/what-mob-programming-is-bad-at/)
 * [2024-03-14, 17:37:20](https://lobste.rs/s/quyacp/rolldown_rust_bundler_for_javascript) - [Rolldown: Rust bundler for JavaScript](https://rolldown.rs/about)
 * [2024-03-14, 17:03:42](https://lobste.rs/s/owaodf/introducing_sunlight_ct_implementation) - [Introducing Sunlight, a CT implementation built for scalability, ease of operation, and reduced cost](https://letsencrypt.org/2024/03/14/introducing-sunlight)
 * [2024-03-14, 16:01:47](https://lobste.rs/s/cyeau6/reverse_engineering_car_key_fob_signal) - [Reverse engineering a car key fob signal, Part 1](https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html)
-* [2024-03-14, 15:15:58](https://lobste.rs/s/9jc7qb/hackers_can_read_private_ai_assistant) - [Hackers can read private AI assistant chats even though they’re encrypted](https://arstechnica.com/?p=2010039)
 * [2024-03-14, 14:46:14](https://lobste.rs/s/lk03rc/create_postgresql_extensions_using_zig) - [Create PostgreSQL extensions using Zig](https://github.com/xataio/pgzx)
 * [2024-03-14, 14:39:54](https://lobste.rs/s/xo9n89/least_frequently_used_cache_o_1) - [Least Frequently Used Cache in O(1)](https://github.com/teivah/go-lfu)
 * [2024-03-14, 14:08:05](https://lobste.rs/s/hvbroz/digital_forgeries_are_hard) - [Digital forgeries are hard](https://mjg59.dreamwidth.org/69507.html)

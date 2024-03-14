@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 18:05:51](https://lobste.rs/s/kmzucs/can_you_share_some_creative_pages_is) - [Can you share some creative pages that is lightweight, simple with no trackings/no ads?](https://lobste.rs/s/kmzucs/can_you_share_some_creative_pages_is)
 * [2024-03-14, 17:44:16](https://lobste.rs/s/32wyty/what_mob_programming_is_bad_at) - [What Mob Programming is Bad At](https://buttondown.email/hillelwayne/archive/what-mob-programming-is-bad-at/)
 * [2024-03-14, 17:37:20](https://lobste.rs/s/quyacp/rolldown_rust_bundler_for_javascript) - [Rolldown: Rust bundler for JavaScript](https://rolldown.rs/about)
 * [2024-03-14, 17:03:42](https://lobste.rs/s/owaodf/introducing_sunlight_ct_implementation) - [Introducing Sunlight, a CT implementation built for scalability, ease of operation, and reduced cost -  Let's Encrypt](https://letsencrypt.org/2024/03/14/introducing-sunlight)
