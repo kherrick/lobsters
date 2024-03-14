@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-14, 14:39:54",
+      "https://lobste.rs/s/xo9n89/least_frequently_used_cache_o_1"
+    ],
+    [
+      "Least Frequently Used Cache in O(1)",
+      "https://github.com/teivah/go-lfu"
+    ]
+  ],
+  [
+    [
       "2024-03-14, 14:08:05",
       "https://lobste.rs/s/hvbroz/digital_forgeries_are_hard"
     ],
@@ -97,16 +107,6 @@
     [
       "Range Joins in DuckDB",
       "https://duckdb.org/2022/05/27/iejoin.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 06:06:12",
-      "https://lobste.rs/s/yxdfb2/what_s_next_for_global_design_system"
-    ],
-    [
-      "What's Next for a Global Design System",
-      "https://bradfrost.com/blog/post/whats-next-for-a-global-design-system/"
     ]
   ],
   [
