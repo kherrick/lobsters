@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-14, 17:44:16",
+      "https://lobste.rs/s/32wyty/what_mob_programming_is_bad_at"
+    ],
+    [
+      "What Mob Programming is Bad At",
+      "https://buttondown.email/hillelwayne/archive/what-mob-programming-is-bad-at/"
+    ]
+  ],
+  [
+    [
       "2024-03-14, 17:37:20",
       "https://lobste.rs/s/quyacp/rolldown_rust_bundler_for_javascript"
     ],
@@ -15,7 +25,7 @@
       "https://lobste.rs/s/owaodf/introducing_sunlight_ct_implementation"
     ],
     [
-      "Introducing Sunlight, a CT implementation built for scalability, ease of operation, and reduced cost -  Let's Encrypt",
+      "Introducing Sunlight, a CT implementation built for scalability, ease of operation, and reduced cost",
       "https://letsencrypt.org/2024/03/14/introducing-sunlight"
     ]
   ],
@@ -147,16 +157,6 @@
     [
       "ExaLogLog: Space-Efficient and Practical Approximate Distinct Counting up to the Exa-Scale",
       "https://arxiv.org/abs/2402.13726"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 08:36:53",
-      "https://lobste.rs/s/rbdfmk/range_joins_duckdb"
-    ],
-    [
-      "Range Joins in DuckDB",
-      "https://duckdb.org/2022/05/27/iejoin.html"
     ]
   ],
   [
