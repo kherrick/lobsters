@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-14, 14:08:05",
+      "https://lobste.rs/s/hvbroz/digital_forgeries_are_hard"
+    ],
+    [
+      "Digital forgeries are hard",
+      "https://mjg59.dreamwidth.org/69507.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-14, 14:01:22",
+      "https://lobste.rs/s/xqdnek/pipexec_handling_pipe_commands_like"
+    ],
+    [
+      "pipexec: Handling pipe of commands like a single command",
+      "https://github.com/flonatel/pipexec"
+    ]
+  ],
+  [
+    [
       "2024-03-14, 13:45:46",
       "https://lobste.rs/s/mibsxb/announcing_ibis_federated_wikipedia"
     ],
@@ -207,26 +227,6 @@
     [
       "Rust Flashcards - 557 cards to learn Rust from first principles",
       "https://github.com/ad-si/Rust-Flashcards"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 05:30:08",
-      "https://lobste.rs/s/cbhj5h/tex_live_2024_released_iso_available_for"
-    ],
-    [
-      "TeX Live 2024 released - ISO available for download via torrent file and magnet",
-      "https://www.texastim.dev/texlive/2024/03/12/texlive.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 05:23:48",
-      "https://lobste.rs/s/labhzs/intel_continues_prepping_linux_kernel"
-    ],
-    [
-      "Intel Continues Prepping The Linux Kernel For X86S",
-      "https://www.phoronix.com/news/Linux-6.9-More-X86S"
     ]
   ],
   [
