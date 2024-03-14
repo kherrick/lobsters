@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-14, 20:31:11",
+      "https://lobste.rs/s/jgbi0e/more_powerful_go_execution_traces"
+    ],
+    [
+      "More powerful Go execution traces",
+      "https://go.dev/blog/execution-traces-2024"
+    ]
+  ],
+  [
+    [
       "2024-03-14, 18:22:51",
       "https://lobste.rs/s/mkaigy/solover_is_simple_expressive_versioning"
     ],
@@ -187,16 +197,6 @@
     [
       "Call by hash",
       "https://garnix.io/blog/call-by-hash"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 22:22:33",
-      "https://lobste.rs/s/hdlz6u/ultimate_ideal_bestest_base_font_size"
-    ],
-    [
-      "The Ultimate Ideal Bestest Base Font Size That Everyone Is Keeping a Secret, Especially Chet",
-      "https://adrianroselli.com/2024/03/the-ultimate-ideal-bestest-base-font-size-that-everyone-is-keeping-a-secret-especially-chet.html"
     ]
   ],
   [
