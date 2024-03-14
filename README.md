@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-03-14, 18:49:21](https://lobste.rs/s/fjm6kx/different_kind_ct_log) - [A different kind of CT log](https://filippo.io/a-different-CT-log)
 * [2024-03-14, 18:22:51](https://lobste.rs/s/mkaigy/solover_is_simple_expressive_versioning) - [SoloVer is a simple and expressive versioning specification](https://beza1e1.tuxen.de/SoloVer)
 * [2024-03-14, 18:20:28](https://lobste.rs/s/dlpl1r/today_we_launched_flox_1_0) - [Today we launched Flox 1.0](https://tinkering.xyz/releasing-flox/)
 * [2024-03-14, 18:05:51](https://lobste.rs/s/kmzucs/can_you_share_some_creative_pages_is) - [Can you share some creative pages that is lightweight, simple with no trackings/no ads?](https://lobste.rs/s/kmzucs/can_you_share_some_creative_pages_is)
@@ -20,6 +19,7 @@
 * [2024-03-14, 09:39:46](https://lobste.rs/s/pj2lyp/exaloglog_space_efficient_practical) - [ExaLogLog: Space-Efficient and Practical Approximate Distinct Counting up to the Exa-Scale](https://arxiv.org/abs/2402.13726)
 * [2024-03-14, 03:55:06](https://lobste.rs/s/jjfm3k/yx_problem) - [YX problem](https://www.sicpers.info/2024/03/yx-problem/)
 * [2024-03-14, 00:27:30](https://lobste.rs/s/aari0g/call_by_hash) - [Call by hash](https://garnix.io/blog/call-by-hash)
+* [2024-03-13, 22:22:33](https://lobste.rs/s/hdlz6u/ultimate_ideal_bestest_base_font_size) - [The Ultimate Ideal Bestest Base Font Size That Everyone Is Keeping a Secret, Especially Chet](https://adrianroselli.com/2024/03/the-ultimate-ideal-bestest-base-font-size-that-everyone-is-keeping-a-secret-especially-chet.html)
 * [2024-03-13, 20:02:41](https://lobste.rs/s/u8tjze/expat_2_6_2_released_includes_security) - [Expat 2.6.2 released, includes security fixes](https://blog.hartwork.org/posts/expat-2-6-2-released/)
 * [2024-03-13, 14:50:33](https://lobste.rs/s/sqnezh/introducing_flakehub_cache) - [Introducing FlakeHub Cache](https://determinate.systems/posts/flakehub-cache-beta)
 * [2024-03-13, 14:40:07](https://lobste.rs/s/lxkbkz/what_is_this_architecture_called) - [What is this architecture called?](https://gist.github.com/quad/bc2351e2df4a4a815f8e0d19f36cfa80)
