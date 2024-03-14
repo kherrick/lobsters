@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-14, 21:07:18",
+      "https://lobste.rs/s/zjtmer/st3000dm001"
+    ],
+    [
+      "ST3000DM001",
+      "https://en.wikipedia.org/wiki/ST3000DM001"
+    ]
+  ],
+  [
+    [
       "2024-03-14, 20:31:11",
       "https://lobste.rs/s/jgbi0e/more_powerful_go_execution_traces"
     ],
@@ -237,16 +247,6 @@
     [
       "Rust Flashcards - 557 cards to learn Rust from first principles",
       "https://github.com/ad-si/Rust-Flashcards"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 05:10:16",
-      "https://lobste.rs/s/r9lewl/why_facebook_doesn_t_use_git"
-    ],
-    [
-      "Why Facebook doesn't use Git",
-      "https://graphite.dev/blog/why-facebook-doesnt-use-git"
     ]
   ]
 ]
