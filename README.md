@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-14, 15:15:58](https://lobste.rs/s/9jc7qb/hackers_can_read_private_ai_assistant) - [Hackers can read private AI assistant chats even though they’re encrypted](https://arstechnica.com/?p=2010039)
 * [2024-03-14, 14:46:14](https://lobste.rs/s/lk03rc/create_postgresql_extensions_using_zig) - [Create PostgreSQL extensions using Zig](https://github.com/xataio/pgzx)
 * [2024-03-14, 14:39:54](https://lobste.rs/s/xo9n89/least_frequently_used_cache_o_1) - [Least Frequently Used Cache in O(1)](https://github.com/teivah/go-lfu)
 * [2024-03-14, 14:08:05](https://lobste.rs/s/hvbroz/digital_forgeries_are_hard) - [Digital forgeries are hard](https://mjg59.dreamwidth.org/69507.html)
@@ -16,7 +17,6 @@
 * [2024-03-14, 00:27:30](https://lobste.rs/s/aari0g/call_by_hash) - [Call by hash](https://garnix.io/blog/call-by-hash)
 * [2024-03-13, 22:56:17](https://lobste.rs/s/nrndci/perfect_neovim_ansible_setup) - [Perfect Neovim Ansible Setup](https://vermaden.wordpress.com/2024/03/13/perfect-neovim-ansible-setup/)
 * [2024-03-13, 22:22:33](https://lobste.rs/s/hdlz6u/ultimate_ideal_bestest_base_font_size) - [The Ultimate Ideal Bestest Base Font Size That Everyone Is Keeping a Secret, Especially Chet](https://adrianroselli.com/2024/03/the-ultimate-ideal-bestest-base-font-size-that-everyone-is-keeping-a-secret-especially-chet.html)
-* [2024-03-13, 20:05:28](https://lobste.rs/s/b7vyev/pre_hashing_large_password_files_used) - [Pre-hashing large password files used with PBKDFs](https://notes.volution.ro/v1/2024/03/remarks/810d7404/)
 * [2024-03-13, 20:02:41](https://lobste.rs/s/u8tjze/expat_2_6_2_released_includes_security) - [Expat 2.6.2 released, includes security fixes](https://blog.hartwork.org/posts/expat-2-6-2-released/)
 * [2024-03-13, 19:46:42](https://lobste.rs/s/lphl0x/s3_as_universal_infrastructure_backend) - [S3 as the universal infrastructure backend](https://medium.com/innovationendeavors/s3-as-the-universal-infrastructure-backend-a104a8cc6991)
 * [2024-03-13, 17:04:54](https://lobste.rs/s/rwufjh/iterators_traversables) - [Iterators and traversables](https://without.boats/blog/iterators-and-traversables/)

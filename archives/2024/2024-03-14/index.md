@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-14](index.md)
 
+* [2024-03-14, 15:15:58](https://lobste.rs/s/9jc7qb/hackers_can_read_private_ai_assistant) - [Hackers can read private AI assistant chats even though they’re encrypted](https://arstechnica.com/?p=2010039)
 * [2024-03-14, 14:46:14](https://lobste.rs/s/lk03rc/create_postgresql_extensions_using_zig) - [Create PostgreSQL extensions using Zig](https://github.com/xataio/pgzx)
 * [2024-03-14, 14:39:54](https://lobste.rs/s/xo9n89/least_frequently_used_cache_o_1) - [Least Frequently Used Cache in O(1)](https://github.com/teivah/go-lfu)
 * [2024-03-14, 14:08:05](https://lobste.rs/s/hvbroz/digital_forgeries_are_hard) - [Digital forgeries are hard](https://mjg59.dreamwidth.org/69507.html)
