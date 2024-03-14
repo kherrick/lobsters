@@ -4,7 +4,6 @@
 * [2024-03-14, 12:06:13](https://lobste.rs/s/6k8wiy/complications_typographic_size_on_web) - [The complications of typographic size on the web](https://fonts.google.com/knowledge/using_type/the_complications_of_typographic_size)
 * [2024-03-14, 11:42:23](https://lobste.rs/s/fadirr/security_txt_wild) - [Security.txt in the wild](https://blog.ovalerio.net/archives/2818)
 * [2024-03-14, 11:20:15](https://lobste.rs/s/ctt2il/what_does_process_submitting_paper) - [What does the process of submitting a paper to Usenix looks like?](https://youtu.be/gAEiXWO44bQ)
-* [2024-03-14, 11:14:18](https://lobste.rs/s/zp316a/estimate_your_age_death) - [Estimate your age of death](https://lars.yencken.org/tools/age-of-death)
 * [2024-03-14, 10:06:29](https://lobste.rs/s/hkombo/numpy_vs_blas_losing_90_throughput) - [NumPy vs BLAS: Losing 90% of Throughput](https://ashvardanian.com/posts/numpy-vs-blas-costs/)
 * [2024-03-14, 09:39:46](https://lobste.rs/s/pj2lyp/exaloglog_space_efficient_practical) - [ExaLogLog: Space-Efficient and Practical Approximate Distinct Counting up to the Exa-Scale](https://arxiv.org/abs/2402.13726)
 * [2024-03-14, 08:36:53](https://lobste.rs/s/rbdfmk/range_joins_duckdb) - [Range Joins in DuckDB](https://duckdb.org/2022/05/27/iejoin.html)
@@ -25,6 +24,7 @@
 * [2024-03-13, 05:23:48](https://lobste.rs/s/labhzs/intel_continues_prepping_linux_kernel) - [Intel Continues Prepping The Linux Kernel For X86S](https://www.phoronix.com/news/Linux-6.9-More-X86S)
 * [2024-03-13, 05:10:16](https://lobste.rs/s/r9lewl/why_facebook_doesn_t_use_git) - [Why Facebook doesn't use Git](https://graphite.dev/blog/why-facebook-doesnt-use-git)
 * [2024-03-12, 18:29:08](https://lobste.rs/s/pp6l2o/state_terminal) - [State of the Terminal](https://gpanders.com/blog/state-of-the-terminal/)
+* [2024-03-12, 14:04:42](https://lobste.rs/s/7noj7v/overdue_status_update_on_darklang) - [An overdue status update on Darklang](https://blog.darklang.com/an-overdue-status-update/)
 
 ## [Archives](archives/index.md)
 
