@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-14, 14:46:14",
+      "https://lobste.rs/s/lk03rc/create_postgresql_extensions_using_zig"
+    ],
+    [
+      "Create PostgreSQL extensions using Zig",
+      "https://github.com/xataio/pgzx"
+    ]
+  ],
+  [
+    [
       "2024-03-14, 14:39:54",
       "https://lobste.rs/s/xo9n89/least_frequently_used_cache_o_1"
     ],
@@ -147,16 +157,6 @@
     [
       "The Ultimate Ideal Bestest Base Font Size That Everyone Is Keeping a Secret, Especially Chet",
       "https://adrianroselli.com/2024/03/the-ultimate-ideal-bestest-base-font-size-that-everyone-is-keeping-a-secret-especially-chet.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 20:47:49",
-      "https://lobste.rs/s/olredv/neon_serverless_postgresql_heikki"
-    ],
-    [
-      "Neon: Serverless PostgreSQL! (Heikki Linnakangas)",
-      "https://www.youtube.com/watch?v=rES0yzeERns"
     ]
   ],
   [
