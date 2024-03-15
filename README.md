@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-15, 15:30:23](https://lobste.rs/s/mqq4v9/haiku_activity_contract_report_february) - [Haiku Activity & Contract Report, February 2024](https://www.haiku-os.org/blog/waddlesplash/2024-03-14_haiku_activity_contract_report_february_2024)
 * [2024-03-15, 15:21:07](https://lobste.rs/s/t9shpe/how_approach_reduce_problem) - [How to approach a reduce problem](https://thoughtbot.com/blog/how-to-approach-a-reduce-problem)
 * [2024-03-15, 14:41:35](https://lobste.rs/s/py0gxl/my_experience_installing_using_guix) - [My Experience Installing And Using The Guix System](https://medium.com/@kkmvv/installing-and-using-the-guix-system-a616202a2537)
 * [2024-03-15, 13:26:50](https://lobste.rs/s/ngdrbc/montreal_problem_why_programming) - [The Montreal Problem: Why Programming Languages Need a Style Czar](https://earthly.dev/blog/language-style-czar/)
-* [2024-03-15, 13:13:35](https://lobste.rs/s/6abo9u/regex_chess_combined_outrageous) - [Regex and Chess Combined!? - An Outrageous Codewars Solution to Find if a King is in Check](https://www.youtube.com/watch?v=fhNc0q5N3p0)
 * [2024-03-15, 11:26:22](https://lobste.rs/s/mlek1h/onboarding_roulette_deleting_our) - [Onboarding roulette: deleting our employee accounts daily](https://graphite.dev/blog/onboarding-roulette)
 * [2024-03-15, 11:19:26](https://lobste.rs/s/fkhdwk/bincapz_enumerate_binary_capabilities) - [bincapz: enumerate binary capabilities, including malicious behaviors](https://github.com/chainguard-dev/bincapz)
 * [2024-03-15, 10:53:31](https://lobste.rs/s/gwsilq/iam_is_worst) - [IAM Is The Worst](https://matduggan.com/iam-is-the-worst/)
