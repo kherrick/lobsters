@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-15, 15:21:07",
+      "https://lobste.rs/s/t9shpe/how_approach_reduce_problem"
+    ],
+    [
+      "How to approach a reduce problem",
+      "https://thoughtbot.com/blog/how-to-approach-a-reduce-problem"
+    ]
+  ],
+  [
+    [
       "2024-03-15, 14:41:35",
       "https://lobste.rs/s/py0gxl/my_experience_installing_using_guix"
     ],
@@ -237,16 +247,6 @@
     [
       "Announcing Ibis, the federated Wikipedia Alternative",
       "https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative@ibis.wiki"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 00:27:30",
-      "https://lobste.rs/s/aari0g/call_by_hash"
-    ],
-    [
-      "Call by hash",
-      "https://garnix.io/blog/call-by-hash"
     ]
   ]
 ]
