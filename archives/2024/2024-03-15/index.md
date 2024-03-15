@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
+* [2024-03-15, 22:52:05](https://lobste.rs/s/qoauq0/bending_pause_times_your_will_with) - [Bending pause times to your will with Generational ZGC](https://netflixtechblog.com/bending-pause-times-to-your-will-with-generational-zgc-256629c9386b)
 * [2024-03-15, 21:55:37](https://lobste.rs/s/yx1vis/tokamak_web_framework_for_zig) - [Tokamak: A web framework for Zig](https://tomsik.cz/posts/tokamak/)
 * [2024-03-15, 21:06:08](https://lobste.rs/s/lfg3lj/zig_rust_other_languages) - [Zig, Rust, and other languages](https://notes.eatonphil.com/2024-03-15-zig-rust-and-other-languages.html)
 * [2024-03-15, 19:51:42](https://lobste.rs/s/6brpob/t_digest_efficient_estimates_quantiles) - [The t-digest: Efficient estimates of quantiles](https://www.sciencedirect.com/science/article/pii/S2665963820300403)
