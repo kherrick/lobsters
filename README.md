@@ -2,7 +2,6 @@
 
 * [2024-03-15, 06:07:17](https://lobste.rs/s/dpkose/compressing_chess_moves_for_fun_profit) - [Compressing Chess Moves for Fun and Profit](https://mbuffett.com/posts/compressing-chess-moves/)
 * [2024-03-15, 04:49:33](https://lobste.rs/s/w4xnbg/optimizing_matrix_multiplication_with) - [Optimizing Matrix Multiplication with Zig](https://svaniksharma.github.io/posts/2023-05-07-optimizing-matrix-multiplication-with-zig/)
-* [2024-03-15, 04:44:47](https://lobste.rs/s/kpi2xx/what_s_most_interesting_automation_you) - [What’s the most interesting automation you have created?](https://lobste.rs/s/kpi2xx/what_s_most_interesting_automation_you)
 * [2024-03-15, 03:41:23](https://lobste.rs/s/hhfs13/bellroy_technology_team_2023_review) - [Bellroy Technology Team: 2023 in Review](https://exploring-better-ways.bellroy.com/bellroy-technology-team-2023-in-review.html)
 * [2024-03-15, 02:32:57](https://lobste.rs/s/rxut3x/not_so_quickly_extending_quic) - [Not so quickly extending QUIC](https://lwn.net/Articles/964377/)
 * [2024-03-15, 02:11:41](https://lobste.rs/s/mb1iim/achieving_awful_compression_with_digits) - [Achieving awful compression with digits of pi](https://ntietz.com/blog/why-we-cant-compress-messages-with-pi/)
@@ -18,6 +17,7 @@
 * [2024-03-14, 14:46:14](https://lobste.rs/s/lk03rc/create_postgresql_extensions_using_zig) - [Create PostgreSQL extensions using Zig](https://github.com/xataio/pgzx)
 * [2024-03-14, 14:39:54](https://lobste.rs/s/xo9n89/least_frequently_used_cache_o_1) - [Least Frequently Used Cache in O(1)](https://github.com/teivah/go-lfu)
 * [2024-03-14, 14:08:05](https://lobste.rs/s/hvbroz/digital_forgeries_are_hard) - [Digital forgeries are hard](https://mjg59.dreamwidth.org/69507.html)
+* [2024-03-14, 14:01:22](https://lobste.rs/s/xqdnek/pipexec_handling_pipe_commands_like) - [pipexec: Handling pipe of commands like a single command](https://github.com/flonatel/pipexec)
 * [2024-03-14, 13:45:46](https://lobste.rs/s/mibsxb/announcing_ibis_federated_wikipedia) - [Announcing Ibis, the federated Wikipedia Alternative](https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative@ibis.wiki)
 * [2024-03-14, 12:20:03](https://lobste.rs/s/t96fof/slint_1_5_embracing_android_improving) - [Slint 1.5: Embracing Android, Improving Live-Preview, and Pythonic Slint](https://slint.dev/blog/slint-1.5-released)
 * [2024-03-14, 11:42:23](https://lobste.rs/s/fadirr/security_txt_wild) - [Security.txt in the wild](https://blog.ovalerio.net/archives/2818)
