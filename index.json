@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-15, 08:56:28",
+      "https://lobste.rs/s/bumvly/how_write_your_own_custom_terraform"
+    ],
+    [
+      "How to write your own custom terraform provider",
+      "https://medium.com/@ledevedeccorentin/how-to-write-your-own-custom-terraform-provider-f1c27fa5d75e"
+    ]
+  ],
+  [
+    [
       "2024-03-15, 08:00:37",
       "https://lobste.rs/s/et1wxk/introducing_sunlight_ct_implementation"
     ],
@@ -177,16 +187,6 @@
     [
       "Create PostgreSQL extensions using Zig",
       "https://github.com/xataio/pgzx"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 14:39:54",
-      "https://lobste.rs/s/xo9n89/least_frequently_used_cache_o_1"
-    ],
-    [
-      "Least Frequently Used Cache in O(1)",
-      "https://github.com/teivah/go-lfu"
     ]
   ],
   [
