@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-15, 09:38:04](https://lobste.rs/s/zwj6qm/building_meta_s_genai_infrastructure) - [Building Meta’s GenAI Infrastructure](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/)
 * [2024-03-15, 08:56:28](https://lobste.rs/s/bumvly/how_write_your_own_custom_terraform) - [How to write your own custom terraform provider](https://medium.com/@ledevedeccorentin/how-to-write-your-own-custom-terraform-provider-f1c27fa5d75e)
 * [2024-03-15, 08:00:37](https://lobste.rs/s/et1wxk/introducing_sunlight_ct_implementation) - [Introducing Sunlight, a CT implementation built for scalability, ease of operation, and reduced cost](https://letsencrypt.org/2024/03/14/introducing-sunlight.html)
 * [2024-03-15, 07:11:09](https://lobste.rs/s/bdl64p/diffing_patches_for_visual_programming) - [Diffing patches for visual programming language MaxMSP](https://github.com/Ableton/maxdevtools/tree/main/maxdiff)
@@ -18,7 +19,6 @@
 * [2024-03-14, 18:05:51](https://lobste.rs/s/kmzucs/can_you_share_some_creative_pages_is) - [Can you share some creative pages that is lightweight, simple with no trackings/no ads?](https://lobste.rs/s/kmzucs/can_you_share_some_creative_pages_is)
 * [2024-03-14, 17:44:16](https://lobste.rs/s/32wyty/what_mob_programming_is_bad_at) - [What Mob Programming is Bad At](https://buttondown.email/hillelwayne/archive/what-mob-programming-is-bad-at/)
 * [2024-03-14, 17:03:42](https://lobste.rs/s/owaodf/introducing_sunlight_ct_implementation) - [Introducing Sunlight, a CT implementation built for scalability, ease of operation, and reduced cost](https://letsencrypt.org/2024/03/14/introducing-sunlight)
-* [2024-03-14, 14:46:14](https://lobste.rs/s/lk03rc/create_postgresql_extensions_using_zig) - [Create PostgreSQL extensions using Zig](https://github.com/xataio/pgzx)
 * [2024-03-14, 14:08:05](https://lobste.rs/s/hvbroz/digital_forgeries_are_hard) - [Digital forgeries are hard](https://mjg59.dreamwidth.org/69507.html)
 * [2024-03-14, 13:45:46](https://lobste.rs/s/mibsxb/announcing_ibis_federated_wikipedia) - [Announcing Ibis, the federated Wikipedia Alternative](https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative@ibis.wiki)
 * [2024-03-14, 12:20:03](https://lobste.rs/s/t96fof/slint_1_5_embracing_android_improving) - [Slint 1.5: Embracing Android, Improving Live-Preview, and Pythonic Slint](https://slint.dev/blog/slint-1.5-released)

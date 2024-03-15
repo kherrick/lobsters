@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
+* [2024-03-15, 09:38:04](https://lobste.rs/s/zwj6qm/building_meta_s_genai_infrastructure) - [Building Meta’s GenAI Infrastructure](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/)
 * [2024-03-15, 08:56:28](https://lobste.rs/s/bumvly/how_write_your_own_custom_terraform) - [How to write your own custom terraform provider](https://medium.com/@ledevedeccorentin/how-to-write-your-own-custom-terraform-provider-f1c27fa5d75e)
 * [2024-03-15, 08:00:37](https://lobste.rs/s/et1wxk/introducing_sunlight_ct_implementation) - [Introducing Sunlight, a CT implementation built for scalability, ease of operation, and reduced cost](https://letsencrypt.org/2024/03/14/introducing-sunlight.html)
 * [2024-03-15, 07:11:09](https://lobste.rs/s/bdl64p/diffing_patches_for_visual_programming) - [Diffing patches for visual programming language MaxMSP](https://github.com/Ableton/maxdevtools/tree/main/maxdiff)
