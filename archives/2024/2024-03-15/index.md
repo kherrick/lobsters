@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
+* [2024-03-15, 07:11:09](https://lobste.rs/s/bdl64p/diffing_patches_for_visual_programming) - [Diffing patches for visual programming language MaxMSP](https://github.com/Ableton/maxdevtools/tree/main/maxdiff)
 * [2024-03-15, 06:07:17](https://lobste.rs/s/dpkose/compressing_chess_moves_for_fun_profit) - [Compressing Chess Moves for Fun and Profit](https://mbuffett.com/posts/compressing-chess-moves/)
 * [2024-03-15, 04:49:33](https://lobste.rs/s/w4xnbg/optimizing_matrix_multiplication_with) - [Optimizing Matrix Multiplication with Zig](https://svaniksharma.github.io/posts/2023-05-07-optimizing-matrix-multiplication-with-zig/)
 * [2024-03-15, 04:44:47](https://lobste.rs/s/kpi2xx/what_s_most_interesting_automation_you) - [What’s the most interesting automation you have created?](https://lobste.rs/s/kpi2xx/what_s_most_interesting_automation_you)

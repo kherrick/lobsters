@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-15, 07:11:09](https://lobste.rs/s/bdl64p/diffing_patches_for_visual_programming) - [Diffing patches for visual programming language MaxMSP](https://github.com/Ableton/maxdevtools/tree/main/maxdiff)
 * [2024-03-15, 06:07:17](https://lobste.rs/s/dpkose/compressing_chess_moves_for_fun_profit) - [Compressing Chess Moves for Fun and Profit](https://mbuffett.com/posts/compressing-chess-moves/)
 * [2024-03-15, 04:49:33](https://lobste.rs/s/w4xnbg/optimizing_matrix_multiplication_with) - [Optimizing Matrix Multiplication with Zig](https://svaniksharma.github.io/posts/2023-05-07-optimizing-matrix-multiplication-with-zig/)
 * [2024-03-15, 04:44:47](https://lobste.rs/s/kpi2xx/what_s_most_interesting_automation_you) - [What’s the most interesting automation you have created?](https://lobste.rs/s/kpi2xx/what_s_most_interesting_automation_you)
@@ -21,7 +22,6 @@
 * [2024-03-14, 13:45:46](https://lobste.rs/s/mibsxb/announcing_ibis_federated_wikipedia) - [Announcing Ibis, the federated Wikipedia Alternative](https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative@ibis.wiki)
 * [2024-03-14, 12:20:03](https://lobste.rs/s/t96fof/slint_1_5_embracing_android_improving) - [Slint 1.5: Embracing Android, Improving Live-Preview, and Pythonic Slint](https://slint.dev/blog/slint-1.5-released)
 * [2024-03-14, 11:42:23](https://lobste.rs/s/fadirr/security_txt_wild) - [Security.txt in the wild](https://blog.ovalerio.net/archives/2818)
-* [2024-03-14, 11:20:15](https://lobste.rs/s/ctt2il/what_does_process_submitting_paper) - [What does the process of submitting a paper to Usenix look like?](https://youtu.be/gAEiXWO44bQ)
 * [2024-03-14, 10:06:29](https://lobste.rs/s/hkombo/numpy_vs_blas_losing_90_throughput) - [NumPy vs BLAS: Losing 90% of Throughput](https://ashvardanian.com/posts/numpy-vs-blas-costs/)
 * [2024-03-14, 03:55:06](https://lobste.rs/s/jjfm3k/yx_problem) - [YX problem](https://www.sicpers.info/2024/03/yx-problem/)
 * [2024-03-14, 00:27:30](https://lobste.rs/s/aari0g/call_by_hash) - [Call by hash](https://garnix.io/blog/call-by-hash)
