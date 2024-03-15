@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-15, 07:11:09",
+      "https://lobste.rs/s/bdl64p/diffing_patches_for_visual_programming"
+    ],
+    [
+      "Diffing patches for visual programming language MaxMSP",
+      "https://github.com/Ableton/maxdevtools/tree/main/maxdiff"
+    ]
+  ],
+  [
+    [
       "2024-03-15, 06:07:17",
       "https://lobste.rs/s/dpkose/compressing_chess_moves_for_fun_profit"
     ],
@@ -207,16 +217,6 @@
     [
       "Security.txt in the wild",
       "https://blog.ovalerio.net/archives/2818"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 11:20:15",
-      "https://lobste.rs/s/ctt2il/what_does_process_submitting_paper"
-    ],
-    [
-      "What does the process of submitting a paper to Usenix look like?",
-      "https://youtu.be/gAEiXWO44bQ"
     ]
   ],
   [
