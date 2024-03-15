@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-03-15, 03:41:43",
-      "https://lobste.rs/s/ujmy3q/low_code_way_learn_ai"
+      "2024-03-15, 04:49:33",
+      "https://lobste.rs/s/w4xnbg/optimizing_matrix_multiplication_with"
     ],
     [
-      "A low-code way to learn AI",
-      "https://spreadsheets-are-all-you-need.ai/"
+      "Optimizing Matrix Multiplication with Zig",
+      "https://svaniksharma.github.io/posts/2023-05-07-optimizing-matrix-multiplication-with-zig/"
+    ]
+  ],
+  [
+    [
+      "2024-03-15, 04:44:47",
+      "https://lobste.rs/s/kpi2xx/what_s_most_interesting_automation_you"
+    ],
+    [
+      "What’s the most interesting automation you have created?",
+      "https://lobste.rs/s/kpi2xx/what_s_most_interesting_automation_you"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Digital forgeries are hard",
       "https://mjg59.dreamwidth.org/69507.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 14:01:22",
-      "https://lobste.rs/s/xqdnek/pipexec_handling_pipe_commands_like"
-    ],
-    [
-      "pipexec: Handling pipe of commands like a single command",
-      "https://github.com/flonatel/pipexec"
     ]
   ],
   [
