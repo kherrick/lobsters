@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-15, 19:51:42](https://lobste.rs/s/6brpob/t_digest_efficient_estimates_quantiles) - [The t-digest: Efficient estimates of quantiles](https://www.sciencedirect.com/science/article/pii/S2665963820300403)
 * [2024-03-15, 19:10:46](https://lobste.rs/s/pbqail/bringing_verse_transactional_memory) - [Bringing Verse Transactional Memory Semantics to C++](https://www.unrealengine.com/en-US/tech-blog/bringing-verse-transactional-memory-semantics-to-c)
 * [2024-03-15, 19:01:49](https://lobste.rs/s/spozr1/on_compact_simple_binary_object_notation) - [µON - a compact and simple binary object notation](https://github.com/vshymanskyy/muon/)
 * [2024-03-15, 18:09:43](https://lobste.rs/s/3h6mpx/experiences_with_thread_programming) - [Experiences with Thread Programming in Microsoft Windows](https://www.johndcook.com/blog/2024/03/15/experiences-with-thread-programming-in-microsoft-windows/)
@@ -18,7 +19,6 @@
 * [2024-03-15, 04:44:47](https://lobste.rs/s/kpi2xx/what_s_most_interesting_automation_you) - [What’s the most interesting automation you have created?](https://lobste.rs/s/kpi2xx/what_s_most_interesting_automation_you)
 * [2024-03-15, 03:41:23](https://lobste.rs/s/hhfs13/bellroy_technology_team_2023_review) - [Bellroy Technology Team: 2023 in Review](https://exploring-better-ways.bellroy.com/bellroy-technology-team-2023-in-review.html)
 * [2024-03-15, 02:32:57](https://lobste.rs/s/rxut3x/not_so_quickly_extending_quic) - [Not so quickly extending QUIC](https://lwn.net/Articles/964377/)
-* [2024-03-15, 02:11:41](https://lobste.rs/s/mb1iim/achieving_awful_compression_with_digits) - [Achieving awful compression with digits of pi](https://ntietz.com/blog/why-we-cant-compress-messages-with-pi/)
 * [2024-03-14, 23:09:50](https://lobste.rs/s/qr7lbq/oh_no_i_started_magit_like_plugin_for_lem) - [Oh no, I started a Magit-like plugin for the Lem editor](https://lisp-journey.gitlab.io/blog/oh-no-i-started-a-magit-like-plugin-for-the-lem-editor/)
 * [2024-03-14, 21:47:24](https://lobste.rs/s/fmilri/ukrainian_government_app_source_code) - [Дія (Ukrainian government app) source code released under EUPL](https://github.com/diia-open-source/)
 * [2024-03-14, 18:22:51](https://lobste.rs/s/mkaigy/solover_is_simple_expressive_versioning) - [SoloVer is a simple and expressive versioning specification](https://beza1e1.tuxen.de/SoloVer)
