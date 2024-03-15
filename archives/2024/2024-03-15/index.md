@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
+* [2024-03-15, 18:09:43](https://lobste.rs/s/3h6mpx/experiences_with_thread_programming) - [Experiences with Thread Programming in Microsoft Windows](https://www.johndcook.com/blog/2024/03/15/experiences-with-thread-programming-in-microsoft-windows/)
 * [2024-03-15, 16:54:23](https://lobste.rs/s/bn43qo/refactor_like_superhero) - [Refactor Like a Superhero](https://github.com/bespoyasov/refactor-like-a-superhero)
 * [2024-03-15, 15:51:28](https://lobste.rs/s/46dgy1/npm_install_everything_complete_utter) - [npm install everything, and the complete and utter chaos that follows](https://boehs.org/node/npm-everything)
 * [2024-03-15, 15:30:23](https://lobste.rs/s/mqq4v9/haiku_activity_contract_report_february) - [Haiku Activity & Contract Report, February 2024](https://www.haiku-os.org/blog/waddlesplash/2024-03-14_haiku_activity_contract_report_february_2024)
