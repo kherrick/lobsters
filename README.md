@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-03-15, 11:00:51](https://lobste.rs/s/bvx6ou/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/bvx6ou/what_are_you_doing_this_weekend)
+* [2024-03-15, 11:19:26](https://lobste.rs/s/fkhdwk/bincapz_enumerate_binary_capabilities) - [bincapz: enumerate binary capabilities, including malicious behaviors](https://github.com/chainguard-dev/bincapz)
 * [2024-03-15, 10:53:31](https://lobste.rs/s/gwsilq/iam_is_worst) - [IAM Is The Worst](https://matduggan.com/iam-is-the-worst/)
 * [2024-03-15, 10:06:26](https://lobste.rs/s/qd7sq1/gg_gui_for_jujutsu) - [GG, a GUI for Jujutsu](https://github.com/gulbanana/gg)
 * [2024-03-15, 08:56:28](https://lobste.rs/s/bumvly/how_write_your_own_custom_terraform) - [How to write your own custom terraform provider](https://medium.com/@ledevedeccorentin/how-to-write-your-own-custom-terraform-provider-f1c27fa5d75e)
