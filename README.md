@@ -4,6 +4,7 @@
 * [2024-03-15, 13:26:50](https://lobste.rs/s/ngdrbc/montreal_problem_why_programming) - [The Montreal Problem: Why Programming Languages Need a Style Czar](https://earthly.dev/blog/language-style-czar/)
 * [2024-03-15, 13:13:35](https://lobste.rs/s/6abo9u/regex_chess_combined_outrageous) - [Regex and Chess Combined!? - An Outrageous Codewars Solution to Find if a King is in Check](https://www.youtube.com/watch?v=fhNc0q5N3p0)
 * [2024-03-15, 11:26:22](https://lobste.rs/s/mlek1h/onboarding_roulette_deleting_our) - [Onboarding roulette: deleting our employee accounts daily](https://graphite.dev/blog/onboarding-roulette)
+* [2024-03-15, 11:19:26](https://lobste.rs/s/fkhdwk/bincapz_enumerate_binary_capabilities) - [bincapz: enumerate binary capabilities, including malicious behaviors](https://github.com/chainguard-dev/bincapz)
 * [2024-03-15, 10:53:31](https://lobste.rs/s/gwsilq/iam_is_worst) - [IAM Is The Worst](https://matduggan.com/iam-is-the-worst/)
 * [2024-03-15, 10:06:26](https://lobste.rs/s/qd7sq1/gg_gui_for_jujutsu) - [GG, a GUI for Jujutsu](https://github.com/gulbanana/gg)
 * [2024-03-15, 08:56:28](https://lobste.rs/s/bumvly/how_write_your_own_custom_terraform) - [How to write your own custom terraform provider](https://medium.com/@ledevedeccorentin/how-to-write-your-own-custom-terraform-provider-f1c27fa5d75e)
@@ -23,7 +24,6 @@
 * [2024-03-14, 17:44:16](https://lobste.rs/s/32wyty/what_mob_programming_is_bad_at) - [What Mob Programming is Bad At](https://buttondown.email/hillelwayne/archive/what-mob-programming-is-bad-at/)
 * [2024-03-14, 14:08:05](https://lobste.rs/s/hvbroz/digital_forgeries_are_hard) - [Digital forgeries are hard](https://mjg59.dreamwidth.org/69507.html)
 * [2024-03-14, 13:45:46](https://lobste.rs/s/mibsxb/announcing_ibis_federated_wikipedia) - [Announcing Ibis, the federated Wikipedia Alternative](https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative@ibis.wiki)
-* [2024-03-14, 12:20:03](https://lobste.rs/s/t96fof/slint_1_5_embracing_android_improving) - [Slint 1.5: Embracing Android, Improving Live-Preview, and Pythonic Slint](https://slint.dev/blog/slint-1.5-released)
 * [2024-03-14, 00:27:30](https://lobste.rs/s/aari0g/call_by_hash) - [Call by hash](https://garnix.io/blog/call-by-hash)
 
 ## [Archives](archives/index.md)
