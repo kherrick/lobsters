@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-15, 02:11:41",
+      "https://lobste.rs/s/mb1iim/achieving_awful_compression_with_digits"
+    ],
+    [
+      "Achieving awful compression with digits of pi",
+      "https://ntietz.com/blog/why-we-cant-compress-messages-with-pi/"
+    ]
+  ],
+  [
+    [
       "2024-03-14, 23:09:50",
       "https://lobste.rs/s/qr7lbq/oh_no_i_started_magit_like_plugin_for_lem"
     ],
@@ -37,6 +47,16 @@
     [
       "How Figma's Databases Team Lived to Tell the Scale",
       "https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/"
+    ]
+  ],
+  [
+    [
+      "2024-03-14, 21:07:18",
+      "https://lobste.rs/s/zjtmer/st3000dm001"
+    ],
+    [
+      "ST3000DM001",
+      "https://en.wikipedia.org/wiki/ST3000DM001"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-03-14, 09:39:46",
-      "https://lobste.rs/s/pj2lyp/exaloglog_space_efficient_practical"
-    ],
-    [
-      "ExaLogLog: Space-Efficient and Practical Approximate Distinct Counting up to the Exa-Scale",
-      "https://arxiv.org/abs/2402.13726"
-    ]
-  ],
-  [
-    [
       "2024-03-14, 03:55:06",
       "https://lobste.rs/s/jjfm3k/yx_problem"
     ],
@@ -237,16 +247,6 @@
     [
       "What is this architecture called?",
       "https://gist.github.com/quad/bc2351e2df4a4a815f8e0d19f36cfa80"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 11:10:23",
-      "https://lobste.rs/s/q5hu1q/rust_flashcards_557_cards_learn_rust_from"
-    ],
-    [
-      "Rust Flashcards - 557 cards to learn Rust from first principles",
-      "https://github.com/ad-si/Rust-Flashcards"
     ]
   ]
 ]
