@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-03-15, 11:19:26",
+      "https://lobste.rs/s/fkhdwk/bincapz_enumerate_binary_capabilities"
+    ],
+    [
+      "bincapz: enumerate binary capabilities, including malicious behaviors",
+      "https://github.com/chainguard-dev/bincapz"
+    ]
+  ],
+  [
+    [
       "2024-03-15, 10:53:31",
       "https://lobste.rs/s/gwsilq/iam_is_worst"
     ],
@@ -227,16 +237,6 @@
     [
       "Announcing Ibis, the federated Wikipedia Alternative",
       "https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative@ibis.wiki"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 12:20:03",
-      "https://lobste.rs/s/t96fof/slint_1_5_embracing_android_improving"
-    ],
-    [
-      "Slint 1.5: Embracing Android, Improving Live-Preview, and Pythonic Slint",
-      "https://slint.dev/blog/slint-1.5-released"
     ]
   ],
   [
