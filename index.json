@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-03-15, 02:32:57",
-      "https://lobste.rs/s/rxut3x/not_so_quickly_extending_quic"
+      "2024-03-15, 03:41:43",
+      "https://lobste.rs/s/ujmy3q/low_code_way_learn_ai"
     ],
     [
-      "Not so quickly extending QUIC",
-      "https://lwn.net/Articles/964377/"
+      "A low-code way to learn AI",
+      "https://spreadsheets-are-all-you-need.ai/"
+    ]
+  ],
+  [
+    [
+      "2024-03-15, 03:41:23",
+      "https://lobste.rs/s/hhfs13/bellroy_technology_team_2023_review"
+    ],
+    [
+      "Bellroy Technology Team: 2023 in Review",
+      "https://exploring-better-ways.bellroy.com/bellroy-technology-team-2023-in-review.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Introducing FlakeHub Cache",
       "https://determinate.systems/posts/flakehub-cache-beta"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 14:40:07",
-      "https://lobste.rs/s/lxkbkz/what_is_this_architecture_called"
-    ],
-    [
-      "What is this architecture called?",
-      "https://gist.github.com/quad/bc2351e2df4a4a815f8e0d19f36cfa80"
     ]
   ]
 ]
