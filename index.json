@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2024-03-14, 17:37:20",
-      "https://lobste.rs/s/quyacp/rolldown_rust_bundler_for_javascript"
-    ],
-    [
-      "Rolldown: Rust bundler for JavaScript",
-      "https://rolldown.rs/about"
-    ]
-  ],
-  [
-    [
       "2024-03-14, 17:03:42",
       "https://lobste.rs/s/owaodf/introducing_sunlight_ct_implementation"
     ],
@@ -177,6 +167,16 @@
     [
       "Digital forgeries are hard",
       "https://mjg59.dreamwidth.org/69507.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-14, 14:01:22",
+      "https://lobste.rs/s/xqdnek/pipexec_handling_pipe_commands_like"
+    ],
+    [
+      "pipexec: Handling pipe of commands like a single command",
+      "https://github.com/flonatel/pipexec"
     ]
   ],
   [
