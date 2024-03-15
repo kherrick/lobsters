@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-15, 06:07:17",
+      "https://lobste.rs/s/dpkose/compressing_chess_moves_for_fun_profit"
+    ],
+    [
+      "Compressing Chess Moves for Fun and Profit",
+      "https://mbuffett.com/posts/compressing-chess-moves/"
+    ]
+  ],
+  [
+    [
       "2024-03-15, 04:49:33",
       "https://lobste.rs/s/w4xnbg/optimizing_matrix_multiplication_with"
     ],
@@ -167,16 +177,6 @@
     [
       "Digital forgeries are hard",
       "https://mjg59.dreamwidth.org/69507.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 14:01:22",
-      "https://lobste.rs/s/xqdnek/pipexec_handling_pipe_commands_like"
-    ],
-    [
-      "pipexec: Handling pipe of commands like a single command",
-      "https://github.com/flonatel/pipexec"
     ]
   ],
   [
