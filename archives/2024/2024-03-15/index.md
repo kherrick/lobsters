@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
+* [2024-03-15, 14:41:35](https://lobste.rs/s/py0gxl/my_experience_installing_using_guix) - [My Experience Installing And Using The Guix System](https://medium.com/@kkmvv/installing-and-using-the-guix-system-a616202a2537)
 * [2024-03-15, 14:41:35](https://lobste.rs/s/py0gxl/installing_using_guix_system) - [Installing And Using The Guix System](https://medium.com/@kkmvv/installing-and-using-the-guix-system-a616202a2537)
 * [2024-03-15, 13:26:50](https://lobste.rs/s/ngdrbc/montreal_problem_why_programming) - [The Montreal Problem: Why Programming Languages Need a Style Czar](https://earthly.dev/blog/language-style-czar/)
 * [2024-03-15, 13:13:35](https://lobste.rs/s/6abo9u/regex_chess_combined_outrageous) - [Regex and Chess Combined!? - An Outrageous Codewars Solution to Find if a King is in Check](https://www.youtube.com/watch?v=fhNc0q5N3p0)
