@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-15, 02:32:57](https://lobste.rs/s/rxut3x/not_so_quickly_extending_quic) - [Not so quickly extending QUIC](https://lwn.net/Articles/964377/)
 * [2024-03-15, 02:11:41](https://lobste.rs/s/mb1iim/achieving_awful_compression_with_digits) - [Achieving awful compression with digits of pi](https://ntietz.com/blog/why-we-cant-compress-messages-with-pi/)
 * [2024-03-14, 23:09:50](https://lobste.rs/s/qr7lbq/oh_no_i_started_magit_like_plugin_for_lem) - [Oh no, I started a Magit-like plugin for the Lem editor](https://lisp-journey.gitlab.io/blog/oh-no-i-started-a-magit-like-plugin-for-the-lem-editor/)
 * [2024-03-14, 22:00:48](https://lobste.rs/s/22dwzz/picotron_0_1_released) - [Picotron 0.1 Released](https://www.picotron.net/)
 * [2024-03-14, 21:47:24](https://lobste.rs/s/fmilri/ukrainian_government_app_source_code) - [Дія (Ukrainian government app) source code released under EUPL](https://github.com/diia-open-source/)
 * [2024-03-14, 21:43:04](https://lobste.rs/s/rdlc1q/how_figma_s_databases_team_lived_tell) - [How Figma's Databases Team Lived to Tell the Scale](https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/)
-* [2024-03-14, 21:07:18](https://lobste.rs/s/zjtmer/st3000dm001) - [ST3000DM001](https://en.wikipedia.org/wiki/ST3000DM001)
 * [2024-03-14, 18:22:51](https://lobste.rs/s/mkaigy/solover_is_simple_expressive_versioning) - [SoloVer is a simple and expressive versioning specification](https://beza1e1.tuxen.de/SoloVer)
 * [2024-03-14, 18:20:28](https://lobste.rs/s/dlpl1r/today_we_launched_flox_1_0) - [Today we launched Flox 1.0](https://tinkering.xyz/releasing-flox/)
 * [2024-03-14, 18:05:51](https://lobste.rs/s/kmzucs/can_you_share_some_creative_pages_is) - [Can you share some creative pages that is lightweight, simple with no trackings/no ads?](https://lobste.rs/s/kmzucs/can_you_share_some_creative_pages_is)
