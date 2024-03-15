@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-15, 15:21:07](https://lobste.rs/s/t9shpe/how_approach_reduce_problem) - [How to approach a reduce problem](https://thoughtbot.com/blog/how-to-approach-a-reduce-problem)
 * [2024-03-15, 14:41:35](https://lobste.rs/s/py0gxl/my_experience_installing_using_guix) - [My Experience Installing And Using The Guix System](https://medium.com/@kkmvv/installing-and-using-the-guix-system-a616202a2537)
 * [2024-03-15, 13:26:50](https://lobste.rs/s/ngdrbc/montreal_problem_why_programming) - [The Montreal Problem: Why Programming Languages Need a Style Czar](https://earthly.dev/blog/language-style-czar/)
 * [2024-03-15, 13:13:35](https://lobste.rs/s/6abo9u/regex_chess_combined_outrageous) - [Regex and Chess Combined!? - An Outrageous Codewars Solution to Find if a King is in Check](https://www.youtube.com/watch?v=fhNc0q5N3p0)
@@ -24,7 +25,6 @@
 * [2024-03-14, 17:44:16](https://lobste.rs/s/32wyty/what_mob_programming_is_bad_at) - [What Mob Programming is Bad At](https://buttondown.email/hillelwayne/archive/what-mob-programming-is-bad-at/)
 * [2024-03-14, 14:08:05](https://lobste.rs/s/hvbroz/digital_forgeries_are_hard) - [Digital forgeries are hard](https://mjg59.dreamwidth.org/69507.html)
 * [2024-03-14, 13:45:46](https://lobste.rs/s/mibsxb/announcing_ibis_federated_wikipedia) - [Announcing Ibis, the federated Wikipedia Alternative](https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative@ibis.wiki)
-* [2024-03-14, 00:27:30](https://lobste.rs/s/aari0g/call_by_hash) - [Call by hash](https://garnix.io/blog/call-by-hash)
 
 ## [Archives](archives/index.md)
 

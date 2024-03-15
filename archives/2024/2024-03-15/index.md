@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
+* [2024-03-15, 15:21:07](https://lobste.rs/s/t9shpe/how_approach_reduce_problem) - [How to approach a reduce problem](https://thoughtbot.com/blog/how-to-approach-a-reduce-problem)
 * [2024-03-15, 14:41:35](https://lobste.rs/s/py0gxl/my_experience_installing_using_guix) - [My Experience Installing And Using The Guix System](https://medium.com/@kkmvv/installing-and-using-the-guix-system-a616202a2537)
 * [2024-03-15, 14:41:35](https://lobste.rs/s/py0gxl/installing_using_guix_system) - [Installing And Using The Guix System](https://medium.com/@kkmvv/installing-and-using-the-guix-system-a616202a2537)
 * [2024-03-15, 13:26:50](https://lobste.rs/s/ngdrbc/montreal_problem_why_programming) - [The Montreal Problem: Why Programming Languages Need a Style Czar](https://earthly.dev/blog/language-style-czar/)
