@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-03-15, 02:32:57",
+      "https://lobste.rs/s/rxut3x/not_so_quickly_extending_quic"
+    ],
+    [
+      "Not so quickly extending QUIC",
+      "https://lwn.net/Articles/964377/"
+    ]
+  ],
+  [
+    [
       "2024-03-15, 02:11:41",
       "https://lobste.rs/s/mb1iim/achieving_awful_compression_with_digits"
     ],
@@ -237,16 +247,6 @@
     [
       "Call by hash",
       "https://garnix.io/blog/call-by-hash"
-    ]
-  ],
-  [
-    [
-      "2024-03-13, 14:50:33",
-      "https://lobste.rs/s/sqnezh/introducing_flakehub_cache"
-    ],
-    [
-      "Introducing FlakeHub Cache",
-      "https://determinate.systems/posts/flakehub-cache-beta"
     ]
   ]
 ]
