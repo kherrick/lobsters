@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-15, 16:54:23",
+      "https://lobste.rs/s/bn43qo/refactor_like_superhero"
+    ],
+    [
+      "Refactor Like a Superhero",
+      "https://github.com/bespoyasov/refactor-like-a-superhero"
+    ]
+  ],
+  [
+    [
       "2024-03-15, 15:51:28",
       "https://lobste.rs/s/46dgy1/npm_install_everything_complete_utter"
     ],
@@ -57,6 +67,16 @@
     [
       "bincapz: enumerate binary capabilities, including malicious behaviors",
       "https://github.com/chainguard-dev/bincapz"
+    ]
+  ],
+  [
+    [
+      "2024-03-15, 11:00:51",
+      "https://lobste.rs/s/bvx6ou/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/bvx6ou/what_are_you_doing_this_weekend"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-03-14, 18:05:51",
-      "https://lobste.rs/s/kmzucs/can_you_share_some_creative_pages_is"
-    ],
-    [
-      "Can you share some creative pages that is lightweight, simple with no trackings/no ads?",
-      "https://lobste.rs/s/kmzucs/can_you_share_some_creative_pages_is"
-    ]
-  ],
-  [
-    [
       "2024-03-14, 17:44:16",
       "https://lobste.rs/s/32wyty/what_mob_programming_is_bad_at"
     ],
@@ -237,16 +247,6 @@
     [
       "Digital forgeries are hard",
       "https://mjg59.dreamwidth.org/69507.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 13:45:46",
-      "https://lobste.rs/s/mibsxb/announcing_ibis_federated_wikipedia"
-    ],
-    [
-      "Announcing Ibis, the federated Wikipedia Alternative",
-      "https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative@ibis.wiki"
     ]
   ]
 ]
