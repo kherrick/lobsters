@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-03-14, 21:07:18",
-      "https://lobste.rs/s/zjtmer/st3000dm001"
-    ],
-    [
-      "ST3000DM001",
-      "https://en.wikipedia.org/wiki/ST3000DM001"
-    ]
-  ],
-  [
-    [
       "2024-03-14, 18:22:51",
       "https://lobste.rs/s/mkaigy/solover_is_simple_expressive_versioning"
     ],
@@ -137,6 +127,16 @@
     [
       "Digital forgeries are hard",
       "https://mjg59.dreamwidth.org/69507.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-14, 14:01:22",
+      "https://lobste.rs/s/xqdnek/pipexec_handling_pipe_commands_like"
+    ],
+    [
+      "pipexec: Handling pipe of commands like a single command",
+      "https://github.com/flonatel/pipexec"
     ]
   ],
   [
