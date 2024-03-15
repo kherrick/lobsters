@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-15, 11:26:22](https://lobste.rs/s/mlek1h/onboarding_roulette_deleting_our) - [Onboarding roulette: deleting our employee accounts daily](https://graphite.dev/blog/onboarding-roulette)
 * [2024-03-15, 11:19:26](https://lobste.rs/s/fkhdwk/bincapz_enumerate_binary_capabilities) - [bincapz: enumerate binary capabilities, including malicious behaviors](https://github.com/chainguard-dev/bincapz)
 * [2024-03-15, 10:53:31](https://lobste.rs/s/gwsilq/iam_is_worst) - [IAM Is The Worst](https://matduggan.com/iam-is-the-worst/)
 * [2024-03-15, 10:06:26](https://lobste.rs/s/qd7sq1/gg_gui_for_jujutsu) - [GG, a GUI for Jujutsu](https://github.com/gulbanana/gg)
@@ -13,7 +14,6 @@
 * [2024-03-15, 02:32:57](https://lobste.rs/s/rxut3x/not_so_quickly_extending_quic) - [Not so quickly extending QUIC](https://lwn.net/Articles/964377/)
 * [2024-03-15, 02:11:41](https://lobste.rs/s/mb1iim/achieving_awful_compression_with_digits) - [Achieving awful compression with digits of pi](https://ntietz.com/blog/why-we-cant-compress-messages-with-pi/)
 * [2024-03-14, 23:09:50](https://lobste.rs/s/qr7lbq/oh_no_i_started_magit_like_plugin_for_lem) - [Oh no, I started a Magit-like plugin for the Lem editor](https://lisp-journey.gitlab.io/blog/oh-no-i-started-a-magit-like-plugin-for-the-lem-editor/)
-* [2024-03-14, 22:00:48](https://lobste.rs/s/22dwzz/picotron_0_1_released) - [Picotron 0.1 Released](https://www.picotron.net/)
 * [2024-03-14, 21:47:24](https://lobste.rs/s/fmilri/ukrainian_government_app_source_code) - [Дія (Ukrainian government app) source code released under EUPL](https://github.com/diia-open-source/)
 * [2024-03-14, 21:43:04](https://lobste.rs/s/rdlc1q/how_figma_s_databases_team_lived_tell) - [How Figma's Databases Team Lived to Tell the Scale](https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/)
 * [2024-03-14, 18:22:51](https://lobste.rs/s/mkaigy/solover_is_simple_expressive_versioning) - [SoloVer is a simple and expressive versioning specification](https://beza1e1.tuxen.de/SoloVer)

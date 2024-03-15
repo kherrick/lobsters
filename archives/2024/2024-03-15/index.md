@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
+* [2024-03-15, 11:26:22](https://lobste.rs/s/mlek1h/onboarding_roulette_deleting_our) - [Onboarding roulette: deleting our employee accounts daily](https://graphite.dev/blog/onboarding-roulette)
 * [2024-03-15, 11:19:26](https://lobste.rs/s/fkhdwk/bincapz_enumerate_binary_capabilities) - [bincapz: enumerate binary capabilities, including malicious behaviors](https://github.com/chainguard-dev/bincapz)
 * [2024-03-15, 11:00:51](https://lobste.rs/s/bvx6ou/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/bvx6ou/what_are_you_doing_this_weekend)
 * [2024-03-15, 10:53:31](https://lobste.rs/s/gwsilq/iam_is_worst) - [IAM Is The Worst](https://matduggan.com/iam-is-the-worst/)
