@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-03-15, 02:32:57](https://lobste.rs/s/rxut3x/not_so_quickly_extending_quic) - [Not so quickly extending QUIC](https://lwn.net/Articles/964377/)
+* [2024-03-15, 03:41:43](https://lobste.rs/s/ujmy3q/low_code_way_learn_ai) - [A low-code way to learn AI](https://spreadsheets-are-all-you-need.ai/)
+* [2024-03-15, 03:41:23](https://lobste.rs/s/hhfs13/bellroy_technology_team_2023_review) - [Bellroy Technology Team: 2023 in Review](https://exploring-better-ways.bellroy.com/bellroy-technology-team-2023-in-review.html)
 * [2024-03-15, 02:11:41](https://lobste.rs/s/mb1iim/achieving_awful_compression_with_digits) - [Achieving awful compression with digits of pi](https://ntietz.com/blog/why-we-cant-compress-messages-with-pi/)
 * [2024-03-14, 23:09:50](https://lobste.rs/s/qr7lbq/oh_no_i_started_magit_like_plugin_for_lem) - [Oh no, I started a Magit-like plugin for the Lem editor](https://lisp-journey.gitlab.io/blog/oh-no-i-started-a-magit-like-plugin-for-the-lem-editor/)
 * [2024-03-14, 22:00:48](https://lobste.rs/s/22dwzz/picotron_0_1_released) - [Picotron 0.1 Released](https://www.picotron.net/)
@@ -24,7 +25,6 @@
 * [2024-03-14, 03:55:06](https://lobste.rs/s/jjfm3k/yx_problem) - [YX problem](https://www.sicpers.info/2024/03/yx-problem/)
 * [2024-03-14, 00:27:30](https://lobste.rs/s/aari0g/call_by_hash) - [Call by hash](https://garnix.io/blog/call-by-hash)
 * [2024-03-13, 14:50:33](https://lobste.rs/s/sqnezh/introducing_flakehub_cache) - [Introducing FlakeHub Cache](https://determinate.systems/posts/flakehub-cache-beta)
-* [2024-03-13, 14:40:07](https://lobste.rs/s/lxkbkz/what_is_this_architecture_called) - [What is this architecture called?](https://gist.github.com/quad/bc2351e2df4a4a815f8e0d19f36cfa80)
 
 ## [Archives](archives/index.md)
 
