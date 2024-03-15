@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-15](index.md)
 
+* [2024-03-15, 21:06:08](https://lobste.rs/s/lfg3lj/zig_rust_other_languages) - [Zig, Rust, and other languages](https://notes.eatonphil.com/2024-03-15-zig-rust-and-other-languages.html)
 * [2024-03-15, 19:51:42](https://lobste.rs/s/6brpob/t_digest_efficient_estimates_quantiles) - [The t-digest: Efficient estimates of quantiles](https://www.sciencedirect.com/science/article/pii/S2665963820300403)
 * [2024-03-15, 19:10:46](https://lobste.rs/s/pbqail/bringing_verse_transactional_memory) - [Bringing Verse Transactional Memory Semantics to C++](https://www.unrealengine.com/en-US/tech-blog/bringing-verse-transactional-memory-semantics-to-c)
 * [2024-03-15, 19:01:49](https://lobste.rs/s/spozr1/on_compact_simple_binary_object_notation) - [µON - a compact and simple binary object notation](https://github.com/vshymanskyy/muon/)
