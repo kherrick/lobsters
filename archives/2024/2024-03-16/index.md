@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 13:20:31](https://lobste.rs/s/vdvv0a/range_partitioning_zero_one) - [Range Partitioning: Zero to One](https://www.aspiring.dev/range-partitioning/)
 * [2024-03-16, 10:53:11](https://lobste.rs/s/klmtr9/legit_git_web_frontend_written_go) - [legit: A git web frontend written in Go](https://github.com/icyphox/legit)
 * [2024-03-16, 08:59:27](https://lobste.rs/s/jkxedk/what_part_rust_compilation_is_bottleneck) - [What part of Rust compilation is the bottleneck?](https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html)
 * [2024-03-16, 08:57:54](https://lobste.rs/s/du5nev/redefining_observability) - [Redefining Observability](https://hazelweakly.me/blog/redefining-observability/)

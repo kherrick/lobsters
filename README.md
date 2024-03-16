@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-16, 13:20:31](https://lobste.rs/s/vdvv0a/range_partitioning_zero_one) - [Range Partitioning: Zero to One](https://www.aspiring.dev/range-partitioning/)
 * [2024-03-16, 10:53:11](https://lobste.rs/s/klmtr9/legit_git_web_frontend_written_go) - [legit: A git web frontend written in Go](https://github.com/icyphox/legit)
 * [2024-03-16, 08:59:27](https://lobste.rs/s/jkxedk/what_part_rust_compilation_is_bottleneck) - [What part of Rust compilation is the bottleneck?](https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html)
 * [2024-03-16, 08:57:54](https://lobste.rs/s/du5nev/redefining_observability) - [Redefining Observability](https://hazelweakly.me/blog/redefining-observability/)
@@ -22,7 +23,6 @@
 * [2024-03-15, 07:11:09](https://lobste.rs/s/bdl64p/diffing_patches_for_visual_programming) - [Diffing patches for visual programming language MaxMSP](https://github.com/Ableton/maxdevtools/tree/main/maxdiff)
 * [2024-03-15, 06:07:17](https://lobste.rs/s/dpkose/compressing_chess_moves_for_fun_profit) - [Compressing Chess Moves for Fun and Profit](https://mbuffett.com/posts/compressing-chess-moves/)
 * [2024-03-15, 04:44:47](https://lobste.rs/s/kpi2xx/what_s_most_interesting_automation_you) - [What’s the most interesting automation you have created?](https://lobste.rs/s/kpi2xx/what_s_most_interesting_automation_you)
-* [2024-03-15, 03:41:23](https://lobste.rs/s/hhfs13/bellroy_technology_team_2023_review) - [Bellroy Technology Team: 2023 in Review](https://exploring-better-ways.bellroy.com/bellroy-technology-team-2023-in-review.html)
 * [2024-03-14, 23:09:50](https://lobste.rs/s/qr7lbq/oh_no_i_started_magit_like_plugin_for_lem) - [Oh no, I started a Magit-like plugin for the Lem editor](https://lisp-journey.gitlab.io/blog/oh-no-i-started-a-magit-like-plugin-for-the-lem-editor/)
 * [2024-03-14, 18:20:28](https://lobste.rs/s/dlpl1r/today_we_launched_flox_1_0) - [Today we launched Flox 1.0](https://tinkering.xyz/releasing-flox/)
 
