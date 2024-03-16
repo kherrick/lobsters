@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-16, 14:55:02",
+      "https://lobste.rs/s/qurpee/linux_desktop_is_finally_great_both"
+    ],
+    [
+      "The Linux Desktop is Finally Great (Both Ubuntu and Firefox)",
+      "https://punkx.org/jackdoe/linux-desktop.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-16, 14:53:53",
+      "https://lobste.rs/s/qbbzm2/fuzzing_ladybird_with_tools_from_google"
+    ],
+    [
+      "Fuzzing Ladybird with tools from Google Project Zero",
+      "https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from"
+    ]
+  ],
+  [
+    [
       "2024-03-16, 13:20:31",
       "https://lobste.rs/s/vdvv0a/range_partitioning_zero_one"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2024-03-15, 06:07:17",
-      "https://lobste.rs/s/dpkose/compressing_chess_moves_for_fun_profit"
-    ],
-    [
-      "Compressing Chess Moves for Fun and Profit",
-      "https://mbuffett.com/posts/compressing-chess-moves/"
-    ]
-  ],
-  [
-    [
       "2024-03-15, 04:44:47",
       "https://lobste.rs/s/kpi2xx/what_s_most_interesting_automation_you"
     ],
     [
       "What’s the most interesting automation you have created?",
       "https://lobste.rs/s/kpi2xx/what_s_most_interesting_automation_you"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 23:09:50",
-      "https://lobste.rs/s/qr7lbq/oh_no_i_started_magit_like_plugin_for_lem"
-    ],
-    [
-      "Oh no, I started a Magit-like plugin for the Lem editor",
-      "https://lisp-journey.gitlab.io/blog/oh-no-i-started-a-magit-like-plugin-for-the-lem-editor/"
     ]
   ],
   [
