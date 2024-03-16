@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 20:44:31](https://lobste.rs/s/r0jyu9/hard_drivin) - [Hard Drivin'](https://en.wikipedia.org/wiki/Hard_Drivin%27)
 * [2024-03-16, 19:18:27](https://lobste.rs/s/efysxx/semantic_ajax_html) - [Semantic AJAX-HTML](https://herman.bearblog.dev/semantic-ajax-html/)
 * [2024-03-16, 18:38:35](https://lobste.rs/s/jguc1y/immich_self_hosted_photo_video) - [Immich: Self-hosted photo and video management solution](https://immich.app/)
 * [2024-03-16, 16:39:48](https://lobste.rs/s/dz1sor/cataloguing_my_vinyl_collection_with) - [Cataloguing my vinyl collection with computer vision](https://jamesg.blog/2024/03/16/vinyl-record-indexing/)
