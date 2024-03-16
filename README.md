@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-16, 19:18:27](https://lobste.rs/s/efysxx/semantic_ajax_html) - [Semantic AJAX-HTML](https://herman.bearblog.dev/semantic-ajax-html/)
 * [2024-03-16, 18:38:35](https://lobste.rs/s/jguc1y/immich_self_hosted_photo_video) - [Immich: Self-hosted photo and video management solution](https://immich.app/)
 * [2024-03-16, 16:39:48](https://lobste.rs/s/dz1sor/cataloguing_my_vinyl_collection_with) - [Cataloguing my vinyl collection with computer vision](https://jamesg.blog/2024/03/16/vinyl-record-indexing/)
 * [2024-03-16, 15:15:41](https://lobste.rs/s/juyk0y/how_use_postgresql_for_military) - [How to use PostgreSQL for (military) geoanalytics tasks](https://klioba.com/how-to-use-postgresql-for-military-geoanalytics-tasks)
@@ -18,7 +19,6 @@
 * [2024-03-15, 19:10:46](https://lobste.rs/s/pbqail/bringing_verse_transactional_memory) - [Bringing Verse Transactional Memory Semantics to C++](https://www.unrealengine.com/en-US/tech-blog/bringing-verse-transactional-memory-semantics-to-c)
 * [2024-03-15, 19:01:49](https://lobste.rs/s/spozr1/on_compact_simple_binary_object_notation) - [µON - a compact and simple binary object notation](https://github.com/vshymanskyy/muon/)
 * [2024-03-15, 15:51:28](https://lobste.rs/s/46dgy1/npm_install_everything_complete_utter) - [npm install everything, and the complete and utter chaos that follows](https://boehs.org/node/npm-everything)
-* [2024-03-15, 15:21:07](https://lobste.rs/s/t9shpe/how_approach_reduce_problem) - [How to approach a reduce problem](https://thoughtbot.com/blog/how-to-approach-a-reduce-problem)
 * [2024-03-15, 13:26:50](https://lobste.rs/s/ngdrbc/montreal_problem_why_programming) - [The Montreal Problem: Why Programming Languages Need a Style Czar](https://earthly.dev/blog/language-style-czar/)
 * [2024-03-15, 11:26:22](https://lobste.rs/s/mlek1h/onboarding_roulette_deleting_our) - [Onboarding roulette: deleting our employee accounts daily](https://graphite.dev/blog/onboarding-roulette)
 * [2024-03-15, 10:53:31](https://lobste.rs/s/gwsilq/iam_is_worst) - [IAM Is The Worst](https://matduggan.com/iam-is-the-worst/)
