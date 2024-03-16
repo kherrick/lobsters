@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-16, 18:38:35",
+      "https://lobste.rs/s/jguc1y/immich_self_hosted_photo_video"
+    ],
+    [
+      "Immich: Self-hosted photo and video management solution",
+      "https://immich.app/"
+    ]
+  ],
+  [
+    [
       "2024-03-16, 16:39:48",
       "https://lobste.rs/s/dz1sor/cataloguing_my_vinyl_collection_with"
     ],
@@ -217,16 +227,6 @@
     [
       "GG, a GUI for Jujutsu",
       "https://github.com/gulbanana/gg"
-    ]
-  ],
-  [
-    [
-      "2024-03-15, 07:11:09",
-      "https://lobste.rs/s/bdl64p/diffing_patches_for_visual_programming"
-    ],
-    [
-      "Diffing patches for visual programming language MaxMSP",
-      "https://github.com/Ableton/maxdevtools/tree/main/maxdiff"
     ]
   ],
   [
