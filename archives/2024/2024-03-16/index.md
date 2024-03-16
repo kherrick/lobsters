@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 23:31:39](https://lobste.rs/s/5xeuew/losing_faith_on_testing) - [Losing the Faith on Testing](https://registerspill.thorstenball.com/p/a-few-words-on-testing)
 * [2024-03-16, 22:50:30](https://lobste.rs/s/49neru/how_web_bloat_impacts_users_with_slow) - [How web bloat impacts users with slow devices](https://danluu.com/slow-device/)
 * [2024-03-16, 20:44:31](https://lobste.rs/s/r0jyu9/hard_drivin) - [Hard Drivin'](https://en.wikipedia.org/wiki/Hard_Drivin%27)
 * [2024-03-16, 19:18:27](https://lobste.rs/s/efysxx/semantic_ajax_html) - [Semantic AJAX-HTML](https://herman.bearblog.dev/semantic-ajax-html/)
