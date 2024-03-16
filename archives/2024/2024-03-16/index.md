@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 14:55:02](https://lobste.rs/s/qurpee/linux_desktop_is_finally_great_both) - [The Linux Desktop is Finally Great (Both Ubuntu and Firefox)](https://punkx.org/jackdoe/linux-desktop.html)
+* [2024-03-16, 14:53:53](https://lobste.rs/s/qbbzm2/fuzzing_ladybird_with_tools_from_google) - [Fuzzing Ladybird with tools from Google Project Zero](https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from)
 * [2024-03-16, 13:20:31](https://lobste.rs/s/vdvv0a/range_partitioning_zero_one) - [Range Partitioning: Zero to One](https://www.aspiring.dev/range-partitioning/)
 * [2024-03-16, 10:53:11](https://lobste.rs/s/klmtr9/legit_git_web_frontend_written_go) - [legit: A git web frontend written in Go](https://github.com/icyphox/legit)
 * [2024-03-16, 08:59:27](https://lobste.rs/s/jkxedk/what_part_rust_compilation_is_bottleneck) - [What part of Rust compilation is the bottleneck?](https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html)

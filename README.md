@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-16, 14:55:02](https://lobste.rs/s/qurpee/linux_desktop_is_finally_great_both) - [The Linux Desktop is Finally Great (Both Ubuntu and Firefox)](https://punkx.org/jackdoe/linux-desktop.html)
+* [2024-03-16, 14:53:53](https://lobste.rs/s/qbbzm2/fuzzing_ladybird_with_tools_from_google) - [Fuzzing Ladybird with tools from Google Project Zero](https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from)
 * [2024-03-16, 13:20:31](https://lobste.rs/s/vdvv0a/range_partitioning_zero_one) - [Range Partitioning: Zero to One](https://www.aspiring.dev/range-partitioning/)
 * [2024-03-16, 10:53:11](https://lobste.rs/s/klmtr9/legit_git_web_frontend_written_go) - [legit: A git web frontend written in Go](https://github.com/icyphox/legit)
 * [2024-03-16, 08:59:27](https://lobste.rs/s/jkxedk/what_part_rust_compilation_is_bottleneck) - [What part of Rust compilation is the bottleneck?](https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html)
@@ -21,9 +23,7 @@
 * [2024-03-15, 10:53:31](https://lobste.rs/s/gwsilq/iam_is_worst) - [IAM Is The Worst](https://matduggan.com/iam-is-the-worst/)
 * [2024-03-15, 10:06:26](https://lobste.rs/s/qd7sq1/gg_gui_for_jujutsu) - [GG, a GUI for Jujutsu](https://github.com/gulbanana/gg)
 * [2024-03-15, 07:11:09](https://lobste.rs/s/bdl64p/diffing_patches_for_visual_programming) - [Diffing patches for visual programming language MaxMSP](https://github.com/Ableton/maxdevtools/tree/main/maxdiff)
-* [2024-03-15, 06:07:17](https://lobste.rs/s/dpkose/compressing_chess_moves_for_fun_profit) - [Compressing Chess Moves for Fun and Profit](https://mbuffett.com/posts/compressing-chess-moves/)
 * [2024-03-15, 04:44:47](https://lobste.rs/s/kpi2xx/what_s_most_interesting_automation_you) - [What’s the most interesting automation you have created?](https://lobste.rs/s/kpi2xx/what_s_most_interesting_automation_you)
-* [2024-03-14, 23:09:50](https://lobste.rs/s/qr7lbq/oh_no_i_started_magit_like_plugin_for_lem) - [Oh no, I started a Magit-like plugin for the Lem editor](https://lisp-journey.gitlab.io/blog/oh-no-i-started-a-magit-like-plugin-for-the-lem-editor/)
 * [2024-03-14, 18:20:28](https://lobste.rs/s/dlpl1r/today_we_launched_flox_1_0) - [Today we launched Flox 1.0](https://tinkering.xyz/releasing-flox/)
 
 ## [Archives](archives/index.md)
