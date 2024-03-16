@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-16, 10:53:11",
+      "https://lobste.rs/s/klmtr9/legit_git_web_frontend_written_go"
+    ],
+    [
+      "legit: A git web frontend written in Go",
+      "https://github.com/icyphox/legit"
+    ]
+  ],
+  [
+    [
       "2024-03-16, 08:59:27",
       "https://lobste.rs/s/jkxedk/what_part_rust_compilation_is_bottleneck"
     ],
@@ -227,16 +237,6 @@
     [
       "Oh no, I started a Magit-like plugin for the Lem editor",
       "https://lisp-journey.gitlab.io/blog/oh-no-i-started-a-magit-like-plugin-for-the-lem-editor/"
-    ]
-  ],
-  [
-    [
-      "2024-03-14, 18:22:51",
-      "https://lobste.rs/s/mkaigy/solover_is_simple_expressive_versioning"
-    ],
-    [
-      "SoloVer is a simple and expressive versioning specification",
-      "https://beza1e1.tuxen.de/SoloVer"
     ]
   ],
   [
