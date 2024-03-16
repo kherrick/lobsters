@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-16, 02:45:03",
+      "https://lobste.rs/s/j7c4rw/nix_is_better_docker_image_builder_than"
+    ],
+    [
+      "Nix is a better Docker image builder than Docker's image builder",
+      "https://xeiaso.net/talks/2024/nix-docker-build/"
+    ]
+  ],
+  [
+    [
       "2024-03-16, 00:24:22",
       "https://lobste.rs/s/dgmp4p/making_compiler_prove_tmux_is_turing"
     ],
@@ -117,16 +127,6 @@
     [
       "Onboarding roulette: deleting our employee accounts daily",
       "https://graphite.dev/blog/onboarding-roulette"
-    ]
-  ],
-  [
-    [
-      "2024-03-15, 11:19:26",
-      "https://lobste.rs/s/fkhdwk/bincapz_enumerate_binary_capabilities"
-    ],
-    [
-      "bincapz: enumerate binary capabilities, including malicious behaviors",
-      "https://github.com/chainguard-dev/bincapz"
     ]
   ],
   [
