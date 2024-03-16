@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-16, 08:00:57](https://lobste.rs/s/i6zbj0/bash_zsh_autocomplete_for_json_fields) - [Bash/Zsh autocomplete for JSON fields](https://github.com/antonmedv/fx/releases/tag/33.0.0)
 * [2024-03-16, 02:45:03](https://lobste.rs/s/j7c4rw/nix_is_better_docker_image_builder_than) - [Nix is a better Docker image builder than Docker's image builder](https://xeiaso.net/talks/2024/nix-docker-build/)
 * [2024-03-16, 00:24:22](https://lobste.rs/s/dgmp4p/making_compiler_prove_tmux_is_turing) - [Making a Compiler to Prove tmux Is Turing Complete](https://willhbr.net/2024/03/15/making-a-compiler-to-prove-tmux-is-turing-complete/)
 * [2024-03-15, 21:55:37](https://lobste.rs/s/yx1vis/tokamak_web_framework_for_zig) - [Tokamak: A web framework for Zig](https://tomsik.cz/posts/tokamak/)
@@ -22,7 +23,6 @@
 * [2024-03-15, 04:44:47](https://lobste.rs/s/kpi2xx/what_s_most_interesting_automation_you) - [What’s the most interesting automation you have created?](https://lobste.rs/s/kpi2xx/what_s_most_interesting_automation_you)
 * [2024-03-15, 03:41:23](https://lobste.rs/s/hhfs13/bellroy_technology_team_2023_review) - [Bellroy Technology Team: 2023 in Review](https://exploring-better-ways.bellroy.com/bellroy-technology-team-2023-in-review.html)
 * [2024-03-14, 23:09:50](https://lobste.rs/s/qr7lbq/oh_no_i_started_magit_like_plugin_for_lem) - [Oh no, I started a Magit-like plugin for the Lem editor](https://lisp-journey.gitlab.io/blog/oh-no-i-started-a-magit-like-plugin-for-the-lem-editor/)
-* [2024-03-14, 21:47:24](https://lobste.rs/s/fmilri/ukrainian_government_app_source_code) - [Дія (Ukrainian government app) source code released under EUPL](https://github.com/diia-open-source/)
 * [2024-03-14, 18:22:51](https://lobste.rs/s/mkaigy/solover_is_simple_expressive_versioning) - [SoloVer is a simple and expressive versioning specification](https://beza1e1.tuxen.de/SoloVer)
 * [2024-03-14, 18:20:28](https://lobste.rs/s/dlpl1r/today_we_launched_flox_1_0) - [Today we launched Flox 1.0](https://tinkering.xyz/releasing-flox/)
 
