@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-16](index.md)
 
+* [2024-03-16, 08:59:27](https://lobste.rs/s/jkxedk/what_part_rust_compilation_is_bottleneck) - [What part of Rust compilation is the bottleneck?](https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html)
+* [2024-03-16, 08:57:54](https://lobste.rs/s/du5nev/redefining_observability) - [Redefining Observability](https://hazelweakly.me/blog/redefining-observability/)
 * [2024-03-16, 08:32:45](https://lobste.rs/s/3thshy/javascript_nightmare) - [A Javascript Nightmare](https://blog.ignaciobrasca.com/opinion/2024/03/15/javascript-nightmare.html)
 * [2024-03-16, 08:00:57](https://lobste.rs/s/i6zbj0/bash_zsh_autocomplete_for_json_fields) - [Bash/Zsh autocomplete for JSON fields](https://github.com/antonmedv/fx/releases/tag/33.0.0)
 * [2024-03-16, 02:45:03](https://lobste.rs/s/j7c4rw/nix_is_better_docker_image_builder_than) - [Nix is a better Docker image builder than Docker's image builder](https://xeiaso.net/talks/2024/nix-docker-build/)

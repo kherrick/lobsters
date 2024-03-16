@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-16, 08:59:27](https://lobste.rs/s/jkxedk/what_part_rust_compilation_is_bottleneck) - [What part of Rust compilation is the bottleneck?](https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html)
+* [2024-03-16, 08:57:54](https://lobste.rs/s/du5nev/redefining_observability) - [Redefining Observability](https://hazelweakly.me/blog/redefining-observability/)
 * [2024-03-16, 08:32:45](https://lobste.rs/s/3thshy/javascript_nightmare) - [A Javascript Nightmare](https://blog.ignaciobrasca.com/opinion/2024/03/15/javascript-nightmare.html)
-* [2024-03-16, 08:00:57](https://lobste.rs/s/i6zbj0/bash_zsh_autocomplete_for_json_fields) - [Bash/Zsh autocomplete for JSON fields](https://github.com/antonmedv/fx/releases/tag/33.0.0)
 * [2024-03-16, 02:45:03](https://lobste.rs/s/j7c4rw/nix_is_better_docker_image_builder_than) - [Nix is a better Docker image builder than Docker's image builder](https://xeiaso.net/talks/2024/nix-docker-build/)
 * [2024-03-16, 00:24:22](https://lobste.rs/s/dgmp4p/making_compiler_prove_tmux_is_turing) - [Making a Compiler to Prove tmux Is Turing Complete](https://willhbr.net/2024/03/15/making-a-compiler-to-prove-tmux-is-turing-complete/)
 * [2024-03-15, 21:55:37](https://lobste.rs/s/yx1vis/tokamak_web_framework_for_zig) - [Tokamak: A web framework for Zig](https://tomsik.cz/posts/tokamak/)
@@ -19,7 +20,6 @@
 * [2024-03-15, 10:06:26](https://lobste.rs/s/qd7sq1/gg_gui_for_jujutsu) - [GG, a GUI for Jujutsu](https://github.com/gulbanana/gg)
 * [2024-03-15, 07:11:09](https://lobste.rs/s/bdl64p/diffing_patches_for_visual_programming) - [Diffing patches for visual programming language MaxMSP](https://github.com/Ableton/maxdevtools/tree/main/maxdiff)
 * [2024-03-15, 06:07:17](https://lobste.rs/s/dpkose/compressing_chess_moves_for_fun_profit) - [Compressing Chess Moves for Fun and Profit](https://mbuffett.com/posts/compressing-chess-moves/)
-* [2024-03-15, 04:49:33](https://lobste.rs/s/w4xnbg/optimizing_matrix_multiplication_with) - [Optimizing Matrix Multiplication with Zig](https://svaniksharma.github.io/posts/2023-05-07-optimizing-matrix-multiplication-with-zig/)
 * [2024-03-15, 04:44:47](https://lobste.rs/s/kpi2xx/what_s_most_interesting_automation_you) - [What’s the most interesting automation you have created?](https://lobste.rs/s/kpi2xx/what_s_most_interesting_automation_you)
 * [2024-03-15, 03:41:23](https://lobste.rs/s/hhfs13/bellroy_technology_team_2023_review) - [Bellroy Technology Team: 2023 in Review](https://exploring-better-ways.bellroy.com/bellroy-technology-team-2023-in-review.html)
 * [2024-03-14, 23:09:50](https://lobste.rs/s/qr7lbq/oh_no_i_started_magit_like_plugin_for_lem) - [Oh no, I started a Magit-like plugin for the Lem editor](https://lisp-journey.gitlab.io/blog/oh-no-i-started-a-magit-like-plugin-for-the-lem-editor/)
