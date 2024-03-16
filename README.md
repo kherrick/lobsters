@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-16, 10:53:11](https://lobste.rs/s/klmtr9/legit_git_web_frontend_written_go) - [legit: A git web frontend written in Go](https://github.com/icyphox/legit)
 * [2024-03-16, 08:59:27](https://lobste.rs/s/jkxedk/what_part_rust_compilation_is_bottleneck) - [What part of Rust compilation is the bottleneck?](https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html)
 * [2024-03-16, 08:57:54](https://lobste.rs/s/du5nev/redefining_observability) - [Redefining Observability](https://hazelweakly.me/blog/redefining-observability/)
 * [2024-03-16, 08:32:45](https://lobste.rs/s/3thshy/javascript_nightmare) - [A Javascript Nightmare](https://blog.ignaciobrasca.com/opinion/2024/03/15/javascript-nightmare.html)
@@ -23,7 +24,6 @@
 * [2024-03-15, 04:44:47](https://lobste.rs/s/kpi2xx/what_s_most_interesting_automation_you) - [What’s the most interesting automation you have created?](https://lobste.rs/s/kpi2xx/what_s_most_interesting_automation_you)
 * [2024-03-15, 03:41:23](https://lobste.rs/s/hhfs13/bellroy_technology_team_2023_review) - [Bellroy Technology Team: 2023 in Review](https://exploring-better-ways.bellroy.com/bellroy-technology-team-2023-in-review.html)
 * [2024-03-14, 23:09:50](https://lobste.rs/s/qr7lbq/oh_no_i_started_magit_like_plugin_for_lem) - [Oh no, I started a Magit-like plugin for the Lem editor](https://lisp-journey.gitlab.io/blog/oh-no-i-started-a-magit-like-plugin-for-the-lem-editor/)
-* [2024-03-14, 18:22:51](https://lobste.rs/s/mkaigy/solover_is_simple_expressive_versioning) - [SoloVer is a simple and expressive versioning specification](https://beza1e1.tuxen.de/SoloVer)
 * [2024-03-14, 18:20:28](https://lobste.rs/s/dlpl1r/today_we_launched_flox_1_0) - [Today we launched Flox 1.0](https://tinkering.xyz/releasing-flox/)
 
 ## [Archives](archives/index.md)
