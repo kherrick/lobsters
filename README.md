@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-16, 16:39:48](https://lobste.rs/s/dz1sor/cataloguing_my_vinyl_collection_with) - [Cataloguing my vinyl collection with computer vision](https://jamesg.blog/2024/03/16/vinyl-record-indexing/)
 * [2024-03-16, 15:15:41](https://lobste.rs/s/juyk0y/how_use_postgresql_for_military) - [How to use PostgreSQL for (military) geoanalytics tasks](https://klioba.com/how-to-use-postgresql-for-military-geoanalytics-tasks)
 * [2024-03-16, 14:55:02](https://lobste.rs/s/qurpee/linux_desktop_is_finally_great_both) - [The Linux Desktop is Finally Great (Both Ubuntu and Firefox)](https://punkx.org/jackdoe/linux-desktop.html)
 * [2024-03-16, 14:53:53](https://lobste.rs/s/qbbzm2/fuzzing_ladybird_with_tools_from_google) - [Fuzzing Ladybird with tools from Google Project Zero](https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from)
@@ -16,7 +17,6 @@
 * [2024-03-15, 19:10:46](https://lobste.rs/s/pbqail/bringing_verse_transactional_memory) - [Bringing Verse Transactional Memory Semantics to C++](https://www.unrealengine.com/en-US/tech-blog/bringing-verse-transactional-memory-semantics-to-c)
 * [2024-03-15, 19:01:49](https://lobste.rs/s/spozr1/on_compact_simple_binary_object_notation) - [µON - a compact and simple binary object notation](https://github.com/vshymanskyy/muon/)
 * [2024-03-15, 15:51:28](https://lobste.rs/s/46dgy1/npm_install_everything_complete_utter) - [npm install everything, and the complete and utter chaos that follows](https://boehs.org/node/npm-everything)
-* [2024-03-15, 15:30:23](https://lobste.rs/s/mqq4v9/haiku_activity_contract_report_february) - [Haiku Activity & Contract Report, February 2024](https://www.haiku-os.org/blog/waddlesplash/2024-03-14_haiku_activity_contract_report_february_2024)
 * [2024-03-15, 15:21:07](https://lobste.rs/s/t9shpe/how_approach_reduce_problem) - [How to approach a reduce problem](https://thoughtbot.com/blog/how-to-approach-a-reduce-problem)
 * [2024-03-15, 13:26:50](https://lobste.rs/s/ngdrbc/montreal_problem_why_programming) - [The Montreal Problem: Why Programming Languages Need a Style Czar](https://earthly.dev/blog/language-style-czar/)
 * [2024-03-15, 11:26:22](https://lobste.rs/s/mlek1h/onboarding_roulette_deleting_our) - [Onboarding roulette: deleting our employee accounts daily](https://graphite.dev/blog/onboarding-roulette)
