@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-03-15, 21:55:37",
+      "https://lobste.rs/s/yx1vis/tokamak_web_framework_for_zig"
+    ],
+    [
+      "Tokamak: A web framework for Zig",
+      "https://tomsik.cz/posts/tokamak/"
+    ]
+  ],
+  [
+    [
       "2024-03-15, 21:06:08",
       "https://lobste.rs/s/lfg3lj/zig_rust_other_languages"
     ],
@@ -117,16 +127,6 @@
     [
       "bincapz: enumerate binary capabilities, including malicious behaviors",
       "https://github.com/chainguard-dev/bincapz"
-    ]
-  ],
-  [
-    [
-      "2024-03-15, 11:00:51",
-      "https://lobste.rs/s/bvx6ou/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/bvx6ou/what_are_you_doing_this_weekend"
     ]
   ],
   [
