@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-03-16, 20:44:31](https://lobste.rs/s/r0jyu9/hard_drivin) - [Hard Drivin'](https://en.wikipedia.org/wiki/Hard_Drivin%27)
 * [2024-03-16, 19:18:27](https://lobste.rs/s/efysxx/semantic_ajax_html) - [Semantic AJAX-HTML](https://herman.bearblog.dev/semantic-ajax-html/)
 * [2024-03-16, 18:38:35](https://lobste.rs/s/jguc1y/immich_self_hosted_photo_video) - [Immich: Self-hosted photo and video management solution](https://immich.app/)
 * [2024-03-16, 16:39:48](https://lobste.rs/s/dz1sor/cataloguing_my_vinyl_collection_with) - [Cataloguing my vinyl collection with computer vision](https://jamesg.blog/2024/03/16/vinyl-record-indexing/)
@@ -25,6 +24,7 @@
 * [2024-03-15, 10:53:31](https://lobste.rs/s/gwsilq/iam_is_worst) - [IAM Is The Worst](https://matduggan.com/iam-is-the-worst/)
 * [2024-03-15, 10:06:26](https://lobste.rs/s/qd7sq1/gg_gui_for_jujutsu) - [GG, a GUI for Jujutsu](https://github.com/gulbanana/gg)
 * [2024-03-15, 04:44:47](https://lobste.rs/s/kpi2xx/what_s_most_interesting_automation_you) - [What’s the most interesting automation you have created?](https://lobste.rs/s/kpi2xx/what_s_most_interesting_automation_you)
+* [2024-03-14, 18:20:28](https://lobste.rs/s/dlpl1r/today_we_launched_flox_1_0) - [Today we launched Flox 1.0](https://tinkering.xyz/releasing-flox/)
 
 ## [Archives](archives/index.md)
 
