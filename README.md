@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-17, 05:50:51](https://lobste.rs/s/txpiur/medical_device_developer_linux) - [Medical Device Developer Linux](https://www.logikalsolutions.com/wordpress/information-technology/medical-device-developer-linux/)
 * [2024-03-17, 04:45:23](https://lobste.rs/s/grchjk/return_frame_pointers) - [The Return of the Frame Pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)
 * [2024-03-17, 04:33:07](https://lobste.rs/s/apx8qj/we_were_wizards_foreword_learning_perl) - [We were wizards — a foreword to Learning Perl](https://jwgoerlich.com/we-were-wizards-learning-perl/)
 * [2024-03-17, 03:32:29](https://lobste.rs/s/mgaugf/sqlelf_explore_elf_objects_through_power) - [sqlelf: Explore ELF objects through the power of SQL](https://github.com/fzakaria/sqlelf)
@@ -15,7 +16,6 @@
 * [2024-03-16, 13:20:31](https://lobste.rs/s/vdvv0a/range_partitioning_zero_one) - [Range Partitioning: Zero to One](https://www.aspiring.dev/range-partitioning/)
 * [2024-03-16, 10:53:11](https://lobste.rs/s/klmtr9/legit_git_web_frontend_written_go) - [legit: A git web frontend written in Go](https://github.com/icyphox/legit)
 * [2024-03-16, 08:59:27](https://lobste.rs/s/jkxedk/what_part_rust_compilation_is_bottleneck) - [What part of Rust compilation is the bottleneck?](https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html)
-* [2024-03-16, 08:57:54](https://lobste.rs/s/du5nev/redefining_observability) - [Redefining Observability](https://hazelweakly.me/blog/redefining-observability/)
 * [2024-03-16, 08:32:45](https://lobste.rs/s/3thshy/javascript_nightmare) - [A Javascript Nightmare](https://blog.ignaciobrasca.com/opinion/2024/03/15/javascript-nightmare.html)
 * [2024-03-16, 02:45:03](https://lobste.rs/s/j7c4rw/nix_is_better_docker_image_builder_than) - [Nix is a better Docker image builder than Docker's image builder](https://xeiaso.net/talks/2024/nix-docker-build/)
 * [2024-03-16, 00:24:22](https://lobste.rs/s/dgmp4p/making_compiler_prove_tmux_is_turing) - [Making a Compiler to Prove tmux Is Turing Complete](https://willhbr.net/2024/03/15/making-a-compiler-to-prove-tmux-is-turing-complete/)
