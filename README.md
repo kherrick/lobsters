@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-17, 18:52:11](https://lobste.rs/s/fxd8eg/sat_css_tool_minify_css_files_through) - [sat-css-tool: Minify CSS files through refactoring with SAT solver](https://github.com/matthewhague/sat-css-tool)
 * [2024-03-17, 16:49:22](https://lobste.rs/s/srfoa7/just) - [Just](https://www.todepond.com/wikiblogarden/better-computing/just/)
 * [2024-03-17, 15:11:07](https://lobste.rs/s/crvzkl/vision_pro_is_over_engineered_devkit) - [Vision Pro is an over-engineered “devkit”](https://hugo.blog/2024/03/11/vision-pro/)
 * [2024-03-17, 14:44:11](https://lobste.rs/s/mir9rs/zenv_forth_for_zx_spectrum) - [zenv: Forth for the ZX Spectrum](https://github.com/Veltas/zenv)
 * [2024-03-17, 14:33:46](https://lobste.rs/s/3wus5i/parsing_urls_python) - [Parsing URLs in Python](https://tkte.ch/articles/2024/03/15/parsing-urls-in-python.html)
 * [2024-03-17, 14:18:45](https://lobste.rs/s/0ubch3/how_sign_kernel_module_for_secure_boot_on) - [How to sign a kernel module for Secure Boot on Debian in 2023](https://ursache.io/posts/signed-kernel-module-debian-2023/)
-* [2024-03-17, 13:15:43](https://lobste.rs/s/m2qdwq/making_mojo_exploits_more_difficult) - [Making Mojo Exploits More Difficult](https://microsoftedge.github.io/edgevr/posts/Making-Mojo-Exploits-More-Difficult/)
 * [2024-03-17, 13:01:06](https://lobste.rs/s/knttqh/oxidos_automotive) - [OxidOS Automotive](https://oxidos.io/)
 * [2024-03-17, 09:03:59](https://lobste.rs/s/pv56wu/fifty_things_you_can_do_with_software) - [Fifty Things you can do with a Software Defined Radio](https://blinry.org/50-things-with-sdr/)
 * [2024-03-17, 07:25:15](https://lobste.rs/s/enr3x6/llm_inference_speed_light) - [LLM inference speed of light](https://zeux.io/2024/03/15/llm-inference-sol/)
