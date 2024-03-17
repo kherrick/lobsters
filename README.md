@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-17, 16:49:22](https://lobste.rs/s/srfoa7/just) - [Just](https://www.todepond.com/wikiblogarden/better-computing/just/)
 * [2024-03-17, 15:11:07](https://lobste.rs/s/crvzkl/vision_pro_is_over_engineered_devkit) - [Vision Pro is an over-engineered “devkit”](https://hugo.blog/2024/03/11/vision-pro/)
 * [2024-03-17, 14:44:11](https://lobste.rs/s/mir9rs/zenv_forth_for_zx_spectrum) - [zenv: Forth for the ZX Spectrum](https://github.com/Veltas/zenv)
 * [2024-03-17, 14:33:46](https://lobste.rs/s/3wus5i/parsing_urls_python) - [Parsing URLs in Python](https://tkte.ch/articles/2024/03/15/parsing-urls-in-python.html)
@@ -23,7 +24,6 @@
 * [2024-03-16, 13:20:31](https://lobste.rs/s/vdvv0a/range_partitioning_zero_one) - [Range Partitioning: Zero to One](https://www.aspiring.dev/range-partitioning/)
 * [2024-03-16, 10:53:11](https://lobste.rs/s/klmtr9/legit_git_web_frontend_written_go) - [legit: A git web frontend written in Go](https://github.com/icyphox/legit)
 * [2024-03-16, 08:32:45](https://lobste.rs/s/3thshy/javascript_nightmare) - [A Javascript Nightmare](https://blog.ignaciobrasca.com/opinion/2024/03/15/javascript-nightmare.html)
-* [2024-03-16, 02:45:03](https://lobste.rs/s/j7c4rw/nix_is_better_docker_image_builder_than) - [Nix is a better Docker image builder than Docker's image builder](https://xeiaso.net/talks/2024/nix-docker-build/)
 * [2024-03-15, 21:06:08](https://lobste.rs/s/lfg3lj/zig_rust_other_languages) - [Zig, Rust, and other languages](https://notes.eatonphil.com/2024-03-15-zig-rust-and-other-languages.html)
 
 ## [Archives](archives/index.md)
