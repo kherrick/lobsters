@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-17](index.md)
 
+* [2024-03-17, 22:47:01](https://lobste.rs/s/phw65v/nix_is_better_docker_image_builder_than) - [Nix is a better Docker image builder than Docker's image builder - Xe Iaso](https://xeiaso.net//talks/2024/nix-docker-build/)
 * [2024-03-17, 19:46:48](https://lobste.rs/s/f9g4js/2600_network_dialup_service_for_vintage) - [2600.network dialup service for vintage computers](https://2600.network/)
 * [2024-03-17, 18:52:11](https://lobste.rs/s/fxd8eg/sat_css_tool_minify_css_files_through) - [sat-css-tool: Minify CSS files through refactoring with SAT solver](https://github.com/matthewhague/sat-css-tool)
 * [2024-03-17, 16:49:22](https://lobste.rs/s/srfoa7/just) - [Just](https://www.todepond.com/wikiblogarden/better-computing/just/)
