@@ -8,6 +8,7 @@
 * [2024-03-17, 14:18:45](https://lobste.rs/s/0ubch3/how_sign_kernel_module_for_secure_boot_on) - [How to sign a kernel module for Secure Boot on Debian in 2023](https://ursache.io/posts/signed-kernel-module-debian-2023/)
 * [2024-03-17, 13:01:06](https://lobste.rs/s/knttqh/oxidos_automotive) - [OxidOS Automotive](https://oxidos.io/)
 * [2024-03-17, 09:03:59](https://lobste.rs/s/pv56wu/fifty_things_you_can_do_with_software) - [Fifty Things you can do with a Software Defined Radio](https://blinry.org/50-things-with-sdr/)
+* [2024-03-17, 07:56:22](https://lobste.rs/s/jz4803/c_exit_time_destructors) - [C++ exit-time destructors](https://maskray.me/blog/2024-03-17-c++-exit-time-destructors)
 * [2024-03-17, 07:25:15](https://lobste.rs/s/enr3x6/llm_inference_speed_light) - [LLM inference speed of light](https://zeux.io/2024/03/15/llm-inference-sol/)
 * [2024-03-17, 06:11:03](https://lobste.rs/s/vwubyz/terminal_latency) - [Terminal Latency](https://beuke.org/terminal-latency/)
 * [2024-03-17, 04:45:23](https://lobste.rs/s/grchjk/return_frame_pointers) - [The Return of the Frame Pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)
@@ -22,7 +23,6 @@
 * [2024-03-16, 14:55:02](https://lobste.rs/s/qurpee/linux_desktop_is_finally_great_both) - [The Linux Desktop is Finally Great (Both Ubuntu and Firefox)](https://punkx.org/jackdoe/linux-desktop.html)
 * [2024-03-16, 14:53:53](https://lobste.rs/s/qbbzm2/fuzzing_ladybird_with_tools_from_google) - [Fuzzing Ladybird with tools from Google Project Zero](https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from)
 * [2024-03-16, 13:20:31](https://lobste.rs/s/vdvv0a/range_partitioning_zero_one) - [Range Partitioning: Zero to One](https://www.aspiring.dev/range-partitioning/)
-* [2024-03-16, 10:53:11](https://lobste.rs/s/klmtr9/legit_git_web_frontend_written_go) - [legit: A git web frontend written in Go](https://github.com/icyphox/legit)
 * [2024-03-16, 08:32:45](https://lobste.rs/s/3thshy/javascript_nightmare) - [A Javascript Nightmare](https://blog.ignaciobrasca.com/opinion/2024/03/15/javascript-nightmare.html)
 * [2024-03-15, 21:06:08](https://lobste.rs/s/lfg3lj/zig_rust_other_languages) - [Zig, Rust, and other languages](https://notes.eatonphil.com/2024-03-15-zig-rust-and-other-languages.html)
 
