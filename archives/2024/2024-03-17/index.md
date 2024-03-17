@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-17](index.md)
 
+* [2024-03-17, 05:54:06](https://lobste.rs/s/twjfrm/core_guidelines_are_not_rules) - [Core Guidelines are not Rules](https://arne-mertz.de/2024/03/core-guidelines-are-not-rules/)
 * [2024-03-17, 05:50:51](https://lobste.rs/s/txpiur/medical_device_developer_linux) - [Medical Device Developer Linux](https://www.logikalsolutions.com/wordpress/information-technology/medical-device-developer-linux/)
 * [2024-03-17, 04:45:23](https://lobste.rs/s/grchjk/return_frame_pointers) - [The Return of the Frame Pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)
 * [2024-03-17, 04:33:07](https://lobste.rs/s/apx8qj/we_were_wizards_foreword_learning_perl) - [We were wizards — a foreword to Learning Perl](https://jwgoerlich.com/we-were-wizards-learning-perl/)
