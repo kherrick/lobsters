@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-17, 03:32:29](https://lobste.rs/s/mgaugf/sqlelf_explore_elf_objects_through_power) - [sqlelf: Explore ELF objects through the power of SQL](https://github.com/fzakaria/sqlelf)
 * [2024-03-17, 02:51:46](https://lobste.rs/s/dotylq/retrowin32_minesweeper_four_month_bug) - [retrowin32: Minesweeper and the four month bug](https://neugierig.org/software/blog/2024/03/retrowin32-minesweeper-bug.html)
 * [2024-03-16, 23:31:39](https://lobste.rs/s/5xeuew/losing_faith_on_testing) - [Losing the Faith on Testing](https://registerspill.thorstenball.com/p/a-few-words-on-testing)
 * [2024-03-16, 22:50:30](https://lobste.rs/s/49neru/how_web_bloat_impacts_users_with_slow) - [How web bloat impacts users with slow devices](https://danluu.com/slow-device/)
@@ -24,7 +25,6 @@
 * [2024-03-15, 13:26:50](https://lobste.rs/s/ngdrbc/montreal_problem_why_programming) - [The Montreal Problem: Why Programming Languages Need a Style Czar](https://earthly.dev/blog/language-style-czar/)
 * [2024-03-15, 11:26:22](https://lobste.rs/s/mlek1h/onboarding_roulette_deleting_our) - [Onboarding roulette: deleting our employee accounts daily](https://graphite.dev/blog/onboarding-roulette)
 * [2024-03-15, 10:53:31](https://lobste.rs/s/gwsilq/iam_is_worst) - [IAM Is The Worst](https://matduggan.com/iam-is-the-worst/)
-* [2024-03-15, 04:44:47](https://lobste.rs/s/kpi2xx/what_s_most_interesting_automation_you) - [What’s the most interesting automation you have created?](https://lobste.rs/s/kpi2xx/what_s_most_interesting_automation_you)
 
 ## [Archives](archives/index.md)
 
