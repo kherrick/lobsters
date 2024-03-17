@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-17, 06:56:15",
+      "https://lobste.rs/s/wxyqau/lambda_on_hard_mode_inside_modal_s_web"
+    ],
+    [
+      "Lambda on hard mode: Inside Modal's web infrastructure",
+      "https://modal.com/blog/serverless-http"
+    ]
+  ],
+  [
+    [
       "2024-03-17, 06:11:03",
       "https://lobste.rs/s/vwubyz/terminal_latency"
     ],
@@ -237,16 +247,6 @@
     [
       "The Montreal Problem: Why Programming Languages Need a Style Czar",
       "https://earthly.dev/blog/language-style-czar/"
-    ]
-  ],
-  [
-    [
-      "2024-03-15, 10:53:31",
-      "https://lobste.rs/s/gwsilq/iam_is_worst"
-    ],
-    [
-      "IAM Is The Worst",
-      "https://matduggan.com/iam-is-the-worst/"
     ]
   ]
 ]
