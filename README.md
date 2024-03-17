@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-17, 06:11:03](https://lobste.rs/s/vwubyz/terminal_latency) - [Terminal Latency](https://beuke.org/terminal-latency/)
 * [2024-03-17, 05:54:06](https://lobste.rs/s/twjfrm/core_guidelines_are_not_rules) - [Core Guidelines are not Rules](https://arne-mertz.de/2024/03/core-guidelines-are-not-rules/)
 * [2024-03-17, 05:50:51](https://lobste.rs/s/txpiur/medical_device_developer_linux) - [Medical Device Developer Linux](https://www.logikalsolutions.com/wordpress/information-technology/medical-device-developer-linux/)
 * [2024-03-17, 04:45:23](https://lobste.rs/s/grchjk/return_frame_pointers) - [The Return of the Frame Pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)
@@ -20,7 +21,6 @@
 * [2024-03-16, 08:32:45](https://lobste.rs/s/3thshy/javascript_nightmare) - [A Javascript Nightmare](https://blog.ignaciobrasca.com/opinion/2024/03/15/javascript-nightmare.html)
 * [2024-03-16, 02:45:03](https://lobste.rs/s/j7c4rw/nix_is_better_docker_image_builder_than) - [Nix is a better Docker image builder than Docker's image builder](https://xeiaso.net/talks/2024/nix-docker-build/)
 * [2024-03-16, 00:24:22](https://lobste.rs/s/dgmp4p/making_compiler_prove_tmux_is_turing) - [Making a Compiler to Prove tmux Is Turing Complete](https://willhbr.net/2024/03/15/making-a-compiler-to-prove-tmux-is-turing-complete/)
-* [2024-03-15, 21:55:37](https://lobste.rs/s/yx1vis/tokamak_web_framework_for_zig) - [Tokamak: A web framework for Zig](https://tomsik.cz/posts/tokamak/)
 * [2024-03-15, 21:06:08](https://lobste.rs/s/lfg3lj/zig_rust_other_languages) - [Zig, Rust, and other languages](https://notes.eatonphil.com/2024-03-15-zig-rust-and-other-languages.html)
 * [2024-03-15, 15:51:28](https://lobste.rs/s/46dgy1/npm_install_everything_complete_utter) - [npm install everything, and the complete and utter chaos that follows](https://boehs.org/node/npm-everything)
 * [2024-03-15, 13:26:50](https://lobste.rs/s/ngdrbc/montreal_problem_why_programming) - [The Montreal Problem: Why Programming Languages Need a Style Czar](https://earthly.dev/blog/language-style-czar/)
