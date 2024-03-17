@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-17](index.md)
 
+* [2024-03-17, 14:18:45](https://lobste.rs/s/0ubch3/how_sign_kernel_module_for_secure_boot_on) - [How to sign a kernel module for Secure Boot on Debian in 2023](https://ursache.io/posts/signed-kernel-module-debian-2023/)
 * [2024-03-17, 13:15:43](https://lobste.rs/s/m2qdwq/making_mojo_exploits_more_difficult) - [Making Mojo Exploits More Difficult](https://microsoftedge.github.io/edgevr/posts/Making-Mojo-Exploits-More-Difficult/)
 * [2024-03-17, 13:01:06](https://lobste.rs/s/knttqh/oxidos_automotive) - [OxidOS Automotive](https://oxidos.io/)
 * [2024-03-17, 09:03:59](https://lobste.rs/s/pv56wu/fifty_things_you_can_do_with_software) - [Fifty Things you can do with a Software Defined Radio](https://blinry.org/50-things-with-sdr/)
