@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-17, 04:33:07](https://lobste.rs/s/apx8qj/we_were_wizards_foreword_learning_perl) - [We were wizards — a foreword to Learning Perl](https://jwgoerlich.com/we-were-wizards-learning-perl/)
 * [2024-03-17, 03:32:29](https://lobste.rs/s/mgaugf/sqlelf_explore_elf_objects_through_power) - [sqlelf: Explore ELF objects through the power of SQL](https://github.com/fzakaria/sqlelf)
 * [2024-03-17, 02:51:46](https://lobste.rs/s/dotylq/retrowin32_minesweeper_four_month_bug) - [retrowin32: Minesweeper and the four month bug](https://neugierig.org/software/blog/2024/03/retrowin32-minesweeper-bug.html)
 * [2024-03-16, 23:31:39](https://lobste.rs/s/5xeuew/losing_faith_on_testing) - [Losing the Faith on Testing](https://registerspill.thorstenball.com/p/a-few-words-on-testing)
@@ -23,7 +24,6 @@
 * [2024-03-15, 19:01:49](https://lobste.rs/s/spozr1/on_compact_simple_binary_object_notation) - [µON - a compact and simple binary object notation](https://github.com/vshymanskyy/muon/)
 * [2024-03-15, 15:51:28](https://lobste.rs/s/46dgy1/npm_install_everything_complete_utter) - [npm install everything, and the complete and utter chaos that follows](https://boehs.org/node/npm-everything)
 * [2024-03-15, 13:26:50](https://lobste.rs/s/ngdrbc/montreal_problem_why_programming) - [The Montreal Problem: Why Programming Languages Need a Style Czar](https://earthly.dev/blog/language-style-czar/)
-* [2024-03-15, 11:26:22](https://lobste.rs/s/mlek1h/onboarding_roulette_deleting_our) - [Onboarding roulette: deleting our employee accounts daily](https://graphite.dev/blog/onboarding-roulette)
 * [2024-03-15, 10:53:31](https://lobste.rs/s/gwsilq/iam_is_worst) - [IAM Is The Worst](https://matduggan.com/iam-is-the-worst/)
 
 ## [Archives](archives/index.md)
