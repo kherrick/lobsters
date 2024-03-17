@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-17](index.md)
 
+* [2024-03-17, 07:14:29](https://lobste.rs/s/qvuba9/remote_key_attestation_explained) - [Remote Key Attestation explained](https://www.smartcard-hsm.com/2024/02/24/Key_Attestation_explained.html)
 * [2024-03-17, 06:56:15](https://lobste.rs/s/wxyqau/lambda_on_hard_mode_inside_modal_s_web) - [Lambda on hard mode: Inside Modal's web infrastructure](https://modal.com/blog/serverless-http)
 * [2024-03-17, 06:11:03](https://lobste.rs/s/vwubyz/terminal_latency) - [Terminal Latency](https://beuke.org/terminal-latency/)
 * [2024-03-17, 05:54:06](https://lobste.rs/s/twjfrm/core_guidelines_are_not_rules) - [Core Guidelines are not Rules](https://arne-mertz.de/2024/03/core-guidelines-are-not-rules/)
