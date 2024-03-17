@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2024-03-17, 07:56:22",
+      "https://lobste.rs/s/jz4803/c_exit_time_destructors"
+    ],
+    [
+      "C++ exit-time destructors",
+      "https://maskray.me/blog/2024-03-17-c++-exit-time-destructors"
+    ]
+  ],
+  [
+    [
       "2024-03-17, 07:25:15",
       "https://lobste.rs/s/enr3x6/llm_inference_speed_light"
     ],
@@ -217,16 +227,6 @@
     [
       "Range Partitioning: Zero to One",
       "https://www.aspiring.dev/range-partitioning/"
-    ]
-  ],
-  [
-    [
-      "2024-03-16, 10:53:11",
-      "https://lobste.rs/s/klmtr9/legit_git_web_frontend_written_go"
-    ],
-    [
-      "legit: A git web frontend written in Go",
-      "https://github.com/icyphox/legit"
     ]
   ],
   [
