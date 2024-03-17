@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-17, 07:25:15",
+      "https://lobste.rs/s/enr3x6/llm_inference_speed_light"
+    ],
+    [
+      "LLM inference speed of light",
+      "https://zeux.io/2024/03/15/llm-inference-sol/"
+    ]
+  ],
+  [
+    [
       "2024-03-17, 07:14:29",
       "https://lobste.rs/s/qvuba9/remote_key_attestation_explained"
     ],
@@ -237,16 +247,6 @@
     [
       "npm install everything, and the complete and utter chaos that follows",
       "https://boehs.org/node/npm-everything"
-    ]
-  ],
-  [
-    [
-      "2024-03-15, 13:26:50",
-      "https://lobste.rs/s/ngdrbc/montreal_problem_why_programming"
-    ],
-    [
-      "The Montreal Problem: Why Programming Languages Need a Style Czar",
-      "https://earthly.dev/blog/language-style-czar/"
     ]
   ]
 ]
