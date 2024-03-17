@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-17](index.md)
 
+* [2024-03-17, 19:46:48](https://lobste.rs/s/f9g4js/2600_network_dialup_service_for_vintage) - [2600.network dialup service for vintage computers](https://2600.network/)
 * [2024-03-17, 18:52:11](https://lobste.rs/s/fxd8eg/sat_css_tool_minify_css_files_through) - [sat-css-tool: Minify CSS files through refactoring with SAT solver](https://github.com/matthewhague/sat-css-tool)
 * [2024-03-17, 16:49:22](https://lobste.rs/s/srfoa7/just) - [Just](https://www.todepond.com/wikiblogarden/better-computing/just/)
 * [2024-03-17, 15:11:07](https://lobste.rs/s/crvzkl/vision_pro_is_over_engineered_devkit) - [Vision Pro is an over-engineered “devkit”](https://hugo.blog/2024/03/11/vision-pro/)
