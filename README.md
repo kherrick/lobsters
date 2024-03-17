@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-17, 14:33:46](https://lobste.rs/s/3wus5i/parsing_urls_python) - [Parsing URLs in Python](https://tkte.ch/articles/2024/03/15/parsing-urls-in-python.html)
 * [2024-03-17, 14:18:45](https://lobste.rs/s/0ubch3/how_sign_kernel_module_for_secure_boot_on) - [How to sign a kernel module for Secure Boot on Debian in 2023](https://ursache.io/posts/signed-kernel-module-debian-2023/)
 * [2024-03-17, 13:15:43](https://lobste.rs/s/m2qdwq/making_mojo_exploits_more_difficult) - [Making Mojo Exploits More Difficult](https://microsoftedge.github.io/edgevr/posts/Making-Mojo-Exploits-More-Difficult/)
 * [2024-03-17, 13:01:06](https://lobste.rs/s/knttqh/oxidos_automotive) - [OxidOS Automotive](https://oxidos.io/)
@@ -24,7 +25,6 @@
 * [2024-03-16, 08:32:45](https://lobste.rs/s/3thshy/javascript_nightmare) - [A Javascript Nightmare](https://blog.ignaciobrasca.com/opinion/2024/03/15/javascript-nightmare.html)
 * [2024-03-16, 02:45:03](https://lobste.rs/s/j7c4rw/nix_is_better_docker_image_builder_than) - [Nix is a better Docker image builder than Docker's image builder](https://xeiaso.net/talks/2024/nix-docker-build/)
 * [2024-03-15, 21:06:08](https://lobste.rs/s/lfg3lj/zig_rust_other_languages) - [Zig, Rust, and other languages](https://notes.eatonphil.com/2024-03-15-zig-rust-and-other-languages.html)
-* [2024-03-15, 15:51:28](https://lobste.rs/s/46dgy1/npm_install_everything_complete_utter) - [npm install everything, and the complete and utter chaos that follows](https://boehs.org/node/npm-everything)
 
 ## [Archives](archives/index.md)
 
