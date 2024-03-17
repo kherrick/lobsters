@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-17](index.md)
 
+* [2024-03-17, 09:03:59](https://lobste.rs/s/pv56wu/fifty_things_you_can_do_with_software) - [Fifty Things you can do with a Software Defined Radio](https://blinry.org/50-things-with-sdr/)
 * [2024-03-17, 07:56:22](https://lobste.rs/s/jz4803/c_exit_time_destructors) - [C++ exit-time destructors](https://maskray.me/blog/2024-03-17-c++-exit-time-destructors)
 * [2024-03-17, 07:25:15](https://lobste.rs/s/enr3x6/llm_inference_speed_light) - [LLM inference speed of light](https://zeux.io/2024/03/15/llm-inference-sol/)
 * [2024-03-17, 07:14:29](https://lobste.rs/s/qvuba9/remote_key_attestation_explained) - [Remote Key Attestation explained](https://www.smartcard-hsm.com/2024/02/24/Key_Attestation_explained.html)
