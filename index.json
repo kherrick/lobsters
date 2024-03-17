@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-17, 06:11:03",
+      "https://lobste.rs/s/vwubyz/terminal_latency"
+    ],
+    [
+      "Terminal Latency",
+      "https://beuke.org/terminal-latency/"
+    ]
+  ],
+  [
+    [
       "2024-03-17, 05:54:06",
       "https://lobste.rs/s/twjfrm/core_guidelines_are_not_rules"
     ],
@@ -197,16 +207,6 @@
     [
       "Making a Compiler to Prove tmux Is Turing Complete",
       "https://willhbr.net/2024/03/15/making-a-compiler-to-prove-tmux-is-turing-complete/"
-    ]
-  ],
-  [
-    [
-      "2024-03-15, 21:55:37",
-      "https://lobste.rs/s/yx1vis/tokamak_web_framework_for_zig"
-    ],
-    [
-      "Tokamak: A web framework for Zig",
-      "https://tomsik.cz/posts/tokamak/"
     ]
   ],
   [
