@@ -19,10 +19,10 @@
 * [2024-03-16, 23:31:39](https://lobste.rs/s/5xeuew/losing_faith_on_testing) - [Losing the Faith on Testing](https://registerspill.thorstenball.com/p/a-few-words-on-testing)
 * [2024-03-16, 22:50:30](https://lobste.rs/s/49neru/how_web_bloat_impacts_users_with_slow) - [How web bloat impacts users with slow devices](https://danluu.com/slow-device/)
 * [2024-03-16, 19:18:27](https://lobste.rs/s/efysxx/semantic_ajax_html) - [Semantic AJAX-HTML](https://herman.bearblog.dev/semantic-ajax-html/)
+* [2024-03-16, 18:38:35](https://lobste.rs/s/jguc1y/immich_self_hosted_photo_video) - [Immich: Self-hosted photo and video management solution](https://immich.app/)
 * [2024-03-16, 16:39:48](https://lobste.rs/s/dz1sor/cataloguing_my_vinyl_collection_with) - [Cataloguing my vinyl collection with computer vision](https://jamesg.blog/2024/03/16/vinyl-record-indexing/)
 * [2024-03-16, 14:55:02](https://lobste.rs/s/qurpee/linux_desktop_is_finally_great_both) - [The Linux Desktop is Finally Great (Both Ubuntu and Firefox)](https://punkx.org/jackdoe/linux-desktop.html)
 * [2024-03-16, 14:53:53](https://lobste.rs/s/qbbzm2/fuzzing_ladybird_with_tools_from_google) - [Fuzzing Ladybird with tools from Google Project Zero](https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from)
-* [2024-03-16, 13:20:31](https://lobste.rs/s/vdvv0a/range_partitioning_zero_one) - [Range Partitioning: Zero to One](https://www.aspiring.dev/range-partitioning/)
 * [2024-03-16, 08:32:45](https://lobste.rs/s/3thshy/javascript_nightmare) - [A Javascript Nightmare](https://blog.ignaciobrasca.com/opinion/2024/03/15/javascript-nightmare.html)
 * [2024-03-15, 21:06:08](https://lobste.rs/s/lfg3lj/zig_rust_other_languages) - [Zig, Rust, and other languages](https://notes.eatonphil.com/2024-03-15-zig-rust-and-other-languages.html)
 
