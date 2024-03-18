@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-18, 11:00:09](https://lobste.rs/s/xpatpd/let_s_build_ai) - [Let's Build AI](https://letsbuild.ai/)
 * [2024-03-18, 10:04:54](https://lobste.rs/s/xppmwo/simplifying_test_release_snapped_gui) - [Simplifying Test & Release of Snapped GUI Apps](https://jnsgr.uk/2024/03/simplifying-snap-gui-testing/)
 * [2024-03-18, 09:45:34](https://lobste.rs/s/jajojo/foca_gossip_based_cluster_membership) - [foca: Gossip-based cluster membership discovery (SWIM)](https://caio.co/de/foca/)
 * [2024-03-18, 05:15:49](https://lobste.rs/s/0hcqj6/sensible_firefox_setup) - [Sensible Firefox Setup](https://vermaden.wordpress.com/2024/03/18/sensible-firefox-setup/)
@@ -12,7 +13,6 @@
 * [2024-03-17, 14:44:11](https://lobste.rs/s/mir9rs/zenv_forth_for_zx_spectrum) - [zenv: Forth for the ZX Spectrum](https://github.com/Veltas/zenv)
 * [2024-03-17, 14:33:46](https://lobste.rs/s/3wus5i/parsing_urls_python) - [Parsing URLs in Python](https://tkte.ch/articles/2024/03/15/parsing-urls-in-python.html)
 * [2024-03-17, 14:18:45](https://lobste.rs/s/0ubch3/how_sign_kernel_module_for_secure_boot_on) - [How to sign a kernel module for Secure Boot on Debian in 2023](https://ursache.io/posts/signed-kernel-module-debian-2023/)
-* [2024-03-17, 13:15:43](https://lobste.rs/s/m2qdwq/making_mojo_exploits_more_difficult) - [Making Mojo Exploits More Difficult](https://microsoftedge.github.io/edgevr/posts/Making-Mojo-Exploits-More-Difficult/)
 * [2024-03-17, 13:01:06](https://lobste.rs/s/knttqh/oxidos_automotive) - [OxidOS Automotive](https://oxidos.io/)
 * [2024-03-17, 09:03:59](https://lobste.rs/s/pv56wu/fifty_things_you_can_do_with_software) - [Fifty Things you can do with a Software Defined Radio](https://blinry.org/50-things-with-sdr/)
 * [2024-03-17, 07:56:22](https://lobste.rs/s/jz4803/c_exit_time_destructors) - [C++ exit-time destructors](https://maskray.me/blog/2024-03-17-c++-exit-time-destructors)
