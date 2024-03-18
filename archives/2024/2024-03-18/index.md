@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 22:46:52](https://lobste.rs/s/ba6lam/distributed_queries_for_pgvector) - [Distributed queries for pgvector](https://jkatz05.com/post/postgres/distributed-pgvector/)
 * [2024-03-18, 21:59:46](https://lobste.rs/s/zfnak4/what_if_everybody_did_everything_right) - [What if everybody did everything right?](https://surfingcomplexity.blog/2024/02/17/what-if-everybody-did-everything-right/)
 * [2024-03-18, 18:33:23](https://lobste.rs/s/nrbi30/goto_is_not_horror) - [Goto Is Not A Horror](https://jerf.org/iri/post/2024/goto/)
 * [2024-03-18, 18:22:39](https://lobste.rs/s/eqkyv7/xata_new_serverless_postgres_platform) - [Xata, a new serverless Postgres platform](https://xata.io/blog/serverless-postgres-platform)
