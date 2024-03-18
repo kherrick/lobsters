@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 18:22:39](https://lobste.rs/s/eqkyv7/xata_new_serverless_postgres_platform) - [Xata, a new serverless Postgres platform](https://xata.io/blog/serverless-postgres-platform)
 * [2024-03-18, 18:00:51](https://lobste.rs/s/jiy6cz/100tb_benchmarks_for_gpu_native_data) - [100TB benchmarks for GPU-native data processing](https://voltrondata.com/benchmarks/theseus)
 * [2024-03-18, 17:20:46](https://lobste.rs/s/8hjcdg/stupidity_arrogance_gnome_developers) - [The stupidity and arrogance of GNOME developers](https://felipec.wordpress.com/2024/03/18/stupid-gnome-developers/)
 * [2024-03-18, 17:15:42](https://lobste.rs/s/cxgm3t/no_way_prevent_this_say_users_only) - [\"No way to prevent this\" say users of only language where this regularly happens](https://xeiaso.net//shitposts/no-way-to-prevent-this/CVE-2024-22252/)
