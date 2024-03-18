@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-18, 10:04:54](https://lobste.rs/s/xppmwo/simplifying_test_release_snapped_gui) - [Simplifying Test & Release of Snapped GUI Apps](https://jnsgr.uk/2024/03/simplifying-snap-gui-testing/)
 * [2024-03-18, 09:45:34](https://lobste.rs/s/jajojo/foca_gossip_based_cluster_membership) - [foca: Gossip-based cluster membership discovery (SWIM)](https://caio.co/de/foca/)
 * [2024-03-18, 05:15:49](https://lobste.rs/s/0hcqj6/sensible_firefox_setup) - [Sensible Firefox Setup](https://vermaden.wordpress.com/2024/03/18/sensible-firefox-setup/)
 * [2024-03-18, 04:46:15](https://lobste.rs/s/gazwp0/thoughts_on_cloud_gpu_providers) - [Thoughts on cloud GPU providers?](https://lobste.rs/s/gazwp0/thoughts_on_cloud_gpu_providers)
@@ -24,7 +25,6 @@
 * [2024-03-16, 23:31:39](https://lobste.rs/s/5xeuew/losing_faith_on_testing) - [Losing the Faith on Testing](https://registerspill.thorstenball.com/p/a-few-words-on-testing)
 * [2024-03-16, 22:50:30](https://lobste.rs/s/49neru/how_web_bloat_impacts_users_with_slow) - [How web bloat impacts users with slow devices](https://danluu.com/slow-device/)
 * [2024-03-16, 14:55:02](https://lobste.rs/s/qurpee/linux_desktop_is_finally_great_both) - [The Linux Desktop is Finally Great (Both Ubuntu and Firefox)](https://punkx.org/jackdoe/linux-desktop.html)
-* [2024-03-16, 14:53:53](https://lobste.rs/s/qbbzm2/fuzzing_ladybird_with_tools_from_google) - [Fuzzing Ladybird with tools from Google Project Zero](https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 10:04:54](https://lobste.rs/s/xppmwo/simplifying_test_release_snapped_gui) - [Simplifying Test & Release of Snapped GUI Apps](https://jnsgr.uk/2024/03/simplifying-snap-gui-testing/)
 * [2024-03-18, 09:45:34](https://lobste.rs/s/jajojo/foca_gossip_based_cluster_membership) - [foca: Gossip-based cluster membership discovery (SWIM)](https://caio.co/de/foca/)
 * [2024-03-18, 05:15:49](https://lobste.rs/s/0hcqj6/sensible_firefox_setup) - [Sensible Firefox Setup](https://vermaden.wordpress.com/2024/03/18/sensible-firefox-setup/)
 * [2024-03-18, 04:46:15](https://lobste.rs/s/gazwp0/thoughts_on_cloud_gpu_providers) - [Thoughts on cloud GPU providers?](https://lobste.rs/s/gazwp0/thoughts_on_cloud_gpu_providers)
