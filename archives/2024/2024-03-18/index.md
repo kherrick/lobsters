@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 17:20:46](https://lobste.rs/s/8hjcdg/stupidity_arrogance_gnome_developers) - [The stupidity and arrogance of GNOME developers](https://felipec.wordpress.com/2024/03/18/stupid-gnome-developers/)
+* [2024-03-18, 17:15:42](https://lobste.rs/s/cxgm3t/no_way_prevent_this_say_users_only) - [\"No way to prevent this\" say users of only language where this regularly happens](https://xeiaso.net//shitposts/no-way-to-prevent-this/CVE-2024-22252/)
 * [2024-03-18, 16:47:17](https://lobste.rs/s/wyzdgf/websockets_vs_server_sent_events_vs_long) - [WebSockets vs Server-Sent-Events vs Long-Polling vs WebRTC vs WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
 * [2024-03-18, 13:52:09](https://lobste.rs/s/yuzuhf/blackbox_fuzzing_iot_devices_using) - [Blackbox-Fuzzing of IoT Devices Using the Router TL-WR902AC as Example](https://tsmr.eu/blackbox-fuzzing.html)
 * [2024-03-18, 13:47:05](https://lobste.rs/s/5djucz/introducing_pixi_s_multiple) - [Introducing pixi's multiple environments implementation](https://prefix.dev/blog/introducing_multi_env_pixi)
