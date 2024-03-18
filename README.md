@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-03-18, 01:29:09](https://lobste.rs/s/tmdz6o/stop_wasting_your_time_on_annoying_ctf) - [Stop wasting your time on annoying CTF challenges (and just use Ronin)](https://ronin-rb.dev/blog/2024/03/15/stop-wasting-your-time-on-annoying-ctf-challenges.html)
 * [2024-03-17, 19:46:48](https://lobste.rs/s/f9g4js/2600_network_dialup_service_for_vintage) - [2600.network dialup service for vintage computers](https://2600.network/)
 * [2024-03-17, 18:52:11](https://lobste.rs/s/fxd8eg/sat_css_tool_minify_css_files_through) - [sat-css-tool: Minify CSS files through refactoring with SAT solver](https://github.com/matthewhague/sat-css-tool)
 * [2024-03-17, 16:49:22](https://lobste.rs/s/srfoa7/just) - [Just](https://www.todepond.com/wikiblogarden/better-computing/just/)
@@ -20,6 +19,7 @@
 * [2024-03-17, 02:51:46](https://lobste.rs/s/dotylq/retrowin32_minesweeper_four_month_bug) - [retrowin32: Minesweeper and the four month bug](https://neugierig.org/software/blog/2024/03/retrowin32-minesweeper-bug.html)
 * [2024-03-16, 23:31:39](https://lobste.rs/s/5xeuew/losing_faith_on_testing) - [Losing the Faith on Testing](https://registerspill.thorstenball.com/p/a-few-words-on-testing)
 * [2024-03-16, 22:50:30](https://lobste.rs/s/49neru/how_web_bloat_impacts_users_with_slow) - [How web bloat impacts users with slow devices](https://danluu.com/slow-device/)
+* [2024-03-16, 19:18:27](https://lobste.rs/s/efysxx/semantic_ajax_html) - [Semantic AJAX-HTML](https://herman.bearblog.dev/semantic-ajax-html/)
 * [2024-03-16, 16:39:48](https://lobste.rs/s/dz1sor/cataloguing_my_vinyl_collection_with) - [Cataloguing my vinyl collection with computer vision](https://jamesg.blog/2024/03/16/vinyl-record-indexing/)
 * [2024-03-16, 14:55:02](https://lobste.rs/s/qurpee/linux_desktop_is_finally_great_both) - [The Linux Desktop is Finally Great (Both Ubuntu and Firefox)](https://punkx.org/jackdoe/linux-desktop.html)
 * [2024-03-16, 14:53:53](https://lobste.rs/s/qbbzm2/fuzzing_ladybird_with_tools_from_google) - [Fuzzing Ladybird with tools from Google Project Zero](https://awesomekling.substack.com/p/fuzzing-ladybird-with-tools-from)
