@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 16:47:17](https://lobste.rs/s/wyzdgf/websockets_vs_server_sent_events_vs_long) - [WebSockets vs Server-Sent-Events vs Long-Polling vs WebRTC vs WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
 * [2024-03-18, 13:52:09](https://lobste.rs/s/yuzuhf/blackbox_fuzzing_iot_devices_using) - [Blackbox-Fuzzing of IoT Devices Using the Router TL-WR902AC as Example](https://tsmr.eu/blackbox-fuzzing.html)
 * [2024-03-18, 13:47:05](https://lobste.rs/s/5djucz/introducing_pixi_s_multiple) - [Introducing pixi's multiple environments implementation](https://prefix.dev/blog/introducing_multi_env_pixi)
 * [2024-03-18, 13:07:24](https://lobste.rs/s/wqzbgr/moving_forward_together) - [Moving Forward, Together](https://www.chromium.org/Home/chromium-security/root-ca-policy/moving-forward-together/)
