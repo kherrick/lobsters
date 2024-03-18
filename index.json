@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-18, 13:52:09",
+      "https://lobste.rs/s/yuzuhf/blackbox_fuzzing_iot_devices_using"
+    ],
+    [
+      "Blackbox-Fuzzing of IoT Devices Using the Router TL-WR902AC as Example",
+      "https://tsmr.eu/blackbox-fuzzing.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-18, 13:47:05",
+      "https://lobste.rs/s/5djucz/introducing_pixi_s_multiple"
+    ],
+    [
+      "Introducing pixi's multiple environments implementation",
+      "https://prefix.dev/blog/introducing_multi_env_pixi"
+    ]
+  ],
+  [
+    [
       "2024-03-18, 13:07:24",
       "https://lobste.rs/s/wqzbgr/moving_forward_together"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-03-17, 14:33:46",
-      "https://lobste.rs/s/3wus5i/parsing_urls_python"
-    ],
-    [
-      "Parsing URLs in Python",
-      "https://tkte.ch/articles/2024/03/15/parsing-urls-in-python.html"
-    ]
-  ],
-  [
-    [
       "2024-03-17, 14:18:45",
       "https://lobste.rs/s/0ubch3/how_sign_kernel_module_for_secure_boot_on"
     ],
@@ -187,16 +197,6 @@
     [
       "Fifty Things you can do with a Software Defined Radio",
       "https://blinry.org/50-things-with-sdr/"
-    ]
-  ],
-  [
-    [
-      "2024-03-17, 06:11:03",
-      "https://lobste.rs/s/vwubyz/terminal_latency"
-    ],
-    [
-      "Terminal Latency",
-      "https://beuke.org/terminal-latency/"
     ]
   ],
   [
