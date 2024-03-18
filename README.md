@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-18, 13:07:24](https://lobste.rs/s/wqzbgr/moving_forward_together) - [Moving Forward, Together](https://www.chromium.org/Home/chromium-security/root-ca-policy/moving-forward-together/)
 * [2024-03-18, 12:51:31](https://lobste.rs/s/iyk5rt/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/iyk5rt/what_are_you_doing_this_week)
 * [2024-03-18, 12:09:07](https://lobste.rs/s/zk9h0b/procrastinating_on_my_side_project_by) - [Procrastinating on my side project by torturing databases](https://ntietz.com/blog/procrastinating-on-my-side-project-by-torturing-databases/)
 * [2024-03-18, 11:11:58](https://lobste.rs/s/iec3zk/social_minefield_high_stakes) - [Social Minefield - high stakes minesweeper via Clickjacking attacks](https://social-minefield.com)
@@ -21,7 +22,6 @@
 * [2024-03-17, 06:11:03](https://lobste.rs/s/vwubyz/terminal_latency) - [Terminal Latency](https://beuke.org/terminal-latency/)
 * [2024-03-17, 04:45:23](https://lobste.rs/s/grchjk/return_frame_pointers) - [The Return of the Frame Pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)
 * [2024-03-17, 04:33:07](https://lobste.rs/s/apx8qj/we_were_wizards_foreword_learning_perl) - [We were wizards — a foreword to Learning Perl](https://jwgoerlich.com/we-were-wizards-learning-perl/)
-* [2024-03-17, 02:51:46](https://lobste.rs/s/dotylq/retrowin32_minesweeper_four_month_bug) - [retrowin32: Minesweeper and the four month bug](https://neugierig.org/software/blog/2024/03/retrowin32-minesweeper-bug.html)
 * [2024-03-16, 23:31:39](https://lobste.rs/s/5xeuew/losing_faith_on_testing) - [Losing the Faith on Testing](https://registerspill.thorstenball.com/p/a-few-words-on-testing)
 * [2024-03-16, 22:50:30](https://lobste.rs/s/49neru/how_web_bloat_impacts_users_with_slow) - [How web bloat impacts users with slow devices](https://danluu.com/slow-device/)
 * [2024-03-16, 14:55:02](https://lobste.rs/s/qurpee/linux_desktop_is_finally_great_both) - [The Linux Desktop is Finally Great (Both Ubuntu and Firefox)](https://punkx.org/jackdoe/linux-desktop.html)
