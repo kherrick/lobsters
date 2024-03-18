@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-18](index.md)
 
+* [2024-03-18, 11:11:58](https://lobste.rs/s/iec3zk/social_minefield_high_stakes) - [Social Minefield - high stakes minesweeper via Clickjacking attacks](https://social-minefield.com)
 * [2024-03-18, 11:00:09](https://lobste.rs/s/xpatpd/let_s_build_ai) - [Let's Build AI](https://letsbuild.ai/)
 * [2024-03-18, 10:04:54](https://lobste.rs/s/xppmwo/simplifying_test_release_snapped_gui) - [Simplifying Test & Release of Snapped GUI Apps](https://jnsgr.uk/2024/03/simplifying-snap-gui-testing/)
 * [2024-03-18, 09:45:34](https://lobste.rs/s/jajojo/foca_gossip_based_cluster_membership) - [foca: Gossip-based cluster membership discovery (SWIM)](https://caio.co/de/foca/)

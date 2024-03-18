@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-18, 11:11:58](https://lobste.rs/s/iec3zk/social_minefield_high_stakes) - [Social Minefield - high stakes minesweeper via Clickjacking attacks](https://social-minefield.com)
 * [2024-03-18, 11:00:09](https://lobste.rs/s/xpatpd/let_s_build_ai) - [Let's Build AI](https://letsbuild.ai/)
 * [2024-03-18, 10:04:54](https://lobste.rs/s/xppmwo/simplifying_test_release_snapped_gui) - [Simplifying Test & Release of Snapped GUI Apps](https://jnsgr.uk/2024/03/simplifying-snap-gui-testing/)
 * [2024-03-18, 09:45:34](https://lobste.rs/s/jajojo/foca_gossip_based_cluster_membership) - [foca: Gossip-based cluster membership discovery (SWIM)](https://caio.co/de/foca/)
@@ -16,7 +17,6 @@
 * [2024-03-17, 13:01:06](https://lobste.rs/s/knttqh/oxidos_automotive) - [OxidOS Automotive](https://oxidos.io/)
 * [2024-03-17, 09:03:59](https://lobste.rs/s/pv56wu/fifty_things_you_can_do_with_software) - [Fifty Things you can do with a Software Defined Radio](https://blinry.org/50-things-with-sdr/)
 * [2024-03-17, 07:56:22](https://lobste.rs/s/jz4803/c_exit_time_destructors) - [C++ exit-time destructors](https://maskray.me/blog/2024-03-17-c++-exit-time-destructors)
-* [2024-03-17, 07:25:15](https://lobste.rs/s/enr3x6/llm_inference_speed_light) - [LLM inference speed of light](https://zeux.io/2024/03/15/llm-inference-sol/)
 * [2024-03-17, 06:11:03](https://lobste.rs/s/vwubyz/terminal_latency) - [Terminal Latency](https://beuke.org/terminal-latency/)
 * [2024-03-17, 04:45:23](https://lobste.rs/s/grchjk/return_frame_pointers) - [The Return of the Frame Pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)
 * [2024-03-17, 04:33:07](https://lobste.rs/s/apx8qj/we_were_wizards_foreword_learning_perl) - [We were wizards — a foreword to Learning Perl](https://jwgoerlich.com/we-were-wizards-learning-perl/)
