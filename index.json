@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-18, 21:59:46",
+      "https://lobste.rs/s/zfnak4/what_if_everybody_did_everything_right"
+    ],
+    [
+      "What if everybody did everything right?",
+      "https://surfingcomplexity.blog/2024/02/17/what-if-everybody-did-everything-right/"
+    ]
+  ],
+  [
+    [
       "2024-03-18, 18:33:23",
       "https://lobste.rs/s/nrbi30/goto_is_not_horror"
     ],
@@ -207,16 +217,6 @@
     [
       "zenv: Forth for the ZX Spectrum",
       "https://github.com/Veltas/zenv"
-    ]
-  ],
-  [
-    [
-      "2024-03-17, 14:18:45",
-      "https://lobste.rs/s/0ubch3/how_sign_kernel_module_for_secure_boot_on"
-    ],
-    [
-      "How to sign a kernel module for Secure Boot on Debian in 2023",
-      "https://ursache.io/posts/signed-kernel-module-debian-2023/"
     ]
   ],
   [
