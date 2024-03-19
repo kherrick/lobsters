@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-19](index.md)
 
+* [2024-03-19, 20:03:44](https://lobste.rs/s/lku4sg/what_does_alan_kay_think_about) - [What does Alan Kay think about programming and teaching programming with copilots and LLMs of today?](https://www.quora.com/What-does-Alan-Kay-think-about-programming-and-teaching-programming-with-copilots-and-LLMs-of-today)
+* [2024-03-19, 19:59:59](https://lobste.rs/s/pv0pcg/supervision_trees_2019) - [Supervision Trees (2019)](https://adoptingerlang.org/docs/development/supervision_trees/)
 * [2024-03-19, 18:58:41](https://lobste.rs/s/pmsuac/apt_install_everything) - [apt install everything?](https://www.chiark.greenend.org.uk/~cjwatson/blog/ubuntu-install-everything.html)
 * [2024-03-19, 17:26:50](https://lobste.rs/s/imwwpe/java_22_jdk_22_general_availability) - [Java 22 / JDK 22: General Availability](https://mail.openjdk.org/pipermail/jdk-dev/2024-March/008827.html)
 * [2024-03-19, 16:33:36](https://lobste.rs/s/wuom3l/comp_programming_threads_faq_2001) - [comp.programming.threads FAQ (2001)](https://danluu.com/threads-faq/)

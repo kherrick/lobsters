@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-19, 20:03:44](https://lobste.rs/s/lku4sg/what_does_alan_kay_think_about) - [What does Alan Kay think about programming and teaching programming with copilots and LLMs of today?](https://www.quora.com/What-does-Alan-Kay-think-about-programming-and-teaching-programming-with-copilots-and-LLMs-of-today)
+* [2024-03-19, 19:59:59](https://lobste.rs/s/pv0pcg/supervision_trees_2019) - [Supervision Trees (2019)](https://adoptingerlang.org/docs/development/supervision_trees/)
 * [2024-03-19, 17:26:50](https://lobste.rs/s/imwwpe/java_22_jdk_22_general_availability) - [Java 22 / JDK 22: General Availability](https://mail.openjdk.org/pipermail/jdk-dev/2024-March/008827.html)
 * [2024-03-19, 16:33:36](https://lobste.rs/s/wuom3l/comp_programming_threads_faq_2001) - [comp.programming.threads FAQ (2001)](https://danluu.com/threads-faq/)
 * [2024-03-19, 16:26:54](https://lobste.rs/s/vh3wfv/what_if_spec_doesn_t_match_code) - [What if the spec doesn't match the code?](https://buttondown.email/hillelwayne/archive/what-if-the-spec-doesnt-match-the-code/)
@@ -13,7 +15,6 @@
 * [2024-03-19, 07:19:55](https://lobste.rs/s/bdvlfc/attesting_tpm_s_firmware) - [Attesting to the TPM’s Firmware](https://www.dlp.rip/attesting-tpm-firmware)
 * [2024-03-19, 05:31:30](https://lobste.rs/s/bpppjt/guess_who_s_back_exodus_scam_bitcoin) - [Guess Who's Back? Exodus Scam BitCoin Wallet Snap](https://popey.com/blog/2024/03/exodus-wallet-part-three/)
 * [2024-03-19, 05:30:17](https://lobste.rs/s/bykrp3/after_41_years_my_first_assembly_program) - [After 41 years, my first assembly program on my first computer, the Tomy Tutor](https://oldvcr.blogspot.com/2024/03/after-41-years-my-first-assembly.html)
-* [2024-03-19, 05:29:06](https://lobste.rs/s/5rwdw8/how_write_qml_effect_for_kwin) - [How to write a QML effect for KWin](https://blog.vladzahorodnii.com/2024/03/18/how-to-write-a-qml-effect-for-kwin/)
 * [2024-03-19, 03:23:30](https://lobste.rs/s/bjouj6/path_understanding_elliptic_curves) - [Path to understanding: elliptic curves, pairings, and BLS signatures](https://geeklaunch.io/blog/understanding-elliptic-curves-pairings-bls-signatures/)
 * [2024-03-19, 02:56:57](https://lobste.rs/s/j6nil3/gaining_kernel_code_execution_on_mte) - [Gaining kernel code execution on an MTE-enabled Pixel 8](https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/)
 * [2024-03-19, 02:15:37](https://lobste.rs/s/sa7vbo/ruby_on_rails_37signals_future_web) - [Ruby on Rails, 37signals, and the future of web development](https://www.devtools.fm/episode/90?view=TRANSCRIPT)
@@ -21,7 +22,6 @@
 * [2024-03-18, 18:33:23](https://lobste.rs/s/nrbi30/goto_is_not_horror) - [Goto Is Not A Horror](https://jerf.org/iri/post/2024/goto/)
 * [2024-03-18, 17:15:42](https://lobste.rs/s/cxgm3t/no_way_prevent_this_say_users_only) - [\"No way to prevent this\" say users of only language where this regularly happens](https://xeiaso.net//shitposts/no-way-to-prevent-this/CVE-2024-22252/)
 * [2024-03-18, 16:47:17](https://lobste.rs/s/wyzdgf/websockets_vs_server_sent_events_vs_long) - [WebSockets vs Server-Sent-Events vs Long-Polling vs WebRTC vs WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
-* [2024-03-18, 12:51:31](https://lobste.rs/s/iyk5rt/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/iyk5rt/what_are_you_doing_this_week)
 * [2024-03-18, 11:11:58](https://lobste.rs/s/iec3zk/social_minefield_high_stakes) - [Social Minefield - high stakes minesweeper via Clickjacking attacks](https://social-minefield.com)
 * [2024-03-18, 05:15:49](https://lobste.rs/s/0hcqj6/sensible_firefox_setup) - [Sensible Firefox Setup](https://vermaden.wordpress.com/2024/03/18/sensible-firefox-setup/)
 * [2024-03-18, 03:03:50](https://lobste.rs/s/onr9sb/java_users_on_macos_14_running_on_apple) - [Java users on macOS 14 running on Apple silicon systems should consider delaying the macOS 14.4 update](https://blogs.oracle.com/java/post/java-on-macos-14-4)
