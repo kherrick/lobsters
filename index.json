@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-19, 02:56:57",
+      "https://lobste.rs/s/j6nil3/gaining_kernel_code_execution_on_mte"
+    ],
+    [
+      "Gaining kernel code execution on an MTE-enabled Pixel 8",
+      "https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/"
+    ]
+  ],
+  [
+    [
       "2024-03-19, 02:15:37",
       "https://lobste.rs/s/sa7vbo/episode_90_dhh_ruby_on_rails_37signals"
     ],
@@ -217,16 +227,6 @@
     [
       "Vision Pro is an over-engineered “devkit”",
       "https://hugo.blog/2024/03/11/vision-pro/"
-    ]
-  ],
-  [
-    [
-      "2024-03-17, 14:44:11",
-      "https://lobste.rs/s/mir9rs/zenv_forth_for_zx_spectrum"
-    ],
-    [
-      "zenv: Forth for the ZX Spectrum",
-      "https://github.com/Veltas/zenv"
     ]
   ],
   [
