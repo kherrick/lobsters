@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-19, 01:55:28](https://lobste.rs/s/j63yzx/dead_air_on_incident_call) - [Dead air on the incident call](https://blog.danslimmon.com/2024/03/18/dead-air-on-the-incident-call/)
 * [2024-03-18, 22:46:52](https://lobste.rs/s/ba6lam/distributed_queries_for_pgvector) - [Distributed queries for pgvector](https://jkatz05.com/post/postgres/distributed-pgvector/)
 * [2024-03-18, 21:59:46](https://lobste.rs/s/zfnak4/what_if_everybody_did_everything_right) - [What if everybody did everything right?](https://surfingcomplexity.blog/2024/02/17/what-if-everybody-did-everything-right/)
 * [2024-03-18, 18:33:23](https://lobste.rs/s/nrbi30/goto_is_not_horror) - [Goto Is Not A Horror](https://jerf.org/iri/post/2024/goto/)
 * [2024-03-18, 18:00:51](https://lobste.rs/s/jiy6cz/100tb_benchmarks_for_gpu_native_data) - [100TB benchmarks for GPU-native data processing](https://voltrondata.com/benchmarks/theseus)
 * [2024-03-18, 17:15:42](https://lobste.rs/s/cxgm3t/no_way_prevent_this_say_users_only) - [\"No way to prevent this\" say users of only language where this regularly happens](https://xeiaso.net//shitposts/no-way-to-prevent-this/CVE-2024-22252/)
 * [2024-03-18, 16:47:17](https://lobste.rs/s/wyzdgf/websockets_vs_server_sent_events_vs_long) - [WebSockets vs Server-Sent-Events vs Long-Polling vs WebRTC vs WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
-* [2024-03-18, 13:52:09](https://lobste.rs/s/yuzuhf/blackbox_fuzzing_iot_devices_using) - [Blackbox-Fuzzing of IoT Devices Using the Router TL-WR902AC as Example](https://tsmr.eu/blackbox-fuzzing.html)
 * [2024-03-18, 13:47:05](https://lobste.rs/s/5djucz/introducing_pixi_s_multiple) - [Introducing pixi's multiple environments implementation](https://prefix.dev/blog/introducing_multi_env_pixi)
 * [2024-03-18, 13:07:24](https://lobste.rs/s/wqzbgr/moving_forward_together) - [Moving Forward, Together](https://www.chromium.org/Home/chromium-security/root-ca-policy/moving-forward-together/)
 * [2024-03-18, 12:51:31](https://lobste.rs/s/iyk5rt/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/iyk5rt/what_are_you_doing_this_week)
