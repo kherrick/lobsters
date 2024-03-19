@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-19, 01:55:28",
+      "https://lobste.rs/s/j63yzx/dead_air_on_incident_call"
+    ],
+    [
+      "Dead air on the incident call",
+      "https://blog.danslimmon.com/2024/03/18/dead-air-on-the-incident-call/"
+    ]
+  ],
+  [
+    [
       "2024-03-18, 22:46:52",
       "https://lobste.rs/s/ba6lam/distributed_queries_for_pgvector"
     ],
@@ -57,16 +67,6 @@
     [
       "WebSockets vs Server-Sent-Events vs Long-Polling vs WebRTC vs WebTransport",
       "https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-18, 13:52:09",
-      "https://lobste.rs/s/yuzuhf/blackbox_fuzzing_iot_devices_using"
-    ],
-    [
-      "Blackbox-Fuzzing of IoT Devices Using the Router TL-WR902AC as Example",
-      "https://tsmr.eu/blackbox-fuzzing.html"
     ]
   ],
   [
