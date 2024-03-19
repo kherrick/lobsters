@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-19, 13:14:39",
+      "https://lobste.rs/s/bkgflx/why_does_extraneous_build_step_make_my_zig"
+    ],
+    [
+      "Why does a extraneous build step make my Zig app 10x faster?",
+      "https://mtlynch.io/zig-extraneous-build/"
+    ]
+  ],
+  [
+    [
       "2024-03-19, 07:19:55",
       "https://lobste.rs/s/bdvlfc/attesting_tpm_s_firmware"
     ],
@@ -187,16 +197,6 @@
     [
       "Social Minefield - high stakes minesweeper via Clickjacking attacks",
       "https://social-minefield.com"
-    ]
-  ],
-  [
-    [
-      "2024-03-18, 11:00:09",
-      "https://lobste.rs/s/xpatpd/let_s_build_ai"
-    ],
-    [
-      "Let's Build AI",
-      "https://letsbuild.ai/"
     ]
   ],
   [
