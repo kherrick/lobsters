@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-03-19, 14:20:01](https://lobste.rs/s/5wuxbq/freebsd_user_tries_netbsd_10_rc5) - [A FreeBSD user Tries NetBSD 10-RC5](https://youtu.be/fLmIKENJxe4)
-* [2024-03-19, 13:14:39](https://lobste.rs/s/bkgflx/why_does_extraneous_build_step_make_my_zig) - [Why does a extraneous build step make my Zig app 10x faster?](https://mtlynch.io/zig-extraneous-build/)
+* [2024-03-19, 13:14:39](https://lobste.rs/s/bkgflx/why_does_extraneous_build_step_make_my_zig) - [Why does an extraneous build step make my Zig app 10x faster?](https://mtlynch.io/zig-extraneous-build/)
 * [2024-03-19, 07:19:55](https://lobste.rs/s/bdvlfc/attesting_tpm_s_firmware) - [Attesting to the TPM’s Firmware](https://www.dlp.rip/attesting-tpm-firmware)
 * [2024-03-19, 05:31:30](https://lobste.rs/s/bpppjt/guess_who_s_back_exodus_scam_bitcoin) - [Guess Who's Back? Exodus Scam BitCoin Wallet Snap](https://popey.com/blog/2024/03/exodus-wallet-part-three/)
 * [2024-03-19, 05:30:17](https://lobste.rs/s/bykrp3/after_41_years_my_first_assembly_program) - [After 41 years, my first assembly program on my first computer, the Tomy Tutor](https://oldvcr.blogspot.com/2024/03/after-41-years-my-first-assembly.html)
