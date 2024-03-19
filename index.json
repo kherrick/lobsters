@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-19, 03:23:30",
+      "https://lobste.rs/s/bjouj6/path_understanding_elliptic_curves"
+    ],
+    [
+      "Path to understanding: elliptic curves, pairings, and BLS signatures",
+      "https://geeklaunch.io/blog/understanding-elliptic-curves-pairings-bls-signatures/"
+    ]
+  ],
+  [
+    [
       "2024-03-19, 02:56:57",
       "https://lobste.rs/s/j6nil3/gaining_kernel_code_execution_on_mte"
     ],
@@ -237,16 +247,6 @@
     [
       "Fifty Things you can do with a Software Defined Radio",
       "https://blinry.org/50-things-with-sdr/"
-    ]
-  ],
-  [
-    [
-      "2024-03-17, 04:45:23",
-      "https://lobste.rs/s/grchjk/return_frame_pointers"
-    ],
-    [
-      "The Return of the Frame Pointers",
-      "https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html"
     ]
   ]
 ]
