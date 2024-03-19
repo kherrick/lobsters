@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-19, 02:56:57](https://lobste.rs/s/j6nil3/gaining_kernel_code_execution_on_mte) - [Gaining kernel code execution on an MTE-enabled Pixel 8](https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/)
 * [2024-03-19, 02:15:37](https://lobste.rs/s/sa7vbo/episode_90_dhh_ruby_on_rails_37signals) - [Episode #90: DHH - Ruby on Rails, 37signals, and the future of web development](https://www.devtools.fm/episode/90?view=TRANSCRIPT)
 * [2024-03-19, 01:55:28](https://lobste.rs/s/j63yzx/dead_air_on_incident_call) - [Dead air on the incident call](https://blog.danslimmon.com/2024/03/18/dead-air-on-the-incident-call/)
 * [2024-03-18, 22:46:52](https://lobste.rs/s/ba6lam/distributed_queries_for_pgvector) - [Distributed queries for pgvector](https://jkatz05.com/post/postgres/distributed-pgvector/)
@@ -22,7 +23,6 @@
 * [2024-03-17, 18:52:11](https://lobste.rs/s/fxd8eg/sat_css_tool_minify_css_files_through) - [sat-css-tool: Minify CSS files through refactoring with SAT solver](https://github.com/matthewhague/sat-css-tool)
 * [2024-03-17, 16:49:22](https://lobste.rs/s/srfoa7/just) - [Just](https://www.todepond.com/wikiblogarden/better-computing/just/)
 * [2024-03-17, 15:11:07](https://lobste.rs/s/crvzkl/vision_pro_is_over_engineered_devkit) - [Vision Pro is an over-engineered “devkit”](https://hugo.blog/2024/03/11/vision-pro/)
-* [2024-03-17, 14:44:11](https://lobste.rs/s/mir9rs/zenv_forth_for_zx_spectrum) - [zenv: Forth for the ZX Spectrum](https://github.com/Veltas/zenv)
 * [2024-03-17, 09:03:59](https://lobste.rs/s/pv56wu/fifty_things_you_can_do_with_software) - [Fifty Things you can do with a Software Defined Radio](https://blinry.org/50-things-with-sdr/)
 * [2024-03-17, 04:45:23](https://lobste.rs/s/grchjk/return_frame_pointers) - [The Return of the Frame Pointers](https://www.brendangregg.com/blog/2024-03-17/the-return-of-the-frame-pointers.html)
 
