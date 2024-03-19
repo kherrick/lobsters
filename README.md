@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-19, 14:20:01](https://lobste.rs/s/5wuxbq/freebsd_user_tries_netbsd_10_rc5) - [A FreeBSD user Tries NetBSD 10-RC5](https://youtu.be/fLmIKENJxe4)
 * [2024-03-19, 13:14:39](https://lobste.rs/s/bkgflx/why_does_extraneous_build_step_make_my_zig) - [Why does a extraneous build step make my Zig app 10x faster?](https://mtlynch.io/zig-extraneous-build/)
 * [2024-03-19, 07:19:55](https://lobste.rs/s/bdvlfc/attesting_tpm_s_firmware) - [Attesting to the TPM’s Firmware](https://www.dlp.rip/attesting-tpm-firmware)
 * [2024-03-19, 05:31:30](https://lobste.rs/s/bpppjt/guess_who_s_back_exodus_scam_bitcoin) - [Guess Who's Back? Exodus Scam BitCoin Wallet Snap](https://popey.com/blog/2024/03/exodus-wallet-part-three/)
@@ -21,7 +22,6 @@
 * [2024-03-18, 12:09:07](https://lobste.rs/s/zk9h0b/procrastinating_on_my_side_project_by) - [Procrastinating on my side project by torturing databases](https://ntietz.com/blog/procrastinating-on-my-side-project-by-torturing-databases/)
 * [2024-03-18, 11:11:58](https://lobste.rs/s/iec3zk/social_minefield_high_stakes) - [Social Minefield - high stakes minesweeper via Clickjacking attacks](https://social-minefield.com)
 * [2024-03-18, 05:15:49](https://lobste.rs/s/0hcqj6/sensible_firefox_setup) - [Sensible Firefox Setup](https://vermaden.wordpress.com/2024/03/18/sensible-firefox-setup/)
-* [2024-03-18, 04:46:15](https://lobste.rs/s/gazwp0/thoughts_on_cloud_gpu_providers) - [Thoughts on cloud GPU providers?](https://lobste.rs/s/gazwp0/thoughts_on_cloud_gpu_providers)
 * [2024-03-18, 03:03:50](https://lobste.rs/s/onr9sb/java_users_on_macos_14_running_on_apple) - [Java users on macOS 14 running on Apple silicon systems should consider delaying the macOS 14.4 update](https://blogs.oracle.com/java/post/java-on-macos-14-4)
 * [2024-03-17, 16:49:22](https://lobste.rs/s/srfoa7/just) - [Just](https://www.todepond.com/wikiblogarden/better-computing/just/)
 * [2024-03-17, 09:03:59](https://lobste.rs/s/pv56wu/fifty_things_you_can_do_with_software) - [Fifty Things you can do with a Software Defined Radio](https://blinry.org/50-things-with-sdr/)
