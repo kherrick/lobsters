@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-19, 15:20:26",
+      "https://lobste.rs/s/51yb8p/flambda2_snippets_episode_0"
+    ],
+    [
+      "The Flambda2 Snippets, Episode 0",
+      "https://ocamlpro.com/blog/2024_03_18_the_flambda2_snippets_0/"
+    ]
+  ],
+  [
+    [
+      "2024-03-19, 15:16:55",
+      "https://lobste.rs/s/rrzbaf/cps_representation_foundational_design"
+    ],
+    [
+      "CPS Representation and Foundational Design Decisions in Flambda2",
+      "https://ocamlpro.com/blog/2024_03_19_the_flambda2_snippets_1/"
+    ]
+  ],
+  [
+    [
       "2024-03-19, 15:12:41",
       "https://lobste.rs/s/nqi3lw/hackintosh_is_almost_dead"
     ],
@@ -107,16 +127,6 @@
     [
       "Dead air on the incident call",
       "https://blog.danslimmon.com/2024/03/18/dead-air-on-the-incident-call/"
-    ]
-  ],
-  [
-    [
-      "2024-03-18, 22:46:52",
-      "https://lobste.rs/s/ba6lam/distributed_queries_for_pgvector"
-    ],
-    [
-      "Distributed queries for pgvector",
-      "https://jkatz05.com/post/postgres/distributed-pgvector/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Java users on macOS 14 running on Apple silicon systems should consider delaying the macOS 14.4 update",
       "https://blogs.oracle.com/java/post/java-on-macos-14-4"
-    ]
-  ],
-  [
-    [
-      "2024-03-17, 09:03:59",
-      "https://lobste.rs/s/pv56wu/fifty_things_you_can_do_with_software"
-    ],
-    [
-      "Fifty Things you can do with a Software Defined Radio",
-      "https://blinry.org/50-things-with-sdr/"
     ]
   ]
 ]
