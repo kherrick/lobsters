@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-19, 02:15:37](https://lobste.rs/s/sa7vbo/episode_90_dhh_ruby_on_rails_37signals) - [Episode #90: DHH - Ruby on Rails, 37signals, and the future of web development](https://www.devtools.fm/episode/90?view=TRANSCRIPT)
 * [2024-03-19, 01:55:28](https://lobste.rs/s/j63yzx/dead_air_on_incident_call) - [Dead air on the incident call](https://blog.danslimmon.com/2024/03/18/dead-air-on-the-incident-call/)
 * [2024-03-18, 22:46:52](https://lobste.rs/s/ba6lam/distributed_queries_for_pgvector) - [Distributed queries for pgvector](https://jkatz05.com/post/postgres/distributed-pgvector/)
 * [2024-03-18, 21:59:46](https://lobste.rs/s/zfnak4/what_if_everybody_did_everything_right) - [What if everybody did everything right?](https://surfingcomplexity.blog/2024/02/17/what-if-everybody-did-everything-right/)
@@ -18,7 +19,6 @@
 * [2024-03-18, 05:15:49](https://lobste.rs/s/0hcqj6/sensible_firefox_setup) - [Sensible Firefox Setup](https://vermaden.wordpress.com/2024/03/18/sensible-firefox-setup/)
 * [2024-03-18, 04:46:15](https://lobste.rs/s/gazwp0/thoughts_on_cloud_gpu_providers) - [Thoughts on cloud GPU providers?](https://lobste.rs/s/gazwp0/thoughts_on_cloud_gpu_providers)
 * [2024-03-18, 03:03:50](https://lobste.rs/s/onr9sb/macos_14_4_on_apple_silicon_broke_java) - [macOS 14.4 on Apple silicon broke Java](https://blogs.oracle.com/java/post/java-on-macos-14-4)
-* [2024-03-17, 19:46:48](https://lobste.rs/s/f9g4js/2600_network_dialup_service_for_vintage) - [2600.network dialup service for vintage computers](https://2600.network/)
 * [2024-03-17, 18:52:11](https://lobste.rs/s/fxd8eg/sat_css_tool_minify_css_files_through) - [sat-css-tool: Minify CSS files through refactoring with SAT solver](https://github.com/matthewhague/sat-css-tool)
 * [2024-03-17, 16:49:22](https://lobste.rs/s/srfoa7/just) - [Just](https://www.todepond.com/wikiblogarden/better-computing/just/)
 * [2024-03-17, 15:11:07](https://lobste.rs/s/crvzkl/vision_pro_is_over_engineered_devkit) - [Vision Pro is an over-engineered “devkit”](https://hugo.blog/2024/03/11/vision-pro/)
