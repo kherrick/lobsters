@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-19, 22:23:18](https://lobste.rs/s/ocmddc/deterministic_simulation_testing_for) - [Deterministic simulation testing for a word processor](https://www.eno-writer.com/008-deterministic-simulation-testing-for-a-word-processor/)
 * [2024-03-19, 21:01:07](https://lobste.rs/s/zgwzng/esphome_epaper_calendar_esphome) - [ESPHome-ePaper-Calendar: A ESPHome calendar for the Inkplate 6](https://github.com/paviro/ESPHome-ePaper-Calendar)
 * [2024-03-19, 19:59:59](https://lobste.rs/s/pv0pcg/supervision_trees_2019) - [Supervision Trees (2019)](https://adoptingerlang.org/docs/development/supervision_trees/)
 * [2024-03-19, 17:26:50](https://lobste.rs/s/imwwpe/java_22_jdk_22_general_availability) - [Java 22 / JDK 22: General Availability](https://mail.openjdk.org/pipermail/jdk-dev/2024-March/008827.html)
@@ -8,7 +9,6 @@
 * [2024-03-19, 15:56:47](https://lobste.rs/s/4jatzz/type_system_react_compiler) - [Type system of the React compiler](https://www.recompiled.dev/blog/type-system/)
 * [2024-03-19, 15:41:51](https://lobste.rs/s/olmte7/read_code_like_pro_with_our_weaudit_vscode) - [Read code like a pro with our weAudit VSCode extension](https://blog.trailofbits.com/2024/03/19/read-code-like-a-pro-with-our-weaudit-vscode-extension/)
 * [2024-03-19, 15:20:26](https://lobste.rs/s/51yb8p/flambda2_snippets_episode_0) - [The Flambda2 Snippets, Episode 0](https://ocamlpro.com/blog/2024_03_18_the_flambda2_snippets_0/)
-* [2024-03-19, 15:16:55](https://lobste.rs/s/rrzbaf/cps_representation_foundational_design) - [CPS Representation and Foundational Design Decisions in Flambda2](https://ocamlpro.com/blog/2024_03_19_the_flambda2_snippets_1/)
 * [2024-03-19, 15:12:41](https://lobste.rs/s/nqi3lw/hackintosh_is_almost_dead) - [Hackintosh is (almost) dead](https://aplus.rs/2024/hackintosh-almost-dead/)
 * [2024-03-19, 14:20:01](https://lobste.rs/s/5wuxbq/freebsd_user_tries_netbsd_10_rc5) - [A FreeBSD user Tries NetBSD 10-RC5](https://youtu.be/fLmIKENJxe4)
 * [2024-03-19, 13:14:39](https://lobste.rs/s/bkgflx/why_does_extraneous_build_step_make_my_zig) - [Why does an extraneous build step make my Zig app 10x faster?](https://mtlynch.io/zig-extraneous-build/)
