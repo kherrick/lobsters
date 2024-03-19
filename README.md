@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-19, 17:26:50](https://lobste.rs/s/imwwpe/java_22_jdk_22_general_availability) - [Java 22 / JDK 22: General Availability](https://mail.openjdk.org/pipermail/jdk-dev/2024-March/008827.html)
 * [2024-03-19, 16:33:36](https://lobste.rs/s/wuom3l/comp_programming_threads_faq_2001) - [comp.programming.threads FAQ (2001)](https://danluu.com/threads-faq/)
 * [2024-03-19, 16:26:54](https://lobste.rs/s/vh3wfv/what_if_spec_doesn_t_match_code) - [What if the spec doesn't match the code?](https://buttondown.email/hillelwayne/archive/what-if-the-spec-doesnt-match-the-code/)
 * [2024-03-19, 15:56:47](https://lobste.rs/s/4jatzz/type_system_react_compiler) - [Type system of the React compiler](https://www.recompiled.dev/blog/type-system/)
@@ -16,7 +17,6 @@
 * [2024-03-19, 03:23:30](https://lobste.rs/s/bjouj6/path_understanding_elliptic_curves) - [Path to understanding: elliptic curves, pairings, and BLS signatures](https://geeklaunch.io/blog/understanding-elliptic-curves-pairings-bls-signatures/)
 * [2024-03-19, 02:56:57](https://lobste.rs/s/j6nil3/gaining_kernel_code_execution_on_mte) - [Gaining kernel code execution on an MTE-enabled Pixel 8](https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/)
 * [2024-03-19, 02:15:37](https://lobste.rs/s/sa7vbo/ruby_on_rails_37signals_future_web) - [Ruby on Rails, 37signals, and the future of web development](https://www.devtools.fm/episode/90?view=TRANSCRIPT)
-* [2024-03-19, 01:55:28](https://lobste.rs/s/j63yzx/dead_air_on_incident_call) - [Dead air on the incident call](https://blog.danslimmon.com/2024/03/18/dead-air-on-the-incident-call/)
 * [2024-03-18, 21:59:46](https://lobste.rs/s/zfnak4/what_if_everybody_did_everything_right) - [What if everybody did everything right?](https://surfingcomplexity.blog/2024/02/17/what-if-everybody-did-everything-right/)
 * [2024-03-18, 18:33:23](https://lobste.rs/s/nrbi30/goto_is_not_horror) - [Goto Is Not A Horror](https://jerf.org/iri/post/2024/goto/)
 * [2024-03-18, 17:15:42](https://lobste.rs/s/cxgm3t/no_way_prevent_this_say_users_only) - [\"No way to prevent this\" say users of only language where this regularly happens](https://xeiaso.net//shitposts/no-way-to-prevent-this/CVE-2024-22252/)
