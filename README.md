@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-19, 16:33:36](https://lobste.rs/s/wuom3l/comp_programming_threads_faq_2001) - [comp.programming.threads FAQ (2001)](https://danluu.com/threads-faq/)
+* [2024-03-19, 16:26:54](https://lobste.rs/s/vh3wfv/what_if_spec_doesn_t_match_code) - [What if the spec doesn't match the code?](https://buttondown.email/hillelwayne/archive/what-if-the-spec-doesnt-match-the-code/)
 * [2024-03-19, 15:56:47](https://lobste.rs/s/4jatzz/type_system_react_compiler) - [Type system of the React compiler](https://www.recompiled.dev/blog/type-system/)
 * [2024-03-19, 15:41:51](https://lobste.rs/s/olmte7/read_code_like_pro_with_our_weaudit_vscode) - [Read code like a pro with our weAudit VSCode extension](https://blog.trailofbits.com/2024/03/19/read-code-like-a-pro-with-our-weaudit-vscode-extension/)
 * [2024-03-19, 15:20:26](https://lobste.rs/s/51yb8p/flambda2_snippets_episode_0) - [The Flambda2 Snippets, Episode 0](https://ocamlpro.com/blog/2024_03_18_the_flambda2_snippets_0/)
@@ -19,9 +21,7 @@
 * [2024-03-18, 18:33:23](https://lobste.rs/s/nrbi30/goto_is_not_horror) - [Goto Is Not A Horror](https://jerf.org/iri/post/2024/goto/)
 * [2024-03-18, 17:15:42](https://lobste.rs/s/cxgm3t/no_way_prevent_this_say_users_only) - [\"No way to prevent this\" say users of only language where this regularly happens](https://xeiaso.net//shitposts/no-way-to-prevent-this/CVE-2024-22252/)
 * [2024-03-18, 16:47:17](https://lobste.rs/s/wyzdgf/websockets_vs_server_sent_events_vs_long) - [WebSockets vs Server-Sent-Events vs Long-Polling vs WebRTC vs WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
-* [2024-03-18, 13:47:05](https://lobste.rs/s/5djucz/introducing_pixi_s_multiple) - [Introducing pixi's multiple environments implementation](https://prefix.dev/blog/introducing_multi_env_pixi)
 * [2024-03-18, 12:51:31](https://lobste.rs/s/iyk5rt/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/iyk5rt/what_are_you_doing_this_week)
-* [2024-03-18, 12:09:07](https://lobste.rs/s/zk9h0b/procrastinating_on_my_side_project_by) - [Procrastinating on my side project by torturing databases](https://ntietz.com/blog/procrastinating-on-my-side-project-by-torturing-databases/)
 * [2024-03-18, 11:11:58](https://lobste.rs/s/iec3zk/social_minefield_high_stakes) - [Social Minefield - high stakes minesweeper via Clickjacking attacks](https://social-minefield.com)
 * [2024-03-18, 05:15:49](https://lobste.rs/s/0hcqj6/sensible_firefox_setup) - [Sensible Firefox Setup](https://vermaden.wordpress.com/2024/03/18/sensible-firefox-setup/)
 * [2024-03-18, 03:03:50](https://lobste.rs/s/onr9sb/java_users_on_macos_14_running_on_apple) - [Java users on macOS 14 running on Apple silicon systems should consider delaying the macOS 14.4 update](https://blogs.oracle.com/java/post/java-on-macos-14-4)

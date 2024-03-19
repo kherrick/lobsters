@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-19](index.md)
 
+* [2024-03-19, 16:33:36](https://lobste.rs/s/wuom3l/comp_programming_threads_faq_2001) - [comp.programming.threads FAQ (2001)](https://danluu.com/threads-faq/)
+* [2024-03-19, 16:26:54](https://lobste.rs/s/vh3wfv/what_if_spec_doesn_t_match_code) - [What if the spec doesn't match the code?](https://buttondown.email/hillelwayne/archive/what-if-the-spec-doesnt-match-the-code/)
 * [2024-03-19, 15:56:47](https://lobste.rs/s/4jatzz/type_system_react_compiler) - [Type system of the React compiler](https://www.recompiled.dev/blog/type-system/)
 * [2024-03-19, 15:41:51](https://lobste.rs/s/olmte7/read_code_like_pro_with_our_weaudit_vscode) - [Read code like a pro with our weAudit VSCode extension](https://blog.trailofbits.com/2024/03/19/read-code-like-a-pro-with-our-weaudit-vscode-extension/)
 * [2024-03-19, 15:20:26](https://lobste.rs/s/51yb8p/flambda2_snippets_episode_0) - [The Flambda2 Snippets, Episode 0](https://ocamlpro.com/blog/2024_03_18_the_flambda2_snippets_0/)
