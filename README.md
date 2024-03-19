@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-19, 22:29:39](https://lobste.rs/s/p5uvzv/ryelang_spreadsheet_csv_demo) - [Ryelang Spreadsheet and CSV demo](https://asciinema.org/a/647708)
 * [2024-03-19, 22:23:18](https://lobste.rs/s/ocmddc/deterministic_simulation_testing_for) - [Deterministic simulation testing for a word processor](https://www.eno-writer.com/008-deterministic-simulation-testing-for-a-word-processor/)
 * [2024-03-19, 21:01:07](https://lobste.rs/s/zgwzng/esphome_epaper_calendar_esphome) - [ESPHome-ePaper-Calendar: A ESPHome calendar for the Inkplate 6](https://github.com/paviro/ESPHome-ePaper-Calendar)
 * [2024-03-19, 19:59:59](https://lobste.rs/s/pv0pcg/supervision_trees_2019) - [Supervision Trees (2019)](https://adoptingerlang.org/docs/development/supervision_trees/)
@@ -15,7 +16,6 @@
 * [2024-03-19, 07:19:55](https://lobste.rs/s/bdvlfc/attesting_tpm_s_firmware) - [Attesting to the TPM’s Firmware](https://www.dlp.rip/attesting-tpm-firmware)
 * [2024-03-19, 05:31:30](https://lobste.rs/s/bpppjt/guess_who_s_back_exodus_scam_bitcoin) - [Guess Who's Back? Exodus Scam BitCoin Wallet Snap](https://popey.com/blog/2024/03/exodus-wallet-part-three/)
 * [2024-03-19, 05:30:17](https://lobste.rs/s/bykrp3/after_41_years_my_first_assembly_program) - [After 41 years, my first assembly program on my first computer, the Tomy Tutor](https://oldvcr.blogspot.com/2024/03/after-41-years-my-first-assembly.html)
-* [2024-03-19, 03:23:30](https://lobste.rs/s/bjouj6/path_understanding_elliptic_curves) - [Path to understanding: elliptic curves, pairings, and BLS signatures](https://geeklaunch.io/blog/understanding-elliptic-curves-pairings-bls-signatures/)
 * [2024-03-19, 02:56:57](https://lobste.rs/s/j6nil3/gaining_kernel_code_execution_on_mte) - [Gaining kernel code execution on an MTE-enabled Pixel 8](https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/)
 * [2024-03-19, 02:15:37](https://lobste.rs/s/sa7vbo/ruby_on_rails_37signals_future_web) - [Ruby on Rails, 37signals, and the future of web development](https://www.devtools.fm/episode/90?view=TRANSCRIPT)
 * [2024-03-18, 21:59:46](https://lobste.rs/s/zfnak4/what_if_everybody_did_everything_right) - [What if everybody did everything right?](https://surfingcomplexity.blog/2024/02/17/what-if-everybody-did-everything-right/)

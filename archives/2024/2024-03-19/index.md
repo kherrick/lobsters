@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-19](index.md)
 
+* [2024-03-19, 22:29:39](https://lobste.rs/s/p5uvzv/ryelang_spreadsheet_csv_demo) - [Ryelang Spreadsheet and CSV demo](https://asciinema.org/a/647708)
 * [2024-03-19, 22:23:18](https://lobste.rs/s/ocmddc/deterministic_simulation_testing_for) - [Deterministic simulation testing for a word processor](https://www.eno-writer.com/008-deterministic-simulation-testing-for-a-word-processor/)
 * [2024-03-19, 21:01:07](https://lobste.rs/s/zgwzng/esphome_epaper_calendar_esphome) - [ESPHome-ePaper-Calendar: A ESPHome calendar for the Inkplate 6](https://github.com/paviro/ESPHome-ePaper-Calendar)
 * [2024-03-19, 20:03:44](https://lobste.rs/s/lku4sg/what_does_alan_kay_think_about) - [What does Alan Kay think about programming and teaching programming with copilots and LLMs of today?](https://www.quora.com/What-does-Alan-Kay-think-about-programming-and-teaching-programming-with-copilots-and-LLMs-of-today)
