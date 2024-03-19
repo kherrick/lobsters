@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-19](index.md)
 
+* [2024-03-19, 21:01:07](https://lobste.rs/s/zgwzng/esphome_epaper_calendar_esphome) - [ESPHome-ePaper-Calendar: A ESPHome calendar for the Inkplate 6](https://github.com/paviro/ESPHome-ePaper-Calendar)
 * [2024-03-19, 20:03:44](https://lobste.rs/s/lku4sg/what_does_alan_kay_think_about) - [What does Alan Kay think about programming and teaching programming with copilots and LLMs of today?](https://www.quora.com/What-does-Alan-Kay-think-about-programming-and-teaching-programming-with-copilots-and-LLMs-of-today)
 * [2024-03-19, 19:59:59](https://lobste.rs/s/pv0pcg/supervision_trees_2019) - [Supervision Trees (2019)](https://adoptingerlang.org/docs/development/supervision_trees/)
 * [2024-03-19, 18:58:41](https://lobste.rs/s/pmsuac/apt_install_everything) - [apt install everything?](https://www.chiark.greenend.org.uk/~cjwatson/blog/ubuntu-install-everything.html)
