@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-19, 15:56:47](https://lobste.rs/s/4jatzz/type_system_react_compiler) - [Type system of the React compiler](https://www.recompiled.dev/blog/type-system/)
 * [2024-03-19, 15:41:51](https://lobste.rs/s/olmte7/read_code_like_pro_with_our_weaudit_vscode) - [Read code like a pro with our weAudit VSCode extension](https://blog.trailofbits.com/2024/03/19/read-code-like-a-pro-with-our-weaudit-vscode-extension/)
 * [2024-03-19, 15:20:26](https://lobste.rs/s/51yb8p/flambda2_snippets_episode_0) - [The Flambda2 Snippets, Episode 0](https://ocamlpro.com/blog/2024_03_18_the_flambda2_snippets_0/)
 * [2024-03-19, 15:16:55](https://lobste.rs/s/rrzbaf/cps_representation_foundational_design) - [CPS Representation and Foundational Design Decisions in Flambda2](https://ocamlpro.com/blog/2024_03_19_the_flambda2_snippets_1/)
@@ -19,7 +20,6 @@
 * [2024-03-18, 17:15:42](https://lobste.rs/s/cxgm3t/no_way_prevent_this_say_users_only) - [\"No way to prevent this\" say users of only language where this regularly happens](https://xeiaso.net//shitposts/no-way-to-prevent-this/CVE-2024-22252/)
 * [2024-03-18, 16:47:17](https://lobste.rs/s/wyzdgf/websockets_vs_server_sent_events_vs_long) - [WebSockets vs Server-Sent-Events vs Long-Polling vs WebRTC vs WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
 * [2024-03-18, 13:47:05](https://lobste.rs/s/5djucz/introducing_pixi_s_multiple) - [Introducing pixi's multiple environments implementation](https://prefix.dev/blog/introducing_multi_env_pixi)
-* [2024-03-18, 13:07:24](https://lobste.rs/s/wqzbgr/moving_forward_together) - [Moving Forward, Together](https://www.chromium.org/Home/chromium-security/root-ca-policy/moving-forward-together/)
 * [2024-03-18, 12:51:31](https://lobste.rs/s/iyk5rt/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/iyk5rt/what_are_you_doing_this_week)
 * [2024-03-18, 12:09:07](https://lobste.rs/s/zk9h0b/procrastinating_on_my_side_project_by) - [Procrastinating on my side project by torturing databases](https://ntietz.com/blog/procrastinating-on-my-side-project-by-torturing-databases/)
 * [2024-03-18, 11:11:58](https://lobste.rs/s/iec3zk/social_minefield_high_stakes) - [Social Minefield - high stakes minesweeper via Clickjacking attacks](https://social-minefield.com)

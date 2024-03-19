@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-19](index.md)
 
+* [2024-03-19, 15:56:47](https://lobste.rs/s/4jatzz/type_system_react_compiler) - [Type system of the React compiler](https://www.recompiled.dev/blog/type-system/)
 * [2024-03-19, 15:41:51](https://lobste.rs/s/olmte7/read_code_like_pro_with_our_weaudit_vscode) - [Read code like a pro with our weAudit VSCode extension](https://blog.trailofbits.com/2024/03/19/read-code-like-a-pro-with-our-weaudit-vscode-extension/)
 * [2024-03-19, 15:20:26](https://lobste.rs/s/51yb8p/flambda2_snippets_episode_0) - [The Flambda2 Snippets, Episode 0](https://ocamlpro.com/blog/2024_03_18_the_flambda2_snippets_0/)
 * [2024-03-19, 15:16:55](https://lobste.rs/s/rrzbaf/cps_representation_foundational_design) - [CPS Representation and Foundational Design Decisions in Flambda2](https://ocamlpro.com/blog/2024_03_19_the_flambda2_snippets_1/)
