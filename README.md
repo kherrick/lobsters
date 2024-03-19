@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-19, 15:20:26](https://lobste.rs/s/51yb8p/flambda2_snippets_episode_0) - [The Flambda2 Snippets, Episode 0](https://ocamlpro.com/blog/2024_03_18_the_flambda2_snippets_0/)
+* [2024-03-19, 15:16:55](https://lobste.rs/s/rrzbaf/cps_representation_foundational_design) - [CPS Representation and Foundational Design Decisions in Flambda2](https://ocamlpro.com/blog/2024_03_19_the_flambda2_snippets_1/)
 * [2024-03-19, 15:12:41](https://lobste.rs/s/nqi3lw/hackintosh_is_almost_dead) - [Hackintosh is (almost) dead](https://aplus.rs/2024/hackintosh-almost-dead/)
 * [2024-03-19, 14:20:01](https://lobste.rs/s/5wuxbq/freebsd_user_tries_netbsd_10_rc5) - [A FreeBSD user Tries NetBSD 10-RC5](https://youtu.be/fLmIKENJxe4)
 * [2024-03-19, 13:14:39](https://lobste.rs/s/bkgflx/why_does_extraneous_build_step_make_my_zig) - [Why does an extraneous build step make my Zig app 10x faster?](https://mtlynch.io/zig-extraneous-build/)
@@ -11,7 +13,6 @@
 * [2024-03-19, 02:56:57](https://lobste.rs/s/j6nil3/gaining_kernel_code_execution_on_mte) - [Gaining kernel code execution on an MTE-enabled Pixel 8](https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/)
 * [2024-03-19, 02:15:37](https://lobste.rs/s/sa7vbo/ruby_on_rails_37signals_future_web) - [Ruby on Rails, 37signals, and the future of web development](https://www.devtools.fm/episode/90?view=TRANSCRIPT)
 * [2024-03-19, 01:55:28](https://lobste.rs/s/j63yzx/dead_air_on_incident_call) - [Dead air on the incident call](https://blog.danslimmon.com/2024/03/18/dead-air-on-the-incident-call/)
-* [2024-03-18, 22:46:52](https://lobste.rs/s/ba6lam/distributed_queries_for_pgvector) - [Distributed queries for pgvector](https://jkatz05.com/post/postgres/distributed-pgvector/)
 * [2024-03-18, 21:59:46](https://lobste.rs/s/zfnak4/what_if_everybody_did_everything_right) - [What if everybody did everything right?](https://surfingcomplexity.blog/2024/02/17/what-if-everybody-did-everything-right/)
 * [2024-03-18, 18:33:23](https://lobste.rs/s/nrbi30/goto_is_not_horror) - [Goto Is Not A Horror](https://jerf.org/iri/post/2024/goto/)
 * [2024-03-18, 18:00:51](https://lobste.rs/s/jiy6cz/100tb_benchmarks_for_gpu_native_data) - [100TB benchmarks for GPU-native data processing](https://voltrondata.com/benchmarks/theseus)
@@ -24,7 +25,6 @@
 * [2024-03-18, 11:11:58](https://lobste.rs/s/iec3zk/social_minefield_high_stakes) - [Social Minefield - high stakes minesweeper via Clickjacking attacks](https://social-minefield.com)
 * [2024-03-18, 05:15:49](https://lobste.rs/s/0hcqj6/sensible_firefox_setup) - [Sensible Firefox Setup](https://vermaden.wordpress.com/2024/03/18/sensible-firefox-setup/)
 * [2024-03-18, 03:03:50](https://lobste.rs/s/onr9sb/java_users_on_macos_14_running_on_apple) - [Java users on macOS 14 running on Apple silicon systems should consider delaying the macOS 14.4 update](https://blogs.oracle.com/java/post/java-on-macos-14-4)
-* [2024-03-17, 09:03:59](https://lobste.rs/s/pv56wu/fifty_things_you_can_do_with_software) - [Fifty Things you can do with a Software Defined Radio](https://blinry.org/50-things-with-sdr/)
 
 ## [Archives](archives/index.md)
 

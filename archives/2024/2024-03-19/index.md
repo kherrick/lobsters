@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-19](index.md)
 
+* [2024-03-19, 15:20:26](https://lobste.rs/s/51yb8p/flambda2_snippets_episode_0) - [The Flambda2 Snippets, Episode 0](https://ocamlpro.com/blog/2024_03_18_the_flambda2_snippets_0/)
+* [2024-03-19, 15:16:55](https://lobste.rs/s/rrzbaf/cps_representation_foundational_design) - [CPS Representation and Foundational Design Decisions in Flambda2](https://ocamlpro.com/blog/2024_03_19_the_flambda2_snippets_1/)
 * [2024-03-19, 15:12:41](https://lobste.rs/s/nqi3lw/hackintosh_is_almost_dead) - [Hackintosh is (almost) dead](https://aplus.rs/2024/hackintosh-almost-dead/)
 * [2024-03-19, 14:20:01](https://lobste.rs/s/5wuxbq/freebsd_user_tries_netbsd_10_rc5) - [A FreeBSD user Tries NetBSD 10-RC5](https://youtu.be/fLmIKENJxe4)
 * [2024-03-19, 13:14:39](https://lobste.rs/s/bkgflx/why_does_extraneous_build_step_make_my_zig) - [Why does a extraneous build step make my Zig app 10x faster?](https://mtlynch.io/zig-extraneous-build/)
