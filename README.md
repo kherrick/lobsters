@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-20, 14:03:52](https://lobste.rs/s/izmyx4/how_write_code_modern_fortran_2011) - [How to write code in modern Fortran (2011)](https://web.archive.org/web/20190516025920/https://www.tacc.utexas.edu/documents/13601/162125/fortran_class.pdf)
 * [2024-03-20, 13:50:39](https://lobste.rs/s/wsx2qe/so_you_think_you_want_write_deterministic) - [So you think you want to write a deterministic hypervisor?](https://antithesis.com/blog/deterministic_hypervisor/)
 * [2024-03-20, 13:50:23](https://lobste.rs/s/wmlme8/learn_lil_10_minutes) - [Learn Lil in 10 Minutes](http://beyondloom.com/decker/learnlil.html)
 * [2024-03-20, 13:49:10](https://lobste.rs/s/fntogq/more_thoughts_on_vulnerabilities) - [More thoughts on vulnerabilities and misaligned incentives](https://blog.yossarian.net/2024/03/20/More-thoughts-on-vulnerabilities-and-misaligned-incentives)
@@ -18,7 +19,6 @@
 * [2024-03-20, 00:23:07](https://lobste.rs/s/oiocec/watt_wise_game_jam) - [Watt-Wise Game Jam](https://wattwise.games/)
 * [2024-03-20, 00:09:36](https://lobste.rs/s/etdcng/trailing_dots_domain_names) - [Trailing Dots in Domain Names](http://www.dns-sd.org/trailingdotsindomainnames.html)
 * [2024-03-19, 22:29:39](https://lobste.rs/s/p5uvzv/ryelang_spreadsheet_csv_demo) - [Ryelang Spreadsheet and CSV demo](https://asciinema.org/a/647708)
-* [2024-03-19, 21:01:07](https://lobste.rs/s/zgwzng/esphome_epaper_calendar_esphome) - [ESPHome-ePaper-Calendar: A ESPHome calendar for the Inkplate 6](https://github.com/paviro/ESPHome-ePaper-Calendar)
 * [2024-03-19, 19:59:59](https://lobste.rs/s/pv0pcg/supervision_trees_2019) - [Supervision Trees (2019)](https://adoptingerlang.org/docs/development/supervision_trees/)
 * [2024-03-19, 17:26:50](https://lobste.rs/s/imwwpe/java_22_jdk_22_general_availability) - [Java 22 / JDK 22: General Availability](https://mail.openjdk.org/pipermail/jdk-dev/2024-March/008827.html)
 * [2024-03-19, 16:26:54](https://lobste.rs/s/vh3wfv/what_if_spec_doesn_t_match_code) - [What if the spec doesn't match the code?](https://buttondown.email/hillelwayne/archive/what-if-the-spec-doesnt-match-the-code/)

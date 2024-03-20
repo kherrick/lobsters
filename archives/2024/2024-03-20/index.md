@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 14:03:52](https://lobste.rs/s/izmyx4/how_write_code_modern_fortran_2011) - [How to write code in modern Fortran (2011)](https://web.archive.org/web/20190516025920/https://www.tacc.utexas.edu/documents/13601/162125/fortran_class.pdf)
 * [2024-03-20, 13:50:39](https://lobste.rs/s/wsx2qe/so_you_think_you_want_write_deterministic) - [So you think you want to write a deterministic hypervisor?](https://antithesis.com/blog/deterministic_hypervisor/)
 * [2024-03-20, 13:50:23](https://lobste.rs/s/wmlme8/learn_lil_10_minutes) - [Learn Lil in 10 Minutes](http://beyondloom.com/decker/learnlil.html)
 * [2024-03-20, 13:49:10](https://lobste.rs/s/fntogq/more_thoughts_on_vulnerabilities) - [More thoughts on vulnerabilities and misaligned incentives](https://blog.yossarian.net/2024/03/20/More-thoughts-on-vulnerabilities-and-misaligned-incentives)
