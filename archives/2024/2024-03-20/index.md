@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 12:41:24](https://lobste.rs/s/iqxl3i/lcl_host_fast_easy_https_your_local_dev) - [lcl.host: fast, easy HTTPS in your local dev environment](https://anchor.dev/blog/introducing-lcl-host)
+* [2024-03-20, 12:32:06](https://lobste.rs/s/sx1drn/so_you_think_you_know_git_part_2) - [So You Think You Know Git Part 2](https://www.youtube.com/watch?v=Md44rcw13k4)
 * [2024-03-20, 12:30:30](https://lobste.rs/s/oa5pqc/go_enums_still_suck) - [Go Enums Still Suck](https://www.zarl.dev/articles/enums-take-two)
 * [2024-03-20, 12:21:40](https://lobste.rs/s/z2yufg/trusting_content_on_kde_store) - [Trusting content on the KDE Store](https://blog.davidedmundson.co.uk/blog/kde-store-content/)
 * [2024-03-20, 12:07:04](https://lobste.rs/s/m3mros/inserting_100k_rows_66_times_faster) - [Inserting 100k rows 66 times faster](https://xnacly.me/posts/2024/faster-inserts/)
