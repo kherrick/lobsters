@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-20, 14:50:38](https://lobste.rs/s/sw5mi9/practical_railway_oriented_pipelines) - [Practical Railway-Oriented Pipelines in Ruby](https://ismaelcelis.com/posts/practical-railway-oriented-pipelines-in-ruby/)
 * [2024-03-20, 14:03:52](https://lobste.rs/s/izmyx4/how_write_code_modern_fortran_2011) - [How to write code in modern Fortran (2011)](https://web.archive.org/web/20190516025920/https://www.tacc.utexas.edu/documents/13601/162125/fortran_class.pdf)
 * [2024-03-20, 13:50:39](https://lobste.rs/s/wsx2qe/so_you_think_you_want_write_deterministic) - [So you think you want to write a deterministic hypervisor?](https://antithesis.com/blog/deterministic_hypervisor/)
 * [2024-03-20, 13:50:23](https://lobste.rs/s/wmlme8/learn_lil_10_minutes) - [Learn Lil in 10 Minutes](http://beyondloom.com/decker/learnlil.html)
@@ -12,7 +13,6 @@
 * [2024-03-20, 12:07:04](https://lobste.rs/s/m3mros/inserting_100k_rows_66_times_faster) - [Inserting 100k rows 66 times faster](https://xnacly.me/posts/2024/faster-inserts/)
 * [2024-03-20, 11:41:15](https://lobste.rs/s/9akmbm/unison_production_at_unison_computing) - [Unison in production at Unison Computing](https://www.unison-lang.org/blog/experience-report-unison-in-production/)
 * [2024-03-20, 10:39:10](https://lobste.rs/s/rg7j1x/iam_is_perimeter) - [IAM is the Perimeter](https://www.packetmischief.ca/2023/01/12/iam-is-the-perimeter/)
-* [2024-03-20, 09:52:47](https://lobste.rs/s/7daiyu/browser_middle_25_years_after_msft) - [Browser in the middle: 25 years after the MSFT antitrust trial](https://randomoracle.wordpress.com/2024/03/19/browser-in-the-middle-25-years-after-the-msft-antitrust-trial/)
 * [2024-03-20, 09:21:00](https://lobste.rs/s/c3ryzm/journey_from_chaos_version_control) - [A Journey from Chaos to Version Control: A Developer's Tale](https://www.brautaset.org/posts/chaos-to-vcs.html)
 * [2024-03-20, 06:46:43](https://lobste.rs/s/mj8h8y/comparison_for_vector_search_postgresql) - [A Comparison for Vector Search in PostgreSQL](https://blog.pgvecto.rs/pgvector-vs-pgvectors-in-2024-a-comprehensive-comparison-for-vector-search-in-postgresql)
 * [2024-03-20, 01:12:07](https://lobste.rs/s/1fthjp/build_system_schism_curse_meta_build) - [Build System Schism: The Curse Of Meta Build Systems](https://yzena.com/2024/03/build-system-schism-the-curse-of-meta-build-systems/)
