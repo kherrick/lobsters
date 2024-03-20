@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-20, 06:46:43](https://lobste.rs/s/mj8h8y/comparison_for_vector_search_postgresql) - [A Comparison for Vector Search in PostgreSQL](https://blog.pgvecto.rs/pgvector-vs-pgvectors-in-2024-a-comprehensive-comparison-for-vector-search-in-postgresql)
 * [2024-03-20, 05:56:08](https://lobste.rs/s/dhpzak/dom_purify_untrusted_node_bypass) - [DOM Purify - untrusted Node bypass](https://blog.slonser.info/posts/dompurify-node-type-confusion/)
 * [2024-03-20, 02:10:57](https://lobste.rs/s/uqw7mq/ggpo_good_game_peace_out_rollback_network) - [ggpo: Good Game, Peace Out Rollback Network SDK](https://github.com/pond3r/ggpo)
 * [2024-03-20, 01:14:08](https://lobste.rs/s/5vwwxq/observability_improvements_for_curious) - [Observability improvements for the curious newcomer - Part 1](https://jaywhy13.hashnode.dev/observability-improvements-for-the-curious-newcomer-part-1)
@@ -24,7 +25,6 @@
 * [2024-03-19, 02:15:37](https://lobste.rs/s/sa7vbo/ruby_on_rails_37signals_future_web) - [Ruby on Rails, 37signals, and the future of web development](https://www.devtools.fm/episode/90?view=TRANSCRIPT)
 * [2024-03-18, 21:59:46](https://lobste.rs/s/zfnak4/what_if_everybody_did_everything_right) - [What if everybody did everything right?](https://surfingcomplexity.blog/2024/02/17/what-if-everybody-did-everything-right/)
 * [2024-03-18, 18:33:23](https://lobste.rs/s/nrbi30/goto_is_not_horror) - [Goto Is Not A Horror](https://jerf.org/iri/post/2024/goto/)
-* [2024-03-18, 17:15:42](https://lobste.rs/s/cxgm3t/no_way_prevent_this_say_users_only) - [\"No way to prevent this\" say users of only language where this regularly happens](https://xeiaso.net//shitposts/no-way-to-prevent-this/CVE-2024-22252/)
 
 ## [Archives](archives/index.md)
 
