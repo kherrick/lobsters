@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-20, 06:46:43",
+      "https://lobste.rs/s/mj8h8y/comparison_for_vector_search_postgresql"
+    ],
+    [
+      "A Comparison for Vector Search in PostgreSQL",
+      "https://blog.pgvecto.rs/pgvector-vs-pgvectors-in-2024-a-comprehensive-comparison-for-vector-search-in-postgresql"
+    ]
+  ],
+  [
+    [
       "2024-03-20, 05:56:08",
       "https://lobste.rs/s/dhpzak/dom_purify_untrusted_node_bypass"
     ],
@@ -237,16 +247,6 @@
     [
       "Goto Is Not A Horror",
       "https://jerf.org/iri/post/2024/goto/"
-    ]
-  ],
-  [
-    [
-      "2024-03-18, 17:15:42",
-      "https://lobste.rs/s/cxgm3t/no_way_prevent_this_say_users_only"
-    ],
-    [
-      "\"No way to prevent this\" say users of only language where this regularly happens",
-      "https://xeiaso.net//shitposts/no-way-to-prevent-this/CVE-2024-22252/"
     ]
   ]
 ]
