@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-20, 11:41:15](https://lobste.rs/s/9akmbm/unison_production_at_unison_computing) - [Unison in production at Unison Computing](https://www.unison-lang.org/blog/experience-report-unison-in-production/)
 * [2024-03-20, 11:13:17](https://lobste.rs/s/zlyfxs/privacy_respecting_type_error_telemetry) - [Privacy-Respecting Type Error Telemetry at Scale](https://programming-journal.org/2024/8/12/)
 * [2024-03-20, 11:12:42](https://lobste.rs/s/tvifwt/collective_allocator_abstraction) - [Collective Allocator Abstraction to Control Object Spatial Locality in C++](https://programming-journal.org/2024/8/15/)
 * [2024-03-20, 10:39:10](https://lobste.rs/s/rg7j1x/iam_is_perimeter) - [IAM is the Perimeter](https://www.packetmischief.ca/2023/01/12/iam-is-the-perimeter/)
@@ -21,7 +22,6 @@
 * [2024-03-19, 16:33:36](https://lobste.rs/s/wuom3l/comp_programming_threads_faq_2001) - [comp.programming.threads FAQ (2001)](https://danluu.com/threads-faq/)
 * [2024-03-19, 16:26:54](https://lobste.rs/s/vh3wfv/what_if_spec_doesn_t_match_code) - [What if the spec doesn't match the code?](https://buttondown.email/hillelwayne/archive/what-if-the-spec-doesnt-match-the-code/)
 * [2024-03-19, 15:56:47](https://lobste.rs/s/4jatzz/type_system_react_compiler) - [Type system of the React compiler](https://www.recompiled.dev/blog/type-system/)
-* [2024-03-19, 15:41:51](https://lobste.rs/s/olmte7/read_code_like_pro_with_our_weaudit_vscode) - [Read code like a pro with our weAudit VSCode extension](https://blog.trailofbits.com/2024/03/19/read-code-like-a-pro-with-our-weaudit-vscode-extension/)
 * [2024-03-19, 15:12:41](https://lobste.rs/s/nqi3lw/hackintosh_is_almost_dead) - [Hackintosh is (almost) dead](https://aplus.rs/2024/hackintosh-almost-dead/)
 * [2024-03-19, 13:14:39](https://lobste.rs/s/bkgflx/why_does_extraneous_build_step_make_my_zig) - [Why does an extraneous build step make my Zig app 10x faster?](https://mtlynch.io/zig-extraneous-build/)
 * [2024-03-18, 18:33:23](https://lobste.rs/s/nrbi30/goto_is_not_horror) - [Goto Is Not A Horror](https://jerf.org/iri/post/2024/goto/)

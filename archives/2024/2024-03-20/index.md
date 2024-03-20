@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 11:41:15](https://lobste.rs/s/9akmbm/unison_production_at_unison_computing) - [Unison in production at Unison Computing](https://www.unison-lang.org/blog/experience-report-unison-in-production/)
 * [2024-03-20, 11:13:17](https://lobste.rs/s/zlyfxs/privacy_respecting_type_error_telemetry) - [Privacy-Respecting Type Error Telemetry at Scale](https://programming-journal.org/2024/8/12/)
 * [2024-03-20, 11:12:42](https://lobste.rs/s/tvifwt/collective_allocator_abstraction) - [Collective Allocator Abstraction to Control Object Spatial Locality in C++](https://programming-journal.org/2024/8/15/)
 * [2024-03-20, 10:39:10](https://lobste.rs/s/rg7j1x/iam_is_perimeter) - [IAM is the Perimeter](https://www.packetmischief.ca/2023/01/12/iam-is-the-perimeter/)
