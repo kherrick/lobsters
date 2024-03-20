@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 20:18:12](https://lobste.rs/s/dhwo8a/array_languages_r_vs_apl) - [Array Languages: R vs APL](https://jcarroll.com.au/2023/07/07/array-languages-r-vs-apl/)
 * [2024-03-20, 18:44:41](https://lobste.rs/s/3xnsb5/mercia_relay_computer) - [MERCIA relay computer](http://www.relaiscomputer.nl/index.php)
 * [2024-03-20, 18:44:36](https://lobste.rs/s/ubqwhd/garnet_garnet_is_remote_cache_store_from) - [garnet: Garnet is a remote cache-store from Microsoft Research](https://github.com/microsoft/garnet)
 * [2024-03-20, 18:42:57](https://lobste.rs/s/y5kczf/real_c_killers_not_you_rust) - [The Real C++ Killers (Not You, Rust)](https://wordsandbuttons.online/the_real_cpp_killers.html)
