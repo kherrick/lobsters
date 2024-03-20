@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 16:59:51](https://lobste.rs/s/dcn0q3/v_0_4_5_is_out) - [V 0.4.5 is out](https://github.com/vlang/v/releases/tag/0.4.5)
 * [2024-03-20, 16:37:36](https://lobste.rs/s/rewiml/household_pi_projects_2022) - [Household Pi Projects (2022)](https://morepablo.com/2022/04/household-pi-projects.html)
 * [2024-03-20, 15:41:36](https://lobste.rs/s/5kohm8/why_does_technology_exist) - [Why Does Technology Exist?](https://blog.toast.cafe/raison-detre)
 * [2024-03-20, 14:50:38](https://lobste.rs/s/sw5mi9/practical_railway_oriented_pipelines) - [Practical Railway-Oriented Pipelines in Ruby](https://ismaelcelis.com/posts/practical-railway-oriented-pipelines-in-ruby/)
