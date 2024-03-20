@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-20, 12:49:13](https://lobste.rs/s/ja0s7t/bug_hunting_btrfs) - [Bug hunting in Btrfs](https://tavianator.com/2024/btrfs_bug.html)
 * [2024-03-20, 12:41:24](https://lobste.rs/s/iqxl3i/lcl_host_fast_easy_https_your_local_dev) - [lcl.host: fast, easy HTTPS in your local dev environment](https://anchor.dev/blog/introducing-lcl-host)
 * [2024-03-20, 12:32:06](https://lobste.rs/s/sx1drn/so_you_think_you_know_git_part_2) - [So You Think You Know Git Part 2](https://www.youtube.com/watch?v=Md44rcw13k4)
 * [2024-03-20, 12:30:30](https://lobste.rs/s/oa5pqc/go_enums_still_suck) - [Go Enums Still Suck](https://www.zarl.dev/articles/enums-take-two)
@@ -7,7 +8,6 @@
 * [2024-03-20, 12:07:04](https://lobste.rs/s/m3mros/inserting_100k_rows_66_times_faster) - [Inserting 100k rows 66 times faster](https://xnacly.me/posts/2024/faster-inserts/)
 * [2024-03-20, 11:41:15](https://lobste.rs/s/9akmbm/unison_production_at_unison_computing) - [Unison in production at Unison Computing](https://www.unison-lang.org/blog/experience-report-unison-in-production/)
 * [2024-03-20, 11:13:17](https://lobste.rs/s/zlyfxs/privacy_respecting_type_error_telemetry) - [Privacy-Respecting Type Error Telemetry at Scale](https://programming-journal.org/2024/8/12/)
-* [2024-03-20, 11:12:42](https://lobste.rs/s/tvifwt/collective_allocator_abstraction) - [Collective Allocator Abstraction to Control Object Spatial Locality in C++](https://programming-journal.org/2024/8/15/)
 * [2024-03-20, 10:39:10](https://lobste.rs/s/rg7j1x/iam_is_perimeter) - [IAM is the Perimeter](https://www.packetmischief.ca/2023/01/12/iam-is-the-perimeter/)
 * [2024-03-20, 09:54:50](https://lobste.rs/s/vvefts/nue_css_scaleable_alternative_tailwind) - [Nue CSS: A scaleable alternative to Tailwind, BEM, and CSS-in-JS](https://nuejs.org/blog/introducing-nue-css/)
 * [2024-03-20, 09:52:47](https://lobste.rs/s/7daiyu/browser_middle_25_years_after_msft) - [Browser in the middle: 25 years after the MSFT antitrust trial](https://randomoracle.wordpress.com/2024/03/19/browser-in-the-middle-25-years-after-the-msft-antitrust-trial/)

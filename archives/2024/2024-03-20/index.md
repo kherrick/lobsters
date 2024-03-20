@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 12:49:13](https://lobste.rs/s/ja0s7t/bug_hunting_btrfs) - [Bug hunting in Btrfs](https://tavianator.com/2024/btrfs_bug.html)
 * [2024-03-20, 12:41:24](https://lobste.rs/s/iqxl3i/lcl_host_fast_easy_https_your_local_dev) - [lcl.host: fast, easy HTTPS in your local dev environment](https://anchor.dev/blog/introducing-lcl-host)
 * [2024-03-20, 12:32:06](https://lobste.rs/s/sx1drn/so_you_think_you_know_git_part_2) - [So You Think You Know Git Part 2](https://www.youtube.com/watch?v=Md44rcw13k4)
 * [2024-03-20, 12:30:30](https://lobste.rs/s/oa5pqc/go_enums_still_suck) - [Go Enums Still Suck](https://www.zarl.dev/articles/enums-take-two)
