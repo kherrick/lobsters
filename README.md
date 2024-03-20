@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-20, 18:44:41](https://lobste.rs/s/3xnsb5/mercia_relay_computer) - [MERCIA relay computer](http://www.relaiscomputer.nl/index.php)
 * [2024-03-20, 18:44:36](https://lobste.rs/s/ubqwhd/garnet_garnet_is_remote_cache_store_from) - [garnet: Garnet is a remote cache-store from Microsoft Research](https://github.com/microsoft/garnet)
 * [2024-03-20, 17:47:16](https://lobste.rs/s/zcrm9t/visual_parsing_debugger_for_pdf_elm) - [Visual parsing debugger for PDF in Elm](https://discourse.elm-lang.org/t/visual-parsing-debugger-for-pdf-in-elm/9702)
 * [2024-03-20, 17:40:16](https://lobste.rs/s/rkc0ot/niri_scrollable_tiling_wayland) - [niri: A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri/)
@@ -15,7 +16,6 @@
 * [2024-03-20, 12:30:30](https://lobste.rs/s/oa5pqc/go_enums_still_suck) - [Go Enums Still Suck](https://www.zarl.dev/articles/enums-take-two)
 * [2024-03-20, 12:07:04](https://lobste.rs/s/m3mros/inserting_100k_rows_66_times_faster) - [Inserting 100k rows 66 times faster](https://xnacly.me/posts/2024/faster-inserts/)
 * [2024-03-20, 11:41:15](https://lobste.rs/s/9akmbm/unison_production_at_unison_computing) - [Unison in production at Unison Computing](https://www.unison-lang.org/blog/experience-report-unison-in-production/)
-* [2024-03-20, 10:39:10](https://lobste.rs/s/rg7j1x/iam_is_perimeter) - [IAM is the Perimeter](https://www.packetmischief.ca/2023/01/12/iam-is-the-perimeter/)
 * [2024-03-20, 09:21:00](https://lobste.rs/s/c3ryzm/journey_from_chaos_version_control) - [A Journey from Chaos to Version Control: A Developer's Tale](https://www.brautaset.org/posts/chaos-to-vcs.html)
 * [2024-03-20, 06:46:43](https://lobste.rs/s/mj8h8y/comparison_for_vector_search_postgresql) - [A Comparison for Vector Search in PostgreSQL](https://blog.pgvecto.rs/pgvector-vs-pgvectors-in-2024-a-comprehensive-comparison-for-vector-search-in-postgresql)
 * [2024-03-20, 01:12:07](https://lobste.rs/s/1fthjp/build_system_schism_curse_meta_build) - [Build System Schism: The Curse Of Meta Build Systems](https://yzena.com/2024/03/build-system-schism-the-curse-of-meta-build-systems/)
