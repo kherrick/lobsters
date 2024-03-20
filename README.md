@@ -2,11 +2,11 @@
 
 * [2024-03-20, 18:44:41](https://lobste.rs/s/3xnsb5/mercia_relay_computer) - [MERCIA relay computer](http://www.relaiscomputer.nl/index.php)
 * [2024-03-20, 18:44:36](https://lobste.rs/s/ubqwhd/garnet_garnet_is_remote_cache_store_from) - [garnet: Garnet is a remote cache-store from Microsoft Research](https://github.com/microsoft/garnet)
+* [2024-03-20, 18:42:57](https://lobste.rs/s/y5kczf/real_c_killers_not_you_rust) - [The Real C++ Killers (Not You, Rust)](https://wordsandbuttons.online/the_real_cpp_killers.html)
 * [2024-03-20, 17:47:16](https://lobste.rs/s/zcrm9t/visual_parsing_debugger_for_pdf_elm) - [Visual parsing debugger for PDF in Elm](https://discourse.elm-lang.org/t/visual-parsing-debugger-for-pdf-in-elm/9702)
 * [2024-03-20, 17:40:16](https://lobste.rs/s/rkc0ot/niri_scrollable_tiling_wayland) - [niri: A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri/)
 * [2024-03-20, 16:59:51](https://lobste.rs/s/dcn0q3/v_0_4_5_is_out) - [V 0.4.5 is out](https://github.com/vlang/v/releases/tag/0.4.5)
 * [2024-03-20, 14:50:38](https://lobste.rs/s/sw5mi9/practical_railway_oriented_pipelines) - [Practical Railway-Oriented Pipelines in Ruby](https://ismaelcelis.com/posts/practical-railway-oriented-pipelines-in-ruby/)
-* [2024-03-20, 14:03:52](https://lobste.rs/s/izmyx4/how_write_code_modern_fortran_2011) - [How to write code in modern Fortran (2011)](https://web.archive.org/web/20190516025920/https://www.tacc.utexas.edu/documents/13601/162125/fortran_class.pdf)
 * [2024-03-20, 13:50:39](https://lobste.rs/s/wsx2qe/so_you_think_you_want_write_deterministic) - [So you think you want to write a deterministic hypervisor?](https://antithesis.com/blog/deterministic_hypervisor/)
 * [2024-03-20, 13:50:23](https://lobste.rs/s/wmlme8/learn_lil_10_minutes) - [Learn Lil in 10 Minutes](http://beyondloom.com/decker/learnlil.html)
 * [2024-03-20, 13:49:10](https://lobste.rs/s/fntogq/more_thoughts_on_vulnerabilities) - [More thoughts on vulnerabilities and misaligned incentives](https://blog.yossarian.net/2024/03/20/More-thoughts-on-vulnerabilities-and-misaligned-incentives)
