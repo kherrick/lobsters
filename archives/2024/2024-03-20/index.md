@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 23:25:26](https://lobste.rs/s/sbuqgf/redis_dropped_bsd_3_favor_semi_open) - [Redis dropped BSD-3 in favor of a semi-open license](https://github.com/redis/redis/pull/13157)
 * [2024-03-20, 21:53:56](https://lobste.rs/s/68k8wz/rive_renderer_now_open_source_available) - [Rive Renderer — now open source and available on all platforms](https://rive.app/blog/rive-renderer-now-open-source-and-available-on-all-platforms)
 * [2024-03-20, 20:18:12](https://lobste.rs/s/dhwo8a/array_languages_r_vs_apl) - [Array Languages: R vs APL](https://jcarroll.com.au/2023/07/07/array-languages-r-vs-apl/)
 * [2024-03-20, 18:44:41](https://lobste.rs/s/3xnsb5/mercia_relay_computer) - [MERCIA relay computer](http://www.relaiscomputer.nl/index.php)
