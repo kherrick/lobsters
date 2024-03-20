@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-20, 01:14:08](https://lobste.rs/s/5vwwxq/observability_improvements_for_curious) - [Observability improvements for the curious newcomer - Part 1](https://jaywhy13.hashnode.dev/observability-improvements-for-the-curious-newcomer-part-1)
+* [2024-03-20, 01:12:07](https://lobste.rs/s/1fthjp/build_system_schism_curse_meta_build) - [Build System Schism: The Curse Of Meta Build Systems](https://yzena.com/2024/03/build-system-schism-the-curse-of-meta-build-systems/)
 * [2024-03-20, 00:23:07](https://lobste.rs/s/oiocec/watt_wise_game_jam) - [Watt-Wise Game Jam](https://wattwise.games/)
 * [2024-03-20, 00:09:36](https://lobste.rs/s/etdcng/trailing_dots_domain_names) - [Trailing Dots in Domain Names](http://www.dns-sd.org/trailingdotsindomainnames.html)
 * [2024-03-19, 22:29:39](https://lobste.rs/s/p5uvzv/ryelang_spreadsheet_csv_demo) - [Ryelang Spreadsheet and CSV demo](https://asciinema.org/a/647708)
@@ -17,13 +19,11 @@
 * [2024-03-19, 13:14:39](https://lobste.rs/s/bkgflx/why_does_extraneous_build_step_make_my_zig) - [Why does an extraneous build step make my Zig app 10x faster?](https://mtlynch.io/zig-extraneous-build/)
 * [2024-03-19, 05:31:30](https://lobste.rs/s/bpppjt/guess_who_s_back_exodus_scam_bitcoin) - [Guess Who's Back? Exodus Scam BitCoin Wallet Snap](https://popey.com/blog/2024/03/exodus-wallet-part-three/)
 * [2024-03-19, 05:30:17](https://lobste.rs/s/bykrp3/after_41_years_my_first_assembly_program) - [After 41 years, my first assembly program on my first computer, the Tomy Tutor](https://oldvcr.blogspot.com/2024/03/after-41-years-my-first-assembly.html)
-* [2024-03-19, 02:56:57](https://lobste.rs/s/j6nil3/gaining_kernel_code_execution_on_mte) - [Gaining kernel code execution on an MTE-enabled Pixel 8](https://github.blog/2024-03-18-gaining-kernel-code-execution-on-an-mte-enabled-pixel-8/)
 * [2024-03-19, 02:15:37](https://lobste.rs/s/sa7vbo/ruby_on_rails_37signals_future_web) - [Ruby on Rails, 37signals, and the future of web development](https://www.devtools.fm/episode/90?view=TRANSCRIPT)
 * [2024-03-18, 21:59:46](https://lobste.rs/s/zfnak4/what_if_everybody_did_everything_right) - [What if everybody did everything right?](https://surfingcomplexity.blog/2024/02/17/what-if-everybody-did-everything-right/)
 * [2024-03-18, 18:33:23](https://lobste.rs/s/nrbi30/goto_is_not_horror) - [Goto Is Not A Horror](https://jerf.org/iri/post/2024/goto/)
 * [2024-03-18, 17:15:42](https://lobste.rs/s/cxgm3t/no_way_prevent_this_say_users_only) - [\"No way to prevent this\" say users of only language where this regularly happens](https://xeiaso.net//shitposts/no-way-to-prevent-this/CVE-2024-22252/)
 * [2024-03-18, 16:47:17](https://lobste.rs/s/wyzdgf/websockets_vs_server_sent_events_vs_long) - [WebSockets vs Server-Sent-Events vs Long-Polling vs WebRTC vs WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
-* [2024-03-18, 11:11:58](https://lobste.rs/s/iec3zk/social_minefield_high_stakes) - [Social Minefield - high stakes minesweeper via Clickjacking attacks](https://social-minefield.com)
 * [2024-03-18, 03:03:50](https://lobste.rs/s/onr9sb/java_users_on_macos_14_running_on_apple) - [Java users on macOS 14 running on Apple silicon systems should consider delaying the macOS 14.4 update](https://blogs.oracle.com/java/post/java-on-macos-14-4)
 
 ## [Archives](archives/index.md)
