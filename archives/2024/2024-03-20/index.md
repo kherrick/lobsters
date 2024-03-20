@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 12:30:30](https://lobste.rs/s/oa5pqc/go_enums_still_suck) - [Go Enums Still Suck](https://www.zarl.dev/articles/enums-take-two)
+* [2024-03-20, 12:21:40](https://lobste.rs/s/z2yufg/trusting_content_on_kde_store) - [Trusting content on the KDE Store](https://blog.davidedmundson.co.uk/blog/kde-store-content/)
+* [2024-03-20, 12:07:04](https://lobste.rs/s/m3mros/inserting_100k_rows_66_times_faster) - [Inserting 100k rows 66 times faster](https://xnacly.me/posts/2024/faster-inserts/)
 * [2024-03-20, 11:41:15](https://lobste.rs/s/9akmbm/unison_production_at_unison_computing) - [Unison in production at Unison Computing](https://www.unison-lang.org/blog/experience-report-unison-in-production/)
 * [2024-03-20, 11:13:17](https://lobste.rs/s/zlyfxs/privacy_respecting_type_error_telemetry) - [Privacy-Respecting Type Error Telemetry at Scale](https://programming-journal.org/2024/8/12/)
 * [2024-03-20, 11:12:42](https://lobste.rs/s/tvifwt/collective_allocator_abstraction) - [Collective Allocator Abstraction to Control Object Spatial Locality in C++](https://programming-journal.org/2024/8/15/)
