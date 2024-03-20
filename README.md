@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-20, 02:10:57](https://lobste.rs/s/uqw7mq/ggpo_good_game_peace_out_rollback_network) - [ggpo: Good Game, Peace Out Rollback Network SDK](https://github.com/pond3r/ggpo)
 * [2024-03-20, 01:14:08](https://lobste.rs/s/5vwwxq/observability_improvements_for_curious) - [Observability improvements for the curious newcomer - Part 1](https://jaywhy13.hashnode.dev/observability-improvements-for-the-curious-newcomer-part-1)
 * [2024-03-20, 01:12:07](https://lobste.rs/s/1fthjp/build_system_schism_curse_meta_build) - [Build System Schism: The Curse Of Meta Build Systems](https://yzena.com/2024/03/build-system-schism-the-curse-of-meta-build-systems/)
 * [2024-03-20, 00:23:07](https://lobste.rs/s/oiocec/watt_wise_game_jam) - [Watt-Wise Game Jam](https://wattwise.games/)
@@ -24,7 +25,6 @@
 * [2024-03-18, 18:33:23](https://lobste.rs/s/nrbi30/goto_is_not_horror) - [Goto Is Not A Horror](https://jerf.org/iri/post/2024/goto/)
 * [2024-03-18, 17:15:42](https://lobste.rs/s/cxgm3t/no_way_prevent_this_say_users_only) - [\"No way to prevent this\" say users of only language where this regularly happens](https://xeiaso.net//shitposts/no-way-to-prevent-this/CVE-2024-22252/)
 * [2024-03-18, 16:47:17](https://lobste.rs/s/wyzdgf/websockets_vs_server_sent_events_vs_long) - [WebSockets vs Server-Sent-Events vs Long-Polling vs WebRTC vs WebTransport](https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html)
-* [2024-03-18, 03:03:50](https://lobste.rs/s/onr9sb/java_users_on_macos_14_running_on_apple) - [Java users on macOS 14 running on Apple silicon systems should consider delaying the macOS 14.4 update](https://blogs.oracle.com/java/post/java-on-macos-14-4)
 
 ## [Archives](archives/index.md)
 

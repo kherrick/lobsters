@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 02:10:57](https://lobste.rs/s/uqw7mq/ggpo_good_game_peace_out_rollback_network) - [ggpo: Good Game, Peace Out Rollback Network SDK](https://github.com/pond3r/ggpo)
 * [2024-03-20, 01:14:08](https://lobste.rs/s/5vwwxq/observability_improvements_for_curious) - [Observability improvements for the curious newcomer - Part 1](https://jaywhy13.hashnode.dev/observability-improvements-for-the-curious-newcomer-part-1)
 * [2024-03-20, 01:12:07](https://lobste.rs/s/1fthjp/build_system_schism_curse_meta_build) - [Build System Schism: The Curse Of Meta Build Systems](https://yzena.com/2024/03/build-system-schism-the-curse-of-meta-build-systems/)
 * [2024-03-20, 00:23:07](https://lobste.rs/s/oiocec/watt_wise_game_jam) - [Watt-Wise Game Jam](https://wattwise.games/)
