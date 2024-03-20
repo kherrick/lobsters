@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
 * [2024-03-20, 18:44:41](https://lobste.rs/s/3xnsb5/mercia_relay_computer) - [MERCIA relay computer](http://www.relaiscomputer.nl/index.php)
+* [2024-03-20, 18:44:36](https://lobste.rs/s/ubqwhd/garnet_garnet_is_remote_cache_store_from) - [garnet: Garnet is a remote cache-store from Microsoft Research](https://github.com/microsoft/garnet)
 * [2024-03-20, 17:47:16](https://lobste.rs/s/zcrm9t/visual_parsing_debugger_for_pdf_elm) - [Visual parsing debugger for PDF in Elm](https://discourse.elm-lang.org/t/visual-parsing-debugger-for-pdf-in-elm/9702)
 * [2024-03-20, 17:40:16](https://lobste.rs/s/rkc0ot/niri_scrollable_tiling_wayland) - [niri: A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri/)
 * [2024-03-20, 16:59:51](https://lobste.rs/s/dcn0q3/v_0_4_5_is_out) - [V 0.4.5 is out](https://github.com/vlang/v/releases/tag/0.4.5)
