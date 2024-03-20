@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 15:41:36](https://lobste.rs/s/5kohm8/why_does_technology_exist) - [Why Does Technology Exist?](https://blog.toast.cafe/raison-detre)
 * [2024-03-20, 14:50:38](https://lobste.rs/s/sw5mi9/practical_railway_oriented_pipelines) - [Practical Railway-Oriented Pipelines in Ruby](https://ismaelcelis.com/posts/practical-railway-oriented-pipelines-in-ruby/)
 * [2024-03-20, 14:03:52](https://lobste.rs/s/izmyx4/how_write_code_modern_fortran_2011) - [How to write code in modern Fortran (2011)](https://web.archive.org/web/20190516025920/https://www.tacc.utexas.edu/documents/13601/162125/fortran_class.pdf)
 * [2024-03-20, 13:50:39](https://lobste.rs/s/wsx2qe/so_you_think_you_want_write_deterministic) - [So you think you want to write a deterministic hypervisor?](https://antithesis.com/blog/deterministic_hypervisor/)
