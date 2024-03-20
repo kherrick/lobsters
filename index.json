@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-20, 13:41:22",
+      "https://lobste.rs/s/jdki6m/devenv_1_0_rewrite_rust"
+    ],
+    [
+      "devenv 1.0: Rewrite in Rust",
+      "https://devenv.sh/blog/2023/03/20/devenv-10-rewrite-in-rust/"
+    ]
+  ],
+  [
+    [
       "2024-03-20, 13:32:28",
       "https://lobste.rs/s/ddevgb/focus_by_automation"
     ],
@@ -47,16 +57,6 @@
     [
       "Go Enums Still Suck",
       "https://www.zarl.dev/articles/enums-take-two"
-    ]
-  ],
-  [
-    [
-      "2024-03-20, 12:21:40",
-      "https://lobste.rs/s/z2yufg/trusting_content_on_kde_store"
-    ],
-    [
-      "Trusting content on the KDE Store",
-      "https://blog.davidedmundson.co.uk/blog/kde-store-content/"
     ]
   ],
   [
