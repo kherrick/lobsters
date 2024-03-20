@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 09:54:50](https://lobste.rs/s/vvefts/nue_css_scaleable_alternative_tailwind) - [Nue CSS: A scaleable alternative to Tailwind, BEM, and CSS-in-JS](https://nuejs.org/blog/introducing-nue-css/)
+* [2024-03-20, 09:52:47](https://lobste.rs/s/7daiyu/browser_middle_25_years_after_msft) - [Browser in the middle: 25 years after the MSFT antitrust trial](https://randomoracle.wordpress.com/2024/03/19/browser-in-the-middle-25-years-after-the-msft-antitrust-trial/)
 * [2024-03-20, 09:21:00](https://lobste.rs/s/c3ryzm/journey_from_chaos_version_control) - [A Journey from Chaos to Version Control: A Developer's Tale](https://www.brautaset.org/posts/chaos-to-vcs.html)
 * [2024-03-20, 06:46:43](https://lobste.rs/s/mj8h8y/comparison_for_vector_search_postgresql) - [A Comparison for Vector Search in PostgreSQL](https://blog.pgvecto.rs/pgvector-vs-pgvectors-in-2024-a-comprehensive-comparison-for-vector-search-in-postgresql)
 * [2024-03-20, 05:56:08](https://lobste.rs/s/dhpzak/dom_purify_untrusted_node_bypass) - [DOM Purify - untrusted Node bypass](https://blog.slonser.info/posts/dompurify-node-type-confusion/)
