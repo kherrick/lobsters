@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-03-20, 17:47:16",
+      "https://lobste.rs/s/zcrm9t/visual_parsing_debugger_for_pdf_elm"
+    ],
+    [
+      "Visual parsing debugger for PDF in Elm",
+      "https://discourse.elm-lang.org/t/visual-parsing-debugger-for-pdf-in-elm/9702"
+    ]
+  ],
+  [
+    [
       "2024-03-20, 17:40:16",
       "https://lobste.rs/s/rkc0ot/niri_scrollable_tiling_wayland"
     ],
@@ -217,16 +227,6 @@
     [
       "Ryelang Spreadsheet and CSV demo",
       "https://asciinema.org/a/647708"
-    ]
-  ],
-  [
-    [
-      "2024-03-19, 17:26:50",
-      "https://lobste.rs/s/imwwpe/java_22_jdk_22_general_availability"
-    ],
-    [
-      "Java 22 / JDK 22: General Availability",
-      "https://mail.openjdk.org/pipermail/jdk-dev/2024-March/008827.html"
     ]
   ],
   [
