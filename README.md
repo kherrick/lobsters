@@ -4,6 +4,7 @@
 * [2024-03-20, 18:44:41](https://lobste.rs/s/3xnsb5/mercia_relay_computer) - [MERCIA relay computer](http://www.relaiscomputer.nl/index.php)
 * [2024-03-20, 18:44:36](https://lobste.rs/s/ubqwhd/garnet_garnet_is_remote_cache_store_from) - [garnet: Garnet is a remote cache-store from Microsoft Research](https://github.com/microsoft/garnet)
 * [2024-03-20, 18:42:57](https://lobste.rs/s/y5kczf/real_c_killers_not_you_rust) - [The Real C++ Killers (Not You, Rust)](https://wordsandbuttons.online/the_real_cpp_killers.html)
+* [2024-03-20, 17:47:16](https://lobste.rs/s/zcrm9t/visual_parsing_debugger_for_pdf_elm) - [Visual parsing debugger for PDF in Elm](https://discourse.elm-lang.org/t/visual-parsing-debugger-for-pdf-in-elm/9702)
 * [2024-03-20, 17:40:16](https://lobste.rs/s/rkc0ot/niri_scrollable_tiling_wayland) - [niri: A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri/)
 * [2024-03-20, 16:59:51](https://lobste.rs/s/dcn0q3/v_0_4_5_is_out) - [V 0.4.5 is out](https://github.com/vlang/v/releases/tag/0.4.5)
 * [2024-03-20, 14:50:38](https://lobste.rs/s/sw5mi9/practical_railway_oriented_pipelines) - [Practical Railway-Oriented Pipelines in Ruby](https://ismaelcelis.com/posts/practical-railway-oriented-pipelines-in-ruby/)
@@ -22,7 +23,6 @@
 * [2024-03-20, 00:23:07](https://lobste.rs/s/oiocec/watt_wise_game_jam) - [Watt-Wise Game Jam](https://wattwise.games/)
 * [2024-03-20, 00:09:36](https://lobste.rs/s/etdcng/trailing_dots_domain_names) - [Trailing Dots in Domain Names](http://www.dns-sd.org/trailingdotsindomainnames.html)
 * [2024-03-19, 22:29:39](https://lobste.rs/s/p5uvzv/ryelang_spreadsheet_csv_demo) - [Ryelang Spreadsheet and CSV demo](https://asciinema.org/a/647708)
-* [2024-03-19, 17:26:50](https://lobste.rs/s/imwwpe/java_22_jdk_22_general_availability) - [Java 22 / JDK 22: General Availability](https://mail.openjdk.org/pipermail/jdk-dev/2024-March/008827.html)
 * [2024-03-19, 15:12:41](https://lobste.rs/s/nqi3lw/hackintosh_is_almost_dead) - [Hackintosh is (almost) dead](https://aplus.rs/2024/hackintosh-almost-dead/)
 * [2024-03-19, 13:14:39](https://lobste.rs/s/bkgflx/why_does_extraneous_build_step_make_my_zig) - [Why does an extraneous build step make my Zig app 10x faster?](https://mtlynch.io/zig-extraneous-build/)
 
