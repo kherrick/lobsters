@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-20](index.md)
 
+* [2024-03-20, 09:21:00](https://lobste.rs/s/c3ryzm/journey_from_chaos_version_control) - [A Journey from Chaos to Version Control: A Developer's Tale](https://www.brautaset.org/posts/chaos-to-vcs.html)
 * [2024-03-20, 06:46:43](https://lobste.rs/s/mj8h8y/comparison_for_vector_search_postgresql) - [A Comparison for Vector Search in PostgreSQL](https://blog.pgvecto.rs/pgvector-vs-pgvectors-in-2024-a-comprehensive-comparison-for-vector-search-in-postgresql)
 * [2024-03-20, 05:56:08](https://lobste.rs/s/dhpzak/dom_purify_untrusted_node_bypass) - [DOM Purify - untrusted Node bypass](https://blog.slonser.info/posts/dompurify-node-type-confusion/)
 * [2024-03-20, 02:10:57](https://lobste.rs/s/uqw7mq/ggpo_good_game_peace_out_rollback_network) - [ggpo: Good Game, Peace Out Rollback Network SDK](https://github.com/pond3r/ggpo)

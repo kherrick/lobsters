@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-20, 09:21:00](https://lobste.rs/s/c3ryzm/journey_from_chaos_version_control) - [A Journey from Chaos to Version Control: A Developer's Tale](https://www.brautaset.org/posts/chaos-to-vcs.html)
 * [2024-03-20, 06:46:43](https://lobste.rs/s/mj8h8y/comparison_for_vector_search_postgresql) - [A Comparison for Vector Search in PostgreSQL](https://blog.pgvecto.rs/pgvector-vs-pgvectors-in-2024-a-comprehensive-comparison-for-vector-search-in-postgresql)
 * [2024-03-20, 05:56:08](https://lobste.rs/s/dhpzak/dom_purify_untrusted_node_bypass) - [DOM Purify - untrusted Node bypass](https://blog.slonser.info/posts/dompurify-node-type-confusion/)
 * [2024-03-20, 02:10:57](https://lobste.rs/s/uqw7mq/ggpo_good_game_peace_out_rollback_network) - [ggpo: Good Game, Peace Out Rollback Network SDK](https://github.com/pond3r/ggpo)
@@ -20,7 +21,6 @@
 * [2024-03-19, 15:12:41](https://lobste.rs/s/nqi3lw/hackintosh_is_almost_dead) - [Hackintosh is (almost) dead](https://aplus.rs/2024/hackintosh-almost-dead/)
 * [2024-03-19, 14:20:01](https://lobste.rs/s/5wuxbq/freebsd_user_tries_netbsd_10_rc5) - [A FreeBSD user Tries NetBSD 10-RC5](https://youtu.be/fLmIKENJxe4)
 * [2024-03-19, 13:14:39](https://lobste.rs/s/bkgflx/why_does_extraneous_build_step_make_my_zig) - [Why does an extraneous build step make my Zig app 10x faster?](https://mtlynch.io/zig-extraneous-build/)
-* [2024-03-19, 05:31:30](https://lobste.rs/s/bpppjt/guess_who_s_back_exodus_scam_bitcoin) - [Guess Who's Back? Exodus Scam BitCoin Wallet Snap](https://popey.com/blog/2024/03/exodus-wallet-part-three/)
 * [2024-03-19, 05:30:17](https://lobste.rs/s/bykrp3/after_41_years_my_first_assembly_program) - [After 41 years, my first assembly program on my first computer, the Tomy Tutor](https://oldvcr.blogspot.com/2024/03/after-41-years-my-first-assembly.html)
 * [2024-03-19, 02:15:37](https://lobste.rs/s/sa7vbo/ruby_on_rails_37signals_future_web) - [Ruby on Rails, 37signals, and the future of web development](https://www.devtools.fm/episode/90?view=TRANSCRIPT)
 * [2024-03-18, 21:59:46](https://lobste.rs/s/zfnak4/what_if_everybody_did_everything_right) - [What if everybody did everything right?](https://surfingcomplexity.blog/2024/02/17/what-if-everybody-did-everything-right/)
