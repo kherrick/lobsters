@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-03-21, 17:36:39](https://lobste.rs/s/gjmm6o/generative_ai_model_openness_framework) - [Generative AI Model Openness Framework Whitepaper](https://arxiv.org/pdf/2403.13784.pdf)
+* [2024-03-21, 18:17:58](https://lobste.rs/s/gzsnyh/gofetch_breaking_constant_time) - [GoFetch: Breaking Constant-Time Cryptographic Implementations Using Data Memory-Dependent Prefetchers](https://gofetch.fail/)
 * [2024-03-21, 16:42:43](https://lobste.rs/s/iel0at/step_beyond_rust_s_pattern_matching) - [A step beyond Rust's pattern matching](https://radiki.dev/posts/match-and-bind-patterns/)
 * [2024-03-21, 16:14:31](https://lobste.rs/s/cuq9jc/arch_linux_minimal_container_userland) - [Arch Linux minimal container userland 100% reproducible - now what?](https://lists.archlinux.org/hyperkitty/list/arch-dev-public@lists.archlinux.org/thread/AWJ6QUUTE4M27QMH5GSWVDPPMNJEFNEG/)
 * [2024-03-21, 15:50:25](https://lobste.rs/s/cvknut/wrong_way_speed_up_your_code_with_numba) - [The wrong way to speed up your code with Numba](https://pythonspeed.com/articles/slow-numba/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-21](index.md)
 
+* [2024-03-21, 18:17:58](https://lobste.rs/s/gzsnyh/gofetch_breaking_constant_time) - [GoFetch: Breaking Constant-Time Cryptographic Implementations Using Data Memory-Dependent Prefetchers](https://gofetch.fail/)
 * [2024-03-21, 17:36:39](https://lobste.rs/s/gjmm6o/generative_ai_model_openness_framework) - [Generative AI Model Openness Framework Whitepaper](https://arxiv.org/pdf/2403.13784.pdf)
 * [2024-03-21, 17:28:32](https://lobste.rs/s/hx8rig/introducing_connectionevaluator) - [Introducing the ConnectionEvaluator in KDBindings](https://www.kdab.com/introducing-the-connectionevaluator-in-kdbindings/)
 * [2024-03-21, 17:15:26](https://lobste.rs/s/4ccyyp/unpatchable_vulnerability_apple_chip) - [Unpatchable vulnerability in Apple chip leaks secret encryption keys](https://arstechnica.com/security/2024/03/hackers-can-extract-secret-encryption-keys-from-apples-mac-chips/)
