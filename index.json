@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-21, 14:39:17",
+      "https://lobste.rs/s/vub7ke/introducing_pgzx_create_postgresql"
+    ],
+    [
+      "Introducing pgzx: create PostgreSQL extensions using Zig",
+      "https://xata.io/blog/introducing-pgzx"
+    ]
+  ],
+  [
+    [
       "2024-03-21, 14:22:56",
       "https://lobste.rs/s/ogdfxh/cross_referencing_code_specs_for"
     ],
@@ -237,16 +247,6 @@
     [
       "Watt-Wise Game Jam",
       "https://wattwise.games/"
-    ]
-  ],
-  [
-    [
-      "2024-03-19, 13:14:39",
-      "https://lobste.rs/s/bkgflx/why_does_extraneous_build_step_make_my_zig"
-    ],
-    [
-      "Why does an extraneous build step make my Zig app 10x faster?",
-      "https://mtlynch.io/zig-extraneous-build/"
     ]
   ]
 ]
