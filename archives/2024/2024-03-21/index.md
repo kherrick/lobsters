@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-21](index.md)
 
+* [2024-03-21, 10:20:23](https://lobste.rs/s/jcpa45/intrusive_unit_testing) - [Intrusive Unit Testing](https://two-wrongs.com/intrusive-unit-testing)
 * [2024-03-21, 06:08:20](https://lobste.rs/s/ibsfam/introducing_gnome_46_kathmandu) - [Introducing GNOME 46, “Kathmandu”](https://release.gnome.org/46/)
 * [2024-03-21, 05:21:17](https://lobste.rs/s/t1npvy/c_23_encoding_related_changes) - [C++23: Encoding related changes](https://www.sandordargo.com/blog/2024/03/20/cpp23-encoding-related-changes)
 * [2024-03-21, 04:13:58](https://lobste.rs/s/rvsyxl/refix_fast_debuggable_reproducible) - [refix: fast, debuggable, reproducible builds](https://yosefk.com/blog/refix-fast-debuggable-reproducible-builds.html)

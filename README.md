@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-21, 10:20:23](https://lobste.rs/s/jcpa45/intrusive_unit_testing) - [Intrusive Unit Testing](https://two-wrongs.com/intrusive-unit-testing)
 * [2024-03-21, 06:08:20](https://lobste.rs/s/ibsfam/introducing_gnome_46_kathmandu) - [Introducing GNOME 46, “Kathmandu”](https://release.gnome.org/46/)
 * [2024-03-21, 05:21:17](https://lobste.rs/s/t1npvy/c_23_encoding_related_changes) - [C++23: Encoding related changes](https://www.sandordargo.com/blog/2024/03/20/cpp23-encoding-related-changes)
 * [2024-03-21, 04:13:58](https://lobste.rs/s/rvsyxl/refix_fast_debuggable_reproducible) - [refix: fast, debuggable, reproducible builds](https://yosefk.com/blog/refix-fast-debuggable-reproducible-builds.html)
@@ -10,7 +11,6 @@
 * [2024-03-20, 20:18:12](https://lobste.rs/s/dhwo8a/array_languages_r_vs_apl) - [Array Languages: R vs APL](https://jcarroll.com.au/2023/07/07/array-languages-r-vs-apl/)
 * [2024-03-20, 18:42:57](https://lobste.rs/s/y5kczf/real_c_killers_not_you_rust) - [The Real C++ Killers (Not You, Rust)](https://wordsandbuttons.online/the_real_cpp_killers.html)
 * [2024-03-20, 17:40:16](https://lobste.rs/s/rkc0ot/niri_scrollable_tiling_wayland) - [niri: A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri/)
-* [2024-03-20, 16:59:51](https://lobste.rs/s/dcn0q3/v_0_4_5_is_out) - [V 0.4.5 is out](https://github.com/vlang/v/releases/tag/0.4.5)
 * [2024-03-20, 14:50:38](https://lobste.rs/s/sw5mi9/practical_railway_oriented_pipelines) - [Practical Railway-Oriented Pipelines in Ruby](https://ismaelcelis.com/posts/practical-railway-oriented-pipelines-in-ruby/)
 * [2024-03-20, 13:50:39](https://lobste.rs/s/wsx2qe/so_you_think_you_want_write_deterministic) - [So you think you want to write a deterministic hypervisor?](https://antithesis.com/blog/deterministic_hypervisor/)
 * [2024-03-20, 13:50:23](https://lobste.rs/s/wmlme8/learn_lil_10_minutes) - [Learn Lil in 10 Minutes](http://beyondloom.com/decker/learnlil.html)
