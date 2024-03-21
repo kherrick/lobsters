@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-21, 18:27:22",
+      "https://lobste.rs/s/x5immj/duckdb_as_new_jq"
+    ],
+    [
+      "DuckDB as the New jq",
+      "https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/"
+    ]
+  ],
+  [
+    [
       "2024-03-21, 18:17:58",
       "https://lobste.rs/s/gzsnyh/gofetch_breaking_constant_time"
     ],
@@ -227,16 +237,6 @@
     [
       "Bug hunting in Btrfs",
       "https://tavianator.com/2024/btrfs_bug.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-20, 12:41:24",
-      "https://lobste.rs/s/iqxl3i/lcl_host_fast_easy_https_your_local_dev"
-    ],
-    [
-      "lcl.host: fast, easy HTTPS in your local dev environment",
-      "https://anchor.dev/blog/introducing-lcl-host"
     ]
   ],
   [
