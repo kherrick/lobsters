@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-21, 12:38:05](https://lobste.rs/s/xojuty/cacherevolt_manifesto) - [The CacheRevolt Manifesto](https://codeberg.org/CacheRevolt/CacheRevolt)
 * [2024-03-21, 10:20:23](https://lobste.rs/s/jcpa45/intrusive_unit_testing) - [Intrusive Unit Testing](https://two-wrongs.com/intrusive-unit-testing)
 * [2024-03-21, 06:08:20](https://lobste.rs/s/ibsfam/introducing_gnome_46_kathmandu) - [Introducing GNOME 46, “Kathmandu”](https://release.gnome.org/46/)
 * [2024-03-21, 05:21:17](https://lobste.rs/s/t1npvy/c_23_encoding_related_changes) - [C++23: Encoding related changes](https://www.sandordargo.com/blog/2024/03/20/cpp23-encoding-related-changes)
@@ -21,7 +22,6 @@
 * [2024-03-20, 12:30:30](https://lobste.rs/s/oa5pqc/go_enums_still_suck) - [Go Enums Still Suck](https://www.zarl.dev/articles/enums-take-two)
 * [2024-03-20, 12:07:04](https://lobste.rs/s/m3mros/inserting_100k_rows_66_times_faster) - [Inserting 100k rows 66 times faster](https://xnacly.me/posts/2024/faster-inserts/)
 * [2024-03-20, 11:41:15](https://lobste.rs/s/9akmbm/unison_production_at_unison_computing) - [Unison in production at Unison Computing](https://www.unison-lang.org/blog/experience-report-unison-in-production/)
-* [2024-03-20, 09:21:00](https://lobste.rs/s/c3ryzm/journey_from_chaos_version_control) - [A Journey from Chaos to Version Control: A Developer's Tale](https://www.brautaset.org/posts/chaos-to-vcs.html)
 * [2024-03-20, 00:23:07](https://lobste.rs/s/oiocec/watt_wise_game_jam) - [Watt-Wise Game Jam](https://wattwise.games/)
 * [2024-03-20, 00:09:36](https://lobste.rs/s/etdcng/trailing_dots_domain_names) - [Trailing Dots in Domain Names](http://www.dns-sd.org/trailingdotsindomainnames.html)
 * [2024-03-19, 13:14:39](https://lobste.rs/s/bkgflx/why_does_extraneous_build_step_make_my_zig) - [Why does an extraneous build step make my Zig app 10x faster?](https://mtlynch.io/zig-extraneous-build/)
