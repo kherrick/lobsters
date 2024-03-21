@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-21, 13:26:34](https://lobste.rs/s/yqakuw/apache_kvrocks_is_distributed_key_value) - [Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol](https://kvrocks.apache.org/)
 * [2024-03-21, 13:05:27](https://lobste.rs/s/xq3zt9/case_for_cli_tag) - [The case for a cli tag](https://lobste.rs/s/xq3zt9/case_for_cli_tag)
 * [2024-03-21, 12:47:25](https://lobste.rs/s/iia288/5_things_we_have_forgotten_about_open) - [5 Things We Have Forgotten About Open Source (2014)](http://jordi.inversethought.com/blog/5-things-we-have-forgotten-about-open-source/)
-* [2024-03-21, 12:38:05](https://lobste.rs/s/xojuty/cacherevolt_manifesto) - [The CacheRevolt Manifesto](https://codeberg.org/CacheRevolt/CacheRevolt)
 * [2024-03-21, 10:20:23](https://lobste.rs/s/jcpa45/intrusive_unit_testing) - [Intrusive Unit Testing](https://two-wrongs.com/intrusive-unit-testing)
 * [2024-03-21, 06:08:20](https://lobste.rs/s/ibsfam/introducing_gnome_46_kathmandu) - [Introducing GNOME 46, “Kathmandu”](https://release.gnome.org/46/)
 * [2024-03-21, 05:21:17](https://lobste.rs/s/t1npvy/c_23_encoding_related_changes) - [C++23: Encoding related changes](https://www.sandordargo.com/blog/2024/03/20/cpp23-encoding-related-changes)
