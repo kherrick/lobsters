@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-03-20, 23:18:21",
-      "https://lobste.rs/s/8opwxw/look_ma_i_wrote_new_jit_compiler_for"
-    ],
-    [
-      "Look ma, I wrote a new JIT compiler for PostgreSQL",
-      "https://www.pinaraf.info/2024/03/look-ma-i-wrote-a-new-jit-compiler-for-postgresql/"
-    ]
-  ],
-  [
-    [
       "2024-03-20, 20:18:12",
       "https://lobste.rs/s/dhwo8a/array_languages_r_vs_apl"
     ],
@@ -217,6 +207,16 @@
     [
       "A Journey from Chaos to Version Control: A Developer's Tale",
       "https://www.brautaset.org/posts/chaos-to-vcs.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-20, 06:46:43",
+      "https://lobste.rs/s/mj8h8y/comparison_for_vector_search_postgresql"
+    ],
+    [
+      "A Comparison for Vector Search in PostgreSQL",
+      "https://blog.pgvecto.rs/pgvector-vs-pgvectors-in-2024-a-comprehensive-comparison-for-vector-search-in-postgresql"
     ]
   ],
   [
