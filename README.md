@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-03-21, 19:41:27](https://lobste.rs/s/dtdqg9/antithesis_one_million_bug_taming) - [Antithesis of a One-in-a-Million Bug: Taming Demonic Nondeterminism](https://www.cockroachlabs.com/blog/demonic-nondeterminism/)
+* [2024-03-21, 19:36:38](https://lobste.rs/s/e5519n/signed_not_secure) - [Signed but not secure](https://blog.benjojo.co.uk/post/rpki-signed-but-not-secure)
 * [2024-03-21, 18:27:22](https://lobste.rs/s/x5immj/duckdb_as_new_jq) - [DuckDB as the New jq](https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/)
 * [2024-03-21, 18:17:58](https://lobste.rs/s/gzsnyh/gofetch_breaking_constant_time) - [GoFetch: Breaking Constant-Time Cryptographic Implementations Using Data Memory-Dependent Prefetchers](https://gofetch.fail/)
 * [2024-03-21, 17:36:22](https://lobste.rs/s/k6e0gn/bootstrapping_alpine_linux_without_root) - [Bootstrapping Alpine Linux without root](https://blog.brixit.nl/bootstrapping-alpine-linux-without-root/)
@@ -18,7 +19,6 @@
 * [2024-03-21, 06:08:20](https://lobste.rs/s/ibsfam/introducing_gnome_46_kathmandu) - [Introducing GNOME 46, “Kathmandu”](https://release.gnome.org/46/)
 * [2024-03-21, 04:13:58](https://lobste.rs/s/rvsyxl/refix_fast_debuggable_reproducible) - [refix: fast, debuggable, reproducible builds](https://yosefk.com/blog/refix-fast-debuggable-reproducible-builds.html)
 * [2024-03-21, 01:06:37](https://lobste.rs/s/qcwdgi/tiny_undervalued_hardware_companions) - [Tiny Undervalued Hardware Companions](https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/)
-* [2024-03-21, 00:44:28](https://lobste.rs/s/g51epk/linux_desktop_troubleshooting) - [Linux (desktop) troubleshooting techniques and resources?](https://lobste.rs/s/g51epk/linux_desktop_troubleshooting)
 * [2024-03-20, 23:25:26](https://lobste.rs/s/sbuqgf/redis_dropped_bsd_3_favor_proprietary) - [Redis dropped BSD-3 in favor of a proprietary license](https://github.com/redis/redis/pull/13157)
 * [2024-03-20, 18:42:57](https://lobste.rs/s/y5kczf/real_c_killers_not_you_rust) - [The Real C++ Killers (Not You, Rust)](https://wordsandbuttons.online/the_real_cpp_killers.html)
 * [2024-03-20, 17:40:16](https://lobste.rs/s/rkc0ot/niri_scrollable_tiling_wayland) - [niri: A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri/)
