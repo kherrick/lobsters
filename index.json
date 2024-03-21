@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-21, 17:28:32",
+      "https://lobste.rs/s/hx8rig/introducing_connectionevaluator"
+    ],
+    [
+      "Introducing the ConnectionEvaluator in KDBindings",
+      "https://www.kdab.com/introducing-the-connectionevaluator-in-kdbindings/"
+    ]
+  ],
+  [
+    [
       "2024-03-21, 17:15:26",
       "https://lobste.rs/s/4ccyyp/unpatchable_vulnerability_apple_chip"
     ],
@@ -157,16 +167,6 @@
     [
       "Redis dropped BSD-3 in favor of a proprietary license",
       "https://github.com/redis/redis/pull/13157"
-    ]
-  ],
-  [
-    [
-      "2024-03-20, 20:18:12",
-      "https://lobste.rs/s/dhwo8a/array_languages_r_vs_apl"
-    ],
-    [
-      "Array Languages: R vs APL",
-      "https://jcarroll.com.au/2023/07/07/array-languages-r-vs-apl/"
     ]
   ],
   [
