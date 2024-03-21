@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-03-20, 23:25:26](https://lobste.rs/s/sbuqgf/redis_dropped_bsd_3_favor_semi_open) - [Redis dropped BSD-3 in favor of a semi-open license](https://github.com/redis/redis/pull/13157)
+* [2024-03-21, 01:06:37](https://lobste.rs/s/qcwdgi/tiny_undervalued_hardware_companions) - [Tiny Undervalued Hardware Companions](https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/)
+* [2024-03-20, 23:25:26](https://lobste.rs/s/sbuqgf/redis_dropped_bsd_3_favor_proprietary) - [Redis dropped BSD-3 in favor of a proprietary license](https://github.com/redis/redis/pull/13157)
 * [2024-03-20, 21:53:56](https://lobste.rs/s/68k8wz/rive_renderer_now_open_source_available) - [Rive Renderer — now open source and available on all platforms](https://rive.app/blog/rive-renderer-now-open-source-and-available-on-all-platforms)
 * [2024-03-20, 20:18:12](https://lobste.rs/s/dhwo8a/array_languages_r_vs_apl) - [Array Languages: R vs APL](https://jcarroll.com.au/2023/07/07/array-languages-r-vs-apl/)
 * [2024-03-20, 18:44:41](https://lobste.rs/s/3xnsb5/mercia_relay_computer) - [MERCIA relay computer](http://www.relaiscomputer.nl/index.php)
@@ -20,7 +21,6 @@
 * [2024-03-20, 11:41:15](https://lobste.rs/s/9akmbm/unison_production_at_unison_computing) - [Unison in production at Unison Computing](https://www.unison-lang.org/blog/experience-report-unison-in-production/)
 * [2024-03-20, 09:21:00](https://lobste.rs/s/c3ryzm/journey_from_chaos_version_control) - [A Journey from Chaos to Version Control: A Developer's Tale](https://www.brautaset.org/posts/chaos-to-vcs.html)
 * [2024-03-20, 06:46:43](https://lobste.rs/s/mj8h8y/comparison_for_vector_search_postgresql) - [A Comparison for Vector Search in PostgreSQL](https://blog.pgvecto.rs/pgvector-vs-pgvectors-in-2024-a-comprehensive-comparison-for-vector-search-in-postgresql)
-* [2024-03-20, 01:12:07](https://lobste.rs/s/1fthjp/build_system_schism_curse_meta_build) - [Build System Schism: The Curse Of Meta Build Systems](https://yzena.com/2024/03/build-system-schism-the-curse-of-meta-build-systems/)
 * [2024-03-20, 00:23:07](https://lobste.rs/s/oiocec/watt_wise_game_jam) - [Watt-Wise Game Jam](https://wattwise.games/)
 * [2024-03-20, 00:09:36](https://lobste.rs/s/etdcng/trailing_dots_domain_names) - [Trailing Dots in Domain Names](http://www.dns-sd.org/trailingdotsindomainnames.html)
 * [2024-03-19, 15:12:41](https://lobste.rs/s/nqi3lw/hackintosh_is_almost_dead) - [Hackintosh is (almost) dead](https://aplus.rs/2024/hackintosh-almost-dead/)
