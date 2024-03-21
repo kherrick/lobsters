@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-21, 12:47:25](https://lobste.rs/s/iia288/5_things_we_have_forgotten_about_open) - [5 Things We Have Forgotten About Open Source (2014)](http://jordi.inversethought.com/blog/5-things-we-have-forgotten-about-open-source/)
 * [2024-03-21, 12:38:05](https://lobste.rs/s/xojuty/cacherevolt_manifesto) - [The CacheRevolt Manifesto](https://codeberg.org/CacheRevolt/CacheRevolt)
 * [2024-03-21, 10:20:23](https://lobste.rs/s/jcpa45/intrusive_unit_testing) - [Intrusive Unit Testing](https://two-wrongs.com/intrusive-unit-testing)
 * [2024-03-21, 06:08:20](https://lobste.rs/s/ibsfam/introducing_gnome_46_kathmandu) - [Introducing GNOME 46, “Kathmandu”](https://release.gnome.org/46/)
 * [2024-03-21, 05:21:17](https://lobste.rs/s/t1npvy/c_23_encoding_related_changes) - [C++23: Encoding related changes](https://www.sandordargo.com/blog/2024/03/20/cpp23-encoding-related-changes)
 * [2024-03-21, 04:13:58](https://lobste.rs/s/rvsyxl/refix_fast_debuggable_reproducible) - [refix: fast, debuggable, reproducible builds](https://yosefk.com/blog/refix-fast-debuggable-reproducible-builds.html)
-* [2024-03-21, 03:14:28](https://lobste.rs/s/e6y61k/who_will_build_new_search_engines_for_new) - [Who will build new search engines for new personal AI agents?](https://interconnected.org/home/2024/03/20/agents)
 * [2024-03-21, 01:06:37](https://lobste.rs/s/qcwdgi/tiny_undervalued_hardware_companions) - [Tiny Undervalued Hardware Companions](https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/)
 * [2024-03-21, 00:44:28](https://lobste.rs/s/g51epk/linux_desktop_troubleshooting) - [Linux (desktop) troubleshooting techniques and resources?](https://lobste.rs/s/g51epk/linux_desktop_troubleshooting)
 * [2024-03-20, 23:25:26](https://lobste.rs/s/sbuqgf/redis_dropped_bsd_3_favor_proprietary) - [Redis dropped BSD-3 in favor of a proprietary license](https://github.com/redis/redis/pull/13157)
