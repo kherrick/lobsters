@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-21, 17:28:32](https://lobste.rs/s/hx8rig/introducing_connectionevaluator) - [Introducing the ConnectionEvaluator in KDBindings](https://www.kdab.com/introducing-the-connectionevaluator-in-kdbindings/)
 * [2024-03-21, 17:15:26](https://lobste.rs/s/4ccyyp/unpatchable_vulnerability_apple_chip) - [Unpatchable vulnerability in Apple chip leaks secret encryption keys](https://arstechnica.com/security/2024/03/hackers-can-extract-secret-encryption-keys-from-apples-mac-chips/)
 * [2024-03-21, 16:14:31](https://lobste.rs/s/cuq9jc/arch_linux_minimal_container_userland) - [Arch Linux minimal container userland 100% reproducible - now what?](https://lists.archlinux.org/hyperkitty/list/arch-dev-public@lists.archlinux.org/thread/AWJ6QUUTE4M27QMH5GSWVDPPMNJEFNEG/)
 * [2024-03-21, 15:50:25](https://lobste.rs/s/cvknut/wrong_way_speed_up_your_code_with_numba) - [The wrong way to speed up your code with Numba](https://pythonspeed.com/articles/slow-numba/)
@@ -16,7 +17,6 @@
 * [2024-03-21, 01:06:37](https://lobste.rs/s/qcwdgi/tiny_undervalued_hardware_companions) - [Tiny Undervalued Hardware Companions](https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/)
 * [2024-03-21, 00:44:28](https://lobste.rs/s/g51epk/linux_desktop_troubleshooting) - [Linux (desktop) troubleshooting techniques and resources?](https://lobste.rs/s/g51epk/linux_desktop_troubleshooting)
 * [2024-03-20, 23:25:26](https://lobste.rs/s/sbuqgf/redis_dropped_bsd_3_favor_proprietary) - [Redis dropped BSD-3 in favor of a proprietary license](https://github.com/redis/redis/pull/13157)
-* [2024-03-20, 20:18:12](https://lobste.rs/s/dhwo8a/array_languages_r_vs_apl) - [Array Languages: R vs APL](https://jcarroll.com.au/2023/07/07/array-languages-r-vs-apl/)
 * [2024-03-20, 18:42:57](https://lobste.rs/s/y5kczf/real_c_killers_not_you_rust) - [The Real C++ Killers (Not You, Rust)](https://wordsandbuttons.online/the_real_cpp_killers.html)
 * [2024-03-20, 17:40:16](https://lobste.rs/s/rkc0ot/niri_scrollable_tiling_wayland) - [niri: A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri/)
 * [2024-03-20, 13:50:39](https://lobste.rs/s/wsx2qe/so_you_think_you_want_write_deterministic) - [So you think you want to write a deterministic hypervisor?](https://antithesis.com/blog/deterministic_hypervisor/)
