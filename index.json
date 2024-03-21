@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-03-21, 16:42:43",
-      "https://lobste.rs/s/iel0at/step_beyond_rust_s_pattern_matching"
-    ],
-    [
-      "A step beyond Rust's pattern matching",
-      "https://radiki.dev/posts/match-and-bind-patterns/"
-    ]
-  ],
-  [
-    [
       "2024-03-21, 16:14:31",
       "https://lobste.rs/s/cuq9jc/arch_linux_minimal_container_userland"
     ],
@@ -237,6 +227,16 @@
     [
       "Bug hunting in Btrfs",
       "https://tavianator.com/2024/btrfs_bug.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-20, 12:41:24",
+      "https://lobste.rs/s/iqxl3i/lcl_host_fast_easy_https_your_local_dev"
+    ],
+    [
+      "lcl.host: fast, easy HTTPS in your local dev environment",
+      "https://anchor.dev/blog/introducing-lcl-host"
     ]
   ],
   [
