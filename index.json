@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-21, 05:21:17",
+      "https://lobste.rs/s/t1npvy/c_23_encoding_related_changes"
+    ],
+    [
+      "C++23: Encoding related changes",
+      "https://www.sandordargo.com/blog/2024/03/20/cpp23-encoding-related-changes"
+    ]
+  ],
+  [
+    [
       "2024-03-21, 04:13:58",
       "https://lobste.rs/s/rvsyxl/refix_fast_debuggable_reproducible"
     ],
@@ -207,16 +217,6 @@
     [
       "A Journey from Chaos to Version Control: A Developer's Tale",
       "https://www.brautaset.org/posts/chaos-to-vcs.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-20, 06:46:43",
-      "https://lobste.rs/s/mj8h8y/comparison_for_vector_search_postgresql"
-    ],
-    [
-      "A Comparison for Vector Search in PostgreSQL",
-      "https://blog.pgvecto.rs/pgvector-vs-pgvectors-in-2024-a-comprehensive-comparison-for-vector-search-in-postgresql"
     ]
   ],
   [
