@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2024-03-20, 16:59:51",
+      "https://lobste.rs/s/dcn0q3/v_0_4_5_is_out"
+    ],
+    [
+      "V 0.4.5 is out",
+      "https://github.com/vlang/v/releases/tag/0.4.5"
+    ]
+  ],
+  [
+    [
       "2024-03-20, 14:50:38",
       "https://lobste.rs/s/sw5mi9/practical_railway_oriented_pipelines"
     ],
@@ -207,16 +217,6 @@
     [
       "A Journey from Chaos to Version Control: A Developer's Tale",
       "https://www.brautaset.org/posts/chaos-to-vcs.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-20, 06:46:43",
-      "https://lobste.rs/s/mj8h8y/comparison_for_vector_search_postgresql"
-    ],
-    [
-      "A Comparison for Vector Search in PostgreSQL",
-      "https://blog.pgvecto.rs/pgvector-vs-pgvectors-in-2024-a-comprehensive-comparison-for-vector-search-in-postgresql"
     ]
   ],
   [
