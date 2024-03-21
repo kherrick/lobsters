@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-21](index.md)
 
+* [2024-03-21, 15:50:25](https://lobste.rs/s/cvknut/wrong_way_speed_up_your_code_with_numba) - [The wrong way to speed up your code with Numba](https://pythonspeed.com/articles/slow-numba/)
+* [2024-03-21, 15:48:57](https://lobste.rs/s/w1ffen/zig_defer_patterns) - [Zig defer Patterns](https://matklad.github.io/2024/03/21/defer-patterns.html)
 * [2024-03-21, 14:39:17](https://lobste.rs/s/vub7ke/introducing_pgzx_create_postgresql) - [Introducing pgzx: create PostgreSQL extensions using Zig](https://xata.io/blog/introducing-pgzx)
 * [2024-03-21, 14:22:56](https://lobste.rs/s/ogdfxh/cross_referencing_code_specs_for) - [Cross-referencing code & specs for maintainability](https://www.ueber.net/who/mjl/blog/p/cross-referencing-code-and-specs-for-maintainability/)
 * [2024-03-21, 13:55:13](https://lobste.rs/s/acs4d0/how_make_use_typographic_refinement) - [How to make use of typographic refinement in Pages & other macOS apps](https://www.macworld.com/article/234949/how-to-make-use-of-typographic-refinement-in-pages-and-other-macos-software.html)

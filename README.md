@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-21, 15:50:25](https://lobste.rs/s/cvknut/wrong_way_speed_up_your_code_with_numba) - [The wrong way to speed up your code with Numba](https://pythonspeed.com/articles/slow-numba/)
+* [2024-03-21, 15:48:57](https://lobste.rs/s/w1ffen/zig_defer_patterns) - [Zig defer Patterns](https://matklad.github.io/2024/03/21/defer-patterns.html)
 * [2024-03-21, 14:39:17](https://lobste.rs/s/vub7ke/introducing_pgzx_create_postgresql) - [Introducing pgzx: create PostgreSQL extensions using Zig](https://xata.io/blog/introducing-pgzx)
 * [2024-03-21, 14:22:56](https://lobste.rs/s/ogdfxh/cross_referencing_code_specs_for) - [Cross-referencing code & specs for maintainability](https://www.ueber.net/who/mjl/blog/p/cross-referencing-code-and-specs-for-maintainability/)
 * [2024-03-21, 13:55:13](https://lobste.rs/s/acs4d0/how_make_use_typographic_refinement) - [How to make use of typographic refinement in Pages & other macOS apps](https://www.macworld.com/article/234949/how-to-make-use-of-typographic-refinement-in-pages-and-other-macos-software.html)
@@ -23,8 +25,6 @@
 * [2024-03-20, 12:49:13](https://lobste.rs/s/ja0s7t/bug_hunting_btrfs) - [Bug hunting in Btrfs](https://tavianator.com/2024/btrfs_bug.html)
 * [2024-03-20, 12:41:24](https://lobste.rs/s/iqxl3i/lcl_host_fast_easy_https_your_local_dev) - [lcl.host: fast, easy HTTPS in your local dev environment](https://anchor.dev/blog/introducing-lcl-host)
 * [2024-03-20, 12:30:30](https://lobste.rs/s/oa5pqc/go_enums_still_suck) - [Go Enums Still Suck](https://www.zarl.dev/articles/enums-take-two)
-* [2024-03-20, 11:41:15](https://lobste.rs/s/9akmbm/unison_production_at_unison_computing) - [Unison in production at Unison Computing](https://www.unison-lang.org/blog/experience-report-unison-in-production/)
-* [2024-03-20, 00:23:07](https://lobste.rs/s/oiocec/watt_wise_game_jam) - [Watt-Wise Game Jam](https://wattwise.games/)
 
 ## [Archives](archives/index.md)
 
