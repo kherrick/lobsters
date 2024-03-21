@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-21, 16:42:43",
+      "https://lobste.rs/s/iel0at/step_beyond_rust_s_pattern_matching"
+    ],
+    [
+      "A step beyond Rust's pattern matching",
+      "https://radiki.dev/posts/match-and-bind-patterns/"
+    ]
+  ],
+  [
+    [
       "2024-03-21, 16:14:31",
       "https://lobste.rs/s/cuq9jc/arch_linux_minimal_container_userland"
     ],
@@ -107,16 +117,6 @@
     [
       "Introducing GNOME 46, “Kathmandu”",
       "https://release.gnome.org/46/"
-    ]
-  ],
-  [
-    [
-      "2024-03-21, 05:21:17",
-      "https://lobste.rs/s/t1npvy/c_23_encoding_related_changes"
-    ],
-    [
-      "C++23: Encoding related changes",
-      "https://www.sandordargo.com/blog/2024/03/20/cpp23-encoding-related-changes"
     ]
   ],
   [
