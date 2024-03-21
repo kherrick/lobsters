@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-21, 13:55:13](https://lobste.rs/s/acs4d0/how_make_use_typographic_refinement) - [How to make use of typographic refinement in Pages & other macOS apps](https://www.macworld.com/article/234949/how-to-make-use-of-typographic-refinement-in-pages-and-other-macos-software.html)
 * [2024-03-21, 13:26:34](https://lobste.rs/s/yqakuw/apache_kvrocks_is_distributed_key_value) - [Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol](https://kvrocks.apache.org/)
 * [2024-03-21, 13:05:27](https://lobste.rs/s/xq3zt9/case_for_cli_tag) - [The case for a cli tag](https://lobste.rs/s/xq3zt9/case_for_cli_tag)
 * [2024-03-21, 12:47:25](https://lobste.rs/s/iia288/5_things_we_have_forgotten_about_open) - [5 Things We Have Forgotten About Open Source (2014)](http://jordi.inversethought.com/blog/5-things-we-have-forgotten-about-open-source/)
@@ -23,7 +24,6 @@
 * [2024-03-20, 12:07:04](https://lobste.rs/s/m3mros/inserting_100k_rows_66_times_faster) - [Inserting 100k rows 66 times faster](https://xnacly.me/posts/2024/faster-inserts/)
 * [2024-03-20, 11:41:15](https://lobste.rs/s/9akmbm/unison_production_at_unison_computing) - [Unison in production at Unison Computing](https://www.unison-lang.org/blog/experience-report-unison-in-production/)
 * [2024-03-20, 00:23:07](https://lobste.rs/s/oiocec/watt_wise_game_jam) - [Watt-Wise Game Jam](https://wattwise.games/)
-* [2024-03-20, 00:09:36](https://lobste.rs/s/etdcng/trailing_dots_domain_names) - [Trailing Dots in Domain Names](http://www.dns-sd.org/trailingdotsindomainnames.html)
 * [2024-03-19, 13:14:39](https://lobste.rs/s/bkgflx/why_does_extraneous_build_step_make_my_zig) - [Why does an extraneous build step make my Zig app 10x faster?](https://mtlynch.io/zig-extraneous-build/)
 
 ## [Archives](archives/index.md)
