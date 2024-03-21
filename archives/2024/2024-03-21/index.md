@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-21](index.md)
 
+* [2024-03-21, 14:22:56](https://lobste.rs/s/ogdfxh/cross_referencing_code_specs_for) - [Cross-referencing code & specs for maintainability](https://www.ueber.net/who/mjl/blog/p/cross-referencing-code-and-specs-for-maintainability/)
 * [2024-03-21, 13:55:13](https://lobste.rs/s/acs4d0/how_make_use_typographic_refinement) - [How to make use of typographic refinement in Pages & other macOS apps](https://www.macworld.com/article/234949/how-to-make-use-of-typographic-refinement-in-pages-and-other-macos-software.html)
 * [2024-03-21, 13:26:34](https://lobste.rs/s/yqakuw/apache_kvrocks_is_distributed_key_value) - [Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol](https://kvrocks.apache.org/)
 * [2024-03-21, 13:05:27](https://lobste.rs/s/xq3zt9/case_for_cli_tag) - [The case for a cli tag](https://lobste.rs/s/xq3zt9/case_for_cli_tag)
