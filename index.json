@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-21, 12:47:25",
+      "https://lobste.rs/s/iia288/5_things_we_have_forgotten_about_open"
+    ],
+    [
+      "5 Things We Have Forgotten About Open Source (2014)",
+      "http://jordi.inversethought.com/blog/5-things-we-have-forgotten-about-open-source/"
+    ]
+  ],
+  [
+    [
       "2024-03-21, 12:38:05",
       "https://lobste.rs/s/xojuty/cacherevolt_manifesto"
     ],
@@ -47,16 +57,6 @@
     [
       "refix: fast, debuggable, reproducible builds",
       "https://yosefk.com/blog/refix-fast-debuggable-reproducible-builds.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-21, 03:14:28",
-      "https://lobste.rs/s/e6y61k/who_will_build_new_search_engines_for_new"
-    ],
-    [
-      "Who will build new search engines for new personal AI agents?",
-      "https://interconnected.org/home/2024/03/20/agents"
     ]
   ],
   [
