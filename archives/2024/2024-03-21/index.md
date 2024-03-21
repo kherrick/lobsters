@@ -10,6 +10,7 @@
 * [2024-03-21, 18:27:22](https://lobste.rs/s/x5immj/duckdb_as_new_jq) - [DuckDB as the New jq](https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/)
 * [2024-03-21, 18:17:58](https://lobste.rs/s/gzsnyh/gofetch_breaking_constant_time) - [GoFetch: Breaking Constant-Time Cryptographic Implementations Using Data Memory-Dependent Prefetchers](https://gofetch.fail/)
 * [2024-03-21, 17:36:39](https://lobste.rs/s/gjmm6o/generative_ai_model_openness_framework) - [Generative AI Model Openness Framework Whitepaper](https://arxiv.org/pdf/2403.13784.pdf)
+* [2024-03-21, 17:36:22](https://lobste.rs/s/k6e0gn/bootstrapping_alpine_linux_without_root) - [Bootstrapping Alpine Linux without root](https://blog.brixit.nl/bootstrapping-alpine-linux-without-root/)
 * [2024-03-21, 17:28:32](https://lobste.rs/s/hx8rig/introducing_connectionevaluator) - [Introducing the ConnectionEvaluator in KDBindings](https://www.kdab.com/introducing-the-connectionevaluator-in-kdbindings/)
 * [2024-03-21, 17:15:26](https://lobste.rs/s/4ccyyp/unpatchable_vulnerability_apple_chip) - [Unpatchable vulnerability in Apple chip leaks secret encryption keys](https://arstechnica.com/security/2024/03/hackers-can-extract-secret-encryption-keys-from-apples-mac-chips/)
 * [2024-03-21, 16:42:43](https://lobste.rs/s/iel0at/step_beyond_rust_s_pattern_matching) - [A step beyond Rust's pattern matching](https://radiki.dev/posts/match-and-bind-patterns/)
