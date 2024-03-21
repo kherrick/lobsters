@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-21, 19:41:27](https://lobste.rs/s/dtdqg9/antithesis_one_million_bug_taming) - [Antithesis of a One-in-a-Million Bug: Taming Demonic Nondeterminism](https://www.cockroachlabs.com/blog/demonic-nondeterminism/)
 * [2024-03-21, 19:36:38](https://lobste.rs/s/e5519n/signed_not_secure) - [Signed but not secure](https://blog.benjojo.co.uk/post/rpki-signed-but-not-secure)
 * [2024-03-21, 18:27:22](https://lobste.rs/s/x5immj/duckdb_as_new_jq) - [DuckDB as the New jq](https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/)
 * [2024-03-21, 18:17:58](https://lobste.rs/s/gzsnyh/gofetch_breaking_constant_time) - [GoFetch: Breaking Constant-Time Cryptographic Implementations Using Data Memory-Dependent Prefetchers](https://gofetch.fail/)
@@ -21,7 +22,6 @@
 * [2024-03-20, 23:25:26](https://lobste.rs/s/sbuqgf/redis_dropped_bsd_3_favor_proprietary) - [Redis dropped BSD-3 in favor of a proprietary license](https://github.com/redis/redis/pull/13157)
 * [2024-03-20, 18:42:57](https://lobste.rs/s/y5kczf/real_c_killers_not_you_rust) - [The Real C++ Killers (Not You, Rust)](https://wordsandbuttons.online/the_real_cpp_killers.html)
 * [2024-03-20, 17:40:16](https://lobste.rs/s/rkc0ot/niri_scrollable_tiling_wayland) - [niri: A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri/)
-* [2024-03-20, 13:50:39](https://lobste.rs/s/wsx2qe/so_you_think_you_want_write_deterministic) - [So you think you want to write a deterministic hypervisor?](https://antithesis.com/blog/deterministic_hypervisor/)
 * [2024-03-20, 13:50:23](https://lobste.rs/s/wmlme8/learn_lil_10_minutes) - [Learn Lil in 10 Minutes](http://beyondloom.com/decker/learnlil.html)
 * [2024-03-20, 13:41:22](https://lobste.rs/s/jdki6m/devenv_1_0_rewrite_rust) - [devenv 1.0: Rewrite in Rust](https://devenv.sh/blog/2023/03/20/devenv-10-rewrite-in-rust/)
 * [2024-03-20, 12:49:13](https://lobste.rs/s/ja0s7t/bug_hunting_btrfs) - [Bug hunting in Btrfs](https://tavianator.com/2024/btrfs_bug.html)
