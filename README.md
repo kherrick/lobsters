@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-22, 02:04:53](https://lobste.rs/s/hdmapz/picotron_is_fantasy_workstation) - [Picotron is a Fantasy Workstation](https://www.lexaloffle.com/picotron.php)
 * [2024-03-22, 01:12:24](https://lobste.rs/s/ivdeel/oils_0_21_0_flags_integers_starship_bug) - [Oils 0.21.0 - Flags, Integers, Starship Bug, and Speed](https://www.oilshell.org/blog/2024/03/release-0.21.0.html)
-* [2024-03-22, 00:28:18](https://lobste.rs/s/xxvkmh/invoice_maker_generate_beautiful) - [Invoice Maker - Generate beautiful invoices from simple Typst or YAML data records](https://github.com/ad-si/invoice-maker)
 * [2024-03-21, 21:09:44](https://lobste.rs/s/ke9yzs/type_predicate_inference_ts_5_5_feature_no) - [Type Predicate Inference: The TS 5.5 Feature No One Expected](https://www.totaltypescript.com/type-predicate-inference)
 * [2024-03-21, 19:41:27](https://lobste.rs/s/dtdqg9/antithesis_one_million_bug_taming) - [Antithesis of a One-in-a-Million Bug: Taming Demonic Nondeterminism](https://www.cockroachlabs.com/blog/demonic-nondeterminism/)
 * [2024-03-21, 19:36:38](https://lobste.rs/s/e5519n/signed_not_secure) - [Signed but not secure](https://blog.benjojo.co.uk/post/rpki-signed-but-not-secure)
