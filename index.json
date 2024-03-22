@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-22, 19:47:58",
+      "https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome"
+    ],
+    [
+      "How secure are passwords stored in Chrome or Firefox?",
+      "https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome"
+    ]
+  ],
+  [
+    [
       "2024-03-22, 19:13:53",
       "https://lobste.rs/s/uvtbzi/dragonflydb"
     ],
@@ -37,16 +47,6 @@
     [
       "Mozilla fixes two Firefox zero-day bugs exploited at Pwn2Own",
       "https://www.bleepingcomputer.com/news/security/mozilla-fixes-two-firefox-zero-day-bugs-exploited-at-pwn2own/"
-    ]
-  ],
-  [
-    [
-      "2024-03-22, 16:41:44",
-      "https://lobste.rs/s/ud49hv/dependency_management_duckdb"
-    ],
-    [
-      "Dependency Management in DuckDB Extensions",
-      "https://duckdb.org/2024/03/22/dependency-management.html"
     ]
   ],
   [
