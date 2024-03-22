@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
+* [2024-03-22, 19:47:58](https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome) - [How secure are passwords stored in Chrome or Firefox?](https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome)
 * [2024-03-22, 19:13:53](https://lobste.rs/s/uvtbzi/dragonflydb) - [DragonflyDB](https://www.dragonflydb.io/)
 * [2024-03-22, 19:10:51](https://lobste.rs/s/akowgz/pack_new_container_format_for_compressed) - [Pack: A New Container Format for Compressed Files](https://pack.ac/note/pack)
 * [2024-03-22, 18:41:05](https://lobste.rs/s/jihdzq/pipes_forks_dups_understanding_command) - [Pipes, Forks, & Dups: Understanding Command Execution and Input/Output Data Flow](https://www.rozmichelle.com/pipes-forks-dups/)
