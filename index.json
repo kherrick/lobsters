@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-22, 16:41:44",
+      "https://lobste.rs/s/ud49hv/dependency_management_duckdb"
+    ],
+    [
+      "Dependency Management in DuckDB Extensions",
+      "https://duckdb.org/2024/03/22/dependency-management.html"
+    ]
+  ],
+  [
+    [
       "2024-03-22, 16:02:20",
       "https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming"
     ],
@@ -137,16 +147,6 @@
     [
       "Type Predicate Inference: The TS 5.5 Feature No One Expected",
       "https://www.totaltypescript.com/type-predicate-inference"
-    ]
-  ],
-  [
-    [
-      "2024-03-21, 19:36:38",
-      "https://lobste.rs/s/e5519n/signed_not_secure"
-    ],
-    [
-      "Signed but not secure",
-      "https://blog.benjojo.co.uk/post/rpki-signed-but-not-secure"
     ]
   ],
   [
