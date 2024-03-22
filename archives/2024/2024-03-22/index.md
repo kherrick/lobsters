@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
+* [2024-03-22, 12:53:49](https://lobste.rs/s/gc4wfb/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/gc4wfb/what_are_you_doing_this_weekend)
+* [2024-03-22, 12:53:37](https://lobste.rs/s/35kxvh/redict_is_independent_copyleft_fork) - [Redict is an independent, copyleft fork of Redis®](https://redict.io/posts/2024-03-22-redict-is-an-independent-fork/)
 * [2024-03-22, 12:39:21](https://lobste.rs/s/dmbpks/decision_logs) - [Decision logs](https://vitonsky.net/blog/2024/03/20/decision-logs/)
 * [2024-03-22, 12:01:34](https://lobste.rs/s/d1tieu/hotel_hotspot_hijinks) - [Hotel hotspot hijinks](https://peateasea.de/hotel-hotspot-hijinks/)
 * [2024-03-22, 10:25:55](https://lobste.rs/s/s4oy5c/my_binary_vector_search_is_better_than) - [My binary vector search is better than your FP32 vectors](https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors)
