@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
+* [2024-03-22, 16:59:59](https://lobste.rs/s/fyzy3m/list_commercial_video_games_with) - [List of commercial video games with available source code](https://en.m.wikipedia.org/wiki/List_of_commercial_video_games_with_available_source_code)
 * [2024-03-22, 16:41:44](https://lobste.rs/s/ud49hv/dependency_management_duckdb) - [Dependency Management in DuckDB Extensions](https://duckdb.org/2024/03/22/dependency-management.html)
 * [2024-03-22, 16:02:20](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming) - [Fun Friday: what got you into programming?](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming)
 * [2024-03-22, 14:08:47](https://lobste.rs/s/8lv5uj/jpeg_dct_text_lossifizer) - [JPEG DCT text lossifizer](https://lcamtuf.substack.com/p/afternoon-project-jpeg-dct-text-lossifizer)
