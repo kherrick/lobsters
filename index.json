@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-22, 12:39:21",
+      "https://lobste.rs/s/dmbpks/decision_logs"
+    ],
+    [
+      "Decision logs",
+      "https://vitonsky.net/blog/2024/03/20/decision-logs/"
+    ]
+  ],
+  [
+    [
       "2024-03-22, 12:01:34",
       "https://lobste.rs/s/d1tieu/hotel_hotspot_hijinks"
     ],
@@ -237,16 +247,6 @@
     [
       "Redis dropped BSD-3 in favor of a proprietary license",
       "https://github.com/redis/redis/pull/13157"
-    ]
-  ],
-  [
-    [
-      "2024-03-20, 18:42:57",
-      "https://lobste.rs/s/y5kczf/real_c_killers_not_you_rust"
-    ],
-    [
-      "The Real C++ Killers (Not You, Rust)",
-      "https://wordsandbuttons.online/the_real_cpp_killers.html"
     ]
   ]
 ]
