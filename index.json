@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-22, 12:01:34",
+      "https://lobste.rs/s/d1tieu/hotel_hotspot_hijinks"
+    ],
+    [
+      "Hotel hotspot hijinks",
+      "https://peateasea.de/hotel-hotspot-hijinks/"
+    ]
+  ],
+  [
+    [
       "2024-03-22, 10:25:55",
       "https://lobste.rs/s/s4oy5c/my_binary_vector_search_is_better_than"
     ],
@@ -157,16 +167,6 @@
     [
       "Zig defer Patterns",
       "https://matklad.github.io/2024/03/21/defer-patterns.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-21, 14:39:17",
-      "https://lobste.rs/s/vub7ke/introducing_pgzx_create_postgresql"
-    ],
-    [
-      "Introducing pgzx: create PostgreSQL extensions using Zig",
-      "https://xata.io/blog/introducing-pgzx"
     ]
   ],
   [
