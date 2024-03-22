@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-22, 05:43:34",
+      "https://lobste.rs/s/lzivr1/hot_not_revealing_hidden_services_by"
+    ],
+    [
+      "Hot or Not: Revealing Hidden Services by their Clock Skew [2006]",
+      "https://murdoch.is/papers/ccs06hotornot.pdf"
+    ]
+  ],
+  [
+    [
       "2024-03-22, 03:20:51",
       "https://lobste.rs/s/s1v57r/what_are_some_good_python_codebases_read"
     ],
@@ -237,16 +247,6 @@
     [
       "Learn Lil in 10 Minutes",
       "http://beyondloom.com/decker/learnlil.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-20, 13:41:22",
-      "https://lobste.rs/s/jdki6m/devenv_1_0_rewrite_rust"
-    ],
-    [
-      "devenv 1.0: Rewrite in Rust",
-      "https://devenv.sh/blog/2023/03/20/devenv-10-rewrite-in-rust/"
     ]
   ]
 ]
