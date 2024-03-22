@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
+* [2024-03-22, 12:01:34](https://lobste.rs/s/d1tieu/hotel_hotspot_hijinks) - [Hotel hotspot hijinks](https://peateasea.de/hotel-hotspot-hijinks/)
 * [2024-03-22, 10:25:55](https://lobste.rs/s/s4oy5c/my_binary_vector_search_is_better_than) - [My binary vector search is better than your FP32 vectors](https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors)
 * [2024-03-22, 09:39:23](https://lobste.rs/s/p8cvx1/sqlite_schema_diagram_generator) - [SQLite schema diagram generator](https://gitlab.com/Screwtapello/sqlite-schema-diagram/)
 * [2024-03-22, 08:23:04](https://lobste.rs/s/w8vo2k/property_testing_async_code_rust_build) - [Property-testing async code in Rust to build reliable distributed systems](https://www.youtube.com/watch?v=ms8zKpS_dZE)

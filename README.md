@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-22, 12:01:34](https://lobste.rs/s/d1tieu/hotel_hotspot_hijinks) - [Hotel hotspot hijinks](https://peateasea.de/hotel-hotspot-hijinks/)
 * [2024-03-22, 10:25:55](https://lobste.rs/s/s4oy5c/my_binary_vector_search_is_better_than) - [My binary vector search is better than your FP32 vectors](https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors)
 * [2024-03-22, 09:39:23](https://lobste.rs/s/p8cvx1/sqlite_schema_diagram_generator) - [SQLite schema diagram generator](https://gitlab.com/Screwtapello/sqlite-schema-diagram/)
 * [2024-03-22, 08:23:04](https://lobste.rs/s/w8vo2k/property_testing_async_code_rust_build) - [Property-testing async code in Rust to build reliable distributed systems](https://www.youtube.com/watch?v=ms8zKpS_dZE)
@@ -16,7 +17,6 @@
 * [2024-03-21, 16:14:31](https://lobste.rs/s/cuq9jc/arch_linux_minimal_container_userland) - [Arch Linux minimal container userland 100% reproducible - now what?](https://lists.archlinux.org/hyperkitty/list/arch-dev-public@lists.archlinux.org/thread/AWJ6QUUTE4M27QMH5GSWVDPPMNJEFNEG/)
 * [2024-03-21, 15:50:25](https://lobste.rs/s/cvknut/wrong_way_speed_up_your_code_with_numba) - [The wrong way to speed up your code with Numba](https://pythonspeed.com/articles/slow-numba/)
 * [2024-03-21, 15:48:57](https://lobste.rs/s/w1ffen/zig_defer_patterns) - [Zig defer Patterns](https://matklad.github.io/2024/03/21/defer-patterns.html)
-* [2024-03-21, 14:39:17](https://lobste.rs/s/vub7ke/introducing_pgzx_create_postgresql) - [Introducing pgzx: create PostgreSQL extensions using Zig](https://xata.io/blog/introducing-pgzx)
 * [2024-03-21, 14:22:56](https://lobste.rs/s/ogdfxh/cross_referencing_code_specs_for) - [Cross-referencing code & specs for maintainability](https://www.ueber.net/who/mjl/blog/p/cross-referencing-code-and-specs-for-maintainability/)
 * [2024-03-21, 13:26:34](https://lobste.rs/s/yqakuw/apache_kvrocks_is_distributed_key_value) - [Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol](https://kvrocks.apache.org/)
 * [2024-03-21, 13:05:27](https://lobste.rs/s/xq3zt9/case_for_cli_tag) - [The case for a cli tag](https://lobste.rs/s/xq3zt9/case_for_cli_tag)
