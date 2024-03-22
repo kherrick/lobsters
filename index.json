@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-03-22, 09:39:23",
+      "https://lobste.rs/s/p8cvx1/sqlite_schema_diagram_generator"
+    ],
+    [
+      "SQLite schema diagram generator",
+      "https://gitlab.com/Screwtapello/sqlite-schema-diagram/"
+    ]
+  ],
+  [
+    [
       "2024-03-22, 08:23:04",
       "https://lobste.rs/s/w8vo2k/property_testing_async_code_rust_build"
     ],
     [
       "Property-testing async code in Rust to build reliable distributed systems",
       "https://www.youtube.com/watch?v=ms8zKpS_dZE"
-    ]
-  ],
-  [
-    [
-      "2024-03-22, 05:43:34",
-      "https://lobste.rs/s/lzivr1/hot_not_revealing_hidden_services_by"
-    ],
-    [
-      "Hot or Not: Revealing Hidden Services by their Clock Skew [2006]",
-      "https://murdoch.is/papers/ccs06hotornot.pdf"
     ]
   ],
   [
