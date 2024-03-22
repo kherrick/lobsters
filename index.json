@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-22, 00:28:18",
+      "https://lobste.rs/s/xxvkmh/invoice_maker_generate_beautiful"
+    ],
+    [
+      "Invoice Maker - Generate beautiful invoices from simple Typst or YAML data records",
+      "https://github.com/ad-si/invoice-maker"
+    ]
+  ],
+  [
+    [
       "2024-03-21, 21:09:44",
       "https://lobste.rs/s/ke9yzs/type_predicate_inference_ts_5_5_feature_no"
     ],
@@ -167,16 +177,6 @@
     [
       "Introducing GNOME 46, “Kathmandu”",
       "https://release.gnome.org/46/"
-    ]
-  ],
-  [
-    [
-      "2024-03-21, 04:13:58",
-      "https://lobste.rs/s/rvsyxl/refix_fast_debuggable_reproducible"
-    ],
-    [
-      "refix: fast, debuggable, reproducible builds",
-      "https://yosefk.com/blog/refix-fast-debuggable-reproducible-builds.html"
     ]
   ],
   [
