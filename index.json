@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-22, 20:14:47",
+      "https://lobste.rs/s/zwemnj/nix_planet"
+    ],
+    [
+      "Nix The Planet",
+      "https://m.youtube.com/watch?v=6iviTZfiLGU"
+    ]
+  ],
+  [
+    [
       "2024-03-22, 19:47:58",
       "https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome"
     ],
@@ -217,16 +227,6 @@
     [
       "Zig defer Patterns",
       "https://matklad.github.io/2024/03/21/defer-patterns.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-21, 14:22:56",
-      "https://lobste.rs/s/ogdfxh/cross_referencing_code_specs_for"
-    ],
-    [
-      "Cross-referencing code & specs for maintainability",
-      "https://www.ueber.net/who/mjl/blog/p/cross-referencing-code-and-specs-for-maintainability/"
     ]
   ],
   [
