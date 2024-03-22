@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-22, 18:41:05",
+      "https://lobste.rs/s/jihdzq/pipes_forks_dups_understanding_command"
+    ],
+    [
+      "Pipes, Forks, & Dups: Understanding Command Execution and Input/Output Data Flow",
+      "https://www.rozmichelle.com/pipes-forks-dups/"
+    ]
+  ],
+  [
+    [
       "2024-03-22, 18:31:34",
       "https://lobste.rs/s/seq4nz/mozilla_fixes_two_firefox_zero_day_bugs"
     ],
@@ -207,16 +217,6 @@
     [
       "Cross-referencing code & specs for maintainability",
       "https://www.ueber.net/who/mjl/blog/p/cross-referencing-code-and-specs-for-maintainability/"
-    ]
-  ],
-  [
-    [
-      "2024-03-21, 13:26:34",
-      "https://lobste.rs/s/yqakuw/apache_kvrocks_is_distributed_key_value"
-    ],
-    [
-      "Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol",
-      "https://kvrocks.apache.org/"
     ]
   ],
   [
