@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
+* [2024-03-22, 16:41:44](https://lobste.rs/s/ud49hv/dependency_management_duckdb) - [Dependency Management in DuckDB Extensions](https://duckdb.org/2024/03/22/dependency-management.html)
 * [2024-03-22, 16:02:20](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming) - [Fun Friday: what got you into programming?](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming)
 * [2024-03-22, 14:08:47](https://lobste.rs/s/8lv5uj/jpeg_dct_text_lossifizer) - [JPEG DCT text lossifizer](https://lcamtuf.substack.com/p/afternoon-project-jpeg-dct-text-lossifizer)
 * [2024-03-22, 13:30:21](https://lobste.rs/s/bt5fmk/smt_ultimate_lcd_spi_interface) - [SMT and the ultimate LCD-SPI interface](https://tomscii.sig7.se/2024/03/SMT-and-the-ultimate-LCD-SPI-interface)

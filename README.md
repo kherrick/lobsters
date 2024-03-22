@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-22, 16:41:44](https://lobste.rs/s/ud49hv/dependency_management_duckdb) - [Dependency Management in DuckDB Extensions](https://duckdb.org/2024/03/22/dependency-management.html)
 * [2024-03-22, 16:02:20](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming) - [Fun Friday: what got you into programming?](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming)
 * [2024-03-22, 14:08:47](https://lobste.rs/s/8lv5uj/jpeg_dct_text_lossifizer) - [JPEG DCT text lossifizer](https://lcamtuf.substack.com/p/afternoon-project-jpeg-dct-text-lossifizer)
 * [2024-03-22, 13:30:21](https://lobste.rs/s/bt5fmk/smt_ultimate_lcd_spi_interface) - [SMT and the ultimate LCD-SPI interface](https://tomscii.sig7.se/2024/03/SMT-and-the-ultimate-LCD-SPI-interface)
@@ -14,7 +15,6 @@
 * [2024-03-22, 01:12:24](https://lobste.rs/s/ivdeel/oils_0_21_0_flags_integers_starship_bug) - [Oils 0.21.0 - Flags, Integers, Starship Bug, and Speed](https://www.oilshell.org/blog/2024/03/release-0.21.0.html)
 * [2024-03-22, 00:28:18](https://lobste.rs/s/xxvkmh/invoice_maker_generate_beautiful) - [Invoice Maker - Generate beautiful invoices from simple Typst or YAML data records](https://github.com/ad-si/invoice-maker)
 * [2024-03-21, 21:09:44](https://lobste.rs/s/ke9yzs/type_predicate_inference_ts_5_5_feature_no) - [Type Predicate Inference: The TS 5.5 Feature No One Expected](https://www.totaltypescript.com/type-predicate-inference)
-* [2024-03-21, 19:36:38](https://lobste.rs/s/e5519n/signed_not_secure) - [Signed but not secure](https://blog.benjojo.co.uk/post/rpki-signed-but-not-secure)
 * [2024-03-21, 18:27:22](https://lobste.rs/s/x5immj/duckdb_as_new_jq) - [DuckDB as the New jq](https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/)
 * [2024-03-21, 18:17:58](https://lobste.rs/s/gzsnyh/gofetch_breaking_constant_time) - [GoFetch: Breaking Constant-Time Cryptographic Implementations Using Data Memory-Dependent Prefetchers](https://gofetch.fail/)
 * [2024-03-21, 17:15:26](https://lobste.rs/s/4ccyyp/unpatchable_vulnerability_apple_chip) - [Unpatchable vulnerability in Apple chip leaks secret encryption keys](https://arstechnica.com/security/2024/03/hackers-can-extract-secret-encryption-keys-from-apples-mac-chips/)
