@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-22, 20:54:40",
+      "https://lobste.rs/s/xe2ydu/ipod_gadget_ipod_usb_gadget_for_audio"
+    ],
+    [
+      "ipod-gadget: iPod usb gadget for audio playback",
+      "https://github.com/oandrew/ipod-gadget"
+    ]
+  ],
+  [
+    [
       "2024-03-22, 20:24:16",
       "https://lobste.rs/s/bvucfk/claude_chatgpt_for_ad_hoc_sidequests"
     ],
@@ -47,6 +57,16 @@
     [
       "Pack: A New Container Format for Compressed Files",
       "https://pack.ac/note/pack"
+    ]
+  ],
+  [
+    [
+      "2024-03-22, 18:41:05",
+      "https://lobste.rs/s/jihdzq/pipes_forks_dups_understanding_command"
+    ],
+    [
+      "Pipes, Forks, & Dups: Understanding Command Execution and Input/Output Data Flow",
+      "https://www.rozmichelle.com/pipes-forks-dups/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-03-21, 21:09:44",
-      "https://lobste.rs/s/ke9yzs/type_predicate_inference_ts_5_5_feature_no"
-    ],
-    [
-      "Type Predicate Inference: The TS 5.5 Feature No One Expected",
-      "https://www.totaltypescript.com/type-predicate-inference"
-    ]
-  ],
-  [
-    [
       "2024-03-21, 18:27:22",
       "https://lobste.rs/s/x5immj/duckdb_as_new_jq"
     ],
@@ -217,16 +227,6 @@
     [
       "Zig defer Patterns",
       "https://matklad.github.io/2024/03/21/defer-patterns.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-21, 14:22:56",
-      "https://lobste.rs/s/ogdfxh/cross_referencing_code_specs_for"
-    ],
-    [
-      "Cross-referencing code & specs for maintainability",
-      "https://www.ueber.net/who/mjl/blog/p/cross-referencing-code-and-specs-for-maintainability/"
     ]
   ],
   [
