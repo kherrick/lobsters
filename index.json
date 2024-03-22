@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-22, 13:30:21",
+      "https://lobste.rs/s/bt5fmk/smt_ultimate_lcd_spi_interface"
+    ],
+    [
+      "SMT and the ultimate LCD-SPI interface",
+      "https://tomscii.sig7.se/2024/03/SMT-and-the-ultimate-LCD-SPI-interface"
+    ]
+  ],
+  [
+    [
       "2024-03-22, 13:15:02",
       "https://lobste.rs/s/ea0sb0/eio_1_0_release_introducing_new_effects"
     ],
@@ -57,6 +67,16 @@
     [
       "SQLite schema diagram generator",
       "https://gitlab.com/Screwtapello/sqlite-schema-diagram/"
+    ]
+  ],
+  [
+    [
+      "2024-03-22, 08:23:04",
+      "https://lobste.rs/s/w8vo2k/property_testing_async_code_rust_build"
+    ],
+    [
+      "Property-testing async code in Rust to build reliable distributed systems",
+      "https://www.youtube.com/watch?v=ms8zKpS_dZE"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-03-21, 15:50:25",
-      "https://lobste.rs/s/cvknut/wrong_way_speed_up_your_code_with_numba"
-    ],
-    [
-      "The wrong way to speed up your code with Numba",
-      "https://pythonspeed.com/articles/slow-numba/"
-    ]
-  ],
-  [
-    [
       "2024-03-21, 15:48:57",
       "https://lobste.rs/s/w1ffen/zig_defer_patterns"
     ],
@@ -227,16 +237,6 @@
     [
       "Introducing GNOME 46, “Kathmandu”",
       "https://release.gnome.org/46/"
-    ]
-  ],
-  [
-    [
-      "2024-03-21, 01:06:37",
-      "https://lobste.rs/s/qcwdgi/tiny_undervalued_hardware_companions"
-    ],
-    [
-      "Tiny Undervalued Hardware Companions",
-      "https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/"
     ]
   ],
   [
