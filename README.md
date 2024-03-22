@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-22, 23:54:48](https://lobste.rs/s/srxvmh/sv3d_novel_multi_view_synthesis_3d) - [SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion](https://sv3d.github.io/)
 * [2024-03-22, 20:54:40](https://lobste.rs/s/xe2ydu/ipod_gadget_ipod_usb_gadget_for_audio) - [ipod-gadget: iPod usb gadget for audio playback](https://github.com/oandrew/ipod-gadget)
 * [2024-03-22, 20:24:16](https://lobste.rs/s/bvucfk/claude_chatgpt_for_ad_hoc_sidequests) - [Claude and ChatGPT for ad-hoc sidequests](https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/)
 * [2024-03-22, 20:14:47](https://lobste.rs/s/zwemnj/nix_planet) - [Nix The Planet](https://m.youtube.com/watch?v=6iviTZfiLGU)
@@ -23,7 +24,6 @@
 * [2024-03-21, 18:17:58](https://lobste.rs/s/gzsnyh/gofetch_breaking_constant_time) - [GoFetch: Breaking Constant-Time Cryptographic Implementations Using Data Memory-Dependent Prefetchers](https://gofetch.fail/)
 * [2024-03-21, 16:14:31](https://lobste.rs/s/cuq9jc/arch_linux_minimal_container_userland) - [Arch Linux minimal container userland 100% reproducible - now what?](https://lists.archlinux.org/hyperkitty/list/arch-dev-public@lists.archlinux.org/thread/AWJ6QUUTE4M27QMH5GSWVDPPMNJEFNEG/)
 * [2024-03-21, 15:48:57](https://lobste.rs/s/w1ffen/zig_defer_patterns) - [Zig defer Patterns](https://matklad.github.io/2024/03/21/defer-patterns.html)
-* [2024-03-21, 10:20:23](https://lobste.rs/s/jcpa45/intrusive_unit_testing) - [Intrusive Unit Testing](https://two-wrongs.com/intrusive-unit-testing)
 * [2024-03-20, 23:25:26](https://lobste.rs/s/sbuqgf/redis_dropped_bsd_3_favor_proprietary) - [Redis dropped BSD-3 in favor of a proprietary license](https://github.com/redis/redis/pull/13157)
 
 ## [Archives](archives/index.md)

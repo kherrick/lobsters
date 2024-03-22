@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
+* [2024-03-22, 23:54:48](https://lobste.rs/s/srxvmh/sv3d_novel_multi_view_synthesis_3d) - [SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion](https://sv3d.github.io/)
 * [2024-03-22, 20:54:40](https://lobste.rs/s/xe2ydu/ipod_gadget_ipod_usb_gadget_for_audio) - [ipod-gadget: iPod usb gadget for audio playback](https://github.com/oandrew/ipod-gadget)
 * [2024-03-22, 20:24:16](https://lobste.rs/s/bvucfk/claude_chatgpt_for_ad_hoc_tasks) - [Claude and ChatGPT for ad-hoc tasks](https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/)
 * [2024-03-22, 20:24:16](https://lobste.rs/s/bvucfk/claude_chatgpt_for_ad_hoc_sidequests) - [Claude and ChatGPT for ad-hoc sidequests](https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/)
