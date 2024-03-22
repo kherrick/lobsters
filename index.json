@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-22, 10:25:55",
+      "https://lobste.rs/s/s4oy5c/my_binary_vector_search_is_better_than"
+    ],
+    [
+      "My binary vector search is better than your FP32 vectors",
+      "https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors"
+    ]
+  ],
+  [
+    [
       "2024-03-22, 09:39:23",
       "https://lobste.rs/s/p8cvx1/sqlite_schema_diagram_generator"
     ],
@@ -237,16 +247,6 @@
     [
       "The Real C++ Killers (Not You, Rust)",
       "https://wordsandbuttons.online/the_real_cpp_killers.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-20, 13:50:23",
-      "https://lobste.rs/s/wmlme8/learn_lil_10_minutes"
-    ],
-    [
-      "Learn Lil in 10 Minutes",
-      "http://beyondloom.com/decker/learnlil.html"
     ]
   ]
 ]
