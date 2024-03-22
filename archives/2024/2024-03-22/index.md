@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
+* [2024-03-22, 19:13:53](https://lobste.rs/s/uvtbzi/dragonflydb) - [DragonflyDB](https://www.dragonflydb.io/)
+* [2024-03-22, 19:10:51](https://lobste.rs/s/akowgz/pack_new_container_format_for_compressed) - [Pack: A New Container Format for Compressed Files](https://pack.ac/note/pack)
 * [2024-03-22, 18:41:05](https://lobste.rs/s/jihdzq/pipes_forks_dups_understanding_command) - [Pipes, Forks, & Dups: Understanding Command Execution and Input/Output Data Flow](https://www.rozmichelle.com/pipes-forks-dups/)
 * [2024-03-22, 18:31:34](https://lobste.rs/s/seq4nz/mozilla_fixes_two_firefox_zero_day_bugs) - [Mozilla fixes two Firefox zero-day bugs exploited at Pwn2Own](https://www.bleepingcomputer.com/news/security/mozilla-fixes-two-firefox-zero-day-bugs-exploited-at-pwn2own/)
 * [2024-03-22, 16:59:59](https://lobste.rs/s/fyzy3m/list_commercial_video_games_with) - [List of commercial video games with available source code](https://en.m.wikipedia.org/wiki/List_of_commercial_video_games_with_available_source_code)
