@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-22, 18:41:05](https://lobste.rs/s/jihdzq/pipes_forks_dups_understanding_command) - [Pipes, Forks, & Dups: Understanding Command Execution and Input/Output Data Flow](https://www.rozmichelle.com/pipes-forks-dups/)
 * [2024-03-22, 18:31:34](https://lobste.rs/s/seq4nz/mozilla_fixes_two_firefox_zero_day_bugs) - [Mozilla fixes two Firefox zero-day bugs exploited at Pwn2Own](https://www.bleepingcomputer.com/news/security/mozilla-fixes-two-firefox-zero-day-bugs-exploited-at-pwn2own/)
 * [2024-03-22, 16:41:44](https://lobste.rs/s/ud49hv/dependency_management_duckdb) - [Dependency Management in DuckDB Extensions](https://duckdb.org/2024/03/22/dependency-management.html)
 * [2024-03-22, 16:02:20](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming) - [Fun Friday: what got you into programming?](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming)
@@ -21,7 +22,6 @@
 * [2024-03-21, 16:14:31](https://lobste.rs/s/cuq9jc/arch_linux_minimal_container_userland) - [Arch Linux minimal container userland 100% reproducible - now what?](https://lists.archlinux.org/hyperkitty/list/arch-dev-public@lists.archlinux.org/thread/AWJ6QUUTE4M27QMH5GSWVDPPMNJEFNEG/)
 * [2024-03-21, 15:48:57](https://lobste.rs/s/w1ffen/zig_defer_patterns) - [Zig defer Patterns](https://matklad.github.io/2024/03/21/defer-patterns.html)
 * [2024-03-21, 14:22:56](https://lobste.rs/s/ogdfxh/cross_referencing_code_specs_for) - [Cross-referencing code & specs for maintainability](https://www.ueber.net/who/mjl/blog/p/cross-referencing-code-and-specs-for-maintainability/)
-* [2024-03-21, 13:26:34](https://lobste.rs/s/yqakuw/apache_kvrocks_is_distributed_key_value) - [Apache Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol](https://kvrocks.apache.org/)
 * [2024-03-21, 13:05:27](https://lobste.rs/s/xq3zt9/case_for_cli_tag) - [The case for a cli tag](https://lobste.rs/s/xq3zt9/case_for_cli_tag)
 * [2024-03-21, 10:20:23](https://lobste.rs/s/jcpa45/intrusive_unit_testing) - [Intrusive Unit Testing](https://two-wrongs.com/intrusive-unit-testing)
 * [2024-03-20, 23:25:26](https://lobste.rs/s/sbuqgf/redis_dropped_bsd_3_favor_proprietary) - [Redis dropped BSD-3 in favor of a proprietary license](https://github.com/redis/redis/pull/13157)
