@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
+* [2024-03-22, 18:31:34](https://lobste.rs/s/seq4nz/mozilla_fixes_two_firefox_zero_day_bugs) - [Mozilla fixes two Firefox zero-day bugs exploited at Pwn2Own](https://www.bleepingcomputer.com/news/security/mozilla-fixes-two-firefox-zero-day-bugs-exploited-at-pwn2own/)
 * [2024-03-22, 16:59:59](https://lobste.rs/s/fyzy3m/list_commercial_video_games_with) - [List of commercial video games with available source code](https://en.m.wikipedia.org/wiki/List_of_commercial_video_games_with_available_source_code)
 * [2024-03-22, 16:41:44](https://lobste.rs/s/ud49hv/dependency_management_duckdb) - [Dependency Management in DuckDB Extensions](https://duckdb.org/2024/03/22/dependency-management.html)
 * [2024-03-22, 16:02:20](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming) - [Fun Friday: what got you into programming?](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming)
