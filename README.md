@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-22, 03:20:51](https://lobste.rs/s/s1v57r/what_are_some_good_python_codebases_read) - [What are some good python codebases to read?](https://lobste.rs/s/s1v57r/what_are_some_good_python_codebases_read)
 * [2024-03-22, 02:04:53](https://lobste.rs/s/hdmapz/picotron_is_fantasy_workstation) - [Picotron is a Fantasy Workstation](https://www.lexaloffle.com/picotron.php)
 * [2024-03-22, 01:12:24](https://lobste.rs/s/ivdeel/oils_0_21_0_flags_integers_starship_bug) - [Oils 0.21.0 - Flags, Integers, Starship Bug, and Speed](https://www.oilshell.org/blog/2024/03/release-0.21.0.html)
 * [2024-03-21, 21:09:44](https://lobste.rs/s/ke9yzs/type_predicate_inference_ts_5_5_feature_no) - [Type Predicate Inference: The TS 5.5 Feature No One Expected](https://www.totaltypescript.com/type-predicate-inference)
@@ -24,7 +25,6 @@
 * [2024-03-20, 18:42:57](https://lobste.rs/s/y5kczf/real_c_killers_not_you_rust) - [The Real C++ Killers (Not You, Rust)](https://wordsandbuttons.online/the_real_cpp_killers.html)
 * [2024-03-20, 13:50:23](https://lobste.rs/s/wmlme8/learn_lil_10_minutes) - [Learn Lil in 10 Minutes](http://beyondloom.com/decker/learnlil.html)
 * [2024-03-20, 13:41:22](https://lobste.rs/s/jdki6m/devenv_1_0_rewrite_rust) - [devenv 1.0: Rewrite in Rust](https://devenv.sh/blog/2023/03/20/devenv-10-rewrite-in-rust/)
-* [2024-03-20, 12:49:13](https://lobste.rs/s/ja0s7t/bug_hunting_btrfs) - [Bug hunting in Btrfs](https://tavianator.com/2024/btrfs_bug.html)
 
 ## [Archives](archives/index.md)
 
