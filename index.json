@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-22, 18:31:34",
+      "https://lobste.rs/s/seq4nz/mozilla_fixes_two_firefox_zero_day_bugs"
+    ],
+    [
+      "Mozilla fixes two Firefox zero-day bugs exploited at Pwn2Own",
+      "https://www.bleepingcomputer.com/news/security/mozilla-fixes-two-firefox-zero-day-bugs-exploited-at-pwn2own/"
+    ]
+  ],
+  [
+    [
       "2024-03-22, 16:41:44",
       "https://lobste.rs/s/ud49hv/dependency_management_duckdb"
     ],
@@ -147,16 +157,6 @@
     [
       "Type Predicate Inference: The TS 5.5 Feature No One Expected",
       "https://www.totaltypescript.com/type-predicate-inference"
-    ]
-  ],
-  [
-    [
-      "2024-03-21, 19:36:38",
-      "https://lobste.rs/s/e5519n/signed_not_secure"
-    ],
-    [
-      "Signed but not secure",
-      "https://blog.benjojo.co.uk/post/rpki-signed-but-not-secure"
     ]
   ],
   [
