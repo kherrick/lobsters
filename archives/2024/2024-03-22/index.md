@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
+* [2024-03-22, 08:23:04](https://lobste.rs/s/w8vo2k/property_testing_async_code_rust_build) - [Property-testing async code in Rust to build reliable distributed systems](https://www.youtube.com/watch?v=ms8zKpS_dZE)
 * [2024-03-22, 05:43:34](https://lobste.rs/s/lzivr1/hot_not_revealing_hidden_services_by) - [Hot or Not: Revealing Hidden Services by their Clock Skew [2006]](https://murdoch.is/papers/ccs06hotornot.pdf)
 * [2024-03-22, 03:20:51](https://lobste.rs/s/s1v57r/what_are_some_good_python_codebases_read) - [What are some good python codebases to read?](https://lobste.rs/s/s1v57r/what_are_some_good_python_codebases_read)
 * [2024-03-22, 02:04:53](https://lobste.rs/s/hdmapz/picotron_is_fantasy_workstation) - [Picotron is a Fantasy Workstation](https://www.lexaloffle.com/picotron.php)
