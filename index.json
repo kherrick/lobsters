@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-22, 19:13:53",
+      "https://lobste.rs/s/uvtbzi/dragonflydb"
+    ],
+    [
+      "DragonflyDB",
+      "https://www.dragonflydb.io/"
+    ]
+  ],
+  [
+    [
+      "2024-03-22, 19:10:51",
+      "https://lobste.rs/s/akowgz/pack_new_container_format_for_compressed"
+    ],
+    [
+      "Pack: A New Container Format for Compressed Files",
+      "https://pack.ac/note/pack"
+    ]
+  ],
+  [
+    [
       "2024-03-22, 18:41:05",
       "https://lobste.rs/s/jihdzq/pipes_forks_dups_understanding_command"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-03-22, 00:28:18",
-      "https://lobste.rs/s/xxvkmh/invoice_maker_generate_beautiful"
-    ],
-    [
-      "Invoice Maker - Generate beautiful invoices from simple Typst or YAML data records",
-      "https://github.com/ad-si/invoice-maker"
-    ]
-  ],
-  [
-    [
       "2024-03-21, 21:09:44",
       "https://lobste.rs/s/ke9yzs/type_predicate_inference_ts_5_5_feature_no"
     ],
@@ -217,16 +227,6 @@
     [
       "Cross-referencing code & specs for maintainability",
       "https://www.ueber.net/who/mjl/blog/p/cross-referencing-code-and-specs-for-maintainability/"
-    ]
-  ],
-  [
-    [
-      "2024-03-21, 13:05:27",
-      "https://lobste.rs/s/xq3zt9/case_for_cli_tag"
-    ],
-    [
-      "The case for a cli tag",
-      "https://lobste.rs/s/xq3zt9/case_for_cli_tag"
     ]
   ],
   [
