@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-22](index.md)
 
+* [2024-03-22, 13:30:21](https://lobste.rs/s/bt5fmk/smt_ultimate_lcd_spi_interface) - [SMT and the ultimate LCD-SPI interface](https://tomscii.sig7.se/2024/03/SMT-and-the-ultimate-LCD-SPI-interface)
 * [2024-03-22, 13:15:02](https://lobste.rs/s/ea0sb0/eio_1_0_release_introducing_new_effects) - [Eio 1.0 Release: Introducing a new Effects-Based I/O Library for OCaml](https://tarides.com/blog/2024-03-20-eio-1-0-release-introducing-a-new-effects-based-i-o-library-for-ocaml/)
 * [2024-03-22, 12:53:49](https://lobste.rs/s/gc4wfb/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/gc4wfb/what_are_you_doing_this_weekend)
 * [2024-03-22, 12:53:37](https://lobste.rs/s/35kxvh/redict_is_independent_copyleft_fork) - [Redict is an independent, copyleft fork of Redis®](https://redict.io/posts/2024-03-22-redict-is-an-independent-fork/)
