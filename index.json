@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-03-22, 18:41:05",
-      "https://lobste.rs/s/jihdzq/pipes_forks_dups_understanding_command"
-    ],
-    [
-      "Pipes, Forks, & Dups: Understanding Command Execution and Input/Output Data Flow",
-      "https://www.rozmichelle.com/pipes-forks-dups/"
-    ]
-  ],
-  [
-    [
       "2024-03-22, 18:31:34",
       "https://lobste.rs/s/seq4nz/mozilla_fixes_two_firefox_zero_day_bugs"
     ],
@@ -151,16 +141,6 @@
   ],
   [
     [
-      "2024-03-22, 08:23:04",
-      "https://lobste.rs/s/w8vo2k/property_testing_async_code_rust_build"
-    ],
-    [
-      "Property-testing async code in Rust to build reliable distributed systems",
-      "https://www.youtube.com/watch?v=ms8zKpS_dZE"
-    ]
-  ],
-  [
-    [
       "2024-03-22, 03:20:51",
       "https://lobste.rs/s/s1v57r/what_are_some_good_python_codebases_read"
     ],
@@ -187,6 +167,16 @@
     [
       "Oils 0.21.0 - Flags, Integers, Starship Bug, and Speed",
       "https://www.oilshell.org/blog/2024/03/release-0.21.0.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-21, 21:09:44",
+      "https://lobste.rs/s/ke9yzs/type_predicate_inference_ts_5_5_feature_no"
+    ],
+    [
+      "Type Predicate Inference: The TS 5.5 Feature No One Expected",
+      "https://www.totaltypescript.com/type-predicate-inference"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Zig defer Patterns",
       "https://matklad.github.io/2024/03/21/defer-patterns.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-21, 14:22:56",
+      "https://lobste.rs/s/ogdfxh/cross_referencing_code_specs_for"
+    ],
+    [
+      "Cross-referencing code & specs for maintainability",
+      "https://www.ueber.net/who/mjl/blog/p/cross-referencing-code-and-specs-for-maintainability/"
     ]
   ],
   [
