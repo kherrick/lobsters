@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-22, 00:28:18](https://lobste.rs/s/xxvkmh/invoice_maker_generate_beautiful) - [Invoice Maker - Generate beautiful invoices from simple Typst or YAML data records](https://github.com/ad-si/invoice-maker)
 * [2024-03-21, 21:09:44](https://lobste.rs/s/ke9yzs/type_predicate_inference_ts_5_5_feature_no) - [Type Predicate Inference: The TS 5.5 Feature No One Expected](https://www.totaltypescript.com/type-predicate-inference)
 * [2024-03-21, 19:41:27](https://lobste.rs/s/dtdqg9/antithesis_one_million_bug_taming) - [Antithesis of a One-in-a-Million Bug: Taming Demonic Nondeterminism](https://www.cockroachlabs.com/blog/demonic-nondeterminism/)
 * [2024-03-21, 19:36:38](https://lobste.rs/s/e5519n/signed_not_secure) - [Signed but not secure](https://blog.benjojo.co.uk/post/rpki-signed-but-not-secure)
@@ -17,7 +18,6 @@
 * [2024-03-21, 12:47:25](https://lobste.rs/s/iia288/5_things_we_have_forgotten_about_open) - [5 Things We Have Forgotten About Open Source (2014)](http://jordi.inversethought.com/blog/5-things-we-have-forgotten-about-open-source/)
 * [2024-03-21, 10:20:23](https://lobste.rs/s/jcpa45/intrusive_unit_testing) - [Intrusive Unit Testing](https://two-wrongs.com/intrusive-unit-testing)
 * [2024-03-21, 06:08:20](https://lobste.rs/s/ibsfam/introducing_gnome_46_kathmandu) - [Introducing GNOME 46, “Kathmandu”](https://release.gnome.org/46/)
-* [2024-03-21, 04:13:58](https://lobste.rs/s/rvsyxl/refix_fast_debuggable_reproducible) - [refix: fast, debuggable, reproducible builds](https://yosefk.com/blog/refix-fast-debuggable-reproducible-builds.html)
 * [2024-03-21, 01:06:37](https://lobste.rs/s/qcwdgi/tiny_undervalued_hardware_companions) - [Tiny Undervalued Hardware Companions](https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/)
 * [2024-03-20, 23:25:26](https://lobste.rs/s/sbuqgf/redis_dropped_bsd_3_favor_proprietary) - [Redis dropped BSD-3 in favor of a proprietary license](https://github.com/redis/redis/pull/13157)
 * [2024-03-20, 18:42:57](https://lobste.rs/s/y5kczf/real_c_killers_not_you_rust) - [The Real C++ Killers (Not You, Rust)](https://wordsandbuttons.online/the_real_cpp_killers.html)
