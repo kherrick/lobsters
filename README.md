@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-22, 01:12:24](https://lobste.rs/s/ivdeel/oils_0_21_0_flags_integers_starship_bug) - [Oils 0.21.0 - Flags, Integers, Starship Bug, and Speed](https://www.oilshell.org/blog/2024/03/release-0.21.0.html)
 * [2024-03-22, 00:28:18](https://lobste.rs/s/xxvkmh/invoice_maker_generate_beautiful) - [Invoice Maker - Generate beautiful invoices from simple Typst or YAML data records](https://github.com/ad-si/invoice-maker)
 * [2024-03-21, 21:09:44](https://lobste.rs/s/ke9yzs/type_predicate_inference_ts_5_5_feature_no) - [Type Predicate Inference: The TS 5.5 Feature No One Expected](https://www.totaltypescript.com/type-predicate-inference)
 * [2024-03-21, 19:41:27](https://lobste.rs/s/dtdqg9/antithesis_one_million_bug_taming) - [Antithesis of a One-in-a-Million Bug: Taming Demonic Nondeterminism](https://www.cockroachlabs.com/blog/demonic-nondeterminism/)
@@ -21,7 +22,6 @@
 * [2024-03-21, 01:06:37](https://lobste.rs/s/qcwdgi/tiny_undervalued_hardware_companions) - [Tiny Undervalued Hardware Companions](https://vermaden.wordpress.com/2024/03/21/tiny-undervalued-hardware-companions/)
 * [2024-03-20, 23:25:26](https://lobste.rs/s/sbuqgf/redis_dropped_bsd_3_favor_proprietary) - [Redis dropped BSD-3 in favor of a proprietary license](https://github.com/redis/redis/pull/13157)
 * [2024-03-20, 18:42:57](https://lobste.rs/s/y5kczf/real_c_killers_not_you_rust) - [The Real C++ Killers (Not You, Rust)](https://wordsandbuttons.online/the_real_cpp_killers.html)
-* [2024-03-20, 17:40:16](https://lobste.rs/s/rkc0ot/niri_scrollable_tiling_wayland) - [niri: A scrollable-tiling Wayland compositor](https://github.com/YaLTeR/niri/)
 * [2024-03-20, 13:50:23](https://lobste.rs/s/wmlme8/learn_lil_10_minutes) - [Learn Lil in 10 Minutes](http://beyondloom.com/decker/learnlil.html)
 * [2024-03-20, 13:41:22](https://lobste.rs/s/jdki6m/devenv_1_0_rewrite_rust) - [devenv 1.0: Rewrite in Rust](https://devenv.sh/blog/2023/03/20/devenv-10-rewrite-in-rust/)
 * [2024-03-20, 12:49:13](https://lobste.rs/s/ja0s7t/bug_hunting_btrfs) - [Bug hunting in Btrfs](https://tavianator.com/2024/btrfs_bug.html)
