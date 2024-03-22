@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-22, 20:24:16](https://lobste.rs/s/bvucfk/claude_chatgpt_for_ad_hoc_tasks) - [Claude and ChatGPT for ad-hoc tasks](https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/)
 * [2024-03-22, 20:14:47](https://lobste.rs/s/zwemnj/nix_planet) - [Nix The Planet](https://m.youtube.com/watch?v=6iviTZfiLGU)
 * [2024-03-22, 19:47:58](https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome) - [How secure are passwords stored in Chrome or Firefox?](https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome)
 * [2024-03-22, 19:13:53](https://lobste.rs/s/uvtbzi/dragonflydb) - [DragonflyDB](https://www.dragonflydb.io/)
@@ -18,7 +19,6 @@
 * [2024-03-22, 03:20:51](https://lobste.rs/s/s1v57r/what_are_some_good_python_codebases_read) - [What are some good python codebases to read?](https://lobste.rs/s/s1v57r/what_are_some_good_python_codebases_read)
 * [2024-03-22, 02:04:53](https://lobste.rs/s/hdmapz/picotron_is_fantasy_workstation) - [Picotron is a Fantasy Workstation](https://www.lexaloffle.com/picotron.php)
 * [2024-03-22, 01:12:24](https://lobste.rs/s/ivdeel/oils_0_21_0_flags_integers_starship_bug) - [Oils 0.21.0 - Flags, Integers, Starship Bug, and Speed](https://www.oilshell.org/blog/2024/03/release-0.21.0.html)
-* [2024-03-21, 21:09:44](https://lobste.rs/s/ke9yzs/type_predicate_inference_ts_5_5_feature_no) - [Type Predicate Inference: The TS 5.5 Feature No One Expected](https://www.totaltypescript.com/type-predicate-inference)
 * [2024-03-21, 18:27:22](https://lobste.rs/s/x5immj/duckdb_as_new_jq) - [DuckDB as the New jq](https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/)
 * [2024-03-21, 18:17:58](https://lobste.rs/s/gzsnyh/gofetch_breaking_constant_time) - [GoFetch: Breaking Constant-Time Cryptographic Implementations Using Data Memory-Dependent Prefetchers](https://gofetch.fail/)
 * [2024-03-21, 16:14:31](https://lobste.rs/s/cuq9jc/arch_linux_minimal_container_userland) - [Arch Linux minimal container userland 100% reproducible - now what?](https://lists.archlinux.org/hyperkitty/list/arch-dev-public@lists.archlinux.org/thread/AWJ6QUUTE4M27QMH5GSWVDPPMNJEFNEG/)
