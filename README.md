@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-23, 10:40:07](https://lobste.rs/s/rlnvdh/vim_is_not_about_speed) - [vim is not about speed](https://levelup.gitconnected.com/vim-is-not-about-speed-88968ae4283c)
 * [2024-03-23, 10:16:05](https://lobste.rs/s/gtcu94/install_doctor_provision_fully) - [Install Doctor: Provision fully configured desktops automatically](https://install.doctor/)
 * [2024-03-23, 09:52:13](https://lobste.rs/s/krdrno/redesigning_oltp_for_new_order_magnitude) - [Redesigning OLTP for a New Order of Magnitude](https://www.infoq.com/presentations/redesign-oltp/)
 * [2024-03-23, 08:05:01](https://lobste.rs/s/tjh7oy/cranelift_code_generation_comes_rust) - [Cranelift code generation comes to Rust](https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/)
@@ -11,7 +12,6 @@
 * [2024-03-22, 20:14:47](https://lobste.rs/s/zwemnj/nix_planet) - [Nix The Planet](https://m.youtube.com/watch?v=6iviTZfiLGU)
 * [2024-03-22, 19:47:58](https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome) - [How secure are passwords stored in Chrome or Firefox?](https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome)
 * [2024-03-22, 19:13:53](https://lobste.rs/s/uvtbzi/dragonflydb) - [DragonflyDB](https://www.dragonflydb.io/)
-* [2024-03-22, 19:10:51](https://lobste.rs/s/akowgz/pack_new_container_format_for_compressed) - [Pack: A New Container Format for Compressed Files](https://pack.ac/note/pack)
 * [2024-03-22, 18:31:34](https://lobste.rs/s/seq4nz/mozilla_fixes_two_firefox_zero_day_bugs) - [Mozilla fixes two Firefox zero-day bugs exploited at Pwn2Own](https://www.bleepingcomputer.com/news/security/mozilla-fixes-two-firefox-zero-day-bugs-exploited-at-pwn2own/)
 * [2024-03-22, 16:02:20](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming) - [Fun Friday: what got you into programming?](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming)
 * [2024-03-22, 14:08:47](https://lobste.rs/s/8lv5uj/jpeg_dct_text_lossifizer) - [JPEG DCT text lossifizer](https://lcamtuf.substack.com/p/afternoon-project-jpeg-dct-text-lossifizer)
