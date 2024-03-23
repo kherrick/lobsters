@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-23, 11:37:09](https://lobste.rs/s/g2enwk/twentysix_year_old_redhat_5_2_on_qemu_i386) - [Twentysix year old RedHat 5.2 on QEMU i386](https://box.matto.nl/twentysix-year-old-redhat-52-on-qemu-i386.html)
 * [2024-03-23, 10:40:07](https://lobste.rs/s/rlnvdh/vim_is_not_about_speed) - [vim is not about speed](https://levelup.gitconnected.com/vim-is-not-about-speed-88968ae4283c)
 * [2024-03-23, 10:16:05](https://lobste.rs/s/gtcu94/install_doctor_provision_fully) - [Install Doctor: Provision fully configured desktops automatically](https://install.doctor/)
 * [2024-03-23, 09:52:13](https://lobste.rs/s/krdrno/redesigning_oltp_for_new_order_magnitude) - [Redesigning OLTP for a New Order of Magnitude](https://www.infoq.com/presentations/redesign-oltp/)
@@ -7,7 +8,6 @@
 * [2024-03-23, 06:45:54](https://lobste.rs/s/cnufoe/building_containers_programmatically) - [Building containers programmatically, self-hosted](https://lobste.rs/s/cnufoe/building_containers_programmatically)
 * [2024-03-23, 05:03:19](https://lobste.rs/s/8loxs1/current_branch_git) - [The current branch in git](https://jvns.ca/blog/2024/03/22/the-current-branch-in-git/)
 * [2024-03-23, 00:48:55](https://lobste.rs/s/dac2to/post_quantum_cryptography_is_too_damn_big) - [Post-quantum cryptography is too damn big](https://dadrian.io/blog/posts/pqc-signatures-2024/)
-* [2024-03-23, 00:02:16](https://lobste.rs/s/gpwtgh/node_js_documentary_origin_story) - [Node.js: The Documentary | An origin story](https://www.youtube.com/watch?v=LB8KwiiUGy0)
 * [2024-03-22, 20:24:16](https://lobste.rs/s/bvucfk/claude_chatgpt_for_ad_hoc_sidequests) - [Claude and ChatGPT for ad-hoc sidequests](https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/)
 * [2024-03-22, 20:14:47](https://lobste.rs/s/zwemnj/nix_planet) - [Nix The Planet](https://m.youtube.com/watch?v=6iviTZfiLGU)
 * [2024-03-22, 19:47:58](https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome) - [How secure are passwords stored in Chrome or Firefox?](https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome)
