@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-23, 16:08:16",
+      "https://lobste.rs/s/j7tiry/why_hell_is_your_kubernetes_api_public"
+    ],
+    [
+      "Why the hell is your Kubernetes API public?",
+      "https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane"
+    ]
+  ],
+  [
+    [
       "2024-03-23, 15:24:28",
       "https://lobste.rs/s/vphrm3/grep_by_example_interactive_guide"
     ],
@@ -127,16 +137,6 @@
     [
       "How secure are passwords stored in Chrome or Firefox?",
       "https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome"
-    ]
-  ],
-  [
-    [
-      "2024-03-22, 19:13:53",
-      "https://lobste.rs/s/uvtbzi/dragonflydb"
-    ],
-    [
-      "DragonflyDB",
-      "https://www.dragonflydb.io/"
     ]
   ],
   [
