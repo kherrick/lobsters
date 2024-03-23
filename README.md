@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-23, 05:03:19](https://lobste.rs/s/8loxs1/current_branch_git) - [The current branch in git](https://jvns.ca/blog/2024/03/22/the-current-branch-in-git/)
 * [2024-03-23, 00:48:55](https://lobste.rs/s/dac2to/post_quantum_cryptography_is_too_damn_big) - [Post-quantum cryptography is too damn big](https://dadrian.io/blog/posts/pqc-signatures-2024/)
 * [2024-03-23, 00:02:16](https://lobste.rs/s/gpwtgh/node_js_documentary_origin_story) - [Node.js: The Documentary | An origin story](https://www.youtube.com/watch?v=LB8KwiiUGy0)
 * [2024-03-22, 23:54:48](https://lobste.rs/s/srxvmh/sv3d_novel_multi_view_synthesis_3d) - [SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion](https://sv3d.github.io/)
@@ -24,7 +25,6 @@
 * [2024-03-21, 18:27:22](https://lobste.rs/s/x5immj/duckdb_as_new_jq) - [DuckDB as the New jq](https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/)
 * [2024-03-21, 18:17:58](https://lobste.rs/s/gzsnyh/gofetch_breaking_constant_time) - [GoFetch: Breaking Constant-Time Cryptographic Implementations Using Data Memory-Dependent Prefetchers](https://gofetch.fail/)
 * [2024-03-21, 15:48:57](https://lobste.rs/s/w1ffen/zig_defer_patterns) - [Zig defer Patterns](https://matklad.github.io/2024/03/21/defer-patterns.html)
-* [2024-03-20, 23:25:26](https://lobste.rs/s/sbuqgf/redis_dropped_bsd_3_favor_proprietary) - [Redis dropped BSD-3 in favor of a proprietary license](https://github.com/redis/redis/pull/13157)
 
 ## [Archives](archives/index.md)
 
