@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-23, 17:48:05](https://lobste.rs/s/ucirlx/lapdev_self_hosted_remote_dev) - [lapdev: Self-Hosted Remote Dev Environment](https://github.com/lapce/lapdev)
 * [2024-03-23, 16:08:16](https://lobste.rs/s/j7tiry/why_hell_is_your_kubernetes_api_public) - [Why the hell is your Kubernetes API public?](https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane)
 * [2024-03-23, 15:24:28](https://lobste.rs/s/vphrm3/grep_by_example_interactive_guide) - [Grep by example: Interactive guide](https://antonz.org/grep-by-example/)
 * [2024-03-23, 13:02:36](https://lobste.rs/s/habq4f/unexplanations_sql_is_syntactic_sugar) - [Unexplanations: sql is syntactic sugar for relational algebra](https://www.scattered-thoughts.net/writing/unexplanations-sql-is-syntactic-sugar-for-relational-algebra/)
@@ -20,7 +21,6 @@
 * [2024-03-22, 13:30:21](https://lobste.rs/s/bt5fmk/smt_ultimate_lcd_spi_interface) - [SMT and the ultimate LCD-SPI interface](https://tomscii.sig7.se/2024/03/SMT-and-the-ultimate-LCD-SPI-interface)
 * [2024-03-22, 13:15:02](https://lobste.rs/s/ea0sb0/eio_1_0_release_introducing_new_effects) - [Eio 1.0 Release: Introducing a new Effects-Based I/O Library for OCaml](https://tarides.com/blog/2024-03-20-eio-1-0-release-introducing-a-new-effects-based-i-o-library-for-ocaml/)
 * [2024-03-22, 12:39:21](https://lobste.rs/s/dmbpks/decision_logs) - [Decision logs](https://vitonsky.net/blog/2024/03/20/decision-logs/)
-* [2024-03-22, 12:01:34](https://lobste.rs/s/d1tieu/hotel_hotspot_hijinks) - [Hotel hotspot hijinks](https://peateasea.de/hotel-hotspot-hijinks/)
 * [2024-03-22, 10:25:55](https://lobste.rs/s/s4oy5c/my_binary_vector_search_is_better_than) - [My binary vector search is better than your FP32 vectors](https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors)
 * [2024-03-22, 09:39:23](https://lobste.rs/s/p8cvx1/sqlite_schema_diagram_generator) - [SQLite schema diagram generator](https://gitlab.com/Screwtapello/sqlite-schema-diagram/)
 * [2024-03-22, 02:04:53](https://lobste.rs/s/hdmapz/picotron_is_fantasy_workstation) - [Picotron is a Fantasy Workstation](https://www.lexaloffle.com/picotron.php)
