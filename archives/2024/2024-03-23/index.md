@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-23](index.md)
 
+* [2024-03-23, 13:02:36](https://lobste.rs/s/habq4f/unexplanations_sql_is_syntactic_sugar) - [Unexplanations: sql is syntactic sugar for relational algebra](https://www.scattered-thoughts.net/writing/unexplanations-sql-is-syntactic-sugar-for-relational-algebra/)
+* [2024-03-23, 12:57:27](https://lobste.rs/s/dfv1nx/sqlite_alternative_which_supports) - [SQLite alternative which supports vector embeddings](https://lobste.rs/s/dfv1nx/sqlite_alternative_which_supports)
 * [2024-03-23, 11:47:32](https://lobste.rs/s/vftpzq/multi_tenant_mqtt_broker) - [Multi Tenant MQTT broker](https://www.hardill.me.uk/wordpress/2024/03/23/multi-tenant-mqtt-broker/)
 * [2024-03-23, 11:42:31](https://lobste.rs/s/cskaew/tiny_core_linux_on_thinkpad_x60s) - [Tiny Core Linux on a ThinkPad X60s](http://women-and-dreams.blogspot.com/2024/03/tiny-core-linux-on-thinkpad-x60s.html)
 * [2024-03-23, 11:37:09](https://lobste.rs/s/g2enwk/twentysix_year_old_redhat_5_2_on_qemu_i386) - [Twentysix year old RedHat 5.2 on QEMU i386](https://box.matto.nl/twentysix-year-old-redhat-52-on-qemu-i386.html)
