@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-03-23, 00:38:13",
-      "https://lobste.rs/s/qhgyni/redis_renamed_redict"
-    ],
-    [
-      "Redis Renamed to Redict",
-      "https://andrewkelley.me/post/redis-renamed-to-redict.html"
-    ]
-  ],
-  [
-    [
       "2024-03-23, 00:02:16",
       "https://lobste.rs/s/gpwtgh/node_js_documentary_origin_story"
     ],
@@ -247,6 +237,16 @@
     [
       "Zig defer Patterns",
       "https://matklad.github.io/2024/03/21/defer-patterns.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-20, 23:25:26",
+      "https://lobste.rs/s/sbuqgf/redis_dropped_bsd_3_favor_proprietary"
+    ],
+    [
+      "Redis dropped BSD-3 in favor of a proprietary license",
+      "https://github.com/redis/redis/pull/13157"
     ]
   ]
 ]
