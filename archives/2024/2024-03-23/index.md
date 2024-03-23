@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-23](index.md)
 
+* [2024-03-23, 10:16:05](https://lobste.rs/s/gtcu94/install_doctor_provision_fully) - [Install Doctor: Provision fully configured desktops automatically](https://install.doctor/)
 * [2024-03-23, 09:52:13](https://lobste.rs/s/krdrno/redesigning_oltp_for_new_order_magnitude) - [Redesigning OLTP for a New Order of Magnitude](https://www.infoq.com/presentations/redesign-oltp/)
 * [2024-03-23, 08:05:01](https://lobste.rs/s/tjh7oy/cranelift_code_generation_comes_rust) - [Cranelift code generation comes to Rust](https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/)
 * [2024-03-23, 06:45:54](https://lobste.rs/s/cnufoe/building_containers_programmatically) - [Building containers programmatically, self-hosted](https://lobste.rs/s/cnufoe/building_containers_programmatically)
