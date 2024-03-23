@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-03-23, 00:48:55](https://lobste.rs/s/dac2to/post_quantum_cryptography_is_too_damn_big) - [Post-quantum cryptography is too damn big](https://dadrian.io/blog/posts/pqc-signatures-2024/)
-* [2024-03-23, 00:38:13](https://lobste.rs/s/qhgyni/redis_renamed_redict) - [Redis Renamed to Redict](https://andrewkelley.me/post/redis-renamed-to-redict.html)
 * [2024-03-23, 00:02:16](https://lobste.rs/s/gpwtgh/node_js_documentary_origin_story) - [Node.js: The Documentary | An origin story](https://www.youtube.com/watch?v=LB8KwiiUGy0)
 * [2024-03-22, 23:54:48](https://lobste.rs/s/srxvmh/sv3d_novel_multi_view_synthesis_3d) - [SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion](https://sv3d.github.io/)
 * [2024-03-22, 20:54:40](https://lobste.rs/s/xe2ydu/ipod_gadget_ipod_usb_gadget_for_audio) - [ipod-gadget: iPod usb gadget for audio playback](https://github.com/oandrew/ipod-gadget)
@@ -25,6 +24,7 @@
 * [2024-03-21, 18:27:22](https://lobste.rs/s/x5immj/duckdb_as_new_jq) - [DuckDB as the New jq](https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/)
 * [2024-03-21, 18:17:58](https://lobste.rs/s/gzsnyh/gofetch_breaking_constant_time) - [GoFetch: Breaking Constant-Time Cryptographic Implementations Using Data Memory-Dependent Prefetchers](https://gofetch.fail/)
 * [2024-03-21, 15:48:57](https://lobste.rs/s/w1ffen/zig_defer_patterns) - [Zig defer Patterns](https://matklad.github.io/2024/03/21/defer-patterns.html)
+* [2024-03-20, 23:25:26](https://lobste.rs/s/sbuqgf/redis_dropped_bsd_3_favor_proprietary) - [Redis dropped BSD-3 in favor of a proprietary license](https://github.com/redis/redis/pull/13157)
 
 ## [Archives](archives/index.md)
 
