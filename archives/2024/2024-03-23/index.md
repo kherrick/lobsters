@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-23](index.md)
 
+* [2024-03-23, 15:21:45](https://lobste.rs/s/xqnheu/problem_with_vim_is_you_don_t_grok_vi_2009) - [Problem with Vim is that you don't grok vi (2009)](https://stackoverflow.com/a/1220118)
 * [2024-03-23, 13:02:36](https://lobste.rs/s/habq4f/unexplanations_sql_is_syntactic_sugar) - [Unexplanations: sql is syntactic sugar for relational algebra](https://www.scattered-thoughts.net/writing/unexplanations-sql-is-syntactic-sugar-for-relational-algebra/)
 * [2024-03-23, 12:57:27](https://lobste.rs/s/dfv1nx/sqlite_alternative_which_supports) - [SQLite alternative which supports vector embeddings](https://lobste.rs/s/dfv1nx/sqlite_alternative_which_supports)
 * [2024-03-23, 11:47:32](https://lobste.rs/s/vftpzq/multi_tenant_mqtt_broker) - [Multi Tenant MQTT broker](https://www.hardill.me.uk/wordpress/2024/03/23/multi-tenant-mqtt-broker/)
