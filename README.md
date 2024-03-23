@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-23, 16:08:16](https://lobste.rs/s/j7tiry/why_hell_is_your_kubernetes_api_public) - [Why the hell is your Kubernetes API public?](https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane)
 * [2024-03-23, 15:24:28](https://lobste.rs/s/vphrm3/grep_by_example_interactive_guide) - [Grep by example: Interactive guide](https://antonz.org/grep-by-example/)
 * [2024-03-23, 13:02:36](https://lobste.rs/s/habq4f/unexplanations_sql_is_syntactic_sugar) - [Unexplanations: sql is syntactic sugar for relational algebra](https://www.scattered-thoughts.net/writing/unexplanations-sql-is-syntactic-sugar-for-relational-algebra/)
 * [2024-03-23, 11:47:32](https://lobste.rs/s/vftpzq/multi_tenant_mqtt_broker) - [Multi Tenant MQTT broker](https://www.hardill.me.uk/wordpress/2024/03/23/multi-tenant-mqtt-broker/)
@@ -13,7 +14,6 @@
 * [2024-03-22, 20:24:16](https://lobste.rs/s/bvucfk/claude_chatgpt_for_ad_hoc_sidequests) - [Claude and ChatGPT for ad-hoc sidequests](https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/)
 * [2024-03-22, 20:14:47](https://lobste.rs/s/zwemnj/nix_planet) - [Nix The Planet](https://m.youtube.com/watch?v=6iviTZfiLGU)
 * [2024-03-22, 19:47:58](https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome) - [How secure are passwords stored in Chrome or Firefox?](https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome)
-* [2024-03-22, 19:13:53](https://lobste.rs/s/uvtbzi/dragonflydb) - [DragonflyDB](https://www.dragonflydb.io/)
 * [2024-03-22, 18:31:34](https://lobste.rs/s/seq4nz/mozilla_fixes_two_firefox_zero_day_bugs) - [Mozilla fixes two Firefox zero-day bugs exploited at Pwn2Own](https://www.bleepingcomputer.com/news/security/mozilla-fixes-two-firefox-zero-day-bugs-exploited-at-pwn2own/)
 * [2024-03-22, 16:02:20](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming) - [Fun Friday: what got you into programming?](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming)
 * [2024-03-22, 13:30:21](https://lobste.rs/s/bt5fmk/smt_ultimate_lcd_spi_interface) - [SMT and the ultimate LCD-SPI interface](https://tomscii.sig7.se/2024/03/SMT-and-the-ultimate-LCD-SPI-interface)

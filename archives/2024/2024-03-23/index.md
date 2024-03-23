@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-23](index.md)
 
+* [2024-03-23, 16:08:16](https://lobste.rs/s/j7tiry/why_hell_is_your_kubernetes_api_public) - [Why the hell is your Kubernetes API public?](https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane)
 * [2024-03-23, 15:24:28](https://lobste.rs/s/vphrm3/grep_by_example_interactive_guide) - [Grep by example: Interactive guide](https://antonz.org/grep-by-example/)
 * [2024-03-23, 15:21:45](https://lobste.rs/s/xqnheu/problem_with_vim_is_you_don_t_grok_vi_2009) - [Problem with Vim is that you don't grok vi (2009)](https://stackoverflow.com/a/1220118)
 * [2024-03-23, 13:02:36](https://lobste.rs/s/habq4f/unexplanations_sql_is_syntactic_sugar) - [Unexplanations: sql is syntactic sugar for relational algebra](https://www.scattered-thoughts.net/writing/unexplanations-sql-is-syntactic-sugar-for-relational-algebra/)
