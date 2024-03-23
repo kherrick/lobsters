@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-23](index.md)
 
+* [2024-03-23, 18:21:03](https://lobste.rs/s/wx0ykm/styledown_is_simple_markup_language_for) - [Styledown is a simple markup language for representing styled text](https://pkg.go.dev/src.elv.sh@master/pkg/ui/styledown)
 * [2024-03-23, 17:48:05](https://lobste.rs/s/ucirlx/lapdev_self_hosted_remote_dev) - [lapdev: Self-Hosted Remote Dev Environment](https://github.com/lapce/lapdev)
 * [2024-03-23, 16:08:16](https://lobste.rs/s/j7tiry/why_hell_is_your_kubernetes_api_public) - [Why the hell is your Kubernetes API public?](https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane)
 * [2024-03-23, 15:24:28](https://lobste.rs/s/vphrm3/grep_by_example_interactive_guide) - [Grep by example: Interactive guide](https://antonz.org/grep-by-example/)
