@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-23](index.md)
 
+* [2024-03-23, 11:47:32](https://lobste.rs/s/vftpzq/multi_tenant_mqtt_broker) - [Multi Tenant MQTT broker](https://www.hardill.me.uk/wordpress/2024/03/23/multi-tenant-mqtt-broker/)
+* [2024-03-23, 11:42:31](https://lobste.rs/s/cskaew/tiny_core_linux_on_thinkpad_x60s) - [Tiny Core Linux on a ThinkPad X60s](http://women-and-dreams.blogspot.com/2024/03/tiny-core-linux-on-thinkpad-x60s.html)
 * [2024-03-23, 11:37:09](https://lobste.rs/s/g2enwk/twentysix_year_old_redhat_5_2_on_qemu_i386) - [Twentysix year old RedHat 5.2 on QEMU i386](https://box.matto.nl/twentysix-year-old-redhat-52-on-qemu-i386.html)
 * [2024-03-23, 10:40:07](https://lobste.rs/s/rlnvdh/vim_is_not_about_speed) - [vim is not about speed](https://levelup.gitconnected.com/vim-is-not-about-speed-88968ae4283c)
 * [2024-03-23, 10:16:05](https://lobste.rs/s/gtcu94/install_doctor_provision_fully) - [Install Doctor: Provision fully configured desktops automatically](https://install.doctor/)
