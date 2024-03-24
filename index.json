@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2024-03-22, 20:14:47",
-      "https://lobste.rs/s/zwemnj/nix_planet"
-    ],
-    [
-      "Nix The Planet",
-      "https://m.youtube.com/watch?v=6iviTZfiLGU"
-    ]
-  ],
-  [
-    [
       "2024-03-22, 19:47:58",
       "https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome"
     ],
@@ -237,6 +227,16 @@
     [
       "Eio 1.0 Release: Introducing a new Effects-Based I/O Library for OCaml",
       "https://tarides.com/blog/2024-03-20-eio-1-0-release-introducing-a-new-effects-based-i-o-library-for-ocaml/"
+    ]
+  ],
+  [
+    [
+      "2024-03-22, 09:39:23",
+      "https://lobste.rs/s/p8cvx1/sqlite_schema_diagram_generator"
+    ],
+    [
+      "SQLite schema diagram generator",
+      "https://gitlab.com/Screwtapello/sqlite-schema-diagram/"
     ]
   ],
   [
