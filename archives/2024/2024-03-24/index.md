@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-24](index.md)
 
+* [2024-03-24, 22:42:16](https://lobste.rs/s/19f4ox/pschess_chess_engine_postscript) - [PSChess - A Chess Engine in PostScript](https://seriot.ch/projects/pschess.html)
 * [2024-03-24, 22:30:53](https://lobste.rs/s/qoccbl/bash_vs_fish_vs_zsh_vs_nushell) - [Bash vs Fish vs Zsh vs Nushell?](https://lobste.rs/s/qoccbl/bash_vs_fish_vs_zsh_vs_nushell)
 * [2024-03-24, 20:09:36](https://lobste.rs/s/fz1yv8/u_u_conundrum) - [The ü/ü Conundrum](https://unravelweb.dev/2024/02/12/the-u-u-conundrum/)
 * [2024-03-24, 14:38:56](https://lobste.rs/s/rznejf/failsafe_go_fault_tolerance_library_for) - [failsafe-go: A fault tolerance library for Go](https://failsafe-go.dev/)

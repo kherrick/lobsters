@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-24, 22:42:16](https://lobste.rs/s/19f4ox/pschess_chess_engine_postscript) - [PSChess - A Chess Engine in PostScript](https://seriot.ch/projects/pschess.html)
 * [2024-03-24, 22:30:53](https://lobste.rs/s/qoccbl/bash_vs_fish_vs_zsh_vs_nushell) - [Bash vs Fish vs Zsh vs Nushell?](https://lobste.rs/s/qoccbl/bash_vs_fish_vs_zsh_vs_nushell)
 * [2024-03-24, 20:09:36](https://lobste.rs/s/fz1yv8/u_u_conundrum) - [The ü/ü Conundrum](https://unravelweb.dev/2024/02/12/the-u-u-conundrum/)
 * [2024-03-24, 14:38:56](https://lobste.rs/s/rznejf/failsafe_go_fault_tolerance_library_for) - [failsafe-go: A fault tolerance library for Go](https://failsafe-go.dev/)
@@ -24,7 +25,6 @@
 * [2024-03-22, 20:24:16](https://lobste.rs/s/bvucfk/claude_chatgpt_for_ad_hoc_sidequests) - [Claude and ChatGPT for ad-hoc sidequests](https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/)
 * [2024-03-22, 19:47:58](https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome) - [How secure are passwords stored in Chrome or Firefox?](https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome)
 * [2024-03-22, 16:02:20](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming) - [Fun Friday: what got you into programming?](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming)
-* [2024-03-22, 13:15:02](https://lobste.rs/s/ea0sb0/eio_1_0_release_introducing_new_effects) - [Eio 1.0 Release: Introducing a new Effects-Based I/O Library for OCaml](https://tarides.com/blog/2024-03-20-eio-1-0-release-introducing-a-new-effects-based-i-o-library-for-ocaml/)
 
 ## [Archives](archives/index.md)
 
