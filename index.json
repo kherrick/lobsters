@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-24, 08:56:20",
+      "https://lobste.rs/s/qmyxpw/texpresso_live_rendering_error"
+    ],
+    [
+      "TeXpresso: live rendering and error reporting for LaTeX",
+      "https://github.com/let-def/texpresso"
+    ]
+  ],
+  [
+    [
       "2024-03-23, 18:21:03",
       "https://lobste.rs/s/wx0ykm/styledown_is_simple_markup_language_for"
     ],
@@ -167,16 +177,6 @@
     [
       "How secure are passwords stored in Chrome or Firefox?",
       "https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome"
-    ]
-  ],
-  [
-    [
-      "2024-03-22, 18:31:34",
-      "https://lobste.rs/s/seq4nz/mozilla_fixes_two_firefox_zero_day_bugs"
-    ],
-    [
-      "Mozilla fixes two Firefox zero-day bugs exploited at Pwn2Own",
-      "https://www.bleepingcomputer.com/news/security/mozilla-fixes-two-firefox-zero-day-bugs-exploited-at-pwn2own/"
     ]
   ],
   [
