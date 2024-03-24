@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-24, 08:56:20](https://lobste.rs/s/qmyxpw/texpresso_live_rendering_error) - [TeXpresso: live rendering and error reporting for LaTeX](https://github.com/let-def/texpresso)
 * [2024-03-23, 18:21:03](https://lobste.rs/s/wx0ykm/styledown_is_simple_markup_language_for) - [Styledown is a simple markup language for representing styled text](https://pkg.go.dev/src.elv.sh@master/pkg/ui/styledown)
 * [2024-03-23, 17:48:05](https://lobste.rs/s/ucirlx/lapdev_self_hosted_remote_dev) - [lapdev: Self-Hosted Remote Dev Environment](https://github.com/lapce/lapdev)
 * [2024-03-23, 16:08:16](https://lobste.rs/s/j7tiry/why_hell_is_your_kubernetes_api_public) - [Why the hell is your Kubernetes API public?](https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane)
@@ -17,7 +18,6 @@
 * [2024-03-22, 20:24:16](https://lobste.rs/s/bvucfk/claude_chatgpt_for_ad_hoc_sidequests) - [Claude and ChatGPT for ad-hoc sidequests](https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/)
 * [2024-03-22, 20:14:47](https://lobste.rs/s/zwemnj/nix_planet) - [Nix The Planet](https://m.youtube.com/watch?v=6iviTZfiLGU)
 * [2024-03-22, 19:47:58](https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome) - [How secure are passwords stored in Chrome or Firefox?](https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome)
-* [2024-03-22, 18:31:34](https://lobste.rs/s/seq4nz/mozilla_fixes_two_firefox_zero_day_bugs) - [Mozilla fixes two Firefox zero-day bugs exploited at Pwn2Own](https://www.bleepingcomputer.com/news/security/mozilla-fixes-two-firefox-zero-day-bugs-exploited-at-pwn2own/)
 * [2024-03-22, 16:02:20](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming) - [Fun Friday: what got you into programming?](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming)
 * [2024-03-22, 13:30:21](https://lobste.rs/s/bt5fmk/smt_ultimate_lcd_spi_interface) - [SMT and the ultimate LCD-SPI interface](https://tomscii.sig7.se/2024/03/SMT-and-the-ultimate-LCD-SPI-interface)
 * [2024-03-22, 13:15:02](https://lobste.rs/s/ea0sb0/eio_1_0_release_introducing_new_effects) - [Eio 1.0 Release: Introducing a new Effects-Based I/O Library for OCaml](https://tarides.com/blog/2024-03-20-eio-1-0-release-introducing-a-new-effects-based-i-o-library-for-ocaml/)
