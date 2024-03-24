@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-24, 22:30:53",
+      "https://lobste.rs/s/qoccbl/bash_vs_fish_vs_zsh_vs_nushell"
+    ],
+    [
+      "Bash vs Fish vs Zsh vs Nushell?",
+      "https://lobste.rs/s/qoccbl/bash_vs_fish_vs_zsh_vs_nushell"
+    ]
+  ],
+  [
+    [
       "2024-03-24, 20:09:36",
       "https://lobste.rs/s/fz1yv8/u_u_conundrum"
     ],
@@ -237,16 +247,6 @@
     [
       "Eio 1.0 Release: Introducing a new Effects-Based I/O Library for OCaml",
       "https://tarides.com/blog/2024-03-20-eio-1-0-release-introducing-a-new-effects-based-i-o-library-for-ocaml/"
-    ]
-  ],
-  [
-    [
-      "2024-03-21, 18:27:22",
-      "https://lobste.rs/s/x5immj/duckdb_as_new_jq"
-    ],
-    [
-      "DuckDB as the New jq",
-      "https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/"
     ]
   ]
 ]
