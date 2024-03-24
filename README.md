@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-24, 23:31:21](https://lobste.rs/s/ozs2lw/poorly_classified_data_how_internet) - [POORLY CLASSIFIED DATA: How the Internet became searchable](https://www.youtube.com/watch?v=d149l7SLLXA)
 * [2024-03-24, 22:42:16](https://lobste.rs/s/19f4ox/pschess_chess_engine_postscript) - [PSChess - A Chess Engine in PostScript](https://seriot.ch/projects/pschess.html)
 * [2024-03-24, 22:30:53](https://lobste.rs/s/qoccbl/bash_vs_fish_vs_zsh_vs_nushell) - [Bash vs Fish vs Zsh vs Nushell?](https://lobste.rs/s/qoccbl/bash_vs_fish_vs_zsh_vs_nushell)
 * [2024-03-24, 20:09:36](https://lobste.rs/s/fz1yv8/u_u_conundrum) - [The ü/ü Conundrum](https://unravelweb.dev/2024/02/12/the-u-u-conundrum/)
@@ -21,7 +22,6 @@
 * [2024-03-23, 08:05:01](https://lobste.rs/s/tjh7oy/cranelift_code_generation_comes_rust) - [Cranelift code generation comes to Rust](https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/)
 * [2024-03-23, 06:45:54](https://lobste.rs/s/cnufoe/building_containers_programmatically) - [Building containers programmatically, self-hosted](https://lobste.rs/s/cnufoe/building_containers_programmatically)
 * [2024-03-23, 05:03:19](https://lobste.rs/s/8loxs1/current_branch_git) - [The current branch in git](https://jvns.ca/blog/2024/03/22/the-current-branch-in-git/)
-* [2024-03-23, 00:48:55](https://lobste.rs/s/dac2to/post_quantum_cryptography_is_too_damn_big) - [Post-quantum cryptography is too damn big](https://dadrian.io/blog/posts/pqc-signatures-2024/)
 * [2024-03-22, 20:24:16](https://lobste.rs/s/bvucfk/claude_chatgpt_for_ad_hoc_sidequests) - [Claude and ChatGPT for ad-hoc sidequests](https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/)
 * [2024-03-22, 19:47:58](https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome) - [How secure are passwords stored in Chrome or Firefox?](https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome)
 * [2024-03-22, 16:02:20](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming) - [Fun Friday: what got you into programming?](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming)
