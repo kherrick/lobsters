@@ -20,10 +20,10 @@
 * [2024-03-23, 05:03:19](https://lobste.rs/s/8loxs1/current_branch_git) - [The current branch in git](https://jvns.ca/blog/2024/03/22/the-current-branch-in-git/)
 * [2024-03-23, 00:48:55](https://lobste.rs/s/dac2to/post_quantum_cryptography_is_too_damn_big) - [Post-quantum cryptography is too damn big](https://dadrian.io/blog/posts/pqc-signatures-2024/)
 * [2024-03-22, 20:24:16](https://lobste.rs/s/bvucfk/claude_chatgpt_for_ad_hoc_sidequests) - [Claude and ChatGPT for ad-hoc sidequests](https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/)
+* [2024-03-22, 20:14:47](https://lobste.rs/s/zwemnj/nix_planet) - [Nix The Planet](https://m.youtube.com/watch?v=6iviTZfiLGU)
 * [2024-03-22, 19:47:58](https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome) - [How secure are passwords stored in Chrome or Firefox?](https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome)
 * [2024-03-22, 16:02:20](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming) - [Fun Friday: what got you into programming?](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming)
 * [2024-03-22, 13:15:02](https://lobste.rs/s/ea0sb0/eio_1_0_release_introducing_new_effects) - [Eio 1.0 Release: Introducing a new Effects-Based I/O Library for OCaml](https://tarides.com/blog/2024-03-20-eio-1-0-release-introducing-a-new-effects-based-i-o-library-for-ocaml/)
-* [2024-03-22, 09:39:23](https://lobste.rs/s/p8cvx1/sqlite_schema_diagram_generator) - [SQLite schema diagram generator](https://gitlab.com/Screwtapello/sqlite-schema-diagram/)
 * [2024-03-21, 18:27:22](https://lobste.rs/s/x5immj/duckdb_as_new_jq) - [DuckDB as the New jq](https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/)
 
 ## [Archives](archives/index.md)
