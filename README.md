@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-24, 13:32:05](https://lobste.rs/s/dikqa1/condvars_atomics_do_not_mix) - [Condvars and atomics do not mix](https://zeux.io/2024/03/23/condvars-atomic/)
+* [2024-03-24, 13:30:27](https://lobste.rs/s/ipmtbv/asak_cross_platform_audio_recording) - [asak: a cross-platform audio recording/playback CLI tool with TUI, written in Rust](https://github.com/chaosprint/asak)
 * [2024-03-24, 08:56:20](https://lobste.rs/s/qmyxpw/texpresso_live_rendering_error) - [TeXpresso: live rendering and error reporting for LaTeX](https://github.com/let-def/texpresso)
 * [2024-03-23, 18:21:03](https://lobste.rs/s/wx0ykm/styledown_is_simple_markup_language_for) - [Styledown is a simple markup language for representing styled text](https://pkg.go.dev/src.elv.sh@master/pkg/ui/styledown)
 * [2024-03-23, 17:48:05](https://lobste.rs/s/ucirlx/lapdev_self_hosted_remote_dev) - [lapdev: Self-Hosted Remote Dev Environment](https://github.com/lapce/lapdev)
@@ -19,11 +21,9 @@
 * [2024-03-22, 20:14:47](https://lobste.rs/s/zwemnj/nix_planet) - [Nix The Planet](https://m.youtube.com/watch?v=6iviTZfiLGU)
 * [2024-03-22, 19:47:58](https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome) - [How secure are passwords stored in Chrome or Firefox?](https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome)
 * [2024-03-22, 16:02:20](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming) - [Fun Friday: what got you into programming?](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming)
-* [2024-03-22, 13:30:21](https://lobste.rs/s/bt5fmk/smt_ultimate_lcd_spi_interface) - [SMT and the ultimate LCD-SPI interface](https://tomscii.sig7.se/2024/03/SMT-and-the-ultimate-LCD-SPI-interface)
 * [2024-03-22, 13:15:02](https://lobste.rs/s/ea0sb0/eio_1_0_release_introducing_new_effects) - [Eio 1.0 Release: Introducing a new Effects-Based I/O Library for OCaml](https://tarides.com/blog/2024-03-20-eio-1-0-release-introducing-a-new-effects-based-i-o-library-for-ocaml/)
 * [2024-03-22, 12:39:21](https://lobste.rs/s/dmbpks/decision_logs) - [Decision logs](https://vitonsky.net/blog/2024/03/20/decision-logs/)
 * [2024-03-22, 09:39:23](https://lobste.rs/s/p8cvx1/sqlite_schema_diagram_generator) - [SQLite schema diagram generator](https://gitlab.com/Screwtapello/sqlite-schema-diagram/)
-* [2024-03-22, 02:04:53](https://lobste.rs/s/hdmapz/picotron_is_fantasy_workstation) - [Picotron is a Fantasy Workstation](https://www.lexaloffle.com/picotron.php)
 * [2024-03-21, 18:27:22](https://lobste.rs/s/x5immj/duckdb_as_new_jq) - [DuckDB as the New jq](https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/)
 
 ## [Archives](archives/index.md)

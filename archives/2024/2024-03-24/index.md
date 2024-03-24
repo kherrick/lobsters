@@ -4,4 +4,6 @@
 
 ### [Archives](../../index.md) for [2024-03-24](index.md)
 
+* [2024-03-24, 13:32:05](https://lobste.rs/s/dikqa1/condvars_atomics_do_not_mix) - [Condvars and atomics do not mix](https://zeux.io/2024/03/23/condvars-atomic/)
+* [2024-03-24, 13:30:27](https://lobste.rs/s/ipmtbv/asak_cross_platform_audio_recording) - [asak: a cross-platform audio recording/playback CLI tool with TUI, written in Rust](https://github.com/chaosprint/asak)
 * [2024-03-24, 08:56:20](https://lobste.rs/s/qmyxpw/texpresso_live_rendering_error) - [TeXpresso: live rendering and error reporting for LaTeX](https://github.com/let-def/texpresso)
