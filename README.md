@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-24, 20:09:36](https://lobste.rs/s/fz1yv8/u_u_conundrum) - [The ü/ü Conundrum](https://unravelweb.dev/2024/02/12/the-u-u-conundrum/)
 * [2024-03-24, 14:38:56](https://lobste.rs/s/rznejf/failsafe_go_fault_tolerance_library_for) - [failsafe-go: A fault tolerance library for Go](https://failsafe-go.dev/)
 * [2024-03-24, 13:52:32](https://lobste.rs/s/3mvnjc/reactive_programming_without_functions) - [Reactive Programming without Functions](https://programming-journal.org/2024/8/11/)
 * [2024-03-24, 13:32:05](https://lobste.rs/s/dikqa1/condvars_atomics_do_not_mix) - [Condvars and atomics do not mix](https://zeux.io/2024/03/23/condvars-atomic/)
@@ -23,7 +24,6 @@
 * [2024-03-22, 19:47:58](https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome) - [How secure are passwords stored in Chrome or Firefox?](https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome)
 * [2024-03-22, 16:02:20](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming) - [Fun Friday: what got you into programming?](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming)
 * [2024-03-22, 13:15:02](https://lobste.rs/s/ea0sb0/eio_1_0_release_introducing_new_effects) - [Eio 1.0 Release: Introducing a new Effects-Based I/O Library for OCaml](https://tarides.com/blog/2024-03-20-eio-1-0-release-introducing-a-new-effects-based-i-o-library-for-ocaml/)
-* [2024-03-22, 09:39:23](https://lobste.rs/s/p8cvx1/sqlite_schema_diagram_generator) - [SQLite schema diagram generator](https://gitlab.com/Screwtapello/sqlite-schema-diagram/)
 * [2024-03-21, 18:27:22](https://lobste.rs/s/x5immj/duckdb_as_new_jq) - [DuckDB as the New jq](https://www.pgrs.net/2024/03/21/duckdb-as-the-new-jq/)
 
 ## [Archives](archives/index.md)
