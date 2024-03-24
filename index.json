@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-24, 13:52:32",
+      "https://lobste.rs/s/3mvnjc/reactive_programming_without_functions"
+    ],
+    [
+      "Reactive Programming without Functions",
+      "https://programming-journal.org/2024/8/11/"
+    ]
+  ],
+  [
+    [
       "2024-03-24, 13:32:05",
       "https://lobste.rs/s/dikqa1/condvars_atomics_do_not_mix"
     ],
@@ -217,16 +227,6 @@
     [
       "Eio 1.0 Release: Introducing a new Effects-Based I/O Library for OCaml",
       "https://tarides.com/blog/2024-03-20-eio-1-0-release-introducing-a-new-effects-based-i-o-library-for-ocaml/"
-    ]
-  ],
-  [
-    [
-      "2024-03-22, 12:39:21",
-      "https://lobste.rs/s/dmbpks/decision_logs"
-    ],
-    [
-      "Decision logs",
-      "https://vitonsky.net/blog/2024/03/20/decision-logs/"
     ]
   ],
   [
