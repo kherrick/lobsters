@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-24, 20:09:36",
+      "https://lobste.rs/s/fz1yv8/u_u_conundrum"
+    ],
+    [
+      "The ü/ü Conundrum",
+      "https://unravelweb.dev/2024/02/12/the-u-u-conundrum/"
+    ]
+  ],
+  [
+    [
       "2024-03-24, 14:38:56",
       "https://lobste.rs/s/rznejf/failsafe_go_fault_tolerance_library_for"
     ],
@@ -227,16 +237,6 @@
     [
       "Eio 1.0 Release: Introducing a new Effects-Based I/O Library for OCaml",
       "https://tarides.com/blog/2024-03-20-eio-1-0-release-introducing-a-new-effects-based-i-o-library-for-ocaml/"
-    ]
-  ],
-  [
-    [
-      "2024-03-22, 09:39:23",
-      "https://lobste.rs/s/p8cvx1/sqlite_schema_diagram_generator"
-    ],
-    [
-      "SQLite schema diagram generator",
-      "https://gitlab.com/Screwtapello/sqlite-schema-diagram/"
     ]
   ],
   [
