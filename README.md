@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-24, 14:38:56](https://lobste.rs/s/rznejf/failsafe_go_fault_tolerance_library_for) - [failsafe-go: A fault tolerance library for Go](https://failsafe-go.dev/)
 * [2024-03-24, 13:52:32](https://lobste.rs/s/3mvnjc/reactive_programming_without_functions) - [Reactive Programming without Functions](https://programming-journal.org/2024/8/11/)
 * [2024-03-24, 13:32:05](https://lobste.rs/s/dikqa1/condvars_atomics_do_not_mix) - [Condvars and atomics do not mix](https://zeux.io/2024/03/23/condvars-atomic/)
 * [2024-03-24, 13:30:27](https://lobste.rs/s/ipmtbv/asak_cross_platform_audio_recording) - [asak: a cross-platform audio recording/playback CLI tool with TUI, written in Rust](https://github.com/chaosprint/asak)
@@ -19,7 +20,6 @@
 * [2024-03-23, 05:03:19](https://lobste.rs/s/8loxs1/current_branch_git) - [The current branch in git](https://jvns.ca/blog/2024/03/22/the-current-branch-in-git/)
 * [2024-03-23, 00:48:55](https://lobste.rs/s/dac2to/post_quantum_cryptography_is_too_damn_big) - [Post-quantum cryptography is too damn big](https://dadrian.io/blog/posts/pqc-signatures-2024/)
 * [2024-03-22, 20:24:16](https://lobste.rs/s/bvucfk/claude_chatgpt_for_ad_hoc_sidequests) - [Claude and ChatGPT for ad-hoc sidequests](https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/)
-* [2024-03-22, 20:14:47](https://lobste.rs/s/zwemnj/nix_planet) - [Nix The Planet](https://m.youtube.com/watch?v=6iviTZfiLGU)
 * [2024-03-22, 19:47:58](https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome) - [How secure are passwords stored in Chrome or Firefox?](https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome)
 * [2024-03-22, 16:02:20](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming) - [Fun Friday: what got you into programming?](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming)
 * [2024-03-22, 13:15:02](https://lobste.rs/s/ea0sb0/eio_1_0_release_introducing_new_effects) - [Eio 1.0 Release: Introducing a new Effects-Based I/O Library for OCaml](https://tarides.com/blog/2024-03-20-eio-1-0-release-introducing-a-new-effects-based-i-o-library-for-ocaml/)
