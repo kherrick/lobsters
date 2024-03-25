@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
+* [2024-03-25, 11:47:34](https://lobste.rs/s/kapi9n/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kapi9n/what_are_you_doing_this_week)
 * [2024-03-25, 11:00:08](https://lobste.rs/s/9qemyj/symbolics_sunstone_development_plan) - [Symbolics Sunstone Development Plan (1987)](https://wiki.unix-haters.org/lib/exe/fetch.php?media=smbx:1987-sunstone.pdf)
 * [2024-03-25, 10:33:27](https://lobste.rs/s/z4gfr4/how_swiftui_view_lifecycle_identity_work) - [How the SwiftUI View Lifecycle and Identity work](https://doordash.engineering/2022/05/31/how-the-swiftui-view-lifecycle-and-identity-work/)
 * [2024-03-25, 09:36:54](https://lobste.rs/s/pklk7k/port_scanning_fleet_trying_put_out_fires) - [Port-scanning the fleet and trying to put out fires](http://rachelbythebay.com/w/2024/03/21/scan/)
