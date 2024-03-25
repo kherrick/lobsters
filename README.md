@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-25, 05:40:48](https://lobste.rs/s/xohsqg/c_left_arrow_operator) - [C++ left arrow operator <-](https://www.atnnn.com/p/operator-larrow/)
 * [2024-03-25, 02:49:09](https://lobste.rs/s/bobyau/how_does_spectre_work) - [How does Spectre work?](https://bvisness.me/spectre/)
 * [2024-03-25, 02:33:30](https://lobste.rs/s/7mfrco/elements_differentiable_programming) - [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606)
 * [2024-03-25, 00:05:38](https://lobste.rs/s/rsubd9/lezer) - [Lezer](https://marijnhaverbeke.nl/blog/lezer.html)
@@ -23,7 +24,6 @@
 * [2024-03-23, 08:05:01](https://lobste.rs/s/tjh7oy/cranelift_code_generation_comes_rust) - [Cranelift code generation comes to Rust](https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/)
 * [2024-03-23, 05:03:19](https://lobste.rs/s/8loxs1/current_branch_git) - [The current branch in git](https://jvns.ca/blog/2024/03/22/the-current-branch-in-git/)
 * [2024-03-22, 20:24:16](https://lobste.rs/s/bvucfk/claude_chatgpt_for_ad_hoc_sidequests) - [Claude and ChatGPT for ad-hoc sidequests](https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/)
-* [2024-03-22, 19:47:58](https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome) - [How secure are passwords stored in Chrome or Firefox?](https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome)
 * [2024-03-22, 16:02:20](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming) - [Fun Friday: what got you into programming?](https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming)
 
 ## [Archives](archives/index.md)
