@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-25, 20:36:12](https://lobste.rs/s/vw3cm4/technical_history_kubernetes) - [The Technical History of Kubernetes](https://medium.com/@briankgrant/the-technical-history-of-kubernetes-2fe1988b522a)
 * [2024-03-25, 19:20:03](https://lobste.rs/s/huqdo5/when_use_cute_names_descriptive_names) - [When to use cute names or descriptive names](https://ntietz.com/blog/when-to-use-cute-names-or-descriptive-names/)
 * [2024-03-25, 19:16:02](https://lobste.rs/s/wwgxzk/infinite_loops_are_ub_c) - [Infinite loops are UB in C++](https://hails.org/@hailey/112147785725190189)
 * [2024-03-25, 16:39:59](https://lobste.rs/s/hjwdfm/why_do_regexes_use_as_line_anchors) - [Why do regexes use `$` and `^` as line anchors?](https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
@@ -21,7 +22,6 @@
 * [2024-03-25, 06:30:11](https://lobste.rs/s/7wqfzj/what_why_how_containers) - [The What, Why and How of Containers](https://www.annwan.me/computers/what-why-how-containers/)
 * [2024-03-25, 06:28:40](https://lobste.rs/s/hl5gkk/why_choose_async_await_over_threads) - [Why choose async/await over threads?](https://notgull.net/why-not-threads/)
 * [2024-03-25, 05:40:48](https://lobste.rs/s/xohsqg/c_left_arrow_operator) - [C++ left arrow operator <-](https://www.atnnn.com/p/operator-larrow/)
-* [2024-03-25, 02:33:30](https://lobste.rs/s/7mfrco/elements_differentiable_programming) - [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606)
 * [2024-03-25, 00:05:38](https://lobste.rs/s/rsubd9/lezer) - [Lezer](https://marijnhaverbeke.nl/blog/lezer.html)
 * [2024-03-24, 22:30:53](https://lobste.rs/s/qoccbl/bash_vs_fish_vs_zsh_vs_nushell) - [Bash vs Fish vs Zsh vs Nushell?](https://lobste.rs/s/qoccbl/bash_vs_fish_vs_zsh_vs_nushell)
 * [2024-03-24, 20:09:36](https://lobste.rs/s/fz1yv8/u_u_conundrum) - [The ü/ü Conundrum](https://unravelweb.dev/2024/02/12/the-u-u-conundrum/)
