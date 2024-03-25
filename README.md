@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-25, 08:14:44](https://lobste.rs/s/ldocq6/gnu_emacs_29_3_released_fix_security) - [GNU emacs 29.3 released to fix security issues](https://seclists.org/oss-sec/2024/q1/246)
 * [2024-03-25, 07:54:08](https://lobste.rs/s/ade5vx/radios_how_do_they_work) - [Radios, how do they work?](https://lcamtuf.substack.com/p/radios-how-do-they-work)
 * [2024-03-25, 06:48:23](https://lobste.rs/s/9m9tsh/linux_crisis_tools) - [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
 * [2024-03-25, 06:30:11](https://lobste.rs/s/7wqfzj/what_why_how_containers) - [The What, Why and How of Containers](https://www.annwan.me/computers/what-why-how-containers/)
@@ -23,7 +24,6 @@
 * [2024-03-23, 13:02:36](https://lobste.rs/s/habq4f/unexplanations_sql_is_syntactic_sugar) - [Unexplanations: sql is syntactic sugar for relational algebra](https://www.scattered-thoughts.net/writing/unexplanations-sql-is-syntactic-sugar-for-relational-algebra/)
 * [2024-03-23, 11:37:09](https://lobste.rs/s/g2enwk/twentysix_year_old_redhat_5_2_on_qemu_i386) - [Twentysix year old RedHat 5.2 on QEMU i386](https://box.matto.nl/twentysix-year-old-redhat-52-on-qemu-i386.html)
 * [2024-03-23, 10:40:07](https://lobste.rs/s/rlnvdh/vim_is_not_about_speed) - [vim is not about speed](https://levelup.gitconnected.com/vim-is-not-about-speed-88968ae4283c)
-* [2024-03-23, 09:52:13](https://lobste.rs/s/krdrno/redesigning_oltp_for_new_order_magnitude) - [Redesigning OLTP for a New Order of Magnitude](https://www.infoq.com/presentations/redesign-oltp/)
 * [2024-03-23, 08:05:01](https://lobste.rs/s/tjh7oy/cranelift_code_generation_comes_rust) - [Cranelift code generation comes to Rust](https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/)
 
 ## [Archives](archives/index.md)

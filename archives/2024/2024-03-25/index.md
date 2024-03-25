@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
+* [2024-03-25, 08:14:44](https://lobste.rs/s/ldocq6/gnu_emacs_29_3_released_fix_security) - [GNU emacs 29.3 released to fix security issues](https://seclists.org/oss-sec/2024/q1/246)
 * [2024-03-25, 07:54:08](https://lobste.rs/s/ade5vx/radios_how_do_they_work) - [Radios, how do they work?](https://lcamtuf.substack.com/p/radios-how-do-they-work)
 * [2024-03-25, 06:48:23](https://lobste.rs/s/9m9tsh/linux_crisis_tools) - [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
 * [2024-03-25, 06:30:11](https://lobste.rs/s/7wqfzj/what_why_how_containers) - [The What, Why and How of Containers](https://www.annwan.me/computers/what-why-how-containers/)
