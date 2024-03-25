@@ -3,7 +3,7 @@
 * [2024-03-25, 02:49:09](https://lobste.rs/s/bobyau/how_does_spectre_work) - [How does Spectre work?](https://bvisness.me/spectre/)
 * [2024-03-25, 02:33:30](https://lobste.rs/s/7mfrco/elements_differentiable_programming) - [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606)
 * [2024-03-25, 00:05:38](https://lobste.rs/s/rsubd9/lezer) - [Lezer](https://marijnhaverbeke.nl/blog/lezer.html)
-* [2024-03-24, 23:31:21](https://lobste.rs/s/ozs2lw/poorly_classified_data_how_internet) - [POORLY CLASSIFIED DATA: How the Internet became searchable](https://www.youtube.com/watch?v=d149l7SLLXA)
+* [2024-03-24, 23:31:21](https://lobste.rs/s/ozs2lw/poorly_classified_data_how_internet) - [Poorly Classified Data: How the Internet became searchable](https://www.youtube.com/watch?v=d149l7SLLXA)
 * [2024-03-24, 22:42:16](https://lobste.rs/s/19f4ox/pschess_chess_engine_postscript) - [PSChess - A Chess Engine in PostScript](https://seriot.ch/projects/pschess.html)
 * [2024-03-24, 22:30:53](https://lobste.rs/s/qoccbl/bash_vs_fish_vs_zsh_vs_nushell) - [Bash vs Fish vs Zsh vs Nushell?](https://lobste.rs/s/qoccbl/bash_vs_fish_vs_zsh_vs_nushell)
 * [2024-03-24, 20:09:36](https://lobste.rs/s/fz1yv8/u_u_conundrum) - [The ü/ü Conundrum](https://unravelweb.dev/2024/02/12/the-u-u-conundrum/)
