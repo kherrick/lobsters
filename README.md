@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-25, 14:20:08](https://lobste.rs/s/qtokfw/semgrep_autofixes_using_llms) - [Semgrep: AutoFixes using LLMs](https://choly.ca/post/semgrep-autofix-llm/)
 * [2024-03-25, 13:56:29](https://lobste.rs/s/tgr4xb/dogma) - [Dogma](https://dogma-lang.org/)
 * [2024-03-25, 12:26:26](https://lobste.rs/s/vrhiti/bump_allocation_up_down) - [Bump Allocation: Up or Down?](https://coredumped.dev/2024/03/25/bump-allocation-up-or-down/)
 * [2024-03-25, 11:56:04](https://lobste.rs/s/bfrnah/context_missing_feature_programming) - [Context: The Missing Feature of Programming Languages](https://medium.com/source-and-buggy/context-the-missing-feature-of-programming-languages-7c1095fe8d32)
@@ -22,7 +23,6 @@
 * [2024-03-24, 22:30:53](https://lobste.rs/s/qoccbl/bash_vs_fish_vs_zsh_vs_nushell) - [Bash vs Fish vs Zsh vs Nushell?](https://lobste.rs/s/qoccbl/bash_vs_fish_vs_zsh_vs_nushell)
 * [2024-03-24, 20:09:36](https://lobste.rs/s/fz1yv8/u_u_conundrum) - [The ü/ü Conundrum](https://unravelweb.dev/2024/02/12/the-u-u-conundrum/)
 * [2024-03-24, 14:38:56](https://lobste.rs/s/rznejf/failsafe_go_fault_tolerance_library_for) - [failsafe-go: A fault tolerance library for Go](https://failsafe-go.dev/)
-* [2024-03-24, 13:52:32](https://lobste.rs/s/3mvnjc/reactive_programming_without_functions) - [Reactive Programming without Functions](https://programming-journal.org/2024/8/11/)
 * [2024-03-24, 13:30:27](https://lobste.rs/s/ipmtbv/asak_cross_platform_audio_recording) - [asak: a cross-platform audio recording/playback CLI tool with TUI, written in Rust](https://github.com/chaosprint/asak)
 * [2024-03-24, 08:56:20](https://lobste.rs/s/qmyxpw/texpresso_live_rendering_error) - [TeXpresso: live rendering and error reporting for LaTeX](https://github.com/let-def/texpresso)
 
