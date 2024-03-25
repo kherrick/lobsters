@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-25, 08:49:05](https://lobste.rs/s/72pzqn/guillermo_rauch_vercel_front_end_cloud) - [Guillermo Rauch - Vercel, The Front End Cloud](https://www.devtools.fm/episode/91?view=TRANSCRIPT)
 * [2024-03-25, 08:38:23](https://lobste.rs/s/4a7sxq/all_you_need_is_wide_events_not_metrics) - [All you need is Wide Events, not “Metrics, Logs and Traces”](https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics)
 * [2024-03-25, 08:34:59](https://lobste.rs/s/cjjyha/tcl_tk_9_0b1_released) - [Tcl/Tk 9.0b1 released](https://www.tcl.tk/software/tcltk/9.0.html)
 * [2024-03-25, 08:14:44](https://lobste.rs/s/ldocq6/gnu_emacs_29_3_released_fix_security) - [GNU emacs 29.3 released to fix security issues](https://seclists.org/oss-sec/2024/q1/246)
@@ -20,7 +21,6 @@
 * [2024-03-24, 13:32:05](https://lobste.rs/s/dikqa1/condvars_atomics_do_not_mix) - [Condvars and atomics do not mix](https://zeux.io/2024/03/23/condvars-atomic/)
 * [2024-03-24, 13:30:27](https://lobste.rs/s/ipmtbv/asak_cross_platform_audio_recording) - [asak: a cross-platform audio recording/playback CLI tool with TUI, written in Rust](https://github.com/chaosprint/asak)
 * [2024-03-24, 08:56:20](https://lobste.rs/s/qmyxpw/texpresso_live_rendering_error) - [TeXpresso: live rendering and error reporting for LaTeX](https://github.com/let-def/texpresso)
-* [2024-03-23, 18:21:03](https://lobste.rs/s/wx0ykm/styledown_is_simple_markup_language_for) - [Styledown is a simple markup language for representing styled text](https://pkg.go.dev/src.elv.sh@master/pkg/ui/styledown)
 * [2024-03-23, 17:48:05](https://lobste.rs/s/ucirlx/lapdev_self_hosted_remote_dev) - [lapdev: Self-Hosted Remote Dev Environment](https://github.com/lapce/lapdev)
 * [2024-03-23, 16:08:16](https://lobste.rs/s/j7tiry/why_hell_is_your_kubernetes_api_public) - [Why the hell is your Kubernetes API public?](https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane)
 * [2024-03-23, 10:40:07](https://lobste.rs/s/rlnvdh/vim_is_not_about_speed) - [vim is not about speed](https://levelup.gitconnected.com/vim-is-not-about-speed-88968ae4283c)
