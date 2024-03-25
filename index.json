@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-25, 16:09:36",
+      "https://lobste.rs/s/u0vrju/ason_altscript"
+    ],
+    [
+      "ASON AltScript",
+      "https://altscript.com/"
+    ]
+  ],
+  [
+    [
       "2024-03-25, 15:28:30",
       "https://lobste.rs/s/gykzqr/web_never_was"
     ],
@@ -227,16 +237,6 @@
     [
       "failsafe-go: A fault tolerance library for Go",
       "https://failsafe-go.dev/"
-    ]
-  ],
-  [
-    [
-      "2024-03-24, 13:30:27",
-      "https://lobste.rs/s/ipmtbv/asak_cross_platform_audio_recording"
-    ],
-    [
-      "asak: a cross-platform audio recording/playback CLI tool with TUI, written in Rust",
-      "https://github.com/chaosprint/asak"
     ]
   ],
   [
