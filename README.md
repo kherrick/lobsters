@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-25, 15:28:30](https://lobste.rs/s/gykzqr/web_never_was) - [The Web That Never Was](https://www.youtube.com/watch?v=9CSjlZeqKOc)
 * [2024-03-25, 14:39:46](https://lobste.rs/s/tfxrkf/interval_parsing_grammars_for_file) - [Interval Parsing Grammars for File Format Parsing](https://dl.acm.org/doi/pdf/10.1145/3591264)
 * [2024-03-25, 14:20:08](https://lobste.rs/s/qtokfw/semgrep_autofixes_using_llms) - [Semgrep: AutoFixes using LLMs](https://choly.ca/post/semgrep-autofix-llm/)
 * [2024-03-25, 13:56:29](https://lobste.rs/s/tgr4xb/dogma) - [Dogma](https://dogma-lang.org/)
@@ -16,7 +17,6 @@
 * [2024-03-25, 06:30:11](https://lobste.rs/s/7wqfzj/what_why_how_containers) - [The What, Why and How of Containers](https://www.annwan.me/computers/what-why-how-containers/)
 * [2024-03-25, 06:28:40](https://lobste.rs/s/hl5gkk/why_choose_async_await_over_threads) - [Why choose async/await over threads?](https://notgull.net/why-not-threads/)
 * [2024-03-25, 05:40:48](https://lobste.rs/s/xohsqg/c_left_arrow_operator) - [C++ left arrow operator <-](https://www.atnnn.com/p/operator-larrow/)
-* [2024-03-25, 02:49:09](https://lobste.rs/s/bobyau/how_does_spectre_work) - [How does Spectre work?](https://bvisness.me/spectre/)
 * [2024-03-25, 02:33:30](https://lobste.rs/s/7mfrco/elements_differentiable_programming) - [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606)
 * [2024-03-25, 00:05:38](https://lobste.rs/s/rsubd9/lezer) - [Lezer](https://marijnhaverbeke.nl/blog/lezer.html)
 * [2024-03-24, 22:42:16](https://lobste.rs/s/19f4ox/pschess_chess_engine_postscript) - [PSChess - A Chess Engine in PostScript](https://seriot.ch/projects/pschess.html)
