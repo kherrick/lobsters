@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-25, 19:20:03",
+      "https://lobste.rs/s/huqdo5/when_use_cute_names_descriptive_names"
+    ],
+    [
+      "When to use cute names or descriptive names",
+      "https://ntietz.com/blog/when-to-use-cute-names-or-descriptive-names/"
+    ]
+  ],
+  [
+    [
       "2024-03-25, 19:16:02",
       "https://lobste.rs/s/wwgxzk/infinite_loops_are_ub_c"
     ],
@@ -17,16 +27,6 @@
     [
       "Why do regexes use `$` and `^` as line anchors?",
       "https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/"
-    ]
-  ],
-  [
-    [
-      "2024-03-25, 16:17:53",
-      "https://lobste.rs/s/dqlzld/case_leaky_goroutine"
-    ],
-    [
-      "The Case Of A Leaky Goroutine",
-      "https://brainbaking.com/post/2024/03/the-case-of-a-leaky-goroutine/"
     ]
   ],
   [
