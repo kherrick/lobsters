@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-25, 07:54:08](https://lobste.rs/s/ade5vx/radios_how_do_they_work) - [Radios, how do they work?](https://lcamtuf.substack.com/p/radios-how-do-they-work)
 * [2024-03-25, 06:48:23](https://lobste.rs/s/9m9tsh/linux_crisis_tools) - [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
 * [2024-03-25, 06:30:11](https://lobste.rs/s/7wqfzj/what_why_how_containers) - [The What, Why and How of Containers](https://www.annwan.me/computers/what-why-how-containers/)
 * [2024-03-25, 06:28:40](https://lobste.rs/s/hl5gkk/why_choose_async_await_over_threads) - [Why choose async/await over threads?](https://notgull.net/why-not-threads/)
@@ -24,7 +25,6 @@
 * [2024-03-23, 10:40:07](https://lobste.rs/s/rlnvdh/vim_is_not_about_speed) - [vim is not about speed](https://levelup.gitconnected.com/vim-is-not-about-speed-88968ae4283c)
 * [2024-03-23, 09:52:13](https://lobste.rs/s/krdrno/redesigning_oltp_for_new_order_magnitude) - [Redesigning OLTP for a New Order of Magnitude](https://www.infoq.com/presentations/redesign-oltp/)
 * [2024-03-23, 08:05:01](https://lobste.rs/s/tjh7oy/cranelift_code_generation_comes_rust) - [Cranelift code generation comes to Rust](https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/)
-* [2024-03-23, 05:03:19](https://lobste.rs/s/8loxs1/current_branch_git) - [The current branch in git](https://jvns.ca/blog/2024/03/22/the-current-branch-in-git/)
 
 ## [Archives](archives/index.md)
 
