@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-25, 00:05:38",
+      "https://lobste.rs/s/rsubd9/lezer"
+    ],
+    [
+      "Lezer",
+      "https://marijnhaverbeke.nl/blog/lezer.html"
+    ]
+  ],
+  [
+    [
       "2024-03-24, 23:31:21",
       "https://lobste.rs/s/ozs2lw/poorly_classified_data_how_internet"
     ],
@@ -137,16 +147,6 @@
     [
       "Unexplanations: sql is syntactic sugar for relational algebra",
       "https://www.scattered-thoughts.net/writing/unexplanations-sql-is-syntactic-sugar-for-relational-algebra/"
-    ]
-  ],
-  [
-    [
-      "2024-03-23, 11:47:32",
-      "https://lobste.rs/s/vftpzq/multi_tenant_mqtt_broker"
-    ],
-    [
-      "Multi Tenant MQTT broker",
-      "https://www.hardill.me.uk/wordpress/2024/03/23/multi-tenant-mqtt-broker/"
     ]
   ],
   [
