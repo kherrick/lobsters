@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-25, 22:58:21](https://lobste.rs/s/gyixju/google_s_first_tensor_processing_unit) - [Google's First Tensor Processing Unit - Architecture](https://thechipletter.substack.com/p/googles-first-tpu-architecture)
 * [2024-03-25, 22:50:41](https://lobste.rs/s/ld4l8t/how_complain) - [How to complain](https://outerproduct.net/trivial/2024-03-25_complain.html)
 * [2024-03-25, 22:06:39](https://lobste.rs/s/izidoo/poppy_new_bloom_filter_format_open_source) - [Poppy a new Bloom filter format and open source project](https://www.misp-project.org/2024/03/25/Poppy-a-new-bloom-filter-format-and-project.html/)
 * [2024-03-25, 20:44:32](https://lobste.rs/s/4rxjck/kgl_query_language_for_exploring) - [KGL: A query language for exploring knowledge graphs](https://github.com/capjamesg/knowledge-graph-language)
@@ -20,7 +21,6 @@
 * [2024-03-25, 08:14:44](https://lobste.rs/s/ldocq6/gnu_emacs_29_3_released_fix_security) - [GNU emacs 29.3 released to fix security issues](https://seclists.org/oss-sec/2024/q1/246)
 * [2024-03-25, 07:54:08](https://lobste.rs/s/ade5vx/radios_how_do_they_work) - [Radios, how do they work?](https://lcamtuf.substack.com/p/radios-how-do-they-work)
 * [2024-03-25, 06:48:23](https://lobste.rs/s/9m9tsh/linux_crisis_tools) - [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
-* [2024-03-25, 06:30:11](https://lobste.rs/s/7wqfzj/what_why_how_containers) - [The What, Why and How of Containers](https://www.annwan.me/computers/what-why-how-containers/)
 * [2024-03-25, 06:28:40](https://lobste.rs/s/hl5gkk/why_choose_async_await_over_threads) - [Why choose async/await over threads?](https://notgull.net/why-not-threads/)
 * [2024-03-25, 05:40:48](https://lobste.rs/s/xohsqg/c_left_arrow_operator) - [C++ left arrow operator <-](https://www.atnnn.com/p/operator-larrow/)
 * [2024-03-24, 22:30:53](https://lobste.rs/s/qoccbl/bash_vs_fish_vs_zsh_vs_nushell) - [Bash vs Fish vs Zsh vs Nushell?](https://lobste.rs/s/qoccbl/bash_vs_fish_vs_zsh_vs_nushell)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
+* [2024-03-25, 22:58:21](https://lobste.rs/s/gyixju/google_s_first_tensor_processing_unit) - [Google's First Tensor Processing Unit - Architecture](https://thechipletter.substack.com/p/googles-first-tpu-architecture)
 * [2024-03-25, 22:50:41](https://lobste.rs/s/ld4l8t/how_complain) - [How to complain](https://outerproduct.net/trivial/2024-03-25_complain.html)
 * [2024-03-25, 22:06:39](https://lobste.rs/s/izidoo/poppy_new_bloom_filter_format_open_source) - [Poppy a new Bloom filter format and open source project](https://www.misp-project.org/2024/03/25/Poppy-a-new-bloom-filter-format-and-project.html/)
 * [2024-03-25, 20:44:32](https://lobste.rs/s/4rxjck/kgl_query_language_for_exploring) - [KGL: A query language for exploring knowledge graphs](https://github.com/capjamesg/knowledge-graph-language)
