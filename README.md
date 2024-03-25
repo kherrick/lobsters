@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-25, 00:05:38](https://lobste.rs/s/rsubd9/lezer) - [Lezer](https://marijnhaverbeke.nl/blog/lezer.html)
 * [2024-03-24, 23:31:21](https://lobste.rs/s/ozs2lw/poorly_classified_data_how_internet) - [POORLY CLASSIFIED DATA: How the Internet became searchable](https://www.youtube.com/watch?v=d149l7SLLXA)
 * [2024-03-24, 22:42:16](https://lobste.rs/s/19f4ox/pschess_chess_engine_postscript) - [PSChess - A Chess Engine in PostScript](https://seriot.ch/projects/pschess.html)
 * [2024-03-24, 22:30:53](https://lobste.rs/s/qoccbl/bash_vs_fish_vs_zsh_vs_nushell) - [Bash vs Fish vs Zsh vs Nushell?](https://lobste.rs/s/qoccbl/bash_vs_fish_vs_zsh_vs_nushell)
@@ -14,7 +15,6 @@
 * [2024-03-23, 16:08:16](https://lobste.rs/s/j7tiry/why_hell_is_your_kubernetes_api_public) - [Why the hell is your Kubernetes API public?](https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane)
 * [2024-03-23, 15:24:28](https://lobste.rs/s/vphrm3/grep_by_example_interactive_guide) - [Grep by example: Interactive guide](https://antonz.org/grep-by-example/)
 * [2024-03-23, 13:02:36](https://lobste.rs/s/habq4f/unexplanations_sql_is_syntactic_sugar) - [Unexplanations: sql is syntactic sugar for relational algebra](https://www.scattered-thoughts.net/writing/unexplanations-sql-is-syntactic-sugar-for-relational-algebra/)
-* [2024-03-23, 11:47:32](https://lobste.rs/s/vftpzq/multi_tenant_mqtt_broker) - [Multi Tenant MQTT broker](https://www.hardill.me.uk/wordpress/2024/03/23/multi-tenant-mqtt-broker/)
 * [2024-03-23, 11:42:31](https://lobste.rs/s/cskaew/tiny_core_linux_on_thinkpad_x60s) - [Tiny Core Linux on a ThinkPad X60s](http://women-and-dreams.blogspot.com/2024/03/tiny-core-linux-on-thinkpad-x60s.html)
 * [2024-03-23, 11:37:09](https://lobste.rs/s/g2enwk/twentysix_year_old_redhat_5_2_on_qemu_i386) - [Twentysix year old RedHat 5.2 on QEMU i386](https://box.matto.nl/twentysix-year-old-redhat-52-on-qemu-i386.html)
 * [2024-03-23, 10:40:07](https://lobste.rs/s/rlnvdh/vim_is_not_about_speed) - [vim is not about speed](https://levelup.gitconnected.com/vim-is-not-about-speed-88968ae4283c)
