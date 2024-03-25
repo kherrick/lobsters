@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
+* [2024-03-25, 08:38:23](https://lobste.rs/s/4a7sxq/all_you_need_is_wide_events_not_metrics) - [All you need is Wide Events, not “Metrics, Logs and Traces”](https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics)
 * [2024-03-25, 08:34:59](https://lobste.rs/s/cjjyha/tcl_tk_9_0b1_released) - [Tcl/Tk 9.0b1 released](https://www.tcl.tk/software/tcltk/9.0.html)
 * [2024-03-25, 08:14:44](https://lobste.rs/s/ldocq6/gnu_emacs_29_3_released_fix_security) - [GNU emacs 29.3 released to fix security issues](https://seclists.org/oss-sec/2024/q1/246)
 * [2024-03-25, 07:54:08](https://lobste.rs/s/ade5vx/radios_how_do_they_work) - [Radios, how do they work?](https://lcamtuf.substack.com/p/radios-how-do-they-work)
