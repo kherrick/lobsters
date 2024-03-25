@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-25, 11:47:34",
+      "https://lobste.rs/s/kapi9n/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/kapi9n/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
       "2024-03-25, 11:00:08",
       "https://lobste.rs/s/9qemyj/symbolics_sunstone_development_plan"
     ],
@@ -237,16 +247,6 @@
     [
       "TeXpresso: live rendering and error reporting for LaTeX",
       "https://github.com/let-def/texpresso"
-    ]
-  ],
-  [
-    [
-      "2024-03-23, 17:48:05",
-      "https://lobste.rs/s/ucirlx/lapdev_self_hosted_remote_dev"
-    ],
-    [
-      "lapdev: Self-Hosted Remote Dev Environment",
-      "https://github.com/lapce/lapdev"
     ]
   ]
 ]
