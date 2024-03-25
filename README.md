@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-25, 22:50:41](https://lobste.rs/s/ld4l8t/how_complain) - [How to complain](https://outerproduct.net/trivial/2024-03-25_complain.html)
 * [2024-03-25, 22:06:39](https://lobste.rs/s/izidoo/poppy_new_bloom_filter_format_open_source) - [Poppy a new Bloom filter format and open source project](https://www.misp-project.org/2024/03/25/Poppy-a-new-bloom-filter-format-and-project.html/)
 * [2024-03-25, 20:44:32](https://lobste.rs/s/4rxjck/kgl_query_language_for_exploring) - [KGL: A query language for exploring knowledge graphs](https://github.com/capjamesg/knowledge-graph-language)
 * [2024-03-25, 19:20:03](https://lobste.rs/s/huqdo5/when_use_cute_names_descriptive_names) - [When to use cute names or descriptive names](https://ntietz.com/blog/when-to-use-cute-names-or-descriptive-names/)
@@ -11,7 +12,6 @@
 * [2024-03-25, 14:20:08](https://lobste.rs/s/qtokfw/semgrep_autofixes_using_llms) - [Semgrep: AutoFixes using LLMs](https://choly.ca/post/semgrep-autofix-llm/)
 * [2024-03-25, 13:56:29](https://lobste.rs/s/tgr4xb/dogma) - [Dogma](https://dogma-lang.org/)
 * [2024-03-25, 12:26:26](https://lobste.rs/s/vrhiti/bump_allocation_up_down) - [Bump Allocation: Up or Down?](https://coredumped.dev/2024/03/25/bump-allocation-up-or-down/)
-* [2024-03-25, 11:56:04](https://lobste.rs/s/bfrnah/context_missing_feature_programming) - [Context: The Missing Feature of Programming Languages](https://medium.com/source-and-buggy/context-the-missing-feature-of-programming-languages-7c1095fe8d32)
 * [2024-03-25, 11:47:34](https://lobste.rs/s/kapi9n/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kapi9n/what_are_you_doing_this_week)
 * [2024-03-25, 11:00:08](https://lobste.rs/s/9qemyj/symbolics_sunstone_development_plan) - [Symbolics Sunstone Development Plan (1987)](https://wiki.unix-haters.org/lib/exe/fetch.php?media=smbx:1987-sunstone.pdf)
 * [2024-03-25, 09:36:54](https://lobste.rs/s/pklk7k/port_scanning_fleet_trying_put_out_fires) - [Port-scanning the fleet and trying to put out fires](http://rachelbythebay.com/w/2024/03/21/scan/)
