@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
+* [2024-03-25, 14:39:46](https://lobste.rs/s/tfxrkf/interval_parsing_grammars_for_file) - [Interval Parsing Grammars for File Format Parsing](https://dl.acm.org/doi/pdf/10.1145/3591264)
 * [2024-03-25, 14:20:08](https://lobste.rs/s/qtokfw/semgrep_autofixes_using_llms) - [Semgrep: AutoFixes using LLMs](https://choly.ca/post/semgrep-autofix-llm/)
 * [2024-03-25, 13:56:29](https://lobste.rs/s/tgr4xb/dogma) - [Dogma](https://dogma-lang.org/)
 * [2024-03-25, 12:26:26](https://lobste.rs/s/vrhiti/bump_allocation_up_down) - [Bump Allocation: Up or Down?](https://coredumped.dev/2024/03/25/bump-allocation-up-or-down/)
