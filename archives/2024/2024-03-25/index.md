@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
+* [2024-03-25, 16:39:59](https://lobste.rs/s/hjwdfm/why_do_regexes_use_as_line_anchors) - [Why do regexes use `$` and `^` as line anchors?](https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
 * [2024-03-25, 16:21:50](https://lobste.rs/s/kox5pn/eu_commission_opens_dma_non_compliance) - [EU Commission opens DMA non-compliance investigation against Alphabet, Meta and Apple](https://ec.europa.eu/commission/presscorner/detail/en/IP_24_1689)
 * [2024-03-25, 16:17:53](https://lobste.rs/s/dqlzld/case_leaky_goroutine) - [The Case Of A Leaky Goroutine](https://brainbaking.com/post/2024/03/the-case-of-a-leaky-goroutine/)
 * [2024-03-25, 16:09:36](https://lobste.rs/s/u0vrju/ason_altscript) - [ASON AltScript](https://altscript.com/)

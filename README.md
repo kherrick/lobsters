@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-25, 16:39:59](https://lobste.rs/s/hjwdfm/why_do_regexes_use_as_line_anchors) - [Why do regexes use `$` and `^` as line anchors?](https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
 * [2024-03-25, 16:17:53](https://lobste.rs/s/dqlzld/case_leaky_goroutine) - [The Case Of A Leaky Goroutine](https://brainbaking.com/post/2024/03/the-case-of-a-leaky-goroutine/)
 * [2024-03-25, 16:09:36](https://lobste.rs/s/u0vrju/ason_altscript) - [ASON AltScript](https://altscript.com/)
 * [2024-03-25, 15:28:30](https://lobste.rs/s/gykzqr/web_never_was) - [The Web That Never Was](https://www.youtube.com/watch?v=9CSjlZeqKOc)
@@ -21,7 +22,6 @@
 * [2024-03-25, 05:40:48](https://lobste.rs/s/xohsqg/c_left_arrow_operator) - [C++ left arrow operator <-](https://www.atnnn.com/p/operator-larrow/)
 * [2024-03-25, 02:33:30](https://lobste.rs/s/7mfrco/elements_differentiable_programming) - [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606)
 * [2024-03-25, 00:05:38](https://lobste.rs/s/rsubd9/lezer) - [Lezer](https://marijnhaverbeke.nl/blog/lezer.html)
-* [2024-03-24, 22:42:16](https://lobste.rs/s/19f4ox/pschess_chess_engine_postscript) - [PSChess - A Chess Engine in PostScript](https://seriot.ch/projects/pschess.html)
 * [2024-03-24, 22:30:53](https://lobste.rs/s/qoccbl/bash_vs_fish_vs_zsh_vs_nushell) - [Bash vs Fish vs Zsh vs Nushell?](https://lobste.rs/s/qoccbl/bash_vs_fish_vs_zsh_vs_nushell)
 * [2024-03-24, 20:09:36](https://lobste.rs/s/fz1yv8/u_u_conundrum) - [The ü/ü Conundrum](https://unravelweb.dev/2024/02/12/the-u-u-conundrum/)
 * [2024-03-24, 08:56:20](https://lobste.rs/s/qmyxpw/texpresso_live_rendering_error) - [TeXpresso: live rendering and error reporting for LaTeX](https://github.com/let-def/texpresso)
