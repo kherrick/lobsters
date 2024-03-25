@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-25, 14:39:46",
+      "https://lobste.rs/s/tfxrkf/interval_parsing_grammars_for_file"
+    ],
+    [
+      "Interval Parsing Grammars for File Format Parsing",
+      "https://dl.acm.org/doi/pdf/10.1145/3591264"
+    ]
+  ],
+  [
+    [
       "2024-03-25, 14:20:08",
       "https://lobste.rs/s/qtokfw/semgrep_autofixes_using_llms"
     ],
@@ -57,16 +67,6 @@
     [
       "Symbolics Sunstone Development Plan (1987)",
       "https://wiki.unix-haters.org/lib/exe/fetch.php?media=smbx:1987-sunstone.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-03-25, 10:33:27",
-      "https://lobste.rs/s/z4gfr4/how_swiftui_view_lifecycle_identity_work"
-    ],
-    [
-      "How the SwiftUI View Lifecycle and Identity work",
-      "https://doordash.engineering/2022/05/31/how-the-swiftui-view-lifecycle-and-identity-work/"
     ]
   ],
   [
