@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
+* [2024-03-25, 19:20:03](https://lobste.rs/s/huqdo5/when_use_cute_names_descriptive_names) - [When to use cute names or descriptive names](https://ntietz.com/blog/when-to-use-cute-names-or-descriptive-names/)
 * [2024-03-25, 19:16:02](https://lobste.rs/s/wwgxzk/infinite_loops_are_ub_c) - [Infinite loops are UB in C++](https://hails.org/@hailey/112147785725190189)
 * [2024-03-25, 17:23:46](https://lobste.rs/s/lqftgn/how_write_better_guide_for_developers) - [How To Write Better - A Guide For Developers](https://emnudge.dev/blog/write-better)
 * [2024-03-25, 16:39:59](https://lobste.rs/s/hjwdfm/why_do_regexes_use_as_line_anchors) - [Why do regexes use `$` and `^` as line anchors?](https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
