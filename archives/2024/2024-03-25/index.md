@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
+* [2024-03-25, 09:36:54](https://lobste.rs/s/pklk7k/port_scanning_fleet_trying_put_out_fires) - [Port-scanning the fleet and trying to put out fires](http://rachelbythebay.com/w/2024/03/21/scan/)
 * [2024-03-25, 08:49:05](https://lobste.rs/s/72pzqn/guillermo_rauch_vercel_front_end_cloud) - [Guillermo Rauch - Vercel, The Front End Cloud](https://www.devtools.fm/episode/91?view=TRANSCRIPT)
 * [2024-03-25, 08:38:23](https://lobste.rs/s/4a7sxq/all_you_need_is_wide_events_not_metrics) - [All you need is Wide Events, not “Metrics, Logs and Traces”](https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics)
 * [2024-03-25, 08:34:59](https://lobste.rs/s/cjjyha/tcl_tk_9_0b1_released) - [Tcl/Tk 9.0b1 released](https://www.tcl.tk/software/tcltk/9.0.html)
