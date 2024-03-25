@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
+* [2024-03-25, 20:44:32](https://lobste.rs/s/4rxjck/kgl_query_language_for_exploring) - [KGL: A query language for exploring knowledge graphs](https://github.com/capjamesg/knowledge-graph-language)
 * [2024-03-25, 20:36:12](https://lobste.rs/s/vw3cm4/technical_history_kubernetes) - [The Technical History of Kubernetes](https://medium.com/@briankgrant/the-technical-history-of-kubernetes-2fe1988b522a)
 * [2024-03-25, 19:20:03](https://lobste.rs/s/huqdo5/when_use_cute_names_descriptive_names) - [When to use cute names or descriptive names](https://ntietz.com/blog/when-to-use-cute-names-or-descriptive-names/)
 * [2024-03-25, 19:16:02](https://lobste.rs/s/wwgxzk/infinite_loops_are_ub_c) - [Infinite loops are UB in C++](https://hails.org/@hailey/112147785725190189)
