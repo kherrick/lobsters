@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-25, 11:00:08](https://lobste.rs/s/9qemyj/symbolics_sunstone_development_plan) - [Symbolics Sunstone Development Plan (1987)](https://wiki.unix-haters.org/lib/exe/fetch.php?media=smbx:1987-sunstone.pdf)
 * [2024-03-25, 10:33:27](https://lobste.rs/s/z4gfr4/how_swiftui_view_lifecycle_identity_work) - [How the SwiftUI View Lifecycle and Identity work](https://doordash.engineering/2022/05/31/how-the-swiftui-view-lifecycle-and-identity-work/)
 * [2024-03-25, 09:36:54](https://lobste.rs/s/pklk7k/port_scanning_fleet_trying_put_out_fires) - [Port-scanning the fleet and trying to put out fires](http://rachelbythebay.com/w/2024/03/21/scan/)
 * [2024-03-25, 08:49:05](https://lobste.rs/s/72pzqn/guillermo_rauch_vercel_front_end_cloud) - [Guillermo Rauch - Vercel, The Front End Cloud](https://www.devtools.fm/episode/91?view=TRANSCRIPT)
@@ -24,7 +25,6 @@
 * [2024-03-24, 13:30:27](https://lobste.rs/s/ipmtbv/asak_cross_platform_audio_recording) - [asak: a cross-platform audio recording/playback CLI tool with TUI, written in Rust](https://github.com/chaosprint/asak)
 * [2024-03-24, 08:56:20](https://lobste.rs/s/qmyxpw/texpresso_live_rendering_error) - [TeXpresso: live rendering and error reporting for LaTeX](https://github.com/let-def/texpresso)
 * [2024-03-23, 17:48:05](https://lobste.rs/s/ucirlx/lapdev_self_hosted_remote_dev) - [lapdev: Self-Hosted Remote Dev Environment](https://github.com/lapce/lapdev)
-* [2024-03-23, 16:08:16](https://lobste.rs/s/j7tiry/why_hell_is_your_kubernetes_api_public) - [Why the hell is your Kubernetes API public?](https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane)
 
 ## [Archives](archives/index.md)
 
