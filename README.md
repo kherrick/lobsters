@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-25, 02:33:30](https://lobste.rs/s/7mfrco/elements_differentiable_programming) - [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606)
 * [2024-03-25, 00:05:38](https://lobste.rs/s/rsubd9/lezer) - [Lezer](https://marijnhaverbeke.nl/blog/lezer.html)
 * [2024-03-24, 23:31:21](https://lobste.rs/s/ozs2lw/poorly_classified_data_how_internet) - [POORLY CLASSIFIED DATA: How the Internet became searchable](https://www.youtube.com/watch?v=d149l7SLLXA)
 * [2024-03-24, 22:42:16](https://lobste.rs/s/19f4ox/pschess_chess_engine_postscript) - [PSChess - A Chess Engine in PostScript](https://seriot.ch/projects/pschess.html)
@@ -20,7 +21,6 @@
 * [2024-03-23, 10:40:07](https://lobste.rs/s/rlnvdh/vim_is_not_about_speed) - [vim is not about speed](https://levelup.gitconnected.com/vim-is-not-about-speed-88968ae4283c)
 * [2024-03-23, 09:52:13](https://lobste.rs/s/krdrno/redesigning_oltp_for_new_order_magnitude) - [Redesigning OLTP for a New Order of Magnitude](https://www.infoq.com/presentations/redesign-oltp/)
 * [2024-03-23, 08:05:01](https://lobste.rs/s/tjh7oy/cranelift_code_generation_comes_rust) - [Cranelift code generation comes to Rust](https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/)
-* [2024-03-23, 06:45:54](https://lobste.rs/s/cnufoe/building_containers_programmatically) - [Building containers programmatically, self-hosted](https://lobste.rs/s/cnufoe/building_containers_programmatically)
 * [2024-03-23, 05:03:19](https://lobste.rs/s/8loxs1/current_branch_git) - [The current branch in git](https://jvns.ca/blog/2024/03/22/the-current-branch-in-git/)
 * [2024-03-22, 20:24:16](https://lobste.rs/s/bvucfk/claude_chatgpt_for_ad_hoc_sidequests) - [Claude and ChatGPT for ad-hoc sidequests](https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/)
 * [2024-03-22, 19:47:58](https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome) - [How secure are passwords stored in Chrome or Firefox?](https://lobste.rs/s/qbfioe/how_secure_are_passwords_stored_chrome)
