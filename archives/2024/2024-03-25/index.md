@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
+* [2024-03-25, 13:56:29](https://lobste.rs/s/tgr4xb/dogma) - [Dogma](https://dogma-lang.org/)
 * [2024-03-25, 12:26:26](https://lobste.rs/s/vrhiti/bump_allocation_up_down) - [Bump Allocation: Up or Down?](https://coredumped.dev/2024/03/25/bump-allocation-up-or-down/)
 * [2024-03-25, 11:56:04](https://lobste.rs/s/bfrnah/context_missing_feature_programming) - [Context: The Missing Feature of Programming Languages](https://medium.com/source-and-buggy/context-the-missing-feature-of-programming-languages-7c1095fe8d32)
 * [2024-03-25, 11:47:34](https://lobste.rs/s/kapi9n/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kapi9n/what_are_you_doing_this_week)
