@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-25, 06:28:40",
+      "https://lobste.rs/s/hl5gkk/why_choose_async_await_over_threads"
+    ],
+    [
+      "Why choose async/await over threads?",
+      "https://notgull.net/why-not-threads/"
+    ]
+  ],
+  [
+    [
       "2024-03-25, 05:40:48",
       "https://lobste.rs/s/xohsqg/c_left_arrow_operator"
     ],
@@ -237,16 +247,6 @@
     [
       "Claude and ChatGPT for ad-hoc sidequests",
       "https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/"
-    ]
-  ],
-  [
-    [
-      "2024-03-22, 16:02:20",
-      "https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming"
-    ],
-    [
-      "Fun Friday: what got you into programming?",
-      "https://lobste.rs/s/hvob9g/fun_friday_what_got_you_into_programming"
     ]
   ]
 ]
