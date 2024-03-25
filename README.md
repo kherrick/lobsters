@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-25, 06:48:23](https://lobste.rs/s/9m9tsh/linux_crisis_tools) - [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
 * [2024-03-25, 06:30:11](https://lobste.rs/s/7wqfzj/what_why_how_containers) - [The What, Why and How of Containers](https://www.annwan.me/computers/what-why-how-containers/)
 * [2024-03-25, 06:28:40](https://lobste.rs/s/hl5gkk/why_choose_async_await_over_threads) - [Why choose async/await over threads?](https://notgull.net/why-not-threads/)
 * [2024-03-25, 05:40:48](https://lobste.rs/s/xohsqg/c_left_arrow_operator) - [C++ left arrow operator <-](https://www.atnnn.com/p/operator-larrow/)
@@ -24,7 +25,6 @@
 * [2024-03-23, 09:52:13](https://lobste.rs/s/krdrno/redesigning_oltp_for_new_order_magnitude) - [Redesigning OLTP for a New Order of Magnitude](https://www.infoq.com/presentations/redesign-oltp/)
 * [2024-03-23, 08:05:01](https://lobste.rs/s/tjh7oy/cranelift_code_generation_comes_rust) - [Cranelift code generation comes to Rust](https://lwn.net/SubscriberLink/964735/8b795f23495af1d4/)
 * [2024-03-23, 05:03:19](https://lobste.rs/s/8loxs1/current_branch_git) - [The current branch in git](https://jvns.ca/blog/2024/03/22/the-current-branch-in-git/)
-* [2024-03-22, 20:24:16](https://lobste.rs/s/bvucfk/claude_chatgpt_for_ad_hoc_sidequests) - [Claude and ChatGPT for ad-hoc sidequests](https://simonwillison.net/2024/Mar/22/claude-and-chatgpt-case-study/)
 
 ## [Archives](archives/index.md)
 

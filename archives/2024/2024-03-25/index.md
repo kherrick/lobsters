@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-25](index.md)
 
+* [2024-03-25, 06:48:23](https://lobste.rs/s/9m9tsh/linux_crisis_tools) - [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
 * [2024-03-25, 06:30:11](https://lobste.rs/s/7wqfzj/what_why_how_containers) - [The What, Why and How of Containers](https://www.annwan.me/computers/what-why-how-containers/)
 * [2024-03-25, 06:28:40](https://lobste.rs/s/hl5gkk/why_choose_async_await_over_threads) - [Why choose async/await over threads?](https://notgull.net/why-not-threads/)
 * [2024-03-25, 05:40:48](https://lobste.rs/s/xohsqg/c_left_arrow_operator) - [C++ left arrow operator <-](https://www.atnnn.com/p/operator-larrow/)
