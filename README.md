@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-26, 16:37:06](https://lobste.rs/s/8am6th/flipping_pages_analysis_new_linux) - [Flipping Pages: An analysis of a new Linux vulnerability in nf_tables and hardened exploitation techniques](https://pwning.tech/nftables/)
 * [2024-03-26, 15:31:36](https://lobste.rs/s/igkrfa/explorative_programming) - [Explorative Programming](https://blog.dziban.net/essays/explorative-programming)
 * [2024-03-26, 14:56:33](https://lobste.rs/s/fk5edv/requiring_esm_module_support_node_js) - [Requiring ESM module support in Node.js](https://joyeecheung.github.io/blog/2024/03/18/require-esm-in-node-js)
 * [2024-03-26, 14:08:02](https://lobste.rs/s/zag1bo/on_tech_debt_my_rust_library_is_now_cdo) - [On Tech Debt: My Rust Library is now a CDO](https://lucumr.pocoo.org/2024/3/26/rust-cdo/)
@@ -24,7 +25,6 @@
 * [2024-03-25, 06:48:23](https://lobste.rs/s/9m9tsh/linux_crisis_tools) - [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
 * [2024-03-25, 06:28:40](https://lobste.rs/s/hl5gkk/why_choose_async_await_over_threads) - [Why choose async/await over threads?](https://notgull.net/why-not-threads/)
 * [2024-03-25, 05:40:48](https://lobste.rs/s/xohsqg/c_left_arrow_operator) - [C++ left arrow operator <-](https://www.atnnn.com/p/operator-larrow/)
-* [2024-03-24, 22:30:53](https://lobste.rs/s/qoccbl/bash_vs_fish_vs_zsh_vs_nushell) - [Bash vs Fish vs Zsh vs Nushell?](https://lobste.rs/s/qoccbl/bash_vs_fish_vs_zsh_vs_nushell)
 
 ## [Archives](archives/index.md)
 
