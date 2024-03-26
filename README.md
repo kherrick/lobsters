@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-26, 14:08:02](https://lobste.rs/s/zag1bo/on_tech_debt_my_rust_library_is_now_cdo) - [On Tech Debt: My Rust Library is now a CDO](https://lucumr.pocoo.org/2024/3/26/rust-cdo/)
 * [2024-03-26, 12:07:45](https://lobste.rs/s/y28nva/42_parquet_zip_bomb_for_big_data_age) - [42.parquet – A Zip Bomb for the Big Data Age](https://duckdb.org/2024/03/26/42-parquet-a-zip-bomb-for-the-big-data-age.html)
 * [2024-03-26, 11:19:04](https://lobste.rs/s/s8s3mo/sega_saturn_architecture_practical) - [Sega Saturn Architecture: A Practical Analysis](https://www.copetti.org/writings/consoles/sega-saturn/)
 * [2024-03-26, 10:38:28](https://lobste.rs/s/hng5pe/how_meilisearch_updates_millions_vector) - [How Meilisearch Updates a Millions Vector Embeddings Database in Under a Minute](https://blog.kerollmops.com/how-meilisearch-updates-a-millions-vector-embeddings-database-in-under-a-minute)
@@ -13,7 +14,6 @@
 * [2024-03-25, 19:16:02](https://lobste.rs/s/wwgxzk/infinite_loops_are_ub_c) - [Infinite loops are UB in C++](https://hails.org/@hailey/112147785725190189)
 * [2024-03-25, 16:39:59](https://lobste.rs/s/hjwdfm/why_do_regexes_use_as_line_anchors) - [Why do regexes use `$` and `^` as line anchors?](https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
 * [2024-03-25, 15:28:30](https://lobste.rs/s/gykzqr/web_never_was) - [The Web That Never Was](https://www.youtube.com/watch?v=9CSjlZeqKOc)
-* [2024-03-25, 14:39:46](https://lobste.rs/s/tfxrkf/interval_parsing_grammars_for_file) - [Interval Parsing Grammars for File Format Parsing](https://dl.acm.org/doi/pdf/10.1145/3591264)
 * [2024-03-25, 14:20:08](https://lobste.rs/s/qtokfw/semgrep_autofixes_using_llms) - [Semgrep: AutoFixes using LLMs](https://choly.ca/post/semgrep-autofix-llm/)
 * [2024-03-25, 13:56:29](https://lobste.rs/s/tgr4xb/dogma) - [Dogma](https://dogma-lang.org/)
 * [2024-03-25, 12:26:26](https://lobste.rs/s/vrhiti/bump_allocation_up_down) - [Bump Allocation: Up or Down?](https://coredumped.dev/2024/03/25/bump-allocation-up-or-down/)
