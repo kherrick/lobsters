@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-03-26, 10:38:28](https://lobste.rs/s/hng5pe/how_meilisearch_updates_millions_vector) - [How Meilisearch Updates a Millions Vector Embeddings Database in Under a Minute](https://blog.kerollmops.com/how-meilisearch-updates-a-millions-vector-embeddings-database-in-under-a-minute)
 * [2024-03-26, 07:59:11](https://lobste.rs/s/nvgql5/cache_architecture_for_container) - [[Cache Architecture for] Container Loading in AWS Lambda](https://brooker.co.za/blog/2023/05/23/snapshot-loading.html)
 * [2024-03-26, 04:58:08](https://lobste.rs/s/aslfcs/intel_8088_processor_s_instruction) - [The Intel 8088 processor's instruction prefetch circuitry: a look inside](http://www.righto.com/2024/03/8088-prefetch-circuitry.html)
 * [2024-03-26, 04:55:33](https://lobste.rs/s/uzxbcf/designing_light_source_for_iris) - [Designing The Light Source for IRIS](https://www.bunniestudios.com/blog/?p=7035)
 * [2024-03-26, 03:35:34](https://lobste.rs/s/z5apdp/finding_needles_haystack_with_best_k) - [Finding Needles in a Haystack with Best-of-K](https://brooker.co.za/blog/2024/03/25/needles.html)
 * [2024-03-26, 00:50:49](https://lobste.rs/s/ddmaop/writing_gnome_apps_with_swift) - [Writing GNOME Apps with Swift](https://swift.org/blog/adwaita-swift/)
+* [2024-03-25, 22:58:21](https://lobste.rs/s/gyixju/google_s_first_tensor_processing_unit) - [Google's First Tensor Processing Unit - Architecture](https://thechipletter.substack.com/p/googles-first-tpu-architecture)
 * [2024-03-25, 22:50:41](https://lobste.rs/s/ld4l8t/how_complain) - [How to complain](https://outerproduct.net/trivial/2024-03-25_complain.html)
 * [2024-03-25, 20:44:32](https://lobste.rs/s/4rxjck/kgl_query_language_for_exploring) - [KGL: A query language for exploring knowledge graphs](https://github.com/capjamesg/knowledge-graph-language)
 * [2024-03-25, 19:20:03](https://lobste.rs/s/huqdo5/when_use_cute_names_descriptive_names) - [When to use cute names or descriptive names](https://ntietz.com/blog/when-to-use-cute-names-or-descriptive-names/)
