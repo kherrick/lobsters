@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-26, 17:51:01](https://lobste.rs/s/87zhmo/keepyourmouthshut_python_program_auto) - [KeepYourMouthShut - A Python program to auto-generate Podcasts](https://github.com/rajtilakjee/keepyourmouthshut)
 * [2024-03-26, 17:02:05](https://lobste.rs/s/d9ya8q/open_web_advocacy_recommendations_re) - [Open Web Advocacy Recommendations re: the Digital Markets Act](https://open-web-advocacy.org/blog/in-app-browsers-the-worst-erosion-of-user-choice-you-havent-heard-of/)
+* [2024-03-26, 16:55:50](https://lobste.rs/s/uf7dzy/asciimoji) - [ASCIImoji -  ʕっ•ᴥ•ʔっ](https://asciimoji.com/)
 * [2024-03-26, 16:46:47](https://lobste.rs/s/yzcxgj/radicle_sovereign_code_forge_built_on_git) - [Radicle: Sovereign code forge built on Git hits v1.0](https://radicle.xyz)
 * [2024-03-26, 16:37:06](https://lobste.rs/s/8am6th/flipping_pages_analysis_new_linux) - [Flipping Pages: An analysis of a new Linux vulnerability in nf_tables and hardened exploitation techniques](https://pwning.tech/nftables/)
 * [2024-03-26, 15:31:36](https://lobste.rs/s/igkrfa/explorative_programming) - [Explorative Programming](https://blog.dziban.net/essays/explorative-programming)
@@ -18,9 +20,7 @@
 * [2024-03-25, 20:44:32](https://lobste.rs/s/4rxjck/kgl_query_language_for_exploring) - [KGL: A query language for exploring knowledge graphs](https://github.com/capjamesg/knowledge-graph-language)
 * [2024-03-25, 19:16:02](https://lobste.rs/s/wwgxzk/infinite_loops_are_ub_c) - [Infinite loops are UB in C++](https://hails.org/@hailey/112147785725190189)
 * [2024-03-25, 16:39:59](https://lobste.rs/s/hjwdfm/why_do_regexes_use_as_line_anchors) - [Why do regexes use `$` and `^` as line anchors?](https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
-* [2024-03-25, 14:20:08](https://lobste.rs/s/qtokfw/semgrep_autofixes_using_llms) - [Semgrep: AutoFixes using LLMs](https://choly.ca/post/semgrep-autofix-llm/)
 * [2024-03-25, 12:26:26](https://lobste.rs/s/vrhiti/bump_allocation_up_down) - [Bump Allocation: Up or Down?](https://coredumped.dev/2024/03/25/bump-allocation-up-or-down/)
-* [2024-03-25, 11:47:34](https://lobste.rs/s/kapi9n/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kapi9n/what_are_you_doing_this_week)
 * [2024-03-25, 08:34:59](https://lobste.rs/s/cjjyha/tcl_tk_9_0b1_released) - [Tcl/Tk 9.0b1 released](https://www.tcl.tk/software/tcltk/9.0.html)
 * [2024-03-25, 06:48:23](https://lobste.rs/s/9m9tsh/linux_crisis_tools) - [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
 * [2024-03-25, 06:28:40](https://lobste.rs/s/hl5gkk/why_choose_async_await_over_threads) - [Why choose async/await over threads?](https://notgull.net/why-not-threads/)

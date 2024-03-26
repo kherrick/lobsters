@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-26](index.md)
 
+* [2024-03-26, 17:51:01](https://lobste.rs/s/87zhmo/keepyourmouthshut_python_program_auto) - [KeepYourMouthShut - A Python program to auto-generate Podcasts](https://github.com/rajtilakjee/keepyourmouthshut)
 * [2024-03-26, 17:02:05](https://lobste.rs/s/d9ya8q/open_web_advocacy_recommendations_re) - [Open Web Advocacy Recommendations re: the Digital Markets Act](https://open-web-advocacy.org/blog/in-app-browsers-the-worst-erosion-of-user-choice-you-havent-heard-of/)
+* [2024-03-26, 16:55:50](https://lobste.rs/s/uf7dzy/asciimoji) - [ASCIImoji -  ʕっ•ᴥ•ʔっ](https://asciimoji.com/)
 * [2024-03-26, 16:46:47](https://lobste.rs/s/yzcxgj/radicle_sovereign_code_forge_built_on_git) - [Radicle: Sovereign code forge built on Git hits v1.0](https://radicle.xyz)
 * [2024-03-26, 16:46:47](https://lobste.rs/s/yzcxgj/radicle_sovereign_code_forge_built_on_git) - [Radicle: Sovereign code forge built on Git hits v1.0](https://app.radicle.xyz)
 * [2024-03-26, 16:37:06](https://lobste.rs/s/8am6th/flipping_pages_analysis_new_linux) - [Flipping Pages: An analysis of a new Linux vulnerability in nf_tables and hardened exploitation techniques](https://pwning.tech/nftables/)
