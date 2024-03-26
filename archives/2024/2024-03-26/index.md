@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-26](index.md)
 
+* [2024-03-26, 10:38:28](https://lobste.rs/s/hng5pe/how_meilisearch_updates_millions_vector) - [How Meilisearch Updates a Millions Vector Embeddings Database in Under a Minute](https://blog.kerollmops.com/how-meilisearch-updates-a-millions-vector-embeddings-database-in-under-a-minute)
 * [2024-03-26, 07:59:11](https://lobste.rs/s/nvgql5/cache_architecture_for_container) - [[Cache Architecture for] Container Loading in AWS Lambda](https://brooker.co.za/blog/2023/05/23/snapshot-loading.html)
 * [2024-03-26, 04:58:08](https://lobste.rs/s/aslfcs/intel_8088_processor_s_instruction) - [The Intel 8088 processor's instruction prefetch circuitry: a look inside](http://www.righto.com/2024/03/8088-prefetch-circuitry.html)
 * [2024-03-26, 04:55:33](https://lobste.rs/s/uzxbcf/designing_light_source_for_iris) - [Designing The Light Source for IRIS](https://www.bunniestudios.com/blog/?p=7035)
