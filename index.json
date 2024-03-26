@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-26, 10:38:28",
+      "https://lobste.rs/s/hng5pe/how_meilisearch_updates_millions_vector"
+    ],
+    [
+      "How Meilisearch Updates a Millions Vector Embeddings Database in Under a Minute",
+      "https://blog.kerollmops.com/how-meilisearch-updates-a-millions-vector-embeddings-database-in-under-a-minute"
+    ]
+  ],
+  [
+    [
       "2024-03-26, 07:59:11",
       "https://lobste.rs/s/nvgql5/cache_architecture_for_container"
     ],
@@ -47,16 +57,6 @@
     [
       "Writing GNOME Apps with Swift",
       "https://swift.org/blog/adwaita-swift/"
-    ]
-  ],
-  [
-    [
-      "2024-03-25, 22:58:21",
-      "https://lobste.rs/s/gyixju/google_s_first_tensor_processing_unit"
-    ],
-    [
-      "Google's First Tensor Processing Unit - Architecture",
-      "https://thechipletter.substack.com/p/googles-first-tpu-architecture"
     ]
   ],
   [
