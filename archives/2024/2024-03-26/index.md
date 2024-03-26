@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-26](index.md)
 
+* [2024-03-26, 16:46:47](https://lobste.rs/s/yzcxgj/radicle_sovereign_code_forge_built_on_git) - [Radicle: Sovereign code forge built on Git hits v1.0](https://app.radicle.xyz)
 * [2024-03-26, 16:37:06](https://lobste.rs/s/8am6th/flipping_pages_analysis_new_linux) - [Flipping Pages: An analysis of a new Linux vulnerability in nf_tables and hardened exploitation techniques](https://pwning.tech/nftables/)
 * [2024-03-26, 15:31:36](https://lobste.rs/s/igkrfa/explorative_programming) - [Explorative Programming](https://blog.dziban.net/essays/explorative-programming)
 * [2024-03-26, 14:56:33](https://lobste.rs/s/fk5edv/requiring_esm_module_support_node_js) - [Requiring ESM module support in Node.js](https://joyeecheung.github.io/blog/2024/03/18/require-esm-in-node-js)

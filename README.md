@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-26, 16:46:47](https://lobste.rs/s/yzcxgj/radicle_sovereign_code_forge_built_on_git) - [Radicle: Sovereign code forge built on Git hits v1.0](https://app.radicle.xyz)
 * [2024-03-26, 16:37:06](https://lobste.rs/s/8am6th/flipping_pages_analysis_new_linux) - [Flipping Pages: An analysis of a new Linux vulnerability in nf_tables and hardened exploitation techniques](https://pwning.tech/nftables/)
 * [2024-03-26, 15:31:36](https://lobste.rs/s/igkrfa/explorative_programming) - [Explorative Programming](https://blog.dziban.net/essays/explorative-programming)
 * [2024-03-26, 14:56:33](https://lobste.rs/s/fk5edv/requiring_esm_module_support_node_js) - [Requiring ESM module support in Node.js](https://joyeecheung.github.io/blog/2024/03/18/require-esm-in-node-js)
@@ -18,7 +19,6 @@
 * [2024-03-25, 16:39:59](https://lobste.rs/s/hjwdfm/why_do_regexes_use_as_line_anchors) - [Why do regexes use `$` and `^` as line anchors?](https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
 * [2024-03-25, 15:28:30](https://lobste.rs/s/gykzqr/web_never_was) - [The Web That Never Was](https://www.youtube.com/watch?v=9CSjlZeqKOc)
 * [2024-03-25, 14:20:08](https://lobste.rs/s/qtokfw/semgrep_autofixes_using_llms) - [Semgrep: AutoFixes using LLMs](https://choly.ca/post/semgrep-autofix-llm/)
-* [2024-03-25, 13:56:29](https://lobste.rs/s/tgr4xb/dogma) - [Dogma](https://dogma-lang.org/)
 * [2024-03-25, 12:26:26](https://lobste.rs/s/vrhiti/bump_allocation_up_down) - [Bump Allocation: Up or Down?](https://coredumped.dev/2024/03/25/bump-allocation-up-or-down/)
 * [2024-03-25, 11:47:34](https://lobste.rs/s/kapi9n/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kapi9n/what_are_you_doing_this_week)
 * [2024-03-25, 08:34:59](https://lobste.rs/s/cjjyha/tcl_tk_9_0b1_released) - [Tcl/Tk 9.0b1 released](https://www.tcl.tk/software/tcltk/9.0.html)
