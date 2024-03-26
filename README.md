@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-26, 23:32:55](https://lobste.rs/s/hmiett/building_wopr_7x4090_ai_server) - [Building WOPR: A 7x4090 AI Server](https://www.mov-axbx.com/wopr/wopr_concept.html)
 * [2024-03-26, 23:03:56](https://lobste.rs/s/gjfym5/fixing_bug_pypy_s_incremental_gc) - [Fixing a Bug in PyPy's Incremental GC](https://www.pypy.org/posts/2024/03/fixing-bug-incremental-gc.html)
 * [2024-03-26, 22:51:45](https://lobste.rs/s/9xlbke/preventing_cross_service_udp_loops_quic) - [Preventing Cross-Service UDP Loops in QUIC](https://bughunters.google.com/blog/5960150648750080/preventing-cross-service-udp-loops-in-quic)
 * [2024-03-26, 22:37:24](https://lobste.rs/s/odq2h8/concept_pieces_for_graphical_editor) - [Concept Pieces for a Graphical Editor](https://joshleeb.com/posts/status-update-2024-mar.html)
-* [2024-03-26, 21:47:45](https://lobste.rs/s/p3yfuu/erasure_coding_versus_tail_latency) - [Erasure Coding versus Tail Latency](https://brooker.co.za/blog/2023/01/06/erasure.html)
 * [2024-03-26, 21:23:57](https://lobste.rs/s/fb5w7u/centerpiece_your_trusty_omnibox_search) - [Centerpiece – Your trusty omnibox search](https://github.com/friedow/centerpiece)
 * [2024-03-26, 20:07:58](https://lobste.rs/s/mmb4dl/optimizing_javascript_for_fun_for_profit) - [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
 * [2024-03-26, 17:51:01](https://lobste.rs/s/87zhmo/keepyourmouthshut_python_program_auto) - [KeepYourMouthShut - A Python program to auto-generate Podcasts](https://github.com/rajtilakjee/keepyourmouthshut)

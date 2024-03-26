@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-26](index.md)
 
+* [2024-03-26, 23:32:55](https://lobste.rs/s/hmiett/building_wopr_7x4090_ai_server) - [Building WOPR: A 7x4090 AI Server](https://www.mov-axbx.com/wopr/wopr_concept.html)
 * [2024-03-26, 23:03:56](https://lobste.rs/s/gjfym5/fixing_bug_pypy_s_incremental_gc) - [Fixing a Bug in PyPy's Incremental GC](https://www.pypy.org/posts/2024/03/fixing-bug-incremental-gc.html)
 * [2024-03-26, 22:51:45](https://lobste.rs/s/9xlbke/preventing_cross_service_udp_loops_quic) - [Preventing Cross-Service UDP Loops in QUIC](https://bughunters.google.com/blog/5960150648750080/preventing-cross-service-udp-loops-in-quic)
 * [2024-03-26, 22:37:24](https://lobste.rs/s/odq2h8/concept_pieces_for_graphical_editor) - [Concept Pieces for a Graphical Editor](https://joshleeb.com/posts/status-update-2024-mar.html)
