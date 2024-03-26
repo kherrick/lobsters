@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-26, 23:03:56](https://lobste.rs/s/gjfym5/fixing_bug_pypy_s_incremental_gc) - [Fixing a Bug in PyPy's Incremental GC](https://www.pypy.org/posts/2024/03/fixing-bug-incremental-gc.html)
 * [2024-03-26, 22:51:45](https://lobste.rs/s/9xlbke/preventing_cross_service_udp_loops_quic) - [Preventing Cross-Service UDP Loops in QUIC](https://bughunters.google.com/blog/5960150648750080/preventing-cross-service-udp-loops-in-quic)
 * [2024-03-26, 22:37:24](https://lobste.rs/s/odq2h8/concept_pieces_for_graphical_editor) - [Concept Pieces for a Graphical Editor](https://joshleeb.com/posts/status-update-2024-mar.html)
 * [2024-03-26, 21:47:45](https://lobste.rs/s/p3yfuu/erasure_coding_versus_tail_latency) - [Erasure Coding versus Tail Latency](https://brooker.co.za/blog/2023/01/06/erasure.html)
@@ -18,7 +19,6 @@
 * [2024-03-26, 10:38:28](https://lobste.rs/s/hng5pe/how_meilisearch_updates_millions_vector) - [How Meilisearch Updates a Millions Vector Embeddings Database in Under a Minute](https://blog.kerollmops.com/how-meilisearch-updates-a-millions-vector-embeddings-database-in-under-a-minute)
 * [2024-03-26, 07:59:11](https://lobste.rs/s/nvgql5/cache_architecture_for_container) - [[Cache Architecture for] Container Loading in AWS Lambda](https://brooker.co.za/blog/2023/05/23/snapshot-loading.html)
 * [2024-03-26, 04:55:33](https://lobste.rs/s/uzxbcf/designing_light_source_for_iris) - [Designing The Light Source for IRIS](https://www.bunniestudios.com/blog/?p=7035)
-* [2024-03-26, 03:35:34](https://lobste.rs/s/z5apdp/finding_needles_haystack_with_best_k) - [Finding Needles in a Haystack with Best-of-K](https://brooker.co.za/blog/2024/03/25/needles.html)
 * [2024-03-26, 00:50:49](https://lobste.rs/s/ddmaop/writing_gnome_apps_with_swift) - [Writing GNOME Apps with Swift](https://swift.org/blog/adwaita-swift/)
 * [2024-03-25, 22:50:41](https://lobste.rs/s/ld4l8t/how_complain) - [How to complain](https://outerproduct.net/trivial/2024-03-25_complain.html)
 * [2024-03-25, 20:44:32](https://lobste.rs/s/4rxjck/kgl_query_language_for_exploring) - [KGL: A query language for exploring knowledge graphs](https://github.com/capjamesg/knowledge-graph-language)
