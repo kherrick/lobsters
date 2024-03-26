@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-26, 22:51:45](https://lobste.rs/s/9xlbke/preventing_cross_service_udp_loops_quic) - [Preventing Cross-Service UDP Loops in QUIC](https://bughunters.google.com/blog/5960150648750080/preventing-cross-service-udp-loops-in-quic)
 * [2024-03-26, 22:37:24](https://lobste.rs/s/odq2h8/concept_pieces_for_graphical_editor) - [Concept Pieces for a Graphical Editor](https://joshleeb.com/posts/status-update-2024-mar.html)
 * [2024-03-26, 21:47:45](https://lobste.rs/s/p3yfuu/erasure_coding_versus_tail_latency) - [Erasure Coding versus Tail Latency](https://brooker.co.za/blog/2023/01/06/erasure.html)
 * [2024-03-26, 21:23:57](https://lobste.rs/s/fb5w7u/centerpiece_your_trusty_omnibox_search) - [Centerpiece – Your trusty omnibox search](https://github.com/friedow/centerpiece)
@@ -24,7 +25,6 @@
 * [2024-03-25, 19:16:02](https://lobste.rs/s/wwgxzk/infinite_loops_are_ub_c) - [Infinite loops are UB in C++](https://hails.org/@hailey/112147785725190189)
 * [2024-03-25, 16:39:59](https://lobste.rs/s/hjwdfm/why_do_regexes_use_as_line_anchors) - [Why do regexes use `$` and `^` as line anchors?](https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
 * [2024-03-25, 12:26:26](https://lobste.rs/s/vrhiti/bump_allocation_up_down) - [Bump Allocation: Up or Down?](https://coredumped.dev/2024/03/25/bump-allocation-up-or-down/)
-* [2024-03-25, 08:34:59](https://lobste.rs/s/cjjyha/tcl_tk_9_0b1_released) - [Tcl/Tk 9.0b1 released](https://www.tcl.tk/software/tcltk/9.0.html)
 
 ## [Archives](archives/index.md)
 
