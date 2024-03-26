@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-03-25, 23:42:32](https://lobste.rs/s/kxelcl/user_beware_fine_line_between_content) - [User Beware: The Fine Line Between Content And Code](https://hackaday.com/2024/03/25/user-beware-the-fine-line-between-content-and-code/)
+* [2024-03-26, 00:50:49](https://lobste.rs/s/ddmaop/writing_gnome_apps_with_swift) - [Writing GNOME Apps with Swift](https://swift.org/blog/adwaita-swift/)
 * [2024-03-25, 22:58:21](https://lobste.rs/s/gyixju/google_s_first_tensor_processing_unit) - [Google's First Tensor Processing Unit - Architecture](https://thechipletter.substack.com/p/googles-first-tpu-architecture)
 * [2024-03-25, 22:50:41](https://lobste.rs/s/ld4l8t/how_complain) - [How to complain](https://outerproduct.net/trivial/2024-03-25_complain.html)
 * [2024-03-25, 20:44:32](https://lobste.rs/s/4rxjck/kgl_query_language_for_exploring) - [KGL: A query language for exploring knowledge graphs](https://github.com/capjamesg/knowledge-graph-language)
