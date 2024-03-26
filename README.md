@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-26, 07:59:11](https://lobste.rs/s/nvgql5/cache_architecture_for_container) - [[Cache Architecture for] Container Loading in AWS Lambda](https://brooker.co.za/blog/2023/05/23/snapshot-loading.html)
 * [2024-03-26, 04:58:08](https://lobste.rs/s/aslfcs/intel_8088_processor_s_instruction) - [The Intel 8088 processor's instruction prefetch circuitry: a look inside](http://www.righto.com/2024/03/8088-prefetch-circuitry.html)
 * [2024-03-26, 04:55:33](https://lobste.rs/s/uzxbcf/designing_light_source_for_iris) - [Designing The Light Source for IRIS](https://www.bunniestudios.com/blog/?p=7035)
 * [2024-03-26, 03:35:34](https://lobste.rs/s/z5apdp/finding_needles_haystack_with_best_k) - [Finding Needles in a Haystack with Best-of-K](https://brooker.co.za/blog/2024/03/25/needles.html)
@@ -17,7 +18,6 @@
 * [2024-03-25, 13:56:29](https://lobste.rs/s/tgr4xb/dogma) - [Dogma](https://dogma-lang.org/)
 * [2024-03-25, 12:26:26](https://lobste.rs/s/vrhiti/bump_allocation_up_down) - [Bump Allocation: Up or Down?](https://coredumped.dev/2024/03/25/bump-allocation-up-or-down/)
 * [2024-03-25, 11:47:34](https://lobste.rs/s/kapi9n/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kapi9n/what_are_you_doing_this_week)
-* [2024-03-25, 11:00:08](https://lobste.rs/s/9qemyj/symbolics_sunstone_development_plan) - [Symbolics Sunstone Development Plan (1987)](https://wiki.unix-haters.org/lib/exe/fetch.php?media=smbx:1987-sunstone.pdf)
 * [2024-03-25, 08:38:23](https://lobste.rs/s/4a7sxq/all_you_need_is_wide_events_not_metrics) - [All you need is Wide Events, not “Metrics, Logs and Traces”](https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics)
 * [2024-03-25, 08:34:59](https://lobste.rs/s/cjjyha/tcl_tk_9_0b1_released) - [Tcl/Tk 9.0b1 released](https://www.tcl.tk/software/tcltk/9.0.html)
 * [2024-03-25, 07:54:08](https://lobste.rs/s/ade5vx/radios_how_do_they_work) - [Radios, how do they work?](https://lcamtuf.substack.com/p/radios-how-do-they-work)
