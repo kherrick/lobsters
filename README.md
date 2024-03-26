@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-26, 03:35:34](https://lobste.rs/s/z5apdp/finding_needles_haystack_with_best_k) - [Finding Needles in a Haystack with Best-of-K](https://brooker.co.za/blog/2024/03/25/needles.html)
 * [2024-03-26, 00:50:49](https://lobste.rs/s/ddmaop/writing_gnome_apps_with_swift) - [Writing GNOME Apps with Swift](https://swift.org/blog/adwaita-swift/)
 * [2024-03-25, 22:58:21](https://lobste.rs/s/gyixju/google_s_first_tensor_processing_unit) - [Google's First Tensor Processing Unit - Architecture](https://thechipletter.substack.com/p/googles-first-tpu-architecture)
 * [2024-03-25, 22:50:41](https://lobste.rs/s/ld4l8t/how_complain) - [How to complain](https://outerproduct.net/trivial/2024-03-25_complain.html)
@@ -24,7 +25,6 @@
 * [2024-03-25, 06:28:40](https://lobste.rs/s/hl5gkk/why_choose_async_await_over_threads) - [Why choose async/await over threads?](https://notgull.net/why-not-threads/)
 * [2024-03-25, 05:40:48](https://lobste.rs/s/xohsqg/c_left_arrow_operator) - [C++ left arrow operator <-](https://www.atnnn.com/p/operator-larrow/)
 * [2024-03-24, 22:30:53](https://lobste.rs/s/qoccbl/bash_vs_fish_vs_zsh_vs_nushell) - [Bash vs Fish vs Zsh vs Nushell?](https://lobste.rs/s/qoccbl/bash_vs_fish_vs_zsh_vs_nushell)
-* [2024-03-24, 20:09:36](https://lobste.rs/s/fz1yv8/u_u_conundrum) - [The ü/ü Conundrum](https://unravelweb.dev/2024/02/12/the-u-u-conundrum/)
 
 ## [Archives](archives/index.md)
 
