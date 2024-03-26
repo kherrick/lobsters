@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-26, 21:47:45](https://lobste.rs/s/p3yfuu/erasure_coding_versus_tail_latency) - [Erasure Coding versus Tail Latency](https://brooker.co.za/blog/2023/01/06/erasure.html)
 * [2024-03-26, 21:23:57](https://lobste.rs/s/fb5w7u/centerpiece_your_trusty_omnibox_search) - [Centerpiece – Your trusty omnibox search](https://github.com/friedow/centerpiece)
 * [2024-03-26, 20:07:58](https://lobste.rs/s/mmb4dl/optimizing_javascript_for_fun_for_profit) - [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
 * [2024-03-26, 17:51:01](https://lobste.rs/s/87zhmo/keepyourmouthshut_python_program_auto) - [KeepYourMouthShut - A Python program to auto-generate Podcasts](https://github.com/rajtilakjee/keepyourmouthshut)
@@ -21,7 +22,6 @@
 * [2024-03-25, 20:44:32](https://lobste.rs/s/4rxjck/kgl_query_language_for_exploring) - [KGL: A query language for exploring knowledge graphs](https://github.com/capjamesg/knowledge-graph-language)
 * [2024-03-25, 19:16:02](https://lobste.rs/s/wwgxzk/infinite_loops_are_ub_c) - [Infinite loops are UB in C++](https://hails.org/@hailey/112147785725190189)
 * [2024-03-25, 16:39:59](https://lobste.rs/s/hjwdfm/why_do_regexes_use_as_line_anchors) - [Why do regexes use `$` and `^` as line anchors?](https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
-* [2024-03-25, 14:20:08](https://lobste.rs/s/qtokfw/semgrep_autofixes_using_llms) - [Semgrep: AutoFixes using LLMs](https://choly.ca/post/semgrep-autofix-llm/)
 * [2024-03-25, 12:26:26](https://lobste.rs/s/vrhiti/bump_allocation_up_down) - [Bump Allocation: Up or Down?](https://coredumped.dev/2024/03/25/bump-allocation-up-or-down/)
 * [2024-03-25, 08:34:59](https://lobste.rs/s/cjjyha/tcl_tk_9_0b1_released) - [Tcl/Tk 9.0b1 released](https://www.tcl.tk/software/tcltk/9.0.html)
 * [2024-03-25, 05:40:48](https://lobste.rs/s/xohsqg/c_left_arrow_operator) - [C++ left arrow operator <-](https://www.atnnn.com/p/operator-larrow/)

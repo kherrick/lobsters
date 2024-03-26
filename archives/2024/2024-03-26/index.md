@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-26](index.md)
 
+* [2024-03-26, 21:47:45](https://lobste.rs/s/p3yfuu/erasure_coding_versus_tail_latency) - [Erasure Coding versus Tail Latency](https://brooker.co.za/blog/2023/01/06/erasure.html)
 * [2024-03-26, 21:23:57](https://lobste.rs/s/fb5w7u/centerpiece_your_trusty_omnibox_search) - [Centerpiece – Your trusty omnibox search](https://github.com/friedow/centerpiece)
 * [2024-03-26, 20:07:58](https://lobste.rs/s/mmb4dl/optimizing_javascript_for_fun_for_profit) - [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
 * [2024-03-26, 17:51:01](https://lobste.rs/s/87zhmo/keepyourmouthshut_python_program_auto) - [KeepYourMouthShut - A Python program to auto-generate Podcasts](https://github.com/rajtilakjee/keepyourmouthshut)
