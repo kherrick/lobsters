@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-26](index.md)
 
+* [2024-03-26, 20:07:58](https://lobste.rs/s/mmb4dl/optimizing_javascript_for_fun_for_profit) - [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
 * [2024-03-26, 17:51:01](https://lobste.rs/s/87zhmo/keepyourmouthshut_python_program_auto) - [KeepYourMouthShut - A Python program to auto-generate Podcasts](https://github.com/rajtilakjee/keepyourmouthshut)
 * [2024-03-26, 17:02:05](https://lobste.rs/s/d9ya8q/open_web_advocacy_recommendations_re) - [Open Web Advocacy Recommendations re: the Digital Markets Act](https://open-web-advocacy.org/blog/in-app-browsers-the-worst-erosion-of-user-choice-you-havent-heard-of/)
 * [2024-03-26, 16:55:50](https://lobste.rs/s/uf7dzy/asciimoji) - [ASCIImoji -  ʕっ•ᴥ•ʔっ](https://asciimoji.com/)

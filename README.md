@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-26, 20:07:58](https://lobste.rs/s/mmb4dl/optimizing_javascript_for_fun_for_profit) - [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
 * [2024-03-26, 17:51:01](https://lobste.rs/s/87zhmo/keepyourmouthshut_python_program_auto) - [KeepYourMouthShut - A Python program to auto-generate Podcasts](https://github.com/rajtilakjee/keepyourmouthshut)
 * [2024-03-26, 17:02:05](https://lobste.rs/s/d9ya8q/open_web_advocacy_recommendations_re) - [Open Web Advocacy Recommendations re: the Digital Markets Act](https://open-web-advocacy.org/blog/in-app-browsers-the-worst-erosion-of-user-choice-you-havent-heard-of/)
 * [2024-03-26, 16:55:50](https://lobste.rs/s/uf7dzy/asciimoji) - [ASCIImoji -  ʕっ•ᴥ•ʔっ](https://asciimoji.com/)
@@ -12,7 +13,6 @@
 * [2024-03-26, 11:19:04](https://lobste.rs/s/s8s3mo/sega_saturn_architecture_practical) - [Sega Saturn Architecture: A Practical Analysis](https://www.copetti.org/writings/consoles/sega-saturn/)
 * [2024-03-26, 10:38:28](https://lobste.rs/s/hng5pe/how_meilisearch_updates_millions_vector) - [How Meilisearch Updates a Millions Vector Embeddings Database in Under a Minute](https://blog.kerollmops.com/how-meilisearch-updates-a-millions-vector-embeddings-database-in-under-a-minute)
 * [2024-03-26, 07:59:11](https://lobste.rs/s/nvgql5/cache_architecture_for_container) - [[Cache Architecture for] Container Loading in AWS Lambda](https://brooker.co.za/blog/2023/05/23/snapshot-loading.html)
-* [2024-03-26, 04:58:08](https://lobste.rs/s/aslfcs/intel_8088_processor_s_instruction) - [The Intel 8088 processor's instruction prefetch circuitry: a look inside](http://www.righto.com/2024/03/8088-prefetch-circuitry.html)
 * [2024-03-26, 04:55:33](https://lobste.rs/s/uzxbcf/designing_light_source_for_iris) - [Designing The Light Source for IRIS](https://www.bunniestudios.com/blog/?p=7035)
 * [2024-03-26, 03:35:34](https://lobste.rs/s/z5apdp/finding_needles_haystack_with_best_k) - [Finding Needles in a Haystack with Best-of-K](https://brooker.co.za/blog/2024/03/25/needles.html)
 * [2024-03-26, 00:50:49](https://lobste.rs/s/ddmaop/writing_gnome_apps_with_swift) - [Writing GNOME Apps with Swift](https://swift.org/blog/adwaita-swift/)
