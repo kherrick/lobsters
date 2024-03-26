@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-26, 23:32:55",
+      "https://lobste.rs/s/hmiett/building_wopr_7x4090_ai_server"
+    ],
+    [
+      "Building WOPR: A 7x4090 AI Server",
+      "https://www.mov-axbx.com/wopr/wopr_concept.html"
+    ]
+  ],
+  [
+    [
       "2024-03-26, 23:03:56",
       "https://lobste.rs/s/gjfym5/fixing_bug_pypy_s_incremental_gc"
     ],
@@ -27,16 +37,6 @@
     [
       "Concept Pieces for a Graphical Editor",
       "https://joshleeb.com/posts/status-update-2024-mar.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-26, 21:47:45",
-      "https://lobste.rs/s/p3yfuu/erasure_coding_versus_tail_latency"
-    ],
-    [
-      "Erasure Coding versus Tail Latency",
-      "https://brooker.co.za/blog/2023/01/06/erasure.html"
     ]
   ],
   [
