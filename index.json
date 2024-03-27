@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-27, 09:52:29",
+      "https://lobste.rs/s/gpb0qh/garbage_collection_for_systems"
+    ],
+    [
+      "Garbage Collection for Systems Programmers",
+      "https://bitbashing.io/gc-for-systems-programmers.html"
+    ]
+  ],
+  [
+    [
       "2024-03-27, 08:13:17",
       "https://lobste.rs/s/oltl5g/gitroom_schedule_your_social_media"
     ],
@@ -237,16 +247,6 @@
     [
       "Why do regexes use `$` and `^` as line anchors?",
       "https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/"
-    ]
-  ],
-  [
-    [
-      "2024-03-25, 12:26:26",
-      "https://lobste.rs/s/vrhiti/bump_allocation_up_down"
-    ],
-    [
-      "Bump Allocation: Up or Down?",
-      "https://coredumped.dev/2024/03/25/bump-allocation-up-or-down/"
     ]
   ]
 ]
