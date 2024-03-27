@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-27, 20:51:17](https://lobste.rs/s/034jx9/finding_memory_leaks_postgres_c_code) - [Finding memory leaks in Postgres C code](https://www.enterprisedb.com/blog/finding-memory-leaks-postgres-c-code)
 * [2024-03-27, 20:47:14](https://lobste.rs/s/fufcyo/why_x86_doesn_t_need_die) - [Why x86 Doesn’t Need to Die](https://chipsandcheese.com/2024/03/27/why-x86-doesnt-need-to-die/)
 * [2024-03-27, 20:29:27](https://lobste.rs/s/txapce/who_killed_network_switch_hubris_bug) - [Who Killed the Network Switch? A Hubris Bug Story](https://cliffle.com/blog/who-killed-the-network-switch/)
 * [2024-03-27, 18:34:19](https://lobste.rs/s/fufhzl/proxmox_import_wizard_available_for) - [Proxmox Import Wizard Available for Migrating VMware ESXi Based Virtual Machines](https://forum.proxmox.com/threads/new-import-wizard-available-for-migrating-vmware-esxi-based-virtual-machines.144023/)
@@ -24,7 +25,6 @@
 * [2024-03-26, 14:08:02](https://lobste.rs/s/zag1bo/on_tech_debt_my_rust_library_is_now_cdo) - [On Tech Debt: My Rust Library is now a CDO](https://lucumr.pocoo.org/2024/3/26/rust-cdo/)
 * [2024-03-26, 12:07:45](https://lobste.rs/s/y28nva/42_parquet_zip_bomb_for_big_data_age) - [42.parquet – A Zip Bomb for the Big Data Age](https://duckdb.org/2024/03/26/42-parquet-a-zip-bomb-for-the-big-data-age.html)
 * [2024-03-26, 00:50:49](https://lobste.rs/s/ddmaop/writing_gnome_apps_with_swift) - [Writing GNOME Apps with Swift](https://swift.org/blog/adwaita-swift/)
-* [2024-03-25, 16:39:59](https://lobste.rs/s/hjwdfm/why_do_regexes_use_as_line_anchors) - [Why do regexes use `$` and `^` as line anchors?](https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
 
 ## [Archives](archives/index.md)
 
