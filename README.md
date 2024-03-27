@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-27, 08:13:17](https://lobste.rs/s/oltl5g/gitroom_schedule_your_social_media) - [Gitroom - Schedule your Social Media and Article Posts and Monitor your repository](https://github.com/gitroomhq/gitroom)
 * [2024-03-27, 07:36:46](https://lobste.rs/s/w9udon/should_we_move_from_fundamental_types) - [Should we move from fundamental types?](https://www.sandordargo.com/blog/2024/03/27/move-from-funtamental)
 * [2024-03-27, 06:22:09](https://lobste.rs/s/rpqo8w/awk_implementation) - [An awk implementation](https://www.raygard.net/awkdoc/)
 * [2024-03-27, 01:32:46](https://lobste.rs/s/l5ztqn/adding_line_profiler_my_language) - [Adding a Line Profiler to My Language](https://healeycodes.com/adding-a-line-profiler-to-my-language)
@@ -22,7 +23,6 @@
 * [2024-03-26, 07:59:11](https://lobste.rs/s/nvgql5/cache_architecture_for_container) - [[Cache Architecture for] Container Loading in AWS Lambda](https://brooker.co.za/blog/2023/05/23/snapshot-loading.html)
 * [2024-03-26, 00:50:49](https://lobste.rs/s/ddmaop/writing_gnome_apps_with_swift) - [Writing GNOME Apps with Swift](https://swift.org/blog/adwaita-swift/)
 * [2024-03-25, 20:44:32](https://lobste.rs/s/4rxjck/kgl_query_language_for_exploring) - [KGL: A query language for exploring knowledge graphs](https://github.com/capjamesg/knowledge-graph-language)
-* [2024-03-25, 19:16:02](https://lobste.rs/s/wwgxzk/infinite_loops_are_ub_c) - [Infinite loops are UB in C++](https://hails.org/@hailey/112147785725190189)
 * [2024-03-25, 16:39:59](https://lobste.rs/s/hjwdfm/why_do_regexes_use_as_line_anchors) - [Why do regexes use `$` and `^` as line anchors?](https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
 * [2024-03-25, 12:26:26](https://lobste.rs/s/vrhiti/bump_allocation_up_down) - [Bump Allocation: Up or Down?](https://coredumped.dev/2024/03/25/bump-allocation-up-or-down/)
 
