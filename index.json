@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2024-03-26, 16:37:06",
-      "https://lobste.rs/s/8am6th/flipping_pages_analysis_new_linux"
-    ],
-    [
-      "Flipping Pages: An analysis of a new Linux vulnerability in nf_tables and hardened exploitation techniques",
-      "https://pwning.tech/nftables/"
-    ]
-  ],
-  [
-    [
       "2024-03-26, 15:31:36",
       "https://lobste.rs/s/igkrfa/explorative_programming"
     ],
@@ -197,6 +187,16 @@
     [
       "[Cache Architecture for] Container Loading in AWS Lambda",
       "https://brooker.co.za/blog/2023/05/23/snapshot-loading.html"
+    ]
+  ],
+  [
+    [
+      "2024-03-26, 04:55:33",
+      "https://lobste.rs/s/uzxbcf/designing_light_source_for_iris"
+    ],
+    [
+      "Designing The Light Source for IRIS",
+      "https://www.bunniestudios.com/blog/?p=7035"
     ]
   ],
   [
