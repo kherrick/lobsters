@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-03-26, 23:32:55",
+      "https://lobste.rs/s/hmiett/building_wopr_7x4090_ai_server"
+    ],
+    [
+      "Building WOPR: A 7x4090 AI Server",
+      "https://www.mov-axbx.com/wopr/wopr_concept.html"
+    ]
+  ],
+  [
+    [
       "2024-03-26, 23:03:56",
       "https://lobste.rs/s/gjfym5/fixing_bug_pypy_s_incremental_gc"
     ],
@@ -187,16 +197,6 @@
     [
       "Sega Saturn Architecture: A Practical Analysis",
       "https://www.copetti.org/writings/consoles/sega-saturn/"
-    ]
-  ],
-  [
-    [
-      "2024-03-26, 10:38:28",
-      "https://lobste.rs/s/hng5pe/how_meilisearch_updates_millions_vector"
-    ],
-    [
-      "How Meilisearch Updates a Millions Vector Embeddings Database in Under a Minute",
-      "https://blog.kerollmops.com/how-meilisearch-updates-a-millions-vector-embeddings-database-in-under-a-minute"
     ]
   ],
   [
