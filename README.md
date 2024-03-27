@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-27, 22:26:51](https://lobste.rs/s/2eaua8/bfq_multiqueue_deadline_kyber) - [BFQ, Multiqueue-Deadline, or Kyber? Performance Characterization of Linux Storage Schedulers in the NVMe Era](https://atlarge-research.com/pdfs/2024-io-schedulers.pdf)
 * [2024-03-27, 20:51:17](https://lobste.rs/s/034jx9/finding_memory_leaks_postgres_c_code) - [Finding memory leaks in Postgres C code](https://www.enterprisedb.com/blog/finding-memory-leaks-postgres-c-code)
 * [2024-03-27, 20:47:14](https://lobste.rs/s/fufcyo/why_x86_doesn_t_need_die) - [Why x86 Doesn’t Need to Die](https://chipsandcheese.com/2024/03/27/why-x86-doesnt-need-to-die/)
 * [2024-03-27, 20:29:27](https://lobste.rs/s/txapce/who_killed_network_switch_hubris_bug) - [Who Killed the Network Switch? A Hubris Bug Story](https://cliffle.com/blog/who-killed-the-network-switch/)
@@ -10,7 +11,6 @@
 * [2024-03-27, 14:33:00](https://lobste.rs/s/zqtrw9/finding_netbsd_kernel_bugs_through) - [Finding NetBSD Kernel Bugs through LockDoc](https://scholz.ruhr/blog/finding-netbsd-locking-bugs/)
 * [2024-03-27, 11:12:35](https://lobste.rs/s/5pb86n/two_little_interpreters) - [Two little interpreters](https://dubroy.com/blog/two-little-interpreters/)
 * [2024-03-27, 09:52:29](https://lobste.rs/s/gpb0qh/garbage_collection_for_systems) - [Garbage Collection for Systems Programmers](https://bitbashing.io/gc-for-systems-programmers.html)
-* [2024-03-27, 07:36:46](https://lobste.rs/s/w9udon/should_we_move_from_fundamental_types) - [Should we move from fundamental types?](https://www.sandordargo.com/blog/2024/03/27/move-from-funtamental)
 * [2024-03-27, 06:22:09](https://lobste.rs/s/rpqo8w/awk_implementation) - [An awk implementation](https://www.raygard.net/awkdoc/)
 * [2024-03-26, 23:32:55](https://lobste.rs/s/hmiett/building_wopr_7x4090_ai_server) - [Building WOPR: A 7x4090 AI Server](https://www.mov-axbx.com/wopr/wopr_concept.html)
 * [2024-03-26, 23:03:56](https://lobste.rs/s/gjfym5/fixing_bug_pypy_s_incremental_gc) - [Fixing a Bug in PyPy's Incremental GC](https://www.pypy.org/posts/2024/03/fixing-bug-incremental-gc.html)
