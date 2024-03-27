@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-27, 15:30:46](https://lobste.rs/s/3r0q9d/small_tool_for_exploring_text_embeddings) - [A Small Tool for Exploring Text Embeddings](https://cybernetist.com/2024/03/27/a-small-tool-for-exploring-text-embeddings/)
 * [2024-03-27, 15:07:28](https://lobste.rs/s/d1a3qb/problem_with_invariants_is_they_change) - [The problem with invariants is that they change over time](https://surfingcomplexity.blog/2024/03/26/the-problem-with-invariants-is-that-they-change-over-time/)
 * [2024-03-27, 14:33:41](https://lobste.rs/s/nec1st/netbsd_10_beta_rc1_6_pi_wifi_v) - [NetBSD 10 Beta, RC1-6 and Pi Wifi and A/V](http://jspath55.blogspot.com/2024/03/netbsd-10-beta-rc1-6-and-pi-wifi-and-av.html)
 * [2024-03-27, 14:33:00](https://lobste.rs/s/zqtrw9/finding_netbsd_kernel_bugs_through) - [Finding NetBSD Kernel Bugs through LockDoc](https://scholz.ruhr/blog/finding-netbsd-locking-bugs/)
@@ -18,7 +19,6 @@
 * [2024-03-26, 17:51:01](https://lobste.rs/s/87zhmo/keepyourmouthshut_python_program_auto) - [KeepYourMouthShut - A Python program to auto-generate Podcasts](https://github.com/rajtilakjee/keepyourmouthshut)
 * [2024-03-26, 16:46:47](https://lobste.rs/s/yzcxgj/radicle_sovereign_code_forge_built_on_git) - [Radicle: Sovereign code forge built on Git hits v1.0](https://radicle.xyz)
 * [2024-03-26, 15:31:36](https://lobste.rs/s/igkrfa/explorative_programming) - [Explorative Programming](https://blog.dziban.net/essays/explorative-programming)
-* [2024-03-26, 14:56:33](https://lobste.rs/s/fk5edv/requiring_esm_module_support_node_js) - [Requiring ESM module support in Node.js](https://joyeecheung.github.io/blog/2024/03/18/require-esm-in-node-js)
 * [2024-03-26, 14:08:02](https://lobste.rs/s/zag1bo/on_tech_debt_my_rust_library_is_now_cdo) - [On Tech Debt: My Rust Library is now a CDO](https://lucumr.pocoo.org/2024/3/26/rust-cdo/)
 * [2024-03-26, 12:07:45](https://lobste.rs/s/y28nva/42_parquet_zip_bomb_for_big_data_age) - [42.parquet – A Zip Bomb for the Big Data Age](https://duckdb.org/2024/03/26/42-parquet-a-zip-bomb-for-the-big-data-age.html)
 * [2024-03-26, 11:19:04](https://lobste.rs/s/s8s3mo/sega_saturn_architecture_practical) - [Sega Saturn Architecture: A Practical Analysis](https://www.copetti.org/writings/consoles/sega-saturn/)
