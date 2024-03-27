@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-27, 07:36:46](https://lobste.rs/s/w9udon/should_we_move_from_fundamental_types) - [Should we move from fundamental types?](https://www.sandordargo.com/blog/2024/03/27/move-from-funtamental)
 * [2024-03-27, 06:22:09](https://lobste.rs/s/rpqo8w/awk_implementation) - [An awk implementation](https://www.raygard.net/awkdoc/)
 * [2024-03-27, 01:32:46](https://lobste.rs/s/l5ztqn/adding_line_profiler_my_language) - [Adding a Line Profiler to My Language](https://healeycodes.com/adding-a-line-profiler-to-my-language)
-* [2024-03-26, 23:32:55](https://lobste.rs/s/hmiett/building_wopr_7x4090_ai_server) - [Building WOPR: A 7x4090 AI Server](https://www.mov-axbx.com/wopr/wopr_concept.html)
 * [2024-03-26, 23:03:56](https://lobste.rs/s/gjfym5/fixing_bug_pypy_s_incremental_gc) - [Fixing a Bug in PyPy's Incremental GC](https://www.pypy.org/posts/2024/03/fixing-bug-incremental-gc.html)
 * [2024-03-26, 22:51:45](https://lobste.rs/s/9xlbke/preventing_cross_service_udp_loops_quic) - [Preventing Cross-Service UDP Loops in QUIC](https://bughunters.google.com/blog/5960150648750080/preventing-cross-service-udp-loops-in-quic)
 * [2024-03-26, 22:37:24](https://lobste.rs/s/odq2h8/concept_pieces_for_graphical_editor) - [Concept Pieces for a Graphical Editor](https://joshleeb.com/posts/status-update-2024-mar.html)
