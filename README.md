@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-27, 09:52:29](https://lobste.rs/s/gpb0qh/garbage_collection_for_systems) - [Garbage Collection for Systems Programmers](https://bitbashing.io/gc-for-systems-programmers.html)
 * [2024-03-27, 08:13:17](https://lobste.rs/s/oltl5g/gitroom_schedule_your_social_media) - [Gitroom - Schedule your Social Media and Article Posts and Monitor your repository](https://github.com/gitroomhq/gitroom)
 * [2024-03-27, 07:36:46](https://lobste.rs/s/w9udon/should_we_move_from_fundamental_types) - [Should we move from fundamental types?](https://www.sandordargo.com/blog/2024/03/27/move-from-funtamental)
 * [2024-03-27, 06:22:09](https://lobste.rs/s/rpqo8w/awk_implementation) - [An awk implementation](https://www.raygard.net/awkdoc/)
@@ -24,7 +25,6 @@
 * [2024-03-26, 00:50:49](https://lobste.rs/s/ddmaop/writing_gnome_apps_with_swift) - [Writing GNOME Apps with Swift](https://swift.org/blog/adwaita-swift/)
 * [2024-03-25, 20:44:32](https://lobste.rs/s/4rxjck/kgl_query_language_for_exploring) - [KGL: A query language for exploring knowledge graphs](https://github.com/capjamesg/knowledge-graph-language)
 * [2024-03-25, 16:39:59](https://lobste.rs/s/hjwdfm/why_do_regexes_use_as_line_anchors) - [Why do regexes use `$` and `^` as line anchors?](https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/)
-* [2024-03-25, 12:26:26](https://lobste.rs/s/vrhiti/bump_allocation_up_down) - [Bump Allocation: Up or Down?](https://coredumped.dev/2024/03/25/bump-allocation-up-or-down/)
 
 ## [Archives](archives/index.md)
 
