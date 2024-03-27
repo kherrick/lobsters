@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-27](index.md)
 
+* [2024-03-27, 20:29:27](https://lobste.rs/s/txapce/who_killed_network_switch_hubris_bug) - [Who Killed the Network Switch? A Hubris Bug Story](https://cliffle.com/blog/who-killed-the-network-switch/)
 * [2024-03-27, 18:34:19](https://lobste.rs/s/fufhzl/proxmox_import_wizard_available_for) - [Proxmox Import Wizard Available for Migrating VMware ESXi Based Virtual Machines](https://forum.proxmox.com/threads/new-import-wizard-available-for-migrating-vmware-esxi-based-virtual-machines.144023/)
 * [2024-03-27, 15:30:46](https://lobste.rs/s/3r0q9d/small_tool_for_exploring_text_embeddings) - [A Small Tool for Exploring Text Embeddings](https://cybernetist.com/2024/03/27/a-small-tool-for-exploring-text-embeddings/)
 * [2024-03-27, 15:07:28](https://lobste.rs/s/d1a3qb/problem_with_invariants_is_they_change) - [The problem with invariants is that they change over time](https://surfingcomplexity.blog/2024/03/26/the-problem-with-invariants-is-that-they-change-over-time/)
