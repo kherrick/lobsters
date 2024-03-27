@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-27](index.md)
 
+* [2024-03-27, 15:07:28](https://lobste.rs/s/d1a3qb/problem_with_invariants_is_they_change) - [The problem with invariants is that they change over time](https://surfingcomplexity.blog/2024/03/26/the-problem-with-invariants-is-that-they-change-over-time/)
 * [2024-03-27, 14:33:41](https://lobste.rs/s/nec1st/netbsd_10_beta_rc1_6_pi_wifi_v) - [NetBSD 10 Beta, RC1-6 and Pi Wifi and A/V](http://jspath55.blogspot.com/2024/03/netbsd-10-beta-rc1-6-and-pi-wifi-and-av.html)
 * [2024-03-27, 14:33:00](https://lobste.rs/s/zqtrw9/finding_netbsd_kernel_bugs_through) - [Finding NetBSD Kernel Bugs through LockDoc](https://scholz.ruhr/blog/finding-netbsd-locking-bugs/)
 * [2024-03-27, 11:12:35](https://lobste.rs/s/5pb86n/two_little_interpreters) - [Two little interpreters](https://dubroy.com/blog/two-little-interpreters/)

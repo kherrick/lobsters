@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-27, 15:07:28](https://lobste.rs/s/d1a3qb/problem_with_invariants_is_they_change) - [The problem with invariants is that they change over time](https://surfingcomplexity.blog/2024/03/26/the-problem-with-invariants-is-that-they-change-over-time/)
 * [2024-03-27, 14:33:41](https://lobste.rs/s/nec1st/netbsd_10_beta_rc1_6_pi_wifi_v) - [NetBSD 10 Beta, RC1-6 and Pi Wifi and A/V](http://jspath55.blogspot.com/2024/03/netbsd-10-beta-rc1-6-and-pi-wifi-and-av.html)
 * [2024-03-27, 14:33:00](https://lobste.rs/s/zqtrw9/finding_netbsd_kernel_bugs_through) - [Finding NetBSD Kernel Bugs through LockDoc](https://scholz.ruhr/blog/finding-netbsd-locking-bugs/)
 * [2024-03-27, 11:12:35](https://lobste.rs/s/5pb86n/two_little_interpreters) - [Two little interpreters](https://dubroy.com/blog/two-little-interpreters/)
@@ -15,7 +16,6 @@
 * [2024-03-26, 21:23:57](https://lobste.rs/s/fb5w7u/centerpiece_your_trusty_omnibox_search) - [Centerpiece – Your trusty omnibox search](https://github.com/friedow/centerpiece)
 * [2024-03-26, 20:07:58](https://lobste.rs/s/mmb4dl/optimizing_javascript_for_fun_for_profit) - [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
 * [2024-03-26, 17:51:01](https://lobste.rs/s/87zhmo/keepyourmouthshut_python_program_auto) - [KeepYourMouthShut - A Python program to auto-generate Podcasts](https://github.com/rajtilakjee/keepyourmouthshut)
-* [2024-03-26, 16:55:50](https://lobste.rs/s/uf7dzy/asciimoji) - [ASCIImoji -  ʕっ•ᴥ•ʔっ](https://asciimoji.com/)
 * [2024-03-26, 16:46:47](https://lobste.rs/s/yzcxgj/radicle_sovereign_code_forge_built_on_git) - [Radicle: Sovereign code forge built on Git hits v1.0](https://radicle.xyz)
 * [2024-03-26, 15:31:36](https://lobste.rs/s/igkrfa/explorative_programming) - [Explorative Programming](https://blog.dziban.net/essays/explorative-programming)
 * [2024-03-26, 14:56:33](https://lobste.rs/s/fk5edv/requiring_esm_module_support_node_js) - [Requiring ESM module support in Node.js](https://joyeecheung.github.io/blog/2024/03/18/require-esm-in-node-js)
