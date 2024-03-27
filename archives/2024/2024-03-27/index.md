@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-27](index.md)
 
+* [2024-03-27, 20:47:14](https://lobste.rs/s/fufcyo/why_x86_doesn_t_need_die) - [Why x86 Doesn’t Need to Die](https://chipsandcheese.com/2024/03/27/why-x86-doesnt-need-to-die/)
 * [2024-03-27, 20:29:27](https://lobste.rs/s/txapce/who_killed_network_switch_hubris_bug) - [Who Killed the Network Switch? A Hubris Bug Story](https://cliffle.com/blog/who-killed-the-network-switch/)
 * [2024-03-27, 18:34:19](https://lobste.rs/s/fufhzl/proxmox_import_wizard_available_for) - [Proxmox Import Wizard Available for Migrating VMware ESXi Based Virtual Machines](https://forum.proxmox.com/threads/new-import-wizard-available-for-migrating-vmware-esxi-based-virtual-machines.144023/)
 * [2024-03-27, 15:30:46](https://lobste.rs/s/3r0q9d/small_tool_for_exploring_text_embeddings) - [A Small Tool for Exploring Text Embeddings](https://cybernetist.com/2024/03/27/a-small-tool-for-exploring-text-embeddings/)
