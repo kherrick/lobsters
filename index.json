@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-27, 20:51:17",
+      "https://lobste.rs/s/034jx9/finding_memory_leaks_postgres_c_code"
+    ],
+    [
+      "Finding memory leaks in Postgres C code",
+      "https://www.enterprisedb.com/blog/finding-memory-leaks-postgres-c-code"
+    ]
+  ],
+  [
+    [
       "2024-03-27, 20:47:14",
       "https://lobste.rs/s/fufcyo/why_x86_doesn_t_need_die"
     ],
@@ -237,16 +247,6 @@
     [
       "Writing GNOME Apps with Swift",
       "https://swift.org/blog/adwaita-swift/"
-    ]
-  ],
-  [
-    [
-      "2024-03-25, 16:39:59",
-      "https://lobste.rs/s/hjwdfm/why_do_regexes_use_as_line_anchors"
-    ],
-    [
-      "Why do regexes use `$` and `^` as line anchors?",
-      "https://buttondown.email/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/"
     ]
   ]
 ]
