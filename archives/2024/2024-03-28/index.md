@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 21:18:05](https://lobste.rs/s/bofsuh/linux_foundation_launches_open_source) - [Linux Foundation Launches Open Source Valkey Community](https://www.linuxfoundation.org/press/linux-foundation-launches-open-source-valkey-community)
+* [2024-03-28, 21:17:26](https://lobste.rs/s/x0ensu/you_can_t_leak_users_data_if_you_don_t_hold_it) - [You can't leak users' data if you don't hold it](https://seancoates.com/blogs/matter-and-privacy)
 * [2024-03-28, 20:34:49](https://lobste.rs/s/alxcyp/solving_are_you_millionaire_problem_with) - [Solving the \"Are You a Millionaire?\" Problem with ZK certificates](https://neimanslab.org/2024-03-28/zk_certificates.html)
 * [2024-03-28, 19:44:31](https://lobste.rs/s/n3rxhr/freedom_respecting_technology_next) - [Freedom Respecting Technology: the Next Generation of Open Source, Free Software, Open Knowledge, Open Culture, and Technological Freedom](https://makesourcenotcode.github.io/freedom_respecting_technology.html)
 * [2024-03-28, 19:19:12](https://lobste.rs/s/uvprb3/speedbuilding_llvm_clang_3_minutes_on) - [Speedbuilding LLVM/Clang in 3 minutes on Power10](https://www.cambus.net/speedbuilding-llvm-clang-in-3-minutes-on-power10/)
