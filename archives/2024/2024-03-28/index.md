@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 13:46:56](https://lobste.rs/s/lc5gry/arm64_boot_camp_arm64ec_arm64x_explained) - [ARM64 Boot Camp: ARM64EC and ARM64X Explained](http://www.emulators.com/docs/abc_arm64ec_explained.htm)
 * [2024-03-28, 12:05:11](https://lobste.rs/s/yusv9u/redesigning_navigation_with_user) - [Redesigning navigation with a user-centric approach](https://medium.com/wttj-tech/redesigning-navigation-with-a-user-centric-approach-e2e9a4c728ae)
 * [2024-03-28, 12:04:40](https://lobste.rs/s/pdvusn/story_behind_creation_our_dedicated) - [The story behind the creation of our dedicated automation team](https://medium.com/wttj-tech/the-story-behind-the-creation-of-our-dedicated-automation-team-de94e342607a)
 * [2024-03-28, 11:28:36](https://lobste.rs/s/lop768/functions_everywhere_only_once_writing) - [Functions Everywhere, Only Once: Writing Functions for the Everywhere Computer](https://fission.codes/blog/functions-everywhere-only-once/)
