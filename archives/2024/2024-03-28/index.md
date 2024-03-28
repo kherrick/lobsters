@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 19:44:31](https://lobste.rs/s/n3rxhr/freedom_respecting_technology_next) - [Freedom Respecting Technology: the Next Generation of Open Source, Free Software, Open Knowledge, Open Culture, and Technological Freedom](https://makesourcenotcode.github.io/freedom_respecting_technology.html)
 * [2024-03-28, 19:19:12](https://lobste.rs/s/uvprb3/speedbuilding_llvm_clang_3_minutes_on) - [Speedbuilding LLVM/Clang in 3 minutes on Power10](https://www.cambus.net/speedbuilding-llvm-clang-in-3-minutes-on-power10/)
 * [2024-03-28, 17:39:28](https://lobste.rs/s/r2aehc/hacking_our_postgresql_driver_get_more) - [Hacking our PostgreSQL driver to get more out of Amazon RDS performance insights](https://knock.app/blog/hacking-postgresql-driver)
 * [2024-03-28, 17:23:51](https://lobste.rs/s/abb3mr/linux_text_manipulation) - [Linux text manipulation](https://yusuf.fyi/posts/linux-text-manipulation)
