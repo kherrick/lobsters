@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 11:28:36](https://lobste.rs/s/lop768/functions_everywhere_only_once_writing) - [Functions Everywhere, Only Once: Writing Functions for the Everywhere Computer](https://fission.codes/blog/functions-everywhere-only-once/)
 * [2024-03-28, 11:22:17](https://lobste.rs/s/o5bmy1/flatpak_permission_survey) - [Flatpak Permission Survey](https://ejona.ersoft.org/archive/2024/03/03/flatpak-perm-survey/)
 * [2024-03-28, 11:10:39](https://lobste.rs/s/yp02rb/flora_pm_meta_index_for_haskell_packages) - [Flora.pm – a meta-index for Haskell packages](https://flora.pm/)
 * [2024-03-28, 08:36:29](https://lobste.rs/s/0eowy6/nathanael_huffman_oxide_computer_talks) - [Nathanael Huffman (Oxide Computer) talks FPGA | Microarch Club](https://microarch.club/episodes/100/)
