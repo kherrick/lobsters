@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 12:05:11](https://lobste.rs/s/yusv9u/redesigning_navigation_with_user) - [Redesigning navigation with a user-centric approach](https://medium.com/wttj-tech/redesigning-navigation-with-a-user-centric-approach-e2e9a4c728ae)
+* [2024-03-28, 12:04:40](https://lobste.rs/s/pdvusn/story_behind_creation_our_dedicated) - [The story behind the creation of our dedicated automation team](https://medium.com/wttj-tech/the-story-behind-the-creation-of-our-dedicated-automation-team-de94e342607a)
 * [2024-03-28, 11:28:36](https://lobste.rs/s/lop768/functions_everywhere_only_once_writing) - [Functions Everywhere, Only Once: Writing Functions for the Everywhere Computer](https://fission.codes/blog/functions-everywhere-only-once/)
 * [2024-03-28, 11:22:17](https://lobste.rs/s/o5bmy1/flatpak_permission_survey) - [Flatpak Permission Survey](https://ejona.ersoft.org/archive/2024/03/03/flatpak-perm-survey/)
 * [2024-03-28, 11:10:39](https://lobste.rs/s/yp02rb/flora_pm_meta_index_for_haskell_packages) - [Flora.pm – a meta-index for Haskell packages](https://flora.pm/)
