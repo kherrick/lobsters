@@ -1,22 +1,32 @@
 [
   [
     [
+      "2024-03-28, 14:34:43",
+      "https://lobste.rs/s/fjzhgr/infinite_mac_turning_dark_side"
+    ],
+    [
+      "Infinite Mac: Turning To The Dark Side",
+      "https://blog.persistent.info/2024/03/infinite-mac-nextstep.html?"
+    ]
+  ],
+  [
+    [
+      "2024-03-28, 14:29:21",
+      "https://lobste.rs/s/zzaopm/tdd_you_re_probably_doing_it_just_fine"
+    ],
+    [
+      "TDD: You're Probably Doing It Just Fine",
+      "https://blog.thecodewhisperer.com/permalink/tdd-youre-probably-doing-it-just-fine"
+    ]
+  ],
+  [
+    [
       "2024-03-28, 13:46:56",
       "https://lobste.rs/s/lc5gry/arm64_boot_camp_arm64ec_arm64x_explained"
     ],
     [
       "ARM64 Boot Camp: ARM64EC and ARM64X Explained",
       "http://www.emulators.com/docs/abc_arm64ec_explained.htm"
-    ]
-  ],
-  [
-    [
-      "2024-03-28, 12:05:11",
-      "https://lobste.rs/s/yusv9u/redesigning_navigation_with_user"
-    ],
-    [
-      "Redesigning navigation with a user-centric approach",
-      "https://medium.com/wttj-tech/redesigning-navigation-with-a-user-centric-approach-e2e9a4c728ae"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Radicle: Sovereign code forge built on Git hits v1.0",
       "https://radicle.xyz"
-    ]
-  ],
-  [
-    [
-      "2024-03-26, 15:31:36",
-      "https://lobste.rs/s/igkrfa/explorative_programming"
-    ],
-    [
-      "Explorative Programming",
-      "https://blog.dziban.net/essays/explorative-programming"
     ]
   ],
   [
