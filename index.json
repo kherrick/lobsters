@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-28, 21:42:02",
+      "https://lobste.rs/s/h3xbmt/modular_open_sources_mojo_standard"
+    ],
+    [
+      "Modular open sources the Mojo standard library",
+      "https://www.modular.com/blog/the-next-big-step-in-mojo-open-source"
+    ]
+  ],
+  [
+    [
       "2024-03-28, 21:18:05",
       "https://lobste.rs/s/bofsuh/linux_foundation_launches_open_source"
     ],
@@ -237,16 +247,6 @@
     [
       "Garbage Collection for Systems Programmers",
       "https://bitbashing.io/gc-for-systems-programmers.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-26, 16:46:47",
-      "https://lobste.rs/s/yzcxgj/radicle_sovereign_code_forge_built_on_git"
-    ],
-    [
-      "Radicle: Sovereign code forge built on Git hits v1.0",
-      "https://radicle.xyz"
     ]
   ]
 ]
