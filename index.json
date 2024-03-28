@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-28, 11:22:17",
+      "https://lobste.rs/s/o5bmy1/flatpak_permission_survey"
+    ],
+    [
+      "Flatpak Permission Survey",
+      "https://ejona.ersoft.org/archive/2024/03/03/flatpak-perm-survey/"
+    ]
+  ],
+  [
+    [
       "2024-03-28, 11:10:39",
       "https://lobste.rs/s/yp02rb/flora_pm_meta_index_for_haskell_packages"
     ],
@@ -167,16 +177,6 @@
     [
       "Fixing a Bug in PyPy's Incremental GC",
       "https://www.pypy.org/posts/2024/03/fixing-bug-incremental-gc.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-26, 22:37:24",
-      "https://lobste.rs/s/odq2h8/concept_pieces_for_graphical_editor"
-    ],
-    [
-      "Concept Pieces for a Graphical Editor",
-      "https://joshleeb.com/posts/status-update-2024-mar.html"
     ]
   ],
   [
