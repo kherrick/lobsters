@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-28, 15:24:51](https://lobste.rs/s/wnltpi/tech_independence_derek_sivers) - [Tech Independence | Derek Sivers](https://sive.rs/ti)
 * [2024-03-28, 14:49:27](https://lobste.rs/s/5fsjpu/my_list_challenging_software_projects) - [My list of challenging software projects some programmers should try](https://www.andreinc.net/2024/03/28/programming-projects-ideas)
 * [2024-03-28, 14:34:43](https://lobste.rs/s/fjzhgr/infinite_mac_turning_dark_side) - [Infinite Mac: Turning To The Dark Side](https://blog.persistent.info/2024/03/infinite-mac-nextstep.html?)
 * [2024-03-28, 14:29:21](https://lobste.rs/s/zzaopm/tdd_you_re_probably_doing_it_just_fine) - [TDD: You're Probably Doing It Just Fine](https://blog.thecodewhisperer.com/permalink/tdd-youre-probably-doing-it-just-fine)
@@ -17,7 +18,6 @@
 * [2024-03-27, 20:29:27](https://lobste.rs/s/txapce/who_killed_network_switch_hubris_bug) - [Who Killed the Network Switch? A Hubris Bug Story](https://cliffle.com/blog/who-killed-the-network-switch/)
 * [2024-03-27, 18:34:19](https://lobste.rs/s/fufhzl/proxmox_import_wizard_available_for) - [Proxmox Import Wizard Available for Migrating VMware ESXi Based Virtual Machines](https://forum.proxmox.com/threads/new-import-wizard-available-for-migrating-vmware-esxi-based-virtual-machines.144023/)
 * [2024-03-27, 14:33:41](https://lobste.rs/s/nec1st/netbsd_10_beta_rc1_6_pi_wifi_v) - [NetBSD 10 Beta, RC1-6 and Pi Wifi and A/V](http://jspath55.blogspot.com/2024/03/netbsd-10-beta-rc1-6-and-pi-wifi-and-av.html)
-* [2024-03-27, 14:33:00](https://lobste.rs/s/zqtrw9/finding_netbsd_kernel_bugs_through) - [Finding NetBSD Kernel Bugs through LockDoc](https://scholz.ruhr/blog/finding-netbsd-locking-bugs/)
 * [2024-03-27, 11:12:35](https://lobste.rs/s/5pb86n/two_little_interpreters) - [Two little interpreters](https://dubroy.com/blog/two-little-interpreters/)
 * [2024-03-27, 09:52:29](https://lobste.rs/s/gpb0qh/garbage_collection_for_systems) - [Garbage Collection for Systems Programmers](https://bitbashing.io/gc-for-systems-programmers.html)
 * [2024-03-27, 06:22:09](https://lobste.rs/s/rpqo8w/awk_implementation) - [An awk implementation](https://www.raygard.net/awkdoc/)

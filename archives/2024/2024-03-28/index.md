@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 15:24:51](https://lobste.rs/s/wnltpi/tech_independence_derek_sivers) - [Tech Independence | Derek Sivers](https://sive.rs/ti)
 * [2024-03-28, 14:49:27](https://lobste.rs/s/5fsjpu/my_list_challenging_software_projects) - [My list of challenging software projects some programmers should try](https://www.andreinc.net/2024/03/28/programming-projects-ideas)
 * [2024-03-28, 14:34:43](https://lobste.rs/s/fjzhgr/infinite_mac_turning_dark_side) - [Infinite Mac: Turning To The Dark Side](https://blog.persistent.info/2024/03/infinite-mac-nextstep.html?)
 * [2024-03-28, 14:29:21](https://lobste.rs/s/zzaopm/tdd_you_re_probably_doing_it_just_fine) - [TDD: You're Probably Doing It Just Fine](https://blog.thecodewhisperer.com/permalink/tdd-youre-probably-doing-it-just-fine)
