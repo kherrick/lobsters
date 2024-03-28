@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-03-28, 21:18:05",
+      "https://lobste.rs/s/bofsuh/linux_foundation_launches_open_source"
+    ],
+    [
+      "Linux Foundation Launches Open Source Valkey Community",
+      "https://www.linuxfoundation.org/press/linux-foundation-launches-open-source-valkey-community"
+    ]
+  ],
+  [
+    [
+      "2024-03-28, 21:17:26",
+      "https://lobste.rs/s/x0ensu/you_can_t_leak_users_data_if_you_don_t_hold_it"
+    ],
+    [
+      "You can't leak users' data if you don't hold it",
+      "https://seancoates.com/blogs/matter-and-privacy"
+    ]
+  ],
+  [
+    [
       "2024-03-28, 20:34:49",
       "https://lobste.rs/s/alxcyp/solving_are_you_millionaire_problem_with"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-03-27, 18:34:19",
-      "https://lobste.rs/s/fufhzl/proxmox_import_wizard_available_for"
-    ],
-    [
-      "Proxmox Import Wizard Available for Migrating VMware ESXi Based Virtual Machines",
-      "https://forum.proxmox.com/threads/new-import-wizard-available-for-migrating-vmware-esxi-based-virtual-machines.144023/"
-    ]
-  ],
-  [
-    [
       "2024-03-27, 09:52:29",
       "https://lobste.rs/s/gpb0qh/garbage_collection_for_systems"
     ],
@@ -237,16 +247,6 @@
     [
       "Radicle: Sovereign code forge built on Git hits v1.0",
       "https://radicle.xyz"
-    ]
-  ],
-  [
-    [
-      "2024-03-26, 14:08:02",
-      "https://lobste.rs/s/zag1bo/on_tech_debt_my_rust_library_is_now_cdo"
-    ],
-    [
-      "On Tech Debt: My Rust Library is now a CDO",
-      "https://lucumr.pocoo.org/2024/3/26/rust-cdo/"
     ]
   ]
 ]
