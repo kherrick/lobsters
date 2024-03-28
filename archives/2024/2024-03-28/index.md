@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 22:34:35](https://lobste.rs/s/zd3pto/building_text_editor_times_ai) - [Building a Text Editor in the Times of AI](https://zed.dev/blog/building-a-text-editor-in-times-of-ai)
 * [2024-03-28, 21:42:02](https://lobste.rs/s/h3xbmt/modular_open_sources_mojo_standard) - [Modular open sources the Mojo standard library](https://www.modular.com/blog/the-next-big-step-in-mojo-open-source)
 * [2024-03-28, 21:18:05](https://lobste.rs/s/bofsuh/linux_foundation_launches_open_source) - [Linux Foundation Launches Open Source Valkey Community](https://www.linuxfoundation.org/press/linux-foundation-launches-open-source-valkey-community)
 * [2024-03-28, 21:17:26](https://lobste.rs/s/x0ensu/you_can_t_leak_users_data_if_you_don_t_hold_it) - [You can't leak users' data if you don't hold it](https://seancoates.com/blogs/matter-and-privacy)
