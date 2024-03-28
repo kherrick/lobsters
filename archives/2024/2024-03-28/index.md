@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 21:42:02](https://lobste.rs/s/h3xbmt/modular_open_sources_mojo_standard) - [Modular open sources the Mojo standard library](https://www.modular.com/blog/the-next-big-step-in-mojo-open-source)
 * [2024-03-28, 21:18:05](https://lobste.rs/s/bofsuh/linux_foundation_launches_open_source) - [Linux Foundation Launches Open Source Valkey Community](https://www.linuxfoundation.org/press/linux-foundation-launches-open-source-valkey-community)
 * [2024-03-28, 21:17:26](https://lobste.rs/s/x0ensu/you_can_t_leak_users_data_if_you_don_t_hold_it) - [You can't leak users' data if you don't hold it](https://seancoates.com/blogs/matter-and-privacy)
 * [2024-03-28, 20:34:49](https://lobste.rs/s/alxcyp/solving_are_you_millionaire_problem_with) - [Solving the \"Are You a Millionaire?\" Problem with ZK certificates](https://neimanslab.org/2024-03-28/zk_certificates.html)
