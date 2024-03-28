@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-28, 04:19:55](https://lobste.rs/s/fltija/brute_force_text_search_optimizations) - [Brute force text search optimizations](https://boyter.org/posts/brute-force-text-search-optimizations/)
 * [2024-03-28, 01:37:14](https://lobste.rs/s/ha94us/fledgling_languages_list_new_upcoming) - [Fledgling Languages List - New and upcoming programming languages](https://fll.presidentbeef.com/)
 * [2024-03-27, 22:26:51](https://lobste.rs/s/2eaua8/bfq_multiqueue_deadline_kyber) - [BFQ, Multiqueue-Deadline, or Kyber? Performance Characterization of Linux Storage Schedulers in the NVMe Era](https://atlarge-research.com/pdfs/2024-io-schedulers.pdf)
 * [2024-03-27, 20:51:17](https://lobste.rs/s/034jx9/finding_memory_leaks_postgres_c_code) - [Finding memory leaks in Postgres C code](https://www.enterprisedb.com/blog/finding-memory-leaks-postgres-c-code)
@@ -24,7 +25,6 @@
 * [2024-03-26, 15:31:36](https://lobste.rs/s/igkrfa/explorative_programming) - [Explorative Programming](https://blog.dziban.net/essays/explorative-programming)
 * [2024-03-26, 14:08:02](https://lobste.rs/s/zag1bo/on_tech_debt_my_rust_library_is_now_cdo) - [On Tech Debt: My Rust Library is now a CDO](https://lucumr.pocoo.org/2024/3/26/rust-cdo/)
 * [2024-03-26, 12:07:45](https://lobste.rs/s/y28nva/42_parquet_zip_bomb_for_big_data_age) - [42.parquet – A Zip Bomb for the Big Data Age](https://duckdb.org/2024/03/26/42-parquet-a-zip-bomb-for-the-big-data-age.html)
-* [2024-03-26, 00:50:49](https://lobste.rs/s/ddmaop/writing_gnome_apps_with_swift) - [Writing GNOME Apps with Swift](https://swift.org/blog/adwaita-swift/)
 
 ## [Archives](archives/index.md)
 
