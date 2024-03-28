@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-28, 05:53:42",
+      "https://lobste.rs/s/tzgizl/representing_state_as_interfaces_go"
+    ],
+    [
+      "Representing State as interfaces in Go",
+      "https://www.emoses.org/posts/resolver-resolved-pattern/"
+    ]
+  ],
+  [
+    [
       "2024-03-28, 04:19:55",
       "https://lobste.rs/s/fltija/brute_force_text_search_optimizations"
     ],
@@ -127,16 +137,6 @@
     [
       "An awk implementation",
       "https://www.raygard.net/awkdoc/"
-    ]
-  ],
-  [
-    [
-      "2024-03-26, 23:32:55",
-      "https://lobste.rs/s/hmiett/building_wopr_7x4090_ai_server"
-    ],
-    [
-      "Building WOPR: A 7x4090 AI Server",
-      "https://www.mov-axbx.com/wopr/wopr_concept.html"
     ]
   ],
   [
