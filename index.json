@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-28, 04:19:55",
+      "https://lobste.rs/s/fltija/brute_force_text_search_optimizations"
+    ],
+    [
+      "Brute force text search optimizations",
+      "https://boyter.org/posts/brute-force-text-search-optimizations/"
+    ]
+  ],
+  [
+    [
       "2024-03-28, 01:37:14",
       "https://lobste.rs/s/ha94us/fledgling_languages_list_new_upcoming"
     ],
@@ -237,16 +247,6 @@
     [
       "42.parquet – A Zip Bomb for the Big Data Age",
       "https://duckdb.org/2024/03/26/42-parquet-a-zip-bomb-for-the-big-data-age.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-26, 00:50:49",
-      "https://lobste.rs/s/ddmaop/writing_gnome_apps_with_swift"
-    ],
-    [
-      "Writing GNOME Apps with Swift",
-      "https://swift.org/blog/adwaita-swift/"
     ]
   ]
 ]
