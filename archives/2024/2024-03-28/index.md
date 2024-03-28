@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-28](index.md)
 
+* [2024-03-28, 17:23:51](https://lobste.rs/s/abb3mr/linux_text_manipulation) - [Linux text manipulation](https://yusuf.fyi/posts/linux-text-manipulation)
 * [2024-03-28, 15:32:38](https://lobste.rs/s/hauskv/kubernetes_back_why_i_don_t_run) - [Kubernetes and back - Why I don't run distributed systems](https://www.davd.io/posts/2024-03-20-kubernetes-and-back-why-i-dont-run-distributed-systems/)
 * [2024-03-28, 15:24:51](https://lobste.rs/s/wnltpi/tech_independence_derek_sivers) - [Tech Independence | Derek Sivers](https://sive.rs/ti)
 * [2024-03-28, 15:24:51](https://lobste.rs/s/wnltpi/tech_independence) - [Tech Independence](https://sive.rs/ti)

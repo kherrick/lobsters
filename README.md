@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-28, 17:23:51](https://lobste.rs/s/abb3mr/linux_text_manipulation) - [Linux text manipulation](https://yusuf.fyi/posts/linux-text-manipulation)
 * [2024-03-28, 15:32:38](https://lobste.rs/s/hauskv/kubernetes_back_why_i_don_t_run) - [Kubernetes and back - Why I don't run distributed systems](https://www.davd.io/posts/2024-03-20-kubernetes-and-back-why-i-dont-run-distributed-systems/)
 * [2024-03-28, 15:24:51](https://lobste.rs/s/wnltpi/tech_independence) - [Tech Independence](https://sive.rs/ti)
 * [2024-03-28, 14:49:27](https://lobste.rs/s/5fsjpu/my_list_challenging_software_projects) - [My list of challenging software projects some programmers should try](https://www.andreinc.net/2024/03/28/programming-projects-ideas)
@@ -21,7 +22,6 @@
 * [2024-03-27, 14:33:41](https://lobste.rs/s/nec1st/netbsd_10_beta_rc1_6_pi_wifi_v) - [NetBSD 10 Beta, RC1-6 and Pi Wifi and A/V](http://jspath55.blogspot.com/2024/03/netbsd-10-beta-rc1-6-and-pi-wifi-and-av.html)
 * [2024-03-27, 11:12:35](https://lobste.rs/s/5pb86n/two_little_interpreters) - [Two little interpreters](https://dubroy.com/blog/two-little-interpreters/)
 * [2024-03-27, 09:52:29](https://lobste.rs/s/gpb0qh/garbage_collection_for_systems) - [Garbage Collection for Systems Programmers](https://bitbashing.io/gc-for-systems-programmers.html)
-* [2024-03-27, 06:22:09](https://lobste.rs/s/rpqo8w/awk_implementation) - [An awk implementation](https://www.raygard.net/awkdoc/)
 * [2024-03-26, 21:23:57](https://lobste.rs/s/fb5w7u/centerpiece_your_trusty_omnibox_search) - [Centerpiece – Your trusty omnibox search](https://github.com/friedow/centerpiece)
 * [2024-03-26, 16:46:47](https://lobste.rs/s/yzcxgj/radicle_sovereign_code_forge_built_on_git) - [Radicle: Sovereign code forge built on Git hits v1.0](https://radicle.xyz)
 * [2024-03-26, 14:08:02](https://lobste.rs/s/zag1bo/on_tech_debt_my_rust_library_is_now_cdo) - [On Tech Debt: My Rust Library is now a CDO](https://lucumr.pocoo.org/2024/3/26/rust-cdo/)
