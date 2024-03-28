@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-28, 20:34:49](https://lobste.rs/s/alxcyp/solving_are_you_millionaire_problem_with) - [Solving the \"Are You a Millionaire?\" Problem with ZK certificates](https://neimanslab.org/2024-03-28/zk_certificates.html)
 * [2024-03-28, 19:44:31](https://lobste.rs/s/n3rxhr/freedom_respecting_technology_next) - [Freedom Respecting Technology: the Next Generation of Open Source, Free Software, Open Knowledge, Open Culture, and Technological Freedom](https://makesourcenotcode.github.io/freedom_respecting_technology.html)
 * [2024-03-28, 19:19:12](https://lobste.rs/s/uvprb3/speedbuilding_llvm_clang_3_minutes_on) - [Speedbuilding LLVM/Clang in 3 minutes on Power10](https://www.cambus.net/speedbuilding-llvm-clang-in-3-minutes-on-power10/)
 * [2024-03-28, 17:39:28](https://lobste.rs/s/r2aehc/hacking_our_postgresql_driver_get_more) - [Hacking our PostgreSQL driver to get more out of Amazon RDS performance insights](https://knock.app/blog/hacking-postgresql-driver)
@@ -17,7 +18,6 @@
 * [2024-03-28, 05:53:42](https://lobste.rs/s/tzgizl/representing_state_as_interfaces_go) - [Representing State as interfaces in Go](https://www.emoses.org/posts/resolver-resolved-pattern/)
 * [2024-03-28, 04:19:55](https://lobste.rs/s/fltija/brute_force_text_search_optimizations) - [Brute force text search optimizations](https://boyter.org/posts/brute-force-text-search-optimizations/)
 * [2024-03-28, 01:37:14](https://lobste.rs/s/ha94us/fledgling_languages_list_new_upcoming) - [Fledgling Languages List - New and upcoming programming languages](https://fll.presidentbeef.com/)
-* [2024-03-27, 22:26:51](https://lobste.rs/s/2eaua8/bfq_multiqueue_deadline_kyber) - [BFQ, Multiqueue-Deadline, or Kyber? Performance Characterization of Linux Storage Schedulers in the NVMe Era](https://atlarge-research.com/pdfs/2024-io-schedulers.pdf)
 * [2024-03-27, 20:51:17](https://lobste.rs/s/034jx9/finding_memory_leaks_postgres_c_code) - [Finding memory leaks in Postgres C code](https://www.enterprisedb.com/blog/finding-memory-leaks-postgres-c-code)
 * [2024-03-27, 20:47:14](https://lobste.rs/s/fufcyo/why_x86_doesn_t_need_die) - [Why x86 Doesn’t Need to Die](https://chipsandcheese.com/2024/03/27/why-x86-doesnt-need-to-die/)
 * [2024-03-27, 20:29:27](https://lobste.rs/s/txapce/who_killed_network_switch_hubris_bug) - [Who Killed the Network Switch? A Hubris Bug Story](https://cliffle.com/blog/who-killed-the-network-switch/)
