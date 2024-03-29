@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-29, 15:45:37",
+      "https://lobste.rs/s/x1s5bq/many_ways_read_tech_news"
+    ],
+    [
+      "The Many Ways To Read Tech News",
+      "https://pgrs.net/2024/03/29/the-many-ways-to-read-tech-news/"
+    ]
+  ],
+  [
+    [
       "2024-03-29, 14:53:43",
       "https://lobste.rs/s/zwgqnl/easy_mode_rust"
     ],
@@ -127,16 +137,6 @@
     [
       "Wall-Escape (CVE-2024-28085): Escape sequence injection in util-linux wall",
       "https://people.rit.edu/sjf5462/6831711781/wall_2_27_2024.txt"
-    ]
-  ],
-  [
-    [
-      "2024-03-29, 02:38:28",
-      "https://lobste.rs/s/swlpw1/servicerouter_service_mesh_at_meta"
-    ],
-    [
-      "ServiceRouter: Service Mesh at Meta",
-      "https://www.micahlerner.com/2024/03/28/servicerouter-hyperscale-and-minimal-cost-service-mesh-at-meta.html"
     ]
   ],
   [
