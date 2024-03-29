@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-29, 08:25:18](https://lobste.rs/s/pxoxgi/avm_updates_slow_down_fritz_box_4040) - [AVM updates slow down FRITZ!Box 4040 release date 2016 too slow for DHCP](https://dwaves.de/2024/03/22/avm-updates-slow-down-fritzbox-4040-release-date-2016-too-slow-for-dhcp-which-boxes-still-receive-security-and-firmware-updates-not-eol-right-to-repair-spare-parts/)
 * [2024-03-29, 07:22:59](https://lobste.rs/s/ue4f3k/ayllu_yet_another_email_based_git_forge) - [Ayllu - yet another email-based Git forge](https://ayllu-forge.org/)
 * [2024-03-29, 07:06:39](https://lobste.rs/s/sttisl/managing_linux_servers_with_cockpit) - [Managing Linux servers with Cockpit](https://lwn.net//Articles/965434/)
 * [2024-03-29, 06:18:23](https://lobste.rs/s/rl5igp/xr0_makes_c_safer_than_rust) - [Xr0 Makes C Safer than Rust](https://xr0.dev/safer)
@@ -9,7 +10,6 @@
 * [2024-03-28, 22:34:35](https://lobste.rs/s/zd3pto/building_text_editor_times_ai) - [Building a Text Editor in the Times of AI](https://zed.dev/blog/building-a-text-editor-in-times-of-ai)
 * [2024-03-28, 21:18:05](https://lobste.rs/s/bofsuh/linux_foundation_launches_open_source) - [Linux Foundation Launches Open Source Valkey Community](https://www.linuxfoundation.org/press/linux-foundation-launches-open-source-valkey-community)
 * [2024-03-28, 21:17:26](https://lobste.rs/s/x0ensu/you_can_t_leak_users_data_if_you_don_t_hold_it) - [You can't leak users' data if you don't hold it](https://seancoates.com/blogs/matter-and-privacy)
-* [2024-03-28, 20:34:49](https://lobste.rs/s/alxcyp/solving_are_you_millionaire_problem_with) - [Solving the \"Are You a Millionaire?\" Problem with ZK certificates](https://neimanslab.org/2024-03-28/zk_certificates.html)
 * [2024-03-28, 19:19:12](https://lobste.rs/s/uvprb3/speedbuilding_llvm_clang_3_minutes_on) - [Speedbuilding LLVM/Clang in 3 minutes on Power10](https://www.cambus.net/speedbuilding-llvm-clang-in-3-minutes-on-power10/)
 * [2024-03-28, 17:39:28](https://lobste.rs/s/r2aehc/hacking_our_postgresql_driver_get_more) - [Hacking our PostgreSQL driver to get more out of Amazon RDS performance insights](https://knock.app/blog/hacking-postgresql-driver)
 * [2024-03-28, 17:23:51](https://lobste.rs/s/abb3mr/linux_text_manipulation) - [Linux text manipulation](https://yusuf.fyi/posts/linux-text-manipulation)
