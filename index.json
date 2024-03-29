@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-29, 12:43:53",
+      "https://lobste.rs/s/x82avy/treeline_update_place_key_value_store_for"
+    ],
+    [
+      "TreeLine: An Update-In-Place Key-Value Store for Modern Storage (2022)",
+      "https://www.vldb.org/pvldb/vol16/p99-yu.pdf"
+    ]
+  ],
+  [
+    [
       "2024-03-29, 12:24:41",
       "https://lobste.rs/s/n4i0l5/external_aggregation_duckdb"
     ],
@@ -25,7 +35,7 @@
       "https://lobste.rs/s/oqobxx/sspl_is_bad"
     ],
     [
-      "SSPL is BAD",
+      "SSPL is bad",
       "https://ssplisbad.com/"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "Representing State as interfaces in Go",
       "https://www.emoses.org/posts/resolver-resolved-pattern/"
-    ]
-  ],
-  [
-    [
-      "2024-03-27, 20:29:27",
-      "https://lobste.rs/s/txapce/who_killed_network_switch_hubris_bug"
-    ],
-    [
-      "Who Killed the Network Switch? A Hubris Bug Story",
-      "https://cliffle.com/blog/who-killed-the-network-switch/"
     ]
   ]
 ]
