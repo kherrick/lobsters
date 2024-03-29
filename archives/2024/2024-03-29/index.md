@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 19:47:32](https://lobste.rs/s/uwop6n/fast_development_rust_part_one) - [Fast Development In Rust, Part One](https://blog.sdf.com/p/fast-development-in-rust-part-one)
 * [2024-03-29, 16:20:47](https://lobste.rs/s/v1gjfa/attacker_techniques_gesture_jacking) - [Attacker Techniques: Gesture Jacking](https://textslashplain.com/2024/03/27/attacker-techniques-gesture-jacking/)
 * [2024-03-29, 16:18:40](https://lobste.rs/s/uihyvs/backdoor_upstream_xz_liblzma_leading_ssh) - [backdoor in upstream xz/liblzma leading to ssh server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
 * [2024-03-29, 16:13:54](https://lobste.rs/s/onqjf8/how_design_isa) - [How to Design an ISA](https://cacm.acm.org/practice/how-to-design-an-isa/)

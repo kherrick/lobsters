@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-29, 19:47:32](https://lobste.rs/s/uwop6n/fast_development_rust_part_one) - [Fast Development In Rust, Part One](https://blog.sdf.com/p/fast-development-in-rust-part-one)
 * [2024-03-29, 16:20:47](https://lobste.rs/s/v1gjfa/attacker_techniques_gesture_jacking) - [Attacker Techniques: Gesture Jacking](https://textslashplain.com/2024/03/27/attacker-techniques-gesture-jacking/)
 * [2024-03-29, 16:18:40](https://lobste.rs/s/uihyvs/backdoor_upstream_xz_liblzma_leading_ssh) - [backdoor in upstream xz/liblzma leading to ssh server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
 * [2024-03-29, 15:57:44](https://lobste.rs/s/y7ny2g/why_do_don_t_languages_forbid_unreachable) - [Why do (or don't) languages forbid unreachable code?](https://langdev.stackexchange.com/questions/3650/why-do-or-dont-languages-forbid-unreachable-code)
@@ -23,7 +24,6 @@
 * [2024-03-28, 15:32:38](https://lobste.rs/s/hauskv/kubernetes_back_why_i_don_t_run) - [Kubernetes and back - Why I don't run distributed systems](https://www.davd.io/posts/2024-03-20-kubernetes-and-back-why-i-dont-run-distributed-systems/)
 * [2024-03-28, 15:24:51](https://lobste.rs/s/wnltpi/tech_independence) - [Tech Independence](https://sive.rs/ti)
 * [2024-03-28, 14:49:27](https://lobste.rs/s/5fsjpu/my_list_challenging_software_projects) - [My list of challenging software projects some programmers should try](https://www.andreinc.net/2024/03/28/programming-projects-ideas)
-* [2024-03-28, 14:34:43](https://lobste.rs/s/fjzhgr/infinite_mac_turning_dark_side) - [Infinite Mac: Turning To The Dark Side](https://blog.persistent.info/2024/03/infinite-mac-nextstep.html?)
 * [2024-03-28, 05:53:42](https://lobste.rs/s/tzgizl/representing_state_as_interfaces_go) - [Representing State as interfaces in Go](https://www.emoses.org/posts/resolver-resolved-pattern/)
 
 ## [Archives](archives/index.md)
