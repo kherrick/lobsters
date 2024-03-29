@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-29, 20:57:55](https://lobste.rs/s/ljyyya/life_algorithms) - [Life algorithms](https://www.gathering4gardner.org/g4g13gift/math/RokickiTomas-GiftExchange-LifeAlgorithms-G4G13.pdf)
 * [2024-03-29, 19:51:34](https://lobste.rs/s/h4r1co/jank_gets_syntax_quoting_more) - [jank gets syntax quoting and more](https://jank-lang.org/blog/2024-03-29-syntax-quoting/)
 * [2024-03-29, 19:47:32](https://lobste.rs/s/uwop6n/fast_development_rust_part_one) - [Fast Development In Rust, Part One](https://blog.sdf.com/p/fast-development-in-rust-part-one)
-* [2024-03-29, 16:20:47](https://lobste.rs/s/v1gjfa/attacker_techniques_gesture_jacking) - [Attacker Techniques: Gesture Jacking](https://textslashplain.com/2024/03/27/attacker-techniques-gesture-jacking/)
 * [2024-03-29, 16:18:40](https://lobste.rs/s/uihyvs/backdoor_upstream_xz_liblzma_leading_ssh) - [backdoor in upstream xz/liblzma leading to ssh server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
 * [2024-03-29, 15:57:44](https://lobste.rs/s/y7ny2g/why_do_don_t_languages_forbid_unreachable) - [Why do (or don't) languages forbid unreachable code?](https://langdev.stackexchange.com/questions/3650/why-do-or-dont-languages-forbid-unreachable-code)
 * [2024-03-29, 14:53:43](https://lobste.rs/s/zwgqnl/easy_mode_rust) - [Easy Mode Rust](https://llogiq.github.io/2024/03/28/easy.html)
