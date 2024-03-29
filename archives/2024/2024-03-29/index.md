@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 13:40:05](https://lobste.rs/s/skkv7q/false_security_dashy_s_client_side) - [False security: Dashy's client-side authentication](https://subract.dev/posts/dashy/)
+* [2024-03-29, 13:37:00](https://lobste.rs/s/ncfw0r/introducing_ruzzy_coverage_guided_ruby) - [Introducing Ruzzy, a coverage-guided Ruby fuzzer](https://blog.trailofbits.com/2024/03/29/introducing-ruzzy-a-coverage-guided-ruby-fuzzer/)
 * [2024-03-29, 12:43:53](https://lobste.rs/s/x82avy/treeline_update_place_key_value_store_for) - [TreeLine: An Update-In-Place Key-Value Store for Modern Storage (2022)](https://www.vldb.org/pvldb/vol16/p99-yu.pdf)
 * [2024-03-29, 12:24:41](https://lobste.rs/s/n4i0l5/external_aggregation_duckdb) - [External Aggregation in DuckDB](https://duckdb.org/2024/03/29/external-aggregation.html)
 * [2024-03-29, 12:16:27](https://lobste.rs/s/qxjpdo/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qxjpdo/what_are_you_doing_this_weekend)
