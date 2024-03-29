@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 07:22:59](https://lobste.rs/s/ue4f3k/ayllu_yet_another_email_based_git_forge) - [Ayllu - yet another email-based Git forge](https://ayllu-forge.org/)
 * [2024-03-29, 07:06:39](https://lobste.rs/s/sttisl/managing_linux_servers_with_cockpit) - [Managing Linux servers with Cockpit](https://lwn.net//Articles/965434/)
 * [2024-03-29, 06:18:23](https://lobste.rs/s/rl5igp/xr0_makes_c_safer_than_rust) - [Xr0 Makes C Safer than Rust](https://xr0.dev/safer)
 * [2024-03-29, 05:24:05](https://lobste.rs/s/8jka1t/being_laid_off_2023_2024_as_early_career) - [Being laid off in 2023-2024 as an early-career developer](https://fpsvogel.com/posts/2024/early-career-developer-job-search-after-layoffs)
