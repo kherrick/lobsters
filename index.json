@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-29, 15:57:44",
+      "https://lobste.rs/s/y7ny2g/why_do_don_t_languages_forbid_unreachable"
+    ],
+    [
+      "Why do (or don't) languages forbid unreachable code?",
+      "https://langdev.stackexchange.com/questions/3650/why-do-or-dont-languages-forbid-unreachable-code"
+    ]
+  ],
+  [
+    [
       "2024-03-29, 15:45:37",
       "https://lobste.rs/s/x1s5bq/many_ways_read_tech_news"
     ],
@@ -137,16 +147,6 @@
     [
       "Wall-Escape (CVE-2024-28085): Escape sequence injection in util-linux wall",
       "https://people.rit.edu/sjf5462/6831711781/wall_2_27_2024.txt"
-    ]
-  ],
-  [
-    [
-      "2024-03-29, 00:16:50",
-      "https://lobste.rs/s/v5taag/massachusetts_bodged_transistor"
-    ],
-    [
-      "Massachusetts Bodged Transistor Authority: How we turned MBTA Red Line equipment into a car speedometer",
-      "https://tris.fyi/blog/mbta-cab-signaling-indicator.html"
     ]
   ],
   [
