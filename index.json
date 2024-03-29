@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-29, 23:05:57",
+      "https://lobste.rs/s/zht9p5/strengths_weaknesses_opportunities"
+    ],
+    [
+      "Strengths, weaknesses, opportunities, and threats facing the GNU Autotools",
+      "https://www.owlfolio.org/development/autoconf-swot/"
+    ]
+  ],
+  [
+    [
       "2024-03-29, 20:57:55",
       "https://lobste.rs/s/ljyyya/life_algorithms"
     ],
@@ -197,16 +207,6 @@
     [
       "Hacking our PostgreSQL driver to get more out of Amazon RDS performance insights",
       "https://knock.app/blog/hacking-postgresql-driver"
-    ]
-  ],
-  [
-    [
-      "2024-03-28, 17:23:51",
-      "https://lobste.rs/s/abb3mr/linux_text_manipulation"
-    ],
-    [
-      "Linux text manipulation",
-      "https://yusuf.fyi/posts/linux-text-manipulation"
     ]
   ],
   [
