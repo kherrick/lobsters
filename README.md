@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-29, 23:23:28](https://lobste.rs/s/20xn0u/arx_store_files_directory_archive_like) - [arx: Store files and directory in an archive. Like tar, but faster and with direct random access](https://github.com/jubako/arx)
 * [2024-03-29, 23:05:57](https://lobste.rs/s/zht9p5/strengths_weaknesses_opportunities) - [Strengths, weaknesses, opportunities, and threats facing the GNU Autotools](https://www.owlfolio.org/development/autoconf-swot/)
 * [2024-03-29, 20:57:55](https://lobste.rs/s/ljyyya/life_algorithms) - [Life algorithms](https://www.gathering4gardner.org/g4g13gift/math/RokickiTomas-GiftExchange-LifeAlgorithms-G4G13.pdf)
 * [2024-03-29, 19:51:34](https://lobste.rs/s/h4r1co/jank_gets_syntax_quoting_more) - [jank gets syntax quoting and more](https://jank-lang.org/blog/2024-03-29-syntax-quoting/)
@@ -20,7 +21,6 @@
 * [2024-03-29, 04:15:00](https://lobste.rs/s/9sho8j/wall_escape_cve_2024_28085_escape) - [Wall-Escape (CVE-2024-28085): Escape sequence injection in util-linux wall](https://people.rit.edu/sjf5462/6831711781/wall_2_27_2024.txt)
 * [2024-03-28, 21:18:05](https://lobste.rs/s/bofsuh/linux_foundation_launches_open_source) - [Linux Foundation Launches Open Source Valkey Community](https://www.linuxfoundation.org/press/linux-foundation-launches-open-source-valkey-community)
 * [2024-03-28, 21:17:26](https://lobste.rs/s/x0ensu/you_can_t_leak_users_data_if_you_don_t_hold_it) - [You can't leak users' data if you don't hold it](https://seancoates.com/blogs/matter-and-privacy)
-* [2024-03-28, 17:39:28](https://lobste.rs/s/r2aehc/hacking_our_postgresql_driver_get_more) - [Hacking our PostgreSQL driver to get more out of Amazon RDS performance insights](https://knock.app/blog/hacking-postgresql-driver)
 * [2024-03-28, 15:32:38](https://lobste.rs/s/hauskv/kubernetes_back_why_i_don_t_run) - [Kubernetes and back - Why I don't run distributed systems](https://www.davd.io/posts/2024-03-20-kubernetes-and-back-why-i-dont-run-distributed-systems/)
 * [2024-03-28, 15:24:51](https://lobste.rs/s/wnltpi/tech_independence) - [Tech Independence](https://sive.rs/ti)
 * [2024-03-28, 14:49:27](https://lobste.rs/s/5fsjpu/my_list_challenging_software_projects) - [My list of challenging software projects some programmers should try](https://www.andreinc.net/2024/03/28/programming-projects-ideas)
