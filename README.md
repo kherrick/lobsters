@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-29, 04:15:00](https://lobste.rs/s/9sho8j/wall_escape_cve_2024_28085_escape) - [Wall-Escape (CVE-2024-28085): Escape sequence injection in util-linux wall](https://people.rit.edu/sjf5462/6831711781/wall_2_27_2024.txt)
 * [2024-03-29, 02:38:28](https://lobste.rs/s/swlpw1/servicerouter_service_mesh_at_meta) - [ServiceRouter: Service Mesh at Meta](https://www.micahlerner.com/2024/03/28/servicerouter-hyperscale-and-minimal-cost-service-mesh-at-meta.html)
 * [2024-03-29, 00:16:50](https://lobste.rs/s/v5taag/massachusetts_bodged_transistor) - [Massachusetts Bodged Transistor Authority: How we turned MBTA Red Line equipment into a car speedometer](https://tris.fyi/blog/mbta-cab-signaling-indicator.html)
 * [2024-03-28, 22:34:35](https://lobste.rs/s/zd3pto/building_text_editor_times_ai) - [Building a Text Editor in the Times of AI](https://zed.dev/blog/building-a-text-editor-in-times-of-ai)
@@ -15,7 +16,6 @@
 * [2024-03-28, 14:49:27](https://lobste.rs/s/5fsjpu/my_list_challenging_software_projects) - [My list of challenging software projects some programmers should try](https://www.andreinc.net/2024/03/28/programming-projects-ideas)
 * [2024-03-28, 14:34:43](https://lobste.rs/s/fjzhgr/infinite_mac_turning_dark_side) - [Infinite Mac: Turning To The Dark Side](https://blog.persistent.info/2024/03/infinite-mac-nextstep.html?)
 * [2024-03-28, 14:29:21](https://lobste.rs/s/zzaopm/tdd_you_re_probably_doing_it_just_fine) - [TDD: You're Probably Doing It Just Fine](https://blog.thecodewhisperer.com/permalink/tdd-youre-probably-doing-it-just-fine)
-* [2024-03-28, 13:46:56](https://lobste.rs/s/lc5gry/arm64_boot_camp_arm64ec_arm64x_explained) - [ARM64 Boot Camp: ARM64EC and ARM64X Explained](http://www.emulators.com/docs/abc_arm64ec_explained.htm)
 * [2024-03-28, 11:28:36](https://lobste.rs/s/lop768/functions_everywhere_only_once_writing) - [Functions Everywhere, Only Once: Writing Functions for the Everywhere Computer](https://fission.codes/blog/functions-everywhere-only-once/)
 * [2024-03-28, 11:22:17](https://lobste.rs/s/o5bmy1/flatpak_permission_survey) - [Flatpak Permission Survey](https://ejona.ersoft.org/archive/2024/03/03/flatpak-perm-survey/)
 * [2024-03-28, 11:10:39](https://lobste.rs/s/yp02rb/flora_pm_meta_index_for_haskell_packages) - [Flora.pm – a meta-index for Haskell packages](https://flora.pm/)
