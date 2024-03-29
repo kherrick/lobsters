@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 16:20:47](https://lobste.rs/s/v1gjfa/attacker_techniques_gesture_jacking) - [Attacker Techniques: Gesture Jacking](https://textslashplain.com/2024/03/27/attacker-techniques-gesture-jacking/)
+* [2024-03-29, 16:18:40](https://lobste.rs/s/uihyvs/backdoor_upstream_xz_liblzma_leading_ssh) - [backdoor in upstream xz/liblzma leading to ssh server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
+* [2024-03-29, 16:13:54](https://lobste.rs/s/onqjf8/how_design_isa) - [How to Design an ISA](https://cacm.acm.org/practice/how-to-design-an-isa/)
 * [2024-03-29, 15:57:44](https://lobste.rs/s/y7ny2g/why_do_don_t_languages_forbid_unreachable) - [Why do (or don't) languages forbid unreachable code?](https://langdev.stackexchange.com/questions/3650/why-do-or-dont-languages-forbid-unreachable-code)
 * [2024-03-29, 15:45:37](https://lobste.rs/s/x1s5bq/many_ways_read_tech_news) - [The Many Ways To Read Tech News](https://pgrs.net/2024/03/29/the-many-ways-to-read-tech-news/)
 * [2024-03-29, 14:53:43](https://lobste.rs/s/zwgqnl/easy_mode_rust) - [Easy Mode Rust](https://llogiq.github.io/2024/03/28/easy.html)
