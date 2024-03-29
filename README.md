@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-29, 19:51:34](https://lobste.rs/s/h4r1co/jank_gets_syntax_quoting_more) - [jank gets syntax quoting and more](https://jank-lang.org/blog/2024-03-29-syntax-quoting/)
 * [2024-03-29, 19:47:32](https://lobste.rs/s/uwop6n/fast_development_rust_part_one) - [Fast Development In Rust, Part One](https://blog.sdf.com/p/fast-development-in-rust-part-one)
 * [2024-03-29, 16:20:47](https://lobste.rs/s/v1gjfa/attacker_techniques_gesture_jacking) - [Attacker Techniques: Gesture Jacking](https://textslashplain.com/2024/03/27/attacker-techniques-gesture-jacking/)
 * [2024-03-29, 16:18:40](https://lobste.rs/s/uihyvs/backdoor_upstream_xz_liblzma_leading_ssh) - [backdoor in upstream xz/liblzma leading to ssh server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
@@ -18,7 +19,6 @@
 * [2024-03-29, 04:15:00](https://lobste.rs/s/9sho8j/wall_escape_cve_2024_28085_escape) - [Wall-Escape (CVE-2024-28085): Escape sequence injection in util-linux wall](https://people.rit.edu/sjf5462/6831711781/wall_2_27_2024.txt)
 * [2024-03-28, 21:18:05](https://lobste.rs/s/bofsuh/linux_foundation_launches_open_source) - [Linux Foundation Launches Open Source Valkey Community](https://www.linuxfoundation.org/press/linux-foundation-launches-open-source-valkey-community)
 * [2024-03-28, 21:17:26](https://lobste.rs/s/x0ensu/you_can_t_leak_users_data_if_you_don_t_hold_it) - [You can't leak users' data if you don't hold it](https://seancoates.com/blogs/matter-and-privacy)
-* [2024-03-28, 19:19:12](https://lobste.rs/s/uvprb3/speedbuilding_llvm_clang_3_minutes_on) - [Speedbuilding LLVM/Clang in 3 minutes on Power10](https://www.cambus.net/speedbuilding-llvm-clang-in-3-minutes-on-power10/)
 * [2024-03-28, 17:39:28](https://lobste.rs/s/r2aehc/hacking_our_postgresql_driver_get_more) - [Hacking our PostgreSQL driver to get more out of Amazon RDS performance insights](https://knock.app/blog/hacking-postgresql-driver)
 * [2024-03-28, 17:23:51](https://lobste.rs/s/abb3mr/linux_text_manipulation) - [Linux text manipulation](https://yusuf.fyi/posts/linux-text-manipulation)
 * [2024-03-28, 15:32:38](https://lobste.rs/s/hauskv/kubernetes_back_why_i_don_t_run) - [Kubernetes and back - Why I don't run distributed systems](https://www.davd.io/posts/2024-03-20-kubernetes-and-back-why-i-dont-run-distributed-systems/)
