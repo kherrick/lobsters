@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-29, 12:24:41",
+      "https://lobste.rs/s/n4i0l5/external_aggregation_duckdb"
+    ],
+    [
+      "External Aggregation in DuckDB",
+      "https://duckdb.org/2024/03/29/external-aggregation.html"
+    ]
+  ],
+  [
+    [
       "2024-03-29, 12:16:27",
       "https://lobste.rs/s/qxjpdo/what_are_you_doing_this_weekend"
     ],
@@ -97,16 +107,6 @@
     [
       "Massachusetts Bodged Transistor Authority: How we turned MBTA Red Line equipment into a car speedometer",
       "https://tris.fyi/blog/mbta-cab-signaling-indicator.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-28, 22:34:35",
-      "https://lobste.rs/s/zd3pto/building_text_editor_times_ai"
-    ],
-    [
-      "Building a Text Editor in the Times of AI",
-      "https://zed.dev/blog/building-a-text-editor-in-times-of-ai"
     ]
   ],
   [
