@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-29, 00:16:50](https://lobste.rs/s/v5taag/massachusetts_bodged_transistor) - [Massachusetts Bodged Transistor Authority: How we turned MBTA Red Line equipment into a car speedometer](https://tris.fyi/blog/mbta-cab-signaling-indicator.html)
 * [2024-03-28, 22:34:35](https://lobste.rs/s/zd3pto/building_text_editor_times_ai) - [Building a Text Editor in the Times of AI](https://zed.dev/blog/building-a-text-editor-in-times-of-ai)
 * [2024-03-28, 21:42:02](https://lobste.rs/s/h3xbmt/modular_open_sources_mojo_standard) - [Modular open sources the Mojo standard library](https://www.modular.com/blog/the-next-big-step-in-mojo-open-source)
 * [2024-03-28, 21:18:05](https://lobste.rs/s/bofsuh/linux_foundation_launches_open_source) - [Linux Foundation Launches Open Source Valkey Community](https://www.linuxfoundation.org/press/linux-foundation-launches-open-source-valkey-community)
@@ -18,7 +19,6 @@
 * [2024-03-28, 11:28:36](https://lobste.rs/s/lop768/functions_everywhere_only_once_writing) - [Functions Everywhere, Only Once: Writing Functions for the Everywhere Computer](https://fission.codes/blog/functions-everywhere-only-once/)
 * [2024-03-28, 11:22:17](https://lobste.rs/s/o5bmy1/flatpak_permission_survey) - [Flatpak Permission Survey](https://ejona.ersoft.org/archive/2024/03/03/flatpak-perm-survey/)
 * [2024-03-28, 11:10:39](https://lobste.rs/s/yp02rb/flora_pm_meta_index_for_haskell_packages) - [Flora.pm – a meta-index for Haskell packages](https://flora.pm/)
-* [2024-03-28, 08:36:29](https://lobste.rs/s/0eowy6/nathanael_huffman_oxide_computer_talks) - [Nathanael Huffman (Oxide Computer) talks FPGA](https://microarch.club/episodes/100/)
 * [2024-03-28, 05:53:42](https://lobste.rs/s/tzgizl/representing_state_as_interfaces_go) - [Representing State as interfaces in Go](https://www.emoses.org/posts/resolver-resolved-pattern/)
 * [2024-03-28, 01:37:14](https://lobste.rs/s/ha94us/fledgling_languages_list_new_upcoming) - [Fledgling Languages List - New and upcoming programming languages](https://fll.presidentbeef.com/)
 * [2024-03-27, 20:51:17](https://lobste.rs/s/034jx9/finding_memory_leaks_postgres_c_code) - [Finding memory leaks in Postgres C code](https://www.enterprisedb.com/blog/finding-memory-leaks-postgres-c-code)
