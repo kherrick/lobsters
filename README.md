@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-29, 12:43:53](https://lobste.rs/s/x82avy/treeline_update_place_key_value_store_for) - [TreeLine: An Update-In-Place Key-Value Store for Modern Storage (2022)](https://www.vldb.org/pvldb/vol16/p99-yu.pdf)
 * [2024-03-29, 12:24:41](https://lobste.rs/s/n4i0l5/external_aggregation_duckdb) - [External Aggregation in DuckDB](https://duckdb.org/2024/03/29/external-aggregation.html)
 * [2024-03-29, 12:16:27](https://lobste.rs/s/qxjpdo/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qxjpdo/what_are_you_doing_this_weekend)
-* [2024-03-29, 10:45:07](https://lobste.rs/s/oqobxx/sspl_is_bad) - [SSPL is BAD](https://ssplisbad.com/)
+* [2024-03-29, 10:45:07](https://lobste.rs/s/oqobxx/sspl_is_bad) - [SSPL is bad](https://ssplisbad.com/)
 * [2024-03-29, 09:17:57](https://lobste.rs/s/wgd8no/quackpipe_duckdb_for_clickhouse_users) - [quackpipe: DuckDB for ClickHouse users](https://github.com/metrico/quackpipe)
 * [2024-03-29, 08:25:18](https://lobste.rs/s/pxoxgi/avm_updates_slow_down_fritz_box_4040) - [AVM updates slow down FRITZ!Box 4040 release date 2016 too slow for DHCP](https://dwaves.de/2024/03/22/avm-updates-slow-down-fritzbox-4040-release-date-2016-too-slow-for-dhcp-which-boxes-still-receive-security-and-firmware-updates-not-eol-right-to-repair-spare-parts/)
 * [2024-03-29, 07:22:59](https://lobste.rs/s/ue4f3k/ayllu_yet_another_email_based_git_forge) - [Ayllu - yet another email-based Git forge](https://ayllu-forge.org/)
@@ -24,7 +25,6 @@
 * [2024-03-28, 11:28:36](https://lobste.rs/s/lop768/functions_everywhere_only_once_writing) - [Functions Everywhere, Only Once: Writing Functions for the Everywhere Computer](https://fission.codes/blog/functions-everywhere-only-once/)
 * [2024-03-28, 11:10:39](https://lobste.rs/s/yp02rb/flora_pm_meta_index_for_haskell_packages) - [Flora.pm – a meta-index for Haskell packages](https://flora.pm/)
 * [2024-03-28, 05:53:42](https://lobste.rs/s/tzgizl/representing_state_as_interfaces_go) - [Representing State as interfaces in Go](https://www.emoses.org/posts/resolver-resolved-pattern/)
-* [2024-03-27, 20:29:27](https://lobste.rs/s/txapce/who_killed_network_switch_hubris_bug) - [Who Killed the Network Switch? A Hubris Bug Story](https://cliffle.com/blog/who-killed-the-network-switch/)
 
 ## [Archives](archives/index.md)
 
