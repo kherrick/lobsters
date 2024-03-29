@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-29, 19:51:34",
+      "https://lobste.rs/s/h4r1co/jank_gets_syntax_quoting_more"
+    ],
+    [
+      "jank gets syntax quoting and more",
+      "https://jank-lang.org/blog/2024-03-29-syntax-quoting/"
+    ]
+  ],
+  [
+    [
       "2024-03-29, 19:47:32",
       "https://lobste.rs/s/uwop6n/fast_development_rust_part_one"
     ],
@@ -177,16 +187,6 @@
     [
       "You can't leak users' data if you don't hold it",
       "https://seancoates.com/blogs/matter-and-privacy"
-    ]
-  ],
-  [
-    [
-      "2024-03-28, 19:19:12",
-      "https://lobste.rs/s/uvprb3/speedbuilding_llvm_clang_3_minutes_on"
-    ],
-    [
-      "Speedbuilding LLVM/Clang in 3 minutes on Power10",
-      "https://www.cambus.net/speedbuilding-llvm-clang-in-3-minutes-on-power10/"
     ]
   ],
   [
