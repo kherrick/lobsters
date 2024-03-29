@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 12:24:41](https://lobste.rs/s/n4i0l5/external_aggregation_duckdb) - [External Aggregation in DuckDB](https://duckdb.org/2024/03/29/external-aggregation.html)
 * [2024-03-29, 12:16:27](https://lobste.rs/s/qxjpdo/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qxjpdo/what_are_you_doing_this_weekend)
 * [2024-03-29, 10:45:07](https://lobste.rs/s/oqobxx/sspl_is_bad) - [SSPL is BAD](https://ssplisbad.com/)
 * [2024-03-29, 09:17:57](https://lobste.rs/s/wgd8no/quackpipe_duckdb_for_clickhouse_users) - [quackpipe: DuckDB for ClickHouse users](https://github.com/metrico/quackpipe)

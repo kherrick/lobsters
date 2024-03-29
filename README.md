@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-29, 12:24:41](https://lobste.rs/s/n4i0l5/external_aggregation_duckdb) - [External Aggregation in DuckDB](https://duckdb.org/2024/03/29/external-aggregation.html)
 * [2024-03-29, 12:16:27](https://lobste.rs/s/qxjpdo/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qxjpdo/what_are_you_doing_this_weekend)
 * [2024-03-29, 10:45:07](https://lobste.rs/s/oqobxx/sspl_is_bad) - [SSPL is BAD](https://ssplisbad.com/)
 * [2024-03-29, 09:17:57](https://lobste.rs/s/wgd8no/quackpipe_duckdb_for_clickhouse_users) - [quackpipe: DuckDB for ClickHouse users](https://github.com/metrico/quackpipe)
@@ -10,7 +11,6 @@
 * [2024-03-29, 04:15:00](https://lobste.rs/s/9sho8j/wall_escape_cve_2024_28085_escape) - [Wall-Escape (CVE-2024-28085): Escape sequence injection in util-linux wall](https://people.rit.edu/sjf5462/6831711781/wall_2_27_2024.txt)
 * [2024-03-29, 02:38:28](https://lobste.rs/s/swlpw1/servicerouter_service_mesh_at_meta) - [ServiceRouter: Service Mesh at Meta](https://www.micahlerner.com/2024/03/28/servicerouter-hyperscale-and-minimal-cost-service-mesh-at-meta.html)
 * [2024-03-29, 00:16:50](https://lobste.rs/s/v5taag/massachusetts_bodged_transistor) - [Massachusetts Bodged Transistor Authority: How we turned MBTA Red Line equipment into a car speedometer](https://tris.fyi/blog/mbta-cab-signaling-indicator.html)
-* [2024-03-28, 22:34:35](https://lobste.rs/s/zd3pto/building_text_editor_times_ai) - [Building a Text Editor in the Times of AI](https://zed.dev/blog/building-a-text-editor-in-times-of-ai)
 * [2024-03-28, 21:18:05](https://lobste.rs/s/bofsuh/linux_foundation_launches_open_source) - [Linux Foundation Launches Open Source Valkey Community](https://www.linuxfoundation.org/press/linux-foundation-launches-open-source-valkey-community)
 * [2024-03-28, 21:17:26](https://lobste.rs/s/x0ensu/you_can_t_leak_users_data_if_you_don_t_hold_it) - [You can't leak users' data if you don't hold it](https://seancoates.com/blogs/matter-and-privacy)
 * [2024-03-28, 19:19:12](https://lobste.rs/s/uvprb3/speedbuilding_llvm_clang_3_minutes_on) - [Speedbuilding LLVM/Clang in 3 minutes on Power10](https://www.cambus.net/speedbuilding-llvm-clang-in-3-minutes-on-power10/)
