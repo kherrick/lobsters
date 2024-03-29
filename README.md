@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-29, 10:45:07](https://lobste.rs/s/oqobxx/sspl_is_bad) - [SSPL is BAD](https://ssplisbad.com/)
 * [2024-03-29, 09:17:57](https://lobste.rs/s/wgd8no/quackpipe_duckdb_for_clickhouse_users) - [quackpipe: DuckDB for ClickHouse users](https://github.com/metrico/quackpipe)
 * [2024-03-29, 07:22:59](https://lobste.rs/s/ue4f3k/ayllu_yet_another_email_based_git_forge) - [Ayllu - yet another email-based Git forge](https://ayllu-forge.org/)
 * [2024-03-29, 07:06:39](https://lobste.rs/s/sttisl/managing_linux_servers_with_cockpit) - [Managing Linux servers with Cockpit](https://lwn.net//Articles/965434/)
@@ -19,7 +20,6 @@
 * [2024-03-28, 14:34:43](https://lobste.rs/s/fjzhgr/infinite_mac_turning_dark_side) - [Infinite Mac: Turning To The Dark Side](https://blog.persistent.info/2024/03/infinite-mac-nextstep.html?)
 * [2024-03-28, 14:29:21](https://lobste.rs/s/zzaopm/tdd_you_re_probably_doing_it_just_fine) - [TDD: You're Probably Doing It Just Fine](https://blog.thecodewhisperer.com/permalink/tdd-youre-probably-doing-it-just-fine)
 * [2024-03-28, 11:28:36](https://lobste.rs/s/lop768/functions_everywhere_only_once_writing) - [Functions Everywhere, Only Once: Writing Functions for the Everywhere Computer](https://fission.codes/blog/functions-everywhere-only-once/)
-* [2024-03-28, 11:22:17](https://lobste.rs/s/o5bmy1/flatpak_permission_survey) - [Flatpak Permission Survey](https://ejona.ersoft.org/archive/2024/03/03/flatpak-perm-survey/)
 * [2024-03-28, 11:10:39](https://lobste.rs/s/yp02rb/flora_pm_meta_index_for_haskell_packages) - [Flora.pm – a meta-index for Haskell packages](https://flora.pm/)
 * [2024-03-28, 05:53:42](https://lobste.rs/s/tzgizl/representing_state_as_interfaces_go) - [Representing State as interfaces in Go](https://www.emoses.org/posts/resolver-resolved-pattern/)
 * [2024-03-27, 20:51:17](https://lobste.rs/s/034jx9/finding_memory_leaks_postgres_c_code) - [Finding memory leaks in Postgres C code](https://www.enterprisedb.com/blog/finding-memory-leaks-postgres-c-code)

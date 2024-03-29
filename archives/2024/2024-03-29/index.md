@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 10:45:07](https://lobste.rs/s/oqobxx/sspl_is_bad) - [SSPL is BAD](https://ssplisbad.com/)
 * [2024-03-29, 09:17:57](https://lobste.rs/s/wgd8no/quackpipe_duckdb_for_clickhouse_users) - [quackpipe: DuckDB for ClickHouse users](https://github.com/metrico/quackpipe)
 * [2024-03-29, 08:25:18](https://lobste.rs/s/pxoxgi/avm_updates_slow_down_fritz_box_4040) - [AVM updates slow down FRITZ!Box 4040 release date 2016 too slow for DHCP](https://dwaves.de/2024/03/22/avm-updates-slow-down-fritzbox-4040-release-date-2016-too-slow-for-dhcp-which-boxes-still-receive-security-and-firmware-updates-not-eol-right-to-repair-spare-parts/)
 * [2024-03-29, 07:22:59](https://lobste.rs/s/ue4f3k/ayllu_yet_another_email_based_git_forge) - [Ayllu - yet another email-based Git forge](https://ayllu-forge.org/)
