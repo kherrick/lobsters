@@ -2,6 +2,7 @@
 
 * [2024-03-29, 10:45:07](https://lobste.rs/s/oqobxx/sspl_is_bad) - [SSPL is BAD](https://ssplisbad.com/)
 * [2024-03-29, 09:17:57](https://lobste.rs/s/wgd8no/quackpipe_duckdb_for_clickhouse_users) - [quackpipe: DuckDB for ClickHouse users](https://github.com/metrico/quackpipe)
+* [2024-03-29, 08:25:18](https://lobste.rs/s/pxoxgi/avm_updates_slow_down_fritz_box_4040) - [AVM updates slow down FRITZ!Box 4040 release date 2016 too slow for DHCP](https://dwaves.de/2024/03/22/avm-updates-slow-down-fritzbox-4040-release-date-2016-too-slow-for-dhcp-which-boxes-still-receive-security-and-firmware-updates-not-eol-right-to-repair-spare-parts/)
 * [2024-03-29, 07:22:59](https://lobste.rs/s/ue4f3k/ayllu_yet_another_email_based_git_forge) - [Ayllu - yet another email-based Git forge](https://ayllu-forge.org/)
 * [2024-03-29, 07:06:39](https://lobste.rs/s/sttisl/managing_linux_servers_with_cockpit) - [Managing Linux servers with Cockpit](https://lwn.net//Articles/965434/)
 * [2024-03-29, 06:18:23](https://lobste.rs/s/rl5igp/xr0_makes_c_safer_than_rust) - [Xr0 Makes C Safer than Rust](https://xr0.dev/safer)
@@ -22,7 +23,6 @@
 * [2024-03-28, 11:28:36](https://lobste.rs/s/lop768/functions_everywhere_only_once_writing) - [Functions Everywhere, Only Once: Writing Functions for the Everywhere Computer](https://fission.codes/blog/functions-everywhere-only-once/)
 * [2024-03-28, 11:10:39](https://lobste.rs/s/yp02rb/flora_pm_meta_index_for_haskell_packages) - [Flora.pm – a meta-index for Haskell packages](https://flora.pm/)
 * [2024-03-28, 05:53:42](https://lobste.rs/s/tzgizl/representing_state_as_interfaces_go) - [Representing State as interfaces in Go](https://www.emoses.org/posts/resolver-resolved-pattern/)
-* [2024-03-27, 20:51:17](https://lobste.rs/s/034jx9/finding_memory_leaks_postgres_c_code) - [Finding memory leaks in Postgres C code](https://www.enterprisedb.com/blog/finding-memory-leaks-postgres-c-code)
 * [2024-03-27, 20:47:14](https://lobste.rs/s/fufcyo/why_x86_doesn_t_need_die) - [Why x86 Doesn’t Need to Die](https://chipsandcheese.com/2024/03/27/why-x86-doesnt-need-to-die/)
 * [2024-03-27, 20:29:27](https://lobste.rs/s/txapce/who_killed_network_switch_hubris_bug) - [Who Killed the Network Switch? A Hubris Bug Story](https://cliffle.com/blog/who-killed-the-network-switch/)
 
