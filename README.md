@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-29, 05:24:05](https://lobste.rs/s/8jka1t/being_laid_off_2023_2024_as_early_career) - [Being laid off in 2023-2024 as an early-career developer](https://fpsvogel.com/posts/2024/early-career-developer-job-search-after-layoffs)
 * [2024-03-29, 04:15:00](https://lobste.rs/s/9sho8j/wall_escape_cve_2024_28085_escape) - [Wall-Escape (CVE-2024-28085): Escape sequence injection in util-linux wall](https://people.rit.edu/sjf5462/6831711781/wall_2_27_2024.txt)
 * [2024-03-29, 02:38:28](https://lobste.rs/s/swlpw1/servicerouter_service_mesh_at_meta) - [ServiceRouter: Service Mesh at Meta](https://www.micahlerner.com/2024/03/28/servicerouter-hyperscale-and-minimal-cost-service-mesh-at-meta.html)
 * [2024-03-29, 00:16:50](https://lobste.rs/s/v5taag/massachusetts_bodged_transistor) - [Massachusetts Bodged Transistor Authority: How we turned MBTA Red Line equipment into a car speedometer](https://tris.fyi/blog/mbta-cab-signaling-indicator.html)
@@ -24,7 +25,6 @@
 * [2024-03-27, 20:51:17](https://lobste.rs/s/034jx9/finding_memory_leaks_postgres_c_code) - [Finding memory leaks in Postgres C code](https://www.enterprisedb.com/blog/finding-memory-leaks-postgres-c-code)
 * [2024-03-27, 20:47:14](https://lobste.rs/s/fufcyo/why_x86_doesn_t_need_die) - [Why x86 Doesn’t Need to Die](https://chipsandcheese.com/2024/03/27/why-x86-doesnt-need-to-die/)
 * [2024-03-27, 20:29:27](https://lobste.rs/s/txapce/who_killed_network_switch_hubris_bug) - [Who Killed the Network Switch? A Hubris Bug Story](https://cliffle.com/blog/who-killed-the-network-switch/)
-* [2024-03-27, 09:52:29](https://lobste.rs/s/gpb0qh/garbage_collection_for_systems) - [Garbage Collection for Systems Programmers](https://bitbashing.io/gc-for-systems-programmers.html)
 
 ## [Archives](archives/index.md)
 
