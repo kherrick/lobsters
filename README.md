@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-29, 15:45:37](https://lobste.rs/s/x1s5bq/many_ways_read_tech_news) - [The Many Ways To Read Tech News](https://pgrs.net/2024/03/29/the-many-ways-to-read-tech-news/)
 * [2024-03-29, 14:53:43](https://lobste.rs/s/zwgqnl/easy_mode_rust) - [Easy Mode Rust](https://llogiq.github.io/2024/03/28/easy.html)
 * [2024-03-29, 14:53:18](https://lobste.rs/s/mszlfq/fedora_workstation_40_what_are_we_working) - [Fedora Workstation 40 – what are we working on](https://blogs.gnome.org/uraeus/2024/03/28/fedora-workstation-40-what-are-we-working-on/)
 * [2024-03-29, 13:40:05](https://lobste.rs/s/skkv7q/false_security_dashy_s_client_side) - [False security: Dashy's client-side authentication](https://subract.dev/posts/dashy/)
@@ -13,7 +14,6 @@
 * [2024-03-29, 07:06:39](https://lobste.rs/s/sttisl/managing_linux_servers_with_cockpit) - [Managing Linux servers with Cockpit](https://lwn.net//Articles/965434/)
 * [2024-03-29, 06:18:23](https://lobste.rs/s/rl5igp/xr0_makes_c_safer_than_rust) - [Xr0 Makes C Safer than Rust](https://xr0.dev/safer)
 * [2024-03-29, 04:15:00](https://lobste.rs/s/9sho8j/wall_escape_cve_2024_28085_escape) - [Wall-Escape (CVE-2024-28085): Escape sequence injection in util-linux wall](https://people.rit.edu/sjf5462/6831711781/wall_2_27_2024.txt)
-* [2024-03-29, 02:38:28](https://lobste.rs/s/swlpw1/servicerouter_service_mesh_at_meta) - [ServiceRouter: Service Mesh at Meta](https://www.micahlerner.com/2024/03/28/servicerouter-hyperscale-and-minimal-cost-service-mesh-at-meta.html)
 * [2024-03-29, 00:16:50](https://lobste.rs/s/v5taag/massachusetts_bodged_transistor) - [Massachusetts Bodged Transistor Authority: How we turned MBTA Red Line equipment into a car speedometer](https://tris.fyi/blog/mbta-cab-signaling-indicator.html)
 * [2024-03-28, 21:18:05](https://lobste.rs/s/bofsuh/linux_foundation_launches_open_source) - [Linux Foundation Launches Open Source Valkey Community](https://www.linuxfoundation.org/press/linux-foundation-launches-open-source-valkey-community)
 * [2024-03-28, 21:17:26](https://lobste.rs/s/x0ensu/you_can_t_leak_users_data_if_you_don_t_hold_it) - [You can't leak users' data if you don't hold it](https://seancoates.com/blogs/matter-and-privacy)

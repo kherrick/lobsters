@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 15:45:37](https://lobste.rs/s/x1s5bq/many_ways_read_tech_news) - [The Many Ways To Read Tech News](https://pgrs.net/2024/03/29/the-many-ways-to-read-tech-news/)
 * [2024-03-29, 14:53:43](https://lobste.rs/s/zwgqnl/easy_mode_rust) - [Easy Mode Rust](https://llogiq.github.io/2024/03/28/easy.html)
 * [2024-03-29, 14:53:18](https://lobste.rs/s/mszlfq/fedora_workstation_40_what_are_we_working) - [Fedora Workstation 40 – what are we working on](https://blogs.gnome.org/uraeus/2024/03/28/fedora-workstation-40-what-are-we-working-on/)
 * [2024-03-29, 13:40:05](https://lobste.rs/s/skkv7q/false_security_dashy_s_client_side) - [False security: Dashy's client-side authentication](https://subract.dev/posts/dashy/)
