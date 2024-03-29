@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-03-29, 16:13:54",
-      "https://lobste.rs/s/onqjf8/how_design_isa"
-    ],
-    [
-      "How to Design an ISA",
-      "https://cacm.acm.org/practice/how-to-design-an-isa/"
-    ]
-  ],
-  [
-    [
       "2024-03-29, 15:57:44",
       "https://lobste.rs/s/y7ny2g/why_do_don_t_languages_forbid_unreachable"
     ],
@@ -187,6 +177,16 @@
     [
       "You can't leak users' data if you don't hold it",
       "https://seancoates.com/blogs/matter-and-privacy"
+    ]
+  ],
+  [
+    [
+      "2024-03-28, 19:19:12",
+      "https://lobste.rs/s/uvprb3/speedbuilding_llvm_clang_3_minutes_on"
+    ],
+    [
+      "Speedbuilding LLVM/Clang in 3 minutes on Power10",
+      "https://www.cambus.net/speedbuilding-llvm-clang-in-3-minutes-on-power10/"
     ]
   ],
   [
