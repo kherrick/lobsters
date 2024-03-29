@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-29, 14:53:43](https://lobste.rs/s/zwgqnl/easy_mode_rust) - [Easy Mode Rust](https://llogiq.github.io/2024/03/28/easy.html)
+* [2024-03-29, 14:53:18](https://lobste.rs/s/mszlfq/fedora_workstation_40_what_are_we_working) - [Fedora Workstation 40 – what are we working on](https://blogs.gnome.org/uraeus/2024/03/28/fedora-workstation-40-what-are-we-working-on/)
 * [2024-03-29, 13:40:05](https://lobste.rs/s/skkv7q/false_security_dashy_s_client_side) - [False security: Dashy's client-side authentication](https://subract.dev/posts/dashy/)
 * [2024-03-29, 13:37:00](https://lobste.rs/s/ncfw0r/introducing_ruzzy_coverage_guided_ruby) - [Introducing Ruzzy, a coverage-guided Ruby fuzzer](https://blog.trailofbits.com/2024/03/29/introducing-ruzzy-a-coverage-guided-ruby-fuzzer/)
 * [2024-03-29, 12:43:53](https://lobste.rs/s/x82avy/treeline_update_place_key_value_store_for) - [TreeLine: An Update-In-Place Key-Value Store for Modern Storage (2022)](https://www.vldb.org/pvldb/vol16/p99-yu.pdf)
@@ -22,8 +24,6 @@
 * [2024-03-28, 15:24:51](https://lobste.rs/s/wnltpi/tech_independence) - [Tech Independence](https://sive.rs/ti)
 * [2024-03-28, 14:49:27](https://lobste.rs/s/5fsjpu/my_list_challenging_software_projects) - [My list of challenging software projects some programmers should try](https://www.andreinc.net/2024/03/28/programming-projects-ideas)
 * [2024-03-28, 14:34:43](https://lobste.rs/s/fjzhgr/infinite_mac_turning_dark_side) - [Infinite Mac: Turning To The Dark Side](https://blog.persistent.info/2024/03/infinite-mac-nextstep.html?)
-* [2024-03-28, 14:29:21](https://lobste.rs/s/zzaopm/tdd_you_re_probably_doing_it_just_fine) - [TDD: You're Probably Doing It Just Fine](https://blog.thecodewhisperer.com/permalink/tdd-youre-probably-doing-it-just-fine)
-* [2024-03-28, 11:28:36](https://lobste.rs/s/lop768/functions_everywhere_only_once_writing) - [Functions Everywhere, Only Once: Writing Functions for the Everywhere Computer](https://fission.codes/blog/functions-everywhere-only-once/)
 * [2024-03-28, 05:53:42](https://lobste.rs/s/tzgizl/representing_state_as_interfaces_go) - [Representing State as interfaces in Go](https://www.emoses.org/posts/resolver-resolved-pattern/)
 
 ## [Archives](archives/index.md)
