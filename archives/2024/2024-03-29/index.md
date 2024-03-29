@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-29](index.md)
 
+* [2024-03-29, 12:16:27](https://lobste.rs/s/qxjpdo/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qxjpdo/what_are_you_doing_this_weekend)
 * [2024-03-29, 10:45:07](https://lobste.rs/s/oqobxx/sspl_is_bad) - [SSPL is BAD](https://ssplisbad.com/)
 * [2024-03-29, 09:17:57](https://lobste.rs/s/wgd8no/quackpipe_duckdb_for_clickhouse_users) - [quackpipe: DuckDB for ClickHouse users](https://github.com/metrico/quackpipe)
 * [2024-03-29, 08:25:18](https://lobste.rs/s/pxoxgi/avm_updates_slow_down_fritz_box_4040) - [AVM updates slow down FRITZ!Box 4040 release date 2016 too slow for DHCP](https://dwaves.de/2024/03/22/avm-updates-slow-down-fritzbox-4040-release-date-2016-too-slow-for-dhcp-which-boxes-still-receive-security-and-firmware-updates-not-eol-right-to-repair-spare-parts/)
