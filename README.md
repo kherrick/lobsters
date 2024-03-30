@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-30, 03:26:20](https://lobste.rs/s/tnaf4e/building_interactive_shell_golang) - [Building an interactive shell in Golang](https://www.dolthub.com/blog/2023-03-29-interactive-shell-golang/)
 * [2024-03-30, 01:20:33](https://lobste.rs/s/owxyqa/bpfman_ebpf_manager) - [bpfman: An eBPF Manager](https://bpfman.io/)
 * [2024-03-29, 23:23:28](https://lobste.rs/s/20xn0u/arx_store_files_directory_archive_like) - [arx: Store files and directory in an archive. Like tar, but faster and with direct random access](https://github.com/jubako/arx)
 * [2024-03-29, 23:05:57](https://lobste.rs/s/zht9p5/strengths_weaknesses_opportunities) - [Strengths, weaknesses, opportunities, and threats facing the GNU Autotools](https://www.owlfolio.org/development/autoconf-swot/)
@@ -19,7 +20,6 @@
 * [2024-03-29, 07:22:59](https://lobste.rs/s/ue4f3k/ayllu_yet_another_email_based_git_forge) - [Ayllu - yet another email-based Git forge](https://ayllu-forge.org/)
 * [2024-03-29, 07:06:39](https://lobste.rs/s/sttisl/managing_linux_servers_with_cockpit) - [Managing Linux servers with Cockpit](https://lwn.net//Articles/965434/)
 * [2024-03-29, 06:18:23](https://lobste.rs/s/rl5igp/xr0_makes_c_safer_than_rust) - [Xr0 Makes C Safer than Rust](https://xr0.dev/safer)
-* [2024-03-29, 04:15:00](https://lobste.rs/s/9sho8j/wall_escape_cve_2024_28085_escape) - [Wall-Escape (CVE-2024-28085): Escape sequence injection in util-linux wall](https://people.rit.edu/sjf5462/6831711781/wall_2_27_2024.txt)
 * [2024-03-28, 21:18:05](https://lobste.rs/s/bofsuh/linux_foundation_launches_open_source) - [Linux Foundation Launches Open Source Valkey Community](https://www.linuxfoundation.org/press/linux-foundation-launches-open-source-valkey-community)
 * [2024-03-28, 21:17:26](https://lobste.rs/s/x0ensu/you_can_t_leak_users_data_if_you_don_t_hold_it) - [You can't leak users' data if you don't hold it](https://seancoates.com/blogs/matter-and-privacy)
 * [2024-03-28, 15:32:38](https://lobste.rs/s/hauskv/kubernetes_back_why_i_don_t_run) - [Kubernetes and back - Why I don't run distributed systems](https://www.davd.io/posts/2024-03-20-kubernetes-and-back-why-i-dont-run-distributed-systems/)
