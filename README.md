@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-30, 19:31:10](https://lobste.rs/s/1jdydv/inside_unusual_7400_series_chip) - [Inside an unusual 7400-series chip implemented with a gate array](http://www.righto.com/2024/03/idt-gate-array.html)
 * [2024-03-30, 18:34:21](https://lobste.rs/s/xz6daj/beware_dashmap_deadlock) - [Beware of the DashMap deadlock](https://dev.to/acter/beware-of-the-dashmap-deadlock-lij)
 * [2024-03-30, 16:28:12](https://lobste.rs/s/8xtuks/helix_release_24_03_highlights) - [Helix Release 24.03 Highlights](https://helix-editor.com/news/release-24-03-highlights/)
 * [2024-03-30, 16:23:07](https://lobste.rs/s/n9av0g/developing_neovim_docker_plugin_from) - [Developing a Neovim Docker Plugin from Scratch](https://youtu.be/HXABdG3xJW4)
@@ -23,7 +24,6 @@
 * [2024-03-29, 07:22:59](https://lobste.rs/s/ue4f3k/ayllu_yet_another_email_based_git_forge) - [Ayllu - yet another email-based Git forge](https://ayllu-forge.org/)
 * [2024-03-29, 06:18:23](https://lobste.rs/s/rl5igp/xr0_makes_c_safer_than_rust) - [Xr0 Makes C Safer than Rust](https://xr0.dev/safer)
 * [2024-03-28, 21:17:26](https://lobste.rs/s/x0ensu/you_can_t_leak_users_data_if_you_don_t_hold_it) - [You can't leak users' data if you don't hold it](https://seancoates.com/blogs/matter-and-privacy)
-* [2024-03-28, 15:32:38](https://lobste.rs/s/hauskv/kubernetes_back_why_i_don_t_run) - [Kubernetes and back - Why I don't run distributed systems](https://www.davd.io/posts/2024-03-20-kubernetes-and-back-why-i-dont-run-distributed-systems/)
 * [2024-03-28, 14:49:27](https://lobste.rs/s/5fsjpu/my_list_challenging_software_projects) - [My list of challenging software projects some programmers should try](https://www.andreinc.net/2024/03/28/programming-projects-ideas)
 
 ## [Archives](archives/index.md)

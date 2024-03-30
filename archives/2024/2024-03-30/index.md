@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-30](index.md)
 
+* [2024-03-30, 19:31:10](https://lobste.rs/s/1jdydv/inside_unusual_7400_series_chip) - [Inside an unusual 7400-series chip implemented with a gate array](http://www.righto.com/2024/03/idt-gate-array.html)
 * [2024-03-30, 18:34:21](https://lobste.rs/s/xz6daj/beware_dashmap_deadlock) - [Beware of the DashMap deadlock](https://dev.to/acter/beware-of-the-dashmap-deadlock-lij)
 * [2024-03-30, 16:28:12](https://lobste.rs/s/8xtuks/helix_release_24_03_highlights) - [Helix Release 24.03 Highlights](https://helix-editor.com/news/release-24-03-highlights/)
 * [2024-03-30, 16:23:07](https://lobste.rs/s/n9av0g/developing_neovim_docker_plugin_from) - [Developing a Neovim Docker Plugin from Scratch](https://youtu.be/HXABdG3xJW4)
