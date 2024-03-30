@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-30, 19:31:10",
+      "https://lobste.rs/s/1jdydv/inside_unusual_7400_series_chip"
+    ],
+    [
+      "Inside an unusual 7400-series chip implemented with a gate array",
+      "http://www.righto.com/2024/03/idt-gate-array.html"
+    ]
+  ],
+  [
+    [
       "2024-03-30, 18:34:21",
       "https://lobste.rs/s/xz6daj/beware_dashmap_deadlock"
     ],
@@ -227,16 +237,6 @@
     [
       "You can't leak users' data if you don't hold it",
       "https://seancoates.com/blogs/matter-and-privacy"
-    ]
-  ],
-  [
-    [
-      "2024-03-28, 15:32:38",
-      "https://lobste.rs/s/hauskv/kubernetes_back_why_i_don_t_run"
-    ],
-    [
-      "Kubernetes and back - Why I don't run distributed systems",
-      "https://www.davd.io/posts/2024-03-20-kubernetes-and-back-why-i-dont-run-distributed-systems/"
     ]
   ],
   [
