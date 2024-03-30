@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-30, 16:23:07](https://lobste.rs/s/n9av0g/developing_neovim_docker_plugin_from) - [Developing a Neovim Docker Plugin from Scratch](https://youtu.be/HXABdG3xJW4)
 * [2024-03-30, 13:47:14](https://lobste.rs/s/jqzcw8/basic_things) - [Basic Things](https://matklad.github.io/2024/03/22/basic-things.html)
 * [2024-03-30, 09:09:52](https://lobste.rs/s/rsagpv/sqlite_for_servers) - [sqlite for servers](https://kerkour.com/sqlite-for-servers)
 * [2024-03-30, 05:49:09](https://lobste.rs/s/ycpuyl/aarch64_explore_vol1_m1_explainer) - [AArch64-Explore/vol1 M1 Explainer](https://github.com/name99-org/AArch64-Explore/blob/main/vol1%20M1%20Explainer.nb.pdf)
@@ -15,7 +16,6 @@
 * [2024-03-29, 15:57:44](https://lobste.rs/s/y7ny2g/why_do_don_t_languages_forbid_unreachable) - [Why do (or don't) languages forbid unreachable code?](https://langdev.stackexchange.com/questions/3650/why-do-or-dont-languages-forbid-unreachable-code)
 * [2024-03-29, 14:53:43](https://lobste.rs/s/zwgqnl/easy_mode_rust) - [Easy Mode Rust](https://llogiq.github.io/2024/03/28/easy.html)
 * [2024-03-29, 14:53:18](https://lobste.rs/s/mszlfq/fedora_workstation_40_what_are_we_working) - [Fedora Workstation 40 – what are we working on](https://blogs.gnome.org/uraeus/2024/03/28/fedora-workstation-40-what-are-we-working-on/)
-* [2024-03-29, 13:40:05](https://lobste.rs/s/skkv7q/false_security_dashy_s_client_side) - [False security: Dashy's client-side authentication](https://subract.dev/posts/dashy/)
 * [2024-03-29, 13:37:00](https://lobste.rs/s/ncfw0r/introducing_ruzzy_coverage_guided_ruby) - [Introducing Ruzzy, a coverage-guided Ruby fuzzer](https://blog.trailofbits.com/2024/03/29/introducing-ruzzy-a-coverage-guided-ruby-fuzzer/)
 * [2024-03-29, 12:43:53](https://lobste.rs/s/x82avy/treeline_update_place_key_value_store_for) - [TreeLine: An Update-In-Place Key-Value Store for Modern Storage (2022)](https://www.vldb.org/pvldb/vol16/p99-yu.pdf)
 * [2024-03-29, 12:16:27](https://lobste.rs/s/qxjpdo/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qxjpdo/what_are_you_doing_this_weekend)
