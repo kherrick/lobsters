@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-03-30, 11:44:17",
-      "https://lobste.rs/s/5zn7oa/netbsd_pkgsrc_on_xz_library"
-    ],
-    [
-      "NetBSD/pkgsrc on xz library",
-      "https://www.unitedbsd.com/d/1321-statement-on-backdoor-in-xz-library"
-    ]
-  ],
-  [
-    [
       "2024-03-30, 09:09:52",
       "https://lobste.rs/s/rsagpv/sqlite_for_servers"
     ],
@@ -237,6 +227,16 @@
     [
       "Kubernetes and back - Why I don't run distributed systems",
       "https://www.davd.io/posts/2024-03-20-kubernetes-and-back-why-i-dont-run-distributed-systems/"
+    ]
+  ],
+  [
+    [
+      "2024-03-28, 15:24:51",
+      "https://lobste.rs/s/wnltpi/tech_independence"
+    ],
+    [
+      "Tech Independence",
+      "https://sive.rs/ti"
     ]
   ],
   [
