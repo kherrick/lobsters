@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-30, 21:16:16",
+      "https://lobste.rs/s/pkgjno/type_inference_was_mistake"
+    ],
+    [
+      "Type Inference Was a Mistake",
+      "https://borretti.me/article/type-inference-was-a-mistake"
+    ]
+  ],
+  [
+    [
       "2024-03-30, 20:26:45",
       "https://lobste.rs/s/i2lob1/announcing_netbsd_10_0_mar_28_2024"
     ],
@@ -107,16 +117,6 @@
     [
       "Building an interactive shell in Golang",
       "https://www.dolthub.com/blog/2023-03-29-interactive-shell-golang/"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 01:20:33",
-      "https://lobste.rs/s/owxyqa/bpfman_ebpf_manager"
-    ],
-    [
-      "bpfman: An eBPF Manager",
-      "https://bpfman.io/"
     ]
   ],
   [
