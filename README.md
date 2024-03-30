@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-30, 05:49:09](https://lobste.rs/s/ycpuyl/aarch64_explore_vol1_m1_explainer) - [AArch64-Explore/vol1 M1 Explainer](https://github.com/name99-org/AArch64-Explore/blob/main/vol1%20M1%20Explainer.nb.pdf)
 * [2024-03-30, 05:40:24](https://lobste.rs/s/s7vxaz/forward_progress_guarantees_c_2023) - [Forward Progress Guarantees in C++ [2023]](https://www.youtube.com/watch?v=g9Rgu6YEuqY)
 * [2024-03-30, 03:26:20](https://lobste.rs/s/tnaf4e/building_interactive_shell_golang) - [Building an interactive shell in Golang](https://www.dolthub.com/blog/2023-03-29-interactive-shell-golang/)
 * [2024-03-30, 01:20:33](https://lobste.rs/s/owxyqa/bpfman_ebpf_manager) - [bpfman: An eBPF Manager](https://bpfman.io/)
@@ -17,7 +18,6 @@
 * [2024-03-29, 12:43:53](https://lobste.rs/s/x82avy/treeline_update_place_key_value_store_for) - [TreeLine: An Update-In-Place Key-Value Store for Modern Storage (2022)](https://www.vldb.org/pvldb/vol16/p99-yu.pdf)
 * [2024-03-29, 12:16:27](https://lobste.rs/s/qxjpdo/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qxjpdo/what_are_you_doing_this_weekend)
 * [2024-03-29, 10:45:07](https://lobste.rs/s/oqobxx/sspl_is_bad) - [SSPL is bad](https://ssplisbad.com/)
-* [2024-03-29, 08:25:18](https://lobste.rs/s/pxoxgi/avm_updates_slow_down_fritz_box_4040) - [AVM updates slow down FRITZ!Box 4040 release date 2016 too slow for DHCP](https://dwaves.de/2024/03/22/avm-updates-slow-down-fritzbox-4040-release-date-2016-too-slow-for-dhcp-which-boxes-still-receive-security-and-firmware-updates-not-eol-right-to-repair-spare-parts/)
 * [2024-03-29, 07:22:59](https://lobste.rs/s/ue4f3k/ayllu_yet_another_email_based_git_forge) - [Ayllu - yet another email-based Git forge](https://ayllu-forge.org/)
 * [2024-03-29, 06:18:23](https://lobste.rs/s/rl5igp/xr0_makes_c_safer_than_rust) - [Xr0 Makes C Safer than Rust](https://xr0.dev/safer)
 * [2024-03-28, 21:18:05](https://lobste.rs/s/bofsuh/linux_foundation_launches_open_source) - [Linux Foundation Launches Open Source Valkey Community](https://www.linuxfoundation.org/press/linux-foundation-launches-open-source-valkey-community)
