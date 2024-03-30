@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-30](index.md)
 
+* [2024-03-30, 13:47:14](https://lobste.rs/s/jqzcw8/basic_things) - [Basic Things](https://matklad.github.io/2024/03/22/basic-things.html)
 * [2024-03-30, 11:44:17](https://lobste.rs/s/5zn7oa/netbsd_pkgsrc_on_xz_library) - [NetBSD/pkgsrc on xz library](https://www.unitedbsd.com/d/1321-statement-on-backdoor-in-xz-library)
 * [2024-03-30, 09:09:52](https://lobste.rs/s/rsagpv/sqlite_for_servers) - [sqlite for servers](https://kerkour.com/sqlite-for-servers)
 * [2024-03-30, 05:49:09](https://lobste.rs/s/ycpuyl/aarch64_explore_vol1_m1_explainer) - [AArch64-Explore/vol1 M1 Explainer](https://github.com/name99-org/AArch64-Explore/blob/main/vol1%20M1%20Explainer.nb.pdf)
