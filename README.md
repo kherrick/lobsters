@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-03-30, 20:26:45](https://lobste.rs/s/i2lob1/announcing_netbsd_10_0_mar_28_2024) - [Announcing NetBSD 10.0 (Mar 28, 2024)](https://www.netbsd.org/releases/formal-10/NetBSD-10.0.html)
-* [2024-03-30, 20:12:54](https://lobste.rs/s/u4qdpe/changes_u128_i128_layout_1_77_1_78_rust_blog) - [Changes to `u128`/`i128` layout in 1.77 and 1.78 | Rust Blog](https://blog.rust-lang.org/2024/03/30/i128-layout-update.html)
+* [2024-03-30, 20:12:54](https://lobste.rs/s/u4qdpe/changes_u128_i128_layout_rust_1_77_1_78) - [Changes to u128/i128 layout in Rust 1.77 and 1.78](https://blog.rust-lang.org/2024/03/30/i128-layout-update.html)
 * [2024-03-30, 19:31:10](https://lobste.rs/s/1jdydv/inside_unusual_7400_series_chip) - [Inside an unusual 7400-series chip implemented with a gate array](http://www.righto.com/2024/03/idt-gate-array.html)
 * [2024-03-30, 18:34:21](https://lobste.rs/s/xz6daj/beware_dashmap_deadlock) - [Beware of the DashMap deadlock](https://dev.to/acter/beware-of-the-dashmap-deadlock-lij)
 * [2024-03-30, 16:28:12](https://lobste.rs/s/8xtuks/helix_release_24_03_highlights) - [Helix Release 24.03 Highlights](https://helix-editor.com/news/release-24-03-highlights/)
