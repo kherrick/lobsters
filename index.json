@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-30, 13:47:14",
+      "https://lobste.rs/s/jqzcw8/basic_things"
+    ],
+    [
+      "Basic Things",
+      "https://matklad.github.io/2024/03/22/basic-things.html"
+    ]
+  ],
+  [
+    [
       "2024-03-30, 09:09:52",
       "https://lobste.rs/s/rsagpv/sqlite_for_servers"
     ],
@@ -227,16 +237,6 @@
     [
       "Kubernetes and back - Why I don't run distributed systems",
       "https://www.davd.io/posts/2024-03-20-kubernetes-and-back-why-i-dont-run-distributed-systems/"
-    ]
-  ],
-  [
-    [
-      "2024-03-28, 15:24:51",
-      "https://lobste.rs/s/wnltpi/tech_independence"
-    ],
-    [
-      "Tech Independence",
-      "https://sive.rs/ti"
     ]
   ],
   [
