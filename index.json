@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-30, 20:26:45",
+      "https://lobste.rs/s/i2lob1/announcing_netbsd_10_0_mar_28_2024"
+    ],
+    [
+      "Announcing NetBSD 10.0 (Mar 28, 2024)",
+      "https://www.netbsd.org/releases/formal-10/NetBSD-10.0.html"
+    ]
+  ],
+  [
+    [
       "2024-03-30, 20:12:54",
       "https://lobste.rs/s/u4qdpe/changes_u128_i128_layout_1_77_1_78_rust_blog"
     ],
@@ -227,16 +237,6 @@
     [
       "Xr0 Makes C Safer than Rust",
       "https://xr0.dev/safer"
-    ]
-  ],
-  [
-    [
-      "2024-03-28, 21:17:26",
-      "https://lobste.rs/s/x0ensu/you_can_t_leak_users_data_if_you_don_t_hold_it"
-    ],
-    [
-      "You can't leak users' data if you don't hold it",
-      "https://seancoates.com/blogs/matter-and-privacy"
     ]
   ],
   [
