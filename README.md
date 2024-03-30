@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-30, 20:26:45](https://lobste.rs/s/i2lob1/announcing_netbsd_10_0_mar_28_2024) - [Announcing NetBSD 10.0 (Mar 28, 2024)](https://www.netbsd.org/releases/formal-10/NetBSD-10.0.html)
 * [2024-03-30, 20:12:54](https://lobste.rs/s/u4qdpe/changes_u128_i128_layout_1_77_1_78_rust_blog) - [Changes to `u128`/`i128` layout in 1.77 and 1.78 | Rust Blog](https://blog.rust-lang.org/2024/03/30/i128-layout-update.html)
 * [2024-03-30, 19:31:10](https://lobste.rs/s/1jdydv/inside_unusual_7400_series_chip) - [Inside an unusual 7400-series chip implemented with a gate array](http://www.righto.com/2024/03/idt-gate-array.html)
 * [2024-03-30, 18:34:21](https://lobste.rs/s/xz6daj/beware_dashmap_deadlock) - [Beware of the DashMap deadlock](https://dev.to/acter/beware-of-the-dashmap-deadlock-lij)
@@ -23,7 +24,6 @@
 * [2024-03-29, 10:45:07](https://lobste.rs/s/oqobxx/sspl_is_bad) - [SSPL is bad](https://ssplisbad.com/)
 * [2024-03-29, 07:22:59](https://lobste.rs/s/ue4f3k/ayllu_yet_another_email_based_git_forge) - [Ayllu - yet another email-based Git forge](https://ayllu-forge.org/)
 * [2024-03-29, 06:18:23](https://lobste.rs/s/rl5igp/xr0_makes_c_safer_than_rust) - [Xr0 Makes C Safer than Rust](https://xr0.dev/safer)
-* [2024-03-28, 21:17:26](https://lobste.rs/s/x0ensu/you_can_t_leak_users_data_if_you_don_t_hold_it) - [You can't leak users' data if you don't hold it](https://seancoates.com/blogs/matter-and-privacy)
 * [2024-03-28, 14:49:27](https://lobste.rs/s/5fsjpu/my_list_challenging_software_projects) - [My list of challenging software projects some programmers should try](https://www.andreinc.net/2024/03/28/programming-projects-ideas)
 
 ## [Archives](archives/index.md)
