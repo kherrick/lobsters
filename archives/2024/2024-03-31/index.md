@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-03-31](index.md)
+
+* [2024-03-31, 01:25:14](https://lobste.rs/s/huwi3r/git_as_debugging_tool) - [Git as debugging tool](https://lucasoshiro.github.io/posts-en/2023-02-13-git-debug/)
