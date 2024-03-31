@@ -19,12 +19,12 @@
 * [2024-03-30, 16:23:07](https://lobste.rs/s/n9av0g/developing_neovim_docker_plugin_from) - [Developing a Neovim Docker Plugin from Scratch](https://youtu.be/HXABdG3xJW4)
 * [2024-03-30, 13:47:14](https://lobste.rs/s/jqzcw8/basic_things) - [Basic Things](https://matklad.github.io/2024/03/22/basic-things.html)
 * [2024-03-30, 09:09:52](https://lobste.rs/s/rsagpv/sqlite_for_servers) - [sqlite for servers](https://kerkour.com/sqlite-for-servers)
-* [2024-03-29, 23:23:28](https://lobste.rs/s/20xn0u/arx_store_files_directory_archive_like) - [arx: Store files and directory in an archive. Like tar, but faster and with direct random access](https://github.com/jubako/arx)
 * [2024-03-29, 23:05:57](https://lobste.rs/s/zht9p5/strengths_weaknesses_opportunities) - [Strengths, weaknesses, opportunities, and threats facing the GNU Autotools](https://www.owlfolio.org/development/autoconf-swot/)
 * [2024-03-29, 19:51:34](https://lobste.rs/s/h4r1co/jank_gets_syntax_quoting_more) - [jank gets syntax quoting and more](https://jank-lang.org/blog/2024-03-29-syntax-quoting/)
 * [2024-03-29, 16:18:40](https://lobste.rs/s/uihyvs/backdoor_upstream_xz_liblzma_leading_ssh) - [backdoor in upstream xz/liblzma leading to ssh server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
 * [2024-03-29, 14:53:43](https://lobste.rs/s/zwgqnl/easy_mode_rust) - [Easy Mode Rust](https://llogiq.github.io/2024/03/28/easy.html)
 * [2024-03-29, 10:45:07](https://lobste.rs/s/oqobxx/sspl_is_bad) - [SSPL is bad](https://ssplisbad.com/)
+* [2024-03-29, 06:18:23](https://lobste.rs/s/rl5igp/xr0_makes_c_safer_than_rust) - [Xr0 Makes C Safer than Rust](https://xr0.dev/safer)
 
 ## [Archives](archives/index.md)
 
