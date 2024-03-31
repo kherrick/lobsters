@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-31, 20:07:55",
+      "https://lobste.rs/s/mjng1x/proposal_add_signals_javascript"
+    ],
+    [
+      "A proposal to add signals to JavaScript",
+      "https://github.com/proposal-signals/proposal-signals"
+    ]
+  ],
+  [
+    [
       "2024-03-31, 17:12:22",
       "https://lobste.rs/s/kxf4yt/this_typescript_type_haunted_my_dreams"
     ],
@@ -237,16 +247,6 @@
     [
       "SSPL is bad",
       "https://ssplisbad.com/"
-    ]
-  ],
-  [
-    [
-      "2024-03-29, 06:18:23",
-      "https://lobste.rs/s/rl5igp/xr0_makes_c_safer_than_rust"
-    ],
-    [
-      "Xr0 Makes C Safer than Rust",
-      "https://xr0.dev/safer"
     ]
   ]
 ]
