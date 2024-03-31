@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
+* [2024-03-31, 13:07:39](https://lobste.rs/s/u9vk9p/how_read_intensive_is_kernel_s_use_rcu) - [How Read-Intensive is The Kernel's Use of RCU?](https://paulmck.livejournal.com/67547.html)
 * [2024-03-31, 11:11:05](https://lobste.rs/s/odmize/on_garbage_collection) - [On Garbage Collection](https://xorvoid.com/on_garbage_collection.html)
 * [2024-03-31, 07:56:23](https://lobste.rs/s/t41eij/xz_backdoor_it_s_rce_not_auth_bypass_gated) - [XZ backdoor: \"It's RCE, not auth bypass, and gated/unreplayable.\"](https://bsky.app/profile/filippo.abyssdomain.expert/post/3kowjkx2njy2b)
 * [2024-03-31, 06:42:50](https://lobste.rs/s/a9x437/explaining_internals_async_task_from) - [Explaining the internals of async-task from the ground up](https://notgull.net/async-task-explained-part1/)

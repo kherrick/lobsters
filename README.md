@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-31, 13:07:39](https://lobste.rs/s/u9vk9p/how_read_intensive_is_kernel_s_use_rcu) - [How Read-Intensive is The Kernel's Use of RCU?](https://paulmck.livejournal.com/67547.html)
 * [2024-03-31, 11:11:05](https://lobste.rs/s/odmize/on_garbage_collection) - [On Garbage Collection](https://xorvoid.com/on_garbage_collection.html)
 * [2024-03-31, 06:42:50](https://lobste.rs/s/a9x437/explaining_internals_async_task_from) - [Explaining the internals of async-task from the ground up](https://notgull.net/async-task-explained-part1/)
 * [2024-03-31, 06:23:06](https://lobste.rs/s/vgs8bx/kinematically_coupled_nanometer) - [A Kinematically Coupled, Nanometer-Resolution Piezo Focus Stage](https://www.bunniestudios.com/blog/?p=7066)
@@ -14,7 +15,6 @@
 * [2024-03-30, 16:23:07](https://lobste.rs/s/n9av0g/developing_neovim_docker_plugin_from) - [Developing a Neovim Docker Plugin from Scratch](https://youtu.be/HXABdG3xJW4)
 * [2024-03-30, 13:47:14](https://lobste.rs/s/jqzcw8/basic_things) - [Basic Things](https://matklad.github.io/2024/03/22/basic-things.html)
 * [2024-03-30, 09:09:52](https://lobste.rs/s/rsagpv/sqlite_for_servers) - [sqlite for servers](https://kerkour.com/sqlite-for-servers)
-* [2024-03-30, 05:49:09](https://lobste.rs/s/ycpuyl/aarch64_explore_vol1_m1_explainer) - [AArch64-Explore/vol1 M1 Explainer](https://github.com/name99-org/AArch64-Explore/blob/main/vol1%20M1%20Explainer.nb.pdf)
 * [2024-03-30, 03:26:20](https://lobste.rs/s/tnaf4e/building_interactive_shell_golang) - [Building an interactive shell in Golang](https://www.dolthub.com/blog/2023-03-29-interactive-shell-golang/)
 * [2024-03-29, 23:23:28](https://lobste.rs/s/20xn0u/arx_store_files_directory_archive_like) - [arx: Store files and directory in an archive. Like tar, but faster and with direct random access](https://github.com/jubako/arx)
 * [2024-03-29, 23:05:57](https://lobste.rs/s/zht9p5/strengths_weaknesses_opportunities) - [Strengths, weaknesses, opportunities, and threats facing the GNU Autotools](https://www.owlfolio.org/development/autoconf-swot/)
