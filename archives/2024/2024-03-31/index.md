@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-03-31](index.md)
 
+* [2024-03-31, 14:34:36](https://lobste.rs/s/mngwgd/mdbooker_turn_your_readme_md_into) - [mdbooker – turn your README.md into a documentation site](https://maximullaris.com/mdbooker.html)
 * [2024-03-31, 13:07:39](https://lobste.rs/s/u9vk9p/how_read_intensive_is_kernel_s_use_rcu) - [How Read-Intensive is The Kernel's Use of RCU?](https://paulmck.livejournal.com/67547.html)
 * [2024-03-31, 11:11:05](https://lobste.rs/s/odmize/on_garbage_collection) - [On Garbage Collection](https://xorvoid.com/on_garbage_collection.html)
 * [2024-03-31, 07:56:23](https://lobste.rs/s/t41eij/xz_backdoor_it_s_rce_not_auth_bypass_gated) - [XZ backdoor: \"It's RCE, not auth bypass, and gated/unreplayable.\"](https://bsky.app/profile/filippo.abyssdomain.expert/post/3kowjkx2njy2b)

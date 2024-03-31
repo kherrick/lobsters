@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-31, 14:34:36](https://lobste.rs/s/mngwgd/mdbooker_turn_your_readme_md_into) - [mdbooker – turn your README.md into a documentation site](https://maximullaris.com/mdbooker.html)
 * [2024-03-31, 13:07:39](https://lobste.rs/s/u9vk9p/how_read_intensive_is_kernel_s_use_rcu) - [How Read-Intensive is The Kernel's Use of RCU?](https://paulmck.livejournal.com/67547.html)
 * [2024-03-31, 11:11:05](https://lobste.rs/s/odmize/on_garbage_collection) - [On Garbage Collection](https://xorvoid.com/on_garbage_collection.html)
 * [2024-03-31, 06:42:50](https://lobste.rs/s/a9x437/explaining_internals_async_task_from) - [Explaining the internals of async-task from the ground up](https://notgull.net/async-task-explained-part1/)
@@ -18,7 +19,6 @@
 * [2024-03-30, 03:26:20](https://lobste.rs/s/tnaf4e/building_interactive_shell_golang) - [Building an interactive shell in Golang](https://www.dolthub.com/blog/2023-03-29-interactive-shell-golang/)
 * [2024-03-29, 23:23:28](https://lobste.rs/s/20xn0u/arx_store_files_directory_archive_like) - [arx: Store files and directory in an archive. Like tar, but faster and with direct random access](https://github.com/jubako/arx)
 * [2024-03-29, 23:05:57](https://lobste.rs/s/zht9p5/strengths_weaknesses_opportunities) - [Strengths, weaknesses, opportunities, and threats facing the GNU Autotools](https://www.owlfolio.org/development/autoconf-swot/)
-* [2024-03-29, 20:57:55](https://lobste.rs/s/ljyyya/life_algorithms) - [Life algorithms](https://www.gathering4gardner.org/g4g13gift/math/RokickiTomas-GiftExchange-LifeAlgorithms-G4G13.pdf)
 * [2024-03-29, 19:51:34](https://lobste.rs/s/h4r1co/jank_gets_syntax_quoting_more) - [jank gets syntax quoting and more](https://jank-lang.org/blog/2024-03-29-syntax-quoting/)
 * [2024-03-29, 19:47:32](https://lobste.rs/s/uwop6n/fast_development_rust_part_one) - [Fast Development In Rust, Part One](https://blog.sdf.com/p/fast-development-in-rust-part-one)
 * [2024-03-29, 16:18:40](https://lobste.rs/s/uihyvs/backdoor_upstream_xz_liblzma_leading_ssh) - [backdoor in upstream xz/liblzma leading to ssh server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
