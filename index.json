@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-03-31, 20:26:33",
+      "https://lobste.rs/s/xeb6js/fast_concise_probabilistic_filters"
+    ],
+    [
+      "Fast and concise probabilistic filters in Python",
+      "https://lemire.me/blog/2024/03/31/fast-and-concise-probabilistic-filters-in-python/"
+    ]
+  ],
+  [
+    [
       "2024-03-31, 20:07:55",
       "https://lobste.rs/s/mjng1x/proposal_add_signals_javascript"
     ],
@@ -237,16 +247,6 @@
     [
       "Easy Mode Rust",
       "https://llogiq.github.io/2024/03/28/easy.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-29, 10:45:07",
-      "https://lobste.rs/s/oqobxx/sspl_is_bad"
-    ],
-    [
-      "SSPL is bad",
-      "https://ssplisbad.com/"
     ]
   ]
 ]
