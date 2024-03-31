@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-03-31, 07:56:23](https://lobste.rs/s/t41eij/xz_backdoor_it_s_rce_not_auth_bypass_gated) - [XZ backdoor: \"It's RCE, not auth bypass, and gated/unreplayable.\"](https://bsky.app/profile/filippo.abyssdomain.expert/post/3kowjkx2njy2b)
 * [2024-03-31, 06:42:50](https://lobste.rs/s/a9x437/explaining_internals_async_task_from) - [Explaining the internals of async-task from the ground up](https://notgull.net/async-task-explained-part1/)
 * [2024-03-31, 06:23:06](https://lobste.rs/s/vgs8bx/kinematically_coupled_nanometer) - [A Kinematically Coupled, Nanometer-Resolution Piezo Focus Stage](https://www.bunniestudios.com/blog/?p=7066)
 * [2024-03-31, 05:42:35](https://lobste.rs/s/i6ncoz/refurb_weekend_data_general_one_worst_lcd) - [Refurb weekend: Data General/One (and the worst LCD in the world)](https://oldvcr.blogspot.com/2024/03/refurb-weekend-data-generalone-and.html)
@@ -24,6 +23,7 @@
 * [2024-03-29, 16:18:40](https://lobste.rs/s/uihyvs/backdoor_upstream_xz_liblzma_leading_ssh) - [backdoor in upstream xz/liblzma leading to ssh server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
 * [2024-03-29, 14:53:43](https://lobste.rs/s/zwgqnl/easy_mode_rust) - [Easy Mode Rust](https://llogiq.github.io/2024/03/28/easy.html)
 * [2024-03-29, 10:45:07](https://lobste.rs/s/oqobxx/sspl_is_bad) - [SSPL is bad](https://ssplisbad.com/)
+* [2024-03-29, 07:22:59](https://lobste.rs/s/ue4f3k/ayllu_yet_another_email_based_git_forge) - [Ayllu - yet another email-based Git forge](https://ayllu-forge.org/)
 * [2024-03-29, 06:18:23](https://lobste.rs/s/rl5igp/xr0_makes_c_safer_than_rust) - [Xr0 Makes C Safer than Rust](https://xr0.dev/safer)
 
 ## [Archives](archives/index.md)
