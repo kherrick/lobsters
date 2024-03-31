@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-03-31, 17:12:22](https://lobste.rs/s/kxf4yt/this_typescript_type_haunted_my_dreams) - [This TypeScript type haunted my dreams](https://amir.rachum.com/typescript-oneof/)
 * [2024-03-31, 16:11:54](https://lobste.rs/s/g2me63/managarm_end_2023_update) - [Managarm: End of 2023 Update](https://managarm.org/2023/12/31/end-of-year-update.html)
 * [2024-03-31, 15:54:29](https://lobste.rs/s/3hu18n/redox_os_development_priorities_for_2023) - [Redox OS Development Priorities for 2023/24](https://www.redox-os.org/news/development-priorities-2023-09/)
 * [2024-03-31, 14:34:36](https://lobste.rs/s/mngwgd/mdbooker_turn_your_readme_md_into) - [mdbooker – turn your README.md into a documentation site](https://maximullaris.com/mdbooker.html)
@@ -18,7 +19,6 @@
 * [2024-03-30, 16:23:07](https://lobste.rs/s/n9av0g/developing_neovim_docker_plugin_from) - [Developing a Neovim Docker Plugin from Scratch](https://youtu.be/HXABdG3xJW4)
 * [2024-03-30, 13:47:14](https://lobste.rs/s/jqzcw8/basic_things) - [Basic Things](https://matklad.github.io/2024/03/22/basic-things.html)
 * [2024-03-30, 09:09:52](https://lobste.rs/s/rsagpv/sqlite_for_servers) - [sqlite for servers](https://kerkour.com/sqlite-for-servers)
-* [2024-03-29, 23:23:28](https://lobste.rs/s/20xn0u/arx_store_files_directory_archive_like) - [arx: Store files and directory in an archive. Like tar, but faster and with direct random access](https://github.com/jubako/arx)
 * [2024-03-29, 23:05:57](https://lobste.rs/s/zht9p5/strengths_weaknesses_opportunities) - [Strengths, weaknesses, opportunities, and threats facing the GNU Autotools](https://www.owlfolio.org/development/autoconf-swot/)
 * [2024-03-29, 19:51:34](https://lobste.rs/s/h4r1co/jank_gets_syntax_quoting_more) - [jank gets syntax quoting and more](https://jank-lang.org/blog/2024-03-29-syntax-quoting/)
 * [2024-03-29, 16:18:40](https://lobste.rs/s/uihyvs/backdoor_upstream_xz_liblzma_leading_ssh) - [backdoor in upstream xz/liblzma leading to ssh server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
