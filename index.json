@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2024-03-29, 23:23:28",
-      "https://lobste.rs/s/20xn0u/arx_store_files_directory_archive_like"
-    ],
-    [
-      "arx: Store files and directory in an archive. Like tar, but faster and with direct random access",
-      "https://github.com/jubako/arx"
-    ]
-  ],
-  [
-    [
       "2024-03-29, 23:05:57",
       "https://lobste.rs/s/zht9p5/strengths_weaknesses_opportunities"
     ],
@@ -247,6 +237,16 @@
     [
       "SSPL is bad",
       "https://ssplisbad.com/"
+    ]
+  ],
+  [
+    [
+      "2024-03-29, 06:18:23",
+      "https://lobste.rs/s/rl5igp/xr0_makes_c_safer_than_rust"
+    ],
+    [
+      "Xr0 Makes C Safer than Rust",
+      "https://xr0.dev/safer"
     ]
   ]
 ]
