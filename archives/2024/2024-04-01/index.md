@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
+* [2024-04-01, 10:58:08](https://lobste.rs/s/2drpsh/why_do_python_lists_multiply_oddly) - [Why Do Python Lists Multiply Oddly? Exploring the CPython Source Code](https://codeconfessions.substack.com/p/why-do-python-lists-multiply-oddly)
 * [2024-04-01, 10:18:01](https://lobste.rs/s/mqx9bi/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/mqx9bi/what_are_you_doing_this_week)
 * [2024-04-01, 09:39:40](https://lobste.rs/s/2vqjnr/fear_makes_you_worse_programmer) - [Fear makes you a worse programmer](https://jvns.ca/blog/2014/12/21/fear-makes-you-a-worse-programmer/)
 * [2024-04-01, 09:37:34](https://lobste.rs/s/meeu4y/microsoft_separate_teams_office) - [Microsoft to separate Teams and Office globally amid antitrust scrutiny](https://www.reuters.com/technology/microsoft-separate-teams-office-globally-amid-antitrust-scrutiny-2024-04-01/)
