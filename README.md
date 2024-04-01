@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-01, 15:35:08](https://lobste.rs/s/wdrrxk/here_is_why_vim_uses_hjkl_keys_as_arrow_keys) - [Here is why vim uses hjkl keys as arrow keys](https://catonmat.net/why-vim-uses-hjkl-as-arrow-keys)
 * [2024-04-01, 15:04:35](https://lobste.rs/s/adjjur/survey_distributed_file_system_design) - [Survey of Distributed File System Design Choices](https://dl.acm.org/doi/10.1145/3465405)
 * [2024-04-01, 14:31:28](https://lobste.rs/s/np8vfh/so_i_guess_i_hacked_samsung) - [so i guess i hacked samsung?](https://maia.crimew.gay/posts/i-hacked-samsung/)
 * [2024-04-01, 13:50:52](https://lobste.rs/s/maymyv/10_64_qr_codes) - [10 > 64, in QR codes](https://huonw.github.io/blog/2024/03/qr-base10-base64/)
@@ -23,7 +24,6 @@
 * [2024-03-31, 22:02:55](https://lobste.rs/s/z6gaff/engineering_culture) - [Engineering a culture](https://oxide.computer/blog/engineering-culture)
 * [2024-03-31, 20:07:55](https://lobste.rs/s/mjng1x/proposal_add_signals_javascript) - [A proposal to add signals to JavaScript](https://github.com/proposal-signals/proposal-signals)
 * [2024-03-31, 17:12:22](https://lobste.rs/s/kxf4yt/this_typescript_type_haunted_my_dreams) - [This TypeScript type haunted my dreams](https://amir.rachum.com/typescript-oneof/)
-* [2024-03-31, 15:54:29](https://lobste.rs/s/3hu18n/redox_os_development_priorities_for_2023) - [Redox OS Development Priorities for 2023/24](https://www.redox-os.org/news/development-priorities-2023-09/)
 * [2024-03-31, 14:34:36](https://lobste.rs/s/mngwgd/mdbooker_turn_your_readme_md_into) - [mdbooker – turn your README.md into a documentation site](https://maximullaris.com/mdbooker.html)
 
 ## [Archives](archives/index.md)
