@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
+* [2024-04-01, 18:52:28](https://lobste.rs/s/zarxqz/xzbot_notes_honeypot_exploit_demo_for_xz) - [xzbot: notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)](https://github.com/amlweems/xzbot)
 * [2024-04-01, 18:41:12](https://lobste.rs/s/sqyyyp/book_review_tidy_first_by_kent_beck) - [Book Review: \"Tidy First?\" by Kent Beck](https://www.pathsensitive.com/2024/04/book-review-tidy-first.html)
 * [2024-04-01, 17:53:38](https://lobste.rs/s/wzlcgl/liveview_is_best_with_svelte) - [LiveView is best with Svelte](https://blog.sequin.io/liveview-is-best-with-svelte/)
 * [2024-04-01, 17:49:58](https://lobste.rs/s/mge4t2/43_years_actors_taxonomy_actor_models) - [43 Years of Actors: A Taxonomy of Actor Models and Their Key Properties](http://soft.vub.ac.be/Publications/2016/vub-soft-tr-16-11.pdf)
