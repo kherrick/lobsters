@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
+* [2024-04-01, 15:04:35](https://lobste.rs/s/adjjur/survey_distributed_file_system_design) - [Survey of Distributed File System Design Choices](https://dl.acm.org/doi/10.1145/3465405)
 * [2024-04-01, 14:31:28](https://lobste.rs/s/np8vfh/so_i_guess_i_hacked_samsung) - [so i guess i hacked samsung?](https://maia.crimew.gay/posts/i-hacked-samsung/)
 * [2024-04-01, 13:50:52](https://lobste.rs/s/maymyv/10_64_qr_codes) - [10 > 64, in QR codes](https://huonw.github.io/blog/2024/03/qr-base10-base64/)
 * [2024-04-01, 13:19:36](https://lobste.rs/s/vlkzik/lazy_flippant_classification) - [A lazy and flippant classification of programming languages](https://blog.brycekerley.net/2024/04/01/p-langs.html)

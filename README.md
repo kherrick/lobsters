@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-01, 15:04:35](https://lobste.rs/s/adjjur/survey_distributed_file_system_design) - [Survey of Distributed File System Design Choices](https://dl.acm.org/doi/10.1145/3465405)
 * [2024-04-01, 14:31:28](https://lobste.rs/s/np8vfh/so_i_guess_i_hacked_samsung) - [so i guess i hacked samsung?](https://maia.crimew.gay/posts/i-hacked-samsung/)
 * [2024-04-01, 13:50:52](https://lobste.rs/s/maymyv/10_64_qr_codes) - [10 > 64, in QR codes](https://huonw.github.io/blog/2024/03/qr-base10-base64/)
 * [2024-04-01, 13:19:36](https://lobste.rs/s/vlkzik/lazy_flippant_classification) - [A lazy and flippant classification of programming languages](https://blog.brycekerley.net/2024/04/01/p-langs.html)
@@ -24,7 +25,6 @@
 * [2024-03-31, 17:12:22](https://lobste.rs/s/kxf4yt/this_typescript_type_haunted_my_dreams) - [This TypeScript type haunted my dreams](https://amir.rachum.com/typescript-oneof/)
 * [2024-03-31, 15:54:29](https://lobste.rs/s/3hu18n/redox_os_development_priorities_for_2023) - [Redox OS Development Priorities for 2023/24](https://www.redox-os.org/news/development-priorities-2023-09/)
 * [2024-03-31, 14:34:36](https://lobste.rs/s/mngwgd/mdbooker_turn_your_readme_md_into) - [mdbooker – turn your README.md into a documentation site](https://maximullaris.com/mdbooker.html)
-* [2024-03-30, 21:16:16](https://lobste.rs/s/pkgjno/type_inference_was_mistake) - [Type Inference Was a Mistake](https://borretti.me/article/type-inference-was-a-mistake)
 
 ## [Archives](archives/index.md)
 
