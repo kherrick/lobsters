@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-01, 09:39:40](https://lobste.rs/s/2vqjnr/fear_makes_you_worse_programmer) - [Fear makes you a worse programmer](https://jvns.ca/blog/2014/12/21/fear-makes-you-a-worse-programmer/)
+* [2024-04-01, 09:37:34](https://lobste.rs/s/meeu4y/microsoft_separate_teams_office) - [Microsoft to separate Teams and Office globally amid antitrust scrutiny](https://www.reuters.com/technology/microsoft-separate-teams-office-globally-amid-antitrust-scrutiny-2024-04-01/)
 * [2024-04-01, 08:30:14](https://lobste.rs/s/jn3psr/anonymity_open_source) - [Anonymity in open source](https://lucumr.pocoo.org/2024/3/31/skin-in-the-game/)
 * [2024-04-01, 08:27:56](https://lobste.rs/s/ugvvay/switching_between_code_variants_using) - [Switching between code variants using comments](https://linus.schreibt.jetzt/posts/toggle-comments.html)
 * [2024-04-01, 07:22:43](https://lobste.rs/s/yginhk/light_elf_exploring_potential_size) - [Light ELF: exploring potential size reduction](https://maskray.me/blog/2024-04-01-light-elf-exploring-potential-size-reduction)
@@ -18,13 +20,11 @@
 * [2024-03-31, 14:34:36](https://lobste.rs/s/mngwgd/mdbooker_turn_your_readme_md_into) - [mdbooker – turn your README.md into a documentation site](https://maximullaris.com/mdbooker.html)
 * [2024-03-31, 11:11:05](https://lobste.rs/s/odmize/on_garbage_collection) - [On Garbage Collection](https://xorvoid.com/on_garbage_collection.html)
 * [2024-03-31, 05:42:35](https://lobste.rs/s/i6ncoz/refurb_weekend_data_general_one_worst_lcd) - [Refurb weekend: Data General/One (and the worst LCD in the world)](https://oldvcr.blogspot.com/2024/03/refurb-weekend-data-generalone-and.html)
-* [2024-03-31, 01:25:14](https://lobste.rs/s/huwi3r/git_as_debugging_tool) - [Git as debugging tool](https://lucasoshiro.github.io/posts-en/2023-02-13-git-debug/)
 * [2024-03-30, 21:16:16](https://lobste.rs/s/pkgjno/type_inference_was_mistake) - [Type Inference Was a Mistake](https://borretti.me/article/type-inference-was-a-mistake)
 * [2024-03-30, 20:26:45](https://lobste.rs/s/i2lob1/announcing_netbsd_10_0_mar_28_2024) - [Announcing NetBSD 10.0 (Mar 28, 2024)](https://www.netbsd.org/releases/formal-10/NetBSD-10.0.html)
 * [2024-03-30, 16:28:12](https://lobste.rs/s/8xtuks/helix_release_24_03_highlights) - [Helix Release 24.03 Highlights](https://helix-editor.com/news/release-24-03-highlights/)
 * [2024-03-30, 13:47:14](https://lobste.rs/s/jqzcw8/basic_things) - [Basic Things](https://matklad.github.io/2024/03/22/basic-things.html)
 * [2024-03-30, 09:09:52](https://lobste.rs/s/rsagpv/sqlite_for_servers) - [sqlite for servers](https://kerkour.com/sqlite-for-servers)
-* [2024-03-29, 16:18:40](https://lobste.rs/s/uihyvs/backdoor_upstream_xz_liblzma_leading_ssh) - [backdoor in upstream xz/liblzma leading to ssh server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
 
 ## [Archives](archives/index.md)
 
