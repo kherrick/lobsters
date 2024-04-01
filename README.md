@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-01, 08:27:56](https://lobste.rs/s/ugvvay/switching_between_code_variants_using) - [Switching between code variants using comments](https://linus.schreibt.jetzt/posts/toggle-comments.html)
+* [2024-04-01, 08:23:24](https://lobste.rs/s/h1njwd/patch_harec_add_c_templates_hare) - [[PATCH harec] Add C++ templates to Hare](https://lists.sr.ht/~sircmpwn/hare-dev/%3C20240401074550.22680-1-sebastian%40sebsite.pw%3E)
 * [2024-04-01, 07:22:43](https://lobste.rs/s/yginhk/light_elf_exploring_potential_size) - [Light ELF: exploring potential size reduction](https://maskray.me/blog/2024-04-01-light-elf-exploring-potential-size-reduction)
 * [2024-04-01, 07:21:08](https://lobste.rs/s/0ruoab/lattice_now_compiles_net_il) - [Lattice now compiles to .NET IL](https://johnaustin.io/articles/2024/lattice-now-compiles-to-net-il)
 * [2024-04-01, 07:19:53](https://lobste.rs/s/7nqlh9/remoteness_remote_work) - [The remoteness of remote work](https://zerodha.tech/blog/remoteness-of-remote-work/)
@@ -12,10 +14,8 @@
 * [2024-03-31, 20:26:33](https://lobste.rs/s/xeb6js/fast_concise_probabilistic_filters) - [Fast and concise probabilistic filters in Python](https://lemire.me/blog/2024/03/31/fast-and-concise-probabilistic-filters-in-python/)
 * [2024-03-31, 20:07:55](https://lobste.rs/s/mjng1x/proposal_add_signals_javascript) - [A proposal to add signals to JavaScript](https://github.com/proposal-signals/proposal-signals)
 * [2024-03-31, 17:12:22](https://lobste.rs/s/kxf4yt/this_typescript_type_haunted_my_dreams) - [This TypeScript type haunted my dreams](https://amir.rachum.com/typescript-oneof/)
-* [2024-03-31, 16:11:54](https://lobste.rs/s/g2me63/managarm_end_2023_update) - [Managarm: End of 2023 Update](https://managarm.org/2023/12/31/end-of-year-update.html)
 * [2024-03-31, 15:54:29](https://lobste.rs/s/3hu18n/redox_os_development_priorities_for_2023) - [Redox OS Development Priorities for 2023/24](https://www.redox-os.org/news/development-priorities-2023-09/)
 * [2024-03-31, 14:34:36](https://lobste.rs/s/mngwgd/mdbooker_turn_your_readme_md_into) - [mdbooker – turn your README.md into a documentation site](https://maximullaris.com/mdbooker.html)
-* [2024-03-31, 13:07:39](https://lobste.rs/s/u9vk9p/how_read_intensive_is_kernel_s_use_rcu) - [How Read-Intensive is The Kernel's Use of RCU?](https://paulmck.livejournal.com/67547.html)
 * [2024-03-31, 11:11:05](https://lobste.rs/s/odmize/on_garbage_collection) - [On Garbage Collection](https://xorvoid.com/on_garbage_collection.html)
 * [2024-03-31, 05:42:35](https://lobste.rs/s/i6ncoz/refurb_weekend_data_general_one_worst_lcd) - [Refurb weekend: Data General/One (and the worst LCD in the world)](https://oldvcr.blogspot.com/2024/03/refurb-weekend-data-generalone-and.html)
 * [2024-03-31, 01:25:14](https://lobste.rs/s/huwi3r/git_as_debugging_tool) - [Git as debugging tool](https://lucasoshiro.github.io/posts-en/2023-02-13-git-debug/)

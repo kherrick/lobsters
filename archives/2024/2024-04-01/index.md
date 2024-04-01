@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
+* [2024-04-01, 08:27:56](https://lobste.rs/s/ugvvay/switching_between_code_variants_using) - [Switching between code variants using comments](https://linus.schreibt.jetzt/posts/toggle-comments.html)
+* [2024-04-01, 08:23:24](https://lobste.rs/s/h1njwd/patch_harec_add_c_templates_hare) - [[PATCH harec] Add C++ templates to Hare](https://lists.sr.ht/~sircmpwn/hare-dev/%3C20240401074550.22680-1-sebastian%40sebsite.pw%3E)
 * [2024-04-01, 07:22:43](https://lobste.rs/s/yginhk/light_elf_exploring_potential_size) - [Light ELF: exploring potential size reduction](https://maskray.me/blog/2024-04-01-light-elf-exploring-potential-size-reduction)
 * [2024-04-01, 07:21:08](https://lobste.rs/s/0ruoab/lattice_now_compiles_net_il) - [Lattice now compiles to .NET IL](https://johnaustin.io/articles/2024/lattice-now-compiles-to-net-il)
 * [2024-04-01, 07:19:53](https://lobste.rs/s/7nqlh9/remoteness_remote_work) - [The remoteness of remote work](https://zerodha.tech/blog/remoteness-of-remote-work/)
