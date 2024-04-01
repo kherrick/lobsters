@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-01, 03:14:19](https://lobste.rs/s/v57uy4/what_are_you_learning_nowadays) - [What are you learning nowadays?](https://lobste.rs/s/v57uy4/what_are_you_learning_nowadays)
 * [2024-04-01, 02:56:35](https://lobste.rs/s/5iviyz/i_upgraded_my_ibook_g4_have_ssd) - [I upgraded my iBook G4 to have an SSD](https://boredzo.org/blog/archives/2024-03-31/i-upgraded-my-ibook-g4-to-have-an-ssd)
 * [2024-04-01, 02:48:10](https://lobste.rs/s/gtx1u3/deep_dive_into_email_deliverability_2024) - [A Deep Dive into Email Deliverability in 2024](https://www.xomedia.io/blog/a-deep-dive-into-email-deliverability/)
 * [2024-04-01, 02:38:43](https://lobste.rs/s/lraffe/llama_now_goes_faster_on_cpus) - [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
@@ -21,7 +22,6 @@
 * [2024-03-30, 20:12:54](https://lobste.rs/s/u4qdpe/changes_u128_i128_layout_rust_1_77_1_78) - [Changes to u128/i128 layout in Rust 1.77 and 1.78](https://blog.rust-lang.org/2024/03/30/i128-layout-update.html)
 * [2024-03-30, 18:34:21](https://lobste.rs/s/xz6daj/beware_dashmap_deadlock) - [Beware of the DashMap deadlock](https://dev.to/acter/beware-of-the-dashmap-deadlock-lij)
 * [2024-03-30, 16:28:12](https://lobste.rs/s/8xtuks/helix_release_24_03_highlights) - [Helix Release 24.03 Highlights](https://helix-editor.com/news/release-24-03-highlights/)
-* [2024-03-30, 16:23:07](https://lobste.rs/s/n9av0g/developing_neovim_docker_plugin_from) - [Developing a Neovim Docker Plugin from Scratch](https://youtu.be/HXABdG3xJW4)
 * [2024-03-30, 13:47:14](https://lobste.rs/s/jqzcw8/basic_things) - [Basic Things](https://matklad.github.io/2024/03/22/basic-things.html)
 * [2024-03-30, 09:09:52](https://lobste.rs/s/rsagpv/sqlite_for_servers) - [sqlite for servers](https://kerkour.com/sqlite-for-servers)
 * [2024-03-29, 16:18:40](https://lobste.rs/s/uihyvs/backdoor_upstream_xz_liblzma_leading_ssh) - [backdoor in upstream xz/liblzma leading to ssh server compromise](https://www.openwall.com/lists/oss-security/2024/03/29/4)
