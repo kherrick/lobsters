@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-04-01, 18:52:28",
-      "https://lobste.rs/s/zarxqz/xzbot_notes_honeypot_exploit_demo_for_xz"
-    ],
-    [
-      "xzbot: notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)",
-      "https://github.com/amlweems/xzbot"
-    ]
-  ],
-  [
-    [
       "2024-04-01, 18:41:12",
       "https://lobste.rs/s/sqyyyp/book_review_tidy_first_by_kent_beck"
     ],
@@ -187,6 +177,16 @@
     [
       "Light ELF: exploring potential size reduction",
       "https://maskray.me/blog/2024-04-01-light-elf-exploring-potential-size-reduction"
+    ]
+  ],
+  [
+    [
+      "2024-04-01, 07:21:08",
+      "https://lobste.rs/s/0ruoab/lattice_now_compiles_net_il"
+    ],
+    [
+      "Lattice now compiles to .NET IL",
+      "https://johnaustin.io/articles/2024/lattice-now-compiles-to-net-il"
     ]
   ],
   [
