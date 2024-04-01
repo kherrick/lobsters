@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-01, 12:34:29](https://lobste.rs/s/4pzifd/wi_fi_only_works_when_it_s_raining) - [The Wi-Fi only works when it's raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
 * [2024-04-01, 12:04:51](https://lobste.rs/s/wx1n28/which_build_tool_for_bootstrappable) - [Which Build Tool For A Bootstrappable Project?](http://jackkelly.name/blog/archives/2024/04/01/which_build_tool_for_a_bootstrappable_project/index.html)
 * [2024-04-01, 11:21:07](https://lobste.rs/s/dhkqmg/intelli_python_orchestrate_ai_models) - [Intelli Python To Orchestrate AI Models Collaboration As Graph](https://github.com/intelligentnode/Intelli?tab=readme-ov-file#create-ai-flows)
 * [2024-04-01, 10:58:08](https://lobste.rs/s/2drpsh/why_do_python_lists_multiply_oddly) - [Why Do Python Lists Multiply Oddly? Exploring the CPython Source Code](https://codeconfessions.substack.com/p/why-do-python-lists-multiply-oddly)
 * [2024-04-01, 10:18:01](https://lobste.rs/s/mqx9bi/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/mqx9bi/what_are_you_doing_this_week)
 * [2024-04-01, 09:39:40](https://lobste.rs/s/2vqjnr/fear_makes_you_worse_programmer) - [Fear makes you a worse programmer](https://jvns.ca/blog/2014/12/21/fear-makes-you-a-worse-programmer/)
 * [2024-04-01, 09:37:34](https://lobste.rs/s/meeu4y/microsoft_separate_teams_office) - [Microsoft to separate Teams and Office globally amid antitrust scrutiny](https://www.reuters.com/technology/microsoft-separate-teams-office-globally-amid-antitrust-scrutiny-2024-04-01/)
-* [2024-04-01, 08:30:14](https://lobste.rs/s/jn3psr/anonymity_open_source) - [Anonymity in open source](https://lucumr.pocoo.org/2024/3/31/skin-in-the-game/)
 * [2024-04-01, 08:27:56](https://lobste.rs/s/ugvvay/switching_between_code_variants_using) - [Switching between code variants using comments](https://linus.schreibt.jetzt/posts/toggle-comments.html)
 * [2024-04-01, 07:22:43](https://lobste.rs/s/yginhk/light_elf_exploring_potential_size) - [Light ELF: exploring potential size reduction](https://maskray.me/blog/2024-04-01-light-elf-exploring-potential-size-reduction)
 * [2024-04-01, 07:21:08](https://lobste.rs/s/0ruoab/lattice_now_compiles_net_il) - [Lattice now compiles to .NET IL](https://johnaustin.io/articles/2024/lattice-now-compiles-to-net-il)

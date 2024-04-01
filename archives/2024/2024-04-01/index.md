@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
+* [2024-04-01, 12:34:29](https://lobste.rs/s/4pzifd/wi_fi_only_works_when_it_s_raining) - [The Wi-Fi only works when it's raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
 * [2024-04-01, 12:04:51](https://lobste.rs/s/wx1n28/which_build_tool_for_bootstrappable) - [Which Build Tool For A Bootstrappable Project?](http://jackkelly.name/blog/archives/2024/04/01/which_build_tool_for_a_bootstrappable_project/index.html)
 * [2024-04-01, 11:21:07](https://lobste.rs/s/dhkqmg/intelli_python_orchestrate_ai_models) - [Intelli Python To Orchestrate AI Models Collaboration As Graph](https://github.com/intelligentnode/Intelli?tab=readme-ov-file#create-ai-flows)
 * [2024-04-01, 10:58:08](https://lobste.rs/s/2drpsh/why_do_python_lists_multiply_oddly) - [Why Do Python Lists Multiply Oddly? Exploring the CPython Source Code](https://codeconfessions.substack.com/p/why-do-python-lists-multiply-oddly)
