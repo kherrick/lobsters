@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
+* [2024-04-01, 19:05:54](https://lobste.rs/s/ezsobc/zen_mind_google_intern_s_mind) - [Zen Mind, Google Intern's Mind](https://jorge.olano.dev/blog/zen-mind-google-interns-mind)
 * [2024-04-01, 18:52:28](https://lobste.rs/s/zarxqz/xzbot_notes_honeypot_exploit_demo_for_xz) - [xzbot: notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)](https://github.com/amlweems/xzbot)
 * [2024-04-01, 18:41:12](https://lobste.rs/s/sqyyyp/book_review_tidy_first_by_kent_beck) - [Book Review: \"Tidy First?\" by Kent Beck](https://www.pathsensitive.com/2024/04/book-review-tidy-first.html)
 * [2024-04-01, 17:53:38](https://lobste.rs/s/wzlcgl/liveview_is_best_with_svelte) - [LiveView is best with Svelte](https://blog.sequin.io/liveview-is-best-with-svelte/)

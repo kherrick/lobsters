@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-01, 19:05:54](https://lobste.rs/s/ezsobc/zen_mind_google_intern_s_mind) - [Zen Mind, Google Intern's Mind](https://jorge.olano.dev/blog/zen-mind-google-interns-mind)
 * [2024-04-01, 18:52:28](https://lobste.rs/s/zarxqz/xzbot_notes_honeypot_exploit_demo_for_xz) - [xzbot: notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)](https://github.com/amlweems/xzbot)
 * [2024-04-01, 18:41:12](https://lobste.rs/s/sqyyyp/book_review_tidy_first_by_kent_beck) - [Book Review: \"Tidy First?\" by Kent Beck](https://www.pathsensitive.com/2024/04/book-review-tidy-first.html)
 * [2024-04-01, 17:53:38](https://lobste.rs/s/wzlcgl/liveview_is_best_with_svelte) - [LiveView is best with Svelte](https://blog.sequin.io/liveview-is-best-with-svelte/)
@@ -14,7 +15,6 @@
 * [2024-04-01, 12:04:51](https://lobste.rs/s/wx1n28/which_build_tool_for_bootstrappable) - [Which Build Tool For A Bootstrappable Project?](http://jackkelly.name/blog/archives/2024/04/01/which_build_tool_for_a_bootstrappable_project/index.html)
 * [2024-04-01, 10:58:08](https://lobste.rs/s/2drpsh/why_do_python_lists_multiply_oddly) - [Why Do Python Lists Multiply Oddly? Exploring the CPython Source Code](https://codeconfessions.substack.com/p/why-do-python-lists-multiply-oddly)
 * [2024-04-01, 10:18:01](https://lobste.rs/s/mqx9bi/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/mqx9bi/what_are_you_doing_this_week)
-* [2024-04-01, 09:39:40](https://lobste.rs/s/2vqjnr/fear_makes_you_worse_programmer) - [Fear makes you a worse programmer](https://jvns.ca/blog/2014/12/21/fear-makes-you-a-worse-programmer/)
 * [2024-04-01, 09:37:34](https://lobste.rs/s/meeu4y/microsoft_separate_teams_office) - [Microsoft to separate Teams and Office globally amid antitrust scrutiny](https://www.reuters.com/technology/microsoft-separate-teams-office-globally-amid-antitrust-scrutiny-2024-04-01/)
 * [2024-04-01, 08:27:56](https://lobste.rs/s/ugvvay/switching_between_code_variants_using) - [Switching between code variants using comments](https://linus.schreibt.jetzt/posts/toggle-comments.html)
 * [2024-04-01, 07:22:43](https://lobste.rs/s/yginhk/light_elf_exploring_potential_size) - [Light ELF: exploring potential size reduction](https://maskray.me/blog/2024-04-01-light-elf-exploring-potential-size-reduction)
