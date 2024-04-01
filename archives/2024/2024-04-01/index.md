@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-04-01](index.md)
+
+* [2024-04-01, 02:38:43](https://lobste.rs/s/lraffe/llama_now_goes_faster_on_cpus) - [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
