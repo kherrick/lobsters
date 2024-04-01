@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
+* [2024-04-01, 07:19:53](https://lobste.rs/s/7nqlh9/remoteness_remote_work) - [The remoteness of remote work](https://zerodha.tech/blog/remoteness-of-remote-work/)
 * [2024-04-01, 06:09:28](https://lobste.rs/s/vqqaul/hearts_super_nintendo) - [The hearts of the Super Nintendo](https://fabiensanglard.net/snes_hearts/index.html)
 * [2024-04-01, 05:53:20](https://lobste.rs/s/dw4y9l/showing_gpt_4_develop_execute_c_code_for) - [Showing GPT-4 develop and execute c code for you, if you tell it you're a journalist](https://chat.openai.com/share/4f799d2c-e87a-4ba3-9553-0a105a5eed5c)
 * [2024-04-01, 03:14:19](https://lobste.rs/s/v57uy4/what_are_you_learning_nowadays) - [What are you learning nowadays?](https://lobste.rs/s/v57uy4/what_are_you_learning_nowadays)
