@@ -2,7 +2,6 @@
 
 * [2024-04-01, 08:30:14](https://lobste.rs/s/jn3psr/anonymity_open_source) - [Anonymity in open source](https://lucumr.pocoo.org/2024/3/31/skin-in-the-game/)
 * [2024-04-01, 08:27:56](https://lobste.rs/s/ugvvay/switching_between_code_variants_using) - [Switching between code variants using comments](https://linus.schreibt.jetzt/posts/toggle-comments.html)
-* [2024-04-01, 08:23:24](https://lobste.rs/s/h1njwd/patch_harec_add_c_templates_hare) - [[PATCH harec] Add C++ templates to Hare](https://lists.sr.ht/~sircmpwn/hare-dev/%3C20240401074550.22680-1-sebastian%40sebsite.pw%3E)
 * [2024-04-01, 07:22:43](https://lobste.rs/s/yginhk/light_elf_exploring_potential_size) - [Light ELF: exploring potential size reduction](https://maskray.me/blog/2024-04-01-light-elf-exploring-potential-size-reduction)
 * [2024-04-01, 07:21:08](https://lobste.rs/s/0ruoab/lattice_now_compiles_net_il) - [Lattice now compiles to .NET IL](https://johnaustin.io/articles/2024/lattice-now-compiles-to-net-il)
 * [2024-04-01, 07:19:53](https://lobste.rs/s/7nqlh9/remoteness_remote_work) - [The remoteness of remote work](https://zerodha.tech/blog/remoteness-of-remote-work/)
@@ -19,6 +18,7 @@
 * [2024-03-31, 14:34:36](https://lobste.rs/s/mngwgd/mdbooker_turn_your_readme_md_into) - [mdbooker – turn your README.md into a documentation site](https://maximullaris.com/mdbooker.html)
 * [2024-03-31, 11:11:05](https://lobste.rs/s/odmize/on_garbage_collection) - [On Garbage Collection](https://xorvoid.com/on_garbage_collection.html)
 * [2024-03-31, 05:42:35](https://lobste.rs/s/i6ncoz/refurb_weekend_data_general_one_worst_lcd) - [Refurb weekend: Data General/One (and the worst LCD in the world)](https://oldvcr.blogspot.com/2024/03/refurb-weekend-data-generalone-and.html)
+* [2024-03-31, 01:25:14](https://lobste.rs/s/huwi3r/git_as_debugging_tool) - [Git as debugging tool](https://lucasoshiro.github.io/posts-en/2023-02-13-git-debug/)
 * [2024-03-30, 21:16:16](https://lobste.rs/s/pkgjno/type_inference_was_mistake) - [Type Inference Was a Mistake](https://borretti.me/article/type-inference-was-a-mistake)
 * [2024-03-30, 20:26:45](https://lobste.rs/s/i2lob1/announcing_netbsd_10_0_mar_28_2024) - [Announcing NetBSD 10.0 (Mar 28, 2024)](https://www.netbsd.org/releases/formal-10/NetBSD-10.0.html)
 * [2024-03-30, 16:28:12](https://lobste.rs/s/8xtuks/helix_release_24_03_highlights) - [Helix Release 24.03 Highlights](https://helix-editor.com/news/release-24-03-highlights/)
