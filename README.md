@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-01, 12:04:51](https://lobste.rs/s/wx1n28/which_build_tool_for_bootstrappable) - [Which Build Tool For A Bootstrappable Project?](http://jackkelly.name/blog/archives/2024/04/01/which_build_tool_for_a_bootstrappable_project/index.html)
 * [2024-04-01, 11:21:07](https://lobste.rs/s/dhkqmg/intelli_python_orchestrate_ai_models) - [Intelli Python To Orchestrate AI Models Collaboration As Graph](https://github.com/intelligentnode/Intelli?tab=readme-ov-file#create-ai-flows)
 * [2024-04-01, 10:58:08](https://lobste.rs/s/2drpsh/why_do_python_lists_multiply_oddly) - [Why Do Python Lists Multiply Oddly? Exploring the CPython Source Code](https://codeconfessions.substack.com/p/why-do-python-lists-multiply-oddly)
 * [2024-04-01, 10:18:01](https://lobste.rs/s/mqx9bi/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/mqx9bi/what_are_you_doing_this_week)
@@ -24,7 +25,6 @@
 * [2024-03-31, 11:11:05](https://lobste.rs/s/odmize/on_garbage_collection) - [On Garbage Collection](https://xorvoid.com/on_garbage_collection.html)
 * [2024-03-31, 05:42:35](https://lobste.rs/s/i6ncoz/refurb_weekend_data_general_one_worst_lcd) - [Refurb weekend: Data General/One (and the worst LCD in the world)](https://oldvcr.blogspot.com/2024/03/refurb-weekend-data-generalone-and.html)
 * [2024-03-30, 21:16:16](https://lobste.rs/s/pkgjno/type_inference_was_mistake) - [Type Inference Was a Mistake](https://borretti.me/article/type-inference-was-a-mistake)
-* [2024-03-30, 16:28:12](https://lobste.rs/s/8xtuks/helix_release_24_03_highlights) - [Helix Release 24.03 Highlights](https://helix-editor.com/news/release-24-03-highlights/)
 
 ## [Archives](archives/index.md)
 
