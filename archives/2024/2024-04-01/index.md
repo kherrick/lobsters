@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
+* [2024-04-01, 06:09:28](https://lobste.rs/s/vqqaul/hearts_super_nintendo) - [The hearts of the Super Nintendo](https://fabiensanglard.net/snes_hearts/index.html)
+* [2024-04-01, 05:53:20](https://lobste.rs/s/dw4y9l/showing_gpt_4_develop_execute_c_code_for) - [Showing GPT-4 develop and execute c code for you, if you tell it you're a journalist](https://chat.openai.com/share/4f799d2c-e87a-4ba3-9553-0a105a5eed5c)
 * [2024-04-01, 03:14:19](https://lobste.rs/s/v57uy4/what_are_you_learning_nowadays) - [What are you learning nowadays?](https://lobste.rs/s/v57uy4/what_are_you_learning_nowadays)
 * [2024-04-01, 02:56:35](https://lobste.rs/s/5iviyz/i_upgraded_my_ibook_g4_have_ssd) - [I upgraded my iBook G4 to have an SSD](https://boredzo.org/blog/archives/2024-03-31/i-upgraded-my-ibook-g4-to-have-an-ssd)
 * [2024-04-01, 02:48:10](https://lobste.rs/s/gtx1u3/deep_dive_into_email_deliverability_2024) - [A Deep Dive into Email Deliverability in 2024](https://www.xomedia.io/blog/a-deep-dive-into-email-deliverability/)
