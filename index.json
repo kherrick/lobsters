@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-01, 02:38:43",
+      "https://lobste.rs/s/lraffe/llama_now_goes_faster_on_cpus"
+    ],
+    [
+      "LLaMA Now Goes Faster on CPUs",
+      "https://justine.lol/matmul/"
+    ]
+  ],
+  [
+    [
       "2024-03-31, 22:02:55",
       "https://lobste.rs/s/z6gaff/engineering_culture"
     ],
@@ -217,16 +227,6 @@
     [
       "Strengths, weaknesses, opportunities, and threats facing the GNU Autotools",
       "https://www.owlfolio.org/development/autoconf-swot/"
-    ]
-  ],
-  [
-    [
-      "2024-03-29, 19:51:34",
-      "https://lobste.rs/s/h4r1co/jank_gets_syntax_quoting_more"
-    ],
-    [
-      "jank gets syntax quoting and more",
-      "https://jank-lang.org/blog/2024-03-29-syntax-quoting/"
     ]
   ],
   [
