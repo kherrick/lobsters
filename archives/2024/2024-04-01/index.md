@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
+* [2024-04-01, 17:53:38](https://lobste.rs/s/wzlcgl/liveview_is_best_with_svelte) - [LiveView is best with Svelte](https://blog.sequin.io/liveview-is-best-with-svelte/)
 * [2024-04-01, 16:43:24](https://lobste.rs/s/ix3zb2/simple_collision_resolution_algorithm) - [A simple collision resolution algorithm for 2D action games](https://c.har.li/e/2024/03/28/implementing-robust-2D-collision-resolution.html)
 * [2024-04-01, 15:35:08](https://lobste.rs/s/wdrrxk/here_is_why_vim_uses_hjkl_keys_as_arrow_keys) - [Here is why vim uses hjkl keys as arrow keys](https://catonmat.net/why-vim-uses-hjkl-as-arrow-keys)
 * [2024-04-01, 15:04:35](https://lobste.rs/s/adjjur/survey_distributed_file_system_design) - [Survey of Distributed File System Design Choices](https://dl.acm.org/doi/10.1145/3465405)
