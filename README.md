@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-01, 14:31:28](https://lobste.rs/s/np8vfh/so_i_guess_i_hacked_samsung) - [so i guess i hacked samsung?](https://maia.crimew.gay/posts/i-hacked-samsung/)
 * [2024-04-01, 13:50:52](https://lobste.rs/s/maymyv/10_64_qr_codes) - [10 > 64, in QR codes](https://huonw.github.io/blog/2024/03/qr-base10-base64/)
 * [2024-04-01, 13:19:36](https://lobste.rs/s/vlkzik/lazy_flippant_classification) - [A lazy and flippant classification of programming languages](https://blog.brycekerley.net/2024/04/01/p-langs.html)
 * [2024-04-01, 12:34:29](https://lobste.rs/s/4pzifd/wi_fi_only_works_when_it_s_raining) - [The Wi-Fi only works when it's raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
@@ -19,7 +20,6 @@
 * [2024-04-01, 02:48:10](https://lobste.rs/s/gtx1u3/deep_dive_into_email_deliverability_2024) - [A Deep Dive into Email Deliverability in 2024](https://www.xomedia.io/blog/a-deep-dive-into-email-deliverability/)
 * [2024-04-01, 02:38:43](https://lobste.rs/s/lraffe/llama_now_goes_faster_on_cpus) - [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
 * [2024-03-31, 22:02:55](https://lobste.rs/s/z6gaff/engineering_culture) - [Engineering a culture](https://oxide.computer/blog/engineering-culture)
-* [2024-03-31, 20:26:33](https://lobste.rs/s/xeb6js/fast_concise_probabilistic_filters) - [Fast and concise probabilistic filters in Python](https://lemire.me/blog/2024/03/31/fast-and-concise-probabilistic-filters-in-python/)
 * [2024-03-31, 20:07:55](https://lobste.rs/s/mjng1x/proposal_add_signals_javascript) - [A proposal to add signals to JavaScript](https://github.com/proposal-signals/proposal-signals)
 * [2024-03-31, 17:12:22](https://lobste.rs/s/kxf4yt/this_typescript_type_haunted_my_dreams) - [This TypeScript type haunted my dreams](https://amir.rachum.com/typescript-oneof/)
 * [2024-03-31, 15:54:29](https://lobste.rs/s/3hu18n/redox_os_development_priorities_for_2023) - [Redox OS Development Priorities for 2023/24](https://www.redox-os.org/news/development-priorities-2023-09/)
