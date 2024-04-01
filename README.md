@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-01, 11:21:07](https://lobste.rs/s/dhkqmg/intelli_python_orchestrate_ai_models) - [Intelli Python To Orchestrate AI Models Collaboration As Graph](https://github.com/intelligentnode/Intelli?tab=readme-ov-file#create-ai-flows)
 * [2024-04-01, 10:58:08](https://lobste.rs/s/2drpsh/why_do_python_lists_multiply_oddly) - [Why Do Python Lists Multiply Oddly? Exploring the CPython Source Code](https://codeconfessions.substack.com/p/why-do-python-lists-multiply-oddly)
 * [2024-04-01, 10:18:01](https://lobste.rs/s/mqx9bi/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/mqx9bi/what_are_you_doing_this_week)
 * [2024-04-01, 09:39:40](https://lobste.rs/s/2vqjnr/fear_makes_you_worse_programmer) - [Fear makes you a worse programmer](https://jvns.ca/blog/2014/12/21/fear-makes-you-a-worse-programmer/)
@@ -24,7 +25,6 @@
 * [2024-03-31, 05:42:35](https://lobste.rs/s/i6ncoz/refurb_weekend_data_general_one_worst_lcd) - [Refurb weekend: Data General/One (and the worst LCD in the world)](https://oldvcr.blogspot.com/2024/03/refurb-weekend-data-generalone-and.html)
 * [2024-03-30, 21:16:16](https://lobste.rs/s/pkgjno/type_inference_was_mistake) - [Type Inference Was a Mistake](https://borretti.me/article/type-inference-was-a-mistake)
 * [2024-03-30, 16:28:12](https://lobste.rs/s/8xtuks/helix_release_24_03_highlights) - [Helix Release 24.03 Highlights](https://helix-editor.com/news/release-24-03-highlights/)
-* [2024-03-30, 09:09:52](https://lobste.rs/s/rsagpv/sqlite_for_servers) - [sqlite for servers](https://kerkour.com/sqlite-for-servers)
 
 ## [Archives](archives/index.md)
 
