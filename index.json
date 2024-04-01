@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-01, 07:22:43",
+      "https://lobste.rs/s/yginhk/light_elf_exploring_potential_size"
+    ],
+    [
+      "Light ELF: exploring potential size reduction",
+      "https://maskray.me/blog/2024-04-01-light-elf-exploring-potential-size-reduction"
+    ]
+  ],
+  [
+    [
+      "2024-04-01, 07:21:08",
+      "https://lobste.rs/s/0ruoab/lattice_now_compiles_net_il"
+    ],
+    [
+      "Lattice now compiles to .NET IL",
+      "https://johnaustin.io/articles/2024/lattice-now-compiles-to-net-il"
+    ]
+  ],
+  [
+    [
       "2024-04-01, 07:19:53",
       "https://lobste.rs/s/7nqlh9/remoteness_remote_work"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-03-31, 13:07:39",
-      "https://lobste.rs/s/u9vk9p/how_read_intensive_is_kernel_s_use_rcu"
-    ],
-    [
-      "How Read-Intensive is The Kernel's Use of RCU?",
-      "https://paulmck.livejournal.com/67547.html"
-    ]
-  ],
-  [
-    [
       "2024-03-31, 11:11:05",
       "https://lobste.rs/s/odmize/on_garbage_collection"
     ],
@@ -197,16 +207,6 @@
     [
       "Announcing NetBSD 10.0 (Mar 28, 2024)",
       "https://www.netbsd.org/releases/formal-10/NetBSD-10.0.html"
-    ]
-  ],
-  [
-    [
-      "2024-03-30, 20:12:54",
-      "https://lobste.rs/s/u4qdpe/changes_u128_i128_layout_rust_1_77_1_78"
-    ],
-    [
-      "Changes to u128/i128 layout in Rust 1.77 and 1.78",
-      "https://blog.rust-lang.org/2024/03/30/i128-layout-update.html"
     ]
   ],
   [
