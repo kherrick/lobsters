@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-01, 23:19:34](https://lobste.rs/s/3pbjks/ed_catmur_s_triliteral_esolang) - [Ed Catmur’s Triliteral Esolang](https://quuxplusone.github.io/blog/2024/03/31/ed-catmurs-triliteral/)
 * [2024-04-01, 19:05:54](https://lobste.rs/s/ezsobc/zen_mind_google_intern_s_mind) - [Zen Mind, Google Intern's Mind](https://jorge.olano.dev/blog/zen-mind-google-interns-mind)
 * [2024-04-01, 19:03:11](https://lobste.rs/s/a6f2zl/sniff_test_for_some_query_optimizers) - [A Sniff Test for Some Query Optimizers](https://buttondown.email/jaffray/archive/a-sniff-test-for-some-query-optimizers/)
 * [2024-04-01, 18:41:12](https://lobste.rs/s/sqyyyp/book_review_tidy_first_by_kent_beck) - [Book Review: \"Tidy First?\" by Kent Beck](https://www.pathsensitive.com/2024/04/book-review-tidy-first.html)
@@ -18,7 +19,6 @@
 * [2024-04-01, 09:37:34](https://lobste.rs/s/meeu4y/microsoft_separate_teams_office) - [Microsoft to separate Teams and Office globally amid antitrust scrutiny](https://www.reuters.com/technology/microsoft-separate-teams-office-globally-amid-antitrust-scrutiny-2024-04-01/)
 * [2024-04-01, 08:27:56](https://lobste.rs/s/ugvvay/switching_between_code_variants_using) - [Switching between code variants using comments](https://linus.schreibt.jetzt/posts/toggle-comments.html)
 * [2024-04-01, 07:22:43](https://lobste.rs/s/yginhk/light_elf_exploring_potential_size) - [Light ELF: exploring potential size reduction](https://maskray.me/blog/2024-04-01-light-elf-exploring-potential-size-reduction)
-* [2024-04-01, 07:21:08](https://lobste.rs/s/0ruoab/lattice_now_compiles_net_il) - [Lattice now compiles to .NET IL](https://johnaustin.io/articles/2024/lattice-now-compiles-to-net-il)
 * [2024-04-01, 07:19:53](https://lobste.rs/s/7nqlh9/remoteness_remote_work) - [The remoteness of remote work](https://zerodha.tech/blog/remoteness-of-remote-work/)
 * [2024-04-01, 06:09:28](https://lobste.rs/s/vqqaul/hearts_super_nintendo) - [The hearts of the Super Nintendo](https://fabiensanglard.net/snes_hearts/index.html)
 * [2024-04-01, 03:14:19](https://lobste.rs/s/v57uy4/what_are_you_learning_nowadays) - [What are you learning nowadays?](https://lobste.rs/s/v57uy4/what_are_you_learning_nowadays)

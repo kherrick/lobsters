@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-01](index.md)
 
+* [2024-04-01, 23:19:34](https://lobste.rs/s/3pbjks/ed_catmur_s_triliteral_esolang) - [Ed Catmur’s Triliteral Esolang](https://quuxplusone.github.io/blog/2024/03/31/ed-catmurs-triliteral/)
 * [2024-04-01, 19:05:54](https://lobste.rs/s/ezsobc/zen_mind_google_intern_s_mind) - [Zen Mind, Google Intern's Mind](https://jorge.olano.dev/blog/zen-mind-google-interns-mind)
 * [2024-04-01, 19:03:11](https://lobste.rs/s/a6f2zl/sniff_test_for_some_query_optimizers) - [A Sniff Test for Some Query Optimizers](https://buttondown.email/jaffray/archive/a-sniff-test-for-some-query-optimizers/)
 * [2024-04-01, 18:52:28](https://lobste.rs/s/zarxqz/xzbot_notes_honeypot_exploit_demo_for_xz) - [xzbot: notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)](https://github.com/amlweems/xzbot)
