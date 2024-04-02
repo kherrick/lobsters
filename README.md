@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-04-02, 13:23:00](https://lobste.rs/s/v3arkv/short_essays_on_engineering_culture_2014) - [Short Essays on Engineering Culture (2014-2021)](https://fontoura.org/papers/barroso.pdf)
+* [2024-04-02, 14:26:37](https://lobste.rs/s/o3cw89/algojobs_io_simple_tech_focused_job_board) - [algojobs.io: simple tech-focused job board](https://algojobs.io/)
+* [2024-04-02, 14:22:17](https://lobste.rs/s/sbcayb/guess_my_rgb) - [Guess My RGB](https://susam.net/myrgb.html)
 * [2024-04-02, 10:56:43](https://lobste.rs/s/d1sza0/code_kickflips_crunch_time) - [Code, Kickflips and Crunch Time](https://corecursive.com/game-programming-with-mick-west/)
 * [2024-04-02, 09:45:04](https://lobste.rs/s/0vzv0m/termlisp_lisp_dialect_based_on_pattern) - [termlisp: A lisp dialect based on pattern matching and term rewriting](https://github.com/abuseofnotation/termlisp)
 * [2024-04-02, 09:34:09](https://lobste.rs/s/iwut04/std_launder_most_obscure_new_feature_c_17) - [std::launder: the most obscure new feature of C++17 (2016)](https://miyuki.github.io/2016/10/21/std-launder.html)
@@ -22,7 +23,6 @@
 * [2024-04-01, 10:58:08](https://lobste.rs/s/2drpsh/why_do_python_lists_multiply_oddly) - [Why Do Python Lists Multiply Oddly? Exploring the CPython Source Code](https://codeconfessions.substack.com/p/why-do-python-lists-multiply-oddly)
 * [2024-04-01, 09:37:34](https://lobste.rs/s/meeu4y/microsoft_separate_teams_office) - [Microsoft to separate Teams and Office globally amid antitrust scrutiny](https://www.reuters.com/technology/microsoft-separate-teams-office-globally-amid-antitrust-scrutiny-2024-04-01/)
 * [2024-04-01, 08:27:56](https://lobste.rs/s/ugvvay/switching_between_code_variants_using) - [Switching between code variants using comments](https://linus.schreibt.jetzt/posts/toggle-comments.html)
-* [2024-04-01, 07:19:53](https://lobste.rs/s/7nqlh9/remoteness_remote_work) - [The remoteness of remote work](https://zerodha.tech/blog/remoteness-of-remote-work/)
 * [2024-04-01, 03:14:19](https://lobste.rs/s/v57uy4/what_are_you_learning_nowadays) - [What are you learning nowadays?](https://lobste.rs/s/v57uy4/what_are_you_learning_nowadays)
 * [2024-03-31, 17:12:22](https://lobste.rs/s/kxf4yt/this_typescript_type_haunted_my_dreams) - [This TypeScript type haunted my dreams](https://amir.rachum.com/typescript-oneof/)
 
