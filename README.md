@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-02, 21:03:56](https://lobste.rs/s/pssbmx/fuck_trees_use_tags) - [Fuck trees, use tags](https://garrit.xyz/posts/2024-04-02-fuck-trees-use-tags)
 * [2024-04-02, 20:15:08](https://lobste.rs/s/4nnfdb/enforcing_conventions_django_projects) - [Enforcing conventions in Django projects with introspection](https://lukeplant.me.uk/blog/posts/enforcing-conventions-in-django-projects-with-introspection/)
 * [2024-04-02, 18:29:40](https://lobste.rs/s/baqaf9/data_flow_analysis_for_go) - [Data Flow Analysis for Go](https://blog.jetbrains.com/go/2024/03/26/data-flow-analysis-for-go/)
 * [2024-04-02, 18:04:38](https://lobste.rs/s/ahlkhh/calling_haskell_from_swift) - [Calling Haskell from Swift](https://alt-romes.github.io/posts/2024-04-02-calling-haskell-from-swift.html)
@@ -20,7 +21,6 @@
 * [2024-04-01, 17:53:38](https://lobste.rs/s/wzlcgl/liveview_is_best_with_svelte) - [LiveView is best with Svelte](https://blog.sequin.io/liveview-is-best-with-svelte/)
 * [2024-04-01, 16:43:24](https://lobste.rs/s/ix3zb2/simple_collision_resolution_algorithm) - [A simple collision resolution algorithm for 2D action games](https://c.har.li/e/2024/03/28/implementing-robust-2D-collision-resolution.html)
 * [2024-04-01, 14:31:28](https://lobste.rs/s/np8vfh/so_i_guess_i_hacked_samsung) - [so i guess i hacked samsung?](https://maia.crimew.gay/posts/i-hacked-samsung/)
-* [2024-04-01, 13:50:52](https://lobste.rs/s/maymyv/10_64_qr_codes) - [10 > 64, in QR codes](https://huonw.github.io/blog/2024/03/qr-base10-base64/)
 * [2024-04-01, 13:19:36](https://lobste.rs/s/vlkzik/lazy_flippant_classification) - [A lazy and flippant classification of programming languages](https://blog.brycekerley.net/2024/04/01/p-langs.html)
 * [2024-04-01, 12:34:29](https://lobste.rs/s/4pzifd/wi_fi_only_works_when_it_s_raining) - [The Wi-Fi only works when it's raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
 * [2024-04-01, 12:04:51](https://lobste.rs/s/wx1n28/which_build_tool_for_bootstrappable) - [Which Build Tool For A Bootstrappable Project?](http://jackkelly.name/blog/archives/2024/04/01/which_build_tool_for_a_bootstrappable_project/index.html)

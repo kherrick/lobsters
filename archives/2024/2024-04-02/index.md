@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-02](index.md)
 
+* [2024-04-02, 21:03:56](https://lobste.rs/s/pssbmx/fuck_trees_use_tags) - [Fuck trees, use tags](https://garrit.xyz/posts/2024-04-02-fuck-trees-use-tags)
 * [2024-04-02, 20:15:08](https://lobste.rs/s/4nnfdb/enforcing_conventions_django_projects) - [Enforcing conventions in Django projects with introspection](https://lukeplant.me.uk/blog/posts/enforcing-conventions-in-django-projects-with-introspection/)
 * [2024-04-02, 19:45:15](https://lobste.rs/s/yqjwd4/stop_killing_games) - [Stop Killing Games](https://www.stopkillinggames.com/)
 * [2024-04-02, 18:29:40](https://lobste.rs/s/baqaf9/data_flow_analysis_for_go) - [Data Flow Analysis for Go](https://blog.jetbrains.com/go/2024/03/26/data-flow-analysis-for-go/)
