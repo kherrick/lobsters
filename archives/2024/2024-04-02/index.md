@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-02](index.md)
 
+* [2024-04-02, 17:24:55](https://lobste.rs/s/jpoy4q/nixos_is_not_reproducible) - [NixOS is not reproducible](https://linderud.dev/blog/nixos-is-not-reproducible/)
 * [2024-04-02, 16:25:35](https://lobste.rs/s/3owc0z/xz_format_inadequate_for_long_term) - [Xz format inadequate for long-term archiving (2016)](https://www.nongnu.org/lzip/xz_inadequate.html)
 * [2024-04-02, 15:04:09](https://lobste.rs/s/8pmg19/bringing_python_workers_using_pyodide) - [Bringing Python to Workers using Pyodide and WebAssembly](https://blog.cloudflare.com/python-workers)
 * [2024-04-02, 14:36:44](https://lobste.rs/s/p0rpqn/qt_6_7_released_with_c_20_support) - [Qt 6.7 Released with C++ 20 support](https://www.qt.io/blog/qt-6.7-released)
