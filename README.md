@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-02, 09:34:09](https://lobste.rs/s/iwut04/std_launder_most_obscure_new_feature_c_17) - [std::launder: the most obscure new feature of C++17 (2016)](https://miyuki.github.io/2016/10/21/std-launder.html)
 * [2024-04-02, 09:02:53](https://lobste.rs/s/hsuvav/xz_attack_shell_script) - [The xz attack shell script](https://research.swtch.com/xz-script)
 * [2024-04-02, 06:28:48](https://lobste.rs/s/jb1o6q/cosmic_drift) - [Cosmic Drift](https://rgbcu.be/blog/cosmic-drift/)
 * [2024-04-02, 04:20:24](https://lobste.rs/s/hzs0ay/bun_1_1) - [Bun 1.1](https://bun.sh/blog/bun-v1.1)
@@ -7,7 +8,6 @@
 * [2024-04-02, 02:10:40](https://lobste.rs/s/6cmq3i/april_cools_2024_physics_edition) - [April Cools 2024: Physics Edition](https://tinkering.xyz/april-cools-2024/)
 * [2024-04-02, 02:07:33](https://lobste.rs/s/5i8hn7/libmui_classic_macos_gs_os_widget_library) - [libmui: Classic MacOS & GS/OS widget library for linux (and other?)](https://github.com/buserror/libmui)
 * [2024-04-01, 19:05:54](https://lobste.rs/s/ezsobc/zen_mind_google_intern_s_mind) - [Zen Mind, Google Intern's Mind](https://jorge.olano.dev/blog/zen-mind-google-interns-mind)
-* [2024-04-01, 19:03:11](https://lobste.rs/s/a6f2zl/sniff_test_for_some_query_optimizers) - [A Sniff Test for Some Query Optimizers](https://buttondown.email/jaffray/archive/a-sniff-test-for-some-query-optimizers/)
 * [2024-04-01, 18:41:12](https://lobste.rs/s/sqyyyp/book_review_tidy_first_by_kent_beck) - [Book Review: \"Tidy First?\" by Kent Beck](https://www.pathsensitive.com/2024/04/book-review-tidy-first.html)
 * [2024-04-01, 17:53:38](https://lobste.rs/s/wzlcgl/liveview_is_best_with_svelte) - [LiveView is best with Svelte](https://blog.sequin.io/liveview-is-best-with-svelte/)
 * [2024-04-01, 17:49:58](https://lobste.rs/s/mge4t2/43_years_actors_taxonomy_actor_models) - [43 Years of Actors: A Taxonomy of Actor Models and Their Key Properties (2016)](http://soft.vub.ac.be/Publications/2016/vub-soft-tr-16-11.pdf)
