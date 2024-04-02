@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-02](index.md)
 
+* [2024-04-02, 09:02:53](https://lobste.rs/s/hsuvav/xz_attack_shell_script) - [The xz attack shell script](https://research.swtch.com/xz-script)
 * [2024-04-02, 06:28:48](https://lobste.rs/s/jb1o6q/cosmic_drift) - [Cosmic Drift](https://rgbcu.be/blog/cosmic-drift/)
 * [2024-04-02, 04:20:24](https://lobste.rs/s/hzs0ay/bun_1_1) - [Bun 1.1](https://bun.sh/blog/bun-v1.1)
 * [2024-04-02, 04:01:58](https://lobste.rs/s/jiubct/centos_stream_isa_optimized_packages) - [CentOS Stream ISA Optimized Packages Show Great Results On Intel Xeon Emerald Rapids](https://www.phoronix.com/review/centos-isa-optimized)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-02, 09:02:53](https://lobste.rs/s/hsuvav/xz_attack_shell_script) - [The xz attack shell script](https://research.swtch.com/xz-script)
 * [2024-04-02, 06:28:48](https://lobste.rs/s/jb1o6q/cosmic_drift) - [Cosmic Drift](https://rgbcu.be/blog/cosmic-drift/)
 * [2024-04-02, 04:20:24](https://lobste.rs/s/hzs0ay/bun_1_1) - [Bun 1.1](https://bun.sh/blog/bun-v1.1)
 * [2024-04-02, 03:56:40](https://lobste.rs/s/nbztsg/timeline_xz_open_source_attack) - [Timeline of the xz open source attack](https://research.swtch.com/xz-timeline)
@@ -23,7 +24,6 @@
 * [2024-04-01, 07:19:53](https://lobste.rs/s/7nqlh9/remoteness_remote_work) - [The remoteness of remote work](https://zerodha.tech/blog/remoteness-of-remote-work/)
 * [2024-04-01, 03:14:19](https://lobste.rs/s/v57uy4/what_are_you_learning_nowadays) - [What are you learning nowadays?](https://lobste.rs/s/v57uy4/what_are_you_learning_nowadays)
 * [2024-04-01, 02:38:43](https://lobste.rs/s/lraffe/llama_now_goes_faster_on_cpus) - [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
-* [2024-03-31, 22:02:55](https://lobste.rs/s/z6gaff/engineering_culture) - [Engineering a culture](https://oxide.computer/blog/engineering-culture)
 * [2024-03-31, 17:12:22](https://lobste.rs/s/kxf4yt/this_typescript_type_haunted_my_dreams) - [This TypeScript type haunted my dreams](https://amir.rachum.com/typescript-oneof/)
 
 ## [Archives](archives/index.md)
