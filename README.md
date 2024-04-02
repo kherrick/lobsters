@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-02, 04:01:58](https://lobste.rs/s/jiubct/centos_stream_isa_optimized_packages) - [CentOS Stream ISA Optimized Packages Show Great Results On Intel Xeon Emerald Rapids](https://www.phoronix.com/review/centos-isa-optimized)
 * [2024-04-02, 03:56:40](https://lobste.rs/s/nbztsg/timeline_xz_open_source_attack) - [Timeline of the xz open source attack](https://research.swtch.com/xz-timeline)
 * [2024-04-02, 02:10:40](https://lobste.rs/s/6cmq3i/april_cools_2024_physics_edition) - [April Cools 2024: Physics Edition](https://tinkering.xyz/april-cools-2024/)
 * [2024-04-02, 02:07:33](https://lobste.rs/s/5i8hn7/libmui_classic_macos_gs_os_widget_library) - [libmui: Classic MacOS & GS/OS widget library for linux (and other?)](https://github.com/buserror/libmui)
@@ -16,7 +17,6 @@
 * [2024-04-01, 12:34:29](https://lobste.rs/s/4pzifd/wi_fi_only_works_when_it_s_raining) - [The Wi-Fi only works when it's raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
 * [2024-04-01, 12:04:51](https://lobste.rs/s/wx1n28/which_build_tool_for_bootstrappable) - [Which Build Tool For A Bootstrappable Project?](http://jackkelly.name/blog/archives/2024/04/01/which_build_tool_for_a_bootstrappable_project/index.html)
 * [2024-04-01, 10:58:08](https://lobste.rs/s/2drpsh/why_do_python_lists_multiply_oddly) - [Why Do Python Lists Multiply Oddly? Exploring the CPython Source Code](https://codeconfessions.substack.com/p/why-do-python-lists-multiply-oddly)
-* [2024-04-01, 10:18:01](https://lobste.rs/s/mqx9bi/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/mqx9bi/what_are_you_doing_this_week)
 * [2024-04-01, 09:37:34](https://lobste.rs/s/meeu4y/microsoft_separate_teams_office) - [Microsoft to separate Teams and Office globally amid antitrust scrutiny](https://www.reuters.com/technology/microsoft-separate-teams-office-globally-amid-antitrust-scrutiny-2024-04-01/)
 * [2024-04-01, 08:27:56](https://lobste.rs/s/ugvvay/switching_between_code_variants_using) - [Switching between code variants using comments](https://linus.schreibt.jetzt/posts/toggle-comments.html)
 * [2024-04-01, 07:19:53](https://lobste.rs/s/7nqlh9/remoteness_remote_work) - [The remoteness of remote work](https://zerodha.tech/blog/remoteness-of-remote-work/)
