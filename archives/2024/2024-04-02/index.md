@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-02](index.md)
 
+* [2024-04-02, 15:04:09](https://lobste.rs/s/8pmg19/bringing_python_workers_using_pyodide) - [Bringing Python to Workers using Pyodide and WebAssembly](https://blog.cloudflare.com/python-workers)
 * [2024-04-02, 14:36:44](https://lobste.rs/s/p0rpqn/qt_6_7_released_with_c_20_support) - [Qt 6.7 Released with C++ 20 support](https://www.qt.io/blog/qt-6.7-released)
 * [2024-04-02, 14:26:37](https://lobste.rs/s/o3cw89/algojobs_io_simple_tech_focused_job_board) - [algojobs.io: simple tech-focused job board](https://algojobs.io/)
 * [2024-04-02, 14:22:17](https://lobste.rs/s/sbcayb/guess_my_rgb) - [Guess My RGB](https://susam.net/myrgb.html)
