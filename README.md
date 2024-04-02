@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-02, 14:36:44](https://lobste.rs/s/p0rpqn/qt_6_7_released_with_c_20_support) - [Qt 6.7 Released with C++ 20 support](https://www.qt.io/blog/qt-6.7-released)
 * [2024-04-02, 14:26:37](https://lobste.rs/s/o3cw89/algojobs_io_simple_tech_focused_job_board) - [algojobs.io: simple tech-focused job board](https://algojobs.io/)
 * [2024-04-02, 14:22:17](https://lobste.rs/s/sbcayb/guess_my_rgb) - [Guess My RGB](https://susam.net/myrgb.html)
 * [2024-04-02, 10:56:43](https://lobste.rs/s/d1sza0/code_kickflips_crunch_time) - [Code, Kickflips and Crunch Time](https://corecursive.com/game-programming-with-mick-west/)
@@ -24,7 +25,6 @@
 * [2024-04-01, 09:37:34](https://lobste.rs/s/meeu4y/microsoft_separate_teams_office) - [Microsoft to separate Teams and Office globally amid antitrust scrutiny](https://www.reuters.com/technology/microsoft-separate-teams-office-globally-amid-antitrust-scrutiny-2024-04-01/)
 * [2024-04-01, 08:27:56](https://lobste.rs/s/ugvvay/switching_between_code_variants_using) - [Switching between code variants using comments](https://linus.schreibt.jetzt/posts/toggle-comments.html)
 * [2024-04-01, 03:14:19](https://lobste.rs/s/v57uy4/what_are_you_learning_nowadays) - [What are you learning nowadays?](https://lobste.rs/s/v57uy4/what_are_you_learning_nowadays)
-* [2024-03-31, 17:12:22](https://lobste.rs/s/kxf4yt/this_typescript_type_haunted_my_dreams) - [This TypeScript type haunted my dreams](https://amir.rachum.com/typescript-oneof/)
 
 ## [Archives](archives/index.md)
 

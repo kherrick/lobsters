@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-02](index.md)
 
+* [2024-04-02, 14:36:44](https://lobste.rs/s/p0rpqn/qt_6_7_released_with_c_20_support) - [Qt 6.7 Released with C++ 20 support](https://www.qt.io/blog/qt-6.7-released)
 * [2024-04-02, 14:26:37](https://lobste.rs/s/o3cw89/algojobs_io_simple_tech_focused_job_board) - [algojobs.io: simple tech-focused job board](https://algojobs.io/)
 * [2024-04-02, 14:22:17](https://lobste.rs/s/sbcayb/guess_my_rgb) - [Guess My RGB](https://susam.net/myrgb.html)
 * [2024-04-02, 13:23:00](https://lobste.rs/s/v3arkv/short_essays_on_engineering_culture_2014) - [Short Essays on Engineering Culture (2014-2021)](https://fontoura.org/papers/barroso.pdf)
