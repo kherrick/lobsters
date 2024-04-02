@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-02, 03:56:40](https://lobste.rs/s/nbztsg/timeline_xz_open_source_attack) - [Timeline of the xz open source attack](https://research.swtch.com/xz-timeline)
 * [2024-04-02, 02:10:40](https://lobste.rs/s/6cmq3i/april_cools_2024_physics_edition) - [April Cools 2024: Physics Edition](https://tinkering.xyz/april-cools-2024/)
 * [2024-04-02, 02:07:33](https://lobste.rs/s/5i8hn7/libmui_classic_macos_gs_os_widget_library) - [libmui: Classic MacOS & GS/OS widget library for linux (and other?)](https://github.com/buserror/libmui)
 * [2024-04-01, 19:05:54](https://lobste.rs/s/ezsobc/zen_mind_google_intern_s_mind) - [Zen Mind, Google Intern's Mind](https://jorge.olano.dev/blog/zen-mind-google-interns-mind)
@@ -9,7 +10,6 @@
 * [2024-04-01, 17:49:58](https://lobste.rs/s/mge4t2/43_years_actors_taxonomy_actor_models) - [43 Years of Actors: A Taxonomy of Actor Models and Their Key Properties (2016)](http://soft.vub.ac.be/Publications/2016/vub-soft-tr-16-11.pdf)
 * [2024-04-01, 16:43:24](https://lobste.rs/s/ix3zb2/simple_collision_resolution_algorithm) - [A simple collision resolution algorithm for 2D action games](https://c.har.li/e/2024/03/28/implementing-robust-2D-collision-resolution.html)
 * [2024-04-01, 15:35:08](https://lobste.rs/s/wdrrxk/here_is_why_vim_uses_hjkl_keys_as_arrow_keys) - [Here is why vim uses hjkl keys as arrow keys](https://catonmat.net/why-vim-uses-hjkl-as-arrow-keys)
-* [2024-04-01, 15:04:35](https://lobste.rs/s/adjjur/survey_distributed_file_system_design) - [Survey of Distributed File System Design Choices](https://dl.acm.org/doi/10.1145/3465405)
 * [2024-04-01, 14:31:28](https://lobste.rs/s/np8vfh/so_i_guess_i_hacked_samsung) - [so i guess i hacked samsung?](https://maia.crimew.gay/posts/i-hacked-samsung/)
 * [2024-04-01, 13:50:52](https://lobste.rs/s/maymyv/10_64_qr_codes) - [10 > 64, in QR codes](https://huonw.github.io/blog/2024/03/qr-base10-base64/)
 * [2024-04-01, 13:19:36](https://lobste.rs/s/vlkzik/lazy_flippant_classification) - [A lazy and flippant classification of programming languages](https://blog.brycekerley.net/2024/04/01/p-langs.html)
