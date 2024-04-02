@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-02, 09:02:53",
+      "https://lobste.rs/s/hsuvav/xz_attack_shell_script"
+    ],
+    [
+      "The xz attack shell script",
+      "https://research.swtch.com/xz-script"
+    ]
+  ],
+  [
+    [
       "2024-04-02, 06:28:48",
       "https://lobste.rs/s/jb1o6q/cosmic_drift"
     ],
@@ -227,16 +237,6 @@
     [
       "LLaMA Now Goes Faster on CPUs",
       "https://justine.lol/matmul/"
-    ]
-  ],
-  [
-    [
-      "2024-03-31, 22:02:55",
-      "https://lobste.rs/s/z6gaff/engineering_culture"
-    ],
-    [
-      "Engineering a culture",
-      "https://oxide.computer/blog/engineering-culture"
     ]
   ],
   [
