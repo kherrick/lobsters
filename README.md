@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-02, 19:45:15](https://lobste.rs/s/yqjwd4/stop_killing_games) - [Stop Killing Games](https://www.stopkillinggames.com/)
 * [2024-04-02, 18:29:40](https://lobste.rs/s/baqaf9/data_flow_analysis_for_go) - [Data Flow Analysis for Go](https://blog.jetbrains.com/go/2024/03/26/data-flow-analysis-for-go/)
 * [2024-04-02, 18:04:38](https://lobste.rs/s/ahlkhh/calling_haskell_from_swift) - [Calling Haskell from Swift](https://alt-romes.github.io/posts/2024-04-02-calling-haskell-from-swift.html)
 * [2024-04-02, 17:53:18](https://lobste.rs/s/dhsdmq/kobold_letters) - [Kobold letters](https://lutrasecurity.com/en/articles/kobold-letters/)
@@ -9,7 +10,6 @@
 * [2024-04-02, 14:36:44](https://lobste.rs/s/p0rpqn/qt_6_7_released_with_c_20_support) - [Qt 6.7 Released with C++ 20 support](https://www.qt.io/blog/qt-6.7-released)
 * [2024-04-02, 14:26:37](https://lobste.rs/s/o3cw89/algojobs_io_simple_tech_focused_job_board) - [algojobs.io: simple tech-focused job board](https://algojobs.io/)
 * [2024-04-02, 14:22:17](https://lobste.rs/s/sbcayb/guess_my_rgb) - [Guess My RGB](https://susam.net/myrgb.html)
-* [2024-04-02, 10:56:43](https://lobste.rs/s/d1sza0/code_kickflips_crunch_time) - [Code, Kickflips and Crunch Time](https://corecursive.com/game-programming-with-mick-west/)
 * [2024-04-02, 09:45:04](https://lobste.rs/s/0vzv0m/termlisp_lisp_dialect_based_on_pattern) - [termlisp: A lisp dialect based on pattern matching and term rewriting](https://github.com/abuseofnotation/termlisp)
 * [2024-04-02, 09:34:09](https://lobste.rs/s/iwut04/std_launder_most_obscure_new_feature_c_17) - [std::launder: the most obscure new feature of C++17 (2016)](https://miyuki.github.io/2016/10/21/std-launder.html)
 * [2024-04-02, 06:28:48](https://lobste.rs/s/jb1o6q/cosmic_drift) - [Cosmic Drift](https://rgbcu.be/blog/cosmic-drift/)

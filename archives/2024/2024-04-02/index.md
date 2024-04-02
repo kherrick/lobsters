@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-02](index.md)
 
+* [2024-04-02, 19:45:15](https://lobste.rs/s/yqjwd4/stop_killing_games) - [Stop Killing Games](https://www.stopkillinggames.com/)
 * [2024-04-02, 18:29:40](https://lobste.rs/s/baqaf9/data_flow_analysis_for_go) - [Data Flow Analysis for Go](https://blog.jetbrains.com/go/2024/03/26/data-flow-analysis-for-go/)
 * [2024-04-02, 18:04:38](https://lobste.rs/s/ahlkhh/calling_haskell_from_swift) - [Calling Haskell from Swift](https://alt-romes.github.io/posts/2024-04-02-calling-haskell-from-swift.html)
 * [2024-04-02, 17:53:18](https://lobste.rs/s/dhsdmq/kobold_letters) - [Kobold letters](https://lutrasecurity.com/en/articles/kobold-letters/)
