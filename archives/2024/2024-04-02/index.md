@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-02](index.md)
 
+* [2024-04-02, 13:23:00](https://lobste.rs/s/v3arkv/short_essays_on_engineering_culture_2014) - [Short Essays on Engineering Culture (2014-2021)](https://fontoura.org/papers/barroso.pdf)
 * [2024-04-02, 10:56:43](https://lobste.rs/s/d1sza0/code_kickflips_crunch_time) - [Code, Kickflips and Crunch Time](https://corecursive.com/game-programming-with-mick-west/)
 * [2024-04-02, 09:45:04](https://lobste.rs/s/0vzv0m/termlisp_lisp_dialect_based_on_pattern) - [termlisp: A lisp dialect based on pattern matching and term rewriting](https://github.com/abuseofnotation/termlisp)
 * [2024-04-02, 09:34:09](https://lobste.rs/s/iwut04/std_launder_most_obscure_new_feature_c_17) - [std::launder: the most obscure new feature of C++17 (2016)](https://miyuki.github.io/2016/10/21/std-launder.html)
