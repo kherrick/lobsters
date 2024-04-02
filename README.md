@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-02, 16:25:35](https://lobste.rs/s/3owc0z/xz_format_inadequate_for_long_term) - [Xz format inadequate for long-term archiving (2016)](https://www.nongnu.org/lzip/xz_inadequate.html)
 * [2024-04-02, 15:04:09](https://lobste.rs/s/8pmg19/bringing_python_workers_using_pyodide) - [Bringing Python to Workers using Pyodide and WebAssembly](https://blog.cloudflare.com/python-workers)
 * [2024-04-02, 14:36:44](https://lobste.rs/s/p0rpqn/qt_6_7_released_with_c_20_support) - [Qt 6.7 Released with C++ 20 support](https://www.qt.io/blog/qt-6.7-released)
 * [2024-04-02, 14:26:37](https://lobste.rs/s/o3cw89/algojobs_io_simple_tech_focused_job_board) - [algojobs.io: simple tech-focused job board](https://algojobs.io/)
@@ -14,7 +15,6 @@
 * [2024-04-01, 19:05:54](https://lobste.rs/s/ezsobc/zen_mind_google_intern_s_mind) - [Zen Mind, Google Intern's Mind](https://jorge.olano.dev/blog/zen-mind-google-interns-mind)
 * [2024-04-01, 18:41:12](https://lobste.rs/s/sqyyyp/book_review_tidy_first_by_kent_beck) - [Book Review: \"Tidy First?\" by Kent Beck](https://www.pathsensitive.com/2024/04/book-review-tidy-first.html)
 * [2024-04-01, 17:53:38](https://lobste.rs/s/wzlcgl/liveview_is_best_with_svelte) - [LiveView is best with Svelte](https://blog.sequin.io/liveview-is-best-with-svelte/)
-* [2024-04-01, 17:49:58](https://lobste.rs/s/mge4t2/43_years_actors_taxonomy_actor_models) - [43 Years of Actors: A Taxonomy of Actor Models and Their Key Properties (2016)](http://soft.vub.ac.be/Publications/2016/vub-soft-tr-16-11.pdf)
 * [2024-04-01, 16:43:24](https://lobste.rs/s/ix3zb2/simple_collision_resolution_algorithm) - [A simple collision resolution algorithm for 2D action games](https://c.har.li/e/2024/03/28/implementing-robust-2D-collision-resolution.html)
 * [2024-04-01, 15:35:08](https://lobste.rs/s/wdrrxk/here_is_why_vim_uses_hjkl_keys_as_arrow_keys) - [Here is why vim uses hjkl keys as arrow keys](https://catonmat.net/why-vim-uses-hjkl-as-arrow-keys)
 * [2024-04-01, 14:31:28](https://lobste.rs/s/np8vfh/so_i_guess_i_hacked_samsung) - [so i guess i hacked samsung?](https://maia.crimew.gay/posts/i-hacked-samsung/)
