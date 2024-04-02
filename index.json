@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-02, 14:36:44",
+      "https://lobste.rs/s/p0rpqn/qt_6_7_released_with_c_20_support"
+    ],
+    [
+      "Qt 6.7 Released with C++ 20 support",
+      "https://www.qt.io/blog/qt-6.7-released"
+    ]
+  ],
+  [
+    [
       "2024-04-02, 14:26:37",
       "https://lobste.rs/s/o3cw89/algojobs_io_simple_tech_focused_job_board"
     ],
@@ -237,16 +247,6 @@
     [
       "What are you learning nowadays?",
       "https://lobste.rs/s/v57uy4/what_are_you_learning_nowadays"
-    ]
-  ],
-  [
-    [
-      "2024-03-31, 17:12:22",
-      "https://lobste.rs/s/kxf4yt/this_typescript_type_haunted_my_dreams"
-    ],
-    [
-      "This TypeScript type haunted my dreams",
-      "https://amir.rachum.com/typescript-oneof/"
     ]
   ]
 ]
