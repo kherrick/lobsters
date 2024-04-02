@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-02, 04:20:24](https://lobste.rs/s/hzs0ay/bun_1_1) - [Bun 1.1](https://bun.sh/blog/bun-v1.1)
 * [2024-04-02, 04:01:58](https://lobste.rs/s/jiubct/centos_stream_isa_optimized_packages) - [CentOS Stream ISA Optimized Packages Show Great Results On Intel Xeon Emerald Rapids](https://www.phoronix.com/review/centos-isa-optimized)
 * [2024-04-02, 03:56:40](https://lobste.rs/s/nbztsg/timeline_xz_open_source_attack) - [Timeline of the xz open source attack](https://research.swtch.com/xz-timeline)
 * [2024-04-02, 02:10:40](https://lobste.rs/s/6cmq3i/april_cools_2024_physics_edition) - [April Cools 2024: Physics Edition](https://tinkering.xyz/april-cools-2024/)
@@ -20,7 +21,6 @@
 * [2024-04-01, 09:37:34](https://lobste.rs/s/meeu4y/microsoft_separate_teams_office) - [Microsoft to separate Teams and Office globally amid antitrust scrutiny](https://www.reuters.com/technology/microsoft-separate-teams-office-globally-amid-antitrust-scrutiny-2024-04-01/)
 * [2024-04-01, 08:27:56](https://lobste.rs/s/ugvvay/switching_between_code_variants_using) - [Switching between code variants using comments](https://linus.schreibt.jetzt/posts/toggle-comments.html)
 * [2024-04-01, 07:19:53](https://lobste.rs/s/7nqlh9/remoteness_remote_work) - [The remoteness of remote work](https://zerodha.tech/blog/remoteness-of-remote-work/)
-* [2024-04-01, 06:09:28](https://lobste.rs/s/vqqaul/hearts_super_nintendo) - [The hearts of the Super Nintendo](https://fabiensanglard.net/snes_hearts/index.html)
 * [2024-04-01, 03:14:19](https://lobste.rs/s/v57uy4/what_are_you_learning_nowadays) - [What are you learning nowadays?](https://lobste.rs/s/v57uy4/what_are_you_learning_nowadays)
 * [2024-04-01, 02:38:43](https://lobste.rs/s/lraffe/llama_now_goes_faster_on_cpus) - [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
 * [2024-03-31, 22:02:55](https://lobste.rs/s/z6gaff/engineering_culture) - [Engineering a culture](https://oxide.computer/blog/engineering-culture)
