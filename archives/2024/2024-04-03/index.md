@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 14:01:21](https://lobste.rs/s/4dgdkj/searching_nixpkgs_under_30_milliseconds) - [Searching Nixpkgs in Under 30 Milliseconds](https://blog.replit.com/nixpkgs-search)
 * [2024-04-03, 11:54:25](https://lobste.rs/s/acg3wj/every_dunder_method_python) - [Every dunder method in Python](https://www.pythonmorsels.com/every-dunder-method/)
 * [2024-04-03, 11:29:56](https://lobste.rs/s/vvhsge/i_ve_lost_my_pg_control_again_yet_another) - [I've lost my pg_control again (... yet another data recovery story)](https://sdomi.pl/weblog/19-yet-another-pg-data-recovery/)
 * [2024-04-03, 11:20:28](https://lobste.rs/s/dwnutk/ibis_hotel_check_terminal_keypad_code) - [IBIS hotel check-in terminal keypad-code leakage](https://www.pentagrid.ch/en/blog/ibis-hotel-check-in-terminal-keypad-code-leakage/)

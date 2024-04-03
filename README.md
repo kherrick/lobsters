@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-03, 14:01:21](https://lobste.rs/s/4dgdkj/searching_nixpkgs_under_30_milliseconds) - [Searching Nixpkgs in Under 30 Milliseconds](https://blog.replit.com/nixpkgs-search)
 * [2024-04-03, 11:54:25](https://lobste.rs/s/acg3wj/every_dunder_method_python) - [Every dunder method in Python](https://www.pythonmorsels.com/every-dunder-method/)
 * [2024-04-03, 11:29:56](https://lobste.rs/s/vvhsge/i_ve_lost_my_pg_control_again_yet_another) - [I've lost my pg_control again (... yet another data recovery story)](https://sdomi.pl/weblog/19-yet-another-pg-data-recovery/)
 * [2024-04-03, 11:20:28](https://lobste.rs/s/dwnutk/ibis_hotel_check_terminal_keypad_code) - [IBIS hotel check-in terminal keypad-code leakage](https://www.pentagrid.ch/en/blog/ibis-hotel-check-in-terminal-keypad-code-leakage/)
@@ -24,7 +25,6 @@
 * [2024-04-02, 09:34:09](https://lobste.rs/s/iwut04/std_launder_most_obscure_new_feature_c_17) - [std::launder: the most obscure new feature of C++17 (2016)](https://miyuki.github.io/2016/10/21/std-launder.html)
 * [2024-04-02, 06:28:48](https://lobste.rs/s/jb1o6q/cosmic_drift) - [Cosmic Drift](https://rgbcu.be/blog/cosmic-drift/)
 * [2024-04-02, 04:20:24](https://lobste.rs/s/hzs0ay/bun_1_1) - [Bun 1.1](https://bun.sh/blog/bun-v1.1)
-* [2024-04-01, 12:34:29](https://lobste.rs/s/4pzifd/wi_fi_only_works_when_it_s_raining) - [The Wi-Fi only works when it's raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
 
 ## [Archives](archives/index.md)
 
