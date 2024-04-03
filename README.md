@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-03, 09:10:31](https://lobste.rs/s/kmzz41/long_form_factuality_large_language) - [Long-form factuality in large language models](https://arxiv.org/abs/2403.18802)
 * [2024-04-03, 08:16:40](https://lobste.rs/s/fagujm/6502_instruction_set_as_database) - [The 6502 Instruction Set as a Database](https://gitlab.com/Screwtapello/isa65xx)
 * [2024-04-03, 07:39:55](https://lobste.rs/s/98rpdw/sweet_spot_maximizing_llama_energy) - [The Sweet Spot - Maximizing Llama Energy Efficiency](https://jacquesmattheij.com/llama-energy-efficiency/)
 * [2024-04-03, 05:31:44](https://lobste.rs/s/uneevr/autoconf_makes_me_think_we_stopped) - [autoconf makes me think we stopped evolving too soon](https://rachelbythebay.com/w/2024/04/02/autoconf/)
@@ -22,7 +23,6 @@
 * [2024-04-02, 09:34:09](https://lobste.rs/s/iwut04/std_launder_most_obscure_new_feature_c_17) - [std::launder: the most obscure new feature of C++17 (2016)](https://miyuki.github.io/2016/10/21/std-launder.html)
 * [2024-04-02, 06:28:48](https://lobste.rs/s/jb1o6q/cosmic_drift) - [Cosmic Drift](https://rgbcu.be/blog/cosmic-drift/)
 * [2024-04-02, 04:20:24](https://lobste.rs/s/hzs0ay/bun_1_1) - [Bun 1.1](https://bun.sh/blog/bun-v1.1)
-* [2024-04-02, 02:07:33](https://lobste.rs/s/5i8hn7/libmui_classic_macos_gs_os_widget_library) - [libmui: Classic MacOS & GS/OS widget library for linux (and other?)](https://github.com/buserror/libmui)
 * [2024-04-01, 14:31:28](https://lobste.rs/s/np8vfh/so_i_guess_i_hacked_samsung) - [so i guess i hacked samsung?](https://maia.crimew.gay/posts/i-hacked-samsung/)
 * [2024-04-01, 12:34:29](https://lobste.rs/s/4pzifd/wi_fi_only_works_when_it_s_raining) - [The Wi-Fi only works when it's raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
 

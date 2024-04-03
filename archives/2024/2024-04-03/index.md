@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 09:10:31](https://lobste.rs/s/kmzz41/long_form_factuality_large_language) - [Long-form factuality in large language models](https://arxiv.org/abs/2403.18802)
 * [2024-04-03, 08:16:40](https://lobste.rs/s/fagujm/6502_instruction_set_as_database) - [The 6502 Instruction Set as a Database](https://gitlab.com/Screwtapello/isa65xx)
 * [2024-04-03, 07:39:55](https://lobste.rs/s/98rpdw/sweet_spot_maximizing_llama_energy) - [The Sweet Spot - Maximizing Llama Energy Efficiency](https://jacquesmattheij.com/llama-energy-efficiency/)
 * [2024-04-03, 05:31:44](https://lobste.rs/s/uneevr/autoconf_makes_me_think_we_stopped) - [autoconf makes me think we stopped evolving too soon](https://rachelbythebay.com/w/2024/04/02/autoconf/)
