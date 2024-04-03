@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-03, 04:02:31](https://lobste.rs/s/zhegoo/python_project_local_virtualenv) - [Python Project-Local Virtualenv Management Redux](https://hynek.me/articles/python-virtualenv-redux/)
+* [2024-04-03, 04:00:13](https://lobste.rs/s/faoza6/hydra_hybrid_runtime_for_x86_16_aarch64) - [Hydra: A hybrid runtime for x86-16 and Aarch64](https://xorvoid.com/hydra.html)
 * [2024-04-03, 02:51:52](https://lobste.rs/s/2brxuq/xz_utils_backdoor_is_symptom_larger) - [The XZ Utils backdoor is a symptom of a larger problem](https://ariadne.space/2024/04/02/the-xz-utils-backdoor-is-a-symptom-of-a-larger-problem/)
 * [2024-04-03, 02:21:29](https://lobste.rs/s/tjv4z6/thing_month) - [thing-a-month](https://bytes.zone/projects/thing-a-month/)
 * [2024-04-03, 01:00:56](https://lobste.rs/s/wa5jio/case_for_native_assertions_postgresql) - [The case for native assertions in PostgreSQL](https://gajus.com/blog/the-case-for-native-assertions-in-postgresql)
 * [2024-04-02, 21:03:56](https://lobste.rs/s/pssbmx/fuck_trees_use_tags) - [Fuck trees, use tags](https://garrit.xyz/posts/2024-04-02-fuck-trees-use-tags)
 * [2024-04-02, 20:15:08](https://lobste.rs/s/4nnfdb/enforcing_conventions_django_projects) - [Enforcing conventions in Django projects with introspection](https://lukeplant.me.uk/blog/posts/enforcing-conventions-in-django-projects-with-introspection/)
-* [2024-04-02, 18:29:40](https://lobste.rs/s/baqaf9/data_flow_analysis_for_go) - [Data Flow Analysis for Go](https://blog.jetbrains.com/go/2024/03/26/data-flow-analysis-for-go/)
 * [2024-04-02, 18:04:38](https://lobste.rs/s/ahlkhh/calling_haskell_from_swift) - [Calling Haskell from Swift](https://alt-romes.github.io/posts/2024-04-02-calling-haskell-from-swift.html)
 * [2024-04-02, 17:53:18](https://lobste.rs/s/dhsdmq/kobold_letters) - [Kobold letters](https://lutrasecurity.com/en/articles/kobold-letters/)
 * [2024-04-02, 17:24:55](https://lobste.rs/s/jpoy4q/nixos_is_not_reproducible) - [NixOS is not reproducible](https://linderud.dev/blog/nixos-is-not-reproducible/)
@@ -24,7 +25,6 @@
 * [2024-04-01, 14:31:28](https://lobste.rs/s/np8vfh/so_i_guess_i_hacked_samsung) - [so i guess i hacked samsung?](https://maia.crimew.gay/posts/i-hacked-samsung/)
 * [2024-04-01, 13:19:36](https://lobste.rs/s/vlkzik/lazy_flippant_classification) - [A lazy and flippant classification of programming languages](https://blog.brycekerley.net/2024/04/01/p-langs.html)
 * [2024-04-01, 12:34:29](https://lobste.rs/s/4pzifd/wi_fi_only_works_when_it_s_raining) - [The Wi-Fi only works when it's raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
-* [2024-04-01, 08:27:56](https://lobste.rs/s/ugvvay/switching_between_code_variants_using) - [Switching between code variants using comments](https://linus.schreibt.jetzt/posts/toggle-comments.html)
 
 ## [Archives](archives/index.md)
 
