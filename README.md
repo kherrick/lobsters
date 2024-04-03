@@ -2,9 +2,9 @@
 
 * [2024-04-03, 19:08:35](https://lobste.rs/s/qmuyax/mycorrhiza_wiki) - [Mycorrhiza Wiki](https://mycorrhiza.wiki/)
 * [2024-04-03, 19:05:57](https://lobste.rs/s/nm36zs/designing_one_one_relationships) - [Designing one-to-one relationships in PostgreSQL](https://gajus.com/blog/designing-one-to-one-relationships-in-postgresql)
+* [2024-04-03, 18:57:02](https://lobste.rs/s/1qlrj7/putting_xz_backdoor_payload_valid_rsa_key) - [Putting an xz Backdoor Payload in a Valid RSA Key](https://rya.nc/xz-valid-n.html)
 * [2024-04-03, 17:49:28](https://lobste.rs/s/oq7wit/introducing_jpegli_new_jpeg_coding) - [Introducing Jpegli: A New JPEG Coding Library](https://opensource.googleblog.com/2024/04/introducing-jpegli-new-jpeg-coding-library.html)
 * [2024-04-03, 16:46:47](https://lobste.rs/s/mg8v5q/osqi) - [OSQI](https://www.tbray.org/ongoing/When/202x/2024/04/01/OSQI)
-* [2024-04-03, 16:06:04](https://lobste.rs/s/nay8k8/compendium_predicates) - [Compendium of Predicates](https://adams-personal-organization.gitbook.io/compendium-of-predicates)
 * [2024-04-03, 15:41:45](https://lobste.rs/s/chkmbd/programming_apprenticeships) - [Programming Apprenticeships](https://two-wrongs.com/programming-apprenticeships.html)
 * [2024-04-03, 14:41:34](https://lobste.rs/s/lawrhx/how_we_built_19_pib_logging_platform_with) - [How we Built a 19 PiB Logging Platform with ClickHouse and Saved Millions](https://clickhouse.com/blog/building-a-logging-platform-with-clickhouse-and-saving-millions-over-datadog)
 * [2024-04-03, 14:35:53](https://lobste.rs/s/xjwuzi/kde6_release_d_bus_polkit_galore) - [KDE6 release: D-Bus and Polkit Galore](https://security.opensuse.org/2024/04/02/kde6-dbus-polkit.html)
