@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 16:06:04](https://lobste.rs/s/nay8k8/compendium_predicates) - [Compendium of Predicates](https://adams-personal-organization.gitbook.io/compendium-of-predicates)
 * [2024-04-03, 15:41:45](https://lobste.rs/s/chkmbd/programming_apprenticeships) - [Programming Apprenticeships](https://two-wrongs.com/programming-apprenticeships.html)
 * [2024-04-03, 15:17:19](https://lobste.rs/s/syovkt/reflections_on_distrusting_xz) - [reflections on distrusting xz](http://joeyh.name/blog/entry/reflections_on_distrusting_xz/)
 * [2024-04-03, 15:01:36](https://lobste.rs/s/b7evyi/fine_art_human_prompt_engineering_how) - [The fine art of human prompt engineering: How to talk to a person like ChatGPT](https://arstechnica.com/?p=2010159)
