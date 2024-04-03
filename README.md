@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-03, 02:21:29](https://lobste.rs/s/tjv4z6/thing_month) - [thing-a-month](https://bytes.zone/projects/thing-a-month/)
 * [2024-04-03, 01:00:56](https://lobste.rs/s/wa5jio/case_for_native_assertions_postgresql) - [The case for native assertions in PostgreSQL](https://gajus.com/blog/the-case-for-native-assertions-in-postgresql)
 * [2024-04-02, 21:03:56](https://lobste.rs/s/pssbmx/fuck_trees_use_tags) - [Fuck trees, use tags](https://garrit.xyz/posts/2024-04-02-fuck-trees-use-tags)
 * [2024-04-02, 20:15:08](https://lobste.rs/s/4nnfdb/enforcing_conventions_django_projects) - [Enforcing conventions in Django projects with introspection](https://lukeplant.me.uk/blog/posts/enforcing-conventions-in-django-projects-with-introspection/)
@@ -16,7 +17,6 @@
 * [2024-04-02, 09:34:09](https://lobste.rs/s/iwut04/std_launder_most_obscure_new_feature_c_17) - [std::launder: the most obscure new feature of C++17 (2016)](https://miyuki.github.io/2016/10/21/std-launder.html)
 * [2024-04-02, 06:28:48](https://lobste.rs/s/jb1o6q/cosmic_drift) - [Cosmic Drift](https://rgbcu.be/blog/cosmic-drift/)
 * [2024-04-02, 04:20:24](https://lobste.rs/s/hzs0ay/bun_1_1) - [Bun 1.1](https://bun.sh/blog/bun-v1.1)
-* [2024-04-02, 02:10:40](https://lobste.rs/s/6cmq3i/april_cools_2024_physics_edition) - [April Cools 2024: Physics Edition](https://tinkering.xyz/april-cools-2024/)
 * [2024-04-02, 02:07:33](https://lobste.rs/s/5i8hn7/libmui_classic_macos_gs_os_widget_library) - [libmui: Classic MacOS & GS/OS widget library for linux (and other?)](https://github.com/buserror/libmui)
 * [2024-04-01, 19:05:54](https://lobste.rs/s/ezsobc/zen_mind_google_intern_s_mind) - [Zen Mind, Google Intern's Mind](https://jorge.olano.dev/blog/zen-mind-google-interns-mind)
 * [2024-04-01, 17:53:38](https://lobste.rs/s/wzlcgl/liveview_is_best_with_svelte) - [LiveView is best with Svelte](https://blog.sequin.io/liveview-is-best-with-svelte/)
