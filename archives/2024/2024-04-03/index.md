@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 07:39:55](https://lobste.rs/s/98rpdw/sweet_spot_maximizing_llama_energy) - [The Sweet Spot - Maximizing Llama Energy Efficiency](https://jacquesmattheij.com/llama-energy-efficiency/)
 * [2024-04-03, 05:31:44](https://lobste.rs/s/uneevr/autoconf_makes_me_think_we_stopped) - [autoconf makes me think we stopped evolving too soon](https://rachelbythebay.com/w/2024/04/02/autoconf/)
 * [2024-04-03, 05:10:06](https://lobste.rs/s/lxgt8w/so_which_llms_are_best_for_building_ai) - [So, which LLMs are the best for building a AI chatbot?](https://irisagent.com/blog/so-which-llms-are-the-best-for-building-a-customer-support-chatbot/)
 * [2024-04-03, 04:02:31](https://lobste.rs/s/zhegoo/python_project_local_virtualenv) - [Python Project-Local Virtualenv Management Redux](https://hynek.me/articles/python-virtualenv-redux/)
