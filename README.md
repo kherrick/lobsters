@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-03, 21:51:41](https://lobste.rs/s/hdiyrt/slip_slurp_linear_cps_concatenative) - [Slip and slurp in a linear CPS concatenative language](https://dcreager.net/swanson/slip-and-slurp/)
 * [2024-04-03, 20:21:07](https://lobste.rs/s/pcnqwe/solution_zodiac_killer_s_340_character) - [The Solution of the Zodiac Killer's 340-Character Cipher](https://arxiv.org/abs/2403.17350)
 * [2024-04-03, 19:56:52](https://lobste.rs/s/hpkfat/get_started_with_embedded_swift_on_arm) - [Get Started with Embedded Swift on ARM and RISC-V Microcontrollers](https://swift.org/blog/embedded-swift-examples/)
 * [2024-04-03, 19:08:35](https://lobste.rs/s/qmuyax/mycorrhiza_wiki) - [Mycorrhiza Wiki](https://mycorrhiza.wiki/)
@@ -13,7 +14,6 @@
 * [2024-04-03, 14:01:21](https://lobste.rs/s/4dgdkj/searching_nixpkgs_under_30_milliseconds) - [Searching Nixpkgs in Under 30 Milliseconds](https://blog.replit.com/nixpkgs-search)
 * [2024-04-03, 11:29:56](https://lobste.rs/s/vvhsge/i_ve_lost_my_pg_control_again_yet_another) - [I've lost my pg_control again (... yet another data recovery story)](https://sdomi.pl/weblog/19-yet-another-pg-data-recovery/)
 * [2024-04-03, 11:20:28](https://lobste.rs/s/dwnutk/ibis_hotel_check_terminal_keypad_code) - [IBIS hotel check-in terminal keypad-code leakage](https://www.pentagrid.ch/en/blog/ibis-hotel-check-in-terminal-keypad-code-leakage/)
-* [2024-04-03, 10:39:50](https://lobste.rs/s/lxfclu/many_confusing_file_system_apis) - [The Many, Confusing File System APIs](https://cloudfour.com/thinks/the-many-confusing-file-system-apis/)
 * [2024-04-03, 09:35:43](https://lobste.rs/s/rna7zm/introducing_linkblocks_federated) - [Introducing linkblocks, the Federated Bookmark Manager](https://www.rafa.ee/articles/introducing-linkblocks-federated-bookmark-manager/)
 * [2024-04-03, 08:16:40](https://lobste.rs/s/fagujm/6502_instruction_set_as_database) - [The 6502 Instruction Set as a Database](https://gitlab.com/Screwtapello/isa65xx)
 * [2024-04-03, 07:39:55](https://lobste.rs/s/98rpdw/sweet_spot_maximizing_llama_energy) - [The Sweet Spot - Maximizing Llama Energy Efficiency](https://jacquesmattheij.com/llama-energy-efficiency/)
