@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 11:20:28](https://lobste.rs/s/dwnutk/ibis_hotel_check_terminal_keypad_code) - [IBIS hotel check-in terminal keypad-code leakage](https://www.pentagrid.ch/en/blog/ibis-hotel-check-in-terminal-keypad-code-leakage/)
 * [2024-04-03, 10:39:50](https://lobste.rs/s/lxfclu/many_confusing_file_system_apis) - [The Many, Confusing File System APIs](https://cloudfour.com/thinks/the-many-confusing-file-system-apis/)
 * [2024-04-03, 09:35:43](https://lobste.rs/s/rna7zm/introducing_linkblocks_federated) - [Introducing linkblocks, the Federated Bookmark Manager](https://www.rafa.ee/articles/introducing-linkblocks-federated-bookmark-manager/)
 * [2024-04-03, 09:10:31](https://lobste.rs/s/kmzz41/long_form_factuality_large_language) - [Long-form factuality in large language models](https://arxiv.org/abs/2403.18802)
