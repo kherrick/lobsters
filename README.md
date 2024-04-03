@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-03, 17:49:28](https://lobste.rs/s/oq7wit/introducing_jpegli_new_jpeg_coding) - [Introducing Jpegli: A New JPEG Coding Library](https://opensource.googleblog.com/2024/04/introducing-jpegli-new-jpeg-coding-library.html)
 * [2024-04-03, 16:46:47](https://lobste.rs/s/mg8v5q/osqi) - [OSQI](https://www.tbray.org/ongoing/When/202x/2024/04/01/OSQI)
 * [2024-04-03, 16:06:04](https://lobste.rs/s/nay8k8/compendium_predicates) - [Compendium of Predicates](https://adams-personal-organization.gitbook.io/compendium-of-predicates)
 * [2024-04-03, 15:41:45](https://lobste.rs/s/chkmbd/programming_apprenticeships) - [Programming Apprenticeships](https://two-wrongs.com/programming-apprenticeships.html)
@@ -14,7 +15,6 @@
 * [2024-04-03, 08:16:40](https://lobste.rs/s/fagujm/6502_instruction_set_as_database) - [The 6502 Instruction Set as a Database](https://gitlab.com/Screwtapello/isa65xx)
 * [2024-04-03, 07:39:55](https://lobste.rs/s/98rpdw/sweet_spot_maximizing_llama_energy) - [The Sweet Spot - Maximizing Llama Energy Efficiency](https://jacquesmattheij.com/llama-energy-efficiency/)
 * [2024-04-03, 05:31:44](https://lobste.rs/s/uneevr/autoconf_makes_me_think_we_stopped) - [autoconf makes me think we stopped evolving too soon](https://rachelbythebay.com/w/2024/04/02/autoconf/)
-* [2024-04-03, 04:02:31](https://lobste.rs/s/zhegoo/python_project_local_virtualenv) - [Python Project-Local Virtualenv Management Redux](https://hynek.me/articles/python-virtualenv-redux/)
 * [2024-04-03, 01:00:56](https://lobste.rs/s/wa5jio/case_for_native_assertions_postgresql) - [The case for native assertions in PostgreSQL](https://gajus.com/blog/the-case-for-native-assertions-in-postgresql)
 * [2024-04-02, 21:03:56](https://lobste.rs/s/pssbmx/fuck_trees_use_tags) - [Fuck trees, use tags](https://garrit.xyz/posts/2024-04-02-fuck-trees-use-tags)
 * [2024-04-02, 20:15:08](https://lobste.rs/s/4nnfdb/enforcing_conventions_django_projects) - [Enforcing conventions in Django projects with introspection](https://lukeplant.me.uk/blog/posts/enforcing-conventions-in-django-projects-with-introspection/)

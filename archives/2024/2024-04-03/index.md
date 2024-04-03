@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 17:49:28](https://lobste.rs/s/oq7wit/introducing_jpegli_new_jpeg_coding) - [Introducing Jpegli: A New JPEG Coding Library](https://opensource.googleblog.com/2024/04/introducing-jpegli-new-jpeg-coding-library.html)
 * [2024-04-03, 16:46:47](https://lobste.rs/s/mg8v5q/osqi) - [OSQI](https://www.tbray.org/ongoing/When/202x/2024/04/01/OSQI)
 * [2024-04-03, 16:06:04](https://lobste.rs/s/nay8k8/compendium_predicates) - [Compendium of Predicates](https://adams-personal-organization.gitbook.io/compendium-of-predicates)
 * [2024-04-03, 15:41:45](https://lobste.rs/s/chkmbd/programming_apprenticeships) - [Programming Apprenticeships](https://two-wrongs.com/programming-apprenticeships.html)
