@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-03, 17:49:28",
+      "https://lobste.rs/s/oq7wit/introducing_jpegli_new_jpeg_coding"
+    ],
+    [
+      "Introducing Jpegli: A New JPEG Coding Library",
+      "https://opensource.googleblog.com/2024/04/introducing-jpegli-new-jpeg-coding-library.html"
+    ]
+  ],
+  [
+    [
       "2024-04-03, 16:46:47",
       "https://lobste.rs/s/mg8v5q/osqi"
     ],
@@ -137,16 +147,6 @@
     [
       "autoconf makes me think we stopped evolving too soon",
       "https://rachelbythebay.com/w/2024/04/02/autoconf/"
-    ]
-  ],
-  [
-    [
-      "2024-04-03, 04:02:31",
-      "https://lobste.rs/s/zhegoo/python_project_local_virtualenv"
-    ],
-    [
-      "Python Project-Local Virtualenv Management Redux",
-      "https://hynek.me/articles/python-virtualenv-redux/"
     ]
   ],
   [
