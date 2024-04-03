@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-03, 14:01:21",
+      "https://lobste.rs/s/4dgdkj/searching_nixpkgs_under_30_milliseconds"
+    ],
+    [
+      "Searching Nixpkgs in Under 30 Milliseconds",
+      "https://blog.replit.com/nixpkgs-search"
+    ]
+  ],
+  [
+    [
       "2024-04-03, 11:54:25",
       "https://lobste.rs/s/acg3wj/every_dunder_method_python"
     ],
@@ -237,16 +247,6 @@
     [
       "Bun 1.1",
       "https://bun.sh/blog/bun-v1.1"
-    ]
-  ],
-  [
-    [
-      "2024-04-01, 12:34:29",
-      "https://lobste.rs/s/4pzifd/wi_fi_only_works_when_it_s_raining"
-    ],
-    [
-      "The Wi-Fi only works when it's raining",
-      "https://predr.ag/blog/wifi-only-works-when-its-raining/"
     ]
   ]
 ]
