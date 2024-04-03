@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-04-03, 15:17:19](https://lobste.rs/s/syovkt/reflections_on_distrusting_xz) - [reflections on distrusting xz](http://joeyh.name/blog/entry/reflections_on_distrusting_xz/)
+* [2024-04-03, 15:01:36](https://lobste.rs/s/b7evyi/fine_art_human_prompt_engineering_how) - [The fine art of human prompt engineering: How to talk to a person like ChatGPT](https://arstechnica.com/?p=2010159)
 * [2024-04-03, 14:41:34](https://lobste.rs/s/lawrhx/how_we_built_19_pib_logging_platform_with) - [How we Built a 19 PiB Logging Platform with ClickHouse and Saved Millions](https://clickhouse.com/blog/building-a-logging-platform-with-clickhouse-and-saving-millions-over-datadog)
 * [2024-04-03, 14:35:53](https://lobste.rs/s/xjwuzi/kde6_release_d_bus_polkit_galore) - [KDE6 release: D-Bus and Polkit Galore](https://security.opensuse.org/2024/04/02/kde6-dbus-polkit.html)
 * [2024-04-03, 14:01:21](https://lobste.rs/s/4dgdkj/searching_nixpkgs_under_30_milliseconds) - [Searching Nixpkgs in Under 30 Milliseconds](https://blog.replit.com/nixpkgs-search)
@@ -22,7 +23,6 @@
 * [2024-04-02, 16:25:35](https://lobste.rs/s/3owc0z/xz_format_inadequate_for_long_term) - [Xz format inadequate for long-term archiving (2016)](https://www.nongnu.org/lzip/xz_inadequate.html)
 * [2024-04-02, 14:26:37](https://lobste.rs/s/o3cw89/algojobs_io_simple_tech_focused_job_board) - [algojobs.io: simple tech-focused job board](https://algojobs.io/)
 * [2024-04-02, 14:22:17](https://lobste.rs/s/sbcayb/guess_my_rgb) - [Guess My RGB](https://susam.net/myrgb.html)
-* [2024-04-02, 09:45:04](https://lobste.rs/s/0vzv0m/termlisp_lisp_dialect_based_on_pattern) - [termlisp: A lisp dialect based on pattern matching and term rewriting](https://github.com/abuseofnotation/termlisp)
 * [2024-04-02, 06:28:48](https://lobste.rs/s/jb1o6q/cosmic_drift) - [Cosmic Drift](https://rgbcu.be/blog/cosmic-drift/)
 * [2024-04-02, 04:20:24](https://lobste.rs/s/hzs0ay/bun_1_1) - [Bun 1.1](https://bun.sh/blog/bun-v1.1)
 
