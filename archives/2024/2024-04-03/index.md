@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 11:29:56](https://lobste.rs/s/vvhsge/i_ve_lost_my_pg_control_again_yet_another) - [I've lost my pg_control again (... yet another data recovery story)](https://sdomi.pl/weblog/19-yet-another-pg-data-recovery/)
 * [2024-04-03, 11:20:28](https://lobste.rs/s/dwnutk/ibis_hotel_check_terminal_keypad_code) - [IBIS hotel check-in terminal keypad-code leakage](https://www.pentagrid.ch/en/blog/ibis-hotel-check-in-terminal-keypad-code-leakage/)
 * [2024-04-03, 10:39:50](https://lobste.rs/s/lxfclu/many_confusing_file_system_apis) - [The Many, Confusing File System APIs](https://cloudfour.com/thinks/the-many-confusing-file-system-apis/)
 * [2024-04-03, 09:35:43](https://lobste.rs/s/rna7zm/introducing_linkblocks_federated) - [Introducing linkblocks, the Federated Bookmark Manager](https://www.rafa.ee/articles/introducing-linkblocks-federated-bookmark-manager/)
