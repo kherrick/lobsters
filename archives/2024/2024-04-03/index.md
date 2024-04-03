@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-03](index.md)
 
+* [2024-04-03, 15:41:45](https://lobste.rs/s/chkmbd/programming_apprenticeships) - [Programming Apprenticeships](https://two-wrongs.com/programming-apprenticeships.html)
 * [2024-04-03, 15:17:19](https://lobste.rs/s/syovkt/reflections_on_distrusting_xz) - [reflections on distrusting xz](http://joeyh.name/blog/entry/reflections_on_distrusting_xz/)
 * [2024-04-03, 15:01:36](https://lobste.rs/s/b7evyi/fine_art_human_prompt_engineering_how) - [The fine art of human prompt engineering: How to talk to a person like ChatGPT](https://arstechnica.com/?p=2010159)
 * [2024-04-03, 14:41:34](https://lobste.rs/s/lawrhx/how_we_built_19_pib_logging_platform_with) - [How we Built a 19 PiB Logging Platform with ClickHouse and Saved Millions](https://clickhouse.com/blog/building-a-logging-platform-with-clickhouse-and-saving-millions-over-datadog)

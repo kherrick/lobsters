@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-03, 15:41:45](https://lobste.rs/s/chkmbd/programming_apprenticeships) - [Programming Apprenticeships](https://two-wrongs.com/programming-apprenticeships.html)
 * [2024-04-03, 15:17:19](https://lobste.rs/s/syovkt/reflections_on_distrusting_xz) - [reflections on distrusting xz](http://joeyh.name/blog/entry/reflections_on_distrusting_xz/)
 * [2024-04-03, 15:01:36](https://lobste.rs/s/b7evyi/fine_art_human_prompt_engineering_how) - [The fine art of human prompt engineering: How to talk to a person like ChatGPT](https://arstechnica.com/?p=2010159)
 * [2024-04-03, 14:41:34](https://lobste.rs/s/lawrhx/how_we_built_19_pib_logging_platform_with) - [How we Built a 19 PiB Logging Platform with ClickHouse and Saved Millions](https://clickhouse.com/blog/building-a-logging-platform-with-clickhouse-and-saving-millions-over-datadog)
@@ -24,7 +25,6 @@
 * [2024-04-02, 14:26:37](https://lobste.rs/s/o3cw89/algojobs_io_simple_tech_focused_job_board) - [algojobs.io: simple tech-focused job board](https://algojobs.io/)
 * [2024-04-02, 14:22:17](https://lobste.rs/s/sbcayb/guess_my_rgb) - [Guess My RGB](https://susam.net/myrgb.html)
 * [2024-04-02, 06:28:48](https://lobste.rs/s/jb1o6q/cosmic_drift) - [Cosmic Drift](https://rgbcu.be/blog/cosmic-drift/)
-* [2024-04-02, 04:20:24](https://lobste.rs/s/hzs0ay/bun_1_1) - [Bun 1.1](https://bun.sh/blog/bun-v1.1)
 
 ## [Archives](archives/index.md)
 
