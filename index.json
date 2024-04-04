@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-04, 06:23:00",
+      "https://lobste.rs/s/agcrso/gleam_1_0_with_louis_pilfold_software"
+    ],
+    [
+      "Gleam 1.0 with Louis Pilfold - Software Unscripted",
+      "https://pod.link/1602572955/episode/3e3cd8a252ed08b948af0b43bf682c6a"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 06:16:44",
+      "https://lobste.rs/s/oc7ynn/tpm_course"
+    ],
+    [
+      "TPM Course",
+      "https://github.com/nokia/TPMCourse/tree/master"
+    ]
+  ],
+  [
+    [
       "2024-04-04, 01:52:05",
       "https://lobste.rs/s/u06vwr/logfmtxx_header_only_c_23_structured"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-04-03, 01:00:56",
-      "https://lobste.rs/s/wa5jio/case_for_native_assertions_postgresql"
-    ],
-    [
-      "The case for native assertions in PostgreSQL",
-      "https://gajus.com/blog/the-case-for-native-assertions-in-postgresql"
-    ]
-  ],
-  [
-    [
       "2024-04-02, 21:03:56",
       "https://lobste.rs/s/pssbmx/fuck_trees_use_tags"
     ],
@@ -227,16 +237,6 @@
     [
       "NixOS is not reproducible",
       "https://linderud.dev/blog/nixos-is-not-reproducible/"
-    ]
-  ],
-  [
-    [
-      "2024-04-02, 14:26:37",
-      "https://lobste.rs/s/o3cw89/algojobs_io_simple_tech_focused_job_board"
-    ],
-    [
-      "algojobs.io: simple tech-focused job board",
-      "https://algojobs.io/"
     ]
   ],
   [
