@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-04, 09:01:54](https://lobste.rs/s/72ptis/pandoc_convert_links_footnotes_easy_way) - [Pandoc: Convert links to footnotes (the easy way)](https://garrit.xyz/posts/2024-04-04-pandoc-convert-links-to-footnotes-the-easy-way)
 * [2024-04-04, 08:49:06](https://lobste.rs/s/xzfvhl/keeping_your_data_from_apple_is_harder) - [Keeping your data from Apple is harder than expected](https://www.aalto.fi/en/news/keeping-your-data-from-apple-is-harder-than-expected)
 * [2024-04-04, 06:23:00](https://lobste.rs/s/agcrso/gleam_1_0_with_louis_pilfold_software) - [Gleam 1.0 with Louis Pilfold - Software Unscripted](https://pod.link/1602572955/episode/3e3cd8a252ed08b948af0b43bf682c6a)
 * [2024-04-04, 06:16:44](https://lobste.rs/s/oc7ynn/tpm_course) - [TPM Course](https://github.com/nokia/TPMCourse/tree/master)
@@ -8,7 +9,6 @@
 * [2024-04-03, 22:37:50](https://lobste.rs/s/0syzvi/strudel_live_coding_platform_write) - [strudel: A  live coding platform to write dynamic music pieces in the browser](https://strudel.cc)
 * [2024-04-03, 21:51:41](https://lobste.rs/s/hdiyrt/slip_slurp_linear_cps_concatenative) - [Slip and slurp in a linear CPS concatenative language](https://dcreager.net/swanson/slip-and-slurp/)
 * [2024-04-03, 20:21:07](https://lobste.rs/s/pcnqwe/solution_zodiac_killer_s_340_character) - [The Solution of the Zodiac Killer's 340-Character Cipher](https://arxiv.org/abs/2403.17350)
-* [2024-04-03, 19:56:52](https://lobste.rs/s/hpkfat/get_started_with_embedded_swift_on_arm) - [Get Started with Embedded Swift on ARM and RISC-V Microcontrollers](https://swift.org/blog/embedded-swift-examples/)
 * [2024-04-03, 19:08:35](https://lobste.rs/s/qmuyax/mycorrhiza_wiki) - [Mycorrhiza Wiki](https://mycorrhiza.wiki/)
 * [2024-04-03, 19:05:57](https://lobste.rs/s/nm36zs/designing_one_one_relationships) - [Designing one-to-one relationships in PostgreSQL](https://gajus.com/blog/designing-one-to-one-relationships-in-postgresql)
 * [2024-04-03, 18:57:02](https://lobste.rs/s/1qlrj7/putting_xz_backdoor_payload_valid_rsa_key) - [Putting an xz Backdoor Payload in a Valid RSA Key](https://rya.nc/xz-valid-n.html)
