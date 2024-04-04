@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-04, 22:15:46](https://lobste.rs/s/rnddfl/visualizing_arm64_instruction_set) - [Visualizing the ARM64 Instruction Set](https://zyedidia.github.io/blog/posts/6-arm64/)
 * [2024-04-04, 21:09:23](https://lobste.rs/s/lr31cl/running_fava_on_nixos) - [Running Fava on NixOS](https://pta2002.com/blog/fava-on-nixos/)
 * [2024-04-04, 21:00:45](https://lobste.rs/s/buvy2p/how_convex_works) - [How Convex Works](https://stack.convex.dev/how-convex-works)
 * [2024-04-04, 20:52:49](https://lobste.rs/s/wohl5c/subroutine_calls_ancient_world_before) - [Subroutine calls in the ancient world, before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
@@ -9,7 +10,6 @@
 * [2024-04-04, 18:57:49](https://lobste.rs/s/jqfv30/c_coroutines_do_not_spark_joy) - [C++ Coroutines Do Not Spark Joy](https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/)
 * [2024-04-04, 17:54:46](https://lobste.rs/s/kzafs2/http_2_continuation_flood_technical) - [HTTP/2 `CONTINUATION` Flood: Technical Details](https://nowotarski.info/http2-continuation-flood-technical-details/)
 * [2024-04-04, 17:17:09](https://lobste.rs/s/8xrx7z/qt_creator_13_released) - [Qt Creator 13 released](https://www.qt.io/blog/qt-creator-13-released)
-* [2024-04-04, 16:41:03](https://lobste.rs/s/fbqcy4/unstract_agpl_launch_llm_powered_apis) - [Unstract(AGPL) – Launch LLM-powered APIs to structure unstructured docs](https://github.com/Zipstack/unstract)
 * [2024-04-04, 16:39:03](https://lobste.rs/s/oicggq/go_s_error_handling_is_perfect_actually) - [Go’s Error Handling Is Perfect, Actually](https://blog.verygoodsoftwarenotvirus.ru/posts/errors-in-go/)
 * [2024-04-04, 16:22:15](https://lobste.rs/s/lhyiq9/zoomer_tries_rss_praise_yarr) - [Zoomer Tries RSS: In Praise of Yarr](https://tudorr.ro/blog/zoomer-tries-rss/)
 * [2024-04-04, 15:26:31](https://lobste.rs/s/mua5s2/on_invariance_inconsistency) - [On Invariance and Inconsistency](https://www.hansdieterhiep.nl/blog/on-invariance-and-inconsistency/)

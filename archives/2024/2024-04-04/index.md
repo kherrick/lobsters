@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
+* [2024-04-04, 22:15:46](https://lobste.rs/s/rnddfl/visualizing_arm64_instruction_set) - [Visualizing the ARM64 Instruction Set](https://zyedidia.github.io/blog/posts/6-arm64/)
 * [2024-04-04, 21:09:23](https://lobste.rs/s/lr31cl/running_fava_on_nixos) - [Running Fava on NixOS](https://pta2002.com/blog/fava-on-nixos/)
 * [2024-04-04, 21:00:45](https://lobste.rs/s/buvy2p/how_convex_works) - [How Convex Works](https://stack.convex.dev/how-convex-works)
 * [2024-04-04, 20:52:49](https://lobste.rs/s/wohl5c/subroutine_calls_ancient_world_before) - [Subroutine calls in the ancient world, before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
