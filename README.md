@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-04, 13:14:03](https://lobste.rs/s/o13uop/i_sold_my_startup_because_bugs_i_wish_i_had) - [I sold my startup because of bugs: I wish I had this serverless repository](https://nevo.hashnode.dev/i-sold-my-startup-because-of-bugs-i-wish-i-had-this-serverless-repository)
 * [2024-04-04, 09:01:54](https://lobste.rs/s/72ptis/pandoc_convert_links_footnotes_easy_way) - [Pandoc: Convert links to footnotes (the easy way)](https://garrit.xyz/posts/2024-04-04-pandoc-convert-links-to-footnotes-the-easy-way)
 * [2024-04-04, 08:49:06](https://lobste.rs/s/xzfvhl/keeping_your_data_from_apple_is_harder) - [Keeping your data from Apple is harder than expected](https://www.aalto.fi/en/news/keeping-your-data-from-apple-is-harder-than-expected)
 * [2024-04-04, 06:23:00](https://lobste.rs/s/agcrso/gleam_1_0_with_louis_pilfold) - [Gleam 1.0 with Louis Pilfold](https://pod.link/1602572955/episode/3e3cd8a252ed08b948af0b43bf682c6a)
@@ -24,7 +25,6 @@
 * [2024-04-03, 05:31:44](https://lobste.rs/s/uneevr/autoconf_makes_me_think_we_stopped) - [autoconf makes me think we stopped evolving too soon](https://rachelbythebay.com/w/2024/04/02/autoconf/)
 * [2024-04-02, 21:03:56](https://lobste.rs/s/pssbmx/fuck_trees_use_tags) - [Fuck trees, use tags](https://garrit.xyz/posts/2024-04-02-fuck-trees-use-tags)
 * [2024-04-02, 17:24:55](https://lobste.rs/s/jpoy4q/nixos_is_not_reproducible) - [NixOS is not reproducible](https://linderud.dev/blog/nixos-is-not-reproducible/)
-* [2024-04-02, 14:22:17](https://lobste.rs/s/sbcayb/guess_my_rgb) - [Guess My RGB](https://susam.net/myrgb.html)
 
 ## [Archives](archives/index.md)
 
