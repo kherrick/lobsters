@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-04, 21:00:45](https://lobste.rs/s/buvy2p/how_convex_works) - [How Convex Works](https://stack.convex.dev/how-convex-works)
 * [2024-04-04, 20:52:49](https://lobste.rs/s/wohl5c/subroutine_calls_ancient_world_before) - [Subroutine calls in the ancient world, before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
 * [2024-04-04, 20:00:33](https://lobste.rs/s/gauemt/conway_s_game_life_through_time) - [Conway's Game of Life Through Time](https://silasmarvin.dev/conways-game-of-life-through-time)
 * [2024-04-04, 19:36:20](https://lobste.rs/s/t8ljqz/design_philosophy_great_tables) - [The Design Philosophy of Great Tables](https://posit-dev.github.io/great-tables/blog/design-philosophy/)
@@ -24,7 +25,6 @@
 * [2024-04-03, 19:05:57](https://lobste.rs/s/nm36zs/designing_one_one_relationships) - [Designing one-to-one relationships in PostgreSQL](https://gajus.com/blog/designing-one-to-one-relationships-in-postgresql)
 * [2024-04-03, 17:49:28](https://lobste.rs/s/oq7wit/introducing_jpegli_new_jpeg_coding) - [Introducing Jpegli: A New JPEG Coding Library](https://opensource.googleblog.com/2024/04/introducing-jpegli-new-jpeg-coding-library.html)
 * [2024-04-03, 15:41:45](https://lobste.rs/s/chkmbd/programming_apprenticeships) - [Programming Apprenticeships](https://two-wrongs.com/programming-apprenticeships.html)
-* [2024-04-03, 14:35:53](https://lobste.rs/s/xjwuzi/kde6_release_d_bus_polkit_galore) - [KDE6 release: D-Bus and Polkit Galore](https://security.opensuse.org/2024/04/02/kde6-dbus-polkit.html)
 
 ## [Archives](archives/index.md)
 

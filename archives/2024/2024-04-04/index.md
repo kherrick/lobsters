@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
+* [2024-04-04, 21:00:45](https://lobste.rs/s/buvy2p/how_convex_works) - [How Convex Works](https://stack.convex.dev/how-convex-works)
 * [2024-04-04, 20:52:49](https://lobste.rs/s/wohl5c/subroutine_calls_ancient_world_before) - [Subroutine calls in the ancient world, before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
 * [2024-04-04, 20:00:33](https://lobste.rs/s/gauemt/conway_s_game_life_through_time) - [Conway's Game of Life Through Time](https://silasmarvin.dev/conways-game-of-life-through-time)
 * [2024-04-04, 19:36:20](https://lobste.rs/s/t8ljqz/design_philosophy_great_tables) - [The Design Philosophy of Great Tables](https://posit-dev.github.io/great-tables/blog/design-philosophy/)
