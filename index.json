@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-04, 14:27:02",
+      "https://lobste.rs/s/w2hepq/cheriot_supply_chain"
+    ],
+    [
+      "CHERIoT and the supply chain",
+      "https://cheriot.org/rtos/supply-chain/auditing/2024/04/04/cheriot-supply-chain.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 14:23:57",
+      "https://lobste.rs/s/etjf0g/v8_sandbox"
+    ],
+    [
+      "The V8 Sandbox",
+      "https://v8.dev/blog/sandbox"
+    ]
+  ],
+  [
+    [
       "2024-04-04, 13:14:03",
       "https://lobste.rs/s/o13uop/i_sold_my_startup_because_bugs_i_wish_i_had"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2024-04-03, 21:51:41",
-      "https://lobste.rs/s/hdiyrt/slip_slurp_linear_cps_concatenative"
-    ],
-    [
-      "Slip and slurp in a linear CPS concatenative language",
-      "https://dcreager.net/swanson/slip-and-slurp/"
-    ]
-  ],
-  [
-    [
       "2024-04-03, 20:21:07",
       "https://lobste.rs/s/pcnqwe/solution_zodiac_killer_s_340_character"
     ],
@@ -157,16 +167,6 @@
     [
       "Programming Apprenticeships",
       "https://two-wrongs.com/programming-apprenticeships.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-03, 14:41:34",
-      "https://lobste.rs/s/lawrhx/how_we_built_19_pib_logging_platform_with"
-    ],
-    [
-      "How we Built a 19 PiB Logging Platform with ClickHouse and Saved Millions",
-      "https://clickhouse.com/blog/building-a-logging-platform-with-clickhouse-and-saving-millions-over-datadog"
     ]
   ],
   [
