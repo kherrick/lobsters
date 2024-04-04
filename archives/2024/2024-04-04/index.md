@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
+* [2024-04-04, 14:27:02](https://lobste.rs/s/w2hepq/cheriot_supply_chain) - [CHERIoT and the supply chain](https://cheriot.org/rtos/supply-chain/auditing/2024/04/04/cheriot-supply-chain.html)
+* [2024-04-04, 14:23:57](https://lobste.rs/s/etjf0g/v8_sandbox) - [The V8 Sandbox](https://v8.dev/blog/sandbox)
 * [2024-04-04, 13:21:26](https://lobste.rs/s/5ysjfc/building_secure_applications_key) - [Building secure applications: Key insights on authentication and authorization from Cerbos and Microsoft Entra](https://www.cerbos.dev/blog/building-secure-applications-key-insights-on-authentication-and-authorization-from-cerbos-and-microsoft-entra)
 * [2024-04-04, 13:14:03](https://lobste.rs/s/o13uop/i_sold_my_startup_because_bugs_i_wish_i_had) - [I sold my startup because of bugs: I wish I had this serverless repository](https://nevo.hashnode.dev/i-sold-my-startup-because-of-bugs-i-wish-i-had-this-serverless-repository)
 * [2024-04-04, 09:01:54](https://lobste.rs/s/72ptis/pandoc_convert_links_footnotes_easy_way) - [Pandoc: Convert links to footnotes (the easy way)](https://garrit.xyz/posts/2024-04-04-pandoc-convert-links-to-footnotes-the-easy-way)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-04, 14:27:02](https://lobste.rs/s/w2hepq/cheriot_supply_chain) - [CHERIoT and the supply chain](https://cheriot.org/rtos/supply-chain/auditing/2024/04/04/cheriot-supply-chain.html)
+* [2024-04-04, 14:23:57](https://lobste.rs/s/etjf0g/v8_sandbox) - [The V8 Sandbox](https://v8.dev/blog/sandbox)
 * [2024-04-04, 13:14:03](https://lobste.rs/s/o13uop/i_sold_my_startup_because_bugs_i_wish_i_had) - [I sold my startup because of bugs: I wish I had this serverless repository](https://nevo.hashnode.dev/i-sold-my-startup-because-of-bugs-i-wish-i-had-this-serverless-repository)
 * [2024-04-04, 09:01:54](https://lobste.rs/s/72ptis/pandoc_convert_links_footnotes_easy_way) - [Pandoc: Convert links to footnotes (the easy way)](https://garrit.xyz/posts/2024-04-04-pandoc-convert-links-to-footnotes-the-easy-way)
 * [2024-04-04, 08:49:06](https://lobste.rs/s/xzfvhl/keeping_your_data_from_apple_is_harder) - [Keeping your data from Apple is harder than expected](https://www.aalto.fi/en/news/keeping-your-data-from-apple-is-harder-than-expected)
@@ -8,7 +10,6 @@
 * [2024-04-04, 01:52:05](https://lobste.rs/s/u06vwr/logfmtxx_header_only_c_23_structured) - [logfmtxx: Header only C++23 structured logging library using logfmt](https://github.com/linkdd/logfmtxx)
 * [2024-04-03, 22:38:10](https://lobste.rs/s/bmdnbg/improvements_static_analysis_gcc_14) - [Improvements to static analysis in the GCC 14 compiler](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler)
 * [2024-04-03, 22:37:50](https://lobste.rs/s/0syzvi/strudel_live_coding_platform_write) - [strudel: A  live coding platform to write dynamic music pieces in the browser](https://strudel.cc)
-* [2024-04-03, 21:51:41](https://lobste.rs/s/hdiyrt/slip_slurp_linear_cps_concatenative) - [Slip and slurp in a linear CPS concatenative language](https://dcreager.net/swanson/slip-and-slurp/)
 * [2024-04-03, 20:21:07](https://lobste.rs/s/pcnqwe/solution_zodiac_killer_s_340_character) - [The Solution of the Zodiac Killer's 340-Character Cipher](https://arxiv.org/abs/2403.17350)
 * [2024-04-03, 19:08:35](https://lobste.rs/s/qmuyax/mycorrhiza_wiki) - [Mycorrhiza Wiki](https://mycorrhiza.wiki/)
 * [2024-04-03, 19:05:57](https://lobste.rs/s/nm36zs/designing_one_one_relationships) - [Designing one-to-one relationships in PostgreSQL](https://gajus.com/blog/designing-one-to-one-relationships-in-postgresql)
@@ -16,7 +17,6 @@
 * [2024-04-03, 17:49:28](https://lobste.rs/s/oq7wit/introducing_jpegli_new_jpeg_coding) - [Introducing Jpegli: A New JPEG Coding Library](https://opensource.googleblog.com/2024/04/introducing-jpegli-new-jpeg-coding-library.html)
 * [2024-04-03, 16:46:47](https://lobste.rs/s/mg8v5q/osqi) - [OSQI](https://www.tbray.org/ongoing/When/202x/2024/04/01/OSQI)
 * [2024-04-03, 15:41:45](https://lobste.rs/s/chkmbd/programming_apprenticeships) - [Programming Apprenticeships](https://two-wrongs.com/programming-apprenticeships.html)
-* [2024-04-03, 14:41:34](https://lobste.rs/s/lawrhx/how_we_built_19_pib_logging_platform_with) - [How we Built a 19 PiB Logging Platform with ClickHouse and Saved Millions](https://clickhouse.com/blog/building-a-logging-platform-with-clickhouse-and-saving-millions-over-datadog)
 * [2024-04-03, 14:35:53](https://lobste.rs/s/xjwuzi/kde6_release_d_bus_polkit_galore) - [KDE6 release: D-Bus and Polkit Galore](https://security.opensuse.org/2024/04/02/kde6-dbus-polkit.html)
 * [2024-04-03, 14:01:21](https://lobste.rs/s/4dgdkj/searching_nixpkgs_under_30_milliseconds) - [Searching Nixpkgs in Under 30 Milliseconds](https://blog.replit.com/nixpkgs-search)
 * [2024-04-03, 11:20:28](https://lobste.rs/s/dwnutk/ibis_hotel_check_terminal_keypad_code) - [IBIS hotel check-in terminal keypad-code leakage](https://www.pentagrid.ch/en/blog/ibis-hotel-check-in-terminal-keypad-code-leakage/)
