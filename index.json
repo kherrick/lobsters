@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-04, 01:52:05",
+      "https://lobste.rs/s/u06vwr/logfmtxx_header_only_c_23_structured"
+    ],
+    [
+      "logfmtxx: Header only C++23 structured logging library using logfmt",
+      "https://github.com/linkdd/logfmtxx"
+    ]
+  ],
+  [
+    [
       "2024-04-03, 22:38:10",
       "https://lobste.rs/s/bmdnbg/improvements_static_analysis_gcc_14"
     ],
@@ -207,16 +217,6 @@
     [
       "Fuck trees, use tags",
       "https://garrit.xyz/posts/2024-04-02-fuck-trees-use-tags"
-    ]
-  ],
-  [
-    [
-      "2024-04-02, 17:53:18",
-      "https://lobste.rs/s/dhsdmq/kobold_letters"
-    ],
-    [
-      "Kobold letters",
-      "https://lutrasecurity.com/en/articles/kobold-letters/"
     ]
   ],
   [
