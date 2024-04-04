@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
+* [2024-04-04, 16:22:15](https://lobste.rs/s/lhyiq9/zoomer_tries_rss_praise_yarr) - [Zoomer Tries RSS: In Praise of Yarr](https://tudorr.ro/blog/zoomer-tries-rss/)
 * [2024-04-04, 15:26:31](https://lobste.rs/s/mua5s2/on_invariance_inconsistency) - [On Invariance and Inconsistency](https://www.hansdieterhiep.nl/blog/on-invariance-and-inconsistency/)
 * [2024-04-04, 14:27:02](https://lobste.rs/s/w2hepq/cheriot_supply_chain) - [CHERIoT and the supply chain](https://cheriot.org/rtos/supply-chain/auditing/2024/04/04/cheriot-supply-chain.html)
 * [2024-04-04, 14:23:57](https://lobste.rs/s/etjf0g/v8_sandbox) - [The V8 Sandbox](https://v8.dev/blog/sandbox)
