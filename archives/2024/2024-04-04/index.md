@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
+* [2024-04-04, 13:21:26](https://lobste.rs/s/5ysjfc/building_secure_applications_key) - [Building secure applications: Key insights on authentication and authorization from Cerbos and Microsoft Entra](https://www.cerbos.dev/blog/building-secure-applications-key-insights-on-authentication-and-authorization-from-cerbos-and-microsoft-entra)
 * [2024-04-04, 13:14:03](https://lobste.rs/s/o13uop/i_sold_my_startup_because_bugs_i_wish_i_had) - [I sold my startup because of bugs: I wish I had this serverless repository](https://nevo.hashnode.dev/i-sold-my-startup-because-of-bugs-i-wish-i-had-this-serverless-repository)
 * [2024-04-04, 09:01:54](https://lobste.rs/s/72ptis/pandoc_convert_links_footnotes_easy_way) - [Pandoc: Convert links to footnotes (the easy way)](https://garrit.xyz/posts/2024-04-04-pandoc-convert-links-to-footnotes-the-easy-way)
 * [2024-04-04, 08:49:06](https://lobste.rs/s/xzfvhl/keeping_your_data_from_apple_is_harder) - [Keeping your data from Apple is harder than expected](https://www.aalto.fi/en/news/keeping-your-data-from-apple-is-harder-than-expected)
