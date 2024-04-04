@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-04, 19:36:20",
+      "https://lobste.rs/s/t8ljqz/design_philosophy_great_tables"
+    ],
+    [
+      "The Design Philosophy of Great Tables",
+      "https://posit-dev.github.io/great-tables/blog/design-philosophy/"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 19:29:37",
+      "https://lobste.rs/s/x3xx7e/rapidly_leveling_up_firefox_security"
+    ],
+    [
+      "Rapidly Leveling up Firefox Security",
+      "https://blog.mozilla.org/security/2024/04/04/rapidly-leveling-up-firefox-security/"
+    ]
+  ],
+  [
+    [
       "2024-04-04, 18:57:49",
       "https://lobste.rs/s/jqfv30/c_coroutines_do_not_spark_joy"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-04-03, 09:35:43",
-      "https://lobste.rs/s/rna7zm/introducing_linkblocks_federated"
-    ],
-    [
-      "Introducing linkblocks, the Federated Bookmark Manager",
-      "https://www.rafa.ee/articles/introducing-linkblocks-federated-bookmark-manager/"
-    ]
-  ],
-  [
-    [
       "2024-04-03, 08:16:40",
       "https://lobste.rs/s/fagujm/6502_instruction_set_as_database"
     ],
@@ -237,16 +247,6 @@
     [
       "autoconf makes me think we stopped evolving too soon",
       "https://rachelbythebay.com/w/2024/04/02/autoconf/"
-    ]
-  ],
-  [
-    [
-      "2024-04-02, 21:03:56",
-      "https://lobste.rs/s/pssbmx/fuck_trees_use_tags"
-    ],
-    [
-      "Fuck trees, use tags",
-      "https://garrit.xyz/posts/2024-04-02-fuck-trees-use-tags"
     ]
   ]
 ]
