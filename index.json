@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-04, 20:00:33",
+      "https://lobste.rs/s/gauemt/conway_s_game_life_through_time"
+    ],
+    [
+      "Conway's Game of Life Through Time",
+      "https://silasmarvin.dev/conways-game-of-life-through-time"
+    ]
+  ],
+  [
+    [
       "2024-04-04, 19:36:20",
       "https://lobste.rs/s/t8ljqz/design_philosophy_great_tables"
     ],
@@ -237,16 +247,6 @@
     [
       "The 6502 Instruction Set as a Database",
       "https://gitlab.com/Screwtapello/isa65xx"
-    ]
-  ],
-  [
-    [
-      "2024-04-02, 21:03:56",
-      "https://lobste.rs/s/pssbmx/fuck_trees_use_tags"
-    ],
-    [
-      "Fuck trees, use tags",
-      "https://garrit.xyz/posts/2024-04-02-fuck-trees-use-tags"
     ]
   ]
 ]
