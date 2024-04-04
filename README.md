@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-04, 22:53:12](https://lobste.rs/s/uasw6f/betula_federated_self_hosted_single_user) - [Betula - federated self-hosted single-user bookmarking software](https://betula.mycorrhiza.wiki/)
 * [2024-04-04, 22:15:46](https://lobste.rs/s/rnddfl/visualizing_arm64_instruction_set) - [Visualizing the ARM64 Instruction Set](https://zyedidia.github.io/blog/posts/6-arm64/)
 * [2024-04-04, 21:09:23](https://lobste.rs/s/lr31cl/running_fava_on_nixos) - [Running Fava on NixOS](https://pta2002.com/blog/fava-on-nixos/)
 * [2024-04-04, 21:00:45](https://lobste.rs/s/buvy2p/how_convex_works) - [How Convex Works](https://stack.convex.dev/how-convex-works)
@@ -19,7 +20,6 @@
 * [2024-04-04, 08:49:06](https://lobste.rs/s/xzfvhl/keeping_your_data_from_apple_is_harder) - [Keeping your data from Apple is harder than expected](https://www.aalto.fi/en/news/keeping-your-data-from-apple-is-harder-than-expected)
 * [2024-04-04, 06:23:00](https://lobste.rs/s/agcrso/gleam_1_0_with_louis_pilfold) - [Gleam 1.0 with Louis Pilfold](https://pod.link/1602572955/episode/3e3cd8a252ed08b948af0b43bf682c6a)
 * [2024-04-04, 06:16:44](https://lobste.rs/s/oc7ynn/tpm_course) - [TPM Course](https://github.com/nokia/TPMCourse/tree/master)
-* [2024-04-04, 01:52:05](https://lobste.rs/s/u06vwr/logfmtxx_header_only_c_23_structured) - [logfmtxx: Header only C++23 structured logging library using logfmt](https://github.com/linkdd/logfmtxx)
 * [2024-04-03, 22:38:10](https://lobste.rs/s/bmdnbg/improvements_static_analysis_gcc_14) - [Improvements to static analysis in the GCC 14 compiler](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler)
 * [2024-04-03, 20:21:07](https://lobste.rs/s/pcnqwe/solution_zodiac_killer_s_340_character) - [The Solution of the Zodiac Killer's 340-Character Cipher](https://arxiv.org/abs/2403.17350)
 * [2024-04-03, 19:08:35](https://lobste.rs/s/qmuyax/mycorrhiza_wiki) - [Mycorrhiza Wiki](https://mycorrhiza.wiki/)
