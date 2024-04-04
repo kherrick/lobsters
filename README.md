@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-04, 20:52:49](https://lobste.rs/s/wohl5c/subroutine_calls_ancient_world_before) - [Subroutine calls in the ancient world, before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
 * [2024-04-04, 20:00:33](https://lobste.rs/s/gauemt/conway_s_game_life_through_time) - [Conway's Game of Life Through Time](https://silasmarvin.dev/conways-game-of-life-through-time)
 * [2024-04-04, 19:36:20](https://lobste.rs/s/t8ljqz/design_philosophy_great_tables) - [The Design Philosophy of Great Tables](https://posit-dev.github.io/great-tables/blog/design-philosophy/)
 * [2024-04-04, 19:29:37](https://lobste.rs/s/x3xx7e/rapidly_leveling_up_firefox_security) - [Rapidly Leveling up Firefox Security](https://blog.mozilla.org/security/2024/04/04/rapidly-leveling-up-firefox-security/)
@@ -24,7 +25,6 @@
 * [2024-04-03, 17:49:28](https://lobste.rs/s/oq7wit/introducing_jpegli_new_jpeg_coding) - [Introducing Jpegli: A New JPEG Coding Library](https://opensource.googleblog.com/2024/04/introducing-jpegli-new-jpeg-coding-library.html)
 * [2024-04-03, 15:41:45](https://lobste.rs/s/chkmbd/programming_apprenticeships) - [Programming Apprenticeships](https://two-wrongs.com/programming-apprenticeships.html)
 * [2024-04-03, 14:35:53](https://lobste.rs/s/xjwuzi/kde6_release_d_bus_polkit_galore) - [KDE6 release: D-Bus and Polkit Galore](https://security.opensuse.org/2024/04/02/kde6-dbus-polkit.html)
-* [2024-04-03, 08:16:40](https://lobste.rs/s/fagujm/6502_instruction_set_as_database) - [The 6502 Instruction Set as a Database](https://gitlab.com/Screwtapello/isa65xx)
 
 ## [Archives](archives/index.md)
 
