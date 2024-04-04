@@ -1,10 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-04-04, 17:54:46](https://lobste.rs/s/kzafs2/http_2_continuation_flood_technical) - [HTTP/2 `CONTINUATION` Flood: Technical Details](https://nowotarski.info/http2-continuation-flood-technical-details/)
-* [2024-04-04, 17:54:13](https://lobste.rs/s/n91ine/open_source_infrastructure_must_be) - [Open Source Infrastructure must be a publicly funded service](https://matrix.org/blog/2024/04/open-source-publicly-funded-service/)
 * [2024-04-04, 17:17:09](https://lobste.rs/s/8xrx7z/qt_creator_13_released) - [Qt Creator 13 released](https://www.qt.io/blog/qt-creator-13-released)
 * [2024-04-04, 16:41:03](https://lobste.rs/s/fbqcy4/unstract_agpl_launch_llm_powered_apis) - [Unstract(AGPL) – Launch LLM-powered APIs to structure unstructured docs](https://github.com/Zipstack/unstract)
-* [2024-04-04, 16:39:03](https://lobste.rs/s/oicggq/go_s_error_handling_is_perfect_actually) - [Go’s Error Handling Is Perfect, Actually](https://blog.verygoodsoftwarenotvirus.ru/posts/errors-in-go/)
 * [2024-04-04, 16:22:15](https://lobste.rs/s/lhyiq9/zoomer_tries_rss_praise_yarr) - [Zoomer Tries RSS: In Praise of Yarr](https://tudorr.ro/blog/zoomer-tries-rss/)
 * [2024-04-04, 15:26:31](https://lobste.rs/s/mua5s2/on_invariance_inconsistency) - [On Invariance and Inconsistency](https://www.hansdieterhiep.nl/blog/on-invariance-and-inconsistency/)
 * [2024-04-04, 14:27:02](https://lobste.rs/s/w2hepq/cheriot_supply_chain) - [CHERIoT and the supply chain](https://cheriot.org/rtos/supply-chain/auditing/2024/04/04/cheriot-supply-chain.html)
@@ -21,10 +19,12 @@
 * [2024-04-03, 17:49:28](https://lobste.rs/s/oq7wit/introducing_jpegli_new_jpeg_coding) - [Introducing Jpegli: A New JPEG Coding Library](https://opensource.googleblog.com/2024/04/introducing-jpegli-new-jpeg-coding-library.html)
 * [2024-04-03, 15:41:45](https://lobste.rs/s/chkmbd/programming_apprenticeships) - [Programming Apprenticeships](https://two-wrongs.com/programming-apprenticeships.html)
 * [2024-04-03, 14:35:53](https://lobste.rs/s/xjwuzi/kde6_release_d_bus_polkit_galore) - [KDE6 release: D-Bus and Polkit Galore](https://security.opensuse.org/2024/04/02/kde6-dbus-polkit.html)
+* [2024-04-03, 11:20:28](https://lobste.rs/s/dwnutk/ibis_hotel_check_terminal_keypad_code) - [IBIS hotel check-in terminal keypad-code leakage](https://www.pentagrid.ch/en/blog/ibis-hotel-check-in-terminal-keypad-code-leakage/)
 * [2024-04-03, 09:35:43](https://lobste.rs/s/rna7zm/introducing_linkblocks_federated) - [Introducing linkblocks, the Federated Bookmark Manager](https://www.rafa.ee/articles/introducing-linkblocks-federated-bookmark-manager/)
 * [2024-04-03, 08:16:40](https://lobste.rs/s/fagujm/6502_instruction_set_as_database) - [The 6502 Instruction Set as a Database](https://gitlab.com/Screwtapello/isa65xx)
 * [2024-04-03, 05:31:44](https://lobste.rs/s/uneevr/autoconf_makes_me_think_we_stopped) - [autoconf makes me think we stopped evolving too soon](https://rachelbythebay.com/w/2024/04/02/autoconf/)
 * [2024-04-02, 21:03:56](https://lobste.rs/s/pssbmx/fuck_trees_use_tags) - [Fuck trees, use tags](https://garrit.xyz/posts/2024-04-02-fuck-trees-use-tags)
+* [2024-04-02, 17:24:55](https://lobste.rs/s/jpoy4q/nixos_is_not_reproducible) - [NixOS is not reproducible](https://linderud.dev/blog/nixos-is-not-reproducible/)
 
 ## [Archives](archives/index.md)
 
