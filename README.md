@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-04, 08:49:06](https://lobste.rs/s/xzfvhl/keeping_your_data_from_apple_is_harder) - [Keeping your data from Apple is harder than expected](https://www.aalto.fi/en/news/keeping-your-data-from-apple-is-harder-than-expected)
 * [2024-04-04, 06:23:00](https://lobste.rs/s/agcrso/gleam_1_0_with_louis_pilfold_software) - [Gleam 1.0 with Louis Pilfold - Software Unscripted](https://pod.link/1602572955/episode/3e3cd8a252ed08b948af0b43bf682c6a)
 * [2024-04-04, 06:16:44](https://lobste.rs/s/oc7ynn/tpm_course) - [TPM Course](https://github.com/nokia/TPMCourse/tree/master)
 * [2024-04-04, 01:52:05](https://lobste.rs/s/u06vwr/logfmtxx_header_only_c_23_structured) - [logfmtxx: Header only C++23 structured logging library using logfmt](https://github.com/linkdd/logfmtxx)
@@ -18,7 +19,6 @@
 * [2024-04-03, 14:35:53](https://lobste.rs/s/xjwuzi/kde6_release_d_bus_polkit_galore) - [KDE6 release: D-Bus and Polkit Galore](https://security.opensuse.org/2024/04/02/kde6-dbus-polkit.html)
 * [2024-04-03, 14:01:21](https://lobste.rs/s/4dgdkj/searching_nixpkgs_under_30_milliseconds) - [Searching Nixpkgs in Under 30 Milliseconds](https://blog.replit.com/nixpkgs-search)
 * [2024-04-03, 11:20:28](https://lobste.rs/s/dwnutk/ibis_hotel_check_terminal_keypad_code) - [IBIS hotel check-in terminal keypad-code leakage](https://www.pentagrid.ch/en/blog/ibis-hotel-check-in-terminal-keypad-code-leakage/)
-* [2024-04-03, 10:39:50](https://lobste.rs/s/lxfclu/many_confusing_file_system_apis) - [The Many, Confusing File System APIs](https://cloudfour.com/thinks/the-many-confusing-file-system-apis/)
 * [2024-04-03, 09:35:43](https://lobste.rs/s/rna7zm/introducing_linkblocks_federated) - [Introducing linkblocks, the Federated Bookmark Manager](https://www.rafa.ee/articles/introducing-linkblocks-federated-bookmark-manager/)
 * [2024-04-03, 08:16:40](https://lobste.rs/s/fagujm/6502_instruction_set_as_database) - [The 6502 Instruction Set as a Database](https://gitlab.com/Screwtapello/isa65xx)
 * [2024-04-03, 05:31:44](https://lobste.rs/s/uneevr/autoconf_makes_me_think_we_stopped) - [autoconf makes me think we stopped evolving too soon](https://rachelbythebay.com/w/2024/04/02/autoconf/)
