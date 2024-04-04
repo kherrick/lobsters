@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-04, 20:52:49",
+      "https://lobste.rs/s/wohl5c/subroutine_calls_ancient_world_before"
+    ],
+    [
+      "Subroutine calls in the ancient world, before computers had stacks or heaps",
+      "https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599"
+    ]
+  ],
+  [
+    [
       "2024-04-04, 20:00:33",
       "https://lobste.rs/s/gauemt/conway_s_game_life_through_time"
     ],
@@ -237,16 +247,6 @@
     [
       "KDE6 release: D-Bus and Polkit Galore",
       "https://security.opensuse.org/2024/04/02/kde6-dbus-polkit.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-03, 08:16:40",
-      "https://lobste.rs/s/fagujm/6502_instruction_set_as_database"
-    ],
-    [
-      "The 6502 Instruction Set as a Database",
-      "https://gitlab.com/Screwtapello/isa65xx"
     ]
   ]
 ]
