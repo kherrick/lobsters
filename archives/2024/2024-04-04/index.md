@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-04](index.md)
 
+* [2024-04-04, 18:57:49](https://lobste.rs/s/jqfv30/c_coroutines_do_not_spark_joy) - [C++ Coroutines Do Not Spark Joy](https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/)
 * [2024-04-04, 17:54:46](https://lobste.rs/s/kzafs2/http_2_continuation_flood_technical) - [HTTP/2 `CONTINUATION` Flood: Technical Details](https://nowotarski.info/http2-continuation-flood-technical-details/)
 * [2024-04-04, 17:54:13](https://lobste.rs/s/n91ine/open_source_infrastructure_must_be) - [Open Source Infrastructure must be a publicly funded service](https://matrix.org/blog/2024/04/open-source-publicly-funded-service/)
 * [2024-04-04, 17:17:09](https://lobste.rs/s/8xrx7z/qt_creator_13_released) - [Qt Creator 13 released](https://www.qt.io/blog/qt-creator-13-released)

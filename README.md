@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-04, 18:57:49](https://lobste.rs/s/jqfv30/c_coroutines_do_not_spark_joy) - [C++ Coroutines Do Not Spark Joy](https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/)
 * [2024-04-04, 17:54:46](https://lobste.rs/s/kzafs2/http_2_continuation_flood_technical) - [HTTP/2 `CONTINUATION` Flood: Technical Details](https://nowotarski.info/http2-continuation-flood-technical-details/)
 * [2024-04-04, 17:17:09](https://lobste.rs/s/8xrx7z/qt_creator_13_released) - [Qt Creator 13 released](https://www.qt.io/blog/qt-creator-13-released)
 * [2024-04-04, 16:41:03](https://lobste.rs/s/fbqcy4/unstract_agpl_launch_llm_powered_apis) - [Unstract(AGPL) – Launch LLM-powered APIs to structure unstructured docs](https://github.com/Zipstack/unstract)
@@ -24,7 +25,6 @@
 * [2024-04-03, 08:16:40](https://lobste.rs/s/fagujm/6502_instruction_set_as_database) - [The 6502 Instruction Set as a Database](https://gitlab.com/Screwtapello/isa65xx)
 * [2024-04-03, 05:31:44](https://lobste.rs/s/uneevr/autoconf_makes_me_think_we_stopped) - [autoconf makes me think we stopped evolving too soon](https://rachelbythebay.com/w/2024/04/02/autoconf/)
 * [2024-04-02, 21:03:56](https://lobste.rs/s/pssbmx/fuck_trees_use_tags) - [Fuck trees, use tags](https://garrit.xyz/posts/2024-04-02-fuck-trees-use-tags)
-* [2024-04-02, 17:24:55](https://lobste.rs/s/jpoy4q/nixos_is_not_reproducible) - [NixOS is not reproducible](https://linderud.dev/blog/nixos-is-not-reproducible/)
 
 ## [Archives](archives/index.md)
 
