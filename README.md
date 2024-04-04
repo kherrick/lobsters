@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-04, 20:00:33](https://lobste.rs/s/gauemt/conway_s_game_life_through_time) - [Conway's Game of Life Through Time](https://silasmarvin.dev/conways-game-of-life-through-time)
 * [2024-04-04, 19:36:20](https://lobste.rs/s/t8ljqz/design_philosophy_great_tables) - [The Design Philosophy of Great Tables](https://posit-dev.github.io/great-tables/blog/design-philosophy/)
 * [2024-04-04, 19:29:37](https://lobste.rs/s/x3xx7e/rapidly_leveling_up_firefox_security) - [Rapidly Leveling up Firefox Security](https://blog.mozilla.org/security/2024/04/04/rapidly-leveling-up-firefox-security/)
 * [2024-04-04, 18:57:49](https://lobste.rs/s/jqfv30/c_coroutines_do_not_spark_joy) - [C++ Coroutines Do Not Spark Joy](https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/)
@@ -24,7 +25,6 @@
 * [2024-04-03, 15:41:45](https://lobste.rs/s/chkmbd/programming_apprenticeships) - [Programming Apprenticeships](https://two-wrongs.com/programming-apprenticeships.html)
 * [2024-04-03, 14:35:53](https://lobste.rs/s/xjwuzi/kde6_release_d_bus_polkit_galore) - [KDE6 release: D-Bus and Polkit Galore](https://security.opensuse.org/2024/04/02/kde6-dbus-polkit.html)
 * [2024-04-03, 08:16:40](https://lobste.rs/s/fagujm/6502_instruction_set_as_database) - [The 6502 Instruction Set as a Database](https://gitlab.com/Screwtapello/isa65xx)
-* [2024-04-02, 21:03:56](https://lobste.rs/s/pssbmx/fuck_trees_use_tags) - [Fuck trees, use tags](https://garrit.xyz/posts/2024-04-02-fuck-trees-use-tags)
 
 ## [Archives](archives/index.md)
 
