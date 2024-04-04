@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-04, 01:52:05](https://lobste.rs/s/u06vwr/logfmtxx_header_only_c_23_structured) - [logfmtxx: Header only C++23 structured logging library using logfmt](https://github.com/linkdd/logfmtxx)
 * [2024-04-03, 22:38:10](https://lobste.rs/s/bmdnbg/improvements_static_analysis_gcc_14) - [Improvements to static analysis in the GCC 14 compiler](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler)
 * [2024-04-03, 22:37:50](https://lobste.rs/s/0syzvi/strudel_live_coding_platform_write) - [strudel: A  live coding platform to write dynamic music pieces in the browser](https://strudel.cc)
 * [2024-04-03, 21:51:41](https://lobste.rs/s/hdiyrt/slip_slurp_linear_cps_concatenative) - [Slip and slurp in a linear CPS concatenative language](https://dcreager.net/swanson/slip-and-slurp/)
@@ -21,7 +22,6 @@
 * [2024-04-03, 05:31:44](https://lobste.rs/s/uneevr/autoconf_makes_me_think_we_stopped) - [autoconf makes me think we stopped evolving too soon](https://rachelbythebay.com/w/2024/04/02/autoconf/)
 * [2024-04-03, 01:00:56](https://lobste.rs/s/wa5jio/case_for_native_assertions_postgresql) - [The case for native assertions in PostgreSQL](https://gajus.com/blog/the-case-for-native-assertions-in-postgresql)
 * [2024-04-02, 21:03:56](https://lobste.rs/s/pssbmx/fuck_trees_use_tags) - [Fuck trees, use tags](https://garrit.xyz/posts/2024-04-02-fuck-trees-use-tags)
-* [2024-04-02, 17:53:18](https://lobste.rs/s/dhsdmq/kobold_letters) - [Kobold letters](https://lutrasecurity.com/en/articles/kobold-letters/)
 * [2024-04-02, 17:24:55](https://lobste.rs/s/jpoy4q/nixos_is_not_reproducible) - [NixOS is not reproducible](https://linderud.dev/blog/nixos-is-not-reproducible/)
 * [2024-04-02, 14:26:37](https://lobste.rs/s/o3cw89/algojobs_io_simple_tech_focused_job_board) - [algojobs.io: simple tech-focused job board](https://algojobs.io/)
 * [2024-04-02, 14:22:17](https://lobste.rs/s/sbcayb/guess_my_rgb) - [Guess My RGB](https://susam.net/myrgb.html)
