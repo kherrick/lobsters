@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-04, 17:54:46",
+      "https://lobste.rs/s/kzafs2/http_2_continuation_flood_technical"
+    ],
+    [
+      "HTTP/2 `CONTINUATION` Flood: Technical Details",
+      "https://nowotarski.info/http2-continuation-flood-technical-details/"
+    ]
+  ],
+  [
+    [
+      "2024-04-04, 17:54:13",
+      "https://lobste.rs/s/n91ine/open_source_infrastructure_must_be"
+    ],
+    [
+      "Open Source Infrastructure must be a publicly funded service",
+      "https://matrix.org/blog/2024/04/open-source-publicly-funded-service/"
+    ]
+  ],
+  [
+    [
       "2024-04-04, 17:17:09",
       "https://lobste.rs/s/8xrx7z/qt_creator_13_released"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-04-03, 11:20:28",
-      "https://lobste.rs/s/dwnutk/ibis_hotel_check_terminal_keypad_code"
-    ],
-    [
-      "IBIS hotel check-in terminal keypad-code leakage",
-      "https://www.pentagrid.ch/en/blog/ibis-hotel-check-in-terminal-keypad-code-leakage/"
-    ]
-  ],
-  [
-    [
       "2024-04-03, 09:35:43",
       "https://lobste.rs/s/rna7zm/introducing_linkblocks_federated"
     ],
@@ -237,16 +247,6 @@
     [
       "Fuck trees, use tags",
       "https://garrit.xyz/posts/2024-04-02-fuck-trees-use-tags"
-    ]
-  ],
-  [
-    [
-      "2024-04-02, 17:24:55",
-      "https://lobste.rs/s/jpoy4q/nixos_is_not_reproducible"
-    ],
-    [
-      "NixOS is not reproducible",
-      "https://linderud.dev/blog/nixos-is-not-reproducible/"
     ]
   ]
 ]
