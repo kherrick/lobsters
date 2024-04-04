@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-04-04, 13:14:03",
-      "https://lobste.rs/s/o13uop/i_sold_my_startup_because_bugs_i_wish_i_had"
-    ],
-    [
-      "I sold my startup because of bugs: I wish I had this serverless repository",
-      "https://nevo.hashnode.dev/i-sold-my-startup-because-of-bugs-i-wish-i-had-this-serverless-repository"
-    ]
-  ],
-  [
-    [
       "2024-04-04, 09:01:54",
       "https://lobste.rs/s/72ptis/pandoc_convert_links_footnotes_easy_way"
     ],
@@ -197,6 +187,16 @@
     [
       "KDE6 release: D-Bus and Polkit Galore",
       "https://security.opensuse.org/2024/04/02/kde6-dbus-polkit.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-03, 11:20:28",
+      "https://lobste.rs/s/dwnutk/ibis_hotel_check_terminal_keypad_code"
+    ],
+    [
+      "IBIS hotel check-in terminal keypad-code leakage",
+      "https://www.pentagrid.ch/en/blog/ibis-hotel-check-in-terminal-keypad-code-leakage/"
     ]
   ],
   [
