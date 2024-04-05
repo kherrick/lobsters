@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-05, 01:26:19](https://lobste.rs/s/9vdvcs/xz_issue_isn_t_about_open_source) - [The xz Issue Isn’t About Open Source](https://changelog.complete.org/archives/10642-the-xz-issue-isnt-about-open-source)
 * [2024-04-04, 22:53:12](https://lobste.rs/s/uasw6f/betula_federated_self_hosted_single_user) - [Betula - federated self-hosted single-user bookmarking software](https://betula.mycorrhiza.wiki/)
 * [2024-04-04, 22:15:46](https://lobste.rs/s/rnddfl/visualizing_arm64_instruction_set) - [Visualizing the ARM64 Instruction Set](https://zyedidia.github.io/blog/posts/6-arm64/)
 * [2024-04-04, 21:09:23](https://lobste.rs/s/lr31cl/running_fava_on_nixos) - [Running Fava on NixOS](https://pta2002.com/blog/fava-on-nixos/)
@@ -23,7 +24,6 @@
 * [2024-04-03, 22:38:10](https://lobste.rs/s/bmdnbg/improvements_static_analysis_gcc_14) - [Improvements to static analysis in the GCC 14 compiler](https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler)
 * [2024-04-03, 20:21:07](https://lobste.rs/s/pcnqwe/solution_zodiac_killer_s_340_character) - [The Solution of the Zodiac Killer's 340-Character Cipher](https://arxiv.org/abs/2403.17350)
 * [2024-04-03, 19:08:35](https://lobste.rs/s/qmuyax/mycorrhiza_wiki) - [Mycorrhiza Wiki](https://mycorrhiza.wiki/)
-* [2024-04-03, 19:05:57](https://lobste.rs/s/nm36zs/designing_one_one_relationships) - [Designing one-to-one relationships in PostgreSQL](https://gajus.com/blog/designing-one-to-one-relationships-in-postgresql)
 * [2024-04-03, 17:49:28](https://lobste.rs/s/oq7wit/introducing_jpegli_new_jpeg_coding) - [Introducing Jpegli: A New JPEG Coding Library](https://opensource.googleblog.com/2024/04/introducing-jpegli-new-jpeg-coding-library.html)
 
 ## [Archives](archives/index.md)
