@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-05, 03:14:17",
+      "https://lobste.rs/s/okd9np/understanding_managing_impact_machine"
+    ],
+    [
+      "Understanding and managing the impact of Machine Learning models on the Web",
+      "https://www.w3.org/reports/ai-web-impact/"
+    ]
+  ],
+  [
+    [
       "2024-04-05, 01:55:44",
       "https://lobste.rs/s/bqm0fl/fizzbee_model_checker_python"
     ],
@@ -207,16 +217,6 @@
     [
       "Gleam 1.0 with Louis Pilfold",
       "https://pod.link/1602572955/episode/3e3cd8a252ed08b948af0b43bf682c6a"
-    ]
-  ],
-  [
-    [
-      "2024-04-03, 22:38:10",
-      "https://lobste.rs/s/bmdnbg/improvements_static_analysis_gcc_14"
-    ],
-    [
-      "Improvements to static analysis in the GCC 14 compiler",
-      "https://developers.redhat.com/articles/2024/04/03/improvements-static-analysis-gcc-14-compiler"
     ]
   ],
   [
