@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-04-05, 08:39:13](https://lobste.rs/s/0srgrw/opentelemetry_is_too_complicated) - [OpenTelemetry Is Too Complicated, VictoriaMetrics Says](https://www.datanami.com/2024/04/01/opentelemetry-is-too-complicated-victoriametrics-says/)
+* [2024-04-05, 09:30:22](https://lobste.rs/s/mtyqib/why_don_t_i_like_git_more) - [Why Don't I Like Git More?](https://matduggan.com/why-dont-i-like-git-more/)
 * [2024-04-05, 08:32:38](https://lobste.rs/s/ofkk3n/simulating_soapy_water) - [Simulating soapy water](https://blog.tymscar.com/posts/soapsim/)
 * [2024-04-05, 08:19:04](https://lobste.rs/s/qawgeg/bugstalker_modern_debugger) - [BugStalker: A modern debugger](https://github.com/godzie44/BugStalker)
 * [2024-04-05, 08:16:08](https://lobste.rs/s/t183zi/jamba_hybrid_transformer_mamba_language) - [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887)
