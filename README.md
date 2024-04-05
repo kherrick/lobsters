@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-05, 18:44:44](https://lobste.rs/s/vidfsl/modal) - [Modal](https://wiki.xxiivv.com/site/modal)
 * [2024-04-05, 16:48:09](https://lobste.rs/s/revwbl/ownership_rust) - [Ownership in Rust](https://smallcultfollowing.com/babysteps/blog/2024/04/05/ownership-in-rust/)
 * [2024-04-05, 15:18:10](https://lobste.rs/s/miuz4c/mocks_explicit_contracts_elixir_2015) - [Mocks and Explicit Contracts in Elixir (2015)](https://dashbit.co/blog/mocks-and-explicit-contracts)
 * [2024-04-05, 13:52:58](https://lobste.rs/s/iv1cgi/building_my_first_homelab_server_rack) - [Building My First Homelab Server Rack](https://mtlynch.io/building-first-homelab-rack/)
@@ -10,7 +11,6 @@
 * [2024-04-05, 09:30:22](https://lobste.rs/s/mtyqib/why_don_t_i_like_git_more) - [Why Don't I Like Git More?](https://matduggan.com/why-dont-i-like-git-more/)
 * [2024-04-05, 08:32:38](https://lobste.rs/s/ofkk3n/simulating_soapy_water) - [Simulating soapy water](https://blog.tymscar.com/posts/soapsim/)
 * [2024-04-05, 08:19:04](https://lobste.rs/s/qawgeg/bugstalker_modern_debugger) - [BugStalker: A modern debugger](https://github.com/godzie44/BugStalker)
-* [2024-04-05, 08:16:08](https://lobste.rs/s/t183zi/jamba_hybrid_transformer_mamba_language) - [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887)
 * [2024-04-05, 06:15:34](https://lobste.rs/s/vivdel/updates_openvms_community_license) - [Updates to the OpenVMS Community License Program](https://vmssoftware.com/about/news/2024-03-25-community-license-update/)
 * [2024-04-05, 06:02:38](https://lobste.rs/s/ltf6yo/postgres_lock_explorer) - [Postgres Lock Explorer](https://leontrolski.github.io/pglockpy.html)
 * [2024-04-05, 05:56:17](https://lobste.rs/s/kl78up/regexide) - [Regexide](https://regexide.com/)
