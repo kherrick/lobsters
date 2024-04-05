@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-04-05](index.md)
 
+* [2024-04-05, 08:39:13](https://lobste.rs/s/0srgrw/opentelemetry_is_too_complicated) - [OpenTelemetry Is Too Complicated, VictoriaMetrics Says](https://www.datanami.com/2024/04/01/opentelemetry-is-too-complicated-victoriametrics-says/)
+* [2024-04-05, 08:32:38](https://lobste.rs/s/ofkk3n/simulating_soapy_water) - [Simulating soapy water](https://blog.tymscar.com/posts/soapsim/)
+* [2024-04-05, 08:19:04](https://lobste.rs/s/qawgeg/bugstalker_modern_debugger) - [BugStalker: A modern debugger](https://github.com/godzie44/BugStalker)
+* [2024-04-05, 08:16:08](https://lobste.rs/s/t183zi/jamba_hybrid_transformer_mamba_language) - [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887)
 * [2024-04-05, 06:15:34](https://lobste.rs/s/vivdel/updates_openvms_community_license) - [Updates to the OpenVMS Community License Program](https://vmssoftware.com/about/news/2024-03-25-community-license-update/)
 * [2024-04-05, 06:02:38](https://lobste.rs/s/ltf6yo/postgres_lock_explorer) - [Postgres Lock Explorer](https://leontrolski.github.io/pglockpy.html)
 * [2024-04-05, 05:56:17](https://lobste.rs/s/kl78up/regexide) - [Regexide](https://regexide.com/)

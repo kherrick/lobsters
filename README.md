@@ -1,11 +1,14 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-05, 08:39:13](https://lobste.rs/s/0srgrw/opentelemetry_is_too_complicated) - [OpenTelemetry Is Too Complicated, VictoriaMetrics Says](https://www.datanami.com/2024/04/01/opentelemetry-is-too-complicated-victoriametrics-says/)
+* [2024-04-05, 08:32:38](https://lobste.rs/s/ofkk3n/simulating_soapy_water) - [Simulating soapy water](https://blog.tymscar.com/posts/soapsim/)
+* [2024-04-05, 08:19:04](https://lobste.rs/s/qawgeg/bugstalker_modern_debugger) - [BugStalker: A modern debugger](https://github.com/godzie44/BugStalker)
+* [2024-04-05, 08:16:08](https://lobste.rs/s/t183zi/jamba_hybrid_transformer_mamba_language) - [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887)
 * [2024-04-05, 06:15:34](https://lobste.rs/s/vivdel/updates_openvms_community_license) - [Updates to the OpenVMS Community License Program](https://vmssoftware.com/about/news/2024-03-25-community-license-update/)
 * [2024-04-05, 06:02:38](https://lobste.rs/s/ltf6yo/postgres_lock_explorer) - [Postgres Lock Explorer](https://leontrolski.github.io/pglockpy.html)
 * [2024-04-05, 05:56:17](https://lobste.rs/s/kl78up/regexide) - [Regexide](https://regexide.com/)
 * [2024-04-05, 04:18:08](https://lobste.rs/s/bqdtct/excellent_succinct_breakdown_xv_mess) - [Excellent succinct breakdown of the xv mess, from an OpenBSD developer](https://marc.info/?l=openbsd-misc&m=171227941117852&w=2)
 * [2024-04-05, 03:23:08](https://lobste.rs/s/dukzk2/openbsd_7_5) - [OpenBSD 7.5](https://www.openbsd.org/75.html)
-* [2024-04-05, 03:14:17](https://lobste.rs/s/okd9np/understanding_managing_impact_machine) - [Understanding and managing the impact of Machine Learning models on the Web](https://www.w3.org/reports/ai-web-impact/)
 * [2024-04-04, 22:53:12](https://lobste.rs/s/uasw6f/betula_federated_self_hosted_single_user) - [Betula - federated self-hosted single-user bookmarking software](https://betula.mycorrhiza.wiki/)
 * [2024-04-04, 22:15:46](https://lobste.rs/s/rnddfl/visualizing_arm64_instruction_set) - [Visualizing the ARM64 Instruction Set](https://zyedidia.github.io/blog/posts/6-arm64/)
 * [2024-04-04, 21:09:23](https://lobste.rs/s/lr31cl/running_fava_on_nixos) - [Running Fava on NixOS](https://pta2002.com/blog/fava-on-nixos/)
@@ -22,9 +25,6 @@
 * [2024-04-04, 14:23:57](https://lobste.rs/s/etjf0g/v8_sandbox) - [The V8 Sandbox](https://v8.dev/blog/sandbox)
 * [2024-04-04, 09:01:54](https://lobste.rs/s/72ptis/pandoc_convert_links_footnotes_easy_way) - [Pandoc: Convert links to footnotes (the easy way)](https://garrit.xyz/posts/2024-04-04-pandoc-convert-links-to-footnotes-the-easy-way)
 * [2024-04-04, 08:49:06](https://lobste.rs/s/xzfvhl/keeping_your_data_from_apple_is_harder) - [Keeping your data from Apple is harder than expected](https://www.aalto.fi/en/news/keeping-your-data-from-apple-is-harder-than-expected)
-* [2024-04-04, 06:23:00](https://lobste.rs/s/agcrso/gleam_1_0_with_louis_pilfold) - [Gleam 1.0 with Louis Pilfold](https://pod.link/1602572955/episode/3e3cd8a252ed08b948af0b43bf682c6a)
-* [2024-04-03, 20:21:07](https://lobste.rs/s/pcnqwe/solution_zodiac_killer_s_340_character) - [The Solution of the Zodiac Killer's 340-Character Cipher](https://arxiv.org/abs/2403.17350)
-* [2024-04-03, 17:49:28](https://lobste.rs/s/oq7wit/introducing_jpegli_new_jpeg_coding) - [Introducing Jpegli: A New JPEG Coding Library](https://opensource.googleblog.com/2024/04/introducing-jpegli-new-jpeg-coding-library.html)
 
 ## [Archives](archives/index.md)
 
