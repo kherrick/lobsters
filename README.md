@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-05, 16:48:09](https://lobste.rs/s/revwbl/ownership_rust) - [Ownership in Rust](https://smallcultfollowing.com/babysteps/blog/2024/04/05/ownership-in-rust/)
 * [2024-04-05, 15:18:10](https://lobste.rs/s/miuz4c/mocks_explicit_contracts_elixir_2015) - [Mocks and Explicit Contracts in Elixir (2015)](https://dashbit.co/blog/mocks-and-explicit-contracts)
 * [2024-04-05, 13:52:58](https://lobste.rs/s/iv1cgi/building_my_first_homelab_server_rack) - [Building My First Homelab Server Rack](https://mtlynch.io/building-first-homelab-rack/)
 * [2024-04-05, 12:20:25](https://lobste.rs/s/5n03yb/data_centric_manifesto) - [Data-Centric Manifesto](http://datacentricmanifesto.org/)
@@ -23,7 +24,6 @@
 * [2024-04-04, 16:22:15](https://lobste.rs/s/lhyiq9/zoomer_tries_rss_praise_yarr) - [Zoomer Tries RSS: In Praise of Yarr](https://tudorr.ro/blog/zoomer-tries-rss/)
 * [2024-04-04, 15:26:31](https://lobste.rs/s/mua5s2/on_invariance_inconsistency) - [On Invariance and Inconsistency](https://www.hansdieterhiep.nl/blog/on-invariance-and-inconsistency/)
 * [2024-04-04, 14:27:02](https://lobste.rs/s/w2hepq/cheriot_supply_chain) - [CHERIoT and the supply chain](https://cheriot.org/rtos/supply-chain/auditing/2024/04/04/cheriot-supply-chain.html)
-* [2024-04-04, 14:23:57](https://lobste.rs/s/etjf0g/v8_sandbox) - [The V8 Sandbox](https://v8.dev/blog/sandbox)
 * [2024-04-04, 09:01:54](https://lobste.rs/s/72ptis/pandoc_convert_links_footnotes_easy_way) - [Pandoc: Convert links to footnotes (the easy way)](https://garrit.xyz/posts/2024-04-04-pandoc-convert-links-to-footnotes-the-easy-way)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-05](index.md)
 
+* [2024-04-05, 16:48:09](https://lobste.rs/s/revwbl/ownership_rust) - [Ownership in Rust](https://smallcultfollowing.com/babysteps/blog/2024/04/05/ownership-in-rust/)
 * [2024-04-05, 15:18:10](https://lobste.rs/s/miuz4c/mocks_explicit_contracts_elixir_2015) - [Mocks and Explicit Contracts in Elixir (2015)](https://dashbit.co/blog/mocks-and-explicit-contracts)
 * [2024-04-05, 14:38:02](https://lobste.rs/s/e56emm/statement_about_maintenance_lzip) - [Statement about the maintenance of lzip](https://lists.nongnu.org/archive/html/lzip-bug/2024-04/msg00000.html)
 * [2024-04-05, 13:52:58](https://lobste.rs/s/iv1cgi/building_my_first_homelab_server_rack) - [Building My First Homelab Server Rack](https://mtlynch.io/building-first-homelab-rack/)
