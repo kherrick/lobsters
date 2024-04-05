@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-05, 16:48:09",
+      "https://lobste.rs/s/revwbl/ownership_rust"
+    ],
+    [
+      "Ownership in Rust",
+      "https://smallcultfollowing.com/babysteps/blog/2024/04/05/ownership-in-rust/"
+    ]
+  ],
+  [
+    [
       "2024-04-05, 15:18:10",
       "https://lobste.rs/s/miuz4c/mocks_explicit_contracts_elixir_2015"
     ],
@@ -227,16 +237,6 @@
     [
       "CHERIoT and the supply chain",
       "https://cheriot.org/rtos/supply-chain/auditing/2024/04/04/cheriot-supply-chain.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 14:23:57",
-      "https://lobste.rs/s/etjf0g/v8_sandbox"
-    ],
-    [
-      "The V8 Sandbox",
-      "https://v8.dev/blog/sandbox"
     ]
   ],
   [
