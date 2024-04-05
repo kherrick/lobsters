@@ -6,6 +6,7 @@
 * [2024-04-05, 12:20:25](https://lobste.rs/s/5n03yb/data_centric_manifesto) - [Data-Centric Manifesto](http://datacentricmanifesto.org/)
 * [2024-04-05, 11:28:31](https://lobste.rs/s/agywrp/irc_client_your_motherboard) - [An IRC Client in your motherboard](https://axleos.com/an-irc-client-in-your-motherboard/)
 * [2024-04-05, 10:28:42](https://lobste.rs/s/0d8cad/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/0d8cad/what_are_you_doing_this_weekend)
+* [2024-04-05, 10:20:57](https://lobste.rs/s/5jfylg/why_i_think_you_shouldn_t_digitally_sign) - [Why I think you shouldn't digitally sign things casually](https://utcc.utoronto.ca/~cks/space/blog/tech/OnNotSigningThings)
 * [2024-04-05, 09:30:22](https://lobste.rs/s/mtyqib/why_don_t_i_like_git_more) - [Why Don't I Like Git More?](https://matduggan.com/why-dont-i-like-git-more/)
 * [2024-04-05, 08:32:38](https://lobste.rs/s/ofkk3n/simulating_soapy_water) - [Simulating soapy water](https://blog.tymscar.com/posts/soapsim/)
 * [2024-04-05, 08:19:04](https://lobste.rs/s/qawgeg/bugstalker_modern_debugger) - [BugStalker: A modern debugger](https://github.com/godzie44/BugStalker)
@@ -22,7 +23,6 @@
 * [2024-04-04, 18:57:49](https://lobste.rs/s/jqfv30/c_coroutines_do_not_spark_joy) - [C++ Coroutines Do Not Spark Joy](https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/)
 * [2024-04-04, 16:39:03](https://lobste.rs/s/oicggq/go_s_error_handling_is_perfect_actually) - [Go’s Error Handling Is Perfect, Actually](https://blog.verygoodsoftwarenotvirus.ru/posts/errors-in-go/)
 * [2024-04-04, 16:22:15](https://lobste.rs/s/lhyiq9/zoomer_tries_rss_praise_yarr) - [Zoomer Tries RSS: In Praise of Yarr](https://tudorr.ro/blog/zoomer-tries-rss/)
-* [2024-04-04, 15:26:31](https://lobste.rs/s/mua5s2/on_invariance_inconsistency) - [On Invariance and Inconsistency](https://www.hansdieterhiep.nl/blog/on-invariance-and-inconsistency/)
 * [2024-04-04, 14:27:02](https://lobste.rs/s/w2hepq/cheriot_supply_chain) - [CHERIoT and the supply chain](https://cheriot.org/rtos/supply-chain/auditing/2024/04/04/cheriot-supply-chain.html)
 * [2024-04-04, 09:01:54](https://lobste.rs/s/72ptis/pandoc_convert_links_footnotes_easy_way) - [Pandoc: Convert links to footnotes (the easy way)](https://garrit.xyz/posts/2024-04-04-pandoc-convert-links-to-footnotes-the-easy-way)
 
