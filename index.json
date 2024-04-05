@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-05, 19:46:50",
+      "https://lobste.rs/s/ulhjfb/fortran_on_webassembly"
+    ],
+    [
+      "Fortran on WebAssembly",
+      "https://gws.phd/posts/fortran_wasm/"
+    ]
+  ],
+  [
+    [
       "2024-04-05, 18:56:47",
       "https://lobste.rs/s/bb9ume/printf_tac_toe_tic_tac_toe_single_call"
     ],
@@ -117,16 +127,6 @@
     [
       "Updates to the OpenVMS Community License Program",
       "https://vmssoftware.com/about/news/2024-03-25-community-license-update/"
-    ]
-  ],
-  [
-    [
-      "2024-04-05, 06:02:38",
-      "https://lobste.rs/s/ltf6yo/postgres_lock_explorer"
-    ],
-    [
-      "Postgres Lock Explorer",
-      "https://leontrolski.github.io/pglockpy.html"
     ]
   ],
   [
