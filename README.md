@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-05, 03:23:08](https://lobste.rs/s/dukzk2/openbsd_7_5) - [OpenBSD 7.5](https://www.openbsd.org/75.html)
 * [2024-04-05, 03:14:17](https://lobste.rs/s/okd9np/understanding_managing_impact_machine) - [Understanding and managing the impact of Machine Learning models on the Web](https://www.w3.org/reports/ai-web-impact/)
 * [2024-04-05, 01:55:44](https://lobste.rs/s/bqm0fl/fizzbee_model_checker_python) - [FizzBee -- Model checker in Python](https://fizzbee.io/)
 * [2024-04-05, 01:26:19](https://lobste.rs/s/9vdvcs/xz_issue_isn_t_about_open_source) - [The xz Issue Isn’t About Open Source](https://changelog.complete.org/archives/10642-the-xz-issue-isnt-about-open-source)
@@ -23,7 +24,6 @@
 * [2024-04-04, 08:49:06](https://lobste.rs/s/xzfvhl/keeping_your_data_from_apple_is_harder) - [Keeping your data from Apple is harder than expected](https://www.aalto.fi/en/news/keeping-your-data-from-apple-is-harder-than-expected)
 * [2024-04-04, 06:23:00](https://lobste.rs/s/agcrso/gleam_1_0_with_louis_pilfold) - [Gleam 1.0 with Louis Pilfold](https://pod.link/1602572955/episode/3e3cd8a252ed08b948af0b43bf682c6a)
 * [2024-04-03, 20:21:07](https://lobste.rs/s/pcnqwe/solution_zodiac_killer_s_340_character) - [The Solution of the Zodiac Killer's 340-Character Cipher](https://arxiv.org/abs/2403.17350)
-* [2024-04-03, 19:08:35](https://lobste.rs/s/qmuyax/mycorrhiza_wiki) - [Mycorrhiza Wiki](https://mycorrhiza.wiki/)
 * [2024-04-03, 17:49:28](https://lobste.rs/s/oq7wit/introducing_jpegli_new_jpeg_coding) - [Introducing Jpegli: A New JPEG Coding Library](https://opensource.googleblog.com/2024/04/introducing-jpegli-new-jpeg-coding-library.html)
 
 ## [Archives](archives/index.md)
