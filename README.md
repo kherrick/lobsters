@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-05, 22:54:34](https://lobste.rs/s/p63ovj/diving_deeper_into_ai_package) - [Diving Deeper into AI Package Hallucinations](https://www.lasso.security/blog/ai-package-hallucinations)
 * [2024-04-05, 20:23:32](https://lobste.rs/s/lquhzk/updated_app_store_guidelines_now) - [Updated App Store Guidelines Now Allowing \"Retro game console emulator apps\"](https://developer.apple.com/app-store/review/guidelines/)
 * [2024-04-05, 19:51:54](https://lobste.rs/s/zea6pq/freebsd_zero_desktop_speedrun_challenge) - [FreeBSD Zero to Desktop Speedrun Challenge](https://vermaden.wordpress.com/2024/04/05/freebsd-zero-to-desktop-speedrun-challenge/)
 * [2024-04-05, 19:46:50](https://lobste.rs/s/ulhjfb/fortran_on_webassembly) - [Fortran on WebAssembly](https://gws.phd/posts/fortran_wasm/)
@@ -18,7 +19,6 @@
 * [2024-04-05, 05:56:17](https://lobste.rs/s/kl78up/regexide) - [Regexide](https://regexide.com/)
 * [2024-04-05, 04:18:08](https://lobste.rs/s/bqdtct/excellent_succinct_breakdown_xz_mess) - [Excellent succinct breakdown of the xz mess, from an OpenBSD developer](https://marc.info/?l=openbsd-misc&m=171227941117852&w=2)
 * [2024-04-05, 03:23:08](https://lobste.rs/s/dukzk2/openbsd_7_5) - [OpenBSD 7.5](https://www.openbsd.org/75.html)
-* [2024-04-04, 22:53:12](https://lobste.rs/s/uasw6f/betula_federated_self_hosted_single_user) - [Betula - federated self-hosted single-user bookmarking software](https://betula.mycorrhiza.wiki/)
 * [2024-04-04, 22:15:46](https://lobste.rs/s/rnddfl/visualizing_arm64_instruction_set) - [Visualizing the ARM64 Instruction Set](https://zyedidia.github.io/blog/posts/6-arm64/)
 * [2024-04-04, 21:09:23](https://lobste.rs/s/lr31cl/running_fava_on_nixos) - [Running Fava on NixOS](https://pta2002.com/blog/fava-on-nixos/)
 * [2024-04-04, 20:52:49](https://lobste.rs/s/wohl5c/subroutine_calls_ancient_world_before) - [Subroutine calls in the ancient world, before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
