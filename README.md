@@ -3,7 +3,6 @@
 * [2024-04-05, 12:20:25](https://lobste.rs/s/5n03yb/data_centric_manifesto) - [Data-Centric Manifesto](http://datacentricmanifesto.org/)
 * [2024-04-05, 11:28:31](https://lobste.rs/s/agywrp/irc_client_your_motherboard) - [An IRC Client in your motherboard](https://axleos.com/an-irc-client-in-your-motherboard/)
 * [2024-04-05, 10:28:42](https://lobste.rs/s/0d8cad/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/0d8cad/what_are_you_doing_this_weekend)
-* [2024-04-05, 10:20:57](https://lobste.rs/s/5jfylg/why_i_think_you_shouldn_t_digitally_sign) - [Why I think you shouldn't digitally sign things casually](https://utcc.utoronto.ca/~cks/space/blog/tech/OnNotSigningThings)
 * [2024-04-05, 09:30:22](https://lobste.rs/s/mtyqib/why_don_t_i_like_git_more) - [Why Don't I Like Git More?](https://matduggan.com/why-dont-i-like-git-more/)
 * [2024-04-05, 08:32:38](https://lobste.rs/s/ofkk3n/simulating_soapy_water) - [Simulating soapy water](https://blog.tymscar.com/posts/soapsim/)
 * [2024-04-05, 08:19:04](https://lobste.rs/s/qawgeg/bugstalker_modern_debugger) - [BugStalker: A modern debugger](https://github.com/godzie44/BugStalker)
@@ -25,6 +24,7 @@
 * [2024-04-04, 14:27:02](https://lobste.rs/s/w2hepq/cheriot_supply_chain) - [CHERIoT and the supply chain](https://cheriot.org/rtos/supply-chain/auditing/2024/04/04/cheriot-supply-chain.html)
 * [2024-04-04, 14:23:57](https://lobste.rs/s/etjf0g/v8_sandbox) - [The V8 Sandbox](https://v8.dev/blog/sandbox)
 * [2024-04-04, 09:01:54](https://lobste.rs/s/72ptis/pandoc_convert_links_footnotes_easy_way) - [Pandoc: Convert links to footnotes (the easy way)](https://garrit.xyz/posts/2024-04-04-pandoc-convert-links-to-footnotes-the-easy-way)
+* [2024-04-04, 08:49:06](https://lobste.rs/s/xzfvhl/keeping_your_data_from_apple_is_harder) - [Keeping your data from Apple is harder than expected](https://www.aalto.fi/en/news/keeping-your-data-from-apple-is-harder-than-expected)
 
 ## [Archives](archives/index.md)
 
