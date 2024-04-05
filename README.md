@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-05, 18:56:47](https://lobste.rs/s/bb9ume/printf_tac_toe_tic_tac_toe_single_call) - [printf-tac-toe: tic-tac-toe in a single call to printf](https://github.com/carlini/printf-tac-toe)
 * [2024-04-05, 18:44:44](https://lobste.rs/s/vidfsl/modal) - [Modal](https://wiki.xxiivv.com/site/modal)
 * [2024-04-05, 16:48:09](https://lobste.rs/s/revwbl/ownership_rust) - [Ownership in Rust](https://smallcultfollowing.com/babysteps/blog/2024/04/05/ownership-in-rust/)
 * [2024-04-05, 15:18:10](https://lobste.rs/s/miuz4c/mocks_explicit_contracts_elixir_2015) - [Mocks and Explicit Contracts in Elixir (2015)](https://dashbit.co/blog/mocks-and-explicit-contracts)
@@ -9,7 +10,6 @@
 * [2024-04-05, 10:28:42](https://lobste.rs/s/0d8cad/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/0d8cad/what_are_you_doing_this_weekend)
 * [2024-04-05, 10:20:57](https://lobste.rs/s/5jfylg/why_i_think_you_shouldn_t_digitally_sign) - [Why I think you shouldn't digitally sign things casually](https://utcc.utoronto.ca/~cks/space/blog/tech/OnNotSigningThings)
 * [2024-04-05, 09:30:22](https://lobste.rs/s/mtyqib/why_don_t_i_like_git_more) - [Why Don't I Like Git More?](https://matduggan.com/why-dont-i-like-git-more/)
-* [2024-04-05, 08:32:38](https://lobste.rs/s/ofkk3n/simulating_soapy_water) - [Simulating soapy water](https://blog.tymscar.com/posts/soapsim/)
 * [2024-04-05, 08:19:04](https://lobste.rs/s/qawgeg/bugstalker_modern_debugger) - [BugStalker: A modern debugger](https://github.com/godzie44/BugStalker)
 * [2024-04-05, 06:15:34](https://lobste.rs/s/vivdel/updates_openvms_community_license) - [Updates to the OpenVMS Community License Program](https://vmssoftware.com/about/news/2024-03-25-community-license-update/)
 * [2024-04-05, 06:02:38](https://lobste.rs/s/ltf6yo/postgres_lock_explorer) - [Postgres Lock Explorer](https://leontrolski.github.io/pglockpy.html)
