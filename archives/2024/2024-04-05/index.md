@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-05](index.md)
 
+* [2024-04-05, 06:15:34](https://lobste.rs/s/vivdel/updates_openvms_community_license) - [Updates to the OpenVMS Community License Program](https://vmssoftware.com/about/news/2024-03-25-community-license-update/)
 * [2024-04-05, 06:02:38](https://lobste.rs/s/ltf6yo/postgres_lock_explorer) - [Postgres Lock Explorer](https://leontrolski.github.io/pglockpy.html)
 * [2024-04-05, 05:56:17](https://lobste.rs/s/kl78up/regexide) - [Regexide](https://regexide.com/)
 * [2024-04-05, 04:18:08](https://lobste.rs/s/bqdtct/excellent_succinct_breakdown_xv_mess) - [Excellent succinct breakdown of the xv mess, from an OpenBSD developer](https://marc.info/?l=openbsd-misc&m=171227941117852&w=2)

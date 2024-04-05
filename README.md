@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-05, 06:15:34](https://lobste.rs/s/vivdel/updates_openvms_community_license) - [Updates to the OpenVMS Community License Program](https://vmssoftware.com/about/news/2024-03-25-community-license-update/)
 * [2024-04-05, 06:02:38](https://lobste.rs/s/ltf6yo/postgres_lock_explorer) - [Postgres Lock Explorer](https://leontrolski.github.io/pglockpy.html)
 * [2024-04-05, 05:56:17](https://lobste.rs/s/kl78up/regexide) - [Regexide](https://regexide.com/)
 * [2024-04-05, 04:18:08](https://lobste.rs/s/bqdtct/excellent_succinct_breakdown_xv_mess) - [Excellent succinct breakdown of the xv mess, from an OpenBSD developer](https://marc.info/?l=openbsd-misc&m=171227941117852&w=2)
@@ -8,7 +9,6 @@
 * [2024-04-04, 22:53:12](https://lobste.rs/s/uasw6f/betula_federated_self_hosted_single_user) - [Betula - federated self-hosted single-user bookmarking software](https://betula.mycorrhiza.wiki/)
 * [2024-04-04, 22:15:46](https://lobste.rs/s/rnddfl/visualizing_arm64_instruction_set) - [Visualizing the ARM64 Instruction Set](https://zyedidia.github.io/blog/posts/6-arm64/)
 * [2024-04-04, 21:09:23](https://lobste.rs/s/lr31cl/running_fava_on_nixos) - [Running Fava on NixOS](https://pta2002.com/blog/fava-on-nixos/)
-* [2024-04-04, 21:00:45](https://lobste.rs/s/buvy2p/how_convex_works) - [How Convex Works](https://stack.convex.dev/how-convex-works)
 * [2024-04-04, 20:52:49](https://lobste.rs/s/wohl5c/subroutine_calls_ancient_world_before) - [Subroutine calls in the ancient world, before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
 * [2024-04-04, 20:00:33](https://lobste.rs/s/gauemt/conway_s_game_life_through_time) - [Conway's Game of Life Through Time](https://silasmarvin.dev/conways-game-of-life-through-time)
 * [2024-04-04, 19:36:20](https://lobste.rs/s/t8ljqz/design_philosophy_great_tables) - [The Design Philosophy of Great Tables](https://posit-dev.github.io/great-tables/blog/design-philosophy/)
