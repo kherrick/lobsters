@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-05, 15:18:10",
+      "https://lobste.rs/s/miuz4c/mocks_explicit_contracts_elixir_2015"
+    ],
+    [
+      "Mocks and Explicit Contracts in Elixir (2015)",
+      "https://dashbit.co/blog/mocks-and-explicit-contracts"
+    ]
+  ],
+  [
+    [
       "2024-04-05, 13:52:58",
       "https://lobste.rs/s/iv1cgi/building_my_first_homelab_server_rack"
     ],
@@ -237,16 +247,6 @@
     [
       "Pandoc: Convert links to footnotes (the easy way)",
       "https://garrit.xyz/posts/2024-04-04-pandoc-convert-links-to-footnotes-the-easy-way"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 08:49:06",
-      "https://lobste.rs/s/xzfvhl/keeping_your_data_from_apple_is_harder"
-    ],
-    [
-      "Keeping your data from Apple is harder than expected",
-      "https://www.aalto.fi/en/news/keeping-your-data-from-apple-is-harder-than-expected"
     ]
   ]
 ]
