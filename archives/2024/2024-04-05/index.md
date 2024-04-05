@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-05](index.md)
 
+* [2024-04-05, 11:28:31](https://lobste.rs/s/agywrp/irc_client_your_motherboard) - [An IRC Client in your motherboard](https://axleos.com/an-irc-client-in-your-motherboard/)
 * [2024-04-05, 10:28:42](https://lobste.rs/s/0d8cad/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/0d8cad/what_are_you_doing_this_weekend)
 * [2024-04-05, 10:20:57](https://lobste.rs/s/5jfylg/why_i_think_you_shouldn_t_digitally_sign) - [Why I think you shouldn't digitally sign things casually](https://utcc.utoronto.ca/~cks/space/blog/tech/OnNotSigningThings)
 * [2024-04-05, 09:30:22](https://lobste.rs/s/mtyqib/why_don_t_i_like_git_more) - [Why Don't I Like Git More?](https://matduggan.com/why-dont-i-like-git-more/)

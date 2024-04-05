@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-05, 11:28:31](https://lobste.rs/s/agywrp/irc_client_your_motherboard) - [An IRC Client in your motherboard](https://axleos.com/an-irc-client-in-your-motherboard/)
 * [2024-04-05, 10:28:42](https://lobste.rs/s/0d8cad/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/0d8cad/what_are_you_doing_this_weekend)
 * [2024-04-05, 10:20:57](https://lobste.rs/s/5jfylg/why_i_think_you_shouldn_t_digitally_sign) - [Why I think you shouldn't digitally sign things casually](https://utcc.utoronto.ca/~cks/space/blog/tech/OnNotSigningThings)
 * [2024-04-05, 09:30:22](https://lobste.rs/s/mtyqib/why_don_t_i_like_git_more) - [Why Don't I Like Git More?](https://matduggan.com/why-dont-i-like-git-more/)
@@ -17,7 +18,6 @@
 * [2024-04-04, 20:52:49](https://lobste.rs/s/wohl5c/subroutine_calls_ancient_world_before) - [Subroutine calls in the ancient world, before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
 * [2024-04-04, 19:29:37](https://lobste.rs/s/x3xx7e/rapidly_leveling_up_firefox_security) - [Rapidly Leveling up Firefox Security](https://blog.mozilla.org/security/2024/04/04/rapidly-leveling-up-firefox-security/)
 * [2024-04-04, 18:57:49](https://lobste.rs/s/jqfv30/c_coroutines_do_not_spark_joy) - [C++ Coroutines Do Not Spark Joy](https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/)
-* [2024-04-04, 17:54:46](https://lobste.rs/s/kzafs2/http_2_continuation_flood_technical) - [HTTP/2 `CONTINUATION` Flood: Technical Details](https://nowotarski.info/http2-continuation-flood-technical-details/)
 * [2024-04-04, 16:39:03](https://lobste.rs/s/oicggq/go_s_error_handling_is_perfect_actually) - [Go’s Error Handling Is Perfect, Actually](https://blog.verygoodsoftwarenotvirus.ru/posts/errors-in-go/)
 * [2024-04-04, 16:22:15](https://lobste.rs/s/lhyiq9/zoomer_tries_rss_praise_yarr) - [Zoomer Tries RSS: In Praise of Yarr](https://tudorr.ro/blog/zoomer-tries-rss/)
 * [2024-04-04, 15:26:31](https://lobste.rs/s/mua5s2/on_invariance_inconsistency) - [On Invariance and Inconsistency](https://www.hansdieterhiep.nl/blog/on-invariance-and-inconsistency/)
