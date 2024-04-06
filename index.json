@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-06, 07:36:09",
+      "https://lobste.rs/s/i3eg8u/history_source_control_systems_sccs_rcs"
+    ],
+    [
+      "A History of Source Control Systems: SCCS and RCS",
+      "https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/"
+    ]
+  ],
+  [
+    [
       "2024-04-06, 07:15:03",
       "https://lobste.rs/s/hiycaj/gnome_builder_abandons_xdg_cache_dir"
     ],
@@ -197,16 +207,6 @@
     [
       "OpenBSD 7.5",
       "https://www.openbsd.org/75.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 22:15:46",
-      "https://lobste.rs/s/rnddfl/visualizing_arm64_instruction_set"
-    ],
-    [
-      "Visualizing the ARM64 Instruction Set",
-      "https://zyedidia.github.io/blog/posts/6-arm64/"
     ]
   ],
   [
