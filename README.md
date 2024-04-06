@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-06, 15:28:40](https://lobste.rs/s/bveaac/ec_programming_language) - [eC Programming Language](https://ec-lang.org/)
 * [2024-04-06, 14:32:24](https://lobste.rs/s/qua0ia/pkgsrc_on_macos_still_works) - [pkgsrc on macOS: still works](https://schmonz.com/2024/04/02/pkgsrc-on-macos-still-works/)
 * [2024-04-06, 14:32:02](https://lobste.rs/s/l95ibg/cve_2023_3741_how_we_hacked_voip_telephone) - [CVE-2023-3741: how we hacked a VoIP telephone](https://havce.it/posts/cve-2023-3741/)
 * [2024-04-06, 13:18:09](https://lobste.rs/s/3a4zga/do_you_have_any_programming_white_whales) - [Do you have any programming \"white whales\"?](https://lobste.rs/s/3a4zga/do_you_have_any_programming_white_whales)
@@ -23,7 +24,6 @@
 * [2024-04-05, 09:30:22](https://lobste.rs/s/mtyqib/why_don_t_i_like_git_more) - [Why Don't I Like Git More?](https://matduggan.com/why-dont-i-like-git-more/)
 * [2024-04-05, 04:18:08](https://lobste.rs/s/bqdtct/excellent_succinct_breakdown_xz_mess) - [Excellent succinct breakdown of the xz mess, from an OpenBSD developer](https://marc.info/?l=openbsd-misc&m=171227941117852&w=2)
 * [2024-04-05, 03:23:08](https://lobste.rs/s/dukzk2/openbsd_7_5) - [OpenBSD 7.5](https://www.openbsd.org/75.html)
-* [2024-04-04, 16:39:03](https://lobste.rs/s/oicggq/go_s_error_handling_is_perfect_actually) - [Go’s Error Handling Is Perfect, Actually](https://blog.verygoodsoftwarenotvirus.ru/posts/errors-in-go/)
 * [2024-04-04, 16:22:15](https://lobste.rs/s/lhyiq9/zoomer_tries_rss_praise_yarr) - [Zoomer Tries RSS: In Praise of Yarr](https://tudorr.ro/blog/zoomer-tries-rss/)
 
 ## [Archives](archives/index.md)
