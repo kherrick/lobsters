@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-06](index.md)
 
+* [2024-04-06, 04:42:46](https://lobste.rs/s/goi5ht/memory_model_for_rust_code_kernel) - [A memory model for Rust code in the kernel](https://lwn.net/SubscriberLink/967049/0ffb9b9ed8940013/)
 * [2024-04-06, 04:30:26](https://lobste.rs/s/fs9tzr/memory_model_for_rust_code_kernel) - [A memory model for Rust code in the kernel](https://lwn.net/Articles/967049/)
 * [2024-04-06, 01:50:22](https://lobste.rs/s/kripyb/file_over_app) - [File over app](https://stephango.com/file-over-app)
 * [2024-04-06, 01:50:04](https://lobste.rs/s/a4kxhs/mdn_s_ai_help_lucid_lies) - [MDN’s AI Help and lucid lies](https://seirdy.one/posts/2024/04/04/mdn-ai-help-and-lucid-lies/)
