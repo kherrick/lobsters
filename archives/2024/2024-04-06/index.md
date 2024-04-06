@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-04-06](index.md)
+
+* [2024-04-06, 01:09:57](https://lobste.rs/s/kenq0b/why_cockroachdb_doesn_t_use_evalplanqual) - [Why CockroachDB doesn't use EvalPlanQual](https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-06, 01:09:57](https://lobste.rs/s/kenq0b/why_cockroachdb_doesn_t_use_evalplanqual) - [Why CockroachDB doesn't use EvalPlanQual](https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/)
 * [2024-04-05, 22:54:34](https://lobste.rs/s/p63ovj/diving_deeper_into_ai_package) - [Diving Deeper into AI Package Hallucinations](https://www.lasso.security/blog/ai-package-hallucinations)
 * [2024-04-05, 20:23:32](https://lobste.rs/s/lquhzk/updated_app_store_guidelines_now) - [Updated App Store Guidelines Now Allowing \"Retro game console emulator apps\"](https://developer.apple.com/app-store/review/guidelines/)
 * [2024-04-05, 19:51:54](https://lobste.rs/s/zea6pq/freebsd_zero_desktop_speedrun_challenge) - [FreeBSD Zero to Desktop Speedrun Challenge](https://vermaden.wordpress.com/2024/04/05/freebsd-zero-to-desktop-speedrun-challenge/)
@@ -21,7 +22,6 @@
 * [2024-04-05, 03:23:08](https://lobste.rs/s/dukzk2/openbsd_7_5) - [OpenBSD 7.5](https://www.openbsd.org/75.html)
 * [2024-04-04, 22:15:46](https://lobste.rs/s/rnddfl/visualizing_arm64_instruction_set) - [Visualizing the ARM64 Instruction Set](https://zyedidia.github.io/blog/posts/6-arm64/)
 * [2024-04-04, 21:09:23](https://lobste.rs/s/lr31cl/running_fava_on_nixos) - [Running Fava on NixOS](https://pta2002.com/blog/fava-on-nixos/)
-* [2024-04-04, 20:52:49](https://lobste.rs/s/wohl5c/subroutine_calls_ancient_world_before) - [Subroutine calls in the ancient world, before computers had stacks or heaps](https://devblogs.microsoft.com/oldnewthing/20240401-00/?p=109599)
 * [2024-04-04, 18:57:49](https://lobste.rs/s/jqfv30/c_coroutines_do_not_spark_joy) - [C++ Coroutines Do Not Spark Joy](https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/)
 * [2024-04-04, 16:39:03](https://lobste.rs/s/oicggq/go_s_error_handling_is_perfect_actually) - [Go’s Error Handling Is Perfect, Actually](https://blog.verygoodsoftwarenotvirus.ru/posts/errors-in-go/)
 * [2024-04-04, 16:22:15](https://lobste.rs/s/lhyiq9/zoomer_tries_rss_praise_yarr) - [Zoomer Tries RSS: In Praise of Yarr](https://tudorr.ro/blog/zoomer-tries-rss/)
