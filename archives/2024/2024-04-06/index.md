@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-06](index.md)
 
+* [2024-04-06, 19:44:08](https://lobste.rs/s/azjqfm/doubling_down_on_open_source_how_rondb) - [Doubling Down on Open Source: How RonDB Upholds the Principles Redis Left Behind](https://www.hopsworks.ai/post/doubling-down-on-open-source-how-rondb-upholds-the-principles-redis-left-behind)
 * [2024-04-06, 17:57:00](https://lobste.rs/s/irksxx/towards_impeccable_rust) - [Towards Impeccable Rust](https://www.youtube.com/watch?v=qfknfCsICUM)
 * [2024-04-06, 17:50:55](https://lobste.rs/s/iqnxfk/hunting_for_persistence_linux_part_1) - [Hunting for Persistence in Linux (Part 1)](https://pberba.github.io/security/2021/11/22/linux-threat-hunting-for-persistence-sysmon-auditd-webshell/)
 * [2024-04-06, 15:28:40](https://lobste.rs/s/bveaac/ec_programming_language) - [eC Programming Language](https://ec-lang.org/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-06, 19:44:08](https://lobste.rs/s/azjqfm/doubling_down_on_open_source_how_rondb) - [Doubling Down on Open Source: How RonDB Upholds the Principles Redis Left Behind](https://www.hopsworks.ai/post/doubling-down-on-open-source-how-rondb-upholds-the-principles-redis-left-behind)
 * [2024-04-06, 17:57:00](https://lobste.rs/s/irksxx/towards_impeccable_rust) - [Towards Impeccable Rust](https://www.youtube.com/watch?v=qfknfCsICUM)
 * [2024-04-06, 17:50:55](https://lobste.rs/s/iqnxfk/hunting_for_persistence_linux_part_1) - [Hunting for Persistence in Linux (Part 1)](https://pberba.github.io/security/2021/11/22/linux-threat-hunting-for-persistence-sysmon-auditd-webshell/)
 * [2024-04-06, 15:28:40](https://lobste.rs/s/bveaac/ec_programming_language) - [eC Programming Language](https://ec-lang.org/)
@@ -13,7 +14,6 @@
 * [2024-04-06, 07:15:03](https://lobste.rs/s/hiycaj/gnome_builder_abandons_xdg_cache_dir) - [GNOME Builder abandons XDG_CACHE_DIR](https://blogs.gnome.org/chergert/2024/04/03/custom-artifacts-directories/)
 * [2024-04-06, 01:50:22](https://lobste.rs/s/kripyb/file_over_app) - [File over app](https://stephango.com/file-over-app)
 * [2024-04-06, 01:50:04](https://lobste.rs/s/a4kxhs/mdn_s_ai_help_lucid_lies) - [MDN’s AI Help and lucid lies](https://seirdy.one/posts/2024/04/04/mdn-ai-help-and-lucid-lies/)
-* [2024-04-06, 01:09:57](https://lobste.rs/s/kenq0b/why_cockroachdb_doesn_t_use_evalplanqual) - [Why CockroachDB doesn't use EvalPlanQual](https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/)
 * [2024-04-05, 20:23:32](https://lobste.rs/s/lquhzk/updated_app_store_guidelines_now) - [Updated App Store Guidelines Now Allowing \"Retro game console emulator apps\"](https://developer.apple.com/app-store/review/guidelines/)
 * [2024-04-05, 19:51:54](https://lobste.rs/s/zea6pq/freebsd_zero_desktop_speedrun_challenge) - [FreeBSD Zero to Desktop Speedrun Challenge](https://vermaden.wordpress.com/2024/04/05/freebsd-zero-to-desktop-speedrun-challenge/)
 * [2024-04-05, 19:46:50](https://lobste.rs/s/ulhjfb/fortran_on_webassembly) - [Fortran on WebAssembly](https://gws.phd/posts/fortran_wasm/)
