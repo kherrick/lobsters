@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-06, 17:50:55](https://lobste.rs/s/iqnxfk/hunting_for_persistence_linux_part_1) - [Hunting for Persistence in Linux (Part 1)](https://pberba.github.io/security/2021/11/22/linux-threat-hunting-for-persistence-sysmon-auditd-webshell/)
 * [2024-04-06, 15:28:40](https://lobste.rs/s/bveaac/ec_programming_language) - [eC Programming Language](https://ec-lang.org/)
 * [2024-04-06, 14:32:24](https://lobste.rs/s/qua0ia/pkgsrc_on_macos_still_works) - [pkgsrc on macOS: still works](https://schmonz.com/2024/04/02/pkgsrc-on-macos-still-works/)
 * [2024-04-06, 14:32:02](https://lobste.rs/s/l95ibg/cve_2023_3741_how_we_hacked_voip_telephone) - [CVE-2023-3741: how we hacked a VoIP telephone](https://havce.it/posts/cve-2023-3741/)
@@ -9,7 +10,6 @@
 * [2024-04-06, 10:01:25](https://lobste.rs/s/ho0fcy/scrolll_demo_for_32_html_scrollbars) - [\"scrolll\" – a demo for 32 HTML scrollbars](https://www.youtube.com/watch?v=i-aqB9Ii38Y)
 * [2024-04-06, 07:36:09](https://lobste.rs/s/i3eg8u/history_source_control_systems_sccs_rcs) - [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
 * [2024-04-06, 07:15:03](https://lobste.rs/s/hiycaj/gnome_builder_abandons_xdg_cache_dir) - [GNOME Builder abandons XDG_CACHE_DIR](https://blogs.gnome.org/chergert/2024/04/03/custom-artifacts-directories/)
-* [2024-04-06, 04:42:46](https://lobste.rs/s/goi5ht/memory_model_for_rust_code_kernel) - [A memory model for Rust code in the kernel](https://lwn.net/SubscriberLink/967049/0ffb9b9ed8940013/)
 * [2024-04-06, 01:50:22](https://lobste.rs/s/kripyb/file_over_app) - [File over app](https://stephango.com/file-over-app)
 * [2024-04-06, 01:50:04](https://lobste.rs/s/a4kxhs/mdn_s_ai_help_lucid_lies) - [MDN’s AI Help and lucid lies](https://seirdy.one/posts/2024/04/04/mdn-ai-help-and-lucid-lies/)
 * [2024-04-06, 01:09:57](https://lobste.rs/s/kenq0b/why_cockroachdb_doesn_t_use_evalplanqual) - [Why CockroachDB doesn't use EvalPlanQual](https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/)
