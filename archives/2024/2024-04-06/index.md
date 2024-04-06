@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-06](index.md)
 
+* [2024-04-06, 14:32:24](https://lobste.rs/s/qua0ia/pkgsrc_on_macos_still_works) - [pkgsrc on macOS: still works](https://schmonz.com/2024/04/02/pkgsrc-on-macos-still-works/)
+* [2024-04-06, 14:32:02](https://lobste.rs/s/l95ibg/cve_2023_3741_how_we_hacked_voip_telephone) - [CVE-2023-3741: how we hacked a VoIP telephone](https://havce.it/posts/cve-2023-3741/)
 * [2024-04-06, 13:18:09](https://lobste.rs/s/3a4zga/do_you_have_any_programming_white_whales) - [Do you have any programming \"white whales\"?](https://lobste.rs/s/3a4zga/do_you_have_any_programming_white_whales)
 * [2024-04-06, 12:59:50](https://lobste.rs/s/vcrune/photoshop_for_text_2022) - [Photoshop for text (2022)](https://stephango.com/photoshop-for-text)
 * [2024-04-06, 11:27:10](https://lobste.rs/s/gd065u/how_tech_giants_cut_corners_harvest_data) - [How Tech Giants Cut Corners to Harvest Data for A.I](https://www.nytimes.com/2024/04/06/technology/tech-giants-harvest-data-artificial-intelligence.html)
