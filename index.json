@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-06, 10:48:25",
+      "https://lobste.rs/s/nhai24/challenges_building_modern_open_source"
+    ],
+    [
+      "The challenges of building modern open source software on PowerPC Mac OS X",
+      "http://www.netbsd.org/~nia/tigersrc/"
+    ]
+  ],
+  [
+    [
       "2024-04-06, 10:01:25",
       "https://lobste.rs/s/ho0fcy/scrolll_demo_for_32_html_scrollbars"
     ],
@@ -207,16 +217,6 @@
     [
       "OpenBSD 7.5",
       "https://www.openbsd.org/75.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 21:09:23",
-      "https://lobste.rs/s/lr31cl/running_fava_on_nixos"
-    ],
-    [
-      "Running Fava on NixOS",
-      "https://pta2002.com/blog/fava-on-nixos/"
     ]
   ],
   [
