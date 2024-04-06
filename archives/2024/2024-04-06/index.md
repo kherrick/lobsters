@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-06](index.md)
 
+* [2024-04-06, 11:27:10](https://lobste.rs/s/gd065u/how_tech_giants_cut_corners_harvest_data) - [How Tech Giants Cut Corners to Harvest Data for A.I](https://www.nytimes.com/2024/04/06/technology/tech-giants-harvest-data-artificial-intelligence.html)
 * [2024-04-06, 10:48:25](https://lobste.rs/s/nhai24/challenges_building_modern_open_source) - [The challenges of building modern open source software on PowerPC Mac OS X](http://www.netbsd.org/~nia/tigersrc/)
 * [2024-04-06, 10:01:25](https://lobste.rs/s/ho0fcy/scrolll_demo_for_32_html_scrollbars) - [\"scrolll\" – a demo for 32 HTML scrollbars](https://www.youtube.com/watch?v=i-aqB9Ii38Y)
 * [2024-04-06, 07:36:09](https://lobste.rs/s/i3eg8u/history_source_control_systems_sccs_rcs) - [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
