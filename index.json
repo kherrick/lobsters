@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-06, 17:50:55",
+      "https://lobste.rs/s/iqnxfk/hunting_for_persistence_linux_part_1"
+    ],
+    [
+      "Hunting for Persistence in Linux (Part 1)",
+      "https://pberba.github.io/security/2021/11/22/linux-threat-hunting-for-persistence-sysmon-auditd-webshell/"
+    ]
+  ],
+  [
+    [
       "2024-04-06, 15:28:40",
       "https://lobste.rs/s/bveaac/ec_programming_language"
     ],
@@ -87,16 +97,6 @@
     [
       "GNOME Builder abandons XDG_CACHE_DIR",
       "https://blogs.gnome.org/chergert/2024/04/03/custom-artifacts-directories/"
-    ]
-  ],
-  [
-    [
-      "2024-04-06, 04:42:46",
-      "https://lobste.rs/s/goi5ht/memory_model_for_rust_code_kernel"
-    ],
-    [
-      "A memory model for Rust code in the kernel",
-      "https://lwn.net/SubscriberLink/967049/0ffb9b9ed8940013/"
     ]
   ],
   [
