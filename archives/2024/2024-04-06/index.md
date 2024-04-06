@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-06](index.md)
 
+* [2024-04-06, 21:55:45](https://lobste.rs/s/euzn0f/chapel_2_0_scalable_productive_computing) - [Chapel 2.0: Scalable and Productive Computing for All](https://chapel-lang.org/blog/posts/announcing-chapel-2.0/)
 * [2024-04-06, 20:20:19](https://lobste.rs/s/7ukcna/assist) - [The Assist](https://qntm.org/assist)
 * [2024-04-06, 19:44:08](https://lobste.rs/s/azjqfm/doubling_down_on_open_source_how_rondb) - [Doubling Down on Open Source: How RonDB Upholds the Principles Redis Left Behind](https://www.hopsworks.ai/post/doubling-down-on-open-source-how-rondb-upholds-the-principles-redis-left-behind)
 * [2024-04-06, 17:57:00](https://lobste.rs/s/irksxx/towards_impeccable_rust) - [Towards Impeccable Rust](https://www.youtube.com/watch?v=qfknfCsICUM)
