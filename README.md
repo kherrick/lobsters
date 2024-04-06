@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-06, 10:48:25](https://lobste.rs/s/nhai24/challenges_building_modern_open_source) - [The challenges of building modern open source software on PowerPC Mac OS X](http://www.netbsd.org/~nia/tigersrc/)
 * [2024-04-06, 10:01:25](https://lobste.rs/s/ho0fcy/scrolll_demo_for_32_html_scrollbars) - [\"scrolll\" – a demo for 32 HTML scrollbars](https://www.youtube.com/watch?v=i-aqB9Ii38Y)
 * [2024-04-06, 07:36:09](https://lobste.rs/s/i3eg8u/history_source_control_systems_sccs_rcs) - [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
 * [2024-04-06, 07:15:03](https://lobste.rs/s/hiycaj/gnome_builder_abandons_xdg_cache_dir) - [GNOME Builder abandons XDG_CACHE_DIR](https://blogs.gnome.org/chergert/2024/04/03/custom-artifacts-directories/)
@@ -21,7 +22,6 @@
 * [2024-04-05, 05:56:17](https://lobste.rs/s/kl78up/regexide) - [Regexide](https://regexide.com/)
 * [2024-04-05, 04:18:08](https://lobste.rs/s/bqdtct/excellent_succinct_breakdown_xz_mess) - [Excellent succinct breakdown of the xz mess, from an OpenBSD developer](https://marc.info/?l=openbsd-misc&m=171227941117852&w=2)
 * [2024-04-05, 03:23:08](https://lobste.rs/s/dukzk2/openbsd_7_5) - [OpenBSD 7.5](https://www.openbsd.org/75.html)
-* [2024-04-04, 21:09:23](https://lobste.rs/s/lr31cl/running_fava_on_nixos) - [Running Fava on NixOS](https://pta2002.com/blog/fava-on-nixos/)
 * [2024-04-04, 18:57:49](https://lobste.rs/s/jqfv30/c_coroutines_do_not_spark_joy) - [C++ Coroutines Do Not Spark Joy](https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/)
 * [2024-04-04, 16:39:03](https://lobste.rs/s/oicggq/go_s_error_handling_is_perfect_actually) - [Go’s Error Handling Is Perfect, Actually](https://blog.verygoodsoftwarenotvirus.ru/posts/errors-in-go/)
 * [2024-04-04, 16:22:15](https://lobste.rs/s/lhyiq9/zoomer_tries_rss_praise_yarr) - [Zoomer Tries RSS: In Praise of Yarr](https://tudorr.ro/blog/zoomer-tries-rss/)
