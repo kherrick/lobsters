@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2024-04-06, 01:09:57",
+      "https://lobste.rs/s/kenq0b/why_cockroachdb_doesn_t_use_evalplanqual"
+    ],
+    [
+      "Why CockroachDB doesn't use EvalPlanQual",
+      "https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/"
+    ]
+  ],
+  [
+    [
       "2024-04-05, 20:23:32",
       "https://lobste.rs/s/lquhzk/updated_app_store_guidelines_now"
     ],
@@ -207,16 +217,6 @@
     [
       "An IRC Client in your motherboard",
       "https://axleos.com/an-irc-client-in-your-motherboard/"
-    ]
-  ],
-  [
-    [
-      "2024-04-05, 09:30:22",
-      "https://lobste.rs/s/mtyqib/why_don_t_i_like_git_more"
-    ],
-    [
-      "Why Don't I Like Git More?",
-      "https://matduggan.com/why-dont-i-like-git-more/"
     ]
   ],
   [
