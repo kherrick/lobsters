@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-06, 20:20:19](https://lobste.rs/s/7ukcna/assist) - [The Assist](https://qntm.org/assist)
 * [2024-04-06, 19:44:08](https://lobste.rs/s/azjqfm/doubling_down_on_open_source_how_rondb) - [Doubling Down on Open Source: How RonDB Upholds the Principles Redis Left Behind](https://www.hopsworks.ai/post/doubling-down-on-open-source-how-rondb-upholds-the-principles-redis-left-behind)
 * [2024-04-06, 17:57:00](https://lobste.rs/s/irksxx/towards_impeccable_rust) - [Towards Impeccable Rust](https://www.youtube.com/watch?v=qfknfCsICUM)
 * [2024-04-06, 17:50:55](https://lobste.rs/s/iqnxfk/hunting_for_persistence_linux_part_1) - [Hunting for Persistence in Linux (Part 1)](https://pberba.github.io/security/2021/11/22/linux-threat-hunting-for-persistence-sysmon-auditd-webshell/)
@@ -16,7 +17,6 @@
 * [2024-04-06, 01:50:04](https://lobste.rs/s/a4kxhs/mdn_s_ai_help_lucid_lies) - [MDN’s AI Help and lucid lies](https://seirdy.one/posts/2024/04/04/mdn-ai-help-and-lucid-lies/)
 * [2024-04-05, 20:23:32](https://lobste.rs/s/lquhzk/updated_app_store_guidelines_now) - [Updated App Store Guidelines Now Allowing \"Retro game console emulator apps\"](https://developer.apple.com/app-store/review/guidelines/)
 * [2024-04-05, 19:51:54](https://lobste.rs/s/zea6pq/freebsd_zero_desktop_speedrun_challenge) - [FreeBSD Zero to Desktop Speedrun Challenge](https://vermaden.wordpress.com/2024/04/05/freebsd-zero-to-desktop-speedrun-challenge/)
-* [2024-04-05, 19:46:50](https://lobste.rs/s/ulhjfb/fortran_on_webassembly) - [Fortran on WebAssembly](https://gws.phd/posts/fortran_wasm/)
 * [2024-04-05, 18:56:47](https://lobste.rs/s/bb9ume/printf_tac_toe_tic_tac_toe_single_call) - [printf-tac-toe: tic-tac-toe in a single call to printf](https://github.com/carlini/printf-tac-toe)
 * [2024-04-05, 18:44:44](https://lobste.rs/s/vidfsl/modal) - [Modal](https://wiki.xxiivv.com/site/modal)
 * [2024-04-05, 16:48:09](https://lobste.rs/s/revwbl/ownership_rust) - [Ownership in Rust](https://smallcultfollowing.com/babysteps/blog/2024/04/05/ownership-in-rust/)
