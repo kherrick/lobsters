@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-06, 19:44:08",
+      "https://lobste.rs/s/azjqfm/doubling_down_on_open_source_how_rondb"
+    ],
+    [
+      "Doubling Down on Open Source: How RonDB Upholds the Principles Redis Left Behind",
+      "https://www.hopsworks.ai/post/doubling-down-on-open-source-how-rondb-upholds-the-principles-redis-left-behind"
+    ]
+  ],
+  [
+    [
       "2024-04-06, 17:57:00",
       "https://lobste.rs/s/irksxx/towards_impeccable_rust"
     ],
@@ -127,16 +137,6 @@
     [
       "MDN’s AI Help and lucid lies",
       "https://seirdy.one/posts/2024/04/04/mdn-ai-help-and-lucid-lies/"
-    ]
-  ],
-  [
-    [
-      "2024-04-06, 01:09:57",
-      "https://lobste.rs/s/kenq0b/why_cockroachdb_doesn_t_use_evalplanqual"
-    ],
-    [
-      "Why CockroachDB doesn't use EvalPlanQual",
-      "https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/"
     ]
   ],
   [
