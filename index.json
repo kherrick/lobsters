@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-06, 15:28:40",
+      "https://lobste.rs/s/bveaac/ec_programming_language"
+    ],
+    [
+      "eC Programming Language",
+      "https://ec-lang.org/"
+    ]
+  ],
+  [
+    [
       "2024-04-06, 14:32:24",
       "https://lobste.rs/s/qua0ia/pkgsrc_on_macos_still_works"
     ],
@@ -227,16 +237,6 @@
     [
       "OpenBSD 7.5",
       "https://www.openbsd.org/75.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 16:39:03",
-      "https://lobste.rs/s/oicggq/go_s_error_handling_is_perfect_actually"
-    ],
-    [
-      "Go’s Error Handling Is Perfect, Actually",
-      "https://blog.verygoodsoftwarenotvirus.ru/posts/errors-in-go/"
     ]
   ],
   [
