@@ -2,7 +2,6 @@
 
 * [2024-04-06, 21:55:45](https://lobste.rs/s/euzn0f/chapel_2_0_scalable_productive_computing) - [Chapel 2.0: Scalable and Productive Computing for All](https://chapel-lang.org/blog/posts/announcing-chapel-2.0/)
 * [2024-04-06, 20:20:19](https://lobste.rs/s/7ukcna/assist) - [The Assist](https://qntm.org/assist)
-* [2024-04-06, 19:44:08](https://lobste.rs/s/azjqfm/doubling_down_on_open_source_how_rondb) - [Doubling Down on Open Source: How RonDB Upholds the Principles Redis Left Behind](https://www.hopsworks.ai/post/doubling-down-on-open-source-how-rondb-upholds-the-principles-redis-left-behind)
 * [2024-04-06, 17:57:00](https://lobste.rs/s/irksxx/towards_impeccable_rust) - [Towards Impeccable Rust](https://www.youtube.com/watch?v=qfknfCsICUM)
 * [2024-04-06, 17:50:55](https://lobste.rs/s/iqnxfk/hunting_for_persistence_linux_part_1) - [Hunting for Persistence in Linux (Part 1)](https://pberba.github.io/security/2021/11/22/linux-threat-hunting-for-persistence-sysmon-auditd-webshell/)
 * [2024-04-06, 15:28:40](https://lobste.rs/s/bveaac/ec_programming_language) - [eC Programming Language](https://ec-lang.org/)
@@ -25,6 +24,7 @@
 * [2024-04-05, 11:28:31](https://lobste.rs/s/agywrp/irc_client_your_motherboard) - [An IRC Client in your motherboard](https://axleos.com/an-irc-client-in-your-motherboard/)
 * [2024-04-05, 04:18:08](https://lobste.rs/s/bqdtct/excellent_succinct_breakdown_xz_mess) - [Excellent succinct breakdown of the xz mess, from an OpenBSD developer](https://marc.info/?l=openbsd-misc&m=171227941117852&w=2)
 * [2024-04-05, 03:23:08](https://lobste.rs/s/dukzk2/openbsd_7_5) - [OpenBSD 7.5](https://www.openbsd.org/75.html)
+* [2024-04-04, 16:22:15](https://lobste.rs/s/lhyiq9/zoomer_tries_rss_praise_yarr) - [Zoomer Tries RSS: In Praise of Yarr](https://tudorr.ro/blog/zoomer-tries-rss/)
 
 ## [Archives](archives/index.md)
 
