@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-06, 17:57:00",
+      "https://lobste.rs/s/irksxx/towards_impeccable_rust"
+    ],
+    [
+      "Towards Impeccable Rust",
+      "https://www.youtube.com/watch?v=qfknfCsICUM"
+    ]
+  ],
+  [
+    [
       "2024-04-06, 17:50:55",
       "https://lobste.rs/s/iqnxfk/hunting_for_persistence_linux_part_1"
     ],
@@ -117,16 +127,6 @@
     [
       "MDN’s AI Help and lucid lies",
       "https://seirdy.one/posts/2024/04/04/mdn-ai-help-and-lucid-lies/"
-    ]
-  ],
-  [
-    [
-      "2024-04-06, 01:09:57",
-      "https://lobste.rs/s/kenq0b/why_cockroachdb_doesn_t_use_evalplanqual"
-    ],
-    [
-      "Why CockroachDB doesn't use EvalPlanQual",
-      "https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/"
     ]
   ],
   [
