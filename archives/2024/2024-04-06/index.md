@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-06](index.md)
 
+* [2024-04-06, 13:18:09](https://lobste.rs/s/3a4zga/do_you_have_any_programming_white_whales) - [Do you have any programming \"white whales\"?](https://lobste.rs/s/3a4zga/do_you_have_any_programming_white_whales)
 * [2024-04-06, 12:59:50](https://lobste.rs/s/vcrune/photoshop_for_text_2022) - [Photoshop for text (2022)](https://stephango.com/photoshop-for-text)
 * [2024-04-06, 11:27:10](https://lobste.rs/s/gd065u/how_tech_giants_cut_corners_harvest_data) - [How Tech Giants Cut Corners to Harvest Data for A.I](https://www.nytimes.com/2024/04/06/technology/tech-giants-harvest-data-artificial-intelligence.html)
 * [2024-04-06, 10:48:25](https://lobste.rs/s/nhai24/challenges_building_modern_open_source) - [The challenges of building modern open source software on PowerPC Mac OS X](http://www.netbsd.org/~nia/tigersrc/)
