@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-07](index.md)
 
+* [2024-04-07, 18:49:14](https://lobste.rs/s/lrzqn9/localslackirc_irc_gateway_for_slack) - [localslackirc: IRC gateway for slack, running on localhost for one user](https://github.com/ltworf/localslackirc)
 * [2024-04-07, 18:24:21](https://lobste.rs/s/m8rzes/kyoo_portable_vast_media_library) - [Kyoo: A portable and vast media library solution](https://github.com/zoriya/Kyoo)
 * [2024-04-07, 17:44:30](https://lobste.rs/s/5bvaqb/types) - [OR-types](https://liquidex.house/programming/blog/or-types)
 * [2024-04-07, 16:34:09](https://lobste.rs/s/s8pwku/solving_advent_code_23_aplenty_by) - [Solving Advent of Code ’23 “Aplenty” by Compiling](https://abhinavsarkar.net/posts/compiling-aoc23-aplenty/)
