@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-07](index.md)
 
+* [2024-04-07, 16:23:37](https://lobste.rs/s/vjixj3/kanidm_simple_secure_identity) - [Kanidm: Simple and Secure Identity Management](https://github.com/kanidm/kanidm)
 * [2024-04-07, 15:07:48](https://lobste.rs/s/r22thv/structuralism) - [Structuralism](https://www.infinitelymore.xyz/p/structuralism)
 * [2024-04-07, 15:05:16](https://lobste.rs/s/lrtcja/using_multiple_github_accounts) - [Using Multiple GitHub Accounts](https://www.cfclrk.com/articles/github_identities.html)
 * [2024-04-07, 11:31:23](https://lobste.rs/s/h5kov7/ffmpeg_7_0_dijkstra) - [FFmpeg 7.0 \"Dijkstra\"](https://ffmpeg.org/index.html#news)

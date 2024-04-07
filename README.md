@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-07, 16:23:37](https://lobste.rs/s/vjixj3/kanidm_simple_secure_identity) - [Kanidm: Simple and Secure Identity Management](https://github.com/kanidm/kanidm)
 * [2024-04-07, 15:07:48](https://lobste.rs/s/r22thv/structuralism) - [Structuralism](https://www.infinitelymore.xyz/p/structuralism)
 * [2024-04-07, 15:05:16](https://lobste.rs/s/lrtcja/using_multiple_github_accounts) - [Using Multiple GitHub Accounts](https://www.cfclrk.com/articles/github_identities.html)
 * [2024-04-07, 11:31:23](https://lobste.rs/s/h5kov7/ffmpeg_7_0_dijkstra) - [FFmpeg 7.0 \"Dijkstra\"](https://ffmpeg.org/index.html#news)
@@ -13,7 +14,6 @@
 * [2024-04-07, 01:32:42](https://lobste.rs/s/chqotx/reversing_mystery_function) - [Reversing a Mystery Function](https://xorvoid.com/reversing_a_mystery_function.html)
 * [2024-04-06, 21:55:45](https://lobste.rs/s/euzn0f/chapel_2_0_scalable_productive_computing) - [Chapel 2.0: Scalable and Productive Computing for All](https://chapel-lang.org/blog/posts/announcing-chapel-2.0/)
 * [2024-04-06, 20:20:19](https://lobste.rs/s/7ukcna/assist) - [The Assist](https://qntm.org/assist)
-* [2024-04-06, 17:57:00](https://lobste.rs/s/irksxx/towards_impeccable_rust) - [Towards Impeccable Rust](https://www.youtube.com/watch?v=qfknfCsICUM)
 * [2024-04-06, 15:28:40](https://lobste.rs/s/bveaac/ec_programming_language) - [eC Programming Language](https://ec-lang.org/)
 * [2024-04-06, 14:32:24](https://lobste.rs/s/qua0ia/pkgsrc_on_macos_still_works) - [pkgsrc on macOS: still works](https://schmonz.com/2024/04/02/pkgsrc-on-macos-still-works/)
 * [2024-04-06, 14:32:02](https://lobste.rs/s/l95ibg/cve_2023_3741_how_we_hacked_voip_telephone) - [CVE-2023-3741: how we hacked a VoIP telephone](https://havce.it/posts/cve-2023-3741/)
