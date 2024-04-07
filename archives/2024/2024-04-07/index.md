@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-07](index.md)
 
+* [2024-04-07, 17:44:30](https://lobste.rs/s/5bvaqb/types) - [OR-types](https://liquidex.house/programming/blog/or-types)
 * [2024-04-07, 16:34:09](https://lobste.rs/s/s8pwku/solving_advent_code_23_aplenty_by) - [Solving Advent of Code ’23 “Aplenty” by Compiling](https://abhinavsarkar.net/posts/compiling-aoc23-aplenty/)
 * [2024-04-07, 16:23:37](https://lobste.rs/s/vjixj3/kanidm_simple_secure_identity) - [Kanidm: Simple and Secure Identity Management](https://github.com/kanidm/kanidm)
 * [2024-04-07, 15:07:48](https://lobste.rs/s/r22thv/structuralism) - [Structuralism](https://www.infinitelymore.xyz/p/structuralism)
