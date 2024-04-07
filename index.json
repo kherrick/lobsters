@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-07, 11:25:24",
+      "https://lobste.rs/s/iqv6m2/rsync_3_3_0"
+    ],
+    [
+      "rsync 3.3.0",
+      "https://download.samba.org/pub/rsync/NEWS#3.3.0"
+    ]
+  ],
+  [
+    [
+      "2024-04-07, 11:19:37",
+      "https://lobste.rs/s/o53iob/kodi_21_0_omega"
+    ],
+    [
+      "Kodi 21.0 \"Omega\"",
+      "https://kodi.tv/article/kodi-21-0-omega-release/"
+    ]
+  ],
+  [
+    [
       "2024-04-07, 09:09:59",
       "https://lobste.rs/s/tavgjg/my_new_home_server"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2024-04-05, 19:51:54",
-      "https://lobste.rs/s/zea6pq/freebsd_zero_desktop_speedrun_challenge"
-    ],
-    [
-      "FreeBSD Zero to Desktop Speedrun Challenge",
-      "https://vermaden.wordpress.com/2024/04/05/freebsd-zero-to-desktop-speedrun-challenge/"
-    ]
-  ],
-  [
-    [
       "2024-04-05, 16:48:09",
       "https://lobste.rs/s/revwbl/ownership_rust"
     ],
     [
       "Ownership in Rust",
       "https://smallcultfollowing.com/babysteps/blog/2024/04/05/ownership-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2024-04-05, 13:52:58",
-      "https://lobste.rs/s/iv1cgi/building_my_first_homelab_server_rack"
-    ],
-    [
-      "Building My First Homelab Server Rack",
-      "https://mtlynch.io/building-first-homelab-rack/"
     ]
   ],
   [
