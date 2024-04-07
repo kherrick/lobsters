@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-07, 03:17:43",
+      "https://lobste.rs/s/piymvy/glory_is_only_11mb_sec_away"
+    ],
+    [
+      "Glory is only 11MB/sec away",
+      "https://thmsmlr.com/cheap-infra"
+    ]
+  ],
+  [
+    [
       "2024-04-07, 01:35:57",
       "https://lobste.rs/s/yrpbav/training_llms_over_neurally_compressed"
     ],
@@ -237,16 +247,6 @@
     [
       "An IRC Client in your motherboard",
       "https://axleos.com/an-irc-client-in-your-motherboard/"
-    ]
-  ],
-  [
-    [
-      "2024-04-05, 04:18:08",
-      "https://lobste.rs/s/bqdtct/excellent_succinct_breakdown_xz_mess"
-    ],
-    [
-      "Excellent succinct breakdown of the xz mess, from an OpenBSD developer",
-      "https://marc.info/?l=openbsd-misc&m=171227941117852&w=2"
     ]
   ]
 ]
