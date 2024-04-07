@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-07, 07:47:35](https://lobste.rs/s/cbobde/learning_lower_level_programming) - [Learning lower-level programming](https://jamesg.blog//2024/03/22/lower-level-programming/)
 * [2024-04-07, 04:06:49](https://lobste.rs/s/5xv0cj/design_choices_for_post_quantum_tls) - [Design choices for post-quantum TLS](https://educatedguesswork.org/posts/pq-rollout/)
 * [2024-04-07, 03:57:18](https://lobste.rs/s/02nxmy/opentofu_may_be_showing_us_wrong_way_fork) - [OpenTofu may be showing us the wrong way to fork](https://www.infoworld.com/article/3714980/opentofu-may-be-showing-us-the-wrong-way-to-fork.html)
 * [2024-04-07, 03:17:43](https://lobste.rs/s/piymvy/glory_is_only_11mb_sec_away) - [Glory is only 11MB/sec away](https://thmsmlr.com/cheap-infra)
@@ -21,7 +22,6 @@
 * [2024-04-06, 01:50:04](https://lobste.rs/s/a4kxhs/mdn_s_ai_help_lucid_lies) - [MDN’s AI Help and lucid lies](https://seirdy.one/posts/2024/04/04/mdn-ai-help-and-lucid-lies/)
 * [2024-04-05, 20:23:32](https://lobste.rs/s/lquhzk/updated_app_store_guidelines_now) - [Updated App Store Guidelines Now Allowing \"Retro game console emulator apps\"](https://developer.apple.com/app-store/review/guidelines/)
 * [2024-04-05, 19:51:54](https://lobste.rs/s/zea6pq/freebsd_zero_desktop_speedrun_challenge) - [FreeBSD Zero to Desktop Speedrun Challenge](https://vermaden.wordpress.com/2024/04/05/freebsd-zero-to-desktop-speedrun-challenge/)
-* [2024-04-05, 18:44:44](https://lobste.rs/s/vidfsl/modal) - [Modal](https://wiki.xxiivv.com/site/modal)
 * [2024-04-05, 16:48:09](https://lobste.rs/s/revwbl/ownership_rust) - [Ownership in Rust](https://smallcultfollowing.com/babysteps/blog/2024/04/05/ownership-in-rust/)
 * [2024-04-05, 13:52:58](https://lobste.rs/s/iv1cgi/building_my_first_homelab_server_rack) - [Building My First Homelab Server Rack](https://mtlynch.io/building-first-homelab-rack/)
 * [2024-04-05, 11:28:31](https://lobste.rs/s/agywrp/irc_client_your_motherboard) - [An IRC Client in your motherboard](https://axleos.com/an-irc-client-in-your-motherboard/)
