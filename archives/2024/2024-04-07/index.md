@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-07](index.md)
 
+* [2024-04-07, 11:31:23](https://lobste.rs/s/h5kov7/ffmpeg_7_0_dijkstra) - [FFmpeg 7.0 \"Dijkstra\"](https://ffmpeg.org/index.html#news)
 * [2024-04-07, 11:25:24](https://lobste.rs/s/iqv6m2/rsync_3_3_0) - [rsync 3.3.0](https://download.samba.org/pub/rsync/NEWS#3.3.0)
 * [2024-04-07, 11:19:37](https://lobste.rs/s/o53iob/kodi_21_0_omega) - [Kodi 21.0 \"Omega\"](https://kodi.tv/article/kodi-21-0-omega-release/)
 * [2024-04-07, 09:09:59](https://lobste.rs/s/tavgjg/my_new_home_server) - [My new home server](https://g7o.today/posts/my_new_home_server/)
