@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-07, 01:35:57",
+      "https://lobste.rs/s/yrpbav/training_llms_over_neurally_compressed"
+    ],
+    [
+      "Training LLMs over Neurally Compressed Text",
+      "https://arxiv.org/abs/2404.03626"
+    ]
+  ],
+  [
+    [
+      "2024-04-07, 01:32:42",
+      "https://lobste.rs/s/chqotx/reversing_mystery_function"
+    ],
+    [
+      "Reversing a Mystery Function",
+      "https://xorvoid.com/reversing_a_mystery_function.html"
+    ]
+  ],
+  [
+    [
       "2024-04-06, 21:55:45",
       "https://lobste.rs/s/euzn0f/chapel_2_0_scalable_productive_computing"
     ],
@@ -227,26 +247,6 @@
     [
       "Excellent succinct breakdown of the xz mess, from an OpenBSD developer",
       "https://marc.info/?l=openbsd-misc&m=171227941117852&w=2"
-    ]
-  ],
-  [
-    [
-      "2024-04-05, 03:23:08",
-      "https://lobste.rs/s/dukzk2/openbsd_7_5"
-    ],
-    [
-      "OpenBSD 7.5",
-      "https://www.openbsd.org/75.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-04, 16:22:15",
-      "https://lobste.rs/s/lhyiq9/zoomer_tries_rss_praise_yarr"
-    ],
-    [
-      "Zoomer Tries RSS: In Praise of Yarr",
-      "https://tudorr.ro/blog/zoomer-tries-rss/"
     ]
   ]
 ]
