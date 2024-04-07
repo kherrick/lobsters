@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-07, 11:25:24](https://lobste.rs/s/iqv6m2/rsync_3_3_0) - [rsync 3.3.0](https://download.samba.org/pub/rsync/NEWS#3.3.0)
+* [2024-04-07, 11:19:37](https://lobste.rs/s/o53iob/kodi_21_0_omega) - [Kodi 21.0 \"Omega\"](https://kodi.tv/article/kodi-21-0-omega-release/)
 * [2024-04-07, 09:09:59](https://lobste.rs/s/tavgjg/my_new_home_server) - [My new home server](https://g7o.today/posts/my_new_home_server/)
 * [2024-04-07, 07:47:35](https://lobste.rs/s/cbobde/learning_lower_level_programming) - [Learning lower-level programming](https://jamesg.blog//2024/03/22/lower-level-programming/)
 * [2024-04-07, 04:06:49](https://lobste.rs/s/5xv0cj/design_choices_for_post_quantum_tls) - [Design choices for post-quantum TLS](https://educatedguesswork.org/posts/pq-rollout/)
@@ -21,9 +23,7 @@
 * [2024-04-06, 07:15:03](https://lobste.rs/s/hiycaj/gnome_builder_abandons_xdg_cache_dir) - [GNOME Builder abandons XDG_CACHE_DIR](https://blogs.gnome.org/chergert/2024/04/03/custom-artifacts-directories/)
 * [2024-04-06, 01:50:22](https://lobste.rs/s/kripyb/file_over_app) - [File over app](https://stephango.com/file-over-app)
 * [2024-04-06, 01:50:04](https://lobste.rs/s/a4kxhs/mdn_s_ai_help_lucid_lies) - [MDN’s AI Help and lucid lies](https://seirdy.one/posts/2024/04/04/mdn-ai-help-and-lucid-lies/)
-* [2024-04-05, 19:51:54](https://lobste.rs/s/zea6pq/freebsd_zero_desktop_speedrun_challenge) - [FreeBSD Zero to Desktop Speedrun Challenge](https://vermaden.wordpress.com/2024/04/05/freebsd-zero-to-desktop-speedrun-challenge/)
 * [2024-04-05, 16:48:09](https://lobste.rs/s/revwbl/ownership_rust) - [Ownership in Rust](https://smallcultfollowing.com/babysteps/blog/2024/04/05/ownership-in-rust/)
-* [2024-04-05, 13:52:58](https://lobste.rs/s/iv1cgi/building_my_first_homelab_server_rack) - [Building My First Homelab Server Rack](https://mtlynch.io/building-first-homelab-rack/)
 * [2024-04-05, 11:28:31](https://lobste.rs/s/agywrp/irc_client_your_motherboard) - [An IRC Client in your motherboard](https://axleos.com/an-irc-client-in-your-motherboard/)
 
 ## [Archives](archives/index.md)
