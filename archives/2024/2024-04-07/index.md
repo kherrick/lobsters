@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-07](index.md)
 
+* [2024-04-07, 15:07:48](https://lobste.rs/s/r22thv/structuralism) - [Structuralism](https://www.infinitelymore.xyz/p/structuralism)
+* [2024-04-07, 15:05:16](https://lobste.rs/s/lrtcja/using_multiple_github_accounts) - [Using Multiple GitHub Accounts](https://www.cfclrk.com/articles/github_identities.html)
 * [2024-04-07, 11:31:23](https://lobste.rs/s/h5kov7/ffmpeg_7_0_dijkstra) - [FFmpeg 7.0 \"Dijkstra\"](https://ffmpeg.org/index.html#news)
 * [2024-04-07, 11:25:24](https://lobste.rs/s/iqv6m2/rsync_3_3_0) - [rsync 3.3.0](https://download.samba.org/pub/rsync/NEWS#3.3.0)
 * [2024-04-07, 11:19:37](https://lobste.rs/s/o53iob/kodi_21_0_omega) - [Kodi 21.0 \"Omega\"](https://kodi.tv/article/kodi-21-0-omega-release/)

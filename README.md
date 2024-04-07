@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-07, 15:07:48](https://lobste.rs/s/r22thv/structuralism) - [Structuralism](https://www.infinitelymore.xyz/p/structuralism)
+* [2024-04-07, 15:05:16](https://lobste.rs/s/lrtcja/using_multiple_github_accounts) - [Using Multiple GitHub Accounts](https://www.cfclrk.com/articles/github_identities.html)
 * [2024-04-07, 11:31:23](https://lobste.rs/s/h5kov7/ffmpeg_7_0_dijkstra) - [FFmpeg 7.0 \"Dijkstra\"](https://ffmpeg.org/index.html#news)
 * [2024-04-07, 11:25:24](https://lobste.rs/s/iqv6m2/rsync_3_3_0) - [rsync 3.3.0](https://download.samba.org/pub/rsync/NEWS#3.3.0)
 * [2024-04-07, 11:19:37](https://lobste.rs/s/o53iob/kodi_21_0_omega) - [Kodi 21.0 \"Omega\"](https://kodi.tv/article/kodi-21-0-omega-release/)
@@ -12,7 +14,6 @@
 * [2024-04-07, 01:32:42](https://lobste.rs/s/chqotx/reversing_mystery_function) - [Reversing a Mystery Function](https://xorvoid.com/reversing_a_mystery_function.html)
 * [2024-04-06, 21:55:45](https://lobste.rs/s/euzn0f/chapel_2_0_scalable_productive_computing) - [Chapel 2.0: Scalable and Productive Computing for All](https://chapel-lang.org/blog/posts/announcing-chapel-2.0/)
 * [2024-04-06, 20:20:19](https://lobste.rs/s/7ukcna/assist) - [The Assist](https://qntm.org/assist)
-* [2024-04-06, 17:57:00](https://lobste.rs/s/irksxx/towards_impeccable_rust) - [Towards Impeccable Rust](https://www.youtube.com/watch?v=qfknfCsICUM)
 * [2024-04-06, 15:28:40](https://lobste.rs/s/bveaac/ec_programming_language) - [eC Programming Language](https://ec-lang.org/)
 * [2024-04-06, 14:32:24](https://lobste.rs/s/qua0ia/pkgsrc_on_macos_still_works) - [pkgsrc on macOS: still works](https://schmonz.com/2024/04/02/pkgsrc-on-macos-still-works/)
 * [2024-04-06, 14:32:02](https://lobste.rs/s/l95ibg/cve_2023_3741_how_we_hacked_voip_telephone) - [CVE-2023-3741: how we hacked a VoIP telephone](https://havce.it/posts/cve-2023-3741/)
@@ -23,7 +24,6 @@
 * [2024-04-06, 07:36:09](https://lobste.rs/s/i3eg8u/history_source_control_systems_sccs_rcs) - [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
 * [2024-04-06, 07:15:03](https://lobste.rs/s/hiycaj/gnome_builder_abandons_xdg_cache_dir) - [GNOME Builder abandons XDG_CACHE_DIR](https://blogs.gnome.org/chergert/2024/04/03/custom-artifacts-directories/)
 * [2024-04-06, 01:50:04](https://lobste.rs/s/a4kxhs/mdn_s_ai_help_lucid_lies) - [MDN’s AI Help and lucid lies](https://seirdy.one/posts/2024/04/04/mdn-ai-help-and-lucid-lies/)
-* [2024-04-05, 16:48:09](https://lobste.rs/s/revwbl/ownership_rust) - [Ownership in Rust](https://smallcultfollowing.com/babysteps/blog/2024/04/05/ownership-in-rust/)
 * [2024-04-05, 11:28:31](https://lobste.rs/s/agywrp/irc_client_your_motherboard) - [An IRC Client in your motherboard](https://axleos.com/an-irc-client-in-your-motherboard/)
 
 ## [Archives](archives/index.md)
