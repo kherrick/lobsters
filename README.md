@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-04-07, 02:18:28](https://lobste.rs/s/fvh6pq/i_m_building_better_fortnite_ask_me_how) - [i’m building a better fortnite. ask me how](https://youtube.com/shorts/VyE1zf9396k?feature=shared)
 * [2024-04-07, 01:35:57](https://lobste.rs/s/yrpbav/training_llms_over_neurally_compressed) - [Training LLMs over Neurally Compressed Text](https://arxiv.org/abs/2404.03626)
 * [2024-04-07, 01:32:42](https://lobste.rs/s/chqotx/reversing_mystery_function) - [Reversing a Mystery Function](https://xorvoid.com/reversing_a_mystery_function.html)
 * [2024-04-06, 21:55:45](https://lobste.rs/s/euzn0f/chapel_2_0_scalable_productive_computing) - [Chapel 2.0: Scalable and Productive Computing for All](https://chapel-lang.org/blog/posts/announcing-chapel-2.0/)
@@ -25,6 +24,7 @@
 * [2024-04-05, 16:48:09](https://lobste.rs/s/revwbl/ownership_rust) - [Ownership in Rust](https://smallcultfollowing.com/babysteps/blog/2024/04/05/ownership-in-rust/)
 * [2024-04-05, 13:52:58](https://lobste.rs/s/iv1cgi/building_my_first_homelab_server_rack) - [Building My First Homelab Server Rack](https://mtlynch.io/building-first-homelab-rack/)
 * [2024-04-05, 11:28:31](https://lobste.rs/s/agywrp/irc_client_your_motherboard) - [An IRC Client in your motherboard](https://axleos.com/an-irc-client-in-your-motherboard/)
+* [2024-04-05, 04:18:08](https://lobste.rs/s/bqdtct/excellent_succinct_breakdown_xz_mess) - [Excellent succinct breakdown of the xz mess, from an OpenBSD developer](https://marc.info/?l=openbsd-misc&m=171227941117852&w=2)
 
 ## [Archives](archives/index.md)
 
