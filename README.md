@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-08, 02:10:51](https://lobste.rs/s/2fhsjp/explicit_sync) - [Explicit sync](https://zamundaaa.github.io/wayland/2024/04/05/explicit-sync.html)
 * [2024-04-07, 22:53:34](https://lobste.rs/s/rat4aq/blessing_strings) - [The Blessing of the Strings](https://bkardell.com/blog/blessing-strings.html)
 * [2024-04-07, 22:42:19](https://lobste.rs/s/t0rpie/meta_thoughts_on_generative_c_2017) - [Meta: Thoughts on generative C++ (2017)](https://www.youtube.com/watch?v=4AfRAVcThyA)
 * [2024-04-07, 18:49:14](https://lobste.rs/s/lrzqn9/localslackirc_irc_gateway_for_slack) - [localslackirc: IRC gateway for slack, running on localhost for one user](https://github.com/ltworf/localslackirc)
@@ -14,7 +15,6 @@
 * [2024-04-07, 11:19:37](https://lobste.rs/s/o53iob/kodi_21_0_omega) - [Kodi 21.0 \"Omega\"](https://kodi.tv/article/kodi-21-0-omega-release/)
 * [2024-04-07, 09:09:59](https://lobste.rs/s/tavgjg/my_new_home_server) - [My new home server](https://g7o.today/posts/my_new_home_server/)
 * [2024-04-07, 07:47:35](https://lobste.rs/s/cbobde/learning_lower_level_programming) - [Learning lower-level programming](https://jamesg.blog//2024/03/22/lower-level-programming/)
-* [2024-04-07, 04:06:49](https://lobste.rs/s/5xv0cj/design_choices_for_post_quantum_tls) - [Design choices for post-quantum TLS](https://educatedguesswork.org/posts/pq-rollout/)
 * [2024-04-07, 03:57:18](https://lobste.rs/s/02nxmy/opentofu_may_be_showing_us_wrong_way_fork) - [OpenTofu may be showing us the wrong way to fork](https://www.infoworld.com/article/3714980/opentofu-may-be-showing-us-the-wrong-way-to-fork.html)
 * [2024-04-07, 03:17:43](https://lobste.rs/s/piymvy/glory_is_only_11mb_sec_away) - [Glory is only 11MB/sec away](https://thmsmlr.com/cheap-infra)
 * [2024-04-07, 01:32:42](https://lobste.rs/s/chqotx/reversing_mystery_function) - [Reversing a Mystery Function](https://xorvoid.com/reversing_a_mystery_function.html)
