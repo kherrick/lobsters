@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-08](index.md)
 
+* [2024-04-08, 11:47:48](https://lobste.rs/s/yt6jzi/exploring_open_source_funding_ratatui_s) - [Exploring Open Source Funding: Ratatui's Journey](https://blog.orhun.dev/open-source-funding-with-ratatui)
 * [2024-04-08, 10:12:41](https://lobste.rs/s/o5tr3p/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/o5tr3p/what_are_you_doing_this_week)
 * [2024-04-08, 09:28:37](https://lobste.rs/s/baep0t/xkcd_2916_machine) - [xkcd #2916: Machine](https://xkcd.com/2916)
 * [2024-04-08, 08:31:41](https://lobste.rs/s/ffuwjk/todo_lives_inside_your_repl) - [A TODO that lives inside your REPL](https://asciinema.org/a/651510)
