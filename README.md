@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-08, 08:13:09](https://lobste.rs/s/3alisp/37_is_median_value_for_second_prime_factor) - [37 is the median value for the second prime factor of an integer](https://grossack.site/2023/11/08/37-median.html)
 * [2024-04-08, 07:48:09](https://lobste.rs/s/i0jcei/who_s_hiring_q2y2024) - [Who’s Hiring? Q2Y2024](https://lobste.rs/s/i0jcei/who_s_hiring_q2y2024)
 * [2024-04-08, 06:49:51](https://lobste.rs/s/kybgkv/just_how_much_faster_are_gnome_46) - [Just How Much Faster Are the GNOME 46 Terminals?](https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/)
 * [2024-04-08, 06:40:30](https://lobste.rs/s/r2vwma/release_google_zx_8_0) - [Release of google/zx 8.0](https://github.com/google/zx/releases/tag/8.0.0)
@@ -21,7 +22,6 @@
 * [2024-04-07, 07:47:35](https://lobste.rs/s/cbobde/learning_lower_level_programming) - [Learning lower-level programming](https://jamesg.blog//2024/03/22/lower-level-programming/)
 * [2024-04-07, 03:57:18](https://lobste.rs/s/02nxmy/opentofu_may_be_showing_us_wrong_way_fork) - [OpenTofu may be showing us the wrong way to fork](https://www.infoworld.com/article/3714980/opentofu-may-be-showing-us-the-wrong-way-to-fork.html)
 * [2024-04-07, 03:17:43](https://lobste.rs/s/piymvy/glory_is_only_11mb_sec_away) - [Glory is only 11MB/sec away](https://thmsmlr.com/cheap-infra)
-* [2024-04-07, 01:32:42](https://lobste.rs/s/chqotx/reversing_mystery_function) - [Reversing a Mystery Function](https://xorvoid.com/reversing_a_mystery_function.html)
 * [2024-04-06, 20:20:19](https://lobste.rs/s/7ukcna/assist) - [The Assist](https://qntm.org/assist)
 * [2024-04-06, 14:32:24](https://lobste.rs/s/qua0ia/pkgsrc_on_macos_still_works) - [pkgsrc on macOS: still works](https://schmonz.com/2024/04/02/pkgsrc-on-macos-still-works/)
 * [2024-04-06, 13:18:09](https://lobste.rs/s/3a4zga/do_you_have_any_programming_white_whales) - [Do you have any programming \"white whales\"?](https://lobste.rs/s/3a4zga/do_you_have_any_programming_white_whales)
