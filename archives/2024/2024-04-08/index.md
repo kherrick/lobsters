@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-08](index.md)
 
+* [2024-04-08, 17:44:25](https://lobste.rs/s/mfieis/compile_time_init_build_c_library_for) - [compile-time-init-build: C++ library for composing modular firmware at compile-time](https://github.com/intel/compile-time-init-build)
 * [2024-04-08, 17:32:30](https://lobste.rs/s/lrrdjb/wasi_0_2_launched) - [WASI 0.2 Launched](https://blog.sunfishcode.online/wasi-0-2/)
 * [2024-04-08, 17:24:20](https://lobste.rs/s/0qhewh/cloudabi_cloud_computing_meets_fine) - [CloudABI: Cloud computing meets fine-grained capabilities (2016)](https://archive.org/details/lca2016-CloudABI_Cloud_computing_meets_finegrained_capabilities)
 * [2024-04-08, 16:38:58](https://lobste.rs/s/t8ndsq/reading_local_variables_with_bpftrace) - [Reading local variables with bpftrace](https://dxuuu.xyz/local-vars.html)

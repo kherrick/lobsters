@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-08, 17:44:25](https://lobste.rs/s/mfieis/compile_time_init_build_c_library_for) - [compile-time-init-build: C++ library for composing modular firmware at compile-time](https://github.com/intel/compile-time-init-build)
 * [2024-04-08, 17:32:30](https://lobste.rs/s/lrrdjb/wasi_0_2_launched) - [WASI 0.2 Launched](https://blog.sunfishcode.online/wasi-0-2/)
 * [2024-04-08, 17:24:20](https://lobste.rs/s/0qhewh/cloudabi_cloud_computing_meets_fine) - [CloudABI: Cloud computing meets fine-grained capabilities (2016)](https://archive.org/details/lca2016-CloudABI_Cloud_computing_meets_finegrained_capabilities)
 * [2024-04-08, 16:38:58](https://lobste.rs/s/t8ndsq/reading_local_variables_with_bpftrace) - [Reading local variables with bpftrace](https://dxuuu.xyz/local-vars.html)
@@ -8,7 +9,6 @@
 * [2024-04-08, 15:02:36](https://lobste.rs/s/rhdzb8/reverst_reverse_tunnels_go_over_http_3) - [reverst: Reverse Tunnels in Go over HTTP/3 and QUIC](https://github.com/flipt-io/reverst/)
 * [2024-04-08, 14:06:41](https://lobste.rs/s/rnjtfk/2_axis_multihead_light_positioner) - [A 2-Axis, Multihead Light Positioner](https://www.bunniestudios.com/blog/2024/a-2-axis-multihead-light-positioner/)
 * [2024-04-08, 13:59:05](https://lobste.rs/s/wbbisr/dtrace_for_linux_2_0) - [Dtrace for Linux 2.0](https://lore.kernel.org/all/ZhBRSM2j0v7cOLn%2F@oracle.com/T/#u)
-* [2024-04-08, 13:47:35](https://lobste.rs/s/0jlmhi/haskell_security_response_team_2024) - [Haskell Security Response Team - 2024 January–March report](https://discourse.haskell.org/t/haskell-security-response-team-2024-january-march-report/9285)
 * [2024-04-08, 12:26:10](https://lobste.rs/s/itu6gt/it_s_getting_hard_use_recommend_firefox_i_m) - [It's getting hard to use and recommend Firefox, I'm afraid for the free web](https://ntietz.com/blog/firefox-and-the-free-web)
 * [2024-04-08, 11:47:48](https://lobste.rs/s/yt6jzi/exploring_open_source_funding_ratatui_s) - [Exploring Open Source Funding: Ratatui's Journey](https://blog.orhun.dev/open-source-funding-with-ratatui)
 * [2024-04-08, 10:12:41](https://lobste.rs/s/o5tr3p/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/o5tr3p/what_are_you_doing_this_week)
