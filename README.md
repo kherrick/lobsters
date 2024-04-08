@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-08, 03:06:59](https://lobste.rs/s/m8cfhd/kuto_reverse_js_bundler) - [Kuto, a reverse JS bundler](https://samthor.au/2024/kuto/)
 * [2024-04-08, 02:10:51](https://lobste.rs/s/2fhsjp/explicit_sync) - [Explicit sync](https://zamundaaa.github.io/wayland/2024/04/05/explicit-sync.html)
 * [2024-04-07, 22:53:34](https://lobste.rs/s/rat4aq/blessing_strings) - [The Blessing of the Strings](https://bkardell.com/blog/blessing-strings.html)
 * [2024-04-07, 22:42:19](https://lobste.rs/s/t0rpie/meta_thoughts_on_generative_c_2017) - [Meta: Thoughts on generative C++ (2017)](https://www.youtube.com/watch?v=4AfRAVcThyA)
@@ -24,7 +25,6 @@
 * [2024-04-06, 13:18:09](https://lobste.rs/s/3a4zga/do_you_have_any_programming_white_whales) - [Do you have any programming \"white whales\"?](https://lobste.rs/s/3a4zga/do_you_have_any_programming_white_whales)
 * [2024-04-06, 10:48:25](https://lobste.rs/s/nhai24/challenges_building_modern_open_source) - [The challenges of building modern open source software on PowerPC Mac OS X](http://www.netbsd.org/~nia/tigersrc/)
 * [2024-04-06, 07:36:09](https://lobste.rs/s/i3eg8u/history_source_control_systems_sccs_rcs) - [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
-* [2024-04-06, 01:50:04](https://lobste.rs/s/a4kxhs/mdn_s_ai_help_lucid_lies) - [MDN’s AI Help and lucid lies](https://seirdy.one/posts/2024/04/04/mdn-ai-help-and-lucid-lies/)
 
 ## [Archives](archives/index.md)
 
