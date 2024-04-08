@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-08, 15:02:36](https://lobste.rs/s/rhdzb8/reverst_reverse_tunnels_go_over_http_3) - [reverst: Reverse Tunnels in Go over HTTP/3 and QUIC](https://github.com/flipt-io/reverst/)
 * [2024-04-08, 14:06:41](https://lobste.rs/s/rnjtfk/2_axis_multihead_light_positioner) - [A 2-Axis, Multihead Light Positioner](https://www.bunniestudios.com/blog/2024/a-2-axis-multihead-light-positioner/)
 * [2024-04-08, 13:59:05](https://lobste.rs/s/wbbisr/dtrace_for_linux_2_0) - [Dtrace for Linux 2.0](https://lore.kernel.org/all/ZhBRSM2j0v7cOLn%2F@oracle.com/T/#u)
 * [2024-04-08, 13:47:35](https://lobste.rs/s/0jlmhi/haskell_security_response_team_2024) - [Haskell Security Response Team - 2024 January–March report](https://discourse.haskell.org/t/haskell-security-response-team-2024-january-march-report/9285)
@@ -18,7 +19,6 @@
 * [2024-04-07, 18:24:21](https://lobste.rs/s/m8rzes/kyoo_portable_vast_media_library) - [Kyoo: A portable and vast media library solution](https://github.com/zoriya/Kyoo)
 * [2024-04-07, 17:44:30](https://lobste.rs/s/5bvaqb/types) - [OR-types](https://liquidex.house/programming/blog/or-types)
 * [2024-04-07, 16:34:09](https://lobste.rs/s/s8pwku/solving_advent_code_23_aplenty_by) - [Solving Advent of Code ’23 “Aplenty” by Compiling](https://abhinavsarkar.net/posts/compiling-aoc23-aplenty/)
-* [2024-04-07, 15:05:16](https://lobste.rs/s/lrtcja/using_multiple_github_accounts) - [Using Multiple GitHub Accounts](https://www.cfclrk.com/articles/github_identities.html)
 * [2024-04-07, 11:31:23](https://lobste.rs/s/h5kov7/ffmpeg_7_0_dijkstra) - [FFmpeg 7.0 \"Dijkstra\"](https://ffmpeg.org/index.html#news)
 * [2024-04-07, 11:25:24](https://lobste.rs/s/iqv6m2/rsync_3_3_0) - [rsync 3.3.0](https://download.samba.org/pub/rsync/NEWS#3.3.0)
 * [2024-04-07, 11:19:37](https://lobste.rs/s/o53iob/kodi_21_0_omega) - [Kodi 21.0 \"Omega\"](https://kodi.tv/article/kodi-21-0-omega-release/)
