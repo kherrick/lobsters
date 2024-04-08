@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-08, 16:38:58](https://lobste.rs/s/t8ndsq/reading_local_variables_with_bpftrace) - [Reading local variables with bpftrace](https://dxuuu.xyz/local-vars.html)
 * [2024-04-08, 16:20:26](https://lobste.rs/s/3hk4wf/prevent_sensitive_data_from_leaking_go) - [Prevent sensitive data from leaking in Go/Golang](https://www.willem.dev/articles/prevent-sensitive-data-from-leaking/)
 * [2024-04-08, 15:44:40](https://lobste.rs/s/1kywel/understanding_windows_on_arm_arm64_boot) - [Understanding Windows on ARM: ARM64 Boot Camp](http://www.emulators.com/docs/nx44_intro_to_woa.htm)
 * [2024-04-08, 15:02:36](https://lobste.rs/s/rhdzb8/reverst_reverse_tunnels_go_over_http_3) - [reverst: Reverse Tunnels in Go over HTTP/3 and QUIC](https://github.com/flipt-io/reverst/)
@@ -21,7 +22,6 @@
 * [2024-04-07, 18:24:21](https://lobste.rs/s/m8rzes/kyoo_portable_vast_media_library) - [Kyoo: A portable and vast media library solution](https://github.com/zoriya/Kyoo)
 * [2024-04-07, 17:44:30](https://lobste.rs/s/5bvaqb/types) - [OR-types](https://liquidex.house/programming/blog/or-types)
 * [2024-04-07, 16:34:09](https://lobste.rs/s/s8pwku/solving_advent_code_23_aplenty_by) - [Solving Advent of Code ’23 “Aplenty” by Compiling](https://abhinavsarkar.net/posts/compiling-aoc23-aplenty/)
-* [2024-04-07, 11:31:23](https://lobste.rs/s/h5kov7/ffmpeg_7_0_dijkstra) - [FFmpeg 7.0 \"Dijkstra\"](https://ffmpeg.org/index.html#news)
 * [2024-04-07, 11:25:24](https://lobste.rs/s/iqv6m2/rsync_3_3_0) - [rsync 3.3.0](https://download.samba.org/pub/rsync/NEWS#3.3.0)
 * [2024-04-07, 09:09:59](https://lobste.rs/s/tavgjg/my_new_home_server) - [My new home server](https://g7o.today/posts/my_new_home_server/)
 * [2024-04-07, 03:17:43](https://lobste.rs/s/piymvy/glory_is_only_11mb_sec_away) - [Glory is only 11MB/sec away](https://thmsmlr.com/cheap-infra)
