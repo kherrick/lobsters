@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-08, 07:48:09](https://lobste.rs/s/i0jcei/who_s_hiring_q2y2024) - [Who’s Hiring? Q2Y2024](https://lobste.rs/s/i0jcei/who_s_hiring_q2y2024)
 * [2024-04-08, 06:49:51](https://lobste.rs/s/kybgkv/just_how_much_faster_are_gnome_46) - [Just How Much Faster Are the GNOME 46 Terminals?](https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/)
 * [2024-04-08, 06:40:30](https://lobste.rs/s/r2vwma/release_google_zx_8_0) - [Release of google/zx 8.0](https://github.com/google/zx/releases/tag/8.0.0)
 * [2024-04-08, 03:06:59](https://lobste.rs/s/m8cfhd/kuto_reverse_js_bundler) - [Kuto, a reverse JS bundler](https://samthor.au/2024/kuto/)
@@ -24,7 +25,6 @@
 * [2024-04-06, 20:20:19](https://lobste.rs/s/7ukcna/assist) - [The Assist](https://qntm.org/assist)
 * [2024-04-06, 14:32:24](https://lobste.rs/s/qua0ia/pkgsrc_on_macos_still_works) - [pkgsrc on macOS: still works](https://schmonz.com/2024/04/02/pkgsrc-on-macos-still-works/)
 * [2024-04-06, 13:18:09](https://lobste.rs/s/3a4zga/do_you_have_any_programming_white_whales) - [Do you have any programming \"white whales\"?](https://lobste.rs/s/3a4zga/do_you_have_any_programming_white_whales)
-* [2024-04-06, 10:48:25](https://lobste.rs/s/nhai24/challenges_building_modern_open_source) - [The challenges of building modern open source software on PowerPC Mac OS X](http://www.netbsd.org/~nia/tigersrc/)
 
 ## [Archives](archives/index.md)
 
