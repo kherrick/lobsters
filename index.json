@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-08, 23:37:25",
+      "https://lobste.rs/s/xaca8r/building_berkeleydb"
+    ],
+    [
+      "Building BerkeleyDB",
+      "https://transactional.blog/building-berkeleydb/"
+    ]
+  ],
+  [
+    [
       "2024-04-08, 20:14:22",
       "https://lobste.rs/s/nbdcqy/overloading_gen_class_methods_glorious"
     ],
@@ -207,16 +217,6 @@
     [
       "Kuto, a reverse JS bundler",
       "https://samthor.au/2024/kuto/"
-    ]
-  ],
-  [
-    [
-      "2024-04-07, 18:49:14",
-      "https://lobste.rs/s/lrzqn9/localslackirc_irc_gateway_for_slack"
-    ],
-    [
-      "localslackirc: IRC gateway for slack, running on localhost for one user",
-      "https://github.com/ltworf/localslackirc"
     ]
   ],
   [
