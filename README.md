@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-08, 12:26:10](https://lobste.rs/s/itu6gt/it_s_getting_hard_use_recommend_firefox_i_m) - [It's getting hard to use and recommend Firefox, I'm afraid for the free web](https://ntietz.com/blog/firefox-and-the-free-web)
 * [2024-04-08, 11:47:48](https://lobste.rs/s/yt6jzi/exploring_open_source_funding_ratatui_s) - [Exploring Open Source Funding: Ratatui's Journey](https://blog.orhun.dev/open-source-funding-with-ratatui)
 * [2024-04-08, 10:12:41](https://lobste.rs/s/o5tr3p/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/o5tr3p/what_are_you_doing_this_week)
 * [2024-04-08, 09:28:37](https://lobste.rs/s/baep0t/xkcd_2916_machine) - [xkcd #2916: Machine](https://xkcd.com/2916)
@@ -21,7 +22,6 @@
 * [2024-04-07, 11:25:24](https://lobste.rs/s/iqv6m2/rsync_3_3_0) - [rsync 3.3.0](https://download.samba.org/pub/rsync/NEWS#3.3.0)
 * [2024-04-07, 11:19:37](https://lobste.rs/s/o53iob/kodi_21_0_omega) - [Kodi 21.0 \"Omega\"](https://kodi.tv/article/kodi-21-0-omega-release/)
 * [2024-04-07, 09:09:59](https://lobste.rs/s/tavgjg/my_new_home_server) - [My new home server](https://g7o.today/posts/my_new_home_server/)
-* [2024-04-07, 07:47:35](https://lobste.rs/s/cbobde/learning_lower_level_programming) - [Learning lower-level programming](https://jamesg.blog//2024/03/22/lower-level-programming/)
 * [2024-04-07, 03:57:18](https://lobste.rs/s/02nxmy/opentofu_may_be_showing_us_wrong_way_fork) - [OpenTofu may be showing us the wrong way to fork](https://www.infoworld.com/article/3714980/opentofu-may-be-showing-us-the-wrong-way-to-fork.html)
 * [2024-04-07, 03:17:43](https://lobste.rs/s/piymvy/glory_is_only_11mb_sec_away) - [Glory is only 11MB/sec away](https://thmsmlr.com/cheap-infra)
 * [2024-04-06, 13:18:09](https://lobste.rs/s/3a4zga/do_you_have_any_programming_white_whales) - [Do you have any programming \"white whales\"?](https://lobste.rs/s/3a4zga/do_you_have_any_programming_white_whales)
