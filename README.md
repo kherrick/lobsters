@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-08, 06:40:30](https://lobste.rs/s/r2vwma/release_google_zx_8_0) - [Release of google/zx 8.0](https://github.com/google/zx/releases/tag/8.0.0)
 * [2024-04-08, 03:06:59](https://lobste.rs/s/m8cfhd/kuto_reverse_js_bundler) - [Kuto, a reverse JS bundler](https://samthor.au/2024/kuto/)
 * [2024-04-08, 02:10:51](https://lobste.rs/s/2fhsjp/explicit_sync) - [Explicit sync](https://zamundaaa.github.io/wayland/2024/04/05/explicit-sync.html)
 * [2024-04-07, 22:53:34](https://lobste.rs/s/rat4aq/blessing_strings) - [The Blessing of the Strings](https://bkardell.com/blog/blessing-strings.html)
@@ -24,7 +25,6 @@
 * [2024-04-06, 14:32:24](https://lobste.rs/s/qua0ia/pkgsrc_on_macos_still_works) - [pkgsrc on macOS: still works](https://schmonz.com/2024/04/02/pkgsrc-on-macos-still-works/)
 * [2024-04-06, 13:18:09](https://lobste.rs/s/3a4zga/do_you_have_any_programming_white_whales) - [Do you have any programming \"white whales\"?](https://lobste.rs/s/3a4zga/do_you_have_any_programming_white_whales)
 * [2024-04-06, 10:48:25](https://lobste.rs/s/nhai24/challenges_building_modern_open_source) - [The challenges of building modern open source software on PowerPC Mac OS X](http://www.netbsd.org/~nia/tigersrc/)
-* [2024-04-06, 07:36:09](https://lobste.rs/s/i3eg8u/history_source_control_systems_sccs_rcs) - [A History of Source Control Systems: SCCS and RCS](https://experimentalworks.net/posts/2024-03-18-a-history-of-vcs-part1/)
 
 ## [Archives](archives/index.md)
 
