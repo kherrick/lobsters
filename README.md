@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-08, 13:47:35](https://lobste.rs/s/0jlmhi/haskell_security_response_team_2024) - [Haskell Security Response Team - 2024 January–March report](https://discourse.haskell.org/t/haskell-security-response-team-2024-january-march-report/9285)
 * [2024-04-08, 13:21:51](https://lobste.rs/s/jfndhv/major_data_center_power_failure_again) - [Major data center power failure (again): Cloudflare Code Orange tested](https://blog.cloudflare.com/major-data-center-power-failure-again-cloudflare-code-orange-tested)
 * [2024-04-08, 12:26:10](https://lobste.rs/s/itu6gt/it_s_getting_hard_use_recommend_firefox_i_m) - [It's getting hard to use and recommend Firefox, I'm afraid for the free web](https://ntietz.com/blog/firefox-and-the-free-web)
 * [2024-04-08, 11:47:48](https://lobste.rs/s/yt6jzi/exploring_open_source_funding_ratatui_s) - [Exploring Open Source Funding: Ratatui's Journey](https://blog.orhun.dev/open-source-funding-with-ratatui)
@@ -12,7 +13,6 @@
 * [2024-04-08, 03:06:59](https://lobste.rs/s/m8cfhd/kuto_reverse_js_bundler) - [Kuto, a reverse JS bundler](https://samthor.au/2024/kuto/)
 * [2024-04-08, 02:10:51](https://lobste.rs/s/2fhsjp/explicit_sync) - [Explicit sync](https://zamundaaa.github.io/wayland/2024/04/05/explicit-sync.html)
 * [2024-04-07, 22:53:34](https://lobste.rs/s/rat4aq/blessing_strings) - [The Blessing of the Strings](https://bkardell.com/blog/blessing-strings.html)
-* [2024-04-07, 22:42:19](https://lobste.rs/s/t0rpie/meta_thoughts_on_generative_c_2017) - [Meta: Thoughts on generative C++ (2017)](https://www.youtube.com/watch?v=4AfRAVcThyA)
 * [2024-04-07, 18:49:14](https://lobste.rs/s/lrzqn9/localslackirc_irc_gateway_for_slack) - [localslackirc: IRC gateway for slack, running on localhost for one user](https://github.com/ltworf/localslackirc)
 * [2024-04-07, 18:24:21](https://lobste.rs/s/m8rzes/kyoo_portable_vast_media_library) - [Kyoo: A portable and vast media library solution](https://github.com/zoriya/Kyoo)
 * [2024-04-07, 17:44:30](https://lobste.rs/s/5bvaqb/types) - [OR-types](https://liquidex.house/programming/blog/or-types)

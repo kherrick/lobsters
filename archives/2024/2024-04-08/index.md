@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-08](index.md)
 
+* [2024-04-08, 13:47:35](https://lobste.rs/s/0jlmhi/haskell_security_response_team_2024) - [Haskell Security Response Team - 2024 January–March report](https://discourse.haskell.org/t/haskell-security-response-team-2024-january-march-report/9285)
 * [2024-04-08, 13:21:51](https://lobste.rs/s/jfndhv/major_data_center_power_failure_again) - [Major data center power failure (again): Cloudflare Code Orange tested](https://blog.cloudflare.com/major-data-center-power-failure-again-cloudflare-code-orange-tested)
 * [2024-04-08, 12:26:10](https://lobste.rs/s/itu6gt/it_s_getting_hard_use_recommend_firefox_i_m) - [It's getting hard to use and recommend Firefox, I'm afraid for the free web](https://ntietz.com/blog/firefox-and-the-free-web)
 * [2024-04-08, 11:47:48](https://lobste.rs/s/yt6jzi/exploring_open_source_funding_ratatui_s) - [Exploring Open Source Funding: Ratatui's Journey](https://blog.orhun.dev/open-source-funding-with-ratatui)
