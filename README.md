@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-08, 23:37:25](https://lobste.rs/s/xaca8r/building_berkeleydb) - [Building BerkeleyDB](https://transactional.blog/building-berkeleydb/)
 * [2024-04-08, 20:14:22](https://lobste.rs/s/nbdcqy/overloading_gen_class_methods_glorious) - [Overloading gen-class methods of glorious types with sublime nation of clojure for make great benefit of interop](https://pb.co.za/overloading-gen-class-methods-of-glorious-types-with-sublime-nation-of-clojure-for-make-great-benefit-of-interop)
 * [2024-04-08, 19:20:18](https://lobste.rs/s/iuo5y8/carbon_copy_newsletter_no_2) - [Carbon Copy Newsletter No.2](https://github.com/carbon-language/carbon-lang/discussions/3869)
 * [2024-04-08, 17:44:25](https://lobste.rs/s/mfieis/compile_time_init_build_c_library_for) - [compile-time-init-build: C++ library for composing modular firmware at compile-time](https://github.com/intel/compile-time-init-build)
@@ -21,7 +22,6 @@
 * [2024-04-08, 07:48:09](https://lobste.rs/s/i0jcei/who_s_hiring_q2y2024) - [Who’s Hiring? Q2Y2024](https://lobste.rs/s/i0jcei/who_s_hiring_q2y2024)
 * [2024-04-08, 06:49:51](https://lobste.rs/s/kybgkv/just_how_much_faster_are_gnome_46) - [Just How Much Faster Are the GNOME 46 Terminals?](https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/)
 * [2024-04-08, 03:06:59](https://lobste.rs/s/m8cfhd/kuto_reverse_js_bundler) - [Kuto, a reverse JS bundler](https://samthor.au/2024/kuto/)
-* [2024-04-07, 18:49:14](https://lobste.rs/s/lrzqn9/localslackirc_irc_gateway_for_slack) - [localslackirc: IRC gateway for slack, running on localhost for one user](https://github.com/ltworf/localslackirc)
 * [2024-04-07, 17:44:30](https://lobste.rs/s/5bvaqb/types) - [OR-types](https://liquidex.house/programming/blog/or-types)
 * [2024-04-07, 16:34:09](https://lobste.rs/s/s8pwku/solving_advent_code_23_aplenty_by) - [Solving Advent of Code ’23 “Aplenty” by Compiling](https://abhinavsarkar.net/posts/compiling-aoc23-aplenty/)
 * [2024-04-07, 03:17:43](https://lobste.rs/s/piymvy/glory_is_only_11mb_sec_away) - [Glory is only 11MB/sec away](https://thmsmlr.com/cheap-infra)
