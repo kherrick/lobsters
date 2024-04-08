@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-08, 19:20:18](https://lobste.rs/s/iuo5y8/carbon_copy_newsletter_no_2) - [Carbon Copy Newsletter No.2](https://github.com/carbon-language/carbon-lang/discussions/3869)
 * [2024-04-08, 17:44:25](https://lobste.rs/s/mfieis/compile_time_init_build_c_library_for) - [compile-time-init-build: C++ library for composing modular firmware at compile-time](https://github.com/intel/compile-time-init-build)
 * [2024-04-08, 17:32:30](https://lobste.rs/s/lrrdjb/wasi_0_2_launched) - [WASI 0.2 Launched](https://blog.sunfishcode.online/wasi-0-2/)
 * [2024-04-08, 17:24:20](https://lobste.rs/s/0qhewh/cloudabi_cloud_computing_meets_fine) - [CloudABI: Cloud computing meets fine-grained capabilities (2016)](https://archive.org/details/lca2016-CloudABI_Cloud_computing_meets_finegrained_capabilities)
@@ -22,7 +23,6 @@
 * [2024-04-07, 18:49:14](https://lobste.rs/s/lrzqn9/localslackirc_irc_gateway_for_slack) - [localslackirc: IRC gateway for slack, running on localhost for one user](https://github.com/ltworf/localslackirc)
 * [2024-04-07, 17:44:30](https://lobste.rs/s/5bvaqb/types) - [OR-types](https://liquidex.house/programming/blog/or-types)
 * [2024-04-07, 16:34:09](https://lobste.rs/s/s8pwku/solving_advent_code_23_aplenty_by) - [Solving Advent of Code ’23 “Aplenty” by Compiling](https://abhinavsarkar.net/posts/compiling-aoc23-aplenty/)
-* [2024-04-07, 11:25:24](https://lobste.rs/s/iqv6m2/rsync_3_3_0) - [rsync 3.3.0](https://download.samba.org/pub/rsync/NEWS#3.3.0)
 * [2024-04-07, 09:09:59](https://lobste.rs/s/tavgjg/my_new_home_server) - [My new home server](https://g7o.today/posts/my_new_home_server/)
 * [2024-04-07, 03:17:43](https://lobste.rs/s/piymvy/glory_is_only_11mb_sec_away) - [Glory is only 11MB/sec away](https://thmsmlr.com/cheap-infra)
 
