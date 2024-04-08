@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-08, 10:12:41](https://lobste.rs/s/o5tr3p/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/o5tr3p/what_are_you_doing_this_week)
 * [2024-04-08, 09:28:37](https://lobste.rs/s/baep0t/xkcd_2916_machine) - [xkcd #2916: Machine](https://xkcd.com/2916)
 * [2024-04-08, 08:31:41](https://lobste.rs/s/ffuwjk/todo_lives_inside_your_repl) - [A TODO that lives inside your REPL](https://asciinema.org/a/651510)
 * [2024-04-08, 08:13:09](https://lobste.rs/s/3alisp/37_is_median_value_for_second_prime_factor) - [37 is the median value for the second prime factor of an integer](https://grossack.site/2023/11/08/37-median.html)
@@ -23,7 +24,6 @@
 * [2024-04-07, 07:47:35](https://lobste.rs/s/cbobde/learning_lower_level_programming) - [Learning lower-level programming](https://jamesg.blog//2024/03/22/lower-level-programming/)
 * [2024-04-07, 03:57:18](https://lobste.rs/s/02nxmy/opentofu_may_be_showing_us_wrong_way_fork) - [OpenTofu may be showing us the wrong way to fork](https://www.infoworld.com/article/3714980/opentofu-may-be-showing-us-the-wrong-way-to-fork.html)
 * [2024-04-07, 03:17:43](https://lobste.rs/s/piymvy/glory_is_only_11mb_sec_away) - [Glory is only 11MB/sec away](https://thmsmlr.com/cheap-infra)
-* [2024-04-06, 14:32:24](https://lobste.rs/s/qua0ia/pkgsrc_on_macos_still_works) - [pkgsrc on macOS: still works](https://schmonz.com/2024/04/02/pkgsrc-on-macos-still-works/)
 * [2024-04-06, 13:18:09](https://lobste.rs/s/3a4zga/do_you_have_any_programming_white_whales) - [Do you have any programming \"white whales\"?](https://lobste.rs/s/3a4zga/do_you_have_any_programming_white_whales)
 
 ## [Archives](archives/index.md)
