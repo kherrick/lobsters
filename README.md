@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-08, 17:24:20](https://lobste.rs/s/0qhewh/cloudabi_cloud_computing_meets_fine) - [CloudABI: Cloud computing meets fine-grained capabilities (2016)](https://archive.org/details/lca2016-CloudABI_Cloud_computing_meets_finegrained_capabilities)
 * [2024-04-08, 16:38:58](https://lobste.rs/s/t8ndsq/reading_local_variables_with_bpftrace) - [Reading local variables with bpftrace](https://dxuuu.xyz/local-vars.html)
 * [2024-04-08, 16:20:26](https://lobste.rs/s/3hk4wf/prevent_sensitive_data_from_leaking_go) - [Prevent sensitive data from leaking in Go/Golang](https://www.willem.dev/articles/prevent-sensitive-data-from-leaking/)
 * [2024-04-08, 15:44:40](https://lobste.rs/s/1kywel/understanding_windows_on_arm_arm64_boot) - [Understanding Windows on ARM: ARM64 Boot Camp](http://www.emulators.com/docs/nx44_intro_to_woa.htm)
@@ -17,7 +18,6 @@
 * [2024-04-08, 07:48:09](https://lobste.rs/s/i0jcei/who_s_hiring_q2y2024) - [Who’s Hiring? Q2Y2024](https://lobste.rs/s/i0jcei/who_s_hiring_q2y2024)
 * [2024-04-08, 06:49:51](https://lobste.rs/s/kybgkv/just_how_much_faster_are_gnome_46) - [Just How Much Faster Are the GNOME 46 Terminals?](https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/)
 * [2024-04-08, 03:06:59](https://lobste.rs/s/m8cfhd/kuto_reverse_js_bundler) - [Kuto, a reverse JS bundler](https://samthor.au/2024/kuto/)
-* [2024-04-08, 02:10:51](https://lobste.rs/s/2fhsjp/explicit_sync) - [Explicit sync](https://zamundaaa.github.io/wayland/2024/04/05/explicit-sync.html)
 * [2024-04-07, 18:49:14](https://lobste.rs/s/lrzqn9/localslackirc_irc_gateway_for_slack) - [localslackirc: IRC gateway for slack, running on localhost for one user](https://github.com/ltworf/localslackirc)
 * [2024-04-07, 18:24:21](https://lobste.rs/s/m8rzes/kyoo_portable_vast_media_library) - [Kyoo: A portable and vast media library solution](https://github.com/zoriya/Kyoo)
 * [2024-04-07, 17:44:30](https://lobste.rs/s/5bvaqb/types) - [OR-types](https://liquidex.house/programming/blog/or-types)
