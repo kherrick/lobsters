@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2024-04-08, 13:21:51",
+      "https://lobste.rs/s/jfndhv/major_data_center_power_failure_again"
+    ],
+    [
+      "Major data center power failure (again): Cloudflare Code Orange tested",
+      "https://blog.cloudflare.com/major-data-center-power-failure-again-cloudflare-code-orange-tested"
+    ]
+  ],
+  [
+    [
       "2024-04-08, 12:26:10",
       "https://lobste.rs/s/itu6gt/it_s_getting_hard_use_recommend_firefox_i_m"
     ],
@@ -187,16 +197,6 @@
     [
       "localslackirc: IRC gateway for slack, running on localhost for one user",
       "https://github.com/ltworf/localslackirc"
-    ]
-  ],
-  [
-    [
-      "2024-04-07, 18:24:21",
-      "https://lobste.rs/s/m8rzes/kyoo_portable_vast_media_library"
-    ],
-    [
-      "Kyoo: A portable and vast media library solution",
-      "https://github.com/zoriya/Kyoo"
     ]
   ],
   [
