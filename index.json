@@ -1,6 +1,66 @@
 [
   [
     [
+      "2024-04-09, 12:24:49",
+      "https://lobste.rs/s/m9nahi/upnote_v9_cross_platform_cloud_note_app"
+    ],
+    [
+      "UpNote v9: Cross platform cloud note app with scheduled offline backup and restore in Markdown format",
+      "https://getupnote.com/support.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 12:17:46",
+      "https://lobste.rs/s/dfhzia/500_mile_email_absurd_bug_stories"
+    ],
+    [
+      "500 Mile Email - Absurd Bug Stories",
+      "https://500mile.email/"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 12:08:26",
+      "https://lobste.rs/s/ouqdwv/linux_usb_wi_fi_compatibility"
+    ],
+    [
+      "Linux USB Wi-Fi Compatibility & Performance Knowledge Base",
+      "https://github.com/morrownr/USB-WiFi"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 12:06:22",
+      "https://lobste.rs/s/jxtjju/adventures_upnp_with_curl_netcat_2015"
+    ],
+    [
+      "Adventures in UPnP with cURL and netcat (2015)",
+      "https://coolaj86.com/articles/adventures-in-upnp-with-curl-and-netcat/"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 12:03:10",
+      "https://lobste.rs/s/xbjzwd/exfat_vs_udf_2_01_cross_platform"
+    ],
+    [
+      "exFAT vs. UDF 2.01 cross-platform and performance tests (2018)",
+      "https://www.sami-lehtinen.net/blog/exfat-extended-file-allocation-table-vs-udf-universal-disk-format-file-system-for-flash-drives"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 12:01:01",
+      "https://lobste.rs/s/sjadl5/don_t_require_people_change_source_code"
+    ],
+    [
+      "Don't require people to change 'source code' to configure your programs",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigureNoSourceCodeChanges"
+    ]
+  ],
+  [
+    [
       "2024-04-09, 11:29:46",
       "https://lobste.rs/s/rsghgv/sel4_device_driver_framework_0_4_0"
     ],
@@ -101,42 +161,12 @@
   ],
   [
     [
-      "2024-04-08, 19:20:18",
-      "https://lobste.rs/s/iuo5y8/carbon_copy_newsletter_no_2"
-    ],
-    [
-      "Carbon Copy Newsletter No.2",
-      "https://github.com/carbon-language/carbon-lang/discussions/3869"
-    ]
-  ],
-  [
-    [
       "2024-04-08, 17:32:30",
       "https://lobste.rs/s/lrrdjb/wasi_0_2_launched"
     ],
     [
       "WASI 0.2 Launched",
       "https://blog.sunfishcode.online/wasi-0-2/"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 17:24:20",
-      "https://lobste.rs/s/0qhewh/cloudabi_cloud_computing_meets_fine"
-    ],
-    [
-      "CloudABI: Cloud computing meets fine-grained capabilities (2016)",
-      "https://archive.org/details/lca2016-CloudABI_Cloud_computing_meets_finegrained_capabilities"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 16:38:58",
-      "https://lobste.rs/s/t8ndsq/reading_local_variables_with_bpftrace"
-    ],
-    [
-      "Reading local variables with bpftrace",
-      "https://dxuuu.xyz/local-vars.html"
     ]
   ],
   [
@@ -191,26 +221,6 @@
   ],
   [
     [
-      "2024-04-08, 09:28:37",
-      "https://lobste.rs/s/baep0t/xkcd_2916_machine"
-    ],
-    [
-      "xkcd #2916: Machine",
-      "https://xkcd.com/2916"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 08:31:41",
-      "https://lobste.rs/s/ffuwjk/todo_lives_inside_your_repl"
-    ],
-    [
-      "A TODO that lives inside your REPL",
-      "https://asciinema.org/a/651510"
-    ]
-  ],
-  [
-    [
       "2024-04-08, 08:13:09",
       "https://lobste.rs/s/3alisp/37_is_median_value_for_second_prime_factor"
     ],
@@ -237,16 +247,6 @@
     [
       "Just How Much Faster Are the GNOME 46 Terminals?",
       "https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 03:06:59",
-      "https://lobste.rs/s/m8cfhd/kuto_reverse_js_bundler"
-    ],
-    [
-      "Kuto, a reverse JS bundler",
-      "https://samthor.au/2024/kuto/"
     ]
   ]
 ]
