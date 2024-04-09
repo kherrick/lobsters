@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 07:33:49](https://lobste.rs/s/2q0ole/server_chose_violence) - [The server chose violence](https://cliffle.com/blog/hubris-reply-fault/)
 * [2024-04-09, 06:09:36](https://lobste.rs/s/blf69e/melt_backup_restore_ed25519_ssh_keys_with) - [melt: Backup and restore Ed25519 SSH keys with seed words](https://github.com/charmbracelet/melt)
 * [2024-04-09, 04:11:47](https://lobste.rs/s/uvfzir/llm_c_llm_training_simple_raw_c_cuda) - [llm.c: LLM training in simple, raw C/CUDA](https://github.com/karpathy/llm.c)
 * [2024-04-09, 04:01:34](https://lobste.rs/s/ai2klw/tsac_very_low_bitrate_audio_compression) - [TSAC: Very Low Bitrate Audio Compression](https://bellard.org/tsac/)

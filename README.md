@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-09, 07:33:49](https://lobste.rs/s/2q0ole/server_chose_violence) - [The server chose violence](https://cliffle.com/blog/hubris-reply-fault/)
 * [2024-04-09, 06:09:36](https://lobste.rs/s/blf69e/melt_backup_restore_ed25519_ssh_keys_with) - [melt: Backup and restore Ed25519 SSH keys with seed words](https://github.com/charmbracelet/melt)
 * [2024-04-09, 04:11:47](https://lobste.rs/s/uvfzir/llm_c_llm_training_simple_raw_c_cuda) - [llm.c: LLM training in simple, raw C/CUDA](https://github.com/karpathy/llm.c)
 * [2024-04-09, 04:01:34](https://lobste.rs/s/ai2klw/tsac_very_low_bitrate_audio_compression) - [TSAC: Very Low Bitrate Audio Compression](https://bellard.org/tsac/)
@@ -12,7 +13,6 @@
 * [2024-04-08, 17:24:20](https://lobste.rs/s/0qhewh/cloudabi_cloud_computing_meets_fine) - [CloudABI: Cloud computing meets fine-grained capabilities (2016)](https://archive.org/details/lca2016-CloudABI_Cloud_computing_meets_finegrained_capabilities)
 * [2024-04-08, 16:38:58](https://lobste.rs/s/t8ndsq/reading_local_variables_with_bpftrace) - [Reading local variables with bpftrace](https://dxuuu.xyz/local-vars.html)
 * [2024-04-08, 16:20:26](https://lobste.rs/s/3hk4wf/prevent_sensitive_data_from_leaking_go) - [Prevent sensitive data from leaking in Go/Golang](https://www.willem.dev/articles/prevent-sensitive-data-from-leaking/)
-* [2024-04-08, 15:44:40](https://lobste.rs/s/1kywel/understanding_windows_on_arm_arm64_boot) - [Understanding Windows on ARM: ARM64 Boot Camp](http://www.emulators.com/docs/nx44_intro_to_woa.htm)
 * [2024-04-08, 15:02:36](https://lobste.rs/s/rhdzb8/reverst_reverse_tunnels_go_over_http_3) - [reverst: Reverse Tunnels in Go over HTTP/3 and QUIC](https://github.com/flipt-io/reverst/)
 * [2024-04-08, 14:06:41](https://lobste.rs/s/rnjtfk/2_axis_multihead_light_positioner) - [A 2-Axis, Multihead Light Positioner](https://www.bunniestudios.com/blog/2024/a-2-axis-multihead-light-positioner/)
 * [2024-04-08, 13:59:05](https://lobste.rs/s/wbbisr/dtrace_for_linux_2_0) - [Dtrace for Linux 2.0](https://lore.kernel.org/all/ZhBRSM2j0v7cOLn%2F@oracle.com/T/#u)
