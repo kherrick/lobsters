@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 04:01:34](https://lobste.rs/s/ai2klw/tsac_very_low_bitrate_audio_compression) - [TSAC: Very Low Bitrate Audio Compression](https://bellard.org/tsac/)
 * [2024-04-09, 00:51:38](https://lobste.rs/s/jkllxw/neco_coroutine_library_for_c) - [Neco: Coroutine library for C](https://github.com/tidwall/neco)
 * [2024-04-09, 00:09:55](https://lobste.rs/s/m6xoce/intro_tls_certificates) - [Intro to TLS Certificates](https://carrickbartle.com/certificates.html)
