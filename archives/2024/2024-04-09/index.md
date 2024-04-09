@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 20:11:24](https://lobste.rs/s/odhyq0/inspectre_gadget_inspecting_residual) - [InSpectre Gadget: Inspecting the Residual Attack Surface of Cross-privilege Spectre v2](https://www.vusec.net/projects/native-bhi/)
 * [2024-04-09, 19:24:46](https://lobste.rs/s/16yrxt/crystal_1_12_0_is_released) - [Crystal 1.12.0 is released](https://crystal-lang.org/2024/04/09/1.12.0-released/)
 * [2024-04-09, 19:09:10](https://lobste.rs/s/gcmmqe/design_is_not_recoverable_from) - [Design is not recoverable from implementation](https://ericnormand.substack.com/p/design-is-not-recoverable-from-implementation)
 * [2024-04-09, 18:58:33](https://lobste.rs/s/ur18vz/max_datom_interactive_datomic_tutorial) - [Max Datom - Interactive Datomic Tutorial](https://max-datom.com/)
