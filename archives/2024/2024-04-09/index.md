@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 14:41:54](https://lobste.rs/s/z1jab5/discrete_logic_network_card) - [Discrete logic network card](https://qdiv.dev/posts/eth2/)
+* [2024-04-09, 14:36:38](https://lobste.rs/s/st3zzo/lambda_screen_fractals_pure_lambda) - [Lambda Screen: Fractals in Pure Lambda Calculus](https://text.marvinborner.de/2024-03-25-02.html)
 * [2024-04-09, 14:07:03](https://lobste.rs/s/la8wz0/introducing_google_s_new_arm_based_cpu) - [Introducing Google’s new Arm-based CPU](https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu)
 * [2024-04-09, 12:39:35](https://lobste.rs/s/mm796q/ratarmount_access_large_archives_as) - [Ratarmount: Access large archives as a filesystem efficiently](https://github.com/mxmlnkn/ratarmount)
 * [2024-04-09, 12:36:44](https://lobste.rs/s/fuuvut/benchmarking_experimental_http3) - [Benchmarking experimental HTTP3 support in Node.js with µWebSockets (2022)](https://unetworkingab.medium.com/h3-meet-node-js-1d952e9bdd74)

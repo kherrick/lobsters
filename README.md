@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-09, 14:41:54](https://lobste.rs/s/z1jab5/discrete_logic_network_card) - [Discrete logic network card](https://qdiv.dev/posts/eth2/)
+* [2024-04-09, 14:36:38](https://lobste.rs/s/st3zzo/lambda_screen_fractals_pure_lambda) - [Lambda Screen: Fractals in Pure Lambda Calculus](https://text.marvinborner.de/2024-03-25-02.html)
 * [2024-04-09, 14:07:03](https://lobste.rs/s/la8wz0/introducing_google_s_new_arm_based_cpu) - [Introducing Google’s new Arm-based CPU](https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu)
 * [2024-04-09, 12:39:35](https://lobste.rs/s/mm796q/ratarmount_access_large_archives_as) - [Ratarmount: Access large archives as a filesystem efficiently](https://github.com/mxmlnkn/ratarmount)
 * [2024-04-09, 12:35:01](https://lobste.rs/s/zhbe55/taskwarrior_3_0_released) - [Taskwarrior 3.0 Released](https://github.com/GothenburgBitFactory/taskwarrior/releases/tag/v3.0.0)
@@ -19,10 +21,8 @@
 * [2024-04-08, 23:37:25](https://lobste.rs/s/xaca8r/building_berkeleydb) - [Building BerkeleyDB](https://transactional.blog/building-berkeleydb/)
 * [2024-04-08, 17:32:30](https://lobste.rs/s/lrrdjb/wasi_0_2_launched) - [WASI 0.2 Launched](https://blog.sunfishcode.online/wasi-0-2/)
 * [2024-04-08, 16:20:26](https://lobste.rs/s/3hk4wf/prevent_sensitive_data_from_leaking_go) - [Prevent sensitive data from leaking in Go/Golang](https://www.willem.dev/articles/prevent-sensitive-data-from-leaking/)
-* [2024-04-08, 15:02:36](https://lobste.rs/s/rhdzb8/reverst_reverse_tunnels_go_over_http_3) - [reverst: Reverse Tunnels in Go over HTTP/3 and QUIC](https://github.com/flipt-io/reverst/)
 * [2024-04-08, 13:59:05](https://lobste.rs/s/wbbisr/dtrace_for_linux_2_0) - [Dtrace for Linux 2.0](https://lore.kernel.org/all/ZhBRSM2j0v7cOLn%2F@oracle.com/T/#u)
 * [2024-04-08, 11:47:48](https://lobste.rs/s/yt6jzi/exploring_open_source_funding_ratatui_s) - [Exploring Open Source Funding: Ratatui's Journey](https://blog.orhun.dev/open-source-funding-with-ratatui)
-* [2024-04-08, 08:13:09](https://lobste.rs/s/3alisp/37_is_median_value_for_second_prime_factor) - [37 is the median value for the second prime factor of an integer](https://grossack.site/2023/11/08/37-median.html)
 * [2024-04-08, 07:48:09](https://lobste.rs/s/i0jcei/who_s_hiring_q2y2024) - [Who’s Hiring? Q2Y2024](https://lobste.rs/s/i0jcei/who_s_hiring_q2y2024)
 * [2024-04-08, 06:49:51](https://lobste.rs/s/kybgkv/just_how_much_faster_are_gnome_46) - [Just How Much Faster Are the GNOME 46 Terminals?](https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/)
 
