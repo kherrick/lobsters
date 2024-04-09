@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 12:24:49](https://lobste.rs/s/m9nahi/upnote_v9_cross_platform_cloud_note_app) - [UpNote v9: Cross platform cloud note app with scheduled offline backup and restore in Markdown format](https://getupnote.com/support.html)
+* [2024-04-09, 12:17:46](https://lobste.rs/s/dfhzia/500_mile_email_absurd_bug_stories) - [500 Mile Email - Absurd Bug Stories](https://500mile.email/)
+* [2024-04-09, 12:08:26](https://lobste.rs/s/ouqdwv/linux_usb_wi_fi_compatibility) - [Linux USB Wi-Fi Compatibility & Performance Knowledge Base](https://github.com/morrownr/USB-WiFi)
+* [2024-04-09, 12:06:22](https://lobste.rs/s/jxtjju/adventures_upnp_with_curl_netcat_2015) - [Adventures in UPnP with cURL and netcat (2015)](https://coolaj86.com/articles/adventures-in-upnp-with-curl-and-netcat/)
+* [2024-04-09, 12:03:10](https://lobste.rs/s/xbjzwd/exfat_vs_udf_2_01_cross_platform) - [exFAT vs. UDF 2.01 cross-platform and performance tests (2018)](https://www.sami-lehtinen.net/blog/exfat-extended-file-allocation-table-vs-udf-universal-disk-format-file-system-for-flash-drives)
+* [2024-04-09, 12:01:01](https://lobste.rs/s/sjadl5/don_t_require_people_change_source_code) - [Don't require people to change 'source code' to configure your programs](https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigureNoSourceCodeChanges)
 * [2024-04-09, 11:29:46](https://lobste.rs/s/rsghgv/sel4_device_driver_framework_0_4_0) - [seL4 Device Driver Framework 0.4.0](https://lists.sel4.systems/hyperkitty/list/devel@sel4.systems/thread/6QKUK5C5PNN6CUR2XEUR2SSFLTCTTXLL/)
 * [2024-04-09, 10:02:23](https://lobste.rs/s/0whzgd/sssl_hackless_ssl_bypass_for_wii_u) - [SSSL - Hackless SSL bypass for the Wii U](https://github.com/PretendoNetwork/SSSL)
 * [2024-04-09, 08:26:32](https://lobste.rs/s/cf0lyw/how_i_tripped_over_debian_weak_keys) - [How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
