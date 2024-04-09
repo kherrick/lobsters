@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-04-09, 16:29:31](https://lobste.rs/s/euehoq/open_secret_about_confidential) - [The Open Secret about Confidential Computing](https://stiankri.substack.com/p/the-open-secret-about-confidential)
+* [2024-04-09, 16:26:58](https://lobste.rs/s/4gt9eu/bzip2_format_specification) - [BZIP2: Format Specification](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf)
 * [2024-04-09, 16:14:52](https://lobste.rs/s/w4jwr2/distribution_problem_what_s_wrong_with) - [The Distribution Problem: what's wrong with internal CAs (and what to do about it)](https://anchor.dev/blog/the-distribution-problem)
 * [2024-04-09, 16:14:16](https://lobste.rs/s/cnyev9/guile_hoot_scheme_wasm_compiler_0_4_0) - [Guile Hoot (Scheme->Wasm compiler) 0.4.0 released](https://spritely.institute/news/guile-hoot-v040-released.html)
+* [2024-04-09, 15:45:39](https://lobste.rs/s/xfc18h/yeti_programming_language) - [YETI programming language](https://mth.github.io/yeti/)
 * [2024-04-09, 14:41:54](https://lobste.rs/s/z1jab5/discrete_logic_network_card) - [Discrete logic network card](https://qdiv.dev/posts/eth2/)
 * [2024-04-09, 14:36:38](https://lobste.rs/s/st3zzo/lambda_screen_fractals_pure_lambda) - [Lambda Screen: Fractals in Pure Lambda Calculus](https://text.marvinborner.de/2024-03-25-02.html)
 * [2024-04-09, 14:07:03](https://lobste.rs/s/la8wz0/introducing_google_s_new_arm_based_cpu) - [Introducing Google’s new Arm-based CPU](https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu)
@@ -24,7 +25,6 @@
 * [2024-04-08, 13:59:05](https://lobste.rs/s/wbbisr/dtrace_for_linux_2_0) - [Dtrace for Linux 2.0](https://lore.kernel.org/all/ZhBRSM2j0v7cOLn%2F@oracle.com/T/#u)
 * [2024-04-08, 11:47:48](https://lobste.rs/s/yt6jzi/exploring_open_source_funding_ratatui_s) - [Exploring Open Source Funding: Ratatui's Journey](https://blog.orhun.dev/open-source-funding-with-ratatui)
 * [2024-04-08, 07:48:09](https://lobste.rs/s/i0jcei/who_s_hiring_q2y2024) - [Who’s Hiring? Q2Y2024](https://lobste.rs/s/i0jcei/who_s_hiring_q2y2024)
-* [2024-04-08, 06:49:51](https://lobste.rs/s/kybgkv/just_how_much_faster_are_gnome_46) - [Just How Much Faster Are the GNOME 46 Terminals?](https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/)
 
 ## [Archives](archives/index.md)
 
