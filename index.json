@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-04-09, 16:29:31",
-      "https://lobste.rs/s/euehoq/open_secret_about_confidential"
+      "2024-04-09, 16:26:58",
+      "https://lobste.rs/s/4gt9eu/bzip2_format_specification"
     ],
     [
-      "The Open Secret about Confidential Computing",
-      "https://stiankri.substack.com/p/the-open-secret-about-confidential"
+      "BZIP2: Format Specification",
+      "https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Guile Hoot (Scheme->Wasm compiler) 0.4.0 released",
       "https://spritely.institute/news/guile-hoot-v040-released.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 15:45:39",
+      "https://lobste.rs/s/xfc18h/yeti_programming_language"
+    ],
+    [
+      "YETI programming language",
+      "https://mth.github.io/yeti/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Who’s Hiring? Q2Y2024",
       "https://lobste.rs/s/i0jcei/who_s_hiring_q2y2024"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 06:49:51",
-      "https://lobste.rs/s/kybgkv/just_how_much_faster_are_gnome_46"
-    ],
-    [
-      "Just How Much Faster Are the GNOME 46 Terminals?",
-      "https://bxt.rs/blog/just-how-much-faster-are-the-gnome-46-terminals/"
     ]
   ]
 ]
