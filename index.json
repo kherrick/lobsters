@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-04-09, 12:24:49",
-      "https://lobste.rs/s/m9nahi/upnote_v9_cross_platform_cloud_note_app"
-    ],
-    [
-      "UpNote v9: Cross platform cloud note app with scheduled offline backup and restore in Markdown format",
-      "https://getupnote.com/support.html"
-    ]
-  ],
-  [
-    [
       "2024-04-09, 12:17:46",
       "https://lobste.rs/s/dfhzia/500_mile_email_absurd_bug_stories"
     ],
@@ -77,6 +67,16 @@
     [
       "Don't require people to change 'source code' to configure your programs",
       "https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigureNoSourceCodeChanges"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 11:29:46",
+      "https://lobste.rs/s/rsghgv/sel4_device_driver_framework_0_4_0"
+    ],
+    [
+      "seL4 Device Driver Framework 0.4.0",
+      "https://lists.sel4.systems/hyperkitty/list/devel@sel4.systems/thread/6QKUK5C5PNN6CUR2XEUR2SSFLTCTTXLL/"
     ]
   ],
   [
