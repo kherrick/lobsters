@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-09, 04:01:34",
+      "https://lobste.rs/s/ai2klw/tsac_very_low_bitrate_audio_compression"
+    ],
+    [
+      "TSAC: Very Low Bitrate Audio Compression",
+      "https://bellard.org/tsac/"
+    ]
+  ],
+  [
+    [
       "2024-04-09, 00:51:38",
       "https://lobste.rs/s/jkllxw/neco_coroutine_library_for_c"
     ],
@@ -237,16 +247,6 @@
     [
       "Kuto, a reverse JS bundler",
       "https://samthor.au/2024/kuto/"
-    ]
-  ],
-  [
-    [
-      "2024-04-07, 03:17:43",
-      "https://lobste.rs/s/piymvy/glory_is_only_11mb_sec_away"
-    ],
-    [
-      "Glory is only 11MB/sec away",
-      "https://thmsmlr.com/cheap-infra"
     ]
   ]
 ]
