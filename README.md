@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-09, 04:11:47](https://lobste.rs/s/uvfzir/llm_c_llm_training_simple_raw_c_cuda) - [llm.c: LLM training in simple, raw C/CUDA](https://github.com/karpathy/llm.c)
 * [2024-04-09, 04:01:34](https://lobste.rs/s/ai2klw/tsac_very_low_bitrate_audio_compression) - [TSAC: Very Low Bitrate Audio Compression](https://bellard.org/tsac/)
 * [2024-04-09, 00:51:38](https://lobste.rs/s/jkllxw/neco_coroutine_library_for_c) - [Neco: Coroutine library for C](https://github.com/tidwall/neco)
 * [2024-04-09, 00:09:55](https://lobste.rs/s/m6xoce/intro_tls_certificates) - [Intro to TLS Certificates](https://carrickbartle.com/certificates.html)
 * [2024-04-08, 23:37:25](https://lobste.rs/s/xaca8r/building_berkeleydb) - [Building BerkeleyDB](https://transactional.blog/building-berkeleydb/)
 * [2024-04-08, 20:14:22](https://lobste.rs/s/nbdcqy/overloading_gen_class_methods_glorious) - [Overloading gen-class methods of glorious types with sublime nation of clojure for make great benefit of interop](https://pb.co.za/overloading-gen-class-methods-of-glorious-types-with-sublime-nation-of-clojure-for-make-great-benefit-of-interop)
 * [2024-04-08, 19:20:18](https://lobste.rs/s/iuo5y8/carbon_copy_newsletter_no_2) - [Carbon Copy Newsletter No.2](https://github.com/carbon-language/carbon-lang/discussions/3869)
-* [2024-04-08, 17:44:25](https://lobste.rs/s/mfieis/compile_time_init_build_c_library_for) - [compile-time-init-build: C++ library for composing modular firmware at compile-time](https://github.com/intel/compile-time-init-build)
 * [2024-04-08, 17:32:30](https://lobste.rs/s/lrrdjb/wasi_0_2_launched) - [WASI 0.2 Launched](https://blog.sunfishcode.online/wasi-0-2/)
 * [2024-04-08, 17:24:20](https://lobste.rs/s/0qhewh/cloudabi_cloud_computing_meets_fine) - [CloudABI: Cloud computing meets fine-grained capabilities (2016)](https://archive.org/details/lca2016-CloudABI_Cloud_computing_meets_finegrained_capabilities)
 * [2024-04-08, 16:38:58](https://lobste.rs/s/t8ndsq/reading_local_variables_with_bpftrace) - [Reading local variables with bpftrace](https://dxuuu.xyz/local-vars.html)
