@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 16:29:31](https://lobste.rs/s/euehoq/open_secret_about_confidential) - [The Open Secret about Confidential Computing](https://stiankri.substack.com/p/the-open-secret-about-confidential)
+* [2024-04-09, 16:26:58](https://lobste.rs/s/4gt9eu/bzip2_format_specification) - [BZIP2: Format Specification](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf)
 * [2024-04-09, 16:14:52](https://lobste.rs/s/w4jwr2/distribution_problem_what_s_wrong_with) - [The Distribution Problem: what's wrong with internal CAs (and what to do about it)](https://anchor.dev/blog/the-distribution-problem)
 * [2024-04-09, 16:14:16](https://lobste.rs/s/cnyev9/guile_hoot_scheme_wasm_compiler_0_4_0) - [Guile Hoot (Scheme->Wasm compiler) 0.4.0 released](https://spritely.institute/news/guile-hoot-v040-released.html)
 * [2024-04-09, 15:45:39](https://lobste.rs/s/xfc18h/yeti_programming_language) - [YETI programming language](https://mth.github.io/yeti/)
