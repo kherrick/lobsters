@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-09, 08:26:32",
+      "https://lobste.rs/s/cf0lyw/how_i_tripped_over_debian_weak_keys"
+    ],
+    [
+      "How I Tripped Over the Debian Weak Keys Vulnerability",
+      "https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html"
+    ]
+  ],
+  [
+    [
       "2024-04-09, 07:33:49",
       "https://lobste.rs/s/2q0ole/server_chose_violence"
     ],
@@ -157,16 +167,6 @@
     [
       "Dtrace for Linux 2.0",
       "https://lore.kernel.org/all/ZhBRSM2j0v7cOLn%2F@oracle.com/T/#u"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 13:21:51",
-      "https://lobste.rs/s/jfndhv/major_data_center_power_failure_again"
-    ],
-    [
-      "Major data center power failure (again): Cloudflare Code Orange tested",
-      "https://blog.cloudflare.com/major-data-center-power-failure-again-cloudflare-code-orange-tested"
     ]
   ],
   [
