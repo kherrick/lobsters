@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-09, 14:07:03](https://lobste.rs/s/la8wz0/introducing_google_s_new_arm_based_cpu) - [Introducing Google’s new Arm-based CPU](https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu)
 * [2024-04-09, 12:39:35](https://lobste.rs/s/mm796q/ratarmount_access_large_archives_as) - [Ratarmount: Access large archives as a filesystem efficiently](https://github.com/mxmlnkn/ratarmount)
-* [2024-04-09, 12:36:44](https://lobste.rs/s/fuuvut/benchmarking_experimental_http3) - [Benchmarking experimental HTTP3 support in Node.js with µWebSockets (2022)](https://unetworkingab.medium.com/h3-meet-node-js-1d952e9bdd74)
 * [2024-04-09, 12:35:01](https://lobste.rs/s/zhbe55/taskwarrior_3_0_released) - [Taskwarrior 3.0 Released](https://github.com/GothenburgBitFactory/taskwarrior/releases/tag/v3.0.0)
 * [2024-04-09, 12:17:46](https://lobste.rs/s/dfhzia/500_mile_email_absurd_bug_stories) - [500 Mile Email - Absurd Bug Stories](https://500mile.email/)
 * [2024-04-09, 12:06:22](https://lobste.rs/s/jxtjju/adventures_upnp_with_curl_netcat_2015) - [Adventures in UPnP with cURL and netcat (2015)](https://coolaj86.com/articles/adventures-in-upnp-with-curl-and-netcat/)
