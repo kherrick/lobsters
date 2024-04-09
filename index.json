@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-04-09, 20:44:12",
-      "https://lobste.rs/s/9fmqmz/nixos_nixpkgs_there_isn_t_clear_canonical"
+      "2024-04-09, 20:58:26",
+      "https://lobste.rs/s/jkfy3j/notes_on_how_use_llms_your_product"
     ],
     [
-      "NixOS/nixpkgs: There isn't a clear canonical way to refer to a specific package version [2020]",
-      "https://github.com/NixOS/nixpkgs/issues/93327"
+      "Notes on how to use LLMs in your product",
+      "https://lethain.com/mental-model-for-how-to-use-llms-in-products/"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "BZIP2: Format Specification",
       "https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 16:14:52",
-      "https://lobste.rs/s/w4jwr2/distribution_problem_what_s_wrong_with"
-    ],
-    [
-      "The Distribution Problem: what's wrong with internal CAs (and what to do about it)",
-      "https://anchor.dev/blog/the-distribution-problem"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Dtrace for Linux 2.0",
       "https://lore.kernel.org/all/ZhBRSM2j0v7cOLn%2F@oracle.com/T/#u"
+    ]
+  ],
+  [
+    [
+      "2024-04-08, 07:48:09",
+      "https://lobste.rs/s/i0jcei/who_s_hiring_q2y2024"
+    ],
+    [
+      "Who’s Hiring? Q2Y2024",
+      "https://lobste.rs/s/i0jcei/who_s_hiring_q2y2024"
     ]
   ]
 ]
