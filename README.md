@@ -1,11 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-04-09, 20:44:12](https://lobste.rs/s/9fmqmz/nixos_nixpkgs_there_isn_t_clear_canonical) - [NixOS/nixpkgs: There isn't a clear canonical way to refer to a specific package version [2020]](https://github.com/NixOS/nixpkgs/issues/93327)
+* [2024-04-09, 20:58:26](https://lobste.rs/s/jkfy3j/notes_on_how_use_llms_your_product) - [Notes on how to use LLMs in your product](https://lethain.com/mental-model-for-how-to-use-llms-in-products/)
 * [2024-04-09, 19:24:46](https://lobste.rs/s/16yrxt/crystal_1_12_0_is_released) - [Crystal 1.12.0 is released](https://crystal-lang.org/2024/04/09/1.12.0-released/)
 * [2024-04-09, 18:17:42](https://lobste.rs/s/bxcsem/testing_html_with_modern_css) - [Testing HTML With Modern CSS](https://heydonworks.com/article/testing-html-with-modern-css/)
 * [2024-04-09, 18:04:02](https://lobste.rs/s/myqnqs/async_rust) - [Async Rust](https://zed.dev/blog/zed-decoded-async-rust)
 * [2024-04-09, 16:26:58](https://lobste.rs/s/4gt9eu/bzip2_format_specification) - [BZIP2: Format Specification](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf)
-* [2024-04-09, 16:14:52](https://lobste.rs/s/w4jwr2/distribution_problem_what_s_wrong_with) - [The Distribution Problem: what's wrong with internal CAs (and what to do about it)](https://anchor.dev/blog/the-distribution-problem)
 * [2024-04-09, 16:14:16](https://lobste.rs/s/cnyev9/guile_hoot_scheme_wasm_compiler_0_4_0) - [Guile Hoot (Scheme->Wasm compiler) 0.4.0 released](https://spritely.institute/news/guile-hoot-v040-released.html)
 * [2024-04-09, 15:45:39](https://lobste.rs/s/xfc18h/yeti_programming_language) - [YETI programming language](https://mth.github.io/yeti/)
 * [2024-04-09, 14:36:38](https://lobste.rs/s/st3zzo/lambda_screen_fractals_pure_lambda) - [Lambda Screen: Fractals in Pure Lambda Calculus](https://text.marvinborner.de/2024-03-25-02.html)
@@ -25,6 +24,7 @@
 * [2024-04-08, 23:37:25](https://lobste.rs/s/xaca8r/building_berkeleydb) - [Building BerkeleyDB](https://transactional.blog/building-berkeleydb/)
 * [2024-04-08, 17:32:30](https://lobste.rs/s/lrrdjb/wasi_0_2_launched) - [WASI 0.2 Launched](https://blog.sunfishcode.online/wasi-0-2/)
 * [2024-04-08, 13:59:05](https://lobste.rs/s/wbbisr/dtrace_for_linux_2_0) - [Dtrace for Linux 2.0](https://lore.kernel.org/all/ZhBRSM2j0v7cOLn%2F@oracle.com/T/#u)
+* [2024-04-08, 07:48:09](https://lobste.rs/s/i0jcei/who_s_hiring_q2y2024) - [Who’s Hiring? Q2Y2024](https://lobste.rs/s/i0jcei/who_s_hiring_q2y2024)
 
 ## [Archives](archives/index.md)
 
