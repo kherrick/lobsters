@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 12:39:35](https://lobste.rs/s/mm796q/ratarmount_access_large_archives_as) - [Ratarmount: Access large archives as a filesystem efficiently](https://github.com/mxmlnkn/ratarmount)
+* [2024-04-09, 12:36:44](https://lobste.rs/s/fuuvut/benchmarking_experimental_http3) - [Benchmarking experimental HTTP3 support in Node.js with µWebSockets (2022)](https://unetworkingab.medium.com/h3-meet-node-js-1d952e9bdd74)
+* [2024-04-09, 12:35:01](https://lobste.rs/s/zhbe55/taskwarrior_3_0_released) - [Taskwarrior 3.0 Released](https://github.com/GothenburgBitFactory/taskwarrior/releases/tag/v3.0.0)
 * [2024-04-09, 12:24:49](https://lobste.rs/s/m9nahi/upnote_v9_cross_platform_cloud_note_app) - [UpNote v9: Cross platform cloud note app with scheduled offline backup and restore in Markdown format](https://getupnote.com/support.html)
 * [2024-04-09, 12:17:46](https://lobste.rs/s/dfhzia/500_mile_email_absurd_bug_stories) - [500 Mile Email - Absurd Bug Stories](https://500mile.email/)
 * [2024-04-09, 12:08:26](https://lobste.rs/s/ouqdwv/linux_usb_wi_fi_compatibility) - [Linux USB Wi-Fi Compatibility & Performance Knowledge Base](https://github.com/morrownr/USB-WiFi)
