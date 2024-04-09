@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-09, 07:33:49",
+      "https://lobste.rs/s/2q0ole/server_chose_violence"
+    ],
+    [
+      "The server chose violence",
+      "https://cliffle.com/blog/hubris-reply-fault/"
+    ]
+  ],
+  [
+    [
       "2024-04-09, 06:09:36",
       "https://lobste.rs/s/blf69e/melt_backup_restore_ed25519_ssh_keys_with"
     ],
@@ -117,16 +127,6 @@
     [
       "Prevent sensitive data from leaking in Go/Golang",
       "https://www.willem.dev/articles/prevent-sensitive-data-from-leaking/"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 15:44:40",
-      "https://lobste.rs/s/1kywel/understanding_windows_on_arm_arm64_boot"
-    ],
-    [
-      "Understanding Windows on ARM: ARM64 Boot Camp",
-      "http://www.emulators.com/docs/nx44_intro_to_woa.htm"
     ]
   ],
   [
