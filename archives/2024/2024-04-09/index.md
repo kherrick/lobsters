@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 15:37:01](https://lobste.rs/s/ukbipg/announcing_open_multi_perspective) - [Announcing the Open Multi-Perspective Issuance Corroboration Project](https://freedom-to-tinker.com/2024/02/13/announcing-the-open-multi-perspective-issuance-corroboration-project/)
 * [2024-04-09, 15:21:36](https://lobste.rs/s/z0z6by/threat_open_source_comes_from_within) - [The threat to open source comes from within](https://newsletter.goodtechthings.com/p/the-threat-to-open-source-comes-from)
 * [2024-04-09, 14:41:54](https://lobste.rs/s/z1jab5/discrete_logic_network_card) - [Discrete logic network card](https://qdiv.dev/posts/eth2/)
 * [2024-04-09, 14:36:38](https://lobste.rs/s/st3zzo/lambda_screen_fractals_pure_lambda) - [Lambda Screen: Fractals in Pure Lambda Calculus](https://text.marvinborner.de/2024-03-25-02.html)
