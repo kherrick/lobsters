@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-09, 23:45:26](https://lobste.rs/s/lhw1px/batbadbut_you_can_t_securely_execute) - [BatBadBut: You can't securely execute commands on Windows](https://flatt.tech/research/posts/batbadbut-you-cant-securely-execute-commands-on-windows/)
 * [2024-04-09, 22:57:33](https://lobste.rs/s/ulqxj8/my_deployment_platform_is_shell_script) - [my deployment platform is a shell script](https://j3s.sh/thought/my-deployment-platform-is-a-shell-script.html)
 * [2024-04-09, 20:58:26](https://lobste.rs/s/jkfy3j/notes_on_how_use_llms_your_product) - [Notes on how to use LLMs in your product](https://lethain.com/mental-model-for-how-to-use-llms-in-products/)
 * [2024-04-09, 20:11:24](https://lobste.rs/s/odhyq0/inspectre_gadget_inspecting_residual) - [InSpectre Gadget: Inspecting the Residual Attack Surface of Cross-privilege Spectre v2](https://www.vusec.net/projects/native-bhi/)
@@ -23,7 +24,6 @@
 * [2024-04-09, 04:11:47](https://lobste.rs/s/uvfzir/llm_c_llm_training_simple_raw_c_cuda) - [llm.c: LLM training in simple, raw C/CUDA](https://github.com/karpathy/llm.c)
 * [2024-04-09, 04:01:34](https://lobste.rs/s/ai2klw/tsac_very_low_bitrate_audio_compression) - [TSAC: Very Low Bitrate Audio Compression](https://bellard.org/tsac/)
 * [2024-04-09, 00:51:38](https://lobste.rs/s/jkllxw/neco_coroutine_library_for_c) - [Neco: Coroutine library for C](https://github.com/tidwall/neco)
-* [2024-04-08, 23:37:25](https://lobste.rs/s/xaca8r/building_berkeleydb) - [Building BerkeleyDB](https://transactional.blog/building-berkeleydb/)
 * [2024-04-08, 17:32:30](https://lobste.rs/s/lrrdjb/wasi_0_2_launched) - [WASI 0.2 Launched](https://blog.sunfishcode.online/wasi-0-2/)
 
 ## [Archives](archives/index.md)
