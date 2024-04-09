@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 18:17:42](https://lobste.rs/s/bxcsem/testing_html_with_modern_css) - [Testing HTML With Modern CSS](https://heydonworks.com/article/testing-html-with-modern-css/)
 * [2024-04-09, 18:04:02](https://lobste.rs/s/myqnqs/async_rust) - [Async Rust](https://zed.dev/blog/zed-decoded-async-rust)
 * [2024-04-09, 16:29:31](https://lobste.rs/s/euehoq/open_secret_about_confidential) - [The Open Secret about Confidential Computing](https://stiankri.substack.com/p/the-open-secret-about-confidential)
 * [2024-04-09, 16:26:58](https://lobste.rs/s/4gt9eu/bzip2_format_specification) - [BZIP2: Format Specification](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf)

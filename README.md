@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-09, 18:17:42](https://lobste.rs/s/bxcsem/testing_html_with_modern_css) - [Testing HTML With Modern CSS](https://heydonworks.com/article/testing-html-with-modern-css/)
 * [2024-04-09, 18:04:02](https://lobste.rs/s/myqnqs/async_rust) - [Async Rust](https://zed.dev/blog/zed-decoded-async-rust)
 * [2024-04-09, 16:26:58](https://lobste.rs/s/4gt9eu/bzip2_format_specification) - [BZIP2: Format Specification](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf)
 * [2024-04-09, 16:14:52](https://lobste.rs/s/w4jwr2/distribution_problem_what_s_wrong_with) - [The Distribution Problem: what's wrong with internal CAs (and what to do about it)](https://anchor.dev/blog/the-distribution-problem)
@@ -9,7 +10,6 @@
 * [2024-04-09, 14:07:03](https://lobste.rs/s/la8wz0/introducing_google_s_new_arm_based_cpu) - [Introducing Google’s new Arm-based CPU](https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu)
 * [2024-04-09, 12:39:35](https://lobste.rs/s/mm796q/ratarmount_access_large_archives_as) - [Ratarmount: Access large archives as a filesystem efficiently](https://github.com/mxmlnkn/ratarmount)
 * [2024-04-09, 12:35:01](https://lobste.rs/s/zhbe55/taskwarrior_3_0_released) - [Taskwarrior 3.0 Released](https://github.com/GothenburgBitFactory/taskwarrior/releases/tag/v3.0.0)
-* [2024-04-09, 12:17:46](https://lobste.rs/s/dfhzia/500_mile_email_absurd_bug_stories) - [500 Mile Email - Absurd Bug Stories](https://500mile.email/)
 * [2024-04-09, 12:03:10](https://lobste.rs/s/xbjzwd/exfat_vs_udf_2_01_cross_platform) - [exFAT vs. UDF 2.01 cross-platform and performance tests (2018)](https://www.sami-lehtinen.net/blog/exfat-extended-file-allocation-table-vs-udf-universal-disk-format-file-system-for-flash-drives)
 * [2024-04-09, 12:01:01](https://lobste.rs/s/sjadl5/don_t_require_people_change_source_code) - [Don't require people to change 'source code' to configure your programs](https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigureNoSourceCodeChanges)
 * [2024-04-09, 11:29:46](https://lobste.rs/s/rsghgv/sel4_device_driver_framework_0_4_0) - [seL4 Device Driver Framework 0.4.0](https://lists.sel4.systems/hyperkitty/list/devel@sel4.systems/thread/6QKUK5C5PNN6CUR2XEUR2SSFLTCTTXLL/)
