@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-09, 20:44:12](https://lobste.rs/s/9fmqmz/nixos_nixpkgs_there_isn_t_clear_canonical) - [NixOS/nixpkgs: There isn't a clear canonical way to refer to a specific package version [2020]](https://github.com/NixOS/nixpkgs/issues/93327)
 * [2024-04-09, 19:24:46](https://lobste.rs/s/16yrxt/crystal_1_12_0_is_released) - [Crystal 1.12.0 is released](https://crystal-lang.org/2024/04/09/1.12.0-released/)
 * [2024-04-09, 18:17:42](https://lobste.rs/s/bxcsem/testing_html_with_modern_css) - [Testing HTML With Modern CSS](https://heydonworks.com/article/testing-html-with-modern-css/)
 * [2024-04-09, 18:04:02](https://lobste.rs/s/myqnqs/async_rust) - [Async Rust](https://zed.dev/blog/zed-decoded-async-rust)
@@ -24,7 +25,6 @@
 * [2024-04-08, 23:37:25](https://lobste.rs/s/xaca8r/building_berkeleydb) - [Building BerkeleyDB](https://transactional.blog/building-berkeleydb/)
 * [2024-04-08, 17:32:30](https://lobste.rs/s/lrrdjb/wasi_0_2_launched) - [WASI 0.2 Launched](https://blog.sunfishcode.online/wasi-0-2/)
 * [2024-04-08, 13:59:05](https://lobste.rs/s/wbbisr/dtrace_for_linux_2_0) - [Dtrace for Linux 2.0](https://lore.kernel.org/all/ZhBRSM2j0v7cOLn%2F@oracle.com/T/#u)
-* [2024-04-08, 07:48:09](https://lobste.rs/s/i0jcei/who_s_hiring_q2y2024) - [Who’s Hiring? Q2Y2024](https://lobste.rs/s/i0jcei/who_s_hiring_q2y2024)
 
 ## [Archives](archives/index.md)
 
