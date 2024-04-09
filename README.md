@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-09, 06:09:36](https://lobste.rs/s/blf69e/melt_backup_restore_ed25519_ssh_keys_with) - [melt: Backup and restore Ed25519 SSH keys with seed words](https://github.com/charmbracelet/melt)
 * [2024-04-09, 04:11:47](https://lobste.rs/s/uvfzir/llm_c_llm_training_simple_raw_c_cuda) - [llm.c: LLM training in simple, raw C/CUDA](https://github.com/karpathy/llm.c)
 * [2024-04-09, 04:01:34](https://lobste.rs/s/ai2klw/tsac_very_low_bitrate_audio_compression) - [TSAC: Very Low Bitrate Audio Compression](https://bellard.org/tsac/)
 * [2024-04-09, 00:51:38](https://lobste.rs/s/jkllxw/neco_coroutine_library_for_c) - [Neco: Coroutine library for C](https://github.com/tidwall/neco)
@@ -18,7 +19,6 @@
 * [2024-04-08, 13:21:51](https://lobste.rs/s/jfndhv/major_data_center_power_failure_again) - [Major data center power failure (again): Cloudflare Code Orange tested](https://blog.cloudflare.com/major-data-center-power-failure-again-cloudflare-code-orange-tested)
 * [2024-04-08, 12:26:10](https://lobste.rs/s/itu6gt/it_s_getting_hard_use_recommend_firefox_i_m) - [It's getting hard to use and recommend Firefox, I'm afraid for the free web](https://ntietz.com/blog/firefox-and-the-free-web)
 * [2024-04-08, 11:47:48](https://lobste.rs/s/yt6jzi/exploring_open_source_funding_ratatui_s) - [Exploring Open Source Funding: Ratatui's Journey](https://blog.orhun.dev/open-source-funding-with-ratatui)
-* [2024-04-08, 10:12:41](https://lobste.rs/s/o5tr3p/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/o5tr3p/what_are_you_doing_this_week)
 * [2024-04-08, 09:28:37](https://lobste.rs/s/baep0t/xkcd_2916_machine) - [xkcd #2916: Machine](https://xkcd.com/2916)
 * [2024-04-08, 08:31:41](https://lobste.rs/s/ffuwjk/todo_lives_inside_your_repl) - [A TODO that lives inside your REPL](https://asciinema.org/a/651510)
 * [2024-04-08, 08:13:09](https://lobste.rs/s/3alisp/37_is_median_value_for_second_prime_factor) - [37 is the median value for the second prime factor of an integer](https://grossack.site/2023/11/08/37-median.html)
