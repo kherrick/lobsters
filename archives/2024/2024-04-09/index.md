@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 22:57:33](https://lobste.rs/s/ulqxj8/my_deployment_platform_is_shell_script) - [my deployment platform is a shell script](https://j3s.sh/thought/my-deployment-platform-is-a-shell-script.html)
 * [2024-04-09, 20:58:26](https://lobste.rs/s/jkfy3j/notes_on_how_use_llms_your_product) - [Notes on how to use LLMs in your product](https://lethain.com/mental-model-for-how-to-use-llms-in-products/)
 * [2024-04-09, 20:44:12](https://lobste.rs/s/9fmqmz/nixos_nixpkgs_there_isn_t_clear_canonical) - [NixOS/nixpkgs: There isn't a clear canonical way to refer to a specific package version [2020]](https://github.com/NixOS/nixpkgs/issues/93327)
 * [2024-04-09, 20:11:24](https://lobste.rs/s/odhyq0/inspectre_gadget_inspecting_residual) - [InSpectre Gadget: Inspecting the Residual Attack Surface of Cross-privilege Spectre v2](https://www.vusec.net/projects/native-bhi/)
