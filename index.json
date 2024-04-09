@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-09, 22:57:33",
+      "https://lobste.rs/s/ulqxj8/my_deployment_platform_is_shell_script"
+    ],
+    [
+      "my deployment platform is a shell script",
+      "https://j3s.sh/thought/my-deployment-platform-is-a-shell-script.html"
+    ]
+  ],
+  [
+    [
       "2024-04-09, 20:58:26",
       "https://lobste.rs/s/jkfy3j/notes_on_how_use_llms_your_product"
     ],
@@ -237,16 +247,6 @@
     [
       "WASI 0.2 Launched",
       "https://blog.sunfishcode.online/wasi-0-2/"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 13:59:05",
-      "https://lobste.rs/s/wbbisr/dtrace_for_linux_2_0"
-    ],
-    [
-      "Dtrace for Linux 2.0",
-      "https://lore.kernel.org/all/ZhBRSM2j0v7cOLn%2F@oracle.com/T/#u"
     ]
   ]
 ]
