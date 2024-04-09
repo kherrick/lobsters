@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-09](index.md)
 
+* [2024-04-09, 10:02:23](https://lobste.rs/s/0whzgd/sssl_hackless_ssl_bypass_for_wii_u) - [SSSL - Hackless SSL bypass for the Wii U](https://github.com/PretendoNetwork/SSSL)
 * [2024-04-09, 08:26:32](https://lobste.rs/s/cf0lyw/how_i_tripped_over_debian_weak_keys) - [How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
 * [2024-04-09, 07:33:49](https://lobste.rs/s/2q0ole/server_chose_violence) - [The server chose violence](https://cliffle.com/blog/hubris-reply-fault/)
 * [2024-04-09, 06:09:36](https://lobste.rs/s/blf69e/melt_backup_restore_ed25519_ssh_keys_with) - [melt: Backup and restore Ed25519 SSH keys with seed words](https://github.com/charmbracelet/melt)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-09, 10:02:23](https://lobste.rs/s/0whzgd/sssl_hackless_ssl_bypass_for_wii_u) - [SSSL - Hackless SSL bypass for the Wii U](https://github.com/PretendoNetwork/SSSL)
 * [2024-04-09, 08:26:32](https://lobste.rs/s/cf0lyw/how_i_tripped_over_debian_weak_keys) - [How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
 * [2024-04-09, 07:33:49](https://lobste.rs/s/2q0ole/server_chose_violence) - [The server chose violence](https://cliffle.com/blog/hubris-reply-fault/)
 * [2024-04-09, 06:09:36](https://lobste.rs/s/blf69e/melt_backup_restore_ed25519_ssh_keys_with) - [melt: Backup and restore Ed25519 SSH keys with seed words](https://github.com/charmbracelet/melt)
@@ -8,7 +9,6 @@
 * [2024-04-09, 00:51:38](https://lobste.rs/s/jkllxw/neco_coroutine_library_for_c) - [Neco: Coroutine library for C](https://github.com/tidwall/neco)
 * [2024-04-09, 00:09:55](https://lobste.rs/s/m6xoce/intro_tls_certificates) - [Intro to TLS Certificates](https://carrickbartle.com/certificates.html)
 * [2024-04-08, 23:37:25](https://lobste.rs/s/xaca8r/building_berkeleydb) - [Building BerkeleyDB](https://transactional.blog/building-berkeleydb/)
-* [2024-04-08, 20:14:22](https://lobste.rs/s/nbdcqy/overloading_gen_class_methods_glorious) - [Overloading gen-class methods of glorious types with sublime nation of clojure for make great benefit of interop](https://pb.co.za/overloading-gen-class-methods-of-glorious-types-with-sublime-nation-of-clojure-for-make-great-benefit-of-interop)
 * [2024-04-08, 19:20:18](https://lobste.rs/s/iuo5y8/carbon_copy_newsletter_no_2) - [Carbon Copy Newsletter No.2](https://github.com/carbon-language/carbon-lang/discussions/3869)
 * [2024-04-08, 17:32:30](https://lobste.rs/s/lrrdjb/wasi_0_2_launched) - [WASI 0.2 Launched](https://blog.sunfishcode.online/wasi-0-2/)
 * [2024-04-08, 17:24:20](https://lobste.rs/s/0qhewh/cloudabi_cloud_computing_meets_fine) - [CloudABI: Cloud computing meets fine-grained capabilities (2016)](https://archive.org/details/lca2016-CloudABI_Cloud_computing_meets_finegrained_capabilities)
