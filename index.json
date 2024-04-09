@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-04-09, 12:39:35",
+      "https://lobste.rs/s/mm796q/ratarmount_access_large_archives_as"
+    ],
+    [
+      "Ratarmount: Access large archives as a filesystem efficiently",
+      "https://github.com/mxmlnkn/ratarmount"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 12:36:44",
+      "https://lobste.rs/s/fuuvut/benchmarking_experimental_http3"
+    ],
+    [
+      "Benchmarking experimental HTTP3 support in Node.js with µWebSockets (2022)",
+      "https://unetworkingab.medium.com/h3-meet-node-js-1d952e9bdd74"
+    ]
+  ],
+  [
+    [
+      "2024-04-09, 12:35:01",
+      "https://lobste.rs/s/zhbe55/taskwarrior_3_0_released"
+    ],
+    [
+      "Taskwarrior 3.0 Released",
+      "https://github.com/GothenburgBitFactory/taskwarrior/releases/tag/v3.0.0"
+    ]
+  ],
+  [
+    [
       "2024-04-09, 12:24:49",
       "https://lobste.rs/s/m9nahi/upnote_v9_cross_platform_cloud_note_app"
     ],
@@ -17,16 +47,6 @@
     [
       "500 Mile Email - Absurd Bug Stories",
       "https://500mile.email/"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 12:08:26",
-      "https://lobste.rs/s/ouqdwv/linux_usb_wi_fi_compatibility"
-    ],
-    [
-      "Linux USB Wi-Fi Compatibility & Performance Knowledge Base",
-      "https://github.com/morrownr/USB-WiFi"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Don't require people to change 'source code' to configure your programs",
       "https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigureNoSourceCodeChanges"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 11:29:46",
-      "https://lobste.rs/s/rsghgv/sel4_device_driver_framework_0_4_0"
-    ],
-    [
-      "seL4 Device Driver Framework 0.4.0",
-      "https://lists.sel4.systems/hyperkitty/list/devel@sel4.systems/thread/6QKUK5C5PNN6CUR2XEUR2SSFLTCTTXLL/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Dtrace for Linux 2.0",
       "https://lore.kernel.org/all/ZhBRSM2j0v7cOLn%2F@oracle.com/T/#u"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 12:26:10",
-      "https://lobste.rs/s/itu6gt/it_s_getting_hard_use_recommend_firefox_i_m"
-    ],
-    [
-      "It's getting hard to use and recommend Firefox, I'm afraid for the free web",
-      "https://ntietz.com/blog/firefox-and-the-free-web"
     ]
   ],
   [
