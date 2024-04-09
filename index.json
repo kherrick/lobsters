@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-09, 06:09:36",
+      "https://lobste.rs/s/blf69e/melt_backup_restore_ed25519_ssh_keys_with"
+    ],
+    [
+      "melt: Backup and restore Ed25519 SSH keys with seed words",
+      "https://github.com/charmbracelet/melt"
+    ]
+  ],
+  [
+    [
       "2024-04-09, 04:11:47",
       "https://lobste.rs/s/uvfzir/llm_c_llm_training_simple_raw_c_cuda"
     ],
@@ -177,16 +187,6 @@
     [
       "Exploring Open Source Funding: Ratatui's Journey",
       "https://blog.orhun.dev/open-source-funding-with-ratatui"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 10:12:41",
-      "https://lobste.rs/s/o5tr3p/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/o5tr3p/what_are_you_doing_this_week"
     ]
   ],
   [
