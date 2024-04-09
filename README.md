@@ -2,6 +2,7 @@
 
 * [2024-04-09, 20:58:26](https://lobste.rs/s/jkfy3j/notes_on_how_use_llms_your_product) - [Notes on how to use LLMs in your product](https://lethain.com/mental-model-for-how-to-use-llms-in-products/)
 * [2024-04-09, 19:24:46](https://lobste.rs/s/16yrxt/crystal_1_12_0_is_released) - [Crystal 1.12.0 is released](https://crystal-lang.org/2024/04/09/1.12.0-released/)
+* [2024-04-09, 19:09:10](https://lobste.rs/s/gcmmqe/design_is_not_recoverable_from) - [Design is not recoverable from implementation](https://ericnormand.substack.com/p/design-is-not-recoverable-from-implementation)
 * [2024-04-09, 18:17:42](https://lobste.rs/s/bxcsem/testing_html_with_modern_css) - [Testing HTML With Modern CSS](https://heydonworks.com/article/testing-html-with-modern-css/)
 * [2024-04-09, 18:04:02](https://lobste.rs/s/myqnqs/async_rust) - [Async Rust](https://zed.dev/blog/zed-decoded-async-rust)
 * [2024-04-09, 16:26:58](https://lobste.rs/s/4gt9eu/bzip2_format_specification) - [BZIP2: Format Specification](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf)
@@ -24,7 +25,6 @@
 * [2024-04-08, 23:37:25](https://lobste.rs/s/xaca8r/building_berkeleydb) - [Building BerkeleyDB](https://transactional.blog/building-berkeleydb/)
 * [2024-04-08, 17:32:30](https://lobste.rs/s/lrrdjb/wasi_0_2_launched) - [WASI 0.2 Launched](https://blog.sunfishcode.online/wasi-0-2/)
 * [2024-04-08, 13:59:05](https://lobste.rs/s/wbbisr/dtrace_for_linux_2_0) - [Dtrace for Linux 2.0](https://lore.kernel.org/all/ZhBRSM2j0v7cOLn%2F@oracle.com/T/#u)
-* [2024-04-08, 07:48:09](https://lobste.rs/s/i0jcei/who_s_hiring_q2y2024) - [Who’s Hiring? Q2Y2024](https://lobste.rs/s/i0jcei/who_s_hiring_q2y2024)
 
 ## [Archives](archives/index.md)
 
