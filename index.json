@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-09, 23:45:26",
+      "https://lobste.rs/s/lhw1px/batbadbut_you_can_t_securely_execute"
+    ],
+    [
+      "BatBadBut: You can't securely execute commands on Windows",
+      "https://flatt.tech/research/posts/batbadbut-you-cant-securely-execute-commands-on-windows/"
+    ]
+  ],
+  [
+    [
       "2024-04-09, 22:57:33",
       "https://lobste.rs/s/ulqxj8/my_deployment_platform_is_shell_script"
     ],
@@ -227,16 +237,6 @@
     [
       "Neco: Coroutine library for C",
       "https://github.com/tidwall/neco"
-    ]
-  ],
-  [
-    [
-      "2024-04-08, 23:37:25",
-      "https://lobste.rs/s/xaca8r/building_berkeleydb"
-    ],
-    [
-      "Building BerkeleyDB",
-      "https://transactional.blog/building-berkeleydb/"
     ]
   ],
   [
