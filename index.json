@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-10, 02:42:09",
+      "https://lobste.rs/s/uffowm/pilot_ping_based_information_lookup"
+    ],
+    [
+      "PILOT: Ping-based Information Lookup and Outbound Transfer",
+      "https://github.com/dahvidschloss/PILOT"
+    ]
+  ],
+  [
+    [
       "2024-04-10, 02:05:03",
       "https://lobste.rs/s/avvicz/delimited_continuations_demystified"
     ],
@@ -47,16 +57,6 @@
     [
       "Notes on how to use LLMs in your product",
       "https://lethain.com/mental-model-for-how-to-use-llms-in-products/"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 20:11:24",
-      "https://lobste.rs/s/odhyq0/inspectre_gadget_inspecting_residual"
-    ],
-    [
-      "InSpectre Gadget: Inspecting the Residual Attack Surface of Cross-privilege Spectre v2",
-      "https://www.vusec.net/projects/native-bhi/"
     ]
   ],
   [
