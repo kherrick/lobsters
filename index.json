@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-10, 11:46:54",
+      "https://lobste.rs/s/zfcis3/shell_history_is_your_best_productivity"
+    ],
+    [
+      "Shell History Is Your Best Productivity Tool",
+      "https://martinheinz.dev/blog/110"
+    ]
+  ],
+  [
+    [
       "2024-04-10, 11:14:09",
       "https://lobste.rs/s/rar1ec/rust_security_advisory_for_standard"
     ],
@@ -57,16 +67,6 @@
     [
       "Flow-IPC gets open-sourced (zero-copy IPC via Cap'n Proto, in modern C++)",
       "https://github.com/Flow-IPC"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 02:05:03",
-      "https://lobste.rs/s/avvicz/delimited_continuations_demystified"
-    ],
-    [
-      "Delimited Continuations, Demystified (2023)",
-      "https://www.youtube.com/watch?v=DRFsodbxHQo"
     ]
   ],
   [
