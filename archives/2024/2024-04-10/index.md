@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-10](index.md)
 
+* [2024-04-10, 11:14:09](https://lobste.rs/s/rar1ec/rust_security_advisory_for_standard) - [Rust - Security advisory for the standard library (CVE-2024-24576)](https://blog.rust-lang.org/2024/04/09/cve-2024-24576.html)
 * [2024-04-10, 10:56:53](https://lobste.rs/s/4fsnyq/how_can_rust_be_so_fast_techempower_web) - [How can Rust be so fast in the TechEmpower Web Framework Benchmarks?](https://kerkour.com/rust-fast-techempower-web-framework-benchmarks)
 * [2024-04-10, 10:55:41](https://lobste.rs/s/q1pm7s/history_cp_m_by_dr_gary_kildall_from_dr_dobb) - [The History of CP/M, by Dr Gary Kildall (from Dr. Dobb's)](https://www.retrotechnology.com/dri/CPM_history_kildall.txt)
 * [2024-04-10, 09:12:07](https://lobste.rs/s/wot82c/verified_curl) - [Verified curl](https://daniel.haxx.se/blog/2024/04/10/verified-curl/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-10, 11:14:09](https://lobste.rs/s/rar1ec/rust_security_advisory_for_standard) - [Rust - Security advisory for the standard library (CVE-2024-24576)](https://blog.rust-lang.org/2024/04/09/cve-2024-24576.html)
 * [2024-04-10, 10:56:53](https://lobste.rs/s/4fsnyq/how_can_rust_be_so_fast_techempower_web) - [How can Rust be so fast in the TechEmpower Web Framework Benchmarks?](https://kerkour.com/rust-fast-techempower-web-framework-benchmarks)
 * [2024-04-10, 10:55:41](https://lobste.rs/s/q1pm7s/history_cp_m_by_dr_gary_kildall_from_dr_dobb) - [The History of CP/M, by Dr Gary Kildall (from Dr. Dobb's)](https://www.retrotechnology.com/dri/CPM_history_kildall.txt)
 * [2024-04-10, 09:12:07](https://lobste.rs/s/wot82c/verified_curl) - [Verified curl](https://daniel.haxx.se/blog/2024/04/10/verified-curl/)
@@ -23,7 +24,6 @@
 * [2024-04-09, 10:02:23](https://lobste.rs/s/0whzgd/sssl_hackless_ssl_bypass_for_wii_u) - [SSSL - Hackless SSL bypass for the Wii U](https://github.com/PretendoNetwork/SSSL)
 * [2024-04-09, 08:26:32](https://lobste.rs/s/cf0lyw/how_i_tripped_over_debian_weak_keys) - [How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
 * [2024-04-09, 07:33:49](https://lobste.rs/s/2q0ole/server_chose_violence) - [The server chose violence](https://cliffle.com/blog/hubris-reply-fault/)
-* [2024-04-09, 06:09:36](https://lobste.rs/s/blf69e/melt_backup_restore_ed25519_ssh_keys_with) - [melt: Backup and restore Ed25519 SSH keys with seed words](https://github.com/charmbracelet/melt)
 * [2024-04-09, 04:01:34](https://lobste.rs/s/ai2klw/tsac_very_low_bitrate_audio_compression) - [TSAC: Very Low Bitrate Audio Compression](https://bellard.org/tsac/)
 
 ## [Archives](archives/index.md)
