@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-10, 19:04:34",
+      "https://lobste.rs/s/uy0rlf/code_search_is_hard"
+    ],
+    [
+      "Code Search is Hard",
+      "https://blog.val.town/blog/search-notes/"
+    ]
+  ],
+  [
+    [
       "2024-04-10, 17:12:04",
       "https://lobste.rs/s/xylzwr/some_notes_on_for_loops"
     ],
@@ -37,16 +47,6 @@
     [
       "iXsystems: No one is being 'marooned' by Debian focus",
       "https://blocksandfiles.com/2024/04/08/ixsystems-no-one-is-getting-marooned/"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 15:11:45",
-      "https://lobste.rs/s/wdggdv/interactive_visualization_analytics_on"
-    ],
-    [
-      "Interactive visualization and analytics on ADS-B data with ClickHouse",
-      "https://github.com/ClickHouse/adsb.exposed/"
     ]
   ],
   [
