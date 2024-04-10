@@ -2,6 +2,7 @@
 
 * [2024-04-10, 21:04:50](https://lobste.rs/s/wt0hkg/templang_fe_event_routing_elements) - [TempLang - FE event routing and elements in an abbreviated form](https://dev.to/firecrow8/introducing-templang-an-abbreviated-fe-framework-3em4)
 * [2024-04-10, 19:34:20](https://lobste.rs/s/harezb/notes_on_git_s_error_messages) - [Notes on git's error messages](https://jvns.ca/blog/2024/04/10/notes-on-git-error-messages/)
+* [2024-04-10, 19:04:34](https://lobste.rs/s/uy0rlf/code_search_is_hard) - [Code Search is Hard](https://blog.val.town/blog/search-notes/)
 * [2024-04-10, 17:12:04](https://lobste.rs/s/xylzwr/some_notes_on_for_loops) - [Some notes on For loops](https://buttondown.email/hillelwayne/archive/some-notes-on-for-loops/)
 * [2024-04-10, 16:03:54](https://lobste.rs/s/ym8hku/don_t_let_alloy_facts_make_your_specs) - [Don't let Alloy facts make your specs a fiction](https://www.hillelwayne.com/post/alloy-facts/)
 * [2024-04-10, 15:49:13](https://lobste.rs/s/ssworw/how_i_write_tests_go) - [How I write tests in Go](https://blog.verygoodsoftwarenotvirus.ru/posts/testing-in-go/)
@@ -22,7 +23,6 @@
 * [2024-04-09, 20:58:26](https://lobste.rs/s/jkfy3j/notes_on_how_use_llms_your_product) - [Notes on how to use LLMs in your product](https://lethain.com/mental-model-for-how-to-use-llms-in-products/)
 * [2024-04-09, 18:04:02](https://lobste.rs/s/myqnqs/async_rust) - [Async Rust](https://zed.dev/blog/zed-decoded-async-rust)
 * [2024-04-09, 16:14:16](https://lobste.rs/s/cnyev9/guile_hoot_scheme_wasm_compiler_0_4_0) - [Guile Hoot (Scheme->Wasm compiler) 0.4.0 released](https://spritely.institute/news/guile-hoot-v040-released.html)
-* [2024-04-09, 14:07:03](https://lobste.rs/s/la8wz0/introducing_google_s_new_arm_based_cpu) - [Introducing Google’s new Arm-based CPU](https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu)
 * [2024-04-09, 12:01:01](https://lobste.rs/s/sjadl5/don_t_require_people_change_source_code) - [Don't require people to change 'source code' to configure your programs](https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigureNoSourceCodeChanges)
 * [2024-04-09, 07:33:49](https://lobste.rs/s/2q0ole/server_chose_violence) - [The server chose violence](https://cliffle.com/blog/hubris-reply-fault/)
 
