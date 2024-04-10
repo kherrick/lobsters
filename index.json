@@ -1,22 +1,52 @@
 [
   [
     [
-      "2024-04-10, 14:51:32",
-      "https://lobste.rs/s/voxkwb/real_world_law_enforcement_breach_end_end"
+      "2024-04-10, 15:12:17",
+      "https://lobste.rs/s/c711sj/ixsystems_no_one_is_being_marooned_by"
     ],
     [
-      "A Real-World Law-Enforcement Breach of End-to-End Encrypted Messaging (Real World Crypto 2024)",
-      "https://www.youtube.com/watch?v=AeKRS6_zxoc"
+      "iXsystems: No one is being 'marooned' by Debian focus",
+      "https://blocksandfiles.com/2024/04/08/ixsystems-no-one-is-getting-marooned/"
     ]
   ],
   [
     [
-      "2024-04-10, 13:28:57",
-      "https://lobste.rs/s/rtq9jm/cs_4560_guest_lecture_ladybird_browser"
+      "2024-04-10, 15:11:45",
+      "https://lobste.rs/s/wdggdv/interactive_visualization_analytics_on"
     ],
     [
-      "CS 4560 guest lecture: Ladybird browser development",
-      "https://www.youtube.com/watch?v=zXYNUbyQ0pk"
+      "Interactive visualization and analytics on ADS-B data with ClickHouse",
+      "https://github.com/ClickHouse/adsb.exposed/"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 15:00:21",
+      "https://lobste.rs/s/ovts35/hermetic_cc_toolchain"
+    ],
+    [
+      "Hermetic CC toolchain",
+      "https://github.com/uber/hermetic_cc_toolchain"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 14:58:06",
+      "https://lobste.rs/s/qb7pzb/changing_font_size_windows_dialog_c"
+    ],
+    [
+      "Changing font size in Windows dialog in C++",
+      "https://blog.kowalczyk.info/article/8zr1/changing-font-size-in-windows-dialog-in-c.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 14:51:32",
+      "https://lobste.rs/s/voxkwb/real_world_law_enforcement_breach_end_end"
+    ],
+    [
+      "A Real-World Law-Enforcement Breach of End-to-End Encrypted Messaging",
+      "https://www.youtube.com/watch?v=AeKRS6_zxoc"
     ]
   ],
   [
@@ -97,16 +127,6 @@
     [
       "Client libraries are better when they have no API",
       "https://csvbase.com/blog/7"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 07:24:01",
-      "https://lobste.rs/s/peujlb/flow_ipc_gets_open_sourced_zero_copy_ipc"
-    ],
-    [
-      "Flow-IPC gets open-sourced (zero-copy IPC via Cap'n Proto, in modern C++)",
-      "https://github.com/Flow-IPC"
     ]
   ],
   [
@@ -217,26 +237,6 @@
     [
       "Don't require people to change 'source code' to configure your programs",
       "https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigureNoSourceCodeChanges"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 10:02:23",
-      "https://lobste.rs/s/0whzgd/sssl_hackless_ssl_bypass_for_wii_u"
-    ],
-    [
-      "SSSL - Hackless SSL bypass for the Wii U",
-      "https://github.com/PretendoNetwork/SSSL"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 08:26:32",
-      "https://lobste.rs/s/cf0lyw/how_i_tripped_over_debian_weak_keys"
-    ],
-    [
-      "How I Tripped Over the Debian Weak Keys Vulnerability",
-      "https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html"
     ]
   ],
   [
