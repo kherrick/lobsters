@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-10, 02:42:09](https://lobste.rs/s/uffowm/pilot_ping_based_information_lookup) - [PILOT: Ping-based Information Lookup and Outbound Transfer](https://github.com/dahvidschloss/PILOT)
 * [2024-04-10, 02:05:03](https://lobste.rs/s/avvicz/delimited_continuations_demystified) - [Delimited Continuations, Demystified (2023)](https://www.youtube.com/watch?v=DRFsodbxHQo)
 * [2024-04-10, 02:04:32](https://lobste.rs/s/t2qwnx/c_compilers_disprove_fermat_s_last) - [C Compilers Disprove Fermat’s Last Theorem (2010)](https://blog.regehr.org/archives/140)
 * [2024-04-09, 23:45:26](https://lobste.rs/s/lhw1px/batbadbut_you_can_t_securely_execute) - [BatBadBut: You can't securely execute commands on Windows](https://flatt.tech/research/posts/batbadbut-you-cant-securely-execute-commands-on-windows/)
 * [2024-04-09, 22:57:33](https://lobste.rs/s/ulqxj8/my_deployment_platform_is_shell_script) - [my deployment platform is a shell script](https://j3s.sh/thought/my-deployment-platform-is-a-shell-script.html)
 * [2024-04-09, 20:58:26](https://lobste.rs/s/jkfy3j/notes_on_how_use_llms_your_product) - [Notes on how to use LLMs in your product](https://lethain.com/mental-model-for-how-to-use-llms-in-products/)
-* [2024-04-09, 20:11:24](https://lobste.rs/s/odhyq0/inspectre_gadget_inspecting_residual) - [InSpectre Gadget: Inspecting the Residual Attack Surface of Cross-privilege Spectre v2](https://www.vusec.net/projects/native-bhi/)
 * [2024-04-09, 19:24:46](https://lobste.rs/s/16yrxt/crystal_1_12_0_is_released) - [Crystal 1.12.0 is released](https://crystal-lang.org/2024/04/09/1.12.0-released/)
 * [2024-04-09, 19:09:10](https://lobste.rs/s/gcmmqe/design_is_not_recoverable_from) - [Design is not recoverable from implementation](https://ericnormand.substack.com/p/design-is-not-recoverable-from-implementation)
 * [2024-04-09, 18:17:42](https://lobste.rs/s/bxcsem/testing_html_with_modern_css) - [Testing HTML With Modern CSS](https://heydonworks.com/article/testing-html-with-modern-css/)
