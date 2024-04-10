@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-04-10](index.md)
 
+* [2024-04-10, 15:12:17](https://lobste.rs/s/c711sj/ixsystems_no_one_is_being_marooned_by) - [iXsystems: No one is being 'marooned' by Debian focus](https://blocksandfiles.com/2024/04/08/ixsystems-no-one-is-getting-marooned/)
+* [2024-04-10, 15:11:45](https://lobste.rs/s/wdggdv/interactive_visualization_analytics_on) - [Interactive visualization and analytics on ADS-B data with ClickHouse](https://github.com/ClickHouse/adsb.exposed/)
+* [2024-04-10, 15:00:21](https://lobste.rs/s/ovts35/hermetic_cc_toolchain) - [Hermetic CC toolchain](https://github.com/uber/hermetic_cc_toolchain)
+* [2024-04-10, 14:58:06](https://lobste.rs/s/qb7pzb/changing_font_size_windows_dialog_c) - [Changing font size in Windows dialog in C++](https://blog.kowalczyk.info/article/8zr1/changing-font-size-in-windows-dialog-in-c.html)
 * [2024-04-10, 14:51:32](https://lobste.rs/s/voxkwb/real_world_law_enforcement_breach_end_end) - [A Real-World Law-Enforcement Breach of End-to-End Encrypted Messaging (Real World Crypto 2024)](https://www.youtube.com/watch?v=AeKRS6_zxoc)
 * [2024-04-10, 13:28:57](https://lobste.rs/s/rtq9jm/cs_4560_guest_lecture_ladybird_browser) - [CS 4560 guest lecture: Ladybird browser development](https://www.youtube.com/watch?v=zXYNUbyQ0pk)
 * [2024-04-10, 13:12:12](https://lobste.rs/s/s0vxwk/why_can_t_my_mom_email_me) - [Why Can't My Mom Email Me?](https://matduggan.com/why-cant-my-mom-email-me/)
