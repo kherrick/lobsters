@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-10, 14:51:32](https://lobste.rs/s/voxkwb/real_world_law_enforcement_breach_end_end) - [A Real-World Law-Enforcement Breach of End-to-End Encrypted Messaging (Real World Crypto 2024)](https://www.youtube.com/watch?v=AeKRS6_zxoc)
 * [2024-04-10, 13:28:57](https://lobste.rs/s/rtq9jm/cs_4560_guest_lecture_ladybird_browser) - [CS 4560 guest lecture: Ladybird browser development](https://www.youtube.com/watch?v=zXYNUbyQ0pk)
 * [2024-04-10, 13:12:12](https://lobste.rs/s/s0vxwk/why_can_t_my_mom_email_me) - [Why Can't My Mom Email Me?](https://matduggan.com/why-cant-my-mom-email-me/)
 * [2024-04-10, 12:15:47](https://lobste.rs/s/l6ecuh/eslint_plugin_paths_plugin_for_eslint) - [eslint-plugin-paths: A plugin for ESLint, to force use paths aliases from tsconfig over relative paths](https://github.com/vitonsky/eslint-plugin-paths)
@@ -15,7 +16,6 @@
 * [2024-04-09, 22:57:33](https://lobste.rs/s/ulqxj8/my_deployment_platform_is_shell_script) - [my deployment platform is a shell script](https://j3s.sh/thought/my-deployment-platform-is-a-shell-script.html)
 * [2024-04-09, 20:58:26](https://lobste.rs/s/jkfy3j/notes_on_how_use_llms_your_product) - [Notes on how to use LLMs in your product](https://lethain.com/mental-model-for-how-to-use-llms-in-products/)
 * [2024-04-09, 19:24:46](https://lobste.rs/s/16yrxt/crystal_1_12_0_is_released) - [Crystal 1.12.0 is released](https://crystal-lang.org/2024/04/09/1.12.0-released/)
-* [2024-04-09, 19:09:10](https://lobste.rs/s/gcmmqe/design_is_not_recoverable_from) - [Design is not recoverable from implementation](https://ericnormand.substack.com/p/design-is-not-recoverable-from-implementation)
 * [2024-04-09, 18:17:42](https://lobste.rs/s/bxcsem/testing_html_with_modern_css) - [Testing HTML With Modern CSS](https://heydonworks.com/article/testing-html-with-modern-css/)
 * [2024-04-09, 18:04:02](https://lobste.rs/s/myqnqs/async_rust) - [Async Rust](https://zed.dev/blog/zed-decoded-async-rust)
 * [2024-04-09, 16:14:16](https://lobste.rs/s/cnyev9/guile_hoot_scheme_wasm_compiler_0_4_0) - [Guile Hoot (Scheme->Wasm compiler) 0.4.0 released](https://spritely.institute/news/guile-hoot-v040-released.html)
