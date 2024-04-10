@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-10, 13:28:57",
+      "https://lobste.rs/s/rtq9jm/cs_4560_guest_lecture_ladybird_browser"
+    ],
+    [
+      "CS 4560 guest lecture: Ladybird browser development",
+      "https://www.youtube.com/watch?v=zXYNUbyQ0pk"
+    ]
+  ],
+  [
+    [
       "2024-04-10, 13:12:12",
       "https://lobste.rs/s/s0vxwk/why_can_t_my_mom_email_me"
     ],
@@ -237,16 +247,6 @@
     [
       "The server chose violence",
       "https://cliffle.com/blog/hubris-reply-fault/"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 04:01:34",
-      "https://lobste.rs/s/ai2klw/tsac_very_low_bitrate_audio_compression"
-    ],
-    [
-      "TSAC: Very Low Bitrate Audio Compression",
-      "https://bellard.org/tsac/"
     ]
   ]
 ]
