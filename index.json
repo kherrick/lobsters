@@ -71,12 +71,12 @@
   ],
   [
     [
-      "2024-04-10, 14:51:32",
-      "https://lobste.rs/s/voxkwb/real_world_law_enforcement_breach_end_end"
+      "2024-04-10, 13:28:57",
+      "https://lobste.rs/s/rtq9jm/cs_4560_guest_lecture_ladybird_browser"
     ],
     [
-      "A Real-World Law-Enforcement Breach of End-to-End Encrypted Messaging",
-      "https://www.youtube.com/watch?v=AeKRS6_zxoc"
+      "CS 4560 guest lecture: Ladybird browser development",
+      "https://www.youtube.com/watch?v=zXYNUbyQ0pk"
     ]
   ],
   [
@@ -127,6 +127,16 @@
     [
       "How can Rust be so fast in the TechEmpower Web Framework Benchmarks?",
       "https://kerkour.com/rust-fast-techempower-web-framework-benchmarks"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 10:55:41",
+      "https://lobste.rs/s/q1pm7s/history_cp_m_by_dr_gary_kildall_from_dr_dobb"
+    ],
+    [
+      "The History of CP/M, by Dr Gary Kildall (from Dr. Dobb's)",
+      "https://www.retrotechnology.com/dri/CPM_history_kildall.txt"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Notes on how to use LLMs in your product",
       "https://lethain.com/mental-model-for-how-to-use-llms-in-products/"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 18:17:42",
-      "https://lobste.rs/s/bxcsem/testing_html_with_modern_css"
-    ],
-    [
-      "Testing HTML With Modern CSS",
-      "https://heydonworks.com/article/testing-html-with-modern-css/"
     ]
   ],
   [
