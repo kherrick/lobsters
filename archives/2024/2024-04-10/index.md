@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-10](index.md)
 
+* [2024-04-10, 21:04:50](https://lobste.rs/s/wt0hkg/templang_fe_event_routing_elements) - [TempLang - FE event routing and elements in an abbreviated form](https://dev.to/firecrow8/introducing-templang-an-abbreviated-fe-framework-3em4)
 * [2024-04-10, 19:34:20](https://lobste.rs/s/harezb/notes_on_git_s_error_messages) - [Notes on git's error messages](https://jvns.ca/blog/2024/04/10/notes-on-git-error-messages/)
 * [2024-04-10, 19:04:34](https://lobste.rs/s/uy0rlf/code_search_is_hard) - [Code Search is Hard](https://blog.val.town/blog/search-notes/)
 * [2024-04-10, 17:12:04](https://lobste.rs/s/xylzwr/some_notes_on_for_loops) - [Some notes on For loops](https://buttondown.email/hillelwayne/archive/some-notes-on-for-loops/)
