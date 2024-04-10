@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-10, 02:05:03](https://lobste.rs/s/avvicz/delimited_continuations_demystified) - [Delimited Continuations, Demystified (2023)](https://www.youtube.com/watch?v=DRFsodbxHQo)
+* [2024-04-10, 02:04:32](https://lobste.rs/s/t2qwnx/c_compilers_disprove_fermat_s_last) - [C Compilers Disprove Fermat’s Last Theorem (2010)](https://blog.regehr.org/archives/140)
 * [2024-04-09, 23:45:26](https://lobste.rs/s/lhw1px/batbadbut_you_can_t_securely_execute) - [BatBadBut: You can't securely execute commands on Windows](https://flatt.tech/research/posts/batbadbut-you-cant-securely-execute-commands-on-windows/)
 * [2024-04-09, 22:57:33](https://lobste.rs/s/ulqxj8/my_deployment_platform_is_shell_script) - [my deployment platform is a shell script](https://j3s.sh/thought/my-deployment-platform-is-a-shell-script.html)
 * [2024-04-09, 20:58:26](https://lobste.rs/s/jkfy3j/notes_on_how_use_llms_your_product) - [Notes on how to use LLMs in your product](https://lethain.com/mental-model-for-how-to-use-llms-in-products/)
@@ -21,10 +23,8 @@
 * [2024-04-09, 08:26:32](https://lobste.rs/s/cf0lyw/how_i_tripped_over_debian_weak_keys) - [How I Tripped Over the Debian Weak Keys Vulnerability](https://www.hezmatt.org/~mpalmer/blog/2024/04/09/how-i-tripped-over-the-debian-weak-keys-vuln.html)
 * [2024-04-09, 07:33:49](https://lobste.rs/s/2q0ole/server_chose_violence) - [The server chose violence](https://cliffle.com/blog/hubris-reply-fault/)
 * [2024-04-09, 06:09:36](https://lobste.rs/s/blf69e/melt_backup_restore_ed25519_ssh_keys_with) - [melt: Backup and restore Ed25519 SSH keys with seed words](https://github.com/charmbracelet/melt)
-* [2024-04-09, 04:11:47](https://lobste.rs/s/uvfzir/llm_c_llm_training_simple_raw_c_cuda) - [llm.c: LLM training in simple, raw C/CUDA](https://github.com/karpathy/llm.c)
 * [2024-04-09, 04:01:34](https://lobste.rs/s/ai2klw/tsac_very_low_bitrate_audio_compression) - [TSAC: Very Low Bitrate Audio Compression](https://bellard.org/tsac/)
 * [2024-04-09, 00:51:38](https://lobste.rs/s/jkllxw/neco_coroutine_library_for_c) - [Neco: Coroutine library for C](https://github.com/tidwall/neco)
-* [2024-04-08, 17:32:30](https://lobste.rs/s/lrrdjb/wasi_0_2_launched) - [WASI 0.2 Launched](https://blog.sunfishcode.online/wasi-0-2/)
 
 ## [Archives](archives/index.md)
 
