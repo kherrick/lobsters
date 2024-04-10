@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-10, 10:56:53",
+      "https://lobste.rs/s/4fsnyq/how_can_rust_be_so_fast_techempower_web"
+    ],
+    [
+      "How can Rust be so fast in the TechEmpower Web Framework Benchmarks?",
+      "https://kerkour.com/rust-fast-techempower-web-framework-benchmarks"
+    ]
+  ],
+  [
+    [
+      "2024-04-10, 10:55:41",
+      "https://lobste.rs/s/q1pm7s/history_cp_m_by_dr_gary_kildall_from_dr_dobb"
+    ],
+    [
+      "The History of CP/M, by Dr Gary Kildall (from Dr. Dobb's)",
+      "https://www.retrotechnology.com/dri/CPM_history_kildall.txt"
+    ]
+  ],
+  [
+    [
       "2024-04-10, 09:12:07",
       "https://lobste.rs/s/wot82c/verified_curl"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-04-09, 16:26:58",
-      "https://lobste.rs/s/4gt9eu/bzip2_format_specification"
-    ],
-    [
-      "BZIP2: Format Specification",
-      "https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf"
-    ]
-  ],
-  [
-    [
       "2024-04-09, 16:14:16",
       "https://lobste.rs/s/cnyev9/guile_hoot_scheme_wasm_compiler_0_4_0"
     ],
@@ -237,16 +247,6 @@
     [
       "TSAC: Very Low Bitrate Audio Compression",
       "https://bellard.org/tsac/"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 00:51:38",
-      "https://lobste.rs/s/jkllxw/neco_coroutine_library_for_c"
-    ],
-    [
-      "Neco: Coroutine library for C",
-      "https://github.com/tidwall/neco"
     ]
   ]
 ]
