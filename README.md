@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-10, 07:24:01](https://lobste.rs/s/peujlb/flow_ipc_gets_open_sourced_zero_copy_ipc) - [Flow-IPC gets open-sourced (zero-copy IPC via Cap'n Proto, in modern C++)](https://github.com/Flow-IPC)
 * [2024-04-10, 03:45:19](https://lobste.rs/s/mhlhzb/mips_stacktrace_unexpected_journey) - [MIPS stacktrace: an unexpected journey](https://smeso.it/2024/03/02/mips-stacktrace-an-unexpected-journey.html)
-* [2024-04-10, 02:42:09](https://lobste.rs/s/uffowm/pilot_ping_based_information_lookup) - [PILOT: Ping-based Information Lookup and Outbound Transfer](https://github.com/dahvidschloss/PILOT)
 * [2024-04-10, 02:04:32](https://lobste.rs/s/t2qwnx/c_compilers_disprove_fermat_s_last) - [C Compilers Disprove Fermat’s Last Theorem (2010)](https://blog.regehr.org/archives/140)
 * [2024-04-09, 23:45:26](https://lobste.rs/s/lhw1px/batbadbut_you_can_t_securely_execute) - [BatBadBut: You can't securely execute commands on Windows](https://flatt.tech/research/posts/batbadbut-you-cant-securely-execute-commands-on-windows/)
 * [2024-04-09, 22:57:33](https://lobste.rs/s/ulqxj8/my_deployment_platform_is_shell_script) - [my deployment platform is a shell script](https://j3s.sh/thought/my-deployment-platform-is-a-shell-script.html)
