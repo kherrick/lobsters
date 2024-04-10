@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-04-10, 02:05:03",
+      "https://lobste.rs/s/avvicz/delimited_continuations_demystified"
+    ],
+    [
+      "Delimited Continuations, Demystified (2023)",
+      "https://www.youtube.com/watch?v=DRFsodbxHQo"
+    ]
+  ],
+  [
+    [
       "2024-04-10, 02:04:32",
       "https://lobste.rs/s/t2qwnx/c_compilers_disprove_fermat_s_last"
     ],
@@ -177,16 +187,6 @@
     [
       "Don't require people to change 'source code' to configure your programs",
       "https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigureNoSourceCodeChanges"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 11:29:46",
-      "https://lobste.rs/s/rsghgv/sel4_device_driver_framework_0_4_0"
-    ],
-    [
-      "seL4 Device Driver Framework 0.4.0",
-      "https://lists.sel4.systems/hyperkitty/list/devel@sel4.systems/thread/6QKUK5C5PNN6CUR2XEUR2SSFLTCTTXLL/"
     ]
   ],
   [
