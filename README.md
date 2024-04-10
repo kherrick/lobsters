@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-10, 15:49:13](https://lobste.rs/s/ssworw/how_i_write_tests_go) - [How I write tests in Go](https://blog.verygoodsoftwarenotvirus.ru/posts/testing-in-go/)
 * [2024-04-10, 15:12:17](https://lobste.rs/s/c711sj/ixsystems_no_one_is_being_marooned_by) - [iXsystems: No one is being 'marooned' by Debian focus](https://blocksandfiles.com/2024/04/08/ixsystems-no-one-is-getting-marooned/)
 * [2024-04-10, 15:11:45](https://lobste.rs/s/wdggdv/interactive_visualization_analytics_on) - [Interactive visualization and analytics on ADS-B data with ClickHouse](https://github.com/ClickHouse/adsb.exposed/)
 * [2024-04-10, 15:00:21](https://lobste.rs/s/ovts35/hermetic_cc_toolchain) - [Hermetic CC toolchain](https://github.com/uber/hermetic_cc_toolchain)
@@ -10,7 +11,6 @@
 * [2024-04-10, 11:46:54](https://lobste.rs/s/zfcis3/shell_history_is_your_best_productivity) - [Shell History Is Your Best Productivity Tool](https://martinheinz.dev/blog/110)
 * [2024-04-10, 11:14:09](https://lobste.rs/s/rar1ec/rust_security_advisory_for_standard) - [Rust - Security advisory for the standard library (CVE-2024-24576)](https://blog.rust-lang.org/2024/04/09/cve-2024-24576.html)
 * [2024-04-10, 10:56:53](https://lobste.rs/s/4fsnyq/how_can_rust_be_so_fast_techempower_web) - [How can Rust be so fast in the TechEmpower Web Framework Benchmarks?](https://kerkour.com/rust-fast-techempower-web-framework-benchmarks)
-* [2024-04-10, 10:55:41](https://lobste.rs/s/q1pm7s/history_cp_m_by_dr_gary_kildall_from_dr_dobb) - [The History of CP/M, by Dr Gary Kildall (from Dr. Dobb's)](https://www.retrotechnology.com/dri/CPM_history_kildall.txt)
 * [2024-04-10, 09:12:07](https://lobste.rs/s/wot82c/verified_curl) - [Verified curl](https://daniel.haxx.se/blog/2024/04/10/verified-curl/)
 * [2024-04-10, 09:07:43](https://lobste.rs/s/denejr/client_libraries_are_better_when_they) - [Client libraries are better when they have no API](https://csvbase.com/blog/7)
 * [2024-04-10, 02:04:32](https://lobste.rs/s/t2qwnx/c_compilers_disprove_fermat_s_last) - [C Compilers Disprove Fermat’s Last Theorem (2010)](https://blog.regehr.org/archives/140)

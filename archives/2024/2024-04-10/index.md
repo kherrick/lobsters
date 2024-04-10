@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-10](index.md)
 
+* [2024-04-10, 15:49:13](https://lobste.rs/s/ssworw/how_i_write_tests_go) - [How I write tests in Go](https://blog.verygoodsoftwarenotvirus.ru/posts/testing-in-go/)
 * [2024-04-10, 15:12:17](https://lobste.rs/s/c711sj/ixsystems_no_one_is_being_marooned_by) - [iXsystems: No one is being 'marooned' by Debian focus](https://blocksandfiles.com/2024/04/08/ixsystems-no-one-is-getting-marooned/)
 * [2024-04-10, 15:11:45](https://lobste.rs/s/wdggdv/interactive_visualization_analytics_on) - [Interactive visualization and analytics on ADS-B data with ClickHouse](https://github.com/ClickHouse/adsb.exposed/)
 * [2024-04-10, 15:00:21](https://lobste.rs/s/ovts35/hermetic_cc_toolchain) - [Hermetic CC toolchain](https://github.com/uber/hermetic_cc_toolchain)
