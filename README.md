@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-10, 19:04:34](https://lobste.rs/s/uy0rlf/code_search_is_hard) - [Code Search is Hard](https://blog.val.town/blog/search-notes/)
 * [2024-04-10, 17:12:04](https://lobste.rs/s/xylzwr/some_notes_on_for_loops) - [Some notes on For loops](https://buttondown.email/hillelwayne/archive/some-notes-on-for-loops/)
 * [2024-04-10, 16:03:54](https://lobste.rs/s/ym8hku/don_t_let_alloy_facts_make_your_specs) - [Don't let Alloy facts make your specs a fiction](https://www.hillelwayne.com/post/alloy-facts/)
 * [2024-04-10, 15:49:13](https://lobste.rs/s/ssworw/how_i_write_tests_go) - [How I write tests in Go](https://blog.verygoodsoftwarenotvirus.ru/posts/testing-in-go/)
 * [2024-04-10, 15:12:17](https://lobste.rs/s/c711sj/ixsystems_no_one_is_being_marooned_by) - [iXsystems: No one is being 'marooned' by Debian focus](https://blocksandfiles.com/2024/04/08/ixsystems-no-one-is-getting-marooned/)
-* [2024-04-10, 15:11:45](https://lobste.rs/s/wdggdv/interactive_visualization_analytics_on) - [Interactive visualization and analytics on ADS-B data with ClickHouse](https://github.com/ClickHouse/adsb.exposed/)
 * [2024-04-10, 15:00:21](https://lobste.rs/s/ovts35/hermetic_cc_toolchain) - [Hermetic CC toolchain](https://github.com/uber/hermetic_cc_toolchain)
 * [2024-04-10, 14:51:32](https://lobste.rs/s/voxkwb/real_world_law_enforcement_breach_end_end) - [A Real-World Law-Enforcement Breach of End-to-End Encrypted Messaging](https://www.youtube.com/watch?v=AeKRS6_zxoc)
 * [2024-04-10, 13:28:57](https://lobste.rs/s/rtq9jm/cs_4560_guest_lecture_ladybird_browser) - [CS 4560 guest lecture: Ladybird browser development](https://www.youtube.com/watch?v=zXYNUbyQ0pk)
