@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-04-10, 19:04:34](https://lobste.rs/s/uy0rlf/code_search_is_hard) - [Code Search is Hard](https://blog.val.town/blog/search-notes/)
+* [2024-04-10, 19:34:20](https://lobste.rs/s/harezb/notes_on_git_s_error_messages) - [Notes on git's error messages](https://jvns.ca/blog/2024/04/10/notes-on-git-error-messages/)
 * [2024-04-10, 17:12:04](https://lobste.rs/s/xylzwr/some_notes_on_for_loops) - [Some notes on For loops](https://buttondown.email/hillelwayne/archive/some-notes-on-for-loops/)
 * [2024-04-10, 16:03:54](https://lobste.rs/s/ym8hku/don_t_let_alloy_facts_make_your_specs) - [Don't let Alloy facts make your specs a fiction](https://www.hillelwayne.com/post/alloy-facts/)
 * [2024-04-10, 15:49:13](https://lobste.rs/s/ssworw/how_i_write_tests_go) - [How I write tests in Go](https://blog.verygoodsoftwarenotvirus.ru/posts/testing-in-go/)
