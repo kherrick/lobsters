@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-10, 09:12:07](https://lobste.rs/s/wot82c/verified_curl) - [Verified curl](https://daniel.haxx.se/blog/2024/04/10/verified-curl/)
+* [2024-04-10, 09:07:43](https://lobste.rs/s/denejr/client_libraries_are_better_when_they) - [Client libraries are better when they have no API](https://csvbase.com/blog/7)
 * [2024-04-10, 07:24:01](https://lobste.rs/s/peujlb/flow_ipc_gets_open_sourced_zero_copy_ipc) - [Flow-IPC gets open-sourced (zero-copy IPC via Cap'n Proto, in modern C++)](https://github.com/Flow-IPC)
-* [2024-04-10, 03:45:19](https://lobste.rs/s/mhlhzb/mips_stacktrace_unexpected_journey) - [MIPS stacktrace: an unexpected journey](https://smeso.it/2024/03/02/mips-stacktrace-an-unexpected-journey.html)
 * [2024-04-10, 02:04:32](https://lobste.rs/s/t2qwnx/c_compilers_disprove_fermat_s_last) - [C Compilers Disprove Fermat’s Last Theorem (2010)](https://blog.regehr.org/archives/140)
 * [2024-04-09, 23:45:26](https://lobste.rs/s/lhw1px/batbadbut_you_can_t_securely_execute) - [BatBadBut: You can't securely execute commands on Windows](https://flatt.tech/research/posts/batbadbut-you-cant-securely-execute-commands-on-windows/)
 * [2024-04-09, 22:57:33](https://lobste.rs/s/ulqxj8/my_deployment_platform_is_shell_script) - [my deployment platform is a shell script](https://j3s.sh/thought/my-deployment-platform-is-a-shell-script.html)
@@ -15,7 +16,6 @@
 * [2024-04-09, 15:45:39](https://lobste.rs/s/xfc18h/yeti_programming_language) - [YETI programming language](https://mth.github.io/yeti/)
 * [2024-04-09, 14:36:38](https://lobste.rs/s/st3zzo/lambda_screen_fractals_pure_lambda) - [Lambda Screen: Fractals in Pure Lambda Calculus](https://text.marvinborner.de/2024-03-25-02.html)
 * [2024-04-09, 14:07:03](https://lobste.rs/s/la8wz0/introducing_google_s_new_arm_based_cpu) - [Introducing Google’s new Arm-based CPU](https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu)
-* [2024-04-09, 12:39:35](https://lobste.rs/s/mm796q/ratarmount_access_large_archives_as) - [Ratarmount: Access large archives as a filesystem efficiently](https://github.com/mxmlnkn/ratarmount)
 * [2024-04-09, 12:35:01](https://lobste.rs/s/zhbe55/taskwarrior_3_0_released) - [Taskwarrior 3.0 Released](https://github.com/GothenburgBitFactory/taskwarrior/releases/tag/v3.0.0)
 * [2024-04-09, 12:01:01](https://lobste.rs/s/sjadl5/don_t_require_people_change_source_code) - [Don't require people to change 'source code' to configure your programs](https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigureNoSourceCodeChanges)
 * [2024-04-09, 11:29:46](https://lobste.rs/s/rsghgv/sel4_device_driver_framework_0_4_0) - [seL4 Device Driver Framework 0.4.0](https://lists.sel4.systems/hyperkitty/list/devel@sel4.systems/thread/6QKUK5C5PNN6CUR2XEUR2SSFLTCTTXLL/)
