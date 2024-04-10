@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-10, 11:14:09",
+      "https://lobste.rs/s/rar1ec/rust_security_advisory_for_standard"
+    ],
+    [
+      "Rust - Security advisory for the standard library (CVE-2024-24576)",
+      "https://blog.rust-lang.org/2024/04/09/cve-2024-24576.html"
+    ]
+  ],
+  [
+    [
       "2024-04-10, 10:56:53",
       "https://lobste.rs/s/4fsnyq/how_can_rust_be_so_fast_techempower_web"
     ],
@@ -227,16 +237,6 @@
     [
       "The server chose violence",
       "https://cliffle.com/blog/hubris-reply-fault/"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 06:09:36",
-      "https://lobste.rs/s/blf69e/melt_backup_restore_ed25519_ssh_keys_with"
-    ],
-    [
-      "melt: Backup and restore Ed25519 SSH keys with seed words",
-      "https://github.com/charmbracelet/melt"
     ]
   ],
   [
