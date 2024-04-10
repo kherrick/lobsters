@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-10](index.md)
 
+* [2024-04-10, 10:56:53](https://lobste.rs/s/4fsnyq/how_can_rust_be_so_fast_techempower_web) - [How can Rust be so fast in the TechEmpower Web Framework Benchmarks?](https://kerkour.com/rust-fast-techempower-web-framework-benchmarks)
+* [2024-04-10, 10:55:41](https://lobste.rs/s/q1pm7s/history_cp_m_by_dr_gary_kildall_from_dr_dobb) - [The History of CP/M, by Dr Gary Kildall (from Dr. Dobb's)](https://www.retrotechnology.com/dri/CPM_history_kildall.txt)
 * [2024-04-10, 09:12:07](https://lobste.rs/s/wot82c/verified_curl) - [Verified curl](https://daniel.haxx.se/blog/2024/04/10/verified-curl/)
 * [2024-04-10, 09:07:43](https://lobste.rs/s/denejr/client_libraries_are_better_when_they) - [Client libraries are better when they have no API](https://csvbase.com/blog/7)
 * [2024-04-10, 07:24:01](https://lobste.rs/s/peujlb/flow_ipc_gets_open_sourced_zero_copy_ipc) - [Flow-IPC gets open-sourced (zero-copy IPC via Cap'n Proto, in modern C++)](https://github.com/Flow-IPC)
