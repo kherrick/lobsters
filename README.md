@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-11, 03:55:53](https://lobste.rs/s/bwrcrx/fixing_bug_with_c_s_operator) - [Fixing a bug with C++'s >>= operator](https://astrid.tech/2024/03/19/1/maybe-monad-cpp/)
 * [2024-04-11, 03:53:02](https://lobste.rs/s/wh8r1k/crystalruby_gem_embed_crystal_code) - [crystalruby gem: Embed Crystal code directly in Ruby](https://github.com/wouterken/crystalruby)
 * [2024-04-10, 21:04:50](https://lobste.rs/s/wt0hkg/templang_fe_event_routing_elements) - [TempLang - FE event routing and elements in an abbreviated form](https://dev.to/firecrow8/introducing-templang-an-abbreviated-fe-framework-3em4)
 * [2024-04-10, 19:34:20](https://lobste.rs/s/harezb/notes_on_git_s_error_messages) - [Notes on git's error messages](https://jvns.ca/blog/2024/04/10/notes-on-git-error-messages/)
@@ -9,7 +10,6 @@
 * [2024-04-10, 15:49:13](https://lobste.rs/s/ssworw/how_i_write_tests_go) - [How I write tests in Go](https://blog.verygoodsoftwarenotvirus.ru/posts/testing-in-go/)
 * [2024-04-10, 15:12:17](https://lobste.rs/s/c711sj/ixsystems_no_one_is_being_marooned_by) - [iXsystems: No one is being 'marooned' by Debian focus](https://blocksandfiles.com/2024/04/08/ixsystems-no-one-is-getting-marooned/)
 * [2024-04-10, 15:00:21](https://lobste.rs/s/ovts35/hermetic_cc_toolchain) - [Hermetic CC toolchain](https://github.com/uber/hermetic_cc_toolchain)
-* [2024-04-10, 14:51:32](https://lobste.rs/s/voxkwb/real_world_law_enforcement_breach_end_end) - [A Real-World Law-Enforcement Breach of End-to-End Encrypted Messaging](https://www.youtube.com/watch?v=AeKRS6_zxoc)
 * [2024-04-10, 13:28:57](https://lobste.rs/s/rtq9jm/cs_4560_guest_lecture_ladybird_browser) - [CS 4560 guest lecture: Ladybird browser development](https://www.youtube.com/watch?v=zXYNUbyQ0pk)
 * [2024-04-10, 13:12:12](https://lobste.rs/s/s0vxwk/why_can_t_my_mom_email_me) - [Why Can't My Mom Email Me?](https://matduggan.com/why-cant-my-mom-email-me/)
 * [2024-04-10, 12:15:47](https://lobste.rs/s/l6ecuh/eslint_plugin_paths_plugin_for_eslint) - [eslint-plugin-paths: A plugin for ESLint, to force use paths aliases from tsconfig over relative paths](https://github.com/vitonsky/eslint-plugin-paths)
