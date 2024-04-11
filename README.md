@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-11, 11:22:28](https://lobste.rs/s/czt99s/quantum_algorithms_for_lattice_problems) - [Quantum Algorithms for Lattice Problems](https://eprint.iacr.org/2024/555)
 * [2024-04-11, 11:07:46](https://lobste.rs/s/vfee1g/what_makes_great_technical_blog) - [What makes a great technical blog](https://notes.eatonphil.com/2024-04-10-what-makes-a-great-tech-blog.html)
 * [2024-04-11, 09:47:44](https://lobste.rs/s/joqbxh/browser_security_bugs_aren_t_javascript) - [Browser Security Bugs that Aren’t: JavaScript in PDF](https://textslashplain.com/2024/04/10/browser-security-bugs-that-arent-javascript-in-pdf/)
 * [2024-04-11, 09:35:31](https://lobste.rs/s/8hqygw/zk_plain_text_note_taking_assistant) - [zk: A plain text note-taking assistant](https://github.com/zk-org/zk)
@@ -9,7 +10,6 @@
 * [2024-04-11, 07:47:27](https://lobste.rs/s/sqmvws/building_postgresql_extensions) - [Building PostgreSQL Extensions: Dropping Extensions and Cleanup](https://www.crunchydata.com/blog/building-postgresql-extensions-dropping-extensions-and-cleanup)
 * [2024-04-11, 03:55:53](https://lobste.rs/s/bwrcrx/fixing_bug_with_c_s_operator) - [Fixing a bug with C++'s >>= operator](https://astrid.tech/2024/03/19/1/maybe-monad-cpp/)
 * [2024-04-11, 03:53:02](https://lobste.rs/s/wh8r1k/crystalruby_gem_embed_crystal_code) - [crystalruby gem: Embed Crystal code directly in Ruby](https://github.com/wouterken/crystalruby)
-* [2024-04-10, 21:04:50](https://lobste.rs/s/wt0hkg/templang_fe_event_routing_elements) - [TempLang - FE event routing and elements in an abbreviated form](https://dev.to/firecrow8/introducing-templang-an-abbreviated-fe-framework-3em4)
 * [2024-04-10, 19:34:20](https://lobste.rs/s/harezb/notes_on_git_s_error_messages) - [Notes on git's error messages](https://jvns.ca/blog/2024/04/10/notes-on-git-error-messages/)
 * [2024-04-10, 19:04:34](https://lobste.rs/s/uy0rlf/code_search_is_hard) - [Code Search is Hard](https://blog.val.town/blog/search-notes/)
 * [2024-04-10, 17:12:04](https://lobste.rs/s/xylzwr/some_notes_on_for_loops) - [Some notes on For loops](https://buttondown.email/hillelwayne/archive/some-notes-on-for-loops/)
