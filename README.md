@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-11, 16:05:21](https://lobste.rs/s/evbqka/ushering_thermodynamic_future) - [Ushering in the Thermodynamic Future - Litepaper](https://www.extropic.ai/future)
 * [2024-04-11, 15:43:16](https://lobste.rs/s/utyzwv/optimizing_webkit_safari_for) - [Optimizing WebKit & Safari for Speedometer 3.0](https://webkit.org/blog/15249/optimizing-webkit-safari-for-speedometer-3-0/)
 * [2024-04-11, 14:43:33](https://lobste.rs/s/ddwvhx/interactive_quine) - [An interactive quine](https://www.pbt.dev/blog/quine/)
 * [2024-04-11, 14:18:29](https://lobste.rs/s/qdv6tx/learn_git_through_playing_game) - [Learn git through playing a game](https://ohmygit.org/)
@@ -21,7 +22,6 @@
 * [2024-04-10, 13:12:12](https://lobste.rs/s/s0vxwk/why_can_t_my_mom_email_me) - [Why Can't My Mom Email Me?](https://matduggan.com/why-cant-my-mom-email-me/)
 * [2024-04-10, 11:46:54](https://lobste.rs/s/zfcis3/shell_history_is_your_best_productivity) - [Shell History Is Your Best Productivity Tool](https://martinheinz.dev/blog/110)
 * [2024-04-10, 11:14:09](https://lobste.rs/s/rar1ec/rust_security_advisory_for_standard) - [Rust - Security advisory for the standard library (CVE-2024-24576)](https://blog.rust-lang.org/2024/04/09/cve-2024-24576.html)
-* [2024-04-10, 10:56:53](https://lobste.rs/s/4fsnyq/how_can_rust_be_so_fast_techempower_web) - [How can Rust be so fast in the TechEmpower Web Framework Benchmarks?](https://kerkour.com/rust-fast-techempower-web-framework-benchmarks)
 * [2024-04-10, 09:12:07](https://lobste.rs/s/wot82c/verified_curl) - [Verified curl](https://daniel.haxx.se/blog/2024/04/10/verified-curl/)
 * [2024-04-10, 09:07:43](https://lobste.rs/s/denejr/client_libraries_are_better_when_they) - [Client libraries are better when they have no API](https://csvbase.com/blog/7)
 * [2024-04-09, 22:57:33](https://lobste.rs/s/ulqxj8/my_deployment_platform_is_shell_script) - [my deployment platform is a shell script](https://j3s.sh/thought/my-deployment-platform-is-a-shell-script.html)

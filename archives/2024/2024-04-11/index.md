@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-11](index.md)
 
+* [2024-04-11, 16:05:21](https://lobste.rs/s/evbqka/ushering_thermodynamic_future) - [Ushering in the Thermodynamic Future - Litepaper](https://www.extropic.ai/future)
 * [2024-04-11, 15:43:16](https://lobste.rs/s/utyzwv/optimizing_webkit_safari_for) - [Optimizing WebKit & Safari for Speedometer 3.0](https://webkit.org/blog/15249/optimizing-webkit-safari-for-speedometer-3-0/)
 * [2024-04-11, 14:43:33](https://lobste.rs/s/ddwvhx/interactive_quine) - [An interactive quine](https://www.pbt.dev/blog/quine/)
 * [2024-04-11, 14:18:29](https://lobste.rs/s/qdv6tx/learn_git_through_playing_game) - [Learn git through playing a game](https://ohmygit.org/)
