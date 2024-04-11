@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-11, 14:18:29",
+      "https://lobste.rs/s/qdv6tx/learn_git_through_playing_game"
+    ],
+    [
+      "Learn git through playing a game",
+      "https://ohmygit.org/"
+    ]
+  ],
+  [
+    [
       "2024-04-11, 13:50:58",
       "https://lobste.rs/s/knrbyb/circular_buffer_performance_trick"
     ],
@@ -157,16 +167,6 @@
     [
       "iXsystems: No one is being 'marooned' by Debian focus",
       "https://blocksandfiles.com/2024/04/08/ixsystems-no-one-is-getting-marooned/"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 15:00:21",
-      "https://lobste.rs/s/ovts35/hermetic_cc_toolchain"
-    ],
-    [
-      "Hermetic CC toolchain",
-      "https://github.com/uber/hermetic_cc_toolchain"
     ]
   ],
   [
