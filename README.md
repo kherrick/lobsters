@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-11, 04:46:10](https://lobste.rs/s/jyopbv/when_how_c_variables_are_initialized) - [When and how C++ variables are initialized?](https://www.sandordargo.com/blog/2024/04/10/initializations-part-1)
 * [2024-04-11, 03:55:53](https://lobste.rs/s/bwrcrx/fixing_bug_with_c_s_operator) - [Fixing a bug with C++'s >>= operator](https://astrid.tech/2024/03/19/1/maybe-monad-cpp/)
 * [2024-04-11, 03:53:02](https://lobste.rs/s/wh8r1k/crystalruby_gem_embed_crystal_code) - [crystalruby gem: Embed Crystal code directly in Ruby](https://github.com/wouterken/crystalruby)
 * [2024-04-10, 21:04:50](https://lobste.rs/s/wt0hkg/templang_fe_event_routing_elements) - [TempLang - FE event routing and elements in an abbreviated form](https://dev.to/firecrow8/introducing-templang-an-abbreviated-fe-framework-3em4)
@@ -23,7 +24,6 @@
 * [2024-04-09, 22:57:33](https://lobste.rs/s/ulqxj8/my_deployment_platform_is_shell_script) - [my deployment platform is a shell script](https://j3s.sh/thought/my-deployment-platform-is-a-shell-script.html)
 * [2024-04-09, 20:58:26](https://lobste.rs/s/jkfy3j/notes_on_how_use_llms_your_product) - [Notes on how to use LLMs in your product](https://lethain.com/mental-model-for-how-to-use-llms-in-products/)
 * [2024-04-09, 18:04:02](https://lobste.rs/s/myqnqs/async_rust) - [Async Rust](https://zed.dev/blog/zed-decoded-async-rust)
-* [2024-04-09, 16:14:16](https://lobste.rs/s/cnyev9/guile_hoot_scheme_wasm_compiler_0_4_0) - [Guile Hoot (Scheme->Wasm compiler) 0.4.0 released](https://spritely.institute/news/guile-hoot-v040-released.html)
 * [2024-04-09, 12:01:01](https://lobste.rs/s/sjadl5/don_t_require_people_change_source_code) - [Don't require people to change 'source code' to configure your programs](https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigureNoSourceCodeChanges)
 
 ## [Archives](archives/index.md)
