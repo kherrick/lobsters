@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-11](index.md)
 
+* [2024-04-11, 09:35:31](https://lobste.rs/s/8hqygw/zk_plain_text_note_taking_assistant) - [zk: A plain text note-taking assistant](https://github.com/zk-org/zk)
 * [2024-04-11, 09:14:49](https://lobste.rs/s/vg3hkp/going_circles_without_real_time_clock) - [Going in circles without a real-time clock](https://rachelbythebay.com/w/2024/04/10/rtc/)
 * [2024-04-11, 08:11:17](https://lobste.rs/s/wpsg1w/share_with_care_breaking_e2ee_nextcloud) - [Share with Care: Breaking E2EE in Nextcloud](https://eprint.iacr.org/2024/546)
 * [2024-04-11, 08:07:53](https://lobste.rs/s/fv7pco/if_inheritance_is_so_bad_why_does_everyone) - [If Inheritance is so bad, why does everyone use it?](https://buttondown.email/hillelwayne/archive/if-inheritance-is-so-bad-why-does-everyone-use-it/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-11, 09:35:31](https://lobste.rs/s/8hqygw/zk_plain_text_note_taking_assistant) - [zk: A plain text note-taking assistant](https://github.com/zk-org/zk)
 * [2024-04-11, 09:14:49](https://lobste.rs/s/vg3hkp/going_circles_without_real_time_clock) - [Going in circles without a real-time clock](https://rachelbythebay.com/w/2024/04/10/rtc/)
 * [2024-04-11, 08:11:17](https://lobste.rs/s/wpsg1w/share_with_care_breaking_e2ee_nextcloud) - [Share with Care: Breaking E2EE in Nextcloud](https://eprint.iacr.org/2024/546)
 * [2024-04-11, 08:07:53](https://lobste.rs/s/fv7pco/if_inheritance_is_so_bad_why_does_everyone) - [If Inheritance is so bad, why does everyone use it?](https://buttondown.email/hillelwayne/archive/if-inheritance-is-so-bad-why-does-everyone-use-it/)
@@ -24,7 +25,6 @@
 * [2024-04-10, 09:12:07](https://lobste.rs/s/wot82c/verified_curl) - [Verified curl](https://daniel.haxx.se/blog/2024/04/10/verified-curl/)
 * [2024-04-10, 09:07:43](https://lobste.rs/s/denejr/client_libraries_are_better_when_they) - [Client libraries are better when they have no API](https://csvbase.com/blog/7)
 * [2024-04-09, 22:57:33](https://lobste.rs/s/ulqxj8/my_deployment_platform_is_shell_script) - [my deployment platform is a shell script](https://j3s.sh/thought/my-deployment-platform-is-a-shell-script.html)
-* [2024-04-09, 18:04:02](https://lobste.rs/s/myqnqs/async_rust) - [Async Rust](https://zed.dev/blog/zed-decoded-async-rust)
 
 ## [Archives](archives/index.md)
 
