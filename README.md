@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-11, 08:11:17](https://lobste.rs/s/wpsg1w/share_with_care_breaking_e2ee_nextcloud) - [Share with Care: Breaking E2EE in Nextcloud](https://eprint.iacr.org/2024/546)
+* [2024-04-11, 08:07:53](https://lobste.rs/s/fv7pco/if_inheritance_is_so_bad_why_does_everyone) - [If Inheritance is so bad, why does everyone use it?](https://buttondown.email/hillelwayne/archive/if-inheritance-is-so-bad-why-does-everyone-use-it/)
 * [2024-04-11, 07:47:27](https://lobste.rs/s/sqmvws/building_postgresql_extensions) - [Building PostgreSQL Extensions: Dropping Extensions and Cleanup](https://www.crunchydata.com/blog/building-postgresql-extensions-dropping-extensions-and-cleanup)
 * [2024-04-11, 04:46:10](https://lobste.rs/s/jyopbv/when_how_c_variables_are_initialized) - [When and how C++ variables are initialized?](https://www.sandordargo.com/blog/2024/04/10/initializations-part-1)
 * [2024-04-11, 03:55:53](https://lobste.rs/s/bwrcrx/fixing_bug_with_c_s_operator) - [Fixing a bug with C++'s >>= operator](https://astrid.tech/2024/03/19/1/maybe-monad-cpp/)
@@ -21,10 +23,8 @@
 * [2024-04-10, 09:12:07](https://lobste.rs/s/wot82c/verified_curl) - [Verified curl](https://daniel.haxx.se/blog/2024/04/10/verified-curl/)
 * [2024-04-10, 09:07:43](https://lobste.rs/s/denejr/client_libraries_are_better_when_they) - [Client libraries are better when they have no API](https://csvbase.com/blog/7)
 * [2024-04-10, 02:04:32](https://lobste.rs/s/t2qwnx/c_compilers_disprove_fermat_s_last) - [C Compilers Disprove Fermat’s Last Theorem (2010)](https://blog.regehr.org/archives/140)
-* [2024-04-09, 23:45:26](https://lobste.rs/s/lhw1px/batbadbut_you_can_t_securely_execute) - [BatBadBut: You can't securely execute commands on Windows](https://flatt.tech/research/posts/batbadbut-you-cant-securely-execute-commands-on-windows/)
 * [2024-04-09, 22:57:33](https://lobste.rs/s/ulqxj8/my_deployment_platform_is_shell_script) - [my deployment platform is a shell script](https://j3s.sh/thought/my-deployment-platform-is-a-shell-script.html)
 * [2024-04-09, 18:04:02](https://lobste.rs/s/myqnqs/async_rust) - [Async Rust](https://zed.dev/blog/zed-decoded-async-rust)
-* [2024-04-09, 12:01:01](https://lobste.rs/s/sjadl5/don_t_require_people_change_source_code) - [Don't require people to change 'source code' to configure your programs](https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigureNoSourceCodeChanges)
 
 ## [Archives](archives/index.md)
 
