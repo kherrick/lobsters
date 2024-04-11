@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-11](index.md)
 
+* [2024-04-11, 18:45:34](https://lobste.rs/s/sbeflu/improve_performance_you_rust_functions) - [Improve performance of you Rust functions by const currying](https://blog.cocl2.com/posts/const-currying-rs/)
+* [2024-04-11, 18:42:49](https://lobste.rs/s/ozenpy/fivefold_slower_compared_go_optimizing) - [Fivefold Slower Compared to Go? Optimizing Rust's Protobuf Decoding Performance](https://www.greptime.com/blogs/2024-04-09-rust-protobuf-performance)
 * [2024-04-11, 16:45:01](https://lobste.rs/s/e8uyo5/simple_beauty_xor_floating_point) - [The Simple Beauty of XOR Floating Point Compression](https://clemenswinter.com/2024/04/07/the-simple-beauty-of-xor-floating-point-compression/)
 * [2024-04-11, 16:43:45](https://lobste.rs/s/hgtpg0/why_is_there_no_realloc_takes_number_bytes) - [Why is there no realloc that takes the number of bytes to copy?](https://shift.click/blog/missing-alloc-api/)
 * [2024-04-11, 16:38:12](https://lobste.rs/s/kkoygg/our_response_hashicorp_s_cease_desist) - [Our Response to Hashicorp's Cease and Desist Letter | OpenTofu](https://opentofu.org/blog/our-response-to-hashicorps-cease-and-desist/)
