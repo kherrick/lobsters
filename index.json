@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-11, 18:45:34",
+      "https://lobste.rs/s/sbeflu/improve_performance_you_rust_functions"
+    ],
+    [
+      "Improve performance of you Rust functions by const currying",
+      "https://blog.cocl2.com/posts/const-currying-rs/"
+    ]
+  ],
+  [
+    [
+      "2024-04-11, 18:42:49",
+      "https://lobste.rs/s/ozenpy/fivefold_slower_compared_go_optimizing"
+    ],
+    [
+      "Fivefold Slower Compared to Go? Optimizing Rust's Protobuf Decoding Performance",
+      "https://www.greptime.com/blogs/2024-04-09-rust-protobuf-performance"
+    ]
+  ],
+  [
+    [
       "2024-04-11, 16:45:01",
       "https://lobste.rs/s/e8uyo5/simple_beauty_xor_floating_point"
     ],
@@ -67,16 +87,6 @@
     [
       "Circular Buffer Performance Trick",
       "https://cybernetist.com/2024/04/11/circular-buffer-performance-trick/"
-    ]
-  ],
-  [
-    [
-      "2024-04-11, 11:22:28",
-      "https://lobste.rs/s/czt99s/quantum_algorithms_for_lattice_problems"
-    ],
-    [
-      "Quantum Algorithms for Lattice Problems",
-      "https://eprint.iacr.org/2024/555"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Shell History Is Your Best Productivity Tool",
       "https://martinheinz.dev/blog/110"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 11:14:09",
-      "https://lobste.rs/s/rar1ec/rust_security_advisory_for_standard"
-    ],
-    [
-      "Rust - Security advisory for the standard library (CVE-2024-24576)",
-      "https://blog.rust-lang.org/2024/04/09/cve-2024-24576.html"
     ]
   ],
   [
