@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-11](index.md)
 
+* [2024-04-11, 12:52:31](https://lobste.rs/s/qazbje/blog_writing_for_developers) - [Blog Writing for Developers](https://rmoff.net/2023/07/19/blog-writing-for-developers/)
 * [2024-04-11, 11:22:28](https://lobste.rs/s/czt99s/quantum_algorithms_for_lattice_problems) - [Quantum Algorithms for Lattice Problems](https://eprint.iacr.org/2024/555)
 * [2024-04-11, 11:07:46](https://lobste.rs/s/vfee1g/what_makes_great_technical_blog) - [What makes a great technical blog](https://notes.eatonphil.com/2024-04-10-what-makes-a-great-tech-blog.html)
 * [2024-04-11, 09:47:44](https://lobste.rs/s/joqbxh/browser_security_bugs_aren_t_javascript) - [Browser Security Bugs that Aren’t: JavaScript in PDF](https://textslashplain.com/2024/04/10/browser-security-bugs-that-arent-javascript-in-pdf/)
