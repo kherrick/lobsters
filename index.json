@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-04-11, 16:45:01",
+      "https://lobste.rs/s/e8uyo5/simple_beauty_xor_floating_point"
+    ],
+    [
+      "The Simple Beauty of XOR Floating Point Compression",
+      "https://clemenswinter.com/2024/04/07/the-simple-beauty-of-xor-floating-point-compression/"
+    ]
+  ],
+  [
+    [
+      "2024-04-11, 16:43:45",
+      "https://lobste.rs/s/hgtpg0/why_is_there_no_realloc_takes_number_bytes"
+    ],
+    [
+      "Why is there no realloc that takes the number of bytes to copy?",
+      "https://shift.click/blog/missing-alloc-api/"
+    ]
+  ],
+  [
+    [
+      "2024-04-11, 16:38:12",
+      "https://lobste.rs/s/kkoygg/our_response_hashicorp_s_cease_desist"
+    ],
+    [
+      "Our Response to Hashicorp's Cease and Desist Letter | OpenTofu",
+      "https://opentofu.org/blog/our-response-to-hashicorps-cease-and-desist/"
+    ]
+  ],
+  [
+    [
       "2024-04-11, 16:05:21",
       "https://lobste.rs/s/evbqka/ushering_thermodynamic_future"
     ],
@@ -31,32 +61,12 @@
   ],
   [
     [
-      "2024-04-11, 14:18:29",
-      "https://lobste.rs/s/qdv6tx/learn_git_through_playing_game"
-    ],
-    [
-      "Learn git through playing a game",
-      "https://ohmygit.org/"
-    ]
-  ],
-  [
-    [
       "2024-04-11, 13:50:58",
       "https://lobste.rs/s/knrbyb/circular_buffer_performance_trick"
     ],
     [
       "Circular Buffer Performance Trick",
       "https://cybernetist.com/2024/04/11/circular-buffer-performance-trick/"
-    ]
-  ],
-  [
-    [
-      "2024-04-11, 13:30:14",
-      "https://lobste.rs/s/dpxvqc/hermit_is_hermetic_reproducible_sandbox"
-    ],
-    [
-      "Hermit is a hermetic and reproducible sandbox for running programs",
-      "https://github.com/facebookexperimental/hermit"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Notes on git's error messages",
       "https://jvns.ca/blog/2024/04/10/notes-on-git-error-messages/"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 17:12:04",
-      "https://lobste.rs/s/xylzwr/some_notes_on_for_loops"
-    ],
-    [
-      "Some notes on For loops",
-      "https://buttondown.email/hillelwayne/archive/some-notes-on-for-loops/"
     ]
   ],
   [
