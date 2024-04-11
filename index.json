@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-11, 16:05:21",
+      "https://lobste.rs/s/evbqka/ushering_thermodynamic_future"
+    ],
+    [
+      "Ushering in the Thermodynamic Future - Litepaper",
+      "https://www.extropic.ai/future"
+    ]
+  ],
+  [
+    [
       "2024-04-11, 15:43:16",
       "https://lobste.rs/s/utyzwv/optimizing_webkit_safari_for"
     ],
@@ -207,16 +217,6 @@
     [
       "Rust - Security advisory for the standard library (CVE-2024-24576)",
       "https://blog.rust-lang.org/2024/04/09/cve-2024-24576.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 10:56:53",
-      "https://lobste.rs/s/4fsnyq/how_can_rust_be_so_fast_techempower_web"
-    ],
-    [
-      "How can Rust be so fast in the TechEmpower Web Framework Benchmarks?",
-      "https://kerkour.com/rust-fast-techempower-web-framework-benchmarks"
     ]
   ],
   [
