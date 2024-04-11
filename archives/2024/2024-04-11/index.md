@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-11](index.md)
 
+* [2024-04-11, 13:50:58](https://lobste.rs/s/knrbyb/circular_buffer_performance_trick) - [Circular Buffer Performance Trick](https://cybernetist.com/2024/04/11/circular-buffer-performance-trick/)
 * [2024-04-11, 13:30:14](https://lobste.rs/s/dpxvqc/hermit_is_hermetic_reproducible_sandbox) - [Hermit is a hermetic and reproducible sandbox for running programs](https://github.com/facebookexperimental/hermit)
 * [2024-04-11, 12:52:31](https://lobste.rs/s/qazbje/blog_writing_for_developers) - [Blog Writing for Developers](https://rmoff.net/2023/07/19/blog-writing-for-developers/)
 * [2024-04-11, 11:22:28](https://lobste.rs/s/czt99s/quantum_algorithms_for_lattice_problems) - [Quantum Algorithms for Lattice Problems](https://eprint.iacr.org/2024/555)

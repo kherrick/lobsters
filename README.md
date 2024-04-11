@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-11, 13:50:58](https://lobste.rs/s/knrbyb/circular_buffer_performance_trick) - [Circular Buffer Performance Trick](https://cybernetist.com/2024/04/11/circular-buffer-performance-trick/)
 * [2024-04-11, 13:30:14](https://lobste.rs/s/dpxvqc/hermit_is_hermetic_reproducible_sandbox) - [Hermit is a hermetic and reproducible sandbox for running programs](https://github.com/facebookexperimental/hermit)
 * [2024-04-11, 12:52:31](https://lobste.rs/s/qazbje/blog_writing_for_developers) - [Blog Writing for Developers](https://rmoff.net/2023/07/19/blog-writing-for-developers/)
 * [2024-04-11, 11:22:28](https://lobste.rs/s/czt99s/quantum_algorithms_for_lattice_problems) - [Quantum Algorithms for Lattice Problems](https://eprint.iacr.org/2024/555)
@@ -16,7 +17,6 @@
 * [2024-04-10, 16:03:54](https://lobste.rs/s/ym8hku/don_t_let_alloy_facts_make_your_specs) - [Don't let Alloy facts make your specs a fiction](https://www.hillelwayne.com/post/alloy-facts/)
 * [2024-04-10, 15:49:13](https://lobste.rs/s/ssworw/how_i_write_tests_go) - [How I write tests in Go](https://blog.verygoodsoftwarenotvirus.ru/posts/testing-in-go/)
 * [2024-04-10, 15:12:17](https://lobste.rs/s/c711sj/ixsystems_no_one_is_being_marooned_by) - [iXsystems: No one is being 'marooned' by Debian focus](https://blocksandfiles.com/2024/04/08/ixsystems-no-one-is-getting-marooned/)
-* [2024-04-10, 15:00:21](https://lobste.rs/s/ovts35/hermetic_cc_toolchain) - [Hermetic CC toolchain](https://github.com/uber/hermetic_cc_toolchain)
 * [2024-04-10, 13:28:57](https://lobste.rs/s/rtq9jm/cs_4560_guest_lecture_ladybird_browser) - [CS 4560 guest lecture: Ladybird browser development](https://www.youtube.com/watch?v=zXYNUbyQ0pk)
 * [2024-04-10, 13:12:12](https://lobste.rs/s/s0vxwk/why_can_t_my_mom_email_me) - [Why Can't My Mom Email Me?](https://matduggan.com/why-cant-my-mom-email-me/)
 * [2024-04-10, 11:46:54](https://lobste.rs/s/zfcis3/shell_history_is_your_best_productivity) - [Shell History Is Your Best Productivity Tool](https://martinheinz.dev/blog/110)
