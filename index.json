@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2024-04-11, 13:30:14",
+      "https://lobste.rs/s/dpxvqc/hermit_is_hermetic_reproducible_sandbox"
+    ],
+    [
+      "Hermit is a hermetic and reproducible sandbox for running programs",
+      "https://github.com/facebookexperimental/hermit"
+    ]
+  ],
+  [
+    [
       "2024-04-11, 11:07:46",
       "https://lobste.rs/s/vfee1g/what_makes_great_technical_blog"
     ],
@@ -217,16 +227,6 @@
     [
       "Shell History Is Your Best Productivity Tool",
       "https://martinheinz.dev/blog/110"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 09:12:07",
-      "https://lobste.rs/s/wot82c/verified_curl"
-    ],
-    [
-      "Verified curl",
-      "https://daniel.haxx.se/blog/2024/04/10/verified-curl/"
     ]
   ],
   [
