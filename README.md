@@ -10,6 +10,7 @@
 * [2024-04-11, 14:43:33](https://lobste.rs/s/ddwvhx/interactive_quine) - [An interactive quine](https://www.pbt.dev/blog/quine/)
 * [2024-04-11, 14:18:29](https://lobste.rs/s/qdv6tx/learn_git_through_playing_game) - [Learn git through playing a game](https://ohmygit.org/)
 * [2024-04-11, 13:50:58](https://lobste.rs/s/knrbyb/circular_buffer_performance_trick) - [Circular Buffer Performance Trick](https://cybernetist.com/2024/04/11/circular-buffer-performance-trick/)
+* [2024-04-11, 13:30:14](https://lobste.rs/s/dpxvqc/hermit_is_hermetic_reproducible_sandbox) - [Hermit is a hermetic and reproducible sandbox for running programs](https://github.com/facebookexperimental/hermit)
 * [2024-04-11, 11:07:46](https://lobste.rs/s/vfee1g/what_makes_great_technical_blog) - [What makes a great technical blog](https://notes.eatonphil.com/2024-04-10-what-makes-a-great-tech-blog.html)
 * [2024-04-11, 09:47:44](https://lobste.rs/s/joqbxh/browser_security_bugs_aren_t_javascript) - [Browser Security Bugs that Aren’t: JavaScript in PDF](https://textslashplain.com/2024/04/10/browser-security-bugs-that-arent-javascript-in-pdf/)
 * [2024-04-11, 09:35:31](https://lobste.rs/s/8hqygw/zk_plain_text_note_taking_assistant) - [zk: A plain text note-taking assistant](https://github.com/zk-org/zk)
@@ -22,7 +23,6 @@
 * [2024-04-10, 15:12:17](https://lobste.rs/s/c711sj/ixsystems_no_one_is_being_marooned_by) - [iXsystems: No one is being 'marooned' by Debian focus](https://blocksandfiles.com/2024/04/08/ixsystems-no-one-is-getting-marooned/)
 * [2024-04-10, 13:12:12](https://lobste.rs/s/s0vxwk/why_can_t_my_mom_email_me) - [Why Can't My Mom Email Me?](https://matduggan.com/why-cant-my-mom-email-me/)
 * [2024-04-10, 11:46:54](https://lobste.rs/s/zfcis3/shell_history_is_your_best_productivity) - [Shell History Is Your Best Productivity Tool](https://martinheinz.dev/blog/110)
-* [2024-04-10, 09:12:07](https://lobste.rs/s/wot82c/verified_curl) - [Verified curl](https://daniel.haxx.se/blog/2024/04/10/verified-curl/)
 * [2024-04-10, 09:07:43](https://lobste.rs/s/denejr/client_libraries_are_better_when_they) - [Client libraries are better when they have no API](https://csvbase.com/blog/7)
 * [2024-04-09, 22:57:33](https://lobste.rs/s/ulqxj8/my_deployment_platform_is_shell_script) - [my deployment platform is a shell script](https://j3s.sh/thought/my-deployment-platform-is-a-shell-script.html)
 
