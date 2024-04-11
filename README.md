@@ -2,7 +2,7 @@
 
 * [2024-04-11, 16:45:01](https://lobste.rs/s/e8uyo5/simple_beauty_xor_floating_point) - [The Simple Beauty of XOR Floating Point Compression](https://clemenswinter.com/2024/04/07/the-simple-beauty-of-xor-floating-point-compression/)
 * [2024-04-11, 16:43:45](https://lobste.rs/s/hgtpg0/why_is_there_no_realloc_takes_number_bytes) - [Why is there no realloc that takes the number of bytes to copy?](https://shift.click/blog/missing-alloc-api/)
-* [2024-04-11, 16:38:12](https://lobste.rs/s/kkoygg/our_response_hashicorp_s_cease_desist) - [Our Response to Hashicorp's Cease and Desist Letter | OpenTofu](https://opentofu.org/blog/our-response-to-hashicorps-cease-and-desist/)
+* [2024-04-11, 16:38:12](https://lobste.rs/s/kkoygg/our_response_hashicorp_s_cease_desist) - [Our Response to Hashicorp's Cease and Desist Letter](https://opentofu.org/blog/our-response-to-hashicorps-cease-and-desist/)
 * [2024-04-11, 16:05:21](https://lobste.rs/s/evbqka/ushering_thermodynamic_future) - [Ushering in the Thermodynamic Future - Litepaper](https://www.extropic.ai/future)
 * [2024-04-11, 15:43:16](https://lobste.rs/s/utyzwv/optimizing_webkit_safari_for) - [Optimizing WebKit & Safari for Speedometer 3.0](https://webkit.org/blog/15249/optimizing-webkit-safari-for-speedometer-3-0/)
 * [2024-04-11, 14:43:33](https://lobste.rs/s/ddwvhx/interactive_quine) - [An interactive quine](https://www.pbt.dev/blog/quine/)
