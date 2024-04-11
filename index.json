@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-11, 03:53:02",
+      "https://lobste.rs/s/wh8r1k/crystalruby_gem_embed_crystal_code"
+    ],
+    [
+      "crystalruby gem: Embed Crystal code directly in Ruby",
+      "https://github.com/wouterken/crystalruby"
+    ]
+  ],
+  [
+    [
       "2024-04-10, 21:04:50",
       "https://lobste.rs/s/wt0hkg/templang_fe_event_routing_elements"
     ],
@@ -237,16 +247,6 @@
     [
       "Don't require people to change 'source code' to configure your programs",
       "https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigureNoSourceCodeChanges"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 07:33:49",
-      "https://lobste.rs/s/2q0ole/server_chose_violence"
-    ],
-    [
-      "The server chose violence",
-      "https://cliffle.com/blog/hubris-reply-fault/"
     ]
   ]
 ]
