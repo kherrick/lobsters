@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-12](index.md)
 
+* [2024-04-12, 22:34:57](https://lobste.rs/s/1yrurm/setting_up_postgresql_for_running) - [Setting up PostgreSQL for running integration tests](https://gajus.com/blog/setting-up-postgre-sql-for-running-integration-tests)
 * [2024-04-12, 20:25:24](https://lobste.rs/s/11wbk9/backport_net_2_0_3_5_windows_95) - [Backport of .NET 2.0 - 3.5 to Windows 95](https://github.com/itsmattkc/dotnet9x)
 * [2024-04-12, 19:00:47](https://lobste.rs/s/cfqwtk/cipherleaks_is_first_demonstrated) - [Cipherleaks is the first demonstrated attack against AMD SEV-SNP](https://cipherleaks.com/)
 * [2024-04-12, 18:37:56](https://lobste.rs/s/zyj8ju/sigbovik_2024) - [SIGBOVIK 2024](https://sigbovik.org/2024/)

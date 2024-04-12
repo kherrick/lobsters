@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-12, 22:34:57](https://lobste.rs/s/1yrurm/setting_up_postgresql_for_running) - [Setting up PostgreSQL for running integration tests](https://gajus.com/blog/setting-up-postgre-sql-for-running-integration-tests)
 * [2024-04-12, 20:25:24](https://lobste.rs/s/11wbk9/backport_net_2_0_3_5_windows_95) - [Backport of .NET 2.0 - 3.5 to Windows 95](https://github.com/itsmattkc/dotnet9x)
 * [2024-04-12, 19:00:47](https://lobste.rs/s/cfqwtk/cipherleaks_is_first_demonstrated) - [Cipherleaks is the first demonstrated attack against AMD SEV-SNP](https://cipherleaks.com/)
 * [2024-04-12, 18:37:56](https://lobste.rs/s/zyj8ju/sigbovik_2024) - [SIGBOVIK 2024](https://sigbovik.org/2024/)
@@ -16,7 +17,6 @@
 * [2024-04-12, 05:41:44](https://lobste.rs/s/4c7igt/swift_for_c_practitioners) - [Swift for C++ Practitioners](https://sfba.social/@dgregor79/112253040167641326)
 * [2024-04-12, 05:28:27](https://lobste.rs/s/jevnmb/abstract_methods_notimplementederror) - [Abstract methods and NotImplementedError in Ruby](https://nithinbekal.com/posts/abstract-methods-notimplementederror-ruby/)
 * [2024-04-12, 04:57:47](https://lobste.rs/s/qv8hht/pep_744_jit_compilation) - [PEP 744 – JIT Compilation](https://peps.python.org/pep-0744/)
-* [2024-04-11, 21:53:35](https://lobste.rs/s/26k6qx/ubuntu_bug_cifs_stopped_working_with) - [Ubuntu bug “CIFS stopped working with kernel update...”](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/2060780)
 * [2024-04-11, 18:45:34](https://lobste.rs/s/sbeflu/improve_performance_you_rust_functions) - [Improve performance of you Rust functions by const currying](https://blog.cocl2.com/posts/const-currying-rs/)
 * [2024-04-11, 18:42:49](https://lobste.rs/s/ozenpy/fivefold_slower_compared_go_optimizing) - [Fivefold Slower Compared to Go? Optimizing Rust's Protobuf Decoding Performance](https://www.greptime.com/blogs/2024-04-09-rust-protobuf-performance)
 * [2024-04-11, 16:45:01](https://lobste.rs/s/e8uyo5/simple_beauty_xor_floating_point) - [The Simple Beauty of XOR Floating Point Compression](https://clemenswinter.com/2024/04/07/the-simple-beauty-of-xor-floating-point-compression/)
