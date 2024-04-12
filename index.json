@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-12, 08:51:01",
+      "https://lobste.rs/s/ip9xjs/math_puzzle_better_algorithm_for_top_k"
+    ],
+    [
+      "A math puzzle and a better algorithm for top-k",
+      "https://quickwit.io/blog/top-k-complexity"
+    ]
+  ],
+  [
+    [
       "2024-04-12, 08:31:01",
       "https://lobste.rs/s/y7zosi/openbsd_is_cozy_operating_system"
     ],
@@ -207,16 +217,6 @@
     [
       "crystalruby gem: Embed Crystal code directly in Ruby",
       "https://github.com/wouterken/crystalruby"
-    ]
-  ],
-  [
-    [
-      "2024-04-10, 19:34:20",
-      "https://lobste.rs/s/harezb/notes_on_git_s_error_messages"
-    ],
-    [
-      "Notes on git's error messages",
-      "https://jvns.ca/blog/2024/04/10/notes-on-git-error-messages/"
     ]
   ],
   [
