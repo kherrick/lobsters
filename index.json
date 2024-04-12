@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-12, 08:57:32",
+      "https://lobste.rs/s/cdzw5p/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/cdzw5p/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
       "2024-04-12, 08:51:01",
       "https://lobste.rs/s/ip9xjs/math_puzzle_better_algorithm_for_top_k"
     ],
@@ -207,16 +217,6 @@
     [
       "Fixing a bug with C++'s >>= operator",
       "https://astrid.tech/2024/03/19/1/maybe-monad-cpp/"
-    ]
-  ],
-  [
-    [
-      "2024-04-11, 03:53:02",
-      "https://lobste.rs/s/wh8r1k/crystalruby_gem_embed_crystal_code"
-    ],
-    [
-      "crystalruby gem: Embed Crystal code directly in Ruby",
-      "https://github.com/wouterken/crystalruby"
     ]
   ],
   [
