@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-12, 05:28:27](https://lobste.rs/s/jevnmb/abstract_methods_notimplementederror) - [Abstract methods and NotImplementedError in Ruby](https://nithinbekal.com/posts/abstract-methods-notimplementederror-ruby/)
 * [2024-04-12, 04:57:47](https://lobste.rs/s/qv8hht/pep_744_jit_compilation) - [PEP 744 – JIT Compilation](https://peps.python.org/pep-0744/)
 * [2024-04-11, 21:53:35](https://lobste.rs/s/26k6qx/ubuntu_bug_cifs_stopped_working_with) - [Ubuntu bug “CIFS stopped working with kernel update...”](https://bugs.launchpad.net/ubuntu/+source/linux/+bug/2060780)
 * [2024-04-11, 18:45:34](https://lobste.rs/s/sbeflu/improve_performance_you_rust_functions) - [Improve performance of you Rust functions by const currying](https://blog.cocl2.com/posts/const-currying-rs/)
@@ -24,7 +25,6 @@
 * [2024-04-10, 13:12:12](https://lobste.rs/s/s0vxwk/why_can_t_my_mom_email_me) - [Why Can't My Mom Email Me?](https://matduggan.com/why-cant-my-mom-email-me/)
 * [2024-04-10, 11:46:54](https://lobste.rs/s/zfcis3/shell_history_is_your_best_productivity) - [Shell History Is Your Best Productivity Tool](https://martinheinz.dev/blog/110)
 * [2024-04-10, 09:07:43](https://lobste.rs/s/denejr/client_libraries_are_better_when_they) - [Client libraries are better when they have no API](https://csvbase.com/blog/7)
-* [2024-04-09, 22:57:33](https://lobste.rs/s/ulqxj8/my_deployment_platform_is_shell_script) - [my deployment platform is a shell script](https://j3s.sh/thought/my-deployment-platform-is-a-shell-script.html)
 
 ## [Archives](archives/index.md)
 
