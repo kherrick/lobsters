@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-12, 22:34:57",
+      "https://lobste.rs/s/1yrurm/setting_up_postgresql_for_running"
+    ],
+    [
+      "Setting up PostgreSQL for running integration tests",
+      "https://gajus.com/blog/setting-up-postgre-sql-for-running-integration-tests"
+    ]
+  ],
+  [
+    [
       "2024-04-12, 20:25:24",
       "https://lobste.rs/s/11wbk9/backport_net_2_0_3_5_windows_95"
     ],
@@ -157,16 +167,6 @@
     [
       "PEP 744 – JIT Compilation",
       "https://peps.python.org/pep-0744/"
-    ]
-  ],
-  [
-    [
-      "2024-04-11, 21:53:35",
-      "https://lobste.rs/s/26k6qx/ubuntu_bug_cifs_stopped_working_with"
-    ],
-    [
-      "Ubuntu bug “CIFS stopped working with kernel update...”",
-      "https://bugs.launchpad.net/ubuntu/+source/linux/+bug/2060780"
     ]
   ],
   [
