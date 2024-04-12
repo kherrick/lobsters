@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-12](index.md)
 
+* [2024-04-12, 19:00:47](https://lobste.rs/s/cfqwtk/cipherleaks_is_first_demonstrated) - [Cipherleaks is the first demonstrated attack against AMD SEV-SNP](https://cipherleaks.com/)
 * [2024-04-12, 18:37:56](https://lobste.rs/s/zyj8ju/sigbovik_2024) - [SIGBOVIK 2024](https://sigbovik.org/2024/)
 * [2024-04-12, 16:37:16](https://lobste.rs/s/sgh8f6/tear_able_puns_worse_ideas_minimally) - [“Tear”able Puns, and Worse Ideas: A Minimally Thread-Safe Cell](https://shift.click/blog/tearcell/)
 * [2024-04-12, 15:48:07](https://lobste.rs/s/goqsie/semantic_sound_synthesis_with_agents) - [Semantic Sound Synthesis with Agents](https://montyanderson.net/writing/synthesis)

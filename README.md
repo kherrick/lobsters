@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-12, 19:00:47](https://lobste.rs/s/cfqwtk/cipherleaks_is_first_demonstrated) - [Cipherleaks is the first demonstrated attack against AMD SEV-SNP](https://cipherleaks.com/)
 * [2024-04-12, 18:37:56](https://lobste.rs/s/zyj8ju/sigbovik_2024) - [SIGBOVIK 2024](https://sigbovik.org/2024/)
 * [2024-04-12, 16:37:16](https://lobste.rs/s/sgh8f6/tear_able_puns_worse_ideas_minimally) - [“Tear”able Puns, and Worse Ideas: A Minimally Thread-Safe Cell](https://shift.click/blog/tearcell/)
 * [2024-04-12, 15:48:07](https://lobste.rs/s/goqsie/semantic_sound_synthesis_with_agents) - [Semantic Sound Synthesis with Agents](https://montyanderson.net/writing/synthesis)
@@ -23,7 +24,6 @@
 * [2024-04-11, 13:50:58](https://lobste.rs/s/knrbyb/circular_buffer_performance_trick) - [Circular Buffer Performance Trick](https://cybernetist.com/2024/04/11/circular-buffer-performance-trick/)
 * [2024-04-11, 11:07:46](https://lobste.rs/s/vfee1g/what_makes_great_technical_blog) - [What makes a great technical blog](https://notes.eatonphil.com/2024-04-10-what-makes-a-great-tech-blog.html)
 * [2024-04-11, 09:47:44](https://lobste.rs/s/joqbxh/browser_security_bugs_aren_t_javascript) - [Browser Security Bugs that Aren’t: JavaScript in PDF](https://textslashplain.com/2024/04/10/browser-security-bugs-that-arent-javascript-in-pdf/)
-* [2024-04-11, 09:35:31](https://lobste.rs/s/8hqygw/zk_plain_text_note_taking_assistant) - [zk: A plain text note-taking assistant](https://github.com/zk-org/zk)
 * [2024-04-11, 08:07:53](https://lobste.rs/s/fv7pco/if_inheritance_is_so_bad_why_does_everyone) - [If Inheritance is so bad, why does everyone use it?](https://buttondown.email/hillelwayne/archive/if-inheritance-is-so-bad-why-does-everyone-use-it/)
 
 ## [Archives](archives/index.md)
