@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-12, 15:48:07](https://lobste.rs/s/goqsie/semantic_sound_synthesis_with_agents) - [Semantic Sound Synthesis with Agents](https://montyanderson.net/writing/synthesis)
 * [2024-04-12, 14:06:09](https://lobste.rs/s/kdqdth/webxr_retro_computer_simulation) - [WebXR retro computer simulation](https://www.dompajak.com/blog/webxr-beeb-virtual-beeb/index.html)
 * [2024-04-12, 12:14:02](https://lobste.rs/s/7q1tke/unit_tests_considered_harmful_no) - [Unit tests considered harmful? No](https://thedailydeveloper.substack.com/p/unit-tests-considered-harmful-no)
 * [2024-04-12, 10:05:55](https://lobste.rs/s/8xagju/fast_declarative_reproduble_composable) - [Fast, Declarative, Reproduble and Composable Developer Environments using Nix](https://devenv.sh/)
@@ -24,7 +25,6 @@
 * [2024-04-11, 09:14:49](https://lobste.rs/s/vg3hkp/going_circles_without_real_time_clock) - [Going in circles without a real-time clock](https://rachelbythebay.com/w/2024/04/10/rtc/)
 * [2024-04-11, 08:07:53](https://lobste.rs/s/fv7pco/if_inheritance_is_so_bad_why_does_everyone) - [If Inheritance is so bad, why does everyone use it?](https://buttondown.email/hillelwayne/archive/if-inheritance-is-so-bad-why-does-everyone-use-it/)
 * [2024-04-10, 13:12:12](https://lobste.rs/s/s0vxwk/why_can_t_my_mom_email_me) - [Why Can't My Mom Email Me?](https://matduggan.com/why-cant-my-mom-email-me/)
-* [2024-04-10, 11:46:54](https://lobste.rs/s/zfcis3/shell_history_is_your_best_productivity) - [Shell History Is Your Best Productivity Tool](https://martinheinz.dev/blog/110)
 
 ## [Archives](archives/index.md)
 
