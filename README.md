@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-12, 08:57:32](https://lobste.rs/s/cdzw5p/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cdzw5p/what_are_you_doing_this_weekend)
 * [2024-04-12, 08:51:01](https://lobste.rs/s/ip9xjs/math_puzzle_better_algorithm_for_top_k) - [A math puzzle and a better algorithm for top-k](https://quickwit.io/blog/top-k-complexity)
 * [2024-04-12, 08:31:01](https://lobste.rs/s/y7zosi/openbsd_is_cozy_operating_system) - [OpenBSD is a Cozy Operating System](https://btxx.org/posts/OpenBSD_is_a_Cozy_Operating_System/)
 * [2024-04-12, 05:41:44](https://lobste.rs/s/4c7igt/swift_for_c_practitioners) - [Swift for C++ Practitioners](https://sfba.social/@dgregor79/112253040167641326)
@@ -21,7 +22,6 @@
 * [2024-04-11, 09:14:49](https://lobste.rs/s/vg3hkp/going_circles_without_real_time_clock) - [Going in circles without a real-time clock](https://rachelbythebay.com/w/2024/04/10/rtc/)
 * [2024-04-11, 08:07:53](https://lobste.rs/s/fv7pco/if_inheritance_is_so_bad_why_does_everyone) - [If Inheritance is so bad, why does everyone use it?](https://buttondown.email/hillelwayne/archive/if-inheritance-is-so-bad-why-does-everyone-use-it/)
 * [2024-04-11, 03:55:53](https://lobste.rs/s/bwrcrx/fixing_bug_with_c_s_operator) - [Fixing a bug with C++'s >>= operator](https://astrid.tech/2024/03/19/1/maybe-monad-cpp/)
-* [2024-04-11, 03:53:02](https://lobste.rs/s/wh8r1k/crystalruby_gem_embed_crystal_code) - [crystalruby gem: Embed Crystal code directly in Ruby](https://github.com/wouterken/crystalruby)
 * [2024-04-10, 13:12:12](https://lobste.rs/s/s0vxwk/why_can_t_my_mom_email_me) - [Why Can't My Mom Email Me?](https://matduggan.com/why-cant-my-mom-email-me/)
 * [2024-04-10, 11:46:54](https://lobste.rs/s/zfcis3/shell_history_is_your_best_productivity) - [Shell History Is Your Best Productivity Tool](https://martinheinz.dev/blog/110)
 * [2024-04-10, 09:07:43](https://lobste.rs/s/denejr/client_libraries_are_better_when_they) - [Client libraries are better when they have no API](https://csvbase.com/blog/7)
