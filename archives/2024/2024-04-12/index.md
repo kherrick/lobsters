@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-12](index.md)
 
+* [2024-04-12, 18:37:56](https://lobste.rs/s/zyj8ju/sigbovik_2024) - [SIGBOVIK 2024](https://sigbovik.org/2024/)
 * [2024-04-12, 16:37:16](https://lobste.rs/s/sgh8f6/tear_able_puns_worse_ideas_minimally) - [“Tear”able Puns, and Worse Ideas: A Minimally Thread-Safe Cell](https://shift.click/blog/tearcell/)
 * [2024-04-12, 15:48:07](https://lobste.rs/s/goqsie/semantic_sound_synthesis_with_agents) - [Semantic Sound Synthesis with Agents](https://montyanderson.net/writing/synthesis)
 * [2024-04-12, 14:06:09](https://lobste.rs/s/kdqdth/webxr_retro_computer_simulation) - [WebXR retro computer simulation](https://www.dompajak.com/blog/webxr-beeb-virtual-beeb/index.html)
