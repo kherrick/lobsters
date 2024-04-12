@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-12, 08:31:01](https://lobste.rs/s/y7zosi/openbsd_is_cozy_operating_system) - [OpenBSD is a Cozy Operating System](https://btxx.org/posts/OpenBSD_is_a_Cozy_Operating_System/)
 * [2024-04-12, 05:41:44](https://lobste.rs/s/4c7igt/swift_for_c_practitioners) - [Swift for C++ Practitioners](https://sfba.social/@dgregor79/112253040167641326)
 * [2024-04-12, 05:28:27](https://lobste.rs/s/jevnmb/abstract_methods_notimplementederror) - [Abstract methods and NotImplementedError in Ruby](https://nithinbekal.com/posts/abstract-methods-notimplementederror-ruby/)
 * [2024-04-12, 04:57:47](https://lobste.rs/s/qv8hht/pep_744_jit_compilation) - [PEP 744 – JIT Compilation](https://peps.python.org/pep-0744/)
@@ -10,7 +11,6 @@
 * [2024-04-11, 16:43:45](https://lobste.rs/s/hgtpg0/why_is_there_no_realloc_takes_number_bytes) - [Why is there no realloc that takes the number of bytes to copy?](https://shift.click/blog/missing-alloc-api/)
 * [2024-04-11, 16:38:12](https://lobste.rs/s/kkoygg/our_response_hashicorp_s_cease_desist) - [Our Response to Hashicorp's Cease and Desist Letter](https://opentofu.org/blog/our-response-to-hashicorps-cease-and-desist/)
 * [2024-04-11, 15:43:16](https://lobste.rs/s/utyzwv/optimizing_webkit_safari_for) - [Optimizing WebKit & Safari for Speedometer 3.0](https://webkit.org/blog/15249/optimizing-webkit-safari-for-speedometer-3-0/)
-* [2024-04-11, 14:43:33](https://lobste.rs/s/ddwvhx/interactive_quine) - [An interactive quine](https://www.pbt.dev/blog/quine/)
 * [2024-04-11, 14:18:29](https://lobste.rs/s/qdv6tx/learn_git_through_playing_game) - [Learn git through playing a game](https://ohmygit.org/)
 * [2024-04-11, 13:50:58](https://lobste.rs/s/knrbyb/circular_buffer_performance_trick) - [Circular Buffer Performance Trick](https://cybernetist.com/2024/04/11/circular-buffer-performance-trick/)
 * [2024-04-11, 13:30:14](https://lobste.rs/s/dpxvqc/hermit_is_hermetic_reproducible_sandbox) - [Hermit is a hermetic and reproducible sandbox for running programs](https://github.com/facebookexperimental/hermit)
