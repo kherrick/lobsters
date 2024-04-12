@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-12, 12:14:02](https://lobste.rs/s/7q1tke/unit_tests_considered_harmful_no) - [Unit tests considered harmful? No](https://thedailydeveloper.substack.com/p/unit-tests-considered-harmful-no)
 * [2024-04-12, 10:05:55](https://lobste.rs/s/8xagju/fast_declarative_reproduble_composable) - [Fast, Declarative, Reproduble and Composable Developer Environments using Nix](https://devenv.sh/)
 * [2024-04-12, 09:41:49](https://lobste.rs/s/us7wcv/docsis_3_1_4_0_decoded_unleashing_high) - [DOCSIS 3.1 -4.0 Decoded: Unleashing High-Speed Internet for IT Pros](https://www.youtube.com/watch?v=FQAdGtMSf9U)
 * [2024-04-12, 09:40:38](https://lobste.rs/s/3rpzks/qemu_ipv6_slirp) - [Qemu IPv6 Slirp](https://blog.izissise.net/posts/qemuipv6slirp/)
@@ -16,7 +17,6 @@
 * [2024-04-11, 16:43:45](https://lobste.rs/s/hgtpg0/why_is_there_no_realloc_takes_number_bytes) - [Why is there no realloc that takes the number of bytes to copy?](https://shift.click/blog/missing-alloc-api/)
 * [2024-04-11, 16:38:12](https://lobste.rs/s/kkoygg/our_response_hashicorp_s_cease_desist) - [Our Response to Hashicorp's Cease and Desist Letter](https://opentofu.org/blog/our-response-to-hashicorps-cease-and-desist/)
 * [2024-04-11, 13:50:58](https://lobste.rs/s/knrbyb/circular_buffer_performance_trick) - [Circular Buffer Performance Trick](https://cybernetist.com/2024/04/11/circular-buffer-performance-trick/)
-* [2024-04-11, 13:30:14](https://lobste.rs/s/dpxvqc/hermit_is_hermetic_reproducible_sandbox) - [Hermit is a hermetic and reproducible sandbox for running programs](https://github.com/facebookexperimental/hermit)
 * [2024-04-11, 11:07:46](https://lobste.rs/s/vfee1g/what_makes_great_technical_blog) - [What makes a great technical blog](https://notes.eatonphil.com/2024-04-10-what-makes-a-great-tech-blog.html)
 * [2024-04-11, 09:47:44](https://lobste.rs/s/joqbxh/browser_security_bugs_aren_t_javascript) - [Browser Security Bugs that Aren’t: JavaScript in PDF](https://textslashplain.com/2024/04/10/browser-security-bugs-that-arent-javascript-in-pdf/)
 * [2024-04-11, 09:35:31](https://lobste.rs/s/8hqygw/zk_plain_text_note_taking_assistant) - [zk: A plain text note-taking assistant](https://github.com/zk-org/zk)
