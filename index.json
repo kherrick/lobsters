@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-12, 05:28:27",
+      "https://lobste.rs/s/jevnmb/abstract_methods_notimplementederror"
+    ],
+    [
+      "Abstract methods and NotImplementedError in Ruby",
+      "https://nithinbekal.com/posts/abstract-methods-notimplementederror-ruby/"
+    ]
+  ],
+  [
+    [
       "2024-04-12, 04:57:47",
       "https://lobste.rs/s/qv8hht/pep_744_jit_compilation"
     ],
@@ -237,16 +247,6 @@
     [
       "Client libraries are better when they have no API",
       "https://csvbase.com/blog/7"
-    ]
-  ],
-  [
-    [
-      "2024-04-09, 22:57:33",
-      "https://lobste.rs/s/ulqxj8/my_deployment_platform_is_shell_script"
-    ],
-    [
-      "my deployment platform is a shell script",
-      "https://j3s.sh/thought/my-deployment-platform-is-a-shell-script.html"
     ]
   ]
 ]
