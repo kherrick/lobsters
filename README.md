@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-13, 17:36:03](https://lobste.rs/s/4q5gqs/tree_shaking_horticulturally_misguided) - [tree-shaking, the horticulturally misguided algorithm — wingolog](https://wingolog.org/archives/2023/11/24/tree-shaking-the-horticulturally-misguided-algorithm)
 * [2024-04-13, 16:57:15](https://lobste.rs/s/lcpp10/ten_years_counting_my_affair_with) - [Ten Years and Counting: My Affair with Microservices](https://blog.allegro.tech/2024/04/ten-years-microservices.html)
 * [2024-04-13, 16:39:14](https://lobste.rs/s/0tmkr2/lessons_after_half_billion_gpt_tokens) - [Lessons after a half-billion GPT tokens](https://kenkantzer.com/lessons-after-a-half-billion-gpt-tokens/)
 * [2024-04-13, 16:28:07](https://lobste.rs/s/dtkgih/openttd_14_0_released) - [OpenTTD 14.0 released](https://www.openttd.org/news/2024/04/13/openttd-14-0)
@@ -16,7 +17,6 @@
 * [2024-04-12, 20:25:24](https://lobste.rs/s/11wbk9/backport_net_2_0_3_5_windows_95) - [Backport of .NET 2.0 - 3.5 to Windows 95](https://github.com/itsmattkc/dotnet9x)
 * [2024-04-12, 18:37:56](https://lobste.rs/s/zyj8ju/sigbovik_2024) - [SIGBOVIK 2024](https://sigbovik.org/2024/)
 * [2024-04-12, 16:37:16](https://lobste.rs/s/sgh8f6/tear_able_puns_worse_ideas_minimally) - [“Tear”able Puns, and Worse Ideas: A Minimally Thread-Safe Cell](https://shift.click/blog/tearcell/)
-* [2024-04-12, 14:06:09](https://lobste.rs/s/kdqdth/webxr_retro_computer_simulation) - [WebXR retro computer simulation](https://www.dompajak.com/blog/webxr-beeb-virtual-beeb/index.html)
 * [2024-04-12, 12:14:02](https://lobste.rs/s/7q1tke/unit_tests_considered_harmful_no) - [Unit tests considered harmful? No](https://thedailydeveloper.substack.com/p/unit-tests-considered-harmful-no)
 * [2024-04-12, 10:05:55](https://lobste.rs/s/8xagju/fast_declarative_reproduble_composable) - [Fast, Declarative, Reproduble and Composable Developer Environments using Nix](https://devenv.sh/)
 * [2024-04-12, 09:40:38](https://lobste.rs/s/3rpzks/qemu_ipv6_slirp) - [Qemu IPv6 Slirp](https://blog.izissise.net/posts/qemuipv6slirp/)
