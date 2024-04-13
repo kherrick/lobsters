@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2024-04-12, 23:04:50",
-      "https://lobste.rs/s/mucoca/unit_integration_tests"
-    ],
-    [
-      "Unit and Integration Tests",
-      "https://matklad.github.io/2022/07/04/unit-and-integration-tests.html"
-    ]
-  ],
-  [
-    [
       "2024-04-12, 22:34:57",
       "https://lobste.rs/s/1yrurm/setting_up_postgresql_for_running"
     ],
@@ -227,6 +217,16 @@
     [
       "PEP 744 – JIT Compilation",
       "https://peps.python.org/pep-0744/"
+    ]
+  ],
+  [
+    [
+      "2024-04-11, 18:42:49",
+      "https://lobste.rs/s/ozenpy/fivefold_slower_compared_go_optimizing"
+    ],
+    [
+      "Fivefold Slower Compared to Go? Optimizing Rust's Protobuf Decoding Performance",
+      "https://www.greptime.com/blogs/2024-04-09-rust-protobuf-performance"
     ]
   ],
   [
