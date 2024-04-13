@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-13, 11:52:12",
+      "https://lobste.rs/s/u0lor3/doceaser_interactive_documentation"
+    ],
+    [
+      "doceaser: Interactive documentation with Markdown and HTMX made easier",
+      "https://github.com/linkdd/doceaser"
+    ]
+  ],
+  [
+    [
       "2024-04-13, 11:39:42",
       "https://lobste.rs/s/ljhoc8/minimal_kotlin_nix_flake_example_with"
     ],
@@ -217,16 +227,6 @@
     [
       "Fivefold Slower Compared to Go? Optimizing Rust's Protobuf Decoding Performance",
       "https://www.greptime.com/blogs/2024-04-09-rust-protobuf-performance"
-    ]
-  ],
-  [
-    [
-      "2024-04-11, 16:45:01",
-      "https://lobste.rs/s/e8uyo5/simple_beauty_xor_floating_point"
-    ],
-    [
-      "The Simple Beauty of XOR Floating Point Compression",
-      "https://clemenswinter.com/2024/04/07/the-simple-beauty-of-xor-floating-point-compression/"
     ]
   ],
   [
