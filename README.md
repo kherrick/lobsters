@@ -8,7 +8,6 @@
 * [2024-04-13, 09:05:37](https://lobste.rs/s/lhur6p/kaspersky_analysis_backdoor_xz) - [Kaspersky analysis of the backdoor in XZ](https://securelist.com/xz-backdoor-story-part-1/112354/)
 * [2024-04-13, 07:44:21](https://lobste.rs/s/fshyxg/identifying_correcting_programming) - [Identifying and Correcting Programming Language Behavior Misconceptions](https://cs.brown.edu/~sk/Publications/Papers/Published/lk-smol-tutor/)
 * [2024-04-13, 00:45:05](https://lobste.rs/s/pl1req/signals_i_spent_2_years_understand_this) - [Signals. I spent 2 years to understand this part](https://www.youtube.com/watch?v=d0gS5TXarXc)
-* [2024-04-12, 23:04:50](https://lobste.rs/s/mucoca/unit_integration_tests) - [Unit and Integration Tests](https://matklad.github.io/2022/07/04/unit-and-integration-tests.html)
 * [2024-04-12, 22:34:57](https://lobste.rs/s/1yrurm/setting_up_postgresql_for_running) - [Setting up PostgreSQL for running integration tests](https://gajus.com/blog/setting-up-postgre-sql-for-running-integration-tests)
 * [2024-04-12, 20:25:24](https://lobste.rs/s/11wbk9/backport_net_2_0_3_5_windows_95) - [Backport of .NET 2.0 - 3.5 to Windows 95](https://github.com/itsmattkc/dotnet9x)
 * [2024-04-12, 19:00:47](https://lobste.rs/s/cfqwtk/cipherleaks_is_first_demonstrated) - [Cipherleaks is the first demonstrated attack against AMD SEV-SNP](https://cipherleaks.com/)
@@ -23,6 +22,7 @@
 * [2024-04-12, 08:31:01](https://lobste.rs/s/y7zosi/openbsd_is_cozy_operating_system) - [OpenBSD is a Cozy Operating System](https://btxx.org/posts/OpenBSD_is_a_Cozy_Operating_System/)
 * [2024-04-12, 05:41:44](https://lobste.rs/s/4c7igt/swift_for_c_practitioners) - [Swift for C++ Practitioners](https://sfba.social/@dgregor79/112253040167641326)
 * [2024-04-12, 04:57:47](https://lobste.rs/s/qv8hht/pep_744_jit_compilation) - [PEP 744 – JIT Compilation](https://peps.python.org/pep-0744/)
+* [2024-04-11, 18:42:49](https://lobste.rs/s/ozenpy/fivefold_slower_compared_go_optimizing) - [Fivefold Slower Compared to Go? Optimizing Rust's Protobuf Decoding Performance](https://www.greptime.com/blogs/2024-04-09-rust-protobuf-performance)
 * [2024-04-11, 16:38:12](https://lobste.rs/s/kkoygg/our_response_hashicorp_s_cease_desist) - [Our Response to Hashicorp's Cease and Desist Letter](https://opentofu.org/blog/our-response-to-hashicorps-cease-and-desist/)
 * [2024-04-11, 11:07:46](https://lobste.rs/s/vfee1g/what_makes_great_technical_blog) - [What makes a great technical blog](https://notes.eatonphil.com/2024-04-10-what-makes-a-great-tech-blog.html)
 
