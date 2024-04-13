@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-13, 11:39:42",
+      "https://lobste.rs/s/ljhoc8/minimal_kotlin_nix_flake_example_with"
+    ],
+    [
+      "Minimal Kotlin and Nix flake example (with Gradle 8 support)",
+      "https://github.com/owickstrom/minimal-kotlin-nix-example"
+    ]
+  ],
+  [
+    [
       "2024-04-13, 11:21:06",
       "https://lobste.rs/s/jrwbg5/advent_code_2023_day_6_hurl"
     ],
@@ -107,16 +117,6 @@
     [
       "“Tear”able Puns, and Worse Ideas: A Minimally Thread-Safe Cell",
       "https://shift.click/blog/tearcell/"
-    ]
-  ],
-  [
-    [
-      "2024-04-12, 15:48:07",
-      "https://lobste.rs/s/goqsie/semantic_sound_synthesis_with_agents"
-    ],
-    [
-      "Semantic Sound Synthesis with Agents",
-      "https://montyanderson.net/writing/synthesis"
     ]
   ],
   [
