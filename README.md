@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-13, 21:23:36](https://lobste.rs/s/li8thy/joy_computing) - [The joy of computing](https://jamesg.blog/2024/04/13/joy-of-computing/)
 * [2024-04-13, 17:36:03](https://lobste.rs/s/4q5gqs/tree_shaking_horticulturally_misguided) - [tree-shaking, the horticulturally misguided algorithm — wingolog](https://wingolog.org/archives/2023/11/24/tree-shaking-the-horticulturally-misguided-algorithm)
 * [2024-04-13, 16:57:15](https://lobste.rs/s/lcpp10/ten_years_counting_my_affair_with) - [Ten Years and Counting: My Affair with Microservices](https://blog.allegro.tech/2024/04/ten-years-microservices.html)
 * [2024-04-13, 16:39:14](https://lobste.rs/s/0tmkr2/lessons_after_half_billion_gpt_tokens) - [Lessons after a half-billion GPT tokens](https://kenkantzer.com/lessons-after-a-half-billion-gpt-tokens/)
@@ -22,7 +23,6 @@
 * [2024-04-12, 09:40:38](https://lobste.rs/s/3rpzks/qemu_ipv6_slirp) - [Qemu IPv6 Slirp](https://blog.izissise.net/posts/qemuipv6slirp/)
 * [2024-04-12, 08:51:01](https://lobste.rs/s/ip9xjs/math_puzzle_better_algorithm_for_top_k) - [A math puzzle and a better algorithm for top-k](https://quickwit.io/blog/top-k-complexity)
 * [2024-04-12, 08:31:01](https://lobste.rs/s/y7zosi/openbsd_is_cozy_operating_system) - [OpenBSD is a Cozy Operating System](https://btxx.org/posts/OpenBSD_is_a_Cozy_Operating_System/)
-* [2024-04-12, 05:41:44](https://lobste.rs/s/4c7igt/swift_for_c_practitioners) - [Swift for C++ Practitioners](https://sfba.social/@dgregor79/112253040167641326)
 * [2024-04-12, 04:57:47](https://lobste.rs/s/qv8hht/pep_744_jit_compilation) - [PEP 744 – JIT Compilation](https://peps.python.org/pep-0744/)
 * [2024-04-11, 16:38:12](https://lobste.rs/s/kkoygg/our_response_hashicorp_s_cease_desist) - [Our Response to Hashicorp's Cease and Desist Letter](https://opentofu.org/blog/our-response-to-hashicorps-cease-and-desist/)
 

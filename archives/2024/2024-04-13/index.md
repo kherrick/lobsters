@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-13](index.md)
 
+* [2024-04-13, 21:23:36](https://lobste.rs/s/li8thy/joy_computing) - [The joy of computing](https://jamesg.blog/2024/04/13/joy-of-computing/)
 * [2024-04-13, 17:36:03](https://lobste.rs/s/4q5gqs/tree_shaking_horticulturally_misguided) - [tree-shaking, the horticulturally misguided algorithm — wingolog](https://wingolog.org/archives/2023/11/24/tree-shaking-the-horticulturally-misguided-algorithm)
 * [2024-04-13, 16:57:15](https://lobste.rs/s/lcpp10/ten_years_counting_my_affair_with) - [Ten Years and Counting: My Affair with Microservices](https://blog.allegro.tech/2024/04/ten-years-microservices.html)
 * [2024-04-13, 16:39:14](https://lobste.rs/s/0tmkr2/lessons_after_half_billion_gpt_tokens) - [Lessons after a half-billion GPT tokens](https://kenkantzer.com/lessons-after-a-half-billion-gpt-tokens/)
