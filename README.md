@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-13, 16:28:07](https://lobste.rs/s/dtkgih/openttd_14_0_released) - [OpenTTD 14.0 released](https://www.openttd.org/news/2024/04/13/openttd-14-0)
+* [2024-04-13, 16:23:53](https://lobste.rs/s/nk917v/how_write_code_formatter) - [How to write a code formatter](https://yorickpeterse.com/articles/how-to-write-a-code-formatter/)
 * [2024-04-13, 13:28:55](https://lobste.rs/s/wfq06v/zksnarks_zkstarks_novel_verifiable) - [zkSNARKs & zkSTARKs: A Novel Verifiable Computation Model](https://illya.sh/blog/posts/zksnark-zkstark-verifiable-computation-model-blockchain/)
 * [2024-04-13, 11:52:12](https://lobste.rs/s/u0lor3/doceaser_interactive_documentation) - [doceaser: Interactive documentation with Markdown and HTMX made easier](https://github.com/linkdd/doceaser)
 * [2024-04-13, 11:39:42](https://lobste.rs/s/ljhoc8/minimal_kotlin_nix_flake_example_with) - [Minimal Kotlin and Nix flake example (with Gradle 8 support)](https://github.com/owickstrom/minimal-kotlin-nix-example)
@@ -17,12 +19,10 @@
 * [2024-04-12, 12:14:02](https://lobste.rs/s/7q1tke/unit_tests_considered_harmful_no) - [Unit tests considered harmful? No](https://thedailydeveloper.substack.com/p/unit-tests-considered-harmful-no)
 * [2024-04-12, 10:05:55](https://lobste.rs/s/8xagju/fast_declarative_reproduble_composable) - [Fast, Declarative, Reproduble and Composable Developer Environments using Nix](https://devenv.sh/)
 * [2024-04-12, 09:40:38](https://lobste.rs/s/3rpzks/qemu_ipv6_slirp) - [Qemu IPv6 Slirp](https://blog.izissise.net/posts/qemuipv6slirp/)
-* [2024-04-12, 08:57:32](https://lobste.rs/s/cdzw5p/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cdzw5p/what_are_you_doing_this_weekend)
 * [2024-04-12, 08:51:01](https://lobste.rs/s/ip9xjs/math_puzzle_better_algorithm_for_top_k) - [A math puzzle and a better algorithm for top-k](https://quickwit.io/blog/top-k-complexity)
 * [2024-04-12, 08:31:01](https://lobste.rs/s/y7zosi/openbsd_is_cozy_operating_system) - [OpenBSD is a Cozy Operating System](https://btxx.org/posts/OpenBSD_is_a_Cozy_Operating_System/)
 * [2024-04-12, 05:41:44](https://lobste.rs/s/4c7igt/swift_for_c_practitioners) - [Swift for C++ Practitioners](https://sfba.social/@dgregor79/112253040167641326)
 * [2024-04-12, 04:57:47](https://lobste.rs/s/qv8hht/pep_744_jit_compilation) - [PEP 744 – JIT Compilation](https://peps.python.org/pep-0744/)
-* [2024-04-11, 18:42:49](https://lobste.rs/s/ozenpy/fivefold_slower_compared_go_optimizing) - [Fivefold Slower Compared to Go? Optimizing Rust's Protobuf Decoding Performance](https://www.greptime.com/blogs/2024-04-09-rust-protobuf-performance)
 * [2024-04-11, 16:38:12](https://lobste.rs/s/kkoygg/our_response_hashicorp_s_cease_desist) - [Our Response to Hashicorp's Cease and Desist Letter](https://opentofu.org/blog/our-response-to-hashicorps-cease-and-desist/)
 * [2024-04-11, 11:07:46](https://lobste.rs/s/vfee1g/what_makes_great_technical_blog) - [What makes a great technical blog](https://notes.eatonphil.com/2024-04-10-what-makes-a-great-tech-blog.html)
 

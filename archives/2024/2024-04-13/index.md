@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-13](index.md)
 
+* [2024-04-13, 16:28:07](https://lobste.rs/s/dtkgih/openttd_14_0_released) - [OpenTTD 14.0 released](https://www.openttd.org/news/2024/04/13/openttd-14-0)
+* [2024-04-13, 16:23:53](https://lobste.rs/s/nk917v/how_write_code_formatter) - [How to write a code formatter](https://yorickpeterse.com/articles/how-to-write-a-code-formatter/)
 * [2024-04-13, 13:28:55](https://lobste.rs/s/wfq06v/zksnarks_zkstarks_novel_verifiable) - [zkSNARKs & zkSTARKs: A Novel Verifiable Computation Model](https://illya.sh/blog/posts/zksnark-zkstark-verifiable-computation-model-blockchain/)
 * [2024-04-13, 11:52:12](https://lobste.rs/s/u0lor3/doceaser_interactive_documentation) - [doceaser: Interactive documentation with Markdown and HTMX made easier](https://github.com/linkdd/doceaser)
 * [2024-04-13, 11:39:42](https://lobste.rs/s/ljhoc8/minimal_kotlin_nix_flake_example_with) - [Minimal Kotlin and Nix flake example (with Gradle 8 support)](https://github.com/owickstrom/minimal-kotlin-nix-example)
