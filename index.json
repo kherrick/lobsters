@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-13, 00:45:05",
+      "https://lobste.rs/s/pl1req/signals_i_spent_2_years_understand_this"
+    ],
+    [
+      "Signals. I spent 2 years to understand this part",
+      "https://www.youtube.com/watch?v=d0gS5TXarXc"
+    ]
+  ],
+  [
+    [
       "2024-04-12, 23:04:50",
       "https://lobste.rs/s/mucoca/unit_integration_tests"
     ],
@@ -97,16 +107,6 @@
     [
       "Fast, Declarative, Reproduble and Composable Developer Environments using Nix",
       "https://devenv.sh/"
-    ]
-  ],
-  [
-    [
-      "2024-04-12, 09:41:49",
-      "https://lobste.rs/s/us7wcv/docsis_3_1_4_0_decoded_unleashing_high"
-    ],
-    [
-      "DOCSIS 3.1 -4.0 Decoded: Unleashing High-Speed Internet for IT Pros",
-      "https://www.youtube.com/watch?v=FQAdGtMSf9U"
     ]
   ],
   [
