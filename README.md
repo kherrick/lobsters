@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-13, 16:57:15](https://lobste.rs/s/lcpp10/ten_years_counting_my_affair_with) - [Ten Years and Counting: My Affair with Microservices](https://blog.allegro.tech/2024/04/ten-years-microservices.html)
 * [2024-04-13, 16:39:14](https://lobste.rs/s/0tmkr2/lessons_after_half_billion_gpt_tokens) - [Lessons after a half-billion GPT tokens](https://kenkantzer.com/lessons-after-a-half-billion-gpt-tokens/)
 * [2024-04-13, 16:28:07](https://lobste.rs/s/dtkgih/openttd_14_0_released) - [OpenTTD 14.0 released](https://www.openttd.org/news/2024/04/13/openttd-14-0)
 * [2024-04-13, 16:23:53](https://lobste.rs/s/nk917v/how_write_code_formatter) - [How to write a code formatter](https://yorickpeterse.com/articles/how-to-write-a-code-formatter/)
@@ -24,7 +25,6 @@
 * [2024-04-12, 05:41:44](https://lobste.rs/s/4c7igt/swift_for_c_practitioners) - [Swift for C++ Practitioners](https://sfba.social/@dgregor79/112253040167641326)
 * [2024-04-12, 04:57:47](https://lobste.rs/s/qv8hht/pep_744_jit_compilation) - [PEP 744 – JIT Compilation](https://peps.python.org/pep-0744/)
 * [2024-04-11, 16:38:12](https://lobste.rs/s/kkoygg/our_response_hashicorp_s_cease_desist) - [Our Response to Hashicorp's Cease and Desist Letter](https://opentofu.org/blog/our-response-to-hashicorps-cease-and-desist/)
-* [2024-04-11, 11:07:46](https://lobste.rs/s/vfee1g/what_makes_great_technical_blog) - [What makes a great technical blog](https://notes.eatonphil.com/2024-04-10-what-makes-a-great-tech-blog.html)
 
 ## [Archives](archives/index.md)
 
