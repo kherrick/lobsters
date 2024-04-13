@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-13, 16:28:07",
+      "https://lobste.rs/s/dtkgih/openttd_14_0_released"
+    ],
+    [
+      "OpenTTD 14.0 released",
+      "https://www.openttd.org/news/2024/04/13/openttd-14-0"
+    ]
+  ],
+  [
+    [
+      "2024-04-13, 16:23:53",
+      "https://lobste.rs/s/nk917v/how_write_code_formatter"
+    ],
+    [
+      "How to write a code formatter",
+      "https://yorickpeterse.com/articles/how-to-write-a-code-formatter/"
+    ]
+  ],
+  [
+    [
       "2024-04-13, 13:28:55",
       "https://lobste.rs/s/wfq06v/zksnarks_zkstarks_novel_verifiable"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-04-12, 08:57:32",
-      "https://lobste.rs/s/cdzw5p/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/cdzw5p/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
       "2024-04-12, 08:51:01",
       "https://lobste.rs/s/ip9xjs/math_puzzle_better_algorithm_for_top_k"
     ],
@@ -217,16 +227,6 @@
     [
       "PEP 744 – JIT Compilation",
       "https://peps.python.org/pep-0744/"
-    ]
-  ],
-  [
-    [
-      "2024-04-11, 18:42:49",
-      "https://lobste.rs/s/ozenpy/fivefold_slower_compared_go_optimizing"
-    ],
-    [
-      "Fivefold Slower Compared to Go? Optimizing Rust's Protobuf Decoding Performance",
-      "https://www.greptime.com/blogs/2024-04-09-rust-protobuf-performance"
     ]
   ],
   [
