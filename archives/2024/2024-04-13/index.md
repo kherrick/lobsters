@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-13](index.md)
 
+* [2024-04-13, 10:45:14](https://lobste.rs/s/up5xen/go_performance_from_version_1_0_1_22) - [Go performance from version 1.0 to 1.22](https://benhoyt.com/writings/go-version-performance-2024/)
 * [2024-04-13, 09:05:37](https://lobste.rs/s/lhur6p/kaspersky_analysis_backdoor_xz) - [Kaspersky analysis of the backdoor in XZ](https://securelist.com/xz-backdoor-story-part-1/112354/)
 * [2024-04-13, 07:44:21](https://lobste.rs/s/fshyxg/identifying_correcting_programming) - [Identifying and Correcting Programming Language Behavior Misconceptions](https://cs.brown.edu/~sk/Publications/Papers/Published/lk-smol-tutor/)
 * [2024-04-13, 00:45:05](https://lobste.rs/s/pl1req/signals_i_spent_2_years_understand_this) - [Signals. I spent 2 years to understand this part](https://www.youtube.com/watch?v=d0gS5TXarXc)

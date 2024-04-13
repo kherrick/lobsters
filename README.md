@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-13, 10:45:14](https://lobste.rs/s/up5xen/go_performance_from_version_1_0_1_22) - [Go performance from version 1.0 to 1.22](https://benhoyt.com/writings/go-version-performance-2024/)
 * [2024-04-13, 09:05:37](https://lobste.rs/s/lhur6p/kaspersky_analysis_backdoor_xz) - [Kaspersky analysis of the backdoor in XZ](https://securelist.com/xz-backdoor-story-part-1/112354/)
 * [2024-04-13, 07:44:21](https://lobste.rs/s/fshyxg/identifying_correcting_programming) - [Identifying and Correcting Programming Language Behavior Misconceptions](https://cs.brown.edu/~sk/Publications/Papers/Published/lk-smol-tutor/)
 * [2024-04-13, 00:45:05](https://lobste.rs/s/pl1req/signals_i_spent_2_years_understand_this) - [Signals. I spent 2 years to understand this part](https://www.youtube.com/watch?v=d0gS5TXarXc)
@@ -13,7 +14,6 @@
 * [2024-04-12, 14:06:09](https://lobste.rs/s/kdqdth/webxr_retro_computer_simulation) - [WebXR retro computer simulation](https://www.dompajak.com/blog/webxr-beeb-virtual-beeb/index.html)
 * [2024-04-12, 12:14:02](https://lobste.rs/s/7q1tke/unit_tests_considered_harmful_no) - [Unit tests considered harmful? No](https://thedailydeveloper.substack.com/p/unit-tests-considered-harmful-no)
 * [2024-04-12, 10:05:55](https://lobste.rs/s/8xagju/fast_declarative_reproduble_composable) - [Fast, Declarative, Reproduble and Composable Developer Environments using Nix](https://devenv.sh/)
-* [2024-04-12, 09:41:49](https://lobste.rs/s/us7wcv/docsis_3_1_4_0_decoded_unleashing_high) - [DOCSIS 3.1 -4.0 Decoded: Unleashing High-Speed Internet for IT Pros](https://www.youtube.com/watch?v=FQAdGtMSf9U)
 * [2024-04-12, 09:40:38](https://lobste.rs/s/3rpzks/qemu_ipv6_slirp) - [Qemu IPv6 Slirp](https://blog.izissise.net/posts/qemuipv6slirp/)
 * [2024-04-12, 08:57:32](https://lobste.rs/s/cdzw5p/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cdzw5p/what_are_you_doing_this_weekend)
 * [2024-04-12, 08:51:01](https://lobste.rs/s/ip9xjs/math_puzzle_better_algorithm_for_top_k) - [A math puzzle and a better algorithm for top-k](https://quickwit.io/blog/top-k-complexity)
