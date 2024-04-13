@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-13, 11:52:12](https://lobste.rs/s/u0lor3/doceaser_interactive_documentation) - [doceaser: Interactive documentation with Markdown and HTMX made easier](https://github.com/linkdd/doceaser)
 * [2024-04-13, 11:39:42](https://lobste.rs/s/ljhoc8/minimal_kotlin_nix_flake_example_with) - [Minimal Kotlin and Nix flake example (with Gradle 8 support)](https://github.com/owickstrom/minimal-kotlin-nix-example)
 * [2024-04-13, 11:21:06](https://lobste.rs/s/jrwbg5/advent_code_2023_day_6_hurl) - [Advent of Code 2023: Day 6 in Hurl](https://blog.flowblok.id.au/2024-04/advent-of-code-2023-day-6.html)
 * [2024-04-13, 10:45:14](https://lobste.rs/s/up5xen/go_performance_from_version_1_0_1_22) - [Go performance from version 1.0 to 1.22](https://benhoyt.com/writings/go-version-performance-2024/)
@@ -22,7 +23,6 @@
 * [2024-04-12, 05:41:44](https://lobste.rs/s/4c7igt/swift_for_c_practitioners) - [Swift for C++ Practitioners](https://sfba.social/@dgregor79/112253040167641326)
 * [2024-04-12, 04:57:47](https://lobste.rs/s/qv8hht/pep_744_jit_compilation) - [PEP 744 – JIT Compilation](https://peps.python.org/pep-0744/)
 * [2024-04-11, 18:42:49](https://lobste.rs/s/ozenpy/fivefold_slower_compared_go_optimizing) - [Fivefold Slower Compared to Go? Optimizing Rust's Protobuf Decoding Performance](https://www.greptime.com/blogs/2024-04-09-rust-protobuf-performance)
-* [2024-04-11, 16:45:01](https://lobste.rs/s/e8uyo5/simple_beauty_xor_floating_point) - [The Simple Beauty of XOR Floating Point Compression](https://clemenswinter.com/2024/04/07/the-simple-beauty-of-xor-floating-point-compression/)
 * [2024-04-11, 16:38:12](https://lobste.rs/s/kkoygg/our_response_hashicorp_s_cease_desist) - [Our Response to Hashicorp's Cease and Desist Letter](https://opentofu.org/blog/our-response-to-hashicorps-cease-and-desist/)
 * [2024-04-11, 11:07:46](https://lobste.rs/s/vfee1g/what_makes_great_technical_blog) - [What makes a great technical blog](https://notes.eatonphil.com/2024-04-10-what-makes-a-great-tech-blog.html)
 

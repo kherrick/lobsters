@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-13](index.md)
 
+* [2024-04-13, 11:52:12](https://lobste.rs/s/u0lor3/doceaser_interactive_documentation) - [doceaser: Interactive documentation with Markdown and HTMX made easier](https://github.com/linkdd/doceaser)
 * [2024-04-13, 11:39:42](https://lobste.rs/s/ljhoc8/minimal_kotlin_nix_flake_example_with) - [Minimal Kotlin and Nix flake example (with Gradle 8 support)](https://github.com/owickstrom/minimal-kotlin-nix-example)
 * [2024-04-13, 11:21:06](https://lobste.rs/s/jrwbg5/advent_code_2023_day_6_hurl) - [Advent of Code 2023: Day 6 in Hurl](https://blog.flowblok.id.au/2024-04/advent-of-code-2023-day-6.html)
 * [2024-04-13, 10:45:14](https://lobste.rs/s/up5xen/go_performance_from_version_1_0_1_22) - [Go performance from version 1.0 to 1.22](https://benhoyt.com/writings/go-version-performance-2024/)
