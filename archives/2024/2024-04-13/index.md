@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-13](index.md)
 
+* [2024-04-13, 16:39:14](https://lobste.rs/s/0tmkr2/lessons_after_half_billion_gpt_tokens) - [Lessons after a half-billion GPT tokens](https://kenkantzer.com/lessons-after-a-half-billion-gpt-tokens/)
 * [2024-04-13, 16:28:07](https://lobste.rs/s/dtkgih/openttd_14_0_released) - [OpenTTD 14.0 released](https://www.openttd.org/news/2024/04/13/openttd-14-0)
 * [2024-04-13, 16:23:53](https://lobste.rs/s/nk917v/how_write_code_formatter) - [How to write a code formatter](https://yorickpeterse.com/articles/how-to-write-a-code-formatter/)
 * [2024-04-13, 13:28:55](https://lobste.rs/s/wfq06v/zksnarks_zkstarks_novel_verifiable) - [zkSNARKs & zkSTARKs: A Novel Verifiable Computation Model](https://illya.sh/blog/posts/zksnark-zkstark-verifiable-computation-model-blockchain/)
