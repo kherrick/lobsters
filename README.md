@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-13, 07:44:21](https://lobste.rs/s/fshyxg/identifying_correcting_programming) - [Identifying and Correcting Programming Language Behavior Misconceptions](https://cs.brown.edu/~sk/Publications/Papers/Published/lk-smol-tutor/)
 * [2024-04-13, 00:45:05](https://lobste.rs/s/pl1req/signals_i_spent_2_years_understand_this) - [Signals. I spent 2 years to understand this part](https://www.youtube.com/watch?v=d0gS5TXarXc)
 * [2024-04-12, 23:04:50](https://lobste.rs/s/mucoca/unit_integration_tests) - [Unit and Integration Tests](https://matklad.github.io/2022/07/04/unit-and-integration-tests.html)
 * [2024-04-12, 22:34:57](https://lobste.rs/s/1yrurm/setting_up_postgresql_for_running) - [Setting up PostgreSQL for running integration tests](https://gajus.com/blog/setting-up-postgre-sql-for-running-integration-tests)
@@ -21,7 +22,6 @@
 * [2024-04-11, 18:45:34](https://lobste.rs/s/sbeflu/improve_performance_you_rust_functions) - [Improve performance of you Rust functions by const currying](https://blog.cocl2.com/posts/const-currying-rs/)
 * [2024-04-11, 18:42:49](https://lobste.rs/s/ozenpy/fivefold_slower_compared_go_optimizing) - [Fivefold Slower Compared to Go? Optimizing Rust's Protobuf Decoding Performance](https://www.greptime.com/blogs/2024-04-09-rust-protobuf-performance)
 * [2024-04-11, 16:45:01](https://lobste.rs/s/e8uyo5/simple_beauty_xor_floating_point) - [The Simple Beauty of XOR Floating Point Compression](https://clemenswinter.com/2024/04/07/the-simple-beauty-of-xor-floating-point-compression/)
-* [2024-04-11, 16:43:45](https://lobste.rs/s/hgtpg0/why_is_there_no_realloc_takes_number_bytes) - [Why is there no realloc that takes the number of bytes to copy?](https://shift.click/blog/missing-alloc-api/)
 * [2024-04-11, 16:38:12](https://lobste.rs/s/kkoygg/our_response_hashicorp_s_cease_desist) - [Our Response to Hashicorp's Cease and Desist Letter](https://opentofu.org/blog/our-response-to-hashicorps-cease-and-desist/)
 * [2024-04-11, 13:50:58](https://lobste.rs/s/knrbyb/circular_buffer_performance_trick) - [Circular Buffer Performance Trick](https://cybernetist.com/2024/04/11/circular-buffer-performance-trick/)
 * [2024-04-11, 11:07:46](https://lobste.rs/s/vfee1g/what_makes_great_technical_blog) - [What makes a great technical blog](https://notes.eatonphil.com/2024-04-10-what-makes-a-great-tech-blog.html)
