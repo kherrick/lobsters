@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-14](index.md)
 
+* [2024-04-14, 03:12:19](https://lobste.rs/s/qojide/from_vim_zed) - [From Vim to Zed](https://registerspill.thorstenball.com/p/from-vim-to-zed)
 * [2024-04-14, 02:51:34](https://lobste.rs/s/3pnmod/making_ijq_fast) - [Making ijq Fast](https://gpanders.com/blog/making-ijq-fast/)
 * [2024-04-14, 02:50:07](https://lobste.rs/s/qcqfmo/bunkchat_local_only_chat_for_tilde) - [bunkchat: local-only chat for tilde servers written in posix sh](https://git.bunk.computer/bunk/bunkchat)
 * [2024-04-14, 02:28:48](https://lobste.rs/s/elvubj/speculations_on_arenas_custom_strings_c) - [Speculations on arenas and custom strings in C++](https://nullprogram.com/blog/2024/04/14/)
