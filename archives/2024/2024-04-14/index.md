@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-14](index.md)
 
+* [2024-04-14, 04:03:23](https://lobste.rs/s/nwhkqm/can_you_grok_it_hacking_together_your_own) - [Can You Grok It - Hacking Together Your Own Dev Tunnel Service](https://0xda.de/blog/2024/04/can-you-grok-it/)
 * [2024-04-14, 03:12:19](https://lobste.rs/s/qojide/from_vim_zed) - [From Vim to Zed](https://registerspill.thorstenball.com/p/from-vim-to-zed)
 * [2024-04-14, 02:51:34](https://lobste.rs/s/3pnmod/making_ijq_fast) - [Making ijq Fast](https://gpanders.com/blog/making-ijq-fast/)
 * [2024-04-14, 02:50:07](https://lobste.rs/s/qcqfmo/bunkchat_local_only_chat_for_tilde) - [bunkchat: local-only chat for tilde servers written in posix sh](https://git.bunk.computer/bunk/bunkchat)
