@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-14](index.md)
 
+* [2024-04-14, 14:37:08](https://lobste.rs/s/lqhbzg/elegance_undervalued_system) - [Elegance: The Undervalued System Requirement](https://systemsapproach.org/2024/03/18/elegance-the-undervalued-system-requirement/)
 * [2024-04-14, 13:44:14](https://lobste.rs/s/lzhrkk/powerful_cli_for_creating_managing) - [A powerful CLI for creating and managing PrivateBin pastes with ease](https://github.com/gearnode/privatebin)
 * [2024-04-14, 13:02:05](https://lobste.rs/s/7clm5b/wireviz_easily_document_cables_wiring) - [WireViz: Easily document cables and wiring harnesses](https://github.com/wireviz/WireViz)
 * [2024-04-14, 12:57:23](https://lobste.rs/s/onqgl0/computing_adler32_checksums_at_41_gb_s) - [Computing Adler32 Checksums at 41 GB/s](https://wooo.sh/adler32.html)

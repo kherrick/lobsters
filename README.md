@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-14, 14:37:08](https://lobste.rs/s/lqhbzg/elegance_undervalued_system) - [Elegance: The Undervalued System Requirement](https://systemsapproach.org/2024/03/18/elegance-the-undervalued-system-requirement/)
 * [2024-04-14, 13:44:14](https://lobste.rs/s/lzhrkk/powerful_cli_for_creating_managing) - [A powerful CLI for creating and managing PrivateBin pastes with ease](https://github.com/gearnode/privatebin)
 * [2024-04-14, 13:02:05](https://lobste.rs/s/7clm5b/wireviz_easily_document_cables_wiring) - [WireViz: Easily document cables and wiring harnesses](https://github.com/wireviz/WireViz)
 * [2024-04-14, 12:57:23](https://lobste.rs/s/onqgl0/computing_adler32_checksums_at_41_gb_s) - [Computing Adler32 Checksums at 41 GB/s](https://wooo.sh/adler32.html)
@@ -21,7 +22,6 @@
 * [2024-04-13, 16:28:07](https://lobste.rs/s/dtkgih/openttd_14_0_released) - [OpenTTD 14.0 released](https://www.openttd.org/news/2024/04/13/openttd-14-0)
 * [2024-04-13, 16:23:53](https://lobste.rs/s/nk917v/how_write_code_formatter) - [How to write a code formatter](https://yorickpeterse.com/articles/how-to-write-a-code-formatter/)
 * [2024-04-13, 13:28:55](https://lobste.rs/s/wfq06v/zksnarks_zkstarks_novel_verifiable) - [zkSNARKs & zkSTARKs: A Novel Verifiable Computation Model](https://illya.sh/blog/posts/zksnark-zkstark-verifiable-computation-model-blockchain/)
-* [2024-04-13, 11:52:12](https://lobste.rs/s/u0lor3/doceaser_interactive_documentation) - [doceaser: Interactive documentation with Markdown and HTMX made easier](https://github.com/linkdd/doceaser)
 * [2024-04-13, 10:45:14](https://lobste.rs/s/up5xen/go_performance_from_version_1_0_1_22) - [Go performance from version 1.0 to 1.22](https://benhoyt.com/writings/go-version-performance-2024/)
 * [2024-04-13, 09:05:37](https://lobste.rs/s/lhur6p/kaspersky_analysis_backdoor_xz) - [Kaspersky analysis of the backdoor in XZ](https://securelist.com/xz-backdoor-story-part-1/112354/)
 * [2024-04-12, 22:34:57](https://lobste.rs/s/1yrurm/setting_up_postgresql_for_running) - [Setting up PostgreSQL for running integration tests](https://gajus.com/blog/setting-up-postgre-sql-for-running-integration-tests)
