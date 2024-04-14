@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-14](index.md)
 
+* [2024-04-14, 10:41:34](https://lobste.rs/s/gcnmny/linux_fu_getting_started_with_systemd) - [Linux Fu: Getting Started With Systemd](https://hackaday.com/2024/04/11/linux-fu-getting-started-with-systemd/)
 * [2024-04-14, 07:22:52](https://lobste.rs/s/gwqvgh/power_hungry_processing_watts_driving) - [Power Hungry Processing: Watts Driving the Cost of AI Deployment?](https://arxiv.org/pdf/2311.16863.pdf)
 * [2024-04-14, 04:03:23](https://lobste.rs/s/nwhkqm/can_you_grok_it_hacking_together_your_own) - [Can You Grok It - Hacking Together Your Own Dev Tunnel Service](https://0xda.de/blog/2024/04/can-you-grok-it/)
 * [2024-04-14, 03:12:19](https://lobste.rs/s/qojide/from_vim_zed) - [From Vim to Zed](https://registerspill.thorstenball.com/p/from-vim-to-zed)

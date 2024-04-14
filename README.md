@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-14, 10:41:34](https://lobste.rs/s/gcnmny/linux_fu_getting_started_with_systemd) - [Linux Fu: Getting Started With Systemd](https://hackaday.com/2024/04/11/linux-fu-getting-started-with-systemd/)
 * [2024-04-14, 07:22:52](https://lobste.rs/s/gwqvgh/power_hungry_processing_watts_driving) - [Power Hungry Processing: Watts Driving the Cost of AI Deployment?](https://arxiv.org/pdf/2311.16863.pdf)
 * [2024-04-14, 04:03:23](https://lobste.rs/s/nwhkqm/can_you_grok_it_hacking_together_your_own) - [Can You Grok It - Hacking Together Your Own Dev Tunnel Service](https://0xda.de/blog/2024/04/can-you-grok-it/)
 * [2024-04-14, 03:12:19](https://lobste.rs/s/qojide/from_vim_zed) - [From Vim to Zed](https://registerspill.thorstenball.com/p/from-vim-to-zed)
@@ -22,7 +23,6 @@
 * [2024-04-13, 07:44:21](https://lobste.rs/s/fshyxg/identifying_correcting_programming) - [Identifying and Correcting Programming Language Behavior Misconceptions](https://cs.brown.edu/~sk/Publications/Papers/Published/lk-smol-tutor/)
 * [2024-04-12, 22:34:57](https://lobste.rs/s/1yrurm/setting_up_postgresql_for_running) - [Setting up PostgreSQL for running integration tests](https://gajus.com/blog/setting-up-postgre-sql-for-running-integration-tests)
 * [2024-04-12, 20:25:24](https://lobste.rs/s/11wbk9/backport_net_2_0_3_5_windows_95) - [Backport of .NET 2.0 - 3.5 to Windows 95](https://github.com/itsmattkc/dotnet9x)
-* [2024-04-12, 18:37:56](https://lobste.rs/s/zyj8ju/sigbovik_2024) - [SIGBOVIK 2024](https://sigbovik.org/2024/)
 * [2024-04-12, 10:05:55](https://lobste.rs/s/8xagju/fast_declarative_reproduble_composable) - [Fast, Declarative, Reproduble and Composable Developer Environments using Nix](https://devenv.sh/)
 * [2024-04-12, 08:31:01](https://lobste.rs/s/y7zosi/openbsd_is_cozy_operating_system) - [OpenBSD is a Cozy Operating System](https://btxx.org/posts/OpenBSD_is_a_Cozy_Operating_System/)
 
