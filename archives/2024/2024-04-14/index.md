@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-04-14](index.md)
+
+* [2024-04-14, 01:40:53](https://lobste.rs/s/enwqun/combinatory_programming) - [Combinatory Programming](https://blog.zdsmith.com/posts/combinatory-programming.html)

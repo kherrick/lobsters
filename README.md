@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-14, 01:40:53](https://lobste.rs/s/enwqun/combinatory_programming) - [Combinatory Programming](https://blog.zdsmith.com/posts/combinatory-programming.html)
 * [2024-04-13, 21:23:36](https://lobste.rs/s/li8thy/joy_computing) - [The joy of computing](https://jamesg.blog/2024/04/13/joy-of-computing/)
 * [2024-04-13, 17:36:03](https://lobste.rs/s/4q5gqs/tree_shaking_horticulturally_misguided) - [tree-shaking, the horticulturally misguided algorithm](https://wingolog.org/archives/2023/11/24/tree-shaking-the-horticulturally-misguided-algorithm)
 * [2024-04-13, 16:57:15](https://lobste.rs/s/lcpp10/ten_years_counting_my_affair_with) - [Ten Years and Counting: My Affair with Microservices](https://blog.allegro.tech/2024/04/ten-years-microservices.html)
@@ -17,7 +18,6 @@
 * [2024-04-12, 22:34:57](https://lobste.rs/s/1yrurm/setting_up_postgresql_for_running) - [Setting up PostgreSQL for running integration tests](https://gajus.com/blog/setting-up-postgre-sql-for-running-integration-tests)
 * [2024-04-12, 20:25:24](https://lobste.rs/s/11wbk9/backport_net_2_0_3_5_windows_95) - [Backport of .NET 2.0 - 3.5 to Windows 95](https://github.com/itsmattkc/dotnet9x)
 * [2024-04-12, 18:37:56](https://lobste.rs/s/zyj8ju/sigbovik_2024) - [SIGBOVIK 2024](https://sigbovik.org/2024/)
-* [2024-04-12, 16:37:16](https://lobste.rs/s/sgh8f6/tear_able_puns_worse_ideas_minimally) - [“Tear”able Puns, and Worse Ideas: A Minimally Thread-Safe Cell](https://shift.click/blog/tearcell/)
 * [2024-04-12, 12:14:02](https://lobste.rs/s/7q1tke/unit_tests_considered_harmful_no) - [Unit tests considered harmful? No](https://thedailydeveloper.substack.com/p/unit-tests-considered-harmful-no)
 * [2024-04-12, 10:05:55](https://lobste.rs/s/8xagju/fast_declarative_reproduble_composable) - [Fast, Declarative, Reproduble and Composable Developer Environments using Nix](https://devenv.sh/)
 * [2024-04-12, 09:40:38](https://lobste.rs/s/3rpzks/qemu_ipv6_slirp) - [Qemu IPv6 Slirp](https://blog.izissise.net/posts/qemuipv6slirp/)
