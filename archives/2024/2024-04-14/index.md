@@ -4,6 +4,16 @@
 
 ### [Archives](../../index.md) for [2024-04-14](index.md)
 
+* [2024-04-14, 19:50:38](https://lobste.rs/s/e2bnzn/emacs_2011_2023) - [🪦 Emacs 2011-2023](https://bastibe.de/2024-03-24-rip-emacs-2011-2023.html)
+* [2024-04-14, 19:03:45](https://lobste.rs/s/uh1rdi/sandboxing_all_things_with_flatpak) - [Sandboxing All The Things with Flatpak and BubbleBox](https://www.ralfj.de/blog/2024/04/14/bubblebox.html)
+* [2024-04-14, 18:55:48](https://lobste.rs/s/ajykxy/mysterious_moving_pointers) - [Mysterious Moving Pointers](https://blomqu.ist/posts/2024/move/)
+* [2024-04-14, 18:55:12](https://lobste.rs/s/pv7th5/only_spans) - [Only Spans](https://onlyspans.net/)
+* [2024-04-14, 18:52:35](https://lobste.rs/s/1d9al5/call_for_early_adopters_sel_botan_one_time) - [Call for early adopters of Sel, Botan and one-time-password](https://discourse.haskell.org/t/call-for-early-adopters-of-sel-botan-and-one-time-password/9326/2)
+* [2024-04-14, 18:47:39](https://lobste.rs/s/5at38s/hidden_dependencies_linux_binaries) - [Hidden dependencies in Linux binaries](http://thelittleengineerthatcould.blogspot.com/2024/04/hidden-dependencies-in-linux-binaries.html)
+* [2024-04-14, 18:11:31](https://lobste.rs/s/p2m6a3/getting_started_with_sched_ext) - [Getting started with sched-ext development](http://arighi.blogspot.com/2024/04/getting-started-with-sched-ext.html)
+* [2024-04-14, 16:28:11](https://lobste.rs/s/sl9n7k/control_autofocus_software_for_chip) - [Control and Autofocus Software for Chip-Level Microscopy](https://www.bunniestudios.com/blog/2024/control-and-autofocus-software-for-chip-level-microscopy/)
+* [2024-04-14, 15:57:26](https://lobste.rs/s/yrhise/getting_started_with_activitypub) - [Getting started with ActivityPub](https://dev.to/thasmin/getting-started-with-activitypub-2mgm)
+* [2024-04-14, 15:48:49](https://lobste.rs/s/lmpjq6/inko_0_14_0_released) - [Inko 0.14.0 released](https://inko-lang.org/news/inko-0-14-0-released/)
 * [2024-04-14, 14:37:08](https://lobste.rs/s/lqhbzg/elegance_undervalued_system) - [Elegance: The Undervalued System Requirement](https://systemsapproach.org/2024/03/18/elegance-the-undervalued-system-requirement/)
 * [2024-04-14, 13:44:14](https://lobste.rs/s/lzhrkk/powerful_cli_for_creating_managing) - [A powerful CLI for creating and managing PrivateBin pastes with ease](https://github.com/gearnode/privatebin)
 * [2024-04-14, 13:02:05](https://lobste.rs/s/7clm5b/wireviz_easily_document_cables_wiring) - [WireViz: Easily document cables and wiring harnesses](https://github.com/wireviz/WireViz)
