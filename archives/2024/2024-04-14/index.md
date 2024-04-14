@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-04-14](index.md)
 
+* [2024-04-14, 13:44:14](https://lobste.rs/s/lzhrkk/powerful_cli_for_creating_managing) - [A powerful CLI for creating and managing PrivateBin pastes with ease](https://github.com/gearnode/privatebin)
+* [2024-04-14, 13:02:05](https://lobste.rs/s/7clm5b/wireviz_easily_document_cables_wiring) - [WireViz: Easily document cables and wiring harnesses](https://github.com/wireviz/WireViz)
+* [2024-04-14, 12:57:23](https://lobste.rs/s/onqgl0/computing_adler32_checksums_at_41_gb_s) - [Computing Adler32 Checksums at 41 GB/s](https://wooo.sh/adler32.html)
+* [2024-04-14, 12:52:54](https://lobste.rs/s/dwffbh/lambda_ski_semantically) - [Lambda to SKI, semantically](https://okmij.org/ftp/tagless-final/ski.pdf)
+* [2024-04-14, 11:13:39](https://lobste.rs/s/iaxxhz/travelling_with_tailscale) - [Travelling with Tailscale](https://mrkaran.dev/posts/travel-tailscale/)
+* [2024-04-14, 11:11:36](https://lobste.rs/s/9itpwl/db_indexes_do_not_magically_compose) - [DB Indexes Do Not Magically Compose](https://rtpg.co/2024/04/14/db-indexes-do-not-magically-compose/)
+* [2024-04-14, 10:46:27](https://lobste.rs/s/4bntfh/learning_code_with_without_ai) - [Learning to code with and without AI](https://austinhenley.com/blog/learningwithai.html)
 * [2024-04-14, 10:41:34](https://lobste.rs/s/gcnmny/linux_fu_getting_started_with_systemd) - [Linux Fu: Getting Started With Systemd](https://hackaday.com/2024/04/11/linux-fu-getting-started-with-systemd/)
 * [2024-04-14, 07:22:52](https://lobste.rs/s/gwqvgh/power_hungry_processing_watts_driving) - [Power Hungry Processing: Watts Driving the Cost of AI Deployment?](https://arxiv.org/pdf/2311.16863.pdf)
 * [2024-04-14, 04:03:23](https://lobste.rs/s/nwhkqm/can_you_grok_it_hacking_together_your_own) - [Can You Grok It - Hacking Together Your Own Dev Tunnel Service](https://0xda.de/blog/2024/04/can-you-grok-it/)
