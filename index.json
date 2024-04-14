@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-14, 01:40:53",
+      "https://lobste.rs/s/enwqun/combinatory_programming"
+    ],
+    [
+      "Combinatory Programming",
+      "https://blog.zdsmith.com/posts/combinatory-programming.html"
+    ]
+  ],
+  [
+    [
       "2024-04-13, 21:23:36",
       "https://lobste.rs/s/li8thy/joy_computing"
     ],
@@ -167,16 +177,6 @@
     [
       "SIGBOVIK 2024",
       "https://sigbovik.org/2024/"
-    ]
-  ],
-  [
-    [
-      "2024-04-12, 16:37:16",
-      "https://lobste.rs/s/sgh8f6/tear_able_puns_worse_ideas_minimally"
-    ],
-    [
-      "“Tear”able Puns, and Worse Ideas: A Minimally Thread-Safe Cell",
-      "https://shift.click/blog/tearcell/"
     ]
   ],
   [
