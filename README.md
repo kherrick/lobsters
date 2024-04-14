@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-14, 07:22:52](https://lobste.rs/s/gwqvgh/power_hungry_processing_watts_driving) - [Power Hungry Processing: Watts Driving the Cost of AI Deployment?](https://arxiv.org/pdf/2311.16863.pdf)
 * [2024-04-14, 04:03:23](https://lobste.rs/s/nwhkqm/can_you_grok_it_hacking_together_your_own) - [Can You Grok It - Hacking Together Your Own Dev Tunnel Service](https://0xda.de/blog/2024/04/can-you-grok-it/)
 * [2024-04-14, 03:12:19](https://lobste.rs/s/qojide/from_vim_zed) - [From Vim to Zed](https://registerspill.thorstenball.com/p/from-vim-to-zed)
 * [2024-04-14, 02:51:34](https://lobste.rs/s/3pnmod/making_ijq_fast) - [Making ijq Fast](https://gpanders.com/blog/making-ijq-fast/)
@@ -19,7 +20,6 @@
 * [2024-04-13, 10:45:14](https://lobste.rs/s/up5xen/go_performance_from_version_1_0_1_22) - [Go performance from version 1.0 to 1.22](https://benhoyt.com/writings/go-version-performance-2024/)
 * [2024-04-13, 09:05:37](https://lobste.rs/s/lhur6p/kaspersky_analysis_backdoor_xz) - [Kaspersky analysis of the backdoor in XZ](https://securelist.com/xz-backdoor-story-part-1/112354/)
 * [2024-04-13, 07:44:21](https://lobste.rs/s/fshyxg/identifying_correcting_programming) - [Identifying and Correcting Programming Language Behavior Misconceptions](https://cs.brown.edu/~sk/Publications/Papers/Published/lk-smol-tutor/)
-* [2024-04-13, 00:45:05](https://lobste.rs/s/pl1req/signals_i_spent_2_years_understand_this) - [Signals. I spent 2 years to understand this part](https://www.youtube.com/watch?v=d0gS5TXarXc)
 * [2024-04-12, 22:34:57](https://lobste.rs/s/1yrurm/setting_up_postgresql_for_running) - [Setting up PostgreSQL for running integration tests](https://gajus.com/blog/setting-up-postgre-sql-for-running-integration-tests)
 * [2024-04-12, 20:25:24](https://lobste.rs/s/11wbk9/backport_net_2_0_3_5_windows_95) - [Backport of .NET 2.0 - 3.5 to Windows 95](https://github.com/itsmattkc/dotnet9x)
 * [2024-04-12, 18:37:56](https://lobste.rs/s/zyj8ju/sigbovik_2024) - [SIGBOVIK 2024](https://sigbovik.org/2024/)
