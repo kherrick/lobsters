@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-14, 14:37:08",
+      "https://lobste.rs/s/lqhbzg/elegance_undervalued_system"
+    ],
+    [
+      "Elegance: The Undervalued System Requirement",
+      "https://systemsapproach.org/2024/03/18/elegance-the-undervalued-system-requirement/"
+    ]
+  ],
+  [
+    [
       "2024-04-14, 13:44:14",
       "https://lobste.rs/s/lzhrkk/powerful_cli_for_creating_managing"
     ],
@@ -207,16 +217,6 @@
     [
       "zkSNARKs & zkSTARKs: A Novel Verifiable Computation Model",
       "https://illya.sh/blog/posts/zksnark-zkstark-verifiable-computation-model-blockchain/"
-    ]
-  ],
-  [
-    [
-      "2024-04-13, 11:52:12",
-      "https://lobste.rs/s/u0lor3/doceaser_interactive_documentation"
-    ],
-    [
-      "doceaser: Interactive documentation with Markdown and HTMX made easier",
-      "https://github.com/linkdd/doceaser"
     ]
   ],
   [
