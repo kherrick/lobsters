@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-14, 02:51:34](https://lobste.rs/s/3pnmod/making_ijq_fast) - [Making ijq Fast](https://gpanders.com/blog/making-ijq-fast/)
+* [2024-04-14, 02:50:07](https://lobste.rs/s/qcqfmo/bunkchat_local_only_chat_for_tilde) - [bunkchat: local-only chat for tilde servers written in posix sh](https://git.bunk.computer/bunk/bunkchat)
+* [2024-04-14, 02:28:48](https://lobste.rs/s/elvubj/speculations_on_arenas_custom_strings_c) - [Speculations on arenas and custom strings in C++](https://nullprogram.com/blog/2024/04/14/)
+* [2024-04-14, 02:21:38](https://lobste.rs/s/qw138x/why_streaming_is_my_favourite_haskell) - [Why `streaming` Is My Favourite Haskell Streaming Library](http://jackkelly.name/blog/archives/2024/04/13/why_streaming_is_my_favourite_haskell_streaming_library/)
 * [2024-04-14, 01:40:53](https://lobste.rs/s/enwqun/combinatory_programming) - [Combinatory Programming](https://blog.zdsmith.com/posts/combinatory-programming.html)
 * [2024-04-13, 21:23:36](https://lobste.rs/s/li8thy/joy_computing) - [The joy of computing](https://jamesg.blog/2024/04/13/joy-of-computing/)
 * [2024-04-13, 17:36:03](https://lobste.rs/s/4q5gqs/tree_shaking_horticulturally_misguided) - [tree-shaking, the horticulturally misguided algorithm](https://wingolog.org/archives/2023/11/24/tree-shaking-the-horticulturally-misguided-algorithm)
@@ -10,7 +14,6 @@
 * [2024-04-13, 13:28:55](https://lobste.rs/s/wfq06v/zksnarks_zkstarks_novel_verifiable) - [zkSNARKs & zkSTARKs: A Novel Verifiable Computation Model](https://illya.sh/blog/posts/zksnark-zkstark-verifiable-computation-model-blockchain/)
 * [2024-04-13, 11:52:12](https://lobste.rs/s/u0lor3/doceaser_interactive_documentation) - [doceaser: Interactive documentation with Markdown and HTMX made easier](https://github.com/linkdd/doceaser)
 * [2024-04-13, 11:39:42](https://lobste.rs/s/ljhoc8/minimal_kotlin_nix_flake_example_with) - [Minimal Kotlin and Nix flake example (with Gradle 8 support)](https://github.com/owickstrom/minimal-kotlin-nix-example)
-* [2024-04-13, 11:21:06](https://lobste.rs/s/jrwbg5/advent_code_2023_day_6_hurl) - [Advent of Code 2023: Day 6 in Hurl](https://blog.flowblok.id.au/2024-04/advent-of-code-2023-day-6.html)
 * [2024-04-13, 10:45:14](https://lobste.rs/s/up5xen/go_performance_from_version_1_0_1_22) - [Go performance from version 1.0 to 1.22](https://benhoyt.com/writings/go-version-performance-2024/)
 * [2024-04-13, 09:05:37](https://lobste.rs/s/lhur6p/kaspersky_analysis_backdoor_xz) - [Kaspersky analysis of the backdoor in XZ](https://securelist.com/xz-backdoor-story-part-1/112354/)
 * [2024-04-13, 07:44:21](https://lobste.rs/s/fshyxg/identifying_correcting_programming) - [Identifying and Correcting Programming Language Behavior Misconceptions](https://cs.brown.edu/~sk/Publications/Papers/Published/lk-smol-tutor/)
@@ -20,11 +23,8 @@
 * [2024-04-12, 18:37:56](https://lobste.rs/s/zyj8ju/sigbovik_2024) - [SIGBOVIK 2024](https://sigbovik.org/2024/)
 * [2024-04-12, 12:14:02](https://lobste.rs/s/7q1tke/unit_tests_considered_harmful_no) - [Unit tests considered harmful? No](https://thedailydeveloper.substack.com/p/unit-tests-considered-harmful-no)
 * [2024-04-12, 10:05:55](https://lobste.rs/s/8xagju/fast_declarative_reproduble_composable) - [Fast, Declarative, Reproduble and Composable Developer Environments using Nix](https://devenv.sh/)
-* [2024-04-12, 09:40:38](https://lobste.rs/s/3rpzks/qemu_ipv6_slirp) - [Qemu IPv6 Slirp](https://blog.izissise.net/posts/qemuipv6slirp/)
-* [2024-04-12, 08:51:01](https://lobste.rs/s/ip9xjs/math_puzzle_better_algorithm_for_top_k) - [A math puzzle and a better algorithm for top-k](https://quickwit.io/blog/top-k-complexity)
 * [2024-04-12, 08:31:01](https://lobste.rs/s/y7zosi/openbsd_is_cozy_operating_system) - [OpenBSD is a Cozy Operating System](https://btxx.org/posts/OpenBSD_is_a_Cozy_Operating_System/)
 * [2024-04-12, 04:57:47](https://lobste.rs/s/qv8hht/pep_744_jit_compilation) - [PEP 744 – JIT Compilation](https://peps.python.org/pep-0744/)
-* [2024-04-11, 16:38:12](https://lobste.rs/s/kkoygg/our_response_hashicorp_s_cease_desist) - [Our Response to Hashicorp's Cease and Desist Letter](https://opentofu.org/blog/our-response-to-hashicorps-cease-and-desist/)
 
 ## [Archives](archives/index.md)
 
