@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-15, 11:05:40](https://lobste.rs/s/xqnxn5/ratatui_0_26_2_is_released) - [Ratatui 0.26.2 is released](https://ratatui.rs/highlights/v0262/)
+* [2024-04-15, 10:57:17](https://lobste.rs/s/w3jfno/neverest_cli_synchronize_backup_restore) - [Neverest, a CLI to synchronize, backup and restore emails](https://github.com/soywod/neverest)
 * [2024-04-15, 10:27:10](https://lobste.rs/s/mwynt8/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/mwynt8/what_are_you_doing_this_week)
 * [2024-04-15, 06:02:46](https://lobste.rs/s/j7cf16/spectral_ray_tracing) - [Spectral Ray Tracing](https://larswander.com/writing/spectral-ray-tracing/)
 * [2024-04-14, 19:50:38](https://lobste.rs/s/e2bnzn/emacs_2011_2023) - [🪦 Emacs 2011-2023](https://bastibe.de/2024-03-24-rip-emacs-2011-2023.html)
@@ -17,9 +19,7 @@
 * [2024-04-14, 12:52:54](https://lobste.rs/s/dwffbh/lambda_ski_semantically) - [Lambda to SKI, semantically](https://okmij.org/ftp/tagless-final/ski.pdf)
 * [2024-04-14, 11:13:39](https://lobste.rs/s/iaxxhz/travelling_with_tailscale) - [Travelling with Tailscale](https://mrkaran.dev/posts/travel-tailscale/)
 * [2024-04-14, 11:11:36](https://lobste.rs/s/9itpwl/db_indexes_do_not_magically_compose) - [DB Indexes Do Not Magically Compose](https://rtpg.co/2024/04/14/db-indexes-do-not-magically-compose/)
-* [2024-04-14, 10:46:27](https://lobste.rs/s/4bntfh/learning_code_with_without_ai) - [Learning to code with and without AI](https://austinhenley.com/blog/learningwithai.html)
 * [2024-04-14, 10:41:34](https://lobste.rs/s/gcnmny/linux_fu_getting_started_with_systemd) - [Linux Fu: Getting Started With Systemd](https://hackaday.com/2024/04/11/linux-fu-getting-started-with-systemd/)
-* [2024-04-14, 04:03:23](https://lobste.rs/s/nwhkqm/can_you_grok_it_hacking_together_your_own) - [Can You Grok It - Hacking Together Your Own Dev Tunnel Service](https://0xda.de/blog/2024/04/can-you-grok-it/)
 * [2024-04-14, 03:12:19](https://lobste.rs/s/qojide/from_vim_zed) - [From Vim to Zed](https://registerspill.thorstenball.com/p/from-vim-to-zed)
 * [2024-04-14, 02:51:34](https://lobste.rs/s/3pnmod/making_ijq_fast) - [Making ijq Fast](https://gpanders.com/blog/making-ijq-fast/)
 * [2024-04-14, 02:50:07](https://lobste.rs/s/qcqfmo/bunkchat_local_only_chat_for_tilde) - [bunkchat: local-only chat for tilde servers written in posix sh](https://git.bunk.computer/bunk/bunkchat)
