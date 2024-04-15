@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-15, 17:09:02](https://lobste.rs/s/ia51kg/feeding_gpt_arbitrary_web_data) - [Feeding GPT Arbitrary Web Data](https://www.1a-insec.net/blog/47-feeding-gpt-arbitrary-soup/)
 * [2024-04-15, 16:16:37](https://lobste.rs/s/28jfbh/data_visualization) - [Data Visualization](https://oxide.computer/podcasts/oxide-and-friends/1791784)
 * [2024-04-15, 14:50:44](https://lobste.rs/s/m6rchu/building_gps_receiver) - [Building a GPS receiver](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
 * [2024-04-15, 14:13:42](https://lobste.rs/s/0jerh5/origin_virtues_semicolons_programming) - [The origin and virtues of semicolons in programming languages](https://ntietz.com/blog/researching-why-we-use-semicolons-as-statement-terminators/)
@@ -23,7 +24,6 @@
 * [2024-04-14, 11:13:39](https://lobste.rs/s/iaxxhz/travelling_with_tailscale) - [Travelling with Tailscale](https://mrkaran.dev/posts/travel-tailscale/)
 * [2024-04-14, 11:11:36](https://lobste.rs/s/9itpwl/db_indexes_do_not_magically_compose) - [DB Indexes Do Not Magically Compose](https://rtpg.co/2024/04/14/db-indexes-do-not-magically-compose/)
 * [2024-04-14, 03:12:19](https://lobste.rs/s/qojide/from_vim_zed) - [From Vim to Zed](https://registerspill.thorstenball.com/p/from-vim-to-zed)
-* [2024-04-14, 02:51:34](https://lobste.rs/s/3pnmod/making_ijq_fast) - [Making ijq Fast](https://gpanders.com/blog/making-ijq-fast/)
 * [2024-04-14, 01:40:53](https://lobste.rs/s/enwqun/combinatory_programming) - [Combinatory Programming](https://blog.zdsmith.com/posts/combinatory-programming.html)
 
 ## [Archives](archives/index.md)

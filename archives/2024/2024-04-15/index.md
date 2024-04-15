@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 17:09:02](https://lobste.rs/s/ia51kg/feeding_gpt_arbitrary_web_data) - [Feeding GPT Arbitrary Web Data](https://www.1a-insec.net/blog/47-feeding-gpt-arbitrary-soup/)
 * [2024-04-15, 16:16:37](https://lobste.rs/s/28jfbh/data_visualization) - [Data Visualization](https://oxide.computer/podcasts/oxide-and-friends/1791784)
 * [2024-04-15, 14:50:44](https://lobste.rs/s/m6rchu/building_gps_receiver) - [Building a GPS receiver](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
 * [2024-04-15, 14:13:42](https://lobste.rs/s/0jerh5/origin_virtues_semicolons_programming) - [The origin and virtues of semicolons in programming languages](https://ntietz.com/blog/researching-why-we-use-semicolons-as-statement-terminators/)
