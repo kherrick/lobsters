@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-15, 19:29:52",
+      "https://lobste.rs/s/tnzmfo/putty_vulnerability_vuln_p521_bias"
+    ],
+    [
+      "PuTTY vulnerability vuln-p521-bias",
+      "https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html"
+    ]
+  ],
+  [
+    [
       "2024-04-15, 18:48:15",
       "https://lobste.rs/s/nhyfib/xz_utils_review_notes"
     ],
@@ -237,16 +247,6 @@
     [
       "From Vim to Zed",
       "https://registerspill.thorstenball.com/p/from-vim-to-zed"
-    ]
-  ],
-  [
-    [
-      "2024-04-14, 01:40:53",
-      "https://lobste.rs/s/enwqun/combinatory_programming"
-    ],
-    [
-      "Combinatory Programming",
-      "https://blog.zdsmith.com/posts/combinatory-programming.html"
     ]
   ]
 ]
