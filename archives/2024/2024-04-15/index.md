@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-04-15](index.md)
+
+* [2024-04-15, 06:02:46](https://lobste.rs/s/j7cf16/spectral_ray_tracing) - [Spectral Ray Tracing](https://larswander.com/writing/spectral-ray-tracing/)
