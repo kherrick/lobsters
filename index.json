@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-15, 10:27:10",
+      "https://lobste.rs/s/mwynt8/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/mwynt8/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
       "2024-04-15, 06:02:46",
       "https://lobste.rs/s/j7cf16/spectral_ray_tracing"
     ],
@@ -237,16 +247,6 @@
     [
       "Combinatory Programming",
       "https://blog.zdsmith.com/posts/combinatory-programming.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-13, 10:45:14",
-      "https://lobste.rs/s/up5xen/go_performance_from_version_1_0_1_22"
-    ],
-    [
-      "Go performance from version 1.0 to 1.22",
-      "https://benhoyt.com/writings/go-version-performance-2024/"
     ]
   ]
 ]
