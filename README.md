@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-15, 14:50:44](https://lobste.rs/s/m6rchu/building_gps_receiver) - [Building a GPS receiver](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
 * [2024-04-15, 14:13:42](https://lobste.rs/s/0jerh5/origin_virtues_semicolons_programming) - [The origin and virtues of semicolons in programming languages](https://ntietz.com/blog/researching-why-we-use-semicolons-as-statement-terminators/)
 * [2024-04-15, 13:13:09](https://lobste.rs/s/3azwga/root_cause_vs_contributing_factors) - [Root Cause vs. Contributing Factors](https://felipe.rs/2024/04/08/root-cause-vs-contributing-factors/)
 * [2024-04-15, 12:35:32](https://lobste.rs/s/8ksgaz/beware_base64_encoded_strings) - [Beware of base64 encoded strings](https://garrit.xyz/posts/2024-04-15-beware-of-base64-encoded-strings)
@@ -14,7 +15,6 @@
 * [2024-04-14, 18:55:12](https://lobste.rs/s/pv7th5/only_spans) - [Only Spans](https://onlyspans.net/)
 * [2024-04-14, 18:52:35](https://lobste.rs/s/1d9al5/call_for_early_adopters_sel_botan_one_time) - [Call for early adopters of Sel, Botan and one-time-password](https://discourse.haskell.org/t/call-for-early-adopters-of-sel-botan-and-one-time-password/9326/2)
 * [2024-04-14, 18:47:39](https://lobste.rs/s/5at38s/hidden_dependencies_linux_binaries) - [Hidden dependencies in Linux binaries](http://thelittleengineerthatcould.blogspot.com/2024/04/hidden-dependencies-in-linux-binaries.html)
-* [2024-04-14, 16:28:11](https://lobste.rs/s/sl9n7k/control_autofocus_software_for_chip) - [Control and Autofocus Software for Chip-Level Microscopy](https://www.bunniestudios.com/blog/2024/control-and-autofocus-software-for-chip-level-microscopy/)
 * [2024-04-14, 15:57:26](https://lobste.rs/s/yrhise/getting_started_with_activitypub) - [Getting started with ActivityPub](https://dev.to/thasmin/getting-started-with-activitypub-2mgm)
 * [2024-04-14, 15:48:49](https://lobste.rs/s/lmpjq6/inko_0_14_0_released) - [Inko 0.14.0 released](https://inko-lang.org/news/inko-0-14-0-released/)
 * [2024-04-14, 13:02:05](https://lobste.rs/s/7clm5b/wireviz_easily_document_cables_wiring) - [WireViz: Easily document cables and wiring harnesses](https://github.com/wireviz/WireViz)

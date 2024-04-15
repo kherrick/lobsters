@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 14:50:44](https://lobste.rs/s/m6rchu/building_gps_receiver) - [Building a GPS receiver](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
 * [2024-04-15, 14:13:42](https://lobste.rs/s/0jerh5/origin_virtues_semicolons_programming) - [The origin and virtues of semicolons in programming languages](https://ntietz.com/blog/researching-why-we-use-semicolons-as-statement-terminators/)
 * [2024-04-15, 13:13:09](https://lobste.rs/s/3azwga/root_cause_vs_contributing_factors) - [Root Cause vs. Contributing Factors](https://felipe.rs/2024/04/08/root-cause-vs-contributing-factors/)
 * [2024-04-15, 12:35:32](https://lobste.rs/s/8ksgaz/beware_base64_encoded_strings) - [Beware of base64 encoded strings](https://garrit.xyz/posts/2024-04-15-beware-of-base64-encoded-strings)
