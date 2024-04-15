@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-15, 13:13:09](https://lobste.rs/s/3azwga/root_cause_vs_contributing_factors) - [Root Cause vs. Contributing Factors](https://felipe.rs/2024/04/08/root-cause-vs-contributing-factors/)
 * [2024-04-15, 12:35:32](https://lobste.rs/s/8ksgaz/beware_base64_encoded_strings) - [Beware of base64 encoded strings](https://garrit.xyz/posts/2024-04-15-beware-of-base64-encoded-strings)
 * [2024-04-15, 11:34:57](https://lobste.rs/s/je9hvj/why_no_ipv6) - [Why No IPv6?](https://whynoipv6.com/)
 * [2024-04-15, 11:05:40](https://lobste.rs/s/xqnxn5/ratatui_0_26_2_is_released) - [Ratatui 0.26.2 is released](https://ratatui.rs/highlights/v0262/)
@@ -22,7 +23,6 @@
 * [2024-04-14, 11:11:36](https://lobste.rs/s/9itpwl/db_indexes_do_not_magically_compose) - [DB Indexes Do Not Magically Compose](https://rtpg.co/2024/04/14/db-indexes-do-not-magically-compose/)
 * [2024-04-14, 03:12:19](https://lobste.rs/s/qojide/from_vim_zed) - [From Vim to Zed](https://registerspill.thorstenball.com/p/from-vim-to-zed)
 * [2024-04-14, 02:51:34](https://lobste.rs/s/3pnmod/making_ijq_fast) - [Making ijq Fast](https://gpanders.com/blog/making-ijq-fast/)
-* [2024-04-14, 02:50:07](https://lobste.rs/s/qcqfmo/bunkchat_local_only_chat_for_tilde) - [bunkchat: local-only chat for tilde servers written in posix sh](https://git.bunk.computer/bunk/bunkchat)
 * [2024-04-14, 02:21:38](https://lobste.rs/s/qw138x/why_streaming_is_my_favourite_haskell) - [Why `streaming` Is My Favourite Haskell Streaming Library](http://jackkelly.name/blog/archives/2024/04/13/why_streaming_is_my_favourite_haskell_streaming_library/)
 * [2024-04-14, 01:40:53](https://lobste.rs/s/enwqun/combinatory_programming) - [Combinatory Programming](https://blog.zdsmith.com/posts/combinatory-programming.html)
 
