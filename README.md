@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-15, 11:34:57](https://lobste.rs/s/je9hvj/why_no_ipv6) - [Why No IPv6?](https://whynoipv6.com/)
 * [2024-04-15, 11:05:40](https://lobste.rs/s/xqnxn5/ratatui_0_26_2_is_released) - [Ratatui 0.26.2 is released](https://ratatui.rs/highlights/v0262/)
 * [2024-04-15, 10:57:17](https://lobste.rs/s/w3jfno/neverest_cli_synchronize_backup_restore) - [Neverest, a CLI to synchronize, backup and restore emails](https://github.com/soywod/neverest)
 * [2024-04-15, 10:27:10](https://lobste.rs/s/mwynt8/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/mwynt8/what_are_you_doing_this_week)
 * [2024-04-15, 06:02:46](https://lobste.rs/s/j7cf16/spectral_ray_tracing) - [Spectral Ray Tracing](https://larswander.com/writing/spectral-ray-tracing/)
 * [2024-04-14, 19:50:38](https://lobste.rs/s/e2bnzn/emacs_2011_2023) - [🪦 Emacs 2011-2023](https://bastibe.de/2024-03-24-rip-emacs-2011-2023.html)
 * [2024-04-14, 19:03:45](https://lobste.rs/s/uh1rdi/sandboxing_all_things_with_flatpak) - [Sandboxing All The Things with Flatpak and BubbleBox](https://www.ralfj.de/blog/2024/04/14/bubblebox.html)
-* [2024-04-14, 18:55:48](https://lobste.rs/s/ajykxy/mysterious_moving_pointers) - [Mysterious Moving Pointers](https://blomqu.ist/posts/2024/move/)
 * [2024-04-14, 18:55:12](https://lobste.rs/s/pv7th5/only_spans) - [Only Spans](https://onlyspans.net/)
 * [2024-04-14, 18:52:35](https://lobste.rs/s/1d9al5/call_for_early_adopters_sel_botan_one_time) - [Call for early adopters of Sel, Botan and one-time-password](https://discourse.haskell.org/t/call-for-early-adopters-of-sel-botan-and-one-time-password/9326/2)
 * [2024-04-14, 18:47:39](https://lobste.rs/s/5at38s/hidden_dependencies_linux_binaries) - [Hidden dependencies in Linux binaries](http://thelittleengineerthatcould.blogspot.com/2024/04/hidden-dependencies-in-linux-binaries.html)
