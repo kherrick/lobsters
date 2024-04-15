@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-15, 17:31:22",
+      "https://lobste.rs/s/nzjkxm/testing_practical_common_lisp_code_on"
+    ],
+    [
+      "Testing Practical Common Lisp code on Medley Interlisp",
+      "https://journal.paoloamoroso.com/testing-the-practical-common-lisp-code-on-medley"
+    ]
+  ],
+  [
+    [
       "2024-04-15, 17:09:02",
       "https://lobste.rs/s/ia51kg/feeding_gpt_arbitrary_web_data"
     ],
@@ -127,16 +137,6 @@
     [
       "Sandboxing All The Things with Flatpak and BubbleBox",
       "https://www.ralfj.de/blog/2024/04/14/bubblebox.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-14, 18:55:48",
-      "https://lobste.rs/s/ajykxy/mysterious_moving_pointers"
-    ],
-    [
-      "Mysterious Moving Pointers",
-      "https://blomqu.ist/posts/2024/move/"
     ]
   ],
   [
