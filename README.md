@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-15, 10:27:10](https://lobste.rs/s/mwynt8/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/mwynt8/what_are_you_doing_this_week)
 * [2024-04-15, 06:02:46](https://lobste.rs/s/j7cf16/spectral_ray_tracing) - [Spectral Ray Tracing](https://larswander.com/writing/spectral-ray-tracing/)
 * [2024-04-14, 19:50:38](https://lobste.rs/s/e2bnzn/emacs_2011_2023) - [🪦 Emacs 2011-2023](https://bastibe.de/2024-03-24-rip-emacs-2011-2023.html)
 * [2024-04-14, 19:03:45](https://lobste.rs/s/uh1rdi/sandboxing_all_things_with_flatpak) - [Sandboxing All The Things with Flatpak and BubbleBox](https://www.ralfj.de/blog/2024/04/14/bubblebox.html)
@@ -24,7 +25,6 @@
 * [2024-04-14, 02:50:07](https://lobste.rs/s/qcqfmo/bunkchat_local_only_chat_for_tilde) - [bunkchat: local-only chat for tilde servers written in posix sh](https://git.bunk.computer/bunk/bunkchat)
 * [2024-04-14, 02:21:38](https://lobste.rs/s/qw138x/why_streaming_is_my_favourite_haskell) - [Why `streaming` Is My Favourite Haskell Streaming Library](http://jackkelly.name/blog/archives/2024/04/13/why_streaming_is_my_favourite_haskell_streaming_library/)
 * [2024-04-14, 01:40:53](https://lobste.rs/s/enwqun/combinatory_programming) - [Combinatory Programming](https://blog.zdsmith.com/posts/combinatory-programming.html)
-* [2024-04-13, 10:45:14](https://lobste.rs/s/up5xen/go_performance_from_version_1_0_1_22) - [Go performance from version 1.0 to 1.22](https://benhoyt.com/writings/go-version-performance-2024/)
 
 ## [Archives](archives/index.md)
 
