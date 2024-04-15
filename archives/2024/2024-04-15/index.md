@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 19:46:40](https://lobste.rs/s/guizmr/feat_engineering) - [A Feat of Engineering](https://registerspill.thorstenball.com/p/a-feat-of-engineering)
 * [2024-04-15, 19:29:52](https://lobste.rs/s/tnzmfo/putty_vulnerability_vuln_p521_bias) - [PuTTY vulnerability vuln-p521-bias](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
 * [2024-04-15, 18:48:15](https://lobste.rs/s/nhyfib/xz_utils_review_notes) - [XZ Utils review notes](https://tukaani.org/xz-backdoor/review.html)
 * [2024-04-15, 18:33:01](https://lobste.rs/s/vx7mc3/elastic_universal_profiling_agent) - [Elastic Universal Profiling agent, a continuous profiling solution, is now open source](https://www.elastic.co/de/blog/elastic-universal-profiling-agent-open-source)

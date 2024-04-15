@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-15, 19:46:40](https://lobste.rs/s/guizmr/feat_engineering) - [A Feat of Engineering](https://registerspill.thorstenball.com/p/a-feat-of-engineering)
 * [2024-04-15, 19:29:52](https://lobste.rs/s/tnzmfo/putty_vulnerability_vuln_p521_bias) - [PuTTY vulnerability vuln-p521-bias](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
 * [2024-04-15, 18:48:15](https://lobste.rs/s/nhyfib/xz_utils_review_notes) - [XZ Utils review notes](https://tukaani.org/xz-backdoor/review.html)
 * [2024-04-15, 18:33:01](https://lobste.rs/s/vx7mc3/elastic_universal_profiling_agent) - [Elastic Universal Profiling agent, a continuous profiling solution, is now open source](https://www.elastic.co/de/blog/elastic-universal-profiling-agent-open-source)
@@ -24,7 +25,6 @@
 * [2024-04-14, 15:48:49](https://lobste.rs/s/lmpjq6/inko_0_14_0_released) - [Inko 0.14.0 released](https://inko-lang.org/news/inko-0-14-0-released/)
 * [2024-04-14, 13:02:05](https://lobste.rs/s/7clm5b/wireviz_easily_document_cables_wiring) - [WireViz: Easily document cables and wiring harnesses](https://github.com/wireviz/WireViz)
 * [2024-04-14, 11:11:36](https://lobste.rs/s/9itpwl/db_indexes_do_not_magically_compose) - [DB Indexes Do Not Magically Compose](https://rtpg.co/2024/04/14/db-indexes-do-not-magically-compose/)
-* [2024-04-14, 03:12:19](https://lobste.rs/s/qojide/from_vim_zed) - [From Vim to Zed](https://registerspill.thorstenball.com/p/from-vim-to-zed)
 
 ## [Archives](archives/index.md)
 
