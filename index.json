@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-15, 06:02:46",
+      "https://lobste.rs/s/j7cf16/spectral_ray_tracing"
+    ],
+    [
+      "Spectral Ray Tracing",
+      "https://larswander.com/writing/spectral-ray-tracing/"
+    ]
+  ],
+  [
+    [
       "2024-04-14, 19:50:38",
       "https://lobste.rs/s/e2bnzn/emacs_2011_2023"
     ],
@@ -97,16 +107,6 @@
     [
       "Elegance: The Undervalued System Requirement",
       "https://systemsapproach.org/2024/03/18/elegance-the-undervalued-system-requirement/"
-    ]
-  ],
-  [
-    [
-      "2024-04-14, 13:44:14",
-      "https://lobste.rs/s/lzhrkk/powerful_cli_for_creating_managing"
-    ],
-    [
-      "A powerful CLI for creating and managing PrivateBin pastes with ease",
-      "https://github.com/gearnode/privatebin"
     ]
   ],
   [
