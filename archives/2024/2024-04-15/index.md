@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-15](index.md)
 
+* [2024-04-15, 18:16:02](https://lobste.rs/s/n36tw1/weird_monitor_bugs_people_sent_me_last_5) - [Weird monitor bugs people sent me in the last 5 years](https://notes.alinpanaitiu.com/Weird-monitor-bugs)
+* [2024-04-15, 18:11:00](https://lobste.rs/s/tc8o4f/upgrading_my_chumby_8_kernel_part_8_audio) - [Upgrading my Chumby 8 kernel part 8: audio](https://www.downtowndougbrown.com/2024/04/upgrading-my-chumby-8-kernel-part-8-audio/)
 * [2024-04-15, 17:31:22](https://lobste.rs/s/nzjkxm/testing_practical_common_lisp_code_on) - [Testing Practical Common Lisp code on Medley Interlisp](https://journal.paoloamoroso.com/testing-the-practical-common-lisp-code-on-medley)
 * [2024-04-15, 17:09:02](https://lobste.rs/s/ia51kg/feeding_gpt_arbitrary_web_data) - [Feeding GPT Arbitrary Web Data](https://www.1a-insec.net/blog/47-feeding-gpt-arbitrary-soup/)
 * [2024-04-15, 16:16:37](https://lobste.rs/s/28jfbh/data_visualization) - [Data Visualization](https://oxide.computer/podcasts/oxide-and-friends/1791784)
