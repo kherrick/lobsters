@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 22:45:23](https://lobste.rs/s/uxwae2/cute_trick_for_fetch_add_based_queues) - [Cute trick for fetch-and-add-based queues](https://outerproduct.net/trivial/2024-04-16_faaqtr.html)
 * [2024-04-16, 22:25:07](https://lobste.rs/s/lrixcj/legal_rule_computers_are_presumed_be) - [The legal rule that computers are presumed to be operating correctly – unforeseen and unjust consequences (2022)](https://www.benthamsgaze.org/wp-content/uploads/2022/06/briefing-presumption-that-computers-are-reliable.pdf)
 * [2024-04-16, 22:22:09](https://lobste.rs/s/oe3sb6/why_openssl_punycode_vulnerability_cve) - [Why OpenSSL punycode vulnerability CVE-2022-3602 was not detected by fuzz testing](http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html)
 * [2024-04-16, 21:37:43](https://lobste.rs/s/kuo5kz/expr_release_v1_16_5) - [Expr release v1.16.5](https://github.com/expr-lang/expr/releases/tag/v1.16.5)
