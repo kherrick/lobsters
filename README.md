@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-16, 06:54:21](https://lobste.rs/s/pqljye/descent3_source_code) - [Descent3 Source Code](https://github.com/kevinbentley/Descent3)
 * [2024-04-16, 05:16:36](https://lobste.rs/s/almixc/vr_browser_wolvic_switches_from_gecko) - [VR Browser Wolvic Switches from Gecko to Chromium](https://wolvic.com/blog/Chromium_Beta_APKs/)
 * [2024-04-16, 03:26:59](https://lobste.rs/s/f4qas1/story_etak_navigator) - [Story of Etak Navigator](https://maphappenings.com/2024/04/11/story-of-etak/)
 * [2024-04-16, 02:46:52](https://lobste.rs/s/ygvbwz/mastering_observability_how_we_solved) - [Mastering Observability: How We Solved a Major Bug in Just 15 Minutes](https://jaywhy13.hashnode.dev/solving-like-sherlock-a-15-minute-case-with-observability)
@@ -11,6 +12,7 @@
 * [2024-04-15, 19:46:40](https://lobste.rs/s/guizmr/feat_engineering) - [A Feat of Engineering](https://registerspill.thorstenball.com/p/a-feat-of-engineering)
 * [2024-04-15, 19:29:52](https://lobste.rs/s/tnzmfo/putty_vulnerability_vuln_p521_bias) - [PuTTY vulnerability vuln-p521-bias](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
 * [2024-04-15, 18:48:15](https://lobste.rs/s/nhyfib/xz_utils_review_notes) - [XZ Utils review notes](https://tukaani.org/xz-backdoor/review.html)
+* [2024-04-15, 18:33:01](https://lobste.rs/s/vx7mc3/elastic_universal_profiling_agent) - [Elastic Universal Profiling agent, a continuous profiling solution, is now open source](https://www.elastic.co/de/blog/elastic-universal-profiling-agent-open-source)
 * [2024-04-15, 18:30:34](https://lobste.rs/s/jwwulq/locally_perfect_spatial_hashing) - [Locally Perfect Spatial Hashing](https://haug.codes/blog/locally-perfect-hashing/)
 * [2024-04-15, 18:16:02](https://lobste.rs/s/n36tw1/weird_monitor_bugs_people_sent_me_last_5) - [Weird monitor bugs people sent me in the last 5 years](https://notes.alinpanaitiu.com/Weird-monitor-bugs)
 * [2024-04-15, 18:11:00](https://lobste.rs/s/tc8o4f/upgrading_my_chumby_8_kernel_part_8_audio) - [Upgrading my Chumby 8 kernel part 8: audio](https://www.downtowndougbrown.com/2024/04/upgrading-my-chumby-8-kernel-part-8-audio/)
@@ -23,8 +25,6 @@
 * [2024-04-15, 10:57:17](https://lobste.rs/s/w3jfno/neverest_cli_synchronize_backup_restore) - [Neverest, a CLI to synchronize, backup and restore emails](https://github.com/soywod/neverest)
 * [2024-04-15, 06:02:46](https://lobste.rs/s/j7cf16/spectral_ray_tracing) - [Spectral Ray Tracing](https://larswander.com/writing/spectral-ray-tracing/)
 * [2024-04-14, 18:55:12](https://lobste.rs/s/pv7th5/only_spans) - [Only Spans](https://onlyspans.net/)
-* [2024-04-14, 18:47:39](https://lobste.rs/s/5at38s/hidden_dependencies_linux_binaries) - [Hidden dependencies in Linux binaries](http://thelittleengineerthatcould.blogspot.com/2024/04/hidden-dependencies-in-linux-binaries.html)
-* [2024-04-14, 11:11:36](https://lobste.rs/s/9itpwl/db_indexes_do_not_magically_compose) - [DB Indexes Do Not Magically Compose](https://rtpg.co/2024/04/14/db-indexes-do-not-magically-compose/)
 
 ## [Archives](archives/index.md)
 
