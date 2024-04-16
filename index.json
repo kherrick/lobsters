@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-04-16, 21:37:43",
-      "https://lobste.rs/s/kuo5kz/expr_release_v1_16_5"
-    ],
-    [
-      "Expr release v1.16.5",
-      "https://github.com/expr-lang/expr/releases/tag/v1.16.5"
-    ]
-  ],
-  [
-    [
       "2024-04-16, 18:00:22",
       "https://lobste.rs/s/ixaerf/colima_k8s_nix_setup"
     ],
@@ -227,6 +217,16 @@
     [
       "Building a GPS receiver",
       "https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/"
+    ]
+  ],
+  [
+    [
+      "2024-04-15, 14:13:42",
+      "https://lobste.rs/s/0jerh5/origin_virtues_semicolons_programming"
+    ],
+    [
+      "The origin and virtues of semicolons in programming languages",
+      "https://ntietz.com/blog/researching-why-we-use-semicolons-as-statement-terminators/"
     ]
   ],
   [
