@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-16, 11:05:00",
+      "https://lobste.rs/s/wmnkqf/telegram_arbitrary_code_execution_via"
+    ],
+    [
+      "Telegram Arbitrary Code Execution via InstantView | TeleSec",
+      "https://www.telesec.top/telesec/telegram-desktop/arbitrary-code-execution-via-instantview"
+    ]
+  ],
+  [
+    [
       "2024-04-16, 10:12:39",
       "https://lobste.rs/s/cfjbkz/freespin_2021"
     ],
@@ -147,16 +157,6 @@
     [
       "XZ Utils review notes",
       "https://tukaani.org/xz-backdoor/review.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-15, 18:33:01",
-      "https://lobste.rs/s/vx7mc3/elastic_universal_profiling_agent"
-    ],
-    [
-      "Elastic Universal Profiling agent, a continuous profiling solution, is now open source",
-      "https://www.elastic.co/de/blog/elastic-universal-profiling-agent-open-source"
     ]
   ],
   [
