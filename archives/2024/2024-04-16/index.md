@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 08:27:19](https://lobste.rs/s/c9u1c9/exploring_improvements_firefox_sidebar) - [Exploring improvements to the Firefox sidebar](https://blog.nightly.mozilla.org/2024/04/15/exploring-improvements-to-the-firefox-sidebar/)
 * [2024-04-16, 06:54:21](https://lobste.rs/s/pqljye/descent3_source_code) - [Descent3 Source Code](https://github.com/kevinbentley/Descent3)
 * [2024-04-16, 05:16:36](https://lobste.rs/s/almixc/vr_browser_wolvic_switches_from_gecko) - [VR Browser Wolvic Switches from Gecko to Chromium](https://wolvic.com/blog/Chromium_Beta_APKs/)
 * [2024-04-16, 03:26:59](https://lobste.rs/s/f4qas1/story_etak_navigator) - [Story of Etak Navigator](https://maphappenings.com/2024/04/11/story-of-etak/)
