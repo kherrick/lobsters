@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 22:25:07](https://lobste.rs/s/lrixcj/legal_rule_computers_are_presumed_be) - [The legal rule that computers are presumed to be operating correctly – unforeseen and unjust consequences (2022)](https://www.benthamsgaze.org/wp-content/uploads/2022/06/briefing-presumption-that-computers-are-reliable.pdf)
+* [2024-04-16, 22:22:09](https://lobste.rs/s/oe3sb6/why_openssl_punycode_vulnerability_cve) - [Why OpenSSL punycode vulnerability CVE-2022-3602 was not detected by fuzz testing](http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html)
 * [2024-04-16, 21:37:43](https://lobste.rs/s/kuo5kz/expr_release_v1_16_5) - [Expr release v1.16.5](https://github.com/expr-lang/expr/releases/tag/v1.16.5)
 * [2024-04-16, 18:00:22](https://lobste.rs/s/ixaerf/colima_k8s_nix_setup) - [Colima k8s nix setup](https://dev.to/doriancodes/colima-k8s-nix-setup-mpn)
 * [2024-04-16, 17:29:53](https://lobste.rs/s/0h253l/atac_simple_api_client_postman_like_your) - [ATAC: A simple API client (postman like) in your terminal](https://github.com/Julien-cpsn/ATAC)
