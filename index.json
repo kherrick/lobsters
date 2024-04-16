@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-16, 21:37:43",
+      "https://lobste.rs/s/kuo5kz/expr_release_v1_16_5"
+    ],
+    [
+      "Expr release v1.16.5",
+      "https://github.com/expr-lang/expr/releases/tag/v1.16.5"
+    ]
+  ],
+  [
+    [
       "2024-04-16, 18:00:22",
       "https://lobste.rs/s/ixaerf/colima_k8s_nix_setup"
     ],
@@ -187,16 +197,6 @@
     [
       "XZ Utils review notes",
       "https://tukaani.org/xz-backdoor/review.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-15, 18:30:34",
-      "https://lobste.rs/s/jwwulq/locally_perfect_spatial_hashing"
-    ],
-    [
-      "Locally Perfect Spatial Hashing",
-      "https://haug.codes/blog/locally-perfect-hashing/"
     ]
   ],
   [
