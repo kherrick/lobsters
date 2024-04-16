@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-16, 17:19:40",
+      "https://lobste.rs/s/wr64in/gleam_version_v1_1"
+    ],
+    [
+      "Gleam version v1.1",
+      "https://gleam.run/news/gleam-v1.1/"
+    ]
+  ],
+  [
+    [
       "2024-04-16, 16:24:29",
       "https://lobste.rs/s/uvcogs/calling_ocaml_from_c"
     ],
@@ -237,16 +247,6 @@
     [
       "Neverest, a CLI to synchronize, backup and restore emails",
       "https://github.com/soywod/neverest"
-    ]
-  ],
-  [
-    [
-      "2024-04-15, 06:02:46",
-      "https://lobste.rs/s/j7cf16/spectral_ray_tracing"
-    ],
-    [
-      "Spectral Ray Tracing",
-      "https://larswander.com/writing/spectral-ray-tracing/"
     ]
   ]
 ]
