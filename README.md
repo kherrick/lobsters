@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-16, 18:00:22](https://lobste.rs/s/ixaerf/colima_k8s_nix_setup) - [Colima k8s nix setup](https://dev.to/doriancodes/colima-k8s-nix-setup-mpn)
 * [2024-04-16, 17:29:53](https://lobste.rs/s/0h253l/atac_simple_api_client_postman_like_your) - [ATAC: A simple API client (postman like) in your terminal](https://github.com/Julien-cpsn/ATAC)
 * [2024-04-16, 17:19:40](https://lobste.rs/s/wr64in/gleam_version_v1_1) - [Gleam version v1.1](https://gleam.run/news/gleam-v1.1/)
 * [2024-04-16, 16:24:29](https://lobste.rs/s/uvcogs/calling_ocaml_from_c) - [Calling OCaml from C](https://transactional.blog/blog/2024-calling-ocaml-from-c)
@@ -18,7 +19,6 @@
 * [2024-04-15, 19:46:40](https://lobste.rs/s/guizmr/feat_engineering) - [A Feat of Engineering](https://registerspill.thorstenball.com/p/a-feat-of-engineering)
 * [2024-04-15, 19:29:52](https://lobste.rs/s/tnzmfo/putty_vulnerability_vuln_p521_bias) - [PuTTY vulnerability vuln-p521-bias](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
 * [2024-04-15, 18:48:15](https://lobste.rs/s/nhyfib/xz_utils_review_notes) - [XZ Utils review notes](https://tukaani.org/xz-backdoor/review.html)
-* [2024-04-15, 18:30:34](https://lobste.rs/s/jwwulq/locally_perfect_spatial_hashing) - [Locally Perfect Spatial Hashing](https://haug.codes/blog/locally-perfect-hashing/)
 * [2024-04-15, 18:16:02](https://lobste.rs/s/n36tw1/weird_monitor_bugs_people_sent_me_last_5) - [Weird monitor bugs people sent me in the last 5 years](https://notes.alinpanaitiu.com/Weird-monitor-bugs)
 * [2024-04-15, 14:50:44](https://lobste.rs/s/m6rchu/building_gps_receiver) - [Building a GPS receiver](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
 * [2024-04-15, 14:13:42](https://lobste.rs/s/0jerh5/origin_virtues_semicolons_programming) - [The origin and virtues of semicolons in programming languages](https://ntietz.com/blog/researching-why-we-use-semicolons-as-statement-terminators/)
