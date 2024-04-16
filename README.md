@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-16, 17:19:40](https://lobste.rs/s/wr64in/gleam_version_v1_1) - [Gleam version v1.1](https://gleam.run/news/gleam-v1.1/)
 * [2024-04-16, 16:24:29](https://lobste.rs/s/uvcogs/calling_ocaml_from_c) - [Calling OCaml from C](https://transactional.blog/blog/2024-calling-ocaml-from-c)
 * [2024-04-16, 15:44:15](https://lobste.rs/s/dk4fcc/effect_3_0_effect_blog) - [Effect 3.0 – Effect Blog](https://effect.website/blog/effect-3.0)
 * [2024-04-16, 15:23:37](https://lobste.rs/s/6eba5d/failures_mistakes_confusion) - [Failures, Mistakes, Confusion](https://blog.ignaskiela.eu/failures-mistakes-confusion.html)
@@ -24,7 +25,6 @@
 * [2024-04-15, 12:35:32](https://lobste.rs/s/8ksgaz/beware_base64_encoded_strings) - [Beware of base64 encoded strings](https://garrit.xyz/posts/2024-04-15-beware-of-base64-encoded-strings)
 * [2024-04-15, 11:34:57](https://lobste.rs/s/je9hvj/why_no_ipv6) - [Why No IPv6?](https://whynoipv6.com/)
 * [2024-04-15, 10:57:17](https://lobste.rs/s/w3jfno/neverest_cli_synchronize_backup_restore) - [Neverest, a CLI to synchronize, backup and restore emails](https://github.com/soywod/neverest)
-* [2024-04-15, 06:02:46](https://lobste.rs/s/j7cf16/spectral_ray_tracing) - [Spectral Ray Tracing](https://larswander.com/writing/spectral-ray-tracing/)
 
 ## [Archives](archives/index.md)
 
