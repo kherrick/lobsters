@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-16, 15:23:37](https://lobste.rs/s/6eba5d/failures_mistakes_confusion) - [Failures, Mistakes, Confusion](https://blog.ignaskiela.eu/failures-mistakes-confusion.html)
 * [2024-04-16, 13:10:04](https://lobste.rs/s/hmwleu/some_useful_types_for_database_using_rust) - [Some useful types for database-using Rust web apps](https://boinkor.net/2024/04/some-useful-types-for-database-using-rust-web-apps/)
 * [2024-04-16, 12:56:52](https://lobste.rs/s/xtlsda/topfew_release_0_5) - [Topfew Release 0.5](https://www.tbray.org/ongoing/When/202x/2024/04/12/Topfew-release)
 * [2024-04-16, 10:12:39](https://lobste.rs/s/cfjbkz/freespin_2021) - [Freespin (2021)](https://www.youtube.com/watch?v=zprSxCMlECA)
@@ -9,7 +10,6 @@
 * [2024-04-16, 03:26:59](https://lobste.rs/s/f4qas1/story_etak_navigator) - [Story of Etak Navigator](https://maphappenings.com/2024/04/11/story-of-etak/)
 * [2024-04-16, 02:46:52](https://lobste.rs/s/ygvbwz/mastering_observability_how_we_solved) - [Mastering Observability: How We Solved a Major Bug in Just 15 Minutes](https://jaywhy13.hashnode.dev/solving-like-sherlock-a-15-minute-case-with-observability)
 * [2024-04-16, 01:56:06](https://lobste.rs/s/5oeolr/trying_out_cloudflare_s_foundations) - [Trying Out Cloudflare's `foundations` Library for Rust](https://cprimozic.net/blog/trying-out-cloudflare-foundations-library/)
-* [2024-04-16, 01:02:34](https://lobste.rs/s/mjl8k9/measuring_your_system_s_performance) - [Measuring your system’s performance using software  (Go edition)](https://lemire.me/blog/2024/03/17/measuring-your-systems-performance-using-software-go-edition/)
 * [2024-04-16, 00:46:48](https://lobste.rs/s/efmbul/no_i_don_t_want_2_emacs) - [No I don't want 2, Emacs](https://www.emoses.org/posts/dont-write-2/)
 * [2024-04-16, 00:10:33](https://lobste.rs/s/p4odxi/knuth_morris_pratt_illustrated) - [Knuth–Morris–Pratt illustrated](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/knuthmorrispratt-illustrated/8EFA77D663D585B68630E372BCE1EBA4)
 * [2024-04-15, 22:40:15](https://lobste.rs/s/0rwosi/apple_s_mysterious_fisheye_projection) - [Apple’s Mysterious Fisheye Projection](https://blog.mikeswanson.com/post/747761863530528768/apples-mysterious-fisheye-projection)
