@@ -9,6 +9,7 @@
 * [2024-04-16, 17:19:40](https://lobste.rs/s/wr64in/gleam_version_v1_1) - [Gleam version v1.1](https://gleam.run/news/gleam-v1.1/)
 * [2024-04-16, 16:24:29](https://lobste.rs/s/uvcogs/calling_ocaml_from_c) - [Calling OCaml from C](https://transactional.blog/blog/2024-calling-ocaml-from-c)
 * [2024-04-16, 15:44:15](https://lobste.rs/s/dk4fcc/effect_3_0_effect_blog) - [Effect 3.0 – Effect Blog](https://effect.website/blog/effect-3.0)
+* [2024-04-16, 15:44:15](https://lobste.rs/s/dk4fcc/effect_3_0) - [Effect 3.0](https://effect.website/blog/effect-3.0)
 * [2024-04-16, 15:23:37](https://lobste.rs/s/6eba5d/failures_mistakes_confusion) - [Failures, Mistakes, Confusion](https://blog.ignaskiela.eu/failures-mistakes-confusion.html)
 * [2024-04-16, 13:10:04](https://lobste.rs/s/hmwleu/some_useful_types_for_database_using_rust) - [Some useful types for database-using Rust web apps](https://boinkor.net/2024/04/some-useful-types-for-database-using-rust-web-apps/)
 * [2024-04-16, 12:56:52](https://lobste.rs/s/xtlsda/topfew_release_0_5) - [Topfew Release 0.5](https://www.tbray.org/ongoing/When/202x/2024/04/12/Topfew-release)
