@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-16, 17:29:53](https://lobste.rs/s/0h253l/atac_simple_api_client_postman_like_your) - [ATAC: A simple API client (postman like) in your terminal](https://github.com/Julien-cpsn/ATAC)
 * [2024-04-16, 17:19:40](https://lobste.rs/s/wr64in/gleam_version_v1_1) - [Gleam version v1.1](https://gleam.run/news/gleam-v1.1/)
 * [2024-04-16, 16:24:29](https://lobste.rs/s/uvcogs/calling_ocaml_from_c) - [Calling OCaml from C](https://transactional.blog/blog/2024-calling-ocaml-from-c)
 * [2024-04-16, 15:44:15](https://lobste.rs/s/dk4fcc/effect_3_0_effect_blog) - [Effect 3.0 – Effect Blog](https://effect.website/blog/effect-3.0)
@@ -8,7 +9,6 @@
 * [2024-04-16, 12:56:52](https://lobste.rs/s/xtlsda/topfew_release_0_5) - [Topfew Release 0.5](https://www.tbray.org/ongoing/When/202x/2024/04/12/Topfew-release)
 * [2024-04-16, 08:27:19](https://lobste.rs/s/c9u1c9/exploring_improvements_firefox_sidebar) - [Exploring improvements to the Firefox sidebar](https://blog.nightly.mozilla.org/2024/04/15/exploring-improvements-to-the-firefox-sidebar/)
 * [2024-04-16, 06:54:21](https://lobste.rs/s/pqljye/descent3_source_code) - [Descent3 Source Code](https://github.com/kevinbentley/Descent3)
-* [2024-04-16, 05:16:36](https://lobste.rs/s/almixc/vr_browser_wolvic_switches_from_gecko) - [VR Browser Wolvic Switches from Gecko to Chromium](https://wolvic.com/blog/Chromium_Beta_APKs/)
 * [2024-04-16, 03:26:59](https://lobste.rs/s/f4qas1/story_etak_navigator) - [Story of Etak Navigator](https://maphappenings.com/2024/04/11/story-of-etak/)
 * [2024-04-16, 02:46:52](https://lobste.rs/s/ygvbwz/mastering_observability_how_we_solved) - [Mastering Observability: How We Solved a Major Bug in Just 15 Minutes](https://jaywhy13.hashnode.dev/solving-like-sherlock-a-15-minute-case-with-observability)
 * [2024-04-16, 01:56:06](https://lobste.rs/s/5oeolr/trying_out_cloudflare_s_foundations) - [Trying Out Cloudflare's `foundations` Library for Rust](https://cprimozic.net/blog/trying-out-cloudflare-foundations-library/)
