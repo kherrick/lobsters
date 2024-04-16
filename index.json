@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-16, 16:24:29",
+      "https://lobste.rs/s/uvcogs/calling_ocaml_from_c"
+    ],
+    [
+      "Calling OCaml from C",
+      "https://transactional.blog/blog/2024-calling-ocaml-from-c"
+    ]
+  ],
+  [
+    [
       "2024-04-16, 15:44:15",
       "https://lobste.rs/s/dk4fcc/effect_3_0_effect_blog"
     ],
@@ -97,16 +107,6 @@
     [
       "Trying Out Cloudflare's `foundations` Library for Rust",
       "https://cprimozic.net/blog/trying-out-cloudflare-foundations-library/"
-    ]
-  ],
-  [
-    [
-      "2024-04-16, 01:02:34",
-      "https://lobste.rs/s/mjl8k9/measuring_your_system_s_performance"
-    ],
-    [
-      "Measuring your system’s performance using software  (Go edition)",
-      "https://lemire.me/blog/2024/03/17/measuring-your-systems-performance-using-software-go-edition/"
     ]
   ],
   [
