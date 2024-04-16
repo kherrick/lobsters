@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-16](index.md)
 
+* [2024-04-16, 11:05:00](https://lobste.rs/s/wmnkqf/telegram_arbitrary_code_execution_via) - [Telegram Arbitrary Code Execution via InstantView | TeleSec](https://www.telesec.top/telesec/telegram-desktop/arbitrary-code-execution-via-instantview)
 * [2024-04-16, 10:12:39](https://lobste.rs/s/cfjbkz/freespin_2021) - [Freespin (2021)](https://www.youtube.com/watch?v=zprSxCMlECA)
 * [2024-04-16, 08:51:27](https://lobste.rs/s/3yqsik/ios404) - [iOS404](https://ios404.com/)
 * [2024-04-16, 08:27:19](https://lobste.rs/s/c9u1c9/exploring_improvements_firefox_sidebar) - [Exploring improvements to the Firefox sidebar](https://blog.nightly.mozilla.org/2024/04/15/exploring-improvements-to-the-firefox-sidebar/)
