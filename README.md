@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-16, 00:10:33](https://lobste.rs/s/p4odxi/knuth_morris_pratt_illustrated) - [Knuth–Morris–Pratt illustrated](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/knuthmorrispratt-illustrated/8EFA77D663D585B68630E372BCE1EBA4)
 * [2024-04-15, 22:40:15](https://lobste.rs/s/0rwosi/apple_s_mysterious_fisheye_projection) - [Apple’s Mysterious Fisheye Projection](https://blog.mikeswanson.com/post/747761863530528768/apples-mysterious-fisheye-projection)
 * [2024-04-15, 19:46:40](https://lobste.rs/s/guizmr/feat_engineering) - [A Feat of Engineering](https://registerspill.thorstenball.com/p/a-feat-of-engineering)
 * [2024-04-15, 19:29:52](https://lobste.rs/s/tnzmfo/putty_vulnerability_vuln_p521_bias) - [PuTTY vulnerability vuln-p521-bias](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
@@ -21,7 +22,6 @@
 * [2024-04-15, 06:02:46](https://lobste.rs/s/j7cf16/spectral_ray_tracing) - [Spectral Ray Tracing](https://larswander.com/writing/spectral-ray-tracing/)
 * [2024-04-14, 19:50:38](https://lobste.rs/s/e2bnzn/emacs_2011_2023) - [🪦 Emacs 2011-2023](https://bastibe.de/2024-03-24-rip-emacs-2011-2023.html)
 * [2024-04-14, 18:55:12](https://lobste.rs/s/pv7th5/only_spans) - [Only Spans](https://onlyspans.net/)
-* [2024-04-14, 18:52:35](https://lobste.rs/s/1d9al5/call_for_early_adopters_sel_botan_one_time) - [Call for early adopters of Sel, Botan and one-time-password](https://discourse.haskell.org/t/call-for-early-adopters-of-sel-botan-and-one-time-password/9326/2)
 * [2024-04-14, 18:47:39](https://lobste.rs/s/5at38s/hidden_dependencies_linux_binaries) - [Hidden dependencies in Linux binaries](http://thelittleengineerthatcould.blogspot.com/2024/04/hidden-dependencies-in-linux-binaries.html)
 * [2024-04-14, 13:02:05](https://lobste.rs/s/7clm5b/wireviz_easily_document_cables_wiring) - [WireViz: Easily document cables and wiring harnesses](https://github.com/wireviz/WireViz)
 * [2024-04-14, 11:11:36](https://lobste.rs/s/9itpwl/db_indexes_do_not_magically_compose) - [DB Indexes Do Not Magically Compose](https://rtpg.co/2024/04/14/db-indexes-do-not-magically-compose/)
