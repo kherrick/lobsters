@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-16, 05:16:36](https://lobste.rs/s/almixc/vr_browser_wolvic_switches_from_gecko) - [VR Browser Wolvic Switches from Gecko to Chromium](https://wolvic.com/blog/Chromium_Beta_APKs/)
 * [2024-04-16, 03:26:59](https://lobste.rs/s/f4qas1/story_etak_navigator) - [Story of Etak Navigator](https://maphappenings.com/2024/04/11/story-of-etak/)
 * [2024-04-16, 02:46:52](https://lobste.rs/s/ygvbwz/mastering_observability_how_we_solved) - [Mastering Observability: How We Solved a Major Bug in Just 15 Minutes](https://jaywhy13.hashnode.dev/solving-like-sherlock-a-15-minute-case-with-observability)
 * [2024-04-16, 01:56:06](https://lobste.rs/s/5oeolr/trying_out_cloudflare_s_foundations) - [Trying Out Cloudflare's `foundations` Library for Rust](https://cprimozic.net/blog/trying-out-cloudflare-foundations-library/)
@@ -10,7 +11,6 @@
 * [2024-04-15, 19:46:40](https://lobste.rs/s/guizmr/feat_engineering) - [A Feat of Engineering](https://registerspill.thorstenball.com/p/a-feat-of-engineering)
 * [2024-04-15, 19:29:52](https://lobste.rs/s/tnzmfo/putty_vulnerability_vuln_p521_bias) - [PuTTY vulnerability vuln-p521-bias](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
 * [2024-04-15, 18:48:15](https://lobste.rs/s/nhyfib/xz_utils_review_notes) - [XZ Utils review notes](https://tukaani.org/xz-backdoor/review.html)
-* [2024-04-15, 18:33:01](https://lobste.rs/s/vx7mc3/elastic_universal_profiling_agent) - [Elastic Universal Profiling agent, a continuous profiling solution, is now open source](https://www.elastic.co/de/blog/elastic-universal-profiling-agent-open-source)
 * [2024-04-15, 18:30:34](https://lobste.rs/s/jwwulq/locally_perfect_spatial_hashing) - [Locally Perfect Spatial Hashing](https://haug.codes/blog/locally-perfect-hashing/)
 * [2024-04-15, 18:16:02](https://lobste.rs/s/n36tw1/weird_monitor_bugs_people_sent_me_last_5) - [Weird monitor bugs people sent me in the last 5 years](https://notes.alinpanaitiu.com/Weird-monitor-bugs)
 * [2024-04-15, 18:11:00](https://lobste.rs/s/tc8o4f/upgrading_my_chumby_8_kernel_part_8_audio) - [Upgrading my Chumby 8 kernel part 8: audio](https://www.downtowndougbrown.com/2024/04/upgrading-my-chumby-8-kernel-part-8-audio/)
