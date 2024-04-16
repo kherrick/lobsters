@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-16, 15:44:15](https://lobste.rs/s/dk4fcc/effect_3_0_effect_blog) - [Effect 3.0 – Effect Blog](https://effect.website/blog/effect-3.0)
 * [2024-04-16, 15:23:37](https://lobste.rs/s/6eba5d/failures_mistakes_confusion) - [Failures, Mistakes, Confusion](https://blog.ignaskiela.eu/failures-mistakes-confusion.html)
 * [2024-04-16, 13:10:04](https://lobste.rs/s/hmwleu/some_useful_types_for_database_using_rust) - [Some useful types for database-using Rust web apps](https://boinkor.net/2024/04/some-useful-types-for-database-using-rust-web-apps/)
 * [2024-04-16, 12:56:52](https://lobste.rs/s/xtlsda/topfew_release_0_5) - [Topfew Release 0.5](https://www.tbray.org/ongoing/When/202x/2024/04/12/Topfew-release)
-* [2024-04-16, 10:12:39](https://lobste.rs/s/cfjbkz/freespin_2021) - [Freespin (2021)](https://www.youtube.com/watch?v=zprSxCMlECA)
 * [2024-04-16, 08:27:19](https://lobste.rs/s/c9u1c9/exploring_improvements_firefox_sidebar) - [Exploring improvements to the Firefox sidebar](https://blog.nightly.mozilla.org/2024/04/15/exploring-improvements-to-the-firefox-sidebar/)
 * [2024-04-16, 06:54:21](https://lobste.rs/s/pqljye/descent3_source_code) - [Descent3 Source Code](https://github.com/kevinbentley/Descent3)
 * [2024-04-16, 05:16:36](https://lobste.rs/s/almixc/vr_browser_wolvic_switches_from_gecko) - [VR Browser Wolvic Switches from Gecko to Chromium](https://wolvic.com/blog/Chromium_Beta_APKs/)
