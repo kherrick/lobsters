@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-16, 02:46:52](https://lobste.rs/s/ygvbwz/mastering_observability_how_we_solved) - [Mastering Observability: How We Solved a Major Bug in Just 15 Minutes](https://jaywhy13.hashnode.dev/solving-like-sherlock-a-15-minute-case-with-observability)
 * [2024-04-16, 01:56:06](https://lobste.rs/s/5oeolr/trying_out_cloudflare_s_foundations) - [Trying Out Cloudflare's `foundations` Library for Rust](https://cprimozic.net/blog/trying-out-cloudflare-foundations-library/)
 * [2024-04-16, 01:02:34](https://lobste.rs/s/mjl8k9/measuring_your_system_s_performance) - [Measuring your system’s performance using software  (Go edition)](https://lemire.me/blog/2024/03/17/measuring-your-systems-performance-using-software-go-edition/)
 * [2024-04-16, 00:46:48](https://lobste.rs/s/efmbul/no_i_don_t_want_2_emacs) - [No I don't want 2, Emacs](https://www.emoses.org/posts/dont-write-2/)
@@ -21,7 +22,6 @@
 * [2024-04-15, 10:57:17](https://lobste.rs/s/w3jfno/neverest_cli_synchronize_backup_restore) - [Neverest, a CLI to synchronize, backup and restore emails](https://github.com/soywod/neverest)
 * [2024-04-15, 10:27:10](https://lobste.rs/s/mwynt8/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/mwynt8/what_are_you_doing_this_week)
 * [2024-04-15, 06:02:46](https://lobste.rs/s/j7cf16/spectral_ray_tracing) - [Spectral Ray Tracing](https://larswander.com/writing/spectral-ray-tracing/)
-* [2024-04-14, 19:50:38](https://lobste.rs/s/e2bnzn/emacs_2011_2023) - [🪦 Emacs 2011-2023](https://bastibe.de/2024-03-24-rip-emacs-2011-2023.html)
 * [2024-04-14, 18:55:12](https://lobste.rs/s/pv7th5/only_spans) - [Only Spans](https://onlyspans.net/)
 * [2024-04-14, 18:47:39](https://lobste.rs/s/5at38s/hidden_dependencies_linux_binaries) - [Hidden dependencies in Linux binaries](http://thelittleengineerthatcould.blogspot.com/2024/04/hidden-dependencies-in-linux-binaries.html)
 * [2024-04-14, 11:11:36](https://lobste.rs/s/9itpwl/db_indexes_do_not_magically_compose) - [DB Indexes Do Not Magically Compose](https://rtpg.co/2024/04/14/db-indexes-do-not-magically-compose/)
