@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-17, 21:23:08",
+      "https://lobste.rs/s/hseqbq/deep_dive_into_rspack_webpack_tree"
+    ],
+    [
+      "Deep Dive into Rspack & Webpack Tree Shaking · web-infra-dev · Discussion #17",
+      "https://github.com/orgs/web-infra-dev/discussions/17"
+    ]
+  ],
+  [
+    [
+      "2024-04-17, 21:16:26",
+      "https://lobste.rs/s/f9l1ce/rhttp_repl_for_http"
+    ],
+    [
+      "rHttp: REPL for HTTP",
+      "https://github.com/1buran/rHttp"
+    ]
+  ],
+  [
+    [
       "2024-04-17, 20:15:46",
       "https://lobste.rs/s/eb3mav/advanced_memory_management_vale"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-04-17, 05:57:38",
-      "https://lobste.rs/s/b0zmkg/html_popover_attribute"
-    ],
-    [
-      "HTML popover Attribute",
-      "https://davidwalsh.name/html-popover-attribute"
-    ]
-  ],
-  [
-    [
       "2024-04-17, 05:33:08",
       "https://lobste.rs/s/rlmjdl/bliss_programming_language_history_2002"
     ],
@@ -217,16 +227,6 @@
     [
       "The legal rule that computers are presumed to be operating correctly – unforeseen and unjust consequences (2022)",
       "https://www.benthamsgaze.org/wp-content/uploads/2022/06/briefing-presumption-that-computers-are-reliable.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-04-16, 18:00:22",
-      "https://lobste.rs/s/ixaerf/colima_k8s_nix_setup"
-    ],
-    [
-      "Colima k8s nix setup",
-      "https://dev.to/doriancodes/colima-k8s-nix-setup-mpn"
     ]
   ],
   [
