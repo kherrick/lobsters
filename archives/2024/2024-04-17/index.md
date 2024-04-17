@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 21:43:01](https://lobste.rs/s/v1abpx/deployer_7_4_0_release) - [Deployer 7.4.0 release](https://github.com/deployphp/deployer)
 * [2024-04-17, 21:39:29](https://lobste.rs/s/dm3clo/endless_maze_algorithm_atari_2600) - [The Endless Maze algorithm (Atari 2600)](https://www.gamesthatwerent.com/2024/01/the-endless-maze-algorithm/)
 * [2024-04-17, 21:27:25](https://lobste.rs/s/urm5e0/effort_engine) - [Effort Engine](https://kolinko.github.io/effort/index.html)
 * [2024-04-17, 21:23:08](https://lobste.rs/s/hseqbq/deep_dive_into_rspack_webpack_tree) - [Deep Dive into Rspack & Webpack Tree Shaking · web-infra-dev · Discussion #17](https://github.com/orgs/web-infra-dev/discussions/17)
