@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-17, 08:22:07",
+      "https://lobste.rs/s/hxfpfv/quick_post_on_chen_s_algorithm"
+    ],
+    [
+      "A quick post on Chen's algorithm",
+      "https://blog.cryptographyengineering.com/2024/04/16/a-quick-post-on-chens-algorithm/"
+    ]
+  ],
+  [
+    [
       "2024-04-17, 06:54:47",
       "https://lobste.rs/s/xdveqe/we_need_rewild_internet"
     ],
@@ -237,16 +247,6 @@
     [
       "XZ Utils review notes",
       "https://tukaani.org/xz-backdoor/review.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-15, 14:50:44",
-      "https://lobste.rs/s/m6rchu/building_gps_receiver"
-    ],
-    [
-      "Building a GPS receiver",
-      "https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/"
     ]
   ]
 ]
