@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-17, 00:51:04",
+      "https://lobste.rs/s/rwivnn/megalodon_efficient_llm_pretraining"
+    ],
+    [
+      "Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length",
+      "https://arxiv.org/abs/2404.08801"
+    ]
+  ],
+  [
+    [
       "2024-04-16, 23:13:52",
       "https://lobste.rs/s/vlp3dw/gcloud_lite_lightweight_google_cloud"
     ],
@@ -207,16 +217,6 @@
     [
       "XZ Utils review notes",
       "https://tukaani.org/xz-backdoor/review.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-15, 18:16:02",
-      "https://lobste.rs/s/n36tw1/weird_monitor_bugs_people_sent_me_last_5"
-    ],
-    [
-      "Weird monitor bugs people sent me in the last 5 years",
-      "https://notes.alinpanaitiu.com/Weird-monitor-bugs"
     ]
   ],
   [
