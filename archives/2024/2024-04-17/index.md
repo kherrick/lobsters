@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 21:27:25](https://lobste.rs/s/urm5e0/effort_engine) - [Effort Engine](https://kolinko.github.io/effort/index.html)
 * [2024-04-17, 21:23:08](https://lobste.rs/s/hseqbq/deep_dive_into_rspack_webpack_tree) - [Deep Dive into Rspack & Webpack Tree Shaking · web-infra-dev · Discussion #17](https://github.com/orgs/web-infra-dev/discussions/17)
 * [2024-04-17, 21:16:26](https://lobste.rs/s/f9l1ce/rhttp_repl_for_http) - [rHttp: REPL for HTTP](https://github.com/1buran/rHttp)
 * [2024-04-17, 20:15:46](https://lobste.rs/s/eb3mav/advanced_memory_management_vale) - [Advanced Memory Management in Vale](https://youtu.be/UavYVf0UEoc)

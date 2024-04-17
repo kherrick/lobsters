@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-04-17, 21:23:08](https://lobste.rs/s/hseqbq/deep_dive_into_rspack_webpack_tree) - [Deep Dive into Rspack & Webpack Tree Shaking · web-infra-dev · Discussion #17](https://github.com/orgs/web-infra-dev/discussions/17)
+* [2024-04-17, 21:27:25](https://lobste.rs/s/urm5e0/effort_engine) - [Effort Engine](https://kolinko.github.io/effort/index.html)
+* [2024-04-17, 21:23:08](https://lobste.rs/s/hseqbq/deep_dive_into_rspack_webpack_tree) - [Deep Dive into Rspack & Webpack Tree Shaking](https://github.com/orgs/web-infra-dev/discussions/17)
 * [2024-04-17, 21:16:26](https://lobste.rs/s/f9l1ce/rhttp_repl_for_http) - [rHttp: REPL for HTTP](https://github.com/1buran/rHttp)
 * [2024-04-17, 20:15:46](https://lobste.rs/s/eb3mav/advanced_memory_management_vale) - [Advanced Memory Management in Vale](https://youtu.be/UavYVf0UEoc)
 * [2024-04-17, 19:28:15](https://lobste.rs/s/mnvfoc/types_estimates) - [Types of estimates](https://dan.turnerhallow.co.uk/types-of-estimates.html)
@@ -10,7 +11,6 @@
 * [2024-04-17, 16:24:37](https://lobste.rs/s/4d9bdy/solving_minimum_cut_problem_for) - [Solving the minimum cut problem for undirected graphs](https://research.google/blog/solving-the-minimum-cut-problem-for-undirected-graphs/)
 * [2024-04-17, 15:52:42](https://lobste.rs/s/e3lza2/am_phasor_has_no_setting_for_stun) - [AM phasor has no setting for 'stun'](https://www.jeffgeerling.com/blog/2024/am-phasor-has-no-setting-stun)
 * [2024-04-17, 15:00:36](https://lobste.rs/s/zgxvxw/rust_gui_framework_performance) - [Rust GUI framework performance comparison](http://lukaskalbertodt.github.io/2023/02/03/tauri-iced-egui-performance-comparison.html)
-* [2024-04-17, 14:48:37](https://lobste.rs/s/mtmyyv/java_23_new_features_are_officially) - [Java 23: The New Features are Officially Announced](https://coderoasis.com/java-23-new-features/)
 * [2024-04-17, 11:59:15](https://lobste.rs/s/jplrcm/redis_is_forked) - [Redis is forked](https://newsletter.vickiboykis.com/archive/redis-is-forked/)
 * [2024-04-17, 10:43:04](https://lobste.rs/s/qomtd5/participating_spring_lisp_game_jam_why) - [Participating in the Spring Lisp Game jam, why and how](https://drewsh.com/lisp-game-jam.html)
 * [2024-04-17, 08:22:07](https://lobste.rs/s/hxfpfv/quick_post_on_chen_s_algorithm) - [A quick post on Chen's algorithm](https://blog.cryptographyengineering.com/2024/04/16/a-quick-post-on-chens-algorithm/)
