@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 10:27:24](https://lobste.rs/s/rieyfe/collection_notebooks_showcasing_some) - [Collection of notebooks showcasing some fun and effective ways of using Claude](https://github.com/anthropics/anthropic-cookbook)
 * [2024-04-17, 09:42:55](https://lobste.rs/s/7kwk1v/use_cases_for_merging_splitting) - [Use Cases for Merging and Splitting Partitions With Minimal Locking in PostgreSQL 17](https://andyatkinson.com/blog/2024/04/16/postgresql-17-merge-split-partitions)
 * [2024-04-17, 08:22:07](https://lobste.rs/s/hxfpfv/quick_post_on_chen_s_algorithm) - [A quick post on Chen's algorithm](https://blog.cryptographyengineering.com/2024/04/16/a-quick-post-on-chens-algorithm/)
 * [2024-04-17, 06:54:47](https://lobste.rs/s/xdveqe/we_need_rewild_internet) - [We Need To Rewild The Internet](https://www.noemamag.com/we-need-to-rewild-the-internet/)
