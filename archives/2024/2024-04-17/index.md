@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 08:22:07](https://lobste.rs/s/hxfpfv/quick_post_on_chen_s_algorithm) - [A quick post on Chen's algorithm](https://blog.cryptographyengineering.com/2024/04/16/a-quick-post-on-chens-algorithm/)
 * [2024-04-17, 06:54:47](https://lobste.rs/s/xdveqe/we_need_rewild_internet) - [We Need To Rewild The Internet](https://www.noemamag.com/we-need-to-rewild-the-internet/)
 * [2024-04-17, 06:46:29](https://lobste.rs/s/wnhy86/getting_tai_time_on_debian_machine) - [Getting TAI time on a Debian machine](https://www.bortzmeyer.org/tai-on-debian.html)
 * [2024-04-17, 05:57:38](https://lobste.rs/s/b0zmkg/html_popover_attribute) - [HTML popover Attribute](https://davidwalsh.name/html-popover-attribute)

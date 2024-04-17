@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-17, 08:22:07](https://lobste.rs/s/hxfpfv/quick_post_on_chen_s_algorithm) - [A quick post on Chen's algorithm](https://blog.cryptographyengineering.com/2024/04/16/a-quick-post-on-chens-algorithm/)
 * [2024-04-17, 06:54:47](https://lobste.rs/s/xdveqe/we_need_rewild_internet) - [We Need To Rewild The Internet](https://www.noemamag.com/we-need-to-rewild-the-internet/)
 * [2024-04-17, 06:46:29](https://lobste.rs/s/wnhy86/getting_tai_time_on_debian_machine) - [Getting TAI time on a Debian machine](https://www.bortzmeyer.org/tai-on-debian.html)
 * [2024-04-17, 05:57:38](https://lobste.rs/s/b0zmkg/html_popover_attribute) - [HTML popover Attribute](https://davidwalsh.name/html-popover-attribute)
@@ -24,7 +25,6 @@
 * [2024-04-16, 01:56:06](https://lobste.rs/s/5oeolr/trying_out_cloudflare_s_foundations) - [Trying Out Cloudflare's `foundations` Library for Rust](https://cprimozic.net/blog/trying-out-cloudflare-foundations-library/)
 * [2024-04-16, 00:46:48](https://lobste.rs/s/efmbul/no_i_don_t_want_2_emacs) - [No I don't want 2, Emacs](https://www.emoses.org/posts/dont-write-2/)
 * [2024-04-15, 18:48:15](https://lobste.rs/s/nhyfib/xz_utils_review_notes) - [XZ Utils review notes](https://tukaani.org/xz-backdoor/review.html)
-* [2024-04-15, 14:50:44](https://lobste.rs/s/m6rchu/building_gps_receiver) - [Building a GPS receiver](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
 
 ## [Archives](archives/index.md)
 
