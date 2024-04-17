@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 16:26:14](https://lobste.rs/s/ebiwb4/pypi_expanding_trusted_publisher) - [PyPI: Expanding Trusted Publisher Support](https://blog.pypi.org/posts/2024-04-17-expanding-trusted-publisher-support/)
+* [2024-04-17, 16:24:37](https://lobste.rs/s/4d9bdy/solving_minimum_cut_problem_for) - [Solving the minimum cut problem for undirected graphs](https://research.google/blog/solving-the-minimum-cut-problem-for-undirected-graphs/)
 * [2024-04-17, 15:52:42](https://lobste.rs/s/e3lza2/am_phasor_has_no_setting_for_stun) - [AM phasor has no setting for 'stun'](https://www.jeffgeerling.com/blog/2024/am-phasor-has-no-setting-stun)
 * [2024-04-17, 15:44:11](https://lobste.rs/s/agcr7c/5_ideas_for_user_research_when_you_can_t) - [5 ideas for user research when you can't talk to users](https://www.pixelfridge.digital/5-ideas-for-user-research-when-you-cant-talk-to-users/)
 * [2024-04-17, 15:00:36](https://lobste.rs/s/zgxvxw/rust_gui_framework_performance) - [Rust GUI framework performance comparison](http://lukaskalbertodt.github.io/2023/02/03/tauri-iced-egui-performance-comparison.html)
