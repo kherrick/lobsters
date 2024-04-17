@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-17, 02:42:19](https://lobste.rs/s/ircrbb/river_0_3_0_waylock_1_0_0_status_update) - [River 0.3.0, Waylock 1.0.0, Status Update](https://isaacfreund.com/blog/river-0.3-waylock-1.0/)
 * [2024-04-17, 01:46:14](https://lobste.rs/s/v1tkac/humane_ai_pico_laser_projection_230m_ai) - [Humane AI – Pico Laser Projection – $230M AI Twist on an Old Scam](https://kguttag.com/2023/12/06/humane-ai-pico-laser-projection-230m-ai-twist-on-an-old-scam/)
 * [2024-04-17, 00:51:04](https://lobste.rs/s/rwivnn/megalodon_efficient_llm_pretraining) - [Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length](https://arxiv.org/abs/2404.08801)
 * [2024-04-16, 23:13:52](https://lobste.rs/s/vlp3dw/gcloud_lite_lightweight_google_cloud) - [gcloud-lite lightweight Google Cloud Platform CLI distro](https://github.com/tonymet/gcloud-lite)
@@ -21,7 +22,6 @@
 * [2024-04-16, 01:56:06](https://lobste.rs/s/5oeolr/trying_out_cloudflare_s_foundations) - [Trying Out Cloudflare's `foundations` Library for Rust](https://cprimozic.net/blog/trying-out-cloudflare-foundations-library/)
 * [2024-04-16, 00:46:48](https://lobste.rs/s/efmbul/no_i_don_t_want_2_emacs) - [No I don't want 2, Emacs](https://www.emoses.org/posts/dont-write-2/)
 * [2024-04-16, 00:10:33](https://lobste.rs/s/p4odxi/knuth_morris_pratt_illustrated) - [Knuth–Morris–Pratt illustrated](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/knuthmorrispratt-illustrated/8EFA77D663D585B68630E372BCE1EBA4)
-* [2024-04-15, 19:29:52](https://lobste.rs/s/tnzmfo/putty_vulnerability_vuln_p521_bias) - [PuTTY vulnerability vuln-p521-bias](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
 * [2024-04-15, 18:48:15](https://lobste.rs/s/nhyfib/xz_utils_review_notes) - [XZ Utils review notes](https://tukaani.org/xz-backdoor/review.html)
 * [2024-04-15, 14:50:44](https://lobste.rs/s/m6rchu/building_gps_receiver) - [Building a GPS receiver](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
 * [2024-04-15, 10:57:17](https://lobste.rs/s/w3jfno/neverest_cli_synchronize_backup_restore) - [Neverest, a CLI to synchronize, backup and restore emails](https://github.com/soywod/neverest)
