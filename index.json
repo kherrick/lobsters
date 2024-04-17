@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-04-17, 21:27:25",
+      "https://lobste.rs/s/urm5e0/effort_engine"
+    ],
+    [
+      "Effort Engine",
+      "https://kolinko.github.io/effort/index.html"
+    ]
+  ],
+  [
+    [
       "2024-04-17, 21:23:08",
       "https://lobste.rs/s/hseqbq/deep_dive_into_rspack_webpack_tree"
     ],
     [
-      "Deep Dive into Rspack & Webpack Tree Shaking · web-infra-dev · Discussion #17",
+      "Deep Dive into Rspack & Webpack Tree Shaking",
       "https://github.com/orgs/web-infra-dev/discussions/17"
     ]
   ],
@@ -97,16 +107,6 @@
     [
       "Rust GUI framework performance comparison",
       "http://lukaskalbertodt.github.io/2023/02/03/tauri-iced-egui-performance-comparison.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-17, 14:48:37",
-      "https://lobste.rs/s/mtmyyv/java_23_new_features_are_officially"
-    ],
-    [
-      "Java 23: The New Features are Officially Announced",
-      "https://coderoasis.com/java-23-new-features/"
     ]
   ],
   [
