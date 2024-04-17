@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-17, 22:05:47](https://lobste.rs/s/eo1bde/systems_distributed_24) - [Systems Distributed '24](https://systemsdistributed.com)
+* [2024-04-17, 22:04:43](https://lobste.rs/s/bhignf/libnix_mingw_status) - [libnix mingw status](https://lastlog.de/blog/libnix_mingw_status.html)
+* [2024-04-17, 22:01:55](https://lobste.rs/s/7hpykf/full_text_search_openbsd_manual_pages) - [Full-text search of the OpenBSD manual pages](https://man.ifconfig.se)
 * [2024-04-17, 21:43:01](https://lobste.rs/s/v1abpx/deployer_7_4_0_release) - [Deployer 7.4.0 release](https://github.com/deployphp/deployer)
 * [2024-04-17, 21:39:29](https://lobste.rs/s/dm3clo/endless_maze_algorithm_atari_2600) - [The Endless Maze algorithm (Atari 2600)](https://www.gamesthatwerent.com/2024/01/the-endless-maze-algorithm/)
-* [2024-04-17, 21:27:25](https://lobste.rs/s/urm5e0/effort_engine) - [Effort Engine](https://kolinko.github.io/effort/index.html)
-* [2024-04-17, 21:23:08](https://lobste.rs/s/hseqbq/deep_dive_into_rspack_webpack_tree) - [Deep Dive into Rspack & Webpack Tree Shaking](https://github.com/orgs/web-infra-dev/discussions/17)
-* [2024-04-17, 21:16:26](https://lobste.rs/s/f9l1ce/rhttp_repl_for_http) - [rHttp: REPL for HTTP](https://github.com/1buran/rHttp)
 * [2024-04-17, 20:15:46](https://lobste.rs/s/eb3mav/advanced_memory_management_vale) - [Advanced Memory Management in Vale](https://youtu.be/UavYVf0UEoc)
 * [2024-04-17, 17:45:30](https://lobste.rs/s/4jpfyy/prism_2024_history_ruby_parsers) - [Prism in 2024 - A history of Ruby parsers](https://railsatscale.com/2024-04-16-prism-in-2024/)
 * [2024-04-17, 17:09:37](https://lobste.rs/s/8ahwpg/palo_alto_networks_zero_day_exploited) - [Palo Alto Networks zero-day exploited since March to backdoor firewalls](https://www.bleepingcomputer.com/news/security/palo-alto-networks-zero-day-exploited-since-march-to-backdoor-firewalls/)
