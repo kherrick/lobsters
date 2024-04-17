@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-17, 06:46:29](https://lobste.rs/s/wnhy86/getting_tai_time_on_debian_machine) - [Getting TAI time on a Debian machine](https://www.bortzmeyer.org/tai-on-debian.html)
 * [2024-04-17, 05:57:38](https://lobste.rs/s/b0zmkg/html_popover_attribute) - [HTML popover Attribute](https://davidwalsh.name/html-popover-attribute)
 * [2024-04-17, 05:33:08](https://lobste.rs/s/rlmjdl/bliss_programming_language_history_2002) - [The BLISS programming language: a history (2002)](https://www.cs.tufts.edu/~nr/cs257/archive/ronald-brender/bliss.pdf)
 * [2024-04-17, 05:09:40](https://lobste.rs/s/idpvvq/ten_years_improvements_postgresql_s) - [Ten years of improvements in PostgreSQL's optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
@@ -12,7 +13,6 @@
 * [2024-04-16, 22:25:07](https://lobste.rs/s/lrixcj/legal_rule_computers_are_presumed_be) - [The legal rule that computers are presumed to be operating correctly – unforeseen and unjust consequences (2022)](https://www.benthamsgaze.org/wp-content/uploads/2022/06/briefing-presumption-that-computers-are-reliable.pdf)
 * [2024-04-16, 22:22:09](https://lobste.rs/s/oe3sb6/why_openssl_punycode_vulnerability_cve) - [Why OpenSSL punycode vulnerability CVE-2022-3602 was not detected by fuzz testing](http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html)
 * [2024-04-16, 18:00:22](https://lobste.rs/s/ixaerf/colima_k8s_nix_setup) - [Colima k8s nix setup](https://dev.to/doriancodes/colima-k8s-nix-setup-mpn)
-* [2024-04-16, 17:29:53](https://lobste.rs/s/0h253l/atac_simple_api_client_postman_like_your) - [ATAC: A simple API client (postman like) in your terminal](https://github.com/Julien-cpsn/ATAC)
 * [2024-04-16, 17:19:40](https://lobste.rs/s/wr64in/gleam_version_v1_1) - [Gleam version v1.1](https://gleam.run/news/gleam-v1.1/)
 * [2024-04-16, 16:24:29](https://lobste.rs/s/uvcogs/calling_ocaml_from_c) - [Calling OCaml from C](https://transactional.blog/blog/2024-calling-ocaml-from-c)
 * [2024-04-16, 15:44:15](https://lobste.rs/s/dk4fcc/effect_3_0) - [Effect 3.0](https://effect.website/blog/effect-3.0)
