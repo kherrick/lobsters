@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-17, 15:52:42",
+      "https://lobste.rs/s/e3lza2/am_phasor_has_no_setting_for_stun"
+    ],
+    [
+      "AM phasor has no setting for 'stun'",
+      "https://www.jeffgeerling.com/blog/2024/am-phasor-has-no-setting-stun"
+    ]
+  ],
+  [
+    [
       "2024-04-17, 15:44:11",
       "https://lobste.rs/s/agcr7c/5_ideas_for_user_research_when_you_can_t"
     ],
@@ -237,16 +247,6 @@
     [
       "No I don't want 2, Emacs",
       "https://www.emoses.org/posts/dont-write-2/"
-    ]
-  ],
-  [
-    [
-      "2024-04-15, 18:48:15",
-      "https://lobste.rs/s/nhyfib/xz_utils_review_notes"
-    ],
-    [
-      "XZ Utils review notes",
-      "https://tukaani.org/xz-backdoor/review.html"
     ]
   ]
 ]
