@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2024-04-16, 22:45:23",
-      "https://lobste.rs/s/uxwae2/cute_trick_for_fetch_add_based_queues"
-    ],
-    [
-      "Cute trick for fetch-and-add-based queues",
-      "https://outerproduct.net/trivial/2024-04-16_faaqtr.html"
-    ]
-  ],
-  [
-    [
       "2024-04-16, 22:25:07",
       "https://lobste.rs/s/lrixcj/legal_rule_computers_are_presumed_be"
     ],
@@ -247,6 +237,16 @@
     [
       "XZ Utils review notes",
       "https://tukaani.org/xz-backdoor/review.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-15, 14:50:44",
+      "https://lobste.rs/s/m6rchu/building_gps_receiver"
+    ],
+    [
+      "Building a GPS receiver",
+      "https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/"
     ]
   ]
 ]
