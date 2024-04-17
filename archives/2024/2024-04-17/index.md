@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 11:59:15](https://lobste.rs/s/jplrcm/redis_is_forked) - [Redis is forked](https://newsletter.vickiboykis.com/archive/redis-is-forked/)
+* [2024-04-17, 11:56:35](https://lobste.rs/s/eygedv/ai_index_report_2024_artificial) - [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
 * [2024-04-17, 10:43:04](https://lobste.rs/s/qomtd5/participating_spring_lisp_game_jam_why) - [Participating in the Spring Lisp Game jam, why and how](https://drewsh.com/lisp-game-jam.html)
 * [2024-04-17, 10:27:24](https://lobste.rs/s/rieyfe/collection_notebooks_showcasing_some) - [Collection of notebooks showcasing some fun and effective ways of using Claude](https://github.com/anthropics/anthropic-cookbook)
 * [2024-04-17, 09:42:55](https://lobste.rs/s/7kwk1v/use_cases_for_merging_splitting) - [Use Cases for Merging and Splitting Partitions With Minimal Locking in PostgreSQL 17](https://andyatkinson.com/blog/2024/04/16/postgresql-17-merge-split-partitions)
