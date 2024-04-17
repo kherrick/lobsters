@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 13:23:05](https://lobste.rs/s/96wkbf/unpacking_blackjack_group_s_fuxnet) - [Unpacking the Blackjack Group's Fuxnet Malware](https://claroty.com/team82/research/unpacking-the-blackjack-groups-fuxnet-malware)
 * [2024-04-17, 11:59:15](https://lobste.rs/s/jplrcm/redis_is_forked) - [Redis is forked](https://newsletter.vickiboykis.com/archive/redis-is-forked/)
 * [2024-04-17, 11:56:35](https://lobste.rs/s/eygedv/ai_index_report_2024_artificial) - [AI Index Report 2024 – Artificial Intelligence Index](https://aiindex.stanford.edu/report/)
 * [2024-04-17, 10:43:04](https://lobste.rs/s/qomtd5/participating_spring_lisp_game_jam_why) - [Participating in the Spring Lisp Game jam, why and how](https://drewsh.com/lisp-game-jam.html)
