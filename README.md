@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-17, 09:42:55](https://lobste.rs/s/7kwk1v/use_cases_for_merging_splitting) - [Use Cases for Merging and Splitting Partitions With Minimal Locking in PostgreSQL 17](https://andyatkinson.com/blog/2024/04/16/postgresql-17-merge-split-partitions)
 * [2024-04-17, 08:22:07](https://lobste.rs/s/hxfpfv/quick_post_on_chen_s_algorithm) - [A quick post on Chen's algorithm](https://blog.cryptographyengineering.com/2024/04/16/a-quick-post-on-chens-algorithm/)
 * [2024-04-17, 06:54:47](https://lobste.rs/s/xdveqe/we_need_rewild_internet) - [We Need To Rewild The Internet](https://www.noemamag.com/we-need-to-rewild-the-internet/)
 * [2024-04-17, 06:46:29](https://lobste.rs/s/wnhy86/getting_tai_time_on_debian_machine) - [Getting TAI time on a Debian machine](https://www.bortzmeyer.org/tai-on-debian.html)
@@ -15,7 +16,6 @@
 * [2024-04-16, 22:22:09](https://lobste.rs/s/oe3sb6/why_openssl_punycode_vulnerability_cve) - [Why OpenSSL punycode vulnerability CVE-2022-3602 was not detected by fuzz testing](http://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html)
 * [2024-04-16, 18:00:22](https://lobste.rs/s/ixaerf/colima_k8s_nix_setup) - [Colima k8s nix setup](https://dev.to/doriancodes/colima-k8s-nix-setup-mpn)
 * [2024-04-16, 17:19:40](https://lobste.rs/s/wr64in/gleam_version_v1_1) - [Gleam version v1.1](https://gleam.run/news/gleam-v1.1/)
-* [2024-04-16, 16:24:29](https://lobste.rs/s/uvcogs/calling_ocaml_from_c) - [Calling OCaml from C](https://transactional.blog/blog/2024-calling-ocaml-from-c)
 * [2024-04-16, 15:44:15](https://lobste.rs/s/dk4fcc/effect_3_0) - [Effect 3.0](https://effect.website/blog/effect-3.0)
 * [2024-04-16, 15:23:37](https://lobste.rs/s/6eba5d/failures_mistakes_confusion) - [Failures, Mistakes, Confusion](https://blog.ignaskiela.eu/failures-mistakes-confusion.html)
 * [2024-04-16, 13:10:04](https://lobste.rs/s/hmwleu/some_useful_types_for_database_using_rust) - [Some useful types for database-using Rust web apps](https://boinkor.net/2024/04/some-useful-types-for-database-using-rust-web-apps/)
