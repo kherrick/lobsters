@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 15:52:42](https://lobste.rs/s/e3lza2/am_phasor_has_no_setting_for_stun) - [AM phasor has no setting for 'stun'](https://www.jeffgeerling.com/blog/2024/am-phasor-has-no-setting-stun)
 * [2024-04-17, 15:44:11](https://lobste.rs/s/agcr7c/5_ideas_for_user_research_when_you_can_t) - [5 ideas for user research when you can't talk to users](https://www.pixelfridge.digital/5-ideas-for-user-research-when-you-cant-talk-to-users/)
 * [2024-04-17, 15:00:36](https://lobste.rs/s/zgxvxw/rust_gui_framework_performance) - [Rust GUI framework performance comparison](http://lukaskalbertodt.github.io/2023/02/03/tauri-iced-egui-performance-comparison.html)
 * [2024-04-17, 14:48:37](https://lobste.rs/s/mtmyyv/java_23_new_features_are_officially) - [Java 23: The New Features are Officially Announced](https://coderoasis.com/java-23-new-features/)

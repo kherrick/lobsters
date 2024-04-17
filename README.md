@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-17, 15:52:42](https://lobste.rs/s/e3lza2/am_phasor_has_no_setting_for_stun) - [AM phasor has no setting for 'stun'](https://www.jeffgeerling.com/blog/2024/am-phasor-has-no-setting-stun)
 * [2024-04-17, 15:44:11](https://lobste.rs/s/agcr7c/5_ideas_for_user_research_when_you_can_t) - [5 ideas for user research when you can't talk to users](https://www.pixelfridge.digital/5-ideas-for-user-research-when-you-cant-talk-to-users/)
 * [2024-04-17, 15:00:36](https://lobste.rs/s/zgxvxw/rust_gui_framework_performance) - [Rust GUI framework performance comparison](http://lukaskalbertodt.github.io/2023/02/03/tauri-iced-egui-performance-comparison.html)
 * [2024-04-17, 14:48:37](https://lobste.rs/s/mtmyyv/java_23_new_features_are_officially) - [Java 23: The New Features are Officially Announced](https://coderoasis.com/java-23-new-features/)
@@ -24,7 +25,6 @@
 * [2024-04-16, 15:23:37](https://lobste.rs/s/6eba5d/failures_mistakes_confusion) - [Failures, Mistakes, Confusion](https://blog.ignaskiela.eu/failures-mistakes-confusion.html)
 * [2024-04-16, 13:10:04](https://lobste.rs/s/hmwleu/some_useful_types_for_database_using_rust) - [Some useful types for database-using Rust web apps](https://boinkor.net/2024/04/some-useful-types-for-database-using-rust-web-apps/)
 * [2024-04-16, 00:46:48](https://lobste.rs/s/efmbul/no_i_don_t_want_2_emacs) - [No I don't want 2, Emacs](https://www.emoses.org/posts/dont-write-2/)
-* [2024-04-15, 18:48:15](https://lobste.rs/s/nhyfib/xz_utils_review_notes) - [XZ Utils review notes](https://tukaani.org/xz-backdoor/review.html)
 
 ## [Archives](archives/index.md)
 
