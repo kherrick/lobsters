@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-17, 04:38:08](https://lobste.rs/s/xcwla4/hardest_problem_computer_science) - [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/)
 * [2024-04-17, 04:03:58](https://lobste.rs/s/hvdrln/m2dir_treating_mails_as_files_without) - [m2dir: treating mails as files without going crazy](https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html)
 * [2024-04-17, 02:42:19](https://lobste.rs/s/ircrbb/river_0_3_0_waylock_1_0_0_status_update) - [River 0.3.0, Waylock 1.0.0, Status Update](https://isaacfreund.com/blog/river-0.3-waylock-1.0/)
 * [2024-04-17, 01:46:14](https://lobste.rs/s/v1tkac/humane_ai_pico_laser_projection_230m_ai) - [Humane AI – Pico Laser Projection – $230M AI Twist on an Old Scam](https://kguttag.com/2023/12/06/humane-ai-pico-laser-projection-230m-ai-twist-on-an-old-scam/)
@@ -14,7 +15,6 @@
 * [2024-04-16, 15:44:15](https://lobste.rs/s/dk4fcc/effect_3_0) - [Effect 3.0](https://effect.website/blog/effect-3.0)
 * [2024-04-16, 15:23:37](https://lobste.rs/s/6eba5d/failures_mistakes_confusion) - [Failures, Mistakes, Confusion](https://blog.ignaskiela.eu/failures-mistakes-confusion.html)
 * [2024-04-16, 13:10:04](https://lobste.rs/s/hmwleu/some_useful_types_for_database_using_rust) - [Some useful types for database-using Rust web apps](https://boinkor.net/2024/04/some-useful-types-for-database-using-rust-web-apps/)
-* [2024-04-16, 12:56:52](https://lobste.rs/s/xtlsda/topfew_release_0_5) - [Topfew Release 0.5](https://www.tbray.org/ongoing/When/202x/2024/04/12/Topfew-release)
 * [2024-04-16, 08:27:19](https://lobste.rs/s/c9u1c9/exploring_improvements_firefox_sidebar) - [Exploring improvements to the Firefox sidebar](https://blog.nightly.mozilla.org/2024/04/15/exploring-improvements-to-the-firefox-sidebar/)
 * [2024-04-16, 06:54:21](https://lobste.rs/s/pqljye/descent3_source_code) - [Descent3 Source Code](https://github.com/kevinbentley/Descent3)
 * [2024-04-16, 03:26:59](https://lobste.rs/s/f4qas1/story_etak_navigator) - [Story of Etak Navigator](https://maphappenings.com/2024/04/11/story-of-etak/)
