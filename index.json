@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-17, 05:09:40",
+      "https://lobste.rs/s/idpvvq/ten_years_improvements_postgresql_s"
+    ],
+    [
+      "Ten years of improvements in PostgreSQL's optimizer",
+      "https://rmarcus.info/blog/2024/04/12/pg-over-time.html"
+    ]
+  ],
+  [
+    [
       "2024-04-17, 04:38:08",
       "https://lobste.rs/s/xcwla4/hardest_problem_computer_science"
     ],
@@ -177,16 +187,6 @@
     [
       "Story of Etak Navigator",
       "https://maphappenings.com/2024/04/11/story-of-etak/"
-    ]
-  ],
-  [
-    [
-      "2024-04-16, 02:46:52",
-      "https://lobste.rs/s/ygvbwz/mastering_observability_how_we_solved"
-    ],
-    [
-      "Mastering Observability: How We Solved a Major Bug in Just 15 Minutes",
-      "https://jaywhy13.hashnode.dev/solving-like-sherlock-a-15-minute-case-with-observability"
     ]
   ],
   [
