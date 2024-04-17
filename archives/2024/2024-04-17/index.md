@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 20:15:46](https://lobste.rs/s/eb3mav/advanced_memory_management_vale) - [Advanced Memory Management in Vale](https://youtu.be/UavYVf0UEoc)
 * [2024-04-17, 19:28:15](https://lobste.rs/s/mnvfoc/types_estimates) - [Types of estimates](https://dan.turnerhallow.co.uk/types-of-estimates.html)
 * [2024-04-17, 17:45:30](https://lobste.rs/s/4jpfyy/prism_2024_history_ruby_parsers) - [Prism in 2024 - A history of Ruby parsers](https://railsatscale.com/2024-04-16-prism-in-2024/)
 * [2024-04-17, 17:09:37](https://lobste.rs/s/8ahwpg/palo_alto_networks_zero_day_exploited) - [Palo Alto Networks zero-day exploited since March to backdoor firewalls](https://www.bleepingcomputer.com/news/security/palo-alto-networks-zero-day-exploited-since-march-to-backdoor-firewalls/)
