@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-17, 00:51:04](https://lobste.rs/s/rwivnn/megalodon_efficient_llm_pretraining) - [Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length](https://arxiv.org/abs/2404.08801)
 * [2024-04-16, 23:13:52](https://lobste.rs/s/vlp3dw/gcloud_lite_lightweight_google_cloud) - [gcloud-lite lightweight Google Cloud Platform CLI distro](https://github.com/tonymet/gcloud-lite)
 * [2024-04-16, 22:45:23](https://lobste.rs/s/uxwae2/cute_trick_for_fetch_add_based_queues) - [Cute trick for fetch-and-add-based queues](https://outerproduct.net/trivial/2024-04-16_faaqtr.html)
 * [2024-04-16, 22:25:07](https://lobste.rs/s/lrixcj/legal_rule_computers_are_presumed_be) - [The legal rule that computers are presumed to be operating correctly – unforeseen and unjust consequences (2022)](https://www.benthamsgaze.org/wp-content/uploads/2022/06/briefing-presumption-that-computers-are-reliable.pdf)
@@ -21,7 +22,6 @@
 * [2024-04-16, 00:10:33](https://lobste.rs/s/p4odxi/knuth_morris_pratt_illustrated) - [Knuth–Morris–Pratt illustrated](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/knuthmorrispratt-illustrated/8EFA77D663D585B68630E372BCE1EBA4)
 * [2024-04-15, 19:29:52](https://lobste.rs/s/tnzmfo/putty_vulnerability_vuln_p521_bias) - [PuTTY vulnerability vuln-p521-bias](https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html)
 * [2024-04-15, 18:48:15](https://lobste.rs/s/nhyfib/xz_utils_review_notes) - [XZ Utils review notes](https://tukaani.org/xz-backdoor/review.html)
-* [2024-04-15, 18:16:02](https://lobste.rs/s/n36tw1/weird_monitor_bugs_people_sent_me_last_5) - [Weird monitor bugs people sent me in the last 5 years](https://notes.alinpanaitiu.com/Weird-monitor-bugs)
 * [2024-04-15, 14:50:44](https://lobste.rs/s/m6rchu/building_gps_receiver) - [Building a GPS receiver](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
 * [2024-04-15, 11:34:57](https://lobste.rs/s/je9hvj/why_no_ipv6) - [Why No IPv6?](https://whynoipv6.com/)
 * [2024-04-15, 10:57:17](https://lobste.rs/s/w3jfno/neverest_cli_synchronize_backup_restore) - [Neverest, a CLI to synchronize, backup and restore emails](https://github.com/soywod/neverest)
