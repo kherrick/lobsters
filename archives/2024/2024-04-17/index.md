@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 17:09:37](https://lobste.rs/s/8ahwpg/palo_alto_networks_zero_day_exploited) - [Palo Alto Networks zero-day exploited since March to backdoor firewalls](https://www.bleepingcomputer.com/news/security/palo-alto-networks-zero-day-exploited-since-march-to-backdoor-firewalls/)
 * [2024-04-17, 16:26:14](https://lobste.rs/s/ebiwb4/pypi_expanding_trusted_publisher) - [PyPI: Expanding Trusted Publisher Support](https://blog.pypi.org/posts/2024-04-17-expanding-trusted-publisher-support/)
 * [2024-04-17, 16:24:37](https://lobste.rs/s/4d9bdy/solving_minimum_cut_problem_for) - [Solving the minimum cut problem for undirected graphs](https://research.google/blog/solving-the-minimum-cut-problem-for-undirected-graphs/)
 * [2024-04-17, 15:52:42](https://lobste.rs/s/e3lza2/am_phasor_has_no_setting_for_stun) - [AM phasor has no setting for 'stun'](https://www.jeffgeerling.com/blog/2024/am-phasor-has-no-setting-stun)
