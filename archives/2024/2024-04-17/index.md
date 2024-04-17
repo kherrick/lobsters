@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 21:23:08](https://lobste.rs/s/hseqbq/deep_dive_into_rspack_webpack_tree) - [Deep Dive into Rspack & Webpack Tree Shaking · web-infra-dev · Discussion #17](https://github.com/orgs/web-infra-dev/discussions/17)
+* [2024-04-17, 21:16:26](https://lobste.rs/s/f9l1ce/rhttp_repl_for_http) - [rHttp: REPL for HTTP](https://github.com/1buran/rHttp)
 * [2024-04-17, 20:15:46](https://lobste.rs/s/eb3mav/advanced_memory_management_vale) - [Advanced Memory Management in Vale](https://youtu.be/UavYVf0UEoc)
 * [2024-04-17, 19:28:15](https://lobste.rs/s/mnvfoc/types_estimates) - [Types of estimates](https://dan.turnerhallow.co.uk/types-of-estimates.html)
 * [2024-04-17, 17:45:30](https://lobste.rs/s/4jpfyy/prism_2024_history_ruby_parsers) - [Prism in 2024 - A history of Ruby parsers](https://railsatscale.com/2024-04-16-prism-in-2024/)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-17, 21:23:08](https://lobste.rs/s/hseqbq/deep_dive_into_rspack_webpack_tree) - [Deep Dive into Rspack & Webpack Tree Shaking · web-infra-dev · Discussion #17](https://github.com/orgs/web-infra-dev/discussions/17)
+* [2024-04-17, 21:16:26](https://lobste.rs/s/f9l1ce/rhttp_repl_for_http) - [rHttp: REPL for HTTP](https://github.com/1buran/rHttp)
 * [2024-04-17, 20:15:46](https://lobste.rs/s/eb3mav/advanced_memory_management_vale) - [Advanced Memory Management in Vale](https://youtu.be/UavYVf0UEoc)
 * [2024-04-17, 19:28:15](https://lobste.rs/s/mnvfoc/types_estimates) - [Types of estimates](https://dan.turnerhallow.co.uk/types-of-estimates.html)
 * [2024-04-17, 17:45:30](https://lobste.rs/s/4jpfyy/prism_2024_history_ruby_parsers) - [Prism in 2024 - A history of Ruby parsers](https://railsatscale.com/2024-04-16-prism-in-2024/)
@@ -14,7 +16,6 @@
 * [2024-04-17, 08:22:07](https://lobste.rs/s/hxfpfv/quick_post_on_chen_s_algorithm) - [A quick post on Chen's algorithm](https://blog.cryptographyengineering.com/2024/04/16/a-quick-post-on-chens-algorithm/)
 * [2024-04-17, 06:54:47](https://lobste.rs/s/xdveqe/we_need_rewild_internet) - [We Need To Rewild The Internet](https://www.noemamag.com/we-need-to-rewild-the-internet/)
 * [2024-04-17, 06:46:29](https://lobste.rs/s/wnhy86/getting_tai_time_on_debian_machine) - [Getting TAI time on a Debian machine](https://www.bortzmeyer.org/tai-on-debian.html)
-* [2024-04-17, 05:57:38](https://lobste.rs/s/b0zmkg/html_popover_attribute) - [HTML popover Attribute](https://davidwalsh.name/html-popover-attribute)
 * [2024-04-17, 05:33:08](https://lobste.rs/s/rlmjdl/bliss_programming_language_history_2002) - [The BLISS programming language: a history (2002)](https://www.cs.tufts.edu/~nr/cs257/archive/ronald-brender/bliss.pdf)
 * [2024-04-17, 05:09:40](https://lobste.rs/s/idpvvq/ten_years_improvements_postgresql_s) - [Ten years of improvements in PostgreSQL's optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
 * [2024-04-17, 04:38:08](https://lobste.rs/s/xcwla4/hardest_problem_computer_science) - [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/)
@@ -22,7 +23,6 @@
 * [2024-04-17, 01:46:14](https://lobste.rs/s/v1tkac/humane_ai_pico_laser_projection_230m_ai) - [Humane AI – Pico Laser Projection – $230M AI Twist on an Old Scam](https://kguttag.com/2023/12/06/humane-ai-pico-laser-projection-230m-ai-twist-on-an-old-scam/)
 * [2024-04-16, 23:13:52](https://lobste.rs/s/vlp3dw/gcloud_lite_lightweight_google_cloud) - [gcloud-lite lightweight Google Cloud Platform CLI distro](https://github.com/tonymet/gcloud-lite)
 * [2024-04-16, 22:25:07](https://lobste.rs/s/lrixcj/legal_rule_computers_are_presumed_be) - [The legal rule that computers are presumed to be operating correctly – unforeseen and unjust consequences (2022)](https://www.benthamsgaze.org/wp-content/uploads/2022/06/briefing-presumption-that-computers-are-reliable.pdf)
-* [2024-04-16, 18:00:22](https://lobste.rs/s/ixaerf/colima_k8s_nix_setup) - [Colima k8s nix setup](https://dev.to/doriancodes/colima-k8s-nix-setup-mpn)
 * [2024-04-16, 17:19:40](https://lobste.rs/s/wr64in/gleam_version_v1_1) - [Gleam version v1.1](https://gleam.run/news/gleam-v1.1/)
 * [2024-04-16, 13:10:04](https://lobste.rs/s/hmwleu/some_useful_types_for_database_using_rust) - [Some useful types for database-using Rust web apps](https://boinkor.net/2024/04/some-useful-types-for-database-using-rust-web-apps/)
 
