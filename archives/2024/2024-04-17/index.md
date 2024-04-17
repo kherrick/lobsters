@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 05:33:08](https://lobste.rs/s/rlmjdl/bliss_programming_language_history_2002) - [The BLISS programming language: a history (2002)](https://www.cs.tufts.edu/~nr/cs257/archive/ronald-brender/bliss.pdf)
 * [2024-04-17, 05:09:40](https://lobste.rs/s/idpvvq/ten_years_improvements_postgresql_s) - [Ten years of improvements in PostgreSQL's optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
 * [2024-04-17, 04:38:08](https://lobste.rs/s/xcwla4/hardest_problem_computer_science) - [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/)
 * [2024-04-17, 04:03:58](https://lobste.rs/s/hvdrln/m2dir_treating_mails_as_files_without) - [m2dir: treating mails as files without going crazy](https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html)

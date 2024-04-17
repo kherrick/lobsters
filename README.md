@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-17, 05:33:08](https://lobste.rs/s/rlmjdl/bliss_programming_language_history_2002) - [The BLISS programming language: a history (2002)](https://www.cs.tufts.edu/~nr/cs257/archive/ronald-brender/bliss.pdf)
 * [2024-04-17, 05:09:40](https://lobste.rs/s/idpvvq/ten_years_improvements_postgresql_s) - [Ten years of improvements in PostgreSQL's optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
 * [2024-04-17, 04:38:08](https://lobste.rs/s/xcwla4/hardest_problem_computer_science) - [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/)
 * [2024-04-17, 04:03:58](https://lobste.rs/s/hvdrln/m2dir_treating_mails_as_files_without) - [m2dir: treating mails as files without going crazy](https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html)
@@ -21,7 +22,6 @@
 * [2024-04-16, 03:26:59](https://lobste.rs/s/f4qas1/story_etak_navigator) - [Story of Etak Navigator](https://maphappenings.com/2024/04/11/story-of-etak/)
 * [2024-04-16, 01:56:06](https://lobste.rs/s/5oeolr/trying_out_cloudflare_s_foundations) - [Trying Out Cloudflare's `foundations` Library for Rust](https://cprimozic.net/blog/trying-out-cloudflare-foundations-library/)
 * [2024-04-16, 00:46:48](https://lobste.rs/s/efmbul/no_i_don_t_want_2_emacs) - [No I don't want 2, Emacs](https://www.emoses.org/posts/dont-write-2/)
-* [2024-04-16, 00:10:33](https://lobste.rs/s/p4odxi/knuth_morris_pratt_illustrated) - [Knuth–Morris–Pratt illustrated](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/knuthmorrispratt-illustrated/8EFA77D663D585B68630E372BCE1EBA4)
 * [2024-04-15, 18:48:15](https://lobste.rs/s/nhyfib/xz_utils_review_notes) - [XZ Utils review notes](https://tukaani.org/xz-backdoor/review.html)
 * [2024-04-15, 14:50:44](https://lobste.rs/s/m6rchu/building_gps_receiver) - [Building a GPS receiver](https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/)
 * [2024-04-15, 10:57:17](https://lobste.rs/s/w3jfno/neverest_cli_synchronize_backup_restore) - [Neverest, a CLI to synchronize, backup and restore emails](https://github.com/soywod/neverest)
