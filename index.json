@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-04-17, 02:42:19",
+      "https://lobste.rs/s/ircrbb/river_0_3_0_waylock_1_0_0_status_update"
+    ],
+    [
+      "River 0.3.0, Waylock 1.0.0, Status Update",
+      "https://isaacfreund.com/blog/river-0.3-waylock-1.0/"
+    ]
+  ],
+  [
+    [
       "2024-04-17, 01:46:14",
       "https://lobste.rs/s/v1tkac/humane_ai_pico_laser_projection_230m_ai"
     ],
@@ -237,16 +247,6 @@
     [
       "Building a GPS receiver",
       "https://axleos.com/building-a-gps-receiver-part-1-hearing-whispers/"
-    ]
-  ],
-  [
-    [
-      "2024-04-15, 10:57:17",
-      "https://lobste.rs/s/w3jfno/neverest_cli_synchronize_backup_restore"
-    ],
-    [
-      "Neverest, a CLI to synchronize, backup and restore emails",
-      "https://github.com/soywod/neverest"
     ]
   ]
 ]
