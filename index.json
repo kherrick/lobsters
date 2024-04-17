@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-17, 16:26:14",
+      "https://lobste.rs/s/ebiwb4/pypi_expanding_trusted_publisher"
+    ],
+    [
+      "PyPI: Expanding Trusted Publisher Support",
+      "https://blog.pypi.org/posts/2024-04-17-expanding-trusted-publisher-support/"
+    ]
+  ],
+  [
+    [
+      "2024-04-17, 16:24:37",
+      "https://lobste.rs/s/4d9bdy/solving_minimum_cut_problem_for"
+    ],
+    [
+      "Solving the minimum cut problem for undirected graphs",
+      "https://research.google/blog/solving-the-minimum-cut-problem-for-undirected-graphs/"
+    ]
+  ],
+  [
+    [
       "2024-04-17, 15:52:42",
       "https://lobste.rs/s/e3lza2/am_phasor_has_no_setting_for_stun"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2024-04-17, 13:23:05",
-      "https://lobste.rs/s/96wkbf/unpacking_blackjack_group_s_fuxnet"
-    ],
-    [
-      "Unpacking the Blackjack Group's Fuxnet Malware",
-      "https://claroty.com/team82/research/unpacking-the-blackjack-groups-fuxnet-malware"
-    ]
-  ],
-  [
-    [
       "2024-04-17, 11:59:15",
       "https://lobste.rs/s/jplrcm/redis_is_forked"
     ],
@@ -67,16 +77,6 @@
     [
       "Participating in the Spring Lisp Game jam, why and how",
       "https://drewsh.com/lisp-game-jam.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-17, 09:42:55",
-      "https://lobste.rs/s/7kwk1v/use_cases_for_merging_splitting"
-    ],
-    [
-      "Use Cases for Merging and Splitting Partitions With Minimal Locking in PostgreSQL 17",
-      "https://andyatkinson.com/blog/2024/04/16/postgresql-17-merge-split-partitions"
     ]
   ],
   [
