@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 21:39:29](https://lobste.rs/s/dm3clo/endless_maze_algorithm_atari_2600) - [The Endless Maze algorithm (Atari 2600)](https://www.gamesthatwerent.com/2024/01/the-endless-maze-algorithm/)
 * [2024-04-17, 21:27:25](https://lobste.rs/s/urm5e0/effort_engine) - [Effort Engine](https://kolinko.github.io/effort/index.html)
 * [2024-04-17, 21:23:08](https://lobste.rs/s/hseqbq/deep_dive_into_rspack_webpack_tree) - [Deep Dive into Rspack & Webpack Tree Shaking · web-infra-dev · Discussion #17](https://github.com/orgs/web-infra-dev/discussions/17)
 * [2024-04-17, 21:16:26](https://lobste.rs/s/f9l1ce/rhttp_repl_for_http) - [rHttp: REPL for HTTP](https://github.com/1buran/rHttp)

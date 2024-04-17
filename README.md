@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-17, 21:39:29](https://lobste.rs/s/dm3clo/endless_maze_algorithm_atari_2600) - [The Endless Maze algorithm (Atari 2600)](https://www.gamesthatwerent.com/2024/01/the-endless-maze-algorithm/)
 * [2024-04-17, 21:27:25](https://lobste.rs/s/urm5e0/effort_engine) - [Effort Engine](https://kolinko.github.io/effort/index.html)
 * [2024-04-17, 21:23:08](https://lobste.rs/s/hseqbq/deep_dive_into_rspack_webpack_tree) - [Deep Dive into Rspack & Webpack Tree Shaking](https://github.com/orgs/web-infra-dev/discussions/17)
 * [2024-04-17, 21:16:26](https://lobste.rs/s/f9l1ce/rhttp_repl_for_http) - [rHttp: REPL for HTTP](https://github.com/1buran/rHttp)
@@ -21,7 +22,6 @@
 * [2024-04-17, 04:38:08](https://lobste.rs/s/xcwla4/hardest_problem_computer_science) - [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/)
 * [2024-04-17, 04:03:58](https://lobste.rs/s/hvdrln/m2dir_treating_mails_as_files_without) - [m2dir: treating mails as files without going crazy](https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html)
 * [2024-04-17, 01:46:14](https://lobste.rs/s/v1tkac/humane_ai_pico_laser_projection_230m_ai) - [Humane AI – Pico Laser Projection – $230M AI Twist on an Old Scam](https://kguttag.com/2023/12/06/humane-ai-pico-laser-projection-230m-ai-twist-on-an-old-scam/)
-* [2024-04-16, 23:13:52](https://lobste.rs/s/vlp3dw/gcloud_lite_lightweight_google_cloud) - [gcloud-lite lightweight Google Cloud Platform CLI distro](https://github.com/tonymet/gcloud-lite)
 * [2024-04-16, 22:25:07](https://lobste.rs/s/lrixcj/legal_rule_computers_are_presumed_be) - [The legal rule that computers are presumed to be operating correctly – unforeseen and unjust consequences (2022)](https://www.benthamsgaze.org/wp-content/uploads/2022/06/briefing-presumption-that-computers-are-reliable.pdf)
 * [2024-04-16, 17:19:40](https://lobste.rs/s/wr64in/gleam_version_v1_1) - [Gleam version v1.1](https://gleam.run/news/gleam-v1.1/)
 * [2024-04-16, 13:10:04](https://lobste.rs/s/hmwleu/some_useful_types_for_database_using_rust) - [Some useful types for database-using Rust web apps](https://boinkor.net/2024/04/some-useful-types-for-database-using-rust-web-apps/)
