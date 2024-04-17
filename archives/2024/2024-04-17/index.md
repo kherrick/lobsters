@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-17](index.md)
 
+* [2024-04-17, 15:00:36](https://lobste.rs/s/zgxvxw/rust_gui_framework_performance) - [Rust GUI framework performance comparison](http://lukaskalbertodt.github.io/2023/02/03/tauri-iced-egui-performance-comparison.html)
 * [2024-04-17, 14:48:37](https://lobste.rs/s/mtmyyv/java_23_new_features_are_officially) - [Java 23: The New Features are Officially Announced](https://coderoasis.com/java-23-new-features/)
 * [2024-04-17, 13:23:05](https://lobste.rs/s/96wkbf/unpacking_blackjack_group_s_fuxnet) - [Unpacking the Blackjack Group's Fuxnet Malware](https://claroty.com/team82/research/unpacking-the-blackjack-groups-fuxnet-malware)
 * [2024-04-17, 11:59:15](https://lobste.rs/s/jplrcm/redis_is_forked) - [Redis is forked](https://newsletter.vickiboykis.com/archive/redis-is-forked/)

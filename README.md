@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-17, 15:00:36](https://lobste.rs/s/zgxvxw/rust_gui_framework_performance) - [Rust GUI framework performance comparison](http://lukaskalbertodt.github.io/2023/02/03/tauri-iced-egui-performance-comparison.html)
 * [2024-04-17, 14:48:37](https://lobste.rs/s/mtmyyv/java_23_new_features_are_officially) - [Java 23: The New Features are Officially Announced](https://coderoasis.com/java-23-new-features/)
 * [2024-04-17, 13:23:05](https://lobste.rs/s/96wkbf/unpacking_blackjack_group_s_fuxnet) - [Unpacking the Blackjack Group's Fuxnet Malware](https://claroty.com/team82/research/unpacking-the-blackjack-groups-fuxnet-malware)
 * [2024-04-17, 11:59:15](https://lobste.rs/s/jplrcm/redis_is_forked) - [Redis is forked](https://newsletter.vickiboykis.com/archive/redis-is-forked/)
@@ -16,7 +17,6 @@
 * [2024-04-17, 02:42:19](https://lobste.rs/s/ircrbb/river_0_3_0_waylock_1_0_0_status_update) - [River 0.3.0, Waylock 1.0.0, Status Update](https://isaacfreund.com/blog/river-0.3-waylock-1.0/)
 * [2024-04-17, 01:46:14](https://lobste.rs/s/v1tkac/humane_ai_pico_laser_projection_230m_ai) - [Humane AI – Pico Laser Projection – $230M AI Twist on an Old Scam](https://kguttag.com/2023/12/06/humane-ai-pico-laser-projection-230m-ai-twist-on-an-old-scam/)
 * [2024-04-16, 23:13:52](https://lobste.rs/s/vlp3dw/gcloud_lite_lightweight_google_cloud) - [gcloud-lite lightweight Google Cloud Platform CLI distro](https://github.com/tonymet/gcloud-lite)
-* [2024-04-16, 22:45:23](https://lobste.rs/s/uxwae2/cute_trick_for_fetch_add_based_queues) - [Cute trick for fetch-and-add-based queues](https://outerproduct.net/trivial/2024-04-16_faaqtr.html)
 * [2024-04-16, 22:25:07](https://lobste.rs/s/lrixcj/legal_rule_computers_are_presumed_be) - [The legal rule that computers are presumed to be operating correctly – unforeseen and unjust consequences (2022)](https://www.benthamsgaze.org/wp-content/uploads/2022/06/briefing-presumption-that-computers-are-reliable.pdf)
 * [2024-04-16, 18:00:22](https://lobste.rs/s/ixaerf/colima_k8s_nix_setup) - [Colima k8s nix setup](https://dev.to/doriancodes/colima-k8s-nix-setup-mpn)
 * [2024-04-16, 17:19:40](https://lobste.rs/s/wr64in/gleam_version_v1_1) - [Gleam version v1.1](https://gleam.run/news/gleam-v1.1/)
