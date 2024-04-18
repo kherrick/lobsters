@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
+* [2024-04-18, 22:41:16](https://lobste.rs/s/75i3qy/ubuntu_24_04_yields_20_advantage_over) - [Ubuntu 24.04 yields a 20% advantage over Windows 11 on Ryzen7 Framework laptop](https://www.phoronix.com/review/framework-16-windows-linux)
 * [2024-04-18, 22:29:29](https://lobste.rs/s/skfqru/hydradancer_faster_usb_emulation_for) - [Hydradancer: Faster USB Emulation for Facedancer](https://blog.quarkslab.com/hydradancer-faster-usb-emulation-for-facedancer.html)
 * [2024-04-18, 22:14:15](https://lobste.rs/s/6yvasf/xz_lzma_worked_example) - [XZ/LZMA Worked Example](https://nigeltao.github.io/blog/2024/xz-lzma-part-1-range-coding.html)
 * [2024-04-18, 21:48:57](https://lobste.rs/s/hsrjat/formal_mechanised_semantics_cheri_c) - [Formal Mechanised Semantics of CHERI C: Capabilities, Undefined Behaviour, and Provenance](https://dl.acm.org/doi/10.1145/3617232.3624859?ai=&ui=&af=)
