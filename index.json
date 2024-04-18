@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-18, 03:28:10",
+      "https://lobste.rs/s/b6ycfr/rust_calling_convention_we_deserve"
+    ],
+    [
+      "The Rust Calling Convention We Deserve",
+      "https://mcyoung.xyz/2024/04/17/calling-convention/"
+    ]
+  ],
+  [
+    [
       "2024-04-17, 22:34:46",
       "https://lobste.rs/s/dx4meb/deep_dive_into_single_pair_ethernet"
     ],
@@ -237,16 +247,6 @@
     [
       "Gleam version v1.1",
       "https://gleam.run/news/gleam-v1.1/"
-    ]
-  ],
-  [
-    [
-      "2024-04-16, 13:10:04",
-      "https://lobste.rs/s/hmwleu/some_useful_types_for_database_using_rust"
-    ],
-    [
-      "Some useful types for database-using Rust web apps",
-      "https://boinkor.net/2024/04/some-useful-types-for-database-using-rust-web-apps/"
     ]
   ]
 ]
