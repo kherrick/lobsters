@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-18, 22:29:29](https://lobste.rs/s/skfqru/hydradancer_faster_usb_emulation_for) - [Hydradancer: Faster USB Emulation for Facedancer](https://blog.quarkslab.com/hydradancer-faster-usb-emulation-for-facedancer.html)
 * [2024-04-18, 22:14:15](https://lobste.rs/s/6yvasf/xz_lzma_worked_example) - [XZ/LZMA Worked Example](https://nigeltao.github.io/blog/2024/xz-lzma-part-1-range-coding.html)
-* [2024-04-18, 21:48:57](https://lobste.rs/s/hsrjat/formal_mechanised_semantics_cheri_c) - [Formal Mechanised Semantics of CHERI C: Capabilities, Undefined Behaviour, and Provenance](https://dl.acm.org/doi/10.1145/3617232.3624859?ai=&ui=&af=)
 * [2024-04-18, 20:29:59](https://lobste.rs/s/jfxi1y/ruff_v0_4_0_hand_written_recursive_descent) - [Ruff v0.4.0: a hand-written recursive descent parser for Python](https://astral.sh/blog/ruff-v0.4.0)
 * [2024-04-18, 18:54:21](https://lobste.rs/s/bagbm2/meta_llama_3) - [Meta Llama 3](https://llama.meta.com/llama3/)
 * [2024-04-18, 18:18:08](https://lobste.rs/s/fex5ji/we_need_talk_about_state_calendar) - [We Need to Talk About the State of Calendar Software on Desktop](https://nadim.computer/posts/2024-04-18-calendar.html)
