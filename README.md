@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-18, 17:07:34](https://lobste.rs/s/pdnen8/zest_syntax) - [Zest: syntax](https://www.scattered-thoughts.net/writing/zest-syntax/)
+* [2024-04-18, 17:04:59](https://lobste.rs/s/rweorr/sqlite_on_rails_how_why_optimal) - [SQLite on Rails: The how and why of optimal performance](https://fractaledmind.github.io/2024/04/15/sqlite-on-rails-the-how-and-why-of-optimal-performance/)
 * [2024-04-18, 16:09:00](https://lobste.rs/s/x23gru/history_novell) - [The History of Novell](https://www.abortretry.fail/p/the-history-of-novell)
 * [2024-04-18, 13:08:24](https://lobste.rs/s/xoe75h/sel4_on_aarch64_is_now_verified_for) - [seL4 on AArch64 is now verified for functional correctness](https://proofcraft.systems/news-2024/#2024-04-01)
 * [2024-04-18, 12:55:34](https://lobste.rs/s/siowrn/natural_language_processing_bash) - [Natural Language Processing in Bash](https://massimo-nazaria.github.io/nlp.html)
@@ -22,9 +24,7 @@
 * [2024-04-17, 11:59:15](https://lobste.rs/s/jplrcm/redis_is_forked) - [Redis is forked](https://newsletter.vickiboykis.com/archive/redis-is-forked/)
 * [2024-04-17, 10:43:04](https://lobste.rs/s/qomtd5/participating_spring_lisp_game_jam_why) - [Participating in the Spring Lisp Game jam, why and how](https://drewsh.com/lisp-game-jam.html)
 * [2024-04-17, 06:54:47](https://lobste.rs/s/xdveqe/we_need_rewild_internet) - [We Need To Rewild The Internet](https://www.noemamag.com/we-need-to-rewild-the-internet/)
-* [2024-04-17, 06:46:29](https://lobste.rs/s/wnhy86/getting_tai_time_on_debian_machine) - [Getting TAI time on a Debian machine](https://www.bortzmeyer.org/tai-on-debian.html)
 * [2024-04-17, 04:38:08](https://lobste.rs/s/xcwla4/hardest_problem_computer_science) - [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/)
-* [2024-04-17, 04:03:58](https://lobste.rs/s/hvdrln/m2dir_treating_mails_as_files_without) - [m2dir: treating mails as files without going crazy](https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html)
 
 ## [Archives](archives/index.md)
 
