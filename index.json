@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-04-18, 05:42:38",
-      "https://lobste.rs/s/o5ywrv/make_your_own_backdoor_cflags_code"
-    ],
-    [
-      "Make your own backdoor: CFLAGS code injection, Makefile injection, pkg-config",
-      "https://www.openwall.com/lists/oss-security/2024/04/17/3"
-    ]
-  ],
-  [
-    [
       "2024-04-18, 04:14:17",
       "https://lobste.rs/s/j7ujlg/formal_methods_just_good_engineering"
     ],
@@ -137,6 +127,16 @@
     [
       "Palo Alto Networks zero-day exploited since March to backdoor firewalls",
       "https://www.bleepingcomputer.com/news/security/palo-alto-networks-zero-day-exploited-since-march-to-backdoor-firewalls/"
+    ]
+  ],
+  [
+    [
+      "2024-04-17, 16:26:14",
+      "https://lobste.rs/s/ebiwb4/pypi_expanding_trusted_publisher"
+    ],
+    [
+      "PyPI: Expanding Trusted Publisher Support",
+      "https://blog.pypi.org/posts/2024-04-17-expanding-trusted-publisher-support/"
     ]
   ],
   [
