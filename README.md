@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-18, 04:14:17](https://lobste.rs/s/j7ujlg/formal_methods_just_good_engineering) - [Formal Methods: Just Good Engineering Practice?](http://brooker.co.za/blog/2024/04/17/formal.html)
 * [2024-04-18, 03:28:10](https://lobste.rs/s/b6ycfr/rust_calling_convention_we_deserve) - [The Rust Calling Convention We Deserve](https://mcyoung.xyz/2024/04/17/calling-convention/)
 * [2024-04-17, 22:34:46](https://lobste.rs/s/dx4meb/deep_dive_into_single_pair_ethernet) - [A deep dive into Single Pair Ethernet](https://electricui.com/blog/spe-sensor-node)
 * [2024-04-17, 22:05:47](https://lobste.rs/s/eo1bde/systems_distributed_24) - [Systems Distributed '24](https://systemsdistributed.com)
@@ -18,7 +19,6 @@
 * [2024-04-17, 08:22:07](https://lobste.rs/s/hxfpfv/quick_post_on_chen_s_algorithm) - [A quick post on Chen's algorithm](https://blog.cryptographyengineering.com/2024/04/16/a-quick-post-on-chens-algorithm/)
 * [2024-04-17, 06:54:47](https://lobste.rs/s/xdveqe/we_need_rewild_internet) - [We Need To Rewild The Internet](https://www.noemamag.com/we-need-to-rewild-the-internet/)
 * [2024-04-17, 06:46:29](https://lobste.rs/s/wnhy86/getting_tai_time_on_debian_machine) - [Getting TAI time on a Debian machine](https://www.bortzmeyer.org/tai-on-debian.html)
-* [2024-04-17, 05:33:08](https://lobste.rs/s/rlmjdl/bliss_programming_language_history_2002) - [The BLISS programming language: a history (2002)](https://www.cs.tufts.edu/~nr/cs257/archive/ronald-brender/bliss.pdf)
 * [2024-04-17, 05:09:40](https://lobste.rs/s/idpvvq/ten_years_improvements_postgresql_s) - [Ten years of improvements in PostgreSQL's optimizer](https://rmarcus.info/blog/2024/04/12/pg-over-time.html)
 * [2024-04-17, 04:38:08](https://lobste.rs/s/xcwla4/hardest_problem_computer_science) - [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/)
 * [2024-04-17, 04:03:58](https://lobste.rs/s/hvdrln/m2dir_treating_mails_as_files_without) - [m2dir: treating mails as files without going crazy](https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html)
