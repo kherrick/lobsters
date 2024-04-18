@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-18, 15:43:34](https://lobste.rs/s/z1xuvw/numfocus_concerns) - [NumFOCUS concerns](http://pirsquared.org/blog/numfocus-concerns.html#paths-forward-and-alternatives-to-numfocus)
 * [2024-04-18, 13:08:24](https://lobste.rs/s/xoe75h/sel4_on_aarch64_is_now_verified_for) - [seL4 on AArch64 is now verified for functional correctness](https://proofcraft.systems/news-2024/#2024-04-01)
 * [2024-04-18, 12:55:34](https://lobste.rs/s/siowrn/natural_language_processing_bash) - [Natural Language Processing in Bash](https://massimo-nazaria.github.io/nlp.html)
 * [2024-04-18, 12:40:04](https://lobste.rs/s/800ynf/memory_management_mpmetrics) - [Memory management in mpmetrics](https://blog.trends.tf/memory-management-in-mpmetrics.html)
@@ -24,7 +25,6 @@
 * [2024-04-17, 06:46:29](https://lobste.rs/s/wnhy86/getting_tai_time_on_debian_machine) - [Getting TAI time on a Debian machine](https://www.bortzmeyer.org/tai-on-debian.html)
 * [2024-04-17, 04:38:08](https://lobste.rs/s/xcwla4/hardest_problem_computer_science) - [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/)
 * [2024-04-17, 04:03:58](https://lobste.rs/s/hvdrln/m2dir_treating_mails_as_files_without) - [m2dir: treating mails as files without going crazy](https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html)
-* [2024-04-17, 01:46:14](https://lobste.rs/s/v1tkac/humane_ai_pico_laser_projection_230m_ai) - [Humane AI – Pico Laser Projection – $230M AI Twist on an Old Scam](https://kguttag.com/2023/12/06/humane-ai-pico-laser-projection-230m-ai-twist-on-an-old-scam/)
 
 ## [Archives](archives/index.md)
 
