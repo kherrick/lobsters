@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
+* [2024-04-18, 16:09:00](https://lobste.rs/s/x23gru/history_novell) - [The History of Novell](https://www.abortretry.fail/p/the-history-of-novell)
 * [2024-04-18, 15:43:34](https://lobste.rs/s/z1xuvw/numfocus_concerns) - [NumFOCUS concerns](http://pirsquared.org/blog/numfocus-concerns.html#paths-forward-and-alternatives-to-numfocus)
 * [2024-04-18, 13:08:24](https://lobste.rs/s/xoe75h/sel4_on_aarch64_is_now_verified_for) - [seL4 on AArch64 is now verified for functional correctness](https://proofcraft.systems/news-2024/#2024-04-01)
 * [2024-04-18, 12:55:34](https://lobste.rs/s/siowrn/natural_language_processing_bash) - [Natural Language Processing in Bash](https://massimo-nazaria.github.io/nlp.html)
