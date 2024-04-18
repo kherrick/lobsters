@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
+* [2024-04-18, 12:40:04](https://lobste.rs/s/800ynf/memory_management_mpmetrics) - [Memory management in mpmetrics](https://blog.trends.tf/memory-management-in-mpmetrics.html)
 * [2024-04-18, 07:56:21](https://lobste.rs/s/nd4iwa/lions_os_secure_fast_adaptable) - [Lions OS: secure – fast – adaptable](https://trustworthy.systems/publications/papers/Heiser_24:eo.abstract)
 * [2024-04-18, 07:50:35](https://lobste.rs/s/nynomm/freebsd_for_devs_01) - [FreeBSD for Devs #01](https://dev.to/scovl/freebsd-for-devs-3n0k)
 * [2024-04-18, 06:02:39](https://lobste.rs/s/ht5upz/wayland_where_are_we_2024_any_good_for) - [Wayland, where are we in 2024? Any good for being the default?](https://www.dedoimedo.com/computers/wayland-2024.html)
