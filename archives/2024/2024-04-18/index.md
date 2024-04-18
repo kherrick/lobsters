@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
+* [2024-04-18, 18:18:08](https://lobste.rs/s/fex5ji/we_need_talk_about_state_calendar) - [We Need to Talk About the State of Calendar Software on Desktop](https://nadim.computer/posts/2024-04-18-calendar.html)
+* [2024-04-18, 18:13:18](https://lobste.rs/s/kxem0b/cve_2024_20356_jailbreaking_cisco) - [CVE-2024-20356: Jailbreaking a Cisco appliance to run DOOM](https://labs.nettitude.com/blog/cve-2024-20356-jailbreaking-a-cisco-appliance-to-run-doom/)
+* [2024-04-18, 18:02:31](https://lobste.rs/s/gezuwh/gazelle_v0_2) - [Gazelle v0.2](https://demo.tincans.ai/)
 * [2024-04-18, 17:52:24](https://lobste.rs/s/ct3elb/pcie_6_0_overview) - [PCIe 6.0 overview](https://pcisig.com/blog/evolution-pci-express-specification-its-sixth-generation-third-decade-and-still-going-strong)
 * [2024-04-18, 17:49:37](https://lobste.rs/s/5t6clg/why_you_need_wtf_notebook) - [Why you need a \"WTF Notebook\"](https://www.simplermachines.com/why-you-need-a-wtf-notebook/)
 * [2024-04-18, 17:07:34](https://lobste.rs/s/pdnen8/zest_syntax) - [Zest: syntax](https://www.scattered-thoughts.net/writing/zest-syntax/)
