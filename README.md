@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-18, 17:49:37](https://lobste.rs/s/5t6clg/why_you_need_wtf_notebook) - [Why you need a \"WTF Notebook\"](https://www.simplermachines.com/why-you-need-a-wtf-notebook/)
 * [2024-04-18, 17:07:34](https://lobste.rs/s/pdnen8/zest_syntax) - [Zest: syntax](https://www.scattered-thoughts.net/writing/zest-syntax/)
 * [2024-04-18, 17:04:59](https://lobste.rs/s/rweorr/sqlite_on_rails_how_why_optimal) - [SQLite on Rails: The how and why of optimal performance](https://fractaledmind.github.io/2024/04/15/sqlite-on-rails-the-how-and-why-of-optimal-performance/)
 * [2024-04-18, 16:09:00](https://lobste.rs/s/x23gru/history_novell) - [The History of Novell](https://www.abortretry.fail/p/the-history-of-novell)
@@ -17,7 +18,6 @@
 * [2024-04-17, 22:04:43](https://lobste.rs/s/bhignf/libnix_mingw_status) - [libnix mingw status](https://lastlog.de/blog/libnix_mingw_status.html)
 * [2024-04-17, 22:01:55](https://lobste.rs/s/7hpykf/full_text_search_openbsd_manual_pages) - [Full-text search of the OpenBSD manual pages](https://man.ifconfig.se)
 * [2024-04-17, 21:39:29](https://lobste.rs/s/dm3clo/endless_maze_algorithm_atari_2600) - [The Endless Maze algorithm (Atari 2600)](https://www.gamesthatwerent.com/2024/01/the-endless-maze-algorithm/)
-* [2024-04-17, 19:28:15](https://lobste.rs/s/mnvfoc/types_estimates) - [Types of estimates](https://dan.turnerhallow.co.uk/types-of-estimates.html)
 * [2024-04-17, 17:45:30](https://lobste.rs/s/4jpfyy/prism_2024_history_ruby_parsers) - [Prism in 2024 - A history of Ruby parsers](https://railsatscale.com/2024-04-16-prism-in-2024/)
 * [2024-04-17, 17:09:37](https://lobste.rs/s/8ahwpg/palo_alto_networks_zero_day_exploited) - [Palo Alto Networks zero-day exploited since March to backdoor firewalls](https://www.bleepingcomputer.com/news/security/palo-alto-networks-zero-day-exploited-since-march-to-backdoor-firewalls/)
 * [2024-04-17, 15:52:42](https://lobste.rs/s/e3lza2/am_phasor_has_no_setting_for_stun) - [AM phasor has no setting for 'stun'](https://www.jeffgeerling.com/blog/2024/am-phasor-has-no-setting-stun)
