@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-18, 20:29:59",
+      "https://lobste.rs/s/jfxi1y/ruff_v0_4_0_hand_written_recursive_descent"
+    ],
+    [
+      "Ruff v0.4.0: a hand-written recursive descent parser for Python",
+      "https://astral.sh/blog/ruff-v0.4.0"
+    ]
+  ],
+  [
+    [
       "2024-04-18, 18:54:21",
       "https://lobste.rs/s/bagbm2/meta_llama_3"
     ],
@@ -27,16 +37,6 @@
     [
       "CVE-2024-20356: Jailbreaking a Cisco appliance to run DOOM",
       "https://labs.nettitude.com/blog/cve-2024-20356-jailbreaking-a-cisco-appliance-to-run-doom/"
-    ]
-  ],
-  [
-    [
-      "2024-04-18, 18:02:31",
-      "https://lobste.rs/s/gezuwh/gazelle_v0_2"
-    ],
-    [
-      "Gazelle v0.2",
-      "https://demo.tincans.ai/"
     ]
   ],
   [
