@@ -5,6 +5,7 @@
 * [2024-04-18, 12:40:04](https://lobste.rs/s/800ynf/memory_management_mpmetrics) - [Memory management in mpmetrics](https://blog.trends.tf/memory-management-in-mpmetrics.html)
 * [2024-04-18, 07:56:21](https://lobste.rs/s/nd4iwa/lions_os_secure_fast_adaptable) - [Lions OS: secure – fast – adaptable](https://trustworthy.systems/publications/papers/Heiser_24:eo.abstract)
 * [2024-04-18, 06:02:39](https://lobste.rs/s/ht5upz/wayland_where_are_we_2024_any_good_for) - [Wayland, where are we in 2024? Any good for being the default?](https://www.dedoimedo.com/computers/wayland-2024.html)
+* [2024-04-18, 06:00:29](https://lobste.rs/s/q47tiw/iacr_preprint) - [That IACR preprint](https://scottaaronson.blog/?p=7946)
 * [2024-04-18, 05:42:38](https://lobste.rs/s/o5ywrv/make_your_own_backdoor_cflags_code) - [Make your own backdoor: CFLAGS code injection, Makefile injection, pkg-config](https://www.openwall.com/lists/oss-security/2024/04/17/3)
 * [2024-04-18, 04:14:17](https://lobste.rs/s/j7ujlg/formal_methods_just_good_engineering) - [Formal Methods: Just Good Engineering Practice?](http://brooker.co.za/blog/2024/04/17/formal.html)
 * [2024-04-18, 03:28:10](https://lobste.rs/s/b6ycfr/rust_calling_convention_we_deserve) - [The Rust Calling Convention We Deserve](https://mcyoung.xyz/2024/04/17/calling-convention/)
@@ -24,7 +25,6 @@
 * [2024-04-17, 04:38:08](https://lobste.rs/s/xcwla4/hardest_problem_computer_science) - [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/)
 * [2024-04-17, 04:03:58](https://lobste.rs/s/hvdrln/m2dir_treating_mails_as_files_without) - [m2dir: treating mails as files without going crazy](https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html)
 * [2024-04-17, 01:46:14](https://lobste.rs/s/v1tkac/humane_ai_pico_laser_projection_230m_ai) - [Humane AI – Pico Laser Projection – $230M AI Twist on an Old Scam](https://kguttag.com/2023/12/06/humane-ai-pico-laser-projection-230m-ai-twist-on-an-old-scam/)
-* [2024-04-16, 17:19:40](https://lobste.rs/s/wr64in/gleam_version_v1_1) - [Gleam version v1.1](https://gleam.run/news/gleam-v1.1/)
 
 ## [Archives](archives/index.md)
 
