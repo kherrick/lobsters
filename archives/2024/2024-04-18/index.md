@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
+* [2024-04-18, 13:08:24](https://lobste.rs/s/xoe75h/sel4_on_aarch64_is_now_verified_for) - [seL4 on AArch64 is now verified for functional correctness](https://proofcraft.systems/news-2024/#2024-04-01)
+* [2024-04-18, 12:55:34](https://lobste.rs/s/siowrn/natural_language_processing_bash) - [Natural Language Processing in Bash](https://massimo-nazaria.github.io/nlp.html)
 * [2024-04-18, 12:40:04](https://lobste.rs/s/800ynf/memory_management_mpmetrics) - [Memory management in mpmetrics](https://blog.trends.tf/memory-management-in-mpmetrics.html)
 * [2024-04-18, 07:56:21](https://lobste.rs/s/nd4iwa/lions_os_secure_fast_adaptable) - [Lions OS: secure – fast – adaptable](https://trustworthy.systems/publications/papers/Heiser_24:eo.abstract)
 * [2024-04-18, 07:50:35](https://lobste.rs/s/nynomm/freebsd_for_devs_01) - [FreeBSD for Devs #01](https://dev.to/scovl/freebsd-for-devs-3n0k)
