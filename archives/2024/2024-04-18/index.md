@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
+* [2024-04-18, 21:48:57](https://lobste.rs/s/hsrjat/formal_mechanised_semantics_cheri_c) - [Formal Mechanised Semantics of CHERI C: Capabilities, Undefined Behaviour, and Provenance](https://dl.acm.org/doi/10.1145/3617232.3624859?ai=&ui=&af=)
 * [2024-04-18, 20:32:08](https://lobste.rs/s/jt0ca7/cronometro_simple_benchmarking_suite) - [cronometro: Simple benchmarking suite powered by HDR histograms](https://github.com/ShogunPanda/cronometro)
 * [2024-04-18, 20:29:59](https://lobste.rs/s/jfxi1y/ruff_v0_4_0_hand_written_recursive_descent) - [Ruff v0.4.0: a hand-written recursive descent parser for Python](https://astral.sh/blog/ruff-v0.4.0)
 * [2024-04-18, 18:54:21](https://lobste.rs/s/bagbm2/meta_llama_3) - [Meta Llama 3](https://llama.meta.com/llama3/)
