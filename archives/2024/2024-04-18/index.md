@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-18](index.md)
 
+* [2024-04-18, 20:29:59](https://lobste.rs/s/jfxi1y/ruff_v0_4_0_hand_written_recursive_descent) - [Ruff v0.4.0: a hand-written recursive descent parser for Python](https://astral.sh/blog/ruff-v0.4.0)
 * [2024-04-18, 18:54:21](https://lobste.rs/s/bagbm2/meta_llama_3) - [Meta Llama 3](https://llama.meta.com/llama3/)
 * [2024-04-18, 18:18:08](https://lobste.rs/s/fex5ji/we_need_talk_about_state_calendar) - [We Need to Talk About the State of Calendar Software on Desktop](https://nadim.computer/posts/2024-04-18-calendar.html)
 * [2024-04-18, 18:13:18](https://lobste.rs/s/kxem0b/cve_2024_20356_jailbreaking_cisco) - [CVE-2024-20356: Jailbreaking a Cisco appliance to run DOOM](https://labs.nettitude.com/blog/cve-2024-20356-jailbreaking-a-cisco-appliance-to-run-doom/)
