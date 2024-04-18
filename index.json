@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2024-04-18, 06:00:29",
-      "https://lobste.rs/s/q47tiw/iacr_preprint"
+      "2024-04-18, 05:42:38",
+      "https://lobste.rs/s/o5ywrv/make_your_own_backdoor_cflags_code"
     ],
     [
-      "That IACR preprint",
-      "https://scottaaronson.blog/?p=7946"
+      "Make your own backdoor: CFLAGS code injection, Makefile injection, pkg-config",
+      "https://www.openwall.com/lists/oss-security/2024/04/17/3"
     ]
   ],
   [
