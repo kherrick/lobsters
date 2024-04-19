@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-19, 01:04:55](https://lobste.rs/s/vwnjfy/randar_explanation_information) - [Randar Explanation and Information](https://github.com/spawnmason/randar-explanation/blob/master/README.md)
 * [2024-04-18, 22:41:16](https://lobste.rs/s/75i3qy/ubuntu_24_04_yields_20_advantage_over) - [Ubuntu 24.04 yields a 20% advantage over Windows 11 on Ryzen7 Framework laptop](https://www.phoronix.com/review/framework-16-windows-linux)
 * [2024-04-18, 22:29:29](https://lobste.rs/s/skfqru/hydradancer_faster_usb_emulation_for) - [Hydradancer: Faster USB Emulation for Facedancer](https://blog.quarkslab.com/hydradancer-faster-usb-emulation-for-facedancer.html)
 * [2024-04-18, 22:14:15](https://lobste.rs/s/6yvasf/xz_lzma_worked_example) - [XZ/LZMA Worked Example](https://nigeltao.github.io/blog/2024/xz-lzma-part-1-range-coding.html)
@@ -20,7 +21,6 @@
 * [2024-04-18, 05:42:38](https://lobste.rs/s/o5ywrv/make_your_own_backdoor_cflags_code) - [Make your own backdoor: CFLAGS code injection, Makefile injection, pkg-config](https://www.openwall.com/lists/oss-security/2024/04/17/3)
 * [2024-04-18, 04:14:17](https://lobste.rs/s/j7ujlg/formal_methods_just_good_engineering) - [Formal Methods: Just Good Engineering Practice?](http://brooker.co.za/blog/2024/04/17/formal.html)
 * [2024-04-18, 03:28:10](https://lobste.rs/s/b6ycfr/rust_calling_convention_we_deserve) - [The Rust Calling Convention We Deserve](https://mcyoung.xyz/2024/04/17/calling-convention/)
-* [2024-04-17, 22:34:46](https://lobste.rs/s/dx4meb/deep_dive_into_single_pair_ethernet) - [A deep dive into Single Pair Ethernet](https://electricui.com/blog/spe-sensor-node)
 * [2024-04-17, 22:05:47](https://lobste.rs/s/eo1bde/systems_distributed_24) - [Systems Distributed '24](https://systemsdistributed.com)
 * [2024-04-17, 22:01:55](https://lobste.rs/s/7hpykf/full_text_search_openbsd_manual_pages) - [Full-text search of the OpenBSD manual pages](https://man.ifconfig.se)
 * [2024-04-17, 11:59:15](https://lobste.rs/s/jplrcm/redis_is_forked) - [Redis is forked](https://newsletter.vickiboykis.com/archive/redis-is-forked/)
