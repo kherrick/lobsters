@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-19, 10:09:37](https://lobste.rs/s/s5fupi/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/s5fupi/what_are_you_doing_this_weekend)
+* [2024-04-19, 10:07:38](https://lobste.rs/s/beshcv/raw_flux_streams_obscure_formats_further) - [Raw flux streams and obscure formats: Further work around imaging 5.25-inch floppy disks](https://digitalpreservation-blog.lib.cam.ac.uk/raw-flux-streams-and-obscure-formats-further-work-around-imaging-5-25-inch-floppy-disks-5a2cf2e5f0d1)
 * [2024-04-19, 01:04:55](https://lobste.rs/s/vwnjfy/randar_explanation_information) - [Randar Explanation and Information](https://github.com/spawnmason/randar-explanation/blob/master/README.md)
 * [2024-04-18, 22:41:16](https://lobste.rs/s/75i3qy/ubuntu_24_04_yields_20_advantage_over) - [Ubuntu 24.04 yields a 20% advantage over Windows 11 on Ryzen7 Framework laptop](https://www.phoronix.com/review/framework-16-windows-linux)
 * [2024-04-18, 22:29:29](https://lobste.rs/s/skfqru/hydradancer_faster_usb_emulation_for) - [Hydradancer: Faster USB Emulation for Facedancer](https://blog.quarkslab.com/hydradancer-faster-usb-emulation-for-facedancer.html)
@@ -23,8 +25,6 @@
 * [2024-04-18, 03:28:10](https://lobste.rs/s/b6ycfr/rust_calling_convention_we_deserve) - [The Rust Calling Convention We Deserve](https://mcyoung.xyz/2024/04/17/calling-convention/)
 * [2024-04-17, 22:05:47](https://lobste.rs/s/eo1bde/systems_distributed_24) - [Systems Distributed '24](https://systemsdistributed.com)
 * [2024-04-17, 22:01:55](https://lobste.rs/s/7hpykf/full_text_search_openbsd_manual_pages) - [Full-text search of the OpenBSD manual pages](https://man.ifconfig.se)
-* [2024-04-17, 11:59:15](https://lobste.rs/s/jplrcm/redis_is_forked) - [Redis is forked](https://newsletter.vickiboykis.com/archive/redis-is-forked/)
-* [2024-04-17, 04:38:08](https://lobste.rs/s/xcwla4/hardest_problem_computer_science) - [Hardest Problem in Computer Science: Centering Things](https://tonsky.me/blog/centering/)
 
 ## [Archives](archives/index.md)
 
