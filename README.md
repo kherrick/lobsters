@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-19, 15:51:52](https://lobste.rs/s/4csakp/logpipe_automatic_syntax_highlighting) - [Logpipe: automatic syntax highlighting for development logs](https://github.com/EmNudge/logpipe)
 * [2024-04-19, 15:14:38](https://lobste.rs/s/04su6m/ai_isn_t_useless_is_it_worth_it) - [AI isn't useless. But is it worth it?](https://www.citationneeded.news/ai-isnt-useless/)
 * [2024-04-19, 14:24:24](https://lobste.rs/s/en5lqf/llvm_is_smarter_than_me) - [LLVM is Smarter Than Me](https://blog.sulami.xyz/posts/llvm-is-smarter-than-me/)
 * [2024-04-19, 14:09:13](https://lobste.rs/s/sncrqv/rust_tokio_task_cancellation_patterns) - [Rust tokio task cancellation patterns](https://cybernetist.com/2024/04/19/rust-tokio-task-cancellation-patterns/)
@@ -19,7 +20,6 @@
 * [2024-04-18, 17:49:37](https://lobste.rs/s/5t6clg/why_you_need_wtf_notebook) - [Why you need a \"WTF Notebook\"](https://www.simplermachines.com/why-you-need-a-wtf-notebook/)
 * [2024-04-18, 17:07:34](https://lobste.rs/s/pdnen8/zest_syntax) - [Zest: syntax](https://www.scattered-thoughts.net/writing/zest-syntax/)
 * [2024-04-18, 17:04:59](https://lobste.rs/s/rweorr/sqlite_on_rails_how_why_optimal) - [SQLite on Rails: The how and why of optimal performance](https://fractaledmind.github.io/2024/04/15/sqlite-on-rails-the-how-and-why-of-optimal-performance/)
-* [2024-04-18, 16:09:00](https://lobste.rs/s/x23gru/history_novell) - [The History of Novell](https://www.abortretry.fail/p/the-history-of-novell)
 * [2024-04-18, 13:08:24](https://lobste.rs/s/xoe75h/sel4_on_aarch64_is_now_verified_for) - [seL4 on AArch64 is now verified for functional correctness](https://proofcraft.systems/news-2024/#2024-04-01)
 * [2024-04-18, 07:56:21](https://lobste.rs/s/nd4iwa/lions_os_secure_fast_adaptable) - [Lions OS: secure – fast – adaptable](https://trustworthy.systems/publications/papers/Heiser_24:eo.abstract)
 * [2024-04-18, 06:02:39](https://lobste.rs/s/ht5upz/wayland_where_are_we_2024_any_good_for) - [Wayland, where are we in 2024? Any good for being the default?](https://www.dedoimedo.com/computers/wayland-2024.html)
