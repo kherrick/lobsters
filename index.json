@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-04-19, 17:07:54",
+      "https://lobste.rs/s/9nkush/freebsd_using_dtrace_track_down_started"
+    ],
+    [
+      "FreeBSD: Using DTrace to Track Down Started Processes and Used Files",
+      "https://www.youtube.com/watch?v=cz6zVXw-NcE"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 17:07:39",
+      "https://lobste.rs/s/oanm6a/what_is_freebsd_missing"
+    ],
+    [
+      "What is FreeBSD Missing?",
+      "https://www.youtube.com/watch?v=ISJrVuajlAw"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 17:02:45",
+      "https://lobste.rs/s/5g4sbc/tla_web_explorer"
+    ],
+    [
+      "TLA+ Web Explorer",
+      "https://will62794.github.io/tla-web"
+    ]
+  ],
+  [
+    [
       "2024-04-19, 16:08:54",
       "https://lobste.rs/s/lzpgka/eurisko_lives"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2024-04-18, 22:29:29",
-      "https://lobste.rs/s/skfqru/hydradancer_faster_usb_emulation_for"
-    ],
-    [
-      "Hydradancer: Faster USB Emulation for Facedancer",
-      "https://blog.quarkslab.com/hydradancer-faster-usb-emulation-for-facedancer.html"
-    ]
-  ],
-  [
-    [
       "2024-04-18, 22:14:15",
       "https://lobste.rs/s/6yvasf/xz_lzma_worked_example"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-04-18, 17:52:24",
-      "https://lobste.rs/s/ct3elb/pcie_6_0_overview"
-    ],
-    [
-      "PCIe 6.0 overview",
-      "https://pcisig.com/blog/evolution-pci-express-specification-its-sixth-generation-third-decade-and-still-going-strong"
-    ]
-  ],
-  [
-    [
       "2024-04-18, 17:49:37",
       "https://lobste.rs/s/5t6clg/why_you_need_wtf_notebook"
     ],
@@ -217,16 +227,6 @@
     [
       "seL4 on AArch64 is now verified for functional correctness",
       "https://proofcraft.systems/news-2024/#2024-04-01"
-    ]
-  ],
-  [
-    [
-      "2024-04-18, 07:56:21",
-      "https://lobste.rs/s/nd4iwa/lions_os_secure_fast_adaptable"
-    ],
-    [
-      "Lions OS: secure – fast – adaptable",
-      "https://trustworthy.systems/publications/papers/Heiser_24:eo.abstract"
     ]
   ],
   [
