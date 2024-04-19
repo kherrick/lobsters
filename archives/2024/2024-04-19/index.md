@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
+* [2024-04-19, 22:44:38](https://lobste.rs/s/rrchqh/truenas_core_versus_truenas_scale) - [TrueNAS CORE versus TrueNAS SCALE](https://vermaden.wordpress.com/2024/04/20/truenas-core-versus-truenas-scale/)
 * [2024-04-19, 22:32:35](https://lobste.rs/s/lk3yj9/fast_flexible_observability_with) - [Fast and flexible observability with canonical log lines (2019)](https://stripe.com/blog/canonical-log-lines)
 * [2024-04-19, 20:49:44](https://lobste.rs/s/jf5l87/problem_with_threads_2006) - [The Problem with Threads (2006)](https://digitalassets.lib.berkeley.edu/techreports/ucb/text/EECS-2006-1.pdf)
 * [2024-04-19, 20:41:25](https://lobste.rs/s/e6g8o3/design_patterns_for_extracting_from_rest) - [Design patterns for extracting from REST APIs](https://blog.sequin.io/design-patterns-for-extracting-from-rest-apis/)
