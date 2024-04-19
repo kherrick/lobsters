@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-04-19, 20:14:04",
-      "https://lobste.rs/s/vtafb4/gwp_asan_sampling_based_detection_memory"
+      "2024-04-19, 20:41:25",
+      "https://lobste.rs/s/e6g8o3/design_patterns_for_extracting_from_rest"
     ],
     [
-      "GWP-ASan: Sampling-Based Detection of Memory-Safety Bugs in Production",
-      "https://arxiv.org/abs/2311.09394v2"
+      "Design patterns for extracting from REST APIs",
+      "https://blog.sequin.io/design-patterns-for-extracting-from-rest-apis/"
+    ]
+  ],
+  [
+    [
+      "2024-04-19, 20:35:17",
+      "https://lobste.rs/s/vm5nb2/porting_8_bit_sonic_2_ti_84_ce"
+    ],
+    [
+      "Porting 8-bit Sonic 2 to the TI-84+ CE",
+      "https://medium.com/@grubbycoder/porting-8-bit-sonic-2-to-the-ti-84-ce-7ec99f9981c9"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Wayland, where are we in 2024? Any good for being the default?",
       "https://www.dedoimedo.com/computers/wayland-2024.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-17, 22:01:55",
-      "https://lobste.rs/s/7hpykf/full_text_search_openbsd_manual_pages"
-    ],
-    [
-      "Full-text search of the OpenBSD manual pages",
-      "https://man.ifconfig.se"
     ]
   ]
 ]
