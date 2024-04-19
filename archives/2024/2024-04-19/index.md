@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
+* [2024-04-19, 16:08:54](https://lobste.rs/s/lzpgka/eurisko_lives) - [EURISKO lives](https://blog.funcall.org//lisp/2024/03/22/eurisko-lives/)
 * [2024-04-19, 15:51:52](https://lobste.rs/s/4csakp/logpipe_automatic_syntax_highlighting) - [Logpipe: automatic syntax highlighting for development logs](https://github.com/EmNudge/logpipe)
 * [2024-04-19, 15:14:38](https://lobste.rs/s/04su6m/ai_isn_t_useless_is_it_worth_it) - [AI isn't useless. But is it worth it?](https://www.citationneeded.news/ai-isnt-useless/)
 * [2024-04-19, 14:24:24](https://lobste.rs/s/en5lqf/llvm_is_smarter_than_me) - [LLVM is Smarter Than Me](https://blog.sulami.xyz/posts/llvm-is-smarter-than-me/)
