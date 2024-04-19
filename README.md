@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-19, 14:24:24](https://lobste.rs/s/en5lqf/llvm_is_smarter_than_me) - [LLVM is Smarter Than Me](https://blog.sulami.xyz/posts/llvm-is-smarter-than-me/)
 * [2024-04-19, 14:09:13](https://lobste.rs/s/sncrqv/rust_tokio_task_cancellation_patterns) - [Rust tokio task cancellation patterns](https://cybernetist.com/2024/04/19/rust-tokio-task-cancellation-patterns/)
 * [2024-04-19, 12:17:18](https://lobste.rs/s/bf05ph/rook_s_law_there_s_always_limit) - [Rook’s Law: There’s Always a Limit](https://nigeltao.github.io/blog/2024/rooks-law.html)
 * [2024-04-19, 12:06:17](https://lobste.rs/s/xlpjaz/3_important_things_i_overlooked_during) - [3 important things I overlooked during code reviews](https://www.piglei.com/articles/3-important-things-I-overlooked-during-cr/)
@@ -23,7 +24,6 @@
 * [2024-04-18, 07:56:21](https://lobste.rs/s/nd4iwa/lions_os_secure_fast_adaptable) - [Lions OS: secure – fast – adaptable](https://trustworthy.systems/publications/papers/Heiser_24:eo.abstract)
 * [2024-04-18, 06:02:39](https://lobste.rs/s/ht5upz/wayland_where_are_we_2024_any_good_for) - [Wayland, where are we in 2024? Any good for being the default?](https://www.dedoimedo.com/computers/wayland-2024.html)
 * [2024-04-18, 03:28:10](https://lobste.rs/s/b6ycfr/rust_calling_convention_we_deserve) - [The Rust Calling Convention We Deserve](https://mcyoung.xyz/2024/04/17/calling-convention/)
-* [2024-04-17, 22:05:47](https://lobste.rs/s/eo1bde/systems_distributed_24) - [Systems Distributed '24](https://systemsdistributed.com)
 * [2024-04-17, 22:01:55](https://lobste.rs/s/7hpykf/full_text_search_openbsd_manual_pages) - [Full-text search of the OpenBSD manual pages](https://man.ifconfig.se)
 
 ## [Archives](archives/index.md)
