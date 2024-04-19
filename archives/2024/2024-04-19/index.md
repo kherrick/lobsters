@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
+* [2024-04-19, 14:09:13](https://lobste.rs/s/sncrqv/rust_tokio_task_cancellation_patterns) - [Rust tokio task cancellation patterns](https://cybernetist.com/2024/04/19/rust-tokio-task-cancellation-patterns/)
 * [2024-04-19, 12:17:18](https://lobste.rs/s/bf05ph/rook_s_law_there_s_always_limit) - [Rook’s Law: There’s Always a Limit](https://nigeltao.github.io/blog/2024/rooks-law.html)
 * [2024-04-19, 12:06:17](https://lobste.rs/s/xlpjaz/3_important_things_i_overlooked_during) - [3 important things I overlooked during code reviews](https://www.piglei.com/articles/3-important-things-I-overlooked-during-cr/)
 * [2024-04-19, 11:58:10](https://lobste.rs/s/c722wx/on_signal_relays) - [On Signal Relays](https://www.pzuraq.com/blog/on-signal-relays)
