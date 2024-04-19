@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-19, 12:17:18",
+      "https://lobste.rs/s/bf05ph/rook_s_law_there_s_always_limit"
+    ],
+    [
+      "Rook’s Law: There’s Always a Limit",
+      "https://nigeltao.github.io/blog/2024/rooks-law.html"
+    ]
+  ],
+  [
+    [
       "2024-04-19, 12:06:17",
       "https://lobste.rs/s/xlpjaz/3_important_things_i_overlooked_during"
     ],
@@ -207,16 +217,6 @@
     [
       "Make your own backdoor: CFLAGS code injection, Makefile injection, pkg-config",
       "https://www.openwall.com/lists/oss-security/2024/04/17/3"
-    ]
-  ],
-  [
-    [
-      "2024-04-18, 04:14:17",
-      "https://lobste.rs/s/j7ujlg/formal_methods_just_good_engineering"
-    ],
-    [
-      "Formal Methods: Just Good Engineering Practice?",
-      "http://brooker.co.za/blog/2024/04/17/formal.html"
     ]
   ],
   [
