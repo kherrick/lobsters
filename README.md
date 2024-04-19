@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-19, 20:49:44](https://lobste.rs/s/jf5l87/problem_with_threads_2006) - [The Problem with Threads (2006)](https://digitalassets.lib.berkeley.edu/techreports/ucb/text/EECS-2006-1.pdf)
 * [2024-04-19, 20:41:25](https://lobste.rs/s/e6g8o3/design_patterns_for_extracting_from_rest) - [Design patterns for extracting from REST APIs](https://blog.sequin.io/design-patterns-for-extracting-from-rest-apis/)
 * [2024-04-19, 20:35:17](https://lobste.rs/s/vm5nb2/porting_8_bit_sonic_2_ti_84_ce) - [Porting 8-bit Sonic 2 to the TI-84+ CE](https://medium.com/@grubbycoder/porting-8-bit-sonic-2-to-the-ti-84-ce-7ec99f9981c9)
 * [2024-04-19, 19:47:20](https://lobste.rs/s/kcyg0p/gwp_asan_sampling_based_detection_memory) - [GWP-ASan: Sampling-Based Detection of Memory-Safety Bugs in Production](https://arxiv.org/pdf/2311.09394v2.pdf)
@@ -23,7 +24,6 @@
 * [2024-04-18, 20:29:59](https://lobste.rs/s/jfxi1y/ruff_v0_4_0_hand_written_recursive_descent) - [Ruff v0.4.0: a hand-written recursive descent parser for Python](https://astral.sh/blog/ruff-v0.4.0)
 * [2024-04-18, 18:18:08](https://lobste.rs/s/fex5ji/we_need_talk_about_state_calendar) - [We Need to Talk About the State of Calendar Software on Desktop](https://nadim.computer/posts/2024-04-18-calendar.html)
 * [2024-04-18, 17:49:37](https://lobste.rs/s/5t6clg/why_you_need_wtf_notebook) - [Why you need a \"WTF Notebook\"](https://www.simplermachines.com/why-you-need-a-wtf-notebook/)
-* [2024-04-18, 13:08:24](https://lobste.rs/s/xoe75h/sel4_on_aarch64_is_now_verified_for) - [seL4 on AArch64 is now verified for functional correctness](https://proofcraft.systems/news-2024/#2024-04-01)
 * [2024-04-18, 06:02:39](https://lobste.rs/s/ht5upz/wayland_where_are_we_2024_any_good_for) - [Wayland, where are we in 2024? Any good for being the default?](https://www.dedoimedo.com/computers/wayland-2024.html)
 
 ## [Archives](archives/index.md)
