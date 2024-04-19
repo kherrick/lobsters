@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-19, 14:24:24",
+      "https://lobste.rs/s/en5lqf/llvm_is_smarter_than_me"
+    ],
+    [
+      "LLVM is Smarter Than Me",
+      "https://blog.sulami.xyz/posts/llvm-is-smarter-than-me/"
+    ]
+  ],
+  [
+    [
       "2024-04-19, 14:09:13",
       "https://lobste.rs/s/sncrqv/rust_tokio_task_cancellation_patterns"
     ],
@@ -227,16 +237,6 @@
     [
       "The Rust Calling Convention We Deserve",
       "https://mcyoung.xyz/2024/04/17/calling-convention/"
-    ]
-  ],
-  [
-    [
-      "2024-04-17, 22:05:47",
-      "https://lobste.rs/s/eo1bde/systems_distributed_24"
-    ],
-    [
-      "Systems Distributed '24",
-      "https://systemsdistributed.com"
     ]
   ],
   [
