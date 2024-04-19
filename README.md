@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-19, 17:19:18](https://lobste.rs/s/wh6yhk/why_we_run_freebsd_current_at_netflix) - [Why We Run FreeBSD CURRENT at Netflix](https://www.youtube.com/watch?v=q4TZxj-Dq7s)
 * [2024-04-19, 17:07:54](https://lobste.rs/s/9nkush/freebsd_using_dtrace_track_down_started) - [FreeBSD: Using DTrace to Track Down Started Processes and Used Files](https://www.youtube.com/watch?v=cz6zVXw-NcE)
 * [2024-04-19, 17:07:39](https://lobste.rs/s/oanm6a/what_is_freebsd_missing) - [What is FreeBSD Missing?](https://www.youtube.com/watch?v=ISJrVuajlAw)
 * [2024-04-19, 17:02:45](https://lobste.rs/s/5g4sbc/tla_web_explorer) - [TLA+ Web Explorer](https://will62794.github.io/tla-web)
@@ -20,7 +21,6 @@
 * [2024-04-18, 18:54:21](https://lobste.rs/s/bagbm2/meta_llama_3) - [Meta Llama 3](https://llama.meta.com/llama3/)
 * [2024-04-18, 18:18:08](https://lobste.rs/s/fex5ji/we_need_talk_about_state_calendar) - [We Need to Talk About the State of Calendar Software on Desktop](https://nadim.computer/posts/2024-04-18-calendar.html)
 * [2024-04-18, 17:49:37](https://lobste.rs/s/5t6clg/why_you_need_wtf_notebook) - [Why you need a \"WTF Notebook\"](https://www.simplermachines.com/why-you-need-a-wtf-notebook/)
-* [2024-04-18, 17:07:34](https://lobste.rs/s/pdnen8/zest_syntax) - [Zest: syntax](https://www.scattered-thoughts.net/writing/zest-syntax/)
 * [2024-04-18, 17:04:59](https://lobste.rs/s/rweorr/sqlite_on_rails_how_why_optimal) - [SQLite on Rails: The how and why of optimal performance](https://fractaledmind.github.io/2024/04/15/sqlite-on-rails-the-how-and-why-of-optimal-performance/)
 * [2024-04-18, 13:08:24](https://lobste.rs/s/xoe75h/sel4_on_aarch64_is_now_verified_for) - [seL4 on AArch64 is now verified for functional correctness](https://proofcraft.systems/news-2024/#2024-04-01)
 * [2024-04-18, 06:02:39](https://lobste.rs/s/ht5upz/wayland_where_are_we_2024_any_good_for) - [Wayland, where are we in 2024? Any good for being the default?](https://www.dedoimedo.com/computers/wayland-2024.html)
