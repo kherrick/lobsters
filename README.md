@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-04-19, 20:14:04](https://lobste.rs/s/vtafb4/gwp_asan_sampling_based_detection_memory) - [GWP-ASan: Sampling-Based Detection of Memory-Safety Bugs in Production](https://arxiv.org/abs/2311.09394v2)
+* [2024-04-19, 20:41:25](https://lobste.rs/s/e6g8o3/design_patterns_for_extracting_from_rest) - [Design patterns for extracting from REST APIs](https://blog.sequin.io/design-patterns-for-extracting-from-rest-apis/)
+* [2024-04-19, 20:35:17](https://lobste.rs/s/vm5nb2/porting_8_bit_sonic_2_ti_84_ce) - [Porting 8-bit Sonic 2 to the TI-84+ CE](https://medium.com/@grubbycoder/porting-8-bit-sonic-2-to-the-ti-84-ce-7ec99f9981c9)
 * [2024-04-19, 19:47:20](https://lobste.rs/s/kcyg0p/gwp_asan_sampling_based_detection_memory) - [GWP-ASan: Sampling-Based Detection of Memory-Safety Bugs in Production](https://arxiv.org/pdf/2311.09394v2.pdf)
 * [2024-04-19, 18:47:18](https://lobste.rs/s/kngpqq/zilog_calls_time_on_venerable_z80) - [Zilog Calls Time on the Venerable Z80](https://www.hackster.io/news/zilog-calls-time-on-the-venerable-z80-discontinues-the-standalone-z84c00-cpu-family-723594464754)
 * [2024-04-19, 17:19:18](https://lobste.rs/s/wh6yhk/why_we_run_freebsd_current_at_netflix) - [Why We Run FreeBSD CURRENT at Netflix](https://www.youtube.com/watch?v=q4TZxj-Dq7s)
@@ -24,7 +25,6 @@
 * [2024-04-18, 17:49:37](https://lobste.rs/s/5t6clg/why_you_need_wtf_notebook) - [Why you need a \"WTF Notebook\"](https://www.simplermachines.com/why-you-need-a-wtf-notebook/)
 * [2024-04-18, 13:08:24](https://lobste.rs/s/xoe75h/sel4_on_aarch64_is_now_verified_for) - [seL4 on AArch64 is now verified for functional correctness](https://proofcraft.systems/news-2024/#2024-04-01)
 * [2024-04-18, 06:02:39](https://lobste.rs/s/ht5upz/wayland_where_are_we_2024_any_good_for) - [Wayland, where are we in 2024? Any good for being the default?](https://www.dedoimedo.com/computers/wayland-2024.html)
-* [2024-04-17, 22:01:55](https://lobste.rs/s/7hpykf/full_text_search_openbsd_manual_pages) - [Full-text search of the OpenBSD manual pages](https://man.ifconfig.se)
 
 ## [Archives](archives/index.md)
 

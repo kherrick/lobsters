@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-19](index.md)
 
+* [2024-04-19, 20:41:25](https://lobste.rs/s/e6g8o3/design_patterns_for_extracting_from_rest) - [Design patterns for extracting from REST APIs](https://blog.sequin.io/design-patterns-for-extracting-from-rest-apis/)
+* [2024-04-19, 20:35:17](https://lobste.rs/s/vm5nb2/porting_8_bit_sonic_2_ti_84_ce) - [Porting 8-bit Sonic 2 to the TI-84+ CE](https://medium.com/@grubbycoder/porting-8-bit-sonic-2-to-the-ti-84-ce-7ec99f9981c9)
 * [2024-04-19, 20:14:04](https://lobste.rs/s/vtafb4/gwp_asan_sampling_based_detection_memory) - [GWP-ASan: Sampling-Based Detection of Memory-Safety Bugs in Production](https://arxiv.org/abs/2311.09394v2)
 * [2024-04-19, 19:47:20](https://lobste.rs/s/kcyg0p/gwp_asan_sampling_based_detection_memory) - [GWP-ASan: Sampling-Based Detection of Memory-Safety Bugs in Production](https://arxiv.org/pdf/2311.09394v2.pdf)
 * [2024-04-19, 18:47:18](https://lobste.rs/s/kngpqq/zilog_calls_time_on_venerable_z80) - [Zilog Calls Time on the Venerable Z80](https://www.hackster.io/news/zilog-calls-time-on-the-venerable-z80-discontinues-the-standalone-z84c00-cpu-family-723594464754)
