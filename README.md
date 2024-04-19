@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-19, 12:17:18](https://lobste.rs/s/bf05ph/rook_s_law_there_s_always_limit) - [Rook’s Law: There’s Always a Limit](https://nigeltao.github.io/blog/2024/rooks-law.html)
 * [2024-04-19, 12:06:17](https://lobste.rs/s/xlpjaz/3_important_things_i_overlooked_during) - [3 important things I overlooked during code reviews](https://www.piglei.com/articles/3-important-things-I-overlooked-during-cr/)
 * [2024-04-19, 11:58:10](https://lobste.rs/s/c722wx/on_signal_relays) - [On Signal Relays](https://www.pzuraq.com/blog/on-signal-relays)
 * [2024-04-19, 10:09:37](https://lobste.rs/s/s5fupi/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/s5fupi/what_are_you_doing_this_weekend)
@@ -21,7 +22,6 @@
 * [2024-04-18, 07:56:21](https://lobste.rs/s/nd4iwa/lions_os_secure_fast_adaptable) - [Lions OS: secure – fast – adaptable](https://trustworthy.systems/publications/papers/Heiser_24:eo.abstract)
 * [2024-04-18, 06:02:39](https://lobste.rs/s/ht5upz/wayland_where_are_we_2024_any_good_for) - [Wayland, where are we in 2024? Any good for being the default?](https://www.dedoimedo.com/computers/wayland-2024.html)
 * [2024-04-18, 05:42:38](https://lobste.rs/s/o5ywrv/make_your_own_backdoor_cflags_code) - [Make your own backdoor: CFLAGS code injection, Makefile injection, pkg-config](https://www.openwall.com/lists/oss-security/2024/04/17/3)
-* [2024-04-18, 04:14:17](https://lobste.rs/s/j7ujlg/formal_methods_just_good_engineering) - [Formal Methods: Just Good Engineering Practice?](http://brooker.co.za/blog/2024/04/17/formal.html)
 * [2024-04-18, 03:28:10](https://lobste.rs/s/b6ycfr/rust_calling_convention_we_deserve) - [The Rust Calling Convention We Deserve](https://mcyoung.xyz/2024/04/17/calling-convention/)
 * [2024-04-17, 22:05:47](https://lobste.rs/s/eo1bde/systems_distributed_24) - [Systems Distributed '24](https://systemsdistributed.com)
 * [2024-04-17, 22:01:55](https://lobste.rs/s/7hpykf/full_text_search_openbsd_manual_pages) - [Full-text search of the OpenBSD manual pages](https://man.ifconfig.se)
