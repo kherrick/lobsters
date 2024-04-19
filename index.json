@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-19, 19:47:20",
+      "https://lobste.rs/s/kcyg0p/gwp_asan_sampling_based_detection_memory"
+    ],
+    [
+      "GWP-ASan: Sampling-Based Detection of Memory-Safety Bugs in Production",
+      "https://arxiv.org/pdf/2311.09394v2.pdf"
+    ]
+  ],
+  [
+    [
       "2024-04-19, 18:47:18",
       "https://lobste.rs/s/kngpqq/zilog_calls_time_on_venerable_z80"
     ],
@@ -137,16 +147,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/s5fupi/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2024-04-19, 10:07:38",
-      "https://lobste.rs/s/beshcv/raw_flux_streams_obscure_formats_further"
-    ],
-    [
-      "Raw flux streams and obscure formats: Further work around imaging 5.25-inch floppy disks",
-      "https://digitalpreservation-blog.lib.cam.ac.uk/raw-flux-streams-and-obscure-formats-further-work-around-imaging-5-25-inch-floppy-disks-5a2cf2e5f0d1"
     ]
   ],
   [
