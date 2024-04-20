@@ -10,6 +10,7 @@
 * [2024-04-20, 11:42:41](https://lobste.rs/s/ufm28r/do_not_buy_hisense_tvs_at_least_keep_them) - [Do not buy Hisense TVs (or at least keep them offline)](https://cohost.org/ghoulnoise/post/5286766-do-not-buy-hisense-t)
 * [2024-04-20, 01:10:58](https://lobste.rs/s/yngz9d/git_bisect_find) - [git bisect-find](https://gitlab.com/kevincox/git-bisect-find)
 * [2024-04-19, 22:44:38](https://lobste.rs/s/rrchqh/truenas_core_versus_truenas_scale) - [TrueNAS CORE versus TrueNAS SCALE](https://vermaden.wordpress.com/2024/04/20/truenas-core-versus-truenas-scale/)
+* [2024-04-19, 22:32:35](https://lobste.rs/s/lk3yj9/fast_flexible_observability_with) - [Fast and flexible observability with canonical log lines (2019)](https://stripe.com/blog/canonical-log-lines)
 * [2024-04-19, 20:41:25](https://lobste.rs/s/e6g8o3/design_patterns_for_extracting_from_rest) - [Design patterns for extracting from REST APIs](https://blog.sequin.io/design-patterns-for-extracting-from-rest-apis/)
 * [2024-04-19, 20:35:17](https://lobste.rs/s/vm5nb2/porting_8_bit_sonic_2_ti_84_ce) - [Porting 8-bit Sonic 2 to the TI-84+ CE](https://medium.com/@grubbycoder/porting-8-bit-sonic-2-to-the-ti-84-ce-7ec99f9981c9)
 * [2024-04-19, 19:47:20](https://lobste.rs/s/kcyg0p/gwp_asan_sampling_based_detection_memory) - [GWP-ASan: Sampling-Based Detection of Memory-Safety Bugs in Production](https://arxiv.org/pdf/2311.09394v2.pdf)
@@ -23,7 +24,6 @@
 * [2024-04-19, 14:09:13](https://lobste.rs/s/sncrqv/rust_tokio_task_cancellation_patterns) - [Rust tokio task cancellation patterns](https://cybernetist.com/2024/04/19/rust-tokio-task-cancellation-patterns/)
 * [2024-04-19, 12:06:17](https://lobste.rs/s/xlpjaz/3_important_things_i_overlooked_during) - [3 important things I overlooked during code reviews](https://www.piglei.com/articles/3-important-things-I-overlooked-during-cr/)
 * [2024-04-19, 10:09:37](https://lobste.rs/s/s5fupi/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/s5fupi/what_are_you_doing_this_weekend)
-* [2024-04-18, 22:41:16](https://lobste.rs/s/75i3qy/ubuntu_24_04_yields_20_advantage_over) - [Ubuntu 24.04 yields a 20% advantage over Windows 11 on Ryzen7 Framework laptop](https://www.phoronix.com/review/framework-16-windows-linux)
 * [2024-04-18, 18:18:08](https://lobste.rs/s/fex5ji/we_need_talk_about_state_calendar) - [We Need to Talk About the State of Calendar Software on Desktop](https://nadim.computer/posts/2024-04-18-calendar.html)
 
 ## [Archives](archives/index.md)
