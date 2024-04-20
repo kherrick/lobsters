@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-20, 18:34:08](https://lobste.rs/s/kltbi5/rust_stream_api_visualized_exposed) - [Rust Stream API visualized and exposed](https://github.com/alexpusch/rust-magic-patterns/blob/master/rust-stream-visualized/Readme.md)
 * [2024-04-20, 16:36:42](https://lobste.rs/s/jsuyxh/entire_social_network_1_6gb_graphd_part_2) - [An entire Social Network in 1.6GB (GraphD Part 2)](https://jazco.dev/2024/04/20/roaring-bitmaps/)
 * [2024-04-20, 14:38:42](https://lobste.rs/s/8gbxet/coroutines_effects) - [Coroutines and effects](https://without.boats/blog/coroutines-and-effects/)
 * [2024-04-20, 13:26:37](https://lobste.rs/s/vkqqvl/programming_vs_mathematical_curiosity) - [Programming vs mathematical curiosity](https://demian.ferrei.ro/blog/programmer-vs-mathematician)
@@ -8,7 +9,6 @@
 * [2024-04-20, 11:42:41](https://lobste.rs/s/ufm28r/do_not_buy_hisense_tvs_at_least_keep_them) - [Do not buy Hisense TVs (or at least keep them offline)](https://cohost.org/ghoulnoise/post/5286766-do-not-buy-hisense-t)
 * [2024-04-20, 01:10:58](https://lobste.rs/s/yngz9d/git_bisect_find) - [git bisect-find](https://gitlab.com/kevincox/git-bisect-find)
 * [2024-04-19, 22:44:38](https://lobste.rs/s/rrchqh/truenas_core_versus_truenas_scale) - [TrueNAS CORE versus TrueNAS SCALE](https://vermaden.wordpress.com/2024/04/20/truenas-core-versus-truenas-scale/)
-* [2024-04-19, 22:32:35](https://lobste.rs/s/lk3yj9/fast_flexible_observability_with) - [Fast and flexible observability with canonical log lines (2019)](https://stripe.com/blog/canonical-log-lines)
 * [2024-04-19, 20:41:25](https://lobste.rs/s/e6g8o3/design_patterns_for_extracting_from_rest) - [Design patterns for extracting from REST APIs](https://blog.sequin.io/design-patterns-for-extracting-from-rest-apis/)
 * [2024-04-19, 20:35:17](https://lobste.rs/s/vm5nb2/porting_8_bit_sonic_2_ti_84_ce) - [Porting 8-bit Sonic 2 to the TI-84+ CE](https://medium.com/@grubbycoder/porting-8-bit-sonic-2-to-the-ti-84-ce-7ec99f9981c9)
 * [2024-04-19, 19:47:20](https://lobste.rs/s/kcyg0p/gwp_asan_sampling_based_detection_memory) - [GWP-ASan: Sampling-Based Detection of Memory-Safety Bugs in Production](https://arxiv.org/pdf/2311.09394v2.pdf)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-20](index.md)
 
+* [2024-04-20, 18:34:08](https://lobste.rs/s/kltbi5/rust_stream_api_visualized_exposed) - [Rust Stream API visualized and exposed](https://github.com/alexpusch/rust-magic-patterns/blob/master/rust-stream-visualized/Readme.md)
 * [2024-04-20, 16:36:42](https://lobste.rs/s/jsuyxh/entire_social_network_1_6gb_graphd_part_2) - [An entire Social Network in 1.6GB (GraphD Part 2)](https://jazco.dev/2024/04/20/roaring-bitmaps/)
 * [2024-04-20, 14:38:42](https://lobste.rs/s/8gbxet/coroutines_effects) - [Coroutines and effects](https://without.boats/blog/coroutines-and-effects/)
 * [2024-04-20, 13:26:37](https://lobste.rs/s/vkqqvl/programming_vs_mathematical_curiosity) - [Programming vs mathematical curiosity](https://demian.ferrei.ro/blog/programmer-vs-mathematician)
