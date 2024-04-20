@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-20, 21:05:00](https://lobste.rs/s/s7mpwd/thetawave_physics_based_space_shooter) - [thetawave: A physics based, space shooter game made with Rust and the Bevy engine](https://github.com/thetawavegame/thetawave)
 * [2024-04-20, 18:34:08](https://lobste.rs/s/kltbi5/rust_stream_api_visualized_exposed) - [Rust Stream API visualized and exposed](https://github.com/alexpusch/rust-magic-patterns/blob/master/rust-stream-visualized/Readme.md)
 * [2024-04-20, 16:36:42](https://lobste.rs/s/jsuyxh/entire_social_network_1_6gb_graphd_part_2) - [An entire Social Network in 1.6GB (GraphD Part 2)](https://jazco.dev/2024/04/20/roaring-bitmaps/)
 * [2024-04-20, 14:38:42](https://lobste.rs/s/8gbxet/coroutines_effects) - [Coroutines and effects](https://without.boats/blog/coroutines-and-effects/)
@@ -24,7 +25,6 @@
 * [2024-04-19, 10:09:37](https://lobste.rs/s/s5fupi/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/s5fupi/what_are_you_doing_this_weekend)
 * [2024-04-18, 22:41:16](https://lobste.rs/s/75i3qy/ubuntu_24_04_yields_20_advantage_over) - [Ubuntu 24.04 yields a 20% advantage over Windows 11 on Ryzen7 Framework laptop](https://www.phoronix.com/review/framework-16-windows-linux)
 * [2024-04-18, 18:18:08](https://lobste.rs/s/fex5ji/we_need_talk_about_state_calendar) - [We Need to Talk About the State of Calendar Software on Desktop](https://nadim.computer/posts/2024-04-18-calendar.html)
-* [2024-04-18, 17:49:37](https://lobste.rs/s/5t6clg/why_you_need_wtf_notebook) - [Why you need a \"WTF Notebook\"](https://www.simplermachines.com/why-you-need-a-wtf-notebook/)
 
 ## [Archives](archives/index.md)
 
