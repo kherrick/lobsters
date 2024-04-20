@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-20, 14:38:42](https://lobste.rs/s/8gbxet/coroutines_effects) - [Coroutines and effects](https://without.boats/blog/coroutines-and-effects/)
 * [2024-04-20, 13:26:37](https://lobste.rs/s/vkqqvl/programming_vs_mathematical_curiosity) - [Programming vs mathematical curiosity](https://demian.ferrei.ro/blog/programmer-vs-mathematician)
 * [2024-04-20, 12:46:35](https://lobste.rs/s/ujjyxn/parsing_all) - [Parsing and all that](https://blog.jeffsmits.net/compsci/2024/04/07/parsing-and-all-that/)
 * [2024-04-20, 12:38:07](https://lobste.rs/s/fa4svu/zig_0_12_0_release_notes) - [Zig 0.12.0 Release Notes](https://ziglang.org/download/0.12.0/release-notes.html)
@@ -12,7 +13,6 @@
 * [2024-04-19, 19:47:20](https://lobste.rs/s/kcyg0p/gwp_asan_sampling_based_detection_memory) - [GWP-ASan: Sampling-Based Detection of Memory-Safety Bugs in Production](https://arxiv.org/pdf/2311.09394v2.pdf)
 * [2024-04-19, 18:47:18](https://lobste.rs/s/kngpqq/zilog_calls_time_on_venerable_z80) - [Zilog Calls Time on the Venerable Z80](https://www.hackster.io/news/zilog-calls-time-on-the-venerable-z80-discontinues-the-standalone-z84c00-cpu-family-723594464754)
 * [2024-04-19, 17:19:18](https://lobste.rs/s/wh6yhk/why_we_run_freebsd_current_at_netflix) - [Why We Run FreeBSD CURRENT at Netflix](https://www.youtube.com/watch?v=q4TZxj-Dq7s)
-* [2024-04-19, 17:07:39](https://lobste.rs/s/oanm6a/what_is_freebsd_missing) - [What is FreeBSD Missing?](https://www.youtube.com/watch?v=ISJrVuajlAw)
 * [2024-04-19, 17:02:45](https://lobste.rs/s/5g4sbc/tla_web_explorer) - [TLA+ Web Explorer](https://will62794.github.io/tla-web)
 * [2024-04-19, 16:08:54](https://lobste.rs/s/lzpgka/eurisko_lives) - [EURISKO lives](https://blog.funcall.org//lisp/2024/03/22/eurisko-lives/)
 * [2024-04-19, 15:51:52](https://lobste.rs/s/4csakp/logpipe_automatic_syntax_highlighting) - [Logpipe: automatic syntax highlighting for development logs](https://github.com/EmNudge/logpipe)
