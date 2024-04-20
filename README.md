@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-20, 16:36:42](https://lobste.rs/s/jsuyxh/entire_social_network_1_6gb_graphd_part_2) - [An entire Social Network in 1.6GB (GraphD Part 2)](https://jazco.dev/2024/04/20/roaring-bitmaps/)
 * [2024-04-20, 14:38:42](https://lobste.rs/s/8gbxet/coroutines_effects) - [Coroutines and effects](https://without.boats/blog/coroutines-and-effects/)
 * [2024-04-20, 13:26:37](https://lobste.rs/s/vkqqvl/programming_vs_mathematical_curiosity) - [Programming vs mathematical curiosity](https://demian.ferrei.ro/blog/programmer-vs-mathematician)
 * [2024-04-20, 12:46:35](https://lobste.rs/s/ujjyxn/parsing_all) - [Parsing and all that](https://blog.jeffsmits.net/compsci/2024/04/07/parsing-and-all-that/)
@@ -19,7 +20,6 @@
 * [2024-04-19, 15:14:38](https://lobste.rs/s/04su6m/ai_isn_t_useless_is_it_worth_it) - [AI isn't useless. But is it worth it?](https://www.citationneeded.news/ai-isnt-useless/)
 * [2024-04-19, 14:24:24](https://lobste.rs/s/en5lqf/llvm_is_smarter_than_me) - [LLVM is Smarter Than Me](https://blog.sulami.xyz/posts/llvm-is-smarter-than-me/)
 * [2024-04-19, 14:09:13](https://lobste.rs/s/sncrqv/rust_tokio_task_cancellation_patterns) - [Rust tokio task cancellation patterns](https://cybernetist.com/2024/04/19/rust-tokio-task-cancellation-patterns/)
-* [2024-04-19, 12:17:18](https://lobste.rs/s/bf05ph/rook_s_law_there_s_always_limit) - [Rook’s Law: There’s Always a Limit](https://nigeltao.github.io/blog/2024/rooks-law.html)
 * [2024-04-19, 12:06:17](https://lobste.rs/s/xlpjaz/3_important_things_i_overlooked_during) - [3 important things I overlooked during code reviews](https://www.piglei.com/articles/3-important-things-I-overlooked-during-cr/)
 * [2024-04-19, 10:09:37](https://lobste.rs/s/s5fupi/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/s5fupi/what_are_you_doing_this_weekend)
 * [2024-04-18, 22:41:16](https://lobste.rs/s/75i3qy/ubuntu_24_04_yields_20_advantage_over) - [Ubuntu 24.04 yields a 20% advantage over Windows 11 on Ryzen7 Framework laptop](https://www.phoronix.com/review/framework-16-windows-linux)
