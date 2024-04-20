@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-20, 12:46:35](https://lobste.rs/s/ujjyxn/parsing_all) - [Parsing and all that](https://blog.jeffsmits.net/compsci/2024/04/07/parsing-and-all-that/)
+* [2024-04-20, 12:38:07](https://lobste.rs/s/fa4svu/zig_0_12_0_release_notes) - [Zig 0.12.0 Release Notes](https://ziglang.org/download/0.12.0/release-notes.html)
 * [2024-04-20, 11:42:41](https://lobste.rs/s/ufm28r/do_not_buy_hisense_tvs_at_least_keep_them) - [Do not buy Hisense TVs (or at least keep them offline)](https://cohost.org/ghoulnoise/post/5286766-do-not-buy-hisense-t)
 * [2024-04-20, 01:10:58](https://lobste.rs/s/yngz9d/git_bisect_find) - [git bisect-find](https://gitlab.com/kevincox/git-bisect-find)
 * [2024-04-19, 22:44:38](https://lobste.rs/s/rrchqh/truenas_core_versus_truenas_scale) - [TrueNAS CORE versus TrueNAS SCALE](https://vermaden.wordpress.com/2024/04/20/truenas-core-versus-truenas-scale/)
@@ -19,10 +21,8 @@
 * [2024-04-19, 14:09:13](https://lobste.rs/s/sncrqv/rust_tokio_task_cancellation_patterns) - [Rust tokio task cancellation patterns](https://cybernetist.com/2024/04/19/rust-tokio-task-cancellation-patterns/)
 * [2024-04-19, 12:17:18](https://lobste.rs/s/bf05ph/rook_s_law_there_s_always_limit) - [Rook’s Law: There’s Always a Limit](https://nigeltao.github.io/blog/2024/rooks-law.html)
 * [2024-04-19, 12:06:17](https://lobste.rs/s/xlpjaz/3_important_things_i_overlooked_during) - [3 important things I overlooked during code reviews](https://www.piglei.com/articles/3-important-things-I-overlooked-during-cr/)
-* [2024-04-19, 11:58:10](https://lobste.rs/s/c722wx/on_signal_relays) - [On Signal Relays](https://www.pzuraq.com/blog/on-signal-relays)
 * [2024-04-19, 10:09:37](https://lobste.rs/s/s5fupi/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/s5fupi/what_are_you_doing_this_weekend)
 * [2024-04-18, 22:41:16](https://lobste.rs/s/75i3qy/ubuntu_24_04_yields_20_advantage_over) - [Ubuntu 24.04 yields a 20% advantage over Windows 11 on Ryzen7 Framework laptop](https://www.phoronix.com/review/framework-16-windows-linux)
-* [2024-04-18, 20:29:59](https://lobste.rs/s/jfxi1y/ruff_v0_4_0_hand_written_recursive_descent) - [Ruff v0.4.0: a hand-written recursive descent parser for Python](https://astral.sh/blog/ruff-v0.4.0)
 * [2024-04-18, 18:18:08](https://lobste.rs/s/fex5ji/we_need_talk_about_state_calendar) - [We Need to Talk About the State of Calendar Software on Desktop](https://nadim.computer/posts/2024-04-18-calendar.html)
 * [2024-04-18, 17:49:37](https://lobste.rs/s/5t6clg/why_you_need_wtf_notebook) - [Why you need a \"WTF Notebook\"](https://www.simplermachines.com/why-you-need-a-wtf-notebook/)
 
