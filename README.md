@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-20, 08:22:04](https://lobste.rs/s/ryfc3g/open_source_s_funding_fiasco) - [Open Source's Funding Fiasco](https://dominickm.com/1662-2/)
 * [2024-04-20, 01:10:58](https://lobste.rs/s/yngz9d/git_bisect_find) - [git bisect-find](https://gitlab.com/kevincox/git-bisect-find)
 * [2024-04-19, 22:44:38](https://lobste.rs/s/rrchqh/truenas_core_versus_truenas_scale) - [TrueNAS CORE versus TrueNAS SCALE](https://vermaden.wordpress.com/2024/04/20/truenas-core-versus-truenas-scale/)
 * [2024-04-19, 22:32:35](https://lobste.rs/s/lk3yj9/fast_flexible_observability_with) - [Fast and flexible observability with canonical log lines (2019)](https://stripe.com/blog/canonical-log-lines)
@@ -9,7 +10,6 @@
 * [2024-04-19, 19:47:20](https://lobste.rs/s/kcyg0p/gwp_asan_sampling_based_detection_memory) - [GWP-ASan: Sampling-Based Detection of Memory-Safety Bugs in Production](https://arxiv.org/pdf/2311.09394v2.pdf)
 * [2024-04-19, 18:47:18](https://lobste.rs/s/kngpqq/zilog_calls_time_on_venerable_z80) - [Zilog Calls Time on the Venerable Z80](https://www.hackster.io/news/zilog-calls-time-on-the-venerable-z80-discontinues-the-standalone-z84c00-cpu-family-723594464754)
 * [2024-04-19, 17:19:18](https://lobste.rs/s/wh6yhk/why_we_run_freebsd_current_at_netflix) - [Why We Run FreeBSD CURRENT at Netflix](https://www.youtube.com/watch?v=q4TZxj-Dq7s)
-* [2024-04-19, 17:07:54](https://lobste.rs/s/9nkush/freebsd_using_dtrace_track_down_started) - [FreeBSD: Using DTrace to Track Down Started Processes and Used Files](https://www.youtube.com/watch?v=cz6zVXw-NcE)
 * [2024-04-19, 17:07:39](https://lobste.rs/s/oanm6a/what_is_freebsd_missing) - [What is FreeBSD Missing?](https://www.youtube.com/watch?v=ISJrVuajlAw)
 * [2024-04-19, 17:02:45](https://lobste.rs/s/5g4sbc/tla_web_explorer) - [TLA+ Web Explorer](https://will62794.github.io/tla-web)
 * [2024-04-19, 16:08:54](https://lobste.rs/s/lzpgka/eurisko_lives) - [EURISKO lives](https://blog.funcall.org//lisp/2024/03/22/eurisko-lives/)
