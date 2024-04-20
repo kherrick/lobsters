@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-20, 13:26:37](https://lobste.rs/s/vkqqvl/programming_vs_mathematical_curiosity) - [Programming vs mathematical curiosity](https://demian.ferrei.ro/blog/programmer-vs-mathematician)
 * [2024-04-20, 12:46:35](https://lobste.rs/s/ujjyxn/parsing_all) - [Parsing and all that](https://blog.jeffsmits.net/compsci/2024/04/07/parsing-and-all-that/)
 * [2024-04-20, 12:38:07](https://lobste.rs/s/fa4svu/zig_0_12_0_release_notes) - [Zig 0.12.0 Release Notes](https://ziglang.org/download/0.12.0/release-notes.html)
 * [2024-04-20, 11:42:41](https://lobste.rs/s/ufm28r/do_not_buy_hisense_tvs_at_least_keep_them) - [Do not buy Hisense TVs (or at least keep them offline)](https://cohost.org/ghoulnoise/post/5286766-do-not-buy-hisense-t)
 * [2024-04-20, 01:10:58](https://lobste.rs/s/yngz9d/git_bisect_find) - [git bisect-find](https://gitlab.com/kevincox/git-bisect-find)
 * [2024-04-19, 22:44:38](https://lobste.rs/s/rrchqh/truenas_core_versus_truenas_scale) - [TrueNAS CORE versus TrueNAS SCALE](https://vermaden.wordpress.com/2024/04/20/truenas-core-versus-truenas-scale/)
 * [2024-04-19, 22:32:35](https://lobste.rs/s/lk3yj9/fast_flexible_observability_with) - [Fast and flexible observability with canonical log lines (2019)](https://stripe.com/blog/canonical-log-lines)
-* [2024-04-19, 20:49:44](https://lobste.rs/s/jf5l87/problem_with_threads_2006) - [The Problem with Threads (2006)](https://digitalassets.lib.berkeley.edu/techreports/ucb/text/EECS-2006-1.pdf)
 * [2024-04-19, 20:41:25](https://lobste.rs/s/e6g8o3/design_patterns_for_extracting_from_rest) - [Design patterns for extracting from REST APIs](https://blog.sequin.io/design-patterns-for-extracting-from-rest-apis/)
 * [2024-04-19, 20:35:17](https://lobste.rs/s/vm5nb2/porting_8_bit_sonic_2_ti_84_ce) - [Porting 8-bit Sonic 2 to the TI-84+ CE](https://medium.com/@grubbycoder/porting-8-bit-sonic-2-to-the-ti-84-ce-7ec99f9981c9)
 * [2024-04-19, 19:47:20](https://lobste.rs/s/kcyg0p/gwp_asan_sampling_based_detection_memory) - [GWP-ASan: Sampling-Based Detection of Memory-Safety Bugs in Production](https://arxiv.org/pdf/2311.09394v2.pdf)
