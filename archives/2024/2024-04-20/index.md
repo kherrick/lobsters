@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-20](index.md)
 
+* [2024-04-20, 23:59:31](https://lobste.rs/s/ah54q5/design_everyday_apis) - [The Design of Everyday APIs](https://www.roguelynn.com/talks/everyday-apis/)
 * [2024-04-20, 21:05:00](https://lobste.rs/s/s7mpwd/thetawave_physics_based_space_shooter) - [thetawave: A physics based, space shooter game made with Rust and the Bevy engine](https://github.com/thetawavegame/thetawave)
 * [2024-04-20, 18:34:08](https://lobste.rs/s/kltbi5/rust_stream_api_visualized_exposed) - [Rust Stream API visualized and exposed](https://github.com/alexpusch/rust-magic-patterns/blob/master/rust-stream-visualized/Readme.md)
 * [2024-04-20, 16:36:42](https://lobste.rs/s/jsuyxh/entire_social_network_1_6gb_graphd_part_2) - [An entire Social Network in 1.6GB (GraphD Part 2)](https://jazco.dev/2024/04/20/roaring-bitmaps/)
