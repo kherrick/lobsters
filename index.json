@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-21, 06:26:56",
+      "https://lobste.rs/s/m8woyp/glibc_cve_2024_2961_buffer_overflow_iconv"
+    ],
+    [
+      "glibc CVE-2024-2961: Buffer overflow in iconv",
+      "https://www.openwall.com/lists/oss-security/2024/04/18/4"
+    ]
+  ],
+  [
+    [
       "2024-04-21, 05:32:56",
       "https://lobste.rs/s/amjayj/stanford_ai_syllabus_1980"
     ],
@@ -127,16 +137,6 @@
     [
       "TrueNAS CORE versus TrueNAS SCALE",
       "https://vermaden.wordpress.com/2024/04/20/truenas-core-versus-truenas-scale/"
-    ]
-  ],
-  [
-    [
-      "2024-04-19, 20:41:25",
-      "https://lobste.rs/s/e6g8o3/design_patterns_for_extracting_from_rest"
-    ],
-    [
-      "Design patterns for extracting from REST APIs",
-      "https://blog.sequin.io/design-patterns-for-extracting-from-rest-apis/"
     ]
   ],
   [
