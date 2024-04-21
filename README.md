@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-21, 18:18:07](https://lobste.rs/s/0qvtim/open_letter_nixos_foundation) - [Open letter to the NixOS foundation](https://save-nix-together.org/)
 * [2024-04-21, 16:25:48](https://lobste.rs/s/vgxm7q/why_you_shouldn_t_run_bsd_on_pc) - [Why you shouldn't run a BSD on a PC](https://michal.sapka.me/bsd/why-not-bsd/)
 * [2024-04-21, 15:13:16](https://lobste.rs/s/zczfzm/forge_tool_teach_formal_methods) - [Forge: A Tool to Teach Formal Methods](https://blog.brownplt.org/2024/04/21/forge.html)
 * [2024-04-21, 12:48:03](https://lobste.rs/s/r0woru/dataflow_analyses_compiler) - [Dataflow Analyses and Compiler Optimizations that Use Them, for Free](https://blog.regehr.org/archives/2578)
@@ -23,7 +24,6 @@
 * [2024-04-19, 17:19:18](https://lobste.rs/s/wh6yhk/why_we_run_freebsd_current_at_netflix) - [Why We Run FreeBSD CURRENT at Netflix](https://www.youtube.com/watch?v=q4TZxj-Dq7s)
 * [2024-04-19, 15:14:38](https://lobste.rs/s/04su6m/ai_isn_t_useless_is_it_worth_it) - [AI isn't useless. But is it worth it?](https://www.citationneeded.news/ai-isnt-useless/)
 * [2024-04-19, 14:24:24](https://lobste.rs/s/en5lqf/llvm_is_smarter_than_me) - [LLVM is Smarter Than Me](https://blog.sulami.xyz/posts/llvm-is-smarter-than-me/)
-* [2024-04-19, 14:09:13](https://lobste.rs/s/sncrqv/rust_tokio_task_cancellation_patterns) - [Rust tokio task cancellation patterns](https://cybernetist.com/2024/04/19/rust-tokio-task-cancellation-patterns/)
 * [2024-04-19, 12:06:17](https://lobste.rs/s/xlpjaz/3_important_things_i_overlooked_during) - [3 important things I overlooked during code reviews](https://www.piglei.com/articles/3-important-things-I-overlooked-during-cr/)
 
 ## [Archives](archives/index.md)

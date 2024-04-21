@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-21](index.md)
 
+* [2024-04-21, 18:18:07](https://lobste.rs/s/0qvtim/open_letter_nixos_foundation) - [Open letter to the NixOS foundation](https://save-nix-together.org/)
 * [2024-04-21, 16:25:48](https://lobste.rs/s/vgxm7q/why_you_shouldn_t_run_bsd_on_pc) - [Why you shouldn't run a BSD on a PC](https://michal.sapka.me/bsd/why-not-bsd/)
 * [2024-04-21, 15:13:16](https://lobste.rs/s/zczfzm/forge_tool_teach_formal_methods) - [Forge: A Tool to Teach Formal Methods](https://blog.brownplt.org/2024/04/21/forge.html)
 * [2024-04-21, 12:48:03](https://lobste.rs/s/r0woru/dataflow_analyses_compiler) - [Dataflow Analyses and Compiler Optimizations that Use Them, for Free – Embedded in Academia](https://blog.regehr.org/archives/2578)
