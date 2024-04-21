@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-21, 10:12:55](https://lobste.rs/s/s2ae4p/lunatik_lunatik_is_framework_for) - [lunatik: Lunatik is a framework for scripting the Linux kernel with Lua](https://github.com/luainkernel/lunatik)
 * [2024-04-21, 06:26:56](https://lobste.rs/s/m8woyp/glibc_cve_2024_2961_buffer_overflow_iconv) - [glibc CVE-2024-2961: Buffer overflow in iconv](https://www.openwall.com/lists/oss-security/2024/04/18/4)
 * [2024-04-21, 05:32:56](https://lobste.rs/s/amjayj/stanford_ai_syllabus_1980) - [Stanford AI Syllabus (1980)](https://www.saildart.org/AIQUAL.80[AM,DBL]1)
 * [2024-04-21, 03:18:36](https://lobste.rs/s/2hvrhw/tips_on_adding_json_output_your_cli_app) - [Tips on Adding JSON Output to Your CLI App](https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/)
@@ -19,7 +20,6 @@
 * [2024-04-19, 19:47:20](https://lobste.rs/s/kcyg0p/gwp_asan_sampling_based_detection_memory) - [GWP-ASan: Sampling-Based Detection of Memory-Safety Bugs in Production](https://arxiv.org/pdf/2311.09394v2.pdf)
 * [2024-04-19, 18:47:18](https://lobste.rs/s/kngpqq/zilog_calls_time_on_venerable_z80) - [Zilog Calls Time on the Venerable Z80](https://www.hackster.io/news/zilog-calls-time-on-the-venerable-z80-discontinues-the-standalone-z84c00-cpu-family-723594464754)
 * [2024-04-19, 17:19:18](https://lobste.rs/s/wh6yhk/why_we_run_freebsd_current_at_netflix) - [Why We Run FreeBSD CURRENT at Netflix](https://www.youtube.com/watch?v=q4TZxj-Dq7s)
-* [2024-04-19, 17:02:45](https://lobste.rs/s/5g4sbc/tla_web_explorer) - [TLA+ Web Explorer](https://will62794.github.io/tla-web)
 * [2024-04-19, 15:51:52](https://lobste.rs/s/4csakp/logpipe_automatic_syntax_highlighting) - [Logpipe: automatic syntax highlighting for development logs](https://github.com/EmNudge/logpipe)
 * [2024-04-19, 15:14:38](https://lobste.rs/s/04su6m/ai_isn_t_useless_is_it_worth_it) - [AI isn't useless. But is it worth it?](https://www.citationneeded.news/ai-isnt-useless/)
 * [2024-04-19, 14:24:24](https://lobste.rs/s/en5lqf/llvm_is_smarter_than_me) - [LLVM is Smarter Than Me](https://blog.sulami.xyz/posts/llvm-is-smarter-than-me/)
