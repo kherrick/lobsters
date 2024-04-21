@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-21, 12:48:03",
+      "https://lobste.rs/s/r0woru/dataflow_analyses_compiler"
+    ],
+    [
+      "Dataflow Analyses and Compiler Optimizations that Use Them, for Free – Embedded in Academia",
+      "https://blog.regehr.org/archives/2578"
+    ]
+  ],
+  [
+    [
       "2024-04-21, 10:12:55",
       "https://lobste.rs/s/s2ae4p/lunatik_lunatik_is_framework_for"
     ],
@@ -147,16 +157,6 @@
     [
       "TrueNAS CORE versus TrueNAS SCALE",
       "https://vermaden.wordpress.com/2024/04/20/truenas-core-versus-truenas-scale/"
-    ]
-  ],
-  [
-    [
-      "2024-04-19, 20:41:25",
-      "https://lobste.rs/s/e6g8o3/design_patterns_for_extracting_from_rest"
-    ],
-    [
-      "Design patterns for extracting from REST APIs",
-      "https://blog.sequin.io/design-patterns-for-extracting-from-rest-apis/"
     ]
   ],
   [
