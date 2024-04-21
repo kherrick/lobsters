@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-21, 06:26:56](https://lobste.rs/s/m8woyp/glibc_cve_2024_2961_buffer_overflow_iconv) - [glibc CVE-2024-2961: Buffer overflow in iconv](https://www.openwall.com/lists/oss-security/2024/04/18/4)
 * [2024-04-21, 05:32:56](https://lobste.rs/s/amjayj/stanford_ai_syllabus_1980) - [Stanford AI Syllabus (1980)](https://www.saildart.org/AIQUAL.80[AM,DBL]1)
 * [2024-04-21, 03:18:36](https://lobste.rs/s/2hvrhw/tips_on_adding_json_output_your_cli_app) - [Tips on Adding JSON Output to Your CLI App](https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/)
 * [2024-04-20, 23:59:31](https://lobste.rs/s/ah54q5/design_everyday_apis) - [The Design of Everyday APIs](https://www.roguelynn.com/talks/everyday-apis/)
@@ -13,7 +14,6 @@
 * [2024-04-20, 11:42:41](https://lobste.rs/s/ufm28r/do_not_buy_hisense_tvs_at_least_keep_them) - [Do not buy Hisense TVs (or at least keep them offline)](https://cohost.org/ghoulnoise/post/5286766-do-not-buy-hisense-t)
 * [2024-04-20, 01:10:58](https://lobste.rs/s/yngz9d/git_bisect_find) - [git bisect-find](https://gitlab.com/kevincox/git-bisect-find)
 * [2024-04-19, 22:44:38](https://lobste.rs/s/rrchqh/truenas_core_versus_truenas_scale) - [TrueNAS CORE versus TrueNAS SCALE](https://vermaden.wordpress.com/2024/04/20/truenas-core-versus-truenas-scale/)
-* [2024-04-19, 20:41:25](https://lobste.rs/s/e6g8o3/design_patterns_for_extracting_from_rest) - [Design patterns for extracting from REST APIs](https://blog.sequin.io/design-patterns-for-extracting-from-rest-apis/)
 * [2024-04-19, 20:35:17](https://lobste.rs/s/vm5nb2/porting_8_bit_sonic_2_ti_84_ce) - [Porting 8-bit Sonic 2 to the TI-84+ CE](https://medium.com/@grubbycoder/porting-8-bit-sonic-2-to-the-ti-84-ce-7ec99f9981c9)
 * [2024-04-19, 19:47:20](https://lobste.rs/s/kcyg0p/gwp_asan_sampling_based_detection_memory) - [GWP-ASan: Sampling-Based Detection of Memory-Safety Bugs in Production](https://arxiv.org/pdf/2311.09394v2.pdf)
 * [2024-04-19, 18:47:18](https://lobste.rs/s/kngpqq/zilog_calls_time_on_venerable_z80) - [Zilog Calls Time on the Venerable Z80](https://www.hackster.io/news/zilog-calls-time-on-the-venerable-z80-discontinues-the-standalone-z84c00-cpu-family-723594464754)
