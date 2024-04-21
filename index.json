@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-21, 15:13:16",
+      "https://lobste.rs/s/zczfzm/forge_tool_teach_formal_methods"
+    ],
+    [
+      "Forge: A Tool to Teach Formal Methods",
+      "https://blog.brownplt.org/2024/04/21/forge.html"
+    ]
+  ],
+  [
+    [
       "2024-04-21, 12:48:03",
       "https://lobste.rs/s/r0woru/dataflow_analyses_compiler"
     ],
@@ -167,16 +177,6 @@
     [
       "Porting 8-bit Sonic 2 to the TI-84+ CE",
       "https://medium.com/@grubbycoder/porting-8-bit-sonic-2-to-the-ti-84-ce-7ec99f9981c9"
-    ]
-  ],
-  [
-    [
-      "2024-04-19, 19:47:20",
-      "https://lobste.rs/s/kcyg0p/gwp_asan_sampling_based_detection_memory"
-    ],
-    [
-      "GWP-ASan: Sampling-Based Detection of Memory-Safety Bugs in Production",
-      "https://arxiv.org/pdf/2311.09394v2.pdf"
     ]
   ],
   [
