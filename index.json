@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-22, 11:45:47",
+      "https://lobste.rs/s/bjumde/only_two_log_levels_you_need_are_info_error"
+    ],
+    [
+      "The only two log levels you need are INFO and ERROR",
+      "https://ntietz.com/blog/the-only-two-log-levels-you-need-are-info-and-error/"
+    ]
+  ],
+  [
+    [
       "2024-04-22, 11:08:38",
       "https://lobste.rs/s/jerdne/what_are_you_doing_this_week"
     ],
@@ -197,16 +207,6 @@
     [
       "Tips on Adding JSON Output to Your CLI App",
       "https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/"
-    ]
-  ],
-  [
-    [
-      "2024-04-20, 16:36:42",
-      "https://lobste.rs/s/jsuyxh/entire_social_network_1_6gb_graphd_part_2"
-    ],
-    [
-      "An entire Social Network in 1.6GB (GraphD Part 2)",
-      "https://jazco.dev/2024/04/20/roaring-bitmaps/"
     ]
   ],
   [
