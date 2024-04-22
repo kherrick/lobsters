@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-22, 17:48:01](https://lobste.rs/s/mvzes6/first_come_first_served_impact_file) - [First Come First Served: The Impact of File Position on Code Review (2022)](https://arxiv.org/abs/2208.04259)
 * [2024-04-22, 16:09:22](https://lobste.rs/s/zq4jhx/practical_parsing_with_peg_cpp_peglib) - [Practical parsing with PEG and cpp-peglib](https://berthub.eu/articles/posts/practical-peg-parsing/)
 * [2024-04-22, 15:38:08](https://lobste.rs/s/s16hwy/options_for_accessing_llama_3_from) - [Options for accessing Llama 3 from the terminal using LLM](https://simonwillison.net/2024/Apr/22/llama-3/)
 * [2024-04-22, 13:51:29](https://lobste.rs/s/fzl9ba/automated_stitching_chip_images) - [Automated stitching of chip images](https://www.bunniestudios.com/blog/2024/automated-stitching-of-chip-images/)
@@ -23,7 +24,6 @@
 * [2024-04-21, 18:18:07](https://lobste.rs/s/0qvtim/open_letter_nixos_foundation) - [Open letter to the NixOS foundation](https://save-nix-together.org/)
 * [2024-04-21, 16:25:48](https://lobste.rs/s/vgxm7q/why_you_shouldn_t_run_bsd_on_pc) - [Why you shouldn't run a BSD on a PC](https://michal.sapka.me/bsd/why-not-bsd/)
 * [2024-04-21, 15:13:16](https://lobste.rs/s/zczfzm/forge_tool_teach_formal_methods) - [Forge: A Tool to Teach Formal Methods](https://blog.brownplt.org/2024/04/21/forge.html)
-* [2024-04-21, 12:48:03](https://lobste.rs/s/r0woru/dataflow_analyses_compiler) - [Dataflow Analyses and Compiler Optimizations that Use Them, for Free](https://blog.regehr.org/archives/2578)
 * [2024-04-21, 10:12:55](https://lobste.rs/s/s2ae4p/lunatik_lunatik_is_framework_for) - [lunatik: Lunatik is a framework for scripting the Linux kernel with Lua](https://github.com/luainkernel/lunatik)
 
 ## [Archives](archives/index.md)
