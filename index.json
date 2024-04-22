@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-22, 21:52:29",
+      "https://lobste.rs/s/d8qwvo/introducing_for_each_loops_for_hare"
+    ],
+    [
+      "Introducing for-each loops for Hare",
+      "https://harelang.org/blog/2024-04-01-introducing-for-each-loops-in-hare/"
+    ]
+  ],
+  [
+    [
       "2024-04-22, 21:28:09",
       "https://lobste.rs/s/vxf3ud/announcing_beatrice_finally_tagless"
     ],
@@ -57,16 +67,6 @@
     [
       "First Come First Served: The Impact of File Position on Code Review (2022)",
       "https://arxiv.org/abs/2208.04259"
-    ]
-  ],
-  [
-    [
-      "2024-04-22, 16:09:22",
-      "https://lobste.rs/s/zq4jhx/practical_parsing_with_peg_cpp_peglib"
-    ],
-    [
-      "Practical parsing with PEG and cpp-peglib",
-      "https://berthub.eu/articles/posts/practical-peg-parsing/"
     ]
   ],
   [
