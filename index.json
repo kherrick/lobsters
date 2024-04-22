@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-22, 18:22:15",
+      "https://lobste.rs/s/hut0to/performance_impact_c_s_final_keyword"
+    ],
+    [
+      "The Performance Impact of C++'s `final` Keyword",
+      "https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/"
+    ]
+  ],
+  [
+    [
       "2024-04-22, 17:48:01",
       "https://lobste.rs/s/mvzes6/first_come_first_served_impact_file"
     ],
@@ -227,16 +237,6 @@
     [
       "Why you shouldn't run a BSD on a PC",
       "https://michal.sapka.me/bsd/why-not-bsd/"
-    ]
-  ],
-  [
-    [
-      "2024-04-21, 15:13:16",
-      "https://lobste.rs/s/zczfzm/forge_tool_teach_formal_methods"
-    ],
-    [
-      "Forge: A Tool to Teach Formal Methods",
-      "https://blog.brownplt.org/2024/04/21/forge.html"
     ]
   ],
   [
