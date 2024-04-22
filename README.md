@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-22, 21:52:29](https://lobste.rs/s/d8qwvo/introducing_for_each_loops_for_hare) - [Introducing for-each loops for Hare](https://harelang.org/blog/2024-04-01-introducing-for-each-loops-in-hare/)
 * [2024-04-22, 21:28:09](https://lobste.rs/s/vxf3ud/announcing_beatrice_finally_tagless) - [Announcing Beatrice: A finally tagless, dependently typed, self-aware programming language](https://hirrolot.github.io/posts/announcing-beatrice.html)
 * [2024-04-22, 21:20:57](https://lobste.rs/s/grkmii/bubble_sort_curve) - [The Bubble Sort Curve](https://youtu.be/Gm8v_MR7TGk)
 * [2024-04-22, 20:45:12](https://lobste.rs/s/bk1odi/what_is_metropolis_algorithm) - [What is the Metropolis algorithm?](https://jameshfisher.com/2024/04/18/metropolis-algorithm/)
 * [2024-04-22, 20:15:52](https://lobste.rs/s/g4mu2o/voyager_1_resumes_sending_engineering) - [Voyager 1 Resumes Sending Engineering Updates to Earth](https://blogs.nasa.gov/voyager/2024/04/22/nasas-voyager-1-resumes-sending-engineering-updates-to-earth/)
 * [2024-04-22, 18:22:15](https://lobste.rs/s/hut0to/performance_impact_c_s_final_keyword) - [The Performance Impact of C++'s `final` Keyword](https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/)
 * [2024-04-22, 17:48:01](https://lobste.rs/s/mvzes6/first_come_first_served_impact_file) - [First Come First Served: The Impact of File Position on Code Review (2022)](https://arxiv.org/abs/2208.04259)
-* [2024-04-22, 16:09:22](https://lobste.rs/s/zq4jhx/practical_parsing_with_peg_cpp_peglib) - [Practical parsing with PEG and cpp-peglib](https://berthub.eu/articles/posts/practical-peg-parsing/)
 * [2024-04-22, 15:38:08](https://lobste.rs/s/s16hwy/options_for_accessing_llama_3_from) - [Options for accessing Llama 3 from the terminal using LLM](https://simonwillison.net/2024/Apr/22/llama-3/)
 * [2024-04-22, 13:51:29](https://lobste.rs/s/fzl9ba/automated_stitching_chip_images) - [Automated stitching of chip images](https://www.bunniestudios.com/blog/2024/automated-stitching-of-chip-images/)
 * [2024-04-22, 13:27:06](https://lobste.rs/s/ebt4ys/secure_boot_tpm_backed_full_disk) - [Secure Boot & TPM-backed Full Disk Encryption on NixOS](https://jnsgr.uk/2024/04/nixos-secure-boot-tpm-fde/)

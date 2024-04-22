@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
+* [2024-04-22, 21:52:29](https://lobste.rs/s/d8qwvo/introducing_for_each_loops_for_hare) - [Introducing for-each loops for Hare](https://harelang.org/blog/2024-04-01-introducing-for-each-loops-in-hare/)
 * [2024-04-22, 21:28:09](https://lobste.rs/s/vxf3ud/announcing_beatrice_finally_tagless) - [Announcing Beatrice: A finally tagless, dependently typed, self-aware programming language](https://hirrolot.github.io/posts/announcing-beatrice.html)
 * [2024-04-22, 21:20:57](https://lobste.rs/s/grkmii/bubble_sort_curve) - [The Bubble Sort Curve](https://youtu.be/Gm8v_MR7TGk)
 * [2024-04-22, 20:45:12](https://lobste.rs/s/bk1odi/what_is_metropolis_algorithm) - [What is the Metropolis algorithm?](https://jameshfisher.com/2024/04/18/metropolis-algorithm/)
