@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-22, 13:51:29](https://lobste.rs/s/fzl9ba/automated_stitching_chip_images) - [Automated stitching of chip images](https://www.bunniestudios.com/blog/2024/automated-stitching-of-chip-images/)
 * [2024-04-22, 13:27:06](https://lobste.rs/s/ebt4ys/secure_boot_tpm_backed_full_disk) - [Secure Boot & TPM-backed Full Disk Encryption on NixOS](https://jnsgr.uk/2024/04/nixos-secure-boot-tpm-fde/)
 * [2024-04-22, 12:05:40](https://lobste.rs/s/i1f3xl/making_flute_controlled_mouse) - [Making a flute controlled mouse](https://0110.be/posts/Making_a_flute_controlled_mouse)
 * [2024-04-22, 11:56:38](https://lobste.rs/s/9hgrkl/logtape_simple_logging_library_with_zero) - [LogTape: Simple logging library with zero dependencies for Deno/Node.js/Bun/browsers](https://github.com/dahlia/logtape)
@@ -22,7 +23,6 @@
 * [2024-04-21, 15:13:16](https://lobste.rs/s/zczfzm/forge_tool_teach_formal_methods) - [Forge: A Tool to Teach Formal Methods](https://blog.brownplt.org/2024/04/21/forge.html)
 * [2024-04-21, 12:48:03](https://lobste.rs/s/r0woru/dataflow_analyses_compiler) - [Dataflow Analyses and Compiler Optimizations that Use Them, for Free](https://blog.regehr.org/archives/2578)
 * [2024-04-21, 10:12:55](https://lobste.rs/s/s2ae4p/lunatik_lunatik_is_framework_for) - [lunatik: Lunatik is a framework for scripting the Linux kernel with Lua](https://github.com/luainkernel/lunatik)
-* [2024-04-21, 03:18:36](https://lobste.rs/s/2hvrhw/tips_on_adding_json_output_your_cli_app) - [Tips on Adding JSON Output to Your CLI App](https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/)
 * [2024-04-20, 12:38:07](https://lobste.rs/s/fa4svu/zig_0_12_0_release_notes) - [Zig 0.12.0 Release Notes](https://ziglang.org/download/0.12.0/release-notes.html)
 * [2024-04-20, 11:42:41](https://lobste.rs/s/ufm28r/do_not_buy_hisense_tvs_at_least_keep_them) - [Do not buy Hisense TVs (or at least keep them offline)](https://cohost.org/ghoulnoise/post/5286766-do-not-buy-hisense-t)
 
