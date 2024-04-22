@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-04-22, 20:45:12",
-      "https://lobste.rs/s/bcncfl/what_is_metropolis_algorithm"
-    ],
-    [
-      "What is the Metropolis algorithm?",
-      "https://jameshfisher.com/2024/04/18/metropolis-algorithm/"
-    ]
-  ],
-  [
-    [
       "2024-04-22, 20:15:52",
       "https://lobste.rs/s/g4mu2o/voyager_1_resumes_sending_engineering"
     ],
@@ -247,6 +237,16 @@
     [
       "Why you shouldn't run a BSD on a PC",
       "https://michal.sapka.me/bsd/why-not-bsd/"
+    ]
+  ],
+  [
+    [
+      "2024-04-21, 10:12:55",
+      "https://lobste.rs/s/s2ae4p/lunatik_lunatik_is_framework_for"
+    ],
+    [
+      "lunatik: Lunatik is a framework for scripting the Linux kernel with Lua",
+      "https://github.com/luainkernel/lunatik"
     ]
   ]
 ]
