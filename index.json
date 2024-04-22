@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-22, 21:28:09",
+      "https://lobste.rs/s/vxf3ud/announcing_beatrice_finally_tagless"
+    ],
+    [
+      "Announcing Beatrice: A finally tagless, dependently typed, self-aware programming language",
+      "https://hirrolot.github.io/posts/announcing-beatrice.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-22, 21:20:57",
+      "https://lobste.rs/s/grkmii/bubble_sort_curve"
+    ],
+    [
+      "The Bubble Sort Curve",
+      "https://youtu.be/Gm8v_MR7TGk"
+    ]
+  ],
+  [
+    [
       "2024-04-22, 20:45:12",
       "https://lobste.rs/s/bk1odi/what_is_metropolis_algorithm"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-04-22, 04:03:43",
-      "https://lobste.rs/s/fktv1f/cross_compiling_c_rust_win32_again"
-    ],
-    [
-      "Cross compiling C/Rust to win32, again",
-      "https://neugierig.org/software/blog/2024/04/cross-compile-2.html"
-    ]
-  ],
-  [
-    [
       "2024-04-22, 03:13:20",
       "https://lobste.rs/s/faglia/shared_libs_rpath_runtime_linker"
     ],
@@ -237,16 +247,6 @@
     [
       "Why you shouldn't run a BSD on a PC",
       "https://michal.sapka.me/bsd/why-not-bsd/"
-    ]
-  ],
-  [
-    [
-      "2024-04-21, 10:12:55",
-      "https://lobste.rs/s/s2ae4p/lunatik_lunatik_is_framework_for"
-    ],
-    [
-      "lunatik: Lunatik is a framework for scripting the Linux kernel with Lua",
-      "https://github.com/luainkernel/lunatik"
     ]
   ]
 ]
