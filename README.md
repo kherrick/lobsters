@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-22, 22:51:56](https://lobste.rs/s/kruxyr/good_ideas_computer_science) - [Good Ideas in Computer Science](https://danielchasehooper.com/posts/good-ideas-in-cs/)
 * [2024-04-22, 21:52:29](https://lobste.rs/s/d8qwvo/introducing_for_each_loops_for_hare) - [Introducing for-each loops for Hare](https://harelang.org/blog/2024-04-01-introducing-for-each-loops-in-hare/)
 * [2024-04-22, 21:28:09](https://lobste.rs/s/vxf3ud/announcing_beatrice_finally_tagless) - [Announcing Beatrice: A finally tagless, dependently typed, self-aware programming language](https://hirrolot.github.io/posts/announcing-beatrice.html)
 * [2024-04-22, 21:20:57](https://lobste.rs/s/grkmii/bubble_sort_curve) - [The Bubble Sort Curve](https://youtu.be/Gm8v_MR7TGk)
@@ -19,7 +20,6 @@
 * [2024-04-22, 10:08:04](https://lobste.rs/s/lsaf88/interview_with_matt_godbolt_on_early) - [Interview with Matt Godbolt on early microprocessors, the games industry, and performance optimization](https://microarch.club/episodes/101/)
 * [2024-04-22, 09:01:15](https://lobste.rs/s/ltwv41/windows_registry_adventure_part_1) - [The Windows Registry Adventure - Part 1](https://googleprojectzero.blogspot.com/2024/04/the-windows-registry-adventure-1.html)
 * [2024-04-22, 06:47:11](https://lobste.rs/s/tjwfvw/badkeys_tool_can_detect_xz_backdoor_rsa) - [badkeys tool can detect xz backdoor RSA keys](https://github.com/badkeys/badkeys/releases/tag/v0.0.7)
-* [2024-04-22, 04:03:43](https://lobste.rs/s/fktv1f/cross_compiling_c_rust_win32_again) - [Cross compiling C/Rust to win32, again](https://neugierig.org/software/blog/2024/04/cross-compile-2.html)
 * [2024-04-22, 03:13:20](https://lobste.rs/s/faglia/shared_libs_rpath_runtime_linker) - [Shared libs, rpath and the runtime linker](https://carlosrdrz.dev/shared-libs-rpath-and-the-runtime-linker)
 * [2024-04-22, 01:43:26](https://lobste.rs/s/5mtkev/what_s_new_go_1_22_cmp) - [What’s New in Go 1.22: cmp.Or](https://blog.carlana.net/post/2024/golang-cmp-or-uses-and-history/)
 * [2024-04-22, 01:43:03](https://lobste.rs/s/eicz7a/inside_super_nintendo_cartridges) - [Inside the Super Nintendo cartridges](https://fabiensanglard.net/snes_carts/index.html)
