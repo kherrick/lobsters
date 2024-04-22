@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-22, 04:03:43",
+      "https://lobste.rs/s/fktv1f/cross_compiling_c_rust_win32_again"
+    ],
+    [
+      "Cross compiling C/Rust to win32, again",
+      "https://neugierig.org/software/blog/2024/04/cross-compile-2.html"
+    ]
+  ],
+  [
+    [
       "2024-04-22, 03:13:20",
       "https://lobste.rs/s/faglia/shared_libs_rpath_runtime_linker"
     ],
@@ -217,16 +227,6 @@
     [
       "git bisect-find",
       "https://gitlab.com/kevincox/git-bisect-find"
-    ]
-  ],
-  [
-    [
-      "2024-04-19, 18:47:18",
-      "https://lobste.rs/s/kngpqq/zilog_calls_time_on_venerable_z80"
-    ],
-    [
-      "Zilog Calls Time on the Venerable Z80",
-      "https://www.hackster.io/news/zilog-calls-time-on-the-venerable-z80-discontinues-the-standalone-z84c00-cpu-family-723594464754"
     ]
   ],
   [
