@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-22, 19:52:40](https://lobste.rs/s/cuexsj/builders_are_happier_what_happens_when_ai) - [Builders Are Happier But What Happens When AI Takes Over](https://cybernetist.com/2024/04/22/builders-are-happier-what-happens-when-ai-takes-over/)
 * [2024-04-22, 18:22:15](https://lobste.rs/s/hut0to/performance_impact_c_s_final_keyword) - [The Performance Impact of C++'s `final` Keyword](https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/)
 * [2024-04-22, 17:48:01](https://lobste.rs/s/mvzes6/first_come_first_served_impact_file) - [First Come First Served: The Impact of File Position on Code Review (2022)](https://arxiv.org/abs/2208.04259)
 * [2024-04-22, 16:09:22](https://lobste.rs/s/zq4jhx/practical_parsing_with_peg_cpp_peglib) - [Practical parsing with PEG and cpp-peglib](https://berthub.eu/articles/posts/practical-peg-parsing/)
@@ -13,7 +14,6 @@
 * [2024-04-22, 10:26:46](https://lobste.rs/s/rw05ny/are_aarch64_atomics_really_this) - [Are aarch64 atomics really this sensitive?](https://eighty-twenty.org/2024/04/22/aarch64-atomics)
 * [2024-04-22, 10:08:50](https://lobste.rs/s/nmzfti/address_sanitizer_for_bare_metal) - [Address Sanitizer for bare-metal firmware](https://security.googleblog.com/2024/03/address-sanitizer-for-bare-metal.html)
 * [2024-04-22, 10:08:04](https://lobste.rs/s/lsaf88/interview_with_matt_godbolt_on_early) - [Interview with Matt Godbolt on early microprocessors, the games industry, and performance optimization](https://microarch.club/episodes/101/)
-* [2024-04-22, 09:25:13](https://lobste.rs/s/fmfnws/deeper_look_inside_postgresql) - [A Deeper Look Inside PostgreSQL Visibility Check Mechanism](https://www.highgo.ca/2024/04/19/a-deeper-look-inside-postgresql-visibility-check-mechanism/)
 * [2024-04-22, 09:01:15](https://lobste.rs/s/ltwv41/windows_registry_adventure_part_1) - [The Windows Registry Adventure - Part 1](https://googleprojectzero.blogspot.com/2024/04/the-windows-registry-adventure-1.html)
 * [2024-04-22, 06:47:11](https://lobste.rs/s/tjwfvw/badkeys_tool_can_detect_xz_backdoor_rsa) - [badkeys tool can detect xz backdoor RSA keys](https://github.com/badkeys/badkeys/releases/tag/v0.0.7)
 * [2024-04-22, 05:32:58](https://lobste.rs/s/mob5fv/future_ruby_rails_age_ai) - [The Future of Ruby and Rails in the Age of AI](https://obie.medium.com/the-future-of-ruby-and-rails-in-the-age-of-ai-8f1acea31bc2)

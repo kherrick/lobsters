@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
+* [2024-04-22, 19:52:40](https://lobste.rs/s/cuexsj/builders_are_happier_what_happens_when_ai) - [Builders Are Happier But What Happens When AI Takes Over](https://cybernetist.com/2024/04/22/builders-are-happier-what-happens-when-ai-takes-over/)
 * [2024-04-22, 18:22:15](https://lobste.rs/s/hut0to/performance_impact_c_s_final_keyword) - [The Performance Impact of C++'s `final` Keyword](https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/)
 * [2024-04-22, 17:48:01](https://lobste.rs/s/mvzes6/first_come_first_served_impact_file) - [First Come First Served: The Impact of File Position on Code Review (2022)](https://arxiv.org/abs/2208.04259)
 * [2024-04-22, 16:09:22](https://lobste.rs/s/zq4jhx/practical_parsing_with_peg_cpp_peglib) - [Practical parsing with PEG and cpp-peglib](https://berthub.eu/articles/posts/practical-peg-parsing/)
