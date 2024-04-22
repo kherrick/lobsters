@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-04-22, 16:09:22",
-      "https://lobste.rs/s/zq4jhx/practical_parsing_with_peg_cpp_peglib"
-    ],
-    [
-      "Practical parsing with PEG and cpp-peglib",
-      "https://berthub.eu/articles/posts/practical-peg-parsing/"
-    ]
-  ],
-  [
-    [
       "2024-04-22, 15:38:08",
       "https://lobste.rs/s/s16hwy/options_for_accessing_llama_3_from"
     ],
@@ -197,6 +187,16 @@
     [
       "badkeys tool can detect xz backdoor RSA keys",
       "https://github.com/badkeys/badkeys/releases/tag/v0.0.7"
+    ]
+  ],
+  [
+    [
+      "2024-04-22, 04:03:43",
+      "https://lobste.rs/s/fktv1f/cross_compiling_c_rust_win32_again"
+    ],
+    [
+      "Cross compiling C/Rust to win32, again",
+      "https://neugierig.org/software/blog/2024/04/cross-compile-2.html"
     ]
   ],
   [
