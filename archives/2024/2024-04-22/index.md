@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
+* [2024-04-22, 16:09:22](https://lobste.rs/s/zq4jhx/practical_parsing_with_peg_cpp_peglib) - [Practical parsing with PEG and cpp-peglib](https://berthub.eu/articles/posts/practical-peg-parsing/)
 * [2024-04-22, 15:38:08](https://lobste.rs/s/s16hwy/options_for_accessing_llama_3_from) - [Options for accessing Llama 3 from the terminal using LLM](https://simonwillison.net/2024/Apr/22/llama-3/)
 * [2024-04-22, 13:51:29](https://lobste.rs/s/fzl9ba/automated_stitching_chip_images) - [Automated stitching of chip images](https://www.bunniestudios.com/blog/2024/automated-stitching-of-chip-images/)
 * [2024-04-22, 13:27:06](https://lobste.rs/s/ebt4ys/secure_boot_tpm_backed_full_disk) - [Secure Boot & TPM-backed Full Disk Encryption on NixOS](https://jnsgr.uk/2024/04/nixos-secure-boot-tpm-fde/)
