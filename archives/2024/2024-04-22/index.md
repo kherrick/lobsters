@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
+* [2024-04-22, 21:28:09](https://lobste.rs/s/vxf3ud/announcing_beatrice_finally_tagless) - [Announcing Beatrice: A finally tagless, dependently typed, self-aware programming language](https://hirrolot.github.io/posts/announcing-beatrice.html)
+* [2024-04-22, 21:20:57](https://lobste.rs/s/grkmii/bubble_sort_curve) - [The Bubble Sort Curve](https://youtu.be/Gm8v_MR7TGk)
 * [2024-04-22, 20:45:12](https://lobste.rs/s/bk1odi/what_is_metropolis_algorithm) - [What is the Metropolis algorithm?](https://jameshfisher.com/2024/04/18/metropolis-algorithm/)
 * [2024-04-22, 20:15:52](https://lobste.rs/s/g4mu2o/voyager_1_resumes_sending_engineering) - [Voyager 1 Resumes Sending Engineering Updates to Earth](https://blogs.nasa.gov/voyager/2024/04/22/nasas-voyager-1-resumes-sending-engineering-updates-to-earth/)
 * [2024-04-22, 19:52:40](https://lobste.rs/s/cuexsj/builders_are_happier_what_happens_when_ai) - [Builders Are Happier But What Happens When AI Takes Over](https://cybernetist.com/2024/04/22/builders-are-happier-what-happens-when-ai-takes-over/)

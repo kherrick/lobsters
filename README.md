@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-22, 21:28:09](https://lobste.rs/s/vxf3ud/announcing_beatrice_finally_tagless) - [Announcing Beatrice: A finally tagless, dependently typed, self-aware programming language](https://hirrolot.github.io/posts/announcing-beatrice.html)
+* [2024-04-22, 21:20:57](https://lobste.rs/s/grkmii/bubble_sort_curve) - [The Bubble Sort Curve](https://youtu.be/Gm8v_MR7TGk)
 * [2024-04-22, 20:45:12](https://lobste.rs/s/bk1odi/what_is_metropolis_algorithm) - [What is the Metropolis algorithm?](https://jameshfisher.com/2024/04/18/metropolis-algorithm/)
 * [2024-04-22, 20:15:52](https://lobste.rs/s/g4mu2o/voyager_1_resumes_sending_engineering) - [Voyager 1 Resumes Sending Engineering Updates to Earth](https://blogs.nasa.gov/voyager/2024/04/22/nasas-voyager-1-resumes-sending-engineering-updates-to-earth/)
 * [2024-04-22, 18:22:15](https://lobste.rs/s/hut0to/performance_impact_c_s_final_keyword) - [The Performance Impact of C++'s `final` Keyword](https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/)
@@ -18,13 +20,11 @@
 * [2024-04-22, 09:01:15](https://lobste.rs/s/ltwv41/windows_registry_adventure_part_1) - [The Windows Registry Adventure - Part 1](https://googleprojectzero.blogspot.com/2024/04/the-windows-registry-adventure-1.html)
 * [2024-04-22, 06:47:11](https://lobste.rs/s/tjwfvw/badkeys_tool_can_detect_xz_backdoor_rsa) - [badkeys tool can detect xz backdoor RSA keys](https://github.com/badkeys/badkeys/releases/tag/v0.0.7)
 * [2024-04-22, 05:32:58](https://lobste.rs/s/mob5fv/future_ruby_rails_age_ai) - [The Future of Ruby and Rails in the Age of AI](https://obie.medium.com/the-future-of-ruby-and-rails-in-the-age-of-ai-8f1acea31bc2)
-* [2024-04-22, 04:03:43](https://lobste.rs/s/fktv1f/cross_compiling_c_rust_win32_again) - [Cross compiling C/Rust to win32, again](https://neugierig.org/software/blog/2024/04/cross-compile-2.html)
 * [2024-04-22, 03:13:20](https://lobste.rs/s/faglia/shared_libs_rpath_runtime_linker) - [Shared libs, rpath and the runtime linker](https://carlosrdrz.dev/shared-libs-rpath-and-the-runtime-linker)
 * [2024-04-22, 01:43:26](https://lobste.rs/s/5mtkev/what_s_new_go_1_22_cmp) - [What’s New in Go 1.22: cmp.Or](https://blog.carlana.net/post/2024/golang-cmp-or-uses-and-history/)
 * [2024-04-22, 01:43:03](https://lobste.rs/s/eicz7a/inside_super_nintendo_cartridges) - [Inside the Super Nintendo cartridges](https://fabiensanglard.net/snes_carts/index.html)
 * [2024-04-21, 18:18:07](https://lobste.rs/s/0qvtim/open_letter_nixos_foundation) - [Open letter to the NixOS foundation](https://save-nix-together.org/)
 * [2024-04-21, 16:25:48](https://lobste.rs/s/vgxm7q/why_you_shouldn_t_run_bsd_on_pc) - [Why you shouldn't run a BSD on a PC](https://michal.sapka.me/bsd/why-not-bsd/)
-* [2024-04-21, 10:12:55](https://lobste.rs/s/s2ae4p/lunatik_lunatik_is_framework_for) - [lunatik: Lunatik is a framework for scripting the Linux kernel with Lua](https://github.com/luainkernel/lunatik)
 
 ## [Archives](archives/index.md)
 
