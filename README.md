@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-22, 10:26:46](https://lobste.rs/s/rw05ny/are_aarch64_atomics_really_this) - [Are aarch64 atomics really this sensitive?](https://eighty-twenty.org/2024/04/22/aarch64-atomics)
+* [2024-04-22, 10:08:50](https://lobste.rs/s/nmzfti/address_sanitizer_for_bare_metal) - [Address Sanitizer for bare-metal firmware](https://security.googleblog.com/2024/03/address-sanitizer-for-bare-metal.html)
 * [2024-04-22, 10:08:04](https://lobste.rs/s/lsaf88/interview_with_matt_godbolt_on_early) - [Interview with Matt Godbolt on early microprocessors, the games industry, and performance optimization](https://microarch.club/episodes/101/)
 * [2024-04-22, 09:25:13](https://lobste.rs/s/fmfnws/deeper_look_inside_postgresql) - [A Deeper Look Inside PostgreSQL Visibility Check Mechanism](https://www.highgo.ca/2024/04/19/a-deeper-look-inside-postgresql-visibility-check-mechanism/)
 * [2024-04-22, 09:01:15](https://lobste.rs/s/ltwv41/windows_registry_adventure_part_1) - [The Windows Registry Adventure - Part 1](https://googleprojectzero.blogspot.com/2024/04/the-windows-registry-adventure-1.html)
@@ -17,8 +19,6 @@
 * [2024-04-21, 10:12:55](https://lobste.rs/s/s2ae4p/lunatik_lunatik_is_framework_for) - [lunatik: Lunatik is a framework for scripting the Linux kernel with Lua](https://github.com/luainkernel/lunatik)
 * [2024-04-21, 06:26:56](https://lobste.rs/s/m8woyp/glibc_cve_2024_2961_buffer_overflow_iconv) - [glibc CVE-2024-2961: Buffer overflow in iconv](https://www.openwall.com/lists/oss-security/2024/04/18/4)
 * [2024-04-21, 03:18:36](https://lobste.rs/s/2hvrhw/tips_on_adding_json_output_your_cli_app) - [Tips on Adding JSON Output to Your CLI App](https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/)
-* [2024-04-20, 23:59:31](https://lobste.rs/s/ah54q5/design_everyday_apis) - [The Design of Everyday APIs](https://www.roguelynn.com/talks/everyday-apis/)
-* [2024-04-20, 21:05:00](https://lobste.rs/s/s7mpwd/thetawave_physics_based_space_shooter) - [thetawave: A physics based, space shooter game made with Rust and the Bevy engine](https://github.com/thetawavegame/thetawave)
 * [2024-04-20, 18:34:08](https://lobste.rs/s/kltbi5/rust_stream_api_visualized_exposed) - [Rust Stream API visualized and exposed](https://github.com/alexpusch/rust-magic-patterns/blob/master/rust-stream-visualized/Readme.md)
 * [2024-04-20, 16:36:42](https://lobste.rs/s/jsuyxh/entire_social_network_1_6gb_graphd_part_2) - [An entire Social Network in 1.6GB (GraphD Part 2)](https://jazco.dev/2024/04/20/roaring-bitmaps/)
 * [2024-04-20, 14:38:42](https://lobste.rs/s/8gbxet/coroutines_effects) - [Coroutines and effects](https://without.boats/blog/coroutines-and-effects/)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
+* [2024-04-22, 10:26:46](https://lobste.rs/s/rw05ny/are_aarch64_atomics_really_this) - [Are aarch64 atomics really this sensitive?](https://eighty-twenty.org/2024/04/22/aarch64-atomics)
+* [2024-04-22, 10:08:50](https://lobste.rs/s/nmzfti/address_sanitizer_for_bare_metal) - [Address Sanitizer for bare-metal firmware](https://security.googleblog.com/2024/03/address-sanitizer-for-bare-metal.html)
 * [2024-04-22, 10:08:04](https://lobste.rs/s/lsaf88/interview_with_matt_godbolt_on_early) - [Interview with Matt Godbolt on early microprocessors, the games industry, and performance optimization](https://microarch.club/episodes/101/)
 * [2024-04-22, 09:25:13](https://lobste.rs/s/fmfnws/deeper_look_inside_postgresql) - [A Deeper Look Inside PostgreSQL Visibility Check Mechanism](https://www.highgo.ca/2024/04/19/a-deeper-look-inside-postgresql-visibility-check-mechanism/)
 * [2024-04-22, 09:01:15](https://lobste.rs/s/ltwv41/windows_registry_adventure_part_1) - [The Windows Registry Adventure - Part 1](https://googleprojectzero.blogspot.com/2024/04/the-windows-registry-adventure-1.html)
