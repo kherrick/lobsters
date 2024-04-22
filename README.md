@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-22, 07:30:11](https://lobste.rs/s/wkmxne/on_llamafile_not_making_sense) - [On Llamafile not making sense](https://gist.github.com/rain-1/3f780d55d37c12f22a9d2dbfcc39ee52)
 * [2024-04-22, 06:47:11](https://lobste.rs/s/tjwfvw/badkeys_tool_can_detect_xz_backdoor_rsa) - [badkeys tool can detect xz backdoor RSA keys](https://github.com/badkeys/badkeys/releases/tag/v0.0.7)
 * [2024-04-22, 05:32:58](https://lobste.rs/s/mob5fv/future_ruby_rails_age_ai) - [The Future of Ruby and Rails in the Age of AI](https://obie.medium.com/the-future-of-ruby-and-rails-in-the-age-of-ai-8f1acea31bc2)
 * [2024-04-22, 04:03:43](https://lobste.rs/s/fktv1f/cross_compiling_c_rust_win32_again) - [Cross compiling C/Rust to win32, again](https://neugierig.org/software/blog/2024/04/cross-compile-2.html)
@@ -24,7 +25,6 @@
 * [2024-04-20, 12:46:35](https://lobste.rs/s/ujjyxn/parsing_all) - [Parsing and all that](https://blog.jeffsmits.net/compsci/2024/04/07/parsing-and-all-that/)
 * [2024-04-20, 12:38:07](https://lobste.rs/s/fa4svu/zig_0_12_0_release_notes) - [Zig 0.12.0 Release Notes](https://ziglang.org/download/0.12.0/release-notes.html)
 * [2024-04-20, 11:42:41](https://lobste.rs/s/ufm28r/do_not_buy_hisense_tvs_at_least_keep_them) - [Do not buy Hisense TVs (or at least keep them offline)](https://cohost.org/ghoulnoise/post/5286766-do-not-buy-hisense-t)
-* [2024-04-19, 15:14:38](https://lobste.rs/s/04su6m/ai_isn_t_useless_is_it_worth_it) - [AI isn't useless. But is it worth it?](https://www.citationneeded.news/ai-isnt-useless/)
 
 ## [Archives](archives/index.md)
 
