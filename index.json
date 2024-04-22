@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-04-22, 01:43:26",
+      "https://lobste.rs/s/5mtkev/what_s_new_go_1_22_cmp"
+    ],
+    [
+      "What’s New in Go 1.22: cmp.Or",
+      "https://blog.carlana.net/post/2024/golang-cmp-or-uses-and-history/"
+    ]
+  ],
+  [
+    [
+      "2024-04-22, 01:43:03",
+      "https://lobste.rs/s/eicz7a/inside_super_nintendo_cartridges"
+    ],
+    [
+      "Inside the Super Nintendo cartridges",
+      "https://fabiensanglard.net/snes_carts/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-22, 01:26:31",
+      "https://lobste.rs/s/kjyy3n/c_c_solving_recursive_equations"
+    ],
+    [
+      "C&C -  Solving Recursive Equations",
+      "https://jozefg.bitbucket.io/posts/2015-08-14-solve-domains.html"
+    ]
+  ],
+  [
+    [
       "2024-04-21, 18:18:07",
       "https://lobste.rs/s/0qvtim/open_letter_nixos_foundation"
     ],
@@ -181,26 +211,6 @@
   ],
   [
     [
-      "2024-04-19, 22:44:38",
-      "https://lobste.rs/s/rrchqh/truenas_core_versus_truenas_scale"
-    ],
-    [
-      "TrueNAS CORE versus TrueNAS SCALE",
-      "https://vermaden.wordpress.com/2024/04/20/truenas-core-versus-truenas-scale/"
-    ]
-  ],
-  [
-    [
-      "2024-04-19, 20:35:17",
-      "https://lobste.rs/s/vm5nb2/porting_8_bit_sonic_2_ti_84_ce"
-    ],
-    [
-      "Porting 8-bit Sonic 2 to the TI-84+ CE",
-      "https://medium.com/@grubbycoder/porting-8-bit-sonic-2-to-the-ti-84-ce-7ec99f9981c9"
-    ]
-  ],
-  [
-    [
       "2024-04-19, 18:47:18",
       "https://lobste.rs/s/kngpqq/zilog_calls_time_on_venerable_z80"
     ],
@@ -237,16 +247,6 @@
     [
       "LLVM is Smarter Than Me",
       "https://blog.sulami.xyz/posts/llvm-is-smarter-than-me/"
-    ]
-  ],
-  [
-    [
-      "2024-04-19, 12:06:17",
-      "https://lobste.rs/s/xlpjaz/3_important_things_i_overlooked_during"
-    ],
-    [
-      "3 important things I overlooked during code reviews",
-      "https://www.piglei.com/articles/3-important-things-I-overlooked-during-cr/"
     ]
   ]
 ]
