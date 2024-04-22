@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
+* [2024-04-22, 10:08:04](https://lobste.rs/s/lsaf88/interview_with_matt_godbolt_on_early) - [Interview with Matt Godbolt on early microprocessors, the games industry, and performance optimization](https://microarch.club/episodes/101/)
 * [2024-04-22, 09:25:13](https://lobste.rs/s/fmfnws/deeper_look_inside_postgresql) - [A Deeper Look Inside PostgreSQL Visibility Check Mechanism](https://www.highgo.ca/2024/04/19/a-deeper-look-inside-postgresql-visibility-check-mechanism/)
 * [2024-04-22, 09:01:15](https://lobste.rs/s/ltwv41/windows_registry_adventure_part_1) - [The Windows Registry Adventure - Part 1](https://googleprojectzero.blogspot.com/2024/04/the-windows-registry-adventure-1.html)
 * [2024-04-22, 07:30:11](https://lobste.rs/s/wkmxne/on_llamafile_not_making_sense) - [On Llamafile not making sense](https://gist.github.com/rain-1/3f780d55d37c12f22a9d2dbfcc39ee52)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-22, 10:08:04](https://lobste.rs/s/lsaf88/interview_with_matt_godbolt_on_early) - [Interview with Matt Godbolt on early microprocessors, the games industry, and performance optimization](https://microarch.club/episodes/101/)
 * [2024-04-22, 09:25:13](https://lobste.rs/s/fmfnws/deeper_look_inside_postgresql) - [A Deeper Look Inside PostgreSQL Visibility Check Mechanism](https://www.highgo.ca/2024/04/19/a-deeper-look-inside-postgresql-visibility-check-mechanism/)
 * [2024-04-22, 09:01:15](https://lobste.rs/s/ltwv41/windows_registry_adventure_part_1) - [The Windows Registry Adventure - Part 1](https://googleprojectzero.blogspot.com/2024/04/the-windows-registry-adventure-1.html)
 * [2024-04-22, 06:47:11](https://lobste.rs/s/tjwfvw/badkeys_tool_can_detect_xz_backdoor_rsa) - [badkeys tool can detect xz backdoor RSA keys](https://github.com/badkeys/badkeys/releases/tag/v0.0.7)
@@ -15,7 +16,6 @@
 * [2024-04-21, 12:48:03](https://lobste.rs/s/r0woru/dataflow_analyses_compiler) - [Dataflow Analyses and Compiler Optimizations that Use Them, for Free](https://blog.regehr.org/archives/2578)
 * [2024-04-21, 10:12:55](https://lobste.rs/s/s2ae4p/lunatik_lunatik_is_framework_for) - [lunatik: Lunatik is a framework for scripting the Linux kernel with Lua](https://github.com/luainkernel/lunatik)
 * [2024-04-21, 06:26:56](https://lobste.rs/s/m8woyp/glibc_cve_2024_2961_buffer_overflow_iconv) - [glibc CVE-2024-2961: Buffer overflow in iconv](https://www.openwall.com/lists/oss-security/2024/04/18/4)
-* [2024-04-21, 05:32:56](https://lobste.rs/s/amjayj/stanford_ai_syllabus_1980) - [Stanford AI Syllabus (1980)](https://www.saildart.org/AIQUAL.80[AM,DBL]1)
 * [2024-04-21, 03:18:36](https://lobste.rs/s/2hvrhw/tips_on_adding_json_output_your_cli_app) - [Tips on Adding JSON Output to Your CLI App](https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/)
 * [2024-04-20, 23:59:31](https://lobste.rs/s/ah54q5/design_everyday_apis) - [The Design of Everyday APIs](https://www.roguelynn.com/talks/everyday-apis/)
 * [2024-04-20, 21:05:00](https://lobste.rs/s/s7mpwd/thetawave_physics_based_space_shooter) - [thetawave: A physics based, space shooter game made with Rust and the Bevy engine](https://github.com/thetawavegame/thetawave)
