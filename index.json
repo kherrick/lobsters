@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-22, 10:08:04",
+      "https://lobste.rs/s/lsaf88/interview_with_matt_godbolt_on_early"
+    ],
+    [
+      "Interview with Matt Godbolt on early microprocessors, the games industry, and performance optimization",
+      "https://microarch.club/episodes/101/"
+    ]
+  ],
+  [
+    [
       "2024-04-22, 09:25:13",
       "https://lobste.rs/s/fmfnws/deeper_look_inside_postgresql"
     ],
@@ -147,16 +157,6 @@
     [
       "glibc CVE-2024-2961: Buffer overflow in iconv",
       "https://www.openwall.com/lists/oss-security/2024/04/18/4"
-    ]
-  ],
-  [
-    [
-      "2024-04-21, 05:32:56",
-      "https://lobste.rs/s/amjayj/stanford_ai_syllabus_1980"
-    ],
-    [
-      "Stanford AI Syllabus (1980)",
-      "https://www.saildart.org/AIQUAL.80[AM,DBL]1"
     ]
   ],
   [
