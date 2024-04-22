@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-22, 23:34:00](https://lobste.rs/s/tcl9yc/understanding_trait_selection_bug_rust) - [Understanding a Trait Selection Bug in Rust Compiler](https://veera.app/trait_selection_bug.html)
 * [2024-04-22, 23:25:15](https://lobste.rs/s/gqdpoo/equinox) - [Equinox](https://equinox.space/)
 * [2024-04-22, 22:51:56](https://lobste.rs/s/kruxyr/good_ideas_computer_science) - [Good Ideas in Computer Science](https://danielchasehooper.com/posts/good-ideas-in-cs/)
 * [2024-04-22, 21:52:29](https://lobste.rs/s/d8qwvo/introducing_for_each_loops_for_hare) - [Introducing for-each loops for Hare](https://harelang.org/blog/2024-04-01-introducing-for-each-loops-in-hare/)
@@ -18,7 +19,6 @@
 * [2024-04-22, 11:08:38](https://lobste.rs/s/jerdne/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/jerdne/what_are_you_doing_this_week)
 * [2024-04-22, 10:26:46](https://lobste.rs/s/rw05ny/are_aarch64_atomics_really_this) - [Are aarch64 atomics really this sensitive?](https://eighty-twenty.org/2024/04/22/aarch64-atomics)
 * [2024-04-22, 10:08:04](https://lobste.rs/s/lsaf88/interview_with_matt_godbolt_on_early) - [Interview with Matt Godbolt on early microprocessors, the games industry, and performance optimization](https://microarch.club/episodes/101/)
-* [2024-04-22, 09:01:15](https://lobste.rs/s/ltwv41/windows_registry_adventure_part_1) - [The Windows Registry Adventure - Part 1](https://googleprojectzero.blogspot.com/2024/04/the-windows-registry-adventure-1.html)
 * [2024-04-22, 06:47:11](https://lobste.rs/s/tjwfvw/badkeys_tool_can_detect_xz_backdoor_rsa) - [badkeys tool can detect xz backdoor RSA keys](https://github.com/badkeys/badkeys/releases/tag/v0.0.7)
 * [2024-04-22, 03:13:20](https://lobste.rs/s/faglia/shared_libs_rpath_runtime_linker) - [Shared libs, rpath and the runtime linker](https://carlosrdrz.dev/shared-libs-rpath-and-the-runtime-linker)
 * [2024-04-22, 01:43:26](https://lobste.rs/s/5mtkev/what_s_new_go_1_22_cmp) - [What’s New in Go 1.22: cmp.Or](https://blog.carlana.net/post/2024/golang-cmp-or-uses-and-history/)

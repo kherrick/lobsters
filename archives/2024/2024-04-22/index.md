@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
+* [2024-04-22, 23:34:00](https://lobste.rs/s/tcl9yc/understanding_trait_selection_bug_rust) - [Understanding a Trait Selection Bug in Rust Compiler](https://veera.app/trait_selection_bug.html)
 * [2024-04-22, 23:25:15](https://lobste.rs/s/gqdpoo/equinox) - [Equinox](https://equinox.space/)
 * [2024-04-22, 22:51:56](https://lobste.rs/s/kruxyr/good_ideas_computer_science) - [Good Ideas in Computer Science](https://danielchasehooper.com/posts/good-ideas-in-cs/)
 * [2024-04-22, 21:52:29](https://lobste.rs/s/d8qwvo/introducing_for_each_loops_for_hare) - [Introducing for-each loops for Hare](https://harelang.org/blog/2024-04-01-introducing-for-each-loops-in-hare/)
