@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-22, 01:43:26](https://lobste.rs/s/5mtkev/what_s_new_go_1_22_cmp) - [What’s New in Go 1.22: cmp.Or](https://blog.carlana.net/post/2024/golang-cmp-or-uses-and-history/)
+* [2024-04-22, 01:43:03](https://lobste.rs/s/eicz7a/inside_super_nintendo_cartridges) - [Inside the Super Nintendo cartridges](https://fabiensanglard.net/snes_carts/index.html)
+* [2024-04-22, 01:26:31](https://lobste.rs/s/kjyy3n/c_c_solving_recursive_equations) - [C&C -  Solving Recursive Equations](https://jozefg.bitbucket.io/posts/2015-08-14-solve-domains.html)
 * [2024-04-21, 18:18:07](https://lobste.rs/s/0qvtim/open_letter_nixos_foundation) - [Open letter to the NixOS foundation](https://save-nix-together.org/)
 * [2024-04-21, 16:25:48](https://lobste.rs/s/vgxm7q/why_you_shouldn_t_run_bsd_on_pc) - [Why you shouldn't run a BSD on a PC](https://michal.sapka.me/bsd/why-not-bsd/)
 * [2024-04-21, 15:13:16](https://lobste.rs/s/zczfzm/forge_tool_teach_formal_methods) - [Forge: A Tool to Teach Formal Methods](https://blog.brownplt.org/2024/04/21/forge.html)
@@ -18,13 +21,10 @@
 * [2024-04-20, 12:38:07](https://lobste.rs/s/fa4svu/zig_0_12_0_release_notes) - [Zig 0.12.0 Release Notes](https://ziglang.org/download/0.12.0/release-notes.html)
 * [2024-04-20, 11:42:41](https://lobste.rs/s/ufm28r/do_not_buy_hisense_tvs_at_least_keep_them) - [Do not buy Hisense TVs (or at least keep them offline)](https://cohost.org/ghoulnoise/post/5286766-do-not-buy-hisense-t)
 * [2024-04-20, 01:10:58](https://lobste.rs/s/yngz9d/git_bisect_find) - [git bisect-find](https://gitlab.com/kevincox/git-bisect-find)
-* [2024-04-19, 22:44:38](https://lobste.rs/s/rrchqh/truenas_core_versus_truenas_scale) - [TrueNAS CORE versus TrueNAS SCALE](https://vermaden.wordpress.com/2024/04/20/truenas-core-versus-truenas-scale/)
-* [2024-04-19, 20:35:17](https://lobste.rs/s/vm5nb2/porting_8_bit_sonic_2_ti_84_ce) - [Porting 8-bit Sonic 2 to the TI-84+ CE](https://medium.com/@grubbycoder/porting-8-bit-sonic-2-to-the-ti-84-ce-7ec99f9981c9)
 * [2024-04-19, 18:47:18](https://lobste.rs/s/kngpqq/zilog_calls_time_on_venerable_z80) - [Zilog Calls Time on the Venerable Z80](https://www.hackster.io/news/zilog-calls-time-on-the-venerable-z80-discontinues-the-standalone-z84c00-cpu-family-723594464754)
 * [2024-04-19, 17:19:18](https://lobste.rs/s/wh6yhk/why_we_run_freebsd_current_at_netflix) - [Why We Run FreeBSD CURRENT at Netflix](https://www.youtube.com/watch?v=q4TZxj-Dq7s)
 * [2024-04-19, 15:14:38](https://lobste.rs/s/04su6m/ai_isn_t_useless_is_it_worth_it) - [AI isn't useless. But is it worth it?](https://www.citationneeded.news/ai-isnt-useless/)
 * [2024-04-19, 14:24:24](https://lobste.rs/s/en5lqf/llvm_is_smarter_than_me) - [LLVM is Smarter Than Me](https://blog.sulami.xyz/posts/llvm-is-smarter-than-me/)
-* [2024-04-19, 12:06:17](https://lobste.rs/s/xlpjaz/3_important_things_i_overlooked_during) - [3 important things I overlooked during code reviews](https://www.piglei.com/articles/3-important-things-I-overlooked-during-cr/)
 
 ## [Archives](archives/index.md)
 
