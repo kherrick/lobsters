@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
+* [2024-04-22, 15:38:08](https://lobste.rs/s/s16hwy/options_for_accessing_llama_3_from) - [Options for accessing Llama 3 from the terminal using LLM](https://simonwillison.net/2024/Apr/22/llama-3/)
 * [2024-04-22, 13:51:29](https://lobste.rs/s/fzl9ba/automated_stitching_chip_images) - [Automated stitching of chip images](https://www.bunniestudios.com/blog/2024/automated-stitching-of-chip-images/)
 * [2024-04-22, 13:27:06](https://lobste.rs/s/ebt4ys/secure_boot_tpm_backed_full_disk) - [Secure Boot & TPM-backed Full Disk Encryption on NixOS](https://jnsgr.uk/2024/04/nixos-secure-boot-tpm-fde/)
 * [2024-04-22, 12:05:40](https://lobste.rs/s/i1f3xl/making_flute_controlled_mouse) - [Making a flute controlled mouse](https://0110.be/posts/Making_a_flute_controlled_mouse)
