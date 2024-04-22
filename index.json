@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-22, 15:38:08",
+      "https://lobste.rs/s/s16hwy/options_for_accessing_llama_3_from"
+    ],
+    [
+      "Options for accessing Llama 3 from the terminal using LLM",
+      "https://simonwillison.net/2024/Apr/22/llama-3/"
+    ]
+  ],
+  [
+    [
       "2024-04-22, 13:51:29",
       "https://lobste.rs/s/fzl9ba/automated_stitching_chip_images"
     ],
@@ -227,16 +237,6 @@
     [
       "lunatik: Lunatik is a framework for scripting the Linux kernel with Lua",
       "https://github.com/luainkernel/lunatik"
-    ]
-  ],
-  [
-    [
-      "2024-04-20, 12:38:07",
-      "https://lobste.rs/s/fa4svu/zig_0_12_0_release_notes"
-    ],
-    [
-      "Zig 0.12.0 Release Notes",
-      "https://ziglang.org/download/0.12.0/release-notes.html"
     ]
   ],
   [
