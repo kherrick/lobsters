@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-22](index.md)
 
+* [2024-04-22, 11:08:38](https://lobste.rs/s/jerdne/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/jerdne/what_are_you_doing_this_week)
 * [2024-04-22, 10:26:46](https://lobste.rs/s/rw05ny/are_aarch64_atomics_really_this) - [Are aarch64 atomics really this sensitive?](https://eighty-twenty.org/2024/04/22/aarch64-atomics)
 * [2024-04-22, 10:08:50](https://lobste.rs/s/nmzfti/address_sanitizer_for_bare_metal) - [Address Sanitizer for bare-metal firmware](https://security.googleblog.com/2024/03/address-sanitizer-for-bare-metal.html)
 * [2024-04-22, 10:08:04](https://lobste.rs/s/lsaf88/interview_with_matt_godbolt_on_early) - [Interview with Matt Godbolt on early microprocessors, the games industry, and performance optimization](https://microarch.club/episodes/101/)
