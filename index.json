@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-23, 22:47:28",
+      "https://lobste.rs/s/eqt5sz/esphome"
+    ],
+    [
+      "ESPHome",
+      "https://esphome.io/index.html"
+    ]
+  ],
+  [
+    [
       "2024-04-23, 22:05:23",
       "https://lobste.rs/s/ukzoix/sized_dynsized_unsized"
     ],
@@ -237,16 +247,6 @@
     [
       "The Performance Impact of C++'s `final` Keyword",
       "https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/"
-    ]
-  ],
-  [
-    [
-      "2024-04-22, 11:45:47",
-      "https://lobste.rs/s/bjumde/only_two_log_levels_you_need_are_info_error"
-    ],
-    [
-      "The only two log levels you need are INFO and ERROR",
-      "https://ntietz.com/blog/the-only-two-log-levels-you-need-are-info-and-error/"
     ]
   ]
 ]
