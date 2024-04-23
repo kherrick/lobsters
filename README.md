@@ -5,6 +5,7 @@
 * [2024-04-23, 16:06:47](https://lobste.rs/s/8oshbg/it_s_end_web_as_we_know_it) - [It’s the End of the Web as We Know It](https://archive.is/BF0lR)
 * [2024-04-23, 15:53:19](https://lobste.rs/s/vxsub3/rust_sel4_rust_support_for_sel4_userspace) - [rust-sel4: Rust support for seL4 userspace](https://github.com/seL4/rust-sel4)
 * [2024-04-23, 15:51:54](https://lobste.rs/s/4c51gw/cakeml) - [CakeML](https://cakeml.org/)
+* [2024-04-23, 15:45:10](https://lobste.rs/s/cs21kl/taking_regular_screenshots_my_website) - [Taking regular screenshots of my website](https://alexwlchan.net/2024/scheduled-screenshots/)
 * [2024-04-23, 15:37:46](https://lobste.rs/s/cfmzq3/anthropic_rb_ruby_bindings_for_anthropic) - [anthropic-rb: Ruby bindings for the Anthropic API](https://github.com/dickdavis/anthropic-rb)
 * [2024-04-23, 15:31:39](https://lobste.rs/s/d2g9oi/vcswatch_git_filter) - [vcswatch and git --filter](https://www.df7cb.de/blog/2024/vcswatch-git-filter.html)
 * [2024-04-23, 15:14:10](https://lobste.rs/s/vyvpto/extensible_language_support_zed) - [Extensible Language Support in Zed](https://zed.dev/blog/language-extensions-part-1)
@@ -22,7 +23,6 @@
 * [2024-04-22, 20:15:52](https://lobste.rs/s/g4mu2o/voyager_1_resumes_sending_engineering) - [Voyager 1 Resumes Sending Engineering Updates to Earth](https://blogs.nasa.gov/voyager/2024/04/22/nasas-voyager-1-resumes-sending-engineering-updates-to-earth/)
 * [2024-04-22, 18:22:15](https://lobste.rs/s/hut0to/performance_impact_c_s_final_keyword) - [The Performance Impact of C++'s `final` Keyword](https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/)
 * [2024-04-22, 13:27:06](https://lobste.rs/s/ebt4ys/secure_boot_tpm_backed_full_disk) - [Secure Boot & TPM-backed Full Disk Encryption on NixOS](https://jnsgr.uk/2024/04/nixos-secure-boot-tpm-fde/)
-* [2024-04-22, 12:05:40](https://lobste.rs/s/i1f3xl/making_flute_controlled_mouse) - [Making a flute controlled mouse](https://0110.be/posts/Making_a_flute_controlled_mouse)
 * [2024-04-22, 11:45:47](https://lobste.rs/s/bjumde/only_two_log_levels_you_need_are_info_error) - [The only two log levels you need are INFO and ERROR](https://ntietz.com/blog/the-only-two-log-levels-you-need-are-info-and-error/)
 * [2024-04-22, 01:43:26](https://lobste.rs/s/5mtkev/what_s_new_go_1_22_cmp) - [What’s New in Go 1.22: cmp.Or](https://blog.carlana.net/post/2024/golang-cmp-or-uses-and-history/)
 
