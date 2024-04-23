@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 15:19:32](https://lobste.rs/s/olccof/double_edged_sword_docker_balancing) - [Double Edged Sword of Docker: Balancing Benefits and Risks](https://it-notes.dragas.net/2024/04/22/the-doubled-edge-sword-of-docker/)
+* [2024-04-23, 15:18:29](https://lobste.rs/s/htcixa/wireguard_freebsd_vnet_jail) - [WireGuard FreeBSD VNET Jail](https://eldapper.wordpress.com/2024/04/13/wireguard-vnet-jail/)
+* [2024-04-23, 15:14:10](https://lobste.rs/s/vyvpto/extensible_language_support_zed) - [Extensible Language Support in Zed](https://zed.dev/blog/language-extensions-part-1)
 * [2024-04-23, 14:09:29](https://lobste.rs/s/ncmr1w/proverb_slebok) - [ProVerB — SLEBoK](https://slebok.github.io/proverb/index.html)
 * [2024-04-23, 13:32:33](https://lobste.rs/s/xxdzcd/help_us_invent_css_grid_level_3_aka_masonry) - [Help us invent CSS Grid Level 3, aka “Masonry” layout](https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/)
 * [2024-04-23, 13:03:57](https://lobste.rs/s/akt3z1/what_is_gpt_visual_intro_transformers) - [But what is a GPT? Visual intro to transformers](https://www.youtube.com/watch?v=wjZofJX0v4M)
