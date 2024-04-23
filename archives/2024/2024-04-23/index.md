@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 15:45:10](https://lobste.rs/s/cs21kl/taking_regular_screenshots_my_website) - [Taking regular screenshots of my website](https://alexwlchan.net/2024/scheduled-screenshots/)
+* [2024-04-23, 15:37:46](https://lobste.rs/s/cfmzq3/anthropic_rb_ruby_bindings_for_anthropic) - [anthropic-rb: Ruby bindings for the Anthropic API](https://github.com/dickdavis/anthropic-rb)
 * [2024-04-23, 15:31:39](https://lobste.rs/s/d2g9oi/vcswatch_git_filter) - [vcswatch and git --filter](https://www.df7cb.de/blog/2024/vcswatch-git-filter.html)
 * [2024-04-23, 15:19:32](https://lobste.rs/s/olccof/double_edged_sword_docker_balancing) - [Double Edged Sword of Docker: Balancing Benefits and Risks](https://it-notes.dragas.net/2024/04/22/the-doubled-edge-sword-of-docker/)
 * [2024-04-23, 15:18:29](https://lobste.rs/s/htcixa/wireguard_freebsd_vnet_jail) - [WireGuard FreeBSD VNET Jail](https://eldapper.wordpress.com/2024/04/13/wireguard-vnet-jail/)

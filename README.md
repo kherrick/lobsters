@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-23, 15:45:10](https://lobste.rs/s/cs21kl/taking_regular_screenshots_my_website) - [Taking regular screenshots of my website](https://alexwlchan.net/2024/scheduled-screenshots/)
+* [2024-04-23, 15:37:46](https://lobste.rs/s/cfmzq3/anthropic_rb_ruby_bindings_for_anthropic) - [anthropic-rb: Ruby bindings for the Anthropic API](https://github.com/dickdavis/anthropic-rb)
 * [2024-04-23, 15:31:39](https://lobste.rs/s/d2g9oi/vcswatch_git_filter) - [vcswatch and git --filter](https://www.df7cb.de/blog/2024/vcswatch-git-filter.html)
 * [2024-04-23, 15:19:32](https://lobste.rs/s/olccof/double_edged_sword_docker_balancing) - [Double Edged Sword of Docker: Balancing Benefits and Risks](https://it-notes.dragas.net/2024/04/22/the-doubled-edge-sword-of-docker/)
 * [2024-04-23, 15:18:29](https://lobste.rs/s/htcixa/wireguard_freebsd_vnet_jail) - [WireGuard FreeBSD VNET Jail](https://eldapper.wordpress.com/2024/04/13/wireguard-vnet-jail/)
 * [2024-04-23, 15:14:10](https://lobste.rs/s/vyvpto/extensible_language_support_zed) - [Extensible Language Support in Zed](https://zed.dev/blog/language-extensions-part-1)
-* [2024-04-23, 14:09:29](https://lobste.rs/s/ncmr1w/proverb_slebok) - [ProVerB — SLEBoK](https://slebok.github.io/proverb/index.html)
 * [2024-04-23, 13:32:33](https://lobste.rs/s/xxdzcd/help_us_invent_css_grid_level_3_aka_masonry) - [Help us invent CSS Grid Level 3, aka “Masonry” layout](https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/)
 * [2024-04-23, 12:42:48](https://lobste.rs/s/zjesr7/coroot_open_source_datadog_newrelic) - [coroot: open-source DataDog/NewRelic alternative](https://github.com/coroot/coroot)
 * [2024-04-23, 11:43:38](https://lobste.rs/s/xdhle7/c_isn_t_hangover_rust_isn_t_hangover_cure) - [C isn’t a Hangover; Rust isn’t a Hangover Cure](https://medium.com/@john_25313/c-isnt-a-hangover-rust-isn-t-a-hangover-cure-580c9b35b5ce)
@@ -23,7 +24,6 @@
 * [2024-04-22, 13:27:06](https://lobste.rs/s/ebt4ys/secure_boot_tpm_backed_full_disk) - [Secure Boot & TPM-backed Full Disk Encryption on NixOS](https://jnsgr.uk/2024/04/nixos-secure-boot-tpm-fde/)
 * [2024-04-22, 12:05:40](https://lobste.rs/s/i1f3xl/making_flute_controlled_mouse) - [Making a flute controlled mouse](https://0110.be/posts/Making_a_flute_controlled_mouse)
 * [2024-04-22, 11:45:47](https://lobste.rs/s/bjumde/only_two_log_levels_you_need_are_info_error) - [The only two log levels you need are INFO and ERROR](https://ntietz.com/blog/the-only-two-log-levels-you-need-are-info-and-error/)
-* [2024-04-22, 06:47:11](https://lobste.rs/s/tjwfvw/badkeys_tool_can_detect_xz_backdoor_rsa) - [badkeys tool can detect xz backdoor RSA keys](https://github.com/badkeys/badkeys/releases/tag/v0.0.7)
 * [2024-04-22, 01:43:26](https://lobste.rs/s/5mtkev/what_s_new_go_1_22_cmp) - [What’s New in Go 1.22: cmp.Or](https://blog.carlana.net/post/2024/golang-cmp-or-uses-and-history/)
 
 ## [Archives](archives/index.md)
