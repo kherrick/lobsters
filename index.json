@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-23, 15:45:10",
+      "https://lobste.rs/s/cs21kl/taking_regular_screenshots_my_website"
+    ],
+    [
+      "Taking regular screenshots of my website",
+      "https://alexwlchan.net/2024/scheduled-screenshots/"
+    ]
+  ],
+  [
+    [
+      "2024-04-23, 15:37:46",
+      "https://lobste.rs/s/cfmzq3/anthropic_rb_ruby_bindings_for_anthropic"
+    ],
+    [
+      "anthropic-rb: Ruby bindings for the Anthropic API",
+      "https://github.com/dickdavis/anthropic-rb"
+    ]
+  ],
+  [
+    [
       "2024-04-23, 15:31:39",
       "https://lobste.rs/s/d2g9oi/vcswatch_git_filter"
     ],
@@ -37,16 +57,6 @@
     [
       "Extensible Language Support in Zed",
       "https://zed.dev/blog/language-extensions-part-1"
-    ]
-  ],
-  [
-    [
-      "2024-04-23, 14:09:29",
-      "https://lobste.rs/s/ncmr1w/proverb_slebok"
-    ],
-    [
-      "ProVerB — SLEBoK",
-      "https://slebok.github.io/proverb/index.html"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "The only two log levels you need are INFO and ERROR",
       "https://ntietz.com/blog/the-only-two-log-levels-you-need-are-info-and-error/"
-    ]
-  ],
-  [
-    [
-      "2024-04-22, 06:47:11",
-      "https://lobste.rs/s/tjwfvw/badkeys_tool_can_detect_xz_backdoor_rsa"
-    ],
-    [
-      "badkeys tool can detect xz backdoor RSA keys",
-      "https://github.com/badkeys/badkeys/releases/tag/v0.0.7"
     ]
   ],
   [
