@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 11:00:48](https://lobste.rs/s/apw7fq/test_sizes) - [Test Sizes](https://testing.googleblog.com/2010/12/test-sizes.html)
+* [2024-04-23, 10:56:08](https://lobste.rs/s/mo0qm1/two_reasons_i_prefer_passing_struct) - [The Two Reasons I Prefer Passing Struct Pointers Around](https://preslav.me/2024/04/23/two-reasons-to-prefer-struct-pointers-in-golang/)
 * [2024-04-23, 10:27:14](https://lobste.rs/s/j55jtt/daily_practice_empirical_software) - [A Daily Practice of Empirical Software Design - Kent Beck - (2023)](https://www.youtube.com/watch?v=yBEcq23OgB4)
 * [2024-04-23, 09:26:37](https://lobste.rs/s/1pzrtm/announcing_py2wasm_python_wasm_compiler) - [Announcing py2wasm: A Python to Wasm compiler](https://wasmer.io/posts/py2wasm-a-python-to-wasm-compiler)
 * [2024-04-23, 08:32:17](https://lobste.rs/s/r9auni/top_10_trending_python_libraries_april) - [Top 10 Trending Python Libraries in April 2024](https://dev.to/libhunt/top-10-trending-python-libraries-in-april-2024-4l0j)

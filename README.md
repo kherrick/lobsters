@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-23, 11:00:48](https://lobste.rs/s/apw7fq/test_sizes) - [Test Sizes](https://testing.googleblog.com/2010/12/test-sizes.html)
+* [2024-04-23, 10:56:08](https://lobste.rs/s/mo0qm1/two_reasons_i_prefer_passing_struct) - [The Two Reasons I Prefer Passing Struct Pointers Around](https://preslav.me/2024/04/23/two-reasons-to-prefer-struct-pointers-in-golang/)
 * [2024-04-23, 10:27:14](https://lobste.rs/s/j55jtt/daily_practice_empirical_software) - [A Daily Practice of Empirical Software Design - Kent Beck - (2023)](https://www.youtube.com/watch?v=yBEcq23OgB4)
 * [2024-04-23, 09:26:37](https://lobste.rs/s/1pzrtm/announcing_py2wasm_python_wasm_compiler) - [Announcing py2wasm: A Python to Wasm compiler](https://wasmer.io/posts/py2wasm-a-python-to-wasm-compiler)
-* [2024-04-23, 08:29:26](https://lobste.rs/s/qwebzx/sdt_prototype_implementation_sdt_probes) - [sdt: Prototype implementation of SDT probes using hot-patching](https://reviews.freebsd.org/D44483)
 * [2024-04-23, 08:12:51](https://lobste.rs/s/nbgohm/optimizations_erlang_otp_27) - [The Optimizations in Erlang/OTP 27](https://www.erlang.org/blog/optimizations/)
 * [2024-04-23, 08:04:42](https://lobste.rs/s/r65bzs/value_unit_tests) - [The value of unit tests](https://nedbatchelder.com//blog/201602/the_value_of_unit_tests.html)
 * [2024-04-23, 00:42:21](https://lobste.rs/s/kyuc6h/understanding_avoiding_visually) - [Understanding and avoiding visually ambiguous characters in IDs](https://gajus.com/blog/avoiding-visually-ambiguous-characters-in-ids)
@@ -21,7 +22,6 @@
 * [2024-04-22, 10:26:46](https://lobste.rs/s/rw05ny/are_aarch64_atomics_really_this) - [Are aarch64 atomics really this sensitive?](https://eighty-twenty.org/2024/04/22/aarch64-atomics)
 * [2024-04-22, 10:08:04](https://lobste.rs/s/lsaf88/interview_with_matt_godbolt_on_early) - [Interview with Matt Godbolt on early microprocessors, the games industry, and performance optimization](https://microarch.club/episodes/101/)
 * [2024-04-22, 06:47:11](https://lobste.rs/s/tjwfvw/badkeys_tool_can_detect_xz_backdoor_rsa) - [badkeys tool can detect xz backdoor RSA keys](https://github.com/badkeys/badkeys/releases/tag/v0.0.7)
-* [2024-04-22, 03:13:20](https://lobste.rs/s/faglia/shared_libs_rpath_runtime_linker) - [Shared libs, rpath and the runtime linker](https://carlosrdrz.dev/shared-libs-rpath-and-the-runtime-linker)
 * [2024-04-22, 01:43:26](https://lobste.rs/s/5mtkev/what_s_new_go_1_22_cmp) - [What’s New in Go 1.22: cmp.Or](https://blog.carlana.net/post/2024/golang-cmp-or-uses-and-history/)
 * [2024-04-22, 01:43:03](https://lobste.rs/s/eicz7a/inside_super_nintendo_cartridges) - [Inside the Super Nintendo cartridges](https://fabiensanglard.net/snes_carts/index.html)
 * [2024-04-21, 18:18:07](https://lobste.rs/s/0qvtim/open_letter_nixos_foundation) - [Open letter to the NixOS foundation](https://save-nix-together.org/)
