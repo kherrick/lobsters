@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-23, 08:12:51",
+      "https://lobste.rs/s/nbgohm/optimizations_erlang_otp_27"
+    ],
+    [
+      "The Optimizations in Erlang/OTP 27",
+      "https://www.erlang.org/blog/optimizations/"
+    ]
+  ],
+  [
+    [
+      "2024-04-23, 08:04:42",
+      "https://lobste.rs/s/r65bzs/value_unit_tests"
+    ],
+    [
+      "The value of unit tests",
+      "https://nedbatchelder.com//blog/201602/the_value_of_unit_tests.html"
+    ]
+  ],
+  [
+    [
       "2024-04-23, 06:19:14",
       "https://lobste.rs/s/pzdmin/udev_hid_bpf_quickstart_tooling_fix_your"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-04-22, 13:51:29",
-      "https://lobste.rs/s/fzl9ba/automated_stitching_chip_images"
-    ],
-    [
-      "Automated stitching of chip images",
-      "https://www.bunniestudios.com/blog/2024/automated-stitching-of-chip-images/"
-    ]
-  ],
-  [
-    [
       "2024-04-22, 13:27:06",
       "https://lobste.rs/s/ebt4ys/secure_boot_tpm_backed_full_disk"
     ],
@@ -167,16 +177,6 @@
     [
       "The only two log levels you need are INFO and ERROR",
       "https://ntietz.com/blog/the-only-two-log-levels-you-need-are-info-and-error/"
-    ]
-  ],
-  [
-    [
-      "2024-04-22, 11:08:38",
-      "https://lobste.rs/s/jerdne/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/jerdne/what_are_you_doing_this_week"
     ]
   ],
   [
