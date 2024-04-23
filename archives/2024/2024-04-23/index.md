@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 22:47:28](https://lobste.rs/s/eqt5sz/esphome) - [ESPHome](https://esphome.io/index.html)
 * [2024-04-23, 22:05:23](https://lobste.rs/s/ukzoix/sized_dynsized_unsized) - [Sized, DynSized, and Unsized](https://smallcultfollowing.com/babysteps/blog/2024/04/23/dynsized-unsized/)
 * [2024-04-23, 21:56:51](https://lobste.rs/s/txb5gs/are_batch_scripts_security) - [Are batch scripts a security vulnerability?](https://chrisdenton.dev/p/batcmd/)
 * [2024-04-23, 19:10:10](https://lobste.rs/s/7uhthp/spritely_goblins_v0_13_0_object) - [Spritely Goblins v0.13.0: Object persistence and easier IO](https://spritely.institute/news/spritely-goblins-v0130-object-persistence-and-easier-io.html)

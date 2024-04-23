@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-23, 22:47:28](https://lobste.rs/s/eqt5sz/esphome) - [ESPHome](https://esphome.io/index.html)
 * [2024-04-23, 22:05:23](https://lobste.rs/s/ukzoix/sized_dynsized_unsized) - [Sized, DynSized, and Unsized](https://smallcultfollowing.com/babysteps/blog/2024/04/23/dynsized-unsized/)
 * [2024-04-23, 21:56:51](https://lobste.rs/s/txb5gs/are_batch_scripts_security) - [Are batch scripts a security vulnerability?](https://chrisdenton.dev/p/batcmd/)
 * [2024-04-23, 19:10:10](https://lobste.rs/s/7uhthp/spritely_goblins_v0_13_0_object) - [Spritely Goblins v0.13.0: Object persistence and easier IO](https://spritely.institute/news/spritely-goblins-v0130-object-persistence-and-easier-io.html)
@@ -24,7 +25,6 @@
 * [2024-04-22, 21:28:09](https://lobste.rs/s/vxf3ud/announcing_beatrice_finally_tagless) - [Announcing Beatrice: A finally tagless, dependently typed, self-aware programming language](https://hirrolot.github.io/posts/announcing-beatrice.html)
 * [2024-04-22, 20:15:52](https://lobste.rs/s/g4mu2o/voyager_1_resumes_sending_engineering) - [Voyager 1 Resumes Sending Engineering Updates to Earth](https://blogs.nasa.gov/voyager/2024/04/22/nasas-voyager-1-resumes-sending-engineering-updates-to-earth/)
 * [2024-04-22, 18:22:15](https://lobste.rs/s/hut0to/performance_impact_c_s_final_keyword) - [The Performance Impact of C++'s `final` Keyword](https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/)
-* [2024-04-22, 11:45:47](https://lobste.rs/s/bjumde/only_two_log_levels_you_need_are_info_error) - [The only two log levels you need are INFO and ERROR](https://ntietz.com/blog/the-only-two-log-levels-you-need-are-info-and-error/)
 
 ## [Archives](archives/index.md)
 
