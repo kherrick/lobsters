@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-04-23, 11:15:11](https://lobste.rs/s/rgnzkp/freebsd_for_devs_01) - [FreeBSD for Devs #01](https://dev.to/scovl/freebsd-for-devs-3n0k)
+* [2024-04-23, 11:43:38](https://lobste.rs/s/xdhle7/c_isn_t_hangover_rust_isn_t_hangover_cure) - [C isn’t a Hangover; Rust isn’t a Hangover Cure](https://medium.com/@john_25313/c-isnt-a-hangover-rust-isn-t-a-hangover-cure-580c9b35b5ce)
 * [2024-04-23, 11:00:48](https://lobste.rs/s/apw7fq/test_sizes) - [Test Sizes](https://testing.googleblog.com/2010/12/test-sizes.html)
 * [2024-04-23, 10:56:08](https://lobste.rs/s/mo0qm1/two_reasons_i_prefer_passing_struct) - [The Two Reasons I Prefer Passing Struct Pointers Around](https://preslav.me/2024/04/23/two-reasons-to-prefer-struct-pointers-in-golang/)
 * [2024-04-23, 10:27:14](https://lobste.rs/s/j55jtt/daily_practice_empirical_software) - [A Daily Practice of Empirical Software Design - Kent Beck - (2023)](https://www.youtube.com/watch?v=yBEcq23OgB4)

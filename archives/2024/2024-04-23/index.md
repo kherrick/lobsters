@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 11:43:38](https://lobste.rs/s/xdhle7/c_isn_t_hangover_rust_isn_t_hangover_cure) - [C isn’t a Hangover; Rust isn’t a Hangover Cure](https://medium.com/@john_25313/c-isnt-a-hangover-rust-isn-t-a-hangover-cure-580c9b35b5ce)
 * [2024-04-23, 11:16:15](https://lobste.rs/s/7pliui/freebsd_for_devs_04) - [FreeBSD for Devs #04](https://dev.to/scovl/freebsd-for-devs-04-5c1m)
 * [2024-04-23, 11:15:56](https://lobste.rs/s/1fmmlj/freebsd_for_devs_03) - [FreeBSD for Devs #03](https://dev.to/scovl/freebsd-for-devs-03-4dhd)
 * [2024-04-23, 11:15:35](https://lobste.rs/s/ygsf0g/freebsd_for_devs_02) - [FreeBSD for Devs #02](https://dev.to/scovl/freebsd-for-devs-02-44mk)
