@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 16:11:59](https://lobste.rs/s/shksoq/good_essays_on_application_vs_library) - [Good essays on application vs library programming?](https://lobste.rs/s/shksoq/good_essays_on_application_vs_library)
+* [2024-04-23, 16:06:47](https://lobste.rs/s/8oshbg/it_s_end_web_as_we_know_it) - [It’s the End of the Web as We Know It](https://www.theatlantic.com/technology/archive/2024/04/generative-ai-search-llmo/678154/)
 * [2024-04-23, 15:53:19](https://lobste.rs/s/vxsub3/rust_sel4_rust_support_for_sel4_userspace) - [rust-sel4: Rust support for seL4 userspace](https://github.com/seL4/rust-sel4)
 * [2024-04-23, 15:51:54](https://lobste.rs/s/4c51gw/cakeml) - [CakeML](https://cakeml.org/)
 * [2024-04-23, 15:45:10](https://lobste.rs/s/cs21kl/taking_regular_screenshots_my_website) - [Taking regular screenshots of my website](https://alexwlchan.net/2024/scheduled-screenshots/)
