@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-23, 13:32:33",
+      "https://lobste.rs/s/xxdzcd/help_us_invent_css_grid_level_3_aka_masonry"
+    ],
+    [
+      "Help us invent CSS Grid Level 3, aka “Masonry” layout",
+      "https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/"
+    ]
+  ],
+  [
+    [
       "2024-04-23, 13:03:57",
       "https://lobste.rs/s/akt3z1/what_is_gpt_visual_intro_transformers"
     ],
@@ -237,16 +247,6 @@
     [
       "What’s New in Go 1.22: cmp.Or",
       "https://blog.carlana.net/post/2024/golang-cmp-or-uses-and-history/"
-    ]
-  ],
-  [
-    [
-      "2024-04-21, 18:18:07",
-      "https://lobste.rs/s/0qvtim/open_letter_nixos_foundation"
-    ],
-    [
-      "Open letter to the NixOS foundation",
-      "https://save-nix-together.org/"
     ]
   ]
 ]
