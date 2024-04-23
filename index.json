@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-23, 12:42:48",
+      "https://lobste.rs/s/zjesr7/coroot_open_source_datadog_newrelic"
+    ],
+    [
+      "coroot: open-source DataDog/NewRelic alternative",
+      "https://github.com/coroot/coroot"
+    ]
+  ],
+  [
+    [
       "2024-04-23, 11:43:38",
       "https://lobste.rs/s/xdhle7/c_isn_t_hangover_rust_isn_t_hangover_cure"
     ],
@@ -77,16 +87,6 @@
     [
       "The value of unit tests",
       "https://nedbatchelder.com//blog/201602/the_value_of_unit_tests.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-23, 06:19:14",
-      "https://lobste.rs/s/pzdmin/udev_hid_bpf_quickstart_tooling_fix_your"
-    ],
-    [
-      "udev-hid-bpf: quickstart tooling to fix your HID devices with eBPF",
-      "http://who-t.blogspot.com/2024/04/udev-hid-bpf-quickstart-tooling-to-fix.html"
     ]
   ],
   [
