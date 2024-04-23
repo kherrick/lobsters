@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 11:16:15](https://lobste.rs/s/7pliui/freebsd_for_devs_04) - [FreeBSD for Devs #04](https://dev.to/scovl/freebsd-for-devs-04-5c1m)
+* [2024-04-23, 11:15:56](https://lobste.rs/s/1fmmlj/freebsd_for_devs_03) - [FreeBSD for Devs #03](https://dev.to/scovl/freebsd-for-devs-03-4dhd)
+* [2024-04-23, 11:15:35](https://lobste.rs/s/ygsf0g/freebsd_for_devs_02) - [FreeBSD for Devs #02](https://dev.to/scovl/freebsd-for-devs-02-44mk)
+* [2024-04-23, 11:15:11](https://lobste.rs/s/rgnzkp/freebsd_for_devs_01) - [FreeBSD for Devs #01](https://dev.to/scovl/freebsd-for-devs-3n0k)
 * [2024-04-23, 11:00:48](https://lobste.rs/s/apw7fq/test_sizes) - [Test Sizes](https://testing.googleblog.com/2010/12/test-sizes.html)
 * [2024-04-23, 10:56:08](https://lobste.rs/s/mo0qm1/two_reasons_i_prefer_passing_struct) - [The Two Reasons I Prefer Passing Struct Pointers Around](https://preslav.me/2024/04/23/two-reasons-to-prefer-struct-pointers-in-golang/)
 * [2024-04-23, 10:27:14](https://lobste.rs/s/j55jtt/daily_practice_empirical_software) - [A Daily Practice of Empirical Software Design - Kent Beck - (2023)](https://www.youtube.com/watch?v=yBEcq23OgB4)
