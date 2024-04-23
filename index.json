@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-23, 14:09:29",
+      "https://lobste.rs/s/ncmr1w/proverb_slebok"
+    ],
+    [
+      "ProVerB — SLEBoK",
+      "https://slebok.github.io/proverb/index.html"
+    ]
+  ],
+  [
+    [
       "2024-04-23, 13:32:33",
       "https://lobste.rs/s/xxdzcd/help_us_invent_css_grid_level_3_aka_masonry"
     ],
@@ -87,16 +97,6 @@
     [
       "The Optimizations in Erlang/OTP 27",
       "https://www.erlang.org/blog/optimizations/"
-    ]
-  ],
-  [
-    [
-      "2024-04-23, 08:04:42",
-      "https://lobste.rs/s/r65bzs/value_unit_tests"
-    ],
-    [
-      "The value of unit tests",
-      "https://nedbatchelder.com//blog/201602/the_value_of_unit_tests.html"
     ]
   ],
   [
