@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 18:21:51](https://lobste.rs/s/ksnxhk/ruby_3_3_1_released) - [Ruby 3.3.1 Released](https://www.ruby-lang.org/en/news/2024/04/23/ruby-3-3-1-released/)
 * [2024-04-23, 16:39:54](https://lobste.rs/s/ycq6yx/bing_copilot_chatgpt_4_flunks_math) - [Bing Copilot (ChatGPT-4) Flunks Math](https://www.cs.dartmouth.edu/~doug/ChatMath.pdf)
 * [2024-04-23, 16:11:59](https://lobste.rs/s/shksoq/good_essays_on_application_vs_library) - [Good essays on application vs library programming?](https://lobste.rs/s/shksoq/good_essays_on_application_vs_library)
 * [2024-04-23, 16:06:47](https://lobste.rs/s/8oshbg/it_s_end_web_as_we_know_it) - [It’s the End of the Web as We Know It](https://www.theatlantic.com/technology/archive/2024/04/generative-ai-search-llmo/678154/)

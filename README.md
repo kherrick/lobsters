@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-23, 18:21:51](https://lobste.rs/s/ksnxhk/ruby_3_3_1_released) - [Ruby 3.3.1 Released](https://www.ruby-lang.org/en/news/2024/04/23/ruby-3-3-1-released/)
 * [2024-04-23, 16:39:54](https://lobste.rs/s/ycq6yx/bing_copilot_chatgpt_4_flunks_math) - [Bing Copilot (ChatGPT-4) Flunks Math](https://www.cs.dartmouth.edu/~doug/ChatMath.pdf)
 * [2024-04-23, 16:11:59](https://lobste.rs/s/shksoq/good_essays_on_application_vs_library) - [Good essays on application vs library programming?](https://lobste.rs/s/shksoq/good_essays_on_application_vs_library)
 * [2024-04-23, 16:06:47](https://lobste.rs/s/8oshbg/it_s_end_web_as_we_know_it) - [It’s the End of the Web as We Know It](https://archive.is/BF0lR)
@@ -22,7 +23,6 @@
 * [2024-04-22, 21:28:09](https://lobste.rs/s/vxf3ud/announcing_beatrice_finally_tagless) - [Announcing Beatrice: A finally tagless, dependently typed, self-aware programming language](https://hirrolot.github.io/posts/announcing-beatrice.html)
 * [2024-04-22, 20:15:52](https://lobste.rs/s/g4mu2o/voyager_1_resumes_sending_engineering) - [Voyager 1 Resumes Sending Engineering Updates to Earth](https://blogs.nasa.gov/voyager/2024/04/22/nasas-voyager-1-resumes-sending-engineering-updates-to-earth/)
 * [2024-04-22, 18:22:15](https://lobste.rs/s/hut0to/performance_impact_c_s_final_keyword) - [The Performance Impact of C++'s `final` Keyword](https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/)
-* [2024-04-22, 13:27:06](https://lobste.rs/s/ebt4ys/secure_boot_tpm_backed_full_disk) - [Secure Boot & TPM-backed Full Disk Encryption on NixOS](https://jnsgr.uk/2024/04/nixos-secure-boot-tpm-fde/)
 * [2024-04-22, 11:45:47](https://lobste.rs/s/bjumde/only_two_log_levels_you_need_are_info_error) - [The only two log levels you need are INFO and ERROR](https://ntietz.com/blog/the-only-two-log-levels-you-need-are-info-and-error/)
 * [2024-04-22, 01:43:26](https://lobste.rs/s/5mtkev/what_s_new_go_1_22_cmp) - [What’s New in Go 1.22: cmp.Or](https://blog.carlana.net/post/2024/golang-cmp-or-uses-and-history/)
 
