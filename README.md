@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-23, 08:32:17](https://lobste.rs/s/r9auni/top_10_trending_python_libraries_april) - [Top 10 Trending Python Libraries in April 2024](https://dev.to/libhunt/top-10-trending-python-libraries-in-april-2024-4l0j)
 * [2024-04-23, 08:29:26](https://lobste.rs/s/qwebzx/sdt_prototype_implementation_sdt_probes) - [sdt: Prototype implementation of SDT probes using hot-patching](https://reviews.freebsd.org/D44483)
 * [2024-04-23, 08:12:51](https://lobste.rs/s/nbgohm/optimizations_erlang_otp_27) - [The Optimizations in Erlang/OTP 27](https://www.erlang.org/blog/optimizations/)
 * [2024-04-23, 08:04:42](https://lobste.rs/s/r65bzs/value_unit_tests) - [The value of unit tests](https://nedbatchelder.com//blog/201602/the_value_of_unit_tests.html)
@@ -9,7 +10,6 @@
 * [2024-04-22, 22:51:56](https://lobste.rs/s/kruxyr/good_ideas_computer_science) - [Good Ideas in Computer Science](https://danielchasehooper.com/posts/good-ideas-in-cs/)
 * [2024-04-22, 21:52:29](https://lobste.rs/s/d8qwvo/introducing_for_each_loops_for_hare) - [Introducing for-each loops for Hare](https://harelang.org/blog/2024-04-01-introducing-for-each-loops-in-hare/)
 * [2024-04-22, 21:28:09](https://lobste.rs/s/vxf3ud/announcing_beatrice_finally_tagless) - [Announcing Beatrice: A finally tagless, dependently typed, self-aware programming language](https://hirrolot.github.io/posts/announcing-beatrice.html)
-* [2024-04-22, 21:20:57](https://lobste.rs/s/grkmii/bubble_sort_curve) - [The Bubble Sort Curve](https://youtu.be/Gm8v_MR7TGk)
 * [2024-04-22, 20:15:52](https://lobste.rs/s/g4mu2o/voyager_1_resumes_sending_engineering) - [Voyager 1 Resumes Sending Engineering Updates to Earth](https://blogs.nasa.gov/voyager/2024/04/22/nasas-voyager-1-resumes-sending-engineering-updates-to-earth/)
 * [2024-04-22, 18:22:15](https://lobste.rs/s/hut0to/performance_impact_c_s_final_keyword) - [The Performance Impact of C++'s `final` Keyword](https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/)
 * [2024-04-22, 17:48:01](https://lobste.rs/s/mvzes6/first_come_first_served_impact_file) - [First Come First Served: The Impact of File Position on Code Review (2022)](https://arxiv.org/abs/2208.04259)
