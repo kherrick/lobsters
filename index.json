@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-23, 18:21:51",
+      "https://lobste.rs/s/ksnxhk/ruby_3_3_1_released"
+    ],
+    [
+      "Ruby 3.3.1 Released",
+      "https://www.ruby-lang.org/en/news/2024/04/23/ruby-3-3-1-released/"
+    ]
+  ],
+  [
+    [
       "2024-04-23, 16:39:54",
       "https://lobste.rs/s/ycq6yx/bing_copilot_chatgpt_4_flunks_math"
     ],
@@ -217,16 +227,6 @@
     [
       "The Performance Impact of C++'s `final` Keyword",
       "https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/"
-    ]
-  ],
-  [
-    [
-      "2024-04-22, 13:27:06",
-      "https://lobste.rs/s/ebt4ys/secure_boot_tpm_backed_full_disk"
-    ],
-    [
-      "Secure Boot & TPM-backed Full Disk Encryption on NixOS",
-      "https://jnsgr.uk/2024/04/nixos-secure-boot-tpm-fde/"
     ]
   ],
   [
