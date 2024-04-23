@@ -16,7 +16,7 @@
     ],
     [
       "It’s the End of the Web as We Know It",
-      "https://www.theatlantic.com/technology/archive/2024/04/generative-ai-search-llmo/678154/"
+      "https://archive.is/BF0lR"
     ]
   ],
   [
@@ -57,6 +57,16 @@
     [
       "anthropic-rb: Ruby bindings for the Anthropic API",
       "https://github.com/dickdavis/anthropic-rb"
+    ]
+  ],
+  [
+    [
+      "2024-04-23, 15:31:39",
+      "https://lobste.rs/s/d2g9oi/vcswatch_git_filter"
+    ],
+    [
+      "vcswatch and git --filter",
+      "https://www.df7cb.de/blog/2024/vcswatch-git-filter.html"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "The Performance Impact of C++'s `final` Keyword",
       "https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/"
-    ]
-  ],
-  [
-    [
-      "2024-04-22, 15:38:08",
-      "https://lobste.rs/s/s16hwy/options_for_accessing_llama_3_from"
-    ],
-    [
-      "Options for accessing Llama 3 from the terminal using LLM",
-      "https://simonwillison.net/2024/Apr/22/llama-3/"
     ]
   ],
   [
