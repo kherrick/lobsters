@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-23, 12:42:48](https://lobste.rs/s/zjesr7/coroot_open_source_datadog_newrelic) - [coroot: open-source DataDog/NewRelic alternative](https://github.com/coroot/coroot)
 * [2024-04-23, 11:43:38](https://lobste.rs/s/xdhle7/c_isn_t_hangover_rust_isn_t_hangover_cure) - [C isn’t a Hangover; Rust isn’t a Hangover Cure](https://medium.com/@john_25313/c-isnt-a-hangover-rust-isn-t-a-hangover-cure-580c9b35b5ce)
 * [2024-04-23, 11:00:48](https://lobste.rs/s/apw7fq/test_sizes) - [Test Sizes](https://testing.googleblog.com/2010/12/test-sizes.html)
 * [2024-04-23, 10:56:08](https://lobste.rs/s/mo0qm1/two_reasons_i_prefer_passing_struct) - [The Two Reasons I Prefer Passing Struct Pointers Around](https://preslav.me/2024/04/23/two-reasons-to-prefer-struct-pointers-in-golang/)
@@ -8,7 +9,6 @@
 * [2024-04-23, 08:29:26](https://lobste.rs/s/qwebzx/sdt_prototype_implementation_sdt_probes) - [sdt: Prototype implementation of SDT probes using hot-patching](https://reviews.freebsd.org/D44483)
 * [2024-04-23, 08:12:51](https://lobste.rs/s/nbgohm/optimizations_erlang_otp_27) - [The Optimizations in Erlang/OTP 27](https://www.erlang.org/blog/optimizations/)
 * [2024-04-23, 08:04:42](https://lobste.rs/s/r65bzs/value_unit_tests) - [The value of unit tests](https://nedbatchelder.com//blog/201602/the_value_of_unit_tests.html)
-* [2024-04-23, 06:19:14](https://lobste.rs/s/pzdmin/udev_hid_bpf_quickstart_tooling_fix_your) - [udev-hid-bpf: quickstart tooling to fix your HID devices with eBPF](http://who-t.blogspot.com/2024/04/udev-hid-bpf-quickstart-tooling-to-fix.html)
 * [2024-04-23, 00:42:21](https://lobste.rs/s/kyuc6h/understanding_avoiding_visually) - [Understanding and avoiding visually ambiguous characters in IDs](https://gajus.com/blog/avoiding-visually-ambiguous-characters-in-ids)
 * [2024-04-22, 23:34:00](https://lobste.rs/s/tcl9yc/understanding_trait_selection_bug_rust) - [Understanding a Trait Selection Bug in Rust Compiler](https://veera.app/trait_selection_bug.html)
 * [2024-04-22, 22:51:56](https://lobste.rs/s/kruxyr/good_ideas_computer_science) - [Good Ideas in Computer Science](https://danielchasehooper.com/posts/good-ideas-in-cs/)
