@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-23, 15:31:39](https://lobste.rs/s/d2g9oi/vcswatch_git_filter) - [vcswatch and git --filter](https://www.df7cb.de/blog/2024/vcswatch-git-filter.html)
 * [2024-04-23, 15:19:32](https://lobste.rs/s/olccof/double_edged_sword_docker_balancing) - [Double Edged Sword of Docker: Balancing Benefits and Risks](https://it-notes.dragas.net/2024/04/22/the-doubled-edge-sword-of-docker/)
 * [2024-04-23, 15:18:29](https://lobste.rs/s/htcixa/wireguard_freebsd_vnet_jail) - [WireGuard FreeBSD VNET Jail](https://eldapper.wordpress.com/2024/04/13/wireguard-vnet-jail/)
 * [2024-04-23, 15:14:10](https://lobste.rs/s/vyvpto/extensible_language_support_zed) - [Extensible Language Support in Zed](https://zed.dev/blog/language-extensions-part-1)
@@ -9,7 +10,6 @@
 * [2024-04-23, 11:43:38](https://lobste.rs/s/xdhle7/c_isn_t_hangover_rust_isn_t_hangover_cure) - [C isn’t a Hangover; Rust isn’t a Hangover Cure](https://medium.com/@john_25313/c-isnt-a-hangover-rust-isn-t-a-hangover-cure-580c9b35b5ce)
 * [2024-04-23, 10:56:08](https://lobste.rs/s/mo0qm1/two_reasons_i_prefer_passing_struct) - [The Two Reasons I Prefer Passing Struct Pointers Around](https://preslav.me/2024/04/23/two-reasons-to-prefer-struct-pointers-in-golang/)
 * [2024-04-23, 10:27:14](https://lobste.rs/s/j55jtt/daily_practice_empirical_software) - [A Daily Practice of Empirical Software Design - Kent Beck - (2023)](https://www.youtube.com/watch?v=yBEcq23OgB4)
-* [2024-04-23, 09:26:37](https://lobste.rs/s/1pzrtm/announcing_py2wasm_python_wasm_compiler) - [Announcing py2wasm: A Python to Wasm compiler](https://wasmer.io/posts/py2wasm-a-python-to-wasm-compiler)
 * [2024-04-23, 08:12:51](https://lobste.rs/s/nbgohm/optimizations_erlang_otp_27) - [The Optimizations in Erlang/OTP 27](https://www.erlang.org/blog/optimizations/)
 * [2024-04-23, 00:42:21](https://lobste.rs/s/kyuc6h/understanding_avoiding_visually) - [Understanding and avoiding visually ambiguous characters in IDs](https://gajus.com/blog/avoiding-visually-ambiguous-characters-in-ids)
 * [2024-04-22, 23:34:00](https://lobste.rs/s/tcl9yc/understanding_trait_selection_bug_rust) - [Understanding a Trait Selection Bug in Rust Compiler](https://veera.app/trait_selection_bug.html)
