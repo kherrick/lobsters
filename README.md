@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-23, 06:19:14](https://lobste.rs/s/pzdmin/udev_hid_bpf_quickstart_tooling_fix_your) - [udev-hid-bpf: quickstart tooling to fix your HID devices with eBPF](http://who-t.blogspot.com/2024/04/udev-hid-bpf-quickstart-tooling-to-fix.html)
 * [2024-04-23, 00:42:21](https://lobste.rs/s/kyuc6h/understanding_avoiding_visually) - [Understanding and avoiding visually ambiguous characters in IDs](https://gajus.com/blog/avoiding-visually-ambiguous-characters-in-ids)
-* [2024-04-23, 00:00:16](https://lobste.rs/s/ifxjz6/llm_flash_efficient_large_language_model) - [LLM in a flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/pdf/2312.11514.pdf)
 * [2024-04-22, 23:34:00](https://lobste.rs/s/tcl9yc/understanding_trait_selection_bug_rust) - [Understanding a Trait Selection Bug in Rust Compiler](https://veera.app/trait_selection_bug.html)
 * [2024-04-22, 22:51:56](https://lobste.rs/s/kruxyr/good_ideas_computer_science) - [Good Ideas in Computer Science](https://danielchasehooper.com/posts/good-ideas-in-cs/)
 * [2024-04-22, 21:52:29](https://lobste.rs/s/d8qwvo/introducing_for_each_loops_for_hare) - [Introducing for-each loops for Hare](https://harelang.org/blog/2024-04-01-introducing-for-each-loops-in-hare/)
