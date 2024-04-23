@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 14:09:29](https://lobste.rs/s/ncmr1w/proverb_slebok) - [ProVerB — SLEBoK](https://slebok.github.io/proverb/index.html)
 * [2024-04-23, 13:32:33](https://lobste.rs/s/xxdzcd/help_us_invent_css_grid_level_3_aka_masonry) - [Help us invent CSS Grid Level 3, aka “Masonry” layout](https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/)
 * [2024-04-23, 13:03:57](https://lobste.rs/s/akt3z1/what_is_gpt_visual_intro_transformers) - [But what is a GPT? Visual intro to transformers](https://www.youtube.com/watch?v=wjZofJX0v4M)
 * [2024-04-23, 12:42:48](https://lobste.rs/s/zjesr7/coroot_open_source_datadog_newrelic) - [coroot: open-source DataDog/NewRelic alternative](https://github.com/coroot/coroot)

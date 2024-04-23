@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-23, 14:09:29](https://lobste.rs/s/ncmr1w/proverb_slebok) - [ProVerB — SLEBoK](https://slebok.github.io/proverb/index.html)
 * [2024-04-23, 13:32:33](https://lobste.rs/s/xxdzcd/help_us_invent_css_grid_level_3_aka_masonry) - [Help us invent CSS Grid Level 3, aka “Masonry” layout](https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/)
 * [2024-04-23, 13:03:57](https://lobste.rs/s/akt3z1/what_is_gpt_visual_intro_transformers) - [But what is a GPT? Visual intro to transformers](https://www.youtube.com/watch?v=wjZofJX0v4M)
 * [2024-04-23, 12:42:48](https://lobste.rs/s/zjesr7/coroot_open_source_datadog_newrelic) - [coroot: open-source DataDog/NewRelic alternative](https://github.com/coroot/coroot)
@@ -9,7 +10,6 @@
 * [2024-04-23, 09:26:37](https://lobste.rs/s/1pzrtm/announcing_py2wasm_python_wasm_compiler) - [Announcing py2wasm: A Python to Wasm compiler](https://wasmer.io/posts/py2wasm-a-python-to-wasm-compiler)
 * [2024-04-23, 08:29:26](https://lobste.rs/s/qwebzx/sdt_prototype_implementation_sdt_probes) - [sdt: Prototype implementation of SDT probes using hot-patching](https://reviews.freebsd.org/D44483)
 * [2024-04-23, 08:12:51](https://lobste.rs/s/nbgohm/optimizations_erlang_otp_27) - [The Optimizations in Erlang/OTP 27](https://www.erlang.org/blog/optimizations/)
-* [2024-04-23, 08:04:42](https://lobste.rs/s/r65bzs/value_unit_tests) - [The value of unit tests](https://nedbatchelder.com//blog/201602/the_value_of_unit_tests.html)
 * [2024-04-23, 00:42:21](https://lobste.rs/s/kyuc6h/understanding_avoiding_visually) - [Understanding and avoiding visually ambiguous characters in IDs](https://gajus.com/blog/avoiding-visually-ambiguous-characters-in-ids)
 * [2024-04-22, 23:34:00](https://lobste.rs/s/tcl9yc/understanding_trait_selection_bug_rust) - [Understanding a Trait Selection Bug in Rust Compiler](https://veera.app/trait_selection_bug.html)
 * [2024-04-22, 22:51:56](https://lobste.rs/s/kruxyr/good_ideas_computer_science) - [Good Ideas in Computer Science](https://danielchasehooper.com/posts/good-ideas-in-cs/)
