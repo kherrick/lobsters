@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-23](index.md)
 
+* [2024-04-23, 15:53:19](https://lobste.rs/s/vxsub3/rust_sel4_rust_support_for_sel4_userspace) - [rust-sel4: Rust support for seL4 userspace](https://github.com/seL4/rust-sel4)
+* [2024-04-23, 15:51:54](https://lobste.rs/s/4c51gw/cakeml) - [CakeML](https://cakeml.org/)
 * [2024-04-23, 15:45:10](https://lobste.rs/s/cs21kl/taking_regular_screenshots_my_website) - [Taking regular screenshots of my website](https://alexwlchan.net/2024/scheduled-screenshots/)
 * [2024-04-23, 15:37:46](https://lobste.rs/s/cfmzq3/anthropic_rb_ruby_bindings_for_anthropic) - [anthropic-rb: Ruby bindings for the Anthropic API](https://github.com/dickdavis/anthropic-rb)
 * [2024-04-23, 15:31:39](https://lobste.rs/s/d2g9oi/vcswatch_git_filter) - [vcswatch and git --filter](https://www.df7cb.de/blog/2024/vcswatch-git-filter.html)
