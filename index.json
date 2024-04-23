@@ -1,22 +1,52 @@
 [
   [
     [
+      "2024-04-23, 11:16:15",
+      "https://lobste.rs/s/7pliui/freebsd_for_devs_04"
+    ],
+    [
+      "FreeBSD for Devs #04",
+      "https://dev.to/scovl/freebsd-for-devs-04-5c1m"
+    ]
+  ],
+  [
+    [
+      "2024-04-23, 11:15:56",
+      "https://lobste.rs/s/1fmmlj/freebsd_for_devs_03"
+    ],
+    [
+      "FreeBSD for Devs #03",
+      "https://dev.to/scovl/freebsd-for-devs-03-4dhd"
+    ]
+  ],
+  [
+    [
+      "2024-04-23, 11:15:35",
+      "https://lobste.rs/s/ygsf0g/freebsd_for_devs_02"
+    ],
+    [
+      "FreeBSD for Devs #02",
+      "https://dev.to/scovl/freebsd-for-devs-02-44mk"
+    ]
+  ],
+  [
+    [
+      "2024-04-23, 11:15:11",
+      "https://lobste.rs/s/rgnzkp/freebsd_for_devs_01"
+    ],
+    [
+      "FreeBSD for Devs #01",
+      "https://dev.to/scovl/freebsd-for-devs-3n0k"
+    ]
+  ],
+  [
+    [
       "2024-04-23, 11:00:48",
       "https://lobste.rs/s/apw7fq/test_sizes"
     ],
     [
       "Test Sizes",
       "https://testing.googleblog.com/2010/12/test-sizes.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-23, 10:56:08",
-      "https://lobste.rs/s/mo0qm1/two_reasons_i_prefer_passing_struct"
-    ],
-    [
-      "The Two Reasons I Prefer Passing Struct Pointers Around",
-      "https://preslav.me/2024/04/23/two-reasons-to-prefer-struct-pointers-in-golang/"
     ]
   ],
   [
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2024-04-22, 11:56:38",
-      "https://lobste.rs/s/9hgrkl/logtape_simple_logging_library_with_zero"
-    ],
-    [
-      "LogTape: Simple logging library with zero dependencies for Deno/Node.js/Bun/browsers",
-      "https://github.com/dahlia/logtape"
-    ]
-  ],
-  [
-    [
       "2024-04-22, 11:45:47",
       "https://lobste.rs/s/bjumde/only_two_log_levels_you_need_are_info_error"
     ],
     [
       "The only two log levels you need are INFO and ERROR",
       "https://ntietz.com/blog/the-only-two-log-levels-you-need-are-info-and-error/"
-    ]
-  ],
-  [
-    [
-      "2024-04-22, 10:26:46",
-      "https://lobste.rs/s/rw05ny/are_aarch64_atomics_really_this"
-    ],
-    [
-      "Are aarch64 atomics really this sensitive?",
-      "https://eighty-twenty.org/2024/04/22/aarch64-atomics"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "What’s New in Go 1.22: cmp.Or",
       "https://blog.carlana.net/post/2024/golang-cmp-or-uses-and-history/"
-    ]
-  ],
-  [
-    [
-      "2024-04-22, 01:43:03",
-      "https://lobste.rs/s/eicz7a/inside_super_nintendo_cartridges"
-    ],
-    [
-      "Inside the Super Nintendo cartridges",
-      "https://fabiensanglard.net/snes_carts/index.html"
     ]
   ],
   [
