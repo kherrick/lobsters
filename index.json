@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-23, 11:00:48",
+      "https://lobste.rs/s/apw7fq/test_sizes"
+    ],
+    [
+      "Test Sizes",
+      "https://testing.googleblog.com/2010/12/test-sizes.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-23, 10:56:08",
+      "https://lobste.rs/s/mo0qm1/two_reasons_i_prefer_passing_struct"
+    ],
+    [
+      "The Two Reasons I Prefer Passing Struct Pointers Around",
+      "https://preslav.me/2024/04/23/two-reasons-to-prefer-struct-pointers-in-golang/"
+    ]
+  ],
+  [
+    [
       "2024-04-23, 10:27:14",
       "https://lobste.rs/s/j55jtt/daily_practice_empirical_software"
     ],
@@ -17,16 +37,6 @@
     [
       "Announcing py2wasm: A Python to Wasm compiler",
       "https://wasmer.io/posts/py2wasm-a-python-to-wasm-compiler"
-    ]
-  ],
-  [
-    [
-      "2024-04-23, 08:29:26",
-      "https://lobste.rs/s/qwebzx/sdt_prototype_implementation_sdt_probes"
-    ],
-    [
-      "sdt: Prototype implementation of SDT probes using hot-patching",
-      "https://reviews.freebsd.org/D44483"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "badkeys tool can detect xz backdoor RSA keys",
       "https://github.com/badkeys/badkeys/releases/tag/v0.0.7"
-    ]
-  ],
-  [
-    [
-      "2024-04-22, 03:13:20",
-      "https://lobste.rs/s/faglia/shared_libs_rpath_runtime_linker"
-    ],
-    [
-      "Shared libs, rpath and the runtime linker",
-      "https://carlosrdrz.dev/shared-libs-rpath-and-the-runtime-linker"
     ]
   ],
   [
