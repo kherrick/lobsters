@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-23, 16:39:54](https://lobste.rs/s/ycq6yx/bing_copilot_chatgpt_4_flunks_math) - [Bing Copilot (ChatGPT-4) Flunks Math](https://www.cs.dartmouth.edu/~doug/ChatMath.pdf)
 * [2024-04-23, 16:11:59](https://lobste.rs/s/shksoq/good_essays_on_application_vs_library) - [Good essays on application vs library programming?](https://lobste.rs/s/shksoq/good_essays_on_application_vs_library)
 * [2024-04-23, 16:06:47](https://lobste.rs/s/8oshbg/it_s_end_web_as_we_know_it) - [It’s the End of the Web as We Know It](https://archive.is/BF0lR)
 * [2024-04-23, 15:53:19](https://lobste.rs/s/vxsub3/rust_sel4_rust_support_for_sel4_userspace) - [rust-sel4: Rust support for seL4 userspace](https://github.com/seL4/rust-sel4)
 * [2024-04-23, 15:51:54](https://lobste.rs/s/4c51gw/cakeml) - [CakeML](https://cakeml.org/)
-* [2024-04-23, 15:45:10](https://lobste.rs/s/cs21kl/taking_regular_screenshots_my_website) - [Taking regular screenshots of my website](https://alexwlchan.net/2024/scheduled-screenshots/)
 * [2024-04-23, 15:37:46](https://lobste.rs/s/cfmzq3/anthropic_rb_ruby_bindings_for_anthropic) - [anthropic-rb: Ruby bindings for the Anthropic API](https://github.com/dickdavis/anthropic-rb)
 * [2024-04-23, 15:31:39](https://lobste.rs/s/d2g9oi/vcswatch_git_filter) - [vcswatch and git --filter](https://www.df7cb.de/blog/2024/vcswatch-git-filter.html)
 * [2024-04-23, 15:14:10](https://lobste.rs/s/vyvpto/extensible_language_support_zed) - [Extensible Language Support in Zed](https://zed.dev/blog/language-extensions-part-1)
