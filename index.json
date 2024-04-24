@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-04-24, 00:39:27",
+      "https://lobste.rs/s/iyzgqk/porting_cross_platform_gui_application"
+    ],
+    [
+      "Porting a cross-platform GUI application to Rust",
+      "https://hacks.mozilla.org/2024/04/porting-a-cross-platform-gui-application-to-rust/"
+    ]
+  ],
+  [
+    [
+      "2024-04-24, 00:32:07",
+      "https://lobste.rs/s/iswtpt/lean_theorem_prover_used_show_new"
+    ],
+    [
+      "lean theorem prover used to show that New Foundations set theory is equiconsistent with ZFC",
+      "https://leanprover-community.github.io/con-nf/"
+    ]
+  ],
+  [
+    [
+      "2024-04-24, 00:31:01",
+      "https://lobste.rs/s/amvlq6/can_open_source_revolutionize"
+    ],
+    [
+      "Can open source revolutionize professional networking?",
+      "https://github.com/eronka/culero"
+    ]
+  ],
+  [
+    [
+      "2024-04-24, 00:02:44",
+      "https://lobste.rs/s/axeymn/llm_agents_can_autonomously_exploit_one"
+    ],
+    [
+      "LLM Agents can Autonomously Exploit One-day Vulnerabilities",
+      "https://arxiv.org/abs/2404.08144"
+    ]
+  ],
+  [
+    [
       "2024-04-23, 23:01:49",
       "https://lobste.rs/s/tycwfc/tracking_down_uefi_quirk_on_fujitsu"
     ],
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2024-04-23, 15:37:46",
-      "https://lobste.rs/s/cfmzq3/anthropic_rb_ruby_bindings_for_anthropic"
-    ],
-    [
-      "anthropic-rb: Ruby bindings for the Anthropic API",
-      "https://github.com/dickdavis/anthropic-rb"
-    ]
-  ],
-  [
-    [
       "2024-04-23, 15:31:39",
       "https://lobste.rs/s/d2g9oi/vcswatch_git_filter"
     ],
@@ -157,16 +187,6 @@
     [
       "Help us invent CSS Grid Level 3, aka “Masonry” layout",
       "https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/"
-    ]
-  ],
-  [
-    [
-      "2024-04-23, 12:42:48",
-      "https://lobste.rs/s/zjesr7/coroot_open_source_datadog_newrelic"
-    ],
-    [
-      "coroot: open-source DataDog/NewRelic alternative",
-      "https://github.com/coroot/coroot"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2024-04-22, 21:28:09",
-      "https://lobste.rs/s/vxf3ud/announcing_beatrice_finally_tagless"
-    ],
-    [
-      "Announcing Beatrice: A finally tagless, dependently typed, self-aware programming language",
-      "https://hirrolot.github.io/posts/announcing-beatrice.html"
-    ]
-  ],
-  [
-    [
       "2024-04-22, 20:15:52",
       "https://lobste.rs/s/g4mu2o/voyager_1_resumes_sending_engineering"
     ],
     [
       "Voyager 1 Resumes Sending Engineering Updates to Earth",
       "https://blogs.nasa.gov/voyager/2024/04/22/nasas-voyager-1-resumes-sending-engineering-updates-to-earth/"
-    ]
-  ],
-  [
-    [
-      "2024-04-22, 18:22:15",
-      "https://lobste.rs/s/hut0to/performance_impact_c_s_final_keyword"
-    ],
-    [
-      "The Performance Impact of C++'s `final` Keyword",
-      "https://16bpp.net/blog/post/the-performance-impact-of-cpp-final-keyword/"
     ]
   ]
 ]
