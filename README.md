@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-24, 11:11:17](https://lobste.rs/s/keefsk/apple_m_series_gofetch_attack) - [The Apple M-Series GoFetch Attack](https://youtube.com/watch?v=uZEBkOrfUzM)
 * [2024-04-24, 09:51:34](https://lobste.rs/s/bflkkz/rise_gql_new_iso_standard_graph_query) - [The Rise of GQL: A New ISO Standard in Graph Query Language](https://www.tigergraph.com/blog/the-rise-of-gql-a-new-iso-standard-in-graph-query-language/)
 * [2024-04-24, 09:17:18](https://lobste.rs/s/grovsl/project_fluent) - [Project Fluent](https://projectfluent.org/)
 * [2024-04-24, 08:31:39](https://lobste.rs/s/kcxyjd/sysadmin_friendly_high_speed_ethernet) - [Sysadmin friendly high speed ethernet switching](https://blog.benjojo.co.uk/post/sn2010-linux-hacking-switchdev)
@@ -15,7 +16,6 @@
 * [2024-04-23, 22:47:28](https://lobste.rs/s/eqt5sz/esphome) - [ESPHome](https://esphome.io/index.html)
 * [2024-04-23, 21:56:51](https://lobste.rs/s/txb5gs/are_batch_scripts_security) - [Are batch scripts a security vulnerability?](https://chrisdenton.dev/p/batcmd/)
 * [2024-04-23, 19:10:10](https://lobste.rs/s/7uhthp/spritely_goblins_v0_13_0_object) - [Spritely Goblins v0.13.0: Object persistence and easier IO](https://spritely.institute/news/spritely-goblins-v0130-object-persistence-and-easier-io.html)
-* [2024-04-23, 16:39:54](https://lobste.rs/s/ycq6yx/bing_copilot_chatgpt_4_flunks_math) - [Bing Copilot (ChatGPT-4) Flunks Math](https://www.cs.dartmouth.edu/~doug/ChatMath.pdf)
 * [2024-04-23, 16:11:59](https://lobste.rs/s/shksoq/good_essays_on_application_vs_library) - [Good essays on application vs library programming?](https://lobste.rs/s/shksoq/good_essays_on_application_vs_library)
 * [2024-04-23, 16:06:47](https://lobste.rs/s/8oshbg/it_s_end_web_as_we_know_it) - [It’s the End of the Web as We Know It](https://archive.is/BF0lR)
 * [2024-04-23, 15:51:54](https://lobste.rs/s/4c51gw/cakeml) - [CakeML](https://cakeml.org/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 11:11:17](https://lobste.rs/s/keefsk/apple_m_series_gofetch_attack) - [The Apple M-Series GoFetch Attack](https://youtube.com/watch?v=uZEBkOrfUzM)
 * [2024-04-24, 09:51:34](https://lobste.rs/s/bflkkz/rise_gql_new_iso_standard_graph_query) - [The Rise of GQL: A New ISO Standard in Graph Query Language](https://www.tigergraph.com/blog/the-rise-of-gql-a-new-iso-standard-in-graph-query-language/)
 * [2024-04-24, 09:17:18](https://lobste.rs/s/grovsl/project_fluent) - [Project Fluent](https://projectfluent.org/)
 * [2024-04-24, 08:31:39](https://lobste.rs/s/kcxyjd/sysadmin_friendly_high_speed_ethernet) - [Sysadmin friendly high speed ethernet switching](https://blog.benjojo.co.uk/post/sn2010-linux-hacking-switchdev)
