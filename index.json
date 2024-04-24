@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-04-24, 00:31:01",
-      "https://lobste.rs/s/amvlq6/can_open_source_revolutionize"
-    ],
-    [
-      "Can open source revolutionize professional networking?",
-      "https://github.com/eronka/culero"
-    ]
-  ],
-  [
-    [
       "2024-04-24, 00:02:44",
       "https://lobste.rs/s/axeymn/llm_agents_can_autonomously_exploit_one"
     ],
@@ -237,6 +227,16 @@
     [
       "Good Ideas in Computer Science",
       "https://danielchasehooper.com/posts/good-ideas-in-cs/"
+    ]
+  ],
+  [
+    [
+      "2024-04-22, 21:28:09",
+      "https://lobste.rs/s/vxf3ud/announcing_beatrice_finally_tagless"
+    ],
+    [
+      "Announcing Beatrice: A finally tagless, dependently typed, self-aware programming language",
+      "https://hirrolot.github.io/posts/announcing-beatrice.html"
     ]
   ],
   [
