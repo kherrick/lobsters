@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-24, 12:56:32](https://lobste.rs/s/v9bbbm/html_attributes_vs_dom_properties) - [HTML attributes vs DOM properties](https://jakearchibald.com/2024/attributes-vs-properties/)
 * [2024-04-24, 12:27:42](https://lobste.rs/s/wjel97/learn_otp_with_gleam) - [Learn OTP With Gleam](https://github.com/bcpeinhardt/learn_otp_with_gleam)
 * [2024-04-24, 11:11:17](https://lobste.rs/s/keefsk/apple_m_series_gofetch_attack) - [The Apple M-Series GoFetch Attack](https://youtube.com/watch?v=uZEBkOrfUzM)
 * [2024-04-24, 09:17:18](https://lobste.rs/s/grovsl/project_fluent) - [Project Fluent](https://projectfluent.org/)
@@ -12,7 +13,6 @@
 * [2024-04-24, 01:48:01](https://lobste.rs/s/krkuc9/who_are_your_favorite_tech_youtubers) - [Who are your favorite tech youtubers](https://lobste.rs/s/krkuc9/who_are_your_favorite_tech_youtubers)
 * [2024-04-24, 00:39:27](https://lobste.rs/s/iyzgqk/porting_cross_platform_gui_application) - [Porting a cross-platform GUI application to Rust](https://hacks.mozilla.org/2024/04/porting-a-cross-platform-gui-application-to-rust/)
 * [2024-04-24, 00:32:07](https://lobste.rs/s/iswtpt/lean_theorem_prover_used_show_new) - [lean theorem prover used to show that New Foundations set theory is equiconsistent with ZFC](https://leanprover-community.github.io/con-nf/)
-* [2024-04-23, 23:01:49](https://lobste.rs/s/tycwfc/tracking_down_uefi_quirk_on_fujitsu) - [Tracking down a UEFI quirk on the Fujitsu LIFEBOOK AH532](https://blog.timschumi.net/2024/04/23/ah532-bios-workaround.html)
 * [2024-04-23, 22:47:28](https://lobste.rs/s/eqt5sz/esphome) - [ESPHome](https://esphome.io/index.html)
 * [2024-04-23, 22:05:23](https://lobste.rs/s/ukzoix/sized_dynsized_unsized) - [Sized, DynSized, and Unsized](https://smallcultfollowing.com/babysteps/blog/2024/04/23/dynsized-unsized/)
 * [2024-04-23, 21:56:51](https://lobste.rs/s/txb5gs/are_batch_scripts_security) - [Are batch scripts a security vulnerability?](https://chrisdenton.dev/p/batcmd/)
