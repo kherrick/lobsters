@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 21:50:22](https://lobste.rs/s/mkd6a7/notifications_46_beyond_gnome_shell) - [Notifications in 46 and beyond – GNOME Shell & Mutter](https://blogs.gnome.org/shell-dev/2024/04/23/notifications-46-and-beyond/)
 * [2024-04-24, 20:47:56](https://lobste.rs/s/5t82fh/magic_numbers) - [Magic Numbers](https://exple.tive.org/blarg/2024/04/24/magic-numbers/)
 * [2024-04-24, 20:05:53](https://lobste.rs/s/k59xrk/next_js_app_router_routing_patterns_you) - [Next.js App Router Routing patterns you should know](https://medium.com/p/9dfa6b669983)
 * [2024-04-24, 18:28:46](https://lobste.rs/s/aq7r8h/fine_tuning_openai_models) - [Fine-tuning OpenAI models](https://gajus.com/blog/fine-tuning-openai-models)
