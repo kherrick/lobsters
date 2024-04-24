@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 06:40:24](https://lobste.rs/s/ohpb76/any_lobsters_hanoi) - [Any Lobsters in Hanoi?](https://lobste.rs/s/ohpb76/any_lobsters_hanoi)
 * [2024-04-24, 05:21:40](https://lobste.rs/s/hvos1z/beckhoff_achieves_smaller_1_5gb_vs_2_0gb) - [Beckhoff Achieves Smaller (1.5GB vs. 2.0GB) RAM Footprint by Switching from Windows to FreeBSD](https://freebsdfoundation.org/freebsd-case-studies/beckhoff-case-study/)
 * [2024-04-24, 04:28:13](https://lobste.rs/s/mw8v1l/we_attend_vintage_computer_festival_vcf) - [We attend the Vintage Computer Festival (VCF East 2024)](https://youtu.be/aZESRSNQsTw)
 * [2024-04-24, 04:27:27](https://lobste.rs/s/fnzbfy/color_ttys) - [Color and TTYs](https://eklitzke.org/ansi-color-codes)
