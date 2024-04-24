@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 08:31:39](https://lobste.rs/s/kcxyjd/sysadmin_friendly_high_speed_ethernet) - [Sysadmin friendly high speed ethernet switching](https://blog.benjojo.co.uk/post/sn2010-linux-hacking-switchdev)
 * [2024-04-24, 08:03:54](https://lobste.rs/s/xastav/manman_2020) - [ManMan (2020)](https://wooz.dev/ManMan)
 * [2024-04-24, 06:47:24](https://lobste.rs/s/7wxq7m/composability_designing_visual) - [Composability: Designing a Visual Programming Language](https://johnaustin.io/articles/2024/composability-designing-a-visual-programming-language)
 * [2024-04-24, 06:40:24](https://lobste.rs/s/ohpb76/any_lobsters_hanoi) - [Any Lobsters in Hanoi?](https://lobste.rs/s/ohpb76/any_lobsters_hanoi)
