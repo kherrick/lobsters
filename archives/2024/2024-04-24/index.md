@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 23:49:31](https://lobste.rs/s/pfqkco/21_helpful_trending_ruby_gems) - [21 Helpful and trending Ruby gems](https://dev.to/stanbright/21-helpful-and-trending-in-april-ruby-gems-42en)
 * [2024-04-24, 23:20:51](https://lobste.rs/s/efaxuf/pilgrimages_for_electronics_tinkerers) - [Pilgrimages for electronics tinkerers in Tokyo/Kyoto/Osaka?](https://lobste.rs/s/efaxuf/pilgrimages_for_electronics_tinkerers)
 * [2024-04-24, 21:50:22](https://lobste.rs/s/mkd6a7/notifications_46_beyond_gnome_shell) - [Notifications in 46 and beyond – GNOME Shell & Mutter](https://blogs.gnome.org/shell-dev/2024/04/23/notifications-46-and-beyond/)
 * [2024-04-24, 20:47:56](https://lobste.rs/s/5t82fh/magic_numbers) - [Magic Numbers](https://exple.tive.org/blarg/2024/04/24/magic-numbers/)
