@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 17:37:47](https://lobste.rs/s/r50zeq/ukrainian_coder_s_new_programming) - [Ukrainian Coder's New Programming Language: One Big Data Structure](https://thenewstack.io/ukrainian-coders-new-programming-language-one-big-data-structure/)
 * [2024-04-24, 17:23:09](https://lobste.rs/s/uufjcl/is_your_programming_language_made) - [Is your programming language made of multidimensional plasma?](https://cygni.ghost.io/artiklar/is-your-programming-language-made-of-multidimensional-plasma/)
 * [2024-04-24, 17:06:26](https://lobste.rs/s/jm6zqo/so_you_want_learn_break_ciphers) - [So, You Want to Learn to Break Ciphers?](https://littlemaninmyhead.wordpress.com/2015/09/28/so-you-want-to-learn-to-break-ciphers/)
 * [2024-04-24, 17:03:30](https://lobste.rs/s/cdgfmw/dumping_extracting_spacex_starlink_user) - [Dumping and extracting the SpaceX Starlink User Terminal firmware](https://www.esat.kuleuven.be/cosic/blog/dumping-and-extracting-the-spacex-starlink-user-terminal-firmware/)

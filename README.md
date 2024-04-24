@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-04-24, 17:23:09](https://lobste.rs/s/uufjcl/is_your_programming_language_made) - [Is your programming language made of multidimensional plasma?](https://cygni.ghost.io/artiklar/is-your-programming-language-made-of-multidimensional-plasma/)
+* [2024-04-24, 17:37:47](https://lobste.rs/s/r50zeq/ukrainian_coder_s_new_programming) - [Ukrainian Coder's New Programming Language: One Big Data Structure](https://thenewstack.io/ukrainian-coders-new-programming-language-one-big-data-structure/)
 * [2024-04-24, 17:03:30](https://lobste.rs/s/cdgfmw/dumping_extracting_spacex_starlink_user) - [Dumping and extracting the SpaceX Starlink User Terminal firmware](https://www.esat.kuleuven.be/cosic/blog/dumping-and-extracting-the-spacex-starlink-user-terminal-firmware/)
 * [2024-04-24, 17:01:28](https://lobste.rs/s/m3xdsi/how_i_tricked_ios_into_giving_me_eu_dma) - [How I tricked iOS into giving me EU DMA features](https://adamdemasi.com/2024/04/20/ios-eligibility.html)
+* [2024-04-24, 16:37:55](https://lobste.rs/s/mutdyp/borrow_checking_rc_gc_eleven_other_memory) - [Borrow checking, RC, GC, and the Eleven (!) Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire)
 * [2024-04-24, 16:25:10](https://lobste.rs/s/lpodta/emacs_tidbit_rectangle_number_lines) - [Emacs Tidbit: rectangle-number-lines](https://www.emoses.org/posts/rectangle-number-lines/)
 * [2024-04-24, 15:58:39](https://lobste.rs/s/2rvfwm/visual_introduction_fourier_series) - [A visual introduction to Fourier Series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
 * [2024-04-24, 13:38:52](https://lobste.rs/s/zmtcwj/no_llm_agents_can_not_autonomously) - [No, LLM Agents can not Autonomously Exploit One-day Vulnerabilities](https://struct.github.io/auto_agents_1_day.html)
@@ -22,7 +23,6 @@
 * [2024-04-23, 21:56:51](https://lobste.rs/s/txb5gs/are_batch_scripts_security) - [Are batch scripts a security vulnerability?](https://chrisdenton.dev/p/batcmd/)
 * [2024-04-23, 19:10:10](https://lobste.rs/s/7uhthp/spritely_goblins_v0_13_0_object) - [Spritely Goblins v0.13.0: Object persistence and easier IO](https://spritely.institute/news/spritely-goblins-v0130-object-persistence-and-easier-io.html)
 * [2024-04-23, 16:06:47](https://lobste.rs/s/8oshbg/it_s_end_web_as_we_know_it) - [It’s the End of the Web as We Know It](https://archive.is/BF0lR)
-* [2024-04-23, 15:14:10](https://lobste.rs/s/vyvpto/extensible_language_support_zed) - [Extensible Language Support in Zed](https://zed.dev/blog/language-extensions-part-1)
 * [2024-04-23, 13:32:33](https://lobste.rs/s/xxdzcd/help_us_invent_css_grid_level_3_aka_masonry) - [Help us invent CSS Grid Level 3, aka “Masonry” layout](https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/)
 * [2024-04-23, 11:43:38](https://lobste.rs/s/xdhle7/c_isn_t_hangover_rust_isn_t_hangover_cure) - [C isn’t a Hangover; Rust isn’t a Hangover Cure](https://medium.com/@john_25313/c-isnt-a-hangover-rust-isn-t-a-hangover-cure-580c9b35b5ce)
 
