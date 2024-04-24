@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-04-24, 17:23:09",
-      "https://lobste.rs/s/uufjcl/is_your_programming_language_made"
+      "2024-04-24, 17:37:47",
+      "https://lobste.rs/s/r50zeq/ukrainian_coder_s_new_programming"
     ],
     [
-      "Is your programming language made of multidimensional plasma?",
-      "https://cygni.ghost.io/artiklar/is-your-programming-language-made-of-multidimensional-plasma/"
+      "Ukrainian Coder's New Programming Language: One Big Data Structure",
+      "https://thenewstack.io/ukrainian-coders-new-programming-language-one-big-data-structure/"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "How I tricked iOS into giving me EU DMA features",
       "https://adamdemasi.com/2024/04/20/ios-eligibility.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-24, 16:37:55",
+      "https://lobste.rs/s/mutdyp/borrow_checking_rc_gc_eleven_other_memory"
+    ],
+    [
+      "Borrow checking, RC, GC, and the Eleven (!) Other Memory Safety Approaches",
+      "https://verdagon.dev/grimoire/grimoire"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "It’s the End of the Web as We Know It",
       "https://archive.is/BF0lR"
-    ]
-  ],
-  [
-    [
-      "2024-04-23, 15:14:10",
-      "https://lobste.rs/s/vyvpto/extensible_language_support_zed"
-    ],
-    [
-      "Extensible Language Support in Zed",
-      "https://zed.dev/blog/language-extensions-part-1"
     ]
   ],
   [
