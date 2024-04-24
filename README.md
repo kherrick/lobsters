@@ -1,9 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-24, 04:28:13](https://lobste.rs/s/mw8v1l/we_attend_vintage_computer_festival_vcf) - [We attend the Vintage Computer Festival (VCF East 2024)](https://youtu.be/aZESRSNQsTw)
+* [2024-04-24, 04:27:27](https://lobste.rs/s/fnzbfy/color_ttys) - [Color and TTYs](https://eklitzke.org/ansi-color-codes)
 * [2024-04-24, 01:48:01](https://lobste.rs/s/krkuc9/who_are_your_favorite_tech_youtubers) - [Who are your favorite tech youtubers](https://lobste.rs/s/krkuc9/who_are_your_favorite_tech_youtubers)
 * [2024-04-24, 00:39:27](https://lobste.rs/s/iyzgqk/porting_cross_platform_gui_application) - [Porting a cross-platform GUI application to Rust](https://hacks.mozilla.org/2024/04/porting-a-cross-platform-gui-application-to-rust/)
 * [2024-04-24, 00:32:07](https://lobste.rs/s/iswtpt/lean_theorem_prover_used_show_new) - [lean theorem prover used to show that New Foundations set theory is equiconsistent with ZFC](https://leanprover-community.github.io/con-nf/)
-* [2024-04-24, 00:02:44](https://lobste.rs/s/axeymn/llm_agents_can_autonomously_exploit_one) - [LLM Agents can Autonomously Exploit One-day Vulnerabilities](https://arxiv.org/abs/2404.08144)
 * [2024-04-23, 23:01:49](https://lobste.rs/s/tycwfc/tracking_down_uefi_quirk_on_fujitsu) - [Tracking down a UEFI quirk on the Fujitsu LIFEBOOK AH532](https://blog.timschumi.net/2024/04/23/ah532-bios-workaround.html)
 * [2024-04-23, 22:47:28](https://lobste.rs/s/eqt5sz/esphome) - [ESPHome](https://esphome.io/index.html)
 * [2024-04-23, 22:05:23](https://lobste.rs/s/ukzoix/sized_dynsized_unsized) - [Sized, DynSized, and Unsized](https://smallcultfollowing.com/babysteps/blog/2024/04/23/dynsized-unsized/)
@@ -22,7 +23,6 @@
 * [2024-04-23, 11:43:38](https://lobste.rs/s/xdhle7/c_isn_t_hangover_rust_isn_t_hangover_cure) - [C isn’t a Hangover; Rust isn’t a Hangover Cure](https://medium.com/@john_25313/c-isnt-a-hangover-rust-isn-t-a-hangover-cure-580c9b35b5ce)
 * [2024-04-23, 10:56:08](https://lobste.rs/s/mo0qm1/two_reasons_i_prefer_passing_struct) - [The Two Reasons I Prefer Passing Struct Pointers Around](https://preslav.me/2024/04/23/two-reasons-to-prefer-struct-pointers-in-golang/)
 * [2024-04-23, 08:12:51](https://lobste.rs/s/nbgohm/optimizations_erlang_otp_27) - [The Optimizations in Erlang/OTP 27](https://www.erlang.org/blog/optimizations/)
-* [2024-04-23, 00:42:21](https://lobste.rs/s/kyuc6h/understanding_avoiding_visually) - [Understanding and avoiding visually ambiguous characters in IDs](https://gajus.com/blog/avoiding-visually-ambiguous-characters-in-ids)
 * [2024-04-22, 22:51:56](https://lobste.rs/s/kruxyr/good_ideas_computer_science) - [Good Ideas in Computer Science](https://danielchasehooper.com/posts/good-ideas-in-cs/)
 * [2024-04-22, 20:15:52](https://lobste.rs/s/g4mu2o/voyager_1_resumes_sending_engineering) - [Voyager 1 Resumes Sending Engineering Updates to Earth](https://blogs.nasa.gov/voyager/2024/04/22/nasas-voyager-1-resumes-sending-engineering-updates-to-earth/)
 

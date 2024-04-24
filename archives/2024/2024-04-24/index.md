@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 04:28:13](https://lobste.rs/s/mw8v1l/we_attend_vintage_computer_festival_vcf) - [We attend the Vintage Computer Festival (VCF East 2024)](https://youtu.be/aZESRSNQsTw)
+* [2024-04-24, 04:27:27](https://lobste.rs/s/fnzbfy/color_ttys) - [Color and TTYs](https://eklitzke.org/ansi-color-codes)
 * [2024-04-24, 01:48:01](https://lobste.rs/s/krkuc9/who_are_your_favorite_tech_youtubers) - [Who are your favorite tech youtubers](https://lobste.rs/s/krkuc9/who_are_your_favorite_tech_youtubers)
 * [2024-04-24, 00:39:27](https://lobste.rs/s/iyzgqk/porting_cross_platform_gui_application) - [Porting a cross-platform GUI application to Rust](https://hacks.mozilla.org/2024/04/porting-a-cross-platform-gui-application-to-rust/)
 * [2024-04-24, 00:32:07](https://lobste.rs/s/iswtpt/lean_theorem_prover_used_show_new) - [lean theorem prover used to show that New Foundations set theory is equiconsistent with ZFC](https://leanprover-community.github.io/con-nf/)
