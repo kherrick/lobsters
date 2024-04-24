@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 17:23:09](https://lobste.rs/s/uufjcl/is_your_programming_language_made) - [Is your programming language made of multidimensional plasma?](https://cygni.ghost.io/artiklar/is-your-programming-language-made-of-multidimensional-plasma/)
 * [2024-04-24, 17:06:26](https://lobste.rs/s/jm6zqo/so_you_want_learn_break_ciphers) - [So, You Want to Learn to Break Ciphers?](https://littlemaninmyhead.wordpress.com/2015/09/28/so-you-want-to-learn-to-break-ciphers/)
 * [2024-04-24, 17:03:30](https://lobste.rs/s/cdgfmw/dumping_extracting_spacex_starlink_user) - [Dumping and extracting the SpaceX Starlink User Terminal firmware](https://www.esat.kuleuven.be/cosic/blog/dumping-and-extracting-the-spacex-starlink-user-terminal-firmware/)
 * [2024-04-24, 17:01:28](https://lobste.rs/s/m3xdsi/how_i_tricked_ios_into_giving_me_eu_dma) - [How I tricked iOS into giving me EU DMA features](https://adamdemasi.com/2024/04/20/ios-eligibility.html)
