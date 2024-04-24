@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 09:51:34](https://lobste.rs/s/bflkkz/rise_gql_new_iso_standard_graph_query) - [The Rise of GQL: A New ISO Standard in Graph Query Language](https://www.tigergraph.com/blog/the-rise-of-gql-a-new-iso-standard-in-graph-query-language/)
 * [2024-04-24, 09:17:18](https://lobste.rs/s/grovsl/project_fluent) - [Project Fluent](https://projectfluent.org/)
 * [2024-04-24, 08:31:39](https://lobste.rs/s/kcxyjd/sysadmin_friendly_high_speed_ethernet) - [Sysadmin friendly high speed ethernet switching](https://blog.benjojo.co.uk/post/sn2010-linux-hacking-switchdev)
 * [2024-04-24, 08:03:54](https://lobste.rs/s/xastav/manman_2020) - [ManMan (2020)](https://wooz.dev/ManMan)
@@ -12,6 +13,7 @@
 * [2024-04-24, 05:21:40](https://lobste.rs/s/hvos1z/beckhoff_achieves_smaller_1_5gb_vs_2_0gb) - [Beckhoff Achieves Smaller (1.5GB vs. 2.0GB) RAM Footprint by Switching from Windows to FreeBSD](https://freebsdfoundation.org/freebsd-case-studies/beckhoff-case-study/)
 * [2024-04-24, 05:21:40](https://lobste.rs/s/hvos1z/beckhoff_achieves_smaller_1_5gb_vs_0_2gb) - [Beckhoff Achieves Smaller (1.5GB vs. 0.2GB) RAM Footprint by Switching from Windows to FreeBSD](https://freebsdfoundation.org/freebsd-case-studies/beckhoff-case-study/)
 * [2024-04-24, 04:28:13](https://lobste.rs/s/mw8v1l/we_attend_vintage_computer_festival_vcf) - [We attend the Vintage Computer Festival (VCF East 2024)](https://youtu.be/aZESRSNQsTw)
+* [2024-04-24, 04:27:27](https://lobste.rs/s/fnzbfy/color_ttys_2015) - [Color and TTYs (2015)](https://eklitzke.org/ansi-color-codes)
 * [2024-04-24, 04:27:27](https://lobste.rs/s/fnzbfy/color_ttys) - [Color and TTYs](https://eklitzke.org/ansi-color-codes)
 * [2024-04-24, 01:48:01](https://lobste.rs/s/krkuc9/who_are_your_favorite_tech_youtubers) - [Who are your favorite tech youtubers](https://lobste.rs/s/krkuc9/who_are_your_favorite_tech_youtubers)
 * [2024-04-24, 00:39:27](https://lobste.rs/s/iyzgqk/porting_cross_platform_gui_application) - [Porting a cross-platform GUI application to Rust](https://hacks.mozilla.org/2024/04/porting-a-cross-platform-gui-application-to-rust/)
