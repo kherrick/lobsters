@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-24, 08:31:39",
+      "https://lobste.rs/s/kcxyjd/sysadmin_friendly_high_speed_ethernet"
+    ],
+    [
+      "Sysadmin friendly high speed ethernet switching",
+      "https://blog.benjojo.co.uk/post/sn2010-linux-hacking-switchdev"
+    ]
+  ],
+  [
+    [
       "2024-04-24, 08:03:54",
       "https://lobste.rs/s/xastav/manman_2020"
     ],
@@ -87,16 +97,6 @@
     [
       "ESPHome",
       "https://esphome.io/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-23, 22:05:23",
-      "https://lobste.rs/s/ukzoix/sized_dynsized_unsized"
-    ],
-    [
-      "Sized, DynSized, and Unsized",
-      "https://smallcultfollowing.com/babysteps/blog/2024/04/23/dynsized-unsized/"
     ]
   ],
   [
