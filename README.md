@@ -2,6 +2,7 @@
 
 * [2024-04-24, 21:50:22](https://lobste.rs/s/mkd6a7/notifications_46_beyond_gnome_shell) - [Notifications in 46 and beyond – GNOME Shell & Mutter](https://blogs.gnome.org/shell-dev/2024/04/23/notifications-46-and-beyond/)
 * [2024-04-24, 20:47:56](https://lobste.rs/s/5t82fh/magic_numbers) - [Magic Numbers](https://exple.tive.org/blarg/2024/04/24/magic-numbers/)
+* [2024-04-24, 20:24:40](https://lobste.rs/s/tbuvzp/hashicorp_joins_ibm_accelerate_multi) - [HashiCorp joins IBM to accelerate multi-cloud automation](https://www.hashicorp.com/blog/hashicorp-joins-ibm)
 * [2024-04-24, 20:05:53](https://lobste.rs/s/k59xrk/next_js_app_router_routing_patterns_you) - [Next.js App Router Routing patterns you should know](https://medium.com/p/9dfa6b669983)
 * [2024-04-24, 18:28:46](https://lobste.rs/s/aq7r8h/fine_tuning_openai_models) - [Fine-tuning OpenAI models](https://gajus.com/blog/fine-tuning-openai-models)
 * [2024-04-24, 17:37:47](https://lobste.rs/s/r50zeq/ukrainian_coder_s_new_programming) - [Ukrainian Coder's New Programming Language: One Big Data Structure](https://thenewstack.io/ukrainian-coders-new-programming-language-one-big-data-structure/)
@@ -21,7 +22,6 @@
 * [2024-04-24, 05:21:40](https://lobste.rs/s/hvos1z/beckhoff_achieves_smaller_1_5gb_vs_0_2gb) - [Beckhoff Achieves Smaller (1.5GB vs. 0.2GB) RAM Footprint by Switching from Windows to FreeBSD](https://freebsdfoundation.org/freebsd-case-studies/beckhoff-case-study/)
 * [2024-04-24, 01:48:01](https://lobste.rs/s/krkuc9/who_are_your_favorite_tech_youtubers) - [Who are your favorite tech youtubers](https://lobste.rs/s/krkuc9/who_are_your_favorite_tech_youtubers)
 * [2024-04-24, 00:32:07](https://lobste.rs/s/iswtpt/lean_theorem_prover_used_show_new) - [lean theorem prover used to show that New Foundations set theory is consistent relative to ZFC](https://leanprover-community.github.io/con-nf/)
-* [2024-04-23, 22:47:28](https://lobste.rs/s/eqt5sz/esphome) - [ESPHome](https://esphome.io/index.html)
 * [2024-04-23, 21:56:51](https://lobste.rs/s/txb5gs/are_batch_scripts_security) - [Are batch scripts a security vulnerability?](https://chrisdenton.dev/p/batcmd/)
 * [2024-04-23, 19:10:10](https://lobste.rs/s/7uhthp/spritely_goblins_v0_13_0_object) - [Spritely Goblins v0.13.0: Object persistence and easier IO](https://spritely.institute/news/spritely-goblins-v0130-object-persistence-and-easier-io.html)
 * [2024-04-23, 11:43:38](https://lobste.rs/s/xdhle7/c_isn_t_hangover_rust_isn_t_hangover_cure) - [C isn’t a Hangover; Rust isn’t a Hangover Cure](https://medium.com/@john_25313/c-isnt-a-hangover-rust-isn-t-a-hangover-cure-580c9b35b5ce)
