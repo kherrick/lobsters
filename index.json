@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-24, 18:28:46",
+      "https://lobste.rs/s/aq7r8h/fine_tuning_openai_models"
+    ],
+    [
+      "Fine-tuning OpenAI models",
+      "https://gajus.com/blog/fine-tuning-openai-models"
+    ]
+  ],
+  [
+    [
       "2024-04-24, 17:37:47",
       "https://lobste.rs/s/r50zeq/ukrainian_coder_s_new_programming"
     ],
@@ -147,16 +157,6 @@
     [
       "Beckhoff Achieves Smaller (1.5GB vs. 0.2GB) RAM Footprint by Switching from Windows to FreeBSD",
       "https://freebsdfoundation.org/freebsd-case-studies/beckhoff-case-study/"
-    ]
-  ],
-  [
-    [
-      "2024-04-24, 04:27:27",
-      "https://lobste.rs/s/fnzbfy/color_ttys_2015"
-    ],
-    [
-      "Color and TTYs (2015)",
-      "https://eklitzke.org/ansi-color-codes"
     ]
   ],
   [
