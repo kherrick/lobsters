@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-24, 16:52:31",
+      "https://lobste.rs/s/npo9op/consistent_overhead_byte_stuffing_for"
+    ],
+    [
+      "Consistent overhead byte stuffing for binary logs",
+      "https://pvk.ca/Blog/2021/01/11/stuff-your-logs/"
+    ]
+  ],
+  [
+    [
       "2024-04-24, 16:37:55",
       "https://lobste.rs/s/mutdyp/borrow_checking_rc_gc_eleven_other_memory"
     ],
@@ -167,16 +177,6 @@
     [
       "ESPHome",
       "https://esphome.io/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-23, 22:05:23",
-      "https://lobste.rs/s/ukzoix/sized_dynsized_unsized"
-    ],
-    [
-      "Sized, DynSized, and Unsized",
-      "https://smallcultfollowing.com/babysteps/blog/2024/04/23/dynsized-unsized/"
     ]
   ],
   [
