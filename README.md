@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-24, 13:10:51](https://lobste.rs/s/ahsgab/what_are_some_your_must_have_neovim) - [What are some of your must-have Neovim customizations?](https://lobste.rs/s/ahsgab/what_are_some_your_must_have_neovim)
 * [2024-04-24, 12:56:32](https://lobste.rs/s/v9bbbm/html_attributes_vs_dom_properties) - [HTML attributes vs DOM properties](https://jakearchibald.com/2024/attributes-vs-properties/)
 * [2024-04-24, 12:27:42](https://lobste.rs/s/wjel97/learn_otp_with_gleam) - [Learn OTP With Gleam](https://github.com/bcpeinhardt/learn_otp_with_gleam)
 * [2024-04-24, 11:11:17](https://lobste.rs/s/keefsk/apple_m_series_gofetch_attack) - [The Apple M-Series GoFetch Attack](https://youtube.com/watch?v=uZEBkOrfUzM)
@@ -18,7 +19,6 @@
 * [2024-04-23, 21:56:51](https://lobste.rs/s/txb5gs/are_batch_scripts_security) - [Are batch scripts a security vulnerability?](https://chrisdenton.dev/p/batcmd/)
 * [2024-04-23, 19:10:10](https://lobste.rs/s/7uhthp/spritely_goblins_v0_13_0_object) - [Spritely Goblins v0.13.0: Object persistence and easier IO](https://spritely.institute/news/spritely-goblins-v0130-object-persistence-and-easier-io.html)
 * [2024-04-23, 16:06:47](https://lobste.rs/s/8oshbg/it_s_end_web_as_we_know_it) - [It’s the End of the Web as We Know It](https://archive.is/BF0lR)
-* [2024-04-23, 15:51:54](https://lobste.rs/s/4c51gw/cakeml) - [CakeML](https://cakeml.org/)
 * [2024-04-23, 15:14:10](https://lobste.rs/s/vyvpto/extensible_language_support_zed) - [Extensible Language Support in Zed](https://zed.dev/blog/language-extensions-part-1)
 * [2024-04-23, 13:32:33](https://lobste.rs/s/xxdzcd/help_us_invent_css_grid_level_3_aka_masonry) - [Help us invent CSS Grid Level 3, aka “Masonry” layout](https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/)
 * [2024-04-23, 11:43:38](https://lobste.rs/s/xdhle7/c_isn_t_hangover_rust_isn_t_hangover_cure) - [C isn’t a Hangover; Rust isn’t a Hangover Cure](https://medium.com/@john_25313/c-isnt-a-hangover-rust-isn-t-a-hangover-cure-580c9b35b5ce)

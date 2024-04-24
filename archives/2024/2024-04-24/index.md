@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 13:10:51](https://lobste.rs/s/ahsgab/what_are_some_your_must_have_neovim) - [What are some of your must-have Neovim customizations?](https://lobste.rs/s/ahsgab/what_are_some_your_must_have_neovim)
 * [2024-04-24, 12:56:32](https://lobste.rs/s/v9bbbm/html_attributes_vs_dom_properties) - [HTML attributes vs DOM properties](https://jakearchibald.com/2024/attributes-vs-properties/)
 * [2024-04-24, 12:27:42](https://lobste.rs/s/wjel97/learn_otp_with_gleam) - [Learn OTP With Gleam](https://github.com/bcpeinhardt/learn_otp_with_gleam)
 * [2024-04-24, 11:11:17](https://lobste.rs/s/keefsk/apple_m_series_gofetch_attack) - [The Apple M-Series GoFetch Attack](https://youtube.com/watch?v=uZEBkOrfUzM)
