@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-24, 20:05:53](https://lobste.rs/s/k59xrk/next_js_app_router_routing_patterns_you) - [Next.js App Router Routing patterns you should know](https://medium.com/p/9dfa6b669983)
 * [2024-04-24, 18:28:46](https://lobste.rs/s/aq7r8h/fine_tuning_openai_models) - [Fine-tuning OpenAI models](https://gajus.com/blog/fine-tuning-openai-models)
 * [2024-04-24, 17:37:47](https://lobste.rs/s/r50zeq/ukrainian_coder_s_new_programming) - [Ukrainian Coder's New Programming Language: One Big Data Structure](https://thenewstack.io/ukrainian-coders-new-programming-language-one-big-data-structure/)
 * [2024-04-24, 17:03:30](https://lobste.rs/s/cdgfmw/dumping_extracting_spacex_starlink_user) - [Dumping and extracting the SpaceX Starlink User Terminal firmware](https://www.esat.kuleuven.be/cosic/blog/dumping-and-extracting-the-spacex-starlink-user-terminal-firmware/)
@@ -22,7 +23,6 @@
 * [2024-04-23, 22:47:28](https://lobste.rs/s/eqt5sz/esphome) - [ESPHome](https://esphome.io/index.html)
 * [2024-04-23, 21:56:51](https://lobste.rs/s/txb5gs/are_batch_scripts_security) - [Are batch scripts a security vulnerability?](https://chrisdenton.dev/p/batcmd/)
 * [2024-04-23, 19:10:10](https://lobste.rs/s/7uhthp/spritely_goblins_v0_13_0_object) - [Spritely Goblins v0.13.0: Object persistence and easier IO](https://spritely.institute/news/spritely-goblins-v0130-object-persistence-and-easier-io.html)
-* [2024-04-23, 16:06:47](https://lobste.rs/s/8oshbg/it_s_end_web_as_we_know_it) - [It’s the End of the Web as We Know It](https://archive.is/BF0lR)
 * [2024-04-23, 13:32:33](https://lobste.rs/s/xxdzcd/help_us_invent_css_grid_level_3_aka_masonry) - [Help us invent CSS Grid Level 3, aka “Masonry” layout](https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/)
 * [2024-04-23, 11:43:38](https://lobste.rs/s/xdhle7/c_isn_t_hangover_rust_isn_t_hangover_cure) - [C isn’t a Hangover; Rust isn’t a Hangover Cure](https://medium.com/@john_25313/c-isnt-a-hangover-rust-isn-t-a-hangover-cure-580c9b35b5ce)
 
