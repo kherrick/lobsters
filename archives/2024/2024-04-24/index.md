@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 14:47:21](https://lobste.rs/s/o2jv2e/openelm_efficient_language_model_family) - [OpenELM: An Efficient Language Model Family with Open-source Training and Inference Framework](https://arxiv.org/abs/2404.14619)
 * [2024-04-24, 13:38:52](https://lobste.rs/s/zmtcwj/no_llm_agents_can_not_autonomously) - [No, LLM Agents can not Autonomously Exploit One-day Vulnerabilities](https://struct.github.io/auto_agents_1_day.html)
 * [2024-04-24, 13:10:51](https://lobste.rs/s/ahsgab/what_are_some_your_must_have_neovim) - [What are some of your must-have Neovim customizations?](https://lobste.rs/s/ahsgab/what_are_some_your_must_have_neovim)
 * [2024-04-24, 12:56:32](https://lobste.rs/s/v9bbbm/html_attributes_vs_dom_properties) - [HTML attributes vs DOM properties](https://jakearchibald.com/2024/attributes-vs-properties/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-24, 14:47:21](https://lobste.rs/s/o2jv2e/openelm_efficient_language_model_family) - [OpenELM: An Efficient Language Model Family with Open-source Training and Inference Framework](https://arxiv.org/abs/2404.14619)
 * [2024-04-24, 13:38:52](https://lobste.rs/s/zmtcwj/no_llm_agents_can_not_autonomously) - [No, LLM Agents can not Autonomously Exploit One-day Vulnerabilities](https://struct.github.io/auto_agents_1_day.html)
 * [2024-04-24, 13:10:51](https://lobste.rs/s/ahsgab/what_are_some_your_must_have_neovim) - [What are some of your must-have Neovim customizations?](https://lobste.rs/s/ahsgab/what_are_some_your_must_have_neovim)
 * [2024-04-24, 12:56:32](https://lobste.rs/s/v9bbbm/html_attributes_vs_dom_properties) - [HTML attributes vs DOM properties](https://jakearchibald.com/2024/attributes-vs-properties/)
@@ -7,7 +8,6 @@
 * [2024-04-24, 11:11:17](https://lobste.rs/s/keefsk/apple_m_series_gofetch_attack) - [The Apple M-Series GoFetch Attack](https://youtube.com/watch?v=uZEBkOrfUzM)
 * [2024-04-24, 09:17:18](https://lobste.rs/s/grovsl/project_fluent) - [Project Fluent](https://projectfluent.org/)
 * [2024-04-24, 08:31:39](https://lobste.rs/s/kcxyjd/sysadmin_friendly_high_speed_ethernet) - [Sysadmin friendly high speed ethernet switching](https://blog.benjojo.co.uk/post/sn2010-linux-hacking-switchdev)
-* [2024-04-24, 08:03:54](https://lobste.rs/s/xastav/manman_2020) - [ManMan (2020)](https://wooz.dev/ManMan)
 * [2024-04-24, 06:47:24](https://lobste.rs/s/7wxq7m/composability_designing_visual) - [Composability: Designing a Visual Programming Language](https://johnaustin.io/articles/2024/composability-designing-a-visual-programming-language)
 * [2024-04-24, 06:40:24](https://lobste.rs/s/ohpb76/any_lobsters_hanoi) - [Any Lobsters in Hanoi?](https://lobste.rs/s/ohpb76/any_lobsters_hanoi)
 * [2024-04-24, 05:21:40](https://lobste.rs/s/hvos1z/beckhoff_achieves_smaller_1_5gb_vs_0_2gb) - [Beckhoff Achieves Smaller (1.5GB vs. 0.2GB) RAM Footprint by Switching from Windows to FreeBSD](https://freebsdfoundation.org/freebsd-case-studies/beckhoff-case-study/)
