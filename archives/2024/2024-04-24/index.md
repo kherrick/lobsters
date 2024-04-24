@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-24](index.md)
 
+* [2024-04-24, 16:52:31](https://lobste.rs/s/npo9op/consistent_overhead_byte_stuffing_for) - [Consistent overhead byte stuffing for binary logs](https://pvk.ca/Blog/2021/01/11/stuff-your-logs/)
 * [2024-04-24, 16:37:55](https://lobste.rs/s/mutdyp/borrow_checking_rc_gc_eleven_other_memory) - [Borrow checking, RC, GC, and the Eleven (!) Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire)
 * [2024-04-24, 16:25:10](https://lobste.rs/s/lpodta/emacs_tidbit_rectangle_number_lines) - [Emacs Tidbit: rectangle-number-lines](https://www.emoses.org/posts/rectangle-number-lines/)
 * [2024-04-24, 15:58:39](https://lobste.rs/s/2rvfwm/visual_introduction_fourier_series) - [A visual introduction to Fourier Series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)

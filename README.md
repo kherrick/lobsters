@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-24, 16:52:31](https://lobste.rs/s/npo9op/consistent_overhead_byte_stuffing_for) - [Consistent overhead byte stuffing for binary logs](https://pvk.ca/Blog/2021/01/11/stuff-your-logs/)
 * [2024-04-24, 16:37:55](https://lobste.rs/s/mutdyp/borrow_checking_rc_gc_eleven_other_memory) - [Borrow checking, RC, GC, and the Eleven (!) Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire)
 * [2024-04-24, 16:25:10](https://lobste.rs/s/lpodta/emacs_tidbit_rectangle_number_lines) - [Emacs Tidbit: rectangle-number-lines](https://www.emoses.org/posts/rectangle-number-lines/)
 * [2024-04-24, 15:58:39](https://lobste.rs/s/2rvfwm/visual_introduction_fourier_series) - [A visual introduction to Fourier Series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
@@ -17,7 +18,6 @@
 * [2024-04-24, 00:39:27](https://lobste.rs/s/iyzgqk/porting_cross_platform_gui_application) - [Porting a cross-platform GUI application to Rust](https://hacks.mozilla.org/2024/04/porting-a-cross-platform-gui-application-to-rust/)
 * [2024-04-24, 00:32:07](https://lobste.rs/s/iswtpt/lean_theorem_prover_used_show_new) - [lean theorem prover used to show that New Foundations set theory is consistent relative to ZFC](https://leanprover-community.github.io/con-nf/)
 * [2024-04-23, 22:47:28](https://lobste.rs/s/eqt5sz/esphome) - [ESPHome](https://esphome.io/index.html)
-* [2024-04-23, 22:05:23](https://lobste.rs/s/ukzoix/sized_dynsized_unsized) - [Sized, DynSized, and Unsized](https://smallcultfollowing.com/babysteps/blog/2024/04/23/dynsized-unsized/)
 * [2024-04-23, 21:56:51](https://lobste.rs/s/txb5gs/are_batch_scripts_security) - [Are batch scripts a security vulnerability?](https://chrisdenton.dev/p/batcmd/)
 * [2024-04-23, 19:10:10](https://lobste.rs/s/7uhthp/spritely_goblins_v0_13_0_object) - [Spritely Goblins v0.13.0: Object persistence and easier IO](https://spritely.institute/news/spritely-goblins-v0130-object-persistence-and-easier-io.html)
 * [2024-04-23, 16:06:47](https://lobste.rs/s/8oshbg/it_s_end_web_as_we_know_it) - [It’s the End of the Web as We Know It](https://archive.is/BF0lR)
