@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-24, 12:56:32",
+      "https://lobste.rs/s/v9bbbm/html_attributes_vs_dom_properties"
+    ],
+    [
+      "HTML attributes vs DOM properties",
+      "https://jakearchibald.com/2024/attributes-vs-properties/"
+    ]
+  ],
+  [
+    [
       "2024-04-24, 12:27:42",
       "https://lobste.rs/s/wjel97/learn_otp_with_gleam"
     ],
@@ -117,16 +127,6 @@
     [
       "lean theorem prover used to show that New Foundations set theory is equiconsistent with ZFC",
       "https://leanprover-community.github.io/con-nf/"
-    ]
-  ],
-  [
-    [
-      "2024-04-23, 23:01:49",
-      "https://lobste.rs/s/tycwfc/tracking_down_uefi_quirk_on_fujitsu"
-    ],
-    [
-      "Tracking down a UEFI quirk on the Fujitsu LIFEBOOK AH532",
-      "https://blog.timschumi.net/2024/04/23/ah532-bios-workaround.html"
     ]
   ],
   [
