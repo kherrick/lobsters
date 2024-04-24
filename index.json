@@ -145,7 +145,7 @@
       "https://lobste.rs/s/iswtpt/lean_theorem_prover_used_show_new"
     ],
     [
-      "lean theorem prover used to show that New Foundations set theory is equiconsistent with ZFC",
+      "lean theorem prover used to show that New Foundations set theory is consistent relative to ZFC",
       "https://leanprover-community.github.io/con-nf/"
     ]
   ],
