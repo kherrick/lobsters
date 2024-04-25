@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-04-25, 17:15:00",
-      "https://lobste.rs/s/yk0igg/deriving_bit_twiddling_hack_signed"
-    ],
-    [
-      "Deriving a Bit-Twiddling Hack: Signed Integer Overflow",
-      "https://grack.com/blog/2022/12/20/deriving-a-bit-twiddling-hack/"
-    ]
-  ],
-  [
-    [
       "2024-04-25, 16:55:16",
       "https://lobste.rs/s/fzckty/go_rust_just_listen_bots"
     ],
@@ -167,6 +157,16 @@
     [
       "Notifications in 46 and beyond – GNOME Shell & Mutter",
       "https://blogs.gnome.org/shell-dev/2024/04/23/notifications-46-and-beyond/"
+    ]
+  ],
+  [
+    [
+      "2024-04-24, 20:47:56",
+      "https://lobste.rs/s/5t82fh/magic_numbers"
+    ],
+    [
+      "Magic Numbers",
+      "https://exple.tive.org/blarg/2024/04/24/magic-numbers/"
     ]
   ],
   [
