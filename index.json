@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-25, 17:15:00",
+      "https://lobste.rs/s/yk0igg/deriving_bit_twiddling_hack_signed"
+    ],
+    [
+      "Deriving a Bit-Twiddling Hack: Signed Integer Overflow",
+      "https://grack.com/blog/2022/12/20/deriving-a-bit-twiddling-hack/"
+    ]
+  ],
+  [
+    [
       "2024-04-25, 16:55:16",
       "https://lobste.rs/s/fzckty/go_rust_just_listen_bots"
     ],
@@ -47,16 +57,6 @@
     [
       "Getting your Haskell executable statically linked without Nix",
       "https://hasufell.github.io/posts/2024-04-21-static-linking.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 15:40:41",
-      "https://lobste.rs/s/ibrqhn/effectful_easy_use_performant"
-    ],
-    [
-      "Effectful – An easy to use, performant extensible effects library",
-      "https://flora.pm/packages/@hackage/effectful"
     ]
   ],
   [
