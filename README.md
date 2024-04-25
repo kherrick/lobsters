@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-04-25, 18:47:01](https://lobste.rs/s/4tljla/inside_leaked_system_prompts_gpt_4_gemini) - [Inside the Leaked System Prompts of GPT-4, Gemini 1.5, Claude 3, and More](https://levelup.gitconnected.com/inside-the-leaked-system-prompts-of-gpt-4-gemini-1-5-claude-3-and-more-4ecb3d22b447)
+* [2024-04-25, 20:04:51](https://lobste.rs/s/aobrbx/dependent_types_haskell_part_3) - [Dependent types in Haskell, Part 3](https://serokell.io/blog/ghc-dependent-types-in-haskell-3)
+* [2024-04-25, 19:57:16](https://lobste.rs/s/ljih87/gacube_emeleter_dolphin_on_nintendo_3ds) - [gacube emeleter (Dolphin on the Nintendo 3DS)](https://nocoffei.com/?p=99)
+* [2024-04-25, 19:55:24](https://lobste.rs/s/qxasne/ai_llm_bot_blocker_web_server_configs) - [AI / LLM bot blocker web server configs](https://github.com/anthmn/ai-bot-blocker)
 * [2024-04-25, 17:15:00](https://lobste.rs/s/yk0igg/deriving_bit_twiddling_hack_signed) - [Deriving a Bit-Twiddling Hack: Signed Integer Overflow](https://grack.com/blog/2022/12/20/deriving-a-bit-twiddling-hack/)
 * [2024-04-25, 16:55:16](https://lobste.rs/s/fzckty/go_rust_just_listen_bots) - [Go or Rust? Just Listen to the Bots](https://cybernetist.com/2024/04/25/go-or-rust-just-listen-to-the-bots/)
 * [2024-04-25, 16:52:35](https://lobste.rs/s/bowldc/overcoming_hallucinations_with) - [Overcoming Hallucinations with the Trustworthy Language Model](https://cleanlab.ai/blog/trustworthy-language-model/)
@@ -20,9 +22,7 @@
 * [2024-04-24, 17:01:28](https://lobste.rs/s/m3xdsi/how_i_tricked_ios_into_giving_me_eu_dma) - [How I tricked iOS into giving me EU DMA features](https://adamdemasi.com/2024/04/20/ios-eligibility.html)
 * [2024-04-24, 16:37:55](https://lobste.rs/s/mutdyp/borrow_checking_rc_gc_eleven_other_memory) - [Borrow checking, RC, GC, and the Eleven (!) Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire)
 * [2024-04-24, 16:25:10](https://lobste.rs/s/lpodta/emacs_tidbit_rectangle_number_lines) - [Emacs Tidbit: rectangle-number-lines](https://www.emoses.org/posts/rectangle-number-lines/)
-* [2024-04-24, 15:58:39](https://lobste.rs/s/2rvfwm/visual_introduction_fourier_series) - [A visual introduction to Fourier Series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
 * [2024-04-24, 13:10:51](https://lobste.rs/s/ahsgab/what_are_some_your_must_have_neovim) - [What are some of your must-have Neovim customizations?](https://lobste.rs/s/ahsgab/what_are_some_your_must_have_neovim)
-* [2024-04-24, 12:27:42](https://lobste.rs/s/wjel97/learn_otp_with_gleam) - [Learn OTP With Gleam](https://github.com/bcpeinhardt/learn_otp_with_gleam)
 * [2024-04-24, 09:17:18](https://lobste.rs/s/grovsl/project_fluent) - [Project Fluent](https://projectfluent.org/)
 * [2024-04-24, 01:48:01](https://lobste.rs/s/krkuc9/who_are_your_favorite_tech_youtubers) - [Who are your favorite tech youtubers](https://lobste.rs/s/krkuc9/who_are_your_favorite_tech_youtubers)
 

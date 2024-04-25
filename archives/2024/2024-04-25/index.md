@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 20:04:51](https://lobste.rs/s/aobrbx/dependent_types_haskell_part_3) - [Dependent types in Haskell, Part 3](https://serokell.io/blog/ghc-dependent-types-in-haskell-3)
+* [2024-04-25, 19:57:16](https://lobste.rs/s/ljih87/gacube_emeleter_dolphin_on_nintendo_3ds) - [gacube emeleter (Dolphin on the Nintendo 3DS)](https://nocoffei.com/?p=99)
+* [2024-04-25, 19:55:24](https://lobste.rs/s/qxasne/ai_llm_bot_blocker_web_server_configs) - [AI / LLM bot blocker web server configs](https://github.com/anthmn/ai-bot-blocker)
 * [2024-04-25, 18:47:01](https://lobste.rs/s/4tljla/inside_leaked_system_prompts_gpt_4_gemini) - [Inside the Leaked System Prompts of GPT-4, Gemini 1.5, Claude 3, and More](https://levelup.gitconnected.com/inside-the-leaked-system-prompts-of-gpt-4-gemini-1-5-claude-3-and-more-4ecb3d22b447)
 * [2024-04-25, 17:15:00](https://lobste.rs/s/yk0igg/deriving_bit_twiddling_hack_signed) - [Deriving a Bit-Twiddling Hack: Signed Integer Overflow](https://grack.com/blog/2022/12/20/deriving-a-bit-twiddling-hack/)
 * [2024-04-25, 16:55:16](https://lobste.rs/s/fzckty/go_rust_just_listen_bots) - [Go or Rust? Just Listen to the Bots](https://cybernetist.com/2024/04/25/go-or-rust-just-listen-to-the-bots/)
