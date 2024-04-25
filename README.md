@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-25, 14:23:56](https://lobste.rs/s/sfpjpl/tokens_for_llms_byte_pair_encoding_go) - [Tokens for LLMs: Byte Pair Encoding in Go](https://eli.thegreenplace.net/2024/tokens-for-llms-byte-pair-encoding-in-go/)
 * [2024-04-25, 11:45:56](https://lobste.rs/s/v2cbos/what_s_new_security_for_ubuntu_24_04_lts) - [What’s new in security for Ubuntu 24.04 LTS?](https://ubuntu.com/blog/whats-new-in-security-for-ubuntu-24-04-lts)
 * [2024-04-25, 11:15:08](https://lobste.rs/s/rvsci8/bluefin) - [Bluefin](https://hackage.haskell.org/package/bluefin-0.0.4.3/docs/Bluefin.html)
 * [2024-04-25, 00:47:37](https://lobste.rs/s/hnp82i/ruby_might_be_faster_than_you_think) - [Ruby might be faster than you think](https://www.johnhawthorn.com/2024/ruby-might-be-faster-than-you-think/)
@@ -24,7 +25,6 @@
 * [2024-04-24, 01:48:01](https://lobste.rs/s/krkuc9/who_are_your_favorite_tech_youtubers) - [Who are your favorite tech youtubers](https://lobste.rs/s/krkuc9/who_are_your_favorite_tech_youtubers)
 * [2024-04-24, 00:32:07](https://lobste.rs/s/iswtpt/lean_theorem_prover_used_show_new) - [lean theorem prover used to show that New Foundations set theory is consistent relative to ZFC](https://leanprover-community.github.io/con-nf/)
 * [2024-04-23, 21:56:51](https://lobste.rs/s/txb5gs/are_batch_scripts_security) - [Are batch scripts a security vulnerability?](https://chrisdenton.dev/p/batcmd/)
-* [2024-04-23, 11:43:38](https://lobste.rs/s/xdhle7/c_isn_t_hangover_rust_isn_t_hangover_cure) - [C isn’t a Hangover; Rust isn’t a Hangover Cure](https://medium.com/@john_25313/c-isnt-a-hangover-rust-isn-t-a-hangover-cure-580c9b35b5ce)
 
 ## [Archives](archives/index.md)
 
