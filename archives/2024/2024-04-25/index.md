@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 21:02:54](https://lobste.rs/s/oe4yec/ubuntu_24_04_noble_numbat) - [Ubuntu 24.04 (Noble Numbat)](https://releases.ubuntu.com/noble/)
 * [2024-04-25, 20:04:51](https://lobste.rs/s/aobrbx/dependent_types_haskell_part_3) - [Dependent types in Haskell, Part 3](https://serokell.io/blog/ghc-dependent-types-in-haskell-3)
 * [2024-04-25, 19:57:16](https://lobste.rs/s/ljih87/gacube_emeleter_dolphin_on_nintendo_3ds) - [gacube emeleter (Dolphin on the Nintendo 3DS)](https://nocoffei.com/?p=99)
 * [2024-04-25, 19:55:24](https://lobste.rs/s/qxasne/ai_llm_bot_blocker_web_server_configs) - [AI / LLM bot blocker web server configs](https://github.com/anthmn/ai-bot-blocker)
