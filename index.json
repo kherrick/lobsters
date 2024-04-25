@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-25, 14:23:56",
+      "https://lobste.rs/s/sfpjpl/tokens_for_llms_byte_pair_encoding_go"
+    ],
+    [
+      "Tokens for LLMs: Byte Pair Encoding in Go",
+      "https://eli.thegreenplace.net/2024/tokens-for-llms-byte-pair-encoding-in-go/"
+    ]
+  ],
+  [
+    [
       "2024-04-25, 11:45:56",
       "https://lobste.rs/s/v2cbos/what_s_new_security_for_ubuntu_24_04_lts"
     ],
@@ -237,16 +247,6 @@
     [
       "Are batch scripts a security vulnerability?",
       "https://chrisdenton.dev/p/batcmd/"
-    ]
-  ],
-  [
-    [
-      "2024-04-23, 11:43:38",
-      "https://lobste.rs/s/xdhle7/c_isn_t_hangover_rust_isn_t_hangover_cure"
-    ],
-    [
-      "C isn’t a Hangover; Rust isn’t a Hangover Cure",
-      "https://medium.com/@john_25313/c-isnt-a-hangover-rust-isn-t-a-hangover-cure-580c9b35b5ce"
     ]
   ]
 ]
