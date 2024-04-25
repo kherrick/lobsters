@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-04-25, 18:47:01",
-      "https://lobste.rs/s/4tljla/inside_leaked_system_prompts_gpt_4_gemini"
+      "2024-04-25, 20:04:51",
+      "https://lobste.rs/s/aobrbx/dependent_types_haskell_part_3"
     ],
     [
-      "Inside the Leaked System Prompts of GPT-4, Gemini 1.5, Claude 3, and More",
-      "https://levelup.gitconnected.com/inside-the-leaked-system-prompts-of-gpt-4-gemini-1-5-claude-3-and-more-4ecb3d22b447"
+      "Dependent types in Haskell, Part 3",
+      "https://serokell.io/blog/ghc-dependent-types-in-haskell-3"
+    ]
+  ],
+  [
+    [
+      "2024-04-25, 19:57:16",
+      "https://lobste.rs/s/ljih87/gacube_emeleter_dolphin_on_nintendo_3ds"
+    ],
+    [
+      "gacube emeleter (Dolphin on the Nintendo 3DS)",
+      "https://nocoffei.com/?p=99"
+    ]
+  ],
+  [
+    [
+      "2024-04-25, 19:55:24",
+      "https://lobste.rs/s/qxasne/ai_llm_bot_blocker_web_server_configs"
+    ],
+    [
+      "AI / LLM bot blocker web server configs",
+      "https://github.com/anthmn/ai-bot-blocker"
     ]
   ],
   [
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2024-04-24, 15:58:39",
-      "https://lobste.rs/s/2rvfwm/visual_introduction_fourier_series"
-    ],
-    [
-      "A visual introduction to Fourier Series",
-      "https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles"
-    ]
-  ],
-  [
-    [
       "2024-04-24, 13:10:51",
       "https://lobste.rs/s/ahsgab/what_are_some_your_must_have_neovim"
     ],
     [
       "What are some of your must-have Neovim customizations?",
       "https://lobste.rs/s/ahsgab/what_are_some_your_must_have_neovim"
-    ]
-  ],
-  [
-    [
-      "2024-04-24, 12:27:42",
-      "https://lobste.rs/s/wjel97/learn_otp_with_gleam"
-    ],
-    [
-      "Learn OTP With Gleam",
-      "https://github.com/bcpeinhardt/learn_otp_with_gleam"
     ]
   ],
   [
