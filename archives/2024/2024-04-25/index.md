@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 15:51:44](https://lobste.rs/s/m8hd8k/package_management_on_macos_with_nix) - [Package management on macOS with nix-darwin](https://davi.sh/blog/2024/01/nix-darwin/)
 * [2024-04-25, 15:48:24](https://lobste.rs/s/l38jud/getting_your_haskell_executable) - [Getting your Haskell executable statically linked without Nix](https://hasufell.github.io/posts/2024-04-21-static-linking.html)
 * [2024-04-25, 15:40:41](https://lobste.rs/s/ibrqhn/effectful_easy_use_performant) - [Effectful – An easy to use, performant extensible effects library](https://flora.pm/packages/@hackage/effectful)
 * [2024-04-25, 15:29:00](https://lobste.rs/s/agncjj/create_debian_vm_on_macos_apple_silicon) - [Create a Debian VM on MacOS Apple Silicon with QEMU](https://sleepymug.me/fragments/guide_mac_qemu.html)
