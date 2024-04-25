@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 21:59:56](https://lobste.rs/s/f7ftgo/open_sourcing_dos_4) - [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
 * [2024-04-25, 21:42:53](https://lobste.rs/s/pdqwwm/coverage_guided_fuzzing_extending) - [Coverage Guided Fuzzing - Extending Instrumentation to Hunt Down Bugs Faster](https://blog.includesecurity.com/2024/04/coverage-guided-fuzzing-extending-instrumentation/)
 * [2024-04-25, 21:02:54](https://lobste.rs/s/oe4yec/ubuntu_24_04_noble_numbat) - [Ubuntu 24.04 (Noble Numbat)](https://releases.ubuntu.com/noble/)
 * [2024-04-25, 20:04:51](https://lobste.rs/s/aobrbx/dependent_types_haskell_part_3) - [Dependent types in Haskell, Part 3](https://serokell.io/blog/ghc-dependent-types-in-haskell-3)
