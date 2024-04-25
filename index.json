@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-25, 15:29:00",
+      "https://lobste.rs/s/agncjj/create_debian_vm_on_macos_apple_silicon"
+    ],
+    [
+      "Create a Debian VM on MacOS Apple Silicon with QEMU",
+      "https://sleepymug.me/fragments/guide_mac_qemu.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-25, 15:28:08",
+      "https://lobste.rs/s/nuylte/using_vectors_without_vector_database"
+    ],
+    [
+      "Using Vectors without a Vector Database",
+      "https://swirlaiconnect.com/blog/using-vectors-without-a-vector-database"
+    ]
+  ],
+  [
+    [
       "2024-04-25, 15:17:10",
       "https://lobste.rs/s/hblrw2/equivalence_morphisms_under"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-04-24, 13:38:52",
-      "https://lobste.rs/s/zmtcwj/no_llm_agents_can_not_autonomously"
-    ],
-    [
-      "No, LLM Agents can not Autonomously Exploit One-day Vulnerabilities",
-      "https://struct.github.io/auto_agents_1_day.html"
-    ]
-  ],
-  [
-    [
       "2024-04-24, 13:10:51",
       "https://lobste.rs/s/ahsgab/what_are_some_your_must_have_neovim"
     ],
@@ -227,16 +237,6 @@
     [
       "Who are your favorite tech youtubers",
       "https://lobste.rs/s/krkuc9/who_are_your_favorite_tech_youtubers"
-    ]
-  ],
-  [
-    [
-      "2024-04-24, 00:32:07",
-      "https://lobste.rs/s/iswtpt/lean_theorem_prover_used_show_new"
-    ],
-    [
-      "lean theorem prover used to show that New Foundations set theory is consistent relative to ZFC",
-      "https://leanprover-community.github.io/con-nf/"
     ]
   ],
   [
