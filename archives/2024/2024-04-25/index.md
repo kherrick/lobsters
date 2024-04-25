@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 23:38:05](https://lobste.rs/s/gg959c/hilbish_moon_powered_interactive_shell) - [Hilbish the Moon-powered interactive shell for Lua fans](https://rosettea.github.io/Hilbish/)
 * [2024-04-25, 21:59:56](https://lobste.rs/s/f7ftgo/open_sourcing_dos_4) - [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
 * [2024-04-25, 21:42:53](https://lobste.rs/s/pdqwwm/coverage_guided_fuzzing_extending) - [Coverage Guided Fuzzing - Extending Instrumentation to Hunt Down Bugs Faster](https://blog.includesecurity.com/2024/04/coverage-guided-fuzzing-extending-instrumentation/)
 * [2024-04-25, 21:02:54](https://lobste.rs/s/oe4yec/ubuntu_24_04_noble_numbat) - [Ubuntu 24.04 (Noble Numbat)](https://releases.ubuntu.com/noble/)
