@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-25, 15:48:24](https://lobste.rs/s/l38jud/getting_your_haskell_executable) - [Getting your Haskell executable statically linked without Nix](https://hasufell.github.io/posts/2024-04-21-static-linking.html)
+* [2024-04-25, 15:40:41](https://lobste.rs/s/ibrqhn/effectful_easy_use_performant) - [Effectful – An easy to use, performant extensible effects library](https://flora.pm/packages/@hackage/effectful)
 * [2024-04-25, 15:29:00](https://lobste.rs/s/agncjj/create_debian_vm_on_macos_apple_silicon) - [Create a Debian VM on MacOS Apple Silicon with QEMU](https://sleepymug.me/fragments/guide_mac_qemu.html)
 * [2024-04-25, 15:28:08](https://lobste.rs/s/nuylte/using_vectors_without_vector_database) - [Using Vectors without a Vector Database](https://swirlaiconnect.com/blog/using-vectors-without-a-vector-database)
 * [2024-04-25, 15:17:10](https://lobste.rs/s/hblrw2/equivalence_morphisms_under) - [Equivalence of morphisms under substitution](https://math.stackexchange.com/q/4905206/425071)
@@ -21,8 +23,6 @@
 * [2024-04-24, 12:56:32](https://lobste.rs/s/v9bbbm/html_attributes_vs_dom_properties) - [HTML attributes vs DOM properties](https://jakearchibald.com/2024/attributes-vs-properties/)
 * [2024-04-24, 12:27:42](https://lobste.rs/s/wjel97/learn_otp_with_gleam) - [Learn OTP With Gleam](https://github.com/bcpeinhardt/learn_otp_with_gleam)
 * [2024-04-24, 09:17:18](https://lobste.rs/s/grovsl/project_fluent) - [Project Fluent](https://projectfluent.org/)
-* [2024-04-24, 08:31:39](https://lobste.rs/s/kcxyjd/sysadmin_friendly_high_speed_ethernet) - [Sysadmin friendly high speed ethernet switching](https://blog.benjojo.co.uk/post/sn2010-linux-hacking-switchdev)
-* [2024-04-24, 06:47:24](https://lobste.rs/s/7wxq7m/composability_designing_visual) - [Composability: Designing a Visual Programming Language](https://johnaustin.io/articles/2024/composability-designing-a-visual-programming-language)
 * [2024-04-24, 01:48:01](https://lobste.rs/s/krkuc9/who_are_your_favorite_tech_youtubers) - [Who are your favorite tech youtubers](https://lobste.rs/s/krkuc9/who_are_your_favorite_tech_youtubers)
 * [2024-04-23, 21:56:51](https://lobste.rs/s/txb5gs/are_batch_scripts_security) - [Are batch scripts a security vulnerability?](https://chrisdenton.dev/p/batcmd/)
 

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 15:48:24](https://lobste.rs/s/l38jud/getting_your_haskell_executable) - [Getting your Haskell executable statically linked without Nix](https://hasufell.github.io/posts/2024-04-21-static-linking.html)
+* [2024-04-25, 15:40:41](https://lobste.rs/s/ibrqhn/effectful_easy_use_performant) - [Effectful – An easy to use, performant extensible effects library](https://flora.pm/packages/@hackage/effectful)
 * [2024-04-25, 15:29:00](https://lobste.rs/s/agncjj/create_debian_vm_on_macos_apple_silicon) - [Create a Debian VM on MacOS Apple Silicon with QEMU](https://sleepymug.me/fragments/guide_mac_qemu.html)
 * [2024-04-25, 15:28:08](https://lobste.rs/s/nuylte/using_vectors_without_vector_database) - [Using Vectors without a Vector Database](https://swirlaiconnect.com/blog/using-vectors-without-a-vector-database)
 * [2024-04-25, 15:17:10](https://lobste.rs/s/hblrw2/equivalence_morphisms_under) - [Equivalence of morphisms under substitution](https://math.stackexchange.com/q/4905206/425071)
