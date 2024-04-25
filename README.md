@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-25, 11:45:56](https://lobste.rs/s/v2cbos/what_s_new_security_for_ubuntu_24_04_lts) - [What’s new in security for Ubuntu 24.04 LTS?](https://ubuntu.com/blog/whats-new-in-security-for-ubuntu-24-04-lts)
 * [2024-04-25, 11:15:08](https://lobste.rs/s/rvsci8/bluefin) - [Bluefin](https://hackage.haskell.org/package/bluefin-0.0.4.3/docs/Bluefin.html)
-* [2024-04-25, 04:48:50](https://lobste.rs/s/vtxbje/mind_patch_gap_exploiting_io_uring) - [Mind the Patch Gap: Exploiting an io_uring Vulnerability in Ubuntu](https://blog.exodusintel.com/2024/03/27/mind-the-patch-gap-exploiting-an-io_uring-vulnerability-in-ubuntu/)
 * [2024-04-25, 00:47:37](https://lobste.rs/s/hnp82i/ruby_might_be_faster_than_you_think) - [Ruby might be faster than you think](https://www.johnhawthorn.com/2024/ruby-might-be-faster-than-you-think/)
 * [2024-04-24, 23:20:51](https://lobste.rs/s/efaxuf/pilgrimages_for_electronics_tinkerers) - [Pilgrimages for electronics tinkerers in Tokyo/Kyoto/Osaka?](https://lobste.rs/s/efaxuf/pilgrimages_for_electronics_tinkerers)
 * [2024-04-24, 21:50:22](https://lobste.rs/s/mkd6a7/notifications_46_beyond_gnome_shell) - [Notifications in 46 and beyond – GNOME Shell & Mutter](https://blogs.gnome.org/shell-dev/2024/04/23/notifications-46-and-beyond/)
