@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-04-25, 18:47:01](https://lobste.rs/s/4tljla/inside_leaked_system_prompts_gpt_4_gemini) - [Inside the Leaked System Prompts of GPT-4, Gemini 1.5, Claude 3, and More](https://levelup.gitconnected.com/inside-the-leaked-system-prompts-of-gpt-4-gemini-1-5-claude-3-and-more-4ecb3d22b447)
-* [2024-04-25, 17:15:00](https://lobste.rs/s/yk0igg/deriving_bit_twiddling_hack_signed) - [Deriving a Bit-Twiddling Hack: Signed Integer Overflow](https://grack.com/blog/2022/12/20/deriving-a-bit-twiddling-hack/)
 * [2024-04-25, 16:55:16](https://lobste.rs/s/fzckty/go_rust_just_listen_bots) - [Go or Rust? Just Listen to the Bots](https://cybernetist.com/2024/04/25/go-or-rust-just-listen-to-the-bots/)
 * [2024-04-25, 16:52:35](https://lobste.rs/s/bowldc/overcoming_hallucinations_with) - [Overcoming Hallucinations with the Trustworthy Language Model](https://cleanlab.ai/blog/trustworthy-language-model/)
 * [2024-04-25, 16:51:43](https://lobste.rs/s/shzkvx/kandria_post_apocalyptic_actionrpg) - [kandria: A post-apocalyptic actionRPG written in lisp](https://github.com/Shirakumo/kandria)
@@ -17,6 +16,7 @@
 * [2024-04-25, 00:47:37](https://lobste.rs/s/hnp82i/ruby_might_be_faster_than_you_think) - [Ruby might be faster than you think](https://www.johnhawthorn.com/2024/ruby-might-be-faster-than-you-think/)
 * [2024-04-24, 23:20:51](https://lobste.rs/s/efaxuf/pilgrimages_for_electronics_tinkerers) - [Pilgrimages for electronics tinkerers in Tokyo/Kyoto/Osaka?](https://lobste.rs/s/efaxuf/pilgrimages_for_electronics_tinkerers)
 * [2024-04-24, 21:50:22](https://lobste.rs/s/mkd6a7/notifications_46_beyond_gnome_shell) - [Notifications in 46 and beyond – GNOME Shell & Mutter](https://blogs.gnome.org/shell-dev/2024/04/23/notifications-46-and-beyond/)
+* [2024-04-24, 20:47:56](https://lobste.rs/s/5t82fh/magic_numbers) - [Magic Numbers](https://exple.tive.org/blarg/2024/04/24/magic-numbers/)
 * [2024-04-24, 17:01:28](https://lobste.rs/s/m3xdsi/how_i_tricked_ios_into_giving_me_eu_dma) - [How I tricked iOS into giving me EU DMA features](https://adamdemasi.com/2024/04/20/ios-eligibility.html)
 * [2024-04-24, 16:37:55](https://lobste.rs/s/mutdyp/borrow_checking_rc_gc_eleven_other_memory) - [Borrow checking, RC, GC, and the Eleven (!) Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire)
 * [2024-04-24, 16:25:10](https://lobste.rs/s/lpodta/emacs_tidbit_rectangle_number_lines) - [Emacs Tidbit: rectangle-number-lines](https://www.emoses.org/posts/rectangle-number-lines/)
