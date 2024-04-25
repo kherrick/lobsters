@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-04-24, 23:49:31](https://lobste.rs/s/pfqkco/21_helpful_trending_ruby_gems) - [21 Helpful and trending Ruby gems](https://dev.to/stanbright/21-helpful-and-trending-in-april-ruby-gems-42en)
+* [2024-04-25, 00:47:37](https://lobste.rs/s/hnp82i/ruby_might_be_faster_than_you_think_john) - [Ruby might be faster than you think - John Hawthorn](https://www.johnhawthorn.com/2024/ruby-might-be-faster-than-you-think/)
 * [2024-04-24, 23:20:51](https://lobste.rs/s/efaxuf/pilgrimages_for_electronics_tinkerers) - [Pilgrimages for electronics tinkerers in Tokyo/Kyoto/Osaka?](https://lobste.rs/s/efaxuf/pilgrimages_for_electronics_tinkerers)
 * [2024-04-24, 21:50:22](https://lobste.rs/s/mkd6a7/notifications_46_beyond_gnome_shell) - [Notifications in 46 and beyond – GNOME Shell & Mutter](https://blogs.gnome.org/shell-dev/2024/04/23/notifications-46-and-beyond/)
 * [2024-04-24, 20:47:56](https://lobste.rs/s/5t82fh/magic_numbers) - [Magic Numbers](https://exple.tive.org/blarg/2024/04/24/magic-numbers/)
-* [2024-04-24, 20:24:40](https://lobste.rs/s/tbuvzp/hashicorp_joins_ibm_accelerate_multi) - [HashiCorp joins IBM to accelerate multi-cloud automation](https://www.hashicorp.com/blog/hashicorp-joins-ibm)
+* [2024-04-24, 20:05:53](https://lobste.rs/s/k59xrk/next_js_app_router_routing_patterns_you) - [Next.js App Router Routing patterns you should know](https://medium.com/p/9dfa6b669983)
 * [2024-04-24, 18:28:46](https://lobste.rs/s/aq7r8h/fine_tuning_openai_models) - [Fine-tuning OpenAI models](https://gajus.com/blog/fine-tuning-openai-models)
 * [2024-04-24, 17:37:47](https://lobste.rs/s/r50zeq/ukrainian_coder_s_new_programming) - [Ukrainian Coder's New Programming Language: One Big Data Structure](https://thenewstack.io/ukrainian-coders-new-programming-language-one-big-data-structure/)
 * [2024-04-24, 17:03:30](https://lobste.rs/s/cdgfmw/dumping_extracting_spacex_starlink_user) - [Dumping and extracting the SpaceX Starlink User Terminal firmware](https://www.esat.kuleuven.be/cosic/blog/dumping-and-extracting-the-spacex-starlink-user-terminal-firmware/)
