@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-25, 15:29:00](https://lobste.rs/s/agncjj/create_debian_vm_on_macos_apple_silicon) - [Create a Debian VM on MacOS Apple Silicon with QEMU](https://sleepymug.me/fragments/guide_mac_qemu.html)
+* [2024-04-25, 15:28:08](https://lobste.rs/s/nuylte/using_vectors_without_vector_database) - [Using Vectors without a Vector Database](https://swirlaiconnect.com/blog/using-vectors-without-a-vector-database)
 * [2024-04-25, 15:17:10](https://lobste.rs/s/hblrw2/equivalence_morphisms_under) - [Equivalence of morphisms under substitution](https://math.stackexchange.com/q/4905206/425071)
 * [2024-04-25, 15:08:14](https://lobste.rs/s/ehbote/invisible_internet_project_i2p) - [The Invisible Internet Project (I2P)](https://geti2p.net/en/)
 * [2024-04-25, 14:23:56](https://lobste.rs/s/sfpjpl/tokens_for_llms_byte_pair_encoding_go) - [Tokens for LLMs: Byte Pair Encoding in Go](https://eli.thegreenplace.net/2024/tokens-for-llms-byte-pair-encoding-in-go/)
@@ -15,7 +17,6 @@
 * [2024-04-24, 16:37:55](https://lobste.rs/s/mutdyp/borrow_checking_rc_gc_eleven_other_memory) - [Borrow checking, RC, GC, and the Eleven (!) Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire)
 * [2024-04-24, 16:25:10](https://lobste.rs/s/lpodta/emacs_tidbit_rectangle_number_lines) - [Emacs Tidbit: rectangle-number-lines](https://www.emoses.org/posts/rectangle-number-lines/)
 * [2024-04-24, 15:58:39](https://lobste.rs/s/2rvfwm/visual_introduction_fourier_series) - [A visual introduction to Fourier Series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
-* [2024-04-24, 13:38:52](https://lobste.rs/s/zmtcwj/no_llm_agents_can_not_autonomously) - [No, LLM Agents can not Autonomously Exploit One-day Vulnerabilities](https://struct.github.io/auto_agents_1_day.html)
 * [2024-04-24, 13:10:51](https://lobste.rs/s/ahsgab/what_are_some_your_must_have_neovim) - [What are some of your must-have Neovim customizations?](https://lobste.rs/s/ahsgab/what_are_some_your_must_have_neovim)
 * [2024-04-24, 12:56:32](https://lobste.rs/s/v9bbbm/html_attributes_vs_dom_properties) - [HTML attributes vs DOM properties](https://jakearchibald.com/2024/attributes-vs-properties/)
 * [2024-04-24, 12:27:42](https://lobste.rs/s/wjel97/learn_otp_with_gleam) - [Learn OTP With Gleam](https://github.com/bcpeinhardt/learn_otp_with_gleam)
@@ -23,7 +24,6 @@
 * [2024-04-24, 08:31:39](https://lobste.rs/s/kcxyjd/sysadmin_friendly_high_speed_ethernet) - [Sysadmin friendly high speed ethernet switching](https://blog.benjojo.co.uk/post/sn2010-linux-hacking-switchdev)
 * [2024-04-24, 06:47:24](https://lobste.rs/s/7wxq7m/composability_designing_visual) - [Composability: Designing a Visual Programming Language](https://johnaustin.io/articles/2024/composability-designing-a-visual-programming-language)
 * [2024-04-24, 01:48:01](https://lobste.rs/s/krkuc9/who_are_your_favorite_tech_youtubers) - [Who are your favorite tech youtubers](https://lobste.rs/s/krkuc9/who_are_your_favorite_tech_youtubers)
-* [2024-04-24, 00:32:07](https://lobste.rs/s/iswtpt/lean_theorem_prover_used_show_new) - [lean theorem prover used to show that New Foundations set theory is consistent relative to ZFC](https://leanprover-community.github.io/con-nf/)
 * [2024-04-23, 21:56:51](https://lobste.rs/s/txb5gs/are_batch_scripts_security) - [Are batch scripts a security vulnerability?](https://chrisdenton.dev/p/batcmd/)
 
 ## [Archives](archives/index.md)

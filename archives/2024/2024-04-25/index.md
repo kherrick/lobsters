@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-25](index.md)
 
+* [2024-04-25, 15:29:00](https://lobste.rs/s/agncjj/create_debian_vm_on_macos_apple_silicon) - [Create a Debian VM on MacOS Apple Silicon with QEMU](https://sleepymug.me/fragments/guide_mac_qemu.html)
+* [2024-04-25, 15:28:08](https://lobste.rs/s/nuylte/using_vectors_without_vector_database) - [Using Vectors without a Vector Database](https://swirlaiconnect.com/blog/using-vectors-without-a-vector-database)
 * [2024-04-25, 15:17:10](https://lobste.rs/s/hblrw2/equivalence_morphisms_under) - [Equivalence of morphisms under substitution](https://math.stackexchange.com/q/4905206/425071)
 * [2024-04-25, 15:08:14](https://lobste.rs/s/ehbote/invisible_internet_project_i2p) - [The Invisible Internet Project (I2P)](https://geti2p.net/en/)
 * [2024-04-25, 14:23:56](https://lobste.rs/s/sfpjpl/tokens_for_llms_byte_pair_encoding_go) - [Tokens for LLMs: Byte Pair Encoding in Go](https://eli.thegreenplace.net/2024/tokens-for-llms-byte-pair-encoding-in-go/)
