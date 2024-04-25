@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-04-25, 00:47:37](https://lobste.rs/s/hnp82i/ruby_might_be_faster_than_you_think_john) - [Ruby might be faster than you think - John Hawthorn](https://www.johnhawthorn.com/2024/ruby-might-be-faster-than-you-think/)
+* [2024-04-25, 00:47:37](https://lobste.rs/s/hnp82i/ruby_might_be_faster_than_you_think) - [Ruby might be faster than you think](https://www.johnhawthorn.com/2024/ruby-might-be-faster-than-you-think/)
 * [2024-04-24, 23:20:51](https://lobste.rs/s/efaxuf/pilgrimages_for_electronics_tinkerers) - [Pilgrimages for electronics tinkerers in Tokyo/Kyoto/Osaka?](https://lobste.rs/s/efaxuf/pilgrimages_for_electronics_tinkerers)
 * [2024-04-24, 21:50:22](https://lobste.rs/s/mkd6a7/notifications_46_beyond_gnome_shell) - [Notifications in 46 and beyond – GNOME Shell & Mutter](https://blogs.gnome.org/shell-dev/2024/04/23/notifications-46-and-beyond/)
 * [2024-04-24, 20:47:56](https://lobste.rs/s/5t82fh/magic_numbers) - [Magic Numbers](https://exple.tive.org/blarg/2024/04/24/magic-numbers/)
