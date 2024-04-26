@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 05:51:19](https://lobste.rs/s/4qrpub/jsr_is_not_another_package_manager) - [JSR Is Not Another Package Manager](https://deno.com/blog/jsr-is-not-another-package-manager)
 * [2024-04-26, 05:41:20](https://lobste.rs/s/6jn68o/announcing_typescript_5_5_beta) - [Announcing TypeScript 5.5 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-beta/)
 * [2024-04-26, 03:53:37](https://lobste.rs/s/jd9xek/why_is_my_cpu_usage_always_100_upgrading_my) - [Why is my CPU usage always 100%? (Upgrading my Chumby 8 kernel part 9)](https://www.downtowndougbrown.com/2024/04/why-is-my-cpu-usage-always-100-upgrading-my-chumby-8-kernel-part-9/)
 * [2024-04-26, 01:10:53](https://lobste.rs/s/cysg6o/guiding_users_away_from_cd_ls) - [Guiding users away from cd and ls](https://terminal.click/posts/2024/04/guiding-users-away-from-cd-and-ls/)
