@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 19:01:51](https://lobste.rs/s/ndprhc/end_free_tier) - [The End Of The Free Tier](https://www.smashingmagazine.com/2024/04/end-of-free-tier/)
 * [2024-04-26, 17:26:29](https://lobste.rs/s/pntava/on_community_nix) - [On community in Nix](https://determinate.systems/posts/on-community-in-nix/)
 * [2024-04-26, 17:10:37](https://lobste.rs/s/nyikhk/lessons_learned_after_3_years_fulltime) - [Lessons learned after 3 years of fulltime Rust game development, and why we're leaving Rust behind](https://loglog.games/blog/leaving-rust-gamedev/)
 * [2024-04-26, 16:00:40](https://lobste.rs/s/bwdhht/maintaining_world_s_fastest_cdn_at) - [Maintaining the world’s fastest CDN at Netflix on FreeBSD](https://freebsdfoundation.org/netflix-case-study/)
