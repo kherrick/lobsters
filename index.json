@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-26, 05:51:19",
+      "https://lobste.rs/s/4qrpub/jsr_is_not_another_package_manager"
+    ],
+    [
+      "JSR Is Not Another Package Manager",
+      "https://deno.com/blog/jsr-is-not-another-package-manager"
+    ]
+  ],
+  [
+    [
       "2024-04-26, 05:41:20",
       "https://lobste.rs/s/6jn68o/announcing_typescript_5_5_beta"
     ],
@@ -197,16 +207,6 @@
     [
       "The Invisible Internet Project (I2P)",
       "https://geti2p.net/en/"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 14:23:56",
-      "https://lobste.rs/s/sfpjpl/tokens_for_llms_byte_pair_encoding_go"
-    ],
-    [
-      "Tokens for LLMs: Byte Pair Encoding in Go",
-      "https://eli.thegreenplace.net/2024/tokens-for-llms-byte-pair-encoding-in-go/"
     ]
   ],
   [
