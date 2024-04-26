@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-26, 17:26:29",
+      "https://lobste.rs/s/pntava/on_community_nix"
+    ],
+    [
+      "On community in Nix",
+      "https://determinate.systems/posts/on-community-in-nix/"
+    ]
+  ],
+  [
+    [
       "2024-04-26, 17:10:37",
       "https://lobste.rs/s/nyikhk/lessons_learned_after_3_years_fulltime"
     ],
@@ -217,16 +227,6 @@
     [
       "Create a Debian VM on MacOS Apple Silicon with QEMU",
       "https://sleepymug.me/fragments/guide_mac_qemu.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 15:17:10",
-      "https://lobste.rs/s/hblrw2/equivalence_morphisms_under"
-    ],
-    [
-      "Equivalence of morphisms under substitution",
-      "https://math.stackexchange.com/q/4905206/425071"
     ]
   ],
   [
