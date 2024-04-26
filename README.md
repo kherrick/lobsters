@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-26, 07:55:29](https://lobste.rs/s/gqoj5n/passkeys_shattered_dream) - [Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
 * [2024-04-26, 06:35:52](https://lobste.rs/s/y8lbl3/simone_repurpose_your_youtube_videos_by) - [simone: Repurpose your YouTube videos by converting them into blog posts](https://github.com/rajtilakjee/simone)
 * [2024-04-26, 05:57:14](https://lobste.rs/s/sncd3f/x_cmd_lightweight_posix_script_for) - [X-CMD | Lightweight POSIX script for managing tools (500+) and providing classic command extensions in an open-source environment](https://www.x-cmd.com/)
 * [2024-04-26, 05:41:20](https://lobste.rs/s/6jn68o/announcing_typescript_5_5_beta) - [Announcing TypeScript 5.5 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-beta/)
@@ -24,7 +25,6 @@
 * [2024-04-25, 11:15:08](https://lobste.rs/s/rvsci8/bluefin) - [Bluefin](https://hackage.haskell.org/package/bluefin-0.0.4.3/docs/Bluefin.html)
 * [2024-04-25, 00:47:37](https://lobste.rs/s/hnp82i/ruby_might_be_faster_than_you_think) - [Ruby might be faster than you think](https://www.johnhawthorn.com/2024/ruby-might-be-faster-than-you-think/)
 * [2024-04-24, 16:37:55](https://lobste.rs/s/mutdyp/borrow_checking_rc_gc_eleven_other_memory) - [Borrow checking, RC, GC, and the Eleven (!) Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire)
-* [2024-04-24, 16:25:10](https://lobste.rs/s/lpodta/emacs_tidbit_rectangle_number_lines) - [Emacs Tidbit: rectangle-number-lines](https://www.emoses.org/posts/rectangle-number-lines/)
 
 ## [Archives](archives/index.md)
 
