@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-04-26, 15:55:43",
-      "https://lobste.rs/s/j1tse6/why_you_shouldn_t_upgrade_ubuntu_24_04_lts"
+      "2024-04-26, 16:00:40",
+      "https://lobste.rs/s/bwdhht/maintaining_world_s_fastest_cdn_at"
     ],
     [
-      "Why You Shouldn't Upgrade to Ubuntu 24.04 LTS Yet",
-      "https://www.omgubuntu.co.uk/2024/04/dont-upgrade-to-ubuntu-24-04-yet"
+      "Maintaining the world’s fastest CDN at Netflix on FreeBSD",
+      "https://freebsdfoundation.org/netflix-case-study/"
     ]
   ],
   [
@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2024-04-26, 09:30:59",
+      "https://lobste.rs/s/28l57q/vuejs_gleam_experimental"
+    ],
+    [
+      "VueJS + Gleam (experimental)",
+      "https://github.com/vleam/vleam"
+    ]
+  ],
+  [
+    [
       "2024-04-26, 07:55:29",
       "https://lobste.rs/s/gqoj5n/passkeys_shattered_dream"
     ],
@@ -157,16 +167,6 @@
     [
       "Ubuntu 24.04 (Noble Numbat)",
       "https://releases.ubuntu.com/noble/"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 20:04:51",
-      "https://lobste.rs/s/aobrbx/dependent_types_haskell_part_3"
-    ],
-    [
-      "Dependent types in Haskell, Part 3",
-      "https://serokell.io/blog/ghc-dependent-types-in-haskell-3"
     ]
   ],
   [
