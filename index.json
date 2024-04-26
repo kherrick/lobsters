@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-26, 12:13:31",
+      "https://lobste.rs/s/qt1lnz/building_highly_available_search_engine"
+    ],
+    [
+      "Building a highly-available search engine using SQLite",
+      "https://www.philipotoole.com/building-a-highly-available-search-engine-using-sqlite/"
+    ]
+  ],
+  [
+    [
       "2024-04-26, 11:35:00",
       "https://lobste.rs/s/hpvxom/pharo_pharo_12_released"
     ],
@@ -97,16 +107,6 @@
     [
       "Open Sourcing DOS 4",
       "https://www.hanselman.com/blog/open-sourcing-dos-4"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 21:42:53",
-      "https://lobste.rs/s/pdqwwm/coverage_guided_fuzzing_extending"
-    ],
-    [
-      "Coverage Guided Fuzzing - Extending Instrumentation to Hunt Down Bugs Faster",
-      "https://blog.includesecurity.com/2024/04/coverage-guided-fuzzing-extending-instrumentation/"
     ]
   ],
   [
