@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 23:23:24](https://lobste.rs/s/fh5stv/giving_rust_chance_for_kernel_codecs) - [Giving Rust a chance for in-kernel codecs](https://lwn.net/SubscriberLink/970565/ac5ffc2e9ad20f1e/)
 * [2024-04-26, 21:23:25](https://lobste.rs/s/rvtlwu/pep_686_make_utf_8_mode_default) - [PEP 686 – Make UTF-8 mode default](https://peps.python.org/pep-0686/)
 * [2024-04-26, 21:08:31](https://lobste.rs/s/jemho4/porting_endbasic_console_lcd) - [Porting the EndBASIC console to an LCD](https://blogsystem5.substack.com/p/porting-the-endbasic-console-to-an)
 * [2024-04-26, 20:35:23](https://lobste.rs/s/imttld/reliable_http_outsmarting_two_generals) - [Reliable HTTP: Outsmarting the Two Generals with Webhooks](https://antman-does-software.com/reliable-http-outsmarting-the-two-generals-with-webhooks#heading-adding-messages-to-the-outbox)
