@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-26, 11:16:04](https://lobste.rs/s/ur2mxg/heed_v0_20_safest_most_maintained_rust) - [Heed v0.20: The safest and most maintained Rust wrapper for the LMDB key-value store](https://github.com/meilisearch/heed/releases/tag/v0.20.0)
 * [2024-04-26, 09:30:59](https://lobste.rs/s/28l57q/vuejs_gleam_experimental) - [VueJS + Gleam (experimental)](https://github.com/vleam/vleam)
 * [2024-04-26, 08:24:08](https://lobste.rs/s/bt1uiz/database_migration_systems_overview) - [Database Migration Systems: An Overview (2021)](https://bruceoutdoors.wordpress.com/2021/06/28/database-migration-systems-an-overview/)
 * [2024-04-26, 07:55:29](https://lobste.rs/s/gqoj5n/passkeys_shattered_dream) - [Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
@@ -7,7 +8,6 @@
 * [2024-04-26, 05:41:20](https://lobste.rs/s/6jn68o/announcing_typescript_5_5_beta) - [Announcing TypeScript 5.5 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-beta/)
 * [2024-04-26, 03:53:37](https://lobste.rs/s/jd9xek/why_is_my_cpu_usage_always_100_upgrading_my) - [Why is my CPU usage always 100%? (Upgrading my Chumby 8 kernel part 9)](https://www.downtowndougbrown.com/2024/04/why-is-my-cpu-usage-always-100-upgrading-my-chumby-8-kernel-part-9/)
 * [2024-04-26, 01:10:53](https://lobste.rs/s/cysg6o/guiding_users_away_from_cd_ls) - [Guiding users away from cd and ls](https://terminal.click/posts/2024/04/guiding-users-away-from-cd-and-ls/)
-* [2024-04-25, 23:38:05](https://lobste.rs/s/gg959c/hilbish_moon_powered_interactive_shell) - [Hilbish the Moon-powered interactive shell for Lua fans](https://rosettea.github.io/Hilbish/)
 * [2024-04-25, 21:59:56](https://lobste.rs/s/f7ftgo/open_sourcing_dos_4) - [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
 * [2024-04-25, 21:42:53](https://lobste.rs/s/pdqwwm/coverage_guided_fuzzing_extending) - [Coverage Guided Fuzzing - Extending Instrumentation to Hunt Down Bugs Faster](https://blog.includesecurity.com/2024/04/coverage-guided-fuzzing-extending-instrumentation/)
 * [2024-04-25, 21:02:54](https://lobste.rs/s/oe4yec/ubuntu_24_04_noble_numbat) - [Ubuntu 24.04 (Noble Numbat)](https://releases.ubuntu.com/noble/)
