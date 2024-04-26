@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-26, 13:51:53",
+      "https://lobste.rs/s/piauml/learn_one_thing_at_time"
+    ],
+    [
+      "Learn one thing at a time",
+      "https://blog.lawrencejones.dev/learn-one-thing/"
+    ]
+  ],
+  [
+    [
       "2024-04-26, 13:41:25",
       "https://lobste.rs/s/l3bqps/what_are_you_doing_this_weekend"
     ],
@@ -167,16 +177,6 @@
     [
       "AI / LLM bot blocker web server configs",
       "https://github.com/anthmn/ai-bot-blocker"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 17:15:00",
-      "https://lobste.rs/s/yk0igg/deriving_bit_twiddling_hack_signed"
-    ],
-    [
-      "Deriving a Bit-Twiddling Hack: Signed Integer Overflow",
-      "https://grack.com/blog/2022/12/20/deriving-a-bit-twiddling-hack/"
     ]
   ],
   [
