@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 20:35:23](https://lobste.rs/s/imttld/reliable_http_outsmarting_two_generals) - [Reliable HTTP: Outsmarting the Two Generals with Webhooks](https://antman-does-software.com/reliable-http-outsmarting-the-two-generals-with-webhooks#heading-adding-messages-to-the-outbox)
 * [2024-04-26, 20:19:56](https://lobste.rs/s/l1xkhq/bun_report_is_bun_s_new_crash_reporter) - [bun.report is Bun's new crash reporter](https://bun.sh/blog/bun-report-is-buns-new-crash-reporter)
 * [2024-04-26, 19:01:51](https://lobste.rs/s/ndprhc/end_free_tier) - [The End Of The Free Tier](https://www.smashingmagazine.com/2024/04/end-of-free-tier/)
 * [2024-04-26, 17:26:29](https://lobste.rs/s/pntava/on_community_nix) - [On community in Nix](https://determinate.systems/posts/on-community-in-nix/)
