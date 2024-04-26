@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-26, 03:53:37](https://lobste.rs/s/jd9xek/why_is_my_cpu_usage_always_100_upgrading_my) - [Why is my CPU usage always 100%? (Upgrading my Chumby 8 kernel part 9)](https://www.downtowndougbrown.com/2024/04/why-is-my-cpu-usage-always-100-upgrading-my-chumby-8-kernel-part-9/)
 * [2024-04-26, 01:10:53](https://lobste.rs/s/cysg6o/guiding_users_away_from_cd_ls) - [Guiding users away from cd and ls](https://terminal.click/posts/2024/04/guiding-users-away-from-cd-and-ls/)
 * [2024-04-25, 23:38:05](https://lobste.rs/s/gg959c/hilbish_moon_powered_interactive_shell) - [Hilbish the Moon-powered interactive shell for Lua fans](https://rosettea.github.io/Hilbish/)
 * [2024-04-25, 21:59:56](https://lobste.rs/s/f7ftgo/open_sourcing_dos_4) - [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
@@ -24,7 +25,6 @@
 * [2024-04-24, 23:20:51](https://lobste.rs/s/efaxuf/pilgrimages_for_electronics_tinkerers) - [Pilgrimages for electronics tinkerers in Tokyo/Kyoto/Osaka?](https://lobste.rs/s/efaxuf/pilgrimages_for_electronics_tinkerers)
 * [2024-04-24, 16:37:55](https://lobste.rs/s/mutdyp/borrow_checking_rc_gc_eleven_other_memory) - [Borrow checking, RC, GC, and the Eleven (!) Other Memory Safety Approaches](https://verdagon.dev/grimoire/grimoire)
 * [2024-04-24, 16:25:10](https://lobste.rs/s/lpodta/emacs_tidbit_rectangle_number_lines) - [Emacs Tidbit: rectangle-number-lines](https://www.emoses.org/posts/rectangle-number-lines/)
-* [2024-04-24, 09:17:18](https://lobste.rs/s/grovsl/project_fluent) - [Project Fluent](https://projectfluent.org/)
 
 ## [Archives](archives/index.md)
 
