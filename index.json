@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-26, 11:35:00",
+      "https://lobste.rs/s/hpvxom/pharo_pharo_12_released"
+    ],
+    [
+      "Pharo - Pharo 12 Released",
+      "https://pharo.org/news/2024-04-26-pharo12-released.html"
+    ]
+  ],
+  [
+    [
       "2024-04-26, 11:16:04",
       "https://lobste.rs/s/ur2mxg/heed_v0_20_safest_most_maintained_rust"
     ],
@@ -187,16 +197,6 @@
     [
       "Package management on macOS with nix-darwin",
       "https://davi.sh/blog/2024/01/nix-darwin/"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 15:48:24",
-      "https://lobste.rs/s/l38jud/getting_your_haskell_executable"
-    ],
-    [
-      "Getting your Haskell executable statically linked without Nix",
-      "https://hasufell.github.io/posts/2024-04-21-static-linking.html"
     ]
   ],
   [
