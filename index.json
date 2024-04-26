@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-26, 20:19:56",
+      "https://lobste.rs/s/l1xkhq/bun_report_is_bun_s_new_crash_reporter"
+    ],
+    [
+      "bun.report is Bun's new crash reporter",
+      "https://bun.sh/blog/bun-report-is-buns-new-crash-reporter"
+    ]
+  ],
+  [
+    [
       "2024-04-26, 19:01:51",
       "https://lobste.rs/s/ndprhc/end_free_tier"
     ],
@@ -97,16 +107,6 @@
     [
       "Heed v0.20: The safest and most maintained Rust wrapper for the LMDB key-value store",
       "https://github.com/meilisearch/heed/releases/tag/v0.20.0"
-    ]
-  ],
-  [
-    [
-      "2024-04-26, 08:24:08",
-      "https://lobste.rs/s/bt1uiz/database_migration_systems_overview"
-    ],
-    [
-      "Database Migration Systems: An Overview (2021)",
-      "https://bruceoutdoors.wordpress.com/2021/06/28/database-migration-systems-an-overview/"
     ]
   ],
   [
