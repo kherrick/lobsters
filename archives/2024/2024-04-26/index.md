@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 16:00:40](https://lobste.rs/s/bwdhht/maintaining_world_s_fastest_cdn_at) - [Maintaining the world’s fastest CDN at Netflix on FreeBSD](https://freebsdfoundation.org/netflix-case-study/)
 * [2024-04-26, 15:55:43](https://lobste.rs/s/j1tse6/why_you_shouldn_t_upgrade_ubuntu_24_04_lts) - [Why You Shouldn't Upgrade to Ubuntu 24.04 LTS Yet](https://www.omgubuntu.co.uk/2024/04/dont-upgrade-to-ubuntu-24-04-yet)
 * [2024-04-26, 14:38:46](https://lobste.rs/s/n29mck/adding_activitypub_humungus) - [adding activitypub to humungus](https://flak.tedunangst.com/post/adding-activitypub-to-humungus)
 * [2024-04-26, 14:01:35](https://lobste.rs/s/k1bquc/i_am_so_disappointed_with_ubuntu_24_04) - [I am So Disappointed with Ubuntu 24.04](https://news.itsfoss.com/ubuntu-24-04-disappointment/)
