@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-26, 11:35:00](https://lobste.rs/s/hpvxom/pharo_pharo_12_released) - [Pharo - Pharo 12 Released](https://pharo.org/news/2024-04-26-pharo12-released.html)
 * [2024-04-26, 11:16:04](https://lobste.rs/s/ur2mxg/heed_v0_20_safest_most_maintained_rust) - [Heed v0.20: The safest and most maintained Rust wrapper for the LMDB key-value store](https://github.com/meilisearch/heed/releases/tag/v0.20.0)
 * [2024-04-26, 09:30:59](https://lobste.rs/s/28l57q/vuejs_gleam_experimental) - [VueJS + Gleam (experimental)](https://github.com/vleam/vleam)
 * [2024-04-26, 08:24:08](https://lobste.rs/s/bt1uiz/database_migration_systems_overview) - [Database Migration Systems: An Overview (2021)](https://bruceoutdoors.wordpress.com/2021/06/28/database-migration-systems-an-overview/)
@@ -19,7 +20,6 @@
 * [2024-04-25, 16:52:35](https://lobste.rs/s/bowldc/overcoming_hallucinations_with) - [Overcoming Hallucinations with the Trustworthy Language Model](https://cleanlab.ai/blog/trustworthy-language-model/)
 * [2024-04-25, 16:51:43](https://lobste.rs/s/shzkvx/kandria_post_apocalyptic_actionrpg) - [kandria: A post-apocalyptic actionRPG written in lisp](https://github.com/Shirakumo/kandria)
 * [2024-04-25, 15:51:44](https://lobste.rs/s/m8hd8k/package_management_on_macos_with_nix) - [Package management on macOS with nix-darwin](https://davi.sh/blog/2024/01/nix-darwin/)
-* [2024-04-25, 15:48:24](https://lobste.rs/s/l38jud/getting_your_haskell_executable) - [Getting your Haskell executable statically linked without Nix](https://hasufell.github.io/posts/2024-04-21-static-linking.html)
 * [2024-04-25, 15:29:00](https://lobste.rs/s/agncjj/create_debian_vm_on_macos_apple_silicon) - [Create a Debian VM on MacOS Apple Silicon with QEMU](https://sleepymug.me/fragments/guide_mac_qemu.html)
 * [2024-04-25, 15:17:10](https://lobste.rs/s/hblrw2/equivalence_morphisms_under) - [Equivalence of morphisms under substitution](https://math.stackexchange.com/q/4905206/425071)
 * [2024-04-25, 15:08:14](https://lobste.rs/s/ehbote/invisible_internet_project_i2p) - [The Invisible Internet Project (I2P)](https://geti2p.net/en/)
