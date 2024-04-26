@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-26, 12:20:57](https://lobste.rs/s/jzkcuv/sonic_low_latency_asynchronous) - [Sonic: A low-latency asynchronous networking library for trading in Go](https://www.talos.com/insights/talos-goes-sonic)
+* [2024-04-26, 12:20:40](https://lobste.rs/s/l6k1dk/patching_requests_for_fun_concurrent) - [Patching requests for fun and (concurrent) profit](https://blog.borrego.dev/entries/patching-requests-for-fun-and-concurrent-profit.html)
 * [2024-04-26, 12:13:31](https://lobste.rs/s/qt1lnz/building_highly_available_search_engine) - [Building a highly-available search engine using SQLite](https://www.philipotoole.com/building-a-highly-available-search-engine-using-sqlite/)
 * [2024-04-26, 11:35:00](https://lobste.rs/s/hpvxom/pharo_pharo_12_released) - [Pharo - Pharo 12 Released](https://pharo.org/news/2024-04-26-pharo12-released.html)
 * [2024-04-26, 11:16:04](https://lobste.rs/s/ur2mxg/heed_v0_20_safest_most_maintained_rust) - [Heed v0.20: The safest and most maintained Rust wrapper for the LMDB key-value store](https://github.com/meilisearch/heed/releases/tag/v0.20.0)
@@ -17,9 +19,7 @@
 * [2024-04-25, 19:55:24](https://lobste.rs/s/qxasne/ai_llm_bot_blocker_web_server_configs) - [AI / LLM bot blocker web server configs](https://github.com/anthmn/ai-bot-blocker)
 * [2024-04-25, 17:15:00](https://lobste.rs/s/yk0igg/deriving_bit_twiddling_hack_signed) - [Deriving a Bit-Twiddling Hack: Signed Integer Overflow](https://grack.com/blog/2022/12/20/deriving-a-bit-twiddling-hack/)
 * [2024-04-25, 16:55:16](https://lobste.rs/s/fzckty/go_rust_just_listen_bots) - [Go or Rust? Just Listen to the Bots](https://cybernetist.com/2024/04/25/go-or-rust-just-listen-to-the-bots/)
-* [2024-04-25, 16:52:35](https://lobste.rs/s/bowldc/overcoming_hallucinations_with) - [Overcoming Hallucinations with the Trustworthy Language Model](https://cleanlab.ai/blog/trustworthy-language-model/)
 * [2024-04-25, 16:51:43](https://lobste.rs/s/shzkvx/kandria_post_apocalyptic_actionrpg) - [kandria: A post-apocalyptic actionRPG written in lisp](https://github.com/Shirakumo/kandria)
-* [2024-04-25, 15:51:44](https://lobste.rs/s/m8hd8k/package_management_on_macos_with_nix) - [Package management on macOS with nix-darwin](https://davi.sh/blog/2024/01/nix-darwin/)
 * [2024-04-25, 15:29:00](https://lobste.rs/s/agncjj/create_debian_vm_on_macos_apple_silicon) - [Create a Debian VM on MacOS Apple Silicon with QEMU](https://sleepymug.me/fragments/guide_mac_qemu.html)
 * [2024-04-25, 15:17:10](https://lobste.rs/s/hblrw2/equivalence_morphisms_under) - [Equivalence of morphisms under substitution](https://math.stackexchange.com/q/4905206/425071)
 * [2024-04-25, 15:08:14](https://lobste.rs/s/ehbote/invisible_internet_project_i2p) - [The Invisible Internet Project (I2P)](https://geti2p.net/en/)
