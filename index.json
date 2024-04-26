@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-26, 20:35:23",
+      "https://lobste.rs/s/imttld/reliable_http_outsmarting_two_generals"
+    ],
+    [
+      "Reliable HTTP: Outsmarting the Two Generals with Webhooks",
+      "https://antman-does-software.com/reliable-http-outsmarting-the-two-generals-with-webhooks#heading-adding-messages-to-the-outbox"
+    ]
+  ],
+  [
+    [
       "2024-04-26, 20:19:56",
       "https://lobste.rs/s/l1xkhq/bun_report_is_bun_s_new_crash_reporter"
     ],
@@ -227,16 +237,6 @@
     [
       "Create a Debian VM on MacOS Apple Silicon with QEMU",
       "https://sleepymug.me/fragments/guide_mac_qemu.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 11:15:08",
-      "https://lobste.rs/s/rvsci8/bluefin"
-    ],
-    [
-      "Bluefin",
-      "https://hackage.haskell.org/package/bluefin-0.0.4.3/docs/Bluefin.html"
     ]
   ],
   [
