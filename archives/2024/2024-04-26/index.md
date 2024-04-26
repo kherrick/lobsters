@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 14:38:46](https://lobste.rs/s/n29mck/adding_activitypub_humungus) - [adding activitypub to humungus](https://flak.tedunangst.com/post/adding-activitypub-to-humungus)
 * [2024-04-26, 14:01:35](https://lobste.rs/s/k1bquc/i_am_so_disappointed_with_ubuntu_24_04) - [I am So Disappointed with Ubuntu 24.04](https://news.itsfoss.com/ubuntu-24-04-disappointment/)
 * [2024-04-26, 13:51:53](https://lobste.rs/s/piauml/learn_one_thing_at_time) - [Learn one thing at a time](https://blog.lawrencejones.dev/learn-one-thing/)
 * [2024-04-26, 13:41:25](https://lobste.rs/s/l3bqps/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/l3bqps/what_are_you_doing_this_weekend)
