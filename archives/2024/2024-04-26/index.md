@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 14:01:35](https://lobste.rs/s/k1bquc/i_am_so_disappointed_with_ubuntu_24_04) - [I am So Disappointed with Ubuntu 24.04](https://news.itsfoss.com/ubuntu-24-04-disappointment/)
 * [2024-04-26, 13:51:53](https://lobste.rs/s/piauml/learn_one_thing_at_time) - [Learn one thing at a time](https://blog.lawrencejones.dev/learn-one-thing/)
 * [2024-04-26, 13:41:25](https://lobste.rs/s/l3bqps/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/l3bqps/what_are_you_doing_this_weekend)
 * [2024-04-26, 12:20:57](https://lobste.rs/s/jzkcuv/sonic_low_latency_asynchronous) - [Sonic: A low-latency asynchronous networking library for trading in Go](https://www.talos.com/insights/talos-goes-sonic)
