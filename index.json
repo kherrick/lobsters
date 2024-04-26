@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-04-26, 14:01:35",
-      "https://lobste.rs/s/k1bquc/i_am_so_disappointed_with_ubuntu_24_04"
-    ],
-    [
-      "I am So Disappointed with Ubuntu 24.04",
-      "https://news.itsfoss.com/ubuntu-24-04-disappointment/"
-    ]
-  ],
-  [
-    [
       "2024-04-26, 13:51:53",
       "https://lobste.rs/s/piauml/learn_one_thing_at_time"
     ],
@@ -97,6 +87,16 @@
     [
       "Heed v0.20: The safest and most maintained Rust wrapper for the LMDB key-value store",
       "https://github.com/meilisearch/heed/releases/tag/v0.20.0"
+    ]
+  ],
+  [
+    [
+      "2024-04-26, 09:30:59",
+      "https://lobste.rs/s/28l57q/vuejs_gleam_experimental"
+    ],
+    [
+      "VueJS + Gleam (experimental)",
+      "https://github.com/vleam/vleam"
     ]
   ],
   [
