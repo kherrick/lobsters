@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-26, 05:57:14](https://lobste.rs/s/sncd3f/x_cmd_lightweight_posix_script_for) - [X-CMD | Lightweight POSIX script for managing tools (500+) and providing classic command extensions in an open-source environment](https://www.x-cmd.com/)
 * [2024-04-26, 05:51:19](https://lobste.rs/s/4qrpub/jsr_is_not_another_package_manager) - [JSR Is Not Another Package Manager](https://deno.com/blog/jsr-is-not-another-package-manager)
 * [2024-04-26, 05:41:20](https://lobste.rs/s/6jn68o/announcing_typescript_5_5_beta) - [Announcing TypeScript 5.5 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-beta/)
 * [2024-04-26, 03:53:37](https://lobste.rs/s/jd9xek/why_is_my_cpu_usage_always_100_upgrading_my) - [Why is my CPU usage always 100%? (Upgrading my Chumby 8 kernel part 9)](https://www.downtowndougbrown.com/2024/04/why-is-my-cpu-usage-always-100-upgrading-my-chumby-8-kernel-part-9/)
@@ -18,7 +19,6 @@
 * [2024-04-25, 15:51:44](https://lobste.rs/s/m8hd8k/package_management_on_macos_with_nix) - [Package management on macOS with nix-darwin](https://davi.sh/blog/2024/01/nix-darwin/)
 * [2024-04-25, 15:48:24](https://lobste.rs/s/l38jud/getting_your_haskell_executable) - [Getting your Haskell executable statically linked without Nix](https://hasufell.github.io/posts/2024-04-21-static-linking.html)
 * [2024-04-25, 15:29:00](https://lobste.rs/s/agncjj/create_debian_vm_on_macos_apple_silicon) - [Create a Debian VM on MacOS Apple Silicon with QEMU](https://sleepymug.me/fragments/guide_mac_qemu.html)
-* [2024-04-25, 15:28:08](https://lobste.rs/s/nuylte/using_vectors_without_vector_database) - [Using Vectors without a Vector Database](https://swirlaiconnect.com/blog/using-vectors-without-a-vector-database)
 * [2024-04-25, 15:17:10](https://lobste.rs/s/hblrw2/equivalence_morphisms_under) - [Equivalence of morphisms under substitution](https://math.stackexchange.com/q/4905206/425071)
 * [2024-04-25, 15:08:14](https://lobste.rs/s/ehbote/invisible_internet_project_i2p) - [The Invisible Internet Project (I2P)](https://geti2p.net/en/)
 * [2024-04-25, 11:15:08](https://lobste.rs/s/rvsci8/bluefin) - [Bluefin](https://hackage.haskell.org/package/bluefin-0.0.4.3/docs/Bluefin.html)
