@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 06:35:52](https://lobste.rs/s/y8lbl3/simone_repurpose_your_youtube_videos_by) - [simone: Repurpose your YouTube videos by converting them into blog posts](https://github.com/rajtilakjee/simone)
 * [2024-04-26, 05:57:14](https://lobste.rs/s/sncd3f/x_cmd_lightweight_posix_script_for) - [X-CMD | Lightweight POSIX script for managing tools (500+) and providing classic command extensions in an open-source environment](https://www.x-cmd.com/)
 * [2024-04-26, 05:51:19](https://lobste.rs/s/4qrpub/jsr_is_not_another_package_manager) - [JSR Is Not Another Package Manager](https://deno.com/blog/jsr-is-not-another-package-manager)
 * [2024-04-26, 05:41:20](https://lobste.rs/s/6jn68o/announcing_typescript_5_5_beta) - [Announcing TypeScript 5.5 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-beta/)
