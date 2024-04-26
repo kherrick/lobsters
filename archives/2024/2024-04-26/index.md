@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 13:41:25](https://lobste.rs/s/l3bqps/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/l3bqps/what_are_you_doing_this_weekend)
 * [2024-04-26, 12:20:57](https://lobste.rs/s/jzkcuv/sonic_low_latency_asynchronous) - [Sonic: A low-latency asynchronous networking library for trading in Go](https://www.talos.com/insights/talos-goes-sonic)
 * [2024-04-26, 12:20:40](https://lobste.rs/s/l6k1dk/patching_requests_for_fun_concurrent) - [Patching requests for fun and (concurrent) profit](https://blog.borrego.dev/entries/patching-requests-for-fun-and-concurrent-profit.html)
 * [2024-04-26, 12:13:31](https://lobste.rs/s/qt1lnz/building_highly_available_search_engine) - [Building a highly-available search engine using SQLite](https://www.philipotoole.com/building-a-highly-available-search-engine-using-sqlite/)
