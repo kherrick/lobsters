@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-26, 13:51:53](https://lobste.rs/s/piauml/learn_one_thing_at_time) - [Learn one thing at a time](https://blog.lawrencejones.dev/learn-one-thing/)
 * [2024-04-26, 13:41:25](https://lobste.rs/s/l3bqps/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/l3bqps/what_are_you_doing_this_weekend)
 * [2024-04-26, 12:20:57](https://lobste.rs/s/jzkcuv/sonic_low_latency_asynchronous) - [Sonic: A low-latency asynchronous networking library for trading in Go](https://www.talos.com/insights/talos-goes-sonic)
 * [2024-04-26, 12:20:40](https://lobste.rs/s/l6k1dk/patching_requests_for_fun_concurrent) - [Patching requests for fun and (concurrent) profit](https://blog.borrego.dev/entries/patching-requests-for-fun-and-concurrent-profit.html)
@@ -17,7 +18,6 @@
 * [2024-04-25, 20:04:51](https://lobste.rs/s/aobrbx/dependent_types_haskell_part_3) - [Dependent types in Haskell, Part 3](https://serokell.io/blog/ghc-dependent-types-in-haskell-3)
 * [2024-04-25, 19:57:16](https://lobste.rs/s/ljih87/gacube_emeleter_dolphin_on_nintendo_3ds) - [gacube emeleter (Dolphin on the Nintendo 3DS)](https://nocoffei.com/?p=99)
 * [2024-04-25, 19:55:24](https://lobste.rs/s/qxasne/ai_llm_bot_blocker_web_server_configs) - [AI / LLM bot blocker web server configs](https://github.com/anthmn/ai-bot-blocker)
-* [2024-04-25, 17:15:00](https://lobste.rs/s/yk0igg/deriving_bit_twiddling_hack_signed) - [Deriving a Bit-Twiddling Hack: Signed Integer Overflow](https://grack.com/blog/2022/12/20/deriving-a-bit-twiddling-hack/)
 * [2024-04-25, 16:55:16](https://lobste.rs/s/fzckty/go_rust_just_listen_bots) - [Go or Rust? Just Listen to the Bots](https://cybernetist.com/2024/04/25/go-or-rust-just-listen-to-the-bots/)
 * [2024-04-25, 16:51:43](https://lobste.rs/s/shzkvx/kandria_post_apocalyptic_actionrpg) - [kandria: A post-apocalyptic actionRPG written in lisp](https://github.com/Shirakumo/kandria)
 * [2024-04-25, 15:29:00](https://lobste.rs/s/agncjj/create_debian_vm_on_macos_apple_silicon) - [Create a Debian VM on MacOS Apple Silicon with QEMU](https://sleepymug.me/fragments/guide_mac_qemu.html)
