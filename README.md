@@ -9,7 +9,7 @@
 * [2024-04-26, 12:13:31](https://lobste.rs/s/qt1lnz/building_highly_available_search_engine) - [Building a highly-available search engine using SQLite](https://www.philipotoole.com/building-a-highly-available-search-engine-using-sqlite/)
 * [2024-04-26, 11:35:00](https://lobste.rs/s/hpvxom/pharo_pharo_12_released) - [Pharo - Pharo 12 Released](https://pharo.org/news/2024-04-26-pharo12-released.html)
 * [2024-04-26, 11:16:04](https://lobste.rs/s/ur2mxg/heed_v0_20_safest_most_maintained_rust) - [Heed v0.20: The safest and most maintained Rust wrapper for the LMDB key-value store](https://github.com/meilisearch/heed/releases/tag/v0.20.0)
-* [2024-04-26, 09:30:59](https://lobste.rs/s/28l57q/vuejs_gleam_experimental) - [VueJS + Gleam (experimental)](https://github.com/vleam/vleam)
+* [2024-04-26, 08:24:08](https://lobste.rs/s/bt1uiz/database_migration_systems_overview) - [Database Migration Systems: An Overview (2021)](https://bruceoutdoors.wordpress.com/2021/06/28/database-migration-systems-an-overview/)
 * [2024-04-26, 07:55:29](https://lobste.rs/s/gqoj5n/passkeys_shattered_dream) - [Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
 * [2024-04-26, 06:35:52](https://lobste.rs/s/y8lbl3/simone_repurpose_your_youtube_videos_by) - [simone: Repurpose your YouTube videos by converting them into blog posts](https://github.com/rajtilakjee/simone)
 * [2024-04-26, 05:41:20](https://lobste.rs/s/6jn68o/announcing_typescript_5_5_beta) - [Announcing TypeScript 5.5 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-beta/)
