@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-26, 12:20:57",
+      "https://lobste.rs/s/jzkcuv/sonic_low_latency_asynchronous"
+    ],
+    [
+      "Sonic: A low-latency asynchronous networking library for trading in Go",
+      "https://www.talos.com/insights/talos-goes-sonic"
+    ]
+  ],
+  [
+    [
+      "2024-04-26, 12:20:40",
+      "https://lobste.rs/s/l6k1dk/patching_requests_for_fun_concurrent"
+    ],
+    [
+      "Patching requests for fun and (concurrent) profit",
+      "https://blog.borrego.dev/entries/patching-requests-for-fun-and-concurrent-profit.html"
+    ]
+  ],
+  [
+    [
       "2024-04-26, 12:13:31",
       "https://lobste.rs/s/qt1lnz/building_highly_available_search_engine"
     ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2024-04-25, 16:52:35",
-      "https://lobste.rs/s/bowldc/overcoming_hallucinations_with"
-    ],
-    [
-      "Overcoming Hallucinations with the Trustworthy Language Model",
-      "https://cleanlab.ai/blog/trustworthy-language-model/"
-    ]
-  ],
-  [
-    [
       "2024-04-25, 16:51:43",
       "https://lobste.rs/s/shzkvx/kandria_post_apocalyptic_actionrpg"
     ],
     [
       "kandria: A post-apocalyptic actionRPG written in lisp",
       "https://github.com/Shirakumo/kandria"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 15:51:44",
-      "https://lobste.rs/s/m8hd8k/package_management_on_macos_with_nix"
-    ],
-    [
-      "Package management on macOS with nix-darwin",
-      "https://davi.sh/blog/2024/01/nix-darwin/"
     ]
   ],
   [
