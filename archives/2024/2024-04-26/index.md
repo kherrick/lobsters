@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 23:55:52](https://lobste.rs/s/qlncvp/how_not_release_historic_source_code) - [How Not To Release Historic Source Code](https://www.os2museum.com/wp/how-not-to-release-historic-source-code/)
+* [2024-04-26, 23:50:20](https://lobste.rs/s/tbps21/reflections_on_qualitative_research) - [Reflections on Qualitative Research](https://transformer-circuits.pub/2024/qualitative-essay/index.html)
 * [2024-04-26, 23:23:24](https://lobste.rs/s/fh5stv/giving_rust_chance_for_kernel_codecs) - [Giving Rust a chance for in-kernel codecs](https://lwn.net/SubscriberLink/970565/ac5ffc2e9ad20f1e/)
 * [2024-04-26, 21:23:25](https://lobste.rs/s/rvtlwu/pep_686_make_utf_8_mode_default) - [PEP 686 – Make UTF-8 mode default](https://peps.python.org/pep-0686/)
 * [2024-04-26, 21:08:31](https://lobste.rs/s/jemho4/porting_endbasic_console_lcd) - [Porting the EndBASIC console to an LCD](https://blogsystem5.substack.com/p/porting-the-endbasic-console-to-an)

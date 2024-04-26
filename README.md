@@ -1,9 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-26, 23:55:52](https://lobste.rs/s/qlncvp/how_not_release_historic_source_code) - [How Not To Release Historic Source Code](https://www.os2museum.com/wp/how-not-to-release-historic-source-code/)
+* [2024-04-26, 23:50:20](https://lobste.rs/s/tbps21/reflections_on_qualitative_research) - [Reflections on Qualitative Research](https://transformer-circuits.pub/2024/qualitative-essay/index.html)
 * [2024-04-26, 23:23:24](https://lobste.rs/s/fh5stv/giving_rust_chance_for_kernel_codecs) - [Giving Rust a chance for in-kernel codecs](https://lwn.net/SubscriberLink/970565/ac5ffc2e9ad20f1e/)
 * [2024-04-26, 21:23:25](https://lobste.rs/s/rvtlwu/pep_686_make_utf_8_mode_default) - [PEP 686 – Make UTF-8 mode default](https://peps.python.org/pep-0686/)
 * [2024-04-26, 21:08:31](https://lobste.rs/s/jemho4/porting_endbasic_console_lcd) - [Porting the EndBASIC console to an LCD](https://blogsystem5.substack.com/p/porting-the-endbasic-console-to-an)
-* [2024-04-26, 20:35:23](https://lobste.rs/s/imttld/reliable_http_outsmarting_two_generals) - [Reliable HTTP: Outsmarting the Two Generals with Webhooks](https://antman-does-software.com/reliable-http-outsmarting-the-two-generals-with-webhooks#heading-adding-messages-to-the-outbox)
 * [2024-04-26, 20:19:56](https://lobste.rs/s/l1xkhq/bun_report_is_bun_s_new_crash_reporter) - [bun.report is Bun's new crash reporter](https://bun.sh/blog/bun-report-is-buns-new-crash-reporter)
 * [2024-04-26, 19:01:51](https://lobste.rs/s/ndprhc/end_free_tier) - [The End Of The Free Tier](https://www.smashingmagazine.com/2024/04/end-of-free-tier/)
 * [2024-04-26, 17:10:37](https://lobste.rs/s/nyikhk/lessons_learned_after_3_years_fulltime) - [Lessons learned after 3 years of fulltime Rust game development, and why we're leaving Rust behind](https://loglog.games/blog/leaving-rust-gamedev/)
@@ -23,7 +24,6 @@
 * [2024-04-25, 21:02:54](https://lobste.rs/s/oe4yec/ubuntu_24_04_noble_numbat) - [Ubuntu 24.04 (Noble Numbat)](https://releases.ubuntu.com/noble/)
 * [2024-04-25, 19:57:16](https://lobste.rs/s/ljih87/gacube_emeleter_dolphin_on_nintendo_3ds) - [gacube emeleter (Dolphin on the Nintendo 3DS)](https://nocoffei.com/?p=99)
 * [2024-04-25, 19:55:24](https://lobste.rs/s/qxasne/ai_llm_bot_blocker_web_server_configs) - [AI / LLM bot blocker web server configs](https://github.com/anthmn/ai-bot-blocker)
-* [2024-04-25, 16:55:16](https://lobste.rs/s/fzckty/go_rust_just_listen_bots) - [Go or Rust? Just Listen to the Bots](https://cybernetist.com/2024/04/25/go-or-rust-just-listen-to-the-bots/)
 * [2024-04-25, 16:51:43](https://lobste.rs/s/shzkvx/kandria_post_apocalyptic_actionrpg) - [kandria: A post-apocalyptic actionRPG written in lisp](https://github.com/Shirakumo/kandria)
 
 ## [Archives](archives/index.md)
