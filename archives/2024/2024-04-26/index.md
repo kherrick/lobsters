@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 08:24:08](https://lobste.rs/s/bt1uiz/database_migration_systems_overview) - [Database Migration Systems: An Overview (2021)](https://bruceoutdoors.wordpress.com/2021/06/28/database-migration-systems-an-overview/)
 * [2024-04-26, 07:55:29](https://lobste.rs/s/gqoj5n/passkeys_shattered_dream) - [Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
 * [2024-04-26, 06:35:52](https://lobste.rs/s/y8lbl3/simone_repurpose_your_youtube_videos_by) - [simone: Repurpose your YouTube videos by converting them into blog posts](https://github.com/rajtilakjee/simone)
 * [2024-04-26, 05:57:14](https://lobste.rs/s/sncd3f/x_cmd_lightweight_posix_script_for) - [X-CMD | Lightweight POSIX script for managing tools (500+) and providing classic command extensions in an open-source environment](https://www.x-cmd.com/)
