@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-26](index.md)
 
+* [2024-04-26, 09:30:59](https://lobste.rs/s/28l57q/vuejs_gleam_experimental) - [VueJS + Gleam (experimental)](https://github.com/vleam/vleam)
 * [2024-04-26, 08:24:08](https://lobste.rs/s/bt1uiz/database_migration_systems_overview) - [Database Migration Systems: An Overview (2021)](https://bruceoutdoors.wordpress.com/2021/06/28/database-migration-systems-an-overview/)
 * [2024-04-26, 07:55:29](https://lobste.rs/s/gqoj5n/passkeys_shattered_dream) - [Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
 * [2024-04-26, 06:35:52](https://lobste.rs/s/y8lbl3/simone_repurpose_your_youtube_videos_by) - [simone: Repurpose your YouTube videos by converting them into blog posts](https://github.com/rajtilakjee/simone)
