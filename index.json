@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-27, 17:00:09",
+      "https://lobste.rs/s/sda151/nixpkgs_news"
+    ],
+    [
+      "nixpkgs.news",
+      "https://nixpkgs.news/"
+    ]
+  ],
+  [
+    [
       "2024-04-27, 14:54:12",
       "https://lobste.rs/s/hwp3iq/fearless_cors_design_philosophy_for_cors"
     ],
@@ -227,16 +237,6 @@
     [
       "Guiding users away from cd and ls",
       "https://terminal.click/posts/2024/04/guiding-users-away-from-cd-and-ls/"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 21:59:56",
-      "https://lobste.rs/s/f7ftgo/open_sourcing_dos_4"
-    ],
-    [
-      "Open Sourcing DOS 4",
-      "https://www.hanselman.com/blog/open-sourcing-dos-4"
     ]
   ],
   [
