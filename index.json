@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-27, 12:13:52",
+      "https://lobste.rs/s/sa9txo/exploiting_nt_kernel_24h2_new_bugs_old"
+    ],
+    [
+      "Exploiting the NT Kernel in 24H2: New Bugs in Old Code & Side Channels Against KASLR",
+      "https://exploits.forsale/24h2-nt-exploit/"
+    ]
+  ],
+  [
+    [
       "2024-04-27, 02:37:56",
       "https://lobste.rs/s/nht0ko/reflectively_constructing_enums_at"
     ],
@@ -237,16 +247,6 @@
     [
       "Ubuntu 24.04 (Noble Numbat)",
       "https://releases.ubuntu.com/noble/"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 19:55:24",
-      "https://lobste.rs/s/qxasne/ai_llm_bot_blocker_web_server_configs"
-    ],
-    [
-      "AI / LLM bot blocker web server configs",
-      "https://github.com/anthmn/ai-bot-blocker"
     ]
   ]
 ]
