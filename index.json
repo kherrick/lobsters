@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-04-27, 18:08:39",
-      "https://lobste.rs/s/jrssna/what_nix_will_have_been"
-    ],
-    [
-      "What Nix Will Have Been",
-      "https://boinkor.net/2024/04/what-nix-will-have-been/"
-    ]
-  ],
-  [
-    [
       "2024-04-27, 17:00:09",
       "https://lobste.rs/s/sda151/nixpkgs_news"
     ],
@@ -117,6 +107,16 @@
     [
       "How Not To Release Historic Source Code",
       "https://www.os2museum.com/wp/how-not-to-release-historic-source-code/"
+    ]
+  ],
+  [
+    [
+      "2024-04-26, 23:23:24",
+      "https://lobste.rs/s/fh5stv/giving_rust_chance_for_kernel_codecs"
+    ],
+    [
+      "Giving Rust a chance for in-kernel codecs",
+      "https://lwn.net/SubscriberLink/970565/ac5ffc2e9ad20f1e/"
     ]
   ],
   [
