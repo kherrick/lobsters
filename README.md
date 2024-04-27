@@ -7,6 +7,7 @@
 * [2024-04-26, 23:23:24](https://lobste.rs/s/fh5stv/giving_rust_chance_for_kernel_codecs) - [Giving Rust a chance for in-kernel codecs](https://lwn.net/SubscriberLink/970565/ac5ffc2e9ad20f1e/)
 * [2024-04-26, 21:23:25](https://lobste.rs/s/rvtlwu/pep_686_make_utf_8_mode_default) - [PEP 686 – Make UTF-8 mode default](https://peps.python.org/pep-0686/)
 * [2024-04-26, 21:08:31](https://lobste.rs/s/jemho4/porting_endbasic_console_lcd) - [Porting the EndBASIC console to an LCD](https://blogsystem5.substack.com/p/porting-the-endbasic-console-to-an)
+* [2024-04-26, 20:35:23](https://lobste.rs/s/imttld/reliable_http_outsmarting_two_generals) - [Reliable HTTP: Outsmarting the Two Generals with Webhooks](https://antman-does-software.com/reliable-http-outsmarting-the-two-generals-with-webhooks#heading-adding-messages-to-the-outbox)
 * [2024-04-26, 20:19:56](https://lobste.rs/s/l1xkhq/bun_report_is_bun_s_new_crash_reporter) - [bun.report is Bun's new crash reporter](https://bun.sh/blog/bun-report-is-buns-new-crash-reporter)
 * [2024-04-26, 19:01:51](https://lobste.rs/s/ndprhc/end_free_tier) - [The End Of The Free Tier](https://www.smashingmagazine.com/2024/04/end-of-free-tier/)
 * [2024-04-26, 17:10:37](https://lobste.rs/s/nyikhk/lessons_learned_after_3_years_fulltime) - [Lessons learned after 3 years of fulltime Rust game development, and why we're leaving Rust behind](https://loglog.games/blog/leaving-rust-gamedev/)
@@ -24,7 +25,6 @@
 * [2024-04-25, 21:59:56](https://lobste.rs/s/f7ftgo/open_sourcing_dos_4) - [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
 * [2024-04-25, 21:02:54](https://lobste.rs/s/oe4yec/ubuntu_24_04_noble_numbat) - [Ubuntu 24.04 (Noble Numbat)](https://releases.ubuntu.com/noble/)
 * [2024-04-25, 19:55:24](https://lobste.rs/s/qxasne/ai_llm_bot_blocker_web_server_configs) - [AI / LLM bot blocker web server configs](https://github.com/anthmn/ai-bot-blocker)
-* [2024-04-25, 16:51:43](https://lobste.rs/s/shzkvx/kandria_post_apocalyptic_actionrpg) - [kandria: A post-apocalyptic actionRPG written in lisp](https://github.com/Shirakumo/kandria)
 
 ## [Archives](archives/index.md)
 
