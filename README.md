@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-27, 13:46:37](https://lobste.rs/s/1qzrho/keeping_track_directories_using_pushd) - [Keeping track of directories using pushd and pop](https://www.lewis8s.codes/bash/linux/shell/2024/04/19/Keeping-track-of-directories-using-pushd-and-pop)
 * [2024-04-27, 12:13:52](https://lobste.rs/s/sa9txo/exploiting_nt_kernel_24h2_new_bugs_old) - [Exploiting the NT Kernel in 24H2: New Bugs in Old Code & Side Channels Against KASLR](https://exploits.forsale/24h2-nt-exploit/)
 * [2024-04-27, 02:37:56](https://lobste.rs/s/nht0ko/reflectively_constructing_enums_at) - [Reflectively constructing enums at runtime](https://highlysuspect.agency/posts/enum_reflection/)
 * [2024-04-27, 01:03:50](https://lobste.rs/s/lxsgmu/clang_s_o0_output_branch_displacement) - [Clang's -O0 output: branch displacement and size increase](https://maskray.me/blog/2024-04-27-clang-o0-output-branch-displacement-and-size-increase)
@@ -8,7 +9,6 @@
 * [2024-04-26, 23:23:24](https://lobste.rs/s/fh5stv/giving_rust_chance_for_kernel_codecs) - [Giving Rust a chance for in-kernel codecs](https://lwn.net/SubscriberLink/970565/ac5ffc2e9ad20f1e/)
 * [2024-04-26, 21:23:25](https://lobste.rs/s/rvtlwu/pep_686_make_utf_8_mode_default) - [PEP 686 – Make UTF-8 mode default](https://peps.python.org/pep-0686/)
 * [2024-04-26, 21:08:31](https://lobste.rs/s/jemho4/porting_endbasic_console_lcd) - [Porting the EndBASIC console to an LCD](https://blogsystem5.substack.com/p/porting-the-endbasic-console-to-an)
-* [2024-04-26, 20:35:23](https://lobste.rs/s/imttld/reliable_http_outsmarting_two_generals) - [Reliable HTTP: Outsmarting the Two Generals with Webhooks](https://antman-does-software.com/reliable-http-outsmarting-the-two-generals-with-webhooks#heading-adding-messages-to-the-outbox)
 * [2024-04-26, 20:19:56](https://lobste.rs/s/l1xkhq/bun_report_is_bun_s_new_crash_reporter) - [bun.report is Bun's new crash reporter](https://bun.sh/blog/bun-report-is-buns-new-crash-reporter)
 * [2024-04-26, 19:01:51](https://lobste.rs/s/ndprhc/end_free_tier) - [The End Of The Free Tier](https://www.smashingmagazine.com/2024/04/end-of-free-tier/)
 * [2024-04-26, 17:10:37](https://lobste.rs/s/nyikhk/lessons_learned_after_3_years_fulltime) - [Lessons learned after 3 years of fulltime Rust game development, and why we're leaving Rust behind](https://loglog.games/blog/leaving-rust-gamedev/)
