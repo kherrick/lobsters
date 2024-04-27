@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-27, 18:41:31](https://lobste.rs/s/vthuhk/jank_gets_lazy_sequences_destructuring) - [jank gets lazy sequences, destructuring, and loop](https://jank-lang.org/blog/2024-04-27-lazy-sequences/)
 * [2024-04-27, 18:16:11](https://lobste.rs/s/13pci5/jub0bs_cors_new_cors_middleware_library) - [jub0bs/cors: a new CORS middleware library](https://jub0bs.com/posts/2024-04-27-jub0bs-cors-a-better-cors-middleware-library-for-go/)
 * [2024-04-27, 18:08:39](https://lobste.rs/s/jrssna/what_nix_will_have_been) - [What Nix Will Have Been](https://boinkor.net/2024/04/what-nix-will-have-been/)
 * [2024-04-27, 17:00:09](https://lobste.rs/s/sda151/nixpkgs_news) - [nixpkgs.news](https://nixpkgs.news/)
@@ -24,7 +25,6 @@
 * [2024-04-26, 07:55:29](https://lobste.rs/s/gqoj5n/passkeys_shattered_dream) - [Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
 * [2024-04-26, 06:35:52](https://lobste.rs/s/y8lbl3/simone_repurpose_your_youtube_videos_by) - [simone: Repurpose your YouTube videos by converting them into blog posts](https://github.com/rajtilakjee/simone)
 * [2024-04-26, 01:10:53](https://lobste.rs/s/cysg6o/guiding_users_away_from_cd_ls) - [Guiding users away from cd and ls](https://terminal.click/posts/2024/04/guiding-users-away-from-cd-and-ls/)
-* [2024-04-25, 21:02:54](https://lobste.rs/s/oe4yec/ubuntu_24_04_noble_numbat) - [Ubuntu 24.04 (Noble Numbat)](https://releases.ubuntu.com/noble/)
 
 ## [Archives](archives/index.md)
 
