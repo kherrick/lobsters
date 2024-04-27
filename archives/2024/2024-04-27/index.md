@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-27](index.md)
 
+* [2024-04-27, 18:16:11](https://lobste.rs/s/13pci5/jub0bs_cors_new_cors_middleware_library) - [jub0bs/cors: a new CORS middleware library](https://jub0bs.com/posts/2024-04-27-jub0bs-cors-a-better-cors-middleware-library-for-go/)
 * [2024-04-27, 18:08:39](https://lobste.rs/s/jrssna/what_nix_will_have_been) - [What Nix Will Have Been](https://boinkor.net/2024/04/what-nix-will-have-been/)
 * [2024-04-27, 17:00:09](https://lobste.rs/s/sda151/nixpkgs_news) - [nixpkgs.news](https://nixpkgs.news/)
 * [2024-04-27, 14:54:12](https://lobste.rs/s/hwp3iq/fearless_cors_design_philosophy_for_cors) - [Fearless CORS: a design philosophy for CORS middleware libraries (and a Go implementation)](https://jub0bs.com/posts/2023-02-08-fearless-cors/)

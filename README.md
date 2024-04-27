@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-27, 18:16:11](https://lobste.rs/s/13pci5/jub0bs_cors_new_cors_middleware_library) - [jub0bs/cors: a new CORS middleware library](https://jub0bs.com/posts/2024-04-27-jub0bs-cors-a-better-cors-middleware-library-for-go/)
 * [2024-04-27, 18:08:39](https://lobste.rs/s/jrssna/what_nix_will_have_been) - [What Nix Will Have Been](https://boinkor.net/2024/04/what-nix-will-have-been/)
 * [2024-04-27, 17:00:09](https://lobste.rs/s/sda151/nixpkgs_news) - [nixpkgs.news](https://nixpkgs.news/)
 * [2024-04-27, 14:54:12](https://lobste.rs/s/hwp3iq/fearless_cors_design_philosophy_for_cors) - [Fearless CORS: a design philosophy for CORS middleware libraries (and a Go implementation)](https://jub0bs.com/posts/2023-02-08-fearless-cors/)
@@ -15,7 +16,6 @@
 * [2024-04-26, 19:01:51](https://lobste.rs/s/ndprhc/end_free_tier) - [The End Of The Free Tier](https://www.smashingmagazine.com/2024/04/end-of-free-tier/)
 * [2024-04-26, 17:10:37](https://lobste.rs/s/nyikhk/lessons_learned_after_3_years_fulltime) - [Lessons learned after 3 years of fulltime Rust game development, and why we're leaving Rust behind](https://loglog.games/blog/leaving-rust-gamedev/)
 * [2024-04-26, 16:00:40](https://lobste.rs/s/bwdhht/maintaining_world_s_fastest_cdn_at) - [Maintaining the world’s fastest CDN at Netflix on FreeBSD](https://freebsdfoundation.org/netflix-case-study/)
-* [2024-04-26, 14:38:46](https://lobste.rs/s/n29mck/adding_activitypub_humungus) - [adding activitypub to humungus](https://flak.tedunangst.com/post/adding-activitypub-to-humungus)
 * [2024-04-26, 13:41:25](https://lobste.rs/s/l3bqps/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/l3bqps/what_are_you_doing_this_weekend)
 * [2024-04-26, 12:20:57](https://lobste.rs/s/jzkcuv/sonic_low_latency_asynchronous) - [Sonic: A low-latency asynchronous networking library for trading in Go](https://www.talos.com/insights/talos-goes-sonic)
 * [2024-04-26, 12:13:31](https://lobste.rs/s/qt1lnz/building_highly_available_search_engine) - [Building a highly-available search engine using SQLite](https://www.philipotoole.com/building-a-highly-available-search-engine-using-sqlite/)
