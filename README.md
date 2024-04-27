@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-27, 17:00:09](https://lobste.rs/s/sda151/nixpkgs_news) - [nixpkgs.news](https://nixpkgs.news/)
 * [2024-04-27, 14:54:12](https://lobste.rs/s/hwp3iq/fearless_cors_design_philosophy_for_cors) - [Fearless CORS: a design philosophy for CORS middleware libraries (and a Go implementation)](https://jub0bs.com/posts/2023-02-08-fearless-cors/)
 * [2024-04-27, 14:05:44](https://lobste.rs/s/n4hfr2/usb_adapter_for_depraz_mouse) - [A USB Adapter for a Depraz Mouse](https://jfloren.net/b/2021/8/6/1)
 * [2024-04-27, 13:46:37](https://lobste.rs/s/1qzrho/keeping_track_directories_using_pushd) - [Keeping track of directories using pushd and pop](https://www.lewis8s.codes/bash/linux/shell/2024/04/19/Keeping-track-of-directories-using-pushd-and-pop)
@@ -23,7 +24,6 @@
 * [2024-04-26, 07:55:29](https://lobste.rs/s/gqoj5n/passkeys_shattered_dream) - [Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
 * [2024-04-26, 06:35:52](https://lobste.rs/s/y8lbl3/simone_repurpose_your_youtube_videos_by) - [simone: Repurpose your YouTube videos by converting them into blog posts](https://github.com/rajtilakjee/simone)
 * [2024-04-26, 01:10:53](https://lobste.rs/s/cysg6o/guiding_users_away_from_cd_ls) - [Guiding users away from cd and ls](https://terminal.click/posts/2024/04/guiding-users-away-from-cd-and-ls/)
-* [2024-04-25, 21:59:56](https://lobste.rs/s/f7ftgo/open_sourcing_dos_4) - [Open Sourcing DOS 4](https://www.hanselman.com/blog/open-sourcing-dos-4)
 * [2024-04-25, 21:02:54](https://lobste.rs/s/oe4yec/ubuntu_24_04_noble_numbat) - [Ubuntu 24.04 (Noble Numbat)](https://releases.ubuntu.com/noble/)
 
 ## [Archives](archives/index.md)
