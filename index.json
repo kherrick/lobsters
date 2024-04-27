@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-27, 18:16:11",
+      "https://lobste.rs/s/13pci5/jub0bs_cors_new_cors_middleware_library"
+    ],
+    [
+      "jub0bs/cors: a new CORS middleware library",
+      "https://jub0bs.com/posts/2024-04-27-jub0bs-cors-a-better-cors-middleware-library-for-go/"
+    ]
+  ],
+  [
+    [
       "2024-04-27, 18:08:39",
       "https://lobste.rs/s/jrssna/what_nix_will_have_been"
     ],
@@ -147,16 +157,6 @@
     [
       "Maintaining the world’s fastest CDN at Netflix on FreeBSD",
       "https://freebsdfoundation.org/netflix-case-study/"
-    ]
-  ],
-  [
-    [
-      "2024-04-26, 14:38:46",
-      "https://lobste.rs/s/n29mck/adding_activitypub_humungus"
-    ],
-    [
-      "adding activitypub to humungus",
-      "https://flak.tedunangst.com/post/adding-activitypub-to-humungus"
     ]
   ],
   [
