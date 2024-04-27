@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2024-04-26, 20:35:23",
+      "https://lobste.rs/s/imttld/reliable_http_outsmarting_two_generals"
+    ],
+    [
+      "Reliable HTTP: Outsmarting the Two Generals with Webhooks",
+      "https://antman-does-software.com/reliable-http-outsmarting-the-two-generals-with-webhooks#heading-adding-messages-to-the-outbox"
+    ]
+  ],
+  [
+    [
       "2024-04-26, 20:19:56",
       "https://lobste.rs/s/l1xkhq/bun_report_is_bun_s_new_crash_reporter"
     ],
@@ -237,16 +247,6 @@
     [
       "AI / LLM bot blocker web server configs",
       "https://github.com/anthmn/ai-bot-blocker"
-    ]
-  ],
-  [
-    [
-      "2024-04-25, 16:51:43",
-      "https://lobste.rs/s/shzkvx/kandria_post_apocalyptic_actionrpg"
-    ],
-    [
-      "kandria: A post-apocalyptic actionRPG written in lisp",
-      "https://github.com/Shirakumo/kandria"
     ]
   ]
 ]
