@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-28, 17:30:01](https://lobste.rs/s/wur3a6/fractal_toolkit_toolkit_for_generating) - [Fractal Toolkit: A Toolkit For Generating Fractal Zoom Animations in Python](https://github.com/otdav33/Fractal-Toolkit)
 * [2024-04-28, 17:10:58](https://lobste.rs/s/renpqc/book_secret_knowledge_collection) - [the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [2024-04-28, 17:02:52](https://lobste.rs/s/bumkag/nine_year_study_file_system_storage) - [A Nine Year Study of File System and Storage Benchmarking (2008)](https://www.fsl.cs.sunysb.edu/docs/fsbench/fsbench-tr.pdf)
 * [2024-04-28, 16:30:20](https://lobste.rs/s/0c7nfx/exploring_enigma_database_vacuuming) - [Exploring the Enigma of Database Vacuuming](https://dineshgowda.com/posts/exploring-the-enigma-of-database-vacuuming/)
@@ -24,7 +25,6 @@
 * [2024-04-26, 23:55:52](https://lobste.rs/s/qlncvp/how_not_release_historic_source_code) - [How Not To Release Historic Source Code](https://www.os2museum.com/wp/how-not-to-release-historic-source-code/)
 * [2024-04-26, 21:23:25](https://lobste.rs/s/rvtlwu/pep_686_make_utf_8_mode_default) - [PEP 686 – Make UTF-8 mode default](https://peps.python.org/pep-0686/)
 * [2024-04-26, 17:10:37](https://lobste.rs/s/nyikhk/lessons_learned_after_3_years_fulltime) - [Lessons learned after 3 years of fulltime Rust game development, and why we're leaving Rust behind](https://loglog.games/blog/leaving-rust-gamedev/)
-* [2024-04-26, 07:55:29](https://lobste.rs/s/gqoj5n/passkeys_shattered_dream) - [Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
 
 ## [Archives](archives/index.md)
 
