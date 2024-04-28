@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-28, 17:30:01",
+      "https://lobste.rs/s/wur3a6/fractal_toolkit_toolkit_for_generating"
+    ],
+    [
+      "Fractal Toolkit: A Toolkit For Generating Fractal Zoom Animations in Python",
+      "https://github.com/otdav33/Fractal-Toolkit"
+    ]
+  ],
+  [
+    [
       "2024-04-28, 17:10:58",
       "https://lobste.rs/s/renpqc/book_secret_knowledge_collection"
     ],
@@ -237,16 +247,6 @@
     [
       "Lessons learned after 3 years of fulltime Rust game development, and why we're leaving Rust behind",
       "https://loglog.games/blog/leaving-rust-gamedev/"
-    ]
-  ],
-  [
-    [
-      "2024-04-26, 07:55:29",
-      "https://lobste.rs/s/gqoj5n/passkeys_shattered_dream"
-    ],
-    [
-      "Passkeys: A Shattered Dream",
-      "https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/"
     ]
   ]
 ]
