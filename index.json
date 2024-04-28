@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-28, 15:58:37",
+      "https://lobste.rs/s/asd88x/pcrowdoodle_my_desirable_difficulty"
+    ],
+    [
+      "pcrowDoodle, my \"desirable difficulty\" laptop",
+      "https://biodigitaljazz.net/blog/pcrowdoodle.html"
+    ]
+  ],
+  [
+    [
       "2024-04-28, 15:46:12",
       "https://lobste.rs/s/kcmupt/talking_memory_inside_intel_8088"
     ],
@@ -187,16 +197,6 @@
     [
       "Keeping track of directories using pushd and pop",
       "https://www.lewis8s.codes/bash/linux/shell/2024/04/19/Keeping-track-of-directories-using-pushd-and-pop"
-    ]
-  ],
-  [
-    [
-      "2024-04-27, 12:13:52",
-      "https://lobste.rs/s/sa9txo/exploiting_nt_kernel_24h2_new_bugs_old"
-    ],
-    [
-      "Exploiting the NT Kernel in 24H2: New Bugs in Old Code & Side Channels Against KASLR",
-      "https://exploits.forsale/24h2-nt-exploit/"
     ]
   ],
   [
