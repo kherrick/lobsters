@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-28, 15:46:12",
+      "https://lobste.rs/s/kcmupt/talking_memory_inside_intel_8088"
+    ],
+    [
+      "Talking to memory: Inside the Intel 8088 processor's bus interface state machine",
+      "http://www.righto.com/2024/04/intel-8088-bus-state-machine.html"
+    ]
+  ],
+  [
+    [
       "2024-04-28, 15:40:05",
       "https://lobste.rs/s/krheoa/finding_trends_with_approximate"
     ],
@@ -217,16 +227,6 @@
     [
       "PEP 686 – Make UTF-8 mode default",
       "https://peps.python.org/pep-0686/"
-    ]
-  ],
-  [
-    [
-      "2024-04-26, 20:19:56",
-      "https://lobste.rs/s/l1xkhq/bun_report_is_bun_s_new_crash_reporter"
-    ],
-    [
-      "bun.report is Bun's new crash reporter",
-      "https://bun.sh/blog/bun-report-is-buns-new-crash-reporter"
     ]
   ],
   [
