@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-28](index.md)
 
+* [2024-04-28, 18:05:04](https://lobste.rs/s/vujtyt/free_space_diffraction_bsdf) - [A Free-Space Diffraction BSDF](https://ssteinberg.xyz/2024/04/05/free_space_diffractions_bsdf/)
 * [2024-04-28, 17:30:01](https://lobste.rs/s/wur3a6/fractal_toolkit_toolkit_for_generating) - [Fractal Toolkit: A Toolkit For Generating Fractal Zoom Animations in Python](https://github.com/otdav33/Fractal-Toolkit)
 * [2024-04-28, 17:10:58](https://lobste.rs/s/renpqc/book_secret_knowledge_collection) - [the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [2024-04-28, 17:02:52](https://lobste.rs/s/bumkag/nine_year_study_file_system_storage) - [A Nine Year Study of File System and Storage Benchmarking (2008)](https://www.fsl.cs.sunysb.edu/docs/fsbench/fsbench-tr.pdf)
