@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-28, 06:20:06",
+      "https://lobste.rs/s/37vdz8/virtualizing_6502_with_6o6_incredible"
+    ],
+    [
+      "Virtualizing the 6502 with 6o6 (and The Incredible KIMplement goes 1.0)",
+      "https://oldvcr.blogspot.com/2024/04/virtualizing-6502-with-6o6-and.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-28, 06:10:39",
+      "https://lobste.rs/s/yovbam/repoqa_for_evaluating_long_context_code"
+    ],
+    [
+      "RepoQA for Evaluating Long-Context Code Understanding",
+      "https://evalplus.github.io/repoqa.html"
+    ]
+  ],
+  [
+    [
       "2024-04-28, 01:04:45",
       "https://lobste.rs/s/d5ppwa/how_improve_risc_v_specification"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-04-26, 12:13:31",
-      "https://lobste.rs/s/qt1lnz/building_highly_available_search_engine"
-    ],
-    [
-      "Building a highly-available search engine using SQLite",
-      "https://www.philipotoole.com/building-a-highly-available-search-engine-using-sqlite/"
-    ]
-  ],
-  [
-    [
       "2024-04-26, 11:16:04",
       "https://lobste.rs/s/ur2mxg/heed_v0_20_safest_most_maintained_rust"
     ],
@@ -237,16 +247,6 @@
     [
       "Passkeys: A Shattered Dream",
       "https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/"
-    ]
-  ],
-  [
-    [
-      "2024-04-26, 06:35:52",
-      "https://lobste.rs/s/y8lbl3/simone_repurpose_your_youtube_videos_by"
-    ],
-    [
-      "simone: Repurpose your YouTube videos by converting them into blog posts",
-      "https://github.com/rajtilakjee/simone"
     ]
   ]
 ]
