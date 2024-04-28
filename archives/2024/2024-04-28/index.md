@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-28](index.md)
 
+* [2024-04-28, 16:30:20](https://lobste.rs/s/0c7nfx/exploring_enigma_database_vacuuming) - [Exploring the Enigma of Database Vacuuming](https://dineshgowda.com/posts/exploring-the-enigma-of-database-vacuuming/)
 * [2024-04-28, 15:58:37](https://lobste.rs/s/asd88x/pcrowdoodle_my_desirable_difficulty) - [pcrowDoodle, my \"desirable difficulty\" laptop](https://biodigitaljazz.net/blog/pcrowdoodle.html)
 * [2024-04-28, 15:46:12](https://lobste.rs/s/kcmupt/talking_memory_inside_intel_8088) - [Talking to memory: Inside the Intel 8088 processor's bus interface state machine](http://www.righto.com/2024/04/intel-8088-bus-state-machine.html)
 * [2024-04-28, 15:40:05](https://lobste.rs/s/krheoa/finding_trends_with_approximate) - [Finding Trends With Approximate Embedding Clustering](https://www.aspiring.dev/instant-embeddings-clustering-with-k-means-and-clickhouse/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-28, 16:30:20](https://lobste.rs/s/0c7nfx/exploring_enigma_database_vacuuming) - [Exploring the Enigma of Database Vacuuming](https://dineshgowda.com/posts/exploring-the-enigma-of-database-vacuuming/)
 * [2024-04-28, 15:58:37](https://lobste.rs/s/asd88x/pcrowdoodle_my_desirable_difficulty) - [pcrowDoodle, my \"desirable difficulty\" laptop](https://biodigitaljazz.net/blog/pcrowdoodle.html)
 * [2024-04-28, 15:46:12](https://lobste.rs/s/kcmupt/talking_memory_inside_intel_8088) - [Talking to memory: Inside the Intel 8088 processor's bus interface state machine](http://www.righto.com/2024/04/intel-8088-bus-state-machine.html)
 * [2024-04-28, 15:40:05](https://lobste.rs/s/krheoa/finding_trends_with_approximate) - [Finding Trends With Approximate Embedding Clustering](https://www.aspiring.dev/instant-embeddings-clustering-with-k-means-and-clickhouse/)
@@ -15,7 +16,6 @@
 * [2024-04-27, 20:48:41](https://lobste.rs/s/ijgeda/gf_gdb_frontend_for_linux) - [gf: A GDB frontend for Linux](https://github.com/nakst/gf)
 * [2024-04-27, 18:59:13](https://lobste.rs/s/nkvjes/jf_flatten_nested_json_for_easy) - [jf: flatten nested json for easy searchability](https://github.com/say4n/jf)
 * [2024-04-27, 18:41:31](https://lobste.rs/s/vthuhk/jank_gets_lazy_sequences_destructuring) - [jank gets lazy sequences, destructuring, and loop](https://jank-lang.org/blog/2024-04-27-lazy-sequences/)
-* [2024-04-27, 18:16:11](https://lobste.rs/s/13pci5/jub0bs_cors_new_cors_middleware_library) - [jub0bs/cors: a new CORS middleware library](https://jub0bs.com/posts/2024-04-27-jub0bs-cors-a-better-cors-middleware-library-for-go/)
 * [2024-04-27, 17:00:09](https://lobste.rs/s/sda151/nixpkgs_news) - [nixpkgs.news](https://nixpkgs.news/)
 * [2024-04-27, 14:54:12](https://lobste.rs/s/hwp3iq/fearless_cors_design_philosophy_for_cors) - [Fearless CORS: a design philosophy for CORS middleware libraries (and a Go implementation)](https://jub0bs.com/posts/2023-02-08-fearless-cors/)
 * [2024-04-27, 14:05:44](https://lobste.rs/s/n4hfr2/usb_adapter_for_depraz_mouse) - [A USB Adapter for a Depraz Mouse](https://jfloren.net/b/2021/8/6/1)
