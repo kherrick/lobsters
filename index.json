@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-28, 15:40:05",
+      "https://lobste.rs/s/krheoa/finding_trends_with_approximate"
+    ],
+    [
+      "Finding Trends With Approximate Embedding Clustering",
+      "https://www.aspiring.dev/instant-embeddings-clustering-with-k-means-and-clickhouse/"
+    ]
+  ],
+  [
+    [
       "2024-04-28, 14:50:32",
       "https://lobste.rs/s/upfcts/risc_os_5_30_now_available"
     ],
@@ -177,16 +187,6 @@
     [
       "Exploiting the NT Kernel in 24H2: New Bugs in Old Code & Side Channels Against KASLR",
       "https://exploits.forsale/24h2-nt-exploit/"
-    ]
-  ],
-  [
-    [
-      "2024-04-27, 02:37:56",
-      "https://lobste.rs/s/nht0ko/reflectively_constructing_enums_at"
-    ],
-    [
-      "Reflectively constructing enums at runtime",
-      "https://highlysuspect.agency/posts/enum_reflection/"
     ]
   ],
   [
