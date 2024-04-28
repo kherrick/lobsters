@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-28, 01:04:45",
+      "https://lobste.rs/s/d5ppwa/how_improve_risc_v_specification"
+    ],
+    [
+      "How to improve the RISC-V specification",
+      "https://alastairreid.github.io/riscv-spec-issues/"
+    ]
+  ],
+  [
+    [
       "2024-04-27, 23:58:42",
       "https://lobste.rs/s/cnayul/2024_04_26_microsoft_at_work"
     ],
@@ -207,16 +217,6 @@
     [
       "Building a highly-available search engine using SQLite",
       "https://www.philipotoole.com/building-a-highly-available-search-engine-using-sqlite/"
-    ]
-  ],
-  [
-    [
-      "2024-04-26, 11:35:00",
-      "https://lobste.rs/s/hpvxom/pharo_pharo_12_released"
-    ],
-    [
-      "Pharo - Pharo 12 Released",
-      "https://pharo.org/news/2024-04-26-pharo12-released.html"
     ]
   ],
   [
