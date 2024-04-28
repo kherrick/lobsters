@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-28](index.md)
 
+* [2024-04-28, 17:10:58](https://lobste.rs/s/renpqc/book_secret_knowledge_collection) - [the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [2024-04-28, 17:02:52](https://lobste.rs/s/bumkag/nine_year_study_file_system_storage) - [A Nine Year Study of File System and Storage Benchmarking (2008)](https://www.fsl.cs.sunysb.edu/docs/fsbench/fsbench-tr.pdf)
 * [2024-04-28, 16:30:20](https://lobste.rs/s/0c7nfx/exploring_enigma_database_vacuuming) - [Exploring the Enigma of Database Vacuuming](https://dineshgowda.com/posts/exploring-the-enigma-of-database-vacuuming/)
 * [2024-04-28, 15:58:37](https://lobste.rs/s/asd88x/pcrowdoodle_my_desirable_difficulty) - [pcrowDoodle, my \"desirable difficulty\" laptop](https://biodigitaljazz.net/blog/pcrowdoodle.html)

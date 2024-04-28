@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-28, 17:10:58](https://lobste.rs/s/renpqc/book_secret_knowledge_collection) - [the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [2024-04-28, 17:02:52](https://lobste.rs/s/bumkag/nine_year_study_file_system_storage) - [A Nine Year Study of File System and Storage Benchmarking (2008)](https://www.fsl.cs.sunysb.edu/docs/fsbench/fsbench-tr.pdf)
 * [2024-04-28, 16:30:20](https://lobste.rs/s/0c7nfx/exploring_enigma_database_vacuuming) - [Exploring the Enigma of Database Vacuuming](https://dineshgowda.com/posts/exploring-the-enigma-of-database-vacuuming/)
 * [2024-04-28, 15:58:37](https://lobste.rs/s/asd88x/pcrowdoodle_my_desirable_difficulty) - [pcrowDoodle, my \"desirable difficulty\" laptop](https://biodigitaljazz.net/blog/pcrowdoodle.html)
@@ -18,7 +19,6 @@
 * [2024-04-27, 18:59:13](https://lobste.rs/s/nkvjes/jf_flatten_nested_json_for_easy) - [jf: flatten nested json for easy searchability](https://github.com/say4n/jf)
 * [2024-04-27, 18:41:31](https://lobste.rs/s/vthuhk/jank_gets_lazy_sequences_destructuring) - [jank gets lazy sequences, destructuring, and loop](https://jank-lang.org/blog/2024-04-27-lazy-sequences/)
 * [2024-04-27, 17:00:09](https://lobste.rs/s/sda151/nixpkgs_news) - [nixpkgs.news](https://nixpkgs.news/)
-* [2024-04-27, 14:54:12](https://lobste.rs/s/hwp3iq/fearless_cors_design_philosophy_for_cors) - [Fearless CORS: a design philosophy for CORS middleware libraries (and a Go implementation)](https://jub0bs.com/posts/2023-02-08-fearless-cors/)
 * [2024-04-27, 14:05:44](https://lobste.rs/s/n4hfr2/usb_adapter_for_depraz_mouse) - [A USB Adapter for a Depraz Mouse](https://jfloren.net/b/2021/8/6/1)
 * [2024-04-27, 13:46:37](https://lobste.rs/s/1qzrho/keeping_track_directories_using_pushd) - [Keeping track of directories using pushd and pop](https://www.lewis8s.codes/bash/linux/shell/2024/04/19/Keeping-track-of-directories-using-pushd-and-pop)
 * [2024-04-26, 23:55:52](https://lobste.rs/s/qlncvp/how_not_release_historic_source_code) - [How Not To Release Historic Source Code](https://www.os2museum.com/wp/how-not-to-release-historic-source-code/)
