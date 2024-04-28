@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-28](index.md)
 
+* [2024-04-28, 21:25:47](https://lobste.rs/s/5y65kz/ms_dos_4_0_released_under_mit_license) - [MS-DOS 4.0 released under the MIT license](https://github.com/microsoft/MS-DOS/tree/main/v4.0)
 * [2024-04-28, 18:41:38](https://lobste.rs/s/9uvhov/arc4random) - [Arc4random](https://isopenbsdsecu.re/mitigations/arc4random/)
 * [2024-04-28, 18:05:04](https://lobste.rs/s/vujtyt/free_space_diffraction_bsdf) - [A Free-Space Diffraction BSDF](https://ssteinberg.xyz/2024/04/05/free_space_diffractions_bsdf/)
 * [2024-04-28, 17:30:01](https://lobste.rs/s/wur3a6/fractal_toolkit_toolkit_for_generating) - [Fractal Toolkit: A Toolkit For Generating Fractal Zoom Animations in Python](https://github.com/otdav33/Fractal-Toolkit)
