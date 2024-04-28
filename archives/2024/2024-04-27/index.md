@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-27](index.md)
 
+* [2024-04-27, 23:58:42](https://lobste.rs/s/cnayul/2024_04_26_microsoft_at_work) - [2024-04-26 microsoft at work](https://computer.rip/2024-04-26-microsoft-at-work.html)
 * [2024-04-27, 21:29:36](https://lobste.rs/s/db4r4k/three_ways_handling_user_input_2022) - [Three ways of handling user input (2022)](https://dubroy.com/blog/three-ways-of-handling-user-input/)
 * [2024-04-27, 21:02:45](https://lobste.rs/s/unfyqm/tasks_are_wrong_abstraction) - [Tasks are the wrong abstraction](https://blog.yoshuawuyts.com/tasks-are-the-wrong-abstraction/)
 * [2024-04-27, 20:48:41](https://lobste.rs/s/ijgeda/gf_gdb_frontend_for_linux) - [gf: A GDB frontend for Linux](https://github.com/nakst/gf)
