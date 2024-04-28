@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-28, 18:41:38](https://lobste.rs/s/9uvhov/arc4random) - [Arc4random](https://isopenbsdsecu.re/mitigations/arc4random/)
 * [2024-04-28, 18:05:04](https://lobste.rs/s/vujtyt/free_space_diffraction_bsdf) - [A Free-Space Diffraction BSDF](https://ssteinberg.xyz/2024/04/05/free_space_diffractions_bsdf/)
 * [2024-04-28, 17:30:01](https://lobste.rs/s/wur3a6/fractal_toolkit_toolkit_for_generating) - [Fractal Toolkit: A Toolkit For Generating Fractal Zoom Animations in Python](https://github.com/otdav33/Fractal-Toolkit)
 * [2024-04-28, 17:10:58](https://lobste.rs/s/renpqc/book_secret_knowledge_collection) - [the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more](https://github.com/trimstray/the-book-of-secret-knowledge)
@@ -12,7 +13,6 @@
 * [2024-04-28, 12:01:46](https://lobste.rs/s/4aubhi/zed_decoded_rope_sumtree) - [Zed Decoded: Rope & SumTree](https://zed.dev/blog/zed-decoded-rope-sumtree)
 * [2024-04-28, 08:09:31](https://lobste.rs/s/bbfqna/practical_vim_command_workflow) - [Practical Vim command workflow](https://m4xshen.dev/posts/vim-command-workflow/)
 * [2024-04-28, 06:20:06](https://lobste.rs/s/37vdz8/virtualizing_6502_with_6o6_incredible) - [Virtualizing the 6502 with 6o6 (and The Incredible KIMplement goes 1.0)](https://oldvcr.blogspot.com/2024/04/virtualizing-6502-with-6o6-and.html)
-* [2024-04-28, 06:10:39](https://lobste.rs/s/yovbam/repoqa_for_evaluating_long_context_code) - [RepoQA for Evaluating Long-Context Code Understanding](https://evalplus.github.io/repoqa.html)
 * [2024-04-28, 01:04:45](https://lobste.rs/s/d5ppwa/how_improve_risc_v_specification) - [How to improve the RISC-V specification](https://alastairreid.github.io/riscv-spec-issues/)
 * [2024-04-27, 23:58:42](https://lobste.rs/s/cnayul/2024_04_26_microsoft_at_work) - [2024-04-26 microsoft at work](https://computer.rip/2024-04-26-microsoft-at-work.html)
 * [2024-04-27, 21:29:36](https://lobste.rs/s/db4r4k/three_ways_handling_user_input_2022) - [Three ways of handling user input (2022)](https://dubroy.com/blog/three-ways-of-handling-user-input/)
