@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-28](index.md)
 
+* [2024-04-28, 15:46:12](https://lobste.rs/s/kcmupt/talking_memory_inside_intel_8088) - [Talking to memory: Inside the Intel 8088 processor's bus interface state machine](http://www.righto.com/2024/04/intel-8088-bus-state-machine.html)
 * [2024-04-28, 15:40:05](https://lobste.rs/s/krheoa/finding_trends_with_approximate) - [Finding Trends With Approximate Embedding Clustering](https://www.aspiring.dev/instant-embeddings-clustering-with-k-means-and-clickhouse/)
 * [2024-04-28, 14:50:32](https://lobste.rs/s/upfcts/risc_os_5_30_now_available) - [RISC OS 5.30 now available](https://www.riscosopen.org/news/articles/2024/04/27/risc-os-5-30-now-available)
 * [2024-04-28, 12:01:46](https://lobste.rs/s/4aubhi/zed_decoded_rope_sumtree) - [Zed Decoded: Rope & SumTree](https://zed.dev/blog/zed-decoded-rope-sumtree)
