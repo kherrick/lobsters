@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-28, 06:20:06](https://lobste.rs/s/37vdz8/virtualizing_6502_with_6o6_incredible) - [Virtualizing the 6502 with 6o6 (and The Incredible KIMplement goes 1.0)](https://oldvcr.blogspot.com/2024/04/virtualizing-6502-with-6o6-and.html)
+* [2024-04-28, 06:10:39](https://lobste.rs/s/yovbam/repoqa_for_evaluating_long_context_code) - [RepoQA for Evaluating Long-Context Code Understanding](https://evalplus.github.io/repoqa.html)
 * [2024-04-28, 01:04:45](https://lobste.rs/s/d5ppwa/how_improve_risc_v_specification) - [How to improve the RISC-V specification](https://alastairreid.github.io/riscv-spec-issues/)
 * [2024-04-27, 23:58:42](https://lobste.rs/s/cnayul/2024_04_26_microsoft_at_work) - [2024-04-26 microsoft at work](https://computer.rip/2024-04-26-microsoft-at-work.html)
 * [2024-04-27, 21:29:36](https://lobste.rs/s/db4r4k/three_ways_handling_user_input_2022) - [Three ways of handling user input (2022)](https://dubroy.com/blog/three-ways-of-handling-user-input/)
@@ -21,10 +23,8 @@
 * [2024-04-26, 20:19:56](https://lobste.rs/s/l1xkhq/bun_report_is_bun_s_new_crash_reporter) - [bun.report is Bun's new crash reporter](https://bun.sh/blog/bun-report-is-buns-new-crash-reporter)
 * [2024-04-26, 17:10:37](https://lobste.rs/s/nyikhk/lessons_learned_after_3_years_fulltime) - [Lessons learned after 3 years of fulltime Rust game development, and why we're leaving Rust behind](https://loglog.games/blog/leaving-rust-gamedev/)
 * [2024-04-26, 16:00:40](https://lobste.rs/s/bwdhht/maintaining_world_s_fastest_cdn_at) - [Maintaining the world’s fastest CDN at Netflix on FreeBSD](https://freebsdfoundation.org/netflix-case-study/)
-* [2024-04-26, 12:13:31](https://lobste.rs/s/qt1lnz/building_highly_available_search_engine) - [Building a highly-available search engine using SQLite](https://www.philipotoole.com/building-a-highly-available-search-engine-using-sqlite/)
 * [2024-04-26, 11:16:04](https://lobste.rs/s/ur2mxg/heed_v0_20_safest_most_maintained_rust) - [Heed v0.20: The safest and most maintained Rust wrapper for the LMDB key-value store](https://github.com/meilisearch/heed/releases/tag/v0.20.0)
 * [2024-04-26, 07:55:29](https://lobste.rs/s/gqoj5n/passkeys_shattered_dream) - [Passkeys: A Shattered Dream](https://fy.blackhats.net.au/blog/2024-04-26-passkeys-a-shattered-dream/)
-* [2024-04-26, 06:35:52](https://lobste.rs/s/y8lbl3/simone_repurpose_your_youtube_videos_by) - [simone: Repurpose your YouTube videos by converting them into blog posts](https://github.com/rajtilakjee/simone)
 
 ## [Archives](archives/index.md)
 
