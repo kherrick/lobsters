@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-29, 14:16:38",
+      "https://lobste.rs/s/w4zpqu/phreaking"
+    ],
+    [
+      "Phreaking",
+      "https://en.m.wikipedia.org/wiki/Phreaking"
+    ]
+  ],
+  [
+    [
+      "2024-04-29, 14:11:06",
+      "https://lobste.rs/s/4pr2za/so_you_want_write_unsafe_crate"
+    ],
+    [
+      "So, you want to write an unsafe crate",
+      "https://blog.dureuill.net/articles/nolife-0-4/"
+    ]
+  ],
+  [
+    [
       "2024-04-29, 13:35:58",
       "https://lobste.rs/s/6ppheg/fend_arbitrary_precision_unit_aware"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-04-27, 21:02:45",
-      "https://lobste.rs/s/unfyqm/tasks_are_wrong_abstraction"
-    ],
-    [
-      "Tasks are the wrong abstraction",
-      "https://blog.yoshuawuyts.com/tasks-are-the-wrong-abstraction/"
-    ]
-  ],
-  [
-    [
       "2024-04-27, 18:59:13",
       "https://lobste.rs/s/nkvjes/jf_flatten_nested_json_for_easy"
     ],
@@ -237,16 +247,6 @@
     [
       "jank gets lazy sequences, destructuring, and loop",
       "https://jank-lang.org/blog/2024-04-27-lazy-sequences/"
-    ]
-  ],
-  [
-    [
-      "2024-04-26, 17:10:37",
-      "https://lobste.rs/s/nyikhk/lessons_learned_after_3_years_fulltime"
-    ],
-    [
-      "Lessons learned after 3 years of fulltime Rust game development, and why we're leaving Rust behind",
-      "https://loglog.games/blog/leaving-rust-gamedev/"
     ]
   ]
 ]
