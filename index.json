@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-29, 15:15:34",
+      "https://lobste.rs/s/nkec9m/tldr_fail"
+    ],
+    [
+      "tldr.fail",
+      "https://tldr.fail/"
+    ]
+  ],
+  [
+    [
       "2024-04-29, 14:45:53",
       "https://lobste.rs/s/idpf6m/nvd_delays_highlight_vulnerability"
     ],
@@ -187,16 +197,6 @@
     [
       "pcrowDoodle, my \"desirable difficulty\" laptop",
       "https://biodigitaljazz.net/blog/pcrowdoodle.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-28, 15:40:05",
-      "https://lobste.rs/s/krheoa/finding_trends_with_approximate"
-    ],
-    [
-      "Finding Trends With Approximate Embedding Clustering",
-      "https://www.aspiring.dev/instant-embeddings-clustering-with-k-means-and-clickhouse/"
     ]
   ],
   [
