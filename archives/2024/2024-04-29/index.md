@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 16:25:17](https://lobste.rs/s/m7hlu8/understanding_delta_lake_s_consistency) - [Understanding Delta Lake's consistency model](https://jack-vanlightly.com/analyses/2024/4/29/understanding-delta-lakes-consistency-model)
 * [2024-04-29, 15:15:34](https://lobste.rs/s/nkec9m/tldr_fail) - [tldr.fail](https://tldr.fail/)
 * [2024-04-29, 14:45:53](https://lobste.rs/s/idpf6m/nvd_delays_highlight_vulnerability) - [NVD delays highlight vulnerability management woes: Put malware first](https://www.reversinglabs.com/blog/nvd-woes-put-malware-first)
 * [2024-04-29, 14:26:32](https://lobste.rs/s/i0jvsw/open_source_development_strategies_for) - [Open-Source Development - Strategies for getting involved](https://garrensmith.com/Opensource/Open-Source+Development+-+Strategies+for+getting+involved)
