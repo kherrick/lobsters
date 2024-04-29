@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-29, 11:31:35](https://lobste.rs/s/lujrqq/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lujrqq/what_are_you_doing_this_week)
 * [2024-04-29, 08:47:23](https://lobste.rs/s/3brztz/nix_breaking_point) - [Nix: The Breaking Point](https://kilo.bytesize.xyz/nix-the-breaking-point)
 * [2024-04-29, 08:14:18](https://lobste.rs/s/uziq1v/mailcleaner_security_disclosure_report) - [MailCleaner security disclosure report](https://modzero.com/static/MZ-24-01_modzero_MailCleaner.pdf)
 * [2024-04-29, 04:35:56](https://lobste.rs/s/lrxf9a/freebee_unix_pc_emulator) - [FreeBee: UNIX PC emulator](https://github.com/philpem/freebee)
@@ -18,7 +19,6 @@
 * [2024-04-28, 08:09:31](https://lobste.rs/s/bbfqna/practical_vim_command_workflow) - [Practical Vim command workflow](https://m4xshen.dev/posts/vim-command-workflow/)
 * [2024-04-28, 06:20:06](https://lobste.rs/s/37vdz8/virtualizing_6502_with_6o6_incredible) - [Virtualizing the 6502 with 6o6 (and The Incredible KIMplement goes 1.0)](https://oldvcr.blogspot.com/2024/04/virtualizing-6502-with-6o6-and.html)
 * [2024-04-28, 01:04:45](https://lobste.rs/s/d5ppwa/how_improve_risc_v_specification) - [How to improve the RISC-V specification](https://alastairreid.github.io/riscv-spec-issues/)
-* [2024-04-27, 23:58:42](https://lobste.rs/s/cnayul/2024_04_26_microsoft_at_work) - [2024-04-26 microsoft at work](https://computer.rip/2024-04-26-microsoft-at-work.html)
 * [2024-04-27, 21:02:45](https://lobste.rs/s/unfyqm/tasks_are_wrong_abstraction) - [Tasks are the wrong abstraction](https://blog.yoshuawuyts.com/tasks-are-the-wrong-abstraction/)
 * [2024-04-27, 20:48:41](https://lobste.rs/s/ijgeda/gf_gdb_frontend_for_linux) - [gf: A GDB frontend for Linux](https://github.com/nakst/gf)
 * [2024-04-27, 18:59:13](https://lobste.rs/s/nkvjes/jf_flatten_nested_json_for_easy) - [jf: flatten nested json for easy searchability](https://github.com/say4n/jf)

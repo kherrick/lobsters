@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 11:31:35](https://lobste.rs/s/lujrqq/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lujrqq/what_are_you_doing_this_week)
 * [2024-04-29, 08:47:23](https://lobste.rs/s/3brztz/nix_breaking_point) - [Nix: The Breaking Point](https://kilo.bytesize.xyz/nix-the-breaking-point)
 * [2024-04-29, 08:14:18](https://lobste.rs/s/uziq1v/mailcleaner_security_disclosure_report) - [MailCleaner security disclosure report](https://modzero.com/static/MZ-24-01_modzero_MailCleaner.pdf)
 * [2024-04-29, 04:35:56](https://lobste.rs/s/lrxf9a/freebee_unix_pc_emulator) - [FreeBee: UNIX PC emulator](https://github.com/philpem/freebee)
