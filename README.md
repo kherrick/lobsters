@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-29, 15:15:34](https://lobste.rs/s/nkec9m/tldr_fail) - [tldr.fail](https://tldr.fail/)
 * [2024-04-29, 14:45:53](https://lobste.rs/s/idpf6m/nvd_delays_highlight_vulnerability) - [NVD delays highlight vulnerability management woes: Put malware first](https://www.reversinglabs.com/blog/nvd-woes-put-malware-first)
 * [2024-04-29, 14:26:32](https://lobste.rs/s/i0jvsw/open_source_development_strategies_for) - [Open-Source Development - Strategies for getting involved](https://garrensmith.com/Opensource/Open-Source+Development+-+Strategies+for+getting+involved)
 * [2024-04-29, 14:16:38](https://lobste.rs/s/w4zpqu/phreaking) - [Phreaking](https://en.m.wikipedia.org/wiki/Phreaking)
@@ -19,7 +20,6 @@
 * [2024-04-28, 17:10:58](https://lobste.rs/s/renpqc/book_secret_knowledge_collection) - [the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [2024-04-28, 16:30:20](https://lobste.rs/s/0c7nfx/exploring_enigma_database_vacuuming) - [Exploring the Enigma of Database Vacuuming](https://dineshgowda.com/posts/exploring-the-enigma-of-database-vacuuming/)
 * [2024-04-28, 15:58:37](https://lobste.rs/s/asd88x/pcrowdoodle_my_desirable_difficulty) - [pcrowDoodle, my \"desirable difficulty\" laptop](https://biodigitaljazz.net/blog/pcrowdoodle.html)
-* [2024-04-28, 15:40:05](https://lobste.rs/s/krheoa/finding_trends_with_approximate) - [Finding Trends With Approximate Embedding Clustering](https://www.aspiring.dev/instant-embeddings-clustering-with-k-means-and-clickhouse/)
 * [2024-04-28, 14:50:32](https://lobste.rs/s/upfcts/risc_os_5_30_now_available) - [RISC OS 5.30 now available](https://www.riscosopen.org/news/articles/2024/04/27/risc-os-5-30-now-available)
 * [2024-04-28, 12:01:46](https://lobste.rs/s/4aubhi/zed_decoded_rope_sumtree) - [Zed Decoded: Rope & SumTree](https://zed.dev/blog/zed-decoded-rope-sumtree)
 * [2024-04-28, 08:09:31](https://lobste.rs/s/bbfqna/practical_vim_command_workflow) - [Practical Vim command workflow](https://m4xshen.dev/posts/vim-command-workflow/)

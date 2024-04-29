@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 15:15:34](https://lobste.rs/s/nkec9m/tldr_fail) - [tldr.fail](https://tldr.fail/)
 * [2024-04-29, 14:45:53](https://lobste.rs/s/idpf6m/nvd_delays_highlight_vulnerability) - [NVD delays highlight vulnerability management woes: Put malware first](https://www.reversinglabs.com/blog/nvd-woes-put-malware-first)
 * [2024-04-29, 14:26:32](https://lobste.rs/s/i0jvsw/open_source_development_strategies_for) - [Open-Source Development - Strategies for getting involved](https://garrensmith.com/Opensource/Open-Source+Development+-+Strategies+for+getting+involved)
 * [2024-04-29, 14:16:38](https://lobste.rs/s/w4zpqu/phreaking) - [Phreaking](https://en.m.wikipedia.org/wiki/Phreaking)
