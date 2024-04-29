@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-29, 11:54:42](https://lobste.rs/s/gny9rn/no_one_should_have_much_power) - [No One Should Have That Much Power](https://www.mnot.net/blog/2024/04/29/power)
 * [2024-04-29, 11:46:09](https://lobste.rs/s/i8gyah/functional_semantics_imperative) - [Functional Semantics in Imperative Clothing](https://rtfeldman.com/imperative-clothing)
 * [2024-04-29, 11:31:35](https://lobste.rs/s/lujrqq/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lujrqq/what_are_you_doing_this_week)
 * [2024-04-29, 08:47:23](https://lobste.rs/s/3brztz/nix_breaking_point) - [Nix: The Breaking Point](https://kilo.bytesize.xyz/nix-the-breaking-point)
@@ -18,7 +19,6 @@
 * [2024-04-28, 14:50:32](https://lobste.rs/s/upfcts/risc_os_5_30_now_available) - [RISC OS 5.30 now available](https://www.riscosopen.org/news/articles/2024/04/27/risc-os-5-30-now-available)
 * [2024-04-28, 12:01:46](https://lobste.rs/s/4aubhi/zed_decoded_rope_sumtree) - [Zed Decoded: Rope & SumTree](https://zed.dev/blog/zed-decoded-rope-sumtree)
 * [2024-04-28, 08:09:31](https://lobste.rs/s/bbfqna/practical_vim_command_workflow) - [Practical Vim command workflow](https://m4xshen.dev/posts/vim-command-workflow/)
-* [2024-04-28, 06:20:06](https://lobste.rs/s/37vdz8/virtualizing_6502_with_6o6_incredible) - [Virtualizing the 6502 with 6o6 (and The Incredible KIMplement goes 1.0)](https://oldvcr.blogspot.com/2024/04/virtualizing-6502-with-6o6-and.html)
 * [2024-04-28, 01:04:45](https://lobste.rs/s/d5ppwa/how_improve_risc_v_specification) - [How to improve the RISC-V specification](https://alastairreid.github.io/riscv-spec-issues/)
 * [2024-04-27, 21:02:45](https://lobste.rs/s/unfyqm/tasks_are_wrong_abstraction) - [Tasks are the wrong abstraction](https://blog.yoshuawuyts.com/tasks-are-the-wrong-abstraction/)
 * [2024-04-27, 20:48:41](https://lobste.rs/s/ijgeda/gf_gdb_frontend_for_linux) - [gf: A GDB frontend for Linux](https://github.com/nakst/gf)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 11:54:42](https://lobste.rs/s/gny9rn/no_one_should_have_much_power) - [No One Should Have That Much Power](https://www.mnot.net/blog/2024/04/29/power)
 * [2024-04-29, 11:46:09](https://lobste.rs/s/i8gyah/functional_semantics_imperative) - [Functional Semantics in Imperative Clothing](https://rtfeldman.com/imperative-clothing)
 * [2024-04-29, 11:31:35](https://lobste.rs/s/lujrqq/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lujrqq/what_are_you_doing_this_week)
 * [2024-04-29, 08:47:23](https://lobste.rs/s/3brztz/nix_breaking_point) - [Nix: The Breaking Point](https://kilo.bytesize.xyz/nix-the-breaking-point)
