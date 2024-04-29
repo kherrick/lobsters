@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-29, 19:20:59",
+      "https://lobste.rs/s/qnmzre/aux_computer_alternative_nix_ecosystem"
+    ],
+    [
+      "aux.computer: an alternative to the Nix ecosystem",
+      "https://aux.computer/"
+    ]
+  ],
+  [
+    [
       "2024-04-29, 19:04:25",
       "https://lobste.rs/s/vupgt6/how_we_built_text_sql_at_pinterest"
     ],
@@ -197,16 +207,6 @@
     [
       "Arc4random",
       "https://isopenbsdsecu.re/mitigations/arc4random/"
-    ]
-  ],
-  [
-    [
-      "2024-04-28, 17:30:01",
-      "https://lobste.rs/s/wur3a6/fractal_toolkit_toolkit_for_generating"
-    ],
-    [
-      "Fractal Toolkit: A Toolkit For Generating Fractal Zoom Animations in Python",
-      "https://github.com/otdav33/Fractal-Toolkit"
     ]
   ],
   [
