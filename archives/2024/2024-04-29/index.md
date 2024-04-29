@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 22:57:09](https://lobste.rs/s/cy9i87/how_empty_s3_bucket_can_make_your_aws_bill) - [How an empty S3 bucket can make your AWS bill explode](https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1)
 * [2024-04-29, 21:24:02](https://lobste.rs/s/begq97/highlights_from_git_2_45) - [Highlights from Git 2.45](https://github.blog/2024-04-29-highlights-from-git-2-45/)
 * [2024-04-29, 21:18:23](https://lobste.rs/s/f6d5ai/powershell_object_oriented_shell_you) - [PowerShell: the object-oriented shell you didn’t know you needed](https://chriswarrick.com/blog/2024/04/29/powershell-the-object-oriented-shell-you-didnt-know-you-needed/)
 * [2024-04-29, 19:46:23](https://lobste.rs/s/mmgwag/fsf_be_deposed_sfc_v_vizio_updates) - [FSF to be deposed in SFC v Vizio, updates relevant FAQ entry](https://www.fsf.org/news/fsf-to-be-deposed-in-sfc-v-vizio-updates-relevant-faq-entry)
