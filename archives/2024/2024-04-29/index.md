@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 14:26:32](https://lobste.rs/s/i0jvsw/open_source_development_strategies_for) - [Open-Source Development - Strategies for getting involved](https://garrensmith.com/Opensource/Open-Source+Development+-+Strategies+for+getting+involved)
 * [2024-04-29, 14:16:38](https://lobste.rs/s/w4zpqu/phreaking) - [Phreaking](https://en.m.wikipedia.org/wiki/Phreaking)
 * [2024-04-29, 14:11:06](https://lobste.rs/s/4pr2za/so_you_want_write_unsafe_crate) - [So, you want to write an unsafe crate](https://blog.dureuill.net/articles/nolife-0-4/)
 * [2024-04-29, 13:35:58](https://lobste.rs/s/6ppheg/fend_arbitrary_precision_unit_aware) - [fend - an arbitrary-precision unit-aware calculator](https://printfn.github.io/fend/)
