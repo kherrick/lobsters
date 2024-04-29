@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 16:37:27](https://lobste.rs/s/fgxwfz/nerves_local_setup) - [Nerves Local Setup](https://wiki.alopex.li/NervesLocalSetup)
+* [2024-04-29, 16:34:33](https://lobste.rs/s/vxmetj/linux_for_itanium_releases_first) - [Linux for Itanium releases first official patchset: v6.9-rc6-epic1](https://github.com/linux-ia64/linux-ia64/releases/tag/v6.9-rc6-epic1)
 * [2024-04-29, 16:25:17](https://lobste.rs/s/m7hlu8/understanding_delta_lake_s_consistency) - [Understanding Delta Lake's consistency model](https://jack-vanlightly.com/analyses/2024/4/29/understanding-delta-lakes-consistency-model)
 * [2024-04-29, 15:15:34](https://lobste.rs/s/nkec9m/tldr_fail) - [tldr.fail](https://tldr.fail/)
 * [2024-04-29, 14:45:53](https://lobste.rs/s/idpf6m/nvd_delays_highlight_vulnerability) - [NVD delays highlight vulnerability management woes: Put malware first](https://www.reversinglabs.com/blog/nvd-woes-put-malware-first)
