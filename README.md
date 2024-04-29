@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-29, 03:43:23](https://lobste.rs/s/zcrfps/stabilizer_problem) - [The Stabilizer Problem](https://ryan.norbauer.com/journal/the-stabilizer-problem/)
 * [2024-04-29, 00:06:29](https://lobste.rs/s/hhcn3p/did_we_lose_our_way_making_efficient) - [Did we lose our way in making efficient software? — ~30 MB doc file vs browser](https://rufatmammadli.medium.com/did-we-lose-our-way-in-making-efficient-software-30-mb-doc-file-vs-browser-fed12dd866a4)
 * [2024-04-28, 18:41:38](https://lobste.rs/s/9uvhov/arc4random) - [Arc4random](https://isopenbsdsecu.re/mitigations/arc4random/)
 * [2024-04-28, 18:05:04](https://lobste.rs/s/vujtyt/free_space_diffraction_bsdf) - [A Free-Space Diffraction BSDF](https://ssteinberg.xyz/2024/04/05/free_space_diffractions_bsdf/)
@@ -16,7 +17,6 @@
 * [2024-04-28, 06:20:06](https://lobste.rs/s/37vdz8/virtualizing_6502_with_6o6_incredible) - [Virtualizing the 6502 with 6o6 (and The Incredible KIMplement goes 1.0)](https://oldvcr.blogspot.com/2024/04/virtualizing-6502-with-6o6-and.html)
 * [2024-04-28, 01:04:45](https://lobste.rs/s/d5ppwa/how_improve_risc_v_specification) - [How to improve the RISC-V specification](https://alastairreid.github.io/riscv-spec-issues/)
 * [2024-04-27, 23:58:42](https://lobste.rs/s/cnayul/2024_04_26_microsoft_at_work) - [2024-04-26 microsoft at work](https://computer.rip/2024-04-26-microsoft-at-work.html)
-* [2024-04-27, 21:29:36](https://lobste.rs/s/db4r4k/three_ways_handling_user_input_2022) - [Three ways of handling user input (2022)](https://dubroy.com/blog/three-ways-of-handling-user-input/)
 * [2024-04-27, 21:02:45](https://lobste.rs/s/unfyqm/tasks_are_wrong_abstraction) - [Tasks are the wrong abstraction](https://blog.yoshuawuyts.com/tasks-are-the-wrong-abstraction/)
 * [2024-04-27, 20:48:41](https://lobste.rs/s/ijgeda/gf_gdb_frontend_for_linux) - [gf: A GDB frontend for Linux](https://github.com/nakst/gf)
 * [2024-04-27, 18:59:13](https://lobste.rs/s/nkvjes/jf_flatten_nested_json_for_easy) - [jf: flatten nested json for easy searchability](https://github.com/say4n/jf)
