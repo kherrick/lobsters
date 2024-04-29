@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-29, 14:16:38](https://lobste.rs/s/w4zpqu/phreaking) - [Phreaking](https://en.m.wikipedia.org/wiki/Phreaking)
+* [2024-04-29, 14:11:06](https://lobste.rs/s/4pr2za/so_you_want_write_unsafe_crate) - [So, you want to write an unsafe crate](https://blog.dureuill.net/articles/nolife-0-4/)
 * [2024-04-29, 13:35:58](https://lobste.rs/s/6ppheg/fend_arbitrary_precision_unit_aware) - [fend - an arbitrary-precision unit-aware calculator](https://printfn.github.io/fend/)
 * [2024-04-29, 13:20:27](https://lobste.rs/s/upufua/no_web_without_women) - [No Web Without Women](https://nowebwithoutwomen.com/)
 * [2024-04-29, 13:04:57](https://lobste.rs/s/t5xbvh/sanctum_privilege_separated_vpn_daemon) - [Sanctum – a privilege separated VPN daemon](https://sanctorum.se/sanctum/)
@@ -21,10 +23,8 @@
 * [2024-04-28, 12:01:46](https://lobste.rs/s/4aubhi/zed_decoded_rope_sumtree) - [Zed Decoded: Rope & SumTree](https://zed.dev/blog/zed-decoded-rope-sumtree)
 * [2024-04-28, 08:09:31](https://lobste.rs/s/bbfqna/practical_vim_command_workflow) - [Practical Vim command workflow](https://m4xshen.dev/posts/vim-command-workflow/)
 * [2024-04-28, 01:04:45](https://lobste.rs/s/d5ppwa/how_improve_risc_v_specification) - [How to improve the RISC-V specification](https://alastairreid.github.io/riscv-spec-issues/)
-* [2024-04-27, 21:02:45](https://lobste.rs/s/unfyqm/tasks_are_wrong_abstraction) - [Tasks are the wrong abstraction](https://blog.yoshuawuyts.com/tasks-are-the-wrong-abstraction/)
 * [2024-04-27, 18:59:13](https://lobste.rs/s/nkvjes/jf_flatten_nested_json_for_easy) - [jf: flatten nested json for easy searchability](https://github.com/say4n/jf)
 * [2024-04-27, 18:41:31](https://lobste.rs/s/vthuhk/jank_gets_lazy_sequences_destructuring) - [jank gets lazy sequences, destructuring, and loop](https://jank-lang.org/blog/2024-04-27-lazy-sequences/)
-* [2024-04-26, 17:10:37](https://lobste.rs/s/nyikhk/lessons_learned_after_3_years_fulltime) - [Lessons learned after 3 years of fulltime Rust game development, and why we're leaving Rust behind](https://loglog.games/blog/leaving-rust-gamedev/)
 
 ## [Archives](archives/index.md)
 
