@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 13:20:27](https://lobste.rs/s/upufua/no_web_without_women) - [No Web Without Women](https://nowebwithoutwomen.com/)
 * [2024-04-29, 13:04:57](https://lobste.rs/s/t5xbvh/sanctum_privilege_separated_vpn_daemon) - [Sanctum – a privilege separated VPN daemon](https://sanctorum.se/sanctum/)
 * [2024-04-29, 11:54:42](https://lobste.rs/s/gny9rn/no_one_should_have_much_power) - [No One Should Have That Much Power](https://www.mnot.net/blog/2024/04/29/power)
 * [2024-04-29, 11:46:09](https://lobste.rs/s/i8gyah/functional_semantics_imperative) - [Functional Semantics in Imperative Clothing](https://rtfeldman.com/imperative-clothing)
