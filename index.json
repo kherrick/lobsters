@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-29, 21:24:02",
+      "https://lobste.rs/s/begq97/highlights_from_git_2_45"
+    ],
+    [
+      "Highlights from Git 2.45",
+      "https://github.blog/2024-04-29-highlights-from-git-2-45/"
+    ]
+  ],
+  [
+    [
+      "2024-04-29, 21:18:23",
+      "https://lobste.rs/s/f6d5ai/powershell_object_oriented_shell_you"
+    ],
+    [
+      "PowerShell: the object-oriented shell you didn’t know you needed",
+      "https://chriswarrick.com/blog/2024/04/29/powershell-the-object-oriented-shell-you-didnt-know-you-needed/"
+    ]
+  ],
+  [
+    [
       "2024-04-29, 19:46:23",
       "https://lobste.rs/s/mmgwag/fsf_be_deposed_sfc_v_vizio_updates"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-04-29, 08:14:18",
-      "https://lobste.rs/s/uziq1v/mailcleaner_security_disclosure_report"
-    ],
-    [
-      "MailCleaner security disclosure report",
-      "https://modzero.com/static/MZ-24-01_modzero_MailCleaner.pdf"
-    ]
-  ],
-  [
-    [
       "2024-04-29, 04:35:56",
       "https://lobste.rs/s/lrxf9a/freebee_unix_pc_emulator"
     ],
@@ -207,16 +217,6 @@
     [
       "The Stabilizer Problem",
       "https://ryan.norbauer.com/journal/the-stabilizer-problem/"
-    ]
-  ],
-  [
-    [
-      "2024-04-28, 18:41:38",
-      "https://lobste.rs/s/9uvhov/arc4random"
-    ],
-    [
-      "Arc4random",
-      "https://isopenbsdsecu.re/mitigations/arc4random/"
     ]
   ],
   [
