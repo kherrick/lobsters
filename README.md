@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-29, 11:46:09](https://lobste.rs/s/i8gyah/functional_semantics_imperative) - [Functional Semantics in Imperative Clothing](https://rtfeldman.com/imperative-clothing)
 * [2024-04-29, 11:31:35](https://lobste.rs/s/lujrqq/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lujrqq/what_are_you_doing_this_week)
 * [2024-04-29, 08:47:23](https://lobste.rs/s/3brztz/nix_breaking_point) - [Nix: The Breaking Point](https://kilo.bytesize.xyz/nix-the-breaking-point)
 * [2024-04-29, 08:14:18](https://lobste.rs/s/uziq1v/mailcleaner_security_disclosure_report) - [MailCleaner security disclosure report](https://modzero.com/static/MZ-24-01_modzero_MailCleaner.pdf)
@@ -23,7 +24,6 @@
 * [2024-04-27, 20:48:41](https://lobste.rs/s/ijgeda/gf_gdb_frontend_for_linux) - [gf: A GDB frontend for Linux](https://github.com/nakst/gf)
 * [2024-04-27, 18:59:13](https://lobste.rs/s/nkvjes/jf_flatten_nested_json_for_easy) - [jf: flatten nested json for easy searchability](https://github.com/say4n/jf)
 * [2024-04-27, 18:41:31](https://lobste.rs/s/vthuhk/jank_gets_lazy_sequences_destructuring) - [jank gets lazy sequences, destructuring, and loop](https://jank-lang.org/blog/2024-04-27-lazy-sequences/)
-* [2024-04-27, 17:00:09](https://lobste.rs/s/sda151/nixpkgs_news) - [nixpkgs.news](https://nixpkgs.news/)
 * [2024-04-26, 17:10:37](https://lobste.rs/s/nyikhk/lessons_learned_after_3_years_fulltime) - [Lessons learned after 3 years of fulltime Rust game development, and why we're leaving Rust behind](https://loglog.games/blog/leaving-rust-gamedev/)
 
 ## [Archives](archives/index.md)
