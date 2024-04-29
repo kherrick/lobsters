@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-29, 14:45:53](https://lobste.rs/s/idpf6m/nvd_delays_highlight_vulnerability) - [NVD delays highlight vulnerability management woes: Put malware first](https://www.reversinglabs.com/blog/nvd-woes-put-malware-first)
 * [2024-04-29, 14:26:32](https://lobste.rs/s/i0jvsw/open_source_development_strategies_for) - [Open-Source Development - Strategies for getting involved](https://garrensmith.com/Opensource/Open-Source+Development+-+Strategies+for+getting+involved)
 * [2024-04-29, 14:16:38](https://lobste.rs/s/w4zpqu/phreaking) - [Phreaking](https://en.m.wikipedia.org/wiki/Phreaking)
 * [2024-04-29, 14:11:06](https://lobste.rs/s/4pr2za/so_you_want_write_unsafe_crate) - [So, you want to write an unsafe crate](https://blog.dureuill.net/articles/nolife-0-4/)
@@ -16,7 +17,6 @@
 * [2024-04-28, 18:41:38](https://lobste.rs/s/9uvhov/arc4random) - [Arc4random](https://isopenbsdsecu.re/mitigations/arc4random/)
 * [2024-04-28, 17:30:01](https://lobste.rs/s/wur3a6/fractal_toolkit_toolkit_for_generating) - [Fractal Toolkit: A Toolkit For Generating Fractal Zoom Animations in Python](https://github.com/otdav33/Fractal-Toolkit)
 * [2024-04-28, 17:10:58](https://lobste.rs/s/renpqc/book_secret_knowledge_collection) - [the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more](https://github.com/trimstray/the-book-of-secret-knowledge)
-* [2024-04-28, 17:02:52](https://lobste.rs/s/bumkag/nine_year_study_file_system_storage) - [A Nine Year Study of File System and Storage Benchmarking (2008)](https://www.fsl.cs.sunysb.edu/docs/fsbench/fsbench-tr.pdf)
 * [2024-04-28, 16:30:20](https://lobste.rs/s/0c7nfx/exploring_enigma_database_vacuuming) - [Exploring the Enigma of Database Vacuuming](https://dineshgowda.com/posts/exploring-the-enigma-of-database-vacuuming/)
 * [2024-04-28, 15:58:37](https://lobste.rs/s/asd88x/pcrowdoodle_my_desirable_difficulty) - [pcrowDoodle, my \"desirable difficulty\" laptop](https://biodigitaljazz.net/blog/pcrowdoodle.html)
 * [2024-04-28, 15:40:05](https://lobste.rs/s/krheoa/finding_trends_with_approximate) - [Finding Trends With Approximate Embedding Clustering](https://www.aspiring.dev/instant-embeddings-clustering-with-k-means-and-clickhouse/)
