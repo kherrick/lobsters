@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-29, 08:47:23](https://lobste.rs/s/3brztz/nix_breaking_point) - [Nix: The Breaking Point](https://kilo.bytesize.xyz/nix-the-breaking-point)
 * [2024-04-29, 08:14:18](https://lobste.rs/s/uziq1v/mailcleaner_security_disclosure_report) - [MailCleaner security disclosure report](https://modzero.com/static/MZ-24-01_modzero_MailCleaner.pdf)
 * [2024-04-29, 04:35:56](https://lobste.rs/s/lrxf9a/freebee_unix_pc_emulator) - [FreeBee: UNIX PC emulator](https://github.com/philpem/freebee)
 * [2024-04-29, 03:43:23](https://lobste.rs/s/zcrfps/stabilizer_problem) - [The Stabilizer Problem](https://ryan.norbauer.com/journal/the-stabilizer-problem/)
@@ -23,7 +24,6 @@
 * [2024-04-27, 18:59:13](https://lobste.rs/s/nkvjes/jf_flatten_nested_json_for_easy) - [jf: flatten nested json for easy searchability](https://github.com/say4n/jf)
 * [2024-04-27, 18:41:31](https://lobste.rs/s/vthuhk/jank_gets_lazy_sequences_destructuring) - [jank gets lazy sequences, destructuring, and loop](https://jank-lang.org/blog/2024-04-27-lazy-sequences/)
 * [2024-04-27, 17:00:09](https://lobste.rs/s/sda151/nixpkgs_news) - [nixpkgs.news](https://nixpkgs.news/)
-* [2024-04-27, 13:46:37](https://lobste.rs/s/1qzrho/keeping_track_directories_using_pushd) - [Keeping track of directories using pushd and pop](https://www.lewis8s.codes/bash/linux/shell/2024/04/19/Keeping-track-of-directories-using-pushd-and-pop)
 * [2024-04-26, 17:10:37](https://lobste.rs/s/nyikhk/lessons_learned_after_3_years_fulltime) - [Lessons learned after 3 years of fulltime Rust game development, and why we're leaving Rust behind](https://loglog.games/blog/leaving-rust-gamedev/)
 
 ## [Archives](archives/index.md)
