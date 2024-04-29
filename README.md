@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-29, 21:24:02](https://lobste.rs/s/begq97/highlights_from_git_2_45) - [Highlights from Git 2.45](https://github.blog/2024-04-29-highlights-from-git-2-45/)
+* [2024-04-29, 21:18:23](https://lobste.rs/s/f6d5ai/powershell_object_oriented_shell_you) - [PowerShell: the object-oriented shell you didn’t know you needed](https://chriswarrick.com/blog/2024/04/29/powershell-the-object-oriented-shell-you-didnt-know-you-needed/)
 * [2024-04-29, 19:46:23](https://lobste.rs/s/mmgwag/fsf_be_deposed_sfc_v_vizio_updates) - [FSF to be deposed in SFC v Vizio, updates relevant FAQ entry](https://www.fsf.org/news/fsf-to-be-deposed-in-sfc-v-vizio-updates-relevant-faq-entry)
 * [2024-04-29, 19:20:59](https://lobste.rs/s/qnmzre/aux_computer_alternative_nix_ecosystem) - [aux.computer: an alternative to the Nix ecosystem](https://aux.computer/)
 * [2024-04-29, 19:04:25](https://lobste.rs/s/vupgt6/how_we_built_text_sql_at_pinterest) - [How we built Text-to-SQL at Pinterest](https://medium.com/pinterest-engineering/how-we-built-text-to-sql-at-pinterest-30bad30dabff)
@@ -18,10 +20,8 @@
 * [2024-04-29, 11:46:09](https://lobste.rs/s/i8gyah/functional_semantics_imperative) - [Functional Semantics in Imperative Clothing](https://rtfeldman.com/imperative-clothing)
 * [2024-04-29, 11:31:35](https://lobste.rs/s/lujrqq/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lujrqq/what_are_you_doing_this_week)
 * [2024-04-29, 08:47:23](https://lobste.rs/s/3brztz/nix_breaking_point) - [Nix: The Breaking Point](https://kilo.bytesize.xyz/nix-the-breaking-point)
-* [2024-04-29, 08:14:18](https://lobste.rs/s/uziq1v/mailcleaner_security_disclosure_report) - [MailCleaner security disclosure report](https://modzero.com/static/MZ-24-01_modzero_MailCleaner.pdf)
 * [2024-04-29, 04:35:56](https://lobste.rs/s/lrxf9a/freebee_unix_pc_emulator) - [FreeBee: UNIX PC emulator](https://github.com/philpem/freebee)
 * [2024-04-29, 03:43:23](https://lobste.rs/s/zcrfps/stabilizer_problem) - [The Stabilizer Problem](https://ryan.norbauer.com/journal/the-stabilizer-problem/)
-* [2024-04-28, 18:41:38](https://lobste.rs/s/9uvhov/arc4random) - [Arc4random](https://isopenbsdsecu.re/mitigations/arc4random/)
 * [2024-04-28, 16:30:20](https://lobste.rs/s/0c7nfx/exploring_enigma_database_vacuuming) - [Exploring the Enigma of Database Vacuuming](https://dineshgowda.com/posts/exploring-the-enigma-of-database-vacuuming/)
 * [2024-04-28, 15:58:37](https://lobste.rs/s/asd88x/pcrowdoodle_my_desirable_difficulty) - [pcrowDoodle, my \"desirable difficulty\" laptop](https://biodigitaljazz.net/blog/pcrowdoodle.html)
 * [2024-04-28, 12:01:46](https://lobste.rs/s/4aubhi/zed_decoded_rope_sumtree) - [Zed Decoded: Rope & SumTree](https://zed.dev/blog/zed-decoded-rope-sumtree)

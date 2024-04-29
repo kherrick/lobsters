@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 21:24:02](https://lobste.rs/s/begq97/highlights_from_git_2_45) - [Highlights from Git 2.45](https://github.blog/2024-04-29-highlights-from-git-2-45/)
+* [2024-04-29, 21:18:23](https://lobste.rs/s/f6d5ai/powershell_object_oriented_shell_you) - [PowerShell: the object-oriented shell you didn’t know you needed](https://chriswarrick.com/blog/2024/04/29/powershell-the-object-oriented-shell-you-didnt-know-you-needed/)
 * [2024-04-29, 19:46:23](https://lobste.rs/s/mmgwag/fsf_be_deposed_sfc_v_vizio_updates) - [FSF to be deposed in SFC v Vizio, updates relevant FAQ entry](https://www.fsf.org/news/fsf-to-be-deposed-in-sfc-v-vizio-updates-relevant-faq-entry)
 * [2024-04-29, 19:20:59](https://lobste.rs/s/qnmzre/aux_computer_alternative_nix_ecosystem) - [aux.computer: an alternative to the Nix ecosystem](https://aux.computer/)
 * [2024-04-29, 19:04:25](https://lobste.rs/s/vupgt6/how_we_built_text_sql_at_pinterest) - [How we built Text-to-SQL at Pinterest](https://medium.com/pinterest-engineering/how-we-built-text-to-sql-at-pinterest-30bad30dabff)
