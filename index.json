@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-29, 16:37:27",
+      "https://lobste.rs/s/fgxwfz/nerves_local_setup"
+    ],
+    [
+      "Nerves Local Setup",
+      "https://wiki.alopex.li/NervesLocalSetup"
+    ]
+  ],
+  [
+    [
+      "2024-04-29, 16:34:33",
+      "https://lobste.rs/s/vxmetj/linux_for_itanium_releases_first"
+    ],
+    [
+      "Linux for Itanium releases first official patchset: v6.9-rc6-epic1",
+      "https://github.com/linux-ia64/linux-ia64/releases/tag/v6.9-rc6-epic1"
+    ]
+  ],
+  [
+    [
       "2024-04-29, 16:25:17",
       "https://lobste.rs/s/m7hlu8/understanding_delta_lake_s_consistency"
     ],
@@ -227,26 +247,6 @@
     [
       "Zed Decoded: Rope & SumTree",
       "https://zed.dev/blog/zed-decoded-rope-sumtree"
-    ]
-  ],
-  [
-    [
-      "2024-04-28, 08:09:31",
-      "https://lobste.rs/s/bbfqna/practical_vim_command_workflow"
-    ],
-    [
-      "Practical Vim command workflow",
-      "https://m4xshen.dev/posts/vim-command-workflow/"
-    ]
-  ],
-  [
-    [
-      "2024-04-28, 01:04:45",
-      "https://lobste.rs/s/d5ppwa/how_improve_risc_v_specification"
-    ],
-    [
-      "How to improve the RISC-V specification",
-      "https://alastairreid.github.io/riscv-spec-issues/"
     ]
   ]
 ]
