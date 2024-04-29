@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-29](index.md)
 
+* [2024-04-29, 19:04:25](https://lobste.rs/s/vupgt6/how_we_built_text_sql_at_pinterest) - [How we built Text-to-SQL at Pinterest](https://medium.com/pinterest-engineering/how-we-built-text-to-sql-at-pinterest-30bad30dabff)
 * [2024-04-29, 16:37:27](https://lobste.rs/s/fgxwfz/nerves_local_setup) - [Nerves Local Setup](https://wiki.alopex.li/NervesLocalSetup)
 * [2024-04-29, 16:34:33](https://lobste.rs/s/vxmetj/linux_for_itanium_releases_first) - [Linux for Itanium releases first official patchset: v6.9-rc6-epic1](https://github.com/linux-ia64/linux-ia64/releases/tag/v6.9-rc6-epic1)
 * [2024-04-29, 16:25:17](https://lobste.rs/s/m7hlu8/understanding_delta_lake_s_consistency) - [Understanding Delta Lake's consistency model](https://jack-vanlightly.com/analyses/2024/4/29/understanding-delta-lakes-consistency-model)
