@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-04-30, 02:50:09",
+      "https://lobste.rs/s/nkkahc/save_web_by_being_nice"
+    ],
+    [
+      "Save the Web by Being Nice",
+      "https://sheep.horse/2024/4/save_the_web_by_being_nice.html"
+    ]
+  ],
+  [
+    [
+      "2024-04-30, 02:47:31",
+      "https://lobste.rs/s/g2tl3w/why_sqlite_uses_bytecode"
+    ],
+    [
+      "Why SQLite Uses Bytecode",
+      "https://sqlite.org/draft/whybytecode.html"
+    ]
+  ],
+  [
+    [
       "2024-04-30, 01:16:33",
       "https://lobste.rs/s/jje7qg/terminal_shop_order_coffee_via_ssh"
     ],
@@ -107,16 +127,6 @@
     [
       "tldr.fail",
       "https://tldr.fail/"
-    ]
-  ],
-  [
-    [
-      "2024-04-29, 14:45:53",
-      "https://lobste.rs/s/idpf6m/nvd_delays_highlight_vulnerability"
-    ],
-    [
-      "NVD delays highlight vulnerability management woes: Put malware first",
-      "https://www.reversinglabs.com/blog/nvd-woes-put-malware-first"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "pcrowDoodle, my \"desirable difficulty\" laptop",
       "https://biodigitaljazz.net/blog/pcrowdoodle.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-28, 12:01:46",
-      "https://lobste.rs/s/4aubhi/zed_decoded_rope_sumtree"
-    ],
-    [
-      "Zed Decoded: Rope & SumTree",
-      "https://zed.dev/blog/zed-decoded-rope-sumtree"
     ]
   ]
 ]
