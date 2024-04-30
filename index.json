@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-30, 22:41:04",
+      "https://lobste.rs/s/dr6unc/dream_html_render_html_svg_mathml_htmx"
+    ],
+    [
+      "dream-html - render HTML, SVG, MathML, htmx markup from OCaml",
+      "https://github.com/yawaramin/dream-html"
+    ]
+  ],
+  [
+    [
       "2024-04-30, 21:40:54",
       "https://lobste.rs/s/tuan7i/go_generics_use_structs_for_generic"
     ],
@@ -177,16 +187,6 @@
     [
       "Nerves Local Setup",
       "https://wiki.alopex.li/NervesLocalSetup"
-    ]
-  ],
-  [
-    [
-      "2024-04-29, 16:34:33",
-      "https://lobste.rs/s/vxmetj/linux_for_itanium_releases_first"
-    ],
-    [
-      "Linux for Itanium releases first official patchset: v6.9-rc6-epic1",
-      "https://github.com/linux-ia64/linux-ia64/releases/tag/v6.9-rc6-epic1"
     ]
   ],
   [
