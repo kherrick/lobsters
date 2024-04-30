@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
+* [2024-04-30, 19:59:58](https://lobste.rs/s/crimha/spigot_command_line_exact_real) - [spigot: a command-line exact real calculator](https://www.chiark.greenend.org.uk/~sgtatham/spigot/)
 * [2024-04-30, 19:37:54](https://lobste.rs/s/asyrrt/pydantic_s_author_releases_his_take_on) - [Pydantic's author releases his take on Python observability](https://docs.pydantic.dev/latest/)
 * [2024-04-30, 19:05:39](https://lobste.rs/s/umijeb/run0) - [run0](https://www.freedesktop.org/software/systemd/man/devel/run0.html)
 * [2024-04-30, 18:20:26](https://lobste.rs/s/ydivjw/locking_engineering_principles) - [Locking Engineering Principles](http://blog.ffwll.ch/2022/07/locking-engineering.html)
