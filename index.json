@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-30, 14:18:47",
+      "https://lobste.rs/s/wy4jd4/bytecode_vms_surprising_places"
+    ],
+    [
+      "Bytecode VMs in surprising places",
+      "https://dubroy.com/blog/bytecode-vms-in-surprising-places/"
+    ]
+  ],
+  [
+    [
       "2024-04-30, 08:55:04",
       "https://lobste.rs/s/snkmau/llamafile_s_progress_four_months"
     ],
@@ -117,16 +127,6 @@
     [
       "aux.computer: an alternative to the Nix ecosystem",
       "https://aux.computer/"
-    ]
-  ],
-  [
-    [
-      "2024-04-29, 19:04:25",
-      "https://lobste.rs/s/vupgt6/how_we_built_text_sql_at_pinterest"
-    ],
-    [
-      "How we built Text-to-SQL at Pinterest",
-      "https://medium.com/pinterest-engineering/how-we-built-text-to-sql-at-pinterest-30bad30dabff"
     ]
   ],
   [
