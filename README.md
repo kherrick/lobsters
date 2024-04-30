@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-30, 19:37:54](https://lobste.rs/s/asyrrt/pydantic_s_author_releases_his_take_on) - [Pydantic's author releases his take on Python observability](https://docs.pydantic.dev/latest/)
 * [2024-04-30, 19:05:39](https://lobste.rs/s/umijeb/run0) - [run0](https://www.freedesktop.org/software/systemd/man/devel/run0.html)
 * [2024-04-30, 18:20:26](https://lobste.rs/s/ydivjw/locking_engineering_principles) - [Locking Engineering Principles](http://blog.ffwll.ch/2022/07/locking-engineering.html)
 * [2024-04-30, 16:24:59](https://lobste.rs/s/3fk0hl/borgo_is_new_programming_language) - [Borgo is a new programming language that compiles to Go](https://borgo-lang.github.io/)
@@ -8,7 +9,6 @@
 * [2024-04-30, 06:51:34](https://lobste.rs/s/0bzjlj/one_year_c_2018) - [One year of C (2018)](https://floooh.github.io/2018/06/02/one-year-of-c.html)
 * [2024-04-30, 06:27:53](https://lobste.rs/s/cu4xs5/can_china_s_loongson_catch_western) - [Can China’s Loongson Catch Western Designs? Probably Not](https://chipsandcheese.com/2024/04/29/can-chinas-loongson-catch-western-designs-probably-not/)
 * [2024-04-30, 06:04:51](https://lobste.rs/s/po4hzc/i_interviewed_uncle_bob) - [I Interviewed Uncle Bob](https://www.youtube.com/watch?v=UBXXw2JSloo)
-* [2024-04-30, 04:38:00](https://lobste.rs/s/xbautm/postgresql_supported_platforms_over) - [PostgreSQL supported platforms over time](https://peter.eisentraut.org/blog/2024/04/29/postgresql-supported-platforms-over-time)
 * [2024-04-30, 02:50:09](https://lobste.rs/s/nkkahc/save_web_by_being_nice) - [Save the Web by Being Nice](https://sheep.horse/2024/4/save_the_web_by_being_nice.html)
 * [2024-04-30, 02:47:31](https://lobste.rs/s/g2tl3w/why_sqlite_uses_bytecode) - [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html)
 * [2024-04-29, 22:57:09](https://lobste.rs/s/cy9i87/how_empty_s3_bucket_can_make_your_aws_bill) - [How an empty S3 bucket can make your AWS bill explode](https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1)
