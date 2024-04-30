@@ -24,7 +24,7 @@
 * [2024-04-29, 13:04:57](https://lobste.rs/s/t5xbvh/sanctum_privilege_separated_vpn_daemon) - [Sanctum – a privilege separated VPN daemon](https://sanctorum.se/sanctum/)
 * [2024-04-29, 11:54:42](https://lobste.rs/s/gny9rn/no_one_should_have_much_power) - [No One Should Have That Much Power](https://www.mnot.net/blog/2024/04/29/power)
 * [2024-04-29, 11:46:09](https://lobste.rs/s/i8gyah/functional_semantics_imperative) - [Functional Semantics in Imperative Clothing](https://rtfeldman.com/imperative-clothing)
-* [2024-04-29, 08:47:23](https://lobste.rs/s/3brztz/nix_breaking_point) - [Nix: The Breaking Point](https://kilo.bytesize.xyz/nix-the-breaking-point)
+* [2024-04-28, 15:58:37](https://lobste.rs/s/asd88x/pcrowdoodle_my_desirable_difficulty) - [pcrowDoodle, my \"desirable difficulty\" laptop](https://biodigitaljazz.net/blog/pcrowdoodle.html)
 
 ## [Archives](archives/index.md)
 
