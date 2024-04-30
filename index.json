@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-04-30, 01:16:33",
-      "https://lobste.rs/s/jje7qg/terminal_shop_order_coffee_via_ssh"
-    ],
-    [
-      "terminal.shop: order coffee via ssh",
-      "https://www.terminal.shop/"
-    ]
-  ],
-  [
-    [
       "2024-04-29, 22:57:09",
       "https://lobste.rs/s/cy9i87/how_empty_s3_bucket_can_make_your_aws_bill"
     ],
@@ -217,6 +207,16 @@
     [
       "Nix: The Breaking Point",
       "https://kilo.bytesize.xyz/nix-the-breaking-point"
+    ]
+  ],
+  [
+    [
+      "2024-04-29, 04:35:56",
+      "https://lobste.rs/s/lrxf9a/freebee_unix_pc_emulator"
+    ],
+    [
+      "FreeBee: UNIX PC emulator",
+      "https://github.com/philpem/freebee"
     ]
   ],
   [
