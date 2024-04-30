@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
+* [2024-04-30, 19:05:39](https://lobste.rs/s/umijeb/run0) - [run0](https://www.freedesktop.org/software/systemd/man/devel/run0.html)
 * [2024-04-30, 18:20:26](https://lobste.rs/s/ydivjw/locking_engineering_principles) - [Locking Engineering Principles](http://blog.ffwll.ch/2022/07/locking-engineering.html)
 * [2024-04-30, 16:24:59](https://lobste.rs/s/3fk0hl/borgo_is_new_programming_language) - [Borgo is a new programming language that compiles to Go](https://borgo-lang.github.io/)
 * [2024-04-30, 14:18:47](https://lobste.rs/s/wy4jd4/bytecode_vms_surprising_places) - [Bytecode VMs in surprising places](https://dubroy.com/blog/bytecode-vms-in-surprising-places/)
