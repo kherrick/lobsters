@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
+* [2024-04-30, 22:41:04](https://lobste.rs/s/dr6unc/dream_html_render_html_svg_mathml_htmx) - [dream-html - render HTML, SVG, MathML, htmx markup from OCaml](https://github.com/yawaramin/dream-html)
 * [2024-04-30, 21:40:54](https://lobste.rs/s/tuan7i/go_generics_use_structs_for_generic) - [Go Generics: Use Structs for Generic Arguments Lists](https://www.emoses.org/posts/reusable-patterns-in-go/)
 * [2024-04-30, 19:59:58](https://lobste.rs/s/crimha/spigot_command_line_exact_real) - [spigot: a command-line exact real calculator](https://www.chiark.greenend.org.uk/~sgtatham/spigot/)
 * [2024-04-30, 19:37:54](https://lobste.rs/s/asyrrt/pydantic_s_author_releases_his_take_on) - [Pydantic's author releases his take on Python observability](https://docs.pydantic.dev/latest/)

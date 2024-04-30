@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-30, 22:41:04](https://lobste.rs/s/dr6unc/dream_html_render_html_svg_mathml_htmx) - [dream-html - render HTML, SVG, MathML, htmx markup from OCaml](https://github.com/yawaramin/dream-html)
 * [2024-04-30, 21:40:54](https://lobste.rs/s/tuan7i/go_generics_use_structs_for_generic) - [Go Generics: Use Structs for Generic Arguments Lists](https://www.emoses.org/posts/reusable-patterns-in-go/)
 * [2024-04-30, 19:59:58](https://lobste.rs/s/crimha/spigot_command_line_exact_real) - [spigot: a command-line exact real calculator](https://www.chiark.greenend.org.uk/~sgtatham/spigot/)
 * [2024-04-30, 19:05:39](https://lobste.rs/s/umijeb/run0) - [run0](https://www.freedesktop.org/software/systemd/man/devel/run0.html)
@@ -18,7 +19,6 @@
 * [2024-04-29, 19:46:23](https://lobste.rs/s/mmgwag/fsf_be_deposed_sfc_v_vizio_updates) - [FSF to be deposed in SFC v Vizio, updates relevant FAQ entry](https://www.fsf.org/news/fsf-to-be-deposed-in-sfc-v-vizio-updates-relevant-faq-entry)
 * [2024-04-29, 19:20:59](https://lobste.rs/s/qnmzre/aux_computer_alternative_nix_ecosystem) - [aux.computer: an alternative to the Nix ecosystem](https://aux.computer/)
 * [2024-04-29, 16:37:27](https://lobste.rs/s/fgxwfz/nerves_local_setup) - [Nerves Local Setup](https://wiki.alopex.li/NervesLocalSetup)
-* [2024-04-29, 16:34:33](https://lobste.rs/s/vxmetj/linux_for_itanium_releases_first) - [Linux for Itanium releases first official patchset: v6.9-rc6-epic1](https://github.com/linux-ia64/linux-ia64/releases/tag/v6.9-rc6-epic1)
 * [2024-04-29, 15:15:34](https://lobste.rs/s/nkec9m/tldr_fail) - [tldr.fail](https://tldr.fail/)
 * [2024-04-29, 14:11:06](https://lobste.rs/s/4pr2za/so_you_want_write_unsafe_crate) - [So, you want to write an unsafe crate](https://blog.dureuill.net/articles/nolife-0-4/)
 * [2024-04-29, 13:35:58](https://lobste.rs/s/6ppheg/fend_arbitrary_precision_unit_aware) - [fend - an arbitrary-precision unit-aware calculator](https://printfn.github.io/fend/)
