@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-04-30, 21:40:54",
+      "https://lobste.rs/s/tuan7i/go_generics_use_structs_for_generic"
+    ],
+    [
+      "Go Generics: Use Structs for Generic Arguments Lists",
+      "https://www.emoses.org/posts/reusable-patterns-in-go/"
+    ]
+  ],
+  [
+    [
       "2024-04-30, 19:59:58",
       "https://lobste.rs/s/crimha/spigot_command_line_exact_real"
     ],
@@ -87,16 +97,6 @@
     [
       "I Interviewed Uncle Bob",
       "https://www.youtube.com/watch?v=UBXXw2JSloo"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 04:38:00",
-      "https://lobste.rs/s/xbautm/postgresql_supported_platforms_over"
-    ],
-    [
-      "PostgreSQL supported platforms over time",
-      "https://peter.eisentraut.org/blog/2024/04/29/postgresql-supported-platforms-over-time"
     ]
   ],
   [
