@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-04-30](index.md)
 
+* [2024-04-30, 08:55:04](https://lobste.rs/s/snkmau/llamafile_s_progress_four_months) - [Llamafile’s progress, four months in](https://hacks.mozilla.org/2024/04/llamafiles-progress-four-months-in/)
 * [2024-04-30, 06:51:34](https://lobste.rs/s/0bzjlj/one_year_c_2018) - [One year of C (2018)](https://floooh.github.io/2018/06/02/one-year-of-c.html)
 * [2024-04-30, 06:27:53](https://lobste.rs/s/cu4xs5/can_china_s_loongson_catch_western) - [Can China’s Loongson Catch Western Designs? Probably Not](https://chipsandcheese.com/2024/04/29/can-chinas-loongson-catch-western-designs-probably-not/)
 * [2024-04-30, 06:04:51](https://lobste.rs/s/po4hzc/i_interviewed_uncle_bob) - [I Interviewed Uncle Bob](https://www.youtube.com/watch?v=UBXXw2JSloo)

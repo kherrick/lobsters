@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-30, 08:55:04](https://lobste.rs/s/snkmau/llamafile_s_progress_four_months) - [Llamafile’s progress, four months in](https://hacks.mozilla.org/2024/04/llamafiles-progress-four-months-in/)
 * [2024-04-30, 06:51:34](https://lobste.rs/s/0bzjlj/one_year_c_2018) - [One year of C (2018)](https://floooh.github.io/2018/06/02/one-year-of-c.html)
 * [2024-04-30, 06:27:53](https://lobste.rs/s/cu4xs5/can_china_s_loongson_catch_western) - [Can China’s Loongson Catch Western Designs? Probably Not](https://chipsandcheese.com/2024/04/29/can-chinas-loongson-catch-western-designs-probably-not/)
 * [2024-04-30, 06:04:51](https://lobste.rs/s/po4hzc/i_interviewed_uncle_bob) - [I Interviewed Uncle Bob](https://www.youtube.com/watch?v=UBXXw2JSloo)
@@ -14,7 +15,6 @@
 * [2024-04-29, 19:04:25](https://lobste.rs/s/vupgt6/how_we_built_text_sql_at_pinterest) - [How we built Text-to-SQL at Pinterest](https://medium.com/pinterest-engineering/how-we-built-text-to-sql-at-pinterest-30bad30dabff)
 * [2024-04-29, 16:37:27](https://lobste.rs/s/fgxwfz/nerves_local_setup) - [Nerves Local Setup](https://wiki.alopex.li/NervesLocalSetup)
 * [2024-04-29, 16:34:33](https://lobste.rs/s/vxmetj/linux_for_itanium_releases_first) - [Linux for Itanium releases first official patchset: v6.9-rc6-epic1](https://github.com/linux-ia64/linux-ia64/releases/tag/v6.9-rc6-epic1)
-* [2024-04-29, 16:25:17](https://lobste.rs/s/m7hlu8/understanding_delta_lake_s_consistency) - [Understanding Delta Lake's consistency model](https://jack-vanlightly.com/analyses/2024/4/29/understanding-delta-lakes-consistency-model)
 * [2024-04-29, 15:15:34](https://lobste.rs/s/nkec9m/tldr_fail) - [tldr.fail](https://tldr.fail/)
 * [2024-04-29, 14:11:06](https://lobste.rs/s/4pr2za/so_you_want_write_unsafe_crate) - [So, you want to write an unsafe crate](https://blog.dureuill.net/articles/nolife-0-4/)
 * [2024-04-29, 13:35:58](https://lobste.rs/s/6ppheg/fend_arbitrary_precision_unit_aware) - [fend - an arbitrary-precision unit-aware calculator](https://printfn.github.io/fend/)
