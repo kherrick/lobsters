@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-04-30, 06:51:34](https://lobste.rs/s/0bzjlj/one_year_c_2018) - [One year of C (2018)](https://floooh.github.io/2018/06/02/one-year-of-c.html)
 * [2024-04-30, 06:27:53](https://lobste.rs/s/cu4xs5/can_china_s_loongson_catch_western) - [Can China’s Loongson Catch Western Designs? Probably Not](https://chipsandcheese.com/2024/04/29/can-chinas-loongson-catch-western-designs-probably-not/)
 * [2024-04-30, 06:04:51](https://lobste.rs/s/po4hzc/i_interviewed_uncle_bob) - [I Interviewed Uncle Bob](https://www.youtube.com/watch?v=UBXXw2JSloo)
 * [2024-04-30, 04:38:00](https://lobste.rs/s/xbautm/postgresql_supported_platforms_over) - [PostgreSQL supported platforms over time](https://peter.eisentraut.org/blog/2024/04/29/postgresql-supported-platforms-over-time)
@@ -23,7 +24,6 @@
 * [2024-04-29, 11:46:09](https://lobste.rs/s/i8gyah/functional_semantics_imperative) - [Functional Semantics in Imperative Clothing](https://rtfeldman.com/imperative-clothing)
 * [2024-04-29, 11:31:35](https://lobste.rs/s/lujrqq/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lujrqq/what_are_you_doing_this_week)
 * [2024-04-29, 08:47:23](https://lobste.rs/s/3brztz/nix_breaking_point) - [Nix: The Breaking Point](https://kilo.bytesize.xyz/nix-the-breaking-point)
-* [2024-04-29, 03:43:23](https://lobste.rs/s/zcrfps/stabilizer_problem) - [The Stabilizer Problem](https://ryan.norbauer.com/journal/the-stabilizer-problem/)
 * [2024-04-28, 15:58:37](https://lobste.rs/s/asd88x/pcrowdoodle_my_desirable_difficulty) - [pcrowDoodle, my \"desirable difficulty\" laptop](https://biodigitaljazz.net/blog/pcrowdoodle.html)
 
 ## [Archives](archives/index.md)
