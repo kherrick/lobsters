@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-01, 19:02:40",
+      "https://lobste.rs/s/vvutb8/box_is_unique_type"
+    ],
+    [
+      "Box Is a Unique Type",
+      "https://blog.nilstrieb.dev/posts/box-is-a-unique-type/"
+    ]
+  ],
+  [
+    [
       "2024-05-01, 17:11:55",
       "https://lobste.rs/s/48dgoo/tootik_federated_nanoblogging_service"
     ],
@@ -147,16 +157,6 @@
     [
       "Go Generics: Use Structs for Generic Arguments Lists",
       "https://www.emoses.org/posts/reusable-patterns-in-go/"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 19:59:58",
-      "https://lobste.rs/s/crimha/spigot_command_line_exact_real"
-    ],
-    [
-      "spigot: a command-line exact real calculator",
-      "https://www.chiark.greenend.org.uk/~sgtatham/spigot/"
     ]
   ],
   [
