@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-01, 21:39:30",
+      "https://lobste.rs/s/fkcjmw/go_module_bloat"
+    ],
+    [
+      "go module bloat",
+      "https://flak.tedunangst.com/post/go-module-bloat"
+    ]
+  ],
+  [
+    [
+      "2024-05-01, 21:38:01",
+      "https://lobste.rs/s/qspf5m/ansible_is_lisp"
+    ],
+    [
+      "Ansible is a Lisp",
+      "https://astrid.tech/2024/05/01/0/ansible-is-a-lisp"
+    ]
+  ],
+  [
+    [
       "2024-05-01, 19:50:44",
       "https://lobste.rs/s/rbvpeg/tropical_rb_2024_talks"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2024-04-30, 06:51:34",
-      "https://lobste.rs/s/0bzjlj/one_year_c_2018"
-    ],
-    [
-      "One year of C (2018)",
-      "https://floooh.github.io/2018/06/02/one-year-of-c.html"
-    ]
-  ],
-  [
-    [
       "2024-04-30, 02:50:09",
       "https://lobste.rs/s/nkkahc/save_web_by_being_nice"
     ],
     [
       "Save the Web by Being Nice",
       "https://sheep.horse/2024/4/save_the_web_by_being_nice.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 02:47:31",
-      "https://lobste.rs/s/g2tl3w/why_sqlite_uses_bytecode"
-    ],
-    [
-      "Why SQLite Uses Bytecode",
-      "https://sqlite.org/draft/whybytecode.html"
     ]
   ],
   [
