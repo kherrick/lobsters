@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-01, 19:50:44",
+      "https://lobste.rs/s/rbvpeg/tropical_rb_2024_talks"
+    ],
+    [
+      "Tropical.rb 2024 - Talks",
+      "https://www.youtube.com/playlist?list=PLvOWTr3oa1dVFAtodH31zjwdue2QH7wdd"
+    ]
+  ],
+  [
+    [
       "2024-05-01, 19:13:55",
       "https://lobste.rs/s/fgrffn/docker_without_dockerfile_build_ruby_on"
     ],
@@ -237,16 +247,6 @@
     [
       "How an empty S3 bucket can make your AWS bill explode",
       "https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1"
-    ]
-  ],
-  [
-    [
-      "2024-04-29, 13:20:27",
-      "https://lobste.rs/s/upufua/no_web_without_women"
-    ],
-    [
-      "No Web Without Women",
-      "https://nowebwithoutwomen.com/"
     ]
   ]
 ]
