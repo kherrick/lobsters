@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
+* [2024-05-01, 10:41:05](https://lobste.rs/s/bq044j/brief_history_web_development_why_your) - [A brief history of web development. And why your framework doesn't matter](https://gebna.gg/blog/brief-history-of-web-development)
 * [2024-05-01, 08:48:06](https://lobste.rs/s/ddnky3/book_alice_s_adventures_differentiable) - [Book: Alice’s Adventures in a differentiable wonderland](https://www.sscardapane.it/alice-book)
 * [2024-05-01, 03:15:55](https://lobste.rs/s/ndumlb/how_install_linux_from_windows_installer) - [How to install Linux from a Windows installer](https://prose.nsood.in/linux-from-windows-installer)
 * [2024-05-01, 01:35:44](https://lobste.rs/s/lfkjat/nixos_foundation_board_giving_power) - [NixOS Foundation board: Giving power to the community](https://discourse.nixos.org/t/nixos-foundation-board-giving-power-to-the-community/44552)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-01, 10:41:05](https://lobste.rs/s/bq044j/brief_history_web_development_why_your) - [A brief history of web development. And why your framework doesn't matter](https://gebna.gg/blog/brief-history-of-web-development)
 * [2024-05-01, 08:48:06](https://lobste.rs/s/ddnky3/book_alice_s_adventures_differentiable) - [Book: Alice’s Adventures in a differentiable wonderland](https://www.sscardapane.it/alice-book)
 * [2024-05-01, 03:15:55](https://lobste.rs/s/ndumlb/how_install_linux_from_windows_installer) - [How to install Linux from a Windows installer](https://prose.nsood.in/linux-from-windows-installer)
 * [2024-05-01, 00:54:08](https://lobste.rs/s/nzuz0b/co_dfns_high_performance_reliable) - [Co-dfns: High-performance, Reliable, and Parallel APL](https://github.com/Co-dfns/Co-dfns)
@@ -21,7 +22,6 @@
 * [2024-04-29, 21:24:02](https://lobste.rs/s/begq97/highlights_from_git_2_45) - [Highlights from Git 2.45](https://github.blog/2024-04-29-highlights-from-git-2-45/)
 * [2024-04-29, 21:18:23](https://lobste.rs/s/f6d5ai/powershell_object_oriented_shell_you) - [PowerShell: the object-oriented shell you didn’t know you needed](https://chriswarrick.com/blog/2024/04/29/powershell-the-object-oriented-shell-you-didnt-know-you-needed/)
 * [2024-04-29, 19:46:23](https://lobste.rs/s/mmgwag/fsf_be_deposed_sfc_v_vizio_updates) - [FSF to be deposed in SFC v Vizio, updates relevant FAQ entry](https://www.fsf.org/news/fsf-to-be-deposed-in-sfc-v-vizio-updates-relevant-faq-entry)
-* [2024-04-29, 14:11:06](https://lobste.rs/s/4pr2za/so_you_want_write_unsafe_crate) - [So, you want to write an unsafe crate](https://blog.dureuill.net/articles/nolife-0-4/)
 * [2024-04-29, 13:35:58](https://lobste.rs/s/6ppheg/fend_arbitrary_precision_unit_aware) - [fend - an arbitrary-precision unit-aware calculator](https://printfn.github.io/fend/)
 * [2024-04-29, 13:20:27](https://lobste.rs/s/upufua/no_web_without_women) - [No Web Without Women](https://nowebwithoutwomen.com/)
 * [2024-04-29, 11:46:09](https://lobste.rs/s/i8gyah/functional_semantics_imperative) - [Functional Semantics in Imperative Clothing](https://rtfeldman.com/imperative-clothing)
