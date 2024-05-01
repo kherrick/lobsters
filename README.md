@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-01, 17:11:55](https://lobste.rs/s/48dgoo/tootik_federated_nanoblogging_service) - [tootik: A federated nanoblogging service with a Gemini frontend](https://github.com/dimkr/tootik)
 * [2024-05-01, 16:45:57](https://lobste.rs/s/fy551x/thoughts_on_zig) - [Thoughts on Zig](https://arne.me/blog/thoughts-on-zig)
 * [2024-05-01, 16:31:53](https://lobste.rs/s/zlcfpy/mojo_lang_tomorrow_s_high_performance) - [Mojo Lang - Tomorrow's High Performance Python? (with Chris Lattner)](https://youtu.be/JRcXUuQYR90)
 * [2024-05-01, 16:31:39](https://lobste.rs/s/d2vpok/go_microsoft_build_go_toolset) - [go: The Microsoft build of the Go toolset](https://github.com/microsoft/go)
@@ -20,7 +21,6 @@
 * [2024-04-30, 14:18:47](https://lobste.rs/s/wy4jd4/bytecode_vms_surprising_places) - [Bytecode VMs in surprising places](https://dubroy.com/blog/bytecode-vms-in-surprising-places/)
 * [2024-04-30, 08:55:04](https://lobste.rs/s/snkmau/llamafile_s_progress_four_months) - [Llamafile’s progress, four months in](https://hacks.mozilla.org/2024/04/llamafiles-progress-four-months-in/)
 * [2024-04-30, 06:51:34](https://lobste.rs/s/0bzjlj/one_year_c_2018) - [One year of C (2018)](https://floooh.github.io/2018/06/02/one-year-of-c.html)
-* [2024-04-30, 06:04:51](https://lobste.rs/s/po4hzc/i_interviewed_uncle_bob) - [I Interviewed Uncle Bob](https://www.youtube.com/watch?v=UBXXw2JSloo)
 * [2024-04-30, 02:50:09](https://lobste.rs/s/nkkahc/save_web_by_being_nice) - [Save the Web by Being Nice](https://sheep.horse/2024/4/save_the_web_by_being_nice.html)
 * [2024-04-30, 02:47:31](https://lobste.rs/s/g2tl3w/why_sqlite_uses_bytecode) - [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html)
 * [2024-04-29, 22:57:09](https://lobste.rs/s/cy9i87/how_empty_s3_bucket_can_make_your_aws_bill) - [How an empty S3 bucket can make your AWS bill explode](https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1)
