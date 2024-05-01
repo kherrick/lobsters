@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-01, 19:50:44](https://lobste.rs/s/rbvpeg/tropical_rb_2024_talks) - [Tropical.rb 2024 - Talks](https://www.youtube.com/playlist?list=PLvOWTr3oa1dVFAtodH31zjwdue2QH7wdd)
 * [2024-05-01, 19:13:55](https://lobste.rs/s/fgrffn/docker_without_dockerfile_build_ruby_on) - [Docker without Dockerfile: Build a Ruby on Rails application image in 5 minutes with Cloud Native Buildpacks (CNB)](https://www.schneems.com/2024/05/01/build-a-ruby-on-rails-application-image-in-5-minutes-no-dockerfile-required/)
 * [2024-05-01, 19:02:40](https://lobste.rs/s/vvutb8/box_is_unique_type) - [Box Is a Unique Type](https://blog.nilstrieb.dev/posts/box-is-a-unique-type/)
 * [2024-05-01, 17:11:55](https://lobste.rs/s/48dgoo/tootik_federated_nanoblogging_service) - [tootik: A federated nanoblogging service with a Gemini frontend](https://github.com/dimkr/tootik)
@@ -24,7 +25,6 @@
 * [2024-04-30, 02:50:09](https://lobste.rs/s/nkkahc/save_web_by_being_nice) - [Save the Web by Being Nice](https://sheep.horse/2024/4/save_the_web_by_being_nice.html)
 * [2024-04-30, 02:47:31](https://lobste.rs/s/g2tl3w/why_sqlite_uses_bytecode) - [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html)
 * [2024-04-29, 22:57:09](https://lobste.rs/s/cy9i87/how_empty_s3_bucket_can_make_your_aws_bill) - [How an empty S3 bucket can make your AWS bill explode](https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1)
-* [2024-04-29, 13:20:27](https://lobste.rs/s/upufua/no_web_without_women) - [No Web Without Women](https://nowebwithoutwomen.com/)
 
 ## [Archives](archives/index.md)
 
