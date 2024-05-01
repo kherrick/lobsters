@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
+* [2024-05-01, 21:39:30](https://lobste.rs/s/fkcjmw/go_module_bloat) - [go module bloat](https://flak.tedunangst.com/post/go-module-bloat)
+* [2024-05-01, 21:38:01](https://lobste.rs/s/qspf5m/ansible_is_lisp) - [Ansible is a Lisp](https://astrid.tech/2024/05/01/0/ansible-is-a-lisp)
 * [2024-05-01, 19:50:44](https://lobste.rs/s/rbvpeg/tropical_rb_2024_talks) - [Tropical.rb 2024 - Talks](https://www.youtube.com/playlist?list=PLvOWTr3oa1dVFAtodH31zjwdue2QH7wdd)
 * [2024-05-01, 19:13:55](https://lobste.rs/s/fgrffn/docker_without_dockerfile_build_ruby_on) - [Docker without Dockerfile: Build a Ruby on Rails application image in 5 minutes with Cloud Native Buildpacks (CNB)](https://www.schneems.com/2024/05/01/build-a-ruby-on-rails-application-image-in-5-minutes-no-dockerfile-required/)
 * [2024-05-01, 19:02:40](https://lobste.rs/s/vvutb8/box_is_unique_type) - [Box Is a Unique Type](https://blog.nilstrieb.dev/posts/box-is-a-unique-type/)
