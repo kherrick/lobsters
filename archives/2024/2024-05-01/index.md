@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
+* [2024-05-01, 16:31:53](https://lobste.rs/s/zlcfpy/mojo_lang_tomorrow_s_high_performance) - [Mojo Lang - Tomorrow's High Performance Python? (with Chris Lattner)](https://youtu.be/JRcXUuQYR90)
+* [2024-05-01, 16:31:39](https://lobste.rs/s/d2vpok/go_microsoft_build_go_toolset) - [go: The Microsoft build of the Go toolset](https://github.com/microsoft/go)
+* [2024-05-01, 16:28:03](https://lobste.rs/s/hoy4cg/evolving_go_standard_library_with_math) - [Evolving the Go Standard Library with math/rand/v2](https://go.dev/blog/randv2)
 * [2024-05-01, 15:39:58](https://lobste.rs/s/sybjni/how_could_windows_settings_affect_linux) - [How could Windows settings affect Linux network interfaces?](https://askubuntu.com/a/1470080/728673)
 * [2024-05-01, 15:03:33](https://lobste.rs/s/etg8st/software_friction) - [Software Friction](https://www.hillelwayne.com/post/software-friction/)
 * [2024-05-01, 12:01:39](https://lobste.rs/s/sgarpt/please_don_t_share_our_links_on_mastodon) - [Please Don’t Share Our Links on Mastodon](https://news.itsfoss.com/mastodon-link-problem/)
