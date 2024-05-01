@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-01, 19:02:40](https://lobste.rs/s/vvutb8/box_is_unique_type) - [Box Is a Unique Type](https://blog.nilstrieb.dev/posts/box-is-a-unique-type/)
 * [2024-05-01, 17:11:55](https://lobste.rs/s/48dgoo/tootik_federated_nanoblogging_service) - [tootik: A federated nanoblogging service with a Gemini frontend](https://github.com/dimkr/tootik)
 * [2024-05-01, 16:45:57](https://lobste.rs/s/fy551x/thoughts_on_zig) - [Thoughts on Zig](https://arne.me/blog/thoughts-on-zig)
 * [2024-05-01, 16:31:53](https://lobste.rs/s/zlcfpy/mojo_lang_tomorrow_s_high_performance) - [Mojo Lang - Tomorrow's High Performance Python? (with Chris Lattner)](https://youtu.be/JRcXUuQYR90)
@@ -15,7 +16,6 @@
 * [2024-05-01, 00:46:24](https://lobste.rs/s/5vlmvc/7_css_design_system_for_building_faithful) - [7.css: A design system for building faithful recreations of old UIs](https://khang-nd.github.io/7.css/)
 * [2024-04-30, 22:41:04](https://lobste.rs/s/dr6unc/dream_html_render_html_svg_mathml_htmx) - [dream-html - render HTML, SVG, MathML, htmx markup from OCaml](https://github.com/yawaramin/dream-html)
 * [2024-04-30, 21:40:54](https://lobste.rs/s/tuan7i/go_generics_use_structs_for_generic) - [Go Generics: Use Structs for Generic Arguments Lists](https://www.emoses.org/posts/reusable-patterns-in-go/)
-* [2024-04-30, 19:59:58](https://lobste.rs/s/crimha/spigot_command_line_exact_real) - [spigot: a command-line exact real calculator](https://www.chiark.greenend.org.uk/~sgtatham/spigot/)
 * [2024-04-30, 19:05:39](https://lobste.rs/s/umijeb/run0) - [run0](https://www.freedesktop.org/software/systemd/man/devel/run0.html)
 * [2024-04-30, 16:24:59](https://lobste.rs/s/3fk0hl/borgo_is_new_programming_language) - [Borgo is a new programming language that compiles to Go](https://borgo-lang.github.io/)
 * [2024-04-30, 14:18:47](https://lobste.rs/s/wy4jd4/bytecode_vms_surprising_places) - [Bytecode VMs in surprising places](https://dubroy.com/blog/bytecode-vms-in-surprising-places/)
