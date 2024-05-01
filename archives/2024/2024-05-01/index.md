@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
+* [2024-05-01, 16:45:57](https://lobste.rs/s/fy551x/thoughts_on_zig) - [Thoughts on Zig](https://arne.me/blog/thoughts-on-zig)
 * [2024-05-01, 16:31:53](https://lobste.rs/s/zlcfpy/mojo_lang_tomorrow_s_high_performance) - [Mojo Lang - Tomorrow's High Performance Python? (with Chris Lattner)](https://youtu.be/JRcXUuQYR90)
 * [2024-05-01, 16:31:39](https://lobste.rs/s/d2vpok/go_microsoft_build_go_toolset) - [go: The Microsoft build of the Go toolset](https://github.com/microsoft/go)
 * [2024-05-01, 16:28:03](https://lobste.rs/s/hoy4cg/evolving_go_standard_library_with_math) - [Evolving the Go Standard Library with math/rand/v2](https://go.dev/blog/randv2)
