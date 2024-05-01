@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
+* [2024-05-01, 15:03:33](https://lobste.rs/s/etg8st/software_friction) - [Software Friction](https://www.hillelwayne.com/post/software-friction/)
 * [2024-05-01, 12:01:39](https://lobste.rs/s/sgarpt/please_don_t_share_our_links_on_mastodon) - [Please Don’t Share Our Links on Mastodon](https://news.itsfoss.com/mastodon-link-problem/)
 * [2024-05-01, 10:41:05](https://lobste.rs/s/bq044j/brief_history_web_development_why_your) - [A brief history of web development. And why your framework doesn't matter](https://gebna.gg/blog/brief-history-of-web-development)
 * [2024-05-01, 08:48:06](https://lobste.rs/s/ddnky3/book_alice_s_adventures_differentiable) - [Book: Alice’s Adventures in a differentiable wonderland](https://www.sscardapane.it/alice-book)
