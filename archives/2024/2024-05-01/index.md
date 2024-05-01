@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-01](index.md)
 
+* [2024-05-01, 22:09:45](https://lobste.rs/s/72sp5w/stealing_your_telegram_account_10) - [Stealing your Telegram account in 10 seconds flat](https://lyra.horse/blog/2024/05/stealing-your-telegram-account-in-10-seconds-flat/)
 * [2024-05-01, 21:39:30](https://lobste.rs/s/fkcjmw/go_module_bloat) - [go module bloat](https://flak.tedunangst.com/post/go-module-bloat)
 * [2024-05-01, 21:38:01](https://lobste.rs/s/qspf5m/ansible_is_lisp) - [Ansible is a Lisp](https://astrid.tech/2024/05/01/0/ansible-is-a-lisp)
 * [2024-05-01, 19:50:44](https://lobste.rs/s/rbvpeg/tropical_rb_2024_talks) - [Tropical.rb 2024 - Talks](https://www.youtube.com/playlist?list=PLvOWTr3oa1dVFAtodH31zjwdue2QH7wdd)

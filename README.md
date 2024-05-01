@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-01, 22:09:45](https://lobste.rs/s/72sp5w/stealing_your_telegram_account_10) - [Stealing your Telegram account in 10 seconds flat](https://lyra.horse/blog/2024/05/stealing-your-telegram-account-in-10-seconds-flat/)
 * [2024-05-01, 21:39:30](https://lobste.rs/s/fkcjmw/go_module_bloat) - [go module bloat](https://flak.tedunangst.com/post/go-module-bloat)
 * [2024-05-01, 21:38:01](https://lobste.rs/s/qspf5m/ansible_is_lisp) - [Ansible is a Lisp](https://astrid.tech/2024/05/01/0/ansible-is-a-lisp)
 * [2024-05-01, 19:50:44](https://lobste.rs/s/rbvpeg/tropical_rb_2024_talks) - [Tropical.rb 2024 - Talks](https://www.youtube.com/playlist?list=PLvOWTr3oa1dVFAtodH31zjwdue2QH7wdd)
@@ -14,7 +15,6 @@
 * [2024-05-01, 15:03:33](https://lobste.rs/s/etg8st/software_friction) - [Software Friction](https://www.hillelwayne.com/post/software-friction/)
 * [2024-05-01, 12:01:39](https://lobste.rs/s/sgarpt/please_don_t_share_our_links_on_mastodon) - [Please Don’t Share Our Links on Mastodon](https://news.itsfoss.com/mastodon-link-problem/)
 * [2024-05-01, 10:41:05](https://lobste.rs/s/bq044j/brief_history_web_development_why_your) - [A brief history of web development. And why your framework doesn't matter](https://gebna.gg/blog/brief-history-of-web-development)
-* [2024-05-01, 08:48:06](https://lobste.rs/s/ddnky3/book_alice_s_adventures_differentiable) - [Book: Alice’s Adventures in a differentiable wonderland](https://www.sscardapane.it/alice-book)
 * [2024-05-01, 03:15:55](https://lobste.rs/s/ndumlb/how_install_linux_from_windows_installer) - [How to install Linux from a Windows installer](https://prose.nsood.in/linux-from-windows-installer)
 * [2024-05-01, 00:54:08](https://lobste.rs/s/nzuz0b/co_dfns_high_performance_reliable) - [Co-dfns: High-performance, Reliable, and Parallel APL](https://github.com/Co-dfns/Co-dfns)
 * [2024-05-01, 00:46:24](https://lobste.rs/s/5vlmvc/7_css_design_system_for_building_faithful) - [7.css: A design system for building faithful recreations of old UIs](https://khang-nd.github.io/7.css/)
