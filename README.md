@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-05-01, 01:35:44](https://lobste.rs/s/lfkjat/nixos_foundation_board_giving_power) - [NixOS Foundation board: Giving power to the community](https://discourse.nixos.org/t/nixos-foundation-board-giving-power-to-the-community/44552)
 * [2024-05-01, 00:54:08](https://lobste.rs/s/nzuz0b/co_dfns_high_performance_reliable) - [Co-dfns: High-performance, Reliable, and Parallel APL](https://github.com/Co-dfns/Co-dfns)
 * [2024-05-01, 00:46:24](https://lobste.rs/s/5vlmvc/7_css_design_system_for_building_faithful) - [7.css: A design system for building faithful recreations of old UIs](https://khang-nd.github.io/7.css/)
 * [2024-04-30, 22:41:04](https://lobste.rs/s/dr6unc/dream_html_render_html_svg_mathml_htmx) - [dream-html - render HTML, SVG, MathML, htmx markup from OCaml](https://github.com/yawaramin/dream-html)
@@ -17,9 +16,10 @@
 * [2024-04-30, 02:50:09](https://lobste.rs/s/nkkahc/save_web_by_being_nice) - [Save the Web by Being Nice](https://sheep.horse/2024/4/save_the_web_by_being_nice.html)
 * [2024-04-30, 02:47:31](https://lobste.rs/s/g2tl3w/why_sqlite_uses_bytecode) - [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html)
 * [2024-04-29, 22:57:09](https://lobste.rs/s/cy9i87/how_empty_s3_bucket_can_make_your_aws_bill) - [How an empty S3 bucket can make your AWS bill explode](https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1)
+* [2024-04-29, 21:24:02](https://lobste.rs/s/begq97/highlights_from_git_2_45) - [Highlights from Git 2.45](https://github.blog/2024-04-29-highlights-from-git-2-45/)
 * [2024-04-29, 21:18:23](https://lobste.rs/s/f6d5ai/powershell_object_oriented_shell_you) - [PowerShell: the object-oriented shell you didn’t know you needed](https://chriswarrick.com/blog/2024/04/29/powershell-the-object-oriented-shell-you-didnt-know-you-needed/)
 * [2024-04-29, 19:46:23](https://lobste.rs/s/mmgwag/fsf_be_deposed_sfc_v_vizio_updates) - [FSF to be deposed in SFC v Vizio, updates relevant FAQ entry](https://www.fsf.org/news/fsf-to-be-deposed-in-sfc-v-vizio-updates-relevant-faq-entry)
-* [2024-04-29, 19:20:59](https://lobste.rs/s/qnmzre/aux_computer_alternative_nix_ecosystem) - [aux.computer: an alternative to the Nix ecosystem](https://aux.computer/)
+* [2024-04-29, 16:37:27](https://lobste.rs/s/fgxwfz/nerves_local_setup) - [Nerves Local Setup](https://wiki.alopex.li/NervesLocalSetup)
 * [2024-04-29, 14:11:06](https://lobste.rs/s/4pr2za/so_you_want_write_unsafe_crate) - [So, you want to write an unsafe crate](https://blog.dureuill.net/articles/nolife-0-4/)
 * [2024-04-29, 13:35:58](https://lobste.rs/s/6ppheg/fend_arbitrary_precision_unit_aware) - [fend - an arbitrary-precision unit-aware calculator](https://printfn.github.io/fend/)
 * [2024-04-29, 13:20:27](https://lobste.rs/s/upufua/no_web_without_women) - [No Web Without Women](https://nowebwithoutwomen.com/)
