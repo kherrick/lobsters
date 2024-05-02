@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-02, 11:13:02](https://lobste.rs/s/jx9fd2/dissecting_lockbit_v3_ransomware) - [Dissecting LockBit v3 ransomware](https://blog.calif.io/p/dissecting-lockbit-v3-ransomware)
 * [2024-05-02, 11:09:53](https://lobste.rs/s/byluci/world_s_loudest_lisp_program) - [The World's Loudest Lisp Program](http://blog.funcall.org//lisp%20psychoacoustics/2024/05/01/worlds-loudest-lisp-program/)
 * [2024-05-02, 10:03:03](https://lobste.rs/s/ud34df/10_elixir_gotchas) - [10 Elixir gotchas](https://pragtob.wordpress.com/2024/05/01/10-elixir-gotchas/)
 * [2024-05-02, 09:52:58](https://lobste.rs/s/uz5ae7/shader_post_processing_hurry) - [Shader post-processing in a hurry](https://30fps.net/pages/post-processing/)
 * [2024-05-02, 09:32:18](https://lobste.rs/s/tr9lkd/delimited_generators_more_natural_api) - [Delimited Generators - A more natural API for JS generators](https://axisofeval.blogspot.com/2024/05/delimited-generators.html)
-* [2024-05-02, 08:57:14](https://lobste.rs/s/j41zml/typespec_api_description_language) - [typespec - API description language that compiles to OpenAPI schema](https://github.com/microsoft/typespec)
 * [2024-05-02, 07:48:14](https://lobste.rs/s/mii0qb/statements_expressions) - [Statements and Expressions](https://funcall.blogspot.com/2024/04/statements-and-expressions.html)
 * [2024-05-02, 07:36:54](https://lobste.rs/s/nlluhq/neovim_vs_code) - [Neovim to VS Code](https://didoesdigital.com/blog/neovim-to-vs-code/)
 * [2024-05-02, 07:11:26](https://lobste.rs/s/6tz1oq/hacking_on_postgresql_is_really_hard) - [Hacking on PostgreSQL is really hard](https://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html)
