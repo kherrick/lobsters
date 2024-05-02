@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-02, 08:57:14](https://lobste.rs/s/j41zml/typespec_api_description_language) - [typespec - API description language that compiles to OpenAPI schema](https://github.com/microsoft/typespec)
 * [2024-05-02, 07:48:14](https://lobste.rs/s/mii0qb/statements_expressions) - [Statements and Expressions](https://funcall.blogspot.com/2024/04/statements-and-expressions.html)
 * [2024-05-02, 07:36:54](https://lobste.rs/s/nlluhq/neovim_vs_code) - [Neovim to VS Code](https://didoesdigital.com/blog/neovim-to-vs-code/)
 * [2024-05-02, 07:11:26](https://lobste.rs/s/6tz1oq/hacking_on_postgresql_is_really_hard) - [Hacking on PostgreSQL is really hard](https://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html)
@@ -22,7 +23,6 @@
 * [2024-05-01, 15:03:33](https://lobste.rs/s/etg8st/software_friction) - [Software Friction](https://www.hillelwayne.com/post/software-friction/)
 * [2024-05-01, 12:01:39](https://lobste.rs/s/sgarpt/please_don_t_share_our_links_on_mastodon) - [Please Don’t Share Our Links on Mastodon](https://news.itsfoss.com/mastodon-link-problem/)
 * [2024-05-01, 10:41:05](https://lobste.rs/s/bq044j/brief_history_web_development_why_your) - [A brief history of web development. And why your framework doesn't matter](https://gebna.gg/blog/brief-history-of-web-development)
-* [2024-05-01, 00:46:24](https://lobste.rs/s/5vlmvc/7_css_design_system_for_building_faithful) - [7.css: A design system for building faithful recreations of old UIs](https://khang-nd.github.io/7.css/)
 * [2024-04-30, 19:05:39](https://lobste.rs/s/umijeb/run0) - [run0](https://www.freedesktop.org/software/systemd/man/devel/run0.html)
 * [2024-04-30, 16:24:59](https://lobste.rs/s/3fk0hl/borgo_is_new_programming_language) - [Borgo is a new programming language that compiles to Go](https://borgo-lang.github.io/)
 

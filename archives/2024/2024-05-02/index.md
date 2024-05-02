@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
+* [2024-05-02, 08:57:14](https://lobste.rs/s/j41zml/typespec_api_description_language) - [typespec - API description language that compiles to OpenAPI schema](https://github.com/microsoft/typespec)
 * [2024-05-02, 07:48:14](https://lobste.rs/s/mii0qb/statements_expressions) - [Statements and Expressions](https://funcall.blogspot.com/2024/04/statements-and-expressions.html)
 * [2024-05-02, 07:36:54](https://lobste.rs/s/nlluhq/neovim_vs_code) - [Neovim to VS Code](https://didoesdigital.com/blog/neovim-to-vs-code/)
 * [2024-05-02, 07:11:26](https://lobste.rs/s/6tz1oq/hacking_on_postgresql_is_really_hard) - [Hacking on PostgreSQL is really hard](https://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html)
