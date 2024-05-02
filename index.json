@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-05-02, 15:00:54",
-      "https://lobste.rs/s/ywfizh/offset_allocator_port_sebastian"
+      "2024-05-02, 15:23:33",
+      "https://lobste.rs/s/lerdcs/noncopyable_standard_library"
     ],
     [
-      "offset-allocator: A port of Sebastian Aaltonen's `OffsetAllocator` to Rust",
-      "https://github.com/pcwalton/offset-allocator"
+      "Noncopyable Standard Library Primitives",
+      "https://forums.swift.org/t/pitch-noncopyable-standard-library-primitives/71566"
     ]
   ],
   [
