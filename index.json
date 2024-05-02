@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-02, 13:54:26",
+      "https://lobste.rs/s/7arjaf/tale_timescaledb_sqlx_testing_rust"
+    ],
+    [
+      "A tale of TimescaleDB, SQLx and testing in Rust",
+      "https://blog.exein.io/sqlx_testing-blog-post-by-bogdan/"
+    ]
+  ],
+  [
+    [
       "2024-05-02, 13:30:26",
       "https://lobste.rs/s/ljlmid/life_times_abstract_syntax_tree"
     ],
@@ -237,16 +247,6 @@
     [
       "run0",
       "https://www.freedesktop.org/software/systemd/man/devel/run0.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 16:24:59",
-      "https://lobste.rs/s/3fk0hl/borgo_is_new_programming_language"
-    ],
-    [
-      "Borgo is a new programming language that compiles to Go",
-      "https://borgo-lang.github.io/"
     ]
   ]
 ]
