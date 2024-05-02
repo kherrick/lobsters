@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-02, 09:32:18](https://lobste.rs/s/tr9lkd/delimited_generators_more_natural_api) - [Delimited Generators - A more natural API for JS generators](https://axisofeval.blogspot.com/2024/05/delimited-generators.html)
 * [2024-05-02, 08:57:14](https://lobste.rs/s/j41zml/typespec_api_description_language) - [typespec - API description language that compiles to OpenAPI schema](https://github.com/microsoft/typespec)
 * [2024-05-02, 07:48:14](https://lobste.rs/s/mii0qb/statements_expressions) - [Statements and Expressions](https://funcall.blogspot.com/2024/04/statements-and-expressions.html)
 * [2024-05-02, 07:36:54](https://lobste.rs/s/nlluhq/neovim_vs_code) - [Neovim to VS Code](https://didoesdigital.com/blog/neovim-to-vs-code/)
@@ -19,7 +20,6 @@
 * [2024-05-01, 16:31:53](https://lobste.rs/s/zlcfpy/mojo_lang_tomorrow_s_high_performance) - [Mojo Lang - Tomorrow's High Performance Python? (with Chris Lattner)](https://youtu.be/JRcXUuQYR90)
 * [2024-05-01, 16:31:39](https://lobste.rs/s/d2vpok/go_microsoft_build_go_toolset) - [go: The Microsoft build of the Go toolset](https://github.com/microsoft/go)
 * [2024-05-01, 16:28:03](https://lobste.rs/s/hoy4cg/evolving_go_standard_library_with_math) - [Evolving the Go Standard Library with math/rand/v2](https://go.dev/blog/randv2)
-* [2024-05-01, 15:39:58](https://lobste.rs/s/sybjni/how_could_windows_settings_affect_linux) - [How could Windows settings affect Linux network interfaces?](https://askubuntu.com/a/1470080/728673)
 * [2024-05-01, 15:03:33](https://lobste.rs/s/etg8st/software_friction) - [Software Friction](https://www.hillelwayne.com/post/software-friction/)
 * [2024-05-01, 12:01:39](https://lobste.rs/s/sgarpt/please_don_t_share_our_links_on_mastodon) - [Please Don’t Share Our Links on Mastodon](https://news.itsfoss.com/mastodon-link-problem/)
 * [2024-05-01, 10:41:05](https://lobste.rs/s/bq044j/brief_history_web_development_why_your) - [A brief history of web development. And why your framework doesn't matter](https://gebna.gg/blog/brief-history-of-web-development)
