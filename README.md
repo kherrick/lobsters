@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-02, 02:04:54](https://lobste.rs/s/qt85ic/why_i_run_bsd_on_pc) - [Why I Run BSD on PC](https://michal.sapka.me/bsd/why-bsd/)
 * [2024-05-02, 00:54:53](https://lobste.rs/s/nyexyp/paperwm_spoon_tiled_scrollable_window) - [PaperWM.spoon: Tiled Scrollable Window Manager for MacOS in Lua](https://github.com/mogenson/PaperWM.spoon)
 * [2024-05-01, 22:09:45](https://lobste.rs/s/72sp5w/stealing_your_telegram_account_10) - [Stealing your Telegram account in 10 seconds flat](https://lyra.horse/blog/2024/05/stealing-your-telegram-account-in-10-seconds-flat/)
 * [2024-05-01, 21:39:30](https://lobste.rs/s/fkcjmw/go_module_bloat) - [go module bloat](https://flak.tedunangst.com/post/go-module-bloat)
@@ -23,7 +24,6 @@
 * [2024-04-30, 21:40:54](https://lobste.rs/s/tuan7i/go_generics_use_structs_for_generic) - [Go Generics: Use Structs for Generic Arguments Lists](https://www.emoses.org/posts/reusable-patterns-in-go/)
 * [2024-04-30, 19:05:39](https://lobste.rs/s/umijeb/run0) - [run0](https://www.freedesktop.org/software/systemd/man/devel/run0.html)
 * [2024-04-30, 16:24:59](https://lobste.rs/s/3fk0hl/borgo_is_new_programming_language) - [Borgo is a new programming language that compiles to Go](https://borgo-lang.github.io/)
-* [2024-04-30, 14:18:47](https://lobste.rs/s/wy4jd4/bytecode_vms_surprising_places) - [Bytecode VMs in surprising places](https://dubroy.com/blog/bytecode-vms-in-surprising-places/)
 * [2024-04-30, 02:50:09](https://lobste.rs/s/nkkahc/save_web_by_being_nice) - [Save the Web by Being Nice](https://sheep.horse/2024/4/save_the_web_by_being_nice.html)
 
 ## [Archives](archives/index.md)
