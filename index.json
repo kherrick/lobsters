@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-02, 17:00:31",
+      "https://lobste.rs/s/l6julm/making_3d_modeler_c_week"
+    ],
+    [
+      "Making a 3D Modeler, in C, in a Week",
+      "https://danielchasehooper.com/posts/shapeup/"
+    ]
+  ],
+  [
+    [
       "2024-05-02, 16:40:23",
       "https://lobste.rs/s/bjf4uq/having_machine_room_can_mean_having"
     ],
@@ -217,16 +227,6 @@
     [
       "Mojo Lang - Tomorrow's High Performance Python? (with Chris Lattner)",
       "https://youtu.be/JRcXUuQYR90"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 16:28:03",
-      "https://lobste.rs/s/hoy4cg/evolving_go_standard_library_with_math"
-    ],
-    [
-      "Evolving the Go Standard Library with math/rand/v2",
-      "https://go.dev/blog/randv2"
     ]
   ],
   [
