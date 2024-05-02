@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-02, 06:34:14](https://lobste.rs/s/e8yju0/tracking_wins) - [Tracking the Wins](https://sudorandom.dev/posts/tracking-the-wins/)
 * [2024-05-02, 06:09:17](https://lobste.rs/s/64s62v/piccolo_stackless_lua_interpreter) - [Piccolo - A stackless lua interpreter](https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/)
 * [2024-05-02, 04:25:12](https://lobste.rs/s/ozdzx7/react_uwu) - [React uwu](https://react.dev/?uwu=true)
 * [2024-05-02, 02:04:54](https://lobste.rs/s/qt85ic/why_i_run_bsd_on_pc) - [Why I Run BSD on PC](https://michal.sapka.me/bsd/why-bsd/)
@@ -20,7 +21,6 @@
 * [2024-05-01, 12:01:39](https://lobste.rs/s/sgarpt/please_don_t_share_our_links_on_mastodon) - [Please Don’t Share Our Links on Mastodon](https://news.itsfoss.com/mastodon-link-problem/)
 * [2024-05-01, 10:41:05](https://lobste.rs/s/bq044j/brief_history_web_development_why_your) - [A brief history of web development. And why your framework doesn't matter](https://gebna.gg/blog/brief-history-of-web-development)
 * [2024-05-01, 03:15:55](https://lobste.rs/s/ndumlb/how_install_linux_from_windows_installer) - [How to install Linux from a Windows installer](https://prose.nsood.in/linux-from-windows-installer)
-* [2024-05-01, 00:54:08](https://lobste.rs/s/nzuz0b/co_dfns_high_performance_reliable) - [Co-dfns: High-performance, Reliable, and Parallel APL](https://github.com/Co-dfns/Co-dfns)
 * [2024-05-01, 00:46:24](https://lobste.rs/s/5vlmvc/7_css_design_system_for_building_faithful) - [7.css: A design system for building faithful recreations of old UIs](https://khang-nd.github.io/7.css/)
 * [2024-04-30, 19:05:39](https://lobste.rs/s/umijeb/run0) - [run0](https://www.freedesktop.org/software/systemd/man/devel/run0.html)
 * [2024-04-30, 16:24:59](https://lobste.rs/s/3fk0hl/borgo_is_new_programming_language) - [Borgo is a new programming language that compiles to Go](https://borgo-lang.github.io/)
