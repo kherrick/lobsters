@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-02, 13:54:26](https://lobste.rs/s/7arjaf/tale_timescaledb_sqlx_testing_rust) - [A tale of TimescaleDB, SQLx and testing in Rust](https://blog.exein.io/sqlx_testing-blog-post-by-bogdan/)
 * [2024-05-02, 13:30:26](https://lobste.rs/s/ljlmid/life_times_abstract_syntax_tree) - [The life and times of an Abstract Syntax Tree](https://blog.trailofbits.com/2024/05/02/the-life-and-times-of-an-abstract-syntax-tree/)
 * [2024-05-02, 13:26:08](https://lobste.rs/s/zxcs7w/announcing_rust_1_78_0) - [Announcing Rust 1.78.0](https://blog.rust-lang.org/2024/05/02/Rust-1.78.0.html)
 * [2024-05-02, 13:25:02](https://lobste.rs/s/jbhlq8/offsetallocator_fast_o_1_offset) - [OffsetAllocator: Fast O(1) offset allocator with minimal fragmentation](https://github.com/sebbbi/OffsetAllocator)
@@ -24,7 +25,6 @@
 * [2024-05-01, 15:03:33](https://lobste.rs/s/etg8st/software_friction) - [Software Friction](https://www.hillelwayne.com/post/software-friction/)
 * [2024-05-01, 12:01:39](https://lobste.rs/s/sgarpt/please_don_t_share_our_links_on_mastodon) - [Please Don’t Share Our Links on Mastodon](https://news.itsfoss.com/mastodon-link-problem/)
 * [2024-04-30, 19:05:39](https://lobste.rs/s/umijeb/run0) - [run0](https://www.freedesktop.org/software/systemd/man/devel/run0.html)
-* [2024-04-30, 16:24:59](https://lobste.rs/s/3fk0hl/borgo_is_new_programming_language) - [Borgo is a new programming language that compiles to Go](https://borgo-lang.github.io/)
 
 ## [Archives](archives/index.md)
 
