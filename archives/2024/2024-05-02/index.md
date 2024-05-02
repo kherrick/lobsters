@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
 * [2024-05-02, 17:00:31](https://lobste.rs/s/l6julm/making_3d_modeler_c_week) - [Making a 3D Modeler, in C, in a Week](https://danielchasehooper.com/posts/shapeup/)
+* [2024-05-02, 16:53:35](https://lobste.rs/s/e6pzfr/unwind_considered_harmful) - [Unwind considered harmful?](https://smallcultfollowing.com/babysteps/blog/2024/05/02/unwind-considered-harmful/)
 * [2024-05-02, 16:40:23](https://lobste.rs/s/bjf4uq/having_machine_room_can_mean_having) - [Having a machine room can mean having things in your machine room](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MachineRoomRaccoon)
 * [2024-05-02, 16:34:04](https://lobste.rs/s/5ur53w/inventing_on_principle_2012) - [Inventing on Principle (2012)](https://vimeo.com/906418692)
 * [2024-05-02, 15:23:33](https://lobste.rs/s/lerdcs/noncopyable_standard_library) - [Noncopyable Standard Library Primitives](https://gist.github.com/lorentey/152d3e60cd356951b24205b5d0f5e6c3)
