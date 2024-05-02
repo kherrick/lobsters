@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-02, 09:32:18",
+      "https://lobste.rs/s/tr9lkd/delimited_generators_more_natural_api"
+    ],
+    [
+      "Delimited Generators - A more natural API for JS generators",
+      "https://axisofeval.blogspot.com/2024/05/delimited-generators.html"
+    ]
+  ],
+  [
+    [
       "2024-05-02, 08:57:14",
       "https://lobste.rs/s/j41zml/typespec_api_description_language"
     ],
@@ -187,16 +197,6 @@
     [
       "Evolving the Go Standard Library with math/rand/v2",
       "https://go.dev/blog/randv2"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 15:39:58",
-      "https://lobste.rs/s/sybjni/how_could_windows_settings_affect_linux"
-    ],
-    [
-      "How could Windows settings affect Linux network interfaces?",
-      "https://askubuntu.com/a/1470080/728673"
     ]
   ],
   [
