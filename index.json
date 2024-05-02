@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-05-02, 17:30:57",
+      "https://lobste.rs/s/7plgdw/secure_randomness_go_1_22"
+    ],
+    [
+      "Secure Randomness in Go 1.22",
+      "https://go.dev/blog/chacha8rand"
+    ]
+  ],
+  [
+    [
       "2024-05-02, 17:00:31",
       "https://lobste.rs/s/l6julm/making_3d_modeler_c_week"
     ],
@@ -227,16 +237,6 @@
     [
       "Thoughts on Zig",
       "https://arne.me/blog/thoughts-on-zig"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 15:03:33",
-      "https://lobste.rs/s/etg8st/software_friction"
-    ],
-    [
-      "Software Friction",
-      "https://www.hillelwayne.com/post/software-friction/"
     ]
   ],
   [
