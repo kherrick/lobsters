@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-02, 20:54:29](https://lobste.rs/s/icexso/ecdh_based_oblivious_message_retrieval) - [ECDH based Oblivious Message Retrieval](https://codeberg.org/reach/reach/src/branch/main/common/ecdh-omr)
 * [2024-05-02, 18:15:04](https://lobste.rs/s/0ky0pe/acme_dns_limited_dns_server_with_restful) - [acme-dns: Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely](https://github.com/joohoi/acme-dns)
 * [2024-05-02, 17:30:57](https://lobste.rs/s/7plgdw/secure_randomness_go_1_22) - [Secure Randomness in Go 1.22](https://go.dev/blog/chacha8rand)
 * [2024-05-02, 17:00:31](https://lobste.rs/s/l6julm/making_3d_modeler_c_week) - [Making a 3D Modeler, in C, in a Week](https://danielchasehooper.com/posts/shapeup/)
@@ -16,7 +17,6 @@
 * [2024-05-02, 09:32:18](https://lobste.rs/s/tr9lkd/delimited_generators_more_natural_api) - [Delimited Generators - A more natural API for JS generators](https://axisofeval.blogspot.com/2024/05/delimited-generators.html)
 * [2024-05-02, 07:36:54](https://lobste.rs/s/nlluhq/neovim_vs_code) - [Neovim to VS Code](https://didoesdigital.com/blog/neovim-to-vs-code/)
 * [2024-05-02, 07:11:26](https://lobste.rs/s/6tz1oq/hacking_on_postgresql_is_really_hard) - [Hacking on PostgreSQL is really hard](https://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html)
-* [2024-05-02, 06:58:36](https://lobste.rs/s/ecsduy/cognition_anti_syntax_stack_based) - [Cognition: An anti-syntax stack-based esoteric language](https://ret2pop.nullring.xyz/blog/cognition.html)
 * [2024-05-02, 06:09:17](https://lobste.rs/s/64s62v/piccolo_stackless_lua_interpreter) - [Piccolo - A stackless lua interpreter](https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/)
 * [2024-05-02, 02:04:54](https://lobste.rs/s/qt85ic/why_i_run_bsd_on_pc) - [Why I Run BSD on PC](https://michal.sapka.me/bsd/why-bsd/)
 * [2024-05-02, 00:54:53](https://lobste.rs/s/nyexyp/paperwm_spoon_tiled_scrollable_window) - [PaperWM.spoon: Tiled Scrollable Window Manager for MacOS in Lua](https://github.com/mogenson/PaperWM.spoon)

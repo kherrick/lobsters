@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
+* [2024-05-02, 20:54:29](https://lobste.rs/s/icexso/ecdh_based_oblivious_message_retrieval) - [ECDH based Oblivious Message Retrieval](https://codeberg.org/reach/reach/src/branch/main/common/ecdh-omr)
 * [2024-05-02, 18:15:04](https://lobste.rs/s/0ky0pe/acme_dns_limited_dns_server_with_restful) - [acme-dns: Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely](https://github.com/joohoi/acme-dns)
 * [2024-05-02, 17:30:57](https://lobste.rs/s/7plgdw/secure_randomness_go_1_22) - [Secure Randomness in Go 1.22](https://go.dev/blog/chacha8rand)
 * [2024-05-02, 17:00:31](https://lobste.rs/s/l6julm/making_3d_modeler_c_week) - [Making a 3D Modeler, in C, in a Week](https://danielchasehooper.com/posts/shapeup/)
