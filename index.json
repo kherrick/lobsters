@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2024-05-02, 15:23:33",
+      "https://lobste.rs/s/lerdcs/noncopyable_standard_library"
+    ],
+    [
+      "Noncopyable Standard Library Primitives",
+      "https://gist.github.com/lorentey/152d3e60cd356951b24205b5d0f5e6c3"
+    ]
+  ],
+  [
+    [
       "2024-05-02, 14:57:51",
       "https://lobste.rs/s/vywon9/simple_builder_api_for_xml_java"
     ],
@@ -207,16 +217,6 @@
     [
       "Stealing your Telegram account in 10 seconds flat",
       "https://lyra.horse/blog/2024/05/stealing-your-telegram-account-in-10-seconds-flat/"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 21:39:30",
-      "https://lobste.rs/s/fkcjmw/go_module_bloat"
-    ],
-    [
-      "go module bloat",
-      "https://flak.tedunangst.com/post/go-module-bloat"
     ]
   ],
   [
