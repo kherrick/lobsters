@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-02, 04:25:12",
+      "https://lobste.rs/s/ozdzx7/react_uwu"
+    ],
+    [
+      "React uwu",
+      "https://react.dev/?uwu=true"
+    ]
+  ],
+  [
+    [
       "2024-05-02, 02:04:54",
       "https://lobste.rs/s/qt85ic/why_i_run_bsd_on_pc"
     ],
@@ -207,16 +217,6 @@
     [
       "dream-html - render HTML, SVG, MathML, htmx markup from OCaml",
       "https://github.com/yawaramin/dream-html"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 21:40:54",
-      "https://lobste.rs/s/tuan7i/go_generics_use_structs_for_generic"
-    ],
-    [
-      "Go Generics: Use Structs for Generic Arguments Lists",
-      "https://www.emoses.org/posts/reusable-patterns-in-go/"
     ]
   ],
   [
