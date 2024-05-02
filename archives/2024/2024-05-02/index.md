@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
+* [2024-05-02, 16:34:04](https://lobste.rs/s/5ur53w/inventing_on_principle_2012) - [Inventing on Principle (2012)](https://vimeo.com/906418692)
 * [2024-05-02, 15:23:33](https://lobste.rs/s/lerdcs/noncopyable_standard_library) - [Noncopyable Standard Library Primitives](https://gist.github.com/lorentey/152d3e60cd356951b24205b5d0f5e6c3)
 * [2024-05-02, 15:23:33](https://lobste.rs/s/lerdcs/noncopyable_standard_library) - [Noncopyable Standard Library Primitives](https://forums.swift.org/t/pitch-noncopyable-standard-library-primitives/71566)
 * [2024-05-02, 15:00:54](https://lobste.rs/s/ywfizh/offset_allocator_port_sebastian) - [offset-allocator: A port of Sebastian Aaltonen's `OffsetAllocator` to Rust](https://github.com/pcwalton/offset-allocator)
