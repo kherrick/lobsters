@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
+* [2024-05-02, 15:00:54](https://lobste.rs/s/ywfizh/offset_allocator_port_sebastian) - [offset-allocator: A port of Sebastian Aaltonen's `OffsetAllocator` to Rust](https://github.com/pcwalton/offset-allocator)
+* [2024-05-02, 14:57:51](https://lobste.rs/s/vywon9/simple_builder_api_for_xml_java) - [Simple Builder API for XML in Java](https://github.com/evolvedbinary/j8xu)
 * [2024-05-02, 13:54:26](https://lobste.rs/s/7arjaf/tale_timescaledb_sqlx_testing_rust) - [A tale of TimescaleDB, SQLx and testing in Rust](https://blog.exein.io/sqlx_testing-blog-post-by-bogdan/)
 * [2024-05-02, 13:30:26](https://lobste.rs/s/ljlmid/life_times_abstract_syntax_tree) - [The life and times of an Abstract Syntax Tree](https://blog.trailofbits.com/2024/05/02/the-life-and-times-of-an-abstract-syntax-tree/)
 * [2024-05-02, 13:26:08](https://lobste.rs/s/zxcs7w/announcing_rust_1_78_0) - [Announcing Rust 1.78.0](https://blog.rust-lang.org/2024/05/02/Rust-1.78.0.html)
