@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-02, 11:09:53](https://lobste.rs/s/byluci/world_s_loudest_lisp_program) - [The World's Loudest Lisp Program](http://blog.funcall.org//lisp%20psychoacoustics/2024/05/01/worlds-loudest-lisp-program/)
 * [2024-05-02, 10:03:03](https://lobste.rs/s/ud34df/10_elixir_gotchas) - [10 Elixir gotchas](https://pragtob.wordpress.com/2024/05/01/10-elixir-gotchas/)
 * [2024-05-02, 09:52:58](https://lobste.rs/s/uz5ae7/shader_post_processing_hurry) - [Shader post-processing in a hurry](https://30fps.net/pages/post-processing/)
 * [2024-05-02, 09:32:18](https://lobste.rs/s/tr9lkd/delimited_generators_more_natural_api) - [Delimited Generators - A more natural API for JS generators](https://axisofeval.blogspot.com/2024/05/delimited-generators.html)
@@ -14,7 +15,6 @@
 * [2024-05-01, 22:09:45](https://lobste.rs/s/72sp5w/stealing_your_telegram_account_10) - [Stealing your Telegram account in 10 seconds flat](https://lyra.horse/blog/2024/05/stealing-your-telegram-account-in-10-seconds-flat/)
 * [2024-05-01, 21:39:30](https://lobste.rs/s/fkcjmw/go_module_bloat) - [go module bloat](https://flak.tedunangst.com/post/go-module-bloat)
 * [2024-05-01, 21:38:01](https://lobste.rs/s/qspf5m/ansible_is_lisp) - [Ansible is a Lisp](https://astrid.tech/2024/05/01/0/ansible-is-a-lisp)
-* [2024-05-01, 19:50:44](https://lobste.rs/s/rbvpeg/tropical_rb_2024_talks) - [Tropical.rb 2024 - Talks](https://www.youtube.com/playlist?list=PLvOWTr3oa1dVFAtodH31zjwdue2QH7wdd)
 * [2024-05-01, 19:13:55](https://lobste.rs/s/fgrffn/docker_without_dockerfile_build_ruby_on) - [Docker without Dockerfile: Build a Ruby on Rails application image in 5 minutes with Cloud Native Buildpacks (CNB)](https://www.schneems.com/2024/05/01/build-a-ruby-on-rails-application-image-in-5-minutes-no-dockerfile-required/)
 * [2024-05-01, 17:11:55](https://lobste.rs/s/48dgoo/tootik_federated_nanoblogging_service) - [tootik: A federated nanoblogging service with a Gemini frontend](https://github.com/dimkr/tootik)
 * [2024-05-01, 16:45:57](https://lobste.rs/s/fy551x/thoughts_on_zig) - [Thoughts on Zig](https://arne.me/blog/thoughts-on-zig)

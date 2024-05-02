@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
+* [2024-05-02, 11:09:53](https://lobste.rs/s/byluci/world_s_loudest_lisp_program) - [The World's Loudest Lisp Program](http://blog.funcall.org//lisp%20psychoacoustics/2024/05/01/worlds-loudest-lisp-program/)
 * [2024-05-02, 10:03:03](https://lobste.rs/s/ud34df/10_elixir_gotchas) - [10 Elixir gotchas](https://pragtob.wordpress.com/2024/05/01/10-elixir-gotchas/)
 * [2024-05-02, 09:52:58](https://lobste.rs/s/uz5ae7/shader_post_processing_hurry) - [Shader post-processing in a hurry](https://30fps.net/pages/post-processing/)
 * [2024-05-02, 09:32:18](https://lobste.rs/s/tr9lkd/delimited_generators_more_natural_api) - [Delimited Generators - A more natural API for JS generators](https://axisofeval.blogspot.com/2024/05/delimited-generators.html)
