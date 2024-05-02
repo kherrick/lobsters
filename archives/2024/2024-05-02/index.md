@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
+* [2024-05-02, 09:52:58](https://lobste.rs/s/uz5ae7/shader_post_processing_hurry) - [Shader post-processing in a hurry](https://30fps.net/pages/post-processing/)
 * [2024-05-02, 09:32:18](https://lobste.rs/s/tr9lkd/delimited_generators_more_natural_api) - [Delimited Generators - A more natural API for JS generators](https://axisofeval.blogspot.com/2024/05/delimited-generators.html)
 * [2024-05-02, 08:57:14](https://lobste.rs/s/j41zml/typespec_api_description_language) - [typespec - API description language that compiles to OpenAPI schema](https://github.com/microsoft/typespec)
 * [2024-05-02, 07:48:14](https://lobste.rs/s/mii0qb/statements_expressions) - [Statements and Expressions](https://funcall.blogspot.com/2024/04/statements-and-expressions.html)
