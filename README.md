@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-05-02, 18:15:04](https://lobste.rs/s/0ky0pe/acme_dns_limited_dns_server_with_restful) - [acme-dns: Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely](https://github.com/joohoi/acme-dns)
+* [2024-05-02, 17:30:57](https://lobste.rs/s/7plgdw/secure_randomness_go_1_22) - [Secure Randomness in Go 1.22](https://go.dev/blog/chacha8rand)
 * [2024-05-02, 17:00:31](https://lobste.rs/s/l6julm/making_3d_modeler_c_week) - [Making a 3D Modeler, in C, in a Week](https://danielchasehooper.com/posts/shapeup/)
 * [2024-05-02, 16:53:35](https://lobste.rs/s/e6pzfr/unwind_considered_harmful) - [Unwind considered harmful?](https://smallcultfollowing.com/babysteps/blog/2024/05/02/unwind-considered-harmful/)
 * [2024-05-02, 16:40:23](https://lobste.rs/s/bjf4uq/having_machine_room_can_mean_having) - [Having a machine room can mean having things in your machine room](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MachineRoomRaccoon)
@@ -23,7 +24,6 @@
 * [2024-05-01, 21:38:01](https://lobste.rs/s/qspf5m/ansible_is_lisp) - [Ansible is a Lisp](https://astrid.tech/2024/05/01/0/ansible-is-a-lisp)
 * [2024-05-01, 19:13:55](https://lobste.rs/s/fgrffn/docker_without_dockerfile_build_ruby_on) - [Docker without Dockerfile: Build a Ruby on Rails application image in 5 minutes with Cloud Native Buildpacks (CNB)](https://www.schneems.com/2024/05/01/build-a-ruby-on-rails-application-image-in-5-minutes-no-dockerfile-required/)
 * [2024-05-01, 16:45:57](https://lobste.rs/s/fy551x/thoughts_on_zig) - [Thoughts on Zig](https://arne.me/blog/thoughts-on-zig)
-* [2024-05-01, 15:03:33](https://lobste.rs/s/etg8st/software_friction) - [Software Friction](https://www.hillelwayne.com/post/software-friction/)
 * [2024-05-01, 12:01:39](https://lobste.rs/s/sgarpt/please_don_t_share_our_links_on_mastodon) - [Please Don’t Share Our Links on Mastodon](https://news.itsfoss.com/mastodon-link-problem/)
 
 ## [Archives](archives/index.md)
