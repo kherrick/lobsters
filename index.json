@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-05-02, 14:57:51",
+      "https://lobste.rs/s/vywon9/simple_builder_api_for_xml_java"
+    ],
+    [
+      "Simple Builder API for XML in Java",
+      "https://github.com/evolvedbinary/j8xu"
+    ]
+  ],
+  [
+    [
       "2024-05-02, 13:30:26",
       "https://lobste.rs/s/ljlmid/life_times_abstract_syntax_tree"
     ],
@@ -217,16 +227,6 @@
     [
       "Ansible is a Lisp",
       "https://astrid.tech/2024/05/01/0/ansible-is-a-lisp"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 19:13:55",
-      "https://lobste.rs/s/fgrffn/docker_without_dockerfile_build_ruby_on"
-    ],
-    [
-      "Docker without Dockerfile: Build a Ruby on Rails application image in 5 minutes with Cloud Native Buildpacks (CNB)",
-      "https://www.schneems.com/2024/05/01/build-a-ruby-on-rails-application-image-in-5-minutes-no-dockerfile-required/"
     ]
   ],
   [
