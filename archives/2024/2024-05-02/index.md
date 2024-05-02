@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
+* [2024-05-02, 13:30:26](https://lobste.rs/s/ljlmid/life_times_abstract_syntax_tree) - [The life and times of an Abstract Syntax Tree](https://blog.trailofbits.com/2024/05/02/the-life-and-times-of-an-abstract-syntax-tree/)
+* [2024-05-02, 13:26:08](https://lobste.rs/s/zxcs7w/announcing_rust_1_78_0) - [Announcing Rust 1.78.0](https://blog.rust-lang.org/2024/05/02/Rust-1.78.0.html)
 * [2024-05-02, 13:25:02](https://lobste.rs/s/jbhlq8/offsetallocator_fast_o_1_offset) - [OffsetAllocator: Fast O(1) offset allocator with minimal fragmentation](https://github.com/sebbbi/OffsetAllocator)
 * [2024-05-02, 12:10:41](https://lobste.rs/s/iykxwu/framework_nixos_communities_join_forces) - [Framework & NixOS Communities Join Forces](https://discourse.nixos.org/t/exciting-partnership-announcement-framework-community-nixos-communities-join-forces/44640?u=asymmetric)
 * [2024-05-02, 11:13:02](https://lobste.rs/s/jx9fd2/dissecting_lockbit_v3_ransomware) - [Dissecting LockBit v3 ransomware](https://blog.calif.io/p/dissecting-lockbit-v3-ransomware)
