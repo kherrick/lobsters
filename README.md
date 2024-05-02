@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-02, 07:36:54](https://lobste.rs/s/nlluhq/neovim_vs_code) - [Neovim to VS Code](https://didoesdigital.com/blog/neovim-to-vs-code/)
 * [2024-05-02, 07:11:26](https://lobste.rs/s/6tz1oq/hacking_on_postgresql_is_really_hard) - [Hacking on PostgreSQL is really hard](https://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html)
 * [2024-05-02, 06:58:36](https://lobste.rs/s/ecsduy/cognition_anti_syntax_stack_based) - [Cognition: An anti-syntax stack-based esoteric language](https://ret2pop.nullring.xyz/blog/cognition.html)
 * [2024-05-02, 06:34:14](https://lobste.rs/s/e8yju0/tracking_wins) - [Tracking the Wins](https://sudorandom.dev/posts/tracking-the-wins/)
@@ -12,7 +13,6 @@
 * [2024-05-01, 21:38:01](https://lobste.rs/s/qspf5m/ansible_is_lisp) - [Ansible is a Lisp](https://astrid.tech/2024/05/01/0/ansible-is-a-lisp)
 * [2024-05-01, 19:50:44](https://lobste.rs/s/rbvpeg/tropical_rb_2024_talks) - [Tropical.rb 2024 - Talks](https://www.youtube.com/playlist?list=PLvOWTr3oa1dVFAtodH31zjwdue2QH7wdd)
 * [2024-05-01, 19:13:55](https://lobste.rs/s/fgrffn/docker_without_dockerfile_build_ruby_on) - [Docker without Dockerfile: Build a Ruby on Rails application image in 5 minutes with Cloud Native Buildpacks (CNB)](https://www.schneems.com/2024/05/01/build-a-ruby-on-rails-application-image-in-5-minutes-no-dockerfile-required/)
-* [2024-05-01, 19:02:40](https://lobste.rs/s/vvutb8/box_is_unique_type) - [Box Is a Unique Type](https://blog.nilstrieb.dev/posts/box-is-a-unique-type/)
 * [2024-05-01, 17:11:55](https://lobste.rs/s/48dgoo/tootik_federated_nanoblogging_service) - [tootik: A federated nanoblogging service with a Gemini frontend](https://github.com/dimkr/tootik)
 * [2024-05-01, 16:45:57](https://lobste.rs/s/fy551x/thoughts_on_zig) - [Thoughts on Zig](https://arne.me/blog/thoughts-on-zig)
 * [2024-05-01, 16:31:53](https://lobste.rs/s/zlcfpy/mojo_lang_tomorrow_s_high_performance) - [Mojo Lang - Tomorrow's High Performance Python? (with Chris Lattner)](https://youtu.be/JRcXUuQYR90)
