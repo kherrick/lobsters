@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-02, 00:54:53",
+      "https://lobste.rs/s/nyexyp/paperwm_spoon_tiled_scrollable_window"
+    ],
+    [
+      "PaperWM.spoon: Tiled Scrollable Window Manager for MacOS in Lua",
+      "https://github.com/mogenson/PaperWM.spoon"
+    ]
+  ],
+  [
+    [
       "2024-05-01, 22:09:45",
       "https://lobste.rs/s/72sp5w/stealing_your_telegram_account_10"
     ],
@@ -237,16 +247,6 @@
     [
       "Save the Web by Being Nice",
       "https://sheep.horse/2024/4/save_the_web_by_being_nice.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-29, 22:57:09",
-      "https://lobste.rs/s/cy9i87/how_empty_s3_bucket_can_make_your_aws_bill"
-    ],
-    [
-      "How an empty S3 bucket can make your AWS bill explode",
-      "https://medium.com/@maciej.pocwierz/how-an-empty-s3-bucket-can-make-your-aws-bill-explode-934a383cb8b1"
     ]
   ]
 ]
