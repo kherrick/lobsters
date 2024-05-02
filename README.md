@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-05-02, 15:23:33](https://lobste.rs/s/lerdcs/noncopyable_standard_library) - [Noncopyable Standard Library Primitives](https://forums.swift.org/t/pitch-noncopyable-standard-library-primitives/71566)
+* [2024-05-02, 15:23:33](https://lobste.rs/s/lerdcs/noncopyable_standard_library) - [Noncopyable Standard Library Primitives](https://gist.github.com/lorentey/152d3e60cd356951b24205b5d0f5e6c3)
 * [2024-05-02, 14:57:51](https://lobste.rs/s/vywon9/simple_builder_api_for_xml_java) - [Simple Builder API for XML in Java](https://github.com/evolvedbinary/j8xu)
 * [2024-05-02, 13:30:26](https://lobste.rs/s/ljlmid/life_times_abstract_syntax_tree) - [The life and times of an Abstract Syntax Tree](https://blog.trailofbits.com/2024/05/02/the-life-and-times-of-an-abstract-syntax-tree/)
 * [2024-05-02, 13:26:08](https://lobste.rs/s/zxcs7w/announcing_rust_1_78_0) - [Announcing Rust 1.78.0](https://blog.rust-lang.org/2024/05/02/Rust-1.78.0.html)
