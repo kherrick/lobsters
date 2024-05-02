@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-02, 12:10:41",
+      "https://lobste.rs/s/iykxwu/framework_nixos_communities_join_forces"
+    ],
+    [
+      "Framework & NixOS Communities Join Forces",
+      "https://discourse.nixos.org/t/exciting-partnership-announcement-framework-community-nixos-communities-join-forces/44640?u=asymmetric"
+    ]
+  ],
+  [
+    [
       "2024-05-02, 11:13:02",
       "https://lobste.rs/s/jx9fd2/dissecting_lockbit_v3_ransomware"
     ],
@@ -157,16 +167,6 @@
     [
       "Docker without Dockerfile: Build a Ruby on Rails application image in 5 minutes with Cloud Native Buildpacks (CNB)",
       "https://www.schneems.com/2024/05/01/build-a-ruby-on-rails-application-image-in-5-minutes-no-dockerfile-required/"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 17:11:55",
-      "https://lobste.rs/s/48dgoo/tootik_federated_nanoblogging_service"
-    ],
-    [
-      "tootik: A federated nanoblogging service with a Gemini frontend",
-      "https://github.com/dimkr/tootik"
     ]
   ],
   [
