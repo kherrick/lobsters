@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-05-03, 17:10:46",
-      "https://lobste.rs/s/q0jn27/sbp_v2_4_0_adds_support_for_star_selectors"
-    ],
-    [
-      "SBP v2.4.0 adds support for star selectors",
-      "https://github.com/okTurtles/sbp-js"
-    ]
-  ],
-  [
-    [
       "2024-05-03, 15:52:44",
       "https://lobste.rs/s/zlfhsx/large_text_compression_benchmark"
     ],
@@ -147,6 +137,16 @@
     [
       "For Fakes Sake - Testing In Go",
       "https://www.zarl.dev/articles/for-fake-sake"
+    ]
+  ],
+  [
+    [
+      "2024-05-02, 20:59:33",
+      "https://lobste.rs/s/fkzupi/drink_me_ab_using_llm_compress_text"
+    ],
+    [
+      "DRINK ME: (Ab)Using a LLM to compress text",
+      "https://o565.com/llm-text-compression/"
     ]
   ],
   [
