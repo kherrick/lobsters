@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-03](index.md)
 
+* [2024-05-03, 15:52:44](https://lobste.rs/s/zlfhsx/large_text_compression_benchmark) - [Large Text Compression Benchmark](http://www.mattmahoney.net/dc/text.html)
 * [2024-05-03, 15:00:57](https://lobste.rs/s/tp1xbn/post_about_refactoring) - [A post about refactoring](https://lobste.rs/s/tp1xbn/post_about_refactoring)
 * [2024-05-03, 13:58:15](https://lobste.rs/s/huqust/mkinitcpio_v39) - [mkinitcpio v39](https://gitlab.archlinux.org/archlinux/mkinitcpio/mkinitcpio/-/releases/v39)
 * [2024-05-03, 13:56:58](https://lobste.rs/s/9mhrkk/proposed_punctuation) - [Proposed Punctuation](https://jonathanzong.github.io/proposed-punctuation/)
