@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-03, 18:03:24](https://lobste.rs/s/xlktns/ux_uuids_unkey) - [The UX of UUIDs | Unkey](https://www.unkey.com/blog/uuid-ux)
 * [2024-05-03, 17:10:46](https://lobste.rs/s/q0jn27/sbp_v2_4_0_adds_support_for_star_selectors) - [SBP v2.4.0 adds support for star selectors](https://github.com/okTurtles/sbp-js)
 * [2024-05-03, 15:52:44](https://lobste.rs/s/zlfhsx/large_text_compression_benchmark) - [Large Text Compression Benchmark](http://www.mattmahoney.net/dc/text.html)
 * [2024-05-03, 15:00:57](https://lobste.rs/s/tp1xbn/post_about_refactoring) - [A post about refactoring](https://lobste.rs/s/tp1xbn/post_about_refactoring)
@@ -24,7 +25,6 @@
 * [2024-05-02, 09:52:58](https://lobste.rs/s/uz5ae7/shader_post_processing_hurry) - [Shader post-processing in a hurry](https://30fps.net/pages/post-processing/)
 * [2024-05-02, 09:32:18](https://lobste.rs/s/tr9lkd/delimited_generators_more_natural_api) - [Delimited Generators - A more natural API for JS generators](https://axisofeval.blogspot.com/2024/05/delimited-generators.html)
 * [2024-05-02, 07:11:26](https://lobste.rs/s/6tz1oq/hacking_on_postgresql_is_really_hard) - [Hacking on PostgreSQL is really hard](https://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html)
-* [2024-05-01, 16:45:57](https://lobste.rs/s/fy551x/thoughts_on_zig) - [Thoughts on Zig](https://arne.me/blog/thoughts-on-zig)
 
 ## [Archives](archives/index.md)
 
