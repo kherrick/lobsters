@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-03](index.md)
 
+* [2024-05-03, 13:58:15](https://lobste.rs/s/huqust/mkinitcpio_v39) - [mkinitcpio v39](https://gitlab.archlinux.org/archlinux/mkinitcpio/mkinitcpio/-/releases/v39)
+* [2024-05-03, 13:56:58](https://lobste.rs/s/9mhrkk/proposed_punctuation) - [Proposed Punctuation](https://jonathanzong.github.io/proposed-punctuation/)
 * [2024-05-03, 11:19:59](https://lobste.rs/s/vq3ogu/stephen_borrill_building_products_with) - [Stephen Borrill: Building products with NetBSD – thin-clients (2009, PDF)](https://www.bsdcan.org/2009/schedule/attachments/77_BuildingProductsWithNetBSDthin-clients-Stephen-Borrill.pdf)
 * [2024-05-03, 11:19:59](https://lobste.rs/s/vq3ogu/building_products_with_netbsd_thin) - [Building products with NetBSD – thin-clients (2009)](https://www.bsdcan.org/2009/schedule/attachments/77_BuildingProductsWithNetBSDthin-clients-Stephen-Borrill.pdf)
 * [2024-05-03, 11:05:59](https://lobste.rs/s/ivezer/time_linkerd_erased_my_load_balancer) - [The Time Linkerd Erased My Load Balancer](https://matduggan.com/the-time-linkerd-erased-my-load-balancer/)

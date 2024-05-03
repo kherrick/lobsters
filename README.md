@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-03, 13:58:15](https://lobste.rs/s/huqust/mkinitcpio_v39) - [mkinitcpio v39](https://gitlab.archlinux.org/archlinux/mkinitcpio/mkinitcpio/-/releases/v39)
+* [2024-05-03, 13:56:58](https://lobste.rs/s/9mhrkk/proposed_punctuation) - [Proposed Punctuation](https://jonathanzong.github.io/proposed-punctuation/)
 * [2024-05-03, 11:19:59](https://lobste.rs/s/vq3ogu/building_products_with_netbsd_thin) - [Building products with NetBSD – thin-clients (2009)](https://www.bsdcan.org/2009/schedule/attachments/77_BuildingProductsWithNetBSDthin-clients-Stephen-Borrill.pdf)
 * [2024-05-03, 11:05:59](https://lobste.rs/s/ivezer/time_linkerd_erased_my_load_balancer) - [The Time Linkerd Erased My Load Balancer](https://matduggan.com/the-time-linkerd-erased-my-load-balancer/)
 * [2024-05-03, 10:10:17](https://lobste.rs/s/gvlcjt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/gvlcjt/what_are_you_doing_this_weekend)
@@ -19,9 +21,7 @@
 * [2024-05-02, 10:03:03](https://lobste.rs/s/ud34df/10_elixir_gotchas) - [10 Elixir gotchas](https://pragtob.wordpress.com/2024/05/01/10-elixir-gotchas/)
 * [2024-05-02, 09:52:58](https://lobste.rs/s/uz5ae7/shader_post_processing_hurry) - [Shader post-processing in a hurry](https://30fps.net/pages/post-processing/)
 * [2024-05-02, 09:32:18](https://lobste.rs/s/tr9lkd/delimited_generators_more_natural_api) - [Delimited Generators - A more natural API for JS generators](https://axisofeval.blogspot.com/2024/05/delimited-generators.html)
-* [2024-05-02, 07:36:54](https://lobste.rs/s/nlluhq/neovim_vs_code) - [Neovim to VS Code](https://didoesdigital.com/blog/neovim-to-vs-code/)
 * [2024-05-02, 07:11:26](https://lobste.rs/s/6tz1oq/hacking_on_postgresql_is_really_hard) - [Hacking on PostgreSQL is really hard](https://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html)
-* [2024-05-02, 06:09:17](https://lobste.rs/s/64s62v/piccolo_stackless_lua_interpreter) - [Piccolo - A stackless lua interpreter](https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/)
 * [2024-05-02, 00:54:53](https://lobste.rs/s/nyexyp/paperwm_spoon_tiled_scrollable_window) - [PaperWM.spoon: Tiled Scrollable Window Manager for MacOS in Lua](https://github.com/mogenson/PaperWM.spoon)
 * [2024-05-01, 22:09:45](https://lobste.rs/s/72sp5w/stealing_your_telegram_account_10) - [Stealing your Telegram account in 10 seconds flat](https://lyra.horse/blog/2024/05/stealing-your-telegram-account-in-10-seconds-flat/)
 * [2024-05-01, 16:45:57](https://lobste.rs/s/fy551x/thoughts_on_zig) - [Thoughts on Zig](https://arne.me/blog/thoughts-on-zig)
