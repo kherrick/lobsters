@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2024-05-02, 14:57:51",
+      "https://lobste.rs/s/vywon9/simple_builder_api_for_xml_java"
+    ],
+    [
+      "Simple Builder API for XML in Java",
+      "https://github.com/evolvedbinary/j8xu"
+    ]
+  ],
+  [
+    [
       "2024-05-02, 13:30:26",
       "https://lobste.rs/s/ljlmid/life_times_abstract_syntax_tree"
     ],
@@ -107,16 +117,6 @@
     [
       "Announcing Rust 1.78.0",
       "https://blog.rust-lang.org/2024/05/02/Rust-1.78.0.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-02, 13:25:02",
-      "https://lobste.rs/s/jbhlq8/offsetallocator_fast_o_1_offset"
-    ],
-    [
-      "OffsetAllocator: Fast O(1) offset allocator with minimal fragmentation",
-      "https://github.com/sebbbi/OffsetAllocator"
     ]
   ],
   [
