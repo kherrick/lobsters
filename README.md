@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-05-02, 20:59:33](https://lobste.rs/s/fkzupi/drink_me_ab_using_llm_compress_text) - [DRINK ME: (Ab)Using a LLM to compress text](https://o565.com/llm-text-compression/)
+* [2024-05-03, 00:25:29](https://lobste.rs/s/8wpkqg/for_fakes_sake_testing_go) - [For Fakes Sake - Testing In Go](https://www.zarl.dev/articles/for-fake-sake)
 * [2024-05-02, 20:54:29](https://lobste.rs/s/icexso/ecdh_based_oblivious_message_retrieval) - [ECDH based Oblivious Message Retrieval](https://codeberg.org/reach/reach/src/branch/main/common/ecdh-omr)
 * [2024-05-02, 18:36:19](https://lobste.rs/s/y1afxf/file_modes_c_20) - [File modes in C++20](https://euroquis.nl//blabla/2024/04/30/chmod.html)
 * [2024-05-02, 18:15:04](https://lobste.rs/s/0ky0pe/acme_dns_limited_dns_server_with_restful) - [acme-dns: Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely](https://github.com/joohoi/acme-dns)
