@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-03, 21:40:25",
+      "https://lobste.rs/s/iicrvm/freebsd_2024q1_status_report"
+    ],
+    [
+      "FreeBSD 2024Q1 Status Report",
+      "https://www.freebsd.org/status/report-2024-01-2024-03/"
+    ]
+  ],
+  [
+    [
       "2024-05-03, 20:29:01",
       "https://lobste.rs/s/nirfir/improving_our_estimation_abilities_2020"
     ],
@@ -227,16 +237,6 @@
     [
       "10 Elixir gotchas",
       "https://pragtob.wordpress.com/2024/05/01/10-elixir-gotchas/"
-    ]
-  ],
-  [
-    [
-      "2024-05-02, 09:32:18",
-      "https://lobste.rs/s/tr9lkd/delimited_generators_more_natural_api"
-    ],
-    [
-      "Delimited Generators - A more natural API for JS generators",
-      "https://axisofeval.blogspot.com/2024/05/delimited-generators.html"
     ]
   ],
   [
