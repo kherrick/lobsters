@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-03](index.md)
 
+* [2024-05-03, 15:00:57](https://lobste.rs/s/tp1xbn/post_about_refactoring) - [A post about refactoring](https://lobste.rs/s/tp1xbn/post_about_refactoring)
 * [2024-05-03, 13:58:15](https://lobste.rs/s/huqust/mkinitcpio_v39) - [mkinitcpio v39](https://gitlab.archlinux.org/archlinux/mkinitcpio/mkinitcpio/-/releases/v39)
 * [2024-05-03, 13:56:58](https://lobste.rs/s/9mhrkk/proposed_punctuation) - [Proposed Punctuation](https://jonathanzong.github.io/proposed-punctuation/)
 * [2024-05-03, 11:19:59](https://lobste.rs/s/vq3ogu/stephen_borrill_building_products_with) - [Stephen Borrill: Building products with NetBSD – thin-clients (2009, PDF)](https://www.bsdcan.org/2009/schedule/attachments/77_BuildingProductsWithNetBSDthin-clients-Stephen-Borrill.pdf)

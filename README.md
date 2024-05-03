@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-03, 15:00:57](https://lobste.rs/s/tp1xbn/post_about_refactoring) - [A post about refactoring](https://lobste.rs/s/tp1xbn/post_about_refactoring)
 * [2024-05-03, 13:58:15](https://lobste.rs/s/huqust/mkinitcpio_v39) - [mkinitcpio v39](https://gitlab.archlinux.org/archlinux/mkinitcpio/mkinitcpio/-/releases/v39)
 * [2024-05-03, 13:56:58](https://lobste.rs/s/9mhrkk/proposed_punctuation) - [Proposed Punctuation](https://jonathanzong.github.io/proposed-punctuation/)
 * [2024-05-03, 11:19:59](https://lobste.rs/s/vq3ogu/building_products_with_netbsd_thin) - [Building products with NetBSD – thin-clients (2009)](https://www.bsdcan.org/2009/schedule/attachments/77_BuildingProductsWithNetBSDthin-clients-Stephen-Borrill.pdf)
@@ -23,7 +24,6 @@
 * [2024-05-02, 09:32:18](https://lobste.rs/s/tr9lkd/delimited_generators_more_natural_api) - [Delimited Generators - A more natural API for JS generators](https://axisofeval.blogspot.com/2024/05/delimited-generators.html)
 * [2024-05-02, 07:11:26](https://lobste.rs/s/6tz1oq/hacking_on_postgresql_is_really_hard) - [Hacking on PostgreSQL is really hard](https://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html)
 * [2024-05-02, 00:54:53](https://lobste.rs/s/nyexyp/paperwm_spoon_tiled_scrollable_window) - [PaperWM.spoon: Tiled Scrollable Window Manager for MacOS in Lua](https://github.com/mogenson/PaperWM.spoon)
-* [2024-05-01, 22:09:45](https://lobste.rs/s/72sp5w/stealing_your_telegram_account_10) - [Stealing your Telegram account in 10 seconds flat](https://lyra.horse/blog/2024/05/stealing-your-telegram-account-in-10-seconds-flat/)
 * [2024-05-01, 16:45:57](https://lobste.rs/s/fy551x/thoughts_on_zig) - [Thoughts on Zig](https://arne.me/blog/thoughts-on-zig)
 
 ## [Archives](archives/index.md)
