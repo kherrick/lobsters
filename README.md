@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-03, 11:19:59](https://lobste.rs/s/vq3ogu/stephen_borrill_building_products_with) - [Stephen Borrill: Building products with NetBSD – thin-clients (2009, PDF)](https://www.bsdcan.org/2009/schedule/attachments/77_BuildingProductsWithNetBSDthin-clients-Stephen-Borrill.pdf)
 * [2024-05-03, 11:05:59](https://lobste.rs/s/ivezer/time_linkerd_erased_my_load_balancer) - [The Time Linkerd Erased My Load Balancer](https://matduggan.com/the-time-linkerd-erased-my-load-balancer/)
 * [2024-05-03, 10:10:17](https://lobste.rs/s/gvlcjt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/gvlcjt/what_are_you_doing_this_weekend)
 * [2024-05-03, 08:43:10](https://lobste.rs/s/cwn1q9/ruby_typing_2024_rbs_steep_rbs) - [Ruby typing 2024: RBS, Steep, RBS Collections, subjective feelings](https://brandur.org/fragments/ruby-typing-2024)
@@ -13,7 +14,6 @@
 * [2024-05-02, 16:40:23](https://lobste.rs/s/bjf4uq/having_machine_room_can_mean_having) - [Having a machine room can mean having things in your machine room](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MachineRoomRaccoon)
 * [2024-05-02, 13:30:26](https://lobste.rs/s/ljlmid/life_times_abstract_syntax_tree) - [The life and times of an Abstract Syntax Tree](https://blog.trailofbits.com/2024/05/02/the-life-and-times-of-an-abstract-syntax-tree/)
 * [2024-05-02, 13:26:08](https://lobste.rs/s/zxcs7w/announcing_rust_1_78_0) - [Announcing Rust 1.78.0](https://blog.rust-lang.org/2024/05/02/Rust-1.78.0.html)
-* [2024-05-02, 13:25:02](https://lobste.rs/s/jbhlq8/offsetallocator_fast_o_1_offset) - [OffsetAllocator: Fast O(1) offset allocator with minimal fragmentation](https://github.com/sebbbi/OffsetAllocator)
 * [2024-05-02, 12:10:41](https://lobste.rs/s/iykxwu/framework_nixos_communities_join_forces) - [Framework & NixOS Communities Join Forces](https://discourse.nixos.org/t/exciting-partnership-announcement-framework-community-nixos-communities-join-forces/44640?u=asymmetric)
 * [2024-05-02, 11:09:53](https://lobste.rs/s/byluci/world_s_loudest_lisp_program) - [The World's Loudest Lisp Program](https://blog.funcall.org//lisp%20psychoacoustics/2024/05/01/worlds-loudest-lisp-program/)
 * [2024-05-02, 10:03:03](https://lobste.rs/s/ud34df/10_elixir_gotchas) - [10 Elixir gotchas](https://pragtob.wordpress.com/2024/05/01/10-elixir-gotchas/)
