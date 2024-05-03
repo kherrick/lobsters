@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-03, 08:43:10](https://lobste.rs/s/cwn1q9/ruby_typing_2024_rbs_steep_rbs) - [Ruby typing 2024: RBS, Steep, RBS Collections, subjective feelings](https://brandur.org/fragments/ruby-typing-2024)
 * [2024-05-03, 01:03:02](https://lobste.rs/s/ldkfdg/sudon_t) - [sudon't](https://dotat.at/@/2024-05-02-sudo.html)
 * [2024-05-03, 00:25:29](https://lobste.rs/s/8wpkqg/for_fakes_sake_testing_go) - [For Fakes Sake - Testing In Go](https://www.zarl.dev/articles/for-fake-sake)
 * [2024-05-02, 20:59:33](https://lobste.rs/s/fkzupi/drink_me_ab_using_llm_compress_text) - [DRINK ME: (Ab)Using a LLM to compress text](https://o565.com/llm-text-compression/)
@@ -8,7 +9,6 @@
 * [2024-05-02, 17:00:31](https://lobste.rs/s/l6julm/making_3d_modeler_c_week) - [Making a 3D Modeler, in C, in a Week](https://danielchasehooper.com/posts/shapeup/)
 * [2024-05-02, 16:53:35](https://lobste.rs/s/e6pzfr/unwind_considered_harmful) - [Unwind considered harmful?](https://smallcultfollowing.com/babysteps/blog/2024/05/02/unwind-considered-harmful/)
 * [2024-05-02, 16:40:23](https://lobste.rs/s/bjf4uq/having_machine_room_can_mean_having) - [Having a machine room can mean having things in your machine room](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MachineRoomRaccoon)
-* [2024-05-02, 14:57:51](https://lobste.rs/s/vywon9/simple_builder_api_for_xml_java) - [Simple Builder API for XML in Java](https://github.com/evolvedbinary/j8xu)
 * [2024-05-02, 13:30:26](https://lobste.rs/s/ljlmid/life_times_abstract_syntax_tree) - [The life and times of an Abstract Syntax Tree](https://blog.trailofbits.com/2024/05/02/the-life-and-times-of-an-abstract-syntax-tree/)
 * [2024-05-02, 13:26:08](https://lobste.rs/s/zxcs7w/announcing_rust_1_78_0) - [Announcing Rust 1.78.0](https://blog.rust-lang.org/2024/05/02/Rust-1.78.0.html)
 * [2024-05-02, 13:25:02](https://lobste.rs/s/jbhlq8/offsetallocator_fast_o_1_offset) - [OffsetAllocator: Fast O(1) offset allocator with minimal fragmentation](https://github.com/sebbbi/OffsetAllocator)
