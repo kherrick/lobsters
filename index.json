@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-03, 17:10:46",
+      "https://lobste.rs/s/q0jn27/sbp_v2_4_0_adds_support_for_star_selectors"
+    ],
+    [
+      "SBP v2.4.0 adds support for star selectors",
+      "https://github.com/okTurtles/sbp-js"
+    ]
+  ],
+  [
+    [
       "2024-05-03, 15:52:44",
       "https://lobste.rs/s/zlfhsx/large_text_compression_benchmark"
     ],
@@ -227,16 +237,6 @@
     [
       "Hacking on PostgreSQL is really hard",
       "https://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-02, 00:54:53",
-      "https://lobste.rs/s/nyexyp/paperwm_spoon_tiled_scrollable_window"
-    ],
-    [
-      "PaperWM.spoon: Tiled Scrollable Window Manager for MacOS in Lua",
-      "https://github.com/mogenson/PaperWM.spoon"
     ]
   ],
   [
