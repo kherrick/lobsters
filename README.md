@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-03, 10:10:17](https://lobste.rs/s/gvlcjt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/gvlcjt/what_are_you_doing_this_weekend)
 * [2024-05-03, 08:43:10](https://lobste.rs/s/cwn1q9/ruby_typing_2024_rbs_steep_rbs) - [Ruby typing 2024: RBS, Steep, RBS Collections, subjective feelings](https://brandur.org/fragments/ruby-typing-2024)
 * [2024-05-03, 01:03:02](https://lobste.rs/s/ldkfdg/sudon_t) - [sudon't](https://dotat.at/@/2024-05-02-sudo.html)
 * [2024-05-03, 00:25:29](https://lobste.rs/s/8wpkqg/for_fakes_sake_testing_go) - [For Fakes Sake - Testing In Go](https://www.zarl.dev/articles/for-fake-sake)
@@ -21,7 +22,6 @@
 * [2024-05-02, 07:36:54](https://lobste.rs/s/nlluhq/neovim_vs_code) - [Neovim to VS Code](https://didoesdigital.com/blog/neovim-to-vs-code/)
 * [2024-05-02, 07:11:26](https://lobste.rs/s/6tz1oq/hacking_on_postgresql_is_really_hard) - [Hacking on PostgreSQL is really hard](https://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html)
 * [2024-05-02, 06:09:17](https://lobste.rs/s/64s62v/piccolo_stackless_lua_interpreter) - [Piccolo - A stackless lua interpreter](https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/)
-* [2024-05-02, 02:04:54](https://lobste.rs/s/qt85ic/why_i_run_bsd_on_pc) - [Why I Run BSD on PC](https://michal.sapka.me/bsd/why-bsd/)
 * [2024-05-02, 00:54:53](https://lobste.rs/s/nyexyp/paperwm_spoon_tiled_scrollable_window) - [PaperWM.spoon: Tiled Scrollable Window Manager for MacOS in Lua](https://github.com/mogenson/PaperWM.spoon)
 * [2024-05-01, 22:09:45](https://lobste.rs/s/72sp5w/stealing_your_telegram_account_10) - [Stealing your Telegram account in 10 seconds flat](https://lyra.horse/blog/2024/05/stealing-your-telegram-account-in-10-seconds-flat/)
 * [2024-05-01, 16:45:57](https://lobste.rs/s/fy551x/thoughts_on_zig) - [Thoughts on Zig](https://arne.me/blog/thoughts-on-zig)
