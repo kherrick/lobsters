@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-03](index.md)
 
+* [2024-05-03, 17:10:46](https://lobste.rs/s/q0jn27/sbp_v2_4_0_adds_support_for_star_selectors) - [SBP v2.4.0 adds support for star selectors](https://github.com/okTurtles/sbp-js)
 * [2024-05-03, 15:52:44](https://lobste.rs/s/zlfhsx/large_text_compression_benchmark) - [Large Text Compression Benchmark](http://www.mattmahoney.net/dc/text.html)
 * [2024-05-03, 15:00:57](https://lobste.rs/s/tp1xbn/post_about_refactoring) - [A post about refactoring](https://lobste.rs/s/tp1xbn/post_about_refactoring)
 * [2024-05-03, 13:58:15](https://lobste.rs/s/huqust/mkinitcpio_v39) - [mkinitcpio v39](https://gitlab.archlinux.org/archlinux/mkinitcpio/mkinitcpio/-/releases/v39)
