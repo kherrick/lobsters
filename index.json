@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2024-05-02, 13:25:02",
+      "https://lobste.rs/s/jbhlq8/offsetallocator_fast_o_1_offset"
+    ],
+    [
+      "OffsetAllocator: Fast O(1) offset allocator with minimal fragmentation",
+      "https://github.com/sebbbi/OffsetAllocator"
+    ]
+  ],
+  [
+    [
       "2024-05-02, 12:10:41",
       "https://lobste.rs/s/iykxwu/framework_nixos_communities_join_forces"
     ],
@@ -227,16 +237,6 @@
     [
       "Stealing your Telegram account in 10 seconds flat",
       "https://lyra.horse/blog/2024/05/stealing-your-telegram-account-in-10-seconds-flat/"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 21:38:01",
-      "https://lobste.rs/s/qspf5m/ansible_is_lisp"
-    ],
-    [
-      "Ansible is a Lisp",
-      "https://astrid.tech/2024/05/01/0/ansible-is-a-lisp"
     ]
   ],
   [
