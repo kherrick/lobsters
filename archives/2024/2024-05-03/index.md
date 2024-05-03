@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-03](index.md)
 
+* [2024-05-03, 19:38:35](https://lobste.rs/s/wwlug1/vector_similarity_search_duckdb) - [Vector Similarity Search in DuckDB](https://duckdb.org/2024/05/03/vector-similarity-search-vss.html)
+* [2024-05-03, 19:36:59](https://lobste.rs/s/nmz9pk/how_are_zlib_gzip_zip_related) - [How are zlib, gzip and zip related?](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
 * [2024-05-03, 18:03:24](https://lobste.rs/s/xlktns/ux_uuids_unkey) - [The UX of UUIDs | Unkey](https://www.unkey.com/blog/uuid-ux)
 * [2024-05-03, 17:10:46](https://lobste.rs/s/q0jn27/sbp_v2_4_0_adds_support_for_star_selectors) - [SBP v2.4.0 adds support for star selectors](https://github.com/okTurtles/sbp-js)
 * [2024-05-03, 15:52:44](https://lobste.rs/s/zlfhsx/large_text_compression_benchmark) - [Large Text Compression Benchmark](http://www.mattmahoney.net/dc/text.html)

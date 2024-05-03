@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-03, 19:38:35](https://lobste.rs/s/wwlug1/vector_similarity_search_duckdb) - [Vector Similarity Search in DuckDB](https://duckdb.org/2024/05/03/vector-similarity-search-vss.html)
+* [2024-05-03, 19:36:59](https://lobste.rs/s/nmz9pk/how_are_zlib_gzip_zip_related) - [How are zlib, gzip and zip related?](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
 * [2024-05-03, 18:03:24](https://lobste.rs/s/xlktns/ux_uuids_unkey) - [The UX of UUIDs | Unkey](https://www.unkey.com/blog/uuid-ux)
 * [2024-05-03, 17:10:46](https://lobste.rs/s/q0jn27/sbp_v2_4_0_adds_support_for_star_selectors) - [SBP v2.4.0 adds support for star selectors](https://github.com/okTurtles/sbp-js)
 * [2024-05-03, 15:52:44](https://lobste.rs/s/zlfhsx/large_text_compression_benchmark) - [Large Text Compression Benchmark](http://www.mattmahoney.net/dc/text.html)
@@ -14,7 +16,6 @@
 * [2024-05-03, 00:25:29](https://lobste.rs/s/8wpkqg/for_fakes_sake_testing_go) - [For Fakes Sake - Testing In Go](https://www.zarl.dev/articles/for-fake-sake)
 * [2024-05-02, 20:59:33](https://lobste.rs/s/fkzupi/drink_me_ab_using_llm_compress_text) - [DRINK ME: (Ab)Using a LLM to compress text](https://o565.com/llm-text-compression/)
 * [2024-05-02, 20:54:29](https://lobste.rs/s/icexso/ecdh_based_oblivious_message_retrieval) - [ECDH based Oblivious Message Retrieval](https://codeberg.org/reach/reach/src/branch/main/common/ecdh-omr)
-* [2024-05-02, 17:30:57](https://lobste.rs/s/7plgdw/secure_randomness_go_1_22) - [Secure Randomness in Go 1.22](https://go.dev/blog/chacha8rand)
 * [2024-05-02, 17:00:31](https://lobste.rs/s/l6julm/making_3d_modeler_c_week) - [Making a 3D Modeler, in C, in a Week](https://danielchasehooper.com/posts/shapeup/)
 * [2024-05-02, 16:53:35](https://lobste.rs/s/e6pzfr/unwind_considered_harmful) - [Unwind considered harmful?](https://smallcultfollowing.com/babysteps/blog/2024/05/02/unwind-considered-harmful/)
 * [2024-05-02, 16:40:23](https://lobste.rs/s/bjf4uq/having_machine_room_can_mean_having) - [Having a machine room can mean having things in your machine room](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MachineRoomRaccoon)
@@ -22,7 +23,6 @@
 * [2024-05-02, 12:10:41](https://lobste.rs/s/iykxwu/framework_nixos_communities_join_forces) - [Framework & NixOS Communities Join Forces](https://discourse.nixos.org/t/exciting-partnership-announcement-framework-community-nixos-communities-join-forces/44640?u=asymmetric)
 * [2024-05-02, 11:09:53](https://lobste.rs/s/byluci/world_s_loudest_lisp_program) - [The World's Loudest Lisp Program](https://blog.funcall.org//lisp%20psychoacoustics/2024/05/01/worlds-loudest-lisp-program/)
 * [2024-05-02, 10:03:03](https://lobste.rs/s/ud34df/10_elixir_gotchas) - [10 Elixir gotchas](https://pragtob.wordpress.com/2024/05/01/10-elixir-gotchas/)
-* [2024-05-02, 09:52:58](https://lobste.rs/s/uz5ae7/shader_post_processing_hurry) - [Shader post-processing in a hurry](https://30fps.net/pages/post-processing/)
 * [2024-05-02, 09:32:18](https://lobste.rs/s/tr9lkd/delimited_generators_more_natural_api) - [Delimited Generators - A more natural API for JS generators](https://axisofeval.blogspot.com/2024/05/delimited-generators.html)
 * [2024-05-02, 07:11:26](https://lobste.rs/s/6tz1oq/hacking_on_postgresql_is_really_hard) - [Hacking on PostgreSQL is really hard](https://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html)
 
