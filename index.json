@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-03, 18:03:24",
+      "https://lobste.rs/s/xlktns/ux_uuids_unkey"
+    ],
+    [
+      "The UX of UUIDs | Unkey",
+      "https://www.unkey.com/blog/uuid-ux"
+    ]
+  ],
+  [
+    [
       "2024-05-03, 17:10:46",
       "https://lobste.rs/s/q0jn27/sbp_v2_4_0_adds_support_for_star_selectors"
     ],
@@ -237,16 +247,6 @@
     [
       "Hacking on PostgreSQL is really hard",
       "https://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 16:45:57",
-      "https://lobste.rs/s/fy551x/thoughts_on_zig"
-    ],
-    [
-      "Thoughts on Zig",
-      "https://arne.me/blog/thoughts-on-zig"
     ]
   ]
 ]
