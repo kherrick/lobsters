@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-03, 19:38:35",
+      "https://lobste.rs/s/wwlug1/vector_similarity_search_duckdb"
+    ],
+    [
+      "Vector Similarity Search in DuckDB",
+      "https://duckdb.org/2024/05/03/vector-similarity-search-vss.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 19:36:59",
+      "https://lobste.rs/s/nmz9pk/how_are_zlib_gzip_zip_related"
+    ],
+    [
+      "How are zlib, gzip and zip related?",
+      "https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they"
+    ]
+  ],
+  [
+    [
       "2024-05-03, 18:03:24",
       "https://lobste.rs/s/xlktns/ux_uuids_unkey"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-05-02, 17:30:57",
-      "https://lobste.rs/s/7plgdw/secure_randomness_go_1_22"
-    ],
-    [
-      "Secure Randomness in Go 1.22",
-      "https://go.dev/blog/chacha8rand"
-    ]
-  ],
-  [
-    [
       "2024-05-02, 17:00:31",
       "https://lobste.rs/s/l6julm/making_3d_modeler_c_week"
     ],
@@ -217,16 +227,6 @@
     [
       "10 Elixir gotchas",
       "https://pragtob.wordpress.com/2024/05/01/10-elixir-gotchas/"
-    ]
-  ],
-  [
-    [
-      "2024-05-02, 09:52:58",
-      "https://lobste.rs/s/uz5ae7/shader_post_processing_hurry"
-    ],
-    [
-      "Shader post-processing in a hurry",
-      "https://30fps.net/pages/post-processing/"
     ]
   ],
   [
