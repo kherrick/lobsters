@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-03](index.md)
 
+* [2024-05-03, 21:40:25](https://lobste.rs/s/iicrvm/freebsd_2024q1_status_report) - [FreeBSD 2024Q1 Status Report](https://www.freebsd.org/status/report-2024-01-2024-03/)
 * [2024-05-03, 20:29:01](https://lobste.rs/s/nirfir/improving_our_estimation_abilities_2020) - [Improving Our Estimation Abilities (2020)](https://embeddedartistry.com/blog/2020/03/16/improving-our-estimation-abilities-embedded-artistrys-approach/)
 * [2024-05-03, 19:38:35](https://lobste.rs/s/wwlug1/vector_similarity_search_duckdb) - [Vector Similarity Search in DuckDB](https://duckdb.org/2024/05/03/vector-similarity-search-vss.html)
 * [2024-05-03, 19:36:59](https://lobste.rs/s/nmz9pk/how_are_zlib_gzip_zip_related) - [How are zlib, gzip and zip related?](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)

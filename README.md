@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-03, 21:40:25](https://lobste.rs/s/iicrvm/freebsd_2024q1_status_report) - [FreeBSD 2024Q1 Status Report](https://www.freebsd.org/status/report-2024-01-2024-03/)
 * [2024-05-03, 20:29:01](https://lobste.rs/s/nirfir/improving_our_estimation_abilities_2020) - [Improving Our Estimation Abilities (2020)](https://embeddedartistry.com/blog/2020/03/16/improving-our-estimation-abilities-embedded-artistrys-approach/)
 * [2024-05-03, 19:38:35](https://lobste.rs/s/wwlug1/vector_similarity_search_duckdb) - [Vector Similarity Search in DuckDB](https://duckdb.org/2024/05/03/vector-similarity-search-vss.html)
 * [2024-05-03, 19:36:59](https://lobste.rs/s/nmz9pk/how_are_zlib_gzip_zip_related) - [How are zlib, gzip and zip related?](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
@@ -23,7 +24,6 @@
 * [2024-05-02, 12:10:41](https://lobste.rs/s/iykxwu/framework_nixos_communities_join_forces) - [Framework & NixOS Communities Join Forces](https://discourse.nixos.org/t/exciting-partnership-announcement-framework-community-nixos-communities-join-forces/44640?u=asymmetric)
 * [2024-05-02, 11:09:53](https://lobste.rs/s/byluci/world_s_loudest_lisp_program) - [The World's Loudest Lisp Program](https://blog.funcall.org//lisp%20psychoacoustics/2024/05/01/worlds-loudest-lisp-program/)
 * [2024-05-02, 10:03:03](https://lobste.rs/s/ud34df/10_elixir_gotchas) - [10 Elixir gotchas](https://pragtob.wordpress.com/2024/05/01/10-elixir-gotchas/)
-* [2024-05-02, 09:32:18](https://lobste.rs/s/tr9lkd/delimited_generators_more_natural_api) - [Delimited Generators - A more natural API for JS generators](https://axisofeval.blogspot.com/2024/05/delimited-generators.html)
 * [2024-05-02, 07:11:26](https://lobste.rs/s/6tz1oq/hacking_on_postgresql_is_really_hard) - [Hacking on PostgreSQL is really hard](https://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html)
 
 ## [Archives](archives/index.md)
