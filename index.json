@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-04, 12:52:41",
+      "https://lobste.rs/s/uwm3x4/keep_logs_for_retrospective_analysis"
+    ],
+    [
+      "Keep the logs for retrospective analysis",
+      "https://vitonsky.net/blog/2024/05/02/retrospective-of-development-logs"
+    ]
+  ],
+  [
+    [
       "2024-05-04, 06:30:20",
       "https://lobste.rs/s/cdko8p/practical_guide_diffusion_models_2022"
     ],
@@ -207,16 +217,6 @@
     [
       "Having a machine room can mean having things in your machine room",
       "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MachineRoomRaccoon"
-    ]
-  ],
-  [
-    [
-      "2024-05-02, 13:26:08",
-      "https://lobste.rs/s/zxcs7w/announcing_rust_1_78_0"
-    ],
-    [
-      "Announcing Rust 1.78.0",
-      "https://blog.rust-lang.org/2024/05/02/Rust-1.78.0.html"
     ]
   ],
   [
