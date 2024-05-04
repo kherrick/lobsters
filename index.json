@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-04, 05:42:08",
+      "https://lobste.rs/s/ajebuy/type_level_programming_rust"
+    ],
+    [
+      "Type-level Programming in Rust",
+      "https://willcrichton.net/notes/type-level-programming/"
+    ]
+  ],
+  [
+    [
       "2024-05-03, 21:40:25",
       "https://lobste.rs/s/iicrvm/freebsd_2024q1_status_report"
     ],
@@ -217,16 +227,6 @@
     [
       "Framework & NixOS Communities Join Forces",
       "https://discourse.nixos.org/t/exciting-partnership-announcement-framework-community-nixos-communities-join-forces/44640?u=asymmetric"
-    ]
-  ],
-  [
-    [
-      "2024-05-02, 11:09:53",
-      "https://lobste.rs/s/byluci/world_s_loudest_lisp_program"
-    ],
-    [
-      "The World's Loudest Lisp Program",
-      "https://blog.funcall.org//lisp%20psychoacoustics/2024/05/01/worlds-loudest-lisp-program/"
     ]
   ],
   [
