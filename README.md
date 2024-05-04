@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-04, 14:35:54](https://lobste.rs/s/icjpyx/swift_s_native_clocks_are_very) - [Swift’s native Clocks are very inefficient](https://wadetregaskis.com/swifts-native-clocks-are-very-inefficient/)
 * [2024-05-04, 12:59:23](https://lobste.rs/s/hyr87e/rust_rfc_3503_frontmatter) - [Rust RFC 3503 - frontmatter](https://rust-lang.github.io/rfcs/3503-frontmatter.html)
 * [2024-05-04, 12:52:41](https://lobste.rs/s/uwm3x4/keep_logs_for_retrospective_analysis) - [Keep the logs for retrospective analysis](https://vitonsky.net/blog/2024/05/02/retrospective-of-development-logs)
 * [2024-05-04, 06:30:20](https://lobste.rs/s/cdko8p/practical_guide_diffusion_models_2022) - [A practical guide to Diffusion Models (2022)](https://selflein.github.io/diffusion_practical_guide)
@@ -18,7 +19,6 @@
 * [2024-05-03, 10:10:17](https://lobste.rs/s/gvlcjt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/gvlcjt/what_are_you_doing_this_weekend)
 * [2024-05-03, 08:43:10](https://lobste.rs/s/cwn1q9/ruby_typing_2024_rbs_steep_rbs) - [Ruby typing 2024: RBS, Steep, RBS Collections, subjective feelings](https://brandur.org/fragments/ruby-typing-2024)
 * [2024-05-03, 01:03:02](https://lobste.rs/s/ldkfdg/sudon_t) - [sudon't](https://dotat.at/@/2024-05-02-sudo.html)
-* [2024-05-02, 20:59:33](https://lobste.rs/s/fkzupi/drink_me_ab_using_llm_compress_text) - [DRINK ME: (Ab)Using a LLM to compress text](https://o565.com/llm-text-compression/)
 * [2024-05-02, 20:54:29](https://lobste.rs/s/icexso/ecdh_based_oblivious_message_retrieval) - [ECDH based Oblivious Message Retrieval](https://codeberg.org/reach/reach/src/branch/main/common/ecdh-omr)
 * [2024-05-02, 17:00:31](https://lobste.rs/s/l6julm/making_3d_modeler_c_week) - [Making a 3D Modeler, in C, in a Week](https://danielchasehooper.com/posts/shapeup/)
 * [2024-05-02, 16:53:35](https://lobste.rs/s/e6pzfr/unwind_considered_harmful) - [Unwind considered harmful?](https://smallcultfollowing.com/babysteps/blog/2024/05/02/unwind-considered-harmful/)
