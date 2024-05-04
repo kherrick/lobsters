@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-04](index.md)
 
+* [2024-05-04, 18:46:22](https://lobste.rs/s/nsrbpt/how_build_20_billion_semiconductor_fab) - [How to Build a $20 Billion Semiconductor Fab](https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor)
 * [2024-05-04, 17:06:54](https://lobste.rs/s/whd4b5/x_org_on_netbsd_state_things) - [X.Org on NetBSD - the state of things](https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the)
 * [2024-05-04, 17:01:51](https://lobste.rs/s/gdxcsk/deno_kv_internals_building_database_for) - [Deno KV internals: building a database for the modern web](https://deno.com/blog/building-deno-kv)
 * [2024-05-04, 16:33:37](https://lobste.rs/s/odk4s1/figma_s_journey_typescript) - [Figma’s journey to TypeScript](https://www.figma.com/blog/figmas-journey-to-typescript-compiling-away-our-custom-programming-language/)

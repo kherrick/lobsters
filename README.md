@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-04, 18:46:22](https://lobste.rs/s/nsrbpt/how_build_20_billion_semiconductor_fab) - [How to Build a $20 Billion Semiconductor Fab](https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor)
 * [2024-05-04, 17:06:54](https://lobste.rs/s/whd4b5/x_org_on_netbsd_state_things) - [X.Org on NetBSD - the state of things](https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the)
 * [2024-05-04, 17:01:51](https://lobste.rs/s/gdxcsk/deno_kv_internals_building_database_for) - [Deno KV internals: building a database for the modern web](https://deno.com/blog/building-deno-kv)
 * [2024-05-04, 16:33:37](https://lobste.rs/s/odk4s1/figma_s_journey_typescript) - [Figma’s journey to TypeScript](https://www.figma.com/blog/figmas-journey-to-typescript-compiling-away-our-custom-programming-language/)
@@ -10,7 +11,6 @@
 * [2024-05-04, 06:30:20](https://lobste.rs/s/cdko8p/practical_guide_diffusion_models_2022) - [A practical guide to Diffusion Models (2022)](https://selflein.github.io/diffusion_practical_guide)
 * [2024-05-04, 05:42:08](https://lobste.rs/s/ajebuy/type_level_programming_rust) - [Type-level Programming in Rust](https://willcrichton.net/notes/type-level-programming/)
 * [2024-05-03, 21:40:25](https://lobste.rs/s/iicrvm/freebsd_2024q1_status_report) - [FreeBSD 2024Q1 Status Report](https://www.freebsd.org/status/report-2024-01-2024-03/)
-* [2024-05-03, 20:29:01](https://lobste.rs/s/nirfir/improving_our_estimation_abilities_2020) - [Improving Our Estimation Abilities (2020)](https://embeddedartistry.com/blog/2020/03/16/improving-our-estimation-abilities-embedded-artistrys-approach/)
 * [2024-05-03, 19:38:35](https://lobste.rs/s/wwlug1/vector_similarity_search_duckdb) - [Vector Similarity Search in DuckDB](https://duckdb.org/2024/05/03/vector-similarity-search-vss.html)
 * [2024-05-03, 19:36:59](https://lobste.rs/s/nmz9pk/how_are_zlib_gzip_zip_related) - [How are zlib, gzip and zip related?](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
 * [2024-05-03, 18:03:24](https://lobste.rs/s/xlktns/ux_uuids) - [The UX of UUIDs](https://www.unkey.com/blog/uuid-ux)
