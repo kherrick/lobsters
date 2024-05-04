@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-04, 17:06:54",
+      "https://lobste.rs/s/whd4b5/x_org_on_netbsd_state_things"
+    ],
+    [
+      "X.Org on NetBSD - the state of things",
+      "https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the"
+    ]
+  ],
+  [
+    [
+      "2024-05-04, 17:01:51",
+      "https://lobste.rs/s/gdxcsk/deno_kv_internals_building_database_for"
+    ],
+    [
+      "Deno KV internals: building a database for the modern web",
+      "https://deno.com/blog/building-deno-kv"
+    ]
+  ],
+  [
+    [
       "2024-05-04, 16:33:37",
       "https://lobste.rs/s/odk4s1/figma_s_journey_typescript"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-05-03, 11:19:59",
-      "https://lobste.rs/s/vq3ogu/building_products_with_netbsd_thin"
-    ],
-    [
-      "Building products with NetBSD – thin-clients (2009)",
-      "https://www.bsdcan.org/2009/schedule/attachments/77_BuildingProductsWithNetBSDthin-clients-Stephen-Borrill.pdf"
-    ]
-  ],
-  [
-    [
       "2024-05-03, 11:05:59",
       "https://lobste.rs/s/ivezer/time_linkerd_erased_my_load_balancer"
     ],
@@ -237,16 +247,6 @@
     [
       "Unwind considered harmful?",
       "https://smallcultfollowing.com/babysteps/blog/2024/05/02/unwind-considered-harmful/"
-    ]
-  ],
-  [
-    [
-      "2024-05-02, 10:03:03",
-      "https://lobste.rs/s/ud34df/10_elixir_gotchas"
-    ],
-    [
-      "10 Elixir gotchas",
-      "https://pragtob.wordpress.com/2024/05/01/10-elixir-gotchas/"
     ]
   ]
 ]
