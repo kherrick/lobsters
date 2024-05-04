@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-05-04](index.md)
+
+* [2024-05-04, 05:42:08](https://lobste.rs/s/ajebuy/type_level_programming_rust) - [Type-level Programming in Rust](https://willcrichton.net/notes/type-level-programming/)
