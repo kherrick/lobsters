@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-04, 19:13:15",
+      "https://lobste.rs/s/ogtxq7/rust_for_fsharpers_f_for_rustaceans"
+    ],
+    [
+      "Rust for Fsharpers and F# for Rustaceans",
+      "https://github.com/Dhghomon/rust-fsharp/blob/main/README.md"
+    ]
+  ],
+  [
+    [
       "2024-05-04, 18:46:22",
       "https://lobste.rs/s/nsrbpt/how_build_20_billion_semiconductor_fab"
     ],
@@ -237,16 +247,6 @@
     [
       "Making a 3D Modeler, in C, in a Week",
       "https://danielchasehooper.com/posts/shapeup/"
-    ]
-  ],
-  [
-    [
-      "2024-05-02, 16:53:35",
-      "https://lobste.rs/s/e6pzfr/unwind_considered_harmful"
-    ],
-    [
-      "Unwind considered harmful?",
-      "https://smallcultfollowing.com/babysteps/blog/2024/05/02/unwind-considered-harmful/"
     ]
   ]
 ]
