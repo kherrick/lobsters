@@ -1,1 +1,252 @@
-[]
+[
+  [
+    [
+      "2024-05-04, 19:13:15",
+      "https://lobste.rs/s/ogtxq7/rust_for_fsharpers_f_for_rustaceans"
+    ],
+    [
+      "Rust for Fsharpers and F# for Rustaceans",
+      "https://github.com/Dhghomon/rust-fsharp/blob/main/README.md"
+    ]
+  ],
+  [
+    [
+      "2024-05-04, 18:46:22",
+      "https://lobste.rs/s/nsrbpt/how_build_20_billion_semiconductor_fab"
+    ],
+    [
+      "How to Build a $20 Billion Semiconductor Fab",
+      "https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor"
+    ]
+  ],
+  [
+    [
+      "2024-05-04, 17:06:54",
+      "https://lobste.rs/s/whd4b5/x_org_on_netbsd_state_things"
+    ],
+    [
+      "X.Org on NetBSD - the state of things",
+      "https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the"
+    ]
+  ],
+  [
+    [
+      "2024-05-04, 17:01:51",
+      "https://lobste.rs/s/gdxcsk/deno_kv_internals_building_database_for"
+    ],
+    [
+      "Deno KV internals: building a database for the modern web",
+      "https://deno.com/blog/building-deno-kv"
+    ]
+  ],
+  [
+    [
+      "2024-05-04, 16:33:37",
+      "https://lobste.rs/s/odk4s1/figma_s_journey_typescript"
+    ],
+    [
+      "Figma’s journey to TypeScript",
+      "https://www.figma.com/blog/figmas-journey-to-typescript-compiling-away-our-custom-programming-language/"
+    ]
+  ],
+  [
+    [
+      "2024-05-04, 16:02:36",
+      "https://lobste.rs/s/4wvga3/what_you_need_know_about_modern_css"
+    ],
+    [
+      "What You Need to Know about Modern CSS",
+      "https://frontendmasters.com/blog/what-you-need-to-know-about-modern-css-spring-2024-edition/"
+    ]
+  ],
+  [
+    [
+      "2024-05-04, 14:35:54",
+      "https://lobste.rs/s/icjpyx/swift_s_native_clocks_are_very"
+    ],
+    [
+      "Swift’s native Clocks are very inefficient",
+      "https://wadetregaskis.com/swifts-native-clocks-are-very-inefficient/"
+    ]
+  ],
+  [
+    [
+      "2024-05-04, 12:59:23",
+      "https://lobste.rs/s/hyr87e/rust_rfc_3503_frontmatter"
+    ],
+    [
+      "Rust RFC 3503 - frontmatter",
+      "https://rust-lang.github.io/rfcs/3503-frontmatter.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-04, 12:52:41",
+      "https://lobste.rs/s/uwm3x4/keep_logs_for_retrospective_analysis"
+    ],
+    [
+      "Keep the logs for retrospective analysis",
+      "https://vitonsky.net/blog/2024/05/02/retrospective-of-development-logs"
+    ]
+  ],
+  [
+    [
+      "2024-05-04, 06:30:20",
+      "https://lobste.rs/s/cdko8p/practical_guide_diffusion_models_2022"
+    ],
+    [
+      "A practical guide to Diffusion Models (2022)",
+      "https://selflein.github.io/diffusion_practical_guide"
+    ]
+  ],
+  [
+    [
+      "2024-05-04, 05:42:08",
+      "https://lobste.rs/s/ajebuy/type_level_programming_rust"
+    ],
+    [
+      "Type-level Programming in Rust",
+      "https://willcrichton.net/notes/type-level-programming/"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 21:40:25",
+      "https://lobste.rs/s/iicrvm/freebsd_2024q1_status_report"
+    ],
+    [
+      "FreeBSD 2024Q1 Status Report",
+      "https://www.freebsd.org/status/report-2024-01-2024-03/"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 19:38:35",
+      "https://lobste.rs/s/wwlug1/vector_similarity_search_duckdb"
+    ],
+    [
+      "Vector Similarity Search in DuckDB",
+      "https://duckdb.org/2024/05/03/vector-similarity-search-vss.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 19:36:59",
+      "https://lobste.rs/s/nmz9pk/how_are_zlib_gzip_zip_related"
+    ],
+    [
+      "How are zlib, gzip and zip related?",
+      "https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 18:03:24",
+      "https://lobste.rs/s/xlktns/ux_uuids"
+    ],
+    [
+      "The UX of UUIDs",
+      "https://www.unkey.com/blog/uuid-ux"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 15:52:44",
+      "https://lobste.rs/s/zlfhsx/large_text_compression_benchmark"
+    ],
+    [
+      "Large Text Compression Benchmark",
+      "http://www.mattmahoney.net/dc/text.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 15:00:57",
+      "https://lobste.rs/s/tp1xbn/post_about_refactoring"
+    ],
+    [
+      "A post about refactoring",
+      "https://lobste.rs/s/tp1xbn/post_about_refactoring"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 13:58:15",
+      "https://lobste.rs/s/huqust/mkinitcpio_v39"
+    ],
+    [
+      "mkinitcpio v39",
+      "https://gitlab.archlinux.org/archlinux/mkinitcpio/mkinitcpio/-/releases/v39"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 13:56:58",
+      "https://lobste.rs/s/9mhrkk/proposed_punctuation"
+    ],
+    [
+      "Proposed Punctuation",
+      "https://jonathanzong.github.io/proposed-punctuation/"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 11:05:59",
+      "https://lobste.rs/s/ivezer/time_linkerd_erased_my_load_balancer"
+    ],
+    [
+      "The Time Linkerd Erased My Load Balancer",
+      "https://matduggan.com/the-time-linkerd-erased-my-load-balancer/"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 10:10:17",
+      "https://lobste.rs/s/gvlcjt/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/gvlcjt/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 08:43:10",
+      "https://lobste.rs/s/cwn1q9/ruby_typing_2024_rbs_steep_rbs"
+    ],
+    [
+      "Ruby typing 2024: RBS, Steep, RBS Collections, subjective feelings",
+      "https://brandur.org/fragments/ruby-typing-2024"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 01:03:02",
+      "https://lobste.rs/s/ldkfdg/sudon_t"
+    ],
+    [
+      "sudon't",
+      "https://dotat.at/@/2024-05-02-sudo.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-02, 20:54:29",
+      "https://lobste.rs/s/icexso/ecdh_based_oblivious_message_retrieval"
+    ],
+    [
+      "ECDH based Oblivious Message Retrieval",
+      "https://codeberg.org/reach/reach/src/branch/main/common/ecdh-omr"
+    ]
+  ],
+  [
+    [
+      "2024-05-02, 17:00:31",
+      "https://lobste.rs/s/l6julm/making_3d_modeler_c_week"
+    ],
+    [
+      "Making a 3D Modeler, in C, in a Week",
+      "https://danielchasehooper.com/posts/shapeup/"
+    ]
+  ]
+]
