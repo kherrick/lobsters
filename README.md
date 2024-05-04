@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-04, 19:13:15](https://lobste.rs/s/ogtxq7/rust_for_fsharpers_f_for_rustaceans) - [Rust for Fsharpers and F# for Rustaceans](https://github.com/Dhghomon/rust-fsharp/blob/main/README.md)
 * [2024-05-04, 18:46:22](https://lobste.rs/s/nsrbpt/how_build_20_billion_semiconductor_fab) - [How to Build a $20 Billion Semiconductor Fab](https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor)
 * [2024-05-04, 17:06:54](https://lobste.rs/s/whd4b5/x_org_on_netbsd_state_things) - [X.Org on NetBSD - the state of things](https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the)
 * [2024-05-04, 17:01:51](https://lobste.rs/s/gdxcsk/deno_kv_internals_building_database_for) - [Deno KV internals: building a database for the modern web](https://deno.com/blog/building-deno-kv)
@@ -24,7 +25,6 @@
 * [2024-05-03, 01:03:02](https://lobste.rs/s/ldkfdg/sudon_t) - [sudon't](https://dotat.at/@/2024-05-02-sudo.html)
 * [2024-05-02, 20:54:29](https://lobste.rs/s/icexso/ecdh_based_oblivious_message_retrieval) - [ECDH based Oblivious Message Retrieval](https://codeberg.org/reach/reach/src/branch/main/common/ecdh-omr)
 * [2024-05-02, 17:00:31](https://lobste.rs/s/l6julm/making_3d_modeler_c_week) - [Making a 3D Modeler, in C, in a Week](https://danielchasehooper.com/posts/shapeup/)
-* [2024-05-02, 16:53:35](https://lobste.rs/s/e6pzfr/unwind_considered_harmful) - [Unwind considered harmful?](https://smallcultfollowing.com/babysteps/blog/2024/05/02/unwind-considered-harmful/)
 
 ## [Archives](archives/index.md)
 
