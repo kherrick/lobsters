@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-04, 20:11:49](https://lobste.rs/s/jgwfkb/no_i_don_t_want_fill_out_your_contact_form) - [No, I don’t want to fill out your contact form](https://adamjones.me/blog/dont-use-contact-forms/)
 * [2024-05-04, 19:13:15](https://lobste.rs/s/ogtxq7/rust_for_fsharpers_f_for_rustaceans) - [Rust for Fsharpers and F# for Rustaceans](https://github.com/Dhghomon/rust-fsharp/blob/main/README.md)
 * [2024-05-04, 18:46:22](https://lobste.rs/s/nsrbpt/how_build_20_billion_semiconductor_fab) - [How to Build a $20 Billion Semiconductor Fab](https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor)
 * [2024-05-04, 17:06:54](https://lobste.rs/s/whd4b5/x_org_on_netbsd_state_things) - [X.Org on NetBSD - the state of things](https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the)
@@ -23,7 +24,6 @@
 * [2024-05-03, 10:10:17](https://lobste.rs/s/gvlcjt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/gvlcjt/what_are_you_doing_this_weekend)
 * [2024-05-03, 08:43:10](https://lobste.rs/s/cwn1q9/ruby_typing_2024_rbs_steep_rbs) - [Ruby typing 2024: RBS, Steep, RBS Collections, subjective feelings](https://brandur.org/fragments/ruby-typing-2024)
 * [2024-05-03, 01:03:02](https://lobste.rs/s/ldkfdg/sudon_t) - [sudon't](https://dotat.at/@/2024-05-02-sudo.html)
-* [2024-05-02, 20:54:29](https://lobste.rs/s/icexso/ecdh_based_oblivious_message_retrieval) - [ECDH based Oblivious Message Retrieval](https://codeberg.org/reach/reach/src/branch/main/common/ecdh-omr)
 * [2024-05-02, 17:00:31](https://lobste.rs/s/l6julm/making_3d_modeler_c_week) - [Making a 3D Modeler, in C, in a Week](https://danielchasehooper.com/posts/shapeup/)
 
 ## [Archives](archives/index.md)
