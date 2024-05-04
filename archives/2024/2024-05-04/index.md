@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-04](index.md)
 
+* [2024-05-04, 16:33:37](https://lobste.rs/s/odk4s1/figma_s_journey_typescript) - [Figma’s journey to TypeScript](https://www.figma.com/blog/figmas-journey-to-typescript-compiling-away-our-custom-programming-language/)
 * [2024-05-04, 16:02:36](https://lobste.rs/s/4wvga3/what_you_need_know_about_modern_css) - [What You Need to Know about Modern CSS](https://frontendmasters.com/blog/what-you-need-to-know-about-modern-css-spring-2024-edition/)
 * [2024-05-04, 14:35:54](https://lobste.rs/s/icjpyx/swift_s_native_clocks_are_very) - [Swift’s native Clocks are very inefficient](https://wadetregaskis.com/swifts-native-clocks-are-very-inefficient/)
 * [2024-05-04, 12:59:23](https://lobste.rs/s/hyr87e/rust_rfc_3503_frontmatter) - [Rust RFC 3503 - frontmatter](https://rust-lang.github.io/rfcs/3503-frontmatter.html)
