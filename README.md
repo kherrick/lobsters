@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-05-05, 00:11:28](https://lobste.rs/s/dsqyan/6_misconceptions_about_using_generative) - [6 Misconceptions About Using Generative AI to Improve Programmer Productivity](https://www.growthaccelerationpartners.com/blog/6-misconceptions-about-using-generative-ai-to-improve-programmer-productivity)
+* [2024-05-05, 01:30:11](https://lobste.rs/s/t6e64r/itanium_system_implementor_s_tale_2005) - [Itanium — A System Implementor’s Tale (2005)](https://www.usenix.org/legacy/publications/library/proceedings/usenix05/tech/general/gray/gray.pdf)
+* [2024-05-05, 01:30:06](https://lobste.rs/s/tyu0pu/bit_stealing_made_legal) - [Bit-Stealing Made Legal](https://perso.ens-lyon.fr/thais.baudon/icfp2023.pdf)
 * [2024-05-04, 23:59:46](https://lobste.rs/s/xmkvr2/why_full_text_search_is_hard) - [Why Full Text Search is Hard](https://transactional.blog/blog/2023-why-full-text-search-is-hard)
 * [2024-05-04, 20:11:49](https://lobste.rs/s/jgwfkb/no_i_don_t_want_fill_out_your_contact_form) - [No, I don’t want to fill out your contact form](https://adamjones.me/blog/dont-use-contact-forms/)
 * [2024-05-04, 19:13:15](https://lobste.rs/s/ogtxq7/rust_for_fsharpers_f_for_rustaceans) - [Rust for Fsharpers and F# for Rustaceans](https://github.com/Dhghomon/rust-fsharp/blob/main/README.md)
@@ -24,7 +25,6 @@
 * [2024-05-03, 11:05:59](https://lobste.rs/s/ivezer/time_linkerd_erased_my_load_balancer) - [The Time Linkerd Erased My Load Balancer](https://matduggan.com/the-time-linkerd-erased-my-load-balancer/)
 * [2024-05-03, 08:43:10](https://lobste.rs/s/cwn1q9/ruby_typing_2024_rbs_steep_rbs) - [Ruby typing 2024: RBS, Steep, RBS Collections, subjective feelings](https://brandur.org/fragments/ruby-typing-2024)
 * [2024-05-03, 01:03:02](https://lobste.rs/s/ldkfdg/sudon_t) - [sudon't](https://dotat.at/@/2024-05-02-sudo.html)
-* [2024-05-02, 17:00:31](https://lobste.rs/s/l6julm/making_3d_modeler_c_week) - [Making a 3D Modeler, in C, in a Week](https://danielchasehooper.com/posts/shapeup/)
 
 ## [Archives](archives/index.md)
 
