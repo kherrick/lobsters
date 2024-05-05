@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-05, 01:52:41](https://lobste.rs/s/drhnog/dillo_release_3_1_0) - [Dillo release 3.1.0](https://dillo-browser.github.io/latest.html)
 * [2024-05-05, 01:30:11](https://lobste.rs/s/t6e64r/itanium_system_implementor_s_tale_2005) - [Itanium — A System Implementor’s Tale (2005)](https://www.usenix.org/legacy/publications/library/proceedings/usenix05/tech/general/gray/gray.pdf)
 * [2024-05-05, 01:30:06](https://lobste.rs/s/tyu0pu/bit_stealing_made_legal) - [Bit-Stealing Made Legal](https://perso.ens-lyon.fr/thais.baudon/icfp2023.pdf)
 * [2024-05-04, 23:59:46](https://lobste.rs/s/xmkvr2/why_full_text_search_is_hard) - [Why Full Text Search is Hard](https://transactional.blog/blog/2023-why-full-text-search-is-hard)
@@ -15,7 +16,6 @@
 * [2024-05-04, 12:52:41](https://lobste.rs/s/uwm3x4/keep_logs_for_retrospective_analysis) - [Keep the logs for retrospective analysis](https://vitonsky.net/blog/2024/05/02/retrospective-of-development-logs)
 * [2024-05-04, 05:42:08](https://lobste.rs/s/ajebuy/type_level_programming_rust_2020) - [Type-level Programming in Rust (2020)](https://willcrichton.net/notes/type-level-programming/)
 * [2024-05-03, 21:40:25](https://lobste.rs/s/iicrvm/freebsd_2024q1_status_report) - [FreeBSD 2024Q1 Status Report](https://www.freebsd.org/status/report-2024-01-2024-03/)
-* [2024-05-03, 19:38:35](https://lobste.rs/s/wwlug1/vector_similarity_search_duckdb) - [Vector Similarity Search in DuckDB](https://duckdb.org/2024/05/03/vector-similarity-search-vss.html)
 * [2024-05-03, 19:36:59](https://lobste.rs/s/nmz9pk/how_are_zlib_gzip_zip_related) - [How are zlib, gzip and zip related?](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
 * [2024-05-03, 18:03:24](https://lobste.rs/s/xlktns/ux_uuids) - [The UX of UUIDs](https://www.unkey.com/blog/uuid-ux)
 * [2024-05-03, 15:52:44](https://lobste.rs/s/zlfhsx/large_text_compression_benchmark) - [Large Text Compression Benchmark](http://www.mattmahoney.net/dc/text.html)
