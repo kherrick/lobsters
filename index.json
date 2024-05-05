@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2024-05-05, 01:30:11",
-      "https://lobste.rs/s/t6e64r/itanium_system_implementor_s_tale_2005"
-    ],
-    [
-      "Itanium — A System Implementor’s Tale (2005)",
-      "https://www.usenix.org/legacy/publications/library/proceedings/usenix05/tech/general/gray/gray.pdf"
-    ]
-  ],
-  [
-    [
       "2024-05-05, 01:30:06",
       "https://lobste.rs/s/tyu0pu/bit_stealing_made_legal"
     ],
@@ -237,6 +227,16 @@
     [
       "What You Need to Know about Modern CSS",
       "https://frontendmasters.com/blog/what-you-need-to-know-about-modern-css-spring-2024-edition/"
+    ]
+  ],
+  [
+    [
+      "2024-05-04, 14:35:54",
+      "https://lobste.rs/s/icjpyx/swift_s_native_clocks_are_very"
+    ],
+    [
+      "Swift’s native Clocks are very inefficient",
+      "https://wadetregaskis.com/swifts-native-clocks-are-very-inefficient/"
     ]
   ],
   [
