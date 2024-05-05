@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-05, 11:00:42](https://lobste.rs/s/bc7egi/supply_chain_attacks_many_different_ways) - [Supply chain attacks and the many different ways I've backdoored your dependencies](https://kerkour.com/backdoored-dependencies-and-supply-chain-attacks)
 * [2024-05-05, 07:01:07](https://lobste.rs/s/y2ny0a/surfraw_admin_surfraw) - [surfraw admin / Surfraw](https://gitlab.com/surfraw/Surfraw)
 * [2024-05-05, 06:53:25](https://lobste.rs/s/wytlgx/unveiling_secrets_esp32_part_2_reverse) - [Unveiling secrets of the ESP32 part 2: reverse engineering RX](https://zeus.ugent.be/blog/23-24/esp32-reverse-engineering-continued/)
 * [2024-05-05, 05:42:45](https://lobste.rs/s/ngwmzu/with_powerpc_windows_ce_wiin_pad_slate) - [With PowerPC, Windows CE and the WiiN-PAD slate, everyone's a WiiN-er (except Data General)](https://oldvcr.blogspot.com/2024/05/with-powerpc-windows-ce-and-wiin-pad.html)
@@ -24,7 +25,6 @@
 * [2024-05-03, 18:03:24](https://lobste.rs/s/xlktns/ux_uuids) - [The UX of UUIDs](https://www.unkey.com/blog/uuid-ux)
 * [2024-05-03, 13:58:15](https://lobste.rs/s/huqust/mkinitcpio_v39) - [mkinitcpio v39](https://gitlab.archlinux.org/archlinux/mkinitcpio/mkinitcpio/-/releases/v39)
 * [2024-05-03, 13:56:58](https://lobste.rs/s/9mhrkk/proposed_punctuation) - [Proposed Punctuation](https://jonathanzong.github.io/proposed-punctuation/)
-* [2024-05-03, 01:03:02](https://lobste.rs/s/ldkfdg/sudon_t) - [sudon't](https://dotat.at/@/2024-05-02-sudo.html)
 
 ## [Archives](archives/index.md)
 
