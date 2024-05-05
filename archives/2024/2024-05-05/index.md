@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-05](index.md)
 
+* [2024-05-05, 07:01:07](https://lobste.rs/s/y2ny0a/surfraw_admin_surfraw) - [surfraw admin / Surfraw](https://gitlab.com/surfraw/Surfraw)
 * [2024-05-05, 06:53:25](https://lobste.rs/s/wytlgx/unveiling_secrets_esp32_part_2_reverse) - [Unveiling secrets of the ESP32 part 2: reverse engineering RX](https://zeus.ugent.be/blog/23-24/esp32-reverse-engineering-continued/)
 * [2024-05-05, 05:42:45](https://lobste.rs/s/ngwmzu/with_powerpc_windows_ce_wiin_pad_slate) - [With PowerPC, Windows CE and the WiiN-PAD slate, everyone's a WiiN-er (except Data General)](https://oldvcr.blogspot.com/2024/05/with-powerpc-windows-ce-and-wiin-pad.html)
 * [2024-05-05, 05:15:23](https://lobste.rs/s/ajcrtw/forth_bitcoin_miner_for_pc_game_boy) - [Forth Bitcoin miner for PC and Game Boy](https://www.youtube.com/watch?v=QGpZl23vXbw)
