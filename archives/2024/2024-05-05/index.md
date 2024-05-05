@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-05](index.md)
 
+* [2024-05-05, 22:42:40](https://lobste.rs/s/lvmd7b/speeding_up_elf_relocations_for_store) - [Speeding up ELF relocations for store-based systems](https://fzakaria.com/2024/05/03/speeding-up-elf-relocations-for-store-based-systems.html)
 * [2024-05-05, 21:19:52](https://lobste.rs/s/ery3vy/c_iceberg) - [The C++ Iceberg](https://fouronnes.github.io/cppiceberg/)
 * [2024-05-05, 21:02:45](https://lobste.rs/s/ysnyyh/rfc_3285_using_microsoft_word_create) - [RFC 3285: Using Microsoft Word to create Internet Drafts and RFCs](https://datatracker.ietf.org/doc/html/rfc3285)
 * [2024-05-05, 20:42:28](https://lobste.rs/s/nwjvxl/infini_gram_scaling_unbounded_n_gram) - [Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion Tokens](https://arxiv.org/abs/2401.17377)
