@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-05-05](index.md)
+
+* [2024-05-05, 00:11:28](https://lobste.rs/s/dsqyan/6_misconceptions_about_using_generative) - [6 Misconceptions About Using Generative AI to Improve Programmer Productivity](https://www.growthaccelerationpartners.com/blog/6-misconceptions-about-using-generative-ai-to-improve-programmer-productivity)

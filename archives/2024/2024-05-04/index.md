@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-04](index.md)
 
+* [2024-05-04, 23:59:46](https://lobste.rs/s/xmkvr2/why_full_text_search_is_hard) - [Why Full Text Search is Hard](https://transactional.blog/blog/2023-why-full-text-search-is-hard)
 * [2024-05-04, 20:11:49](https://lobste.rs/s/jgwfkb/no_i_don_t_want_fill_out_your_contact_form) - [No, I don’t want to fill out your contact form](https://adamjones.me/blog/dont-use-contact-forms/)
 * [2024-05-04, 19:13:15](https://lobste.rs/s/ogtxq7/rust_for_fsharpers_f_for_rustaceans) - [Rust for Fsharpers and F# for Rustaceans](https://github.com/Dhghomon/rust-fsharp/blob/main/README.md)
 * [2024-05-04, 18:46:22](https://lobste.rs/s/nsrbpt/how_build_20_billion_semiconductor_fab) - [How to Build a $20 Billion Semiconductor Fab](https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor)
@@ -15,4 +16,5 @@
 * [2024-05-04, 12:59:23](https://lobste.rs/s/hyr87e/rust_rfc_3503_frontmatter) - [Rust RFC 3503 - frontmatter](https://rust-lang.github.io/rfcs/3503-frontmatter.html)
 * [2024-05-04, 12:52:41](https://lobste.rs/s/uwm3x4/keep_logs_for_retrospective_analysis) - [Keep the logs for retrospective analysis](https://vitonsky.net/blog/2024/05/02/retrospective-of-development-logs)
 * [2024-05-04, 06:30:20](https://lobste.rs/s/cdko8p/practical_guide_diffusion_models_2022) - [A practical guide to Diffusion Models (2022)](https://selflein.github.io/diffusion_practical_guide)
+* [2024-05-04, 05:42:08](https://lobste.rs/s/ajebuy/type_level_programming_rust_2020) - [Type-level Programming in Rust (2020)](https://willcrichton.net/notes/type-level-programming/)
 * [2024-05-04, 05:42:08](https://lobste.rs/s/ajebuy/type_level_programming_rust) - [Type-level Programming in Rust](https://willcrichton.net/notes/type-level-programming/)
