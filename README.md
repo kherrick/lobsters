@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-05, 12:05:27](https://lobste.rs/s/us0ejr/kvql_sql_like_query_language_on_general) - [kvql: A SQL-like query language on general Key-Value DB](https://github.com/c4pt0r/kvql)
 * [2024-05-05, 11:00:42](https://lobste.rs/s/bc7egi/supply_chain_attacks_many_different_ways) - [Supply chain attacks and the many different ways I've backdoored your dependencies](https://kerkour.com/backdoored-dependencies-and-supply-chain-attacks)
 * [2024-05-05, 07:01:07](https://lobste.rs/s/y2ny0a/surfraw_admin_surfraw) - [surfraw admin / Surfraw](https://gitlab.com/surfraw/Surfraw)
 * [2024-05-05, 06:53:25](https://lobste.rs/s/wytlgx/unveiling_secrets_esp32_part_2_reverse) - [Unveiling secrets of the ESP32 part 2: reverse engineering RX](https://zeus.ugent.be/blog/23-24/esp32-reverse-engineering-continued/)
@@ -20,7 +21,6 @@
 * [2024-05-04, 12:59:23](https://lobste.rs/s/hyr87e/rust_rfc_3503_frontmatter) - [Rust RFC 3503 - frontmatter](https://rust-lang.github.io/rfcs/3503-frontmatter.html)
 * [2024-05-04, 12:52:41](https://lobste.rs/s/uwm3x4/keep_logs_for_retrospective_analysis) - [Keep the logs for retrospective analysis](https://vitonsky.net/blog/2024/05/02/retrospective-of-development-logs)
 * [2024-05-04, 05:42:08](https://lobste.rs/s/ajebuy/type_level_programming_rust_2020) - [Type-level Programming in Rust (2020)](https://willcrichton.net/notes/type-level-programming/)
-* [2024-05-03, 21:40:25](https://lobste.rs/s/iicrvm/freebsd_2024q1_status_report) - [FreeBSD 2024Q1 Status Report](https://www.freebsd.org/status/report-2024-01-2024-03/)
 * [2024-05-03, 19:36:59](https://lobste.rs/s/nmz9pk/how_are_zlib_gzip_zip_related) - [How are zlib, gzip and zip related?](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
 * [2024-05-03, 18:03:24](https://lobste.rs/s/xlktns/ux_uuids) - [The UX of UUIDs](https://www.unkey.com/blog/uuid-ux)
 * [2024-05-03, 13:58:15](https://lobste.rs/s/huqust/mkinitcpio_v39) - [mkinitcpio v39](https://gitlab.archlinux.org/archlinux/mkinitcpio/mkinitcpio/-/releases/v39)

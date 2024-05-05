@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-05](index.md)
 
+* [2024-05-05, 12:05:27](https://lobste.rs/s/us0ejr/kvql_sql_like_query_language_on_general) - [kvql: A SQL-like query language on general Key-Value DB](https://github.com/c4pt0r/kvql)
 * [2024-05-05, 11:00:42](https://lobste.rs/s/bc7egi/supply_chain_attacks_many_different_ways) - [Supply chain attacks and the many different ways I've backdoored your dependencies](https://kerkour.com/backdoored-dependencies-and-supply-chain-attacks)
 * [2024-05-05, 07:01:07](https://lobste.rs/s/y2ny0a/surfraw_admin_surfraw) - [surfraw admin / Surfraw](https://gitlab.com/surfraw/Surfraw)
 * [2024-05-05, 06:53:25](https://lobste.rs/s/wytlgx/unveiling_secrets_esp32_part_2_reverse) - [Unveiling secrets of the ESP32 part 2: reverse engineering RX](https://zeus.ugent.be/blog/23-24/esp32-reverse-engineering-continued/)
