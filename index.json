@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-05, 20:42:28",
+      "https://lobste.rs/s/nwjvxl/infini_gram_scaling_unbounded_n_gram"
+    ],
+    [
+      "Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion Tokens",
+      "https://arxiv.org/abs/2401.17377"
+    ]
+  ],
+  [
+    [
       "2024-05-05, 20:14:33",
       "https://lobste.rs/s/kfbeyy/thinking_is_bad_implications_human_error"
     ],
@@ -197,16 +207,6 @@
     [
       "X.Org on NetBSD - the state of things",
       "https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the"
-    ]
-  ],
-  [
-    [
-      "2024-05-04, 17:01:51",
-      "https://lobste.rs/s/gdxcsk/deno_kv_internals_building_database_for"
-    ],
-    [
-      "Deno KV internals: building a database for the modern web",
-      "https://deno.com/blog/building-deno-kv"
     ]
   ],
   [
