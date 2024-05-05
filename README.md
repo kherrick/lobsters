@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-05, 18:32:32](https://lobste.rs/s/jz8llc/toolchain_necromancy_past_mistakes) - [Toolchain Necromancy: Past Mistakes Haunting ASLR](https://grsecurity.net/toolchain_necromancy_past_mistakes_haunting_aslr)
 * [2024-05-05, 17:23:16](https://lobste.rs/s/2sixlc/timeouts_cancellation_for_humans) - [Timeouts and cancellation for humans](https://vorpus.org/blog/timeouts-and-cancellation-for-humans/)
 * [2024-05-05, 15:58:53](https://lobste.rs/s/rti4it/how_llms_work_explained_without_math) - [How LLMs Work, Explained Without Math](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math)
 * [2024-05-05, 15:52:33](https://lobste.rs/s/h5k6bd/daily_driving_kde_plasma_mobile) - [Daily driving KDE Plasma Mobile](https://fam-ribbers.com/blog/2024-05-05-daily-driving-plasma-mobile/)
@@ -24,7 +25,6 @@
 * [2024-05-04, 14:35:54](https://lobste.rs/s/icjpyx/swift_s_native_clocks_are_very) - [Swift’s native Clocks are very inefficient](https://wadetregaskis.com/swifts-native-clocks-are-very-inefficient/)
 * [2024-05-04, 12:59:23](https://lobste.rs/s/hyr87e/rust_rfc_3503_frontmatter) - [Rust RFC 3503 - frontmatter](https://rust-lang.github.io/rfcs/3503-frontmatter.html)
 * [2024-05-04, 12:52:41](https://lobste.rs/s/uwm3x4/keep_logs_for_retrospective_analysis) - [Keep the logs for retrospective analysis](https://vitonsky.net/blog/2024/05/02/retrospective-of-development-logs)
-* [2024-05-03, 19:36:59](https://lobste.rs/s/nmz9pk/how_are_zlib_gzip_zip_related) - [How are zlib, gzip and zip related?](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
 
 ## [Archives](archives/index.md)
 
