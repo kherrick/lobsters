@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-05](index.md)
 
+* [2024-05-05, 21:19:52](https://lobste.rs/s/ery3vy/c_iceberg) - [The C++ Iceberg](https://fouronnes.github.io/cppiceberg/)
 * [2024-05-05, 21:02:45](https://lobste.rs/s/ysnyyh/rfc_3285_using_microsoft_word_create) - [RFC 3285: Using Microsoft Word to create Internet Drafts and RFCs](https://datatracker.ietf.org/doc/html/rfc3285)
 * [2024-05-05, 20:42:28](https://lobste.rs/s/nwjvxl/infini_gram_scaling_unbounded_n_gram) - [Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion Tokens](https://arxiv.org/abs/2401.17377)
 * [2024-05-05, 20:14:33](https://lobste.rs/s/kfbeyy/thinking_is_bad_implications_human_error) - [Thinking is Bad: Implications of Human Error Research for Spreadsheet Research and Practice](https://arxiv.org/abs/0801.3114)

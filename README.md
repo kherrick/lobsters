@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-05, 21:19:52](https://lobste.rs/s/ery3vy/c_iceberg) - [The C++ Iceberg](https://fouronnes.github.io/cppiceberg/)
 * [2024-05-05, 21:02:45](https://lobste.rs/s/ysnyyh/rfc_3285_using_microsoft_word_create) - [RFC 3285: Using Microsoft Word to create Internet Drafts and RFCs](https://datatracker.ietf.org/doc/html/rfc3285)
 * [2024-05-05, 20:42:28](https://lobste.rs/s/nwjvxl/infini_gram_scaling_unbounded_n_gram) - [Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion Tokens](https://arxiv.org/abs/2401.17377)
 * [2024-05-05, 20:14:33](https://lobste.rs/s/kfbeyy/thinking_is_bad_implications_human_error) - [Thinking is Bad: Implications of Human Error Research for Spreadsheet Research and Practice](https://arxiv.org/abs/0801.3114)
@@ -23,7 +24,6 @@
 * [2024-05-04, 18:46:22](https://lobste.rs/s/nsrbpt/how_build_20_billion_semiconductor_fab) - [How to Build a $20 Billion Semiconductor Fab](https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor)
 * [2024-05-04, 17:06:54](https://lobste.rs/s/whd4b5/x_org_on_netbsd_state_things) - [X.Org on NetBSD - the state of things](https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the)
 * [2024-05-04, 16:02:36](https://lobste.rs/s/4wvga3/what_you_need_know_about_modern_css) - [What You Need to Know about Modern CSS](https://frontendmasters.com/blog/what-you-need-to-know-about-modern-css-spring-2024-edition/)
-* [2024-05-04, 14:35:54](https://lobste.rs/s/icjpyx/swift_s_native_clocks_are_very) - [Swift’s native Clocks are very inefficient](https://wadetregaskis.com/swifts-native-clocks-are-very-inefficient/)
 * [2024-05-04, 12:59:23](https://lobste.rs/s/hyr87e/rust_rfc_3503_frontmatter) - [Rust RFC 3503 - frontmatter](https://rust-lang.github.io/rfcs/3503-frontmatter.html)
 
 ## [Archives](archives/index.md)
