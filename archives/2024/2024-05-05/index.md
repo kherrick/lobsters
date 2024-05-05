@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-05](index.md)
 
+* [2024-05-05, 15:58:53](https://lobste.rs/s/rti4it/how_llms_work_explained_without_math) - [How LLMs Work, Explained Without Math](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math)
+* [2024-05-05, 15:52:33](https://lobste.rs/s/h5k6bd/daily_driving_kde_plasma_mobile) - [Daily driving KDE Plasma Mobile](https://fam-ribbers.com/blog/2024-05-05-daily-driving-plasma-mobile/)
 * [2024-05-05, 13:35:04](https://lobste.rs/s/flvyow/verus_verified_rust_for_low_level_systems) - [verus: Verified Rust for low-level systems code](https://github.com/verus-lang/verus)
 * [2024-05-05, 12:05:27](https://lobste.rs/s/us0ejr/kvql_sql_like_query_language_on_general) - [kvql: A SQL-like query language on general Key-Value DB](https://github.com/c4pt0r/kvql)
 * [2024-05-05, 11:00:42](https://lobste.rs/s/bc7egi/supply_chain_attacks_many_different_ways) - [Supply chain attacks and the many different ways I've backdoored your dependencies](https://kerkour.com/backdoored-dependencies-and-supply-chain-attacks)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-05, 15:58:53](https://lobste.rs/s/rti4it/how_llms_work_explained_without_math) - [How LLMs Work, Explained Without Math](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math)
+* [2024-05-05, 15:52:33](https://lobste.rs/s/h5k6bd/daily_driving_kde_plasma_mobile) - [Daily driving KDE Plasma Mobile](https://fam-ribbers.com/blog/2024-05-05-daily-driving-plasma-mobile/)
 * [2024-05-05, 13:35:04](https://lobste.rs/s/flvyow/verus_verified_rust_for_low_level_systems) - [verus: Verified Rust for low-level systems code](https://github.com/verus-lang/verus)
 * [2024-05-05, 12:05:27](https://lobste.rs/s/us0ejr/kvql_sql_like_query_language_on_general) - [kvql: A SQL-like query language on general Key-Value DB](https://github.com/c4pt0r/kvql)
 * [2024-05-05, 11:00:42](https://lobste.rs/s/bc7egi/supply_chain_attacks_many_different_ways) - [Supply chain attacks and the many different ways I've backdoored your dependencies](https://kerkour.com/backdoored-dependencies-and-supply-chain-attacks)
@@ -23,8 +25,6 @@
 * [2024-05-04, 12:52:41](https://lobste.rs/s/uwm3x4/keep_logs_for_retrospective_analysis) - [Keep the logs for retrospective analysis](https://vitonsky.net/blog/2024/05/02/retrospective-of-development-logs)
 * [2024-05-04, 05:42:08](https://lobste.rs/s/ajebuy/type_level_programming_rust_2020) - [Type-level Programming in Rust (2020)](https://willcrichton.net/notes/type-level-programming/)
 * [2024-05-03, 19:36:59](https://lobste.rs/s/nmz9pk/how_are_zlib_gzip_zip_related) - [How are zlib, gzip and zip related?](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
-* [2024-05-03, 13:58:15](https://lobste.rs/s/huqust/mkinitcpio_v39) - [mkinitcpio v39](https://gitlab.archlinux.org/archlinux/mkinitcpio/mkinitcpio/-/releases/v39)
-* [2024-05-03, 13:56:58](https://lobste.rs/s/9mhrkk/proposed_punctuation) - [Proposed Punctuation](https://jonathanzong.github.io/proposed-punctuation/)
 
 ## [Archives](archives/index.md)
 
