@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-05, 22:42:40",
+      "https://lobste.rs/s/lvmd7b/speeding_up_elf_relocations_for_store"
+    ],
+    [
+      "Speeding up ELF relocations for store-based systems",
+      "https://fzakaria.com/2024/05/03/speeding-up-elf-relocations-for-store-based-systems.html"
+    ]
+  ],
+  [
+    [
       "2024-05-05, 21:19:52",
       "https://lobste.rs/s/ery3vy/c_iceberg"
     ],
@@ -227,16 +237,6 @@
     [
       "What You Need to Know about Modern CSS",
       "https://frontendmasters.com/blog/what-you-need-to-know-about-modern-css-spring-2024-edition/"
-    ]
-  ],
-  [
-    [
-      "2024-05-04, 14:35:54",
-      "https://lobste.rs/s/icjpyx/swift_s_native_clocks_are_very"
-    ],
-    [
-      "Swift’s native Clocks are very inefficient",
-      "https://wadetregaskis.com/swifts-native-clocks-are-very-inefficient/"
     ]
   ],
   [
