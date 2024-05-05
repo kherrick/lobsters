@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-05](index.md)
 
+* [2024-05-05, 06:53:25](https://lobste.rs/s/wytlgx/unveiling_secrets_esp32_part_2_reverse) - [Unveiling secrets of the ESP32 part 2: reverse engineering RX](https://zeus.ugent.be/blog/23-24/esp32-reverse-engineering-continued/)
 * [2024-05-05, 05:42:45](https://lobste.rs/s/ngwmzu/with_powerpc_windows_ce_wiin_pad_slate) - [With PowerPC, Windows CE and the WiiN-PAD slate, everyone's a WiiN-er (except Data General)](https://oldvcr.blogspot.com/2024/05/with-powerpc-windows-ce-and-wiin-pad.html)
 * [2024-05-05, 05:15:23](https://lobste.rs/s/ajcrtw/forth_bitcoin_miner_for_pc_game_boy) - [Forth Bitcoin miner for PC and Game Boy](https://www.youtube.com/watch?v=QGpZl23vXbw)
 * [2024-05-05, 01:52:41](https://lobste.rs/s/drhnog/dillo_release_3_1_0) - [Dillo release 3.1.0](https://dillo-browser.github.io/latest.html)
