@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-05, 12:05:27",
+      "https://lobste.rs/s/us0ejr/kvql_sql_like_query_language_on_general"
+    ],
+    [
+      "kvql: A SQL-like query language on general Key-Value DB",
+      "https://github.com/c4pt0r/kvql"
+    ]
+  ],
+  [
+    [
       "2024-05-05, 11:00:42",
       "https://lobste.rs/s/bc7egi/supply_chain_attacks_many_different_ways"
     ],
@@ -197,16 +207,6 @@
     [
       "Type-level Programming in Rust (2020)",
       "https://willcrichton.net/notes/type-level-programming/"
-    ]
-  ],
-  [
-    [
-      "2024-05-03, 21:40:25",
-      "https://lobste.rs/s/iicrvm/freebsd_2024q1_status_report"
-    ],
-    [
-      "FreeBSD 2024Q1 Status Report",
-      "https://www.freebsd.org/status/report-2024-01-2024-03/"
     ]
   ],
   [
