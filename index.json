@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-05, 21:19:52",
+      "https://lobste.rs/s/ery3vy/c_iceberg"
+    ],
+    [
+      "The C++ Iceberg",
+      "https://fouronnes.github.io/cppiceberg/"
+    ]
+  ],
+  [
+    [
       "2024-05-05, 21:02:45",
       "https://lobste.rs/s/ysnyyh/rfc_3285_using_microsoft_word_create"
     ],
@@ -227,16 +237,6 @@
     [
       "What You Need to Know about Modern CSS",
       "https://frontendmasters.com/blog/what-you-need-to-know-about-modern-css-spring-2024-edition/"
-    ]
-  ],
-  [
-    [
-      "2024-05-04, 14:35:54",
-      "https://lobste.rs/s/icjpyx/swift_s_native_clocks_are_very"
-    ],
-    [
-      "Swift’s native Clocks are very inefficient",
-      "https://wadetregaskis.com/swifts-native-clocks-are-very-inefficient/"
     ]
   ],
   [
