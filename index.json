@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-05, 20:14:33",
+      "https://lobste.rs/s/kfbeyy/thinking_is_bad_implications_human_error"
+    ],
+    [
+      "Thinking is Bad: Implications of Human Error Research for Spreadsheet Research and Practice",
+      "https://arxiv.org/abs/0801.3114"
+    ]
+  ],
+  [
+    [
       "2024-05-05, 18:32:32",
       "https://lobste.rs/s/jz8llc/toolchain_necromancy_past_mistakes"
     ],
@@ -237,16 +247,6 @@
     [
       "Rust RFC 3503 - frontmatter",
       "https://rust-lang.github.io/rfcs/3503-frontmatter.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-04, 12:52:41",
-      "https://lobste.rs/s/uwm3x4/keep_logs_for_retrospective_analysis"
-    ],
-    [
-      "Keep the logs for retrospective analysis",
-      "https://vitonsky.net/blog/2024/05/02/retrospective-of-development-logs"
     ]
   ]
 ]
