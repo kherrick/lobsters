@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-05, 05:15:23](https://lobste.rs/s/ajcrtw/forth_bitcoin_miner_for_pc_game_boy) - [Forth Bitcoin miner for PC and Game Boy](https://www.youtube.com/watch?v=QGpZl23vXbw)
 * [2024-05-05, 01:52:41](https://lobste.rs/s/drhnog/dillo_release_3_1_0) - [Dillo release 3.1.0](https://dillo-browser.github.io/latest.html)
 * [2024-05-05, 01:30:11](https://lobste.rs/s/t6e64r/itanium_system_implementor_s_tale_2005) - [Itanium — A System Implementor’s Tale (2005)](https://www.usenix.org/legacy/publications/library/proceedings/usenix05/tech/general/gray/gray.pdf)
 * [2024-05-05, 01:30:06](https://lobste.rs/s/tyu0pu/bit_stealing_made_legal) - [Bit-Stealing Made Legal](https://perso.ens-lyon.fr/thais.baudon/icfp2023.pdf)
@@ -19,7 +20,6 @@
 * [2024-05-03, 19:38:35](https://lobste.rs/s/wwlug1/vector_similarity_search_duckdb) - [Vector Similarity Search in DuckDB](https://duckdb.org/2024/05/03/vector-similarity-search-vss.html)
 * [2024-05-03, 19:36:59](https://lobste.rs/s/nmz9pk/how_are_zlib_gzip_zip_related) - [How are zlib, gzip and zip related?](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
 * [2024-05-03, 18:03:24](https://lobste.rs/s/xlktns/ux_uuids) - [The UX of UUIDs](https://www.unkey.com/blog/uuid-ux)
-* [2024-05-03, 15:52:44](https://lobste.rs/s/zlfhsx/large_text_compression_benchmark) - [Large Text Compression Benchmark](http://www.mattmahoney.net/dc/text.html)
 * [2024-05-03, 13:58:15](https://lobste.rs/s/huqust/mkinitcpio_v39) - [mkinitcpio v39](https://gitlab.archlinux.org/archlinux/mkinitcpio/mkinitcpio/-/releases/v39)
 * [2024-05-03, 13:56:58](https://lobste.rs/s/9mhrkk/proposed_punctuation) - [Proposed Punctuation](https://jonathanzong.github.io/proposed-punctuation/)
 * [2024-05-03, 11:05:59](https://lobste.rs/s/ivezer/time_linkerd_erased_my_load_balancer) - [The Time Linkerd Erased My Load Balancer](https://matduggan.com/the-time-linkerd-erased-my-load-balancer/)
