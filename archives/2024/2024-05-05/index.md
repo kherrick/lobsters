@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-05](index.md)
 
+* [2024-05-05, 20:14:33](https://lobste.rs/s/kfbeyy/thinking_is_bad_implications_human_error) - [Thinking is Bad: Implications of Human Error Research for Spreadsheet Research and Practice](https://arxiv.org/abs/0801.3114)
 * [2024-05-05, 18:32:32](https://lobste.rs/s/jz8llc/toolchain_necromancy_past_mistakes) - [Toolchain Necromancy: Past Mistakes Haunting ASLR](https://grsecurity.net/toolchain_necromancy_past_mistakes_haunting_aslr)
 * [2024-05-05, 17:23:16](https://lobste.rs/s/2sixlc/timeouts_cancellation_for_humans_2018) - [Timeouts and cancellation for humans (2018)](https://vorpus.org/blog/timeouts-and-cancellation-for-humans/)
 * [2024-05-05, 17:23:16](https://lobste.rs/s/2sixlc/timeouts_cancellation_for_humans) - [Timeouts and cancellation for humans](https://vorpus.org/blog/timeouts-and-cancellation-for-humans/)
