@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-05-05, 00:11:28",
-      "https://lobste.rs/s/dsqyan/6_misconceptions_about_using_generative"
+      "2024-05-05, 01:30:11",
+      "https://lobste.rs/s/t6e64r/itanium_system_implementor_s_tale_2005"
     ],
     [
-      "6 Misconceptions About Using Generative AI to Improve Programmer Productivity",
-      "https://www.growthaccelerationpartners.com/blog/6-misconceptions-about-using-generative-ai-to-improve-programmer-productivity"
+      "Itanium — A System Implementor’s Tale (2005)",
+      "https://www.usenix.org/legacy/publications/library/proceedings/usenix05/tech/general/gray/gray.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-05-05, 01:30:06",
+      "https://lobste.rs/s/tyu0pu/bit_stealing_made_legal"
+    ],
+    [
+      "Bit-Stealing Made Legal",
+      "https://perso.ens-lyon.fr/thais.baudon/icfp2023.pdf"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "sudon't",
       "https://dotat.at/@/2024-05-02-sudo.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-02, 17:00:31",
-      "https://lobste.rs/s/l6julm/making_3d_modeler_c_week"
-    ],
-    [
-      "Making a 3D Modeler, in C, in a Week",
-      "https://danielchasehooper.com/posts/shapeup/"
     ]
   ]
 ]
