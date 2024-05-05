@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-05, 11:00:42",
+      "https://lobste.rs/s/bc7egi/supply_chain_attacks_many_different_ways"
+    ],
+    [
+      "Supply chain attacks and the many different ways I've backdoored your dependencies",
+      "https://kerkour.com/backdoored-dependencies-and-supply-chain-attacks"
+    ]
+  ],
+  [
+    [
       "2024-05-05, 07:01:07",
       "https://lobste.rs/s/y2ny0a/surfraw_admin_surfraw"
     ],
@@ -237,16 +247,6 @@
     [
       "Proposed Punctuation",
       "https://jonathanzong.github.io/proposed-punctuation/"
-    ]
-  ],
-  [
-    [
-      "2024-05-03, 01:03:02",
-      "https://lobste.rs/s/ldkfdg/sudon_t"
-    ],
-    [
-      "sudon't",
-      "https://dotat.at/@/2024-05-02-sudo.html"
     ]
   ]
 ]
