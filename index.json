@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2024-05-03, 19:38:35",
+      "https://lobste.rs/s/wwlug1/vector_similarity_search_duckdb"
+    ],
+    [
+      "Vector Similarity Search in DuckDB",
+      "https://duckdb.org/2024/05/03/vector-similarity-search-vss.html"
+    ]
+  ],
+  [
+    [
       "2024-05-03, 19:36:59",
       "https://lobste.rs/s/nmz9pk/how_are_zlib_gzip_zip_related"
     ],
@@ -187,16 +197,6 @@
     [
       "Large Text Compression Benchmark",
       "http://www.mattmahoney.net/dc/text.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-03, 15:00:57",
-      "https://lobste.rs/s/tp1xbn/post_about_refactoring"
-    ],
-    [
-      "A post about refactoring",
-      "https://lobste.rs/s/tp1xbn/post_about_refactoring"
     ]
   ],
   [
