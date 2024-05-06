@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-06, 02:44:12",
+      "https://lobste.rs/s/n3dnfa/exporting_youtube_subscriptions_opml"
+    ],
+    [
+      "Exporting YouTube Subscriptions to OPML and Watching via RSS",
+      "https://www.wezm.net/v2/posts/2024/youtube-subscriptions-opml/"
+    ]
+  ],
+  [
+    [
       "2024-05-06, 01:41:38",
       "https://lobste.rs/s/sqpxhd/decoding_utf8_with_parallel_extract"
     ],
@@ -197,16 +207,6 @@
     [
       "Dillo release 3.1.0",
       "https://dillo-browser.github.io/latest.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-05, 01:30:06",
-      "https://lobste.rs/s/tyu0pu/bit_stealing_made_legal"
-    ],
-    [
-      "Bit-Stealing Made Legal",
-      "https://perso.ens-lyon.fr/thais.baudon/icfp2023.pdf"
     ]
   ],
   [
