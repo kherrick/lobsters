@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2024-05-06, 16:39:38",
+      "https://lobste.rs/s/dnz5gj/designing_efficient_memory_layout_rust"
+    ],
+    [
+      "Designing an efficient memory layout in Rust with unsafe & unions, or, an overlong guide in avoiding dynamic dispatch",
+      "https://alonely0.github.io/blog/unions/"
+    ]
+  ],
+  [
+    [
       "2024-05-06, 16:30:01",
       "https://lobste.rs/s/pci3eh/lila_lil_interpreter_awk"
     ],
@@ -87,16 +97,6 @@
     [
       "Avoiding Emacs bankruptcy, with good financial habits",
       "https://b.tuxes.uk/avoiding-emacs-bankruptcy.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 14:29:48",
-      "https://lobste.rs/s/e2cxpi/life_airline_flight_what_systems_get_you"
-    ],
-    [
-      "Life of an Airline Flight: What Systems Get You From Here to There via the Air (2019)",
-      "https://www.youtube.com/watch?v=8_t41xvPp1w"
     ]
   ],
   [
