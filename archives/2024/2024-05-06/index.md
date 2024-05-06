@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-06](index.md)
 
+* [2024-05-06, 16:14:13](https://lobste.rs/s/8acfhe/automatic_checking_cfgs_at_compile_time) - [Automatic checking of cfgs at compile-time](https://blog.rust-lang.org/2024/05/06/check-cfg.html)
 * [2024-05-06, 15:06:14](https://lobste.rs/s/gjjzns/coding_machines) - [Coding Machines](https://corecursive.com/coding-machines-with-don-and-krystal/)
 * [2024-05-06, 14:57:50](https://lobste.rs/s/lknqgm/avoiding_emacs_bankruptcy_with_good) - [Avoiding Emacs bankruptcy, with good financial habits](https://b.tuxes.uk/avoiding-emacs-bankruptcy.html)
 * [2024-05-06, 14:29:48](https://lobste.rs/s/e2cxpi/life_airline_flight_what_systems_get_you) - [Life of an Airline Flight: What Systems Get You From Here to There via the Air (2019)](https://www.youtube.com/watch?v=8_t41xvPp1w)
