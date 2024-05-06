@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-06, 05:10:44](https://lobste.rs/s/8fp4kq/pair_your_compilers_at_abi_cafe) - [Pair Your Compilers At The ABI Café](https://faultlore.com/blah/abi-puns/)
+* [2024-05-06, 05:10:14](https://lobste.rs/s/fvbycd/dbresolver_multiple_databases_read) - [dbresolver: Multiple databases, read-write splitting for GORM V1](https://github.com/go-gorm-v1/dbresolver)
 * [2024-05-06, 02:44:12](https://lobste.rs/s/n3dnfa/exporting_youtube_subscriptions_opml) - [Exporting YouTube Subscriptions to OPML and Watching via RSS](https://www.wezm.net/v2/posts/2024/youtube-subscriptions-opml/)
 * [2024-05-06, 02:38:28](https://lobste.rs/s/7m6jp8/heat_death_internet) - [Heat Death of the Internet](https://www.takahe.org.nz/heat-death-of-the-internet/)
 * [2024-05-06, 01:41:38](https://lobste.rs/s/sqpxhd/decoding_utf8_with_parallel_extract) - [Decoding UTF8 with Parallel Extract](https://nrk.neocities.org/articles/utf8-pext)
@@ -18,13 +20,11 @@
 * [2024-05-05, 13:35:04](https://lobste.rs/s/flvyow/verus_verified_rust_for_low_level_systems) - [verus: Verified Rust for low-level systems code](https://github.com/verus-lang/verus)
 * [2024-05-05, 12:05:27](https://lobste.rs/s/us0ejr/kvql_sql_like_query_language_on_general) - [kvql: A SQL-like query language on general Key-Value DB](https://github.com/c4pt0r/kvql)
 * [2024-05-05, 06:53:25](https://lobste.rs/s/wytlgx/unveiling_secrets_esp32_part_2_reverse) - [Unveiling secrets of the ESP32 part 2: reverse engineering RX](https://zeus.ugent.be/blog/23-24/esp32-reverse-engineering-continued/)
-* [2024-05-05, 05:42:45](https://lobste.rs/s/ngwmzu/with_powerpc_windows_ce_wiin_pad_slate) - [With PowerPC, Windows CE and the WiiN-PAD slate, everyone's a WiiN-er (except Data General)](https://oldvcr.blogspot.com/2024/05/with-powerpc-windows-ce-and-wiin-pad.html)
 * [2024-05-05, 05:15:23](https://lobste.rs/s/ajcrtw/forth_bitcoin_miner_for_pc_game_boy) - [Forth Bitcoin miner for PC and Game Boy](https://www.youtube.com/watch?v=QGpZl23vXbw)
 * [2024-05-05, 01:52:41](https://lobste.rs/s/drhnog/dillo_release_3_1_0) - [Dillo release 3.1.0](https://dillo-browser.github.io/latest.html)
 * [2024-05-04, 23:59:46](https://lobste.rs/s/xmkvr2/why_full_text_search_is_hard) - [Why Full Text Search is Hard](https://transactional.blog/blog/2023-why-full-text-search-is-hard)
 * [2024-05-04, 18:46:22](https://lobste.rs/s/nsrbpt/how_build_20_billion_semiconductor_fab) - [How to Build a $20 Billion Semiconductor Fab](https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor)
 * [2024-05-04, 17:06:54](https://lobste.rs/s/whd4b5/x_org_on_netbsd_state_things) - [X.Org on NetBSD - the state of things](https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the)
-* [2024-05-04, 16:02:36](https://lobste.rs/s/4wvga3/what_you_need_know_about_modern_css) - [What You Need to Know about Modern CSS](https://frontendmasters.com/blog/what-you-need-to-know-about-modern-css-spring-2024-edition/)
 
 ## [Archives](archives/index.md)
 

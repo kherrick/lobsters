@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-06](index.md)
 
+* [2024-05-06, 05:10:44](https://lobste.rs/s/8fp4kq/pair_your_compilers_at_abi_cafe) - [Pair Your Compilers At The ABI Café](https://faultlore.com/blah/abi-puns/)
+* [2024-05-06, 05:10:14](https://lobste.rs/s/fvbycd/dbresolver_multiple_databases_read) - [dbresolver: Multiple databases, read-write splitting for GORM V1](https://github.com/go-gorm-v1/dbresolver)
 * [2024-05-06, 02:44:12](https://lobste.rs/s/n3dnfa/exporting_youtube_subscriptions_opml) - [Exporting YouTube Subscriptions to OPML and Watching via RSS](https://www.wezm.net/v2/posts/2024/youtube-subscriptions-opml/)
 * [2024-05-06, 02:38:28](https://lobste.rs/s/7m6jp8/heat_death_internet) - [Heat Death of the Internet](https://www.takahe.org.nz/heat-death-of-the-internet/)
 * [2024-05-06, 01:41:38](https://lobste.rs/s/sqpxhd/decoding_utf8_with_parallel_extract) - [Decoding UTF8 with Parallel Extract](https://nrk.neocities.org/articles/utf8-pext)
