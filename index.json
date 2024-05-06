@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2024-05-06, 00:52:15",
+      "https://lobste.rs/s/ivrge4/pretty_printing_ocaml_format_primer"
+    ],
+    [
+      "Pretty Printing in OCaml: A Format Primer",
+      "https://keleshev.com/pretty-printing-in-ocaml-a-format-primer"
+    ]
+  ],
+  [
+    [
       "2024-05-05, 22:42:40",
       "https://lobste.rs/s/lvmd7b/speeding_up_elf_relocations_for_store"
     ],
@@ -207,16 +217,6 @@
     [
       "Daily driving KDE Plasma Mobile",
       "https://fam-ribbers.com/blog/2024-05-05-daily-driving-plasma-mobile/"
-    ]
-  ],
-  [
-    [
-      "2024-05-05, 13:35:04",
-      "https://lobste.rs/s/flvyow/verus_verified_rust_for_low_level_systems"
-    ],
-    [
-      "verus: Verified Rust for low-level systems code",
-      "https://github.com/verus-lang/verus"
     ]
   ],
   [
