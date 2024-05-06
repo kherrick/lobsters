@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-06, 09:47:51](https://lobste.rs/s/4mdzfa/re_implementing_nix_protocol_rust) - [Re-implementing the Nix protocol in Rust](https://www.tweag.io/blog/2024-04-25-nix-protocol-in-rust/)
 * [2024-05-06, 09:07:56](https://lobste.rs/s/qn2rcu/htmx_servant_seamless_powerful_handling) - [HTMX and Servant: Seamless and powerful handling of HTTP errors in HTMX](https://silky.github.io/posts/htmx-haskell-interview.html)
 * [2024-05-06, 08:50:59](https://lobste.rs/s/5vlgf4/lix) - [Lix](https://lix.systems/)
 * [2024-05-06, 05:10:44](https://lobste.rs/s/8fp4kq/pair_your_compilers_at_abi_cafe) - [Pair Your Compilers At The ABI Café](https://faultlore.com/blah/abi-puns/)
@@ -13,7 +14,6 @@
 * [2024-05-06, 00:52:15](https://lobste.rs/s/ivrge4/pretty_printing_ocaml_format_primer) - [Pretty Printing in OCaml: A Format Primer](https://keleshev.com/pretty-printing-in-ocaml-a-format-primer)
 * [2024-05-05, 22:42:40](https://lobste.rs/s/lvmd7b/speeding_up_elf_relocations_for_store) - [Speeding up ELF relocations for store-based systems](https://fzakaria.com/2024/05/03/speeding-up-elf-relocations-for-store-based-systems.html)
 * [2024-05-05, 21:19:52](https://lobste.rs/s/ery3vy/c_iceberg) - [The C++ Iceberg](https://fouronnes.github.io/cppiceberg/)
-* [2024-05-05, 21:02:45](https://lobste.rs/s/ysnyyh/rfc_3285_using_microsoft_word_create) - [RFC 3285: Using Microsoft Word to create Internet Drafts and RFCs](https://datatracker.ietf.org/doc/html/rfc3285)
 * [2024-05-05, 20:42:28](https://lobste.rs/s/nwjvxl/infini_gram_scaling_unbounded_n_gram) - [Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion Tokens](https://arxiv.org/abs/2401.17377)
 * [2024-05-05, 17:23:16](https://lobste.rs/s/2sixlc/timeouts_cancellation_for_humans_2018) - [Timeouts and cancellation for humans (2018)](https://vorpus.org/blog/timeouts-and-cancellation-for-humans/)
 * [2024-05-05, 15:58:53](https://lobste.rs/s/rti4it/how_llms_work_explained_without_math) - [How LLMs Work, Explained Without Math](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math)
