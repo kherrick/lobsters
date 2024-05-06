@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-06, 11:52:26](https://lobste.rs/s/ulebub/i_survived_curl_up_2024_conference_talks) - [I survived curl up 2024 (conference talks)](https://daniel.haxx.se/blog/2024/05/06/i-survived-curl-up-2024/)
 * [2024-05-06, 11:31:42](https://lobste.rs/s/a6gffu/how_rewrite_c_codebase_successfully) - [How to rewrite a C++ codebase successfully](https://gaultier.github.io/blog/how_to_rewrite_a_cpp_codebase_successfully.html)
 * [2024-05-06, 11:06:43](https://lobste.rs/s/mj48ey/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/mj48ey/what_are_you_doing_this_week)
 * [2024-05-06, 10:31:47](https://lobste.rs/s/1z5xda/what_is_rust_allocator) - [What is in a Rust Allocator?](https://blog.sulami.xyz/posts/what-is-in-a-rust-allocator/)
@@ -14,7 +15,6 @@
 * [2024-05-06, 01:41:38](https://lobste.rs/s/sqpxhd/decoding_utf8_with_parallel_extract) - [Decoding UTF8 with Parallel Extract](https://nrk.neocities.org/articles/utf8-pext)
 * [2024-05-06, 01:08:32](https://lobste.rs/s/dqav20/using_llm_for_text_compression) - [Using an LLM for text compression](https://blog.cleverdomain.org/using-an-llm-for-text-compression)
 * [2024-05-06, 00:55:16](https://lobste.rs/s/zoysdm/announcing_weaver_ergonomic_cli_parsing) - [Announcing Weaver: An ergonomic CLI parsing library for Roc lang](https://sammohr.dev/blog/announcing-weaver)
-* [2024-05-06, 00:52:15](https://lobste.rs/s/ivrge4/pretty_printing_ocaml_format_primer) - [Pretty Printing in OCaml: A Format Primer](https://keleshev.com/pretty-printing-in-ocaml-a-format-primer)
 * [2024-05-05, 22:42:40](https://lobste.rs/s/lvmd7b/speeding_up_elf_relocations_for_store) - [Speeding up ELF relocations for store-based systems](https://fzakaria.com/2024/05/03/speeding-up-elf-relocations-for-store-based-systems.html)
 * [2024-05-05, 21:19:52](https://lobste.rs/s/ery3vy/c_iceberg) - [The C++ Iceberg](https://fouronnes.github.io/cppiceberg/)
 * [2024-05-05, 20:42:28](https://lobste.rs/s/nwjvxl/infini_gram_scaling_unbounded_n_gram) - [Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion Tokens](https://arxiv.org/abs/2401.17377)
