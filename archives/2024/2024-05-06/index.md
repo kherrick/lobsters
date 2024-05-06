@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-06](index.md)
 
+* [2024-05-06, 07:48:43](https://lobste.rs/s/hmrs3m/automq_cost_effective_fork_kafka_can) - [AutoMQ: A Cost-Effective Fork of Kafka That Can Autoscale in Seconds](https://github.com/AutoMQ/automq)
 * [2024-05-06, 05:10:44](https://lobste.rs/s/8fp4kq/pair_your_compilers_at_abi_cafe) - [Pair Your Compilers At The ABI Café](https://faultlore.com/blah/abi-puns/)
 * [2024-05-06, 05:10:14](https://lobste.rs/s/fvbycd/dbresolver_multiple_databases_read) - [dbresolver: Multiple databases, read-write splitting for GORM V1](https://github.com/go-gorm-v1/dbresolver)
 * [2024-05-06, 02:44:12](https://lobste.rs/s/n3dnfa/exporting_youtube_subscriptions_opml) - [Exporting YouTube Subscriptions to OPML and Watching via RSS](https://www.wezm.net/v2/posts/2024/youtube-subscriptions-opml/)
