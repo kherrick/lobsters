@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-06, 16:39:38](https://lobste.rs/s/dnz5gj/designing_efficient_memory_layout_rust) - [Designing an efficient memory layout in Rust with unsafe & unions, or, an overlong guide in avoiding dynamic dispatch](https://alonely0.github.io/blog/unions/)
 * [2024-05-06, 16:30:01](https://lobste.rs/s/pci3eh/lila_lil_interpreter_awk) - [Lila: a Lil Interpreter in Awk](https://beyondloom.com/blog/lila.html)
 * [2024-05-06, 16:14:13](https://lobste.rs/s/8acfhe/automatic_checking_cfgs_at_compile_time) - [Automatic checking of cfgs at compile-time](https://blog.rust-lang.org/2024/05/06/check-cfg.html)
 * [2024-05-06, 15:06:14](https://lobste.rs/s/gjjzns/coding_machines) - [Coding Machines](https://corecursive.com/coding-machines-with-don-and-krystal/)
@@ -24,7 +25,6 @@
 * [2024-05-05, 17:23:16](https://lobste.rs/s/2sixlc/timeouts_cancellation_for_humans_2018) - [Timeouts and cancellation for humans (2018)](https://vorpus.org/blog/timeouts-and-cancellation-for-humans/)
 * [2024-05-05, 15:52:33](https://lobste.rs/s/h5k6bd/daily_driving_kde_plasma_mobile) - [Daily driving KDE Plasma Mobile](https://fam-ribbers.com/blog/2024-05-05-daily-driving-plasma-mobile/)
 * [2024-05-05, 05:15:23](https://lobste.rs/s/ajcrtw/forth_bitcoin_miner_for_pc_game_boy) - [Forth Bitcoin miner for PC and Game Boy](https://www.youtube.com/watch?v=QGpZl23vXbw)
-* [2024-05-05, 01:52:41](https://lobste.rs/s/drhnog/dillo_release_3_1_0) - [Dillo release 3.1.0](https://dillo-browser.github.io/latest.html)
 
 ## [Archives](archives/index.md)
 
