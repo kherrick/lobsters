@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-06, 19:08:49](https://lobste.rs/s/mqyu8s/notqmail_1_09_released) - [notqmail 1.09 released](https://notqmail.org/releases/1.09/)
 * [2024-05-06, 17:47:09](https://lobste.rs/s/nroamu/using_age_with_org_journal) - [Using age with org-journal](https://edmundmiller.dev/posts/org-journal-age/)
 * [2024-05-06, 17:23:37](https://lobste.rs/s/hlanky/modernizing_accessibility_for_desktop) - [Modernizing accessibility for desktop Linux](https://lwn.net/SubscriberLink/971541/9a17fa52fab73bef/)
 * [2024-05-06, 16:43:57](https://lobste.rs/s/r5ugre/history_clu) - [A history of CLU](http://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-561.pdf)
@@ -24,7 +25,6 @@
 * [2024-05-06, 01:08:32](https://lobste.rs/s/dqav20/using_llm_for_text_compression) - [Using an LLM for text compression](https://blog.cleverdomain.org/using-an-llm-for-text-compression)
 * [2024-05-06, 00:55:16](https://lobste.rs/s/zoysdm/announcing_weaver_ergonomic_cli_parsing) - [Announcing Weaver: An ergonomic CLI parsing library for Roc lang](https://sammohr.dev/blog/announcing-weaver)
 * [2024-05-05, 21:19:52](https://lobste.rs/s/ery3vy/c_iceberg) - [The C++ Iceberg](https://fouronnes.github.io/cppiceberg/)
-* [2024-05-05, 17:23:16](https://lobste.rs/s/2sixlc/timeouts_cancellation_for_humans_2018) - [Timeouts and cancellation for humans (2018)](https://vorpus.org/blog/timeouts-and-cancellation-for-humans/)
 
 ## [Archives](archives/index.md)
 
