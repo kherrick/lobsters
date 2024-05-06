@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-05-06, 01:08:32",
+      "https://lobste.rs/s/dqav20/using_llm_for_text_compression"
+    ],
+    [
+      "Using an LLM for text compression",
+      "https://blog.cleverdomain.org/using-an-llm-for-text-compression"
+    ]
+  ],
+  [
+    [
+      "2024-05-06, 00:55:16",
+      "https://lobste.rs/s/zoysdm/announcing_weaver_ergonomic_cli_parsing"
+    ],
+    [
+      "Announcing Weaver: An ergonomic CLI parsing library for Roc lang",
+      "https://sammohr.dev/blog/announcing-weaver"
+    ]
+  ],
+  [
+    [
+      "2024-05-06, 00:52:15",
+      "https://lobste.rs/s/ivrge4/pretty_printing_ocaml_format_primer"
+    ],
+    [
+      "Pretty Printing in OCaml: A Format Primer",
+      "https://keleshev.com/pretty-printing-in-ocaml-a-format-primer"
+    ]
+  ],
+  [
+    [
       "2024-05-05, 22:42:40",
       "https://lobste.rs/s/lvmd7b/speeding_up_elf_relocations_for_store"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2024-05-05, 07:01:07",
-      "https://lobste.rs/s/y2ny0a/surfraw"
-    ],
-    [
-      "Surfraw",
-      "https://gitlab.com/surfraw/Surfraw"
-    ]
-  ],
-  [
-    [
       "2024-05-05, 06:53:25",
       "https://lobste.rs/s/wytlgx/unveiling_secrets_esp32_part_2_reverse"
     ],
@@ -187,26 +207,6 @@
     [
       "Why Full Text Search is Hard",
       "https://transactional.blog/blog/2023-why-full-text-search-is-hard"
-    ]
-  ],
-  [
-    [
-      "2024-05-04, 20:11:49",
-      "https://lobste.rs/s/jgwfkb/no_i_don_t_want_fill_out_your_contact_form"
-    ],
-    [
-      "No, I don’t want to fill out your contact form",
-      "https://adamjones.me/blog/dont-use-contact-forms/"
-    ]
-  ],
-  [
-    [
-      "2024-05-04, 19:13:15",
-      "https://lobste.rs/s/ogtxq7/rust_for_fsharpers_f_for_rustaceans"
-    ],
-    [
-      "Rust for Fsharpers and F# for Rustaceans",
-      "https://github.com/Dhghomon/rust-fsharp/blob/main/README.md"
     ]
   ],
   [
