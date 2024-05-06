@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-06, 16:30:01](https://lobste.rs/s/pci3eh/lila_lil_interpreter_awk) - [Lila: a Lil Interpreter in Awk](https://beyondloom.com/blog/lila.html)
 * [2024-05-06, 16:14:13](https://lobste.rs/s/8acfhe/automatic_checking_cfgs_at_compile_time) - [Automatic checking of cfgs at compile-time](https://blog.rust-lang.org/2024/05/06/check-cfg.html)
 * [2024-05-06, 15:06:14](https://lobste.rs/s/gjjzns/coding_machines) - [Coding Machines](https://corecursive.com/coding-machines-with-don-and-krystal/)
 * [2024-05-06, 14:57:50](https://lobste.rs/s/lknqgm/avoiding_emacs_bankruptcy_with_good) - [Avoiding Emacs bankruptcy, with good financial habits](https://b.tuxes.uk/avoiding-emacs-bankruptcy.html)
@@ -14,7 +15,6 @@
 * [2024-05-06, 09:07:56](https://lobste.rs/s/qn2rcu/htmx_servant_seamless_powerful_handling) - [HTMX and Servant: Seamless and powerful handling of HTTP errors in HTMX](https://silky.github.io/posts/htmx-haskell-interview.html)
 * [2024-05-06, 08:50:59](https://lobste.rs/s/5vlgf4/lix) - [Lix](https://lix.systems/)
 * [2024-05-06, 05:10:44](https://lobste.rs/s/8fp4kq/pair_your_compilers_at_abi_cafe) - [Pair Your Compilers At The ABI Café](https://faultlore.com/blah/abi-puns/)
-* [2024-05-06, 05:10:14](https://lobste.rs/s/fvbycd/dbresolver_multiple_databases_read) - [dbresolver: Multiple databases, read-write splitting for GORM V1](https://github.com/go-gorm-v1/dbresolver)
 * [2024-05-06, 02:44:12](https://lobste.rs/s/n3dnfa/exporting_youtube_subscriptions_opml) - [Exporting YouTube Subscriptions to OPML and Watching via RSS](https://www.wezm.net/v2/posts/2024/youtube-subscriptions-opml/)
 * [2024-05-06, 02:38:28](https://lobste.rs/s/7m6jp8/heat_death_internet) - [Heat Death of the Internet](https://www.takahe.org.nz/heat-death-of-the-internet/)
 * [2024-05-06, 01:08:32](https://lobste.rs/s/dqav20/using_llm_for_text_compression) - [Using an LLM for text compression](https://blog.cleverdomain.org/using-an-llm-for-text-compression)
