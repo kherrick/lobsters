@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-06](index.md)
 
+* [2024-05-06, 11:31:42](https://lobste.rs/s/a6gffu/how_rewrite_c_codebase_successfully) - [How to rewrite a C++ codebase successfully](https://gaultier.github.io/blog/how_to_rewrite_a_cpp_codebase_successfully.html)
 * [2024-05-06, 11:06:43](https://lobste.rs/s/mj48ey/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/mj48ey/what_are_you_doing_this_week)
 * [2024-05-06, 10:31:47](https://lobste.rs/s/1z5xda/what_is_rust_allocator) - [What is in a Rust Allocator?](https://blog.sulami.xyz/posts/what-is-in-a-rust-allocator/)
 * [2024-05-06, 09:54:25](https://lobste.rs/s/anefik/constraining_go_type_parameter_pointers) - [Constraining Go type parameter pointers](https://blog.merovius.de/posts/2024-05-06-pointer-constraints/)

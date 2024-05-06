@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-06, 11:31:42](https://lobste.rs/s/a6gffu/how_rewrite_c_codebase_successfully) - [How to rewrite a C++ codebase successfully](https://gaultier.github.io/blog/how_to_rewrite_a_cpp_codebase_successfully.html)
 * [2024-05-06, 11:06:43](https://lobste.rs/s/mj48ey/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/mj48ey/what_are_you_doing_this_week)
 * [2024-05-06, 10:31:47](https://lobste.rs/s/1z5xda/what_is_rust_allocator) - [What is in a Rust Allocator?](https://blog.sulami.xyz/posts/what-is-in-a-rust-allocator/)
 * [2024-05-06, 09:54:25](https://lobste.rs/s/anefik/constraining_go_type_parameter_pointers) - [Constraining Go type parameter pointers](https://blog.merovius.de/posts/2024-05-06-pointer-constraints/)
@@ -22,7 +23,6 @@
 * [2024-05-05, 15:52:33](https://lobste.rs/s/h5k6bd/daily_driving_kde_plasma_mobile) - [Daily driving KDE Plasma Mobile](https://fam-ribbers.com/blog/2024-05-05-daily-driving-plasma-mobile/)
 * [2024-05-05, 13:35:04](https://lobste.rs/s/flvyow/verus_verified_rust_for_low_level_systems) - [verus: Verified Rust for low-level systems code](https://github.com/verus-lang/verus)
 * [2024-05-05, 12:05:27](https://lobste.rs/s/us0ejr/kvql_sql_like_query_language_on_general) - [kvql: A SQL-like query language on general Key-Value DB](https://github.com/c4pt0r/kvql)
-* [2024-05-05, 06:53:25](https://lobste.rs/s/wytlgx/unveiling_secrets_esp32_part_2_reverse) - [Unveiling secrets of the ESP32 part 2: reverse engineering RX](https://zeus.ugent.be/blog/23-24/esp32-reverse-engineering-continued/)
 * [2024-05-05, 05:15:23](https://lobste.rs/s/ajcrtw/forth_bitcoin_miner_for_pc_game_boy) - [Forth Bitcoin miner for PC and Game Boy](https://www.youtube.com/watch?v=QGpZl23vXbw)
 * [2024-05-05, 01:52:41](https://lobste.rs/s/drhnog/dillo_release_3_1_0) - [Dillo release 3.1.0](https://dillo-browser.github.io/latest.html)
 
