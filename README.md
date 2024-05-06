@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-06, 15:06:14](https://lobste.rs/s/gjjzns/coding_machines) - [Coding Machines](https://corecursive.com/coding-machines-with-don-and-krystal/)
 * [2024-05-06, 14:57:50](https://lobste.rs/s/lknqgm/avoiding_emacs_bankruptcy_with_good) - [Avoiding Emacs bankruptcy, with good financial habits](https://b.tuxes.uk/avoiding-emacs-bankruptcy.html)
 * [2024-05-06, 14:29:48](https://lobste.rs/s/e2cxpi/life_airline_flight_what_systems_get_you) - [Life of an Airline Flight: What Systems Get You From Here to There via the Air (2019)](https://www.youtube.com/watch?v=8_t41xvPp1w)
 * [2024-05-06, 14:07:13](https://lobste.rs/s/fvcghv/encore_for_typescript) - [Encore for TypeScript](https://encore.dev/blog/encore-for-typescript)
@@ -15,7 +16,6 @@
 * [2024-05-06, 05:10:14](https://lobste.rs/s/fvbycd/dbresolver_multiple_databases_read) - [dbresolver: Multiple databases, read-write splitting for GORM V1](https://github.com/go-gorm-v1/dbresolver)
 * [2024-05-06, 02:44:12](https://lobste.rs/s/n3dnfa/exporting_youtube_subscriptions_opml) - [Exporting YouTube Subscriptions to OPML and Watching via RSS](https://www.wezm.net/v2/posts/2024/youtube-subscriptions-opml/)
 * [2024-05-06, 02:38:28](https://lobste.rs/s/7m6jp8/heat_death_internet) - [Heat Death of the Internet](https://www.takahe.org.nz/heat-death-of-the-internet/)
-* [2024-05-06, 01:41:38](https://lobste.rs/s/sqpxhd/decoding_utf8_with_parallel_extract) - [Decoding UTF8 with Parallel Extract](https://nrk.neocities.org/articles/utf8-pext)
 * [2024-05-06, 01:08:32](https://lobste.rs/s/dqav20/using_llm_for_text_compression) - [Using an LLM for text compression](https://blog.cleverdomain.org/using-an-llm-for-text-compression)
 * [2024-05-06, 00:55:16](https://lobste.rs/s/zoysdm/announcing_weaver_ergonomic_cli_parsing) - [Announcing Weaver: An ergonomic CLI parsing library for Roc lang](https://sammohr.dev/blog/announcing-weaver)
 * [2024-05-05, 22:42:40](https://lobste.rs/s/lvmd7b/speeding_up_elf_relocations_for_store) - [Speeding up ELF relocations for store-based systems](https://fzakaria.com/2024/05/03/speeding-up-elf-relocations-for-store-based-systems.html)
