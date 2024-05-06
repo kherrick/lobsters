@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-05-06, 20:22:26](https://lobste.rs/s/mgdr7z/jtag_hacking_with_raspberry_pi) - [JTAG Hacking with a Raspberry Pi - Introducing the PiFex](https://voidstarsec.com/blog/jtag-pifex)
+* [2024-05-06, 20:25:28](https://lobste.rs/s/6h0zc2/introducing_securedrop_protocol) - [Introducing SecureDrop Protocol](Https://securedrop.org/news/introducing-securedrop-protocol)
 * [2024-05-06, 19:08:49](https://lobste.rs/s/mqyu8s/notqmail_1_09_released) - [notqmail 1.09 released](https://notqmail.org/releases/1.09/)
 * [2024-05-06, 17:47:09](https://lobste.rs/s/nroamu/using_age_with_org_journal) - [Using age with org-journal](https://edmundmiller.dev/posts/org-journal-age/)
 * [2024-05-06, 17:23:37](https://lobste.rs/s/hlanky/modernizing_accessibility_for_desktop) - [Modernizing accessibility for desktop Linux](https://lwn.net/SubscriberLink/971541/9a17fa52fab73bef/)
