@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-06, 11:31:42",
+      "https://lobste.rs/s/a6gffu/how_rewrite_c_codebase_successfully"
+    ],
+    [
+      "How to rewrite a C++ codebase successfully",
+      "https://gaultier.github.io/blog/how_to_rewrite_a_cpp_codebase_successfully.html"
+    ]
+  ],
+  [
+    [
       "2024-05-06, 11:06:43",
       "https://lobste.rs/s/mj48ey/what_are_you_doing_this_week"
     ],
@@ -217,16 +227,6 @@
     [
       "kvql: A SQL-like query language on general Key-Value DB",
       "https://github.com/c4pt0r/kvql"
-    ]
-  ],
-  [
-    [
-      "2024-05-05, 06:53:25",
-      "https://lobste.rs/s/wytlgx/unveiling_secrets_esp32_part_2_reverse"
-    ],
-    [
-      "Unveiling secrets of the ESP32 part 2: reverse engineering RX",
-      "https://zeus.ugent.be/blog/23-24/esp32-reverse-engineering-continued/"
     ]
   ],
   [
