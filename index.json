@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-06, 11:52:26",
+      "https://lobste.rs/s/ulebub/i_survived_curl_up_2024_conference_talks"
+    ],
+    [
+      "I survived curl up 2024 (conference talks)",
+      "https://daniel.haxx.se/blog/2024/05/06/i-survived-curl-up-2024/"
+    ]
+  ],
+  [
+    [
       "2024-05-06, 11:31:42",
       "https://lobste.rs/s/a6gffu/how_rewrite_c_codebase_successfully"
     ],
@@ -137,16 +147,6 @@
     [
       "Announcing Weaver: An ergonomic CLI parsing library for Roc lang",
       "https://sammohr.dev/blog/announcing-weaver"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 00:52:15",
-      "https://lobste.rs/s/ivrge4/pretty_printing_ocaml_format_primer"
-    ],
-    [
-      "Pretty Printing in OCaml: A Format Primer",
-      "https://keleshev.com/pretty-printing-in-ocaml-a-format-primer"
     ]
   ],
   [
