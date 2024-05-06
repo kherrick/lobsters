@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-06, 17:47:09",
+      "https://lobste.rs/s/nroamu/using_age_with_org_journal"
+    ],
+    [
+      "Using age with org-journal",
+      "https://edmundmiller.dev/posts/org-journal-age/"
+    ]
+  ],
+  [
+    [
       "2024-05-06, 17:23:37",
       "https://lobste.rs/s/hlanky/modernizing_accessibility_for_desktop"
     ],
@@ -47,16 +57,6 @@
     [
       "Automatic checking of cfgs at compile-time",
       "https://blog.rust-lang.org/2024/05/06/check-cfg.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 15:06:14",
-      "https://lobste.rs/s/gjjzns/coding_machines"
-    ],
-    [
-      "Coding Machines",
-      "https://corecursive.com/coding-machines-with-don-and-krystal/"
     ]
   ],
   [
