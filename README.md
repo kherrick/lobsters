@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-06, 02:44:12](https://lobste.rs/s/n3dnfa/exporting_youtube_subscriptions_opml) - [Exporting YouTube Subscriptions to OPML and Watching via RSS](https://www.wezm.net/v2/posts/2024/youtube-subscriptions-opml/)
 * [2024-05-06, 01:41:38](https://lobste.rs/s/sqpxhd/decoding_utf8_with_parallel_extract) - [Decoding UTF8 with Parallel Extract](https://nrk.neocities.org/articles/utf8-pext)
 * [2024-05-06, 01:37:02](https://lobste.rs/s/16fcyh/history_c_compilers_part_1_performance) - [A History of C Compilers, Part 1: Performance, Portability and Freedom](https://thechipletter.substack.com/p/a-history-of-c-compilers-part-1-performance)
 * [2024-05-06, 01:08:32](https://lobste.rs/s/dqav20/using_llm_for_text_compression) - [Using an LLM for text compression](https://blog.cleverdomain.org/using-an-llm-for-text-compression)
@@ -20,7 +21,6 @@
 * [2024-05-05, 05:42:45](https://lobste.rs/s/ngwmzu/with_powerpc_windows_ce_wiin_pad_slate) - [With PowerPC, Windows CE and the WiiN-PAD slate, everyone's a WiiN-er (except Data General)](https://oldvcr.blogspot.com/2024/05/with-powerpc-windows-ce-and-wiin-pad.html)
 * [2024-05-05, 05:15:23](https://lobste.rs/s/ajcrtw/forth_bitcoin_miner_for_pc_game_boy) - [Forth Bitcoin miner for PC and Game Boy](https://www.youtube.com/watch?v=QGpZl23vXbw)
 * [2024-05-05, 01:52:41](https://lobste.rs/s/drhnog/dillo_release_3_1_0) - [Dillo release 3.1.0](https://dillo-browser.github.io/latest.html)
-* [2024-05-05, 01:30:06](https://lobste.rs/s/tyu0pu/bit_stealing_made_legal) - [Bit-Stealing Made Legal](https://perso.ens-lyon.fr/thais.baudon/icfp2023.pdf)
 * [2024-05-04, 23:59:46](https://lobste.rs/s/xmkvr2/why_full_text_search_is_hard) - [Why Full Text Search is Hard](https://transactional.blog/blog/2023-why-full-text-search-is-hard)
 * [2024-05-04, 18:46:22](https://lobste.rs/s/nsrbpt/how_build_20_billion_semiconductor_fab) - [How to Build a $20 Billion Semiconductor Fab](https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor)
 * [2024-05-04, 17:06:54](https://lobste.rs/s/whd4b5/x_org_on_netbsd_state_things) - [X.Org on NetBSD - the state of things](https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the)
