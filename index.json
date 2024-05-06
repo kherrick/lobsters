@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-05-06, 16:39:38",
+      "https://lobste.rs/s/dnz5gj/designing_efficient_memory_layout_rust"
+    ],
+    [
+      "Designing an efficient memory layout in Rust with unsafe & unions, or, an overlong guide in avoiding dynamic dispatch",
+      "https://alonely0.github.io/blog/unions/"
+    ]
+  ],
+  [
+    [
       "2024-05-06, 16:30:01",
       "https://lobste.rs/s/pci3eh/lila_lil_interpreter_awk"
     ],
@@ -217,16 +227,6 @@
     [
       "Announcing Weaver: An ergonomic CLI parsing library for Roc lang",
       "https://sammohr.dev/blog/announcing-weaver"
-    ]
-  ],
-  [
-    [
-      "2024-05-05, 22:42:40",
-      "https://lobste.rs/s/lvmd7b/speeding_up_elf_relocations_for_store"
-    ],
-    [
-      "Speeding up ELF relocations for store-based systems",
-      "https://fzakaria.com/2024/05/03/speeding-up-elf-relocations-for-store-based-systems.html"
     ]
   ],
   [
