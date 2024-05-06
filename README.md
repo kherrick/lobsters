@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-06, 14:29:48](https://lobste.rs/s/e2cxpi/life_airline_flight_what_systems_get_you) - [Life of an Airline Flight: What Systems Get You From Here to There via the Air (2019)](https://www.youtube.com/watch?v=8_t41xvPp1w)
 * [2024-05-06, 14:07:13](https://lobste.rs/s/fvcghv/encore_for_typescript) - [Encore for TypeScript](https://encore.dev/blog/encore-for-typescript)
 * [2024-05-06, 11:52:26](https://lobste.rs/s/ulebub/i_survived_curl_up_2024_conference_talks) - [I survived curl up 2024 (conference talks)](https://daniel.haxx.se/blog/2024/05/06/i-survived-curl-up-2024/)
 * [2024-05-06, 11:31:42](https://lobste.rs/s/a6gffu/how_rewrite_c_codebase_successfully) - [How to rewrite a C++ codebase successfully](https://gaultier.github.io/blog/how_to_rewrite_a_cpp_codebase_successfully.html)
@@ -20,7 +21,6 @@
 * [2024-05-05, 21:19:52](https://lobste.rs/s/ery3vy/c_iceberg) - [The C++ Iceberg](https://fouronnes.github.io/cppiceberg/)
 * [2024-05-05, 20:42:28](https://lobste.rs/s/nwjvxl/infini_gram_scaling_unbounded_n_gram) - [Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion Tokens](https://arxiv.org/abs/2401.17377)
 * [2024-05-05, 17:23:16](https://lobste.rs/s/2sixlc/timeouts_cancellation_for_humans_2018) - [Timeouts and cancellation for humans (2018)](https://vorpus.org/blog/timeouts-and-cancellation-for-humans/)
-* [2024-05-05, 15:58:53](https://lobste.rs/s/rti4it/how_llms_work_explained_without_math) - [How LLMs Work, Explained Without Math](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math)
 * [2024-05-05, 15:52:33](https://lobste.rs/s/h5k6bd/daily_driving_kde_plasma_mobile) - [Daily driving KDE Plasma Mobile](https://fam-ribbers.com/blog/2024-05-05-daily-driving-plasma-mobile/)
 * [2024-05-05, 12:05:27](https://lobste.rs/s/us0ejr/kvql_sql_like_query_language_on_general) - [kvql: A SQL-like query language on general Key-Value DB](https://github.com/c4pt0r/kvql)
 * [2024-05-05, 05:15:23](https://lobste.rs/s/ajcrtw/forth_bitcoin_miner_for_pc_game_boy) - [Forth Bitcoin miner for PC and Game Boy](https://www.youtube.com/watch?v=QGpZl23vXbw)
