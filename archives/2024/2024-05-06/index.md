@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-06](index.md)
 
+* [2024-05-06, 09:54:25](https://lobste.rs/s/anefik/constraining_go_type_parameter_pointers) - [Constraining Go type parameter pointers](https://blog.merovius.de/posts/2024-05-06-pointer-constraints/)
 * [2024-05-06, 09:47:51](https://lobste.rs/s/4mdzfa/re_implementing_nix_protocol_rust) - [Re-implementing the Nix protocol in Rust](https://www.tweag.io/blog/2024-04-25-nix-protocol-in-rust/)
 * [2024-05-06, 09:07:56](https://lobste.rs/s/qn2rcu/htmx_servant_seamless_powerful_handling) - [HTMX and Servant: Seamless and powerful handling of HTTP errors in HTMX](https://silky.github.io/posts/htmx-haskell-interview.html)
 * [2024-05-06, 08:50:59](https://lobste.rs/s/5vlgf4/lix) - [Lix](https://lix.systems/)
