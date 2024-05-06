@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-06, 16:39:38",
+      "https://lobste.rs/s/dnz5gj/designing_efficient_memory_layout_rust"
+    ],
+    [
+      "Designing an efficient memory layout in Rust with unsafe & unions, or, an overlong guide in avoiding dynamic dispatch",
+      "https://alonely0.github.io/blog/unions/"
+    ]
+  ],
+  [
+    [
       "2024-05-06, 16:30:01",
       "https://lobste.rs/s/pci3eh/lila_lil_interpreter_awk"
     ],
@@ -237,16 +247,6 @@
     [
       "Forth Bitcoin miner for PC and Game Boy",
       "https://www.youtube.com/watch?v=QGpZl23vXbw"
-    ]
-  ],
-  [
-    [
-      "2024-05-05, 01:52:41",
-      "https://lobste.rs/s/drhnog/dillo_release_3_1_0"
-    ],
-    [
-      "Dillo release 3.1.0",
-      "https://dillo-browser.github.io/latest.html"
     ]
   ]
 ]
