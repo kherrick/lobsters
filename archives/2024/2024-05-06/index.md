@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-06](index.md)
 
+* [2024-05-06, 14:57:50](https://lobste.rs/s/lknqgm/avoiding_emacs_bankruptcy_with_good) - [Avoiding Emacs bankruptcy, with good financial habits](https://b.tuxes.uk/avoiding-emacs-bankruptcy.html)
 * [2024-05-06, 14:29:48](https://lobste.rs/s/e2cxpi/life_airline_flight_what_systems_get_you) - [Life of an Airline Flight: What Systems Get You From Here to There via the Air (2019)](https://www.youtube.com/watch?v=8_t41xvPp1w)
 * [2024-05-06, 14:07:13](https://lobste.rs/s/fvcghv/encore_for_typescript) - [Encore for TypeScript](https://encore.dev/blog/encore-for-typescript)
 * [2024-05-06, 11:52:26](https://lobste.rs/s/ulebub/i_survived_curl_up_2024_conference_talks) - [I survived curl up 2024 (conference talks)](https://daniel.haxx.se/blog/2024/05/06/i-survived-curl-up-2024/)
