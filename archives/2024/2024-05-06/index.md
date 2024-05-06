@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-06](index.md)
 
+* [2024-05-06, 22:07:38](https://lobste.rs/s/lin6a8/novel_attack_against_virtually_all_vpn) - [Novel attack against virtually all VPN apps neuters their entire purpose](https://arstechnica.com/security/2024/05/novel-attack-against-virtually-all-vpn-apps-neuters-their-entire-purpose/)
 * [2024-05-06, 20:25:28](https://lobste.rs/s/6h0zc2/introducing_securedrop_protocol) - [Introducing SecureDrop Protocol](Https://securedrop.org/news/introducing-securedrop-protocol)
 * [2024-05-06, 20:22:26](https://lobste.rs/s/mgdr7z/jtag_hacking_with_raspberry_pi) - [JTAG Hacking with a Raspberry Pi - Introducing the PiFex](https://voidstarsec.com/blog/jtag-pifex)
 * [2024-05-06, 19:33:31](https://lobste.rs/s/nxm0yk/building_hypervisor_2_booting_linux) - [Building a hypervisor, 2: Booting Linux](https://iovec.net/2024-05-06)
