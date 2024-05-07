@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-07](index.md)
 
+* [2024-05-07, 08:18:35](https://lobste.rs/s/mpjgvj/alibaba_s_yitian_710_is_fastest_arm_based) - [Alibaba's Yitian 710 is the fastest Arm-based CPU for cloud servers, study claims](https://www.tomshardware.com/desktops/servers/alibabas-yitian-710-is-the-fastest-arm-based-cpu-for-cloud-servers-study-claims)
 * [2024-05-07, 08:02:49](https://lobste.rs/s/bfwe2n/supporting_risc_v_performance_counters) - [Supporting RISC-V Performance Counters for Linux Perf (2021)](https://arxiv.org/abs/2112.11767)
 * [2024-05-07, 07:52:36](https://lobste.rs/s/f69hkk/bluesky_link_aka_short_link_profile) - [BlueSky Link aka short link to profile](https://olegk.dev/bluesky-link)
 * [2024-05-07, 07:15:44](https://lobste.rs/s/moskli/running_netbsd_on_omnios_using_bhyve) - [Running NetBSD on OmniOS using bhyve](https://www.tumfatig.net/2024/running-netbsd-on-omnios-using-bhyve/)
