@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-07, 04:47:38](https://lobste.rs/s/uarqgs/why_bother_with_scripting_2021) - [Why bother with Scripting? (2021)](https://brrt-to-the-future.blogspot.com/2021/03/why-bother-with-scripting.html?m=1)
 * [2024-05-07, 02:26:56](https://lobste.rs/s/ewoh2x/shortridge_makes_sense_2024_verizon_dbir) - [Shortridge Makes Sense of the 2024 Verizon DBIR](https://kellyshortridge.com/blog/posts/shortridge-makes-sense-of-verizon-dbir-2024/)
 * [2024-05-07, 02:26:00](https://lobste.rs/s/rgog14/octox_operating_system_rust_style_xv6) - [octox: Operating system in Rust in the style of xv6-riscv](https://github.com/o8vm/octox)
 * [2024-05-06, 22:07:38](https://lobste.rs/s/lin6a8/novel_attack_against_virtually_all_vpn) - [Novel attack against virtually all VPN apps neuters their entire purpose](https://arstechnica.com/security/2024/05/novel-attack-against-virtually-all-vpn-apps-neuters-their-entire-purpose/)
@@ -10,7 +11,6 @@
 * [2024-05-06, 17:23:37](https://lobste.rs/s/hlanky/modernizing_accessibility_for_desktop) - [Modernizing accessibility for desktop Linux](https://lwn.net/SubscriberLink/971541/9a17fa52fab73bef/)
 * [2024-05-06, 16:43:57](https://lobste.rs/s/r5ugre/history_clu) - [A history of CLU](http://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-561.pdf)
 * [2024-05-06, 16:30:01](https://lobste.rs/s/pci3eh/lila_lil_interpreter_awk) - [Lila: a Lil Interpreter in Awk](https://beyondloom.com/blog/lila.html)
-* [2024-05-06, 15:06:14](https://lobste.rs/s/gjjzns/coding_machines) - [Coding Machines](https://corecursive.com/coding-machines-with-don-and-krystal/)
 * [2024-05-06, 14:57:50](https://lobste.rs/s/lknqgm/avoiding_emacs_bankruptcy_with_good) - [Avoiding Emacs bankruptcy, with good financial habits](https://b.tuxes.uk/avoiding-emacs-bankruptcy.html)
 * [2024-05-06, 14:07:13](https://lobste.rs/s/fvcghv/encore_for_typescript) - [Encore for TypeScript](https://encore.dev/blog/encore-for-typescript)
 * [2024-05-06, 11:31:42](https://lobste.rs/s/a6gffu/how_rewrite_c_codebase_successfully) - [How to rewrite a C++ codebase successfully](https://gaultier.github.io/blog/how_to_rewrite_a_cpp_codebase_successfully.html)
