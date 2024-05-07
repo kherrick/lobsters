@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-07](index.md)
 
+* [2024-05-07, 08:02:49](https://lobste.rs/s/bfwe2n/supporting_risc_v_performance_counters) - [Supporting RISC-V Performance Counters for Linux Perf (2021)](https://arxiv.org/abs/2112.11767)
 * [2024-05-07, 07:52:36](https://lobste.rs/s/f69hkk/bluesky_link_aka_short_link_profile) - [BlueSky Link aka short link to profile](https://olegk.dev/bluesky-link)
 * [2024-05-07, 07:15:44](https://lobste.rs/s/moskli/running_netbsd_on_omnios_using_bhyve) - [Running NetBSD on OmniOS using bhyve](https://www.tumfatig.net/2024/running-netbsd-on-omnios-using-bhyve/)
 * [2024-05-07, 07:11:09](https://lobste.rs/s/tvt9wp/fixing_your_daily_scrum_with_football) - [Fixing Your Daily Scrum …with Football?](https://www.youtube.com/watch?v=NC1__Kljry4)
