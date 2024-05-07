@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-07, 16:36:34",
+      "https://lobste.rs/s/375j2v/running_quality_assurance_tests_for"
+    ],
+    [
+      "Running quality assurance tests for NetBSD, from an enterprise software perspective",
+      "https://community.sap.com/t5/open-source-blogs/quality-assurance-at-the-operating-system-level-things-learned/ba-p/13690893"
+    ]
+  ],
+  [
+    [
       "2024-05-07, 16:10:42",
       "https://lobste.rs/s/uzfjuv/railsconf_2025_will_be_last_ruby_central"
     ],
@@ -217,16 +227,6 @@
     [
       "Avoiding Emacs bankruptcy, with good financial habits",
       "https://b.tuxes.uk/avoiding-emacs-bankruptcy.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 09:47:51",
-      "https://lobste.rs/s/4mdzfa/re_implementing_nix_protocol_rust"
-    ],
-    [
-      "Re-implementing the Nix protocol in Rust",
-      "https://www.tweag.io/blog/2024-04-25-nix-protocol-in-rust/"
     ]
   ],
   [
