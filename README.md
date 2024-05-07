@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-07, 17:10:31](https://lobste.rs/s/5idpf3/build_your_own_htmx) - [Build your own HTMX](https://joshi.monster/posts/build-your-own-htmx/)
 * [2024-05-07, 16:45:25](https://lobste.rs/s/qgkqd3/ruby_science_by_thoughtbot) - [Ruby Science by thoughtbot](https://thoughtbot.com/ruby-science/introduction.html)
 * [2024-05-07, 16:36:34](https://lobste.rs/s/375j2v/running_quality_assurance_tests_for) - [Running quality assurance tests for NetBSD, from an enterprise software perspective](https://community.sap.com/t5/open-source-blogs/quality-assurance-at-the-operating-system-level-things-learned/ba-p/13690893)
 * [2024-05-07, 16:10:42](https://lobste.rs/s/uzfjuv/railsconf_2025_will_be_last_ruby_central) - [RailsConf 2025 will be the last - Ruby Central Refocusing](https://rubycentral.org/news/anewearforrubycentralevents/)
@@ -16,7 +17,6 @@
 * [2024-05-07, 07:15:44](https://lobste.rs/s/moskli/running_netbsd_on_omnios_using_bhyve) - [Running NetBSD on OmniOS using bhyve](https://www.tumfatig.net/2024/running-netbsd-on-omnios-using-bhyve/)
 * [2024-05-07, 05:50:40](https://lobste.rs/s/c22w5m/generating_vst_plugins_with_chatgpt) - [Generating VST Plugins With ChatGPT](https://mccormick.cx/news/entries/generating-vst-plugins-with-chatgpt)
 * [2024-05-07, 04:47:38](https://lobste.rs/s/uarqgs/why_bother_with_scripting_2021) - [Why bother with Scripting? (2021)](https://brrt-to-the-future.blogspot.com/2021/03/why-bother-with-scripting.html?m=1)
-* [2024-05-07, 02:26:00](https://lobste.rs/s/rgog14/octox_operating_system_rust_style_xv6) - [octox: Operating system in Rust in the style of xv6-riscv](https://github.com/o8vm/octox)
 * [2024-05-07, 02:05:07](https://lobste.rs/s/2y69gx/100x_speedup_with_unsafe_python) - [A 100x speedup with unsafe Python](https://yosefk.com/blog/a-100x-speedup-with-unsafe-python.html)
 * [2024-05-06, 22:07:38](https://lobste.rs/s/lin6a8/novel_attack_against_virtually_all_vpn) - [Novel attack against virtually all VPN apps neuters their entire purpose](https://arstechnica.com/security/2024/05/novel-attack-against-virtually-all-vpn-apps-neuters-their-entire-purpose/)
 * [2024-05-06, 17:47:09](https://lobste.rs/s/nroamu/using_age_with_org_journal) - [Using age with org-journal](https://edmundmiller.dev/posts/org-journal-age/)
