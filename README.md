@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-05-07, 18:47:39](https://lobste.rs/s/tjyrgj/storage_churn) - [Storage Churn](https://www.tbray.org/ongoing/When/202x/2024/05/05/On-Storage)
 * [2024-05-07, 17:10:31](https://lobste.rs/s/5idpf3/build_your_own_htmx) - [Build your own HTMX](https://joshi.monster/posts/build-your-own-htmx/)
 * [2024-05-07, 16:45:25](https://lobste.rs/s/qgkqd3/ruby_science_by_thoughtbot) - [Ruby Science by thoughtbot](https://thoughtbot.com/ruby-science/introduction.html)
 * [2024-05-07, 16:10:42](https://lobste.rs/s/uzfjuv/railsconf_2025_will_be_last_ruby_central) - [RailsConf 2025 will be the last - Ruby Central Refocusing](https://rubycentral.org/news/anewearforrubycentralevents/)
+* [2024-05-07, 16:05:09](https://lobste.rs/s/ii2vmq/learning_reviewing_system_internals) - [Learning and reviewing system internals: tactics and psychology](https://jack-vanlightly.com/blog/2024/5/7/learning-and-reviewing-system-internals-tactics-and-psychology)
 * [2024-05-07, 15:30:46](https://lobste.rs/s/lj5st0/zed_decoded_linux_when) - [Zed Decoded: Linux when?](https://zed.dev/blog/zed-decoded-linux-when)
 * [2024-05-07, 14:49:31](https://lobste.rs/s/qfw5qu/meta_string_37_5_space_efficient_string) - [Meta String: A 37.5% space efficient string encoding than UTF-8 in Fury serialization](https://fury.apache.org/blog/fury_meta_string_37_5_percent_space_efficient_encoding_than_utf8/)
 * [2024-05-07, 14:32:26](https://lobste.rs/s/hc38zd/juice_it_lose_it) - [Juice it or lose it](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
