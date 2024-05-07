@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-07](index.md)
 
+* [2024-05-07, 16:45:25](https://lobste.rs/s/qgkqd3/ruby_science_by_thoughtbot) - [Ruby Science by thoughtbot](https://thoughtbot.com/ruby-science/introduction.html)
 * [2024-05-07, 16:36:34](https://lobste.rs/s/375j2v/running_quality_assurance_tests_for) - [Running quality assurance tests for NetBSD, from an enterprise software perspective](https://community.sap.com/t5/open-source-blogs/quality-assurance-at-the-operating-system-level-things-learned/ba-p/13690893)
 * [2024-05-07, 16:10:42](https://lobste.rs/s/uzfjuv/railsconf_2025_will_be_last_ruby_central) - [RailsConf 2025 will be the last - Ruby Central Refocusing](https://rubycentral.org/news/anewearforrubycentralevents/)
 * [2024-05-07, 16:05:09](https://lobste.rs/s/ii2vmq/learning_reviewing_system_internals) - [Learning and reviewing system internals: tactics and psychology](https://jack-vanlightly.com/blog/2024/5/7/learning-and-reviewing-system-internals-tactics-and-psychology)
