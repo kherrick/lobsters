@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-07, 15:30:46](https://lobste.rs/s/lj5st0/zed_decoded_linux_when) - [Zed Decoded: Linux when?](https://zed.dev/blog/zed-decoded-linux-when)
 * [2024-05-07, 14:49:31](https://lobste.rs/s/qfw5qu/meta_string_37_5_space_efficient_string) - [Meta String: A 37.5% space efficient string encoding than UTF-8 in Fury serialization](https://fury.apache.org/blog/fury_meta_string_37_5_percent_space_efficient_encoding_than_utf8/)
 * [2024-05-07, 14:32:26](https://lobste.rs/s/hc38zd/juice_it_lose_it) - [Juice it or lose it](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
 * [2024-05-07, 13:46:02](https://lobste.rs/s/jxxgoy/apple_event_for_may_7th_2024) - [Apple Event for May 7th, 2024](https://www.apple.com/apple-events/)
@@ -24,7 +25,6 @@
 * [2024-05-06, 09:47:51](https://lobste.rs/s/4mdzfa/re_implementing_nix_protocol_rust) - [Re-implementing the Nix protocol in Rust](https://www.tweag.io/blog/2024-04-25-nix-protocol-in-rust/)
 * [2024-05-06, 09:07:56](https://lobste.rs/s/qn2rcu/htmx_servant_seamless_powerful_handling) - [HTMX and Servant: Seamless and powerful handling of HTTP errors in HTMX](https://silky.github.io/posts/htmx-haskell-interview.html)
 * [2024-05-06, 08:50:59](https://lobste.rs/s/5vlgf4/lix) - [Lix](https://lix.systems/)
-* [2024-05-06, 05:10:44](https://lobste.rs/s/8fp4kq/pair_your_compilers_at_abi_cafe) - [Pair Your Compilers At The ABI Café](https://faultlore.com/blah/abi-puns/)
 
 ## [Archives](archives/index.md)
 
