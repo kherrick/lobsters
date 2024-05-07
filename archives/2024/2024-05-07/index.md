@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-07](index.md)
 
+* [2024-05-07, 16:10:42](https://lobste.rs/s/uzfjuv/railsconf_2025_will_be_last_ruby_central) - [RailsConf 2025 will be the last - Ruby Central Refocusing](https://rubycentral.org/news/anewearforrubycentralevents/)
 * [2024-05-07, 16:05:09](https://lobste.rs/s/ii2vmq/learning_reviewing_system_internals) - [Learning and reviewing system internals: tactics and psychology](https://jack-vanlightly.com/blog/2024/5/7/learning-and-reviewing-system-internals-tactics-and-psychology)
 * [2024-05-07, 15:30:46](https://lobste.rs/s/lj5st0/zed_decoded_linux_when) - [Zed Decoded: Linux when?](https://zed.dev/blog/zed-decoded-linux-when)
 * [2024-05-07, 14:49:31](https://lobste.rs/s/qfw5qu/meta_string_37_5_space_efficient_string) - [Meta String: A 37.5% space efficient string encoding than UTF-8 in Fury serialization](https://fury.apache.org/blog/fury_meta_string_37_5_percent_space_efficient_encoding_than_utf8/)
@@ -14,6 +15,7 @@
 * [2024-05-07, 13:42:58](https://lobste.rs/s/ceyzgp/plot_ting_freeb_sd_mem_o_ry_fragmentation) - [Plot­ting the FreeB­SD mem­o­ry fragmentation](https://www.leidinger.net/blog/2024/05/07/plotting-the-freebsd-memory-fragmentation/)
 * [2024-05-07, 13:13:19](https://lobste.rs/s/0fvuvr/learn_something_old_every_day_part_xi_dos) - [Learn Something Old Every Day, Part XI: DOS Directory Searches are Bizarre](http://www.os2museum.com/wp/learn-something-old-every-day-part-xi-dos-directory-searches-are-bizarre/)
 * [2024-05-07, 12:43:08](https://lobste.rs/s/2zqaap/async_rust_complexity_sympolymathesy) - [Async Rust Complexity — Sympolymathesy](https://v5.chriskrycho.com/journal/async-rust-complexity/)
+* [2024-05-07, 12:43:08](https://lobste.rs/s/2zqaap/async_rust_complexity) - [Async Rust Complexity ](https://v5.chriskrycho.com/journal/async-rust-complexity/)
 * [2024-05-07, 10:55:33](https://lobste.rs/s/pdhon6/we_re_moving_continuous_integration_back) - [We're moving continuous integration back to developer machines](https://world.hey.com/dhh/we-re-moving-continuous-integration-back-to-developer-machines-3ac6c611)
 * [2024-05-07, 08:18:35](https://lobste.rs/s/mpjgvj/alibaba_s_yitian_710_is_fastest_arm_based) - [Alibaba's Yitian 710 is the fastest Arm-based CPU for cloud servers, study claims](https://www.tomshardware.com/desktops/servers/alibabas-yitian-710-is-the-fastest-arm-based-cpu-for-cloud-servers-study-claims)
 * [2024-05-07, 08:02:49](https://lobste.rs/s/bfwe2n/supporting_risc_v_performance_counters) - [Supporting RISC-V Performance Counters for Linux Perf (2021)](https://arxiv.org/abs/2112.11767)
