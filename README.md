@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-07, 07:52:36](https://lobste.rs/s/f69hkk/bluesky_link_aka_short_link_profile) - [BlueSky Link aka short link to profile](https://olegk.dev/bluesky-link)
 * [2024-05-07, 07:15:44](https://lobste.rs/s/moskli/running_netbsd_on_omnios_using_bhyve) - [Running NetBSD on OmniOS using bhyve](https://www.tumfatig.net/2024/running-netbsd-on-omnios-using-bhyve/)
 * [2024-05-07, 07:11:09](https://lobste.rs/s/tvt9wp/fixing_your_daily_scrum_with_football) - [Fixing Your Daily Scrum …with Football?](https://www.youtube.com/watch?v=NC1__Kljry4)
 * [2024-05-07, 05:50:40](https://lobste.rs/s/c22w5m/generating_vst_plugins_with_chatgpt) - [Generating VST Plugins With ChatGPT](https://mccormick.cx/news/entries/generating-vst-plugins-with-chatgpt)
@@ -16,7 +17,6 @@
 * [2024-05-06, 16:43:57](https://lobste.rs/s/r5ugre/history_clu) - [A history of CLU](http://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-561.pdf)
 * [2024-05-06, 16:30:01](https://lobste.rs/s/pci3eh/lila_lil_interpreter_awk) - [Lila: a Lil Interpreter in Awk](https://beyondloom.com/blog/lila.html)
 * [2024-05-06, 14:57:50](https://lobste.rs/s/lknqgm/avoiding_emacs_bankruptcy_with_good) - [Avoiding Emacs bankruptcy, with good financial habits](https://b.tuxes.uk/avoiding-emacs-bankruptcy.html)
-* [2024-05-06, 14:07:13](https://lobste.rs/s/fvcghv/encore_for_typescript) - [Encore for TypeScript](https://encore.dev/blog/encore-for-typescript)
 * [2024-05-06, 11:31:42](https://lobste.rs/s/a6gffu/how_rewrite_c_codebase_successfully) - [How to rewrite a C++ codebase successfully](https://gaultier.github.io/blog/how_to_rewrite_a_cpp_codebase_successfully.html)
 * [2024-05-06, 11:06:43](https://lobste.rs/s/mj48ey/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/mj48ey/what_are_you_doing_this_week)
 * [2024-05-06, 10:31:47](https://lobste.rs/s/1z5xda/what_is_rust_allocator) - [What is in a Rust Allocator?](https://blog.sulami.xyz/posts/what-is-in-a-rust-allocator/)
