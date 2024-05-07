@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-07](index.md)
 
+* [2024-05-07, 07:15:44](https://lobste.rs/s/moskli/running_netbsd_on_omnios_using_bhyve) - [Running NetBSD on OmniOS using bhyve](https://www.tumfatig.net/2024/running-netbsd-on-omnios-using-bhyve/)
+* [2024-05-07, 07:11:09](https://lobste.rs/s/tvt9wp/fixing_your_daily_scrum_with_football) - [Fixing Your Daily Scrum …with Football?](https://www.youtube.com/watch?v=NC1__Kljry4)
 * [2024-05-07, 05:50:40](https://lobste.rs/s/c22w5m/generating_vst_plugins_with_chatgpt) - [Generating VST Plugins With ChatGPT](https://mccormick.cx/news/entries/generating-vst-plugins-with-chatgpt)
 * [2024-05-07, 04:47:38](https://lobste.rs/s/uarqgs/why_bother_with_scripting_2021) - [Why bother with Scripting? (2021)](https://brrt-to-the-future.blogspot.com/2021/03/why-bother-with-scripting.html?m=1)
 * [2024-05-07, 02:26:56](https://lobste.rs/s/ewoh2x/shortridge_makes_sense_2024_verizon_dbir) - [Shortridge Makes Sense of the 2024 Verizon DBIR](https://kellyshortridge.com/blog/posts/shortridge-makes-sense-of-verizon-dbir-2024/)
