@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-07, 16:10:42",
+      "https://lobste.rs/s/uzfjuv/railsconf_2025_will_be_last_ruby_central"
+    ],
+    [
+      "RailsConf 2025 will be the last - Ruby Central Refocusing",
+      "https://rubycentral.org/news/anewearforrubycentralevents/"
+    ]
+  ],
+  [
+    [
       "2024-05-07, 16:05:09",
       "https://lobste.rs/s/ii2vmq/learning_reviewing_system_internals"
     ],
@@ -82,10 +92,10 @@
   [
     [
       "2024-05-07, 12:43:08",
-      "https://lobste.rs/s/2zqaap/async_rust_complexity_sympolymathesy"
+      "https://lobste.rs/s/2zqaap/async_rust_complexity"
     ],
     [
-      "Async Rust Complexity — Sympolymathesy",
+      "Async Rust Complexity ",
       "https://v5.chriskrycho.com/journal/async-rust-complexity/"
     ]
   ],
@@ -107,16 +117,6 @@
     [
       "Alibaba's Yitian 710 is the fastest Arm-based CPU for cloud servers, study claims",
       "https://www.tomshardware.com/desktops/servers/alibabas-yitian-710-is-the-fastest-arm-based-cpu-for-cloud-servers-study-claims"
-    ]
-  ],
-  [
-    [
-      "2024-05-07, 08:02:49",
-      "https://lobste.rs/s/bfwe2n/supporting_risc_v_performance_counters"
-    ],
-    [
-      "Supporting RISC-V Performance Counters for Linux Perf (2021)",
-      "https://arxiv.org/abs/2112.11767"
     ]
   ],
   [
