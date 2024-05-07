@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-07, 18:47:39](https://lobste.rs/s/tjyrgj/storage_churn) - [Storage Churn](https://www.tbray.org/ongoing/When/202x/2024/05/05/On-Storage)
+* [2024-05-07, 17:24:49](https://lobste.rs/s/wwvz3m/modern_wordpress_yikes) - [Modern WordPress - Yikes](https://dbushell.com/2024/05/07/modern-wordpress-themes-yikes/)
 * [2024-05-07, 17:10:31](https://lobste.rs/s/5idpf3/build_your_own_htmx) - [Build your own HTMX](https://joshi.monster/posts/build-your-own-htmx/)
 * [2024-05-07, 16:45:25](https://lobste.rs/s/qgkqd3/ruby_science_by_thoughtbot) - [Ruby Science by thoughtbot](https://thoughtbot.com/ruby-science/introduction.html)
 * [2024-05-07, 16:10:42](https://lobste.rs/s/uzfjuv/railsconf_2025_will_be_last_ruby_central) - [RailsConf 2025 will be the last - Ruby Central Refocusing](https://rubycentral.org/news/anewearforrubycentralevents/)
@@ -19,10 +21,8 @@
 * [2024-05-07, 04:47:38](https://lobste.rs/s/uarqgs/why_bother_with_scripting_2021) - [Why bother with Scripting? (2021)](https://brrt-to-the-future.blogspot.com/2021/03/why-bother-with-scripting.html?m=1)
 * [2024-05-07, 02:05:07](https://lobste.rs/s/2y69gx/100x_speedup_with_unsafe_python) - [A 100x speedup with unsafe Python](https://yosefk.com/blog/a-100x-speedup-with-unsafe-python.html)
 * [2024-05-06, 22:07:38](https://lobste.rs/s/lin6a8/novel_attack_against_virtually_all_vpn) - [Novel attack against virtually all VPN apps neuters their entire purpose](https://arstechnica.com/security/2024/05/novel-attack-against-virtually-all-vpn-apps-neuters-their-entire-purpose/)
-* [2024-05-06, 17:47:09](https://lobste.rs/s/nroamu/using_age_with_org_journal) - [Using age with org-journal](https://edmundmiller.dev/posts/org-journal-age/)
 * [2024-05-06, 17:23:37](https://lobste.rs/s/hlanky/modernizing_accessibility_for_desktop) - [Modernizing accessibility for desktop Linux](https://lwn.net/SubscriberLink/971541/9a17fa52fab73bef/)
 * [2024-05-06, 16:30:01](https://lobste.rs/s/pci3eh/lila_lil_interpreter_awk) - [Lila: a Lil Interpreter in Awk](https://beyondloom.com/blog/lila.html)
-* [2024-05-06, 14:57:50](https://lobste.rs/s/lknqgm/avoiding_emacs_bankruptcy_with_good) - [Avoiding Emacs bankruptcy, with good financial habits](https://b.tuxes.uk/avoiding-emacs-bankruptcy.html)
 * [2024-05-06, 09:07:56](https://lobste.rs/s/qn2rcu/htmx_servant_seamless_powerful_handling) - [HTMX and Servant: Seamless and powerful handling of HTTP errors in HTMX](https://silky.github.io/posts/htmx-haskell-interview.html)
 * [2024-05-06, 08:50:59](https://lobste.rs/s/5vlgf4/lix) - [Lix](https://lix.systems/)
 
