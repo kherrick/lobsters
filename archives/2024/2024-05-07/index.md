@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-07](index.md)
 
+* [2024-05-07, 14:32:26](https://lobste.rs/s/hc38zd/juice_it_lose_it) - [Juice it or lose it](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
 * [2024-05-07, 13:46:02](https://lobste.rs/s/jxxgoy/apple_event_for_may_7th_2024) - [Apple Event for May 7th, 2024](https://www.apple.com/apple-events/)
 * [2024-05-07, 13:45:55](https://lobste.rs/s/e4vdev/software_tools_c) - [Software Tools in C++](https://www.jezuk.co.uk/tags/software-tools-in-c++.html)
 * [2024-05-07, 13:44:49](https://lobste.rs/s/wy9s3v/raspberry_pi_connect) - [Raspberry Pi Connect](https://www.raspberrypi.com/news/raspberry-pi-connect/)
