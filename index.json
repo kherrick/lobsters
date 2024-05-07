@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-07, 08:02:49",
+      "https://lobste.rs/s/bfwe2n/supporting_risc_v_performance_counters"
+    ],
+    [
+      "Supporting RISC-V Performance Counters for Linux Perf (2021)",
+      "https://arxiv.org/abs/2112.11767"
+    ]
+  ],
+  [
+    [
       "2024-05-07, 07:52:36",
       "https://lobste.rs/s/f69hkk/bluesky_link_aka_short_link_profile"
     ],
@@ -167,16 +177,6 @@
     [
       "Avoiding Emacs bankruptcy, with good financial habits",
       "https://b.tuxes.uk/avoiding-emacs-bankruptcy.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 11:31:42",
-      "https://lobste.rs/s/a6gffu/how_rewrite_c_codebase_successfully"
-    ],
-    [
-      "How to rewrite a C++ codebase successfully",
-      "https://gaultier.github.io/blog/how_to_rewrite_a_cpp_codebase_successfully.html"
     ]
   ],
   [
