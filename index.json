@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-07, 02:26:56",
+      "https://lobste.rs/s/ewoh2x/shortridge_makes_sense_2024_verizon_dbir"
+    ],
+    [
+      "Shortridge Makes Sense of the 2024 Verizon DBIR",
+      "https://kellyshortridge.com/blog/posts/shortridge-makes-sense-of-verizon-dbir-2024/"
+    ]
+  ],
+  [
+    [
+      "2024-05-07, 02:26:00",
+      "https://lobste.rs/s/rgog14/octox_operating_system_rust_style_xv6"
+    ],
+    [
+      "octox: Operating system in Rust in the style of xv6-riscv",
+      "https://github.com/o8vm/octox"
+    ]
+  ],
+  [
+    [
       "2024-05-06, 22:07:38",
       "https://lobste.rs/s/lin6a8/novel_attack_against_virtually_all_vpn"
     ],
@@ -57,16 +77,6 @@
     [
       "A history of CLU",
       "http://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-561.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 16:39:38",
-      "https://lobste.rs/s/dnz5gj/designing_efficient_memory_layout_rust"
-    ],
-    [
-      "Designing an efficient memory layout in Rust with unsafe & unions, or, an overlong guide in avoiding dynamic dispatch",
-      "https://alonely0.github.io/blog/unions/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "What is in a Rust Allocator?",
       "https://blog.sulami.xyz/posts/what-is-in-a-rust-allocator/"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 09:54:25",
-      "https://lobste.rs/s/anefik/constraining_go_type_parameter_pointers"
-    ],
-    [
-      "Constraining Go type parameter pointers",
-      "https://blog.merovius.de/posts/2024-05-06-pointer-constraints/"
     ]
   ],
   [
