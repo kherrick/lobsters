@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-07](index.md)
 
+* [2024-05-07, 18:47:39](https://lobste.rs/s/tjyrgj/storage_churn) - [Storage Churn](https://www.tbray.org/ongoing/When/202x/2024/05/05/On-Storage)
 * [2024-05-07, 17:10:31](https://lobste.rs/s/5idpf3/build_your_own_htmx) - [Build your own HTMX](https://joshi.monster/posts/build-your-own-htmx/)
 * [2024-05-07, 16:45:25](https://lobste.rs/s/qgkqd3/ruby_science_by_thoughtbot) - [Ruby Science by thoughtbot](https://thoughtbot.com/ruby-science/introduction.html)
 * [2024-05-07, 16:36:34](https://lobste.rs/s/375j2v/running_quality_assurance_tests_for) - [Running quality assurance tests for NetBSD, from an enterprise software perspective](https://community.sap.com/t5/open-source-blogs/quality-assurance-at-the-operating-system-level-things-learned/ba-p/13690893)
