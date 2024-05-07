@@ -4,6 +4,7 @@
 * [2024-05-07, 04:47:38](https://lobste.rs/s/uarqgs/why_bother_with_scripting_2021) - [Why bother with Scripting? (2021)](https://brrt-to-the-future.blogspot.com/2021/03/why-bother-with-scripting.html?m=1)
 * [2024-05-07, 02:26:56](https://lobste.rs/s/ewoh2x/shortridge_makes_sense_2024_verizon_dbir) - [Shortridge Makes Sense of the 2024 Verizon DBIR](https://kellyshortridge.com/blog/posts/shortridge-makes-sense-of-verizon-dbir-2024/)
 * [2024-05-07, 02:26:00](https://lobste.rs/s/rgog14/octox_operating_system_rust_style_xv6) - [octox: Operating system in Rust in the style of xv6-riscv](https://github.com/o8vm/octox)
+* [2024-05-07, 02:05:07](https://lobste.rs/s/2y69gx/100x_speedup_with_unsafe_python) - [A 100x speedup with unsafe Python](https://yosefk.com/blog/a-100x-speedup-with-unsafe-python.html)
 * [2024-05-06, 22:07:38](https://lobste.rs/s/lin6a8/novel_attack_against_virtually_all_vpn) - [Novel attack against virtually all VPN apps neuters their entire purpose](https://arstechnica.com/security/2024/05/novel-attack-against-virtually-all-vpn-apps-neuters-their-entire-purpose/)
 * [2024-05-06, 20:25:28](https://lobste.rs/s/6h0zc2/introducing_securedrop_protocol) - [Introducing SecureDrop Protocol](Https://securedrop.org/news/introducing-securedrop-protocol)
 * [2024-05-06, 19:33:31](https://lobste.rs/s/nxm0yk/building_hypervisor_2_booting_linux) - [Building a hypervisor, 2: Booting Linux](https://iovec.net/2024-05-06)
@@ -24,7 +25,6 @@
 * [2024-05-06, 02:38:28](https://lobste.rs/s/7m6jp8/heat_death_internet) - [Heat Death of the Internet](https://www.takahe.org.nz/heat-death-of-the-internet/)
 * [2024-05-06, 01:08:32](https://lobste.rs/s/dqav20/using_llm_for_text_compression) - [Using an LLM for text compression](https://blog.cleverdomain.org/using-an-llm-for-text-compression)
 * [2024-05-06, 00:55:16](https://lobste.rs/s/zoysdm/announcing_weaver_ergonomic_cli_parsing) - [Announcing Weaver: An ergonomic CLI parsing library for Roc lang](https://sammohr.dev/blog/announcing-weaver)
-* [2024-05-05, 21:19:52](https://lobste.rs/s/ery3vy/c_iceberg) - [The C++ Iceberg](https://fouronnes.github.io/cppiceberg/)
 
 ## [Archives](archives/index.md)
 
