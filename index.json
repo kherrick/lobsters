@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-07, 07:15:44",
+      "https://lobste.rs/s/moskli/running_netbsd_on_omnios_using_bhyve"
+    ],
+    [
+      "Running NetBSD on OmniOS using bhyve",
+      "https://www.tumfatig.net/2024/running-netbsd-on-omnios-using-bhyve/"
+    ]
+  ],
+  [
+    [
+      "2024-05-07, 07:11:09",
+      "https://lobste.rs/s/tvt9wp/fixing_your_daily_scrum_with_football"
+    ],
+    [
+      "Fixing Your Daily Scrum …with Football?",
+      "https://www.youtube.com/watch?v=NC1__Kljry4"
+    ]
+  ],
+  [
+    [
       "2024-05-07, 05:50:40",
       "https://lobste.rs/s/c22w5m/generating_vst_plugins_with_chatgpt"
     ],
@@ -227,26 +247,6 @@
     [
       "Heat Death of the Internet",
       "https://www.takahe.org.nz/heat-death-of-the-internet/"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 01:08:32",
-      "https://lobste.rs/s/dqav20/using_llm_for_text_compression"
-    ],
-    [
-      "Using an LLM for text compression",
-      "https://blog.cleverdomain.org/using-an-llm-for-text-compression"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 00:55:16",
-      "https://lobste.rs/s/zoysdm/announcing_weaver_ergonomic_cli_parsing"
-    ],
-    [
-      "Announcing Weaver: An ergonomic CLI parsing library for Roc lang",
-      "https://sammohr.dev/blog/announcing-weaver"
     ]
   ]
 ]
