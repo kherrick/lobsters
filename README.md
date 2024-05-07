@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-07, 16:36:34](https://lobste.rs/s/375j2v/running_quality_assurance_tests_for) - [Running quality assurance tests for NetBSD, from an enterprise software perspective](https://community.sap.com/t5/open-source-blogs/quality-assurance-at-the-operating-system-level-things-learned/ba-p/13690893)
 * [2024-05-07, 16:10:42](https://lobste.rs/s/uzfjuv/railsconf_2025_will_be_last_ruby_central) - [RailsConf 2025 will be the last - Ruby Central Refocusing](https://rubycentral.org/news/anewearforrubycentralevents/)
 * [2024-05-07, 16:05:09](https://lobste.rs/s/ii2vmq/learning_reviewing_system_internals) - [Learning and reviewing system internals: tactics and psychology](https://jack-vanlightly.com/blog/2024/5/7/learning-and-reviewing-system-internals-tactics-and-psychology)
 * [2024-05-07, 15:30:46](https://lobste.rs/s/lj5st0/zed_decoded_linux_when) - [Zed Decoded: Linux when?](https://zed.dev/blog/zed-decoded-linux-when)
@@ -22,7 +23,6 @@
 * [2024-05-06, 17:23:37](https://lobste.rs/s/hlanky/modernizing_accessibility_for_desktop) - [Modernizing accessibility for desktop Linux](https://lwn.net/SubscriberLink/971541/9a17fa52fab73bef/)
 * [2024-05-06, 16:30:01](https://lobste.rs/s/pci3eh/lila_lil_interpreter_awk) - [Lila: a Lil Interpreter in Awk](https://beyondloom.com/blog/lila.html)
 * [2024-05-06, 14:57:50](https://lobste.rs/s/lknqgm/avoiding_emacs_bankruptcy_with_good) - [Avoiding Emacs bankruptcy, with good financial habits](https://b.tuxes.uk/avoiding-emacs-bankruptcy.html)
-* [2024-05-06, 09:47:51](https://lobste.rs/s/4mdzfa/re_implementing_nix_protocol_rust) - [Re-implementing the Nix protocol in Rust](https://www.tweag.io/blog/2024-04-25-nix-protocol-in-rust/)
 * [2024-05-06, 09:07:56](https://lobste.rs/s/qn2rcu/htmx_servant_seamless_powerful_handling) - [HTMX and Servant: Seamless and powerful handling of HTTP errors in HTMX](https://silky.github.io/posts/htmx-haskell-interview.html)
 * [2024-05-06, 08:50:59](https://lobste.rs/s/5vlgf4/lix) - [Lix](https://lix.systems/)
 
