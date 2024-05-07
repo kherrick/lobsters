@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-07, 21:52:30](https://lobste.rs/s/n38rvc/exploring_50_user_interfaces_for_ai_code) - [Exploring 50 user interfaces for AI code suggestions](https://austinhenley.com/blog/intellicode.html)
 * [2024-05-07, 21:13:36](https://lobste.rs/s/dyspo1/dec_pal_iii_assembler_for_pdp_8) - [The DEC PAL III assembler for the PDP-8 minicomputer (1966)](https://archive.org/details/pal-iii/)
 * [2024-05-07, 21:06:27](https://lobste.rs/s/ev8iy0/jolie_service_oriented_programming) - [Jolie, the service-oriented programming language](https://www.jolie-lang.org/index.html)
 * [2024-05-07, 18:47:39](https://lobste.rs/s/tjyrgj/storage_churn) - [Storage Churn](https://www.tbray.org/ongoing/When/202x/2024/05/05/On-Storage)
@@ -17,7 +18,6 @@
 * [2024-05-07, 10:55:33](https://lobste.rs/s/pdhon6/we_re_moving_continuous_integration_back) - [We're moving continuous integration back to developer machines](https://world.hey.com/dhh/we-re-moving-continuous-integration-back-to-developer-machines-3ac6c611)
 * [2024-05-07, 08:18:35](https://lobste.rs/s/mpjgvj/alibaba_s_yitian_710_is_fastest_arm_based) - [Alibaba's Yitian 710 is the fastest Arm-based CPU for cloud servers, study claims](https://www.tomshardware.com/desktops/servers/alibabas-yitian-710-is-the-fastest-arm-based-cpu-for-cloud-servers-study-claims)
 * [2024-05-07, 07:15:44](https://lobste.rs/s/moskli/running_netbsd_on_omnios_using_bhyve) - [Running NetBSD on OmniOS using bhyve](https://www.tumfatig.net/2024/running-netbsd-on-omnios-using-bhyve/)
-* [2024-05-07, 05:50:40](https://lobste.rs/s/c22w5m/generating_vst_plugins_with_chatgpt) - [Generating VST Plugins With ChatGPT](https://mccormick.cx/news/entries/generating-vst-plugins-with-chatgpt)
 * [2024-05-07, 04:47:38](https://lobste.rs/s/uarqgs/why_bother_with_scripting_2021) - [Why bother with Scripting? (2021)](https://brrt-to-the-future.blogspot.com/2021/03/why-bother-with-scripting.html?m=1)
 * [2024-05-07, 02:05:07](https://lobste.rs/s/2y69gx/100x_speedup_with_unsafe_python) - [A 100x speedup with unsafe Python](https://yosefk.com/blog/a-100x-speedup-with-unsafe-python.html)
 * [2024-05-06, 22:07:38](https://lobste.rs/s/lin6a8/novel_attack_against_virtually_all_vpn) - [Novel attack against virtually all VPN apps neuters their entire purpose](https://arstechnica.com/security/2024/05/novel-attack-against-virtually-all-vpn-apps-neuters-their-entire-purpose/)
