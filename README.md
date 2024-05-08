@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-08, 03:04:27](https://lobste.rs/s/pier9n/xz_utils_made_me_paranoid) - [XZ Utils Made Me Paranoid](https://trustedsec.com/blog/xz-utils-made-me-paranoid)
 * [2024-05-08, 02:28:08](https://lobste.rs/s/ouybxe/programming_mantras_are_proverbs) - [Programming mantras are proverbs](https://lukeplant.me.uk/blog/posts/programming-mantras-are-proverbs/)
 * [2024-05-08, 01:37:51](https://lobste.rs/s/gwwctl/needle_dfa_based_regex_library_compiles) - [Needle: A DFA Based Regex Library that Compiles to JVM  ByteCode](https://justinblank.com/experiments/needle.html)
 * [2024-05-08, 01:29:57](https://lobste.rs/s/u9kgo4/did_github_copilot_really_increase_my) - [Did GitHub Copilot really increase my productivity?](https://trace.yshui.dev/2024-05-copilot.html)
@@ -22,7 +23,6 @@
 * [2024-05-07, 08:18:35](https://lobste.rs/s/mpjgvj/alibaba_s_yitian_710_is_fastest_arm_based) - [Alibaba's Yitian 710 is the fastest Arm-based CPU for cloud servers, study claims](https://www.tomshardware.com/desktops/servers/alibabas-yitian-710-is-the-fastest-arm-based-cpu-for-cloud-servers-study-claims)
 * [2024-05-07, 02:05:07](https://lobste.rs/s/2y69gx/100x_speedup_with_unsafe_python) - [A 100x speedup with unsafe Python](https://yosefk.com/blog/a-100x-speedup-with-unsafe-python.html)
 * [2024-05-06, 22:07:38](https://lobste.rs/s/lin6a8/novel_attack_against_virtually_all_vpn) - [Novel attack against virtually all VPN apps neuters their entire purpose](https://arstechnica.com/security/2024/05/novel-attack-against-virtually-all-vpn-apps-neuters-their-entire-purpose/)
-* [2024-05-06, 17:23:37](https://lobste.rs/s/hlanky/modernizing_accessibility_for_desktop) - [Modernizing accessibility for desktop Linux](https://lwn.net/SubscriberLink/971541/9a17fa52fab73bef/)
 * [2024-05-06, 16:30:01](https://lobste.rs/s/pci3eh/lila_lil_interpreter_awk) - [Lila: a Lil Interpreter in Awk](https://beyondloom.com/blog/lila.html)
 * [2024-05-06, 08:50:59](https://lobste.rs/s/5vlgf4/lix) - [Lix](https://lix.systems/)
 
