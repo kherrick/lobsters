@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-05-08, 16:12:51",
-      "https://lobste.rs/s/kl7wgp/quick_look_at_rewrite_coreutils_with_rust"
+      "2024-05-08, 16:50:50",
+      "https://lobste.rs/s/tlsbzg/introducing_bind9_dnssec_policy"
     ],
     [
-      "A quick look at the rewrite of coreutils with Rust and the history of NetBSD",
-      "https://youtu.be/5JcaQWGMRVE"
+      "Introducing BIND9 dnssec-policy",
+      "https://dotat.at/@/2024-05-08-dnssec-policy.html"
     ]
   ],
   [
