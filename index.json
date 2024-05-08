@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-08, 16:12:51",
+      "https://lobste.rs/s/kl7wgp/quick_look_at_rewrite_coreutils_with_rust"
+    ],
+    [
+      "A quick look at the rewrite of coreutils with Rust and the history of NetBSD",
+      "https://youtu.be/5JcaQWGMRVE"
+    ]
+  ],
+  [
+    [
       "2024-05-08, 15:49:27",
       "https://lobste.rs/s/d2jqxc/serverless_runtime_database_co_design"
     ],
@@ -187,16 +197,6 @@
     [
       "Storage Churn",
       "https://www.tbray.org/ongoing/When/202x/2024/05/05/On-Storage"
-    ]
-  ],
-  [
-    [
-      "2024-05-07, 17:24:49",
-      "https://lobste.rs/s/wwvz3m/modern_wordpress_yikes"
-    ],
-    [
-      "Modern WordPress - Yikes",
-      "https://dbushell.com/2024/05/07/modern-wordpress-themes-yikes/"
     ]
   ],
   [
