@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-08](index.md)
 
+* [2024-05-08, 13:26:04](https://lobste.rs/s/4jvmkj/space_efficient_indexing_for_immutable) - [Space-efficient indexing for immutable log data](https://blog.datalust.co/space-efficient-indexing-for-immutable-log-data/)
 * [2024-05-08, 12:54:26](https://lobste.rs/s/4b528k/inclusive_sans_text_font_designed_for) - [Inclusive Sans, a text font designed for accessibility and readability](https://www.oliviaking.com/inclusive-sans)
 * [2024-05-08, 11:30:10](https://lobste.rs/s/s6wmfg/using_duckdb_with_golang) - [Using DuckDB with Golang](https://cpn.jjude.com/@jjude/statuses/01HXBY7JZEQ8S8N34EMX1ESF3K)
 * [2024-05-08, 11:08:46](https://lobste.rs/s/99qgwz/arm_s_work_on_gcc_14) - [Arm's work on GCC-14](https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/p1-gcc-14)
