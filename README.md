@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-08, 18:21:11](https://lobste.rs/s/xd1vkf/undue_base_url_influence) - [Undue base URL influence](https://annevankesteren.nl/2024/05/undue-base-url-influence)
 * [2024-05-08, 17:15:14](https://lobste.rs/s/xzoxvt/log_scales) - [Log scales](https://briefer.cloud/blog/posts/logarithms/)
 * [2024-05-08, 15:49:27](https://lobste.rs/s/d2jqxc/serverless_runtime_database_co_design) - [Serverless Runtime / Database Co-Design With Asynchronous I/O](https://penberg.org/papers/penberg-edgesys24.pdf)
 * [2024-05-08, 15:36:44](https://lobste.rs/s/l41nm8/raptor_high_level_algorithmic_skeleton) - [Raptor - A High Level Algorithmic Skeleton CUDA Library](https://dma-neves.github.io/dma/raptor.html)
 * [2024-05-08, 14:56:59](https://lobste.rs/s/jbgvkc/optimizing_clickhouse_cost_cpu_5_tactics) - [Optimizing Clickhouse Cost + CPU: 5 Tactics That Worked](https://www.highlight.io/blog/lw5-clickhouse-performance-optimization)
 * [2024-05-08, 13:53:24](https://lobste.rs/s/imyxxn/modern_sqlite_generated_columns) - [Modern SQLite: Generated columns](https://antonz.org/sqlite-generated-columns/)
-* [2024-05-08, 13:26:04](https://lobste.rs/s/4jvmkj/space_efficient_indexing_for_immutable) - [Space-efficient indexing for immutable log data](https://blog.datalust.co/space-efficient-indexing-for-immutable-log-data/)
 * [2024-05-08, 12:54:26](https://lobste.rs/s/4b528k/inclusive_sans_text_font_designed_for) - [Inclusive Sans, a text font designed for accessibility and readability](https://www.oliviaking.com/inclusive-sans)
 * [2024-05-08, 11:08:46](https://lobste.rs/s/99qgwz/arm_s_work_on_gcc_14) - [Arm's work on GCC-14](https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/p1-gcc-14)
 * [2024-05-08, 09:38:31](https://lobste.rs/s/dl32ue/systemd_heads_for_big_round_number) - [Systemd heads for a big round-number release](https://lwn.net/SubscriberLink/971866/f244aee59d4d6a66/)

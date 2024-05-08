@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-08](index.md)
 
+* [2024-05-08, 18:21:11](https://lobste.rs/s/xd1vkf/undue_base_url_influence) - [Undue base URL influence](https://annevankesteren.nl/2024/05/undue-base-url-influence)
 * [2024-05-08, 17:15:14](https://lobste.rs/s/xzoxvt/log_scales) - [Log scales](https://briefer.cloud/blog/posts/logarithms/)
 * [2024-05-08, 16:50:50](https://lobste.rs/s/tlsbzg/introducing_bind9_dnssec_policy) - [Introducing BIND9 dnssec-policy](https://dotat.at/@/2024-05-08-dnssec-policy.html)
 * [2024-05-08, 16:12:51](https://lobste.rs/s/kl7wgp/quick_look_at_rewrite_coreutils_with_rust) - [A quick look at the rewrite of coreutils with Rust and the history of NetBSD](https://youtu.be/5JcaQWGMRVE)
