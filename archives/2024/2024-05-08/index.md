@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-08](index.md)
 
+* [2024-05-08, 20:29:09](https://lobste.rs/s/kmhr2m/phoenix_liveview_1_0_rc_is_here) - [Phoenix LiveView 1.0-rc is here](https://phoenixframework.org/blog/phoenix-liveview-1.0-released)
+* [2024-05-08, 20:25:36](https://lobste.rs/s/s4cgxm/how_use_foreign_function_api_java_22_call_c) - [How to use the Foreign Function API in Java 22 to Call C Libraries](https://ifesunmola.com/how-to-use-the-foreign-function-api-in-java-22-to-call-c-libraries/)
 * [2024-05-08, 20:14:52](https://lobste.rs/s/zfo0x9/broken_promises_nix_governance) - [Broken Promises: The Nix Governance Discussions](https://shealevy.com/blog/2024/05/08/broken-promises-the-nix-governance-discussions/)
 * [2024-05-08, 18:21:11](https://lobste.rs/s/xd1vkf/undue_base_url_influence) - [Undue base URL influence](https://annevankesteren.nl/2024/05/undue-base-url-influence)
 * [2024-05-08, 17:15:14](https://lobste.rs/s/xzoxvt/log_scales) - [Log scales](https://briefer.cloud/blog/posts/logarithms/)
