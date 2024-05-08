@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-08](index.md)
 
+* [2024-05-08, 15:36:44](https://lobste.rs/s/l41nm8/raptor_high_level_algorithmic_skeleton) - [Raptor - A High Level Algorithmic Skeleton CUDA Library](https://dma-neves.github.io/dma/raptor.html)
 * [2024-05-08, 14:56:59](https://lobste.rs/s/jbgvkc/optimizing_clickhouse_cost_cpu_5_tactics) - [Optimizing Clickhouse Cost + CPU: 5 Tactics That Worked](https://www.highlight.io/blog/lw5-clickhouse-performance-optimization)
 * [2024-05-08, 13:53:24](https://lobste.rs/s/imyxxn/modern_sqlite_generated_columns) - [Modern SQLite: Generated columns](https://antonz.org/sqlite-generated-columns/)
 * [2024-05-08, 13:40:18](https://lobste.rs/s/6ggteu/tips_for_using_ai_generated_images_your) - [Tips For Using AI-Generated Images In Your Slides](https://thoughtbot.com/blog/tips-for-using-ai-generated-images-in-your-slides)

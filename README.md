@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-08, 15:36:44](https://lobste.rs/s/l41nm8/raptor_high_level_algorithmic_skeleton) - [Raptor - A High Level Algorithmic Skeleton CUDA Library](https://dma-neves.github.io/dma/raptor.html)
 * [2024-05-08, 14:56:59](https://lobste.rs/s/jbgvkc/optimizing_clickhouse_cost_cpu_5_tactics) - [Optimizing Clickhouse Cost + CPU: 5 Tactics That Worked](https://www.highlight.io/blog/lw5-clickhouse-performance-optimization)
 * [2024-05-08, 13:53:24](https://lobste.rs/s/imyxxn/modern_sqlite_generated_columns) - [Modern SQLite: Generated columns](https://antonz.org/sqlite-generated-columns/)
 * [2024-05-08, 13:40:18](https://lobste.rs/s/6ggteu/tips_for_using_ai_generated_images_your) - [Tips For Using AI-Generated Images In Your Slides](https://thoughtbot.com/blog/tips-for-using-ai-generated-images-in-your-slides)
@@ -9,7 +10,6 @@
 * [2024-05-08, 09:38:31](https://lobste.rs/s/dl32ue/systemd_heads_for_big_round_number) - [Systemd heads for a big round-number release](https://lwn.net/SubscriberLink/971866/f244aee59d4d6a66/)
 * [2024-05-08, 08:31:15](https://lobste.rs/s/k9t6dc/june_language_search_for_easier_safe) - [The June Language: The search for easier safe systems programming](https://www.sophiajt.com/search-for-easier-safe-systems-programming/)
 * [2024-05-08, 07:21:30](https://lobste.rs/s/ww8laz/freebsd_journal_2024_03_04_development) - [FreeBSD Journal - 2024/03-04 - Development Workflow and CI](https://freebsdfoundation.org/past-issues/development-workflow-and-ci/)
-* [2024-05-08, 07:15:04](https://lobste.rs/s/bnwyhy/common_google_xss) - [Common Google XSS](https://matan-h.com/common-google-xss)
 * [2024-05-08, 07:12:28](https://lobste.rs/s/mzk8eb/rfc_9562_universally_unique_identifiers) - [RFC 9562: Universally Unique IDentifiers (UUIDs)](https://www.rfc-editor.org/rfc/rfc9562.html)
 * [2024-05-08, 05:44:54](https://lobste.rs/s/nzwiht/getting_scanner_work_over_iscsi) - [Getting a scanner to work over iSCSI](https://sprocketfox.io/xssfox/2024/05/08/jbos/)
 * [2024-05-08, 05:08:09](https://lobste.rs/s/rv9sof/first_impression_asrock_rack_altrad8ud) - [A first impression of ASRock Rack ALTRAD8UD-1L2T (Ampere Altra)](https://boredengineer.medium.com/a-first-impression-of-asrock-rack-altrad8ud-1l2t-ampere-altra-2309091839c5)
