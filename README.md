@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-05-08, 21:15:10](https://lobste.rs/s/1hajnc/execa_9_our_biggest_release) - [Execa 9: our biggest release](https://medium.com/@ehmicky/execa-9-release-d0d5daaa097f)
+* [2024-05-08, 21:37:55](https://lobste.rs/s/mapuu9/test_failures_should_be_actionable) - [Test Failures Should Be Actionable](https://testing.googleblog.com/2024/05/test-failures-should-be-actionable.html)
 * [2024-05-08, 20:45:31](https://lobste.rs/s/2hnvhh/rust_through_ages) - [Rust through the ages](https://www.ncameron.org/blog/rust-through-the-ages/)
 * [2024-05-08, 20:29:55](https://lobste.rs/s/zbe3xy/problems_with_test_levels_2022) - [The problems with test levels (2022)](https://mirekdlugosz.com/blog/2022/the-problems-with-test-levels/)
 * [2024-05-08, 20:29:09](https://lobste.rs/s/kmhr2m/phoenix_liveview_1_0_rc_is_here) - [Phoenix LiveView 1.0-rc is here](https://phoenixframework.org/blog/phoenix-liveview-1.0-released)
