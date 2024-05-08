@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-08, 14:56:59](https://lobste.rs/s/jbgvkc/optimizing_clickhouse_cost_cpu_5_tactics) - [Optimizing Clickhouse Cost + CPU: 5 Tactics That Worked](https://www.highlight.io/blog/lw5-clickhouse-performance-optimization)
 * [2024-05-08, 13:53:24](https://lobste.rs/s/imyxxn/modern_sqlite_generated_columns) - [Modern SQLite: Generated columns](https://antonz.org/sqlite-generated-columns/)
 * [2024-05-08, 13:40:18](https://lobste.rs/s/6ggteu/tips_for_using_ai_generated_images_your) - [Tips For Using AI-Generated Images In Your Slides](https://thoughtbot.com/blog/tips-for-using-ai-generated-images-in-your-slides)
 * [2024-05-08, 13:26:04](https://lobste.rs/s/4jvmkj/space_efficient_indexing_for_immutable) - [Space-efficient indexing for immutable log data](https://blog.datalust.co/space-efficient-indexing-for-immutable-log-data/)
@@ -21,7 +22,6 @@
 * [2024-05-07, 17:24:49](https://lobste.rs/s/wwvz3m/modern_wordpress_yikes) - [Modern WordPress - Yikes](https://dbushell.com/2024/05/07/modern-wordpress-themes-yikes/)
 * [2024-05-07, 17:10:31](https://lobste.rs/s/5idpf3/build_your_own_htmx) - [Build your own HTMX](https://joshi.monster/posts/build-your-own-htmx/)
 * [2024-05-07, 15:30:46](https://lobste.rs/s/lj5st0/zed_decoded_linux_when) - [Zed Decoded: Linux when?](https://zed.dev/blog/zed-decoded-linux-when)
-* [2024-05-07, 14:49:31](https://lobste.rs/s/qfw5qu/meta_string_37_5_space_efficient_string) - [Meta String: A 37.5% space efficient string encoding than UTF-8 in Fury serialization](https://fury.apache.org/blog/fury_meta_string_37_5_percent_space_efficient_encoding_than_utf8/)
 * [2024-05-07, 13:46:02](https://lobste.rs/s/jxxgoy/apple_event_for_may_7th_2024) - [Apple Event for May 7th, 2024](https://www.apple.com/apple-events/)
 * [2024-05-07, 13:44:49](https://lobste.rs/s/wy9s3v/raspberry_pi_connect) - [Raspberry Pi Connect](https://www.raspberrypi.com/news/raspberry-pi-connect/)
 * [2024-05-07, 10:55:33](https://lobste.rs/s/pdhon6/we_re_moving_continuous_integration_back) - [We're moving continuous integration back to developer machines](https://world.hey.com/dhh/we-re-moving-continuous-integration-back-to-developer-machines-3ac6c611)
