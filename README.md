@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-08, 11:08:46](https://lobste.rs/s/99qgwz/arm_s_work_on_gcc_14) - [Arm's work on GCC-14](https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/p1-gcc-14)
 * [2024-05-08, 09:38:31](https://lobste.rs/s/dl32ue/systemd_heads_for_big_round_number) - [Systemd heads for a big round-number release](https://lwn.net/SubscriberLink/971866/f244aee59d4d6a66/)
 * [2024-05-08, 08:31:15](https://lobste.rs/s/k9t6dc/june_language_search_for_easier_safe) - [The June Language: The search for easier safe systems programming](https://www.sophiajt.com/search-for-easier-safe-systems-programming/)
 * [2024-05-08, 07:21:30](https://lobste.rs/s/ww8laz/freebsd_journal_2024_03_04_development) - [FreeBSD Journal - 2024/03-04 - Development Workflow and CI](https://freebsdfoundation.org/past-issues/development-workflow-and-ci/)
@@ -22,7 +23,6 @@
 * [2024-05-07, 13:46:02](https://lobste.rs/s/jxxgoy/apple_event_for_may_7th_2024) - [Apple Event for May 7th, 2024](https://www.apple.com/apple-events/)
 * [2024-05-07, 13:44:49](https://lobste.rs/s/wy9s3v/raspberry_pi_connect) - [Raspberry Pi Connect](https://www.raspberrypi.com/news/raspberry-pi-connect/)
 * [2024-05-07, 13:42:58](https://lobste.rs/s/ceyzgp/plot_ting_freeb_sd_mem_o_ry_fragmentation) - [Plot­ting the FreeB­SD mem­o­ry fragmentation](https://www.leidinger.net/blog/2024/05/07/plotting-the-freebsd-memory-fragmentation/)
-* [2024-05-07, 12:43:08](https://lobste.rs/s/2zqaap/async_rust_complexity) - [Async Rust Complexity ](https://v5.chriskrycho.com/journal/async-rust-complexity/)
 * [2024-05-07, 10:55:33](https://lobste.rs/s/pdhon6/we_re_moving_continuous_integration_back) - [We're moving continuous integration back to developer machines](https://world.hey.com/dhh/we-re-moving-continuous-integration-back-to-developer-machines-3ac6c611)
 * [2024-05-06, 22:07:38](https://lobste.rs/s/lin6a8/novel_attack_against_virtually_all_vpn) - [Novel attack against virtually all VPN apps neuters their entire purpose](https://arstechnica.com/security/2024/05/novel-attack-against-virtually-all-vpn-apps-neuters-their-entire-purpose/)
 
