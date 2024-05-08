@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-08, 06:34:44",
+      "https://lobste.rs/s/xjztxq/improved_heroku_app_performance_with"
+    ],
+    [
+      "Improved Heroku App Performance with HTTP/2",
+      "https://blog.heroku.com/heroku-http2-public-beta"
+    ]
+  ],
+  [
+    [
       "2024-05-08, 05:44:54",
       "https://lobste.rs/s/nzwiht/getting_scanner_work_over_iscsi"
     ],
@@ -57,16 +67,6 @@
     [
       "Did GitHub Copilot really increase my productivity?",
       "https://trace.yshui.dev/2024-05-copilot.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-07, 21:52:30",
-      "https://lobste.rs/s/n38rvc/exploring_50_user_interfaces_for_ai_code"
-    ],
-    [
-      "Exploring 50 user interfaces for AI code suggestions",
-      "https://austinhenley.com/blog/intellicode.html"
     ]
   ],
   [
