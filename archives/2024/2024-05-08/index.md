@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-08](index.md)
 
+* [2024-05-08, 23:20:34](https://lobste.rs/s/c3hbh6/it_s_not_about_flakes_vs_channels) - [It's not about “Flakes vs. Channels”](https://samuel.dionne-riel.com/blog/2024/05/07/its-not-flakes-vs-channels.html)
 * [2024-05-08, 21:37:55](https://lobste.rs/s/mapuu9/test_failures_should_be_actionable) - [Test Failures Should Be Actionable](https://testing.googleblog.com/2024/05/test-failures-should-be-actionable.html)
 * [2024-05-08, 21:15:10](https://lobste.rs/s/1hajnc/execa_9_our_biggest_release) - [Execa 9: our biggest release](https://medium.com/@ehmicky/execa-9-release-d0d5daaa097f)
 * [2024-05-08, 20:45:31](https://lobste.rs/s/2hnvhh/rust_through_ages) - [Rust through the ages](https://www.ncameron.org/blog/rust-through-the-ages/)
