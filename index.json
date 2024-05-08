@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2024-05-08, 14:56:59",
+      "https://lobste.rs/s/jbgvkc/optimizing_clickhouse_cost_cpu_5_tactics"
+    ],
+    [
+      "Optimizing Clickhouse Cost + CPU: 5 Tactics That Worked",
+      "https://www.highlight.io/blog/lw5-clickhouse-performance-optimization"
+    ]
+  ],
+  [
+    [
       "2024-05-08, 13:53:24",
       "https://lobste.rs/s/imyxxn/modern_sqlite_generated_columns"
     ],
@@ -237,16 +247,6 @@
     [
       "Apple Event for May 7th, 2024",
       "https://www.apple.com/apple-events/"
-    ]
-  ],
-  [
-    [
-      "2024-05-07, 10:55:33",
-      "https://lobste.rs/s/pdhon6/we_re_moving_continuous_integration_back"
-    ],
-    [
-      "We're moving continuous integration back to developer machines",
-      "https://world.hey.com/dhh/we-re-moving-continuous-integration-back-to-developer-machines-3ac6c611"
     ]
   ]
 ]
