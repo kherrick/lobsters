@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-08](index.md)
 
+* [2024-05-08, 06:34:44](https://lobste.rs/s/xjztxq/improved_heroku_app_performance_with) - [Improved Heroku App Performance with HTTP/2](https://blog.heroku.com/heroku-http2-public-beta)
 * [2024-05-08, 05:44:54](https://lobste.rs/s/nzwiht/getting_scanner_work_over_iscsi) - [Getting a scanner to work over iSCSI](https://sprocketfox.io/xssfox/2024/05/08/jbos/)
 * [2024-05-08, 05:08:09](https://lobste.rs/s/rv9sof/first_impression_asrock_rack_altrad8ud) - [A first impression of ASRock Rack ALTRAD8UD-1L2T (Ampere Altra)](https://boredengineer.medium.com/a-first-impression-of-asrock-rack-altrad8ud-1l2t-ampere-altra-2309091839c5)
 * [2024-05-08, 04:23:10](https://lobste.rs/s/4lplbe/how_contributing_open_source_helped_you) - [How contributing to open source helped you become a better developer or landed you a job](https://lobste.rs/s/4lplbe/how_contributing_open_source_helped_you)

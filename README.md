@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-08, 06:34:44](https://lobste.rs/s/xjztxq/improved_heroku_app_performance_with) - [Improved Heroku App Performance with HTTP/2](https://blog.heroku.com/heroku-http2-public-beta)
 * [2024-05-08, 05:44:54](https://lobste.rs/s/nzwiht/getting_scanner_work_over_iscsi) - [Getting a scanner to work over iSCSI](https://sprocketfox.io/xssfox/2024/05/08/jbos/)
 * [2024-05-08, 05:08:09](https://lobste.rs/s/rv9sof/first_impression_asrock_rack_altrad8ud) - [A first impression of ASRock Rack ALTRAD8UD-1L2T (Ampere Altra)](https://boredengineer.medium.com/a-first-impression-of-asrock-rack-altrad8ud-1l2t-ampere-altra-2309091839c5)
 * [2024-05-08, 04:23:10](https://lobste.rs/s/4lplbe/how_contributing_open_source_helped_you) - [How contributing to open source helped you become a better developer or landed you a job](https://lobste.rs/s/4lplbe/how_contributing_open_source_helped_you)
 * [2024-05-08, 02:28:08](https://lobste.rs/s/ouybxe/programming_mantras_are_proverbs) - [Programming mantras are proverbs](https://lukeplant.me.uk/blog/posts/programming-mantras-are-proverbs/)
 * [2024-05-08, 01:37:51](https://lobste.rs/s/gwwctl/needle_dfa_based_regex_library_compiles) - [Needle: A DFA Based Regex Library that Compiles to JVM  ByteCode](https://justinblank.com/experiments/needle.html)
 * [2024-05-08, 01:29:57](https://lobste.rs/s/u9kgo4/did_github_copilot_really_increase_my) - [Did GitHub Copilot really increase my productivity?](https://trace.yshui.dev/2024-05-copilot.html)
-* [2024-05-07, 21:52:30](https://lobste.rs/s/n38rvc/exploring_50_user_interfaces_for_ai_code) - [Exploring 50 user interfaces for AI code suggestions](https://austinhenley.com/blog/intellicode.html)
 * [2024-05-07, 21:06:27](https://lobste.rs/s/ev8iy0/jolie_service_oriented_programming) - [Jolie, the service-oriented programming language](https://www.jolie-lang.org/index.html)
 * [2024-05-07, 18:47:39](https://lobste.rs/s/tjyrgj/storage_churn) - [Storage Churn](https://www.tbray.org/ongoing/When/202x/2024/05/05/On-Storage)
 * [2024-05-07, 17:24:49](https://lobste.rs/s/wwvz3m/modern_wordpress_yikes) - [Modern WordPress - Yikes](https://dbushell.com/2024/05/07/modern-wordpress-themes-yikes/)
