@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-08, 20:45:31](https://lobste.rs/s/2hnvhh/rust_through_ages) - [Rust through the ages](https://www.ncameron.org/blog/rust-through-the-ages/)
 * [2024-05-08, 20:29:55](https://lobste.rs/s/zbe3xy/problems_with_test_levels_2022) - [The problems with test levels (2022)](https://mirekdlugosz.com/blog/2022/the-problems-with-test-levels/)
 * [2024-05-08, 20:29:09](https://lobste.rs/s/kmhr2m/phoenix_liveview_1_0_rc_is_here) - [Phoenix LiveView 1.0-rc is here](https://phoenixframework.org/blog/phoenix-liveview-1.0-released)
 * [2024-05-08, 20:25:36](https://lobste.rs/s/s4cgxm/how_use_foreign_function_api_java_22_call_c) - [How to use the Foreign Function API in Java 22 to Call C Libraries](https://ifesunmola.com/how-to-use-the-foreign-function-api-in-java-22-to-call-c-libraries/)
@@ -7,7 +8,6 @@
 * [2024-05-08, 17:15:14](https://lobste.rs/s/xzoxvt/log_scales) - [Log scales](https://briefer.cloud/blog/posts/logarithms/)
 * [2024-05-08, 15:49:27](https://lobste.rs/s/d2jqxc/serverless_runtime_database_co_design) - [Serverless Runtime / Database Co-Design With Asynchronous I/O](https://penberg.org/papers/penberg-edgesys24.pdf)
 * [2024-05-08, 15:36:44](https://lobste.rs/s/l41nm8/raptor_high_level_algorithmic_skeleton) - [Raptor - A High Level Algorithmic Skeleton CUDA Library](https://dma-neves.github.io/dma/raptor.html)
-* [2024-05-08, 14:56:59](https://lobste.rs/s/jbgvkc/optimizing_clickhouse_cost_cpu_5_tactics) - [Optimizing Clickhouse Cost + CPU: 5 Tactics That Worked](https://www.highlight.io/blog/lw5-clickhouse-performance-optimization)
 * [2024-05-08, 13:53:24](https://lobste.rs/s/imyxxn/modern_sqlite_generated_columns) - [Modern SQLite: Generated columns](https://antonz.org/sqlite-generated-columns/)
 * [2024-05-08, 12:54:26](https://lobste.rs/s/4b528k/inclusive_sans_text_font_designed_for) - [Inclusive Sans, a text font designed for accessibility and readability](https://www.oliviaking.com/inclusive-sans)
 * [2024-05-08, 11:08:46](https://lobste.rs/s/99qgwz/arm_s_work_on_gcc_14) - [Arm's work on GCC-14](https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/p1-gcc-14)
