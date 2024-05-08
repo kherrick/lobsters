@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-08](index.md)
 
+* [2024-05-08, 09:38:31](https://lobste.rs/s/dl32ue/systemd_heads_for_big_round_number) - [Systemd heads for a big round-number release](https://lwn.net/SubscriberLink/971866/f244aee59d4d6a66/)
 * [2024-05-08, 08:31:15](https://lobste.rs/s/k9t6dc/june_language_search_for_easier_safe) - [The June Language: The search for easier safe systems programming](https://www.sophiajt.com/search-for-easier-safe-systems-programming/)
 * [2024-05-08, 07:21:30](https://lobste.rs/s/ww8laz/freebsd_journal_2024_03_04_development) - [FreeBSD Journal - 2024/03-04 - Development Workflow and CI](https://freebsdfoundation.org/past-issues/development-workflow-and-ci/)
 * [2024-05-08, 07:15:04](https://lobste.rs/s/bnwyhy/common_google_xss) - [Common Google XSS](https://matan-h.com/common-google-xss)
