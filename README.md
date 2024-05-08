@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-08, 16:12:51](https://lobste.rs/s/kl7wgp/quick_look_at_rewrite_coreutils_with_rust) - [A quick look at the rewrite of coreutils with Rust and the history of NetBSD](https://youtu.be/5JcaQWGMRVE)
 * [2024-05-08, 15:49:27](https://lobste.rs/s/d2jqxc/serverless_runtime_database_co_design) - [Serverless Runtime / Database Co-Design With Asynchronous I/O](https://penberg.org/papers/penberg-edgesys24.pdf)
 * [2024-05-08, 15:36:44](https://lobste.rs/s/l41nm8/raptor_high_level_algorithmic_skeleton) - [Raptor - A High Level Algorithmic Skeleton CUDA Library](https://dma-neves.github.io/dma/raptor.html)
 * [2024-05-08, 14:56:59](https://lobste.rs/s/jbgvkc/optimizing_clickhouse_cost_cpu_5_tactics) - [Optimizing Clickhouse Cost + CPU: 5 Tactics That Worked](https://www.highlight.io/blog/lw5-clickhouse-performance-optimization)
@@ -19,7 +20,6 @@
 * [2024-05-08, 01:29:57](https://lobste.rs/s/u9kgo4/did_github_copilot_really_increase_my) - [Did GitHub Copilot really increase my productivity?](https://trace.yshui.dev/2024-05-copilot.html)
 * [2024-05-07, 21:06:27](https://lobste.rs/s/ev8iy0/jolie_service_oriented_programming) - [Jolie, the service-oriented programming language](https://www.jolie-lang.org/index.html)
 * [2024-05-07, 18:47:39](https://lobste.rs/s/tjyrgj/storage_churn) - [Storage Churn](https://www.tbray.org/ongoing/When/202x/2024/05/05/On-Storage)
-* [2024-05-07, 17:24:49](https://lobste.rs/s/wwvz3m/modern_wordpress_yikes) - [Modern WordPress - Yikes](https://dbushell.com/2024/05/07/modern-wordpress-themes-yikes/)
 * [2024-05-07, 17:10:31](https://lobste.rs/s/5idpf3/build_your_own_htmx) - [Build your own HTMX](https://joshi.monster/posts/build-your-own-htmx/)
 * [2024-05-07, 15:30:46](https://lobste.rs/s/lj5st0/zed_decoded_linux_when) - [Zed Decoded: Linux when?](https://zed.dev/blog/zed-decoded-linux-when)
 * [2024-05-07, 13:46:02](https://lobste.rs/s/jxxgoy/apple_event_for_may_7th_2024) - [Apple Event for May 7th, 2024](https://www.apple.com/apple-events/)
