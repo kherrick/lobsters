@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-08](index.md)
 
+* [2024-05-08, 20:14:52](https://lobste.rs/s/zfo0x9/broken_promises_nix_governance) - [Broken Promises: The Nix Governance Discussions](https://shealevy.com/blog/2024/05/08/broken-promises-the-nix-governance-discussions/)
 * [2024-05-08, 18:21:11](https://lobste.rs/s/xd1vkf/undue_base_url_influence) - [Undue base URL influence](https://annevankesteren.nl/2024/05/undue-base-url-influence)
 * [2024-05-08, 17:15:14](https://lobste.rs/s/xzoxvt/log_scales) - [Log scales](https://briefer.cloud/blog/posts/logarithms/)
 * [2024-05-08, 16:50:50](https://lobste.rs/s/tlsbzg/introducing_bind9_dnssec_policy) - [Introducing BIND9 dnssec-policy](https://dotat.at/@/2024-05-08-dnssec-policy.html)
