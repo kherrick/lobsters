@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-08, 04:23:10](https://lobste.rs/s/4lplbe/how_contributing_open_source_helped_you) - [How contributing to open source helped you become a better developer or landed you a job](https://lobste.rs/s/4lplbe/how_contributing_open_source_helped_you)
 * [2024-05-08, 03:04:27](https://lobste.rs/s/pier9n/xz_utils_made_me_paranoid) - [XZ Utils Made Me Paranoid](https://trustedsec.com/blog/xz-utils-made-me-paranoid)
 * [2024-05-08, 02:28:08](https://lobste.rs/s/ouybxe/programming_mantras_are_proverbs) - [Programming mantras are proverbs](https://lukeplant.me.uk/blog/posts/programming-mantras-are-proverbs/)
 * [2024-05-08, 01:37:51](https://lobste.rs/s/gwwctl/needle_dfa_based_regex_library_compiles) - [Needle: A DFA Based Regex Library that Compiles to JVM  ByteCode](https://justinblank.com/experiments/needle.html)
 * [2024-05-08, 01:29:57](https://lobste.rs/s/u9kgo4/did_github_copilot_really_increase_my) - [Did GitHub Copilot really increase my productivity?](https://trace.yshui.dev/2024-05-copilot.html)
-* [2024-05-07, 22:01:05](https://lobste.rs/s/c5p1gt/qt_trivial_relocation_part_1) - [Qt and Trivial Relocation (Part 1)](https://www.kdab.com/qt-and-trivial-relocation-part-1/)
 * [2024-05-07, 21:52:30](https://lobste.rs/s/n38rvc/exploring_50_user_interfaces_for_ai_code) - [Exploring 50 user interfaces for AI code suggestions](https://austinhenley.com/blog/intellicode.html)
 * [2024-05-07, 21:06:27](https://lobste.rs/s/ev8iy0/jolie_service_oriented_programming) - [Jolie, the service-oriented programming language](https://www.jolie-lang.org/index.html)
 * [2024-05-07, 18:47:39](https://lobste.rs/s/tjyrgj/storage_churn) - [Storage Churn](https://www.tbray.org/ongoing/When/202x/2024/05/05/On-Storage)
