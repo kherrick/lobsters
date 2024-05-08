@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-08, 05:44:54](https://lobste.rs/s/nzwiht/getting_scanner_work_over_iscsi) - [Getting a scanner to work over iSCSI](https://sprocketfox.io/xssfox/2024/05/08/jbos/)
 * [2024-05-08, 05:08:09](https://lobste.rs/s/rv9sof/first_impression_asrock_rack_altrad8ud) - [A first impression of ASRock Rack ALTRAD8UD-1L2T (Ampere Altra)](https://boredengineer.medium.com/a-first-impression-of-asrock-rack-altrad8ud-1l2t-ampere-altra-2309091839c5)
 * [2024-05-08, 04:23:10](https://lobste.rs/s/4lplbe/how_contributing_open_source_helped_you) - [How contributing to open source helped you become a better developer or landed you a job](https://lobste.rs/s/4lplbe/how_contributing_open_source_helped_you)
 * [2024-05-08, 02:28:08](https://lobste.rs/s/ouybxe/programming_mantras_are_proverbs) - [Programming mantras are proverbs](https://lukeplant.me.uk/blog/posts/programming-mantras-are-proverbs/)
@@ -20,7 +21,6 @@
 * [2024-05-07, 13:42:58](https://lobste.rs/s/ceyzgp/plot_ting_freeb_sd_mem_o_ry_fragmentation) - [Plot­ting the FreeB­SD mem­o­ry fragmentation](https://www.leidinger.net/blog/2024/05/07/plotting-the-freebsd-memory-fragmentation/)
 * [2024-05-07, 12:43:08](https://lobste.rs/s/2zqaap/async_rust_complexity) - [Async Rust Complexity ](https://v5.chriskrycho.com/journal/async-rust-complexity/)
 * [2024-05-07, 10:55:33](https://lobste.rs/s/pdhon6/we_re_moving_continuous_integration_back) - [We're moving continuous integration back to developer machines](https://world.hey.com/dhh/we-re-moving-continuous-integration-back-to-developer-machines-3ac6c611)
-* [2024-05-07, 08:18:35](https://lobste.rs/s/mpjgvj/alibaba_s_yitian_710_is_fastest_arm_based) - [Alibaba's Yitian 710 is the fastest Arm-based CPU for cloud servers, study claims](https://www.tomshardware.com/desktops/servers/alibabas-yitian-710-is-the-fastest-arm-based-cpu-for-cloud-servers-study-claims)
 * [2024-05-07, 02:05:07](https://lobste.rs/s/2y69gx/100x_speedup_with_unsafe_python) - [A 100x speedup with unsafe Python](https://yosefk.com/blog/a-100x-speedup-with-unsafe-python.html)
 * [2024-05-06, 22:07:38](https://lobste.rs/s/lin6a8/novel_attack_against_virtually_all_vpn) - [Novel attack against virtually all VPN apps neuters their entire purpose](https://arstechnica.com/security/2024/05/novel-attack-against-virtually-all-vpn-apps-neuters-their-entire-purpose/)
 * [2024-05-06, 16:30:01](https://lobste.rs/s/pci3eh/lila_lil_interpreter_awk) - [Lila: a Lil Interpreter in Awk](https://beyondloom.com/blog/lila.html)
