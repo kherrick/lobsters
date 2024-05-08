@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-08, 02:28:08](https://lobste.rs/s/ouybxe/programming_mantras_are_proverbs) - [Programming mantras are proverbs](https://lukeplant.me.uk/blog/posts/programming-mantras-are-proverbs/)
 * [2024-05-08, 01:37:51](https://lobste.rs/s/gwwctl/needle_dfa_based_regex_library_compiles) - [Needle: A DFA Based Regex Library that Compiles to JVM  ByteCode](https://justinblank.com/experiments/needle.html)
 * [2024-05-08, 01:29:57](https://lobste.rs/s/u9kgo4/did_github_copilot_really_increase_my) - [Did GitHub Copilot really increase my productivity?](https://trace.yshui.dev/2024-05-copilot.html)
 * [2024-05-07, 22:01:05](https://lobste.rs/s/c5p1gt/qt_trivial_relocation_part_1) - [Qt and Trivial Relocation (Part 1)](https://www.kdab.com/qt-and-trivial-relocation-part-1/)
@@ -16,7 +17,6 @@
 * [2024-05-07, 13:46:02](https://lobste.rs/s/jxxgoy/apple_event_for_may_7th_2024) - [Apple Event for May 7th, 2024](https://www.apple.com/apple-events/)
 * [2024-05-07, 13:44:49](https://lobste.rs/s/wy9s3v/raspberry_pi_connect) - [Raspberry Pi Connect](https://www.raspberrypi.com/news/raspberry-pi-connect/)
 * [2024-05-07, 13:42:58](https://lobste.rs/s/ceyzgp/plot_ting_freeb_sd_mem_o_ry_fragmentation) - [Plot­ting the FreeB­SD mem­o­ry fragmentation](https://www.leidinger.net/blog/2024/05/07/plotting-the-freebsd-memory-fragmentation/)
-* [2024-05-07, 13:13:19](https://lobste.rs/s/0fvuvr/learn_something_old_every_day_part_xi_dos) - [Learn Something Old Every Day, Part XI: DOS Directory Searches are Bizarre](http://www.os2museum.com/wp/learn-something-old-every-day-part-xi-dos-directory-searches-are-bizarre/)
 * [2024-05-07, 12:43:08](https://lobste.rs/s/2zqaap/async_rust_complexity) - [Async Rust Complexity ](https://v5.chriskrycho.com/journal/async-rust-complexity/)
 * [2024-05-07, 10:55:33](https://lobste.rs/s/pdhon6/we_re_moving_continuous_integration_back) - [We're moving continuous integration back to developer machines](https://world.hey.com/dhh/we-re-moving-continuous-integration-back-to-developer-machines-3ac6c611)
 * [2024-05-07, 08:18:35](https://lobste.rs/s/mpjgvj/alibaba_s_yitian_710_is_fastest_arm_based) - [Alibaba's Yitian 710 is the fastest Arm-based CPU for cloud servers, study claims](https://www.tomshardware.com/desktops/servers/alibabas-yitian-710-is-the-fastest-arm-based-cpu-for-cloud-servers-study-claims)
