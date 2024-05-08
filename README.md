@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-08, 08:31:15](https://lobste.rs/s/k9t6dc/june_language_search_for_easier_safe) - [The June Language: The search for easier safe systems programming](https://www.sophiajt.com/search-for-easier-safe-systems-programming/)
 * [2024-05-08, 07:21:30](https://lobste.rs/s/ww8laz/freebsd_journal_2024_03_04_development) - [FreeBSD Journal - 2024/03-04 - Development Workflow and CI](https://freebsdfoundation.org/past-issues/development-workflow-and-ci/)
 * [2024-05-08, 07:15:04](https://lobste.rs/s/bnwyhy/common_google_xss) - [Common Google XSS](https://matan-h.com/common-google-xss)
 * [2024-05-08, 07:12:28](https://lobste.rs/s/mzk8eb/rfc_9562_universally_unique_identifiers) - [RFC 9562: Universally Unique IDentifiers (UUIDs)](https://www.rfc-editor.org/rfc/rfc9562.html)
@@ -18,7 +19,6 @@
 * [2024-05-07, 16:10:42](https://lobste.rs/s/uzfjuv/railsconf_2025_will_be_last_ruby_central) - [RailsConf 2025 will be the last - Ruby Central Refocusing](https://rubycentral.org/news/anewearforrubycentralevents/)
 * [2024-05-07, 15:30:46](https://lobste.rs/s/lj5st0/zed_decoded_linux_when) - [Zed Decoded: Linux when?](https://zed.dev/blog/zed-decoded-linux-when)
 * [2024-05-07, 14:49:31](https://lobste.rs/s/qfw5qu/meta_string_37_5_space_efficient_string) - [Meta String: A 37.5% space efficient string encoding than UTF-8 in Fury serialization](https://fury.apache.org/blog/fury_meta_string_37_5_percent_space_efficient_encoding_than_utf8/)
-* [2024-05-07, 14:32:26](https://lobste.rs/s/hc38zd/juice_it_lose_it) - [Juice it or lose it](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
 * [2024-05-07, 13:46:02](https://lobste.rs/s/jxxgoy/apple_event_for_may_7th_2024) - [Apple Event for May 7th, 2024](https://www.apple.com/apple-events/)
 * [2024-05-07, 13:44:49](https://lobste.rs/s/wy9s3v/raspberry_pi_connect) - [Raspberry Pi Connect](https://www.raspberrypi.com/news/raspberry-pi-connect/)
 * [2024-05-07, 13:42:58](https://lobste.rs/s/ceyzgp/plot_ting_freeb_sd_mem_o_ry_fragmentation) - [Plot­ting the FreeB­SD mem­o­ry fragmentation](https://www.leidinger.net/blog/2024/05/07/plotting-the-freebsd-memory-fragmentation/)
