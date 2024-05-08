@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-08, 15:49:27",
+      "https://lobste.rs/s/d2jqxc/serverless_runtime_database_co_design"
+    ],
+    [
+      "Serverless Runtime / Database Co-Design With Asynchronous I/O",
+      "https://penberg.org/papers/penberg-edgesys24.pdf"
+    ]
+  ],
+  [
+    [
       "2024-05-08, 15:36:44",
       "https://lobste.rs/s/l41nm8/raptor_high_level_algorithmic_skeleton"
     ],
@@ -27,16 +37,6 @@
     [
       "Modern SQLite: Generated columns",
       "https://antonz.org/sqlite-generated-columns/"
-    ]
-  ],
-  [
-    [
-      "2024-05-08, 13:40:18",
-      "https://lobste.rs/s/6ggteu/tips_for_using_ai_generated_images_your"
-    ],
-    [
-      "Tips For Using AI-Generated Images In Your Slides",
-      "https://thoughtbot.com/blog/tips-for-using-ai-generated-images-in-your-slides"
     ]
   ],
   [
