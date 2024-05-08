@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-08, 18:21:11",
+      "https://lobste.rs/s/xd1vkf/undue_base_url_influence"
+    ],
+    [
+      "Undue base URL influence",
+      "https://annevankesteren.nl/2024/05/undue-base-url-influence"
+    ]
+  ],
+  [
+    [
       "2024-05-08, 17:15:14",
       "https://lobste.rs/s/xzoxvt/log_scales"
     ],
@@ -47,16 +57,6 @@
     [
       "Modern SQLite: Generated columns",
       "https://antonz.org/sqlite-generated-columns/"
-    ]
-  ],
-  [
-    [
-      "2024-05-08, 13:26:04",
-      "https://lobste.rs/s/4jvmkj/space_efficient_indexing_for_immutable"
-    ],
-    [
-      "Space-efficient indexing for immutable log data",
-      "https://blog.datalust.co/space-efficient-indexing-for-immutable-log-data/"
     ]
   ],
   [
