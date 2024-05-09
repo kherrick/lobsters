@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-09, 06:04:32](https://lobste.rs/s/udsfr1/memory_errors_consumer_devices) - [Memory errors in consumer devices](https://fosstodon.org/@gabrielesvelto/112407741329145666)
 * [2024-05-09, 05:06:08](https://lobste.rs/s/jemocq/microkernels_meet_recursive_virtual) - [Microkernels Meet Recursive Virtual Machines (2007)](https://bford.info/pub/os/fluke-rvm.pdf)
 * [2024-05-09, 05:03:25](https://lobste.rs/s/xe13pm/automerge_2_2_rich_text) - [Automerge 2.2: Rich Text](https://automerge.org/blog/2024/04/06/richtext/)
 * [2024-05-09, 02:49:05](https://lobste.rs/s/j4fpmd/all_error_messages_are_necessarily_bad) - [All error messages are necessarily bad to some degree](https://www.haskellforall.com/2024/05/all-error-messages-are-necessarily-bad.html)
@@ -24,7 +25,6 @@
 * [2024-05-08, 04:23:10](https://lobste.rs/s/4lplbe/how_contributing_open_source_helped_you) - [How contributing to open source helped you become a better developer or landed you a job](https://lobste.rs/s/4lplbe/how_contributing_open_source_helped_you)
 * [2024-05-08, 02:28:08](https://lobste.rs/s/ouybxe/programming_mantras_are_proverbs) - [Programming mantras are proverbs](https://lukeplant.me.uk/blog/posts/programming-mantras-are-proverbs/)
 * [2024-05-08, 01:29:57](https://lobste.rs/s/u9kgo4/did_github_copilot_really_increase_my) - [Did GitHub Copilot really increase my productivity?](https://trace.yshui.dev/2024-05-copilot.html)
-* [2024-05-07, 15:30:46](https://lobste.rs/s/lj5st0/zed_decoded_linux_when) - [Zed Decoded: Linux when?](https://zed.dev/blog/zed-decoded-linux-when)
 
 ## [Archives](archives/index.md)
 
