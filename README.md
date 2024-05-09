@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-09, 12:55:24](https://lobste.rs/s/jw0hob/datatype99_algebraic_data_types_for_c99) - [datatype99: Algebraic data types for C99](https://github.com/Hirrolot/datatype99)
 * [2024-05-09, 09:58:51](https://lobste.rs/s/fedhvm/await_event_horizon_javascript) - [The await event horizon in JavaScript](https://frontside.com/blog/2023-12-11-await-event-horizon/)
 * [2024-05-09, 08:54:41](https://lobste.rs/s/zmefnd/self_hosted_dashboard_puts_all_your_feeds) - [A self-hosted dashboard that puts all your feeds in one place](https://github.com/glanceapp/glance)
 * [2024-05-09, 08:39:36](https://lobste.rs/s/qyaupk/utc_tai_unix_time) - [UTC, TAI, and UNIX time](https://cr.yp.to/proto/utctai.html)
@@ -14,7 +15,6 @@
 * [2024-05-08, 21:37:55](https://lobste.rs/s/mapuu9/test_failures_should_be_actionable) - [Test Failures Should Be Actionable](https://testing.googleblog.com/2024/05/test-failures-should-be-actionable.html)
 * [2024-05-08, 20:45:31](https://lobste.rs/s/2hnvhh/rust_through_ages) - [Rust through the ages](https://www.ncameron.org/blog/rust-through-the-ages/)
 * [2024-05-08, 20:29:09](https://lobste.rs/s/kmhr2m/phoenix_liveview_1_0_rc_is_here) - [Phoenix LiveView 1.0-rc is here](https://phoenixframework.org/blog/phoenix-liveview-1.0-released)
-* [2024-05-08, 20:25:36](https://lobste.rs/s/s4cgxm/how_use_foreign_function_api_java_22_call_c) - [How to use the Foreign Function API in Java 22 to Call C Libraries](https://ifesunmola.com/how-to-use-the-foreign-function-api-in-java-22-to-call-c-libraries/)
 * [2024-05-08, 18:21:11](https://lobste.rs/s/xd1vkf/undue_base_url_influence) - [Undue base URL influence](https://annevankesteren.nl/2024/05/undue-base-url-influence)
 * [2024-05-08, 13:53:24](https://lobste.rs/s/imyxxn/modern_sqlite_generated_columns) - [Modern SQLite: Generated columns](https://antonz.org/sqlite-generated-columns/)
 * [2024-05-08, 12:54:26](https://lobste.rs/s/4b528k/inclusive_sans_text_font_designed_for) - [Inclusive Sans, a text font designed for accessibility and readability](https://www.oliviaking.com/inclusive-sans)

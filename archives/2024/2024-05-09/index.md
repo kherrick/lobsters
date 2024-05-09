@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 12:55:24](https://lobste.rs/s/jw0hob/datatype99_algebraic_data_types_for_c99) - [datatype99: Algebraic data types for C99](https://github.com/Hirrolot/datatype99)
 * [2024-05-09, 09:58:51](https://lobste.rs/s/fedhvm/await_event_horizon_javascript) - [The await event horizon in JavaScript](https://frontside.com/blog/2023-12-11-await-event-horizon/)
 * [2024-05-09, 08:54:41](https://lobste.rs/s/zmefnd/self_hosted_dashboard_puts_all_your_feeds) - [A self-hosted dashboard that puts all your feeds in one place](https://github.com/glanceapp/glance)
 * [2024-05-09, 08:39:36](https://lobste.rs/s/qyaupk/utc_tai_unix_time) - [UTC, TAI, and UNIX time](https://cr.yp.to/proto/utctai.html)
