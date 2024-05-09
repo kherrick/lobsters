@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 08:54:41](https://lobste.rs/s/zmefnd/self_hosted_dashboard_puts_all_your_feeds) - [A self-hosted dashboard that puts all your feeds in one place](https://github.com/glanceapp/glance)
 * [2024-05-09, 08:39:36](https://lobste.rs/s/qyaupk/utc_tai_unix_time) - [UTC, TAI, and UNIX time](https://cr.yp.to/proto/utctai.html)
 * [2024-05-09, 06:51:57](https://lobste.rs/s/dirfsd/objective_c_implementations_swift) - [Objective-C implementations in Swift](https://github.com/apple/swift-evolution/blob/main/proposals/0436-objc-implementation.md)
 * [2024-05-09, 06:44:02](https://lobste.rs/s/bjvznb/compiling_higher_order_functions_with) - [Compiling higher order functions with GADTs](https://injuly.in/blog/defunct/)
