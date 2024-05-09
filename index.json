@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-09, 17:53:34",
+      "https://lobste.rs/s/kocje7/it_s_always_tcp_nodelay_every_damn_time"
+    ],
+    [
+      "It's always TCP_NODELAY. Every damn time",
+      "https://brooker.co.za/blog/2024/05/09/nagle.html"
+    ]
+  ],
+  [
+    [
       "2024-05-09, 16:05:06",
       "https://lobste.rs/s/pagcog/what_are_effective_ways_sift_through_new"
     ],
@@ -217,16 +227,6 @@
     [
       "Inclusive Sans, a text font designed for accessibility and readability",
       "https://www.oliviaking.com/inclusive-sans"
-    ]
-  ],
-  [
-    [
-      "2024-05-08, 09:38:31",
-      "https://lobste.rs/s/dl32ue/systemd_heads_for_big_round_number"
-    ],
-    [
-      "Systemd heads for a big round-number release",
-      "https://lwn.net/SubscriberLink/971866/f244aee59d4d6a66/"
     ]
   ],
   [
