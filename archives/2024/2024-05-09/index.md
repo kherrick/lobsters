@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 06:44:02](https://lobste.rs/s/bjvznb/compiling_higher_order_functions_with) - [Compiling higher order functions with GADTs](https://injuly.in/blog/defunct/)
 * [2024-05-09, 06:04:32](https://lobste.rs/s/udsfr1/memory_errors_consumer_devices) - [Memory errors in consumer devices](https://fosstodon.org/@gabrielesvelto/112407741329145666)
 * [2024-05-09, 05:06:08](https://lobste.rs/s/jemocq/microkernels_meet_recursive_virtual) - [Microkernels Meet Recursive Virtual Machines (2007)](https://bford.info/pub/os/fluke-rvm.pdf)
 * [2024-05-09, 05:03:25](https://lobste.rs/s/xe13pm/automerge_2_2_rich_text) - [Automerge 2.2: Rich Text](https://automerge.org/blog/2024/04/06/richtext/)
