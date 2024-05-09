@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-05-09, 18:02:20",
+      "https://lobste.rs/s/kfwcxs/distributed_system_daemons_with"
+    ],
+    [
+      "Distributed system daemons with Shepherd and Goblins funded by NLnet",
+      "https://spritely.institute/news/spritely-nlnet-grants-december-2023.html"
+    ]
+  ],
+  [
+    [
       "2024-05-09, 17:53:34",
       "https://lobste.rs/s/kocje7/it_s_always_tcp_nodelay_every_damn_time"
     ],
@@ -137,16 +147,6 @@
     [
       "A self-hosted dashboard that puts all your feeds in one place",
       "https://github.com/glanceapp/glance"
-    ]
-  ],
-  [
-    [
-      "2024-05-09, 08:39:36",
-      "https://lobste.rs/s/qyaupk/utc_tai_unix_time"
-    ],
-    [
-      "UTC, TAI, and UNIX time",
-      "https://cr.yp.to/proto/utctai.html"
     ]
   ],
   [
