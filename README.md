@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-05-09, 19:09:35](https://lobste.rs/s/ox19zo/ppstep_interactive_c_c_preprocessor) - [ppstep: Interactive C/C++ preprocessor macro debugger](https://github.com/notfoundry/ppstep)
 * [2024-05-09, 18:15:27](https://lobste.rs/s/gczmnq/slop_is_new_name_for_unwanted_ai_generated) - [Slop is the new name for unwanted AI-generated content](https://simonwillison.net/2024/May/8/slop/)
 * [2024-05-09, 17:53:34](https://lobste.rs/s/kocje7/it_s_always_tcp_nodelay_every_damn_time) - [It's always TCP_NODELAY. Every damn time](https://brooker.co.za/blog/2024/05/09/nagle.html)
 * [2024-05-09, 16:05:06](https://lobste.rs/s/pagcog/what_are_effective_ways_sift_through_new) - [What are effective ways to sift through new research?](https://jamesg.blog/2024/05/09/new-research/)
 * [2024-05-09, 16:00:14](https://lobste.rs/s/qi9pwf/you_need_more_constraints) - [You Need More Constraints](https://borretti.me/article/you-need-more-constraints)
+* [2024-05-09, 15:24:44](https://lobste.rs/s/hyy9y7/on_hack_club) - [On Hack Club](https://place.reeseric.ci/writings/2024-05-05/)
 * [2024-05-09, 15:10:22](https://lobste.rs/s/8lnwrj/bash_tls_minimal_tls_1_2_client) - [bash_tls: A minimal TLS 1.2 client implementation in a pure Bash script](https://github.com/gh2o/bash_tls/)
 * [2024-05-09, 13:41:15](https://lobste.rs/s/2sqb8h/writing_sdk_zig_part_1) - [Writing an SDK in Zig, Part 1](https://arne.me/blog/writing-an-sdk-in-zig-part-1)
 * [2024-05-09, 13:37:20](https://lobste.rs/s/z5a4k0/securing_git_repositories_with_gittuf) - [Securing Git repositories with gittuf](https://lwn.net/SubscriberLink/972467/595a68b99f57a87d/)
