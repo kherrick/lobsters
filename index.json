@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-09, 06:51:57",
+      "https://lobste.rs/s/dirfsd/objective_c_implementations_swift"
+    ],
+    [
+      "Objective-C implementations in Swift",
+      "https://github.com/apple/swift-evolution/blob/main/proposals/0436-objc-implementation.md"
+    ]
+  ],
+  [
+    [
       "2024-05-09, 06:44:02",
       "https://lobste.rs/s/bjvznb/compiling_higher_order_functions_with"
     ],
@@ -137,16 +147,6 @@
     [
       "Serverless Runtime / Database Co-Design With Asynchronous I/O",
       "https://penberg.org/papers/penberg-edgesys24.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-05-08, 15:36:44",
-      "https://lobste.rs/s/l41nm8/raptor_high_level_algorithmic_skeleton"
-    ],
-    [
-      "Raptor - A High Level Algorithmic Skeleton CUDA Library",
-      "https://dma-neves.github.io/dma/raptor.html"
     ]
   ],
   [
