@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 16:05:06](https://lobste.rs/s/pagcog/what_are_effective_ways_sift_through_new) - [What are effective ways to sift through new research?](https://jamesg.blog/2024/05/09/new-research/)
+* [2024-05-09, 16:00:14](https://lobste.rs/s/qi9pwf/you_need_more_constraints) - [You Need More Constraints](https://borretti.me/article/you-need-more-constraints)
+* [2024-05-09, 15:59:56](https://lobste.rs/s/x6kh3a/dafny_power_user_type_parameter_modes) - [Dafny Power User: Type-parameter modes: variance and cardinality preservation](https://leino.science/papers/krml280.html)
 * [2024-05-09, 15:24:44](https://lobste.rs/s/hyy9y7/on_hack_club) - [On Hack Club](https://place.reeseric.ci/writings/2024-05-05/)
 * [2024-05-09, 15:10:22](https://lobste.rs/s/8lnwrj/bash_tls_minimal_tls_1_2_client) - [bash_tls: A minimal TLS 1.2 client implementation in a pure Bash script](https://github.com/gh2o/bash_tls/)
 * [2024-05-09, 14:19:48](https://lobste.rs/s/k21hsb/microsoft_playready_complete_client) - [Microsoft PlayReady - complete client identity compromise](https://seclists.org/fulldisclosure/2024/May/5)

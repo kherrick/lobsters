@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-05-09, 15:24:44](https://lobste.rs/s/hyy9y7/on_hack_club) - [On Hack Club](https://place.reeseric.ci/writings/2024-05-05/)
+* [2024-05-09, 16:05:06](https://lobste.rs/s/pagcog/what_are_effective_ways_sift_through_new) - [What are effective ways to sift through new research?](https://jamesg.blog/2024/05/09/new-research/)
+* [2024-05-09, 16:00:14](https://lobste.rs/s/qi9pwf/you_need_more_constraints) - [You Need More Constraints](https://borretti.me/article/you-need-more-constraints)
+* [2024-05-09, 15:59:56](https://lobste.rs/s/x6kh3a/dafny_power_user_type_parameter_modes) - [Dafny Power User: Type-parameter modes: variance and cardinality preservation](https://leino.science/papers/krml280.html)
 * [2024-05-09, 15:10:22](https://lobste.rs/s/8lnwrj/bash_tls_minimal_tls_1_2_client) - [bash_tls: A minimal TLS 1.2 client implementation in a pure Bash script](https://github.com/gh2o/bash_tls/)
 * [2024-05-09, 13:41:15](https://lobste.rs/s/2sqb8h/writing_sdk_zig_part_1) - [Writing an SDK in Zig, Part 1](https://arne.me/blog/writing-an-sdk-in-zig-part-1)
 * [2024-05-09, 13:37:20](https://lobste.rs/s/z5a4k0/securing_git_repositories_with_gittuf) - [Securing Git repositories with gittuf](https://lwn.net/SubscriberLink/972467/595a68b99f57a87d/)
@@ -20,10 +22,8 @@
 * [2024-05-08, 20:29:09](https://lobste.rs/s/kmhr2m/phoenix_liveview_1_0_rc_is_here) - [Phoenix LiveView 1.0-rc is here](https://phoenixframework.org/blog/phoenix-liveview-1.0-released)
 * [2024-05-08, 13:53:24](https://lobste.rs/s/imyxxn/modern_sqlite_generated_columns) - [Modern SQLite: Generated columns](https://antonz.org/sqlite-generated-columns/)
 * [2024-05-08, 12:54:26](https://lobste.rs/s/4b528k/inclusive_sans_text_font_designed_for) - [Inclusive Sans, a text font designed for accessibility and readability](https://www.oliviaking.com/inclusive-sans)
-* [2024-05-08, 11:08:46](https://lobste.rs/s/99qgwz/arm_s_work_on_gcc_14) - [Arm's work on GCC-14](https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/p1-gcc-14)
 * [2024-05-08, 09:38:31](https://lobste.rs/s/dl32ue/systemd_heads_for_big_round_number) - [Systemd heads for a big round-number release](https://lwn.net/SubscriberLink/971866/f244aee59d4d6a66/)
 * [2024-05-08, 08:31:15](https://lobste.rs/s/k9t6dc/june_language_search_for_easier_safe) - [The June Language: The search for easier safe systems programming](https://www.sophiajt.com/search-for-easier-safe-systems-programming/)
-* [2024-05-08, 04:23:10](https://lobste.rs/s/4lplbe/how_contributing_open_source_helped_you) - [How contributing to open source helped you become a better developer or landed you a job](https://lobste.rs/s/4lplbe/how_contributing_open_source_helped_you)
 * [2024-05-08, 01:29:57](https://lobste.rs/s/u9kgo4/did_github_copilot_really_increase_my) - [Did GitHub Copilot really increase my productivity?](https://trace.yshui.dev/2024-05-copilot.html)
 
 ## [Archives](archives/index.md)
