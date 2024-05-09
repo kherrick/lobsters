@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-05-09, 12:55:24",
+      "https://lobste.rs/s/jw0hob/datatype99_algebraic_data_types_for_c99"
+    ],
+    [
+      "datatype99: Algebraic data types for C99",
+      "https://github.com/Hirrolot/datatype99"
+    ]
+  ],
+  [
+    [
       "2024-05-09, 09:58:51",
       "https://lobste.rs/s/fedhvm/await_event_horizon_javascript"
     ],
@@ -147,16 +157,6 @@
     [
       "It's not about “Flakes vs. Channels”",
       "https://samuel.dionne-riel.com/blog/2024/05/07/its-not-flakes-vs-channels.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-08, 21:37:55",
-      "https://lobste.rs/s/mapuu9/test_failures_should_be_actionable"
-    ],
-    [
-      "Test Failures Should Be Actionable",
-      "https://testing.googleblog.com/2024/05/test-failures-should-be-actionable.html"
     ]
   ],
   [
