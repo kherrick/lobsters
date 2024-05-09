@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-09, 05:06:08",
+      "https://lobste.rs/s/jemocq/microkernels_meet_recursive_virtual"
+    ],
+    [
+      "Microkernels Meet Recursive Virtual Machines (2007)",
+      "https://bford.info/pub/os/fluke-rvm.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-05-09, 05:03:25",
+      "https://lobste.rs/s/xe13pm/automerge_2_2_rich_text"
+    ],
+    [
+      "Automerge 2.2: Rich Text",
+      "https://automerge.org/blog/2024/04/06/richtext/"
+    ]
+  ],
+  [
+    [
       "2024-05-09, 02:49:05",
       "https://lobste.rs/s/j4fpmd/all_error_messages_are_necessarily_bad"
     ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2024-05-08, 07:21:30",
-      "https://lobste.rs/s/ww8laz/freebsd_journal_2024_03_04_development"
-    ],
-    [
-      "FreeBSD Journal - 2024/03-04 - Development Workflow and CI",
-      "https://freebsdfoundation.org/past-issues/development-workflow-and-ci/"
-    ]
-  ],
-  [
-    [
       "2024-05-08, 07:12:28",
       "https://lobste.rs/s/mzk8eb/rfc_9562_universally_unique_identifiers"
     ],
     [
       "RFC 9562: Universally Unique IDentifiers (UUIDs)",
       "https://www.rfc-editor.org/rfc/rfc9562.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-08, 05:44:54",
-      "https://lobste.rs/s/nzwiht/getting_scanner_work_over_iscsi"
-    ],
-    [
-      "Getting a scanner to work over iSCSI",
-      "https://sprocketfox.io/xssfox/2024/05/08/jbos/"
     ]
   ],
   [
