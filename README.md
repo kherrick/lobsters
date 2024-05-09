@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-09, 20:12:33](https://lobste.rs/s/juevm7/air_gapped_nextcloud_for_highly) - [Air-gapped Nextcloud for highly confidential data](https://nextcloud.com/blog/event/air-gapped-nextcloud-confidential-data/)
 * [2024-05-09, 19:59:36](https://lobste.rs/s/wkeulu/adobe_photoshop_source_code) - [Adobe Photoshop Source Code](https://computerhistory.org/blog/adobe-photoshop-source-code/)
 * [2024-05-09, 19:09:35](https://lobste.rs/s/ox19zo/ppstep_interactive_c_c_preprocessor) - [ppstep: Interactive C/C++ preprocessor macro debugger](https://github.com/notfoundry/ppstep)
 * [2024-05-09, 18:15:27](https://lobste.rs/s/gczmnq/slop_is_new_name_for_unwanted_ai_generated) - [Slop is the new name for unwanted AI-generated content](https://simonwillison.net/2024/May/8/slop/)
@@ -23,7 +24,6 @@
 * [2024-05-08, 20:29:09](https://lobste.rs/s/kmhr2m/phoenix_liveview_1_0_rc_is_here) - [Phoenix LiveView 1.0-rc is here](https://phoenixframework.org/blog/phoenix-liveview-1.0-released)
 * [2024-05-08, 13:53:24](https://lobste.rs/s/imyxxn/modern_sqlite_generated_columns) - [Modern SQLite: Generated columns](https://antonz.org/sqlite-generated-columns/)
 * [2024-05-08, 12:54:26](https://lobste.rs/s/4b528k/inclusive_sans_text_font_designed_for) - [Inclusive Sans, a text font designed for accessibility and readability](https://www.oliviaking.com/inclusive-sans)
-* [2024-05-08, 08:31:15](https://lobste.rs/s/k9t6dc/june_language_search_for_easier_safe) - [The June Language: The search for easier safe systems programming](https://www.sophiajt.com/search-for-easier-safe-systems-programming/)
 * [2024-05-08, 01:29:57](https://lobste.rs/s/u9kgo4/did_github_copilot_really_increase_my) - [Did GitHub Copilot really increase my productivity?](https://trace.yshui.dev/2024-05-copilot.html)
 
 ## [Archives](archives/index.md)
