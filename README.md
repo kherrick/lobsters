@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-09, 21:20:38](https://lobste.rs/s/9x1bbx/symbolica) - [Symbolica](https://symbolica.io/)
 * [2024-05-09, 20:12:33](https://lobste.rs/s/juevm7/air_gapped_nextcloud_for_highly) - [Air-gapped Nextcloud for highly confidential data](https://nextcloud.com/blog/event/air-gapped-nextcloud-confidential-data/)
 * [2024-05-09, 19:59:36](https://lobste.rs/s/wkeulu/adobe_photoshop_source_code) - [Adobe Photoshop Source Code](https://computerhistory.org/blog/adobe-photoshop-source-code/)
 * [2024-05-09, 19:09:35](https://lobste.rs/s/ox19zo/ppstep_interactive_c_c_preprocessor) - [ppstep: Interactive C/C++ preprocessor macro debugger](https://github.com/notfoundry/ppstep)
 * [2024-05-09, 18:15:27](https://lobste.rs/s/gczmnq/slop_is_new_name_for_unwanted_ai_generated) - [Slop is the new name for unwanted AI-generated content](https://simonwillison.net/2024/May/8/slop/)
-* [2024-05-09, 18:02:20](https://lobste.rs/s/kfwcxs/distributed_system_daemons_with) - [Distributed system daemons with Shepherd and Goblins funded by NLnet](https://spritely.institute/news/spritely-nlnet-grants-december-2023.html)
 * [2024-05-09, 17:53:34](https://lobste.rs/s/kocje7/it_s_always_tcp_nodelay_every_damn_time) - [It's always TCP_NODELAY. Every damn time](https://brooker.co.za/blog/2024/05/09/nagle.html)
 * [2024-05-09, 16:05:06](https://lobste.rs/s/pagcog/what_are_effective_ways_sift_through_new) - [What are effective ways to sift through new research?](https://jamesg.blog/2024/05/09/new-research/)
 * [2024-05-09, 16:00:14](https://lobste.rs/s/qi9pwf/you_need_more_constraints) - [You Need More Constraints](https://borretti.me/article/you-need-more-constraints)
@@ -15,6 +15,7 @@
 * [2024-05-09, 12:55:24](https://lobste.rs/s/jw0hob/datatype99_algebraic_data_types_for_c99) - [datatype99: Algebraic data types for C99](https://github.com/Hirrolot/datatype99)
 * [2024-05-09, 09:58:51](https://lobste.rs/s/fedhvm/await_event_horizon_javascript) - [The await event horizon in JavaScript](https://frontside.com/blog/2023-12-11-await-event-horizon/)
 * [2024-05-09, 08:54:41](https://lobste.rs/s/zmefnd/self_hosted_dashboard_puts_all_your_feeds) - [A self-hosted dashboard that puts all your feeds in one place](https://github.com/glanceapp/glance)
+* [2024-05-09, 08:39:36](https://lobste.rs/s/qyaupk/utc_tai_unix_time) - [UTC, TAI, and UNIX time](https://cr.yp.to/proto/utctai.html)
 * [2024-05-09, 06:51:57](https://lobste.rs/s/dirfsd/objective_c_implementations_swift) - [Objective-C implementations in Swift](https://github.com/apple/swift-evolution/blob/main/proposals/0436-objc-implementation.md)
 * [2024-05-09, 06:04:32](https://lobste.rs/s/udsfr1/memory_errors_consumer_devices) - [Memory errors in consumer devices](https://fosstodon.org/@gabrielesvelto/112407741329145666)
 * [2024-05-09, 05:03:25](https://lobste.rs/s/xe13pm/automerge_2_2_rich_text) - [Automerge 2.2: Rich Text](https://automerge.org/blog/2024/04/06/richtext/)
@@ -24,7 +25,6 @@
 * [2024-05-08, 20:29:09](https://lobste.rs/s/kmhr2m/phoenix_liveview_1_0_rc_is_here) - [Phoenix LiveView 1.0-rc is here](https://phoenixframework.org/blog/phoenix-liveview-1.0-released)
 * [2024-05-08, 13:53:24](https://lobste.rs/s/imyxxn/modern_sqlite_generated_columns) - [Modern SQLite: Generated columns](https://antonz.org/sqlite-generated-columns/)
 * [2024-05-08, 12:54:26](https://lobste.rs/s/4b528k/inclusive_sans_text_font_designed_for) - [Inclusive Sans, a text font designed for accessibility and readability](https://www.oliviaking.com/inclusive-sans)
-* [2024-05-08, 01:29:57](https://lobste.rs/s/u9kgo4/did_github_copilot_really_increase_my) - [Did GitHub Copilot really increase my productivity?](https://trace.yshui.dev/2024-05-copilot.html)
 
 ## [Archives](archives/index.md)
 

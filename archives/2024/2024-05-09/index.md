@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 21:20:38](https://lobste.rs/s/9x1bbx/symbolica) - [Symbolica](https://symbolica.io/)
 * [2024-05-09, 20:12:33](https://lobste.rs/s/juevm7/air_gapped_nextcloud_for_highly) - [Air-gapped Nextcloud for highly confidential data](https://nextcloud.com/blog/event/air-gapped-nextcloud-confidential-data/)
 * [2024-05-09, 19:59:36](https://lobste.rs/s/wkeulu/adobe_photoshop_source_code) - [Adobe Photoshop Source Code](https://computerhistory.org/blog/adobe-photoshop-source-code/)
 * [2024-05-09, 19:09:35](https://lobste.rs/s/ox19zo/ppstep_interactive_c_c_preprocessor) - [ppstep: Interactive C/C++ preprocessor macro debugger](https://github.com/notfoundry/ppstep)
