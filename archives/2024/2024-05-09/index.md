@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 17:53:34](https://lobste.rs/s/kocje7/it_s_always_tcp_nodelay_every_damn_time) - [It's always TCP_NODELAY. Every damn time](https://brooker.co.za/blog/2024/05/09/nagle.html)
 * [2024-05-09, 16:05:06](https://lobste.rs/s/pagcog/what_are_effective_ways_sift_through_new) - [What are effective ways to sift through new research?](https://jamesg.blog/2024/05/09/new-research/)
 * [2024-05-09, 16:00:14](https://lobste.rs/s/qi9pwf/you_need_more_constraints) - [You Need More Constraints](https://borretti.me/article/you-need-more-constraints)
 * [2024-05-09, 15:59:56](https://lobste.rs/s/x6kh3a/dafny_power_user_type_parameter_modes) - [Dafny Power User: Type-parameter modes: variance and cardinality preservation](https://leino.science/papers/krml280.html)

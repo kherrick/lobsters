@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-09, 17:53:34](https://lobste.rs/s/kocje7/it_s_always_tcp_nodelay_every_damn_time) - [It's always TCP_NODELAY. Every damn time](https://brooker.co.za/blog/2024/05/09/nagle.html)
 * [2024-05-09, 16:05:06](https://lobste.rs/s/pagcog/what_are_effective_ways_sift_through_new) - [What are effective ways to sift through new research?](https://jamesg.blog/2024/05/09/new-research/)
 * [2024-05-09, 16:00:14](https://lobste.rs/s/qi9pwf/you_need_more_constraints) - [You Need More Constraints](https://borretti.me/article/you-need-more-constraints)
 * [2024-05-09, 15:59:56](https://lobste.rs/s/x6kh3a/dafny_power_user_type_parameter_modes) - [Dafny Power User: Type-parameter modes: variance and cardinality preservation](https://leino.science/papers/krml280.html)
@@ -22,7 +23,6 @@
 * [2024-05-08, 20:29:09](https://lobste.rs/s/kmhr2m/phoenix_liveview_1_0_rc_is_here) - [Phoenix LiveView 1.0-rc is here](https://phoenixframework.org/blog/phoenix-liveview-1.0-released)
 * [2024-05-08, 13:53:24](https://lobste.rs/s/imyxxn/modern_sqlite_generated_columns) - [Modern SQLite: Generated columns](https://antonz.org/sqlite-generated-columns/)
 * [2024-05-08, 12:54:26](https://lobste.rs/s/4b528k/inclusive_sans_text_font_designed_for) - [Inclusive Sans, a text font designed for accessibility and readability](https://www.oliviaking.com/inclusive-sans)
-* [2024-05-08, 09:38:31](https://lobste.rs/s/dl32ue/systemd_heads_for_big_round_number) - [Systemd heads for a big round-number release](https://lwn.net/SubscriberLink/971866/f244aee59d4d6a66/)
 * [2024-05-08, 08:31:15](https://lobste.rs/s/k9t6dc/june_language_search_for_easier_safe) - [The June Language: The search for easier safe systems programming](https://www.sophiajt.com/search-for-easier-safe-systems-programming/)
 * [2024-05-08, 01:29:57](https://lobste.rs/s/u9kgo4/did_github_copilot_really_increase_my) - [Did GitHub Copilot really increase my productivity?](https://trace.yshui.dev/2024-05-copilot.html)
 
