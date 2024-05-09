@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-09, 14:19:48](https://lobste.rs/s/k21hsb/microsoft_playready_complete_client) - [Microsoft PlayReady - complete client identity compromise](https://seclists.org/fulldisclosure/2024/May/5)
 * [2024-05-09, 13:41:15](https://lobste.rs/s/2sqb8h/writing_sdk_zig_part_1) - [Writing an SDK in Zig, Part 1](https://arne.me/blog/writing-an-sdk-in-zig-part-1)
 * [2024-05-09, 13:37:20](https://lobste.rs/s/z5a4k0/securing_git_repositories_with_gittuf) - [Securing Git repositories with gittuf](https://lwn.net/SubscriberLink/972467/595a68b99f57a87d/)
 * [2024-05-09, 13:26:48](https://lobste.rs/s/hm4ili/rustls_gains_openssl_nginx) - [Rustls Gains OpenSSL and Nginx Compatibility](https://www.memorysafety.org/blog/rustls-nginx-compatibility-layer/)
-* [2024-05-09, 13:15:38](https://lobste.rs/s/ytplzu/bitsquatting_dns_hijacking_without) - [Bitsquatting – DNS Hijacking without Exploitation (2011)](https://media.blackhat.com/bh-us-11/Dinaburg/BH_US_11_Dinaburg_Bitsquatting_WP.pdf)
 * [2024-05-09, 12:55:24](https://lobste.rs/s/jw0hob/datatype99_algebraic_data_types_for_c99) - [datatype99: Algebraic data types for C99](https://github.com/Hirrolot/datatype99)
 * [2024-05-09, 09:58:51](https://lobste.rs/s/fedhvm/await_event_horizon_javascript) - [The await event horizon in JavaScript](https://frontside.com/blog/2023-12-11-await-event-horizon/)
 * [2024-05-09, 08:54:41](https://lobste.rs/s/zmefnd/self_hosted_dashboard_puts_all_your_feeds) - [A self-hosted dashboard that puts all your feeds in one place](https://github.com/glanceapp/glance)
