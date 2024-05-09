@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-09, 01:15:06](https://lobste.rs/s/icwz02/development_notes_from_xkcd_s_machine) - [Development notes from xkcd's \"Machine\"](https://chromakode.com/post/xkcd-machine/)
 * [2024-05-08, 23:20:34](https://lobste.rs/s/c3hbh6/it_s_not_about_flakes_vs_channels) - [It's not about “Flakes vs. Channels”](https://samuel.dionne-riel.com/blog/2024/05/07/its-not-flakes-vs-channels.html)
 * [2024-05-08, 21:37:55](https://lobste.rs/s/mapuu9/test_failures_should_be_actionable) - [Test Failures Should Be Actionable](https://testing.googleblog.com/2024/05/test-failures-should-be-actionable.html)
 * [2024-05-08, 20:45:31](https://lobste.rs/s/2hnvhh/rust_through_ages) - [Rust through the ages](https://www.ncameron.org/blog/rust-through-the-ages/)
-* [2024-05-08, 20:29:55](https://lobste.rs/s/zbe3xy/problems_with_test_levels_2022) - [The problems with test levels (2022)](https://mirekdlugosz.com/blog/2022/the-problems-with-test-levels/)
 * [2024-05-08, 20:29:09](https://lobste.rs/s/kmhr2m/phoenix_liveview_1_0_rc_is_here) - [Phoenix LiveView 1.0-rc is here](https://phoenixframework.org/blog/phoenix-liveview-1.0-released)
 * [2024-05-08, 18:21:11](https://lobste.rs/s/xd1vkf/undue_base_url_influence) - [Undue base URL influence](https://annevankesteren.nl/2024/05/undue-base-url-influence)
 * [2024-05-08, 17:15:14](https://lobste.rs/s/xzoxvt/log_scales) - [Log scales](https://briefer.cloud/blog/posts/logarithms/)
