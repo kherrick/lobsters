@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-09, 08:54:41",
+      "https://lobste.rs/s/zmefnd/self_hosted_dashboard_puts_all_your_feeds"
+    ],
+    [
+      "A self-hosted dashboard that puts all your feeds in one place",
+      "https://github.com/glanceapp/glance"
+    ]
+  ],
+  [
+    [
       "2024-05-09, 08:39:36",
       "https://lobste.rs/s/qyaupk/utc_tai_unix_time"
     ],
@@ -197,16 +207,6 @@
     [
       "The June Language: The search for easier safe systems programming",
       "https://www.sophiajt.com/search-for-easier-safe-systems-programming/"
-    ]
-  ],
-  [
-    [
-      "2024-05-08, 07:12:28",
-      "https://lobste.rs/s/mzk8eb/rfc_9562_universally_unique_identifiers"
-    ],
-    [
-      "RFC 9562: Universally Unique IDentifiers (UUIDs)",
-      "https://www.rfc-editor.org/rfc/rfc9562.html"
     ]
   ],
   [
