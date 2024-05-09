@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-09, 02:49:05](https://lobste.rs/s/j4fpmd/all_error_messages_are_necessarily_bad) - [All error messages are necessarily bad to some degree](https://www.haskellforall.com/2024/05/all-error-messages-are-necessarily-bad.html)
 * [2024-05-09, 01:15:06](https://lobste.rs/s/icwz02/development_notes_from_xkcd_s_machine) - [Development notes from xkcd's \"Machine\"](https://chromakode.com/post/xkcd-machine/)
 * [2024-05-08, 23:20:34](https://lobste.rs/s/c3hbh6/it_s_not_about_flakes_vs_channels) - [It's not about “Flakes vs. Channels”](https://samuel.dionne-riel.com/blog/2024/05/07/its-not-flakes-vs-channels.html)
 * [2024-05-08, 21:37:55](https://lobste.rs/s/mapuu9/test_failures_should_be_actionable) - [Test Failures Should Be Actionable](https://testing.googleblog.com/2024/05/test-failures-should-be-actionable.html)
@@ -24,7 +25,6 @@
 * [2024-05-08, 02:28:08](https://lobste.rs/s/ouybxe/programming_mantras_are_proverbs) - [Programming mantras are proverbs](https://lukeplant.me.uk/blog/posts/programming-mantras-are-proverbs/)
 * [2024-05-08, 01:29:57](https://lobste.rs/s/u9kgo4/did_github_copilot_really_increase_my) - [Did GitHub Copilot really increase my productivity?](https://trace.yshui.dev/2024-05-copilot.html)
 * [2024-05-07, 15:30:46](https://lobste.rs/s/lj5st0/zed_decoded_linux_when) - [Zed Decoded: Linux when?](https://zed.dev/blog/zed-decoded-linux-when)
-* [2024-05-07, 13:46:02](https://lobste.rs/s/jxxgoy/apple_event_for_may_7th_2024) - [Apple Event for May 7th, 2024](https://www.apple.com/apple-events/)
 
 ## [Archives](archives/index.md)
 
