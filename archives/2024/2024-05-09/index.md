@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 15:10:22](https://lobste.rs/s/8lnwrj/bash_tls_minimal_tls_1_2_client) - [bash_tls: A minimal TLS 1.2 client implementation in a pure Bash script](https://github.com/gh2o/bash_tls/)
 * [2024-05-09, 14:19:48](https://lobste.rs/s/k21hsb/microsoft_playready_complete_client) - [Microsoft PlayReady - complete client identity compromise](https://seclists.org/fulldisclosure/2024/May/5)
 * [2024-05-09, 13:41:15](https://lobste.rs/s/2sqb8h/writing_sdk_zig_part_1) - [Writing an SDK in Zig, Part 1](https://arne.me/blog/writing-an-sdk-in-zig-part-1)
 * [2024-05-09, 13:37:20](https://lobste.rs/s/z5a4k0/securing_git_repositories_with_gittuf) - [Securing Git repositories with gittuf](https://lwn.net/SubscriberLink/972467/595a68b99f57a87d/)
