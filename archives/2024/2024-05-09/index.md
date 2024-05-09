@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 15:24:44](https://lobste.rs/s/hyy9y7/on_hack_club) - [On Hack Club](https://place.reeseric.ci/writings/2024-05-05/)
 * [2024-05-09, 15:10:22](https://lobste.rs/s/8lnwrj/bash_tls_minimal_tls_1_2_client) - [bash_tls: A minimal TLS 1.2 client implementation in a pure Bash script](https://github.com/gh2o/bash_tls/)
 * [2024-05-09, 14:19:48](https://lobste.rs/s/k21hsb/microsoft_playready_complete_client) - [Microsoft PlayReady - complete client identity compromise](https://seclists.org/fulldisclosure/2024/May/5)
 * [2024-05-09, 13:41:15](https://lobste.rs/s/2sqb8h/writing_sdk_zig_part_1) - [Writing an SDK in Zig, Part 1](https://arne.me/blog/writing-an-sdk-in-zig-part-1)
