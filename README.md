@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-09, 22:55:20](https://lobste.rs/s/zs7v5e/c2pa_from_attacker_s_perspective) - [C2PA from the Attacker's Perspective](https://www.hackerfactor.com/blog/index.php?/archives/1031-C2PA-from-the-Attackers-Perspective.html)
+* [2024-05-09, 22:39:02](https://lobste.rs/s/6uqwvn/yes_ruby_is_fast) - [Yes, Ruby is fast, but…](https://dev.to/betaziliani/yes-ruby-is-fast-but-1l49)
 * [2024-05-09, 21:20:38](https://lobste.rs/s/9x1bbx/symbolica) - [Symbolica](https://symbolica.io/)
-* [2024-05-09, 20:12:33](https://lobste.rs/s/juevm7/air_gapped_nextcloud_for_highly) - [Air-gapped Nextcloud for highly confidential data](https://nextcloud.com/blog/event/air-gapped-nextcloud-confidential-data/)
 * [2024-05-09, 19:59:36](https://lobste.rs/s/wkeulu/adobe_photoshop_source_code_2013) - [Adobe Photoshop Source Code (2013)](https://computerhistory.org/blog/adobe-photoshop-source-code/)
 * [2024-05-09, 19:09:35](https://lobste.rs/s/ox19zo/ppstep_interactive_c_c_preprocessor) - [ppstep: Interactive C/C++ preprocessor macro debugger](https://github.com/notfoundry/ppstep)
 * [2024-05-09, 18:15:27](https://lobste.rs/s/gczmnq/slop_is_new_name_for_unwanted_ai_generated) - [Slop is the new name for unwanted AI-generated content](https://simonwillison.net/2024/May/8/slop/)
@@ -24,7 +25,6 @@
 * [2024-05-08, 23:20:34](https://lobste.rs/s/c3hbh6/it_s_not_about_flakes_vs_channels) - [It's not about “Flakes vs. Channels”](https://samuel.dionne-riel.com/blog/2024/05/07/its-not-flakes-vs-channels.html)
 * [2024-05-08, 20:29:09](https://lobste.rs/s/kmhr2m/phoenix_liveview_1_0_rc_is_here) - [Phoenix LiveView 1.0-rc is here](https://phoenixframework.org/blog/phoenix-liveview-1.0-released)
 * [2024-05-08, 13:53:24](https://lobste.rs/s/imyxxn/modern_sqlite_generated_columns) - [Modern SQLite: Generated columns](https://antonz.org/sqlite-generated-columns/)
-* [2024-05-08, 12:54:26](https://lobste.rs/s/4b528k/inclusive_sans_text_font_designed_for) - [Inclusive Sans, a text font designed for accessibility and readability](https://www.oliviaking.com/inclusive-sans)
 
 ## [Archives](archives/index.md)
 

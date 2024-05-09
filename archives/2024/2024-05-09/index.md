@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 22:55:20](https://lobste.rs/s/zs7v5e/c2pa_from_attacker_s_perspective) - [C2PA from the Attacker's Perspective](https://www.hackerfactor.com/blog/index.php?/archives/1031-C2PA-from-the-Attackers-Perspective.html)
+* [2024-05-09, 22:39:02](https://lobste.rs/s/6uqwvn/yes_ruby_is_fast) - [Yes, Ruby is fast, but…](https://dev.to/betaziliani/yes-ruby-is-fast-but-1l49)
 * [2024-05-09, 21:20:38](https://lobste.rs/s/9x1bbx/symbolica) - [Symbolica](https://symbolica.io/)
 * [2024-05-09, 20:12:33](https://lobste.rs/s/juevm7/air_gapped_nextcloud_for_highly) - [Air-gapped Nextcloud for highly confidential data](https://nextcloud.com/blog/event/air-gapped-nextcloud-confidential-data/)
 * [2024-05-09, 19:59:36](https://lobste.rs/s/wkeulu/adobe_photoshop_source_code_2013) - [Adobe Photoshop Source Code (2013)](https://computerhistory.org/blog/adobe-photoshop-source-code/)
