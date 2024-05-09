@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-09, 21:20:38",
+      "https://lobste.rs/s/9x1bbx/symbolica"
+    ],
+    [
+      "Symbolica",
+      "https://symbolica.io/"
+    ]
+  ],
+  [
+    [
       "2024-05-09, 20:12:33",
       "https://lobste.rs/s/juevm7/air_gapped_nextcloud_for_highly"
     ],
@@ -37,16 +47,6 @@
     [
       "Slop is the new name for unwanted AI-generated content",
       "https://simonwillison.net/2024/May/8/slop/"
-    ]
-  ],
-  [
-    [
-      "2024-05-09, 18:02:20",
-      "https://lobste.rs/s/kfwcxs/distributed_system_daemons_with"
-    ],
-    [
-      "Distributed system daemons with Shepherd and Goblins funded by NLnet",
-      "https://spritely.institute/news/spritely-nlnet-grants-december-2023.html"
     ]
   ],
   [
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2024-05-09, 08:39:36",
+      "https://lobste.rs/s/qyaupk/utc_tai_unix_time"
+    ],
+    [
+      "UTC, TAI, and UNIX time",
+      "https://cr.yp.to/proto/utctai.html"
+    ]
+  ],
+  [
+    [
       "2024-05-09, 06:51:57",
       "https://lobste.rs/s/dirfsd/objective_c_implementations_swift"
     ],
@@ -237,16 +247,6 @@
     [
       "Inclusive Sans, a text font designed for accessibility and readability",
       "https://www.oliviaking.com/inclusive-sans"
-    ]
-  ],
-  [
-    [
-      "2024-05-08, 01:29:57",
-      "https://lobste.rs/s/u9kgo4/did_github_copilot_really_increase_my"
-    ],
-    [
-      "Did GitHub Copilot really increase my productivity?",
-      "https://trace.yshui.dev/2024-05-copilot.html"
     ]
   ]
 ]
