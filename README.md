@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-05-09, 23:54:51](https://lobste.rs/s/bax8sz/mind_shift_answering_common_questions) - [Mind the Shift: Answering Common Questions About OpenTofu](https://devops.com/mind-the-shift-answering-common-questions-about-opentofu/ )
+* [2024-05-10, 01:34:07](https://lobste.rs/s/kknnxs/muse_book_laptop_features_spacemit_k1) - [Muse Book laptop features SpacemiT K1 octa-core RISC-V AI processor, up to 16GB RAM](https://www.cnx-software.com/2024/04/30/muse-book-laptop-spacemit-k1-octa-core-risc-v-ai-processor-16gb-ram/)
+* [2024-05-10, 01:33:33](https://lobste.rs/s/y4oq9s/noise_protocol_framework) - [The Noise Protocol Framework](https://media.ccc.de/v/34c3-9222-the_noise_protocol_framework)
 * [2024-05-09, 22:39:02](https://lobste.rs/s/6uqwvn/yes_ruby_is_fast) - [Yes, Ruby is fast, but…](https://dev.to/betaziliani/yes-ruby-is-fast-but-1l49)
 * [2024-05-09, 21:20:38](https://lobste.rs/s/9x1bbx/symbolica) - [Symbolica](https://symbolica.io/)
 * [2024-05-09, 19:59:36](https://lobste.rs/s/wkeulu/adobe_photoshop_source_code_2013) - [Adobe Photoshop Source Code (2013)](https://computerhistory.org/blog/adobe-photoshop-source-code/)
@@ -17,7 +18,6 @@
 * [2024-05-09, 12:55:24](https://lobste.rs/s/jw0hob/datatype99_algebraic_data_types_for_c99) - [datatype99: Algebraic data types for C99](https://github.com/Hirrolot/datatype99)
 * [2024-05-09, 09:58:51](https://lobste.rs/s/fedhvm/await_event_horizon_javascript) - [The await event horizon in JavaScript](https://frontside.com/blog/2023-12-11-await-event-horizon/)
 * [2024-05-09, 08:54:41](https://lobste.rs/s/zmefnd/self_hosted_dashboard_puts_all_your_feeds) - [A self-hosted dashboard that puts all your feeds in one place](https://github.com/glanceapp/glance)
-* [2024-05-09, 08:39:36](https://lobste.rs/s/qyaupk/utc_tai_unix_time) - [UTC, TAI, and UNIX time](https://cr.yp.to/proto/utctai.html)
 * [2024-05-09, 06:04:32](https://lobste.rs/s/udsfr1/memory_errors_consumer_devices) - [Memory errors in consumer devices](https://fosstodon.org/@gabrielesvelto/112407741329145666)
 * [2024-05-09, 05:03:25](https://lobste.rs/s/xe13pm/automerge_2_2_rich_text) - [Automerge 2.2: Rich Text](https://automerge.org/blog/2024/04/06/richtext/)
 * [2024-05-09, 02:49:05](https://lobste.rs/s/j4fpmd/all_error_messages_are_necessarily_bad) - [All error messages are necessarily bad to some degree](https://www.haskellforall.com/2024/05/all-error-messages-are-necessarily-bad.html)
