@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-05-09, 22:55:20](https://lobste.rs/s/zs7v5e/c2pa_from_attacker_s_perspective) - [C2PA from the Attacker's Perspective](https://www.hackerfactor.com/blog/index.php?/archives/1031-C2PA-from-the-Attackers-Perspective.html)
+* [2024-05-09, 23:54:51](https://lobste.rs/s/bax8sz/mind_shift_answering_common_questions) - [Mind the Shift: Answering Common Questions About OpenTofu](https://devops.com/mind-the-shift-answering-common-questions-about-opentofu/ )
 * [2024-05-09, 22:39:02](https://lobste.rs/s/6uqwvn/yes_ruby_is_fast) - [Yes, Ruby is fast, but…](https://dev.to/betaziliani/yes-ruby-is-fast-but-1l49)
 * [2024-05-09, 21:20:38](https://lobste.rs/s/9x1bbx/symbolica) - [Symbolica](https://symbolica.io/)
 * [2024-05-09, 19:59:36](https://lobste.rs/s/wkeulu/adobe_photoshop_source_code_2013) - [Adobe Photoshop Source Code (2013)](https://computerhistory.org/blog/adobe-photoshop-source-code/)
