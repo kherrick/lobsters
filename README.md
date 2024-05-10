@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-10, 17:04:00](https://lobste.rs/s/r1bxbu/methods_should_be_object_safe) - [Methods Should Be Object Safe](https://nora.codes/post/methods-should-be-object-safe/)
 * [2024-05-10, 15:36:28](https://lobste.rs/s/9ijkgu/nix_on_windows) - [Nix on Windows](https://lastlog.de/blog/libnix_volth%27s_work.html)
 * [2024-05-10, 14:14:19](https://lobste.rs/s/ab95wc/setting_up_doom_emacs_for_astro) - [Setting up Doom Emacs for Astro Development](https://edmundmiller.dev/posts/emacs-astro/)
 * [2024-05-10, 13:05:24](https://lobste.rs/s/inhqqh/kibibytes_are_silly_we_should_all_use_them) - [Kibibytes are silly and we should all use them](https://esham.io/2017/09/kibibytes)
@@ -23,7 +24,6 @@
 * [2024-05-09, 16:00:14](https://lobste.rs/s/qi9pwf/you_need_more_constraints) - [You Need More Constraints](https://borretti.me/article/you-need-more-constraints)
 * [2024-05-09, 15:10:22](https://lobste.rs/s/8lnwrj/bash_tls_minimal_tls_1_2_client) - [bash_tls: A minimal TLS 1.2 client implementation in a pure Bash script](https://github.com/gh2o/bash_tls/)
 * [2024-05-09, 13:26:48](https://lobste.rs/s/hm4ili/rustls_gains_openssl_nginx) - [Rustls Gains OpenSSL and Nginx Compatibility](https://www.memorysafety.org/blog/rustls-nginx-compatibility-layer/)
-* [2024-05-09, 08:54:41](https://lobste.rs/s/zmefnd/self_hosted_dashboard_puts_all_your_feeds) - [A self-hosted dashboard that puts all your feeds in one place](https://github.com/glanceapp/glance)
 * [2024-05-09, 02:49:05](https://lobste.rs/s/j4fpmd/all_error_messages_are_necessarily_bad) - [All error messages are necessarily bad to some degree](https://www.haskellforall.com/2024/05/all-error-messages-are-necessarily-bad.html)
 
 ## [Archives](archives/index.md)

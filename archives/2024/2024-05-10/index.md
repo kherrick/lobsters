@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-10](index.md)
 
+* [2024-05-10, 17:04:00](https://lobste.rs/s/r1bxbu/methods_should_be_object_safe) - [Methods Should Be Object Safe](https://nora.codes/post/methods-should-be-object-safe/)
 * [2024-05-10, 15:36:28](https://lobste.rs/s/9ijkgu/nix_on_windows) - [Nix on Windows](https://lastlog.de/blog/libnix_volth%27s_work.html)
 * [2024-05-10, 14:14:19](https://lobste.rs/s/ab95wc/setting_up_doom_emacs_for_astro) - [Setting up Doom Emacs for Astro Development](https://edmundmiller.dev/posts/emacs-astro/)
 * [2024-05-10, 13:05:24](https://lobste.rs/s/inhqqh/kibibytes_are_silly_we_should_all_use_them) - [Kibibytes are silly and we should all use them](https://esham.io/2017/09/kibibytes)
