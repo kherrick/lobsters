@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-05-10, 05:11:56](https://lobste.rs/s/j3vud3/so_we_ve_got_memory_leak) - [So We've Got a Memory Leak…](https://stevenharman.net/so-we-have-a-memory-leak)
+* [2024-05-10, 06:42:05](https://lobste.rs/s/v16jze/most_backdoor_looking_bug_i_ve_ever_seen) - [The Most Backdoor-Looking Bug I’ve Ever Seen (2021)](https://words.filippo.io/dispatches/telegram-ecdh/)
+* [2024-05-10, 03:34:33](https://lobste.rs/s/z5n5hc/computing_sustainability) - [Computing and Sustainability](https://100r.co/site/computing_and_sustainability.html)
 * [2024-05-10, 02:34:01](https://lobste.rs/s/14jjju/exploring_hacker_news_by_mapping) - [Exploring Hacker News by mapping and analyzing 40 million posts and comments for fun](https://blog.wilsonl.in/hackerverse/)
 * [2024-05-10, 02:32:57](https://lobste.rs/s/ffkhky/introducing_recon_cli_tool_gather) - [Introducing recon - a CLI tool to gather context for LLMs](https://joshuaclanton.dev/blog/2024-05-09-introducing-recon/)
 * [2024-05-10, 02:22:02](https://lobste.rs/s/9tvwdz/linking_zig_pokemon_decomps) - [Linking Zig to Pokemon Decomps](https://jadon.io/blog/zig-pokemon-gba/)
@@ -24,7 +25,6 @@
 * [2024-05-09, 05:03:25](https://lobste.rs/s/xe13pm/automerge_2_2_rich_text) - [Automerge 2.2: Rich Text](https://automerge.org/blog/2024/04/06/richtext/)
 * [2024-05-09, 02:49:05](https://lobste.rs/s/j4fpmd/all_error_messages_are_necessarily_bad) - [All error messages are necessarily bad to some degree](https://www.haskellforall.com/2024/05/all-error-messages-are-necessarily-bad.html)
 * [2024-05-09, 01:15:06](https://lobste.rs/s/icwz02/development_notes_from_xkcd_s_machine) - [Development notes from xkcd's \"Machine\"](https://chromakode.com/post/xkcd-machine/)
-* [2024-05-08, 23:20:34](https://lobste.rs/s/c3hbh6/it_s_not_about_flakes_vs_channels) - [It's not about “Flakes vs. Channels”](https://samuel.dionne-riel.com/blog/2024/05/07/its-not-flakes-vs-channels.html)
 
 ## [Archives](archives/index.md)
 
