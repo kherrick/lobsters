@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-10, 08:01:39](https://lobste.rs/s/rchiux/how_install_python_on_mac) - [How to Install Python on a Mac](https://www.freecodecamp.org/news/how-to-install-python-on-a-mac/)
 * [2024-05-10, 06:42:05](https://lobste.rs/s/v16jze/most_backdoor_looking_bug_i_ve_ever_seen) - [The Most Backdoor-Looking Bug I’ve Ever Seen (2021)](https://words.filippo.io/dispatches/telegram-ecdh/)
 * [2024-05-10, 03:34:33](https://lobste.rs/s/z5n5hc/computing_sustainability) - [Computing and Sustainability](https://100r.co/site/computing_and_sustainability.html)
 * [2024-05-10, 02:34:01](https://lobste.rs/s/14jjju/exploring_hacker_news_by_mapping) - [Exploring Hacker News by mapping and analyzing 40 million posts and comments for fun](https://blog.wilsonl.in/hackerverse/)
@@ -16,7 +17,6 @@
 * [2024-05-09, 16:05:06](https://lobste.rs/s/pagcog/what_are_effective_ways_sift_through_new) - [What are effective ways to sift through new research?](https://jamesg.blog/2024/05/09/new-research/)
 * [2024-05-09, 16:00:14](https://lobste.rs/s/qi9pwf/you_need_more_constraints) - [You Need More Constraints](https://borretti.me/article/you-need-more-constraints)
 * [2024-05-09, 15:10:22](https://lobste.rs/s/8lnwrj/bash_tls_minimal_tls_1_2_client) - [bash_tls: A minimal TLS 1.2 client implementation in a pure Bash script](https://github.com/gh2o/bash_tls/)
-* [2024-05-09, 13:41:15](https://lobste.rs/s/2sqb8h/writing_sdk_zig_part_1) - [Writing an SDK in Zig, Part 1](https://arne.me/blog/writing-an-sdk-in-zig-part-1)
 * [2024-05-09, 13:26:48](https://lobste.rs/s/hm4ili/rustls_gains_openssl_nginx) - [Rustls Gains OpenSSL and Nginx Compatibility](https://www.memorysafety.org/blog/rustls-nginx-compatibility-layer/)
 * [2024-05-09, 12:55:24](https://lobste.rs/s/jw0hob/datatype99_algebraic_data_types_for_c99) - [datatype99: Algebraic data types for C99](https://github.com/Hirrolot/datatype99)
 * [2024-05-09, 09:58:51](https://lobste.rs/s/fedhvm/await_event_horizon_javascript) - [The await event horizon in JavaScript](https://frontside.com/blog/2023-12-11-await-event-horizon/)

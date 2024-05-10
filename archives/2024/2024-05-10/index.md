@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-10](index.md)
 
+* [2024-05-10, 08:01:39](https://lobste.rs/s/rchiux/how_install_python_on_mac) - [How to Install Python on a Mac](https://www.freecodecamp.org/news/how-to-install-python-on-a-mac/)
 * [2024-05-10, 06:42:05](https://lobste.rs/s/v16jze/most_backdoor_looking_bug_i_ve_ever_seen) - [The Most Backdoor-Looking Bug I’ve Ever Seen (2021)](https://words.filippo.io/dispatches/telegram-ecdh/)
 * [2024-05-10, 05:11:56](https://lobste.rs/s/j3vud3/so_we_ve_got_memory_leak) - [So We've Got a Memory Leak…](https://stevenharman.net/so-we-have-a-memory-leak)
 * [2024-05-10, 03:34:33](https://lobste.rs/s/z5n5hc/computing_sustainability) - [Computing and Sustainability](https://100r.co/site/computing_and_sustainability.html)
