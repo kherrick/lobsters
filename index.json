@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-10, 12:48:18",
+      "https://lobste.rs/s/wxttc9/memgpt_create_llm_agents_with_long_term"
+    ],
+    [
+      "MemGPT: Create LLM agents with long-term memory and custom tools",
+      "https://github.com/cpacker/memgpt"
+    ]
+  ],
+  [
+    [
       "2024-05-10, 11:40:10",
       "https://lobste.rs/s/eurmhi/sk_logic_egglog"
     ],
@@ -207,16 +217,6 @@
     [
       "Rustls Gains OpenSSL and Nginx Compatibility",
       "https://www.memorysafety.org/blog/rustls-nginx-compatibility-layer/"
-    ]
-  ],
-  [
-    [
-      "2024-05-09, 09:58:51",
-      "https://lobste.rs/s/fedhvm/await_event_horizon_javascript"
-    ],
-    [
-      "The await event horizon in JavaScript",
-      "https://frontside.com/blog/2023-12-11-await-event-horizon/"
     ]
   ],
   [
