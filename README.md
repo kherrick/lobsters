@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-10, 18:40:09](https://lobste.rs/s/3d8lxw/informal_comparison_three_major) - [An informal comparison of the three major implementations of std::string](https://devblogs.microsoft.com/oldnewthing/20240510-00/?p=109742)
 * [2024-05-10, 17:54:29](https://lobste.rs/s/2y8qfi/using_python_projects_with_pixi) - [Using Python Projects With Pixi](https://prefix.dev/blog/using_python_projects_with_pixi)
 * [2024-05-10, 17:04:00](https://lobste.rs/s/r1bxbu/methods_should_be_object_safe) - [Methods Should Be Object Safe](https://nora.codes/post/methods-should-be-object-safe/)
 * [2024-05-10, 15:36:28](https://lobste.rs/s/9ijkgu/nix_on_windows) - [Nix on Windows](https://lastlog.de/blog/libnix_volth%27s_work.html)
@@ -21,7 +22,6 @@
 * [2024-05-09, 18:15:27](https://lobste.rs/s/gczmnq/slop_is_new_name_for_unwanted_ai_generated) - [Slop is the new name for unwanted AI-generated content](https://simonwillison.net/2024/May/8/slop/)
 * [2024-05-09, 17:53:34](https://lobste.rs/s/kocje7/it_s_always_tcp_nodelay_every_damn_time) - [It's always TCP_NODELAY. Every damn time](https://brooker.co.za/blog/2024/05/09/nagle.html)
 * [2024-05-09, 16:05:06](https://lobste.rs/s/pagcog/what_are_effective_ways_sift_through_new) - [What are effective ways to sift through new research?](https://jamesg.blog/2024/05/09/new-research/)
-* [2024-05-09, 16:00:14](https://lobste.rs/s/qi9pwf/you_need_more_constraints) - [You Need More Constraints](https://borretti.me/article/you-need-more-constraints)
 * [2024-05-09, 15:10:22](https://lobste.rs/s/8lnwrj/bash_tls_minimal_tls_1_2_client) - [bash_tls: A minimal TLS 1.2 client implementation in a pure Bash script](https://github.com/gh2o/bash_tls/)
 * [2024-05-09, 13:26:48](https://lobste.rs/s/hm4ili/rustls_gains_openssl_nginx) - [Rustls Gains OpenSSL and Nginx Compatibility](https://www.memorysafety.org/blog/rustls-nginx-compatibility-layer/)
 * [2024-05-09, 02:49:05](https://lobste.rs/s/j4fpmd/all_error_messages_are_necessarily_bad) - [All error messages are necessarily bad to some degree](https://www.haskellforall.com/2024/05/all-error-messages-are-necessarily-bad.html)
