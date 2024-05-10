@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-10, 14:14:19](https://lobste.rs/s/ab95wc/setting_up_doom_emacs_for_astro) - [Setting up Doom Emacs for Astro Development](https://edmundmiller.dev/posts/emacs-astro/)
 * [2024-05-10, 13:05:24](https://lobste.rs/s/inhqqh/kibibytes_are_silly_we_should_all_use_them) - [Kibibytes are silly and we should all use them](https://esham.io/2017/09/kibibytes)
 * [2024-05-10, 12:48:18](https://lobste.rs/s/wxttc9/memgpt_create_llm_agents_with_long_term) - [MemGPT: Create LLM agents with long-term memory and custom tools](https://github.com/cpacker/memgpt)
 * [2024-05-10, 12:31:03](https://lobste.rs/s/tfqsgi/openbsd_desktop) - [OpenBSD Desktop](https://x61.ar/log/2024/05/06052024135732-openbsd_desktop.html)
@@ -10,7 +11,6 @@
 * [2024-05-10, 06:42:05](https://lobste.rs/s/v16jze/most_backdoor_looking_bug_i_ve_ever_seen) - [The Most Backdoor-Looking Bug I’ve Ever Seen (2021)](https://words.filippo.io/dispatches/telegram-ecdh/)
 * [2024-05-10, 03:34:33](https://lobste.rs/s/z5n5hc/computing_sustainability) - [Computing and Sustainability](https://100r.co/site/computing_and_sustainability.html)
 * [2024-05-10, 02:34:01](https://lobste.rs/s/14jjju/exploring_hacker_news_by_mapping) - [Exploring Hacker News by mapping and analyzing 40 million posts and comments for fun](https://blog.wilsonl.in/hackerverse/)
-* [2024-05-10, 02:32:57](https://lobste.rs/s/ffkhky/introducing_recon_cli_tool_gather) - [Introducing recon - a CLI tool to gather context for LLMs](https://joshuaclanton.dev/blog/2024-05-09-introducing-recon/)
 * [2024-05-10, 02:22:02](https://lobste.rs/s/9tvwdz/linking_zig_pokemon_decomps) - [Linking Zig to Pokemon Decomps](https://jadon.io/blog/zig-pokemon-gba/)
 * [2024-05-10, 01:41:18](https://lobste.rs/s/nvtunc/10_years_on_what_would_you_change_about) - [10 years on, what would you change about Swift?](https://forums.swift.org/t/10-years-on-what-would-you-change-about-swift/71716)
 * [2024-05-10, 01:39:46](https://lobste.rs/s/baam94/yet_another_rest_client) - [Yet Another REST Client?](https://yaak.app/blog/yet-another-api-client/)
