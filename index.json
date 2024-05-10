@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-10, 10:18:50",
+      "https://lobste.rs/s/yalkax/are_redis_acl_password_protections_weak"
+    ],
+    [
+      "Are Redis ACL password protections weak?",
+      "https://blog.ovalerio.net/archives/2877"
+    ]
+  ],
+  [
+    [
       "2024-05-10, 08:01:39",
       "https://lobste.rs/s/rchiux/how_install_python_on_mac"
     ],
@@ -177,16 +187,6 @@
     [
       "Rustls Gains OpenSSL and Nginx Compatibility",
       "https://www.memorysafety.org/blog/rustls-nginx-compatibility-layer/"
-    ]
-  ],
-  [
-    [
-      "2024-05-09, 12:55:24",
-      "https://lobste.rs/s/jw0hob/datatype99_algebraic_data_types_for_c99"
-    ],
-    [
-      "datatype99: Algebraic data types for C99",
-      "https://github.com/Hirrolot/datatype99"
     ]
   ],
   [
