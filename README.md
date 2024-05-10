@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-10, 12:48:18](https://lobste.rs/s/wxttc9/memgpt_create_llm_agents_with_long_term) - [MemGPT: Create LLM agents with long-term memory and custom tools](https://github.com/cpacker/memgpt)
 * [2024-05-10, 11:40:10](https://lobste.rs/s/eurmhi/sk_logic_egglog) - [SK logic in egglog](http://www.chriswarbo.net/blog/2024-02-25-sk_logic_in_egglog_1.html)
 * [2024-05-10, 11:16:16](https://lobste.rs/s/odhs2g/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/odhs2g/what_are_you_doing_this_weekend)
 * [2024-05-10, 10:18:50](https://lobste.rs/s/yalkax/are_redis_acl_password_protections_weak) - [Are Redis ACL password protections weak?](https://blog.ovalerio.net/archives/2877)
@@ -21,7 +22,6 @@
 * [2024-05-09, 16:00:14](https://lobste.rs/s/qi9pwf/you_need_more_constraints) - [You Need More Constraints](https://borretti.me/article/you-need-more-constraints)
 * [2024-05-09, 15:10:22](https://lobste.rs/s/8lnwrj/bash_tls_minimal_tls_1_2_client) - [bash_tls: A minimal TLS 1.2 client implementation in a pure Bash script](https://github.com/gh2o/bash_tls/)
 * [2024-05-09, 13:26:48](https://lobste.rs/s/hm4ili/rustls_gains_openssl_nginx) - [Rustls Gains OpenSSL and Nginx Compatibility](https://www.memorysafety.org/blog/rustls-nginx-compatibility-layer/)
-* [2024-05-09, 09:58:51](https://lobste.rs/s/fedhvm/await_event_horizon_javascript) - [The await event horizon in JavaScript](https://frontside.com/blog/2023-12-11-await-event-horizon/)
 * [2024-05-09, 08:54:41](https://lobste.rs/s/zmefnd/self_hosted_dashboard_puts_all_your_feeds) - [A self-hosted dashboard that puts all your feeds in one place](https://github.com/glanceapp/glance)
 * [2024-05-09, 02:49:05](https://lobste.rs/s/j4fpmd/all_error_messages_are_necessarily_bad) - [All error messages are necessarily bad to some degree](https://www.haskellforall.com/2024/05/all-error-messages-are-necessarily-bad.html)
 * [2024-05-09, 01:15:06](https://lobste.rs/s/icwz02/development_notes_from_xkcd_s_machine) - [Development notes from xkcd's \"Machine\"](https://chromakode.com/post/xkcd-machine/)

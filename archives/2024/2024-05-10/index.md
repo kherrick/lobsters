@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-10](index.md)
 
+* [2024-05-10, 12:48:18](https://lobste.rs/s/wxttc9/memgpt_create_llm_agents_with_long_term) - [MemGPT: Create LLM agents with long-term memory and custom tools](https://github.com/cpacker/memgpt)
 * [2024-05-10, 11:53:13](https://lobste.rs/s/ofmv5n/sk_egglog_part_4_extensional_equality) - [SK in egglog: part 4, extensional equality](http://www.chriswarbo.net/blog/2024-05-10-sk_logic_in_egglog_4.html)
 * [2024-05-10, 11:40:10](https://lobste.rs/s/eurmhi/sk_logic_egglog) - [SK logic in egglog](http://www.chriswarbo.net/blog/2024-02-25-sk_logic_in_egglog_1.html)
 * [2024-05-10, 11:16:16](https://lobste.rs/s/odhs2g/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/odhs2g/what_are_you_doing_this_weekend)
