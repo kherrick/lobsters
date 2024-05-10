@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-10, 20:00:05](https://lobste.rs/s/xuhhsf/why_bother_with_scripting_2021) - [Why bother with Scripting? (2021)](http://brrt-to-the-future.blogspot.com/2021/03/why-bother-with-scripting.html)
 * [2024-05-10, 19:27:11](https://lobste.rs/s/2uetj3/joint_statement_from_unisuper_google) - [A joint statement from UniSuper and Google Cloud](https://www.unisuper.com.au/about-us/media-centre/2024/a-joint-statement-from-unisuper-and-google-cloud)
 * [2024-05-10, 18:51:34](https://lobste.rs/s/kyno9r/lessons_learned_reinventing_python) - [Lessons learned reinventing the Python notebook](https://marimo.io/blog/lessons-learned)
 * [2024-05-10, 18:40:09](https://lobste.rs/s/3d8lxw/informal_comparison_three_major) - [An informal comparison of the three major implementations of std::string](https://devblogs.microsoft.com/oldnewthing/20240510-00/?p=109742)
@@ -19,7 +20,6 @@
 * [2024-05-10, 01:41:18](https://lobste.rs/s/nvtunc/10_years_on_what_would_you_change_about) - [10 years on, what would you change about Swift?](https://forums.swift.org/t/10-years-on-what-would-you-change-about-swift/71716)
 * [2024-05-10, 01:39:46](https://lobste.rs/s/baam94/yet_another_rest_client) - [Yet Another REST Client?](https://yaak.app/blog/yet-another-api-client/)
 * [2024-05-09, 22:39:02](https://lobste.rs/s/6uqwvn/yes_ruby_is_fast) - [Yes, Ruby is fast, but…](https://dev.to/betaziliani/yes-ruby-is-fast-but-1l49)
-* [2024-05-09, 19:59:36](https://lobste.rs/s/wkeulu/adobe_photoshop_source_code_2013) - [Adobe Photoshop Source Code (2013)](https://computerhistory.org/blog/adobe-photoshop-source-code/)
 * [2024-05-09, 18:15:27](https://lobste.rs/s/gczmnq/slop_is_new_name_for_unwanted_ai_generated) - [Slop is the new name for unwanted AI-generated content](https://simonwillison.net/2024/May/8/slop/)
 * [2024-05-09, 17:53:34](https://lobste.rs/s/kocje7/it_s_always_tcp_nodelay_every_damn_time) - [It's always TCP_NODELAY. Every damn time](https://brooker.co.za/blog/2024/05/09/nagle.html)
 * [2024-05-09, 15:10:22](https://lobste.rs/s/8lnwrj/bash_tls_minimal_tls_1_2_client) - [bash_tls: A minimal TLS 1.2 client implementation in a pure Bash script](https://github.com/gh2o/bash_tls/)

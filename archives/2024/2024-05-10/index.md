@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-10](index.md)
 
+* [2024-05-10, 20:00:05](https://lobste.rs/s/xuhhsf/why_bother_with_scripting_2021) - [Why bother with Scripting? (2021)](http://brrt-to-the-future.blogspot.com/2021/03/why-bother-with-scripting.html)
 * [2024-05-10, 19:27:11](https://lobste.rs/s/2uetj3/joint_statement_from_unisuper_google) - [A joint statement from UniSuper and Google Cloud](https://www.unisuper.com.au/about-us/media-centre/2024/a-joint-statement-from-unisuper-and-google-cloud)
 * [2024-05-10, 18:51:34](https://lobste.rs/s/kyno9r/lessons_learned_reinventing_python) - [Lessons learned reinventing the Python notebook](https://marimo.io/blog/lessons-learned)
 * [2024-05-10, 18:40:09](https://lobste.rs/s/3d8lxw/informal_comparison_three_major) - [An informal comparison of the three major implementations of std::string](https://devblogs.microsoft.com/oldnewthing/20240510-00/?p=109742)
