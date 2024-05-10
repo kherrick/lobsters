@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-10](index.md)
 
+* [2024-05-10, 18:51:34](https://lobste.rs/s/kyno9r/lessons_learned_reinventing_python) - [Lessons learned reinventing the Python notebook](https://marimo.io/blog/lessons-learned)
 * [2024-05-10, 18:40:09](https://lobste.rs/s/3d8lxw/informal_comparison_three_major) - [An informal comparison of the three major implementations of std::string](https://devblogs.microsoft.com/oldnewthing/20240510-00/?p=109742)
 * [2024-05-10, 17:54:29](https://lobste.rs/s/2y8qfi/using_python_projects_with_pixi) - [Using Python Projects With Pixi](https://prefix.dev/blog/using_python_projects_with_pixi)
 * [2024-05-10, 17:04:00](https://lobste.rs/s/r1bxbu/methods_should_be_object_safe) - [Methods Should Be Object Safe](https://nora.codes/post/methods-should-be-object-safe/)
