@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-10, 13:05:24](https://lobste.rs/s/inhqqh/kibibytes_are_silly_we_should_all_use_them) - [Kibibytes are silly and we should all use them](https://esham.io/2017/09/kibibytes)
 * [2024-05-10, 12:48:18](https://lobste.rs/s/wxttc9/memgpt_create_llm_agents_with_long_term) - [MemGPT: Create LLM agents with long-term memory and custom tools](https://github.com/cpacker/memgpt)
+* [2024-05-10, 12:31:03](https://lobste.rs/s/tfqsgi/openbsd_desktop) - [OpenBSD Desktop](https://x61.ar/log/2024/05/06052024135732-openbsd_desktop.html)
 * [2024-05-10, 11:40:10](https://lobste.rs/s/eurmhi/sk_logic_egglog) - [SK logic in egglog](http://www.chriswarbo.net/blog/2024-02-25-sk_logic_in_egglog_1.html)
 * [2024-05-10, 11:16:16](https://lobste.rs/s/odhs2g/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/odhs2g/what_are_you_doing_this_weekend)
 * [2024-05-10, 10:18:50](https://lobste.rs/s/yalkax/are_redis_acl_password_protections_weak) - [Are Redis ACL password protections weak?](https://blog.ovalerio.net/archives/2877)
@@ -16,7 +18,6 @@
 * [2024-05-09, 21:20:38](https://lobste.rs/s/9x1bbx/symbolica) - [Symbolica](https://symbolica.io/)
 * [2024-05-09, 19:59:36](https://lobste.rs/s/wkeulu/adobe_photoshop_source_code_2013) - [Adobe Photoshop Source Code (2013)](https://computerhistory.org/blog/adobe-photoshop-source-code/)
 * [2024-05-09, 18:15:27](https://lobste.rs/s/gczmnq/slop_is_new_name_for_unwanted_ai_generated) - [Slop is the new name for unwanted AI-generated content](https://simonwillison.net/2024/May/8/slop/)
-* [2024-05-09, 18:02:20](https://lobste.rs/s/kfwcxs/distributed_system_daemons_with) - [Distributed system daemons with Shepherd and Goblins funded by NLnet](https://spritely.institute/news/spritely-nlnet-grants-december-2023.html)
 * [2024-05-09, 17:53:34](https://lobste.rs/s/kocje7/it_s_always_tcp_nodelay_every_damn_time) - [It's always TCP_NODELAY. Every damn time](https://brooker.co.za/blog/2024/05/09/nagle.html)
 * [2024-05-09, 16:05:06](https://lobste.rs/s/pagcog/what_are_effective_ways_sift_through_new) - [What are effective ways to sift through new research?](https://jamesg.blog/2024/05/09/new-research/)
 * [2024-05-09, 16:00:14](https://lobste.rs/s/qi9pwf/you_need_more_constraints) - [You Need More Constraints](https://borretti.me/article/you-need-more-constraints)
@@ -24,7 +25,6 @@
 * [2024-05-09, 13:26:48](https://lobste.rs/s/hm4ili/rustls_gains_openssl_nginx) - [Rustls Gains OpenSSL and Nginx Compatibility](https://www.memorysafety.org/blog/rustls-nginx-compatibility-layer/)
 * [2024-05-09, 08:54:41](https://lobste.rs/s/zmefnd/self_hosted_dashboard_puts_all_your_feeds) - [A self-hosted dashboard that puts all your feeds in one place](https://github.com/glanceapp/glance)
 * [2024-05-09, 02:49:05](https://lobste.rs/s/j4fpmd/all_error_messages_are_necessarily_bad) - [All error messages are necessarily bad to some degree](https://www.haskellforall.com/2024/05/all-error-messages-are-necessarily-bad.html)
-* [2024-05-09, 01:15:06](https://lobste.rs/s/icwz02/development_notes_from_xkcd_s_machine) - [Development notes from xkcd's \"Machine\"](https://chromakode.com/post/xkcd-machine/)
 
 ## [Archives](archives/index.md)
 
