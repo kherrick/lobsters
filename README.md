@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-10, 15:36:28](https://lobste.rs/s/9ijkgu/nix_on_windows) - [Nix on Windows](https://lastlog.de/blog/libnix_volth%27s_work.html)
 * [2024-05-10, 14:14:19](https://lobste.rs/s/ab95wc/setting_up_doom_emacs_for_astro) - [Setting up Doom Emacs for Astro Development](https://edmundmiller.dev/posts/emacs-astro/)
 * [2024-05-10, 13:05:24](https://lobste.rs/s/inhqqh/kibibytes_are_silly_we_should_all_use_them) - [Kibibytes are silly and we should all use them](https://esham.io/2017/09/kibibytes)
-* [2024-05-10, 12:48:18](https://lobste.rs/s/wxttc9/memgpt_create_llm_agents_with_long_term) - [MemGPT: Create LLM agents with long-term memory and custom tools](https://github.com/cpacker/memgpt)
 * [2024-05-10, 12:31:03](https://lobste.rs/s/tfqsgi/openbsd_desktop) - [OpenBSD Desktop](https://x61.ar/log/2024/05/06052024135732-openbsd_desktop.html)
 * [2024-05-10, 11:40:10](https://lobste.rs/s/eurmhi/sk_logic_egglog) - [SK logic in egglog](http://www.chriswarbo.net/blog/2024-02-25-sk_logic_in_egglog_1.html)
 * [2024-05-10, 11:16:16](https://lobste.rs/s/odhs2g/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/odhs2g/what_are_you_doing_this_weekend)
