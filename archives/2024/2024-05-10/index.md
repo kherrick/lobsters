@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-10](index.md)
 
+* [2024-05-10, 11:53:13](https://lobste.rs/s/ofmv5n/sk_egglog_part_4_extensional_equality) - [SK in egglog: part 4, extensional equality](http://www.chriswarbo.net/blog/2024-05-10-sk_logic_in_egglog_4.html)
 * [2024-05-10, 11:40:10](https://lobste.rs/s/eurmhi/sk_logic_egglog) - [SK logic in egglog](http://www.chriswarbo.net/blog/2024-02-25-sk_logic_in_egglog_1.html)
 * [2024-05-10, 11:16:16](https://lobste.rs/s/odhs2g/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/odhs2g/what_are_you_doing_this_weekend)
 * [2024-05-10, 10:18:50](https://lobste.rs/s/yalkax/are_redis_acl_password_protections_weak) - [Are Redis ACL password protections weak?](https://blog.ovalerio.net/archives/2877)
