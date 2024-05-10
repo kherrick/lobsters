@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-10, 01:43:56](https://lobste.rs/s/h0itru/graphite_progress_report_q1_2024) - [Graphite progress report (Q1 2024)](https://graphite.rs/blog/graphite-progress-report-q1-2024/)
+* [2024-05-10, 01:41:18](https://lobste.rs/s/nvtunc/10_years_on_what_would_you_change_about) - [10 years on, what would you change about Swift?](https://forums.swift.org/t/10-years-on-what-would-you-change-about-swift/71716)
 * [2024-05-10, 01:34:07](https://lobste.rs/s/kknnxs/muse_book_laptop_features_spacemit_k1) - [Muse Book laptop features SpacemiT K1 octa-core RISC-V AI processor, up to 16GB RAM](https://www.cnx-software.com/2024/04/30/muse-book-laptop-spacemit-k1-octa-core-risc-v-ai-processor-16gb-ram/)
 * [2024-05-10, 01:33:33](https://lobste.rs/s/y4oq9s/noise_protocol_framework) - [The Noise Protocol Framework](https://media.ccc.de/v/34c3-9222-the_noise_protocol_framework)
 * [2024-05-09, 22:39:02](https://lobste.rs/s/6uqwvn/yes_ruby_is_fast) - [Yes, Ruby is fast, but…](https://dev.to/betaziliani/yes-ruby-is-fast-but-1l49)
@@ -23,8 +25,6 @@
 * [2024-05-09, 02:49:05](https://lobste.rs/s/j4fpmd/all_error_messages_are_necessarily_bad) - [All error messages are necessarily bad to some degree](https://www.haskellforall.com/2024/05/all-error-messages-are-necessarily-bad.html)
 * [2024-05-09, 01:15:06](https://lobste.rs/s/icwz02/development_notes_from_xkcd_s_machine) - [Development notes from xkcd's \"Machine\"](https://chromakode.com/post/xkcd-machine/)
 * [2024-05-08, 23:20:34](https://lobste.rs/s/c3hbh6/it_s_not_about_flakes_vs_channels) - [It's not about “Flakes vs. Channels”](https://samuel.dionne-riel.com/blog/2024/05/07/its-not-flakes-vs-channels.html)
-* [2024-05-08, 20:29:09](https://lobste.rs/s/kmhr2m/phoenix_liveview_1_0_rc_is_here) - [Phoenix LiveView 1.0-rc is here](https://phoenixframework.org/blog/phoenix-liveview-1.0-released)
-* [2024-05-08, 13:53:24](https://lobste.rs/s/imyxxn/modern_sqlite_generated_columns) - [Modern SQLite: Generated columns](https://antonz.org/sqlite-generated-columns/)
 
 ## [Archives](archives/index.md)
 
