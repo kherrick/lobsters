@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-05-10, 03:34:33",
-      "https://lobste.rs/s/z5n5hc/computing_sustainability"
+      "2024-05-10, 02:34:01",
+      "https://lobste.rs/s/14jjju/exploring_hacker_news_by_mapping"
     ],
     [
-      "Computing and Sustainability",
-      "https://100r.co/site/computing_and_sustainability.html"
+      "Exploring Hacker News by mapping and analyzing 40 million posts and comments for fun",
+      "https://blog.wilsonl.in/hackerverse/"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "10 years on, what would you change about Swift?",
       "https://forums.swift.org/t/10-years-on-what-would-you-change-about-swift/71716"
+    ]
+  ],
+  [
+    [
+      "2024-05-10, 01:39:46",
+      "https://lobste.rs/s/baam94/yet_another_rest_client"
+    ],
+    [
+      "Yet Another REST Client?",
+      "https://yaak.app/blog/yet-another-api-client/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Writing an SDK in Zig, Part 1",
       "https://arne.me/blog/writing-an-sdk-in-zig-part-1"
-    ]
-  ],
-  [
-    [
-      "2024-05-09, 13:37:20",
-      "https://lobste.rs/s/z5a4k0/securing_git_repositories_with_gittuf"
-    ],
-    [
-      "Securing Git repositories with gittuf",
-      "https://lwn.net/SubscriberLink/972467/595a68b99f57a87d/"
     ]
   ],
   [
