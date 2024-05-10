@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-10, 15:36:28",
+      "https://lobste.rs/s/9ijkgu/nix_on_windows"
+    ],
+    [
+      "Nix on Windows",
+      "https://lastlog.de/blog/libnix_volth%27s_work.html"
+    ]
+  ],
+  [
+    [
       "2024-05-10, 14:14:19",
       "https://lobste.rs/s/ab95wc/setting_up_doom_emacs_for_astro"
     ],
@@ -17,16 +27,6 @@
     [
       "Kibibytes are silly and we should all use them",
       "https://esham.io/2017/09/kibibytes"
-    ]
-  ],
-  [
-    [
-      "2024-05-10, 12:48:18",
-      "https://lobste.rs/s/wxttc9/memgpt_create_llm_agents_with_long_term"
-    ],
-    [
-      "MemGPT: Create LLM agents with long-term memory and custom tools",
-      "https://github.com/cpacker/memgpt"
     ]
   ],
   [
