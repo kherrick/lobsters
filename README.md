@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-05-10, 02:47:52](https://lobste.rs/s/070fgw/serial_parallel_port_converter) - [Serial to parallel port converter](http://www.bramblyhill.com/admin/Pages/page/Membership-Card-Serial-Adapter.aspx)
+* [2024-05-10, 03:34:33](https://lobste.rs/s/z5n5hc/computing_sustainability) - [Computing and Sustainability](https://100r.co/site/computing_and_sustainability.html)
 * [2024-05-10, 02:32:57](https://lobste.rs/s/ffkhky/introducing_recon_cli_tool_gather) - [Introducing recon - a CLI tool to gather context for LLMs](https://joshuaclanton.dev/blog/2024-05-09-introducing-recon/)
 * [2024-05-10, 02:22:02](https://lobste.rs/s/9tvwdz/linking_zig_pokemon_decomps) - [Linking Zig to Pokemon Decomps](https://jadon.io/blog/zig-pokemon-gba/)
 * [2024-05-10, 01:41:18](https://lobste.rs/s/nvtunc/10_years_on_what_would_you_change_about) - [10 years on, what would you change about Swift?](https://forums.swift.org/t/10-years-on-what-would-you-change-about-swift/71716)

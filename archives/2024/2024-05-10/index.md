@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-10](index.md)
 
+* [2024-05-10, 03:34:33](https://lobste.rs/s/z5n5hc/computing_sustainability) - [Computing and Sustainability](https://100r.co/site/computing_and_sustainability.html)
 * [2024-05-10, 02:47:52](https://lobste.rs/s/070fgw/serial_parallel_port_converter) - [Serial to parallel port converter](http://www.bramblyhill.com/admin/Pages/page/Membership-Card-Serial-Adapter.aspx)
 * [2024-05-10, 02:34:01](https://lobste.rs/s/14jjju/exploring_hacker_news_by_mapping) - [Exploring Hacker News by mapping and analyzing 40 million posts and comments for fun](https://blog.wilsonl.in/hackerverse/)
 * [2024-05-10, 02:32:57](https://lobste.rs/s/ffkhky/introducing_recon_cli_tool_gather) - [Introducing recon - a CLI tool to gather context for LLMs](https://joshuaclanton.dev/blog/2024-05-09-introducing-recon/)
