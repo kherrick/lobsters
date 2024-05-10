@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-10, 01:43:56",
+      "https://lobste.rs/s/h0itru/graphite_progress_report_q1_2024"
+    ],
+    [
+      "Graphite progress report (Q1 2024)",
+      "https://graphite.rs/blog/graphite-progress-report-q1-2024/"
+    ]
+  ],
+  [
+    [
+      "2024-05-10, 01:41:18",
+      "https://lobste.rs/s/nvtunc/10_years_on_what_would_you_change_about"
+    ],
+    [
+      "10 years on, what would you change about Swift?",
+      "https://forums.swift.org/t/10-years-on-what-would-you-change-about-swift/71716"
+    ]
+  ],
+  [
+    [
       "2024-05-10, 01:34:07",
       "https://lobste.rs/s/kknnxs/muse_book_laptop_features_spacemit_k1"
     ],
@@ -227,26 +247,6 @@
     [
       "It's not about “Flakes vs. Channels”",
       "https://samuel.dionne-riel.com/blog/2024/05/07/its-not-flakes-vs-channels.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-08, 20:29:09",
-      "https://lobste.rs/s/kmhr2m/phoenix_liveview_1_0_rc_is_here"
-    ],
-    [
-      "Phoenix LiveView 1.0-rc is here",
-      "https://phoenixframework.org/blog/phoenix-liveview-1.0-released"
-    ]
-  ],
-  [
-    [
-      "2024-05-08, 13:53:24",
-      "https://lobste.rs/s/imyxxn/modern_sqlite_generated_columns"
-    ],
-    [
-      "Modern SQLite: Generated columns",
-      "https://antonz.org/sqlite-generated-columns/"
     ]
   ]
 ]
