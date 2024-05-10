@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-10, 11:16:16](https://lobste.rs/s/odhs2g/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/odhs2g/what_are_you_doing_this_weekend)
 * [2024-05-10, 10:18:50](https://lobste.rs/s/yalkax/are_redis_acl_password_protections_weak) - [Are Redis ACL password protections weak?](https://blog.ovalerio.net/archives/2877)
 * [2024-05-10, 08:01:39](https://lobste.rs/s/rchiux/how_install_python_on_mac) - [How to Install Python on a Mac](https://www.freecodecamp.org/news/how-to-install-python-on-a-mac/)
 * [2024-05-10, 06:42:05](https://lobste.rs/s/v16jze/most_backdoor_looking_bug_i_ve_ever_seen) - [The Most Backdoor-Looking Bug I’ve Ever Seen (2021)](https://words.filippo.io/dispatches/telegram-ecdh/)
@@ -22,7 +23,6 @@
 * [2024-05-09, 09:58:51](https://lobste.rs/s/fedhvm/await_event_horizon_javascript) - [The await event horizon in JavaScript](https://frontside.com/blog/2023-12-11-await-event-horizon/)
 * [2024-05-09, 08:54:41](https://lobste.rs/s/zmefnd/self_hosted_dashboard_puts_all_your_feeds) - [A self-hosted dashboard that puts all your feeds in one place](https://github.com/glanceapp/glance)
 * [2024-05-09, 06:04:32](https://lobste.rs/s/udsfr1/memory_errors_consumer_devices) - [Memory errors in consumer devices](https://fosstodon.org/@gabrielesvelto/112407741329145666)
-* [2024-05-09, 05:03:25](https://lobste.rs/s/xe13pm/automerge_2_2_rich_text) - [Automerge 2.2: Rich Text](https://automerge.org/blog/2024/04/06/richtext/)
 * [2024-05-09, 02:49:05](https://lobste.rs/s/j4fpmd/all_error_messages_are_necessarily_bad) - [All error messages are necessarily bad to some degree](https://www.haskellforall.com/2024/05/all-error-messages-are-necessarily-bad.html)
 * [2024-05-09, 01:15:06](https://lobste.rs/s/icwz02/development_notes_from_xkcd_s_machine) - [Development notes from xkcd's \"Machine\"](https://chromakode.com/post/xkcd-machine/)
 

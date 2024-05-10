@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-10](index.md)
 
+* [2024-05-10, 11:16:16](https://lobste.rs/s/odhs2g/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/odhs2g/what_are_you_doing_this_weekend)
 * [2024-05-10, 10:18:50](https://lobste.rs/s/yalkax/are_redis_acl_password_protections_weak) - [Are Redis ACL password protections weak?](https://blog.ovalerio.net/archives/2877)
 * [2024-05-10, 08:01:39](https://lobste.rs/s/rchiux/how_install_python_on_mac) - [How to Install Python on a Mac](https://www.freecodecamp.org/news/how-to-install-python-on-a-mac/)
 * [2024-05-10, 06:42:05](https://lobste.rs/s/v16jze/most_backdoor_looking_bug_i_ve_ever_seen) - [The Most Backdoor-Looking Bug I’ve Ever Seen (2021)](https://words.filippo.io/dispatches/telegram-ecdh/)
