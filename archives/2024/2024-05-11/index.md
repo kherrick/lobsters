@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-11](index.md)
 
+* [2024-05-11, 19:09:24](https://lobste.rs/s/fcypyt/migrating_bind9_dnssec_policy) - [Migrating to BIND9 dnssec-policy](https://dotat.at/@/2024-05-11-dnssec-policy.html)
 * [2024-05-11, 18:57:41](https://lobste.rs/s/z4pnbm/ghc_9_10_1_is_now_available) - [GHC 9.10.1 is now available](https://discourse.haskell.org/t/ghc-9-10-1-is-now-available/9523)
 * [2024-05-11, 17:55:48](https://lobste.rs/s/jrolq3/how_avoid_one_c_foot_gun) - [How to avoid one C++ foot gun](https://pboyd.io/posts/one-c++-footgun/)
 * [2024-05-11, 11:07:21](https://lobste.rs/s/pbdhad/glasgow_haskell_compiler_version_9_10_1) - [Glasgow Haskell Compiler Version 9.10.1](https://downloads.haskell.org/ghc/9.10.1/docs/users_guide/9.10.1-notes.html)
