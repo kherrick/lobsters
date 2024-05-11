@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-05-10, 22:37:46",
+      "https://lobste.rs/s/cim0ok/thread_tech_we_can_t_use_teach"
+    ],
+    [
+      "Thread - the tech we can't use or teach",
+      "https://overengineer.dev/blog/2024/05/10/thread/"
+    ]
+  ],
+  [
+    [
       "2024-05-10, 20:23:22",
       "https://lobste.rs/s/obbcla/emoji_history_missing_years"
     ],
@@ -237,16 +247,6 @@
     [
       "bash_tls: A minimal TLS 1.2 client implementation in a pure Bash script",
       "https://github.com/gh2o/bash_tls/"
-    ]
-  ],
-  [
-    [
-      "2024-05-09, 02:49:05",
-      "https://lobste.rs/s/j4fpmd/all_error_messages_are_necessarily_bad"
-    ],
-    [
-      "All error messages are necessarily bad to some degree",
-      "https://www.haskellforall.com/2024/05/all-error-messages-are-necessarily-bad.html"
     ]
   ]
 ]
