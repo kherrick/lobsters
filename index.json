@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-11, 09:15:18",
+      "https://lobste.rs/s/errjjc/unexpected_detour_into_partially"
+    ],
+    [
+      "An unexpected detour into partially symbolic, sparsity-expoiting autodiff; or Lord won’t you buy me a Laplace approximation",
+      "https://dansblog.netlify.app/posts/2024-05-08-laplace/laplace"
+    ]
+  ],
+  [
+    [
       "2024-05-11, 07:35:43",
       "https://lobste.rs/s/g929uk/writing_task_scheduler_zig"
     ],
@@ -207,16 +217,6 @@
     [
       "Linking Zig to Pokemon Decomps",
       "https://jadon.io/blog/zig-pokemon-gba/"
-    ]
-  ],
-  [
-    [
-      "2024-05-10, 01:41:18",
-      "https://lobste.rs/s/nvtunc/10_years_on_what_would_you_change_about"
-    ],
-    [
-      "10 years on, what would you change about Swift?",
-      "https://forums.swift.org/t/10-years-on-what-would-you-change-about-swift/71716"
     ]
   ],
   [
