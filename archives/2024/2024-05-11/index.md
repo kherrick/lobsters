@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-11](index.md)
 
+* [2024-05-11, 11:07:21](https://lobste.rs/s/pbdhad/glasgow_haskell_compiler_version_9_10_1) - [Glasgow Haskell Compiler Version 9.10.1](https://downloads.haskell.org/ghc/9.10.1/docs/users_guide/9.10.1-notes.html)
 * [2024-05-11, 09:15:18](https://lobste.rs/s/errjjc/unexpected_detour_into_partially) - [An unexpected detour into partially symbolic, sparsity-expoiting autodiff; or Lord won’t you buy me a Laplace approximation](https://dansblog.netlify.app/posts/2024-05-08-laplace/laplace)
 * [2024-05-11, 07:35:43](https://lobste.rs/s/g929uk/writing_task_scheduler_zig) - [Writing a task scheduler in Zig](https://www.openmymind.net/Writing-a-Task-Scheduler-in-Zig/)
 * [2024-05-11, 07:16:59](https://lobste.rs/s/ddi6ge/why_cordic_algorithm_lives_rent_free_my) - [Why the CORDIC algorithm lives rent-free in my head](https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md)

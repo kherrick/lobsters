@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-11, 11:07:21](https://lobste.rs/s/pbdhad/glasgow_haskell_compiler_version_9_10_1) - [Glasgow Haskell Compiler Version 9.10.1](https://downloads.haskell.org/ghc/9.10.1/docs/users_guide/9.10.1-notes.html)
 * [2024-05-11, 09:15:18](https://lobste.rs/s/errjjc/unexpected_detour_into_partially) - [An unexpected detour into partially symbolic, sparsity-expoiting autodiff; or Lord won’t you buy me a Laplace approximation](https://dansblog.netlify.app/posts/2024-05-08-laplace/laplace)
 * [2024-05-11, 07:35:43](https://lobste.rs/s/g929uk/writing_task_scheduler_zig) - [Writing a task scheduler in Zig](https://www.openmymind.net/Writing-a-Task-Scheduler-in-Zig/)
 * [2024-05-11, 07:16:59](https://lobste.rs/s/ddi6ge/why_cordic_algorithm_lives_rent_free_my) - [Why the CORDIC algorithm lives rent-free in my head](https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md)
@@ -21,7 +22,6 @@
 * [2024-05-10, 10:18:50](https://lobste.rs/s/yalkax/are_redis_acl_password_protections_weak) - [Are Redis ACL password protections weak?](https://blog.ovalerio.net/archives/2877)
 * [2024-05-10, 08:01:39](https://lobste.rs/s/rchiux/how_install_python_on_mac) - [How to Install Python on a Mac](https://www.freecodecamp.org/news/how-to-install-python-on-a-mac/)
 * [2024-05-10, 06:42:05](https://lobste.rs/s/v16jze/most_backdoor_looking_bug_i_ve_ever_seen) - [The Most Backdoor-Looking Bug I’ve Ever Seen (2021)](https://words.filippo.io/dispatches/telegram-ecdh/)
-* [2024-05-10, 02:22:02](https://lobste.rs/s/9tvwdz/linking_zig_pokemon_decomps) - [Linking Zig to Pokemon Decomps](https://jadon.io/blog/zig-pokemon-gba/)
 * [2024-05-10, 01:39:46](https://lobste.rs/s/baam94/yet_another_rest_client) - [Yet Another REST Client?](https://yaak.app/blog/yet-another-api-client/)
 * [2024-05-09, 18:15:27](https://lobste.rs/s/gczmnq/slop_is_new_name_for_unwanted_ai_generated) - [Slop is the new name for unwanted AI-generated content](https://simonwillison.net/2024/May/8/slop/)
 * [2024-05-09, 17:53:34](https://lobste.rs/s/kocje7/it_s_always_tcp_nodelay_every_damn_time) - [It's always TCP_NODELAY. Every damn time](https://brooker.co.za/blog/2024/05/09/nagle.html)
