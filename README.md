@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-11, 18:57:41](https://lobste.rs/s/z4pnbm/ghc_9_10_1_is_now_available) - [GHC 9.10.1 is now available](https://discourse.haskell.org/t/ghc-9-10-1-is-now-available/9523)
 * [2024-05-11, 17:55:48](https://lobste.rs/s/jrolq3/how_avoid_one_c_foot_gun) - [How to avoid one C++ foot gun](https://pboyd.io/posts/one-c++-footgun/)
 * [2024-05-11, 11:07:21](https://lobste.rs/s/pbdhad/glasgow_haskell_compiler_version_9_10_1) - [Glasgow Haskell Compiler Version 9.10.1](https://downloads.haskell.org/ghc/9.10.1/docs/users_guide/9.10.1-notes.html)
 * [2024-05-11, 09:15:18](https://lobste.rs/s/errjjc/unexpected_detour_into_partially) - [An unexpected detour into partially symbolic, sparsity-expoiting autodiff; or Lord won’t you buy me a Laplace approximation](https://dansblog.netlify.app/posts/2024-05-08-laplace/laplace)
@@ -9,7 +10,6 @@
 * [2024-05-11, 01:53:57](https://lobste.rs/s/gozdlo/debian_s_keepassxc_package_has_removed) - [Debian's KeePassXC package has removed many features](https://fosstodon.org/@keepassxc/112417353193348720)
 * [2024-05-10, 22:37:46](https://lobste.rs/s/cim0ok/thread_tech_we_can_t_use_teach) - [Thread - the tech we can't use or teach](https://overengineer.dev/blog/2024/05/10/thread/)
 * [2024-05-10, 20:23:22](https://lobste.rs/s/obbcla/emoji_history_missing_years) - [Emoji history: the missing years](https://blog.gingerbeardman.com/2024/05/10/emoji-history-the-missing-years/)
-* [2024-05-10, 20:00:05](https://lobste.rs/s/xuhhsf/why_bother_with_scripting_2021) - [Why bother with Scripting? (2021)](http://brrt-to-the-future.blogspot.com/2021/03/why-bother-with-scripting.html)
 * [2024-05-10, 19:27:11](https://lobste.rs/s/2uetj3/joint_statement_from_unisuper_google) - [A joint statement from UniSuper and Google Cloud](https://www.unisuper.com.au/about-us/media-centre/2024/a-joint-statement-from-unisuper-and-google-cloud)
 * [2024-05-10, 18:51:34](https://lobste.rs/s/kyno9r/lessons_learned_reinventing_python) - [Lessons learned reinventing the Python notebook](https://marimo.io/blog/lessons-learned)
 * [2024-05-10, 18:40:09](https://lobste.rs/s/3d8lxw/informal_comparison_three_major) - [An informal comparison of the three major implementations of std::string](https://devblogs.microsoft.com/oldnewthing/20240510-00/?p=109742)
