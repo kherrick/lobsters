@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-11, 03:33:24](https://lobste.rs/s/kkblar/use_cases_for_i_option_sshd) - [Use cases for the -i option of sshd](https://mastodon.social/@ska@treehouse.systems/112417619187918699)
 * [2024-05-11, 01:53:57](https://lobste.rs/s/gozdlo/debian_s_keepassxc_package_has_removed) - [Debian's KeePassXC package has removed many features](https://fosstodon.org/@keepassxc/112417353193348720)
 * [2024-05-10, 20:23:22](https://lobste.rs/s/obbcla/emoji_history_missing_years) - [Emoji history: the missing years](https://blog.gingerbeardman.com/2024/05/10/emoji-history-the-missing-years/)
 * [2024-05-10, 20:00:05](https://lobste.rs/s/xuhhsf/why_bother_with_scripting_2021) - [Why bother with Scripting? (2021)](http://brrt-to-the-future.blogspot.com/2021/03/why-bother-with-scripting.html)
@@ -20,7 +21,6 @@
 * [2024-05-10, 02:22:02](https://lobste.rs/s/9tvwdz/linking_zig_pokemon_decomps) - [Linking Zig to Pokemon Decomps](https://jadon.io/blog/zig-pokemon-gba/)
 * [2024-05-10, 01:41:18](https://lobste.rs/s/nvtunc/10_years_on_what_would_you_change_about) - [10 years on, what would you change about Swift?](https://forums.swift.org/t/10-years-on-what-would-you-change-about-swift/71716)
 * [2024-05-10, 01:39:46](https://lobste.rs/s/baam94/yet_another_rest_client) - [Yet Another REST Client?](https://yaak.app/blog/yet-another-api-client/)
-* [2024-05-09, 22:39:02](https://lobste.rs/s/6uqwvn/yes_ruby_is_fast) - [Yes, Ruby is fast, but…](https://dev.to/betaziliani/yes-ruby-is-fast-but-1l49)
 * [2024-05-09, 18:15:27](https://lobste.rs/s/gczmnq/slop_is_new_name_for_unwanted_ai_generated) - [Slop is the new name for unwanted AI-generated content](https://simonwillison.net/2024/May/8/slop/)
 * [2024-05-09, 17:53:34](https://lobste.rs/s/kocje7/it_s_always_tcp_nodelay_every_damn_time) - [It's always TCP_NODELAY. Every damn time](https://brooker.co.za/blog/2024/05/09/nagle.html)
 * [2024-05-09, 15:10:22](https://lobste.rs/s/8lnwrj/bash_tls_minimal_tls_1_2_client) - [bash_tls: A minimal TLS 1.2 client implementation in a pure Bash script](https://github.com/gh2o/bash_tls/)
