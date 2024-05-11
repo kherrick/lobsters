@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-11, 19:33:20](https://lobste.rs/s/ilsx4c/nerves_notes) - [Nerves Notes](https://wiki.alopex.li/NervesNotes)
 * [2024-05-11, 19:27:00](https://lobste.rs/s/6cjttw/exploring_c4_compiler) - [Exploring the c4... compiler?](https://registerspill.thorstenball.com/p/exploring-the-c4-compiler)
 * [2024-05-11, 19:09:24](https://lobste.rs/s/fcypyt/migrating_bind9_dnssec_policy) - [Migrating to BIND9 dnssec-policy](https://dotat.at/@/2024-05-11-dnssec-policy.html)
 * [2024-05-11, 17:55:48](https://lobste.rs/s/jrolq3/how_avoid_one_c_foot_gun) - [How to avoid one C++ foot gun](https://pboyd.io/posts/one-c++-footgun/)
@@ -16,7 +17,6 @@
 * [2024-05-10, 18:40:09](https://lobste.rs/s/3d8lxw/informal_comparison_three_major) - [An informal comparison of the three major implementations of std::string](https://devblogs.microsoft.com/oldnewthing/20240510-00/?p=109742)
 * [2024-05-10, 17:04:00](https://lobste.rs/s/r1bxbu/methods_should_be_object_safe) - [Methods Should Be Object Safe](https://nora.codes/post/methods-should-be-object-safe/)
 * [2024-05-10, 15:36:28](https://lobste.rs/s/9ijkgu/nix_on_windows) - [Nix on Windows](https://lastlog.de/blog/libnix_volth%27s_work.html)
-* [2024-05-10, 14:14:19](https://lobste.rs/s/ab95wc/setting_up_doom_emacs_for_astro) - [Setting up Doom Emacs for Astro Development](https://edmundmiller.dev/posts/emacs-astro/)
 * [2024-05-10, 13:05:24](https://lobste.rs/s/inhqqh/kibibytes_are_silly_we_should_all_use_them) - [Kibibytes are silly and we should all use them](https://esham.io/2017/09/kibibytes)
 * [2024-05-10, 12:31:03](https://lobste.rs/s/tfqsgi/openbsd_desktop) - [OpenBSD Desktop](https://x61.ar/log/2024/05/06052024135732-openbsd_desktop.html)
 * [2024-05-10, 11:40:10](https://lobste.rs/s/eurmhi/sk_logic_egglog) - [SK logic in egglog](http://www.chriswarbo.net/blog/2024-02-25-sk_logic_in_egglog_1.html)
