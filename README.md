@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-12, 22:50:33](https://lobste.rs/s/ucwplu/alternative_implementation_problem) - [The alternative implementation problem](https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/)
 * [2024-05-12, 22:08:01](https://lobste.rs/s/zdyrgr/what_is_stun_server_complete_guide_nat) - [What is a Stun Server: The Complete Guide to NAT Traversal](https://dev.to/alakkadshaw/what-is-a-stun-server-the-complete-guide-to-nat-traversal-49gb)
 * [2024-05-12, 20:31:52](https://lobste.rs/s/ehl9us/observation_about_tail_calls_2011) - [An observation about tail calls (2011)](https://www.enyo.de/fw/notes/tail-calls.html)
 * [2024-05-12, 20:27:05](https://lobste.rs/s/elqxyx/parsing_png_images_mojo) - [Parsing PNG images in Mojo](https://fnands.com/blog/2024/mojo-png-parsing/)
@@ -14,7 +15,6 @@
 * [2024-05-12, 07:13:11](https://lobste.rs/s/wcwdle/blinking_leds_with_raspberry_pi) - [Blinking LEDs with Raspberry Pi](https://devblogs.microsoft.com/dotnet/blinking-leds-with-raspberry-pi/)
 * [2024-05-12, 07:06:42](https://lobste.rs/s/wyyizm/reactos_newsletter_104_april_may_news) - [ReactOS Newsletter 104 - April/May news](https://reactos.org/blogs/newsletter-104/)
 * [2024-05-12, 03:07:05](https://lobste.rs/s/rzaoxj/datalog_chain_forward_computation) - [Datalog, Chain-Forward Computation, and Relational Algebra](https://kmicinski.com/modern-deduction/2024/05/11/post-1.html)
-* [2024-05-11, 21:00:04](https://lobste.rs/s/6xoapt/cascading_dependency_rebuilds_for) - [Cascading Dependency Rebuilds for Jackson CI](https://cowtowncoder.medium.com/cascading-dependency-rebuilds-for-jackson-ci-5113d0b71631)
 * [2024-05-11, 19:33:20](https://lobste.rs/s/ilsx4c/nerves_notes) - [Nerves Notes](https://wiki.alopex.li/NervesNotes)
 * [2024-05-11, 19:27:00](https://lobste.rs/s/6cjttw/exploring_c4_compiler) - [Exploring the c4... compiler?](https://registerspill.thorstenball.com/p/exploring-the-c4-compiler)
 * [2024-05-11, 19:09:24](https://lobste.rs/s/fcypyt/migrating_bind9_dnssec_policy) - [Migrating to BIND9 dnssec-policy](https://dotat.at/@/2024-05-11-dnssec-policy.html)
