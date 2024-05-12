@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-12, 17:20:21",
+      "https://lobste.rs/s/m1dlgq/4403_strfry_gives_skewed_distributions"
+    ],
+    [
+      "4403 – strfry() gives skewed distributions",
+      "https://sourceware.org/bugzilla/show_bug.cgi?id=4403#c14"
+    ]
+  ],
+  [
+    [
       "2024-05-12, 15:23:53",
       "https://lobste.rs/s/qjvt01/emacs_window_management_almanac"
     ],
@@ -237,16 +247,6 @@
     [
       "Kibibytes are silly and we should all use them",
       "https://esham.io/2017/09/kibibytes"
-    ]
-  ],
-  [
-    [
-      "2024-05-10, 12:31:03",
-      "https://lobste.rs/s/tfqsgi/openbsd_desktop"
-    ],
-    [
-      "OpenBSD Desktop",
-      "https://x61.ar/log/2024/05/06052024135732-openbsd_desktop.html"
     ]
   ]
 ]
