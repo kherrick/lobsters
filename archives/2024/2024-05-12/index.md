@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-12](index.md)
 
+* [2024-05-12, 17:20:21](https://lobste.rs/s/m1dlgq/4403_strfry_gives_skewed_distributions) - [4403 – strfry() gives skewed distributions](https://sourceware.org/bugzilla/show_bug.cgi?id=4403#c14)
 * [2024-05-12, 15:23:53](https://lobste.rs/s/qjvt01/emacs_window_management_almanac) - [The Emacs Window Management Almanac](https://karthinks.com/software/emacs-window-management-almanac/)
 * [2024-05-12, 14:06:53](https://lobste.rs/s/pmzl2i/garbage_collectors_are_scary) - [Garbage collectors are scary](https://www.enyo.de/fw/notes/garbage-collectors-are-scary.html)
 * [2024-05-12, 14:04:44](https://lobste.rs/s/evcbic/what_are_you_excited_about) - [What are you excited about?](https://lobste.rs/s/evcbic/what_are_you_excited_about)
