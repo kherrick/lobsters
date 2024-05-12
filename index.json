@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-12, 14:06:53",
+      "https://lobste.rs/s/pmzl2i/garbage_collectors_are_scary"
+    ],
+    [
+      "Garbage collectors are scary",
+      "https://www.enyo.de/fw/notes/garbage-collectors-are-scary.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-12, 14:04:44",
+      "https://lobste.rs/s/evcbic/what_are_you_excited_about"
+    ],
+    [
+      "What are you excited about?",
+      "https://lobste.rs/s/evcbic/what_are_you_excited_about"
+    ]
+  ],
+  [
+    [
       "2024-05-12, 13:07:11",
       "https://lobste.rs/s/rdsk3o/temporal_good_things_happen"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-05-11, 09:15:18",
-      "https://lobste.rs/s/errjjc/unexpected_detour_into_partially"
-    ],
-    [
-      "An unexpected detour into partially symbolic, sparsity-expoiting autodiff; or Lord won’t you buy me a Laplace approximation",
-      "https://dansblog.netlify.app/posts/2024-05-08-laplace/laplace"
-    ]
-  ],
-  [
-    [
       "2024-05-11, 07:35:43",
       "https://lobste.rs/s/g929uk/writing_task_scheduler_zig"
     ],
@@ -177,16 +187,6 @@
     [
       "Debian's KeePassXC package has removed many features",
       "https://fosstodon.org/@keepassxc/112417353193348720"
-    ]
-  ],
-  [
-    [
-      "2024-05-10, 22:37:46",
-      "https://lobste.rs/s/cim0ok/thread_tech_we_can_t_use_teach"
-    ],
-    [
-      "Thread - the tech we can't use or teach",
-      "https://overengineer.dev/blog/2024/05/10/thread/"
     ]
   ],
   [
