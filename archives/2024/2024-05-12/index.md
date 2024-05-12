@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-12](index.md)
 
+* [2024-05-12, 14:06:53](https://lobste.rs/s/pmzl2i/garbage_collectors_are_scary) - [Garbage collectors are scary](https://www.enyo.de/fw/notes/garbage-collectors-are-scary.html)
+* [2024-05-12, 14:04:44](https://lobste.rs/s/evcbic/what_are_you_excited_about) - [What are you excited about?](https://lobste.rs/s/evcbic/what_are_you_excited_about)
 * [2024-05-12, 13:07:11](https://lobste.rs/s/rdsk3o/temporal_good_things_happen) - [Temporal - Good things happen](https://recife.pfeodrippe.com/notebooks/recife/notebook/temporal.html)
 * [2024-05-12, 12:06:18](https://lobste.rs/s/7ns4bz/can_gcc_use_clang_as_its_assembler) - [Can GCC use Clang as its assembler?](https://briancallahan.net/blog/20240122.html)
 * [2024-05-12, 09:18:42](https://lobste.rs/s/dvzo0y/16_years_cve_2008_0166_debian_openssl_bug) - [16 years of CVE-2008-0166 - Debian OpenSSL Bug](https://16years.secvuln.info/)
