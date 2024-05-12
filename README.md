@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-12, 07:30:46](https://lobste.rs/s/6ytneu/reference_counting_with_linear_types) - [Reference Counting with Linear Types](https://discourse.haskell.org/t/reference-counting-with-linear-types/9535?u=romes)
 * [2024-05-12, 07:13:11](https://lobste.rs/s/wcwdle/blinking_leds_with_raspberry_pi) - [Blinking LEDs with Raspberry Pi](https://devblogs.microsoft.com/dotnet/blinking-leds-with-raspberry-pi/)
 * [2024-05-12, 07:06:42](https://lobste.rs/s/wyyizm/reactos_newsletter_104_april_may_news) - [ReactOS Newsletter 104 - April/May news](https://reactos.org/blogs/newsletter-104/)
 * [2024-05-12, 03:07:05](https://lobste.rs/s/rzaoxj/datalog_chain_forward_computation) - [Datalog, Chain-Forward Computation, and Relational Algebra](https://kmicinski.com/modern-deduction/2024/05/11/post-1.html)
@@ -20,7 +21,6 @@
 * [2024-05-10, 18:51:34](https://lobste.rs/s/kyno9r/lessons_learned_reinventing_python) - [Lessons learned reinventing the Python notebook](https://marimo.io/blog/lessons-learned)
 * [2024-05-10, 18:40:09](https://lobste.rs/s/3d8lxw/informal_comparison_three_major) - [An informal comparison of the three major implementations of std::string](https://devblogs.microsoft.com/oldnewthing/20240510-00/?p=109742)
 * [2024-05-10, 17:04:00](https://lobste.rs/s/r1bxbu/methods_should_be_object_safe) - [Methods Should Be Object Safe](https://nora.codes/post/methods-should-be-object-safe/)
-* [2024-05-10, 15:36:28](https://lobste.rs/s/9ijkgu/nix_on_windows) - [Nix on Windows](https://lastlog.de/blog/libnix_volth%27s_work.html)
 * [2024-05-10, 13:05:24](https://lobste.rs/s/inhqqh/kibibytes_are_silly_we_should_all_use_them) - [Kibibytes are silly and we should all use them](https://esham.io/2017/09/kibibytes)
 * [2024-05-10, 12:31:03](https://lobste.rs/s/tfqsgi/openbsd_desktop) - [OpenBSD Desktop](https://x61.ar/log/2024/05/06052024135732-openbsd_desktop.html)
 * [2024-05-10, 11:40:10](https://lobste.rs/s/eurmhi/sk_logic_egglog) - [SK logic in egglog](http://www.chriswarbo.net/blog/2024-02-25-sk_logic_in_egglog_1.html)
