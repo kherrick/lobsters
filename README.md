@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-12, 23:01:58](https://lobste.rs/s/cfongt/gpus_go_brrr) - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 * [2024-05-12, 22:50:33](https://lobste.rs/s/ucwplu/alternative_implementation_problem) - [The alternative implementation problem](https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/)
 * [2024-05-12, 22:08:01](https://lobste.rs/s/zdyrgr/what_is_stun_server_complete_guide_nat) - [What is a Stun Server: The Complete Guide to NAT Traversal](https://dev.to/alakkadshaw/what-is-a-stun-server-the-complete-guide-to-nat-traversal-49gb)
 * [2024-05-12, 20:31:52](https://lobste.rs/s/ehl9us/observation_about_tail_calls_2011) - [An observation about tail calls (2011)](https://www.enyo.de/fw/notes/tail-calls.html)
@@ -22,7 +23,6 @@
 * [2024-05-11, 11:07:21](https://lobste.rs/s/pbdhad/glasgow_haskell_compiler_version_9_10_1) - [Glasgow Haskell Compiler Version 9.10.1](https://downloads.haskell.org/ghc/9.10.1/docs/users_guide/9.10.1-notes.html)
 * [2024-05-11, 07:35:43](https://lobste.rs/s/g929uk/writing_task_scheduler_zig) - [Writing a task scheduler in Zig](https://www.openmymind.net/Writing-a-Task-Scheduler-in-Zig/)
 * [2024-05-11, 07:16:59](https://lobste.rs/s/ddi6ge/why_cordic_algorithm_lives_rent_free_my) - [Why the CORDIC algorithm lives rent-free in my head](https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md)
-* [2024-05-11, 03:33:24](https://lobste.rs/s/kkblar/use_cases_for_i_option_sshd) - [Use cases for the -i option of sshd](https://mastodon.social/@ska@treehouse.systems/112417619187918699)
 * [2024-05-11, 01:53:57](https://lobste.rs/s/gozdlo/debian_s_keepassxc_package_has_removed) - [Debian's KeePassXC package has removed many features](https://fosstodon.org/@keepassxc/112417353193348720)
 * [2024-05-10, 13:05:24](https://lobste.rs/s/inhqqh/kibibytes_are_silly_we_should_all_use_them) - [Kibibytes are silly and we should all use them](https://esham.io/2017/09/kibibytes)
 
