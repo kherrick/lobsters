@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-12, 09:18:42](https://lobste.rs/s/dvzo0y/16_years_cve_2008_0166_debian_openssl_bug) - [16 years of CVE-2008-0166 - Debian OpenSSL Bug](https://16years.secvuln.info/)
 * [2024-05-12, 07:30:46](https://lobste.rs/s/6ytneu/reference_counting_with_linear_types) - [Reference Counting with Linear Types](https://discourse.haskell.org/t/reference-counting-with-linear-types/9535?u=romes)
 * [2024-05-12, 07:13:11](https://lobste.rs/s/wcwdle/blinking_leds_with_raspberry_pi) - [Blinking LEDs with Raspberry Pi](https://devblogs.microsoft.com/dotnet/blinking-leds-with-raspberry-pi/)
 * [2024-05-12, 07:06:42](https://lobste.rs/s/wyyizm/reactos_newsletter_104_april_may_news) - [ReactOS Newsletter 104 - April/May news](https://reactos.org/blogs/newsletter-104/)
@@ -16,7 +17,6 @@
 * [2024-05-11, 03:33:24](https://lobste.rs/s/kkblar/use_cases_for_i_option_sshd) - [Use cases for the -i option of sshd](https://mastodon.social/@ska@treehouse.systems/112417619187918699)
 * [2024-05-11, 01:53:57](https://lobste.rs/s/gozdlo/debian_s_keepassxc_package_has_removed) - [Debian's KeePassXC package has removed many features](https://fosstodon.org/@keepassxc/112417353193348720)
 * [2024-05-10, 22:37:46](https://lobste.rs/s/cim0ok/thread_tech_we_can_t_use_teach) - [Thread - the tech we can't use or teach](https://overengineer.dev/blog/2024/05/10/thread/)
-* [2024-05-10, 20:23:22](https://lobste.rs/s/obbcla/emoji_history_missing_years) - [Emoji history: the missing years](https://blog.gingerbeardman.com/2024/05/10/emoji-history-the-missing-years/)
 * [2024-05-10, 19:27:11](https://lobste.rs/s/2uetj3/joint_statement_from_unisuper_google) - [A joint statement from UniSuper and Google Cloud](https://www.unisuper.com.au/about-us/media-centre/2024/a-joint-statement-from-unisuper-and-google-cloud)
 * [2024-05-10, 18:51:34](https://lobste.rs/s/kyno9r/lessons_learned_reinventing_python) - [Lessons learned reinventing the Python notebook](https://marimo.io/blog/lessons-learned)
 * [2024-05-10, 18:40:09](https://lobste.rs/s/3d8lxw/informal_comparison_three_major) - [An informal comparison of the three major implementations of std::string](https://devblogs.microsoft.com/oldnewthing/20240510-00/?p=109742)
