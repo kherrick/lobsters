@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-12, 22:08:01](https://lobste.rs/s/zdyrgr/what_is_stun_server_complete_guide_nat) - [What is a Stun Server: The Complete Guide to NAT Traversal](https://dev.to/alakkadshaw/what-is-a-stun-server-the-complete-guide-to-nat-traversal-49gb)
 * [2024-05-12, 20:31:52](https://lobste.rs/s/ehl9us/observation_about_tail_calls_2011) - [An observation about tail calls (2011)](https://www.enyo.de/fw/notes/tail-calls.html)
 * [2024-05-12, 20:27:05](https://lobste.rs/s/elqxyx/parsing_png_images_mojo) - [Parsing PNG images in Mojo](https://fnands.com/blog/2024/mojo-png-parsing/)
 * [2024-05-12, 17:20:21](https://lobste.rs/s/m1dlgq/4403_strfry_gives_skewed_distributions) - [4403 – strfry() gives skewed distributions](https://sourceware.org/bugzilla/show_bug.cgi?id=4403#c14)
@@ -23,7 +24,6 @@
 * [2024-05-11, 07:16:59](https://lobste.rs/s/ddi6ge/why_cordic_algorithm_lives_rent_free_my) - [Why the CORDIC algorithm lives rent-free in my head](https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md)
 * [2024-05-11, 03:33:24](https://lobste.rs/s/kkblar/use_cases_for_i_option_sshd) - [Use cases for the -i option of sshd](https://mastodon.social/@ska@treehouse.systems/112417619187918699)
 * [2024-05-11, 01:53:57](https://lobste.rs/s/gozdlo/debian_s_keepassxc_package_has_removed) - [Debian's KeePassXC package has removed many features](https://fosstodon.org/@keepassxc/112417353193348720)
-* [2024-05-10, 19:27:11](https://lobste.rs/s/2uetj3/joint_statement_from_unisuper_google) - [A joint statement from UniSuper and Google Cloud](https://www.unisuper.com.au/about-us/media-centre/2024/a-joint-statement-from-unisuper-and-google-cloud)
 * [2024-05-10, 13:05:24](https://lobste.rs/s/inhqqh/kibibytes_are_silly_we_should_all_use_them) - [Kibibytes are silly and we should all use them](https://esham.io/2017/09/kibibytes)
 
 ## [Archives](archives/index.md)

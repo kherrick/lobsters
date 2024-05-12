@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-12](index.md)
 
+* [2024-05-12, 22:08:01](https://lobste.rs/s/zdyrgr/what_is_stun_server_complete_guide_nat) - [What is a Stun Server: The Complete Guide to NAT Traversal](https://dev.to/alakkadshaw/what-is-a-stun-server-the-complete-guide-to-nat-traversal-49gb)
 * [2024-05-12, 20:31:52](https://lobste.rs/s/ehl9us/observation_about_tail_calls_2011) - [An observation about tail calls (2011)](https://www.enyo.de/fw/notes/tail-calls.html)
 * [2024-05-12, 20:27:05](https://lobste.rs/s/elqxyx/parsing_png_images_mojo) - [Parsing PNG images in Mojo](https://fnands.com/blog/2024/mojo-png-parsing/)
 * [2024-05-12, 17:20:21](https://lobste.rs/s/m1dlgq/4403_strfry_gives_skewed_distributions) - [4403 – strfry() gives skewed distributions](https://sourceware.org/bugzilla/show_bug.cgi?id=4403#c14)
