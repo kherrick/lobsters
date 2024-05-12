@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-12, 07:06:42](https://lobste.rs/s/wyyizm/reactos_newsletter_104_april_may_news) - [ReactOS Newsletter 104 - April/May news](https://reactos.org/blogs/newsletter-104/)
 * [2024-05-12, 03:07:05](https://lobste.rs/s/rzaoxj/datalog_chain_forward_computation) - [Datalog, Chain-Forward Computation, and Relational Algebra](https://kmicinski.com/modern-deduction/2024/05/11/post-1.html)
 * [2024-05-11, 21:00:04](https://lobste.rs/s/6xoapt/cascading_dependency_rebuilds_for) - [Cascading Dependency Rebuilds for Jackson CI](https://cowtowncoder.medium.com/cascading-dependency-rebuilds-for-jackson-ci-5113d0b71631)
 * [2024-05-11, 19:33:20](https://lobste.rs/s/ilsx4c/nerves_notes) - [Nerves Notes](https://wiki.alopex.li/NervesNotes)
@@ -24,7 +25,6 @@
 * [2024-05-10, 11:40:10](https://lobste.rs/s/eurmhi/sk_logic_egglog) - [SK logic in egglog](http://www.chriswarbo.net/blog/2024-02-25-sk_logic_in_egglog_1.html)
 * [2024-05-10, 08:01:39](https://lobste.rs/s/rchiux/how_install_python_on_mac) - [How to Install Python on a Mac](https://www.freecodecamp.org/news/how-to-install-python-on-a-mac/)
 * [2024-05-09, 18:15:27](https://lobste.rs/s/gczmnq/slop_is_new_name_for_unwanted_ai_generated) - [Slop is the new name for unwanted AI-generated content](https://simonwillison.net/2024/May/8/slop/)
-* [2024-05-09, 17:53:34](https://lobste.rs/s/kocje7/it_s_always_tcp_nodelay_every_damn_time) - [It's always TCP_NODELAY. Every damn time](https://brooker.co.za/blog/2024/05/09/nagle.html)
 
 ## [Archives](archives/index.md)
 
