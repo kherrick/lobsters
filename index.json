@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-12, 20:27:05",
+      "https://lobste.rs/s/elqxyx/parsing_png_images_mojo"
+    ],
+    [
+      "Parsing PNG images in Mojo",
+      "https://fnands.com/blog/2024/mojo-png-parsing/"
+    ]
+  ],
+  [
+    [
       "2024-05-12, 17:20:21",
       "https://lobste.rs/s/m1dlgq/4403_strfry_gives_skewed_distributions"
     ],
@@ -227,16 +237,6 @@
     [
       "Lessons learned reinventing the Python notebook",
       "https://marimo.io/blog/lessons-learned"
-    ]
-  ],
-  [
-    [
-      "2024-05-10, 17:04:00",
-      "https://lobste.rs/s/r1bxbu/methods_should_be_object_safe"
-    ],
-    [
-      "Methods Should Be Object Safe",
-      "https://nora.codes/post/methods-should-be-object-safe/"
     ]
   ],
   [
