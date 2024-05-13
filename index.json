@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-13, 07:28:41",
+      "https://lobste.rs/s/qzcopr/meilisearch_1_8"
+    ],
+    [
+      "Meilisearch 1.8",
+      "https://blog.meilisearch.com/meilisearch-1-8/"
+    ]
+  ],
+  [
+    [
       "2024-05-13, 03:30:44",
       "https://lobste.rs/s/szvvuh/macrelix_unix_like_features_for_classic"
     ],
@@ -217,16 +227,6 @@
     [
       "Exploring the c4... compiler?",
       "https://registerspill.thorstenball.com/p/exploring-the-c4-compiler"
-    ]
-  ],
-  [
-    [
-      "2024-05-11, 19:09:24",
-      "https://lobste.rs/s/fcypyt/migrating_bind9_dnssec_policy"
-    ],
-    [
-      "Migrating to BIND9 dnssec-policy",
-      "https://dotat.at/@/2024-05-11-dnssec-policy.html"
     ]
   ],
   [
