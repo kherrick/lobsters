@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 20:43:47](https://lobste.rs/s/mggk2m/web_publishers_brace_for_carnage_as) - [Web publishers brace for carnage as Google adds AI answers](https://www.washingtonpost.com/technology/2024/05/13/google-ai-search-io-sge/)
+* [2024-05-13, 20:40:32](https://lobste.rs/s/87j8g6/exploring_gnu_extensions_linux_kernel) - [Exploring GNU extensions in the Linux kernel](https://maskray.me/blog/2024-05-12-exploring-gnu-extensions-in-linux-kernel)
 * [2024-05-13, 20:38:02](https://lobste.rs/s/yqhkts/amazon_s3_will_no_longer_charge_for) - [Amazon S3 will no longer charge for several HTTP error codes](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/)
 * [2024-05-13, 20:17:41](https://lobste.rs/s/z6hecw/effects_opening_move_selection_on) - [The Effects of Opening Move Selection on Investigation Speed](https://chrissanders.org/2016/09/effects-of-opening-move-investigation-speed/)
 * [2024-05-13, 20:15:22](https://lobste.rs/s/njchas/snappy_ui_optimization_with) - [Snappy UI Optimization with useDeferredValue](https://www.joshwcomeau.com/react/use-deferred-value/)
