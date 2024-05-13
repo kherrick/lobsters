@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 18:56:09](https://lobste.rs/s/utsqyh/typescript_meets_api_design_microsoft_s) - [TypeScript Meets API Design in Microsoft's Game-Changing TypeSpec](https://thenewstack.io/typescript-meets-api-design-in-microsofts-game-changing-typespec/)
 * [2024-05-13, 17:40:36](https://lobste.rs/s/ph5o0a/openai_gpt_4o) - [OpenAI GPT-4o](https://openai.com/index/hello-gpt-4o/)
 * [2024-05-13, 17:37:11](https://lobste.rs/s/fsembd/recent_docker_buildkit_features_you_re) - [Recent Docker BuildKit Features You're Missing Out On](https://martinheinz.dev/blog/111)
 * [2024-05-13, 16:30:15](https://lobste.rs/s/2ke5fa/slint_1_6_released_with_design_mode) - [Slint 1.6 Released with Design Mode Improvements, Python Packages, and Enhanced Accessibility](https://slint.dev/blog/slint-1.6-released)
