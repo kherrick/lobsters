@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-13, 07:50:46",
+      "https://lobste.rs/s/poslly/zenver_post_modern_versioning_scheme"
+    ],
+    [
+      "ZenVer: A post-modern versioning scheme that does not suck",
+      "https://github.com/NotAShelf/ZenVer/tree/main"
+    ]
+  ],
+  [
+    [
       "2024-05-13, 07:46:43",
       "https://lobste.rs/s/fq7k9k/ultimate_guide_haskell_strings"
     ],
@@ -237,16 +247,6 @@
     [
       "Exploring the c4... compiler?",
       "https://registerspill.thorstenball.com/p/exploring-the-c4-compiler"
-    ]
-  ],
-  [
-    [
-      "2024-05-11, 17:55:48",
-      "https://lobste.rs/s/jrolq3/how_avoid_one_c_foot_gun"
-    ],
-    [
-      "How to avoid one C++ foot gun",
-      "https://pboyd.io/posts/one-c++-footgun/"
     ]
   ]
 ]
