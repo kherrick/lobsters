@@ -13,6 +13,7 @@
 * [2024-05-13, 16:14:59](https://lobste.rs/s/elj5qw/unix_version_control_lore_what_ident) - [Unix version control lore: what, ident](https://dotat.at/@/2024-05-13-what-ident.html)
 * [2024-05-13, 15:32:27](https://lobste.rs/s/9f9fgu/windbg_time_travelling_debugger_is) - [WinDbg Time Travelling Debugger is Amazing Magic](https://www.forrestthewoods.com/blog/windbg-time-travelling-debugger-is-amazing-magic/)
 * [2024-05-13, 15:29:47](https://lobste.rs/s/awm4is/reconstructing_3ds_bootstrapping) - [Reconstructing the 3DS Bootstrapping Process at the Factory](https://blog.winter-software.com/2024/05/13/the-3ds-bootstrapping-process-at-the-factory)
+* [2024-05-13, 14:06:32](https://lobste.rs/s/ei6b3s/inside_cult_haskell_programmer) - [Inside the Cult of the Haskell Programmer](https://www.wired.com/story/inside-the-cult-of-the-haskell-programmer/)
 * [2024-05-13, 13:04:52](https://lobste.rs/s/ttyfuk/static_chess) - [Static Chess](https://www.val.town/v/maxm/staticChess)
 * [2024-05-13, 11:01:43](https://lobste.rs/s/vanuvo/snip_snap) - [Snip Snap](https://peppe.rs/posts/snip_snap/)
 * [2024-05-13, 10:53:37](https://lobste.rs/s/ttjvp0/agda_core_dream_reality) - [Agda Core: The Dream and the Reality](https://jesper.cx/posts/agda-core.html)
@@ -24,7 +25,6 @@
 * [2024-05-12, 23:01:58](https://lobste.rs/s/cfongt/gpus_go_brrr) - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 * [2024-05-12, 22:50:33](https://lobste.rs/s/ucwplu/alternative_implementation_problem) - [The alternative implementation problem](https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/)
 * [2024-05-12, 14:04:44](https://lobste.rs/s/evcbic/what_are_you_excited_about) - [What are you excited about?](https://lobste.rs/s/evcbic/what_are_you_excited_about)
-* [2024-05-12, 09:18:42](https://lobste.rs/s/dvzo0y/16_years_cve_2008_0166_debian_openssl_bug) - [16 years of CVE-2008-0166 - Debian OpenSSL Bug](https://16years.secvuln.info/)
 
 ## [Archives](archives/index.md)
 
