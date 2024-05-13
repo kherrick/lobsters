@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-05-13, 16:14:59](https://lobste.rs/s/elj5qw/unix_version_control_lore_what_ident_tony) - [Unix version control lore: what, ident – Tony Finch](https://dotat.at/@/2024-05-13-what-ident.html)
+* [2024-05-13, 16:30:15](https://lobste.rs/s/2ke5fa/slint_1_6_released_with_design_mode) - [Slint 1.6 Released with Design Mode Improvements, Python Packages, and Enhanced Accessibility](https://slint.dev/blog/slint-1.6-released)
+* [2024-05-13, 16:14:59](https://lobste.rs/s/elj5qw/unix_version_control_lore_what_ident) - [Unix version control lore: what, ident](https://dotat.at/@/2024-05-13-what-ident.html)
 * [2024-05-13, 15:32:27](https://lobste.rs/s/9f9fgu/windbg_time_travelling_debugger_is) - [WinDbg Time Travelling Debugger is Amazing Magic](https://www.forrestthewoods.com/blog/windbg-time-travelling-debugger-is-amazing-magic/)
 * [2024-05-13, 15:29:47](https://lobste.rs/s/awm4is/reconstructing_3ds_bootstrapping) - [Reconstructing the 3DS Bootstrapping Process at the Factory](https://blog.winter-software.com/2024/05/13/the-3ds-bootstrapping-process-at-the-factory)
 * [2024-05-13, 14:06:32](https://lobste.rs/s/ei6b3s/inside_cult_haskell_programmer) - [Inside the Cult of the Haskell Programmer](https://www.wired.com/story/inside-the-cult-of-the-haskell-programmer/)
@@ -24,7 +25,6 @@
 * [2024-05-12, 15:23:53](https://lobste.rs/s/qjvt01/emacs_window_management_almanac) - [The Emacs Window Management Almanac](https://karthinks.com/software/emacs-window-management-almanac/)
 * [2024-05-12, 14:04:44](https://lobste.rs/s/evcbic/what_are_you_excited_about) - [What are you excited about?](https://lobste.rs/s/evcbic/what_are_you_excited_about)
 * [2024-05-12, 09:18:42](https://lobste.rs/s/dvzo0y/16_years_cve_2008_0166_debian_openssl_bug) - [16 years of CVE-2008-0166 - Debian OpenSSL Bug](https://16years.secvuln.info/)
-* [2024-05-12, 07:30:46](https://lobste.rs/s/6ytneu/reference_counting_with_linear_types) - [Reference Counting with Linear Types](https://discourse.haskell.org/t/reference-counting-with-linear-types/9535?u=romes)
 
 ## [Archives](archives/index.md)
 
