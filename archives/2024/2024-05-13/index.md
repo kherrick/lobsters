@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 17:40:36](https://lobste.rs/s/ph5o0a/openai_gpt_4o) - [OpenAI GPT-4o](https://openai.com/index/hello-gpt-4o/)
+* [2024-05-13, 17:37:11](https://lobste.rs/s/fsembd/recent_docker_buildkit_features_you_re) - [Recent Docker BuildKit Features You're Missing Out On](https://martinheinz.dev/blog/111)
 * [2024-05-13, 16:30:15](https://lobste.rs/s/2ke5fa/slint_1_6_released_with_design_mode) - [Slint 1.6 Released with Design Mode Improvements, Python Packages, and Enhanced Accessibility](https://slint.dev/blog/slint-1.6-released)
 * [2024-05-13, 16:14:59](https://lobste.rs/s/elj5qw/unix_version_control_lore_what_ident_tony) - [Unix version control lore: what, ident – Tony Finch](https://dotat.at/@/2024-05-13-what-ident.html)
 * [2024-05-13, 16:14:59](https://lobste.rs/s/elj5qw/unix_version_control_lore_what_ident) - [Unix version control lore: what, ident](https://dotat.at/@/2024-05-13-what-ident.html)

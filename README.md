@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-13, 17:40:36](https://lobste.rs/s/ph5o0a/openai_gpt_4o) - [OpenAI GPT-4o](https://openai.com/index/hello-gpt-4o/)
+* [2024-05-13, 17:37:11](https://lobste.rs/s/fsembd/recent_docker_buildkit_features_you_re) - [Recent Docker BuildKit Features You're Missing Out On](https://martinheinz.dev/blog/111)
 * [2024-05-13, 16:30:15](https://lobste.rs/s/2ke5fa/slint_1_6_released_with_design_mode) - [Slint 1.6 Released with Design Mode Improvements, Python Packages, and Enhanced Accessibility](https://slint.dev/blog/slint-1.6-released)
 * [2024-05-13, 16:14:59](https://lobste.rs/s/elj5qw/unix_version_control_lore_what_ident) - [Unix version control lore: what, ident](https://dotat.at/@/2024-05-13-what-ident.html)
 * [2024-05-13, 15:32:27](https://lobste.rs/s/9f9fgu/windbg_time_travelling_debugger_is) - [WinDbg Time Travelling Debugger is Amazing Magic](https://www.forrestthewoods.com/blog/windbg-time-travelling-debugger-is-amazing-magic/)
@@ -7,7 +9,6 @@
 * [2024-05-13, 14:06:32](https://lobste.rs/s/ei6b3s/inside_cult_haskell_programmer) - [Inside the Cult of the Haskell Programmer](https://www.wired.com/story/inside-the-cult-of-the-haskell-programmer/)
 * [2024-05-13, 13:04:52](https://lobste.rs/s/ttyfuk/static_chess) - [Static Chess](https://www.val.town/v/maxm/staticChess)
 * [2024-05-13, 12:27:45](https://lobste.rs/s/iymifv/gnu_libtextstyle) - [GNU libtextstyle](https://www.gnu.org/software/gettext/libtextstyle/manual/libtextstyle.html)
-* [2024-05-13, 11:35:51](https://lobste.rs/s/lvkh95/llms_data_control_path_insecurity) - [LLMs’ Data-Control Path Insecurity](https://www.schneier.com/blog/archives/2024/05/llms-data-control-path-insecurity.html)
 * [2024-05-13, 11:01:43](https://lobste.rs/s/vanuvo/snip_snap) - [Snip Snap](https://peppe.rs/posts/snip_snap/)
 * [2024-05-13, 10:53:37](https://lobste.rs/s/ttjvp0/agda_core_dream_reality) - [Agda Core: The Dream and the Reality](https://jesper.cx/posts/agda-core.html)
 * [2024-05-13, 10:26:21](https://lobste.rs/s/gmodci/tuned_project_power_profiles_daemon) - [TuneD project (power-profiles-daemon replacement)](https://tuned-project.org/)
@@ -21,7 +22,6 @@
 * [2024-05-13, 00:40:45](https://lobste.rs/s/ixodly/ipv6_prefix_lengths) - [IPv6 prefix lengths](https://www.potaroo.net/ispcol/2024-04/ipv6-prefixes.html)
 * [2024-05-12, 23:01:58](https://lobste.rs/s/cfongt/gpus_go_brrr) - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 * [2024-05-12, 22:50:33](https://lobste.rs/s/ucwplu/alternative_implementation_problem) - [The alternative implementation problem](https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/)
-* [2024-05-12, 17:20:21](https://lobste.rs/s/m1dlgq/4403_strfry_gives_skewed_distributions) - [4403 – strfry() gives skewed distributions](https://sourceware.org/bugzilla/show_bug.cgi?id=4403#c14)
 * [2024-05-12, 15:23:53](https://lobste.rs/s/qjvt01/emacs_window_management_almanac) - [The Emacs Window Management Almanac](https://karthinks.com/software/emacs-window-management-almanac/)
 * [2024-05-12, 14:04:44](https://lobste.rs/s/evcbic/what_are_you_excited_about) - [What are you excited about?](https://lobste.rs/s/evcbic/what_are_you_excited_about)
 * [2024-05-12, 09:18:42](https://lobste.rs/s/dvzo0y/16_years_cve_2008_0166_debian_openssl_bug) - [16 years of CVE-2008-0166 - Debian OpenSSL Bug](https://16years.secvuln.info/)
