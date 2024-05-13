@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 21:38:10](https://lobste.rs/s/wohr3t/hurl_run_test_http_requests) - [Hurl - Run and Test HTTP Requests](https://hurl.dev/)
 * [2024-05-13, 21:09:50](https://lobste.rs/s/ekkk0m/google_zx_v8_1) - [google/zx v8.1](https://github.com/google/zx/releases/tag/8.1.0)
 * [2024-05-13, 20:43:47](https://lobste.rs/s/mggk2m/web_publishers_brace_for_carnage_as) - [Web publishers brace for carnage as Google adds AI answers](https://www.washingtonpost.com/technology/2024/05/13/google-ai-search-io-sge/)
 * [2024-05-13, 20:40:32](https://lobste.rs/s/87j8g6/exploring_gnu_extensions_linux_kernel) - [Exploring GNU extensions in the Linux kernel](https://maskray.me/blog/2024-05-12-exploring-gnu-extensions-in-linux-kernel)
