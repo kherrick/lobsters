@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-13, 15:32:27](https://lobste.rs/s/9f9fgu/windbg_time_travelling_debugger_is) - [WinDbg Time Travelling Debugger is Amazing Magic](https://www.forrestthewoods.com/blog/windbg-time-travelling-debugger-is-amazing-magic/)
+* [2024-05-13, 15:29:47](https://lobste.rs/s/awm4is/reconstructing_3ds_bootstrapping) - [Reconstructing the 3DS Bootstrapping Process at the Factory](https://blog.winter-software.com/2024/05/13/the-3ds-bootstrapping-process-at-the-factory)
 * [2024-05-13, 14:06:32](https://lobste.rs/s/ei6b3s/inside_cult_haskell_programmer) - [Inside the Cult of the Haskell Programmer](https://www.wired.com/story/inside-the-cult-of-the-haskell-programmer/)
 * [2024-05-13, 13:04:52](https://lobste.rs/s/ttyfuk/static_chess) - [Static Chess](https://www.val.town/v/maxm/staticChess)
 * [2024-05-13, 12:27:45](https://lobste.rs/s/iymifv/gnu_libtextstyle) - [GNU libtextstyle](https://www.gnu.org/software/gettext/libtextstyle/manual/libtextstyle.html)
@@ -10,7 +12,6 @@
 * [2024-05-13, 10:13:32](https://lobste.rs/s/tgikct/makext_gnu_make_as_task_runner) - [makext: GNU Make as a task runner](https://github.com/mitjafelicijan/makext)
 * [2024-05-13, 10:00:26](https://lobste.rs/s/dmp0op/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/dmp0op/what_are_you_doing_this_week)
 * [2024-05-13, 08:07:48](https://lobste.rs/s/tdvgsi/linus_torvalds_has_been_busy_building) - [Linus Torvalds has been busy building and testing the Ampere arm64 Linux kernel](https://lkml.org/lkml/2024/5/12/224)
-* [2024-05-13, 07:50:46](https://lobste.rs/s/poslly/zenver_post_modern_versioning_scheme) - [ZenVer: A post-modern versioning scheme that does not suck](https://github.com/NotAShelf/ZenVer/tree/main)
 * [2024-05-13, 07:46:43](https://lobste.rs/s/fq7k9k/ultimate_guide_haskell_strings) - [The ultimate guide to Haskell Strings](https://hasufell.github.io/posts/2024-05-07-ultimate-string-guide.html)
 * [2024-05-13, 07:28:41](https://lobste.rs/s/qzcopr/meilisearch_1_8) - [Meilisearch 1.8](https://blog.meilisearch.com/meilisearch-1-8/)
 * [2024-05-13, 03:30:44](https://lobste.rs/s/szvvuh/macrelix_unix_like_features_for_classic) - [MacRelix: Unix-like features for classic Mac OS](https://www.macrelix.org/)
@@ -18,7 +19,6 @@
 * [2024-05-13, 00:40:45](https://lobste.rs/s/ixodly/ipv6_prefix_lengths) - [IPv6 prefix lengths](https://www.potaroo.net/ispcol/2024-04/ipv6-prefixes.html)
 * [2024-05-12, 23:01:58](https://lobste.rs/s/cfongt/gpus_go_brrr) - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 * [2024-05-12, 22:50:33](https://lobste.rs/s/ucwplu/alternative_implementation_problem) - [The alternative implementation problem](https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/)
-* [2024-05-12, 20:27:05](https://lobste.rs/s/elqxyx/parsing_png_images_mojo) - [Parsing PNG images in Mojo](https://fnands.com/blog/2024/mojo-png-parsing/)
 * [2024-05-12, 17:20:21](https://lobste.rs/s/m1dlgq/4403_strfry_gives_skewed_distributions) - [4403 – strfry() gives skewed distributions](https://sourceware.org/bugzilla/show_bug.cgi?id=4403#c14)
 * [2024-05-12, 15:23:53](https://lobste.rs/s/qjvt01/emacs_window_management_almanac) - [The Emacs Window Management Almanac](https://karthinks.com/software/emacs-window-management-almanac/)
 * [2024-05-12, 14:06:53](https://lobste.rs/s/pmzl2i/garbage_collectors_are_scary) - [Garbage collectors are scary](https://www.enyo.de/fw/notes/garbage-collectors-are-scary.html)
