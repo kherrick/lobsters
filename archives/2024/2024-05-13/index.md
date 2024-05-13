@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 08:19:04](https://lobste.rs/s/bz9pcq/considering_switch_prometheus_vs) - [Considering a switch: Prometheus vs. VictoriaMetrics, any reasons to stick with Prometheus?](https://www.reddit.com/r/kubernetes/comments/1cpnzld/considering_a_switch_prometheus_vs)
+* [2024-05-13, 08:07:48](https://lobste.rs/s/tdvgsi/linus_torvalds_has_been_busy_building) - [Linus Torvalds has been busy building and testing the Ampere arm64 Linux kernel](https://lkml.org/lkml/2024/5/12/224)
 * [2024-05-13, 07:50:46](https://lobste.rs/s/poslly/zenver_post_modern_versioning_scheme) - [ZenVer: A post-modern versioning scheme that does not suck](https://github.com/NotAShelf/ZenVer/tree/main)
 * [2024-05-13, 07:46:43](https://lobste.rs/s/fq7k9k/ultimate_guide_haskell_strings) - [The ultimate guide to Haskell Strings](https://hasufell.github.io/posts/2024-05-07-ultimate-string-guide.html)
 * [2024-05-13, 07:28:41](https://lobste.rs/s/qzcopr/meilisearch_1_8) - [Meilisearch 1.8](https://blog.meilisearch.com/meilisearch-1-8/)
