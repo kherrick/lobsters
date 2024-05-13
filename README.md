@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-13, 11:01:43](https://lobste.rs/s/vanuvo/snip_snap) - [Snip Snap](https://peppe.rs/posts/snip_snap/)
 * [2024-05-13, 10:53:37](https://lobste.rs/s/ttjvp0/agda_core_dream_reality) - [Agda Core: The Dream and the Reality](https://jesper.cx/posts/agda-core.html)
 * [2024-05-13, 10:26:21](https://lobste.rs/s/gmodci/tuned_project_power_profiles_daemon) - [TuneD project (power-profiles-daemon replacement)](https://tuned-project.org/)
 * [2024-05-13, 10:13:32](https://lobste.rs/s/tgikct/makext_gnu_make_as_task_runner) - [makext: GNU Make as a task runner](https://github.com/mitjafelicijan/makext)
@@ -24,7 +25,6 @@
 * [2024-05-12, 07:30:46](https://lobste.rs/s/6ytneu/reference_counting_with_linear_types) - [Reference Counting with Linear Types](https://discourse.haskell.org/t/reference-counting-with-linear-types/9535?u=romes)
 * [2024-05-12, 07:06:42](https://lobste.rs/s/wyyizm/reactos_newsletter_104_april_may_news) - [ReactOS Newsletter 104 - April/May news](https://reactos.org/blogs/newsletter-104/)
 * [2024-05-11, 19:33:20](https://lobste.rs/s/ilsx4c/nerves_notes) - [Nerves Notes](https://wiki.alopex.li/NervesNotes)
-* [2024-05-11, 19:27:00](https://lobste.rs/s/6cjttw/exploring_c4_compiler) - [Exploring the c4... compiler?](https://registerspill.thorstenball.com/p/exploring-the-c4-compiler)
 
 ## [Archives](archives/index.md)
 
