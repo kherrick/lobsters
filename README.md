@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-13, 20:38:02](https://lobste.rs/s/yqhkts/amazon_s3_will_no_longer_charge_for) - [Amazon S3 will no longer charge for several HTTP error codes](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/)
 * [2024-05-13, 20:17:41](https://lobste.rs/s/z6hecw/effects_opening_move_selection_on) - [The Effects of Opening Move Selection on Investigation Speed](https://chrissanders.org/2016/09/effects-of-opening-move-investigation-speed/)
 * [2024-05-13, 20:15:22](https://lobste.rs/s/njchas/snappy_ui_optimization_with) - [Snappy UI Optimization with useDeferredValue](https://www.joshwcomeau.com/react/use-deferred-value/)
 * [2024-05-13, 18:56:09](https://lobste.rs/s/utsqyh/typescript_meets_api_design_microsoft_s) - [TypeScript Meets API Design in Microsoft's Game-Changing TypeSpec](https://thenewstack.io/typescript-meets-api-design-in-microsofts-game-changing-typespec/)
@@ -22,7 +23,6 @@
 * [2024-05-13, 00:40:45](https://lobste.rs/s/ixodly/ipv6_prefix_lengths) - [IPv6 prefix lengths](https://www.potaroo.net/ispcol/2024-04/ipv6-prefixes.html)
 * [2024-05-12, 23:01:58](https://lobste.rs/s/cfongt/gpus_go_brrr) - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 * [2024-05-12, 22:50:33](https://lobste.rs/s/ucwplu/alternative_implementation_problem) - [The alternative implementation problem](https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/)
-* [2024-05-12, 15:23:53](https://lobste.rs/s/qjvt01/emacs_window_management_almanac) - [The Emacs Window Management Almanac](https://karthinks.com/software/emacs-window-management-almanac/)
 * [2024-05-12, 14:04:44](https://lobste.rs/s/evcbic/what_are_you_excited_about) - [What are you excited about?](https://lobste.rs/s/evcbic/what_are_you_excited_about)
 * [2024-05-12, 09:18:42](https://lobste.rs/s/dvzo0y/16_years_cve_2008_0166_debian_openssl_bug) - [16 years of CVE-2008-0166 - Debian OpenSSL Bug](https://16years.secvuln.info/)
 

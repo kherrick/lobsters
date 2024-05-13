@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 20:38:02](https://lobste.rs/s/yqhkts/amazon_s3_will_no_longer_charge_for) - [Amazon S3 will no longer charge for several HTTP error codes](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/)
 * [2024-05-13, 20:17:41](https://lobste.rs/s/z6hecw/effects_opening_move_selection_on) - [The Effects of Opening Move Selection on Investigation Speed](https://chrissanders.org/2016/09/effects-of-opening-move-investigation-speed/)
 * [2024-05-13, 20:15:22](https://lobste.rs/s/njchas/snappy_ui_optimization_with) - [Snappy UI Optimization with useDeferredValue](https://www.joshwcomeau.com/react/use-deferred-value/)
 * [2024-05-13, 18:56:09](https://lobste.rs/s/utsqyh/typescript_meets_api_design_microsoft_s) - [TypeScript Meets API Design in Microsoft's Game-Changing TypeSpec](https://thenewstack.io/typescript-meets-api-design-in-microsofts-game-changing-typespec/)
