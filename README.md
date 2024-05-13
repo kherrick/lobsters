@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-13, 07:50:46](https://lobste.rs/s/poslly/zenver_post_modern_versioning_scheme) - [ZenVer: A post-modern versioning scheme that does not suck](https://github.com/NotAShelf/ZenVer/tree/main)
 * [2024-05-13, 07:46:43](https://lobste.rs/s/fq7k9k/ultimate_guide_haskell_strings) - [The ultimate guide to Haskell Strings](https://hasufell.github.io/posts/2024-05-07-ultimate-string-guide.html)
 * [2024-05-13, 07:28:41](https://lobste.rs/s/qzcopr/meilisearch_1_8) - [Meilisearch 1.8](https://blog.meilisearch.com/meilisearch-1-8/)
 * [2024-05-13, 03:30:44](https://lobste.rs/s/szvvuh/macrelix_unix_like_features_for_classic) - [MacRelix: Unix-like features for classic Mac OS](https://www.macrelix.org/)
@@ -24,7 +25,6 @@
 * [2024-05-12, 03:07:05](https://lobste.rs/s/rzaoxj/datalog_chain_forward_computation) - [Datalog, Chain-Forward Computation, and Relational Algebra](https://kmicinski.com/modern-deduction/2024/05/11/post-1.html)
 * [2024-05-11, 19:33:20](https://lobste.rs/s/ilsx4c/nerves_notes) - [Nerves Notes](https://wiki.alopex.li/NervesNotes)
 * [2024-05-11, 19:27:00](https://lobste.rs/s/6cjttw/exploring_c4_compiler) - [Exploring the c4... compiler?](https://registerspill.thorstenball.com/p/exploring-the-c4-compiler)
-* [2024-05-11, 17:55:48](https://lobste.rs/s/jrolq3/how_avoid_one_c_foot_gun) - [How to avoid one C++ foot gun](https://pboyd.io/posts/one-c++-footgun/)
 
 ## [Archives](archives/index.md)
 
