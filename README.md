@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-13, 07:28:41](https://lobste.rs/s/qzcopr/meilisearch_1_8) - [Meilisearch 1.8](https://blog.meilisearch.com/meilisearch-1-8/)
 * [2024-05-13, 03:30:44](https://lobste.rs/s/szvvuh/macrelix_unix_like_features_for_classic) - [MacRelix: Unix-like features for classic Mac OS](https://www.macrelix.org/)
 * [2024-05-13, 01:18:17](https://lobste.rs/s/cpsvrx/apple_vision_pro_has_same_effective) - [Apple Vision Pro has the same effective resolution as Quest 3…Sometimes? And there's not much app devs can do about it, yet](https://douevenknow.us/post/750217547284086784/apple-vision-pro-has-the-same-effective-resolution)
 * [2024-05-13, 00:40:45](https://lobste.rs/s/ixodly/ipv6_prefix_lengths) - [IPv6 prefix lengths](https://www.potaroo.net/ispcol/2024-04/ipv6-prefixes.html)
@@ -22,7 +23,6 @@
 * [2024-05-12, 03:07:05](https://lobste.rs/s/rzaoxj/datalog_chain_forward_computation) - [Datalog, Chain-Forward Computation, and Relational Algebra](https://kmicinski.com/modern-deduction/2024/05/11/post-1.html)
 * [2024-05-11, 19:33:20](https://lobste.rs/s/ilsx4c/nerves_notes) - [Nerves Notes](https://wiki.alopex.li/NervesNotes)
 * [2024-05-11, 19:27:00](https://lobste.rs/s/6cjttw/exploring_c4_compiler) - [Exploring the c4... compiler?](https://registerspill.thorstenball.com/p/exploring-the-c4-compiler)
-* [2024-05-11, 19:09:24](https://lobste.rs/s/fcypyt/migrating_bind9_dnssec_policy) - [Migrating to BIND9 dnssec-policy](https://dotat.at/@/2024-05-11-dnssec-policy.html)
 * [2024-05-11, 17:55:48](https://lobste.rs/s/jrolq3/how_avoid_one_c_foot_gun) - [How to avoid one C++ foot gun](https://pboyd.io/posts/one-c++-footgun/)
 * [2024-05-11, 01:53:57](https://lobste.rs/s/gozdlo/debian_s_keepassxc_package_has_removed) - [Debian's KeePassXC package has removed many features](https://fosstodon.org/@keepassxc/112417353193348720)
 
