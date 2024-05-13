@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-13, 14:06:32](https://lobste.rs/s/ei6b3s/inside_cult_haskell_programmer) - [Inside the Cult of the Haskell Programmer](https://www.wired.com/story/inside-the-cult-of-the-haskell-programmer/)
 * [2024-05-13, 13:04:52](https://lobste.rs/s/ttyfuk/static_chess) - [Static Chess](https://www.val.town/v/maxm/staticChess)
 * [2024-05-13, 12:27:45](https://lobste.rs/s/iymifv/gnu_libtextstyle) - [GNU libtextstyle](https://www.gnu.org/software/gettext/libtextstyle/manual/libtextstyle.html)
 * [2024-05-13, 11:35:51](https://lobste.rs/s/lvkh95/llms_data_control_path_insecurity) - [LLMs’ Data-Control Path Insecurity](https://www.schneier.com/blog/archives/2024/05/llms-data-control-path-insecurity.html)
@@ -15,7 +16,6 @@
 * [2024-05-13, 03:30:44](https://lobste.rs/s/szvvuh/macrelix_unix_like_features_for_classic) - [MacRelix: Unix-like features for classic Mac OS](https://www.macrelix.org/)
 * [2024-05-13, 01:18:17](https://lobste.rs/s/cpsvrx/apple_vision_pro_has_same_effective) - [Apple Vision Pro has the same effective resolution as Quest 3…Sometimes? And there's not much app devs can do about it, yet](https://douevenknow.us/post/750217547284086784/apple-vision-pro-has-the-same-effective-resolution)
 * [2024-05-13, 00:40:45](https://lobste.rs/s/ixodly/ipv6_prefix_lengths) - [IPv6 prefix lengths](https://www.potaroo.net/ispcol/2024-04/ipv6-prefixes.html)
-* [2024-05-13, 00:12:28](https://lobste.rs/s/01xss0/readability_optimized_kotlin_code) - [Readability of optimized Kotlin code](https://www.romainguy.dev/posts/2024/readability-of-optimized-kotlin-code/)
 * [2024-05-12, 23:01:58](https://lobste.rs/s/cfongt/gpus_go_brrr) - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 * [2024-05-12, 22:50:33](https://lobste.rs/s/ucwplu/alternative_implementation_problem) - [The alternative implementation problem](https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/)
 * [2024-05-12, 20:27:05](https://lobste.rs/s/elqxyx/parsing_png_images_mojo) - [Parsing PNG images in Mojo](https://fnands.com/blog/2024/mojo-png-parsing/)

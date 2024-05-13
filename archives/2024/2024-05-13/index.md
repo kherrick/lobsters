@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 14:06:32](https://lobste.rs/s/ei6b3s/inside_cult_haskell_programmer) - [Inside the Cult of the Haskell Programmer](https://www.wired.com/story/inside-the-cult-of-the-haskell-programmer/)
 * [2024-05-13, 13:04:52](https://lobste.rs/s/ttyfuk/static_chess) - [Static Chess](https://www.val.town/v/maxm/staticChess)
 * [2024-05-13, 12:27:45](https://lobste.rs/s/iymifv/gnu_libtextstyle) - [GNU libtextstyle](https://www.gnu.org/software/gettext/libtextstyle/manual/libtextstyle.html)
 * [2024-05-13, 11:35:51](https://lobste.rs/s/lvkh95/llms_data_control_path_insecurity) - [LLMs’ Data-Control Path Insecurity](https://www.schneier.com/blog/archives/2024/05/llms-data-control-path-insecurity.html)
