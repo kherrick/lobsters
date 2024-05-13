@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2024-05-13, 11:35:51",
+      "https://lobste.rs/s/lvkh95/llms_data_control_path_insecurity"
+    ],
+    [
+      "LLMs’ Data-Control Path Insecurity",
+      "https://www.schneier.com/blog/archives/2024/05/llms-data-control-path-insecurity.html"
+    ]
+  ],
+  [
+    [
       "2024-05-13, 11:01:43",
       "https://lobste.rs/s/vanuvo/snip_snap"
     ],
@@ -207,16 +217,6 @@
     [
       "The alternative implementation problem",
       "https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/"
-    ]
-  ],
-  [
-    [
-      "2024-05-12, 17:20:21",
-      "https://lobste.rs/s/m1dlgq/4403_strfry_gives_skewed_distributions"
-    ],
-    [
-      "4403 – strfry() gives skewed distributions",
-      "https://sourceware.org/bugzilla/show_bug.cgi?id=4403#c14"
     ]
   ],
   [
