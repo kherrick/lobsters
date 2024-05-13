@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 23:45:19](https://lobste.rs/s/4cil42/indexeddb_as_vector_database) - [IndexedDB as a Vector Database](https://paul.kinlan.me/idb-as-a-vector-database/)
 * [2024-05-13, 22:09:38](https://lobste.rs/s/eslpei/references_are_like_jumps) - [References are like jumps](https://without.boats/blog/references-are-like-jumps/)
 * [2024-05-13, 22:04:35](https://lobste.rs/s/ad1iwg/curiously_quiet_cloud_computer) - [The Curiously Quiet Cloud Computer](https://youtube.com/watch?v=bYcgPRIWf6I)
 * [2024-05-13, 21:58:52](https://lobste.rs/s/e8elzd/webkit_features_safari_17_5) - [WebKit Features in Safari 17.5](https://webkit.org/blog/15383/webkit-features-in-safari-17-5/)
