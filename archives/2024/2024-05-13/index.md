@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 16:14:59](https://lobste.rs/s/elj5qw/unix_version_control_lore_what_ident_tony) - [Unix version control lore: what, ident – Tony Finch](https://dotat.at/@/2024-05-13-what-ident.html)
 * [2024-05-13, 15:32:27](https://lobste.rs/s/9f9fgu/windbg_time_travelling_debugger_is) - [WinDbg Time Travelling Debugger is Amazing Magic](https://www.forrestthewoods.com/blog/windbg-time-travelling-debugger-is-amazing-magic/)
 * [2024-05-13, 15:29:47](https://lobste.rs/s/awm4is/reconstructing_3ds_bootstrapping) - [Reconstructing the 3DS Bootstrapping Process at the Factory](https://blog.winter-software.com/2024/05/13/the-3ds-bootstrapping-process-at-the-factory)
 * [2024-05-13, 14:06:32](https://lobste.rs/s/ei6b3s/inside_cult_haskell_programmer) - [Inside the Cult of the Haskell Programmer](https://www.wired.com/story/inside-the-cult-of-the-haskell-programmer/)
