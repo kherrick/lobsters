@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-13, 12:27:45",
+      "https://lobste.rs/s/iymifv/gnu_libtextstyle"
+    ],
+    [
+      "GNU libtextstyle",
+      "https://www.gnu.org/software/gettext/libtextstyle/manual/libtextstyle.html"
+    ]
+  ],
+  [
+    [
       "2024-05-13, 11:35:51",
       "https://lobste.rs/s/lvkh95/llms_data_control_path_insecurity"
     ],
@@ -237,16 +247,6 @@
     [
       "Reference Counting with Linear Types",
       "https://discourse.haskell.org/t/reference-counting-with-linear-types/9535?u=romes"
-    ]
-  ],
-  [
-    [
-      "2024-05-11, 19:33:20",
-      "https://lobste.rs/s/ilsx4c/nerves_notes"
-    ],
-    [
-      "Nerves Notes",
-      "https://wiki.alopex.li/NervesNotes"
     ]
   ]
 ]
