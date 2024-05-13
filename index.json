@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-13, 20:38:02",
+      "https://lobste.rs/s/yqhkts/amazon_s3_will_no_longer_charge_for"
+    ],
+    [
+      "Amazon S3 will no longer charge for several HTTP error codes",
+      "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/"
+    ]
+  ],
+  [
+    [
       "2024-05-13, 20:17:41",
       "https://lobste.rs/s/z6hecw/effects_opening_move_selection_on"
     ],
@@ -217,16 +227,6 @@
     [
       "The alternative implementation problem",
       "https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/"
-    ]
-  ],
-  [
-    [
-      "2024-05-12, 15:23:53",
-      "https://lobste.rs/s/qjvt01/emacs_window_management_almanac"
-    ],
-    [
-      "The Emacs Window Management Almanac",
-      "https://karthinks.com/software/emacs-window-management-almanac/"
     ]
   ],
   [
