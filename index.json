@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-13, 10:53:37",
+      "https://lobste.rs/s/ttjvp0/agda_core_dream_reality"
+    ],
+    [
+      "Agda Core: The Dream and the Reality",
+      "https://jesper.cx/posts/agda-core.html"
+    ]
+  ],
+  [
+    [
       "2024-05-13, 10:26:21",
       "https://lobste.rs/s/gmodci/tuned_project_power_profiles_daemon"
     ],
@@ -27,16 +37,6 @@
     [
       "What are you doing this week?",
       "https://lobste.rs/s/dmp0op/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 08:19:04",
-      "https://lobste.rs/s/bz9pcq/considering_switch_prometheus_vs"
-    ],
-    [
-      "Considering a switch: Prometheus vs. VictoriaMetrics, any reasons to stick with Prometheus?",
-      "https://www.reddit.com/r/kubernetes/comments/1cpnzld/considering_a_switch_prometheus_vs"
     ]
   ],
   [
