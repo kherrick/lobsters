@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-13, 20:17:41](https://lobste.rs/s/z6hecw/effects_opening_move_selection_on) - [The Effects of Opening Move Selection on Investigation Speed](https://chrissanders.org/2016/09/effects-of-opening-move-investigation-speed/)
+* [2024-05-13, 20:15:22](https://lobste.rs/s/njchas/snappy_ui_optimization_with) - [Snappy UI Optimization with useDeferredValue](https://www.joshwcomeau.com/react/use-deferred-value/)
 * [2024-05-13, 18:56:09](https://lobste.rs/s/utsqyh/typescript_meets_api_design_microsoft_s) - [TypeScript Meets API Design in Microsoft's Game-Changing TypeSpec](https://thenewstack.io/typescript-meets-api-design-in-microsofts-game-changing-typespec/)
 * [2024-05-13, 17:40:36](https://lobste.rs/s/ph5o0a/openai_gpt_4o) - [OpenAI GPT-4o](https://openai.com/index/hello-gpt-4o/)
 * [2024-05-13, 17:37:11](https://lobste.rs/s/fsembd/recent_docker_buildkit_features_you_re) - [Recent Docker BuildKit Features You're Missing Out On](https://martinheinz.dev/blog/111)
@@ -8,10 +10,8 @@
 * [2024-05-13, 15:32:27](https://lobste.rs/s/9f9fgu/windbg_time_travelling_debugger_is) - [WinDbg Time Travelling Debugger is Amazing Magic](https://www.forrestthewoods.com/blog/windbg-time-travelling-debugger-is-amazing-magic/)
 * [2024-05-13, 15:29:47](https://lobste.rs/s/awm4is/reconstructing_3ds_bootstrapping) - [Reconstructing the 3DS Bootstrapping Process at the Factory](https://blog.winter-software.com/2024/05/13/the-3ds-bootstrapping-process-at-the-factory)
 * [2024-05-13, 13:04:52](https://lobste.rs/s/ttyfuk/static_chess) - [Static Chess](https://www.val.town/v/maxm/staticChess)
-* [2024-05-13, 11:35:51](https://lobste.rs/s/lvkh95/llms_data_control_path_insecurity) - [LLMs’ Data-Control Path Insecurity](https://www.schneier.com/blog/archives/2024/05/llms-data-control-path-insecurity.html)
 * [2024-05-13, 11:01:43](https://lobste.rs/s/vanuvo/snip_snap) - [Snip Snap](https://peppe.rs/posts/snip_snap/)
 * [2024-05-13, 10:53:37](https://lobste.rs/s/ttjvp0/agda_core_dream_reality) - [Agda Core: The Dream and the Reality](https://jesper.cx/posts/agda-core.html)
-* [2024-05-13, 10:26:21](https://lobste.rs/s/gmodci/tuned_project_power_profiles_daemon) - [TuneD project (power-profiles-daemon replacement)](https://tuned-project.org/)
 * [2024-05-13, 10:13:32](https://lobste.rs/s/tgikct/makext_gnu_make_as_task_runner) - [makext: GNU Make as a task runner](https://github.com/mitjafelicijan/makext)
 * [2024-05-13, 10:00:26](https://lobste.rs/s/dmp0op/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/dmp0op/what_are_you_doing_this_week)
 * [2024-05-13, 08:07:48](https://lobste.rs/s/tdvgsi/linus_torvalds_has_been_busy_building) - [Linus Torvalds has been busy building and testing the Ampere arm64 Linux kernel](https://lkml.org/lkml/2024/5/12/224)

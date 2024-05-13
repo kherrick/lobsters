@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 20:17:41](https://lobste.rs/s/z6hecw/effects_opening_move_selection_on) - [The Effects of Opening Move Selection on Investigation Speed](https://chrissanders.org/2016/09/effects-of-opening-move-investigation-speed/)
+* [2024-05-13, 20:15:22](https://lobste.rs/s/njchas/snappy_ui_optimization_with) - [Snappy UI Optimization with useDeferredValue](https://www.joshwcomeau.com/react/use-deferred-value/)
 * [2024-05-13, 18:56:09](https://lobste.rs/s/utsqyh/typescript_meets_api_design_microsoft_s) - [TypeScript Meets API Design in Microsoft's Game-Changing TypeSpec](https://thenewstack.io/typescript-meets-api-design-in-microsofts-game-changing-typespec/)
 * [2024-05-13, 17:40:36](https://lobste.rs/s/ph5o0a/openai_gpt_4o) - [OpenAI GPT-4o](https://openai.com/index/hello-gpt-4o/)
 * [2024-05-13, 17:37:11](https://lobste.rs/s/fsembd/recent_docker_buildkit_features_you_re) - [Recent Docker BuildKit Features You're Missing Out On](https://martinheinz.dev/blog/111)
