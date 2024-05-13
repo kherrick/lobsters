@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-13, 07:46:43",
+      "https://lobste.rs/s/fq7k9k/ultimate_guide_haskell_strings"
+    ],
+    [
+      "The ultimate guide to Haskell Strings",
+      "https://hasufell.github.io/posts/2024-05-07-ultimate-string-guide.html"
+    ]
+  ],
+  [
+    [
       "2024-05-13, 07:28:41",
       "https://lobste.rs/s/qzcopr/meilisearch_1_8"
     ],
@@ -237,16 +247,6 @@
     [
       "How to avoid one C++ foot gun",
       "https://pboyd.io/posts/one-c++-footgun/"
-    ]
-  ],
-  [
-    [
-      "2024-05-11, 01:53:57",
-      "https://lobste.rs/s/gozdlo/debian_s_keepassxc_package_has_removed"
-    ],
-    [
-      "Debian's KeePassXC package has removed many features",
-      "https://fosstodon.org/@keepassxc/112417353193348720"
     ]
   ]
 ]
