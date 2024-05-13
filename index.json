@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2024-05-13, 14:06:32",
-      "https://lobste.rs/s/ei6b3s/inside_cult_haskell_programmer"
-    ],
-    [
-      "Inside the Cult of the Haskell Programmer",
-      "https://www.wired.com/story/inside-the-cult-of-the-haskell-programmer/"
-    ]
-  ],
-  [
-    [
       "2024-05-13, 13:04:52",
       "https://lobste.rs/s/ttyfuk/static_chess"
     ],
@@ -217,6 +207,16 @@
     [
       "The alternative implementation problem",
       "https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/"
+    ]
+  ],
+  [
+    [
+      "2024-05-12, 17:20:21",
+      "https://lobste.rs/s/m1dlgq/4403_strfry_gives_skewed_distributions"
+    ],
+    [
+      "4403 – strfry() gives skewed distributions",
+      "https://sourceware.org/bugzilla/show_bug.cgi?id=4403#c14"
     ]
   ],
   [
