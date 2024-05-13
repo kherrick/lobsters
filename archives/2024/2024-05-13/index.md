@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 10:53:37](https://lobste.rs/s/ttjvp0/agda_core_dream_reality) - [Agda Core: The Dream and the Reality](https://jesper.cx/posts/agda-core.html)
 * [2024-05-13, 10:26:21](https://lobste.rs/s/gmodci/tuned_project_power_profiles_daemon) - [TuneD project (power-profiles-daemon replacement)](https://tuned-project.org/)
 * [2024-05-13, 10:13:32](https://lobste.rs/s/tgikct/makext_gnu_make_as_task_runner) - [makext: GNU Make as a task runner](https://github.com/mitjafelicijan/makext)
 * [2024-05-13, 10:00:26](https://lobste.rs/s/dmp0op/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/dmp0op/what_are_you_doing_this_week)
