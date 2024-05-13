@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-13, 10:26:21",
+      "https://lobste.rs/s/gmodci/tuned_project_power_profiles_daemon"
+    ],
+    [
+      "TuneD project (power-profiles-daemon replacement)",
+      "https://tuned-project.org/"
+    ]
+  ],
+  [
+    [
+      "2024-05-13, 10:13:32",
+      "https://lobste.rs/s/tgikct/makext_gnu_make_as_task_runner"
+    ],
+    [
+      "makext: GNU Make as a task runner",
+      "https://github.com/mitjafelicijan/makext"
+    ]
+  ],
+  [
+    [
       "2024-05-13, 10:00:26",
       "https://lobste.rs/s/dmp0op/what_are_you_doing_this_week"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-05-12, 12:06:18",
-      "https://lobste.rs/s/7ns4bz/can_gcc_use_clang_as_its_assembler"
-    ],
-    [
-      "Can GCC use Clang as its assembler?",
-      "https://briancallahan.net/blog/20240122.html"
-    ]
-  ],
-  [
-    [
       "2024-05-12, 09:18:42",
       "https://lobste.rs/s/dvzo0y/16_years_cve_2008_0166_debian_openssl_bug"
     ],
@@ -217,16 +227,6 @@
     [
       "ReactOS Newsletter 104 - April/May news",
       "https://reactos.org/blogs/newsletter-104/"
-    ]
-  ],
-  [
-    [
-      "2024-05-12, 03:07:05",
-      "https://lobste.rs/s/rzaoxj/datalog_chain_forward_computation"
-    ],
-    [
-      "Datalog, Chain-Forward Computation, and Relational Algebra",
-      "https://kmicinski.com/modern-deduction/2024/05/11/post-1.html"
     ]
   ],
   [
