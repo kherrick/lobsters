@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-05-13, 23:45:19](https://lobste.rs/s/4cil42/indexeddb_as_vector_database) - [IndexedDB as a Vector Database](https://paul.kinlan.me/idb-as-a-vector-database/)
 * [2024-05-13, 22:09:38](https://lobste.rs/s/eslpei/references_are_like_jumps) - [References are like jumps](https://without.boats/blog/references-are-like-jumps/)
 * [2024-05-13, 21:58:52](https://lobste.rs/s/e8elzd/webkit_features_safari_17_5) - [WebKit Features in Safari 17.5](https://webkit.org/blog/15383/webkit-features-in-safari-17-5/)
 * [2024-05-13, 21:38:10](https://lobste.rs/s/wohr3t/hurl_run_test_http_requests) - [Hurl - Run and Test HTTP Requests](https://hurl.dev/)
@@ -21,6 +20,7 @@
 * [2024-05-13, 10:00:26](https://lobste.rs/s/dmp0op/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/dmp0op/what_are_you_doing_this_week)
 * [2024-05-13, 08:07:48](https://lobste.rs/s/tdvgsi/linus_torvalds_has_been_busy_building) - [Linus Torvalds has been busy building and testing the Ampere arm64 Linux kernel](https://lkml.org/lkml/2024/5/12/224)
 * [2024-05-13, 07:46:43](https://lobste.rs/s/fq7k9k/ultimate_guide_haskell_strings) - [The ultimate guide to Haskell Strings](https://hasufell.github.io/posts/2024-05-07-ultimate-string-guide.html)
+* [2024-05-13, 07:28:41](https://lobste.rs/s/qzcopr/meilisearch_1_8) - [Meilisearch 1.8](https://blog.meilisearch.com/meilisearch-1-8/)
 * [2024-05-13, 01:18:17](https://lobste.rs/s/cpsvrx/apple_vision_pro_has_same_effective) - [Apple Vision Pro has the same effective resolution as Quest 3…Sometimes? And there's not much app devs can do about it, yet](https://douevenknow.us/post/750217547284086784/apple-vision-pro-has-the-same-effective-resolution)
 * [2024-05-12, 23:01:58](https://lobste.rs/s/cfongt/gpus_go_brrr) - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 * [2024-05-12, 22:50:33](https://lobste.rs/s/ucwplu/alternative_implementation_problem) - [The alternative implementation problem](https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/)
