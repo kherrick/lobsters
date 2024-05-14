@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-14, 23:24:48](https://lobste.rs/s/hoyf2p/arch_linux_ports) - [Arch Linux Ports](https://rfc.archlinux.page/0032-arch-linux-ports/)
 * [2024-05-14, 21:28:00](https://lobste.rs/s/858y39/going_cinema_is_data_visualization) - [Going to the cinema is a data visualization problem](https://tonsky.me/blog/allekinos/)
 * [2024-05-14, 20:42:58](https://lobste.rs/s/sk0ozr/understanding_container_image_layers) - [Understanding Container Image Layers](https://www.kenmuse.com/blog/understanding-container-image-layers/)
 * [2024-05-14, 19:26:33](https://lobste.rs/s/8z7rfv/reversing_choplifter_blondihacks) - [Reversing Choplifter – Blondihacks](https://blondihacks.com/reversing-choplifter/)
@@ -19,7 +20,6 @@
 * [2024-05-14, 07:04:41](https://lobste.rs/s/8gftwj/using_arg_dockerfile_beware_gotcha) - [Using ARG in a Dockerfile - beware the gotcha](https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/)
 * [2024-05-14, 06:45:34](https://lobste.rs/s/mebxps/mixing_rayon_tokio_for_fun_hair_loss) - [Mixing rayon and tokio for fun and (hair) loss](https://blog.dureuill.net/articles/dont-mix-rayon-tokio/)
 * [2024-05-13, 22:09:38](https://lobste.rs/s/eslpei/references_are_like_jumps) - [References are like jumps](https://without.boats/blog/references-are-like-jumps/)
-* [2024-05-13, 21:38:10](https://lobste.rs/s/wohr3t/hurl_run_test_http_requests) - [Hurl - Run and Test HTTP Requests](https://hurl.dev/)
 * [2024-05-13, 20:38:02](https://lobste.rs/s/yqhkts/amazon_s3_will_no_longer_charge_for) - [Amazon S3 will no longer charge for several HTTP error codes](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/)
 * [2024-05-13, 17:40:36](https://lobste.rs/s/ph5o0a/openai_gpt_4o) - [OpenAI GPT-4o](https://openai.com/index/hello-gpt-4o/)
 * [2024-05-13, 16:14:59](https://lobste.rs/s/elj5qw/unix_version_control_lore_what_ident) - [Unix version control lore: what, ident](https://dotat.at/@/2024-05-13-what-ident.html)

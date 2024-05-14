@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 23:24:48](https://lobste.rs/s/hoyf2p/arch_linux_ports) - [Arch Linux Ports](https://rfc.archlinux.page/0032-arch-linux-ports/)
 * [2024-05-14, 21:51:14](https://lobste.rs/s/t5gfez/cradle_simpler_haskell_process_library) - [cradle: a simpler Haskell process library](https://garnix.io/blog/announcing-cradle)
 * [2024-05-14, 21:28:00](https://lobste.rs/s/858y39/going_cinema_is_data_visualization) - [Going to the cinema is a data visualization problem](https://tonsky.me/blog/allekinos/)
 * [2024-05-14, 21:10:58](https://lobste.rs/s/bh9lhf/1001_representations_syntax_with) - [1001 Representations of Syntax with Binding (comparison table) (2021)](https://jesper.cx/posts/1001-syntax-representations.html)
