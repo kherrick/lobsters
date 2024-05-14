@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 07:30:52](https://lobste.rs/s/zs11pc/when_split_patches_for_postgresql) - [When to split patches (for PostgreSQL)](http://peter.eisentraut.org/blog/2024/05/14/when-to-split-patches-for-postgresql)
 * [2024-05-14, 07:04:41](https://lobste.rs/s/8gftwj/using_arg_dockerfile_beware_gotcha) - [Using ARG in a Dockerfile - beware the gotcha](https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/)
 * [2024-05-14, 06:45:34](https://lobste.rs/s/mebxps/mixing_rayon_tokio_for_fun_hair_loss) - [Mixing rayon and tokio for fun and (hair) loss](https://blog.dureuill.net/articles/dont-mix-rayon-tokio/)
 * [2024-05-14, 04:56:10](https://lobste.rs/s/simfpp/mojo_deep_dive_on_ownership) - [Mojo: a deep dive on ownership](https://www.youtube.com/watch?v=9ag0fPMmYPQ)

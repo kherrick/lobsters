@@ -1,8 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-14, 07:30:52](https://lobste.rs/s/zs11pc/when_split_patches_for_postgresql) - [When to split patches (for PostgreSQL)](http://peter.eisentraut.org/blog/2024/05/14/when-to-split-patches-for-postgresql)
 * [2024-05-14, 07:04:41](https://lobste.rs/s/8gftwj/using_arg_dockerfile_beware_gotcha) - [Using ARG in a Dockerfile - beware the gotcha](https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/)
 * [2024-05-14, 06:45:34](https://lobste.rs/s/mebxps/mixing_rayon_tokio_for_fun_hair_loss) - [Mixing rayon and tokio for fun and (hair) loss](https://blog.dureuill.net/articles/dont-mix-rayon-tokio/)
 * [2024-05-14, 04:56:10](https://lobste.rs/s/simfpp/mojo_deep_dive_on_ownership) - [Mojo: a deep dive on ownership](https://www.youtube.com/watch?v=9ag0fPMmYPQ)
+* [2024-05-14, 03:52:29](https://lobste.rs/s/onkdbs/wxwidgets_3_2_5_released) - [wxWidgets 3.2.5 Released](https://www.wxwidgets.org/news/2024/05/wxwidgets-3.2.5-released/)
 * [2024-05-14, 01:55:53](https://lobste.rs/s/k5zj7n/password_cracking_past_present_future) - [Password cracking: past, present, future (OffensiveCon 2024)](https://www.openwall.com/presentations/OffensiveCon2024-Password-Cracking/)
 * [2024-05-13, 22:09:38](https://lobste.rs/s/eslpei/references_are_like_jumps) - [References are like jumps](https://without.boats/blog/references-are-like-jumps/)
 * [2024-05-13, 22:04:35](https://lobste.rs/s/ad1iwg/curiously_quiet_cloud_computer) - [The Curiously Quiet Cloud Computer](https://youtube.com/watch?v=bYcgPRIWf6I)
@@ -20,9 +22,7 @@
 * [2024-05-13, 11:01:43](https://lobste.rs/s/vanuvo/snip_snap) - [Snip Snap](https://peppe.rs/posts/snip_snap/)
 * [2024-05-13, 10:53:37](https://lobste.rs/s/ttjvp0/agda_core_dream_reality) - [Agda Core: The Dream and the Reality](https://jesper.cx/posts/agda-core.html)
 * [2024-05-13, 10:13:32](https://lobste.rs/s/tgikct/makext_gnu_make_as_task_runner) - [makext: GNU Make as a task runner](https://github.com/mitjafelicijan/makext)
-* [2024-05-13, 10:00:26](https://lobste.rs/s/dmp0op/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/dmp0op/what_are_you_doing_this_week)
 * [2024-05-13, 08:07:48](https://lobste.rs/s/tdvgsi/linus_torvalds_has_been_busy_building) - [Linus Torvalds has been busy building and testing the Ampere arm64 Linux kernel](https://lkml.org/lkml/2024/5/12/224)
-* [2024-05-13, 01:18:17](https://lobste.rs/s/cpsvrx/apple_vision_pro_has_same_effective) - [Apple Vision Pro has the same effective resolution as Quest 3…Sometimes? And there's not much app devs can do about it, yet](https://douevenknow.us/post/750217547284086784/apple-vision-pro-has-the-same-effective-resolution)
 * [2024-05-12, 22:50:33](https://lobste.rs/s/ucwplu/alternative_implementation_problem) - [The alternative implementation problem](https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/)
 * [2024-05-12, 14:04:44](https://lobste.rs/s/evcbic/what_are_you_excited_about) - [What are you excited about?](https://lobste.rs/s/evcbic/what_are_you_excited_about)
 
