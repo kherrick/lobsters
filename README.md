@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-14, 10:56:17](https://lobste.rs/s/ijafx5/sequel_structured_english_query) - [SEQUEL: a structured English query language (May 1974)](https://dl.acm.org/doi/10.1145/800296.811515)
 * [2024-05-14, 10:44:51](https://lobste.rs/s/hosb07/on_surprising_connection_between_magic) - [On the surprising connection between the magic HyperLoglog and DNSSEC NSEC3](https://berthub.eu/hypernsec3/)
 * [2024-05-14, 10:43:12](https://lobste.rs/s/b8jnfc/what_factors_explain_nature_software) - [What Factors Explain the Nature of Software?](https://tratt.net/laurie/blog/2024/what_factors_explain_the_nature_of_software.html)
 * [2024-05-14, 10:42:52](https://lobste.rs/s/pccfrh/git_merge_2024_september_19_20_2024_berlin) - [Git Merge 2024, September 19-20, 2024, Berlin](https://lore.kernel.org/git/Zj0JyL1b+g1G3zWx@nand.local/T/#u)
@@ -10,7 +11,6 @@
 * [2024-05-14, 07:30:52](https://lobste.rs/s/zs11pc/when_split_patches_for_postgresql) - [When to split patches (for PostgreSQL)](http://peter.eisentraut.org/blog/2024/05/14/when-to-split-patches-for-postgresql)
 * [2024-05-14, 07:04:41](https://lobste.rs/s/8gftwj/using_arg_dockerfile_beware_gotcha) - [Using ARG in a Dockerfile - beware the gotcha](https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/)
 * [2024-05-14, 06:45:34](https://lobste.rs/s/mebxps/mixing_rayon_tokio_for_fun_hair_loss) - [Mixing rayon and tokio for fun and (hair) loss](https://blog.dureuill.net/articles/dont-mix-rayon-tokio/)
-* [2024-05-14, 04:56:10](https://lobste.rs/s/simfpp/mojo_deep_dive_on_ownership) - [Mojo: a deep dive on ownership](https://www.youtube.com/watch?v=9ag0fPMmYPQ)
 * [2024-05-14, 01:55:53](https://lobste.rs/s/k5zj7n/password_cracking_past_present_future) - [Password cracking: past, present, future (OffensiveCon 2024)](https://www.openwall.com/presentations/OffensiveCon2024-Password-Cracking/)
 * [2024-05-13, 22:09:38](https://lobste.rs/s/eslpei/references_are_like_jumps) - [References are like jumps](https://without.boats/blog/references-are-like-jumps/)
 * [2024-05-13, 21:58:52](https://lobste.rs/s/e8elzd/webkit_features_safari_17_5) - [WebKit Features in Safari 17.5](https://webkit.org/blog/15383/webkit-features-in-safari-17-5/)

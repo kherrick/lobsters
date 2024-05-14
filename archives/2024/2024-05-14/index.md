@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 10:56:17](https://lobste.rs/s/ijafx5/sequel_structured_english_query) - [SEQUEL: a structured English query language (May 1974)](https://dl.acm.org/doi/10.1145/800296.811515)
 * [2024-05-14, 10:44:51](https://lobste.rs/s/hosb07/on_surprising_connection_between_magic) - [On the surprising connection between the magic HyperLoglog and DNSSEC NSEC3](https://berthub.eu/hypernsec3/)
 * [2024-05-14, 10:43:12](https://lobste.rs/s/b8jnfc/what_factors_explain_nature_software) - [What Factors Explain the Nature of Software?](https://tratt.net/laurie/blog/2024/what_factors_explain_the_nature_of_software.html)
 * [2024-05-14, 10:42:52](https://lobste.rs/s/pccfrh/git_merge_2024_september_19_20_2024_berlin) - [Git Merge 2024, September 19-20, 2024, Berlin](https://lore.kernel.org/git/Zj0JyL1b+g1G3zWx@nand.local/T/#u)
