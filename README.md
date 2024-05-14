@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-14, 06:45:34](https://lobste.rs/s/mebxps/mixing_rayon_tokio_for_fun_hair_loss) - [Mixing rayon and tokio for fun and (hair) loss](https://blog.dureuill.net/articles/dont-mix-rayon-tokio/)
 * [2024-05-14, 04:56:10](https://lobste.rs/s/simfpp/mojo_deep_dive_on_ownership) - [Mojo: a deep dive on ownership](https://www.youtube.com/watch?v=9ag0fPMmYPQ)
 * [2024-05-14, 03:52:29](https://lobste.rs/s/onkdbs/wxwidgets_3_2_5_released) - [wxWidgets 3.2.5 Released](https://www.wxwidgets.org/news/2024/05/wxwidgets-3.2.5-released/)
 * [2024-05-14, 01:55:53](https://lobste.rs/s/k5zj7n/password_cracking_past_present_future) - [Password cracking: past, present, future (OffensiveCon 2024)](https://www.openwall.com/presentations/OffensiveCon2024-Password-Cracking/)
@@ -15,7 +16,6 @@
 * [2024-05-13, 16:30:15](https://lobste.rs/s/2ke5fa/slint_1_6_released_with_design_mode) - [Slint 1.6 Released with Design Mode Improvements, Python Packages, and Enhanced Accessibility](https://slint.dev/blog/slint-1.6-released)
 * [2024-05-13, 16:14:59](https://lobste.rs/s/elj5qw/unix_version_control_lore_what_ident) - [Unix version control lore: what, ident](https://dotat.at/@/2024-05-13-what-ident.html)
 * [2024-05-13, 15:32:27](https://lobste.rs/s/9f9fgu/windbg_time_travelling_debugger_is) - [WinDbg Time Travelling Debugger is Amazing Magic](https://www.forrestthewoods.com/blog/windbg-time-travelling-debugger-is-amazing-magic/)
-* [2024-05-13, 15:29:47](https://lobste.rs/s/awm4is/reconstructing_3ds_bootstrapping) - [Reconstructing the 3DS Bootstrapping Process at the Factory](https://blog.winter-software.com/2024/05/13/the-3ds-bootstrapping-process-at-the-factory)
 * [2024-05-13, 13:04:52](https://lobste.rs/s/ttyfuk/static_chess) - [Static Chess](https://www.val.town/v/maxm/staticChess)
 * [2024-05-13, 11:01:43](https://lobste.rs/s/vanuvo/snip_snap) - [Snip Snap](https://peppe.rs/posts/snip_snap/)
 * [2024-05-13, 10:53:37](https://lobste.rs/s/ttjvp0/agda_core_dream_reality) - [Agda Core: The Dream and the Reality](https://jesper.cx/posts/agda-core.html)
