@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 10:44:51](https://lobste.rs/s/hosb07/on_surprising_connection_between_magic) - [On the surprising connection between the magic HyperLoglog and DNSSEC NSEC3](https://berthub.eu/hypernsec3/)
+* [2024-05-14, 10:43:12](https://lobste.rs/s/b8jnfc/what_factors_explain_nature_software) - [What Factors Explain the Nature of Software?](https://tratt.net/laurie/blog/2024/what_factors_explain_the_nature_of_software.html)
+* [2024-05-14, 10:42:52](https://lobste.rs/s/pccfrh/git_merge_2024_september_19_20_2024_berlin) - [Git Merge 2024, September 19-20, 2024, Berlin](https://lore.kernel.org/git/Zj0JyL1b+g1G3zWx@nand.local/T/#u)
+* [2024-05-14, 10:41:35](https://lobste.rs/s/tdmgkd/dependabot_core_is_now_open_source_with) - [dependabot-core is now open source with an MIT license](https://github.blog/changelog/2024-05-13-dependabot-core-is-now-open-source-with-an-mit-license/)
 * [2024-05-14, 10:41:00](https://lobste.rs/s/vslryp/linux_kernel_is_constexpr_macro) - [The Linux kernel __is_constexpr macro](https://stackoverflow.com/questions/49481217/linux-kernels-is-constexpr-macro)
 * [2024-05-14, 08:34:40](https://lobste.rs/s/k6grem/state_html_2023) - [State of HTML 2023](https://2023.stateofhtml.com/en-US/)
 * [2024-05-14, 07:48:33](https://lobste.rs/s/05vks5/bye_opam_hello_nix) - [Bye Opam, Hello Nix](https://priver.dev/blog/ocaml/bye-opam-hello-nix/)
