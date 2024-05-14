@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-14, 01:55:53",
+      "https://lobste.rs/s/k5zj7n/password_cracking_past_present_future"
+    ],
+    [
+      "Password cracking: past, present, future (OffensiveCon 2024)",
+      "https://www.openwall.com/presentations/OffensiveCon2024-Password-Cracking/"
+    ]
+  ],
+  [
+    [
       "2024-05-13, 22:09:38",
       "https://lobste.rs/s/eslpei/references_are_like_jumps"
     ],
@@ -197,16 +207,6 @@
     [
       "The ultimate guide to Haskell Strings",
       "https://hasufell.github.io/posts/2024-05-07-ultimate-string-guide.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 07:28:41",
-      "https://lobste.rs/s/qzcopr/meilisearch_1_8"
-    ],
-    [
-      "Meilisearch 1.8",
-      "https://blog.meilisearch.com/meilisearch-1-8/"
     ]
   ],
   [
