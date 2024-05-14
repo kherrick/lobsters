@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-14, 12:43:56",
+      "https://lobste.rs/s/rzbhku/snapshot_testing_for_masses"
+    ],
+    [
+      "Snapshot Testing For the Masses",
+      "https://tigerbeetle.com/blog/2024-05-14-snapshot-testing-for-the-masses"
+    ]
+  ],
+  [
+    [
       "2024-05-14, 12:12:06",
       "https://lobste.rs/s/ee8v8p/before_you_try_change_something_make_sure"
     ],
@@ -37,16 +47,6 @@
     [
       "SEQUEL: a structured English query language (May 1974)",
       "https://dl.acm.org/doi/10.1145/800296.811515"
-    ]
-  ],
-  [
-    [
-      "2024-05-14, 10:44:51",
-      "https://lobste.rs/s/hosb07/on_surprising_connection_between_magic"
-    ],
-    [
-      "On the surprising connection between the magic HyperLoglog and DNSSEC NSEC3",
-      "https://berthub.eu/hypernsec3/"
     ]
   ],
   [
