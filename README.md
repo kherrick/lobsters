@@ -2,6 +2,7 @@
 
 * [2024-05-14, 14:50:00](https://lobste.rs/s/tvq3m7/using_cuelang_with_go_for_extracting) - [Using Cuelang With Go for extracting structured data from LLMs](https://cybernetist.com/2024/05/13/using-cuelang-with-go-for-llm-data-extraction/)
 * [2024-05-14, 14:00:58](https://lobste.rs/s/ubxfen/peek_into_build_provenance_for_homebrew) - [A peek into build provenance for Homebrew](https://blog.trailofbits.com/2024/05/14/a-peek-into-build-provenance-for-homebrew/)
+* [2024-05-14, 13:40:46](https://lobste.rs/s/jpykem/higher_raii_seven_arcane_uses_linear) - [Higher RAII, and the Seven Arcane Uses of Linear Types](https://verdagon.dev/blog/higher-raii-uses-linear-types)
 * [2024-05-14, 13:07:19](https://lobste.rs/s/uoprsr/how_bad_is_llvm_really) - [How bad is LLVM really?](https://c3.handmade.network/blog/p/8852-how_bad_is_llvm_really)
 * [2024-05-14, 12:43:56](https://lobste.rs/s/rzbhku/snapshot_testing_for_masses) - [Snapshot Testing For the Masses](https://tigerbeetle.com/blog/2024-05-14-snapshot-testing-for-the-masses)
 * [2024-05-14, 12:12:06](https://lobste.rs/s/ee8v8p/before_you_try_change_something_make_sure) - [Before you try to change something, make sure you can change nothing](https://devblogs.microsoft.com/oldnewthing/20240513-00/?p=109750)
@@ -18,7 +19,6 @@
 * [2024-05-13, 21:58:52](https://lobste.rs/s/e8elzd/webkit_features_safari_17_5) - [WebKit Features in Safari 17.5](https://webkit.org/blog/15383/webkit-features-in-safari-17-5/)
 * [2024-05-13, 21:38:10](https://lobste.rs/s/wohr3t/hurl_run_test_http_requests) - [Hurl - Run and Test HTTP Requests](https://hurl.dev/)
 * [2024-05-13, 20:38:02](https://lobste.rs/s/yqhkts/amazon_s3_will_no_longer_charge_for) - [Amazon S3 will no longer charge for several HTTP error codes](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/)
-* [2024-05-13, 20:15:22](https://lobste.rs/s/njchas/snappy_ui_optimization_with) - [Snappy UI Optimization with useDeferredValue](https://www.joshwcomeau.com/react/use-deferred-value/)
 * [2024-05-13, 17:40:36](https://lobste.rs/s/ph5o0a/openai_gpt_4o) - [OpenAI GPT-4o](https://openai.com/index/hello-gpt-4o/)
 * [2024-05-13, 17:37:11](https://lobste.rs/s/fsembd/recent_docker_buildkit_features_you_re) - [Recent Docker BuildKit Features You're Missing Out On](https://martinheinz.dev/blog/111)
 * [2024-05-13, 16:14:59](https://lobste.rs/s/elj5qw/unix_version_control_lore_what_ident) - [Unix version control lore: what, ident](https://dotat.at/@/2024-05-13-what-ident.html)
