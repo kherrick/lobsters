@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-14, 10:41:00",
+      "https://lobste.rs/s/vslryp/linux_kernel_is_constexpr_macro"
+    ],
+    [
+      "The Linux kernel __is_constexpr macro",
+      "https://stackoverflow.com/questions/49481217/linux-kernels-is-constexpr-macro"
+    ]
+  ],
+  [
+    [
       "2024-05-14, 08:34:40",
       "https://lobste.rs/s/k6grem/state_html_2023"
     ],
@@ -57,16 +67,6 @@
     [
       "Mojo: a deep dive on ownership",
       "https://www.youtube.com/watch?v=9ag0fPMmYPQ"
-    ]
-  ],
-  [
-    [
-      "2024-05-14, 03:52:29",
-      "https://lobste.rs/s/onkdbs/wxwidgets_3_2_5_released"
-    ],
-    [
-      "wxWidgets 3.2.5 Released",
-      "https://www.wxwidgets.org/news/2024/05/wxwidgets-3.2.5-released/"
     ]
   ],
   [
