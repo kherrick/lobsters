@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 18:39:49](https://lobste.rs/s/ytv4ch/new_apt_3_0_solver) - [The new APT 3.0 solver](https://blog.jak-linux.org/2024/05/14/solver3/)
 * [2024-05-14, 16:45:34](https://lobste.rs/s/2ybbzw/blazingly_fast_linked_lists) - [Blazingly Fast Linked Lists](https://dygalo.dev/blog/blazingly-fast-linked-lists/)
 * [2024-05-14, 15:36:49](https://lobste.rs/s/vnn0eo/ecmascript_modules_plugin_for_mdxeditor) - [ECMAScript modules plugin for MDXEditor](https://github.com/arihantverma/mdx-editor-plugin-esm)
 * [2024-05-14, 14:50:00](https://lobste.rs/s/tvq3m7/using_cuelang_with_go_for_extracting) - [Using Cuelang With Go for extracting structured data from LLMs](https://cybernetist.com/2024/05/13/using-cuelang-with-go-for-llm-data-extraction/)

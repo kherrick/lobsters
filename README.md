@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-14, 18:39:49](https://lobste.rs/s/ytv4ch/new_apt_3_0_solver) - [The new APT 3.0 solver](https://blog.jak-linux.org/2024/05/14/solver3/)
 * [2024-05-14, 16:45:34](https://lobste.rs/s/2ybbzw/blazingly_fast_linked_lists) - [Blazingly Fast Linked Lists](https://dygalo.dev/blog/blazingly-fast-linked-lists/)
 * [2024-05-14, 15:36:49](https://lobste.rs/s/vnn0eo/ecmascript_modules_plugin_for_mdxeditor) - [ECMAScript modules plugin for MDXEditor](https://github.com/arihantverma/mdx-editor-plugin-esm)
 * [2024-05-14, 14:50:00](https://lobste.rs/s/tvq3m7/using_cuelang_with_go_for_extracting) - [Using Cuelang With Go for extracting structured data from LLMs](https://cybernetist.com/2024/05/13/using-cuelang-with-go-for-llm-data-extraction/)
@@ -14,7 +15,6 @@
 * [2024-05-14, 10:41:35](https://lobste.rs/s/tdmgkd/dependabot_core_is_now_open_source_with) - [dependabot-core is now open source with an MIT license](https://github.blog/changelog/2024-05-13-dependabot-core-is-now-open-source-with-an-mit-license/)
 * [2024-05-14, 08:34:40](https://lobste.rs/s/k6grem/state_html_2023) - [State of HTML 2023](https://2023.stateofhtml.com/en-US/)
 * [2024-05-14, 07:48:33](https://lobste.rs/s/05vks5/bye_opam_hello_nix) - [Bye Opam, Hello Nix](https://priver.dev/blog/ocaml/bye-opam-hello-nix/)
-* [2024-05-14, 07:30:52](https://lobste.rs/s/zs11pc/when_split_patches_for_postgresql) - [When to split patches (for PostgreSQL)](http://peter.eisentraut.org/blog/2024/05/14/when-to-split-patches-for-postgresql)
 * [2024-05-14, 07:04:41](https://lobste.rs/s/8gftwj/using_arg_dockerfile_beware_gotcha) - [Using ARG in a Dockerfile - beware the gotcha](https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/)
 * [2024-05-14, 06:45:34](https://lobste.rs/s/mebxps/mixing_rayon_tokio_for_fun_hair_loss) - [Mixing rayon and tokio for fun and (hair) loss](https://blog.dureuill.net/articles/dont-mix-rayon-tokio/)
 * [2024-05-13, 22:09:38](https://lobste.rs/s/eslpei/references_are_like_jumps) - [References are like jumps](https://without.boats/blog/references-are-like-jumps/)
