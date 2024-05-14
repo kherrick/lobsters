@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-14, 14:50:00",
+      "https://lobste.rs/s/tvq3m7/using_cuelang_with_go_for_extracting"
+    ],
+    [
+      "Using Cuelang With Go for extracting structured data from LLMs",
+      "https://cybernetist.com/2024/05/13/using-cuelang-with-go-for-llm-data-extraction/"
+    ]
+  ],
+  [
+    [
       "2024-05-14, 14:00:58",
       "https://lobste.rs/s/ubxfen/peek_into_build_provenance_for_homebrew"
     ],
@@ -67,16 +77,6 @@
     [
       "What Factors Explain the Nature of Software?",
       "https://tratt.net/laurie/blog/2024/what_factors_explain_the_nature_of_software.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-14, 10:42:52",
-      "https://lobste.rs/s/pccfrh/git_merge_2024_september_19_20_2024_berlin"
-    ],
-    [
-      "Git Merge 2024, September 19-20, 2024, Berlin",
-      "https://lore.kernel.org/git/Zj0JyL1b+g1G3zWx@nand.local/T/#u"
     ]
   ],
   [
