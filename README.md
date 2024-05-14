@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-14, 13:40:46](https://lobste.rs/s/jpykem/higher_raii_seven_arcane_uses_linear) - [Higher RAII, and the Seven Arcane Uses of Linear Types](https://verdagon.dev/blog/higher-raii-uses-linear-types)
 * [2024-05-14, 13:07:19](https://lobste.rs/s/uoprsr/how_bad_is_llvm_really) - [How bad is LLVM really?](https://c3.handmade.network/blog/p/8852-how_bad_is_llvm_really)
 * [2024-05-14, 12:43:56](https://lobste.rs/s/rzbhku/snapshot_testing_for_masses) - [Snapshot Testing For the Masses](https://tigerbeetle.com/blog/2024-05-14-snapshot-testing-for-the-masses)
 * [2024-05-14, 12:12:06](https://lobste.rs/s/ee8v8p/before_you_try_change_something_make_sure) - [Before you try to change something, make sure you can change nothing](https://devblogs.microsoft.com/oldnewthing/20240513-00/?p=109750)
@@ -20,7 +21,6 @@
 * [2024-05-13, 17:40:36](https://lobste.rs/s/ph5o0a/openai_gpt_4o) - [OpenAI GPT-4o](https://openai.com/index/hello-gpt-4o/)
 * [2024-05-13, 17:37:11](https://lobste.rs/s/fsembd/recent_docker_buildkit_features_you_re) - [Recent Docker BuildKit Features You're Missing Out On](https://martinheinz.dev/blog/111)
 * [2024-05-13, 16:14:59](https://lobste.rs/s/elj5qw/unix_version_control_lore_what_ident) - [Unix version control lore: what, ident](https://dotat.at/@/2024-05-13-what-ident.html)
-* [2024-05-13, 15:32:27](https://lobste.rs/s/9f9fgu/windbg_time_travelling_debugger_is) - [WinDbg Time Travelling Debugger is Amazing Magic](https://www.forrestthewoods.com/blog/windbg-time-travelling-debugger-is-amazing-magic/)
 * [2024-05-13, 13:04:52](https://lobste.rs/s/ttyfuk/static_chess) - [Static Chess](https://www.val.town/v/maxm/staticChess)
 * [2024-05-13, 11:01:43](https://lobste.rs/s/vanuvo/snip_snap) - [Snip Snap](https://peppe.rs/posts/snip_snap/)
 * [2024-05-13, 10:13:32](https://lobste.rs/s/tgikct/makext_gnu_make_as_task_runner) - [makext: GNU Make as a task runner](https://github.com/mitjafelicijan/makext)
