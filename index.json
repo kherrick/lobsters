@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-05-14, 13:40:46",
+      "https://lobste.rs/s/jpykem/higher_raii_seven_arcane_uses_linear"
+    ],
+    [
+      "Higher RAII, and the Seven Arcane Uses of Linear Types",
+      "https://verdagon.dev/blog/higher-raii-uses-linear-types"
+    ]
+  ],
+  [
+    [
       "2024-05-14, 13:07:19",
       "https://lobste.rs/s/uoprsr/how_bad_is_llvm_really"
     ],
@@ -177,16 +187,6 @@
     [
       "Amazon S3 will no longer charge for several HTTP error codes",
       "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 20:15:22",
-      "https://lobste.rs/s/njchas/snappy_ui_optimization_with"
-    ],
-    [
-      "Snappy UI Optimization with useDeferredValue",
-      "https://www.joshwcomeau.com/react/use-deferred-value/"
     ]
   ],
   [
