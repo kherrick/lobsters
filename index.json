@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-14, 10:56:17",
+      "https://lobste.rs/s/ijafx5/sequel_structured_english_query"
+    ],
+    [
+      "SEQUEL: a structured English query language (May 1974)",
+      "https://dl.acm.org/doi/10.1145/800296.811515"
+    ]
+  ],
+  [
+    [
       "2024-05-14, 10:44:51",
       "https://lobste.rs/s/hosb07/on_surprising_connection_between_magic"
     ],
@@ -97,16 +107,6 @@
     [
       "Mixing rayon and tokio for fun and (hair) loss",
       "https://blog.dureuill.net/articles/dont-mix-rayon-tokio/"
-    ]
-  ],
-  [
-    [
-      "2024-05-14, 04:56:10",
-      "https://lobste.rs/s/simfpp/mojo_deep_dive_on_ownership"
-    ],
-    [
-      "Mojo: a deep dive on ownership",
-      "https://www.youtube.com/watch?v=9ag0fPMmYPQ"
     ]
   ],
   [
