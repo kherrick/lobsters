@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-14, 20:09:13",
+      "https://lobste.rs/s/9fpapo/bellard_proxy_open_source_ai_wearable"
+    ],
+    [
+      "Bellard Proxy : Open source AI wearable",
+      "https://github.com/MurageKibicho/Bellard"
+    ]
+  ],
+  [
+    [
       "2024-05-14, 19:26:33",
       "https://lobste.rs/s/8z7rfv/reversing_choplifter_blondihacks"
     ],
@@ -57,16 +67,6 @@
     [
       "A peek into build provenance for Homebrew",
       "https://blog.trailofbits.com/2024/05/14/a-peek-into-build-provenance-for-homebrew/"
-    ]
-  ],
-  [
-    [
-      "2024-05-14, 13:40:46",
-      "https://lobste.rs/s/jpykem/higher_raii_seven_arcane_uses_linear"
-    ],
-    [
-      "Higher RAII, and the Seven Arcane Uses of Linear Types",
-      "https://verdagon.dev/blog/higher-raii-uses-linear-types"
     ]
   ],
   [
