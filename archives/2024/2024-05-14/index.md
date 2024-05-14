@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 14:50:00](https://lobste.rs/s/tvq3m7/using_cuelang_with_go_for_extracting) - [Using Cuelang With Go for extracting structured data from LLMs](https://cybernetist.com/2024/05/13/using-cuelang-with-go-for-llm-data-extraction/)
 * [2024-05-14, 14:00:58](https://lobste.rs/s/ubxfen/peek_into_build_provenance_for_homebrew) - [A peek into build provenance for Homebrew](https://blog.trailofbits.com/2024/05/14/a-peek-into-build-provenance-for-homebrew/)
 * [2024-05-14, 13:40:46](https://lobste.rs/s/jpykem/higher_raii_seven_arcane_uses_linear) - [Higher RAII, and the Seven Arcane Uses of Linear Types](https://verdagon.dev/blog/higher-raii-uses-linear-types)
 * [2024-05-14, 13:07:19](https://lobste.rs/s/uoprsr/how_bad_is_llvm_really) - [How bad is LLVM really?](https://c3.handmade.network/blog/p/8852-how_bad_is_llvm_really)

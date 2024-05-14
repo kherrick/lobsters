@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-14, 14:50:00](https://lobste.rs/s/tvq3m7/using_cuelang_with_go_for_extracting) - [Using Cuelang With Go for extracting structured data from LLMs](https://cybernetist.com/2024/05/13/using-cuelang-with-go-for-llm-data-extraction/)
 * [2024-05-14, 14:00:58](https://lobste.rs/s/ubxfen/peek_into_build_provenance_for_homebrew) - [A peek into build provenance for Homebrew](https://blog.trailofbits.com/2024/05/14/a-peek-into-build-provenance-for-homebrew/)
 * [2024-05-14, 13:07:19](https://lobste.rs/s/uoprsr/how_bad_is_llvm_really) - [How bad is LLVM really?](https://c3.handmade.network/blog/p/8852-how_bad_is_llvm_really)
 * [2024-05-14, 12:43:56](https://lobste.rs/s/rzbhku/snapshot_testing_for_masses) - [Snapshot Testing For the Masses](https://tigerbeetle.com/blog/2024-05-14-snapshot-testing-for-the-masses)
@@ -7,7 +8,6 @@
 * [2024-05-14, 11:07:01](https://lobste.rs/s/79kl1i/why_patching_globals_is_harmful) - [Why Patching Globals Is Harmful](https://kettanaito.com/blog/why-patching-globals-is-harmful)
 * [2024-05-14, 10:56:17](https://lobste.rs/s/ijafx5/sequel_structured_english_query) - [SEQUEL: a structured English query language (May 1974)](https://dl.acm.org/doi/10.1145/800296.811515)
 * [2024-05-14, 10:43:12](https://lobste.rs/s/b8jnfc/what_factors_explain_nature_software) - [What Factors Explain the Nature of Software?](https://tratt.net/laurie/blog/2024/what_factors_explain_the_nature_of_software.html)
-* [2024-05-14, 10:42:52](https://lobste.rs/s/pccfrh/git_merge_2024_september_19_20_2024_berlin) - [Git Merge 2024, September 19-20, 2024, Berlin](https://lore.kernel.org/git/Zj0JyL1b+g1G3zWx@nand.local/T/#u)
 * [2024-05-14, 10:41:35](https://lobste.rs/s/tdmgkd/dependabot_core_is_now_open_source_with) - [dependabot-core is now open source with an MIT license](https://github.blog/changelog/2024-05-13-dependabot-core-is-now-open-source-with-an-mit-license/)
 * [2024-05-14, 08:34:40](https://lobste.rs/s/k6grem/state_html_2023) - [State of HTML 2023](https://2023.stateofhtml.com/en-US/)
 * [2024-05-14, 07:48:33](https://lobste.rs/s/05vks5/bye_opam_hello_nix) - [Bye Opam, Hello Nix](https://priver.dev/blog/ocaml/bye-opam-hello-nix/)
