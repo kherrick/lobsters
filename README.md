@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-14, 21:10:58](https://lobste.rs/s/bh9lhf/1001_representations_syntax_with) - [1001 Representations of Syntax with Binding (comparison table) (2021)](https://jesper.cx/posts/1001-syntax-representations.html)
 * [2024-05-14, 20:09:13](https://lobste.rs/s/9fpapo/bellard_proxy_open_source_ai_wearable) - [Bellard Proxy : Open source AI wearable](https://github.com/MurageKibicho/Bellard)
 * [2024-05-14, 19:26:33](https://lobste.rs/s/8z7rfv/reversing_choplifter_blondihacks) - [Reversing Choplifter – Blondihacks](https://blondihacks.com/reversing-choplifter/)
 * [2024-05-14, 18:39:49](https://lobste.rs/s/ytv4ch/new_apt_3_0_solver) - [The new APT 3.0 solver](https://blog.jak-linux.org/2024/05/14/solver3/)
 * [2024-05-14, 16:45:34](https://lobste.rs/s/2ybbzw/blazingly_fast_linked_lists) - [Blazingly Fast Linked Lists](https://dygalo.dev/blog/blazingly-fast-linked-lists/)
-* [2024-05-14, 15:36:49](https://lobste.rs/s/vnn0eo/ecmascript_modules_plugin_for_mdxeditor) - [ECMAScript modules plugin for MDXEditor](https://github.com/arihantverma/mdx-editor-plugin-esm)
 * [2024-05-14, 14:50:00](https://lobste.rs/s/tvq3m7/using_cuelang_with_go_for_extracting) - [Using Cuelang With Go for extracting structured data from LLMs](https://cybernetist.com/2024/05/13/using-cuelang-with-go-for-llm-data-extraction/)
 * [2024-05-14, 14:00:58](https://lobste.rs/s/ubxfen/peek_into_build_provenance_for_homebrew) - [A peek into build provenance for Homebrew](https://blog.trailofbits.com/2024/05/14/a-peek-into-build-provenance-for-homebrew/)
 * [2024-05-14, 13:40:46](https://lobste.rs/s/jpykem/higher_raii_seven_arcane_uses_linear) - [Higher RAII, and the Seven Arcane Uses of Linear Types](https://verdagon.dev/blog/higher-raii-uses-linear-types)
