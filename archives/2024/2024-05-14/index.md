@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 10:41:00](https://lobste.rs/s/vslryp/linux_kernel_is_constexpr_macro) - [The Linux kernel __is_constexpr macro](https://stackoverflow.com/questions/49481217/linux-kernels-is-constexpr-macro)
 * [2024-05-14, 08:34:40](https://lobste.rs/s/k6grem/state_html_2023) - [State of HTML 2023](https://2023.stateofhtml.com/en-US/)
 * [2024-05-14, 07:48:33](https://lobste.rs/s/05vks5/bye_opam_hello_nix) - [Bye Opam, Hello Nix](https://priver.dev/blog/ocaml/bye-opam-hello-nix/)
 * [2024-05-14, 07:30:52](https://lobste.rs/s/zs11pc/when_split_patches_for_postgresql) - [When to split patches (for PostgreSQL)](http://peter.eisentraut.org/blog/2024/05/14/when-to-split-patches-for-postgresql)
