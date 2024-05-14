@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-14, 13:07:19](https://lobste.rs/s/uoprsr/how_bad_is_llvm_really) - [How bad is LLVM really?](https://c3.handmade.network/blog/p/8852-how_bad_is_llvm_really)
 * [2024-05-14, 12:43:56](https://lobste.rs/s/rzbhku/snapshot_testing_for_masses) - [Snapshot Testing For the Masses](https://tigerbeetle.com/blog/2024-05-14-snapshot-testing-for-the-masses)
 * [2024-05-14, 12:12:06](https://lobste.rs/s/ee8v8p/before_you_try_change_something_make_sure) - [Before you try to change something, make sure you can change nothing](https://devblogs.microsoft.com/oldnewthing/20240513-00/?p=109750)
-* [2024-05-14, 11:20:11](https://lobste.rs/s/cpyl8x/lego_rodin_s_thinker) - [LEGO Rodin's Thinker](https://www.andrewlipson.com/thinker/index.html)
 * [2024-05-14, 11:07:01](https://lobste.rs/s/79kl1i/why_patching_globals_is_harmful) - [Why Patching Globals Is Harmful](https://kettanaito.com/blog/why-patching-globals-is-harmful)
 * [2024-05-14, 10:56:17](https://lobste.rs/s/ijafx5/sequel_structured_english_query) - [SEQUEL: a structured English query language (May 1974)](https://dl.acm.org/doi/10.1145/800296.811515)
 * [2024-05-14, 10:43:12](https://lobste.rs/s/b8jnfc/what_factors_explain_nature_software) - [What Factors Explain the Nature of Software?](https://tratt.net/laurie/blog/2024/what_factors_explain_the_nature_of_software.html)

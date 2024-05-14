@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 13:07:19](https://lobste.rs/s/uoprsr/how_bad_is_llvm_really) - [How bad is LLVM really?](https://c3.handmade.network/blog/p/8852-how_bad_is_llvm_really)
 * [2024-05-14, 12:43:56](https://lobste.rs/s/rzbhku/snapshot_testing_for_masses) - [Snapshot Testing For the Masses](https://tigerbeetle.com/blog/2024-05-14-snapshot-testing-for-the-masses)
 * [2024-05-14, 12:12:06](https://lobste.rs/s/ee8v8p/before_you_try_change_something_make_sure) - [Before you try to change something, make sure you can change nothing](https://devblogs.microsoft.com/oldnewthing/20240513-00/?p=109750)
 * [2024-05-14, 11:20:11](https://lobste.rs/s/cpyl8x/lego_rodin_s_thinker) - [LEGO Rodin's Thinker](https://www.andrewlipson.com/thinker/index.html)
