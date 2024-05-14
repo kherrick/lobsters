@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 11:20:11](https://lobste.rs/s/cpyl8x/lego_rodin_s_thinker) - [LEGO Rodin's Thinker](https://www.andrewlipson.com/thinker/index.html)
 * [2024-05-14, 11:07:01](https://lobste.rs/s/79kl1i/why_patching_globals_is_harmful) - [Why Patching Globals Is Harmful](https://kettanaito.com/blog/why-patching-globals-is-harmful)
 * [2024-05-14, 10:56:17](https://lobste.rs/s/ijafx5/sequel_structured_english_query) - [SEQUEL: a structured English query language (May 1974)](https://dl.acm.org/doi/10.1145/800296.811515)
 * [2024-05-14, 10:44:51](https://lobste.rs/s/hosb07/on_surprising_connection_between_magic) - [On the surprising connection between the magic HyperLoglog and DNSSEC NSEC3](https://berthub.eu/hypernsec3/)

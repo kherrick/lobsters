@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-14, 11:20:11](https://lobste.rs/s/cpyl8x/lego_rodin_s_thinker) - [LEGO Rodin's Thinker](https://www.andrewlipson.com/thinker/index.html)
 * [2024-05-14, 11:07:01](https://lobste.rs/s/79kl1i/why_patching_globals_is_harmful) - [Why Patching Globals Is Harmful](https://kettanaito.com/blog/why-patching-globals-is-harmful)
 * [2024-05-14, 10:56:17](https://lobste.rs/s/ijafx5/sequel_structured_english_query) - [SEQUEL: a structured English query language (May 1974)](https://dl.acm.org/doi/10.1145/800296.811515)
 * [2024-05-14, 10:44:51](https://lobste.rs/s/hosb07/on_surprising_connection_between_magic) - [On the surprising connection between the magic HyperLoglog and DNSSEC NSEC3](https://berthub.eu/hypernsec3/)
@@ -11,7 +12,6 @@
 * [2024-05-14, 07:30:52](https://lobste.rs/s/zs11pc/when_split_patches_for_postgresql) - [When to split patches (for PostgreSQL)](http://peter.eisentraut.org/blog/2024/05/14/when-to-split-patches-for-postgresql)
 * [2024-05-14, 07:04:41](https://lobste.rs/s/8gftwj/using_arg_dockerfile_beware_gotcha) - [Using ARG in a Dockerfile - beware the gotcha](https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/)
 * [2024-05-14, 06:45:34](https://lobste.rs/s/mebxps/mixing_rayon_tokio_for_fun_hair_loss) - [Mixing rayon and tokio for fun and (hair) loss](https://blog.dureuill.net/articles/dont-mix-rayon-tokio/)
-* [2024-05-14, 01:55:53](https://lobste.rs/s/k5zj7n/password_cracking_past_present_future) - [Password cracking: past, present, future (OffensiveCon 2024)](https://www.openwall.com/presentations/OffensiveCon2024-Password-Cracking/)
 * [2024-05-13, 22:09:38](https://lobste.rs/s/eslpei/references_are_like_jumps) - [References are like jumps](https://without.boats/blog/references-are-like-jumps/)
 * [2024-05-13, 21:58:52](https://lobste.rs/s/e8elzd/webkit_features_safari_17_5) - [WebKit Features in Safari 17.5](https://webkit.org/blog/15383/webkit-features-in-safari-17-5/)
 * [2024-05-13, 21:38:10](https://lobste.rs/s/wohr3t/hurl_run_test_http_requests) - [Hurl - Run and Test HTTP Requests](https://hurl.dev/)
