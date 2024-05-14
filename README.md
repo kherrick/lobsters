@@ -8,6 +8,7 @@
 * [2024-05-14, 10:56:17](https://lobste.rs/s/ijafx5/sequel_structured_english_query) - [SEQUEL: a structured English query language (May 1974)](https://dl.acm.org/doi/10.1145/800296.811515)
 * [2024-05-14, 10:43:12](https://lobste.rs/s/b8jnfc/what_factors_explain_nature_software) - [What Factors Explain the Nature of Software?](https://tratt.net/laurie/blog/2024/what_factors_explain_the_nature_of_software.html)
 * [2024-05-14, 10:42:52](https://lobste.rs/s/pccfrh/git_merge_2024_september_19_20_2024_berlin) - [Git Merge 2024, September 19-20, 2024, Berlin](https://lore.kernel.org/git/Zj0JyL1b+g1G3zWx@nand.local/T/#u)
+* [2024-05-14, 10:41:35](https://lobste.rs/s/tdmgkd/dependabot_core_is_now_open_source_with) - [dependabot-core is now open source with an MIT license](https://github.blog/changelog/2024-05-13-dependabot-core-is-now-open-source-with-an-mit-license/)
 * [2024-05-14, 08:34:40](https://lobste.rs/s/k6grem/state_html_2023) - [State of HTML 2023](https://2023.stateofhtml.com/en-US/)
 * [2024-05-14, 07:48:33](https://lobste.rs/s/05vks5/bye_opam_hello_nix) - [Bye Opam, Hello Nix](https://priver.dev/blog/ocaml/bye-opam-hello-nix/)
 * [2024-05-14, 07:30:52](https://lobste.rs/s/zs11pc/when_split_patches_for_postgresql) - [When to split patches (for PostgreSQL)](http://peter.eisentraut.org/blog/2024/05/14/when-to-split-patches-for-postgresql)
@@ -23,7 +24,6 @@
 * [2024-05-13, 16:14:59](https://lobste.rs/s/elj5qw/unix_version_control_lore_what_ident) - [Unix version control lore: what, ident](https://dotat.at/@/2024-05-13-what-ident.html)
 * [2024-05-13, 13:04:52](https://lobste.rs/s/ttyfuk/static_chess) - [Static Chess](https://www.val.town/v/maxm/staticChess)
 * [2024-05-13, 11:01:43](https://lobste.rs/s/vanuvo/snip_snap) - [Snip Snap](https://peppe.rs/posts/snip_snap/)
-* [2024-05-13, 10:13:32](https://lobste.rs/s/tgikct/makext_gnu_make_as_task_runner) - [makext: GNU Make as a task runner](https://github.com/mitjafelicijan/makext)
 * [2024-05-13, 08:07:48](https://lobste.rs/s/tdvgsi/linus_torvalds_has_been_busy_building) - [Linus Torvalds has been busy building and testing the Ampere arm64 Linux kernel](https://lkml.org/lkml/2024/5/12/224)
 
 ## [Archives](archives/index.md)
