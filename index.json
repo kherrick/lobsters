@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-05-14, 23:24:48",
-      "https://lobste.rs/s/hoyf2p/arch_linux_ports"
+      "2024-05-14, 23:39:33",
+      "https://lobste.rs/s/rfjg3l/add_sysctl_disable_nagle_s_algorithm_rfc"
     ],
     [
-      "Arch Linux Ports",
-      "https://rfc.archlinux.page/0032-arch-linux-ports/"
+      "Add sysctl to disable Nagle's algorithm (RFC 896 - Congestion Control)",
+      "https://marc.info/?l=openbsd-tech&m=171562561424289&w=2"
     ]
   ],
   [
