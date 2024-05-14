@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 21:28:00](https://lobste.rs/s/858y39/going_cinema_is_data_visualization) - [Going to the cinema is a data visualization problem](https://tonsky.me/blog/allekinos/)
 * [2024-05-14, 21:10:58](https://lobste.rs/s/bh9lhf/1001_representations_syntax_with) - [1001 Representations of Syntax with Binding (comparison table) (2021)](https://jesper.cx/posts/1001-syntax-representations.html)
 * [2024-05-14, 20:09:13](https://lobste.rs/s/9fpapo/bellard_proxy_open_source_ai_wearable) - [Bellard Proxy : Open source AI wearable](https://github.com/MurageKibicho/Bellard)
 * [2024-05-14, 19:26:33](https://lobste.rs/s/8z7rfv/reversing_choplifter_blondihacks) - [Reversing Choplifter – Blondihacks](https://blondihacks.com/reversing-choplifter/)
