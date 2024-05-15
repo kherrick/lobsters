@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2024-05-15, 08:48:30",
-      "https://lobste.rs/s/ejlyyz/another_chrome_vulnerability"
-    ],
-    [
-      "Another Chrome vulnerability - Dissection of yesterday's zero day bug",
-      "https://www.schneier.com/blog/archives/2024/05/another-chrome-vulnerability.html"
-    ]
-  ],
-  [
-    [
       "2024-05-15, 08:12:26",
       "https://lobste.rs/s/lnav33/ok_considered_harmful"
     ],
@@ -177,6 +167,16 @@
     [
       "Going to the cinema is a data visualization problem",
       "https://tonsky.me/blog/allekinos/"
+    ]
+  ],
+  [
+    [
+      "2024-05-14, 19:26:33",
+      "https://lobste.rs/s/8z7rfv/reversing_choplifter"
+    ],
+    [
+      "Reversing Choplifter",
+      "https://blondihacks.com/reversing-choplifter/"
     ]
   ],
   [
