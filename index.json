@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-05-15, 13:29:11",
+      "https://lobste.rs/s/zahk56/using_llm_enhanced_screen_recording_feed"
+    ],
+    [
+      "Using LLM enhanced screen recording to feed AI chat bot",
+      "https://app.snapclip.io/share/Y02N0e"
+    ]
+  ],
+  [
+    [
+      "2024-05-15, 13:29:05",
+      "https://lobste.rs/s/t64ihx/vmware_fusion_worst_website_entire_world"
+    ],
+    [
+      "VMware Fusion: The Worst Website In The Entire World",
+      "https://matduggan.com/the-worst-website-in-the-entire-world/"
+    ]
+  ],
+  [
+    [
+      "2024-05-15, 13:24:33",
+      "https://lobste.rs/s/mgnifo/rust_wasm_development_environment_with"
+    ],
+    [
+      "A Rust + WASM development environment with Nix",
+      "https://jordankaye.dev/posts/rust-wasm-nix/"
+    ]
+  ],
+  [
+    [
+      "2024-05-15, 13:22:47",
+      "https://lobste.rs/s/g9e3c1/heroku_on_two_standard_dynos"
+    ],
+    [
+      "Heroku on two standard dynos?",
+      "https://brandur.org/fragments/heroku-two-dynos"
+    ]
+  ],
+  [
+    [
       "2024-05-15, 13:06:16",
       "https://lobste.rs/s/ddq6ji/procfusion_very_simple_process_manager"
     ],
@@ -81,16 +121,6 @@
   ],
   [
     [
-      "2024-05-15, 03:59:38",
-      "https://lobste.rs/s/b9xudn/type_sprintf"
-    ],
-    [
-      "The type of sprintf",
-      "https://ryanbrewer.dev/posts/type-of-sprintf.html"
-    ]
-  ],
-  [
-    [
       "2024-05-15, 02:34:34",
       "https://lobste.rs/s/wkiwgn/sir_there_s_cat_your_mirror_dimension"
     ],
@@ -127,16 +157,6 @@
     [
       "Going to the cinema is a data visualization problem",
       "https://tonsky.me/blog/allekinos/"
-    ]
-  ],
-  [
-    [
-      "2024-05-14, 19:26:33",
-      "https://lobste.rs/s/8z7rfv/reversing_choplifter"
-    ],
-    [
-      "Reversing Choplifter",
-      "https://blondihacks.com/reversing-choplifter/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-05-14, 12:43:56",
-      "https://lobste.rs/s/rzbhku/snapshot_testing_for_masses"
-    ],
-    [
-      "Snapshot Testing For the Masses",
-      "https://tigerbeetle.com/blog/2024-05-14-snapshot-testing-for-the-masses"
-    ]
-  ],
-  [
-    [
       "2024-05-14, 12:12:06",
       "https://lobste.rs/s/ee8v8p/before_you_try_change_something_make_sure"
     ],
@@ -207,16 +217,6 @@
     [
       "What Factors Explain the Nature of Software?",
       "https://tratt.net/laurie/blog/2024/what_factors_explain_the_nature_of_software.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-14, 07:48:33",
-      "https://lobste.rs/s/05vks5/bye_opam_hello_nix"
-    ],
-    [
-      "Bye Opam, Hello Nix",
-      "https://priver.dev/blog/ocaml/bye-opam-hello-nix/"
     ]
   ],
   [
