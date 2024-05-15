@@ -7,7 +7,7 @@
 * [2024-05-14, 23:39:33](https://lobste.rs/s/rfjg3l/add_sysctl_disable_nagle_s_algorithm_rfc) - [Add sysctl to disable Nagle's algorithm (RFC 896 - Congestion Control)](https://marc.info/?l=openbsd-tech&m=171562561424289&w=2)
 * [2024-05-14, 21:28:00](https://lobste.rs/s/858y39/going_cinema_is_data_visualization) - [Going to the cinema is a data visualization problem](https://tonsky.me/blog/allekinos/)
 * [2024-05-14, 21:10:58](https://lobste.rs/s/bh9lhf/1001_representations_syntax_with) - [1001 Representations of Syntax with Binding (comparison table) (2021)](https://jesper.cx/posts/1001-syntax-representations.html)
-* [2024-05-14, 19:26:33](https://lobste.rs/s/8z7rfv/reversing_choplifter_blondihacks) - [Reversing Choplifter – Blondihacks](https://blondihacks.com/reversing-choplifter/)
+* [2024-05-14, 19:26:33](https://lobste.rs/s/8z7rfv/reversing_choplifter) - [Reversing Choplifter](https://blondihacks.com/reversing-choplifter/)
 * [2024-05-14, 18:39:49](https://lobste.rs/s/ytv4ch/new_apt_3_0_solver) - [The new APT 3.0 solver](https://blog.jak-linux.org/2024/05/14/solver3/)
 * [2024-05-14, 16:45:34](https://lobste.rs/s/2ybbzw/blazingly_fast_linked_lists) - [Blazingly Fast Linked Lists](https://dygalo.dev/blog/blazingly-fast-linked-lists/)
 * [2024-05-14, 14:50:00](https://lobste.rs/s/tvq3m7/using_cuelang_with_go_for_extracting) - [Using Cuelang With Go for extracting structured data from LLMs](https://cybernetist.com/2024/05/13/using-cuelang-with-go-for-llm-data-extraction/)
