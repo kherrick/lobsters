@@ -3,6 +3,7 @@
 * [2024-05-15, 00:58:25](https://lobste.rs/s/lbzg6m/this_is_why_you_should_never_use_de_bruijn) - [This is why you should never use de Bruijn indices, especially if you program in Rust](https://safinaskar.writeas.com/this-is-why-you-should-never-use-de-bruijn-indices-especially-if-you-program)
 * [2024-05-14, 23:39:33](https://lobste.rs/s/rfjg3l/add_sysctl_disable_nagle_s_algorithm_rfc) - [Add sysctl to disable Nagle's algorithm (RFC 896 - Congestion Control)](https://marc.info/?l=openbsd-tech&m=171562561424289&w=2)
 * [2024-05-14, 21:28:00](https://lobste.rs/s/858y39/going_cinema_is_data_visualization) - [Going to the cinema is a data visualization problem](https://tonsky.me/blog/allekinos/)
+* [2024-05-14, 21:10:58](https://lobste.rs/s/bh9lhf/1001_representations_syntax_with) - [1001 Representations of Syntax with Binding (comparison table) (2021)](https://jesper.cx/posts/1001-syntax-representations.html)
 * [2024-05-14, 20:42:58](https://lobste.rs/s/sk0ozr/understanding_container_image_layers) - [Understanding Container Image Layers](https://www.kenmuse.com/blog/understanding-container-image-layers/)
 * [2024-05-14, 19:26:33](https://lobste.rs/s/8z7rfv/reversing_choplifter_blondihacks) - [Reversing Choplifter – Blondihacks](https://blondihacks.com/reversing-choplifter/)
 * [2024-05-14, 18:39:49](https://lobste.rs/s/ytv4ch/new_apt_3_0_solver) - [The new APT 3.0 solver](https://blog.jak-linux.org/2024/05/14/solver3/)
@@ -23,7 +24,6 @@
 * [2024-05-13, 22:09:38](https://lobste.rs/s/eslpei/references_are_like_jumps) - [References are like jumps](https://without.boats/blog/references-are-like-jumps/)
 * [2024-05-13, 20:38:02](https://lobste.rs/s/yqhkts/amazon_s3_will_no_longer_charge_for) - [Amazon S3 will no longer charge for several HTTP error codes](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/)
 * [2024-05-13, 17:40:36](https://lobste.rs/s/ph5o0a/openai_gpt_4o) - [OpenAI GPT-4o](https://openai.com/index/hello-gpt-4o/)
-* [2024-05-13, 16:14:59](https://lobste.rs/s/elj5qw/unix_version_control_lore_what_ident) - [Unix version control lore: what, ident](https://dotat.at/@/2024-05-13-what-ident.html)
 * [2024-05-13, 13:04:52](https://lobste.rs/s/ttyfuk/static_chess) - [Static Chess](https://www.val.town/v/maxm/staticChess)
 
 ## [Archives](archives/index.md)
