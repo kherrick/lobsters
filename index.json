@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-15, 12:26:30",
+      "https://lobste.rs/s/oq00fc/empirical_evaluation_columnar_storage"
+    ],
+    [
+      "An Empirical Evaluation of Columnar Storage Formats",
+      "https://www.vldb.org/pvldb/vol17/p148-zeng.pdf"
+    ]
+  ],
+  [
+    [
       "2024-05-15, 10:03:10",
       "https://lobste.rs/s/scyvbr/how_pycon"
     ],
@@ -237,16 +247,6 @@
     [
       "References are like jumps",
       "https://without.boats/blog/references-are-like-jumps/"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 20:38:02",
-      "https://lobste.rs/s/yqhkts/amazon_s3_will_no_longer_charge_for"
-    ],
-    [
-      "Amazon S3 will no longer charge for several HTTP error codes",
-      "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/"
     ]
   ]
 ]
