@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-05-15, 08:48:30",
-      "https://lobste.rs/s/ejlyyz/another_chrome_vulnerability"
-    ],
-    [
-      "Another Chrome vulnerability - Dissection of yesterday's zero day bug",
-      "https://www.schneier.com/blog/archives/2024/05/another-chrome-vulnerability.html"
-    ]
-  ],
-  [
-    [
       "2024-05-15, 08:12:26",
       "https://lobste.rs/s/lnav33/ok_considered_harmful"
     ],
@@ -87,6 +77,16 @@
     [
       "Add sysctl to disable Nagle's algorithm (RFC 896 - Congestion Control)",
       "https://marc.info/?l=openbsd-tech&m=171562561424289&w=2"
+    ]
+  ],
+  [
+    [
+      "2024-05-14, 23:24:48",
+      "https://lobste.rs/s/hoyf2p/arch_linux_ports"
+    ],
+    [
+      "Arch Linux Ports",
+      "https://rfc.archlinux.page/0032-arch-linux-ports/"
     ]
   ],
   [
