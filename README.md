@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-15, 15:01:08](https://lobste.rs/s/lwotal/apple_announces_new_accessibility) - [Apple announces new accessibility features, including Eye Tracking](https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/)
 * [2024-05-15, 13:52:02](https://lobste.rs/s/ynybb5/understanding_misunderstandings) - [Understanding misunderstandings in source code](https://dl.acm.org/doi/pdf/10.1145/3106237.3106264)
 * [2024-05-15, 13:32:03](https://lobste.rs/s/wl7k06/theory_practice_chunked_sequences) - [Theory and practice of chunked sequences](http://deepsea.inria.fr/chunkedseq/)
 * [2024-05-15, 13:29:05](https://lobste.rs/s/t64ihx/vmware_fusion_worst_website_entire_world) - [VMware Fusion: The Worst Website In The Entire World](https://matduggan.com/the-worst-website-in-the-entire-world/)
@@ -17,7 +18,6 @@
 * [2024-05-15, 02:34:34](https://lobste.rs/s/wkiwgn/sir_there_s_cat_your_mirror_dimension) - [Sir, there's a cat in your mirror dimension](https://lcamtuf.substack.com/p/sir-theres-a-cat-in-your-mirror-dimension)
 * [2024-05-14, 23:39:33](https://lobste.rs/s/rfjg3l/add_sysctl_disable_nagle_s_algorithm_rfc) - [Add sysctl to disable Nagle's algorithm (RFC 896 - Congestion Control)](https://marc.info/?l=openbsd-tech&m=171562561424289&w=2)
 * [2024-05-14, 21:28:00](https://lobste.rs/s/858y39/going_cinema_is_data_visualization) - [Going to the cinema is a data visualization problem](https://tonsky.me/blog/allekinos/)
-* [2024-05-14, 19:26:33](https://lobste.rs/s/8z7rfv/reversing_choplifter) - [Reversing Choplifter](https://blondihacks.com/reversing-choplifter/)
 * [2024-05-14, 18:39:49](https://lobste.rs/s/ytv4ch/new_apt_3_0_solver) - [The new APT 3.0 solver](https://blog.jak-linux.org/2024/05/14/solver3/)
 * [2024-05-14, 14:00:58](https://lobste.rs/s/ubxfen/peek_into_build_provenance_for_homebrew) - [A peek into build provenance for Homebrew](https://blog.trailofbits.com/2024/05/14/a-peek-into-build-provenance-for-homebrew/)
 * [2024-05-14, 13:07:19](https://lobste.rs/s/uoprsr/how_bad_is_llvm_really) - [How bad is LLVM really?](https://c3.handmade.network/blog/p/8852-how_bad_is_llvm_really)

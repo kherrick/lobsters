@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-15](index.md)
 
+* [2024-05-15, 15:01:08](https://lobste.rs/s/lwotal/apple_announces_new_accessibility) - [Apple announces new accessibility features, including Eye Tracking](https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/)
 * [2024-05-15, 13:52:02](https://lobste.rs/s/ynybb5/understanding_misunderstandings) - [Understanding misunderstandings in source code](https://dl.acm.org/doi/pdf/10.1145/3106237.3106264)
 * [2024-05-15, 13:41:42](https://lobste.rs/s/zta206/what_went_wrong_with_unisuper_google) - [What went wrong with UniSuper and Google Cloud?](https://danielcompton.net/google-cloud-unisuper)
 * [2024-05-15, 13:32:03](https://lobste.rs/s/wl7k06/theory_practice_chunked_sequences) - [Theory and practice of chunked sequences](http://deepsea.inria.fr/chunkedseq/)
