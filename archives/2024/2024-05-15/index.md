@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-15](index.md)
 
+* [2024-05-15, 13:52:02](https://lobste.rs/s/ynybb5/understanding_misunderstandings) - [Understanding misunderstandings in source code](https://dl.acm.org/doi/pdf/10.1145/3106237.3106264)
 * [2024-05-15, 13:41:42](https://lobste.rs/s/zta206/what_went_wrong_with_unisuper_google) - [What went wrong with UniSuper and Google Cloud?](https://danielcompton.net/google-cloud-unisuper)
 * [2024-05-15, 13:32:03](https://lobste.rs/s/wl7k06/theory_practice_chunked_sequences) - [Theory and practice of chunked sequences](http://deepsea.inria.fr/chunkedseq/)
 * [2024-05-15, 13:29:11](https://lobste.rs/s/zahk56/using_llm_enhanced_screen_recording_feed) - [Using LLM enhanced screen recording to feed AI chat bot](https://app.snapclip.io/share/Y02N0e)
