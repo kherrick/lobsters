@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-15, 08:48:30](https://lobste.rs/s/ejlyyz/another_chrome_vulnerability) - [Another Chrome vulnerability - Dissection of yesterday's zero day bug](https://www.schneier.com/blog/archives/2024/05/another-chrome-vulnerability.html)
 * [2024-05-15, 08:12:26](https://lobste.rs/s/lnav33/ok_considered_harmful) - [ok Considered Harmful](https://www.dolthub.com/blog/2024-05-10-ok-considered-harmful/)
 * [2024-05-15, 07:22:02](https://lobste.rs/s/ofn5ho/inside_low_budget_consumer_hardware) - [Inside a low budget consumer hardware espionage implant](https://ha.cking.ch/s8_data_line_locator/)
 * [2024-05-15, 06:55:20](https://lobste.rs/s/kopbhe/discovering_small_github_projects_for) - [Discovering Small GitHub Projects for Contributing to FOSS](https://wiki.developersindia.in/faqs/finding-small-foss-projects-on-github)
@@ -7,7 +8,6 @@
 * [2024-05-15, 03:59:38](https://lobste.rs/s/b9xudn/type_sprintf) - [The type of sprintf](https://ryanbrewer.dev/posts/type-of-sprintf.html)
 * [2024-05-15, 02:34:34](https://lobste.rs/s/wkiwgn/sir_there_s_cat_your_mirror_dimension) - [Sir, there's a cat in your mirror dimension](https://lcamtuf.substack.com/p/sir-theres-a-cat-in-your-mirror-dimension)
 * [2024-05-14, 23:39:33](https://lobste.rs/s/rfjg3l/add_sysctl_disable_nagle_s_algorithm_rfc) - [Add sysctl to disable Nagle's algorithm (RFC 896 - Congestion Control)](https://marc.info/?l=openbsd-tech&m=171562561424289&w=2)
-* [2024-05-14, 23:24:48](https://lobste.rs/s/hoyf2p/arch_linux_ports) - [Arch Linux Ports](https://rfc.archlinux.page/0032-arch-linux-ports/)
 * [2024-05-14, 21:28:00](https://lobste.rs/s/858y39/going_cinema_is_data_visualization) - [Going to the cinema is a data visualization problem](https://tonsky.me/blog/allekinos/)
 * [2024-05-14, 21:10:58](https://lobste.rs/s/bh9lhf/1001_representations_syntax_with) - [1001 Representations of Syntax with Binding (comparison table) (2021)](https://jesper.cx/posts/1001-syntax-representations.html)
 * [2024-05-14, 19:26:33](https://lobste.rs/s/8z7rfv/reversing_choplifter) - [Reversing Choplifter](https://blondihacks.com/reversing-choplifter/)
