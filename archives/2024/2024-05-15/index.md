@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-15](index.md)
 
+* [2024-05-15, 13:32:03](https://lobste.rs/s/wl7k06/theory_practice_chunked_sequences) - [Theory and practice of chunked sequences](http://deepsea.inria.fr/chunkedseq/)
 * [2024-05-15, 13:29:11](https://lobste.rs/s/zahk56/using_llm_enhanced_screen_recording_feed) - [Using LLM enhanced screen recording to feed AI chat bot](https://app.snapclip.io/share/Y02N0e)
 * [2024-05-15, 13:29:05](https://lobste.rs/s/t64ihx/vmware_fusion_worst_website_entire_world) - [VMware Fusion: The Worst Website In The Entire World](https://matduggan.com/the-worst-website-in-the-entire-world/)
 * [2024-05-15, 13:24:33](https://lobste.rs/s/mgnifo/rust_wasm_development_environment_with) - [A Rust + WASM development environment with Nix](https://jordankaye.dev/posts/rust-wasm-nix/)
