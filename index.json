@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2024-05-14, 21:10:58",
-      "https://lobste.rs/s/bh9lhf/1001_representations_syntax_with"
-    ],
-    [
-      "1001 Representations of Syntax with Binding (comparison table) (2021)",
-      "https://jesper.cx/posts/1001-syntax-representations.html"
-    ]
-  ],
-  [
-    [
       "2024-05-14, 19:26:33",
       "https://lobste.rs/s/8z7rfv/reversing_choplifter"
     ],
@@ -247,6 +237,16 @@
     [
       "References are like jumps",
       "https://without.boats/blog/references-are-like-jumps/"
+    ]
+  ],
+  [
+    [
+      "2024-05-13, 20:38:02",
+      "https://lobste.rs/s/yqhkts/amazon_s3_will_no_longer_charge_for"
+    ],
+    [
+      "Amazon S3 will no longer charge for several HTTP error codes",
+      "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/"
     ]
   ]
 ]
