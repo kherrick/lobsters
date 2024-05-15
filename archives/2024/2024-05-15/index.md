@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-15](index.md)
 
+* [2024-05-15, 21:33:24](https://lobste.rs/s/7lkatv/blockly_glockenspiel) - [Blockly Glockenspiel](https://neil.fraser.name/news/2023/08/31/)
 * [2024-05-15, 20:01:38](https://lobste.rs/s/bs96lw/haiku_activity_contract_report_april) - [Haiku Activity & Contract Report, April 2024](https://www.haiku-os.org/blog/waddlesplash/2024-05-14-haiku_activity_contract_report_april_2024/)
 * [2024-05-15, 19:25:48](https://lobste.rs/s/xrbyjv/securing_git_addressing_5_new) - [Securing Git: Addressing 5 new vulnerabilities](https://github.blog/2024-05-14-securing-git-addressing-5-new-vulnerabilities/)
 * [2024-05-15, 18:32:08](https://lobste.rs/s/rb1gf4/make_game_with_hoot_for_lisp_game_jam) - [Make a game with Hoot for the Lisp Game Jam](https://spritely.institute/news/make-a-game-with-hoot-for-the-lisp-game-jam.html)
