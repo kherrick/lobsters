@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-15, 06:55:20](https://lobste.rs/s/kopbhe/discovering_small_github_projects_for) - [Discovering Small GitHub Projects for Contributing to FOSS](https://wiki.developersindia.in/faqs/finding-small-foss-projects-on-github)
 * [2024-05-15, 04:01:58](https://lobste.rs/s/ismhd4/parseback_pure_lua_introspection) - [parseback: A pure-Lua introspection library for LuaJIT's FFI ctype objects](https://github.com/javierguerragiraldez/parseback)
 * [2024-05-15, 03:59:51](https://lobste.rs/s/b0zx67/introduction_shader_art_coding) - [An introduction to Shader Art Coding](https://www.youtube.com/watch?v=f4s1h2YETNY)
-* [2024-05-15, 03:59:38](https://lobste.rs/s/b9xudn/type_sprintf) - [The type of sprintf](https://ryanbrewer.dev/posts/type-of-sprintf.html)
 * [2024-05-15, 02:34:34](https://lobste.rs/s/wkiwgn/sir_there_s_cat_your_mirror_dimension) - [Sir, there's a cat in your mirror dimension](https://lcamtuf.substack.com/p/sir-theres-a-cat-in-your-mirror-dimension)
 * [2024-05-14, 23:39:33](https://lobste.rs/s/rfjg3l/add_sysctl_disable_nagle_s_algorithm_rfc) - [Add sysctl to disable Nagle's algorithm (RFC 896 - Congestion Control)](https://marc.info/?l=openbsd-tech&m=171562561424289&w=2)
 * [2024-05-14, 21:28:00](https://lobste.rs/s/858y39/going_cinema_is_data_visualization) - [Going to the cinema is a data visualization problem](https://tonsky.me/blog/allekinos/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-15](index.md)
 
+* [2024-05-15, 06:55:20](https://lobste.rs/s/kopbhe/discovering_small_github_projects_for) - [Discovering Small GitHub Projects for Contributing to FOSS](https://wiki.developersindia.in/faqs/finding-small-foss-projects-on-github)
 * [2024-05-15, 04:01:58](https://lobste.rs/s/ismhd4/parseback_pure_lua_introspection) - [parseback: A pure-Lua introspection library for LuaJIT's FFI ctype objects](https://github.com/javierguerragiraldez/parseback)
 * [2024-05-15, 03:59:51](https://lobste.rs/s/b0zx67/introduction_shader_art_coding) - [An introduction to Shader Art Coding](https://www.youtube.com/watch?v=f4s1h2YETNY)
 * [2024-05-15, 03:59:38](https://lobste.rs/s/b9xudn/type_sprintf) - [The type of sprintf](https://ryanbrewer.dev/posts/type-of-sprintf.html)
