@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-15, 18:20:51](https://lobste.rs/s/fxgc2u/virtual_boy_bizarre_rise_quick_fall) - [Virtual Boy: The bizarre rise and quick fall of Nintendo’s enigmatic red console](https://arstechnica.com/gaming/2024/05/virtual-boy-the-bizarre-rise-and-quick-fall-of-nintendos-enigmatic-red-console/)
+* [2024-05-15, 18:19:24](https://lobste.rs/s/2b1yl6/small_web_science) - [The Small Web and Science](https://newton.cx/~peter/2024/small-web-and-science/)
+* [2024-05-15, 18:15:30](https://lobste.rs/s/k3h9gz/time_postgresql_said_no_thanks_i_don_t_need) - [That time PostgreSQL said \"no thanks, I don't need your index\"](https://jaywhy13.hashnode.dev/that-time-postgresql-said-no-thanks-i-dont-need-your-index)
 * [2024-05-15, 17:53:05](https://lobste.rs/s/9g6zru/crash_user_configurable_login_shell) - [crash: user-configurable login shell configured by the SHELLS environment variable](https://github.com/RGBCube/crash)
 * [2024-05-15, 16:57:56](https://lobste.rs/s/rjonl7/jepsen_datomic_pro_1_0_7075) - [Jepsen: Datomic Pro 1.0.7075](https://jepsen.io/analyses/datomic-pro-1.0.7075)
-* [2024-05-15, 16:57:39](https://lobste.rs/s/rwha4e/valordefault) - [ValOrDefault](https://brandur.org/fragments/val-or-default)
 * [2024-05-15, 15:01:08](https://lobste.rs/s/lwotal/apple_announces_new_accessibility) - [Apple announces new accessibility features, including Eye Tracking](https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/)
 * [2024-05-15, 13:52:02](https://lobste.rs/s/ynybb5/understanding_misunderstandings) - [Understanding misunderstandings in source code](https://dl.acm.org/doi/pdf/10.1145/3106237.3106264)
-* [2024-05-15, 13:32:03](https://lobste.rs/s/wl7k06/theory_practice_chunked_sequences) - [Theory and practice of chunked sequences](http://deepsea.inria.fr/chunkedseq/)
 * [2024-05-15, 13:29:05](https://lobste.rs/s/t64ihx/vmware_fusion_worst_website_entire_world) - [VMware Fusion: The Worst Website In The Entire World](https://matduggan.com/the-worst-website-in-the-entire-world/)
 * [2024-05-15, 13:24:33](https://lobste.rs/s/mgnifo/rust_wasm_development_environment_with) - [A Rust + WASM development environment with Nix](https://jordankaye.dev/posts/rust-wasm-nix/)
 * [2024-05-15, 13:22:47](https://lobste.rs/s/g9e3c1/heroku_on_two_standard_dynos) - [Heroku on two standard dynos?](https://brandur.org/fragments/heroku-two-dynos)
@@ -24,7 +25,6 @@
 * [2024-05-14, 12:12:06](https://lobste.rs/s/ee8v8p/before_you_try_change_something_make_sure) - [Before you try to change something, make sure you can change nothing](https://devblogs.microsoft.com/oldnewthing/20240513-00/?p=109750)
 * [2024-05-14, 10:43:12](https://lobste.rs/s/b8jnfc/what_factors_explain_nature_software) - [What Factors Explain the Nature of Software?](https://tratt.net/laurie/blog/2024/what_factors_explain_the_nature_of_software.html)
 * [2024-05-14, 07:04:41](https://lobste.rs/s/8gftwj/using_arg_dockerfile_beware_gotcha) - [Using ARG in a Dockerfile - beware the gotcha](https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/)
-* [2024-05-13, 22:09:38](https://lobste.rs/s/eslpei/references_are_like_jumps) - [References are like jumps](https://without.boats/blog/references-are-like-jumps/)
 
 ## [Archives](archives/index.md)
 
