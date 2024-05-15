@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-15, 08:12:26",
+      "https://lobste.rs/s/lnav33/ok_considered_harmful"
+    ],
+    [
+      "ok Considered Harmful",
+      "https://www.dolthub.com/blog/2024-05-10-ok-considered-harmful/"
+    ]
+  ],
+  [
+    [
       "2024-05-15, 07:22:02",
       "https://lobste.rs/s/ofn5ho/inside_low_budget_consumer_hardware"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2024-05-15, 03:59:38",
+      "https://lobste.rs/s/b9xudn/type_sprintf"
+    ],
+    [
+      "The type of sprintf",
+      "https://ryanbrewer.dev/posts/type-of-sprintf.html"
+    ]
+  ],
+  [
+    [
       "2024-05-15, 02:34:34",
       "https://lobste.rs/s/wkiwgn/sir_there_s_cat_your_mirror_dimension"
     ],
@@ -47,6 +67,16 @@
     [
       "Add sysctl to disable Nagle's algorithm (RFC 896 - Congestion Control)",
       "https://marc.info/?l=openbsd-tech&m=171562561424289&w=2"
+    ]
+  ],
+  [
+    [
+      "2024-05-14, 23:24:48",
+      "https://lobste.rs/s/hoyf2p/arch_linux_ports"
+    ],
+    [
+      "Arch Linux Ports",
+      "https://rfc.archlinux.page/0032-arch-linux-ports/"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2024-05-14, 13:40:46",
-      "https://lobste.rs/s/jpykem/higher_raii_seven_arcane_uses_linear"
-    ],
-    [
-      "Higher RAII, and the Seven Arcane Uses of Linear Types",
-      "https://verdagon.dev/blog/higher-raii-uses-linear-types"
-    ]
-  ],
-  [
-    [
       "2024-05-14, 13:07:19",
       "https://lobste.rs/s/uoprsr/how_bad_is_llvm_really"
     ],
@@ -167,16 +187,6 @@
     [
       "Why Patching Globals Is Harmful",
       "https://kettanaito.com/blog/why-patching-globals-is-harmful"
-    ]
-  ],
-  [
-    [
-      "2024-05-14, 10:56:17",
-      "https://lobste.rs/s/ijafx5/sequel_structured_english_query"
-    ],
-    [
-      "SEQUEL: a structured English query language (May 1974)",
-      "https://dl.acm.org/doi/10.1145/800296.811515"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Amazon S3 will no longer charge for several HTTP error codes",
       "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 13:04:52",
-      "https://lobste.rs/s/ttyfuk/static_chess"
-    ],
-    [
-      "Static Chess",
-      "https://www.val.town/v/maxm/staticChess"
     ]
   ]
 ]
