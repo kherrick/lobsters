@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-15](index.md)
 
+* [2024-05-15, 12:26:30](https://lobste.rs/s/oq00fc/empirical_evaluation_columnar_storage) - [An Empirical Evaluation of Columnar Storage Formats](https://www.vldb.org/pvldb/vol17/p148-zeng.pdf)
 * [2024-05-15, 10:03:10](https://lobste.rs/s/scyvbr/how_pycon) - [How To PyCon](https://blog.glyph.im/2024/05/how-to-pycon.html)
 * [2024-05-15, 08:55:55](https://lobste.rs/s/449txi/translation_rust_s_core_alloc_crates_coq) - [Translation of Rust's core and alloc crates to Coq](https://formal.land/blog/2024/04/26/translation-core-alloc-crates)
 * [2024-05-15, 08:48:30](https://lobste.rs/s/ejlyyz/another_chrome_vulnerability) - [Another Chrome vulnerability - Dissection of yesterday's zero day bug](https://www.schneier.com/blog/archives/2024/05/another-chrome-vulnerability.html)

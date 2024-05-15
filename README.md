@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-15, 12:26:30](https://lobste.rs/s/oq00fc/empirical_evaluation_columnar_storage) - [An Empirical Evaluation of Columnar Storage Formats](https://www.vldb.org/pvldb/vol17/p148-zeng.pdf)
 * [2024-05-15, 10:03:10](https://lobste.rs/s/scyvbr/how_pycon) - [How To PyCon](https://blog.glyph.im/2024/05/how-to-pycon.html)
 * [2024-05-15, 08:55:55](https://lobste.rs/s/449txi/translation_rust_s_core_alloc_crates_coq) - [Translation of Rust's core and alloc crates to Coq](https://formal.land/blog/2024/04/26/translation-core-alloc-crates)
 * [2024-05-15, 08:12:26](https://lobste.rs/s/lnav33/ok_considered_harmful) - [ok Considered Harmful](https://www.dolthub.com/blog/2024-05-10-ok-considered-harmful/)
@@ -24,7 +25,6 @@
 * [2024-05-14, 07:04:41](https://lobste.rs/s/8gftwj/using_arg_dockerfile_beware_gotcha) - [Using ARG in a Dockerfile - beware the gotcha](https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/)
 * [2024-05-14, 06:45:34](https://lobste.rs/s/mebxps/mixing_rayon_tokio_for_fun_hair_loss) - [Mixing rayon and tokio for fun and (hair) loss](https://blog.dureuill.net/articles/dont-mix-rayon-tokio/)
 * [2024-05-13, 22:09:38](https://lobste.rs/s/eslpei/references_are_like_jumps) - [References are like jumps](https://without.boats/blog/references-are-like-jumps/)
-* [2024-05-13, 20:38:02](https://lobste.rs/s/yqhkts/amazon_s3_will_no_longer_charge_for) - [Amazon S3 will no longer charge for several HTTP error codes](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/)
 
 ## [Archives](archives/index.md)
 
