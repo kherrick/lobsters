@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-15](index.md)
 
+* [2024-05-15, 13:29:11](https://lobste.rs/s/zahk56/using_llm_enhanced_screen_recording_feed) - [Using LLM enhanced screen recording to feed AI chat bot](https://app.snapclip.io/share/Y02N0e)
+* [2024-05-15, 13:29:05](https://lobste.rs/s/t64ihx/vmware_fusion_worst_website_entire_world) - [VMware Fusion: The Worst Website In The Entire World](https://matduggan.com/the-worst-website-in-the-entire-world/)
+* [2024-05-15, 13:24:33](https://lobste.rs/s/mgnifo/rust_wasm_development_environment_with) - [A Rust + WASM development environment with Nix](https://jordankaye.dev/posts/rust-wasm-nix/)
+* [2024-05-15, 13:22:47](https://lobste.rs/s/g9e3c1/heroku_on_two_standard_dynos) - [Heroku on two standard dynos?](https://brandur.org/fragments/heroku-two-dynos)
 * [2024-05-15, 13:06:16](https://lobste.rs/s/ddq6ji/procfusion_very_simple_process_manager) - [procfusion: Very simple process manager written in Rust for your Docker images](https://github.com/linkdd/procfusion)
 * [2024-05-15, 12:26:30](https://lobste.rs/s/oq00fc/empirical_evaluation_columnar_storage) - [An Empirical Evaluation of Columnar Storage Formats](https://www.vldb.org/pvldb/vol17/p148-zeng.pdf)
 * [2024-05-15, 10:03:10](https://lobste.rs/s/scyvbr/how_pycon) - [How To PyCon](https://blog.glyph.im/2024/05/how-to-pycon.html)
