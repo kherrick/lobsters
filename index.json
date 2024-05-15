@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-15, 13:52:02",
+      "https://lobste.rs/s/ynybb5/understanding_misunderstandings"
+    ],
+    [
+      "Understanding misunderstandings in source code",
+      "https://dl.acm.org/doi/pdf/10.1145/3106237.3106264"
+    ]
+  ],
+  [
+    [
       "2024-05-15, 13:41:42",
       "https://lobste.rs/s/zta206/what_went_wrong_with_unisuper_google"
     ],
@@ -97,16 +107,6 @@
     [
       "Translation of Rust's core and alloc crates to Coq",
       "https://formal.land/blog/2024/04/26/translation-core-alloc-crates"
-    ]
-  ],
-  [
-    [
-      "2024-05-15, 08:48:30",
-      "https://lobste.rs/s/ejlyyz/another_chrome_vulnerability"
-    ],
-    [
-      "Another Chrome vulnerability - Dissection of yesterday's zero day bug",
-      "https://www.schneier.com/blog/archives/2024/05/another-chrome-vulnerability.html"
     ]
   ],
   [
