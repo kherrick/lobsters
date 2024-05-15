@@ -19,12 +19,12 @@
 * [2024-05-14, 13:07:19](https://lobste.rs/s/uoprsr/how_bad_is_llvm_really) - [How bad is LLVM really?](https://c3.handmade.network/blog/p/8852-how_bad_is_llvm_really)
 * [2024-05-14, 12:43:56](https://lobste.rs/s/rzbhku/snapshot_testing_for_masses) - [Snapshot Testing For the Masses](https://tigerbeetle.com/blog/2024-05-14-snapshot-testing-for-the-masses)
 * [2024-05-14, 12:12:06](https://lobste.rs/s/ee8v8p/before_you_try_change_something_make_sure) - [Before you try to change something, make sure you can change nothing](https://devblogs.microsoft.com/oldnewthing/20240513-00/?p=109750)
+* [2024-05-14, 11:07:01](https://lobste.rs/s/79kl1i/why_patching_globals_is_harmful) - [Why Patching Globals Is Harmful](https://kettanaito.com/blog/why-patching-globals-is-harmful)
 * [2024-05-14, 10:43:12](https://lobste.rs/s/b8jnfc/what_factors_explain_nature_software) - [What Factors Explain the Nature of Software?](https://tratt.net/laurie/blog/2024/what_factors_explain_the_nature_of_software.html)
 * [2024-05-14, 07:48:33](https://lobste.rs/s/05vks5/bye_opam_hello_nix) - [Bye Opam, Hello Nix](https://priver.dev/blog/ocaml/bye-opam-hello-nix/)
 * [2024-05-14, 07:04:41](https://lobste.rs/s/8gftwj/using_arg_dockerfile_beware_gotcha) - [Using ARG in a Dockerfile - beware the gotcha](https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/)
 * [2024-05-14, 06:45:34](https://lobste.rs/s/mebxps/mixing_rayon_tokio_for_fun_hair_loss) - [Mixing rayon and tokio for fun and (hair) loss](https://blog.dureuill.net/articles/dont-mix-rayon-tokio/)
 * [2024-05-13, 22:09:38](https://lobste.rs/s/eslpei/references_are_like_jumps) - [References are like jumps](https://without.boats/blog/references-are-like-jumps/)
-* [2024-05-13, 20:38:02](https://lobste.rs/s/yqhkts/amazon_s3_will_no_longer_charge_for) - [Amazon S3 will no longer charge for several HTTP error codes](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/)
 
 ## [Archives](archives/index.md)
 
