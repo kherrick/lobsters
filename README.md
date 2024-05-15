@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-15, 17:53:05](https://lobste.rs/s/9g6zru/crash_user_configurable_login_shell) - [crash: user-configurable login shell configured by the SHELLS environment variable](https://github.com/RGBCube/crash)
 * [2024-05-15, 16:57:56](https://lobste.rs/s/rjonl7/jepsen_datomic_pro_1_0_7075) - [Jepsen: Datomic Pro 1.0.7075](https://jepsen.io/analyses/datomic-pro-1.0.7075)
 * [2024-05-15, 16:57:39](https://lobste.rs/s/rwha4e/valordefault) - [ValOrDefault](https://brandur.org/fragments/val-or-default)
 * [2024-05-15, 15:01:08](https://lobste.rs/s/lwotal/apple_announces_new_accessibility) - [Apple announces new accessibility features, including Eye Tracking](https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/)
@@ -15,7 +16,6 @@
 * [2024-05-15, 08:12:26](https://lobste.rs/s/lnav33/ok_considered_harmful) - [ok Considered Harmful](https://www.dolthub.com/blog/2024-05-10-ok-considered-harmful/)
 * [2024-05-15, 07:22:02](https://lobste.rs/s/ofn5ho/inside_low_budget_consumer_hardware) - [Inside a low budget consumer hardware espionage implant](https://ha.cking.ch/s8_data_line_locator/)
 * [2024-05-15, 06:55:20](https://lobste.rs/s/kopbhe/discovering_small_github_projects_for) - [Discovering Small GitHub Projects for Contributing to FOSS](https://wiki.developersindia.in/faqs/finding-small-foss-projects-on-github)
-* [2024-05-15, 03:59:51](https://lobste.rs/s/b0zx67/introduction_shader_art_coding) - [An introduction to Shader Art Coding](https://www.youtube.com/watch?v=f4s1h2YETNY)
 * [2024-05-15, 02:34:34](https://lobste.rs/s/wkiwgn/sir_there_s_cat_your_mirror_dimension) - [Sir, there's a cat in your mirror dimension](https://lcamtuf.substack.com/p/sir-theres-a-cat-in-your-mirror-dimension)
 * [2024-05-14, 23:39:33](https://lobste.rs/s/rfjg3l/add_sysctl_disable_nagle_s_algorithm_rfc) - [Add sysctl to disable Nagle's algorithm (RFC 896 - Congestion Control)](https://marc.info/?l=openbsd-tech&m=171562561424289&w=2)
 * [2024-05-14, 21:28:00](https://lobste.rs/s/858y39/going_cinema_is_data_visualization) - [Going to the cinema is a data visualization problem](https://tonsky.me/blog/allekinos/)

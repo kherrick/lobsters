@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-15](index.md)
 
+* [2024-05-15, 17:53:05](https://lobste.rs/s/9g6zru/crash_user_configurable_login_shell) - [crash: user-configurable login shell configured by the SHELLS environment variable](https://github.com/RGBCube/crash)
 * [2024-05-15, 16:57:56](https://lobste.rs/s/rjonl7/jepsen_datomic_pro_1_0_7075) - [Jepsen: Datomic Pro 1.0.7075](https://jepsen.io/analyses/datomic-pro-1.0.7075)
 * [2024-05-15, 16:57:39](https://lobste.rs/s/rwha4e/valordefault) - [ValOrDefault](https://brandur.org/fragments/val-or-default)
 * [2024-05-15, 15:01:08](https://lobste.rs/s/lwotal/apple_announces_new_accessibility) - [Apple announces new accessibility features, including Eye Tracking](https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/)
