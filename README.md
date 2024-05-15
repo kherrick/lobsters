@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-05-15, 00:58:25](https://lobste.rs/s/lbzg6m/this_is_why_you_should_never_use_de_bruijn) - [This is why you should never use de Bruijn indices, especially if you program in Rust](https://safinaskar.writeas.com/this-is-why-you-should-never-use-de-bruijn-indices-especially-if-you-program)
+* [2024-05-15, 02:34:34](https://lobste.rs/s/wkiwgn/sir_there_s_cat_your_mirror_dimension) - [Sir, there's a cat in your mirror dimension](https://lcamtuf.substack.com/p/sir-theres-a-cat-in-your-mirror-dimension)
 * [2024-05-14, 23:39:33](https://lobste.rs/s/rfjg3l/add_sysctl_disable_nagle_s_algorithm_rfc) - [Add sysctl to disable Nagle's algorithm (RFC 896 - Congestion Control)](https://marc.info/?l=openbsd-tech&m=171562561424289&w=2)
 * [2024-05-14, 21:28:00](https://lobste.rs/s/858y39/going_cinema_is_data_visualization) - [Going to the cinema is a data visualization problem](https://tonsky.me/blog/allekinos/)
 * [2024-05-14, 21:10:58](https://lobste.rs/s/bh9lhf/1001_representations_syntax_with) - [1001 Representations of Syntax with Binding (comparison table) (2021)](https://jesper.cx/posts/1001-syntax-representations.html)
