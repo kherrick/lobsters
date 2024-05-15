@@ -11,32 +11,12 @@
   ],
   [
     [
-      "2024-05-15, 13:41:42",
-      "https://lobste.rs/s/zta206/what_went_wrong_with_unisuper_google"
-    ],
-    [
-      "What went wrong with UniSuper and Google Cloud?",
-      "https://danielcompton.net/google-cloud-unisuper"
-    ]
-  ],
-  [
-    [
       "2024-05-15, 13:32:03",
       "https://lobste.rs/s/wl7k06/theory_practice_chunked_sequences"
     ],
     [
       "Theory and practice of chunked sequences",
       "http://deepsea.inria.fr/chunkedseq/"
-    ]
-  ],
-  [
-    [
-      "2024-05-15, 13:29:11",
-      "https://lobste.rs/s/zahk56/using_llm_enhanced_screen_recording_feed"
-    ],
-    [
-      "Using LLM enhanced screen recording to feed AI chat bot",
-      "https://app.snapclip.io/share/Y02N0e"
     ]
   ],
   [
@@ -111,6 +91,16 @@
   ],
   [
     [
+      "2024-05-15, 08:48:30",
+      "https://lobste.rs/s/ejlyyz/another_chrome_vulnerability"
+    ],
+    [
+      "Another Chrome vulnerability - Dissection of yesterday's zero day bug",
+      "https://www.schneier.com/blog/archives/2024/05/another-chrome-vulnerability.html"
+    ]
+  ],
+  [
+    [
       "2024-05-15, 08:12:26",
       "https://lobste.rs/s/lnav33/ok_considered_harmful"
     ],
@@ -167,6 +157,16 @@
     [
       "Add sysctl to disable Nagle's algorithm (RFC 896 - Congestion Control)",
       "https://marc.info/?l=openbsd-tech&m=171562561424289&w=2"
+    ]
+  ],
+  [
+    [
+      "2024-05-14, 23:24:48",
+      "https://lobste.rs/s/hoyf2p/arch_linux_ports"
+    ],
+    [
+      "Arch Linux Ports",
+      "https://rfc.archlinux.page/0032-arch-linux-ports/"
     ]
   ],
   [
