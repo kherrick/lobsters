@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-15, 19:25:48](https://lobste.rs/s/xrbyjv/securing_git_addressing_5_new) - [Securing Git: Addressing 5 new vulnerabilities](https://github.blog/2024-05-14-securing-git-addressing-5-new-vulnerabilities/)
 * [2024-05-15, 18:32:08](https://lobste.rs/s/rb1gf4/make_game_with_hoot_for_lisp_game_jam) - [Make a game with Hoot for the Lisp Game Jam](https://spritely.institute/news/make-a-game-with-hoot-for-the-lisp-game-jam.html)
-* [2024-05-15, 18:20:51](https://lobste.rs/s/fxgc2u/virtual_boy_bizarre_rise_quick_fall) - [Virtual Boy: The bizarre rise and quick fall of Nintendo’s enigmatic red console](https://arstechnica.com/gaming/2024/05/virtual-boy-the-bizarre-rise-and-quick-fall-of-nintendos-enigmatic-red-console/)
 * [2024-05-15, 18:15:30](https://lobste.rs/s/k3h9gz/time_postgresql_said_no_thanks_i_don_t_need) - [That time PostgreSQL said \"no thanks, I don't need your index\"](https://jaywhy13.hashnode.dev/that-time-postgresql-said-no-thanks-i-dont-need-your-index)
 * [2024-05-15, 17:53:05](https://lobste.rs/s/9g6zru/crash_user_configurable_login_shell) - [crash: user-configurable login shell configured by the SHELLS environment variable](https://github.com/RGBCube/crash)
 * [2024-05-15, 16:57:56](https://lobste.rs/s/rjonl7/jepsen_datomic_pro_1_0_7075) - [Jepsen: Datomic Pro 1.0.7075](https://jepsen.io/analyses/datomic-pro-1.0.7075)
