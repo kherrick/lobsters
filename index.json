@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-05-15, 04:01:58",
+      "https://lobste.rs/s/ismhd4/parseback_pure_lua_introspection"
+    ],
+    [
+      "parseback: A pure-Lua introspection library for LuaJIT's FFI ctype objects",
+      "https://github.com/javierguerragiraldez/parseback"
+    ]
+  ],
+  [
+    [
+      "2024-05-15, 03:59:51",
+      "https://lobste.rs/s/b0zx67/introduction_shader_art_coding"
+    ],
+    [
+      "An introduction to Shader Art Coding",
+      "https://www.youtube.com/watch?v=f4s1h2YETNY"
+    ]
+  ],
+  [
+    [
+      "2024-05-15, 03:59:38",
+      "https://lobste.rs/s/b9xudn/type_sprintf"
+    ],
+    [
+      "The type of sprintf",
+      "https://ryanbrewer.dev/posts/type-of-sprintf.html"
+    ]
+  ],
+  [
+    [
       "2024-05-15, 02:34:34",
       "https://lobste.rs/s/wkiwgn/sir_there_s_cat_your_mirror_dimension"
     ],
@@ -37,16 +67,6 @@
     [
       "1001 Representations of Syntax with Binding (comparison table) (2021)",
       "https://jesper.cx/posts/1001-syntax-representations.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-14, 20:42:58",
-      "https://lobste.rs/s/sk0ozr/understanding_container_image_layers"
-    ],
-    [
-      "Understanding Container Image Layers",
-      "https://www.kenmuse.com/blog/understanding-container-image-layers/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-05-14, 10:41:35",
-      "https://lobste.rs/s/tdmgkd/dependabot_core_is_now_open_source_with"
-    ],
-    [
-      "dependabot-core is now open source with an MIT license",
-      "https://github.blog/changelog/2024-05-13-dependabot-core-is-now-open-source-with-an-mit-license/"
-    ]
-  ],
-  [
-    [
       "2024-05-14, 07:48:33",
       "https://lobste.rs/s/05vks5/bye_opam_hello_nix"
     ],
@@ -227,16 +237,6 @@
     [
       "Amazon S3 will no longer charge for several HTTP error codes",
       "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 17:40:36",
-      "https://lobste.rs/s/ph5o0a/openai_gpt_4o"
-    ],
-    [
-      "OpenAI GPT-4o",
-      "https://openai.com/index/hello-gpt-4o/"
     ]
   ],
   [
