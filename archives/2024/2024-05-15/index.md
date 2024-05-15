@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-15](index.md)
 
+* [2024-05-15, 13:41:42](https://lobste.rs/s/zta206/what_went_wrong_with_unisuper_google) - [What went wrong with UniSuper and Google Cloud?](https://danielcompton.net/google-cloud-unisuper)
 * [2024-05-15, 13:32:03](https://lobste.rs/s/wl7k06/theory_practice_chunked_sequences) - [Theory and practice of chunked sequences](http://deepsea.inria.fr/chunkedseq/)
 * [2024-05-15, 13:29:11](https://lobste.rs/s/zahk56/using_llm_enhanced_screen_recording_feed) - [Using LLM enhanced screen recording to feed AI chat bot](https://app.snapclip.io/share/Y02N0e)
 * [2024-05-15, 13:29:05](https://lobste.rs/s/t64ihx/vmware_fusion_worst_website_entire_world) - [VMware Fusion: The Worst Website In The Entire World](https://matduggan.com/the-worst-website-in-the-entire-world/)
