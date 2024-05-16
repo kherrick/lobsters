@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-16, 20:13:52](https://lobste.rs/s/1zxhy4/d3_depth_create_with_data) - [D3 in Depth: Create With Data](https://www.d3indepth.com/)
 * [2024-05-16, 18:48:13](https://lobste.rs/s/ydium7/google_uses_irc_for_incident_response) - [Google Uses IRC for Incident Response](https://sre.google/sre-book/managing-incidents/)
 * [2024-05-16, 17:58:05](https://lobste.rs/s/7okhuz/avi_wigderson_named_2023_acm_turing_award) - [Avi Wigderson Named 2023 ACM Turing Award Winner](https://awards.acm.org/about/2023-turing)
 * [2024-05-16, 17:00:33](https://lobste.rs/s/uxp7du/geographically_distributed_postgres) - [Geographically distributed Postgres for multi-tenant applications](https://xata.io/blog/geo-distributed-postgres)
@@ -21,7 +22,6 @@
 * [2024-05-15, 22:51:06](https://lobste.rs/s/i2vdrv/upstreaming_linux_kernel_support_for) - [Upstreaming Linux kernel support for the Snapdragon X Elite](https://www.qualcomm.com/developer/blog/2024/05/upstreaming-linux-kernel-support-for-the-snapdragon-x-elite)
 * [2024-05-15, 18:15:30](https://lobste.rs/s/k3h9gz/time_postgresql_said_no_thanks_i_don_t_need) - [That time PostgreSQL said \"no thanks, I don't need your index\"](https://jaywhy13.hashnode.dev/that-time-postgresql-said-no-thanks-i-dont-need-your-index)
 * [2024-05-15, 16:57:56](https://lobste.rs/s/rjonl7/jepsen_datomic_pro_1_0_7075) - [Jepsen: Datomic Pro 1.0.7075](https://jepsen.io/analyses/datomic-pro-1.0.7075)
-* [2024-05-15, 15:01:08](https://lobste.rs/s/lwotal/apple_announces_new_accessibility) - [Apple announces new accessibility features, including Eye Tracking](https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/)
 * [2024-05-15, 13:29:05](https://lobste.rs/s/t64ihx/vmware_fusion_worst_website_entire_world) - [VMware Fusion: The Worst Website In The Entire World](https://matduggan.com/the-worst-website-in-the-entire-world/)
 * [2024-05-15, 13:24:33](https://lobste.rs/s/mgnifo/rust_wasm_development_environment_with) - [A Rust + WASM development environment with Nix](https://jordankaye.dev/posts/rust-wasm-nix/)
 * [2024-05-15, 13:22:47](https://lobste.rs/s/g9e3c1/heroku_on_two_standard_dynos) - [Heroku on two standard dynos?](https://brandur.org/fragments/heroku-two-dynos)

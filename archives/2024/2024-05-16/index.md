@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-16](index.md)
 
+* [2024-05-16, 20:13:52](https://lobste.rs/s/1zxhy4/d3_depth_create_with_data) - [D3 in Depth: Create With Data](https://www.d3indepth.com/)
 * [2024-05-16, 18:48:13](https://lobste.rs/s/ydium7/google_uses_irc_for_incident_response) - [Google Uses IRC for Incident Response](https://sre.google/sre-book/managing-incidents/)
 * [2024-05-16, 17:58:05](https://lobste.rs/s/7okhuz/avi_wigderson_named_2023_acm_turing_award) - [Avi Wigderson Named 2023 ACM Turing Award Winner](https://awards.acm.org/about/2023-turing)
 * [2024-05-16, 17:00:33](https://lobste.rs/s/uxp7du/geographically_distributed_postgres) - [Geographically distributed Postgres for multi-tenant applications](https://xata.io/blog/geo-distributed-postgres)
