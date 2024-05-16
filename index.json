@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-05-16, 13:01:03",
-      "https://lobste.rs/s/ikgcdp/netbsd_bans_use_copilot_generated_code"
-    ],
-    [
-      "NetBSD bans use of Copilot-generated code",
-      "https://www.osnews.com/story/139698/netbsd-bans-use-of-copilot-generated-code/"
-    ]
-  ],
-  [
-    [
       "2024-05-16, 11:41:35",
       "https://lobste.rs/s/eeoef0/ebury_is_alive_unseen_400k_linux_servers"
     ],
@@ -237,6 +227,16 @@
     [
       "procfusion: Very simple process manager written in Rust for your Docker images",
       "https://github.com/linkdd/procfusion"
+    ]
+  ],
+  [
+    [
+      "2024-05-15, 08:12:26",
+      "https://lobste.rs/s/lnav33/ok_considered_harmful"
+    ],
+    [
+      "ok Considered Harmful",
+      "https://www.dolthub.com/blog/2024-05-10-ok-considered-harmful/"
     ]
   ],
   [
