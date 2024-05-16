@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-16](index.md)
 
+* [2024-05-16, 11:41:35](https://lobste.rs/s/eeoef0/ebury_is_alive_unseen_400k_linux_servers) - [Ebury is alive but unseen: 400k Linux servers compromised for cryptotheft and financial gain](https://www.welivesecurity.com/en/eset-research/ebury-alive-unseen-400k-linux-servers-compromised-cryptotheft-financial-gain/)
 * [2024-05-16, 10:53:45](https://lobste.rs/s/33qchy/proxmox_ve_helper_scripts) - [Proxmox VE Helper-Scripts](https://helper-scripts.com/)
 * [2024-05-16, 08:02:50](https://lobste.rs/s/klw4ps/netbsd_bans_all_commits_ai_generated_code) - [NetBSD bans all commits of AI-generated code](https://mastodon.sdf.org/@netbsd/112446618914747900)
 * [2024-05-16, 07:50:15](https://lobste.rs/s/eguuf5/critique_techcrunch_article_on_google_s) - [Critique of the TechCrunch Article on Google's Call-Scanning AI](https://nadim.computer/posts/2024-05-16-googlellm.html)
