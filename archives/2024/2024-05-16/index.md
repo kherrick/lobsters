@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-16](index.md)
 
+* [2024-05-16, 17:58:05](https://lobste.rs/s/7okhuz/avi_wigderson_named_2023_acm_turing_award) - [Avi Wigderson Named 2023 ACM Turing Award Winner](https://awards.acm.org/about/2023-turing)
 * [2024-05-16, 17:00:33](https://lobste.rs/s/uxp7du/geographically_distributed_postgres) - [Geographically distributed Postgres for multi-tenant applications](https://xata.io/blog/geo-distributed-postgres)
 * [2024-05-16, 15:53:55](https://lobste.rs/s/iy6sj9/cyber_security_pre_war_reality_check) - [Cyber Security: A Pre-War Reality Check](https://berthub.eu/articles/posts/cyber-security-pre-war-reality-check/)
 * [2024-05-16, 15:44:24](https://lobste.rs/s/rullsv/design_docs_at_google) - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
