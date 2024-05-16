@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-16, 07:50:15",
+      "https://lobste.rs/s/eguuf5/critique_techcrunch_article_on_google_s"
+    ],
+    [
+      "Critique of the TechCrunch Article on Google's Call-Scanning AI",
+      "https://nadim.computer/posts/2024-05-16-googlellm.html"
+    ]
+  ],
+  [
+    [
       "2024-05-16, 07:43:03",
       "https://lobste.rs/s/okdanu/what_i_ve_learned_building_interactive"
     ],
@@ -127,16 +137,6 @@
     [
       "Jepsen: Datomic Pro 1.0.7075",
       "https://jepsen.io/analyses/datomic-pro-1.0.7075"
-    ]
-  ],
-  [
-    [
-      "2024-05-15, 16:57:39",
-      "https://lobste.rs/s/rwha4e/valordefault"
-    ],
-    [
-      "ValOrDefault",
-      "https://brandur.org/fragments/val-or-default"
     ]
   ],
   [
