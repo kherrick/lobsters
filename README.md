@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-16, 15:44:24](https://lobste.rs/s/rullsv/design_docs_at_google) - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
 * [2024-05-16, 14:41:19](https://lobste.rs/s/mnuhwc/go_s_concurrency_dynamic_language_rye) - [Go's concurrency in a dynamic language Rye](https://ryelang.org/blog/posts/rye-concurrency-go/)
 * [2024-05-16, 13:29:57](https://lobste.rs/s/gs7h8x/what_s_new_neovim_0_10) - [What's New in Neovim 0.10](https://gpanders.com/blog/whats-new-in-neovim-0.10/)
 * [2024-05-16, 13:25:48](https://lobste.rs/s/jfbym4/release_0_4_0_buzz_language_buzz) - [Release 0.4.0 · buzz-language/buzz](https://github.com/buzz-language/buzz/releases/tag/0.4.0)
@@ -13,7 +14,6 @@
 * [2024-05-16, 05:00:32](https://lobste.rs/s/rushnh/some_notes_on_rust_mutable_aliasing) - [Some notes on Rust, mutable aliasing and formal verification](https://graydon2.dreamwidth.org/312681.html)
 * [2024-05-16, 04:45:59](https://lobste.rs/s/bkfpqu/firefox_nightly_now_available_for_linux) - [Firefox Nightly Now Available for Linux on ARM64](https://blog.nightly.mozilla.org/2024/04/19/firefox-nightly-now-available-for-linux-on-arm64/)
 * [2024-05-16, 03:13:20](https://lobste.rs/s/uvlvfv/bad_apple_it_s_animated_qr_code_bad_apple) - [Bad Apple, But It's An Animated QR Code of Bad Apple](https://a.exozy.me/posts/bad-apple-animated-qr-code/)
-* [2024-05-16, 01:30:59](https://lobste.rs/s/wnrbtn/upbge_game_engine_forked_from_blender) - [UPBGE: game engine forked from the Blender Game Engine](https://upbge.org/)
 * [2024-05-15, 23:55:15](https://lobste.rs/s/fnvvcv/rebuilding_my_homelab_suffering_as) - [Rebuilding my homelab: Suffering as a service](https://xeiaso.net/blog/2024/homelab-v2/)
 * [2024-05-15, 22:51:06](https://lobste.rs/s/i2vdrv/upstreaming_linux_kernel_support_for) - [Upstreaming Linux kernel support for the Snapdragon X Elite](https://www.qualcomm.com/developer/blog/2024/05/upstreaming-linux-kernel-support-for-the-snapdragon-x-elite)
 * [2024-05-15, 18:15:30](https://lobste.rs/s/k3h9gz/time_postgresql_said_no_thanks_i_don_t_need) - [That time PostgreSQL said \"no thanks, I don't need your index\"](https://jaywhy13.hashnode.dev/that-time-postgresql-said-no-thanks-i-dont-need-your-index)
