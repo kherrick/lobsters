@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-16](index.md)
 
+* [2024-05-16, 14:41:19](https://lobste.rs/s/mnuhwc/go_s_concurrency_dynamic_language_rye) - [Go's concurrency in a dynamic language Rye](https://ryelang.org/blog/posts/rye-concurrency-go/)
 * [2024-05-16, 13:29:57](https://lobste.rs/s/gs7h8x/what_s_new_neovim_0_10) - [What's New in Neovim 0.10](https://gpanders.com/blog/whats-new-in-neovim-0.10/)
 * [2024-05-16, 13:25:48](https://lobste.rs/s/jfbym4/release_0_4_0_buzz_language_buzz) - [Release 0.4.0 · buzz-language/buzz](https://github.com/buzz-language/buzz/releases/tag/0.4.0)
 * [2024-05-16, 13:01:56](https://lobste.rs/s/jaurnb/odin_programming_language_now_supports) - [Odin programming language now supports NetBSD](https://github.com/odin-lang/Odin/pull/3439)
