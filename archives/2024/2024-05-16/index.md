@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-16](index.md)
 
+* [2024-05-16, 17:00:33](https://lobste.rs/s/uxp7du/geographically_distributed_postgres) - [Geographically distributed Postgres for multi-tenant applications](https://xata.io/blog/geo-distributed-postgres)
 * [2024-05-16, 15:53:55](https://lobste.rs/s/iy6sj9/cyber_security_pre_war_reality_check) - [Cyber Security: A Pre-War Reality Check](https://berthub.eu/articles/posts/cyber-security-pre-war-reality-check/)
 * [2024-05-16, 15:44:24](https://lobste.rs/s/rullsv/design_docs_at_google) - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
 * [2024-05-16, 14:41:19](https://lobste.rs/s/mnuhwc/go_s_concurrency_dynamic_language_rye) - [Go's concurrency in a dynamic language Rye](https://ryelang.org/blog/posts/rye-concurrency-go/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-16, 17:00:33](https://lobste.rs/s/uxp7du/geographically_distributed_postgres) - [Geographically distributed Postgres for multi-tenant applications](https://xata.io/blog/geo-distributed-postgres)
 * [2024-05-16, 15:53:55](https://lobste.rs/s/iy6sj9/cyber_security_pre_war_reality_check) - [Cyber Security: A Pre-War Reality Check](https://berthub.eu/articles/posts/cyber-security-pre-war-reality-check/)
 * [2024-05-16, 15:44:24](https://lobste.rs/s/rullsv/design_docs_at_google) - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
 * [2024-05-16, 14:41:19](https://lobste.rs/s/mnuhwc/go_s_concurrency_dynamic_language_rye) - [Go's concurrency in a dynamic language Rye](https://ryelang.org/blog/posts/rye-concurrency-go/)
@@ -7,7 +8,6 @@
 * [2024-05-16, 13:25:48](https://lobste.rs/s/jfbym4/release_0_4_0_buzz_language_buzz) - [Release 0.4.0 · buzz-language/buzz](https://github.com/buzz-language/buzz/releases/tag/0.4.0)
 * [2024-05-16, 13:01:56](https://lobste.rs/s/jaurnb/odin_programming_language_now_supports) - [Odin programming language now supports NetBSD](https://github.com/odin-lang/Odin/pull/3439)
 * [2024-05-16, 11:41:35](https://lobste.rs/s/eeoef0/ebury_is_alive_unseen_400k_linux_servers) - [Ebury is alive but unseen: 400k Linux servers compromised for cryptotheft and financial gain](https://www.welivesecurity.com/en/eset-research/ebury-alive-unseen-400k-linux-servers-compromised-cryptotheft-financial-gain/)
-* [2024-05-16, 10:53:45](https://lobste.rs/s/33qchy/proxmox_ve_helper_scripts) - [Proxmox VE Helper-Scripts](https://helper-scripts.com/)
 * [2024-05-16, 08:02:50](https://lobste.rs/s/klw4ps/netbsd_bans_all_commits_ai_generated_code) - [NetBSD bans all commits of AI-generated code](https://mastodon.sdf.org/@netbsd/112446618914747900)
 * [2024-05-16, 07:50:15](https://lobste.rs/s/eguuf5/critique_techcrunch_article_on_google_s) - [Critique of the TechCrunch Article on Google's Call-Scanning AI](https://nadim.computer/posts/2024-05-16-googlellm.html)
 * [2024-05-16, 07:43:03](https://lobste.rs/s/okdanu/what_i_ve_learned_building_interactive) - [What I've learned building interactive embedding visualizations](https://cprimozic.net/blog/building-embedding-visualizations-from-user-profiles/)
