@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-16, 21:19:25",
+      "https://lobste.rs/s/e7a8m5/on_hoot_on_boot"
+    ],
+    [
+      "on hoot, on boot",
+      "https://wingolog.org/archives/2024/05/16/on-hoot-on-boot"
+    ]
+  ],
+  [
+    [
       "2024-05-16, 20:34:33",
       "https://lobste.rs/s/qc1p6t/you_probably_don_t_need_validate_utf_8"
     ],
@@ -237,16 +247,6 @@
     [
       "A Rust + WASM development environment with Nix",
       "https://jordankaye.dev/posts/rust-wasm-nix/"
-    ]
-  ],
-  [
-    [
-      "2024-05-15, 13:22:47",
-      "https://lobste.rs/s/g9e3c1/heroku_on_two_standard_dynos"
-    ],
-    [
-      "Heroku on two standard dynos?",
-      "https://brandur.org/fragments/heroku-two-dynos"
     ]
   ]
 ]
