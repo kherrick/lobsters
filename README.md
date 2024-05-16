@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-16, 05:00:32](https://lobste.rs/s/rushnh/some_notes_on_rust_mutable_aliasing) - [Some notes on Rust, mutable aliasing and formal verification](https://graydon2.dreamwidth.org/312681.html)
 * [2024-05-16, 04:45:59](https://lobste.rs/s/bkfpqu/firefox_nightly_now_available_for_linux) - [Firefox Nightly Now Available for Linux on ARM64](https://blog.nightly.mozilla.org/2024/04/19/firefox-nightly-now-available-for-linux-on-arm64/)
 * [2024-05-16, 03:13:20](https://lobste.rs/s/uvlvfv/bad_apple_it_s_animated_qr_code_bad_apple) - [Bad Apple, But It's An Animated QR Code of Bad Apple](https://a.exozy.me/posts/bad-apple-animated-qr-code/)
-* [2024-05-16, 01:30:59](https://lobste.rs/s/wnrbtn/upbge_game_engine_forked_from_blender) - [UPBGE: game engine forked from the Blender Game Engine](https://upbge.org/)
 * [2024-05-15, 23:55:15](https://lobste.rs/s/fnvvcv/rebuilding_my_homelab_suffering_as) - [Rebuilding my homelab: Suffering as a service](https://xeiaso.net/blog/2024/homelab-v2/)
 * [2024-05-15, 22:51:06](https://lobste.rs/s/i2vdrv/upstreaming_linux_kernel_support_for) - [Upstreaming Linux kernel support for the Snapdragon X Elite](https://www.qualcomm.com/developer/blog/2024/05/upstreaming-linux-kernel-support-for-the-snapdragon-x-elite)
 * [2024-05-15, 20:01:38](https://lobste.rs/s/bs96lw/haiku_activity_contract_report_april) - [Haiku Activity & Contract Report, April 2024](https://www.haiku-os.org/blog/waddlesplash/2024-05-14-haiku_activity_contract_report_april_2024/)
