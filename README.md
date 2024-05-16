@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-16, 06:52:56](https://lobste.rs/s/3conux/introducing_new_dns_diagnostics_tooling) - [Introducing new DNS Diagnostics Tooling](https://blog.nlnetlabs.nl/newsletter-may/)
 * [2024-05-16, 05:00:32](https://lobste.rs/s/rushnh/some_notes_on_rust_mutable_aliasing) - [Some notes on Rust, mutable aliasing and formal verification](https://graydon2.dreamwidth.org/312681.html)
 * [2024-05-16, 04:45:59](https://lobste.rs/s/bkfpqu/firefox_nightly_now_available_for_linux) - [Firefox Nightly Now Available for Linux on ARM64](https://blog.nightly.mozilla.org/2024/04/19/firefox-nightly-now-available-for-linux-on-arm64/)
 * [2024-05-16, 03:13:20](https://lobste.rs/s/uvlvfv/bad_apple_it_s_animated_qr_code_bad_apple) - [Bad Apple, But It's An Animated QR Code of Bad Apple](https://a.exozy.me/posts/bad-apple-animated-qr-code/)
@@ -16,7 +17,6 @@
 * [2024-05-15, 13:24:33](https://lobste.rs/s/mgnifo/rust_wasm_development_environment_with) - [A Rust + WASM development environment with Nix](https://jordankaye.dev/posts/rust-wasm-nix/)
 * [2024-05-15, 13:22:47](https://lobste.rs/s/g9e3c1/heroku_on_two_standard_dynos) - [Heroku on two standard dynos?](https://brandur.org/fragments/heroku-two-dynos)
 * [2024-05-15, 13:06:16](https://lobste.rs/s/ddq6ji/procfusion_very_simple_process_manager) - [procfusion: Very simple process manager written in Rust for your Docker images](https://github.com/linkdd/procfusion)
-* [2024-05-15, 12:26:30](https://lobste.rs/s/oq00fc/empirical_evaluation_columnar_storage) - [An Empirical Evaluation of Columnar Storage Formats](https://www.vldb.org/pvldb/vol17/p148-zeng.pdf)
 * [2024-05-15, 10:03:10](https://lobste.rs/s/scyvbr/how_pycon) - [How To PyCon](https://blog.glyph.im/2024/05/how-to-pycon.html)
 * [2024-05-15, 08:55:55](https://lobste.rs/s/449txi/translation_rust_s_core_alloc_crates_coq) - [Translation of Rust's core and alloc crates to Coq](https://formal.land/blog/2024/04/26/translation-core-alloc-crates)
 * [2024-05-15, 08:12:26](https://lobste.rs/s/lnav33/ok_considered_harmful) - [ok Considered Harmful](https://www.dolthub.com/blog/2024-05-10-ok-considered-harmful/)
