@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-16, 03:13:20](https://lobste.rs/s/uvlvfv/bad_apple_it_s_animated_qr_code_bad_apple) - [Bad Apple, But It's An Animated QR Code of Bad Apple](https://a.exozy.me/posts/bad-apple-animated-qr-code/)
 * [2024-05-16, 01:30:59](https://lobste.rs/s/wnrbtn/upbge_game_engine_forked_from_blender) - [UPBGE: game engine forked from the Blender Game Engine](https://upbge.org/)
 * [2024-05-15, 23:55:15](https://lobste.rs/s/fnvvcv/rebuilding_my_homelab_suffering_as) - [Rebuilding my homelab: Suffering as a service](https://xeiaso.net/blog/2024/homelab-v2/)
 * [2024-05-15, 22:51:06](https://lobste.rs/s/i2vdrv/upstreaming_linux_kernel_support_for) - [Upstreaming Linux kernel support for the Snapdragon X Elite](https://www.qualcomm.com/developer/blog/2024/05/upstreaming-linux-kernel-support-for-the-snapdragon-x-elite)
@@ -24,7 +25,6 @@
 * [2024-05-14, 23:39:33](https://lobste.rs/s/rfjg3l/add_sysctl_disable_nagle_s_algorithm_rfc) - [Add sysctl to disable Nagle's algorithm (RFC 896 - Congestion Control)](https://marc.info/?l=openbsd-tech&m=171562561424289&w=2)
 * [2024-05-14, 21:28:00](https://lobste.rs/s/858y39/going_cinema_is_data_visualization) - [Going to the cinema is a data visualization problem](https://tonsky.me/blog/allekinos/)
 * [2024-05-14, 13:07:19](https://lobste.rs/s/uoprsr/how_bad_is_llvm_really) - [How bad is LLVM really?](https://c3.handmade.network/blog/p/8852-how_bad_is_llvm_really)
-* [2024-05-14, 12:12:06](https://lobste.rs/s/ee8v8p/before_you_try_change_something_make_sure) - [Before you try to change something, make sure you can change nothing](https://devblogs.microsoft.com/oldnewthing/20240513-00/?p=109750)
 
 ## [Archives](archives/index.md)
 
