@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-16, 21:19:25](https://lobste.rs/s/e7a8m5/on_hoot_on_boot) - [on hoot, on boot](https://wingolog.org/archives/2024/05/16/on-hoot-on-boot)
 * [2024-05-16, 20:34:33](https://lobste.rs/s/qc1p6t/you_probably_don_t_need_validate_utf_8) - [You probably don't need to validate UTF-8 strings](https://viralinstruction.com/posts/utf8/)
 * [2024-05-16, 20:13:52](https://lobste.rs/s/1zxhy4/d3_depth_create_with_data) - [D3 in Depth: Create With Data](https://www.d3indepth.com/)
 * [2024-05-16, 18:48:13](https://lobste.rs/s/ydium7/google_uses_irc_for_incident_response) - [Google Uses IRC for Incident Response](https://sre.google/sre-book/managing-incidents/)
@@ -24,7 +25,6 @@
 * [2024-05-15, 16:57:56](https://lobste.rs/s/rjonl7/jepsen_datomic_pro_1_0_7075) - [Jepsen: Datomic Pro 1.0.7075](https://jepsen.io/analyses/datomic-pro-1.0.7075)
 * [2024-05-15, 13:29:05](https://lobste.rs/s/t64ihx/vmware_fusion_worst_website_entire_world) - [VMware Fusion: The Worst Website In The Entire World](https://matduggan.com/the-worst-website-in-the-entire-world/)
 * [2024-05-15, 13:24:33](https://lobste.rs/s/mgnifo/rust_wasm_development_environment_with) - [A Rust + WASM development environment with Nix](https://jordankaye.dev/posts/rust-wasm-nix/)
-* [2024-05-15, 13:22:47](https://lobste.rs/s/g9e3c1/heroku_on_two_standard_dynos) - [Heroku on two standard dynos?](https://brandur.org/fragments/heroku-two-dynos)
 
 ## [Archives](archives/index.md)
 
