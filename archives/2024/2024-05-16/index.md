@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-16](index.md)
 
+* [2024-05-16, 13:25:48](https://lobste.rs/s/jfbym4/release_0_4_0_buzz_language_buzz) - [Release 0.4.0 · buzz-language/buzz](https://github.com/buzz-language/buzz/releases/tag/0.4.0)
 * [2024-05-16, 13:01:56](https://lobste.rs/s/jaurnb/odin_programming_language_now_supports) - [Odin programming language now supports NetBSD](https://github.com/odin-lang/Odin/pull/3439)
 * [2024-05-16, 13:01:03](https://lobste.rs/s/ikgcdp/netbsd_bans_use_copilot_generated_code) - [NetBSD bans use of Copilot-generated code](https://www.osnews.com/story/139698/netbsd-bans-use-of-copilot-generated-code/)
 * [2024-05-16, 11:41:35](https://lobste.rs/s/eeoef0/ebury_is_alive_unseen_400k_linux_servers) - [Ebury is alive but unseen: 400k Linux servers compromised for cryptotheft and financial gain](https://www.welivesecurity.com/en/eset-research/ebury-alive-unseen-400k-linux-servers-compromised-cryptotheft-financial-gain/)

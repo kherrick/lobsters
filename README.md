@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-16, 13:25:48](https://lobste.rs/s/jfbym4/release_0_4_0_buzz_language_buzz) - [Release 0.4.0 · buzz-language/buzz](https://github.com/buzz-language/buzz/releases/tag/0.4.0)
 * [2024-05-16, 13:01:56](https://lobste.rs/s/jaurnb/odin_programming_language_now_supports) - [Odin programming language now supports NetBSD](https://github.com/odin-lang/Odin/pull/3439)
 * [2024-05-16, 13:01:03](https://lobste.rs/s/ikgcdp/netbsd_bans_use_copilot_generated_code) - [NetBSD bans use of Copilot-generated code](https://www.osnews.com/story/139698/netbsd-bans-use-of-copilot-generated-code/)
 * [2024-05-16, 11:41:35](https://lobste.rs/s/eeoef0/ebury_is_alive_unseen_400k_linux_servers) - [Ebury is alive but unseen: 400k Linux servers compromised for cryptotheft and financial gain](https://www.welivesecurity.com/en/eset-research/ebury-alive-unseen-400k-linux-servers-compromised-cryptotheft-financial-gain/)
@@ -14,7 +15,6 @@
 * [2024-05-16, 01:30:59](https://lobste.rs/s/wnrbtn/upbge_game_engine_forked_from_blender) - [UPBGE: game engine forked from the Blender Game Engine](https://upbge.org/)
 * [2024-05-15, 23:55:15](https://lobste.rs/s/fnvvcv/rebuilding_my_homelab_suffering_as) - [Rebuilding my homelab: Suffering as a service](https://xeiaso.net/blog/2024/homelab-v2/)
 * [2024-05-15, 22:51:06](https://lobste.rs/s/i2vdrv/upstreaming_linux_kernel_support_for) - [Upstreaming Linux kernel support for the Snapdragon X Elite](https://www.qualcomm.com/developer/blog/2024/05/upstreaming-linux-kernel-support-for-the-snapdragon-x-elite)
-* [2024-05-15, 18:32:08](https://lobste.rs/s/rb1gf4/make_game_with_hoot_for_lisp_game_jam) - [Make a game with Hoot for the Lisp Game Jam](https://spritely.institute/news/make-a-game-with-hoot-for-the-lisp-game-jam.html)
 * [2024-05-15, 18:15:30](https://lobste.rs/s/k3h9gz/time_postgresql_said_no_thanks_i_don_t_need) - [That time PostgreSQL said \"no thanks, I don't need your index\"](https://jaywhy13.hashnode.dev/that-time-postgresql-said-no-thanks-i-dont-need-your-index)
 * [2024-05-15, 17:53:05](https://lobste.rs/s/9g6zru/crash_user_configurable_login_shell) - [crash: user-configurable login shell configured by the SHELLS environment variable](https://github.com/RGBCube/crash)
 * [2024-05-15, 16:57:56](https://lobste.rs/s/rjonl7/jepsen_datomic_pro_1_0_7075) - [Jepsen: Datomic Pro 1.0.7075](https://jepsen.io/analyses/datomic-pro-1.0.7075)
