@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-16](index.md)
 
+* [2024-05-16, 21:57:33](https://lobste.rs/s/pmvh6y/implementing_mvcc_major_sql_transaction) - [Implementing MVCC and major SQL transaction isolation levels](https://notes.eatonphil.com/2024-05-16-mvcc.html)
 * [2024-05-16, 21:33:17](https://lobste.rs/s/qhu738/look_at_mojo_language_for_bioinformatics) - [A look at the Mojo language for bioinformatics](https://viralinstruction.com/posts/mojo/)
 * [2024-05-16, 21:30:25](https://lobste.rs/s/bwefnf/rog_o_matic_belligerent_expert_system) - [ROG-O-MATIC: A Belligerent Expert System](https://www.cs.princeton.edu/~appel/papers/rogomatic.html)
 * [2024-05-16, 21:19:25](https://lobste.rs/s/e7a8m5/on_hoot_on_boot) - [on hoot, on boot](https://wingolog.org/archives/2024/05/16/on-hoot-on-boot)
