@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-16, 20:34:33](https://lobste.rs/s/qc1p6t/you_probably_don_t_need_validate_utf_8) - [You probably don't need to validate UTF-8 strings](https://viralinstruction.com/posts/utf8/)
 * [2024-05-16, 20:13:52](https://lobste.rs/s/1zxhy4/d3_depth_create_with_data) - [D3 in Depth: Create With Data](https://www.d3indepth.com/)
 * [2024-05-16, 18:48:13](https://lobste.rs/s/ydium7/google_uses_irc_for_incident_response) - [Google Uses IRC for Incident Response](https://sre.google/sre-book/managing-incidents/)
 * [2024-05-16, 17:58:05](https://lobste.rs/s/7okhuz/avi_wigderson_named_2023_acm_turing_award) - [Avi Wigderson Named 2023 ACM Turing Award Winner](https://awards.acm.org/about/2023-turing)
@@ -19,7 +20,6 @@
 * [2024-05-16, 04:45:59](https://lobste.rs/s/bkfpqu/firefox_nightly_now_available_for_linux) - [Firefox Nightly Now Available for Linux on ARM64](https://blog.nightly.mozilla.org/2024/04/19/firefox-nightly-now-available-for-linux-on-arm64/)
 * [2024-05-16, 03:13:20](https://lobste.rs/s/uvlvfv/bad_apple_it_s_animated_qr_code_bad_apple) - [Bad Apple, But It's An Animated QR Code of Bad Apple](https://a.exozy.me/posts/bad-apple-animated-qr-code/)
 * [2024-05-15, 23:55:15](https://lobste.rs/s/fnvvcv/rebuilding_my_homelab_suffering_as) - [Rebuilding my homelab: Suffering as a service](https://xeiaso.net/blog/2024/homelab-v2/)
-* [2024-05-15, 22:51:06](https://lobste.rs/s/i2vdrv/upstreaming_linux_kernel_support_for) - [Upstreaming Linux kernel support for the Snapdragon X Elite](https://www.qualcomm.com/developer/blog/2024/05/upstreaming-linux-kernel-support-for-the-snapdragon-x-elite)
 * [2024-05-15, 18:15:30](https://lobste.rs/s/k3h9gz/time_postgresql_said_no_thanks_i_don_t_need) - [That time PostgreSQL said \"no thanks, I don't need your index\"](https://jaywhy13.hashnode.dev/that-time-postgresql-said-no-thanks-i-dont-need-your-index)
 * [2024-05-15, 16:57:56](https://lobste.rs/s/rjonl7/jepsen_datomic_pro_1_0_7075) - [Jepsen: Datomic Pro 1.0.7075](https://jepsen.io/analyses/datomic-pro-1.0.7075)
 * [2024-05-15, 13:29:05](https://lobste.rs/s/t64ihx/vmware_fusion_worst_website_entire_world) - [VMware Fusion: The Worst Website In The Entire World](https://matduggan.com/the-worst-website-in-the-entire-world/)
