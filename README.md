@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-16, 07:43:03](https://lobste.rs/s/okdanu/what_i_ve_learned_building_interactive) - [What I've learned building interactive embedding visualizations](https://cprimozic.net/blog/building-embedding-visualizations-from-user-profiles/)
 * [2024-05-16, 06:52:56](https://lobste.rs/s/3conux/introducing_new_dns_diagnostics_tooling) - [Introducing new DNS Diagnostics Tooling](https://blog.nlnetlabs.nl/newsletter-may/)
 * [2024-05-16, 05:00:32](https://lobste.rs/s/rushnh/some_notes_on_rust_mutable_aliasing) - [Some notes on Rust, mutable aliasing and formal verification](https://graydon2.dreamwidth.org/312681.html)
 * [2024-05-16, 04:45:59](https://lobste.rs/s/bkfpqu/firefox_nightly_now_available_for_linux) - [Firefox Nightly Now Available for Linux on ARM64](https://blog.nightly.mozilla.org/2024/04/19/firefox-nightly-now-available-for-linux-on-arm64/)
@@ -18,7 +19,6 @@
 * [2024-05-15, 13:24:33](https://lobste.rs/s/mgnifo/rust_wasm_development_environment_with) - [A Rust + WASM development environment with Nix](https://jordankaye.dev/posts/rust-wasm-nix/)
 * [2024-05-15, 13:22:47](https://lobste.rs/s/g9e3c1/heroku_on_two_standard_dynos) - [Heroku on two standard dynos?](https://brandur.org/fragments/heroku-two-dynos)
 * [2024-05-15, 13:06:16](https://lobste.rs/s/ddq6ji/procfusion_very_simple_process_manager) - [procfusion: Very simple process manager written in Rust for your Docker images](https://github.com/linkdd/procfusion)
-* [2024-05-15, 10:03:10](https://lobste.rs/s/scyvbr/how_pycon) - [How To PyCon](https://blog.glyph.im/2024/05/how-to-pycon.html)
 * [2024-05-15, 08:12:26](https://lobste.rs/s/lnav33/ok_considered_harmful) - [ok Considered Harmful](https://www.dolthub.com/blog/2024-05-10-ok-considered-harmful/)
 * [2024-05-15, 07:22:02](https://lobste.rs/s/ofn5ho/inside_low_budget_consumer_hardware) - [Inside a low budget consumer hardware espionage implant](https://ha.cking.ch/s8_data_line_locator/)
 * [2024-05-15, 06:55:20](https://lobste.rs/s/kopbhe/discovering_small_github_projects_for) - [Discovering Small GitHub Projects for Contributing to FOSS](https://wiki.developersindia.in/faqs/finding-small-foss-projects-on-github)
