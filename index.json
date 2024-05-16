@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-16, 14:41:19",
+      "https://lobste.rs/s/mnuhwc/go_s_concurrency_dynamic_language_rye"
+    ],
+    [
+      "Go's concurrency in a dynamic language Rye",
+      "https://ryelang.org/blog/posts/rye-concurrency-go/"
+    ]
+  ],
+  [
+    [
       "2024-05-16, 13:29:57",
       "https://lobste.rs/s/gs7h8x/what_s_new_neovim_0_10"
     ],
@@ -227,16 +237,6 @@
     [
       "procfusion: Very simple process manager written in Rust for your Docker images",
       "https://github.com/linkdd/procfusion"
-    ]
-  ],
-  [
-    [
-      "2024-05-15, 08:12:26",
-      "https://lobste.rs/s/lnav33/ok_considered_harmful"
-    ],
-    [
-      "ok Considered Harmful",
-      "https://www.dolthub.com/blog/2024-05-10-ok-considered-harmful/"
     ]
   ],
   [
