@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-17, 06:38:33",
+      "https://lobste.rs/s/wrqg0p/wb_b_tree_database"
+    ],
+    [
+      "The WB B-Tree Database",
+      "https://people.csail.mit.edu/jaffer/WB"
+    ]
+  ],
+  [
+    [
       "2024-05-17, 06:24:17",
       "https://lobste.rs/s/xdn9x7/using_rust_macros_for_custom_vtables"
     ],
@@ -167,16 +177,6 @@
     [
       "Release 0.4.0 · buzz-language/buzz",
       "https://github.com/buzz-language/buzz/releases/tag/0.4.0"
-    ]
-  ],
-  [
-    [
-      "2024-05-16, 13:01:56",
-      "https://lobste.rs/s/jaurnb/odin_programming_language_now_supports"
-    ],
-    [
-      "Odin programming language now supports NetBSD",
-      "https://github.com/odin-lang/Odin/pull/3439"
     ]
   ],
   [
