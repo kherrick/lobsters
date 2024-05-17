@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
+* [2024-05-17, 14:10:44](https://lobste.rs/s/iurz7z/faster_linking_times_on_nightly_on_linux) - [Faster linking times on nightly on Linux using \"rust-lld\"](https://blog.rust-lang.org/2024/05/17/enabling-rust-lld-on-linux.html)
 * [2024-05-17, 13:37:14](https://lobste.rs/s/9cmzln/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/9cmzln/what_are_you_doing_this_weekend)
 * [2024-05-17, 13:36:23](https://lobste.rs/s/brdmva/static_wordle) - [Static Wordle](https://www.val.town/v/stevekrouse/staticWordle)
 * [2024-05-17, 13:08:24](https://lobste.rs/s/zut7rc/simplifying_join_syntax) - [Simplifying JOIN syntax](https://github.com/SPLWare/esProc/wiki/Simplifying-JOIN-syntax-(JOIN-Simplification-and-Acceleration-Series-3))

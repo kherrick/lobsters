@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-17, 14:10:44](https://lobste.rs/s/iurz7z/faster_linking_times_on_nightly_on_linux) - [Faster linking times on nightly on Linux using \"rust-lld\"](https://blog.rust-lang.org/2024/05/17/enabling-rust-lld-on-linux.html)
 * [2024-05-17, 13:37:14](https://lobste.rs/s/9cmzln/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/9cmzln/what_are_you_doing_this_weekend)
 * [2024-05-17, 13:36:23](https://lobste.rs/s/brdmva/static_wordle) - [Static Wordle](https://www.val.town/v/stevekrouse/staticWordle)
 * [2024-05-17, 13:08:24](https://lobste.rs/s/zut7rc/simplifying_join_syntax) - [Simplifying JOIN syntax](https://github.com/SPLWare/esProc/wiki/Simplifying-JOIN-syntax-(JOIN-Simplification-and-Acceleration-Series-3))
@@ -12,7 +13,6 @@
 * [2024-05-17, 04:50:10](https://lobste.rs/s/sowhmn/rainbow_hats_puzzle) - [The Rainbow Hats Puzzle](https://taoa.io/posts/The-Rainbow-Hats-Puzzle)
 * [2024-05-17, 00:56:56](https://lobste.rs/s/znphra/rfc_mitigating_unexpected_arithmetic) - [[RFC] Mitigating unexpected arithmetic overflow](https://lore.kernel.org/all/202404291502.612E0A10@keescook/)
 * [2024-05-17, 00:18:24](https://lobste.rs/s/uy3lho/transport_protocol_s_view_starlink) - [A Transport Protocol's View of Starlink](https://www.potaroo.net/ispcol/2024-05/starlink-tcp.html)
-* [2024-05-16, 23:42:28](https://lobste.rs/s/1evlcy/beyond_public_key_encryption) - [Beyond public key encryption](https://blog.cryptographyengineering.com/2017/07/02/beyond-public-key-encryption/)
 * [2024-05-16, 23:14:11](https://lobste.rs/s/evqdko/building_cross_platform_offline_first) - [Building Cross-Platform Offline-First Apps with Bluetooth Low Energy](https://octet-stream.net/2024/05/building-cross-platform-offline-first-apps-with-bluetooth-low-energy/)
 * [2024-05-16, 21:57:33](https://lobste.rs/s/pmvh6y/implementing_mvcc_major_sql_transaction) - [Implementing MVCC and major SQL transaction isolation levels](https://notes.eatonphil.com/2024-05-16-mvcc.html)
 * [2024-05-16, 21:19:25](https://lobste.rs/s/e7a8m5/on_hoot_on_boot) - [on hoot, on boot](https://wingolog.org/archives/2024/05/16/on-hoot-on-boot)
