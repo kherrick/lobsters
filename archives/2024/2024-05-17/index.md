@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
 * [2024-05-17, 16:04:58](https://lobste.rs/s/6fqung/kafka_consumers_python_walkthrough) - [Kafka Consumers in Python - A Walkthrough](https://youtu.be/eCsSAzTy5cE)
+* [2024-05-17, 14:55:59](https://lobste.rs/s/bkwzk4/forged_apple_employee_badge) - [The Forged Apple Employee Badge](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
 * [2024-05-17, 14:52:35](https://lobste.rs/s/yygbyj/bimi_dmarc_can_t_save_you_overlooked_dkim) - [BIMI and DMARC can't save you: the overlooked DKIM exploit](https://www.zone.eu/blog/2024/05/17/bimi-and-dmarc-cant-save-you/)
 * [2024-05-17, 14:41:22](https://lobste.rs/s/dj5rcs/non_euclidean_doom_what_happens_game_when) - [Non-Euclidean Doom: what happens to a game when pi is not 3.14159…](https://media.ccc.de/v/mch2022-236-non-euclidean-doom-what-happens-to-a-game-when-pi-is-not-3-14159-#t=324)
 * [2024-05-17, 14:33:03](https://lobste.rs/s/npvdod/firefox_bookmark_keywords_for_faster) - [Firefox bookmark keywords for faster navigation](https://blog.meain.io/2024/firefox-bookmark-keywords)
