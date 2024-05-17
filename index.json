@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-17, 21:36:12",
+      "https://lobste.rs/s/amfqyw/generic_concurrency_go"
+    ],
+    [
+      "Generic Concurrency in Go",
+      "https://sergey.kamardin.org/articles/generic-concurrency-in-go/"
+    ]
+  ],
+  [
+    [
       "2024-05-17, 19:53:53",
       "https://lobste.rs/s/kl9bct/butano_modern_c_high_level_gba_engine"
     ],
@@ -187,16 +197,6 @@
     [
       "Building Cross-Platform Offline-First Apps with Bluetooth Low Energy",
       "https://octet-stream.net/2024/05/building-cross-platform-offline-first-apps-with-bluetooth-low-energy/"
-    ]
-  ],
-  [
-    [
-      "2024-05-16, 21:57:33",
-      "https://lobste.rs/s/pmvh6y/implementing_mvcc_major_sql_transaction"
-    ],
-    [
-      "Implementing MVCC and major SQL transaction isolation levels",
-      "https://notes.eatonphil.com/2024-05-16-mvcc.html"
     ]
   ],
   [
