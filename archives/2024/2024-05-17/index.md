@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
+* [2024-05-17, 16:40:54](https://lobste.rs/s/dmgwip/sshd_8_split_into_multiple_binaries) - [sshd(8) split into multiple binaries](https://undeadly.org/cgi?action=article;sid=20240517092416)
 * [2024-05-17, 16:04:58](https://lobste.rs/s/6fqung/kafka_consumers_python_walkthrough) - [Kafka Consumers in Python - A Walkthrough](https://youtu.be/eCsSAzTy5cE)
 * [2024-05-17, 14:55:59](https://lobste.rs/s/bkwzk4/forged_apple_employee_badge) - [The Forged Apple Employee Badge](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
 * [2024-05-17, 14:52:35](https://lobste.rs/s/yygbyj/bimi_dmarc_can_t_save_you_overlooked_dkim) - [BIMI and DMARC can't save you: the overlooked DKIM exploit](https://www.zone.eu/blog/2024/05/17/bimi-and-dmarc-cant-save-you/)

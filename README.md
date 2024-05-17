@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-17, 16:40:54](https://lobste.rs/s/dmgwip/sshd_8_split_into_multiple_binaries) - [sshd(8) split into multiple binaries](https://undeadly.org/cgi?action=article;sid=20240517092416)
 * [2024-05-17, 16:04:58](https://lobste.rs/s/6fqung/kafka_consumers_python_walkthrough) - [Kafka Consumers in Python - A Walkthrough](https://youtu.be/eCsSAzTy5cE)
 * [2024-05-17, 14:55:59](https://lobste.rs/s/bkwzk4/forged_apple_employee_badge) - [The Forged Apple Employee Badge](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
 * [2024-05-17, 14:52:35](https://lobste.rs/s/yygbyj/bimi_dmarc_can_t_save_you_overlooked_dkim) - [BIMI and DMARC can't save you: the overlooked DKIM exploit](https://www.zone.eu/blog/2024/05/17/bimi-and-dmarc-cant-save-you/)
@@ -15,7 +16,6 @@
 * [2024-05-17, 07:25:08](https://lobste.rs/s/weihxc/don_t_return_err_go) - [Don’t return err in Go](https://akavel.com/go-errors)
 * [2024-05-17, 06:46:34](https://lobste.rs/s/qzttmw/winamp_has_announced_it_is_opening_up_its) - [Winamp has announced that it is opening up its source](https://about.winamp.com/press/article/winamp-open-source-code)
 * [2024-05-17, 04:50:10](https://lobste.rs/s/sowhmn/rainbow_hats_puzzle) - [The Rainbow Hats Puzzle](https://taoa.io/posts/The-Rainbow-Hats-Puzzle)
-* [2024-05-17, 00:56:56](https://lobste.rs/s/znphra/rfc_mitigating_unexpected_arithmetic) - [[RFC] Mitigating unexpected arithmetic overflow](https://lore.kernel.org/all/202404291502.612E0A10@keescook/)
 * [2024-05-16, 23:14:11](https://lobste.rs/s/evqdko/building_cross_platform_offline_first) - [Building Cross-Platform Offline-First Apps with Bluetooth Low Energy](https://octet-stream.net/2024/05/building-cross-platform-offline-first-apps-with-bluetooth-low-energy/)
 * [2024-05-16, 21:57:33](https://lobste.rs/s/pmvh6y/implementing_mvcc_major_sql_transaction) - [Implementing MVCC and major SQL transaction isolation levels](https://notes.eatonphil.com/2024-05-16-mvcc.html)
 * [2024-05-16, 21:19:25](https://lobste.rs/s/e7a8m5/on_hoot_on_boot) - [on hoot, on boot](https://wingolog.org/archives/2024/05/16/on-hoot-on-boot)
