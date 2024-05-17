@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-17, 07:25:08](https://lobste.rs/s/weihxc/don_t_return_err_go) - [Don’t return err in Go](https://akavel.com/go-errors)
 * [2024-05-17, 06:46:34](https://lobste.rs/s/qzttmw/winamp_has_announced_it_is_opening_up_its) - [Winamp has announced that it is opening up its source](https://about.winamp.com/press/article/winamp-open-source-code)
 * [2024-05-17, 06:38:33](https://lobste.rs/s/wrqg0p/wb_b_tree_database) - [The WB B-Tree Database](https://people.csail.mit.edu/jaffer/WB)
 * [2024-05-17, 06:24:17](https://lobste.rs/s/xdn9x7/using_rust_macros_for_custom_vtables) - [Using Rust Macros for Custom VTables](http://lucumr.pocoo.org/2024/5/16/macro-vtable-magic)
@@ -9,7 +10,6 @@
 * [2024-05-16, 23:42:28](https://lobste.rs/s/1evlcy/beyond_public_key_encryption) - [Beyond public key encryption](https://blog.cryptographyengineering.com/2017/07/02/beyond-public-key-encryption/)
 * [2024-05-16, 23:14:11](https://lobste.rs/s/evqdko/building_cross_platform_offline_first) - [Building Cross-Platform Offline-First Apps with Bluetooth Low Energy](https://octet-stream.net/2024/05/building-cross-platform-offline-first-apps-with-bluetooth-low-energy/)
 * [2024-05-16, 21:57:33](https://lobste.rs/s/pmvh6y/implementing_mvcc_major_sql_transaction) - [Implementing MVCC and major SQL transaction isolation levels](https://notes.eatonphil.com/2024-05-16-mvcc.html)
-* [2024-05-16, 21:33:17](https://lobste.rs/s/qhu738/look_at_mojo_language_for_bioinformatics) - [A look at the Mojo language for bioinformatics](https://viralinstruction.com/posts/mojo/)
 * [2024-05-16, 21:19:25](https://lobste.rs/s/e7a8m5/on_hoot_on_boot) - [on hoot, on boot](https://wingolog.org/archives/2024/05/16/on-hoot-on-boot)
 * [2024-05-16, 20:34:33](https://lobste.rs/s/qc1p6t/you_probably_don_t_need_validate_utf_8) - [You probably don't need to validate UTF-8 strings](https://viralinstruction.com/posts/utf8/)
 * [2024-05-16, 20:13:52](https://lobste.rs/s/1zxhy4/d3_depth_create_with_data) - [D3 in Depth: Create With Data](https://www.d3indepth.com/)

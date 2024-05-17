@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
+* [2024-05-17, 07:25:08](https://lobste.rs/s/weihxc/don_t_return_err_go) - [Don’t return err in Go](https://akavel.com/go-errors)
 * [2024-05-17, 06:46:34](https://lobste.rs/s/qzttmw/winamp_has_announced_it_is_opening_up_its) - [Winamp has announced that it is opening up its source](https://about.winamp.com/press/article/winamp-open-source-code)
 * [2024-05-17, 06:38:33](https://lobste.rs/s/wrqg0p/wb_b_tree_database) - [The WB B-Tree Database](https://people.csail.mit.edu/jaffer/WB)
 * [2024-05-17, 06:24:17](https://lobste.rs/s/xdn9x7/using_rust_macros_for_custom_vtables) - [Using Rust Macros for Custom VTables](http://lucumr.pocoo.org/2024/5/16/macro-vtable-magic)
