@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-17, 13:37:14](https://lobste.rs/s/9cmzln/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/9cmzln/what_are_you_doing_this_weekend)
+* [2024-05-17, 13:36:23](https://lobste.rs/s/brdmva/static_wordle) - [Static Wordle](https://www.val.town/v/stevekrouse/staticWordle)
 * [2024-05-17, 13:08:24](https://lobste.rs/s/zut7rc/simplifying_join_syntax) - [Simplifying JOIN syntax](https://github.com/SPLWare/esProc/wiki/Simplifying-JOIN-syntax-(JOIN-Simplification-and-Acceleration-Series-3))
 * [2024-05-17, 11:54:29](https://lobste.rs/s/a0yh8p/so_we_built_reverse_tunnel_go_over_http_3) - [So we built a Reverse Tunnel in Go over HTTP/3 and QUIC](https://blog.flipt.io/so-we-built-reverst)
 * [2024-05-17, 10:53:51](https://lobste.rs/s/0c8imd/curl_tor_dot_onion_socks) - [curl, Tor, dot onion and SOCKS](https://daniel.haxx.se/blog/2024/05/17/curl-tor-dot-onion-and-socks/)
@@ -17,10 +19,8 @@
 * [2024-05-16, 20:34:33](https://lobste.rs/s/qc1p6t/you_probably_don_t_need_validate_utf_8) - [You probably don't need to validate UTF-8 strings](https://viralinstruction.com/posts/utf8/)
 * [2024-05-16, 18:48:13](https://lobste.rs/s/ydium7/google_uses_irc_for_incident_response) - [Google Uses IRC for Incident Response](https://sre.google/sre-book/managing-incidents/)
 * [2024-05-16, 15:53:55](https://lobste.rs/s/iy6sj9/cyber_security_pre_war_reality_check) - [Cyber Security: A Pre-War Reality Check](https://berthub.eu/articles/posts/cyber-security-pre-war-reality-check/)
-* [2024-05-16, 15:44:24](https://lobste.rs/s/rullsv/design_docs_at_google) - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
 * [2024-05-16, 14:41:19](https://lobste.rs/s/mnuhwc/go_s_concurrency_dynamic_language_rye) - [Go's concurrency in a dynamic language Rye](https://ryelang.org/blog/posts/rye-concurrency-go/)
 * [2024-05-16, 13:29:57](https://lobste.rs/s/gs7h8x/what_s_new_neovim_0_10) - [What's New in Neovim 0.10](https://gpanders.com/blog/whats-new-in-neovim-0.10/)
-* [2024-05-16, 13:25:48](https://lobste.rs/s/jfbym4/release_0_4_0_buzz_language_buzz) - [Release 0.4.0 · buzz-language/buzz](https://github.com/buzz-language/buzz/releases/tag/0.4.0)
 * [2024-05-16, 08:02:50](https://lobste.rs/s/klw4ps/netbsd_bans_all_commits_ai_generated_code) - [NetBSD bans all commits of AI-generated code](https://mastodon.sdf.org/@netbsd/112446618914747900)
 * [2024-05-16, 05:00:32](https://lobste.rs/s/rushnh/some_notes_on_rust_mutable_aliasing) - [Some notes on Rust, mutable aliasing and formal verification](https://graydon2.dreamwidth.org/312681.html)
 * [2024-05-15, 23:55:15](https://lobste.rs/s/fnvvcv/rebuilding_my_homelab_suffering_as) - [Rebuilding my homelab: Suffering as a service](https://xeiaso.net/blog/2024/homelab-v2/)
