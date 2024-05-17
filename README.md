@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-17, 04:50:10](https://lobste.rs/s/sowhmn/rainbow_hats_puzzle) - [The Rainbow Hats Puzzle](https://taoa.io/posts/The-Rainbow-Hats-Puzzle)
 * [2024-05-17, 00:56:56](https://lobste.rs/s/znphra/rfc_mitigating_unexpected_arithmetic) - [[RFC] Mitigating unexpected arithmetic overflow - Kees Cook](https://lore.kernel.org/all/202404291502.612E0A10@keescook/)
 * [2024-05-17, 00:18:24](https://lobste.rs/s/uy3lho/transport_protocol_s_view_starlink) - [A Transport Protocol's View of Starlink](https://www.potaroo.net/ispcol/2024-05/starlink-tcp.html)
 * [2024-05-17, 00:05:08](https://lobste.rs/s/ixtgmw/what_even_is_pidfd_anyway) - [What even is a pidfd anyway?](https://www.corsix.org/content/what-is-a-pidfd)
@@ -18,7 +19,6 @@
 * [2024-05-16, 13:25:48](https://lobste.rs/s/jfbym4/release_0_4_0_buzz_language_buzz) - [Release 0.4.0 · buzz-language/buzz](https://github.com/buzz-language/buzz/releases/tag/0.4.0)
 * [2024-05-16, 13:01:56](https://lobste.rs/s/jaurnb/odin_programming_language_now_supports) - [Odin programming language now supports NetBSD](https://github.com/odin-lang/Odin/pull/3439)
 * [2024-05-16, 08:02:50](https://lobste.rs/s/klw4ps/netbsd_bans_all_commits_ai_generated_code) - [NetBSD bans all commits of AI-generated code](https://mastodon.sdf.org/@netbsd/112446618914747900)
-* [2024-05-16, 07:50:15](https://lobste.rs/s/eguuf5/critique_techcrunch_article_on_google_s) - [Critique of the TechCrunch Article on Google's Call-Scanning AI](https://nadim.computer/posts/2024-05-16-googlellm.html)
 * [2024-05-16, 07:43:03](https://lobste.rs/s/okdanu/what_i_ve_learned_building_interactive) - [What I've learned building interactive embedding visualizations](https://cprimozic.net/blog/building-embedding-visualizations-from-user-profiles/)
 * [2024-05-16, 05:00:32](https://lobste.rs/s/rushnh/some_notes_on_rust_mutable_aliasing) - [Some notes on Rust, mutable aliasing and formal verification](https://graydon2.dreamwidth.org/312681.html)
 * [2024-05-16, 04:45:59](https://lobste.rs/s/bkfpqu/firefox_nightly_now_available_for_linux) - [Firefox Nightly Now Available for Linux on ARM64](https://blog.nightly.mozilla.org/2024/04/19/firefox-nightly-now-available-for-linux-on-arm64/)
