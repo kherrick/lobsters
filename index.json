@@ -55,7 +55,7 @@
       "https://lobste.rs/s/znphra/rfc_mitigating_unexpected_arithmetic"
     ],
     [
-      "[RFC] Mitigating unexpected arithmetic overflow - Kees Cook",
+      "[RFC] Mitigating unexpected arithmetic overflow",
       "https://lore.kernel.org/all/202404291502.612E0A10@keescook/"
     ]
   ],
