@@ -5,7 +5,7 @@
 * [2024-05-17, 06:38:33](https://lobste.rs/s/wrqg0p/wb_b_tree_database) - [The WB B-Tree Database](https://people.csail.mit.edu/jaffer/WB)
 * [2024-05-17, 06:24:17](https://lobste.rs/s/xdn9x7/using_rust_macros_for_custom_vtables) - [Using Rust Macros for Custom VTables](http://lucumr.pocoo.org/2024/5/16/macro-vtable-magic)
 * [2024-05-17, 04:50:10](https://lobste.rs/s/sowhmn/rainbow_hats_puzzle) - [The Rainbow Hats Puzzle](https://taoa.io/posts/The-Rainbow-Hats-Puzzle)
-* [2024-05-17, 00:56:56](https://lobste.rs/s/znphra/rfc_mitigating_unexpected_arithmetic) - [[RFC] Mitigating unexpected arithmetic overflow - Kees Cook](https://lore.kernel.org/all/202404291502.612E0A10@keescook/)
+* [2024-05-17, 00:56:56](https://lobste.rs/s/znphra/rfc_mitigating_unexpected_arithmetic) - [[RFC] Mitigating unexpected arithmetic overflow](https://lore.kernel.org/all/202404291502.612E0A10@keescook/)
 * [2024-05-17, 00:18:24](https://lobste.rs/s/uy3lho/transport_protocol_s_view_starlink) - [A Transport Protocol's View of Starlink](https://www.potaroo.net/ispcol/2024-05/starlink-tcp.html)
 * [2024-05-16, 23:42:28](https://lobste.rs/s/1evlcy/beyond_public_key_encryption) - [Beyond public key encryption](https://blog.cryptographyengineering.com/2017/07/02/beyond-public-key-encryption/)
 * [2024-05-16, 23:14:11](https://lobste.rs/s/evqdko/building_cross_platform_offline_first) - [Building Cross-Platform Offline-First Apps with Bluetooth Low Energy](https://octet-stream.net/2024/05/building-cross-platform-offline-first-apps-with-bluetooth-low-energy/)
