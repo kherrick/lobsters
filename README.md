@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-17, 19:53:53](https://lobste.rs/s/kl9bct/butano_modern_c_high_level_gba_engine) - [butano: Modern C++ high level GBA engine](https://github.com/GValiente/butano)
 * [2024-05-17, 18:07:21](https://lobste.rs/s/2cbh68/bend_high_level_language_runs_on_gpus_via) - [Bend: a high-level language that runs on GPUs (via HVM2)](https://github.com/HigherOrderCO/Bend)
 * [2024-05-17, 17:11:17](https://lobste.rs/s/k43p68/cat9_microdosing_stash_list) - [Cat9 Microdosing: Stash and List](https://arcan-fe.com/2024/05/17/cat9-microdosing-stash-and-list/)
 * [2024-05-17, 17:02:41](https://lobste.rs/s/qlpvlt/anvil_acme_inspired_text_editor_written) - [Anvil - Acme inspired text editor written in Go](http://anvil-editor.net)
@@ -11,7 +12,6 @@
 * [2024-05-17, 14:33:03](https://lobste.rs/s/npvdod/firefox_bookmark_keywords_for_faster) - [Firefox bookmark keywords for faster navigation](https://blog.meain.io/2024/firefox-bookmark-keywords)
 * [2024-05-17, 14:10:44](https://lobste.rs/s/iurz7z/faster_linking_times_on_nightly_on_linux) - [Faster linking times on nightly on Linux using \"rust-lld\"](https://blog.rust-lang.org/2024/05/17/enabling-rust-lld-on-linux.html)
 * [2024-05-17, 13:37:14](https://lobste.rs/s/9cmzln/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/9cmzln/what_are_you_doing_this_weekend)
-* [2024-05-17, 13:36:23](https://lobste.rs/s/brdmva/static_wordle) - [Static Wordle](https://www.val.town/v/stevekrouse/staticWordle)
 * [2024-05-17, 11:54:29](https://lobste.rs/s/a0yh8p/so_we_built_reverse_tunnel_go_over_http_3) - [So we built a Reverse Tunnel in Go over HTTP/3 and QUIC](https://blog.flipt.io/so-we-built-reverst)
 * [2024-05-17, 10:53:51](https://lobste.rs/s/0c8imd/curl_tor_dot_onion_socks) - [curl, Tor, dot onion and SOCKS](https://daniel.haxx.se/blog/2024/05/17/curl-tor-dot-onion-and-socks/)
 * [2024-05-17, 08:38:40](https://lobste.rs/s/5zjwgs/golang_is_evil_on_shitty_networks_2022) - [Golang is evil on shitty networks (2022)](https://withinboredom.info/2022/12/29/golang-is-evil-on-shitty-networks/)
