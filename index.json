@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-17, 06:46:34",
+      "https://lobste.rs/s/qzttmw/winamp_has_announced_it_is_opening_up_its"
+    ],
+    [
+      "Winamp has announced that it is opening up its source",
+      "https://about.winamp.com/press/article/winamp-open-source-code"
+    ]
+  ],
+  [
+    [
       "2024-05-17, 06:38:33",
       "https://lobste.rs/s/wrqg0p/wb_b_tree_database"
     ],
@@ -187,16 +197,6 @@
     [
       "NetBSD bans all commits of AI-generated code",
       "https://mastodon.sdf.org/@netbsd/112446618914747900"
-    ]
-  ],
-  [
-    [
-      "2024-05-16, 07:50:15",
-      "https://lobste.rs/s/eguuf5/critique_techcrunch_article_on_google_s"
-    ],
-    [
-      "Critique of the TechCrunch Article on Google's Call-Scanning AI",
-      "https://nadim.computer/posts/2024-05-16-googlellm.html"
     ]
   ],
   [
