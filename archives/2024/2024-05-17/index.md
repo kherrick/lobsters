@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
+* [2024-05-17, 06:38:33](https://lobste.rs/s/wrqg0p/wb_b_tree_database) - [The WB B-Tree Database](https://people.csail.mit.edu/jaffer/WB)
 * [2024-05-17, 06:24:17](https://lobste.rs/s/xdn9x7/using_rust_macros_for_custom_vtables) - [Using Rust Macros for Custom VTables](http://lucumr.pocoo.org/2024/5/16/macro-vtable-magic)
 * [2024-05-17, 04:50:10](https://lobste.rs/s/sowhmn/rainbow_hats_puzzle) - [The Rainbow Hats Puzzle](https://taoa.io/posts/The-Rainbow-Hats-Puzzle)
 * [2024-05-17, 00:56:56](https://lobste.rs/s/znphra/rfc_mitigating_unexpected_arithmetic) - [[RFC] Mitigating unexpected arithmetic overflow - Kees Cook](https://lore.kernel.org/all/202404291502.612E0A10@keescook/)

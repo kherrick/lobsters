@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-17, 06:38:33](https://lobste.rs/s/wrqg0p/wb_b_tree_database) - [The WB B-Tree Database](https://people.csail.mit.edu/jaffer/WB)
 * [2024-05-17, 06:24:17](https://lobste.rs/s/xdn9x7/using_rust_macros_for_custom_vtables) - [Using Rust Macros for Custom VTables](http://lucumr.pocoo.org/2024/5/16/macro-vtable-magic)
 * [2024-05-17, 04:50:10](https://lobste.rs/s/sowhmn/rainbow_hats_puzzle) - [The Rainbow Hats Puzzle](https://taoa.io/posts/The-Rainbow-Hats-Puzzle)
 * [2024-05-17, 00:56:56](https://lobste.rs/s/znphra/rfc_mitigating_unexpected_arithmetic) - [[RFC] Mitigating unexpected arithmetic overflow - Kees Cook](https://lore.kernel.org/all/202404291502.612E0A10@keescook/)
@@ -17,7 +18,6 @@
 * [2024-05-16, 14:41:19](https://lobste.rs/s/mnuhwc/go_s_concurrency_dynamic_language_rye) - [Go's concurrency in a dynamic language Rye](https://ryelang.org/blog/posts/rye-concurrency-go/)
 * [2024-05-16, 13:29:57](https://lobste.rs/s/gs7h8x/what_s_new_neovim_0_10) - [What's New in Neovim 0.10](https://gpanders.com/blog/whats-new-in-neovim-0.10/)
 * [2024-05-16, 13:25:48](https://lobste.rs/s/jfbym4/release_0_4_0_buzz_language_buzz) - [Release 0.4.0 · buzz-language/buzz](https://github.com/buzz-language/buzz/releases/tag/0.4.0)
-* [2024-05-16, 13:01:56](https://lobste.rs/s/jaurnb/odin_programming_language_now_supports) - [Odin programming language now supports NetBSD](https://github.com/odin-lang/Odin/pull/3439)
 * [2024-05-16, 08:02:50](https://lobste.rs/s/klw4ps/netbsd_bans_all_commits_ai_generated_code) - [NetBSD bans all commits of AI-generated code](https://mastodon.sdf.org/@netbsd/112446618914747900)
 * [2024-05-16, 07:50:15](https://lobste.rs/s/eguuf5/critique_techcrunch_article_on_google_s) - [Critique of the TechCrunch Article on Google's Call-Scanning AI](https://nadim.computer/posts/2024-05-16-googlellm.html)
 * [2024-05-16, 07:43:03](https://lobste.rs/s/okdanu/what_i_ve_learned_building_interactive) - [What I've learned building interactive embedding visualizations](https://cprimozic.net/blog/building-embedding-visualizations-from-user-profiles/)
