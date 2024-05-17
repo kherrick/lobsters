@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-17, 22:39:59](https://lobste.rs/s/6vnypw/computer_scientists_invent_efficient) - [Computer Scientists Invent an Efficient New Way to Count](https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/)
 * [2024-05-17, 21:36:12](https://lobste.rs/s/amfqyw/generic_concurrency_go) - [Generic Concurrency in Go](https://sergey.kamardin.org/articles/generic-concurrency-in-go/)
 * [2024-05-17, 19:53:53](https://lobste.rs/s/kl9bct/butano_modern_c_high_level_gba_engine) - [butano: Modern C++ high level GBA engine](https://github.com/GValiente/butano)
 * [2024-05-17, 18:07:21](https://lobste.rs/s/2cbh68/bend_high_level_language_runs_on_gpus_via) - [Bend: a high-level language that runs on GPUs (via HVM2)](https://github.com/HigherOrderCO/Bend)
 * [2024-05-17, 17:11:17](https://lobste.rs/s/k43p68/cat9_microdosing_stash_list) - [Cat9 Microdosing: Stash and List](https://arcan-fe.com/2024/05/17/cat9-microdosing-stash-and-list/)
 * [2024-05-17, 17:02:41](https://lobste.rs/s/qlpvlt/anvil_acme_inspired_text_editor_written) - [Anvil - Acme inspired text editor written in Go](http://anvil-editor.net)
 * [2024-05-17, 16:40:54](https://lobste.rs/s/dmgwip/sshd_8_split_into_multiple_binaries) - [sshd(8) split into multiple binaries](https://undeadly.org/cgi?action=article;sid=20240517092416)
-* [2024-05-17, 16:04:58](https://lobste.rs/s/6fqung/kafka_consumers_python_walkthrough) - [Kafka Consumers in Python - A Walkthrough](https://youtu.be/eCsSAzTy5cE)
 * [2024-05-17, 14:55:59](https://lobste.rs/s/bkwzk4/forged_apple_employee_badge) - [The Forged Apple Employee Badge](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
 * [2024-05-17, 14:52:35](https://lobste.rs/s/yygbyj/bimi_dmarc_can_t_save_you_overlooked_dkim) - [BIMI and DMARC can't save you: the overlooked DKIM exploit](https://www.zone.eu/blog/2024/05/17/bimi-and-dmarc-cant-save-you/)
 * [2024-05-17, 14:41:22](https://lobste.rs/s/dj5rcs/non_euclidean_doom_what_happens_game_when) - [Non-Euclidean Doom: what happens to a game when pi is not 3.14159…](https://media.ccc.de/v/mch2022-236-non-euclidean-doom-what-happens-to-a-game-when-pi-is-not-3-14159-#t=324)

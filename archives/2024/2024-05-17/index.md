@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
+* [2024-05-17, 22:39:59](https://lobste.rs/s/6vnypw/computer_scientists_invent_efficient) - [Computer Scientists Invent an Efficient New Way to Count](https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/)
 * [2024-05-17, 21:36:12](https://lobste.rs/s/amfqyw/generic_concurrency_go) - [Generic Concurrency in Go](https://sergey.kamardin.org/articles/generic-concurrency-in-go/)
 * [2024-05-17, 19:53:53](https://lobste.rs/s/kl9bct/butano_modern_c_high_level_gba_engine) - [butano: Modern C++ high level GBA engine](https://github.com/GValiente/butano)
 * [2024-05-17, 18:07:21](https://lobste.rs/s/2cbh68/bend_high_level_language_runs_on_gpus_via) - [Bend: a high-level language that runs on GPUs (via HVM2)](https://github.com/HigherOrderCO/Bend)
