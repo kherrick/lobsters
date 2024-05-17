@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-05-17, 17:11:17](https://lobste.rs/s/k43p68/cat9_microdosing_stash_list) - [Cat9 Microdosing: Stash and List](https://arcan-fe.com/2024/05/17/cat9-microdosing-stash-and-list/)
+* [2024-05-17, 17:02:41](https://lobste.rs/s/qlpvlt/anvil_acme_inspired_text_editor_written) - [Anvil - Acme inspired text editor written in Go](http://anvil-editor.net)
 * [2024-05-17, 16:40:54](https://lobste.rs/s/dmgwip/sshd_8_split_into_multiple_binaries) - [sshd(8) split into multiple binaries](https://undeadly.org/cgi?action=article;sid=20240517092416)
 * [2024-05-17, 16:04:58](https://lobste.rs/s/6fqung/kafka_consumers_python_walkthrough) - [Kafka Consumers in Python - A Walkthrough](https://youtu.be/eCsSAzTy5cE)
 * [2024-05-17, 14:55:59](https://lobste.rs/s/bkwzk4/forged_apple_employee_badge) - [The Forged Apple Employee Badge](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
@@ -13,7 +14,6 @@
 * [2024-05-17, 11:54:29](https://lobste.rs/s/a0yh8p/so_we_built_reverse_tunnel_go_over_http_3) - [So we built a Reverse Tunnel in Go over HTTP/3 and QUIC](https://blog.flipt.io/so-we-built-reverst)
 * [2024-05-17, 10:53:51](https://lobste.rs/s/0c8imd/curl_tor_dot_onion_socks) - [curl, Tor, dot onion and SOCKS](https://daniel.haxx.se/blog/2024/05/17/curl-tor-dot-onion-and-socks/)
 * [2024-05-17, 08:38:40](https://lobste.rs/s/5zjwgs/golang_is_evil_on_shitty_networks_2022) - [Golang is evil on shitty networks (2022)](https://withinboredom.info/2022/12/29/golang-is-evil-on-shitty-networks/)
-* [2024-05-17, 08:05:41](https://lobste.rs/s/1tc19j/visualizing_algorithms_for_rate) - [Visualizing algorithms for rate limiting](https://smudge.ai/blog/ratelimit-algorithms)
 * [2024-05-17, 07:25:08](https://lobste.rs/s/weihxc/don_t_return_err_go) - [Don’t return err in Go](https://akavel.com/go-errors)
 * [2024-05-17, 06:46:34](https://lobste.rs/s/qzttmw/winamp_has_announced_it_is_opening_up_its) - [Winamp has announced that it is opening up its source](https://about.winamp.com/press/article/winamp-open-source-code)
 * [2024-05-17, 04:50:10](https://lobste.rs/s/sowhmn/rainbow_hats_puzzle) - [The Rainbow Hats Puzzle](https://taoa.io/posts/The-Rainbow-Hats-Puzzle)
