@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-17, 06:46:34](https://lobste.rs/s/qzttmw/winamp_has_announced_it_is_opening_up_its) - [Winamp has announced that it is opening up its source](https://about.winamp.com/press/article/winamp-open-source-code)
 * [2024-05-17, 06:38:33](https://lobste.rs/s/wrqg0p/wb_b_tree_database) - [The WB B-Tree Database](https://people.csail.mit.edu/jaffer/WB)
 * [2024-05-17, 06:24:17](https://lobste.rs/s/xdn9x7/using_rust_macros_for_custom_vtables) - [Using Rust Macros for Custom VTables](http://lucumr.pocoo.org/2024/5/16/macro-vtable-magic)
 * [2024-05-17, 04:50:10](https://lobste.rs/s/sowhmn/rainbow_hats_puzzle) - [The Rainbow Hats Puzzle](https://taoa.io/posts/The-Rainbow-Hats-Puzzle)
@@ -19,7 +20,6 @@
 * [2024-05-16, 13:29:57](https://lobste.rs/s/gs7h8x/what_s_new_neovim_0_10) - [What's New in Neovim 0.10](https://gpanders.com/blog/whats-new-in-neovim-0.10/)
 * [2024-05-16, 13:25:48](https://lobste.rs/s/jfbym4/release_0_4_0_buzz_language_buzz) - [Release 0.4.0 · buzz-language/buzz](https://github.com/buzz-language/buzz/releases/tag/0.4.0)
 * [2024-05-16, 08:02:50](https://lobste.rs/s/klw4ps/netbsd_bans_all_commits_ai_generated_code) - [NetBSD bans all commits of AI-generated code](https://mastodon.sdf.org/@netbsd/112446618914747900)
-* [2024-05-16, 07:50:15](https://lobste.rs/s/eguuf5/critique_techcrunch_article_on_google_s) - [Critique of the TechCrunch Article on Google's Call-Scanning AI](https://nadim.computer/posts/2024-05-16-googlellm.html)
 * [2024-05-16, 07:43:03](https://lobste.rs/s/okdanu/what_i_ve_learned_building_interactive) - [What I've learned building interactive embedding visualizations](https://cprimozic.net/blog/building-embedding-visualizations-from-user-profiles/)
 * [2024-05-16, 05:00:32](https://lobste.rs/s/rushnh/some_notes_on_rust_mutable_aliasing) - [Some notes on Rust, mutable aliasing and formal verification](https://graydon2.dreamwidth.org/312681.html)
 * [2024-05-16, 04:45:59](https://lobste.rs/s/bkfpqu/firefox_nightly_now_available_for_linux) - [Firefox Nightly Now Available for Linux on ARM64](https://blog.nightly.mozilla.org/2024/04/19/firefox-nightly-now-available-for-linux-on-arm64/)
