@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-17, 11:54:29",
+      "https://lobste.rs/s/a0yh8p/so_we_built_reverse_tunnel_go_over_http_3"
+    ],
+    [
+      "So we built a Reverse Tunnel in Go over HTTP/3 and QUIC",
+      "https://blog.flipt.io/so-we-built-reverst"
+    ]
+  ],
+  [
+    [
       "2024-05-17, 10:53:51",
       "https://lobste.rs/s/0c8imd/curl_tor_dot_onion_socks"
     ],
@@ -207,16 +217,6 @@
     [
       "NetBSD bans all commits of AI-generated code",
       "https://mastodon.sdf.org/@netbsd/112446618914747900"
-    ]
-  ],
-  [
-    [
-      "2024-05-16, 07:43:03",
-      "https://lobste.rs/s/okdanu/what_i_ve_learned_building_interactive"
-    ],
-    [
-      "What I've learned building interactive embedding visualizations",
-      "https://cprimozic.net/blog/building-embedding-visualizations-from-user-profiles/"
     ]
   ],
   [
