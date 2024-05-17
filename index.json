@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-17, 08:05:41",
+      "https://lobste.rs/s/1tc19j/visualizing_algorithms_for_rate"
+    ],
+    [
+      "Visualizing algorithms for rate limiting",
+      "https://smudge.ai/blog/ratelimit-algorithms"
+    ]
+  ],
+  [
+    [
       "2024-05-17, 07:25:08",
       "https://lobste.rs/s/weihxc/don_t_return_err_go"
     ],
@@ -27,16 +37,6 @@
     [
       "The WB B-Tree Database",
       "https://people.csail.mit.edu/jaffer/WB"
-    ]
-  ],
-  [
-    [
-      "2024-05-17, 06:24:17",
-      "https://lobste.rs/s/xdn9x7/using_rust_macros_for_custom_vtables"
-    ],
-    [
-      "Using Rust Macros for Custom VTables",
-      "http://lucumr.pocoo.org/2024/5/16/macro-vtable-magic"
     ]
   ],
   [
