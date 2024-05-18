@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-05-18](index.md)
 
+* [2024-05-18, 06:07:04](https://lobste.rs/s/nuvdlo/retrospex_convert_images_fit_commodore) - [retrospex: Convert images to fit Commodore 64 graphic modes](https://github.com/micheldebree/retrospex)
 * [2024-05-18, 00:54:41](https://lobste.rs/s/3kmuo0/practical_third_party_library) - [Practical third-party library sandboxing with RLBox](https://rlbox.dev/)

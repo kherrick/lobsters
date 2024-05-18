@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-18, 06:07:04](https://lobste.rs/s/nuvdlo/retrospex_convert_images_fit_commodore) - [retrospex: Convert images to fit Commodore 64 graphic modes](https://github.com/micheldebree/retrospex)
 * [2024-05-18, 00:54:41](https://lobste.rs/s/3kmuo0/practical_third_party_library) - [Practical third-party library sandboxing with RLBox](https://rlbox.dev/)
 * [2024-05-17, 23:46:15](https://lobste.rs/s/neq3pn/slumber_tui_http_client) - [Slumber: A TUI HTTP Client](https://lucaspickering.me/posts/slumber)
 * [2024-05-17, 23:33:11](https://lobste.rs/s/qawycs/write_choose_your_own_adventure_stories) - [Write choose your own adventure stories and get a PDF: Yarn Spinner for Books](https://books.yarnspinner.dev/)
@@ -17,7 +18,6 @@
 * [2024-05-17, 14:10:44](https://lobste.rs/s/iurz7z/faster_linking_times_on_nightly_on_linux) - [Faster linking times on nightly on Linux using \"rust-lld\"](https://blog.rust-lang.org/2024/05/17/enabling-rust-lld-on-linux.html)
 * [2024-05-17, 13:37:14](https://lobste.rs/s/9cmzln/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/9cmzln/what_are_you_doing_this_weekend)
 * [2024-05-17, 11:54:29](https://lobste.rs/s/a0yh8p/so_we_built_reverse_tunnel_go_over_http_3) - [So we built a Reverse Tunnel in Go over HTTP/3 and QUIC](https://blog.flipt.io/so-we-built-reverst)
-* [2024-05-17, 10:53:51](https://lobste.rs/s/0c8imd/curl_tor_dot_onion_socks) - [curl, Tor, dot onion and SOCKS](https://daniel.haxx.se/blog/2024/05/17/curl-tor-dot-onion-and-socks/)
 * [2024-05-17, 08:38:40](https://lobste.rs/s/5zjwgs/golang_is_evil_on_shitty_networks_2022) - [Golang is evil on shitty networks (2022)](https://withinboredom.info/2022/12/29/golang-is-evil-on-shitty-networks/)
 * [2024-05-17, 07:25:08](https://lobste.rs/s/weihxc/don_t_return_err_go) - [Don’t return err in Go](https://akavel.com/go-errors)
 * [2024-05-17, 06:46:34](https://lobste.rs/s/qzttmw/winamp_has_announced_it_is_opening_up_its) - [Winamp has announced that it is opening up its source](https://about.winamp.com/press/article/winamp-open-source-code)
