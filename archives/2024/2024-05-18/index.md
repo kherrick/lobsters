@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-18](index.md)
 
+* [2024-05-18, 18:38:46](https://lobste.rs/s/0qxuaa/two_cases_when_forward_declaring_is_not) - [Two cases when forward declaring is not enough](https://www.sandordargo.com/blog/2024/05/15/when-includes-are-needed)
 * [2024-05-18, 13:39:03](https://lobste.rs/s/bvqmah/decoding_us_government_plans_shift) - [Decoding US Government Plans to Shift the Software Security Burden](https://www.infosecurity-magazine.com/news/us-plans-software-security-burden/)
 * [2024-05-18, 13:35:37](https://lobste.rs/s/g3dwwi/tcp_performance_mathis_equation) - [TCP Performance and the Mathis Equation](https://netcraftsmen.com/tcp-performance-and-the-mathis-equation/)
 * [2024-05-18, 12:45:39](https://lobste.rs/s/oqtbp0/flawz_terminal_ui_for_browsing_security) - [flawz - A Terminal UI for browsing security vulnerabilities (CVEs)](https://github.com/orhun/flawz)

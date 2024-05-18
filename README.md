@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-18, 18:38:46](https://lobste.rs/s/0qxuaa/two_cases_when_forward_declaring_is_not) - [Two cases when forward declaring is not enough](https://www.sandordargo.com/blog/2024/05/15/when-includes-are-needed)
 * [2024-05-18, 13:39:03](https://lobste.rs/s/bvqmah/decoding_us_government_plans_shift) - [Decoding US Government Plans to Shift the Software Security Burden](https://www.infosecurity-magazine.com/news/us-plans-software-security-burden/)
 * [2024-05-18, 13:35:37](https://lobste.rs/s/g3dwwi/tcp_performance_mathis_equation) - [TCP Performance and the Mathis Equation](https://netcraftsmen.com/tcp-performance-and-the-mathis-equation/)
 * [2024-05-18, 12:45:39](https://lobste.rs/s/oqtbp0/flawz_terminal_ui_for_browsing_security) - [flawz - A Terminal UI for browsing security vulnerabilities (CVEs)](https://github.com/orhun/flawz)
@@ -7,7 +8,6 @@
 * [2024-05-18, 12:09:13](https://lobste.rs/s/suqemh/haddock_now_lives_ghc_repository) - [Haddock now lives in the GHC repository](https://discourse.haskell.org/t/haddock-now-lives-in-the-ghc-repository/9576)
 * [2024-05-18, 11:38:02](https://lobste.rs/s/q82tx4/fshade_first_class_shaders_for_f) - [FShade: first-class shaders for F#](https://fshade.org/)
 * [2024-05-18, 11:36:41](https://lobste.rs/s/joopqh/ilgpu_modern_gpu_compiler_for_net) - [ILGPU: A Modern GPU Compiler for .Net Programs](https://ilgpu.net/)
-* [2024-05-18, 00:54:41](https://lobste.rs/s/3kmuo0/practical_third_party_library) - [Practical third-party library sandboxing with RLBox](https://rlbox.dev/)
 * [2024-05-17, 23:46:15](https://lobste.rs/s/neq3pn/slumber_tui_http_client) - [Slumber: A TUI HTTP Client](https://lucaspickering.me/posts/slumber)
 * [2024-05-17, 23:33:11](https://lobste.rs/s/qawycs/write_choose_your_own_adventure_stories) - [Write choose your own adventure stories and get a PDF: Yarn Spinner for Books](https://books.yarnspinner.dev/)
 * [2024-05-17, 22:39:59](https://lobste.rs/s/6vnypw/computer_scientists_invent_efficient) - [Computer Scientists Invent an Efficient New Way to Count](https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/)
