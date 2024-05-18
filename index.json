@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-18, 22:48:40",
+      "https://lobste.rs/s/piprxk/go_browser_package"
+    ],
+    [
+      "Go Browser Package",
+      "https://browser.dineshgowda.com/"
+    ]
+  ],
+  [
+    [
       "2024-05-18, 18:38:46",
       "https://lobste.rs/s/0qxuaa/two_cases_when_forward_declaring_is_not"
     ],
@@ -117,16 +127,6 @@
     [
       "Computer Scientists Invent an Efficient New Way to Count",
       "https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/"
-    ]
-  ],
-  [
-    [
-      "2024-05-17, 21:36:12",
-      "https://lobste.rs/s/amfqyw/generic_concurrency_go"
-    ],
-    [
-      "Generic Concurrency in Go",
-      "https://sergey.kamardin.org/articles/generic-concurrency-in-go/"
     ]
   ],
   [
