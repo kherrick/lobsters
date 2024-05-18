@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2024-05-18, 06:07:04",
+      "https://lobste.rs/s/nuvdlo/retrospex_convert_images_fit_commodore"
+    ],
+    [
+      "retrospex: Convert images to fit Commodore 64 graphic modes",
+      "https://github.com/micheldebree/retrospex"
+    ]
+  ],
+  [
+    [
       "2024-05-17, 23:46:15",
       "https://lobste.rs/s/neq3pn/slumber_tui_http_client"
     ],
@@ -107,16 +117,6 @@
     [
       "Computer Scientists Invent an Efficient New Way to Count",
       "https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/"
-    ]
-  ],
-  [
-    [
-      "2024-05-17, 21:36:12",
-      "https://lobste.rs/s/amfqyw/generic_concurrency_go"
-    ],
-    [
-      "Generic Concurrency in Go",
-      "https://sergey.kamardin.org/articles/generic-concurrency-in-go/"
     ]
   ],
   [
