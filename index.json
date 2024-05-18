@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-18, 18:38:46",
+      "https://lobste.rs/s/0qxuaa/two_cases_when_forward_declaring_is_not"
+    ],
+    [
+      "Two cases when forward declaring is not enough",
+      "https://www.sandordargo.com/blog/2024/05/15/when-includes-are-needed"
+    ]
+  ],
+  [
+    [
       "2024-05-18, 13:39:03",
       "https://lobste.rs/s/bvqmah/decoding_us_government_plans_shift"
     ],
@@ -67,16 +77,6 @@
     [
       "ILGPU: A Modern GPU Compiler for .Net Programs",
       "https://ilgpu.net/"
-    ]
-  ],
-  [
-    [
-      "2024-05-18, 00:54:41",
-      "https://lobste.rs/s/3kmuo0/practical_third_party_library"
-    ],
-    [
-      "Practical third-party library sandboxing with RLBox",
-      "https://rlbox.dev/"
     ]
   ],
   [
