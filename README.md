@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-18, 11:38:02](https://lobste.rs/s/q82tx4/fshade_first_class_shaders_for_f) - [FShade: first-class shaders for F#](https://fshade.org/)
+* [2024-05-18, 11:36:41](https://lobste.rs/s/joopqh/ilgpu_modern_gpu_compiler_for_net) - [ILGPU: A Modern GPU Compiler for .Net Programs](https://ilgpu.net/)
 * [2024-05-18, 06:47:56](https://lobste.rs/s/ttmzba/why_writing_correct_software_is_hard_2016) - [Why Writing Correct Software Is Hard (2016)](https://pron.github.io/posts/correctness-and-complexity)
 * [2024-05-18, 06:07:04](https://lobste.rs/s/nuvdlo/retrospex_convert_images_fit_commodore) - [retrospex: Convert images to fit Commodore 64 graphic modes](https://github.com/micheldebree/retrospex)
 * [2024-05-18, 00:54:41](https://lobste.rs/s/3kmuo0/practical_third_party_library) - [Practical third-party library sandboxing with RLBox](https://rlbox.dev/)
@@ -17,13 +19,11 @@
 * [2024-05-17, 14:41:22](https://lobste.rs/s/dj5rcs/non_euclidean_doom_what_happens_game_when) - [Non-Euclidean Doom: what happens to a game when pi is not 3.14159…](https://media.ccc.de/v/mch2022-236-non-euclidean-doom-what-happens-to-a-game-when-pi-is-not-3-14159-#t=324)
 * [2024-05-17, 14:33:03](https://lobste.rs/s/npvdod/firefox_bookmark_keywords_for_faster) - [Firefox bookmark keywords for faster navigation](https://blog.meain.io/2024/firefox-bookmark-keywords)
 * [2024-05-17, 14:10:44](https://lobste.rs/s/iurz7z/faster_linking_times_on_nightly_on_linux) - [Faster linking times on nightly on Linux using \"rust-lld\"](https://blog.rust-lang.org/2024/05/17/enabling-rust-lld-on-linux.html)
-* [2024-05-17, 13:37:14](https://lobste.rs/s/9cmzln/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/9cmzln/what_are_you_doing_this_weekend)
 * [2024-05-17, 11:54:29](https://lobste.rs/s/a0yh8p/so_we_built_reverse_tunnel_go_over_http_3) - [So we built a Reverse Tunnel in Go over HTTP/3 and QUIC](https://blog.flipt.io/so-we-built-reverst)
 * [2024-05-17, 08:38:40](https://lobste.rs/s/5zjwgs/golang_is_evil_on_shitty_networks_2022) - [Golang is evil on shitty networks (2022)](https://withinboredom.info/2022/12/29/golang-is-evil-on-shitty-networks/)
 * [2024-05-17, 07:25:08](https://lobste.rs/s/weihxc/don_t_return_err_go) - [Don’t return err in Go](https://akavel.com/go-errors)
 * [2024-05-17, 06:46:34](https://lobste.rs/s/qzttmw/winamp_has_announced_it_is_opening_up_its) - [Winamp has announced that it is opening up its source](https://about.winamp.com/press/article/winamp-open-source-code)
 * [2024-05-17, 04:50:10](https://lobste.rs/s/sowhmn/rainbow_hats_puzzle) - [The Rainbow Hats Puzzle](https://taoa.io/posts/The-Rainbow-Hats-Puzzle)
-* [2024-05-16, 23:14:11](https://lobste.rs/s/evqdko/building_cross_platform_offline_first) - [Building Cross-Platform Offline-First Apps with Bluetooth Low Energy](https://octet-stream.net/2024/05/building-cross-platform-offline-first-apps-with-bluetooth-low-energy/)
 * [2024-05-16, 13:29:57](https://lobste.rs/s/gs7h8x/what_s_new_neovim_0_10) - [What's New in Neovim 0.10](https://gpanders.com/blog/whats-new-in-neovim-0.10/)
 
 ## [Archives](archives/index.md)
