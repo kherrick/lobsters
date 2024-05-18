@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2024-05-17, 21:36:12",
+      "https://lobste.rs/s/amfqyw/generic_concurrency_go"
+    ],
+    [
+      "Generic Concurrency in Go",
+      "https://sergey.kamardin.org/articles/generic-concurrency-in-go/"
+    ]
+  ],
+  [
+    [
       "2024-05-17, 19:53:53",
       "https://lobste.rs/s/kl9bct/butano_modern_c_high_level_gba_engine"
     ],
@@ -237,16 +247,6 @@
     [
       "Winamp has announced that it is opening up its source",
       "https://about.winamp.com/press/article/winamp-open-source-code"
-    ]
-  ],
-  [
-    [
-      "2024-05-16, 13:29:57",
-      "https://lobste.rs/s/gs7h8x/what_s_new_neovim_0_10"
-    ],
-    [
-      "What's New in Neovim 0.10",
-      "https://gpanders.com/blog/whats-new-in-neovim-0.10/"
     ]
   ]
 ]
