@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-18, 22:48:40](https://lobste.rs/s/piprxk/go_browser_package) - [Go Browser Package](https://browser.dineshgowda.com/)
 * [2024-05-18, 18:38:46](https://lobste.rs/s/0qxuaa/two_cases_when_forward_declaring_is_not) - [Two cases when forward declaring is not enough](https://www.sandordargo.com/blog/2024/05/15/when-includes-are-needed)
 * [2024-05-18, 13:39:03](https://lobste.rs/s/bvqmah/decoding_us_government_plans_shift) - [Decoding US Government Plans to Shift the Software Security Burden](https://www.infosecurity-magazine.com/news/us-plans-software-security-burden/)
 * [2024-05-18, 13:35:37](https://lobste.rs/s/g3dwwi/tcp_performance_mathis_equation) - [TCP Performance and the Mathis Equation](https://netcraftsmen.com/tcp-performance-and-the-mathis-equation/)
@@ -12,7 +13,6 @@
 * [2024-05-17, 23:46:15](https://lobste.rs/s/neq3pn/slumber_tui_http_client) - [Slumber: A TUI HTTP Client](https://lucaspickering.me/posts/slumber)
 * [2024-05-17, 23:33:11](https://lobste.rs/s/qawycs/write_choose_your_own_adventure_stories) - [Write choose your own adventure stories and get a PDF: Yarn Spinner for Books](https://books.yarnspinner.dev/)
 * [2024-05-17, 22:39:59](https://lobste.rs/s/6vnypw/computer_scientists_invent_efficient) - [Computer Scientists Invent an Efficient New Way to Count](https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/)
-* [2024-05-17, 21:36:12](https://lobste.rs/s/amfqyw/generic_concurrency_go) - [Generic Concurrency in Go](https://sergey.kamardin.org/articles/generic-concurrency-in-go/)
 * [2024-05-17, 19:53:53](https://lobste.rs/s/kl9bct/butano_modern_c_high_level_gba_engine) - [butano: Modern C++ high level GBA engine](https://github.com/GValiente/butano)
 * [2024-05-17, 18:07:21](https://lobste.rs/s/2cbh68/bend_high_level_language_runs_on_gpus_via) - [Bend: a high-level language that runs on GPUs (via HVM2)](https://github.com/HigherOrderCO/Bend)
 * [2024-05-17, 17:11:17](https://lobste.rs/s/k43p68/cat9_microdosing_stash_list) - [Cat9 Microdosing: Stash and List](https://arcan-fe.com/2024/05/17/cat9-microdosing-stash-and-list/)
