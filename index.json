@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-18, 11:38:02",
+      "https://lobste.rs/s/q82tx4/fshade_first_class_shaders_for_f"
+    ],
+    [
+      "FShade: first-class shaders for F#",
+      "https://fshade.org/"
+    ]
+  ],
+  [
+    [
+      "2024-05-18, 11:36:41",
+      "https://lobste.rs/s/joopqh/ilgpu_modern_gpu_compiler_for_net"
+    ],
+    [
+      "ILGPU: A Modern GPU Compiler for .Net Programs",
+      "https://ilgpu.net/"
+    ]
+  ],
+  [
+    [
       "2024-05-18, 06:47:56",
       "https://lobste.rs/s/ttmzba/why_writing_correct_software_is_hard_2016"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-05-17, 13:37:14",
-      "https://lobste.rs/s/9cmzln/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/9cmzln/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
       "2024-05-17, 11:54:29",
       "https://lobste.rs/s/a0yh8p/so_we_built_reverse_tunnel_go_over_http_3"
     ],
@@ -227,16 +237,6 @@
     [
       "The Rainbow Hats Puzzle",
       "https://taoa.io/posts/The-Rainbow-Hats-Puzzle"
-    ]
-  ],
-  [
-    [
-      "2024-05-16, 23:14:11",
-      "https://lobste.rs/s/evqdko/building_cross_platform_offline_first"
-    ],
-    [
-      "Building Cross-Platform Offline-First Apps with Bluetooth Low Energy",
-      "https://octet-stream.net/2024/05/building-cross-platform-offline-first-apps-with-bluetooth-low-energy/"
     ]
   ],
   [
