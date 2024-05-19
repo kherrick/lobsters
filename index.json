@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-19, 18:21:59",
+      "https://lobste.rs/s/ics6nn/trustworthy_free_libre_linux_capable"
+    ],
+    [
+      "A Trustworthy, Free (Libre), Linux Capable, Self-Hosting 64bit RISC-V Computer",
+      "https://www.contrib.andrew.cmu.edu/~somlo/BTCP/"
+    ]
+  ],
+  [
+    [
       "2024-05-19, 17:22:21",
       "https://lobste.rs/s/icof4c/transforming_qlc_ssd_into_slc_ssd"
     ],
@@ -237,16 +247,6 @@
     [
       "Firefox bookmark keywords for faster navigation",
       "https://blog.meain.io/2024/firefox-bookmark-keywords"
-    ]
-  ],
-  [
-    [
-      "2024-05-17, 07:25:08",
-      "https://lobste.rs/s/weihxc/don_t_return_err_go"
-    ],
-    [
-      "Don’t return err in Go",
-      "https://akavel.com/go-errors"
     ]
   ]
 ]
