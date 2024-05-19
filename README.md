@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-19, 18:21:59](https://lobste.rs/s/ics6nn/trustworthy_free_libre_linux_capable) - [A Trustworthy, Free (Libre), Linux Capable, Self-Hosting 64bit RISC-V Computer](https://www.contrib.andrew.cmu.edu/~somlo/BTCP/)
 * [2024-05-19, 17:22:21](https://lobste.rs/s/icof4c/transforming_qlc_ssd_into_slc_ssd) - [Transforming a QLC SSD into an SLC SSD](https://theoverclockingpage.com/2024/05/13/tutorial-transforming-a-qlc-ssd-into-an-slc-ssd-dramatically-increasing-the-drives-endurance/?lang=en)
 * [2024-05-19, 15:26:06](https://lobste.rs/s/dj1zzl/stract_web_search_done_right) - [stract: web search done right](https://github.com/StractOrg/stract)
 * [2024-05-19, 14:11:48](https://lobste.rs/s/sgin0z/what_are_your_favorite_software) - [What are your favorite software architecture patterns?](https://lobste.rs/s/sgin0z/what_are_your_favorite_software)
@@ -24,7 +25,6 @@
 * [2024-05-17, 17:11:17](https://lobste.rs/s/k43p68/cat9_microdosing_stash_list) - [Cat9 Microdosing: Stash and List](https://arcan-fe.com/2024/05/17/cat9-microdosing-stash-and-list/)
 * [2024-05-17, 16:40:54](https://lobste.rs/s/dmgwip/sshd_8_split_into_multiple_binaries) - [sshd(8) split into multiple binaries](https://undeadly.org/cgi?action=article;sid=20240517092416)
 * [2024-05-17, 14:33:03](https://lobste.rs/s/npvdod/firefox_bookmark_keywords_for_faster) - [Firefox bookmark keywords for faster navigation](https://blog.meain.io/2024/firefox-bookmark-keywords)
-* [2024-05-17, 07:25:08](https://lobste.rs/s/weihxc/don_t_return_err_go) - [Don’t return err in Go](https://akavel.com/go-errors)
 
 ## [Archives](archives/index.md)
 
