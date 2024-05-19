@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-19](index.md)
 
+* [2024-05-19, 21:58:19](https://lobste.rs/s/n06vtm/coding_my_handwriting) - [Coding my Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
 * [2024-05-19, 21:21:17](https://lobste.rs/s/h85r6j/qt_5_15_lts_on_windows_without_qt_account) - [Qt 5.15 LTS on Windows without a Qt Account](https://raymii.org/s/tutorials/Qt_5.15_LTS_on_Windows_without_a_Qt_Account.html)
 * [2024-05-19, 20:47:43](https://lobste.rs/s/dvi6ki/fixing_my_yamaha_electone_me_50_fm) - [Fixing my Yamaha Electone ME-50: An FM Synthesizer Home Organ from 1986](https://nicole.express/2023/resisting-the-urge-to-make-organ-jokes.html)
 * [2024-05-19, 20:35:32](https://lobste.rs/s/afcb9f/digital_notepad_box_diy_e_ink_project) - [The digital notepad box - a DIY e-ink project](https://markus-haack.com/the-digital-notepad-box-a-diy-e-ink-project/)
