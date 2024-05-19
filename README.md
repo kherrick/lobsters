@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-19, 21:21:17](https://lobste.rs/s/h85r6j/qt_5_15_lts_on_windows_without_qt_account) - [Qt 5.15 LTS on Windows without a Qt Account](https://raymii.org/s/tutorials/Qt_5.15_LTS_on_Windows_without_a_Qt_Account.html)
 * [2024-05-19, 20:47:43](https://lobste.rs/s/dvi6ki/fixing_my_yamaha_electone_me_50_fm) - [Fixing my Yamaha Electone ME-50: An FM Synthesizer Home Organ from 1986](https://nicole.express/2023/resisting-the-urge-to-make-organ-jokes.html)
 * [2024-05-19, 20:35:32](https://lobste.rs/s/afcb9f/digital_notepad_box_diy_e_ink_project) - [The digital notepad box - a DIY e-ink project](https://markus-haack.com/the-digital-notepad-box-a-diy-e-ink-project/)
 * [2024-05-19, 18:48:49](https://lobste.rs/s/vhn62n/shedding_light_on_cvss_scoring) - [Shedding Light on CVSS Scoring Inconsistencies: A User-Centric Study on Evaluating Widespread Security Vulnerabilities](https://arxiv.org/pdf/2308.15259)
@@ -19,7 +20,6 @@
 * [2024-05-18, 12:45:39](https://lobste.rs/s/oqtbp0/flawz_terminal_ui_for_browsing_security) - [flawz - A Terminal UI for browsing security vulnerabilities (CVEs)](https://github.com/orhun/flawz)
 * [2024-05-18, 12:25:47](https://lobste.rs/s/5rmn4y/fixing_iterative_damping_interpolation) - [Fixing the iterative damping interpolation in video games](https://blog.pkh.me/p/41-fixing-the-iterative-damping-interpolation-in-video-games.html)
 * [2024-05-18, 12:09:13](https://lobste.rs/s/suqemh/haddock_now_lives_ghc_repository) - [Haddock now lives in the GHC repository](https://discourse.haskell.org/t/haddock-now-lives-in-the-ghc-repository/9576)
-* [2024-05-18, 11:36:41](https://lobste.rs/s/joopqh/ilgpu_modern_gpu_compiler_for_net) - [ILGPU: A Modern GPU Compiler for .Net Programs](https://ilgpu.net/)
 * [2024-05-17, 23:46:15](https://lobste.rs/s/neq3pn/slumber_tui_http_client) - [Slumber: A TUI HTTP Client](https://lucaspickering.me/posts/slumber)
 * [2024-05-17, 18:07:21](https://lobste.rs/s/2cbh68/bend_high_level_language_runs_on_gpus_via) - [Bend: a high-level language that runs on GPUs (via HVM2)](https://github.com/HigherOrderCO/Bend)
 * [2024-05-17, 17:11:17](https://lobste.rs/s/k43p68/cat9_microdosing_stash_list) - [Cat9 Microdosing: Stash and List](https://arcan-fe.com/2024/05/17/cat9-microdosing-stash-and-list/)
