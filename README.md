@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-19, 06:22:06](https://lobste.rs/s/3uahy3/i_made_new_backplane_for_my_terramaster_f2) - [I made a new backplane for my Terramaster F2-221 NAS](https://codedbearder.com/posts/f3-backplane/)
+* [2024-05-19, 06:16:15](https://lobste.rs/s/hkniyr/what_s_new_with_io_uring_6_10) - [What's new with io_uring in 6.10](https://github.com/axboe/liburing/wiki/What's-new-with-io_uring-in-6.10)
 * [2024-05-18, 22:48:40](https://lobste.rs/s/piprxk/go_browser_package) - [Go Browser Package](https://browser.dineshgowda.com/)
 * [2024-05-18, 18:38:46](https://lobste.rs/s/0qxuaa/two_cases_when_forward_declaring_is_not) - [Two cases when forward declaring is not enough](https://www.sandordargo.com/blog/2024/05/15/when-includes-are-needed)
 * [2024-05-18, 13:39:03](https://lobste.rs/s/bvqmah/decoding_us_government_plans_shift) - [Decoding US Government Plans to Shift the Software Security Burden](https://www.infosecurity-magazine.com/news/us-plans-software-security-burden/)
@@ -9,7 +11,6 @@
 * [2024-05-18, 12:09:13](https://lobste.rs/s/suqemh/haddock_now_lives_ghc_repository) - [Haddock now lives in the GHC repository](https://discourse.haskell.org/t/haddock-now-lives-in-the-ghc-repository/9576)
 * [2024-05-18, 11:38:02](https://lobste.rs/s/q82tx4/fshade_first_class_shaders_for_f) - [FShade: first-class shaders for F#](https://fshade.org/)
 * [2024-05-18, 11:36:41](https://lobste.rs/s/joopqh/ilgpu_modern_gpu_compiler_for_net) - [ILGPU: A Modern GPU Compiler for .Net Programs](https://ilgpu.net/)
-* [2024-05-18, 00:54:41](https://lobste.rs/s/3kmuo0/practical_third_party_library) - [Practical third-party library sandboxing with RLBox](https://rlbox.dev/)
 * [2024-05-17, 23:46:15](https://lobste.rs/s/neq3pn/slumber_tui_http_client) - [Slumber: A TUI HTTP Client](https://lucaspickering.me/posts/slumber)
 * [2024-05-17, 23:33:11](https://lobste.rs/s/qawycs/write_choose_your_own_adventure_stories) - [Write choose your own adventure stories and get a PDF: Yarn Spinner for Books](https://books.yarnspinner.dev/)
 * [2024-05-17, 22:39:59](https://lobste.rs/s/6vnypw/computer_scientists_invent_efficient) - [Computer Scientists Invent an Efficient New Way to Count](https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/)
@@ -24,7 +25,6 @@
 * [2024-05-17, 14:10:44](https://lobste.rs/s/iurz7z/faster_linking_times_on_nightly_on_linux) - [Faster linking times on nightly on Linux using \"rust-lld\"](https://blog.rust-lang.org/2024/05/17/enabling-rust-lld-on-linux.html)
 * [2024-05-17, 08:38:40](https://lobste.rs/s/5zjwgs/golang_is_evil_on_shitty_networks_2022) - [Golang is evil on shitty networks (2022)](https://withinboredom.info/2022/12/29/golang-is-evil-on-shitty-networks/)
 * [2024-05-17, 07:25:08](https://lobste.rs/s/weihxc/don_t_return_err_go) - [Don’t return err in Go](https://akavel.com/go-errors)
-* [2024-05-17, 06:46:34](https://lobste.rs/s/qzttmw/winamp_has_announced_it_is_opening_up_its) - [Winamp has announced that it is opening up its source](https://about.winamp.com/press/article/winamp-open-source-code)
 
 ## [Archives](archives/index.md)
 
