@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-19](index.md)
 
+* [2024-05-19, 20:47:43](https://lobste.rs/s/dvi6ki/fixing_my_yamaha_electone_me_50_fm) - [Fixing my Yamaha Electone ME-50: An FM Synthesizer Home Organ from 1986](https://nicole.express/2023/resisting-the-urge-to-make-organ-jokes.html)
 * [2024-05-19, 20:35:32](https://lobste.rs/s/afcb9f/digital_notepad_box_diy_e_ink_project) - [The digital notepad box - a DIY e-ink project](https://markus-haack.com/the-digital-notepad-box-a-diy-e-ink-project/)
 * [2024-05-19, 18:48:49](https://lobste.rs/s/vhn62n/shedding_light_on_cvss_scoring) - [Shedding Light on CVSS Scoring Inconsistencies: A User-Centric Study on Evaluating Widespread Security Vulnerabilities](https://arxiv.org/pdf/2308.15259)
 * [2024-05-19, 18:21:59](https://lobste.rs/s/ics6nn/trustworthy_free_libre_linux_capable) - [A Trustworthy, Free (Libre), Linux Capable, Self-Hosting 64bit RISC-V Computer](https://www.contrib.andrew.cmu.edu/~somlo/BTCP/)

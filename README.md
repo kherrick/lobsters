@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-19, 20:47:43](https://lobste.rs/s/dvi6ki/fixing_my_yamaha_electone_me_50_fm) - [Fixing my Yamaha Electone ME-50: An FM Synthesizer Home Organ from 1986](https://nicole.express/2023/resisting-the-urge-to-make-organ-jokes.html)
 * [2024-05-19, 20:35:32](https://lobste.rs/s/afcb9f/digital_notepad_box_diy_e_ink_project) - [The digital notepad box - a DIY e-ink project](https://markus-haack.com/the-digital-notepad-box-a-diy-e-ink-project/)
 * [2024-05-19, 18:48:49](https://lobste.rs/s/vhn62n/shedding_light_on_cvss_scoring) - [Shedding Light on CVSS Scoring Inconsistencies: A User-Centric Study on Evaluating Widespread Security Vulnerabilities](https://arxiv.org/pdf/2308.15259)
 * [2024-05-19, 18:21:59](https://lobste.rs/s/ics6nn/trustworthy_free_libre_linux_capable) - [A Trustworthy, Free (Libre), Linux Capable, Self-Hosting 64bit RISC-V Computer](https://www.contrib.andrew.cmu.edu/~somlo/BTCP/)
@@ -15,7 +16,6 @@
 * [2024-05-18, 22:48:40](https://lobste.rs/s/piprxk/go_browser_package) - [Go Browser Package](https://browser.dineshgowda.com/)
 * [2024-05-18, 18:38:46](https://lobste.rs/s/0qxuaa/two_cases_when_forward_declaring_is_not) - [Two cases when forward declaring is not enough](https://www.sandordargo.com/blog/2024/05/15/when-includes-are-needed)
 * [2024-05-18, 13:39:03](https://lobste.rs/s/bvqmah/decoding_us_government_plans_shift) - [Decoding US Government Plans to Shift the Software Security Burden](https://www.infosecurity-magazine.com/news/us-plans-software-security-burden/)
-* [2024-05-18, 13:35:37](https://lobste.rs/s/g3dwwi/tcp_performance_mathis_equation) - [TCP Performance and the Mathis Equation](https://netcraftsmen.com/tcp-performance-and-the-mathis-equation/)
 * [2024-05-18, 12:45:39](https://lobste.rs/s/oqtbp0/flawz_terminal_ui_for_browsing_security) - [flawz - A Terminal UI for browsing security vulnerabilities (CVEs)](https://github.com/orhun/flawz)
 * [2024-05-18, 12:25:47](https://lobste.rs/s/5rmn4y/fixing_iterative_damping_interpolation) - [Fixing the iterative damping interpolation in video games](https://blog.pkh.me/p/41-fixing-the-iterative-damping-interpolation-in-video-games.html)
 * [2024-05-18, 12:09:13](https://lobste.rs/s/suqemh/haddock_now_lives_ghc_repository) - [Haddock now lives in the GHC repository](https://discourse.haskell.org/t/haddock-now-lives-in-the-ghc-repository/9576)
