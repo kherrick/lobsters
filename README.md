@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-19, 18:48:49](https://lobste.rs/s/vhn62n/shedding_light_on_cvss_scoring) - [Shedding Light on CVSS Scoring Inconsistencies: A User-Centric Study on Evaluating Widespread Security Vulnerabilities](https://arxiv.org/pdf/2308.15259)
 * [2024-05-19, 18:21:59](https://lobste.rs/s/ics6nn/trustworthy_free_libre_linux_capable) - [A Trustworthy, Free (Libre), Linux Capable, Self-Hosting 64bit RISC-V Computer](https://www.contrib.andrew.cmu.edu/~somlo/BTCP/)
 * [2024-05-19, 17:22:21](https://lobste.rs/s/icof4c/transforming_qlc_ssd_into_slc_ssd) - [Transforming a QLC SSD into an SLC SSD](https://theoverclockingpage.com/2024/05/13/tutorial-transforming-a-qlc-ssd-into-an-slc-ssd-dramatically-increasing-the-drives-endurance/?lang=en)
 * [2024-05-19, 15:26:06](https://lobste.rs/s/dj1zzl/stract_web_search_done_right) - [stract: web search done right](https://github.com/StractOrg/stract)
@@ -20,7 +21,6 @@
 * [2024-05-18, 11:36:41](https://lobste.rs/s/joopqh/ilgpu_modern_gpu_compiler_for_net) - [ILGPU: A Modern GPU Compiler for .Net Programs](https://ilgpu.net/)
 * [2024-05-17, 23:46:15](https://lobste.rs/s/neq3pn/slumber_tui_http_client) - [Slumber: A TUI HTTP Client](https://lucaspickering.me/posts/slumber)
 * [2024-05-17, 23:33:11](https://lobste.rs/s/qawycs/write_choose_your_own_adventure_stories) - [Write choose your own adventure stories and get a PDF: Yarn Spinner for Books](https://books.yarnspinner.dev/)
-* [2024-05-17, 22:39:59](https://lobste.rs/s/6vnypw/computer_scientists_invent_efficient) - [Computer Scientists Invent an Efficient New Way to Count](https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/)
 * [2024-05-17, 18:07:21](https://lobste.rs/s/2cbh68/bend_high_level_language_runs_on_gpus_via) - [Bend: a high-level language that runs on GPUs (via HVM2)](https://github.com/HigherOrderCO/Bend)
 * [2024-05-17, 17:11:17](https://lobste.rs/s/k43p68/cat9_microdosing_stash_list) - [Cat9 Microdosing: Stash and List](https://arcan-fe.com/2024/05/17/cat9-microdosing-stash-and-list/)
 * [2024-05-17, 16:40:54](https://lobste.rs/s/dmgwip/sshd_8_split_into_multiple_binaries) - [sshd(8) split into multiple binaries](https://undeadly.org/cgi?action=article;sid=20240517092416)

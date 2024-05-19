@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-19](index.md)
 
+* [2024-05-19, 18:48:49](https://lobste.rs/s/vhn62n/shedding_light_on_cvss_scoring) - [Shedding Light on CVSS Scoring Inconsistencies: A User-Centric Study on Evaluating Widespread Security Vulnerabilities](https://arxiv.org/pdf/2308.15259)
 * [2024-05-19, 18:21:59](https://lobste.rs/s/ics6nn/trustworthy_free_libre_linux_capable) - [A Trustworthy, Free (Libre), Linux Capable, Self-Hosting 64bit RISC-V Computer](https://www.contrib.andrew.cmu.edu/~somlo/BTCP/)
 * [2024-05-19, 17:22:21](https://lobste.rs/s/icof4c/transforming_qlc_ssd_into_slc_ssd) - [Transforming a QLC SSD into an SLC SSD](https://theoverclockingpage.com/2024/05/13/tutorial-transforming-a-qlc-ssd-into-an-slc-ssd-dramatically-increasing-the-drives-endurance/?lang=en)
 * [2024-05-19, 15:26:06](https://lobste.rs/s/dj1zzl/stract_web_search_done_right) - [stract: web search done right](https://github.com/StractOrg/stract)
