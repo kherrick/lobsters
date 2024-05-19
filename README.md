@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-19, 17:22:21](https://lobste.rs/s/icof4c/transforming_qlc_ssd_into_slc_ssd) - [Transforming a QLC SSD into an SLC SSD](https://theoverclockingpage.com/2024/05/13/tutorial-transforming-a-qlc-ssd-into-an-slc-ssd-dramatically-increasing-the-drives-endurance/?lang=en)
 * [2024-05-19, 15:26:06](https://lobste.rs/s/dj1zzl/stract_web_search_done_right) - [stract: web search done right](https://github.com/StractOrg/stract)
 * [2024-05-19, 14:11:48](https://lobste.rs/s/sgin0z/what_are_your_favorite_software) - [What are your favorite software architecture patterns?](https://lobste.rs/s/sgin0z/what_are_your_favorite_software)
 * [2024-05-19, 11:31:26](https://lobste.rs/s/naxyao/compilers_for_free_with_weval) - [Compilers for free with weval](https://bernsteinbear.com/blog/weval/)
@@ -15,7 +16,6 @@
 * [2024-05-18, 12:45:39](https://lobste.rs/s/oqtbp0/flawz_terminal_ui_for_browsing_security) - [flawz - A Terminal UI for browsing security vulnerabilities (CVEs)](https://github.com/orhun/flawz)
 * [2024-05-18, 12:25:47](https://lobste.rs/s/5rmn4y/fixing_iterative_damping_interpolation) - [Fixing the iterative damping interpolation in video games](https://blog.pkh.me/p/41-fixing-the-iterative-damping-interpolation-in-video-games.html)
 * [2024-05-18, 12:09:13](https://lobste.rs/s/suqemh/haddock_now_lives_ghc_repository) - [Haddock now lives in the GHC repository](https://discourse.haskell.org/t/haddock-now-lives-in-the-ghc-repository/9576)
-* [2024-05-18, 11:38:02](https://lobste.rs/s/q82tx4/fshade_first_class_shaders_for_f) - [FShade: first-class shaders for F#](https://fshade.org/)
 * [2024-05-18, 11:36:41](https://lobste.rs/s/joopqh/ilgpu_modern_gpu_compiler_for_net) - [ILGPU: A Modern GPU Compiler for .Net Programs](https://ilgpu.net/)
 * [2024-05-17, 23:46:15](https://lobste.rs/s/neq3pn/slumber_tui_http_client) - [Slumber: A TUI HTTP Client](https://lucaspickering.me/posts/slumber)
 * [2024-05-17, 23:33:11](https://lobste.rs/s/qawycs/write_choose_your_own_adventure_stories) - [Write choose your own adventure stories and get a PDF: Yarn Spinner for Books](https://books.yarnspinner.dev/)
