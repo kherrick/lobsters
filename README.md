@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-19, 11:22:53](https://lobste.rs/s/azasse/polyfill_glibc_patch_linux_executables) - [polyfill-glibc: Patch Linux executables for compatibility with older glibc](https://github.com/corsix/polyfill-glibc/)
 * [2024-05-19, 09:35:34](https://lobste.rs/s/5i2axx/fast_groq_hosted_llms_vs_browser_jank) - [Fast groq-hosted LLMs vs browser jank](https://taras.glek.net/post/groq-vs-html-reflows/)
 * [2024-05-19, 08:53:40](https://lobste.rs/s/cv45iy/hashing_modulo_theories) - [Hashing Modulo Theories](https://www.philipzucker.com/hashing-modulo/)
 * [2024-05-19, 06:22:06](https://lobste.rs/s/3uahy3/i_made_new_backplane_for_my_terramaster_f2) - [I made a new backplane for my Terramaster F2-221 NAS](https://codedbearder.com/posts/f3-backplane/)
@@ -21,7 +22,6 @@
 * [2024-05-17, 17:02:41](https://lobste.rs/s/qlpvlt/anvil_acme_inspired_text_editor_written) - [Anvil - Acme inspired text editor written in Go](http://anvil-editor.net)
 * [2024-05-17, 16:40:54](https://lobste.rs/s/dmgwip/sshd_8_split_into_multiple_binaries) - [sshd(8) split into multiple binaries](https://undeadly.org/cgi?action=article;sid=20240517092416)
 * [2024-05-17, 14:55:59](https://lobste.rs/s/bkwzk4/forged_apple_employee_badge) - [The Forged Apple Employee Badge](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
-* [2024-05-17, 14:41:22](https://lobste.rs/s/dj5rcs/non_euclidean_doom_what_happens_game_when) - [Non-Euclidean Doom: what happens to a game when pi is not 3.14159…](https://media.ccc.de/v/mch2022-236-non-euclidean-doom-what-happens-to-a-game-when-pi-is-not-3-14159-#t=324)
 * [2024-05-17, 14:33:03](https://lobste.rs/s/npvdod/firefox_bookmark_keywords_for_faster) - [Firefox bookmark keywords for faster navigation](https://blog.meain.io/2024/firefox-bookmark-keywords)
 * [2024-05-17, 08:38:40](https://lobste.rs/s/5zjwgs/golang_is_evil_on_shitty_networks_2022) - [Golang is evil on shitty networks (2022)](https://withinboredom.info/2022/12/29/golang-is-evil-on-shitty-networks/)
 * [2024-05-17, 07:25:08](https://lobste.rs/s/weihxc/don_t_return_err_go) - [Don’t return err in Go](https://akavel.com/go-errors)

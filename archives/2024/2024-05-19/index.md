@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-19](index.md)
 
+* [2024-05-19, 11:22:53](https://lobste.rs/s/azasse/polyfill_glibc_patch_linux_executables) - [polyfill-glibc: Patch Linux executables for compatibility with older glibc](https://github.com/corsix/polyfill-glibc/)
 * [2024-05-19, 09:35:34](https://lobste.rs/s/5i2axx/fast_groq_hosted_llms_vs_browser_jank) - [Fast groq-hosted LLMs vs browser jank](https://taras.glek.net/post/groq-vs-html-reflows/)
 * [2024-05-19, 09:35:34](https://lobste.rs/s/5i2axx/fast_groq_hosted_llms_vs_browser) - [Fast groq-hosted LLMs vs browser responsiveness](https://taras.glek.net/post/groq-vs-html-reflows/)
 * [2024-05-19, 08:53:40](https://lobste.rs/s/cv45iy/hashing_modulo_theories) - [Hashing Modulo Theories](https://www.philipzucker.com/hashing-modulo/)
