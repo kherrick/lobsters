@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-19, 15:26:06](https://lobste.rs/s/dj1zzl/stract_web_search_done_right) - [stract: web search done right](https://github.com/StractOrg/stract)
 * [2024-05-19, 14:11:48](https://lobste.rs/s/sgin0z/what_are_your_favorite_software) - [What are your favorite software architecture patterns?](https://lobste.rs/s/sgin0z/what_are_your_favorite_software)
 * [2024-05-19, 11:31:26](https://lobste.rs/s/naxyao/compilers_for_free_with_weval) - [Compilers for free with weval](https://bernsteinbear.com/blog/weval/)
 * [2024-05-19, 11:22:53](https://lobste.rs/s/azasse/polyfill_glibc_patch_linux_executables) - [polyfill-glibc: Patch Linux executables for compatibility with older glibc](https://github.com/corsix/polyfill-glibc/)
@@ -22,7 +23,6 @@
 * [2024-05-17, 18:07:21](https://lobste.rs/s/2cbh68/bend_high_level_language_runs_on_gpus_via) - [Bend: a high-level language that runs on GPUs (via HVM2)](https://github.com/HigherOrderCO/Bend)
 * [2024-05-17, 17:11:17](https://lobste.rs/s/k43p68/cat9_microdosing_stash_list) - [Cat9 Microdosing: Stash and List](https://arcan-fe.com/2024/05/17/cat9-microdosing-stash-and-list/)
 * [2024-05-17, 16:40:54](https://lobste.rs/s/dmgwip/sshd_8_split_into_multiple_binaries) - [sshd(8) split into multiple binaries](https://undeadly.org/cgi?action=article;sid=20240517092416)
-* [2024-05-17, 14:55:59](https://lobste.rs/s/bkwzk4/forged_apple_employee_badge) - [The Forged Apple Employee Badge](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
 * [2024-05-17, 14:33:03](https://lobste.rs/s/npvdod/firefox_bookmark_keywords_for_faster) - [Firefox bookmark keywords for faster navigation](https://blog.meain.io/2024/firefox-bookmark-keywords)
 * [2024-05-17, 07:25:08](https://lobste.rs/s/weihxc/don_t_return_err_go) - [Don’t return err in Go](https://akavel.com/go-errors)
 
