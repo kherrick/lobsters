@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
+* [2024-05-20, 16:53:01](https://lobste.rs/s/ynu4ge/ecmascript_2023_feature_symbols_as) - [ECMAScript 2023 feature: symbols as WeakMap keys](https://2ality.com/2024/05/proposal-symbols-as-weakmap-keys.html)
 * [2024-05-20, 16:46:58](https://lobste.rs/s/4dp26d/clone_arbitrary_single_git_commit) - [Clone arbitrary single Git commit](https://blog.hartwork.org/posts/clone-arbitrary-single-git-commit/)
 * [2024-05-20, 16:41:57](https://lobste.rs/s/nfui7f/windows_98_manual) - [The Windows 98 Manual](https://jamesg.blog/2024/05/19/windows-98-manual/)
 * [2024-05-20, 16:38:14](https://lobste.rs/s/q6i30w/edk2_boot_0000) - [Edk2 Boot 0000](https://blog.izissise.net/posts/edk2boot0000/)
