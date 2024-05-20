@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-05-20, 17:10:50",
-      "https://lobste.rs/s/pqkqzk/winlibs_standalone_build_gcc_mingw_w64"
+      "2024-05-20, 17:38:43",
+      "https://lobste.rs/s/cmcoe8/uber_migrates_1_trillion_records_from"
     ],
     [
-      "WinLibs standalone build of GCC and MinGW-w64 for Windows",
-      "https://winlibs.com/"
+      "Uber Migrates 1 Trillion Records from DynamoDB to LedgerStore to Save $6 Million Annually",
+      "https://www.infoq.com/news/2024/05/uber-dynamodb-ledgerstore/"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Edk2 Boot 0000",
       "https://blog.izissise.net/posts/edk2boot0000/"
+    ]
+  ],
+  [
+    [
+      "2024-05-20, 16:22:40",
+      "https://lobste.rs/s/impau3/ssd_death_tricky_read_only_filesystems"
+    ],
+    [
+      "SSD death, tricky read-only filesystems, and systemd magic?",
+      "https://rachelbythebay.com/w/2024/05/15/ro/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Coding my Handwriting",
       "https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript"
-    ]
-  ],
-  [
-    [
-      "2024-05-19, 20:35:32",
-      "https://lobste.rs/s/afcb9f/digital_notepad_box_diy_e_ink_project"
-    ],
-    [
-      "The digital notepad box - a DIY e-ink project",
-      "https://markus-haack.com/the-digital-notepad-box-a-diy-e-ink-project/"
     ]
   ],
   [
