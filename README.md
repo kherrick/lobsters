@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-05-20, 21:22:13](https://lobste.rs/s/n1rtwo/racket_language_oriented_programming) - [Racket - the Language-Oriented Programming Language - version 8.13 is now available](https://blog.racket-lang.org/2024/05/racket-v8-13.htm)
+* [2024-05-20, 21:22:13](https://lobste.rs/s/n1rtwo/racket_language_oriented_programming) - [Racket - the Language-Oriented Programming Language - version 8.13 is now available](https://blog.racket-lang.org/2024/05/racket-v8-13.html)
 * [2024-05-20, 19:52:22](https://lobste.rs/s/hpjhp0/leaf_node_monitoring_open_source_c_qt) - [Leaf Node Monitoring (open source C++/Qt monitoring) v2024.01 released](https://www.leafnode.nl/news/leaf-node-monitoring-v2024-01-released/)
+* [2024-05-20, 19:45:58](https://lobste.rs/s/6ghrsb/bbs_over_dns) - [BBS over DNS](https://bbs-over-dns.com/)
 * [2024-05-20, 19:00:56](https://lobste.rs/s/fqqrgk/city_bottle_256_byte_raycasting_system) - [City In A Bottle – A 256 Byte Raycasting System](https://frankforce.com/city-in-a-bottle-a-256-byte-raycasting-system/)
 * [2024-05-20, 18:55:08](https://lobste.rs/s/zjrm8l/why_i_don_t_use_third_party_assertion) - [Why I don't use a third-party assertion library in Go unit tests](https://dev.to/yawaramin/why-i-dont-use-a-third-party-assertion-library-in-go-unit-tests-1gak)
 * [2024-05-20, 18:02:58](https://lobste.rs/s/nihkwe/getting_ocaml_through_eye_needle) - [Getting OCaml Through the Eye of a Needle](https://hypirion.com/musings/getting-ocaml-through-the-eye-of-a-needle)
@@ -19,7 +20,6 @@
 * [2024-05-20, 11:10:15](https://lobste.rs/s/egisod/run_your_own_mail_server_book_for) - [Run Your Own Mail Server: A Book for Independence & Privacy by Michael W Lucas](https://www.kickstarter.com/projects/mwlucas/run-your-own-mail-server)
 * [2024-05-20, 10:16:23](https://lobste.rs/s/dd4om0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/dd4om0/what_are_you_doing_this_week)
 * [2024-05-20, 08:42:01](https://lobste.rs/s/hkbsfn/7_ocaml_gotchas) - [7 OCaml Gotchas](https://dev.to/chshersh/7-ocaml-gotchas-207e)
-* [2024-05-20, 07:27:03](https://lobste.rs/s/itepil/upgrade_postgresql_from_15_16_on_ubuntu_24) - [Upgrade PostgreSQL from 15 to 16 on Ubuntu 24.04](https://www.paulox.net/2024/05/20/upgrading-postgresql-from-version-15-to-16-on-ubuntu-24-04-noble-numbat/)
 * [2024-05-20, 04:36:04](https://lobste.rs/s/2t7l9z/glider_open_source_e_ink_monitor) - [Glider: open-source E-ink monitor](https://gitlab.com/zephray/glider)
 * [2024-05-20, 01:54:49](https://lobste.rs/s/wxijvm/riven) - [Riven](https://www.filfre.net/2024/05/riven/)
 * [2024-05-20, 01:03:52](https://lobste.rs/s/i3ojyb/writing_commit_messages) - [Writing commit messages](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/commit-messages/)
