@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-20, 01:03:52](https://lobste.rs/s/i3ojyb/writing_commit_messages) - [Writing commit messages](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/commit-messages/)
 * [2024-05-19, 21:58:19](https://lobste.rs/s/n06vtm/coding_my_handwriting) - [Coding my Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
 * [2024-05-19, 21:21:17](https://lobste.rs/s/h85r6j/qt_5_15_lts_on_windows_without_qt_account) - [Qt 5.15 LTS on Windows without a Qt Account](https://raymii.org/s/tutorials/Qt_5.15_LTS_on_Windows_without_a_Qt_Account.html)
 * [2024-05-19, 20:47:43](https://lobste.rs/s/dvi6ki/fixing_my_yamaha_electone_me_50_fm) - [Fixing my Yamaha Electone ME-50: An FM Synthesizer Home Organ from 1986](https://nicole.express/2023/resisting-the-urge-to-make-organ-jokes.html)
@@ -24,7 +25,6 @@
 * [2024-05-17, 18:07:21](https://lobste.rs/s/2cbh68/bend_high_level_language_runs_on_gpus_via) - [Bend: a high-level language that runs on GPUs (via HVM2)](https://github.com/HigherOrderCO/Bend)
 * [2024-05-17, 17:11:17](https://lobste.rs/s/k43p68/cat9_microdosing_stash_list) - [Cat9 Microdosing: Stash and List](https://arcan-fe.com/2024/05/17/cat9-microdosing-stash-and-list/)
 * [2024-05-17, 16:40:54](https://lobste.rs/s/dmgwip/sshd_8_split_into_multiple_binaries) - [sshd(8) split into multiple binaries](https://undeadly.org/cgi?action=article;sid=20240517092416)
-* [2024-05-17, 14:33:03](https://lobste.rs/s/npvdod/firefox_bookmark_keywords_for_faster) - [Firefox bookmark keywords for faster navigation](https://blog.meain.io/2024/firefox-bookmark-keywords)
 
 ## [Archives](archives/index.md)
 
