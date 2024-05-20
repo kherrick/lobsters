@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-20, 11:10:15](https://lobste.rs/s/egisod/run_your_own_mail_server_book_for) - [Run Your Own Mail Server: A Book for Independence & Privacy by Michael W Lucas — Kickstarter](https://www.kickstarter.com/projects/mwlucas/run-your-own-mail-server)
 * [2024-05-20, 10:16:23](https://lobste.rs/s/dd4om0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/dd4om0/what_are_you_doing_this_week)
 * [2024-05-20, 08:42:01](https://lobste.rs/s/hkbsfn/7_ocaml_gotchas) - [7 OCaml Gotchas](https://dev.to/chshersh/7-ocaml-gotchas-207e)
 * [2024-05-20, 08:14:13](https://lobste.rs/s/trri2z/comparison_crypto_fido_security_tokens) - [Comparison of Crypto, FIDO and Security Tokens](https://l.0l.de/tokens)
@@ -23,7 +24,6 @@
 * [2024-05-19, 09:35:34](https://lobste.rs/s/5i2axx/fast_groq_hosted_llms_vs_browser_jank) - [Fast groq-hosted LLMs vs browser jank](https://taras.glek.net/post/groq-vs-html-reflows/)
 * [2024-05-19, 08:53:40](https://lobste.rs/s/cv45iy/hashing_modulo_theories) - [Hashing Modulo Theories](https://www.philipzucker.com/hashing-modulo/)
 * [2024-05-19, 06:22:06](https://lobste.rs/s/3uahy3/i_made_new_backplane_for_my_terramaster_f2) - [I made a new backplane for my Terramaster F2-221 NAS](https://codedbearder.com/posts/f3-backplane/)
-* [2024-05-19, 06:16:15](https://lobste.rs/s/hkniyr/what_s_new_with_io_uring_6_10) - [What's new with io_uring in 6.10](https://github.com/axboe/liburing/wiki/What's-new-with-io_uring-in-6.10)
 * [2024-05-18, 12:25:47](https://lobste.rs/s/5rmn4y/fixing_iterative_damping_interpolation) - [Fixing the iterative damping interpolation in video games](https://blog.pkh.me/p/41-fixing-the-iterative-damping-interpolation-in-video-games.html)
 
 ## [Archives](archives/index.md)
