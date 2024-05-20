@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
+* [2024-05-20, 18:02:58](https://lobste.rs/s/nihkwe/getting_ocaml_through_eye_needle) - [Getting OCaml Through the Eye of a Needle](https://hypirion.com/musings/getting-ocaml-through-the-eye-of-a-needle)
 * [2024-05-20, 17:38:43](https://lobste.rs/s/cmcoe8/uber_migrates_1_trillion_records_from) - [Uber Migrates 1 Trillion Records from DynamoDB to LedgerStore to Save $6 Million Annually](https://www.infoq.com/news/2024/05/uber-dynamodb-ledgerstore/)
 * [2024-05-20, 17:10:50](https://lobste.rs/s/pqkqzk/winlibs_standalone_build_gcc_mingw_w64) - [WinLibs standalone build of GCC and MinGW-w64 for Windows](https://winlibs.com/)
 * [2024-05-20, 16:53:01](https://lobste.rs/s/ynu4ge/ecmascript_2023_feature_symbols_as) - [ECMAScript 2023 feature: symbols as WeakMap keys](https://2ality.com/2024/05/proposal-symbols-as-weakmap-keys.html)
