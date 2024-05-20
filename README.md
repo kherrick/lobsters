@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-05-20, 16:22:40](https://lobste.rs/s/impau3/ssd_death_tricky_read_only_filesystems) - [SSD death, tricky read-only filesystems, and systemd magic?](https://rachelbythebay.com/w/2024/05/15/ro/)
+* [2024-05-20, 16:41:57](https://lobste.rs/s/nfui7f/windows_98_manual) - [The Windows 98 Manual](https://jamesg.blog/2024/05/19/windows-98-manual/)
+* [2024-05-20, 16:38:14](https://lobste.rs/s/q6i30w/edk2_boot_0000) - [Edk2 Boot 0000](https://blog.izissise.net/posts/edk2boot0000/)
 * [2024-05-20, 15:37:08](https://lobste.rs/s/dqq69u/rust_s_iterators_optimize_nicely_contain) - [Rust's iterators optimize nicely—and contain a footgun](https://ntietz.com/blog/rusts-iterators-optimize-footgun/)
 * [2024-05-20, 15:32:47](https://lobste.rs/s/dwjaps/creusot_0_1_deductive_verification_tool) - [Creusot 0.1 (deductive verification tool for Rust)](https://github.com/creusot-rs/creusot/releases/tag/v0.1)
 * [2024-05-20, 14:03:40](https://lobste.rs/s/r26yun/psyche_c_automatic_compilation) - [psyche-c: automatic compilation of partially-available C programs](http://cuda.dcc.ufmg.br/psyche-c/)
@@ -22,7 +23,6 @@
 * [2024-05-20, 01:03:52](https://lobste.rs/s/i3ojyb/writing_commit_messages) - [Writing commit messages](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/commit-messages/)
 * [2024-05-19, 21:58:19](https://lobste.rs/s/n06vtm/coding_my_handwriting) - [Coding my Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
 * [2024-05-19, 20:35:32](https://lobste.rs/s/afcb9f/digital_notepad_box_diy_e_ink_project) - [The digital notepad box - a DIY e-ink project](https://markus-haack.com/the-digital-notepad-box-a-diy-e-ink-project/)
-* [2024-05-19, 17:22:21](https://lobste.rs/s/icof4c/transforming_qlc_ssd_into_slc_ssd) - [Transforming a QLC SSD into an SLC SSD](https://theoverclockingpage.com/2024/05/13/tutorial-transforming-a-qlc-ssd-into-an-slc-ssd-dramatically-increasing-the-drives-endurance/?lang=en)
 * [2024-05-19, 14:11:48](https://lobste.rs/s/sgin0z/what_are_your_favorite_software) - [What are your favorite software architecture patterns?](https://lobste.rs/s/sgin0z/what_are_your_favorite_software)
 * [2024-05-19, 11:31:26](https://lobste.rs/s/naxyao/compilers_for_free_with_weval) - [Compilers for free with weval](https://bernsteinbear.com/blog/weval/)
 

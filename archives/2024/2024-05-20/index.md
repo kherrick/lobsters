@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
+* [2024-05-20, 16:41:57](https://lobste.rs/s/nfui7f/windows_98_manual) - [The Windows 98 Manual](https://jamesg.blog/2024/05/19/windows-98-manual/)
+* [2024-05-20, 16:38:14](https://lobste.rs/s/q6i30w/edk2_boot_0000) - [Edk2 Boot 0000](https://blog.izissise.net/posts/edk2boot0000/)
 * [2024-05-20, 16:22:40](https://lobste.rs/s/impau3/ssd_death_tricky_read_only_filesystems) - [SSD death, tricky read-only filesystems, and systemd magic?](https://rachelbythebay.com/w/2024/05/15/ro/)
 * [2024-05-20, 15:57:56](https://lobste.rs/s/50tklx/tools_make_you_feel_empowered) - [Tools That Make You Feel Empowered](https://www.zwhuang.dev/blog/empowering-tools/)
 * [2024-05-20, 15:49:06](https://lobste.rs/s/doc5sx/grothendieck_s_use_equality) - [Grothendieck's use of equality](https://arxiv.org/abs/2405.10387)
