@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-20, 14:03:40",
+      "https://lobste.rs/s/r26yun/psyche_c_automatic_compilation"
+    ],
+    [
+      "psyche-c: automatic compilation of partially-available C programs",
+      "http://cuda.dcc.ufmg.br/psyche-c/"
+    ]
+  ],
+  [
+    [
+      "2024-05-20, 14:01:32",
+      "https://lobste.rs/s/qsnh9f/c23_implications_for_c_libraries"
+    ],
+    [
+      "C23 implications for C libraries",
+      "https://htmlpreview.github.io/?https://icube-forge.unistra.fr/icps/c23-library/-/raw/main/README.html"
+    ]
+  ],
+  [
+    [
       "2024-05-20, 12:46:29",
       "https://lobste.rs/s/ywqdkw/ratatui_v0_26_3_rust_library_for_building"
     ],
@@ -37,16 +57,6 @@
     [
       "CRDT: Text Buffer",
       "https://madebyevan.com/algos/crdt-text-buffer/"
-    ]
-  ],
-  [
-    [
-      "2024-05-20, 11:32:30",
-      "https://lobste.rs/s/r0awbw/freebsd_14_1_beta3_now_available"
-    ],
-    [
-      "FreeBSD 14.1-BETA3 Now Available",
-      "https://lists.freebsd.org/archives/freebsd-stable/2024-May/002173.html"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Qt 5.15 LTS on Windows without a Qt Account",
       "https://raymii.org/s/tutorials/Qt_5.15_LTS_on_Windows_without_a_Qt_Account.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-19, 20:47:43",
-      "https://lobste.rs/s/dvi6ki/fixing_my_yamaha_electone_me_50_fm"
-    ],
-    [
-      "Fixing my Yamaha Electone ME-50: An FM Synthesizer Home Organ from 1986",
-      "https://nicole.express/2023/resisting-the-urge-to-make-organ-jokes.html"
     ]
   ],
   [
