@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
+* [2024-05-20, 18:55:08](https://lobste.rs/s/zjrm8l/why_i_don_t_use_third_party_assertion) - [Why I don't use a third-party assertion library in Go unit tests](https://dev.to/yawaramin/why-i-dont-use-a-third-party-assertion-library-in-go-unit-tests-1gak)
 * [2024-05-20, 18:02:58](https://lobste.rs/s/nihkwe/getting_ocaml_through_eye_needle) - [Getting OCaml Through the Eye of a Needle](https://hypirion.com/musings/getting-ocaml-through-the-eye-of-a-needle)
 * [2024-05-20, 17:38:43](https://lobste.rs/s/cmcoe8/uber_migrates_1_trillion_records_from) - [Uber Migrates 1 Trillion Records from DynamoDB to LedgerStore to Save $6 Million Annually](https://www.infoq.com/news/2024/05/uber-dynamodb-ledgerstore/)
 * [2024-05-20, 17:10:50](https://lobste.rs/s/pqkqzk/winlibs_standalone_build_gcc_mingw_w64) - [WinLibs standalone build of GCC and MinGW-w64 for Windows](https://winlibs.com/)
