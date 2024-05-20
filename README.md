@@ -7,6 +7,7 @@
 * [2024-05-20, 15:57:56](https://lobste.rs/s/50tklx/tools_make_you_feel_empowered) - [Tools That Make You Feel Empowered](https://www.zwhuang.dev/blog/empowering-tools/)
 * [2024-05-20, 15:37:08](https://lobste.rs/s/dqq69u/rust_s_iterators_optimize_nicely_contain) - [Rust's iterators optimize nicely—and contain a footgun](https://ntietz.com/blog/rusts-iterators-optimize-footgun/)
 * [2024-05-20, 15:32:47](https://lobste.rs/s/dwjaps/creusot_0_1_deductive_verification_tool) - [Creusot 0.1 (deductive verification tool for Rust)](https://github.com/creusot-rs/creusot/releases/tag/v0.1)
+* [2024-05-20, 15:15:52](https://lobste.rs/s/vhhbtk/rust_zig_combined) - [Rust & Zig Combined](https://www.youtube.com/watch?v=jIZpKpLCOiU)
 * [2024-05-20, 14:03:40](https://lobste.rs/s/r26yun/psyche_c_automatic_compilation) - [psyche-c: automatic compilation of partially-available C programs](http://cuda.dcc.ufmg.br/psyche-c/)
 * [2024-05-20, 14:01:32](https://lobste.rs/s/qsnh9f/c23_implications_for_c_libraries) - [C23 implications for C libraries](https://htmlpreview.github.io/?https://icube-forge.unistra.fr/icps/c23-library/-/raw/main/README.html)
 * [2024-05-20, 12:46:29](https://lobste.rs/s/ywqdkw/ratatui_v0_26_3_rust_library_for_building) - [Ratatui v0.26.3 (Rust library for building TUIs)](https://ratatui.rs/highlights/v0263/)
@@ -22,7 +23,6 @@
 * [2024-05-20, 04:36:04](https://lobste.rs/s/2t7l9z/glider_open_source_e_ink_monitor) - [Glider: open-source E-ink monitor](https://gitlab.com/zephray/glider)
 * [2024-05-20, 01:54:49](https://lobste.rs/s/wxijvm/riven) - [Riven](https://www.filfre.net/2024/05/riven/)
 * [2024-05-20, 01:03:52](https://lobste.rs/s/i3ojyb/writing_commit_messages) - [Writing commit messages](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/commit-messages/)
-* [2024-05-19, 21:58:19](https://lobste.rs/s/n06vtm/coding_my_handwriting) - [Coding my Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
 * [2024-05-19, 14:11:48](https://lobste.rs/s/sgin0z/what_are_your_favorite_software) - [What are your favorite software architecture patterns?](https://lobste.rs/s/sgin0z/what_are_your_favorite_software)
 * [2024-05-19, 11:31:26](https://lobste.rs/s/naxyao/compilers_for_free_with_weval) - [Compilers for free with weval](https://bernsteinbear.com/blog/weval/)
 
