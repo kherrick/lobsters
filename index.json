@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-05-20, 16:53:01",
+      "https://lobste.rs/s/ynu4ge/ecmascript_2023_feature_symbols_as"
+    ],
+    [
+      "ECMAScript 2023 feature: symbols as WeakMap keys",
+      "https://2ality.com/2024/05/proposal-symbols-as-weakmap-keys.html"
+    ]
+  ],
+  [
+    [
       "2024-05-20, 16:46:58",
       "https://lobste.rs/s/4dp26d/clone_arbitrary_single_git_commit"
     ],
@@ -37,16 +47,6 @@
     [
       "Edk2 Boot 0000",
       "https://blog.izissise.net/posts/edk2boot0000/"
-    ]
-  ],
-  [
-    [
-      "2024-05-20, 16:22:40",
-      "https://lobste.rs/s/impau3/ssd_death_tricky_read_only_filesystems"
-    ],
-    [
-      "SSD death, tricky read-only filesystems, and systemd magic?",
-      "https://rachelbythebay.com/w/2024/05/15/ro/"
     ]
   ],
   [
