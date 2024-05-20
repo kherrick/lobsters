@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-20, 19:52:22",
+      "https://lobste.rs/s/hpjhp0/leaf_node_monitoring_open_source_c_qt"
+    ],
+    [
+      "Leaf Node Monitoring (open source C++/Qt monitoring) v2024.01 released",
+      "https://www.leafnode.nl/news/leaf-node-monitoring-v2024-01-released/"
+    ]
+  ],
+  [
+    [
       "2024-05-20, 19:00:56",
       "https://lobste.rs/s/fqqrgk/city_bottle_256_byte_raycasting_system"
     ],
@@ -27,26 +37,6 @@
     [
       "Getting OCaml Through the Eye of a Needle",
       "https://hypirion.com/musings/getting-ocaml-through-the-eye-of-a-needle"
-    ]
-  ],
-  [
-    [
-      "2024-05-20, 18:02:14",
-      "https://lobste.rs/s/xakijb/compilers_for_free_2013"
-    ],
-    [
-      "Compilers for Free (2013)",
-      "https://tomstu.art/compilers-for-free"
-    ]
-  ],
-  [
-    [
-      "2024-05-20, 16:53:01",
-      "https://lobste.rs/s/ynu4ge/ecmascript_2023_feature_symbols_as"
-    ],
-    [
-      "ECMAScript 2023 feature: symbols as WeakMap keys",
-      "https://2ality.com/2024/05/proposal-symbols-as-weakmap-keys.html"
     ]
   ],
   [
@@ -157,6 +147,16 @@
     [
       "CRDT: Text Buffer",
       "https://madebyevan.com/algos/crdt-text-buffer/"
+    ]
+  ],
+  [
+    [
+      "2024-05-20, 11:32:30",
+      "https://lobste.rs/s/r0awbw/freebsd_14_1_beta3_now_available"
+    ],
+    [
+      "FreeBSD 14.1-BETA3 Now Available",
+      "https://lists.freebsd.org/archives/freebsd-stable/2024-May/002173.html"
     ]
   ],
   [
