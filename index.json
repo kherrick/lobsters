@@ -2,10 +2,10 @@
   [
     [
       "2024-05-20, 15:15:52",
-      "https://lobste.rs/s/vhhbtk/rust_zig_combined_goto_2023"
+      "https://lobste.rs/s/vhhbtk/rust_zig_combined"
     ],
     [
-      "Rust & Zig Combined (GOTO 2023)",
+      "Rust & Zig Combined",
       "https://www.youtube.com/watch?v=jIZpKpLCOiU"
     ]
   ],
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2024-05-19, 21:21:17",
+      "https://lobste.rs/s/h85r6j/qt_5_15_lts_on_windows_without_qt_account"
+    ],
+    [
+      "Qt 5.15 LTS on Windows without a Qt Account",
+      "https://raymii.org/s/tutorials/Qt_5.15_LTS_on_Windows_without_a_Qt_Account.html"
+    ]
+  ],
+  [
+    [
       "2024-05-19, 20:35:32",
       "https://lobste.rs/s/afcb9f/digital_notepad_box_diy_e_ink_project"
     ],
@@ -207,16 +217,6 @@
     [
       "Transforming a QLC SSD into an SLC SSD",
       "https://theoverclockingpage.com/2024/05/13/tutorial-transforming-a-qlc-ssd-into-an-slc-ssd-dramatically-increasing-the-drives-endurance/?lang=en"
-    ]
-  ],
-  [
-    [
-      "2024-05-19, 15:26:06",
-      "https://lobste.rs/s/dj1zzl/stract_web_search_done_right"
-    ],
-    [
-      "stract: web search done right",
-      "https://github.com/StractOrg/stract"
     ]
   ],
   [
