@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-20, 16:46:58](https://lobste.rs/s/4dp26d/clone_arbitrary_single_git_commit) - [Clone arbitrary single Git commit](https://blog.hartwork.org/posts/clone-arbitrary-single-git-commit/)
 * [2024-05-20, 16:41:57](https://lobste.rs/s/nfui7f/windows_98_manual) - [The Windows 98 Manual](https://jamesg.blog/2024/05/19/windows-98-manual/)
 * [2024-05-20, 16:38:14](https://lobste.rs/s/q6i30w/edk2_boot_0000) - [Edk2 Boot 0000](https://blog.izissise.net/posts/edk2boot0000/)
 * [2024-05-20, 15:37:08](https://lobste.rs/s/dqq69u/rust_s_iterators_optimize_nicely_contain) - [Rust's iterators optimize nicely—and contain a footgun](https://ntietz.com/blog/rusts-iterators-optimize-footgun/)
@@ -18,7 +19,6 @@
 * [2024-05-20, 08:14:13](https://lobste.rs/s/trri2z/comparison_crypto_fido_security_tokens) - [Comparison of Crypto, FIDO and Security Tokens](https://l.0l.de/tokens)
 * [2024-05-20, 07:27:03](https://lobste.rs/s/itepil/upgrade_postgresql_from_15_16_on_ubuntu_24) - [Upgrade PostgreSQL from 15 to 16 on Ubuntu 24.04](https://www.paulox.net/2024/05/20/upgrading-postgresql-from-version-15-to-16-on-ubuntu-24-04-noble-numbat/)
 * [2024-05-20, 04:36:04](https://lobste.rs/s/2t7l9z/glider_open_source_e_ink_monitor) - [Glider: open-source E-ink monitor](https://gitlab.com/zephray/glider)
-* [2024-05-20, 02:01:17](https://lobste.rs/s/yxjrpi/data_paper_ai_driven_scientific_research) - [data-to-paper: AI-driven scientific research](https://github.com/Technion-Kishony-lab/data-to-paper)
 * [2024-05-20, 01:54:49](https://lobste.rs/s/wxijvm/riven) - [Riven](https://www.filfre.net/2024/05/riven/)
 * [2024-05-20, 01:03:52](https://lobste.rs/s/i3ojyb/writing_commit_messages) - [Writing commit messages](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/commit-messages/)
 * [2024-05-19, 21:58:19](https://lobste.rs/s/n06vtm/coding_my_handwriting) - [Coding my Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
