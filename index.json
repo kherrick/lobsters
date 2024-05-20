@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-20, 07:27:03",
+      "https://lobste.rs/s/itepil/upgrade_postgresql_from_15_16_on_ubuntu_24"
+    ],
+    [
+      "Upgrade PostgreSQL from 15 to 16 on Ubuntu 24.04",
+      "https://www.paulox.net/2024/05/20/upgrading-postgresql-from-version-15-to-16-on-ubuntu-24-04-noble-numbat/"
+    ]
+  ],
+  [
+    [
       "2024-05-20, 05:54:44",
       "https://lobste.rs/s/irxghj/designing_scalable_ocpp_server"
     ],
@@ -217,16 +227,6 @@
     [
       "Decoding US Government Plans to Shift the Software Security Burden",
       "https://www.infosecurity-magazine.com/news/us-plans-software-security-burden/"
-    ]
-  ],
-  [
-    [
-      "2024-05-18, 12:45:39",
-      "https://lobste.rs/s/oqtbp0/flawz_terminal_ui_for_browsing_security"
-    ],
-    [
-      "flawz - A Terminal UI for browsing security vulnerabilities (CVEs)",
-      "https://github.com/orhun/flawz"
     ]
   ],
   [
