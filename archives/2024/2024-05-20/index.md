@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
+* [2024-05-20, 12:46:29](https://lobste.rs/s/ywqdkw/ratatui_v0_26_3_rust_library_for_building) - [Ratatui v0.26.3 (Rust library for building TUIs)](https://ratatui.rs/highlights/v0263/)
+* [2024-05-20, 12:39:28](https://lobste.rs/s/g0elgn/llama3_from_scratch_llama3) - [llama3-from-scratch: llama3 implementation one matrix multiplication at a time](https://github.com/naklecha/llama3-from-scratch)
 * [2024-05-20, 12:25:33](https://lobste.rs/s/v1n04q/cve_2024_4367_arbitrary_javascript) - [CVE-2024-4367 - Arbitrary JavaScript execution in PDF.js](https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/)
 * [2024-05-20, 11:45:48](https://lobste.rs/s/42dxsn/crdt_text_buffer) - [CRDT: Text Buffer](https://madebyevan.com/algos/crdt-text-buffer/)
 * [2024-05-20, 11:32:30](https://lobste.rs/s/r0awbw/freebsd_14_1_beta3_now_available) - [FreeBSD 14.1-BETA3 Now Available](https://lists.freebsd.org/archives/freebsd-stable/2024-May/002173.html)
