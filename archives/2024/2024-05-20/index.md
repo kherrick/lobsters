@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
+* [2024-05-20, 10:16:23](https://lobste.rs/s/dd4om0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/dd4om0/what_are_you_doing_this_week)
 * [2024-05-20, 08:42:01](https://lobste.rs/s/hkbsfn/7_ocaml_gotchas) - [7 OCaml Gotchas](https://dev.to/chshersh/7-ocaml-gotchas-207e)
 * [2024-05-20, 08:14:13](https://lobste.rs/s/trri2z/comparison_crypto_fido_security_tokens) - [Comparison of Crypto, FIDO and Security Tokens](https://l.0l.de/tokens)
 * [2024-05-20, 07:27:03](https://lobste.rs/s/itepil/upgrade_postgresql_from_15_16_on_ubuntu_24) - [Upgrade PostgreSQL from 15 to 16 on Ubuntu 24.04](https://www.paulox.net/2024/05/20/upgrading-postgresql-from-version-15-to-16-on-ubuntu-24-04-noble-numbat/)
