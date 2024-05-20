@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
+* [2024-05-20, 11:32:30](https://lobste.rs/s/r0awbw/freebsd_14_1_beta3_now_available) - [FreeBSD 14.1-BETA3 Now Available](https://lists.freebsd.org/archives/freebsd-stable/2024-May/002173.html)
+* [2024-05-20, 11:31:02](https://lobste.rs/s/tp0k1i/install_alpine_linux_on_freebsd_jail) - [Install Alpine Linux on FreeBSD Jail](https://it-notes.dragas.net/2024/01/18/installing-alpine-linux-on-a-freebsd-jail/)
+* [2024-05-20, 11:30:27](https://lobste.rs/s/calg4r/how_use_visual_studio_code_on_freebsd) - [How to Use Visual Studio Code on FreeBSD](https://freebsdfoundation.org/resource/how-to-use-vs-code-on-freebsd/)
 * [2024-05-20, 11:10:15](https://lobste.rs/s/egisod/run_your_own_mail_server_book_for) - [Run Your Own Mail Server: A Book for Independence & Privacy by Michael W Lucas — Kickstarter](https://www.kickstarter.com/projects/mwlucas/run-your-own-mail-server)
 * [2024-05-20, 10:16:23](https://lobste.rs/s/dd4om0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/dd4om0/what_are_you_doing_this_week)
 * [2024-05-20, 08:42:01](https://lobste.rs/s/hkbsfn/7_ocaml_gotchas) - [7 OCaml Gotchas](https://dev.to/chshersh/7-ocaml-gotchas-207e)
