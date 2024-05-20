@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-20, 21:22:13](https://lobste.rs/s/n1rtwo/racket_language_oriented_programming) - [Racket - the Language-Oriented Programming Language - version 8.13 is now available](https://blog.racket-lang.org/2024/05/racket-v8-13.htm)
 * [2024-05-20, 19:52:22](https://lobste.rs/s/hpjhp0/leaf_node_monitoring_open_source_c_qt) - [Leaf Node Monitoring (open source C++/Qt monitoring) v2024.01 released](https://www.leafnode.nl/news/leaf-node-monitoring-v2024-01-released/)
 * [2024-05-20, 19:00:56](https://lobste.rs/s/fqqrgk/city_bottle_256_byte_raycasting_system) - [City In A Bottle – A 256 Byte Raycasting System](https://frankforce.com/city-in-a-bottle-a-256-byte-raycasting-system/)
 * [2024-05-20, 18:55:08](https://lobste.rs/s/zjrm8l/why_i_don_t_use_third_party_assertion) - [Why I don't use a third-party assertion library in Go unit tests](https://dev.to/yawaramin/why-i-dont-use-a-third-party-assertion-library-in-go-unit-tests-1gak)
@@ -15,7 +16,6 @@
 * [2024-05-20, 12:46:29](https://lobste.rs/s/ywqdkw/ratatui_v0_26_3_rust_library_for_building) - [Ratatui v0.26.3 (Rust library for building TUIs)](https://ratatui.rs/highlights/v0263/)
 * [2024-05-20, 12:25:33](https://lobste.rs/s/v1n04q/cve_2024_4367_arbitrary_javascript) - [CVE-2024-4367 - Arbitrary JavaScript execution in PDF.js](https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/)
 * [2024-05-20, 11:45:48](https://lobste.rs/s/42dxsn/crdt_text_buffer) - [CRDT: Text Buffer](https://madebyevan.com/algos/crdt-text-buffer/)
-* [2024-05-20, 11:32:30](https://lobste.rs/s/r0awbw/freebsd_14_1_beta3_now_available) - [FreeBSD 14.1-BETA3 Now Available](https://lists.freebsd.org/archives/freebsd-stable/2024-May/002173.html)
 * [2024-05-20, 11:10:15](https://lobste.rs/s/egisod/run_your_own_mail_server_book_for) - [Run Your Own Mail Server: A Book for Independence & Privacy by Michael W Lucas](https://www.kickstarter.com/projects/mwlucas/run-your-own-mail-server)
 * [2024-05-20, 10:16:23](https://lobste.rs/s/dd4om0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/dd4om0/what_are_you_doing_this_week)
 * [2024-05-20, 08:42:01](https://lobste.rs/s/hkbsfn/7_ocaml_gotchas) - [7 OCaml Gotchas](https://dev.to/chshersh/7-ocaml-gotchas-207e)
