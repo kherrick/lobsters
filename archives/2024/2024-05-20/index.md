@@ -6,6 +6,7 @@
 
 * [2024-05-20, 15:37:08](https://lobste.rs/s/dqq69u/rust_s_iterators_optimize_nicely_contain) - [Rust's iterators optimize nicely—and contain a footgun](https://ntietz.com/blog/rusts-iterators-optimize-footgun/)
 * [2024-05-20, 15:32:47](https://lobste.rs/s/dwjaps/release_creusot_0_1_creusot_rs_creusot) - [Release Creusot 0.1 · creusot-rs/creusot](https://github.com/creusot-rs/creusot/releases/tag/v0.1)
+* [2024-05-20, 15:32:47](https://lobste.rs/s/dwjaps/creusot_0_1_deductive_verification_tool) - [Creusot 0.1 (deductive verification tool for Rust)](https://github.com/creusot-rs/creusot/releases/tag/v0.1)
 * [2024-05-20, 15:15:52](https://lobste.rs/s/vhhbtk/rust_zig_combined_goto_2023) - [Rust & Zig Combined (GOTO 2023)](https://www.youtube.com/watch?v=jIZpKpLCOiU)
 * [2024-05-20, 15:15:52](https://lobste.rs/s/vhhbtk/rust_zig_combined) - [Rust & Zig Combined](https://www.youtube.com/watch?v=jIZpKpLCOiU)
 * [2024-05-20, 14:03:40](https://lobste.rs/s/r26yun/psyche_c_automatic_compilation) - [psyche-c: automatic compilation of partially-available C programs](http://cuda.dcc.ufmg.br/psyche-c/)
