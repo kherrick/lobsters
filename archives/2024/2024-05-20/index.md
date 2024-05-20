@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
+* [2024-05-20, 15:57:56](https://lobste.rs/s/50tklx/tools_make_you_feel_empowered) - [Tools That Make You Feel Empowered](https://www.zwhuang.dev/blog/empowering-tools/)
 * [2024-05-20, 15:49:06](https://lobste.rs/s/doc5sx/grothendieck_s_use_equality) - [Grothendieck's use of equality](https://arxiv.org/abs/2405.10387)
 * [2024-05-20, 15:37:08](https://lobste.rs/s/dqq69u/rust_s_iterators_optimize_nicely_contain) - [Rust's iterators optimize nicely—and contain a footgun](https://ntietz.com/blog/rusts-iterators-optimize-footgun/)
 * [2024-05-20, 15:32:47](https://lobste.rs/s/dwjaps/release_creusot_0_1_creusot_rs_creusot) - [Release Creusot 0.1 · creusot-rs/creusot](https://github.com/creusot-rs/creusot/releases/tag/v0.1)
