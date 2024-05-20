@@ -6,7 +6,7 @@
     ],
     [
       "Racket - the Language-Oriented Programming Language - version 8.13 is now available",
-      "https://blog.racket-lang.org/2024/05/racket-v8-13.htm"
+      "https://blog.racket-lang.org/2024/05/racket-v8-13.html"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Leaf Node Monitoring (open source C++/Qt monitoring) v2024.01 released",
       "https://www.leafnode.nl/news/leaf-node-monitoring-v2024-01-released/"
+    ]
+  ],
+  [
+    [
+      "2024-05-20, 19:45:58",
+      "https://lobste.rs/s/6ghrsb/bbs_over_dns"
+    ],
+    [
+      "BBS over DNS",
+      "https://bbs-over-dns.com/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "7 OCaml Gotchas",
       "https://dev.to/chshersh/7-ocaml-gotchas-207e"
-    ]
-  ],
-  [
-    [
-      "2024-05-20, 07:27:03",
-      "https://lobste.rs/s/itepil/upgrade_postgresql_from_15_16_on_ubuntu_24"
-    ],
-    [
-      "Upgrade PostgreSQL from 15 to 16 on Ubuntu 24.04",
-      "https://www.paulox.net/2024/05/20/upgrading-postgresql-from-version-15-to-16-on-ubuntu-24-04-noble-numbat/"
     ]
   ],
   [
