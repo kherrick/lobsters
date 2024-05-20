@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2024-05-20, 14:03:40",
-      "https://lobste.rs/s/r26yun/psyche_c_automatic_compilation"
-    ],
-    [
-      "psyche-c: automatic compilation of partially-available C programs",
-      "http://cuda.dcc.ufmg.br/psyche-c/"
-    ]
-  ],
-  [
-    [
       "2024-05-20, 14:01:32",
       "https://lobste.rs/s/qsnh9f/c23_implications_for_c_libraries"
     ],
@@ -167,6 +157,16 @@
     [
       "CRDT: Text Buffer",
       "https://madebyevan.com/algos/crdt-text-buffer/"
+    ]
+  ],
+  [
+    [
+      "2024-05-20, 11:32:30",
+      "https://lobste.rs/s/r0awbw/freebsd_14_1_beta3_now_available"
+    ],
+    [
+      "FreeBSD 14.1-BETA3 Now Available",
+      "https://lists.freebsd.org/archives/freebsd-stable/2024-May/002173.html"
     ]
   ],
   [
