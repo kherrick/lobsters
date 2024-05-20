@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
 * [2024-05-20, 15:15:52](https://lobste.rs/s/vhhbtk/rust_zig_combined_goto_2023) - [Rust & Zig Combined (GOTO 2023)](https://www.youtube.com/watch?v=jIZpKpLCOiU)
+* [2024-05-20, 15:15:52](https://lobste.rs/s/vhhbtk/rust_zig_combined) - [Rust & Zig Combined](https://www.youtube.com/watch?v=jIZpKpLCOiU)
 * [2024-05-20, 14:03:40](https://lobste.rs/s/r26yun/psyche_c_automatic_compilation) - [psyche-c: automatic compilation of partially-available C programs](http://cuda.dcc.ufmg.br/psyche-c/)
 * [2024-05-20, 14:01:32](https://lobste.rs/s/qsnh9f/c23_implications_for_c_libraries) - [C23 implications for C libraries](https://htmlpreview.github.io/?https://icube-forge.unistra.fr/icps/c23-library/-/raw/main/README.html)
 * [2024-05-20, 12:59:34](https://lobste.rs/s/z9pbkc/high_performers_job_hop_when_they_can_t) - [High performers job hop when they can't find a high performance culture](https://thedailydeveloper.substack.com/p/high-performers-job-hop-when-they)

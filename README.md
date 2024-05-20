@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-05-20, 15:15:52](https://lobste.rs/s/vhhbtk/rust_zig_combined_goto_2023) - [Rust & Zig Combined (GOTO 2023)](https://www.youtube.com/watch?v=jIZpKpLCOiU)
+* [2024-05-20, 15:15:52](https://lobste.rs/s/vhhbtk/rust_zig_combined) - [Rust & Zig Combined](https://www.youtube.com/watch?v=jIZpKpLCOiU)
 * [2024-05-20, 14:03:40](https://lobste.rs/s/r26yun/psyche_c_automatic_compilation) - [psyche-c: automatic compilation of partially-available C programs](http://cuda.dcc.ufmg.br/psyche-c/)
 * [2024-05-20, 14:01:32](https://lobste.rs/s/qsnh9f/c23_implications_for_c_libraries) - [C23 implications for C libraries](https://htmlpreview.github.io/?https://icube-forge.unistra.fr/icps/c23-library/-/raw/main/README.html)
 * [2024-05-20, 12:46:29](https://lobste.rs/s/ywqdkw/ratatui_v0_26_3_rust_library_for_building) - [Ratatui v0.26.3 (Rust library for building TUIs)](https://ratatui.rs/highlights/v0263/)
@@ -19,9 +19,9 @@
 * [2024-05-20, 01:54:49](https://lobste.rs/s/wxijvm/riven) - [Riven](https://www.filfre.net/2024/05/riven/)
 * [2024-05-20, 01:03:52](https://lobste.rs/s/i3ojyb/writing_commit_messages) - [Writing commit messages](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/commit-messages/)
 * [2024-05-19, 21:58:19](https://lobste.rs/s/n06vtm/coding_my_handwriting) - [Coding my Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
+* [2024-05-19, 21:21:17](https://lobste.rs/s/h85r6j/qt_5_15_lts_on_windows_without_qt_account) - [Qt 5.15 LTS on Windows without a Qt Account](https://raymii.org/s/tutorials/Qt_5.15_LTS_on_Windows_without_a_Qt_Account.html)
 * [2024-05-19, 20:35:32](https://lobste.rs/s/afcb9f/digital_notepad_box_diy_e_ink_project) - [The digital notepad box - a DIY e-ink project](https://markus-haack.com/the-digital-notepad-box-a-diy-e-ink-project/)
 * [2024-05-19, 17:22:21](https://lobste.rs/s/icof4c/transforming_qlc_ssd_into_slc_ssd) - [Transforming a QLC SSD into an SLC SSD](https://theoverclockingpage.com/2024/05/13/tutorial-transforming-a-qlc-ssd-into-an-slc-ssd-dramatically-increasing-the-drives-endurance/?lang=en)
-* [2024-05-19, 15:26:06](https://lobste.rs/s/dj1zzl/stract_web_search_done_right) - [stract: web search done right](https://github.com/StractOrg/stract)
 * [2024-05-19, 14:11:48](https://lobste.rs/s/sgin0z/what_are_your_favorite_software) - [What are your favorite software architecture patterns?](https://lobste.rs/s/sgin0z/what_are_your_favorite_software)
 * [2024-05-19, 11:31:26](https://lobste.rs/s/naxyao/compilers_for_free_with_weval) - [Compilers for free with weval](https://bernsteinbear.com/blog/weval/)
 * [2024-05-19, 11:22:53](https://lobste.rs/s/azasse/polyfill_glibc_patch_linux_executables) - [polyfill-glibc: Patch Linux executables for compatibility with older glibc](https://github.com/corsix/polyfill-glibc/)
