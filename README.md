@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-20, 05:54:44](https://lobste.rs/s/irxghj/designing_scalable_ocpp_server) - [Designing a Scalable OCPP server - Siddharth Sabron](https://siddharthsabron.in/blog/ocpp-server/)
 * [2024-05-20, 04:36:04](https://lobste.rs/s/2t7l9z/glider_open_source_e_ink_monitor) - [Glider: open-source E-ink monitor](https://gitlab.com/zephray/glider)
 * [2024-05-20, 02:01:17](https://lobste.rs/s/yxjrpi/data_paper_ai_driven_scientific_research) - [data-to-paper: AI-driven scientific research](https://github.com/Technion-Kishony-lab/data-to-paper)
 * [2024-05-20, 01:54:49](https://lobste.rs/s/wxijvm/riven) - [Riven](https://www.filfre.net/2024/05/riven/)
@@ -24,7 +25,6 @@
 * [2024-05-18, 12:45:39](https://lobste.rs/s/oqtbp0/flawz_terminal_ui_for_browsing_security) - [flawz - A Terminal UI for browsing security vulnerabilities (CVEs)](https://github.com/orhun/flawz)
 * [2024-05-18, 12:25:47](https://lobste.rs/s/5rmn4y/fixing_iterative_damping_interpolation) - [Fixing the iterative damping interpolation in video games](https://blog.pkh.me/p/41-fixing-the-iterative-damping-interpolation-in-video-games.html)
 * [2024-05-18, 12:09:13](https://lobste.rs/s/suqemh/haddock_now_lives_ghc_repository) - [Haddock now lives in the GHC repository](https://discourse.haskell.org/t/haddock-now-lives-in-the-ghc-repository/9576)
-* [2024-05-17, 17:11:17](https://lobste.rs/s/k43p68/cat9_microdosing_stash_list) - [Cat9 Microdosing: Stash and List](https://arcan-fe.com/2024/05/17/cat9-microdosing-stash-and-list/)
 
 ## [Archives](archives/index.md)
 
