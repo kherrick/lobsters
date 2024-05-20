@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-20, 12:46:29",
+      "https://lobste.rs/s/ywqdkw/ratatui_v0_26_3_rust_library_for_building"
+    ],
+    [
+      "Ratatui v0.26.3 (Rust library for building TUIs)",
+      "https://ratatui.rs/highlights/v0263/"
+    ]
+  ],
+  [
+    [
+      "2024-05-20, 12:39:28",
+      "https://lobste.rs/s/g0elgn/llama3_from_scratch_llama3"
+    ],
+    [
+      "llama3-from-scratch: llama3 implementation one matrix multiplication at a time",
+      "https://github.com/naklecha/llama3-from-scratch"
+    ]
+  ],
+  [
+    [
       "2024-05-20, 12:25:33",
       "https://lobste.rs/s/v1n04q/cve_2024_4367_arbitrary_javascript"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2024-05-20, 05:54:44",
-      "https://lobste.rs/s/irxghj/designing_scalable_ocpp_server"
-    ],
-    [
-      "Designing a Scalable OCPP server",
-      "https://siddharthsabron.in/blog/ocpp-server/"
-    ]
-  ],
-  [
-    [
       "2024-05-20, 04:36:04",
       "https://lobste.rs/s/2t7l9z/glider_open_source_e_ink_monitor"
     ],
@@ -187,16 +197,6 @@
     [
       "The digital notepad box - a DIY e-ink project",
       "https://markus-haack.com/the-digital-notepad-box-a-diy-e-ink-project/"
-    ]
-  ],
-  [
-    [
-      "2024-05-19, 18:21:59",
-      "https://lobste.rs/s/ics6nn/trustworthy_free_libre_linux_capable"
-    ],
-    [
-      "A Trustworthy, Free (Libre), Linux Capable, Self-Hosting 64bit RISC-V Computer",
-      "https://www.contrib.andrew.cmu.edu/~somlo/BTCP/"
     ]
   ],
   [
