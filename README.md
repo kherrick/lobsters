@@ -16,7 +16,7 @@
 * [2024-05-20, 12:25:33](https://lobste.rs/s/v1n04q/cve_2024_4367_arbitrary_javascript) - [CVE-2024-4367 - Arbitrary JavaScript execution in PDF.js](https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/)
 * [2024-05-20, 11:45:48](https://lobste.rs/s/42dxsn/crdt_text_buffer) - [CRDT: Text Buffer](https://madebyevan.com/algos/crdt-text-buffer/)
 * [2024-05-20, 11:32:30](https://lobste.rs/s/r0awbw/freebsd_14_1_beta3_now_available) - [FreeBSD 14.1-BETA3 Now Available](https://lists.freebsd.org/archives/freebsd-stable/2024-May/002173.html)
-* [2024-05-20, 11:10:15](https://lobste.rs/s/egisod/run_your_own_mail_server_book_for) - [Run Your Own Mail Server: A Book for Independence & Privacy by Michael W Lucas — Kickstarter](https://www.kickstarter.com/projects/mwlucas/run-your-own-mail-server)
+* [2024-05-20, 11:10:15](https://lobste.rs/s/egisod/run_your_own_mail_server_book_for) - [Run Your Own Mail Server: A Book for Independence & Privacy by Michael W Lucas](https://www.kickstarter.com/projects/mwlucas/run-your-own-mail-server)
 * [2024-05-20, 10:16:23](https://lobste.rs/s/dd4om0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/dd4om0/what_are_you_doing_this_week)
 * [2024-05-20, 08:42:01](https://lobste.rs/s/hkbsfn/7_ocaml_gotchas) - [7 OCaml Gotchas](https://dev.to/chshersh/7-ocaml-gotchas-207e)
 * [2024-05-20, 07:27:03](https://lobste.rs/s/itepil/upgrade_postgresql_from_15_16_on_ubuntu_24) - [Upgrade PostgreSQL from 15 to 16 on Ubuntu 24.04](https://www.paulox.net/2024/05/20/upgrading-postgresql-from-version-15-to-16-on-ubuntu-24-04-noble-numbat/)
