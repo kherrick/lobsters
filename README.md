@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-20, 08:14:13](https://lobste.rs/s/trri2z/comparison_crypto_fido_security_tokens) - [Comparison of Crypto, FIDO and Security Tokens](https://l.0l.de/tokens)
 * [2024-05-20, 07:27:03](https://lobste.rs/s/itepil/upgrade_postgresql_from_15_16_on_ubuntu_24) - [Upgrade PostgreSQL from 15 to 16 on Ubuntu 24.04](https://www.paulox.net/2024/05/20/upgrading-postgresql-from-version-15-to-16-on-ubuntu-24-04-noble-numbat/)
 * [2024-05-20, 05:54:44](https://lobste.rs/s/irxghj/designing_scalable_ocpp_server) - [Designing a Scalable OCPP server - Siddharth Sabron](https://siddharthsabron.in/blog/ocpp-server/)
 * [2024-05-20, 04:36:04](https://lobste.rs/s/2t7l9z/glider_open_source_e_ink_monitor) - [Glider: open-source E-ink monitor](https://gitlab.com/zephray/glider)
@@ -22,7 +23,6 @@
 * [2024-05-19, 06:22:06](https://lobste.rs/s/3uahy3/i_made_new_backplane_for_my_terramaster_f2) - [I made a new backplane for my Terramaster F2-221 NAS](https://codedbearder.com/posts/f3-backplane/)
 * [2024-05-19, 06:16:15](https://lobste.rs/s/hkniyr/what_s_new_with_io_uring_6_10) - [What's new with io_uring in 6.10](https://github.com/axboe/liburing/wiki/What's-new-with-io_uring-in-6.10)
 * [2024-05-18, 22:48:40](https://lobste.rs/s/piprxk/go_browser_package) - [Go Browser Package](https://browser.dineshgowda.com/)
-* [2024-05-18, 13:39:03](https://lobste.rs/s/bvqmah/decoding_us_government_plans_shift) - [Decoding US Government Plans to Shift the Software Security Burden](https://www.infosecurity-magazine.com/news/us-plans-software-security-burden/)
 * [2024-05-18, 12:25:47](https://lobste.rs/s/5rmn4y/fixing_iterative_damping_interpolation) - [Fixing the iterative damping interpolation in video games](https://blog.pkh.me/p/41-fixing-the-iterative-damping-interpolation-in-video-games.html)
 * [2024-05-18, 12:09:13](https://lobste.rs/s/suqemh/haddock_now_lives_ghc_repository) - [Haddock now lives in the GHC repository](https://discourse.haskell.org/t/haddock-now-lives-in-the-ghc-repository/9576)
 
