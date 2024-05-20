@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
+* [2024-05-20, 11:45:48](https://lobste.rs/s/42dxsn/crdt_text_buffer) - [CRDT: Text Buffer](https://madebyevan.com/algos/crdt-text-buffer/)
 * [2024-05-20, 11:32:30](https://lobste.rs/s/r0awbw/freebsd_14_1_beta3_now_available) - [FreeBSD 14.1-BETA3 Now Available](https://lists.freebsd.org/archives/freebsd-stable/2024-May/002173.html)
 * [2024-05-20, 11:31:02](https://lobste.rs/s/tp0k1i/install_alpine_linux_on_freebsd_jail) - [Install Alpine Linux on FreeBSD Jail](https://it-notes.dragas.net/2024/01/18/installing-alpine-linux-on-a-freebsd-jail/)
 * [2024-05-20, 11:30:27](https://lobste.rs/s/calg4r/how_use_visual_studio_code_on_freebsd) - [How to Use Visual Studio Code on FreeBSD](https://freebsdfoundation.org/resource/how-to-use-vs-code-on-freebsd/)
