@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
+* [2024-05-21, 19:42:33](https://lobste.rs/s/pkmqif/stripe_s_monorepo_developer_environment) - [Stripe's monorepo developer environment](https://blog.nelhage.com/post/stripe-dev-environment/)
 * [2024-05-21, 19:29:52](https://lobste.rs/s/rqgglt/speclang) - [SpecLang](https://githubnext.com/projects/speclang/)
 * [2024-05-21, 19:06:22](https://lobste.rs/s/pkwiqz/degoogled_android_my_experience) - [Degoogled Android - My Experience](https://lilysthings.org/blog/degoogled-android/)
 * [2024-05-21, 19:00:50](https://lobste.rs/s/3zqejm/iterm2_ai_hype_overload) - [iTerm2 and AI hype overload](https://xeiaso.net/notes/2024/ai-hype/)

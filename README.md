@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-05-21, 19:29:52](https://lobste.rs/s/rqgglt/speclang) - [SpecLang](https://githubnext.com/projects/speclang/)
-* [2024-05-21, 19:06:22](https://lobste.rs/s/pkwiqz/degoogled_android_my_experience) - [Degoogled Android - My Experience](https://lilysthings.org/blog/degoogled-android/)
+* [2024-05-21, 19:42:33](https://lobste.rs/s/pkmqif/stripe_s_monorepo_developer_environment) - [Stripe's monorepo developer environment](https://blog.nelhage.com/post/stripe-dev-environment/)
 * [2024-05-21, 19:00:50](https://lobste.rs/s/3zqejm/iterm2_ai_hype_overload) - [iTerm2 and AI hype overload](https://xeiaso.net/notes/2024/ai-hype/)
 * [2024-05-21, 18:15:54](https://lobste.rs/s/olucnr/swap_i_i_key_on_your_keyboard_for_faster) - [Swap the ı and i key on your keyboard for faster modal editing](https://rgbcu.be/blog/swap-i/)
 * [2024-05-21, 17:59:13](https://lobste.rs/s/axorn6/25gbit_s_on_macos_ios) - [25GBit/s on macOS & iOS](https://kittenlabs.de/blog/2024/05/17/25gbit/s-on-macos-ios/)
 * [2024-05-21, 17:34:22](https://lobste.rs/s/vth55u/ui_density) - [UI Density](https://matthewstrom.com/writing/ui-density/)
+* [2024-05-21, 16:16:50](https://lobste.rs/s/balg4y/state_sandboxing_linux) - [State of Sandboxing in Linux](https://git.sr.ht/~alip/syd/tree/main/item/doc/toctou-or-gtfo.md)
 * [2024-05-21, 15:31:51](https://lobste.rs/s/4h51im/small_probabilities_add_big_ones_don_t) - [Small probabilities add, big ones don’t](https://www.johndcook.com/blog/2024/05/10/small-probabilities-add/)
 * [2024-05-21, 13:58:08](https://lobste.rs/s/0y0iwz/ages_programming_language_creators) - [The Ages of Programming Language Creators](https://pldb.io/posts/ageAtCreation.html)
 * [2024-05-21, 13:49:47](https://lobste.rs/s/pt14vn/worst_bug_we_faced_at_antithesis) - [The worst bug we faced at Antithesis](https://antithesis.com/blog/worst_bug/)
