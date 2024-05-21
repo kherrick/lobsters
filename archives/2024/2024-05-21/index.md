@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
+* [2024-05-21, 13:49:47](https://lobste.rs/s/pt14vn/worst_bug_we_faced_at_antithesis) - [The worst bug we faced at Antithesis](https://antithesis.com/blog/worst_bug/)
 * [2024-05-21, 12:11:52](https://lobste.rs/s/1zqsis/common_lisp_for_shell_scripting) - [Common Lisp for Shell Scripting](https://simonsafar.com/2021/lisp_scripting/)
 * [2024-05-21, 12:02:49](https://lobste.rs/s/olluyb/functional_typescript_1_algebraic_data) - [Functional TypeScript #1: Algebraic Data Types](https://injuly.in/blog/ts-adt/)
 * [2024-05-21, 10:49:02](https://lobste.rs/s/qvoe7a/vu128_efficient_variable_length) - [vu128: Efficient variable-length integers](https://john-millikin.com/vu128-efficient-variable-length-integers)

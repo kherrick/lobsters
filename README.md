@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-21, 13:49:47](https://lobste.rs/s/pt14vn/worst_bug_we_faced_at_antithesis) - [The worst bug we faced at Antithesis](https://antithesis.com/blog/worst_bug/)
 * [2024-05-21, 12:11:52](https://lobste.rs/s/1zqsis/common_lisp_for_shell_scripting) - [Common Lisp for Shell Scripting](https://simonsafar.com/2021/lisp_scripting/)
 * [2024-05-21, 12:02:49](https://lobste.rs/s/olluyb/functional_typescript_1_algebraic_data) - [Functional TypeScript #1: Algebraic Data Types](https://injuly.in/blog/ts-adt/)
 * [2024-05-21, 10:49:02](https://lobste.rs/s/qvoe7a/vu128_efficient_variable_length) - [vu128: Efficient variable-length integers](https://john-millikin.com/vu128-efficient-variable-length-integers)
@@ -21,7 +22,6 @@
 * [2024-05-20, 14:01:32](https://lobste.rs/s/qsnh9f/c23_implications_for_c_libraries) - [C23 implications for C libraries](https://htmlpreview.github.io/?https://icube-forge.unistra.fr/icps/c23-library/-/raw/main/README.html)
 * [2024-05-20, 12:25:33](https://lobste.rs/s/v1n04q/cve_2024_4367_arbitrary_javascript) - [CVE-2024-4367 - Arbitrary JavaScript execution in PDF.js](https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/)
 * [2024-05-20, 11:10:15](https://lobste.rs/s/egisod/run_your_own_mail_server_book_for) - [Run Your Own Mail Server: A Book for Independence & Privacy by Michael W Lucas](https://www.kickstarter.com/projects/mwlucas/run-your-own-mail-server)
-* [2024-05-20, 10:16:23](https://lobste.rs/s/dd4om0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/dd4om0/what_are_you_doing_this_week)
 * [2024-05-20, 08:42:01](https://lobste.rs/s/hkbsfn/7_ocaml_gotchas) - [7 OCaml Gotchas](https://dev.to/chshersh/7-ocaml-gotchas-207e)
 * [2024-05-20, 04:36:04](https://lobste.rs/s/2t7l9z/glider_open_source_e_ink_monitor) - [Glider: open-source E-ink monitor](https://gitlab.com/zephray/glider)
 * [2024-05-20, 01:03:52](https://lobste.rs/s/i3ojyb/writing_commit_messages) - [Writing commit messages](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/commit-messages/)
