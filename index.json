@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-21, 17:34:22",
+      "https://lobste.rs/s/vth55u/ui_density"
+    ],
+    [
+      "UI Density",
+      "https://matthewstrom.com/writing/ui-density/"
+    ]
+  ],
+  [
+    [
       "2024-05-21, 16:16:50",
       "https://lobste.rs/s/balg4y/state_sandboxing_linux"
     ],
@@ -237,16 +247,6 @@
     [
       "7 OCaml Gotchas",
       "https://dev.to/chshersh/7-ocaml-gotchas-207e"
-    ]
-  ],
-  [
-    [
-      "2024-05-20, 01:03:52",
-      "https://lobste.rs/s/i3ojyb/writing_commit_messages"
-    ],
-    [
-      "Writing commit messages",
-      "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/commit-messages/"
     ]
   ]
 ]
