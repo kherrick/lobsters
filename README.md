@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-21, 09:51:33](https://lobste.rs/s/rvzabz/lvm_thin_send_recv) - [lvm thin send/recv](https://abbbi.github.io/lvm/)
 * [2024-05-21, 08:01:22](https://lobste.rs/s/yffsfs/erlang_otp_27_0_release) - [Erlang/OTP 27.0 Release](https://www.erlang.org/news/170)
 * [2024-05-21, 07:21:38](https://lobste.rs/s/wbwylr/raymarching_explained_interactively) - [Raymarching explained interactively](https://imadr.me/raymarching-explained-interactively/)
 * [2024-05-21, 06:57:38](https://lobste.rs/s/7aglnr/psa_iterm2_now_has_chatgpt_integration) - [PSA: iTerm2 now has ChatGPT integration](https://iterm2.com/downloads/stable/iTerm2-3_5_0.changelog)
@@ -23,7 +24,6 @@
 * [2024-05-20, 10:16:23](https://lobste.rs/s/dd4om0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/dd4om0/what_are_you_doing_this_week)
 * [2024-05-20, 08:42:01](https://lobste.rs/s/hkbsfn/7_ocaml_gotchas) - [7 OCaml Gotchas](https://dev.to/chshersh/7-ocaml-gotchas-207e)
 * [2024-05-20, 04:36:04](https://lobste.rs/s/2t7l9z/glider_open_source_e_ink_monitor) - [Glider: open-source E-ink monitor](https://gitlab.com/zephray/glider)
-* [2024-05-20, 01:54:49](https://lobste.rs/s/wxijvm/riven) - [Riven](https://www.filfre.net/2024/05/riven/)
 * [2024-05-20, 01:03:52](https://lobste.rs/s/i3ojyb/writing_commit_messages) - [Writing commit messages](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/commit-messages/)
 
 ## [Archives](archives/index.md)
