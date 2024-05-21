@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
+* [2024-05-21, 17:59:13](https://lobste.rs/s/axorn6/25gbit_s_on_macos_ios) - [25GBit/s on macOS & iOS](https://kittenlabs.de/blog/2024/05/17/25gbit/s-on-macos-ios/)
 * [2024-05-21, 17:34:22](https://lobste.rs/s/vth55u/ui_density) - [UI Density](https://matthewstrom.com/writing/ui-density/)
 * [2024-05-21, 16:16:50](https://lobste.rs/s/balg4y/state_sandboxing_linux) - [State of Sandboxing in Linux](https://git.sr.ht/~alip/syd/tree/main/item/doc/toctou-or-gtfo.md)
 * [2024-05-21, 15:31:51](https://lobste.rs/s/4h51im/small_probabilities_add_big_ones_don_t) - [Small probabilities add, big ones don’t](https://www.johndcook.com/blog/2024/05/10/small-probabilities-add/)
