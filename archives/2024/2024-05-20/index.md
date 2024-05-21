@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
+* [2024-05-20, 22:17:28](https://lobste.rs/s/z0vf4z/log_is_literally_database) - [The Log is Literally the Database](https://buttondown.email/jaffray/archive/null-bitmap-builds-a-database-1-the-log-is/)
 * [2024-05-20, 21:22:13](https://lobste.rs/s/n1rtwo/racket_language_oriented_programming) - [Racket - the Language-Oriented Programming Language - version 8.13 is now available](https://blog.racket-lang.org/2024/05/racket-v8-13.html)
 * [2024-05-20, 21:22:13](https://lobste.rs/s/n1rtwo/racket_language_oriented_programming) - [Racket - the Language-Oriented Programming Language - version 8.13 is now available](https://blog.racket-lang.org/2024/05/racket-v8-13.htm)
 * [2024-05-20, 19:52:22](https://lobste.rs/s/hpjhp0/leaf_node_monitoring_open_source_c_qt) - [Leaf Node Monitoring (open source C++/Qt monitoring) v2024.01 released](https://www.leafnode.nl/news/leaf-node-monitoring-v2024-01-released/)
