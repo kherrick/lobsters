@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
+* [2024-05-21, 10:49:02](https://lobste.rs/s/qvoe7a/vu128_efficient_variable_length) - [vu128: Efficient variable-length integers](https://john-millikin.com/vu128-efficient-variable-length-integers)
 * [2024-05-21, 09:51:33](https://lobste.rs/s/rvzabz/lvm_thin_send_recv) - [lvm thin send/recv](https://abbbi.github.io/lvm/)
 * [2024-05-21, 08:01:22](https://lobste.rs/s/yffsfs/erlang_otp_27_0_release) - [Erlang/OTP 27.0 Release](https://www.erlang.org/news/170)
 * [2024-05-21, 07:21:38](https://lobste.rs/s/wbwylr/raymarching_explained_interactively) - [Raymarching explained interactively](https://imadr.me/raymarching-explained-interactively/)
