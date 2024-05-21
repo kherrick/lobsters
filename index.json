@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-21, 18:46:06",
+      "https://lobste.rs/s/alpemx/what_is_powershell_echo_equivalent"
+    ],
+    [
+      "What is the PowerShell Echo Equivalent?",
+      "https://lazyadmin.nl/powershell/powershell-echo-equivalent/"
+    ]
+  ],
+  [
+    [
       "2024-05-21, 18:15:54",
       "https://lobste.rs/s/olucnr/swap_i_i_key_on_your_keyboard_for_faster"
     ],
@@ -217,16 +227,6 @@
     [
       "C23 implications for C libraries",
       "https://htmlpreview.github.io/?https://icube-forge.unistra.fr/icps/c23-library/-/raw/main/README.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-20, 12:25:33",
-      "https://lobste.rs/s/v1n04q/cve_2024_4367_arbitrary_javascript"
-    ],
-    [
-      "CVE-2024-4367 - Arbitrary JavaScript execution in PDF.js",
-      "https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/"
     ]
   ],
   [
