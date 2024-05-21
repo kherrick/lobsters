@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
+* [2024-05-21, 21:58:27](https://lobste.rs/s/gl8hqr/when_is_foot_fast_when_is_it_not) - [When is foot fast, and when is it not?](https://codeberg.org/dnkl/foot/wiki/Performance)
 * [2024-05-21, 21:47:55](https://lobste.rs/s/wu1p2u/how_write_hookable_software) - [How to write \"hookable\" software?](https://lobste.rs/s/wu1p2u/how_write_hookable_software)
 * [2024-05-21, 20:38:51](https://lobste.rs/s/vkxfqz/what_s_new_kotlin_2_0_0) - [What's new in Kotlin 2.0.0](https://kotlinlang.org/docs/whatsnew20.html)
 * [2024-05-21, 20:15:16](https://lobste.rs/s/glnsev/why_is_there_so_little_anything_online) - [why is there so little of anything online about old phone UIs, firmwares and emulation?](https://lobste.rs/s/glnsev/why_is_there_so_little_anything_online)
