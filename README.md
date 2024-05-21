@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-21, 15:31:51](https://lobste.rs/s/4h51im/small_probabilities_add_big_ones_don_t) - [Small probabilities add, big ones don’t](https://www.johndcook.com/blog/2024/05/10/small-probabilities-add/)
 * [2024-05-21, 14:25:06](https://lobste.rs/s/yarscu/gif_encoder_based_on_libimagequant) - [GIF encoder based on libimagequant (pngquant)](https://github.com/ImageOptim/gifski)
 * [2024-05-21, 13:58:08](https://lobste.rs/s/0y0iwz/ages_programming_language_creators) - [The Ages of Programming Language Creators](https://pldb.io/posts/ageAtCreation.html)
 * [2024-05-21, 13:49:47](https://lobste.rs/s/pt14vn/worst_bug_we_faced_at_antithesis) - [The worst bug we faced at Antithesis](https://antithesis.com/blog/worst_bug/)
@@ -17,7 +18,6 @@
 * [2024-05-20, 18:55:08](https://lobste.rs/s/zjrm8l/why_i_don_t_use_third_party_assertion) - [Why I don't use a third-party assertion library in Go unit tests](https://dev.to/yawaramin/why-i-dont-use-a-third-party-assertion-library-in-go-unit-tests-1gak)
 * [2024-05-20, 18:02:58](https://lobste.rs/s/nihkwe/getting_ocaml_through_eye_needle) - [Getting OCaml Through the Eye of a Needle](https://hypirion.com/musings/getting-ocaml-through-the-eye-of-a-needle)
 * [2024-05-20, 16:46:58](https://lobste.rs/s/4dp26d/clone_arbitrary_single_git_commit) - [Clone arbitrary single Git commit](https://blog.hartwork.org/posts/clone-arbitrary-single-git-commit/)
-* [2024-05-20, 16:41:57](https://lobste.rs/s/nfui7f/windows_98_manual) - [The Windows 98 Manual](https://jamesg.blog/2024/05/19/windows-98-manual/)
 * [2024-05-20, 15:37:08](https://lobste.rs/s/dqq69u/rust_s_iterators_optimize_nicely_contain) - [Rust's iterators optimize nicely—and contain a footgun](https://ntietz.com/blog/rusts-iterators-optimize-footgun/)
 * [2024-05-20, 14:01:32](https://lobste.rs/s/qsnh9f/c23_implications_for_c_libraries) - [C23 implications for C libraries](https://htmlpreview.github.io/?https://icube-forge.unistra.fr/icps/c23-library/-/raw/main/README.html)
 * [2024-05-20, 12:25:33](https://lobste.rs/s/v1n04q/cve_2024_4367_arbitrary_javascript) - [CVE-2024-4367 - Arbitrary JavaScript execution in PDF.js](https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/)
