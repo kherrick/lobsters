@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-05-21](index.md)
+
+* [2024-05-21, 01:24:17](https://lobste.rs/s/vc0qa0/modernizing_antennapod_code_structure) - [Modernizing the AntennaPod Code Structure](https://antennapod.org/blog/2024/05/modernizing-the-code-structure)

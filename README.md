@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-21, 01:24:17](https://lobste.rs/s/vc0qa0/modernizing_antennapod_code_structure) - [Modernizing the AntennaPod Code Structure](https://antennapod.org/blog/2024/05/modernizing-the-code-structure)
 * [2024-05-20, 21:22:13](https://lobste.rs/s/n1rtwo/racket_language_oriented_programming) - [Racket - the Language-Oriented Programming Language - version 8.13 is now available](https://blog.racket-lang.org/2024/05/racket-v8-13.html)
 * [2024-05-20, 19:45:58](https://lobste.rs/s/6ghrsb/bbs_over_dns) - [BBS over DNS](https://bbs-over-dns.com/)
 * [2024-05-20, 19:00:56](https://lobste.rs/s/fqqrgk/city_bottle_256_byte_raycasting_system) - [City In A Bottle – A 256 Byte Raycasting System](https://frankforce.com/city-in-a-bottle-a-256-byte-raycasting-system/)
@@ -11,7 +12,6 @@
 * [2024-05-20, 15:57:56](https://lobste.rs/s/50tklx/tools_make_you_feel_empowered) - [Tools That Make You Feel Empowered](https://www.zwhuang.dev/blog/empowering-tools/)
 * [2024-05-20, 15:37:08](https://lobste.rs/s/dqq69u/rust_s_iterators_optimize_nicely_contain) - [Rust's iterators optimize nicely—and contain a footgun](https://ntietz.com/blog/rusts-iterators-optimize-footgun/)
 * [2024-05-20, 15:32:47](https://lobste.rs/s/dwjaps/creusot_0_1_deductive_verification_tool) - [Creusot 0.1 (deductive verification tool for Rust)](https://github.com/creusot-rs/creusot/releases/tag/v0.1)
-* [2024-05-20, 15:15:52](https://lobste.rs/s/vhhbtk/rust_zig_combined) - [Rust & Zig Combined](https://www.youtube.com/watch?v=jIZpKpLCOiU)
 * [2024-05-20, 14:01:32](https://lobste.rs/s/qsnh9f/c23_implications_for_c_libraries) - [C23 implications for C libraries](https://htmlpreview.github.io/?https://icube-forge.unistra.fr/icps/c23-library/-/raw/main/README.html)
 * [2024-05-20, 12:46:29](https://lobste.rs/s/ywqdkw/ratatui_v0_26_3_rust_library_for_building) - [Ratatui v0.26.3 (Rust library for building TUIs)](https://ratatui.rs/highlights/v0263/)
 * [2024-05-20, 12:25:33](https://lobste.rs/s/v1n04q/cve_2024_4367_arbitrary_javascript) - [CVE-2024-4367 - Arbitrary JavaScript execution in PDF.js](https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/)
