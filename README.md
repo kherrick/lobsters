@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-21, 21:47:55](https://lobste.rs/s/wu1p2u/how_write_hookable_software) - [How to write \"hookable\" software?](https://lobste.rs/s/wu1p2u/how_write_hookable_software)
 * [2024-05-21, 20:38:51](https://lobste.rs/s/vkxfqz/what_s_new_kotlin_2_0_0) - [What's new in Kotlin 2.0.0](https://kotlinlang.org/docs/whatsnew20.html)
 * [2024-05-21, 20:15:16](https://lobste.rs/s/glnsev/why_is_there_so_little_anything_online) - [why is there so little of anything online about old phone UIs, firmwares and emulation?](https://lobste.rs/s/glnsev/why_is_there_so_little_anything_online)
 * [2024-05-21, 19:42:33](https://lobste.rs/s/pkmqif/stripe_s_monorepo_developer_environment) - [Stripe's monorepo developer environment](https://blog.nelhage.com/post/stripe-dev-environment/)
 * [2024-05-21, 19:29:52](https://lobste.rs/s/rqgglt/speclang) - [SpecLang](https://githubnext.com/projects/speclang/)
 * [2024-05-21, 19:00:50](https://lobste.rs/s/3zqejm/iterm2_ai_hype_overload) - [iTerm2 and AI hype overload](https://xeiaso.net/notes/2024/ai-hype/)
-* [2024-05-21, 18:55:42](https://lobste.rs/s/4ptae4/bios_update_thinkpad_with_boot_image) - [BIOS Update Thinkpad with Boot Image](https://x61.sh/log/2024/05/21052024183107-update_bios.html)
 * [2024-05-21, 18:15:54](https://lobste.rs/s/olucnr/swap_i_i_key_on_your_keyboard_for_faster) - [Swap the ı and i key on your keyboard for faster modal editing](https://rgbcu.be/blog/swap-i/)
 * [2024-05-21, 17:59:13](https://lobste.rs/s/axorn6/25gbit_s_on_macos_ios) - [25GBit/s on macOS & iOS](https://kittenlabs.de/blog/2024/05/17/25gbit/s-on-macos-ios/)
 * [2024-05-21, 17:34:22](https://lobste.rs/s/vth55u/ui_density) - [UI Density](https://matthewstrom.com/writing/ui-density/)
