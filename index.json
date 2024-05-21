@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-05-21, 18:46:06",
-      "https://lobste.rs/s/alpemx/what_is_powershell_echo_equivalent"
+      "2024-05-21, 19:06:22",
+      "https://lobste.rs/s/pkwiqz/degoogled_android_my_experience"
     ],
     [
-      "What is the PowerShell Echo Equivalent?",
-      "https://lazyadmin.nl/powershell/powershell-echo-equivalent/"
+      "Degoogled Android - My Experience",
+      "https://lilysthings.org/blog/degoogled-android/"
+    ]
+  ],
+  [
+    [
+      "2024-05-21, 19:00:50",
+      "https://lobste.rs/s/3zqejm/iterm2_ai_hype_overload"
+    ],
+    [
+      "iTerm2 and AI hype overload",
+      "https://xeiaso.net/notes/2024/ai-hype/"
+    ]
+  ],
+  [
+    [
+      "2024-05-21, 18:55:42",
+      "https://lobste.rs/s/4ptae4/bios_update_thinkpad_with_boot_image"
+    ],
+    [
+      "BIOS Update Thinkpad with Boot Image",
+      "https://x61.sh/log/2024/05/21052024183107-update_bios.html"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Small probabilities add, big ones don’t",
       "https://www.johndcook.com/blog/2024/05/10/small-probabilities-add/"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 14:25:06",
-      "https://lobste.rs/s/yarscu/gif_encoder_based_on_libimagequant"
-    ],
-    [
-      "GIF encoder based on libimagequant (pngquant)",
-      "https://github.com/ImageOptim/gifski"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Rust's iterators optimize nicely—and contain a footgun",
       "https://ntietz.com/blog/rusts-iterators-optimize-footgun/"
-    ]
-  ],
-  [
-    [
-      "2024-05-20, 14:01:32",
-      "https://lobste.rs/s/qsnh9f/c23_implications_for_c_libraries"
-    ],
-    [
-      "C23 implications for C libraries",
-      "https://htmlpreview.github.io/?https://icube-forge.unistra.fr/icps/c23-library/-/raw/main/README.html"
     ]
   ],
   [
