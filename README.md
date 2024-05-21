@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-21, 12:11:52](https://lobste.rs/s/1zqsis/common_lisp_for_shell_scripting) - [Common Lisp for Shell Scripting](https://simonsafar.com/2021/lisp_scripting/)
+* [2024-05-21, 12:02:49](https://lobste.rs/s/olluyb/functional_typescript_1_algebraic_data) - [Functional TypeScript #1: Algebraic Data Types](https://injuly.in/blog/ts-adt/)
 * [2024-05-21, 10:49:02](https://lobste.rs/s/qvoe7a/vu128_efficient_variable_length) - [vu128: Efficient variable-length integers](https://john-millikin.com/vu128-efficient-variable-length-integers)
 * [2024-05-21, 09:51:33](https://lobste.rs/s/rvzabz/lvm_thin_send_recv) - [lvm thin send/recv](https://abbbi.github.io/lvm/)
 * [2024-05-21, 08:01:22](https://lobste.rs/s/yffsfs/erlang_otp_27_0_release) - [Erlang/OTP 27.0 Release](https://www.erlang.org/news/170)
@@ -7,9 +9,7 @@
 * [2024-05-21, 06:57:38](https://lobste.rs/s/7aglnr/psa_iterm2_now_has_chatgpt_integration) - [PSA: iTerm2 now has ChatGPT integration](https://iterm2.com/downloads/stable/iTerm2-3_5_0.changelog)
 * [2024-05-21, 05:33:14](https://lobste.rs/s/hfosar/yara_is_dead_long_live_yara_x) - [YARA is dead, long live Yara-X](https://virustotal.github.io/yara-x/blog/yara-is-dead-long-live-yara-x/)
 * [2024-05-21, 01:24:17](https://lobste.rs/s/vc0qa0/modernizing_antennapod_code_structure) - [Modernizing the AntennaPod Code Structure](https://antennapod.org/blog/2024/05/modernizing-the-code-structure)
-* [2024-05-20, 22:17:28](https://lobste.rs/s/z0vf4z/log_is_literally_database) - [The Log is Literally the Database](https://buttondown.email/jaffray/archive/null-bitmap-builds-a-database-1-the-log-is/)
 * [2024-05-20, 21:22:13](https://lobste.rs/s/n1rtwo/racket_language_oriented_programming) - [Racket - the Language-Oriented Programming Language - version 8.13 is now available](https://blog.racket-lang.org/2024/05/racket-v8-13.html)
-* [2024-05-20, 19:45:58](https://lobste.rs/s/6ghrsb/bbs_over_dns) - [BBS over DNS](https://bbs-over-dns.com/)
 * [2024-05-20, 19:00:56](https://lobste.rs/s/fqqrgk/city_bottle_256_byte_raycasting_system) - [City In A Bottle – A 256 Byte Raycasting System](https://frankforce.com/city-in-a-bottle-a-256-byte-raycasting-system/)
 * [2024-05-20, 18:55:08](https://lobste.rs/s/zjrm8l/why_i_don_t_use_third_party_assertion) - [Why I don't use a third-party assertion library in Go unit tests](https://dev.to/yawaramin/why-i-dont-use-a-third-party-assertion-library-in-go-unit-tests-1gak)
 * [2024-05-20, 18:02:58](https://lobste.rs/s/nihkwe/getting_ocaml_through_eye_needle) - [Getting OCaml Through the Eye of a Needle](https://hypirion.com/musings/getting-ocaml-through-the-eye-of-a-needle)
