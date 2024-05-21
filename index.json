@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-05-21, 19:29:52",
-      "https://lobste.rs/s/rqgglt/speclang"
+      "2024-05-21, 19:42:33",
+      "https://lobste.rs/s/pkmqif/stripe_s_monorepo_developer_environment"
     ],
     [
-      "SpecLang",
-      "https://githubnext.com/projects/speclang/"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 19:06:22",
-      "https://lobste.rs/s/pkwiqz/degoogled_android_my_experience"
-    ],
-    [
-      "Degoogled Android - My Experience",
-      "https://lilysthings.org/blog/degoogled-android/"
+      "Stripe's monorepo developer environment",
+      "https://blog.nelhage.com/post/stripe-dev-environment/"
     ]
   ],
   [
@@ -57,6 +47,16 @@
     [
       "UI Density",
       "https://matthewstrom.com/writing/ui-density/"
+    ]
+  ],
+  [
+    [
+      "2024-05-21, 16:16:50",
+      "https://lobste.rs/s/balg4y/state_sandboxing_linux"
+    ],
+    [
+      "State of Sandboxing in Linux",
+      "https://git.sr.ht/~alip/syd/tree/main/item/doc/toctou-or-gtfo.md"
     ]
   ],
   [
