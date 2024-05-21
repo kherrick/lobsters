@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-05-21, 18:46:06](https://lobste.rs/s/alpemx/what_is_powershell_echo_equivalent) - [What is the PowerShell Echo Equivalent?](https://lazyadmin.nl/powershell/powershell-echo-equivalent/)
+* [2024-05-21, 19:06:22](https://lobste.rs/s/pkwiqz/degoogled_android_my_experience) - [Degoogled Android - My Experience](https://lilysthings.org/blog/degoogled-android/)
+* [2024-05-21, 19:00:50](https://lobste.rs/s/3zqejm/iterm2_ai_hype_overload) - [iTerm2 and AI hype overload](https://xeiaso.net/notes/2024/ai-hype/)
+* [2024-05-21, 18:55:42](https://lobste.rs/s/4ptae4/bios_update_thinkpad_with_boot_image) - [BIOS Update Thinkpad with Boot Image](https://x61.sh/log/2024/05/21052024183107-update_bios.html)
 * [2024-05-21, 18:15:54](https://lobste.rs/s/olucnr/swap_i_i_key_on_your_keyboard_for_faster) - [Swap the ı and i key on your keyboard for faster modal editing](https://rgbcu.be/blog/swap-i/)
 * [2024-05-21, 17:59:13](https://lobste.rs/s/axorn6/25gbit_s_on_macos_ios) - [25GBit/s on macOS & iOS](https://kittenlabs.de/blog/2024/05/17/25gbit/s-on-macos-ios/)
 * [2024-05-21, 17:34:22](https://lobste.rs/s/vth55u/ui_density) - [UI Density](https://matthewstrom.com/writing/ui-density/)
 * [2024-05-21, 15:31:51](https://lobste.rs/s/4h51im/small_probabilities_add_big_ones_don_t) - [Small probabilities add, big ones don’t](https://www.johndcook.com/blog/2024/05/10/small-probabilities-add/)
-* [2024-05-21, 14:25:06](https://lobste.rs/s/yarscu/gif_encoder_based_on_libimagequant) - [GIF encoder based on libimagequant (pngquant)](https://github.com/ImageOptim/gifski)
 * [2024-05-21, 13:58:08](https://lobste.rs/s/0y0iwz/ages_programming_language_creators) - [The Ages of Programming Language Creators](https://pldb.io/posts/ageAtCreation.html)
 * [2024-05-21, 13:49:47](https://lobste.rs/s/pt14vn/worst_bug_we_faced_at_antithesis) - [The worst bug we faced at Antithesis](https://antithesis.com/blog/worst_bug/)
 * [2024-05-21, 12:11:52](https://lobste.rs/s/1zqsis/common_lisp_for_shell_scripting) - [Common Lisp for Shell Scripting](https://simonsafar.com/2021/lisp_scripting/)
@@ -22,7 +23,6 @@
 * [2024-05-20, 18:02:58](https://lobste.rs/s/nihkwe/getting_ocaml_through_eye_needle) - [Getting OCaml Through the Eye of a Needle](https://hypirion.com/musings/getting-ocaml-through-the-eye-of-a-needle)
 * [2024-05-20, 16:46:58](https://lobste.rs/s/4dp26d/clone_arbitrary_single_git_commit) - [Clone arbitrary single Git commit](https://blog.hartwork.org/posts/clone-arbitrary-single-git-commit/)
 * [2024-05-20, 15:37:08](https://lobste.rs/s/dqq69u/rust_s_iterators_optimize_nicely_contain) - [Rust's iterators optimize nicely—and contain a footgun](https://ntietz.com/blog/rusts-iterators-optimize-footgun/)
-* [2024-05-20, 14:01:32](https://lobste.rs/s/qsnh9f/c23_implications_for_c_libraries) - [C23 implications for C libraries](https://htmlpreview.github.io/?https://icube-forge.unistra.fr/icps/c23-library/-/raw/main/README.html)
 * [2024-05-20, 11:10:15](https://lobste.rs/s/egisod/run_your_own_mail_server_book_for) - [Run Your Own Mail Server: A Book for Independence & Privacy by Michael W Lucas](https://www.kickstarter.com/projects/mwlucas/run-your-own-mail-server)
 * [2024-05-20, 08:42:01](https://lobste.rs/s/hkbsfn/7_ocaml_gotchas) - [7 OCaml Gotchas](https://dev.to/chshersh/7-ocaml-gotchas-207e)
 

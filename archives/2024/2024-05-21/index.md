@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
+* [2024-05-21, 19:06:22](https://lobste.rs/s/pkwiqz/degoogled_android_my_experience) - [Degoogled Android - My Experience](https://lilysthings.org/blog/degoogled-android/)
+* [2024-05-21, 19:00:50](https://lobste.rs/s/3zqejm/iterm2_ai_hype_overload) - [iTerm2 and AI hype overload](https://xeiaso.net/notes/2024/ai-hype/)
+* [2024-05-21, 18:55:42](https://lobste.rs/s/4ptae4/bios_update_thinkpad_with_boot_image) - [BIOS Update Thinkpad with Boot Image](https://x61.sh/log/2024/05/21052024183107-update_bios.html)
 * [2024-05-21, 18:46:06](https://lobste.rs/s/alpemx/what_is_powershell_echo_equivalent) - [What is the PowerShell Echo Equivalent?](https://lazyadmin.nl/powershell/powershell-echo-equivalent/)
 * [2024-05-21, 18:15:54](https://lobste.rs/s/olucnr/swap_i_i_key_on_your_keyboard_for_faster) - [Swap the ı and i key on your keyboard for faster modal editing](https://rgbcu.be/blog/swap-i/)
 * [2024-05-21, 17:59:13](https://lobste.rs/s/axorn6/25gbit_s_on_macos_ios) - [25GBit/s on macOS & iOS](https://kittenlabs.de/blog/2024/05/17/25gbit/s-on-macos-ios/)
