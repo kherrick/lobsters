@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-21, 01:24:17",
+      "https://lobste.rs/s/vc0qa0/modernizing_antennapod_code_structure"
+    ],
+    [
+      "Modernizing the AntennaPod Code Structure",
+      "https://antennapod.org/blog/2024/05/modernizing-the-code-structure"
+    ]
+  ],
+  [
+    [
       "2024-05-20, 21:22:13",
       "https://lobste.rs/s/n1rtwo/racket_language_oriented_programming"
     ],
@@ -107,16 +117,6 @@
     [
       "Creusot 0.1 (deductive verification tool for Rust)",
       "https://github.com/creusot-rs/creusot/releases/tag/v0.1"
-    ]
-  ],
-  [
-    [
-      "2024-05-20, 15:15:52",
-      "https://lobste.rs/s/vhhbtk/rust_zig_combined"
-    ],
-    [
-      "Rust & Zig Combined",
-      "https://www.youtube.com/watch?v=jIZpKpLCOiU"
     ]
   ],
   [
