@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-05-20, 21:22:13](https://lobste.rs/s/n1rtwo/racket_language_oriented_programming) - [Racket - the Language-Oriented Programming Language - version 8.13 is now available](https://blog.racket-lang.org/2024/05/racket-v8-13.html)
-* [2024-05-20, 19:52:22](https://lobste.rs/s/hpjhp0/leaf_node_monitoring_open_source_c_qt) - [Leaf Node Monitoring (open source C++/Qt monitoring) v2024.01 released](https://www.leafnode.nl/news/leaf-node-monitoring-v2024-01-released/)
 * [2024-05-20, 19:45:58](https://lobste.rs/s/6ghrsb/bbs_over_dns) - [BBS over DNS](https://bbs-over-dns.com/)
 * [2024-05-20, 19:00:56](https://lobste.rs/s/fqqrgk/city_bottle_256_byte_raycasting_system) - [City In A Bottle – A 256 Byte Raycasting System](https://frankforce.com/city-in-a-bottle-a-256-byte-raycasting-system/)
 * [2024-05-20, 18:55:08](https://lobste.rs/s/zjrm8l/why_i_don_t_use_third_party_assertion) - [Why I don't use a third-party assertion library in Go unit tests](https://dev.to/yawaramin/why-i-dont-use-a-third-party-assertion-library-in-go-unit-tests-1gak)
 * [2024-05-20, 18:02:58](https://lobste.rs/s/nihkwe/getting_ocaml_through_eye_needle) - [Getting OCaml Through the Eye of a Needle](https://hypirion.com/musings/getting-ocaml-through-the-eye-of-a-needle)
 * [2024-05-20, 16:46:58](https://lobste.rs/s/4dp26d/clone_arbitrary_single_git_commit) - [Clone arbitrary single Git commit](https://blog.hartwork.org/posts/clone-arbitrary-single-git-commit/)
+* [2024-05-20, 16:41:57](https://lobste.rs/s/nfui7f/windows_98_manual) - [The Windows 98 Manual](https://jamesg.blog/2024/05/19/windows-98-manual/)
 * [2024-05-20, 16:38:14](https://lobste.rs/s/q6i30w/edk2_boot_0000) - [Edk2 Boot 0000](https://blog.izissise.net/posts/edk2boot0000/)
 * [2024-05-20, 15:57:56](https://lobste.rs/s/50tklx/tools_make_you_feel_empowered) - [Tools That Make You Feel Empowered](https://www.zwhuang.dev/blog/empowering-tools/)
 * [2024-05-20, 15:37:08](https://lobste.rs/s/dqq69u/rust_s_iterators_optimize_nicely_contain) - [Rust's iterators optimize nicely—and contain a footgun](https://ntietz.com/blog/rusts-iterators-optimize-footgun/)
