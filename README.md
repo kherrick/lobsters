@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-21, 07:21:38](https://lobste.rs/s/wbwylr/raymarching_explained_interactively) - [Raymarching explained interactively](https://imadr.me/raymarching-explained-interactively/)
 * [2024-05-21, 06:57:38](https://lobste.rs/s/7aglnr/psa_iterm2_now_has_chatgpt_integration) - [PSA: iTerm2 now has ChatGPT integration](https://iterm2.com/downloads/stable/iTerm2-3_5_0.changelog)
 * [2024-05-21, 05:33:14](https://lobste.rs/s/hfosar/yara_is_dead_long_live_yara_x) - [YARA is dead, long live Yara-X](https://virustotal.github.io/yara-x/blog/yara-is-dead-long-live-yara-x/)
 * [2024-05-21, 01:24:17](https://lobste.rs/s/vc0qa0/modernizing_antennapod_code_structure) - [Modernizing the AntennaPod Code Structure](https://antennapod.org/blog/2024/05/modernizing-the-code-structure)
@@ -15,7 +16,6 @@
 * [2024-05-20, 15:57:56](https://lobste.rs/s/50tklx/tools_make_you_feel_empowered) - [Tools That Make You Feel Empowered](https://www.zwhuang.dev/blog/empowering-tools/)
 * [2024-05-20, 15:37:08](https://lobste.rs/s/dqq69u/rust_s_iterators_optimize_nicely_contain) - [Rust's iterators optimize nicely—and contain a footgun](https://ntietz.com/blog/rusts-iterators-optimize-footgun/)
 * [2024-05-20, 15:32:47](https://lobste.rs/s/dwjaps/creusot_0_1_deductive_verification_tool) - [Creusot 0.1 (deductive verification tool for Rust)](https://github.com/creusot-rs/creusot/releases/tag/v0.1)
-* [2024-05-20, 15:15:52](https://lobste.rs/s/vhhbtk/rust_zig_combined) - [Rust & Zig Combined](https://www.youtube.com/watch?v=jIZpKpLCOiU)
 * [2024-05-20, 14:01:32](https://lobste.rs/s/qsnh9f/c23_implications_for_c_libraries) - [C23 implications for C libraries](https://htmlpreview.github.io/?https://icube-forge.unistra.fr/icps/c23-library/-/raw/main/README.html)
 * [2024-05-20, 12:25:33](https://lobste.rs/s/v1n04q/cve_2024_4367_arbitrary_javascript) - [CVE-2024-4367 - Arbitrary JavaScript execution in PDF.js](https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/)
 * [2024-05-20, 11:45:48](https://lobste.rs/s/42dxsn/crdt_text_buffer) - [CRDT: Text Buffer](https://madebyevan.com/algos/crdt-text-buffer/)
