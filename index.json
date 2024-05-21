@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-21, 07:21:38",
+      "https://lobste.rs/s/wbwylr/raymarching_explained_interactively"
+    ],
+    [
+      "Raymarching explained interactively",
+      "https://imadr.me/raymarching-explained-interactively/"
+    ]
+  ],
+  [
+    [
       "2024-05-21, 06:57:38",
       "https://lobste.rs/s/7aglnr/psa_iterm2_now_has_chatgpt_integration"
     ],
@@ -147,16 +157,6 @@
     [
       "Creusot 0.1 (deductive verification tool for Rust)",
       "https://github.com/creusot-rs/creusot/releases/tag/v0.1"
-    ]
-  ],
-  [
-    [
-      "2024-05-20, 15:15:52",
-      "https://lobste.rs/s/vhhbtk/rust_zig_combined"
-    ],
-    [
-      "Rust & Zig Combined",
-      "https://www.youtube.com/watch?v=jIZpKpLCOiU"
     ]
   ],
   [
