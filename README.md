@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-21, 16:16:50](https://lobste.rs/s/balg4y/state_sandboxing_linux) - [State of Sandboxing in Linux](https://git.sr.ht/~alip/syd/tree/main/item/doc/toctou-or-gtfo.md)
 * [2024-05-21, 15:31:51](https://lobste.rs/s/4h51im/small_probabilities_add_big_ones_don_t) - [Small probabilities add, big ones don’t](https://www.johndcook.com/blog/2024/05/10/small-probabilities-add/)
 * [2024-05-21, 14:25:06](https://lobste.rs/s/yarscu/gif_encoder_based_on_libimagequant) - [GIF encoder based on libimagequant (pngquant)](https://github.com/ImageOptim/gifski)
 * [2024-05-21, 13:58:08](https://lobste.rs/s/0y0iwz/ages_programming_language_creators) - [The Ages of Programming Language Creators](https://pldb.io/posts/ageAtCreation.html)
@@ -23,7 +24,6 @@
 * [2024-05-20, 12:25:33](https://lobste.rs/s/v1n04q/cve_2024_4367_arbitrary_javascript) - [CVE-2024-4367 - Arbitrary JavaScript execution in PDF.js](https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/)
 * [2024-05-20, 11:10:15](https://lobste.rs/s/egisod/run_your_own_mail_server_book_for) - [Run Your Own Mail Server: A Book for Independence & Privacy by Michael W Lucas](https://www.kickstarter.com/projects/mwlucas/run-your-own-mail-server)
 * [2024-05-20, 08:42:01](https://lobste.rs/s/hkbsfn/7_ocaml_gotchas) - [7 OCaml Gotchas](https://dev.to/chshersh/7-ocaml-gotchas-207e)
-* [2024-05-20, 04:36:04](https://lobste.rs/s/2t7l9z/glider_open_source_e_ink_monitor) - [Glider: open-source E-ink monitor](https://gitlab.com/zephray/glider)
 * [2024-05-20, 01:03:52](https://lobste.rs/s/i3ojyb/writing_commit_messages) - [Writing commit messages](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/commit-messages/)
 
 ## [Archives](archives/index.md)
