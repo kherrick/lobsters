@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-22, 04:59:20](https://lobste.rs/s/0ghltc/cadmium_local_first_cad_program_built_for) - [CADmium: A Local-First CAD Program Built for the Browser](https://mattferraro.dev/posts/cadmium)
 * [2024-05-22, 04:07:30](https://lobste.rs/s/guxqdf/hybrid_approach_semi_automated_rust) - [A hybrid approach to semi-automated Rust verification](https://arxiv.org/abs/2403.15122)
 * [2024-05-22, 01:23:31](https://lobste.rs/s/avzof2/rustrover_is_released_includes_free_non) - [RustRover Is Released and Includes a Free Non-Commercial Option](https://blog.jetbrains.com/rust/2024/05/21/rustrover-is-released-and-includes-a-free-non-commercial-option/)
 * [2024-05-21, 21:58:27](https://lobste.rs/s/gl8hqr/when_is_foot_fast_when_is_it_not) - [When is foot fast, and when is it not?](https://codeberg.org/dnkl/foot/wiki/Performance)
@@ -24,7 +25,6 @@
 * [2024-05-20, 21:22:13](https://lobste.rs/s/n1rtwo/racket_language_oriented_programming) - [Racket - the Language-Oriented Programming Language - version 8.13 is now available](https://blog.racket-lang.org/2024/05/racket-v8-13.html)
 * [2024-05-20, 18:02:58](https://lobste.rs/s/nihkwe/getting_ocaml_through_eye_needle) - [Getting OCaml Through the Eye of a Needle](https://hypirion.com/musings/getting-ocaml-through-the-eye-of-a-needle)
 * [2024-05-20, 16:46:58](https://lobste.rs/s/4dp26d/clone_arbitrary_single_git_commit) - [Clone arbitrary single Git commit](https://blog.hartwork.org/posts/clone-arbitrary-single-git-commit/)
-* [2024-05-20, 08:42:01](https://lobste.rs/s/hkbsfn/7_ocaml_gotchas) - [7 OCaml Gotchas](https://dev.to/chshersh/7-ocaml-gotchas-207e)
 
 ## [Archives](archives/index.md)
 
