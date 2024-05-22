@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-22](index.md)
 
+* [2024-05-22, 23:22:03](https://lobste.rs/s/8yiuyi/murex_shell_passes_type_annotations) - [murex: A shell that passes type annotations through POSIX pipes](https://murex.rocks/tour.html)
 * [2024-05-22, 20:35:30](https://lobste.rs/s/gxr1bh/replacing_pyinstaller_with_100_lines) - [Replacing pyinstaller with 100 lines of code](https://tushar.lol/post/packaged/)
 * [2024-05-22, 20:07:44](https://lobste.rs/s/mwrsor/compilerfax_sending_c_source_code_via) - [CompilerFax: Sending C source code via telefax to a compiler-as-a-service](https://chaos.social/@LaF0rge/112486079122303420)
 * [2024-05-22, 19:25:22](https://lobste.rs/s/x73suc/how_compare_two_packed_bitfields_without) - [How to compare two packed bitfields without having to unpack each field](https://devblogs.microsoft.com/oldnewthing/20190301-00/?p=101076)
