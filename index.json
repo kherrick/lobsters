@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2024-05-22, 20:07:44",
+      "https://lobste.rs/s/mwrsor/compilerfax_sending_c_source_code_via"
+    ],
+    [
+      "CompilerFax: Sending C source code via telefax to a compiler-as-a-service",
+      "https://chaos.social/@LaF0rge/112486079122303420"
+    ]
+  ],
+  [
+    [
+      "2024-05-22, 19:25:22",
+      "https://lobste.rs/s/x73suc/how_compare_two_packed_bitfields_without"
+    ],
+    [
+      "How to compare two packed bitfields without having to unpack each field",
+      "https://devblogs.microsoft.com/oldnewthing/20190301-00/?p=101076"
+    ]
+  ],
+  [
+    [
       "2024-05-22, 18:41:54",
       "https://lobste.rs/s/fekcju/visions_future_formal_verification_rust"
     ],
@@ -207,26 +227,6 @@
     [
       "Stripe's monorepo developer environment",
       "https://blog.nelhage.com/post/stripe-dev-environment/"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 17:34:22",
-      "https://lobste.rs/s/vth55u/ui_density"
-    ],
-    [
-      "UI Density",
-      "https://matthewstrom.com/writing/ui-density/"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 15:31:51",
-      "https://lobste.rs/s/4h51im/small_probabilities_add_big_ones_don_t"
-    ],
-    [
-      "Small probabilities add, big ones don’t",
-      "https://www.johndcook.com/blog/2024/05/10/small-probabilities-add/"
     ]
   ],
   [
