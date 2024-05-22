@@ -22,7 +22,7 @@
 * [2024-05-21, 21:58:27](https://lobste.rs/s/gl8hqr/when_is_foot_fast_when_is_it_not_2020) - [When is foot fast, and when is it not? (2020)](https://codeberg.org/dnkl/foot/wiki/Performance)
 * [2024-05-21, 20:38:51](https://lobste.rs/s/vkxfqz/what_s_new_kotlin_2_0_0) - [What's new in Kotlin 2.0.0](https://kotlinlang.org/docs/whatsnew20.html)
 * [2024-05-21, 20:15:16](https://lobste.rs/s/glnsev/why_is_there_so_little_anything_online) - [why is there so little of anything online about old phone UIs, firmwares and emulation?](https://lobste.rs/s/glnsev/why_is_there_so_little_anything_online)
-* [2024-05-21, 19:42:33](https://lobste.rs/s/pkmqif/stripe_s_monorepo_developer_environment) - [Stripe's monorepo developer environment](https://blog.nelhage.com/post/stripe-dev-environment/)
+* [2024-05-21, 17:34:22](https://lobste.rs/s/vth55u/ui_density) - [UI Density](https://matthewstrom.com/writing/ui-density/)
 * [2024-05-21, 13:49:47](https://lobste.rs/s/pt14vn/worst_bug_we_faced_at_antithesis) - [The worst bug we faced at Antithesis](https://antithesis.com/blog/worst_bug/)
 * [2024-05-21, 10:49:02](https://lobste.rs/s/qvoe7a/vu128_efficient_variable_length) - [vu128: Efficient variable-length integers](https://john-millikin.com/vu128-efficient-variable-length-integers)
 
