@@ -6,6 +6,7 @@
 
 * [2024-05-21, 21:58:27](https://lobste.rs/s/gl8hqr/when_is_foot_fast_when_is_it_not) - [When is foot fast, and when is it not?](https://codeberg.org/dnkl/foot/wiki/Performance)
 * [2024-05-21, 21:47:55](https://lobste.rs/s/wu1p2u/how_write_hookable_software) - [How to write \"hookable\" software?](https://lobste.rs/s/wu1p2u/how_write_hookable_software)
+* [2024-05-21, 21:03:22](https://lobste.rs/s/nwvr11/history_logo_with_colon_two_slashes) - [A history of a logo with a colon and two slashes](https://daniel.haxx.se/blog/2024/05/21/a-history-of-a-logo-with-a-colon-and-two-slashes/)
 * [2024-05-21, 20:38:51](https://lobste.rs/s/vkxfqz/what_s_new_kotlin_2_0_0) - [What's new in Kotlin 2.0.0](https://kotlinlang.org/docs/whatsnew20.html)
 * [2024-05-21, 20:15:16](https://lobste.rs/s/glnsev/why_is_there_so_little_anything_online) - [why is there so little of anything online about old phone UIs, firmwares and emulation?](https://lobste.rs/s/glnsev/why_is_there_so_little_anything_online)
 * [2024-05-21, 19:42:33](https://lobste.rs/s/pkmqif/stripe_s_monorepo_developer_environment) - [Stripe's monorepo developer environment](https://blog.nelhage.com/post/stripe-dev-environment/)
