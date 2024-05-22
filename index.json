@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-05-22, 07:02:03",
-      "https://lobste.rs/s/uwo0xe/zed_decoded_syntax_aware_task_spawning"
+      "2024-05-22, 08:22:35",
+      "https://lobste.rs/s/hpjinc/space_quest_ii_master_disk_blunder"
     ],
     [
-      "Zed Decoded: Syntax-Aware Task Spawning With Tree-Sitter - Zed Blog",
-      "https://zed.dev/blog/zed-decoded-tasks"
+      "The Space Quest II Master Disk Blunder",
+      "https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-22, 08:20:36",
+      "https://lobste.rs/s/bwkglh/embd_rs_read_files_directories_from"
+    ],
+    [
+      "embd-rs: Read files or directories from the filesystem at runtime on debug, embed on release",
+      "https://github.com/RGBCube/embd-rs"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "PSA: iTerm2 now has ChatGPT integration",
       "https://iterm2.com/downloads/stable/iTerm2-3_5_0.changelog"
-    ]
-  ],
-  [
-    [
-      "2024-05-20, 21:22:13",
-      "https://lobste.rs/s/n1rtwo/racket_language_oriented_programming"
-    ],
-    [
-      "Racket - the Language-Oriented Programming Language - version 8.13 is now available",
-      "https://blog.racket-lang.org/2024/05/racket-v8-13.html"
     ]
   ],
   [
