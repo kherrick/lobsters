@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-05-22, 07:02:03](https://lobste.rs/s/uwo0xe/zed_decoded_syntax_aware_task_spawning) - [Zed Decoded: Syntax-Aware Task Spawning With Tree-Sitter - Zed Blog](https://zed.dev/blog/zed-decoded-tasks)
+* [2024-05-22, 08:22:35](https://lobste.rs/s/hpjinc/space_quest_ii_master_disk_blunder) - [The Space Quest II Master Disk Blunder](https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html)
+* [2024-05-22, 08:20:36](https://lobste.rs/s/bwkglh/embd_rs_read_files_directories_from) - [embd-rs: Read files or directories from the filesystem at runtime on debug, embed on release](https://github.com/RGBCube/embd-rs)
 * [2024-05-22, 04:59:20](https://lobste.rs/s/0ghltc/cadmium_local_first_cad_program_built_for) - [CADmium: A Local-First CAD Program Built for the Browser](https://mattferraro.dev/posts/cadmium)
 * [2024-05-22, 04:07:30](https://lobste.rs/s/guxqdf/hybrid_approach_semi_automated_rust) - [A hybrid approach to semi-automated Rust verification](https://arxiv.org/abs/2403.15122)
 * [2024-05-22, 01:23:31](https://lobste.rs/s/avzof2/rustrover_is_released_includes_free_non) - [RustRover Is Released and Includes a Free Non-Commercial Option](https://blog.jetbrains.com/rust/2024/05/21/rustrover-is-released-and-includes-a-free-non-commercial-option/)
@@ -23,7 +24,6 @@
 * [2024-05-21, 09:51:33](https://lobste.rs/s/rvzabz/lvm_thin_send_recv) - [lvm thin send/recv](https://abbbi.github.io/lvm/)
 * [2024-05-21, 08:01:22](https://lobste.rs/s/yffsfs/erlang_otp_27_0_release) - [Erlang/OTP 27.0 Release](https://www.erlang.org/news/170)
 * [2024-05-21, 06:57:38](https://lobste.rs/s/7aglnr/psa_iterm2_now_has_chatgpt_integration) - [PSA: iTerm2 now has ChatGPT integration](https://iterm2.com/downloads/stable/iTerm2-3_5_0.changelog)
-* [2024-05-20, 21:22:13](https://lobste.rs/s/n1rtwo/racket_language_oriented_programming) - [Racket - the Language-Oriented Programming Language - version 8.13 is now available](https://blog.racket-lang.org/2024/05/racket-v8-13.html)
 * [2024-05-20, 18:02:58](https://lobste.rs/s/nihkwe/getting_ocaml_through_eye_needle) - [Getting OCaml Through the Eye of a Needle](https://hypirion.com/musings/getting-ocaml-through-the-eye-of-a-needle)
 
 ## [Archives](archives/index.md)
