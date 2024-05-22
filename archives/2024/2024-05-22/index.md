@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-22](index.md)
 
+* [2024-05-22, 12:10:29](https://lobste.rs/s/2zupl3/was_courier_important_how_mess_up_system) - [Was Courier Important‽: How to Mess up System Fonts in a Web Application](https://toast.al/posts/visuallayout/2024-05-22_how-to-mess-up-system-fonts)
 * [2024-05-22, 10:36:22](https://lobste.rs/s/rllkpz/book_recommendation_for_new_programmers) - [Book recommendation for new programmers](https://lobste.rs/s/rllkpz/book_recommendation_for_new_programmers)
 * [2024-05-22, 10:00:44](https://lobste.rs/s/wkhxzn/transport_protocol_s_view_starlink) - [A transport protocol’s view of Starlink](https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/)
 * [2024-05-22, 09:49:03](https://lobste.rs/s/oaamtg/abusing_url_handling_iterm2_hyper_for) - [Abusing url handling in iTerm2 and Hyper for code execution](https://vin01.github.io/piptagole/escape-sequences/iterm2/hyper/url-handlers/code-execution/2024/05/21/arbitrary-url-schemes-terminal-emulators.html)
