@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-22, 10:36:22",
+      "https://lobste.rs/s/rllkpz/book_recommendation_for_new_programmers"
+    ],
+    [
+      "Book recommendation for new programmers",
+      "https://lobste.rs/s/rllkpz/book_recommendation_for_new_programmers"
+    ]
+  ],
+  [
+    [
+      "2024-05-22, 10:00:44",
+      "https://lobste.rs/s/wkhxzn/transport_protocol_s_view_starlink"
+    ],
+    [
+      "A transport protocol’s view of Starlink",
+      "https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/"
+    ]
+  ],
+  [
+    [
       "2024-05-22, 09:49:03",
       "https://lobste.rs/s/oaamtg/abusing_url_handling_iterm2_hyper_for"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-05-21, 18:55:42",
-      "https://lobste.rs/s/4ptae4/bios_update_thinkpad_with_boot_image"
-    ],
-    [
-      "BIOS Update Thinkpad with Boot Image",
-      "https://x61.sh/log/2024/05/21052024183107-update_bios.html"
-    ]
-  ],
-  [
-    [
       "2024-05-21, 18:15:54",
       "https://lobste.rs/s/olucnr/swap_i_i_key_on_your_keyboard_for_faster"
     ],
@@ -217,16 +227,6 @@
     [
       "vu128: Efficient variable-length integers",
       "https://john-millikin.com/vu128-efficient-variable-length-integers"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 08:01:22",
-      "https://lobste.rs/s/yffsfs/erlang_otp_27_0_release"
-    ],
-    [
-      "Erlang/OTP 27.0 Release",
-      "https://www.erlang.org/news/170"
     ]
   ],
   [
