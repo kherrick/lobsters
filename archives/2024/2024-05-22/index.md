@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-22](index.md)
 
+* [2024-05-22, 09:00:38](https://lobste.rs/s/ucmnbt/spot_reactive_cross_platform_desktop_gui) - [Spot: Reactive, cross-platform desktop GUI toolkit for Go](https://github.com/roblillack/spot)
+* [2024-05-22, 08:57:16](https://lobste.rs/s/ovlpy0/here_s_what_we_re_working_on_firefox) - [Here’s what we’re working on in Firefox](https://connect.mozilla.org/t5/discussions/here-s-what-we-re-working-on-in-firefox/td-p/57694)
 * [2024-05-22, 08:22:35](https://lobste.rs/s/hpjinc/space_quest_ii_master_disk_blunder) - [The Space Quest II Master Disk Blunder](https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html)
 * [2024-05-22, 08:20:36](https://lobste.rs/s/bwkglh/embd_rs_read_files_directories_from) - [embd-rs: Read files or directories from the filesystem at runtime on debug, embed on release](https://github.com/RGBCube/embd-rs)
 * [2024-05-22, 07:02:03](https://lobste.rs/s/uwo0xe/zed_decoded_syntax_aware_task_spawning) - [Zed Decoded: Syntax-Aware Task Spawning With Tree-Sitter - Zed Blog](https://zed.dev/blog/zed-decoded-tasks)
