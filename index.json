@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-05-22, 08:57:16",
+      "https://lobste.rs/s/ovlpy0/here_s_what_we_re_working_on_firefox"
+    ],
+    [
+      "Here’s what we’re working on in Firefox",
+      "https://connect.mozilla.org/t5/discussions/here-s-what-we-re-working-on-in-firefox/td-p/57694"
+    ]
+  ],
+  [
+    [
       "2024-05-22, 08:22:35",
       "https://lobste.rs/s/hpjinc/space_quest_ii_master_disk_blunder"
     ],
@@ -207,16 +217,6 @@
     [
       "vu128: Efficient variable-length integers",
       "https://john-millikin.com/vu128-efficient-variable-length-integers"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 09:51:33",
-      "https://lobste.rs/s/rvzabz/lvm_thin_send_recv"
-    ],
-    [
-      "lvm thin send/recv",
-      "https://abbbi.github.io/lvm/"
     ]
   ],
   [
