@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-22, 04:07:30",
+      "https://lobste.rs/s/guxqdf/hybrid_approach_semi_automated_rust"
+    ],
+    [
+      "A hybrid approach to semi-automated Rust verification",
+      "https://arxiv.org/abs/2403.15122"
+    ]
+  ],
+  [
+    [
       "2024-05-22, 01:23:31",
       "https://lobste.rs/s/avzof2/rustrover_is_released_includes_free_non"
     ],
@@ -197,16 +207,6 @@
     [
       "PSA: iTerm2 now has ChatGPT integration",
       "https://iterm2.com/downloads/stable/iTerm2-3_5_0.changelog"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 01:24:17",
-      "https://lobste.rs/s/vc0qa0/modernizing_antennapod_code_structure"
-    ],
-    [
-      "Modernizing the AntennaPod Code Structure",
-      "https://antennapod.org/blog/2024/05/modernizing-the-code-structure"
     ]
   ],
   [
