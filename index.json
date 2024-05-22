@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-05-22, 16:06:28",
+      "https://lobste.rs/s/w7yuqc/go_s_old_gopath_story_for_development"
+    ],
+    [
+      "Go's old $GOPATH story for development and dependencies",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/GoTheGopathDevelopmentStory"
+    ]
+  ],
+  [
+    [
       "2024-05-22, 16:02:23",
       "https://lobste.rs/s/shrc35/queueing_interactive_study_queueing"
     ],
@@ -237,16 +247,6 @@
     [
       "vu128: Efficient variable-length integers",
       "https://john-millikin.com/vu128-efficient-variable-length-integers"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 06:57:38",
-      "https://lobste.rs/s/7aglnr/psa_iterm2_now_has_chatgpt_integration"
-    ],
-    [
-      "PSA: iTerm2 now has ChatGPT integration",
-      "https://iterm2.com/downloads/stable/iTerm2-3_5_0.changelog"
     ]
   ]
 ]
