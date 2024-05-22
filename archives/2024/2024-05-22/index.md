@@ -6,6 +6,7 @@
 
 * [2024-05-22, 20:35:30](https://lobste.rs/s/gxr1bh/replacing_pyinstaller_with_100_lines) - [Replacing pyinstaller with 100 lines of code](https://tushar.lol/post/packaged/)
 * [2024-05-22, 20:07:44](https://lobste.rs/s/mwrsor/compilerfax_sending_c_source_code_via) - [CompilerFax: Sending C source code via telefax to a compiler-as-a-service](https://chaos.social/@LaF0rge/112486079122303420)
+* [2024-05-22, 19:25:22](https://lobste.rs/s/x73suc/how_compare_two_packed_bitfields_without) - [How to compare two packed bitfields without having to unpack each field](https://devblogs.microsoft.com/oldnewthing/20190301-00/?p=101076)
 * [2024-05-22, 18:41:54](https://lobste.rs/s/fekcju/visions_future_formal_verification_rust) - [Visions of the future: formal verification in Rust](https://xav.io/blog/rust-formal-verification/)
 * [2024-05-22, 18:03:34](https://lobste.rs/s/mdunri/easy_use_performance_modeling) - [Easy to use Performance Modeling](https://fizzbee.io/tutorials/performance-modeling/)
 * [2024-05-22, 16:06:28](https://lobste.rs/s/w7yuqc/go_s_old_gopath_story_for_development) - [Go's old $GOPATH story for development and dependencies](https://utcc.utoronto.ca/~cks/space/blog/programming/GoTheGopathDevelopmentStory)
