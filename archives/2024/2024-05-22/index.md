@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-22](index.md)
 
+* [2024-05-22, 10:36:22](https://lobste.rs/s/rllkpz/book_recommendation_for_new_programmers) - [Book recommendation for new programmers](https://lobste.rs/s/rllkpz/book_recommendation_for_new_programmers)
+* [2024-05-22, 10:00:44](https://lobste.rs/s/wkhxzn/transport_protocol_s_view_starlink) - [A transport protocol’s view of Starlink](https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/)
 * [2024-05-22, 09:49:03](https://lobste.rs/s/oaamtg/abusing_url_handling_iterm2_hyper_for) - [Abusing url handling in iTerm2 and Hyper for code execution](https://vin01.github.io/piptagole/escape-sequences/iterm2/hyper/url-handlers/code-execution/2024/05/21/arbitrary-url-schemes-terminal-emulators.html)
 * [2024-05-22, 09:34:11](https://lobste.rs/s/hxijdq/curious_case_missing_period) - [The curious case of the missing period](https://tjaart.substack.com/p/the-curious-case-of-the-missing-period)
 * [2024-05-22, 09:00:38](https://lobste.rs/s/ucmnbt/spot_reactive_cross_platform_desktop_gui) - [Spot: Reactive, cross-platform desktop GUI toolkit for Go](https://github.com/roblillack/spot)
