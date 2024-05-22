@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-22, 01:23:31",
+      "https://lobste.rs/s/avzof2/rustrover_is_released_includes_free_non"
+    ],
+    [
+      "RustRover Is Released and Includes a Free Non-Commercial Option",
+      "https://blog.jetbrains.com/rust/2024/05/21/rustrover-is-released-and-includes-a-free-non-commercial-option/"
+    ]
+  ],
+  [
+    [
       "2024-05-21, 21:58:27",
       "https://lobste.rs/s/gl8hqr/when_is_foot_fast_when_is_it_not"
     ],
@@ -227,16 +237,6 @@
     [
       "Clone arbitrary single Git commit",
       "https://blog.hartwork.org/posts/clone-arbitrary-single-git-commit/"
-    ]
-  ],
-  [
-    [
-      "2024-05-20, 15:37:08",
-      "https://lobste.rs/s/dqq69u/rust_s_iterators_optimize_nicely_contain"
-    ],
-    [
-      "Rust's iterators optimize nicely—and contain a footgun",
-      "https://ntietz.com/blog/rusts-iterators-optimize-footgun/"
     ]
   ],
   [
