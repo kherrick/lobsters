@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-21, 21:58:27",
+      "https://lobste.rs/s/gl8hqr/when_is_foot_fast_when_is_it_not"
+    ],
+    [
+      "When is foot fast, and when is it not?",
+      "https://codeberg.org/dnkl/foot/wiki/Performance"
+    ]
+  ],
+  [
+    [
       "2024-05-21, 21:47:55",
       "https://lobste.rs/s/wu1p2u/how_write_hookable_software"
     ],
@@ -197,16 +207,6 @@
     [
       "Racket - the Language-Oriented Programming Language - version 8.13 is now available",
       "https://blog.racket-lang.org/2024/05/racket-v8-13.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-20, 18:55:08",
-      "https://lobste.rs/s/zjrm8l/why_i_don_t_use_third_party_assertion"
-    ],
-    [
-      "Why I don't use a third-party assertion library in Go unit tests",
-      "https://dev.to/yawaramin/why-i-dont-use-a-third-party-assertion-library-in-go-unit-tests-1gak"
     ]
   ],
   [
