@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-05-22, 18:03:34](https://lobste.rs/s/mdunri/easy_use_performance_modeling) - [Easy to use Performance Modeling](https://fizzbee.io/tutorials/performance-modeling/)
+* [2024-05-22, 16:06:28](https://lobste.rs/s/w7yuqc/go_s_old_gopath_story_for_development) - [Go's old $GOPATH story for development and dependencies](https://utcc.utoronto.ca/~cks/space/blog/programming/GoTheGopathDevelopmentStory)
 * [2024-05-22, 16:02:23](https://lobste.rs/s/shrc35/queueing_interactive_study_queueing) - [Queueing - an interactive study of queueing strategies](https://encore.dev/blog/queueing)
 * [2024-05-22, 14:00:29](https://lobste.rs/s/avwjeh/alpine_3_20_0_released) - [Alpine 3.20.0 released](https://alpinelinux.org/posts/Alpine-3.20.0-released.html)
 * [2024-05-22, 13:37:18](https://lobste.rs/s/u28st4/why_not_just_do_simple_c_raii_c) - [Why Not Just Do Simple C++ RAII in C?](https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it)
@@ -24,7 +25,6 @@
 * [2024-05-21, 15:31:51](https://lobste.rs/s/4h51im/small_probabilities_add_big_ones_don_t) - [Small probabilities add, big ones don’t](https://www.johndcook.com/blog/2024/05/10/small-probabilities-add/)
 * [2024-05-21, 13:49:47](https://lobste.rs/s/pt14vn/worst_bug_we_faced_at_antithesis) - [The worst bug we faced at Antithesis](https://antithesis.com/blog/worst_bug/)
 * [2024-05-21, 10:49:02](https://lobste.rs/s/qvoe7a/vu128_efficient_variable_length) - [vu128: Efficient variable-length integers](https://john-millikin.com/vu128-efficient-variable-length-integers)
-* [2024-05-21, 06:57:38](https://lobste.rs/s/7aglnr/psa_iterm2_now_has_chatgpt_integration) - [PSA: iTerm2 now has ChatGPT integration](https://iterm2.com/downloads/stable/iTerm2-3_5_0.changelog)
 
 ## [Archives](archives/index.md)
 
