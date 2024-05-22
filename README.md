@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-22, 16:02:23](https://lobste.rs/s/shrc35/queueing_interactive_study_queueing) - [Queueing - an interactive study of queueing strategies](https://encore.dev/blog/queueing)
 * [2024-05-22, 14:00:29](https://lobste.rs/s/avwjeh/alpine_3_20_0_released) - [Alpine 3.20.0 released](https://alpinelinux.org/posts/Alpine-3.20.0-released.html)
 * [2024-05-22, 13:37:18](https://lobste.rs/s/u28st4/why_not_just_do_simple_c_raii_c) - [Why Not Just Do Simple C++ RAII in C?](https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it)
 * [2024-05-22, 13:33:56](https://lobste.rs/s/6mg14t/prefer_noun_adjective_naming) - [Prefer Noun-Adjective Naming](https://kyleshevlin.com/prefer-noun-adjective-naming/)
@@ -15,7 +16,6 @@
 * [2024-05-22, 04:59:20](https://lobste.rs/s/0ghltc/cadmium_local_first_cad_program_built_for) - [CADmium: A Local-First CAD Program Built for the Browser](https://mattferraro.dev/posts/cadmium)
 * [2024-05-22, 01:23:31](https://lobste.rs/s/avzof2/rustrover_is_released_includes_free_non) - [RustRover Is Released and Includes a Free Non-Commercial Option](https://blog.jetbrains.com/rust/2024/05/21/rustrover-is-released-and-includes-a-free-non-commercial-option/)
 * [2024-05-21, 21:58:27](https://lobste.rs/s/gl8hqr/when_is_foot_fast_when_is_it_not_2020) - [When is foot fast, and when is it not? (2020)](https://codeberg.org/dnkl/foot/wiki/Performance)
-* [2024-05-21, 21:47:55](https://lobste.rs/s/wu1p2u/how_write_hookable_software) - [How to write \"hookable\" software?](https://lobste.rs/s/wu1p2u/how_write_hookable_software)
 * [2024-05-21, 20:38:51](https://lobste.rs/s/vkxfqz/what_s_new_kotlin_2_0_0) - [What's new in Kotlin 2.0.0](https://kotlinlang.org/docs/whatsnew20.html)
 * [2024-05-21, 20:15:16](https://lobste.rs/s/glnsev/why_is_there_so_little_anything_online) - [why is there so little of anything online about old phone UIs, firmwares and emulation?](https://lobste.rs/s/glnsev/why_is_there_so_little_anything_online)
 * [2024-05-21, 19:42:33](https://lobste.rs/s/pkmqif/stripe_s_monorepo_developer_environment) - [Stripe's monorepo developer environment](https://blog.nelhage.com/post/stripe-dev-environment/)

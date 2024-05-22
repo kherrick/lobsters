@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-22](index.md)
 
+* [2024-05-22, 16:02:23](https://lobste.rs/s/shrc35/queueing_interactive_study_queueing) - [Queueing - an interactive study of queueing strategies](https://encore.dev/blog/queueing)
 * [2024-05-22, 14:00:29](https://lobste.rs/s/avwjeh/alpine_3_20_0_released) - [Alpine 3.20.0 released](https://alpinelinux.org/posts/Alpine-3.20.0-released.html)
 * [2024-05-22, 13:37:18](https://lobste.rs/s/u28st4/why_not_just_do_simple_c_raii_c) - [Why Not Just Do Simple C++ RAII in C?](https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it)
 * [2024-05-22, 13:33:56](https://lobste.rs/s/6mg14t/prefer_noun_adjective_naming) - [Prefer Noun-Adjective Naming](https://kyleshevlin.com/prefer-noun-adjective-naming/)
