@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-23, 11:13:44](https://lobste.rs/s/stwdsy/common_lisp_is_not_single_language_many) - [Common Lisp is Not a Single Language, but Many](https://aartaka.me/cl-is-lots)
 * [2024-05-23, 06:19:58](https://lobste.rs/s/u1izmf/webassembly_promising_technology_is) - [WebAssembly: A promising technology that is quietly being sabotaged](https://kerkour.com/webassembly-wasi-preview2)
 * [2024-05-23, 05:16:51](https://lobste.rs/s/nvmrfz/grand_unified_theory_ai_hype_cycle) - [A Grand Unified Theory of the AI Hype Cycle](https://blog.glyph.im/2024/05/grand-unified-ai-hype.html)
 * [2024-05-23, 04:27:53](https://lobste.rs/s/xgeotm/no_wrong_doors) - [No Wrong Doors](https://lethain.com/no-wrong-doors/)
@@ -17,7 +18,6 @@
 * [2024-05-22, 10:36:22](https://lobste.rs/s/rllkpz/book_recommendation_for_new_programmers) - [Book recommendation for new programmers](https://lobste.rs/s/rllkpz/book_recommendation_for_new_programmers)
 * [2024-05-22, 09:49:03](https://lobste.rs/s/oaamtg/abusing_url_handling_iterm2_hyper_for) - [Abusing url handling in iTerm2 and Hyper for code execution](https://vin01.github.io/piptagole/escape-sequences/iterm2/hyper/url-handlers/code-execution/2024/05/21/arbitrary-url-schemes-terminal-emulators.html)
 * [2024-05-22, 09:34:11](https://lobste.rs/s/hxijdq/curious_case_missing_period) - [The curious case of the missing period](https://tjaart.substack.com/p/the-curious-case-of-the-missing-period)
-* [2024-05-22, 09:00:38](https://lobste.rs/s/ucmnbt/spot_reactive_cross_platform_desktop_gui) - [Spot: Reactive, cross-platform desktop GUI toolkit for Go](https://github.com/roblillack/spot)
 * [2024-05-22, 08:57:16](https://lobste.rs/s/ovlpy0/here_s_what_we_re_working_on_firefox) - [Here’s what we’re working on in Firefox](https://connect.mozilla.org/t5/discussions/here-s-what-we-re-working-on-in-firefox/td-p/57694)
 * [2024-05-22, 08:22:35](https://lobste.rs/s/hpjinc/space_quest_ii_master_disk_blunder) - [The Space Quest II Master Disk Blunder](https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html)
 * [2024-05-22, 08:20:36](https://lobste.rs/s/bwkglh/embd_rs_read_files_directories_from) - [embd-rs: Read files or directories from the filesystem at runtime on debug, embed on release](https://github.com/RGBCube/embd-rs)
