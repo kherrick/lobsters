@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-23, 11:13:44",
+      "https://lobste.rs/s/stwdsy/common_lisp_is_not_single_language_many"
+    ],
+    [
+      "Common Lisp is Not a Single Language, but Many",
+      "https://aartaka.me/cl-is-lots"
+    ]
+  ],
+  [
+    [
       "2024-05-23, 06:19:58",
       "https://lobste.rs/s/u1izmf/webassembly_promising_technology_is"
     ],
@@ -167,16 +177,6 @@
     [
       "The curious case of the missing period",
       "https://tjaart.substack.com/p/the-curious-case-of-the-missing-period"
-    ]
-  ],
-  [
-    [
-      "2024-05-22, 09:00:38",
-      "https://lobste.rs/s/ucmnbt/spot_reactive_cross_platform_desktop_gui"
-    ],
-    [
-      "Spot: Reactive, cross-platform desktop GUI toolkit for Go",
-      "https://github.com/roblillack/spot"
     ]
   ],
   [
