@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-23, 18:10:19](https://lobste.rs/s/iptxrx/papers_with_code_rss_feeds) - [Papers with Code RSS Feeds](https://jamesg.blog/2024/05/22/papers-with-code-rss/)
 * [2024-05-23, 16:03:08](https://lobste.rs/s/zfuxnc/how_verify_curl_release) - [How to verify a curl release](https://daniel.haxx.se/blog/2024/05/23/how-to-verify-a-curl-release/)
 * [2024-05-23, 16:02:20](https://lobste.rs/s/j88q6b/samsung_requires_independent_repair) - [Samsung Requires Independent Repair Shops to Share Customer Data, Snitch on People Who Use Aftermarket Parts, Leaked Contract Shows](https://www.404media.co/samsung-requires-independent-repair-shops-to-share-customer-data-snitch-on-people-who-use-aftermarket-parts-leaked-contract-shows/)
 * [2024-05-23, 16:01:57](https://lobste.rs/s/oiwg0s/teslas_can_still_be_stolen_with_cheap) - [Teslas Can Still Be Stolen With a Cheap Radio Hack—Despite New Keyless Tech](https://www.wired.com/story/tesla-ultra-wideband-radio-relay-attacks/)
@@ -19,7 +20,6 @@
 * [2024-05-22, 14:00:29](https://lobste.rs/s/avwjeh/alpine_3_20_0_released) - [Alpine 3.20.0 released](https://alpinelinux.org/posts/Alpine-3.20.0-released.html)
 * [2024-05-22, 13:37:18](https://lobste.rs/s/u28st4/why_not_just_do_simple_c_raii_c) - [Why Not Just Do Simple C++ RAII in C?](https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it)
 * [2024-05-22, 13:33:56](https://lobste.rs/s/6mg14t/prefer_noun_adjective_naming) - [Prefer Noun-Adjective Naming](https://kyleshevlin.com/prefer-noun-adjective-naming/)
-* [2024-05-22, 12:10:29](https://lobste.rs/s/2zupl3/was_courier_important_how_mess_up_system) - [Was Courier Important‽: How to Mess up System Fonts in a Web Application](https://toast.al/posts/visuallayout/2024-05-22_how-to-mess-up-system-fonts)
 * [2024-05-22, 10:36:22](https://lobste.rs/s/rllkpz/book_recommendation_for_new_programmers) - [Book recommendation for new programmers](https://lobste.rs/s/rllkpz/book_recommendation_for_new_programmers)
 * [2024-05-22, 09:34:11](https://lobste.rs/s/hxijdq/curious_case_missing_period) - [The curious case of the missing period](https://tjaart.substack.com/p/the-curious-case-of-the-missing-period)
 * [2024-05-22, 08:57:16](https://lobste.rs/s/ovlpy0/here_s_what_we_re_working_on_firefox) - [Here’s what we’re working on in Firefox](https://connect.mozilla.org/t5/discussions/here-s-what-we-re-working-on-in-firefox/td-p/57694)
