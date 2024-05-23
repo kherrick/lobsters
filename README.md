@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-23, 05:16:51](https://lobste.rs/s/nvmrfz/grand_unified_theory_ai_hype_cycle) - [A Grand Unified Theory of the AI Hype Cycle](https://blog.glyph.im/2024/05/grand-unified-ai-hype.html)
 * [2024-05-23, 04:27:53](https://lobste.rs/s/xgeotm/no_wrong_doors) - [No Wrong Doors](https://lethain.com/no-wrong-doors/)
 * [2024-05-23, 01:21:01](https://lobste.rs/s/lfgc79/jest_mock_extended_writing_typescript) - [Jest Mock Extended - Writing Typescript Friendly Tests](https://uptownhr.com/blog/jest-mock-extended-writing-typescript-friendly-tests/)
 * [2024-05-22, 23:22:03](https://lobste.rs/s/8yiuyi/murex_shell_passes_type_annotations) - [murex: A shell that passes type annotations through POSIX pipes](https://murex.rocks/tour.html)
@@ -23,7 +24,6 @@
 * [2024-05-22, 04:59:20](https://lobste.rs/s/0ghltc/cadmium_local_first_cad_program_built_for) - [CADmium: A Local-First CAD Program Built for the Browser](https://mattferraro.dev/posts/cadmium)
 * [2024-05-22, 01:23:31](https://lobste.rs/s/avzof2/rustrover_is_released_includes_free_non) - [RustRover Is Released and Includes a Free Non-Commercial Option](https://blog.jetbrains.com/rust/2024/05/21/rustrover-is-released-and-includes-a-free-non-commercial-option/)
 * [2024-05-21, 21:58:27](https://lobste.rs/s/gl8hqr/when_is_foot_fast_when_is_it_not_2020) - [When is foot fast, and when is it not? (2020)](https://codeberg.org/dnkl/foot/wiki/Performance)
-* [2024-05-21, 20:15:16](https://lobste.rs/s/glnsev/why_is_there_so_little_anything_online) - [why is there so little of anything online about old phone UIs, firmwares and emulation?](https://lobste.rs/s/glnsev/why_is_there_so_little_anything_online)
 * [2024-05-21, 10:49:02](https://lobste.rs/s/qvoe7a/vu128_efficient_variable_length) - [vu128: Efficient variable-length integers](https://john-millikin.com/vu128-efficient-variable-length-integers)
 
 ## [Archives](archives/index.md)
