@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-23, 13:20:03",
+      "https://lobste.rs/s/lzq8dk/embedded_drawing_tool_for_emacs"
+    ],
+    [
+      "Embedded drawing tool for Emacs",
+      "https://github.com/misohena/el-easydraw"
+    ]
+  ],
+  [
+    [
       "2024-05-23, 12:07:43",
       "https://lobste.rs/s/ragpgp/willow_sideloading_protocol"
     ],
@@ -47,16 +57,6 @@
     [
       "No Wrong Doors",
       "https://lethain.com/no-wrong-doors/"
-    ]
-  ],
-  [
-    [
-      "2024-05-23, 01:21:01",
-      "https://lobste.rs/s/lfgc79/jest_mock_extended_writing_typescript"
-    ],
-    [
-      "Jest Mock Extended - Writing Typescript Friendly Tests",
-      "https://uptownhr.com/blog/jest-mock-extended-writing-typescript-friendly-tests/"
     ]
   ],
   [
