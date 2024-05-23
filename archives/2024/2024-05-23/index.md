@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-23](index.md)
 
+* [2024-05-23, 16:03:08](https://lobste.rs/s/zfuxnc/how_verify_curl_release) - [How to verify a curl release](https://daniel.haxx.se/blog/2024/05/23/how-to-verify-a-curl-release/)
+* [2024-05-23, 16:02:20](https://lobste.rs/s/j88q6b/samsung_requires_independent_repair) - [Samsung Requires Independent Repair Shops to Share Customer Data, Snitch on People Who Use Aftermarket Parts, Leaked Contract Shows](https://www.404media.co/samsung-requires-independent-repair-shops-to-share-customer-data-snitch-on-people-who-use-aftermarket-parts-leaked-contract-shows/)
+* [2024-05-23, 16:01:57](https://lobste.rs/s/oiwg0s/teslas_can_still_be_stolen_with_cheap) - [Teslas Can Still Be Stolen With a Cheap Radio Hack—Despite New Keyless Tech](https://www.wired.com/story/tesla-ultra-wideband-radio-relay-attacks/)
 * [2024-05-23, 15:35:16](https://lobste.rs/s/pifi5m/tracking_releases_ci_across_software) - [Tracking Releases & CI Across Software Teams and Forges](https://jnsgr.uk/2024/05/tracking-software-across-teams/)
 * [2024-05-23, 15:04:20](https://lobste.rs/s/jyweai/lastpass_is_now_encrypting_urls) - [LastPass Is Now Encrypting URLs](https://blog.lastpass.com/posts/2024/05/lastpass-is-encrypting-urls-heres-whats-happening)
 * [2024-05-23, 13:20:03](https://lobste.rs/s/lzq8dk/embedded_drawing_tool_for_emacs) - [Embedded drawing tool for Emacs](https://github.com/misohena/el-easydraw)
