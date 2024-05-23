@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-23, 12:07:43",
+      "https://lobste.rs/s/ragpgp/willow_sideloading_protocol"
+    ],
+    [
+      "Willow Sideloading Protocol",
+      "https://willowprotocol.org/specs/sideloading"
+    ]
+  ],
+  [
+    [
       "2024-05-23, 11:13:44",
       "https://lobste.rs/s/stwdsy/common_lisp_is_not_single_language_many"
     ],
@@ -62,10 +72,10 @@
   [
     [
       "2024-05-22, 20:59:36",
-      "https://lobste.rs/s/fzx0sg/udm_14_enshittification_konami_code"
+      "https://lobste.rs/s/fzx0sg/udm_14_google_web_search_parameter"
     ],
     [
-      "&udm=14 | the enshittification Konami code",
+      "&udm=14 | Google web search parameter",
       "https://udm14.com/"
     ]
   ],
@@ -87,16 +97,6 @@
     [
       "CompilerFax: Sending C source code via telefax to a compiler-as-a-service",
       "https://chaos.social/@LaF0rge/112486079122303420"
-    ]
-  ],
-  [
-    [
-      "2024-05-22, 19:25:22",
-      "https://lobste.rs/s/x73suc/how_compare_two_packed_bitfields_without"
-    ],
-    [
-      "How to compare two packed bitfields without having to unpack each field",
-      "https://devblogs.microsoft.com/oldnewthing/20190301-00/?p=101076"
     ]
   ],
   [
