@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-23](index.md)
 
+* [2024-05-23, 19:39:46](https://lobste.rs/s/pn7w0m/how_shrink_root_filesystem_without) - [How to shrink root filesystem without booting a livecd](https://unix.stackexchange.com/a/227318)
 * [2024-05-23, 18:10:19](https://lobste.rs/s/iptxrx/papers_with_code_rss_feeds) - [Papers with Code RSS Feeds](https://jamesg.blog/2024/05/22/papers-with-code-rss/)
 * [2024-05-23, 16:03:08](https://lobste.rs/s/zfuxnc/how_verify_curl_release) - [How to verify a curl release](https://daniel.haxx.se/blog/2024/05/23/how-to-verify-a-curl-release/)
 * [2024-05-23, 16:02:20](https://lobste.rs/s/j88q6b/samsung_requires_independent_repair) - [Samsung Requires Independent Repair Shops to Share Customer Data, Snitch on People Who Use Aftermarket Parts, Leaked Contract Shows](https://www.404media.co/samsung-requires-independent-repair-shops-to-share-customer-data-snitch-on-people-who-use-aftermarket-parts-leaked-contract-shows/)
