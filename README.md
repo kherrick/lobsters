@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-23, 22:26:39](https://lobste.rs/s/3rsacs/apple_password_manager_resources) - [apple/password-manager-resources: website datasets for password managers](https://github.com/apple/password-manager-resources)
 * [2024-05-23, 21:14:57](https://lobste.rs/s/ppahhr/getting_xxe_web_browsers_using_chatgpt) - [Getting XXE in Web Browsers using ChatGPT](https://swarm.ptsecurity.com/xxe-chrome-safari-chatgpt/)
 * [2024-05-23, 21:09:15](https://lobste.rs/s/rp9rzq/pyastgrep_custom_linting) - [pyastgrep and custom linting](https://lukeplant.me.uk/blog/posts/pyastgrep-and-custom-linting/)
 * [2024-05-23, 21:07:37](https://lobste.rs/s/hphovk/statically_typed_functional) - [Statically Typed Functional Programming with Python 3.12](https://wickstrom.tech/2024-05-23-statically-typed-functional-programming-python-312.html)
@@ -14,7 +15,6 @@
 * [2024-05-23, 06:19:58](https://lobste.rs/s/u1izmf/webassembly_promising_technology_is) - [WebAssembly: A promising technology that is quietly being sabotaged](https://kerkour.com/webassembly-wasi-preview2)
 * [2024-05-23, 05:16:51](https://lobste.rs/s/nvmrfz/grand_unified_theory_ai_hype_cycle) - [A Grand Unified Theory of the AI Hype Cycle](https://blog.glyph.im/2024/05/grand-unified-ai-hype.html)
 * [2024-05-23, 04:27:53](https://lobste.rs/s/xgeotm/no_wrong_doors) - [No Wrong Doors](https://lethain.com/no-wrong-doors/)
-* [2024-05-22, 20:59:36](https://lobste.rs/s/fzx0sg/udm_14_google_web_search_parameter) - [&udm=14 | Google web search parameter](https://udm14.com/)
 * [2024-05-22, 20:35:30](https://lobste.rs/s/gxr1bh/replacing_pyinstaller_with_100_lines) - [Replacing pyinstaller with 100 lines of code](https://tushar.lol/post/packaged/)
 * [2024-05-22, 20:07:44](https://lobste.rs/s/mwrsor/compilerfax_sending_c_source_code_via) - [CompilerFax: Sending C source code via telefax to a compiler-as-a-service](https://chaos.social/@LaF0rge/112486079122303420)
 * [2024-05-22, 18:41:54](https://lobste.rs/s/fekcju/visions_future_formal_verification_rust) - [Visions of the future: formal verification in Rust](https://xav.io/blog/rust-formal-verification/)

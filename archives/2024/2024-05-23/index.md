@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-23](index.md)
 
+* [2024-05-23, 22:26:39](https://lobste.rs/s/3rsacs/apple_password_manager_resources) - [apple/password-manager-resources: website datasets for password managers](https://github.com/apple/password-manager-resources)
 * [2024-05-23, 21:14:57](https://lobste.rs/s/ppahhr/getting_xxe_web_browsers_using_chatgpt) - [Getting XXE in Web Browsers using ChatGPT](https://swarm.ptsecurity.com/xxe-chrome-safari-chatgpt/)
 * [2024-05-23, 21:09:15](https://lobste.rs/s/rp9rzq/pyastgrep_custom_linting) - [pyastgrep and custom linting](https://lukeplant.me.uk/blog/posts/pyastgrep-and-custom-linting/)
 * [2024-05-23, 21:07:37](https://lobste.rs/s/hphovk/statically_typed_functional) - [Statically Typed Functional Programming with Python 3.12](https://wickstrom.tech/2024-05-23-statically-typed-functional-programming-python-312.html)
