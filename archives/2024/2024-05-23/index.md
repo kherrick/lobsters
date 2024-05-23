@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-23](index.md)
 
+* [2024-05-23, 15:35:16](https://lobste.rs/s/pifi5m/tracking_releases_ci_across_software) - [Tracking Releases & CI Across Software Teams and Forges](https://jnsgr.uk/2024/05/tracking-software-across-teams/)
 * [2024-05-23, 15:04:20](https://lobste.rs/s/jyweai/lastpass_is_now_encrypting_urls) - [LastPass Is Now Encrypting URLs](https://blog.lastpass.com/posts/2024/05/lastpass-is-encrypting-urls-heres-whats-happening)
 * [2024-05-23, 13:20:03](https://lobste.rs/s/lzq8dk/embedded_drawing_tool_for_emacs) - [Embedded drawing tool for Emacs](https://github.com/misohena/el-easydraw)
 * [2024-05-23, 12:07:43](https://lobste.rs/s/ragpgp/willow_sideloading_protocol) - [Willow Sideloading Protocol](https://willowprotocol.org/specs/sideloading)

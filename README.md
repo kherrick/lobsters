@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-23, 15:35:16](https://lobste.rs/s/pifi5m/tracking_releases_ci_across_software) - [Tracking Releases & CI Across Software Teams and Forges](https://jnsgr.uk/2024/05/tracking-software-across-teams/)
 * [2024-05-23, 15:04:20](https://lobste.rs/s/jyweai/lastpass_is_now_encrypting_urls) - [LastPass Is Now Encrypting URLs](https://blog.lastpass.com/posts/2024/05/lastpass-is-encrypting-urls-heres-whats-happening)
 * [2024-05-23, 13:20:03](https://lobste.rs/s/lzq8dk/embedded_drawing_tool_for_emacs) - [Embedded drawing tool for Emacs](https://github.com/misohena/el-easydraw)
 * [2024-05-23, 12:07:43](https://lobste.rs/s/ragpgp/willow_sideloading_protocol) - [Willow Sideloading Protocol](https://willowprotocol.org/specs/sideloading)
@@ -23,7 +24,6 @@
 * [2024-05-22, 08:22:35](https://lobste.rs/s/hpjinc/space_quest_ii_master_disk_blunder) - [The Space Quest II Master Disk Blunder](https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html)
 * [2024-05-22, 08:20:36](https://lobste.rs/s/bwkglh/embd_rs_read_files_directories_from) - [embd-rs: Read files or directories from the filesystem at runtime on debug, embed on release](https://github.com/RGBCube/embd-rs)
 * [2024-05-22, 04:59:20](https://lobste.rs/s/0ghltc/cadmium_local_first_cad_program_built_for) - [CADmium: A Local-First CAD Program Built for the Browser](https://mattferraro.dev/posts/cadmium)
-* [2024-05-22, 01:23:31](https://lobste.rs/s/avzof2/rustrover_is_released_includes_free_non) - [RustRover Is Released and Includes a Free Non-Commercial Option](https://blog.jetbrains.com/rust/2024/05/21/rustrover-is-released-and-includes-a-free-non-commercial-option/)
 * [2024-05-21, 10:49:02](https://lobste.rs/s/qvoe7a/vu128_efficient_variable_length) - [vu128: Efficient variable-length integers](https://john-millikin.com/vu128-efficient-variable-length-integers)
 
 ## [Archives](archives/index.md)
