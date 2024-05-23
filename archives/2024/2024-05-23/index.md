@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-23](index.md)
 
+* [2024-05-23, 21:14:57](https://lobste.rs/s/ppahhr/getting_xxe_web_browsers_using_chatgpt) - [Getting XXE in Web Browsers using ChatGPT](https://swarm.ptsecurity.com/xxe-chrome-safari-chatgpt/)
+* [2024-05-23, 21:09:15](https://lobste.rs/s/rp9rzq/pyastgrep_custom_linting) - [pyastgrep and custom linting](https://lukeplant.me.uk/blog/posts/pyastgrep-and-custom-linting/)
+* [2024-05-23, 21:07:37](https://lobste.rs/s/hphovk/statically_typed_functional) - [Statically Typed Functional Programming with Python 3.12](https://wickstrom.tech/2024-05-23-statically-typed-functional-programming-python-312.html)
 * [2024-05-23, 19:39:46](https://lobste.rs/s/pn7w0m/how_shrink_root_filesystem_without) - [How to shrink root filesystem without booting a livecd](https://unix.stackexchange.com/a/227318)
 * [2024-05-23, 18:10:19](https://lobste.rs/s/iptxrx/papers_with_code_rss_feeds) - [Papers with Code RSS Feeds](https://jamesg.blog/2024/05/22/papers-with-code-rss/)
 * [2024-05-23, 16:03:08](https://lobste.rs/s/zfuxnc/how_verify_curl_release) - [How to verify a curl release](https://daniel.haxx.se/blog/2024/05/23/how-to-verify-a-curl-release/)

@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-23, 21:14:57](https://lobste.rs/s/ppahhr/getting_xxe_web_browsers_using_chatgpt) - [Getting XXE in Web Browsers using ChatGPT](https://swarm.ptsecurity.com/xxe-chrome-safari-chatgpt/)
+* [2024-05-23, 21:09:15](https://lobste.rs/s/rp9rzq/pyastgrep_custom_linting) - [pyastgrep and custom linting](https://lukeplant.me.uk/blog/posts/pyastgrep-and-custom-linting/)
+* [2024-05-23, 21:07:37](https://lobste.rs/s/hphovk/statically_typed_functional) - [Statically Typed Functional Programming with Python 3.12](https://wickstrom.tech/2024-05-23-statically-typed-functional-programming-python-312.html)
 * [2024-05-23, 19:39:46](https://lobste.rs/s/pn7w0m/how_shrink_root_filesystem_without) - [How to shrink root filesystem without booting a livecd](https://unix.stackexchange.com/a/227318)
 * [2024-05-23, 18:10:19](https://lobste.rs/s/iptxrx/papers_with_code_rss_feeds) - [Papers with Code RSS Feeds](https://jamesg.blog/2024/05/22/papers-with-code-rss/)
 * [2024-05-23, 16:03:08](https://lobste.rs/s/zfuxnc/how_verify_curl_release) - [How to verify a curl release](https://daniel.haxx.se/blog/2024/05/23/how-to-verify-a-curl-release/)
@@ -12,8 +15,6 @@
 * [2024-05-23, 06:19:58](https://lobste.rs/s/u1izmf/webassembly_promising_technology_is) - [WebAssembly: A promising technology that is quietly being sabotaged](https://kerkour.com/webassembly-wasi-preview2)
 * [2024-05-23, 05:16:51](https://lobste.rs/s/nvmrfz/grand_unified_theory_ai_hype_cycle) - [A Grand Unified Theory of the AI Hype Cycle](https://blog.glyph.im/2024/05/grand-unified-ai-hype.html)
 * [2024-05-23, 04:27:53](https://lobste.rs/s/xgeotm/no_wrong_doors) - [No Wrong Doors](https://lethain.com/no-wrong-doors/)
-* [2024-05-22, 23:22:03](https://lobste.rs/s/8yiuyi/murex_shell_passes_type_annotations) - [murex: A shell that passes type annotations through POSIX pipes](https://murex.rocks/tour.html)
-* [2024-05-22, 20:59:36](https://lobste.rs/s/fzx0sg/udm_14_google_web_search_parameter) - [&udm=14 | Google web search parameter](https://udm14.com/)
 * [2024-05-22, 20:35:30](https://lobste.rs/s/gxr1bh/replacing_pyinstaller_with_100_lines) - [Replacing pyinstaller with 100 lines of code](https://tushar.lol/post/packaged/)
 * [2024-05-22, 20:07:44](https://lobste.rs/s/mwrsor/compilerfax_sending_c_source_code_via) - [CompilerFax: Sending C source code via telefax to a compiler-as-a-service](https://chaos.social/@LaF0rge/112486079122303420)
 * [2024-05-22, 18:41:54](https://lobste.rs/s/fekcju/visions_future_formal_verification_rust) - [Visions of the future: formal verification in Rust](https://xav.io/blog/rust-formal-verification/)
@@ -24,7 +25,6 @@
 * [2024-05-22, 10:36:22](https://lobste.rs/s/rllkpz/book_recommendation_for_new_programmers) - [Book recommendation for new programmers](https://lobste.rs/s/rllkpz/book_recommendation_for_new_programmers)
 * [2024-05-22, 09:34:11](https://lobste.rs/s/hxijdq/curious_case_missing_period) - [The curious case of the missing period](https://tjaart.substack.com/p/the-curious-case-of-the-missing-period)
 * [2024-05-22, 08:57:16](https://lobste.rs/s/ovlpy0/here_s_what_we_re_working_on_firefox) - [Here’s what we’re working on in Firefox](https://connect.mozilla.org/t5/discussions/here-s-what-we-re-working-on-in-firefox/td-p/57694)
-* [2024-05-22, 08:22:35](https://lobste.rs/s/hpjinc/space_quest_ii_master_disk_blunder) - [The Space Quest II Master Disk Blunder](https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html)
 
 ## [Archives](archives/index.md)
 
