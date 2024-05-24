@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-24, 09:54:48",
+      "https://lobste.rs/s/9ykefg/what_is_collision"
+    ],
+    [
+      "What is a collision?",
+      "https://www.sassnow.ski/rigid-body-collisions/1"
+    ]
+  ],
+  [
+    [
       "2024-05-24, 07:50:51",
       "https://lobste.rs/s/ewkvmy/crawlee_crawlee_build_reliable_crawlers"
     ],
@@ -217,16 +227,6 @@
     [
       "Queueing - an interactive study of queueing strategies",
       "https://encore.dev/blog/queueing"
-    ]
-  ],
-  [
-    [
-      "2024-05-22, 13:37:18",
-      "https://lobste.rs/s/u28st4/why_not_just_do_simple_c_raii_c"
-    ],
-    [
-      "Why Not Just Do Simple C++ RAII in C?",
-      "https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it"
     ]
   ],
   [
