@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-24, 20:11:30",
+      "https://lobste.rs/s/xmlwxw/when_allocating_unused_memory_boosts"
+    ],
+    [
+      "When allocating unused memory boosts performance by 2x",
+      "https://quickwit.io/blog/performance-investigation"
+    ]
+  ],
+  [
+    [
       "2024-05-24, 19:45:26",
       "https://lobste.rs/s/hts9sk/details_google_cloud_gcve_incident"
     ],
@@ -237,16 +247,6 @@
     [
       "A Grand Unified Theory of the AI Hype Cycle",
       "https://blog.glyph.im/2024/05/grand-unified-ai-hype.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-23, 04:27:53",
-      "https://lobste.rs/s/xgeotm/no_wrong_doors"
-    ],
-    [
-      "No Wrong Doors",
-      "https://lethain.com/no-wrong-doors/"
     ]
   ]
 ]
