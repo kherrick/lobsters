@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-24, 04:20:12",
+      "https://lobste.rs/s/eqbpqg/bitkeeper_linux_licensing_disputes_how"
+    ],
+    [
+      "BitKeeper, Linux, and licensing disputes: How Linus wrote Git in 14 days",
+      "https://graphite.dev/blog/bitkeeper-linux-story-of-git-creation"
+    ]
+  ],
+  [
+    [
       "2024-05-24, 02:13:27",
       "https://lobste.rs/s/gjqsog/golden_gate_claude"
     ],
@@ -177,16 +187,6 @@
     [
       "Replacing pyinstaller with 100 lines of code",
       "https://tushar.lol/post/packaged/"
-    ]
-  ],
-  [
-    [
-      "2024-05-22, 20:07:44",
-      "https://lobste.rs/s/mwrsor/compilerfax_sending_c_source_code_via"
-    ],
-    [
-      "CompilerFax: Sending C source code via telefax to a compiler-as-a-service",
-      "https://chaos.social/@LaF0rge/112486079122303420"
     ]
   ],
   [
