@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-24](index.md)
 
+* [2024-05-24, 21:18:57](https://lobste.rs/s/5qsbx5/atomic_polling_intervals_for_highly) - [Atomic Polling Intervals for Highly Concurrent Workloads](https://www.byronwasti.com/polling-atomics/)
 * [2024-05-24, 20:11:30](https://lobste.rs/s/xmlwxw/when_allocating_unused_memory_boosts) - [When allocating unused memory boosts performance by 2x](https://quickwit.io/blog/performance-investigation)
 * [2024-05-24, 19:45:26](https://lobste.rs/s/hts9sk/details_google_cloud_gcve_incident) - [Details of Google Cloud GCVE incident (UniSuper deletion)](https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/)
 * [2024-05-24, 19:31:49](https://lobste.rs/s/nbkctc/d_day_psyop_2014) - [D-Day Psyop (2014)](https://psywarrior.com/DDAYPSYOP.html)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-24, 21:18:57](https://lobste.rs/s/5qsbx5/atomic_polling_intervals_for_highly) - [Atomic Polling Intervals for Highly Concurrent Workloads](https://www.byronwasti.com/polling-atomics/)
 * [2024-05-24, 20:11:30](https://lobste.rs/s/xmlwxw/when_allocating_unused_memory_boosts) - [When allocating unused memory boosts performance by 2x](https://quickwit.io/blog/performance-investigation)
 * [2024-05-24, 19:45:26](https://lobste.rs/s/hts9sk/details_google_cloud_gcve_incident) - [Details of Google Cloud GCVE incident (UniSuper deletion)](https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/)
 * [2024-05-24, 19:07:01](https://lobste.rs/s/ouvwif/melange_4_0_is_here) - [Melange 4.0 is here](https://melange.re/blog/posts/melange-4-is-here)
@@ -19,7 +20,6 @@
 * [2024-05-24, 02:13:27](https://lobste.rs/s/gjqsog/golden_gate_claude) - [Golden Gate Claude](https://www.anthropic.com/news/golden-gate-claude)
 * [2024-05-24, 01:03:59](https://lobste.rs/s/3bfqlr/call_compiler_fax_it_your_code) - [Call the compiler, fax it your code](https://www.youtube.com/watch?v=pJ-25-pRhpY)
 * [2024-05-23, 22:26:39](https://lobste.rs/s/3rsacs/apple_password_manager_resources) - [apple/password-manager-resources: website datasets for password managers](https://github.com/apple/password-manager-resources)
-* [2024-05-23, 21:09:15](https://lobste.rs/s/rp9rzq/pyastgrep_custom_linting) - [pyastgrep and custom linting](https://lukeplant.me.uk/blog/posts/pyastgrep-and-custom-linting/)
 * [2024-05-23, 21:07:37](https://lobste.rs/s/hphovk/statically_typed_functional) - [Statically Typed Functional Programming with Python 3.12](https://wickstrom.tech/2024-05-23-statically-typed-functional-programming-python-312.html)
 * [2024-05-23, 16:02:20](https://lobste.rs/s/j88q6b/samsung_requires_independent_repair) - [Samsung Requires Independent Repair Shops to Share Customer Data, Snitch on People Who Use Aftermarket Parts, Leaked Contract Shows](https://www.404media.co/samsung-requires-independent-repair-shops-to-share-customer-data-snitch-on-people-who-use-aftermarket-parts-leaked-contract-shows/)
 * [2024-05-23, 13:20:03](https://lobste.rs/s/lzq8dk/embedded_drawing_tool_for_emacs) - [Embedded drawing tool for Emacs](https://github.com/misohena/el-easydraw)
