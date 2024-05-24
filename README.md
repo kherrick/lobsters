@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-24, 17:25:04](https://lobste.rs/s/yraxup/ssh_authentication_via_yubikeys) - [ssh authentication via Yubikeys](https://feldspaten.org/2024/02/03/ssh-authentication-via-Yubikeys/)
 * [2024-05-24, 17:05:51](https://lobste.rs/s/18exme/not_quite_open_source_1999) - [Not quite Open Source (1999)](https://lwn.net/1999/features/BitKeeper.php3)
 * [2024-05-24, 16:58:22](https://lobste.rs/s/rsmbr2/samsung_wb850f_camera_firmware_reverse) - [Samsung WB850F Camera Firmware Reverse-Engineering](https://op-co.de/blog/posts/samsung_wb850f_firmware/)
 * [2024-05-24, 15:50:02](https://lobste.rs/s/0iskz9/exploring_seamless_rust_interop_for) - [Exploring Seamless Rust Interop for Newer Languages, Part 1](https://verdagon.dev/blog/exploring-seamless-rust-interop-part-1)
@@ -21,7 +22,6 @@
 * [2024-05-23, 16:02:20](https://lobste.rs/s/j88q6b/samsung_requires_independent_repair) - [Samsung Requires Independent Repair Shops to Share Customer Data, Snitch on People Who Use Aftermarket Parts, Leaked Contract Shows](https://www.404media.co/samsung-requires-independent-repair-shops-to-share-customer-data-snitch-on-people-who-use-aftermarket-parts-leaked-contract-shows/)
 * [2024-05-23, 13:20:03](https://lobste.rs/s/lzq8dk/embedded_drawing_tool_for_emacs) - [Embedded drawing tool for Emacs](https://github.com/misohena/el-easydraw)
 * [2024-05-23, 12:07:43](https://lobste.rs/s/ragpgp/willow_sideloading_protocol) - [Willow Sideloading Protocol](https://willowprotocol.org/specs/sideloading)
-* [2024-05-23, 11:13:44](https://lobste.rs/s/stwdsy/common_lisp_is_not_single_language_many) - [Common Lisp is Not a Single Language, but Many](https://aartaka.me/cl-is-lots)
 * [2024-05-23, 05:16:51](https://lobste.rs/s/nvmrfz/grand_unified_theory_ai_hype_cycle) - [A Grand Unified Theory of the AI Hype Cycle](https://blog.glyph.im/2024/05/grand-unified-ai-hype.html)
 * [2024-05-23, 04:27:53](https://lobste.rs/s/xgeotm/no_wrong_doors) - [No Wrong Doors](https://lethain.com/no-wrong-doors/)
 * [2024-05-22, 16:02:23](https://lobste.rs/s/shrc35/queueing_interactive_study_queueing) - [Queueing - an interactive study of queueing strategies](https://encore.dev/blog/queueing)
