@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-05-24, 19:45:26](https://lobste.rs/s/hts9sk/details_google_cloud_gcve_incident) - [Details of Google Cloud GCVE incident (UniSuper deletion)](https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/)
-* [2024-05-24, 19:31:49](https://lobste.rs/s/nbkctc/d_day_psyop_2014) - [D-Day Psyop (2014)](https://psywarrior.com/DDAYPSYOP.html)
 * [2024-05-24, 19:07:01](https://lobste.rs/s/ouvwif/melange_4_0_is_here) - [Melange 4.0 is here](https://melange.re/blog/posts/melange-4-is-here)
 * [2024-05-24, 17:25:04](https://lobste.rs/s/yraxup/ssh_authentication_via_yubikeys) - [ssh authentication via Yubikeys](https://feldspaten.org/2024/02/03/ssh-authentication-via-Yubikeys/)
 * [2024-05-24, 17:05:51](https://lobste.rs/s/18exme/not_quite_open_source_1999) - [Not quite Open Source (1999)](https://lwn.net/1999/features/BitKeeper.php3)
@@ -25,6 +24,7 @@
 * [2024-05-23, 13:20:03](https://lobste.rs/s/lzq8dk/embedded_drawing_tool_for_emacs) - [Embedded drawing tool for Emacs](https://github.com/misohena/el-easydraw)
 * [2024-05-23, 12:07:43](https://lobste.rs/s/ragpgp/willow_sideloading_protocol) - [Willow Sideloading Protocol](https://willowprotocol.org/specs/sideloading)
 * [2024-05-23, 05:16:51](https://lobste.rs/s/nvmrfz/grand_unified_theory_ai_hype_cycle) - [A Grand Unified Theory of the AI Hype Cycle](https://blog.glyph.im/2024/05/grand-unified-ai-hype.html)
+* [2024-05-23, 04:27:53](https://lobste.rs/s/xgeotm/no_wrong_doors) - [No Wrong Doors](https://lethain.com/no-wrong-doors/)
 
 ## [Archives](archives/index.md)
 
