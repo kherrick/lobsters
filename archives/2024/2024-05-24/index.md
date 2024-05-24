@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-24](index.md)
 
+* [2024-05-24, 10:45:46](https://lobste.rs/s/bkq78k/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/bkq78k/what_are_you_doing_this_weekend)
+* [2024-05-24, 10:39:52](https://lobste.rs/s/rcrhsy/reverse_engineering_esp32_wi_fi_driver) - [Reverse engineering ESP32 Wi-Fi driver: the road ahead](https://esp32-open-mac.be/posts/0005-the-road-ahead/)
 * [2024-05-24, 09:54:48](https://lobste.rs/s/9ykefg/what_is_collision) - [What is a collision?](https://www.sassnow.ski/rigid-body-collisions/1)
 * [2024-05-24, 09:14:31](https://lobste.rs/s/cqkura/privacy_human_rights_tornado_cash) - [Privacy, human rights, and Tornado Cash](https://www.citationneeded.news/tornado-cash/)
 * [2024-05-24, 07:50:51](https://lobste.rs/s/ewkvmy/crawlee_crawlee_build_reliable_crawlers) - [crawlee: Crawlee—build reliable crawlers.  Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP](https://github.com/apify/crawlee)
