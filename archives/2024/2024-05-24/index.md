@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-24](index.md)
 
+* [2024-05-24, 09:54:48](https://lobste.rs/s/9ykefg/what_is_collision) - [What is a collision?](https://www.sassnow.ski/rigid-body-collisions/1)
 * [2024-05-24, 09:14:31](https://lobste.rs/s/cqkura/privacy_human_rights_tornado_cash) - [Privacy, human rights, and Tornado Cash](https://www.citationneeded.news/tornado-cash/)
 * [2024-05-24, 07:50:51](https://lobste.rs/s/ewkvmy/crawlee_crawlee_build_reliable_crawlers) - [crawlee: Crawlee—build reliable crawlers.  Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP](https://github.com/apify/crawlee)
 * [2024-05-24, 06:51:18](https://lobste.rs/s/g6wbgw/voxel_displacement_renderer) - [Voxel Displacement Renderer — Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
