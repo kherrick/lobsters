@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-24, 01:03:59](https://lobste.rs/s/3bfqlr/call_compiler_fax_it_your_code) - [Call the compiler, fax it your code](https://www.youtube.com/watch?v=pJ-25-pRhpY)
 * [2024-05-23, 22:26:39](https://lobste.rs/s/3rsacs/apple_password_manager_resources) - [apple/password-manager-resources: website datasets for password managers](https://github.com/apple/password-manager-resources)
 * [2024-05-23, 21:14:57](https://lobste.rs/s/ppahhr/getting_xxe_web_browsers_using_chatgpt) - [Getting XXE in Web Browsers using ChatGPT](https://swarm.ptsecurity.com/xxe-chrome-safari-chatgpt/)
 * [2024-05-23, 21:09:15](https://lobste.rs/s/rp9rzq/pyastgrep_custom_linting) - [pyastgrep and custom linting](https://lukeplant.me.uk/blog/posts/pyastgrep-and-custom-linting/)
@@ -23,7 +24,6 @@
 * [2024-05-22, 13:37:18](https://lobste.rs/s/u28st4/why_not_just_do_simple_c_raii_c) - [Why Not Just Do Simple C++ RAII in C?](https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it)
 * [2024-05-22, 13:33:56](https://lobste.rs/s/6mg14t/prefer_noun_adjective_naming) - [Prefer Noun-Adjective Naming](https://kyleshevlin.com/prefer-noun-adjective-naming/)
 * [2024-05-22, 10:36:22](https://lobste.rs/s/rllkpz/book_recommendation_for_new_programmers) - [Book recommendation for new programmers](https://lobste.rs/s/rllkpz/book_recommendation_for_new_programmers)
-* [2024-05-22, 09:34:11](https://lobste.rs/s/hxijdq/curious_case_missing_period) - [The curious case of the missing period](https://tjaart.substack.com/p/the-curious-case-of-the-missing-period)
 * [2024-05-22, 08:57:16](https://lobste.rs/s/ovlpy0/here_s_what_we_re_working_on_firefox) - [Here’s what we’re working on in Firefox](https://connect.mozilla.org/t5/discussions/here-s-what-we-re-working-on-in-firefox/td-p/57694)
 
 ## [Archives](archives/index.md)
