@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-24, 17:25:04",
+      "https://lobste.rs/s/yraxup/ssh_authentication_via_yubikeys"
+    ],
+    [
+      "ssh authentication via Yubikeys",
+      "https://feldspaten.org/2024/02/03/ssh-authentication-via-Yubikeys/"
+    ]
+  ],
+  [
+    [
       "2024-05-24, 17:05:51",
       "https://lobste.rs/s/18exme/not_quite_open_source_1999"
     ],
@@ -207,16 +217,6 @@
     [
       "Willow Sideloading Protocol",
       "https://willowprotocol.org/specs/sideloading"
-    ]
-  ],
-  [
-    [
-      "2024-05-23, 11:13:44",
-      "https://lobste.rs/s/stwdsy/common_lisp_is_not_single_language_many"
-    ],
-    [
-      "Common Lisp is Not a Single Language, but Many",
-      "https://aartaka.me/cl-is-lots"
     ]
   ],
   [
