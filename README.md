@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-24, 04:20:12](https://lobste.rs/s/eqbpqg/bitkeeper_linux_licensing_disputes_how) - [BitKeeper, Linux, and licensing disputes: How Linus wrote Git in 14 days](https://graphite.dev/blog/bitkeeper-linux-story-of-git-creation)
 * [2024-05-24, 02:13:27](https://lobste.rs/s/gjqsog/golden_gate_claude) - [Golden Gate Claude](https://www.anthropic.com/news/golden-gate-claude)
 * [2024-05-24, 01:03:59](https://lobste.rs/s/3bfqlr/call_compiler_fax_it_your_code) - [Call the compiler, fax it your code](https://www.youtube.com/watch?v=pJ-25-pRhpY)
 * [2024-05-23, 22:26:39](https://lobste.rs/s/3rsacs/apple_password_manager_resources) - [apple/password-manager-resources: website datasets for password managers](https://github.com/apple/password-manager-resources)
@@ -18,7 +19,6 @@
 * [2024-05-23, 05:16:51](https://lobste.rs/s/nvmrfz/grand_unified_theory_ai_hype_cycle) - [A Grand Unified Theory of the AI Hype Cycle](https://blog.glyph.im/2024/05/grand-unified-ai-hype.html)
 * [2024-05-23, 04:27:53](https://lobste.rs/s/xgeotm/no_wrong_doors) - [No Wrong Doors](https://lethain.com/no-wrong-doors/)
 * [2024-05-22, 20:35:30](https://lobste.rs/s/gxr1bh/replacing_pyinstaller_with_100_lines) - [Replacing pyinstaller with 100 lines of code](https://tushar.lol/post/packaged/)
-* [2024-05-22, 20:07:44](https://lobste.rs/s/mwrsor/compilerfax_sending_c_source_code_via) - [CompilerFax: Sending C source code via telefax to a compiler-as-a-service](https://chaos.social/@LaF0rge/112486079122303420)
 * [2024-05-22, 18:41:54](https://lobste.rs/s/fekcju/visions_future_formal_verification_rust) - [Visions of the future: formal verification in Rust](https://xav.io/blog/rust-formal-verification/)
 * [2024-05-22, 16:02:23](https://lobste.rs/s/shrc35/queueing_interactive_study_queueing) - [Queueing - an interactive study of queueing strategies](https://encore.dev/blog/queueing)
 * [2024-05-22, 13:37:18](https://lobste.rs/s/u28st4/why_not_just_do_simple_c_raii_c) - [Why Not Just Do Simple C++ RAII in C?](https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it)
