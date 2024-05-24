@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-24, 15:50:02](https://lobste.rs/s/0iskz9/exploring_seamless_rust_interop_for) - [Exploring Seamless Rust Interop for Newer Languages, Part 1](https://verdagon.dev/blog/exploring-seamless-rust-interop-part-1)
 * [2024-05-24, 15:06:52](https://lobste.rs/s/wilgi9/ndindex_python_library_for_manipulating) - [ndindex: A Python library for manipulating indices of ndarrays](https://quansight-labs.github.io/ndindex/)
 * [2024-05-24, 11:02:28](https://lobste.rs/s/yrdymt/hoot_s_wasm_toolkit) - [hoot's wasm toolkit](https://wingolog.org/archives/2024/05/24/hoots-wasm-toolkit)
 * [2024-05-24, 10:45:46](https://lobste.rs/s/bkq78k/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/bkq78k/what_are_you_doing_this_weekend)
@@ -17,7 +18,6 @@
 * [2024-05-23, 21:07:37](https://lobste.rs/s/hphovk/statically_typed_functional) - [Statically Typed Functional Programming with Python 3.12](https://wickstrom.tech/2024-05-23-statically-typed-functional-programming-python-312.html)
 * [2024-05-23, 19:39:46](https://lobste.rs/s/pn7w0m/how_shrink_root_filesystem_without) - [How to shrink root filesystem without booting a livecd](https://unix.stackexchange.com/a/227318)
 * [2024-05-23, 16:02:20](https://lobste.rs/s/j88q6b/samsung_requires_independent_repair) - [Samsung Requires Independent Repair Shops to Share Customer Data, Snitch on People Who Use Aftermarket Parts, Leaked Contract Shows](https://www.404media.co/samsung-requires-independent-repair-shops-to-share-customer-data-snitch-on-people-who-use-aftermarket-parts-leaked-contract-shows/)
-* [2024-05-23, 16:01:57](https://lobste.rs/s/oiwg0s/teslas_can_still_be_stolen_with_cheap) - [Teslas Can Still Be Stolen With a Cheap Radio Hack—Despite New Keyless Tech](https://www.wired.com/story/tesla-ultra-wideband-radio-relay-attacks/)
 * [2024-05-23, 13:20:03](https://lobste.rs/s/lzq8dk/embedded_drawing_tool_for_emacs) - [Embedded drawing tool for Emacs](https://github.com/misohena/el-easydraw)
 * [2024-05-23, 12:07:43](https://lobste.rs/s/ragpgp/willow_sideloading_protocol) - [Willow Sideloading Protocol](https://willowprotocol.org/specs/sideloading)
 * [2024-05-23, 11:13:44](https://lobste.rs/s/stwdsy/common_lisp_is_not_single_language_many) - [Common Lisp is Not a Single Language, but Many](https://aartaka.me/cl-is-lots)
