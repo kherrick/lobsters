@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-24](index.md)
 
+* [2024-05-24, 07:50:51](https://lobste.rs/s/ewkvmy/crawlee_crawlee_build_reliable_crawlers) - [crawlee: Crawlee—build reliable crawlers.  Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP](https://github.com/apify/crawlee)
 * [2024-05-24, 06:51:18](https://lobste.rs/s/g6wbgw/voxel_displacement_renderer) - [Voxel Displacement Renderer — Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
 * [2024-05-24, 04:20:12](https://lobste.rs/s/eqbpqg/bitkeeper_linux_licensing_disputes_how) - [BitKeeper, Linux, and licensing disputes: How Linus wrote Git in 14 days](https://graphite.dev/blog/bitkeeper-linux-story-of-git-creation)
 * [2024-05-24, 02:13:27](https://lobste.rs/s/gjqsog/golden_gate_claude) - [Golden Gate Claude](https://www.anthropic.com/news/golden-gate-claude)
