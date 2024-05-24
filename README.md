@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-24, 02:13:27](https://lobste.rs/s/gjqsog/golden_gate_claude) - [Golden Gate Claude](https://www.anthropic.com/news/golden-gate-claude)
 * [2024-05-24, 01:03:59](https://lobste.rs/s/3bfqlr/call_compiler_fax_it_your_code) - [Call the compiler, fax it your code](https://www.youtube.com/watch?v=pJ-25-pRhpY)
 * [2024-05-23, 22:26:39](https://lobste.rs/s/3rsacs/apple_password_manager_resources) - [apple/password-manager-resources: website datasets for password managers](https://github.com/apple/password-manager-resources)
 * [2024-05-23, 21:14:57](https://lobste.rs/s/ppahhr/getting_xxe_web_browsers_using_chatgpt) - [Getting XXE in Web Browsers using ChatGPT](https://swarm.ptsecurity.com/xxe-chrome-safari-chatgpt/)
@@ -20,7 +21,6 @@
 * [2024-05-22, 20:07:44](https://lobste.rs/s/mwrsor/compilerfax_sending_c_source_code_via) - [CompilerFax: Sending C source code via telefax to a compiler-as-a-service](https://chaos.social/@LaF0rge/112486079122303420)
 * [2024-05-22, 18:41:54](https://lobste.rs/s/fekcju/visions_future_formal_verification_rust) - [Visions of the future: formal verification in Rust](https://xav.io/blog/rust-formal-verification/)
 * [2024-05-22, 16:02:23](https://lobste.rs/s/shrc35/queueing_interactive_study_queueing) - [Queueing - an interactive study of queueing strategies](https://encore.dev/blog/queueing)
-* [2024-05-22, 14:00:29](https://lobste.rs/s/avwjeh/alpine_3_20_0_released) - [Alpine 3.20.0 released](https://alpinelinux.org/posts/Alpine-3.20.0-released.html)
 * [2024-05-22, 13:37:18](https://lobste.rs/s/u28st4/why_not_just_do_simple_c_raii_c) - [Why Not Just Do Simple C++ RAII in C?](https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it)
 * [2024-05-22, 13:33:56](https://lobste.rs/s/6mg14t/prefer_noun_adjective_naming) - [Prefer Noun-Adjective Naming](https://kyleshevlin.com/prefer-noun-adjective-naming/)
 * [2024-05-22, 10:36:22](https://lobste.rs/s/rllkpz/book_recommendation_for_new_programmers) - [Book recommendation for new programmers](https://lobste.rs/s/rllkpz/book_recommendation_for_new_programmers)
