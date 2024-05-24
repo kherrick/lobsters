@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-24](index.md)
 
+* [2024-05-24, 11:26:17](https://lobste.rs/s/vckwrm/i_m_leaving_reddit_for_good_this_is_why) - [I'm Leaving Reddit for Good and This Is Why](https://karl-voit.at/2024/05/23/leaving-reddit/)
 * [2024-05-24, 11:02:28](https://lobste.rs/s/yrdymt/hoot_s_wasm_toolkit) - [hoot's wasm toolkit](https://wingolog.org/archives/2024/05/24/hoots-wasm-toolkit)
 * [2024-05-24, 10:45:46](https://lobste.rs/s/bkq78k/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/bkq78k/what_are_you_doing_this_weekend)
 * [2024-05-24, 10:39:52](https://lobste.rs/s/rcrhsy/reverse_engineering_esp32_wi_fi_driver) - [Reverse engineering ESP32 Wi-Fi driver: the road ahead](https://esp32-open-mac.be/posts/0005-the-road-ahead/)
