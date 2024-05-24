@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-24, 19:07:01",
+      "https://lobste.rs/s/ouvwif/melange_4_0_is_here"
+    ],
+    [
+      "Melange 4.0 is here",
+      "https://melange.re/blog/posts/melange-4-is-here"
+    ]
+  ],
+  [
+    [
       "2024-05-24, 17:25:04",
       "https://lobste.rs/s/yraxup/ssh_authentication_via_yubikeys"
     ],
@@ -157,16 +167,6 @@
     [
       "apple/password-manager-resources: website datasets for password managers",
       "https://github.com/apple/password-manager-resources"
-    ]
-  ],
-  [
-    [
-      "2024-05-23, 21:14:57",
-      "https://lobste.rs/s/ppahhr/getting_xxe_web_browsers_using_chatgpt"
-    ],
-    [
-      "Getting XXE in Web Browsers using ChatGPT",
-      "https://swarm.ptsecurity.com/xxe-chrome-safari-chatgpt/"
     ]
   ],
   [
