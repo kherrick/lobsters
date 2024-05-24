@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-24, 17:05:51](https://lobste.rs/s/18exme/not_quite_open_source_1999) - [Not quite Open Source (1999)](https://lwn.net/1999/features/BitKeeper.php3)
+* [2024-05-24, 16:58:22](https://lobste.rs/s/rsmbr2/samsung_wb850f_camera_firmware_reverse) - [Samsung WB850F Camera Firmware Reverse-Engineering](https://op-co.de/blog/posts/samsung_wb850f_firmware/)
 * [2024-05-24, 15:50:02](https://lobste.rs/s/0iskz9/exploring_seamless_rust_interop_for) - [Exploring Seamless Rust Interop for Newer Languages, Part 1](https://verdagon.dev/blog/exploring-seamless-rust-interop-part-1)
 * [2024-05-24, 15:06:52](https://lobste.rs/s/wilgi9/ndindex_python_library_for_manipulating) - [ndindex: A Python library for manipulating indices of ndarrays](https://quansight-labs.github.io/ndindex/)
 * [2024-05-24, 11:02:28](https://lobste.rs/s/yrdymt/hoot_s_wasm_toolkit) - [hoot's wasm toolkit](https://wingolog.org/archives/2024/05/24/hoots-wasm-toolkit)
@@ -16,7 +18,6 @@
 * [2024-05-23, 21:14:57](https://lobste.rs/s/ppahhr/getting_xxe_web_browsers_using_chatgpt) - [Getting XXE in Web Browsers using ChatGPT](https://swarm.ptsecurity.com/xxe-chrome-safari-chatgpt/)
 * [2024-05-23, 21:09:15](https://lobste.rs/s/rp9rzq/pyastgrep_custom_linting) - [pyastgrep and custom linting](https://lukeplant.me.uk/blog/posts/pyastgrep-and-custom-linting/)
 * [2024-05-23, 21:07:37](https://lobste.rs/s/hphovk/statically_typed_functional) - [Statically Typed Functional Programming with Python 3.12](https://wickstrom.tech/2024-05-23-statically-typed-functional-programming-python-312.html)
-* [2024-05-23, 19:39:46](https://lobste.rs/s/pn7w0m/how_shrink_root_filesystem_without) - [How to shrink root filesystem without booting a livecd](https://unix.stackexchange.com/a/227318)
 * [2024-05-23, 16:02:20](https://lobste.rs/s/j88q6b/samsung_requires_independent_repair) - [Samsung Requires Independent Repair Shops to Share Customer Data, Snitch on People Who Use Aftermarket Parts, Leaked Contract Shows](https://www.404media.co/samsung-requires-independent-repair-shops-to-share-customer-data-snitch-on-people-who-use-aftermarket-parts-leaked-contract-shows/)
 * [2024-05-23, 13:20:03](https://lobste.rs/s/lzq8dk/embedded_drawing_tool_for_emacs) - [Embedded drawing tool for Emacs](https://github.com/misohena/el-easydraw)
 * [2024-05-23, 12:07:43](https://lobste.rs/s/ragpgp/willow_sideloading_protocol) - [Willow Sideloading Protocol](https://willowprotocol.org/specs/sideloading)
@@ -24,7 +25,6 @@
 * [2024-05-23, 05:16:51](https://lobste.rs/s/nvmrfz/grand_unified_theory_ai_hype_cycle) - [A Grand Unified Theory of the AI Hype Cycle](https://blog.glyph.im/2024/05/grand-unified-ai-hype.html)
 * [2024-05-23, 04:27:53](https://lobste.rs/s/xgeotm/no_wrong_doors) - [No Wrong Doors](https://lethain.com/no-wrong-doors/)
 * [2024-05-22, 16:02:23](https://lobste.rs/s/shrc35/queueing_interactive_study_queueing) - [Queueing - an interactive study of queueing strategies](https://encore.dev/blog/queueing)
-* [2024-05-22, 13:33:56](https://lobste.rs/s/6mg14t/prefer_noun_adjective_naming) - [Prefer Noun-Adjective Naming](https://kyleshevlin.com/prefer-noun-adjective-naming/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-24](index.md)
 
+* [2024-05-24, 17:05:51](https://lobste.rs/s/18exme/not_quite_open_source_1999) - [Not quite Open Source (1999)](https://lwn.net/1999/features/BitKeeper.php3)
+* [2024-05-24, 16:58:22](https://lobste.rs/s/rsmbr2/samsung_wb850f_camera_firmware_reverse) - [Samsung WB850F Camera Firmware Reverse-Engineering](https://op-co.de/blog/posts/samsung_wb850f_firmware/)
 * [2024-05-24, 15:50:02](https://lobste.rs/s/0iskz9/exploring_seamless_rust_interop_for) - [Exploring Seamless Rust Interop for Newer Languages, Part 1](https://verdagon.dev/blog/exploring-seamless-rust-interop-part-1)
 * [2024-05-24, 15:06:52](https://lobste.rs/s/wilgi9/ndindex_python_library_for_manipulating) - [ndindex: A Python library for manipulating indices of ndarrays](https://quansight-labs.github.io/ndindex/)
 * [2024-05-24, 11:26:17](https://lobste.rs/s/vckwrm/i_m_leaving_reddit_for_good_this_is_why) - [I'm Leaving Reddit for Good and This Is Why](https://karl-voit.at/2024/05/23/leaving-reddit/)
