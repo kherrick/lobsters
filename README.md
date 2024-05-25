@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-25, 20:31:05](https://lobste.rs/s/tyrrkf/clang_fret_clean_cleaning_return) - [clang -fret-clean: cleaning return addresses off stack](https://marc.info/?l=openbsd-tech&m=171661784618821&w=2)
+* [2024-05-25, 20:27:47](https://lobste.rs/s/lps7qx/taming_floating_point_sums) - [Taming Floating-Point Sums](https://orlp.net/blog/taming-float-sums/)
 * [2024-05-25, 20:12:53](https://lobste.rs/s/2jpbgp/extend_your_battery_life_with_scx) - [Extend your battery life with scx_rustland](https://arighi.blogspot.com/2024/05/extend-your-battery-life-with.html)
 * [2024-05-25, 19:49:58](https://lobste.rs/s/k8dwbj/converting_cisco_7609_into_beer_tap_2021) - [Converting a Cisco 7609 into a beer tap (2021)](https://blog.jonasbengtson.se/cisco-7609-beer-tap)
 * [2024-05-25, 18:35:39](https://lobste.rs/s/xtvulw/tpm_performance) - [TPM Performance :(](https://stiankri.substack.com/p/tpm-performance)
@@ -14,7 +16,6 @@
 * [2024-05-25, 10:28:39](https://lobste.rs/s/i3ox7c/if_you_wish_truly_understand_frappe_s) - [If You Wish to Truly Understand Frappe's Scheduler, You Must First Invent the Universe](https://frappe.io/blog/engineering/if-you-wish-to-truly-understand-frappes-scheduler-you-must-first-invent-the-universe)
 * [2024-05-25, 08:52:36](https://lobste.rs/s/mswqnt/don_t_microservice_do_module) - [Don't Microservice, Do Module](https://yekta.dev/posts/dont-microservice-do-module/)
 * [2024-05-25, 07:17:57](https://lobste.rs/s/nvv46t/using_jai_s_unique_powerful_compiler_for) - [Using Jai's Unique and Powerful Compiler for Typesafe Units](https://www.forrestthewoods.com/blog/using-jais-unique-and-powerful-compiler-for-typesafe-units/)
-* [2024-05-25, 06:58:19](https://lobste.rs/s/rtub8w/consensus_internet_standards) - [Consensus in Internet Standards](https://www.mnot.net/blog/2024/05/24/consensus)
 * [2024-05-25, 05:05:41](https://lobste.rs/s/qeeoxu/go_1_23_go_linkname_changes) - [Go 1.23 and go:linkname changes](https://utcc.utoronto.ca/~cks/space/blog/programming/Go123LinknameComingProblem)
 * [2024-05-25, 03:54:42](https://lobste.rs/s/tam5qb/don_knuth_s_mip_64_years_later) - [Don Knuth’s MIP, 64 years later](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
 * [2024-05-25, 00:21:35](https://lobste.rs/s/vwndwv/analytical_methods_for_dynamic) - [Analytical Methods for Dynamic Simulation of Non-penetrating Rigid Bodies](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a02843095948be29664b48c3338791ec05dcf52c)
@@ -24,7 +25,6 @@
 * [2024-05-24, 15:50:02](https://lobste.rs/s/0iskz9/exploring_seamless_rust_interop_for) - [Exploring Seamless Rust Interop for Newer Languages, Part 1](https://verdagon.dev/blog/exploring-seamless-rust-interop-part-1)
 * [2024-05-24, 10:39:52](https://lobste.rs/s/rcrhsy/reverse_engineering_esp32_wi_fi_driver) - [Reverse engineering ESP32 Wi-Fi driver: the road ahead](https://esp32-open-mac.be/posts/0005-the-road-ahead/)
 * [2024-05-24, 06:51:18](https://lobste.rs/s/g6wbgw/voxel_displacement_renderer) - [Voxel Displacement Renderer — Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
-* [2024-05-23, 21:07:37](https://lobste.rs/s/hphovk/statically_typed_functional) - [Statically Typed Functional Programming with Python 3.12](https://wickstrom.tech/2024-05-23-statically-typed-functional-programming-python-312.html)
 
 ## [Archives](archives/index.md)
 
