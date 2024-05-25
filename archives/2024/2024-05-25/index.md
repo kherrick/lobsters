@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-25](index.md)
 
+* [2024-05-25, 22:50:45](https://lobste.rs/s/zo2ofj/superhuman_what_does_it_mean_for_ai_be) - [Superhuman?: What does it mean for AI to be better than a human? And how can we tell?](https://www.oneusefulthing.org/p/superhuman)
 * [2024-05-25, 20:31:05](https://lobste.rs/s/tyrrkf/clang_fret_clean_cleaning_return) - [clang -fret-clean: cleaning return addresses off stack](https://marc.info/?l=openbsd-tech&m=171661784618821&w=2)
 * [2024-05-25, 20:27:47](https://lobste.rs/s/lps7qx/taming_floating_point_sums) - [Taming Floating-Point Sums](https://orlp.net/blog/taming-float-sums/)
 * [2024-05-25, 20:12:53](https://lobste.rs/s/2jpbgp/extend_your_battery_life_with_scx) - [Extend your battery life with scx_rustland](https://arighi.blogspot.com/2024/05/extend-your-battery-life-with.html)
