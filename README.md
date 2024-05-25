@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-25, 18:09:07](https://lobste.rs/s/o2mynl/tmux_is_worse_is_better) - [tmux is worse is better](https://hiandrewquinn.github.io/til-site/posts/tmux-is-worse-is-better/)
 * [2024-05-25, 17:38:43](https://lobste.rs/s/gfswxg/mathematical_foundations_for) - [Mathematical Foundations for a Compositional Distributional Model of Meaning (2010)](https://arxiv.org/pdf/1003.4394v1)
 * [2024-05-25, 13:57:46](https://lobste.rs/s/iarzlo/new_way_bring_garbage_collected) - [A new way to bring garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
 * [2024-05-25, 13:45:07](https://lobste.rs/s/49sexw/documenting_my_dns_records) - [Documenting my DNS records](https://alexwlchan.net/2024/documenting-my-dns/)
@@ -18,7 +19,6 @@
 * [2024-05-24, 19:45:26](https://lobste.rs/s/hts9sk/details_google_cloud_gcve_incident) - [Details of Google Cloud GCVE incident (UniSuper deletion)](https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/)
 * [2024-05-24, 19:07:01](https://lobste.rs/s/ouvwif/melange_4_0_is_here) - [Melange 4.0 is here](https://melange.re/blog/posts/melange-4-is-here)
 * [2024-05-24, 17:25:04](https://lobste.rs/s/yraxup/ssh_authentication_via_yubikeys) - [ssh authentication via Yubikeys](https://feldspaten.org/2024/02/03/ssh-authentication-via-Yubikeys/)
-* [2024-05-24, 17:05:51](https://lobste.rs/s/18exme/not_quite_open_source_1999) - [Not quite Open Source (1999)](https://lwn.net/1999/features/BitKeeper.php3)
 * [2024-05-24, 15:50:02](https://lobste.rs/s/0iskz9/exploring_seamless_rust_interop_for) - [Exploring Seamless Rust Interop for Newer Languages, Part 1](https://verdagon.dev/blog/exploring-seamless-rust-interop-part-1)
 * [2024-05-24, 11:02:28](https://lobste.rs/s/yrdymt/hoot_s_wasm_toolkit) - [hoot's wasm toolkit](https://wingolog.org/archives/2024/05/24/hoots-wasm-toolkit)
 * [2024-05-24, 10:39:52](https://lobste.rs/s/rcrhsy/reverse_engineering_esp32_wi_fi_driver) - [Reverse engineering ESP32 Wi-Fi driver: the road ahead](https://esp32-open-mac.be/posts/0005-the-road-ahead/)
