@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-25, 06:58:19",
+      "https://lobste.rs/s/rtub8w/consensus_internet_standards"
+    ],
+    [
+      "Consensus in Internet Standards",
+      "https://www.mnot.net/blog/2024/05/24/consensus"
+    ]
+  ],
+  [
+    [
       "2024-05-25, 06:30:49",
       "https://lobste.rs/s/msuonv/linux_as_new_developer_default_at"
     ],
@@ -37,16 +47,6 @@
     [
       "Analytical Methods for Dynamic Simulation of Non-penetrating Rigid Bodies",
       "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a02843095948be29664b48c3338791ec05dcf52c"
-    ]
-  ],
-  [
-    [
-      "2024-05-24, 21:18:57",
-      "https://lobste.rs/s/5qsbx5/atomic_polling_intervals_for_highly"
-    ],
-    [
-      "Atomic Polling Intervals for Highly Concurrent Workloads",
-      "https://www.byronwasti.com/polling-atomics/"
     ]
   ],
   [
