@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-25, 06:58:19](https://lobste.rs/s/rtub8w/consensus_internet_standards) - [Consensus in Internet Standards](https://www.mnot.net/blog/2024/05/24/consensus)
 * [2024-05-25, 06:30:49](https://lobste.rs/s/msuonv/linux_as_new_developer_default_at) - [Linux as the new developer default at 37signals](https://world.hey.com/dhh/linux-as-the-new-developer-default-at-37signals-ef0823b7)
 * [2024-05-25, 05:05:41](https://lobste.rs/s/qeeoxu/go_1_23_go_linkname_changes) - [Go 1.23 and go:linkname changes](https://utcc.utoronto.ca/~cks/space/blog/programming/Go123LinknameComingProblem)
 * [2024-05-25, 03:54:42](https://lobste.rs/s/tam5qb/don_knuth_s_mip_64_years_later) - [Don Knuth’s MIP, 64 years later](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
 * [2024-05-25, 00:21:35](https://lobste.rs/s/vwndwv/analytical_methods_for_dynamic) - [Analytical Methods for Dynamic Simulation of Non-penetrating Rigid Bodies](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a02843095948be29664b48c3338791ec05dcf52c)
-* [2024-05-24, 21:18:57](https://lobste.rs/s/5qsbx5/atomic_polling_intervals_for_highly) - [Atomic Polling Intervals for Highly Concurrent Workloads](https://www.byronwasti.com/polling-atomics/)
 * [2024-05-24, 20:11:30](https://lobste.rs/s/xmlwxw/when_allocating_unused_memory_boosts) - [When allocating unused memory boosts performance by 2x](https://quickwit.io/blog/performance-investigation)
 * [2024-05-24, 19:45:26](https://lobste.rs/s/hts9sk/details_google_cloud_gcve_incident) - [Details of Google Cloud GCVE incident (UniSuper deletion)](https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/)
 * [2024-05-24, 19:07:01](https://lobste.rs/s/ouvwif/melange_4_0_is_here) - [Melange 4.0 is here](https://melange.re/blog/posts/melange-4-is-here)
