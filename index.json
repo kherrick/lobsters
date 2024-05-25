@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-25, 05:05:41",
+      "https://lobste.rs/s/qeeoxu/go_1_23_go_linkname_changes"
+    ],
+    [
+      "Go 1.23 and go:linkname changes",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/Go123LinknameComingProblem"
+    ]
+  ],
+  [
+    [
       "2024-05-25, 03:54:42",
       "https://lobste.rs/s/tam5qb/don_knuth_s_mip_64_years_later"
     ],
@@ -77,16 +87,6 @@
     [
       "Not quite Open Source (1999)",
       "https://lwn.net/1999/features/BitKeeper.php3"
-    ]
-  ],
-  [
-    [
-      "2024-05-24, 16:58:22",
-      "https://lobste.rs/s/rsmbr2/samsung_wb850f_camera_firmware_reverse"
-    ],
-    [
-      "Samsung WB850F Camera Firmware Reverse-Engineering",
-      "https://op-co.de/blog/posts/samsung_wb850f_firmware/"
     ]
   ],
   [
