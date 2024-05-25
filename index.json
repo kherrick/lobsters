@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-25, 19:49:58",
+      "https://lobste.rs/s/k8dwbj/converting_cisco_7609_into_beer_tap_2021"
+    ],
+    [
+      "Converting a Cisco 7609 into a beer tap (2021)",
+      "https://blog.jonasbengtson.se/cisco-7609-beer-tap"
+    ]
+  ],
+  [
+    [
       "2024-05-25, 18:35:39",
       "https://lobste.rs/s/xtvulw/tpm_performance"
     ],
@@ -197,16 +207,6 @@
     [
       "Exploring Seamless Rust Interop for Newer Languages, Part 1",
       "https://verdagon.dev/blog/exploring-seamless-rust-interop-part-1"
-    ]
-  ],
-  [
-    [
-      "2024-05-24, 11:02:28",
-      "https://lobste.rs/s/yrdymt/hoot_s_wasm_toolkit"
-    ],
-    [
-      "hoot's wasm toolkit",
-      "https://wingolog.org/archives/2024/05/24/hoots-wasm-toolkit"
     ]
   ],
   [
