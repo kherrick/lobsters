@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-25, 11:41:05](https://lobste.rs/s/t6pdiz/feed_blogrolls_discovery) - [Feed and Blogrolls Discovery](https://andregarzia.com/2024/05/feed-and-blogrolls-discovery.html)
 * [2024-05-25, 10:37:10](https://lobste.rs/s/bikpmo/russh_rust_ssh_client_server_library) - [russh: Rust SSH client & server library](https://github.com/warp-tech/russh)
 * [2024-05-25, 10:28:39](https://lobste.rs/s/i3ox7c/if_you_wish_truly_understand_frappe_s) - [If You Wish to Truly Understand Frappe's Scheduler, You Must First Invent the Universe](https://frappe.io/blog/engineering/if-you-wish-to-truly-understand-frappes-scheduler-you-must-first-invent-the-universe)
 * [2024-05-25, 08:52:36](https://lobste.rs/s/mswqnt/don_t_microservice_do_module) - [Don't Microservice, Do Module](https://yekta.dev/posts/dont-microservice-do-module/)
@@ -14,7 +15,6 @@
 * [2024-05-24, 19:07:01](https://lobste.rs/s/ouvwif/melange_4_0_is_here) - [Melange 4.0 is here](https://melange.re/blog/posts/melange-4-is-here)
 * [2024-05-24, 17:25:04](https://lobste.rs/s/yraxup/ssh_authentication_via_yubikeys) - [ssh authentication via Yubikeys](https://feldspaten.org/2024/02/03/ssh-authentication-via-Yubikeys/)
 * [2024-05-24, 17:05:51](https://lobste.rs/s/18exme/not_quite_open_source_1999) - [Not quite Open Source (1999)](https://lwn.net/1999/features/BitKeeper.php3)
-* [2024-05-24, 16:58:22](https://lobste.rs/s/rsmbr2/samsung_wb850f_camera_firmware_reverse) - [Samsung WB850F Camera Firmware Reverse-Engineering](https://op-co.de/blog/posts/samsung_wb850f_firmware/)
 * [2024-05-24, 15:50:02](https://lobste.rs/s/0iskz9/exploring_seamless_rust_interop_for) - [Exploring Seamless Rust Interop for Newer Languages, Part 1](https://verdagon.dev/blog/exploring-seamless-rust-interop-part-1)
 * [2024-05-24, 11:02:28](https://lobste.rs/s/yrdymt/hoot_s_wasm_toolkit) - [hoot's wasm toolkit](https://wingolog.org/archives/2024/05/24/hoots-wasm-toolkit)
 * [2024-05-24, 10:45:46](https://lobste.rs/s/bkq78k/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/bkq78k/what_are_you_doing_this_weekend)
