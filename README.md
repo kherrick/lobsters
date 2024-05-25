@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-25, 03:54:42](https://lobste.rs/s/tam5qb/don_knuth_s_mip_64_years_later) - [Don Knuth’s MIP, 64 years later](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
 * [2024-05-25, 00:21:35](https://lobste.rs/s/vwndwv/analytical_methods_for_dynamic) - [Analytical Methods for Dynamic Simulation of Non-penetrating Rigid Bodies](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a02843095948be29664b48c3338791ec05dcf52c)
 * [2024-05-24, 21:18:57](https://lobste.rs/s/5qsbx5/atomic_polling_intervals_for_highly) - [Atomic Polling Intervals for Highly Concurrent Workloads](https://www.byronwasti.com/polling-atomics/)
 * [2024-05-24, 20:11:30](https://lobste.rs/s/xmlwxw/when_allocating_unused_memory_boosts) - [When allocating unused memory boosts performance by 2x](https://quickwit.io/blog/performance-investigation)
@@ -18,7 +19,6 @@
 * [2024-05-24, 06:51:18](https://lobste.rs/s/g6wbgw/voxel_displacement_renderer) - [Voxel Displacement Renderer — Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
 * [2024-05-24, 04:20:12](https://lobste.rs/s/eqbpqg/bitkeeper_linux_licensing_disputes_how) - [BitKeeper, Linux, and licensing disputes: How Linus wrote Git in 14 days](https://graphite.dev/blog/bitkeeper-linux-story-of-git-creation)
 * [2024-05-24, 02:13:27](https://lobste.rs/s/gjqsog/golden_gate_claude) - [Golden Gate Claude](https://www.anthropic.com/news/golden-gate-claude)
-* [2024-05-24, 01:03:59](https://lobste.rs/s/3bfqlr/call_compiler_fax_it_your_code) - [Call the compiler, fax it your code](https://www.youtube.com/watch?v=pJ-25-pRhpY)
 * [2024-05-23, 22:26:39](https://lobste.rs/s/3rsacs/apple_password_manager_resources) - [apple/password-manager-resources: website datasets for password managers](https://github.com/apple/password-manager-resources)
 * [2024-05-23, 21:07:37](https://lobste.rs/s/hphovk/statically_typed_functional) - [Statically Typed Functional Programming with Python 3.12](https://wickstrom.tech/2024-05-23-statically-typed-functional-programming-python-312.html)
 * [2024-05-23, 16:02:20](https://lobste.rs/s/j88q6b/samsung_requires_independent_repair) - [Samsung Requires Independent Repair Shops to Share Customer Data, Snitch on People Who Use Aftermarket Parts, Leaked Contract Shows](https://www.404media.co/samsung-requires-independent-repair-shops-to-share-customer-data-snitch-on-people-who-use-aftermarket-parts-leaked-contract-shows/)
