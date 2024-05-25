@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-25](index.md)
 
+* [2024-05-25, 20:12:53](https://lobste.rs/s/2jpbgp/extend_your_battery_life_with_scx) - [Extend your battery life with scx_rustland](https://arighi.blogspot.com/2024/05/extend-your-battery-life-with.html)
 * [2024-05-25, 19:49:58](https://lobste.rs/s/k8dwbj/converting_cisco_7609_into_beer_tap_2021) - [Converting a Cisco 7609 into a beer tap (2021)](https://blog.jonasbengtson.se/cisco-7609-beer-tap)
 * [2024-05-25, 18:35:39](https://lobste.rs/s/xtvulw/tpm_performance) - [TPM Performance :(](https://stiankri.substack.com/p/tpm-performance)
 * [2024-05-25, 18:09:07](https://lobste.rs/s/o2mynl/tmux_is_worse_is_better) - [tmux is worse is better](https://hiandrewquinn.github.io/til-site/posts/tmux-is-worse-is-better/)
