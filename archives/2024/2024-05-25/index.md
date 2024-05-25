@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-25](index.md)
 
+* [2024-05-25, 18:35:39](https://lobste.rs/s/xtvulw/tpm_performance) - [TPM Performance :(](https://stiankri.substack.com/p/tpm-performance)
 * [2024-05-25, 18:09:07](https://lobste.rs/s/o2mynl/tmux_is_worse_is_better) - [tmux is worse is better](https://hiandrewquinn.github.io/til-site/posts/tmux-is-worse-is-better/)
 * [2024-05-25, 17:38:43](https://lobste.rs/s/gfswxg/mathematical_foundations_for) - [Mathematical Foundations for a Compositional Distributional Model of Meaning (2010)](https://arxiv.org/pdf/1003.4394v1)
 * [2024-05-25, 13:57:46](https://lobste.rs/s/iarzlo/new_way_bring_garbage_collected) - [A new way to bring garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
