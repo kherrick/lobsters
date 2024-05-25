@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-25](index.md)
 
+* [2024-05-25, 13:57:46](https://lobste.rs/s/iarzlo/new_way_bring_garbage_collected) - [A new way to bring garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
 * [2024-05-25, 13:45:07](https://lobste.rs/s/49sexw/documenting_my_dns_records) - [Documenting my DNS records](https://alexwlchan.net/2024/documenting-my-dns/)
 * [2024-05-25, 13:35:42](https://lobste.rs/s/eegxuh/abusing_go_s_infrastructure) - [Abusing Go's infrastructure](https://reverse.put.as/2024/05/24/abusing-go-infrastructure/)
 * [2024-05-25, 13:16:12](https://lobste.rs/s/ob8uie/how_python_compares_floats_ints_when) - [How Python Compares Floats and Ints: When Equals Isn’t Really Equal](https://blog.codingconfessions.com/p/how-python-compares-floats-and-ints)
