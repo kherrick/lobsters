@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-25, 17:38:43](https://lobste.rs/s/gfswxg/mathematical_foundations_for) - [Mathematical Foundations for a Compositional Distributional Model of Meaning (2010)](https://arxiv.org/pdf/1003.4394v1)
 * [2024-05-25, 13:57:46](https://lobste.rs/s/iarzlo/new_way_bring_garbage_collected) - [A new way to bring garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
 * [2024-05-25, 13:45:07](https://lobste.rs/s/49sexw/documenting_my_dns_records) - [Documenting my DNS records](https://alexwlchan.net/2024/documenting-my-dns/)
 * [2024-05-25, 13:35:42](https://lobste.rs/s/eegxuh/abusing_go_s_infrastructure) - [Abusing Go's infrastructure](https://reverse.put.as/2024/05/24/abusing-go-infrastructure/)
@@ -23,7 +24,6 @@
 * [2024-05-24, 10:39:52](https://lobste.rs/s/rcrhsy/reverse_engineering_esp32_wi_fi_driver) - [Reverse engineering ESP32 Wi-Fi driver: the road ahead](https://esp32-open-mac.be/posts/0005-the-road-ahead/)
 * [2024-05-24, 06:51:18](https://lobste.rs/s/g6wbgw/voxel_displacement_renderer) - [Voxel Displacement Renderer — Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
 * [2024-05-24, 04:20:12](https://lobste.rs/s/eqbpqg/bitkeeper_linux_licensing_disputes_how) - [BitKeeper, Linux, and licensing disputes: How Linus wrote Git in 14 days](https://graphite.dev/blog/bitkeeper-linux-story-of-git-creation)
-* [2024-05-24, 02:13:27](https://lobste.rs/s/gjqsog/golden_gate_claude) - [Golden Gate Claude](https://www.anthropic.com/news/golden-gate-claude)
 * [2024-05-23, 21:07:37](https://lobste.rs/s/hphovk/statically_typed_functional) - [Statically Typed Functional Programming with Python 3.12](https://wickstrom.tech/2024-05-23-statically-typed-functional-programming-python-312.html)
 
 ## [Archives](archives/index.md)
