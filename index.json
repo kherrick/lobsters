@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-25, 13:57:46",
+      "https://lobste.rs/s/iarzlo/new_way_bring_garbage_collected"
+    ],
+    [
+      "A new way to bring garbage collected programming languages efficiently to WebAssembly",
+      "https://v8.dev/blog/wasm-gc-porting"
+    ]
+  ],
+  [
+    [
       "2024-05-25, 13:45:07",
       "https://lobste.rs/s/49sexw/documenting_my_dns_records"
     ],
@@ -117,16 +127,6 @@
     [
       "Analytical Methods for Dynamic Simulation of Non-penetrating Rigid Bodies",
       "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a02843095948be29664b48c3338791ec05dcf52c"
-    ]
-  ],
-  [
-    [
-      "2024-05-24, 20:11:30",
-      "https://lobste.rs/s/xmlwxw/when_allocating_unused_memory_boosts"
-    ],
-    [
-      "When allocating unused memory boosts performance by 2x",
-      "https://quickwit.io/blog/performance-investigation"
     ]
   ],
   [
