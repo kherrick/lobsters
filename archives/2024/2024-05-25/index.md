@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-25](index.md)
 
+* [2024-05-25, 13:16:12](https://lobste.rs/s/ob8uie/how_python_compares_floats_ints_when) - [How Python Compares Floats and Ints: When Equals Isn’t Really Equal](https://blog.codingconfessions.com/p/how-python-compares-floats-and-ints)
 * [2024-05-25, 11:41:05](https://lobste.rs/s/t6pdiz/feed_blogrolls_discovery) - [Feed and Blogrolls Discovery](https://andregarzia.com/2024/05/feed-and-blogrolls-discovery.html)
 * [2024-05-25, 10:37:10](https://lobste.rs/s/bikpmo/russh_rust_ssh_client_server_library) - [russh: Rust SSH client & server library](https://github.com/warp-tech/russh)
 * [2024-05-25, 10:28:39](https://lobste.rs/s/i3ox7c/if_you_wish_truly_understand_frappe_s) - [If You Wish to Truly Understand Frappe's Scheduler, You Must First Invent the Universe](https://frappe.io/blog/engineering/if-you-wish-to-truly-understand-frappes-scheduler-you-must-first-invent-the-universe)
