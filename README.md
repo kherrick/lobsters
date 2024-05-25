@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-25, 10:37:10](https://lobste.rs/s/bikpmo/russh_rust_ssh_client_server_library) - [russh: Rust SSH client & server library](https://github.com/warp-tech/russh)
 * [2024-05-25, 10:28:39](https://lobste.rs/s/i3ox7c/if_you_wish_truly_understand_frappe_s) - [If You Wish to Truly Understand Frappe's Scheduler, You Must First Invent the Universe](https://frappe.io/blog/engineering/if-you-wish-to-truly-understand-frappes-scheduler-you-must-first-invent-the-universe)
 * [2024-05-25, 08:52:36](https://lobste.rs/s/mswqnt/don_t_microservice_do_module) - [Don't Microservice, Do Module](https://yekta.dev/posts/dont-microservice-do-module/)
 * [2024-05-25, 07:17:57](https://lobste.rs/s/nvv46t/using_jai_s_unique_powerful_compiler_for) - [Using Jai's Unique and Powerful Compiler for Typesafe Units](https://www.forrestthewoods.com/blog/using-jais-unique-and-powerful-compiler-for-typesafe-units/)
@@ -24,7 +25,6 @@
 * [2024-05-24, 04:20:12](https://lobste.rs/s/eqbpqg/bitkeeper_linux_licensing_disputes_how) - [BitKeeper, Linux, and licensing disputes: How Linus wrote Git in 14 days](https://graphite.dev/blog/bitkeeper-linux-story-of-git-creation)
 * [2024-05-24, 02:13:27](https://lobste.rs/s/gjqsog/golden_gate_claude) - [Golden Gate Claude](https://www.anthropic.com/news/golden-gate-claude)
 * [2024-05-23, 21:07:37](https://lobste.rs/s/hphovk/statically_typed_functional) - [Statically Typed Functional Programming with Python 3.12](https://wickstrom.tech/2024-05-23-statically-typed-functional-programming-python-312.html)
-* [2024-05-23, 16:02:20](https://lobste.rs/s/j88q6b/samsung_requires_independent_repair) - [Samsung Requires Independent Repair Shops to Share Customer Data, Snitch on People Who Use Aftermarket Parts, Leaked Contract Shows](https://www.404media.co/samsung-requires-independent-repair-shops-to-share-customer-data-snitch-on-people-who-use-aftermarket-parts-leaked-contract-shows/)
 
 ## [Archives](archives/index.md)
 
