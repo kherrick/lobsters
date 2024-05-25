@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-25](index.md)
 
+* [2024-05-25, 13:45:07](https://lobste.rs/s/49sexw/documenting_my_dns_records) - [Documenting my DNS records](https://alexwlchan.net/2024/documenting-my-dns/)
 * [2024-05-25, 13:35:42](https://lobste.rs/s/eegxuh/abusing_go_s_infrastructure) - [Abusing Go's infrastructure](https://reverse.put.as/2024/05/24/abusing-go-infrastructure/)
 * [2024-05-25, 13:16:12](https://lobste.rs/s/ob8uie/how_python_compares_floats_ints_when) - [How Python Compares Floats and Ints: When Equals Isn’t Really Equal](https://blog.codingconfessions.com/p/how-python-compares-floats-and-ints)
 * [2024-05-25, 11:41:05](https://lobste.rs/s/t6pdiz/feed_blogrolls_discovery) - [Feed and Blogrolls Discovery](https://andregarzia.com/2024/05/feed-and-blogrolls-discovery.html)
