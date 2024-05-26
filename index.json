@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-05-26, 12:06:36",
-      "https://lobste.rs/s/9writm/privacy_is_myth_unless_you_re_using_zero"
-    ],
-    [
-      "Privacy Is A Myth. Unless You're Using Zero-Knowledge Proofs",
-      "https://illya.sh/blog/posts/privacy-is-a-myth-without-zero-knowledge-proofs/"
-    ]
-  ],
-  [
-    [
       "2024-05-26, 09:32:29",
       "https://lobste.rs/s/rgmcdm/notes_on_diffusion_models"
     ],
@@ -247,6 +237,16 @@
     [
       "Exploring Seamless Rust Interop for Newer Languages, Part 1",
       "https://verdagon.dev/blog/exploring-seamless-rust-interop-part-1"
+    ]
+  ],
+  [
+    [
+      "2024-05-24, 10:39:52",
+      "https://lobste.rs/s/rcrhsy/reverse_engineering_esp32_wi_fi_driver"
+    ],
+    [
+      "Reverse engineering ESP32 Wi-Fi driver: the road ahead",
+      "https://esp32-open-mac.be/posts/0005-the-road-ahead/"
     ]
   ]
 ]
