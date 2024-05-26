@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-26, 20:27:19](https://lobste.rs/s/srbb8p/v8_heap_sandbox) - [The V8 Heap Sandbox](https://saelo.github.io/presentations/offensivecon_24_the_v8_heap_sandbox.pdf)
+* [2024-05-26, 20:20:32](https://lobste.rs/s/mjwz42/another_year_with_decker) - [Another Year With Decker](https://beyondloom.com/blog/unionstate2.html)
 * [2024-05-26, 19:58:44](https://lobste.rs/s/6foqmp/memory_sealing_mseal_system_call_merged) - [Memory Sealing \"mseal\" System Call Merged For Linux 6.10](https://www.phoronix.com/news/Linux-6.10-Merges-mseal)
 * [2024-05-26, 17:57:01](https://lobste.rs/s/y9ixxz/exploiting_v8_at_openecsc) - [Exploiting V8 at openECSC](https://lyra.horse/blog/2024/05/exploiting-v8-at-openecsc/)
 * [2024-05-26, 15:58:16](https://lobste.rs/s/lnomqg/linux_performance_analysis_60_000) - [Linux Performance Analysis in 60,000 Milliseconds (2015)](https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
@@ -21,10 +23,8 @@
 * [2024-05-25, 11:41:05](https://lobste.rs/s/t6pdiz/feed_blogrolls_discovery) - [Feed and Blogrolls Discovery](https://andregarzia.com/2024/05/feed-and-blogrolls-discovery.html)
 * [2024-05-25, 10:37:10](https://lobste.rs/s/bikpmo/russh_rust_ssh_client_server_library) - [russh: Rust SSH client & server library](https://github.com/warp-tech/russh)
 * [2024-05-25, 10:28:39](https://lobste.rs/s/i3ox7c/if_you_wish_truly_understand_frappe_s) - [If You Wish to Truly Understand Frappe's Scheduler, You Must First Invent the Universe](https://frappe.io/blog/engineering/if-you-wish-to-truly-understand-frappes-scheduler-you-must-first-invent-the-universe)
-* [2024-05-25, 08:52:36](https://lobste.rs/s/mswqnt/don_t_microservice_do_module) - [Don't Microservice, Do Module](https://yekta.dev/posts/dont-microservice-do-module/)
 * [2024-05-25, 07:17:57](https://lobste.rs/s/nvv46t/using_jai_s_unique_powerful_compiler_for) - [Using Jai's Unique and Powerful Compiler for Typesafe Units](https://www.forrestthewoods.com/blog/using-jais-unique-and-powerful-compiler-for-typesafe-units/)
 * [2024-05-25, 05:05:41](https://lobste.rs/s/qeeoxu/go_1_23_go_linkname_changes) - [Go 1.23 and go:linkname changes](https://utcc.utoronto.ca/~cks/space/blog/programming/Go123LinknameComingProblem)
-* [2024-05-24, 19:45:26](https://lobste.rs/s/hts9sk/details_google_cloud_gcve_incident) - [Details of Google Cloud GCVE incident (UniSuper deletion)](https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/)
 
 ## [Archives](archives/index.md)
 
