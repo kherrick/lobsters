@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-26](index.md)
 
+* [2024-05-26, 15:58:16](https://lobste.rs/s/lnomqg/linux_performance_analysis_60_000) - [Linux Performance Analysis in 60,000 Milliseconds (2015)](https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
 * [2024-05-26, 12:58:27](https://lobste.rs/s/7bn38a/seeing_like_data_structure) - [Seeing Like a Data Structure](https://www.belfercenter.org/publication/seeing-data-structure)
 * [2024-05-26, 12:06:36](https://lobste.rs/s/9writm/privacy_is_myth_unless_you_re_using_zero) - [Privacy Is A Myth. Unless You're Using Zero-Knowledge Proofs](https://illya.sh/blog/posts/privacy-is-a-myth-without-zero-knowledge-proofs/)
 * [2024-05-26, 09:32:29](https://lobste.rs/s/rgmcdm/notes_on_diffusion_models) - [Notes on diffusion models](https://andrewkchan.dev/posts/diffusion.html)
