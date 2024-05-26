@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-26](index.md)
 
+* [2024-05-26, 12:06:36](https://lobste.rs/s/9writm/privacy_is_myth_unless_you_re_using_zero) - [Privacy Is A Myth. Unless You're Using Zero-Knowledge Proofs](https://illya.sh/blog/posts/privacy-is-a-myth-without-zero-knowledge-proofs/)
 * [2024-05-26, 09:32:29](https://lobste.rs/s/rgmcdm/notes_on_diffusion_models) - [Notes on diffusion models](https://andrewkchan.dev/posts/diffusion.html)
 * [2024-05-26, 05:56:51](https://lobste.rs/s/sjaxdx/hurl_exceptional_language) - [Hurl, the Exceptional language](https://hurl.wtf/)
 * [2024-05-26, 01:42:41](https://lobste.rs/s/p3neww/must_know_key_bindings_for_developers_on) - [Must know key bindings for developers on Mac OSX](https://uptownhr.com/blog/must-know-key-bindings-for-developers-on-mac-osx/)
