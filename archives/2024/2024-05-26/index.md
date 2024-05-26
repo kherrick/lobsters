@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-26](index.md)
 
+* [2024-05-26, 19:58:44](https://lobste.rs/s/6foqmp/memory_sealing_mseal_system_call_merged) - [Memory Sealing \"mseal\" System Call Merged For Linux 6.10](https://www.phoronix.com/news/Linux-6.10-Merges-mseal)
 * [2024-05-26, 17:57:01](https://lobste.rs/s/y9ixxz/exploiting_v8_at_openecsc) - [Exploiting V8 at openECSC](https://lyra.horse/blog/2024/05/exploiting-v8-at-openecsc/)
 * [2024-05-26, 15:58:16](https://lobste.rs/s/lnomqg/linux_performance_analysis_60_000) - [Linux Performance Analysis in 60,000 Milliseconds (2015)](https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
 * [2024-05-26, 12:58:27](https://lobste.rs/s/7bn38a/seeing_like_data_structure) - [Seeing Like a Data Structure](https://www.belfercenter.org/publication/seeing-data-structure)
