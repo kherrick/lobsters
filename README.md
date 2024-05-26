@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-05-26, 12:58:27](https://lobste.rs/s/7bn38a/seeing_like_data_structure) - [Seeing Like a Data Structure](https://www.belfercenter.org/publication/seeing-data-structure)
-* [2024-05-26, 12:06:36](https://lobste.rs/s/9writm/privacy_is_myth_unless_you_re_using_zero) - [Privacy Is A Myth. Unless You're Using Zero-Knowledge Proofs](https://illya.sh/blog/posts/privacy-is-a-myth-without-zero-knowledge-proofs/)
 * [2024-05-26, 09:32:29](https://lobste.rs/s/rgmcdm/notes_on_diffusion_models) - [Notes on diffusion models](https://andrewkchan.dev/posts/diffusion.html)
 * [2024-05-26, 05:56:51](https://lobste.rs/s/sjaxdx/hurl_exceptional_language) - [Hurl, the Exceptional language](https://hurl.wtf/)
 * [2024-05-26, 01:12:10](https://lobste.rs/s/asemny/jquicktake_java_based_app_manage_vintage) - [JQuickTake: Java-based app to manage vintage Apple QuickTake 100/150 cameras](https://github.com/Crazylegstoo/JQuickTake)
@@ -25,6 +24,7 @@
 * [2024-05-24, 19:45:26](https://lobste.rs/s/hts9sk/details_google_cloud_gcve_incident) - [Details of Google Cloud GCVE incident (UniSuper deletion)](https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/)
 * [2024-05-24, 19:07:01](https://lobste.rs/s/ouvwif/melange_4_0_is_here) - [Melange 4.0 is here](https://melange.re/blog/posts/melange-4-is-here)
 * [2024-05-24, 15:50:02](https://lobste.rs/s/0iskz9/exploring_seamless_rust_interop_for) - [Exploring Seamless Rust Interop for Newer Languages, Part 1](https://verdagon.dev/blog/exploring-seamless-rust-interop-part-1)
+* [2024-05-24, 10:39:52](https://lobste.rs/s/rcrhsy/reverse_engineering_esp32_wi_fi_driver) - [Reverse engineering ESP32 Wi-Fi driver: the road ahead](https://esp32-open-mac.be/posts/0005-the-road-ahead/)
 
 ## [Archives](archives/index.md)
 
