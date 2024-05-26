@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-26](index.md)
 
+* [2024-05-26, 09:32:29](https://lobste.rs/s/rgmcdm/notes_on_diffusion_models) - [Notes on diffusion models](https://andrewkchan.dev/posts/diffusion.html)
 * [2024-05-26, 05:56:51](https://lobste.rs/s/sjaxdx/hurl_exceptional_language) - [Hurl, the Exceptional language](https://hurl.wtf/)
 * [2024-05-26, 01:42:41](https://lobste.rs/s/p3neww/must_know_key_bindings_for_developers_on) - [Must know key bindings for developers on Mac OSX](https://uptownhr.com/blog/must-know-key-bindings-for-developers-on-mac-osx/)
 * [2024-05-26, 01:12:10](https://lobste.rs/s/asemny/jquicktake_java_based_app_manage_vintage) - [JQuickTake: Java-based app to manage vintage Apple QuickTake 100/150 cameras](https://github.com/Crazylegstoo/JQuickTake)
