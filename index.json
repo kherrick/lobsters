@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-26, 09:32:29",
+      "https://lobste.rs/s/rgmcdm/notes_on_diffusion_models"
+    ],
+    [
+      "Notes on diffusion models",
+      "https://andrewkchan.dev/posts/diffusion.html"
+    ]
+  ],
+  [
+    [
       "2024-05-26, 05:56:51",
       "https://lobste.rs/s/sjaxdx/hurl_exceptional_language"
     ],
@@ -217,16 +227,6 @@
     [
       "Melange 4.0 is here",
       "https://melange.re/blog/posts/melange-4-is-here"
-    ]
-  ],
-  [
-    [
-      "2024-05-24, 17:25:04",
-      "https://lobste.rs/s/yraxup/ssh_authentication_via_yubikeys"
-    ],
-    [
-      "ssh authentication via Yubikeys",
-      "https://feldspaten.org/2024/02/03/ssh-authentication-via-Yubikeys/"
     ]
   ],
   [
