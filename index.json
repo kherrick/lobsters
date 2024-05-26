@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-26, 17:57:01",
+      "https://lobste.rs/s/y9ixxz/exploiting_v8_at_openecsc"
+    ],
+    [
+      "Exploiting V8 at openECSC",
+      "https://lyra.horse/blog/2024/05/exploiting-v8-at-openecsc/"
+    ]
+  ],
+  [
+    [
       "2024-05-26, 15:58:16",
       "https://lobste.rs/s/lnomqg/linux_performance_analysis_60_000"
     ],
@@ -227,16 +237,6 @@
     [
       "Details of Google Cloud GCVE incident (UniSuper deletion)",
       "https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/"
-    ]
-  ],
-  [
-    [
-      "2024-05-24, 19:07:01",
-      "https://lobste.rs/s/ouvwif/melange_4_0_is_here"
-    ],
-    [
-      "Melange 4.0 is here",
-      "https://melange.re/blog/posts/melange-4-is-here"
     ]
   ],
   [
