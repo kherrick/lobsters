@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-26](index.md)
 
+* [2024-05-26, 22:55:22](https://lobste.rs/s/ggjkbv/evolution_elf_object_file_format) - [Evolution of the ELF object file format](https://maskray.me/blog/2024-05-26-evolution-of-elf-object-file-format)
 * [2024-05-26, 20:27:19](https://lobste.rs/s/srbb8p/v8_heap_sandbox) - [The V8 Heap Sandbox](https://saelo.github.io/presentations/offensivecon_24_the_v8_heap_sandbox.pdf)
 * [2024-05-26, 20:20:32](https://lobste.rs/s/mjwz42/another_year_with_decker) - [Another Year With Decker](https://beyondloom.com/blog/unionstate2.html)
 * [2024-05-26, 19:58:44](https://lobste.rs/s/6foqmp/memory_sealing_mseal_system_call_merged) - [Memory Sealing \"mseal\" System Call Merged For Linux 6.10](https://www.phoronix.com/news/Linux-6.10-Merges-mseal)
