@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-05-25, 22:50:45](https://lobste.rs/s/zo2ofj/superhuman_what_does_it_mean_for_ai_be) - [Superhuman?: What does it mean for AI to be better than a human? And how can we tell?](https://www.oneusefulthing.org/p/superhuman)
+* [2024-05-26, 01:42:41](https://lobste.rs/s/p3neww/must_know_key_bindings_for_developers_on) - [Must know key bindings for developers on Mac OSX](https://uptownhr.com/blog/must-know-key-bindings-for-developers-on-mac-osx/)
+* [2024-05-26, 01:12:10](https://lobste.rs/s/asemny/jquicktake_java_based_app_manage_vintage) - [JQuickTake: Java-based app to manage vintage Apple QuickTake 100/150 cameras](https://github.com/Crazylegstoo/JQuickTake)
+* [2024-05-26, 00:53:12](https://lobste.rs/s/cyctfl/grc_spinrite) - [GRC SpinRite](https://computer.rip/2024-05-25-grc-spinrite.html)
 * [2024-05-25, 20:31:05](https://lobste.rs/s/tyrrkf/clang_fret_clean_cleaning_return) - [clang -fret-clean: cleaning return addresses off stack](https://marc.info/?l=openbsd-tech&m=171661784618821&w=2)
 * [2024-05-25, 20:27:47](https://lobste.rs/s/lps7qx/taming_floating_point_sums) - [Taming Floating-Point Sums](https://orlp.net/blog/taming-float-sums/)
 * [2024-05-25, 20:12:53](https://lobste.rs/s/2jpbgp/extend_your_battery_life_with_scx) - [Extend your battery life with scx_rustland](https://arighi.blogspot.com/2024/05/extend-your-battery-life-with.html)
@@ -18,8 +20,6 @@
 * [2024-05-25, 08:52:36](https://lobste.rs/s/mswqnt/don_t_microservice_do_module) - [Don't Microservice, Do Module](https://yekta.dev/posts/dont-microservice-do-module/)
 * [2024-05-25, 07:17:57](https://lobste.rs/s/nvv46t/using_jai_s_unique_powerful_compiler_for) - [Using Jai's Unique and Powerful Compiler for Typesafe Units](https://www.forrestthewoods.com/blog/using-jais-unique-and-powerful-compiler-for-typesafe-units/)
 * [2024-05-25, 05:05:41](https://lobste.rs/s/qeeoxu/go_1_23_go_linkname_changes) - [Go 1.23 and go:linkname changes](https://utcc.utoronto.ca/~cks/space/blog/programming/Go123LinknameComingProblem)
-* [2024-05-25, 03:54:42](https://lobste.rs/s/tam5qb/don_knuth_s_mip_64_years_later) - [Don Knuth’s MIP, 64 years later](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
-* [2024-05-25, 00:21:35](https://lobste.rs/s/vwndwv/analytical_methods_for_dynamic) - [Analytical Methods for Dynamic Simulation of Non-penetrating Rigid Bodies](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a02843095948be29664b48c3338791ec05dcf52c)
 * [2024-05-24, 19:45:26](https://lobste.rs/s/hts9sk/details_google_cloud_gcve_incident) - [Details of Google Cloud GCVE incident (UniSuper deletion)](https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/)
 * [2024-05-24, 19:07:01](https://lobste.rs/s/ouvwif/melange_4_0_is_here) - [Melange 4.0 is here](https://melange.re/blog/posts/melange-4-is-here)
 * [2024-05-24, 17:25:04](https://lobste.rs/s/yraxup/ssh_authentication_via_yubikeys) - [ssh authentication via Yubikeys](https://feldspaten.org/2024/02/03/ssh-authentication-via-Yubikeys/)
