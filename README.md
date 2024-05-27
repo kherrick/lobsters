@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-27, 02:36:22](https://lobste.rs/s/20473h/elixir_math_benchmarks) - [Elixir math benchmarks](https://hg.sr.ht/~icefox/elixir_mathbench)
 * [2024-05-26, 22:55:22](https://lobste.rs/s/ggjkbv/evolution_elf_object_file_format) - [Evolution of the ELF object file format](https://maskray.me/blog/2024-05-26-evolution-of-elf-object-file-format)
 * [2024-05-26, 20:27:19](https://lobste.rs/s/srbb8p/v8_heap_sandbox) - [The V8 Heap Sandbox](https://saelo.github.io/presentations/offensivecon_24_the_v8_heap_sandbox.pdf)
 * [2024-05-26, 20:20:32](https://lobste.rs/s/mjwz42/another_year_with_decker) - [Another Year With Decker](https://beyondloom.com/blog/unionstate2.html)
@@ -15,7 +16,6 @@
 * [2024-05-25, 20:27:47](https://lobste.rs/s/lps7qx/taming_floating_point_sums) - [Taming Floating-Point Sums](https://orlp.net/blog/taming-float-sums/)
 * [2024-05-25, 20:12:53](https://lobste.rs/s/2jpbgp/extend_your_battery_life_with_scx) - [Extend your battery life with scx_rustland](https://arighi.blogspot.com/2024/05/extend-your-battery-life-with.html)
 * [2024-05-25, 19:49:58](https://lobste.rs/s/k8dwbj/converting_cisco_7609_into_beer_tap_2021) - [Converting a Cisco 7609 into a beer tap (2021)](https://blog.jonasbengtson.se/cisco-7609-beer-tap)
-* [2024-05-25, 18:35:39](https://lobste.rs/s/xtvulw/tpm_performance) - [TPM Performance :(](https://stiankri.substack.com/p/tpm-performance)
 * [2024-05-25, 18:09:07](https://lobste.rs/s/o2mynl/tmux_is_worse_is_better) - [tmux is worse is better](https://hiandrewquinn.github.io/til-site/posts/tmux-is-worse-is-better/)
 * [2024-05-25, 13:57:46](https://lobste.rs/s/iarzlo/new_way_bring_garbage_collected) - [A new way to bring garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting)
 * [2024-05-25, 13:45:07](https://lobste.rs/s/49sexw/documenting_my_dns_records) - [Documenting my DNS records](https://alexwlchan.net/2024/documenting-my-dns/)
