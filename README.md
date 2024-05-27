@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-27, 10:16:27](https://lobste.rs/s/ekic3t/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ekic3t/what_are_you_doing_this_week)
 * [2024-05-27, 09:53:30](https://lobste.rs/s/0zjfai/my_new_psu_burns_out_i_fix_it_torture_it_by) - [My new PSU burns out! I fix it, and torture it by cracking water](https://tomscii.sig7.se/2024/05/PSU-burnout-and-torture-cracking-water)
 * [2024-05-27, 09:32:15](https://lobste.rs/s/hjmrl1/how_we_migrated_our_static_analyzer_from) - [How We Migrated Our Static Analyzer From Java To Rust](https://www.datadoghq.com/blog/engineering/how-we-migrated-our-static-analyzer-from-java-to-rust/)
 * [2024-05-27, 08:42:34](https://lobste.rs/s/gbeirc/defense_mac_pro_2023) - [In Defense of the Mac Pro 2023](https://virtuallyfun.com/2024/05/26/in-defense-of-the-mac-pro-2023/)
@@ -20,7 +21,6 @@
 * [2024-05-26, 05:56:51](https://lobste.rs/s/sjaxdx/hurl_exceptional_language) - [Hurl, the Exceptional language](https://hurl.wtf/)
 * [2024-05-26, 01:12:10](https://lobste.rs/s/asemny/jquicktake_java_based_app_manage_vintage) - [JQuickTake: Java-based app to manage vintage Apple QuickTake 100/150 cameras](https://github.com/Crazylegstoo/JQuickTake)
 * [2024-05-26, 00:53:12](https://lobste.rs/s/cyctfl/grc_spinrite) - [GRC SpinRite](https://computer.rip/2024-05-25-grc-spinrite.html)
-* [2024-05-25, 20:27:47](https://lobste.rs/s/lps7qx/taming_floating_point_sums) - [Taming Floating-Point Sums](https://orlp.net/blog/taming-float-sums/)
 * [2024-05-25, 20:12:53](https://lobste.rs/s/2jpbgp/extend_your_battery_life_with_scx) - [Extend your battery life with scx_rustland](https://arighi.blogspot.com/2024/05/extend-your-battery-life-with.html)
 * [2024-05-25, 18:09:07](https://lobste.rs/s/o2mynl/tmux_is_worse_is_better) - [tmux is worse is better](https://hiandrewquinn.github.io/til-site/posts/tmux-is-worse-is-better/)
 * [2024-05-25, 13:16:12](https://lobste.rs/s/ob8uie/how_python_compares_floats_ints_when) - [How Python Compares Floats and Ints: When Equals Isn’t Really Equal](https://blog.codingconfessions.com/p/how-python-compares-floats-and-ints)
