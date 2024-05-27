@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-27, 05:17:18](https://lobste.rs/s/igwikc/post_open_license_first_draft) - [Post-Open License: First Draft](https://perens.com/2024/03/08/post-open-license-first-draft/)
 * [2024-05-27, 02:36:22](https://lobste.rs/s/20473h/elixir_math_benchmarks) - [Elixir math benchmarks](https://hg.sr.ht/~icefox/elixir_mathbench)
 * [2024-05-26, 22:55:22](https://lobste.rs/s/ggjkbv/evolution_elf_object_file_format) - [Evolution of the ELF object file format](https://maskray.me/blog/2024-05-26-evolution-of-elf-object-file-format)
 * [2024-05-26, 20:27:19](https://lobste.rs/s/srbb8p/v8_heap_sandbox) - [The V8 Heap Sandbox](https://saelo.github.io/presentations/offensivecon_24_the_v8_heap_sandbox.pdf)
@@ -12,7 +13,6 @@
 * [2024-05-26, 05:56:51](https://lobste.rs/s/sjaxdx/hurl_exceptional_language) - [Hurl, the Exceptional language](https://hurl.wtf/)
 * [2024-05-26, 01:12:10](https://lobste.rs/s/asemny/jquicktake_java_based_app_manage_vintage) - [JQuickTake: Java-based app to manage vintage Apple QuickTake 100/150 cameras](https://github.com/Crazylegstoo/JQuickTake)
 * [2024-05-26, 00:53:12](https://lobste.rs/s/cyctfl/grc_spinrite) - [GRC SpinRite](https://computer.rip/2024-05-25-grc-spinrite.html)
-* [2024-05-25, 20:31:05](https://lobste.rs/s/tyrrkf/clang_fret_clean_cleaning_return) - [clang -fret-clean: cleaning return addresses off stack](https://marc.info/?l=openbsd-tech&m=171661784618821&w=2)
 * [2024-05-25, 20:27:47](https://lobste.rs/s/lps7qx/taming_floating_point_sums) - [Taming Floating-Point Sums](https://orlp.net/blog/taming-float-sums/)
 * [2024-05-25, 20:12:53](https://lobste.rs/s/2jpbgp/extend_your_battery_life_with_scx) - [Extend your battery life with scx_rustland](https://arighi.blogspot.com/2024/05/extend-your-battery-life-with.html)
 * [2024-05-25, 19:49:58](https://lobste.rs/s/k8dwbj/converting_cisco_7609_into_beer_tap_2021) - [Converting a Cisco 7609 into a beer tap (2021)](https://blog.jonasbengtson.se/cisco-7609-beer-tap)
