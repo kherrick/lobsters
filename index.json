@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-05-27, 17:56:13",
+      "https://lobste.rs/s/sofl2n/mastodon_client_for_palmos"
+    ],
+    [
+      "a mastodon client for palmOS",
+      "http://www.knickish.com/palm/rust/2023/09/12/a-mastodon-client-for-palmos.html"
+    ]
+  ],
+  [
+    [
       "2024-05-27, 17:07:09",
       "https://lobste.rs/s/ii4tgk/how_does_sync_waitgroup_work_under_hood"
     ],
@@ -237,16 +247,6 @@
     [
       "Another Year With Decker",
       "https://beyondloom.com/blog/unionstate2.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-26, 19:58:44",
-      "https://lobste.rs/s/6foqmp/memory_sealing_mseal_system_call_merged"
-    ],
-    [
-      "Memory Sealing \"mseal\" System Call Merged For Linux 6.10",
-      "https://www.phoronix.com/news/Linux-6.10-Merges-mseal"
     ]
   ]
 ]
