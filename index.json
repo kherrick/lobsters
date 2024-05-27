@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-27, 13:15:19",
+      "https://lobste.rs/s/3eyw8x/cps_hoot"
+    ],
+    [
+      "cps in hoot",
+      "https://wingolog.org/archives/2024/05/27/cps-in-hoot"
+    ]
+  ],
+  [
+    [
+      "2024-05-27, 13:02:51",
+      "https://lobste.rs/s/pfzfmz/amber_programming_language_compiled"
+    ],
+    [
+      "Amber The Programming Language compiled to Bash",
+      "https://amber-lang.com/"
+    ]
+  ],
+  [
+    [
       "2024-05-27, 12:56:02",
       "https://lobste.rs/s/r2mhfa/my_home_server_journey_from_raspberry_pi"
     ],
@@ -227,26 +247,6 @@
     [
       "tmux is worse is better",
       "https://hiandrewquinn.github.io/til-site/posts/tmux-is-worse-is-better/"
-    ]
-  ],
-  [
-    [
-      "2024-05-25, 13:16:12",
-      "https://lobste.rs/s/ob8uie/how_python_compares_floats_ints_when"
-    ],
-    [
-      "How Python Compares Floats and Ints: When Equals Isn’t Really Equal",
-      "https://blog.codingconfessions.com/p/how-python-compares-floats-and-ints"
-    ]
-  ],
-  [
-    [
-      "2024-05-25, 11:41:05",
-      "https://lobste.rs/s/t6pdiz/feed_blogrolls_discovery"
-    ],
-    [
-      "Feed and Blogrolls Discovery",
-      "https://andregarzia.com/2024/05/feed-and-blogrolls-discovery.html"
     ]
   ]
 ]
