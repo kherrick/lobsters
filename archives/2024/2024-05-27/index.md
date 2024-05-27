@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-27](index.md)
 
+* [2024-05-27, 13:43:28](https://lobste.rs/s/cwmyiy/setting_up_github_copilot_emacs) - [Setting up Github Copilot in Emacs](https://robert.kra.hn/posts/2023-02-22-copilot-emacs-setup/)
 * [2024-05-27, 13:15:19](https://lobste.rs/s/3eyw8x/cps_hoot) - [cps in hoot](https://wingolog.org/archives/2024/05/27/cps-in-hoot)
 * [2024-05-27, 13:02:51](https://lobste.rs/s/pfzfmz/amber_programming_language_compiled) - [Amber The Programming Language compiled to Bash](https://amber-lang.com/)
 * [2024-05-27, 12:56:02](https://lobste.rs/s/r2mhfa/my_home_server_journey_from_raspberry_pi) - [My Home Server Journey - From Raspberry Pi to Ryzen](https://blog.viktorpetersson.com/2024/05/04/home-server-journey.html)
