@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-27, 16:42:53](https://lobste.rs/s/k8xifd/critical_errors_2011_2012_ftc_antitrust) - [Critical errors in the 2011-2012 FTC antitrust investigation of Google](https://danluu.com/ftc-google-antitrust/)
 * [2024-05-27, 16:31:03](https://lobste.rs/s/0giida/helix_gpui_helix_gpui_frontend) - [helix-gpui: helix gpui frontend](https://github.com/polachok/helix-gpui)
 * [2024-05-27, 16:18:56](https://lobste.rs/s/em51yf/don_t_worry_about_llms) - [Don't worry about LLMs](https://vickiboykis.com/2024/05/20/dont-worry-about-llms/)
-* [2024-05-27, 15:34:06](https://lobste.rs/s/k44x9l/gh_dash_beautiful_cli_dashboard_for) - [gh-dash: A beautiful CLI dashboard for GitHub](https://github.com/dlvhdr/gh-dash)
 * [2024-05-27, 15:14:38](https://lobste.rs/s/ddessq/instead_auth_we_should_say_permissions) - [Instead of \"auth\", we should say \"permissions\" and \"login\"](https://ntietz.com/blog/lets-say-instead-of-auth/)
 * [2024-05-27, 14:26:27](https://lobste.rs/s/xkgp2a/reclaiming_ipv4_class_e_s_240_0_0_0_4) - [Reclaiming IPv4 Class E's 240.0.0.0/4](https://blog.benjojo.co.uk/post/class-e-addresses-in-the-real-world)
 * [2024-05-27, 14:02:17](https://lobste.rs/s/wr5rtm/generating_almost_normally_distributed) - [Generating Almost Normally Distributed Values](https://two-wrongs.com/generating-almost-normally-distributed-values.html)
