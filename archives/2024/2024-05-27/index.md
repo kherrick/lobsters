@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-27](index.md)
 
+* [2024-05-27, 15:34:06](https://lobste.rs/s/k44x9l/gh_dash_beautiful_cli_dashboard_for) - [gh-dash: A beautiful CLI dashboard for GitHub](https://github.com/dlvhdr/gh-dash)
 * [2024-05-27, 15:14:38](https://lobste.rs/s/ddessq/instead_auth_we_should_say_permissions) - [Instead of \"auth\", we should say \"permissions\" and \"login\"](https://ntietz.com/blog/lets-say-instead-of-auth/)
 * [2024-05-27, 14:26:27](https://lobste.rs/s/xkgp2a/reclaiming_ipv4_class_e_s_240_0_0_0_4) - [Reclaiming IPv4 Class E's 240.0.0.0/4](https://blog.benjojo.co.uk/post/class-e-addresses-in-the-real-world)
 * [2024-05-27, 14:02:17](https://lobste.rs/s/wr5rtm/generating_almost_normally_distributed) - [Generating Almost Normally Distributed Values](https://two-wrongs.com/generating-almost-normally-distributed-values.html)

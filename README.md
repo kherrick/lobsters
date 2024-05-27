@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-27, 15:34:06](https://lobste.rs/s/k44x9l/gh_dash_beautiful_cli_dashboard_for) - [gh-dash: A beautiful CLI dashboard for GitHub](https://github.com/dlvhdr/gh-dash)
 * [2024-05-27, 15:14:38](https://lobste.rs/s/ddessq/instead_auth_we_should_say_permissions) - [Instead of \"auth\", we should say \"permissions\" and \"login\"](https://ntietz.com/blog/lets-say-instead-of-auth/)
 * [2024-05-27, 14:26:27](https://lobste.rs/s/xkgp2a/reclaiming_ipv4_class_e_s_240_0_0_0_4) - [Reclaiming IPv4 Class E's 240.0.0.0/4](https://blog.benjojo.co.uk/post/class-e-addresses-in-the-real-world)
 * [2024-05-27, 14:02:17](https://lobste.rs/s/wr5rtm/generating_almost_normally_distributed) - [Generating Almost Normally Distributed Values](https://two-wrongs.com/generating-almost-normally-distributed-values.html)
@@ -20,7 +21,6 @@
 * [2024-05-27, 05:17:18](https://lobste.rs/s/igwikc/post_open_license_first_draft) - [Post-Open License: First Draft](https://perens.com/2024/03/08/post-open-license-first-draft/)
 * [2024-05-27, 02:36:22](https://lobste.rs/s/20473h/elixir_math_benchmarks) - [Elixir math benchmarks](https://hg.sr.ht/~icefox/elixir_mathbench)
 * [2024-05-26, 22:55:22](https://lobste.rs/s/ggjkbv/evolution_elf_object_file_format) - [Evolution of the ELF object file format](https://maskray.me/blog/2024-05-26-evolution-of-elf-object-file-format)
-* [2024-05-26, 20:27:19](https://lobste.rs/s/srbb8p/v8_heap_sandbox) - [The V8 Heap Sandbox](https://saelo.github.io/presentations/offensivecon_24_the_v8_heap_sandbox.pdf)
 * [2024-05-26, 20:20:32](https://lobste.rs/s/mjwz42/another_year_with_decker) - [Another Year With Decker](https://beyondloom.com/blog/unionstate2.html)
 * [2024-05-26, 19:58:44](https://lobste.rs/s/6foqmp/memory_sealing_mseal_system_call_merged) - [Memory Sealing \"mseal\" System Call Merged For Linux 6.10](https://www.phoronix.com/news/Linux-6.10-Merges-mseal)
 * [2024-05-26, 17:57:01](https://lobste.rs/s/y9ixxz/exploiting_v8_at_openecsc) - [Exploiting V8 at openECSC](https://lyra.horse/blog/2024/05/exploiting-v8-at-openecsc/)
