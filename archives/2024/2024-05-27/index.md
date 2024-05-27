@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-27](index.md)
 
+* [2024-05-27, 20:33:09](https://lobste.rs/s/dwsins/writing_fast_string_ufuncs_for_numpy_2_0) - [Writing fast string ufuncs for NumPy 2.0](https://labs.quansight.org/blog/numpy-string-ufuncs)
 * [2024-05-27, 19:54:04](https://lobste.rs/s/ruwss6/gleam_v1_2_released_with_lsp_improvements) - [Gleam v1.2 released with LSP improvements](https://gleam.run/news/fault-tolerant-gleam/)
 * [2024-05-27, 18:09:49](https://lobste.rs/s/oscbr2/new_magic_for_animations_css) - [New magic for animations in CSS](https://chasem.co/2024/05/css-animations/)
 * [2024-05-27, 17:56:13](https://lobste.rs/s/sofl2n/mastodon_client_for_palmos) - [a mastodon client for palmOS](http://www.knickish.com/palm/rust/2023/09/12/a-mastodon-client-for-palmos.html)
