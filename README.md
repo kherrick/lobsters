@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-27, 12:56:02](https://lobste.rs/s/r2mhfa/my_home_server_journey_from_raspberry_pi) - [My Home Server Journey - From Raspberry Pi to Ryzen](https://blog.viktorpetersson.com/2024/05/04/home-server-journey.html)
 * [2024-05-27, 11:42:54](https://lobste.rs/s/yvolv4/iconv_set_charset_rce_exploiting_glibc) - [Iconv, set the charset to RCE: Exploiting the glibc to hack the PHP engine](https://www.ambionics.io/blog/iconv-cve-2024-2961-p1)
 * [2024-05-27, 10:16:27](https://lobste.rs/s/ekic3t/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ekic3t/what_are_you_doing_this_week)
 * [2024-05-27, 09:53:30](https://lobste.rs/s/0zjfai/my_new_psu_burns_out_i_fix_it_torture_it_by) - [My new PSU burns out! I fix it, and torture it by cracking water](https://tomscii.sig7.se/2024/05/PSU-burnout-and-torture-cracking-water)
@@ -17,7 +18,6 @@
 * [2024-05-26, 19:58:44](https://lobste.rs/s/6foqmp/memory_sealing_mseal_system_call_merged) - [Memory Sealing \"mseal\" System Call Merged For Linux 6.10](https://www.phoronix.com/news/Linux-6.10-Merges-mseal)
 * [2024-05-26, 17:57:01](https://lobste.rs/s/y9ixxz/exploiting_v8_at_openecsc) - [Exploiting V8 at openECSC](https://lyra.horse/blog/2024/05/exploiting-v8-at-openecsc/)
 * [2024-05-26, 15:58:16](https://lobste.rs/s/lnomqg/linux_performance_analysis_60_000) - [Linux Performance Analysis in 60,000 Milliseconds (2015)](https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
-* [2024-05-26, 12:58:27](https://lobste.rs/s/7bn38a/seeing_like_data_structure) - [Seeing Like a Data Structure](https://www.belfercenter.org/publication/seeing-data-structure)
 * [2024-05-26, 09:32:29](https://lobste.rs/s/rgmcdm/notes_on_diffusion_models) - [Notes on diffusion models](https://andrewkchan.dev/posts/diffusion.html)
 * [2024-05-26, 05:56:51](https://lobste.rs/s/sjaxdx/hurl_exceptional_language) - [Hurl, the Exceptional language](https://hurl.wtf/)
 * [2024-05-26, 00:53:12](https://lobste.rs/s/cyctfl/grc_spinrite) - [GRC SpinRite](https://computer.rip/2024-05-25-grc-spinrite.html)
