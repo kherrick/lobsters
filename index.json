@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-27, 15:34:06",
+      "https://lobste.rs/s/k44x9l/gh_dash_beautiful_cli_dashboard_for"
+    ],
+    [
+      "gh-dash: A beautiful CLI dashboard for GitHub",
+      "https://github.com/dlvhdr/gh-dash"
+    ]
+  ],
+  [
+    [
       "2024-05-27, 15:14:38",
       "https://lobste.rs/s/ddessq/instead_auth_we_should_say_permissions"
     ],
@@ -197,16 +207,6 @@
     [
       "Evolution of the ELF object file format",
       "https://maskray.me/blog/2024-05-26-evolution-of-elf-object-file-format"
-    ]
-  ],
-  [
-    [
-      "2024-05-26, 20:27:19",
-      "https://lobste.rs/s/srbb8p/v8_heap_sandbox"
-    ],
-    [
-      "The V8 Heap Sandbox",
-      "https://saelo.github.io/presentations/offensivecon_24_the_v8_heap_sandbox.pdf"
     ]
   ],
   [
