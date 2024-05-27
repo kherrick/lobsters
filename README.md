@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-05-27, 16:42:53](https://lobste.rs/s/k8xifd/critical_errors_2011_2012_ftc_antitrust) - [Critical errors in the 2011-2012 FTC antitrust investigation of Google](https://danluu.com/ftc-google-antitrust/)
+* [2024-05-27, 17:07:09](https://lobste.rs/s/ii4tgk/how_does_sync_waitgroup_work_under_hood) - [How does sync.WaitGroup work under the hood](https://blog.meain.io/2024/sync-waitgroup-internals/)
+* [2024-05-27, 17:00:53](https://lobste.rs/s/wbda9q/comprehensive_guide_generating) - [Comprehensive Guide to Generating and Understanding SBOMs with Docker and Django-CMS - sbomify](https://sbomify.com/2024/05/27/comprehensive-guide-to-generating-and-understanding-sboms-with-docker-and-django-cms/)
 * [2024-05-27, 16:31:03](https://lobste.rs/s/0giida/helix_gpui_helix_gpui_frontend) - [helix-gpui: helix gpui frontend](https://github.com/polachok/helix-gpui)
 * [2024-05-27, 16:18:56](https://lobste.rs/s/em51yf/don_t_worry_about_llms) - [Don't worry about LLMs](https://vickiboykis.com/2024/05/20/dont-worry-about-llms/)
 * [2024-05-27, 15:14:38](https://lobste.rs/s/ddessq/instead_auth_we_should_say_permissions) - [Instead of \"auth\", we should say \"permissions\" and \"login\"](https://ntietz.com/blog/lets-say-instead-of-auth/)
@@ -17,7 +18,6 @@
 * [2024-05-27, 09:32:15](https://lobste.rs/s/hjmrl1/how_we_migrated_our_static_analyzer_from) - [How We Migrated Our Static Analyzer From Java To Rust](https://www.datadoghq.com/blog/engineering/how-we-migrated-our-static-analyzer-from-java-to-rust/)
 * [2024-05-27, 08:42:34](https://lobste.rs/s/gbeirc/defense_mac_pro_2023) - [In Defense of the Mac Pro 2023](https://virtuallyfun.com/2024/05/26/in-defense-of-the-mac-pro-2023/)
 * [2024-05-27, 07:36:47](https://lobste.rs/s/csmcin/lo_small_simple_programming_language) - [LO: A small and simple programming language targeting WASM](https://github.com/glebbash/LO)
-* [2024-05-27, 07:06:21](https://lobste.rs/s/hxmfbi/stark_industries_solutions_iron_hammer) - [Stark Industries Solutions: An Iron Hammer in the Cloud](https://krebsonsecurity.com/2024/05/stark-industries-solutions-an-iron-hammer-in-the-cloud/)
 * [2024-05-27, 06:51:59](https://lobste.rs/s/jm1tjx/my_bdfl_guiding_principles) - [My BDFL guiding principles](https://daniel.haxx.se/blog/2024/05/27/my-bdfl-guiding-principles/)
 * [2024-05-27, 05:56:17](https://lobste.rs/s/go61uw/old_dogs_new_css_tricks) - [Old Dogs, new CSS Tricks](https://mxb.dev/blog/old-dogs-new-css-tricks/)
 * [2024-05-27, 05:17:18](https://lobste.rs/s/igwikc/post_open_license_first_draft) - [Post-Open License: First Draft](https://perens.com/2024/03/08/post-open-license-first-draft/)

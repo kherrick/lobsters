@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-27](index.md)
 
+* [2024-05-27, 17:07:09](https://lobste.rs/s/ii4tgk/how_does_sync_waitgroup_work_under_hood) - [How does sync.WaitGroup work under the hood](https://blog.meain.io/2024/sync-waitgroup-internals/)
+* [2024-05-27, 17:00:53](https://lobste.rs/s/wbda9q/comprehensive_guide_generating) - [Comprehensive Guide to Generating and Understanding SBOMs with Docker and Django-CMS - sbomify](https://sbomify.com/2024/05/27/comprehensive-guide-to-generating-and-understanding-sboms-with-docker-and-django-cms/)
 * [2024-05-27, 16:42:53](https://lobste.rs/s/k8xifd/critical_errors_2011_2012_ftc_antitrust) - [Critical errors in the 2011-2012 FTC antitrust investigation of Google](https://danluu.com/ftc-google-antitrust/)
 * [2024-05-27, 16:31:03](https://lobste.rs/s/0giida/helix_gpui_helix_gpui_frontend) - [helix-gpui: helix gpui frontend](https://github.com/polachok/helix-gpui)
 * [2024-05-27, 16:18:56](https://lobste.rs/s/em51yf/don_t_worry_about_llms) - [Don't worry about LLMs](https://vickiboykis.com/2024/05/20/dont-worry-about-llms/)
