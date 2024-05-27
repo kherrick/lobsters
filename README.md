@@ -2,6 +2,7 @@
 
 * [2024-05-27, 19:54:04](https://lobste.rs/s/ruwss6/gleam_v1_2_released_with_lsp_improvements) - [Gleam v1.2 released with LSP improvements](https://gleam.run/news/fault-tolerant-gleam/)
 * [2024-05-27, 18:09:49](https://lobste.rs/s/oscbr2/new_magic_for_animations_css) - [New magic for animations in CSS](https://chasem.co/2024/05/css-animations/)
+* [2024-05-27, 17:56:13](https://lobste.rs/s/sofl2n/mastodon_client_for_palmos) - [a mastodon client for palmOS](http://www.knickish.com/palm/rust/2023/09/12/a-mastodon-client-for-palmos.html)
 * [2024-05-27, 17:07:09](https://lobste.rs/s/ii4tgk/how_does_sync_waitgroup_work_under_hood) - [How does sync.WaitGroup work under the hood](https://blog.meain.io/2024/sync-waitgroup-internals/)
 * [2024-05-27, 17:00:53](https://lobste.rs/s/wbda9q/comprehensive_guide_generating) - [Comprehensive Guide to Generating and Understanding SBOMs with Docker and Django-CMS - sbomify](https://sbomify.com/2024/05/27/comprehensive-guide-to-generating-and-understanding-sboms-with-docker-and-django-cms/)
 * [2024-05-27, 16:31:03](https://lobste.rs/s/0giida/helix_gpui_helix_gpui_frontend) - [helix-gpui: helix gpui frontend](https://github.com/polachok/helix-gpui)
@@ -24,7 +25,6 @@
 * [2024-05-27, 02:36:22](https://lobste.rs/s/20473h/elixir_math_benchmarks) - [Elixir math benchmarks](https://hg.sr.ht/~icefox/elixir_mathbench)
 * [2024-05-26, 22:55:22](https://lobste.rs/s/ggjkbv/evolution_elf_object_file_format) - [Evolution of the ELF object file format](https://maskray.me/blog/2024-05-26-evolution-of-elf-object-file-format)
 * [2024-05-26, 20:20:32](https://lobste.rs/s/mjwz42/another_year_with_decker) - [Another Year With Decker](https://beyondloom.com/blog/unionstate2.html)
-* [2024-05-26, 19:58:44](https://lobste.rs/s/6foqmp/memory_sealing_mseal_system_call_merged) - [Memory Sealing \"mseal\" System Call Merged For Linux 6.10](https://www.phoronix.com/news/Linux-6.10-Merges-mseal)
 
 ## [Archives](archives/index.md)
 

@@ -6,6 +6,7 @@
 
 * [2024-05-27, 19:54:04](https://lobste.rs/s/ruwss6/gleam_v1_2_released_with_lsp_improvements) - [Gleam v1.2 released with LSP improvements](https://gleam.run/news/fault-tolerant-gleam/)
 * [2024-05-27, 18:09:49](https://lobste.rs/s/oscbr2/new_magic_for_animations_css) - [New magic for animations in CSS](https://chasem.co/2024/05/css-animations/)
+* [2024-05-27, 17:56:13](https://lobste.rs/s/sofl2n/mastodon_client_for_palmos) - [a mastodon client for palmOS](http://www.knickish.com/palm/rust/2023/09/12/a-mastodon-client-for-palmos.html)
 * [2024-05-27, 17:07:09](https://lobste.rs/s/ii4tgk/how_does_sync_waitgroup_work_under_hood) - [How does sync.WaitGroup work under the hood](https://blog.meain.io/2024/sync-waitgroup-internals/)
 * [2024-05-27, 17:00:53](https://lobste.rs/s/wbda9q/comprehensive_guide_generating) - [Comprehensive Guide to Generating and Understanding SBOMs with Docker and Django-CMS - sbomify](https://sbomify.com/2024/05/27/comprehensive-guide-to-generating-and-understanding-sboms-with-docker-and-django-cms/)
 * [2024-05-27, 16:42:53](https://lobste.rs/s/k8xifd/critical_errors_2011_2012_ftc_antitrust) - [Critical errors in the 2011-2012 FTC antitrust investigation of Google](https://danluu.com/ftc-google-antitrust/)
