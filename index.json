@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-27, 20:33:09",
+      "https://lobste.rs/s/dwsins/writing_fast_string_ufuncs_for_numpy_2_0"
+    ],
+    [
+      "Writing fast string ufuncs for NumPy 2.0",
+      "https://labs.quansight.org/blog/numpy-string-ufuncs"
+    ]
+  ],
+  [
+    [
       "2024-05-27, 19:54:04",
       "https://lobste.rs/s/ruwss6/gleam_v1_2_released_with_lsp_improvements"
     ],
@@ -57,16 +67,6 @@
     [
       "helix-gpui: helix gpui frontend",
       "https://github.com/polachok/helix-gpui"
-    ]
-  ],
-  [
-    [
-      "2024-05-27, 15:34:06",
-      "https://lobste.rs/s/k44x9l/gh_dash_beautiful_cli_dashboard_for"
-    ],
-    [
-      "gh-dash: A beautiful CLI dashboard for GitHub",
-      "https://github.com/dlvhdr/gh-dash"
     ]
   ],
   [
