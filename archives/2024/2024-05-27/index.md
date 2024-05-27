@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-27](index.md)
 
+* [2024-05-27, 13:15:19](https://lobste.rs/s/3eyw8x/cps_hoot) - [cps in hoot](https://wingolog.org/archives/2024/05/27/cps-in-hoot)
+* [2024-05-27, 13:02:51](https://lobste.rs/s/pfzfmz/amber_programming_language_compiled) - [Amber The Programming Language compiled to Bash](https://amber-lang.com/)
 * [2024-05-27, 12:56:02](https://lobste.rs/s/r2mhfa/my_home_server_journey_from_raspberry_pi) - [My Home Server Journey - From Raspberry Pi to Ryzen](https://blog.viktorpetersson.com/2024/05/04/home-server-journey.html)
 * [2024-05-27, 11:42:54](https://lobste.rs/s/yvolv4/iconv_set_charset_rce_exploiting_glibc) - [Iconv, set the charset to RCE: Exploiting the glibc to hack the PHP engine](https://www.ambionics.io/blog/iconv-cve-2024-2961-p1)
 * [2024-05-27, 10:16:27](https://lobste.rs/s/ekic3t/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ekic3t/what_are_you_doing_this_week)

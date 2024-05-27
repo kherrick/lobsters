@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-27, 13:15:19](https://lobste.rs/s/3eyw8x/cps_hoot) - [cps in hoot](https://wingolog.org/archives/2024/05/27/cps-in-hoot)
+* [2024-05-27, 13:02:51](https://lobste.rs/s/pfzfmz/amber_programming_language_compiled) - [Amber The Programming Language compiled to Bash](https://amber-lang.com/)
 * [2024-05-27, 12:56:02](https://lobste.rs/s/r2mhfa/my_home_server_journey_from_raspberry_pi) - [My Home Server Journey - From Raspberry Pi to Ryzen](https://blog.viktorpetersson.com/2024/05/04/home-server-journey.html)
 * [2024-05-27, 11:42:54](https://lobste.rs/s/yvolv4/iconv_set_charset_rce_exploiting_glibc) - [Iconv, set the charset to RCE: Exploiting the glibc to hack the PHP engine](https://www.ambionics.io/blog/iconv-cve-2024-2961-p1)
 * [2024-05-27, 10:16:27](https://lobste.rs/s/ekic3t/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ekic3t/what_are_you_doing_this_week)
@@ -23,8 +25,6 @@
 * [2024-05-26, 00:53:12](https://lobste.rs/s/cyctfl/grc_spinrite) - [GRC SpinRite](https://computer.rip/2024-05-25-grc-spinrite.html)
 * [2024-05-25, 20:12:53](https://lobste.rs/s/2jpbgp/extend_your_battery_life_with_scx) - [Extend your battery life with scx_rustland](https://arighi.blogspot.com/2024/05/extend-your-battery-life-with.html)
 * [2024-05-25, 18:09:07](https://lobste.rs/s/o2mynl/tmux_is_worse_is_better) - [tmux is worse is better](https://hiandrewquinn.github.io/til-site/posts/tmux-is-worse-is-better/)
-* [2024-05-25, 13:16:12](https://lobste.rs/s/ob8uie/how_python_compares_floats_ints_when) - [How Python Compares Floats and Ints: When Equals Isn’t Really Equal](https://blog.codingconfessions.com/p/how-python-compares-floats-and-ints)
-* [2024-05-25, 11:41:05](https://lobste.rs/s/t6pdiz/feed_blogrolls_discovery) - [Feed and Blogrolls Discovery](https://andregarzia.com/2024/05/feed-and-blogrolls-discovery.html)
 
 ## [Archives](archives/index.md)
 
