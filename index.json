@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2024-05-27, 15:34:06",
+      "https://lobste.rs/s/k44x9l/gh_dash_beautiful_cli_dashboard_for"
+    ],
+    [
+      "gh-dash: A beautiful CLI dashboard for GitHub",
+      "https://github.com/dlvhdr/gh-dash"
+    ]
+  ],
+  [
+    [
       "2024-05-27, 15:14:38",
       "https://lobste.rs/s/ddessq/instead_auth_we_should_say_permissions"
     ],
@@ -137,16 +147,6 @@
     [
       "My Home Server Journey - From Raspberry Pi to Ryzen",
       "https://blog.viktorpetersson.com/2024/05/04/home-server-journey.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-27, 11:42:54",
-      "https://lobste.rs/s/yvolv4/iconv_set_charset_rce_exploiting_glibc"
-    ],
-    [
-      "Iconv, set the charset to RCE: Exploiting the glibc to hack the PHP engine",
-      "https://www.ambionics.io/blog/iconv-cve-2024-2961-p1"
     ]
   ],
   [
