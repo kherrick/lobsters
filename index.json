@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-27, 09:32:15",
+      "https://lobste.rs/s/hjmrl1/how_we_migrated_our_static_analyzer_from"
+    ],
+    [
+      "How We Migrated Our Static Analyzer From Java To Rust",
+      "https://www.datadoghq.com/blog/engineering/how-we-migrated-our-static-analyzer-from-java-to-rust/"
+    ]
+  ],
+  [
+    [
       "2024-05-27, 08:42:34",
       "https://lobste.rs/s/gbeirc/defense_mac_pro_2023"
     ],
@@ -217,16 +227,6 @@
     [
       "A new way to bring garbage collected programming languages efficiently to WebAssembly",
       "https://v8.dev/blog/wasm-gc-porting"
-    ]
-  ],
-  [
-    [
-      "2024-05-25, 13:35:42",
-      "https://lobste.rs/s/eegxuh/abusing_go_s_infrastructure"
-    ],
-    [
-      "Abusing Go's infrastructure",
-      "https://reverse.put.as/2024/05/24/abusing-go-infrastructure/"
     ]
   ],
   [
