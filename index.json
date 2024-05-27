@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-27, 15:14:38",
+      "https://lobste.rs/s/ddessq/instead_auth_we_should_say_permissions"
+    ],
+    [
+      "Instead of \"auth\", we should say \"permissions\" and \"login\"",
+      "https://ntietz.com/blog/lets-say-instead-of-auth/"
+    ]
+  ],
+  [
+    [
       "2024-05-27, 14:26:27",
       "https://lobste.rs/s/xkgp2a/reclaiming_ipv4_class_e_s_240_0_0_0_4"
     ],
@@ -237,16 +247,6 @@
     [
       "Linux Performance Analysis in 60,000 Milliseconds (2015)",
       "https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55"
-    ]
-  ],
-  [
-    [
-      "2024-05-25, 18:09:07",
-      "https://lobste.rs/s/o2mynl/tmux_is_worse_is_better"
-    ],
-    [
-      "tmux is worse is better",
-      "https://hiandrewquinn.github.io/til-site/posts/tmux-is-worse-is-better/"
     ]
   ]
 ]
