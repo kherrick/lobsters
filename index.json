@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-27, 23:10:12",
+      "https://lobste.rs/s/twk186/on_fire_drills_phishing_tests"
+    ],
+    [
+      "On Fire Drills and Phishing Tests",
+      "https://security.googleblog.com/2024/05/on-fire-drills-and-phishing-tests.html"
+    ]
+  ],
+  [
+    [
       "2024-05-27, 20:33:09",
       "https://lobste.rs/s/dwsins/writing_fast_string_ufuncs_for_numpy_2_0"
     ],
@@ -47,16 +57,6 @@
     [
       "How does sync.WaitGroup work under the hood",
       "https://blog.meain.io/2024/sync-waitgroup-internals/"
-    ]
-  ],
-  [
-    [
-      "2024-05-27, 17:00:53",
-      "https://lobste.rs/s/wbda9q/comprehensive_guide_generating"
-    ],
-    [
-      "Comprehensive Guide to Generating and Understanding SBOMs with Docker and Django-CMS - sbomify",
-      "https://sbomify.com/2024/05/27/comprehensive-guide-to-generating-and-understanding-sboms-with-docker-and-django-cms/"
     ]
   ],
   [
