@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-28, 09:25:31](https://lobste.rs/s/ddwtyx/0x61_wayland_sway_on_openbsd) - [『 0x61 』- Wayland/Sway on OpenBSD](https://x61.sh/log/2024/05/27052024192206-sway_openbsd.html)
 * [2024-05-28, 07:48:10](https://lobste.rs/s/0gdjfp/so_many_feed_readers_so_many_bizarre) - [So many feed readers, so many bizarre behaviors](https://rachelbythebay.com/w/2024/05/27/feed/)
 * [2024-05-28, 05:56:31](https://lobste.rs/s/vkxf5j/baudio_audio_tinkerers_plaything_dac) - [baudio: Audio Tinkerers Plaything (DAC/CMoy Amp/VU/DigiPots)](https://github.com/spbkaizo/baudio/tree/main)
 * [2024-05-28, 05:26:57](https://lobste.rs/s/64leqm/cntr_container_debugging_tool_based_on) - [cntr: A container debugging tool based on FUSE](https://github.com/Mic92/cntr)
@@ -18,7 +19,6 @@
 * [2024-05-27, 13:02:51](https://lobste.rs/s/pfzfmz/amber_programming_language_compiled) - [Amber The Programming Language compiled to Bash](https://amber-lang.com/)
 * [2024-05-27, 12:56:02](https://lobste.rs/s/r2mhfa/my_home_server_journey_from_raspberry_pi) - [My Home Server Journey - From Raspberry Pi to Ryzen](https://blog.viktorpetersson.com/2024/05/04/home-server-journey.html)
 * [2024-05-27, 09:53:30](https://lobste.rs/s/0zjfai/my_new_psu_burns_out_i_fix_it_torture_it_by) - [My new PSU burns out! I fix it, and torture it by cracking water](https://tomscii.sig7.se/2024/05/PSU-burnout-and-torture-cracking-water)
-* [2024-05-27, 09:32:15](https://lobste.rs/s/hjmrl1/how_we_migrated_our_static_analyzer_from) - [How We Migrated Our Static Analyzer From Java To Rust](https://www.datadoghq.com/blog/engineering/how-we-migrated-our-static-analyzer-from-java-to-rust/)
 * [2024-05-27, 08:42:34](https://lobste.rs/s/gbeirc/defense_mac_pro_2023) - [In Defense of the Mac Pro 2023](https://virtuallyfun.com/2024/05/26/in-defense-of-the-mac-pro-2023/)
 * [2024-05-27, 06:51:59](https://lobste.rs/s/jm1tjx/my_bdfl_guiding_principles) - [My BDFL guiding principles](https://daniel.haxx.se/blog/2024/05/27/my-bdfl-guiding-principles/)
 * [2024-05-27, 05:17:18](https://lobste.rs/s/igwikc/post_open_license_first_draft) - [Post-Open License: First Draft](https://perens.com/2024/03/08/post-open-license-first-draft/)
