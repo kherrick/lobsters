@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-28, 10:38:03](https://lobste.rs/s/36k9zp/way_we_are_building_event_driven) - [The Way We Are Building Event-Driven Applications is Misguided. This is Why We Created Infinitic](https://gillesbarbier.medium.com/the-way-we-are-building-event-driven-applications-is-misguided-7f7c5f1a9061)
 * [2024-05-28, 10:00:33](https://lobste.rs/s/5kftey/why_do_i_have_slow_commit_postgresql) - [Why do I have a slow COMMIT in PostgreSQL?](https://www.cybertec-postgresql.com/en/why-do-i-have-a-slow-commit-in-postgresql/)
 * [2024-05-28, 09:25:31](https://lobste.rs/s/ddwtyx/0x61_wayland_sway_on_openbsd) - [『 0x61 』- Wayland/Sway on OpenBSD](https://x61.sh/log/2024/05/27052024192206-sway_openbsd.html)
 * [2024-05-28, 07:48:10](https://lobste.rs/s/0gdjfp/so_many_feed_readers_so_many_bizarre) - [So many feed readers, so many bizarre behaviors](https://rachelbythebay.com/w/2024/05/27/feed/)
@@ -15,7 +16,6 @@
 * [2024-05-27, 14:26:27](https://lobste.rs/s/xkgp2a/reclaiming_ipv4_class_e_s_240_0_0_0_4) - [Reclaiming IPv4 Class E's 240.0.0.0/4](https://blog.benjojo.co.uk/post/class-e-addresses-in-the-real-world)
 * [2024-05-27, 14:02:17](https://lobste.rs/s/wr5rtm/generating_almost_normally_distributed) - [Generating Almost Normally Distributed Values](https://two-wrongs.com/generating-almost-normally-distributed-values.html)
 * [2024-05-27, 13:59:54](https://lobste.rs/s/qq9brg/when_privacy_expires_how_i_got_access_tons) - [When privacy expires: how I got access to tons of sensitive citizen data after buying cheap domains](https://inti.io/p/when-privacy-expires-how-i-got-access)
-* [2024-05-27, 13:15:19](https://lobste.rs/s/3eyw8x/cps_hoot) - [cps in hoot](https://wingolog.org/archives/2024/05/27/cps-in-hoot)
 * [2024-05-27, 13:02:51](https://lobste.rs/s/pfzfmz/amber_programming_language_compiled) - [Amber The Programming Language compiled to Bash](https://amber-lang.com/)
 * [2024-05-27, 12:56:02](https://lobste.rs/s/r2mhfa/my_home_server_journey_from_raspberry_pi) - [My Home Server Journey - From Raspberry Pi to Ryzen](https://blog.viktorpetersson.com/2024/05/04/home-server-journey.html)
 * [2024-05-27, 09:53:30](https://lobste.rs/s/0zjfai/my_new_psu_burns_out_i_fix_it_torture_it_by) - [My new PSU burns out! I fix it, and torture it by cracking water](https://tomscii.sig7.se/2024/05/PSU-burnout-and-torture-cracking-water)
