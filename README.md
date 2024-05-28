@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-28, 14:49:41](https://lobste.rs/s/oocpuu/pyapp_is_wrapper_for_python_applications) - [PyApp is a wrapper for Python applications that bootstrap themselves at runtime](https://ofek.dev/pyapp/latest/)
 * [2024-05-28, 14:19:47](https://lobste.rs/s/7yumvg/ping_ff02_1) - [ping ff02::1](https://astrid.tech/2024/05/28/0/ping-ff02-1)
 * [2024-05-28, 13:48:03](https://lobste.rs/s/ymxynk/calling_time_on_dnssec) - [Calling Time on DNSSEC?](https://www.potaroo.net/ispcol/2024-05/dnssec-fin.html)
 * [2024-05-28, 13:37:45](https://lobste.rs/s/xvqypy/3d_printed_ibm_thinkpad_701c_case) - [A 3D-Printed IBM ThinkPad 701C case](https://www.youtube.com/watch?v=4I7mhI6s5cg)
 * [2024-05-28, 13:07:16](https://lobste.rs/s/kev1yu/how_does_ai_impact_my_job_as_programmer) - [How does AI impact my job as a programmer?](https://chelseatroy.com/2024/05/26/how-does-ai-impact-my-job-as-a-programmer/)
 * [2024-05-28, 12:52:00](https://lobste.rs/s/uhvray/boundaries_language_design) - [Boundaries of Language Design](https://www.youtube.com/watch?v=3K8znjWN_Ig)
-* [2024-05-28, 12:46:21](https://lobste.rs/s/6dzpof/wasmi_s_new_execution_engine) - [Wasmi's New Execution Engine](https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/)
 * [2024-05-28, 12:26:13](https://lobste.rs/s/oxjvv0/0_1_0_2) - [0.1 + 0.2](https://rtfeldman.com/0.1-plus-0.2)
 * [2024-05-28, 11:40:44](https://lobste.rs/s/sdxsa9/do_i_not_like_ruby_anymore) - [Do I not like Ruby anymore?](https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/)
 * [2024-05-28, 10:00:33](https://lobste.rs/s/5kftey/why_do_i_have_slow_commit_postgresql) - [Why do I have a slow COMMIT in PostgreSQL?](https://www.cybertec-postgresql.com/en/why-do-i-have-a-slow-commit-in-postgresql/)
