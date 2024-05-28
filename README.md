@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-28, 12:26:13](https://lobste.rs/s/oxjvv0/0_1_0_2) - [0.1 + 0.2](https://rtfeldman.com/0.1-plus-0.2)
 * [2024-05-28, 11:40:44](https://lobste.rs/s/sdxsa9/do_i_not_like_ruby_anymore) - [Do I not like Ruby anymore?](https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/)
 * [2024-05-28, 11:39:33](https://lobste.rs/s/i5tw8e/fret_clean) - [-fret-clean](https://isopenbsdsecu.re/mitigations/fret_clean/)
 * [2024-05-28, 10:38:03](https://lobste.rs/s/36k9zp/way_we_are_building_event_driven) - [The Way We Are Building Event-Driven Applications is Misguided. This is Why We Created Infinitic](https://gillesbarbier.medium.com/the-way-we-are-building-event-driven-applications-is-misguided-7f7c5f1a9061)
@@ -24,7 +25,6 @@
 * [2024-05-27, 08:42:34](https://lobste.rs/s/gbeirc/defense_mac_pro_2023) - [In Defense of the Mac Pro 2023](https://virtuallyfun.com/2024/05/26/in-defense-of-the-mac-pro-2023/)
 * [2024-05-27, 06:51:59](https://lobste.rs/s/jm1tjx/my_bdfl_guiding_principles) - [My BDFL guiding principles](https://daniel.haxx.se/blog/2024/05/27/my-bdfl-guiding-principles/)
 * [2024-05-26, 22:55:22](https://lobste.rs/s/ggjkbv/evolution_elf_object_file_format) - [Evolution of the ELF object file format](https://maskray.me/blog/2024-05-26-evolution-of-elf-object-file-format)
-* [2024-05-26, 20:20:32](https://lobste.rs/s/mjwz42/another_year_with_decker) - [Another Year With Decker](https://beyondloom.com/blog/unionstate2.html)
 
 ## [Archives](archives/index.md)
 

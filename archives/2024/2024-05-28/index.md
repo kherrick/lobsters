@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-28](index.md)
 
+* [2024-05-28, 12:26:13](https://lobste.rs/s/oxjvv0/0_1_0_2) - [0.1 + 0.2](https://rtfeldman.com/0.1-plus-0.2)
 * [2024-05-28, 11:40:44](https://lobste.rs/s/sdxsa9/do_i_not_like_ruby_anymore) - [Do I not like Ruby anymore?](https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/)
 * [2024-05-28, 11:39:33](https://lobste.rs/s/i5tw8e/fret_clean) - [-fret-clean](https://isopenbsdsecu.re/mitigations/fret_clean/)
 * [2024-05-28, 10:38:03](https://lobste.rs/s/36k9zp/way_we_are_building_event_driven) - [The Way We Are Building Event-Driven Applications is Misguided. This is Why We Created Infinitic](https://gillesbarbier.medium.com/the-way-we-are-building-event-driven-applications-is-misguided-7f7c5f1a9061)
