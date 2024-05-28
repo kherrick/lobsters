@@ -2,6 +2,7 @@
 
 * [2024-05-28, 20:39:49](https://lobste.rs/s/wqff1k/cdns_have_same_privacy_content_validity) - [CDNs have the same privacy and content validity implications as ISPs in the pre-HTTPS days](https://chickadee.codes/cdn.html)
 * [2024-05-28, 20:31:59](https://lobste.rs/s/7nbrzs/your_api_shouldn_t_redirect_http_https) - [Your API Shouldn't Redirect HTTP to HTTPS](https://jviide.iki.fi/http-redirects)
+* [2024-05-28, 20:24:22](https://lobste.rs/s/4mhjqy/eradicating_n_1s_two_phase_data_load) - [Eradicating N+1s: The Two-phase Data Load and Render Pattern in Go](https://brandur.org/two-phase-render)
 * [2024-05-28, 19:42:54](https://lobste.rs/s/cjqrug/terminaltexteffects) - [TerminalTextEffects](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
 * [2024-05-28, 17:47:38](https://lobste.rs/s/5b9wsy/controlling_taylor_swift_eras_tour) - [Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
 * [2024-05-28, 17:31:23](https://lobste.rs/s/gdcczq/avoiding_over_reliance_on_mpsc_channels) - [Avoiding Over-Reliance on `mpsc` channels in Rust](https://blog.digital-horror.com/blog/how-to-avoid-over-reliance-on-mpsc/)
@@ -9,7 +10,6 @@
 * [2024-05-28, 17:00:27](https://lobste.rs/s/aql3vd/tla_unicode_support_learning_work_with) - [TLA⁺ Unicode support: Learning to work with others in open source](https://ahelwer.ca/post/2024-05-28-tla-unicode/)
 * [2024-05-28, 16:29:56](https://lobste.rs/s/ddb0a1/ode_postgresql_why_it_is_still_time_start) - [An ode to PostgreSQL, and why it is still time to start over](https://cedardb.com/blog/ode_to_postgres/)
 * [2024-05-28, 16:23:43](https://lobste.rs/s/zzhd9y/50x_faster_conda_environment_solving) - [50x faster conda environment solving with \"sharded\" repodata](https://prefix.dev/blog/sharded_repodata)
-* [2024-05-28, 15:21:55](https://lobste.rs/s/ukyjg1/dbus_systemd) - [DBus and systemd](https://uyha.github.io/technical/dbus-systemd.html)
 * [2024-05-28, 14:49:41](https://lobste.rs/s/oocpuu/pyapp_is_wrapper_for_python_applications) - [PyApp is a wrapper for Python applications that bootstrap themselves at runtime](https://ofek.dev/pyapp/latest/)
 * [2024-05-28, 14:19:47](https://lobste.rs/s/7yumvg/ping_ff02_1) - [ping ff02::1](https://astrid.tech/2024/05/28/0/ping-ff02-1)
 * [2024-05-28, 13:48:03](https://lobste.rs/s/ymxynk/calling_time_on_dnssec) - [Calling Time on DNSSEC?](https://www.potaroo.net/ispcol/2024-05/dnssec-fin.html)

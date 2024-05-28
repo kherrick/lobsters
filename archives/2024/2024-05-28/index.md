@@ -6,6 +6,7 @@
 
 * [2024-05-28, 20:39:49](https://lobste.rs/s/wqff1k/cdns_have_same_privacy_content_validity) - [CDNs have the same privacy and content validity implications as ISPs in the pre-HTTPS days](https://chickadee.codes/cdn.html)
 * [2024-05-28, 20:31:59](https://lobste.rs/s/7nbrzs/your_api_shouldn_t_redirect_http_https) - [Your API Shouldn't Redirect HTTP to HTTPS](https://jviide.iki.fi/http-redirects)
+* [2024-05-28, 20:24:22](https://lobste.rs/s/4mhjqy/eradicating_n_1s_two_phase_data_load) - [Eradicating N+1s: The Two-phase Data Load and Render Pattern in Go](https://brandur.org/two-phase-render)
 * [2024-05-28, 19:42:54](https://lobste.rs/s/cjqrug/terminaltexteffects) - [TerminalTextEffects](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
 * [2024-05-28, 17:47:38](https://lobste.rs/s/5b9wsy/controlling_taylor_swift_eras_tour) - [Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
 * [2024-05-28, 17:31:23](https://lobste.rs/s/gdcczq/avoiding_over_reliance_on_mpsc_channels) - [Avoiding Over-Reliance on `mpsc` channels in Rust](https://blog.digital-horror.com/blog/how-to-avoid-over-reliance-on-mpsc/)
