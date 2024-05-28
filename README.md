@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-28, 13:48:03](https://lobste.rs/s/ymxynk/calling_time_on_dnssec) - [Calling Time on DNSSEC?](https://www.potaroo.net/ispcol/2024-05/dnssec-fin.html)
 * [2024-05-28, 13:37:45](https://lobste.rs/s/xvqypy/3d_printed_ibm_thinkpad_701c_case) - [A 3D-Printed IBM ThinkPad 701C case](https://www.youtube.com/watch?v=4I7mhI6s5cg)
 * [2024-05-28, 13:07:16](https://lobste.rs/s/kev1yu/how_does_ai_impact_my_job_as_programmer) - [How does AI impact my job as a programmer?](https://chelseatroy.com/2024/05/26/how-does-ai-impact-my-job-as-a-programmer/)
 * [2024-05-28, 12:52:00](https://lobste.rs/s/uhvray/boundaries_language_design) - [Boundaries of Language Design](https://www.youtube.com/watch?v=3K8znjWN_Ig)
@@ -22,7 +23,6 @@
 * [2024-05-27, 13:59:54](https://lobste.rs/s/qq9brg/when_privacy_expires_how_i_got_access_tons) - [When privacy expires: how I got access to tons of sensitive citizen data after buying cheap domains](https://inti.io/p/when-privacy-expires-how-i-got-access)
 * [2024-05-27, 13:02:51](https://lobste.rs/s/pfzfmz/amber_programming_language_compiled) - [Amber The Programming Language compiled to Bash](https://amber-lang.com/)
 * [2024-05-27, 12:56:02](https://lobste.rs/s/r2mhfa/my_home_server_journey_from_raspberry_pi) - [My Home Server Journey - From Raspberry Pi to Ryzen](https://blog.viktorpetersson.com/2024/05/04/home-server-journey.html)
-* [2024-05-27, 09:53:30](https://lobste.rs/s/0zjfai/my_new_psu_burns_out_i_fix_it_torture_it_by) - [My new PSU burns out! I fix it, and torture it by cracking water](https://tomscii.sig7.se/2024/05/PSU-burnout-and-torture-cracking-water)
 * [2024-05-27, 08:42:34](https://lobste.rs/s/gbeirc/defense_mac_pro_2023) - [In Defense of the Mac Pro 2023](https://virtuallyfun.com/2024/05/26/in-defense-of-the-mac-pro-2023/)
 * [2024-05-27, 06:51:59](https://lobste.rs/s/jm1tjx/my_bdfl_guiding_principles) - [My BDFL guiding principles](https://daniel.haxx.se/blog/2024/05/27/my-bdfl-guiding-principles/)
 
