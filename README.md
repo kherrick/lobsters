@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-28, 15:42:29](https://lobste.rs/s/tzgj1l/numpy_2_0_0_release_notes) - [NumPy 2.0.0 Release Notes](https://numpy.org/devdocs/release/2.0.0-notes.html)
 * [2024-05-28, 15:33:44](https://lobste.rs/s/6mrszv/chisel_c_together_at_last) - [Chisel and C++, together at last](https://kivikakk.ee/digital/2024/05/28/chisel-and-cxx/)
 * [2024-05-28, 15:21:55](https://lobste.rs/s/ukyjg1/dbus_systemd) - [DBus and systemd](https://uyha.github.io/technical/dbus-systemd.html)
 * [2024-05-28, 14:49:41](https://lobste.rs/s/oocpuu/pyapp_is_wrapper_for_python_applications) - [PyApp is a wrapper for Python applications that bootstrap themselves at runtime](https://ofek.dev/pyapp/latest/)
@@ -23,7 +24,6 @@
 * [2024-05-27, 14:02:17](https://lobste.rs/s/wr5rtm/generating_almost_normally_distributed) - [Generating Almost Normally Distributed Values](https://two-wrongs.com/generating-almost-normally-distributed-values.html)
 * [2024-05-27, 13:59:54](https://lobste.rs/s/qq9brg/when_privacy_expires_how_i_got_access_tons) - [When privacy expires: how I got access to tons of sensitive citizen data after buying cheap domains](https://inti.io/p/when-privacy-expires-how-i-got-access)
 * [2024-05-27, 13:02:51](https://lobste.rs/s/pfzfmz/amber_programming_language_compiled) - [Amber The Programming Language compiled to Bash](https://amber-lang.com/)
-* [2024-05-27, 12:56:02](https://lobste.rs/s/r2mhfa/my_home_server_journey_from_raspberry_pi) - [My Home Server Journey - From Raspberry Pi to Ryzen](https://blog.viktorpetersson.com/2024/05/04/home-server-journey.html)
 * [2024-05-27, 06:51:59](https://lobste.rs/s/jm1tjx/my_bdfl_guiding_principles) - [My BDFL guiding principles](https://daniel.haxx.se/blog/2024/05/27/my-bdfl-guiding-principles/)
 
 ## [Archives](archives/index.md)

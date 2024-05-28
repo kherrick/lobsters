@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-28](index.md)
 
+* [2024-05-28, 15:42:29](https://lobste.rs/s/tzgj1l/numpy_2_0_0_release_notes) - [NumPy 2.0.0 Release Notes](https://numpy.org/devdocs/release/2.0.0-notes.html)
 * [2024-05-28, 15:33:44](https://lobste.rs/s/6mrszv/chisel_c_together_at_last) - [Chisel and C++, together at last](https://kivikakk.ee/digital/2024/05/28/chisel-and-cxx/)
 * [2024-05-28, 15:21:55](https://lobste.rs/s/ukyjg1/dbus_systemd) - [DBus and systemd](https://uyha.github.io/technical/dbus-systemd.html)
 * [2024-05-28, 14:49:41](https://lobste.rs/s/oocpuu/pyapp_is_wrapper_for_python_applications) - [PyApp is a wrapper for Python applications that bootstrap themselves at runtime](https://ofek.dev/pyapp/latest/)
