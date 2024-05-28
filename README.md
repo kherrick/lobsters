@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-28, 20:39:49](https://lobste.rs/s/wqff1k/cdns_have_same_privacy_content_validity) - [CDNs have the same privacy and content validity implications as ISPs in the pre-HTTPS days](https://chickadee.codes/cdn.html)
+* [2024-05-28, 20:31:59](https://lobste.rs/s/7nbrzs/your_api_shouldn_t_redirect_http_https) - [Your API Shouldn't Redirect HTTP to HTTPS](https://jviide.iki.fi/http-redirects)
 * [2024-05-28, 19:42:54](https://lobste.rs/s/cjqrug/terminaltexteffects) - [TerminalTextEffects](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
 * [2024-05-28, 17:47:38](https://lobste.rs/s/5b9wsy/controlling_taylor_swift_eras_tour) - [Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
 * [2024-05-28, 17:31:23](https://lobste.rs/s/gdcczq/avoiding_over_reliance_on_mpsc_channels) - [Avoiding Over-Reliance on `mpsc` channels in Rust](https://blog.digital-horror.com/blog/how-to-avoid-over-reliance-on-mpsc/)
@@ -7,7 +9,6 @@
 * [2024-05-28, 17:00:27](https://lobste.rs/s/aql3vd/tla_unicode_support_learning_work_with) - [TLA⁺ Unicode support: Learning to work with others in open source](https://ahelwer.ca/post/2024-05-28-tla-unicode/)
 * [2024-05-28, 16:29:56](https://lobste.rs/s/ddb0a1/ode_postgresql_why_it_is_still_time_start) - [An ode to PostgreSQL, and why it is still time to start over](https://cedardb.com/blog/ode_to_postgres/)
 * [2024-05-28, 16:23:43](https://lobste.rs/s/zzhd9y/50x_faster_conda_environment_solving) - [50x faster conda environment solving with \"sharded\" repodata](https://prefix.dev/blog/sharded_repodata)
-* [2024-05-28, 15:33:44](https://lobste.rs/s/6mrszv/chisel_c_together_at_last) - [Chisel and C++, together at last](https://kivikakk.ee/digital/2024/05/28/chisel-and-cxx/)
 * [2024-05-28, 15:21:55](https://lobste.rs/s/ukyjg1/dbus_systemd) - [DBus and systemd](https://uyha.github.io/technical/dbus-systemd.html)
 * [2024-05-28, 14:49:41](https://lobste.rs/s/oocpuu/pyapp_is_wrapper_for_python_applications) - [PyApp is a wrapper for Python applications that bootstrap themselves at runtime](https://ofek.dev/pyapp/latest/)
 * [2024-05-28, 14:19:47](https://lobste.rs/s/7yumvg/ping_ff02_1) - [ping ff02::1](https://astrid.tech/2024/05/28/0/ping-ff02-1)
@@ -24,7 +25,6 @@
 * [2024-05-27, 17:56:13](https://lobste.rs/s/sofl2n/mastodon_client_for_palmos) - [a mastodon client for palmOS](http://www.knickish.com/palm/rust/2023/09/12/a-mastodon-client-for-palmos.html)
 * [2024-05-27, 15:14:38](https://lobste.rs/s/ddessq/instead_auth_we_should_say_permissions) - [Instead of \"auth\", we should say \"permissions\" and \"login\"](https://ntietz.com/blog/lets-say-instead-of-auth/)
 * [2024-05-27, 14:26:27](https://lobste.rs/s/xkgp2a/reclaiming_ipv4_class_e_s_240_0_0_0_4) - [Reclaiming IPv4 Class E's 240.0.0.0/4](https://blog.benjojo.co.uk/post/class-e-addresses-in-the-real-world)
-* [2024-05-27, 13:59:54](https://lobste.rs/s/qq9brg/when_privacy_expires_how_i_got_access_tons) - [When privacy expires: how I got access to tons of sensitive citizen data after buying cheap domains](https://inti.io/p/when-privacy-expires-how-i-got-access)
 
 ## [Archives](archives/index.md)
 
