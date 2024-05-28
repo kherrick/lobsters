@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-28](index.md)
 
+* [2024-05-28, 19:42:54](https://lobste.rs/s/cjqrug/terminaltexteffects) - [TerminalTextEffects](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
 * [2024-05-28, 17:47:38](https://lobste.rs/s/5b9wsy/controlling_taylor_swift_eras_tour) - [Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
 * [2024-05-28, 17:31:23](https://lobste.rs/s/gdcczq/avoiding_over_reliance_on_mpsc_channels) - [Avoiding Over-Reliance on `mpsc` channels in Rust](https://blog.digital-horror.com/blog/how-to-avoid-over-reliance-on-mpsc/)
 * [2024-05-28, 17:23:51](https://lobste.rs/s/xtxsev/meshtastic_lora_rf_protocol_reverse) - [Meshtastic (LoRa) RF protocol reverse engineered from RF to Bytestream for GnuRadio](https://infosec.exchange/@crankylinuxuser/112519092086906907)
