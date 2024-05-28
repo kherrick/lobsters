@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-28](index.md)
 
+* [2024-05-28, 17:23:51](https://lobste.rs/s/xtxsev/meshtastic_lora_rf_protocol_reverse) - [Meshtastic (LoRa) RF protocol reverse engineered from RF to Bytestream for GnuRadio](https://infosec.exchange/@crankylinuxuser/112519092086906907)
 * [2024-05-28, 17:00:27](https://lobste.rs/s/aql3vd/tla_unicode_support_learning_work_with) - [TLA⁺ Unicode support: Learning to work with others in open source](https://ahelwer.ca/post/2024-05-28-tla-unicode/)
+* [2024-05-28, 16:29:56](https://lobste.rs/s/ddb0a1/ode_postgresql_why_it_is_still_time_start) - [An ode to PostgreSQL, and why it is still time to start over](https://cedardb.com/blog/ode_to_postgres/)
 * [2024-05-28, 16:23:43](https://lobste.rs/s/zzhd9y/50x_faster_conda_environment_solving) - [50x faster conda environment solving with \"sharded\" repodata](https://prefix.dev/blog/sharded_repodata)
 * [2024-05-28, 15:42:29](https://lobste.rs/s/tzgj1l/numpy_2_0_0_release_notes) - [NumPy 2.0.0 Release Notes](https://numpy.org/devdocs/release/2.0.0-notes.html)
 * [2024-05-28, 15:33:44](https://lobste.rs/s/6mrszv/chisel_c_together_at_last) - [Chisel and C++, together at last](https://kivikakk.ee/digital/2024/05/28/chisel-and-cxx/)
