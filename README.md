@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-28, 15:33:44](https://lobste.rs/s/6mrszv/chisel_c_together_at_last) - [Chisel and C++, together at last](https://kivikakk.ee/digital/2024/05/28/chisel-and-cxx/)
 * [2024-05-28, 15:21:55](https://lobste.rs/s/ukyjg1/dbus_systemd) - [DBus and systemd](https://uyha.github.io/technical/dbus-systemd.html)
 * [2024-05-28, 14:49:41](https://lobste.rs/s/oocpuu/pyapp_is_wrapper_for_python_applications) - [PyApp is a wrapper for Python applications that bootstrap themselves at runtime](https://ofek.dev/pyapp/latest/)
 * [2024-05-28, 14:19:47](https://lobste.rs/s/7yumvg/ping_ff02_1) - [ping ff02::1](https://astrid.tech/2024/05/28/0/ping-ff02-1)
@@ -9,7 +10,6 @@
 * [2024-05-28, 12:52:00](https://lobste.rs/s/uhvray/boundaries_language_design) - [Boundaries of Language Design](https://www.youtube.com/watch?v=3K8znjWN_Ig)
 * [2024-05-28, 12:26:13](https://lobste.rs/s/oxjvv0/0_1_0_2) - [0.1 + 0.2](https://rtfeldman.com/0.1-plus-0.2)
 * [2024-05-28, 11:40:44](https://lobste.rs/s/sdxsa9/do_i_not_like_ruby_anymore) - [Do I not like Ruby anymore?](https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/)
-* [2024-05-28, 10:00:33](https://lobste.rs/s/5kftey/why_do_i_have_slow_commit_postgresql) - [Why do I have a slow COMMIT in PostgreSQL?](https://www.cybertec-postgresql.com/en/why-do-i-have-a-slow-commit-in-postgresql/)
 * [2024-05-28, 09:25:31](https://lobste.rs/s/ddwtyx/wayland_sway_on_openbsd) - [Wayland/Sway on OpenBSD](https://x61.sh/log/2024/05/27052024192206-sway_openbsd.html)
 * [2024-05-28, 07:48:10](https://lobste.rs/s/0gdjfp/so_many_feed_readers_so_many_bizarre) - [So many feed readers, so many bizarre behaviors](https://rachelbythebay.com/w/2024/05/27/feed/)
 * [2024-05-28, 05:56:31](https://lobste.rs/s/vkxf5j/baudio_audio_tinkerers_plaything_dac) - [baudio: Audio Tinkerers Plaything (DAC/CMoy Amp/VU/DigiPots)](https://github.com/spbkaizo/baudio/tree/main)
