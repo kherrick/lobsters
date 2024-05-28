@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-28, 05:56:31](https://lobste.rs/s/vkxf5j/baudio_audio_tinkerers_plaything_dac) - [baudio: Audio Tinkerers Plaything (DAC/CMoy Amp/VU/DigiPots)](https://github.com/spbkaizo/baudio/tree/main)
 * [2024-05-28, 05:26:57](https://lobste.rs/s/64leqm/cntr_container_debugging_tool_based_on) - [cntr: A container debugging tool based on FUSE](https://github.com/Mic92/cntr)
 * [2024-05-28, 04:14:42](https://lobste.rs/s/v7lyv2/refurb_weekend_canon_cat) - [Refurb weekend: Canon Cat](https://oldvcr.blogspot.com/2024/05/refurb-weekend-canon-cat.html)
 * [2024-05-27, 23:10:12](https://lobste.rs/s/twk186/on_fire_drills_phishing_tests) - [On Fire Drills and Phishing Tests](https://security.googleblog.com/2024/05/on-fire-drills-and-phishing-tests.html)
@@ -15,7 +16,6 @@
 * [2024-05-27, 13:15:19](https://lobste.rs/s/3eyw8x/cps_hoot) - [cps in hoot](https://wingolog.org/archives/2024/05/27/cps-in-hoot)
 * [2024-05-27, 13:02:51](https://lobste.rs/s/pfzfmz/amber_programming_language_compiled) - [Amber The Programming Language compiled to Bash](https://amber-lang.com/)
 * [2024-05-27, 12:56:02](https://lobste.rs/s/r2mhfa/my_home_server_journey_from_raspberry_pi) - [My Home Server Journey - From Raspberry Pi to Ryzen](https://blog.viktorpetersson.com/2024/05/04/home-server-journey.html)
-* [2024-05-27, 10:16:27](https://lobste.rs/s/ekic3t/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ekic3t/what_are_you_doing_this_week)
 * [2024-05-27, 09:53:30](https://lobste.rs/s/0zjfai/my_new_psu_burns_out_i_fix_it_torture_it_by) - [My new PSU burns out! I fix it, and torture it by cracking water](https://tomscii.sig7.se/2024/05/PSU-burnout-and-torture-cracking-water)
 * [2024-05-27, 09:32:15](https://lobste.rs/s/hjmrl1/how_we_migrated_our_static_analyzer_from) - [How We Migrated Our Static Analyzer From Java To Rust](https://www.datadoghq.com/blog/engineering/how-we-migrated-our-static-analyzer-from-java-to-rust/)
 * [2024-05-27, 08:42:34](https://lobste.rs/s/gbeirc/defense_mac_pro_2023) - [In Defense of the Mac Pro 2023](https://virtuallyfun.com/2024/05/26/in-defense-of-the-mac-pro-2023/)
