@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-28](index.md)
 
+* [2024-05-28, 13:37:45](https://lobste.rs/s/xvqypy/3d_printed_ibm_thinkpad_701c_case) - [A 3D-Printed IBM ThinkPad 701C case](https://www.youtube.com/watch?v=4I7mhI6s5cg)
 * [2024-05-28, 13:07:16](https://lobste.rs/s/kev1yu/how_does_ai_impact_my_job_as_programmer) - [How does AI impact my job as a programmer?](https://chelseatroy.com/2024/05/26/how-does-ai-impact-my-job-as-a-programmer/)
 * [2024-05-28, 12:52:00](https://lobste.rs/s/uhvray/boundaries_language_design_with_andrew) - [\"Boundaries of Language Design\" with Andrew Kelley (Zig) & Ginger Bill (Odin)](https://www.youtube.com/watch?v=3K8znjWN_Ig)
 * [2024-05-28, 12:52:00](https://lobste.rs/s/uhvray/boundaries_language_design) - [Boundaries of Language Design](https://www.youtube.com/watch?v=3K8znjWN_Ig)
