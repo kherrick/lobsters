@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-28](index.md)
 
+* [2024-05-28, 12:52:00](https://lobste.rs/s/uhvray/boundaries_language_design_with_andrew) - [\"Boundaries of Language Design\" with Andrew Kelley (Zig) & Ginger Bill (Odin)](https://www.youtube.com/watch?v=3K8znjWN_Ig)
+* [2024-05-28, 12:46:21](https://lobste.rs/s/6dzpof/wasmi_s_new_execution_engine) - [Wasmi's New Execution Engine](https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/)
 * [2024-05-28, 12:26:13](https://lobste.rs/s/oxjvv0/0_1_0_2) - [0.1 + 0.2](https://rtfeldman.com/0.1-plus-0.2)
 * [2024-05-28, 11:40:44](https://lobste.rs/s/sdxsa9/do_i_not_like_ruby_anymore) - [Do I not like Ruby anymore?](https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/)
 * [2024-05-28, 11:39:33](https://lobste.rs/s/i5tw8e/fret_clean) - [-fret-clean](https://isopenbsdsecu.re/mitigations/fret_clean/)
