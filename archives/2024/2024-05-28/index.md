@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-05-28](index.md)
 
+* [2024-05-28, 05:26:57](https://lobste.rs/s/64leqm/cntr_container_debugging_tool_based_on) - [cntr: A container debugging tool based on FUSE](https://github.com/Mic92/cntr)
 * [2024-05-28, 04:14:42](https://lobste.rs/s/v7lyv2/refurb_weekend_canon_cat) - [Refurb weekend: Canon Cat](https://oldvcr.blogspot.com/2024/05/refurb-weekend-canon-cat.html)

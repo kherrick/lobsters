@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-28, 05:26:57](https://lobste.rs/s/64leqm/cntr_container_debugging_tool_based_on) - [cntr: A container debugging tool based on FUSE](https://github.com/Mic92/cntr)
 * [2024-05-28, 04:14:42](https://lobste.rs/s/v7lyv2/refurb_weekend_canon_cat) - [Refurb weekend: Canon Cat](https://oldvcr.blogspot.com/2024/05/refurb-weekend-canon-cat.html)
 * [2024-05-27, 23:10:12](https://lobste.rs/s/twk186/on_fire_drills_phishing_tests) - [On Fire Drills and Phishing Tests](https://security.googleblog.com/2024/05/on-fire-drills-and-phishing-tests.html)
-* [2024-05-27, 20:33:09](https://lobste.rs/s/dwsins/writing_fast_string_ufuncs_for_numpy_2_0) - [Writing fast string ufuncs for NumPy 2.0](https://labs.quansight.org/blog/numpy-string-ufuncs)
 * [2024-05-27, 19:54:04](https://lobste.rs/s/ruwss6/gleam_v1_2_released_with_lsp_improvements) - [Gleam v1.2 released with LSP improvements](https://gleam.run/news/fault-tolerant-gleam/)
 * [2024-05-27, 18:09:49](https://lobste.rs/s/oscbr2/new_magic_for_animations_css) - [New magic for animations in CSS](https://chasem.co/2024/05/css-animations/)
 * [2024-05-27, 17:56:13](https://lobste.rs/s/sofl2n/mastodon_client_for_palmos) - [a mastodon client for palmOS](http://www.knickish.com/palm/rust/2023/09/12/a-mastodon-client-for-palmos.html)
