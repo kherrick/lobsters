@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-29, 14:53:11](https://lobste.rs/s/7dtbl9/heavyiq_understanding_220m_flights_with) - [HeavyIQ: Understanding 220M Flights with AI](https://tech.marksblogg.com/heavyiq-faa-ai-llm-gpu-database.html)
 * [2024-05-29, 14:21:30](https://lobste.rs/s/amrmbi/thunderkittens_framework_write_fast) - [ThunderKittens: a framework to write fast deep learning kernels in CUDA](https://github.com/HazyResearch/ThunderKittens)
 * [2024-05-29, 14:04:35](https://lobste.rs/s/kdkhxm/everything_i_know_about_fast_inverse) - [Everything I Know About The Fast Inverse Square Root Algorithm](https://github.com/francisrstokes/githublog/blob/main/2024/5/29/fast-inverse-sqrt.md)
 * [2024-05-29, 13:42:22](https://lobste.rs/s/zsx17l/secure_your_tailscale_infra_further_with) - [Secure your Tailscale infra further with Mutual TLS (mTLS)](https://blog.viktorpetersson.com/2024/05/29/tailscale-and-mutual-tls.html)
@@ -18,7 +19,6 @@
 * [2024-05-28, 17:23:51](https://lobste.rs/s/xtxsev/meshtastic_lora_rf_protocol_reverse) - [Meshtastic (LoRa) RF protocol reverse engineered from RF to Bytestream for GnuRadio](https://infosec.exchange/@crankylinuxuser/112519092086906907)
 * [2024-05-28, 17:00:27](https://lobste.rs/s/aql3vd/tla_unicode_support_learning_work_with) - [TLA⁺ Unicode support: Learning to work with others in open source](https://ahelwer.ca/post/2024-05-28-tla-unicode/)
 * [2024-05-28, 16:29:56](https://lobste.rs/s/ddb0a1/ode_postgresql_why_it_is_still_time_start) - [An ode to PostgreSQL, and why it is still time to start over](https://cedardb.com/blog/ode_to_postgres/)
-* [2024-05-28, 16:23:43](https://lobste.rs/s/zzhd9y/50x_faster_conda_environment_solving) - [50x faster conda environment solving with \"sharded\" repodata](https://prefix.dev/blog/sharded_repodata)
 * [2024-05-28, 14:19:47](https://lobste.rs/s/7yumvg/ping_ff02_1) - [ping ff02::1](https://astrid.tech/2024/05/28/0/ping-ff02-1)
 * [2024-05-28, 13:07:16](https://lobste.rs/s/kev1yu/how_does_ai_impact_my_job_as_programmer) - [How does AI impact my job as a programmer?](https://chelseatroy.com/2024/05/26/how-does-ai-impact-my-job-as-a-programmer/)
 * [2024-05-28, 12:26:13](https://lobste.rs/s/oxjvv0/0_1_0_2) - [0.1 + 0.2](https://rtfeldman.com/0.1-plus-0.2)

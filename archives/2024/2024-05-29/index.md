@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-29](index.md)
 
+* [2024-05-29, 14:53:11](https://lobste.rs/s/7dtbl9/heavyiq_understanding_220m_flights_with) - [HeavyIQ: Understanding 220M Flights with AI](https://tech.marksblogg.com/heavyiq-faa-ai-llm-gpu-database.html)
 * [2024-05-29, 14:21:30](https://lobste.rs/s/amrmbi/thunderkittens_framework_write_fast) - [ThunderKittens: a framework to write fast deep learning kernels in CUDA](https://github.com/HazyResearch/ThunderKittens)
 * [2024-05-29, 14:04:35](https://lobste.rs/s/kdkhxm/everything_i_know_about_fast_inverse) - [Everything I Know About The Fast Inverse Square Root Algorithm](https://github.com/francisrstokes/githublog/blob/main/2024/5/29/fast-inverse-sqrt.md)
 * [2024-05-29, 13:42:22](https://lobste.rs/s/zsx17l/secure_your_tailscale_infra_further_with) - [Secure your Tailscale infra further with Mutual TLS (mTLS)](https://blog.viktorpetersson.com/2024/05/29/tailscale-and-mutual-tls.html)
