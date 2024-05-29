@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-28, 23:54:17",
+      "https://lobste.rs/s/ex7xqe/surveilling_masses_with_wi_fi_based"
+    ],
+    [
+      "Surveilling the Masses with Wi-Fi-Based Positioning Systems",
+      "https://arxiv.org/abs/2405.14975"
+    ]
+  ],
+  [
+    [
       "2024-05-28, 21:51:52",
       "https://lobste.rs/s/wat9hg/alternatives_makefiles_written_go"
     ],
@@ -237,16 +247,6 @@
     [
       "Instead of \"auth\", we should say \"permissions\" and \"login\"",
       "https://ntietz.com/blog/lets-say-instead-of-auth/"
-    ]
-  ],
-  [
-    [
-      "2024-05-27, 14:26:27",
-      "https://lobste.rs/s/xkgp2a/reclaiming_ipv4_class_e_s_240_0_0_0_4"
-    ],
-    [
-      "Reclaiming IPv4 Class E's 240.0.0.0/4",
-      "https://blog.benjojo.co.uk/post/class-e-addresses-in-the-real-world"
     ]
   ]
 ]
