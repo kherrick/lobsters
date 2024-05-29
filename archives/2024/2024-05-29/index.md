@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-29](index.md)
 
+* [2024-05-29, 10:54:58](https://lobste.rs/s/qfq5m4/hello_world_simple_event_broker) - [Hello World, Simple Event Broker](https://blog.vbang.dk/2024/05/26/seb/)
 * [2024-05-29, 09:26:58](https://lobste.rs/s/k5t2uj/database_schema_design_for_google) - [Database schema design for Google Calendar: a tutorial](https://kb.databasedesignbook.com/posts/google-calendar/)
 * [2024-05-29, 08:22:35](https://lobste.rs/s/18vjfj/shadow_stacks_for_go) - [Shadow stacks for Go](https://blog.felixge.de/blazingly-fast-shadow-stacks-for-go/)
 * [2024-05-29, 07:30:41](https://lobste.rs/s/2f34wm/zfs_resilver_on_smr_drives) - [ZFS Resilver on SMR Drives](https://vermaden.wordpress.com/2024/05/29/zfs-resilver-smr-drives/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-29, 10:54:58](https://lobste.rs/s/qfq5m4/hello_world_simple_event_broker) - [Hello World, Simple Event Broker](https://blog.vbang.dk/2024/05/26/seb/)
 * [2024-05-29, 09:26:58](https://lobste.rs/s/k5t2uj/database_schema_design_for_google) - [Database schema design for Google Calendar: a tutorial](https://kb.databasedesignbook.com/posts/google-calendar/)
 * [2024-05-29, 08:22:35](https://lobste.rs/s/18vjfj/shadow_stacks_for_go) - [Shadow stacks for Go](https://blog.felixge.de/blazingly-fast-shadow-stacks-for-go/)
 * [2024-05-29, 07:30:41](https://lobste.rs/s/2f34wm/zfs_resilver_on_smr_drives) - [ZFS Resilver on SMR Drives](https://vermaden.wordpress.com/2024/05/29/zfs-resilver-smr-drives/)
@@ -24,7 +25,6 @@
 * [2024-05-28, 09:25:31](https://lobste.rs/s/ddwtyx/wayland_sway_on_openbsd) - [Wayland/Sway on OpenBSD](https://x61.sh/log/2024/05/27052024192206-sway_openbsd.html)
 * [2024-05-28, 07:48:10](https://lobste.rs/s/0gdjfp/so_many_feed_readers_so_many_bizarre) - [So many feed readers, so many bizarre behaviors](https://rachelbythebay.com/w/2024/05/27/feed/)
 * [2024-05-28, 04:14:42](https://lobste.rs/s/v7lyv2/refurb_weekend_canon_cat) - [Refurb weekend: Canon Cat](https://oldvcr.blogspot.com/2024/05/refurb-weekend-canon-cat.html)
-* [2024-05-27, 19:54:04](https://lobste.rs/s/ruwss6/gleam_v1_2_released_with_lsp_improvements) - [Gleam v1.2 released with LSP improvements](https://gleam.run/news/fault-tolerant-gleam/)
 
 ## [Archives](archives/index.md)
 
