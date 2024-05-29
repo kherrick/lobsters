@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-29, 10:54:58",
+      "https://lobste.rs/s/qfq5m4/hello_world_simple_event_broker"
+    ],
+    [
+      "Hello World, Simple Event Broker",
+      "https://blog.vbang.dk/2024/05/26/seb/"
+    ]
+  ],
+  [
+    [
       "2024-05-29, 09:26:58",
       "https://lobste.rs/s/k5t2uj/database_schema_design_for_google"
     ],
@@ -237,16 +247,6 @@
     [
       "Refurb weekend: Canon Cat",
       "https://oldvcr.blogspot.com/2024/05/refurb-weekend-canon-cat.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-27, 19:54:04",
-      "https://lobste.rs/s/ruwss6/gleam_v1_2_released_with_lsp_improvements"
-    ],
-    [
-      "Gleam v1.2 released with LSP improvements",
-      "https://gleam.run/news/fault-tolerant-gleam/"
     ]
   ]
 ]
