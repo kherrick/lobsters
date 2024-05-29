@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2024-05-29, 16:14:16",
-      "https://lobste.rs/s/jv9spb/inventing_fisher_s_exact_test"
-    ],
-    [
-      "Inventing Fisher's Exact Test",
-      "https://two-wrongs.com/inventing-fishers-exact-test"
-    ]
-  ],
-  [
-    [
       "2024-05-29, 14:57:25",
       "https://lobste.rs/s/bbwjmd/simple_speech_text_on_10_cents_ch32v003"
     ],
@@ -127,6 +117,16 @@
     [
       "Secure your Tailscale infra further with Mutual TLS (mTLS)",
       "https://blog.viktorpetersson.com/2024/05/29/tailscale-and-mutual-tls.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-29, 10:58:29",
+      "https://lobste.rs/s/cnonmy/vroom_userspace_nvme_driver_written_rust"
+    ],
+    [
+      "vroom: a userspace NVMe driver written in Rust",
+      "https://github.com/bootreer/vroom"
     ]
   ],
   [
