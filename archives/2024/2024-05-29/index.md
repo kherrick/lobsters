@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-29](index.md)
 
+* [2024-05-29, 16:31:37](https://lobste.rs/s/6jxas7/running_go_on_val_town) - [Running Go on Val Town](https://maxmcd.com/posts/running-go-on-val-town/)
 * [2024-05-29, 16:14:16](https://lobste.rs/s/jv9spb/inventing_fisher_s_exact_test) - [Inventing Fisher's Exact Test](https://two-wrongs.com/inventing-fishers-exact-test)
 * [2024-05-29, 14:57:25](https://lobste.rs/s/bbwjmd/simple_speech_text_on_10_cents_ch32v003) - [Simple Speech-To-Text on the '10 cents' CH32V003 Microcontroller](https://github.com/brian-smith-github/ch32v003_stt)
 * [2024-05-29, 14:53:11](https://lobste.rs/s/7dtbl9/heavyiq_understanding_220m_flights_with) - [HeavyIQ: Understanding 220M Flights with AI](https://tech.marksblogg.com/heavyiq-faa-ai-llm-gpu-database.html)
