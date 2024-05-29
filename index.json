@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-29, 06:07:02",
+      "https://lobste.rs/s/uox0nn/qlock_javascript_quine_clock"
+    ],
+    [
+      "Qlock - A JavaScript Quine Clock",
+      "http://aem1k.com/qlock/"
+    ]
+  ],
+  [
+    [
       "2024-05-29, 03:46:10",
       "https://lobste.rs/s/ew3wrb/implementing_grevmul_with"
     ],
@@ -237,16 +247,6 @@
     [
       "Gleam v1.2 released with LSP improvements",
       "https://gleam.run/news/fault-tolerant-gleam/"
-    ]
-  ],
-  [
-    [
-      "2024-05-27, 15:14:38",
-      "https://lobste.rs/s/ddessq/instead_auth_we_should_say_permissions"
-    ],
-    [
-      "Instead of \"auth\", we should say \"permissions\" and \"login\"",
-      "https://ntietz.com/blog/lets-say-instead-of-auth/"
     ]
   ]
 ]
