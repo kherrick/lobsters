@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-29](index.md)
 
+* [2024-05-29, 13:07:54](https://lobste.rs/s/ikmxgi/may_2024_freebsd_developer_summit) - [May 2024 FreeBSD Developer Summit](https://freebsdfoundation.org/news-and-events/event-calendar/may-2024-freebsd-developer-summit/)
 * [2024-05-29, 11:21:40](https://lobste.rs/s/3v4djw/mostly_deterministic_simulation) - [(Mostly) Deterministic Simulation Testing in Go](https://www.polarsignals.com/blog/posts/2024/05/28/mostly-dst-in-go)
 * [2024-05-29, 11:19:37](https://lobste.rs/s/jxf0di/improving_dictionary_learning_with) - [Improving Dictionary Learning with Gated Sparse Autoencoders](https://arxiv.org/abs/2404.16014)
 * [2024-05-29, 11:12:19](https://lobste.rs/s/qeghfn/ipyblender_blender_engine_ipython) - [ipyblender: blender engine in a ipython notebook](https://github.com/kolibril13/ipyblender-experimental)

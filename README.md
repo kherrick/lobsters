@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-29, 13:07:54](https://lobste.rs/s/ikmxgi/may_2024_freebsd_developer_summit) - [May 2024 FreeBSD Developer Summit](https://freebsdfoundation.org/news-and-events/event-calendar/may-2024-freebsd-developer-summit/)
 * [2024-05-29, 11:12:19](https://lobste.rs/s/qeghfn/ipyblender_blender_engine_ipython) - [ipyblender: blender engine in a ipython notebook](https://github.com/kolibril13/ipyblender-experimental)
 * [2024-05-29, 10:54:58](https://lobste.rs/s/qfq5m4/hello_world_simple_event_broker) - [Hello World, Simple Event Broker](https://blog.vbang.dk/2024/05/26/seb/)
 * [2024-05-29, 09:26:58](https://lobste.rs/s/k5t2uj/database_schema_design_for_google) - [Database schema design for Google Calendar: a tutorial](https://kb.databasedesignbook.com/posts/google-calendar/)
@@ -11,7 +12,6 @@
 * [2024-05-28, 20:31:59](https://lobste.rs/s/7nbrzs/your_api_shouldn_t_redirect_http_https) - [Your API Shouldn't Redirect HTTP to HTTPS](https://jviide.iki.fi/http-redirects)
 * [2024-05-28, 20:24:22](https://lobste.rs/s/4mhjqy/eradicating_n_1s_two_phase_data_load) - [Eradicating N+1s: The Two-phase Data Load and Render Pattern in Go](https://brandur.org/two-phase-render)
 * [2024-05-28, 19:42:54](https://lobste.rs/s/cjqrug/terminaltexteffects) - [TerminalTextEffects](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
-* [2024-05-28, 17:47:38](https://lobste.rs/s/5b9wsy/controlling_taylor_swift_eras_tour) - [Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
 * [2024-05-28, 17:31:23](https://lobste.rs/s/gdcczq/avoiding_over_reliance_on_mpsc_channels) - [Avoiding Over-Reliance on `mpsc` channels in Rust](https://blog.digital-horror.com/blog/how-to-avoid-over-reliance-on-mpsc/)
 * [2024-05-28, 17:23:51](https://lobste.rs/s/xtxsev/meshtastic_lora_rf_protocol_reverse) - [Meshtastic (LoRa) RF protocol reverse engineered from RF to Bytestream for GnuRadio](https://infosec.exchange/@crankylinuxuser/112519092086906907)
 * [2024-05-28, 17:00:27](https://lobste.rs/s/aql3vd/tla_unicode_support_learning_work_with) - [TLA⁺ Unicode support: Learning to work with others in open source](https://ahelwer.ca/post/2024-05-28-tla-unicode/)
