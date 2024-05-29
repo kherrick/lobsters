@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-29, 08:22:35](https://lobste.rs/s/18vjfj/shadow_stacks_for_go) - [Shadow stacks for Go](https://blog.felixge.de/blazingly-fast-shadow-stacks-for-go/)
 * [2024-05-29, 07:30:41](https://lobste.rs/s/2f34wm/zfs_resilver_on_smr_drives) - [ZFS Resilver on SMR Drives](https://vermaden.wordpress.com/2024/05/29/zfs-resilver-smr-drives/)
 * [2024-05-29, 06:07:02](https://lobste.rs/s/uox0nn/qlock_javascript_quine_clock) - [Qlock - A JavaScript Quine Clock](http://aem1k.com/qlock/)
-* [2024-05-29, 03:46:10](https://lobste.rs/s/ew3wrb/implementing_grevmul_with) - [Implementing grevmul with GF2P8AFFINEQB](https://bitmath.blogspot.com/2024/05/implementing-grevmul-with-gf2p8affineqb.html)
 * [2024-05-29, 01:12:40](https://lobste.rs/s/pbbaeh/web_components_considered_harmful) - [\"Web components\" considered harmful](https://www.mayank.co/blog/web-components-considered-harmful/)
 * [2024-05-28, 23:54:17](https://lobste.rs/s/ex7xqe/surveilling_masses_with_wi_fi_based) - [Surveilling the Masses with Wi-Fi-Based Positioning Systems](https://arxiv.org/abs/2405.14975)
 * [2024-05-28, 21:51:52](https://lobste.rs/s/wat9hg/alternatives_makefiles_written_go) - [Alternatives to Makefiles written in Go](https://eltonminetto.dev/en/post/2024-05-26-alternatives-make/)
