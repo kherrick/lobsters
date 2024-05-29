@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-29](index.md)
 
+* [2024-05-29, 11:19:37](https://lobste.rs/s/jxf0di/improving_dictionary_learning_with) - [Improving Dictionary Learning with Gated Sparse Autoencoders](https://arxiv.org/abs/2404.16014)
 * [2024-05-29, 11:12:19](https://lobste.rs/s/qeghfn/ipyblender_blender_engine_ipython) - [ipyblender: blender engine in a ipython notebook](https://github.com/kolibril13/ipyblender-experimental)
 * [2024-05-29, 10:58:29](https://lobste.rs/s/cnonmy/vroom_userspace_nvme_driver_written_rust) - [vroom: a userspace NVMe driver written in Rust](https://github.com/bootreer/vroom)
 * [2024-05-29, 10:54:58](https://lobste.rs/s/qfq5m4/hello_world_simple_event_broker) - [Hello World, Simple Event Broker](https://blog.vbang.dk/2024/05/26/seb/)
