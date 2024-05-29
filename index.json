@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-29, 22:31:53",
+      "https://lobste.rs/s/iqjhki/ibdns_intentionally_broken_dns_server"
+    ],
+    [
+      "IBDNS: the intentionally broken DNS server",
+      "https://gitlab.rd.nic.fr/dns-testing-tools/ibdns"
+    ]
+  ],
+  [
+    [
       "2024-05-29, 21:42:22",
       "https://lobste.rs/s/qsws7e/adding_usb_port_thinkpad_x1_nano_hard_way"
     ],
@@ -117,16 +127,6 @@
     [
       "Secure your Tailscale infra further with Mutual TLS (mTLS)",
       "https://blog.viktorpetersson.com/2024/05/29/tailscale-and-mutual-tls.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-29, 11:12:19",
-      "https://lobste.rs/s/qeghfn/ipyblender_blender_engine_ipython"
-    ],
-    [
-      "ipyblender: blender engine in a ipython notebook",
-      "https://github.com/kolibril13/ipyblender-experimental"
     ]
   ],
   [
