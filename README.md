@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-29, 13:37:32](https://lobste.rs/s/k2wae7/life_optimization_barrier) - [The life of an optimization barrier](https://blog.trailofbits.com/2022/01/26/part-1-the-life-of-an-optimization-barrier/)
 * [2024-05-29, 13:07:54](https://lobste.rs/s/ikmxgi/may_2024_freebsd_developer_summit) - [May 2024 FreeBSD Developer Summit](https://freebsdfoundation.org/news-and-events/event-calendar/may-2024-freebsd-developer-summit/)
 * [2024-05-29, 11:12:19](https://lobste.rs/s/qeghfn/ipyblender_blender_engine_ipython) - [ipyblender: blender engine in a ipython notebook](https://github.com/kolibril13/ipyblender-experimental)
 * [2024-05-29, 10:54:58](https://lobste.rs/s/qfq5m4/hello_world_simple_event_broker) - [Hello World, Simple Event Broker](https://blog.vbang.dk/2024/05/26/seb/)
@@ -18,7 +19,6 @@
 * [2024-05-28, 16:29:56](https://lobste.rs/s/ddb0a1/ode_postgresql_why_it_is_still_time_start) - [An ode to PostgreSQL, and why it is still time to start over](https://cedardb.com/blog/ode_to_postgres/)
 * [2024-05-28, 16:23:43](https://lobste.rs/s/zzhd9y/50x_faster_conda_environment_solving) - [50x faster conda environment solving with \"sharded\" repodata](https://prefix.dev/blog/sharded_repodata)
 * [2024-05-28, 14:19:47](https://lobste.rs/s/7yumvg/ping_ff02_1) - [ping ff02::1](https://astrid.tech/2024/05/28/0/ping-ff02-1)
-* [2024-05-28, 13:48:03](https://lobste.rs/s/ymxynk/calling_time_on_dnssec) - [Calling Time on DNSSEC?](https://www.potaroo.net/ispcol/2024-05/dnssec-fin.html)
 * [2024-05-28, 13:07:16](https://lobste.rs/s/kev1yu/how_does_ai_impact_my_job_as_programmer) - [How does AI impact my job as a programmer?](https://chelseatroy.com/2024/05/26/how-does-ai-impact-my-job-as-a-programmer/)
 * [2024-05-28, 12:26:13](https://lobste.rs/s/oxjvv0/0_1_0_2) - [0.1 + 0.2](https://rtfeldman.com/0.1-plus-0.2)
 * [2024-05-28, 11:40:44](https://lobste.rs/s/sdxsa9/do_i_not_like_ruby_anymore) - [Do I not like Ruby anymore?](https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/)
