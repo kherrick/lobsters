@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-29](index.md)
 
+* [2024-05-29, 13:42:22](https://lobste.rs/s/zsx17l/secure_your_tailscale_infra_further_with) - [Secure your Tailscale infra further with Mutual TLS (mTLS)](https://blog.viktorpetersson.com/2024/05/29/tailscale-and-mutual-tls.html)
 * [2024-05-29, 13:37:32](https://lobste.rs/s/k2wae7/life_optimization_barrier) - [The life of an optimization barrier](https://blog.trailofbits.com/2022/01/26/part-1-the-life-of-an-optimization-barrier/)
 * [2024-05-29, 13:07:54](https://lobste.rs/s/ikmxgi/may_2024_freebsd_developer_summit) - [May 2024 FreeBSD Developer Summit](https://freebsdfoundation.org/news-and-events/event-calendar/may-2024-freebsd-developer-summit/)
 * [2024-05-29, 11:21:40](https://lobste.rs/s/3v4djw/mostly_deterministic_simulation) - [(Mostly) Deterministic Simulation Testing in Go](https://www.polarsignals.com/blog/posts/2024/05/28/mostly-dst-in-go)
