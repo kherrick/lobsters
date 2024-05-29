@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-29, 18:54:43](https://lobste.rs/s/dak82f/string_comparison_timing_attacks) - [String comparison timing attacks](https://www.sjoerdlangkemper.nl/2024/05/29/string-comparison-timing-attacks/)
 * [2024-05-29, 18:40:46](https://lobste.rs/s/p3cgdg/function_approximation_by_iteration) - [Function approximation by iteration: Reciprocal Square Root](https://cbloomrants.blogspot.com/2010/11/11-20-10-function-approximation-by_20.html)
 * [2024-05-29, 18:06:58](https://lobste.rs/s/kxk0io/introducing_new_framework_laptop_13_with) - [Introducing the new Framework Laptop 13 with Intel Core Ultra Series 1](https://frame.work/fr/fr/blog/introducing-the-new-framework-laptop-13-with-intel-core-ultra-series-1-processors)
 * [2024-05-29, 16:36:29](https://lobste.rs/s/5o7krc/inside_vintage_aerospace_navigation) - [Inside a vintage aerospace navigation computer of uncertain purpose](http://www.righto.com/2024/05/blog-post.html)
@@ -9,7 +10,6 @@
 * [2024-05-29, 14:53:11](https://lobste.rs/s/7dtbl9/heavyiq_understanding_220m_flights_with) - [HeavyIQ: Understanding 220M Flights with AI](https://tech.marksblogg.com/heavyiq-faa-ai-llm-gpu-database.html)
 * [2024-05-29, 14:04:35](https://lobste.rs/s/kdkhxm/everything_i_know_about_fast_inverse) - [Everything I Know About The Fast Inverse Square Root Algorithm](https://github.com/francisrstokes/githublog/blob/main/2024/5/29/fast-inverse-sqrt.md)
 * [2024-05-29, 13:42:22](https://lobste.rs/s/zsx17l/secure_your_tailscale_infra_further_with) - [Secure your Tailscale infra further with Mutual TLS (mTLS)](https://blog.viktorpetersson.com/2024/05/29/tailscale-and-mutual-tls.html)
-* [2024-05-29, 11:21:40](https://lobste.rs/s/3v4djw/mostly_deterministic_simulation) - [(Mostly) Deterministic Simulation Testing in Go](https://www.polarsignals.com/blog/posts/2024/05/28/mostly-dst-in-go)
 * [2024-05-29, 11:12:19](https://lobste.rs/s/qeghfn/ipyblender_blender_engine_ipython) - [ipyblender: blender engine in a ipython notebook](https://github.com/kolibril13/ipyblender-experimental)
 * [2024-05-29, 09:26:58](https://lobste.rs/s/k5t2uj/database_schema_design_for_google) - [Database schema design for Google Calendar: a tutorial](https://kb.databasedesignbook.com/posts/google-calendar/)
 * [2024-05-29, 08:22:35](https://lobste.rs/s/18vjfj/shadow_stacks_for_go) - [Shadow stacks for Go](https://blog.felixge.de/blazingly-fast-shadow-stacks-for-go/)
