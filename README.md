@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-05-29, 19:05:13](https://lobste.rs/s/tl53cn/runtime_code_generation_execution_go) - [Runtime code generation and execution in Go](https://mathetake.github.io/posts/runtime-code-generation-in-go-part-1/)
+* [2024-05-29, 19:00:02](https://lobste.rs/s/sh68p1/why_your_linux_kernel_bug_report_might_be) - [Why your Linux kernel bug report might be fruitless](https://linux-regtracking.leemhuis.info/post/frequent-reasons-why-linux-kernel-bug-reports-are-ignored/)
 * [2024-05-29, 18:54:43](https://lobste.rs/s/dak82f/string_comparison_timing_attacks) - [String comparison timing attacks](https://www.sjoerdlangkemper.nl/2024/05/29/string-comparison-timing-attacks/)
 * [2024-05-29, 18:06:58](https://lobste.rs/s/kxk0io/introducing_new_framework_laptop_13_with) - [Introducing the new Framework Laptop 13 with Intel Core Ultra Series 1](https://frame.work/fr/fr/blog/introducing-the-new-framework-laptop-13-with-intel-core-ultra-series-1-processors)
 * [2024-05-29, 16:36:29](https://lobste.rs/s/5o7krc/inside_vintage_aerospace_navigation) - [Inside a vintage aerospace navigation computer of uncertain purpose](http://www.righto.com/2024/05/blog-post.html)
