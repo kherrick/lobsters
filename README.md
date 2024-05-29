@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-29, 06:07:02](https://lobste.rs/s/uox0nn/qlock_javascript_quine_clock) - [Qlock - A JavaScript Quine Clock](http://aem1k.com/qlock/)
 * [2024-05-29, 03:46:10](https://lobste.rs/s/ew3wrb/implementing_grevmul_with) - [Implementing grevmul with GF2P8AFFINEQB](https://bitmath.blogspot.com/2024/05/implementing-grevmul-with-gf2p8affineqb.html)
 * [2024-05-29, 01:12:40](https://lobste.rs/s/pbbaeh/web_components_considered_harmful) - [\"Web components\" considered harmful](https://www.mayank.co/blog/web-components-considered-harmful/)
 * [2024-05-28, 23:54:17](https://lobste.rs/s/ex7xqe/surveilling_masses_with_wi_fi_based) - [Surveilling the Masses with Wi-Fi-Based Positioning Systems](https://arxiv.org/abs/2405.14975)
@@ -24,7 +25,6 @@
 * [2024-05-28, 07:48:10](https://lobste.rs/s/0gdjfp/so_many_feed_readers_so_many_bizarre) - [So many feed readers, so many bizarre behaviors](https://rachelbythebay.com/w/2024/05/27/feed/)
 * [2024-05-28, 04:14:42](https://lobste.rs/s/v7lyv2/refurb_weekend_canon_cat) - [Refurb weekend: Canon Cat](https://oldvcr.blogspot.com/2024/05/refurb-weekend-canon-cat.html)
 * [2024-05-27, 19:54:04](https://lobste.rs/s/ruwss6/gleam_v1_2_released_with_lsp_improvements) - [Gleam v1.2 released with LSP improvements](https://gleam.run/news/fault-tolerant-gleam/)
-* [2024-05-27, 15:14:38](https://lobste.rs/s/ddessq/instead_auth_we_should_say_permissions) - [Instead of \"auth\", we should say \"permissions\" and \"login\"](https://ntietz.com/blog/lets-say-instead-of-auth/)
 
 ## [Archives](archives/index.md)
 
