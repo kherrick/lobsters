@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-29](index.md)
 
+* [2024-05-29, 22:31:53](https://lobste.rs/s/iqjhki/ibdns_intentionally_broken_dns_server) - [IBDNS: the intentionally broken DNS server](https://gitlab.rd.nic.fr/dns-testing-tools/ibdns)
 * [2024-05-29, 21:42:22](https://lobste.rs/s/qsws7e/adding_usb_port_thinkpad_x1_nano_hard_way) - [Adding a USB Port to the ThinkPad X1 Nano (the Hard Way)](https://jcs.org/2024/05/29/x1usb)
 * [2024-05-29, 20:45:32](https://lobste.rs/s/mampis/writing_nvme_driver_rust) - [Writing an NVMe Driver in Rust](https://db.in.tum.de/~ellmann/theses/finished/24/pirhonen_writing_an_nvme_driver_in_rust.pdf)
 * [2024-05-29, 20:36:42](https://lobste.rs/s/ghrcmf/chat_arena_for_crowd_sourcing_model) - [Chat arena for crowd sourcing model evaluation](https://chat.lmsys.org/?leaderboard)

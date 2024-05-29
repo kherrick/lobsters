@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-29, 22:31:53](https://lobste.rs/s/iqjhki/ibdns_intentionally_broken_dns_server) - [IBDNS: the intentionally broken DNS server](https://gitlab.rd.nic.fr/dns-testing-tools/ibdns)
 * [2024-05-29, 21:42:22](https://lobste.rs/s/qsws7e/adding_usb_port_thinkpad_x1_nano_hard_way) - [Adding a USB Port to the ThinkPad X1 Nano (the Hard Way)](https://jcs.org/2024/05/29/x1usb)
 * [2024-05-29, 20:31:33](https://lobste.rs/s/ob3u2c/lambda_way_project_lisp_ide_ssg) - [Lambda Way Project - Lisp, IDE & SSG](http://lambdaway.fr/workshop/index.php)
 * [2024-05-29, 19:00:02](https://lobste.rs/s/sh68p1/why_your_linux_kernel_bug_report_might_be) - [Why your Linux kernel bug report might be fruitless](https://linux-regtracking.leemhuis.info/post/frequent-reasons-why-linux-kernel-bug-reports-are-ignored/)
@@ -12,7 +13,6 @@
 * [2024-05-29, 14:53:11](https://lobste.rs/s/7dtbl9/heavyiq_understanding_220m_flights_with) - [HeavyIQ: Understanding 220M Flights with AI](https://tech.marksblogg.com/heavyiq-faa-ai-llm-gpu-database.html)
 * [2024-05-29, 14:04:35](https://lobste.rs/s/kdkhxm/everything_i_know_about_fast_inverse) - [Everything I Know About The Fast Inverse Square Root Algorithm](https://github.com/francisrstokes/githublog/blob/main/2024/5/29/fast-inverse-sqrt.md)
 * [2024-05-29, 13:42:22](https://lobste.rs/s/zsx17l/secure_your_tailscale_infra_further_with) - [Secure your Tailscale infra further with Mutual TLS (mTLS)](https://blog.viktorpetersson.com/2024/05/29/tailscale-and-mutual-tls.html)
-* [2024-05-29, 11:12:19](https://lobste.rs/s/qeghfn/ipyblender_blender_engine_ipython) - [ipyblender: blender engine in a ipython notebook](https://github.com/kolibril13/ipyblender-experimental)
 * [2024-05-29, 09:26:58](https://lobste.rs/s/k5t2uj/database_schema_design_for_google) - [Database schema design for Google Calendar: a tutorial](https://kb.databasedesignbook.com/posts/google-calendar/)
 * [2024-05-29, 08:22:35](https://lobste.rs/s/18vjfj/shadow_stacks_for_go) - [Shadow stacks for Go](https://blog.felixge.de/blazingly-fast-shadow-stacks-for-go/)
 * [2024-05-29, 07:30:41](https://lobste.rs/s/2f34wm/zfs_resilver_on_smr_drives) - [ZFS Resilver on SMR Drives](https://vermaden.wordpress.com/2024/05/29/zfs-resilver-smr-drives/)
