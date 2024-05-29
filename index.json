@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-29, 20:31:33",
+      "https://lobste.rs/s/ob3u2c/lambda_way_project_lisp_ide_ssg"
+    ],
+    [
+      "Lambda Way Project - Lisp, IDE & SSG",
+      "http://lambdaway.fr/workshop/index.php"
+    ]
+  ],
+  [
+    [
       "2024-05-29, 19:00:02",
       "https://lobste.rs/s/sh68p1/why_your_linux_kernel_bug_report_might_be"
     ],
@@ -187,16 +197,6 @@
     [
       "TerminalTextEffects",
       "https://chrisbuilds.github.io/terminaltexteffects/showroom/"
-    ]
-  ],
-  [
-    [
-      "2024-05-28, 17:31:23",
-      "https://lobste.rs/s/gdcczq/avoiding_over_reliance_on_mpsc_channels"
-    ],
-    [
-      "Avoiding Over-Reliance on `mpsc` channels in Rust",
-      "https://blog.digital-horror.com/blog/how-to-avoid-over-reliance-on-mpsc/"
     ]
   ],
   [
