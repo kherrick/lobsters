@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-29](index.md)
 
+* [2024-05-29, 17:04:44](https://lobste.rs/s/uyhrw3/secrets_from_algorithm_google_search_s) - [Secrets from the Algorithm: Google Search’s Internal Engineering Documentation Has Leaked](https://ipullrank.com/google-algo-leak)
 * [2024-05-29, 16:36:29](https://lobste.rs/s/5o7krc/inside_vintage_aerospace_navigation) - [Inside a vintage aerospace navigation computer of uncertain purpose](http://www.righto.com/2024/05/blog-post.html)
 * [2024-05-29, 16:31:37](https://lobste.rs/s/6jxas7/running_go_on_val_town) - [Running Go on Val Town](https://maxmcd.com/posts/running-go-on-val-town/)
 * [2024-05-29, 16:14:16](https://lobste.rs/s/jv9spb/inventing_fisher_s_exact_test) - [Inventing Fisher's Exact Test](https://two-wrongs.com/inventing-fishers-exact-test)
