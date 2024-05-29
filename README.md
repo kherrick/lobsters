@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-29, 07:30:41](https://lobste.rs/s/2f34wm/zfs_resilver_on_smr_drives) - [ZFS Resilver on SMR Drives](https://vermaden.wordpress.com/2024/05/29/zfs-resilver-smr-drives/)
 * [2024-05-29, 06:07:02](https://lobste.rs/s/uox0nn/qlock_javascript_quine_clock) - [Qlock - A JavaScript Quine Clock](http://aem1k.com/qlock/)
 * [2024-05-29, 03:46:10](https://lobste.rs/s/ew3wrb/implementing_grevmul_with) - [Implementing grevmul with GF2P8AFFINEQB](https://bitmath.blogspot.com/2024/05/implementing-grevmul-with-gf2p8affineqb.html)
 * [2024-05-29, 01:12:40](https://lobste.rs/s/pbbaeh/web_components_considered_harmful) - [\"Web components\" considered harmful](https://www.mayank.co/blog/web-components-considered-harmful/)
@@ -15,7 +16,6 @@
 * [2024-05-28, 17:00:27](https://lobste.rs/s/aql3vd/tla_unicode_support_learning_work_with) - [TLA⁺ Unicode support: Learning to work with others in open source](https://ahelwer.ca/post/2024-05-28-tla-unicode/)
 * [2024-05-28, 16:29:56](https://lobste.rs/s/ddb0a1/ode_postgresql_why_it_is_still_time_start) - [An ode to PostgreSQL, and why it is still time to start over](https://cedardb.com/blog/ode_to_postgres/)
 * [2024-05-28, 16:23:43](https://lobste.rs/s/zzhd9y/50x_faster_conda_environment_solving) - [50x faster conda environment solving with \"sharded\" repodata](https://prefix.dev/blog/sharded_repodata)
-* [2024-05-28, 14:49:41](https://lobste.rs/s/oocpuu/pyapp_is_wrapper_for_python_applications) - [PyApp is a wrapper for Python applications that bootstrap themselves at runtime](https://ofek.dev/pyapp/latest/)
 * [2024-05-28, 14:19:47](https://lobste.rs/s/7yumvg/ping_ff02_1) - [ping ff02::1](https://astrid.tech/2024/05/28/0/ping-ff02-1)
 * [2024-05-28, 13:48:03](https://lobste.rs/s/ymxynk/calling_time_on_dnssec) - [Calling Time on DNSSEC?](https://www.potaroo.net/ispcol/2024-05/dnssec-fin.html)
 * [2024-05-28, 13:07:16](https://lobste.rs/s/kev1yu/how_does_ai_impact_my_job_as_programmer) - [How does AI impact my job as a programmer?](https://chelseatroy.com/2024/05/26/how-does-ai-impact-my-job-as-a-programmer/)
