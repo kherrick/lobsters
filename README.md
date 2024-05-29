@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-29, 16:36:29](https://lobste.rs/s/5o7krc/inside_vintage_aerospace_navigation) - [Inside a vintage aerospace navigation computer of uncertain purpose](http://www.righto.com/2024/05/blog-post.html)
 * [2024-05-29, 16:31:37](https://lobste.rs/s/6jxas7/running_go_on_val_town) - [Running Go on Val Town](https://maxmcd.com/posts/running-go-on-val-town/)
 * [2024-05-29, 16:14:16](https://lobste.rs/s/jv9spb/inventing_fisher_s_exact_test) - [Inventing Fisher's Exact Test](https://two-wrongs.com/inventing-fishers-exact-test)
 * [2024-05-29, 14:57:25](https://lobste.rs/s/bbwjmd/simple_speech_text_on_10_cents_ch32v003) - [Simple Speech-To-Text on the '10 cents' CH32V003 Microcontroller](https://github.com/brian-smith-github/ch32v003_stt)
 * [2024-05-29, 14:53:11](https://lobste.rs/s/7dtbl9/heavyiq_understanding_220m_flights_with) - [HeavyIQ: Understanding 220M Flights with AI](https://tech.marksblogg.com/heavyiq-faa-ai-llm-gpu-database.html)
 * [2024-05-29, 14:04:35](https://lobste.rs/s/kdkhxm/everything_i_know_about_fast_inverse) - [Everything I Know About The Fast Inverse Square Root Algorithm](https://github.com/francisrstokes/githublog/blob/main/2024/5/29/fast-inverse-sqrt.md)
 * [2024-05-29, 13:42:22](https://lobste.rs/s/zsx17l/secure_your_tailscale_infra_further_with) - [Secure your Tailscale infra further with Mutual TLS (mTLS)](https://blog.viktorpetersson.com/2024/05/29/tailscale-and-mutual-tls.html)
-* [2024-05-29, 13:37:32](https://lobste.rs/s/k2wae7/life_optimization_barrier) - [The life of an optimization barrier](https://blog.trailofbits.com/2022/01/26/part-1-the-life-of-an-optimization-barrier/)
 * [2024-05-29, 11:21:40](https://lobste.rs/s/3v4djw/mostly_deterministic_simulation) - [(Mostly) Deterministic Simulation Testing in Go](https://www.polarsignals.com/blog/posts/2024/05/28/mostly-dst-in-go)
 * [2024-05-29, 11:12:19](https://lobste.rs/s/qeghfn/ipyblender_blender_engine_ipython) - [ipyblender: blender engine in a ipython notebook](https://github.com/kolibril13/ipyblender-experimental)
 * [2024-05-29, 10:58:29](https://lobste.rs/s/cnonmy/vroom_userspace_nvme_driver_written_rust) - [vroom: a userspace NVMe driver written in Rust](https://github.com/bootreer/vroom)

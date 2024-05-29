@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-29](index.md)
 
+* [2024-05-29, 16:36:29](https://lobste.rs/s/5o7krc/inside_vintage_aerospace_navigation) - [Inside a vintage aerospace navigation computer of uncertain purpose](http://www.righto.com/2024/05/blog-post.html)
 * [2024-05-29, 16:31:37](https://lobste.rs/s/6jxas7/running_go_on_val_town) - [Running Go on Val Town](https://maxmcd.com/posts/running-go-on-val-town/)
 * [2024-05-29, 16:14:16](https://lobste.rs/s/jv9spb/inventing_fisher_s_exact_test) - [Inventing Fisher's Exact Test](https://two-wrongs.com/inventing-fishers-exact-test)
 * [2024-05-29, 14:57:25](https://lobste.rs/s/bbwjmd/simple_speech_text_on_10_cents_ch32v003) - [Simple Speech-To-Text on the '10 cents' CH32V003 Microcontroller](https://github.com/brian-smith-github/ch32v003_stt)
