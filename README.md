@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-29, 20:45:32](https://lobste.rs/s/mampis/writing_nvme_driver_rust) - [Writing an NVMe Driver in Rust](https://db.in.tum.de/~ellmann/theses/finished/24/pirhonen_writing_an_nvme_driver_in_rust.pdf)
 * [2024-05-29, 20:36:42](https://lobste.rs/s/ghrcmf/chat_arena_for_crowd_sourcing_model) - [Chat arena for crowd sourcing model evaluation](https://chat.lmsys.org/?leaderboard)
-* [2024-05-29, 20:31:33](https://lobste.rs/s/ob3u2c/lambda_way_project_lisp_ide_ssg) - [Lambda Way Project - Lisp, IDE & SSG](http://lambdaway.fr/workshop/index.php)
 * [2024-05-29, 19:00:02](https://lobste.rs/s/sh68p1/why_your_linux_kernel_bug_report_might_be) - [Why your Linux kernel bug report might be fruitless](https://linux-regtracking.leemhuis.info/post/frequent-reasons-why-linux-kernel-bug-reports-are-ignored/)
 * [2024-05-29, 18:54:43](https://lobste.rs/s/dak82f/string_comparison_timing_attacks) - [String comparison timing attacks](https://www.sjoerdlangkemper.nl/2024/05/29/string-comparison-timing-attacks/)
 * [2024-05-29, 18:06:58](https://lobste.rs/s/kxk0io/introducing_new_framework_laptop_13_with) - [Introducing the new Framework Laptop 13 with Intel Core Ultra Series 1](https://frame.work/fr/fr/blog/introducing-the-new-framework-laptop-13-with-intel-core-ultra-series-1-processors)

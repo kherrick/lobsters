@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-29](index.md)
 
+* [2024-05-29, 20:45:32](https://lobste.rs/s/mampis/writing_nvme_driver_rust) - [Writing an NVMe Driver in Rust](https://db.in.tum.de/~ellmann/theses/finished/24/pirhonen_writing_an_nvme_driver_in_rust.pdf)
 * [2024-05-29, 20:36:42](https://lobste.rs/s/ghrcmf/chat_arena_for_crowd_sourcing_model) - [Chat arena for crowd sourcing model evaluation](https://chat.lmsys.org/?leaderboard)
 * [2024-05-29, 20:31:33](https://lobste.rs/s/ob3u2c/lambda_way_project_lisp_ide_ssg) - [Lambda Way Project - Lisp, IDE & SSG](http://lambdaway.fr/workshop/index.php)
 * [2024-05-29, 19:05:13](https://lobste.rs/s/tl53cn/runtime_code_generation_execution_go) - [Runtime code generation and execution in Go](https://mathetake.github.io/posts/runtime-code-generation-in-go-part-1/)
