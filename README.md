@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-05-29, 19:05:13](https://lobste.rs/s/tl53cn/runtime_code_generation_execution_go) - [Runtime code generation and execution in Go](https://mathetake.github.io/posts/runtime-code-generation-in-go-part-1/)
-* [2024-05-29, 19:00:02](https://lobste.rs/s/sh68p1/why_your_linux_kernel_bug_report_might_be) - [Why your Linux kernel bug report might be fruitless](https://linux-regtracking.leemhuis.info/post/frequent-reasons-why-linux-kernel-bug-reports-are-ignored/)
 * [2024-05-29, 18:54:43](https://lobste.rs/s/dak82f/string_comparison_timing_attacks) - [String comparison timing attacks](https://www.sjoerdlangkemper.nl/2024/05/29/string-comparison-timing-attacks/)
 * [2024-05-29, 18:06:58](https://lobste.rs/s/kxk0io/introducing_new_framework_laptop_13_with) - [Introducing the new Framework Laptop 13 with Intel Core Ultra Series 1](https://frame.work/fr/fr/blog/introducing-the-new-framework-laptop-13-with-intel-core-ultra-series-1-processors)
 * [2024-05-29, 16:36:29](https://lobste.rs/s/5o7krc/inside_vintage_aerospace_navigation) - [Inside a vintage aerospace navigation computer of uncertain purpose](http://www.righto.com/2024/05/blog-post.html)
@@ -20,6 +19,7 @@
 * [2024-05-28, 20:39:49](https://lobste.rs/s/wqff1k/cdns_have_same_privacy_content_validity) - [CDNs have the same privacy and content validity implications as ISPs in the pre-HTTPS days](https://chickadee.codes/cdn.html)
 * [2024-05-28, 20:31:59](https://lobste.rs/s/7nbrzs/your_api_shouldn_t_redirect_http_https) - [Your API Shouldn't Redirect HTTP to HTTPS](https://jviide.iki.fi/http-redirects)
 * [2024-05-28, 19:42:54](https://lobste.rs/s/cjqrug/terminaltexteffects) - [TerminalTextEffects](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
+* [2024-05-28, 17:31:23](https://lobste.rs/s/gdcczq/avoiding_over_reliance_on_mpsc_channels) - [Avoiding Over-Reliance on `mpsc` channels in Rust](https://blog.digital-horror.com/blog/how-to-avoid-over-reliance-on-mpsc/)
 * [2024-05-28, 16:29:56](https://lobste.rs/s/ddb0a1/ode_postgresql_why_it_is_still_time_start) - [An ode to PostgreSQL, and why it is still time to start over](https://cedardb.com/blog/ode_to_postgres/)
 * [2024-05-28, 14:19:47](https://lobste.rs/s/7yumvg/ping_ff02_1) - [ping ff02::1](https://astrid.tech/2024/05/28/0/ping-ff02-1)
 * [2024-05-28, 11:40:44](https://lobste.rs/s/sdxsa9/do_i_not_like_ruby_anymore) - [Do I not like Ruby anymore?](https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/)
