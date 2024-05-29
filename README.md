@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-05-29, 03:46:10](https://lobste.rs/s/ew3wrb/implementing_grevmul_with) - [Implementing grevmul with GF2P8AFFINEQB](https://bitmath.blogspot.com/2024/05/implementing-grevmul-with-gf2p8affineqb.html)
+* [2024-05-29, 01:12:40](https://lobste.rs/s/pbbaeh/web_components_considered_harmful) - [\"Web components\" considered harmful](https://www.mayank.co/blog/web-components-considered-harmful/)
 * [2024-05-28, 23:54:17](https://lobste.rs/s/ex7xqe/surveilling_masses_with_wi_fi_based) - [Surveilling the Masses with Wi-Fi-Based Positioning Systems](https://arxiv.org/abs/2405.14975)
 * [2024-05-28, 21:51:52](https://lobste.rs/s/wat9hg/alternatives_makefiles_written_go) - [Alternatives to Makefiles written in Go](https://eltonminetto.dev/en/post/2024-05-26-alternatives-make/)
 * [2024-05-28, 20:39:49](https://lobste.rs/s/wqff1k/cdns_have_same_privacy_content_validity) - [CDNs have the same privacy and content validity implications as ISPs in the pre-HTTPS days](https://chickadee.codes/cdn.html)
@@ -21,7 +22,6 @@
 * [2024-05-28, 11:40:44](https://lobste.rs/s/sdxsa9/do_i_not_like_ruby_anymore) - [Do I not like Ruby anymore?](https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/)
 * [2024-05-28, 09:25:31](https://lobste.rs/s/ddwtyx/wayland_sway_on_openbsd) - [Wayland/Sway on OpenBSD](https://x61.sh/log/2024/05/27052024192206-sway_openbsd.html)
 * [2024-05-28, 07:48:10](https://lobste.rs/s/0gdjfp/so_many_feed_readers_so_many_bizarre) - [So many feed readers, so many bizarre behaviors](https://rachelbythebay.com/w/2024/05/27/feed/)
-* [2024-05-28, 05:56:31](https://lobste.rs/s/vkxf5j/baudio_audio_tinkerers_plaything_dac) - [baudio: Audio Tinkerers Plaything (DAC/CMoy Amp/VU/DigiPots)](https://github.com/spbkaizo/baudio/tree/main)
 * [2024-05-28, 04:14:42](https://lobste.rs/s/v7lyv2/refurb_weekend_canon_cat) - [Refurb weekend: Canon Cat](https://oldvcr.blogspot.com/2024/05/refurb-weekend-canon-cat.html)
 * [2024-05-27, 19:54:04](https://lobste.rs/s/ruwss6/gleam_v1_2_released_with_lsp_improvements) - [Gleam v1.2 released with LSP improvements](https://gleam.run/news/fault-tolerant-gleam/)
 * [2024-05-27, 15:14:38](https://lobste.rs/s/ddessq/instead_auth_we_should_say_permissions) - [Instead of \"auth\", we should say \"permissions\" and \"login\"](https://ntietz.com/blog/lets-say-instead-of-auth/)
