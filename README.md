@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-30, 10:35:25](https://lobste.rs/s/wjabm4/modular_what_ownership_is_really_about) - [Modular: What Ownership is Really About:  A Mental Model Approach](https://www.modular.com/blog/what-ownership-is-really-about-a-mental-model-approach)
 * [2024-05-30, 08:41:09](https://lobste.rs/s/74qoqm/keepassxc_kerfuffle) - [The KeePassXC kerfuffle](https://lwn.net/Articles/973782/)
 * [2024-05-30, 06:02:35](https://lobste.rs/s/jmtero/f_developer_stories_how_we_ve_finally) - [F# developer stories: how we've finally fixed a 9-year-old performance issue](https://devblogs.microsoft.com/dotnet/fsharp-developer-stories-how-weve-finally-fixed-a-9yearold-performance-issue/)
 * [2024-05-30, 00:20:06](https://lobste.rs/s/uy0nls/five_years_running_news_site_on_jamstack) - [Five Years Running a News Site on JAMStack](https://blog.carlana.net/post/2024/spotlight-pa-jamstack-history/)
@@ -24,7 +25,6 @@
 * [2024-05-28, 20:31:59](https://lobste.rs/s/7nbrzs/your_api_shouldn_t_redirect_http_https) - [Your API Shouldn't Redirect HTTP to HTTPS](https://jviide.iki.fi/http-redirects)
 * [2024-05-28, 19:42:54](https://lobste.rs/s/cjqrug/terminaltexteffects) - [TerminalTextEffects](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
 * [2024-05-28, 11:40:44](https://lobste.rs/s/sdxsa9/do_i_not_like_ruby_anymore) - [Do I not like Ruby anymore?](https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/)
-* [2024-05-28, 09:25:31](https://lobste.rs/s/ddwtyx/wayland_sway_on_openbsd) - [Wayland/Sway on OpenBSD](https://x61.sh/log/2024/05/27052024192206-sway_openbsd.html)
 
 ## [Archives](archives/index.md)
 
