@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-30, 15:16:41](https://lobste.rs/s/pj5cy6/let_s_optimize_running_15x_faster_with) - [Let’s optimize! Running 15× faster with a situation-specific algorithm](https://pythonspeed.com/articles/lets-optimize-median-local-threshold/)
 * [2024-05-30, 14:25:54](https://lobste.rs/s/hva5aa/how_i_run_software_book_club) - [How I run a software book club](https://notes.eatonphil.com/2025-05-30-how-i-run-book-clubs.html)
 * [2024-05-30, 13:40:04](https://lobste.rs/s/kde6vl/lobsters_interview_with_frederik_braun) - [Lobsters interview with Frederik Braun](https://lobste.rs/s/kde6vl/lobsters_interview_with_frederik_braun)
 * [2024-05-30, 11:35:38](https://lobste.rs/s/ufuu9w/why_after_6_years_i_m_over_graphql) - [Why, after 6 years, I’m over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
@@ -23,7 +24,6 @@
 * [2024-05-29, 06:07:02](https://lobste.rs/s/uox0nn/qlock_javascript_quine_clock) - [Qlock - A JavaScript Quine Clock](http://aem1k.com/qlock/)
 * [2024-05-28, 20:39:49](https://lobste.rs/s/wqff1k/cdns_have_same_privacy_content_validity) - [CDNs have the same privacy and content validity implications as ISPs in the pre-HTTPS days](https://chickadee.codes/cdn.html)
 * [2024-05-28, 20:31:59](https://lobste.rs/s/7nbrzs/your_api_shouldn_t_redirect_http_https) - [Your API Shouldn't Redirect HTTP to HTTPS](https://jviide.iki.fi/http-redirects)
-* [2024-05-28, 19:42:54](https://lobste.rs/s/cjqrug/terminaltexteffects) - [TerminalTextEffects](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
 * [2024-05-28, 11:40:44](https://lobste.rs/s/sdxsa9/do_i_not_like_ruby_anymore) - [Do I not like Ruby anymore?](https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/)
 
 ## [Archives](archives/index.md)
