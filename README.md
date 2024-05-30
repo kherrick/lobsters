@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-30, 08:41:09](https://lobste.rs/s/74qoqm/keepassxc_kerfuffle) - [The KeePassXC kerfuffle](https://lwn.net/Articles/973782/)
 * [2024-05-30, 06:02:35](https://lobste.rs/s/jmtero/f_developer_stories_how_we_ve_finally) - [F# developer stories: how we've finally fixed a 9-year-old performance issue](https://devblogs.microsoft.com/dotnet/fsharp-developer-stories-how-weve-finally-fixed-a-9yearold-performance-issue/)
 * [2024-05-30, 00:20:06](https://lobste.rs/s/uy0nls/five_years_running_news_site_on_jamstack) - [Five Years Running a News Site on JAMStack](https://blog.carlana.net/post/2024/spotlight-pa-jamstack-history/)
 * [2024-05-29, 23:50:21](https://lobste.rs/s/7jwquw/disassembling_dalvik) - [Disassembling Dalvik](https://margin.re/2024/05/dalvik-disassembly/)
@@ -24,7 +25,6 @@
 * [2024-05-28, 19:42:54](https://lobste.rs/s/cjqrug/terminaltexteffects) - [TerminalTextEffects](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
 * [2024-05-28, 11:40:44](https://lobste.rs/s/sdxsa9/do_i_not_like_ruby_anymore) - [Do I not like Ruby anymore?](https://sgt.hootr.club/molten-matter/maybe-i-like-python-now/)
 * [2024-05-28, 09:25:31](https://lobste.rs/s/ddwtyx/wayland_sway_on_openbsd) - [Wayland/Sway on OpenBSD](https://x61.sh/log/2024/05/27052024192206-sway_openbsd.html)
-* [2024-05-28, 07:48:10](https://lobste.rs/s/0gdjfp/so_many_feed_readers_so_many_bizarre) - [So many feed readers, so many bizarre behaviors](https://rachelbythebay.com/w/2024/05/27/feed/)
 
 ## [Archives](archives/index.md)
 
