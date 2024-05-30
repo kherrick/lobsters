@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-30](index.md)
 
+* [2024-05-30, 21:03:11](https://lobste.rs/s/tpvfzt/recommendations_for_practical) - [Recommendations for practical introductions to PEG parsing?](https://lobste.rs/s/tpvfzt/recommendations_for_practical)
 * [2024-05-30, 20:44:29](https://lobste.rs/s/lpf0ty/find_pbt_properties_by_relating_multiple) - [Find PBT properties by relating multiple functions](https://www.youtube.com/watch?v=CnIlm6-XK6U)
 * [2024-05-30, 19:50:01](https://lobste.rs/s/71szcz/if_multicast_is_answer_what_was_question) - [If Multicast is the Answer – What was the Question?](https://arxiv.org/abs/2211.09029)
 * [2024-05-30, 19:11:49](https://lobste.rs/s/a5exrx/rill_library_for_simpler_concurrency_go) - [Rill - Library for Simpler Concurrency in Go](https://github.com/destel/rill)
