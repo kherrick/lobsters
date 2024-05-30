@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-30](index.md)
 
+* [2024-05-30, 19:50:01](https://lobste.rs/s/71szcz/if_multicast_is_answer_what_was_question) - [If Multicast is the Answer – What was the Question?](https://arxiv.org/abs/2211.09029)
 * [2024-05-30, 19:11:49](https://lobste.rs/s/a5exrx/rill_library_for_simpler_concurrency_go) - [Rill - Library for Simpler Concurrency in Go](https://github.com/destel/rill)
 * [2024-05-30, 18:52:08](https://lobste.rs/s/m55u77/pypy_has_been_quietly_working_for_me_for) - [PyPy has been quietly working for me for several years now](https://utcc.utoronto.ca/~cks/space/blog/python/PyPyQuietlyWorking)
 * [2024-05-30, 17:06:46](https://lobste.rs/s/jxulih/zig_s_new_cli_progress_bar_explained) - [Zig's New CLI Progress Bar Explained](https://andrewkelley.me/post/zig-new-cli-progress-bar-explained.html)
