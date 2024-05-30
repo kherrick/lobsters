@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-30](index.md)
 
+* [2024-05-30, 16:57:02](https://lobste.rs/s/6rem8w/django_enhancement_proposal_14) - [Django Enhancement Proposal 14: Background Workers](https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/)
 * [2024-05-30, 15:16:41](https://lobste.rs/s/pj5cy6/let_s_optimize_running_15x_faster_with) - [Let’s optimize! Running 15× faster with a situation-specific algorithm](https://pythonspeed.com/articles/lets-optimize-median-local-threshold/)
 * [2024-05-30, 14:25:54](https://lobste.rs/s/hva5aa/how_i_run_software_book_club) - [How I run a software book club](https://notes.eatonphil.com/2025-05-30-how-i-run-book-clubs.html)
 * [2024-05-30, 13:40:04](https://lobste.rs/s/kde6vl/lobsters_interview_with_frederik_braun) - [Lobsters interview with Frederik Braun](https://lobste.rs/s/kde6vl/lobsters_interview_with_frederik_braun)
