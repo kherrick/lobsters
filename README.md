@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-30, 14:25:54](https://lobste.rs/s/hva5aa/how_i_run_software_book_club) - [How I run a software book club](https://notes.eatonphil.com/2025-05-30-how-i-run-book-clubs.html)
 * [2024-05-30, 13:40:04](https://lobste.rs/s/kde6vl/lobsters_interview_with_frederik_braun) - [Lobsters interview with Frederik Braun](https://lobste.rs/s/kde6vl/lobsters_interview_with_frederik_braun)
 * [2024-05-30, 11:35:38](https://lobste.rs/s/ufuu9w/why_after_6_years_i_m_over_graphql) - [Why, after 6 years, I’m over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
 * [2024-05-30, 10:35:25](https://lobste.rs/s/wjabm4/modular_what_ownership_is_really_about) - [Modular: What Ownership is Really About:  A Mental Model Approach](https://www.modular.com/blog/what-ownership-is-really-about-a-mental-model-approach)
@@ -14,7 +15,6 @@
 * [2024-05-29, 18:06:58](https://lobste.rs/s/kxk0io/introducing_new_framework_laptop_13_with) - [Introducing the new Framework Laptop 13 with Intel Core Ultra Series 1](https://frame.work/fr/fr/blog/introducing-the-new-framework-laptop-13-with-intel-core-ultra-series-1-processors)
 * [2024-05-29, 16:36:29](https://lobste.rs/s/5o7krc/inside_vintage_aerospace_navigation) - [Inside a vintage aerospace navigation computer of uncertain purpose](http://www.righto.com/2024/05/blog-post.html)
 * [2024-05-29, 16:31:37](https://lobste.rs/s/6jxas7/running_go_on_val_town) - [Running Go on Val Town](https://maxmcd.com/posts/running-go-on-val-town/)
-* [2024-05-29, 14:57:25](https://lobste.rs/s/bbwjmd/simple_speech_text_on_10_cents_ch32v003) - [Simple Speech-To-Text on the '10 cents' CH32V003 Microcontroller](https://github.com/brian-smith-github/ch32v003_stt)
 * [2024-05-29, 14:04:35](https://lobste.rs/s/kdkhxm/everything_i_know_about_fast_inverse) - [Everything I Know About The Fast Inverse Square Root Algorithm](https://github.com/francisrstokes/githublog/blob/main/2024/5/29/fast-inverse-sqrt.md)
 * [2024-05-29, 13:42:22](https://lobste.rs/s/zsx17l/secure_your_tailscale_infra_further_with) - [Secure your Tailscale infra further with Mutual TLS (mTLS)](https://blog.viktorpetersson.com/2024/05/29/tailscale-and-mutual-tls.html)
 * [2024-05-29, 09:26:58](https://lobste.rs/s/k5t2uj/database_schema_design_for_google) - [Database schema design for Google Calendar: a tutorial](https://kb.databasedesignbook.com/posts/google-calendar/)
