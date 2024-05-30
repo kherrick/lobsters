@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-30](index.md)
 
+* [2024-05-30, 23:48:06](https://lobste.rs/s/4urvgq/duckdb_doesn_t_need_data_be_database) - [DuckDB Doesn’t Need Data To Be a Database](https://www.nikolasgoebel.com/2024/05/28/duckdb-doesnt-need-data.html)
 * [2024-05-30, 21:24:34](https://lobste.rs/s/zt6wox/evolution_cloud_block_store) - [Evolution of Cloud Block Store](https://asatarin.github.io/talks/2024-05-evolution-of-cloud-block-store/)
 * [2024-05-30, 21:03:11](https://lobste.rs/s/tpvfzt/recommendations_for_practical) - [Recommendations for practical introductions to PEG parsing?](https://lobste.rs/s/tpvfzt/recommendations_for_practical)
 * [2024-05-30, 20:44:29](https://lobste.rs/s/lpf0ty/find_pbt_properties_by_relating_multiple) - [Find PBT properties by relating multiple functions](https://www.youtube.com/watch?v=CnIlm6-XK6U)
