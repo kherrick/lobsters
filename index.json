@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-30, 17:06:46",
+      "https://lobste.rs/s/jxulih/zig_s_new_cli_progress_bar_explained"
+    ],
+    [
+      "Zig's New CLI Progress Bar Explained",
+      "https://andrewkelley.me/post/zig-new-cli-progress-bar-explained.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-30, 17:06:42",
+      "https://lobste.rs/s/4zbfhz/is_community_backed_open_source_software"
+    ],
+    [
+      "Is Community-Backed Open Source Software Worth the Risk?",
+      "https://thenewstack.io/is-community-backed-open-source-software-worth-the-risk/"
+    ]
+  ],
+  [
+    [
       "2024-05-30, 16:57:02",
       "https://lobste.rs/s/6rem8w/django_enhancement_proposal_14"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-05-29, 18:54:43",
-      "https://lobste.rs/s/dak82f/string_comparison_timing_attacks"
-    ],
-    [
-      "String comparison timing attacks",
-      "https://www.sjoerdlangkemper.nl/2024/05/29/string-comparison-timing-attacks/"
-    ]
-  ],
-  [
-    [
       "2024-05-29, 18:06:58",
       "https://lobste.rs/s/kxk0io/introducing_new_framework_laptop_13_with"
     ],
@@ -227,16 +237,6 @@
     [
       "CDNs have the same privacy and content validity implications as ISPs in the pre-HTTPS days",
       "https://chickadee.codes/cdn.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-28, 20:31:59",
-      "https://lobste.rs/s/7nbrzs/your_api_shouldn_t_redirect_http_https"
-    ],
-    [
-      "Your API Shouldn't Redirect HTTP to HTTPS",
-      "https://jviide.iki.fi/http-redirects"
     ]
   ],
   [
