@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-30](index.md)
 
+* [2024-05-30, 13:40:04](https://lobste.rs/s/kde6vl/lobsters_interview_with_frederik_braun) - [Lobsters interview with Frederik Braun](https://lobste.rs/s/kde6vl/lobsters_interview_with_frederik_braun)
 * [2024-05-30, 11:35:38](https://lobste.rs/s/ufuu9w/why_after_6_years_i_m_over_graphql) - [Why, after 6 years, I’m over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
 * [2024-05-30, 10:35:25](https://lobste.rs/s/wjabm4/modular_what_ownership_is_really_about) - [Modular: What Ownership is Really About:  A Mental Model Approach](https://www.modular.com/blog/what-ownership-is-really-about-a-mental-model-approach)
 * [2024-05-30, 08:41:09](https://lobste.rs/s/74qoqm/keepassxc_kerfuffle) - [The KeePassXC kerfuffle](https://lwn.net/Articles/973782/)
