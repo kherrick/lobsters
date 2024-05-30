@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-30, 16:57:02",
+      "https://lobste.rs/s/6rem8w/django_enhancement_proposal_14"
+    ],
+    [
+      "Django Enhancement Proposal 14: Background Workers",
+      "https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/"
+    ]
+  ],
+  [
+    [
       "2024-05-30, 15:16:41",
       "https://lobste.rs/s/pj5cy6/let_s_optimize_running_15x_faster_with"
     ],
@@ -187,16 +197,6 @@
     [
       "Database schema design for Google Calendar: a tutorial",
       "https://kb.databasedesignbook.com/posts/google-calendar/"
-    ]
-  ],
-  [
-    [
-      "2024-05-29, 08:22:35",
-      "https://lobste.rs/s/18vjfj/shadow_stacks_for_go"
-    ],
-    [
-      "Shadow stacks for Go",
-      "https://blog.felixge.de/blazingly-fast-shadow-stacks-for-go/"
     ]
   ],
   [
