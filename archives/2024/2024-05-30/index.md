@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-30](index.md)
 
+* [2024-05-30, 18:52:08](https://lobste.rs/s/m55u77/pypy_has_been_quietly_working_for_me_for) - [PyPy has been quietly working for me for several years now](https://utcc.utoronto.ca/~cks/space/blog/python/PyPyQuietlyWorking)
 * [2024-05-30, 17:06:46](https://lobste.rs/s/jxulih/zig_s_new_cli_progress_bar_explained) - [Zig's New CLI Progress Bar Explained](https://andrewkelley.me/post/zig-new-cli-progress-bar-explained.html)
 * [2024-05-30, 17:06:42](https://lobste.rs/s/4zbfhz/is_community_backed_open_source_software) - [Is Community-Backed Open Source Software Worth the Risk?](https://thenewstack.io/is-community-backed-open-source-software-worth-the-risk/)
 * [2024-05-30, 16:57:02](https://lobste.rs/s/6rem8w/django_enhancement_proposal_14) - [Django Enhancement Proposal 14: Background Workers](https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-30, 18:52:08](https://lobste.rs/s/m55u77/pypy_has_been_quietly_working_for_me_for) - [PyPy has been quietly working for me for several years now](https://utcc.utoronto.ca/~cks/space/blog/python/PyPyQuietlyWorking)
 * [2024-05-30, 17:06:46](https://lobste.rs/s/jxulih/zig_s_new_cli_progress_bar_explained) - [Zig's New CLI Progress Bar Explained](https://andrewkelley.me/post/zig-new-cli-progress-bar-explained.html)
 * [2024-05-30, 17:06:42](https://lobste.rs/s/4zbfhz/is_community_backed_open_source_software) - [Is Community-Backed Open Source Software Worth the Risk?](https://thenewstack.io/is-community-backed-open-source-software-worth-the-risk/)
 * [2024-05-30, 16:57:02](https://lobste.rs/s/6rem8w/django_enhancement_proposal_14) - [Django Enhancement Proposal 14: Background Workers](https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/)
@@ -16,7 +17,6 @@
 * [2024-05-29, 20:31:33](https://lobste.rs/s/ob3u2c/lambda_way_project_lisp_ide_ssg) - [Lambda Way Project - Lisp, IDE & SSG](http://lambdaway.fr/workshop/index.php)
 * [2024-05-29, 19:00:02](https://lobste.rs/s/sh68p1/why_your_linux_kernel_bug_report_might_be) - [Why your Linux kernel bug report might be fruitless](https://linux-regtracking.leemhuis.info/post/frequent-reasons-why-linux-kernel-bug-reports-are-ignored/)
 * [2024-05-29, 18:06:58](https://lobste.rs/s/kxk0io/introducing_new_framework_laptop_13_with) - [Introducing the new Framework Laptop 13 with Intel Core Ultra Series 1](https://frame.work/fr/fr/blog/introducing-the-new-framework-laptop-13-with-intel-core-ultra-series-1-processors)
-* [2024-05-29, 16:36:29](https://lobste.rs/s/5o7krc/inside_vintage_aerospace_navigation) - [Inside a vintage aerospace navigation computer of uncertain purpose](http://www.righto.com/2024/05/blog-post.html)
 * [2024-05-29, 16:31:37](https://lobste.rs/s/6jxas7/running_go_on_val_town) - [Running Go on Val Town](https://maxmcd.com/posts/running-go-on-val-town/)
 * [2024-05-29, 14:04:35](https://lobste.rs/s/kdkhxm/everything_i_know_about_fast_inverse) - [Everything I Know About The Fast Inverse Square Root Algorithm](https://github.com/francisrstokes/githublog/blob/main/2024/5/29/fast-inverse-sqrt.md)
 * [2024-05-29, 13:42:22](https://lobste.rs/s/zsx17l/secure_your_tailscale_infra_further_with) - [Secure your Tailscale infra further with Mutual TLS (mTLS)](https://blog.viktorpetersson.com/2024/05/29/tailscale-and-mutual-tls.html)
