@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-31, 08:46:37](https://lobste.rs/s/fgyf3x/things_you_wish_you_didn_t_need_know_about) - [Things you wish you didn't need to know about S3](https://blog.plerion.com/things-you-wish-you-didnt-need-to-know-about-s3/)
 * [2024-05-31, 07:36:39](https://lobste.rs/s/pnvrud/debian_12_kde_plasma_right_gnu_linux) - [Debian 12 KDE Plasma: The right GNU/Linux distribution for professional digital painting in 2024. Reasons and complete installation guide](https://www.davidrevoy.com/article1030/debian-12-kde-plasma-2024-install-guide)
 * [2024-05-31, 07:12:45](https://lobste.rs/s/jfg3ma/quickly_checking_whether_string_needs) - [Quickly checking whether a string needs escaping](https://lemire.me/blog/2024/05/31/quickly-checking-whether-a-string-needs-escaping/)
 * [2024-05-31, 06:08:39](https://lobste.rs/s/efvsru/engineering_for_slow_internet) - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
@@ -23,7 +24,6 @@
 * [2024-05-30, 00:20:06](https://lobste.rs/s/uy0nls/five_years_running_news_site_on_jamstack) - [Five Years Running a News Site on JAMStack](https://blog.carlana.net/post/2024/spotlight-pa-jamstack-history/)
 * [2024-05-29, 21:42:22](https://lobste.rs/s/qsws7e/adding_usb_port_thinkpad_x1_nano_hard_way) - [Adding a USB Port to the ThinkPad X1 Nano (the Hard Way)](https://jcs.org/2024/05/29/x1usb)
 * [2024-05-29, 18:06:58](https://lobste.rs/s/kxk0io/introducing_new_framework_laptop_13_with) - [Introducing the new Framework Laptop 13 with Intel Core Ultra Series 1](https://frame.work/fr/fr/blog/introducing-the-new-framework-laptop-13-with-intel-core-ultra-series-1-processors)
-* [2024-05-29, 14:04:35](https://lobste.rs/s/kdkhxm/everything_i_know_about_fast_inverse) - [Everything I Know About The Fast Inverse Square Root Algorithm](https://github.com/francisrstokes/githublog/blob/main/2024/5/29/fast-inverse-sqrt.md)
 * [2024-05-29, 09:26:58](https://lobste.rs/s/k5t2uj/database_schema_design_for_google) - [Database schema design for Google Calendar: a tutorial](https://kb.databasedesignbook.com/posts/google-calendar/)
 
 ## [Archives](archives/index.md)
