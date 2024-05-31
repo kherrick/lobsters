@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-31](index.md)
 
+* [2024-05-31, 21:51:45](https://lobste.rs/s/rfit72/recall_stealing_everything_you_ve_ever) - [Recall: Stealing everything you’ve ever typed or viewed on your own Windows PC is now possible](https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e)
 * [2024-05-31, 19:31:55](https://lobste.rs/s/vyprdq/nixos_24_05_released) - [NixOS 24.05 released](https://nixos.org/blog/announcements/2024/nixos-2405/)
 * [2024-05-31, 18:37:53](https://lobste.rs/s/tdpwpa/how_copy_file_from_30_year_old_laptop) - [How to Copy a File From a 30-year-old Laptop](https://www.unterminated.com/random-fun/how-to-copy-a-file-from-a-30-year-old-laptop)
 * [2024-05-31, 17:54:51](https://lobste.rs/s/thpffd/jank_gets_chunked_sequences_volatiles) - [jank gets chunked sequences, volatiles, atoms, and some big project updates](https://jank-lang.org/blog/2024-05-31-new-projects/)
