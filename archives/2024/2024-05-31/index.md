@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-31](index.md)
 
+* [2024-05-31, 17:27:08](https://lobste.rs/s/bieyrr/place_postgres_history) - [The Place of Postgres in History](https://www.youtube.com/watch?v=BZ73uoS5u7o)
 * [2024-05-31, 16:19:53](https://lobste.rs/s/mjcut6/virtualization_internals_part_1_intro) - [Virtualization Internals Part 1 - Intro to Virtualization](https://docs.saferwall.com/blog/virtualization-internals-part-1-intro-to-virtualization/)
 * [2024-05-31, 15:59:01](https://lobste.rs/s/y0zmfc/planck_expandable_65c02_based_computer) - [Planck expandable 65c02-based computer](https://planck6502.com/)
 * [2024-05-31, 15:16:39](https://lobste.rs/s/ckduqc/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ckduqc/what_are_you_doing_this_weekend)
