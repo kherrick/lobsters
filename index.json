@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-31, 07:12:45",
+      "https://lobste.rs/s/jfg3ma/quickly_checking_whether_string_needs"
+    ],
+    [
+      "Quickly checking whether a string needs escaping",
+      "https://lemire.me/blog/2024/05/31/quickly-checking-whether-a-string-needs-escaping/"
+    ]
+  ],
+  [
+    [
       "2024-05-31, 06:08:39",
       "https://lobste.rs/s/efvsru/engineering_for_slow_internet"
     ],
@@ -227,16 +237,6 @@
     [
       "Everything I Know About The Fast Inverse Square Root Algorithm",
       "https://github.com/francisrstokes/githublog/blob/main/2024/5/29/fast-inverse-sqrt.md"
-    ]
-  ],
-  [
-    [
-      "2024-05-29, 13:42:22",
-      "https://lobste.rs/s/zsx17l/secure_your_tailscale_infra_further_with"
-    ],
-    [
-      "Secure your Tailscale infra further with Mutual TLS (mTLS)",
-      "https://blog.viktorpetersson.com/2024/05/29/tailscale-and-mutual-tls.html"
     ]
   ],
   [
