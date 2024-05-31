@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-31, 07:36:39](https://lobste.rs/s/pnvrud/debian_12_kde_plasma_right_gnu_linux) - [Debian 12 KDE Plasma: The right GNU/Linux distribution for professional digital painting in 2024. Reasons and complete installation guide](https://www.davidrevoy.com/article1030/debian-12-kde-plasma-2024-install-guide)
 * [2024-05-31, 07:12:45](https://lobste.rs/s/jfg3ma/quickly_checking_whether_string_needs) - [Quickly checking whether a string needs escaping](https://lemire.me/blog/2024/05/31/quickly-checking-whether-a-string-needs-escaping/)
 * [2024-05-31, 06:08:39](https://lobste.rs/s/efvsru/engineering_for_slow_internet) - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 * [2024-05-31, 05:14:42](https://lobste.rs/s/nbfk81/obtaining_locality_domain) - [Obtaining a locality domain](http://nguyen.cincinnati.oh.us/locality.html)
@@ -17,7 +18,6 @@
 * [2024-05-30, 14:25:54](https://lobste.rs/s/hva5aa/how_i_run_software_book_club) - [How I run a software book club](https://notes.eatonphil.com/2025-05-30-how-i-run-book-clubs.html)
 * [2024-05-30, 13:40:04](https://lobste.rs/s/kde6vl/lobsters_interview_with_frederik_braun) - [Lobsters interview with Frederik Braun](https://lobste.rs/s/kde6vl/lobsters_interview_with_frederik_braun)
 * [2024-05-30, 11:35:38](https://lobste.rs/s/ufuu9w/why_after_6_years_i_m_over_graphql) - [Why, after 6 years, I’m over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
-* [2024-05-30, 10:35:25](https://lobste.rs/s/wjabm4/modular_what_ownership_is_really_about) - [Modular: What Ownership is Really About:  A Mental Model Approach](https://www.modular.com/blog/what-ownership-is-really-about-a-mental-model-approach)
 * [2024-05-30, 08:41:09](https://lobste.rs/s/74qoqm/keepassxc_kerfuffle) - [The KeePassXC kerfuffle](https://lwn.net/Articles/973782/)
 * [2024-05-30, 06:02:35](https://lobste.rs/s/jmtero/f_developer_stories_how_we_ve_finally) - [F# developer stories: how we've finally fixed a 9-year-old performance issue](https://devblogs.microsoft.com/dotnet/fsharp-developer-stories-how-weve-finally-fixed-a-9yearold-performance-issue/)
 * [2024-05-30, 00:20:06](https://lobste.rs/s/uy0nls/five_years_running_news_site_on_jamstack) - [Five Years Running a News Site on JAMStack](https://blog.carlana.net/post/2024/spotlight-pa-jamstack-history/)
