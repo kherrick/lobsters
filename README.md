@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-31, 07:12:45](https://lobste.rs/s/jfg3ma/quickly_checking_whether_string_needs) - [Quickly checking whether a string needs escaping](https://lemire.me/blog/2024/05/31/quickly-checking-whether-a-string-needs-escaping/)
 * [2024-05-31, 06:08:39](https://lobste.rs/s/efvsru/engineering_for_slow_internet) - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 * [2024-05-31, 05:14:42](https://lobste.rs/s/nbfk81/obtaining_locality_domain) - [Obtaining a locality domain](http://nguyen.cincinnati.oh.us/locality.html)
 * [2024-05-30, 23:48:06](https://lobste.rs/s/4urvgq/duckdb_doesn_t_need_data_be_database) - [DuckDB Doesn’t Need Data To Be a Database](https://www.nikolasgoebel.com/2024/05/28/duckdb-doesnt-need-data.html)
@@ -23,7 +24,6 @@
 * [2024-05-29, 21:42:22](https://lobste.rs/s/qsws7e/adding_usb_port_thinkpad_x1_nano_hard_way) - [Adding a USB Port to the ThinkPad X1 Nano (the Hard Way)](https://jcs.org/2024/05/29/x1usb)
 * [2024-05-29, 18:06:58](https://lobste.rs/s/kxk0io/introducing_new_framework_laptop_13_with) - [Introducing the new Framework Laptop 13 with Intel Core Ultra Series 1](https://frame.work/fr/fr/blog/introducing-the-new-framework-laptop-13-with-intel-core-ultra-series-1-processors)
 * [2024-05-29, 14:04:35](https://lobste.rs/s/kdkhxm/everything_i_know_about_fast_inverse) - [Everything I Know About The Fast Inverse Square Root Algorithm](https://github.com/francisrstokes/githublog/blob/main/2024/5/29/fast-inverse-sqrt.md)
-* [2024-05-29, 13:42:22](https://lobste.rs/s/zsx17l/secure_your_tailscale_infra_further_with) - [Secure your Tailscale infra further with Mutual TLS (mTLS)](https://blog.viktorpetersson.com/2024/05/29/tailscale-and-mutual-tls.html)
 * [2024-05-29, 09:26:58](https://lobste.rs/s/k5t2uj/database_schema_design_for_google) - [Database schema design for Google Calendar: a tutorial](https://kb.databasedesignbook.com/posts/google-calendar/)
 
 ## [Archives](archives/index.md)
