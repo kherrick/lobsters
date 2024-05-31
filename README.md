@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-05-31, 12:43:59](https://lobste.rs/s/t2spem/originai_build_custom_enterprise) - [OriginAI - Build custom enterprise software using GenAI](https://www.theorigin.ai)
 * [2024-05-31, 12:29:41](https://lobste.rs/s/ftqola/github_s_missing_tab) - [GitHub's Missing Tab](https://www.hezmatt.org/~mpalmer/blog/2024/05/30/githubs-missing-tab.html)
 * [2024-05-31, 10:29:54](https://lobste.rs/s/hrciby/p3292r0r0_provenance_concurrency) - [P3292R0R0: Provenance and Concurrency](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3292r0.html)
 * [2024-05-31, 08:46:37](https://lobste.rs/s/fgyf3x/things_you_wish_you_didn_t_need_know_about) - [Things you wish you didn't need to know about S3](https://blog.plerion.com/things-you-wish-you-didnt-need-to-know-about-s3/)
@@ -9,6 +8,7 @@
 * [2024-05-31, 06:08:39](https://lobste.rs/s/efvsru/engineering_for_slow_internet) - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 * [2024-05-31, 05:14:42](https://lobste.rs/s/nbfk81/obtaining_locality_domain) - [Obtaining a locality domain](http://nguyen.cincinnati.oh.us/locality.html)
 * [2024-05-30, 23:48:06](https://lobste.rs/s/4urvgq/duckdb_doesn_t_need_data_be_database) - [DuckDB Doesn’t Need Data To Be a Database](https://www.nikolasgoebel.com/2024/05/28/duckdb-doesnt-need-data.html)
+* [2024-05-30, 21:24:34](https://lobste.rs/s/zt6wox/evolution_cloud_block_store) - [Evolution of Cloud Block Store](https://asatarin.github.io/talks/2024-05-evolution-of-cloud-block-store/)
 * [2024-05-30, 21:03:11](https://lobste.rs/s/tpvfzt/recommendations_for_practical) - [Recommendations for practical introductions to PEG parsing?](https://lobste.rs/s/tpvfzt/recommendations_for_practical)
 * [2024-05-30, 20:44:29](https://lobste.rs/s/lpf0ty/find_pbt_properties_by_relating_multiple) - [Find PBT properties by relating multiple functions](https://www.youtube.com/watch?v=CnIlm6-XK6U)
 * [2024-05-30, 19:50:01](https://lobste.rs/s/71szcz/if_multicast_is_answer_what_was_question) - [If Multicast is the Answer – What was the Question?](https://arxiv.org/abs/2211.09029)
