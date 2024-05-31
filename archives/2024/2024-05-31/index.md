@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-31](index.md)
 
+* [2024-05-31, 23:48:20](https://lobste.rs/s/03ssxd/sentinel_errors_errors_is_slow_your_code) - [Sentinel errors and errors.Is() slow your code down by 3000%](https://www.dolthub.com/blog/2024-05-31-benchmarking-go-error-handling/)
 * [2024-05-31, 22:23:12](https://lobste.rs/s/nbbn0y/ezno_quest_continues) - [Ezno: The quest continues](https://kaleidawave.github.io/posts/the-quest-continues/)
 * [2024-05-31, 21:51:45](https://lobste.rs/s/rfit72/recall_stealing_everything_you_ve_ever) - [Recall: Stealing everything you’ve ever typed or viewed on your own Windows PC is now possible](https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e)
 * [2024-05-31, 19:31:55](https://lobste.rs/s/vyprdq/nixos_24_05_released) - [NixOS 24.05 released](https://nixos.org/blog/announcements/2024/nixos-2405/)
