@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-31](index.md)
 
+* [2024-05-31, 17:54:51](https://lobste.rs/s/thpffd/jank_gets_chunked_sequences_volatiles) - [jank gets chunked sequences, volatiles, atoms, and some big project updates](https://jank-lang.org/blog/2024-05-31-new-projects/)
 * [2024-05-31, 17:53:53](https://lobste.rs/s/zcth7i/emacs_doesn_t_have_plugins) - [Emacs Doesn’t Have Plugins](https://irreal.org/blog/?p=12210)
 * [2024-05-31, 17:27:08](https://lobste.rs/s/bieyrr/place_postgres_history) - [The Place of Postgres in History](https://www.youtube.com/watch?v=BZ73uoS5u7o)
 * [2024-05-31, 16:19:53](https://lobste.rs/s/mjcut6/virtualization_internals_part_1_intro) - [Virtualization Internals Part 1 - Intro to Virtualization](https://docs.saferwall.com/blog/virtualization-internals-part-1-intro-to-virtualization/)
