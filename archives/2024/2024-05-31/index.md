@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-05-31](index.md)
+
+* [2024-05-31, 05:14:42](https://lobste.rs/s/nbfk81/obtaining_locality_domain) - [Obtaining a locality domain](http://nguyen.cincinnati.oh.us/locality.html)
