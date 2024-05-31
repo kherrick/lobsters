@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-31, 17:53:53](https://lobste.rs/s/zcth7i/emacs_doesn_t_have_plugins) - [Emacs Doesn’t Have Plugins](https://irreal.org/blog/?p=12210)
 * [2024-05-31, 17:27:08](https://lobste.rs/s/bieyrr/place_postgres_history) - [The Place of Postgres in History](https://www.youtube.com/watch?v=BZ73uoS5u7o)
 * [2024-05-31, 16:19:53](https://lobste.rs/s/mjcut6/virtualization_internals_part_1_intro) - [Virtualization Internals Part 1 - Intro to Virtualization](https://docs.saferwall.com/blog/virtualization-internals-part-1-intro-to-virtualization/)
 * [2024-05-31, 15:59:01](https://lobste.rs/s/y0zmfc/planck_expandable_65c02_based_computer) - [Planck expandable 65c02-based computer](https://planck6502.com/)
@@ -12,7 +13,6 @@
 * [2024-05-31, 07:12:45](https://lobste.rs/s/jfg3ma/quickly_checking_whether_string_needs) - [Quickly checking whether a string needs escaping](https://lemire.me/blog/2024/05/31/quickly-checking-whether-a-string-needs-escaping/)
 * [2024-05-31, 06:08:39](https://lobste.rs/s/efvsru/engineering_for_slow_internet) - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 * [2024-05-30, 23:48:06](https://lobste.rs/s/4urvgq/duckdb_doesn_t_need_data_be_database) - [DuckDB Doesn’t Need Data To Be a Database](https://www.nikolasgoebel.com/2024/05/28/duckdb-doesnt-need-data.html)
-* [2024-05-30, 21:24:34](https://lobste.rs/s/zt6wox/evolution_cloud_block_store) - [Evolution of Cloud Block Store](https://asatarin.github.io/talks/2024-05-evolution-of-cloud-block-store/)
 * [2024-05-30, 21:03:11](https://lobste.rs/s/tpvfzt/recommendations_for_practical) - [Recommendations for practical introductions to PEG parsing?](https://lobste.rs/s/tpvfzt/recommendations_for_practical)
 * [2024-05-30, 19:50:01](https://lobste.rs/s/71szcz/if_multicast_is_answer_what_was_question) - [If Multicast is the Answer – What was the Question?](https://arxiv.org/abs/2211.09029)
 * [2024-05-30, 19:11:49](https://lobste.rs/s/a5exrx/rill_library_for_simpler_concurrency_go) - [Rill - Library for Simpler Concurrency in Go](https://github.com/destel/rill)
