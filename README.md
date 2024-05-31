@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-31, 06:08:39](https://lobste.rs/s/efvsru/engineering_for_slow_internet) - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 * [2024-05-31, 05:14:42](https://lobste.rs/s/nbfk81/obtaining_locality_domain) - [Obtaining a locality domain](http://nguyen.cincinnati.oh.us/locality.html)
 * [2024-05-30, 23:48:06](https://lobste.rs/s/4urvgq/duckdb_doesn_t_need_data_be_database) - [DuckDB Doesn’t Need Data To Be a Database](https://www.nikolasgoebel.com/2024/05/28/duckdb-doesnt-need-data.html)
 * [2024-05-30, 21:24:34](https://lobste.rs/s/zt6wox/evolution_cloud_block_store) - [Evolution of Cloud Block Store](https://asatarin.github.io/talks/2024-05-evolution-of-cloud-block-store/)
@@ -20,7 +21,6 @@
 * [2024-05-30, 06:02:35](https://lobste.rs/s/jmtero/f_developer_stories_how_we_ve_finally) - [F# developer stories: how we've finally fixed a 9-year-old performance issue](https://devblogs.microsoft.com/dotnet/fsharp-developer-stories-how-weve-finally-fixed-a-9yearold-performance-issue/)
 * [2024-05-30, 00:20:06](https://lobste.rs/s/uy0nls/five_years_running_news_site_on_jamstack) - [Five Years Running a News Site on JAMStack](https://blog.carlana.net/post/2024/spotlight-pa-jamstack-history/)
 * [2024-05-29, 21:42:22](https://lobste.rs/s/qsws7e/adding_usb_port_thinkpad_x1_nano_hard_way) - [Adding a USB Port to the ThinkPad X1 Nano (the Hard Way)](https://jcs.org/2024/05/29/x1usb)
-* [2024-05-29, 19:00:02](https://lobste.rs/s/sh68p1/why_your_linux_kernel_bug_report_might_be) - [Why your Linux kernel bug report might be fruitless](https://linux-regtracking.leemhuis.info/post/frequent-reasons-why-linux-kernel-bug-reports-are-ignored/)
 * [2024-05-29, 18:06:58](https://lobste.rs/s/kxk0io/introducing_new_framework_laptop_13_with) - [Introducing the new Framework Laptop 13 with Intel Core Ultra Series 1](https://frame.work/fr/fr/blog/introducing-the-new-framework-laptop-13-with-intel-core-ultra-series-1-processors)
 * [2024-05-29, 14:04:35](https://lobste.rs/s/kdkhxm/everything_i_know_about_fast_inverse) - [Everything I Know About The Fast Inverse Square Root Algorithm](https://github.com/francisrstokes/githublog/blob/main/2024/5/29/fast-inverse-sqrt.md)
 * [2024-05-29, 13:42:22](https://lobste.rs/s/zsx17l/secure_your_tailscale_infra_further_with) - [Secure your Tailscale infra further with Mutual TLS (mTLS)](https://blog.viktorpetersson.com/2024/05/29/tailscale-and-mutual-tls.html)
