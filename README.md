@@ -18,11 +18,11 @@
 * [2024-05-30, 18:52:08](https://lobste.rs/s/m55u77/pypy_has_been_quietly_working_for_me_for) - [PyPy has been quietly working for me for several years now](https://utcc.utoronto.ca/~cks/space/blog/python/PyPyQuietlyWorking)
 * [2024-05-30, 17:06:46](https://lobste.rs/s/jxulih/zig_s_new_cli_progress_bar_explained) - [Zig's New CLI Progress Bar Explained](https://andrewkelley.me/post/zig-new-cli-progress-bar-explained.html)
 * [2024-05-30, 16:57:02](https://lobste.rs/s/6rem8w/django_enhancement_proposal_14) - [Django Enhancement Proposal 14: Background Workers](https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/)
+* [2024-05-30, 15:16:41](https://lobste.rs/s/pj5cy6/let_s_optimize_running_15x_faster_with) - [Let’s optimize! Running 15× faster with a situation-specific algorithm](https://pythonspeed.com/articles/lets-optimize-median-local-threshold/)
 * [2024-05-30, 13:40:04](https://lobste.rs/s/kde6vl/lobsters_interview_with_frederik_braun) - [Lobsters interview with Frederik Braun](https://lobste.rs/s/kde6vl/lobsters_interview_with_frederik_braun)
 * [2024-05-30, 11:35:38](https://lobste.rs/s/ufuu9w/why_after_6_years_i_m_over_graphql) - [Why, after 6 years, I’m over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
 * [2024-05-30, 08:41:09](https://lobste.rs/s/74qoqm/keepassxc_kerfuffle) - [The KeePassXC kerfuffle](https://lwn.net/Articles/973782/)
 * [2024-05-30, 06:02:35](https://lobste.rs/s/jmtero/f_developer_stories_how_we_ve_finally) - [F# developer stories: how we've finally fixed a 9-year-old performance issue](https://devblogs.microsoft.com/dotnet/fsharp-developer-stories-how-weve-finally-fixed-a-9yearold-performance-issue/)
-* [2024-05-30, 00:20:06](https://lobste.rs/s/uy0nls/five_years_running_news_site_on_jamstack) - [Five Years Running a News Site on JAMStack](https://blog.carlana.net/post/2024/spotlight-pa-jamstack-history/)
 * [2024-05-29, 21:42:22](https://lobste.rs/s/qsws7e/adding_usb_port_thinkpad_x1_nano_hard_way) - [Adding a USB Port to the ThinkPad X1 Nano (the Hard Way)](https://jcs.org/2024/05/29/x1usb)
 * [2024-05-29, 18:06:58](https://lobste.rs/s/kxk0io/introducing_new_framework_laptop_13_with) - [Introducing the new Framework Laptop 13 with Intel Core Ultra Series 1](https://frame.work/fr/fr/blog/introducing-the-new-framework-laptop-13-with-intel-core-ultra-series-1-processors)
 
