@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-31, 12:43:59](https://lobste.rs/s/t2spem/originai_build_custom_enterprise) - [OriginAI - Build custom enterprise software using GenAI](https://www.theorigin.ai)
+* [2024-05-31, 12:29:41](https://lobste.rs/s/ftqola/github_s_missing_tab) - [GitHub's Missing Tab](https://www.hezmatt.org/~mpalmer/blog/2024/05/30/githubs-missing-tab.html)
 * [2024-05-31, 10:29:54](https://lobste.rs/s/hrciby/p3292r0r0_provenance_concurrency) - [P3292R0R0: Provenance and Concurrency](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3292r0.html)
 * [2024-05-31, 08:46:37](https://lobste.rs/s/fgyf3x/things_you_wish_you_didn_t_need_know_about) - [Things you wish you didn't need to know about S3](https://blog.plerion.com/things-you-wish-you-didnt-need-to-know-about-s3/)
 * [2024-05-31, 07:36:39](https://lobste.rs/s/pnvrud/debian_12_kde_plasma_right_gnu_linux) - [Debian 12 KDE Plasma: The right GNU/Linux distribution for professional digital painting in 2024. Reasons and complete installation guide](https://www.davidrevoy.com/article1030/debian-12-kde-plasma-2024-install-guide)
@@ -13,7 +15,6 @@
 * [2024-05-30, 19:11:49](https://lobste.rs/s/a5exrx/rill_library_for_simpler_concurrency_go) - [Rill - Library for Simpler Concurrency in Go](https://github.com/destel/rill)
 * [2024-05-30, 18:52:08](https://lobste.rs/s/m55u77/pypy_has_been_quietly_working_for_me_for) - [PyPy has been quietly working for me for several years now](https://utcc.utoronto.ca/~cks/space/blog/python/PyPyQuietlyWorking)
 * [2024-05-30, 17:06:46](https://lobste.rs/s/jxulih/zig_s_new_cli_progress_bar_explained) - [Zig's New CLI Progress Bar Explained](https://andrewkelley.me/post/zig-new-cli-progress-bar-explained.html)
-* [2024-05-30, 17:06:42](https://lobste.rs/s/4zbfhz/is_community_backed_open_source_software) - [Is Community-Backed Open Source Software Worth the Risk?](https://thenewstack.io/is-community-backed-open-source-software-worth-the-risk/)
 * [2024-05-30, 16:57:02](https://lobste.rs/s/6rem8w/django_enhancement_proposal_14) - [Django Enhancement Proposal 14: Background Workers](https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/)
 * [2024-05-30, 15:16:41](https://lobste.rs/s/pj5cy6/let_s_optimize_running_15x_faster_with) - [Let’s optimize! Running 15× faster with a situation-specific algorithm](https://pythonspeed.com/articles/lets-optimize-median-local-threshold/)
 * [2024-05-30, 14:25:54](https://lobste.rs/s/hva5aa/how_i_run_software_book_club) - [How I run a software book club](https://notes.eatonphil.com/2025-05-30-how-i-run-book-clubs.html)
@@ -24,7 +25,6 @@
 * [2024-05-30, 00:20:06](https://lobste.rs/s/uy0nls/five_years_running_news_site_on_jamstack) - [Five Years Running a News Site on JAMStack](https://blog.carlana.net/post/2024/spotlight-pa-jamstack-history/)
 * [2024-05-29, 21:42:22](https://lobste.rs/s/qsws7e/adding_usb_port_thinkpad_x1_nano_hard_way) - [Adding a USB Port to the ThinkPad X1 Nano (the Hard Way)](https://jcs.org/2024/05/29/x1usb)
 * [2024-05-29, 18:06:58](https://lobste.rs/s/kxk0io/introducing_new_framework_laptop_13_with) - [Introducing the new Framework Laptop 13 with Intel Core Ultra Series 1](https://frame.work/fr/fr/blog/introducing-the-new-framework-laptop-13-with-intel-core-ultra-series-1-processors)
-* [2024-05-29, 09:26:58](https://lobste.rs/s/k5t2uj/database_schema_design_for_google) - [Database schema design for Google Calendar: a tutorial](https://kb.databasedesignbook.com/posts/google-calendar/)
 
 ## [Archives](archives/index.md)
 
