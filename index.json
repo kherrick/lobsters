@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-31, 15:16:39",
+      "https://lobste.rs/s/ckduqc/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/ckduqc/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
+      "2024-05-31, 15:05:07",
+      "https://lobste.rs/s/ole3jr/25_years_krita"
+    ],
+    [
+      "25 Years of Krita",
+      "https://krita.org/en/posts/2024/krita-25-years/"
+    ]
+  ],
+  [
+    [
       "2024-05-31, 12:29:41",
       "https://lobste.rs/s/ftqola/github_s_missing_tab"
     ],
@@ -57,16 +77,6 @@
     [
       "Engineering for Slow Internet",
       "https://brr.fyi/posts/engineering-for-slow-internet"
-    ]
-  ],
-  [
-    [
-      "2024-05-31, 05:14:42",
-      "https://lobste.rs/s/nbfk81/obtaining_locality_domain"
-    ],
-    [
-      "Obtaining a locality domain",
-      "http://nguyen.cincinnati.oh.us/locality.html"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Django Enhancement Proposal 14: Background Workers",
       "https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/"
-    ]
-  ],
-  [
-    [
-      "2024-05-30, 15:16:41",
-      "https://lobste.rs/s/pj5cy6/let_s_optimize_running_15x_faster_with"
-    ],
-    [
-      "Let’s optimize! Running 15× faster with a situation-specific algorithm",
-      "https://pythonspeed.com/articles/lets-optimize-median-local-threshold/"
     ]
   ],
   [
