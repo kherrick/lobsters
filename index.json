@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-31, 17:53:53",
+      "https://lobste.rs/s/zcth7i/emacs_doesn_t_have_plugins"
+    ],
+    [
+      "Emacs Doesn’t Have Plugins",
+      "https://irreal.org/blog/?p=12210"
+    ]
+  ],
+  [
+    [
       "2024-05-31, 17:27:08",
       "https://lobste.rs/s/bieyrr/place_postgres_history"
     ],
@@ -117,16 +127,6 @@
     [
       "DuckDB Doesn’t Need Data To Be a Database",
       "https://www.nikolasgoebel.com/2024/05/28/duckdb-doesnt-need-data.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-30, 21:24:34",
-      "https://lobste.rs/s/zt6wox/evolution_cloud_block_store"
-    ],
-    [
-      "Evolution of Cloud Block Store",
-      "https://asatarin.github.io/talks/2024-05-evolution-of-cloud-block-store/"
     ]
   ],
   [
