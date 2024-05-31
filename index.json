@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-31, 12:43:59",
+      "https://lobste.rs/s/t2spem/originai_build_custom_enterprise"
+    ],
+    [
+      "OriginAI - Build custom enterprise software using GenAI",
+      "https://www.theorigin.ai"
+    ]
+  ],
+  [
+    [
+      "2024-05-31, 12:29:41",
+      "https://lobste.rs/s/ftqola/github_s_missing_tab"
+    ],
+    [
+      "GitHub's Missing Tab",
+      "https://www.hezmatt.org/~mpalmer/blog/2024/05/30/githubs-missing-tab.html"
+    ]
+  ],
+  [
+    [
       "2024-05-31, 10:29:54",
       "https://lobste.rs/s/hrciby/p3292r0r0_provenance_concurrency"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-05-30, 17:06:42",
-      "https://lobste.rs/s/4zbfhz/is_community_backed_open_source_software"
-    ],
-    [
-      "Is Community-Backed Open Source Software Worth the Risk?",
-      "https://thenewstack.io/is-community-backed-open-source-software-worth-the-risk/"
-    ]
-  ],
-  [
-    [
       "2024-05-30, 16:57:02",
       "https://lobste.rs/s/6rem8w/django_enhancement_proposal_14"
     ],
@@ -237,16 +247,6 @@
     [
       "Introducing the new Framework Laptop 13 with Intel Core Ultra Series 1",
       "https://frame.work/fr/fr/blog/introducing-the-new-framework-laptop-13-with-intel-core-ultra-series-1-processors"
-    ]
-  ],
-  [
-    [
-      "2024-05-29, 09:26:58",
-      "https://lobste.rs/s/k5t2uj/database_schema_design_for_google"
-    ],
-    [
-      "Database schema design for Google Calendar: a tutorial",
-      "https://kb.databasedesignbook.com/posts/google-calendar/"
     ]
   ]
 ]
