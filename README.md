@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-31, 15:59:01](https://lobste.rs/s/y0zmfc/planck_expandable_65c02_based_computer) - [Planck expandable 65c02-based computer](https://planck6502.com/)
 * [2024-05-31, 15:16:39](https://lobste.rs/s/ckduqc/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ckduqc/what_are_you_doing_this_weekend)
 * [2024-05-31, 15:05:07](https://lobste.rs/s/ole3jr/25_years_krita) - [25 Years of Krita](https://krita.org/en/posts/2024/krita-25-years/)
 * [2024-05-31, 12:29:41](https://lobste.rs/s/ftqola/github_s_missing_tab) - [GitHub's Missing Tab](https://www.hezmatt.org/~mpalmer/blog/2024/05/30/githubs-missing-tab.html)
@@ -11,7 +12,6 @@
 * [2024-05-30, 23:48:06](https://lobste.rs/s/4urvgq/duckdb_doesn_t_need_data_be_database) - [DuckDB Doesn’t Need Data To Be a Database](https://www.nikolasgoebel.com/2024/05/28/duckdb-doesnt-need-data.html)
 * [2024-05-30, 21:24:34](https://lobste.rs/s/zt6wox/evolution_cloud_block_store) - [Evolution of Cloud Block Store](https://asatarin.github.io/talks/2024-05-evolution-of-cloud-block-store/)
 * [2024-05-30, 21:03:11](https://lobste.rs/s/tpvfzt/recommendations_for_practical) - [Recommendations for practical introductions to PEG parsing?](https://lobste.rs/s/tpvfzt/recommendations_for_practical)
-* [2024-05-30, 20:44:29](https://lobste.rs/s/lpf0ty/find_pbt_properties_by_relating_multiple) - [Find PBT properties by relating multiple functions](https://www.youtube.com/watch?v=CnIlm6-XK6U)
 * [2024-05-30, 19:50:01](https://lobste.rs/s/71szcz/if_multicast_is_answer_what_was_question) - [If Multicast is the Answer – What was the Question?](https://arxiv.org/abs/2211.09029)
 * [2024-05-30, 19:11:49](https://lobste.rs/s/a5exrx/rill_library_for_simpler_concurrency_go) - [Rill - Library for Simpler Concurrency in Go](https://github.com/destel/rill)
 * [2024-05-30, 18:52:08](https://lobste.rs/s/m55u77/pypy_has_been_quietly_working_for_me_for) - [PyPy has been quietly working for me for several years now](https://utcc.utoronto.ca/~cks/space/blog/python/PyPyQuietlyWorking)
