@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-05-31, 18:37:53](https://lobste.rs/s/tdpwpa/how_copy_file_from_30_year_old_laptop) - [How to Copy a File From a 30-year-old Laptop](https://www.unterminated.com/random-fun/how-to-copy-a-file-from-a-30-year-old-laptop)
 * [2024-05-31, 17:54:51](https://lobste.rs/s/thpffd/jank_gets_chunked_sequences_volatiles) - [jank gets chunked sequences, volatiles, atoms, and some big project updates](https://jank-lang.org/blog/2024-05-31-new-projects/)
 * [2024-05-31, 17:53:53](https://lobste.rs/s/zcth7i/emacs_doesn_t_have_plugins) - [Emacs Doesn’t Have Plugins](https://irreal.org/blog/?p=12210)
 * [2024-05-31, 17:27:08](https://lobste.rs/s/bieyrr/place_postgres_history) - [The Place of Postgres in History](https://www.youtube.com/watch?v=BZ73uoS5u7o)
@@ -15,7 +16,6 @@
 * [2024-05-31, 06:08:39](https://lobste.rs/s/efvsru/engineering_for_slow_internet) - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 * [2024-05-30, 23:48:06](https://lobste.rs/s/4urvgq/duckdb_doesn_t_need_data_be_database) - [DuckDB Doesn’t Need Data To Be a Database](https://www.nikolasgoebel.com/2024/05/28/duckdb-doesnt-need-data.html)
 * [2024-05-30, 21:03:11](https://lobste.rs/s/tpvfzt/recommendations_for_practical) - [Recommendations for practical introductions to PEG parsing?](https://lobste.rs/s/tpvfzt/recommendations_for_practical)
-* [2024-05-30, 19:11:49](https://lobste.rs/s/a5exrx/rill_library_for_simpler_concurrency_go) - [Rill - Library for Simpler Concurrency in Go](https://github.com/destel/rill)
 * [2024-05-30, 18:52:08](https://lobste.rs/s/m55u77/pypy_has_been_quietly_working_for_me_for) - [PyPy has been quietly working for me for several years now](https://utcc.utoronto.ca/~cks/space/blog/python/PyPyQuietlyWorking)
 * [2024-05-30, 17:06:46](https://lobste.rs/s/jxulih/zig_s_new_cli_progress_bar_explained) - [Zig's New CLI Progress Bar Explained](https://andrewkelley.me/post/zig-new-cli-progress-bar-explained.html)
 * [2024-05-30, 16:57:02](https://lobste.rs/s/6rem8w/django_enhancement_proposal_14) - [Django Enhancement Proposal 14: Background Workers](https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/)
