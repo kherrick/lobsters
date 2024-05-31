@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-31, 17:27:08",
+      "https://lobste.rs/s/bieyrr/place_postgres_history"
+    ],
+    [
+      "The Place of Postgres in History",
+      "https://www.youtube.com/watch?v=BZ73uoS5u7o"
+    ]
+  ],
+  [
+    [
       "2024-05-31, 16:19:53",
       "https://lobste.rs/s/mjcut6/virtualization_internals_part_1_intro"
     ],
@@ -177,16 +187,6 @@
     [
       "Django Enhancement Proposal 14: Background Workers",
       "https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/"
-    ]
-  ],
-  [
-    [
-      "2024-05-30, 15:16:41",
-      "https://lobste.rs/s/pj5cy6/let_s_optimize_running_15x_faster_with"
-    ],
-    [
-      "Let’s optimize! Running 15× faster with a situation-specific algorithm",
-      "https://pythonspeed.com/articles/lets-optimize-median-local-threshold/"
     ]
   ],
   [
