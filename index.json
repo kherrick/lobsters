@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-31, 06:08:39",
+      "https://lobste.rs/s/efvsru/engineering_for_slow_internet"
+    ],
+    [
+      "Engineering for Slow Internet",
+      "https://brr.fyi/posts/engineering-for-slow-internet"
+    ]
+  ],
+  [
+    [
       "2024-05-31, 05:14:42",
       "https://lobste.rs/s/nbfk81/obtaining_locality_domain"
     ],
@@ -197,16 +207,6 @@
     [
       "Adding a USB Port to the ThinkPad X1 Nano (the Hard Way)",
       "https://jcs.org/2024/05/29/x1usb"
-    ]
-  ],
-  [
-    [
-      "2024-05-29, 19:00:02",
-      "https://lobste.rs/s/sh68p1/why_your_linux_kernel_bug_report_might_be"
-    ],
-    [
-      "Why your Linux kernel bug report might be fruitless",
-      "https://linux-regtracking.leemhuis.info/post/frequent-reasons-why-linux-kernel-bug-reports-are-ignored/"
     ]
   ],
   [
