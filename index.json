@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-31, 19:31:55",
+      "https://lobste.rs/s/vyprdq/nixos_24_05_released"
+    ],
+    [
+      "NixOS 24.05 released",
+      "https://nixos.org/blog/announcements/2024/nixos-2405/"
+    ]
+  ],
+  [
+    [
       "2024-05-31, 18:37:53",
       "https://lobste.rs/s/tdpwpa/how_copy_file_from_30_year_old_laptop"
     ],
@@ -237,16 +247,6 @@
     [
       "Adding a USB Port to the ThinkPad X1 Nano (the Hard Way)",
       "https://jcs.org/2024/05/29/x1usb"
-    ]
-  ],
-  [
-    [
-      "2024-05-29, 18:06:58",
-      "https://lobste.rs/s/kxk0io/introducing_new_framework_laptop_13_with"
-    ],
-    [
-      "Introducing the new Framework Laptop 13 with Intel Core Ultra Series 1",
-      "https://frame.work/fr/fr/blog/introducing-the-new-framework-laptop-13-with-intel-core-ultra-series-1-processors"
     ]
   ]
 ]
