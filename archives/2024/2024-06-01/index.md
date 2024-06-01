@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-01](index.md)
 
+* [2024-06-01, 18:21:12](https://lobste.rs/s/bsaefr/x_is_justifiably_slow) - [X is justifiably slow](https://zeux.io/2024/05/31/justifiably-slow/)
 * [2024-06-01, 17:30:53](https://lobste.rs/s/oznrd7/simple_trackpad_haptic_feedback_on_mac) - [Simple Trackpad Haptic Feedback on Mac](https://github.com/jasonjmcghee/trackpad_haptic)
 * [2024-06-01, 16:44:31](https://lobste.rs/s/ebnqzl/what_autoconf_got_right) - [What autoconf got right](https://leahneukirchen.org/blog/archive/2024/04/what-autoconf-got-right.html)
 * [2024-06-01, 15:32:43](https://lobste.rs/s/cwufst/paged_out_issue_4) - [Paged Out! Issue 4](https://pagedout.institute/?page=issues.php)

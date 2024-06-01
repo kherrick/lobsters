@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-01, 18:21:12](https://lobste.rs/s/bsaefr/x_is_justifiably_slow) - [X is justifiably slow](https://zeux.io/2024/05/31/justifiably-slow/)
 * [2024-06-01, 17:30:53](https://lobste.rs/s/oznrd7/simple_trackpad_haptic_feedback_on_mac) - [Simple Trackpad Haptic Feedback on Mac](https://github.com/jasonjmcghee/trackpad_haptic)
 * [2024-06-01, 16:44:31](https://lobste.rs/s/ebnqzl/what_autoconf_got_right) - [What autoconf got right](https://leahneukirchen.org/blog/archive/2024/04/what-autoconf-got-right.html)
 * [2024-06-01, 15:32:43](https://lobste.rs/s/cwufst/paged_out_issue_4) - [Paged Out! Issue 4](https://pagedout.institute/?page=issues.php)
@@ -21,7 +22,6 @@
 * [2024-05-31, 17:53:53](https://lobste.rs/s/zcth7i/emacs_doesn_t_have_plugins) - [Emacs Doesn’t Have Plugins](https://irreal.org/blog/?p=12210)
 * [2024-05-31, 15:16:39](https://lobste.rs/s/ckduqc/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ckduqc/what_are_you_doing_this_weekend)
 * [2024-05-31, 15:05:07](https://lobste.rs/s/ole3jr/25_years_krita) - [25 Years of Krita](https://krita.org/en/posts/2024/krita-25-years/)
-* [2024-05-31, 10:29:54](https://lobste.rs/s/hrciby/p3292r0r0_provenance_concurrency) - [P3292R0R0: Provenance and Concurrency](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3292r0.html)
 * [2024-05-31, 07:36:39](https://lobste.rs/s/pnvrud/debian_12_kde_plasma_right_gnu_linux) - [Debian 12 KDE Plasma: The right GNU/Linux distribution for professional digital painting in 2024. Reasons and complete installation guide](https://www.davidrevoy.com/article1030/debian-12-kde-plasma-2024-install-guide)
 * [2024-05-31, 06:08:39](https://lobste.rs/s/efvsru/engineering_for_slow_internet) - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 * [2024-05-30, 11:35:38](https://lobste.rs/s/ufuu9w/why_after_6_years_i_m_over_graphql) - [Why, after 6 years, I’m over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
