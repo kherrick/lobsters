@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-01, 11:38:06](https://lobste.rs/s/svmkef/huggingface_hacked_space_secrets_leak) - [HuggingFace hacked - Space secrets leak disclosure](https://huggingface.co/blog/space-secrets-disclosure)
 * [2024-06-01, 09:15:10](https://lobste.rs/s/tjggw4/shellgpt_chat_with_llm_your_terminal_be_it) - [shellgpt: Chat with LLM in your terminal, be it shell generator, story teller, linux-terminal, etc](https://github.com/jiacai2050/shellgpt)
 * [2024-06-01, 08:27:20](https://lobste.rs/s/5jxoac/go_recipes_tools_for_go_projects) - [go-recipes: Tools for Go projects](https://github.com/nikolaydubina/go-recipes)
 * [2024-06-01, 07:55:50](https://lobste.rs/s/6nqlr4/fd_100) - [FD 100](https://susam.net/fd-100.html)
@@ -23,7 +24,6 @@
 * [2024-05-31, 07:36:39](https://lobste.rs/s/pnvrud/debian_12_kde_plasma_right_gnu_linux) - [Debian 12 KDE Plasma: The right GNU/Linux distribution for professional digital painting in 2024. Reasons and complete installation guide](https://www.davidrevoy.com/article1030/debian-12-kde-plasma-2024-install-guide)
 * [2024-05-31, 06:08:39](https://lobste.rs/s/efvsru/engineering_for_slow_internet) - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 * [2024-05-30, 18:52:08](https://lobste.rs/s/m55u77/pypy_has_been_quietly_working_for_me_for) - [PyPy has been quietly working for me for several years now](https://utcc.utoronto.ca/~cks/space/blog/python/PyPyQuietlyWorking)
-* [2024-05-30, 13:40:04](https://lobste.rs/s/kde6vl/lobsters_interview_with_frederik_braun) - [Lobsters interview with Frederik Braun](https://lobste.rs/s/kde6vl/lobsters_interview_with_frederik_braun)
 * [2024-05-30, 11:35:38](https://lobste.rs/s/ufuu9w/why_after_6_years_i_m_over_graphql) - [Why, after 6 years, I’m over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
 
 ## [Archives](archives/index.md)
