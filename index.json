@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-06-01, 02:49:19",
-      "https://lobste.rs/s/fpesk7/float_precision_revisited_nine_digit"
-    ],
-    [
-      "Float Precision Revisited: Nine Digit Float Portability (2013)",
-      "https://randomascii.wordpress.com/2013/02/07/float-precision-revisited-nine-digit-float-portability/"
-    ]
-  ],
-  [
-    [
       "2024-06-01, 01:14:11",
       "https://lobste.rs/s/ii6lxo/why_after_8_years_i_still_like_graphql"
     ],
@@ -197,6 +187,16 @@
     [
       "P3292R0R0: Provenance and Concurrency",
       "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3292r0.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-31, 08:46:37",
+      "https://lobste.rs/s/fgyf3x/things_you_wish_you_didn_t_need_know_about"
+    ],
+    [
+      "Things you wish you didn't need to know about S3",
+      "https://blog.plerion.com/things-you-wish-you-didnt-need-to-know-about-s3/"
     ]
   ],
   [
