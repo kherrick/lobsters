@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-01, 19:48:24](https://lobste.rs/s/ta9k9x/podgenai_gpt_4_based_informational) - [podgenai: GPT-4 based informational single-speaker audiobook/podcast mp3 generator](https://github.com/impredicative/podgenai)
 * [2024-06-01, 18:41:15](https://lobste.rs/s/bwdhsv/opening_hardware_design_process_with) - [Opening the hardware design process with KiCad and Blender](https://antmicro.com/blog/2023/04/open-hardware-portal/)
 * [2024-06-01, 18:21:12](https://lobste.rs/s/bsaefr/x_is_justifiably_slow) - [X is justifiably slow](https://zeux.io/2024/05/31/justifiably-slow/)
 * [2024-06-01, 17:30:53](https://lobste.rs/s/oznrd7/simple_trackpad_haptic_feedback_on_mac) - [Simple Trackpad Haptic Feedback on Mac](https://github.com/jasonjmcghee/trackpad_haptic)
@@ -21,7 +22,6 @@
 * [2024-05-31, 18:37:53](https://lobste.rs/s/tdpwpa/how_copy_file_from_30_year_old_laptop) - [How to Copy a File From a 30-year-old Laptop](https://www.unterminated.com/random-fun/how-to-copy-a-file-from-a-30-year-old-laptop)
 * [2024-05-31, 17:54:51](https://lobste.rs/s/thpffd/jank_gets_chunked_sequences_volatiles) - [jank gets chunked sequences, volatiles, atoms, and some big project updates](https://jank-lang.org/blog/2024-05-31-new-projects/)
 * [2024-05-31, 17:53:53](https://lobste.rs/s/zcth7i/emacs_doesn_t_have_plugins) - [Emacs Doesn’t Have Plugins](https://irreal.org/blog/?p=12210)
-* [2024-05-31, 15:16:39](https://lobste.rs/s/ckduqc/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ckduqc/what_are_you_doing_this_weekend)
 * [2024-05-31, 15:05:07](https://lobste.rs/s/ole3jr/25_years_krita) - [25 Years of Krita](https://krita.org/en/posts/2024/krita-25-years/)
 * [2024-05-31, 07:36:39](https://lobste.rs/s/pnvrud/debian_12_kde_plasma_right_gnu_linux) - [Debian 12 KDE Plasma: The right GNU/Linux distribution for professional digital painting in 2024. Reasons and complete installation guide](https://www.davidrevoy.com/article1030/debian-12-kde-plasma-2024-install-guide)
 * [2024-05-31, 06:08:39](https://lobste.rs/s/efvsru/engineering_for_slow_internet) - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
