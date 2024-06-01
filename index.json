@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-01, 22:25:05",
+      "https://lobste.rs/s/buhht2/model_explorer_ai_model_graph_visualizer"
+    ],
+    [
+      "model-explorer: an AI model graph visualizer and debugger",
+      "https://github.com/google-ai-edge/model-explorer"
+    ]
+  ],
+  [
+    [
       "2024-06-01, 21:29:12",
       "https://lobste.rs/s/koydlb/history_window_systems"
     ],
@@ -127,16 +137,6 @@
     [
       "HuggingFace hacked - Space secrets leak disclosure",
       "https://huggingface.co/blog/space-secrets-disclosure"
-    ]
-  ],
-  [
-    [
-      "2024-06-01, 09:15:10",
-      "https://lobste.rs/s/tjggw4/shellgpt_chat_with_llm_your_terminal_be_it"
-    ],
-    [
-      "shellgpt: Chat with LLM in your terminal, be it shell generator, story teller, linux-terminal, etc",
-      "https://github.com/jiacai2050/shellgpt"
     ]
   ],
   [
