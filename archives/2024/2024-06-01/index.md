@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-01](index.md)
 
+* [2024-06-01, 22:25:05](https://lobste.rs/s/buhht2/model_explorer_ai_model_graph_visualizer) - [model-explorer: an AI model graph visualizer and debugger](https://github.com/google-ai-edge/model-explorer)
 * [2024-06-01, 21:29:12](https://lobste.rs/s/koydlb/history_window_systems) - [History Of Window Systems](https://blog.dshr.org/2021/03/history-of-window-systems.html)
 * [2024-06-01, 20:13:35](https://lobste.rs/s/o8srmp/paged_out_issue_4_just_released) - [Paged Out issue #4 just released](https://pagedout.institute/download/PagedOut_004_beta1.pdf)
 * [2024-06-01, 19:48:24](https://lobste.rs/s/ta9k9x/podgenai_gpt_4_based_informational) - [podgenai: GPT-4 based informational single-speaker audiobook/podcast mp3 generator](https://github.com/impredicative/podgenai)
