@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2024-06-01, 11:38:06",
+      "https://lobste.rs/s/svmkef/huggingface_hacked_space_secrets_leak"
+    ],
+    [
+      "HuggingFace hacked - Space secrets leak disclosure",
+      "https://huggingface.co/blog/space-secrets-disclosure"
+    ]
+  ],
+  [
+    [
       "2024-06-01, 09:15:10",
       "https://lobste.rs/s/tjggw4/shellgpt_chat_with_llm_your_terminal_be_it"
     ],
@@ -157,16 +167,6 @@
     [
       "Emacs Doesn’t Have Plugins",
       "https://irreal.org/blog/?p=12210"
-    ]
-  ],
-  [
-    [
-      "2024-05-31, 16:19:53",
-      "https://lobste.rs/s/mjcut6/virtualization_internals_part_1_intro"
-    ],
-    [
-      "Virtualization Internals Part 1 - Intro to Virtualization",
-      "https://docs.saferwall.com/blog/virtualization-internals-part-1-intro-to-virtualization/"
     ]
   ],
   [
