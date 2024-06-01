@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-01, 03:48:32",
+      "https://lobste.rs/s/pg7rvz/alamosa_tiered_disk_block_cache_for"
+    ],
+    [
+      "Alamosa: A Tiered Disk Block Cache for NetBSD",
+      "https://indico.bsdcan.org/event/1/contributions/11/attachments/2/2/presentation_bsdcan_final.pdf"
+    ]
+  ],
+  [
+    [
       "2024-06-01, 02:49:19",
       "https://lobste.rs/s/fpesk7/float_precision_revisited_nine_digit"
     ],
@@ -197,16 +207,6 @@
     [
       "Engineering for Slow Internet",
       "https://brr.fyi/posts/engineering-for-slow-internet"
-    ]
-  ],
-  [
-    [
-      "2024-05-30, 21:03:11",
-      "https://lobste.rs/s/tpvfzt/recommendations_for_practical"
-    ],
-    [
-      "Recommendations for practical introductions to PEG parsing?",
-      "https://lobste.rs/s/tpvfzt/recommendations_for_practical"
     ]
   ],
   [
