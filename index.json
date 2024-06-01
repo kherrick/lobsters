@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-01, 01:14:11",
+      "https://lobste.rs/s/ii6lxo/why_after_8_years_i_still_like_graphql"
+    ],
+    [
+      "Why, after 8 years, I still like GraphQL sometimes in the right context",
+      "https://www.magiroux.com/eight-years-of-graphql"
+    ]
+  ],
+  [
+    [
+      "2024-06-01, 01:00:34",
+      "https://lobste.rs/s/m48viy/refusal_llms_is_mediated_by_single"
+    ],
+    [
+      "Refusal in LLMs is mediated by a single direction",
+      "https://www.lesswrong.com/posts/jGuXSZgv6qfdhMCuJ/refusal-in-llms-is-mediated-by-a-single-direction"
+    ]
+  ],
+  [
+    [
       "2024-06-01, 00:05:55",
       "https://lobste.rs/s/uofdus/reproducing_gpt_2_124m_llm_c_90_minutes_for"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-05-31, 07:12:45",
-      "https://lobste.rs/s/jfg3ma/quickly_checking_whether_string_needs"
-    ],
-    [
-      "Quickly checking whether a string needs escaping",
-      "https://lemire.me/blog/2024/05/31/quickly-checking-whether-a-string-needs-escaping/"
-    ]
-  ],
-  [
-    [
       "2024-05-31, 06:08:39",
       "https://lobste.rs/s/efvsru/engineering_for_slow_internet"
     ],
@@ -217,16 +227,6 @@
     [
       "Zig's New CLI Progress Bar Explained",
       "https://andrewkelley.me/post/zig-new-cli-progress-bar-explained.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-30, 16:57:02",
-      "https://lobste.rs/s/6rem8w/django_enhancement_proposal_14"
-    ],
-    [
-      "Django Enhancement Proposal 14: Background Workers",
-      "https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/"
     ]
   ],
   [
