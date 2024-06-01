@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-01](index.md)
 
+* [2024-06-01, 08:27:20](https://lobste.rs/s/5jxoac/go_recipes_tools_for_go_projects) - [go-recipes: Tools for Go projects](https://github.com/nikolaydubina/go-recipes)
 * [2024-06-01, 07:55:50](https://lobste.rs/s/6nqlr4/fd_100) - [FD 100](https://susam.net/fd-100.html)
 * [2024-06-01, 03:48:32](https://lobste.rs/s/pg7rvz/alamosa_tiered_disk_block_cache_for) - [Alamosa: A Tiered Disk Block Cache for NetBSD](https://indico.bsdcan.org/event/1/contributions/11/attachments/2/2/presentation_bsdcan_final.pdf)
 * [2024-06-01, 02:49:19](https://lobste.rs/s/fpesk7/float_precision_revisited_nine_digit) - [Float Precision Revisited: Nine Digit Float Portability (2013)](https://randomascii.wordpress.com/2013/02/07/float-precision-revisited-nine-digit-float-portability/)

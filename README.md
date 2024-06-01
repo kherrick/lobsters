@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-01, 08:27:20](https://lobste.rs/s/5jxoac/go_recipes_tools_for_go_projects) - [go-recipes: Tools for Go projects](https://github.com/nikolaydubina/go-recipes)
 * [2024-06-01, 07:55:50](https://lobste.rs/s/6nqlr4/fd_100) - [FD 100](https://susam.net/fd-100.html)
 * [2024-06-01, 03:48:32](https://lobste.rs/s/pg7rvz/alamosa_tiered_disk_block_cache_for) - [Alamosa: A Tiered Disk Block Cache for NetBSD](https://indico.bsdcan.org/event/1/contributions/11/attachments/2/2/presentation_bsdcan_final.pdf)
 * [2024-06-01, 02:49:19](https://lobste.rs/s/fpesk7/float_precision_revisited_nine_digit) - [Float Precision Revisited: Nine Digit Float Portability (2013)](https://randomascii.wordpress.com/2013/02/07/float-precision-revisited-nine-digit-float-portability/)
@@ -7,7 +8,6 @@
 * [2024-06-01, 01:00:34](https://lobste.rs/s/m48viy/refusal_llms_is_mediated_by_single) - [Refusal in LLMs is mediated by a single direction](https://www.lesswrong.com/posts/jGuXSZgv6qfdhMCuJ/refusal-in-llms-is-mediated-by-a-single-direction)
 * [2024-06-01, 00:05:55](https://lobste.rs/s/uofdus/reproducing_gpt_2_124m_llm_c_90_minutes_for) - [Reproducing GPT-2 (124M) in llm.c in 90 minutes for $20](https://github.com/karpathy/llm.c/discussions/481)
 * [2024-05-31, 23:48:20](https://lobste.rs/s/03ssxd/sentinel_errors_errors_is_slow_your_code) - [Sentinel errors and errors.Is() slow your code down by 3000%](https://www.dolthub.com/blog/2024-05-31-benchmarking-go-error-handling/)
-* [2024-05-31, 22:23:12](https://lobste.rs/s/nbbn0y/ezno_quest_continues) - [Ezno: The quest continues](https://kaleidawave.github.io/posts/the-quest-continues/)
 * [2024-05-31, 21:51:45](https://lobste.rs/s/rfit72/recall_stealing_everything_you_ve_ever) - [Recall: Stealing everything you’ve ever typed or viewed on your own Windows PC is now possible](https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e)
 * [2024-05-31, 19:31:55](https://lobste.rs/s/vyprdq/nixos_24_05_released) - [NixOS 24.05 released](https://nixos.org/blog/announcements/2024/nixos-2405/)
 * [2024-05-31, 18:37:53](https://lobste.rs/s/tdpwpa/how_copy_file_from_30_year_old_laptop) - [How to Copy a File From a 30-year-old Laptop](https://www.unterminated.com/random-fun/how-to-copy-a-file-from-a-30-year-old-laptop)
