@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-01, 16:44:31](https://lobste.rs/s/ebnqzl/what_autoconf_got_right) - [What autoconf got right](https://leahneukirchen.org/blog/archive/2024/04/what-autoconf-got-right.html)
 * [2024-06-01, 15:32:43](https://lobste.rs/s/cwufst/paged_out_issue_4) - [Paged Out! Issue 4](https://pagedout.institute/?page=issues.php)
 * [2024-06-01, 15:20:18](https://lobste.rs/s/porv2k/meet_rvpc_world_lowest_cost_open_source) - [Meet RVPC the world lowest cost Open Source Hardware All-in-one educational RISC-V computer with VGA and PS2 keyboard](https://olimex.wordpress.com/2024/05/15/meet-rvpc-the-world-lowest-cost-open-source-hardware-all-in-one-educational-risc-v-computer-with-vga-and-ps2-keyboard-which-will-be-available-for-diy-soldering-workshop-on-open-fest-in-sofia-this-year/)
 * [2024-06-01, 14:09:59](https://lobste.rs/s/2oibbk/shakti) - [shakti](https://shakti.com/k)
@@ -17,7 +18,6 @@
 * [2024-05-31, 18:37:53](https://lobste.rs/s/tdpwpa/how_copy_file_from_30_year_old_laptop) - [How to Copy a File From a 30-year-old Laptop](https://www.unterminated.com/random-fun/how-to-copy-a-file-from-a-30-year-old-laptop)
 * [2024-05-31, 17:54:51](https://lobste.rs/s/thpffd/jank_gets_chunked_sequences_volatiles) - [jank gets chunked sequences, volatiles, atoms, and some big project updates](https://jank-lang.org/blog/2024-05-31-new-projects/)
 * [2024-05-31, 17:53:53](https://lobste.rs/s/zcth7i/emacs_doesn_t_have_plugins) - [Emacs Doesn’t Have Plugins](https://irreal.org/blog/?p=12210)
-* [2024-05-31, 15:59:01](https://lobste.rs/s/y0zmfc/planck_expandable_65c02_based_computer) - [Planck expandable 65c02-based computer](https://planck6502.com/)
 * [2024-05-31, 15:16:39](https://lobste.rs/s/ckduqc/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ckduqc/what_are_you_doing_this_weekend)
 * [2024-05-31, 15:05:07](https://lobste.rs/s/ole3jr/25_years_krita) - [25 Years of Krita](https://krita.org/en/posts/2024/krita-25-years/)
 * [2024-05-31, 12:29:41](https://lobste.rs/s/ftqola/github_s_missing_tab) - [GitHub's Missing Tab](https://www.hezmatt.org/~mpalmer/blog/2024/05/30/githubs-missing-tab.html)
