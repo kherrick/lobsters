@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-01](index.md)
 
+* [2024-06-01, 18:41:15](https://lobste.rs/s/bwdhsv/opening_hardware_design_process_with) - [Opening the hardware design process with KiCad and Blender](https://antmicro.com/blog/2023/04/open-hardware-portal/)
 * [2024-06-01, 18:41:15](https://lobste.rs/s/bwdhsv/antmicro_hardware_portal) - [Antmicro Hardware Portal](https://openhardware.antmicro.com/)
 * [2024-06-01, 18:21:12](https://lobste.rs/s/bsaefr/x_is_justifiably_slow) - [X is justifiably slow](https://zeux.io/2024/05/31/justifiably-slow/)
 * [2024-06-01, 17:30:53](https://lobste.rs/s/oznrd7/simple_trackpad_haptic_feedback_on_mac) - [Simple Trackpad Haptic Feedback on Mac](https://github.com/jasonjmcghee/trackpad_haptic)
