@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-01, 18:41:15",
+      "https://lobste.rs/s/bwdhsv/antmicro_hardware_portal"
+    ],
+    [
+      "Antmicro Hardware Portal",
+      "https://openhardware.antmicro.com/"
+    ]
+  ],
+  [
+    [
       "2024-06-01, 18:21:12",
       "https://lobste.rs/s/bsaefr/x_is_justifiably_slow"
     ],
@@ -237,16 +247,6 @@
     [
       "Engineering for Slow Internet",
       "https://brr.fyi/posts/engineering-for-slow-internet"
-    ]
-  ],
-  [
-    [
-      "2024-05-30, 11:35:38",
-      "https://lobste.rs/s/ufuu9w/why_after_6_years_i_m_over_graphql"
-    ],
-    [
-      "Why, after 6 years, I’m over GraphQL",
-      "https://bessey.dev/blog/2024/05/24/why-im-over-graphql/"
     ]
   ]
 ]
