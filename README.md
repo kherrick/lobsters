@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-01, 09:15:10](https://lobste.rs/s/tjggw4/shellgpt_chat_with_llm_your_terminal_be_it) - [shellgpt: Chat with LLM in your terminal, be it shell generator, story teller, linux-terminal, etc](https://github.com/jiacai2050/shellgpt)
 * [2024-06-01, 08:27:20](https://lobste.rs/s/5jxoac/go_recipes_tools_for_go_projects) - [go-recipes: Tools for Go projects](https://github.com/nikolaydubina/go-recipes)
 * [2024-06-01, 07:55:50](https://lobste.rs/s/6nqlr4/fd_100) - [FD 100](https://susam.net/fd-100.html)
 * [2024-06-01, 03:48:32](https://lobste.rs/s/pg7rvz/alamosa_tiered_disk_block_cache_for) - [Alamosa: A Tiered Disk Block Cache for NetBSD](https://indico.bsdcan.org/event/1/contributions/11/attachments/2/2/presentation_bsdcan_final.pdf)
@@ -19,7 +20,6 @@
 * [2024-05-31, 15:05:07](https://lobste.rs/s/ole3jr/25_years_krita) - [25 Years of Krita](https://krita.org/en/posts/2024/krita-25-years/)
 * [2024-05-31, 12:29:41](https://lobste.rs/s/ftqola/github_s_missing_tab) - [GitHub's Missing Tab](https://www.hezmatt.org/~mpalmer/blog/2024/05/30/githubs-missing-tab.html)
 * [2024-05-31, 10:29:54](https://lobste.rs/s/hrciby/p3292r0r0_provenance_concurrency) - [P3292R0R0: Provenance and Concurrency](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3292r0.html)
-* [2024-05-31, 08:46:37](https://lobste.rs/s/fgyf3x/things_you_wish_you_didn_t_need_know_about) - [Things you wish you didn't need to know about S3](https://blog.plerion.com/things-you-wish-you-didnt-need-to-know-about-s3/)
 * [2024-05-31, 07:36:39](https://lobste.rs/s/pnvrud/debian_12_kde_plasma_right_gnu_linux) - [Debian 12 KDE Plasma: The right GNU/Linux distribution for professional digital painting in 2024. Reasons and complete installation guide](https://www.davidrevoy.com/article1030/debian-12-kde-plasma-2024-install-guide)
 * [2024-05-31, 06:08:39](https://lobste.rs/s/efvsru/engineering_for_slow_internet) - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 * [2024-05-30, 18:52:08](https://lobste.rs/s/m55u77/pypy_has_been_quietly_working_for_me_for) - [PyPy has been quietly working for me for several years now](https://utcc.utoronto.ca/~cks/space/blog/python/PyPyQuietlyWorking)
