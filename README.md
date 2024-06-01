@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-01, 21:29:12](https://lobste.rs/s/koydlb/history_window_systems) - [History Of Window Systems](https://blog.dshr.org/2021/03/history-of-window-systems.html)
 * [2024-06-01, 19:48:24](https://lobste.rs/s/ta9k9x/podgenai_gpt_4_based_informational) - [podgenai: GPT-4 based informational single-speaker audiobook/podcast mp3 generator](https://github.com/impredicative/podgenai)
 * [2024-06-01, 18:41:15](https://lobste.rs/s/bwdhsv/opening_hardware_design_process_with) - [Opening the hardware design process with KiCad and Blender](https://antmicro.com/blog/2023/04/open-hardware-portal/)
 * [2024-06-01, 18:21:12](https://lobste.rs/s/bsaefr/x_is_justifiably_slow) - [X is justifiably slow](https://zeux.io/2024/05/31/justifiably-slow/)
@@ -16,7 +17,6 @@
 * [2024-06-01, 08:27:20](https://lobste.rs/s/5jxoac/go_recipes_tools_for_go_projects) - [go-recipes: Tools for Go projects](https://github.com/nikolaydubina/go-recipes)
 * [2024-06-01, 07:55:50](https://lobste.rs/s/6nqlr4/fd_100) - [FD 100](https://susam.net/fd-100.html)
 * [2024-06-01, 01:00:34](https://lobste.rs/s/m48viy/refusal_llms_is_mediated_by_single) - [Refusal in LLMs is mediated by a single direction](https://www.lesswrong.com/posts/jGuXSZgv6qfdhMCuJ/refusal-in-llms-is-mediated-by-a-single-direction)
-* [2024-05-31, 23:48:20](https://lobste.rs/s/03ssxd/sentinel_errors_errors_is_slow_your_code) - [Sentinel errors and errors.Is() slow your code down by 500%](https://www.dolthub.com/blog/2024-05-31-benchmarking-go-error-handling/)
 * [2024-05-31, 21:51:45](https://lobste.rs/s/rfit72/recall_stealing_everything_you_ve_ever) - [Recall: Stealing everything you’ve ever typed or viewed on your own Windows PC is now possible](https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e)
 * [2024-05-31, 19:31:55](https://lobste.rs/s/vyprdq/nixos_24_05_released) - [NixOS 24.05 released](https://nixos.org/blog/announcements/2024/nixos-2405/)
 * [2024-05-31, 18:37:53](https://lobste.rs/s/tdpwpa/how_copy_file_from_30_year_old_laptop) - [How to Copy a File From a 30-year-old Laptop](https://www.unterminated.com/random-fun/how-to-copy-a-file-from-a-30-year-old-laptop)
