@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-01](index.md)
 
+* [2024-06-01, 20:13:35](https://lobste.rs/s/o8srmp/paged_out_issue_4_just_released) - [Paged Out issue #4 just released](https://pagedout.institute/download/PagedOut_004_beta1.pdf)
 * [2024-06-01, 19:48:24](https://lobste.rs/s/ta9k9x/podgenai_gpt_4_based_informational) - [podgenai: GPT-4 based informational single-speaker audiobook/podcast mp3 generator](https://github.com/impredicative/podgenai)
 * [2024-06-01, 18:41:15](https://lobste.rs/s/bwdhsv/opening_hardware_design_process_with) - [Opening the hardware design process with KiCad and Blender](https://antmicro.com/blog/2023/04/open-hardware-portal/)
 * [2024-06-01, 18:41:15](https://lobste.rs/s/bwdhsv/antmicro_hardware_portal) - [Antmicro Hardware Portal](https://openhardware.antmicro.com/)
