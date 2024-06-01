@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-01, 00:05:55](https://lobste.rs/s/uofdus/reproducing_gpt_2_124m_llm_c_90_minutes_for) - [Reproducing GPT-2 (124M) in llm.c in 90 minutes for $20](https://github.com/karpathy/llm.c/discussions/481)
 * [2024-05-31, 23:48:20](https://lobste.rs/s/03ssxd/sentinel_errors_errors_is_slow_your_code) - [Sentinel errors and errors.Is() slow your code down by 3000%](https://www.dolthub.com/blog/2024-05-31-benchmarking-go-error-handling/)
 * [2024-05-31, 22:23:12](https://lobste.rs/s/nbbn0y/ezno_quest_continues) - [Ezno: The quest continues](https://kaleidawave.github.io/posts/the-quest-continues/)
 * [2024-05-31, 21:51:45](https://lobste.rs/s/rfit72/recall_stealing_everything_you_ve_ever) - [Recall: Stealing everything you’ve ever typed or viewed on your own Windows PC is now possible](https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e)
@@ -7,7 +8,6 @@
 * [2024-05-31, 18:37:53](https://lobste.rs/s/tdpwpa/how_copy_file_from_30_year_old_laptop) - [How to Copy a File From a 30-year-old Laptop](https://www.unterminated.com/random-fun/how-to-copy-a-file-from-a-30-year-old-laptop)
 * [2024-05-31, 17:54:51](https://lobste.rs/s/thpffd/jank_gets_chunked_sequences_volatiles) - [jank gets chunked sequences, volatiles, atoms, and some big project updates](https://jank-lang.org/blog/2024-05-31-new-projects/)
 * [2024-05-31, 17:53:53](https://lobste.rs/s/zcth7i/emacs_doesn_t_have_plugins) - [Emacs Doesn’t Have Plugins](https://irreal.org/blog/?p=12210)
-* [2024-05-31, 17:27:08](https://lobste.rs/s/bieyrr/place_postgres_history) - [The Place of Postgres in History](https://www.youtube.com/watch?v=BZ73uoS5u7o)
 * [2024-05-31, 16:19:53](https://lobste.rs/s/mjcut6/virtualization_internals_part_1_intro) - [Virtualization Internals Part 1 - Intro to Virtualization](https://docs.saferwall.com/blog/virtualization-internals-part-1-intro-to-virtualization/)
 * [2024-05-31, 15:59:01](https://lobste.rs/s/y0zmfc/planck_expandable_65c02_based_computer) - [Planck expandable 65c02-based computer](https://planck6502.com/)
 * [2024-05-31, 15:16:39](https://lobste.rs/s/ckduqc/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ckduqc/what_are_you_doing_this_weekend)
