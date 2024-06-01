@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-01, 21:29:12",
+      "https://lobste.rs/s/koydlb/history_window_systems"
+    ],
+    [
+      "History Of Window Systems",
+      "https://blog.dshr.org/2021/03/history-of-window-systems.html"
+    ]
+  ],
+  [
+    [
       "2024-06-01, 19:48:24",
       "https://lobste.rs/s/ta9k9x/podgenai_gpt_4_based_informational"
     ],
@@ -157,16 +167,6 @@
     [
       "Refusal in LLMs is mediated by a single direction",
       "https://www.lesswrong.com/posts/jGuXSZgv6qfdhMCuJ/refusal-in-llms-is-mediated-by-a-single-direction"
-    ]
-  ],
-  [
-    [
-      "2024-05-31, 23:48:20",
-      "https://lobste.rs/s/03ssxd/sentinel_errors_errors_is_slow_your_code"
-    ],
-    [
-      "Sentinel errors and errors.Is() slow your code down by 500%",
-      "https://www.dolthub.com/blog/2024-05-31-benchmarking-go-error-handling/"
     ]
   ],
   [
