@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-01](index.md)
 
+* [2024-06-01, 03:48:32](https://lobste.rs/s/pg7rvz/alamosa_tiered_disk_block_cache_for) - [Alamosa: A Tiered Disk Block Cache for NetBSD](https://indico.bsdcan.org/event/1/contributions/11/attachments/2/2/presentation_bsdcan_final.pdf)
 * [2024-06-01, 02:49:19](https://lobste.rs/s/fpesk7/float_precision_revisited_nine_digit) - [Float Precision Revisited: Nine Digit Float Portability (2013)](https://randomascii.wordpress.com/2013/02/07/float-precision-revisited-nine-digit-float-portability/)
 * [2024-06-01, 01:14:11](https://lobste.rs/s/ii6lxo/why_after_8_years_i_still_like_graphql) - [Why, after 8 years, I still like GraphQL sometimes in the right context](https://www.magiroux.com/eight-years-of-graphql)
 * [2024-06-01, 01:00:34](https://lobste.rs/s/m48viy/refusal_llms_is_mediated_by_single) - [Refusal in LLMs is mediated by a single direction](https://www.lesswrong.com/posts/jGuXSZgv6qfdhMCuJ/refusal-in-llms-is-mediated-by-a-single-direction)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-01, 03:48:32](https://lobste.rs/s/pg7rvz/alamosa_tiered_disk_block_cache_for) - [Alamosa: A Tiered Disk Block Cache for NetBSD](https://indico.bsdcan.org/event/1/contributions/11/attachments/2/2/presentation_bsdcan_final.pdf)
 * [2024-06-01, 02:49:19](https://lobste.rs/s/fpesk7/float_precision_revisited_nine_digit) - [Float Precision Revisited: Nine Digit Float Portability (2013)](https://randomascii.wordpress.com/2013/02/07/float-precision-revisited-nine-digit-float-portability/)
 * [2024-06-01, 01:14:11](https://lobste.rs/s/ii6lxo/why_after_8_years_i_still_like_graphql) - [Why, after 8 years, I still like GraphQL sometimes in the right context](https://www.magiroux.com/eight-years-of-graphql)
 * [2024-06-01, 01:00:34](https://lobste.rs/s/m48viy/refusal_llms_is_mediated_by_single) - [Refusal in LLMs is mediated by a single direction](https://www.lesswrong.com/posts/jGuXSZgv6qfdhMCuJ/refusal-in-llms-is-mediated-by-a-single-direction)
@@ -20,7 +21,6 @@
 * [2024-05-31, 08:46:37](https://lobste.rs/s/fgyf3x/things_you_wish_you_didn_t_need_know_about) - [Things you wish you didn't need to know about S3](https://blog.plerion.com/things-you-wish-you-didnt-need-to-know-about-s3/)
 * [2024-05-31, 07:36:39](https://lobste.rs/s/pnvrud/debian_12_kde_plasma_right_gnu_linux) - [Debian 12 KDE Plasma: The right GNU/Linux distribution for professional digital painting in 2024. Reasons and complete installation guide](https://www.davidrevoy.com/article1030/debian-12-kde-plasma-2024-install-guide)
 * [2024-05-31, 06:08:39](https://lobste.rs/s/efvsru/engineering_for_slow_internet) - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
-* [2024-05-30, 21:03:11](https://lobste.rs/s/tpvfzt/recommendations_for_practical) - [Recommendations for practical introductions to PEG parsing?](https://lobste.rs/s/tpvfzt/recommendations_for_practical)
 * [2024-05-30, 18:52:08](https://lobste.rs/s/m55u77/pypy_has_been_quietly_working_for_me_for) - [PyPy has been quietly working for me for several years now](https://utcc.utoronto.ca/~cks/space/blog/python/PyPyQuietlyWorking)
 * [2024-05-30, 17:06:46](https://lobste.rs/s/jxulih/zig_s_new_cli_progress_bar_explained) - [Zig's New CLI Progress Bar Explained](https://andrewkelley.me/post/zig-new-cli-progress-bar-explained.html)
 * [2024-05-30, 13:40:04](https://lobste.rs/s/kde6vl/lobsters_interview_with_frederik_braun) - [Lobsters interview with Frederik Braun](https://lobste.rs/s/kde6vl/lobsters_interview_with_frederik_braun)
