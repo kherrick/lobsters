@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-01](index.md)
 
+* [2024-06-01, 15:32:43](https://lobste.rs/s/cwufst/paged_out_issue_4) - [Paged Out! Issue 4](https://pagedout.institute/?page=issues.php)
 * [2024-06-01, 15:20:18](https://lobste.rs/s/porv2k/meet_rvpc_world_lowest_cost_open_source) - [Meet RVPC the world lowest cost Open Source Hardware All-in-one educational RISC-V computer with VGA and PS2 keyboard](https://olimex.wordpress.com/2024/05/15/meet-rvpc-the-world-lowest-cost-open-source-hardware-all-in-one-educational-risc-v-computer-with-vga-and-ps2-keyboard-which-will-be-available-for-diy-soldering-workshop-on-open-fest-in-sofia-this-year/)
 * [2024-06-01, 14:09:59](https://lobste.rs/s/2oibbk/shakti) - [shakti](https://shakti.com/k)
 * [2024-06-01, 14:09:38](https://lobste.rs/s/qhcj9v/root_analyzing_petabytes_data) - [ROOT: analyzing petabytes of data, scientifically](https://root.cern/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-01, 15:32:43](https://lobste.rs/s/cwufst/paged_out_issue_4) - [Paged Out! Issue 4](https://pagedout.institute/?page=issues.php)
 * [2024-06-01, 15:20:18](https://lobste.rs/s/porv2k/meet_rvpc_world_lowest_cost_open_source) - [Meet RVPC the world lowest cost Open Source Hardware All-in-one educational RISC-V computer with VGA and PS2 keyboard](https://olimex.wordpress.com/2024/05/15/meet-rvpc-the-world-lowest-cost-open-source-hardware-all-in-one-educational-risc-v-computer-with-vga-and-ps2-keyboard-which-will-be-available-for-diy-soldering-workshop-on-open-fest-in-sofia-this-year/)
 * [2024-06-01, 14:09:59](https://lobste.rs/s/2oibbk/shakti) - [shakti](https://shakti.com/k)
 * [2024-06-01, 14:09:38](https://lobste.rs/s/qhcj9v/root_analyzing_petabytes_data) - [ROOT: analyzing petabytes of data, scientifically](https://root.cern/)
@@ -21,7 +22,6 @@
 * [2024-05-31, 15:05:07](https://lobste.rs/s/ole3jr/25_years_krita) - [25 Years of Krita](https://krita.org/en/posts/2024/krita-25-years/)
 * [2024-05-31, 12:29:41](https://lobste.rs/s/ftqola/github_s_missing_tab) - [GitHub's Missing Tab](https://www.hezmatt.org/~mpalmer/blog/2024/05/30/githubs-missing-tab.html)
 * [2024-05-31, 10:29:54](https://lobste.rs/s/hrciby/p3292r0r0_provenance_concurrency) - [P3292R0R0: Provenance and Concurrency](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3292r0.html)
-* [2024-05-31, 08:46:37](https://lobste.rs/s/fgyf3x/things_you_wish_you_didn_t_need_know_about) - [Things you wish you didn't need to know about S3](https://blog.plerion.com/things-you-wish-you-didnt-need-to-know-about-s3/)
 * [2024-05-31, 07:36:39](https://lobste.rs/s/pnvrud/debian_12_kde_plasma_right_gnu_linux) - [Debian 12 KDE Plasma: The right GNU/Linux distribution for professional digital painting in 2024. Reasons and complete installation guide](https://www.davidrevoy.com/article1030/debian-12-kde-plasma-2024-install-guide)
 * [2024-05-31, 06:08:39](https://lobste.rs/s/efvsru/engineering_for_slow_internet) - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 * [2024-05-30, 11:35:38](https://lobste.rs/s/ufuu9w/why_after_6_years_i_m_over_graphql) - [Why, after 6 years, I’m over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
