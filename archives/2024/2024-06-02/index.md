@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-02](index.md)
 
+* [2024-06-02, 23:51:14](https://lobste.rs/s/tjqqe6/here_comes_muybridge_camera_moment_for) - [Here comes the Muybridge camera moment but for text. Photoshop too](https://interconnected.org/home/2024/05/31/camera)
 * [2024-06-02, 22:00:13](https://lobste.rs/s/azpq3v/animated_roller_coaster_excel) - [Animated Roller Coaster in Excel](https://excelunusual.com/coaster/)
 * [2024-06-02, 21:18:36](https://lobste.rs/s/nzvoww/rust_is_not_about_memory_safety) - [rust is not about memory safety](https://o-santi.github.io/blog/rust-is-not-about-memory-safety/)
 * [2024-06-02, 20:56:35](https://lobste.rs/s/lailai/rfc_7807_problem_details_for_http_apis) - [RFC 7807: Problem Details for HTTP APIs](https://datatracker.ietf.org/doc/html/rfc7807)
