@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-02, 07:28:47",
+      "https://lobste.rs/s/hjub1e/don_t_use_include_what_you_use"
+    ],
+    [
+      "Don't Use include-what-you-use",
+      "https://danra.prose.sh/dont_use_iwyu"
+    ]
+  ],
+  [
+    [
       "2024-06-02, 06:44:39",
       "https://lobste.rs/s/hxhqck/what_do_i_think_about_lua_after_shipping"
     ],
@@ -157,16 +167,6 @@
     [
       "FD 100",
       "https://susam.net/fd-100.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-01, 01:00:34",
-      "https://lobste.rs/s/m48viy/refusal_llms_is_mediated_by_single"
-    ],
-    [
-      "Refusal in LLMs is mediated by a single direction",
-      "https://www.lesswrong.com/posts/jGuXSZgv6qfdhMCuJ/refusal-in-llms-is-mediated-by-a-single-direction"
     ]
   ],
   [
