@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-02, 18:30:41](https://lobste.rs/s/okpsrg/home_cooked_software_barefoot) - [Home-Cooked Software and Barefoot Developers](https://maggieappleton.com/home-cooked-software)
 * [2024-06-02, 17:43:05](https://lobste.rs/s/gwdipw/upgrading_my_chumby_8_kernel_part_10_rtc) - [Upgrading my Chumby 8 kernel part 10: RTC](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-10-rtc/)
 * [2024-06-02, 17:37:22](https://lobste.rs/s/s6ozc3/big_tech_s_role_enabling_link_fraud) - [Big Tech’s role in enabling link fraud](https://eligrey.com/blog/link-fraud/)
 * [2024-06-02, 16:38:19](https://lobste.rs/s/edeq9h/brief_look_at_3ds_cartridge_protocol) - [A Brief Look at the 3DS Cartridge Protocol](https://blog.winter-software.com/2024/06/02/ctr-cart-protocol)
@@ -15,7 +16,6 @@
 * [2024-06-02, 06:44:39](https://lobste.rs/s/hxhqck/what_do_i_think_about_lua_after_shipping) - [What do I think about Lua after shipping a project with 60,000 lines of code?](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733)
 * [2024-06-02, 00:05:37](https://lobste.rs/s/zbq1pi/css_written_pure_go) - [CSS written in Pure Go](https://github.com/AccentDesign/gcss)
 * [2024-06-01, 21:29:12](https://lobste.rs/s/koydlb/history_window_systems) - [History Of Window Systems](https://blog.dshr.org/2021/03/history-of-window-systems.html)
-* [2024-06-01, 18:41:15](https://lobste.rs/s/bwdhsv/opening_hardware_design_process_with) - [Opening the hardware design process with KiCad and Blender](https://antmicro.com/blog/2023/04/open-hardware-portal/)
 * [2024-06-01, 18:21:12](https://lobste.rs/s/bsaefr/x_is_justifiably_slow) - [X is justifiably slow](https://zeux.io/2024/05/31/justifiably-slow/)
 * [2024-06-01, 17:30:53](https://lobste.rs/s/oznrd7/simple_trackpad_haptic_feedback_on_mac) - [Simple Trackpad Haptic Feedback on Mac](https://github.com/jasonjmcghee/trackpad_haptic)
 * [2024-06-01, 16:44:31](https://lobste.rs/s/ebnqzl/what_autoconf_got_right) - [What autoconf got right](https://leahneukirchen.org/blog/archive/2024/04/what-autoconf-got-right.html)
