@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-02, 13:36:34](https://lobste.rs/s/y1oyxc/automatic_dark_mode_with_openbsd_dwm) - [Automatic dark mode with OpenBSD and dwm](https://plexwave.org/blog/auto-dark-mode)
 * [2024-06-02, 12:41:34](https://lobste.rs/s/uag50x/borrow_checker_within) - [The borrow checker within](https://smallcultfollowing.com/babysteps/blog/2024/06/02/the-borrow-checker-within/)
 * [2024-06-02, 08:30:23](https://lobste.rs/s/6rcd3s/rust_dynamically_sized_thin_pointers) - [Rust and dynamically-sized thin pointers](https://john-millikin.com/rust-and-dynamically-sized-thin-pointers)
 * [2024-06-02, 08:03:04](https://lobste.rs/s/eknebc/cppcast_safe_borrow_checked_c) - [CppCast: Safe, Borrow-Checked, C++](https://cppcast.com/safe-borrow-checked-cpp/)
@@ -17,7 +18,6 @@
 * [2024-06-01, 14:09:38](https://lobste.rs/s/qhcj9v/root_analyzing_petabytes_data) - [ROOT: analyzing petabytes of data, scientifically](https://root.cern/)
 * [2024-06-01, 13:22:58](https://lobste.rs/s/ramlpm/qt_property_macro_q_property_with_95_less) - [Qt Property Macro (Q_PROPERTY with 95% less code)](https://raymii.org/s/blog/Qt_Property_Macro_Q_PROPERTY_with_95_percent_less_code.html)
 * [2024-06-01, 11:41:43](https://lobste.rs/s/03whzl/why_is_snapshot_isolation_not_enough) - [Why is Snapshot Isolation not enough?](https://concurrencyfreaks.blogspot.com/2023/12/why-is-snapshot-isolation-not-enough.html)
-* [2024-06-01, 09:15:10](https://lobste.rs/s/tjggw4/shellgpt_chat_with_llm_your_terminal_be_it) - [shellgpt: Chat with LLM in your terminal, be it shell generator, story teller, linux-terminal, etc](https://github.com/jiacai2050/shellgpt)
 * [2024-06-01, 07:55:50](https://lobste.rs/s/6nqlr4/fd_100) - [FD 100](https://susam.net/fd-100.html)
 * [2024-05-31, 21:51:45](https://lobste.rs/s/rfit72/recall_stealing_everything_you_ve_ever) - [Recall: Stealing everything you’ve ever typed or viewed on your own Windows PC is now possible](https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e)
 * [2024-05-31, 19:31:55](https://lobste.rs/s/vyprdq/nixos_24_05_released) - [NixOS 24.05 released](https://nixos.org/blog/announcements/2024/nixos-2405/)
