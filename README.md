@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-02, 06:44:39](https://lobste.rs/s/hxhqck/what_do_i_think_about_lua_after_shipping) - [What do I think about Lua after shipping a project with 60,000 lines of code?](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733)
 * [2024-06-02, 00:05:37](https://lobste.rs/s/zbq1pi/css_written_pure_go) - [CSS written in Pure Go](https://github.com/AccentDesign/gcss)
 * [2024-06-01, 21:29:12](https://lobste.rs/s/koydlb/history_window_systems) - [History Of Window Systems](https://blog.dshr.org/2021/03/history-of-window-systems.html)
 * [2024-06-01, 19:48:24](https://lobste.rs/s/ta9k9x/podgenai_gpt_4_based_informational) - [podgenai: GPT-4 based informational single-speaker audiobook/podcast mp3 generator](https://github.com/impredicative/podgenai)
@@ -14,7 +15,6 @@
 * [2024-06-01, 13:22:58](https://lobste.rs/s/ramlpm/qt_property_macro_q_property_with_95_less) - [Qt Property Macro (Q_PROPERTY with 95% less code)](https://raymii.org/s/blog/Qt_Property_Macro_Q_PROPERTY_with_95_percent_less_code.html)
 * [2024-06-01, 11:41:43](https://lobste.rs/s/03whzl/why_is_snapshot_isolation_not_enough) - [Why is Snapshot Isolation not enough?](https://concurrencyfreaks.blogspot.com/2023/12/why-is-snapshot-isolation-not-enough.html)
 * [2024-06-01, 09:15:10](https://lobste.rs/s/tjggw4/shellgpt_chat_with_llm_your_terminal_be_it) - [shellgpt: Chat with LLM in your terminal, be it shell generator, story teller, linux-terminal, etc](https://github.com/jiacai2050/shellgpt)
-* [2024-06-01, 08:27:20](https://lobste.rs/s/5jxoac/go_recipes_tools_for_go_projects) - [go-recipes: Tools for Go projects](https://github.com/nikolaydubina/go-recipes)
 * [2024-06-01, 07:55:50](https://lobste.rs/s/6nqlr4/fd_100) - [FD 100](https://susam.net/fd-100.html)
 * [2024-06-01, 01:00:34](https://lobste.rs/s/m48viy/refusal_llms_is_mediated_by_single) - [Refusal in LLMs is mediated by a single direction](https://www.lesswrong.com/posts/jGuXSZgv6qfdhMCuJ/refusal-in-llms-is-mediated-by-a-single-direction)
 * [2024-05-31, 21:51:45](https://lobste.rs/s/rfit72/recall_stealing_everything_you_ve_ever) - [Recall: Stealing everything you’ve ever typed or viewed on your own Windows PC is now possible](https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e)
