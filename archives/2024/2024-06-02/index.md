@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-02](index.md)
 
+* [2024-06-02, 16:38:19](https://lobste.rs/s/edeq9h/brief_look_at_3ds_cartridge_protocol) - [A Brief Look at the 3DS Cartridge Protocol](https://blog.winter-software.com/2024/06/02/ctr-cart-protocol)
 * [2024-06-02, 15:52:15](https://lobste.rs/s/ji7jwm/part_10_sailing_physics_simulation) - [Part 10: Sailing Physics Simulation - Pirate Sea Jam](https://claudijo.itch.io/pirate-sea-jam/devlog/737807/part-10-sailing-physics-simulation)
 * [2024-06-02, 15:46:26](https://lobste.rs/s/8ddzid/centerpiece_now_supports_firefox_whats) - [Centerpiece now supports Firefox! Whats Next?](https://lobste.rs/s/8ddzid/centerpiece_now_supports_firefox_whats)
 * [2024-06-02, 14:34:31](https://lobste.rs/s/gvujrr/baseline_scrapscript_compiler) - [A baseline scrapscript compiler](https://bernsteinbear.com/blog/scrapscript-baseline/)
