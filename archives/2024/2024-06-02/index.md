@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-02](index.md)
 
+* [2024-06-02, 20:21:28](https://lobste.rs/s/r1hrsy/bananui) - [Bananui](https://wiki.postmarketos.org/wiki/Bananui)
 * [2024-06-02, 18:30:41](https://lobste.rs/s/okpsrg/home_cooked_software_barefoot) - [Home-Cooked Software and Barefoot Developers](https://maggieappleton.com/home-cooked-software)
 * [2024-06-02, 17:43:05](https://lobste.rs/s/gwdipw/upgrading_my_chumby_8_kernel_part_10_rtc) - [Upgrading my Chumby 8 kernel part 10: RTC](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-10-rtc/)
 * [2024-06-02, 17:37:22](https://lobste.rs/s/s6ozc3/big_tech_s_role_enabling_link_fraud) - [Big Tech’s role in enabling link fraud](https://eligrey.com/blog/link-fraud/)
