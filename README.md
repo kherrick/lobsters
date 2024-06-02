@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-02, 17:37:22](https://lobste.rs/s/s6ozc3/big_tech_s_role_enabling_link_fraud) - [Big Tech’s role in enabling link fraud](https://eligrey.com/blog/link-fraud/)
 * [2024-06-02, 16:38:19](https://lobste.rs/s/edeq9h/brief_look_at_3ds_cartridge_protocol) - [A Brief Look at the 3DS Cartridge Protocol](https://blog.winter-software.com/2024/06/02/ctr-cart-protocol)
 * [2024-06-02, 15:52:15](https://lobste.rs/s/ji7jwm/part_10_sailing_physics_simulation) - [Part 10: Sailing Physics Simulation - Pirate Sea Jam](https://claudijo.itch.io/pirate-sea-jam/devlog/737807/part-10-sailing-physics-simulation)
 * [2024-06-02, 15:46:26](https://lobste.rs/s/8ddzid/centerpiece_now_supports_firefox_whats) - [Centerpiece now supports Firefox! Whats Next?](https://lobste.rs/s/8ddzid/centerpiece_now_supports_firefox_whats)
@@ -18,7 +19,6 @@
 * [2024-06-01, 17:30:53](https://lobste.rs/s/oznrd7/simple_trackpad_haptic_feedback_on_mac) - [Simple Trackpad Haptic Feedback on Mac](https://github.com/jasonjmcghee/trackpad_haptic)
 * [2024-06-01, 16:44:31](https://lobste.rs/s/ebnqzl/what_autoconf_got_right) - [What autoconf got right](https://leahneukirchen.org/blog/archive/2024/04/what-autoconf-got-right.html)
 * [2024-06-01, 15:32:43](https://lobste.rs/s/cwufst/paged_out_issue_4) - [Paged Out! Issue 4](https://pagedout.institute/?page=issues.php)
-* [2024-06-01, 15:20:18](https://lobste.rs/s/porv2k/meet_rvpc_world_lowest_cost_open_source) - [Meet RVPC the world lowest cost Open Source Hardware All-in-one educational RISC-V computer with VGA and PS2 keyboard](https://olimex.wordpress.com/2024/05/15/meet-rvpc-the-world-lowest-cost-open-source-hardware-all-in-one-educational-risc-v-computer-with-vga-and-ps2-keyboard-which-will-be-available-for-diy-soldering-workshop-on-open-fest-in-sofia-this-year/)
 * [2024-06-01, 14:09:59](https://lobste.rs/s/2oibbk/shakti) - [shakti](https://shakti.com/)
 * [2024-06-01, 11:41:43](https://lobste.rs/s/03whzl/why_is_snapshot_isolation_not_enough) - [Why is Snapshot Isolation not enough?](https://concurrencyfreaks.blogspot.com/2023/12/why-is-snapshot-isolation-not-enough.html)
 * [2024-06-01, 07:55:50](https://lobste.rs/s/6nqlr4/fd_100) - [FD 100](https://susam.net/fd-100.html)
