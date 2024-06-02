@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-02, 15:46:26](https://lobste.rs/s/8ddzid/centerpiece_now_supports_firefox_whats) - [Centerpiece now supports Firefox! Whats Next?](https://lobste.rs/s/8ddzid/centerpiece_now_supports_firefox_whats)
 * [2024-06-02, 14:34:31](https://lobste.rs/s/gvujrr/baseline_scrapscript_compiler) - [A baseline scrapscript compiler](https://bernsteinbear.com/blog/scrapscript-baseline/)
 * [2024-06-02, 14:20:05](https://lobste.rs/s/wgesrb/spi_flash) - [SPI flash](https://trmm.net/SPI_flash/)
 * [2024-06-02, 13:36:34](https://lobste.rs/s/y1oyxc/automatic_dark_mode_with_openbsd_dwm) - [Automatic dark mode with OpenBSD and dwm](https://plexwave.org/blog/auto-dark-mode)
@@ -17,7 +18,6 @@
 * [2024-06-01, 15:32:43](https://lobste.rs/s/cwufst/paged_out_issue_4) - [Paged Out! Issue 4](https://pagedout.institute/?page=issues.php)
 * [2024-06-01, 15:20:18](https://lobste.rs/s/porv2k/meet_rvpc_world_lowest_cost_open_source) - [Meet RVPC the world lowest cost Open Source Hardware All-in-one educational RISC-V computer with VGA and PS2 keyboard](https://olimex.wordpress.com/2024/05/15/meet-rvpc-the-world-lowest-cost-open-source-hardware-all-in-one-educational-risc-v-computer-with-vga-and-ps2-keyboard-which-will-be-available-for-diy-soldering-workshop-on-open-fest-in-sofia-this-year/)
 * [2024-06-01, 14:09:59](https://lobste.rs/s/2oibbk/shakti) - [shakti](https://shakti.com/)
-* [2024-06-01, 14:09:38](https://lobste.rs/s/qhcj9v/root_analyzing_petabytes_data) - [ROOT: analyzing petabytes of data, scientifically](https://root.cern/)
 * [2024-06-01, 13:22:58](https://lobste.rs/s/ramlpm/qt_property_macro_q_property_with_95_less) - [Qt Property Macro (Q_PROPERTY with 95% less code)](https://raymii.org/s/blog/Qt_Property_Macro_Q_PROPERTY_with_95_percent_less_code.html)
 * [2024-06-01, 11:41:43](https://lobste.rs/s/03whzl/why_is_snapshot_isolation_not_enough) - [Why is Snapshot Isolation not enough?](https://concurrencyfreaks.blogspot.com/2023/12/why-is-snapshot-isolation-not-enough.html)
 * [2024-06-01, 07:55:50](https://lobste.rs/s/6nqlr4/fd_100) - [FD 100](https://susam.net/fd-100.html)
