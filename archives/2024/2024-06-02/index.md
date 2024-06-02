@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-02](index.md)
 
+* [2024-06-02, 14:20:05](https://lobste.rs/s/wgesrb/spi_flash) - [SPI flash](https://trmm.net/SPI_flash/)
 * [2024-06-02, 13:36:34](https://lobste.rs/s/y1oyxc/automatic_dark_mode_with_openbsd_dwm) - [Automatic dark mode with OpenBSD and dwm](https://plexwave.org/blog/auto-dark-mode)
 * [2024-06-02, 12:41:34](https://lobste.rs/s/uag50x/borrow_checker_within) - [The borrow checker within](https://smallcultfollowing.com/babysteps/blog/2024/06/02/the-borrow-checker-within/)
 * [2024-06-02, 08:30:23](https://lobste.rs/s/6rcd3s/rust_dynamically_sized_thin_pointers) - [Rust and dynamically-sized thin pointers](https://john-millikin.com/rust-and-dynamically-sized-thin-pointers)
