@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-02, 20:56:35](https://lobste.rs/s/lailai/rfc_7807_problem_details_for_http_apis) - [RFC 7807: Problem Details for HTTP APIs](https://datatracker.ietf.org/doc/html/rfc7807)
 * [2024-06-02, 20:25:55](https://lobste.rs/s/lv588g/hn_text_easy_use_text_first_hacker_news) - [hn-text: an easy-to-use, text-first Hacker News terminal client](https://github.com/piqoni/hn-text)
 * [2024-06-02, 20:21:28](https://lobste.rs/s/r1hrsy/bananui) - [Bananui](https://wiki.postmarketos.org/wiki/Bananui)
 * [2024-06-02, 18:30:41](https://lobste.rs/s/okpsrg/home_cooked_software_barefoot) - [Home-Cooked Software and Barefoot Developers](https://maggieappleton.com/home-cooked-software)
@@ -18,7 +19,6 @@
 * [2024-06-02, 06:44:39](https://lobste.rs/s/hxhqck/what_do_i_think_about_lua_after_shipping) - [What do I think about Lua after shipping a project with 60,000 lines of code?](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733)
 * [2024-06-02, 00:05:37](https://lobste.rs/s/zbq1pi/css_written_pure_go) - [CSS written in Pure Go](https://github.com/AccentDesign/gcss)
 * [2024-06-01, 21:29:12](https://lobste.rs/s/koydlb/history_window_systems) - [History Of Window Systems](https://blog.dshr.org/2021/03/history-of-window-systems.html)
-* [2024-06-01, 18:21:12](https://lobste.rs/s/bsaefr/x_is_justifiably_slow) - [X is justifiably slow](https://zeux.io/2024/05/31/justifiably-slow/)
 * [2024-06-01, 17:30:53](https://lobste.rs/s/oznrd7/simple_trackpad_haptic_feedback_on_mac) - [Simple Trackpad Haptic Feedback on Mac](https://github.com/jasonjmcghee/trackpad_haptic)
 * [2024-06-01, 16:44:31](https://lobste.rs/s/ebnqzl/what_autoconf_got_right) - [What autoconf got right](https://leahneukirchen.org/blog/archive/2024/04/what-autoconf-got-right.html)
 * [2024-06-01, 15:32:43](https://lobste.rs/s/cwufst/paged_out_issue_4) - [Paged Out! Issue 4](https://pagedout.institute/?page=issues.php)
