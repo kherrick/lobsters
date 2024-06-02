@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-02, 14:20:05",
+      "https://lobste.rs/s/wgesrb/spi_flash"
+    ],
+    [
+      "SPI flash",
+      "https://trmm.net/SPI_flash/"
+    ]
+  ],
+  [
+    [
       "2024-06-02, 13:36:34",
       "https://lobste.rs/s/y1oyxc/automatic_dark_mode_with_openbsd_dwm"
     ],
@@ -237,16 +247,6 @@
     [
       "Debian 12 KDE Plasma: The right GNU/Linux distribution for professional digital painting in 2024. Reasons and complete installation guide",
       "https://www.davidrevoy.com/article1030/debian-12-kde-plasma-2024-install-guide"
-    ]
-  ],
-  [
-    [
-      "2024-05-31, 06:08:39",
-      "https://lobste.rs/s/efvsru/engineering_for_slow_internet"
-    ],
-    [
-      "Engineering for Slow Internet",
-      "https://brr.fyi/posts/engineering-for-slow-internet"
     ]
   ]
 ]
