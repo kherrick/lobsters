@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-02](index.md)
 
+* [2024-06-02, 12:41:34](https://lobste.rs/s/uag50x/borrow_checker_within) - [The borrow checker within](https://smallcultfollowing.com/babysteps/blog/2024/06/02/the-borrow-checker-within/)
 * [2024-06-02, 08:30:23](https://lobste.rs/s/6rcd3s/rust_dynamically_sized_thin_pointers) - [Rust and dynamically-sized thin pointers](https://john-millikin.com/rust-and-dynamically-sized-thin-pointers)
 * [2024-06-02, 08:03:04](https://lobste.rs/s/eknebc/cppcast_safe_borrow_checked_c) - [CppCast: Safe, Borrow-Checked, C++](https://cppcast.com/safe-borrow-checked-cpp/)
 * [2024-06-02, 07:28:47](https://lobste.rs/s/hjub1e/don_t_use_include_what_you_use) - [Don't Use include-what-you-use](https://danra.prose.sh/dont_use_iwyu)

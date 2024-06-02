@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-02, 12:41:34](https://lobste.rs/s/uag50x/borrow_checker_within) - [The borrow checker within](https://smallcultfollowing.com/babysteps/blog/2024/06/02/the-borrow-checker-within/)
 * [2024-06-02, 08:30:23](https://lobste.rs/s/6rcd3s/rust_dynamically_sized_thin_pointers) - [Rust and dynamically-sized thin pointers](https://john-millikin.com/rust-and-dynamically-sized-thin-pointers)
 * [2024-06-02, 08:03:04](https://lobste.rs/s/eknebc/cppcast_safe_borrow_checked_c) - [CppCast: Safe, Borrow-Checked, C++](https://cppcast.com/safe-borrow-checked-cpp/)
 * [2024-06-02, 07:28:47](https://lobste.rs/s/hjub1e/don_t_use_include_what_you_use) - [Don't Use include-what-you-use](https://danra.prose.sh/dont_use_iwyu)
@@ -21,7 +22,6 @@
 * [2024-05-31, 21:51:45](https://lobste.rs/s/rfit72/recall_stealing_everything_you_ve_ever) - [Recall: Stealing everything you’ve ever typed or viewed on your own Windows PC is now possible](https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e)
 * [2024-05-31, 19:31:55](https://lobste.rs/s/vyprdq/nixos_24_05_released) - [NixOS 24.05 released](https://nixos.org/blog/announcements/2024/nixos-2405/)
 * [2024-05-31, 18:37:53](https://lobste.rs/s/tdpwpa/how_copy_file_from_30_year_old_laptop) - [How to Copy a File From a 30-year-old Laptop](https://www.unterminated.com/random-fun/how-to-copy-a-file-from-a-30-year-old-laptop)
-* [2024-05-31, 17:54:51](https://lobste.rs/s/thpffd/jank_gets_chunked_sequences_volatiles) - [jank gets chunked sequences, volatiles, atoms, and some big project updates](https://jank-lang.org/blog/2024-05-31-new-projects/)
 * [2024-05-31, 17:53:53](https://lobste.rs/s/zcth7i/emacs_doesn_t_have_plugins) - [Emacs Doesn’t Have Plugins](https://irreal.org/blog/?p=12210)
 * [2024-05-31, 07:36:39](https://lobste.rs/s/pnvrud/debian_12_kde_plasma_right_gnu_linux) - [Debian 12 KDE Plasma: The right GNU/Linux distribution for professional digital painting in 2024. Reasons and complete installation guide](https://www.davidrevoy.com/article1030/debian-12-kde-plasma-2024-install-guide)
 * [2024-05-31, 06:08:39](https://lobste.rs/s/efvsru/engineering_for_slow_internet) - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
