@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-02, 13:36:34",
+      "https://lobste.rs/s/y1oyxc/automatic_dark_mode_with_openbsd_dwm"
+    ],
+    [
+      "Automatic dark mode with OpenBSD and dwm",
+      "https://plexwave.org/blog/auto-dark-mode"
+    ]
+  ],
+  [
+    [
       "2024-06-02, 12:41:34",
       "https://lobste.rs/s/uag50x/borrow_checker_within"
     ],
@@ -167,16 +177,6 @@
     [
       "Why is Snapshot Isolation not enough?",
       "https://concurrencyfreaks.blogspot.com/2023/12/why-is-snapshot-isolation-not-enough.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-01, 09:15:10",
-      "https://lobste.rs/s/tjggw4/shellgpt_chat_with_llm_your_terminal_be_it"
-    ],
-    [
-      "shellgpt: Chat with LLM in your terminal, be it shell generator, story teller, linux-terminal, etc",
-      "https://github.com/jiacai2050/shellgpt"
     ]
   ],
   [
