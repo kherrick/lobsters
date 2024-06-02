@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-02, 00:05:37",
+      "https://lobste.rs/s/zbq1pi/css_written_pure_go"
+    ],
+    [
+      "CSS written in Pure Go",
+      "https://github.com/AccentDesign/gcss"
+    ]
+  ],
+  [
+    [
       "2024-06-01, 22:25:05",
       "https://lobste.rs/s/buhht2/model_explorer_ai_model_graph_visualizer"
     ],
@@ -127,16 +137,6 @@
     [
       "Why is Snapshot Isolation not enough?",
       "https://concurrencyfreaks.blogspot.com/2023/12/why-is-snapshot-isolation-not-enough.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-01, 11:38:06",
-      "https://lobste.rs/s/svmkef/huggingface_hacked_space_secrets_leak"
-    ],
-    [
-      "HuggingFace hacked - Space secrets leak disclosure",
-      "https://huggingface.co/blog/space-secrets-disclosure"
     ]
   ],
   [
