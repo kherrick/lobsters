@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-02, 14:34:31",
+      "https://lobste.rs/s/gvujrr/baseline_scrapscript_compiler"
+    ],
+    [
+      "A baseline scrapscript compiler",
+      "https://bernsteinbear.com/blog/scrapscript-baseline/"
+    ]
+  ],
+  [
+    [
       "2024-06-02, 14:20:05",
       "https://lobste.rs/s/wgesrb/spi_flash"
     ],
@@ -237,16 +247,6 @@
     [
       "Emacs Doesn’t Have Plugins",
       "https://irreal.org/blog/?p=12210"
-    ]
-  ],
-  [
-    [
-      "2024-05-31, 07:36:39",
-      "https://lobste.rs/s/pnvrud/debian_12_kde_plasma_right_gnu_linux"
-    ],
-    [
-      "Debian 12 KDE Plasma: The right GNU/Linux distribution for professional digital painting in 2024. Reasons and complete installation guide",
-      "https://www.davidrevoy.com/article1030/debian-12-kde-plasma-2024-install-guide"
     ]
   ]
 ]
