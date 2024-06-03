@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-06-03, 15:21:37",
-      "https://lobste.rs/s/ubxoua/why_are_vulnerabilities_out_control_2024"
+      "2024-06-03, 15:25:13",
+      "https://lobste.rs/s/nybhsl/this_is_why_you_should_never_use_parser"
     ],
     [
-      "Why are vulnerabilities out of control in 2024?",
-      "https://opensourcesecurity.io/2024/06/03/why-are-vulnerabilities-out-of-control-in-2024/"
-    ]
-  ],
-  [
-    [
-      "2024-06-03, 15:21:21",
-      "https://lobste.rs/s/lfpd7t/what_s_your_preferred_tech_stack_when"
-    ],
-    [
-      "What’s your preferred tech stack when building side projects?",
-      "https://lobste.rs/s/lfpd7t/what_s_your_preferred_tech_stack_when"
+      "This is why you should never use parser combinators and PEG",
+      "https://safinaskar.writeas.com/this-is-why-you-should-never-use-parser-combinators-and-peg"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "rust is not about memory safety",
       "https://o-santi.github.io/blog/rust-is-not-about-memory-safety/"
+    ]
+  ],
+  [
+    [
+      "2024-06-02, 17:37:22",
+      "https://lobste.rs/s/s6ozc3/big_tech_s_role_enabling_link_fraud"
+    ],
+    [
+      "Big Tech’s role in enabling link fraud",
+      "https://eligrey.com/blog/link-fraud/"
     ]
   ],
   [
