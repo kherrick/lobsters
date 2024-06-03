@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2024-06-02, 18:30:41",
-      "https://lobste.rs/s/okpsrg/home_cooked_software_barefoot"
-    ],
-    [
-      "Home-Cooked Software and Barefoot Developers",
-      "https://maggieappleton.com/home-cooked-software"
-    ]
-  ],
-  [
-    [
       "2024-06-02, 17:37:22",
       "https://lobste.rs/s/s6ozc3/big_tech_s_role_enabling_link_fraud"
     ],
@@ -217,6 +207,16 @@
     [
       "Rust and dynamically-sized thin pointers",
       "https://john-millikin.com/rust-and-dynamically-sized-thin-pointers"
+    ]
+  ],
+  [
+    [
+      "2024-06-02, 08:03:04",
+      "https://lobste.rs/s/eknebc/cppcast_safe_borrow_checked_c"
+    ],
+    [
+      "CppCast: Safe, Borrow-Checked, C++",
+      "https://cppcast.com/safe-borrow-checked-cpp/"
     ]
   ],
   [
