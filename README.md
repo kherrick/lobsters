@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-03, 09:38:52](https://lobste.rs/s/2f29df/i_m_forking_ladybird_stepping_down_as) - [I'm forking Ladybird and stepping down as SerenityOS BDFL](https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos)
 * [2024-06-03, 08:30:30](https://lobste.rs/s/uud3hp/message_authentication_codes_for_safer) - [Message authentication codes for safer distributed transactions](https://mazzo.li/posts/mac-distributed-tx.html)
 * [2024-06-03, 08:27:15](https://lobste.rs/s/iae17g/cudf_gpu_dataframe_library) - [cuDF - GPU DataFrame Library](https://github.com/rapidsai/cudf)
 * [2024-06-03, 07:52:31](https://lobste.rs/s/oumpei/making_usb_devices_end_end_guide_your) - [Making USB devices - end to end guide to your first gadget](https://popovicu.com/posts/making-usb-devices/)
@@ -21,7 +22,6 @@
 * [2024-06-02, 13:36:34](https://lobste.rs/s/y1oyxc/automatic_dark_mode_with_openbsd_dwm) - [Automatic dark mode with OpenBSD and dwm](https://plexwave.org/blog/auto-dark-mode)
 * [2024-06-02, 12:41:34](https://lobste.rs/s/uag50x/borrow_checker_within) - [The borrow checker within](https://smallcultfollowing.com/babysteps/blog/2024/06/02/the-borrow-checker-within/)
 * [2024-06-02, 08:30:23](https://lobste.rs/s/6rcd3s/rust_dynamically_sized_thin_pointers) - [Rust and dynamically-sized thin pointers](https://john-millikin.com/rust-and-dynamically-sized-thin-pointers)
-* [2024-06-02, 08:03:04](https://lobste.rs/s/eknebc/cppcast_safe_borrow_checked_c) - [CppCast: Safe, Borrow-Checked, C++](https://cppcast.com/safe-borrow-checked-cpp/)
 * [2024-06-02, 07:28:47](https://lobste.rs/s/hjub1e/don_t_use_include_what_you_use) - [Don't Use include-what-you-use](https://danra.prose.sh/dont_use_iwyu)
 * [2024-06-02, 06:44:39](https://lobste.rs/s/hxhqck/what_do_i_think_about_lua_after_shipping) - [What do I think about Lua after shipping a project with 60,000 lines of code?](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733)
 * [2024-06-01, 16:44:31](https://lobste.rs/s/ebnqzl/what_autoconf_got_right) - [What autoconf got right](https://leahneukirchen.org/blog/archive/2024/04/what-autoconf-got-right.html)
