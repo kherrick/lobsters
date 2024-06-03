@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-03](index.md)
 
+* [2024-06-03, 07:22:49](https://lobste.rs/s/1tdstv/hacking_millions_modems_investigating) - [Hacking Millions of Modems (and Investigating Who Hacked My Modem)](https://samcurry.net/hacking-millions-of-modems)
 * [2024-06-03, 07:18:52](https://lobste.rs/s/pijq6t/working_as_unexpected) - [Working as unexpected](https://www.chainguard.dev/unchained/working-as-unexpected)
 * [2024-06-03, 07:07:42](https://lobste.rs/s/97so6c/84_24) - [84—24](https://84-24.org/)
 * [2024-06-03, 04:32:12](https://lobste.rs/s/ssqbv8/back_up_your_git_repositories_s3_any_s3) - [Back Up Your Git Repositories to S3 or Any S3-Compatible Storage](https://mathieularose.com/back-up-your-git-repositories-to-s3)

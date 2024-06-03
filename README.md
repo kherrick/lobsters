@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-03, 07:22:49](https://lobste.rs/s/1tdstv/hacking_millions_modems_investigating) - [Hacking Millions of Modems (and Investigating Who Hacked My Modem)](https://samcurry.net/hacking-millions-of-modems)
 * [2024-06-03, 07:18:52](https://lobste.rs/s/pijq6t/working_as_unexpected) - [Working as unexpected](https://www.chainguard.dev/unchained/working-as-unexpected)
 * [2024-06-03, 07:07:42](https://lobste.rs/s/97so6c/84_24) - [84—24](https://84-24.org/)
 * [2024-06-03, 04:32:12](https://lobste.rs/s/ssqbv8/back_up_your_git_repositories_s3_any_s3) - [Back Up Your Git Repositories to S3 or Any S3-Compatible Storage](https://mathieularose.com/back-up-your-git-repositories-to-s3)
@@ -24,7 +25,6 @@
 * [2024-06-02, 07:28:47](https://lobste.rs/s/hjub1e/don_t_use_include_what_you_use) - [Don't Use include-what-you-use](https://danra.prose.sh/dont_use_iwyu)
 * [2024-06-02, 06:44:39](https://lobste.rs/s/hxhqck/what_do_i_think_about_lua_after_shipping) - [What do I think about Lua after shipping a project with 60,000 lines of code?](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733)
 * [2024-06-01, 16:44:31](https://lobste.rs/s/ebnqzl/what_autoconf_got_right) - [What autoconf got right](https://leahneukirchen.org/blog/archive/2024/04/what-autoconf-got-right.html)
-* [2024-06-01, 07:55:50](https://lobste.rs/s/6nqlr4/fd_100) - [FD 100](https://susam.net/fd-100.html)
 
 ## [Archives](archives/index.md)
 
