@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-06-03, 14:40:58",
+      "https://lobste.rs/s/rvrl33/stop_scraping_my_git_forge"
+    ],
+    [
+      "Stop Scraping my Git Forge",
+      "https://gabrielsimmer.com/blog/stop-scraping-git-forge"
+    ]
+  ],
+  [
+    [
       "2024-06-03, 14:34:25",
       "https://lobste.rs/s/m3nk6r/fmt_modern_c_string_formatting_library"
     ],
     [
-      "fmt: a modern C++ string formatting library",
+      "{fmt}: a modern C++ string formatting library",
       "https://fmt.dev/"
     ]
   ],
@@ -177,16 +187,6 @@
     [
       "rust is not about memory safety",
       "https://o-santi.github.io/blog/rust-is-not-about-memory-safety/"
-    ]
-  ],
-  [
-    [
-      "2024-06-02, 20:56:35",
-      "https://lobste.rs/s/lailai/rfc_7807_problem_details_for_http_apis"
-    ],
-    [
-      "RFC 7807: Problem Details for HTTP APIs",
-      "https://datatracker.ietf.org/doc/html/rfc7807"
     ]
   ],
   [
