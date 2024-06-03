@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-03](index.md)
 
+* [2024-06-03, 08:30:30](https://lobste.rs/s/uud3hp/message_authentication_codes_for_safer) - [Message authentication codes for safer distributed transactions](https://mazzo.li/posts/mac-distributed-tx.html)
+* [2024-06-03, 08:27:15](https://lobste.rs/s/iae17g/cudf_gpu_dataframe_library) - [cuDF - GPU DataFrame Library](https://github.com/rapidsai/cudf)
 * [2024-06-03, 07:52:31](https://lobste.rs/s/oumpei/making_usb_devices_end_end_guide_your) - [Making USB devices - end to end guide to your first gadget](https://popovicu.com/posts/making-usb-devices/)
 * [2024-06-03, 07:41:19](https://lobste.rs/s/utqh3b/simdjson_library) - [The simdjson library](https://simdjson.org/)
 * [2024-06-03, 07:28:03](https://lobste.rs/s/yubugw/simd_detection_nested_quotes) - [SIMD detection of nested quotes](https://blog.sesse.net/blog/tech/2024-06-02-11-10_simd_detection_of_nested_quotes.html)
