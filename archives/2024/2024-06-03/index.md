@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-03](index.md)
 
+* [2024-06-03, 15:21:37](https://lobste.rs/s/ubxoua/why_are_vulnerabilities_out_control_2024) - [Why are vulnerabilities out of control in 2024?](https://opensourcesecurity.io/2024/06/03/why-are-vulnerabilities-out-of-control-in-2024/)
+* [2024-06-03, 15:21:21](https://lobste.rs/s/lfpd7t/what_s_your_preferred_tech_stack_when) - [What’s your preferred tech stack when building side projects?](https://lobste.rs/s/lfpd7t/what_s_your_preferred_tech_stack_when)
 * [2024-06-03, 15:04:49](https://lobste.rs/s/dqtj50/experimenting_with_local_alt_text) - [Experimenting with local alt text generation in Firefox Nightly](https://hacks.mozilla.org/2024/05/experimenting-with-local-alt-text-generation-in-firefox-nightly/)
 * [2024-06-03, 15:01:52](https://lobste.rs/s/f306q2/consumer_electronics_control) - [Consumer Electronics Control](https://computer.rip/2024-06-02-consumer-electronics-control.html)
 * [2024-06-03, 14:40:58](https://lobste.rs/s/rvrl33/stop_scraping_my_git_forge) - [Stop Scraping my Git Forge](https://gabrielsimmer.com/blog/stop-scraping-git-forge)
