@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-06-03, 14:34:25](https://lobste.rs/s/m3nk6r/fmt_modern_c_string_formatting_library) - [fmt: a modern C++ string formatting library](https://fmt.dev/)
+* [2024-06-03, 14:40:58](https://lobste.rs/s/rvrl33/stop_scraping_my_git_forge) - [Stop Scraping my Git Forge](https://gabrielsimmer.com/blog/stop-scraping-git-forge)
+* [2024-06-03, 14:34:25](https://lobste.rs/s/m3nk6r/fmt_modern_c_string_formatting_library) - [{fmt}: a modern C++ string formatting library](https://fmt.dev/)
 * [2024-06-03, 14:02:39](https://lobste.rs/s/buc3da/overview_starlark_language) - [An overview of the Starlark language](https://laurent.le-brun.eu/blog/an-overview-of-starlark)
 * [2024-06-03, 13:40:54](https://lobste.rs/s/hwifwa/announcing_duckdb_1_0_0) - [Announcing DuckDB 1.0.0](https://duckdb.org/2024/06/03/announcing-duckdb-100.html)
 * [2024-06-03, 13:40:19](https://lobste.rs/s/rqaxqi/don_t_name_packages_common_nouns) - [Don't name packages common nouns](https://brandur.org/fragments/go-no-common-nouns)
@@ -18,7 +19,6 @@
 * [2024-06-03, 01:19:07](https://lobste.rs/s/kdlfeu/tricking_ios_into_animating_app_icons) - [Tricking iOS Into Animating App Icons](https://bryce.co/animated-app-icons/)
 * [2024-06-03, 00:48:08](https://lobste.rs/s/y8wfqu/cat_as_service) - [Cat as a service](https://cataas.com)
 * [2024-06-02, 21:18:36](https://lobste.rs/s/nzvoww/rust_is_not_about_memory_safety) - [rust is not about memory safety](https://o-santi.github.io/blog/rust-is-not-about-memory-safety/)
-* [2024-06-02, 20:56:35](https://lobste.rs/s/lailai/rfc_7807_problem_details_for_http_apis) - [RFC 7807: Problem Details for HTTP APIs](https://datatracker.ietf.org/doc/html/rfc7807)
 * [2024-06-02, 17:37:22](https://lobste.rs/s/s6ozc3/big_tech_s_role_enabling_link_fraud) - [Big Tech’s role in enabling link fraud](https://eligrey.com/blog/link-fraud/)
 * [2024-06-02, 16:38:19](https://lobste.rs/s/edeq9h/brief_look_at_3ds_cartridge_protocol) - [A Brief Look at the 3DS Cartridge Protocol](https://blog.winter-software.com/2024/06/02/ctr-cart-protocol)
 * [2024-06-02, 14:34:31](https://lobste.rs/s/gvujrr/baseline_scrapscript_compiler) - [A baseline scrapscript compiler](https://bernsteinbear.com/blog/scrapscript-baseline/)
