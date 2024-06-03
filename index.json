@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-06-03, 15:21:37",
+      "https://lobste.rs/s/ubxoua/why_are_vulnerabilities_out_control_2024"
+    ],
+    [
+      "Why are vulnerabilities out of control in 2024?",
+      "https://opensourcesecurity.io/2024/06/03/why-are-vulnerabilities-out-of-control-in-2024/"
+    ]
+  ],
+  [
+    [
       "2024-06-03, 15:21:21",
       "https://lobste.rs/s/lfpd7t/what_s_your_preferred_tech_stack_when"
     ],
@@ -237,16 +247,6 @@
     [
       "Rust and dynamically-sized thin pointers",
       "https://john-millikin.com/rust-and-dynamically-sized-thin-pointers"
-    ]
-  ],
-  [
-    [
-      "2024-06-02, 06:44:39",
-      "https://lobste.rs/s/hxhqck/what_do_i_think_about_lua_after_shipping"
-    ],
-    [
-      "What do I think about Lua after shipping a project with 60,000 lines of code?",
-      "https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733"
     ]
   ]
 ]
