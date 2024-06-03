@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-03](index.md)
 
+* [2024-06-03, 10:52:10](https://lobste.rs/s/lwybwo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lwybwo/what_are_you_doing_this_week)
 * [2024-06-03, 09:38:52](https://lobste.rs/s/2f29df/i_m_forking_ladybird_stepping_down_as) - [I'm forking Ladybird and stepping down as SerenityOS BDFL](https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos)
 * [2024-06-03, 08:30:30](https://lobste.rs/s/uud3hp/message_authentication_codes_for_safer) - [Message authentication codes for safer distributed transactions](https://mazzo.li/posts/mac-distributed-tx.html)
 * [2024-06-03, 08:27:15](https://lobste.rs/s/iae17g/cudf_gpu_dataframe_library) - [cuDF - GPU DataFrame Library](https://github.com/rapidsai/cudf)
