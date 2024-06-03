@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-03, 04:32:12](https://lobste.rs/s/ssqbv8/back_up_your_git_repositories_s3_any_s3) - [Back Up Your Git Repositories to S3 or Any S3-Compatible Storage](https://mathieularose.com/back-up-your-git-repositories-to-s3)
 * [2024-06-03, 01:19:07](https://lobste.rs/s/kdlfeu/tricking_ios_into_animating_app_icons) - [Tricking iOS Into Animating App Icons](https://bryce.co/animated-app-icons/)
 * [2024-06-03, 00:48:08](https://lobste.rs/s/y8wfqu/cat_as_service) - [Cat as a service](https://cataas.com)
 * [2024-06-02, 23:51:14](https://lobste.rs/s/tjqqe6/here_comes_muybridge_camera_moment_for) - [Here comes the Muybridge camera moment but for text. Photoshop too](https://interconnected.org/home/2024/05/31/camera)
@@ -23,7 +24,6 @@
 * [2024-06-02, 06:44:39](https://lobste.rs/s/hxhqck/what_do_i_think_about_lua_after_shipping) - [What do I think about Lua after shipping a project with 60,000 lines of code?](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733)
 * [2024-06-01, 16:44:31](https://lobste.rs/s/ebnqzl/what_autoconf_got_right) - [What autoconf got right](https://leahneukirchen.org/blog/archive/2024/04/what-autoconf-got-right.html)
 * [2024-06-01, 15:32:43](https://lobste.rs/s/cwufst/paged_out_issue_4) - [Paged Out! Issue 4](https://pagedout.institute/?page=issues.php)
-* [2024-06-01, 14:09:59](https://lobste.rs/s/2oibbk/shakti) - [shakti](https://shakti.com/)
 * [2024-06-01, 07:55:50](https://lobste.rs/s/6nqlr4/fd_100) - [FD 100](https://susam.net/fd-100.html)
 
 ## [Archives](archives/index.md)
