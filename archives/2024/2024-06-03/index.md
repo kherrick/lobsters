@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-03](index.md)
 
+* [2024-06-03, 15:04:49](https://lobste.rs/s/dqtj50/experimenting_with_local_alt_text) - [Experimenting with local alt text generation in Firefox Nightly](https://hacks.mozilla.org/2024/05/experimenting-with-local-alt-text-generation-in-firefox-nightly/)
+* [2024-06-03, 15:01:52](https://lobste.rs/s/f306q2/consumer_electronics_control) - [Consumer Electronics Control](https://computer.rip/2024-06-02-consumer-electronics-control.html)
 * [2024-06-03, 14:40:58](https://lobste.rs/s/rvrl33/stop_scraping_my_git_forge) - [Stop Scraping my Git Forge](https://gabrielsimmer.com/blog/stop-scraping-git-forge)
 * [2024-06-03, 14:34:25](https://lobste.rs/s/m3nk6r/fmt_modern_c_string_formatting_library) - [fmt: a modern C++ string formatting library](https://fmt.dev/)
 * [2024-06-03, 14:02:39](https://lobste.rs/s/buc3da/overview_starlark_language) - [An overview of the Starlark language](https://laurent.le-brun.eu/blog/an-overview-of-starlark)
