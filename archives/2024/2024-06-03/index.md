@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-03](index.md)
 
+* [2024-06-03, 12:36:48](https://lobste.rs/s/ynuzui/lisp_icing_cake) - [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
 * [2024-06-03, 11:31:25](https://lobste.rs/s/gtm8ak/inotify_info_linux_inotify_info) - [inotify-info: Linux inotify info reporting app](https://github.com/mikesart/inotify-info)
 * [2024-06-03, 10:52:10](https://lobste.rs/s/lwybwo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lwybwo/what_are_you_doing_this_week)
 * [2024-06-03, 09:38:52](https://lobste.rs/s/2f29df/i_m_forking_ladybird_stepping_down_as) - [I'm forking Ladybird and stepping down as SerenityOS BDFL](https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos)

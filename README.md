@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-03, 12:36:48](https://lobste.rs/s/ynuzui/lisp_icing_cake) - [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
 * [2024-06-03, 11:31:25](https://lobste.rs/s/gtm8ak/inotify_info_linux_inotify_info) - [inotify-info: Linux inotify info reporting app](https://github.com/mikesart/inotify-info)
 * [2024-06-03, 10:52:10](https://lobste.rs/s/lwybwo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lwybwo/what_are_you_doing_this_week)
 * [2024-06-03, 09:38:52](https://lobste.rs/s/2f29df/i_m_forking_ladybird_stepping_down_as) - [I'm forking Ladybird and stepping down as SerenityOS BDFL](https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos)
@@ -18,7 +19,6 @@
 * [2024-06-02, 20:56:35](https://lobste.rs/s/lailai/rfc_7807_problem_details_for_http_apis) - [RFC 7807: Problem Details for HTTP APIs](https://datatracker.ietf.org/doc/html/rfc7807)
 * [2024-06-02, 17:37:22](https://lobste.rs/s/s6ozc3/big_tech_s_role_enabling_link_fraud) - [Big Tech’s role in enabling link fraud](https://eligrey.com/blog/link-fraud/)
 * [2024-06-02, 16:38:19](https://lobste.rs/s/edeq9h/brief_look_at_3ds_cartridge_protocol) - [A Brief Look at the 3DS Cartridge Protocol](https://blog.winter-software.com/2024/06/02/ctr-cart-protocol)
-* [2024-06-02, 15:52:15](https://lobste.rs/s/ji7jwm/part_10_sailing_physics_simulation) - [Part 10: Sailing Physics Simulation - Pirate Sea Jam](https://claudijo.itch.io/pirate-sea-jam/devlog/737807/part-10-sailing-physics-simulation)
 * [2024-06-02, 15:46:26](https://lobste.rs/s/8ddzid/centerpiece_now_supports_firefox_whats) - [Centerpiece now supports Firefox! Whats Next?](https://lobste.rs/s/8ddzid/centerpiece_now_supports_firefox_whats)
 * [2024-06-02, 14:34:31](https://lobste.rs/s/gvujrr/baseline_scrapscript_compiler) - [A baseline scrapscript compiler](https://bernsteinbear.com/blog/scrapscript-baseline/)
 * [2024-06-02, 13:36:34](https://lobste.rs/s/y1oyxc/automatic_dark_mode_with_openbsd_dwm) - [Automatic dark mode with OpenBSD and dwm](https://plexwave.org/blog/auto-dark-mode)
