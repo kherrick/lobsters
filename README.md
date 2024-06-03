@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-03, 14:02:39](https://lobste.rs/s/buc3da/overview_starlark_language) - [An overview of the Starlark language](https://laurent.le-brun.eu/blog/an-overview-of-starlark)
 * [2024-06-03, 13:40:54](https://lobste.rs/s/hwifwa/announcing_duckdb_1_0_0) - [Announcing DuckDB 1.0.0](https://duckdb.org/2024/06/03/announcing-duckdb-100.html)
 * [2024-06-03, 13:40:19](https://lobste.rs/s/rqaxqi/don_t_name_packages_common_nouns) - [Don't name packages common nouns](https://brandur.org/fragments/go-no-common-nouns)
 * [2024-06-03, 12:55:04](https://lobste.rs/s/ziyu9p/flicker_free_elite_on_bbc_micro_like_bbc) - [Flicker-free Elite on the BBC Micro (like the BBC Master)](https://stardot.org.uk/forums/viewtopic.php?t=22170)
@@ -20,7 +21,6 @@
 * [2024-06-02, 20:56:35](https://lobste.rs/s/lailai/rfc_7807_problem_details_for_http_apis) - [RFC 7807: Problem Details for HTTP APIs](https://datatracker.ietf.org/doc/html/rfc7807)
 * [2024-06-02, 17:37:22](https://lobste.rs/s/s6ozc3/big_tech_s_role_enabling_link_fraud) - [Big Tech’s role in enabling link fraud](https://eligrey.com/blog/link-fraud/)
 * [2024-06-02, 16:38:19](https://lobste.rs/s/edeq9h/brief_look_at_3ds_cartridge_protocol) - [A Brief Look at the 3DS Cartridge Protocol](https://blog.winter-software.com/2024/06/02/ctr-cart-protocol)
-* [2024-06-02, 15:46:26](https://lobste.rs/s/8ddzid/centerpiece_now_supports_firefox_whats) - [Centerpiece now supports Firefox! Whats Next?](https://lobste.rs/s/8ddzid/centerpiece_now_supports_firefox_whats)
 * [2024-06-02, 14:34:31](https://lobste.rs/s/gvujrr/baseline_scrapscript_compiler) - [A baseline scrapscript compiler](https://bernsteinbear.com/blog/scrapscript-baseline/)
 * [2024-06-02, 12:41:34](https://lobste.rs/s/uag50x/borrow_checker_within) - [The borrow checker within](https://smallcultfollowing.com/babysteps/blog/2024/06/02/the-borrow-checker-within/)
 * [2024-06-02, 08:30:23](https://lobste.rs/s/6rcd3s/rust_dynamically_sized_thin_pointers) - [Rust and dynamically-sized thin pointers](https://john-millikin.com/rust-and-dynamically-sized-thin-pointers)
