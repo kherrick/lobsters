@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-03, 07:28:03](https://lobste.rs/s/yubugw/simd_detection_nested_quotes) - [SIMD detection of nested quotes](https://blog.sesse.net/blog/tech/2024-06-02-11-10_simd_detection_of_nested_quotes.html)
 * [2024-06-03, 07:22:49](https://lobste.rs/s/1tdstv/hacking_millions_modems_investigating) - [Hacking Millions of Modems (and Investigating Who Hacked My Modem)](https://samcurry.net/hacking-millions-of-modems)
 * [2024-06-03, 07:18:52](https://lobste.rs/s/pijq6t/working_as_unexpected) - [Working as unexpected](https://www.chainguard.dev/unchained/working-as-unexpected)
 * [2024-06-03, 07:07:42](https://lobste.rs/s/97so6c/84_24) - [84—24](https://84-24.org/)
@@ -7,7 +8,6 @@
 * [2024-06-03, 01:19:07](https://lobste.rs/s/kdlfeu/tricking_ios_into_animating_app_icons) - [Tricking iOS Into Animating App Icons](https://bryce.co/animated-app-icons/)
 * [2024-06-03, 00:48:08](https://lobste.rs/s/y8wfqu/cat_as_service) - [Cat as a service](https://cataas.com)
 * [2024-06-02, 23:51:14](https://lobste.rs/s/tjqqe6/here_comes_muybridge_camera_moment_for) - [Here comes the Muybridge camera moment but for text. Photoshop too](https://interconnected.org/home/2024/05/31/camera)
-* [2024-06-02, 22:00:13](https://lobste.rs/s/azpq3v/animated_roller_coaster_excel) - [Animated Roller Coaster in Excel](https://excelunusual.com/coaster/)
 * [2024-06-02, 21:18:36](https://lobste.rs/s/nzvoww/rust_is_not_about_memory_safety) - [rust is not about memory safety](https://o-santi.github.io/blog/rust-is-not-about-memory-safety/)
 * [2024-06-02, 20:56:35](https://lobste.rs/s/lailai/rfc_7807_problem_details_for_http_apis) - [RFC 7807: Problem Details for HTTP APIs](https://datatracker.ietf.org/doc/html/rfc7807)
 * [2024-06-02, 20:21:28](https://lobste.rs/s/r1hrsy/bananui) - [Bananui](https://wiki.postmarketos.org/wiki/Bananui)
