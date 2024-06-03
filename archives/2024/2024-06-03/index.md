@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-03](index.md)
 
+* [2024-06-03, 21:02:44](https://lobste.rs/s/kgctwv/python_s_many_command_line_utilities) - [Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)
 * [2024-06-03, 18:27:09](https://lobste.rs/s/5eek62/my_portable_ergonomic_setup) - [My portable ergonomic setup](https://ntietz.com/blog/my-portable-ergonomic-setup/)
 * [2024-06-03, 16:49:18](https://lobste.rs/s/g6zyeb/cirkoban_sokoban_meets_cellular) - [Cirkoban: Sokoban meets cellular automata written in Scheme](https://spritely.institute/news/cirkoban-sokoban-meets-cellular-automata-written-in-scheme.html)
 * [2024-06-03, 15:25:13](https://lobste.rs/s/nybhsl/this_is_why_you_should_never_use_parser) - [This is why you should never use parser combinators and PEG](https://safinaskar.writeas.com/this-is-why-you-should-never-use-parser-combinators-and-peg)
