@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-03, 18:27:09",
+      "https://lobste.rs/s/5eek62/my_portable_ergonomic_setup"
+    ],
+    [
+      "My portable ergonomic setup",
+      "https://ntietz.com/blog/my-portable-ergonomic-setup/"
+    ]
+  ],
+  [
+    [
       "2024-06-03, 16:49:18",
       "https://lobste.rs/s/g6zyeb/cirkoban_sokoban_meets_cellular"
     ],
@@ -157,16 +167,6 @@
     [
       "Message authentication codes for safer distributed transactions",
       "https://mazzo.li/posts/mac-distributed-tx.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-03, 08:27:15",
-      "https://lobste.rs/s/iae17g/cudf_gpu_dataframe_library"
-    ],
-    [
-      "cuDF - GPU DataFrame Library",
-      "https://github.com/rapidsai/cudf"
     ]
   ],
   [
