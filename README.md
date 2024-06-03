@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-03, 18:27:09](https://lobste.rs/s/5eek62/my_portable_ergonomic_setup) - [My portable ergonomic setup](https://ntietz.com/blog/my-portable-ergonomic-setup/)
 * [2024-06-03, 16:49:18](https://lobste.rs/s/g6zyeb/cirkoban_sokoban_meets_cellular) - [Cirkoban: Sokoban meets cellular automata written in Scheme](https://spritely.institute/news/cirkoban-sokoban-meets-cellular-automata-written-in-scheme.html)
 * [2024-06-03, 15:25:13](https://lobste.rs/s/nybhsl/this_is_why_you_should_never_use_parser) - [This is why you should never use parser combinators and PEG](https://safinaskar.writeas.com/this-is-why-you-should-never-use-parser-combinators-and-peg)
 * [2024-06-03, 15:21:37](https://lobste.rs/s/ubxoua/why_are_vulnerabilities_out_control_2024) - [Why are vulnerabilities out of control in 2024?](https://opensourcesecurity.io/2024/06/03/why-are-vulnerabilities-out-of-control-in-2024/)
@@ -16,7 +17,6 @@
 * [2024-06-03, 10:52:10](https://lobste.rs/s/lwybwo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lwybwo/what_are_you_doing_this_week)
 * [2024-06-03, 09:38:52](https://lobste.rs/s/2f29df/i_m_forking_ladybird_stepping_down_as) - [I'm forking Ladybird and stepping down as SerenityOS BDFL](https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos)
 * [2024-06-03, 08:30:30](https://lobste.rs/s/uud3hp/message_authentication_codes_for_safer) - [Message authentication codes for safer distributed transactions](https://mazzo.li/posts/mac-distributed-tx.html)
-* [2024-06-03, 08:27:15](https://lobste.rs/s/iae17g/cudf_gpu_dataframe_library) - [cuDF - GPU DataFrame Library](https://github.com/rapidsai/cudf)
 * [2024-06-03, 07:28:03](https://lobste.rs/s/yubugw/simd_detection_nested_quotes) - [SIMD detection of nested quotes](https://blog.sesse.net/blog/tech/2024-06-02-11-10_simd_detection_of_nested_quotes.html)
 * [2024-06-03, 07:22:49](https://lobste.rs/s/1tdstv/hacking_millions_modems_investigating) - [Hacking Millions of Modems (and Investigating Who Hacked My Modem)](https://samcurry.net/hacking-millions-of-modems)
 * [2024-06-03, 07:07:42](https://lobste.rs/s/97so6c/84_24) - [84—24](https://84-24.org/)
