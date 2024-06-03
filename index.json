@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-03, 14:34:25",
+      "https://lobste.rs/s/m3nk6r/fmt_modern_c_string_formatting_library"
+    ],
+    [
+      "fmt: a modern C++ string formatting library",
+      "https://fmt.dev/"
+    ]
+  ],
+  [
+    [
       "2024-06-03, 14:02:39",
       "https://lobste.rs/s/buc3da/overview_starlark_language"
     ],
@@ -127,16 +137,6 @@
     [
       "Hacking Millions of Modems (and Investigating Who Hacked My Modem)",
       "https://samcurry.net/hacking-millions-of-modems"
-    ]
-  ],
-  [
-    [
-      "2024-06-03, 07:18:52",
-      "https://lobste.rs/s/pijq6t/working_as_unexpected"
-    ],
-    [
-      "Working as unexpected",
-      "https://www.chainguard.dev/unchained/working-as-unexpected"
     ]
   ],
   [
