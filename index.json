@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2024-06-03, 00:48:08",
+      "https://lobste.rs/s/y8wfqu/cat_as_service"
+    ],
+    [
+      "Cat as a service",
+      "https://cataas.com"
+    ]
+  ],
+  [
+    [
       "2024-06-02, 21:18:36",
       "https://lobste.rs/s/nzvoww/rust_is_not_about_memory_safety"
     ],
@@ -227,16 +237,6 @@
     [
       "A baseline scrapscript compiler",
       "https://bernsteinbear.com/blog/scrapscript-baseline/"
-    ]
-  ],
-  [
-    [
-      "2024-06-02, 12:41:34",
-      "https://lobste.rs/s/uag50x/borrow_checker_within"
-    ],
-    [
-      "The borrow checker within",
-      "https://smallcultfollowing.com/babysteps/blog/2024/06/02/the-borrow-checker-within/"
     ]
   ],
   [
