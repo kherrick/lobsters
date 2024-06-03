@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-03, 07:52:31](https://lobste.rs/s/oumpei/making_usb_devices_end_end_guide_your) - [Making USB devices - end to end guide to your first gadget](https://popovicu.com/posts/making-usb-devices/)
 * [2024-06-03, 07:41:19](https://lobste.rs/s/utqh3b/simdjson_library) - [The simdjson library](https://simdjson.org/)
 * [2024-06-03, 07:28:03](https://lobste.rs/s/yubugw/simd_detection_nested_quotes) - [SIMD detection of nested quotes](https://blog.sesse.net/blog/tech/2024-06-02-11-10_simd_detection_of_nested_quotes.html)
 * [2024-06-03, 07:22:49](https://lobste.rs/s/1tdstv/hacking_millions_modems_investigating) - [Hacking Millions of Modems (and Investigating Who Hacked My Modem)](https://samcurry.net/hacking-millions-of-modems)
@@ -10,7 +11,6 @@
 * [2024-06-03, 00:48:08](https://lobste.rs/s/y8wfqu/cat_as_service) - [Cat as a service](https://cataas.com)
 * [2024-06-02, 21:18:36](https://lobste.rs/s/nzvoww/rust_is_not_about_memory_safety) - [rust is not about memory safety](https://o-santi.github.io/blog/rust-is-not-about-memory-safety/)
 * [2024-06-02, 20:56:35](https://lobste.rs/s/lailai/rfc_7807_problem_details_for_http_apis) - [RFC 7807: Problem Details for HTTP APIs](https://datatracker.ietf.org/doc/html/rfc7807)
-* [2024-06-02, 20:21:28](https://lobste.rs/s/r1hrsy/bananui) - [Bananui](https://wiki.postmarketos.org/wiki/Bananui)
 * [2024-06-02, 18:30:41](https://lobste.rs/s/okpsrg/home_cooked_software_barefoot) - [Home-Cooked Software and Barefoot Developers](https://maggieappleton.com/home-cooked-software)
 * [2024-06-02, 17:37:22](https://lobste.rs/s/s6ozc3/big_tech_s_role_enabling_link_fraud) - [Big Tech’s role in enabling link fraud](https://eligrey.com/blog/link-fraud/)
 * [2024-06-02, 16:38:19](https://lobste.rs/s/edeq9h/brief_look_at_3ds_cartridge_protocol) - [A Brief Look at the 3DS Cartridge Protocol](https://blog.winter-software.com/2024/06/02/ctr-cart-protocol)
