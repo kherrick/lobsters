@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-03, 12:55:04](https://lobste.rs/s/ziyu9p/flicker_free_elite_on_bbc_micro_like_bbc) - [Flicker-free Elite on the BBC Micro (like the BBC Master)](https://stardot.org.uk/forums/viewtopic.php?t=22170)
 * [2024-06-03, 12:36:48](https://lobste.rs/s/ynuzui/lisp_icing_cake) - [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
 * [2024-06-03, 11:31:25](https://lobste.rs/s/gtm8ak/inotify_info_linux_inotify_info) - [inotify-info: Linux inotify info reporting app](https://github.com/mikesart/inotify-info)
 * [2024-06-03, 10:52:10](https://lobste.rs/s/lwybwo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lwybwo/what_are_you_doing_this_week)
@@ -7,7 +8,6 @@
 * [2024-06-03, 08:30:30](https://lobste.rs/s/uud3hp/message_authentication_codes_for_safer) - [Message authentication codes for safer distributed transactions](https://mazzo.li/posts/mac-distributed-tx.html)
 * [2024-06-03, 08:27:15](https://lobste.rs/s/iae17g/cudf_gpu_dataframe_library) - [cuDF - GPU DataFrame Library](https://github.com/rapidsai/cudf)
 * [2024-06-03, 07:52:31](https://lobste.rs/s/oumpei/making_usb_devices_end_end_guide_your) - [Making USB devices - end to end guide to your first gadget](https://popovicu.com/posts/making-usb-devices/)
-* [2024-06-03, 07:41:19](https://lobste.rs/s/utqh3b/simdjson_library) - [The simdjson library](https://simdjson.org/)
 * [2024-06-03, 07:28:03](https://lobste.rs/s/yubugw/simd_detection_nested_quotes) - [SIMD detection of nested quotes](https://blog.sesse.net/blog/tech/2024-06-02-11-10_simd_detection_of_nested_quotes.html)
 * [2024-06-03, 07:22:49](https://lobste.rs/s/1tdstv/hacking_millions_modems_investigating) - [Hacking Millions of Modems (and Investigating Who Hacked My Modem)](https://samcurry.net/hacking-millions-of-modems)
 * [2024-06-03, 07:18:52](https://lobste.rs/s/pijq6t/working_as_unexpected) - [Working as unexpected](https://www.chainguard.dev/unchained/working-as-unexpected)
