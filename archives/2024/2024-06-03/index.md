@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-03](index.md)
 
+* [2024-06-03, 14:34:25](https://lobste.rs/s/m3nk6r/fmt_modern_c_string_formatting_library) - [fmt: a modern C++ string formatting library](https://fmt.dev/)
 * [2024-06-03, 14:02:39](https://lobste.rs/s/buc3da/overview_starlark_language) - [An overview of the Starlark language](https://laurent.le-brun.eu/blog/an-overview-of-starlark)
 * [2024-06-03, 13:40:54](https://lobste.rs/s/hwifwa/announcing_duckdb_1_0_0) - [Announcing DuckDB 1.0.0](https://duckdb.org/2024/06/03/announcing-duckdb-100.html)
 * [2024-06-03, 13:40:19](https://lobste.rs/s/rqaxqi/don_t_name_packages_common_nouns) - [Don't name packages common nouns](https://brandur.org/fragments/go-no-common-nouns)
