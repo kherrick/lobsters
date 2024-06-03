@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-03](index.md)
 
+* [2024-06-03, 13:33:33](https://lobste.rs/s/jw5g4d/i_sold_tinypilot_my_first_successful) - [I Sold TinyPilot, My First Successful Business](https://mtlynch.io/i-sold-tinypilot/)
 * [2024-06-03, 12:55:04](https://lobste.rs/s/ziyu9p/flicker_free_elite_on_bbc_micro_like_bbc) - [Flicker-free Elite on the BBC Micro (like the BBC Master)](https://stardot.org.uk/forums/viewtopic.php?t=22170)
 * [2024-06-03, 12:36:48](https://lobste.rs/s/ynuzui/lisp_icing_cake) - [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
 * [2024-06-03, 11:31:25](https://lobste.rs/s/gtm8ak/inotify_info_linux_inotify_info) - [inotify-info: Linux inotify info reporting app](https://github.com/mikesart/inotify-info)
