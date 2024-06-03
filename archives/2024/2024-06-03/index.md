@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-03](index.md)
 
+* [2024-06-03, 13:40:54](https://lobste.rs/s/hwifwa/announcing_duckdb_1_0_0) - [Announcing DuckDB 1.0.0](https://duckdb.org/2024/06/03/announcing-duckdb-100.html)
+* [2024-06-03, 13:40:19](https://lobste.rs/s/rqaxqi/don_t_name_packages_common_nouns) - [Don't name packages common nouns](https://brandur.org/fragments/go-no-common-nouns)
 * [2024-06-03, 13:33:33](https://lobste.rs/s/jw5g4d/i_sold_tinypilot_my_first_successful) - [I Sold TinyPilot, My First Successful Business](https://mtlynch.io/i-sold-tinypilot/)
 * [2024-06-03, 12:55:04](https://lobste.rs/s/ziyu9p/flicker_free_elite_on_bbc_micro_like_bbc) - [Flicker-free Elite on the BBC Micro (like the BBC Master)](https://stardot.org.uk/forums/viewtopic.php?t=22170)
 * [2024-06-03, 12:36:48](https://lobste.rs/s/ynuzui/lisp_icing_cake) - [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
