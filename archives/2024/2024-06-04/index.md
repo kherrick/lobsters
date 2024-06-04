@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
+* [2024-06-04, 07:44:49](https://lobste.rs/s/noazao/you_ll_regret_using_natural_keys) - [You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
 * [2024-06-04, 06:29:18](https://lobste.rs/s/ndyhzr/building_open_private_ai_with_mozilla) - [Building open, private AI with the Mozilla Builders Accelerator](https://blog.mozilla.org/en/mozilla/mozilla-builders-accelerator/)
 * [2024-06-04, 06:05:00](https://lobste.rs/s/rwwyst/corporate_agile_systems_who_is_fan) - [Corporate Agile 'systems' who is a fan?](https://lobste.rs/s/rwwyst/corporate_agile_systems_who_is_fan)
 * [2024-06-04, 05:41:23](https://lobste.rs/s/vwwtwf/ruminating_about_mutable_value) - [Ruminating about mutable value semantics](https://www.scattered-thoughts.net/writing/ruminating-about-mutable-value-semantics)
