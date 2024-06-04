@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
+* [2024-06-04, 15:56:42](https://lobste.rs/s/dzeynf/dsl_for_implementing_math_functions) - [A DSL for Implementing Math Functions](https://blog.sigplan.org/2024/06/03/a-dsl-for-implementing-math-functions/)
+* [2024-06-04, 15:53:20](https://lobste.rs/s/t438ba/pypy_known_bits_jit_optimization) - [the PyPy \"known bits\" JIT optimization](https://mastodon.social/@cfbolz/112557672421317765)
 * [2024-06-04, 15:38:01](https://lobste.rs/s/4hjitg/road_less_scheduled) - [The Road Less Scheduled](https://arxiv.org/abs/2405.15682)
 * [2024-06-04, 13:51:25](https://lobste.rs/s/yc0v3m/how_i_made_3d_level_2d_game) - [How I made a 3D Level in a 2D Game](https://youtu.be/Qvlb-Yo6Rqo)
 * [2024-06-04, 13:20:52](https://lobste.rs/s/mvxhm7/rethinking_mathematics_attention) - [Rethinking the Mathematics of Attention Mechanism](https://arxiv.org/abs/2403.01643)
