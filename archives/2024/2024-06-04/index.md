@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
+* [2024-06-04, 16:50:47](https://lobste.rs/s/tssty3/import_dhcp6leased_8) - [Import dhcp6leased(8)](https://marc.info/?l=openbsd-cvs&m=171733108907232&w=2)
 * [2024-06-04, 16:23:22](https://lobste.rs/s/u1okfl/gpu_puzzles_solve_puzzles_learn_cuda) - [GPU-Puzzles: Solve puzzles. Learn CUDA](https://github.com/srush/GPU-Puzzles)
 * [2024-06-04, 15:56:42](https://lobste.rs/s/dzeynf/dsl_for_implementing_math_functions) - [A DSL for Implementing Math Functions](https://blog.sigplan.org/2024/06/03/a-dsl-for-implementing-math-functions/)
 * [2024-06-04, 15:53:20](https://lobste.rs/s/t438ba/pypy_known_bits_jit_optimization) - [the PyPy \"known bits\" JIT optimization](https://mastodon.social/@cfbolz/112557672421317765)
