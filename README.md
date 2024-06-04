@@ -2,11 +2,11 @@
 
 * [2024-06-04, 15:56:42](https://lobste.rs/s/dzeynf/dsl_for_implementing_math_functions) - [A DSL for Implementing Math Functions](https://blog.sigplan.org/2024/06/03/a-dsl-for-implementing-math-functions/)
 * [2024-06-04, 15:53:20](https://lobste.rs/s/t438ba/pypy_known_bits_jit_optimization) - [the PyPy \"known bits\" JIT optimization](https://mastodon.social/@cfbolz/112557672421317765)
+* [2024-06-04, 15:38:01](https://lobste.rs/s/4hjitg/road_less_scheduled) - [The Road Less Scheduled](https://arxiv.org/abs/2405.15682)
 * [2024-06-04, 12:46:28](https://lobste.rs/s/7c9kku/solving_zelda_with_antithesis_sdk) - [Solving Zelda with the Antithesis SDK](https://antithesis.com/blog/zelda/)
 * [2024-06-04, 12:42:14](https://lobste.rs/s/jsxewl/really_divisionless_random_numbers) - [really divisionless random numbers](https://dotat.at/@/2022-04-20-really-divisionless.html)
 * [2024-06-04, 12:10:57](https://lobste.rs/s/vbdzzl/proposal_terraform_plan_light) - [Proposal: terraform plan -light](https://www.bejarano.io/terraform-plan-light/)
 * [2024-06-04, 12:01:35](https://lobste.rs/s/sbibrh/regular_recursive_restricted) - [Regular, Recursive, Restricted](https://matklad.github.io/2024/06/04/regular-recursive-restricted.html)
-* [2024-06-04, 09:16:46](https://lobste.rs/s/6sf46r/state_sourcehut_our_plans_for_future) - [The state of SourceHut and our plans for the future](https://sourcehut.org/blog/2024-06-04-status-and-plans/)
 * [2024-06-04, 07:44:49](https://lobste.rs/s/noazao/you_ll_regret_using_natural_keys) - [You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
 * [2024-06-04, 06:29:18](https://lobste.rs/s/ndyhzr/building_open_private_ai_with_mozilla) - [Building open, private AI with the Mozilla Builders Accelerator](https://blog.mozilla.org/en/mozilla/mozilla-builders-accelerator/)
 * [2024-06-04, 06:05:00](https://lobste.rs/s/rwwyst/corporate_agile_systems_who_is_fan) - [Corporate Agile 'systems' who is a fan?](https://lobste.rs/s/rwwyst/corporate_agile_systems_who_is_fan)
