@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-06-03, 22:26:25](https://lobste.rs/s/ip8tgm/development_4klang_softsynth) - [The development of the 4klang softsynth](http://zine.bitfellas.org/article.php?zine=14&id=35)
+* [2024-06-04, 01:36:47](https://lobste.rs/s/uhdxcb/freebsd_14_1_release_announcement) - [FreeBSD 14.1-RELEASE Announcement](https://www.freebsd.org/releases/14.1R/announce/)
+* [2024-06-04, 00:40:35](https://lobste.rs/s/vbp8wa/please_support_skip_main_content_on_your) - [Please support “skip to main content” on your docs site](https://technicalwriting.dev/a11y/skip.html)
 * [2024-06-03, 22:07:06](https://lobste.rs/s/nykxf6/libadwaita_splitting_gtk_design) - [Libadwaita: Splitting GTK and Design Language](https://tesk.page/2024/06/03/libadwaita-splitting-gtk-and-design-language/)
 * [2024-06-03, 21:02:44](https://lobste.rs/s/kgctwv/python_s_many_command_line_utilities) - [Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)
 * [2024-06-03, 18:27:09](https://lobste.rs/s/5eek62/my_portable_ergonomic_setup) - [My portable ergonomic setup](https://ntietz.com/blog/my-portable-ergonomic-setup/)
@@ -23,7 +24,6 @@
 * [2024-06-03, 07:28:03](https://lobste.rs/s/yubugw/simd_detection_nested_quotes) - [SIMD detection of nested quotes](https://blog.sesse.net/blog/tech/2024-06-02-11-10_simd_detection_of_nested_quotes.html)
 * [2024-06-03, 07:22:49](https://lobste.rs/s/1tdstv/hacking_millions_modems_investigating) - [Hacking Millions of Modems (and Investigating Who Hacked My Modem)](https://samcurry.net/hacking-millions-of-modems)
 * [2024-06-03, 07:07:42](https://lobste.rs/s/97so6c/84_24) - [84—24](https://84-24.org/)
-* [2024-06-03, 01:19:07](https://lobste.rs/s/kdlfeu/tricking_ios_into_animating_app_icons) - [Tricking iOS Into Animating App Icons](https://bryce.co/animated-app-icons/)
 * [2024-06-02, 21:18:36](https://lobste.rs/s/nzvoww/rust_is_not_about_memory_safety) - [rust is not about memory safety](https://o-santi.github.io/blog/rust-is-not-about-memory-safety/)
 
 ## [Archives](archives/index.md)
