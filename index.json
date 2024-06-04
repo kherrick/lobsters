@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-04, 05:41:23",
+      "https://lobste.rs/s/vwwtwf/ruminating_about_mutable_value"
+    ],
+    [
+      "Ruminating about mutable value semantics",
+      "https://www.scattered-thoughts.net/writing/ruminating-about-mutable-value-semantics"
+    ]
+  ],
+  [
+    [
       "2024-06-04, 05:16:43",
       "https://lobste.rs/s/nxshzc/using_dhall_manage_github_actions"
     ],
@@ -177,16 +187,6 @@
     [
       "Lisp: Icing or Cake?",
       "https://dthompson.us/posts/lisp-icing-or-cake.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-03, 11:31:25",
-      "https://lobste.rs/s/gtm8ak/inotify_info_linux_inotify_info"
-    ],
-    [
-      "inotify-info: Linux inotify info reporting app",
-      "https://github.com/mikesart/inotify-info"
     ]
   ],
   [
