@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-04, 05:16:43",
+      "https://lobste.rs/s/nxshzc/using_dhall_manage_github_actions"
+    ],
+    [
+      "Using Dhall To Manage GitHub Actions Workflows",
+      "https://exploring-better-ways.bellroy.com/using-dhall-to-manage-github-actions-workflows.html"
+    ]
+  ],
+  [
+    [
       "2024-06-04, 02:49:43",
       "https://lobste.rs/s/fbgsoc/announcing_brioche"
     ],
@@ -97,16 +107,6 @@
     [
       "What’s your preferred tech stack when building side projects?",
       "https://lobste.rs/s/lfpd7t/what_s_your_preferred_tech_stack_when"
-    ]
-  ],
-  [
-    [
-      "2024-06-03, 15:04:49",
-      "https://lobste.rs/s/dqtj50/experimenting_with_local_alt_text"
-    ],
-    [
-      "Experimenting with local alt text generation in Firefox Nightly",
-      "https://hacks.mozilla.org/2024/05/experimenting-with-local-alt-text-generation-in-firefox-nightly/"
     ]
   ],
   [
