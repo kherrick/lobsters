@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-04, 17:23:02",
+      "https://lobste.rs/s/lycdkf/fixing_usb_c_charging_on_powkiddy_v90_for_0"
+    ],
+    [
+      "Fixing USB-C charging on the PowKiddy V90 for $0.01",
+      "https://www.nfriedly.com/techblog/2021-10-10-v90-usb-c/"
+    ]
+  ],
+  [
+    [
       "2024-06-04, 17:10:13",
       "https://lobste.rs/s/xocitx/bddbddb_using_datalog_with_binary"
     ],
@@ -17,16 +27,6 @@
     [
       "Sound, Precise, and Fast Abstract Interpretation with Tristate Numbers",
       "https://arxiv.org/abs/2105.05398"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 16:50:47",
-      "https://lobste.rs/s/tssty3/import_dhcp6leased_8"
-    ],
-    [
-      "Import dhcp6leased(8)",
-      "https://marc.info/?l=openbsd-cvs&m=171733108907232&w=2"
     ]
   ],
   [
