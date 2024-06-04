@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
+* [2024-06-04, 17:56:12](https://lobste.rs/s/og8whq/why_do_electronic_components_have_such) - [Why Do Electronic Components Have Such Odd Values?](https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/)
 * [2024-06-04, 17:26:58](https://lobste.rs/s/ahs1ih/running_linux_on_ancient_netbook) - [Running Linux on an ancient Netbook](https://jahed.dev/2023/11/21/running-linux-on-an-ancient-netbook/)
 * [2024-06-04, 17:23:02](https://lobste.rs/s/lycdkf/fixing_usb_c_charging_on_powkiddy_v90_for_0) - [Fixing USB-C charging on the PowKiddy V90 for $0.01](https://www.nfriedly.com/techblog/2021-10-10-v90-usb-c/)
 * [2024-06-04, 17:10:13](https://lobste.rs/s/xocitx/bddbddb_using_datalog_with_binary) - [bddbddb: Using Datalog with Binary Decision Diagrams for Program Analysis](https://people.csail.mit.edu/mcarbin/papers/aplas05.pdf)

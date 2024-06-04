@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-04, 17:56:12](https://lobste.rs/s/og8whq/why_do_electronic_components_have_such) - [Why Do Electronic Components Have Such Odd Values?](https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/)
 * [2024-06-04, 17:26:58](https://lobste.rs/s/ahs1ih/running_linux_on_ancient_netbook) - [Running Linux on an ancient Netbook](https://jahed.dev/2023/11/21/running-linux-on-an-ancient-netbook/)
 * [2024-06-04, 17:23:02](https://lobste.rs/s/lycdkf/fixing_usb_c_charging_on_powkiddy_v90_for_0) - [Fixing USB-C charging on the PowKiddy V90 for $0.01](https://www.nfriedly.com/techblog/2021-10-10-v90-usb-c/)
-* [2024-06-04, 17:10:13](https://lobste.rs/s/xocitx/bddbddb_using_datalog_with_binary) - [bddbddb: Using Datalog with Binary Decision Diagrams for Program Analysis](https://people.csail.mit.edu/mcarbin/papers/aplas05.pdf)
 * [2024-06-04, 15:56:42](https://lobste.rs/s/dzeynf/dsl_for_implementing_math_functions) - [A DSL for Implementing Math Functions](https://blog.sigplan.org/2024/06/03/a-dsl-for-implementing-math-functions/)
 * [2024-06-04, 15:53:20](https://lobste.rs/s/t438ba/pypy_known_bits_jit_optimization) - [the PyPy \"known bits\" JIT optimization](https://mastodon.social/@cfbolz/112557672421317765)
 * [2024-06-04, 13:51:25](https://lobste.rs/s/yc0v3m/how_i_made_3d_level_2d_game) - [How I made a 3D Level in a 2D Game](https://youtu.be/Qvlb-Yo6Rqo)
