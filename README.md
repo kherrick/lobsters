@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-04, 16:23:22](https://lobste.rs/s/u1okfl/gpu_puzzles_solve_puzzles_learn_cuda) - [GPU-Puzzles: Solve puzzles. Learn CUDA](https://github.com/srush/GPU-Puzzles)
 * [2024-06-04, 15:56:42](https://lobste.rs/s/dzeynf/dsl_for_implementing_math_functions) - [A DSL for Implementing Math Functions](https://blog.sigplan.org/2024/06/03/a-dsl-for-implementing-math-functions/)
 * [2024-06-04, 15:53:20](https://lobste.rs/s/t438ba/pypy_known_bits_jit_optimization) - [the PyPy \"known bits\" JIT optimization](https://mastodon.social/@cfbolz/112557672421317765)
-* [2024-06-04, 15:38:01](https://lobste.rs/s/4hjitg/road_less_scheduled) - [The Road Less Scheduled](https://arxiv.org/abs/2405.15682)
+* [2024-06-04, 13:51:25](https://lobste.rs/s/yc0v3m/how_i_made_3d_level_2d_game) - [How I made a 3D Level in a 2D Game](https://youtu.be/Qvlb-Yo6Rqo)
 * [2024-06-04, 12:46:28](https://lobste.rs/s/7c9kku/solving_zelda_with_antithesis_sdk) - [Solving Zelda with the Antithesis SDK](https://antithesis.com/blog/zelda/)
 * [2024-06-04, 12:42:14](https://lobste.rs/s/jsxewl/really_divisionless_random_numbers) - [really divisionless random numbers](https://dotat.at/@/2022-04-20-really-divisionless.html)
 * [2024-06-04, 12:10:57](https://lobste.rs/s/vbdzzl/proposal_terraform_plan_light) - [Proposal: terraform plan -light](https://www.bejarano.io/terraform-plan-light/)
@@ -18,7 +19,6 @@
 * [2024-06-03, 21:02:44](https://lobste.rs/s/kgctwv/python_s_many_command_line_utilities) - [Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)
 * [2024-06-03, 18:27:09](https://lobste.rs/s/5eek62/my_portable_ergonomic_setup) - [My portable ergonomic setup](https://ntietz.com/blog/my-portable-ergonomic-setup/)
 * [2024-06-03, 15:25:13](https://lobste.rs/s/nybhsl/this_is_why_you_should_never_use_parser) - [This is why you should never use parser combinators and PEG](https://safinaskar.writeas.com/this-is-why-you-should-never-use-parser-combinators-and-peg)
-* [2024-06-03, 15:21:37](https://lobste.rs/s/ubxoua/why_are_vulnerabilities_out_control_2024) - [Why are vulnerabilities out of control in 2024?](https://opensourcesecurity.io/2024/06/03/why-are-vulnerabilities-out-of-control-in-2024/)
 * [2024-06-03, 15:21:21](https://lobste.rs/s/lfpd7t/what_s_your_preferred_tech_stack_when) - [What’s your preferred tech stack when building side projects?](https://lobste.rs/s/lfpd7t/what_s_your_preferred_tech_stack_when)
 * [2024-06-03, 14:40:58](https://lobste.rs/s/rvrl33/stop_scraping_my_git_forge) - [Stop Scraping my Git Forge](https://gabrielsimmer.com/blog/stop-scraping-git-forge)
 * [2024-06-03, 13:40:54](https://lobste.rs/s/hwifwa/announcing_duckdb_1_0_0) - [Announcing DuckDB 1.0.0](https://duckdb.org/2024/06/03/announcing-duckdb-100.html)
